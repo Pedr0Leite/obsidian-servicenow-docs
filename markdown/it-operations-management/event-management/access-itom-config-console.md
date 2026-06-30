@@ -15,17 +15,17 @@ breadcrumb: [Configure Event Management using Setup Hub, Configuring Event Manag
 
 # Access Event Management configuration console
 
-Access the [[r_ITOMApplications|IT Operations Management]] configuration console to set up [[c_EM|Event Management]] and configure AIOps capabilities.
+Access the IT Operations Management configuration console to set up Event Management and configure AIOps capabilities.
 
 ## Before you begin
 
-Verify that the [[itom-health-landing-page|ITOM AIOps]] and Now Assist for IT Operations Management plugins are installed.
+Verify that the ITOM AIOps and Now Assist for IT Operations Management plugins are installed.
 
 Role required: evt\_mgmt\_admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
     The Admin Home page opens.
 
@@ -39,12 +39,6 @@ Role required: evt\_mgmt\_admin
 
     The Configure IT Operations Management page opens.
 
-    \[Omitted image "aiops-admin-conf-itom-page.png"\] Alt text: The Configure IT Operations Management page where you can see the [[r-discovery|Discovery]] and the Event Management modules.
+    \[Omitted image "aiops-admin-conf-itom-page.png"\] Alt text: The Configure IT Operations Management page where you can see the Discovery and the Event Management modules.
 
-## Related
 
-- [[r_ITOMApplications|IT Operations Management]]
-- [[c_EM|Event Management]]
-- [[itom-health-landing-page|ITOM AIOps]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[r-discovery|Discovery]]

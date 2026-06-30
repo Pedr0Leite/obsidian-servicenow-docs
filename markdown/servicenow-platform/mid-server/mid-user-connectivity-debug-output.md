@@ -14,7 +14,7 @@ breadcrumb: [Resolving MID Server issues, MID Server reference, MID Server, Mana
 
 # Interpreting MID Server user debugging output
 
-Debugging output from the system log is available in either a summary or detailed view for [[mid-server-landing|MID Server]] user issues, but must be enabled manually.
+Debugging output from the system log is available in either a summary or detailed view for MID Server user issues, but must be enabled manually.
 
 To enable debugging and display all connectivity issues in either of the available formats, you must run a method manually on your instance. For instructions on enabling debugging, see [Test remediation efforts for MID Server user connectivity issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-connectivity-issues.md). For information about each error condition and how records are created in the MID Server Issue \[ecc\_agent\_issue\] table, see [MID Server user connectivity issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-connectivity-issues.md).
 
@@ -73,7 +73,7 @@ Network issues may also exist for these users who are NOT associated with MID Se
 
 In this example, no login attempts have been detected for **midserver2**, **local-midserver**, and **ardis.maison**, all of whom have the mid\_server role. Two of those users are associated with MID Servers that are marked **Down**. The other user is not associated with any MID Server. None of these users has attempted to log in to the system within the configured reporting interval. The system assumes that these users would make an attempt to log in unless network issues prevented them from doing so.
 
-**Note:** By default, the sampling period is 4 hours. However, during debugging or remediation, the sampling period can be reset to a value that matches the [[r_MIDServerHeartbeat|MID Server heartbeat]] interval of 5 minutes, or greater.
+**Note:** By default, the sampling period is 4 hours. However, during debugging or remediation, the sampling period can be reset to a value that matches the MID Server heartbeat interval of 5 minutes, or greater.
 
 \[Omitted image "MIDDebugNetworkIssue.png"\] Alt text: Detailed debugging log
 
@@ -92,7 +92,3 @@ In this example, a user with the mid\_server role has logged in successfully wit
 
 **Parent Topic:**[Resolving MID Server issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/r_MIDServerTroubleshooting.md)
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[r_MIDServerHeartbeat|MID Server heartbeat]]

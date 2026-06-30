@@ -22,7 +22,7 @@ Role required: sn\_process\_mining\_power\_user or sn\_process\_mining\_admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[analyst-workbench-overview|Process Mining Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Process Mining Workspace**.
 
 2.  On the side of the page, select the Process configurations icon \(\[Omitted image "icon-process-config.png"\] Alt text: Process configuration builder\).
 
@@ -40,7 +40,7 @@ Role required: sn\_process\_mining\_power\_user or sn\_process\_mining\_admin
 
 4.  Select from the list of the recommended automated improvement opportunities.
 
-    The recommendations are displayed based on your inputs in the [[project-view-screen|Process details page]]. To understand how you set the process perspectives, see [Configure process details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/process-details.md).
+    The recommendations are displayed based on your inputs in the Process details page. To understand how you set the process perspectives, see [Configure process details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/process-details.md).
 
     \[Omitted image "process-config-imp-opp.png"\] Alt text: Recommended improvement opportunities
 
@@ -61,7 +61,3 @@ Role required: sn\_process\_mining\_power\_user or sn\_process\_mining\_admin
 
 **Parent Topic:**[Create process configuration using Process Configuration Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/process-config-builder.md)
 
-## Related
-
-- [[analyst-workbench-overview|Process Mining workspace]]
-- [[project-view-screen|Process details page]]

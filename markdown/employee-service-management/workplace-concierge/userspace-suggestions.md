@@ -14,16 +14,16 @@ breadcrumb: [Configure workplace space suggestions for employees, Configure, Wor
 
 # User Space Suggestions
 
-Employee recommended workspace suggestions are cached in the User Space Suggestions \(sn\_wsd\_core\_user\_space\_suggestions\) table record. This table gets automatically updated when employees use the workplace preferences option to update their reservations, [[workplace-services|workplace services]], presence and collaborators information. Application uses this cached data while proposing a workspace suggestion to an employee.
+Employee recommended workspace suggestions are cached in the User Space Suggestions \(sn\_wsd\_core\_user\_space\_suggestions\) table record. This table gets automatically updated when employees use the workplace preferences option to update their reservations, workplace services, presence and collaborators information. Application uses this cached data while proposing a workspace suggestion to an employee.
 
 ## Before you begin
 
 The following plugins are required:
 
--   [[workplace-safety-mgmt-hr|Workplace Core]]
--   [[workplace-concierge-feat|Workplace Concierge]]
--   [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
--   [[workplace-space-mgmt-ovw|Workplace Space Management]]
+-   Workplace Core
+-   Workplace Concierge
+-   Workplace Reservation Management
+-   Workplace Space Management
 
 **Note:** Administrators don't have to configure or make updates to this table record. The data in this table is automatically updated based on the employee presence and workplace preferences data.
 
@@ -101,10 +101,3 @@ System ID of the default Reservable module that is used. For example, the **Desk
 
 [Create a reservation for a day in Workplace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/manage-schedule-emp-center.md)
 
-## Related
-
-- [[workplace-services|Workplace Services]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-concierge-feat|Workplace Concierge]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-space-mgmt-ovw|Workplace Space Management]]

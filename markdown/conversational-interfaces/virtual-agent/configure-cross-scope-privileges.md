@@ -15,7 +15,7 @@ breadcrumb: [Configure, Virtual Agent, Conversational Interfaces]
 
 # Configure cross-scope access privileges for topic blocks and custom controls
 
-Enable topic authors and developers to access [[virtual-agent-landing-page|Virtual Agent]] topic blocks and custom controls from other scoped applications.
+Enable topic authors and developers to access Virtual Agent topic blocks and custom controls from other scoped applications.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Role required: admin
 
 ## About this task
 
-Developers and topic authors may need to access [topic blocks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/topic-blocks-overview.md) and [custom controls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/custom-controls.md) created in other [[c_ApplicationScopes|application scopes]]. To give them access, define cross-scope privilege records for the appropriate applications. For more information on cross-scope privileges, see Cross-scope privilege record.
+Developers and topic authors may need to access [topic blocks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/topic-blocks-overview.md) and [custom controls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/custom-controls.md) created in other application scopes. To give them access, define cross-scope privilege records for the appropriate applications. For more information on cross-scope privileges, see Cross-scope privilege record.
 
 ## Procedure
 
@@ -53,7 +53,3 @@ The cross-scope privilege is listed in the Cross scope privileges \[sys\_scope\_
 
 **Parent Topic:**[Configuring Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-virtual-agent.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[c_ApplicationScopes|Application scopes]]

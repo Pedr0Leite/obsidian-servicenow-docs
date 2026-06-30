@@ -12,7 +12,7 @@ breadcrumb: [Use, Inbound email, Notifications, Configure core features, Adminis
 
 # Create an inbound email action
 
-Create [[actions-inbound-email|inbound email actions]] to define the actions that the system takes when an email is received.
+Create inbound email actions to define the actions that the system takes when an email is received.
 
 ## Before you begin
 
@@ -62,7 +62,7 @@ Action type
 
 </td><td>
 
-Select the type of action the instance takes. Select **Record Action** to modify a record in the instance, or select **Reply Email** to have the instance send an email back to the source of the [[ia-inbound-email-il|inbound email]].
+Select the type of action the instance takes. Select **Record Action** to modify a record in the instance, or select **Reply Email** to have the instance send an email back to the source of the inbound email.
 
 </td></tr><tr><td>
 
@@ -86,7 +86,7 @@ Redact sensitive data
 
 </td><td>
 
-Select this to mask sensitive data such as personal details, SSN, credit card details.**Note:** Available only when [[sensitive-data-redaction|Sensitive Data Redaction]] for Inbound Emails plugin is activated.
+Select this to mask sensitive data such as personal details, SSN, credit card details.**Note:** Available only when Sensitive Data Redaction for Inbound Emails plugin is activated.
 
 </td></tr><tr><td>
 
@@ -173,8 +173,8 @@ Enter the script that the action runs. Typically, this script uses the validator
  The following objects are available:
 
 -   **current**: access the record referred to by the inbound email. For example, `current.assigned_to` accesses the person assigned to the task.
--   **event**: access one of the [[r_DirectJDBCProbeParameters|parameters]] of the originating event. For example, `event.parm1` accesses the first parameter of the event or `event.parm2` for the second parameter. See [Events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/events.md) for more information.
--   **email**: access the inbound current email record. For example, `email.subject` accesses the content in the subject line of the email. See [[r_AccessingEmailObjsWithVars|Accessing email object variables]] for more information.
+-   **event**: access one of the parameters of the originating event. For example, `event.parm1` accesses the first parameter of the event or `event.parm2` for the second parameter. See [Events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/events.md) for more information.
+-   **email**: access the inbound current email record. For example, `email.subject` accesses the content in the subject line of the email. See [Accessing email object variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AccessingEmailObjsWithVars.md) for more information.
 -   **logger**: add a message to the log file with the source set to `email.<Sys ID of incoming email>`. For example: `logger.log ("Some information")`
 
 
@@ -204,13 +204,5 @@ Enter a number to define the order in which this email action should be processe
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[[use-inbound-email-action|Use Inbound email actions]]
+**Parent Topic:**[Use Inbound email actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/use-inbound-email-action.md)
 
-## Related
-
-- [[r_AccessingEmailObjsWithVars|Accessing email object variables]]
-- [[use-inbound-email-action|Use Inbound email actions]]
-- [[actions-inbound-email|Inbound email actions]]
-- [[ia-inbound-email-il|Inbound email]]
-- [[sensitive-data-redaction|Sensitive data redaction]]
-- [[r_DirectJDBCProbeParameters|Parameters]]

@@ -15,7 +15,7 @@ breadcrumb: [Agile in CWM, Use, Collaborative Work Management, Strategic Portfol
 
 # Task dependencies and relationships in CWM
 
-Increase visibility into how work is connected by linking work items directly in [[cwm-landing|Collaborative Work Management]] \(CWM\), eliminating the need to track dependencies in spreadsheets or notes fields.
+Increase visibility into how work is connected by linking work items directly in Collaborative Work Management \(CWM\), eliminating the need to track dependencies in spreadsheets or notes fields.
 
 In CWM, you can link any task-type work item to another to show how pieces of work relate to each other. Relationships are informational and team members can progress on a work item regardless of the state of its linked items. Relationships can be created across Boards and Spaces, giving teams visibility into cross-team dependencies for their work.
 
@@ -54,7 +54,7 @@ When a work item has one or more relationships, a relationships indicator icon a
 
 -   Planning items such as Epics can’t be added as prerequisites because they aren’t derived from the Task \[task\] table.
 -   You can add a work item as a dependency on if you have permission to view that item.
--   Relationships have no effect on percent complete calculations for CWM Tasks or Boards in [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace.
+-   Relationships have no effect on percent complete calculations for CWM Tasks or Boards in Strategic Planning Workspace.
 -   If a story in the Story \[rm\_story\] table already has prerequisite and dependent stories associated to it, those details are shown in CWM.
 -   Adding a story-type work item as a relationship to another story syncs with the prerequisite and dependent fields in the Story \[rm\_story\] table.
 -   Adding a non-story-type work item as a relationship to a story does not sync with the Story \[rm\_story\] table.
@@ -73,7 +73,3 @@ Unlink a relationship between work items in Collaborative Work Management \(CWM\
 
 [Scrum tasks for stories in CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/managing-scrum-tasks-for-stories-cwm.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

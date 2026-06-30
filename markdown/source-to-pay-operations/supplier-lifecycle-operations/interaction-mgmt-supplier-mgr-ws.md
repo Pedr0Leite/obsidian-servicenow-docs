@@ -14,12 +14,12 @@ breadcrumb: [Using Source-to-Pay Workspace, Use, Supplier Lifecycle Operations, 
 
 # Interaction Management in Supplier Lifecycle Operations
 
-Interactions are a centralized location for all communication channels available in [[purch-order-mgmt-ws|Source-to-Pay Workspace]]. Interaction Management involves managing [[supplier|supplier]]-related queries from different sources, such as an email, chat, message, or SMS.
+Interactions are a centralized location for all communication channels available in Source-to-Pay Workspace. Interaction Management involves managing supplier-related queries from different sources, such as an email, chat, message, or SMS.
 
 -   **[View or create an interaction for a supplier](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-new-interaction.md)**  
 Typically, an interaction record is automatically created when you accept a chat through the chat queue in the Source-to-Pay Workspace. However, you can also manually create an interaction from the list page of the Source-to-Pay Workspace. You can link an interaction record to an existing supplier case or can assign a task, which needs a supplier manager's involvement for investigation.
 -   **[Associate an interaction record to a supplier case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)**  
-[[associate-interaction-supplier-case.dita|Associate an interaction record to a supplier case]] if your interaction is related to an existing supplier case in Source-to-Pay Workspace.
+Associate an interaction record to a supplier case if your interaction is related to an existing supplier case in Source-to-Pay Workspace.
 
 **Parent Topic:**[Using Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/use-supp-mgr-wsp.md)
 
@@ -54,8 +54,3 @@ Typically, an interaction record is automatically created when you accept a chat
 
 [Associate an interaction record to a supplier case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supplier|Supplier]]
-- [[associate-interaction-supplier-case.dita|Associate an interaction record to a supplier case]]

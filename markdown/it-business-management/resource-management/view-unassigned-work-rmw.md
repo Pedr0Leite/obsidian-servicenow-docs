@@ -18,12 +18,12 @@ Filter unassigned tasks to view custom requests to match with your organization'
 
 ## Before you begin
 
--   [[create-rsrc-asgnmnts-ppm|Create resource assignments]], or migrate your existing [[c_ResourcePlans|resource plans]] from Classic to Next Experience. For more information, see [Create resource assignments using Resource Management Workspace,](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/create-ra-rmw.md)[Create resource assignments using Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/create-ra-pws-rmw.md), or [Migrate resource plans to resource assignments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rsrc-plans-rsrc-asgmnts.md).
+-   Create resource assignments, or migrate your existing resource plans from Classic to Next Experience. For more information, see [Create resource assignments using Resource Management Workspace,](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/create-ra-rmw.md)[Create resource assignments using Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/create-ra-pws-rmw.md), or [Migrate resource plans to resource assignments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rsrc-plans-rsrc-asgmnts.md).
 -   Role required: resource\_user, resource\_manager
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[rsrc-mgmt-wrkspc|Resource Management Workspace]]**
+1.  Navigate to **Workspaces** &gt; **Resource Management Workspace**
 
 2.  Select the Resource cards icon \(\[Omitted image "rmw-resource-cards-L1-icon.png"\] Alt text: Resource cards icon.\) from the menu and open a resource card.
 
@@ -50,8 +50,3 @@ Filter unassigned tasks to view custom requests to match with your organization'
 
 **Parent Topic:**[Using Resource Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/using-rmw.md)
 
-## Related
-
-- [[create-rsrc-asgnmnts-ppm|Create resource assignments]]
-- [[c_ResourcePlans|Resource plans]]
-- [[rsrc-mgmt-wrkspc|Resource Management Workspace]]

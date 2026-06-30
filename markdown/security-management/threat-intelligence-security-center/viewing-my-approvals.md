@@ -22,7 +22,7 @@ Role required: sn\_sec\_tisc.analyst
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Imports**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center** &gt; **Imports**.
 
 2.  Select **Data Imports** &gt; **My Approvals**
 
@@ -57,6 +57,3 @@ Role required: sn\_sec\_tisc.analyst
 
 [Viewing my imports]()
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]

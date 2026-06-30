@@ -14,7 +14,7 @@ breadcrumb: [AI Desktop Actions, Enable AI experiences]
 
 Desktop actions enable you to automate repetitive tasks on your desktop and web applications. This capability helps you streamline repetitive tasks, improve efficiency, and integrate desktop application workflows into your ServiceNow processes.
 
-Desktop actions are tools that AI agents use to interact with web and desktop applications. When you configure an AI agent and select desktop action as a tool, you define whether the AI agent follows a defined path \(fixed steps designed in [[agentic-desktop-landing-page|AI Desktop Actions]]\) or an adaptive path \(high-level goal described in the tool configuration\). Unlike adaptive path desktop actions that dynamically plan execution, defined path desktop actions enable AI agents to execute preconfigured workflows through a fixed sequence of steps.
+Desktop actions are tools that AI agents use to interact with web and desktop applications. When you configure an AI agent and select desktop action as a tool, you define whether the AI agent follows a defined path \(fixed steps designed in AI Desktop Actions\) or an adaptive path \(high-level goal described in the tool configuration\). Unlike adaptive path desktop actions that dynamically plan execution, defined path desktop actions enable AI agents to execute preconfigured workflows through a fixed sequence of steps.
 
 ## Types of defined desktop actions
 
@@ -171,11 +171,11 @@ Enables AI agents to perform standard Windows system operations. For example, st
 
 You can create on-screen desktop actions in the following ways:
 
--   **[[auto-create-desktop-action-ad|Auto-capture screens and steps]]**
+-   **[Auto-capture screens and steps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/auto-create-desktop-action-ad.md)**
 
-    With Action recorder, you can record your interactions with desktop applications to create automated workflows. It records every step you take, including clicks, keystrokes, and data entry, along with visual and contextual information. By recording steps, you can automate tasks that replicate your interactions. You can save the recorded screens and steps as a reusable desktop action. For more information, see [[action-recorder-ad|Action recorder in AI Desktop Actions]].
+    With Action recorder, you can record your interactions with desktop applications to create automated workflows. It records every step you take, including clicks, keystrokes, and data entry, along with visual and contextual information. By recording steps, you can automate tasks that replicate your interactions. You can save the recorded screens and steps as a reusable desktop action. For more information, see [Action recorder in AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/action-recorder-ad.md).
 
--   **[[manual-create-desktop-action-ad|Manually capture screens and steps]]**
+-   **[Manually capture screens and steps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/manual-create-desktop-action-ad.md)**
 
     You can manually take a screen capture, add anchors and steps to automate a series of steps you perform on your computer, such as clicking buttons, typing text, or interacting with different applications, and then save this sequence as a reusable desktop action.
 
@@ -195,7 +195,7 @@ You can create on-screen desktop actions in the following ways:
 
 -   **Record steps**
 
-    Capture your interactions with desktop applications, including clicks, text input, and screen [[now-assist-global-navigation|navigation]].
+    Capture your interactions with desktop applications, including clicks, text input, and screen navigation.
 
 -   **Define steps**
 
@@ -227,7 +227,7 @@ Desktop actions support a wide range of desktop application interactions, includ
 **Related topics**  
 
 
-[[agentic-desktop-overview|AI Desktop Actions Design workspace]]
+[AI Desktop Actions Design workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/agentic-desktop-overview.md)
 
 [Action recorder in AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/action-recorder-ad.md)
 
@@ -235,20 +235,9 @@ Desktop actions support a wide range of desktop application interactions, includ
 
 [Extend a desktop action by manually capturing steps in AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/manual-create-desktop-action-ad.md)
 
-[[add-details-desktop-action-ad|Add details to desktop actions in AI Desktop Actions]]
+[Add details to desktop actions in AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/add-details-desktop-action-ad.md)
 
-[[test-activate-desktop-action-ad|Test and activate a desktop action in AI Desktop Actions]]
+[Test and activate a desktop action in AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/test-activate-desktop-action-ad.md)
 
-[[add-desktop-action-ai-agent|Add a defined desktop action tool to an AI agent for desktop and web-based task]]
+[Add a defined desktop action tool to an AI agent for desktop and web-based task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/add-desktop-action-ai-agent.md)
 
-## Related
-
-- [[auto-create-desktop-action-ad|Automate repetitive tasks by auto-capturing steps in AI Desktop Actions]]
-- [[action-recorder-ad|Action recorder in AI Desktop Actions]]
-- [[manual-create-desktop-action-ad|Extend a desktop action by manually capturing steps in AI Desktop Actions]]
-- [[agentic-desktop-overview|AI Desktop Actions Design workspace]]
-- [[add-details-desktop-action-ad|Add details to desktop actions in AI Desktop Actions]]
-- [[test-activate-desktop-action-ad|Test and activate a desktop action in AI Desktop Actions]]
-- [[add-desktop-action-ai-agent|Add a defined desktop action tool to an AI agent for desktop and web-based task]]
-- [[agentic-desktop-landing-page|AI Desktop Actions]]
-- [[now-assist-global-navigation|Navigation]]

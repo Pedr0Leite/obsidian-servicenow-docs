@@ -12,15 +12,15 @@ breadcrumb: [Recommended Actions for Service, Recommended Actions configuration,
 
 # Contexts in Recommended Actions for Customer Service
 
-A context enables agents to see recommendations for records from a table when certain [[gamification-components-rules|rules]] are met. These recommendations can help agents by suggesting actions to take based on the record context.
+A context enables agents to see recommendations for records from a table when certain rules are met. These recommendations can help agents by suggesting actions to take based on the record context.
 
-The [[configure-nba|Recommended Actions]] for Customer Service application provides context records for the Case and Interaction tables.
+The Recommended Actions for Customer Service application provides context records for the Case and Interaction tables.
 
 ## Case Context record
 
 The Recommended Actions for Customer Service application provides the Case Context record for the Case table.
 
-Context records include [[ra-csm-rules|rules]] and [[ra-csm-recommendations|recommendations]]. The Case Context record also includes search result mapping records for the search source tables. The following tables are mapped to specific guidance actions:
+Context records include [rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-rules.md) and [recommendations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-recommendations.md). The Case Context record also includes search result mapping records for the search source tables. The following tables are mapped to specific guidance actions:
 
 -   Knowledge
 -   Case
@@ -28,7 +28,7 @@ Context records include [[ra-csm-rules|rules]] and [[ra-csm-recommendations|reco
 -   Problem
 -   Change Request
 
-The remaining tables are mapped to the [[ra-csm-guidances-default-guidance-search|Default guidance for search results]] guidance action.
+The remaining tables are mapped to the [Default guidance for search results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-guidances-default-guidance-search.md) guidance action.
 
 ## Interaction Context record
 
@@ -65,10 +65,3 @@ The message includes information about how to configure the **contextSysID** pro
 
 The system logs all context activation and deactivation events along with the displayed alerts.
 
-## Related
-
-- [[ra-csm-rules|Rules in Recommended Actions]]
-- [[ra-csm-recommendations|Recommendations in Recommended Actions]]
-- [[ra-csm-guidances-default-guidance-search|Default guidance for search results]]
-- [[gamification-components-rules|Rules]]
-- [[configure-nba|Recommended Actions]]

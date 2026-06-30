@@ -14,7 +14,7 @@ breadcrumb: [Manage regulatory tasks, Regulatory Change Management, Governance, 
 
 # Manage a source document import task
 
-[[manage-source-document-import-tasks|Manage the source document import tasks]] that are associated with the source document alerts. When a source document alert is marked as applicable, a source import document task is created automatically.
+Manage the source document import tasks that are associated with the source document alerts. When a source document alert is marked as applicable, a source import document task is created automatically.
 
 ## Before you begin
 
@@ -26,11 +26,11 @@ A source document import task is used to ingest a particular source document tha
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[reg-change-mgmt-landing-page|Regulatory Change Management]] application** &gt; **Compliance Workspace**.
+1.  Navigate to **All** &gt; **Regulatory Change Management application** &gt; **Compliance Workspace**.
 
     The Regulatory Change Management application in the Compliance Workspace is displayed.
 
-2.  Navigate to **Lists** &gt; **[[list-view-of-reg-alerts|Regulatory Alerts]]** view.
+2.  Navigate to **Lists** &gt; **Regulatory Alerts** view.
 
 3.  Select the source document alert that you assessed previously and select the import document task.
 
@@ -265,8 +265,3 @@ The state of the source document import task is updated to **Awaiting Approval**
 
 See [Create a new action task for the alert](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/create-action-task-using-ws.md) and [Complete the action task associated with the alert](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/create-action-task-src-document-alert.md) for information on creating a new action task and completing an action task associated with the alert.
 
-## Related
-
-- [[manage-source-document-import-tasks|Manage the source document import tasks]]
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]
-- [[list-view-of-reg-alerts|Regulatory alerts]]

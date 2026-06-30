@@ -13,11 +13,11 @@ breadcrumb: [Reporting delivery plan issues, Use, Purchase Order Management, Sou
 
 # Submit a delivery plan change request from a purchase order line
 
-Submit a delivery plan change request directly from a [[purchase-order-table|purchase order]] line in the [[supplier-central|Supplier Collaboration Portal]].
+Submit a delivery plan change request directly from a purchase order line in the Supplier Collaboration Portal.
 
 ## Before you begin
 
-Verify that the [[supplier|supplier]] is also present in the [[supplier-contact|Supplier Contact]] \[sn\_slm\_contact\_m2m\_supplier\] table. This table stores information about supplier contacts and suppliers linked to them.
+Verify that the supplier is also present in the Supplier Contact \[sn\_slm\_contact\_m2m\_supplier\] table. This table stores information about supplier contacts and suppliers linked to them.
 
 Role required: sn\_slm.contact
 
@@ -29,7 +29,7 @@ Role required: sn\_slm.contact
 
 2.  From the My Company drop-down list of suppliers associated with your profile, select the supplier.
 
-3.  From the My Active items list, select the [[purchase-order-lines|purchase order lines]] count link.
+3.  From the My Active items list, select the purchase order lines count link.
 
 4.  From the list of purchase order lines, select a line.
 
@@ -41,7 +41,7 @@ Role required: sn\_slm.contact
 
 7.  On the Delivery plan change form, fill in the fields.
 
-    For a description of the field values, see [[create-delivery-plan-change|Delivery plan change form]].
+    For a description of the field values, see [Delivery plan change form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/create-delivery-plan-change.md).
 
 8.  Select **Submit**.
 
@@ -50,14 +50,5 @@ Role required: sn\_slm.contact
 
 The application creates an exception and assigns it to the operational buyer.
 
-**Parent Topic:**[[reporting-delivery-plan-issues|Reporting delivery plan issues]]
+**Parent Topic:**[Reporting delivery plan issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/reporting-delivery-plan-issues.md)
 
-## Related
-
-- [[create-delivery-plan-change|Delivery plan change form]]
-- [[reporting-delivery-plan-issues|Reporting delivery plan issues]]
-- [[purchase-order-table|Purchase order]]
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[supplier|Supplier]]
-- [[supplier-contact|Supplier contact]]
-- [[purchase-order-lines|Purchase order lines]]

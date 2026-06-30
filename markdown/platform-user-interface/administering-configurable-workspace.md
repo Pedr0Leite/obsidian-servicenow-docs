@@ -14,38 +14,28 @@ breadcrumb: [Configurable Workspace UI, Configure UIs and portals, Configure use
 
 Admins can enable additional features and make changes that affect the Configurable Workspace experience.
 
--   **[[open-your-configurable-workspace-experience-in-ui-builder|Open an experience in UI Builder]]**
+-   **[Open an experience in UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/open-your-configurable-workspace-experience-in-ui-builder.md)**
 
     Access your Configurable Workspace experience in UI Builder for editing.
 
--   **[[administer-lists-configurable-workspace|Lists]]**
+-   **[Lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/administer-lists-configurable-workspace.md)**
 
     Administer list features that aren't configured in UI Builder with components.
 
--   **[[administer-forms-configurable-workspace|Forms]]**
+-   **[Forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/administer-forms-configurable-workspace.md)**
 
     Administer form features that aren't configured in UI Builder with components.
 
--   **[[administer-activity-stream-configurable-workspace|Activity stream]]**
+-   **[Activity stream](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/administer-activity-stream-configurable-workspace.md)**
 
-    Administer [[activity-stream-configurable-workspace|Activity stream]] features that aren't configured in UI Builder with components.
+    Administer Activity stream features that aren't configured in UI Builder with components.
 
--   **[[administer-emails-configurable-workspace|Emails]]**
+-   **[Emails](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/administer-emails-configurable-workspace.md)**
 
     Administer email features that aren't configured in UI Builder with components.
 
--   **[[declarative-actions-landing|Declarative actions]]**
+-   **[Declarative actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/declarative-actions-landing.md)**
 
-    Engage with your Configurable Workspace [[form-configurable-workspace|forms]], fields, [[lists-configurable-workspace|lists]], and related list pages by adding custom actions.
+    Engage with your Configurable Workspace forms, fields, lists, and related list pages by adding custom actions.
 
-## Related
 
-- [[open-your-configurable-workspace-experience-in-ui-builder|Open a Configurable Workspace experience in UI Builder]]
-- [[administer-lists-configurable-workspace|Administering lists for Configurable Workspace]]
-- [[administer-forms-configurable-workspace|Administering forms for Configurable Workspace]]
-- [[administer-activity-stream-configurable-workspace|Administering Activity stream for Configurable Workspace]]
-- [[administer-emails-configurable-workspace|Administering emails in Configurable Workspace]]
-- [[declarative-actions-landing|Customizing Configurable Workspace with declarative actions]]
-- [[activity-stream-configurable-workspace|Activity stream]]
-- [[form-configurable-workspace|Forms]]
-- [[lists-configurable-workspace|Lists]]

@@ -14,7 +14,7 @@ breadcrumb: [Configuring Software Asset Management, Software Asset Management, I
 
 # Request Software Asset Management
 
-The ServiceNow® [[c_SoftwareAssetMgmt|Software Asset Management]] Professional \(com.snc.samp\) plugin requires a separate subscription. This plugin includes demo data. Depending on your environment, you may choose to request one or more related plugins.
+The ServiceNow® Software Asset Management Professional \(com.snc.samp\) plugin requires a separate subscription. This plugin includes demo data. Depending on your environment, you may choose to request one or more related plugins.
 
 ## Before you begin
 
@@ -42,7 +42,7 @@ Only ServiceNow personnel can activate the Software Asset Management Professiona
 
 2.  On the All Applications page, select **Request Plugin** to open the **Activate Plugin** form on Now Support.
 
-    \[Omitted image "request-plugin.png"\] Alt text: [[guided-setup-view-ccm-ws|Admin view]] of Activate Plugin form to capture details for activating the CSM Workspace plugin on a selected instance. For the text description, refer to the Activate Plugin form table.
+    \[Omitted image "request-plugin.png"\] Alt text: Admin view of Activate Plugin form to capture details for activating the CSM Workspace plugin on a selected instance. For the text description, refer to the Activate Plugin form table.
 
 3.  On Now Support, select the link to access the Now Support Service Portal Service Catalog.
 
@@ -102,7 +102,3 @@ The date and time to activate the plugin.
 
 **Parent Topic:**[Configuring Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/Config-sam-workspace.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[guided-setup-view-ccm-ws|Admin view]]

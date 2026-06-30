@@ -20,15 +20,15 @@ Role required: sn\_aia\_admin and either admin or at least one role required by 
 
 ## About this task
 
-After you [[configure-next-best-action-agent|create an AI agent]], test it to see that it functions the way that you defined it. You can choose to run a manual test with a single instruction to test its basic functioning, or you can evaluate the AI agent's performance across multiple executions.
+After you create an AI agent, test it to see that it functions the way that you defined it. You can choose to run a manual test with a single instruction to test its basic functioning, or you can evaluate the AI agent's performance across multiple executions.
 
-If you want to test multiple executions using execution logs, you can run an automated test. If you select **Start automated evaluation**, the agentic evaluation guided setup opens in a new browser tab. See [[execute-aia-eval|Evaluate an AI agent]] for more details about running a new automated evaluation.
+If you want to test multiple executions using execution logs, you can run an automated test. If you select **Start automated evaluation**, the agentic evaluation guided setup opens in a new browser tab. See [Evaluate an AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/execute-aia-eval.md) for more details about running a new automated evaluation.
 
 When manually testing performance, you can see how the AI agent interacts with the AI Agent Orchestrator and the Communicator AI agent. The Orchestration is an agent that directs different AI agents, and the Communicator AI agent facilitates the communication between the user and other AI agents.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ai-agent-studio|AI Agent Studio]]** &gt; **Testing**.
+1.  Navigate to **All** &gt; **AI Agent Studio** &gt; **Testing**.
 
 2.  Select **Start manual test**.
 
@@ -36,9 +36,9 @@ When manually testing performance, you can see how the AI agent interacts with t
 
 3.  In the **Choose a test type** drop-down menu, select **AI agent or workflow**.
 
-    If you want to test user access security [[controls|controls]], see [[test-aia-access|Test AI agent user access]].
+    If you want to test user access security controls, see [Test AI agent user access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/test-aia-access.md).
 
-4.  Under **Choose a testing mode**, select the testing mode either as **[[now-assist-panel-premium|Premium Chat]]** or **Standard**.
+4.  Under **Choose a testing mode**, select the testing mode either as **Premium Chat** or **Standard**.
 
     **Note:** The Premium Chat testing mode is exclusively accessible when the Off Glide Conversation Server plugin \(com.glide.cs.offglide\) is installed. If the plugin is not installed, you will continue to access the standard testing playground.
 
@@ -46,7 +46,7 @@ When manually testing performance, you can see how the AI agent interacts with t
 
 6.  In the Version drop-down list, select the version of the AI agent you want to test.
 
-    See [[version-control|Version control for AI agents and agentic workflows]] for more information about creating and changing versions.
+    See [Version control for AI agents and agentic workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/version-control.md) for more information about creating and changing versions.
 
 7.  In the **Task** field, provide a concise summary of the task to be achieved.
 
@@ -67,7 +67,7 @@ Your AI agent starts to execute the test autonomously to resolve the task.
 
 \[Omitted image "aia-test-playground.png"\] Alt text: Output from a tested AI agent with the task given to it.
 
--   A simulated chat experience begins on the [[now-assist-center-now-assist-panel|Now Assist panel]] between your invoking user and AI agent.
+-   A simulated chat experience begins on the Now Assist panel between your invoking user and AI agent.
 -   At the top of the canvas, you can see information about the AI agent you're testing, including its name, version, and description.
 -   A diagram shows the tasks and communication of the AI agents that are working together to solve the case.
 -   A decision log records the thought process of each AI agent that is involved in solving the agentic workflow.
@@ -77,13 +77,3 @@ Your AI agent starts to execute the test autonomously to resolve the task.
 
 You can restart the entire testing process at any time by selecting **Restart**.
 
-## Related
-
-- [[execute-aia-eval|Execute an agentic evaluation run]]
-- [[test-aia-access|Test user access to an AI agent]]
-- [[version-control|Version control for AI agents and agentic workflows]]
-- [[configure-next-best-action-agent|Create an AI agent]]
-- [[ai-agent-studio|AI Agent Studio]]
-- [[controls|Controls]]
-- [[now-assist-panel-premium|Premium chat]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]

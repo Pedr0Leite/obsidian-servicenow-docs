@@ -20,11 +20,11 @@ Add courses from external sources such as Udemy, Pluralsight, or Cornerstone to 
 
 Role required: sn\_wfo\_cfg\_itsm.manager
 
-You must integrate [[cf-coaching-landing|Coaching]] with third-party learning management systems. For information on how to perform this integration, see [Integrate Coaching with Learning with third-party learning management systems](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/integrate-learning-third-party-configurable-wfo-itsm.md).
+You must integrate Coaching with third-party learning management systems. For information on how to perform this integration, see [Integrate Coaching with Learning with third-party learning management systems](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/integrate-learning-third-party-configurable-wfo-itsm.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]** &gt; **Manager Workspace**.
+1.  Navigate to **All** &gt; **Workforce Optimization for ITSM** &gt; **Manager Workspace**.
 
 2.  Click the coaching icon.
 
@@ -48,7 +48,3 @@ You must integrate [[cf-coaching-landing|Coaching]] with third-party learning ma
 
 [Integrating Learning Core with third-party learning management systems](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/setup-learning-third-party-1.md)
 
-## Related
-
-- [[cf-coaching-landing|Coaching]]
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]

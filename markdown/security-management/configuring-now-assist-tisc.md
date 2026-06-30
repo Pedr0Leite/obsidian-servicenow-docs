@@ -12,7 +12,7 @@ breadcrumb: [Now Assist for Threat Intelligence Security Center, Security Operat
 
 # Configuring Now Assist for Threat Intelligence Security Center
 
-Use the Now Assist Admin console to configure and activate the generative AI skills for [[now-assist-tisc-landing|Now Assist for Threat Intelligence Security Center]].
+Use the Now Assist Admin console to configure and activate the generative AI skills for Now Assist for Threat Intelligence Security Center.
 
 ## Configuration overview
 
@@ -24,7 +24,7 @@ Use the Now Assist Admin console to configure Now Assist for Threat Intelligence
 
 To configure Now Assist for Threat Intelligence Security Center, complete the following tasks:
 
-1.  Verify that the [[tisc-landing-page|Threat Intelligence Security Center]] application is installed and active.
+1.  Verify that the Threat Intelligence Security Center application is installed and active.
 2.  Open the Now Assist Admin console.
 3.  Verify that users have the required roles to access Now Assist for Threat Intelligence Security Center features.
 
@@ -32,7 +32,3 @@ To configure Now Assist for Threat Intelligence Security Center, complete the fo
 
 To configure Now Assist for Threat Intelligence Security Center, a user must have the `admin` role.
 
-## Related
-
-- [[now-assist-tisc-landing|Now Assist for Threat Intelligence Security Center]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]

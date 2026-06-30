@@ -191,8 +191,5 @@ The components included in the Third-party Risk Management data model are as fol
 -   Engagement risk scoring rule \[sn\_vdr\_risk\_asmt\_engagement\_risk\_scoring\_rule\]
 -   Engagement level risk rating \[sn\_vdr\_risk\_asmt\_engagement\_level\_rating\]
 
-**Parent Topic:**[[grc-tprm-rn|Third-party Risk Management release notes]]
+**Parent Topic:**[Third-party Risk Management release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/grc-tprm-rn.md)
 
-## Related
-
-- [[grc-tprm-rn|Third-party Risk Management release notes]]

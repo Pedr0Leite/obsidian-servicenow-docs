@@ -33,7 +33,7 @@ The Shift Owner can use the configured template to create Shift Handover log rec
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sir-workspace-landing-page|Security Incident Response Workspace]]** &gt; **Administration**.
+1.  Navigate to **Workspaces** &gt; **Security Incident Response Workspace** &gt; **Administration**.
 
 2.  Navigate to **Shift Handover** &gt; **Template Configurations**.
 
@@ -169,17 +169,12 @@ ${section:References}
 
 ## What to do next
 
-To learn how to [[manage-shift-handover-records|Manage Shift Handover records]] in the list view and perform actions like create, edit, copy, or delete Shift Handover records, see [Manage Shift Handover records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/manage-shift-handover-records.md).
+To learn how to Manage Shift Handover records in the list view and perform actions like create, edit, copy, or delete Shift Handover records, see [Manage Shift Handover records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/manage-shift-handover-records.md).
 
 **Parent Topic:**[Configure Shift Handover](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/config-shift-handover.md)
 
 **Related topics**  
 
 
-[Create shifts through [[sir-landing-page|Security Incident Response]] Workspace]()
+[Create shifts through Security Incident Response Workspace]()
 
-## Related
-
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[manage-shift-handover-records|Manage Shift Handover records]]
-- [[sir-landing-page|Security Incident Response]]

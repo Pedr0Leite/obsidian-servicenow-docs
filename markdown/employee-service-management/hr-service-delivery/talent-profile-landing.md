@@ -14,7 +14,7 @@ breadcrumb: [Hiring Experiences, HR Service Delivery, Employee Service Managemen
 
 # Talent Profile
 
-Talent profile provides an aggregated view of internal and external talent types, enabling quicker [[hiring-tab-concept|hiring]] decisions by consolidating information on applicants, employees, contingent workers, and alumni in one place.
+Talent profile provides an aggregated view of internal and external talent types, enabling quicker hiring decisions by consolidating information on applicants, employees, contingent workers, and alumni in one place.
 
 ## Get started
 
@@ -32,7 +32,7 @@ Talent profile provides an aggregated view of internal and external talent types
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Important [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] information about Talent profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/talent-profile-reference.md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Important reference information about Talent profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/talent-profile-reference.md)
 
 </td></tr></tbody>
 </table>## Additional resources
@@ -43,7 +43,3 @@ Talent profile provides an aggregated view of internal and external talent types
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[hiring-tab-concept|Hiring]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

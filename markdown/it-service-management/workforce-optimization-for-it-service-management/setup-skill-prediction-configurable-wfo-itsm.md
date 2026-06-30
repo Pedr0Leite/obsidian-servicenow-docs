@@ -18,7 +18,7 @@ Collect skill data based on skills agents have used for incident resolution. Use
 
 ## Before you begin
 
-Predictive Intelligence must be set up and configured on your instance to train the [[c_Models|models]]. For more information, see [Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence.md).
+Predictive Intelligence must be set up and configured on your instance to train the models. For more information, see [Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence.md).
 
 Activate the Skill Recommendation application plugin \(com.snc.sre\) to use predictive intelligence for recommending skills.
 
@@ -42,6 +42,3 @@ Use scripted extension points to customize skill prediction for tasks.
 
 **Parent Topic:**[Skills Management in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/skills-management-wfo-itsm.md)
 
-## Related
-
-- [[c_Models|Models]]

@@ -14,7 +14,7 @@ breadcrumb: [Using Usage Insights, Usage Insights, Platform Analytics]
 
 # Viewing dashboards
 
-Create dashboards for [[c_performanceAnalyticsAndReporting|Platform Analytics]] directly in [[user-exp-analytics-landing|Usage Insights]]. View dashboards that you create in Usage Insights directly in Platform Analytics.
+Create dashboards for Platform Analytics directly in Usage Insights. View dashboards that you create in Usage Insights directly in Platform Analytics.
 
 ## Before you begin
 
@@ -48,10 +48,5 @@ For creating dashboards: analytics\_admin or analytics\_viewer.
 **Related topics**  
 
 
-[[create-db-in-ac|Create a dashboard with the in-line editor]]
+[Create a dashboard with the in-line editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-db-in-ac.md)
 
-## Related
-
-- [[create-db-in-ac|Create a dashboard with the in-line editor]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[user-exp-analytics-landing|Usage Insights]]

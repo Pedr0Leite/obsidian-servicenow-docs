@@ -28,7 +28,7 @@ The ServiceNow® Health and Safety Risk Management application provides capabili
 
 </td><td>
 
-[Submit [[hs-job-safety-analysis|Job Safety Analysis]] \(JSA\)\[Omitted image "bus-task-list.svg"\] Alt text:Submit JSAs for high-risk jobs and tasks at your point of work.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-submit-jsa-emp-center.md)
+[Submit Job Safety Analysis \(JSA\)\[Omitted image "bus-task-list.svg"\] Alt text:Submit JSAs for high-risk jobs and tasks at your point of work.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-submit-jsa-emp-center.md)
 
 </td></tr><tr><td>
 
@@ -36,11 +36,11 @@ The ServiceNow® Health and Safety Risk Management application provides capabili
 
 </td><td>
 
-[Perform [[hs-safety-inspections|safety inspections and audits]]\[Omitted image "bus-compliance.svg"\] Alt text:Schedule, assign, and conduct workplace safety inspections and audits.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-safety-inspections.md)
+[Perform safety inspections and audits\[Omitted image "bus-compliance.svg"\] Alt text:Schedule, assign, and conduct workplace safety inspections and audits.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-safety-inspections.md)
 
 </td><td>
 
-[Manage [[hs-safety-registers|safety registers]]\[Omitted image "bus-whitepaper.svg"\] Alt text:Log hazardous materials along with Safety Data Sheets \(SDSs\).​](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-safety-registers.md)
+[Manage safety registers\[Omitted image "bus-whitepaper.svg"\] Alt text:Log hazardous materials along with Safety Data Sheets \(SDSs\).​](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-safety-registers.md)
 
 </td></tr><tr><td>
 
@@ -52,7 +52,7 @@ The ServiceNow® Health and Safety Risk Management application provides capabili
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about components such as roles, tables, and store applications that are installed.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-risk-mgmt-[[reference-hr-service-delivery-advanced-integration-with-workday|reference]].md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about components such as roles, tables, and store applications that are installed.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-risk-mgmt-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -61,9 +61,3 @@ The ServiceNow® Health and Safety Risk Management application provides capabili
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[hs-job-safety-analysis|Job safety analysis]]
-- [[hs-safety-inspections|Safety inspections and audits]]
-- [[hs-safety-registers|Safety registers]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

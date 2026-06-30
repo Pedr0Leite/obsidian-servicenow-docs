@@ -22,7 +22,7 @@ Role required: admin, financial\_mgmt\_admin, or financial\_mgmt\_user
 
 ## About this task
 
-Use a hierarchy if it makes sense for your organization. In the example below, the last two expense lines are a level under [[c_ExpenseLine|expense line]] number EXP0010001.
+Use a hierarchy if it makes sense for your organization. In the example below, the last two expense lines are a level under expense line number EXP0010001.
 
 \[Omitted image "ExpenseLinesInherited.png"\] Alt text: Expense lines hierarchy
 
@@ -30,7 +30,7 @@ Use a hierarchy if it makes sense for your organization. In the example below, t
 
 1.  Navigate to **All** &gt; **Costs** &gt; **Expense Lines**.
 
-2.  Open an expense line record, or click **New** to [[t_CreatingANewExpenseLine|create a new expense line]].
+2.  Open an expense line record, or click **New** to create a new expense line.
 
 3.  Complete the form.
 
@@ -73,7 +73,3 @@ Use a hierarchy if it makes sense for your organization. In the example below, t
 
 [c_CreatingFixedAssets]
 
-## Related
-
-- [[c_ExpenseLine|Expense Line]]
-- [[t_CreatingANewExpenseLine|Create a new expense line]]

@@ -22,7 +22,7 @@ Role required: sn\_process\_mining\_power\_user or sn\_process\_mining\_admin
 
 ## About this task
 
-Providing the information in the [[project-view-screen|Process details page]] helps you in the following ways:
+Providing the information in the Process details page helps you in the following ways:
 
 -   Guides you to create projects by providing recommendations for the fields for your analysis. The fields that you specify for state and team definitions are provided as recommendations for activity definitions when creating a project. For more information about how the recommended fields are displayed when setting activity definitions, see the table in the [Set activity definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/set-activity-def.md) section.
 -   Unlocks different impact metrics like idle time. The mapping of the state with the stake holders helps in identifying idle time in the process.
@@ -30,7 +30,7 @@ Providing the information in the [[project-view-screen|Process details page]] he
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[analyst-workbench-overview|Process Mining Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Process Mining Workspace**.
 
 2.  On the side panel, select the Process configurations icon \(\[Omitted image "icon-process-config.png"\] Alt text: Process configuration builder\).
 
@@ -61,7 +61,7 @@ Providing the information in the [[project-view-screen|Process details page]] he
 
     3.  Select **Map state reponsibilities** to map each state with a stakeholder who is responsible for moving the records to the next process state.
 
-        Mapping states with stakeholders enables you to take advantage of advanced [[process-mining|process mining]] features, such as idle-time analysis.
+        Mapping states with stakeholders enables you to take advantage of advanced process mining features, such as idle-time analysis.
 
         -   Assign each process state to the appropriate stakeholder responsibility.
         -   Look for the required fields marked with an asterisk \(\*\) to ensure completeness.
@@ -103,8 +103,3 @@ Providing the information in the [[project-view-screen|Process details page]] he
 
 **Parent Topic:**[Create process configuration using Process Configuration Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/process-config-builder.md)
 
-## Related
-
-- [[project-view-screen|Process details page]]
-- [[analyst-workbench-overview|Process Mining workspace]]
-- [[process-mining|Process Mining]]

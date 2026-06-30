@@ -34,12 +34,10 @@ The `sn_vulc.exception_max_request_days` property is used to specify the maximum
 
 3.  Click on the property name to open the System Property record.
 
-4.  To be able to edit this record, ensure that [[vr-config-compliance-landing|Configuration Compliance]] is selected as the current application.
+4.  To be able to edit this record, ensure that Configuration Compliance is selected as the current application.
 
 5.  Enter a positive **Value** and click **Update**.
 
     The record is updated and saved.
 
-## Related
 
-- [[vr-config-compliance-landing|Configuration Compliance]]

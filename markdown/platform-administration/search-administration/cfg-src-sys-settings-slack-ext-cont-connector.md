@@ -15,7 +15,7 @@ breadcrumb: [Slack external content connector, Configure, External Content Conne
 
 # Configure Slack for external content indexing
 
-Create a Slack API application to allow the [[slack-external-content-connector|Slack external content connector]] to crawl public channels in your Slack source system.
+Create a Slack API application to allow the Slack external content connector to crawl public channels in your Slack source system.
 
 ## Before you begin
 
@@ -130,6 +130,3 @@ For details on creating and configuring a Slack external content connector, see 
 
 **Parent Topic:**[Slack external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/slack-external-content-connector.md)
 
-## Related
-
-- [[slack-external-content-connector|Slack external content connector]]

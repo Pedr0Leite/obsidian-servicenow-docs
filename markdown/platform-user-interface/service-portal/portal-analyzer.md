@@ -14,7 +14,7 @@ breadcrumb: [Analyzing portal performance and usage, Service Portal, Configure U
 
 # Get a list of widgets per page
 
-Get a summary of all widgets that appear on [[c_ServicePortal|Service Portal]] pages. Use this data to better understand widget customizations and page usage.
+Get a summary of all widgets that appear on Service Portal pages. Use this data to better understand widget customizations and page usage.
 
 ## Before you begin
 
@@ -44,7 +44,7 @@ Use the exported list to consider which pages and widgets to focus on while rede
 
 4.  In the navigation filter, enter `sp_portal_analyzer.list`.
 
-5.  Review the list and, if needed, export it as a CSV, Excel, XML, JSON, or PDF file to [[onboarding-modals-reference|reference]] during a system upgrade.
+5.  Review the list and, if needed, export it as a CSV, Excel, XML, JSON, or PDF file to reference during a system upgrade.
 
     For more information on exporting list data, see [List export](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/export-list-data.md).
 
@@ -56,7 +56,3 @@ Use the exported list to consider which pages and widgets to focus on while rede
 
 [Scheduled jobs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ScheduledJobs.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[onboarding-modals-reference|Reference]]

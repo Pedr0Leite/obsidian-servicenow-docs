@@ -14,7 +14,7 @@ breadcrumb: [Securing and encrypting MID Server data, MID Server, Manage instanc
 
 # MID Server authentication credentials and SOAP requests
 
-Set basic authentication credentials to update the web service invocation data. For added security, you can enforce basic authentication on each incoming SOAP request to the [[mid-server-landing|MID Server]].
+Set basic authentication credentials to update the web service invocation data. For added security, you can enforce basic authentication on each incoming SOAP request to the MID Server.
 
 <table id="table_ahc_jv4_nhb"><tbody><tr><td>
 
@@ -76,7 +76,7 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **System Properties** &gt; **Web Services**.
 
-2.  Select the [[check-box|check box]] for **Require basic authorization for incoming SOAP requests**.
+2.  Select the check box for **Require basic authorization for incoming SOAP requests**.
 
 3.  Click **Save**.
 
@@ -90,7 +90,4 @@ Role required: admin
 
         For example, you might enter **&lt;parameter name="mid.instance.password" value="abc123"/&gt;.**
 
-## Related
 
-- [[mid-server-landing|MID Server]]
-- [[check-box|Check box]]

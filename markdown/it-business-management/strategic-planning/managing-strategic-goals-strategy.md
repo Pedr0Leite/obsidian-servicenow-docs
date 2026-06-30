@@ -16,7 +16,7 @@ breadcrumb: [Strategy and Goals, Strategic Planning, Strategic Portfolio Managem
 
 After creating a board, you can create strategic plans, priorities, goals, and targets that align with your strategic priorities to drive business outcomes.
 
-A strategy-based board supports the full [[alignment-planner-workspace-landing-page|strategic planning]] hierarchy, from organizational purpose to measurable outcomes. A goals-based board focuses on goal execution and outcome tracking. You can also create a combined [[strategy-goals-landing-page|strategy and goals]] board, which includes two pages—**Strategy** and **Goals**—to help you focus on both strategic planning and goal execution.
+A strategy-based board supports the full strategic planning hierarchy, from organizational purpose to measurable outcomes. A goals-based board focuses on goal execution and outcome tracking. You can also create a combined strategy and goals board, which includes two pages—**Strategy** and **Goals**—to help you focus on both strategic planning and goal execution.
 
 You can do the following in a board to manage your enterprise goals and drive business outcomes:
 
@@ -46,7 +46,3 @@ You can do the following in a board to manage your enterprise goals and drive bu
 
 \[Omitted image "strategy-goals-goals-page.png"\] Alt text: Creating and managing goals and targets in a board.
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[strategy-goals-landing-page|Strategy and Goals]]

@@ -14,25 +14,16 @@ breadcrumb: [Security Operations common functionality, Security Operations]
 
 A security annotation is a note of explanation or comments added to a configuration item, observable, or use on a security incident.
 
-Multiple security annotations are available for users and [[c_Observables|observables]] \(requires the [[threat-intel-landing-page|Threat Intelligence]] plugin\). Reports on security annotations are also available.
+Multiple security annotations are available for users and observables \(requires the Threat Intelligence plugin\). Reports on security annotations are also available.
 
--   **[[create-security-annotations|Create security annotations for CIs]]**  
+-   **[Create security annotations for CIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/create-security-annotations.md)**  
 Annotations on CIs allow you to track activity across incidents. You can add annotations to a single or multiple CIs.
--   **[[create-security-annotations-multiple|Create security annotations for observables]]**  
+-   **[Create security annotations for observables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/create-security-annotations-multiple.md)**  
 You can select a single or multiple observables and apply security annotations to them using the **Actions on selected rows** choice menu.
--   **[[create-multi-sec-annotations-for-users|Create security annotations for users]]**  
+-   **[Create security annotations for users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/create-multi-sec-annotations-for-users.md)**  
 You can select a single or multiple users and apply security annotations to them using the **Actions on selected rows** choice menu.
--   **[[view-security-annotations-report|View security annotations reports]]**  
+-   **[View security annotations reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/view-security-annotations-report.md)**  
 The Security Annotations report presents details stored in the Security Annotations \[sn\_sec\_cmn\_security\_annotations\] table. You can customize the columns in the report and group the data in any way that suits you.
 
-**Parent Topic:**[[sec-ops-common-functionality|Security Operations common functionality]]
+**Parent Topic:**[Security Operations common functionality](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sec-ops-common-functionality.md)
 
-## Related
-
-- [[create-security-annotations|Create security annotations for CIs]]
-- [[create-security-annotations-multiple|Create security annotations for observables]]
-- [[create-multi-sec-annotations-for-users|Create security annotations for users]]
-- [[view-security-annotations-report|View security annotations reports]]
-- [[sec-ops-common-functionality|Security Operations common functionality]]
-- [[c_Observables|Observables]]
-- [[threat-intel-landing-page|Threat Intelligence]]

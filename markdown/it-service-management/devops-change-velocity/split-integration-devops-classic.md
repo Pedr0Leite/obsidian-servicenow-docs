@@ -20,7 +20,7 @@ Connect to your Split.io instance to manage feature flags requests directly from
 
 Feature flags are used to turn code off and on in your production environment.
 
-This integration extends the ServiceNow platform to manage the CHG approval process for feature flags and segments of Split. This capability enables managing updates to feature flags from [[devops-landing-page-new|DevOps Change Velocity]].
+This integration extends the ServiceNow platform to manage the CHG approval process for feature flags and segments of Split. This capability enables managing updates to feature flags from DevOps Change Velocity.
 
 -   Split.io feature flag tool integration support enables discovery of workspaces, environments, segments, and feature flags.
 -   Users can set CHG request fields to enable Split.io for CHG control.
@@ -31,6 +31,3 @@ Create a Split tool record to connect and discover workspaces, environments, seg
 
 **Parent Topic:**[Integrating DevOps Change Velocity with third party tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/integrating-devops-change-with-third-party-tools.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]

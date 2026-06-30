@@ -14,7 +14,7 @@ breadcrumb: [Design themes, Style in Content Management, Configure Content Manag
 
 # Customize a design theme
 
-A theme is a collection of one or more [[c_StyleSheets|style sheets]] \(CSS files\) that define a consistent look for a set of pages.
+A theme is a collection of one or more style sheets \(CSS files\) that define a consistent look for a set of pages.
 
 ## Before you begin
 
@@ -45,6 +45,3 @@ Themes can be invoked in any of the following ways.
 
 **Parent Topic:**[Design themes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_DesignThemes.md)
 
-## Related
-
-- [[c_StyleSheets|Style sheets]]

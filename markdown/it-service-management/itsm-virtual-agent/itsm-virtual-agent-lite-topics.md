@@ -14,7 +14,7 @@ breadcrumb: [Setting up ITSM Virtual Agent Lite, ITSM Virtual Agent Lite, IT Ser
 
 # ITSM Virtual Agent Lite pre-built topics
 
-[[itsm-virtual-agent-lite|ITSM Virtual Agent Lite]] includes several pre-built, read-only topic conversations you can use to set up a virtual agent for your end users.
+ITSM Virtual Agent Lite includes several pre-built, read-only topic conversations you can use to set up a virtual agent for your end users.
 
 ## ITSM Virtual Agent Lite topics
 
@@ -29,6 +29,3 @@ breadcrumb: [Setting up ITSM Virtual Agent Lite, ITSM Virtual Agent Lite, IT Ser
 
 **Parent Topic:**[Setting up ITSM Virtual Agent Lite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/setup-itsm-virtual-agent-lite.md)
 
-## Related
-
-- [[itsm-virtual-agent-lite|ITSM Virtual Agent Lite]]

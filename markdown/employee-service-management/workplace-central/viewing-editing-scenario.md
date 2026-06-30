@@ -18,7 +18,7 @@ You can view the details like the floor details and space KPIs. You can edit a s
 
 **Important:** If allocation changes in your instance impact the scenario, the system displays a warning on the Space Details panel. You must review the changes, edit the scenario accordingly, then select **Move to valid** before continuing. For more information about allocation changes, see [Reviewing allocation changes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/reviewing-allocation-changes.md).
 
-\[Omitted image "wsd-central-review-changes.png"\] Alt text: Space details panel displaying a warning about [[reviewing-allocation-changes|reviewing allocation changes]].
+\[Omitted image "wsd-central-review-changes.png"\] Alt text: Space details panel displaying a warning about reviewing allocation changes.
 
 ## Viewing a scenario
 
@@ -28,7 +28,7 @@ You can view a scenario on the stack plan, or on the floor map. For more informa
 
 The Space details panel displays information about the spaces and profile assignments for a scenario. When you select a building, floor, or bar on the stack plan, the information is updated based on your selection.
 
-\[Omitted image "stack-plan-view.png"\] Alt text: [[scenario-planning|Scenario planning]] on [[workplace-central-feat|Workplace Central]] with the Stack plan tab selected. The space details tab displays the view options and KPIs for spaces and profile assignments.
+\[Omitted image "stack-plan-view.png"\] Alt text: Scenario planning on Workplace Central with the Stack plan tab selected. The space details tab displays the view options and KPIs for spaces and profile assignments.
 
 When you select spaces on the floor map, the Space details panel displays information based on your selection.
 
@@ -58,15 +58,15 @@ You can edit a scenario by using the stack plan, or by using the floor map. For 
 
 -   If **Neighborhood** is selected as the group by option, only assignments that have the **Neighborhood assignment** type are applicable. For any other group by option, assignments that have the **Location assignment** type are applicable.
 
--   Editing a scenario based on workplace entities is supported from [[workplace-space-mgmt-ovw|Workplace Space Management]] version 1.15.0. For earlier versions, you can view spaces based on their workplace entities for a building. For more information, see [Edit or view a building's spaces based on workplace entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/view-a-building-s-spaces-based-on-workplace-entities.md)
+-   Editing a scenario based on workplace entities is supported from Workplace Space Management version 1.15.0. For earlier versions, you can view spaces based on their workplace entities for a building. For more information, see [Edit or view a building's spaces based on workplace entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/view-a-building-s-spaces-based-on-workplace-entities.md)
 -   If you select Workplace Entity as the group by option, the bars of the stack plan are displayed based on the lowest node in the hierarchy. For example, if the hierarchy for the spaces is `Corporate\Europe\Information Technology\IT Support`, the bars are displayed for `IT Support`. While editing a scenario, you can select the entity level that you want to use for the stack plan.
 
 For more information about editing a scenario, see either of the following topics.
 
 -   **[Edit a scenario using the stack plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)**  
-[[edit-view-stackplan-multi-building|Edit a scenario using the stack plan]] to allocate spaces to departments, cost centers, workplace entities, or neighborhoods.
+Edit a scenario using the stack plan to allocate spaces to departments, cost centers, workplace entities, or neighborhoods.
 -   **[Edit a scenario using the floor map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)**  
-[[edit-view-scenario-floormap|Edit a scenario using the floor map]] to add or remove allocations, or to assign users to spaces in your organization.
+Edit a scenario using the floor map to add or remove allocations, or to assign users to spaces in your organization.
 -   **[Edit user assignments of a neighborhood](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/add-or-edit-user-assignments-of-a-neighbourhood.md)**  
 Add a user to a neighborhood or edit the existing user assignments of a neighborhood in a building.
 
@@ -97,11 +97,3 @@ Add a user to a neighborhood or edit the existing user assignments of a neighbor
 
 [Map based space administration]()
 
-## Related
-
-- [[reviewing-allocation-changes|Reviewing allocation changes]]
-- [[scenario-planning|Scenario Planning]]
-- [[workplace-central-feat|Workplace Central]]
-- [[workplace-space-mgmt-ovw|Workplace Space Management]]
-- [[edit-view-stackplan-multi-building|Edit a scenario using the stack plan]]
-- [[edit-view-scenario-floormap|Edit a scenario using the floor map]]

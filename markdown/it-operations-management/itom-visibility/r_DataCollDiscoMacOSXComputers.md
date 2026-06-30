@@ -14,13 +14,13 @@ breadcrumb: [Operating systems discovery, Data collected by ITOM Visibility, ITO
 
 # Mac \(OS/X\) discovery
 
-[[r-discovery|Discovery]] identifies and classifies information about Mac \(OS/X\) computers.
+Discovery identifies and classifies information about Mac \(OS/X\) computers.
 
 ## Credentials
 
 Configure [SSH credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/r_SSHCredentialsForm.md).
 
-For a list of privileged commands that you need for Discovery and [[c_ServiceMappingOverview|Service Mapping]], see [Service Mapping commands requiring a privileged user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/r_CommandsnCredentials.md). This list includes commands that require elevated rights to discover and map Unix-based hosts in your organization.
+For a list of privileged commands that you need for Discovery and Service Mapping, see [Service Mapping commands requiring a privileged user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/r_CommandsnCredentials.md). This list includes commands that require elevated rights to discover and map Unix-based hosts in your organization.
 
 **Note:** For information on Probe to Pattern migration see the knowledge article [KB0694477](https://support.servicenow.com/kb_view.do?sysparm_article=KB0694477).
 
@@ -68,7 +68,3 @@ For a list of privileged commands that you need for Discovery and [[c_ServiceMap
 
 **Parent Topic:**[Operating systems discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_Computers.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

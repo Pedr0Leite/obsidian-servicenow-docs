@@ -14,7 +14,7 @@ breadcrumb: [Service Graph Connector for Microsoft Defender for IoT \(On-premise
 
 # Configure the Service Graph Connector for Microsoft Defender for IoT \(On-premises Management Console\)
 
-Use the Guided Setup for the [[integration-sgc-microsoft-defender-iot-on-prem|Service Graph Connector for Microsoft Defender for IoT \(On-premises Management Console\)]] to lead you through the integration steps.
+Use the Guided Setup for the Service Graph Connector for Microsoft Defender for IoT \(On-premises Management Console\) to lead you through the integration steps.
 
 ## Before you begin
 
@@ -222,7 +222,7 @@ sn\_msftd4iotsgc.ot.vr.integration.id
 
 </td><td>
 
-If you are using the [[oper-tech-vulnerability-response-landing-page|Operational Technology Vulnerability Response]] application with the Service Graph for Microsoft Defender for IoT integration, provide the sys ID of the OT VR import record.**Note:** If the Operational Technology Vulnerability Response plugin is installed and this property field is left blank, the **Microsoft D4IoT Devices CVE Integration \(Delta Import\)** executes if Active is set to **true** on the record.
+If you are using the Operational Technology Vulnerability Response application with the Service Graph for Microsoft Defender for IoT integration, provide the sys ID of the OT VR import record.**Note:** If the Operational Technology Vulnerability Response plugin is installed and this property field is left blank, the **Microsoft D4IoT Devices CVE Integration \(Delta Import\)** executes if Active is set to **true** on the record.
 
 </td></tr></tbody>
 </table>    3.  Select **Save**.
@@ -241,7 +241,7 @@ If you are using the [[oper-tech-vulnerability-response-landing-page|Operational
 
     2.  Select **Mark as complete** once you complete the NIDS configuration linked in the description.
 
-10. To [[configure-import-schedules|configure import schedules]], complete the following:
+10. To configure import schedules, complete the following:
 
     1.  In the Configure Import Schedules section, select **Configure**.
 
@@ -265,8 +265,3 @@ If you are using the [[oper-tech-vulnerability-response-landing-page|Operational
 
 **Parent Topic:**[Service Graph Connector for Microsoft Defender for IoT \(On-premises Management Console\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/integration-sgc-microsoft-defender-iot-on-prem.md)
 
-## Related
-
-- [[integration-sgc-microsoft-defender-iot-on-prem|Service Graph Connector for Microsoft Defender for IoT \(On-premises Management Console\)]]
-- [[oper-tech-vulnerability-response-landing-page|Operational Technology Vulnerability Response]]
-- [[configure-import-schedules|Configure import schedules]]

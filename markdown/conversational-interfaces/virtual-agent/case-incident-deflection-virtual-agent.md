@@ -14,13 +14,13 @@ breadcrumb: [Build and deploy, Virtual Agent, Conversational Interfaces]
 
 # Case and incident deflection in Virtual Agent
 
-[[virtual-agent-landing-page|Virtual Agent]] provides several self-service options for your user that can help deflect tickets.
+Virtual Agent provides several self-service options for your user that can help deflect tickets.
 
 Deflection occurs when a user asks a question or makes a request that doesn't result in a ticket or human assistance. There are many ways that your customers can self-serve, including using AI Search and reading Knowledge articles. Virtual Agent provides a number of ways for your users to serve themselves.
 
 -   **[Now Assist in Virtual Agent enhanced chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/nava-enhanced-chat.md)**
 
-    [[now-assist-in-va-landing|Now Assist in Virtual Agent]] enhances the user experience by combining AI Search with generative AI chat skills. These skills can speed up issue resolution and reduce deflection to a live agent.
+    Now Assist in Virtual Agent enhances the user experience by combining AI Search with generative AI chat skills. These skills can speed up issue resolution and reduce deflection to a live agent.
 
 -   **[Issue Auto Resolution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/auto-resolution-va.md)**
 
@@ -54,7 +54,3 @@ Use the pre-built deflection topic block in ServiceNow® Virtual Agent to track 
 
 **Parent Topic:**[Building and deploying Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/using-virtual-agent.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]

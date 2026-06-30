@@ -12,7 +12,7 @@ breadcrumb: [Running on-demand scans, Run your first scan, Configure the Impact 
 
 # Initiate application scans
 
-Scan applications to identify definition findings before publishing to the application repository. Application scans give insight into health scores, the number of findings, and the total [[impact-landing-page|impact]] of findings within your custom applications. 
+Scan applications to identify definition findings before publishing to the application repository. Application scans give insight into health scores, the number of findings, and the total impact of findings within your custom applications. 
 
 ## Before you begin
 
@@ -30,9 +30,5 @@ Role required:
 3.  Select **Scan This Application**.
 
 
-**Parent Topic:**[[using-impact-scan-engine|Running on-demand scans]]
+**Parent Topic:**[Running on-demand scans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/using-impact-scan-engine.md)
 
-## Related
-
-- [[using-impact-scan-engine|Running on-demand scans]]
-- [[impact-landing-page|Impact]]

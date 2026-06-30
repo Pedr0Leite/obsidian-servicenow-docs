@@ -14,7 +14,7 @@ breadcrumb: [Use, Hiring tab, Hiring Experiences, HR Service Delivery, Employee 
 
 # Tracking an application record from the Hiring tab
 
-Track an application on a job requisition and view its corresponding details as a [[hiring-tab-concept|hiring]] manager.
+Track an application on a job requisition and view its corresponding details as a hiring manager.
 
 From the **Applications** tab of a job requisition, select an application record to view its details.
 
@@ -35,6 +35,3 @@ The **Feedback** tab displays the feedback received for the various interviews s
 
 **Parent Topic:**[Using Hiring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/use-hiring.md)
 
-## Related
-
-- [[hiring-tab-concept|Hiring]]

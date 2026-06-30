@@ -14,7 +14,7 @@ breadcrumb: [Managing tables and indexes, Table admin, Tables and data, Configur
 
 # Viewing table references and extensions
 
-View [[table-relationships|table relationships]] in a visual manner using the schema map.
+View table relationships in a visual manner using the schema map.
 
 The schema map displays the details of tables and their relationships visually, allowing administrators to view and easily access different parts of the database schema.
 
@@ -30,13 +30,9 @@ The schema map can also be printed directly from a browser.
 By default, each type of relationship is displayed. However, you can view or hide each type as needed.
 
 -   **[Generate a schema map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/t_GenerateASchemaMap.md)**  
-[[t_GenerateASchemaMap|Generate a schema map]] to view different parts of the database schema.
+Generate a schema map to view different parts of the database schema.
 -   **[Analyzing table relationships](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_ViewTheSchemaMap.md)**  
 The schema map shows the selected table in yellow, typically centered, and all tables related to that table, typically shown at the sides.
 
 **Parent Topic:**[Managing tables and indexes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/using-table-administration.md)
 
-## Related
-
-- [[table-relationships|Table relationships]]
-- [[t_GenerateASchemaMap|Generate a schema map]]

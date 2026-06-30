@@ -14,7 +14,7 @@ breadcrumb: [Now Assist for Security Incident Response, Security Operations]
 
 # Exploring Now Assist for Security Incident Response
 
-Your security analysts can use intelligent workflows and ServiceNow generative AI skills to help them triage, investigate, and [[t_ClosingSecIncidents|close security incidents]] within the flow of their work with the [[now-assist-security-incident-landing|Now Assist for Security Incident Response]] application.
+Your security analysts can use intelligent workflows and ServiceNow generative AI skills to help them triage, investigate, and close security incidents within the flow of their work with the Now Assist for Security Incident Response application.
 
 ## Now Assist for Security Incident Response overview
 
@@ -25,13 +25,13 @@ With generative AI skills and agentic workflows, your security analysts have the
 -   Generate post-incident analysis data.
 -   Generate performance metrics for your remediation teams with an agentic workflow.
 
-    For this feature, the [[security-operations-landing-page|Security operations]] metrics analysis skill is activated for use with an AI agent. See [Analyze security operations metrics agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/now-assist-for-security-incident-response-sir/assess-metrics-sir-aiagent.md) for more information.
+    For this feature, the Security operations metrics analysis skill is activated for use with an AI agent. See [Analyze security operations metrics agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/now-assist-for-security-incident-response-sir/assess-metrics-sir-aiagent.md) for more information.
 
 -   Generate a resolution plan.
 -   Generate closure notes.
 -   Generate correlation insights
 -   Generate shift handover reports
--   [[na-sir-generate-quality-assessment-report|Generate a quality assessment report]] for a security incident
+-   Generate a quality assessment report for a security incident
 
 Security analysts can share findings, incident details, and closure notes with other analysts, managers, and key stakeholders.
 
@@ -51,7 +51,7 @@ Security analysts and managers
 
 </td><td>
 
-[[qradar-ibm-create-profile-preview|Preview security incident]] details, see their potential impact, and view the key remediation actions already taken with security incident summaries using generative AI. Summaries and recommended next steps \(actions\) give analysts and managers a head start with their investigations and help with closing security incidents.Automatically generate a draft of closure notes using generative AI. Closure notes for security incidents are created quickly based on remediation and containment activities, in addition to other relevant details that are related to their closure.
+Preview security incident details, see their potential impact, and view the key remediation actions already taken with security incident summaries using generative AI. Summaries and recommended next steps \(actions\) give analysts and managers a head start with their investigations and help with closing security incidents.Automatically generate a draft of closure notes using generative AI. Closure notes for security incidents are created quickly based on remediation and containment activities, in addition to other relevant details that are related to their closure.
 
 </td></tr></tbody>
 </table>## Now Assist for Security Incident Response benefits
@@ -100,7 +100,7 @@ Generate security incident closure notes
 
 </td></tr><tr><td>
 
-Generate recommended next steps within the workflow upon request to help you [[close-sir-incident-aiagent|close a security incident]].
+Generate recommended next steps within the workflow upon request to help you close a security incident.
 
 </td><td>
 
@@ -126,7 +126,7 @@ Generate post-incident analysis
 
 </td></tr><tr><td>
 
-Connect current incidents to past events that involve the same affected users, configuration items \(CIs\), or [[c_Observables|observables]].
+Connect current incidents to past events that involve the same affected users, configuration items \(CIs\), or observables.
 
 </td><td>
 
@@ -143,7 +143,7 @@ Gain insight into how efficiently your security analysts are working with securi
 
 </td><td>
 
-GenerateSecurity Operation Center \(SOC\) Performance Analysis and get suggestions for improvement from an AI agent.**Note:** You must activate the Security operations metrics analysis skill if you want to use the [[assess-metrics-sir-aiagent|Analyze security operations metrics agentic workflow]].
+GenerateSecurity Operation Center \(SOC\) Performance Analysis and get suggestions for improvement from an AI agent.**Note:** You must activate the Security operations metrics analysis skill if you want to use the Analyze security operations metrics agentic workflow.
 
 </td><td>
 
@@ -187,7 +187,7 @@ Copy a skill and modify select related table fields, define the availability of 
 admin
 
 </td></tr></tbody>
-</table>## What to [[threat-intelligence-security-center-overview|explore]] next
+</table>## What to explore next
 
 To learn more about configuring and using Now Assist for Security Incident Response, see:
 
@@ -200,14 +200,3 @@ To learn more about configuring and using Now Assist for Security Incident Respo
 -   [Analyze security operations metrics agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/now-assist-for-security-incident-response-sir/assess-metrics-sir-aiagent.md)
 -   [Inputs and triggers for Now Assist for Security Incident Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/now-assist-for-security-incident-response-sir/input-triggers-now-assist-security-incident.md)
 
-## Related
-
-- [[t_ClosingSecIncidents|Close security incidents]]
-- [[now-assist-security-incident-landing|Now Assist for Security Incident Response]]
-- [[security-operations-landing-page|Security Operations]]
-- [[na-sir-generate-quality-assessment-report|Generate a quality assessment report]]
-- [[qradar-ibm-create-profile-preview|Preview security incident]]
-- [[close-sir-incident-aiagent|Close a security incident]]
-- [[c_Observables|Observables]]
-- [[assess-metrics-sir-aiagent|Analyze security operations metrics agentic workflow]]
-- [[threat-intelligence-security-center-overview|Explore]]

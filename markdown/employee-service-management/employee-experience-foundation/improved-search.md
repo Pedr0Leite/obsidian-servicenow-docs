@@ -14,9 +14,9 @@ breadcrumb: [Dynamic topic pages, Setup Employee Center browse experience featur
 
 # Search on the topic pages
 
-The new search functionality on the topic pages provides different filters, sorting options, to make searching data easier on [[employee-center-landing-page|Employee Center]].
+The new search functionality on the topic pages provides different filters, sorting options, to make searching data easier on Employee Center.
 
-The search functionality on the topic pages provides results for the Service Catalog items, the Knowledge Base, and the [[exploring-learning-exp|learning]] content.
+The search functionality on the topic pages provides results for the Service Catalog items, the Knowledge Base, and the learning content.
 
 -   It is available with the AI search functionality.
 -   It provides spell-checks, synonym detections, suggestions based on the keywords you're typing.
@@ -51,7 +51,4 @@ Role required: esc\_admin
 
 3.  Change the **Search Results Limit** to your desired number from the base system value 12.
 
-## Related
 
-- [[employee-center-landing-page|Employee Center]]
-- [[exploring-learning-exp|Learning]]

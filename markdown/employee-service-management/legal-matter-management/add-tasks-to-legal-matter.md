@@ -26,7 +26,7 @@ As a collaborator added to a legal matter, you can access and work on the legal 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Legal Request** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
 2.  In the Legal Counsel Center tab, select the list icon \[Omitted image "lsd-lcc-list-icon.png"\] Alt text:.
 
@@ -105,7 +105,7 @@ The state of the legal matter updates to Work in Progress.
     -   In the **Instructions** section, click **Add** to add instructions for the assigned user to do to complete the task.
     -   In the **Checklist** section, click **Create** to add to-do items to track the progress of activities in the matter task.
     -   If the matter type is set to Interview, then Interview Template component is visible in contextual sidebar.
-    **Important:** To use interview templates, you must first install the Interview Templates plugin \(com.sn\_interview\_templates\) and enable the Requested RCA of Interview Templates for [[legal-matter-management-landing-page|Legal Matter Management]] and Legal Counsel Center application scope.
+    **Important:** To use interview templates, you must first install the Interview Templates plugin \(com.sn\_interview\_templates\) and enable the Requested RCA of Interview Templates for Legal Matter Management and Legal Counsel Center application scope.
 
 8.  [Add an artifact \(folder\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/add-artifact-to-legal-matter.md) in which you or the assigned user can upload files related to the task or its investigation.
 
@@ -125,7 +125,3 @@ You can cancel a matter task if it no longer requires any action.
 
 **Parent Topic:**[Work on a legal matter]()
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[legal-matter-management-landing-page|Legal Matter Management]]

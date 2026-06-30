@@ -16,19 +16,13 @@ Configure the foundation data required for managing the digital forensics reques
 
 As an administrator, you can review the installed components and modify them or add new ones as applicable.
 
--   [[configure-forensics-search-sources|Configure a data source for digital forensics]]
--   [[add-fulfillments-steps-dft|Add fulfillment instructions and checklist for a data source]]
+-   [Configure a data source for digital forensics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/configure-forensics-search-sources.md)
+-   [Add fulfillment instructions and checklist for a data source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/add-fulfillments-steps-dft.md)
 
--   **[[install-legal-digital-forensics|Install Legal Digital Forensics]]**  
+-   **[Install Legal Digital Forensics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/install-legal-digital-forensics.md)**  
 You can install the Legal Digital Forensics application \(sn\_lg\_forensics\) if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they are not already installed.
 -   **[Configure a data source for digital forensics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/configure-forensics-search-sources.md)**  
 Configure a data source a requester can select in a digital forensics request as the source of potentially evidential data.
 
-**Parent Topic:**[[legal-digital-forensics-landing-page|Legal Digital Forensics]]
+**Parent Topic:**[Legal Digital Forensics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-digital-forensics-landing-page.md)
 
-## Related
-
-- [[configure-forensics-search-sources|Configure a data source for digital forensics]]
-- [[add-fulfillments-steps-dft|Add fulfillment instructions and checklist for a data source]]
-- [[install-legal-digital-forensics|Install Legal Digital Forensics]]
-- [[legal-digital-forensics-landing-page|Legal Digital Forensics]]

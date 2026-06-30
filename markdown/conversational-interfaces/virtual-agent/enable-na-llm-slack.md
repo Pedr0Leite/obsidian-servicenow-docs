@@ -14,7 +14,7 @@ breadcrumb: [Use Now Assist in VA conversations with Slack, Conversational Integ
 
 # Enable Now Assist in Virtual Agent for Slack
 
-Enable the large language model \(LLM\)-based conversational experience with Now Assist in your [[virtual-agent-landing-page|Virtual Agent]] integrated with Slack.
+Enable the large language model \(LLM\)-based conversational experience with Now Assist in your Virtual Agent integrated with Slack.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ Role required: admin
 
 3.  On the Now Assist skills for Platform page, select **View details**.
 
-4.  On the Conversational experience page, select **Set up [[now-assist-in-va-landing|Now Assist in Virtual Agent]]**.
+4.  On the Conversational experience page, select **Set up Now Assist in Virtual Agent**.
 
     You're directed to the Assistants page to select the Virtual Agent. For example, the **Now Assist in Virtual Agent \(default\)**.
 
@@ -61,7 +61,3 @@ Role required: admin
 
 **Parent Topic:**[Using Now Assist in Virtual Agent conversations with Slack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/na-va-llm-slack.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]

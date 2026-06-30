@@ -14,14 +14,14 @@ breadcrumb: [Reference, Supplier Lifecycle Operations, Finance and Supply Chain]
 
 # Primary data tables for Supplier Lifecycle Operations
 
-The primary data tables for Supplier Lifecycle Operations store important information about suppliers, [[supplier|supplier]] contacts, supplier email domains, product codes, supplier locations, and supplier payment information.
+The primary data tables for Supplier Lifecycle Operations store important information about suppliers, supplier contacts, supplier email domains, product codes, supplier locations, and supplier payment information.
 
 -   **[Supplier table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/slo-supplier-table.md)**  
 The Supplier \[sn\_fin\_supplier\] table stores important information about a supplier.
 -   **[Vendor Contact table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/slo-supp-contact-table.md)**  
 The Vendor Contact \[vm\_vdr\_contact\] table stores important information about a vendor contact.
 -   **[Supplier Contact table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/m2m-supplier-contact-table.md)**  
-The [[supplier-contact|Supplier Contact]] \[sn\_slm\_contact\_m2m\_supplier\] table stores information about supplier contacts and suppliers linked to them.
+The Supplier Contact \[sn\_slm\_contact\_m2m\_supplier\] table stores information about supplier contacts and suppliers linked to them.
 -   **[Supplier Email Domain table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/slo-supp-email-table.md)**  
 The Supplier Email Domain \[sn\_slm\_email\_domain\] table stores important information about the email domain of a supplier.
 -   **[Product Code table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/slo-prod-code-table.md)**  
@@ -60,7 +60,3 @@ The Supplier Payment Information \[sn\_fin\_supplier\_payment\] table stores imp
 
 [Supplier Lifecycle Operations glossary]()
 
-## Related
-
-- [[supplier|Supplier]]
-- [[supplier-contact|Supplier contact]]

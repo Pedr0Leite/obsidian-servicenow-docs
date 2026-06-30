@@ -22,7 +22,7 @@ Role required: sn\_audit.manager, sn\_audit\_ws.supervisor
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Audit** &gt; **[[audit-management-overview-ws|Audit Workspace]]**.
+1.  Navigate to **All** &gt; **Audit** &gt; **Audit Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "ListsIcon.jpg"\] Alt text: List icon.\).
 
@@ -191,6 +191,4 @@ Option to enable confidentiality of the record. Only the assigned confidential u
 
     You can monitor the status of the activity in the **State** banner of the Overview page.
 
-## Related
 
-- [[audit-management-overview-ws|Audit Workspace]]

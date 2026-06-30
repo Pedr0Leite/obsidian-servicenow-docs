@@ -14,7 +14,7 @@ breadcrumb: [Document references, Use, Document Management, Document Services, M
 
 # Create document reference from References
 
-Link [[doc-mgt-references|document references]] to any record directly from the [[reference-document-management|References]] list. You can easily see all documents linked to tables and target records.
+Link document references to any record directly from the References list. You can easily see all documents linked to tables and target records.
 
 ## Before you begin
 
@@ -43,7 +43,3 @@ Role required: admin
 
 **Parent Topic:**[Document references](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/doc-mgt-references.md)
 
-## Related
-
-- [[doc-mgt-references|Document references]]
-- [[reference-document-management|References]]

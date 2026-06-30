@@ -14,9 +14,9 @@ breadcrumb: [Reference, AI Search, Search administration, Configure core feature
 
 # Rule - Action Mapping form
 
-The Rule - Action Mapping form enables you to link a boost action to a result improvement rule in an [[ia-ai-search|AI Search]] search profile.
+The Rule - Action Mapping form enables you to link a boost action to a result improvement rule in an AI Search search profile.
 
-For information on configuring boost actions in [[result-improvement-rules-ais|result improvement rules]], see [Boost search results using a result improvement rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/boost-results-ais.md).
+For information on configuring boost actions in result improvement rules, see [Boost search results using a result improvement rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/boost-results-ais.md).
 
 <table id="table_ksn_hqd_2nb"><thead><tr><th>
 
@@ -68,7 +68,7 @@ Boost Type
 
 </td><td>
 
-Type of boost the action applies to search [[hs-results|results]] from the selected indexed source. Supported types include:
+Type of boost the action applies to search results from the selected indexed source. Supported types include:
 
 -   **Boost All Documents In Indexed Source**: Applies relevancy boost to every search result from the indexed source.
 -   **Boost By User Context \(dynamic\)**: Applies relevancy boost to search results from the indexed source if they include a value for the selected field that matches a field value specified in the dynamically populated user context.
@@ -81,7 +81,7 @@ Indexed Source
 
 </td><td>
 
-[[reference-email-admin|Reference]] to an indexed source. The boost action only applies to search results for records from this indexed source.
+Reference to an indexed source. The boost action only applies to search results for records from this indexed source.
 
 </td></tr><tr><td>
 
@@ -125,15 +125,8 @@ Matches A Synonym Dictionary
 
 </td><td>
 
-Synonym dictionary to check for [[synonyms-ais|synonyms]] that match a search result's value for the field selected in the **When** field. This field appears only when you select **Boost By Synonym Dictionary** as the boost type.
+Synonym dictionary to check for synonyms that match a search result's value for the field selected in the **When** field. This field appears only when you select **Boost By Synonym Dictionary** as the boost type.
 
 </td></tr></tbody>
 </table>**Parent Topic:**[AI Search reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/reference-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[result-improvement-rules-ais|Result improvement rules]]
-- [[hs-results|Results]]
-- [[reference-email-admin|Reference]]
-- [[synonyms-ais|Synonyms]]

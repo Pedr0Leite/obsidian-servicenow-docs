@@ -14,7 +14,7 @@ breadcrumb: [Subflows, Reference, Telecommunications Network Inventory]
 
 # Design Assign Connection Element Validation subflow
 
-The TNI Design Assign Connection Element Validation subflow enables you to validate the connection element records in the [[telecom-network-inventory|Telecommunications Network Inventory]] application. You can use this flow action to configure the activities in a [[telecommunications-circuit-design-resource-assignment|Design and Assign]] playbook for logical connection.
+The TNI Design Assign Connection Element Validation subflow enables you to validate the connection element records in the Telecommunications Network Inventory application. You can use this flow action to configure the activities in a Design and Assign playbook for logical connection.
 
 The TNI Design Assign Connection Element Validation subflow validates whether the connection element records required for the Assign connection element activity have already been used or not. If the connection elements are already used, the subflow passes the information.
 
@@ -66,7 +66,3 @@ If the connection element is already used, then the subflow passes the following
 
 [Design Assign Number Element Validation subflow]()
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[telecommunications-circuit-design-resource-assignment|Design and assign]]

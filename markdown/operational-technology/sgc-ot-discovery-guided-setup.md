@@ -16,7 +16,7 @@ Use the Guided Setup for the Service Graph Connector for ServiceNow OT Discovery
 
 ## Before you begin
 
-Review the [[sgc-prereq-settings|Service Graph Connector for ServiceNow Operational Technology \(OT\) Discovery prerequisites and settings]] section before beginning.
+Review the [Service Graph Connector for ServiceNow Operational Technology \(OT\) Discovery prerequisites and settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/sgc-prereq-settings.md) section before beginning.
 
 Role required: admin
 
@@ -44,7 +44,7 @@ Role required: admin
 
 9.  Choose the OT Discovery Collector OS package that matches your machine's OS.
 
-    **Note:** If you have a closed network, download the Sensor package and the containerized versions of the Console and Collector packages. When ready, in stall the Console first, install the Sensor after that and, finally, install the Collector. See [[air-gapped-networks-installation|Air-gapped networks and OT Discovery installation]] for more information.
+    **Note:** If you have a closed network, download the Sensor package and the containerized versions of the Console and Collector packages. When ready, in stall the Console first, install the Sensor after that and, finally, install the Collector. See [Air-gapped networks and OT Discovery installation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/air-gapped-networks-installation.md) for more information.
 
 10. Return to the previous page and select **Mark as complete**.
 
@@ -89,10 +89,5 @@ Role required: admin
 
 ## What to do next
 
-The next step in the Guided Setup is [[configure-the-ot-discovery-connections-credentials|Configure the OT Discovery connections &amp; credentials]].
+The next step in the Guided Setup is [Configure the OT Discovery connections &amp; credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/configure-the-ot-discovery-connections-credentials.md).
 
-## Related
-
-- [[sgc-prereq-settings|Service Graph Connector for ServiceNow Operational Technology \(OT\) Discovery prerequisites and settings]]
-- [[air-gapped-networks-installation|Air-gapped networks and OT Discovery installation]]
-- [[configure-the-ot-discovery-connections-credentials|Configure the OT Discovery connections &amp; credentials]]

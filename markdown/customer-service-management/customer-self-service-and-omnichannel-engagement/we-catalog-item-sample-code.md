@@ -65,7 +65,7 @@ var secondaryURL = '/browse'; // Replace with the URL of the secondary page
 
 if(button_variant == 'primary') { 
 
-// Construct the URL for the [[case-view-web-component|Case View component]] with URL parameters 
+// Construct the URL for the Case View component with URL parameters 
 
 const caseViewURL = primaryURL+'?emb_table='+table+'&emb_recordid='+record_sys_id; 
 
@@ -103,12 +103,7 @@ open(secondaryURL,'_self');
 
 [Embed the Catalog item component instance on the third-party website](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/embed-catalog-item-component-on-third-party-website.md)
 
-[[component-properties-for-catalog-item|Component properties for the Catalog item]]
+[Component properties for the Catalog item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/component-properties-for-catalog-item.md)
 
-[[we-catalog-item-event-handler|Event handler in the Catalog item component]]
+[Event handler in the Catalog item component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/we-catalog-item-event-handler.md)
 
-## Related
-
-- [[component-properties-for-catalog-item|Component properties for the Catalog item]]
-- [[we-catalog-item-event-handler|Event handler in the Catalog item component]]
-- [[case-view-web-component|Case view component]]

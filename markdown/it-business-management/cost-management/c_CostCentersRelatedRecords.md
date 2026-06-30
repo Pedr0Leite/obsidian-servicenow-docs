@@ -16,7 +16,7 @@ breadcrumb: [Budgets and cost centers, Cost Management, Strategic Portfolio Mana
 
 Cost centers are related to additional records, displayed as related lists on its form.
 
-The [[r_CostManagement|Cost Management]] plugin adds the following related lists to the cost center record. You can add additional records in these related lists or remove existing ones.
+The Cost Management plugin adds the following related lists to the cost center record. You can add additional records in these related lists or remove existing ones.
 
 -   Budgets: Budgets that this cost center is a member of.
 -   CI Cost Center Relationships: Defines how much of a business service capacity this cost center is consuming.
@@ -26,6 +26,3 @@ The [[r_CostManagement|Cost Management]] plugin adds the following related lists
 
 **Parent Topic:**[Budgets and cost centers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/cost-management/c_BudgetsAndCostCenters.md)
 
-## Related
-
-- [[r_CostManagement|Cost Management]]

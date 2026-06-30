@@ -20,9 +20,9 @@ Role required: clone\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[Clone-UI|Clone Admin Console]]** &gt; **Home**.
+1.  Navigate to **All** &gt; **Clone Admin Console** &gt; **Home**.
 
-2.  Navigate to the **[[clone-configurations-tab|Configurations]]** &gt; **Clone instances**.
+2.  Navigate to the **Configurations** &gt; **Clone instances**.
 
 3.  Select **New**.
 
@@ -32,7 +32,4 @@ Role required: clone\_admin
 
     The target instance is configured.
 
-## Related
 
-- [[Clone-UI|Clone Admin Console]]
-- [[clone-configurations-tab|Configurations]]

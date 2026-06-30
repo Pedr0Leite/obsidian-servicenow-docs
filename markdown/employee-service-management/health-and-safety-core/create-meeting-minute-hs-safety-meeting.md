@@ -28,7 +28,7 @@ You can create multiple meeting minutes for different timestamps of a safety mee
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[health-safety-overview|Health and Safety]]** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
 2.  Select the meetings icon \(\[Omitted image "icon-hs-meetings.png"\] Alt text: safety meetings icon\).
 
@@ -114,7 +114,3 @@ Description about the topic discussed.
 
 [Add attendees to a safety meeting]()
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]

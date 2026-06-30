@@ -14,9 +14,9 @@ Partner Relationship Management \(PRM\) enables enterprises to onboard channel p
 
 ## PRM overview
 
-PRM extends the [[crm-about-som-in-crm|Sales CRM]] portfolio to support indirect sales, where partners sell and support customers on behalf of the enterprise. It provides the data model, workspace tools, and sales capabilities that enterprise teams and channel partners need to manage the full partner lifecycle, from onboarding through deal execution.
+PRM extends the Sales CRM portfolio to support indirect sales, where partners sell and support customers on behalf of the enterprise. It provides the data model, workspace tools, and sales capabilities that enterprise teams and channel partners need to manage the full partner lifecycle, from onboarding through deal execution.
 
-The partner workspace, built on the CSM [[crm-configurable-workspace|Configurable Workspace]], gives enterprise teams a central place to create and manage channel partner records, view partner cases and activity, and manage partner programs and program relationships. Channel partners can manage opportunities, generate quotes, and submit orders through partner-facing versions of the Sales CRM sales tools, using the same platform data model as the rest of the CRM portfolio.
+The partner workspace, built on the CSM Configurable Workspace, gives enterprise teams a central place to create and manage channel partner records, view partner cases and activity, and manage partner programs and program relationships. Channel partners can manage opportunities, generate quotes, and submit orders through partner-facing versions of the Sales CRM sales tools, using the same platform data model as the rest of the CRM portfolio.
 
 Segment Management works alongside PRM to group partners into segments that reflect their tier, specialization, or market focus. Segments can be linked to partner programs, allowing the enterprise to tailor program benefits and requirements to specific partner categories at scale.
 
@@ -71,7 +71,3 @@ PRM provides benefits to internal users across an organization.
 
 [Configure Segment Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-segment-management.md)
 
-## Related
-
-- [[crm-about-som-in-crm|Sales CRM]]
-- [[crm-configurable-workspace|Configurable workspace]]

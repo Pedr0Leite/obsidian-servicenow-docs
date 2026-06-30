@@ -24,7 +24,7 @@ Template items can have child template items. By creating child template items, 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[task-plan-templates|Task Plan Templates]]** &gt; **Draft Task Plan Templates**.
+1.  Navigate to **All** &gt; **Task Plan Templates** &gt; **Draft Task Plan Templates**.
 
 2.  Select a task plan template record number to display the record.
 
@@ -32,7 +32,7 @@ Template items can have child template items. By creating child template items, 
 
 4.  Select **New**.
 
-    The [[task-plan-template-item-form|template item form]] opens in a new tab. The **Number** field displays the number of the child template item. The Task plan template field displays the number of the parent task plan template.
+    The template item form opens in a new tab. The **Number** field displays the number of the child template item. The Task plan template field displays the number of the parent task plan template.
 
 5.  Use the **Search** icon to choose a parent template item.
 
@@ -57,10 +57,5 @@ Template items can have child template items. By creating child template items, 
 
 ## What to do next
 
-After creating a child template item, you can [[create-task-plan-template-item-condition|create one or more conditions for the template item]].
+After creating a child template item, you can [create one or more conditions for the template item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-task-plan-template-item-condition.md).
 
-## Related
-
-- [[create-task-plan-template-item-condition|Create a template item condition]]
-- [[task-plan-templates|Task Plan Templates]]
-- [[task-plan-template-item-form|Template item form]]

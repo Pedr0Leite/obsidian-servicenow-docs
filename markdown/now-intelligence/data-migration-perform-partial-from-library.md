@@ -13,7 +13,7 @@ breadcrumb: [Platform Analytics Migration Center, Platform Analytics experience,
 
 # Perform a partial dashboard migration from the library
 
-Migrate a selection of your existing dashboards, reports, [[c_HomepagePublishers|interactive filters]], and [[c_Widgets|Performance Analytics widgets]] to [[par-workspace|Platform Analytics experience]]. Migration works the same whether you choose to migrate some or all of your content. However, you can move some of your content to evaluate the process or when you have a large number of dashboards and want to migrate in segments.
+Migrate a selection of your existing dashboards, reports, interactive filters, and Performance Analytics widgets to Platform Analytics experience. Migration works the same whether you choose to migrate some or all of your content. However, you can move some of your content to evaluate the process or when you have a large number of dashboards and want to migrate in segments.
 
 ## Before you begin
 
@@ -31,7 +31,7 @@ You cannot use update sets to move the migrated material from a non-production i
 
 If content on a dashboard is used in only one dashboard, it will be available only on that dashboard after migration. If it is used in more than one dashboard, that content is migrated to the Platform Analytics experience library.
 
-The migrated dashboard appears in the [[c_performanceAnalyticsAndReporting|Platform Analytics]] library. The original Core UI dashboard is listed as Inactive in the library.
+The migrated dashboard appears in the Platform Analytics library. The original Core UI dashboard is listed as Inactive in the library.
 
 ## Procedure
 
@@ -49,7 +49,7 @@ The migrated dashboard appears in the [[c_performanceAnalyticsAndReporting|Platf
 
 4.  In the Migration Center, you can compare the two versions of the selected dashboards, view the logs, and choose which to migrate to Next Experience.
 
-    For more information, see [[data-migration-evaluate|Evaluate full data migration]].
+    For more information, see [Evaluate full data migration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/data-migration-evaluate.md).
 
 5.  Select **See All Content** to replace the list of selected dashboards with the list of all dashboards on the instance.
 
@@ -64,13 +64,5 @@ In the library, migrated dashboards are listed next to their Core UI counterpart
 
 ## What to do next
 
-Verify that the migrated dashboards have all the features of the Core UI dashboards, either as fully migrated content or as iframed content. For more information, see [[data-mig-unmigrated-content|Content not migrated or migrated in compatibility mode]].
+Verify that the migrated dashboards have all the features of the Core UI dashboards, either as fully migrated content or as iframed content. For more information, see [Content not migrated or migrated in compatibility mode](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/data-mig-unmigrated-content.md).
 
-## Related
-
-- [[data-migration-evaluate|Evaluate full data migration]]
-- [[data-mig-unmigrated-content|Content not migrated or migrated in compatibility mode]]
-- [[c_HomepagePublishers|Interactive Filters]]
-- [[c_Widgets|Performance Analytics widgets]]
-- [[par-workspace|Platform Analytics experience]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

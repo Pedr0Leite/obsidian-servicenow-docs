@@ -14,7 +14,7 @@ breadcrumb: [Integration Commons for CMDB, Integrating third-party data into CMD
 
 # RTE transforms template scripts included within the Integration Commons for CMDB app
 
-The Robust Transform Engine \(RTE\) transforms are templated operations included within the [[integration-commons-for-cmdb|Integration Commons for CMDB]] \(sn\_cmdb\_int\_util\) store app.
+The Robust Transform Engine \(RTE\) transforms are templated operations included within the Integration Commons for CMDB \(sn\_cmdb\_int\_util\) store app.
 
 The following script-based RTE transforms are available in the Integration Commons for CMDB app.
 
@@ -65,7 +65,7 @@ Output field
 
 ## Cleanse Company
 
-Use to cleanse hardware manufacturer name and add the record to the Company \[core\_company\] table to populate a [[reference|reference]], when the manufacturer is not linked to a model or software \(cpu\_manufacturer\).
+Use to cleanse hardware manufacturer name and add the record to the Company \[core\_company\] table to populate a reference, when the manufacturer is not linked to a model or software \(cpu\_manufacturer\).
 
 <table id="table_jfy_3k1_nkb"><thead><tr><th colspan="2">
 
@@ -225,7 +225,7 @@ The manufacturer name is processed like the Cleanse Company transform and then t
 
 ## Cleanse IP Address
 
-Use when a field provides an [[ip-address|IP address]].
+Use when a field provides an IP address.
 
 <table id="table_qzx_km1_nkb"><thead><tr><th colspan="2">
 
@@ -1585,7 +1585,7 @@ Script include function
 
 ## User Lookup
 
-Use to look up a user in the User \[sys\_user\] table by user name or [[email|email]], attempting to match in the following order:
+Use to look up a user in the User \[sys\_user\] table by user name or email, attempting to match in the following order:
 
 1.  The User Name matching the **user\_name** attribute.
 2.  The Email matching the email attribute.
@@ -1658,10 +1658,3 @@ Input Field 1: abel.tuter
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[integration-commons-for-cmdb|Integration Commons for CMDB]]
-- [[reference|Reference]]
-- [[ip-address|IP Address]]
-- [[email|Email]]

@@ -33,7 +33,7 @@ Define a risk score for the security incident records that are generated based o
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sir-workspace-landing-page|Security Incident Response Workspace]]** &gt; **Administration**.
+1.  Navigate to **Workspaces** &gt; **Security Incident Response Workspace** &gt; **Administration**.
 
 2.  Navigate to **Rules Engine** &gt; **Risk Score Calculator Rule**.
 
@@ -184,13 +184,9 @@ The Risk Score Calculator is provisioned with one risk-scoring rule as part of t
 
 [Category management in Security Incident Response]()
 
-[View and update [[sir-landing-page|Security Incident Response]] system properties]()
+[View and update Security Incident Response system properties]()
 
 [Create quick filters for Security Incidents and Response Tasks lists]()
 
 [Timeline in Security Incident Response Workspace]()
 
-## Related
-
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[sir-landing-page|Security Incident Response]]

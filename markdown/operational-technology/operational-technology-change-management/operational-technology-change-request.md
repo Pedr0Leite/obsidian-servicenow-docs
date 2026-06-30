@@ -14,7 +14,7 @@ breadcrumb: [Explore, Operational Technology Change Management, Operational Tech
 
 # Using Operational Technology Change Management to optimize your production process
 
-The [[operational-technology-change-management-landing-page|Operational Technology Change Management]] application enables your team members to work collaboratively on changes to [[operational-technology-overview|operational technology]] \(OT\) devices or industrial equipment configurations. These changes include any optimizations, alterations in the production process, or vulnerability fixes.
+The Operational Technology Change Management application enables your team members to work collaboratively on changes to operational technology \(OT\) devices or industrial equipment configurations. These changes include any optimizations, alterations in the production process, or vulnerability fixes.
 
 ## Operational Technology Change Management overview
 
@@ -28,7 +28,7 @@ The following examples show how to apply Operational Technology Change Managemen
 
 ## OT change requests
 
-OT change requests occur when there’s a disruption in service from an OT device on an OT network. In some cases, the OT device may not be known when the change request is created. When you create an OT change request from the [[industrial-workspace-for-operational-technology|Industrial Workspace]], the change request is automatically assigned a Network Type of **OT**. This attribute is used to distinguish an OT change request from an IT change request. This field isn’t displayed by default. For more information about OT devices, see [OT device related items and related lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/ot-assets-related-links-and-lists.md).
+OT change requests occur when there’s a disruption in service from an OT device on an OT network. In some cases, the OT device may not be known when the change request is created. When you create an OT change request from the Industrial Workspace, the change request is automatically assigned a Network Type of **OT**. This attribute is used to distinguish an OT change request from an IT change request. This field isn’t displayed by default. For more information about OT devices, see [OT device related items and related lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/ot-assets-related-links-and-lists.md).
 
 For more information about how to create an OT change request, see [Create a change request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-change-management/create-ot-change-request.md).
 
@@ -169,8 +169,3 @@ The change record is canceled and the change isn’t applied to the OT device.
 </td></tr></tbody>
 </table>**Parent Topic:**[Exploring Operational Technology Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-change-management/exploring-operational-technology-change-mgt.md)
 
-## Related
-
-- [[operational-technology-change-management-landing-page|Operational Technology Change Management]]
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

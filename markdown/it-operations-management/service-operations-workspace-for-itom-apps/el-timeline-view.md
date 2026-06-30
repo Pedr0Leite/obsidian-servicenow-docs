@@ -24,7 +24,7 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
 2.  In the primary navigation, select the Express List icon \(\[Omitted image "express-list1.png"\] Alt text: Express List icon.\).
 
@@ -48,6 +48,3 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 
 [Exploring chronological data on the alerts in an alert group in Express List](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/el-timeline-view-concept.md)
 
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]

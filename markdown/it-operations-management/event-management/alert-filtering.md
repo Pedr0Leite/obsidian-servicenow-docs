@@ -28,7 +28,7 @@ If your filter specifies alerts whose configuration item class is not Linux, the
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Administration** &gt; **Automatic Group Filter**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Administration** &gt; **Automatic Group Filter**.
 
 2.  On the Automatic Group Filters page, either select an existing group filter or create a new filter.
 
@@ -58,6 +58,3 @@ If your filter specifies alerts whose configuration item class is not Linux, the
 
 The filter condition appears on the SA Grouped Alert Filters page in the **Alert filter** column.
 
-## Related
-
-- [[c_EM|Event Management]]

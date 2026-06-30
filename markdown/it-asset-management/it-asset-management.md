@@ -17,11 +17,11 @@ Manage software licenses, hardware assets, and cloud assets with intuitive work 
 
 ## Take command of your software, hardware, and cloud assets
 
-Gartner, Inc. states that organizations often face three or more software audits a year. The number of audits and lack of a consolidated [[am-landing-page|asset management]] platform can create challenges for an organization to control and optimize software spend. Use the ServiceNow® [[c_SoftwareAssetMgmt|Software Asset Management]] application to take command of your software assets.
+Gartner, Inc. states that organizations often face three or more software audits a year. The number of audits and lack of a consolidated asset management platform can create challenges for an organization to control and optimize software spend. Use the ServiceNow® Software Asset Management application to take command of your software assets.
 
-Businesses need to know what assets they own, where those assets are located, who is using those assets, how often those assets are used, when those assets are being configured, how much those assets cost, and what value those assets deliver. Use the ServiceNow® [[ham-landing-page|Hardware Asset Management]] application to provide increased visibility into your asset estate and to automate the IT life cycle from [[c_Procurement|procurement]] to disposal.
+Businesses need to know what assets they own, where those assets are located, who is using those assets, how often those assets are used, when those assets are being configured, how much those assets cost, and what value those assets deliver. Use the ServiceNow® Hardware Asset Management application to provide increased visibility into your asset estate and to automate the IT life cycle from procurement to disposal.
 
-As businesses move to the cloud, they can encounter challenges when associating costs with delivered business value due to the lack of visibility into their cloud spend and usage. Use the ServiceNow® [[cloud-insights-landing-page|Cloud Cost Management]] application to gain complete visibility into the usage and costs that are associated with your cloud assets so that you can optimize operations and reduce your cloud spend.
+As businesses move to the cloud, they can encounter challenges when associating costs with delivered business value due to the lack of visibility into their cloud spend and usage. Use the ServiceNow® Cloud Cost Management application to gain complete visibility into the usage and costs that are associated with your cloud assets so that you can optimize operations and reduce your cloud spend.
 
 View and download the full [Software Asset Management](https://downloads.docs.servicenow.com/resource/enus/infocard/software-asset-management-highlights.pdf) or [Hardware Asset Management](https://downloads.docs.servicenow.com/resource/enus/infocard/hardware-asset-management-highlights.pdf) infocard for a highlight of features.
 
@@ -31,7 +31,7 @@ View and download the full [Software Asset Management](https://downloads.docs.se
 
 </td><td>
 
-Normalize software assetsAutomatically normalize your software assets with updates from the [[c_SAMContentService|Software Asset Management content service]].
+Normalize software assetsAutomatically normalize your software assets with updates from the Software Asset Management content service.
 
 </td></tr><tr><td>
 
@@ -63,7 +63,7 @@ Track SaaS subscription usageIntegrate with SaaS applications and SSO providers 
 
 </td><td>
 
-View and take action on your license positionUse the [[sam-workspace-workbench|License usage view]] \([[sam-workspace|Software Asset Workspace]]\) or License Workbench \(Software Asset Management classic application\) to view your license compliance position and easily remediate any license compliance issues.
+View and take action on your license positionUse the License usage view \(Software Asset Workspace\) or License Workbench \(Software Asset Management classic application\) to view your license compliance position and easily remediate any license compliance issues.
 
 </td></tr><tr><td>
 
@@ -111,11 +111,11 @@ Refresh aging hardware assetsProactively track and plan for aging assets that ar
 
 </td><td>
 
-Audit your asset inventoryConduct scheduled or ad-hoc audits of your asset [[c_Stockrooms|stockrooms]] and other asset locations, such as offices and data centers.
+Audit your asset inventoryConduct scheduled or ad-hoc audits of your asset stockrooms and other asset locations, such as offices and data centers.
 
 </td></tr><tr><td>
 
-\[Omitted image "Agent\_workspace-01.png"\] Alt text: Image for managing expiring maintenance and lease [[c_Contracts|contracts]]
+\[Omitted image "Agent\_workspace-01.png"\] Alt text: Image for managing expiring maintenance and lease contracts
 
 </td><td>
 
@@ -123,7 +123,7 @@ Manage expiring maintenance and lease contractsTake action on your expiring main
 
 </td></tr><tr><td>
 
-\[Omitted image "Infographic-01.png"\] Alt text: Image for driving asset manager productivity using the [[using-ham-workspace|Hardware Asset Workspace]]
+\[Omitted image "Infographic-01.png"\] Alt text: Image for driving asset manager productivity using the Hardware Asset Workspace
 
 </td><td>
 
@@ -148,11 +148,11 @@ Track and manage rights for your purchased software using software entitlements.
 
 ## Use Publisher Packs
 
-Software publishers use different licensing [[c_Models|models]] to define how software licenses must be consumed, which can make license compliance difficult to track across all software publishers. In addition to the thousands of software publishers that are available through the Content Library, the Software Asset Management application offers publisher packs that extend functionality between the ServiceNow AI Platform and top third-party software publishers. With publisher packs, you can access additional capabilities to help you track and optimize licensing for the specified software publishers.
+Software publishers use different licensing models to define how software licenses must be consumed, which can make license compliance difficult to track across all software publishers. In addition to the thousands of software publishers that are available through the Content Library, the Software Asset Management application offers publisher packs that extend functionality between the ServiceNow AI Platform and top third-party software publishers. With publisher packs, you can access additional capabilities to help you track and optimize licensing for the specified software publishers.
 
 ## Track SaaS subscription usage
 
-The Software Asset Management [[sam-subscription-management|SaaS License Management]] application enables you to integrate your ServiceNow instance with third-party SaaS applications and SSO providers. With these integrations, you can pull subscription usage data from your SaaS and connected SSO applications to track usage, manage compliance, and optimize licensing for your subscriptions.
+The Software Asset Management SaaS License Management application enables you to integrate your ServiceNow instance with third-party SaaS applications and SSO providers. With these integrations, you can pull subscription usage data from your SaaS and connected SSO applications to track usage, manage compliance, and optimize licensing for your subscriptions.
 
 ## View and take action on your license position
 
@@ -160,7 +160,7 @@ The License usage view \(Software Asset Workspace\) and License Workbench \(Soft
 
 ## Track software spend
 
-Use the [[software-spend-detection|Software Spend Detection]] application to track and optimize software spending based on imported financial transaction data. You can use this data to identify and take action on redundant software, reinforce or update company software purchasing policies, and begin managing unmanaged software products.
+Use the Software Spend Detection application to track and optimize software spending based on imported financial transaction data. You can use this data to identify and take action on redundant software, reinforce or update company software purchasing policies, and begin managing unmanaged software products.
 
 ## Analyze and improve your business processes using software asset analytics dashboards
 
@@ -211,8 +211,8 @@ The [Cloud Cost Management](https://raw.githubusercontent.com/ServiceNow/Service
 -   Work with an implementation specialist to streamline your Software Asset Management setup process. To learn more or view a demo, see the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Sign up for the [ServiceNow Software Asset Management fundamentals training program and certification](https://nowlearning.service-now.com/lxp?id=overview&type=course&sys_id=8f387a8cdb5eff40de3cdb85ca961917) to learn about core Software Asset Management functionality and release-specific features.
 -   Sign up for the [Software Asset Management \(SAM\) Getting Started](https://nowlearning.service-now.com/lxp?id=overview&sys_id=ca4110db1bb104d056c70fe0cd4bcb0e&type=course) course to learn the basic concepts and terminology of the Software Asset Management application.
--   [[install-ci|Install Cloud Cost Management]] by requesting it on the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) website.
--   Install [[exploring-daas|Device as a Service]] by requesting it on the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) website.
+-   Install Cloud Cost Management by requesting it on the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) website.
+-   Install Device as a Service by requesting it on the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) website.
 
 ## Applications and features
 
@@ -226,26 +226,6 @@ The [Cloud Cost Management](https://raw.githubusercontent.com/ServiceNow/Service
 -   [Contract Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/c_ContractManagement.md)
 -   [Procurement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/c_Procurement.md)
 -   [Product Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/c_ProductCatalog.md)
--   [[content-request-itam|IT Asset Management content request]]
--   [[subscription-itam-licensing|Licensing for IT Asset Management]]
+-   [IT Asset Management content request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/content-request-itam.md)
+-   [Licensing for IT Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/subscription-itam-licensing.md)
 
-## Related
-
-- [[content-request-itam|IT Asset Management content request process]]
-- [[subscription-itam-licensing|subscription itam licensing]]
-- [[am-landing-page|Asset Management]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[ham-landing-page|Hardware Asset Management]]
-- [[c_Procurement|Procurement]]
-- [[cloud-insights-landing-page|Cloud Cost Management]]
-- [[c_SAMContentService|Software Asset Management Content Service]]
-- [[sam-workspace-workbench|License usage view]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_Stockrooms|Stockrooms]]
-- [[c_Contracts|Contracts]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[c_Models|Models]]
-- [[sam-subscription-management|SaaS License Management]]
-- [[software-spend-detection|Software Spend Detection]]
-- [[install-ci|Install Cloud Cost Management]]
-- [[exploring-daas|Device as a Service]]

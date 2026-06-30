@@ -14,7 +14,7 @@ breadcrumb: [Configure financials for Portfolio Planning, Configure, Portfolio P
 
 # Enable financial budget allocation for planning items in Portfolio Planning
 
-Enable allocation property after migrating to Next Experience to work on budget allocation for your planning items using [[portfolio-planning-app-landing-page|Portfolio Planning]].
+Enable allocation property after migrating to Next Experience to work on budget allocation for your planning items using Portfolio Planning.
 
 ## Before you begin
 
@@ -34,6 +34,3 @@ Enable allocation property after migrating to Next Experience to work on budget 
 
 Configure budget attributes to work on managing budget of your planning items. For more information, see [Configure budget attribute at instance-level to allocate budget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/config-budget-allocation-attribute-ppw.md).
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

@@ -17,7 +17,7 @@ Use a single device between multiple users to have a secure and personalized exp
 **Note:**
 
 -   This feature must be enabled by your administrator. To check if it is available to you, go to **Settings** and look for Device sharing in the menu.
--   For the admin configuration topics of this feature, see [[multi-user-single-instance|Enable multiple users to work on a shared device]].
+-   For the admin configuration topics of this feature, see [Enable multiple users to work on a shared device](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/multi-user-single-instance.md).
 
 ## Shared device flow
 
@@ -130,7 +130,3 @@ The Quick Access page displays all the users who are added to this device. The u
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[multi-user-single-instance|Enable multiple users to work on a shared device]]

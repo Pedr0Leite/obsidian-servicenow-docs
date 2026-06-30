@@ -14,11 +14,11 @@ breadcrumb: [Change schedules, Configure, Change Management, IT Service Manageme
 
 # Create a change schedule from the Change Schedules page
 
-You can create a change schedule to view all scheduled changes, [[change-tasks|change tasks]], blackout periods, maintenance windows for any given date, week, month, or year.
+You can create a change schedule to view all scheduled changes, change tasks, blackout periods, maintenance windows for any given date, week, month, or year.
 
 ## Before you begin
 
--   You have activated [[c_ITILChangeManagement|Change Management]] - Change Schedule plugin \(com.snc.change\_management.soc\).
+-   You have activated Change Management - Change Schedule plugin \(com.snc.change\_management.soc\).
 -   Role required: itil, sn\_chg\_soc.change\_soc\_admin, sn\_change\_role, sn\_change\_write roles, sn\_change\_write, or admin
 
 **Note:**
@@ -28,7 +28,7 @@ You can create a change schedule to view all scheduled changes, [[change-tasks|c
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Change** &gt; **Schedules** &gt; **[[change-schedule|Change Schedules]]** and click **New**.
+1.  Navigate to **All** &gt; **Change** &gt; **Schedules** &gt; **Change Schedules** and click **New**.
 
 2.  On the form, fill in the fields.
 
@@ -57,8 +57,3 @@ You can create a change schedule to view all scheduled changes, [[change-tasks|c
 
 [Style rules definition]()
 
-## Related
-
-- [[change-tasks|Change tasks]]
-- [[c_ITILChangeManagement|Change Management]]
-- [[change-schedule|Change schedules]]

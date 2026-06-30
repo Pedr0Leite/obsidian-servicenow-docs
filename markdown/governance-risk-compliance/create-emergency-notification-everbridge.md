@@ -30,7 +30,7 @@ When you send an emergency notification from the workspace, the action creates a
 
 2.  Click the lists icon \(\[Omitted image "ListsIcon.jpg"\] Alt text: Lists icon\).
 
-3.  Click **Pending** state in the [[crisis-management-uib|Crisis Events]] list.
+3.  Click **Pending** state in the Crisis Events list.
 
     **Note:** If the **Exercise Method** is **Functional**, then you can create an emergency notification for an exercise event.
 
@@ -225,6 +225,4 @@ Message sent through SMS.
 
         **Note:** Now that the event is closed and the corresponding incident in Everbridge is also closed, you cannot create any more notifications for this event.
 
-## Related
 
-- [[crisis-management-uib|Crisis events]]

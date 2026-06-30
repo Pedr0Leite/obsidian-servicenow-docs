@@ -14,20 +14,20 @@ breadcrumb: [Product data, Set up your environment, Configure, Customer Service 
 
 Assign an asset to a customer contact who is responsible for managing that asset.
 
-Account and partner contacts can see all of the assets related to an account. To limit access to an asset, you can [[c_CreateAnAsset|create an asset]] contact relationship and assign the asset to one or more contacts. Then you can enable the associated property to restrict access to the asset information to the assigned contacts.
+Account and partner contacts can see all of the assets related to an account. To limit access to an asset, you can create an asset contact relationship and assign the asset to one or more contacts. Then you can enable the associated property to restrict access to the asset information to the assigned contacts.
 
-The system administrator can add a primary contact to an asset by selecting a user in the **Primary Contact** field on the [[customer-service-asset-form|Asset form]]. This field references the Contacts table and is filtered by the asset’s account.
+The system administrator can add a primary contact to an asset by selecting a user in the **Primary Contact** field on the Asset form. This field references the Contacts table and is filtered by the asset’s account.
 
-The system administrator can also [[configure-data-model-relationships|create relationships]] with additional contacts from the **Asset Contacts** related list on the Asset form. When you create an asset contact relationship, you can select contacts from:
+The system administrator can also create relationships with additional contacts from the **Asset Contacts** related list on the Asset form. When you create an asset contact relationship, you can select contacts from:
 
 -   The account that the asset belongs to.
 -   The partner of the account that the asset belongs to.
--   Any contacts added to these accounts using [[c_ContactRelationships|contact relationships]].
+-   Any contacts added to these accounts using contact relationships.
 
 After adding contacts to an asset, enable the related property to limit access. When enabled, the following access is limited from the customer portal:
 
 -   When a user clicks **My Assets**, the list shows only those assets for which the user is a contact.
--   When a user clicks **Create Case**, the **Asset** field on the Create [[r_CustomerServiceCaseForm|Case form]] shows only those assets for which the user is a contact.
+-   When a user clicks **Create Case**, the **Asset** field on the Create Case form shows only those assets for which the user is a contact.
 
 ## Assign a primary contact to an asset
 
@@ -99,10 +99,4 @@ Role required: admin
 
 3.  Click **Save**.
 
-## Related
 
-- [[c_CreateAnAsset|Create an asset]]
-- [[customer-service-asset-form|Asset form]]
-- [[configure-data-model-relationships|Create relationships]]
-- [[c_ContactRelationships|Contact relationships]]
-- [[r_CustomerServiceCaseForm|Case form]]

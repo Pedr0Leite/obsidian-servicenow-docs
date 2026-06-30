@@ -14,7 +14,7 @@ breadcrumb: [Testing and monitoring predictions, Predictive Intelligence, Enable
 
 # Reviewing prediction errors with the Observability Dashboard
 
-The Observability Dashboard offers a unified view and actionable insights for errors detected in [[predictive-intelligence-landing|Predictive Intelligence]]. Use this dashboard to visualize logged errors and gain information on prediction reliability and potential problem areas.
+The Observability Dashboard offers a unified view and actionable insights for errors detected in Predictive Intelligence. Use this dashboard to visualize logged errors and gain information on prediction reliability and potential problem areas.
 
 View the PI - Observability Dashboard by navigating to **Predictive Intelligence** &gt; **Dashboards** &gt; **Observability**. The dashboard contains the following widgets.
 
@@ -48,6 +48,3 @@ The table logs the following types of granular errors.
 
 **Parent Topic:**[Testing and monitoring predictions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/testing-reviewing-ml-solutions.md)
 
-## Related
-
-- [[predictive-intelligence-landing|Predictive Intelligence]]

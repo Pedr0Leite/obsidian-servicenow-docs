@@ -16,7 +16,7 @@ You can select a single or multiple users and apply security annotations to them
 
 ## Before you begin
 
-Requires the [[threat-intel-landing-page|Threat Intelligence]] plugin and activation. The Threat Intelligence plugin is available as a separate subscription.
+Requires the Threat Intelligence plugin and activation. The Threat Intelligence plugin is available as a separate subscription.
 
 Role required: admin
 
@@ -35,7 +35,7 @@ Role required: admin
 5.  Click **Submit**.
 
 
-**Parent Topic:**[[security-annotations|Security annotations]]
+**Parent Topic:**[Security annotations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-annotations.md)
 
 **Related topics**  
 
@@ -46,7 +46,3 @@ Role required: admin
 
 [View security annotations reports]()
 
-## Related
-
-- [[security-annotations|Security annotations]]
-- [[threat-intel-landing-page|Threat Intelligence]]

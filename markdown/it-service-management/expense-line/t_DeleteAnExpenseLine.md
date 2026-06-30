@@ -14,7 +14,7 @@ breadcrumb: [Expense lines and expense allocations, Expense Line, IT Service Man
 
 # Delete an expense line
 
-Deleting an [[c_ExpenseLine|expense line]] also deletes all expense allocations that were generated from the expense line.
+Deleting an expense line also deletes all expense allocations that were generated from the expense line.
 
 ## Before you begin
 
@@ -50,6 +50,3 @@ Deleting expense lines and allocations should be limited to an emergency case on
 
 [Use a scripted allocation]()
 
-## Related
-
-- [[c_ExpenseLine|Expense Line]]

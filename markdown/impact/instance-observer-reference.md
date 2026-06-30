@@ -12,20 +12,12 @@ breadcrumb: [Monitoring instance health with Instance Observer, Platform Health,
 
 # Instance Observer reference
 
-Reference topics provide information about roles installed with the [[impact-landing-page|Impact]] Instance Observer application and the key metrics that are used to monitor infrastructure health, track application [[instance-observer-performance|performance]], measure latency to understand [[user-experience-insights|user experience]], and use historical data for capacity planning.
+Reference topics provide information about roles installed with the Impact Instance Observer application and the key metrics that are used to monitor infrastructure health, track application performance, measure latency to understand user experience, and use historical data for capacity planning.
 
--   **[[impact-observer-roles|Roles installed with Instance Observer]]**  
+-   **[Roles installed with Instance Observer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/impact-observer-roles.md)**  
 Several types of components are installed with activation of the Impact plugin, including tables, user roles, and scheduled jobs that are used in Instance Observer.
--   **[[instance-observer-ovr-metric|Overview of Instance Observer metrics]]**  
+-   **[Overview of Instance Observer metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/instance-observer-ovr-metric.md)**  
 Instance Observer \(IO\) metrics are real-time and historical telemetry data points used to monitor, triage, and troubleshoot ServiceNow instance performance.
 
-**Parent Topic:**[[io-overview|Monitoring instance health with Instance Observer]]
+**Parent Topic:**[Monitoring instance health with Instance Observer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-overview.md)
 
-## Related
-
-- [[impact-observer-roles|Roles installed with Instance Observer]]
-- [[instance-observer-ovr-metric|Overview of Instance Observer metrics]]
-- [[io-overview|Monitoring instance health with Instance Observer]]
-- [[impact-landing-page|Impact]]
-- [[instance-observer-performance|Performance]]
-- [[user-experience-insights|User Experience]]

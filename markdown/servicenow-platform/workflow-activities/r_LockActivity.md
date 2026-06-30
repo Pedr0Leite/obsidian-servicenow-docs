@@ -35,7 +35,7 @@ Since a **Lock** activity can only temporarily prevent processing of other workf
 -   Timer activities
 -   Wait for condition activity
 -   Wait for WF Event activity
--   [[mid-server-landing|MID server]] activities such as a PowerShell script
+-   MID server activities such as a PowerShell script
 
 ## Results
 
@@ -107,6 +107,3 @@ The activity state tells the workflow engine what to do with the activity.
 |Finished|The activity successfully obtained the lock.|
 |Timeout|The activity could not obtain a lock within the number of attempts specified by the **Max. attempts** input variable.|
 
-## Related
-
-- [[mid-server-landing|MID Server]]

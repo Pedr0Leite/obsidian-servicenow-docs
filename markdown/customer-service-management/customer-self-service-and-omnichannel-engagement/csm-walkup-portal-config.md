@@ -45,7 +45,7 @@ There are several ways to configure the Walk-up service portal:
 
     The form designer opens.
 
-6.  In the form designer header drop-down list select or search for any of the configurable walk-up [[migration-forms|forms]] to customize your portal appearance.
+6.  In the form designer header drop-down list select or search for any of the configurable walk-up forms to customize your portal appearance.
 
 <table id="choicetable_egv_2gp_ldb"><tbody><tr><td id="d322172e156">
 
@@ -82,6 +82,4 @@ Specify the order in which reasons for a visit should be prioritized at a walk-u
 </td></tr></tbody>
 </table>    To modify form content to meet your portal requirements, refer to [Form configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/basic-form-administration.md) for detailed information.
 
-## Related
 
-- [[migration-forms|Forms]]

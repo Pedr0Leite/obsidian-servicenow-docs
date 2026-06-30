@@ -14,7 +14,7 @@ breadcrumb: [Amazon API Gateways, AWS discovery, Available cloud discovery patte
 
 # Test patterns for discovering AWS API Gateway and AWS Lambda
 
-Run the horizontal and top-down [[r-discovery|discovery]] using Amazon AWS API Gateway \[cmdb\_ci\_cloud\_gateway\] and Amazon AWS Lambda \[cmdb\_ci\_cloud\_function\] patterns. Verify that the result is as expected.
+Run the horizontal and top-down discovery using Amazon AWS API Gateway \[cmdb\_ci\_cloud\_gateway\] and Amazon AWS Lambda \[cmdb\_ci\_cloud\_function\] patterns. Verify that the result is as expected.
 
 ## Before you begin
 
@@ -61,7 +61,7 @@ The URL for invoking the API Gateway. Typically, the API GW has the following fo
 </td></tr></tbody>
 </table>2.  Click **Discover**.
 
-    [[c_ServiceMappingOverview|Service Mapping]] runs the top-down discovery using the Amazon AWS API Gateway \[cmdb\_ci\_cloud\_gateway\] pattern.
+    Service Mapping runs the top-down discovery using the Amazon AWS API Gateway \[cmdb\_ci\_cloud\_gateway\] pattern.
 
     After Service Mapping completes identifying the API Gateway configuration item \(CI\), it runs the **Connection to APIs** connection section and discovers connection to the AWS Lambda. It then runs the Amazon AWS Lambda \[cmdb\_ci\_cloud\_function\] pattern and identifies the AWS Lambda CI.
 
@@ -81,7 +81,3 @@ The URL for invoking the API Gateway. Typically, the API GW has the following fo
 
 **Parent Topic:**[Amazon API Gateway discovery with Patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/aws-api-gateway-discovery.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

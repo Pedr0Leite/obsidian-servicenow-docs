@@ -14,11 +14,11 @@ breadcrumb: [Use, CMDB Coverage, Configuration Management Database \(CMDB\), Con
 
 # Create discovery schedules
 
-Create discovery schedules for discovering [[ip-address|IP address]] ranges.
+Create discovery schedules for discovering IP address ranges.
 
 ## Before you begin
 
-Dependencies and requirements: The Discovery \(com.snc.discovery\) plugin must be activated to view the **Discovery schedule gap** widget in the [[cmdb-coverage|CMDB Coverage]] dashboard. The admin user role is required for plugin activation.
+Dependencies and requirements: The Discovery \(com.snc.discovery\) plugin must be activated to view the **Discovery schedule gap** widget in the CMDB Coverage dashboard. The admin user role is required for plugin activation.
 
 Role required: sn\_cmdb\_admin
 
@@ -26,7 +26,7 @@ Role required: sn\_cmdb\_admin
 
 1.  Use one of the following methods to open the **CMDB Coverage** dashboard:
 
-    -   Navigate to **Workspaces** &gt; **[[sg-workspace|Service Graph Workspace]]** &gt; **Governance**, and then select **CMDB Coverage Dashboard** from the Manage group in Management tools.
+    -   Navigate to **Workspaces** &gt; **Service Graph Workspace** &gt; **Governance**, and then select **CMDB Coverage Dashboard** from the Manage group in Management tools.
     -   Navigate to **Workspaces** &gt; **CMDB Workspace** &gt; **Quick links** &gt; **CMDB Coverage Dashboard**.
 2.  Select **Discovery schedule gap**.
 
@@ -36,8 +36,4 @@ Role required: sn\_cmdb\_admin
 
     For more information, see [Create an IP-based Discovery schedule in Discovery Admin Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/t-dawCreateNewDiscoSchedule.md).
 
-## Related
 
-- [[ip-address|IP Address]]
-- [[cmdb-coverage|CMDB Coverage]]
-- [[sg-workspace|Service Graph Workspace]]

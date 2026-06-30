@@ -19,10 +19,7 @@ The dashboard integrates different applications to provide real-time monitoring,
 -   **[MID Server Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/itom-infra-srv-wrksp-mid.md)**  
 See a concise overview of MID Server activity. The workspace provides real-time monitoring and enables corrective actions across multiple MID Servers.
 -   **[Use the Agent Client Collector \(ACC\) admin workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/use-acc-admin-workspace.md)**  
-[[use-acc-admin-workspace|Use the Agent Client Collector \(ACC\) admin workspace]] to monitor the status of your agents.
+Use the Agent Client Collector \(ACC\) admin workspace to monitor the status of your agents.
 
 **Parent Topic:**[ITOM Infra Services Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/itom-infra-srv-wrksp-landing.md)
 
-## Related
-
-- [[use-acc-admin-workspace|Use the Agent Client Collector \(ACC\) admin workspace]]

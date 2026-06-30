@@ -42,7 +42,7 @@ Manually adding a new CI to an existing CI in a service instance prompts the CMD
 
 For example, you manually add an IBM WebSphere Message Broker to an IBM WebSphere HTTP Listener in the Bank Customer Portal service. The system also adds this IBM WebSphere Message Broker to the same HTTP Listener in the Bank Internal Portal service, because it uses this HTTP Listener. Similarly, when you remove a CI you added manually, the system removes it from all application services where you either manually added it or it was automatically added by analogy.
 
-You can manually [[c_Connect|connect]] a CI only to actual CIs existing in the CMDB, not to a visualization of other items on the map such as clusters or boundaries. Also, you cannot add CIs of these CI types to an application service:
+You can manually connect a CI only to actual CIs existing in the CMDB, not to a visualization of other items on the map such as clusters or boundaries. Also, you cannot add CIs of these CI types to an application service:
 
 -   NAT \[cmdb\_ci\_translation\_rule\]
 -   Endpoint \[cmdb\_ci\_endpoint\]
@@ -53,7 +53,7 @@ There are system records in the Manual CI Exclusions/Inclusions \[svc\_manual\_c
 
 **Note:** The Manual CI Exclusions/Inclusions \[svc\_manual\_ci\_exclusions\_inclusions\] table doesn't include CIs added using traversal rules.
 
-In environments with [[domain-separation-relationship-formatter-editor|domain separation]], only CIs belonging to the same domain as the service instance are added to the service instance. If there is a domain hierarchy, CIs must belong to the same child domain as the service instance.
+In environments with domain separation, only CIs belonging to the same domain as the service instance are added to the service instance. If there is a domain hierarchy, CIs must belong to the same child domain as the service instance.
 
 If working with an service instance discovered by Service Mapping, manually add a CI:
 
@@ -158,7 +158,3 @@ Select the CI from the list of CIs of the selected CI type.**Note:** To eliminat
 
 [addCI\(\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/BusinessServiceManagerAPI.md)
 
-## Related
-
-- [[c_Connect|Connect]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]

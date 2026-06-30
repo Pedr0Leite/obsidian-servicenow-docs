@@ -14,7 +14,7 @@ breadcrumb: [Service catalog categories, Configuring Service Catalog, Service Ca
 
 # Configure dynamic categories
 
-Dynamic categories let you organize and display commonly requested items and knowledge articles. Dynamic categories appear on the right side of the [[service-catalog|service catalog]] homepage by default.
+Dynamic categories let you organize and display commonly requested items and knowledge articles. Dynamic categories appear on the right side of the service catalog homepage by default.
 
 ## Before you begin
 
@@ -54,6 +54,3 @@ To configure dynamic catalog categories:
 
 [Create a category]()
 
-## Related
-
-- [[service-catalog|Service Catalog]]

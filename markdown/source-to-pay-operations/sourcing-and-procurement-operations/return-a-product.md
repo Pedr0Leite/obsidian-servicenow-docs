@@ -22,7 +22,7 @@ Role required: sn\_spend\_psd.requestor or shopper
 
 ## About this task
 
-You can raise a return request for multiple products belonging to the same [[purchase-order-table|purchase order]] or [[purchase-requisition|purchase requisition]] that has been fully or partially delivered to you.
+You can raise a return request for multiple products belonging to the same purchase order or purchase requisition that has been fully or partially delivered to you.
 
 ## Procedure
 
@@ -74,7 +74,7 @@ Select whether you want to return teh entire purchase or individual items from t
 
 </td></tr><tr><td>
 
-[[purchase-order-lines|Purchase order lines]]
+Purchase order lines
 
 </td><td>
 
@@ -121,16 +121,9 @@ The fulfiller can approve or reject the return or replacement request. For more 
 
 ## What to do next
 
--   Shoppers can review the request details from **Employee Center** &gt; **[[my-requests|My Requests]]**.
+-   Shoppers can review the request details from **Employee Center** &gt; **My Requests**.
 -   Shoppers can review the request details from **ShoppingHub** &gt; **** &gt; **My purchases**, accessed from the profile image or from the footer.
--   Buyers can track the progress of the procurement case and procurement case line requests from **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+-   Buyers can track the progress of the procurement case and procurement case line requests from **Source-to-Pay Workspace**.
 
 **Parent Topic:**[Using Shopping Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/use-shoppinghub-portal.md)
 
-## Related
-
-- [[purchase-order-table|Purchase order]]
-- [[purchase-requisition|Purchase requisition]]
-- [[purchase-order-lines|Purchase order lines]]
-- [[my-requests|My requests]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

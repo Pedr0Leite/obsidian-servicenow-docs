@@ -22,7 +22,7 @@ Role required: sn\_msi.workspace\_manager
 
 ## Procedure
 
-1.  Navigate to **[[major-security-incident-management-landing-page|Major Security Incident Management]]** &gt; **MSI Administration** &gt; **Status Report Setup**.
+1.  Navigate to **Major Security Incident Management** &gt; **MSI Administration** &gt; **Status Report Setup**.
 
     The MSI Status Report Setup page displays.
 
@@ -57,7 +57,7 @@ Description
 Name of the Report template subsection element. For example, Scope.**Note:** The existing subsections for the predefined reports are: Duration counters, Incident impact, Active Team, Active Team Trend.
 
 -   **Duration Counters**: Displays the duration counter as a subsection element such as estimated time to resolve the incident within the status report.
--   **Incident impact**: Displays the visualization elements within the report such as the impacted assets, impacted [[threat-intelligence-locations|locations]], and impacted users.
+-   **Incident impact**: Displays the visualization elements within the report such as the impacted assets, impacted locations, and impacted users.
 -   **Active Team**: Displays the visualization elements within the report such as the number of active teams involved in closing the major security incident.
 -   **Active Team Trend:** Depicts the active teams trend in a graphical representation.
 
@@ -88,7 +88,7 @@ Name of the report template table.
 
 </td><td>
 
-Select the check box to [[create-report-sir|create a report]] section for the selected template in the MSIM workspace.**Note:** If the check box is unselected, the MSI Manager can’t create a report section for this template in the MSIM workspace.
+Select the check box to create a report section for the selected template in the MSIM workspace.**Note:** If the check box is unselected, the MSI Manager can’t create a report section for this template in the MSIM workspace.
 
 </td></tr><tr><td id="d486049e223">
 
@@ -131,7 +131,7 @@ Create a free form element type to define the free form text more declaratively 
 -   **[Create a Visualization Type Element](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-visualization-type-element.md)**  
 Create a visualization element type to define the visualization elements more declaratively with filter options such as assignment groups and labels.
 -   **[Create a List Type Element](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-list-type-element.md)**  
-[[create-list-type-element|Create a list type element]], which defines the related list elements more declaratively with filter options such as assignment groups and labels.
+Create a list type element, which defines the related list elements more declaratively with filter options such as assignment groups and labels.
 -   **[Create a Custom Type Element](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-a-custom-type-element.md)**  
 Create a list type element, which defines the related list elements more declaratively with filter options such as assignment groups and labels.
 
@@ -148,9 +148,3 @@ Create a list type element, which defines the related list elements more declara
 
 [Add system properties]()
 
-## Related
-
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]
-- [[threat-intelligence-locations|Locations]]
-- [[create-report-sir|Create a report]]
-- [[create-list-type-element|Create a List Type Element]]

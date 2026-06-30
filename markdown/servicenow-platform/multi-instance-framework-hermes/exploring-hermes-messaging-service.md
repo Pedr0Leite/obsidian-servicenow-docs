@@ -14,7 +14,7 @@ breadcrumb: [Hermes Messaging Service, Manage service capabilities, Extend Servi
 
 # Exploring Hermes Messaging Service
 
-Learn about the [[hermes-messaging-service|Hermes Messaging Service]] and how it helps you manage the flow of data between your Kafka environment and your instance.
+Learn about the Hermes Messaging Service and how it helps you manage the flow of data between your Kafka environment and your instance.
 
 ## Hermes Messaging Service overview
 
@@ -77,7 +77,7 @@ Hermes uses the following components.
 
 Different integration points and applications in the ServiceNow platform can use the Hermes Messaging Service to publish and ingest events.
 
-The Hermes Messaging Service is a ServiceNow AI Platform capability that is available as part of Stream [[c_Connect|Connect]], Log Export Service \(LES\), and [[instance-data-replication|Instance Data Replication]] \(IDR\).
+The Hermes Messaging Service is a ServiceNow AI Platform capability that is available as part of Stream Connect, Log Export Service \(LES\), and Instance Data Replication \(IDR\).
 
 |Benefit|Application|Users|
 |-------|-----------|-----|
@@ -106,8 +106,3 @@ To learn more about configuring and using the Hermes Messaging Service, see:
 -   [Administering Hermes Messaging Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/hermes-messaging-service-administration.md)
 -   [Hermes Messaging Service reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/hermes-messaging-service-reference.md)
 
-## Related
-
-- [[hermes-messaging-service|Hermes Messaging Service]]
-- [[c_Connect|Connect]]
-- [[instance-data-replication|Instance Data Replication]]

@@ -35,16 +35,11 @@ Role required: admin
     **Note:**
 
     -   The action item type must be set to **Script** to display this **Execution Script** field.
-    -   In the above script example, the addAssetToStockroom\(\) function is a custom function that has been created by the user. For more information, see [[sg-studio-config-action-function|Configure an action function]].
+    -   In the above script example, the addAssetToStockroom\(\) function is a custom function that has been created by the user. For more information, see [Configure an action function](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-studio-config-action-function.md).
 
 ## What to do next
 
-Your button is configured for multi-scan, and your users can begin creating records. For information on using the mobile scanning interface, see [[sg-multi-scan|Multi-scan for mobile applications]].
+Your button is configured for multi-scan, and your users can begin creating records. For information on using the mobile scanning interface, see [Multi-scan for mobile applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-multi-scan.md).
 
-**Parent Topic:**[[sg-configure-multiscan|Configure a grouped input for multiple scans]]
+**Parent Topic:**[Configure a grouped input for multiple scans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-configure-multiscan.md)
 
-## Related
-
-- [[sg-studio-config-action-function|Configure an action function]]
-- [[sg-multi-scan|Multi-scan for mobile applications]]
-- [[sg-configure-multiscan|Configure a grouped input for multiple scans]]

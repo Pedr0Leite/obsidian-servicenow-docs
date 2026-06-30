@@ -20,11 +20,11 @@ Role required: admin
 
 ## About this task
 
-In the [[c_CustomerServiceManagement|Customer Service Management]] application, a case type represents the data and processes that are needed to resolve a specific type of customer issue. The administrator can create a table for a new case type that extends the Case table \(sn\_customerservice\_case\). The extended table for the case type inherits most of the functionality of the Case table.
+In the Customer Service Management application, a case type represents the data and processes that are needed to resolve a specific type of customer issue. The administrator can create a table for a new case type that extends the Case table \(sn\_customerservice\_case\). The extended table for the case type inherits most of the functionality of the Case table.
 
-As part of configuring [[migration-forms|forms]], you can configure ribbon settings for case types. The ribbon appears at the top of the form and includes components that display customer and case information, such as Customer 360, Timeline, and Active SLA. Each component has a ribbon setting that stores configuration information about that component.
+As part of configuring forms, you can configure ribbon settings for case types. The ribbon appears at the top of the form and includes components that display customer and case information, such as Customer 360, Timeline, and Active SLA. Each component has a ribbon setting that stores configuration information about that component.
 
-Case types that are extended from the Case table can display these components in the ribbon on the [[r_CustomerServiceCaseForm|Case form]]. For case types, you can do the following:
+Case types that are extended from the Case table can display these components in the ribbon on the Case form. For case types, you can do the following:
 
 -   Create ribbon settings for case extensions, or
 -   Modify existing ribbon settings so that the case extensions inherit the ribbon component behavior.
@@ -45,8 +45,4 @@ To modify ribbon component behavior, use the following procedure.
 
 5.  Repeat steps 2–4 for each component to be displayed in the ribbon.
 
-## Related
 
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[migration-forms|Forms]]
-- [[r_CustomerServiceCaseForm|Case form]]

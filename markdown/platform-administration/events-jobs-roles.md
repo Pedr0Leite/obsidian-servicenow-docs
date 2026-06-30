@@ -14,7 +14,7 @@ breadcrumb: [Monitor System Events and Scheduled Jobs dashboard, Maintain and mo
 
 Events and Jobs dashboard is installed with these roles.
 
-To learn more about managing subscriptions, see [[managing-user-subscriptions-v2|Managing per-user subscriptions in Subscription Management]] and contact your account representative.
+To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/managing-user-subscriptions-v2.md) and contact your account representative.
 
 ## System administrator \[admin\]
 
@@ -44,6 +44,4 @@ The admin can access all information on the events and jobs dashboard. They can 
 
     None.
 
-## Related
 
-- [[managing-user-subscriptions-v2|Managing per-user subscriptions in Subscription Management]]

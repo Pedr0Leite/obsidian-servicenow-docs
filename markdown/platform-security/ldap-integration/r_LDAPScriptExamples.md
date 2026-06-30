@@ -21,7 +21,7 @@ The following script examples assume you use an Active Directory \(AD\) for your
 This example tests the source for the userAccountControl attribute values associated with a disabled user \(514 or 546\).
 
 ```
-//Deactivate LDAP-disabled [[users|users]] during transform based on 'userAccountControl' attribute
+//Deactivate LDAP-disabled users during transform based on 'userAccountControl' attribute
 if(source.u_useraccountcontrol == '514' || source.u_useraccountcontrol == '546'){
    target.active=false;
    target.locked_out=true;
@@ -97,6 +97,3 @@ if(source.u_dn.indexOf('OU=Disabled Accounts') > -1){
 }
 ```
 
-## Related
-
-- [[users|Users]]

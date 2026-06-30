@@ -18,7 +18,7 @@ This accelerator assesses your current Legal Service Delivery \(LSD\) processes 
 
 ## Accelerator overview
 
-Legal Service Delivery Maturity Assessment provides [[impact-landing-page|Impact]] customers with prescriptive recommendations based on a structured assessment conducted by key stakeholders within the customer's business. By offering customers a snapshot of their current process maturity and targeted next-step recommendations, this accelerator helps maximize the value of their ServiceNow investment.
+Legal Service Delivery Maturity Assessment provides Impact customers with prescriptive recommendations based on a structured assessment conducted by key stakeholders within the customer's business. By offering customers a snapshot of their current process maturity and targeted next-step recommendations, this accelerator helps maximize the value of their ServiceNow investment.
 
 ## Package Availability
 
@@ -34,7 +34,7 @@ Legal Service Delivery Maturity Assessment provides [[impact-landing-page|Impact
 
     Your assessment participants are asked to independently fill out a prebuilt LSD Maturity Assessment questionnaire that asks targeted questions to assess gaps and opportunities with your LSD product.
 
--   **Questionnaire results analysis \(time as needed determined by the [[impact-squad|Impact Squad]]\)**
+-   **Questionnaire results analysis \(time as needed determined by the Impact Squad\)**
 
     The Impact Squad performs the following:
 
@@ -54,7 +54,7 @@ Legal Service Delivery Maturity Assessment provides [[impact-landing-page|Impact
     -   Review the LSD Maturity Assessment report:
         -   Present the assessment results
         -   Discuss targeted recommendations
-        -   Provide a suggested plan and resources to [[io-help|help]] you decide which recommendations to implement
+        -   Provide a suggested plan and resources to help you decide which recommendations to implement
 -   **Follow-up Session \(up to 1 hour\)**
     -   Opportunity for Q&amp;A related to the LSD Maturity Assessment
     -   Provide additional guidance on leading practices, as needed
@@ -141,8 +141,4 @@ We request that the LSD Maturity questionnaire is completed by the Customer virt
 
 -   ServiceNow resources are not responsible for implementing LSD recommendations on Customer’s non-production or production instances.
 
-## Related
 
-- [[impact-landing-page|Impact]]
-- [[impact-squad|Impact Squad]]
-- [[io-help|Help]]

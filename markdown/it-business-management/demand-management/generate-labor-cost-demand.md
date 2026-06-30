@@ -28,7 +28,7 @@ Role required: it\_demand\_manager
 
 3.  Select **Active**.
 
-4.  On the [[scheduled-script-execution-form-gf|Scheduled Script Execution form]], fill the fields.
+4.  On the Scheduled Script Execution form, fill the fields.
 
     For a description of the field names, see [Scheduled Script Execution Form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/scheduled-script-execution-form.md).
 
@@ -39,6 +39,3 @@ Role required: it\_demand\_manager
 
 **Parent Topic:**[Create a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_CreatingDemands.md)
 
-## Related
-
-- [[scheduled-script-execution-form-gf|Scheduled Script Execution form]]

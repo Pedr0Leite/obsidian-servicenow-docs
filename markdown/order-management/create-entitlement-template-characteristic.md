@@ -24,11 +24,11 @@ A characteristic is used for defining the service coverage that is provided to c
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[product-catalog-managment|Product Catalog Management]]** &gt; **Characteristics** &gt; **Characteristics**.
+1.  Navigate to **All** &gt; **Product Catalog Management** &gt; **Characteristics** &gt; **Characteristics**.
 
 2.  Select **New**.
 
-3.  On the form, fill in the [[fields|fields]].
+3.  On the form, fill in the fields.
 
     |Field|Description|
     |-----|-----------|
@@ -38,7 +38,4 @@ A characteristic is used for defining the service coverage that is provided to c
 
 4.  Select **Submit**.
 
-## Related
 
-- [[product-catalog-managment|Product Catalog Management]]
-- [[fields|Fields]]

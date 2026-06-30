@@ -14,7 +14,7 @@ breadcrumb: [Employee actions, Use ITSM and HRSD integrations with Microsoft Tea
 
 # Respond to a comment in a notification
 
-A comment in the [[activity-lxp|activity]] stream generates a notification to which the user can respond directly, without leaving Microsoft Teams.
+A comment in the activity stream generates a notification to which the user can respond directly, without leaving Microsoft Teams.
 
 ## Before you begin
 
@@ -51,6 +51,3 @@ If the user needs to take an additional action, such as attaching a document, th
 
 **Parent Topic:**[Employee actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/employee-sn-ms-teams.md)
 
-## Related
-
-- [[activity-lxp|Activity]]

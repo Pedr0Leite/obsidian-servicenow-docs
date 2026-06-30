@@ -12,7 +12,7 @@ breadcrumb: [Email digests, Email and SMS notifications, System notifications, N
 
 # Configure email digests
 
-Use the Notification form to create or modify the content of an email digest for a notification. You can also disable the email digest for a notification so that it isn’t available in the [[preferences-landing|notification preferences]] of your users.
+Use the Notification form to create or modify the content of an email digest for a notification. You can also disable the email digest for a notification so that it isn’t available in the notification preferences of your users.
 
 ## Before you begin
 
@@ -20,11 +20,11 @@ Role required: admin
 
 ## About this task
 
-When you [[t_CreateANotification|create or update a notification]], use the **What Digest will contain** tab of the Notification form to configure the email digest for the notification. After you define the digest content, the digest option for the notification is available in the notification settings of your users.
+When you [create or update a notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateANotification.md), use the **What Digest will contain** tab of the Notification form to configure the email digest for the notification. After you define the digest content, the digest option for the notification is available in the notification settings of your users.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Notification** &gt; **Email** &gt; **[[notifications|Notifications]]**.
+1.  Navigate to **All** &gt; **System Notification** &gt; **Email** &gt; **Notifications**.
 
     |Action|Description|
     |------|-----------|
@@ -106,7 +106,7 @@ Digest HTML
 
 Enter the recurring content for the email digest. The digest content can include variables from the **Select variables** column.
 
- Variables map to column names available from the notification table, its parent tables, and [[reference-email-admin|reference]] tables. Use variables to include values from a record in the table such as an incident short description or comments and work notes.
+ Variables map to column names available from the notification table, its parent tables, and reference tables. Use variables to include values from a record in the table such as an incident short description or comments and work notes.
 
  To prevent adding extra `<p>` and `<div>` elements to your email digest, see the blog post [Extra line spacing with paragraph tags in email client](https://community.servicenow.com/community/blogs/blog/2014/12/12/extra-line-spacing-with-p-tags-in-email-client) by a ServiceNow employee in the ServiceNow Community.
 
@@ -126,7 +126,7 @@ Digest From
 
 Enter the email address to be used in the From field of the email digest. For example, helpdesk@yourcompany.com. The email address must be in a valid format, otherwise a notification message appears near the field.
 
- Changing this address requires an [[c_AlternateEmailConfigurations|advanced email setup]] such as [[t_ConfAltEmailUsgOwnSMTP|enabling email forwarding]].
+ Changing this address requires an advanced email setup such as [enabling email forwarding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ConfAltEmailUsgOwnSMTP.md).
 
 </td></tr><tr><td>
 
@@ -159,7 +159,7 @@ Digest Separator \(text\)
 
     The email **Digest** option is displayed in the notification settings of your users.
 
-    **Note:** The email recipients identified in the **Who will receive** tab will receive the digest after they [[enable-email-digest|enable the digest]] in their notification preferences. If the user isn’t a designated recipient for the notification, a digest isn’t generated even though the user may have the digest enabled for a notification. In this case, the user receives the actual notifications when they’re generated.
+    **Note:** The email recipients identified in the **Who will receive** tab will receive the digest after they [enable the digest](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/enable-email-digest.md) in their notification preferences. If the user isn’t a designated recipient for the notification, a digest isn’t generated even though the user may have the digest enabled for a notification. In this case, the user receives the actual notifications when they’re generated.
 
 9.  To disable the email digest for a notification, unselect the **Allow Digest** check box and select **Update** when you finish your changes to the notification.
 
@@ -168,25 +168,14 @@ Digest Separator \(text\)
     **Note:** If you turned off the digest and want to make the digest available again, select the **Allow Digest** check box. The system retains the previously saved digest content and displays it in the **What Digest will contain** tab.
 
 
-**Parent Topic:**[[email-digests|Email digests]]
+**Parent Topic:**[Email digests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/email-digests.md)
 
 **Related topics**  
 
 
 [Email digests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/email-digests.md)
 
-[[create-digest-intervals|Create or modify email digest intervals]]
+[Create or modify email digest intervals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-digest-intervals.md)
 
 [Enable an email digest in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/enable-email-digest.md)
 
-## Related
-
-- [[t_CreateANotification|Create an email notification]]
-- [[t_ConfAltEmailUsgOwnSMTP|Enable using your own SMTP server]]
-- [[enable-email-digest|Enable an email digest in Core UI]]
-- [[email-digests|Email digests]]
-- [[create-digest-intervals|Create or modify email digest intervals]]
-- [[preferences-landing|Notification Preferences]]
-- [[notifications|Notifications]]
-- [[reference-email-admin|Reference]]
-- [[c_AlternateEmailConfigurations|Advanced email setup]]

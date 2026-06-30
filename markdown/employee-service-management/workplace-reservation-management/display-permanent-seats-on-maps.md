@@ -20,9 +20,9 @@ Display permanent space assignments along with employee names on maps.
 
 Verify that you’ve installed the following to display permanent seating assignment on the map:
 
--   [[Indoor-mapping|Indoor Mapping]]
--   [[wsm-mappedin-admin|Workplace Space Mapping]]
--   [[workplace-case-mgmt-feat|Workplace Case Management]]
+-   Indoor Mapping
+-   Workplace Space Mapping
+-   Workplace Case Management
 
 Employees must have a dedicated workspace allocation in their workplace profiles. Permanent seats along with employee names are displayed on the map based on the following considerations:
 
@@ -49,11 +49,11 @@ Role required: admin
 
         Activating this property to display permanent seat assignments along with employee names on floor maps. By default, this property is set to **No**.
 
-2.  Navigate to **All** &gt; **[[workplace-rsv-mgmt-feat|Workplace Reservation Management]]**.
+2.  Navigate to **All** &gt; **Workplace Reservation Management**.
 
     1.  The following web application widgets display the permanent seat assignments on a map:
 
-        -   [[reservation-portal|Make a reservation]]
+        -   Make a reservation
         -   Space Details
         -   Location Directory
         -   General request \(Order something\)
@@ -81,7 +81,7 @@ Role required: admin
 
 4.  From the Reservation Portal home, select the **Location Directory** widget.
 
-    You can access the Location Directory widget from the [[employee-center-landing-page|Employee Center]] portal. Navigate to **All** &gt; **Self-Service** &gt; **Employee Center** &gt; **[[workplace-services|Workplace Services]]** &gt; **Site Safety** &gt; **Location Directory**.
+    You can access the Location Directory widget from the Employee Center portal. Navigate to **All** &gt; **Self-Service** &gt; **Employee Center** &gt; **Workplace Services** &gt; **Site Safety** &gt; **Location Directory**.
 
     1.  On the Interactive floor map, select a location and floor from the drop-down options.
 
@@ -158,7 +158,7 @@ Role required: admin
 
 6.  Navigate to the My favorites page from the Employee Center page.
 
-    1.  Select a favorite space or navigate to **Workplace services** &gt; **[[emp-center-quick-link-config|Quick Links]]** &gt; **Create reservation**.
+    1.  Select a favorite space or navigate to **Workplace services** &gt; **Quick Links** &gt; **Create reservation**.
 
     2.  To make a reservation, enter the required information.
 
@@ -218,13 +218,3 @@ Role required: admin
 
 [Configure reservation multi-day settings in Reservable Module]()
 
-## Related
-
-- [[Indoor-mapping|Indoor Mapping]]
-- [[wsm-mappedin-admin|Workplace Space Mapping]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[reservation-portal|Make a reservation]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-services|Workplace Services]]
-- [[emp-center-quick-link-config|Quick links]]

@@ -14,7 +14,7 @@ breadcrumb: [Set up B2B2C, Configure, Healthcare and Life Sciences Service Manag
 
 # Install the Customer Data Models for B2B2C plugin for Healthcare and Life Sciences Service Management Core
 
-Install the Customer Data Models for B2B2C plugin to enable customer data models for [[hcls-enable-b2b2c|B2B2C with Healthcare and Life Sciences Service Management Core]].
+Install the Customer Data Models for B2B2C plugin to enable customer data models for B2B2C with Healthcare and Life Sciences Service Management Core.
 
 ## Before you begin
 
@@ -28,6 +28,4 @@ Role required: admin
 
 3.  Click **Install**.
 
-## Related
 
-- [[hcls-enable-b2b2c|B2B2C with Healthcare and Life Sciences Service Management Core]]

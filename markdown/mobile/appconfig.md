@@ -100,8 +100,5 @@ Use the following configuration keys with one of the following values to define 
 |MaasS360|IBM MAAS360|
 |Citrix|Citrix Secure|
 
-**Parent Topic:**[[imp-considerations|Considerations before implementation]]
+**Parent Topic:**[Considerations before implementation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/imp-considerations.md)
 
-## Related
-
-- [[imp-considerations|Considerations before implementation]]

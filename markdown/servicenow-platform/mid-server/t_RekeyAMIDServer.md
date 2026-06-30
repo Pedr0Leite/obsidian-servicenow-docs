@@ -14,7 +14,7 @@ breadcrumb: [Securing and encrypting MID Server data, MID Server, Manage instanc
 
 # Rekey a MID Server
 
-Rekey a MID Server to generate a new private key. Private keys are used to decrypt automation credentials, so that MID Servers can transmit information securely. Key pairs are initially generated when a [[mid-server-landing|MID Server]] is validated, and MID Servers should be rekeyed periodically to meet security requirements.
+Rekey a MID Server to generate a new private key. Private keys are used to decrypt automation credentials, so that MID Servers can transmit information securely. Key pairs are initially generated when a MID Server is validated, and MID Servers should be rekeyed periodically to meet security requirements.
 
 ## Before you begin
 
@@ -75,6 +75,3 @@ Automation credentials are secured by encrypting them in the instance with the M
 
 [Validate the MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/t_ValidateAMIDServer.md)
 
-## Related
-
-- [[mid-server-landing|MID Server]]

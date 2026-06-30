@@ -26,8 +26,5 @@ With the business-to-business-to-consumer \(B2B2C\) model, you can support busin
 **Related topics**  
 
 
-[[customer-service-data-models|Customer service business models]]
+[Customer service business models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-data-models.md)
 
-## Related
-
-- [[customer-service-data-models|Customer service business models]]

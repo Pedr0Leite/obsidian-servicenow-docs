@@ -30,7 +30,7 @@ An evidence can be requested in the following three ways:
 
 -   **Request Evidence**
 
-    From the Entity, Control, Audit Task, Control Test Issue, and Other Issues related lists in an engagement record. To request evidence from these sources, navigate to **Audit** &gt; **Engagements** &gt; **My Engagements**. Open the engagement record, and select the related list from which you want to request evidence. From the **Action on selected rows** list, select **Request Evidence**. Here, you can either create a new [[evidence-request|evidence request]] or add more requests to an existing evidence request. The Evidence request is created but not evidence request tasks. For more information on adding existing evidence, see [Reuse existing evidence from the related items of an engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/request-evidence-existing-pc.md).
+    From the Entity, Control, Audit Task, Control Test Issue, and Other Issues related lists in an engagement record. To request evidence from these sources, navigate to **Audit** &gt; **Engagements** &gt; **My Engagements**. Open the engagement record, and select the related list from which you want to request evidence. From the **Action on selected rows** list, select **Request Evidence**. Here, you can either create a new evidence request or add more requests to an existing evidence request. The Evidence request is created but not evidence request tasks. For more information on adding existing evidence, see [Reuse existing evidence from the related items of an engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/request-evidence-existing-pc.md).
 
 -   **Entity, Control, Control Objective, Control Test, Engagement, Issue tables**
 
@@ -327,6 +327,4 @@ Instructions to collect the evidence.If you are the manager or requester, you ca
 
 24. Click **Save**.
 
-## Related
 
-- [[evidence-request|Evidence request]]

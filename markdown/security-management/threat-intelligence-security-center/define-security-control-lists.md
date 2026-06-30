@@ -14,7 +14,7 @@ breadcrumb: [About Security Control Lists in TISC, Administer, Threat Intelligen
 
 # Defining Security Control Lists
 
-Use this feature to add or remove [[c_Observables|observables]] in bulk.
+Use this feature to add or remove observables in bulk.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_sec\_tisc.admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Administration**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center** &gt; **Administration**.
 
 2.  Go to **Security Control Lists**.
 
@@ -56,7 +56,4 @@ Role required: sn\_sec\_tisc.admin
 
     **Note:** Allow list and deny list are mutually exclusive and the system will automatically ensure that an observable in allow list is not part of deny list and vice-versa.
 
-## Related
 
-- [[c_Observables|Observables]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]

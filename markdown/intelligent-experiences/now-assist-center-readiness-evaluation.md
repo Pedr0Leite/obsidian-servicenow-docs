@@ -13,7 +13,7 @@ breadcrumb: [Explore, Now Assist Center, Enable AI experiences]
 
 # Now Assist Readiness Evaluation in Now Assist Center
 
-[[now-assist-readiness-evaluation-landing-page|Now Assist Readiness Evaluation]] is a solution designed to simplify and automate the agentic AI and [[platform-now-assist-landing|Now Assist]] implementation assessment process. It automates assessment processes, evaluates data readiness, and provides actionable insights to help you quickly adopt AI capabilities.
+Now Assist Readiness Evaluation is a solution designed to simplify and automate the agentic AI and Now Assist implementation assessment process. It automates assessment processes, evaluates data readiness, and provides actionable insights to help you quickly adopt AI capabilities.
 
 ## Now Assist Readiness Evaluation overview
 
@@ -37,9 +37,9 @@ For more information on the Now Assist Readiness Evaluation application, see [No
 
 ## Now Assist Readiness Evaluation in Now Assist Center
 
-Now Assist Readiness Evaluation appears in several places in [[now-assist-center-landing-page|Now Assist Center]].
+Now Assist Readiness Evaluation appears in several places in Now Assist Center.
 
--   **[[now-assist-center-home-page|Home page]]**
+-   **Home page**
 
     The AI readiness section of the home page displays the most relevant readiness assessments, each with a link to see the assessment details.
 
@@ -52,9 +52,9 @@ Now Assist Readiness Evaluation appears in several places in [[now-assist-center
     The assessment details page shows the detailed results of a readiness assessment for a specific area of your instance. It shows readiness by category and lists the important issues to resolve to achieve AI implementation readiness.
 
 
-For more information on using Now Assist Readiness Evaluation in Now Assist Center, see [[now-assist-center-using-readiness-evaluation|Using Now Assist Readiness Evaluation in Now Assist Center]].
+For more information on using Now Assist Readiness Evaluation in Now Assist Center, see [Using Now Assist Readiness Evaluation in Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-using-readiness-evaluation.md).
 
-**Parent Topic:**[[exploring-now-assist-center|Exploring Now Assist Center]]
+**Parent Topic:**[Exploring Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/exploring-now-assist-center.md)
 
 **Related topics**  
 
@@ -65,11 +65,3 @@ For more information on using Now Assist Readiness Evaluation in Now Assist Cent
 
 [Supporting information for Now Assist Center]()
 
-## Related
-
-- [[now-assist-center-using-readiness-evaluation|Using Now Assist Readiness Evaluation in Now Assist Center]]
-- [[exploring-now-assist-center|Exploring Now Assist Center]]
-- [[now-assist-readiness-evaluation-landing-page|Now Assist Readiness Evaluation]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-center-landing-page|Now Assist Center]]
-- [[now-assist-center-home-page|Home page]]

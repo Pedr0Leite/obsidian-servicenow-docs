@@ -14,7 +14,7 @@ breadcrumb: [Configure, Gifts and Entertainment Compliance, Legal Service Delive
 
 # Configure approval workflow for Gifts and Entertainment Compliance
 
-Review the flows installed with the [[lsd-ge-landing-page|Gifts and Entertainment Compliance]] application and configure them to align to your company's policy.
+Review the flows installed with the Gifts and Entertainment Compliance application and configure them to align to your company's policy.
 
 ## Before you begin
 
@@ -49,6 +49,3 @@ The flows are built using ServiceNow Workflow Studio, so make sure you’re fami
 
 **Parent Topic:**[Configure Gifts and Entertainment Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-gifts-and-entertainment/lsd-ge-administration.md)
 
-## Related
-
-- [[lsd-ge-landing-page|Gifts and Entertainment Compliance]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure Notify Cisco Webex Connector, Configuring Notify, Notify,
 
 # Create an OAuth credential record for Notify with Cisco Webex
 
-Create a credential record for the [[notify-landing-page|Notify]] with Cisco Webex account.
+Create a credential record for the Notify with Cisco Webex account.
 
 ## Before you begin
 
@@ -95,14 +95,10 @@ Credential alias associated with the spoke.
 
     You must log in to Cisco Webex account to retrieve the token details.
 
-    Enter the [[email|email]] address of the Cisco account that connects your ServiceNow instance with Cisco Webex portal. This email address should be unique and can’t be assigned to any user. Ex: cisco\_servicenow@webex.com.
+    Enter the email address of the Cisco account that connects your ServiceNow instance with Cisco Webex portal. This email address should be unique and can’t be assigned to any user. Ex: cisco\_servicenow@webex.com.
 
     On successful authentication, a confirmation message is displayed on the header.
 
 
 **Parent Topic:**[Configure Notify Cisco Webex Connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/setup-cisco-webex-notify.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]
-- [[email|Email]]

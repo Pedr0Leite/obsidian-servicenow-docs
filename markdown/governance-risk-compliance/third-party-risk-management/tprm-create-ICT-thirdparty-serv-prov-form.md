@@ -14,7 +14,7 @@ breadcrumb: [Create a third party and enhance digital resilience data, Use digit
 
 # Create New ICT third-party service provider form
 
-On the [[create-ICT-thirdparty-serv-prov-form|Create New ICT third-party service provider form]], fill in the fields.
+On the Create New ICT third-party service provider form, fill in the fields.
 
 <table id="table_yrz_2qh_ddc"><thead><tr><th>
 
@@ -177,7 +177,3 @@ Type of code that is used to identify the ICT service provider’s ultimate pare
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[create-ICT-thirdparty-serv-prov-form|Create New ICT third-party service provider form]]

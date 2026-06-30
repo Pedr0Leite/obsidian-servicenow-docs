@@ -14,7 +14,7 @@ breadcrumb: [Manage supplier cases, Using Source-to-Pay Workspace, Use, Supplier
 
 # View information on supplier cases
 
-The **[[supplier|Supplier]] Information** tab shows details about the supplier and the [[supplier-contact|supplier contact]], a summary of all the open and overdue cases, and a list of all the cases by their priority.
+The **Supplier Information** tab shows details about the supplier and the supplier contact, a summary of all the open and overdue cases, and a list of all the cases by their priority.
 
 \[Omitted image "supp-info-tab.png"\] Alt text: Supplier Information tab.
 
@@ -217,7 +217,3 @@ Displays a list of cases by their priority, including case details, such as case
 
 [Sidebar for supplier cases in the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/sidebar-smw.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[supplier-contact|Supplier contact]]

@@ -23,7 +23,7 @@ Operationalize a Configuration Item so that you can finalize the changes and app
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then go to **Changes** &gt; **All**.
 
@@ -62,6 +62,3 @@ Operationalize a Configuration Item so that you can finalize the changes and app
 
 **Parent Topic:**[Instantiating your network inventory by using design and assign](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/instantiate-asset-using-template-relationship-model.md)
 
-## Related
-
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]

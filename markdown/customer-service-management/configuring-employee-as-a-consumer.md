@@ -12,7 +12,7 @@ breadcrumb: [Configuring a Unified User, User management, Set up your environmen
 
 # Configuring a user as a Unified Consumer
 
-By creating a unified profile, you can integrate both internal and external personas or consumers in your organization. A user who has a unified profile has synchronized user's login interactions across the [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) application.
+By creating a unified profile, you can integrate both internal and external personas or consumers in your organization. A user who has a unified profile has synchronized user's login interactions across the Customer Service Management \(CSM\) application.
 
 ## Overview of Unified Consumer
 
@@ -31,13 +31,13 @@ A functional Unified Consumer requires:
 
 **Note:**
 
-Create the consumer record before assigning the role. Missing either component prevents the user from accessing consumer functionality such as cases, [[sold-product|sold products]], or [[install-base-item|install base items]].
+Create the consumer record before assigning the role. Missing either component prevents the user from accessing consumer functionality such as cases, sold products, or install base items.
 
 You can initiate this functionality by enabling the Customer Service \(com.sn\_customerservice\) plugin.
 
 ## Using a query rules framework
 
-You can use the Unified Consumer feature only within the query [[gamification-components-rules|rules]] framework. For example, when you update a consumer record, the associated user records synchronize through a business rule **sync\_consumer** to **csm\_consumer\_user** through a business rule. This synchronization occurs only if the associated user class has the **csm\_consumer\_user** record and not any other user record. When you modify the following fields for the consumer user, the associated records also automatically update:
+You can use the Unified Consumer feature only within the query rules framework. For example, when you update a consumer record, the associated user records synchronize through a business rule **sync\_consumer** to **csm\_consumer\_user** through a business rule. This synchronization occurs only if the associated user class has the **csm\_consumer\_user** record and not any other user record. When you modify the following fields for the consumer user, the associated records also automatically update:
 
 -   First name
 -   Middle name
@@ -52,18 +52,9 @@ You can synchronize all types of user records by customizing the business rule. 
 **Related topics**  
 
 
-[[roles-installed-with-employee-as-consumer|Roles installed with Employee as a Consumer]]
+[Roles installed with Employee as a Consumer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/roles-installed-with-employee-as-consumer.md)
 
-[[features-supp-and-unsupp-by-unified-consumer|Supported and unsupported roles and features]]
+[Supported and unsupported roles and features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/features-supp-and-unsupp-by-unified-consumer.md)
 
-[[setting-up-a-user|Setting up a user as a Unified Consumer]]
+[Setting up a user as a Unified Consumer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/setting-up-a-user.md)
 
-## Related
-
-- [[roles-installed-with-employee-as-consumer|Roles installed with Employee as a Consumer]]
-- [[features-supp-and-unsupp-by-unified-consumer|Supported and unsupported roles and features]]
-- [[setting-up-a-user|Setting up a user as a Unified Consumer]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[sold-product|Sold products]]
-- [[install-base-item|Install base items]]
-- [[gamification-components-rules|Rules]]

@@ -14,7 +14,7 @@ breadcrumb: [Security scanner, Security configuration console, Security Center, 
 
 # Security scan comparison
 
-Compare two scans of the same security suite to gain visibility to the health of your [[security-hardening-settings|hardening settings]] and improve the security posture of your instance.
+Compare two scans of the same security suite to gain visibility to the health of your hardening settings and improve the security posture of your instance.
 
 \[Omitted image "sec-center-scan-comp.png"\] Alt text: Security scan comparison
 
@@ -24,11 +24,11 @@ Select a scan in the **Scan Suite** list, then select a **First Scan** and **Sec
 
 The security scan comparison page displays the security changes in your hardening settings between the first and second scans. Below is an explanation of each card:
 
--   **[[scan-findings|Scan findings]]**
+-   **Scan findings**
 
     Number of findings in the selected scan at each selected date.
 
--   **[[scan-checks|Scan checks]]**
+-   **Scan checks**
 
     Number of scan checks performed in the selected scan at each selected date.
 
@@ -42,14 +42,8 @@ The security scan comparison page displays the security changes in your hardenin
 
 -   **Scan findings**
 
-    List of all scan findings. Select a finding, scan result, or check to view the associated record and find additional details. Use the bottoms in the upper right to filter, refresh, or [[export|export]] the list.
+    List of all scan findings. Select a finding, scan result, or check to view the associated record and find additional details. Use the bottoms in the upper right to filter, refresh, or export the list.
 
 
 **Parent Topic:**[Security scanner](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sc-scanning.md)
 
-## Related
-
-- [[security-hardening-settings|Hardening settings]]
-- [[scan-findings|Scan findings]]
-- [[scan-checks|Scan checks]]
-- [[export|Export]]

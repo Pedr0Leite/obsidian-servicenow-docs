@@ -14,7 +14,7 @@ breadcrumb: [Hybrid Analysis integration, Security Incident Response integration
 
 # Verify expected results for Hybrid Analysis
 
-[[c_Observables|Observables]] are generated automatically by a security incident and scanned by the application. Locate the lookup results on the security incident to verify the [[tisc-threat-lookup|threat lookup]] has run successfully. Also view raw data and run threat lookups on child observables.
+Observables are generated automatically by a security incident and scanned by the application. Locate the lookup results on the security incident to verify the threat lookup has run successfully. Also view raw data and run threat lookups on child observables.
 
 ## Before you begin
 
@@ -42,7 +42,7 @@ Role required: sn\_si.analyst
 
     \[Omitted image "hybridanalysis-tag.png"\] Alt text: Open observable record with finding and security tag.
 
-    For lookups matching malicious, the **Finding** field displays `Malicious`, and the observable is tagged with the [[threat-intel-landing-page|Threat Intelligence]] source that found it to be malicious, in this case, the [[hybrid-analysis-lookups|Hybrid Analysis integration]].
+    For lookups matching malicious, the **Finding** field displays `Malicious`, and the observable is tagged with the Threat Intelligence source that found it to be malicious, in this case, the Hybrid Analysis integration.
 
 5.  Follow the steps to view raw data, view a list of child observables, and run a threat lookup on selected child observables.
 
@@ -62,7 +62,7 @@ Role required: sn\_si.analyst
 
         The child observables are displayed on the **Child Observables** tab on the security incident, because the lookup has found an existing connection between these related observables and the observable initially submitted.
 
-    4.  Click the field next to an observable in the **Child** column to select it, followed by the **[[tisc-run-threat-lookup|Run threat lookup]]** related link to perform a lookup.
+    4.  Click the field next to an observable in the **Child** column to select it, followed by the **Run threat lookup** related link to perform a lookup.
 
         \[Omitted image "hybridanalysis-childobservable.png"\] Alt text: Child observables tab.
 
@@ -79,10 +79,3 @@ If you do not see results under the **Threat Lookup Results** tab, verify that t
 
 **Next topic:**[\(Optional\) Manually attach an observable for Hybrid Analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/attach-an-observable-manually-hybrid-analysis.md)
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[tisc-threat-lookup|Threat Lookup]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[hybrid-analysis-lookups|Hybrid Analysis integration]]
-- [[tisc-run-threat-lookup|Run Threat Lookup]]

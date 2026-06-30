@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Select the application you want to install from the [[ac-achieve-business-objective|Adoption Blueprints]] details page.
+1.  Select the application you want to install from the Adoption Blueprints details page.
 
     An application details page with the key features about the selected application appears.
 
@@ -42,6 +42,3 @@ Role required: admin
 
 **Parent Topic:**[Adoption blueprints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/admin-center/ac-achieve-business-objective.md)
 
-## Related
-
-- [[ac-achieve-business-objective|Adoption blueprints]]

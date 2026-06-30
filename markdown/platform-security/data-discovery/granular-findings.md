@@ -101,12 +101,9 @@ When user chosen action has been successfully applied on the finding
 
 When applying user chosen action has failed.
 
-**Warning:** Findings in Manual Review should be deleted by [[users|users]] after taking appropriate actions.
+**Warning:** Findings in Manual Review should be deleted by users after taking appropriate actions.
 
 
 </td></tr></tbody>
 </table>**Warning:** Rollback is not supported for anonymization triggered from Granular Findings.
 
-## Related
-
-- [[users|Users]]

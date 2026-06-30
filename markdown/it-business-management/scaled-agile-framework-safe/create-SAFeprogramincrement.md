@@ -38,7 +38,7 @@ Steps
 
 </td><td>
 
-1.  Navigate to **[[SAFeoverview|Scaled Agile Framework \(SAFe\)]]** &gt; **SAFe Board**.
+1.  Navigate to **Scaled Agile Framework \(SAFe\)** &gt; **SAFe Board**.
 2.  From the list, select **ART**.
 3.  From the adjacent list, select the required ART value.
 4.  Click the **Backlog** tab.
@@ -231,6 +231,3 @@ List of all the objectives for this PI. View, create, and update the PI objectiv
 
 [Define a story in SAFe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/create-SAFestory.md)
 
-## Related
-
-- [[SAFeoverview|Scaled Agile Framework \(SAFe\)]]

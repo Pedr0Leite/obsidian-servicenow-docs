@@ -15,9 +15,9 @@ breadcrumb: [Configuration flow, Employee Slate, Unified Employee Experience, Em
 
 # Employee Slate for Now Assist
 
-Employees use Now Assist in [[employee-slate-landing-page|Employee Slate]] to start any request from one chat bar and finish in the same panel.
+Employees use Now Assist in Employee Slate to start any request from one chat bar and finish in the same panel.
 
-Employee Slate for Now Assist combines the Now Assist AI assistant with key Employee Slate features. These features include the conversation-first home page, the conversational catalog, the AI widget builder, and [[eslate-conversational-authoring-announcements|conversational authoring for announcements]]. You start any request from one chat bar and complete the request in the same panel.
+Employee Slate for Now Assist combines the Now Assist AI assistant with key Employee Slate features. These features include the conversation-first home page, the conversational catalog, the AI widget builder, and conversational authoring for announcements. You start any request from one chat bar and complete the request in the same panel.
 
 ## Quick features overview
 
@@ -28,7 +28,7 @@ Now Assist in Employee Slate provides:
 -   Predictive text and smart replies across knowledge bases, catalogs, tasks, requests, and announcements
 -   Task prioritization and scheduling assistance
 -   Conversational authoring for announcements
--   Conversational queries for the organization chart and the [[emp-slate-employee-profile|employee profile]]
+-   Conversational queries for the organization chart and the employee profile
 
 ## Administrator setup tasks
 
@@ -50,7 +50,7 @@ The following tasks cover the core employee workflows on Now Assist:
 |[Find a policy in Employee Slate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/eslate-find-policy.md)|Ask conversationally for a policy and receive an answer with citations to the source article.|
 |[Create an announcement with Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/eslate-create-announcement-with-now-assist.md)|Draft and publish an announcement with conversational authoring in Now Assist.|
 |[Use the calendar assistant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/eslate-use-calendar-assistant.md)|Manage meetings, agendas, and follow-ups from the calendar widget with Now Assist.|
-|Use the home page widgets|Use [[emp-slate-inbox|Tasks and requests]], announcements, popular content, upcoming holiday, and [[emp-center-quick-link-config|quick links]] widgets on the home page.|
+|Use the home page widgets|Use Tasks and requests, announcements, popular content, upcoming holiday, and quick links widgets on the home page.|
 
 ## What employees can do with Now Assist
 
@@ -63,10 +63,3 @@ From the chat bar on any Employee Slate page, employees complete the following w
 -   Receive proactive notifications in the bell tray with grouped updates and bulk mark-as-read.
 -   Continue the same conversation on a mobile browser.
 
-## Related
-
-- [[employee-slate-landing-page|Employee Slate]]
-- [[eslate-conversational-authoring-announcements|Conversational authoring for announcements]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[emp-slate-inbox|Tasks and requests]]
-- [[emp-center-quick-link-config|Quick links]]

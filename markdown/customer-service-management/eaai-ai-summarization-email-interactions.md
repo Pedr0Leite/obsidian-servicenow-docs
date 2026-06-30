@@ -13,7 +13,7 @@ breadcrumb: [Email Interaction, Email channel, Enable communication channels, Co
 
 # AI summarization of email interactions
 
-[[email-as-an-interaction|Email Interaction]] uses AI to generate summaries of email threads, reducing the time agents spend reading full conversation histories. Summaries can be generated on demand.
+Email Interaction uses AI to generate summaries of email threads, reducing the time agents spend reading full conversation histories. Summaries can be generated on demand.
 
 **Note:** Check your entitlements to determine whether you have access to AI summarization for email interactions.
 
@@ -25,7 +25,7 @@ The AI summarization feature processes email content, identifies key topics and 
 
 ## How summaries are generated
 
-The system generates a summary based on the full email [[csm-config-ws-activity-stream|activity stream]] of the interaction, including work notes when available. The summary is displayed in a summary card on the email interaction page.
+The system generates a summary based on the full email activity stream of the interaction, including work notes when available. The summary is displayed in a summary card on the email interaction page.
 
 When an agent is working on an email interaction and needs an on-demand summary, the agent selects **Summarize**. The system generates a summary of the full email activity stream and displays it in the **Interaction Summary** card on the interaction page.
 
@@ -67,13 +67,7 @@ When using AI summarization for email interactions, consider the following limit
 **Related topics**  
 
 
-[[using-email-interaction-customer-service-management|Using Email Interaction for Customer Service Management]]
+[Using Email Interaction for Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/using-email-interaction-customer-service-management.md)
 
-[[system-properties-for-configuring-email-as-an-interaction|System properties for configuring Email Interaction]]
+[System properties for configuring Email Interaction](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/system-properties-for-configuring-email-as-an-interaction.md)
 
-## Related
-
-- [[using-email-interaction-customer-service-management|Using Email Interaction for Customer Service Management]]
-- [[system-properties-for-configuring-email-as-an-interaction|System properties for configuring Email Interaction]]
-- [[email-as-an-interaction|Email Interaction]]
-- [[csm-config-ws-activity-stream|Activity stream]]

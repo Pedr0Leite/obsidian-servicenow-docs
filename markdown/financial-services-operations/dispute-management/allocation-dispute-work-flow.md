@@ -14,7 +14,7 @@ breadcrumb: [Initiate chargeback, Processing a Visa dispute, Resolving disputes 
 
 # Allocation dispute workflow
 
-In the allocation workflow, dispute agents work to resolve fraud and authorization disputes. Acquirers can choose to initiate pre-arbitration and arbitration, and issuers can respond. This is a part of the allocation dispute workflow for the [[chargeback-stage|Chargeback stage]].
+In the allocation workflow, dispute agents work to resolve fraud and authorization disputes. Acquirers can choose to initiate pre-arbitration and arbitration, and issuers can respond. This is a part of the allocation dispute workflow for the Chargeback stage.
 
 The transaction playbook helps dispute agents in handling **Fraud** and **Authorization** within the Visa allocation workflow. The playbook includes key activities such as initiating chargebacks, reviewing dispute responses, and managing pre-arbitration and arbitration tasks. The following table outlines the use case steps in this process.
 
@@ -40,7 +40,7 @@ Initiates the chargeback process and submits the dispute questionnaire to Visa.
 
 </td><td>
 
-1.  After the batch queue is triggered, the incoming pre-arbitration is reviewed and moves the transaction to the appropriate state. For more information on how to configure the batch queue, see [[activate-visa-queue-scheduler-flow|Configure the Visa Queue Scheduler Flow]]
+1.  After the batch queue is triggered, the incoming pre-arbitration is reviewed and moves the transaction to the appropriate state. For more information on how to configure the batch queue, see [Configure the Visa Queue Scheduler Flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/activate-visa-queue-scheduler-flow.md)
 2.  Reviews and responds to pre-arbitration details.
 
 </td></tr><tr><td>
@@ -93,7 +93,3 @@ Review the appeal and get an acknowledgment from Visa for the appeal.
 
 **Parent Topic:**[Chargeback stage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/chargeback-stage.md)
 
-## Related
-
-- [[activate-visa-queue-scheduler-flow|Configure the Visa Queue Scheduler Flow]]
-- [[chargeback-stage|chargeback stage]]

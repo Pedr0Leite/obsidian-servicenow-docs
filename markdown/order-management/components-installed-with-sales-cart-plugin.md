@@ -73,7 +73,7 @@ Migrate proxy orders to sales cart
 
 </td><td>
 
-On-demand job that migrates draft proxy order carts to the new sales cart experience and [[cpq-sets|sets]] the value of the **sn\_sales\_cart.show\_cart\_migration\_msg** system property to true.
+On-demand job that migrates draft proxy order carts to the new sales cart experience and sets the value of the **sn\_sales\_cart.show\_cart\_migration\_msg** system property to true.
 
  **Note:** If you used the Business Portal and are upgrading to the Zurich release, then you must run the Migrate proxy orders to sales cart job after installing the Sales Cart plugin \(sn\_sales\_cart\). Customers then don't lose products added to their carts on the Business Portal.
 
@@ -129,9 +129,5 @@ Sales Cart Pricing Adjustment
 Stores pricing adjustments applied to a sales cart or its line items, including adjustment type, value, and related references.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[som-business-portal-reference|Business Portal reference for Sales Customer Relationship Management]]
+</table>**Parent Topic:**[Business Portal reference for Sales Customer Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-business-portal-reference.md)
 
-## Related
-
-- [[som-business-portal-reference|Business Portal reference for Sales Customer Relationship Management]]
-- [[cpq-sets|Sets]]

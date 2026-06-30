@@ -14,7 +14,7 @@ breadcrumb: [Install Supplier Collaboration Portal, Configure, Supplier Lifecycl
 
 # Restricted caller access approvals for Supplier Collaboration Portal
 
-After you install the [[supplier-central|Supplier Collaboration Portal]] application from ServiceNow Store, you might encounter Restricted Caller Access \(RCA\) approval messages requesting for an update in the access request. You can approve the RCA privileges either manually or by running the fix script.
+After you install the Supplier Collaboration Portal application from ServiceNow Store, you might encounter Restricted Caller Access \(RCA\) approval messages requesting for an update in the access request. You can approve the RCA privileges either manually or by running the fix script.
 
 -   **[Approve restricted caller access privileges manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/approve-rca-for-supp-central.md)**  
 Approve restricted caller access \(RCA\) privileges to allow cross-scope access to the Supplier Collaboration Portal.
@@ -30,6 +30,3 @@ After you install the Supplier Collaboration Portal application from ServiceNow 
 
 [Run the fix script for RCA approvals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/run-rca-fix-script.md)
 
-## Related
-
-- [[supplier-central|Supplier Collaboration Portal]]

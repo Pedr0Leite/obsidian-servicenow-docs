@@ -35,7 +35,7 @@ The alert maintenance status can change due to any of these reasons:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **All alerts**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **All alerts**.
 
 2.  Review the **Maintenance** column for each alert.
 
@@ -46,6 +46,3 @@ The alert maintenance status can change due to any of these reasons:
 
 **Parent Topic:**[View alert information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMViewAlert.md)
 
-## Related
-
-- [[c_EM|Event Management]]

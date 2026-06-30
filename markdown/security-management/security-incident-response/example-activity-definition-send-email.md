@@ -94,7 +94,7 @@ For example, if you would want to map the response task status to the activity c
     \[Omitted image "playbook-exp.png"\] Alt text: Playbook Experiences
 
 2.  Open **SIR Playbook experience**.
-3.  Open **Status [[mapping-logrhythm|Mapping]]** related list.
+3.  Open **Status Mapping** related list.
 
     \[Omitted image "status-mapp.png"\] Alt text: SIR Playbook experience
 
@@ -184,11 +184,7 @@ To add a new action to the activity card, you must create a record in the **Play
 3.  Select **SIR Playbook Experience** against Playbook Experience field.
 
 -   **[Create an Activity Action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/steps-to-create-an-activity-action.md)**  
-Following is procedure to [[steps-to-create-an-activity-action|create an activity action]].
+Following is procedure to create an activity action.
 
 **Parent Topic:**[Activity Definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/build-activities.md)
 
-## Related
-
-- [[mapping-logrhythm|Mapping]]
-- [[steps-to-create-an-activity-action|Create an Activity Action]]

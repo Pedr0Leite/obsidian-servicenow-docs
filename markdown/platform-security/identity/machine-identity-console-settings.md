@@ -14,7 +14,7 @@ breadcrumb: [Exploring Machine Identity Console, Machine Identity Console, Ident
 
 # Machine Identity Console Settings
 
-Configure the Machine [[identity-landing|Identity]] security score settings.
+Configure the Machine Identity security score settings.
 
 ## Before you begin
 
@@ -26,20 +26,14 @@ The following task is specific to your organization on how to handle the inactiv
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[machine-identity-console|Machine Identity Console]]** &gt; **Settings**.
+1.  Navigate to **All** &gt; **Machine Identity Console** &gt; **Settings**.
 
 2.  Select the settings based on your requirements:
 
-    -   **[[accounts-with-no-login-for-100-days|Accounts with no login for 100 days]]**
-    -   **[[accounts-using-basic-authentication|Accounts using Basic Authentication]]**
-    -   **[[integration-accounts|Integration accounts]] with Web Service Access disabled**
+    -   **Accounts with no login for 100 days**
+    -   **Accounts using Basic Authentication**
+    -   **Integration accounts with Web Service Access disabled**
     -   **Accounts logging into the UI despite being integration only**
     \[Omitted image "mic-settings.png"\] Alt text: Machine Identity Console Settings
 
-## Related
 
-- [[identity-landing|Identity]]
-- [[machine-identity-console|Machine Identity Console]]
-- [[accounts-with-no-login-for-100-days|Accounts with no login for 100 days]]
-- [[accounts-using-basic-authentication|Accounts using Basic Authentication]]
-- [[integration-accounts|Integration Accounts]]

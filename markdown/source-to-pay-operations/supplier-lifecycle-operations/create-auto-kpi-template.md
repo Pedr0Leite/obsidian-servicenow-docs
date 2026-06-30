@@ -14,7 +14,7 @@ breadcrumb: [KPI templates, Configure Supplier Relationship and Performance Mana
 
 # Create automated KPI templates
 
-Automated [[kpi-templates|KPI templates]] can be used to create KPIs that eliminate the dependency on manual input from users. When creating a template for automated KPIs, you can configure the data source and the calculation method.
+Automated KPI templates can be used to create KPIs that eliminate the dependency on manual input from users. When creating a template for automated KPIs, you can configure the data source and the calculation method.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: sn\_kpi.admin or sn\_slm.manager or sn\_slm.admin
 
 -   Automated KPI templates can be created for **Quantitative** KPI template type only.
 -   You must have access to data tables for extracting information for automated KPI templates.
--   If the automated KPI collection fails to extract data, manual KPI data collection tasks are created and assigned to the [[supplier|supplier]] manager.
+-   If the automated KPI collection fails to extract data, manual KPI data collection tasks are created and assigned to the supplier manager.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
 2.  Do one of the following:
 
@@ -176,7 +176,7 @@ Column of the collection table which refers to the supplier or contract name.
 
 </td></tr><tr><td>
 
-[[kpi-data-table|KPI data table]] column
+KPI data table column
 
 </td><td>
 
@@ -262,10 +262,3 @@ An automated KPI template is created. This KPI is activated only when the follow
 
 [Create KPI performance domains](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-kpi-domain.md)
 
-## Related
-
-- [[kpi-templates|KPI templates]]
-- [[supplier|Supplier]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[kpi-data-table|KPI Data table]]

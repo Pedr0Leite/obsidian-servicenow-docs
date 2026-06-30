@@ -14,7 +14,7 @@ breadcrumb: [Digital Portfolio Management, IT Service Management]
 
 # Getting started with Digital Portfolio Management
 
-The [[dpm-landing|Digital Portfolio Management]] \(DPM\) Workspace is a unified environment to view all your services, service offerings, business [[dex-workspace-application-tab|applications]], and service instances. With the proper access, you can also view details and edit the solutions without having to leave the DPM experience.
+The Digital Portfolio Management \(DPM\) Workspace is a unified environment to view all your services, service offerings, business applications, and service instances. With the proper access, you can also view details and edit the solutions without having to leave the DPM experience.
 
 ## Getting started with the DPM Workspace
 
@@ -24,7 +24,7 @@ This video provides getting started steps to use the DPM Workspace.
 
 ## Perform tasks and customize views
 
-The DPM Workspace provides basic roles to create [[dpm-personal-portfolio|personal portfolios]]. To see portfolio details, you must install the proper plugins and roles from the products that you want to view.
+The DPM Workspace provides basic roles to create personal portfolios. To see portfolio details, you must install the proper plugins and roles from the products that you want to view.
 
 For example, viewing and editing roadmaps comes from the Strategic Planning application. If you want to see roadmaps in the context of your service or service offering while in the DPM experience, then you must install the plugins and roles for Strategic Planning.
 
@@ -41,14 +41,7 @@ Personalize your Digital Portfolio Management \(DPM\) Workspace home page to mee
 -   **[Create custom record views](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-configure-record-views.md)**  
 Create a UX custom form view to show any record for a given table in Digital Portfolio Management \(DPM\).
 -   **[Navigate enterprise portfolios in Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-enterprise-portfolio.md)**  
-You can work with three types of [[dpm-enterprise-portfolios|enterprise portfolios]] in the Digital Portfolio Management \(DPM\) Workspace — service, business application, and service instance. Even though you can view service enterprise portfolios in DPM, they're created with [[SPM2-landing-page|Service Portfolio Management]] tables. Enterprise portfolios for business applications and service instances are created with the enterprise portfolio tables.
+You can work with three types of enterprise portfolios in the Digital Portfolio Management \(DPM\) Workspace — service, business application, and service instance. Even though you can view service enterprise portfolios in DPM, they're created with Service Portfolio Management tables. Enterprise portfolios for business applications and service instances are created with the enterprise portfolio tables.
 
 **Parent Topic:**[Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-landing.md)
 
-## Related
-
-- [[dpm-landing|Digital Portfolio Management]]
-- [[dex-workspace-application-tab|Applications]]
-- [[dpm-personal-portfolio|Personal portfolios]]
-- [[dpm-enterprise-portfolios|Enterprise portfolios]]
-- [[SPM2-landing-page|Service Portfolio Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Configuring Dynamic Translation, Dynamic Translation, Translation a
 
 # Activate Dynamic Translation
 
-Activate the [[dynamic-translation|Dynamic Translation]] plugin \(com.glide.dynamic\_translation\) to enable all the required APIs.
+Activate the Dynamic Translation plugin \(com.glide.dynamic\_translation\) to enable all the required APIs.
 
 ## Before you begin
 
@@ -60,7 +60,7 @@ Action Step - REST
 
 </td></tr><tr><td>
 
-[[microsoft-translation-spoke|Microsoft Azure Translator Service Spoke]]\[com.glide.microsoft\_translation\_spoke\]
+Microsoft Azure Translator Service Spoke\[com.glide.microsoft\_translation\_spoke\]
 
 </td><td>
 
@@ -76,7 +76,7 @@ Uses ServiceNow® Language Detection service to provide the ability to detect th
 
 </td></tr><tr><td>
 
-[[dynamic-translation-spoke|Dynamic Translation Spoke]]\[com.glide.dynamic\_translation.spoke\]
+Dynamic Translation Spoke\[com.glide.dynamic\_translation.spoke\]
 
 </td><td>
 
@@ -105,7 +105,7 @@ Common utilities for translation features.
 
     **Note:** When domain separation and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
 
-    You will see a message after installation is completed. For information about the components installed with a plugin, see [[find-components|Find components installed with an application]].
+    You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
 
 **Parent Topic:**[Configuring Dynamic Translation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/configuring-dynamic-translation.md)
@@ -113,12 +113,5 @@ Common utilities for translation features.
 **Related topics**  
 
 
-[[list-of-plugins|List of plugins \(Australia\)]]
+[List of plugins \(Australia\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-## Related
-
-- [[find-components|Find components installed with an application]]
-- [[list-of-plugins|List of plugins \(Australia\)]]
-- [[dynamic-translation|Dynamic translation]]
-- [[microsoft-translation-spoke|Microsoft Azure Translator Service spoke]]
-- [[dynamic-translation-spoke|Dynamic Translation spoke]]

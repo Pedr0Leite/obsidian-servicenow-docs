@@ -14,9 +14,9 @@ breadcrumb: [Organize agent workspaces, Configure, Customer Service Management]
 
 CSM Configurable Workspace is a user interface that provides customer service agents with the tools they need to assist customers, answer questions, and resolve issues quickly and efficiently.
 
-\[Omitted image "front-line-case-page-template.png"\] Alt text: CSM Configurable Workspace enables agents to focus on the information, such as record details and activities, and the tools they need to resolve customer issues, including search and [[configure-nba|recommended actions]].
+\[Omitted image "front-line-case-page-template.png"\] Alt text: CSM Configurable Workspace enables agents to focus on the information, such as record details and activities, and the tools they need to resolve customer issues, including search and recommended actions.
 
-CSM Configurable Workspace provides agents with a unified workspace to handle customer requests. Agents can [[manage-cases|manage cases]], accounts, and contacts from multiple channels, like email, voice, and chat on a single screen, eliminating the need to switch between tabs.
+CSM Configurable Workspace provides agents with a unified workspace to handle customer requests. Agents can manage cases, accounts, and contacts from multiple channels, like email, voice, and chat on a single screen, eliminating the need to switch between tabs.
 
 ## CSM Configurable Workspace features
 
@@ -25,35 +25,35 @@ Key features of CSM Configurable Workspace include list views for managing cases
 |Feature|Description|
 |-------|-----------|
 |Unified workspace|Provides the tools and information that an agent needs into a single, customizable interface.|
-|List views|Provide filtered [[migration-lists|lists]] of cases, interactions, and other records such as accounts and contacts. Agents can also create and save their own lists.|
+|List views|Provide filtered lists of cases, interactions, and other records such as accounts and contacts. Agents can also create and save their own lists.|
 |Multi-tab interface|Tabs and subtabs enable agents to work on multiple cases, tasks, and other customer records within a single browser window. Agents can quickly move between records without losing their place.|
 |Contextual display|Agents get a complete view of a customer's history, including interactions, products, and cases.|
 |Channel integration|Agents can manage customer interactions from various channels, including email, chat, and phone, all within the same interface.|
 |Contextual side panel|A configurable panel that provides agents with additional tools and information such as search, Recommended Actions, attachments, and templates.|
 |AI tools|Summarize interaction chats and calls, summarize case information, and generate case resolution notes.|
 
-For more information, see [[csm-workspace-feature-overview|CSM Configurable Workspace features]].
+For more information, see [CSM Configurable Workspace features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-workspace-feature-overview.md).
 
 ## CSM Configurable Workspace benefits
 
 The ServiceNow [Configurable Workspace UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/workspace-landing-page.md) is designed to improve user efficiency and facilitate resolutions. CSM Configurable Workspace, which is built from the Configurable Workspace UI, is specifically designed for customer service agents.
 
-CSM Configurable Workspace brings together customer information, [[case-management|case management]], and collaboration tools into a single window. This user experience enables agents to manage several cases and interactions across different channels at the same time.
+CSM Configurable Workspace brings together customer information, case management, and collaboration tools into a single window. This user experience enables agents to manage several cases and interactions across different channels at the same time.
 
-CSM Configurable Workspace presents the Core UI lists and [[migration-forms|forms]] in one interface and consolidates multiple tabs into a single, focused work area. From this single view, agents can:
+CSM Configurable Workspace presents the Core UI lists and forms in one interface and consolidates multiple tabs into a single, focused work area. From this single view, agents can:
 
 -   Work on multiple issues concurrently in an intuitive layout, reducing context and tab switching.
 -   Resolve issues faster with automated suggestions powered by machine learning.
 -   Get notified of potential major incidents based on issue frequency and impact.
 -   Keep informed of updates and surface important insights with a live activity feed and analytics.
 
-For more information, see [[csm-config-workspace-overview|CSM Configurable Workspace overview]].
+For more information, see [CSM Configurable Workspace overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-config-workspace-overview.md).
 
 ## Application information
 
 The CSM Configurable Workspace application \(com.snc.uib.csm\_agent\_workspace\) is activated with the Customer Service plugin \(com.sn\_customerservice\).
 
-**Note:** Starting with the Yokohama release, CSM Configurable Workspace has a dependency on the Customer Central plugin. For more information, see [[customer-central|Customer Central plugin]].
+**Note:** Starting with the Yokohama release, CSM Configurable Workspace has a dependency on the Customer Central plugin. For more information, see [Customer Central plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-central.md).
 
 The CSM Configurable Workspace application is available from the ServiceNow Store.
 
@@ -68,13 +68,3 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 [Configurable Workspace glossary](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configurable-workspace-glossary.md)
 
-## Related
-
-- [[csm-workspace-feature-overview|CSM Configurable Workspace features]]
-- [[csm-config-workspace-overview|CSM Configurable Workspace overview]]
-- [[customer-central|Customer Central]]
-- [[configure-nba|Recommended Actions]]
-- [[manage-cases|Manage cases]]
-- [[migration-lists|Lists]]
-- [[case-management|Case management]]
-- [[migration-forms|Forms]]

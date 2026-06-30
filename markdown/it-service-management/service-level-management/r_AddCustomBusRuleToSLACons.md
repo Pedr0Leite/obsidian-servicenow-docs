@@ -14,7 +14,7 @@ breadcrumb: [Using Service Level Management, Service Level Management, IT Servic
 
 # Add custom business rules to Service Level Agreement \(SLA\) considerations
 
-Prior to adding custom business rules to the [[r_TaskSLATable|task SLA table]], you must consider a few points regarding the processing and calculation of the task SLA based on your organization’s needs.
+Prior to adding custom business rules to the task SLA table, you must consider a few points regarding the processing and calculation of the task SLA based on your organization’s needs.
 
 ## Add custom fields to the task SLA table
 
@@ -37,6 +37,3 @@ You can add custom fields to the task SLA table and write business rules to popu
 
 **Parent Topic:**[Using Service Level Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/using-service-level-management.md)
 
-## Related
-
-- [[r_TaskSLATable|Task SLA table]]

@@ -14,7 +14,7 @@ breadcrumb: [Regulatory alerts, Regulatory Change Management Core UI, Use, Regul
 
 # Train and use the similarity solution to recommend citations on regulatory alerts
 
-Train and use the machine learning solution by activating the [[r_WhatIsGRC|Governance, Risk, and Compliance]] Predictive Intelligence plugin. The solution enables the system to automatically recommend correct citations on [[list-view-of-reg-alerts|regulatory alerts]] to associate.
+Train and use the machine learning solution by activating the Governance, Risk, and Compliance Predictive Intelligence plugin. The solution enables the system to automatically recommend correct citations on regulatory alerts to associate.
 
 ## Before you begin
 
@@ -31,7 +31,7 @@ Role required: ml\_admin
 
 2.  Select the **Recommend citations on regulatory alerts** solution.
 
-3.  On the [[similarity-definition-form|Similarity Definition form]], fill in the fields.
+3.  On the Similarity Definition form, fill in the fields.
 
     For a description of the fields, see [Similarity Definition Form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/similarity-definition-form.md).
 
@@ -61,8 +61,3 @@ Use the Similarity Definition Form form in Compliance Workspace to create a simi
 
 [Manage and assign source document alerts]()
 
-## Related
-
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]
-- [[list-view-of-reg-alerts|Regulatory alerts]]
-- [[similarity-definition-form|Similarity Definition Form]]

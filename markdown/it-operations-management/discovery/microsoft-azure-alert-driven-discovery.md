@@ -14,13 +14,13 @@ breadcrumb: [Discovery for Microsoft Azure, Discovery for cloud environment, Dis
 
 # Microsoft Azure Alert driven discovery
 
-The Microsoft Azure Alert service can raise alerts for any changes in the life-cycle state or the configuration of a cloud resource. You can configure the service to auto-update the latest resource information in the Configuration Management Database \(CMDB\) without waiting for the next scheduled Cloud [[r-discovery|Discovery]] to run.
+The Microsoft Azure Alert service can raise alerts for any changes in the life-cycle state or the configuration of a cloud resource. You can configure the service to auto-update the latest resource information in the Configuration Management Database \(CMDB\) without waiting for the next scheduled Cloud Discovery to run.
 
-**Important:** The [[azure-change-processing|Azure change processing]] offers an optimal performance when compared to the Microsoft Azure alert-driven discovery that uses a legacy form of authentication and should no longer be used. Starting with the Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns app version 1.1.0, the Azure change processing has replaced the Microsoft Azure alert-driven discovery. Use the new secure webhook or migrate to [Azure change processing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/azure-change-processing.md) for additional performance gains. For more information, see on the secure webhook, see the knowledge base article [Azure Alert service to auto-update the CMDB has webhook url without credentials in the azure portal](https://support.servicenow.com/kb?id=kb_article_view&sys_kb_id=1bf707c5938fe550d9743f986cba10b9).
+**Important:** The Azure change processing offers an optimal performance when compared to the Microsoft Azure alert-driven discovery that uses a legacy form of authentication and should no longer be used. Starting with the Discovery and Service Mapping Patterns app version 1.1.0, the Azure change processing has replaced the Microsoft Azure alert-driven discovery. Use the new secure webhook or migrate to [Azure change processing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/azure-change-processing.md) for additional performance gains. For more information, see on the secure webhook, see the knowledge base article [Azure Alert service to auto-update the CMDB has webhook url without credentials in the azure portal](https://support.servicenow.com/kb?id=kb_article_view&sys_kb_id=1bf707c5938fe550d9743f986cba10b9).
 
 During event processing, the Cloud Event Scheduler identifies the domain of the service account and assigns to the event. If an error occurs in identifying the domain before processing, the event can sometimes stay unassigned and become visible to all domains. To prevent the failed events visibility to all domains, you can set the **sn\_cmp.error\_events.default\_domain** property to sys\_id of the service-provider domain so that the failed events appears only to the service-provider domain administrator.
 
-You can configure the Cloud Event Scripted REST API to receive alerts from the Microsoft Azure Alert service. For each alert—also called an event—the API creates a record in the Cloud Events \[sn\_cmp\_cloud\_event\] table. The Cloud Event Scheduler reads the events from the \[sn\_cmp\_cloud\_event\] table for batch processing. The scheduler invokes the pattern to process the events that are in ready state. The patterns discover the affected resource and add or update its details in the CMDB. This method helps to update the CMDB Configuration Item \(CI\) data and view the latest data in the [[cloudmgt-cloud-user-portal|Cloud User portal]].
+You can configure the Cloud Event Scripted REST API to receive alerts from the Microsoft Azure Alert service. For each alert—also called an event—the API creates a record in the Cloud Events \[sn\_cmp\_cloud\_event\] table. The Cloud Event Scheduler reads the events from the \[sn\_cmp\_cloud\_event\] table for batch processing. The scheduler invokes the pattern to process the events that are in ready state. The patterns discover the affected resource and add or update its details in the CMDB. This method helps to update the CMDB Configuration Item \(CI\) data and view the latest data in the Cloud User portal.
 
 **Important:** If you're using domain separation for Cloud Discovery, the events are also domain-separated. Therefore, you can view the details of a processed event only if it belongs to your domain. If an event is not associated with any service account, then it is associated with the global domain.
 
@@ -37,7 +37,7 @@ For each event, the Cloud Event Scripted REST API stores the following informati
 
 ### Before you begin
 
--   Ensure that either Discovery or [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] is activated in the instance.
+-   Ensure that either Discovery or Cloud Provisioning and Governance is activated in the instance.
 -   -   An active MID Server with Microsoft Azure discovery capability is available.
 
     **Note:** The alert configuration continues to ping alerts even when the MID Server is down. Which in turn leads to a high number of errors in the ECC queue. If no MID Server is available, you must manually deactivate the Microsoft Azure alert rule. The Azure Alert Rules \[azure\_alert\_rule\] table contains all the Microsoft Azure alert rules.
@@ -267,10 +267,3 @@ Microsoft.Sql/servers/delete
 Microsoft.Sql/servers/write 
 ```
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[azure-change-processing|Azure change processing]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[cloudmgt-cloud-user-portal|Cloud User Portal]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]

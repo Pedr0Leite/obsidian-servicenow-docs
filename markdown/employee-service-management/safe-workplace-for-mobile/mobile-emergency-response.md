@@ -16,7 +16,7 @@ breadcrumb: [Safe Workplace, Health and Safety, Employee Service Management]
 
 Manage the essential steps for return to workplace from anywhere using the Safe Workplace for mobile app.
 
-The ServiceNow® [[safe-workplace|Safe Workplace]] mobile experience enables organizations to manage the essential steps for returning users to the workplace from anywhere with the [[mobile-employee-experience|Now Mobile app]]. With an intuitive mobile design and user-friendly interface, organizations can deliver a seamless return to workplace experience, enabling users to complete health screenings and surveys, set up visits, make reservations, [[request-ppe|request PPE]], and more to support their [[health-safety-overview|health and safety]].
+The ServiceNow® Safe Workplace mobile experience enables organizations to manage the essential steps for returning users to the workplace from anywhere with the Now Mobile app. With an intuitive mobile design and user-friendly interface, organizations can deliver a seamless return to workplace experience, enabling users to complete health screenings and surveys, set up visits, make reservations, request PPE, and more to support their health and safety.
 
 <table id="table_lbx_xss_fgc"><tbody><tr><td>
 
@@ -47,23 +47,23 @@ Safe Workplace applications
 
 </th></tr></thead><tbody><tr><td>
 
--   [[emergency-outreach|Emergency Outreach]]
--   [[emergency-self-report|Emergency Self Report]]
--   [[emergency-exposure-management|Emergency Exposure Management]]
+-   Emergency Outreach
+-   Emergency Self Report
+-   Emergency Exposure Management
 
 </td><td>
 
--   [[employee-readiness-surveys|Employee Readiness Surveys]]
--   [[employee-health-screening|Employee Health Screening]]
--   [[workplace-safety-mgmt-hr|Workplace Core]]
--   [[ppe-inventory-management|Workplace PPE Inventory Management]]
--   [[safe-workplace-dashboard|Safe Workplace Dashboard]]
--   [[contact-tracing|Contact Tracing]]
--   [[health-safety-testing|Health and Safety Testing]]
--   [[employee-readiness-core|Employee Readiness Core]]
+-   Employee Readiness Surveys
+-   Employee Health Screening
+-   Workplace Core
+-   Workplace PPE Inventory Management
+-   Safe Workplace Dashboard
+-   Contact Tracing
+-   Health and Safety Testing
+-   Employee Readiness Core
 -   Enterprise Employee Experience Pack
--   [[employee-travel-safety|Employee Travel Safety]]
--   [[vaccination-status|Vaccination Status]]
+-   Employee Travel Safety
+-   Vaccination Status
 
 </td></tr></tbody>
 </table>## Safe Workplace for mobile features
@@ -76,7 +76,7 @@ Safe Workplace applications
 
 -   **Receive and respond to outreach notifications**
 
-Receive important notifications generated in the Emergency Outreach application on your mobile device. You can also self-[[emp-check-in-emergency-outreach|report your health status]] through these notifications.
+Receive important notifications generated in the Emergency Outreach application on your mobile device. You can also self-report your health status through these notifications.
 
 For more information about Emergency Outreach, see [Emergency Outreach](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/emergency-outreach.md).
 
@@ -231,7 +231,7 @@ Request travel permissionFor more information, see [Request permission to travel
 
 </td></tr><tr><td>
 
-Report VaccinationFor more information, see [[report-vaccination-status|Report vaccination status to your organization]].
+Report VaccinationFor more information, see [Report vaccination status to your organization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/report-vaccination-status.md).
 
 </td><td>
 
@@ -243,7 +243,7 @@ Report VaccinationFor more information, see [[report-vaccination-status|Report v
 
 </td></tr><tr><td>
 
-Request Vaccine ExemptionFor more information, see [[request-vaccine-exemption|Request a vaccine exemption]].
+Request Vaccine ExemptionFor more information, see [Request a vaccine exemption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/request-vaccine-exemption.md).
 
 </td><td>
 
@@ -387,7 +387,7 @@ Use the Now Mobile app to view your health status record.
 -   **[Manage the status of your direct reports in Now Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace-for-mobile/mobile-view-health-status.md)**  
 Use the Now Mobile app to view the health status of your direct reports.
 -   **[Reassign tasks to your team members in Now Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace-for-mobile/mobile-reassign-tasks.md)**  
-As a manager, view a list of tasks [[manager-view-lxp|assigned to your team]] members and reassign the tasks to other team members.
+As a manager, view a list of tasks assigned to your team members and reassign the tasks to other team members.
 -   **[Install Safe Workplace for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace-for-mobile/install-safe-workplace-mobile.md)**  
 Install the Now® Mobile app and Safe Workplace for mobile app.
 -   **[Report your health status in Now Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace-for-mobile/mobile-self-report.md)**  
@@ -401,29 +401,5 @@ As a manager, view a list of tasks assigned to your team members and reassign th
 
 **Parent Topic:**[Safe Workplace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/safe-workplace.md)
 
-**Parent Topic:**[[emergency-response-management|Emergency Response Management]]
+**Parent Topic:**[Emergency Response Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-response-management.md)
 
-## Related
-
-- [[report-vaccination-status|Report vaccination status to your organization]]
-- [[request-vaccine-exemption|Request a vaccine exemption]]
-- [[emergency-response-management|Emergency Response Management]]
-- [[safe-workplace|Safe Workplace]]
-- [[mobile-employee-experience|Now Mobile app]]
-- [[request-ppe|Request PPE]]
-- [[health-safety-overview|Health and Safety]]
-- [[emergency-outreach|Emergency Outreach]]
-- [[emergency-self-report|Emergency Self Report]]
-- [[emergency-exposure-management|Emergency Exposure Management]]
-- [[employee-readiness-surveys|Employee Readiness Surveys]]
-- [[employee-health-screening|Employee Health Screening]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[ppe-inventory-management|Workplace PPE Inventory Management]]
-- [[safe-workplace-dashboard|Safe Workplace Dashboard]]
-- [[contact-tracing|Contact Tracing]]
-- [[health-safety-testing|Health and Safety Testing]]
-- [[employee-readiness-core|Employee Readiness Core]]
-- [[employee-travel-safety|Employee Travel Safety]]
-- [[vaccination-status|Vaccination Status]]
-- [[emp-check-in-emergency-outreach|Report your health status]]
-- [[manager-view-lxp|Assigned to your team]]

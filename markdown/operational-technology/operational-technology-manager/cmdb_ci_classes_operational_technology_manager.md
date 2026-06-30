@@ -14,7 +14,7 @@ breadcrumb: [Explore, Operational Technology Manager, Operational Technology]
 
 # CMDB CI classes for Operational Technology Manager
 
-[[operational-technology-manager|Operational Technology Manager]] adds these Configuration Management Database \(CMDB\) configuration item \(CI\) classes that are part of the CMDB CI Class Models application.
+Operational Technology Manager adds these Configuration Management Database \(CMDB\) configuration item \(CI\) classes that are part of the CMDB CI Class Models application.
 
 **Note:** To learn more about this application, see the CMDB CI Class Models application in the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do).
 
@@ -24,6 +24,3 @@ breadcrumb: [Explore, Operational Technology Manager, Operational Technology]
 
 **Parent Topic:**[Exploring the Operational Technology Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/exploring-operational-technology-manager.md)
 
-## Related
-
-- [[operational-technology-manager|Operational Technology Manager]]

@@ -15,7 +15,7 @@ breadcrumb: [Configure, Agent Chat, Conversational Interfaces]
 
 # Setting up Agent Chat
 
-Configure [[ci-use-agent-chat|Agent Chat]] to enable live agents to chat with customers and manage various conversation features for agents and end users. Through Agent Chat, agents interact with end users, create incident or case records, or transfer chats to another agent or queue.
+Configure Agent Chat to enable live agents to chat with customers and manage various conversation features for agents and end users. Through Agent Chat, agents interact with end users, create incident or case records, or transfer chats to another agent or queue.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Configure the following before starting this task:
 
 -   Install the Agent Chat plugin \(com.glide.interaction.awa\).
 -   If you want to use the Profanity Filter, activate the Profanity Filter plugin \(sn\_va\_profanity\).
--   In [[awa-application-landing-page|Advanced Work Assignment]]:
+-   In Advanced Work Assignment:
     -   Configure [service channels](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-service-channels.md).
     -   Define [work item queues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-queues.md).
     -   Set up [work assignments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-assignment.md).
@@ -43,8 +43,8 @@ Use Agent Chat settings to do the following:
     -   Display of agent names and avatars the chat window.
     -   Display of the agent name in the header.
     -   Chat transcript downloads.
-    -   Display of estimated wait time for live chat support \(transfer from the [[virtual-agent-landing-page|virtual agent]] to a live agent\).
-    -   [[ci-agent-whisper|Agent Whisper]], which enables supervisors to message agents privately when agents are interacting with an end user. For new instances, Agent Whisper is enabled by default.
+    -   Display of estimated wait time for live chat support \(transfer from the virtual agent to a live agent\).
+    -   Agent Whisper, which enables supervisors to message agents privately when agents are interacting with an end user. For new instances, Agent Whisper is enabled by default.
     -   Emojis.
     -   Conversation history.
     -   Conversational autopilot client system messages.
@@ -53,13 +53,13 @@ Use Agent Chat settings to do the following:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Home**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Home**.
 
 2.  Select the **Agent Chat** tile.
 
     The Agent Chat settings screen titled "Customize how your users chat with live agents" appears.
 
-    **Note:** Agent Chat is automatically activated when the Agent Chat plugin is installed. If you're not [[ci-agent-chat-using|using Agent Chat]], slide the toggle switch to deactivate it and select **Save**.
+    **Note:** Agent Chat is automatically activated when the Agent Chat plugin is installed. If you're not using Agent Chat, slide the toggle switch to deactivate it and select **Save**.
 
 3.  Activate Agent Chat by enabling the **Activate** option.
 
@@ -118,7 +118,7 @@ Live chat wait status
 
 </td><td>
 
-Select whether to display the estimated wait time for live agent support in the chat menu for chat widgets. If you're using the [[teams-conv-integration|Conversational Integration with Microsoft Teams]], the wait time displays in a card that shows the approximate wait time to chat with an agent.
+Select whether to display the estimated wait time for live agent support in the chat menu for chat widgets. If you're using the Conversational Integration with Microsoft Teams, the wait time displays in a card that shows the approximate wait time to chat with an agent.
 
 -   The wait time is the estimated time, in minutes, for the transfer from the virtual agent to a live agent.
 -   The wait time updates once per minute. Wait time is based on the Queue Average Wait Time minus the waiting time.
@@ -232,12 +232,3 @@ Select **View all** to display the Quick Action Toolbar Controls screen.
 
 **Parent Topic:**[Configuring Agent Chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/ci-agent-chat-configuring.md)
 
-## Related
-
-- [[ci-use-agent-chat|Agent Chat]]
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[ci-agent-whisper|Agent Whisper]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[ci-agent-chat-using|Using Agent Chat]]
-- [[teams-conv-integration|Conversational Integration with Microsoft Teams]]

@@ -22,7 +22,7 @@ Role required: sn\_vaccine\_sm.clinician
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hcls-vam|Vaccine Administration Management]]** &gt; **Agent** &gt; **Search Assist**.
+1.  Navigate to **All** &gt; **Vaccine Administration Management** &gt; **Agent** &gt; **Search Assist**.
 
 2.  Select **Appointment**.
 
@@ -48,6 +48,3 @@ As a user with the sn\_vaccine\_sm.clinician role, you can also perform the foll
 
 **Parent Topic:**[Manage user appointments as a clinician or a vaccine agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/user-appt-mngt-clinicans-agents.md)
 
-## Related
-
-- [[hcls-vam|Vaccine Administration Management]]

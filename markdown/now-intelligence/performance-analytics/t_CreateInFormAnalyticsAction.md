@@ -20,11 +20,11 @@ Create a UI action that enables users to view relevant analytics while completin
 
 **Important:** This feature is available only for Core UI dashboards. It is not available on net new instances.
 
-Before adding [[in-form-analytics|in-form analytics]] for a specific table and breakdown, create a breakdown dashboard that uses that table and the breakdown source of that breakdown. Design the dashboard so that it prominently displays the most useful information to the users who create records on that table. For more information about breakdown dashboards, see [Using breakdowns on dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_SpecialDashboards.md).
+Before adding in-form analytics for a specific table and breakdown, create a breakdown dashboard that uses that table and the breakdown source of that breakdown. Design the dashboard so that it prominently displays the most useful information to the users who create records on that table. For more information about breakdown dashboards, see [Using breakdowns on dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_SpecialDashboards.md).
 
 Performance Analytics must be active to create in-form analytics.
 
-Role required: pa\_power\_user, pa\_admin, or admin. In addition to the [[r_PARoles|Performance Analytics roles]], you must be able to create records on the UI Actions \[sys\_ui\_action\] table.
+Role required: pa\_power\_user, pa\_admin, or admin. In addition to the Performance Analytics roles, you must be able to create records on the UI Actions \[sys\_ui\_action\] table.
 
 ## About this task
 
@@ -63,7 +63,3 @@ The Self-Service view does not show the Assignment Group field by default. In th
 
 **Parent Topic:**[In-form analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/in-form-analytics.md)
 
-## Related
-
-- [[in-form-analytics|In-form analytics]]
-- [[r_PARoles|Performance Analytics roles]]

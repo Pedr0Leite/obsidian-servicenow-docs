@@ -12,7 +12,7 @@ breadcrumb: [Using the Mobile App Builder, Mobile App Builder, Building tools, B
 
 # Access Mobile Card Builder within Mobile App Builder
 
-Access [[mobile-card-builder|Mobile Card Builder]] without leaving [[mab-concept|Mobile App Builder]]. By selecting Open in Mobile Card Builder, you can create and edit personalized cards and card templates without needing to open a new browser tab.
+Access Mobile Card Builder without leaving Mobile App Builder. By selecting Open in Mobile Card Builder, you can create and edit personalized cards and card templates without needing to open a new browser tab.
 
 ## Before you begin
 
@@ -50,7 +50,7 @@ Select **Open Mobile Card Builder** from the home page.
 
 </td></tr><tr><td id="d75656e143">
 
-**From the Mobile App Builder [[sg-cards-and-icons|Cards and icons]] menu section**
+**From the Mobile App Builder Cards and icons menu section**
 
 </td><td>
 
@@ -75,9 +75,3 @@ Select the **Open in Mobile Card Builder** button \(\[Omitted image "mab-button-
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[mobile-card-builder|Mobile Card Builder]]
-- [[mab-concept|Mobile App Builder]]
-- [[sg-cards-and-icons|Cards and icons]]

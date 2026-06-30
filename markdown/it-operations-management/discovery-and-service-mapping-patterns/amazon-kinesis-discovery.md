@@ -14,7 +14,7 @@ breadcrumb: [AWS discovery, Available cloud discovery patterns, Discovery patter
 
 # AWS Kinesis discovery with Patterns
 
-The ServiceNow® [[r-discovery|Discovery]] application uses the Amazon Kinesis discovery pattern to find Kinesis services available on Amazon Web Services \(AWS\).
+The ServiceNow® Discovery application uses the Amazon Kinesis discovery pattern to find Kinesis services available on Amazon Web Services \(AWS\).
 
 Kinesis is a managed, scalable, AWS cloud-based service that allows real-time processing of streaming large amount of data per second. AWS Kinesis contains four types of services:
 
@@ -27,7 +27,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 ## Prerequisites
 
--   Install the Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns application from the ServiceNow Store.
+-   Install the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 -   Verify the following plugin versions:
     -   Discovery and Service Mapping Patterns 1.0.93 or later \(sn\_itom\_pattern\)
     -   CMDB CI Class Models version 1.40.0 or later \(sn\_cmdb\_ci\_class\)
@@ -91,7 +91,3 @@ The status of the stream.
 
 **Parent Topic:**[AWS discovery using patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/data-discovered-aws-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

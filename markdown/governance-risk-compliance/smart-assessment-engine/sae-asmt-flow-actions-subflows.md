@@ -14,7 +14,7 @@ breadcrumb: [Reference, Smart Assessment Engine, Governance, Risk, and Complianc
 
 # Trigger Smart Assessment flow action
 
-Use the Trigger Smart Assessment flow action in Workflow Studio to generate and assign assessments from a published [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] template.
+Use the Trigger Smart Assessment flow action in Workflow Studio to generate and assign assessments from a published Smart Assessment Engine template.
 
 The Trigger Smart Assessment flow action is available in Workflow Studio after the Smart Assessment Connected \(com.sn\_smart\_asmt\_conn\) plugin is activated.
 
@@ -46,6 +46,3 @@ Flow action that generates and assigns assessment instances from a published ass
 
 [Create a flow in Workflow Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/create-flow.md)
 
-## Related
-
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]

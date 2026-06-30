@@ -24,7 +24,7 @@ Role required: sn\_hr\_core.case\_writer
 
 ## Procedure
 
-1.  Navigate to **HR [[case-management-workspace|Case Management]]** &gt; **Assigned to me**.
+1.  Navigate to **HR Case Management** &gt; **Assigned to me**.
 
 2.  Open a case that is in Ready or Work in progress state.
 
@@ -93,6 +93,3 @@ Any other information that you want to share with the approvers.
 
 **Parent Topic:**[Work an HR case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/t_CreateAnHRCase.md)
 
-## Related
-
-- [[case-management-workspace|Case management]]

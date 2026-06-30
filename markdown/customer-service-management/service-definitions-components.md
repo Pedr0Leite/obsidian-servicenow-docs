@@ -32,7 +32,7 @@ Case Type\[sn\_case\_type\]
 
 </td><td>
 
-This table stores the defined case types.For more information, see [[customer-service-case-types|Customer Service case types]].
+This table stores the defined case types.For more information, see [Customer Service case types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-case-types.md).
 
 </td></tr><tr><td>
 
@@ -47,7 +47,7 @@ This table stores the defined service definitions.The service definition feature
 -   Active
 -   Number
 
-For more information, see [[csm-service-definitions|Service definitions]].
+For more information, see [Service definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-service-definitions.md).
 
 </td></tr><tr><td>
 
@@ -71,7 +71,7 @@ Product Service Relationship\[sn\_csm\_case\_types\_product\_service\_rel\]
 
 </td><td>
 
-This table stores the products that are linked to a service definition.For more information about these relationships, see [[service-def-associate-products|Associate a product with a service definition]].
+This table stores the products that are linked to a service definition.For more information about these relationships, see [Associate a product with a service definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/service-def-associate-products.md).
 
 </td></tr><tr><td>
 
@@ -87,7 +87,7 @@ Catalog Service Relationship\[sn\_csm\_case\_types\_catalog\_service\_rel\]
 
 </td><td>
 
-This table stores the catalog items that are linked to a service definition.For more information, see [[service-def-config-catalog-items|Configure catalog items for a service definition]].
+This table stores the catalog items that are linked to a service definition.For more information, see [Configure catalog items for a service definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/service-def-config-catalog-items.md).
 
 </td></tr><tr><td>
 
@@ -95,7 +95,7 @@ Service Definition User Criteria\[sn\_csm\_case\_types\_service\_user\_criteria\
 
 </td><td>
 
-This table stores the user criteria that has been configured for a service definition record. The system uses this criteria to filter the services that are available to users in the service selector when creating a case. For more information, see [[configure-user-criteria-for-a-service-definition|Configure user criteria for a service definition]].
+This table stores the user criteria that has been configured for a service definition record. The system uses this criteria to filter the services that are available to users in the service selector when creating a case. For more information, see [Configure user criteria for a service definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-user-criteria-for-a-service-definition.md).
 
 </td></tr><tr><td>
 
@@ -103,12 +103,12 @@ Service Definition Customer Criteria\[sn\_csm\_case\_types\_service\_customer\_c
 
 </td><td>
 
-This table stores the customer criteria that has been configured for a service definition record. The system uses this criteria to filter the services that are available to customers. For more information, see [[configure-customer-criteria-for-a-service-definition|Configure customer criteria for a service definition]].
+This table stores the customer criteria that has been configured for a service definition record. The system uses this criteria to filter the services that are available to customers. For more information, see [Configure customer criteria for a service definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-customer-criteria-for-a-service-definition.md).
 
 </td></tr></tbody>
 </table>## Roles installed with case types
 
-The following [[csm-service-definitions-roles|service definition roles]] are installed with the Customer Service Case Types \(com.snc.csm\_case\_types\) plugin.
+The following service definition roles are installed with the Customer Service Case Types \(com.snc.csm\_case\_types\) plugin.
 
 <table id="table_kkn_mbb_4vb"><thead><tr><th>
 
@@ -190,7 +190,7 @@ None
 </td></tr></tbody>
 </table>## Properties installed with case types
 
-The following properties are added with the Customer Service Case Types plugin. These properties control the version of the case type selector screen that is displayed to agents. For more information, see [[csm-case-type-select-modals|Case type selector screen]].
+The following properties are added with the Customer Service Case Types plugin. These properties control the version of the case type selector screen that is displayed to agents. For more information, see [Case type selector screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-case-type-select-modals.md).
 
 <table id="table_dht_2j2_dwb"><thead><tr><th>
 
@@ -206,7 +206,7 @@ sn\_csm\_case\_types.case\_type\_single\_field\_select
 
 </td><td>
 
-Set this property to true to enable the case type single select feature in [[csm-workspaces-configure|CSM Configurable Workspace]]. When enabled, an agent can use this feature to create a case of a specific type with a single selection in the case type selector screen.-   **Type:** true \| false
+Set this property to true to enable the case type single select feature in CSM Configurable Workspace. When enabled, an agent can use this feature to create a case of a specific type with a single selection in the case type selector screen.-   **Type:** true \| false
 -   **Default value:** false
 -   **Location:** System Property \[sys\_properties\] table
 
@@ -216,7 +216,7 @@ sn\_csm\_case\_types.service\_definition\_select
 
 </td><td>
 
-Set this property to true to enable the [[csm-case-type-select-modals-product-service|Product Service Select version of the case type selector]] screen. When enabled, an agent can use this screen to create a record based on the selected product or service.-   **Type:** true \| false
+Set this property to true to enable the Product Service Select version of the case type selector screen. When enabled, an agent can use this screen to create a record based on the selected product or service.-   **Type:** true \| false
 -   **Default value:** true
 -   **Location:** System Property \[sys\_properties\] table
 
@@ -251,11 +251,11 @@ itil,admin,sn\_customerservice\_agent,sn\_customerservice.consumer\_agent
 -   **Location:** System Property \[sys\_properties\] table
 
 </td></tr></tbody>
-</table>## Extension [[gamification-components-points|points]] installed with case types
+</table>## Extension points installed with case types
 
 Extension points enable you to extend the functionality of an application and integrate customizations without altering the application code. Extension points are stored in the Extension Point \[sys\_extension\_point\] table.
 
-The CSMServiceDefinitionIntegrations extension point returns a list of products that is available to agents in the **Product** field on Product Service Select version of the [case type selector screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-case-type-select-modals.md). Out of box, this list is based on customer context and displays the [[sold-product|sold products]] and [[install-base-item|install base items]] owned by the customer.
+The CSMServiceDefinitionIntegrations extension point returns a list of products that is available to agents in the **Product** field on Product Service Select version of the [case type selector screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-case-type-select-modals.md). Out of box, this list is based on customer context and displays the sold products and install base items owned by the customer.
 
 To access this extension point, navigate to **All** &gt; **System Extension Points** &gt; **Scripted Extension Points** and select **CSMServiceDefinitionIntegrations**.
 
@@ -269,18 +269,4 @@ To modify this extension point:
 
     **Note:** The implementation with the lowest **Order** number is used to return the list of products.
 
-## Related
 
-- [[customer-service-case-types|Customer service case types]]
-- [[csm-service-definitions|Service definitions]]
-- [[service-def-associate-products|Associate a product with a service definition]]
-- [[service-def-config-catalog-items|Configure catalog items for a service definition]]
-- [[configure-user-criteria-for-a-service-definition|Configure user criteria for a service definition]]
-- [[configure-customer-criteria-for-a-service-definition|Configure customer criteria for a service definition]]
-- [[csm-case-type-select-modals|Case type selector]]
-- [[csm-service-definitions-roles|Service definition roles]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[csm-case-type-select-modals-product-service|Product Service select version of the case type selector]]
-- [[gamification-components-points|Points]]
-- [[sold-product|Sold products]]
-- [[install-base-item|Install base items]]

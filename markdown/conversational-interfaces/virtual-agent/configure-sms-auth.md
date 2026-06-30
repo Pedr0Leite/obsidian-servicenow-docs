@@ -14,7 +14,7 @@ breadcrumb: [Configure, Conversational SMS Integration with Twilio, Integrate VA
 
 # Configure SMS authentication
 
-Authenticate all users [[using-sms-integ-twilio|using Conversational SMS Integration with Twilio]] with Soft PIN \(SN\) and Google authenticators as the 2-factor authentication mechanisms for account linking.
+Authenticate all users using Conversational SMS Integration with Twilio with Soft PIN \(SN\) and Google authenticators as the 2-factor authentication mechanisms for account linking.
 
 ## Before you begin
 
@@ -77,6 +77,3 @@ Rate limiting policy locks out a user when an invalid or incorrect Soft PIN is e
 
 **Parent Topic:**[Configuring Conversational SMS Integration with Twilio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-va-sms-twilio-app.md)
 
-## Related
-
-- [[using-sms-integ-twilio|Using Conversational SMS Integration with Twilio]]

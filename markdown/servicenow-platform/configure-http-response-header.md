@@ -12,7 +12,7 @@ breadcrumb: [HTTP Response Headers, Extend ServiceNow AI Platform capabilities]
 
 # Configure HTTP response headers
 
-Configure standard name-value pairs for [[http-response-header|HTTP response headers]]. You designate if the configuration applies to all pages, or to specific types \(Service Portal, [[ui-page|UI Page]], or UX application record\).
+Configure standard name-value pairs for HTTP response headers. You designate if the configuration applies to all pages, or to specific types \(Service Portal, UI Page, or UX application record\).
 
 ## Before you begin
 
@@ -40,7 +40,7 @@ Active
 
 </td><td>
 
-[[check-box|Check box]] that designates that this HTTP response header configuration is active.
+Check box that designates that this HTTP response header configuration is active.
 
 </td></tr><tr><td>
 
@@ -182,8 +182,3 @@ In this example, the second \(Header 2\) and third \(Header 3\) response header 
 
 \[Omitted image "headers-one-overwrite-page-response.png"\] Alt text: Overwrite example - resulting HTTP response header
 
-## Related
-
-- [[http-response-header|HTTP Response Headers]]
-- [[ui-page|UI page]]
-- [[check-box|Check box]]

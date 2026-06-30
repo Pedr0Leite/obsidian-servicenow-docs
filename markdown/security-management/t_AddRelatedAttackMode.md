@@ -20,7 +20,7 @@ Role required: sn\_ti.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[threat-intel-landing-page|Threat Intelligence]]** &gt; **[[ioc-repository|IoC Repository]]** &gt; **Attack Mode/Method**.
+1.  Navigate to **All** &gt; **Threat Intelligence** &gt; **IoC Repository** &gt; **Attack Mode/Method**.
 
 2.  Click the attack mode to which you want to add a related attack mode/method.
 
@@ -35,7 +35,7 @@ Role required: sn\_ti.admin
 7.  Click **Save**.
 
 
-**Parent Topic:**[[c_AttackModeMethod|Attack modes and methods]]
+**Parent Topic:**[Attack modes and methods](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/c_AttackModeMethod.md)
 
 **Related topics**  
 
@@ -46,8 +46,3 @@ Role required: sn\_ti.admin
 
 [Add associated task to an attack mode/method]()
 
-## Related
-
-- [[c_AttackModeMethod|Attack modes and methods]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[ioc-repository|IoC Repository]]

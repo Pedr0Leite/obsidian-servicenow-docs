@@ -14,7 +14,7 @@ breadcrumb: [Managing maintenance plans, Planned Maintenance, Service Management
 
 # Associate a schedule template to matching records
 
-The instance adds templates to a maintenance schedule so the appropriate requests and tasks, such as work orders and [[c_FacilitiesRequests|facilities requests]], can be auto-generated when a maintenance schedule runs.
+The instance adds templates to a maintenance schedule so the appropriate requests and tasks, such as work orders and facilities requests, can be auto-generated when a maintenance schedule runs.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: SM admin
 
 ## About this task
 
-A maintenance schedule runs and the requests or orders are generated, when a scheduled job called [[c_SMPlanMaint|Planned Maintenance]] Nightly Run evaluates the schedule and determines that the meter or interval criteria in the schedule is met or exceeded. You can [run a scheduled job to execute a maintenance schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/planned-maintenance-family/t_RunSchedJobToExecMaintSched.md) that runs at a day or time convenient for your business.
+A maintenance schedule runs and the requests or orders are generated, when a scheduled job called Planned Maintenance Nightly Run evaluates the schedule and determines that the meter or interval criteria in the schedule is met or exceeded. You can [run a scheduled job to execute a maintenance schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/planned-maintenance-family/t_RunSchedJobToExecMaintSched.md) that runs at a day or time convenient for your business.
 
 Each auto-generated service order is linked to the record under maintenance in the following ways:
 
@@ -62,7 +62,3 @@ Work orders or facilities requests created by the scheduled jobs running on the 
 
 **Parent Topic:**[Managing maintenance plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/planned-maintenance-family/c_MaintPlanMgmt.md)
 
-## Related
-
-- [[c_FacilitiesRequests|Facilities requests]]
-- [[c_SMPlanMaint|Planned Maintenance]]

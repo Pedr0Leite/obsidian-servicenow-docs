@@ -16,7 +16,7 @@ breadcrumb: [Configure, Instance Data Replication, Manage instance data sources,
 
 When upgrading your instance, IDR automatically pauses replication to maintain data replication without any manual intervention.
 
-Upgrading your instance with [[instance-data-replication|Instance Data Replication]] \(IDR\) enabled is a seamless process.
+Upgrading your instance with Instance Data Replication \(IDR\) enabled is a seamless process.
 
 -   IDR doesn't consume or produce messages during an instance upgrade. IDR jobs are automatically stopped when the upgrade begins.
 -   The data\_replication\_queue tracks the timestamp of the last message sent. This ensures that replication resumes from the last change made prior to the upgrade.
@@ -26,6 +26,3 @@ Upgrading your instance with [[instance-data-replication|Instance Data Replicati
 
 **Parent Topic:**[Configuring Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/configuring-instance-data-replication.md)
 
-## Related
-
-- [[instance-data-replication|Instance Data Replication]]

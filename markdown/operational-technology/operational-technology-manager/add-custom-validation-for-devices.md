@@ -18,7 +18,7 @@ Customize the validation for your OT devices.
 
 ## Before you begin
 
-The base system for the **sn\_otsm\_sgc.SGOTAssetCustomValidationExtensionPoint** extension point uses the default **sn\_otsm\_sgc.SGOTExcelStagingAssetValidationProcessor** implementation script. You can add a customized validation by creating an implementation for the extension point in the Service Graph Connector for [[operational-technology-overview|Operational Technology]] \(Excel\) scope.
+The base system for the **sn\_otsm\_sgc.SGOTAssetCustomValidationExtensionPoint** extension point uses the default **sn\_otsm\_sgc.SGOTExcelStagingAssetValidationProcessor** implementation script. You can add a customized validation by creating an implementation for the extension point in the Service Graph Connector for Operational Technology \(Excel\) scope.
 
 Role required: admin
 
@@ -39,6 +39,3 @@ Role required: admin
 
 **Parent Topic:**[Configuring the Service Graph Connector for Microsoft Excel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/configuring-service-graph-connector-for-excel.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]

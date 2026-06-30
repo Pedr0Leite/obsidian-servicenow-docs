@@ -14,7 +14,7 @@ breadcrumb: [Deploying DEX to employees, Configure, Digital End-User Experience,
 
 # Bulk deploy Agent Client Collector on macOS using Jamf
 
-Use Jamf to install Agent Client Collector \(ACC\) on multiple macOS [[dex-workspace-devices-tab|devices]] at once, promoting consistent deployment across your organization.
+Use Jamf to install Agent Client Collector \(ACC\) on multiple macOS devices at once, promoting consistent deployment across your organization.
 
 ## Before you begin
 
@@ -39,7 +39,7 @@ The following procedure describes how to mass-deploy ACC using Jamf. Your organi
 
 2.  Upload the installation package to Jamf Pro.
 
-    1.  In the Jamf Pro instance, navigate to **[[settings-mobile|Settings]]** &gt; **Packages**.
+    1.  In the Jamf Pro instance, navigate to **Settings** &gt; **Packages**.
 
     2.  Select the **New** button.
 
@@ -204,7 +204,3 @@ The following procedure describes how to mass-deploy ACC using Jamf. Your organi
     -   Check the agent status by navigating to **All** &gt; **Agent Client Collector** &gt; **Agents**.
     -   Review the log file on the endpoint devices: `/Library/Application Support/servicenow/agent-client-collector/log/acc.log`.
 
-## Related
-
-- [[dex-workspace-devices-tab|Devices]]
-- [[settings-mobile|Settings]]

@@ -14,7 +14,7 @@ breadcrumb: [Manage supplier cases, Using Source-to-Pay Workspace, Use, Supplier
 
 # Submit a supplier case from the Source-to-Pay Workspace
 
-Submit a [[supplier|supplier]] case in Draft state to indicate that it is ready to be worked on.
+Submit a supplier case in Draft state to indicate that it is ready to be worked on.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_slm.manager, sn\_slm.owner, or sn\_slm.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
 2.  Select the list icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon.\).
 
@@ -58,8 +58,3 @@ For more information, see [Case playbook for specific supplier case types](https
 
 [Reopen a supplier case from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/reopen-supplier-case.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

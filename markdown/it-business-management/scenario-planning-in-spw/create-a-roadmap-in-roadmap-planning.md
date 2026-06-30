@@ -29,7 +29,7 @@ Select a source table as a starting point to base your roadmap on. Select one of
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]]** &gt; **Free-form Roadmaps**
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Portfolio Planning** &gt; **Free-form Roadmaps**
 
 2.  Select **New**.
 
@@ -77,7 +77,3 @@ Select a source table as a starting point to base your roadmap on. Select one of
 
 [Share a free-form roadmap with stakeholders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/share-a-roadmap-with-stakeholders.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

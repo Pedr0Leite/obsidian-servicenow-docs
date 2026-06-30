@@ -14,11 +14,11 @@ breadcrumb: [SCIM Client, System for Cross-domain Identity Management \(SCIM\), 
 
 # SCIM Client properties, tables, scriptable APIs, and logs
 
-The SCIM v2 - ServiceNow Cross-domain [[identity-landing|Identity]] Management Client \(com.snc.integration.scim2.client\) plugin includes the following [[ca-system-properties|system properties]], tables, scriptable APIs, and [[logs|logs]].
+The SCIM v2 - ServiceNow Cross-domain Identity Management Client \(com.snc.integration.scim2.client\) plugin includes the following system properties, tables, scriptable APIs, and logs.
 
 ## Properties
 
-[[scim-client-app|SCIM Client]] adds the following system properties.
+SCIM Client adds the following system properties.
 
 <table id="table_zyl_dyx_ctb"><thead><tr><th>
 
@@ -30,7 +30,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-**com.snc.integration.scim2.client.log.[[c_requestAPI|request]].status**
+**com.snc.integration.scim2.client.log.request.status**
 
 </td><td>
 
@@ -53,14 +53,14 @@ The SCIM Client adds the following tables.
 
 |Name|Description|
 |----|-----------|
-|SCIM Provider \(sys\_scim\_provider\)|Stores data for each [[scim-provider|SCIM provider]], such as the name, REST message resource definitions, and so on.|
+|SCIM Provider \(sys\_scim\_provider\)|Stores data for each SCIM provider, such as the name, REST message resource definitions, and so on.|
 |SCIM Provider Resource Mapping \(sys\_scim\_provider\_resource\_mapping\)|Stores the primary table information for each provider and resource name.|
 |SCIM Attribute Mapping \(sys\_scim\_attribute\_mapping\)|Stores the source details where each SCIM attribute value should come from, such as the table field, script, and so on.|
 |SCIM Client Log \(sys\_scim\_client\_logs\)|Stores the statuses of each call triggered to SCIM Provider.|
 
 ## Scriptable API
 
-The SCIM2Client API calls the [[scim|System for Cross-domain Identity Management \(SCIM\)]] Provider \(server role\) to create, update, or delete data in a service provider \(SP\). The scriptable API of the SCIM Client should be used in the scripts that are running in the system context or by a system admin user.
+The SCIM2Client API calls the System for Cross-domain Identity Management \(SCIM\) Provider \(server role\) to create, update, or delete data in a service provider \(SP\). The scriptable API of the SCIM Client should be used in the scripts that are running in the system context or by a system admin user.
 
 For example, you can use the script while running the integration hub workflow as a system user, while running the scheduled jobs, and so on.
 
@@ -69,7 +69,7 @@ The following are some of the use cases for using the scriptable APIs:
 -   As an admin, provision identity information from background scripts, business rules, script include calls, workflows, and so on.
 -   As an admin, run a scheduled job or an on-demand job for identity provisioning.
 -   Run a workflow or sub-workflow with the Script step using the provision scriptable API call.
--   Add the provision script directly in a business rule or script include. The script can be triggered by non-admin [[users|users]]. This use-case works in the following situations:
+-   Add the provision script directly in a business rule or script include. The script can be triggered by non-admin users. This use-case works in the following situations:
     -   The user has access to the token, meaning that the user has the role to generate the token from the REST template.
     -   The user has access to retrieve the SCIM attribute values from the mapped tables.
 
@@ -79,13 +79,3 @@ To know more about the scriptable API, see [SCIM2Client API](https://raw.githubu
 
 The SCIM Client Logs display the provisioning status about the SCIM APIs. To view the provisioning status, navigate to **All** &gt; **SCIM** &gt; **SCIM Client Logs**.
 
-## Related
-
-- [[identity-landing|Identity]]
-- [[ca-system-properties|System properties]]
-- [[logs|Logs]]
-- [[scim-client-app|SCIM Client]]
-- [[c_requestAPI|request]]
-- [[scim-provider|SCIM Provider]]
-- [[scim|System for Cross-domain Identity Management \(SCIM\)]]
-- [[users|Users]]

@@ -14,7 +14,7 @@ breadcrumb: [Enable and configure the Pre-hire Experience, Configure, Journey de
 
 # Deactivate an obsolete Lifecycle Events activity
 
-[[jny-dsgnr-landing-page-1|Journey designer]] customers must deactivate the following [[hr-lifecycle-events-landing-page-1|Lifecycle Events]] [[activity-lxp|activity]] to initiate the process for enabling the [[jny-pre-hire-experience|Pre-hire experience]]: Account setup and notification. The Account setup and notification activity must be deactivated so you can use its replacement, a new Lifecycle Events activity that's designed to support the Pre-hire experience.
+Journey designer customers must deactivate the following Lifecycle Events activity to initiate the process for enabling the Pre-hire experience: Account setup and notification. The Account setup and notification activity must be deactivated so you can use its replacement, a new Lifecycle Events activity that's designed to support the Pre-hire experience.
 
 ## Before you begin
 
@@ -46,9 +46,3 @@ Activate the following Lifecycle Events activities to enable support for the Pre
 
 **Parent Topic:**[Enable and configure the Pre-hire Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-pre-hire-enable-configure.md)
 
-## Related
-
-- [[jny-dsgnr-landing-page-1|Journey designer]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[activity-lxp|Activity]]
-- [[jny-pre-hire-experience|Pre-hire experience]]

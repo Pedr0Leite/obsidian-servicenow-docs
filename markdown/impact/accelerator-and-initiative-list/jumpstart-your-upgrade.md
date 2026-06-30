@@ -18,7 +18,7 @@ Guidance on upgrade planning and preparation
 
 ## Accelerator Overview
 
-Jumpstart Your Upgrade provides [[impact-landing-page|Impact]] Customers with guidance, tips, and tools to execute a ServiceNow upgrade. It enables Customers to upgrade by helping them understand leading practices as well as giving them an opportunity to see what their instance looks like upgraded in a temporary instance.
+Jumpstart Your Upgrade provides Impact Customers with guidance, tips, and tools to execute a ServiceNow upgrade. It enables Customers to upgrade by helping them understand leading practices as well as giving them an opportunity to see what their instance looks like upgraded in a temporary instance.
 
 ## Package Availability
 
@@ -65,6 +65,3 @@ This Impact Accelerator in its entirety or portions of the Impact Accelerator Ac
 
 ServiceNow is not responsible for implementing the applicable upgrade on Customer’s sub-production or production instances.
 
-## Related
-
-- [[impact-landing-page|Impact]]

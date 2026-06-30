@@ -14,7 +14,7 @@ breadcrumb: [Asset conditions, Create and manage enterprise assets, Managing ent
 
 # Define condition attributes on enterprise models and assets
 
-Define the conditions to be inspected on enterprise [[c_Models|models]] and assets throughout their life cycle.
+Define the conditions to be inspected on enterprise models and assets throughout their life cycle.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Before defining condition attributes, create a condition template from the Admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[using-eam-workspace|Enterprise Asset Workspace]]**.
+1.  Navigate to **All** &gt; **Enterprise Asset Workspace**.
 
 2.  Navigate to either of the two views.
 
@@ -66,7 +66,7 @@ Name of the condition attribute.
 
 Model or Asset
 
- The Model field appears in the Enterprise [[model-management-view-am|model management view]]. The Asset field appears in the Enterprise [[asset-estate-view-am|asset estate view]].
+ The Model field appears in the Enterprise model management view. The Asset field appears in the Enterprise asset estate view.
 
 </td><td>
 
@@ -102,7 +102,7 @@ Category
 
 </td><td>
 
-Type of condition.**Note:** The [[enterprise-asset-management|Enterprise Asset Management]] application includes many default condition categories such as Area, Concentration, Density, and Electrical.
+Type of condition.**Note:** The Enterprise Asset Management application includes many default condition categories such as Area, Concentration, Density, and Electrical.
 
 </td></tr><tr><td>
 
@@ -177,10 +177,3 @@ Option that indicates if the condition attribute is active. Select this check bo
 
 [Create condition templates for condition attributes]()
 
-## Related
-
-- [[c_Models|Models]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[model-management-view-am|Model management view]]
-- [[asset-estate-view-am|Asset estate view]]
-- [[enterprise-asset-management|Enterprise Asset Management]]

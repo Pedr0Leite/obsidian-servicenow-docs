@@ -53,23 +53,16 @@ To view all meetings for the lead, select the **Meetings** tab.
 
 **Note:** The **Meetings** tab displays both meetings linked directly to the lead and meetings linked to the lead's touchpoints.
 
-**Parent Topic:**[[lead-management-using|Using Lead Management]]
+**Parent Topic:**[Using Lead Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management-using.md)
 
 **Related topics**  
 
 
-[[schedule-meeting-touchpoint|Schedule a meeting from a touchpoint]]
+[Schedule a meeting from a touchpoint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/schedule-meeting-touchpoint.md)
 
-[[manage-touchpoints-lead|Manage touchpoints on a lead]]
+[Manage touchpoints on a lead](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/manage-touchpoints-lead.md)
 
-[[create-meeting-touchpoints-form|Create new meeting form]]
+[Create new meeting form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-meeting-touchpoints-form.md)
 
-[[explore-activity-management|Activity Management]]
+[Activity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-activity-management.md)
 
-## Related
-
-- [[lead-management-using|Using Lead Management]]
-- [[schedule-meeting-touchpoint|Schedule a meeting from a touchpoint]]
-- [[manage-touchpoints-lead|Manage touchpoints on a lead]]
-- [[create-meeting-touchpoints-form|Create new meeting form]]
-- [[explore-activity-management|Activity Management]]

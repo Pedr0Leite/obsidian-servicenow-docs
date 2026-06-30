@@ -24,7 +24,7 @@ Role required: sn\_imt\_ppe.ppe\_admin
 
 1.  Navigate to **All** &gt; **Self-Service** &gt; **Service Catalog** and click **Personal Protective Equipment \(PPE\)**.
 
-    **Note:** To request PPE in the [[mobile-employee-experience|Now Mobile app]], navigate to **Health** &gt; **Follow These Safety Practices** &gt; **Request PPE**.
+    **Note:** To request PPE in the Now Mobile app, navigate to **Health** &gt; **Follow These Safety Practices** &gt; **Request PPE**.
 
 2.  Click the item that you want to order.
 
@@ -39,6 +39,3 @@ View the status of your request by navigating to **PPE Inventory Management** &g
 
 **Parent Topic:**[Workplace PPE Inventory Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/ppe-inventory-management.md)
 
-## Related
-
-- [[mobile-employee-experience|Now Mobile app]]

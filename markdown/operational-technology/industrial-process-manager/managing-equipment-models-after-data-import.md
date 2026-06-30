@@ -14,7 +14,7 @@ breadcrumb: [Use, Industrial Process Manager, Operational Technology]
 
 # Managing equipment models
 
-The Equipment Model Manager in the [[industrial-workspace-for-operational-technology|Industrial Workspace]] enables you to review and manage [[isa-95-equipment-model|ISA-95 equipment model]] data. You use it to review imported equipment model data or to manually create an equipment model.
+The Equipment Model Manager in the Industrial Workspace enables you to review and manage ISA-95 equipment model data. You use it to review imported equipment model data or to manually create an equipment model.
 
 ## Equipment Model Manager in the Industrial Workspace
 
@@ -32,13 +32,7 @@ An equipment model maps the operational elements of a particular facility. For e
 -   **[Review and update the equipment model details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/equipment-model-workspace.md)**  
 Review and update the details for an equipment model that you imported into the ServiceNow AI Platform so that you can make sure that the information is correct. You can also manually create a new equipment model entity and then add details to it.
 -   **[Automated Mapping Across Zone-based IP Network Groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/automate-mappings-between-ot-assets-and-equipment-model-entity.md)**  
-Automate mapping of [[operational-technology-overview|Operational Technology]] \(OT\) devices to the production process using the [[automate-mappings-between-ot-assets-and-equipment-model-entity|Automated Mapping Across Zone-based IP Network Groups]] \(AMAZING\) feature.​
+Automate mapping of Operational Technology \(OT\) devices to the production process using the Automated Mapping Across Zone-based IP Network Groups \(AMAZING\) feature.​
 
 **Parent Topic:**[Using Industrial Process Manager with the Operational Technology Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/using-manufacturing-process-manager.md)
 
-## Related
-
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[isa-95-equipment-model|ISA-95 equipment model]]
-- [[operational-technology-overview|Operational Technology]]
-- [[automate-mappings-between-ot-assets-and-equipment-model-entity|Automated Mapping Across Zone-based IP Network Groups]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, Enterprise Asset Management, IT Asset Management]
 
 # Install Enterprise Asset Management
 
-You can install the [[enterprise-asset-management|Enterprise Asset Management]] application \(com.sn\_eam\) if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Enterprise Asset Management application \(com.sn\_eam\) if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -51,6 +51,4 @@ For more information, see [Components installed with Enterprise Asset Management
 
 5.  Select **Install**.
 
-## Related
 
-- [[enterprise-asset-management|Enterprise Asset Management]]

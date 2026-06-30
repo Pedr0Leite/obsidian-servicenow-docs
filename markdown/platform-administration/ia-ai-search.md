@@ -34,8 +34,5 @@ See [Create a Microsoft SharePoint Online external content connector](https://ra
 
 See [AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/overview-ais.md) for more information.
 
-**Parent Topic:**[[ia-config-platform-il|Platform module configuration in Setup Hub]]
+**Parent Topic:**[Platform module configuration in Setup Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-config-platform-il.md)
 
-## Related
-
-- [[ia-config-platform-il|Platform module configuration in Setup Hub]]

@@ -22,7 +22,7 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[recruitment-workspace-concept|Recruitment workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Recruitment workspace**.
 
 2.  Open the job requisition where you want to add a job description.
 
@@ -43,6 +43,3 @@ Send the requisition for approval. For more information, see [Submit a job requi
 
 **Parent Topic:**[Using Recruitment workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/use-recruit-workspace.md)
 
-## Related
-
-- [[recruitment-workspace-concept|Recruitment workspace]]

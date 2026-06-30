@@ -20,7 +20,7 @@ Role required: sn\_oper\_res.manager
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[grc-opres-landing-page|Operational Resilience]] Workspace** &gt; **Self-attestations**.
+1.  Navigate to **Workspaces** &gt; **Operational Resilience Workspace** &gt; **Self-attestations**.
 
     A list of the available Self-attestations is displayed.
 
@@ -28,13 +28,13 @@ Role required: sn\_oper\_res.manager
 
 3.  Select **More** and add the **Operational vulnerabilities** related list.
 
-4.  Select **New** in the Operational vulnerabilities related list and add an [[exploring-op-vul|operational vulnerability]].
+4.  Select **New** in the Operational vulnerabilities related list and add an operational vulnerability.
 
 5.  On the Vulnerability New record form, fill in the fields.
 
     The source of the vulnerability is the selected service. Therefore, the **Source** field on the form shows the source as Service and the **Source table** field on the form shows the table as Service. The **Source table** field is auto-filled.
 
-    To view more information on the fields, see the [[create-new-op-vul-form|Create Operational vulnerability form]].
+    To view more information on the fields, see the [Create Operational vulnerability form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-new-op-vul-form.md).
 
 6.  Select **Save**.
 
@@ -46,8 +46,4 @@ Role required: sn\_oper\_res.manager
 
     The Service record is saved.
 
-## Related
 
-- [[create-new-op-vul-form|Create Operational vulnerability form]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[exploring-op-vul|Operational vulnerability]]

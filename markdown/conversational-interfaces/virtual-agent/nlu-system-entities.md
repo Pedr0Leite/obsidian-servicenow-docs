@@ -14,7 +14,7 @@ breadcrumb: [Virtual Agent technical reference, Virtual Agent reference, Virtual
 
 # NLU system entities
 
-Use globally defined NLU entities to identify system information that [[virtual-agent-landing-page|Virtual Agent]] can extract from the conversation. You can define entities as "nodeless" input variables for a topic. These variables can be slot-filled from NLU service provider predictions or provided outside of the scope of the topic.
+Use globally defined NLU entities to identify system information that Virtual Agent can extract from the conversation. You can define entities as "nodeless" input variables for a topic. These variables can be slot-filled from NLU service provider predictions or provided outside of the scope of the topic.
 
 System entities are enabled in NLU models by default. You can view them on the model **Entities** tab in NLU Workbench.
 
@@ -1045,6 +1045,3 @@ Code example
 
 [Latency feedback in Virtual Agent]()
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

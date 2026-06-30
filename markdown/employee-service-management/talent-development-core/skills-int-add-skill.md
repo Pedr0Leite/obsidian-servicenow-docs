@@ -22,7 +22,7 @@ Role required: sn\_skills\_int.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[skills-intelligence|Skills Foundation]]** &gt; **Skills**.
+1.  Navigate to **All** &gt; **Skills Foundation** &gt; **Skills**.
 
 2.  Select **New**.
 
@@ -47,6 +47,4 @@ Role required: sn\_skills\_int.admin
 
 6.  Click **Submit**.
 
-## Related
 
-- [[skills-intelligence|Skills Foundation]]

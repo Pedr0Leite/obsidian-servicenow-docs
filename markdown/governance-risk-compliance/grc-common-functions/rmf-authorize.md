@@ -16,7 +16,7 @@ breadcrumb: [Process overview, NIST RMF Use Case Accelerator, GRC use case accel
 
 Within the NIST RMF application, the **Authorize** section involves the authorization of targets based on their compliance and risk posture.
 
-**Note:** Starting with version 10.1.0, the [[grc-and-nistrmf-usecase-accelerator|NIST RMF Use Case Accelerator]] will be supported only for customers who currently use the product. New and existing customers should consider using the GRC: Continuous Authorization Monitoring application. For details, [Continuous Authorization and Monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/grc-cam-landing-page.md).
+**Note:** Starting with version 10.1.0, the NIST RMF Use Case Accelerator will be supported only for customers who currently use the product. New and existing customers should consider using the GRC: Continuous Authorization Monitoring application. For details, [Continuous Authorization and Monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/grc-cam-landing-page.md).
 
 Users request authorization from the appropriate parties directly from the target form.
 
@@ -27,6 +27,3 @@ The NIST RMF Authorize dashboard provides insights into the overall status of th
 
 **Parent Topic:**[NIST RMF process overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/nist-rmf-process.md)
 
-## Related
-
-- [[grc-and-nistrmf-usecase-accelerator|NIST RMF Use Case Accelerator]]

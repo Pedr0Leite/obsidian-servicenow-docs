@@ -15,13 +15,13 @@ breadcrumb: [Indicators, Configure fundamentals, Performance Analytics \(Indicat
 
 # Performance Analytics scores forecasts
 
-Performance Analytics enables you to forecast future scores based on past behavior. You can forecast scores on [[time-series-widgets|time series widgets]], time series data visualizations, [[kpi-details|KPI Details]], and the [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]. Forecast scores appear as a dotted line.
+Performance Analytics enables you to forecast future scores based on past behavior. You can forecast scores on time series widgets, time series data visualizations, KPI Details, and the Analytics Hub. Forecast scores appear as a dotted line.
 
 Forecasting is set up in the **Forecasting** tab of the indicator record. The number of data points included in the forecast depends on the indicator frequency and the number of **Periods to forecast** configured on the indicator. A period is a set number of scores based on the indicator frequency. Regardless of the settings and the forecast method, no more than 2688 forecast data points are generated.
 
 **Note:** In time series data visualizations on a configurable workspace, you can override the forecast configuration that is set on the indicator. This override applies only to that data visualization.
 
-Also in time series data visualizations, you are not limited to forecasts on [[c_Indicators|Performance Analytics indicators]]. If you have a subscription version of Performance Analytics, you can generate forecasts for any data source except tables. For more information, see [[create-dv-time-series-ac|Create time series data visualizations]].
+Also in time series data visualizations, you are not limited to forecasts on Performance Analytics indicators. If you have a subscription version of Performance Analytics, you can generate forecasts for any data source except tables. For more information, see [Create time series data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-time-series-ac.md).
 
 **Related topics**  
 
@@ -30,7 +30,7 @@ Also in time series data visualizations, you are not limited to forecasts on [[c
 
 ## Configure forecasts on an indicator
 
-In the record of an automated indicator, configure forecasts as they will appear on the Analytics Hub, [[c_Widgets|Performance Analytics widgets]], and time series data visualizations.
+In the record of an automated indicator, configure forecasts as they will appear on the Analytics Hub, Performance Analytics widgets, and time series data visualizations.
 
 ### Before you begin
 
@@ -38,7 +38,7 @@ Role required: pa\_power\_user, pa\_admin, admin
 
 ### Procedure
 
-1.  Navigate to **[[c_performanceAnalyticsAndReporting|Platform Analytics]] Administration** &gt; **Indicators** &gt; **[[automated-indicators|Automated indicators]]**.
+1.  Navigate to **Platform Analytics Administration** &gt; **Indicators** &gt; **Automated indicators**.
 
 2.  Open the automated indicator that you want to configure forecasts for.
 
@@ -256,7 +256,7 @@ To show the forecast on the Analytics Hub, click the chart settings icon \(\[Omi
 
 To show the forecast in a time series data visualization, expand the Additional settings and turn on **Show forecast**. You have the option then to show the forecast range. You can override the forecast configuration for the indicator on this specific data visualization by opening **Configure forecast**.
 
-To show the forecast for an indicator on KPI Details, turn forecasting on in the [[chart-options|Chart options in KPI Details]].
+To show the forecast for an indicator on KPI Details, turn forecasting on in the [Chart options in KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/chart-options.md).
 
 **Related topics**  
 
@@ -265,20 +265,7 @@ To show the forecast for an indicator on KPI Details, turn forecasting on in the
 
 [Analytics Hub for a specific indicator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/view-scorecard.md)
 
-[[config-dv-time-series-ind-data|Indicator data options for time series data visualizations]]
+[Indicator data options for time series data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/config-dv-time-series-ind-data.md)
 
-[[kpi-details-components|Examining indicators with KPI Details]]
+[Examining indicators with KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/kpi-details-components.md)
 
-## Related
-
-- [[create-dv-time-series-ac|Create time series data visualizations]]
-- [[chart-options|Chart options in KPI Details]]
-- [[config-dv-time-series-ind-data|Indicator data options for time series data visualizations]]
-- [[kpi-details-components|Examining indicators with KPI Details]]
-- [[time-series-widgets|Time series widgets]]
-- [[kpi-details|KPI Details]]
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]
-- [[c_Indicators|Performance Analytics indicators]]
-- [[c_Widgets|Performance Analytics widgets]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[automated-indicators|Automated indicators]]

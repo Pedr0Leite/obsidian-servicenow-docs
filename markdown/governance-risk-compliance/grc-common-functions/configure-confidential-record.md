@@ -22,7 +22,7 @@ Role required: sn\_grc.admin, sn\_grc.business\_user who has opened the risk eve
 
 ## Procedure
 
-1.  Navigate to **All &gt; [[Administration|Administration]] &gt; GRC Properties**.
+1.  Navigate to **All &gt; Administration &gt; GRC Properties**.
 
 2.  Select **Yes** for **Enable record level confidentiality** property and select **Save**.
 
@@ -51,6 +51,3 @@ The selected record is marked as confidential. Only the users who belong to the 
 
 **Parent Topic:**[Confidential records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/confidential-records.md)
 
-## Related
-
-- [[Administration|Administration]]

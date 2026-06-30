@@ -14,10 +14,10 @@ breadcrumb: [Integrate, Threat Intelligence Security Center, Security Operations
 
 # TISC Integrations
 
-This section provides instructions for configuring and enabling the [[threat-intelligence-integrations|Threat Intelligence integrations]].
+This section provides instructions for configuring and enabling the Threat Intelligence integrations.
 
 -   **[TISC Enrichment integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-enrichment-integrations.md)**  
-The [[tisc-landing-page|Threat Intelligence Security Center]] base system does not include any pre-configured integrations. This section provides instructions for configuring both ServiceNow and third-party integrations.
+The Threat Intelligence Security Center base system does not include any pre-configured integrations. This section provides instructions for configuring both ServiceNow and third-party integrations.
 -   **[TISC Security Tools integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-edr-integrations.md)**  
 TISC Endpoint Detection and Response \(EDR\) integrations focuses on identifying and addressing security threats at an endpoint level.
 
@@ -30,7 +30,3 @@ TISC Endpoint Detection and Response \(EDR\) integrations focuses on identifying
 
 [Threat Intelligence Feeds]()
 
-## Related
-
-- [[threat-intelligence-integrations|Threat Intelligence integrations]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]

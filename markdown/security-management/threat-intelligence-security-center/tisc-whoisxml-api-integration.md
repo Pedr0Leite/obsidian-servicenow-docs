@@ -14,21 +14,21 @@ breadcrumb: [Whois integration, Configure Observable Enrichment, TISC Enrichment
 
 # Configure and enable Whois integration
 
-Set up [[tisc-whoisxml-integration|WHOIS integration]] with TISC to perform domain and URL lookups for [[threat-intel-landing-page|threat intelligence]] enrichment. This integration provides context on [[c_Observables|observables]] to help determine potential threats.
+Set up WHOIS integration with TISC to perform domain and URL lookups for threat intelligence enrichment. This integration provides context on observables to help determine potential threats.
 
 ## Before you begin
 
 Role required: sn\_sec\_tisc.admin
 
-**Important:** The [[tisc-landing-page|Threat Intelligence Security Center]] and Whois [[tisc-observable-enrichment|Observable Enrichment]] plugins must be installed and active.
+**Important:** The Threat Intelligence Security Center and Whois Observable Enrichment plugins must be installed and active.
 
-Download the Whois integration from the ServiceNow Store and confirm you have a valid Whois account before use. For more information see, [[download-app-first-time|Download the integration from the ServiceNow Store]].
+Download the Whois integration from the ServiceNow Store and confirm you have a valid Whois account before use. For more information see, [Download the integration from the ServiceNow Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/download-app-first-time.md).
 
 ## Procedure
 
 1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center** &gt; **Integrations** &gt; **Enrichment Integrations** &gt; **All Integrations** &gt; **Observable Enrichment**.
 
-2.  In the **WHOIS** card, select **[[tisc-config-new-enrich|Configure New Enrichment]]** to configure **WHOIS** integration.
+2.  In the **WHOIS** card, select **Configure New Enrichment** to configure **WHOIS** integration.
 
 3.  Fill in the fields on the Configure New Enrichment form.
 
@@ -62,7 +62,7 @@ Integration Type
 
 </td><td>
 
-Type of integration that you selected. For example, [[tisc-threat-lookup|Threat Lookup]].
+Type of integration that you selected. For example, Threat Lookup.
 
 </td></tr><tr><td>
 
@@ -95,13 +95,3 @@ After it is configured, Whois can be selected for performing enrichment on obser
 
 [Configure Observable Enrichment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/configure-observable-enrichment.md)
 
-## Related
-
-- [[download-app-first-time|Download an application from the ServiceNow Store for the first time]]
-- [[tisc-whoisxml-integration|Whois integration]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[c_Observables|Observables]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[tisc-observable-enrichment|Observable Enrichment]]
-- [[tisc-config-new-enrich|Configure new enrichment]]
-- [[tisc-threat-lookup|Threat Lookup]]

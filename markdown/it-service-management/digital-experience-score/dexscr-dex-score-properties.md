@@ -16,7 +16,7 @@ breadcrumb: [Reference, Digital Experience Score, Digital End-User Experience, I
 
 Configure the system properties to enable DEX Score application and set the company level target for the digital experience score.
 
-These properties are available for [[dexscr-digital-experience-score|Digital Experience Score​]].
+These properties are available for Digital Experience Score​.
 
 **Note:** To open the System Properties \[sys\_properties\] table, enter `sys_properties.list` in the navigation filter.
 
@@ -55,6 +55,3 @@ Organization's target for DEX score that you can see on the DEX Score dashboard.
 </td></tr></tbody>
 </table>**Parent Topic:**[Digital Experience Score​ reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/dexscr-dex-score-reference.md)
 
-## Related
-
-- [[dexscr-digital-experience-score|Digital Experience Score​]]

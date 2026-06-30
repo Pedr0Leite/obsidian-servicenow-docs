@@ -22,7 +22,7 @@ Role required: hr\_basic or hr\_case\_writer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **All HR Cases**, and open one of the modules, such as **Assigned to me** or **Open**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **All HR Cases**, and open one of the modules, such as **Assigned to me** or **Open**.
 
 2.  Open an HR case.
 
@@ -73,6 +73,3 @@ Click **Attach** next to the article.**Note:** When you attach an article, its t
 
 **Parent Topic:**[HR Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-knowledge-management.md)
 
-## Related
-
-- [[case-management-workspace|Case management]]

@@ -14,7 +14,7 @@ breadcrumb: [FX Currency field behavior, Defaults required for FX Currency use, 
 
 # Set the reference currency
 
-Set the reference currency for the designated FX Currency field. The ServiceNow AI Platform uses the [[reference-email-admin|reference]] currency to convert values entered into the FX Currency field into a common currency for report aggregation purposes.
+Set the reference currency for the designated FX Currency field. The ServiceNow AI Platform uses the reference currency to convert values entered into the FX Currency field into a common currency for report aggregation purposes.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Roles required: admin
 
     For example, select **USD** if the currency values expressed in various currencies convert into US Dollars for report aggregation.
 
-    To use the global reference currency default you established in the **glide.currency2.default\_reference\_currency** property in **[[system-localization-landing|System Localization]]** &gt; **All Properties.**
+    To use the global reference currency default you established in the **glide.currency2.default\_reference\_currency** property in **System Localization** &gt; **All Properties.**
 
 3.  In the **Reference Currency Source** field, designate the source of the reference currency.
 
@@ -41,7 +41,3 @@ Roles required: admin
 
 **Parent Topic:**[Configuring FX Currency field behavior](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/configure-fx-currency-field-behavior.md)
 
-## Related
-
-- [[reference-email-admin|Reference]]
-- [[system-localization-landing|System Localization]]

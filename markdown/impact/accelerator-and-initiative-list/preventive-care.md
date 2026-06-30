@@ -14,11 +14,11 @@ breadcrumb: [Initiatives catalog, View the Initiatives and Accelerators catalog,
 
 # Preventive Care
 
-Preventive Care is a premium, engineer-led diagnostic of instance [[instance-observer-performance|performance]] executed on a regular cadence and available as an add-on package to all ServiceNow [[impact-landing-page|Impact]] customers.
+Preventive Care is a premium, engineer-led diagnostic of instance performance executed on a regular cadence and available as an add-on package to all ServiceNow Impact customers.
 
 ## Preventive Care Overview
 
-Preventive Care helps maintain optimal performance of large, strategic, ServiceNow implementations. It provides hands on implementation assistance from a ServiceNow performance expert and validation of results ensuring meaningful improvement to platform performance, stability, and end [[user-experience-insights|user experience]]. Based around a bi-annual deep dive into production instance health Preventive Care includes the following benefits:
+Preventive Care helps maintain optimal performance of large, strategic, ServiceNow implementations. It provides hands on implementation assistance from a ServiceNow performance expert and validation of results ensuring meaningful improvement to platform performance, stability, and end user experience. Based around a bi-annual deep dive into production instance health Preventive Care includes the following benefits:
 
 -   Helps ServiceNow performance experts to gain a holistic end-to-end view of instance performance and scalability through manual review over 80 data points covering all aspects of instance operation.
 -   Uses metrics to uncover areas of resource contention, performance degradation, or misconfiguration, that actively impact the end-user experience or instance stability.
@@ -34,9 +34,9 @@ Preventive Care helps maintain optimal performance of large, strategic, ServiceN
 
 Each Preventive Care engagement includes three phases:
 
-1.  Performance Engineer-led diagnostic: A metric-based analysis that reviews instance performance and [[platform-health-idi|platform health]], as well as tracking key utilization metrics over time.
+1.  Performance Engineer-led diagnostic: A metric-based analysis that reviews instance performance and platform health, as well as tracking key utilization metrics over time.
 2.  Presentation to customer stakeholders: A senior ServiceNow performance expert presents findings and reviews proactive recommendations that address specific issues with the instance that actively impact end user experience, platform stability, database efficiency or cost.
-3.  Guided Remediation: A focused remediation plan that provides hands-on, guided [[io-help|help]] to steer a customer through implementing improvements and validating expected results.
+3.  Guided Remediation: A focused remediation plan that provides hands-on, guided help to steer a customer through implementing improvements and validating expected results.
 
 \[Omitted image "preventive-care.png"\] Alt text: Preventive Care Engagement
 
@@ -117,10 +117,3 @@ Preventive Care is limited to the following:
 -   Commercially reasonable assistance on custom or third party components.​
 -   Preventive Care Engineering does not replace normal technical support function nor take ownership of support cases not linked directly to the four week Preventive Care engagement.​
 
-## Related
-
-- [[instance-observer-performance|Performance]]
-- [[impact-landing-page|Impact]]
-- [[user-experience-insights|User Experience]]
-- [[platform-health-idi|Platform Health]]
-- [[io-help|Help]]

@@ -12,7 +12,7 @@ breadcrumb: [Configuring Jeopardy Management, Order management, Configure, Sales
 
 # Setting up jeopardy management
 
-Learn about how to set up and configure Jeopardy Management for [[explore-order-management|Order Management]].
+Learn about how to set up and configure Jeopardy Management for Order Management.
 
 During design time, fulfillment managers must complete the following Jeopardy Management configuration and setup steps:
 
@@ -33,7 +33,7 @@ To use Jeopardy Management, fulfillment managers must either reconfigure existin
 
 SLA definitions and SLA Processing flows are linked to tasks in a fulfillment plan and track and report on the time jeopardy-enabled tasks take to complete. See [https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-sla-definitions.md](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-sla-definitions.md) for more information.
 
--   SLA Definitions: Set start condition, pause condition, [[cancel|cancel]] condition, and reset conditions according to use case.
+-   SLA Definitions: Set start condition, pause condition, cancel condition, and reset conditions according to use case.
 -   SLA Durations: Durations are specified so that tracking can be achieved when task SLA is created.
 -   SLA Processing flow should be defined: Customer can use demo data flows, which trigger jeopardy level calculation for order tasks at 50%, 75%, 100% task SLA progression.
 
@@ -42,21 +42,14 @@ SLA definitions and SLA Processing flows are linked to tasks in a fulfillment pl
 Decision tables are used to link and configure Jeopardy Management to product and service specifications in Order Management.
 
 -   Order Line Item Jeopardy Level Calculation: Returns Jeopardy Level for order line item based on delayed percentage of tasks.
--   Order Task Jeopardy Level Calculation: [[cpq-sets|Sets]] a task's jeopardy level based on percentage task completion.
+-   Order Task Jeopardy Level Calculation: Sets a task's jeopardy level based on percentage task completion.
 -   Order Task Duration Assignment Policy: Defines the order duration and task SLA definition.
 -   Order Jeopardy Enablement Policy: Defines if a specification has jeopardy enabled.
 
 **Related topics**  
 
 
-[[jeopardy-management|Jeopardy Management]]
+[Jeopardy Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/jeopardy-management.md)
 
-[[monitoring-jeopardy-management|Monitoring order jeopardy]]
+[Monitoring order jeopardy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/monitoring-jeopardy-management.md)
 
-## Related
-
-- [[jeopardy-management|Jeopardy Management]]
-- [[monitoring-jeopardy-management|Monitoring order jeopardy]]
-- [[explore-order-management|Order management]]
-- [[cancel|Cancel]]
-- [[cpq-sets|Sets]]

@@ -26,7 +26,7 @@ There are several key features to a case.
 -   Any additional tasks that result from a case, such as a work order. Tasks are tracked from a related list on the Case form. These tasks may be internal to the organization or they may involve the constituent.
 -   Information from the case that can be included in the knowledge base and used to help resolve other cases.
 
-There are two different Case form views: a detailed view that is available to agents and agent managers in the Public Sector Digital Services application and a simplified view that is available to external constituents from the [[gsp-overview-public-sector|Government Service Portal]].
+There are two different Case form views: a detailed view that is available to agents and agent managers in the Public Sector Digital Services application and a simplified view that is available to external constituents from the Government Service Portal.
 
 ## Agent view
 
@@ -530,7 +530,7 @@ The constituent or business contact view of the Case form includes the following
 -   The related entity information, including agency and contact information, pending service case task information, and service request information.
 -   An **Activity** field that stores all communication for the case in a chronological list.
 
-**Parent Topic:**[[psds-case-forms|Public Sector Digital Services Core Case Forms]]
+**Parent Topic:**[Public Sector Digital Services Core Case Forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-case-forms.md)
 
 ## Service Request Case Task form
 
@@ -652,8 +652,3 @@ Notes that are visible to the constituent. Agents can use this field to request 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[psds-case-forms|Public Sector Digital Services Core Case Forms]]
-- [[gsp-overview-public-sector|Government Service Portal]]

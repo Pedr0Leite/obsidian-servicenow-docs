@@ -14,7 +14,7 @@ breadcrumb: [Manage stockrooms with inventory reports, Manage stockrooms, Use, H
 
 # Identify the supply for open demands in the Hardware Asset Workspace
 
-Use the Open demands report to determine available stock within local [[c_Stockrooms|stockrooms]] and distribution channels to fulfill sourcing requests that are open.
+Use the Open demands report to determine available stock within local stockrooms and distribution channels to fulfill sourcing requests that are open.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: asset
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **[[c_Procurement|Procurement]]**.
+1.  Navigate to **Workspaces** &gt; **Hardware Asset Workspace** &gt; **Procurement**.
 
 2.  In the Procurement overview, select **Open demands**.
 
@@ -41,8 +41,3 @@ Role required: asset
 
 **Parent Topic:**[Manage stockrooms with inventory reports in the Hardware Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/manage-stockroom-inventory-report-ham.md)
 
-## Related
-
-- [[c_Stockrooms|Stockrooms]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[c_Procurement|Procurement]]

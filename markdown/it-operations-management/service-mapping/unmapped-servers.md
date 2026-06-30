@@ -15,7 +15,7 @@ breadcrumb: [Using Service Mapping, Service Mapping, ITOM Visibility, IT Operati
 
 # Create an application service for unmapped servers
 
-Maximize the use of your organization's resources by mapping application service candidates that include unmapped servers. Use the [[sm-dashboard|Service Mapping workspace]]'s unmapped servers widget to create an application service and ensure that your servers are used efficiently.
+Maximize the use of your organization's resources by mapping application service candidates that include unmapped servers. Use the Service Mapping workspace's unmapped servers widget to create an application service and ensure that your servers are used efficiently.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ For more information, see [Application service readiness dashboard in configurab
 
 **Important:**
 
-[[c_ServiceMappingOverview|Service Mapping]] Plus v.1.10.0 or higher:
+Service Mapping Plus v.1.10.0 or higher:
 
 To update your data and view application candidates for unmapped servers, see [Troubleshooting steps for Mapping unmapped servers with Application service candidates \[KB1585065\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1585065) in the Now Support Knowledge Base.
 
@@ -96,7 +96,3 @@ The selected application service candidate is converted to an application servic
 
 **Parent Topic:**[Using Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/using-service-mapping.md)
 
-## Related
-
-- [[sm-dashboard|Service Mapping Workspace]]
-- [[c_ServiceMappingOverview|Service Mapping]]

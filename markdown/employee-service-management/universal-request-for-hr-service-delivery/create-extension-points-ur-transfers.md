@@ -14,7 +14,7 @@ breadcrumb: [Configure service to use Universal Request, Setting up and configur
 
 # Create an extension point for post-processing of transfers
 
-Create a scripted extension point to perform additional actions after the cross-department transfer of a primary ticket in the [[ur-landing-limitedaccess|Universal Request]] application. You can change the sample extension point to copy any additional information from the previous primary ticket's child entities.
+Create a scripted extension point to perform additional actions after the cross-department transfer of a primary ticket in the Universal Request application. You can change the sample extension point to copy any additional information from the previous primary ticket's child entities.
 
 ## Before you begin
 
@@ -37,6 +37,3 @@ When a primary ticket of a Universal Request is transferred, the current mapping
 
 **Parent Topic:**[Configure service to use Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/config-service-for-ur.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]

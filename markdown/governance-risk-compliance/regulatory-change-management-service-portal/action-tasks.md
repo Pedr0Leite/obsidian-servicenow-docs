@@ -16,9 +16,9 @@ breadcrumb: [Manage regulatory tasks, Regulatory Change Management, Governance, 
 
 The action tasks facilitating the change management process are associated with Regulatory Change. The ownership of these action tasks is managed by the respective business owners affected due to the regulatory change.
 
-Action tasks are related to [[reg-change-task|regulatory change tasks]] and to [[source-doc-import-task|source document import tasks]]. Users with the `sn_grc_reg_change.manager`, `sn_grc_reg_change.user`, or `sn_grc_reg_change.admin` role create regulatory action tasks and source document import tasks. These tasks are related to the Compliance and Risk areas in the GRC library. The Compliance Manager and Risk Manager assign the tasks to the correct Risk or Compliance group.
+Action tasks are related to regulatory change tasks and to source document import tasks. Users with the `sn_grc_reg_change.manager`, `sn_grc_reg_change.user`, or `sn_grc_reg_change.admin` role create regulatory action tasks and source document import tasks. These tasks are related to the Compliance and Risk areas in the GRC library. The Compliance Manager and Risk Manager assign the tasks to the correct Risk or Compliance group.
 
-There are two categories of action tasks in the [[reg-change-mgmt-landing-page|Regulatory Change Management]] application:
+There are two categories of action tasks in the Regulatory Change Management application:
 
 -   Compliance: Contains all compliance-related action tasks. Compliance users can select a specific Compliance record in the GRC library, such as policies and controls.
 -   Risk: Contains all risk-related action tasks. Risk users can select a specific Risk record in the GRC library, such as risk statements.
@@ -50,8 +50,3 @@ The following types of action tasks are available in Regulatory Change Managemen
 -   Others
 -   None
 
-## Related
-
-- [[reg-change-task|Regulatory change tasks]]
-- [[source-doc-import-task|Source document import tasks]]
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]

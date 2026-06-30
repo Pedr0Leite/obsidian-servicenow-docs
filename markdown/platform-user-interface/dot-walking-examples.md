@@ -18,7 +18,7 @@ Access fields on a related table from a form, list, or script by dot-walking. Th
 
 You can dot-walk to related fields in a list, such as the field list in a filter. This example demonstrates how to filter the Incident \[incident\] table by the company of the caller who registered the incident.
 
-When you open the list of fields that you want to filter, you see the list of available Incident table fields. The [[onboarding-modals-reference|reference]] fields are followed by the related fields. For example, **Caller** is followed by **Caller** &gt; **User fields**, which means that **Caller** is a reference field, and the related fields are user fields on the **Caller** record.
+When you open the list of fields that you want to filter, you see the list of available Incident table fields. The reference fields are followed by the related fields. For example, **Caller** is followed by **Caller** &gt; **User fields**, which means that **Caller** is a reference field, and the related fields are user fields on the **Caller** record.
 
 \[Omitted image "dotwalking1-ne.png"\] Alt text: The Caller &gt; User fields option.
 
@@ -38,7 +38,7 @@ The related fields can be removed by selecting **Remove Related Fields** at the 
 
 ## Condition builders
 
-You can make a detailed query on a table by dot-walking in the [[c_ConditionBuilder|condition builder]].
+You can make a detailed query on a table by dot-walking in the condition builder.
 
 To dot-walk in a condition builder, first select **Show Related Fields** on the fields menu. This action allows you to add fields from related tables to your query.
 
@@ -46,7 +46,7 @@ For example, you could dot-walk fields in a condition builder to find all Incide
 
 ## List collectors
 
-When selecting a list of fields from a list collector \(for example, when you're configuring a form\), you can dot-walk to fields from other [[form-configurable-workspace|forms]].
+When selecting a list of fields from a list collector \(for example, when you're configuring a form\), you can dot-walk to fields from other forms.
 
 To see which fields are reference fields and can be dot-walked, look for fields with a plus symbol.
 
@@ -54,7 +54,7 @@ To see which fields are reference fields and can be dot-walked, look for fields 
 
 Once a reference field is highlighted, the expand icon \(\[Omitted image "expand-icon.png"\] Alt text: Expand icon\) appears above the add icon.
 
-Selecting the expand icon opens the list of fields from the related list in the **Available** pane. The following example shows that the **Assigned to** fields were selected. The previous [[lists-configurable-workspace|lists]] of fields appear at the top of the list.
+Selecting the expand icon opens the list of fields from the related list in the **Available** pane. The following example shows that the **Assigned to** fields were selected. The previous lists of fields appear at the top of the list.
 
 \[Omitted image "Dotwalking9.png"\] Alt text: Lists of fields
 
@@ -117,7 +117,7 @@ As shown in the example, you can dot-walk to fields on the original record of an
 
 When you dot-walk, you can have a longer chain if you need it, as in this example: *$\{assigned\_to.department.manager.mobile\_phone\}*.
 
-Sometimes, you can select this variable from a [[c_TreePicker|tree picker]].
+Sometimes, you can select this variable from a tree picker.
 
 ## Tree pickers
 
@@ -127,16 +127,7 @@ The tree picker interface has an expandable, hierarchical view that you can use 
 -   Members of a certain group. For example, you would use a tree picker to look up a user in the Service Desk group.
 -   Reference elements for any hierarchical table. A hierarchical table is any table that has a parent field pointing back at itself. The Group \[sys\_user\_group\] table, for example, would be considered a hierarchical table because certain groups are children of parent groups.
 
-**Note:** You can [[configure-onboarding-modals|configure]] the tree picker to pick up to 1,000 nodes when you configure the **glide.ui.group\_heirarchy.max\_nodes** property. To set the property, open the [Dictionary attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_DictionaryAttributes.md) for the field, and add `tree_picker=true` to the **Attributes** field. If there are multiple attributes, use a comma to separate them without any spaces between.
+**Note:** You can configure the tree picker to pick up to 1,000 nodes when you configure the **glide.ui.group\_heirarchy.max\_nodes** property. To set the property, open the [Dictionary attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_DictionaryAttributes.md) for the field, and add `tree_picker=true` to the **Attributes** field. If there are multiple attributes, use a comma to separate them without any spaces between.
 
-**Parent Topic:**[[c_DotWalking|Dot-walking to data in related tables]]
+**Parent Topic:**[Dot-walking to data in related tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_DotWalking.md)
 
-## Related
-
-- [[c_DotWalking|Dot-walking to data in related tables]]
-- [[onboarding-modals-reference|Reference]]
-- [[c_ConditionBuilder|Condition builder]]
-- [[form-configurable-workspace|Forms]]
-- [[lists-configurable-workspace|Lists]]
-- [[c_TreePicker|Tree picker]]
-- [[configure-onboarding-modals|Configure]]

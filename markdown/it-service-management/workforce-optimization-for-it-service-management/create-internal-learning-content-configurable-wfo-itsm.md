@@ -22,9 +22,9 @@ Role required: sn\_wfo\_cfg\_itsm.manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]** &gt; **Manager Workspace**.
+1.  Navigate to **All** &gt; **Workforce Optimization for ITSM** &gt; **Manager Workspace**.
 
-2.  Select the [[cf-coaching-landing|coaching]] icon.
+2.  Select the coaching icon.
 
 3.  Select **Learning Courses** and select **Internal Courses**.
 
@@ -139,7 +139,3 @@ Length of time when the course has to be completed. For example, for a video, it
 
 **Parent Topic:**[Learning in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/workforce-learning-configurable-wfo-itsm.md)
 
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]
-- [[cf-coaching-landing|Coaching]]

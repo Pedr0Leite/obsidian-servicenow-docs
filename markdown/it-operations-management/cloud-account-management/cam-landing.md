@@ -16,7 +16,7 @@ breadcrumb: [ITOM Cloud Accelerate, IT Operations Management]
 
 Cloud Account Management simplifies account management by automating tasks like creation and provisioning. Predefined policies enable easy suspension, reactivation, and certification of accounts. Potentially reduce provisioning times from weeks to minutes by automating requests, approvals, and setups.
 
-Cloud Account Management brings together ServiceNow cloud solutions in a unified experience as part of the [[cloud-governance|Cloud Governance]] Suite.
+Cloud Account Management brings together ServiceNow cloud solutions in a unified experience as part of the Cloud Governance Suite.
 
 The Cloud Account Management feature automates the management process for AWS accounts and Azure subscription creation. Key benefits include automating account management, streamlining approval workflows, reducing provisioning time, and enhancing security with automated certifications.
 
@@ -34,7 +34,7 @@ The Cloud Account Management feature automates the management process for AWS ac
 
 </td></tr><tr><td>
 
-[Use \[Omitted image "bus-try-a-demo.svg"\] Alt text:](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/using-cam.md)Become familiar with workflow to create and manage [[cloud-accounts|cloud accounts]].
+[Use \[Omitted image "bus-try-a-demo.svg"\] Alt text:](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/using-cam.md)Become familiar with workflow to create and manage cloud accounts.
 
 </td><td>
 
@@ -42,8 +42,3 @@ The Cloud Account Management feature automates the management process for AWS ac
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cloud-governance|Cloud Governance]]
-- [[cloud-accounts|Cloud accounts]]

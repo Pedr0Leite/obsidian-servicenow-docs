@@ -14,13 +14,13 @@ breadcrumb: [Processing a Mastercard dispute, Resolving disputes with Mastercard
 
 # Investigate Mastercard dispute
 
-The [[investigate-stage|Investigate stage]] displays the dispute tasks related to investigating the Mastercard transaction.
+The Investigate stage displays the dispute tasks related to investigating the Mastercard transaction.
 
 The **Investigate** stage of the disputed transaction includes the following tasks:
 
 |Task|Description|
 |----|-----------|
-|[Report fraud to card network](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/report-fraud-mc.md)|Used to [[report-fraud-visa|report fraud]] to the card network. This task is displayed when the dispute category is **Fraud**.|
+|[Report fraud to card network](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/report-fraud-mc.md)|Used to report fraud to the card network. This task is displayed when the dispute category is **Fraud**.|
 |[Make a decision on chargeback, write off, or transaction denial](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/make-decision-on-chargeback.md)|Task for a recovery option and choose whether to pursue chargeback for a transaction.|
 |[Alert merchant regarding dispute](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/alert-merchant-dispute-mc.md)|Task to review merchant response regarding the dispute. The merchant can choose to resolve the disputed transaction or decline to resolve the dispute.|
 |[Investigate the dispute](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/investigate-dispute-mc.md)|Task to investigate the transaction and decide whether to pursue chargeback or end the life cycle for the transaction.|
@@ -37,7 +37,3 @@ If the chargeback eligibility rules are evaluated as ineligible and **Pursue cha
 
 **Parent Topic:**[Processing a Mastercard dispute](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/processing-mastercard-dispute-case.md)
 
-## Related
-
-- [[investigate-stage|Investigate stage]]
-- [[report-fraud-visa|Report fraud]]

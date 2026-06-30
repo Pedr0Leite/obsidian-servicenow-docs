@@ -14,11 +14,11 @@ breadcrumb: [CrowdStrike Falcon Insight integration, Security Incident Response 
 
 # Getting started with the CrowdStrike Falcon Insight integration
 
-You can activate and set up the CrowdStrike Falcon Insight to interface with your ServiceNow AI Platform instance and [[sir-landing-page|Security Incident Response]] product.
+You can activate and set up the CrowdStrike Falcon Insight to interface with your ServiceNow AI Platform instance and Security Incident Response product.
 
 Role required: admin
 
-Before you can use CrowdStrike Falcon Insight for the [[security-operations-landing-page|Security Operations]] integration, you must download it from the ServiceNow Store.
+Before you can use CrowdStrike Falcon Insight for the Security Operations integration, you must download it from the ServiceNow Store.
 
 <table id="table_btf_hzs_cwb"><thead><tr><th>
 
@@ -54,7 +54,7 @@ The ServiceNow Integration Hub Enterprise Pack Installer \[com.glide.hub.integra
 2.  Security Integration Framework
 3.  Security Support Common
 4.  Security Support Orchestration
-5.  [[threat-intel-landing-page|Threat Intelligence]] Support Common
+5.  Threat Intelligence Support Common
 6.  Trusted Security Circles
 7.  Security Operations Setup Assistant
 8.  Security Incident Response
@@ -65,7 +65,7 @@ The ServiceNow Integration Hub Enterprise Pack Installer \[com.glide.hub.integra
 
 </td><td>
 
-An optional approval capability is available for isolating host machines, restoring them to the network, and initiating [[indicator-sightings|sightings]] searches.
+An optional approval capability is available for isolating host machines, restoring them to the network, and initiating sightings searches.
 
  To enable this option, you require prior approval from the sn\_si.admin role before host machines are isolated and restored to your network, or when sightings searches are performed. If you require an extra level of control over these actions, enable the **Require approval** option when configuring the profile. The approval authority is assigned to the user with the sn\_si.admin role. You can also reassign this approval authority to an approval group.
 
@@ -99,10 +99,3 @@ Create the CrowdStrike API clients or keys in the CrowdStrike Falcon Platform to
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[security-operations-landing-page|Security Operations]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[indicator-sightings|Sightings]]

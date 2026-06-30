@@ -14,7 +14,7 @@ breadcrumb: [Working with schedule view, Working with Event planner, Use, Workpl
 
 # Schedule view flexibility
 
-Event planners and space planners can organize, view, and manage events across multiple spaces and time zones using the [[event-planner|Event planner]] **Scheduled view** tab.
+Event planners and space planners can organize, view, and manage events across multiple spaces and time zones using the Event planner **Scheduled view** tab.
 
 The following configuration options are available on the **Schedule view** tab:
 
@@ -66,6 +66,3 @@ The following configuration options are available on the **Schedule view** tab:
 
 **Parent Topic:**[Working with schedule view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/working-with-schedule-view.md)
 
-## Related
-
-- [[event-planner|Event Planner]]

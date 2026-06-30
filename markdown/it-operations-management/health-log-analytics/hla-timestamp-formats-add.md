@@ -15,7 +15,7 @@ breadcrumb: [Additional data input setup tasks, Set up data inputs manually, Set
 
 # Add a timestamp format in Health Log Analytics
 
-Define any timestamp format that does not appear in the list of defined formats. [[hla-landing-page|Health Log Analytics]] must be able to read timestamps of any format contained in your log files.
+Define any timestamp format that does not appear in the list of defined formats. Health Log Analytics must be able to read timestamps of any format contained in your log files.
 
 ## Before you begin
 
@@ -91,6 +91,3 @@ The system validates the timestamp format and adds it to the list of available t
 
 **Parent Topic:**[Additional data input setup tasks in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-input-setup-extra.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

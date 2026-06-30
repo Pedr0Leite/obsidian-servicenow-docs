@@ -12,29 +12,22 @@ breadcrumb: [Use, Configurable Workspace UI, Configure UIs and portals, Configur
 
 # Using the Activity stream in Configurable Workspace
 
-Learn how to use [[activity-stream-configurable-workspace|Activity stream]] features on a Configurable Workspace record page.
+Learn how to use Activity stream features on a Configurable Workspace record page.
 
--   **[[search-activity-stream|Search]]**
+-   **[Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/search-activity-stream.md)**
 
     Use keywords to search the Activity stream and find work notes, emails, and comments.
 
--   **[[create-filter-sets-in-the-activity-stream|Use filter sets]]**
+-   **[Use filter sets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/create-filter-sets-in-the-activity-stream.md)**
 
     Create and save filter sets with custom conditions in the Activity stream.
 
--   **[[tags-activity-stream-agent|Use tags]]**
+-   **[Use tags](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tags-activity-stream-agent.md)**
 
-    Use [[c_Tags|tags]] to filter through the Activity stream.
+    Use tags to filter through the Activity stream.
 
--   **[[activity-stream-expand-tiles|Expand tiles by default]]**
+-   **[Expand tiles by default](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/activity-stream-expand-tiles.md)**
 
     Expand Activity stream tiles by default across records and sessions.
 
-## Related
 
-- [[search-activity-stream|Search the Activity stream]]
-- [[create-filter-sets-in-the-activity-stream|Use filter sets in the Activity stream]]
-- [[tags-activity-stream-agent|Use tags in the Activity stream]]
-- [[activity-stream-expand-tiles|Expand Activity stream tiles by default]]
-- [[activity-stream-configurable-workspace|Activity stream]]
-- [[c_Tags|Tags]]

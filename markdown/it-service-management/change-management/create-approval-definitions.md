@@ -85,7 +85,7 @@ When the `Add a Group Approval` action is selected, the **Wait for** field deter
 </td><td>
 
 Allows you to select the source of the user or group approver.-   **Approval Definition**: enables the selection of a specific user or group.
--   **Change Request**: enables the user or group to be determined dynamically through a [[reference-for-itsm-mobile-agent|reference]] field from the change\_request table.
+-   **Change Request**: enables the user or group to be determined dynamically through a reference field from the change\_request table.
 
 
 </td></tr><tr><td id="d374267e218">
@@ -113,6 +113,3 @@ The percentage is rounded to the nearest integer. 2.49 would round to 2, whereas
 
 **Parent Topic:**[Creating change approval policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/using-change-approval-policies-cf.md)
 
-## Related
-
-- [[reference-for-itsm-mobile-agent|Reference]]

@@ -15,7 +15,7 @@ breadcrumb: [Using Cloud Account Management in Cloud Workspace, Cloud Account Ma
 
 # Viewing Cloud Account Management dashboards
 
-[[cam-landing|Cloud Account Management]] has two types of [[otto-aiops-dashboards|dashboards]]: one for requesters and another for admins. Depending on the logged- in user, an appropriate dashboard appears.
+Cloud Account Management has two types of dashboards: one for requesters and another for admins. Depending on the logged- in user, an appropriate dashboard appears.
 
 ## Viewing the compliance dashboard
 
@@ -41,7 +41,7 @@ As an admin or asset viewer, you can access the homepage by navigating to **All*
 **Note:**
 
 -   The Needs attention widget appears only for admins with the Cloud Account Management entitlement.
--   The Other cloud tools widget displays the applications installed on your instance. Cloud [[r-discovery|Discovery]] is a prerequisite for installing Cloud Account Management.
+-   The Other cloud tools widget displays the applications installed on your instance. Cloud Discovery is a prerequisite for installing Cloud Account Management.
 
 ## Viewing the requester home page
 
@@ -53,7 +53,7 @@ Requesters can access the requester home page by navigating to **All** &gt; **Cl
 
 ## Viewing the Cloud asset overview page
 
-The Cloud asset overview page helps [[cloud-governance|cloud governance]] and operations teams monitor, track, and act on compliance and asset details more efficiently. As an asset viewer, you can view all assets and drill down to see detailed information for each configuration item \(CI\).
+The Cloud asset overview page helps cloud governance and operations teams monitor, track, and act on compliance and asset details more efficiently. As an asset viewer, you can view all assets and drill down to see detailed information for each configuration item \(CI\).
 
 can access the Cloud asset overview page by navigating to **All** &gt; **Cloud Workspace** and then in the **Monitor and track** tab, select **Cloud asset explorer** &gt; **Overview**.
 
@@ -61,9 +61,3 @@ can access the Cloud asset overview page by navigating to **All** &gt; **Cloud W
 
 **Note:** You can enable or disable the Asset collection configuration to list the CIs. For more information, see [Configure cloud asset collection table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/configure-cloud-asset-collection-table.md).
 
-## Related
-
-- [[cam-landing|Cloud Account Management]]
-- [[otto-aiops-dashboards|Dashboards]]
-- [[r-discovery|Discovery]]
-- [[cloud-governance|Cloud Governance]]

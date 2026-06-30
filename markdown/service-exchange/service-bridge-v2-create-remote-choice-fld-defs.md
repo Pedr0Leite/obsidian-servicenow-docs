@@ -25,7 +25,7 @@ As a provider, define remote choice fields that allow consumers to retrieve choi
 
 1.  Elevate your role to security\_admin.
 
-2.  Navigate to **All** &gt; **[[tmt-service-bridge-both-landing-page|Service Exchange]] Provider** &gt; **Administration** &gt; **Remote Choice Definitions**.
+2.  Navigate to **All** &gt; **Service Exchange Provider** &gt; **Administration** &gt; **Remote Choice Definitions**.
 
 3.  Click **New**.
 
@@ -169,6 +169,3 @@ Type Specifications
 
 A remote choice variable is created.
 
-## Related
-
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]

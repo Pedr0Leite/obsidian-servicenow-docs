@@ -14,7 +14,7 @@ breadcrumb: [Validation, sanitization, and encoding, Hardening settings, Platfor
 
 # Restrict XML external entities
 
-Configure [[ca-system-properties|system properties]] to ensure that your instance only processes XML from trusted sources to help prevent XML external entity \(XXE\) attacks.
+Configure system properties to ensure that your instance only processes XML from trusted sources to help prevent XML external entity \(XXE\) attacks.
 
 Use the **glide.xml.entity.whitelist** and **glide.xml.entity.whitelist** system properties to prevent your instance from processing XML from untrusted sources.
 
@@ -40,7 +40,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -130,7 +130,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Validation, sanitization, and encoding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/validation-sanitization-encoding.md)
 
-## Related
-
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]

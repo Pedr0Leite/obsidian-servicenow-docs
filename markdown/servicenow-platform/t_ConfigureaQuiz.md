@@ -24,7 +24,7 @@ The values you enter and select on this page are applied to the entire quiz.
 
 ## Procedure
 
-1.  In the [[c_QuizDesigner|quiz designer]], click **Configuration** and then fill in the fields as described in the table.
+1.  In the quiz designer, click **Configuration** and then fill in the fields as described in the table.
 
 <table id="table_dwb_gwh_br"><thead><tr><th>
 
@@ -40,7 +40,7 @@ Active
 
 </td><td>
 
-[[check-box|Check box]] for enabling the distribution of this quiz to recipients.
+Check box for enabling the distribution of this quiz to recipients.
 
 </td></tr><tr><td>
 
@@ -56,7 +56,7 @@ Introduction
 
 </td><td>
 
-Introductory content to display on [[c_Quizzes|quizzes]]. You can add a welcome message or background information about the quiz.
+Introductory content to display on quizzes. You can add a welcome message or background information about the quiz.
 
 </td></tr><tr><td>
 
@@ -108,11 +108,11 @@ Assessment manager for this quiz. These users are only responsible for managing 
 
 </td></tr><tr><td>
 
-[[notify-landing-page|Notify]] manager if overdue
+Notify manager if overdue
 
 </td><td>
 
-Check box for sending [[t_ChangeTheOrderOfAnAnswer|email notifications]] to a recipient's manager when that user fails to submit an assigned quiz before the due date.
+Check box for sending [email notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ChangeTheOrderOfAnAnswer.md) to a recipient's manager when that user fails to submit an assigned quiz before the due date.
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -133,13 +133,5 @@ Opens the Benchmarks Dashboard that provides visibility into your key performanc
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[[t_CreateaQuiz|Create a quiz]]
+**Parent Topic:**[Create a quiz](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateaQuiz.md)
 
-## Related
-
-- [[t_ChangeTheOrderOfAnAnswer|Change the order of an answer]]
-- [[t_CreateaQuiz|Create a quiz]]
-- [[c_QuizDesigner|Quiz designer]]
-- [[check-box|Check box]]
-- [[c_Quizzes|Quizzes]]
-- [[notify-landing-page|Notify]]

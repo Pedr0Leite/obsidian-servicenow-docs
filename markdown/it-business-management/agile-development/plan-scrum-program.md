@@ -24,7 +24,7 @@ Plan work for sprints, using a centralized view on Agile Board, of multiple scru
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[agile-development|Agile Development]]** &gt; **Agile Board**.
+1.  Navigate to **All** &gt; **Agile Development** &gt; **Agile Board**.
 
 2.  From the **Program** tab, select **Planning**.
 
@@ -59,6 +59,3 @@ Plan work for sprints, using a centralized view on Agile Board, of multiple scru
 
 [Scrum program planning board](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/planning-scrum-program-overview.md)
 
-## Related
-
-- [[agile-development|Agile Development]]

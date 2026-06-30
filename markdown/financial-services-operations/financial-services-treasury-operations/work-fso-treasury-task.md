@@ -14,13 +14,13 @@ breadcrumb: [Use, Treasury Operations, Banking applications, Financial Services 
 
 # Work on a treasury task for due diligence or fulfillment
 
-Work on a treasury task to [[perform-due-diligence|perform due diligence]] or fulfillment activities for the parent treasury service case.
+Work on a treasury task to perform due diligence or fulfillment activities for the parent treasury service case.
 
 ## Before you begin
 
 Role required: sn\_bom\_treasury.agent or sn\_bom\_treasury.agent\_connector
 
-**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [[fso-combine-csm-industry-roles|Roles and Personas]].
+**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-combine-csm-industry-roles.md).
 
 ## About this task
 
@@ -38,7 +38,7 @@ If assignment rules are configured, the task is automatically assigned to a trea
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -95,8 +95,3 @@ The treasury task moves to the Closed Complete state.
 
 **Parent Topic:**[Using Financial Services Treasury Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-treasury-operations/using-treasury-ops.md)
 
-## Related
-
-- [[fso-combine-csm-industry-roles|Using agent connector and contributor roles in Financial Services Operations]]
-- [[perform-due-diligence|Perform Due Diligence]]
-- [[fso-overview|Financial Services]]

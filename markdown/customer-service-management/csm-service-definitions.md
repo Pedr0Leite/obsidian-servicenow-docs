@@ -16,19 +16,19 @@ Use service definitions to create connections between products, services, and ca
 
 ## Overview of service definitions
 
-The service definitions feature is available with the Customer Service Case Types plugin \(com.snc.csm\_case\_types\). [[customer-service-case-types|Case types]] enable you to address specific types of customer requests. A case type extends the base customer service case and includes the processes, attributes, and data required to resolve a specific type of case, such as onboarding a customer or resolving a complaint.
+The service definitions feature is available with the Customer Service Case Types plugin \(com.snc.csm\_case\_types\). [Case types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-case-types.md) enable you to address specific types of customer requests. A case type extends the base customer service case and includes the processes, attributes, and data required to resolve a specific type of case, such as onboarding a customer or resolving a complaint.
 
 **Note:** Ensure that you are assigned to the service\_definition\_admin role
 
 A service definition describes a service that a business or organization offers to support a product or service that they sell. Service definitions work with case types to provide different types of service requests.
 
--   You can create connections between products and services and the case types that support those services. These connections streamline the [[case-management|case management]] process for requesting and executing services and simplify service requests based on the customer's context.
+-   You can create connections between products and services and the case types that support those services. These connections streamline the case management process for requesting and executing services and simplify service requests based on the customer's context.
 -   You can also create service definitions for case task types and then create parent-child relationships between case type definitions and case task type definitions. This enables agents to easily create case tasks of the correct type.
 -   You can create categories of services and then organize service definitions into logical groupings. Agents can use these categories to quickly find the services they need.
 
 ## Service definition benefits
 
-When you create service definitions for each of the services that you offer, agents can use the defined services to create cases and cases tasks of the correct type for customer issues and requests. When creating these [[csm-cases-case-tasks-overview|cases and case tasks]], agents can do the following:
+When you create service definitions for each of the services that you offer, agents can use the defined services to create cases and cases tasks of the correct type for customer issues and requests. When creating these cases and case tasks, agents can do the following:
 
 -   Select from a list of available services.
 -   Select a category and view the available services within that category.
@@ -49,8 +49,8 @@ The service definitions filtering feature enables you to filter or narrow the se
 
 You can filter service definitions by creating configurations that are based on two types of criteria: user and customer.
 
--   [[configure-user-criteria-for-a-service-definition|User criteria]]: Filter service definitions by user criteria such as role, assignment group, or specific user. For example, in a retail organization, different services are created for various roles. Only users with specific roles, such as regional managers or operational managers, can view and use service definitions like Product Recall or New Product Launch in Store. These services are hidden from other agents who are not authorized to create such cases.
--   [[configure-customer-criteria-for-a-service-definition|Customer criteria]]: Filter service definitions by customer criteria such as location, customer level, or related entities. For example, for customers with a loyalty membership, service definitions like Free Delivery or Free Installation are made available. Customers who do not meet these criteria will not see or have access to these services.
+-   [User criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-user-criteria-for-a-service-definition.md): Filter service definitions by user criteria such as role, assignment group, or specific user. For example, in a retail organization, different services are created for various roles. Only users with specific roles, such as regional managers or operational managers, can view and use service definitions like Product Recall or New Product Launch in Store. These services are hidden from other agents who are not authorized to create such cases.
+-   [Customer criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-customer-criteria-for-a-service-definition.md): Filter service definitions by customer criteria such as location, customer level, or related entities. For example, for customers with a loyalty membership, service definitions like Free Delivery or Free Installation are made available. Customers who do not meet these criteria will not see or have access to these services.
 
 ## The service definition ID field
 
@@ -67,29 +67,29 @@ The system administrator defines the services that are offered to customers for 
 
 |Task|Description|
 |----|-----------|
-|[[create-csm-service-definition|Create a service definition]]|The service definition record stores details about a service that is provided to customers. This information includes a name for the service definition, the target table, and the service category.|
-|[[service-def-associate-products|Associate one or more products]]|Services can be product-specific or general services can be created and made available for all products.|
-|[[service-def-associate-case-type|Associate a case type]]|A case type provides the processes and data that an agent needs to resolve a case for a specific type of service.|
-|[[service-def-associate-playbook|Associate a playbook]]|A playbook provides agents with step-by-step guidance for resolving a specific type of case.|
-|[[service-def-default-field-values|Configure default field values]]|Configure default values for fields in a service definition's target table. When a record is created for this table, the system uses these values to auto-populate record fields.|
-|[[service-def-config-catalog-items|Associate a record producer]]|Record producers enable end users to request services from the Customer and Consumer Portals.|
-|[[service-def-config-related-services|Configure related services for a service definition]]|Associate one or more related services with a service definition to create parent-child relationships between service definitions. For example, you can create service definitions for case tasks and associate them with a service definition for a case type.|
-|[[create-csm-service-def-category|Create a service definition category]]|Create a category for service definitions. You can use these categories to create logical groupings of service definitions.|
-|[[service-def-category-associate-service|Associate service definitions with a category]]|Add service definitions to a category. A category can have one or more associated service definitions and a service definition can belong to multiple categories.|
-|[[service-def-config-case-interceptor|Add a case type to the Case interceptor]]|Add case types to the Case interceptor, to configure this feature for use in the Core UI.|
+|[Create a service definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-csm-service-definition.md)|The service definition record stores details about a service that is provided to customers. This information includes a name for the service definition, the target table, and the service category.|
+|[Associate one or more products](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/service-def-associate-products.md)|Services can be product-specific or general services can be created and made available for all products.|
+|[Associate a case type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/service-def-associate-case-type.md)|A case type provides the processes and data that an agent needs to resolve a case for a specific type of service.|
+|[Associate a playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/service-def-associate-playbook.md)|A playbook provides agents with step-by-step guidance for resolving a specific type of case.|
+|[Configure default field values](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/service-def-default-field-values.md)|Configure default values for fields in a service definition's target table. When a record is created for this table, the system uses these values to auto-populate record fields.|
+|[Associate a record producer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/service-def-config-catalog-items.md)|Record producers enable end users to request services from the Customer and Consumer Portals.|
+|[Configure related services for a service definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/service-def-config-related-services.md)|Associate one or more related services with a service definition to create parent-child relationships between service definitions. For example, you can create service definitions for case tasks and associate them with a service definition for a case type.|
+|[Create a service definition category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-csm-service-def-category.md)|Create a category for service definitions. You can use these categories to create logical groupings of service definitions.|
+|[Associate service definitions with a category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/service-def-category-associate-service.md)|Add service definitions to a category. A category can have one or more associated service definitions and a service definition can belong to multiple categories.|
+|[Add a case type to the Case interceptor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/service-def-config-case-interceptor.md)|Add case types to the Case interceptor, to configure this feature for use in the Core UI.|
 |[Configure user criteria for a service definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-user-criteria-for-a-service-definition.md)|Add user criteria to a service definition that restricts a user's access to the service. Associate user-specific criteria such as role, assignment group, or specific user with a service definition to determine which users can access and use that service to create a case.|
 |[Configure customer criteria for a service definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-customer-criteria-for-a-service-definition.md)|Add entity criteria to a service definition that restricts access to the service. Associate customer-specific criteria such as location, customer level, or verified status with a service definition to determine which customers are eligible for that service.|
 
 ## Agent experience
 
-Associating a case type with a service definition automates the case type selection process for agents. From [[csm-workspaces-configure|CSM Configurable Workspace]], agents can quickly [[create-case-of-specific-case-type|create cases of the right case type]] based on customer context.
+Associating a case type with a service definition automates the case type selection process for agents. From CSM Configurable Workspace, agents can quickly [create cases of the right case type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-case-of-specific-case-type.md) based on customer context.
 
-When creating cases, agents can select the appropriate service for a customer based on the products that the customer owns. The Product Service Select version of the [[csm-case-type-select-modals|case type selector]] enables agents to do the following:
+When creating cases, agents can select the appropriate service for a customer based on the products that the customer owns. The Product Service Select version of the [case type selector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-case-type-select-modals.md) enables agents to do the following:
 
 -   Create cases from case and case type list views.
 -   Create cases from several [types of records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-case-type-select-modals.md):
 -   Select a product. The case type selector includes a **This case is for an owned product** check box.
-    -   If checked: [[migration-lists|Lists]] services relevant to the selected product.
+    -   If checked: Lists services relevant to the selected product.
     -   If cleared: Lists all available services.
 -   Select a category of services and view the services within that category.
 -   Select a service from the list of available services.
@@ -99,13 +99,13 @@ The system automatically determines the case type based on the selected service 
 
 **Note:** From the Core UI, the Case interceptor enables agents to select a service definition for case type creation.
 
-Associating a case task type with a service definition enables agents to create case tasks of the right type based on the case context. The Product Service Select version of the [[csm-case-task-type-select-modal|case task type selector]] enables agents to create tasks from case task lists, case records, playbook stages, and the [[csm-contextual-related-records|Dynamic Related Records]] tab in the contextual side panel.
+Associating a case task type with a service definition enables agents to create case tasks of the right type based on the case context. The Product Service Select version of the [case task type selector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-case-task-type-select-modal.md) enables agents to create tasks from case task lists, case records, playbook stages, and the Dynamic Related Records tab in the contextual side panel.
 
 ## Customer experience
 
 End users can use the service definitions feature to request available services from the Customer and Consumer Service Portals based on the products they have purchased.
 
--   Use the portal to view the [[sold-product|sold products]] or the [[install-base-item|install base items]] that they own.
+-   Use the portal to view the sold products or the install base items that they own.
 -   Select a product or an install base item and see the available services in the Services portal widget. This widget can display product-specific services, requests for new products, and general services.
 -   Select a service and launch a record producer to create a service request. When submitted, the system automatically creates a case of the correct type.
 -   View a case that was created for a service request and see the **Service definition** field on the case record.
@@ -127,38 +127,11 @@ Selecting a service from the widget displays the record producer associated with
 **Related topics**  
 
 
-[[csm-service-definitions-configure|Configuring service definitions]]
+[Configuring service definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-service-definitions-configure.md)
 
 [Customer service case types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-case-types.md)
 
-[[manage-csm-case-types|Manage customer service case types]]
+[Manage customer service case types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/manage-csm-case-types.md)
 
 [Create a customer service case of a specific type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-case-of-specific-case-type.md)
 
-## Related
-
-- [[customer-service-case-types|Customer service case types]]
-- [[configure-user-criteria-for-a-service-definition|Configure user criteria for a service definition]]
-- [[configure-customer-criteria-for-a-service-definition|Configure customer criteria for a service definition]]
-- [[create-csm-service-definition|Create a service definition]]
-- [[service-def-associate-products|Associate a product with a service definition]]
-- [[service-def-associate-case-type|Associate a case type with a service definition]]
-- [[service-def-associate-playbook|Associate a playbook with a service definition]]
-- [[service-def-default-field-values|Configure default field values for a service definition]]
-- [[service-def-config-catalog-items|Configure catalog items for a service definition]]
-- [[service-def-config-related-services|Configure related services for a service definition]]
-- [[create-csm-service-def-category|Create a service definition category]]
-- [[service-def-category-associate-service|Associate a service definition with a service definition category]]
-- [[service-def-config-case-interceptor|Add a case type to the Case interceptor]]
-- [[create-case-of-specific-case-type|Create a customer service case of a specific type]]
-- [[csm-case-type-select-modals|Case type selector]]
-- [[csm-case-task-type-select-modal|Case task type selector]]
-- [[csm-service-definitions-configure|Configuring service definitions]]
-- [[manage-csm-case-types|Manage customer service case types]]
-- [[case-management|Case management]]
-- [[csm-cases-case-tasks-overview|Cases and case tasks]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[migration-lists|Lists]]
-- [[csm-contextual-related-records|Dynamic related records]]
-- [[sold-product|Sold products]]
-- [[install-base-item|Install base items]]

@@ -18,7 +18,7 @@ Create a communication plan or add a new communication task to an existing commu
 
 ## Before you begin
 
-Role required: [[notify-landing-page|notify]]\_view, or notify\_setup\_admin
+Role required: notify\_view, or notify\_setup\_admin
 
 ## Procedure
 
@@ -88,6 +88,3 @@ Time span by when the task must be executed after the task initiates.
 
 **Parent Topic:**[Using the Notify Cisco Webex Connector with a major incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/use-cisco-webex-notify-mi.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]

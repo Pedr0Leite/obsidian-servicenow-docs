@@ -15,7 +15,7 @@ breadcrumb: [Available on-premise discovery patterns, Discovery patterns used by
 
 # Citrix NetScaler SDX discovery
 
-The ServiceNow [[r-discovery|Discovery]] application can discover Citrix NetScaler SDX devices using the Citrix NetScaler SDX pattern. Discovering some of these resources may require updating to the latest version of the Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns application from the ServiceNow Store.
+The ServiceNow Discovery application can discover Citrix NetScaler SDX devices using the Citrix NetScaler SDX pattern. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 The classification mechanism introduced in Quebec triggers the pattern. The classification mechanism prevents the whole probe from failing if a sub probe in a multi-probe fails.​
 
@@ -71,7 +71,7 @@ Discovery populates the data in the CMDB when running the Citrix NetScaler SDX p
 |Serial number \[serial\_number\]|The serial number of the Citrix NetScaler load balancer.|
 |IP Address \[ip\_address\]|The IP address of the Citrix NetScaler load balancer​.|
 
-On the [[dependency-views-map|Dependency Views map]] you can see all discovered Citrix NetScaler SDX resources in your organization, and the relationships between them.
+On the Dependency Views map you can see all discovered Citrix NetScaler SDX resources in your organization, and the relationships between them.
 
 \[Omitted image "citrix-netscaler-dependency.jpg"\] Alt text: Citrix NetScaler SDX dependency
 
@@ -85,8 +85,3 @@ These relationships are created to support Citrix NetScaler SDX discovery:
 
 **Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/available-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[dependency-views-map|Dependency Views map]]

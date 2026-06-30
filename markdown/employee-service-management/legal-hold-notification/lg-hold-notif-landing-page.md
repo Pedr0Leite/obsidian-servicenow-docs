@@ -24,7 +24,7 @@ The ServiceNow® Legal Hold Notification application helps organizations manage 
 
 </td><td>
 
-[Configure\[Omitted image "bus-sdlc.svg"\] Alt text:Install and [[config-lg-hold-notif|configure Legal Hold Notification]] to efficiently manage the end-to-end legal hold process.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/config-lg-hold-notif.md)
+[Configure\[Omitted image "bus-sdlc.svg"\] Alt text:Install and configure Legal Hold Notification to efficiently manage the end-to-end legal hold process.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/config-lg-hold-notif.md)
 
 </td></tr><tr><td>
 
@@ -41,6 +41,3 @@ The ServiceNow® Legal Hold Notification application helps organizations manage 
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now)
 
-## Related
-
-- [[config-lg-hold-notif|Configure Legal Hold Notification]]

@@ -22,7 +22,7 @@ The following illustration lists the high-level steps for creating a fresh order
 2.  Input delivery information, including the shipping and billing preferences.
 3.  Select and include desired products into the order using the product catalog.
 
-    Customize [[configurable-products-explore|configurable products]] using the product configurator.
+    Customize configurable products using the product configurator.
 
 4.  Review order line items and customize product specifications such as quantity, options, or attributes.
 5.  \(Optional\) Apply manual price adjustments.
@@ -34,12 +34,7 @@ The following illustration lists the high-level steps for creating a fresh order
 **Related topics**  
 
 
-[[order-mgt-configuring|Configuring Order Management]]
+[Configuring Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-configuring.md)
 
-[[explore-order-management|Order management]]
+[Order management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-order-management.md)
 
-## Related
-
-- [[order-mgt-configuring|Configuring Order Management]]
-- [[explore-order-management|Order management]]
-- [[configurable-products-explore|Configurable products]]

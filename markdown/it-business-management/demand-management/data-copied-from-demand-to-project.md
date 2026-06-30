@@ -43,7 +43,7 @@ The following demand fields are migrated to a project:-   Description
 -   Assumptions
 -   Business Unit
 -   Department
--   Impacted [[c_BusinessUnits|Business Units]]
+-   Impacted Business Units
 -   Business Capabilities
 -   Priority
 -   Impact
@@ -125,6 +125,3 @@ If the multicurrency feature is active, the project financial fields are calcula
 </td></tr></tbody>
 </table>**Parent Topic:**[Data migrated from demands to artifacts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/data-copied-from-demands-to-artifacts.md)
 
-## Related
-
-- [[c_BusinessUnits|Business units]]

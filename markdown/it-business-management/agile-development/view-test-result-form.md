@@ -14,7 +14,7 @@ breadcrumb: [Managing your product development using Agile Development 2.0, Agil
 
 # View the test results for a story in Agile Development 2.0
 
-Analyze results of the [[c_Tests|tests]] that you run on [[agile-landing-page|Agile Development 2.0]] stories. Troubleshoot failures so that the story can be moved to completion.
+Analyze results of the tests that you run on Agile Development 2.0 stories. Troubleshoot failures so that the story can be moved to completion.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Use the Sprint Tracking tab of the Agile board to review the tests run for a sto
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[agile-development|Agile Development]]** &gt; **Agile Board**.
+1.  Navigate to **All** &gt; **Agile Development** &gt; **Agile Board**.
 
 2.  From the Sprint Tracking tab, select the **List** view.
 
@@ -59,8 +59,3 @@ Use the Sprint Tracking tab of the Agile board to review the tests run for a sto
 
 [Track sprint progress in Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/sprint-tracking-list.md)
 
-## Related
-
-- [[c_Tests|Tests]]
-- [[agile-landing-page|Agile Development 2.0]]
-- [[agile-development|Agile Development]]

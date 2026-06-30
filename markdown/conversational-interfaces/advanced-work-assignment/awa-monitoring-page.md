@@ -14,7 +14,7 @@ breadcrumb: [Reference, Advanced Work Assignment, Manage people and work, Conver
 
 # Advanced Work Assignment monitoring page
 
-Administrators \(admin or awa\_admin\) can monitor [[awa-application-landing-page|Advanced Work Assignment]] activity by reviewing information on the Advanced Work Assignment Stats page.
+Administrators \(admin or awa\_admin\) can monitor Advanced Work Assignment activity by reviewing information on the Advanced Work Assignment Stats page.
 
 The Advanced Work Assignment Stats page displays AWA performance statistics. Administrators can access the Advanced Work Assignment Stats page by entering `<instance_url>/awa_stats.do` where instance\_url is the base of the ServiceNow URL.
 
@@ -28,7 +28,7 @@ The Advanced Work Assignment Stats page displays AWA performance statistics. Adm
 
 |Field|Description|
 |-----|-----------|
-|Number Queued|Number of [[awa-work-items|work items]] currently queued|
+|Number Queued|Number of work items currently queued|
 |Number Pending Acceptance|Number of work items currently pending acceptance|
 |Number of Duplicates|Number of duplicate work items \(meaning same document id, usually from transfers\)|
 |Number Rejected|Number of work items rejected|
@@ -78,7 +78,3 @@ The Advanced Work Assignment Stats page displays AWA performance statistics. Adm
 |Median Routing Time for Work Items|Median routing time of creating a work item for a given record and assigning it to the queue|
 |Total Routing Count of Work Items|Total number of work items routed to the queue from created records|
 
-## Related
-
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[awa-work-items|Work items]]

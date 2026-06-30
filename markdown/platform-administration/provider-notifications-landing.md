@@ -12,7 +12,7 @@ breadcrumb: [Notifications, Configure core features, Administer the ServiceNow A
 
 # Provider notifications
 
-Send [[notifications|notifications]] directly to recipients via the provider on supported channels. Notifications can be simple messages for review, or actionable messages with buttons that users can select to perform certain actions.
+Send notifications directly to recipients via the provider on supported channels. Notifications can be simple messages for review, or actionable messages with buttons that users can select to perform certain actions.
 
 ## Get started
 
@@ -27,12 +27,8 @@ Send [[notifications|notifications]] directly to recipients via the provider on 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
 
--   [[troubleshooting-notification-emails|Troubleshooting Notification emails]]
+-   [Troubleshooting Notification emails](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/troubleshooting-notification-emails.md)
 -   Ask or answer questions in the [Platform](https://community.servicenow.com/community/service-automation-platform) community
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[troubleshooting-notification-emails|Email FAQs and troubleshooting notification emails]]
-- [[notifications|Notifications]]

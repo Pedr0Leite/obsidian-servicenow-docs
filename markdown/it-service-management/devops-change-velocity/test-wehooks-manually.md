@@ -26,9 +26,9 @@ Role required:
 To test webhooks manually in GitLab, you must:
 
 1.  Navigate to GitLab and select the project for which you want to test webhooks.
-2.  Navigate to **[[settings-mobile|Settings]]** &gt; **Webhooks**.
+2.  Navigate to **Settings** &gt; **Webhooks**.
 
-    When your project is configured in [[devops-landing-page-new|DevOps Change Velocity]], webhooks are created for that project in GitLab. These webhooks are available under **Project Hooks**.
+    When your project is configured in DevOps Change Velocity, webhooks are created for that project in GitLab. These webhooks are available under **Project Hooks**.
 
     \[Omitted image "test-wh-man-01.png"\] Alt text: Webhooks in GitLab.
 
@@ -176,7 +176,3 @@ Argo CD doesn't provide an option to directly test for webhook connectivity. To 
 
 **Parent Topic:**[Managing DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/using-devops-change-velocity.md)
 
-## Related
-
-- [[settings-mobile|Settings]]
-- [[devops-landing-page-new|DevOps Change Velocity]]

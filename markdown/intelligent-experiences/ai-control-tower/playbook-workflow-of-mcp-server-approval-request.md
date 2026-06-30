@@ -22,15 +22,15 @@ Role required: AI steward \[sn\_ai\_governance.ai\_steward\]
 
 ## Procedure
 
-1.  Navigate to **Al Control Tower** &gt; **[[ai-assets|AI assets]]** &gt; **[[approvals|Approvals]]**.
+1.  Navigate to **Al Control Tower** &gt; **AI assets** &gt; **Approvals**.
 
 2.  Select the MCP server from the asset type filter or navigate to Lifecycle and filter by the current state of **New**.
 
-3.  Select the [[view-the-mcp-server-record|MCP Server record]] with the status of **New**.
+3.  Select the MCP Server record with the status of **New**.
 
 4.  Select **Start Review**.
 
-    **Note:** Within [[ai-agent-studio|AI Agent Studio]], the MCP Server shows a status of AI Steward review during this phase. Product Owners can select **View approval record** in AI Agent Studio to go directly to the MCP Server record in the [[ai-control-tower-landing|AI Control Tower]].
+    **Note:** Within AI Agent Studio, the MCP Server shows a status of AI Steward review during this phase. Product Owners can select **View approval record** in AI Agent Studio to go directly to the MCP Server record in the AI Control Tower.
 
     A playbook is triggered to guide the approval process through these phases: Assess, Build and Test, and Deploy.
 
@@ -52,13 +52,6 @@ Role required: AI steward \[sn\_ai\_governance.ai\_steward\]
 
     **Note:**
 
-    The [[ai-gateway-overview|AI Gateway]] setup tab appears only after an MCP server request is approved. The AI steward can pause transactions whenever needed through this tab. For information on the tabs appearing in the MCP server record, see [MCP server record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/view-the-mcp-server-record.md).
+    The AI Gateway setup tab appears only after an MCP server request is approved. The AI steward can pause transactions whenever needed through this tab. For information on the tabs appearing in the MCP server record, see [MCP server record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/view-the-mcp-server-record.md).
 
-## Related
 
-- [[ai-assets|AI assets]]
-- [[approvals|Approvals]]
-- [[view-the-mcp-server-record|MCP server record]]
-- [[ai-agent-studio|AI Agent Studio]]
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[ai-gateway-overview|AI Gateway]]

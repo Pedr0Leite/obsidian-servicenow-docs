@@ -14,7 +14,7 @@ breadcrumb: [Share Threat Intelligence data between TISC instances, Administer, 
 
 # Sharing intelligence using TAXII Server
 
-You can retrieve [[threat-intel-landing-page|threat intelligence]] from a source TISC instance into a target TISC instance using TAXII collections. This process requires configuration in both the source and target instances.
+You can retrieve threat intelligence from a source TISC instance into a target TISC instance using TAXII collections. This process requires configuration in both the source and target instances.
 
 ## TAXII-Based Sharing
 
@@ -66,6 +66,4 @@ After completing the source configuration, configure the target instance to pull
     3.  Specify the **Fetch From Time** and the desired ingestion frequency.
     All records added to the collection in the source instance after the specified time are pulled into the target instance according to the configured schedule.
 
-## Related
 
-- [[threat-intel-landing-page|Threat Intelligence]]

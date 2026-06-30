@@ -25,7 +25,7 @@ This guidance includes the following actions for sharing:
 -   **Send in chat**: Agents can share the article with customers.
 -   **Send in private chat**: Agents can only share the article with internal users such as other agents or managers. Customers can’t access locked articles. Private chat messages use a yellow background.
 
-The relevancy score displays on the Share KB in chat interactions guidance in the Search tab of the [[configure-nba|Recommended Actions]] contextual side panel. It indicates how well a search result matches the agent’s query.
+The relevancy score displays on the Share KB in chat interactions guidance in the Search tab of the Recommended Actions contextual side panel. It indicates how well a search result matches the agent’s query.
 
 ## Public and private knowledge articles
 
@@ -50,6 +50,3 @@ When an agent selects **Send in private chat**:
 -   The knowledge article preview card is inserted in the chat along with the lock icon. The card includes a link to the article and the article short description.
 -   The entries use a yellow background indicate that it’s a private chat.
 
-## Related
-
-- [[configure-nba|Recommended Actions]]

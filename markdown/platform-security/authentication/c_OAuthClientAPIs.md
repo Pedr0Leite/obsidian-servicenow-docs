@@ -14,7 +14,7 @@ breadcrumb: [OAuth Outbound, OAuth authentication, Authentication, Access Manage
 
 # OAuth client APIs
 
-The [[oauth-inbound-and-outbound|OAuth]] client API provides methods to [[c_requestAPI|request]] and revoke OAuth tokens.
+The OAuth client API provides methods to request and revoke OAuth tokens.
 
 The OAuth client provides these classes:
 
@@ -27,7 +27,3 @@ You can also customize the OAuthUtil script include to intercept the request par
 
 When using OAuth classes in a scoped script, use the `sn_auth` namespace identifier.
 
-## Related
-
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[c_requestAPI|request]]

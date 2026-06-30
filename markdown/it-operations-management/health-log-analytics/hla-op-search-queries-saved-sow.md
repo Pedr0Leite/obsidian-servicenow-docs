@@ -27,7 +27,7 @@ Role required: evt\_mgmt\_operator or evt\_mgmt\_admin
 
 1.  Open the **Log Viewer** using one of the following methods:
 
-    -   Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]** and select the Log Viewer icon \(\[Omitted image "icon-log-viewer-sow.png"\] Alt text: Log Viewer icon.\).
+    -   Navigate to **Workspaces** &gt; **Service Operations Workspace** and select the Log Viewer icon \(\[Omitted image "icon-log-viewer-sow.png"\] Alt text: Log Viewer icon.\).
     -   While viewing log entries for an alert on the **Surrounding logs** tab, select **Log Viewer**.
 2.  Use a saved search.
 
@@ -89,7 +89,7 @@ Updated
 
 </td><td>
 
-Date and time the search was updated.This feature is supported in the [[hla-landing-page|Health Log Analytics]] application, Version 20.0.11 - July 2021, and the Health Log Analytics Viewer application, Version 20.0.4 - July 2021, available from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
+Date and time the search was updated.This feature is supported in the Health Log Analytics application, Version 20.0.11 - July 2021, and the Health Log Analytics Viewer application, Version 20.0.4 - July 2021, available from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
 
 </td></tr></tbody>
 </table>        To revert changes you have made to the search values, select the selection icon \(\[Omitted image "icon-selection-sow.png"\] Alt text: Selection icon.\) and then select **Discard Changes**. The changes that you made to the search values are discarded. You can continue to update the search settings.
@@ -99,7 +99,3 @@ Date and time the search was updated.This feature is supported in the [[hla-land
         1.  Select **Save as**.
         2.  In the **Search name** field, specify a unique and descriptive name for the search and then select **Save**.
 
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[hla-landing-page|Health Log Analytics]]

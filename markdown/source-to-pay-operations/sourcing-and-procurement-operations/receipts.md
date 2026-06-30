@@ -14,17 +14,17 @@ breadcrumb: [Sourcing and Purchasing Automation, Explore, Sourcing and Procureme
 
 # Receipts
 
-Receipts reference a [[purchase-order-table|purchase order]] line. Depending on the product type of the purchase, a goods receipt or services receipt is generated.
+Receipts reference a purchase order line. Depending on the product type of the purchase, a goods receipt or services receipt is generated.
 
 If the product type of the purchase order is a good, then a goods receipt is generated. If the product type is services, then a services acknowledgment receipt is generated.
 
-**Note:** If you’re an existing customer continuing with the Source-to-Pay Common Architecture \(sn\_shop\) plugin, and skipping the [[shopping-hub-overview|Shopping Hub]] \(sn\_spend\_uib\) plugin, service acknowledgment is replaced with invoice acknowledgment for you.
+**Note:** If you’re an existing customer continuing with the Source-to-Pay Common Architecture \(sn\_shop\) plugin, and skipping the Shopping Hub \(sn\_spend\_uib\) plugin, service acknowledgment is replaced with invoice acknowledgment for you.
 
-For a product of the type service, if the acknowledgment type is **[[milestones|Milestones]]**, then confirming a milestone also results in receipt generation. However, if the acknowledgment type is **Two way match**, receipt creation is disabled for this purchase order line.
+For a product of the type service, if the acknowledgment type is **Milestones**, then confirming a milestone also results in receipt generation. However, if the acknowledgment type is **Two way match**, receipt creation is disabled for this purchase order line.
 
 Receipts can either be a partial or full receipt, and are used determine the status of the associated purchase order line and purchase order.
 
-You can view all receipts from the **Receipt Acknowledgment** sub-module under the [[purchase-experience-workflow|Sourcing and Purchasing Automation]] module. The following are the key fields of a receipt:
+You can view all receipts from the **Receipt Acknowledgment** sub-module under the Sourcing and Purchasing Automation module. The following are the key fields of a receipt:
 
 <table id="table_hmt_cwy_hlb"><thead><tr><th>
 
@@ -68,7 +68,7 @@ Status of the receipt.The status field is visible only when the ERP integration 
 
 </td></tr><tr><td>
 
-[[supplier|Supplier]] product
+Supplier product
 
 </td><td>
 
@@ -129,10 +129,3 @@ Receipt amount for the service received.This field is visible only for a service
 </td></tr></tbody>
 </table>**Parent Topic:**[Sourcing and Purchasing Automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-experience-workflow.md)
 
-## Related
-
-- [[purchase-order-table|Purchase order]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[milestones|Milestones]]
-- [[purchase-experience-workflow|Sourcing and Purchasing Automation]]
-- [[supplier|Supplier]]

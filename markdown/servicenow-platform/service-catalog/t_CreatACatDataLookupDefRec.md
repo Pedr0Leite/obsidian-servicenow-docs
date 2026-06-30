@@ -96,7 +96,7 @@ Active
 
 </td><td>
 
-Select this [[check-box|check box]] to run this catalog data lookup rule. Clear the check box to ignore this catalog data lookup rule.
+Select this check box to run this catalog data lookup rule. Clear the check box to ignore this catalog data lookup rule.
 
 </td></tr><tr><td>
 
@@ -153,11 +153,8 @@ For example, you can define the matching settings for bronze, silver, and gold o
 
     For example:
 
-    \[Omitted image "ServiceCatalogLookup1.png"\] Alt text: [[service-catalog|Service Catalog]] lookup 1.
+    \[Omitted image "ServiceCatalogLookup1.png"\] Alt text: Service Catalog lookup 1.
 
     **Note:** Each row in a data lookup table must be unique.
 
-## Related
 
-- [[check-box|Check box]]
-- [[service-catalog|Service Catalog]]

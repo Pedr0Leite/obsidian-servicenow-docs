@@ -24,7 +24,7 @@ ADAM has a simple install and runs as a service on Windows operating systems. It
 
 ## Security
 
-Some company security [[ca-policies|policies]] prohibit external vendors and partners from connecting directly to an Active Directory \(AD\) Domain Controller. If exposing certain AD objects or attributes to an external vendor or partner is prohibited, access to objects and attributes can be blocked using AD Security [[sc-access-control|Access Control]] Entries \(ACE or ACL\). Depending on security requirements, this method can introduce complexity in the integration. Consolidating multiple domains and forests is recommended. If all LDAP imports and authentications need to be channeled through a single source, ADAM can be used as a consolidated source. With the release of Windows 2008 this functionality has been renamed to Light-Weight-Directory Service, LDS. Installation and [[sc-configuration|configuration]] is similar to Windows Server 2003 R2.
+Some company security policies prohibit external vendors and partners from connecting directly to an Active Directory \(AD\) Domain Controller. If exposing certain AD objects or attributes to an external vendor or partner is prohibited, access to objects and attributes can be blocked using AD Security Access Control Entries \(ACE or ACL\). Depending on security requirements, this method can introduce complexity in the integration. Consolidating multiple domains and forests is recommended. If all LDAP imports and authentications need to be channeled through a single source, ADAM can be used as a consolidated source. With the release of Windows 2008 this functionality has been renamed to Light-Weight-Directory Service, LDS. Installation and configuration is similar to Windows Server 2003 R2.
 
 ## Recommended Knowledge
 
@@ -36,16 +36,10 @@ If userProxy objects is used, the computer hosting ADAM needs to be a member of 
 
 ## Internal Connectivity
 
-If userProxy objects is used, the ADAM computer must be able to connect to the related Domain Controllers to perform proxy [[c_Authentication|authentication]].
+If userProxy objects is used, the ADAM computer must be able to connect to the related Domain Controllers to perform proxy authentication.
 
 **Related topics**  
 
 
 [http://www.microsoft.com/downloads/en/details.aspx?familyid=9688f8b9-1034-4ef6-a3e5-2a2a57b5c8e4&amp;displaylang=en%7C](http://www.microsoft.com/downloads/en/details.aspx?familyid=9688f8b9-1034-4ef6-a3e5-2a2a57b5c8e4&displaylang=en%7C)
 
-## Related
-
-- [[ca-policies|Policies]]
-- [[sc-access-control|Access control]]
-- [[sc-configuration|Configuration]]
-- [[c_Authentication|Authentication]]

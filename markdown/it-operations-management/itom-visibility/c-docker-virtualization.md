@@ -14,13 +14,13 @@ breadcrumb: [OS-level virtualization discovery, Data collected by ITOM Visibilit
 
 # Docker virtualization
 
-[[r-discovery|Discovery]] uses the **Docker Pattern** to collect data about specific objects in a Docker engine, running on a Linux host.
+Discovery uses the **Docker Pattern** to collect data about specific objects in a Docker engine, running on a Linux host.
 
 The ServiceNow® platform supports the discovery of [Docker](https://www.docker.com/) release 1.11.0 or later.
 
 Discovery runs the Docker Engine process classifier in the network. If the classifier identifies the **dockerd** or **docker daemon** process, the classifier triggers the Horizontal Pattern \(HorizontalDiscoveryProbe\) probe, which launches the Docker Pattern and begins collecting data from Docker components.
 
-Starting with Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns version 1.31.0, you can choose to discover Docker image CIs only, without discovering Docker container CIs. Check your entitlements to determine whether you have access to 2026 Container Packaging. For more information, see [Disable Docker container CI discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/disable-docker-container-discovery.md).
+Starting with Discovery and Service Mapping Patterns version 1.31.0, you can choose to discover Docker image CIs only, without discovering Docker container CIs. Check your entitlements to determine whether you have access to 2026 Container Packaging. For more information, see [Disable Docker container CI discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/disable-docker-container-discovery.md).
 
 **Note:** For information on Probe to Pattern migration see the knowledge article [KB0694477](https://support.servicenow.com/kb_view.do?sysparm_article=KB0694477).
 
@@ -368,7 +368,3 @@ Discovery uses an application rule identifier to find the Docker engine and then
 
 **Parent Topic:**[Operating system-level virtualization discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c-oslv-discovery.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

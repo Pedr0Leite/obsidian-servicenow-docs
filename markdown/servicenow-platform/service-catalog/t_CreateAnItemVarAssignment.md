@@ -32,7 +32,7 @@ The value for an item variable is determined in the following order:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[service-catalog|Service Catalog]]** &gt; **Catalog Definition** &gt; **[[c_ServiceCatalogOrderGuides|Order Guides]]**.
+1.  Navigate to **All** &gt; **Service Catalog** &gt; **Catalog Definition** &gt; **Order Guides**.
 
 2.  Open an order guide.
 
@@ -58,7 +58,3 @@ Set an item variable value to match an order guide variable value, or an order g
 
 **Parent Topic:**[Create an order guide variable](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_CreateVariables.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[c_ServiceCatalogOrderGuides|Order guides]]

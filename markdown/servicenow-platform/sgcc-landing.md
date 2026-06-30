@@ -12,7 +12,7 @@ breadcrumb: [Integrating third-party data into CMDB, Configuration Management, E
 
 # SGC Central
 
-The ServiceNow® Service Graph Connector Central view also called as the SGC Central view in the [[sg-workspace|Service Graph Workspace]] or CMDB Workspace enables you to discover and install connectors, and then effectively manage the full life cycle of creating, editing, monitoring, and debugging connections.
+The ServiceNow® Service Graph Connector Central view also called as the SGC Central view in the Service Graph Workspace or CMDB Workspace enables you to discover and install connectors, and then effectively manage the full life cycle of creating, editing, monitoring, and debugging connections.
 
 ## Get started
 
@@ -26,11 +26,11 @@ The ServiceNow® Service Graph Connector Central view also called as the SGC Cen
 
 </td></tr><tr><td>
 
-[Onboard\[Omitted image "bus-workflow.svg"\] Alt text:Onboard [[cmdb-sgc-available|Service Graph Connectors]] to import third-part data into CMDB.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-managing-connection.md)
+[Onboard\[Omitted image "bus-workflow.svg"\] Alt text:Onboard Service Graph Connectors to import third-part data into CMDB.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-managing-connection.md)
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about installed components.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-[[reference|reference]].md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about installed components.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -38,8 +38,3 @@ The ServiceNow® Service Graph Connector Central view also called as the SGC Cen
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[sg-workspace|Service Graph Workspace]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[reference|Reference]]

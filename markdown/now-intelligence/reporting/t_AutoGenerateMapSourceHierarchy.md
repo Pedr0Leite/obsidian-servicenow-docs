@@ -14,7 +14,7 @@ breadcrumb: [Map report administration, Administering reports, Reporting, Report
 
 # Automatically generate a map source hierarchy
 
-A map source hierarchy is a data source that is used to [[t_CreateAMap|create a map]] report. Except for the top-level wrapper, each map source level in the hierarchy defines the data for one map drill level.
+A map source hierarchy is a data source that is used to create a map report. Except for the top-level wrapper, each map source level in the hierarchy defines the data for one map drill level.
 
 ## Before you begin
 
@@ -37,7 +37,7 @@ Role required: report\_admin or admin
     |Name|Enter a descriptive name. For example, Incident by location. Users select the map source by this name in the **Map data** field when they create a map report.|
     |Table|Select the table that contains the field that you want to map. All map source levels in the hierarchy use this table.|
     |Field|Select the field with the data that you want to display on the map report. This field must reference the location table. For example, **incident.caller.location** or **incident.location**. You can dot walk to this field.|
-    |Active|Select this check box to make the map source available when creating [[c_MapReport|map reports]].|
+    |Active|Select this check box to make the map source available when creating map reports.|
 
 4.  Right-click the form header and select **Save**.
 
@@ -65,7 +65,3 @@ The map source is ready to use in a map report.
 
 [Create a map]()
 
-## Related
-
-- [[t_CreateAMap|Create a map]]
-- [[c_MapReport|Map reports]]

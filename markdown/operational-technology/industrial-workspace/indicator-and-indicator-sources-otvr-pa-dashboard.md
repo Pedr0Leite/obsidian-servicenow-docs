@@ -14,7 +14,7 @@ breadcrumb: [Use, Industrial Workspace, Operational Technology]
 
 # Indicator sources and indicators for the Operational Technology Vulnerability Response \(PA\) dashboard
 
-The [[oper-tech-vulnerability-response-landing-page|Operational Technology Vulnerability Response]] application uses indicator sources and indicators to gather data and track the progress of your vulnerability remediation.
+The Operational Technology Vulnerability Response application uses indicator sources and indicators to gather data and track the progress of your vulnerability remediation.
 
 ## Indicator sources
 
@@ -108,6 +108,3 @@ The **collect records** option for the indicators is inactive by default for the
 
 **Parent Topic:**[Using the Industrial Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/using-industrial-workspace.md)
 
-## Related
-
-- [[oper-tech-vulnerability-response-landing-page|Operational Technology Vulnerability Response]]

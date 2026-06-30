@@ -12,7 +12,7 @@ breadcrumb: [Manage action visibility, Declarative actions, Administer, Configur
 
 # Hide a global form or list action from a table or view
 
-[[configure-onboarding-modals|Configure]] a global form or list action to exclude a specified table or view.
+Configure a global form or list action to exclude a specified table or view.
 
 ## Before you begin
 
@@ -67,6 +67,3 @@ Role required: admin
 
 The global form or list action is excluded from the specified table or view.
 
-## Related
-
-- [[configure-onboarding-modals|Configure]]

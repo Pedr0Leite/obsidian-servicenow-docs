@@ -98,7 +98,7 @@ When a sold product is suspended, the related customer contract lines and entitl
 A suspended customer contract line or entitlement is paused for any activity, except the following:
 
 -   Editing the field values.
--   Creating records in the corresponding related [[migration-lists|lists]].
+-   Creating records in the corresponding related lists.
 
 On resuming the sold product, the related customer contract line item or entitlement acquires the state depending on its start and end dates. For example, a resumed entitlement that has its start date in the past and its end date in the future, acquires the Active state.
 
@@ -108,6 +108,3 @@ Exceptionally, when a contract line or entitlement in the Suspended state has re
 
 A customer contract line associated with a customer contract must be created within the customer contract's start and end dates. Any modification to the dates of customer contract lines must comply with the date range of the parent service contract.
 
-## Related
-
-- [[migration-lists|Lists]]

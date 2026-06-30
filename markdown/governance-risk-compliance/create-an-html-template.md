@@ -12,7 +12,7 @@ breadcrumb: [Completing general administrative tasks, Configure, Operational Res
 
 # Create HTML and PDF document templates​
 
-Create a customized HTML document template​ in the [[grc-opres-landing-page|Operational Resilience]] application to suit your business needs. You can use the customized HTML document template instead of the default HTML template to export an attestation.
+Create a customized HTML document template​ in the Operational Resilience application to suit your business needs. You can use the customized HTML document template instead of the default HTML template to export an attestation.
 
 ## Before you begin
 
@@ -40,14 +40,10 @@ Creating a customized HTML document template is optional.
 
 4.  On the form, fill in the fields and click **Submit**.
 
-    The new template is displayed in the Document Templates list.​ For descriptions of the field values, see [[html-template-reference-form|HTML Template form]].
+    The new template is displayed in the Document Templates list.​ For descriptions of the field values, see [HTML Template form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/html-template-reference-form.md).
 
 
 ## Result
 
 If you have the sn\_oper\_res.manager role, you can use the HTML template to generate a self-attestation report.
 
-## Related
-
-- [[html-template-reference-form|HTML Template form]]
-- [[grc-opres-landing-page|Operational Resilience]]

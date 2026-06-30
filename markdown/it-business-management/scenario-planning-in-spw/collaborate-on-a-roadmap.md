@@ -26,7 +26,7 @@ Using the Comments side panel, add attachments or notes at the roadmap-level or 
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]]** &gt; **Free-form Roadmaps**
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Portfolio Planning** &gt; **Free-form Roadmaps**
 
 2.  Select a roadmap to collaborate on.
 
@@ -89,8 +89,3 @@ In the Comments tab, add notes or comments and select **Post Worknotes**.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

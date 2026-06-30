@@ -14,7 +14,7 @@ breadcrumb: [Platform Analytics Solutions for Communities, Configuring communiti
 
 # View the Communities performance dashboard
 
-The [[communities-dashboard|Communities dashboard]] displays up-to-date status on community usage, membership, content type and activity, and trends by forum and by topic.
+The Communities dashboard displays up-to-date status on community usage, membership, content type and activity, and trends by forum and by topic.
 
 ## Before you begin
 
@@ -104,6 +104,3 @@ Heat maps display data for **Number of Posts Moved** and **Featured Content**.
 
 [Performance Analytics widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/c_Widgets.md)
 
-## Related
-
-- [[communities-dashboard|Communities dashboard]]

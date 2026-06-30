@@ -16,7 +16,7 @@ Related list conditions enable you to include a relationship with another table 
 
 ## Before you begin
 
-Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-view-access-control.md) and [[platform-analytics-roles|Platform Analytics roles]].
+Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-view-access-control.md) and [Platform Analytics roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/platform-analytics-roles.md).
 
 ## About this task
 
@@ -63,17 +63,12 @@ The easiest way to understand the parts of a related list condition is to use an
 
 7.  Select **Run** to execute the filter query.
 
-8.  Select Save as predefined condition to make this filter available to others [[reporting-landing-page|reporting]] on this table.
+8.  Select Save as predefined condition to make this filter available to others reporting on this table.
 
 
 ## Result
 
 The Preview record list shows the records that match the conditions you've defined. Select **Add this source** to use the data source with the applied conditions in your visualization.
 
-**Parent Topic:**[[filter-dv-condition-builder|Filter data visualizations with the condition builder]]
+**Parent Topic:**[Filter data visualizations with the condition builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/filter-dv-condition-builder.md)
 
-## Related
-
-- [[platform-analytics-roles|Platform Analytics roles]]
-- [[filter-dv-condition-builder|Filter data visualizations with the condition builder]]
-- [[reporting-landing-page|Reporting]]

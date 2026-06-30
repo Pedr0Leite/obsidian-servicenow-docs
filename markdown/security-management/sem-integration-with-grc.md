@@ -12,7 +12,7 @@ breadcrumb: [Configure Exception Management for Security Exposure Management, Im
 
 # Request an exception using GRC: Policy and Compliance Management
 
-Request policy exceptions using the GRC policy exception management capability in the Policy and Compliance Management application from within [[vuln-landing-page|Vulnerability Response]].
+Request policy exceptions using the GRC policy exception management capability in the Policy and Compliance Management application from within Vulnerability Response.
 
 ## Before you begin
 
@@ -92,9 +92,5 @@ Details that are related to the reason why this request is being made. This mand
     For more information on the Policy Exception Integration and the hand-off between the remediation owner and the compliance manager, see [Policy and Compliance optional setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-compliance-optional-steps.md).
 
 
-**Parent Topic:**[[sem-configure-exp-mngmt-vr|Configure Exception Management for Security Exposure Management]]
+**Parent Topic:**[Configure Exception Management for Security Exposure Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-configure-exp-mngmt-vr.md)
 
-## Related
-
-- [[sem-configure-exp-mngmt-vr|Configure Exception Management for Security Exposure Management]]
-- [[vuln-landing-page|Vulnerability Response]]

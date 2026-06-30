@@ -14,7 +14,7 @@ breadcrumb: [DEX Application and Device Health reference, Reference, Digital End
 
 # Landing page cards
 
-The landing page cards provide a visual summary of active and impacted [[dex-workspace-devices-tab|devices]], and alerts for monitored [[dex-workspace-application-tab|applications]], facilitating efficient data analysis across various categories.
+The landing page cards provide a visual summary of active and impacted devices, and alerts for monitored applications, facilitating efficient data analysis across various categories.
 
 **Note:** The graphs display the latest data from the last two hours.
 
@@ -63,7 +63,3 @@ The devices world map shows device counts by location, enables you to drill down
 
 **Parent Topic:**[DEX Application and Device Health reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-console-reference.md)
 
-## Related
-
-- [[dex-workspace-devices-tab|Devices]]
-- [[dex-workspace-application-tab|Applications]]

@@ -15,7 +15,7 @@ breadcrumb: [Prioritize portfolio plan work, Portfolio Planning in Strategic Pla
 
 # Update planning item details from Prioritization tab
 
-Update the details of your planning items or delete them so that your [[alignment-planner-workspace-landing-page|Strategic Planning]] Prioritization tab reflects the latest work pipeline.
+Update the details of your planning items or delete them so that your Strategic Planning Prioritization tab reflects the latest work pipeline.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ Update the details of a planning item using the Prioritization, Kanban, and Hier
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Strategic Planning** &gt; **Strategic Planning Workspace** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]]**.
+1.  Navigate to **All** &gt; **Strategic Planning** &gt; **Strategic Planning Workspace** &gt; **Portfolio Planning**.
 
 2.  From the list of portfolio plans, select one and then select **Planning**.
 
@@ -81,7 +81,4 @@ From the full details page:
 
     If you group the Prioritization items list by any attribute, you can’t edit the short description of the items directly from the grid view.
 
-## Related
 
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

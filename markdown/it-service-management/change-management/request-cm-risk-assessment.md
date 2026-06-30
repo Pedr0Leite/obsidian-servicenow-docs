@@ -14,7 +14,7 @@ breadcrumb: [Change Management plugins, Configure, Change Management, IT Service
 
 # Request Change Management - Risk Assessment
 
-To activate [[c_ITILChangeManagement|Change Management]] capability to predict change risk using Predictive Intelligence, request the Change Management - Risk Intelligence plugin \(com.snc.change\_management.ml.risk\) through the Now Support Customer Service system.
+To activate Change Management capability to predict change risk using Predictive Intelligence, request the Change Management - Risk Intelligence plugin \(com.snc.change\_management.ml.risk\) through the Now Support Customer Service system.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[request-cm-picore|Change Management - Predictive Intelligence Core]]\[com.snc.change\_management.ml\]
+Change Management - Predictive Intelligence Core\[com.snc.change\_management.ml\]
 
 </td><td>
 
@@ -43,7 +43,7 @@ Enables you to use Predictive Intelligence in Change Management.
 </td></tr></tbody>
 </table>## Procedure
 
-1.  Navigate to **All** &gt; **System [[dex-workspace-application-tab|Applications]]** &gt; **All Available Applications** &gt; **All**.
+1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
 2.  Select **Request plugin** to open the **Activate Plugin** form on Now Support.
 
@@ -143,8 +143,3 @@ Several types of components are installed with activation of the Change Manageme
 
 [List of plugins \(Australia\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]
-- [[request-cm-picore|Change Management - Predictive Intelligence Core]]
-- [[dex-workspace-application-tab|Applications]]

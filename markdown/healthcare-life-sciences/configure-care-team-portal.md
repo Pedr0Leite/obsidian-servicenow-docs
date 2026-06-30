@@ -12,43 +12,34 @@ breadcrumb: [Configure, Care Team Portal, Healthcare Operations, Healthcare and 
 
 # Embedding Care Team Portal in Epic Hyperspace via Hyperdrive
 
-Configure the [[care-team-portal-landing|Care Team Portal]] by embedding it into Epic Hyperspace via Hyperdrive and enabling SMART on FHIR authentication.
+Configure the Care Team Portal by embedding it into Epic Hyperspace via Hyperdrive and enabling SMART on FHIR authentication.
 
-1.  [[configure-iframe-portal|Configure iFrame embedding for Care Team Portal]]
+1.  [Configure iFrame embedding for Care Team Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/configure-iframe-portal.md)
 
     For the Care Team Portal to successfully launch in Hyperspace via Hyperdrive, the portal must be configured to work within an iFrame.
 
-2.  [[hcls-cto-enabling-oidc|Enable Multi-Provider SSO for your ServiceNow instance]]
+2.  [Enable Multi-Provider SSO for your ServiceNow instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hcls-cto-enabling-oidc.md)
 
     Ensure that Multiple Provider SSO is enabled and configured correctly for Care Team Portal to authenticate with Epic Hyperspace via Hyperdrive.
 
-3.  [[hco-copy-script-include-global|Copy HCLS Script Includes to Global Scope]]
+3.  [Copy HCLS Script Includes to Global Scope](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hco-copy-script-include-global.md)
 
     Copy the MultiSSO\_OIDC\_CTO and OAuthUtilEpic script includes to the global scope so they are available for later configuration steps.
 
-4.  [[hco-authenticate-portal|In Epic: Build the FHIR App to Authenticate with ServiceNow]]
+4.  [In Epic: Build the FHIR App to Authenticate with ServiceNow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hco-authenticate-portal.md)
 
     Set up your FHIR app in Epic with the correct configurations to allow single sign-on for Epic users to access the Care Team Portal inside Epic Hyperspace via Hyperdrive.
 
-5.  [[create-identity-provider-hco|Create and Configure an Identity Provider in ServiceNow to Authenticate with Epic]]
+5.  [Create and Configure an Identity Provider in ServiceNow to Authenticate with Epic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/create-identity-provider-hco.md)
 
     Set up and configure an Identity Provider in your ServiceNow instance to authenticate with Epic.
 
-6.  [[hco-configure-epic-integration|In Epic: Configure Epic Hyperspace Integration]]
+6.  [In Epic: Configure Epic Hyperspace Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hco-configure-epic-integration.md)
 
     Configure the Epic integration records \(FDI, Activity, and Menu\) so that a button in Epic launches the ServiceNow Care Team Portal.
 
-7.  [[hco-update-variables-portal|Capture Additional Data From Epic Within ServiceNow Record Producers]]
+7.  [Capture Additional Data From Epic Within ServiceNow Record Producers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hco-update-variables-portal.md)
 
     Capture additional data from Epic within ServiceNow record producers by configuring variables that map to the Epic authorization token.
 
-## Related
 
-- [[configure-iframe-portal|Configure iFrame embedding for Care Team Portal]]
-- [[hcls-cto-enabling-oidc|Enable Multi-Provider SSO for your ServiceNow instance]]
-- [[hco-copy-script-include-global|Copy HCLS Script Includes to Global Scope]]
-- [[hco-authenticate-portal|hco authenticate portal]]
-- [[create-identity-provider-hco|Create and Configure an Identity Provider in ServiceNow to Authenticate with Epic]]
-- [[hco-configure-epic-integration|hco configure epic integration]]
-- [[hco-update-variables-portal|Capture Additional Data From Epic Within ServiceNow Record Producers]]
-- [[care-team-portal-landing|Care Team Portal]]

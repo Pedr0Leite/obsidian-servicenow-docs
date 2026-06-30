@@ -22,7 +22,7 @@ Role required: sn\_audit.admin or sn\_audit.manager, sn\_grc\_workspace.user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Audit** &gt; **[[audit-management-overview-ws|Audit Workspace]]**.
+1.  Navigate to **All** &gt; **Audit** &gt; **Audit Workspace**.
 
 2.  Select the tasks icon \(\[Omitted image "new-task-icon.png"\] Alt text: Tasks icon\).
 
@@ -38,6 +38,4 @@ Role required: sn\_audit.admin or sn\_audit.manager, sn\_grc\_workspace.user
 
     The cloud document is marked as a non-shareable document. It cannot be shared or referenced by any other records​.
 
-## Related
 
-- [[audit-management-overview-ws|Audit Workspace]]

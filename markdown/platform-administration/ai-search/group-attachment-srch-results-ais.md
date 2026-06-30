@@ -14,7 +14,7 @@ breadcrumb: [Grouping attachment search results with their parent results, Searc
 
 # Group attachment search results with their parent results
 
-Configure your [[ia-ai-search|AI Search]] applications to display attachment search [[hs-results|results]] grouped with the results for their parent records.
+Configure your AI Search applications to display attachment search results grouped with the results for their parent records.
 
 ## Before you begin
 
@@ -49,7 +49,3 @@ AI Search groups matching attachment search results with their parent record res
 
 **Parent Topic:**[Grouping attachment search results with their parent search results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/grouping-attachment-srch-results-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]

@@ -14,7 +14,7 @@ breadcrumb: [HR Service Delivery for Healthcare reference, HR Service Delivery f
 
 # Professional reference form
 
-Access and validate the Professional [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] details of a healthcare professional in the Professional reference form.
+Access and validate the Professional reference details of a healthcare professional in the Professional reference form.
 
 <table id="table_l3d_s5j_jbc"><thead><tr><th>
 
@@ -169,7 +169,7 @@ Country in which user resides.
 **Related topics**  
 
 
-[Installed with [[hr-service-delivery|HR Service Delivery]] for Healthcare]()
+[Installed with HR Service Delivery for Healthcare]()
 
 [Healthcare professional profile form]()
 
@@ -195,7 +195,3 @@ Country in which user resides.
 
 [Healthcare Employee Onboarding form]()
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[hr-service-delivery|HR Service Delivery]]

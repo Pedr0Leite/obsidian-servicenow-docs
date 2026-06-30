@@ -13,7 +13,7 @@ breadcrumb: [Enabling access to protected scope apps, Configure, Query Generatio
 
 # Approve RCA records for AI Data Explorer and Query Generation protected scope access
 
-Approve automatically generated Restricted Caller Access \(RCA\) records to enable AI Data Explorer and [[query-generation|Query Generation]] to fetch data from tables in protected scopes through API calls.
+Approve automatically generated Restricted Caller Access \(RCA\) records to enable AI Data Explorer and Query Generation to fetch data from tables in protected scopes through API calls.
 
 ## Before you begin
 
@@ -64,15 +64,9 @@ If you encounter error messages such as "Error accessing table data" or "Scope a
 
 If RCA records are not being created automatically, confirm that the ACLs are active and that users have the necessary permissions to trigger the Query Generation operations.
 
-**Parent Topic:**[[enable-aide-secure-scope-apps|Enabling access to protected scope applications for AI Data Explorer and Query Generation]]
+**Parent Topic:**[Enabling access to protected scope applications for AI Data Explorer and Query Generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/enable-aide-secure-scope-apps.md)
 
-**Previous topic:**[[create-acls-protected-scope-access|Create ACLs for AI Data Explorer and Query Generation protected scope access]]
+**Previous topic:**[Create ACLs for AI Data Explorer and Query Generation protected scope access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-acls-protected-scope-access.md)
 
-**Next topic:**[[semantic-layer-tuning-overview|Tuning the semantic layer]]
+**Next topic:**[Tuning the semantic layer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/semantic-layer-tuning-overview.md)
 
-## Related
-
-- [[enable-aide-secure-scope-apps|Enabling access to protected scope applications for AI Data Explorer and Query Generation]]
-- [[create-acls-protected-scope-access|Create ACLs for AI Data Explorer and Query Generation protected scope access]]
-- [[semantic-layer-tuning-overview|Tuning the semantic layer]]
-- [[query-generation|Query Generation]]

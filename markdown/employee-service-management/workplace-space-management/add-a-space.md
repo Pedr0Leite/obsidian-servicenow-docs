@@ -24,7 +24,7 @@ Role required: sn\_wsd\_core.admin and sn\_wsd\_spcmgmt.manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-safety-mgmt-hr|Workplace Core]]** &gt; **Space Administration**.
+1.  Navigate to **All** &gt; **Workplace Core** &gt; **Space Administration**.
 
 2.  Select **Spaces**.
 
@@ -196,7 +196,7 @@ BOMA type
 
 </td><td>
 
-BOMA type that you want to associate this space with. If the Space type that you selected is already mapped with a BOMA type, the field is auto-filled with the mapped BOMA type.For more information about BOMA types and to [[configure-a-boma-type|configure a BOMA type]], refer to [Configure a BOMA type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/configure-a-boma-type.md).
+BOMA type that you want to associate this space with. If the Space type that you selected is already mapped with a BOMA type, the field is auto-filled with the mapped BOMA type.For more information about BOMA types and to configure a BOMA type, refer to [Configure a BOMA type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/configure-a-boma-type.md).
 
 </td></tr><tr><td>
 
@@ -297,7 +297,7 @@ Surface area computed in square feet or square meters.Ability to compute surface
 </td></tr></tbody>
 </table>6.  Select **Create QR code** to generate and print QR codes for this space.
 
-7.  Select **Unlink Space** to unlink a space from [[Indoor-mapping|Indoor Mapping]] map provider.
+7.  Select **Unlink Space** to unlink a space from Indoor Mapping map provider.
 
     For more information about how to link and synchronize Indoor Mapping map data objects with Workplace Indoor Mapping see, [Synchronize Indoor Mapping with Workplace Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/synchronize-ind-mapping-wsd.md).
 
@@ -354,7 +354,7 @@ Specify if a space type is usable or not by using the Space type configuration f
 
 [Create a Space Recommender rule]()
 
-[Raise a [[space-assistance|space assistance]] request]()
+[Raise a space assistance request]()
 
 [Create a view-by configuration]()
 
@@ -362,9 +362,3 @@ Specify if a space type is usable or not by using the Space type configuration f
 
 [Reviewing allocation changes]()
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[configure-a-boma-type|Configure a BOMA type]]
-- [[Indoor-mapping|Indoor Mapping]]
-- [[space-assistance|Space assistance]]

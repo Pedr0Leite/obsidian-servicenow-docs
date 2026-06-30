@@ -52,17 +52,12 @@ Role required: admin
 
         \[Omitted image "chat-tab-ms-teams02.png"\] Alt text: Chat tab in Microsoft Teams.
 
-    -   **[[employee-center-landing-page|Employee Center]]**: Click **Employee Center** tab to view the organization updates and the status on your [[emp-slate-inbox|tasks and requests]].
+    -   **Employee Center**: Click **Employee Center** tab to view the organization updates and the status on your tasks and requests.
 
         \[Omitted image "emp-center-ms-teams02.png"\] Alt text: Employee Center tab in Microsoft Teams.
 
-    **Note:** If you don't want to [[create-ms365-addin-manifest|create a manifest file]], you can edit an existing manifest file as required. Upon updating the existing manifest file, you can download and upload the manifest file in Microsoft Teams to make the changes effective.
+    **Note:** If you don't want to create a manifest file, you can edit an existing manifest file as required. Upon updating the existing manifest file, you can download and upload the manifest file in Microsoft Teams to make the changes effective.
 
 
 **Parent Topic:**[Setup for integrating pre-published apps with Microsoft Teams for Employee Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/c_employee_ex_tnt.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[emp-slate-inbox|Tasks and requests]]
-- [[create-ms365-addin-manifest|Create a manifest file]]

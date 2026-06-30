@@ -12,7 +12,7 @@ breadcrumb: [Portal Case Cards widget instance options form, Configurable Portal
 
 # Default highlight color for different case states
 
-Default values for the background and text color for all [[r_CustomerServiceCaseStates|case states]] on the [[portal-case-card-widget|Portal Case Cards widget]].
+Default values for the background and text color for all case states on the Portal Case Cards widget.
 
 |State name|Default value|Color|
 |----------|-------------|-----|
@@ -28,7 +28,3 @@ Default values for the background and text color for all [[r_CustomerServiceCase
 
 [Display the integer values of all case states](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/integer-value-case-states.md)
 
-## Related
-
-- [[r_CustomerServiceCaseStates|Case states]]
-- [[portal-case-card-widget|Portal Case Cards widget]]

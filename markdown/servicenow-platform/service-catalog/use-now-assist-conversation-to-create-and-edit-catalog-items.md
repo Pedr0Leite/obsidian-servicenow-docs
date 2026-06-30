@@ -14,11 +14,11 @@ breadcrumb: [Now Assist in Catalog Builder, Service Catalog, Manage service capa
 
 # Using Now Assist conversation to create and edit catalog items
 
-Now Assist provides a conversational interface that enables you to create catalog items, making these items available in the [[service-catalog|Service Catalog]] for users to request.
+Now Assist provides a conversational interface that enables you to create catalog items, making these items available in the Service Catalog for users to request.
 
 To use Now Assist for creating catalog items, you must have the catalog\_builder\_editor role and ensure that the Now Assist for Creator is installed in your environment.
 
-To streamline the catalog creation process, you can use plain language input through Now Assist within [[catalog-builder|Catalog Builder]]. This approach allows you to generate values for various steps simply by describing what you need in natural language.
+To streamline the catalog creation process, you can use plain language input through Now Assist within Catalog Builder. This approach allows you to generate values for various steps simply by describing what you need in natural language.
 
 By responding directly to your prompts, Now Assist can generate a catalog item and its details where possible.
 
@@ -44,7 +44,7 @@ Can't generate
 
 -   Image of your catalog item
 -   Variable attributes
--   Advanced [[reference|reference]] qualifiers
+-   Advanced reference qualifiers
 -   Client scripts
 -   UI policy scripts
 -   Scripted default values
@@ -70,8 +70,3 @@ You can edit published catalog items conversationally using Now Assist. If youâ€
 
 **Parent Topic:**[Now Assist in Catalog Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/now-assist-for-catalog-generation.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[catalog-builder|Catalog Builder]]
-- [[reference|Reference]]

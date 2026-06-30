@@ -14,7 +14,7 @@ breadcrumb: [User privacy, tracking, and consent, Configuring Usage Insights, Us
 
 # How users consent to tracking in Usage Insights
 
-An individual can select to opt in or opt out of [[user-exp-analytics-landing|Usage Insights]] advanced tracking at any time.
+An individual can select to opt in or opt out of Usage Insights advanced tracking at any time.
 
 ## Before you begin
 
@@ -85,6 +85,3 @@ When Usage Insights is enabled, the ServiceNow Services Privacy Statement is lin
 
 **Parent Topic:**[User privacy, tracking, and user consent management in Usage Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/user-exp-analytics-track-options.md)
 
-## Related
-
-- [[user-exp-analytics-landing|Usage Insights]]

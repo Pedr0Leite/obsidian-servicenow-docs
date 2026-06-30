@@ -14,7 +14,7 @@ breadcrumb: [Channels, Workforce Optimization for ITSM, IT Service Management]
 
 # Channel Management components in Workforce Optimization for ITSM
 
-[[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]] has roles to administer channels and queues, properties to configure default behavior, and reports to analyze data in Workforce Optimization for ITSM.
+Workforce Optimization for ITSM has roles to administer channels and queues, properties to configure default behavior, and reports to analyze data in Workforce Optimization for ITSM.
 
 ## Roles
 
@@ -164,6 +164,3 @@ Overrides the duration set for the channel capacity.-   **Type**: Integer
 |Channel Management Queues Filter|Filters reports based on queues.|\[awa\_queue\]|
 |Channel Management Service Channel Filter|Filters reports based on service channels.|\[awa\_service\_channel\]|
 
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]

@@ -24,7 +24,7 @@ Role required: sn\_vulc.exception\_approver
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[vr-config-compliance-landing|Configuration Compliance]]** &gt; **My Approvals**.
+1.  Navigate to **All** &gt; **Configuration Compliance** &gt; **My Approvals**.
 
 2.  Select a request from your queue.
 
@@ -34,6 +34,4 @@ Role required: sn\_vulc.exception\_approver
 
     After the request is approved, the remediation task moves to a Deferred state. In case of rejection, the remediation task reverts to its earlier state.
 
-## Related
 
-- [[vr-config-compliance-landing|Configuration Compliance]]

@@ -14,7 +14,7 @@ breadcrumb: [Configuring the classic Software Asset Management Foundation plugin
 
 # Create a SAM Foundation entitlement
 
-Software entitlements enable you to define license details that are matched to [[c_CreatingSoftwareModels|software models]].
+Software entitlements enable you to define license details that are matched to software models.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sam\_user
 
 Software entitlements are stored in the Software Entitlement \[alm\_license\] table.
 
-**Note:** Entitlements are assigned to [Create a SAM Foundation software model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/t_AddASoftwareModelSAMF.md), which are different than software discovery [[c_Models|models]].
+**Note:** Entitlements are assigned to [Create a SAM Foundation software model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/t_AddASoftwareModelSAMF.md), which are different than software discovery models.
 
 ## Procedure
 
@@ -110,7 +110,7 @@ License metric
 
 </td><td>
 
-Select the license metric for the license group that the software license is counted against when reconciliation is run. Point to the [[reference-for-itsm-mobile-agent|reference]] field icon to view the license calculation.
+Select the license metric for the license group that the software license is counted against when reconciliation is run. Point to the reference field icon to view the license calculation.
 
  -   Common:
     -   Per Device: Licenses a device for a number of installations of software.
@@ -189,7 +189,7 @@ Substate
 
 </td><td>
 
-More details about the software license stage. The available substate [[settings-mobile|settings]] depend on the **State** selected. For example, if you select the **Retired** state, the substate options available are **Disposed**, **Sold**, **Donated**, and **Vendor credit**.
+More details about the software license stage. The available substate settings depend on the **State** selected. For example, if you select the **Retired** state, the substate options available are **Disposed**, **Sold**, **Donated**, and **Vendor credit**.
 
 </td></tr><tr><td>
 
@@ -252,7 +252,7 @@ Number of rights
 Number of rights to upgrade.
 
 </td></tr></tbody>
-</table>    The [[c_Contracts|Contracts]] related list contains contract details.
+</table>    The Contracts related list contains contract details.
 
     The User or Device Allocations related list contains entitlement [allocations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/t_AddAnEntitlementAllocationSAMF.md).
 
@@ -290,10 +290,3 @@ A user or device allocation can be added to a software entitlement to specify a 
 
 **Parent Topic:**[Configuring the classic Software Asset Management Foundation plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/samf-plugin-configuration.md)
 
-## Related
-
-- [[c_CreatingSoftwareModels|Software models]]
-- [[c_Models|Models]]
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[settings-mobile|Settings]]
-- [[c_Contracts|Contracts]]

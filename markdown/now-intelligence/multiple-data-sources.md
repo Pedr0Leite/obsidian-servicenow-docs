@@ -31,7 +31,7 @@ Some visualization types support multiple data sources, while others do not. If 
 
 **Warning:** If you select multiple data sources for a visualization and then change the visualization type to one that does not support multiple data sources, you keep only the first data source. Switching back to a visualization type that supports multiple data sources does not restore the previously selected data sources.
 
-**Parent Topic:**[[selecting-data-sources|Selecting data sources for data visualizations]]
+**Parent Topic:**[Selecting data sources for data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/selecting-data-sources.md)
 
 **Related topics**  
 
@@ -50,17 +50,17 @@ Here's a simple example of a report based on the Indicator and Problem tables.
 
 ### Before you begin
 
-Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-view-access-control.md) and [[platform-analytics-roles|Platform Analytics roles]].
+Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-view-access-control.md) and [Platform Analytics roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/platform-analytics-roles.md).
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Data Visualizations**.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**.
 
 2.  Select **New**.
 
 3.  For the purposes of this example, create a Vertical bar visualization.
 
-    For more information, see [[create-dv-bar-ac|Create a horizontal or vertical bar data visualization]].
+    For more information, see [Create a horizontal or vertical bar data visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-bar-ac.md).
 
 4.  Under Data sources, select **+ Add data source**.
 
@@ -87,9 +87,3 @@ Role required: Anyone with access to data can create a visualization of that dat
 
 \[Omitted image "dv-ex-two-data-sources.png"\] Alt text: A vertical bar data visualization of Incident and Problem table data.
 
-## Related
-
-- [[selecting-data-sources|Selecting data sources for data visualizations]]
-- [[platform-analytics-roles|Platform Analytics roles]]
-- [[create-dv-bar-ac|Create a horizontal or vertical bar data visualization]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

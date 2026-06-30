@@ -29,7 +29,7 @@ For the link to display on the HR catalog item, make sure the item has a variabl
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **[[hr-service-administration|HR Services]]** &gt; **Manage HR Catalog**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **HR Services** &gt; **Manage HR Catalog**.
 
 2.  Hover over the HR catalog item that you want to add the knowledge article or managed document to, and click **Manage KB articles**.
 
@@ -59,7 +59,3 @@ For the link to display on the HR catalog item, make sure the item has a variabl
 
 **Next topic:**[HR fulfillment instructions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-fulfillment-instructions.md)
 
-## Related
-
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[hr-service-administration|HR services]]

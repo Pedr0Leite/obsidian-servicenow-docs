@@ -24,7 +24,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[uc-landing-page|Upgrade Center]]** &gt; **Administration** &gt; **Properties** &gt; **Upgrade Plan Properties**.
+1.  Navigate to **All** &gt; **Upgrade Center** &gt; **Administration** &gt; **Properties** &gt; **Upgrade Plan Properties**.
 
     **Note:** It is recommended to set up your dev instance as a builder instance.
 
@@ -88,6 +88,3 @@ Role required: admin
 
 [Apply Upgrade Plan on your upgrade]()
 
-## Related
-
-- [[uc-landing-page|Upgrade Center]]

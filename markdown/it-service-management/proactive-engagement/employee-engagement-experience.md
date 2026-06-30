@@ -14,7 +14,7 @@ breadcrumb: [Using, Proactive Engagement, Digital End-User Experience, IT Servic
 
 # Employee engagement experience through Proactive Engagement
 
-This experience details the employee engagement through the [[proactive-engagement-landing-page|Proactive Engagement]] application.
+This experience details the employee engagement through the Proactive Engagement application.
 
 Every Proactive Engagement trigger creates an experience issue record. When the metric rule with a Proactive Engagement resolution is triggered, it creates an experience issue record to start engaging with the end user. Once the engagement is triggered, you get a notification for the issue. If the end-user consents for help, they are engaged over a Virtual Agent to self-solve the issue. Once the resolution is executed successfully, end-user confirmation is requested. If the issue is not resolved, the configured fallback option is provided. If the issue is resolved, the end-user feedback on the experience is requested.
 
@@ -22,6 +22,3 @@ Every Proactive Engagement trigger creates an experience issue record. When the 
 
 **Parent Topic:**[Using Proactive Engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/proactive-engagement/using-proactive-engagement.md)
 
-## Related
-
-- [[proactive-engagement-landing-page|Proactive Engagement]]

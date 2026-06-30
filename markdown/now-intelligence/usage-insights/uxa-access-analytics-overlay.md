@@ -32,7 +32,7 @@ Role required: analytics\_admin or analytics\_viewer
 
     A panel on the right hand side of the application/portal page shows up. It has some key usage metrics for the application pages.
 
-    **Note:** The information in the panel is visible only if [[user-exp-analytics-landing|Usage Insights]] is tracked for the application or portal.
+    **Note:** The information in the panel is visible only if Usage Insights is tracked for the application or portal.
 
 3.  Review the following usage insights information shown in the panel.
 
@@ -50,6 +50,3 @@ Role required: analytics\_admin or analytics\_viewer
 
 **Parent Topic:**[Using Usage Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/using-uxa.md)
 
-## Related
-
-- [[user-exp-analytics-landing|Usage Insights]]

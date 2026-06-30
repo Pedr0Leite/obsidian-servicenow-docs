@@ -16,7 +16,7 @@ breadcrumb: [MFA enforcement, Multi-factor authentication, Authentication, Acces
 
 Details about some of the FAQs due the MFA enforcement.
 
-MFA being a critical security tool against various [[identity-landing|identity]] takeover-related attacks. ServiceNow enforces MFA by default post-Yokohama upgrade and making it mandatory for non-SSO logins \([[users|users]] performing login with only user name and password or LDAP based [[c_Authentication|authentication]]\).
+MFA being a critical security tool against various identity takeover-related attacks. ServiceNow enforces MFA by default post-Yokohama upgrade and making it mandatory for non-SSO logins \(users performing login with only user name and password or LDAP based authentication\).
 
 MFA enforcement is carried though a MFA policy that is activated by default from Yokohama or upgrade to Yokohama. You can check the following links to learn more about MFA enforcement related questions:
 
@@ -28,8 +28,3 @@ MFA enforcement is carried though a MFA policy that is activated by default from
 -   [MFA types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/faq-mfa-types.md)
 -   [MFA reset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/faq-reset-mfa.md)
 
-## Related
-
-- [[identity-landing|Identity]]
-- [[users|Users]]
-- [[c_Authentication|Authentication]]

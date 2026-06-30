@@ -33,7 +33,7 @@ You can release an asset that isn't required or an add-on asset that's in one of
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Enterprise asset estate**.
+1.  Navigate to **All** &gt; **Enterprise Asset Workspace** &gt; **Enterprise asset estate**.
 
 2.  Select the parent asset record from which you want to release assets.
 
@@ -61,6 +61,3 @@ You can release an asset that isn't required or an add-on asset that's in one of
 
 **Parent Topic:**[Create and manage enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-manage-enterprise-assets.md)
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]

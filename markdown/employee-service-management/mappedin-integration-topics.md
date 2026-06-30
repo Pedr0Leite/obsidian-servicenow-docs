@@ -12,13 +12,13 @@ breadcrumb: [Configure, Workplace Space Mapping, Workplace Service Delivery, Emp
 
 # Configure Mappedin
 
-Mappedin is a third-party Indoor map provider. Integrate Mappedin with [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] to provide indoor navigation.
+Mappedin is a third-party Indoor map provider. Integrate Mappedin with Workplace Service Delivery to provide indoor navigation.
 
 ## Configure Mappedin Overview
 
 Mappedin version 1.11.0 is not available for new customers to install. Existing customers can upgrade to Mappedin version 1.11.0.
 
-Mappedin [[Indoor-mapping|indoor mapping]] software is integrated with Workplace Service Delivery to deliver digital mapping platform for employees and workplace users.
+Mappedin indoor mapping software is integrated with Workplace Service Delivery to deliver digital mapping platform for employees and workplace users.
 
 ## Integrate Mappedin with Workplace Service Delivery
 
@@ -26,14 +26,14 @@ Integrate Mappedin with Workplace Service Delivery to provide employees, facilit
 
 Facility managers can edit floor plans in real-time and employees can reserve a workplace space using the interactive floor maps to view the reserved, unavailable, and available spaces for booking a meeting room and so on. The spaces are color coded to differentiate such spaces from each other.
 
--   **[[wsm-mappedin-activate|Install the Mappedin integration]]**  
+-   **[Install the Mappedin integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/wsm-mappedin-activate.md)**  
 Activate the Mappedin integration if you have the admin role.
--   **[[wsm-mappedin-properties|Maintain import properties]]**  
+-   **[Maintain import properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/wsm-mappedin-properties.md)**  
 Use Import Properties when you create your own credential records, scheduled imports, or data sources. Currently, the properties are configured for the records used when importing.
--   **[[wsm-mappedin-type-table|Convert Mappedin data to Workplace Space Mapping data]]**  
-Use the **Mappedin Type Mappings** table to convert data from Mappedin to [[wsm-mappedin-admin|Workplace Space Mapping]] data.
+-   **[Convert Mappedin data to Workplace Space Mapping data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/wsm-mappedin-type-table.md)**  
+Use the **Mappedin Type Mappings** table to convert data from Mappedin to Workplace Space Mapping data.
 
-**Parent Topic:**[[wsm-config_space_mapping|Configuring Workplace Space Mapping]]
+**Parent Topic:**[Configuring Workplace Space Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/wsm-config_space_mapping.md)
 
 **Related topics**  
 
@@ -42,12 +42,3 @@ Use the **Mappedin Type Mappings** table to convert data from Mappedin to [[wsm-
 
 [Configure Workplace Indoor Mapping]()
 
-## Related
-
-- [[wsm-mappedin-activate|Install the Mappedin integration]]
-- [[wsm-mappedin-properties|Maintain import properties]]
-- [[wsm-mappedin-type-table|Convert Mappedin data to Workplace Space Mapping data]]
-- [[wsm-config_space_mapping|Configuring Workplace Space Mapping]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[Indoor-mapping|Indoor Mapping]]
-- [[wsm-mappedin-admin|Workplace Space Mapping]]

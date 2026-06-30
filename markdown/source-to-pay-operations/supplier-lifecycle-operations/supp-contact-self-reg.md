@@ -14,10 +14,10 @@ breadcrumb: [Using Supplier Collaboration Portal, Use, Supplier Lifecycle Operat
 
 # Supplier contact self-registration
 
-[[supplier|Supplier]] contacts can [[self-reg-to-supp-central|self-register to the Supplier Collaboration Portal]] and start working on the assigned tasks.
+Supplier contacts can self-register to the Supplier Collaboration Portal and start working on the assigned tasks.
 
 -   **[Supplier contact self-registration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/how-self-reg-works.md)**  
-The process of self-registering to the [[supplier-central|Supplier Collaboration Portal]] involves a series of tasks that the [[supplier-contact|supplier contact]] must complete.
+The process of self-registering to the Supplier Collaboration Portal involves a series of tasks that the supplier contact must complete.
 -   **[Self-register to the Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/self-reg-to-supp-central.md)**  
 Supplier contacts can self-register themselves to the Supplier Collaboration Portal without the help of an administrator.
 
@@ -48,16 +48,9 @@ Supplier contacts can self-register themselves to the Supplier Collaboration Por
 
 [Complete a risk assessment from the Supplier Collaboration Portal]()
 
-[Create a [[universal-request|Universal Request]] from the Supplier Collaboration Portal]()
+[Create a Universal Request from the Supplier Collaboration Portal]()
 
 [Supplier contact self-registration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/how-self-reg-works.md)
 
 [Self-register to the Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/self-reg-to-supp-central.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[self-reg-to-supp-central|Self-register to the Supplier Collaboration Portal]]
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[supplier-contact|Supplier contact]]
-- [[universal-request|Universal Request]]

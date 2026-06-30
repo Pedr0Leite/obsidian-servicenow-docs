@@ -22,7 +22,7 @@ The following details the system properties for CrowdStrike.
 2.  sn\_sec\_tisc.crowdstrike\_api\_limit: Number of records to fetch at a time from CrowdStrike. Higher the number, more the memory would consumed for processing the payload.
     -   Type: Integer
     -   Value: 1000
-3.  sn\_sec\_tisc.crowdstrike\_indicator\_batch\_size: Denotes the number of [[indicator|indicators]] to be pulled in a single API call. Note: applicable only when the integration doesn't find the necessary present in the system.
+3.  sn\_sec\_tisc.crowdstrike\_indicator\_batch\_size: Denotes the number of indicators to be pulled in a single API call. Note: applicable only when the integration doesn't find the necessary present in the system.
     -   Type: Integer
     -   Value: 150
 4.  sn\_sec\_tisc.crowdstrike\_offset\_limit\_total: The allowed total of offset and limit from CrowdStrike API.
@@ -34,6 +34,3 @@ The following details the system properties for CrowdStrike.
 
 **Parent Topic:**[View Premium Threat Feed for CrowdStrike](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/premium-threat-feed-for-crowdstrike.md)
 
-## Related
-
-- [[indicator|Indicators]]

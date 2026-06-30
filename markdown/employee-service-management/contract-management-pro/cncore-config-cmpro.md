@@ -15,7 +15,7 @@ breadcrumb: [Contract Management Pro, Legal and Contract Operations, Employee Se
 
 # Configuring Contract Management Pro
 
-Install and configure foundational data for [[cncore-cmpro-landing-page|Contract Management Pro]] to effectively manage contract lifecycle for your organization.
+Install and configure foundational data for Contract Management Pro to effectively manage contract lifecycle for your organization.
 
 ## Configuration overview
 
@@ -33,7 +33,7 @@ This section provides a guided overview of all foundational setup tasks, from in
 
 3.  [Configure the Microsoft Word add-in for ServiceNow Contracts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-config-word-addin.md)
 
-    [[cncore-config-word-addin|Configure the Microsoft Word add-in for ServiceNow Contracts]] so that you can setup contract templates in Microsoft Word.
+    Configure the Microsoft Word add-in for ServiceNow Contracts so that you can setup contract templates in Microsoft Word.
 
 4.  [Configuring external applications for Contract Management Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-set-ext-app-config.md)
 
@@ -45,11 +45,11 @@ This section provides a guided overview of all foundational setup tasks, from in
 
 6.  [Configure templates for a contract and amendment request in Contract Management Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-document-templates.md)
 
-    [[cncore-create-contract-template|Create a contract template]] to add content controls for contract metadata, clauses, signatories, and dynamic tables. Contract documents in own-paper requests are generated from these contract templates based on contract type and other applicable rules.
+    Create a contract template to add content controls for contract metadata, clauses, signatories, and dynamic tables. Contract documents in own-paper requests are generated from these contract templates based on contract type and other applicable rules.
 
 7.  [Define an internal signatory rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-define-internal-signers-rule.md)
 
-    [[cncore-define-internal-signers-rule|Define an internal signatory rule]] to specify signatories for a contract template.
+    Define an internal signatory rule to specify signatories for a contract template.
 
 8.  [Configure contract template rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-config-template-rules.md)
 
@@ -61,16 +61,10 @@ This section provides a guided overview of all foundational setup tasks, from in
 
 10. \(Optional\) [Configure additional features in Contract Management Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-additional-feature.md)
 
-    Set up these configurations to explore other useful capabilities in Contract Management Pro such as, enabling email notifications, related lists in contract requests, generating audit certificate, and activating [[cncore-contract-workspace|contract workspace]].
+    Set up these configurations to explore other useful capabilities in Contract Management Pro such as, enabling email notifications, related lists in contract requests, generating audit certificate, and activating contract workspace.
 
 11. \(Optional\) [Configure contract request functionality for your workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-uptake-steps.md)
 
     Set up Contract Management Pro for your workspace.
 
-## Related
 
-- [[cncore-cmpro-landing-page|Contract Management Pro]]
-- [[cncore-config-word-addin|Configure the Microsoft Word add-in for ServiceNow Contracts]]
-- [[cncore-create-contract-template|Create a contract template]]
-- [[cncore-define-internal-signers-rule|Define an internal signatory rule]]
-- [[cncore-contract-workspace|Contract Workspace]]

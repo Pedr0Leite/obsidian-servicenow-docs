@@ -12,11 +12,7 @@ breadcrumb: [Email client, Notifications, Configure core features, Administer th
 
 # Reference
 
-The [[reference-email-admin|reference]] section provides additional information about the [[c_EnableTheEmailClient|email client]].
+The reference section provides additional information about the email client.
 
 Generate an email reply based on the context of the conversation using Write with Now Assist context menu. This skill can help agents draft emails quickly and stay focused. For more information, see .
 
-## Related
-
-- [[reference-email-admin|Reference]]
-- [[c_EnableTheEmailClient|Email client]]

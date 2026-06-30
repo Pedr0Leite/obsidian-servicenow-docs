@@ -12,7 +12,7 @@ breadcrumb: [Survey administration, Use surveys, Surveys, Assessments and Survey
 
 # View survey reports
 
-Use the [[survey-overview-module|Survey Overview dashboard]] to view various survey reports, such as [[r_SurveyManagementLandingPage|Surveys]] by Metric Type and State.
+Use the Survey Overview dashboard to view various survey reports, such as Surveys by Metric Type and State.
 
 ## Before you begin
 
@@ -31,7 +31,7 @@ The dashboard displays your survey reports arranged in widgets. You can add new 
     For more information about working with dashboards, see [Dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/dashboards-landing-page.md).
 
 
-**Parent Topic:**[[r_SurveyAdminTasks|Survey administration]]
+**Parent Topic:**[Survey administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_SurveyAdminTasks.md)
 
 **Related topics**  
 
@@ -50,7 +50,7 @@ The dashboard displays your survey reports arranged in widgets. You can add new 
 
 [Survey definitions]()
 
-[Create a [[c_SurveyDesigner|survey designer]] template question]()
+[Create a survey designer template question]()
 
 [Survey questions]()
 
@@ -68,9 +68,3 @@ The dashboard displays your survey reports arranged in widgets. You can add new 
 
 [Legacy survey migration]()
 
-## Related
-
-- [[r_SurveyAdminTasks|Survey administration]]
-- [[survey-overview-module|Survey Overview dashboard]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[c_SurveyDesigner|Survey designer]]

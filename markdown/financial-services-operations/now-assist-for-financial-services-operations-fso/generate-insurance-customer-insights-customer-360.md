@@ -38,7 +38,7 @@ The agent can answer questions about the following areas of a customer's insuran
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Open a customer record.
 
@@ -78,6 +78,3 @@ The agent answers your questions using information from the customer's insurance
 
 [Summarize an insurance customer profile in Agentic Contact Center for Insurance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/summarize-insurance-customer-profile.md)
 
-## Related
-
-- [[fso-overview|Financial Services]]

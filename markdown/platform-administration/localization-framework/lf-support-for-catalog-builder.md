@@ -14,15 +14,15 @@ breadcrumb: [Localization Framework support for Service Catalog items, Explore L
 
 # Localization Framework support for catalog builder in Service Catalog
 
-[[localization-framework-landing|Localization Framework]] enables translation of Service Catalog items directly from the catalog builder dashboard in Service Catalog.
+Localization Framework enables translation of Service Catalog items directly from the catalog builder dashboard in Service Catalog.
 
-You can do the following tasks on the Catalog Builder dashboard in Service Catalog when the Localization Framework installer plugin \(**com.glide.[[ia-localization-il|localization]]\_framework.installer**\) is installed:
+You can do the following tasks on the Catalog Builder dashboard in Service Catalog when the Localization Framework installer plugin \(**com.glide.localization\_framework.installer**\) is installed:
 
 -   Use the **Translation status** tab that is displayed when a Service Catalog item is selected, to perform the following tasks:
     -   View the list of all active languages.
     -   Request the translation of the Service Catalog items directly using the **Request Translation** option if the **glide.sc.catalog\_builder.localization.enable\_request\_translation\_mode** property is set to true.
 
-        **Note:** You can [[language-picker-ui|request translations]] for the items in the active languages only if the Localization Framework setting is available for the particular language.
+        **Note:** You can request translations for the items in the active languages only if the Localization Framework setting is available for the particular language.
 
     -   View the translation status of the Service Catalog items.
 
@@ -38,8 +38,3 @@ For more information on the Localization Framework integration with catalog buil
 
 **Parent Topic:**[Localization Framework support for Service Catalog items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/lf-support-for-catalog-items.md)
 
-## Related
-
-- [[localization-framework-landing|Localization Framework]]
-- [[ia-localization-il|Localization]]
-- [[language-picker-ui|Request translations]]

@@ -18,7 +18,7 @@ The Jumpstart Your Predictive Intelligence \(PI\) Accelerator provides a demonst
 
 ## Accelerator Overview
 
-Jumpstart Your Predictive Intelligence provides [[impact-landing-page|Impact]] customers with an overview of Predictive Intelligence machine learning \(ML\) capabilities, benefits, and outcomes. An overview of the four PI frameworks with an applied demonstration of Clustering is offered. Additionally, specific use cases, a configuration overview, and key resources to enable customers to reach their automation goals are highlighted.
+Jumpstart Your Predictive Intelligence provides Impact customers with an overview of Predictive Intelligence machine learning \(ML\) capabilities, benefits, and outcomes. An overview of the four PI frameworks with an applied demonstration of Clustering is offered. Additionally, specific use cases, a configuration overview, and key resources to enable customers to reach their automation goals are highlighted.
 
 For related information, see [Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence-landing.md) or [Configuring advanced settings for your ML solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configuring-advanced-settings-ml-solutions.md) for more information on Clustering parameters.
 
@@ -148,6 +148,3 @@ This Impact Accelerator in its entirety or portions of the Impact Accelerator Ac
 
 ServiceNow is not responsible for implementing Predictive Intelligence recommendations on Customer’s sub-production or production instances.
 
-## Related
-
-- [[impact-landing-page|Impact]]

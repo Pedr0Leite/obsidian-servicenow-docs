@@ -26,7 +26,7 @@ WMI provides a uniform interface for any local or remote applications or scripts
 
 ## WMI installation and configuration
 
-For the [[mid-server-landing|MID Server]] to successfully make a remote connection to the target host, TCP port 135 must be open. The Windows firewall automatically creates an inbound rule for WMI connectivity called Windows Management Instrumentation \(DCOM-In\).
+For the MID Server to successfully make a remote connection to the target host, TCP port 135 must be open. The Windows firewall automatically creates an inbound rule for WMI connectivity called Windows Management Instrumentation \(DCOM-In\).
 
 ## Windows Remote Management \(WinRM\)
 
@@ -47,7 +47,7 @@ WinRM is automatically installed on Windows 2008 R2 and above operating systems,
     The `winrm quickconfig` command performs the following operations:
 
     -   Starts the WinRM service, and sets the service startup type to **auto start**.
-    -   Configures a listener for the ports that send and receive WS-Management protocol, using either HTTP or HTTPS on any [[ip-address|IP address]].
+    -   Configures a listener for the ports that send and receive WS-Management protocol, using either HTTP or HTTPS on any IP address.
     -   Creates a firewall exception for the current user profile.
 
 -   **[MID Server PowerShell files](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/mid-server-powershell-files.md)**  
@@ -57,7 +57,3 @@ Authentication and access denied errors can prevent PowerShell activities from r
 
 **Parent Topic:**[PowerShell activity pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchestrPwrshellActivityPack.md)
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[ip-address|IP Address]]

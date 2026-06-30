@@ -15,11 +15,11 @@ breadcrumb: [External Content Q&amp;A Genius Results, Configuring Now Assist in 
 
 # Configure OAuth settings for External Content Q&amp;A Genius Results
 
-Configure the settings that [[external-content-qna|External Content Q&amp;A Genius Results]] need to interact with your Microsoft SharePoint Online instance.
+Configure the settings that External Content Q&amp;A Genius Results need to interact with your Microsoft SharePoint Online instance.
 
 ## Before you begin
 
-The [[now-assist-ais|Now Assist in AI Search]] ServiceNow® Store application must be installed on your instance. For details on installing this application, see [Install Now Assist in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/install-now-assist-ais.md).
+The Now Assist in AI Search ServiceNow® Store application must be installed on your instance. For details on installing this application, see [Install Now Assist in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/install-now-assist-ais.md).
 
 You must have already completed the following tasks:
 
@@ -164,7 +164,7 @@ Enter `offline_access https://<root-site>.sharepoint.com/.default`, replacing `<
 
     4.  If the **Integration Type** field isn't visible on the OAuth 2.0 Credentials form, configure the form layout to make the field visible.
 
-        For details on configuring a form layout, see [[configure-form-layout|Configuring the form layout]].
+        For details on configuring a form layout, see [Configuring the form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md).
 
     5.  On the OAuth 2.0 Credentials form, fill in the fields:
 
@@ -197,8 +197,3 @@ You can optionally configure a Microsoft Keyword Query Language \(KQL\) query to
 
 **Parent Topic:**[External Content Q&amp;A Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/external-content-qna.md)
 
-## Related
-
-- [[configure-form-layout|Configuring the form layout]]
-- [[external-content-qna|External Content Q&amp;A Genius Results]]
-- [[now-assist-ais|Now Assist in AI Search]]

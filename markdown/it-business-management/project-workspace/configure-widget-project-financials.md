@@ -14,7 +14,7 @@ breadcrumb: [View forecasts and manage financial plans for a project, Project wo
 
 # Configure a widget for project financial metrics
 
-Configure a widget to view and track the financial metrics of a project on the **Financials** tab of the [[project-workspace-landing-page|Project Workspace]] page.
+Configure a widget to view and track the financial metrics of a project on the **Financials** tab of the Project Workspace page.
 
 **Important:**
 
@@ -133,6 +133,3 @@ After you configure a widget, associate it with the Project table to show the fi
 
 **Parent Topic:**[View forecasts and manage financial plans for a project in classic Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/view-plan-financials-in-project-workspace.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]

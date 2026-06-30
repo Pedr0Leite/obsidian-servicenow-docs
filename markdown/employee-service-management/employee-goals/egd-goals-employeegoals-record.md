@@ -14,7 +14,7 @@ breadcrumb: [Employee Goals reference, Employee Goals, Growth Experiences, HR Se
 
 # Employee Goals table
 
-The records in the Employee Goals table contain goal management data. Each record is created when the [[egd-goals-landing|Employee Goals]] application imports the corresponding goal data from your organization's human capital management \(HCM\) system.
+The records in the Employee Goals table contain goal management data. Each record is created when the Employee Goals application imports the corresponding goal data from your organization's human capital management \(HCM\) system.
 
 The form that appears when you select a record in the Employee Goals table contains the following fields:
 
@@ -135,7 +135,3 @@ The domain associated with the employee specified in the **Owner** field.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[egd-goals-landing|Employee Goals]]

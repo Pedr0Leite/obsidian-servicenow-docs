@@ -14,7 +14,7 @@ breadcrumb: [Configuring Service Reliability Management, Service Reliability Man
 
 # Install Service Reliability Management
 
-Install the [[sr-landing-page|Service Reliability Management]] \(SRM\) application from the Admin Center or ServiceNow Store.
+Install the Service Reliability Management \(SRM\) application from the Admin Center or ServiceNow Store.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Subscriptions required: ITSM Standard and ITOM Operator Professional subscriptio
 
 **Note:** The data visualizations store app v24.1.8 is also required. See [Data visualizations](https://store.servicenow.com/sn_appstore_store.do#!/store/application/2926d7e8a2ac632a750a9c9101f4cff0/24.0.2?referer=%2Fstore%2Fsearch%3Flistingtype%3Dallintegrations%25253Bancillary_app%25253Bcertified_apps%25253Bcontent%25253Bindustry_solution%25253Boem%25253Butility%25253Btemplate%25253Bgenerative_ai%25253Bsnow_solution%26q%3DData%2520Visualizations&sl=sh) in the ServiceNow Store to install the app.
 
-To create and manage alert automations, [[sr-install-aa-store-app|install the Alert automation application]] available on request in the ServiceNow Store.
+To create and manage alert automations, install the Alert automation application available on request in the ServiceNow Store.
 
 Role required: admin
 
@@ -32,7 +32,7 @@ Roles and demo data are installed with SRM. The demo data includes templates tha
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workspace-dashboard-use|Service Operations Workspace]] Admin Center** &gt; **Overview**.
+1.  Navigate to **All** &gt; **Service Operations Workspace Admin Center** &gt; **Overview**.
 
 2.  Locate the **Service Reliability Management** card and select **Install**.
 
@@ -55,8 +55,3 @@ Roles and demo data are installed with SRM. The demo data includes templates tha
 
 **Next topic:**[Assign an administrator to Service Reliability Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-assign-admins.md)
 
-## Related
-
-- [[sr-landing-page|Service Reliability Management]]
-- [[sr-install-aa-store-app|Install the Alert Automation application]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

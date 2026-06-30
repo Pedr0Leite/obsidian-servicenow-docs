@@ -14,7 +14,7 @@ breadcrumb: [Exploring, Critical Event Management, Health and Safety, Employee S
 
 # Critical event portal
 
-On-site responders use the critical event portal in [[critical-event-management|Critical Event Management]] to conduct roll calls, coordinate individuals to the assembly point, and gain a complete view of the emergency.
+On-site responders use the critical event portal in Critical Event Management to conduct roll calls, coordinate individuals to the assembly point, and gain a complete view of the emergency.
 
 When a critical event occurs, the on-site responders receive an email from an agent notifying them about the emergency at their location. This email contains a link to log in to the critical event portal.
 
@@ -33,6 +33,3 @@ When all impacted people in a critical event are accounted for, the on-site resp
 
 On-site responders can use the critical event portal on a desktop, tablet, and mobile device.
 
-## Related
-
-- [[critical-event-management|Critical Event Management]]

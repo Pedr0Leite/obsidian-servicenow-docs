@@ -14,7 +14,7 @@ breadcrumb: [Reference, Workplace Reservation Management, Workplace Service Deli
 
 # Components installed with Workplace Reservation Management
 
-Several types of components are installed with activation of the [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] application, including tables, user roles, and business rules.
+Several types of components are installed with activation of the Workplace Reservation Management application, including tables, user roles, and business rules.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -40,7 +40,7 @@ WSD Core Admin\[sn\_wsd\_core.admin\]
 
 </td><td>
 
-Complete access to [[workplace-service-delivery-apps|Workplace Service Delivery applications]].
+Complete access to Workplace Service Delivery applications.
 
 </td><td>
 
@@ -52,7 +52,7 @@ WSD Admin\[sn\_wsd\_rsv.admin\]
 
 </td><td>
 
--   Manage [[standard-service|Standard services]] and the location to which they are assigned.
+-   Manage Standard services and the location to which they are assigned.
 -   Add standard services.
 -   Add flexible services
 -   Add reservable purposes.
@@ -133,7 +133,7 @@ Reservation planner\[sn\_wsd\_rsv.reservation\_planner\]
 
 </td><td>
 
-Plan reservations in [[event-planner-key-features-actions-views|Workplace Central Event planner]]
+Plan reservations in Workplace Central Event planner
 
 </td><td>
 
@@ -153,7 +153,7 @@ Reservation viewer\[sn\_wsd\_rsv.reservation\_viewer\]
 
 </td><td>
 
-View reservations inWorkplace Central [[event-planner|Event planner]].
+View reservations inWorkplace Central Event planner.
 
 </td><td>
 
@@ -173,19 +173,19 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[userspace-suggestions|User Space Suggestions]]\[sn\_wsd\_core\_user\_space\_suggestions\]
+User Space Suggestions\[sn\_wsd\_core\_user\_space\_suggestions\]
 
 </td><td>
 
-Retrieves user preferred space suggestions for employees having a workplace user profile. Make sure that [[workplace-concierge-feat|Workplace Concierge]] is installed. For more information, see [User Space Suggestions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/userspace-suggestions.md).
+Retrieves user preferred space suggestions for employees having a workplace user profile. Make sure that Workplace Concierge is installed. For more information, see [User Space Suggestions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/userspace-suggestions.md).
 
 </td></tr><tr><td>
 
-[[space-suggestion-configuration|Space Suggestion Configuration]]\[sn\_wsd\_core\_space\_suggestion\_configuration\]
+Space Suggestion Configuration\[sn\_wsd\_core\_space\_suggestion\_configuration\]
 
 </td><td>
 
-Retreives user preferrences from the space suggestion configuration table. Make sure that Workplace Concierge is installed. Admin can specify the configuration and the space logic that needs to be considered while suggesting workplace locations, preferred collaborators, and [[workplace-services|workplace services]] to an employee. For more information, see [Space suggestion Configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/space-suggestion-configuration.md).**Note:** Make sure only one record exist for each preference type.
+Retreives user preferrences from the space suggestion configuration table. Make sure that Workplace Concierge is installed. Admin can specify the configuration and the space logic that needs to be considered while suggesting workplace locations, preferred collaborators, and workplace services to an employee. For more information, see [Space suggestion Configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/space-suggestion-configuration.md).**Note:** Make sure only one record exist for each preference type.
 
 </td></tr><tr><td>
 
@@ -374,14 +374,3 @@ Stores information about all the time slots of Quick Reservation Widget.
 
 [Additional details record producer - Mapping Variable types and limitations]()
 
-## Related
-
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-service-delivery-apps|Workplace Service Delivery applications]]
-- [[standard-service|Standard services]]
-- [[event-planner-key-features-actions-views|Workplace Central Event planner]]
-- [[event-planner|Event Planner]]
-- [[userspace-suggestions|User Space Suggestions]]
-- [[workplace-concierge-feat|Workplace Concierge]]
-- [[space-suggestion-configuration|Space suggestion Configuration]]
-- [[workplace-services|Workplace Services]]

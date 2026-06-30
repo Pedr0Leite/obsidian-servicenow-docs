@@ -14,7 +14,7 @@ breadcrumb: [Working with Webhooks, Administer, Threat Intelligence Security Cen
 
 # Webhook Triggers
 
-Webhook triggers are used to filter the [[threat-intel-landing-page|threat intelligence]] entities that needs to be tracked for any event changes such as Create, Update, and Delete.
+Webhook triggers are used to filter the threat intelligence entities that needs to be tracked for any event changes such as Create, Update, and Delete.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_sec\_tisc.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Administration**.
+1.  Navigate to **All** &gt; **Threat Intelligence Security Center** &gt; **Administration**.
 
 2.  Select **Webhooks Configurations** &gt; **Triggers**.
 
@@ -70,7 +70,7 @@ Select the table for the webhook trigger.
 
 Defines whether the configured webhook trigger is either create/update/delete event on the specified table.**Trigger Fields**: This is displayed when you select the **Trigger Type: Update**.
 
-These are the list of fields on the record for which the update event needs to be tracked. If this is empty, then the event is considered for any field change on the record. For example, if the trigger fields are **Confidence** and **Reputation** for the **[[c_Observables|Observables]]** table, then this trigger is considered only when confidence or reputation fields are updated.
+These are the list of fields on the record for which the update event needs to be tracked. If this is empty, then the event is considered for any field change on the record. For example, if the trigger fields are **Confidence** and **Reputation** for the **Observables** table, then this trigger is considered only when confidence or reputation fields are updated.
 
 **Note:** The fields selected in the Exclusion Fields will not be available in the selection of Trigger Fields.
 
@@ -410,8 +410,3 @@ This is available only for UPDATE trigger type. It specifies the list of trigger
 
 [Configure webhooks]()
 
-## Related
-
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[c_Observables|Observables]]

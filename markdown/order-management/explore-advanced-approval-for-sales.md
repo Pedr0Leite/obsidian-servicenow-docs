@@ -13,7 +13,7 @@ breadcrumb: [Configure, price, quote, Explore, Sales Customer Relationship Manag
 
 # Advanced Approval Management
 
-The Advanced Approval Management application enables you to define workflows for approving [[order-mgt-overview|Sales Customer Relationship Management]] entities, such as customer quotes, in your sales organization.
+The Advanced Approval Management application enables you to define workflows for approving Sales Customer Relationship Management entities, such as customer quotes, in your sales organization.
 
 ## Advanced Approval Management overview
 
@@ -35,7 +35,7 @@ Approval rule admin, approval rule writer\(For example, sales or business operat
 
 </td><td>
 
-Creates approval configurations for Sales Customer Relationship Management entities, approval chains, approval trigger conditions, approval [[rules_101|rules]], approval users, and approval groups.
+Creates approval configurations for Sales Customer Relationship Management entities, approval chains, approval trigger conditions, approval rules, approval users, and approval groups.
 
 </td></tr><tr><td>
 
@@ -70,13 +70,13 @@ Approval request viewer
 Views approval requests and approval steps.
 
 </td></tr></tbody>
-</table>For a complete list of user roles, see [[components-installed-advanced-approval-management-for-sales|Components installed with Advanced Approval Management]].
+</table>For a complete list of user roles, see [Components installed with Advanced Approval Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/components-installed-advanced-approval-management-for-sales.md).
 
 ## Advanced Approval Management workflow
 
 This section describes the tasks involved in configuring and using Advanced Approval Management.
 
-1.  As an approval rule admin or writer, [[create-approval-configuration|create an approval configuration]] for a Sales Customer Relationship Management entity, such as quotes.
+1.  As an approval rule admin or writer, create an approval configuration for a Sales Customer Relationship Management entity, such as quotes.
 2.  Build approval workflows by creating:
     -   Conditions that trigger the rules in the workflow
     -   Approval rules that control the steps in the workflow
@@ -92,30 +92,16 @@ This section describes the tasks involved in configuring and using Advanced Appr
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Build and automate workflows that can handle sequential or parallel approvals or a combination of both|[[create-approval-rules|Create approval rules]] and [[create-approval-chain|Create approval chains]]|Approval admins|
-|Enforce financial and legal guidelines particularly for high-value deals to reduce financial and legal risk|[[set-approval-trigger-conditions|Create conditions that trigger approval workflows]]|Approval admins and approvers|
-|Preview the rules, steps, and approvers before submitting a request|[[submitting-approval-requests|Submitting approval requests]]|Requesters|
-|Monitor approval workflow and status|[[tracking-approval-status|Tracking approval status and history]]|Requesters, approvers, and business stakeholders|
+|Build and automate workflows that can handle sequential or parallel approvals or a combination of both|[Create approval rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-approval-rules.md) and [Create approval chains](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-approval-chain.md)|Approval admins|
+|Enforce financial and legal guidelines particularly for high-value deals to reduce financial and legal risk|[Create conditions that trigger approval workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/set-approval-trigger-conditions.md)|Approval admins and approvers|
+|Preview the rules, steps, and approvers before submitting a request|[Submitting approval requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/submitting-approval-requests.md)|Requesters|
+|Monitor approval workflow and status|[Tracking approval status and history](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/tracking-approval-status.md)|Requesters, approvers, and business stakeholders|
 
 ## What to explore next
 
 To learn more about configuring and using Advanced Approval Management, see:
 
--   [[configuring-advanced-approval-management|Configuring Advanced Approval Management]]
--   [[using-advanced-approval-management|Using Advanced Approval Management]]
--   [[advanced-approval-management-reference|Advanced Approval Management reference]]
+-   [Configuring Advanced Approval Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configuring-advanced-approval-management.md)
+-   [Using Advanced Approval Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-advanced-approval-management.md)
+-   [Advanced Approval Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/advanced-approval-management-reference.md)
 
-## Related
-
-- [[components-installed-advanced-approval-management-for-sales|Components installed with Advanced Approval Management]]
-- [[create-approval-rules|Create approval rules]]
-- [[create-approval-chain|Create approval chains]]
-- [[set-approval-trigger-conditions|Create conditions that trigger approval workflows]]
-- [[submitting-approval-requests|Submitting approval requests]]
-- [[tracking-approval-status|Tracking approval status and history]]
-- [[configuring-advanced-approval-management|Configuring Advanced Approval Management]]
-- [[using-advanced-approval-management|Using Advanced Approval Management]]
-- [[advanced-approval-management-reference|Advanced Approval Management reference]]
-- [[order-mgt-overview|Sales Customer Relationship Management]]
-- [[rules_101|Rules]]
-- [[create-approval-configuration|Create an approval configuration]]

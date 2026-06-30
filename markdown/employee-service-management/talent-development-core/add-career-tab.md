@@ -14,7 +14,7 @@ breadcrumb: [Configuring Skills Foundation, Skills Foundation, Growth Experience
 
 # Add the Career tab and enable the Skills widget in the Employee Profile
 
-Add the **Career** tab and enable the Skills widget in the Career tab to upload your resume/LinkedIn profile and work with skills-related data in your [[emp-slate-employee-profile|Employee Profile]].
+Add the **Career** tab and enable the Skills widget in the Career tab to upload your resume/LinkedIn profile and work with skills-related data in your Employee Profile.
 
 ## Before you begin
 
@@ -47,9 +47,5 @@ Role required: sn\_skills\_int.admin, sn\_skills\_int.emp
 
 ## Result
 
-The Career tab and Skills widget are added to your profile in the [[employee-center-landing-page|Employee Center]].
+The Career tab and Skills widget are added to your profile in the Employee Center.
 
-## Related
-
-- [[emp-slate-employee-profile|Employee profile]]
-- [[employee-center-landing-page|Employee Center]]

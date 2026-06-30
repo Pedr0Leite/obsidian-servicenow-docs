@@ -12,7 +12,7 @@ breadcrumb: [Repair form, Reference, Manufacturing Commercial Operations]
 
 # Pre-authorization job details form
 
-The [[mco-pre-auth-request|pre-authorization]] job form enables you to enter the warranty, labor, and part details.
+The pre-authorization job form enables you to enter the warranty, labor, and part details.
 
 <table id="table_dhw_nkd_bhc"><thead><tr><th>
 
@@ -269,15 +269,10 @@ Pre-approval requested amount
 Total amount claimed includes parts, labor, external services, and miscellaneous items.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[repair-form|Repair form]]
+</table>**Parent Topic:**[Repair form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/repair-form.md)
 
 **Related topics**  
 
 
-[[mco-agents-create-pre-auth-request|Create a pre-authorization request]]
+[Create a pre-authorization request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-agents-create-pre-auth-request.md)
 
-## Related
-
-- [[repair-form|Repair form]]
-- [[mco-agents-create-pre-auth-request|Create a pre-authorization request]]
-- [[mco-pre-auth-request|Pre-authorization]]

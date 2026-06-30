@@ -14,13 +14,13 @@ breadcrumb: [Allowing contractors to bid on work orders and tasks, Scheduling an
 
 # Withdraw from a request on Field Service Marketplace
 
-Withdraw from a request you responded to on [[fsm-marketplace|Field Service Marketplace]].
+Withdraw from a request you responded to on Field Service Marketplace.
 
 ## Before you begin
 
 Role required: sn\_mktplace\_core.mktplace\_fulfiller
 
-Fulfilling requests on Field Service Marketplace is only available via the Mobile experience. This requires the [[wot-fsc|Field Service Contractor for mobile]] plugin \(com.snc.fsm\_ext\_mobile\).
+Fulfilling requests on Field Service Marketplace is only available via the Mobile experience. This requires the Field Service Contractor for mobile plugin \(com.snc.fsm\_ext\_mobile\).
 
 ## About this task
 
@@ -37,7 +37,3 @@ If there aren't enough agents available, or there are other obstacles, you can w
 
 You're response is withdrawn from the request. The request is removed from your responses.
 
-## Related
-
-- [[fsm-marketplace|Field Service Marketplace]]
-- [[wot-fsc|Field Service Contractor for mobile]]

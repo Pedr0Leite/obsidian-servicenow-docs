@@ -25,7 +25,7 @@ You can install the Field Service Virtual Agent Conversations application \(sn\_
 
             Enables the chatbot conversation with virtual agent. For details on activating Virtual Agent, see [Activate Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/activate-virtual-agent.md).
 
--   [[virtual-agent-fsm|Virtual Agent for Field Service Management]] requires the following ServiceNow Store applications. Ensure that these applications are installed before you install Field Service Virtual Agent Conversations.
+-   Virtual Agent for Field Service Management requires the following ServiceNow Store applications. Ensure that these applications are installed before you install Field Service Virtual Agent Conversations.
     -   **Required ServiceNow Store applications**
         -   **Field Service NLU Model for Virtual Agent Conversations**
 
@@ -77,6 +77,4 @@ Enable Virtual Agent to debrief the Work in Progress tasks for today and for pre
 
 5.  Select **Install**.
 
-## Related
 
-- [[virtual-agent-fsm|Virtual Agent for Field Service Management]]

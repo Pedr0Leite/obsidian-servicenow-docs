@@ -12,7 +12,7 @@ breadcrumb: [Assessments reference, Assessments, Assessments and Surveys, Explor
 
 # Assessment Metric form for a category
 
-Description of the field values for the [[assessment-metric-form|Assessment Metric form]]. Use the fields when you create an assessment metric for a category.
+Description of the field values for the Assessment Metric form. Use the fields when you create an assessment metric for a category.
 
 <table id="table_v2j_rgr_z4"><thead><tr><th>
 
@@ -36,7 +36,7 @@ Category
 
 </td><td>
 
-Metric category that the metric belongs to. The system automatically populates this category if you create a new metric from the [[metric-category-form|Metric Category form]]. **Note:** You cannot change the category if the **Depends on** field is set or if another metric depends on this metric
+Metric category that the metric belongs to. The system automatically populates this category if you create a new metric from the Metric Category form. **Note:** You cannot change the category if the **Depends on** field is set or if another metric depends on this metric
 
 </td></tr><tr><td>
 
@@ -64,7 +64,7 @@ Weight
 
 </td><td>
 
-Numeric value that represents the importance of this metric relative to other metrics in the same category. By default, the weight is 10. For weighting suggestions, see [[c_AssessmentMetrics|Weight Metrics and Metric Categories]].
+Numeric value that represents the importance of this metric relative to other metrics in the same category. By default, the weight is 10. For weighting suggestions, see [Weight Metrics and Metric Categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentMetrics.md).
 
  This field is visible and required unless the **Data type** is **Date**, **Date/Time**, or **String**. These data types are not included in results calculations.
 
@@ -74,7 +74,7 @@ Order
 
 </td><td>
 
-Numeric value that determines the order of the metric question on assessment questionnaires, relative to other metric questions in the same category. The metric with the smallest order value appears as the first question in the category section. By default, the order is 100. For more information about questionnaire layout, see [[c_AssessmentQuestionnaires|Complete Assessment Questionnaires]]. **Note:** It does not matter which order value you use for metrics with the Script method, as they do not appear on questionnaires.
+Numeric value that determines the order of the metric question on assessment questionnaires, relative to other metric questions in the same category. The metric with the smallest order value appears as the first question in the category section. By default, the order is 100. For more information about questionnaire layout, see [Complete Assessment Questionnaires](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentQuestionnaires.md). **Note:** It does not matter which order value you use for metrics with the Script method, as they do not appear on questionnaires.
 
 </td></tr><tr><td>
 
@@ -82,7 +82,7 @@ Active
 
 </td><td>
 
-[[check-box|Check box]] that determines whether this metric is used to gather [[r_AssessmentResults|assessment results]]. If a non-scripted metric \(Assessment method\) is inactive, the question does not appear on assessment questionnaires generated after the metric becomes inactive. If a scripted metric \(Script method\) is inactive, the script does not run.
+Check box that determines whether this metric is used to gather assessment results. If a non-scripted metric \(Assessment method\) is inactive, the question does not appear on assessment questionnaires generated after the metric becomes inactive. If a scripted metric \(Script method\) is inactive, the script does not run.
 
 </td></tr><tr><td>
 
@@ -102,7 +102,7 @@ Allow not applicable
 
 Check box that determines whether to include a **Not Applicable** answer option for this metric question on assessment questionnaires. Users can select **Not Applicable** if they do not have sufficient information to respond to a question or if a question does not apply to a particular assessable record. User responses of **Not Applicable** are excluded from results calculations.
 
- This field is visible only if the **Method** is **Assessment** and certain data types are selected.\[Omitted image "AssessmentNotApplicableOption.png"\] Alt text: [[r_Assessments|Assessments]] not applicable option
+ This field is visible only if the **Method** is **Assessment** and certain data types are selected.\[Omitted image "AssessmentNotApplicableOption.png"\] Alt text: Assessments not applicable option
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -114,7 +114,7 @@ Details
 
 </td><td>
 
-Text field containing an [[html|HTML]] editor. Use this field to present important details about this metric to assessment recipients. Details can include formatted lists, images, videos, or links to external websites. \[Omitted image "AssessmentMetricDetails.png"\] Alt text: Assessment metric details
+Text field containing an HTML editor. Use this field to present important details about this metric to assessment recipients. Details can include formatted lists, images, videos, or links to external websites. \[Omitted image "AssessmentMetricDetails.png"\] Alt text: Assessment metric details
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -142,7 +142,7 @@ Depends on
 
 </td><td>
 
-Setting used to make this metric a conditional question. Select an existing metric question from the list, which displays **Checkbox**, **Choice**, **Likert Scale**, **Template**, and **[[yes-no|Yes/No]]** metrics of the same category as this metric. Then, use the **Displayed when** field to set the conditions that display this metric question on questionnaires. The system prevents the creation of recursive dependencies between metrics. For example, if Metric A depends on Metric B, Metric B cannot depend on Metric A.
+Setting used to make this metric a conditional question. Select an existing metric question from the list, which displays **Checkbox**, **Choice**, **Likert Scale**, **Template**, and **Yes/No** metrics of the same category as this metric. Then, use the **Displayed when** field to set the conditions that display this metric question on questionnaires. The system prevents the creation of recursive dependencies between metrics. For example, if Metric A depends on Metric B, Metric B cannot depend on Metric A.
 
  This field is visible only if the Method is Assessment.
 
@@ -216,7 +216,7 @@ Setting that determines whether lesser or greater numerical values equate to a g
 
  This field is visible and required unless the **Data type** is **Date**, **Date/Time**, or **String**. The results for these data types are not included in results calculations.
 
- **Note:** For information about how to set the scale definition for data types that do not require you to set a numerical value, see [[r_DataTypes|Data Types]].
+ **Note:** For information about how to set the scale definition for data types that do not require you to set a numerical value, see [Data Types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_DataTypes.md).
 
 </td></tr><tr><td>
 
@@ -263,24 +263,10 @@ Lists all metric definitions, which appear as answer options for questions on as
  This related list is available only if the Data type is **Choice** or **Likert Scale**.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[assessment-reference|Assessments reference]]
+</table>**Parent Topic:**[Assessments reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/assessment-reference.md)
 
 **Related topics**  
 
 
-[[t_CreateAMetric|Create an assessment metric for a category]]
+[Create an assessment metric for a category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateAMetric.md)
 
-## Related
-
-- [[c_AssessmentMetrics|Assessment metrics]]
-- [[c_AssessmentQuestionnaires|Assessment questionnaires]]
-- [[r_DataTypes|Data types for assessments]]
-- [[assessment-reference|Assessments reference]]
-- [[t_CreateAMetric|Create an assessment metric for a category]]
-- [[assessment-metric-form|Assessment Metric form]]
-- [[metric-category-form|Metric Category form]]
-- [[check-box|Check box]]
-- [[r_AssessmentResults|Assessment results]]
-- [[r_Assessments|Assessments]]
-- [[html|HTML]]
-- [[yes-no|Yes/No]]

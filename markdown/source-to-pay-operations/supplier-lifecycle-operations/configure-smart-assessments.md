@@ -14,7 +14,7 @@ breadcrumb: [Configure, Supplier Lifecycle Operations, Finance and Supply Chain]
 
 # Configure smart assessments
 
-[[supplier|Supplier]] managers can configure and create assessments in bulk for internal and external users by adding instructions, questions, and reference information from the Assessment Workspace.
+Supplier managers can configure and create assessments in bulk for internal and external users by adding instructions, questions, and reference information from the Assessment Workspace.
 
 ## Prerequisites for creating smart assessments
 
@@ -66,13 +66,13 @@ This field is set to include the **Supplier** and **Segmentation rule assessment
 3.  User criteria for reassignment are configured and enabled, restricting contacts to delegate the assessment to another contact from their organization. If no user criteria are configured, the reassign option is available to all users without restriction. For more information, see [Configure user criteria for reassigning assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/configure-user-criteria-for-reassigning-assessments.md).
 4.  The assessment template is published after completing the preceding configurations.
 
-From the **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**:
+From the **Source-to-Pay Workspace**:
 
 1.  A segmentation rule is created from the Source-to-Pay Workspace. An assessment template is mapped with the new segmentation rule from the **Assessment templates** tab. The new segmentation rule can be created for the following audience types:
 
     -   Manager\(s\)
     -   All supplier managers
-    -   Only primary [[supplier-contact|supplier contact]]\(s\)
+    -   Only primary supplier contact\(s\)
     -   All supplier contacts
     For more information, see [Map assessment template with segmentation rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/add-assessment-template-in-segmentation-rule.md).
 
@@ -84,7 +84,7 @@ From the **Source-to-Pay Workspace**:
 
 Supplier managers and owners see the assessments assigned to them under **My work** &gt; **Open assessments** and respond to them in the workspace.
 
-From the **[[supplier-central|Supplier Collaboration Portal]]**:
+From the **Supplier Collaboration Portal**:
 
 Supplier contacts see the assessments assigned to them under **My active items** and respond to them in the portal.
 
@@ -120,16 +120,9 @@ After mapping the assessment templates with segmentation rules, supplier manager
 
 [Configure Supplier Relationship and Performance Management]()
 
-[Install [[universal-request|Universal Request]] for SLO]()
+[Install Universal Request for SLO]()
 
 [Smart Assessment Engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-asmnt-engine-landing-page.md)
 
 [Create an assessment template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/sae-asmnt-template-create.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supplier-contact|Supplier contact]]
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[universal-request|Universal Request]]

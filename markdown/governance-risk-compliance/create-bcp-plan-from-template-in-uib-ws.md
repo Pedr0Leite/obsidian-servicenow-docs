@@ -22,11 +22,11 @@ Role required: sn\_bcp.plan\_contributor or sn\_bcp.plan\_manager
 
 A plan template can reference recovery strategy templates, task template groups, and task templates at the plan, loss scenario, and recovery strategy levels. When you create a plan from such a template, the system creates the documentation, loss scenarios, recovery strategies, and recovery tasks in a single operation, so you do not have to add each record manually.
 
-For information on building a plan template that pre-populates these records, see [[configure-a-bcp-template-uib-ws|Configure the business continuity plan template]] and [[bcp-admin-plan-templates|Configuring plan template]].
+For information on building a plan template that pre-populates these records, see [Configure the business continuity plan template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-a-bcp-template-uib-ws.md) and [Configuring plan template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bcp-admin-plan-templates.md).
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **Business Continuity Workspace** &gt; **Planning** in the [[list-view-uib-ws|list view]] and select **New**.
+1.  Navigate to **Workspaces** &gt; **Business Continuity Workspace** &gt; **Planning** in the list view and select **New**.
 
 2.  On the **Details** tab of the **Create New Plan** form, select a plan template in the **Template** field.
 
@@ -34,7 +34,7 @@ For information on building a plan template that pre-populates these records, se
 
 3.  Enter a name for the plan and fill in the remaining required fields.
 
-    For more information on the fields, see [[create-new-plan-bcp-uib-ws-reference-form|Create New Plan form]].
+    For more information on the fields, see [Create New Plan form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-new-plan-bcp-uib-ws-reference-form.md).
 
 4.  Select **Save**.
 
@@ -49,15 +49,7 @@ For information on building a plan template that pre-populates these records, se
 
 ## Result
 
-The plan is created in the **Draft** state with the loss scenarios, recovery strategies, and recovery tasks generated at each level. You can add more records or apply additional task template groups from the **Recovery tasks** tab. For more information, see [[add-a-recovery-task|Add recovery tasks]].
+The plan is created in the **Draft** state with the loss scenarios, recovery strategies, and recovery tasks generated at each level. You can add more records or apply additional task template groups from the **Recovery tasks** tab. For more information, see [Add recovery tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/add-a-recovery-task.md).
 
-**Parent Topic:**[[bcp-tasks-performed-by-bcp-owner|Structured workflows for BCPs]]
+**Parent Topic:**[Structured workflows for BCPs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bcp-tasks-performed-by-bcp-owner.md)
 
-## Related
-
-- [[configure-a-bcp-template-uib-ws|Configure the business continuity plan template]]
-- [[bcp-admin-plan-templates|Configuring plan template]]
-- [[create-new-plan-bcp-uib-ws-reference-form|Create New Plan form]]
-- [[add-a-recovery-task|Add recovery tasks]]
-- [[bcp-tasks-performed-by-bcp-owner|Structured workflows for BCPs]]
-- [[list-view-uib-ws|List view]]

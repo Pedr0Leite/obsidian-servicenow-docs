@@ -22,9 +22,9 @@ Role required: sn\_map\_core.map\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[Indoor-mapping|Indoor Mapping]]** &gt; **Map Studio**.
+1.  Navigate to **All** &gt; **Indoor Mapping** &gt; **Map Studio**.
 
-2.  On the **[[bulk-upload-hierarchy|Bulk hierarchy upload]]** card, select **Upload hierarchy**.
+2.  On the **Bulk hierarchy upload** card, select **Upload hierarchy**.
 
 3.  In the Upload CAD Files section, select **Upload Floor Plans**.
 
@@ -51,7 +51,7 @@ Role required: sn\_map\_core.map\_admin
 
     For more information about the Automate map updates AI agentic workflow, see [Automate map updates agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/automate-map-updates-agent-ai.md).
 
-    **Note:** If you selected **Supervised AI execution** in the [[import-group-form|Floor map import group form]], you must manually trigger the AI agent for every import task.
+    **Note:** If you selected **Supervised AI execution** in the Floor map import group form, you must manually trigger the AI agent for every import task.
 
 -   You can auto-generate the georeference for an uploaded floor plan by navigating to the Autocad source, then selecting **Auto Generated Georeference** from the Configuration tab.
 
@@ -59,8 +59,4 @@ Role required: sn\_map\_core.map\_admin
 
     **Note:** The sn\_map\_core.hide\_outdoor\_when\_georeference\_is\_auto\_generated system property controls whether the world map is hidden when entering a building for floors with an auto-generated georeference.
 
-## Related
 
-- [[Indoor-mapping|Indoor Mapping]]
-- [[bulk-upload-hierarchy|Bulk hierarchy upload]]
-- [[import-group-form|Floor map import group form]]

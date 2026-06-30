@@ -14,7 +14,7 @@ breadcrumb: [Dynamic Task Bundling, Task Bundling, Additional scheduling configu
 
 # Run a task bundling policy manually
 
-[[dynamic-task-bundling|Dynamic task bundling]] policies can be manually run from the policy record with Field Service Task Bundling.
+Dynamic task bundling policies can be manually run from the policy record with Field Service Task Bundling.
 
 ## Before you begin
 
@@ -33,6 +33,4 @@ Role required: wm\_admin
 
 3.  Select **Bundle Now**.
 
-## Related
 
-- [[dynamic-task-bundling|Dynamic task bundling]]

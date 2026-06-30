@@ -31,7 +31,7 @@ Roles required:
 
 3.  Click **Integrations**.
 
-4.  In the list of Workplace from Facebook integrations, click **Now [[virtual-agent-landing-page|Virtual Agent]]**.
+4.  In the list of Workplace from Facebook integrations, click **Now Virtual Agent**.
 
 5.  In the window that displays the settings for Now Virtual Agent click **Uninstall**.
 
@@ -44,6 +44,3 @@ Roles required:
 
 **Parent Topic:**[Configuring Conversational Integration with Workplace from Facebook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configuring-ci-workplace-fb.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

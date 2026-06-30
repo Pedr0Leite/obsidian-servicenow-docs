@@ -235,14 +235,10 @@ Latest completion date
 Date when the previous work order for the schedule occurrence was completed.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[mco-qim-form|Quality issue management form]]
+</table>**Parent Topic:**[Quality issue management form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-qim-form.md)
 
 **Related topics**  
 
 
-[[mco-create-work-order|Create a work order]]
+[Create a work order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-create-work-order.md)
 
-## Related
-
-- [[mco-qim-form|Quality issue management form]]
-- [[mco-create-work-order|Create a work order]]

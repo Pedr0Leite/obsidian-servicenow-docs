@@ -12,9 +12,9 @@ breadcrumb: [CSM Configurable Workspace, Organize agent workspaces, Configure, C
 
 # Migrating to Configurable Workspace
 
-If you are currently using CSM Agent Workspace, you can implement [[csm-workspaces-configure|CSM Configurable Workspace]] and continue using some of your existing CSM Agent Workspace configurations.
+If you are currently using CSM Agent Workspace, you can implement CSM Configurable Workspace and continue using some of your existing CSM Agent Workspace configurations.
 
-Some configurations can be used by both CSM workspaces while others need to be configured specifically for CSM Configurable Workspace. Of these configurations that are specific to CSM Configurable Workspace, some are accomplished in the platform interface using [[migration-lists|lists]] and [[migration-forms|forms]], while others are accomplished using the UI Builder.
+Some configurations can be used by both CSM workspaces while others need to be configured specifically for CSM Configurable Workspace. Of these configurations that are specific to CSM Configurable Workspace, some are accomplished in the platform interface using lists and forms, while others are accomplished using the UI Builder.
 
 Use the topics in the following table to explore CSM Configurable Workspace features. Then follow the steps to implement CSM Configurable Workspace and migrate your existing CSM Agent Workspace configurations.
 
@@ -22,25 +22,15 @@ Use the topics in the following table to explore CSM Configurable Workspace feat
 
 Explore
 
- -   [[exploring-configurable-workspace|Explore CSM Configurable Workspace]]
--   [[organize-agent-workspaces|Workspaces in Customer Service Management]]
+ -   [Explore CSM Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/exploring-configurable-workspace.md)
+-   [Workspaces in Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/organize-agent-workspaces.md)
 
 </td><td>
 
 Migrate
 
- 1.  [[csm-config-workspace-set-up|Set up CSM Configurable Workspace]]
-2.  [[csm-migrate-configurable-workspace|Migrate to CSM Configurable Workspace]]
+ 1.  [Set up CSM Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-config-workspace-set-up.md)
+2.  [Migrate to CSM Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-migrate-configurable-workspace.md)
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[exploring-configurable-workspace|Explore CSM Configurable Workspace]]
-- [[organize-agent-workspaces|Organize agent workspaces]]
-- [[csm-config-workspace-set-up|Set up CSM Configurable Workspace]]
-- [[csm-migrate-configurable-workspace|Migrate to CSM Configurable Workspace]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[migration-lists|Lists]]
-- [[migration-forms|Forms]]

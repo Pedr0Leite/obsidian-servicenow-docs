@@ -14,7 +14,7 @@ breadcrumb: [Additional Cloud Provisioning and Governance setup on day 2, Cloud 
 
 # Discover using Cloud Operations Workspace and Patterns
 
-You can now schedule and perform [[r-discovery|discovery]] using [[cow-landing-page|Cloud Discovery Workspace]] and Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns.
+You can now schedule and perform discovery using Cloud Discovery Workspace and Discovery and Service Mapping Patterns.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Cloud Operations Workspace is now known as Cloud Discovery Workspace or CDW.
 
 1.  Check if **Cloud Discovery Workspace** \(CDW\) is installed.
 
-2.  Navigate to **[[cloud-admin-portal|Cloud Admin Portal]]** &gt; **Manage** &gt; **Discovery Schedules** &gt; **ManageDiscovery Schedules**.
+2.  Navigate to **Cloud Admin Portal** &gt; **Manage** &gt; **Discovery Schedules** &gt; **ManageDiscovery Schedules**.
 
     Follow these scenarios for next steps.
 
@@ -86,9 +86,3 @@ Install and use the latest Discovery and Service Mapping Patterns, at least vers
 
 **Parent Topic:**[Additional Cloud Provisioning and Governance setup on day 2](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-mgt-general-setup-day-2.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[cow-landing-page|Cloud Discovery Workspace]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[cloud-admin-portal|Cloud Admin Portal]]

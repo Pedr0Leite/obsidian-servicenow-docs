@@ -14,7 +14,7 @@ breadcrumb: [Use for providers, Service Exchange for Providers, Service Exchange
 
 # Fulfill a consumer request
 
-[[tmt-service-bridge-both-landing-page|Service Exchange]] Remote Catalog items are ordered from the consumer's ServiceNow instance, and they create [[service-bridge-v2-provider-tasks|provider tasks]] in each instance. The provider's agent fulfills these provider tasks in their ServiceNow instance. The data in these tasks is synchronized between instances so that they both can track the progress.
+Service Exchange Remote Catalog items are ordered from the consumer's ServiceNow instance, and they create provider tasks in each instance. The provider's agent fulfills these provider tasks in their ServiceNow instance. The data in these tasks is synchronized between instances so that they both can track the progress.
 
 Some common Service Exchange Remote Catalog items are as follows:
 
@@ -43,16 +43,10 @@ Some common Service Exchange Remote Catalog items are as follows:
 
 9.  If the consumer accepts the resolution, the state of the provider task on the consumer's instance, and the state of the request on the provider's instance, are updated to **Closed**.
 
-**Parent Topic:**[[service-bridge-v2-administer|Using Service Exchange for providers]]
+**Parent Topic:**[Using Service Exchange for providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-administer.md)
 
 **Related topics**  
 
 
-[[service-bridge-v2-remote-catalog|Create remote catalogs in Service Exchange for providers]]
+[Create remote catalogs in Service Exchange for providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-remote-catalog.md)
 
-## Related
-
-- [[service-bridge-v2-administer|Using Service Exchange for providers]]
-- [[service-bridge-v2-remote-catalog|Create remote catalogs in Service Exchange for providers]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]
-- [[service-bridge-v2-provider-tasks|Provider tasks]]

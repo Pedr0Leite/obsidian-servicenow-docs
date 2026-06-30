@@ -14,7 +14,7 @@ breadcrumb: [Exploring Smart Assessment Engine, Smart Assessment Engine, Governa
 
 # Accessing templates in the Assessment Workspace
 
-You can see all your assessment template-related information on the Assessment Workspace landing page. You can review the published and unpublished [[airc-assessment-templates|assessment templates]] and create assessment templates by using the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] application.
+You can see all your assessment template-related information on the Assessment Workspace landing page. You can review the published and unpublished assessment templates and create assessment templates by using the Smart Assessment Engine application.
 
 ## Smart assessment workspace
 
@@ -28,7 +28,3 @@ As shown in the following example, you can view all of your published and unpubl
 
 You can create a template by selecting **New template** and filling out the Template details form. For more information, see [Create an assessment template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-asmnt-template-create.md) and [Using the template designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-template-designer.md).
 
-## Related
-
-- [[airc-assessment-templates|Assessment templates]]
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]

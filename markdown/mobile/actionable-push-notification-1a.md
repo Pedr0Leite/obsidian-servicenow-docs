@@ -29,8 +29,5 @@ The following example script creates a push notification that your users can see
 })(current, message, attributes);
 ```
 
-**Parent Topic:**[[actionable-push-notification|Configure actionable push notifications]]
+**Parent Topic:**[Configure actionable push notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/actionable-push-notification.md)
 
-## Related
-
-- [[actionable-push-notification|Configure actionable push notifications]]

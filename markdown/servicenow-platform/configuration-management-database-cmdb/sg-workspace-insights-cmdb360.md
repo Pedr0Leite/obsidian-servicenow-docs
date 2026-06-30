@@ -14,11 +14,11 @@ breadcrumb: [Insights view, Explore, Service Graph Workspace, Configuration Mana
 
 # CMDB 360 insights dashboard in Service Graph Workspace
 
-The [[multisource-cmdb|CMDB 360]] insights dashboard provides aggregations and analysis of CMDB 360 data, where you can track activities and identify potential issues of discovery sources.
+The CMDB 360 insights dashboard provides aggregations and analysis of CMDB 360 data, where you can track activities and identify potential issues of discovery sources.
 
 ## Access
 
-1.  Navigate to **Workspaces** &gt; **[[sg-workspace|Service Graph Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Graph Workspace**.
 2.  In the navigation panel, select the Insights icon.
 3.  On the Insights page navigation page, select **CMDB 360**.
 
@@ -32,7 +32,3 @@ The CMDB 360 insights page provides aggregations and analysis of CMDB 360 data w
 -   For information about all CMDB 360 dashboard settings, see [Configure the CMDB 360 dashboard in CMDB Workspace or in Service Graph Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/workspc-mltsrc-configure.md).
 -   For information about using the CMDB 360 view, see [CMDB 360 experience in CMDB Workspace and in Service Graph Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb360-exp-cmdb-workspace.md).
 
-## Related
-
-- [[multisource-cmdb|CMDB 360]]
-- [[sg-workspace|Service Graph Workspace]]

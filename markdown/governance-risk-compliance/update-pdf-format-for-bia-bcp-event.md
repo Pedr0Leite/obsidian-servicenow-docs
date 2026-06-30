@@ -22,11 +22,11 @@ The BCM admin role \(sn\_bcm.admin\) inherits Document Templates roles \(sn\_doc
 
 \[Omitted image "edit-pdf-bcm.png"\] Alt text: PDF.
 
-Verify that you have downloaded the PDF of a [[bia-uib|business impact analysis]], business continuity plan, or event according to the steps mentioned in these topics:
+Verify that you have downloaded the PDF of a business impact analysis, business continuity plan, or event according to the steps mentioned in these topics:
 
--   [[generate-pdf-for-bia|Generate BIA reports in PDF or Microsoft Word formats]]
--   [[generate-pdf-for-bcp|Generate BCP reports in PDF or Microsoft Word format]]
--   [[generate-pdf-for-events|Generate event reports in PDF or Microsoft Word]]
+-   [Generate BIA reports in PDF or Microsoft Word formats](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/generate-pdf-for-bia.md)
+-   [Generate BCP reports in PDF or Microsoft Word format](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/generate-pdf-for-bcp.md)
+-   [Generate event reports in PDF or Microsoft Word](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/generate-pdf-for-events.md)
 
 ## About this task
 
@@ -45,7 +45,7 @@ Beginning with the Xanadu release, the content in PDFs of Business Impact Analys
 
     \[Omitted image "document-templates-bcm.png"\] Alt text: Document templates for BCM.
 
-2.  To update the BIA template, select it from the [[list-view-uib-ws|list view]] and select **Edit**.
+2.  To update the BIA template, select it from the list view and select **Edit**.
 
     **Note:** To edit the PDF, save it to your local drive first, and then make your edits.
 
@@ -126,10 +126,4 @@ Select **Create New Block**.
 
 13. To print the report, open the saved PDF or Microsoft Word copy and select **Print**.
 
-## Related
 
-- [[generate-pdf-for-bia|Generate BIA reports in PDF or Microsoft Word formats]]
-- [[generate-pdf-for-bcp|Generate BCP reports in PDF or Microsoft Word format]]
-- [[generate-pdf-for-events|Generate event reports in PDF or Microsoft Word]]
-- [[bia-uib|Business impact analysis]]
-- [[list-view-uib-ws|List view]]

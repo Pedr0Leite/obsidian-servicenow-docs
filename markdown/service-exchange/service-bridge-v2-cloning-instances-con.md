@@ -24,7 +24,7 @@ The clone must be completed. For more information on cloning, see [Instance Clon
 
 ## About this task
 
-After you clone your [[tmt-service-bridge-both-landing-page|Service Exchange]], the inbound and outbound [[se-connections-tab|connections]] move to an error or down state. You must reestablish the connection between provider and consumer target instances to promote proper functionality.
+After you clone your Service Exchange, the inbound and outbound connections move to an error or down state. You must reestablish the connection between provider and consumer target instances to promote proper functionality.
 
 ## Procedure
 
@@ -50,13 +50,7 @@ After you clone your [[tmt-service-bridge-both-landing-page|Service Exchange]], 
 **Related topics**  
 
 
-[[service-bridge-v2-cloning-instances|Reestablish connection after a clone for a provider]]
+[Reestablish connection after a clone for a provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-cloning-instances.md)
 
-[[service-bridge-v2-cloning|List of preservers and exclusions tables for cloning]]
+[List of preservers and exclusions tables for cloning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-cloning.md)
 
-## Related
-
-- [[service-bridge-v2-cloning-instances|Reestablish connection after a clone for a provider]]
-- [[service-bridge-v2-cloning|List of preservers and exclusions tables for cloning]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]
-- [[se-connections-tab|Connections]]

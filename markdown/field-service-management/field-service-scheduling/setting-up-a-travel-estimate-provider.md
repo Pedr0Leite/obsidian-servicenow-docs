@@ -14,7 +14,7 @@ breadcrumb: [Create a scheduling attribute, Schedule Optimization, Setting up a 
 
 # Setting up a travel estimate provider
 
-Set up a travel estimate provider in [[schedule-optimization|Schedule Optimization]] for each of your technician groups to streamline and enhance the travel planning process.
+Set up a travel estimate provider in Schedule Optimization for each of your technician groups to streamline and enhance the travel planning process.
 
 ## Travel estimate providers
 
@@ -35,7 +35,7 @@ Property: **map\_vendor\_call\_types property**
 -   Sync: Default value.
 -   Async: Changing the default value to async can improve performance and may result in more outbound requests.
 
-For more information on properties, see [[schedule-optimization-properties|Schedule Optimization properties]].
+For more information on properties, see [Schedule Optimization properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/schedule-optimization-properties.md).
 
 ## Travel band modifiers
 
@@ -52,7 +52,4 @@ Travel band modifiers adjust travel times based on the time of day, such as duri
 
             **Note:** For example, to increase travel time during rush hour to simulate traffic not capture by the baseline values, you could set a travel band for your straight-line configuration between noon and 15:00 Monday through Friday with a multiplier of 1.2.
 
-## Related
 
-- [[schedule-optimization-properties|Schedule Optimization properties]]
-- [[schedule-optimization|Schedule Optimization]]

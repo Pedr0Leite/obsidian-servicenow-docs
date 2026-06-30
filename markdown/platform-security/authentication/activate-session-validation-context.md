@@ -14,7 +14,7 @@ breadcrumb: [Session validation context, Authentication policy contexts, Adaptiv
 
 # Activate session validation context
 
-Use [[session-context|session validation context]] to restrict access to ServiceNow® when hijackers copy a user's session cookies from one device to another to impersonate the session or restricts the user's session access if they’re using an insecure network.
+Use session validation context to restrict access to ServiceNow® when hijackers copy a user's session cookies from one device to another to impersonate the session or restricts the user's session access if they’re using an insecure network.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ To use the session validation, you must perform the following steps:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[adaptive-authentication|Adaptive Authentication]]** &gt; **[[authentication-policies|Authentication Policies]]** &gt; **All [[ca-policies|Policies]]**.
+1.  Navigate to **All** &gt; **Adaptive Authentication** &gt; **Authentication Policies** &gt; **All Policies**.
 
 2.  Select the **Session Validation Policy** in the Policies \(`sys_authentication_policy_list.do`\) page.
 
@@ -34,7 +34,7 @@ To use the session validation, you must perform the following steps:
 
 5.  Select the **Active** check box to activate the policy after you set up the Session Validation Policy is set up with policy inputs and conditions.
 
-6.  Select a **Force AuthnRequest** check box for the default [[identity-landing|identity]] provider in the sso\_properties table if the instance has SSO configured.
+6.  Select a **Force AuthnRequest** check box for the default identity provider in the sso\_properties table if the instance has SSO configured.
 
 7.  Navigate to **All** &gt; **Adaptive Authentication** &gt; **Authentication Policies** &gt; **Properties**.
 
@@ -47,10 +47,3 @@ To use the session validation, you must perform the following steps:
 
 The Session Validation feature is activated. You can configure the policy inputs and conditions for the policy to use the feature. To learn more, see [Tutorial: Configuring session validation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/use-ip-session-context.md).
 
-## Related
-
-- [[session-context|Session validation context]]
-- [[adaptive-authentication|Adaptive authentication]]
-- [[authentication-policies|Authentication policies]]
-- [[ca-policies|Policies]]
-- [[identity-landing|Identity]]

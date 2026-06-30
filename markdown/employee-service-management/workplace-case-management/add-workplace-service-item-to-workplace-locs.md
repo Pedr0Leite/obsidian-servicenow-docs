@@ -45,7 +45,7 @@ Select workplace locations where the workplace item must be available. Employees
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-case-mgmt-feat|Workplace Case Management]]** &gt; **Workplace Case Management - Setup** &gt; **[[workplace-services|Workplace services]]**.
+1.  Navigate to **All** &gt; **Workplace Case Management** &gt; **Workplace Case Management - Setup** &gt; **Workplace services**.
 
 2.  Select the workplace service in which the workplace service item is added.
 
@@ -84,7 +84,3 @@ Select workplace locations where the workplace item must be available. Employees
 
 The workplace service item is available to order at the specified locations. The cost of the workplace item at a location depends on the cost specified on its nearest workplace location in the workplace location hierarchy.
 
-## Related
-
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[workplace-services|Workplace Services]]

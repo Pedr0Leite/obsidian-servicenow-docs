@@ -14,17 +14,17 @@ breadcrumb: [Atlassian Jira Integration for Agile Development, Strategic Portfol
 
 # Setting up the integration between Jira and Agile Development 2.0
 
-Understand the setup process of [[agile-jira-integration-overview|Atlassian Jira Integration for Agile Development]] 2.0.
+Understand the setup process of Atlassian Jira Integration for Agile Development 2.0.
 
 After you have the application installed in your ServiceNow instance, you can proceed to set up the integration, using the sn\_jira\_int.user role.
 
 The setup process for the integration includes the following tasks:
 
-1.  Connect [[agile-landing-page|Agile Development 2.0]] with Jira.
+1.  Connect Agile Development 2.0 with Jira.
 2.  Discover and import available projects and boards from Jira.
 3.  Enable import and export of issues and import issues in bulk from Jira projects to Agile Development 2.0.
-4.  Associate Jira projects with [[manage-groups-agile-dev|assignment groups in Agile Development 2.0]].
-5.  [[import-sprints-to-agile-2-from-jira-board|Import sprints from Jira to Agile Development 2.0]].
+4.  Associate Jira projects with assignment groups in Agile Development 2.0.
+5.  Import sprints from Jira to Agile Development 2.0.
 6.  Enable a scheduled job to periodically import projects and issues from Jira.
 7.  Create custom map configurations for tables, fields, and workflow states between Jira and Agile Development 2.0.
 
@@ -45,9 +45,3 @@ Reset the existing mapping configuration for multiple Jira projects to a default
 
 **Parent Topic:**[Atlassian Jira Integration for Agile Development](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/atlassian-jira-integrations-common/agile-jira-integration-overview.md)
 
-## Related
-
-- [[agile-jira-integration-overview|Atlassian Jira Integration for Agile Development]]
-- [[agile-landing-page|Agile Development 2.0]]
-- [[manage-groups-agile-dev|Assignment groups in Agile Development 2.0]]
-- [[import-sprints-to-agile-2-from-jira-board|Import sprints from Jira to Agile Development 2.0]]

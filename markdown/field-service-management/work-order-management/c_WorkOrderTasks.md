@@ -20,7 +20,7 @@ A work order contains one or more work order tasks. These tasks allow qualifiers
 
 When a user with the wm\_qualifier role or a qualifier combination role moves a work order from **Draft** to **Awaiting Qualification**, a work order task is automatically created and populated with information from the work order. This user can edit existing tasks or create new tasks at any time.
 
-A key feature in [[fsm-application-landing-page|Field Service Management]] is the ability to create multiple work order tasks under a single work order. Splitting a work order into separate tasks, when necessary, enables qualifiers to:
+A key feature in Field Service Management is the ability to create multiple work order tasks under a single work order. Splitting a work order into separate tasks, when necessary, enables qualifiers to:
 
 -   Assign different aspects of a single work order to different agents.
 -   Assign work to agents with different skill sets.
@@ -31,6 +31,3 @@ A key feature in [[fsm-application-landing-page|Field Service Management]] is th
 -   Schedule additional tasks, if necessary, to complete the work order.
 -   Coordinate the arrival and usage of the parts required to complete a work order.
 
-## Related
-
-- [[fsm-application-landing-page|Field Service Management]]

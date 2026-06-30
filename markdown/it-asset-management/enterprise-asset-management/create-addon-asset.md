@@ -22,7 +22,7 @@ Role required: sn\_eam.enterprise\_admin
 
 ## Procedure
 
-1.  Navigate to **[[using-eam-workspace|Enterprise Asset Workspace]]** and select either **Enterprise asset estate** or **Enterprise model management** to access the **Child Assets** related list tab.
+1.  Navigate to **Enterprise Asset Workspace** and select either **Enterprise asset estate** or **Enterprise model management** to access the **Child Assets** related list tab.
 
 2.  Select **Add** to select assets from a stockroom.
 
@@ -40,6 +40,3 @@ Role required: sn\_eam.enterprise\_admin
 
 **Parent Topic:**[Create and manage enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-manage-enterprise-assets.md)
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]

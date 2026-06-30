@@ -14,14 +14,14 @@ breadcrumb: [Modeling an Operational Technology system service, Use, Operational
 
 # Create an Operational Technology system service
 
-Create an [[operational-technology-overview|Operational Technology]] \(OT\) system service to model a distributed control system \(DCS\) and all of its related components, such as control modules and programming logic controls \(PLCs\).
+Create an Operational Technology \(OT\) system service to model a distributed control system \(DCS\) and all of its related components, such as control modules and programming logic controls \(PLCs\).
 
 ## About this task
 
 You can create an OT system service in the following locations:
 
 -   ServiceNow AI Platform in the **OT Systems** list
--   Industrial [[industrial-workspace-for-operational-technology|Industrial Workspace]] list view
+-   Industrial Industrial Workspace list view
 
 ## Before you begin
 
@@ -278,7 +278,3 @@ Now you can add OT devices to the system service. For more information, see [Add
 
 **Parent Topic:**[Modeling an Operational Technology system service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/modeling-ot-system.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

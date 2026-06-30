@@ -14,13 +14,13 @@ breadcrumb: [Incident Management, IT Service Management]
 
 # Managing major incidents
 
-A major incident \(MI\) is an incident that results in significant disruption to the business. A major incident demands a response beyond the routine [[c_IncidentManagement|incident management]] process. Major incidents have a separate procedure with shorter timescales and higher priority, so that there is a faster resolution process for incidents with high business impact.
+A major incident \(MI\) is an incident that results in significant disruption to the business. A major incident demands a response beyond the routine incident management process. Major incidents have a separate procedure with shorter timescales and higher priority, so that there is a faster resolution process for incidents with high business impact.
 
 \[Omitted video\] Description: Introduction to Major Incident Management
 
 The definition of what constitutes a major incident must be determined and agreed on. For example, a major incident can be created if a critical business service is impacted or if there is a service outage that affects many users.
 
-There are multiple ways to [[create-major-incident-candidate|create a major incident candidate]], such as the following:
+There are multiple ways to create a major incident candidate, such as the following:
 
 -   Propose an incident as a major incident candidate by clicking **Propose Major Incident** from the context menu of the Incident form.
 -   Create a new major incident candidate by clicking **Create Major Incident Candidate** from the left navigation pane.
@@ -39,27 +39,17 @@ When responding to a major incident, some crucial actions involve finding the ri
 -   **[Major Incident Management process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/major-incident-management-process.md)**  
 A major incident is a highest-impact, highest-urgency incident that affects a large number of users, depriving the business of one or more crucial services. Given the urgency of the situation, a well-coordinated response process is required to accelerate the resolution and minimize the business impact.
 -   **[Major Incident Management plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/mim-plugins.md)**  
-You can activate the [[mim-plugins|Major Incident Management plugins]] if you have the admin role.
+You can activate the Major Incident Management plugins if you have the admin role.
 -   **[Quick start tests for Major Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/quick-start-tests-mim.md)**  
 Validate that Major Incident Management still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
 -   **[Create trigger rules for major incidents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/major-incident-trigger-rules.md)**  
 Create trigger rules to define the conditions under which a trigger action is executed. You can create major incident trigger rules to define the conditions under which an incident is automatically considered as a major incident candidate.
 -   **[Working on major incident management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/work-on-mim.md)**  
-The section covers topics that help you with a variety of technical concepts related to major incident management such as the different ways to [[create-a-major-incident|create a major incident]], ways to reject a major incident candidate, [[demote-major-incident|demote a major incident]], or [[close-major-incident|close a major incident]].
+The section covers topics that help you with a variety of technical concepts related to major incident management such as the different ways to create a major incident, ways to reject a major incident candidate, demote a major incident, or close a major incident.
 -   **[Major incident workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/major-incident-workbench.md)**  
-The [[major-incident-workbench|major incident workbench]] is a single pane view designed for major incident managers, communication managers, and resolver groups. The workbench helps to manage major incidents by aggregating and providing actionable information.
+The major incident workbench is a single pane view designed for major incident managers, communication managers, and resolver groups. The workbench helps to manage major incidents by aggregating and providing actionable information.
 -   **[Legacy: Major incident overview dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/major-incident-overview.md)**  
-[[major-incident-overview|Major Incident Overview]] module provides two versions of the Performance Analytics \(PA\) Dashboard to review major incident information at a glance.
+Major Incident Overview module provides two versions of the Performance Analytics \(PA\) Dashboard to review major incident information at a glance.
 
 **Parent Topic:**[Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/c_IncidentManagement.md)
 
-## Related
-
-- [[c_IncidentManagement|Incident Management]]
-- [[create-major-incident-candidate|Create a major incident candidate]]
-- [[mim-plugins|Major Incident Management plugins]]
-- [[create-a-major-incident|Create a major incident]]
-- [[demote-major-incident|Demote a major incident]]
-- [[close-major-incident|Close a major incident]]
-- [[major-incident-workbench|Major incident workbench]]
-- [[major-incident-overview|major incident overview]]

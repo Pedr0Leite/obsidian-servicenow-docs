@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Strategic Planning, Reference, Portfolio
 
 # List Applicability form
 
-Learn the field information for the [[list-applicability-form-portfolio-planning|List Applicability form]]. Use this information to define audience for the newly created lists for [[alignment-planner-workspace-landing-page|Strategic Planning]] workspace.
+Learn the field information for the List Applicability form. Use this information to define audience for the newly created lists for Strategic Planning workspace.
 
 <table id="table_swd_cly_2wb"><thead><tr><th>
 
@@ -38,7 +38,7 @@ Application
 
 </td><td>
 
-This field is set to **[[portfolio-planning-app-landing-page|Portfolio Planning]]** by default.
+This field is set to **Portfolio Planning** by default.
 
 </td></tr><tr><td>
 
@@ -59,8 +59,3 @@ Option to enable this applicability to the list.
 </td></tr></tbody>
 </table>**Parent Topic:**[Form field information for Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/form-field-information-for-strategic-planning.md)
 
-## Related
-
-- [[list-applicability-form-portfolio-planning|List Applicability form]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

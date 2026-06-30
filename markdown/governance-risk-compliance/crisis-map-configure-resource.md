@@ -22,7 +22,7 @@ Set up the Google maps for enabling the crisis map functionality. For more infor
 
 ## Procedure
 
-1.  Navigate to **Threat and Alert Data Feeds** &gt; **[[Administration|Administration]]** &gt; **Resource Configurations**.
+1.  Navigate to **Threat and Alert Data Feeds** &gt; **Administration** &gt; **Resource Configurations**.
 
 2.  To add a new scheduled data import, click **New**.
 
@@ -46,6 +46,4 @@ Set up the Google maps for enabling the crisis map functionality. For more infor
 
 4.  Click **Submit**.
 
-## Related
 
-- [[Administration|Administration]]

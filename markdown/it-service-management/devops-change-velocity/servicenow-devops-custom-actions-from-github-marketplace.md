@@ -26,7 +26,7 @@ Save the SonarQube scan results of a project initiated by the workflow run in yo
 
 View the SonarQube analysis results using one of the following methods:
 
--   Navigate to **DevOps** &gt; **[[dev-ops-software-quality-results|Software Quality Results]]** &gt; **Software Quality Summary**.
+-   Navigate to **DevOps** &gt; **Software Quality Results** &gt; **Software Quality Summary**.
 -   Navigate to **DevOps** &gt; **Orchestrate** &gt; **Task Execution** and selecting a relevant **Task Execution** record.
 
 Perform the following tasks to use the custom action.
@@ -89,7 +89,7 @@ Perform the following tasks to use the custom action.
 
 ## ServiceNow DevOps Change Automation custom action
 
-[[t_CreateAChange|Create a change request]] in the ServiceNow instance to pause and resume the workflow run from the ServiceNow instance.
+Create a change request in the ServiceNow instance to pause and resume the workflow run from the ServiceNow instance.
 
 Use the ServiceNow DevOps Change Automation custom action at steps level of job in the workflow. If the change is not created within the time period specified in the threshold \(changeCreationTimeOut\), and the **abortOnChangeCreationFailure** parameter is enabled, the pipeline will be aborted.
 
@@ -121,7 +121,7 @@ The following change request details are displayed:
 
 **Note:** **changeState** is the state of the change request, and **status** is the status of the step execution.
 
-The logs for policy conditions will be displayed for the base system [[change-flows|change flows]] as follows:
+The logs for policy conditions will be displayed for the base system change flows as follows:
 
 -   DevOps Model Change Policy: Only logs will be displayed on change creation and when the change state is updated.
 -   DevOps Change Request Minimal Automation Policy: Logs along with change decision and policy conditions corresponding to the change decision will be displayed.
@@ -183,13 +183,7 @@ The [ServiceNow DevOps Update Change Github Action](https://github.com/ServiceNo
 
 ## ServiceNow DevOps Security Results Action
 
-Retrieve [[security-tool-framework|security scan results]] in ServiceNow.
+Retrieve security scan results in ServiceNow.
 
 The [ServiceNow DevOps Security Results Action](https://github.com/ServiceNow/servicenow-devops-security-result) custom action must be added at the step level in a pipeline job to retrieve security scan results in ServiceNow.
 
-## Related
-
-- [[dev-ops-software-quality-results|Software Quality Results]]
-- [[t_CreateAChange|Create a change request]]
-- [[change-flows|Change flows]]
-- [[security-tool-framework|Security scan results]]

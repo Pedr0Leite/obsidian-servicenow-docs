@@ -12,7 +12,7 @@ breadcrumb: [Email encryption, Email Administration, Notifications, Configure co
 
 # Activate S/MIME Email
 
-You can activate the S/MIME Email plugin \(com.glide.email.smime\) for [[notifications|Notifications]] if you have the admin role.
+You can activate the S/MIME Email plugin \(com.glide.email.smime\) for Notifications if you have the admin role.
 
 ## Before you begin
 
@@ -30,23 +30,17 @@ Role required: admin
 
     **Note:** When domain separation and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
 
-    You will see a message after installation is completed. For information about the components installed with a plugin, see [[find-components|Find components installed with an application]].
+    You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
 
 ## What to do next
 
-[[import-smime-key-pair|Import an S/MIME key pair]]
+[Import an S/MIME key pair](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/import-smime-key-pair.md)
 
-**Parent Topic:**[[smime-inbound-outbound-mails|Email encryption - S/MIME protocol]]
+**Parent Topic:**[Email encryption - S/MIME protocol](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/smime-inbound-outbound-mails.md)
 
 **Related topics**  
 
 
 [Setting up S/MIME for email]()
 
-## Related
-
-- [[find-components|Find components installed with an application]]
-- [[import-smime-key-pair|Import an S/MIME key pair]]
-- [[smime-inbound-outbound-mails|Email encryption - S/MIME protocol]]
-- [[notifications|Notifications]]

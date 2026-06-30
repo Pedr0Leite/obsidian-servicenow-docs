@@ -26,7 +26,7 @@ Before you start, confirm the following:
 
 ## About this task
 
-Enterprise Search gives you one place to find any content connected to [[employee-slate-landing-page|Employee Slate]]. Content includes formal knowledge and employee-created content, such as SharePoint files or email messages. For how search sits alongside the AI assistant, see [Enterprise Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/empworks-moveworks-capabilities.md).
+Enterprise Search gives you one place to find any content connected to Employee Slate. Content includes formal knowledge and employee-created content, such as SharePoint files or email messages. For how search sits alongside the AI assistant, see [Enterprise Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/empworks-moveworks-capabilities.md).
 
 ## Procedure
 
@@ -45,14 +45,10 @@ Enterprise Search gives you one place to find any content connected to [[employe
     -   **Type**: Limit the results to a content type, such as documents, Slack threads, or training guides.
 5.  Ask a follow-up question or take action, select **Dive Deeper**.
 
-    The AI assistant picks up where the search left off, with the full context already loaded. Ask a follow-up question such as `Who is the presales expert for manufacturing?`. The assistant surfaces the person and the source [[reference-hr-service-delivery-advanced-integration-with-workday|reference]].
+    The AI assistant picks up where the search left off, with the full context already loaded. Ask a follow-up question such as `Who is the presales expert for manufacturing?`. The assistant surfaces the person and the source reference.
 
 
 ## Result
 
 You find relevant content across every connected source in one search. The **Dive Deeper** action turns a discovery session into a continued conversation with the AI assistant, without restating the context.
 
-## Related
-
-- [[employee-slate-landing-page|Employee Slate]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

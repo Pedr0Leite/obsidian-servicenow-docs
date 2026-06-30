@@ -23,20 +23,16 @@ Use the carousel widget to showcase items on your portal page. For example, disp
 **Note:** For Employee Center Pro, use Content Experiences widget to showcase actionable communications content on your employee portal. .
 
 -   **[Add slides to the carousel widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/add-slides-carousel-widget.md)**  
-Use the [[c_RelatedLists|related lists]] for an instance of the carousel widget to add images for the carousel widget to scroll through.
+Use the related lists for an instance of the carousel widget to add images for the carousel widget to scroll through.
 
 **Parent Topic:**[Example widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sp-example-widgets.md)
 
 **Related topics**  
 
 
-[Create and edit a page using the [[c_ServicePortal|Service Portal]] Designer]()
+[Create and edit a page using the Service Portal Designer]()
 
 [Configure widget instances]()
 
 [Clone a widget]()
 
-## Related
-
-- [[c_RelatedLists|Related lists]]
-- [[c_ServicePortal|Service Portal]]

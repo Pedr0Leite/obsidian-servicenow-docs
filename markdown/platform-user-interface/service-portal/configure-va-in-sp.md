@@ -28,7 +28,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ServicePortal|Service Portal]]** &gt; **Agent Chat**.
+1.  Navigate to **All** &gt; **Service Portal** &gt; **Agent Chat**.
 
     The Service Portal Agent Chat Configurations \[sp\_agent\_chat\_config\] table opens.
 
@@ -138,13 +138,13 @@ You can change the color and images that are used in the Agent Chat button in yo
 
 ### Before you begin
 
-If you plan to replace one or both of the images that are used in the Agent Chat button, upload the images to your instance. For more information on uploading an image, see [[c_StoringImagesInTheDatabase|Storing images in the database]].
+If you plan to replace one or both of the images that are used in the Agent Chat button, upload the images to your instance. For more information on uploading an image, see [Storing images in the database](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_StoringImagesInTheDatabase.md).
 
 Role required: sp\_admin or admin
 
 ### About this task
 
-You can [[configure-onboarding-modals|configure]] the following elements of the Agent Chat button:
+You can configure the following elements of the Agent Chat button:
 
 -   The image to indicate that the chat window is open
 -   The image to indicate that the chat window is closed
@@ -177,7 +177,7 @@ Description
 </td><td>
 
 Image to indicate that the chat window is closed. Use an image URL that contains:-   Your instance address
--   The name of the Image \[db\_image\] record to [[onboarding-modals-reference|reference]]
+-   The name of the Image \[db\_image\] record to reference
 For example, to reference the `tack-icon.png` image in the database, enter the following:```
 $sp-agent-chat-btn-close: url("https://<instance-name>.service-now.com/tack-icon.png");
 ```
@@ -275,7 +275,7 @@ Widget instances are removed from individual portal pages. Instead, the portal a
 
 ## Pass page data to Agent Chat
 
-Use the spContextManager class in a widget client script to pass dynamic page data to Agent Chat. For example, pass the number of approvals in the [[approvals-widget|Approvals widget]] to Agent Chat when a user initiates a conversation from the Service Portal homepage.
+Use the spContextManager class in a widget client script to pass dynamic page data to Agent Chat. For example, pass the number of approvals in the Approvals widget to Agent Chat when a user initiates a conversation from the Service Portal homepage.
 
 ### Before you begin
 
@@ -352,7 +352,7 @@ Adding the **Chat Queue** field to a portal record adds the Live Chat link to th
 
 ### Procedure
 
-1.  In the [[service-portal-configuration-page|Service Portal configuration page]], navigate to **Portal Tables** &gt; **Instance with Menu**.
+1.  In the Service Portal configuration page, navigate to **Portal Tables** &gt; **Instance with Menu**.
 
 2.  Open the record for your portal's header menu.
 
@@ -393,11 +393,3 @@ Adding the **Chat Queue** field to a portal record adds the Live Chat link to th
 
 When you navigate to the portal, **Live Chat** does not appear in the header menu.
 
-## Related
-
-- [[c_StoringImagesInTheDatabase|Storing images in the database]]
-- [[c_ServicePortal|Service Portal]]
-- [[configure-onboarding-modals|Configure]]
-- [[onboarding-modals-reference|Reference]]
-- [[approvals-widget|Approvals widget]]
-- [[service-portal-configuration-page|Service Portal configuration page]]

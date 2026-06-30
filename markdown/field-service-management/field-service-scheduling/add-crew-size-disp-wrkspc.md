@@ -28,7 +28,7 @@ The default minimum crew size is two for work order tasks created using the work
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fsm-application-landing-page|Field Service Management]]** &gt; **Dispatching** &gt; **[[dispatcher-activities|Dispatcher Workspace]]**.
+1.  Navigate to **All** &gt; **Field Service Management** &gt; **Dispatching** &gt; **Dispatcher Workspace**.
 
 2.  Click the **List** icon \(\[Omitted image "list-icon-black.png"\] Alt text: List icon.\).
 
@@ -44,7 +44,4 @@ The default minimum crew size is two for work order tasks created using the work
     -   The minimum crew size should be equal to or greater than two.
 6.  Click **Save**.
 
-## Related
 
-- [[fsm-application-landing-page|Field Service Management]]
-- [[dispatcher-activities|Dispatcher Workspace]]

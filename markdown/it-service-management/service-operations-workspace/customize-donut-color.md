@@ -24,9 +24,9 @@ Role required: admin
 
 Donut area colors are based on the element that the donut is grouped by.
 
--   Tier-1 [[dex-workspace-dashboard-tab|landing page]]
+-   Tier-1 landing page
     -   In the **Incidents assigned to me** card, the donut is grouped by the state of incidents.
-    -   In the **[[process-unassigned-incident|Unassigned incidents]]** card, the donut is grouped by the priority of incidents.
+    -   In the **Unassigned incidents** card, the donut is grouped by the priority of incidents.
     -   In the **Catalog tasks assigned to me** card, the donut is grouped by the state of catalog tasks.
     -   In the **Incident SLAs** card, the donut is grouped by the time left after which the incidents will breach SLA.
 -   Tier-2 landing page
@@ -44,7 +44,7 @@ Donut area colors are based on the element that the donut is grouped by.
     -   Catalog tasks assigned to me
     1.  Navigate to **Reports** &gt; **Administration** &gt; **Chart Colors**
 
-    2.  In the Chart Colors list, [[filter-records-agent-mobile|filter records]] based on the card that you want to customize and select a record.
+    2.  In the Chart Colors list, filter records based on the card that you want to customize and select a record.
 
         1.  To customize the color of the **Incidents assigned to me** card, filter records with **Name** as **incident** and **Element** as **state**.
         2.  To customize the color of the **Unassigned incidents** card, filter records with **Name** as **incident** and **Element** as **priority**.
@@ -82,8 +82,3 @@ Donut area colors are based on the element that the donut is grouped by.
 
 **Parent Topic:**[Landing page configurations in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/landing-page-configurations-sow-itsm.md)
 
-## Related
-
-- [[dex-workspace-dashboard-tab|Landing page]]
-- [[process-unassigned-incident|Unassigned incidents]]
-- [[filter-records-agent-mobile|Filter records]]

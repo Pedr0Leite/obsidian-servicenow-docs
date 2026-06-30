@@ -14,7 +14,7 @@ breadcrumb: [Associate a schedule with an equipment model entity, Managing an eq
 
 # View a schedule for the equipment model entity
 
-View a schedule for an existing equipment model entity in the [[industrial-process-manager-overview|Industrial Process Manager]] application.
+View a schedule for an existing equipment model entity in the Industrial Process Manager application.
 
 ## Before you begin
 
@@ -37,12 +37,8 @@ You can view equipment model entity schedules in two places depending on where y
     4.  View the downtime slots for that equipment model entity.
 2.  To view the equipment model entity schedules in the Planned Downtime module, do these actions:
 
-    1.  Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]] Admin** &gt; **Industrial Process Manager** &gt; **Planned Downtime**.
+    1.  Navigate to **All** &gt; **Industrial Workspace Admin** &gt; **Industrial Process Manager** &gt; **Planned Downtime**.
     2.  View the association of the schedules and equipment model entities.
 
 **Parent Topic:**[Associate a schedule with an equipment model entity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/associate-schedules-with-equipment-model-entity.md)
 
-## Related
-
-- [[industrial-process-manager-overview|Industrial Process Manager]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

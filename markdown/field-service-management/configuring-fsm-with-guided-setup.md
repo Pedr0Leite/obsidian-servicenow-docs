@@ -12,7 +12,7 @@ breadcrumb: [Plan implementation, Configure, Field Service Management]
 
 # Configuring Field Service Management using Guided Setup
 
-The [[simplified-setup|Field Service Management Guided Setup]] provides a sequence of tasks that help you import and configure the foundation data for [[fsm-application-landing-page|Field Service Management]] on your ServiceNow instance.
+The Field Service Management Guided Setup provides a sequence of tasks that help you import and configure the foundation data for Field Service Management on your ServiceNow instance.
 
 ## Before you begin
 
@@ -36,10 +36,6 @@ Use guided setup to step through the initial Field Service Management configurat
 
 4.  Select **Mark as Complete** when you complete a task.
 
-    For more information on the roles required to perform the guided setup, see [[roles-required-for-field-service-guided-setup|Roles required for Field Service Guided Setup]].
+    For more information on the roles required to perform the guided setup, see [Roles required for Field Service Guided Setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/roles-required-for-field-service-guided-setup.md).
 
-## Related
 
-- [[roles-required-for-field-service-guided-setup|Roles required for Field Service Guided Setup]]
-- [[simplified-setup|Field Service Management Guided Setup]]
-- [[fsm-application-landing-page|Field Service Management]]

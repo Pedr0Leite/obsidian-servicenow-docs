@@ -14,7 +14,7 @@ breadcrumb: [Configure Appointment Booking, Configuring Appointment Booking, Add
 
 # Configure an appointment booking record producer
 
-Configure an appointment booking record producer and enable the [[appointment-booking|appointment booking]] variable set to display the correct fields in that record producer.
+Configure an appointment booking record producer and enable the appointment booking variable set to display the correct fields in that record producer.
 
 ## Before you begin
 
@@ -40,6 +40,4 @@ The variable set **sn\_appointment\_variable\_set** adds Calendar component to t
 
 5.  Click **Save**.
 
-## Related
 
-- [[appointment-booking|Appointment booking]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, Proactive Engagement, Digital End-User Experience, IT Se
 
 # User Criteria Settings
 
-User criteria settings details the [[settings-mobile|settings]] in [[proactive-engagement-landing-page|Proactive Engagement]] to group the users for certain conditions.
+User criteria settings details the settings in Proactive Engagement to group the users for certain conditions.
 
 You can access user criteria settings through **All** &gt; **Proactive Engagement** &gt; **User Criteria Settings**. User criteria includes or excludes a user or certain group of users from receiving PE notifications. User criteria helps in grouping the users based on certain conditions such as role, location, department, or Business unit and so on. Once the user criteria is created, the users are excluded or included as per the defined criteria. As a prerequisite, set the role to Engagement admins `sn_pren.engagement_admin` to be able to set the user criteria. The criteria for user settings are applied at the framework level rather than the use case level. Once these criteria are established, notifications will be enabled/disabled corresponding to the criteria set.
 
@@ -63,7 +63,3 @@ Yes/No
 </td></tr></tbody>
 </table>**Parent Topic:**[Configuring Proactive Engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/proactive-engagement/configuring-proactive-engagement.md)
 
-## Related
-
-- [[settings-mobile|Settings]]
-- [[proactive-engagement-landing-page|Proactive Engagement]]

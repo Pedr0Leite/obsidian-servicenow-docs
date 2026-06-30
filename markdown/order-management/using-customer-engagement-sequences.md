@@ -22,9 +22,9 @@ Empower sales teams to automate and optimize customer engagement at every stage 
 
 -   **Sales: Propose and transact**
 
-    During the active sales cycle, sequences automate workflows for [[opportunity-management|opportunity management]], proposal delivery, and order confirmation. Agents are prompted by a guided process to conduct discovery calls, send proposals, and confirm orders. With decision-based steps, if a prospect doesn’t respond, the workflow adapts, perhaps by scheduling another follow-up or offering a different product. This stage can also include onboarding new customers for a smooth transition from prospect to client.
+    During the active sales cycle, sequences automate workflows for opportunity management, proposal delivery, and order confirmation. Agents are prompted by a guided process to conduct discovery calls, send proposals, and confirm orders. With decision-based steps, if a prospect doesn’t respond, the workflow adapts, perhaps by scheduling another follow-up or offering a different product. This stage can also include onboarding new customers for a smooth transition from prospect to client.
 
--   **Post-Sales: Fulfill, service, [[Renew|renew]] and expand**
+-   **Post-Sales: Fulfill, service, renew and expand**
 
     After the sale, sequences support onboarding, proactive customer service, and product adoption. For instance, a sequence might prompt an account manager to schedule a welcome call, share service usage tips, or send outage notifications and updates. Maintenance reminders, upgrade offers, and renewal sequences help keep customers engaged and informed. Sequences can also be configured to recommend upsell or cross-sell opportunities such as suggesting additional products during a renewal conversation or after successful onboarding.
 
@@ -35,7 +35,7 @@ Empower sales teams to automate and optimize customer engagement at every stage 
 
 ## Sample use cases
 
-The following sample [[use-cases|use cases]] provide examples on how you can use [[explore-customer-engagement-sequences|Customer Engagement Sequences]] to support your sales teams:
+The following sample use cases provide examples on how you can use Customer Engagement Sequences to support your sales teams:
 
 -   **Cold prospecting**
 
@@ -92,34 +92,21 @@ The following sample [[use-cases|use cases]] provide examples on how you can use
     For example, during a renewal or check-in, the workflow suggests relevant upgrades or add-ons, and prompts the agent to present these offers to the customer.
 
 
--   **[[create-customer-engagement-sequence|Create a customer engagement sequence]]**  
+-   **[Create a customer engagement sequence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-customer-engagement-sequence.md)**  
 Drive personalized outreach by creating customer engagement sequences that automate timely, relevant interactions that are ideal for nurturing leads, onboarding clients, or re-engaging inactive customers.
--   **[[view-sequence-design-time|Review sequences in Workflow Studio]]**  
+-   **[Review sequences in Workflow Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/view-sequence-design-time.md)**  
 Review sequences in Workflow Studio so you can suggest optimizations and share high-performing sequences across territories to promote best practices across the organization.
--   **[[view-sequence-tasks|View sequence tasks]]**  
+-   **[View sequence tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/view-sequence-tasks.md)**  
 View sequence tasks assigned to you from the CSM Configurable Workspace.
--   **[[execute-sequence-steps|Complete predefined customer engagement tasks]]**  
+-   **[Complete predefined customer engagement tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/execute-sequence-steps.md)**  
 Execute predefined sequence steps in your sequence tasks in the CSM Configurable Workspace to engage with your prospective customers.
--   **[[complete-telesales-sequences|Fulfill a telesales sequence]]**  
+-   **[Fulfill a telesales sequence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/complete-telesales-sequences.md)**  
 Connect with leads or customers using the click-to-call outbound calling capability in telesales flows.
 
-**Parent Topic:**[[using-lead-opportunity-mgt|Using lead and opportunity management applications]]
+**Parent Topic:**[Using lead and opportunity management applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-lead-opportunity-mgt.md)
 
 **Related topics**  
 
 
-[[configuring-customer-engagement-sequences|Configuring Customer Engagement Sequences]]
+[Configuring Customer Engagement Sequences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configuring-customer-engagement-sequences.md)
 
-## Related
-
-- [[create-customer-engagement-sequence|Create a customer engagement sequence]]
-- [[view-sequence-design-time|Review sequences in Workflow Studio]]
-- [[view-sequence-tasks|View sequence tasks]]
-- [[execute-sequence-steps|Complete predefined customer engagement tasks]]
-- [[complete-telesales-sequences|Fulfill a telesales sequence]]
-- [[using-lead-opportunity-mgt|Using lead and opportunity management applications]]
-- [[configuring-customer-engagement-sequences|Configuring Customer Engagement Sequences]]
-- [[opportunity-management|Opportunity Management]]
-- [[Renew|Renew]]
-- [[use-cases|Use cases]]
-- [[explore-customer-engagement-sequences|Customer Engagement Sequences]]

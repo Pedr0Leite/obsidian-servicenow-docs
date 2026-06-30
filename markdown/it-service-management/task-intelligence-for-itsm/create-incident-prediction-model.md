@@ -14,7 +14,7 @@ breadcrumb: [Manage, Task Intelligence for ITSM, IT Service Management]
 
 # Create an incident prediction model in Task Intelligence for ITSM
 
-Create and deploy solution-based incident categorization prediction [[c_Models|models]] to predict incidents fields for new IT service incidents.
+Create and deploy solution-based incident categorization prediction models to predict incidents fields for new IT service incidents.
 
 With an incident field prediction model, you can choose what the model uses to predict information. If you're an admin, you can decide when you want it to make predictions, what you want it to predict, and what data to use for those predictions. You can select the following information:
 
@@ -29,12 +29,12 @@ The model uses previous case records to train. You can see how the model would h
 
 ## Base system model
 
-[[c-itsm-task-intelligence|Task Intelligence for ITSM]] comes with a base system which has following models based on similarity:
+Task Intelligence for ITSM comes with a base system which has following models based on similarity:
 
 -   Similar Incidents: For predicting the similar incidents for incidents table.
 -   Similar open Change Requests for Incident: For predicting the similar change requests for incident table.
 -   Similar open Problems for Incident: For predicting the similar problems for incident table.
--   Major Incident Recommendation: For recommending similar [[process-misingle|active major incidents]] which the current incident can be linked to, and for recommending that you propose similar incidents as a major incident.
+-   Major Incident Recommendation: For recommending similar active major incidents which the current incident can be linked to, and for recommending that you propose similar incidents as a major incident.
 
 When you install the Task Intelligence for ITSM plugin in your production instance, the model is installed and is trained on your data automatically. This model is auto-deployed. The model starts predicting data in the background and doesn’t impact the Incident form.
 
@@ -47,13 +47,7 @@ This model is linked with a base system rule in the Recommended Actions for ITSM
 To set up a new model using a template, see [Set up your incident prediction model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/set-up-model.md).
 
 -   **[Set up your incident prediction model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/set-up-model.md)**  
-Use Task Intelligence for ITSM to [[set-up-model|set up your incident prediction model]] and train it with your data to make predictions. Access your model's performance results, set the prediction preferences and behavior, and deploy your model.
+Use Task Intelligence for ITSM to set up your incident prediction model and train it with your data to make predictions. Access your model's performance results, set the prediction preferences and behavior, and deploy your model.
 
 **Parent Topic:**[Managing Task Intelligence for ITSM models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/using-task-intelligence-itsm.md)
 
-## Related
-
-- [[c_Models|Models]]
-- [[c-itsm-task-intelligence|Task Intelligence for ITSM]]
-- [[process-misingle|Active major incidents]]
-- [[set-up-model|Set up your incident prediction model]]

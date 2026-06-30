@@ -14,7 +14,7 @@ breadcrumb: [Employee Center global header, Admin configurations, Configuring Em
 
 # Enable or disable global header options
 
-Enable or disable the global header options by configuring additional options in JSON format for the [[employee-center-landing-page|Employee Center]] menu record.
+Enable or disable the global header options by configuring additional options in JSON format for the Employee Center menu record.
 
 ## Before you begin
 
@@ -149,6 +149,4 @@ Default value: True
 
 6.  Click **Update**.
 
-## Related
 
-- [[employee-center-landing-page|Employee Center]]

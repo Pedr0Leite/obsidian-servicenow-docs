@@ -22,7 +22,7 @@ Role required: pf\_user
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** and select **Feedback**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** and select **Feedback**.
 
 2.  Create a feedback filter.
 
@@ -68,7 +68,3 @@ From the feedback page:
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

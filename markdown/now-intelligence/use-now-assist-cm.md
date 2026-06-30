@@ -12,12 +12,12 @@ breadcrumb: [Dashboard Summary, Now Assist in Platform Analytics, Platform Analy
 
 # Using Dashboard Summary
 
-Enable users of [[par-workspace|Platform Analytics experience]] dashboards to generate summaries of a dashboard's content using AI.
+Enable users of Platform Analytics experience dashboards to generate summaries of a dashboard's content using AI.
 
-**Note:** The following [[dashboard-elements|dashboard elements]] aren't supported in the Dashboard Summary:
+**Note:** The following dashboard elements aren't supported in the Dashboard Summary:
 
--   [[process-mining|Process Mining]] - Map
--   [[user-exp-analytics-landing|Usage Insights]] Funnel
+-   Process Mining - Map
+-   Usage Insights Funnel
 -   iFrame
 
 ## Summarize a dashboard
@@ -46,9 +46,3 @@ Select **Refine** to shorten, elaborate, or change the tone of a generated summa
 
 Select the Thumbs up/Thumbs down icons \[Omitted image "icon-thumbs.png"\]to provide feedback on the summary.
 
-## Related
-
-- [[par-workspace|Platform Analytics experience]]
-- [[dashboard-elements|Dashboard elements]]
-- [[process-mining|Process Mining]]
-- [[user-exp-analytics-landing|Usage Insights]]

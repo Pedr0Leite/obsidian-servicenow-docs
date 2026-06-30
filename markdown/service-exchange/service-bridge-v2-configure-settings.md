@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[tmt-service-bridge-both-landing-page|Service Exchange]] Provider** &gt; **Consumers**.
+1.  Navigate to **All** &gt; **Service Exchange Provider** &gt; **Consumers**.
 
 2.  Open the appropriate Consumer Connection form.
 
@@ -38,9 +38,5 @@ Role required: admin
     **Note:** You can view the settings defined in the Remote Record Producers and Remote Task Definitions tabs but cannot modify them.
 
 
-**Parent Topic:**[[service-bridge-v2-administer|Using Service Exchange for providers]]
+**Parent Topic:**[Using Service Exchange for providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-administer.md)
 
-## Related
-
-- [[service-bridge-v2-administer|Using Service Exchange for providers]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]

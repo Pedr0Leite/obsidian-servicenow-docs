@@ -20,7 +20,7 @@ To support large commits, perform these actions:
 
 -   Install the ServiceNow IntegrationHub Action Template - Data Stream \(com.glide.hub.action\_type.datastream\) plugin.
 -   For optimal performance, disable flow logging by setting the Flow Designer com.snc.process\_flow.reporting.level property to **Off**.
--   For MID Server [[settings-mobile|settings]], view the [MID Server support for Data Stream actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/dsa-on-mid.md) section.
+-   For MID Server settings, view the [MID Server support for Data Stream actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/dsa-on-mid.md) section.
 
 GitLab code push webhook sends a maximum of 20 commits in a notification. If the number of commits in the push are less than 20, a single inbound event is created and processed in the ServiceNow instance.
 
@@ -30,6 +30,3 @@ Currently, GitLab Data stream action can process up to 10,000 commits in a singl
 
 **Parent Topic:**[GitLab integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/gitlab-integration-dev-ops.md)
 
-## Related
-
-- [[settings-mobile|Settings]]

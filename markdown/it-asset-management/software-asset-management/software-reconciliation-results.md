@@ -24,7 +24,7 @@ There are three tiers of reconciliation results:
 -   Software Model Results
 -   License Metric Results
 
-You can view reconciliation results using both Core UI and [[sam-workspace|Software Asset Workspace]].
+You can view reconciliation results using both Core UI and Software Asset Workspace.
 
 <table id="table_x4d_vps_ncc"><thead><tr><th>
 
@@ -60,7 +60,7 @@ Software Asset Workspace
 
     \[Omitted image "product-results.png"\] Alt text: Product Results and related lists for SQL Server
 
-    These results are for all [[c_Models|models]] and installations associated with a software product and are specific to a publisher. Product results for licensable products are generated after reconciliation even if the products don’t have defined [[c_CreatingSoftwareModels|software models]] for them. These results determine the license compliance status of the product. Additionally, product results provide details on true-up cost, overlicensed amount, and potential savings. The following related lists appear when you select a Product Results record:
+    These results are for all models and installations associated with a software product and are specific to a publisher. Product results for licensable products are generated after reconciliation even if the products don’t have defined software models for them. These results determine the license compliance status of the product. Additionally, product results provide details on true-up cost, overlicensed amount, and potential savings. The following related lists appear when you select a Product Results record:
 
     -   Software Model Results
     -   Licensed Installs
@@ -81,7 +81,7 @@ Software Asset Workspace
     -   Unlicensed Consumptions \(Consumption-based software models\)
     -   Unlicensed Options \(Oracle only\)
     -   Removal Candidates
-    -   Purchase Orders \(only when the [[c_Procurement|Procurement]] \(com.snc.procurement\) plugin is active\)
+    -   Purchase Orders \(only when the Procurement \(com.snc.procurement\) plugin is active\)
     For more details on software model results related lists and descriptions, see [View software model results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_ViewSWModelResults.md).
 
 -   **License Metric Results**
@@ -103,9 +103,3 @@ Software Asset Workspace
 
 **Parent Topic:**[Software reconciliation for compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_SAMReconciliation.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_Models|Models]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[c_Procurement|Procurement]]

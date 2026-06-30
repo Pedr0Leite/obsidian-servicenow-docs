@@ -14,7 +14,7 @@ breadcrumb: [Reference, Regulatory Change Management, Governance, Risk, and Comp
 
 # Email notifications in Regulatory Change Management
 
-A number of email notifications are sent by the [[reg-change-mgmt-landing-page|Regulatory Change Management]] application.
+A number of email notifications are sent by the Regulatory Change Management application.
 
 ## Email notifications
 
@@ -56,6 +56,3 @@ The following table describes the recipient list of notifications and the associ
 
 **Parent Topic:**[Regulatory Change Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/rcm-reference.md)
 
-## Related
-
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]

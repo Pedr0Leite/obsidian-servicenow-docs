@@ -14,7 +14,7 @@ breadcrumb: [Indicator breakdowns, Configure fundamentals, Performance Analytics
 
 # Control ability to view breakdown elements
 
-To limit which breakdown elements a subset of users can view on indicators, implement element security. Element security applies to [[widgets|widgets]], workspaces, and the [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]].
+To limit which breakdown elements a subset of users can view on indicators, implement element security. Element security applies to widgets, workspaces, and the Analytics Hub.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Roles required: pa\_admin or admin
 
 ## About this task
 
-There are no visibility options for breakdowns. Instead, access to breakdowns is regulated by ACLs in the [[breakdown-sources|breakdown sources]].
+There are no visibility options for breakdowns. Instead, access to breakdowns is regulated by ACLs in the breakdown sources.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]] Administration** &gt; **'Data Sources** &gt; **Breakdown Sources**.
+1.  Navigate to **All** &gt; **Platform Analytics Administration** &gt; **'Data Sources** &gt; **Breakdown Sources**.
 
 2.  Open the breakdown sources record for the breakdown you want to set access to.
 
@@ -150,7 +150,7 @@ Show blank option
 
 </td><td>
 
-Select to allow a user on a breakdown dashboard to see scores without any breakdown elements specified. Clear to allow a user on a breakdown dashboard to see only scores for the breakdown elements that are visible to their role.This setting affects only widgets that follow breakdown [[dashboard-elements|dashboard elements]]. Users with the admin role can always see unfiltered scores on breakdown dashboards.
+Select to allow a user on a breakdown dashboard to see scores without any breakdown elements specified. Clear to allow a user on a breakdown dashboard to see only scores for the breakdown elements that are visible to their role.This setting affects only widgets that follow breakdown dashboard elements. Users with the admin role can always see unfiltered scores on breakdown dashboards.
 
 </td></tr><tr><td>
 
@@ -184,10 +184,3 @@ If allow list security is specified for a breakdown source, and any of the roles
 |Any of the roles of the user are in a security list.|All elements that the security list applies to are visible.|
 |User has the admin role.|All elements are visible.|
 
-## Related
-
-- [[widgets|Widgets]]
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]
-- [[breakdown-sources|Breakdown sources]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[dashboard-elements|Dashboard elements]]

@@ -49,7 +49,7 @@ Non-Conformance Resolution: Sophie investigates and resolves the issue:
 6.  Creates containment expense lines for loaner vehicles and diagnostic work
 7.  Adds resolution code "Sensor calibration failure requires investigation"
 8.  Creates expense lines to capture costs associated with containment activities, including vehicle quarantine logistics and diagnostic inspections
-9.  Adds [[mco-corrective-actions|corrective actions]]:
+9.  Adds corrective actions:
     -   Replaces the faulty airbag sensor on all 47 confirmed vehicles with a validated replacement part
     -   Updates sensor firmware on all replaced units to the latest calibration version
 10. Adds resolution code "Sensor calibration failure — corrective action applied"
@@ -58,7 +58,7 @@ Non-Conformance Resolution: Sophie investigates and resolves the issue:
 
 Recognizing a pattern affecting multiple vehicles and potential safety implications, Sophie escalates by creating a Quality Investigation for deeper cross-functional analysis.
 
-The [[mco-product-non-conformances|Product non-conformance]] workspace provides guided setup to resolve the issue.
+The [Product non-conformance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-product-non-conformances.md) workspace provides guided setup to resolve the issue.
 
 Benefits
 
@@ -77,12 +77,7 @@ James triages and assigns the non-conformance case with clear ownership. Sophie 
 **Related topics**  
 
 
-[[mco-report-an-issue|Report an issue]]
+[Report an issue](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-report-an-issue.md)
 
 [Product non-conformance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-product-non-conformances.md)
 
-## Related
-
-- [[mco-product-non-conformances|Product non-conformance]]
-- [[mco-report-an-issue|Report an issue]]
-- [[mco-corrective-actions|Corrective actions]]

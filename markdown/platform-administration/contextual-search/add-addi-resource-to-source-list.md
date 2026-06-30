@@ -22,17 +22,17 @@ Role required: admin
 
 ## About this task
 
-Additional resources are pre-defined. An additional resource is either a searchable source table with query conditions or a [[reference-email-admin|reference]] to a Predictive Intelligence Similarity solution definition.
+Additional resources are pre-defined. An additional resource is either a searchable source table with query conditions or a reference to a Predictive Intelligence Similarity solution definition.
 
 **Note:** You can only view the Predictive Intelligence resources if you are licensed for Predictive Intelligence and have activated [Predictive Intelligence for Contextual Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/machine-learning-solutions-for-search/predictive-intelligence-for-cxs.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ContextualSearch|Contextual Search]]** &gt; **Search Contexts**.
+1.  Navigate to **All** &gt; **Contextual Search** &gt; **Search Contexts**.
 
 2.  Open the search context record for which you want to see the additional resources.
 
-3.  In the Additional Resource [[clone-configurations-tab|Configurations]] related list, select **Edit**.
+3.  In the Additional Resource Configurations related list, select **Edit**.
 
 4.  Filter the additional resources displayed in the **Collection** field by defining filter conditions and selecting **Run filter**.
 
@@ -62,8 +62,3 @@ Additional resources are pre-defined. An additional resource is either a searcha
 
 [Similarity solution definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/similar-cases-solution-definitions.md)
 
-## Related
-
-- [[reference-email-admin|Reference]]
-- [[c_ContextualSearch|Contextual search]]
-- [[clone-configurations-tab|Configurations]]

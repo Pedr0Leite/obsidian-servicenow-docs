@@ -14,7 +14,7 @@ breadcrumb: [Configuring Dynamic Translation, Dynamic Translation, Translation a
 
 # Request for domain separation in Dynamic Translation
 
-Enable the support for the [[dynamic-translation|Dynamic Translation]] framework in domain-separated instances.
+Enable the support for the Dynamic Translation framework in domain-separated instances.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-There are two ways to [[t_RequestAPlugin|request a plugin]].
+There are two ways to request a plugin.
 
 -   Access the Now Support Service Catalog directly by selecting **Automation Store** &gt; **Service Catalog** &gt; **Activate Plugin** on Now Support.
 -   Access the Now Support Service Catalog through the All Applications page on your instance by following these steps.
@@ -74,7 +74,7 @@ Select the date and time to activate the plugin.
 
 4.  Select **Submit**.
 
-    After the maintenance window, the system installs the plugin on your instance. To confirm the installation, go to the Installed tab in the [[application-manager|Application Manager]].
+    After the maintenance window, the system installs the plugin on your instance. To confirm the installation, go to the Installed tab in the Application Manager.
 
 
 ## What to do next
@@ -86,11 +86,5 @@ For information about configuring domain separation in Dynamic Translation, see 
 **Related topics**  
 
 
-[[list-of-plugins|List of plugins \(Australia\)]]
+[List of plugins \(Australia\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-## Related
-
-- [[list-of-plugins|List of plugins \(Australia\)]]
-- [[dynamic-translation|Dynamic translation]]
-- [[t_RequestAPlugin|Request a plugin]]
-- [[application-manager|Application Manager]]

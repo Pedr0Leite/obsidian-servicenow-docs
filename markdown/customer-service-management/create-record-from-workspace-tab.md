@@ -20,7 +20,7 @@ Role required: sn\_customerservice\_agent,sn\_customerservice.consumer\_agent
 
 ## About this task
 
-You can create records from the Add tab in [[csm-workspaces-configure|CSM Configurable workspace]]. Select the plus sign \(**+**\) icon on the Add tab to see the list of records that can be created.
+You can create records from the Add tab in CSM Configurable workspace. Select the plus sign \(**+**\) icon on the Add tab to see the list of records that can be created.
 
 \[Omitted image "record-creation-from-add-tab-workspace.png"\] Alt text: Select the plus sign on the Add tab in the session tabs to see the records that can be created.
 
@@ -42,6 +42,4 @@ Users with the system administrator role can configure the types of records that
 
 4.  Select **Save**.
 
-## Related
 
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

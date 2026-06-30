@@ -14,7 +14,7 @@ breadcrumb: [Reporting critical events, Critical Event Management, Health and Sa
 
 # Report a critical event as an employee
 
-Create a ticket to report a critical event in [[critical-event-management|Critical Event Management]] as an employee.
+Create a ticket to report a critical event in Critical Event Management as an employee.
 
 ## Before you begin
 
@@ -22,9 +22,9 @@ Role required: sn\_critical.user
 
 ## Procedure
 
-1.  Log in to the [[employee-center-landing-page|Employee Center]].
+1.  Log in to the Employee Center.
 
-2.  Navigate to **[[health-safety-overview|Health and Safety]]** &gt; **Workplace Emergency**.
+2.  Navigate to **Health and Safety** &gt; **Workplace Emergency**.
 
 3.  Select **Report Emergency**.
 
@@ -42,8 +42,3 @@ Role required: sn\_critical.user
     -   To submit the report immediately, select **Submit**.
     -   To save the report to change and submit later, select **Save as Draft**.
 
-## Related
-
-- [[critical-event-management|Critical Event Management]]
-- [[employee-center-landing-page|Employee Center]]
-- [[health-safety-overview|Health and Safety]]

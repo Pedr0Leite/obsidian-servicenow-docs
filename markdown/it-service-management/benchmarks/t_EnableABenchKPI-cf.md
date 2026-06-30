@@ -30,7 +30,7 @@ KPIs are grouped within categories \(for example, ITSM, ITOM, Security Operation
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[benchmarks-landing|Benchmarks]]** &gt; **Administration** &gt; **Setup**.
+1.  Navigate to **All** &gt; **Benchmarks** &gt; **Administration** &gt; **Setup**.
 
 2.  To enable or disable a KPI, select the KPI slider.
 
@@ -52,6 +52,4 @@ KPIs are grouped within categories \(for example, ITSM, ITOM, Security Operation
 
         **Note:** You must have the admin role to assign roles to categories.
 
-## Related
 
-- [[benchmarks-landing|Benchmarks]]

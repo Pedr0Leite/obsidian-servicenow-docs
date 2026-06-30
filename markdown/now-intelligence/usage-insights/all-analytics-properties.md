@@ -14,7 +14,7 @@ breadcrumb: [Usage Insights reference, Usage Insights, Platform Analytics]
 
 # Usage Insights related properties
 
-Use system properties to configure [[user-exp-analytics-landing|Usage Insights]] in [[c_performanceAnalyticsAndReporting|Platform Analytics]], ServiceNow Mobile Platform, Service Portal, and the Conversational Analytics area of Virtual Agent.
+Use system properties to configure Usage Insights in Platform Analytics, ServiceNow Mobile Platform, Service Portal, and the Conversational Analytics area of Virtual Agent.
 
 ## General Usage Insights related properties
 
@@ -62,7 +62,3 @@ Use the following system properties in the Service Portal only.
 
 **Parent Topic:**[Usage Insights reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/user-experience-analytics-reference.md)
 
-## Related
-
-- [[user-exp-analytics-landing|Usage Insights]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

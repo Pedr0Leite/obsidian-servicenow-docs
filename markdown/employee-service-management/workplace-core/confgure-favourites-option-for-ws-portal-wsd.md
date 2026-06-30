@@ -14,13 +14,13 @@ breadcrumb: [Manage workplace safety activities, Workplace Core, Workplace Servi
 
 # Enable favorites option for Workplace Service Portal
 
-Enable employees to set a workplace location as their favorite while using the [[workplace-services-portal-hr|Workplace Service Portal]]. Integrate with Employee Service Center to configure the favorites option.
+Enable employees to set a workplace location as their favorite while using the Workplace Service Portal. Integrate with Employee Service Center to configure the favorites option.
 
 ## Before you begin
 
 To enable the favorites option for Workplace Service Portal, verify that you have the latest versions of the following applications and plugins installed:
 
--   [[employee-center-landing-page|Employee Center]] Core \(sn\_ex\_sp\)
+-   Employee Center Core \(sn\_ex\_sp\)
 -   Employee Experience Taxonomy plugin \(sn\_ect\)
 -   Employee Experience Foundation \(sn\_ex\_emp\_fd\)
 
@@ -28,7 +28,7 @@ Role required: esc\_admin or sn\_wsd\_core.admin
 
 ## About this task
 
-Configure the favorites option so that employees can set any workplace location as their favorite. The employees can view their favorite locations anytime by selecting the **Favorites** tab on the Employee Center home page. The locations that they set as their favorite are given as the first priority when they search for available locations to [[reservation-portal|make a reservation]].
+Configure the favorites option so that employees can set any workplace location as their favorite. The employees can view their favorite locations anytime by selecting the **Favorites** tab on the Employee Center home page. The locations that they set as their favorite are given as the first priority when they search for available locations to make a reservation.
 
 ## Procedure
 
@@ -42,7 +42,7 @@ Configure the favorites option so that employees can set any workplace location 
 
 4.  In the Service portals list, perform the following actions:
 
-    1.  Go to **[[workplace-services|Workplace Services]]**.
+    1.  Go to **Workplace Services**.
 
     2.  In the **Enable favorites** column, set the option to **true**.
 
@@ -94,9 +94,3 @@ The favorites option is enabled for employees to set any workplace location as t
 
 [View workplace service usage analytics with Usage Insights]()
 
-## Related
-
-- [[workplace-services-portal-hr|Workplace Service Portal]]
-- [[employee-center-landing-page|Employee Center]]
-- [[reservation-portal|Make a reservation]]
-- [[workplace-services|Workplace Services]]

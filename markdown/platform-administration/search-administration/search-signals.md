@@ -16,13 +16,9 @@ breadcrumb: [Search administration, Configure core features, Administer the Serv
 
 Search stores signal data from user searches. The aggregated signal data helps improve search result relevancy in your system.
 
-Signals record details of user searches, search refinements, and interactions with search [[hs-results|results]].
+Signals record details of user searches, search refinements, and interactions with search results.
 
-[[ia-ai-search|AI Search]] machine learning relevancy analyzes aggregated signal data and automatically tunes search relevancy scoring to reflect user behavior patterns. This tuning helps improve result relevancy for search users.
+AI Search machine learning relevancy analyzes aggregated signal data and automatically tunes search relevancy scoring to reflect user behavior patterns. This tuning helps improve result relevancy for search users.
 
 To learn more about AI Search machine learning relevancy, see [Machine learning relevancy in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/machine-learning-relevancy-ais.md).
 
-## Related
-
-- [[hs-results|Results]]
-- [[ia-ai-search|AI Search]]

@@ -14,11 +14,11 @@ breadcrumb: [Case management, Organize agent workspaces, Configure, Customer Ser
 
 The Case lines and workflows application provides the ability to reference multiple line items on a case record. Agents and customers with the `sn_customerservice.customer` role can use these line items to capture, track, and resolve multiple related issues in a single case.
 
-The Case lines and workflows application provides the framework for a case type to handle multiple related issues. One example is the Orders case type available with the [[csm-case-mgmt-order-ops|Order Operations Case Management application]]. This case type enables users to create cases with case line items for multiple orders or for multiple order lines within a single order.
+The Case lines and workflows application provides the framework for a case type to handle multiple related issues. One example is the Orders case type available with the [Order Operations Case Management application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-case-mgmt-order-ops.md). This case type enables users to create cases with case line items for multiple orders or for multiple order lines within a single order.
 
 Case line items enable users to track multiple issues for the same case. Users can resolve these different issues, represented by case line items, independently before resolving and closing the case. Users can take different actions on different case line items depending on the need.
 
-This application supports different types of line items based on the source of the case. These line items can include entities such as orders or order lines, invoices or invoices lines, contracts, and [[sold-product|sold products]]. Each case line item maps to an entity line \(for example, an order line\) and has its own resolution process.
+This application supports different types of line items based on the source of the case. These line items can include entities such as orders or order lines, invoices or invoices lines, contracts, and sold products. Each case line item maps to an entity line \(for example, an order line\) and has its own resolution process.
 
 ## Benefits of using case line items
 
@@ -35,7 +35,7 @@ The Case lines and workflows application \(com.sn\_case\_line\) enables the Case
 
 The case lines and workflows application includes a Case Line Items list view in the Core UI. To access the Case Line Items list, navigate to **All** &gt; **Customer Service** &gt; **Cases** &gt; **All Line Items**.
 
-The Case lines and workflows application also includes tables and roles. For more information, see [[csm-case-mgmt-case-lines-install-comp|Components installed with Case lines and workflows]].
+The Case lines and workflows application also includes tables and roles. For more information, see [Components installed with Case lines and workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-case-mgmt-case-lines-install-comp.md).
 
 The Case lines and workflows application is available from the ServiceNow Store.
 
@@ -46,23 +46,13 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 **Related topics**  
 
 
-[[csm-case-mgmt-order-ops-case-page|Order case pages]]
+[Order case pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-case-mgmt-order-ops-case-page.md)
 
-[[case-line-form|Case line item form]]
+[Case line item form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-line-form.md)
 
-[[case-line-task-form|Case line task form]]
+[Case line task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-line-task-form.md)
 
-[[case-line-characteristics-form|Case line characteristic form]]
+[Case line characteristic form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-line-characteristics-form.md)
 
-[[case-line-entitlements-form|Case line entitlement form]]
+[Case line entitlement form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-line-entitlements-form.md)
 
-## Related
-
-- [[csm-case-mgmt-order-ops|Order Operations Case Management]]
-- [[csm-case-mgmt-case-lines-install-comp|Components installed with Case lines and workflows]]
-- [[csm-case-mgmt-order-ops-case-page|Order case pages]]
-- [[case-line-form|Case line item form]]
-- [[case-line-task-form|Case line task form]]
-- [[case-line-characteristics-form|Case line characteristic form]]
-- [[case-line-entitlements-form|Case line entitlement form]]
-- [[sold-product|Sold products]]

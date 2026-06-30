@@ -22,7 +22,7 @@ Role required: itil, sn\_incident\_write, or admin
 
 ## About this task
 
-A major incident manager can [[accept-reject-major-incident-candidate|accept or reject a major incident candidate]].
+A major incident manager can accept or reject a major incident candidate.
 
 ## Procedure
 
@@ -44,7 +44,7 @@ Description
 
 </td><td>
 
-An incident can be marked as a major incident candidate based on the major incident trigger rules. A major incident manager or an incident manager can [Create trigger rules for major incidents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/major-incident-trigger-rules.md) to identify [[major-incidents-candidate|major incident candidates]] automatically.**Note:** The base system major incident trigger rules are disabled by default. A major incident manager or an incident manager needs to activate the trigger rules that define conditions under which an incident is automatically considered as a major incident candidate.
+An incident can be marked as a major incident candidate based on the major incident trigger rules. A major incident manager or an incident manager can [Create trigger rules for major incidents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/major-incident-trigger-rules.md) to identify major incident candidates automatically.**Note:** The base system major incident trigger rules are disabled by default. A major incident manager or an incident manager needs to activate the trigger rules that define conditions under which an incident is automatically considered as a major incident candidate.
 
 </td></tr><tr><td id="d334187e113">
 
@@ -68,14 +68,8 @@ Manually propose an existing incident to be a major incident candidate by clicki
 </table>    **Note:**
 
     -   When an incident is proposed as a major incident candidate, the Major incident **State** field in the incident form under the Major incident section is set to **Proposed**.
-    -   When you create a new major incident from a candidate, a new incident is created and becomes the major incident. The candidate is added as the child of the major incident. To get this behavior, the incident manager needs to set the major [[c_IncidentManagement|incident management]] property **Create major incident from candidate** \(**sn\_major\_inc\_mgmt.com.snc.incident.mim.major\_incident\_creation**\). A new incident is created from a candidate as a major incident. The candidate is associated with the new incident as a child.
-    -   System automatically assigns the newly created parent major incident to a user when the [[c_OnCallScheduling|On-Call Scheduling]] plugin \(com.snc.on\_call\_rotation\) is activated, a shift is defined for the major incident management group, and a user is available for the on-call shift. If no on-call shift exists, the major incident manager decides the user for the **Assigned to** field.
+    -   When you create a new major incident from a candidate, a new incident is created and becomes the major incident. The candidate is added as the child of the major incident. To get this behavior, the incident manager needs to set the major incident management property **Create major incident from candidate** \(**sn\_major\_inc\_mgmt.com.snc.incident.mim.major\_incident\_creation**\). A new incident is created from a candidate as a major incident. The candidate is associated with the new incident as a child.
+    -   System automatically assigns the newly created parent major incident to a user when the On-Call Scheduling plugin \(com.snc.on\_call\_rotation\) is activated, a shift is defined for the major incident management group, and a user is available for the on-call shift. If no on-call shift exists, the major incident manager decides the user for the **Assigned to** field.
 
 **Parent Topic:**[Working on major incident management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/work-on-mim.md)
 
-## Related
-
-- [[accept-reject-major-incident-candidate|Accept or reject a major incident candidate]]
-- [[major-incidents-candidate|Major incident candidates]]
-- [[c_IncidentManagement|Incident Management]]
-- [[c_OnCallScheduling|On-Call Scheduling]]

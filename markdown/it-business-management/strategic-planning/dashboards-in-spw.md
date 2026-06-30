@@ -14,7 +14,7 @@ breadcrumb: [Strategic Planning, Strategic Portfolio Management]
 
 # Dashboards in Strategic Planning Workspace
 
-Dashboards in Strategic Planning Workspace help product and portfolio managers monitor performance, [[t_SDLCPPSTrackProgress|track progress]], and make informed decisions related to ideas, feedback, strategy, planning, and execution.
+Dashboards in Strategic Planning Workspace help product and portfolio managers monitor performance, track progress, and make informed decisions related to ideas, feedback, strategy, planning, and execution.
 
 <table id="table_kzf_qkz_qzb" class="nav-card"><tbody><tr><td>
 
@@ -26,7 +26,7 @@ Dashboards in Strategic Planning Workspace help product and portfolio managers m
 
 </td><td>
 
-[Integrate \[Omitted image "bus-integration-and-apis.svg"\] Alt text: Add existing Platform Analytics dashboards to [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/add-platform-dashboard-to-spw.md)
+[Integrate \[Omitted image "bus-integration-and-apis.svg"\] Alt text: Add existing Platform Analytics dashboards to Strategic Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/add-platform-dashboard-to-spw.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -34,7 +34,3 @@ Dashboards in Strategic Planning Workspace help product and portfolio managers m
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[t_SDLCPPSTrackProgress|Track progress]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

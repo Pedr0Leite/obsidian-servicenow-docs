@@ -14,7 +14,7 @@ breadcrumb: [Cloud Provisioning and Governance, ITOM Cloud Accelerate, IT Operat
 
 # Request the Cloud Provisioning and Governance application
 
-The [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] application is available as a separate subscription and requires the Cloud Provisioning and Governance plugin \(com.snc.cloud.mgmt\).
+The Cloud Provisioning and Governance application is available as a separate subscription and requires the Cloud Provisioning and Governance plugin \(com.snc.cloud.mgmt\).
 
 ## Before you begin
 
@@ -69,7 +69,7 @@ Select Maintenance Date and Time
 Select the date and time to activate the plugin.
 
 </td></tr></tbody>
-</table>    For example, see the following form to activate the [[c_EM|Event Management]] plugin on an instance named SNC Instance.
+</table>    For example, see the following form to activate the Event Management plugin on an instance named SNC Instance.
 
 4.  Select **Submit**.
 
@@ -87,7 +87,3 @@ Select the date and time to activate the plugin.
 
 [Day 1 setup guide for VMware on Cloud Provisioning and Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-mgt-vmware-setup-guide.md)
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[c_EM|Event Management]]

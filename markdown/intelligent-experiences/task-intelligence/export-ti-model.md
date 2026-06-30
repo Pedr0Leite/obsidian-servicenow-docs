@@ -22,7 +22,7 @@ Role required: admin or tia\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[task-intelligence|Task Intelligence]] for CSM** &gt; **Setup** or **All** &gt; **Task Intelligence for ITSM** &gt; **Setup**, depending on which application and context you want to export for.
+1.  Navigate to **All** &gt; **Task Intelligence for CSM** &gt; **Setup** or **All** &gt; **Task Intelligence for ITSM** &gt; **Setup**, depending on which application and context you want to export for.
 
 2.  In the **Models** list, click the more options menu of the model you want to export.
 
@@ -43,6 +43,3 @@ The XML file downloads to your browser.
 
 You can use the XML file to easily transfer the model to another instance using update sets. To learn more, see [System update sets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/system-update-sets.md).
 
-## Related
-
-- [[task-intelligence|Task Intelligence]]

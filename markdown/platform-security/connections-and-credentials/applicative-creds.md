@@ -18,7 +18,7 @@ Some applications require credentials in addition to the credentials the that ho
 
 A typical credential contains a user name and a password for logging in to a device or application. While most applications require only one credential for accessing them, sometimes hosts and applications have separate credentials for extra security. For example, ABAP SAP Central Services \(ASCS\) requires applicative credentials in addition to the SSH or Windows host credentials for the server that hosts ASCS.
 
-**Note:** ServiceNow applications refer to devices and applications that comprise a service instance as [[sc-configuration|configuration]] items \(CIs\).
+**Note:** ServiceNow applications refer to devices and applications that comprise a service instance as configuration items \(CIs\).
 
 As with host credentials, you assign applicative credentials to MID Servers.
 
@@ -110,12 +110,7 @@ Select whether to apply these credentials to **All MID servers** in your network
 
 </td><td>
 
-Order \(sequence\) in which Discovery tries this credential as it attempts to log on to devices. The smaller the number, the higher in the list this credential appears. Establish credential order when using large numbers of credentials or when security locks out [[users|users]] after three failed login attempts. If all the credentials have the same order number \(or none\), the instance tries the credentials in a random order.
+Order \(sequence\) in which Discovery tries this credential as it attempts to log on to devices. The smaller the number, the higher in the list this credential appears. Establish credential order when using large numbers of credentials or when security locks out users after three failed login attempts. If all the credentials have the same order number \(or none\), the instance tries the credentials in a random order.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sc-configuration|Configuration]]
-- [[users|Users]]

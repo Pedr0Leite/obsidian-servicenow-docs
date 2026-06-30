@@ -59,7 +59,7 @@ When a new finding is created, imported, or reopened, the system evaluates it ag
 Remediation tasks can be created in the following ways:
 
 -   Automatically using remediation task rules \(recommended for efficiency\).
--   Manually in the [[it-remediation-workspace-landing-page|IT Remediation Workspace]]. For more information, see [Create a remediation task manually in the IT Remediation Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/it-remediation-workspace/itr-ws-create-remediation-task.md).
+-   Manually in the IT Remediation Workspace. For more information, see [Create a remediation task manually in the IT Remediation Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/it-remediation-workspace/itr-ws-create-remediation-task.md).
 
 ## State synchronization
 
@@ -70,15 +70,10 @@ Remediation tasks can be created in the following ways:
 
 Assignment groups and assignees from remediation tasks are rolled down to associated findings unless those findings already have different assignments. This roll down helps standardize ownership across all related records.
 
-**Parent Topic:**[[sem-automating-prioritization-triaging|Automating prioritization and triaging]]
+**Parent Topic:**[Automating prioritization and triaging](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-automating-prioritization-triaging.md)
 
 **Related topics**  
 
 
-[[sem-configure-remediation-task-rules|Configuring remediation task rules]]
+[Configuring remediation task rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-configure-remediation-task-rules.md)
 
-## Related
-
-- [[sem-automating-prioritization-triaging|Automating prioritization and triaging]]
-- [[sem-configure-remediation-task-rules|Configuring remediation task rules]]
-- [[it-remediation-workspace-landing-page|IT Remediation Workspace]]

@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  From the user menu, navigate to **Preferences** &gt; **[[notifications|Notifications]]** and then select the **Advanced Preferences** link.
+1.  From the user menu, navigate to **Preferences** &gt; **Notifications** and then select the **Advanced Preferences** link.
 
 2.  Select the **Delivery Channels** tab.
 
@@ -37,9 +37,5 @@ Role required: admin
     4.  Select **Save**.
 
 
-**Parent Topic:**[[t_CreateAServiceProvider|Create a service provider]]
+**Parent Topic:**[Create a service provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAServiceProvider.md)
 
-## Related
-
-- [[t_CreateAServiceProvider|Create a service provider]]
-- [[notifications|Notifications]]

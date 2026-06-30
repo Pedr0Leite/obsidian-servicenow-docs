@@ -14,7 +14,7 @@ breadcrumb: [Form field information, Reference, Next Experience for Demand Manag
 
 # Create decision form
 
-The [[decision-form|decision form]] information is used to create a decision for a demand.
+The decision form information is used to create a decision for a demand.
 
 <table id="table_ckc_gs2_1vb"><thead><tr><th>
 
@@ -139,7 +139,3 @@ Information to record and track the status of decision implementation or approva
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[decision-form|Decision form]]

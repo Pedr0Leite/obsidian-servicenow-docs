@@ -14,7 +14,7 @@ breadcrumb: [Conversational Integration with Workplace from Facebook, Integrate 
 
 # Exploring Conversational Integration with Workplace from Facebook
 
-The [[mssg-workplace|Conversational Integration with Workplace from Facebook]] app supports [[virtual-agent-landing-page|Virtual Agent]] features such as Virtual Agent Designer controls for creating conversations, notifications, AI Search results, and more.
+The Conversational Integration with Workplace from Facebook app supports Virtual Agent features such as Virtual Agent Designer controls for creating conversations, notifications, AI Search results, and more.
 
 **Note:** The Conversational Integration with Workplace from Facebook is not supported for on-prem instances.
 
@@ -36,7 +36,7 @@ Virtual Agent can generate AI Search results that are displayed as Genius Result
 
 For detailed information on Virtual Agent notifications, see [Configuring Virtual Agent notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configuring-va-notifications.md).
 
--   Subscription [[management|management]]
+-   Subscription management
     -   Requesters - Use the **notification** \(or **notifications**\) command to subscribe to or unsubscribe from notifications.
     -   Admins - Enable notifications for messaging users in the Messaging Apps Integration page.
 -   Notification content - Create notifications with rich content, images, and action buttons. Actionable notifications enable recipients to perform certain actions and respond to the notification, such as adding a comment or requesting a live agent.
@@ -53,7 +53,7 @@ For detailed information on Virtual Agent notifications, see [Configuring Virtua
 
 ## URL navigation for chat links
 
-In Virtual Agent and Live Agent conversations on the Workplace app, links to ServiceNow records open automatically in base system portals—including links displayed in output cards, Virtual Agent notifications, and AI Search results. If needed, admins can change the portals in which these links are opened. For configuration details, see [[ac-configure-url-navigation|Configure URL navigation for chat links]].
+In Virtual Agent and Live Agent conversations on the Workplace app, links to ServiceNow records open automatically in base system portals—including links displayed in output cards, Virtual Agent notifications, and AI Search results. If needed, admins can change the portals in which these links are opened. For configuration details, see [Configure URL navigation for chat links](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ac-configure-url-navigation.md).
 
 ## Trusted Domains
 
@@ -67,9 +67,3 @@ In custom chat integrations, the values specified in the Trusted media domains f
 
 **Parent Topic:**[Conversational Integration with Workplace from Facebook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/mssg-workplace.md)
 
-## Related
-
-- [[ac-configure-url-navigation|Configure URL navigation for chat links]]
-- [[mssg-workplace|Conversational Integration with Workplace from Facebook]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[management|Management]]

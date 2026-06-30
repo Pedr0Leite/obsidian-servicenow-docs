@@ -25,7 +25,7 @@ Consider the following example to understand the workflow of risk identification
 
 **Note:** Your organization can use different roles.
 
-At this point, the application is not a part of GRC. It must be brought to GRC as an entity before its risks can be assessed. The new application must also have [[information-objects|information objects]] associated with it.
+At this point, the application is not a part of GRC. It must be brought to GRC as an entity before its risks can be assessed. The new application must also have information objects associated with it.
 
 The workflow and approvers of the application risk assessment are determined by the settings in the Risk Identification Configuration form. Refer to [Set up risk identification integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/configure-risk-identification-form.md) to understand the process of defining the workflow. To reinitiate risk identification, a flow designer action is provided.
 
@@ -44,16 +44,16 @@ When assessing a new business application, the workflow of the risk identificati
     **Note:** If the questionnaire is sent back, then the new responses are reverted to their original form.
 
 7.  Based on the configuration, after the IT Risk Manager is satisfied with the responses, the system initiates the inherent assessment.
-8.  GRC maps the risks and compliance objects based on the [[entity-type-in-risk-ws|entity types]].
+8.  GRC maps the risks and compliance objects based on the entity types.
 9.  The IT Risk Manager reviews the information object mapping.
-10. The system executes the [[recommendation-engine|recommendation engine]] based on the algorithm selected in the configuration.
+10. The system executes the recommendation engine based on the algorithm selected in the configuration.
 11. The IT Risk Manager reviews and maps the recommended risks, policies, and citations based on the associated information objects.
 12. The IT Risk Manager maps the recommended controls based on associated citations, policies, and risks.
 13. The application owner manages the control life cycle and attests the controls.
 
 The following figure represents the workflow of the solution.
 
-\[Omitted image "updated-apm-and-risk-workflow.png"\] Alt text: Integration of APM and [[advanced-risk-assessment|Advanced Risk Assessment]]
+\[Omitted image "updated-apm-and-risk-workflow.png"\] Alt text: Integration of APM and Advanced Risk Assessment
 
 ## States of the risk identification record
 
@@ -83,9 +83,3 @@ In terms of its life cycle, a risk identification record goes through the follow
 
 **Parent Topic:**[Application risk assessment using Advanced Risk Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/risk-and-apm-better-together.md)
 
-## Related
-
-- [[information-objects|information objects]]
-- [[entity-type-in-risk-ws|Entity types]]
-- [[recommendation-engine|recommendation engine]]
-- [[advanced-risk-assessment|advanced risk assessment]]

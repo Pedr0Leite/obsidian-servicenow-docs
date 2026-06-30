@@ -22,7 +22,7 @@ Role required: none
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
 
 2.  From **My active items**, select **Appointments**.
 
@@ -74,7 +74,3 @@ The **Give feedback** window opens. You can select a rating and provide addition
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

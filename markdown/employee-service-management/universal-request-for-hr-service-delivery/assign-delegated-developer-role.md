@@ -14,7 +14,7 @@ breadcrumb: [Configuring Universal Request, Setting up and configuring Universal
 
 # Assign delegated developer role to Universal Request administrator
 
-For a [[ur-landing-limitedaccess|Universal Request]] administrator \[sn\_uni\_req.ur\_admin\] to perform some platform duties, the delegated developer role must be added.
+For a Universal Request administrator \[sn\_uni\_req.ur\_admin\] to perform some platform duties, the delegated developer role must be added.
 
 ## Before you begin
 
@@ -54,6 +54,3 @@ Role required: admin with sn\_uni\_req.ur\_admin
 
 **Parent Topic:**[Configuring Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/configure-ur.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]

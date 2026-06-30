@@ -39,7 +39,7 @@ For specific setup instructions, refer to Epic product documentation. If assista
 
 3.  Create a Menu Record \(E2U\) for the button and attach the Activity record \(E2N\).
 
-    The menu record determines where in Epic the button is placed. When determining placement, consider what makes the most sense for the clinicians who will press the button in order to launch the [[care-team-portal-landing|Care Team Portal]]. After configuring the E2U button, it must be assigned to target users' Epic toolbar profile before it becomes visible in Epic.
+    The menu record determines where in Epic the button is placed. When determining placement, consider what makes the most sense for the clinicians who will press the button in order to launch the Care Team Portal. After configuring the E2U button, it must be assigned to target users' Epic toolbar profile before it becomes visible in Epic.
 
 4.  Once the button has been created within the toolbar in Epic, press the configured button to open the ServiceNow Care Team Portal from within Epic.
 
@@ -48,6 +48,3 @@ For specific setup instructions, refer to Epic product documentation. If assista
 
 An Epic button is configured in Hyperspace that launches the ServiceNow Care Team Portal with the appropriate authorization token data from Epic.
 
-## Related
-
-- [[care-team-portal-landing|Care Team Portal]]

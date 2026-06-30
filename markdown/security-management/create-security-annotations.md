@@ -35,7 +35,7 @@ Role required: admin
     **Note:** You can add the same annotation to multiple CIs by selecting CIs on the list, choose **Add security annotation**, enter an annotation in any text format, and select **Submit**.
 
 
-**Parent Topic:**[[security-annotations|Security annotations]]
+**Parent Topic:**[Security annotations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-annotations.md)
 
 **Related topics**  
 
@@ -46,6 +46,3 @@ Role required: admin
 
 [View security annotations reports]()
 
-## Related
-
-- [[security-annotations|Security annotations]]

@@ -20,11 +20,11 @@ Agents can do the following from the account hierarchy:
 
 -   Expand and collapse the tree structure.
 -   Switch between the parent view and the full view.
--   Select an account to open the related [[customer-service-account-form|Account form]].
+-   Select an account to open the related Account form.
 
 ## Account hierarchy in the workspace view
 
-To view the account hierarchy in [[csm-workspaces-configure|CSM Configurable Workspace]], navigate to an account record and select the Open Hierarchy \(\[Omitted image "account-hierarchy-workspace-icon.png"\] Alt text: account hierarchy workspace\) icon on the **Account** field.
+To view the account hierarchy in CSM Configurable Workspace, navigate to an account record and select the Open Hierarchy \(\[Omitted image "account-hierarchy-workspace-icon.png"\] Alt text: account hierarchy workspace\) icon on the **Account** field.
 
 \[Omitted image "csm-account-hierarchy-workspace.png"\] Alt text: Parent view of the account hierarchy structure with information about the current account and options to update and delete the account details.
 
@@ -51,7 +51,3 @@ Users with the system administrator role can define the hierarchy between accoun
 -   From the Account form for the child account, select the parent in the **Parent Account** field.
 -   For top-level accounts, do not fill in the **Parent Account** field.
 
-## Related
-
-- [[customer-service-account-form|Account form]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

@@ -14,7 +14,7 @@ breadcrumb: [Audit Evidence Request, Audit Management Overview, Audit Management
 
 # Evidence request workflow and users
 
-[[evidence-request|Evidence request]] helps customers to electronically request the information that they need from the first and second line of defense. The individuals being audited can then immediately upload their documents to the system, significantly reducing manual processing time.
+Evidence request helps customers to electronically request the information that they need from the first and second line of defense. The individuals being audited can then immediately upload their documents to the system, significantly reducing manual processing time.
 
 The evidence request workflow is as follows:
 
@@ -104,7 +104,3 @@ Compliance user, Control owner
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[evidence-request|Evidence request]]

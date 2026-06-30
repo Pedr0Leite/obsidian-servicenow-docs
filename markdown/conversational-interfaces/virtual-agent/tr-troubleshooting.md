@@ -18,7 +18,7 @@ Investigate and resolve unexpected behavior with Topic Recommendations, or find 
 
 For information about using Topic Recommendations, see [Quick start for Topic Recommendations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/getting-started-topic-recommendations.md).
 
-**Note:** Topic Recommendations tries to train the model when you add new topics to [[virtual-agent-landing-page|Virtual Agent]]. If an error occurs during training, the topic is still added, but the model remains in a draft state.
+**Note:** Topic Recommendations tries to train the model when you add new topics to Virtual Agent. If an error occurs during training, the topic is still added, but the model remains in a draft state.
 
 <table id="table_wgk_kyg_mrb"><thead><tr><th>
 
@@ -30,7 +30,7 @@ Solution
 
 </th></tr></thead><tbody><tr><td>
 
-[[topic-recommendations-page|Topic Recommendations page]] is blank
+Topic Recommendations page is blank
 
 </td><td>
 
@@ -132,8 +132,3 @@ Navigate to **ALL &gt; sys\_properties.list** \(or **ALL sys\_properties\_list.d
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[topic-recommendations-page|Topic Recommendations page]]

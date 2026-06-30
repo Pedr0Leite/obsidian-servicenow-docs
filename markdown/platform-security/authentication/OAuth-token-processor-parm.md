@@ -25,9 +25,5 @@ Sending sensitive information over URI query parameters might lead to sensitive 
 
 |Property|Description|
 |--------|-----------|
-|`glide.[[oauth-inbound-and-outbound|oauth]].allow.parameters.in.post.body.only`|This property is set to true for zBoots only, as part of the [[c_OAuthApplications|OAuth 2.0]] plugin. If you need this setting for your instance, create and set the property to true.|
+|`glide.oauth.allow.parameters.in.post.body.only`|This property is set to true for zBoots only, as part of the OAuth 2.0 plugin. If you need this setting for your instance, create and set the property to true.|
 
-## Related
-
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[c_OAuthApplications|OAuth 2.0]]

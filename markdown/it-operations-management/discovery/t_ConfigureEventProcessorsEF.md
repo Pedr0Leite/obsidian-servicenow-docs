@@ -14,13 +14,13 @@ breadcrumb: [Optimizing Discovery load for Event Framework, Configure Discovery 
 
 # Configure event processors to execute on specific nodes
 
-Configure the **[[r-discovery|discovery]].event.pin.jobs** system property to enable event processors to execute on specific nodes and distribute the work evenly. The scale factor calculates the number of nodes but doesn't pin jobs to specific nodes.
+Configure the **discovery.event.pin.jobs** system property to enable event processors to execute on specific nodes and distribute the work evenly. The scale factor calculates the number of nodes but doesn't pin jobs to specific nodes.
 
 ## Before you begin
 
 Confirm the following:
 
--   [[discovery-admin-workspace|Discovery Admin Workspace]] is using version 1.9.0 or later.
+-   Discovery Admin Workspace is using version 1.9.0 or later.
 -   ServiceNow AI Platform® is using version XP9, YP4, or later than YP4.
 -   The **discovery.use.event.processing** system property is turned on. For more information, see [Configure Discovery to use Event Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_ConfigureDiscoveryEventFramework.md).
 
@@ -43,7 +43,3 @@ The **discovery.event.pin.jobs** system property determines how jobs are assigne
 
 **Parent Topic:**[Optimizing Discovery load for Event Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_FineTuneDiscoLoadEF.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[discovery-admin-workspace|Discovery Admin Workspace]]

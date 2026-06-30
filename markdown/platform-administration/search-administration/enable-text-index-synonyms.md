@@ -14,7 +14,7 @@ breadcrumb: [Zing can expand search results with synonyms, Zing text indexing an
 
 # Enable search synonyms
 
-Enabling text index [[synonyms-ais|synonyms]] allows Zing to expand text searches with additional search keywords.
+Enabling text index synonyms allows Zing to expand text searches with additional search keywords.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ By default, text searches don't use text index synonyms.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[r_SetArchiveRuleProcessingBehavior|System Properties]]** &gt; **Text Search**.
+1.  Navigate to **All** &gt; **System Properties** &gt; **Text Search**.
 
 2.  Scroll down to **Enable Synonym**, and select **Yes**.
 
@@ -48,7 +48,3 @@ Text searches use active synonym dictionaries to expand keyword searches.
 
 [Debug synonym searches]()
 
-## Related
-
-- [[synonyms-ais|Synonyms]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

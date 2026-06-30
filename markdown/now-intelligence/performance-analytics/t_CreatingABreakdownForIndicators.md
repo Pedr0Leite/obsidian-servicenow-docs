@@ -30,7 +30,7 @@ An automated breakdown uses a breakdown source to determine selectable elements.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]] Administration** &gt; **Breakdowns** &gt; **[[automated-breakdowns|Automated Breakdowns]]** and select **New**.
+1.  Navigate to **All** &gt; **Platform Analytics Administration** &gt; **Breakdowns** &gt; **Automated Breakdowns** and select **New**.
 
 2.  Specify a meaningful **Name**.
 
@@ -40,11 +40,11 @@ An automated breakdown uses a breakdown source to determine selectable elements.
 
 4.  Select a **Default elements filter**.
 
-    Use [[c_BreakdownElementFilters|element filters]] to restrict the elements that are visible to a user. For more information, see [Element filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_BreakdownElementFilters.md).
+    Use element filters to restrict the elements that are visible to a user. For more information, see [Element filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_BreakdownElementFilters.md).
 
-5.  In the **[[access-control|Access control]]** tab, set who can see the breakdown.
+5.  In the **Access control** tab, set who can see the breakdown.
 
-    These restrictions apply in all cases: seeing the breakdown in the list of breakdowns, seeing the breakdown in an [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]] or dashboard, or using the breakdown when creating a widget.
+    These restrictions apply in all cases: seeing the breakdown in the list of breakdowns, seeing the breakdown in an Analytics Hub or dashboard, or using the breakdown when creating a widget.
 
     |Value of Visible to|Further settings|
     |-------------------|----------------|
@@ -62,10 +62,3 @@ Create breakdown mappings and associate indicators with the breakdown. You can d
 
 **Next topic:**[Create a breakdown mapping on a breakdown record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_CrtBkdnBreakdownMpngs.md)
 
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[automated-breakdowns|Automated breakdowns]]
-- [[c_BreakdownElementFilters|Element filters]]
-- [[access-control|Access control]]
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]

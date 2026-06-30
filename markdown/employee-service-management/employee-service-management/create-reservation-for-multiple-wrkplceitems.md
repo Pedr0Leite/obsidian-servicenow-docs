@@ -20,13 +20,13 @@ Role required: sn\_wsd\_core.workplace\_user
 
 Reserve multiple workplace items at the same time, either for yourself or on behalf of others.
 
-Before booking a room or desk, check the availability of the selected item using the Schedule view. Review the [[standard-service|standard services]] that are available with the workplace items.
+Before booking a room or desk, check the availability of the selected item using the Schedule view. Review the standard services that are available with the workplace items.
 
 **Note:** As an admin or reservation manager, you cannot edit a reservation opened manually using a URL.
 
 ## Procedure
 
-1.  Navigate to the [[reservation-portal|Make a Reservation]] page from any of the following starting points.
+1.  Navigate to the Make a Reservation page from any of the following starting points.
 
 <table><thead><tr><th align="left" id="d786991e60">
 
@@ -42,27 +42,27 @@ Steps
 
 </td><td>
 
-Navigate to **[[workplace-rsv-mgmt-feat|Workplace Reservation Management]]** &gt; **Portal** &gt; **New Reservation**.
+Navigate to **Workplace Reservation Management** &gt; **Portal** &gt; **New Reservation**.
 
 </td></tr><tr><td id="d786991e90">
 
-**From [[employee-center-landing-page|Employee Center]] Portal**
+**From Employee Center Portal**
 
 </td><td>
 
 -   Navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
--   On the Employee Center portal, select **[[workplace-services|Workplace Services]]** &gt; **Browse Workplace Services**.
+-   On the Employee Center portal, select **Workplace Services** &gt; **Browse Workplace Services**.
 -   Select the **New general reservation** card.
 
 Make a reservation portal page opens for you to make workplace reservations.
 
 </td></tr><tr><td id="d786991e137">
 
-**From [[workplace-services-portal-hr|Workplace Service Portal]]**
+**From Workplace Service Portal**
 
 </td><td>
 
-1.  Navigate to **[[workplace-safety-mgmt-hr|Workplace Core]]** &gt; **Workplace service portal** &gt; **Workplace Service Portal Home**.
+1.  Navigate to **Workplace Core** &gt; **Workplace service portal** &gt; **Workplace Service Portal Home**.
 
 **Note:** You can also raise a request from the Employee Center. On the home page, navigate to **Workplace** &gt; **Browse all Workplace** and select the workplace service.
 
@@ -82,7 +82,7 @@ Make a reservation portal page opens for you to make workplace reservations.
 
 2.  Select a Reservable Module configuration such as **Desks**, **Meeting rooms** **Desks within an area** and so on.
 
-    For more information how to [[config-reservable-module|configure a Reservable module]], see [Configure a reservable module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/config-reservable-module.md).
+    For more information how to configure a Reservable module, see [Configure a reservable module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/config-reservable-module.md).
 
 3.  Select **Search**.
 
@@ -90,7 +90,7 @@ Make a reservation portal page opens for you to make workplace reservations.
 
     **Note:** While browsing near a person, if there are any private spaces, then they are not displayed in the search result.
 
-    **Note:** You can switch between **Card view** tab and **Schedule view** tab to review the availability of workplace items. If your organization uses indoor map providers like [[Indoor-mapping|Indoor Mapping]] or Mappedin, use the **Map view** to provide interactive locations and wayfinding to workplaces. Indoor Mapping is inbuilt map provider with WSD while Mappedin is a third-party map provider that is integrated with WSD. DXF maps are not supported.
+    **Note:** You can switch between **Card view** tab and **Schedule view** tab to review the availability of workplace items. If your organization uses indoor map providers like Indoor Mapping or Mappedin, use the **Map view** to provide interactive locations and wayfinding to workplaces. Indoor Mapping is inbuilt map provider with WSD while Mappedin is a third-party map provider that is integrated with WSD. DXF maps are not supported.
 
 4.  Sort the workplace items in alphabetical order or by using a filter with the **Show filter** option.
 
@@ -183,7 +183,7 @@ Invite external visitor
 
 </td><td>
 
-Option to invite external visitor.**Note:** This option appears only if you have [[workplace-visitor-mgmt-feat|Workplace Visitor Management]] application installed.
+Option to invite external visitor.**Note:** This option appears only if you have Workplace Visitor Management application installed.
 
  -   If you have already registered the visitor before, do the following:
     1.  Select **Previous visitor**.
@@ -249,15 +249,4 @@ If any of the items needs approval, then your request is submitted to the approv
         5.  Click **Update reservation details**.
         If you have added an invitee, an email is sent to the invitee with the reservation details. If you have removed an invitee, an email is sent that the reservation is canceled.
 
-## Related
 
-- [[standard-service|Standard services]]
-- [[reservation-portal|Make a reservation]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-services|Workplace Services]]
-- [[workplace-services-portal-hr|Workplace Service Portal]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[config-reservable-module|Configure a reservable module]]
-- [[Indoor-mapping|Indoor Mapping]]
-- [[workplace-visitor-mgmt-feat|Workplace Visitor Management]]

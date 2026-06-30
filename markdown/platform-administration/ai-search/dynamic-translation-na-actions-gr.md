@@ -15,11 +15,11 @@ breadcrumb: [Now Assist Actions Genius Results, Configuring Now Assist in AI Sea
 
 # Dynamic Translation for Now Assist Actions Genius Results
 
-[[dynamic-translation|Dynamic Translation]] improves the international search experience for Catalog Items and Virtual Agent topics. When Dynamic Translation is activated, [[ia-ai-search|AI Search]] can translate searches into English before matching Catalog Items and Virtual Agent topics for inclusion in Now Assist Actions Genius Result answers, and can translate generated answers into the search user's language.
+Dynamic Translation improves the international search experience for Catalog Items and Virtual Agent topics. When Dynamic Translation is activated, AI Search can translate searches into English before matching Catalog Items and Virtual Agent topics for inclusion in Now Assist Actions Genius Result answers, and can translate generated answers into the search user's language.
 
 When computing Now Assist Actions Genius Result answers, the Now LLM Service only supports English-language searches for Catalog Items and Virtual Agent topics.
 
-Dynamic Translation expands the range of languages supported by [[now-assist-catalog-ordering-gr|Now Assist Actions Genius Results]] by adding the following features:
+Dynamic Translation expands the range of languages supported by Now Assist Actions Genius Results by adding the following features:
 
 |Feature|Description|
 |-------|-----------|
@@ -34,8 +34,3 @@ Dynamic Translation works with all languages supported by the ServiceNow AI Plat
 
 **Parent Topic:**[Now Assist Actions Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/now-assist-catalog-ordering-gr.md)
 
-## Related
-
-- [[dynamic-translation|Dynamic translation]]
-- [[ia-ai-search|AI Search]]
-- [[now-assist-catalog-ordering-gr|Now Assist Actions Genius Results]]

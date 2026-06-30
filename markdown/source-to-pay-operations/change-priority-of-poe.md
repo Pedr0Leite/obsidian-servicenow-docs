@@ -12,7 +12,7 @@ breadcrumb: [Resolving purchase order exceptions, Use, Purchase Order Management
 
 # Change the priority level of a purchase order exception
 
-Adjust the priority level of a [[purchase-order-exception-table|purchase order exception]] to reflect its urgency and business impact. You can manage exceptions effectively by ensuring high-impact disruptions receive immediate attention while lower-risk issues are handled in appropriate sequence.
+Adjust the priority level of a purchase order exception to reflect its urgency and business impact. You can manage exceptions effectively by ensuring high-impact disruptions receive immediate attention while lower-risk issues are handled in appropriate sequence.
 
 ## Before you begin
 
@@ -20,9 +20,9 @@ Role required: sn\_poem\_core.operational\_buyer
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Source-to-Pay Workspace**.
 
-2.  Select the **[[purchase-order-mgmt-landing-page|Purchase order management]]** tab.
+2.  Select the **Purchase order management** tab.
 
 3.  Select an exception that you want to work on.
 
@@ -39,11 +39,5 @@ Role required: sn\_poem\_core.operational\_buyer
 
 The priority level of the purchase order exception is updated to reflect the new value.
 
-**Parent Topic:**[[resolving-purchase-order-exceptions|Resolving purchase order exceptions]]
+**Parent Topic:**[Resolving purchase order exceptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/resolving-purchase-order-exceptions.md)
 
-## Related
-
-- [[resolving-purchase-order-exceptions|Resolving purchase order exceptions]]
-- [[purchase-order-exception-table|Purchase Order Exception]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[purchase-order-mgmt-landing-page|Purchase Order Management]]

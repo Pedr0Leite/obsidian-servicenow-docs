@@ -23,11 +23,11 @@ Role required: sn\_cm\_gen\_ai.ai\_contract\_fulfiller, sam\_admin/sam\_user, sn
 
 ## About this task
 
-Use the Manage contract repository agentic workflow to extract metadata and key contractual obligations from signed [[c_Contracts|contracts]]. After extraction, the information is mapped to the appropriate fields in the software contract record. Review the accuracy of the extracted information and make necessary corrections to the extracted field values as required.
+Use the Manage contract repository agentic workflow to extract metadata and key contractual obligations from signed contracts. After extraction, the information is mapped to the appropriate fields in the software contract record. Review the accuracy of the extracted information and make necessary corrections to the extracted field values as required.
 
 ## Procedure
 
-1.  Navigate to **[[sam-workspace|Software Asset Workspace]]** &gt; **License operations** &gt; **Contracts** &gt; **Software contracts**.
+1.  Navigate to **Software Asset Workspace** &gt; **License operations** &gt; **Contracts** &gt; **Software contracts**.
 
 2.  Select **New**.
 
@@ -77,7 +77,3 @@ Review the extracted metadata, contract reminder date, and obligations record.
 
 [Create a contract](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/t_CreateAContract.md)
 
-## Related
-
-- [[c_Contracts|Contracts]]
-- [[sam-workspace|Software Asset Workspace]]

@@ -22,9 +22,9 @@ Role required: admin, sn\_si.admin
 
 ## About this task
 
-As a user with the sn\_si.admin role, you can review up to five sample correlation events from the Correlation Event Sample Ingestion column on the left of the form to assist with [[mapping-logrhythm|mapping]] and translating event field values to the security incident fields in the SIR Incident Field Mapping column on the right.
+As a user with the sn\_si.admin role, you can review up to five sample correlation events from the Correlation Event Sample Ingestion column on the left of the form to assist with mapping and translating event field values to the security incident fields in the SIR Incident Field Mapping column on the right.
 
-Create custom mappings by adding or removing the fields on the mapping grid on the right side of the form. Fields displayed by default are typically important fields to populate on the [[sir-landing-page|security incident response]] form. However, these fields can be removed and any additional fields can be displayed using the + and - buttons. Create custom maps by adding or removing the fields on the mapping grid on the right side of the form. Customizing the fields permits you to map ArcSight ESM fields that are not displayed on the default mapping grid on the security incident.
+Create custom mappings by adding or removing the fields on the mapping grid on the right side of the form. Fields displayed by default are typically important fields to populate on the security incident response form. However, these fields can be removed and any additional fields can be displayed using the + and - buttons. Create custom maps by adding or removing the fields on the mapping grid on the right side of the form. Customizing the fields permits you to map ArcSight ESM fields that are not displayed on the default mapping grid on the security incident.
 
 ## Procedure
 
@@ -64,7 +64,7 @@ Create custom mappings by adding or removing the fields on the mapping grid on t
 
         In the expanded choice list for the new field, some fields are shaded.`Affected User` has a gray background, because it has been mapped in the security incident. Similar to the color-coding for the correlation events fields on the left side of the form, this color-coding for the security incident fields on the right helps you track the already mapped SIR incident fields.
 
-        **Note:** So that multiple [[c_Observables|observables]] can be displayed on the same security incident, the Observable field can be mapped multiple times with different values. Similarly, the Configuration Item and Work notes fields support multiple values. If you try to map two values to a field that cannot support multiple values, when you preview the incident, an error message is displayed that there is no value for the field. Similarly, if a field on a security incident has a choice list from which you can choose multiple options, and you try to map an option to that field that is not displayed on the choice list, the field is not populated on the security incident.
+        **Note:** So that multiple observables can be displayed on the same security incident, the Observable field can be mapped multiple times with different values. Similarly, the Configuration Item and Work notes fields support multiple values. If you try to map two values to a field that cannot support multiple values, when you preview the incident, an error message is displayed that there is no value for the field. Similarly, if a field on a security incident has a choice list from which you can choose multiple options, and you try to map an option to that field that is not displayed on the choice list, the field is not populated on the security incident.
 
     3.  Alternatively, type a value in the Search field for the new row.
 
@@ -179,9 +179,3 @@ Delete this event profile and the Event Profiles list is displayed.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[mapping-logrhythm|Mapping]]
-- [[sir-landing-page|Security Incident Response]]
-- [[c_Observables|Observables]]

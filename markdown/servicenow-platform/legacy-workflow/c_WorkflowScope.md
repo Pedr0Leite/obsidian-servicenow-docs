@@ -16,7 +16,7 @@ breadcrumb: [Workflow concepts, Classic Workflow, ServiceNow AI Platform Additio
 
 Workflow application scope determines the access that an application has to the information in a workflow, specifically to the data contained in the activities in that workflow.
 
-When a workflow is created, it inherits the application scope from the gear menu for the logged in user. This scope cannot be changed in the [[workflow-editor|Workflow Editor]]. When the workflow executes, it runs in this scope and can only be called from a different application if the workflow’s accessibility setting permits access to all scopes \(public\). Otherwise, the workflow’s application scope is private to the application.
+When a workflow is created, it inherits the application scope from the gear menu for the logged in user. This scope cannot be changed in the Workflow Editor. When the workflow executes, it runs in this scope and can only be called from a different application if the workflow’s accessibility setting permits access to all scopes \(public\). Otherwise, the workflow’s application scope is private to the application.
 
 **Note:** Any script that is created in the Workflow Editor, such as an advanced script in an If activity, runs in the scope of the workflow. All core activities provided in the base system or for Orchestration run in the scope of the workflow.
 
@@ -48,6 +48,3 @@ See [Application scope](https://raw.githubusercontent.com/ServiceNow/ServiceNowD
 
 For information on how to configure the scope for a workflow, see [Workflow properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/r_WorkflowProperties.md).
 
-## Related
-
-- [[workflow-editor|Workflow editor]]

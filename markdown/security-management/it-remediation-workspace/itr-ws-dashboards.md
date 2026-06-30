@@ -16,10 +16,7 @@ breadcrumb: [Exploring the IT Remediation Workspace, IT Remediation Workspace, V
 
 The Dashboards page in the IT Remediation Workspace provides the Vulnerability Remediation dashboard in the Next Experience UI which can be used to focus on the remediation tasks and vulnerable items.
 
-As a remediation owner \(sn\_vul.remediation\_owner\), you can access the **Vulnerability Remediation** dashboard by navigating to **Workspaces** &gt; **[[it-remediation-workspace-landing-page|IT Remediation Workspace]]** and selecting the Dashboards icon. For more information on the Vulnerability Remediation dashboard, see [Using the default Vulnerability Response dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-response/c_VulnHomepage.md).
+As a remediation owner \(sn\_vul.remediation\_owner\), you can access the **Vulnerability Remediation** dashboard by navigating to **Workspaces** &gt; **IT Remediation Workspace** and selecting the Dashboards icon. For more information on the Vulnerability Remediation dashboard, see [Using the default Vulnerability Response dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-response/c_VulnHomepage.md).
 
 You can create a customized dashboard by selecting the More options icon \[Omitted image "ellipsis-vertical-outline-24.svg"\] Alt text: More options and selecting **Create new**.
 
-## Related
-
-- [[it-remediation-workspace-landing-page|IT Remediation Workspace]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure Appointment Booking, Configuring Appointment Booking, Add
 
 # Create or modify an application configuration for Appointment Booking
 
-Set up an application configuration to manage [[appointment-booking|appointment booking]] settings across all services within your application. You can either create a new configuration or modify an existing one provided by [[fsm-application-landing-page|Field Service Management]].
+Set up an application configuration to manage appointment booking settings across all services within your application. You can either create a new configuration or modify an existing one provided by Field Service Management.
 
 ## Before you begin
 
@@ -71,13 +71,13 @@ Availability Method
 
 </td><td>
 
-Use one of the methods to determine appointment availability at the application-level. You can choose the availability method depending on the Field Service Management configuration setting in the **Assignment method for tasks** field of [[t_ConfigureFieldService|Global domain configurations]]. The available methods are:-   **Number of appointments per slot**: Sets a fixed number of available appointments per time slot. Recommended if task assignment is manual.
--   **Scripted**: Dynamically calculates availability of technicians using customized scripts. Recommended if auto-assignment or [[dynamic-scheduling|dynamic scheduling]] is used. This is the default setting.
--   **Based on [[capacity|capacity]]**: Calculates availability based on the capacity defined in the capacity management settings. For more information, see [Create a capacity assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/assign-work-based-on-the-defined-capacity-.md)
+Use one of the methods to determine appointment availability at the application-level. You can choose the availability method depending on the Field Service Management configuration setting in the **Assignment method for tasks** field of [Global domain configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/t_ConfigureFieldService.md). The available methods are:-   **Number of appointments per slot**: Sets a fixed number of available appointments per time slot. Recommended if task assignment is manual.
+-   **Scripted**: Dynamically calculates availability of technicians using customized scripts. Recommended if auto-assignment or dynamic scheduling is used. This is the default setting.
+-   **Based on capacity**: Calculates availability based on the capacity defined in the capacity management settings. For more information, see [Create a capacity assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/assign-work-based-on-the-defined-capacity-.md)
 
-This option is available when the Task Table is selected as work\_order and Field Service [[capacity-management|Capacity and Reservations Management]] plugin is installed.
+This option is available when the Task Table is selected as work\_order and Field Service Capacity and Reservations Management plugin is installed.
 
-For more information on appointment availability methods, see [[appt-booking-task-assignment|Learn about appointment availability settings]].
+For more information on appointment availability methods, see [Learn about appointment availability settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/appt-booking-task-assignment.md).
 
 </td></tr><tr><td>
 
@@ -133,12 +133,3 @@ The application configuration is created or modified. Appointment booking settin
 
 Create service configurations for each of the services available to the customers. For more information, see [Create or modify an application configuration for Appointment Booking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/appt-booking-create-app-config.md).
 
-## Related
-
-- [[t_ConfigureFieldService|Global domain configurations]]
-- [[appt-booking-task-assignment|Learn about appointment availability settings]]
-- [[appointment-booking|Appointment booking]]
-- [[fsm-application-landing-page|Field Service Management]]
-- [[dynamic-scheduling|Dynamic scheduling]]
-- [[capacity|Capacity]]
-- [[capacity-management|Capacity and Reservations Management]]

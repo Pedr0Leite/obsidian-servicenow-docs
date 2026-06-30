@@ -14,7 +14,7 @@ breadcrumb: [Set up Microsoft Outlook integration in Career Conversations, Insta
 
 # Create a connection with Microsoft Exchange Online
 
-Integrate the [[egd-activities-conversations-module|Career Conversations]] ServiceNow instance and Microsoft Exchange Online account by creating a custom OAuth application in Microsoft Exchange Online to authenticate ServiceNow requests.
+Integrate the Career Conversations ServiceNow instance and Microsoft Exchange Online account by creating a custom OAuth application in Microsoft Exchange Online to authenticate ServiceNow requests.
 
 ## Before you begin
 
@@ -43,6 +43,3 @@ Set up conversations and sync them with Microsoft Outlook using a connection wit
 
 **Parent Topic:**[Set up Microsoft Outlook integration in Career Conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/outlook-integration-cc.md)
 
-## Related
-
-- [[egd-activities-conversations-module|Career Conversations]]

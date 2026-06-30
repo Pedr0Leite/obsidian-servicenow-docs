@@ -12,7 +12,7 @@ breadcrumb: [Capacity and Reservations components, Components installed with add
 
 # Capacity and Reservations Management components
 
-Several types of components are installed with the Advanced [[capacity-management|Capacity and Reservations Management]] feature, including tables, and script includes.
+Several types of components are installed with the Advanced Capacity and Reservations Management feature, including tables, and script includes.
 
 ## Tables
 
@@ -41,7 +41,7 @@ The Advanced Capacity and Reservations Management adds the role listed in the fo
 
 |Roles|Description|
 |-----|-----------|
-|fsm\_adv\_cap\_mgmt.wm\_capacity\_planner|Provides read, write, and create access to [[capacity|capacity]]-related tables, along with access to the [[capacity-console|Capacity Console]].|
+|fsm\_adv\_cap\_mgmt.wm\_capacity\_planner|Provides read, write, and create access to capacity-related tables, along with access to the Capacity Console.|
 
 ## Script includes
 
@@ -63,7 +63,7 @@ The Advanced Capacity and Reservations Management adds the configuration listed 
 
 |Configuration|Description|
 |-------------|-----------|
-|Enable/disable association of territory resources with demand channel|Allows you [[map-resource-demand-channel|associate technicians with demand channels]] for appropriate assignment of tasks. This configuration is applicable only when Territory model and [[using-wfo-fsm|Workforce Optimization]] is enabled.|
+|Enable/disable association of territory resources with demand channel|Allows you associate technicians with demand channels for appropriate assignment of tasks. This configuration is applicable only when Territory model and Workforce Optimization is enabled.|
 
 ## Scheduled job
 
@@ -73,13 +73,5 @@ The Advanced Capacity and Reservations Management adds the scheduled job listed 
 |-------------|-----------|
 |FSM Resource Demand Channel Migration - On Demand|Run this scheduled job optionally to associate technicians with demand channels.|
 
-**Parent Topic:**[[capacity-management-components|Field Service Capacity and Reservations Management components]]
+**Parent Topic:**[Field Service Capacity and Reservations Management components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/capacity-management-components.md)
 
-## Related
-
-- [[capacity-management-components|Field Service Capacity and Reservations Management components]]
-- [[capacity-management|Capacity and Reservations Management]]
-- [[capacity|Capacity]]
-- [[capacity-console|Capacity Console]]
-- [[map-resource-demand-channel|Associate technicians with demand channels]]
-- [[using-wfo-fsm|Workforce Optimization]]

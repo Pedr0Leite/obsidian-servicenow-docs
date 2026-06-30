@@ -13,7 +13,7 @@ breadcrumb: [Building a scenario analysis using simulation, Scenario analysis us
 
 # Log operational vulnerabilities and issues
 
-Optionally document operational weaknesses and link issues identified from the [[scenario-analysis-ov|scenario analysis]] results to support remediation tracking.
+Optionally document operational weaknesses and link issues identified from the scenario analysis results to support remediation tracking.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Steps to identify operational vulnerabilities and log issues are optional. They 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[grc-opres-landing-page|Operational Resilience]]** &gt; **Scenario Analysis** and open the Scenario Analysis record form.
+1.  Navigate to **All** &gt; **Operational Resilience** &gt; **Scenario Analysis** and open the Scenario Analysis record form.
 
 2.  In the Playbook stage panel, select **Operational Vulnerabilities**.
 
@@ -33,9 +33,9 @@ Steps to identify operational vulnerabilities and log issues are optional. They 
 
 4.  Enter a **Name** for the vulnerability and confirm the auto-populated **Source record**, which points to the current scenario analysis.
 
-    The **Number** is generated automatically with the `ORV` prefix. The created vulnerability follows the standard operational vulnerability life cycle: New, Assessment, Treatment, Pending approval, Approved, Closed, Canceled. For more information, see [[exploring-op-vul|Operational vulnerability]].
+    The **Number** is generated automatically with the `ORV` prefix. The created vulnerability follows the standard operational vulnerability life cycle: New, Assessment, Treatment, Pending approval, Approved, Closed, Canceled. For more information, see [Operational vulnerability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/exploring-op-vul.md).
 
-    **Note:** You can only create vulnerabilities from this step. To pull in an existing operational vulnerability, use the operational vulnerability [[list-view-uib-ws|list view]] directly.
+    **Note:** You can only create vulnerabilities from this step. To pull in an existing operational vulnerability, use the operational vulnerability list view directly.
 
     \[Omitted image "sca-op-vulnerabilities-stage-with-record.png"\] Alt text: Operational Vulnerabilities step listing one row with Number, Name, and Source record set to the current scenario analysis.
 
@@ -64,12 +64,5 @@ Steps to identify operational vulnerabilities and log issues are optional. They 
 
 ## Result
 
-Operational vulnerabilities and issues have been recorded or skipped. The **Complete analysis** action is now available. For more information on completing Scenario analysis, see [[complete-sca-analysis|Mark the scenario analysis as complete]].
+Operational vulnerabilities and issues have been recorded or skipped. The **Complete analysis** action is now available. For more information on completing Scenario analysis, see [Mark the scenario analysis as complete](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/complete-sca-analysis.md).
 
-## Related
-
-- [[exploring-op-vul|Operational vulnerability]]
-- [[complete-sca-analysis|Mark the scenario analysis as complete]]
-- [[scenario-analysis-ov|Scenario analysis]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[list-view-uib-ws|List view]]

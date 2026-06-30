@@ -14,7 +14,7 @@ breadcrumb: [Manage portfolio plans, Portfolio Planning in Strategic Planning Wo
 
 # Create a high-level portfolio plan
 
-Build a portfolio plan for high-level strategic items in the [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace so that you can prioritize, roadmap, and manage work aligned to these strategic items.
+Build a portfolio plan for high-level strategic items in the Strategic Planning Workspace so that you can prioritize, roadmap, and manage work aligned to these strategic items.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ In this task, select a lens, add conditions to filter the planning item data tha
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]]**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Portfolio Planning**.
 
 2.  From the Portfolio Plans page, select **New**.
 
@@ -62,7 +62,7 @@ In this task, select a lens, add conditions to filter the planning item data tha
 
     4.  Select a scoring framework using the drop-down values or from the Scoring framework window.
 
-        To [[create-a-custom-scoring-framework|create a custom scoring framework]] for your portfolio plan, select **Explore scoring frameworks**.\[Omitted image "scoring.png"\] Alt text: Select a scoring framework for your portfolio plan.
+        To create a custom scoring framework for your portfolio plan, select **Explore scoring frameworks**.\[Omitted image "scoring.png"\] Alt text: Select a scoring framework for your portfolio plan.
 
     Use the **Previous** and **Next** buttons to navigate between the steps.
 
@@ -76,14 +76,8 @@ The portfolio plan is created and the page is refreshed to show the Goals, Scori
 ## What to do next
 
 -   Define goals for your portfolio plan and align work to them. See [Managing portfolio plan goals in Strategic Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/managing-goals-in-alignment-planner-workspace.md).
--   Analyze the backlog and [[prioritize-work-portfolio-planning-workspace|prioritize work]] for your portfolio plan. See [Prioritizing portfolio plan work in Strategic Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/managing-backlog-alignment-planner-workspace.md).
+-   Analyze the backlog and prioritize work for your portfolio plan. See [Prioritizing portfolio plan work in Strategic Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/managing-backlog-alignment-planner-workspace.md).
 -   Show or hide features for your portfolio plan according to your requirement while sharing a portfolio plan with your stakeholders. See, [Show or hide the features for a portfolio plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/show-or-hide-the-features-for-your-portfolio-plan-spw.md).
 
 **Parent Topic:**[Managing portfolio plans in Strategic Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/managing-portfolio-plans-in-alignment-planner-workspace.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[create-a-custom-scoring-framework|Create a custom scoring framework]]
-- [[prioritize-work-portfolio-planning-workspace|Prioritize work]]

@@ -19,7 +19,7 @@ Assess your AI governance across six areas, identify and prioritize governance g
 
 ## Accelerator Overview
 
-ServiceNow Governance – On Demand provides [[impact-landing-page|Impact]] customers with a structured, self-paced way to evaluate the current state of six critical AI governance domains. Through this process, customers identify gaps, prioritize what matters most, confirm their focus areas, and develop a clear, actionable, and easy-to-execute 90-day action plan. Designed for independent execution, customers progress at their own pace using guided activities, example-driven content, and built-in tools without the need for scheduling the activities. This offering is grounded in the [[servicenow-governance|ServiceNow Governance]] framework and aligned to the international standard for Artificial Intelligence Management Systems.
+ServiceNow Governance – On Demand provides Impact customers with a structured, self-paced way to evaluate the current state of six critical AI governance domains. Through this process, customers identify gaps, prioritize what matters most, confirm their focus areas, and develop a clear, actionable, and easy-to-execute 90-day action plan. Designed for independent execution, customers progress at their own pace using guided activities, example-driven content, and built-in tools without the need for scheduling the activities. This offering is grounded in the ServiceNow Governance framework and aligned to the international standard for Artificial Intelligence Management Systems.
 
 ## Package Availability
 
@@ -77,7 +77,3 @@ The following are recommended resources suggested to participate and contribute 
 
 ServiceNow is not responsible for implementing any of the recommended governance changes in your organization. This accelerator provides assessment and guidance while the implementation of governance structures, policies, and controls is the customer's responsibility.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[servicenow-governance|ServiceNow Governance]]

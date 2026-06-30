@@ -12,7 +12,7 @@ breadcrumb: [Stats Tools, System Diagnostics, Maintain and monitor, Administer t
 
 # Slow transactions log record detail
 
-As an administrator, you can use Slow Transactions logs to gain insight into how transactions are affecting [[platform-performance-landing|platform performance]]. To aid in debugging, you can filter transaction log detail by application scope, limiting transactions to only those transactions originating in specific scopes.
+As an administrator, you can use Slow Transactions logs to gain insight into how transactions are affecting platform performance. To aid in debugging, you can filter transaction log detail by application scope, limiting transactions to only those transactions originating in specific scopes.
 
 |Field|Description|
 |-----|-----------|
@@ -25,6 +25,3 @@ As an administrator, you can use Slow Transactions logs to gain insight into how
 |Example type|Example transaction type executed.|
 |Example processor|Example processor for an individual transaction.|
 
-## Related
-
-- [[platform-performance-landing|Platform performance]]

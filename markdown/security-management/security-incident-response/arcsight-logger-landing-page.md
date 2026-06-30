@@ -18,7 +18,7 @@ The HPE ArcSight Logger - Incident Enrichment integration searches your logs and
 
 <table id="simpletable_g33_wwg_vt" class="simpletableBody"><tbody><tr><td>
 
-[[threat-intelligence-security-center-overview|Explore]]
+Explore
 
  [Security Incident Response integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/sir_integrations.md)
 
@@ -27,24 +27,24 @@ The HPE ArcSight Logger - Incident Enrichment integration searches your logs and
 Set up
 
  -   [Get started with the HPE ArcSight Logger](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/activate-configure-arcsight-inc-enrich.md)
--   [[sightings-search-configurations|Create sightings search configuration records]]
+-   [Create sightings search configuration records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sightings-search-configurations.md)
 
 </td></tr><tr><td>
 
 Use
 
- -   [[run-sightings-search|Run a Sightings Search]]
--   [[secops-integration-sightings-search-workflow|Security Operations Integration - Sightings Search Flow]]
--   [[secops-integration-sightings-search-arcsight-workflow|Security Operations - Arcsight Logger Sightings Search Flow]]
--   [[view-sightings-search-details|View Sightings Search Details]]
--   [[view-sightings-search-results|View Sightings Search Results]]
+ -   [Run a Sightings Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/run-sightings-search.md)
+-   [Security Operations Integration - Sightings Search Flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/secops-integration-sightings-search-workflow.md)
+-   [Security Operations - Arcsight Logger Sightings Search Flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/secops-integration-sightings-search-arcsight-workflow.md)
+-   [View Sightings Search Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/view-sightings-search-details.md)
+-   [View Sightings Search Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/view-sightings-search-results.md)
 
 </td><td>
 
 Develop
 
- -   [[c_IntegrationWritingGuidelines|ServiceNow Security Operations integration development guidelines]]
--   [[c_BestPractisesIntegrations|Tips for writing integrations]]
+ -   [ServiceNow Security Operations integration development guidelines](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/c_IntegrationWritingGuidelines.md)
+-   [Tips for writing integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/c_BestPractisesIntegrations.md)
 -   [Developer training](https://developer.servicenow.com/app.do#!/training/landing)
 -   [Developer documentation](https://developer.servicenow.com/app.do#!/documentation)
 -   [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md)
@@ -53,7 +53,7 @@ Develop
 
 Troubleshoot and get help
 
- -   [[c_IntegrationTroubleshooting|Integration troubleshooting]]
+ -   [Integration troubleshooting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/c_IntegrationTroubleshooting.md)
 -   [Ask or answer questions in the Security Operations community](https://community.servicenow.com/community/security-operations)
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
@@ -64,16 +64,3 @@ Troubleshoot and get help
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sightings-search-configurations|Create sightings search configuration records]]
-- [[run-sightings-search|Run a Sightings Search]]
-- [[secops-integration-sightings-search-workflow|Security Operations Integration - Sightings Search Flow]]
-- [[secops-integration-sightings-search-arcsight-workflow|Security Operations - Arcsight Logger Sightings Search Flow]]
-- [[view-sightings-search-details|View Sightings Search Details]]
-- [[view-sightings-search-results|View Sightings Search Results]]
-- [[c_IntegrationWritingGuidelines|ServiceNow Security Operations integration development guidelines]]
-- [[c_BestPractisesIntegrations|Tips for writing integrations]]
-- [[c_IntegrationTroubleshooting|Integration troubleshooting]]
-- [[threat-intelligence-security-center-overview|Explore]]

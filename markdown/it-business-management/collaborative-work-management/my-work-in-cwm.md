@@ -14,9 +14,9 @@ breadcrumb: [Use, Collaborative Work Management, Strategic Portfolio Management]
 
 # My Work in CWM
 
-Manage your work from all ServiceNow applications from a centralized view in the [[cwm-landing|Collaborative Work Management]] workspace.
+Manage your work from all ServiceNow applications from a centralized view in the Collaborative Work Management workspace.
 
-My Work provides a centralized view of all your assigned tasks, including [[t_CreateAProjectTask|project tasks]], problems, and incidents. It also offers visualizations that group items by state, priority, and status, such as open or overdue.
+My Work provides a centralized view of all your assigned tasks, including project tasks, problems, and incidents. It also offers visualizations that group items by state, priority, and status, such as open or overdue.
 
 Work items from all ServiceNow applications assigned to you’re displayed in My Work. If you receive a work item on the CWM Board via Connected Work, those items appear here as well. This ensures you have a single source for all assigned work without the need to switch between applications.
 
@@ -38,7 +38,7 @@ My Work page has two views, Overview and List.
 -   Overview tab shows multiple widgets that provide information related to the progress of your work. It also enables you to apply filters on the type of tasks that you want to view.
 -   List tab shows all open work items assigned to you in a list or grid format, where you can apply the group by and filter options on the columns.
 
-    List view also provides a link back to the source of the work item. For example, if your work item is a Risk, the Source column in the List view provides a navigation to the RIDAC page of the [[project-workspace-landing-page|Project Workspace]] application.
+    List view also provides a link back to the source of the work item. For example, if your work item is a Risk, the Source column in the List view provides a navigation to the RIDAC page of the Project Workspace application.
 
 
 <table id="table_vtn_bhz_bcc"><thead><tr><th>
@@ -136,8 +136,3 @@ The List view shows all open work items assigned to you. Select the **Short desc
 
 **Parent Topic:**[Using Collaborative Work Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/using-collaborative-work-management.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]
-- [[t_CreateAProjectTask|Project tasks]]
-- [[project-workspace-landing-page|Project Workspace]]

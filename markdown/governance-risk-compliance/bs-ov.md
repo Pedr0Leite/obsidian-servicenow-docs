@@ -12,11 +12,11 @@ breadcrumb: [Landing page and dashboard views, Operational Resilience, Governanc
 
 # Business services overview tab
 
-The **Business services overview** tab in the [[grc-opres-landing-page|Operational Resilience]] Workspace provides a comprehensive summary of active business services, highlighting any red flags or urgent issues, status of resilience activities like assessments, [[scenario-analysis-ov|scenario analysis]], self-attestations. It also offers suggestions for mitigating top risks or vulnerabilities and strengthening top controls.
+The **Business services overview** tab in the Operational Resilience Workspace provides a comprehensive summary of active business services, highlighting any red flags or urgent issues, status of resilience activities like assessments, scenario analysis, self-attestations. It also offers suggestions for mitigating top risks or vulnerabilities and strengthening top controls.
 
 ## Business services overview section on the landing page
 
-Existing customers typically use the [[main-node-config-bs-cmdb|Service \(CMDB\) Main node configuration]], while new customers use the [[opres-with-csdm-header|Opres with CSDM header Main node configuration]]. Administrators show the **Business services overview** tab and hide the **Services overview** tab from the Operational Resilience Workspace view based on your organizational needs.
+Existing customers typically use the Service \(CMDB\) Main node configuration, while new customers use the Opres with CSDM header Main node configuration. Administrators show the **Business services overview** tab and hide the **Services overview** tab from the Operational Resilience Workspace view based on your organizational needs.
 
 \[Omitted image "bs-overview.png"\] Alt text: Overview.
 
@@ -33,7 +33,7 @@ The Business services report on the **Business services overview** tab provides 
 
 ## Report on the red flags
 
-The Red flags report on the **Business services overview** tab shows the total number of red flags that require immediate attention for the associated assets, controls, issues, and risks related to the selected business service. It breaks down details of the red flags based on the integrations with the Operational Resilience application. For example, if you have installed the [[r_PolicyComplianceMgmt|Policy and Compliance Management]] application, business services data for the failed controls is pulled from that application and displayed in this report.
+The Red flags report on the **Business services overview** tab shows the total number of red flags that require immediate attention for the associated assets, controls, issues, and risks related to the selected business service. It breaks down details of the red flags based on the integrations with the Operational Resilience application. For example, if you have installed the Policy and Compliance Management application, business services data for the failed controls is pulled from that application and displayed in this report.
 
 A sample Red flags report for the business services is shown in the example.
 
@@ -51,13 +51,13 @@ The following data is displayed for the business services in the report:
     -   Incidents
     -   Change requests
     -   Operational vulnerabilities
-    -   [[crisis-management-uib|Crisis events]]
+    -   Crisis events
     -   Vulnerabilities
     **Note:**
 
     As an administrator, you can navigate to **System properties &gt; All properties** in your instance and configure the **sn\_oper\_res.red\_flags\_exclusion** property for the red flags section.
 
-    By default, the services tasks, [[business-continuity-mangmt-overview|Business Continuity Management]] plan, and dependencies are excluded from the display list in the Red flags section.
+    By default, the services tasks, Business Continuity Management plan, and dependencies are excluded from the display list in the Red flags section.
 
 -   Assets impacted by red flags: Assets with red flags that are categorized by the pillar are shown.
 
@@ -231,7 +231,7 @@ The Activities report on the **Business services overview** tab displays tasks a
 
 ## Suggestions for mitigating the issues
 
-The Suggestions report on the **Business services overview** tab offers recommendations and workarounds to mitigate issues and risks for various [[opres-ws-homepage-overview|resilience metrics]] for the business services.
+The Suggestions report on the **Business services overview** tab offers recommendations and workarounds to mitigate issues and risks for various resilience metrics for the business services.
 
 \[Omitted image "bs-suggestions.png"\] Alt text: Suggestions.
 
@@ -241,13 +241,3 @@ Depending on the applications integrated with Operational Resilience, suggestion
 -   Top risks to be mitigated
 -   Top vulnerabilities to be fixed
 
-## Related
-
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[scenario-analysis-ov|Scenario analysis]]
-- [[main-node-config-bs-cmdb|Service \(CMDB\) Main node configuration]]
-- [[opres-with-csdm-header|Opres with CSDM header Main node configuration]]
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[crisis-management-uib|Crisis events]]
-- [[business-continuity-mangmt-overview|Business Continuity Management]]
-- [[opres-ws-homepage-overview|Resilience metrics]]

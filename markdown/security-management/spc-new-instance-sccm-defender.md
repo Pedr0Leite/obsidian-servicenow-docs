@@ -190,8 +190,6 @@ Details about the validation attempt.
 
 10. Select **Next**.
 
-    The PowerShell script is created as described in [[spc-install-config-sccm-defender|Install and configure the Service Graph Connector for Microsoft SCCM and the Microsoft Defender Mitigation Control Integration]]. Follow the steps in that topic to approve the scripts for your new instances.
+    The PowerShell script is created as described in [Install and configure the Service Graph Connector for Microsoft SCCM and the Microsoft Defender Mitigation Control Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-install-config-sccm-defender.md). Follow the steps in that topic to approve the scripts for your new instances.
 
-## Related
 
-- [[spc-install-config-sccm-defender|Install and configure the Service Graph Connector for Microsoft SCCM and the Microsoft Defender Mitigation Control Integration]]

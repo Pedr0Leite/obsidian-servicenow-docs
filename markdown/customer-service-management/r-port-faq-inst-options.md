@@ -12,7 +12,7 @@ breadcrumb: [Configurable Portal widgets instance options, Configurable Portal W
 
 # Portal FAQ widget instance options form
 
-The instance options enable you to configure the [[portal-faq-widget|Portal FAQ widget]] on a portal page.
+The instance options enable you to configure the Portal FAQ widget on a portal page.
 
 <table id="table_csm_base_entities"><thead><tr><th>
 
@@ -162,6 +162,3 @@ The default option is Exceed preview.
 
 [Add and configure the Portal FAQ widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/config-portal-faq-widget-inst-optns.md)
 
-## Related
-
-- [[portal-faq-widget|Portal FAQ widget]]

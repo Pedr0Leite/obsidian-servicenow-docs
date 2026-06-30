@@ -14,7 +14,7 @@ breadcrumb: [Finance Case Management, Finance and Supply Chain applications, Fin
 
 # Explore Finance Case Management
 
-Learn about the benefits and capabilities of [[fin-case-mgmt-landing-page|Finance Case Management]].
+Learn about the benefits and capabilities of Finance Case Management.
 
 **Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 
@@ -28,7 +28,7 @@ Finance Case Management offers the following benefits:
 
 ## Themes
 
-As part of the Next Experience default theme provided by the ServiceNow platform, new customers will have the Next experience coral theme enabled by default in their instance. All the email notification templates in [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] are coral themed.
+As part of the Next Experience default theme provided by the ServiceNow platform, new customers will have the Next experience coral theme enabled by default in their instance. All the email notification templates in Accounts Payable Operations are coral themed.
 
 The dark theme emits less blue light, making the display easier for your eyes and less disturbing in low-light settings. The dark theme is supported for configurable workspaces, lists, forms, dashboards, and reports.
 
@@ -54,7 +54,3 @@ The Finance Operations Workspace is a single system to manage and prioritize wor
 
 **Parent Topic:**[Finance Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/fin-case-mgmt-landing-page.md)
 
-## Related
-
-- [[fin-case-mgmt-landing-page|Finance Case Management]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]

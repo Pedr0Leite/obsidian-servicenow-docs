@@ -15,7 +15,7 @@ breadcrumb: [Reference, Accounts Payable Operations, Finance and Supply Chain]
 
 # Approval Rule form
 
-Use the Approval Rule form when creating or configuring an approval rule to generate and route invoice or [[purchase-order-table|purchase order]] approvals.
+Use the Approval Rule form when creating or configuring an approval rule to generate and route invoice or purchase order approvals.
 
 <table id="table_lsd_kd5_4wb"><thead><tr><th>
 
@@ -47,7 +47,7 @@ Active
 
 </td><td>
 
-Option to decide if this rule is used to generate [[invoice-approvals|invoice approvals]].
+Option to decide if this rule is used to generate invoice approvals.
 
 </td></tr><tr><td>
 
@@ -58,7 +58,7 @@ Approving object
 Object you’re seeking approval for. The following options are available:-   **Invoice**
 -   **Purchase Order**
 
-To [[invoice-approval-rule|create an approval rule]] for an invoice, select **Invoice**.
+To create an approval rule for an invoice, select **Invoice**.
 
 </td></tr><tr><td>
 
@@ -115,7 +115,7 @@ Conditions based on the approving object that determine the conditions under whi
 
 [Create New Invoice Line form]()
 
-[Create [[invoice-line-cost-allocation|invoice cost allocation]] form]()
+[Create invoice cost allocation form]()
 
 [Outbound cost allocation staging table]()
 
@@ -141,9 +141,3 @@ Conditions based on the approving object that determine the conditions under whi
 
 [Accounts Payable Operations glossary]()
 
-## Related
-
-- [[purchase-order-table|Purchase order]]
-- [[invoice-approvals|Invoice approvals]]
-- [[invoice-approval-rule|Create an approval rule]]
-- [[invoice-line-cost-allocation|Invoice cost allocation]]

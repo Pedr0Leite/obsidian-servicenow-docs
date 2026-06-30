@@ -14,18 +14,18 @@ breadcrumb: [Configuring MID Server, MID Server, Manage instance data sources, E
 
 # Configuring MID Servers
 
-After installing and validating your MID Servers, ensure that they have access to sufficient system resources, probe the proper targets, and communicate with the instance as expected. Configure [[c_MIDServerSelector|MID Server selection]] criteria, create clusters for failover protection, and set up MID Servers in different domains to protect data.
+After installing and validating your MID Servers, ensure that they have access to sufficient system resources, probe the proper targets, and communicate with the instance as expected. Configure MID Server selection criteria, create clusters for failover protection, and set up MID Servers in different domains to protect data.
 
 <table id="table_qf5_z54_nhb"><tbody><tr><td>
 
 ![Setup indicator for configuration phase](../image/ProgressBarConfig.png)
 
 </td></tr></tbody>
-</table>Some of these configuration procedures rely on data found in the [[mid-server-landing|MID Server]] [references home page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-reference-information.md). See that page for links to the parameters, properties, and privileged commands you need to fine tune the behavior of your MID Servers. You can apply controls to individual MID Servers or to all the MID Servers in your environment. Remember to restart the MID Server after any configuration change for those changes to take effect.
+</table>Some of these configuration procedures rely on data found in the MID Server [references home page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-reference-information.md). See that page for links to the parameters, properties, and privileged commands you need to fine tune the behavior of your MID Servers. You can apply controls to individual MID Servers or to all the MID Servers in your environment. Remember to restart the MID Server after any configuration change for those changes to take effect.
 
 ## MID Server selection
 
-MID Servers are selected for use based on three criteria: applications, [[ip-address|IP address]] or range, and capabilities. You can designate specific applications for a given MID Server, such as Discovery or Orchestration. You can specify an IP address or a range that a MID Server is allowed to work within. Some applications require specific capabilities, and so are restricted to MID Servers with those capabilities.
+MID Servers are selected for use based on three criteria: applications, IP address or range, and capabilities. You can designate specific applications for a given MID Server, such as Discovery or Orchestration. You can specify an IP address or a range that a MID Server is allowed to work within. Some applications require specific capabilities, and so are restricted to MID Servers with those capabilities.
 
 -   **[MID Server selection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/c_MIDServerSelector.md)**
 
@@ -67,7 +67,7 @@ MID Server clusters are groups of MID Servers which provide support to each othe
 
 ## Domain separation
 
-[[domain-separation-relationship-formatter-editor|Domain separation]] segregates MID Servers based on the records they can access. The credentials configured in a MID Server's config.xml file determine which records that MID Server can read, update, or create. You can specify MID Server policy records that only MID Servers from the same domain can use.
+Domain separation segregates MID Servers based on the records they can access. The credentials configured in a MID Server's config.xml file determine which records that MID Server can read, update, or create. You can specify MID Server policy records that only MID Servers from the same domain can use.
 
 -   **[MID Server domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/c_MIDServerDomainSeparation.md)**
 
@@ -90,16 +90,10 @@ You must install Nmap on each MID Server running on a Windows host. When given t
 
 -   **[vCenter event collector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/c_VCenterEventProcessorExtension.md)**
 
-    The [[c_VCenterEventProcessorExtension|vCenter event collector]] listens for vCenter-related events and updates the CMDB accordingly. The event collector allows the CMDB to be updated with changes to virtual machines \(VMs\), in addition to the updates detected by Discovery. A change to a VM is sent as an event from the vCenter server to the vCenter event collector. When an event is received, the CMDB is updated accordingly. Full vCenter Discovery does not need to rerun. For some events, such as powered on and powered off events, Discovery does not need to run again at all. For most events, Discovery runs only on the necessary vCenter resource.
+    The vCenter event collector listens for vCenter-related events and updates the CMDB accordingly. The event collector allows the CMDB to be updated with changes to virtual machines \(VMs\), in addition to the updates detected by Discovery. A change to a VM is sent as an event from the vCenter server to the vCenter event collector. When an event is received, the CMDB is updated accordingly. Full vCenter Discovery does not need to rerun. For some events, such as powered on and powered off events, Discovery does not need to run again at all. For most events, Discovery runs only on the necessary vCenter resource.
 
 -   **[SNMP trap collector extension](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/c_SNMPTrapCollectorExtension.md)**
 
     The SNMP trap collector is a MID Server extension that listens for SNMP traps from the devices on your network. Upon receiving a trap, the MID Server sends the trap to the instance for further processing by Event Management. If Event Management is not active, traps are not processed and are discarded by the instance.
 
-## Related
 
-- [[c_MIDServerSelector|MID Server selection]]
-- [[mid-server-landing|MID Server]]
-- [[ip-address|IP Address]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]
-- [[c_VCenterEventProcessorExtension|vCenter event collector]]

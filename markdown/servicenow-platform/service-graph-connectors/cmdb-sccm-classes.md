@@ -79,7 +79,7 @@ The following attributes in the Disk \[cmdb\_ci\_disk\] table are populated by c
 
 ## IP Address \[cmdb\_ci\_ip\_address\]
 
-The following attributes in the [[ip-address|IP Address]] \[cmdb\_ci\_ip\_address\] table are populated by collected data:
+The following attributes in the IP Address \[cmdb\_ci\_ip\_address\] table are populated by collected data:
 
 |Attribute label|Attribute name|
 |---------------|--------------|
@@ -195,6 +195,3 @@ The following attributes in the Software Instance \[cmdb\_software\_instance\] t
 |------------|-----------------|-----------|
 |Software Instance \[cmdb\_software\_instance\]|Reference|Computer \[cmdb\_ci\_computer\]|
 
-## Related
-
-- [[ip-address|IP Address]]

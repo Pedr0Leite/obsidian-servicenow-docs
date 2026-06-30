@@ -14,9 +14,9 @@ breadcrumb: [Notify workflow activities, Notify reference, Notify, Manage servic
 
 # Notify activity event handlers
 
-[[c_NotifyActivities|Notify workflow activities]] provide JavaScript functions that are invoked automatically when your telephony provider broadcasts certain events.
+Notify workflow activities provide JavaScript functions that are invoked automatically when your telephony provider broadcasts certain events.
 
-When the telephony provider broadcasts an event related to a [[notify-landing-page|Notify]] call, such as the caller hanging up, the event is processed by the workflow associated with that Notify call. All currently-executing Notify activities in that workflow invoke a JavaScript function associated with that event.
+When the telephony provider broadcasts an event related to a Notify call, such as the caller hanging up, the event is processed by the workflow associated with that Notify call. All currently-executing Notify activities in that workflow invoke a JavaScript function associated with that event.
 
 Not all activities that support an event provide a default event handler implementation. You can provide an implementation for those event handlers when creating custom Notify activities.
 
@@ -29,7 +29,3 @@ Not all activities that support an event provide a default event handler impleme
 
 [Available Notify activity event handlers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/r_NotifyEventHandlerMatrix.md)
 
-## Related
-
-- [[c_NotifyActivities|Notify workflow activities]]
-- [[notify-landing-page|Notify]]

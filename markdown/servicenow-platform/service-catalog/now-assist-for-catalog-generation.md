@@ -15,7 +15,7 @@ breadcrumb: [Service Catalog, Manage service capabilities, Extend ServiceNow AI 
 
 # Now Assist in Catalog Builder
 
-Use ServiceNow® Now Assist in Catalog Builder to create catalog items of your choice in [[catalog-builder|Catalog Builder]] by giving text inputs.
+Use ServiceNow® Now Assist in Catalog Builder to create catalog items of your choice in Catalog Builder by giving text inputs.
 
 ## Get started
 
@@ -25,7 +25,7 @@ Use ServiceNow® Now Assist in Catalog Builder to create catalog items of your c
 
 </td><td>
 
-[Configure\[Omitted image "bus-sdlc.svg"\] Alt text:Learn how to configure [[now-assist-catalog-item-generation|catalog item generation]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/configuring-catalog-item-generation.md)
+[Configure\[Omitted image "bus-sdlc.svg"\] Alt text:Learn how to configure catalog item generation.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/configuring-catalog-item-generation.md)
 
 </td></tr><tr><td>
 
@@ -33,7 +33,7 @@ Use ServiceNow® Now Assist in Catalog Builder to create catalog items of your c
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about form fields, roles, and more.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/catalog-item-generation-[[reference|reference]].md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about form fields, roles, and more.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/catalog-item-generation-reference.md)
 
 </td></tr></tbody>
 </table>**Important:** Some Now Assist products/features are currently unavailable for customers in the FedRAMP, NSC DOD IL5, or Australia IRAP-Protected data centers, self-hosted customers, or in other restricted environments. For more information, see the [KB0743854](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0743854) article in the Now Support Knowledge Base. Please check for availability updates in future releases.
@@ -64,15 +64,9 @@ Install the Now Assist for Creator application from the ServiceNow® Store to ge
 -   **[Configuring Now Assist in Catalog Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/configuring-catalog-item-generation.md)**  
 Install and configure Now Assist in Catalog Builder.
 -   **[Using Now Assist conversation to create and edit catalog items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/use-now-assist-conversation-to-create-and-edit-catalog-items.md)**  
-Now Assist provides a conversational interface that enables you to create catalog items, making these items available in the [[service-catalog|Service Catalog]] for users to request.
+Now Assist provides a conversational interface that enables you to create catalog items, making these items available in the Service Catalog for users to request.
 -   **[Catalog item generation reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/catalog-item-generation-reference.md)**  
 Reference topics provide additional information about configuration properties, roles, and more.
 
 **Parent Topic:**[Service Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/service-catalog.md)
 
-## Related
-
-- [[catalog-builder|Catalog Builder]]
-- [[now-assist-catalog-item-generation|Catalog item generation]]
-- [[reference|Reference]]
-- [[service-catalog|Service Catalog]]

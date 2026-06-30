@@ -15,7 +15,7 @@ breadcrumb: [Install Kubernetes Visibility Agent \(KVA\) Informer, Configuring K
 
 # Define include and exclude lists of Labels and Annotations
 
-In [[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]], define include and exclude lists of Labels and Annotations in Kubernetes resources that the Informer pulls into the Configuration Management Database \(CMDB\).
+In Kubernetes Visibility Agent, define include and exclude lists of Labels and Annotations in Kubernetes resources that the Informer pulls into the Configuration Management Database \(CMDB\).
 
 ## Before you begin
 
@@ -63,6 +63,3 @@ For example: `--set ExcludeLabelsAndAnnotations="label1,label2"`
 </table>
 **Parent Topic:**[Install Kubernetes Visibility Agent \(KVA\) Informer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cnov-deploy-install.md)
 
-## Related
-
-- [[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]]

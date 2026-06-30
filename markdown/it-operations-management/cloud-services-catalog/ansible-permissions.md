@@ -26,7 +26,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Ansible Config Provider [[r-discovery|Discovery]] on Day 0
+Ansible Config Provider Discovery on Day 0
 
 </td><td>
 
@@ -70,6 +70,3 @@ Uses Ansible tower user credentials, service account credentials of Amazon Web S
 </td></tr></tbody>
 </table>**Parent Topic:**[CSC references](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/csc-reference.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

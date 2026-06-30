@@ -14,7 +14,7 @@ breadcrumb: [Rollup example use case implementation for a Security Case, Rollup 
 
 # Step 4. Create a view for a new Linked Record Tab for a Security Case
 
-Customize the List layout for a Security Case table when it is displayed on the Link Records page with the [[msim-workspace|Major Security Incident Management workspace]].
+Customize the List layout for a Security Case table when it is displayed on the Link Records page with the Major Security Incident Management workspace.
 
 ## Before you begin
 
@@ -72,6 +72,3 @@ Role required: admin
 
 **Parent Topic:**[Rollup example use case implementation for a Security Case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/use-case-for-a-security-case.md)
 
-## Related
-
-- [[msim-workspace|Major Security Incident Management workspace]]

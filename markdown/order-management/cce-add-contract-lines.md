@@ -19,7 +19,7 @@ Add one or more contract lines to a customer contract on the CSM Configurable Wo
 Role required:
 
 -   To create an order, you need sn\_customerservice\_manager and sn\_ind\_tmt\_orm.order\_agent.
--   To [[create-new-quote|create a quote]], you need sn\_customerservice\_manager and sn\_sales\_common.sales\_agent.
+-   To create a quote, you need sn\_customerservice\_manager and sn\_sales\_common.sales\_agent.
 
 ## Procedure
 
@@ -29,21 +29,21 @@ Role required:
 
 3.  In the Contracts and Entitlements - Customer Contracts list, select the customer contract to add more contract lines.
 
-4.  On the [[service-contract-form|Customer Contract form]], select **Customer Contract Lines** related list.
+4.  On the Customer Contract form, select **Customer Contract Lines** related list.
 
 5.  Select **New**.
 
-    The target entity is created depending on the [[rules_101|rules]] set in the Customer Life Cycle Workflows Policy decision table. For more info, see [[create-cont-ent-workflows-csm|Configuring Customer Life Cycle Workflows Policy decision table]].
+    The target entity is created depending on the rules set in the Customer Life Cycle Workflows Policy decision table. For more info, see [Configuring Customer Life Cycle Workflows Policy decision table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-cont-ent-workflows-csm.md).
 
     -   If the selected target entity is a quote, a quote to create new customer contract line is created.
     -   If the selected target entity is an order, an order to create new customer contract line is created.
     -   If the selected target entity is an opportunity, an opportunity to create a new customer contract line is created.
     -   If the selected target entity is an opportunity and a quote, both opportunity and quote to create the customer contract are created. You can navigate to the opportunity and quote by selecting the numbers from the confirmation message.
-    The Existing contract field will refer the current customer contract. All the other [[fields|fields]] like Contract start date, Contract end date, and contract renewal fields will be auto-populated with the current contract details.
+    The Existing contract field will refer the current customer contract. All the other fields like Contract start date, Contract end date, and contract renewal fields will be auto-populated with the current contract details.
 
 6.  In the Catalog tab, add products to the new quote or order that is created.
 
-    For more info, see [[quote-management-catalog-tab|Add products to a quote]].
+    For more info, see [Add products to a quote](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-management-catalog-tab.md).
 
 7.  Select **Submit for approval**.
 
@@ -56,11 +56,3 @@ Role required:
 
 The new customer contract line is added to the contract and is visible on the selected target entity. The new customer contract line is synced with auto-renewal quote or opportunity that is generated for the contract. When the associated customer contract is auto renewed, the new customer contract line is automatically renewed and added to the renewal quote or opportunity.
 
-## Related
-
-- [[create-cont-ent-workflows-csm|Creating contracts and entitlements using workflows]]
-- [[quote-management-catalog-tab|Add products to a quote]]
-- [[create-new-quote|Create a quote]]
-- [[service-contract-form|Customer contract form]]
-- [[rules_101|Rules]]
-- [[fields|Fields]]

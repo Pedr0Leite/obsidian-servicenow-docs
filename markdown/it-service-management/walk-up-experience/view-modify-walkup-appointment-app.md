@@ -14,7 +14,7 @@ breadcrumb: [Configure Walk-up Experience appointment booking, Walk-up Experienc
 
 # View or modify a Walk-up Experience appointment booking configuration
 
-View the base system default appointment booking application configuration to determine if the criteria meets your walk-up appointment booking needs. You can modify the application configuration to uniquely manage appointment booking for your experience. The information stored in the [[walkup-experience-landing-page|Walk-up Experience]] appointment booking application configuration applies to all the services within the application.
+View the base system default appointment booking application configuration to determine if the criteria meets your walk-up appointment booking needs. You can modify the application configuration to uniquely manage appointment booking for your experience. The information stored in the Walk-up Experience appointment booking application configuration applies to all the services within the application.
 
 ## Before you begin
 
@@ -104,6 +104,3 @@ Displays available appointments for a single day or for a week on the online **S
 
 **Parent Topic:**[Configure Walk-up Experience appointment booking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walkup-appointment-booking-config.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]

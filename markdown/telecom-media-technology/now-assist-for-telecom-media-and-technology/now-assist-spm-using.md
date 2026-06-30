@@ -69,10 +69,7 @@ Generate customer health insights and recent customer issue insights for a custo
 -   **[Generate summary for remote hands case record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/generate-summary-for-remote-hands-case-record.md)**  
 Remote Hands Request Summarization is a capability that generates a contextual summary of a Remote Hands case by combining current case data with insights from similar historical cases, using information submitted by the DCIM user through the CSM portal.
 -   **[Using adaptive desktop actions for Customer Experimentation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/now-assist-adaptive-desktop-actions.md)**  
-Use adaptive desktop actions in [[account-lifecycle-events-landing|Customer Success Management]] to test prompt-driven models on your workflows.
+Use adaptive desktop actions in Customer Success Management to test prompt-driven models on your workflows.
 
 **Parent Topic:**[Now Assist for Telecommunications, Media and Technology \(TMT\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/now-assist-spmc.md)
 
-## Related
-
-- [[account-lifecycle-events-landing|Customer Success Management]]

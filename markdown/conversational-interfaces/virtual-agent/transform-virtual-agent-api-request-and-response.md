@@ -14,7 +14,7 @@ breadcrumb: [Use, Virtual Agent API, Build and deploy, Virtual Agent, Conversati
 
 # Transform Virtual Agent API request and response
 
-You can transform Virtual Agent API request and response into supported formats through the scripted extension points provided in [[virtual-agent-api-landing-page|Virtual Agent API]].
+You can transform Virtual Agent API request and response into supported formats through the scripted extension points provided in Virtual Agent API.
 
 ## Before you begin
 
@@ -127,6 +127,3 @@ Role required: admin
 
 **Parent Topic:**[Using Virtual Agent API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/use-virtual-agent-api.md)
 
-## Related
-
-- [[virtual-agent-api-landing-page|Virtual Agent API]]

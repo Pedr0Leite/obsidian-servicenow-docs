@@ -153,7 +153,7 @@ Country in which affiliated hospital is located.
 **Related topics**  
 
 
-[Installed with [[hr-service-delivery|HR Service Delivery]] for Healthcare]()
+[Installed with HR Service Delivery for Healthcare]()
 
 [Healthcare professional profile form]()
 
@@ -161,7 +161,7 @@ Country in which affiliated hospital is located.
 
 [Professional liability Insurances form]()
 
-[Professional [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] form]()
+[Professional reference form]()
 
 [Professional speciality form]()
 
@@ -179,7 +179,3 @@ Country in which affiliated hospital is located.
 
 [Healthcare Employee Onboarding form]()
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

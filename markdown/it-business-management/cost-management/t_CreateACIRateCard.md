@@ -22,7 +22,7 @@ Role required: financial\_mgmt\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Cost** &gt; **Costs** &gt; **[[c_CIRateCards|CI Rate Cards]]**.
+1.  Navigate to **All** &gt; **Cost** &gt; **Costs** &gt; **CI Rate Cards**.
 
 2.  Click **New**.
 
@@ -104,6 +104,3 @@ A brief description of the rate card.
 </table>
 **Parent Topic:**[CI rate cards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/cost-management/c_CIRateCards.md)
 
-## Related
-
-- [[c_CIRateCards|CI rate cards]]

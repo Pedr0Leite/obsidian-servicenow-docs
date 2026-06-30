@@ -16,7 +16,7 @@ breadcrumb: [Manually create issues, Manage issues, Classic UI, Policy and Compl
 
 If a user is assigned to an issue or a remediation task, then the manager of the user and the manager above in the hierarchy also get access to the issue or remediation task record.
 
-The user reference in the **Assigned to** field, **Opened by** field, or **Owner** field are configurable in the [[user-hierarchy|User hierarchy]] configurations \[sn\_grc\_user\_hierarchy\_configuration\] table. Therefore, you can configure the fields in the table and enter the user reference, for example **Assigned to** or **Issue Manager** as User reference field 1 or User reference field 2. However, you can configure only two fields in a table.
+The user reference in the **Assigned to** field, **Opened by** field, or **Owner** field are configurable in the User hierarchy configurations \[sn\_grc\_user\_hierarchy\_configuration\] table. Therefore, you can configure the fields in the table and enter the user reference, for example **Assigned to** or **Issue Manager** as User reference field 1 or User reference field 2. However, you can configure only two fields in a table.
 
 The manager of the user in the user reference field and the manager above in the hierarchy can be configured as User hierarchy field 1 and User hierarchy field 2, respectively. If one of them is no longer the manager of the user in the user reference field, then that user in the hierarchy loses access to the record. You can view the hierarchy of users in the User Hierarchy \[sn\_grc\_user\_hierarchy\] table.
 
@@ -29,6 +29,3 @@ The concept of user hierarchy is helpful as it provides more visibility to the u
 
 **Parent Topic:**[Manually create GRC issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/t_CreateAnIssue.md)
 
-## Related
-
-- [[user-hierarchy|User hierarchy]]

@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-The following procedure shows how to [[t_CreateADatabaseView|create a database view]] that includes a list of Catalog Tasks and their parents. Most of the steps take place on the View Table form.
+The following procedure shows how to create a database view that includes a list of Catalog Tasks and their parents. Most of the steps take place on the View Table form.
 
 \[Omitted image "Dbviews4.png"\] Alt text: View Table form in the database view after a left-join has been added.
 
@@ -36,7 +36,7 @@ The following procedure shows how to [[t_CreateADatabaseView|create a database v
 
 3.  In the **View Tables** related list, select **New**.
 
-4.  Add a **Left join** check box to the form by [[configure-form-layout|Configuring the form layout]].
+4.  Add a **Left join** check box to the form by [Configuring the form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md).
 
 5.  Add the Catalog Task \[sc\_task\] table to the database view by filling in the form with the following data and then select **Submit**. Joined tables are ordered left to right from lowest to highest **Order** values.
 
@@ -103,7 +103,3 @@ The following procedure shows how to [[t_CreateADatabaseView|create a database v
 
 **Next topic:**[Specify a field to return](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_SpecifyAFieldToReturn.md)
 
-## Related
-
-- [[configure-form-layout|Configuring the form layout]]
-- [[t_CreateADatabaseView|Create a database view]]

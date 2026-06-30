@@ -101,7 +101,7 @@ This tutorial runs through creating an EVAM definition with two data sources, a 
 
 6.  Repeat steps 3-5 to add another view configuration for closed requests.
 
-    You created a configuration bundle with one view configuration. Add another configuration called Closed requests. This view configuration [[reference-document-management|references]] the same data source \[requested item\], but uses different conditions to show \(\).
+    You created a configuration bundle with one view configuration. Add another configuration called Closed requests. This view configuration references the same data source \[requested item\], but uses different conditions to show \(\).
 
 7.  Associate view templates to view configurations, select **Update**.
 
@@ -109,6 +109,4 @@ This tutorial runs through creating an EVAM definition with two data sources, a 
 
     \[Omitted image "tutorial-card-list-display.png"\] Alt text: EVAM card list display
 
-## Related
 
-- [[reference-document-management|References]]

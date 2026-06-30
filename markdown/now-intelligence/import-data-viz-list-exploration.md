@@ -44,7 +44,7 @@ Add an existing visualization to highlight an insight, add context to your explo
 
     \[Omitted image "explore-icon-dv-tile.png"\] Alt text: Data visualization tile with Explore with AI button highlighted.
 
-    **Note:** If the data visualization shows data from a protected scope that is not supported in [[query-generation|Query Generation]] and AI Data Explorer, there is no Explore with AI icon. For more information, see [[enable-aide-secure-scope-apps|Enabling access to protected scope applications for AI Data Explorer and Query Generation]].
+    **Note:** If the data visualization shows data from a protected scope that is not supported in Query Generation and AI Data Explorer, there is no Explore with AI icon. For more information, see [Enabling access to protected scope applications for AI Data Explorer and Query Generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/enable-aide-secure-scope-apps.md).
 
 7.  From the Explore options, select **Add to exploration**.
 
@@ -63,10 +63,5 @@ Add an existing visualization to highlight an insight, add context to your explo
 
 The exploration opens in a dialog in the tab that you are in. The list or data visualization is added to the end of the exploration. You can add more lists or data visualizations. When you select **Add to exploration**, the list or data visualization is automatically added to the open exploration.
 
-**Parent Topic:**[[use-now-assist-explorer|Using AI Data Explorer]]
+**Parent Topic:**[Using AI Data Explorer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/use-now-assist-explorer.md)
 
-## Related
-
-- [[enable-aide-secure-scope-apps|Enabling access to protected scope applications for AI Data Explorer and Query Generation]]
-- [[use-now-assist-explorer|Using AI Data Explorer]]
-- [[query-generation|Query Generation]]

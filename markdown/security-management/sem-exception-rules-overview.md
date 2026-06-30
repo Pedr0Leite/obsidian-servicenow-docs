@@ -12,7 +12,7 @@ breadcrumb: [Automating prioritization and triaging, Security Exposure Managemen
 
 # Deferring findings automatically without manual intervention using exception rules
 
-Exception rules for [[sem-workspace-user-interface|Security Exposure Management Workspace]] enable you to automate the deferral process for findings. Request an exception for the findings that can't be remediated or deferred immediately, by identifying the impacted [[vulnerabilities|vulnerabilities]], configuration items \(CIs\), or VIs. Defer the matching findings based on the rule when the system identifies them by automating the finding deferral process.
+Exception rules for Security Exposure Management Workspace enable you to automate the deferral process for findings. Request an exception for the findings that can't be remediated or deferred immediately, by identifying the impacted vulnerabilities, configuration items \(CIs\), or VIs. Defer the matching findings based on the rule when the system identifies them by automating the finding deferral process.
 
 **Using exception rules in your organization**
 
@@ -24,17 +24,17 @@ The life cycle of an exception rule is as follows:
 
 -   Creating an exception rule
 -   Approving an exception rule request
--   [[sem-activate-ex-rule|Activating an exception rule]]
+-   Activating an exception rule
 -   Deferring an exception rule
 -   Expiry of an exception rule
 
 **Creating an exception rule**
 
-You can [[sem-create-exception-rule|create an exception rule]] to automatically defer the findings that match the defined conditions for the specified period. After you create an exception rule, submit it for approval.
+You can create an exception rule to automatically defer the findings that match the defined conditions for the specified period. After you create an exception rule, submit it for approval.
 
 **Approving an exception rule request**
 
-Approving an exception rule request is a two-level process. If only the first-level approver is present, the exception rule can be assessed and approved by a single approval. However, if there's no first-level approver, an exception rule approval can't be approved. See [[sem-approve-ex-rule-request|Approve an exception rule request]] for more information.
+Approving an exception rule request is a two-level process. If only the first-level approver is present, the exception rule can be assessed and approved by a single approval. However, if there's no first-level approver, an exception rule approval can't be approved. See [Approve an exception rule request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-approve-ex-rule-request.md) for more information.
 
 **Note:** The Change Approval \(CA\) is now also created during exception rule submission. This enhancement ensures consistency across exception workflows and improves traceability.
 
@@ -57,19 +57,10 @@ You can defer findings that match the conditions defined in this exception rule,
 
 After the exception rule expires, it no longer runs on new or reopened findings.
 
-**Parent Topic:**[[sem-automating-prioritization-triaging|Automating prioritization and triaging]]
+**Parent Topic:**[Automating prioritization and triaging](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-automating-prioritization-triaging.md)
 
 **Related topics**  
 
 
-[[sem-configure-exception-rule|Configuring an exception rule]]
+[Configuring an exception rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-configure-exception-rule.md)
 
-## Related
-
-- [[sem-approve-ex-rule-request|Approve an exception rule request]]
-- [[sem-automating-prioritization-triaging|Automating prioritization and triaging]]
-- [[sem-configure-exception-rule|Configuring an exception rule]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[sem-activate-ex-rule|Activating an exception rule]]
-- [[sem-create-exception-rule|Create an exception rule]]

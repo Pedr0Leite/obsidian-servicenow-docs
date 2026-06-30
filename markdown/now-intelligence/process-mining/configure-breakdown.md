@@ -29,7 +29,7 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[process-mining|Process Mining]]** &gt; **[[analyst-workbench-overview|Process Mining Workspace]]** and select your project record.
+1.  Navigate to **All** &gt; **Process Mining** &gt; **Process Mining Workspace** and select your project record.
 
 2.  Identify which table you are configuring the breakdown definition, and open the associated table configuration record from the **Table Configurations** tab.
 
@@ -55,7 +55,3 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
 **Parent Topic:**[Create a project using Classic view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/create-proj.md)
 
-## Related
-
-- [[process-mining|Process Mining]]
-- [[analyst-workbench-overview|Process Mining workspace]]

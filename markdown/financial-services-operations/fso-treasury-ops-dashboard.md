@@ -12,7 +12,7 @@ breadcrumb: [Platform Analytics, Financial Services Operations \(FSO\)]
 
 # Treasury Operations dashboard
 
-With the [[fso-treasury-ops-landing-page|Financial Services Treasury Operations]] dashboard, you can get an insight into how your team and business are performing for the treasury service requests that were received for your [[fso-overview|financial services]].
+With the Financial Services Treasury Operations dashboard, you can get an insight into how your team and business are performing for the treasury service requests that were received for your financial services.
 
 **Important:** The Financial Services Treasury Operations dashboard has been modernized to give you a better user experience.
 
@@ -122,10 +122,5 @@ The following table shows the available filters in the Treasury Operations dashb
 |FSO Treasury.Service|Task record|Fetches all the records from the Service Definition \[sn\_bom\_service\_definition\] table where Task type starts with `sn_bom_treasury` and ends with `service`.|
 |Age|Bucket|Shows the age ranges in days for treasury cases.|
 
-**Parent Topic:**[[fso-content-pack|Implementing Platform Analytics solutions]]
+**Parent Topic:**[Implementing Platform Analytics solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-content-pack.md)
 
-## Related
-
-- [[fso-content-pack|Implementing Platform Analytics solutions]]
-- [[fso-treasury-ops-landing-page|Financial Services Treasury Operations]]
-- [[fso-overview|Financial Services]]

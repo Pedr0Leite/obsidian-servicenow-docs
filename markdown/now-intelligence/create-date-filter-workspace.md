@@ -16,7 +16,7 @@ Let users select predefined periods or specify custom start and end dates for th
 
 ## Before you begin
 
-**Important:** This procedure assumes you’ve created a filter in the Filter designer or added a filter to your dashboard with the Date filter type. For instructions, see [[select-workspace-filter-type|Create or add a filter on an inline dashboard]] or [[add-filter-library|Create a filter in the Filter Designer]].
+**Important:** This procedure assumes you’ve created a filter in the Filter designer or added a filter to your dashboard with the Date filter type. For instructions, see [Create or add a filter on an inline dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/select-workspace-filter-type.md) or [Create a filter in the Filter Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/add-filter-library.md).
 
 Role required: In the dashboard inline editor: dashboard\_admin, or you must be the dashboard owner or have had editing rights shared with you.
 
@@ -34,11 +34,11 @@ For time series data visualizations showing table or indicator data, the data ag
 
 2.  Specify the data to filter.
 
-    The filter is applied automatically to all [[c_Indicators|Performance Analytics indicators]] and MetricBase KPIs on the tab or in the dashboard.
+    The filter is applied automatically to all Performance Analytics indicators and MetricBase KPIs on the tab or in the dashboard.
 
     \[Omitted image "filter-all-kpis.png"\] Alt text: Data to filter section with KPIs added automatically.
 
-    You can add any number of date fields on tables or [[user-exp-analytics-landing|Usage Insights]] date properties to apply the filter to. If you add a table field, you can also choose to apply the filter to the hierarchy of related tables: Parents, children, siblings, and any database views that contain the table.
+    You can add any number of date fields on tables or Usage Insights date properties to apply the filter to. If you add a table field, you can also choose to apply the filter to the hierarchy of related tables: Parents, children, siblings, and any database views that contain the table.
 
 3.  In **Date filter view**, select the options that the runtime user has for choosing date ranges:
 
@@ -68,20 +68,12 @@ The filter is ready to use when you exit editing mode.
 
 ## What to do next
 
-If you have the required roles, add the filter to the filter library. You can also reconfigure, delete, or duplicate the filter. For more information, see [[edit-filters-configurable-workspaces|Edit a Platform Analytics filter on a dashboard]].
+If you have the required roles, add the filter to the filter library. You can also reconfigure, delete, or duplicate the filter. For more information, see [Edit a Platform Analytics filter on a dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/edit-filters-configurable-workspaces.md).
 
 **Related topics**  
 
 
 [Edit a Platform Analytics filter on a dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/edit-filters-configurable-workspaces.md)
 
-[[configure-dv-follow-filters-or-not|Configure a data visualization to follow filters or not]]
+[Configure a data visualization to follow filters or not](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configure-dv-follow-filters-or-not.md)
 
-## Related
-
-- [[select-workspace-filter-type|Create or add a filter on an inline dashboard]]
-- [[add-filter-library|Create a filter in the Filter Designer]]
-- [[edit-filters-configurable-workspaces|Edit a Platform Analytics filter on a dashboard]]
-- [[configure-dv-follow-filters-or-not|Configure a data visualization to follow filters or not]]
-- [[c_Indicators|Performance Analytics indicators]]
-- [[user-exp-analytics-landing|Usage Insights]]

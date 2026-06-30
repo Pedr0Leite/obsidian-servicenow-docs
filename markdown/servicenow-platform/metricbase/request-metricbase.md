@@ -14,11 +14,11 @@ breadcrumb: [Configure, MetricBase, Manage instance data sources, Extend Service
 
 # Requesting the MetricBase product
 
-The [[metricbase|MetricBase]] plugin \[com.snc.clotho\] requires a separate subscription and must be activated by ServiceNow personnel. Be sure to also request the MetricBase Demo plugin \[com.snc.clotho.demo\], which includes sample tables, metrics, triggers, and data.
+The MetricBase plugin \[com.snc.clotho\] requires a separate subscription and must be activated by ServiceNow personnel. Be sure to also request the MetricBase Demo plugin \[com.snc.clotho.demo\], which includes sample tables, metrics, triggers, and data.
 
 To purchase a subscription, contact your ServiceNow account manager. The account manager can arrange to have the plugin activated on your organization's production and subproduction instances, generally within a few days.
 
-When ServiceNow personnel install the MetricBase Demo plugin, they also [[c_Connect|connect]] your instance to the server that contains the MetricBase database. A MetricBase database can connect with only one other instance. For example, a clone of the original instance can't talk to the same database as the original instance.
+When ServiceNow personnel install the MetricBase Demo plugin, they also connect your instance to the server that contains the MetricBase database. A MetricBase database can connect with only one other instance. For example, a clone of the original instance can't talk to the same database as the original instance.
 
 **Parent Topic:**[Configuring MetricBase](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/configuring-metricbase.md)
 
@@ -27,7 +27,3 @@ When ServiceNow personnel install the MetricBase Demo plugin, they also [[c_Conn
 
 [Working with MetricBase demo data]()
 
-## Related
-
-- [[metricbase|MetricBase]]
-- [[c_Connect|Connect]]

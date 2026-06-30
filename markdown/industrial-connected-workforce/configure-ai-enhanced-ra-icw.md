@@ -25,7 +25,7 @@ Configure AI Enhanced recommended actions for ICW to contextualize external sour
 
     Configure the crawl settings to specify the sites you want your Microsoft SharePoint Online external content connector to crawl.
 
-3.  [[set-up-ai-enhanced-ra-icw|Set up the search source]]
+3.  [Set up the search source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/set-up-ai-enhanced-ra-icw.md)
 
     Set the search source in the **\[RA-ICW AI\] Search Profile** record to the Microsoft SharePoint Online external content connector you created.
 
@@ -37,9 +37,5 @@ Configure AI Enhanced recommended actions for ICW to contextualize external sour
 -   **[Set up AI Enhanced recommended actions for Industrial Connected Workforce](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/set-up-ai-enhanced-ra-icw.md)**  
 Set up AI Enhanced recommended actions for ICW so that you can contextualize external sources related to a deviation.
 
-**Parent Topic:**[[ai-enhanced-ra-icw-landing|AI Enhanced recommended actions for Industrial Connected Workforce]]
+**Parent Topic:**[AI Enhanced recommended actions for Industrial Connected Workforce](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/ai-enhanced-ra-icw-landing.md)
 
-## Related
-
-- [[set-up-ai-enhanced-ra-icw|Set up AI Enhanced recommended actions for Industrial Connected Workforce]]
-- [[ai-enhanced-ra-icw-landing|AI Enhanced recommended actions for Industrial Connected Workforce]]

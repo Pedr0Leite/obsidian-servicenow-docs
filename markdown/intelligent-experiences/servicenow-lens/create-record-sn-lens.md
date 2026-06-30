@@ -15,15 +15,15 @@ breadcrumb: [Use, ServiceNow AI Lens, Enable AI experiences]
 
 # Create a record in an instance by using ServiceNow AI Lens
 
-Create a record in the ServiceNow instance by auto-filling the form fields with data that [[servicenow-lens-landing-page|ServiceNow AI Lens]] extracts from captured screens, documents, and files.
+Create a record in the ServiceNow instance by auto-filling the form fields with data that ServiceNow AI Lens extracts from captured screens, documents, and files.
 
 ## Before you begin
 
 To access the ServiceNow AI Lens functionality, perform the following steps:
 
 -   Install ServiceNow AI Lens on your ServiceNow instance. For more information, see [Install the ServiceNow Lens in the ServiceNow instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/install-sn-lens.md).
--   Turn on the [[servicenow-lens-skill|ServiceNow AI Lens skill]] to add the generative AI capability. For more information, see [Activate the ServiceNow AI Lens skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/activate-lens-skill.md).
--   [[download-sn-lens-msi|Download the ServiceNow AI Lens installer]] to scan your desktop screen. For more information, see [Download the ServiceNow AI Lens installer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/download-sn-lens-msi.md).
+-   Turn on the ServiceNow AI Lens skill to add the generative AI capability. For more information, see [Activate the ServiceNow AI Lens skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/activate-lens-skill.md).
+-   Download the ServiceNow AI Lens installer to scan your desktop screen. For more information, see [Download the ServiceNow AI Lens installer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/download-sn-lens-msi.md).
 
 **Note:**
 
@@ -32,7 +32,7 @@ To access the ServiceNow AI Lens functionality, perform the following steps:
 
 Verify that ServiceNow AI Lens has access to record the screen on your system. For more information, see [Providing permission to ServiceNow AI Lens](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/download-sn-lens-msi.md).
 
-Don't scan any personally identifiable information, such as medical reports, financial reports, or other sensitive data, when [[servicenow-lens-use|using ServiceNow AI Lens]] as you don't want to expose the large language model \(LLM\) to any sensitive information.
+Don't scan any personally identifiable information, such as medical reports, financial reports, or other sensitive data, when using ServiceNow AI Lens as you don't want to expose the large language model \(LLM\) to any sensitive information.
 
 Role required: lens\_user
 
@@ -212,7 +212,7 @@ The form is auto-filled.
 
 
 </td></tr></tbody>
-</table>2.  In the ServiceNow instance, review the text that is auto-filled by [[platform-now-assist-landing|Now Assist]] into your record.
+</table>2.  In the ServiceNow instance, review the text that is auto-filled by Now Assist into your record.
 
     The fields that are auto-filled by Now Assist are highlighted with the Sparkle icon \[Omitted image "icon-ai-sparkle.png"\] Alt text:.
 
@@ -258,10 +258,3 @@ You can analyze the artifacts as many times as needed without reloading the form
 
 [Extract and analyze data with ServiceNow AI Lens desktop app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/sn-lens-standalone-app.md)
 
-## Related
-
-- [[servicenow-lens-landing-page|ServiceNow AI Lens]]
-- [[servicenow-lens-skill|ServiceNow AI Lens skill]]
-- [[download-sn-lens-msi|Download the ServiceNow AI Lens installer]]
-- [[servicenow-lens-use|Using ServiceNow AI Lens]]
-- [[platform-now-assist-landing|Now Assist]]

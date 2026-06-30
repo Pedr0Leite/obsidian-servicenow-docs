@@ -14,7 +14,7 @@ breadcrumb: [Planning item form, Form field information for Strategic Planning, 
 
 # Demand planning item form
 
-Learn about the fields of the [[demand-form|demand form]]. Use this form to create or edit the details of a planning item of the type Demand in [[alignment-planner-workspace-landing-page|Strategic Planning]].
+Learn about the fields of the demand form. Use this form to create or edit the details of a planning item of the type Demand in Strategic Planning.
 
 These fields are displayed on the full details page of the planning item.
 
@@ -80,7 +80,7 @@ Execution URL
 
 </td><td>
 
-Link to the demand's execution record in Next Experience for [[c_DemandManagement|Demand Management]].
+Link to the demand's execution record in Next Experience for Demand Management.
 
 </td></tr><tr><td>
 
@@ -216,8 +216,3 @@ Strategic priority that this planning item is associated to.
 
 [Add planning items to Prioritization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/add-new-items-to-backlog-alignment-planner-workspace.md)
 
-## Related
-
-- [[demand-form|Demand form]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[c_DemandManagement|Demand Management]]

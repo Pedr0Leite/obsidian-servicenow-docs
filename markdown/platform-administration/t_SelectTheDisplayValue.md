@@ -32,21 +32,16 @@ When you set the **Display** value to **true**, a business rule sets the **Displ
 
 3.  Locate the desired field and set **Display** to **true**.
 
-    For best [[hs-results|results]], choose a field that is required and unique in each record as the display value field.
+    For best results, choose a field that is required and unique in each record as the display value field.
 
     **Note:** If you make a field the display field for a table, be sure to translate all values for the field in the Translated Text \[sys\_translated\_text\] table into all the languages provided. Display field options left untranslated are not presented by the autocomplete \(type ahead\) feature.
 
-    [[reference-email-admin|Reference]] fields look for the display value in the following order:
+    Reference fields look for the display value in the following order:
 
-    1.  A field with display=true in the [[c_SystemDictionary|system dictionary]] on the lowest sub-table for extended tables.
+    1.  A field with display=true in the system dictionary on the lowest sub-table for extended tables.
     2.  A field with display=true in the system dictionary on the parent table.
     3.  A field named **name** or **u\_name** or **x\_name**.
     4.  A field named **number** or **u\_number** or **x\_number**.
     5.  The field named in the Glide Property **glide.record.display\_value\_default**
     6.  The **Created on** field of the referenced record.
 
-## Related
-
-- [[hs-results|Results]]
-- [[reference-email-admin|Reference]]
-- [[c_SystemDictionary|System dictionary]]

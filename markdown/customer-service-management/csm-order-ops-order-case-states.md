@@ -32,7 +32,7 @@ Draft
 
 </td><td>
 
-The order case is in the Draft state.Select **Submit** on the [[csm-order-ops-order-case-record-page|order case record page]] to move the order case and all of the order case line items that are currently in the Draft state to New.
+The order case is in the Draft state.Select **Submit** on the order case record page to move the order case and all of the order case line items that are currently in the Draft state to New.
 
 </td></tr><tr><td>
 
@@ -92,7 +92,7 @@ The order case has been canceled.Select **Cancel** to cancel an order case.
 **Note:** You can only cancel order cases in the Draft state.
 
 </td></tr></tbody>
-</table>## Order [[csm-case-lines-states|case line item states]]
+</table>## Order case line item states
 
 Order case line items can be in the states listed in the following table. The case line items in an order case can be in different states as the agent works to resolve each issue.
 
@@ -227,8 +227,3 @@ When a user selects **Cancel** on an order case in the Draft state, the system u
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[csm-order-ops-order-case-record-page|Order case record page]]
-- [[csm-case-lines-states|Case line item states]]

@@ -12,7 +12,7 @@ breadcrumb: [Configure, Care Team Operations for Biomed, Healthcare Operations, 
 
 # Setting up roles and responsibilities in Care Team Operations for Biomed
 
-To manage access effectively in [[care-team-operations-for-biomed|Care Team Operations for Biomed]], first understand how roles and responsibilities work together. These concepts build on the Service Model Foundation \(SMF\) but are adapted for [[healthcare-operations-overview|Healthcare Operations]]-specific use cases.
+To manage access effectively in Care Team Operations for Biomed, first understand how roles and responsibilities work together. These concepts build on the Service Model Foundation \(SMF\) but are adapted for Healthcare Operations-specific use cases.
 
 To understand how roles and responsibilities function in Healthcare Operations, see [Setting up roles and responsibilities for Healthcare Operations users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-operations-core/cto-setting-up-roles-responsibilities.md).
 
@@ -45,12 +45,6 @@ Can view/resolve all cases under their assignment group, tracks, and fulfill cas
 </td></tr></tbody>
 </table>## What to do next
 
-1.  [[cto-biomed-set-up-roles|Assign roles for Care Team Operations for Biomed]]
-2.  [[cto-biomed-assign-responsibilities|Assign responsibilities to Care Team Operations for Biomed users]]
+1.  [Assign roles for Care Team Operations for Biomed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/cto-biomed-set-up-roles.md)
+2.  [Assign responsibilities to Care Team Operations for Biomed users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/cto-biomed-assign-responsibilities.md)
 
-## Related
-
-- [[cto-biomed-set-up-roles|Assign roles for Care Team Operations for Biomed]]
-- [[cto-biomed-assign-responsibilities|Assign responsibilities to Care Team Operations for Biomed users]]
-- [[care-team-operations-for-biomed|Care Team Operations for Biomed]]
-- [[healthcare-operations-overview|Healthcare Operations]]

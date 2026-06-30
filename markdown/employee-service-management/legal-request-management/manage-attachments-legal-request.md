@@ -22,7 +22,7 @@ Role required: sn\_lg\_ops.legal\_fulfiller
 
 ## About this task
 
-You can also use these artifacts as a [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] material to solve similar requests in future.
+You can also use these artifacts as a reference material to solve similar requests in future.
 
 If the [external storage option](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/associate-categories-practice-area.md) is enabled, you can manage document access for users to see these attachments. For more information, see [Document access in a legal request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/document-access-legal-request.md).
 
@@ -30,7 +30,7 @@ If the Privileged and Confidential status is enabled on a legal request, you can
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Legal Request** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
 2.  Click the list icon \(\[Omitted image "lsd-lcc-list-icon.png"\] Alt text: List icon\).
 
@@ -141,7 +141,3 @@ Documents attached to legal requests are uploaded to the configured external sto
 
 **Parent Topic:**[Work on a legal request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/work-on-legal-request.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]

@@ -14,7 +14,7 @@ breadcrumb: [Explore, Telecommunications Network Inventory]
 
 # Visualize circuits
 
-The [[using-network-diagram|network diagram]] in the [[telecom-network-inventory|Telecommunications Network Inventory]] application graphically displays a hierarchical map of the logical connection and its underlying connection elements. You can use the network diagram to get a detailed overview of the logical connection.
+The network diagram in the Telecommunications Network Inventory application graphically displays a hierarchical map of the logical connection and its underlying connection elements. You can use the network diagram to get a detailed overview of the logical connection.
 
 The network diagram graphically displays a circuit of the logical connection elements, and the details of each element. It provides a detailed overview of a logical connection and how the various elements are connected to each other. You can view the following by using the network diagram:
 
@@ -61,12 +61,7 @@ You can perform the following actions in the details pane:
 
 You can access the network diagram in the Telecommunications Network Inventory Workspace as follows:
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 2.  Open the desired logical connection record.
 3.  Select **View connection** to open the network diagram for the respective logical connection.
 
-## Related
-
-- [[using-network-diagram|Network diagram]]
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]

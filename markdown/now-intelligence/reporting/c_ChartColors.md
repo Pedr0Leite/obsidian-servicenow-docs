@@ -16,7 +16,7 @@ breadcrumb: [Predefined colors in reports, Advanced Core UI reporting topics, Re
 
 Chart colors assign a consistent color to a grouping or stacking value in reports. The color stays the same across reports regardless of the order of the values.
 
-**Note:** This topic refers to [[reporting-landing-page|Reporting]] in the Core UI. If your instance is migrated to [[par-workspace|Platform Analytics experience]], see [[colors-dv|Colors in data visualizations]].
+**Note:** This topic refers to Reporting in the Core UI. If your instance is migrated to Platform Analytics experience, see [Colors in data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/colors-dv.md).
 
 ## Using chart colors in a report
 
@@ -35,7 +35,7 @@ The Chart Colors record also specifies a color. When a Chart Colors record is cr
 
 **Note:**
 
--   The base system includes several predefined chart colors. [[content-packs-in-form-analytics-published|Platform Analytics Solutions]] can provide more chart colors.
+-   The base system includes several predefined chart colors. Platform Analytics Solutions can provide more chart colors.
 -   Color definitions use the Datavis - Qualitative themeable colors from the UX Theme Properties \[sys\_ux\_theme\_property\] table. Next Experience must be activated for these colors to be used. Otherwise, the fallback colors from the color definitions are used.
 
 Any other report that uses chart colors and that shows the same data category references the same Chart Colors record. Because the reports reference the same record, they show the same data category in the same color. For example, you create the first report that uses chart colors and shows priority 1 incidents in the Global scope. A Chart Colors record is created automatically to associate such incidents with a color. All other reports that use chart colors and show priority 1 incidents in the Global scope show them in the same color.
@@ -58,7 +58,7 @@ Role required: report\_admin.
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]] Administration** &gt; **Color Settings** &gt; **Chart Colors**.
+1.  Navigate to **All** &gt; **Platform Analytics Administration** &gt; **Color Settings** &gt; **Chart Colors**.
 
 2.  Click **New**.
 
@@ -134,10 +134,3 @@ The value selected in the **Element** field for the table in the **Name** field 
 
 The chart color is now available for data visualizations on the Configuration panel.
 
-## Related
-
-- [[colors-dv|colors dv]]
-- [[reporting-landing-page|Reporting]]
-- [[par-workspace|Platform Analytics experience]]
-- [[content-packs-in-form-analytics-published|Platform Analytics solutions]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

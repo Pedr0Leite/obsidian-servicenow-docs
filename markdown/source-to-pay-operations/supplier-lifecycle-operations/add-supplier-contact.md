@@ -14,13 +14,13 @@ breadcrumb: [Manage supplier contacts, Using Source-to-Pay Workspace, Use, Suppl
 
 # Add a supplier contact from the Source-to-Pay Workspace
 
-Add [[supplier|supplier]] contacts so that they can access the [[supplier-central|Supplier Collaboration Portal]] and start working on the most important tasks.
+Add supplier contacts so that they can access the Supplier Collaboration Portal and start working on the most important tasks.
 
 ## Before you begin
 
 Before performing this task, ensure that you do the following:
 
--   [[config-reg-for-external-users-slm|Configure self-registration for external users]]. For more information, see [Configure self-registration for external users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/config-reg-for-external-users-slm.md).
+-   Configure self-registration for external users. For more information, see [Configure self-registration for external users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/config-reg-for-external-users-slm.md).
 -   Configure the sn\_supplier.external\_registration\_profile\_id system property to ensure that registration emails are sent to external users. For more information, see [Configure system property to send registration emails to external users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/sys-prop-reg-email.md).
 
 Role required: sn\_slm.owner, sn\_slm.manager, sn\_slm.admin
@@ -29,11 +29,11 @@ Role required: sn\_slm.owner, sn\_slm.manager, sn\_slm.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
 2.  Under **Quick Actions**, select **Manage my suppliers**.
 
-3.  Select the legal name of the supplier for which you want to [[create-supplier|add a supplier]] contact.
+3.  Select the legal name of the supplier for which you want to add a supplier contact.
 
     The supplier details page is displayed.
 
@@ -51,7 +51,7 @@ Role required: sn\_slm.owner, sn\_slm.manager, sn\_slm.admin
 
 8.  From the **Role** drop down list, select one of the following options:
 
-    -   **Contact**: [[supplier-contact|Supplier contact]] role is assigned to the selected user.
+    -   **Contact**: Supplier contact role is assigned to the selected user.
     -   **Primary**: Primary contact role is assigned to the selected user.
 9.  Select **Send invites**.\[Omitted image "add-supplier-contact.png"\] Alt text: Add Supplier contacts dialog box.
 
@@ -73,12 +73,3 @@ Role required: sn\_slm.owner, sn\_slm.manager, sn\_slm.admin
 
 [Restrict the primary contact role for a contact from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/restrict-contact-ws.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[config-reg-for-external-users-slm|Configure self-registration for external users]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[create-supplier|Add a supplier]]
-- [[supplier-contact|Supplier contact]]

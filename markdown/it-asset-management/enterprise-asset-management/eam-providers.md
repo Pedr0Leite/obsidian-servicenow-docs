@@ -14,16 +14,16 @@ breadcrumb: [Industry-specific EAM solutions, Enterprise Asset Management, IT As
 
 # Enterprise Asset Management for Providers
 
-Enterprise Asset Management for Providers is a licensable application that enables [[exploring-daas|Device as a Service]] \(DaaS\) providers, vendors, and manufacturers to manage all DaaS-related activities, including the fulfillment of [[return-merchandise-authorization|Return Merchandise Authorization]] \(RMA\) requests, from a single location.
+Enterprise Asset Management for Providers is a licensable application that enables Device as a Service \(DaaS\) providers, vendors, and manufacturers to manage all DaaS-related activities, including the fulfillment of Return Merchandise Authorization \(RMA\) requests, from a single location.
 
-The Enterprise Asset Management for Providers \(com.sn\_eam\_provider\) application is a specialized offering within the suite of [[enterprise-asset-management|Enterprise Asset Management]] solutions. The application adds DaaS provider-based functionalities and workflows to the Enterprise Asset Management application, including the capabilities to create and manage provider-based RMA response orders and inbound asset orders.
+The Enterprise Asset Management for Providers \(com.sn\_eam\_provider\) application is a specialized offering within the suite of Enterprise Asset Management solutions. The application adds DaaS provider-based functionalities and workflows to the Enterprise Asset Management application, including the capabilities to create and manage provider-based RMA response orders and inbound asset orders.
 
 You can install and use the application only if you've already installed the Enterprise Asset Management \(com.sn\_eam\) application or one of the following Enterprise Asset Management-dependent applications on your ServiceNow instance:
 
--   [[ot-asset-management|OT Asset Management]] \(com.sn\_otam\)
--   [[eam-for-healthcare|Enterprise Asset Management for Healthcare]] \(com.sn\_eamhc\)
+-   OT Asset Management \(com.sn\_otam\)
+-   Enterprise Asset Management for Healthcare \(com.sn\_eamhc\)
 -   Enterprise Asset Management for Facilities \(com.sn\_eamfam\)
--   Enterprise Asset Management for Data Center and Network [[am-landing-page|Asset Management]] \(com.sn\_eam\_dcnam\)
+-   Enterprise Asset Management for Data Center and Network Asset Management \(com.sn\_eam\_dcnam\)
 
 -   **[Install Enterprise Asset Management for Providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/install-eam-providers.md)**  
 You can install the Enterprise Asset Management for Providers application \(com.sn\_eam\_provider\) if you have the admin role. The application installs related ServiceNow® Store applications if they are not already installed.
@@ -45,11 +45,3 @@ If you are a DaaS provider, vendor, or manufacturer, you can create and manage p
 
 [Enterprise Asset Management for Data Center and Network Asset Management \(DCNAM\)]()
 
-## Related
-
-- [[exploring-daas|Device as a Service]]
-- [[return-merchandise-authorization|Return Merchandise Authorization]]
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[ot-asset-management|OT Asset Management]]
-- [[eam-for-healthcare|Enterprise Asset Management for Healthcare]]
-- [[am-landing-page|Asset Management]]

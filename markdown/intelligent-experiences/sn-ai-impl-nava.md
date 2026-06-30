@@ -13,13 +13,13 @@ breadcrumb: [Application readiness, ServiceNow AI implementation, Enable AI expe
 
 # Now Assist in Virtual Agent readiness on the ServiceNow AI Platform
 
-[[platform-now-assist-landing|Now Assist]] enhances Virtual Agent with AI-driven capabilities that understand natural language, guide users through complex tasks, and deliver high-confidence answers without relying on rigid keyword matching or manual [[exploring-ai-governance|configurations]].
+Now Assist enhances Virtual Agent with AI-driven capabilities that understand natural language, guide users through complex tasks, and deliver high-confidence answers without relying on rigid keyword matching or manual configurations.
 
 Now Assist in Virtual Agent provides the following features:
 
 -   AI asset discovery
 
-    Say goodbye to time-consuming keyword or NLU configurations. Now Assist uses LLMs to automatically discover and match user intents to Virtual Agent topics and other [[ai-assets|AI assets]], including generative AI skills, AI agents and agentic workflows, and subflows and actions.
+    Say goodbye to time-consuming keyword or NLU configurations. Now Assist uses LLMs to automatically discover and match user intents to Virtual Agent topics and other AI assets, including generative AI skills, AI agents and agentic workflows, and subflows and actions.
 
 -   Simplified deployment
 
@@ -68,7 +68,7 @@ Setting up Now Assist in Virtual Agent requires customizing or creating a new LL
 
     Why? This simplifies topic management and enables self-service.
 
-    See: [[sn-ai-impl-kb-readiness|Knowledge Base readiness for Now Assist on the ServiceNow AI Platform]]
+    See: [Knowledge Base readiness for Now Assist on the ServiceNow AI Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/sn-ai-impl-kb-readiness.md)
 
 -   **4. Migrate NLU topics to LLM**
 
@@ -84,7 +84,7 @@ Setting up Now Assist in Virtual Agent requires customizing or creating a new LL
 
     Why? To avoid redundancy and eliminate the need to create new Virtual Agent topics.
 
-    See: [[sn-ai-impl-srvc-catalog|Service Catalog readiness for Now Assist on the ServiceNow AI Platform]]
+    See: [Service Catalog readiness for Now Assist on the ServiceNow AI Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/sn-ai-impl-srvc-catalog.md)
 
 -   **Review LLM Virtual Agent topics that come with Now Assist**
 
@@ -119,10 +119,3 @@ For more information about conversational catalogs in AI, see the following info
 -   [Microsoft Copilot integration with Now Assist FAQ - Zurich release](https://www.servicenow.com/community/virtual-agent-nlu-articles/microsoft-copilot-integration-with-now-assist-faq-zurich-release/ta-p/3048238)
 -   [AI Academy: Enhanced chat experience with Now Assist in Virtual Agent](https://www.youtube.com/watch?v=UD7IneCtpxk)
 
-## Related
-
-- [[sn-ai-impl-kb-readiness|Knowledge Base readiness for Now Assist on the ServiceNow AI Platform]]
-- [[sn-ai-impl-srvc-catalog|Service Catalog readiness for Now Assist on the ServiceNow AI Platform]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[exploring-ai-governance|Configurations]]
-- [[ai-assets|AI assets]]

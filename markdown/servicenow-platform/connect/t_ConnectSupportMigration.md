@@ -14,13 +14,13 @@ breadcrumb: [Connect Support administration, Connect Support, Connect, ServiceNo
 
 # Migrate from legacy chat to Connect Support
 
-[[c_ConnectSupport|Connect Support]] is an extension of [[c_Connect|Connect]]. Users designated as support agents have access to the support tab of the connect sidebar. Do not use Connect Support concurrently with legacy chat.
+Connect Support is an extension of Connect. Users designated as support agents have access to the support tab of the connect sidebar. Do not use Connect Support concurrently with legacy chat.
 
 ## Before you begin
 
 Role required: admin
 
-Before you [[t_ActivateConnectSupport|activate Connect Support]], inform your support agents to close out any existing chats.
+Before you activate Connect Support, inform your support agents to close out any existing chats.
 
 Legacy chat uses a different field to determine which state a help desk chat is in. A fix script is included in the Connect Support plugin that circumvents this issue by closing out any existing help desk chat sessions. Manually closing out any existing chats before allowing this script to run helps prevent any loss of chat information.
 
@@ -38,8 +38,4 @@ If you do not close out existing help desk chats, your metrics and chat queue wi
 
     Activating Connect Support does not completely eliminate the legacy chat module. To prevent users from using the legacy chat, hide the Social IT application menu. For more information, see [Enable or disable an application menu or module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_EnDisableAppMenuOrMod.md) .
 
-## Related
 
-- [[c_ConnectSupport|Connect Support]]
-- [[c_Connect|Connect]]
-- [[t_ActivateConnectSupport|Activate Connect Support]]

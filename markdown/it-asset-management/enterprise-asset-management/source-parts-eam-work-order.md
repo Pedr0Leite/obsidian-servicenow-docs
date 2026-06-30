@@ -30,7 +30,7 @@ You can specify parts requirements that you want to source instead of sourcing a
 
 ## Procedure
 
-1.  From the [[using-eam-workspace|Enterprise Asset Workspace]], open the Work management view.
+1.  From the Enterprise Asset Workspace, open the Work management view.
 
 2.  Open the record for either the work order or work order task that you want to source parts for.
 
@@ -38,7 +38,7 @@ You can specify parts requirements that you want to source instead of sourcing a
     -   To open a work order task record, select the **Work order tasks** tab. From the list of available work order tasks, select the work order task that you want to source parts for.
 3.  On the work order or work order task record, select **Source Parts Request**.
 
-    The Source parts request dialog box opens. All part requirement [[c_Models|models]] that have still not been requested are listed and selected by default.
+    The Source parts request dialog box opens. All part requirement models that have still not been requested are listed and selected by default.
 
 4.  Enter the quantity that you want to request in the **Request quantity** field.
 
@@ -48,9 +48,9 @@ You can specify parts requirements that you want to source instead of sourcing a
 
     A confirmation message appears, indicating that a corresponding catalog request has been created only for the selected parts requirement.
 
-6.  From the left navigation menu of the Enterprise Asset Workspace, open the [[asset-operations-view|Asset operations view]].
+6.  From the left navigation menu of the Enterprise Asset Workspace, open the Asset operations view.
 
-7.  On the **Lists** tab of the Asset operations view, navigate to **[[c_Procurement|Procurement]]** &gt; **Requests**.
+7.  On the **Lists** tab of the Asset operations view, navigate to **Procurement** &gt; **Requests**.
 
 8.  Select the request for the assets or parts that you need to source.
 
@@ -72,7 +72,7 @@ You can specify parts requirements that you want to source instead of sourcing a
 
         To use this option, click **Consume** on the Local stock widget. When prompted, specify the consumption details for the source request.
 
-    -   **Transferable stock**: Option to transfer assets or parts between available [[c_Stockrooms|stockrooms]] or to a location where the requester can receive those assets or parts.
+    -   **Transferable stock**: Option to transfer assets or parts between available stockrooms or to a location where the requester can receive those assets or parts.
 
         To use this option, click **Transfer** on the Transferable stock widget. When prompted, specify the transfer details for the source request.
 
@@ -91,10 +91,3 @@ You can specify parts requirements that you want to source instead of sourcing a
 
 **Parent Topic:**[Managing work for your enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/managing-work-enterprise-assets.md)
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[c_Models|Models]]
-- [[asset-operations-view|Asset operations view]]
-- [[c_Procurement|Procurement]]
-- [[c_Stockrooms|Stockrooms]]

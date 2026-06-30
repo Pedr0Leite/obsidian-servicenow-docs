@@ -14,7 +14,7 @@ breadcrumb: [Components installed with Labor Unions, Labor unions, HR Administra
 
 # Create a local chapter
 
-Use Local Chapters to set up and track the chapters of your union. Local chapters are children to [[labor-unions|labor unions]].
+Use Local Chapters to set up and track the chapters of your union. Local chapters are children to labor unions.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: HR admin \[sn\_hr\_core.admin\]
 
 ## Procedure
 
-1.  **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **Labor Unions** &gt; **Local Chapters**,
+1.  **HR Administration** &gt; **Labor Unions** &gt; **Local Chapters**,
 
 2.  Select **New**.
 
@@ -86,7 +86,3 @@ The website URL of the local union chapter.
 
 **Parent Topic:**[Components installed with Labor Unions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/labor-unions-setting-up.md)
 
-## Related
-
-- [[labor-unions|Labor unions]]
-- [[c_AdministerHRServiceManagement|HR Administration]]

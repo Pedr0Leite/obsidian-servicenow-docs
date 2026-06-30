@@ -18,7 +18,7 @@ When the plugin is activated, the Task Relationships application is available wi
 
 |Module|Description|
 |------|-----------|
-|Knowledge Relation Types|Contains the [[clone-exclusions-preservers-cleanupscripts|definitions]] for the possible types of relationships between knowledge articles and tasks.|
+|Knowledge Relation Types|Contains the definitions for the possible types of relationships between knowledge articles and tasks.|
 |Knowledge Relationships|Displays all the defined relationships between existing tasks and knowledge articles.|
 |Relationship Types|Contains the definitions for the possible types of relationships between tasks.|
 |Relationships|Contains all the defined relationships between existing tasks.|
@@ -37,6 +37,3 @@ The following Relation Types are available by default:
 
 **Parent Topic:**[Creating many-to-many task relations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_ManyToManyTaskRelations.md)
 
-## Related
-
-- [[clone-exclusions-preservers-cleanupscripts|Definitions]]

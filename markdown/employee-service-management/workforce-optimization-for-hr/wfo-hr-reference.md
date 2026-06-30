@@ -579,7 +579,7 @@ Grants administrative rights to create, read, update, and delete \(CRUD\) coachi
 </td><td>
 
 -   sn\_coaching.coach
--   sn\_lc.[[exploring-learning-exp|learning]]\_admin
+-   sn\_lc.learning\_admin
 
 </td></tr><tr><td>
 
@@ -795,7 +795,7 @@ Stores details of external course items that are pulled from third-party systems
 
 </td></tr><tr><td>
 
-Learning User Course [[activity-lxp|Activity]]\[sn\_lc\_user\_course\_activity\]
+Learning User Course Activity\[sn\_lc\_user\_course\_activity\]
 
 </td><td>
 
@@ -1060,8 +1060,3 @@ Task Predicted Skill \[sn\_sre\_task\_predicted\_skill\]
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[activity-lxp|Activity]]

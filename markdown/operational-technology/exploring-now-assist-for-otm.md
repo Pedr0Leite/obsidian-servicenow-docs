@@ -12,7 +12,7 @@ breadcrumb: [OT Manager Foundation, Operational Technology]
 
 # Exploring OT Manager Foundation
 
-The Operational Technology \(OT\) Manager Foundation plugin uses generative AI to help streamline processes in the [[industrial-workspace-for-operational-technology|Industrial Workspace]] related to your OT device data. You can search for OT devices with the OT Configuration Management Database \(CMDB\) search feature and use an agentic workflow to automate the OT device import process.
+The Operational Technology \(OT\) Manager Foundation plugin uses generative AI to help streamline processes in the Industrial Workspace related to your OT device data. You can search for OT devices with the OT Configuration Management Database \(CMDB\) search feature and use an agentic workflow to automate the OT device import process.
 
 ## OT Manager Foundation overview
 
@@ -23,9 +23,5 @@ With generative AI skills and agentic workflows, you can use the following featu
 
 **Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 
-**Parent Topic:**[[now-assist-for-otm-landing|Operational Technology \(OT\) Manager Foundation]]
+**Parent Topic:**[Operational Technology \(OT\) Manager Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/now-assist-for-otm-landing.md)
 
-## Related
-
-- [[now-assist-for-otm-landing|Operational Technology \(OT\) Manager Foundation]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

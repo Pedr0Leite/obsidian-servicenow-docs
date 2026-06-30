@@ -18,7 +18,7 @@ Pull in data from Infoblox into your CMDB.
 
 ## Before you begin
 
-**Important:** Unless there are configuration issues, use the [[sgcc-landing|SGC Central]] view in the [[sg-workspace|Service Graph Workspace]] or CMDB Workspace to configure the connection for the connector, as the guided setup method is planned for deprecation.
+**Important:** Unless there are configuration issues, use the SGC Central view in the Service Graph Workspace or CMDB Workspace to configure the connection for the connector, as the guided setup method is planned for deprecation.
 
 To use this Service Graph Connector, you need a subscription to a Subscription Unit that is based in the IT Operations Management \(ITOM\) Visibility application or in the ITOM Discovery application. As defined in the section titled "Managed IT Resource Types" in [ServiceNow Subscription Unit Overview](https://www.servicenow.com/products/entitlements-packages.html) for your subscription, for managed IT resources that are created or modified in the CMDB by this Service Graph Connector, but that aren’t yet managed by [ITOM Visibility or ITOM Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-license-module.md), these resources will increase Subscription Unit consumption from that application. Review your current Subscription Unit consumption within ITOM Visibility or ITOM Discovery to ensure available capacity.
 
@@ -31,11 +31,11 @@ Dependencies and requirements:
 -   The Datastream Action plugin \(com.glide.hub.action\_type.datastream\), which is automatically installed.
 -   Observability Commons for CMDB \(sn\_observability\), which is only required for event ingestion. This must be installed prior to installing the connector for Event Management to work. For more information, see [Observability Commons for CMDB](https://store.servicenow.com/sn_appstore_store.do#!/store/application/97e04562072020107add6a77c4a9351a) on the ServiceNow Store.
 
-**Note:** If you have an earlier version of the [[sgc-cmdb-integration-infoblox|Service Graph Connector for Infoblox]], then don’t migrate data from the old connector. You must uninstall the previous version and run the new integration.
+**Note:** If you have an earlier version of the Service Graph Connector for Infoblox, then don’t migrate data from the old connector. You must uninstall the previous version and run the new integration.
 
 Role required: SGC-Admin \(sn\_cmdb\_int\_util.sgc\_admin\) or admin
 
-**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for [[cmdb-sgc-available|Service Graph Connectors]], see [Service Graph Connector user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md).
+**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md).
 
 ## Procedure
 
@@ -176,7 +176,7 @@ Infoblox base URL in the following format: `*&lt;base-URL&gt;*`.
 
 </td></tr><tr><td>
 
-Use [[mid-server-landing|MID Server]]
+Use MID Server
 
 </td><td>
 
@@ -188,7 +188,7 @@ MID Selection
 
 </td><td>
 
-Name of the MID Server used by the connector.This field appears only when the **Use MID server** [[check-box|check box]] is selected.
+Name of the MID Server used by the connector.This field appears only when the **Use MID server** check box is selected.
 
 </td></tr><tr><td>
 
@@ -218,7 +218,7 @@ Name of the MID application used by the connector.This field appears only when t
             **Note:** If any of the tests have errors, follow the suggestions for remediation.
 
         5.  Set the Test connections task to complete by selecting **Mark as Complete**.
-6.  Configure the [[ip-address|IP address]] management tasks and user groups.
+6.  Configure the IP address management tasks and user groups.
 
     1.  Enable properties to create an IP address management task when deleting or inserting a network.
 
@@ -258,12 +258,4 @@ Name of the MID application used by the connector.This field appears only when t
 
     8.  Set the Configure the scheduled jobs task to complete by selecting **Mark as Complete** in the guided setup.
 
-## Related
 
-- [[sgcc-landing|SGC Central]]
-- [[sg-workspace|Service Graph Workspace]]
-- [[sgc-cmdb-integration-infoblox|Service Graph Connector for Infoblox]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[mid-server-landing|MID Server]]
-- [[check-box|Check box]]
-- [[ip-address|IP Address]]

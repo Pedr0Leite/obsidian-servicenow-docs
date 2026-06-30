@@ -20,7 +20,7 @@ Role required: admin or assessment\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[r_Assessments|Assessments]]** &gt; **Metric Definitions** &gt; **Types**.
+1.  Navigate to **All** &gt; **Assessments** &gt; **Metric Definitions** &gt; **Types**.
 
 2.  Open an assessment definition.
 
@@ -38,7 +38,7 @@ Role required: admin or assessment\_admin
 
     1.  In the Metric Categories related list, open a metric category definition.
 
-    2.  In the [[c_AssessmentMetrics|Assessment Metrics]] related list, click **New Metric from Bank**.
+    2.  In the Assessment Metrics related list, click **New Metric from Bank**.
 
         The New Metric from Bank dialog box is displayed with a list of questions available in the question bank.
 
@@ -69,10 +69,5 @@ Role required: admin or assessment\_admin
         A copy of the metric and the corresponding metric definitions is created for the selected category in the question bank.
 
 
-**Parent Topic:**[[add-questionbank-assessment|Add a metric category and metric in the question bank for assessments]]
+**Parent Topic:**[Add a metric category and metric in the question bank for assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/add-questionbank-assessment.md)
 
-## Related
-
-- [[add-questionbank-assessment|Add a metric category and metric in the question bank for assessments]]
-- [[r_Assessments|Assessments]]
-- [[c_AssessmentMetrics|Assessment metrics]]

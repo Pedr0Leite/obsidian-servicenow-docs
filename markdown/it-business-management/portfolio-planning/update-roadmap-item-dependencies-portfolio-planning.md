@@ -29,7 +29,7 @@ Dependencies for free-form roadmaps are available only if the roadmap's source t
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace** &gt; **Portfolio Planning** and open your roadmap.
+1.  Navigate to **Workspaces** &gt; **Portfolio Planning Workspace** &gt; **Portfolio Planning** and open your roadmap.
 
 <table id="choicetable_ngc_1zz_5wb"><thead><tr><th align="left" id="d182946e99">
 
@@ -101,6 +101,3 @@ For field information, see [Dependency form](https://raw.githubusercontent.com/S
 </table>
 **Parent Topic:**[Add dependencies for roadmap items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/add-dependencies-roadmap-items-portfolio-planning.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

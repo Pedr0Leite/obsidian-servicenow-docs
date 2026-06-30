@@ -15,7 +15,7 @@ breadcrumb: [Explore, Now Assist in Document Intelligence, Enable AI experiences
 
 # Document Intelligence workspace with Now Assist
 
-Use the [[document-intelligence-landing|Document Intelligence]] workspace to review the generative AI predictions made by [[platform-now-assist-landing|Now Assist]] for a documentor image file. You can also identify missing information in the file.
+Use the Document Intelligence workspace to review the generative AI predictions made by Now Assist for a documentor image file. You can also identify missing information in the file.
 
 ## Overview of the Document Intelligence workspace with Now Assist
 
@@ -33,7 +33,7 @@ The following illustration shows the Document Intelligence workspace. The worksp
 
 -   1 - Thumbnail panel
 -   2 - Document image panel
--   3 - Document [[controls|controls]]
+-   3 - Document controls
 -   4 - Extraction reviewpanel
 -   5 - Table panel
 
@@ -69,8 +69,3 @@ The table panel enables you to open table rows for review, including viewing the
 
 **Note:** An asterisk in the column heading indicates a required field.
 
-## Related
-
-- [[document-intelligence-landing|Document Intelligence]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[controls|Controls]]

@@ -43,7 +43,7 @@ Role required: sn\_hr\_na\_galileo.read
 **Related topics**  
 
 
-[Summarize a chat conversation using Now Assist for [[hr-service-delivery|HR Service Delivery]] \(HRSD\)]()
+[Summarize a chat conversation using Now Assist for HR Service Delivery \(HRSD\)]()
 
 [Summarize a Sidebar discussion by using Now Assist for HRSD]()
 
@@ -73,6 +73,3 @@ Role required: sn\_hr\_na\_galileo.read
 
 [Analyze sentiments in Now Assist for HR Service Delivery \(HRSD\)]()
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]

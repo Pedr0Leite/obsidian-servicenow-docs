@@ -24,7 +24,7 @@ From Quebec, Key Management Framework enables you to manage keys used for Passwo
 
 ## Verify Password2 implementation
 
--   **[[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] Patterns store app**
+-   **Discovery and Service Mapping Patterns store app**
 
     Verify that the Discovery and Service Mapping Patterns store app \(version 1.0.76\) is installed.
 
@@ -35,7 +35,3 @@ From Quebec, Key Management Framework enables you to manage keys used for Passwo
 
 **Parent Topic:**[Configuring Pattern Designer and related applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/configuring-pattern-designer-plugins.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

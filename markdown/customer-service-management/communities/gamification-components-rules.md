@@ -14,7 +14,7 @@ breadcrumb: [Gamification components, Gamification, Using communities, Communiti
 
 # Rules
 
-[[communities-gamification|Gamification]] rules allow you to configure [[gamification-components-points|points]] that users receive for activities on the community.
+Gamification rules allow you to configure points that users receive for activities on the community.
 
 Gamification includes several pre-defined rules. The gamification administrator can use these rules, modify them as needed, or create new rules. These pre-defined rules include:
 
@@ -34,7 +34,7 @@ When a user performs an activity that has a gamification rule, the user profile 
 -   Points in forums associated with the activity
 -   Points in topics associated with the activity
 -   Points in a track
--   Points assigned for a combination of forums, topics, and [[gamification-components-tracks|tracks]]
+-   Points assigned for a combination of forums, topics, and tracks
 
 If users revert previous activities, the points associated with these activities are removed. As an example, if a rule has been defined and a user creates a blog, they are awarded points. The points are deducted when the blog is deleted. If a rule has not been defined and a user creates a blog, no points are awarded. If the user removes it once a rule has been defined, points are deducted even though none were awarded in the first place.
 
@@ -45,8 +45,3 @@ If users revert previous activities, the points associated with these activities
 
 [Create a gamification rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/gamification-create-rule.md)
 
-## Related
-
-- [[communities-gamification|Gamification]]
-- [[gamification-components-points|Points]]
-- [[gamification-components-tracks|Tracks]]

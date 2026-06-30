@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[system-notifications-landing|System Notifications]]** &gt; **Email** &gt; **Templates**.
+1.  Navigate to **All** &gt; **System Notifications** &gt; **Email** &gt; **Templates**.
 
 2.  Click **New**.
 
@@ -56,7 +56,7 @@ Email layout
 
 </td><td>
 
-If the message body for the template is to be formatted using a predefined [[create-email-layout|email layout]], select the layout.
+If the message body for the template is to be formatted using a predefined [email layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-email-layout.md), select the layout.
 
 </td></tr><tr><td>
 
@@ -82,11 +82,11 @@ Message HTML
 
 </td><td>
 
-Enter the content of the email template message. You can use the HTML editor toolbar to format the HTML, and you can include variables from the **Select variables** column. Variables map to column names available from the notification table, its parent tables, and [[reference-email-admin|reference]] tables. Use variables to include values from a record in the table such as an incident short description or comments and work notes.Notes:
+Enter the content of the email template message. You can use the HTML editor toolbar to format the HTML, and you can include variables from the **Select variables** column. Variables map to column names available from the notification table, its parent tables, and reference tables. Use variables to include values from a record in the table such as an incident short description or comments and work notes.Notes:
 
 -   When a template is applied to a notification, the contents of this field are used when you select **HTML and plain text** or **HTML** in the **Content Type** field in the Email Notification form.
 -   You cannot use HTML code to control the appearance of the contents in the `${comments}` variable.
--   If you want to include a link to the record that triggered the notification, see [[c_EnableLinksToServiceNowRecords|Enable links to records]].
+-   If you want to include a link to the record that triggered the notification, see [Enable links to records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EnableLinksToServiceNowRecords.md).
 
 
 </td></tr><tr><td>
@@ -107,17 +107,10 @@ Create a different message to be delivered to an SMS device. Enter a brief messa
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[[c_EmailTemplates|Email templates]]
+**Parent Topic:**[Email templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailTemplates.md)
 
 **Related topics**  
 
 
 [Create an email layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-email-layout.md)
 
-## Related
-
-- [[create-email-layout|Create an email layout]]
-- [[c_EnableLinksToServiceNowRecords|Enable links to records]]
-- [[c_EmailTemplates|Email templates]]
-- [[system-notifications-landing|System notifications]]
-- [[reference-email-admin|Reference]]

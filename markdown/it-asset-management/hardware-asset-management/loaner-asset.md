@@ -14,7 +14,7 @@ breadcrumb: [Explore, Hardware Asset Management, IT Asset Management]
 
 # Loaner assets
 
-[[loaner-asset-request|Request a loaner asset]] or consumable when you need it for a short period of time.
+Request a loaner asset or consumable when you need it for a short period of time.
 
 A loaner order request is completed through the following stages:
 
@@ -27,7 +27,7 @@ A loaner order request is completed through the following stages:
 
 **Note:**
 
-Loaner assets are not counted in the stockroom count when [[c_StockRules|stock rules]] are being processed.
+Loaner assets are not counted in the stockroom count when stock rules are being processed.
 
 You can't allocate an excluded loaner asset. For more information, see [Hardware Asset Management license exclusion](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/ham-license-exclusion.md).
 
@@ -52,7 +52,3 @@ As an inventory admin, if you want to confirm a wait listed loaner order, unchec
 
 **Note:** You can't select an excluded loaner asset. For more information, see [Hardware Asset Management license exclusion](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/ham-license-exclusion.md).
 
-## Related
-
-- [[loaner-asset-request|Request a loaner asset]]
-- [[c_StockRules|Stock rules]]

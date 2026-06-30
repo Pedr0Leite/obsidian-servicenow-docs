@@ -14,7 +14,7 @@ breadcrumb: [Session management, Hardening settings, Platform Security]
 
 # Minimize absolute session timeout duration
 
-Use the **glide.ui.user\_cookie.max\_life\_span\_in\_days** property to set a maximum life span for user cookies created when [[users|users]] log in with the **[[c_ChSetRemMeChkbxCookie|Remember Me]]** checkbox selected. When the cookie expires, users who have selected the **Remember Me** checkbox are forced to reauthenticate into the instance.
+Use the **glide.ui.user\_cookie.max\_life\_span\_in\_days** property to set a maximum life span for user cookies created when users log in with the **Remember Me** checkbox selected. When the cookie expires, users who have selected the **Remember Me** checkbox are forced to reauthenticate into the instance.
 
 If the **glide.ui.user\_cookie.max\_life\_span\_in\_days** system property is not set to the recommended value of `30` or other appropriate value, then a very long life session could be more vulnerable to session hijack attacks.
 
@@ -34,7 +34,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -46,7 +46,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -96,7 +96,7 @@ Security risk
 
 -   Severity score: 4.2
 -   CVSS rating: Medium
--   Security risk details: A long session lifespan extends the window of opportunity for attackers to hijack [[sc-active-sessions|active sessions]], increasing the likelihood of unauthorized access if credentials or session tokens are compromised.
+-   Security risk details: A long session lifespan extends the window of opportunity for attackers to hijack active sessions, increasing the likelihood of unauthorized access if credentials or session tokens are compromised.
 
 </td></tr><tr><td>
 
@@ -117,10 +117,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Session management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-session-management.md)
 
-## Related
-
-- [[users|Users]]
-- [[c_ChSetRemMeChkbxCookie|Remember me]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]
-- [[sc-active-sessions|Active Sessions]]

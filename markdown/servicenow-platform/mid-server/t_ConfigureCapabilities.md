@@ -14,7 +14,7 @@ breadcrumb: [Configuring MID Servers, Configuring MID Server, MID Server, Manage
 
 # Configure MID Server capabilities
 
-[[mid-server-capabilities|MID Server capabilities]] define the specific functions of a [[mid-server-landing|MID Server]] within an [[ip-address|IP address]] range, allowing an application to select the most appropriate MID Server. Configure capabilities on MID Servers for applications like Orchestration, Cloud Management, and Service Mapping.
+MID Server capabilities define the specific functions of a MID Server within an IP address range, allowing an application to select the most appropriate MID Server. Configure capabilities on MID Servers for applications like Orchestration, Cloud Management, and Service Mapping.
 
 ## Before you begin
 
@@ -185,8 +185,3 @@ To view the script for evaluating this capability, navigate to **MID Server** &g
 
 \[Omitted image "MIDServerResolveDNS.png"\] Alt text: MID capabilities
 
-## Related
-
-- [[mid-server-capabilities|MID Server capabilities]]
-- [[mid-server-landing|MID Server]]
-- [[ip-address|IP Address]]

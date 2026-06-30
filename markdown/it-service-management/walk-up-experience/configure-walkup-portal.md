@@ -18,7 +18,7 @@ Create engaging walk-up center service portals featuring your logo, portal theme
 
 ## Before you begin
 
-[[walkup-experience-landing-page|Walk-up Experience]] includes a complete base-system **Walk-up Portal** with theme. The **Walk-up Portal** pages are meant to be used as built. You can create custom portal pages to meet your needs by copying the portal pages and associated widgets and making changes to the copies. You can configure both an online check-in portal and a physical check-in portal for your walk-up locations.
+Walk-up Experience includes a complete base-system **Walk-up Portal** with theme. The **Walk-up Portal** pages are meant to be used as built. You can create custom portal pages to meet your needs by copying the portal pages and associated widgets and making changes to the copies. You can configure both an online check-in portal and a physical check-in portal for your walk-up locations.
 
 There are several ways to configure the Walk-up service portal:
 
@@ -79,6 +79,3 @@ Order in which reasons for a visit should be prioritized at a walk-up location.
 
 **Parent Topic:**[Configuring Walk-up Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walkup-experience-configuration.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]

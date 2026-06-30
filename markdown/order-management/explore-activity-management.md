@@ -19,21 +19,14 @@ Activity Management helps customer-focused teams plan, execute, capture, and tra
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Provide a single, consistent system to plan, capture, track, and act on all sales and service team activities such as discovery calls, demos, and customer business reviews across channels.|[[explore-crm-touchpoints|CRM Touchpoints]]|Sales and service teams|
-|Eliminate context switching by accessing CRM data directly from Microsoft Outlook without opening a separate browser or application.|[[explore-crm-outlook-add-in|CRM Outlook Add-in]]|Sales representatives|
+|Provide a single, consistent system to plan, capture, track, and act on all sales and service team activities such as discovery calls, demos, and customer business reviews across channels.|[CRM Touchpoints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-crm-touchpoints.md)|Sales and service teams|
+|Eliminate context switching by accessing CRM data directly from Microsoft Outlook without opening a separate browser or application.|[CRM Outlook Add-in](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-crm-outlook-add-in.md)|Sales representatives|
 
 ## What to explore next
 
 To learn more about configuring and using Activity Management, see:
 
--   [[configuring-activity-management|Configuring Activity Management]]
--   [[using-activity-management|Using Activity Management]]
--   [[activity-management-reference|Activity Management reference]]
+-   [Configuring Activity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configuring-activity-management.md)
+-   [Using Activity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-activity-management.md)
+-   [Activity Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/activity-management-reference.md)
 
-## Related
-
-- [[explore-crm-touchpoints|CRM Touchpoints]]
-- [[explore-crm-outlook-add-in|CRM Outlook Add-in]]
-- [[configuring-activity-management|Configuring Activity Management]]
-- [[using-activity-management|Using Activity Management]]
-- [[activity-management-reference|Activity Management reference]]

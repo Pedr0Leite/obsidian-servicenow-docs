@@ -50,7 +50,7 @@ Steps
 
 1.  Find the **Upgrade demand currency fields for active demands** scheduled job and open.
 2.  Select **Execute Now**
- Executing the job copies all amounts in the cost-related fields of the demands in demand currency. The Baseline, Cost Plan, [[cost-plan-breakdown|Cost Plan Breakdown]], Benefit Plan, Benefit Plan Breakdown fields are also changed to the demand currency. You can’t edit the demand currency after the values in the functional currency fields are copied to the demand currency fields since the financial costs exist.
+ Executing the job copies all amounts in the cost-related fields of the demands in demand currency. The Baseline, Cost Plan, Cost Plan Breakdown, Benefit Plan, Benefit Plan Breakdown fields are also changed to the demand currency. You can’t edit the demand currency after the values in the functional currency fields are copied to the demand currency fields since the financial costs exist.
 
 </td></tr><tr><td id="d320195e117">
 
@@ -60,13 +60,9 @@ Steps
 
 1.  Find the **Upgrade demand currency fields for inactive demands** scheduled job and open.
 2.  Select **Execute Now**.
- Executing the job copies the values in the cost-related fields for all existing inactive demands to the demand currency. The currency in the Baselines, Cost Plans, Cost Plan Breakdowns, Benefit Plans, Benefit Plan Breakdowns, Expense Lines [[form-field-information-for-dw|forms]] changes to demand currency.
+ Executing the job copies the values in the cost-related fields for all existing inactive demands to the demand currency. The currency in the Baselines, Cost Plans, Cost Plan Breakdowns, Benefit Plans, Benefit Plan Breakdowns, Expense Lines forms changes to demand currency.
 
 </td></tr></tbody>
 </table>
 **Parent Topic:**[Multicurrency in Demand Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/multicurrency-demand.md)
 
-## Related
-
-- [[cost-plan-breakdown|Cost plan breakdown]]
-- [[form-field-information-for-dw|Forms]]

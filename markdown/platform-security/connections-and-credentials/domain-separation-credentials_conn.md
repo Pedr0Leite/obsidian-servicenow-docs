@@ -14,18 +14,18 @@ breadcrumb: [Explore credentials, connections, and aliases, Connections and Cred
 
 # Domain separation and Credentials and Connections
 
-Domain separation is supported in Credentials and Connections. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which [[users|users]] can see and access data.
+Domain separation is supported in Credentials and Connections. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Standard
 
 -   Includes all aspects of **Basic** level support.
 -   Application properties are domain-aware as needed.
--   [[sc-business-logic|Business logic]]: The service provider \(SP\) creates or modifies processes per customer. The use cases reflect proper use of the application by multiple SP customers in a single instance.
+-   Business logic: The service provider \(SP\) creates or modifies processes per customer. The use cases reflect proper use of the application by multiple SP customers in a single instance.
 -   The instance owner must configure the minimum viable product \(MVP\) business logic and data parameters per tenant as expected for the specific application.
 
 Sample use case: An admin must be able to make comments required when a record closes for one tenant, but not for another.
 
-For more information on support levels, see [[domain-separated-apps|Application support for domain separation]].
+For more information on support levels, see [Application support for domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-separated-apps.md).
 
 ## Overview
 
@@ -35,7 +35,7 @@ Connections are protocol-specific information referencing a target host outside 
 
 ## How domain separation works in Credentials and Connections
 
-Credentials access resources outside of the instance, and are used by the [Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/r-discovery.md), [Orchestration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r-orchestration.md), [Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/c_ServiceMappingOverview.md), and [Cloud Provisioning and Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-management-v2-landing-page.md) applications. These credentials are not tied to a specific domain, rather, they can be bound to an application and then follow the domain separation that the application uses. Credentials can also be assigned to a [MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server-landing.md), and then follow the domain separation specified by the MID Server [[sc-configuration|configuration]].
+Credentials access resources outside of the instance, and are used by the [Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/r-discovery.md), [Orchestration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r-orchestration.md), [Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/c_ServiceMappingOverview.md), and [Cloud Provisioning and Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-management-v2-landing-page.md) applications. These credentials are not tied to a specific domain, rather, they can be bound to an application and then follow the domain separation that the application uses. Credentials can also be assigned to a [MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server-landing.md), and then follow the domain separation specified by the MID Server configuration.
 
 Connections access a target host using a JMS, JDBC, or HTTP\(s\) connection. You can specify global or a specific domain to which the connection belongs.
 
@@ -46,9 +46,3 @@ Connections access a target host using a JMS, JDBC, or HTTP\(s\) connection. You
 
 [Domain separation for service providers]()
 
-## Related
-
-- [[domain-separated-apps|Application support for domain separation]]
-- [[users|Users]]
-- [[sc-business-logic|Business Logic]]
-- [[sc-configuration|Configuration]]

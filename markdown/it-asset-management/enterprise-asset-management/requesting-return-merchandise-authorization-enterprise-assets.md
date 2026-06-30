@@ -14,7 +14,7 @@ breadcrumb: [Create and manage enterprise asset inventory, Managing enterprise a
 
 # Requesting a Return Merchandise Authorization \(RMA\) for defective enterprise assets
 
-A [[return-merchandise-authorization|Return Merchandise Authorization]] \(RMA\) is an agreement between a buyer and a seller that allows the buyer to return, replace, or request the repair of a defective product within the specified warranty period. With the [[enterprise-asset-management|Enterprise Asset Management]] application, you can submit RMA orders to either replace or repair your defective enterprise assets.
+A Return Merchandise Authorization \(RMA\) is an agreement between a buyer and a seller that allows the buyer to return, replace, or request the repair of a defective product within the specified warranty period. With the Enterprise Asset Management application, you can submit RMA orders to either replace or repair your defective enterprise assets.
 
 ## Return Merchandise Authorization flow
 
@@ -37,12 +37,7 @@ If you have not completed the Prepare task for any of the RMA order lines within
 -   **[Submit a Return Merchandise Authorization \(RMA\) order for your defective enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/submit-rma-order.md)**  
 Submit a Return Merchandise Authorization \(RMA\) order to initiate the replacement or repair of your defective enterprise assets.
 -   **[Closing a Return Merchandise Authorization \(RMA\) order for your defective enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/closing-rma-order.md)**  
-After you [[submit-rma-order|submit a Return Merchandise Authorization \(RMA\) order for your defective enterprise assets]], you must complete various tasks to close the order.
+After you submit a Return Merchandise Authorization \(RMA\) order for your defective enterprise assets, you must complete various tasks to close the order.
 
 **Parent Topic:**[Create and manage enterprise asset inventory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/managing-enterprise-asset-inventory.md)
 
-## Related
-
-- [[return-merchandise-authorization|Return Merchandise Authorization]]
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[submit-rma-order|Submit a Return Merchandise Authorization \(RMA\) order for your defective enterprise assets]]

@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-This procedure activates modules corresponding to the following [[r_TranslationTables|translation tables]] that list records with only an English version.
+This procedure activates modules corresponding to the following translation tables that list records with only an English version.
 
 -   Translated Name / Fields
 -   Messages
@@ -31,7 +31,7 @@ This procedure activates modules corresponding to the following [[r_TranslationT
 
 This method of listing untranslated items does not identify strings that have been translated into at least one non-English language but are missing translations in other languages.
 
-**Note:** This process works best with a small number of untranslated items. For information about a workaround for large numbers of untranslated items, see the [Inefficient load of customizations for [[system-localization-landing|System Localization]] -&gt; Non-Translated Items \[KB0813304\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0813304) article in the Now Support Knowledge Base.
+**Note:** This process works best with a small number of untranslated items. For information about a workaround for large numbers of untranslated items, see the [Inefficient load of customizations for System Localization -&gt; Non-Translated Items \[KB0813304\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0813304) article in the Now Support Knowledge Base.
 
 ## Procedure
 
@@ -43,7 +43,7 @@ This method of listing untranslated items does not identify strings that have be
 
     When the list is sorted by **Order**, the modules appear in order from 500 to 900.
 
-    \[Omitted image "LocalizationModulesTrue.png"\] Alt text: Non-translated [[ia-localization-il|localization]] modules.
+    \[Omitted image "LocalizationModulesTrue.png"\] Alt text: Non-translated localization modules.
 
     **Note:** Instead of **Customizations**, your list might show a record titled **Non-translated Items**. When you activate the **Customizations** module, the title changes to **Non-translated Items**.
 
@@ -62,8 +62,3 @@ This method of listing untranslated items does not identify strings that have be
 
 You can translate the fields in an external application and reload the translations as an update set. For more information see, [Export and edit translation records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/t_TranslateTheInterface.md). If you have a small number of strings to translate, you can translate them individually. For more information, see [Translating individual UI strings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/c_TranslateIndFieldLabelsAndValues.md).
 
-## Related
-
-- [[r_TranslationTables|Translation tables]]
-- [[system-localization-landing|System Localization]]
-- [[ia-localization-il|Localization]]

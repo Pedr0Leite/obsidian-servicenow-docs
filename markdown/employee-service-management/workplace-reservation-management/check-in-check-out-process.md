@@ -168,7 +168,7 @@ If the reservation is checked in, employee receives an email notification.
 
 [Configure Microsoft Teams as virtual meeting provider]()
 
-[Connect [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] with Microsoft Teams]()
+[Connect Workplace Reservation Management with Microsoft Teams]()
 
 [Connect Workplace Reservation Management with Zoom]()
 
@@ -180,6 +180,3 @@ If the reservation is checked in, employee receives an email notification.
 
 [Configure reservation multi-day settings in Reservable Module]()
 
-## Related
-
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]

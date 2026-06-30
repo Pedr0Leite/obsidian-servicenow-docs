@@ -26,7 +26,7 @@ After reviewing the case filing response, Visa issues a decision letter that sup
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -56,7 +56,7 @@ After reviewing the case filing response, Visa issues a decision letter that sup
 
 11. In the **Response outcome** field, select your response.
 
-    -   If you select **Unresolved**, the **[[fso-ach-dispute-reverse-provisional|Reverse provisional credit]]** option is displayed.
+    -   If you select **Unresolved**, the **Reverse provisional credit** option is displayed.
     -   If you select **Resolved**, and select **Continue**, you accept the decision and want to issue the final credit.
 12. Select **Close task**.
 
@@ -65,7 +65,3 @@ After reviewing the case filing response, Visa issues a decision letter that sup
 
 **Parent Topic:**[Allocation dispute workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/allocation-dispute-work-flow.md)
 
-## Related
-
-- [[fso-overview|Financial Services]]
-- [[fso-ach-dispute-reverse-provisional|Reverse provisional credit]]

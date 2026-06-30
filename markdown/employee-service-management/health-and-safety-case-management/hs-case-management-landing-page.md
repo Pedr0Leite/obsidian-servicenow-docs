@@ -14,7 +14,7 @@ breadcrumb: [Health and Safety, Employee Service Management]
 
 # Health and Safety Case Management
 
-The ServiceNow® Health and Safety Case Management application provides capabilities to support employees' [[health-safety-overview|health and safety]] inquiries and their return to work after an injury or illness.
+The ServiceNow® Health and Safety Case Management application provides capabilities to support employees' health and safety inquiries and their return to work after an injury or illness.
 
 ## Get started
 
@@ -36,7 +36,7 @@ The ServiceNow® Health and Safety Case Management application provides capabili
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about components such as roles, tables, and store applications that are installed.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-case-management/hs-case-management-[[reference-hr-service-delivery-advanced-integration-with-workday|reference]].md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about components such as roles, tables, and store applications that are installed.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-case-management/hs-case-management-reference.md)
 
 </td><td>
 
@@ -49,7 +49,3 @@ The ServiceNow® Health and Safety Case Management application provides capabili
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

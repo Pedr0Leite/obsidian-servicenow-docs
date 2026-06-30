@@ -13,7 +13,7 @@ breadcrumb: [Platform Analytics Migration Center, Platform Analytics experience,
 
 # Migrate a selection of Core UI reports
 
-Migrate a selection of your Core UI reports to [[par-workspace|Platform Analytics experience]].
+Migrate a selection of your Core UI reports to Platform Analytics experience.
 
 ## Before you begin
 
@@ -21,7 +21,7 @@ Role required: admin, report\_admin, or dashboard\_admin.
 
 ## About this task
 
-Users can find these migrated reports in the [[c_performanceAnalyticsAndReporting|Platform Analytics]] library. The original report is labeled Active=False.
+Users can find these migrated reports in the Platform Analytics library. The original report is labeled Active=False.
 
 **Note:** You cannot use update sets to move the migrated material from a non-production instance to a production instance. Test the migration on the non-production instance and then use Migration Center functionality to migrate the production instance.
 
@@ -44,10 +44,5 @@ If you change a Core UI report and migrate it again from `sys_report.list`, thes
 
 ## What to do next
 
-Verify that the migrated visualizations have all the features of the Core UI reports. For more information, see [[data-mig-unmigrated-content|Content not migrated or migrated in compatibility mode]].
+Verify that the migrated visualizations have all the features of the Core UI reports. For more information, see [Content not migrated or migrated in compatibility mode](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/data-mig-unmigrated-content.md).
 
-## Related
-
-- [[data-mig-unmigrated-content|Content not migrated or migrated in compatibility mode]]
-- [[par-workspace|Platform Analytics experience]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

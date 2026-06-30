@@ -14,7 +14,7 @@ breadcrumb: [Reference, API Insights, Configuration Management Database \(CMDB\)
 
 # Components installed with API Insights
 
-Several types of components are installed with activation of the [[api-insights|API Insights]] plugin, including tables, user roles, and scheduled jobs.
+Several types of components are installed with activation of the API Insights plugin, including tables, user roles, and scheduled jobs.
 
 ## Roles installed
 
@@ -91,7 +91,7 @@ Retrieves ServiceNow APIs from the ServiceNow registry and imports them into API
 
 </td></tr><tr><td>
 
-Import ServiceNow API usage to [[metricbase|MetricBase]]
+Import ServiceNow API usage to MetricBase
 
 </td><td>
 
@@ -103,7 +103,7 @@ SyncOwnershipGroupsOfAPIVersions
 
 </td><td>
 
-Synchronizes [[enable-ownership-group|ownership groups]] for API versions in API Insights.
+Synchronizes ownership groups for API versions in API Insights.
 
 </td></tr><tr><td>
 
@@ -284,11 +284,11 @@ Enables mapping and visualizing connections between concepts.
 
 </td></tr><tr><td>
 
-[[sgcc-landing|SGC Central]] \(sn\_sgc\_central\)
+SGC Central \(sn\_sgc\_central\)
 
 </td><td>
 
-Enables discovering, installing, and monitoring [[cmdb-sgc-available|Service Graph Connectors]].
+Enables discovering, installing, and monitoring Service Graph Connectors.
 
 </td></tr><tr><td>
 
@@ -309,10 +309,3 @@ Enhances component experience with common UI Builder utilities, controllers, and
 </td></tr></tbody>
 </table>**Parent Topic:**[API Insights reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights-reference.md)
 
-## Related
-
-- [[api-insights|API Insights]]
-- [[metricbase|MetricBase]]
-- [[enable-ownership-group|Ownership groups]]
-- [[sgcc-landing|SGC Central]]
-- [[cmdb-sgc-available|Service Graph Connectors]]

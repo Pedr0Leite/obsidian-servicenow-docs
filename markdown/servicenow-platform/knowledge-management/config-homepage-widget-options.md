@@ -14,7 +14,7 @@ breadcrumb: [Knowledge Management Service Portal widgets, Configure the Knowledg
 
 # Configure the home page widget instance options
 
-Configure widget instance options for the widgets used to display popular articles on the [[knowledge-management|Knowledge Management]] Service Portal homepage.
+Configure widget instance options for the widgets used to display popular articles on the Knowledge Management Service Portal homepage.
 
 ## Before you begin
 
@@ -44,7 +44,7 @@ The homepage displays links to the featured, most viewed, and most useful articl
     |Display Field|The title displayed for each article in the list. By default, this is the article short description.|
     |Secondary Fields|Additional information displayed for each article in the list below the title. By default, this information includes the author, view count, the date that the article was last modified, and the article rating.|
     |Max number of records to show|The maximum number of articles to include in the list.|
-    |Show even when empty|Enable this [[check-box|check box]] to display the widget even if there are no articles in the list.|
+    |Show even when empty|Enable this check box to display the widget even if there are no articles in the list.|
     |Show Secondary Fields Label|Enable this check box to display the field labels for the additional information displayed for each article.|
     |Knowledge Base|To restrict the articles that appear in this list to a specific knowledge base, select the knowledge base from the knowledge base list.|
 
@@ -53,7 +53,3 @@ The homepage displays links to the featured, most viewed, and most useful articl
 
 **Parent Topic:**[Knowledge Management Service Portal widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/km-service-portal-widget-instances.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]
-- [[check-box|Check box]]

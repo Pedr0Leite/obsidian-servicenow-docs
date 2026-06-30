@@ -22,7 +22,7 @@ Role required: sn\_mh.manager\_hub\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
 
     The Employee Center portal opens.
 
@@ -110,12 +110,7 @@ Open tasks
 
 </td><td>
 
-List of [[emp-slate-inbox|tasks and requests]] in the Open state.
+List of tasks and requests in the Open state.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[emp-slate-inbox|Tasks and requests]]

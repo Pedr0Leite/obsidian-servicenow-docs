@@ -14,7 +14,7 @@ breadcrumb: [Azure DevOps, Integrate, DevOps Change Velocity, IT Service Managem
 
 # Model an Azure pipeline in DevOps
 
-Model an Azure pipeline by mapping the pipeline to an app, and mapping [[devops-landing-page-new|DevOps Change Velocity]] pipeline steps to Azure pipeline jobs.
+Model an Azure pipeline by mapping the pipeline to an app, and mapping DevOps Change Velocity pipeline steps to Azure pipeline jobs.
 
 ## Before you begin
 
@@ -187,7 +187,7 @@ Standard change template
 
 </td><td>
 
-List of standard [[change-templates|change templates]] to use for Standard change requests.**Note:** This field is required for Standard change type.
+List of standard change templates to use for Standard change requests.**Note:** This field is required for Standard change type.
 
 </td></tr><tr><td>
 
@@ -207,7 +207,3 @@ Change controlled branches
 
 **Parent Topic:**[Azure DevOps integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/azure-devops-integration-dev-ops.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[change-templates|Change templates]]

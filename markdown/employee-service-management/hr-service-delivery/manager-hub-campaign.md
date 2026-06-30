@@ -14,7 +14,7 @@ breadcrumb: [Reference, Manager Hub, HR Service Delivery, Employee Service Manag
 
 # Campaign configurations for Manager Hub
 
-Default campaign configurations are available to use after you have activated [[manager-hub-overview|Manager Hub]] Campaigns display predefined content on Manager Hub.
+Default campaign configurations are available to use after you have activated Manager Hub Campaigns display predefined content on Manager Hub.
 
 The Manager Library campaign is published by default. It displays a banner with the following content on the Manager Library tab in Your team menu.
 
@@ -49,18 +49,13 @@ For more details on these campaigns, navigate to **All** &gt; **Content Experien
 
 [Default configurations for To do's]()
 
-[Default [[proactive-prompts-for-hrsd|proactive prompts]] for Manager Hub]()
+[Default proactive prompts for Manager Hub]()
 
 [Use the View menu icon in Manager Hub]()
 
-[Assign [[exploring-learning-exp|learning]] form]()
+[Assign learning form]()
 
 [Create a conversation form]()
 
 [Schedule a conversation form]()
 
-## Related
-
-- [[manager-hub-overview|Manager Hub]]
-- [[proactive-prompts-for-hrsd|Proactive Prompts]]
-- [[exploring-learning-exp|Learning]]

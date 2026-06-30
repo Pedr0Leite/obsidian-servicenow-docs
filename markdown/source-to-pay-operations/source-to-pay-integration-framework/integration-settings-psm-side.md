@@ -14,7 +14,7 @@ breadcrumb: [Source-to-Pay integration framework, Integration with third-party a
 
 # Integration settings on Source-to-Pay side
 
-Configure your Source-to-Pay \(S2P\) instance to support inbound and outbound integration with your ERP system. This integration configuration enables you to automatically post [[purchase-order-table|purchase order]], receipt, invoice, and download primary data from the ERP.
+Configure your Source-to-Pay \(S2P\) instance to support inbound and outbound integration with your ERP system. This integration configuration enables you to automatically post purchase order, receipt, invoice, and download primary data from the ERP.
 
 Before you start the integration configuration, you must complete the following tasks.
 
@@ -27,17 +27,17 @@ Before you start the integration configuration, you must complete the following 
 
 **Note:** If the application needs to support multiple ERP instances, configure S2P to integrate with each ERP instance separately.
 
-1.  Define an [[erp-source|ERP source]].
+1.  Define an ERP source.
 
     Define the ERP source that you want to integrate with Procurement Service Management. This information is required for any primary data. For more information, see [ERP source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/erp-source.md) and [Primary data integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/master-data-integration.md).
 
-2.  [[setup-authentication-profile-erp-intg|Set up the authentication profile]].
+2.  Set up the authentication profile.
 
     Create a basic authentication profile that can be used for web service integration with ERP. Register the ERP integration username and password to create the authentication profile and associate it to service maps. For more information, see [Set up the authentication profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/setup-authentication-profile-erp-intg.md).
 
 3.  Define source configuration for ERP.
 
-    [[erp-source-configuration|ERP source configuration]] determines the ERP source to which your ERP system connects. For more information, see [ERP source configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/erp-source-configuration.md) and [Define ERP source configuration for Source-to-Pay](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/define-erp-source-config-psm.md).
+    ERP source configuration determines the ERP source to which your ERP system connects. For more information, see [ERP source configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/erp-source-configuration.md) and [Define ERP source configuration for Source-to-Pay](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/define-erp-source-config-psm.md).
 
 4.  Configure service maps for the following entities:
 
@@ -47,17 +47,17 @@ Before you start the integration configuration, you must complete the following 
 
     -   Post receipt.
 
-        Set up web services for the source configuration to post [[receipts|receipts]] to ERP.
+        Set up web services for the source configuration to post receipts to ERP.
 
     -   Post invoice.
 
-        Set up web services for the source configuration to post [[invoices|invoices]] to ERP.
+        Set up web services for the source configuration to post invoices to ERP.
 
-    -   Fetch [[supplier|supplier]].
+    -   Fetch supplier.
 
         Set up web services for the source configuration to fetch supplier updates from ERP.
 
-    -   Fetch [[cost-center|cost center]].
+    -   Fetch cost center.
 
         Set up web services for the source configuration to fetch cost center updates from ERP.
 
@@ -65,7 +65,7 @@ Before you start the integration configuration, you must complete the following 
 
         Set up web services for the source configuration to fetch purchasing entity updates from ERP.
 
-    -   Fetch general [[ledger-account|ledger account]].
+    -   Fetch general ledger account.
 
         Set up web services for the source configuration to fetch general ledger account updates from ERP.
 
@@ -92,7 +92,7 @@ Before you start the integration configuration, you must complete the following 
 7.  Map the following entities:
     -   Purchasing entity.
 
-        Map [[legal-entity|legal entity]] to the downloaded purchasing entity in the purchasing entity table.
+        Map legal entity to the downloaded purchasing entity in the purchasing entity table.
 
     -   Asset category.
 
@@ -110,15 +110,4 @@ Before you start the integration configuration, you must complete the following 
 
         Map ERP plant id to the corresponding ERP location in the address mapping table. Use the **ERP address identifier 1** field for this mapping.
 
-## Related
 
-- [[purchase-order-table|Purchase order]]
-- [[erp-source|ERP source]]
-- [[setup-authentication-profile-erp-intg|Set up the authentication profile]]
-- [[erp-source-configuration|ERP source configuration]]
-- [[receipts|Receipts]]
-- [[invoices|Invoices]]
-- [[supplier|Supplier]]
-- [[cost-center|Cost center]]
-- [[ledger-account|Ledger account]]
-- [[legal-entity|Legal entity]]

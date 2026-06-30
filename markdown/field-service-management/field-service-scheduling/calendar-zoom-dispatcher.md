@@ -14,7 +14,7 @@ breadcrumb: [Using Dispatcher Workspace, Assigning tasks from Dispatcher Workspa
 
 # Zoom in or out on the calendar
 
-Adjust the calendar zoom level in [[dispatcher-activities|Dispatcher Workspace]] to view task details more clearly.
+Adjust the calendar zoom level in Dispatcher Workspace to view task details more clearly.
 
 ## Before you begin
 
@@ -36,6 +36,4 @@ Show zoom controls must be enabled to zoom in or out on the calendar. For more i
 
 5.  Select the zoom percentage to reset the zoom back to 100%.
 
-## Related
 
-- [[dispatcher-activities|Dispatcher Workspace]]

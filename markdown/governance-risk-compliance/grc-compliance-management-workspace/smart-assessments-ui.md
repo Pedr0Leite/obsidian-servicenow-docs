@@ -18,7 +18,7 @@ The Lists pane of the Compliance Workspace is updated with assessments link to n
 
 ## Lists page of the Compliance Workspace
 
-You can select the Assessments list option in the Control attestations list of the Compliance Workspace [[list-view-uib-ws|List view]] to view the list of assessments that are not in complete state.
+You can select the Assessments list option in the Control attestations list of the Compliance Workspace List view to view the list of assessments that are not in complete state.
 
 ## Attestation widgets in Compliance Workspace home pages
 
@@ -47,6 +47,4 @@ You can select the Assessments list option in the Control attestations list of t
 
     Displays the Attestations widget with the open and overdue attestation details. If the control was previously assessed by the Classic attestation method, then the data of all completed attestations are displayed. You can also view the **Completed attestation** widget with its details.
 
-## Related
 
-- [[list-view-uib-ws|List view]]

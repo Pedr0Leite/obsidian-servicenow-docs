@@ -35,10 +35,7 @@ Edit conversion funnel data to collect or steps to include in your analysis.
 -   **[Delete a conversion funnel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/delete-funnel-step.md)**  
 Delete a funnel that you no longer need.
 -   **[How Usage Insights matches funnels](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/how-funnels-matched.md)**  
-Learn how [[user-exp-analytics-landing|Usage Insights]] matches sequences of pages you anticipate users seeing before they reach a goal.
+Learn how Usage Insights matches sequences of pages you anticipate users seeing before they reach a goal.
 
 **Parent Topic:**[Using Usage Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/using-uxa.md)
 
-## Related
-
-- [[user-exp-analytics-landing|Usage Insights]]

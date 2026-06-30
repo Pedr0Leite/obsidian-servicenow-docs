@@ -36,7 +36,7 @@ The push notification system involves several key elements that manage the deliv
 The push notification process is as follows:
 
 1.  Activity on the instance triggers a push notification.
-2.  The instance looks for who to send the notification to and checks the user [[preferences-landing|notification preferences]] to find their push device settings.
+2.  The instance looks for who to send the notification to and checks the user notification preferences to find their push device settings.
 3.  The instance sends the push notification to the push notification service, either the Apple Push Notification service \(APNs\) or Firebase Cloud Messaging \(FCM\) service. If you are using the ServiceNow Classic mobile app, the instance sends the notification through a push proxy instance, which then forwards the notification to the APNs or FCM service.
 4.  The push notification service sends the notification to the user's push application. When the instance sends the notification to the push notification service, it includes message content along with the instance name and ID. This information ensures that a response to the notification is sent back to the correct instance. If the user can reply to the notification, such as sending an approval to a change request, the response is sent via REST message back to the instance.
 5.  The instance identifies a script to run to handle the response.
@@ -56,7 +56,7 @@ https://{instance_name}/api/now/v1/push/{application Name}/action/{action}
 
 The application name is the push application the user is using. The application name must match the application name in the Push Application \[sys\_push\_application\] table. The action is the Sys ID of the action in the Push Notifications Actions \[sys\_push\_notif\_act\_script\] table.
 
-**Parent Topic:**[[c_PushNotifications|Push notifications]]
+**Parent Topic:**[Push notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_PushNotifications.md)
 
 **Related topics**  
 
@@ -77,7 +77,3 @@ The application name is the push application the user is using. The application 
 
 [Push notification retention]()
 
-## Related
-
-- [[c_PushNotifications|Push notifications]]
-- [[preferences-landing|Notification Preferences]]

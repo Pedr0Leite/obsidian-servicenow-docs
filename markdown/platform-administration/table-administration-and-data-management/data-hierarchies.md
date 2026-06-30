@@ -34,7 +34,7 @@ By default, the following record hierarchies are included with your instance:
 
 You can view these predefined record hierarchies by navigating to **All** &gt; **System Definition** &gt; **Record hierarchy**.
 
-Each record hierarchy is based on a [[reference-email-admin|reference]] field that contains parent-child relationships between records in the same table.
+Each record hierarchy is based on a reference field that contains parent-child relationships between records in the same table.
 
 -   The Department Hierarchy is based on the Parent reference field in the Department \[cmn\_department\] table.
 -   The Location Hierarchy is based on the Parent reference field in the Location \[cmn\_location\] table.
@@ -42,7 +42,7 @@ Each record hierarchy is based on a [[reference-email-admin|reference]] field th
 
 For example, the Location Hierarchy on the Location \[cmn\_location\] table uses the Parent reference field. Each location has a parent, which is another record in the Location \[cmn\_location\] table. For example, the Chicago and Springfield location records have the Illinois location record's sys\_id value in their parent field. Street addresses have sys\_id locations for the cities they belong to in their parent field.
 
-You can use the Location Hierarchy in the condition builder to create targeted queries. For example, you can specify a starting point in the Location Hierarchy and query down the hierarchy to retrieve all [[ia-assets|assets]] associated with locations throughout that portion of the hierarchy.
+You can use the Location Hierarchy in the condition builder to create targeted queries. For example, you can specify a starting point in the Location Hierarchy and query down the hierarchy to retrieve all assets associated with locations throughout that portion of the hierarchy.
 
 ## Hierarchical paths
 
@@ -134,7 +134,3 @@ Building a hierarchy between related records in the same table requires a self-r
 3.  Create a hierarchy in the Record Hierarchies \[sys\_record\_hierarchy\] table and specify the table and reference field that you want to use. The ServiceNow AI Platform automatically adds hierarchical path information to each record in the table.
 4.  Create hierarchical queries in the condition builder by selecting the hierarchy that you created. Use operators to search through the hierarchy.
 
-## Related
-
-- [[reference-email-admin|Reference]]
-- [[ia-assets|Assets]]

@@ -14,7 +14,7 @@ breadcrumb: [Service catalog requests, Self-Service, Self-service, Manage servic
 
 # Amazon EC2 instance request from the Service Catalog
 
-Users can request the provisioning and deletion of virtual computers \(Linux or Windows\) in the Amazon EC2 virtual computing environment through the ServiceNow [[service-catalog|Service Catalog]].
+Users can request the provisioning and deletion of virtual computers \(Linux or Windows\) in the Amazon EC2 virtual computing environment through the ServiceNow Service Catalog.
 
 The Amazon EC2 offering requires the purchase and activation of ServiceNow Orchestration Automaton.
 
@@ -27,6 +27,3 @@ Shut down an Amazon EC2 instance through the service catalog.
 
 **Parent Topic:**[Service catalog requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/self-service/p_ServiceCatalogRequests.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]

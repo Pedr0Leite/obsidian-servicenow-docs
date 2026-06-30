@@ -20,10 +20,10 @@ The floor map view of a building enables you to visualize the changes in real ti
 
 Install the following plugins:
 
--   [[workplace-central-feat|Workplace Central]]
--   [[workplace-case-mgmt-feat|Workplace Case Management]]
--   [[workplace-space-mgmt-ovw|Workplace Space Management]]
--   For Floor map view, the floor maps must be created using Workplace [[Indoor-mapping|Indoor Mapping]] Map studio.
+-   Workplace Central
+-   Workplace Case Management
+-   Workplace Space Management
+-   For Floor map view, the floor maps must be created using Workplace Indoor Mapping Map studio.
 
 -   **[Edit a building's spaces using a map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/edit-space-details-for-buildings.md)**  
 Space planners and administrators can update space attributes and allocation changes using interactive floor maps. Select and edit a single space or update bulk spaces via floor maps. Add, change, or remove space allocations as required. The updated space attributes and association changes are reflected in real-time on a floor map.
@@ -57,9 +57,3 @@ Using the building's Floor map view, move single or multiple employees on a floo
 
 [Work on a space assist request]()
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[workplace-space-mgmt-ovw|Workplace Space Management]]
-- [[Indoor-mapping|Indoor Mapping]]

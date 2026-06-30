@@ -16,7 +16,7 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 Use the **glide.live\_feed.custom\_journal.acl\_check\_enabled** property to respect ACL's on custom journal fields.
 
-If **glide.live\_feed.custom\_journal.acl\_check\_enabled** is not set to the recommended value of true, then all [[users|users]] to be able to see all journal entries within the life feed feature. Setting property to true will respect ACL's on custom journal fields which is a good to have feature.
+If **glide.live\_feed.custom\_journal.acl\_check\_enabled** is not set to the recommended value of true, then all users to be able to see all journal entries within the life feed feature. Setting property to true will respect ACL's on custom journal fields which is a good to have feature.
 
 ## More information
 
@@ -35,6 +35,3 @@ To learn more about adding or creating a system property, see [Add a system prop
 
 **Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[users|Users]]

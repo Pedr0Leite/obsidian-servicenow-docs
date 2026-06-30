@@ -18,7 +18,7 @@ Make outbound calls and receive a voice call in the browser through the WebRTC i
 
 ## Before you begin
 
-Role required: [[notify-landing-page|notify]]\_view, or itil
+Role required: notify\_view, or itil
 
 ## Procedure
 
@@ -42,6 +42,3 @@ Role required: [[notify-landing-page|notify]]\_view, or itil
 
 [Key differences between on-call scheduling with NotifyNow and with Notify]()
 
-## Related
-
-- [[notify-landing-page|Notify]]

@@ -14,7 +14,7 @@ breadcrumb: [Procurement File Transfer Framework, Integrate, Sourcing and Procur
 
 # Third‑party registration for PIF and PFTF integrations
 
-Third‑party registration enables you to configure [[supplier|supplier]] integrations for [[source-to-pay-integration-framework|Source-to-Pay Integration Framework]] \(PIF\) and [[procurement-file-transfer-framework|Procurement File Transfer Framework]] \(PFTF\).
+Third‑party registration enables you to configure supplier integrations for Source-to-Pay Integration Framework \(PIF\) and Procurement File Transfer Framework \(PFTF\).
 
 Navigate to **All** &gt; **Procurement Integrations** &gt; **Setup** &gt; **Third-Party Registration**. For third-party registration, following are the fields:
 
@@ -25,17 +25,10 @@ Navigate to **All** &gt; **Procurement Integrations** &gt; **Setup** &gt; **Thir
 |Customer id|Unique identifier for the customer.|
 |Import catalog|Supplier is allowed to import catalog, which includes price and availability.|
 |Post order|Supplier is allowed to post orders.|
-|Import invoice|Supplier is allowed to import [[invoices|invoices]].|
-|Allow [[purchase-order-table|purchase order]] revision|Supplier allows purchase orders to be revised after confirmation.|
+|Import invoice|Supplier is allowed to import invoices.|
+|Allow purchase order revision|Supplier allows purchase orders to be revised after confirmation.|
 |Import shipment|Supplier is allowed to import shipments.|
 |Allow multi location order|Supplier allows orders to be split for multi-location shipping.|
 
 **Parent Topic:**[Procurement File Transfer Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/procurement-file-transfer-framework.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[source-to-pay-integration-framework|Source-to-Pay integration framework]]
-- [[procurement-file-transfer-framework|Procurement File Transfer Framework]]
-- [[invoices|Invoices]]
-- [[purchase-order-table|Purchase order]]

@@ -22,7 +22,7 @@ Role required: sn\_risk.manager or sn\_risk.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Risk** &gt; **[[risk-workspace|Risk Workspace]]** &gt; **Indicators** &gt; **Risk indicators**.
+1.  Navigate to **All** &gt; **Risk** &gt; **Risk Workspace** &gt; **Indicators** &gt; **Risk indicators**.
 
 2.  Click **New**.
 
@@ -285,6 +285,3 @@ Previous status of the indicator to show whether the indicator passed or failed.
 
 **Parent Topic:**[Using the Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/using-risk-workspace.md)
 
-## Related
-
-- [[risk-workspace|risk workspace]]

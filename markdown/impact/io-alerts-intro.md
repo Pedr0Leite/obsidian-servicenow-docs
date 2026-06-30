@@ -13,7 +13,7 @@ breadcrumb: [Monitoring instance health with Instance Observer, Platform Health,
 
 # Alerts in Instance Observer
 
-ServiceNow Instance Observer provides a comprehensive set of alerts designed to monitor [[platform-health-idi|platform health]], [[instance-observer-performance|performance]], and [[user-experience-insights|user experience]]. These alerts are categorized for easy consumption and actionability.
+ServiceNow Instance Observer provides a comprehensive set of alerts designed to monitor platform health, performance, and user experience. These alerts are categorized for easy consumption and actionability.
 
 -   **Transactions**
 
@@ -43,7 +43,7 @@ ServiceNow Instance Observer provides a comprehensive set of alerts designed to 
     -   Database host health CPU: High CPU on primary DB host
     -   Shards host health CPU: Resource issues on shard hosts
     -   Read replica host health \(CPU\): Read-replica CPU anomalies
-    -   [[io-standby-replica-lag|Standby replication lag]]: Lag in standby DB replication
+    -   Standby replication lag: Lag in standby DB replication
     -   InnoDB row lock: Frequency of row lock waits
     -   Primary database growth: Flags abnormal growth in primary DB
     -   Database table growth: Specific table-level growth indicators
@@ -86,7 +86,7 @@ ServiceNow Instance Observer provides a comprehensive set of alerts designed to 
     -   AMB send in use: Utilization of AMB sending capacity
 -   **Historical or list data volume**
 
-    Monitors growth of historical or list data that can [[impact-landing-page|impact]] performance:
+    Monitors growth of historical or list data that can impact performance:
 
     History list length: Flags excessive record count in history tables.
 
@@ -103,44 +103,26 @@ ServiceNow Instance Observer provides a comprehensive set of alerts designed to 
     Auriga Intelligent: AI-driven anomaly or pattern detection alerts.
 
 
--   **[[io-alerts|Key alerts – activation and notifications]]**  
+-   **[Key alerts – activation and notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-alerts.md)**  
 Use the Instance Observer Key Alerts Activation functionality for flexibility to set alerts with historical thresholds from four week increments specific to your business needs and configure who on your team receives notifications.
--   **[[manage-io-alerts|Manage Instance Observer alerts]]**  
+-   **[Manage Instance Observer alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/manage-io-alerts.md)**  
 Act on Instance Observer \(IO\) threshold alerts directly from the notification.
--   **[[io-app-monitor-alert-card|Set an alert to monitor the average response time of applications]]**  
+-   **[Set an alert to monitor the average response time of applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-app-monitor-alert-card.md)**  
 Set an alert to monitor the application performance when the average response time of applications that run on an instance exceeds the configured threshold.
--   **[[io-alerts-guided-cust|Track instance performance with the top six timely alerts – Guided users]]**  
+-   **[Track instance performance with the top six timely alerts – Guided users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-alerts-guided-cust.md)**  
 Use the Instance Observer alerting feature to receive notifications on the performance of your instance. Monitor the alerts that are system driven.
--   **[[io-alerts-popular-total-adv-cust|Use popular alerts to receive notifications – Advanced and Total users]]**  
+-   **[Use popular alerts to receive notifications – Advanced and Total users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-alerts-popular-total-adv-cust.md)**  
 Get started with the popular alerts that are most widely used to receive notifications about your instance performance if you’re new to the Instance Observer \(IO\) alerting system. The most popular alerts appear on the first page of your Configure Alerts page.
--   **[[i-o-notifications|Instance Observer Notifications]]**  
+-   **[Instance Observer Notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/i-o-notifications.md)**  
 Notifications for alerts and other system activity are displayed on the Instance Observer banner.
--   **[[io-long-pending-jobs|Configure long pending jobs alert by job priority]]**  
+-   **[Configure long pending jobs alert by job priority](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-long-pending-jobs.md)**  
 Get notifications when jobs that are pending exceed your defined overdue thresholds by configuring the **Long Pending Jobs** alert. Set up conditions by job priority to take action on groups of jobs—such as all discovery jobs or system cleanup jobs—in one go, rather than managing them individually.
--   **[[io-receive-notification-customer-conf-webhook|Configure IO alert notifications for a ServiceNow instance]]**  
+-   **[Configure IO alert notifications for a ServiceNow instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-receive-notification-customer-conf-webhook.md)**  
 Set up a basic integration between Instance Observer \(IO\) and ServiceNow to route IO alert notifications to a ServiceNow instance.
--   **[[io-receive-notification-third-party|Configure IO alert notifications for a third-party application]]**  
+-   **[Configure IO alert notifications for a third-party application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-receive-notification-third-party.md)**  
 Set up a basic integration between Instance Observer \(IO\) and third-party integrations to route IO alert notifications to an external system in addition to emails and SMS.
--   **[[custom-payload-help-guide-impact|Custom payload in alerts integration]]**  
+-   **[Custom payload in alerts integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/custom-payload-help-guide-impact.md)**  
 Instance Observer integrations enable you to define and manage custom JSON request payload for ServiceNow and third-party integrations.
 
-**Parent Topic:**[[io-overview|Monitoring instance health with Instance Observer]]
+**Parent Topic:**[Monitoring instance health with Instance Observer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-overview.md)
 
-## Related
-
-- [[io-alerts|Key alerts – activation and notifications]]
-- [[manage-io-alerts|Manage Instance Observer alerts]]
-- [[io-app-monitor-alert-card|Set an alert to monitor the average response time of applications]]
-- [[io-alerts-guided-cust|Track instance performance with the top six timely alerts – Guided users]]
-- [[io-alerts-popular-total-adv-cust|Use popular alerts to receive notifications – Advanced and Total users]]
-- [[i-o-notifications|Instance Observer Notifications]]
-- [[io-long-pending-jobs|Configure long pending jobs alert by job priority]]
-- [[io-receive-notification-customer-conf-webhook|Configure IO alert notifications for a ServiceNow instance]]
-- [[io-receive-notification-third-party|Configure IO alert notifications for a third-party application]]
-- [[custom-payload-help-guide-impact|Custom payload in alerts integration]]
-- [[io-overview|Monitoring instance health with Instance Observer]]
-- [[platform-health-idi|Platform Health]]
-- [[instance-observer-performance|Performance]]
-- [[user-experience-insights|User Experience]]
-- [[io-standby-replica-lag|Standby replication Lag]]
-- [[impact-landing-page|Impact]]

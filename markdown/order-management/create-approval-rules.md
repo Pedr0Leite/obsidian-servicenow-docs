@@ -12,7 +12,7 @@ breadcrumb: [Advanced Approval Management, Configure, price, quote apps, Configu
 
 # Create approval rules
 
-Define [[rules_101|rules]] for approval workflows. An approval rule identifies the functional approver for the workflow, such as a Finance Manager or Operations Manager. The rule also associates approvers with the appropriate approval trigger conditions, and defines escalation details for reassiging an approvals to another approver for the rule, when the original approver can't action on the approval step for this rule.
+Define rules for approval workflows. An approval rule identifies the functional approver for the workflow, such as a Finance Manager or Operations Manager. The rule also associates approvers with the appropriate approval trigger conditions, and defines escalation details for reassiging an approvals to another approver for the rule, when the original approver can't action on the approval step for this rule.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_adv\_appr\_mgmt.approval\_rule\_admin or sn\_adv\_appr\_mgmt.
 
 Approval rules define the approvers for the rule, associate the trigger conditions to the rule, and provide escalation rules for the rule if escalations are enabled in your configuration. The escalation feature enables you to reassign an approval request to another approver when the original approver does not approve or reject a request within a timeframe that you define.
 
-**Note:** If you have the admin role, you can use a script to identify the functional approver for the rule. For details, see the [[create-approval-rule-form|Create Approval Rule form]].
+**Note:** If you have the admin role, you can use a script to identify the functional approver for the rule. For details, see the [Create Approval Rule form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-approval-rule-form.md).
 
 ## Procedure
 
@@ -36,7 +36,7 @@ Approval rules define the approvers for the rule, associate the trigger conditio
 
 4.  Select **New**.
 
-5.  On the Create New Approval Rule form, fill in the [[fields|fields]].
+5.  On the Create New Approval Rule form, fill in the fields.
 
     For field descriptions, see [Create Approval Rule form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-approval-rule-form.md).
 
@@ -49,11 +49,5 @@ The approval rule, when used in an approval workflow, is depicted as a step \(ca
 
 ## What to do next
 
-[[create-approval-chain|Create approval chains]] \(optional\).
+[Create approval chains](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-approval-chain.md) \(optional\).
 
-## Related
-
-- [[create-approval-rule-form|Create Approval Rule form]]
-- [[create-approval-chain|Create approval chains]]
-- [[rules_101|Rules]]
-- [[fields|Fields]]

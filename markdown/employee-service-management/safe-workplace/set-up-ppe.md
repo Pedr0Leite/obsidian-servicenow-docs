@@ -14,7 +14,7 @@ breadcrumb: [Workplace PPE Inventory Management, Safe Workplace, Health and Safe
 
 # Set up Workplace PPE Inventory Management
 
-Complete setup tasks to start using [[ppe-inventory-management|Workplace PPE Inventory Management]]. [[create-ppe-model|Create models for PPE items]], add PPE items to your service catalog, [[add-ppe-stock|add PPE stock]], and create stock rules.
+Complete setup tasks to start using Workplace PPE Inventory Management. Create models for PPE items, add PPE items to your service catalog, add PPE stock, and create stock rules.
 
 1.  [Create models for PPE items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/create-ppe-model.md)  
 Create models to record the types of PPE in your inventory.
@@ -29,8 +29,3 @@ Create a stock rule to automatically resupply a stockroom with an item.
 
 **Parent Topic:**[Workplace PPE Inventory Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/ppe-inventory-management.md)
 
-## Related
-
-- [[ppe-inventory-management|Workplace PPE Inventory Management]]
-- [[create-ppe-model|Create models for PPE items]]
-- [[add-ppe-stock|Add PPE stock]]

@@ -36,7 +36,7 @@ The following roles enable customer service agents to view and create incidents 
 -   sn\_incident\_read
 -   sn\_incident\_write
 
-For more information, see [[assign-csm-itsm-integration-roles|Assign CSM/ITSM integration roles]].
+For more information, see [Assign CSM/ITSM integration roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/assign-csm-itsm-integration-roles.md).
 
 ## Determining the incident priority, impact, and urgency
 
@@ -58,6 +58,3 @@ Work notes are synchronized from the incident to the case when:
 
 **Note:** When an incident is created or an existing incident is associated with a case, notification from the incident is suppressed if the caller is an external user \(contact or consumer\).
 
-## Related
-
-- [[assign-csm-itsm-integration-roles|Assigning CSM/ITSM integration roles]]

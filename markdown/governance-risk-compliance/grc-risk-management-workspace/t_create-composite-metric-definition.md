@@ -26,7 +26,7 @@ Add the automatic metric definition and the manual metric definition as children
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Risk** &gt; **[[risk-workspace|Risk Workspace]]** &gt; **Lists** &gt; **Metrics** &gt; **Calculated metric definitions**.
+1.  Navigate to **All** &gt; **Risk** &gt; **Risk Workspace** &gt; **Lists** &gt; **Metrics** &gt; **Calculated metric definitions**.
 
 2.  Click **New**.
 
@@ -50,6 +50,3 @@ The fields of the calculated metric definition form are explained in this topic.
 
 **Parent Topic:**[Configuring metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/configuring-irm-metrics.md)
 
-## Related
-
-- [[risk-workspace|risk workspace]]

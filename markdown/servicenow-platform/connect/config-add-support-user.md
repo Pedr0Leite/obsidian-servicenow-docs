@@ -14,7 +14,7 @@ breadcrumb: [Connect Support administration, Connect Support, Connect, ServiceNo
 
 # Configure the add support users property
 
-To enable support agents to add users to a [[c_ConnectSupport|Connect Support]] conversation, add the **glide.[[c_Connect|connect]].support.add\_members** property.
+To enable support agents to add users to a Connect Support conversation, add the **glide.connect.support.add\_members** property.
 
 ## Before you begin
 
@@ -48,7 +48,4 @@ When the **glide.connect.support.add\_members** property is added and enabled, s
     |**Type**|true \| false|
     |**Value**|true|
 
-## Related
 
-- [[c_ConnectSupport|Connect Support]]
-- [[c_Connect|Connect]]

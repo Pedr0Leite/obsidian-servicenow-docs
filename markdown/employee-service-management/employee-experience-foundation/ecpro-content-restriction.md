@@ -24,7 +24,7 @@ Content Ownership gives control over three areas of Content Publishing:
 -   Where can a content manager publish content \(Topic or Page\)
 -   What content can the content manager create \(Content item\)
 
-    **Note:** Content Managers can create [[ecpro-audience|audiences]]. To enable this, the Allow Ownership for Audiences option must be turned off. If the Ownership Property is enabled, the Content Manager will not have permission to create audiences. See, [Create an auidence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-audiences.md).
+    **Note:** Content Managers can create audiences. To enable this, the Allow Ownership for Audiences option must be turned off. If the Ownership Property is enabled, the Content Manager will not have permission to create audiences. See, [Create an auidence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-audiences.md).
 
 
 <table id="table_c3r_454_2bc"><thead><tr><th>
@@ -88,7 +88,7 @@ What - Content itemAssign content managers to specific content items
 </table>## Impact on roles
 
 -   System admin \(admin\) has total control and visibility into Content Publishing and Content Experiences during and after restriction set up.
--   Content Administrators \(sn\_cd.content\_admin\) have full and complete access to add, edit, and publish content within the restricted areas and functions for [[employee-center-pro-landing|Employee Center Pro]].
+-   Content Administrators \(sn\_cd.content\_admin\) have full and complete access to add, edit, and publish content within the restricted areas and functions for Employee Center Pro.
 -   Content Managers \(sn\_cd.content\_manager\) have restricted access to authoring and publishing capabilities. Review the tables below to understand how content managers access to audiences, pages, topic, and content items changes when a user or group is assigned to the record.
 
     The following graphic shows a content manager's access permissions to a record based in whether they are assigned to that record or not.
@@ -111,7 +111,3 @@ The following plug-ins are required:
 
 After activating the required plug-ins, enable the Content Manager Ownership properties. See [Properties installed with Content Publishing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/properties-with-content-delivery.md). When the Content Manager Ownership properties are enabled, Content Ownership related lists appear in records for audiences, content items, topics, and portal pages.
 
-## Related
-
-- [[ecpro-audience|Audiences]]
-- [[employee-center-pro-landing|Employee Center Pro]]

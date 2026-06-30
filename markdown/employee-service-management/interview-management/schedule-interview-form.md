@@ -14,7 +14,7 @@ breadcrumb: [Reference, Interview Management, Hiring Experiences, HR Service Del
 
 # Schedule interview form
 
-The schedule interview form provides the field descriptions required to [[schedule-interview|schedule an interview]] with an applicant.
+The schedule interview form provides the field descriptions required to schedule an interview with an applicant.
 
 <table id="table_uql_2p2_ncc"><thead><tr><th>
 
@@ -82,7 +82,7 @@ Interviewers
 
 Name of the interviewers.**Note:**
 
--   You can only add interviewers that are part of the [[hiring-tab-concept|hiring]] team for the job requisition. To add additional interviewers to the interview, you must first add them to the hiring team.
+-   You can only add interviewers that are part of the hiring team for the job requisition. To add additional interviewers to the interview, you must first add them to the hiring team.
 -   If you have selected an interview phase, the interviewers specified in the **Interviewer roster** field are automatically added. If needed, you can also add interviewers from the list of **Additional interviewer roster** specified in the interview phase.
 
 </td></tr><tr><td>
@@ -175,7 +175,3 @@ Body text of the interview invite email. It’s auto-generated if you have selec
 </td></tr></tbody>
 </table>**Parent Topic:**[Interview Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/interview-management-reference.md)
 
-## Related
-
-- [[schedule-interview|Schedule an interview]]
-- [[hiring-tab-concept|Hiring]]

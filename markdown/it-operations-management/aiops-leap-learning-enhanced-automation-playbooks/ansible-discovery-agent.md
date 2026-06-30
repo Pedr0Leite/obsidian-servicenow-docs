@@ -15,7 +15,7 @@ breadcrumb: [Ansible automation integration, Exploring LEAP, Learning Enhanced A
 
 # Ansible discovery agent
 
-The Ansible discovery agent analyzes [[automation-opportunities|automation opportunities]] and identifies relevant Ansible job templates using AI-powered semantic matching and historical execution patterns.
+The Ansible discovery agent analyzes automation opportunities and identifies relevant Ansible job templates using AI-powered semantic matching and historical execution patterns.
 
 The Ansible discovery agent automates the process of finding relevant Ansible job templates for automation opportunities. The agent eliminates the manual effort required by automation engineers to search and identify appropriate automation resources.
 
@@ -50,6 +50,3 @@ The Ansible discovery agent integrates with these components:
 -   LEAP clustering engine: Source of automation opportunity data and problem descriptions.
 -   Step-to-job mapping UI: Destination for discovered job template recommendations.
 
-## Related
-
-- [[automation-opportunities|Automation opportunities]]

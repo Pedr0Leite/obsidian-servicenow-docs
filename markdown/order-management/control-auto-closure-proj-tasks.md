@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-In the SPM integration, [[explore-order-management|Order Management]] closes project tasks automatically when all associated order tasks are completed and there are no open child tasks that have project task dependencies. If a project task has open child tasks, Order Management doesn’t automatically close the project task. You can use the **sn\_ind\_tmt\_orm.project.task.auto.closure** property to suppress or reactivate the automatic closure of project tasks.
+In the SPM integration, Order Management closes project tasks automatically when all associated order tasks are completed and there are no open child tasks that have project task dependencies. If a project task has open child tasks, Order Management doesn’t automatically close the project task. You can use the **sn\_ind\_tmt\_orm.project.task.auto.closure** property to suppress or reactivate the automatic closure of project tasks.
 
 ## Procedure
 
@@ -36,6 +36,4 @@ In the SPM integration, [[explore-order-management|Order Management]] closes pro
 
     Automatic project task closure in the SPM integration is immediately suppressed or reactivated based on the value that you entered. If automatic closure is suppressed, any order task-to-project task updates occur only when order tasks are in an in-progress state.
 
-## Related
 
-- [[explore-order-management|Order management]]

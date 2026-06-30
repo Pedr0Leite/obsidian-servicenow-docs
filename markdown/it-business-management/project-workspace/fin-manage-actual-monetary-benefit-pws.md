@@ -23,9 +23,9 @@ Capture the actual benefit from the planned benefits to measure revenue and calc
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[project-workspace-landing-page|Project Workspace]]** and open a project.
+1.  Navigate to **Workspaces** &gt; **Project Workspace** and open a project.
 
-2.  [[fin-manage-actual-monetary-benefit-ppw|Capture actual monetary benefits]] using one of the options.
+2.  Capture actual monetary benefits using one of the options.
 
 <table id="choicetable_b1n_bmf_khc"><thead><tr><th align="left" id="d235471e86">
 
@@ -66,7 +66,3 @@ Monetary Benefit Plan Breakdown side-panel is displayed.
 
 **Parent Topic:**[Create monetary benefit plans for your projects in Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/fin-manage-monetary-benefit-plans-pws.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]
-- [[fin-manage-actual-monetary-benefit-ppw|Capture actual monetary benefits]]

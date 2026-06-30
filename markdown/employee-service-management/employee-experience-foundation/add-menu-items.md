@@ -14,7 +14,7 @@ breadcrumb: [Mega menu configuration, Setup Employee Center browse experience fe
 
 # Add menu items to primary navigation
 
-Add non-taxonomy menu items to the primary navigation bar by configuring the [[employee-center-landing-page|Employee Center]] Menu record. The non-taxonomy menu items are displayed as a simple list.
+Add non-taxonomy menu items to the primary navigation bar by configuring the Employee Center Menu record. The non-taxonomy menu items are displayed as a simple list.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-The topics and child topics you create in the taxonomy are displayed as mega menu items in the Employee Center home page. The default non-taxonomy menu items that are displayed depend on the plugins that you installed. For example, the Employee Center displays the Org Chart menu item when you install the Content Delivery \(com.sn\_content\_delivery\) plugin. The [[employee-center-pro-landing|Employee Center Pro]] displays the [[ecpro-employee-forum|Employee Forums]] menu item when you install the Communities \(com.sn\_communities\) plugin.
+The topics and child topics you create in the taxonomy are displayed as mega menu items in the Employee Center home page. The default non-taxonomy menu items that are displayed depend on the plugins that you installed. For example, the Employee Center displays the Org Chart menu item when you install the Content Delivery \(com.sn\_content\_delivery\) plugin. The Employee Center Pro displays the Employee Forums menu item when you install the Communities \(com.sn\_communities\) plugin.
 
 ## Procedure
 
@@ -46,8 +46,4 @@ The topics and child topics you create in the taxonomy are displayed as mega men
 
     The non-taxonomy menu items are displayed next to the taxonomy menu items in the primary navigation bar.
 
-## Related
 
-- [[employee-center-landing-page|Employee Center]]
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[ecpro-employee-forum|Employee Forums]]

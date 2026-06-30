@@ -14,7 +14,7 @@ breadcrumb: [Create the components of a telephone number, Configure, Telecommuni
 
 # Create a central office code
 
-Create a central office code to allocate it to an area code of a country by using the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+Create a central office code to allocate it to an area code of a country by using the Telecommunications Network Inventory application.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ You can create, review, update, or delete a central office code. You can also vi
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then go to **Administration** &gt; **Central office code**.
 
@@ -72,12 +72,7 @@ Central office code that is also referred to as NXX. The NXX portion of a teleph
 
 ## What to do next
 
-[[create_a_country_code|Create a country code]]. For information, see [Create a country code](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create_a_country_code.md).
+Create a country code. For information, see [Create a country code](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create_a_country_code.md).
 
 **Parent Topic:**[Create the components of a telephone number](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create_components_of_a_telephone_number.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[create_a_country_code|Create a country code]]

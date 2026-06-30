@@ -14,7 +14,7 @@ breadcrumb: [Use, Privacy Management, Governance, Risk, and Compliance]
 
 # Review a privacy assessment
 
-As a privacy analyst, review a privacy assessment after the responders [[submit-an-importance-and-impact-tolerance-assessment-in-ws|submit the assessment]]. You can either [[approve-the-assessment-in-ws|close the assessment]] after a review or you can also request for revision if you determine that the assessment requires more information.
+As a privacy analyst, review a privacy assessment after the responders submit the assessment. You can either close the assessment after a review or you can also request for revision if you determine that the assessment requires more information.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_privacy.analyst
 
 ## About this task
 
-As a reviewer, you can also preview the assessment with the applicable risk statements, [[information-objects|information objects]], and control objectives.
+As a reviewer, you can also preview the assessment with the applicable risk statements, information objects, and control objectives.
 
 ## Procedure
 
@@ -47,8 +47,3 @@ As a reviewer, you can also preview the assessment with the applicable risk stat
 
 **Parent Topic:**[Using Privacy Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/using-privacy-mgmt.md)
 
-## Related
-
-- [[submit-an-importance-and-impact-tolerance-assessment-in-ws|Submit the assessment]]
-- [[approve-the-assessment-in-ws|Close the assessment]]
-- [[information-objects|information objects]]

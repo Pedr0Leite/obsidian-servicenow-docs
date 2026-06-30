@@ -32,7 +32,7 @@ This is an optional task.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[analyst-workbench-overview|Process Mining Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Process Mining Workspace**.
 
     If you continue from the **Set Objectives** page, you are on the **Scope your analysis** page.
 
@@ -59,7 +59,7 @@ This is an optional task.
 
 6.  Select any breakdown from the list or the recommendations.
 
-    These recommendations come from the process configuration set for the table on which the project is based. They are derived from the Breakdown fields section of the [[project-view-screen|Process details page]] in the Process Configuration Builder. For more information, see [Configure process details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/process-details.md).
+    These recommendations come from the process configuration set for the table on which the project is based. They are derived from the Breakdown fields section of the Process details page in the Process Configuration Builder. For more information, see [Configure process details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/process-details.md).
 
     If no value is set in the Process Configuration Builder, then no recommendation is provided.
 
@@ -80,7 +80,3 @@ This is an optional task.
 
 **Parent Topic:**[Scoping your analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/scope-analysis.md)
 
-## Related
-
-- [[analyst-workbench-overview|Process Mining workspace]]
-- [[project-view-screen|Process details page]]

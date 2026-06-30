@@ -15,7 +15,7 @@ breadcrumb: [Portfolio Planning, Strategic Portfolio Management]
 
 # Exploring Portfolio Planning
 
-Prioritize, roadmap, and track the work planned for your products and portfolios using [[portfolio-planning-app-landing-page|Portfolio Planning]]. Enhance management of your traditional project and product delivery approach.
+Prioritize, roadmap, and track the work planned for your products and portfolios using Portfolio Planning. Enhance management of your traditional project and product delivery approach.
 
 ## Portfolio Planning overview
 
@@ -23,12 +23,12 @@ Portfolio Planning helps you plan work for your products and portfolios in the d
 
 With lens in Portfolio Planning, you can flexibly switch between planning perspectives and create personalized plans to achieve focused planning for your products and portfolios. From the work associated to these portfolio plans, prioritize and roadmap relevant work, thus aligning the right execution teams to the right strategy.
 
-\[Omitted image "predefined-lenses-pp.png"\] Alt text: Predefined [[lens-and-portfolio-plans|lenses in Portfolio Planning]]
+\[Omitted image "predefined-lenses-pp.png"\] Alt text: Predefined lenses in Portfolio Planning
 
 ## Comparing Portfolio Planning Workspace with Strategic Planning Workspace
 
--   Portfolio Planning Workspace: Prioritize, roadmap, and track work when using waterfall methodology. Enhance traditional portfolio planning for demand and [[c_ProjectApplicationOverview|project management]].
--   [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace: Prioritize, roadmap, and track work when using traditional, agile, or hybrid methodologies. Align strategy to execution by defining and tracking goals across the organization. To learn more about Strategic Planning, see [Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/alignment-planner-workspace-landing-page.md).
+-   Portfolio Planning Workspace: Prioritize, roadmap, and track work when using waterfall methodology. Enhance traditional portfolio planning for demand and project management.
+-   Strategic Planning Workspace: Prioritize, roadmap, and track work when using traditional, agile, or hybrid methodologies. Align strategy to execution by defining and tracking goals across the organization. To learn more about Strategic Planning, see [Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/alignment-planner-workspace-landing-page.md).
 
 |Feature|Portfolio Planning Workspace|Strategic Planning Workspace|
 |-------|----------------------------|----------------------------|
@@ -71,32 +71,21 @@ Flexibly switch planning perspectives to prioritize, roadmap, and view the align
 -   **[Portfolio plans in Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/portfolio-plans-in-portfolio-planning-ppw.md)**  
 Personalized portfolio plans help you align work with your company's objectives and roadmap the right work for the right time.
 -   **[Work prioritization in Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/work-prioritization-portfolio-planning.md)**  
-[[prioritize-work-portfolio-planning-workspace|Prioritize work]] that is relevant for your portfolio using a centralized Workspace in Portfolio Planning. Review and determine the right work to invest in.
+Prioritize work that is relevant for your portfolio using a centralized Workspace in Portfolio Planning. Review and determine the right work to invest in.
 -   **[Roadmaps in Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/roadmaps-in-portfolio-planning.md)**  
-Effectively plan work for your company using visual [[roadmaps-in-portfolio-planning|roadmaps in Portfolio Planning]] Workspace.
+Effectively plan work for your company using visual roadmaps in Portfolio Planning Workspace.
 -   **[Scenario planning in Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/scenario-planning-in-portfolio-planning.md)**  
 Create and evaluate strategic scenarios to explore different planning approaches. Approve the optimal scenario that aligns with the organizational goals and strategic priorities.
 -   **[Portfolio Planning with Project Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/portfolio-planning-integration-with-execution-applications.md)**  
-Facilitate execution of the work planned in Portfolio Planning in ServiceNow [[c_ProjectPortfolioSuite|Project Portfolio Management]] \(PPM\) application.
+Facilitate execution of the work planned in Portfolio Planning in ServiceNow Project Portfolio Management \(PPM\) application.
 -   **[Capacity planning in Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/capacity-planning-pp.md)**  
 The Capacity Planning screen provides portfolio managers a comprehensive view of capacity, allocations, and utilization of resources.
 -   **[Financial planning for Projects and Demands](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/financials-portfolio-planning.md)**  
 Plan, re-forecast, track the financials, and create baselines for projects and demands.
 -   **[Dashboards in Portfolio Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/dashboards-portfolio-planning.md)**  
-As a product and portfolio manager, use [[dashboards-portfolio-planning|dashboards in Portfolio Planning Workspace]] to monitor performance, [[t_SDLCPPSTrackProgress|track progress]], and make informed decisions related to planning and execution. These dashboards leverage Platform Analytics to provide a trend of historical data and regular reports.
+As a product and portfolio manager, use dashboards in Portfolio Planning Workspace to monitor performance, track progress, and make informed decisions related to planning and execution. These dashboards leverage Platform Analytics to provide a trend of historical data and regular reports.
 -   **[Better together with other ServiceNow applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/better-together-with-other-apps-ppw.md)**  
 Integration of Portfolio Planning with other ServiceNow® applications helps portfolio and product managers to optimize planning, collaboration, and release management for their products.
 
 **Parent Topic:**[Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/portfolio-planning-app-landing-page.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[lens-and-portfolio-plans|Lenses in Portfolio Planning]]
-- [[c_ProjectApplicationOverview|Project Management]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[prioritize-work-portfolio-planning-workspace|Prioritize work]]
-- [[roadmaps-in-portfolio-planning|Roadmaps in Portfolio Planning]]
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]
-- [[dashboards-portfolio-planning|Dashboards in Portfolio Planning Workspace]]
-- [[t_SDLCPPSTrackProgress|Track progress]]

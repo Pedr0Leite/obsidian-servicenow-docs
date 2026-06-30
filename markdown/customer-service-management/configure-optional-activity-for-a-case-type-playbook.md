@@ -36,7 +36,7 @@ Although you can insert global optional activities anywhere in the playbook, you
 
 4.  See the optional activities under all the stages by turning on the toggle for **Optional activities**.
 
-5.  Under **Add activity**, select **Playbook for [[c_CustomerServiceManagement|Customer Service Management]]** &gt; **Approval Request**.
+5.  Under **Add activity**, select **Playbook for Customer Service Management** &gt; **Approval Request**.
 
     A new approval request optional activity is created.
 
@@ -56,13 +56,10 @@ Although you can insert global optional activities anywhere in the playbook, you
 
     The values for the starting and ending states are derived from the value field of the sys\_choice table.
 
-    To create a custom state flow, see [Create a state flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateAStateFlow.md). Ensure that the class of the state flow is “Customer Service Case Flow." You can also configure more [[migration-form-declarative-actions|declarative actions]] for the optional activity. For more information, see [Creating new declarative action assignments](https://www.servicenow.com/community/next-experience-articles/creating-new-declarative-action-assignments-in-the-sys/ta-p/2394930).
+    To create a custom state flow, see [Create a state flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateAStateFlow.md). Ensure that the class of the state flow is “Customer Service Case Flow." You can also configure more declarative actions for the optional activity. For more information, see [Creating new declarative action assignments](https://www.servicenow.com/community/next-experience-articles/creating-new-declarative-action-assignments-in-the-sys/ta-p/2394930).
 
 12. Select **Done**.
 
 13. Select **Activate**.
 
-## Related
 
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[migration-form-declarative-actions|Declarative actions]]

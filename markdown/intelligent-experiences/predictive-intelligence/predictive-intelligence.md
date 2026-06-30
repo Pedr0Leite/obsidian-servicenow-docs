@@ -14,11 +14,11 @@ breadcrumb: [Predictive Intelligence, Enable AI experiences]
 
 # Explore Predictive Intelligence
 
-ServiceNow® [[predictive-intelligence-landing|Predictive Intelligence]] is a platform function that provides a layer of artificial intelligence that empowers features and capabilities across ServiceNow® applications to provide better work experiences.
+ServiceNow® Predictive Intelligence is a platform function that provides a layer of artificial intelligence that empowers features and capabilities across ServiceNow® applications to provide better work experiences.
 
 ## Overview of Predictive Intelligence
 
-Predictive Intelligence is a powerful set of tools applying artificial intelligence and machine learning to make predictions. You can create and train models in three different frameworks: classification, clustering, and similarity. A trained solution can be invoked by any ServiceNow application through an API.\[Omitted image "predictive-intelligence-resolves-faster.png"\] Alt text: The benefits of [[using-predictive-intelligence|using Predictive Intelligence]].
+Predictive Intelligence is a powerful set of tools applying artificial intelligence and machine learning to make predictions. You can create and train models in three different frameworks: classification, clustering, and similarity. A trained solution can be invoked by any ServiceNow application through an API.\[Omitted image "predictive-intelligence-resolves-faster.png"\] Alt text: The benefits of using Predictive Intelligence.
 
 To learn more about ways to use existing models, see [Using Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/using-predictive-intelligence.md).
 
@@ -91,7 +91,3 @@ Learn about ServiceNow applications and features that leverage Predictive Intell
 
 **Parent Topic:**[Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/predictive-intelligence-landing.md)
 
-## Related
-
-- [[predictive-intelligence-landing|Predictive Intelligence]]
-- [[using-predictive-intelligence|Using Predictive Intelligence]]

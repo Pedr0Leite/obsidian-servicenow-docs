@@ -15,7 +15,7 @@ breadcrumb: [Data collected by ITOM Visibility, ITOM Visibility reference, ITOM 
 
 # Detailed information on products discovered by ITOM Visibility
 
-[[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] can discover a wide range of operating systems and applications.
+Discovery and Service Mapping can discover a wide range of operating systems and applications.
 
 Discovery finds computers, servers, printers, a variety of IP-enabled devices, and the applications that run on them. It can then update the configuration items \(CIs\) in your Configuration Management Database \(CMDB\) with the data it collects. This discovery method is referred to as horizontal discovery. Service Mapping maps dependencies, based on a connection between devices and applications. This method is referred to as top-down mapping. The top-down mapping helps you immediately see the impact of a problematic object on the rest of the service instance operation.
 
@@ -27,7 +27,7 @@ Cloud Discovery Patterns find the cloud resources of AWS, Azure, Google Cloud Pl
 
 If you want to validate the necessary pattern commands before running discovery, use the Command Validation Tool. For more information, see [Validate commands used in pattern-based discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/validate-discovery-commands.md).
 
-[[discovery-content-services|ITOM Content Service]] Provides visibility to your applications by using AI capabilities that cluster and classify running application processes. For more information, see [ITOM Content Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/discovery-content-services.md).
+ITOM Content Service Provides visibility to your applications by using AI capabilities that cluster and classify running application processes. For more information, see [ITOM Content Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/discovery-content-services.md).
 
 ## Verify the REST API Permissions
 
@@ -4497,7 +4497,7 @@ Horizontal
 
 </td><td>
 
-[[cloudian-storage-discovery|Cloudian Storage discovery]]
+Cloudian Storage discovery
 
 </td></tr><tr><td>
 
@@ -8511,9 +8511,3 @@ NSX Cluster
 </td></tr></tbody>
 </table>**Parent Topic:**[Data collected by ITOM Visibility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/data-collected-by-itom-visibility.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[discovery-content-services|ITOM Content Service]]
-- [[cloudian-storage-discovery|Cloudian Storage Discovery]]

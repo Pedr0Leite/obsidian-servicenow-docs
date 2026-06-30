@@ -14,7 +14,7 @@ breadcrumb: [Using Software Asset Workspace, Software Asset Management, IT Asset
 
 # Create a catalog request to reclaim assets
 
-Create a catalog request to efficiently [[reclaiming-software-sam|reclaim software]] assets when an employee leaves an organization or moves to a different role.
+Create a catalog request to efficiently reclaim software assets when an employee leaves an organization or moves to a different role.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ Role required: sam\_admin or sam\_user
     |------|-----------|
     |Requested by|The role of the person, such as HR, manager, or employee, who creates this catalog request.|
     |Requested for|Name of the person for who you are submitting the catalog request.|
-    |Employee separation|Whether the person for who you are submitting the [[reclaim-asset|asset reclamation]] is leaving the organization or moving to a different role.|
+    |Employee separation|Whether the person for who you are submitting the asset reclamation is leaving the organization or moving to a different role.|
     |Asset|Assets assigned to the person for who you are submitting the asset reclamation.|
     |Reclaim date|The date by which you want the asset reclaimed by. You can enter today's date or a date in the future.|
     |Reclaim method|The method you intend to use to collect the assets from the departing employee. You can pick up the assets, the employee can drop them off, or ship them to the organization.|
@@ -47,12 +47,7 @@ Role required: sam\_admin or sam\_user
 
 
 -   **[Close an asset reclamation request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/close-an-asset-reclamation-request.md)**  
-[[close-asset-reclamation-request|Close an asset reclamation request]] to efficiently reclaim software assets when an employee leaves an organization or moves to a different role.
+Close an asset reclamation request to efficiently reclaim software assets when an employee leaves an organization or moves to a different role.
 
 **Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/using-sam-workspace.md)
 
-## Related
-
-- [[reclaiming-software-sam|Reclaim software]]
-- [[reclaim-asset|Asset reclamation]]
-- [[close-asset-reclamation-request|Close an asset reclamation request]]

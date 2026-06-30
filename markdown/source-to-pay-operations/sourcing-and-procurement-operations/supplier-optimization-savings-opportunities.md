@@ -15,7 +15,7 @@ breadcrumb: [Savings opportunities, Spend and Savings Management, Explore, Sourc
 
 # Supplier optimization savings opportunities
 
-The [[supplier|Supplier]] Optimization Opportunity Finder Agent identifies spend placed with non-preferred suppliers and fragmented across multiple suppliers for similar products. Addressing these opportunities helps redirect spend to preferred sources and consolidate supplier relationships.
+The Supplier Optimization Opportunity Finder Agent identifies spend placed with non-preferred suppliers and fragmented across multiple suppliers for similar products. Addressing these opportunities helps redirect spend to preferred sources and consolidate supplier relationships.
 
 The Supplier Optimization Opportunity Finder Agent analyzes supplier spend patterns to detect two types of savings opportunity: spend placed with non-preferred suppliers when a preferred alternative exists, and spend fragmented across multiple suppliers for similar products within the same spend category. Both levers use product similarity matching to identify consolidation opportunities.
 
@@ -23,9 +23,9 @@ The Supplier Optimization Opportunity Finder Agent analyzes supplier spend patte
 
 A non-preferred supplier is a supplier that has not been designated as preferred for its spend category. Spend placed with non-preferred suppliers can reduce negotiated savings and weaken supplier governance. The agent identifies cases where the same or a closely related product is being purchased from a non-preferred supplier when a preferred alternative exists.
 
-The agent processes [[purchase-order-lines|purchase order lines]] where the supplier is not marked as preferred for the relevant spend category. The agent groups activity by supplier, spend category, and product, then attempts to match each non-preferred grouping to a preferred supplier that offers the same or a closely related product. Product similarity is determined by comparing product attributes and descriptions, including both direct matches and semantically related items in the same spend category.
+The agent processes purchase order lines where the supplier is not marked as preferred for the relevant spend category. The agent groups activity by supplier, spend category, and product, then attempts to match each non-preferred grouping to a preferred supplier that offers the same or a closely related product. Product similarity is determined by comparing product attributes and descriptions, including both direct matches and semantically related items in the same spend category.
 
-To avoid reprocessing every [[purchase-order-table|purchase order]] on each run, the agent tracks the date of the last run and processes only purchase order lines updated after that date. Deduplication based on spend category, supplier, and savings lever prevents the agent from generating a duplicate opportunity for the same finding on subsequent runs.
+To avoid reprocessing every purchase order on each run, the agent tracks the date of the last run and processes only purchase order lines updated after that date. Deduplication based on spend category, supplier, and savings lever prevents the agent from generating a duplicate opportunity for the same finding on subsequent runs.
 
 A non-preferred supplier opportunity captures the following information:
 
@@ -36,7 +36,7 @@ A non-preferred supplier opportunity captures the following information:
 
 ## Spend fragmentation opportunities
 
-Spend fragmentation occurs when an organization buys similar products or services from multiple suppliers within the same spend category. The agent detects these patterns and identifies opportunities to consolidate purchases to fewer suppliers to negotiate better [[pricing|pricing]] and reduce supplier management overhead.
+Spend fragmentation occurs when an organization buys similar products or services from multiple suppliers within the same spend category. The agent detects these patterns and identifies opportunities to consolidate purchases to fewer suppliers to negotiate better pricing and reduce supplier management overhead.
 
 The agent groups historical spend by spend category and checks for cases where similar goods or services are being purchased from multiple suppliers in the same category. Product similarity is determined by comparing product attributes and descriptions. For each fragmented group, the agent calculates the potential savings if the spend is consolidated under the supplier offering the most favorable terms in the category.
 
@@ -53,9 +53,3 @@ When you create a pipeline project from a spend fragmentation opportunity, the l
 
 **Parent Topic:**[Savings opportunity identification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/savings-opportunity-identification.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[purchase-order-lines|Purchase order lines]]
-- [[purchase-order-table|Purchase order]]
-- [[pricing|Pricing]]

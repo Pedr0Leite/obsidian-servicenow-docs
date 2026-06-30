@@ -21,10 +21,7 @@ Courses of action describes technical or automated responses such as applying pa
 For example, courses of action to mitigate a vulnerability could describe applying the patch that fixes it.
 
 -   **[Define Courses of Action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/define-course-of-action.md)**  
-[[define-course-of-action|Define courses of action]] to prevent an attack or to respond to an attack that is in progress.
+Define courses of action to prevent an attack or to respond to an attack that is in progress.
 
 **Parent Topic:**[Threat Entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-threat-entities.md)
 
-## Related
-
-- [[define-course-of-action|Define Courses of Action]]

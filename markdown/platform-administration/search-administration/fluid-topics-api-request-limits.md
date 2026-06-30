@@ -15,7 +15,7 @@ breadcrumb: [Fluid Topics external content connector, Configure, External Conten
 
 # Request limits in Fluid Topics Knowledge Hub web services
 
-By default, the Fluid Topics API limits the number of maps, topics, and unstructured documents retrieved by requests to Knowledge Hub web services. These default limits may prevent the [[fluid-topics-external-content-connector|Fluid Topics external content connector]] from indexing all of your source system content. To request increases to these limits, open a ticket in the Fluid Topics Help Center.
+By default, the Fluid Topics API limits the number of maps, topics, and unstructured documents retrieved by requests to Knowledge Hub web services. These default limits may prevent the Fluid Topics external content connector from indexing all of your source system content. To request increases to these limits, open a ticket in the Fluid Topics Help Center.
 
 ## Default retrieval limits in the Fluid Topics API
 
@@ -37,7 +37,7 @@ Maps
 
 </td><td>
 
-Limit of 1,000 maps per request to the API's List maps Knowledge Hub web service.For details on this web service, including the limit, see the [List maps](https://docs.fluidtopics.com/r/Fluid-Topics-API-Reference-Guide/Knowledge-Hub-web-services-for-everyone/Maps/List-maps) topic in the Fluid Topics API [[reference-email-admin|Reference]] Guide.
+Limit of 1,000 maps per request to the API's List maps Knowledge Hub web service.For details on this web service, including the limit, see the [List maps](https://docs.fluidtopics.com/r/Fluid-Topics-API-Reference-Guide/Knowledge-Hub-web-services-for-everyone/Maps/List-maps) topic in the Fluid Topics API Reference Guide.
 
 </td></tr><tr><td>
 
@@ -66,7 +66,3 @@ As an example, if your source system includes 544 maps, 1,817 topics, and 1,193 
 
 **Parent Topic:**[Fluid Topics external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/fluid-topics-external-content-connector.md)
 
-## Related
-
-- [[fluid-topics-external-content-connector|Fluid Topics external content connector]]
-- [[reference-email-admin|Reference]]

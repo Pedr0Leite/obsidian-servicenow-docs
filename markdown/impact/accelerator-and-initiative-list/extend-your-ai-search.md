@@ -18,7 +18,7 @@ This accelerator provides prescriptive guidance on extending your AI Search beyo
 
 ## Accelerator Overview
 
-Extend your AI Search provides [[impact-landing-page|Impact]] customers with advanced tools and insights to extend their AI Search capabilities beyond the foundational level. This offering explores advanced configuration options, enabling customers to greatly enhance the reach and [[instance-observer-performance|performance]] of AI Search across their instance stack. This Accelerator also includes key resources and leading practice guides to optimize implementation and drive increased usage.
+Extend your AI Search provides Impact customers with advanced tools and insights to extend their AI Search capabilities beyond the foundational level. This offering explores advanced configuration options, enabling customers to greatly enhance the reach and performance of AI Search across their instance stack. This Accelerator also includes key resources and leading practice guides to optimize implementation and drive increased usage.
 
 ## Package Availability
 
@@ -76,7 +76,3 @@ This Impact Accelerator in its entirety or portions of the Impact Accelerator ac
 
 ServiceNow is not responsible for implementing recommendations on Customer’s non-production or production instances.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[instance-observer-performance|Performance]]

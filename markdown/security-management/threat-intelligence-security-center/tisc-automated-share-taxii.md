@@ -31,11 +31,11 @@ Add record to TAXII Server Collection via automated process:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Administration**.
+1.  Navigate to **All** &gt; **Threat Intelligence Security Center** &gt; **Administration**.
 
 2.  Select **Automated Flows**.
 
-3.  Select **[[tisc-taxii-automated-flow|Automatically add threat intelligence to a TAXII collection]]** action link to view the respective rule details in the flow designer.
+3.  Select **Automatically add threat intelligence to a TAXII collection** action link to view the respective rule details in the flow designer.
 
 4.  View the flow designer action for the following triggers:
 
@@ -77,7 +77,7 @@ Select the type of observable record to add records to TAXII server collections.
 
 </td><td>
 
-Select the type of [[indicator|indicators]] record to add records to TAXII server collections.
+Select the type of indicators record to add records to TAXII server collections.
 
 </td></tr><tr><td id="d312153e192">
 
@@ -93,7 +93,7 @@ Select the type of objects record to add records to TAXII server collections.
 
 </td><td>
 
-Select this check box to add the related records of the selected [[c_Observables|observables]], including indicators and objects to TAXII server collections.
+Select this check box to add the related records of the selected observables, including indicators and objects to TAXII server collections.
 
 </td></tr></tbody>
 </table>6.  Select **Done**.
@@ -118,9 +118,3 @@ Activate the flow.
 
 [Configuring Outbound Intel Sharing Templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-intel-sharing-templates.md)
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[tisc-taxii-automated-flow|Automatically add threat intelligence to a TAXII collection]]
-- [[indicator|Indicators]]
-- [[c_Observables|Observables]]

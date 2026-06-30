@@ -25,7 +25,7 @@ Role required: admin
 
 ## About this task
 
-Configure the following AI preferences to manage [[ec-smart-prioritization-content|smart prioritization]] for [[emp-slate-inbox|tasks and requests]].
+Configure the following AI preferences to manage smart prioritization for tasks and requests.
 
 -   **AI assist** represents a single background execution of an AI feature that automatically generates insights, card summaries, or smart task sorting across your organization.
 -   **Task insight** analyzes the tasks against policy criteria to identify compliance and optimization opportunities.
@@ -78,7 +78,3 @@ Monitor AI assists usage and adjust limits as needed based on organizational req
 
 [Smart prioritization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-smart-prioritization-content.md)
 
-## Related
-
-- [[ec-smart-prioritization-content|Smart prioritization]]
-- [[emp-slate-inbox|Tasks and requests]]

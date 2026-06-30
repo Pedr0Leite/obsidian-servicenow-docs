@@ -16,7 +16,7 @@ breadcrumb: [Software Asset Management for Red Hat Enterprise Linux, Software As
 
 Software entitlements define the license details for your Red Hat Enterprise Linux \(RHEL\) products. You can create individual entitlements or import a list of entitlements from a spreadsheet.
 
-**Important:** You can create and import entitlements in both the [[c_SoftwareAssetMgmt|Software Asset Management]] classic application and the [[sam-workspace|Software Asset Workspace]]. The following sections provide details on how to create and import entitlements in the Software Asset Management classic application. For details on how to create entitlements in the Software Asset Workspace, see [Create entitlements in workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-entitlements-workspace.md). For details on how to import entitlements in the Software Asset Workspace, see [Import bulk entitlements in workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/import-entitlements-workspace.md).
+**Important:** You can create and import entitlements in both the Software Asset Management classic application and the Software Asset Workspace. The following sections provide details on how to create and import entitlements in the Software Asset Management classic application. For details on how to create entitlements in the Software Asset Workspace, see [Create entitlements in workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-entitlements-workspace.md). For details on how to import entitlements in the Software Asset Workspace, see [Import bulk entitlements in workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/import-entitlements-workspace.md).
 
 **Parent Topic:**[Software Asset Management for Red Hat Enterprise Linux](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/rhel-publisher-pack.md)
 
@@ -243,7 +243,3 @@ Role required: sam\_admin
 
 All software entitlements are imported into your ServiceNow instance.
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-workspace|Software Asset Workspace]]

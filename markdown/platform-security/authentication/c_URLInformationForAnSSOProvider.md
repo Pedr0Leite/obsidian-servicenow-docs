@@ -14,7 +14,7 @@ breadcrumb: [SAML 2.0 concepts, SAML, Multi-Provider single sign-on \(SSO\), Aut
 
 # URL information for an SSO provider
 
-During a login challenge resulting from a URL link into the instance that requires an SSO session, the referring URL might need to be supplied to the SSO provider so that after [[c_Authentication|authentication]], the URL can be passed back to the instance and linked to the correct resource.
+During a login challenge resulting from a URL link into the instance that requires an SSO session, the referring URL might need to be supplied to the SSO provider so that after authentication, the URL can be passed back to the instance and linked to the correct resource.
 
 \[Omitted image "SSOTargetRedirect.png"\] Alt text: SSO flow with redirect
 
@@ -30,6 +30,3 @@ The example above passes the URL `https://instance.service-now.com/nav_to.do?uri
 
 A colon : demarcates the two return values and an encoded &amp; \(%26amp;\) concatenates the URL defined in the property **glide.authenticate.failed\_missing\_requirement** and the TARGET parameter.
 
-## Related
-
-- [[c_Authentication|Authentication]]

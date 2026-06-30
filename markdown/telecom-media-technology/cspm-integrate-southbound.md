@@ -12,7 +12,7 @@ breadcrumb: [Customer Service Problem Management, Telecommunications, Media, and
 
 # Integrating Customer Service Problem Management with southbound external systems
 
-If you have a [[cspm-landing-page|Customer Service Problem Management]] subscription, you can submit outbound service test run requests to various external systems by integrating the Customer Service Problem Management application with the external southbound systems.
+If you have a Customer Service Problem Management subscription, you can submit outbound service test run requests to various external systems by integrating the Customer Service Problem Management application with the external southbound systems.
 
 ## Overview of southbound test
 
@@ -27,7 +27,7 @@ Using this integration, a Communications Service Provider \(CSP\) can do the fol
 
 ## How the integration works
 
-The integration process for CSPM with the external [[stm-landing-page|service test management]] systems is as follows:
+The integration process for CSPM with the external service test management systems is as follows:
 
 1.  As the administrator, you activate the Test Specification Open API to capture the test runs from the service problem case.
 
@@ -49,7 +49,4 @@ The integration process for CSPM with the external [[stm-landing-page|service te
 
     **Note:** The customer must fill the id field of the test measures.
 
-## Related
 
-- [[cspm-landing-page|Customer Service Problem Management]]
-- [[stm-landing-page|Service Test Management]]

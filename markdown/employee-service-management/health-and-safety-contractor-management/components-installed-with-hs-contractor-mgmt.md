@@ -14,7 +14,7 @@ breadcrumb: [Reference, Health and Safety Contractor Management, Health and Safe
 
 # Components installed with Health and Safety Contractor Management
 
-Several types of components are installed with installation of the [[hs-contractor-mgmt-landing-page|Health and Safety Contractor Management]] application, including tables, user roles, and scheduled jobs. The application also installs related store applications if they aren’t already installed.
+Several types of components are installed with installation of the Health and Safety Contractor Management application, including tables, user roles, and scheduled jobs. The application also installs related store applications if they aren’t already installed.
 
 ## Store applications installed
 
@@ -28,17 +28,17 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[hs-core-landing|Health and Safety Core]]
+Health and Safety Core
 
 </td><td>
 
-Installs core data model for [[health-safety-overview|Health and Safety]]. This data model includes common components such as [[health-and-safety-user-profile|Health and Safety user profile]] and actions that are used in the Health and Safety applications.
+Installs core data model for Health and Safety. This data model includes common components such as Health and Safety user profile and actions that are used in the Health and Safety applications.
 
  For more information on store applications, roles, and tables installed with Health and Safety Core, see [Components installed with Health and Safety Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/components-installed-hs-core.md).
 
 </td></tr><tr><td>
 
-[[workplace-safety-mgmt-hr|Workplace Core]] \[sn\_wsd\_core\]
+Workplace Core \[sn\_wsd\_core\]
 
 </td><td>
 
@@ -69,7 +69,7 @@ Safety contractor coordinator
 
 Coordinator for contractor companies and workers who can
 
--   View contractor companies and their related records in [[health-safety-core-workspace|Health and Safety Workspace]]
+-   View contractor companies and their related records in Health and Safety Workspace
 -   Add, update, and delete these from Health and Safety Workspace
     -   Contractor companies for health and safety
     -   Contractor workers for health and safety profiles
@@ -95,7 +95,7 @@ Safety contractor reporter
 
 </td><td>
 
-View and create contractor companies for health and safety from [[employee-center-landing-page|Employee Center]]
+View and create contractor companies for health and safety from Employee Center
 
 </td><td>
 
@@ -175,12 +175,3 @@ Stores all safety related documents collected from contractor companies and work
 </td></tr></tbody>
 </table>**Parent Topic:**[Health and Safety Contractor Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/hs-contractor-management-reference.md)
 
-## Related
-
-- [[hs-contractor-mgmt-landing-page|Health and Safety Contractor Management]]
-- [[hs-core-landing|Health and Safety Core]]
-- [[health-safety-overview|Health and Safety]]
-- [[health-and-safety-user-profile|Health and Safety user profile]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[employee-center-landing-page|Employee Center]]

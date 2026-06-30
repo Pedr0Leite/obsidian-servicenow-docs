@@ -14,7 +14,7 @@ breadcrumb: [Defining On-Call Scheduling escalation process, On-Call Scheduling,
 
 # Assigning On-Call Scheduling roles
 
-Admins can assign [[c_OnCallScheduling|On-Call Scheduling]] roles to user groups and to individual users based on user activities and responsibilities.
+Admins can assign On-Call Scheduling roles to user groups and to individual users based on user activities and responsibilities.
 
 ## On-Call Scheduling roles tasks and access permissions
 
@@ -80,7 +80,7 @@ Premium Dashboard user \[rota\_prem\_dashboard\_user\]
 
 </td><td>
 
-Access to the On-Call Premium dashboard. The Premium dashboard displays [[perf-metrics-mob|performance metrics]] across groups. See [Legacy: Viewing the Performance reports for escalations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/viewing-performance-report-oncall.md).
+Access to the On-Call Premium dashboard. The Premium dashboard displays performance metrics across groups. See [Legacy: Viewing the Performance reports for escalations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/viewing-performance-report-oncall.md).
 
 </td></tr><tr><td>
 
@@ -104,7 +104,3 @@ DEPRECATED: roster\_admin
 
 [Assign a role to a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AssignARoleToAUser.md)
 
-## Related
-
-- [[c_OnCallScheduling|On-Call Scheduling]]
-- [[perf-metrics-mob|Performance metrics]]

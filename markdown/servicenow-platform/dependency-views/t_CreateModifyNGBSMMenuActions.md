@@ -26,7 +26,7 @@ This ensures that your instance can update the record normally during the upgrad
 
 ## Procedure
 
-1.  To create a new menu option, navigate to **[[c_BusinesssServiceManagementMaps|Dependency Views]]** &gt; **Map Menu Actions** and click **New**.
+1.  To create a new menu option, navigate to **Dependency Views** &gt; **Map Menu Actions** and click **New**.
 
     Fill in the fields on the form, as appropriate. See the Menu Action form table.
 
@@ -42,7 +42,7 @@ This ensures that your instance can update the record normally during the upgrad
 
 6.  Modify the form fields as necessary and save the record.
 
-7.  Open the original record and disable it by clearing the **Active** [[check-box|check box]].
+7.  Open the original record and disable it by clearing the **Active** check box.
 
 <table id="table_bvs_5tw_dr"><thead><tr><th>
 
@@ -132,7 +132,3 @@ Menu action type being created, either a menu option or a menu separator. The me
 
 [Create or edit a dependency type]()
 
-## Related
-
-- [[c_BusinesssServiceManagementMaps|Dependency Views]]
-- [[check-box|Check box]]

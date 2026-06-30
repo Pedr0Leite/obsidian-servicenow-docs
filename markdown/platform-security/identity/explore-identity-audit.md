@@ -14,13 +14,13 @@ breadcrumb: [Identity and Access Audit, Identity]
 
 # Exploring Identity and Access Audit
 
-Use [[identity-audit|Identity and Access Audit]] to understand changes made to [[users|users]], groups, roles, and ACLs.
+Use Identity and Access Audit to understand changes made to users, groups, roles, and ACLs.
 
 Identity and Access Audit helps to understand the critical information about who has modified what, where and when in user accounts, groups and roles.
 
 This feature helps identify malicious users, monitor unusual activity within your ServiceNow instance, and maintain compliance by tracking changes to access permissions.
 
-Identity and Access Audit \([[identity-landing|Identity]] Security Audit\) is a plugin \(`com.glide.security.audit`\), which is auto-installed.
+Identity and Access Audit \(Identity Security Audit\) is a plugin \(`com.glide.security.audit`\), which is auto-installed.
 
 It can be turned on or off by toggling the `glide.identity.security.audit.enabled` system property. By default, the property is set `true`.
 
@@ -36,8 +36,8 @@ Identity and Access Audit enables you to:
 
 There are two different user personas in Identity and Access Audit \(identity\_access\_audit\_viewer\):
 
--   **role\_viewer** and **group\_viewer​**: View audit records and [[sc-configuration|configuration]].​
--   **Security Admin**: View the audit trails. Enable or disable [[c_AuditedTables|auditing]] for specific tables or fields.
+-   **role\_viewer** and **group\_viewer​**: View audit records and configuration.​
+-   **Security Admin**: View the audit trails. Enable or disable auditing for specific tables or fields.
 
 ## Audit Tables
 
@@ -45,7 +45,7 @@ The following tables can be audited using Identity and Access Audit​:
 
 -   Group \[sys\_user\_group\]​
 -   Role \[sys\_user\_role\]​
--   [[sc-access-control|Access Control]] \[sys\_security\_acl\]​
+-   Access Control \[sys\_security\_acl\]​
 -   User \[sys\_user\]​
 -   Group Role \[sys\_group\_has\_role\]​
 -   User Role \[sys\_user\_has\_role\]​
@@ -67,11 +67,3 @@ Identity and Access Audit's modules include:
 |Role Trails|Displays audits of roles.|
 |ACL Trails|Displays audits of ACLs.|
 
-## Related
-
-- [[identity-audit|Identity and Access Audit]]
-- [[users|Users]]
-- [[identity-landing|Identity]]
-- [[sc-configuration|Configuration]]
-- [[c_AuditedTables|Auditing]]
-- [[sc-access-control|Access control]]

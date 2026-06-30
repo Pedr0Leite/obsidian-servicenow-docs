@@ -22,13 +22,10 @@ The **Reject** button allows the approver to deny one or more requested items in
 
 **Note:** When the overall request is approved, you must ensure this **Reject** button is hidden. If this button is used after request approval, the requested item workflow is canceled, leaving the stage in an inconsistent state. Similarly, the **Accept** button on requested items should only appear before the overall request is approved or rejected.
 
-**Parent Topic:**[[c_Formatters|Using formatters]]
+**Parent Topic:**[Using formatters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_Formatters.md)
 
 **Related topics**  
 
 
 [Using formatters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_Formatters.md)
 
-## Related
-
-- [[c_Formatters|Using formatters]]

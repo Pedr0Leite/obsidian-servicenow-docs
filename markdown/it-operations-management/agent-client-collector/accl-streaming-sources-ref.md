@@ -38,7 +38,7 @@ Last event time
 
 </td><td>
 
-The last recorded time an event arrived at the MID Server in the last one-minute interval.[[hla-landing-page|Health Log Analytics]] continuously updates the last event time. If the last event time is not up to date, data is not streaming.
+The last recorded time an event arrived at the MID Server in the last one-minute interval.Health Log Analytics continuously updates the last event time. If the last event time is not up to date, data is not streaming.
 
 </td></tr><tr><td>
 
@@ -59,6 +59,3 @@ The average number of preprocessed log lines that streamed to the MID Server per
 </td></tr></tbody>
 </table>**Parent Topic:**[Identify and resolve log streaming issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/accl-verify-log-streaming.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

@@ -15,7 +15,7 @@ breadcrumb: [Tolerance Rules and Variances for invoices, Using Accounts Payable 
 
 # View tolerance form
 
-View tolerance details at the header level and variance details at the line level for [[working-with-ingestion-cases|invoice processing cases]] with exceptions.
+View tolerance details at the header level and variance details at the line level for invoice processing cases with exceptions.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Role required: sn\_ap\_apm.accounts\_payable\_specialist
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-pay-mgmt-landing-page|Accounts Payable Operations]]** &gt; **All Work** &gt; **All open invoice processing cases**.
+1.  Navigate to **All** &gt; **Accounts Payable Operations** &gt; **All Work** &gt; **All open invoice processing cases**.
 
     List of **All open invoice processing cases** is displayed.
 
@@ -46,7 +46,3 @@ Role required: sn\_ap\_apm.accounts\_payable\_specialist
 
 **Parent Topic:**[Tolerance Rules and Variances for invoices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/tolerance-rules-and-variance.md)
 
-## Related
-
-- [[working-with-ingestion-cases|Invoice processing cases]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]

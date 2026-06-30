@@ -14,7 +14,7 @@ breadcrumb: [Instance Data Replication, Manage instance data sources, Extend Ser
 
 # Configuring Instance Data Replication
 
-Set up and configure [[instance-data-replication|Instance Data Replication]] \(IDR\).
+Set up and configure Instance Data Replication \(IDR\).
 
 ## Configuration overview
 
@@ -31,6 +31,3 @@ When upgrading your instance, IDR automatically pauses replication to maintain d
 
 **Parent Topic:**[Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/instance-data-replication.md)
 
-## Related
-
-- [[instance-data-replication|Instance Data Replication]]

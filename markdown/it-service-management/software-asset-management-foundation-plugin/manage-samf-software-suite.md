@@ -25,16 +25,11 @@ Use the **Inference percent** and **Mandatory** fields when the suite parent is 
 -   **Inference percent**: Specifies what percentage of the components in the suite must be installed for the software to be identified as a suite.
 -   **Mandatory**: Enforces whether a specific component in a suite must be installed to infer that the suite is installed. Choices are: Optional, Always Mandatory, Mandatory Group.
 
-For example, say you specify the **Inference percent** as 80% and set the **Mandatory** field to **Always Mandatory** on Microsoft Access. These [[settings-mobile|settings]] specify that Microsoft Access must be installed, along with three out of four other products \(Microsoft Word, Microsoft Excel, Microsoft PowerPoint, and Microsoft Outlook\) to infer that Microsoft Office Professional is installed on a device.
+For example, say you specify the **Inference percent** as 80% and set the **Mandatory** field to **Always Mandatory** on Microsoft Access. These settings specify that Microsoft Access must be installed, along with three out of four other products \(Microsoft Word, Microsoft Excel, Microsoft PowerPoint, and Microsoft Outlook\) to infer that Microsoft Office Professional is installed on a device.
 
 When a suite parent is detected during reconciliation, the suite components do not count for the individual license.
 
-**Note:** Users with the model\_manager role can navigate to **[[c_ProductCatalog|Product Catalog]]** &gt; **Product Model** &gt; **[[c_CreatingSoftwareModels|Software Models]]**, but cannot administer all aspects of software models.
+**Note:** Users with the model\_manager role can navigate to **Product Catalog** &gt; **Product Model** &gt; **Software Models**, but cannot administer all aspects of software models.
 
 **Parent Topic:**[Setting up Software Asset Management Foundation plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/t_SAMSetupSAMF.md)
 
-## Related
-
-- [[settings-mobile|Settings]]
-- [[c_ProductCatalog|Product Catalog]]
-- [[c_CreatingSoftwareModels|Software models]]

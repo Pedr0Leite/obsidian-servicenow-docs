@@ -53,7 +53,7 @@ Role required: sn\_wsd\_visitor.staff or sn\_wsd\_core.workplace\_user
 
     Alternatively, you can select **Cancel** to add the visitor with their email address.
 
-    The visitor can fill in their details and complete their pre-check tasks on the [[visitor-portal|visitor portal]] or at the receptionist desk.
+    The visitor can fill in their details and complete their pre-check tasks on the visitor portal or at the receptionist desk.
 
 
 ## Add visitors using a file
@@ -84,6 +84,4 @@ Role required: sn\_wsd\_visitor.staff or sn\_wsd\_core.workplace\_user
 
     Alternatively, the visitor can provide their details at the receptionist desk.
 
-## Related
 
-- [[visitor-portal|Visitor portal]]

@@ -16,7 +16,7 @@ breadcrumb: [CrowdStrike Falcon Insight integration, Security Incident Response 
 
 You can configure the profile settings so that a profile runs only when a set of specific conditions is met or you can set up a profile to search for specific field values on a security incident.
 
-After you [[arcsight-esm-create-profile|create a profile]] and select the CrowdStrike Falcon Insight capabilities that you want the profile to run on, you can set trigger conditions so that your profile runs automatically when the default field values match the ServiceNow AI Platform security incident.
+After you create a profile and select the CrowdStrike Falcon Insight capabilities that you want the profile to run on, you can set trigger conditions so that your profile runs automatically when the default field values match the ServiceNow AI Platform security incident.
 
 By default, the integration uses the **Configuration Item** \(CI\) field on a security incident. This field is used to match your asset IDs with the information that is stored in the ServiceNow AI Platform database. When a SIR security incident is created by a security event and a profile is activated, your assets are scanned for a matching value on the host name or an IP address.
 
@@ -30,6 +30,3 @@ When you're configuring the profile setup, you can select an alternate **CI trig
 
 The following example shows an alternate field that is populated with a host name on a SIR security incident. The alternate field is the **Description** field.
 
-## Related
-
-- [[arcsight-esm-create-profile|Create a profile]]

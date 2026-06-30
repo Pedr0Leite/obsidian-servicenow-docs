@@ -14,7 +14,7 @@ breadcrumb: [Akamai API Security, Service Graph Connectors, Integrating third-pa
 
 # Configure Service Graph Connector for Akamai API Security using SGC Central
 
-Use the playbook available with the [[sgcc-landing|SGC Central]] application to set up the [[sgc-integration-akamai|Service Graph Connector for Akamai API Security]] for pulling in Akamai API Security data into the CMDB.
+Use the playbook available with the SGC Central application to set up the Service Graph Connector for Akamai API Security for pulling in Akamai API Security data into the CMDB.
 
 ## Before you begin
 
@@ -34,11 +34,11 @@ Role required: The following table shows the roles required for each stage of th
 |Prerequisites|admin|
 |Setup|SGC-Admin \(sn\_cmdb\_int\_util.sgc\_admin\) or admin|
 
-**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for [[cmdb-sgc-available|Service Graph Connectors]], see [Service Graph Connector user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md).
+**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md).
 
 ## About this task
 
-The playbook experience for onboarding connectors is activated with SGC Central in the [[sg-workspace|Service Graph Workspace]] or CMDB Workspace. To configure the SGC Central application, see [[sgcc-configuring|Configuring SGC Central]] and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/playbook-ui.md).
+The playbook experience for onboarding connectors is activated with SGC Central in the Service Graph Workspace or CMDB Workspace. To configure the SGC Central application, see [Configuring SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-configuring.md) and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/playbook-ui.md).
 
 ## Procedure
 
@@ -54,7 +54,7 @@ The playbook experience for onboarding connectors is activated with SGC Central 
 
 4.  Complete the initial prerequisites when setting up a connection for the first time using a connector.
 
-    **Note:** This step is required only during the first-time setup. See [[sgcc-first-time-setup|Perform initial setup tasks when creating a connection in SGC Central]].
+    **Note:** This step is required only during the first-time setup. See [Perform initial setup tasks when creating a connection in SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-first-time-setup.md).
 
 5.  Complete the setup for configuring the connector for importing data.
 
@@ -121,7 +121,7 @@ Token URL of your Akamai client application.
 
             **Note:** When a value is specified or updated in the **Source name** or **Source alias** field, the last\_run\_datetime field for SG-Akamai data sources is reset. This triggers full data ingestion during the next scheduled import. Subsequent runs perform delta loads based on the configured filters.
 
-        3.  In the **Tags settings** section, select the **Import tags** [[check-box|check box]] to import tags for the records.
+        3.  In the **Tags settings** section, select the **Import tags** check box to import tags for the records.
         4.  In the **Tags value separator** field, specify `=` as the key-value pair separator.
         5.  Select **Continue**.
     3.  Configure the import schedule to import data at regular intervals.
@@ -151,12 +151,3 @@ Select **View all connections** to review the connection details. The configured
 
 [CMDB classes targeted in Service Graph Connector for Akamai API Security](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-akamai-classes.md)
 
-## Related
-
-- [[sgcc-configuring|Configuring SGC Central]]
-- [[sgcc-first-time-setup|Perform initial setup tasks when creating a connection in SGC Central]]
-- [[sgcc-landing|SGC Central]]
-- [[sgc-integration-akamai|Service Graph Connector for Akamai API Security]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[sg-workspace|Service Graph Workspace]]
-- [[check-box|Check box]]

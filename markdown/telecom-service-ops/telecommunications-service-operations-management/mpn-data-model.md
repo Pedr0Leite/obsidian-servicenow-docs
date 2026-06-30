@@ -14,7 +14,7 @@ breadcrumb: [Telecom data model, Explore, Telecommunications Service Operations 
 
 # MPN data model
 
-The Mobile Private Network \(MPN\) data model extends the [[telecom-data-model|Telecom data model]] to represent both the physical hardware and the virtual network functions that make up a mobile private network, along with the relationships that connect them.
+The Mobile Private Network \(MPN\) data model extends the Telecom data model to represent both the physical hardware and the virtual network functions that make up a mobile private network, along with the relationships that connect them.
 
 A mobile private network contains a mix of physical and virtual objects. Physical objects include servers, firewalls, routers, switches, antennas, and radio units. Virtual objects include the network functions that run on those servers, such as the User Plane Function \(UPF\) and the Unified Data Management \(UDM\) function, along with their associated licenses. The MPN data model provides dedicated classes and relationships in the Configuration Management Database \(CMDB\) for these objects so that the physical and virtual components of an MPN can be modeled accurately and consistently. Accurate inventory and relationship data enables faster troubleshooting, supports impact analysis when faults occur, and provides the foundation for automated event and performance monitoring across MPN network elements.
 
@@ -109,6 +109,3 @@ The MPN data model uses CMDB relationships to express how physical equipment hos
 
 [Metric-to-CI binding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/metric-to-ci-binding-tsom-sgc.md)
 
-## Related
-
-- [[telecom-data-model|Telecom data model]]

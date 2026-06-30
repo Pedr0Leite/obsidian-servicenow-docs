@@ -15,11 +15,11 @@ breadcrumb: [Using AI Search Admin console, AI Search Admin console, Search admi
 
 # Manage hybrid search in search applications
 
-Control hybrid search settings in [[ia-ai-search|AI Search]] applications to optimize search performance. Enable hybrid search to create context-aware [[hs-results|results]] that combine keyword matching with semantic understanding. Disabling it generates results that rely solely on keyword-based queries.
+Control hybrid search settings in AI Search applications to optimize search performance. Enable hybrid search to create context-aware results that combine keyword matching with semantic understanding. Disabling it generates results that rely solely on keyword-based queries.
 
 ## Before you begin
 
--   Beginning with [[now-assist-ais|Now Assist in AI Search]] version 15.0.
+-   Beginning with Now Assist in AI Search version 15.0.
 -   Must have at least one indexed source with semantic fields and semantic indexing configured.
 
 Role required: admin
@@ -28,7 +28,7 @@ Role required: admin
 
 Hybrid search combines traditional keyword-based search with AI-powered semantic understanding. When hybrid search mode is on, it processes keywords and comprehends the meaning and context of your query, which delivers more accurate and comprehensive results. For more information, see [Hybrid search in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/hybrid-search-ais.md).
 
-Beginning with Now Assist in AI Search version 17.0, hybrid search is automatically activated for all [[defining-search-app-cfgs-ais|search application configurations]] \(SACs\) when you [[install-now-assist-ais|install Now Assist in AI Search]] for the first time. Upgrading an existing installation does not change current hybrid search settings. Users with the admin role can deactivate hybrid search for individual SACs after installation.
+Beginning with Now Assist in AI Search version 17.0, hybrid search is automatically activated for all search application configurations \(SACs\) when you install Now Assist in AI Search for the first time. Upgrading an existing installation does not change current hybrid search settings. Users with the admin role can deactivate hybrid search for individual SACs after installation.
 
 ## Procedure
 
@@ -51,10 +51,3 @@ Hybrid search mode is updated for the selected application.
 
 **Parent Topic:**[Using AI Search Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/using-ais-admin-console.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]
-- [[now-assist-ais|Now Assist in AI Search]]
-- [[defining-search-app-cfgs-ais|Search application configurations]]
-- [[install-now-assist-ais|Install Now Assist in AI Search]]

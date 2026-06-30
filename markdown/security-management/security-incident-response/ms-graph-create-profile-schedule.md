@@ -24,7 +24,7 @@ Role required: sn\_si.admin
 
 You also choose how often you will poll for future alerts that match the alert profile configuration. For automated alert ingestion profiles, before the profile is activated, you verify and modify the scheduling and alert retrieval. This step is needed for scheduled alert profiles.
 
-As a user with the sn\_si.admin role, you configure these polling intervals on a per-profile basis. The performance of the [[ms-graph-about|Microsoft Graph Security API alert ingestion integration]] is impacted by the different polling intervals. When scheduling, you may prefer to balance system load against incident urgency. A five-minute default value is set for any profile, but you may prefer to modify this setting based on the urgency of the incident and the anticipated load on your system.
+As a user with the sn\_si.admin role, you configure these polling intervals on a per-profile basis. The performance of the Microsoft Graph Security API alert ingestion integration is impacted by the different polling intervals. When scheduling, you may prefer to balance system load against incident urgency. A five-minute default value is set for any profile, but you may prefer to modify this setting based on the urgency of the incident and the anticipated load on your system.
 
 ## Procedure
 
@@ -89,6 +89,4 @@ After the alerts are pulled, this setting will not retrieve more alerts for this
 </td></tr></tbody>
 </table>3.  Click **Continue** to navigate to the Additional Options page.
 
-## Related
 
-- [[ms-graph-about|Microsoft Graph Security API alert ingestion integration]]

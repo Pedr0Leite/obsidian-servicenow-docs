@@ -12,7 +12,7 @@ breadcrumb: [Forms, Administer, Configurable Workspace UI, Configure UIs and por
 
 # Configure a character counter for journal fields
 
-[[configure-onboarding-modals|Configure]] a character counter to display the number of remaining characters in a journal field.
+Configure a character counter to display the number of remaining characters in a journal field.
 
 ## Before you begin
 
@@ -32,6 +32,4 @@ Role required: admin
 
 4.  Select **Submit**.
 
-## Related
 
-- [[configure-onboarding-modals|Configure]]

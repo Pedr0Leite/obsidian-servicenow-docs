@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-The [[c_EnableTheEmailClient|email client]] is enabled by default on the Incident \[incident\] table. You can enable the email client for another table by adding the **email\_client** dictionary attribute to the table.
+The email client is enabled by default on the Incident \[incident\] table. You can enable the email client for another table by adding the **email\_client** dictionary attribute to the table.
 
 **Note:** This capability is not inherited by tables that extend the current table. For example, enabling the email client on the Task table does not enable it for the Incident or Problem tables.
 
@@ -45,9 +45,5 @@ The [[c_EnableTheEmailClient|email client]] is enabled by default on the Inciden
 6.  Select **Update**.
 
 
-**Parent Topic:**[[configuring-email-client|Configure email client]]
+**Parent Topic:**[Configure email client](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configuring-email-client.md)
 
-## Related
-
-- [[configuring-email-client|Configure email client]]
-- [[c_EnableTheEmailClient|Email client]]

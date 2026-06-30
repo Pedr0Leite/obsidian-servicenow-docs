@@ -32,7 +32,7 @@ Transfer tickets between scoped applications by configuring the transfer type wi
 
 ## Tasking capabilities
 
-Task employees to get additional information needed to fulfill the employee’s request. Integrate the [[universal-task-landing|Universal Task]] framework to create a general and standard task experience for both the agent/fulfiller and the employee.
+Task employees to get additional information needed to fulfill the employee’s request. Integrate the Universal Task framework to create a general and standard task experience for both the agent/fulfiller and the employee.
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
@@ -56,11 +56,11 @@ Task employees to get additional information needed to fulfill the employee’s 
 
 </td><td>
 
-[Reference \[Omitted image "bus-learn.svg"\] Alt text:Get details about components like fields, tables, and properties.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-[[reference-hr-service-delivery-advanced-integration-with-workday|reference]]-topic.md)
+[Reference \[Omitted image "bus-learn.svg"\] Alt text:Get details about components like fields, tables, and properties.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-reference-topic.md)
 
 </td></tr></tbody>
 </table>-   **[Exploring Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/explore-universal-request.md)**  
-The ServiceNow Universal Request application enables cross-departmental reporting from the time of an initial employee request through the final issue resolution. You can map various departmental ticket states and [[activity-lxp|activity]] streams into a unified and simplified experience for your employees and agents.
+The ServiceNow Universal Request application enables cross-departmental reporting from the time of an initial employee request through the final issue resolution. You can map various departmental ticket states and activity streams into a unified and simplified experience for your employees and agents.
 -   **[Setting up and configuring Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/setup-configure-ur.md)**  
 Set up and configure Universal Request to enable agents to create universal requests and work on them to resolve employee issues.
 -   **[Using Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/using-ur.md)**  
@@ -76,16 +76,9 @@ Extend the capabilities of Universal Request and connect with other departments 
 -   **[Quick start tests for Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/quick-start-test-ur.md)**  
 Validate that Universal Request still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
 -   **[Universal Request in Agent Workspaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/universal-request-workspace.md)**  
-Use [[universal-request-workspace|Universal Request in Agent Workspaces]] to create, view, and work on the universal request.
+Use Universal Request in Agent Workspaces to create, view, and work on the universal request.
 -   **[Using agentic flows in Universal Request AI agent collection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-ai-agent-collection.md)**  
 Use the Universal Request AI agent collection to complete tasks autonomously.
 
-**Parent Topic:**[[employee-service-management-overview|Employee Service Management]]
+**Parent Topic:**[Employee Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management-overview.md)
 
-## Related
-
-- [[employee-service-management-overview|Employee Service Management]]
-- [[universal-task-landing|Universal Task]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[activity-lxp|Activity]]
-- [[universal-request-workspace|Universal Request in Agent Workspaces]]

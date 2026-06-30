@@ -14,11 +14,11 @@ breadcrumb: [Load balancers, Network device discovery, Data collected by ITOM Vi
 
 # F5 BIG-IP load balancer discovery
 
-[[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] can find F5 BIG-IP load balancers via SNMP, SSH, and through the REST API.
+Discovery and Service Mapping can find F5 BIG-IP load balancers via SNMP, SSH, and through the REST API.
 
 **Note:** For information on Probe to Pattern migration see the knowledge article [KB0694477](https://support.servicenow.com/kb_view.do?sysparm_article=KB0694477).
 
-**Important:** Discovery treats load balancers as licensable entities and attempts to discover them primarily using SNMP. If a load balancer in your system, running on a Linux host, has SNMP and SSH ports open, Discovery might classify it based on the SSH port. This classification has priority over SNMP. To ensure that Discovery properly classifies your hardware load balancers, [[create-disco-behavior|create a Discovery behavior]] for load balancers that includes SNMP but not SSH. Software load balancers are treated as applications.
+**Important:** Discovery treats load balancers as licensable entities and attempts to discover them primarily using SNMP. If a load balancer in your system, running on a Linux host, has SNMP and SSH ports open, Discovery might classify it based on the SSH port. This classification has priority over SNMP. To ensure that Discovery properly classifies your hardware load balancers, create a Discovery behavior for load balancers that includes SNMP but not SSH. Software load balancers are treated as applications.
 
 You can download VMware images of BIG-IP with a free 90-day trial from [https://www.f5.com/trial](https://www.f5.com/trial).
 
@@ -62,7 +62,7 @@ For F5 Global Traffic Manager \(GTM\) BIG-IP load balancers, Discovery can resol
         -   `list gtm wideip`
         -   `list gtm wideip all`
 -   For F5REST pattern:
-    -   For horizontal discovery [[using-discovery|using Discovery]], provide read-only permissions to run the following APIs:
+    -   For horizontal discovery using Discovery, provide read-only permissions to run the following APIs:
 
         -   `"https://" + $ipAddress + "/mgmt/tm/ltm/pool"`
         -   `"https://" + $ipAddress + "/mgmt/tm/sys/global-settings"`
@@ -99,7 +99,7 @@ For F5 Global Traffic Manager \(GTM\) BIG-IP load balancers, Discovery can resol
     -   Create [basic authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/r_BasicAuthCredentialsForm.md) credentials.
     -   Create [a credential alias](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/discovery-credential-alias.md) for the basic authentication credential.
     -   Create a [serverless discovery schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/create-serverless-sched-f5-rest-oauth.md).
--   For top-down discovery [[using-service-mapping|using Service Mapping]], provide permissions to run the following APIs:
+-   For top-down discovery using Service Mapping, provide permissions to run the following APIs:
 
     -   `https://" get_attr {"managementIP"}"/mgmt/tm/ltm/"get_attr {"irule"}`
     -   `https://" get_attr {"managementIP"}"/mgmt/tm/ltm/virtual/~Common~"get_attr {"vip_name"}`
@@ -171,7 +171,7 @@ These patterns use iRules to get information via REST. Service Mapping uses thes
 -   F5 BigIP LTM
 
 </td></tr></tbody>
-</table>To use patterns, verify that the correct pattern is specified in the [[r-HorizontalPatternProbe|horizontal pattern probe]] on the classifier. See [Add the Horizontal Pattern probe to a classifier](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c-UsingPatternsForHorizontalDiscovery.md) for instructions.
+</table>To use patterns, verify that the correct pattern is specified in the horizontal pattern probe on the classifier. See [Add the Horizontal Pattern probe to a classifier](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c-UsingPatternsForHorizontalDiscovery.md) for instructions.
 
 ## Connections discovered by Service Mapping during the top-down discovery
 
@@ -239,11 +239,3 @@ These relationships are created for clusters:
 
 **Parent Topic:**[Load balancer discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_LoadBalancers.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[create-disco-behavior|Create a Discovery behavior]]
-- [[using-discovery|Using Discovery]]
-- [[using-service-mapping|Using Service Mapping]]
-- [[r-HorizontalPatternProbe|Horizontal Pattern probe]]

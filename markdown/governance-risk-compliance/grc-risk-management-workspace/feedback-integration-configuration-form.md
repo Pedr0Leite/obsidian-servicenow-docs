@@ -56,7 +56,7 @@ Workspace URL path
 
 </td><td>
 
-Workspace URL path to send feedback-related notifications to a particular workspace. For example, to use it on the [[risk-workspace|Risk Workspace]], select `risk/risk`.
+Workspace URL path to send feedback-related notifications to a particular workspace. For example, to use it on the Risk Workspace, select `risk/risk`.
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -83,6 +83,3 @@ User or group field on the target record. For example, if you want the record ow
 </td></tr></tbody>
 </table>**Parent Topic:**[Configure a feedback integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/configure-feedback-integration.md)
 
-## Related
-
-- [[risk-workspace|risk workspace]]

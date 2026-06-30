@@ -26,7 +26,7 @@ When you mute an alert that is based on the keyword metric or the pattern severi
 
 ## Procedure
 
-1.  In the [[workspace-dashboard-use|Service Operations Workspace]], open the Log Analytics alert that you don't want to see again.
+1.  In the Service Operations Workspace, open the Log Analytics alert that you don't want to see again.
 
 2.  Select **Apply ML feedback**
 
@@ -55,6 +55,3 @@ View the list of metrics that were muted so that they no longer generate alerts.
 
 [View the list of muted metrics in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-op-alert-view-ignored-list.md)
 
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]

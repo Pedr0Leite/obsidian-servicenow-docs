@@ -14,9 +14,9 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 # Enforce Strict User Image Upload
 
-Use the **glide.security.strict.user\_image\_upload** property to enable [[sc-access-control|Access Control]] for the upload/update of a profile picture when performed on a user record.
+Use the **glide.security.strict.user\_image\_upload** property to enable Access Control for the upload/update of a profile picture when performed on a user record.
 
-If the **glide.security.strict.user\_image\_upload** system property isn't set to the recommended value of **true**, then ACLs aren't enforced on image uploads to the Photo field. When the property is set to **true**, the table ACLs are enforced when uploading photos, only allowing authorized [[users|users]] to upload an image.
+If the **glide.security.strict.user\_image\_upload** system property isn't set to the recommended value of **true**, then ACLs aren't enforced on image uploads to the Photo field. When the property is set to **true**, the table ACLs are enforced when uploading photos, only allowing authorized users to upload an image.
 
 Ensure that the property **glide.security.strict.user\_image\_upload** is set to **true**.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -115,9 +115,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[sc-access-control|Access control]]
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

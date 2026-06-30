@@ -14,13 +14,9 @@ breadcrumb: [Complaint Management, Common applications, Financial Services Opera
 
 # Analytics and reporting for Financial Services Complaint Management
 
-[[fso-complaint-mgmt-landing-page|Financial Services Complaint Management]] contains a preconfigured dashboard with actionable data visualizations that can help your organization improve your business processes and quantify the value of self-service.
+Financial Services Complaint Management contains a preconfigured dashboard with actionable data visualizations that can help your organization improve your business processes and quantify the value of self-service.
 
 Use the Performance Analytics widgets on a dashboard to visualize data over time, analyze your business processes, and identify areas of improvement.
 
-The [[fso-complaint-mgmt-dashboard|Complaint Management dashboard]] is available for Financial Services Complaint Management.
+The [Complaint Management dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-complaint-mgmt-dashboard.md) is available for Financial Services Complaint Management.
 
-## Related
-
-- [[fso-complaint-mgmt-dashboard|Complaint Management dashboard]]
-- [[fso-complaint-mgmt-landing-page|Financial Services Complaint Management]]

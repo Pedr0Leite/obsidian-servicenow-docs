@@ -14,7 +14,7 @@ breadcrumb: [Now Assist in Conversational Catalog Request, Service Catalog, Mana
 
 # Prefill in conversational catalog request
 
-The generalized prefill capability for conversational catalog request automatically populates [[catalog-item-form|catalog item form]] fields using data sourced from the requesting user's profile and from the active chat conversation history. This reduces manual data entry for requesters, improves form completion accuracy, and accelerates time-to-submission for service requests raised through the conversational interface.
+The generalized prefill capability for conversational catalog request automatically populates catalog item form fields using data sourced from the requesting user's profile and from the active chat conversation history. This reduces manual data entry for requesters, improves form completion accuracy, and accelerates time-to-submission for service requests raised through the conversational interface.
 
 Prefill functionality works similarly across both conversational and traditional form-based catalog experiences, automatically populating fields to reduce manual data entry and improve accuracy. The same underlying prefill sources and behavior apply whether requesters use Now Assist conversations or standard web forms.
 
@@ -22,7 +22,7 @@ Prefill functionality works similarly across both conversational and traditional
 
 System fields on the catalog item form are automatically populated from the requester's sys\_user and related tables. This includes, but is not limited to:
 
--   Identity fields: First name, last name, display name, [[email|email]] address
+-   Identity fields: First name, last name, display name, email address
 -   Organizational fields: Department, cost center, company, location, building, floor
 -   Managerial fields: Manager, secondary approver Role or group-based fields: Primary assignment group, business unit
 
@@ -41,7 +41,3 @@ In conversational catalog requests, the system extracts contextual information s
 
 [Prefilling variable values on the catalog item form in the portal and Next Experience UIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/prefill-variable-values-catalog-item-form.md)
 
-## Related
-
-- [[catalog-item-form|Catalog Item form]]
-- [[email|Email]]

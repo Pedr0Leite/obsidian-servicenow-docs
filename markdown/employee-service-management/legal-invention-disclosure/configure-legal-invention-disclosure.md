@@ -14,11 +14,11 @@ breadcrumb: [Legal Invention Disclosure, Legal Service Delivery Practice Applica
 
 # Configure Legal Invention Disclosure
 
-[[install-legal-invention-disclosure|Install Legal Invention Disclosure]] and configure the requirements to enable efficient processing and tracking of patent requests.
+Install Legal Invention Disclosure and configure the requirements to enable efficient processing and tracking of patent requests.
 
 ## Configuration overview
 
-1.  Install the [[legal-invention-disclosure-landing|Legal Invention Disclosure]] application by installing the Legal Simple Intellectual Property application.
+1.  Install the Legal Invention Disclosure application by installing the Legal Simple Intellectual Property application.
 2.  Set up outside firms to enable the assignment of outside counsels, who can then be associated with and evaluate Legal Invention Disclosure requests.
 3.  Set up optional inventor rewards to be granted at three stages of applying for and acquiring a patent.
 
@@ -35,7 +35,3 @@ Set up optional rewards for inventors to be granted at three stages of applying 
 
 **Parent Topic:**[Legal Invention Disclosure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/legal-invention-disclosure-landing.md)
 
-## Related
-
-- [[install-legal-invention-disclosure|install legal invention disclosure]]
-- [[legal-invention-disclosure-landing|Legal Invention Disclosure]]

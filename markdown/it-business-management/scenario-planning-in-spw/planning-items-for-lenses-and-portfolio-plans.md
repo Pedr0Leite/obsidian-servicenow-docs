@@ -14,7 +14,7 @@ breadcrumb: [Configure, Portfolio Planning in Strategic Planning Workspace, Stra
 
 # Planning item configuration for lenses and portfolio plans
 
-Learn about the types of default and custom planning items that planning managers can work with in [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace.
+Learn about the types of default and custom planning items that planning managers can work with in Strategic Planning Workspace.
 
 For every portfolio plan that you build using a lens, only those item types that are added to that lens are available for planning. For example, a lens XYZ has epics and projects added to it. Then, in any portfolio plan that you build using the XYZ lens, you can plan for work in the form of epics and projects only.
 
@@ -37,6 +37,3 @@ If you want to use a different item type, you can use up to five pre-defined cus
 
 If you've used up all these five pre-defined custom planning item tables and want a different item type to use for your portfolio plans, you can define new item types. See [Define a new planning item type in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-planning-organization-and-planning-item-type.md).
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

@@ -34,9 +34,9 @@ The desired state certification process can mean checking servers to ensure that
 
 The administrator responsible for certification creates definitions of desired states and then schedules an audit to check CIs for compliance. The audit results identify CIs that pass certification and itemize the discrepancies in those CIs that fail. The ServiceNow system automatically generates follow-on tasks to track the process of adjusting the CIs to the desired state.
 
-Desired state differs substantially from [[c_DataCertification|data certification]]. Data certification is a manual process to ensure that your data matches reality. Desired state examines the same data and determines when the configuration of each item is in the desired and approved state.
+Desired state differs substantially from data certification. Data certification is a manual process to ensure that your data matches reality. Desired state examines the same data and determines when the configuration of each item is in the desired and approved state.
 
-1.  Create a certification filter: [[t_CreatingFilters|Create a filter]] that defines a subset of configuration items to certify. You can create multiple versions of a filter, and then activate the version you want to use for certification. You can create filters on the Configuration Item \[`cmdb_ci`\] table and all tables that extend it.
+1.  Create a certification filter: Create a filter that defines a subset of configuration items to certify. You can create multiple versions of a filter, and then activate the version you want to use for certification. You can create filters on the Configuration Item \[`cmdb_ci`\] table and all tables that extend it.
 2.  Create a template: Create a template with conditions that define the desired state of the physical attributes, related records, and relationships for a CI. The certification filter you select for the template determines which configuration items the system examines.
 3.  Create and run an audit: Create an audit using the template. Set the audit to run on a schedule or on demand. The audit generates a set of results based on the conditions from the template you specify. Determine usage of follow-on tasks:
     -   Determine if the audit creates follow-on tasks and assignment.
@@ -44,7 +44,3 @@ Desired state differs substantially from [[c_DataCertification|data certificatio
 4.  View audit results: View the audit results which display any discrepancies between the desired state, as specified by the template, and the actual state of the target configuration items.
 5.  Correct discrepancies: Correct the discrepancies the audit found by completing the follow-on tasks created by the system.
 
-## Related
-
-- [[c_DataCertification|Data Certification]]
-- [[t_CreatingFilters|Create a filter]]

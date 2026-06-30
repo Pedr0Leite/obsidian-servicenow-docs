@@ -14,13 +14,13 @@ breadcrumb: [Example widgets, Widget library, Using portal widgets, Configuring 
 
 # Approval Info Record widget
 
-The Approval Info Record widget shows details about the approval request and a full record for an approval including the [[activity-stream-configurable-workspace|activity stream]].
+The Approval Info Record widget shows details about the approval request and a full record for an approval including the activity stream.
 
 ## Using the widget
 
 \[Omitted image "image.widgetapprovaldetails"\] Alt text: Approval Info Record widget showing all of the information available about the approval including comments by the requester.
 
-[[configure-onboarding-modals|Configure]] the field values and the order of the fields from [[c_ServicePortal|Service Portal]] Approval Configuration. For more information, see [Configure Service Portal Approval Configuration record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/configure-approval-assistance-ai-agent.md).
+Configure the field values and the order of the fields from Service Portal Approval Configuration. For more information, see [Configure Service Portal Approval Configuration record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/configure-approval-assistance-ai-agent.md).
 
 ## Instance options
 
@@ -30,8 +30,3 @@ The Approval Info Record widget shows details about the approval request and a f
 
 **Parent Topic:**[Example widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sp-example-widgets.md)
 
-## Related
-
-- [[activity-stream-configurable-workspace|Activity stream]]
-- [[configure-onboarding-modals|Configure]]
-- [[c_ServicePortal|Service Portal]]

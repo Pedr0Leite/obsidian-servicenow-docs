@@ -14,7 +14,7 @@ breadcrumb: [Guided Tour Designer use case, Use Guided Tours, Guided Tours, Adop
 
 # Create a guided tour to show incident generation in Workspace
 
-Use the [[guided-tours-designer|Guided Tour Designer]] to create a tour that explains how to generate an incident in Workspace.
+Use the Guided Tour Designer to create a tour that explains how to generate an incident in Workspace.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: guided\_tour\_admin
 
 ## About this task
 
-[[guided-tours|Guided Tours]] are available in Workspace to help users understand the features of the Workspace.
+Guided Tours are available in Workspace to help users understand the features of the Workspace.
 
 Here’s an example of using tours to guide users through the steps of creating an incident in Workspace.
 
@@ -100,7 +100,7 @@ Start with this setup, and if you have steps with IDs, change them to: \{"url":"
 
 ## Update the Route Parameters
 
-To enable your newly created guided tour to work on any sys\_id, you must manually update the route parameters. This is also essential for enabling the **Take a Tour** option in the [[help-center|Help Center]].
+To enable your newly created guided tour to work on any sys\_id, you must manually update the route parameters. This is also essential for enabling the **Take a Tour** option in the Help Center.
 
 Perform the following steps:
 
@@ -143,7 +143,7 @@ In the Guided Tour Designer, add the following steps to the tour:
 
 -   **Conclusion**
 
-    At the end of the tour, add a conclusion indicating that the tour is complete. This is a great opportunity to encourage users to [[exploring|explore]] other tours or provide follow-up information on what to do next.
+    At the end of the tour, add a conclusion indicating that the tour is complete. This is a great opportunity to encourage users to explore other tours or provide follow-up information on what to do next.
 
     \[Omitted image "guided-tour-conclusion.png"\] Alt text: Guided tour callout conclusion.
 
@@ -161,9 +161,3 @@ Users can access a guided tour by navigating to a page that has one. For more in
 
 [Edit Guided Tours]()
 
-## Related
-
-- [[guided-tours-designer|Guided Tour Designer]]
-- [[guided-tours|Guided Tours]]
-- [[help-center|Help Center]]
-- [[exploring|Explore]]

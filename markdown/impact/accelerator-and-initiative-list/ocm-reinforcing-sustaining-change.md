@@ -19,7 +19,7 @@ This accelerator provides guided coaching to measure adoption, close post-go-liv
 
 ## Accelerator Overview
 
-**OCM: Reinforcing &amp; Sustaining Change** provides [[impact-landing-page|Impact]] customers with coaching — aligned to the Reinforcement element of the OCM Readiness framework — that helps Platform Owners and OCM Leads create steady-state adoption and realize ongoing business value from ServiceNow. This offering covers success metrics and KPI definition, adoption dashboard setup, user feedback collection, corrective action planning, recognition and celebration strategies, champion network expansion, and long-term sustainment planning, providing teams a structured approach to protect and build on their transformation investment.
+**OCM: Reinforcing &amp; Sustaining Change** provides Impact customers with coaching — aligned to the Reinforcement element of the OCM Readiness framework — that helps Platform Owners and OCM Leads create steady-state adoption and realize ongoing business value from ServiceNow. This offering covers success metrics and KPI definition, adoption dashboard setup, user feedback collection, corrective action planning, recognition and celebration strategies, champion network expansion, and long-term sustainment planning, providing teams a structured approach to protect and build on their transformation investment.
 
 **Note:** This is the third and final accelerator in the three-part OCM Accelerator Series. It follows OCM: Preparing for Change \(Awareness + Desire\) and OCM: Managing Change \(Knowledge + Ability\).
 
@@ -29,7 +29,7 @@ This accelerator provides guided coaching to measure adoption, close post-go-liv
 
 ## Prerequisites
 
--   Completion of an initial ServiceNow go-live and the [[io-availability|availability]] of an appointed Platform Owner or OCM Lead.
+-   Completion of an initial ServiceNow go-live and the availability of an appointed Platform Owner or OCM Lead.
 -   Completion of [OCM: Managing Change](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/ocm-managing-change.md) or equivalent foundational change management work \(e.g., an established enablement strategy, active champion network, and baseline adoption data\) — is recommended before this engagement.
 
 ## What You Get
@@ -53,7 +53,7 @@ Includes the following CSE-led sessions and activities, as applicable \(up to 1.
 -   **Recognition &amp; Sustainment Plan**
     -   Recognition strategy with tactics selected to fit your culture
     -   Named owners, cadences, and escalation paths for all ongoing adoption activities
-    -   Champion network [[health-assessment|health assessment]] and new employee onboarding integration
+    -   Champion network health assessment and new employee onboarding integration
 -   **Business Review Session**
     -   Present your adoption story and value realized to leadership
     -   Sponsor acknowledges progress and confirms remaining priorities
@@ -102,8 +102,3 @@ Additional details on supplemental legal terms, prerequisites, specifications, r
 
 ServiceNow is not responsible for implementing any of the recommended configuration changes in your sub-production or production instances.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[io-availability|Availability]]
-- [[health-assessment|Health Assessment]]

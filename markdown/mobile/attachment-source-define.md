@@ -26,19 +26,19 @@ You can limit the origins of attachments to ensure that images are sourced from 
 -   From the user’s phone gallery
 -   From the user’s file system
 
-This feature is supported for all attachment locations including: activity stream, functions, and [[parameter-input-screen|input form screen]].
+This feature is supported for all attachment locations including: activity stream, functions, and input form screen.
 
-**Note:** This feature is also supported for scripted screens within [[mobile-playbooks|Mobile App Bridge]] and the Cabrillo JS module.
+**Note:** This feature is also supported for scripted screens within Mobile App Bridge and the Cabrillo JS module.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select the attachment location for where you want to control the origin of the attachment source.
 
@@ -90,7 +90,7 @@ Values can be `camera`, `files`, or `gallery`, or any combination separated by c
 </td><td>
 
 1.  Select the  **Screens ** category, and then select  **New**.
-2.  Select the  **Input form ** option in the [[sg-studio-configure-applet-screens|Create a screen]] page, and then select  **Continue**.
+2.  Select the  **Input form ** option in the Create a screen page, and then select  **Continue**.
 3.  Select **New** in the Inputs section.
 4.  Enter a **Name** and **Label** in the Properties section.
 5.  Select `Attachment` from the **Input type** field in the **Settings** section.
@@ -106,13 +106,5 @@ Values can be `camera`, `files`, or `gallery`, or any combination separated by c
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[[images-and-attachments|Working with images and attachments in mobile]]
+**Parent Topic:**[Working with images and attachments in mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/images-and-attachments.md)
 
-## Related
-
-- [[images-and-attachments|Working with images and attachments in mobile]]
-- [[parameter-input-screen|Input form screen]]
-- [[mobile-playbooks|Mobile App Bridge]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]
-- [[sg-studio-configure-applet-screens|Create a screen]]

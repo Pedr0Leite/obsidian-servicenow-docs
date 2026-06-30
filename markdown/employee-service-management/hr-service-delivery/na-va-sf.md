@@ -14,7 +14,7 @@ breadcrumb: [Use, HR Service Delivery Integration with SuccessFactors, Integrati
 
 # Now Assist Virtual Agent topics for HR Service Delivery Integration with SuccessFactors
 
-You can use the Now Assist Virtual Agent topics in [[employee-center-landing-page|Employee Center]] to place requests, for example, apply for a time off or update your details from the SuccessFactors system in Employee Center.
+You can use the Now Assist Virtual Agent topics in Employee Center to place requests, for example, apply for a time off or update your details from the SuccessFactors system in Employee Center.
 
 ## Virtual Agent topics for HR Service Delivery Integration with SuccessFactors Overview
 
@@ -228,10 +228,5 @@ The Get Holiday Calendar Virtual Agent topic enables you to view your holiday ca
 
 [Field mappings]()
 
-[Use [[conversational-agents|HCM AI agents]] for [[hr-service-delivery|HR Service Delivery]] Integration with SuccessFactors]()
+[Use HCM AI agents for HR Service Delivery Integration with SuccessFactors]()
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[conversational-agents|HCM AI agents]]
-- [[hr-service-delivery|HR Service Delivery]]

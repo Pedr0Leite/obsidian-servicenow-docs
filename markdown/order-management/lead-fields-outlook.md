@@ -15,7 +15,7 @@ breadcrumb: [Activity Management reference, Lead and opportunity management, Ref
 
 Field descriptions for creating or viewing a lead record from the ServiceNow CRM for Outlook add-in.
 
-<table id="lead-[[fields|fields]]-table"><thead><tr><th>
+<table id="lead-fields-table"><thead><tr><th>
 
 Field
 
@@ -116,15 +116,10 @@ Current stage of the lead in the sales process. The available options are:-   Ne
 -   Disqualified
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[activity-management-reference|Activity Management reference]]
+</table>**Parent Topic:**[Activity Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/activity-management-reference.md)
 
 **Related topics**  
 
 
-[[associate-email-crm-outlook|Associate an email with an existing CRM record]]
+[Associate an email with an existing CRM record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/associate-email-crm-outlook.md)
 
-## Related
-
-- [[activity-management-reference|Activity Management reference]]
-- [[associate-email-crm-outlook|Associate an email with an existing CRM record]]
-- [[fields|Fields]]

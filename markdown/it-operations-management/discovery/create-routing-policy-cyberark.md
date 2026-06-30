@@ -29,7 +29,7 @@ Role required: pki\_admin or admin.
 
 2.  Select **New**.
 
-3.  On the [[certificate-routing-policy-field-values|Certificate Routing Policy form]], fill in the fields.
+3.  On the Certificate Routing Policy form, fill in the fields.
 
     For a description of the field values, see [Certificate Routing Policy form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/certificate-routing-policy-form.md).
 
@@ -44,6 +44,3 @@ Role required: pki\_admin or admin.
 
 The routing policy is created and directs matching certificate requests to CyberArk. Certificate requests matching the policy criteria are automatically routed to CyberArk for processing. For more information, see [Routing policy details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/how-routing-policy-works.md).
 
-## Related
-
-- [[certificate-routing-policy-field-values|Certificate Routing Policy form]]

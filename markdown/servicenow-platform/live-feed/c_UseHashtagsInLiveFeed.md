@@ -18,7 +18,7 @@ Hashtags are words marked with a hash symbol \(\#\) in messages. Hashtags are a 
 
 For example, to identify messages associated with VPN questions, add the hashtag \#VPN in the message text.
 
-**Note:** Many of these features are part of Live Feed v2. If you are [[c_UseLiveFeed|using Live Feed]] v1, or have not activated Live Feed v2, see Legacy Live Feed.
+**Note:** Many of these features are part of Live Feed v2. If you are using Live Feed v1, or have not activated Live Feed v2, see Legacy Live Feed.
 
 -   **[Tag messages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/c_TagMessages.md)**  
 To tag a keyword or topic in a message, enter a \# symbol before the word. A link to the hashtag is added beneath the message and all feed users can search and filter by the hashtag to find the message.
@@ -33,9 +33,5 @@ You can view all postings assigned a specific hashtag by following the hashtag. 
 -   **[Remove a hashtag from a posted message](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/t_RemoveAHashtagFromAPostedMessage.md)**  
 As a participant in a conversation, you can remove hashtags from messages that have already been posted.
 
-**Parent Topic:**[[manage-people|Manage people and work capabilities]]
+**Parent Topic:**[Manage people and work capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/manage-people.md)
 
-## Related
-
-- [[manage-people|Manage people and work capabilities]]
-- [[c_UseLiveFeed|Using Live Feed]]

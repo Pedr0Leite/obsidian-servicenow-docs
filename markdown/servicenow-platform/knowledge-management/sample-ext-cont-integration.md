@@ -18,13 +18,13 @@ You can integrate content from multiple external sources so your users can acqui
 
 ## Requirements for integrating external content
 
-Make sure the [[knowledge-management|Knowledge Management]] -- External Content Integration plugin \(com.snc.knowledge.external\_integration\) is enabled and your external source is WebDAV- compliant.
+Make sure the Knowledge Management -- External Content Integration plugin \(com.snc.knowledge.external\_integration\) is enabled and your external source is WebDAV- compliant.
 
 **Parent Topic:**[Integration with external knowledge sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/knowledge-external-content-integration.md)
 
 ## Integrate external knowledge sources into the Knowledge Management application
 
-Create authentication credentials and a connection alias to [[c_Connect|connect]] your external knowledge source to the ServiceNow Knowledge Management application. Define import parameters for your external source to import integrated content.
+Create authentication credentials and a connection alias to connect your external knowledge source to the ServiceNow Knowledge Management application. Define import parameters for your external source to import integrated content.
 
 ### Before you begin
 
@@ -148,7 +148,3 @@ WebDAV URL to your external account. This is the WebDAV end point of your extern
 
 [Knowledge Management Service portal search results page]()
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]
-- [[c_Connect|Connect]]

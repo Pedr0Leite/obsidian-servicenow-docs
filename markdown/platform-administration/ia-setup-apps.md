@@ -12,7 +12,7 @@ breadcrumb: [Administer, Setup Hub, Get started, Administer the ServiceNow AI Pl
 
 # Set up an application with Setup Hub
 
-Implement the following steps to set up a specific application or plugin with [[ia-landing|Setup Hub]] on your instance.
+Implement the following steps to set up a specific application or plugin with Setup Hub on your instance.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ Role required: admin
 
     \[Omitted image "ia-install.png"\] Alt text: Screenshot showing the dynamically rendered apps and plugins tiles
 
-    **Note:** If you use an earlier version of [[admin-center-intro|Admin Center]], see [Install Now Assist plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md) for installation information about Now Assist. In the latest version of Admin Center, the Now Assist card appears in the Manage your products section.
+    **Note:** If you use an earlier version of Admin Center, see [Install Now Assist plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md) for installation information about Now Assist. In the latest version of Admin Center, the Now Assist card appears in the Manage your products section.
 
     **Note:** The Manage your products section is collapsible by default. You can expand it to see all the product family cards.
 
@@ -54,7 +54,7 @@ Role required: admin
 
 4.  Select **Upload batch** from Option 2.
 
-    This step is applicable only if you are setting up ITSM from another ServiceNow instance. See [[ia-update-set|Manage update set for Setup Hub]] for more information.
+    This step is applicable only if you are setting up ITSM from another ServiceNow instance. See [Manage update set for Setup Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-update-set.md) for more information.
 
 5.  Select the install icon next to the app bundle mentioned under the Not installed tab to start the installation process of the specific app bundle.
 
@@ -66,7 +66,7 @@ Role required: admin
 
 6.  Review the information in the Configuration insights section.
 
-    Once an app is installed, corresponding information about the new [[clone-configurations-tab|configurations]] that have either been added or updated show up in the Configuration insights section.
+    Once an app is installed, corresponding information about the new configurations that have either been added or updated show up in the Configuration insights section.
 
     **Note:** This section is visible only for CBS setup process. This section shows up only when you have an application under the Installed tab for the CBS setup process.
 
@@ -86,16 +86,8 @@ Role required: admin
 
 9.  Select **Configure** to move to the Configuration Console page.
 
-    See [[ia-config-landing|Configure in Setup Hub]] for more information.
+    See [Configure in Setup Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-config-landing.md) for more information.
 
 
-**Parent Topic:**[[ia-administer|Administer Setup Hub]]
+**Parent Topic:**[Administer Setup Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-administer.md)
 
-## Related
-
-- [[ia-update-set|Manage update set for Setup Hub]]
-- [[ia-config-landing|Configure in Setup Hub]]
-- [[ia-administer|Administer Setup Hub]]
-- [[ia-landing|Setup Hub]]
-- [[admin-center-intro|Admin Center]]
-- [[clone-configurations-tab|Configurations]]

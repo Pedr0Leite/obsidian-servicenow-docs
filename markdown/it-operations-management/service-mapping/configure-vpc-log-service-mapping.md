@@ -14,7 +14,7 @@ breadcrumb: [Data collection and discovery using VPC Flow Logs, Advanced Service
 
 # Configure data collection using VPC Flow Logs
 
-Enable [[c_ServiceMappingOverview|Service Mapping]] to perform [[r-discovery|discovery]] based on data collected using Virtual Private Cloud \(VPC\) logs. This method is relevant for organizations using Amazon Web Services \(AWS\).
+Enable Service Mapping to perform discovery based on data collected using Virtual Private Cloud \(VPC\) logs. This method is relevant for organizations using Amazon Web Services \(AWS\).
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin or service\_mapping\_admin
 
 ## About this task
 
-In base systems, which are the default or standard configurations, traffic-based discovery relies solely on TCP-related data collected using the **netstat**, **ss**, and **lsof** commands. Discovery based on Netflow and VPC logs requires additional configuration. You can enrich your traffic-based discovery by [[service-mapping-setup|configuring Service Mapping]] to use VPC Flow Logs. For more information about the Service Mapping discovery flow based on VPC Flow logs, see [Data collection and discovery using VPC Flow Logs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/data-collection-vpc-mapping.md).
+In base systems, which are the default or standard configurations, traffic-based discovery relies solely on TCP-related data collected using the **netstat**, **ss**, and **lsof** commands. Discovery based on Netflow and VPC logs requires additional configuration. You can enrich your traffic-based discovery by configuring Service Mapping to use VPC Flow Logs. For more information about the Service Mapping discovery flow based on VPC Flow logs, see [Data collection and discovery using VPC Flow Logs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/data-collection-vpc-mapping.md).
 
 Amazon VPC hosts Amazon Elastic Compute Cloud \(EC2\) instances that provide Amazon Web Services. VPC flow logs collect data on IP traffic going to and from network interfaces in the VPC.
 
@@ -65,8 +65,4 @@ Configure the ServiceNow connector to trigger MID Server to collect the data fro
 
     5.  Verify that the table contains data.
 
-## Related
 
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]
-- [[service-mapping-setup|Configuring Service Mapping]]

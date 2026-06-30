@@ -14,7 +14,7 @@ breadcrumb: [Configure authentication factors for AI voice agents, Authenticatio
 
 # Configure voice input for authentication factors
 
-Configure how callers provide [[c_Authentication|authentication]] responses by speaking or using the phone keypad.
+Configure how callers provide authentication responses by speaking or using the phone keypad.
 
 ## Before you begin
 
@@ -23,11 +23,11 @@ Role required: auth\_factors\_admin
 **Note:**
 
 -   For KBA, voice input is configured per question. For more information, see [Create KBA questions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/create-knowledge-based-questions.md)
--   For all other numeric factors — Authenticator App \(TOTP\), [[email|Email]] OTP, SMS OTP, and Soft PIN, use the following procedure.
+-   For all other numeric factors — Authenticator App \(TOTP\), Email OTP, SMS OTP, and Soft PIN, use the following procedure.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[authentication-factors|Authentication Factors]]** &gt; **Services** &gt; **Service Configurations**.
+1.  Navigate to **All** &gt; **Authentication Factors** &gt; **Services** &gt; **Service Configurations**.
 
 2.  Select **New**.
 
@@ -65,7 +65,7 @@ Service Profile Table
 
 Select the table for the AI voice agent service.
 
- Leave empty to apply the [[sc-configuration|configuration]] to all AI voice agent services.
+ Leave empty to apply the configuration to all AI voice agent services.
 
 </td></tr><tr><td>
 
@@ -131,9 +131,3 @@ The input type configuration is saved. During an AI voice agent session, callers
 
 \[Omitted image "kba-service-config-2.png"\] Alt text: List of saved service configurations with input type and factor details
 
-## Related
-
-- [[c_Authentication|Authentication]]
-- [[email|Email]]
-- [[authentication-factors|Authentication factors]]
-- [[sc-configuration|Configuration]]

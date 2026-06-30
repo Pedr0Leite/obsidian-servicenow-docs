@@ -10,7 +10,7 @@ reading_time_minutes: 1
 
 # Integrate with your ATS
 
-Integrate your [[hiring-experiences-landing|Hiring Experiences]] environment with your preferred ATS to create a seamless [[hiring-tab-concept|hiring]] workflow.
+Integrate your Hiring Experiences environment with your preferred ATS to create a seamless hiring workflow.
 
 -   **[Send job requisitions to the ATS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/send-a-job-requisition-to-the-ats.md)**  
 Send the job requisitions to your integrated ATS to get posted on the job boards.
@@ -23,7 +23,3 @@ Upload job application data from your ATS to your ServiceNow instance at regular
 
 **Parent Topic:**[Integrations for Hiring Experiences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/integrate-with-talent-acquisition.md)
 
-## Related
-
-- [[hiring-experiences-landing|Hiring Experiences]]
-- [[hiring-tab-concept|Hiring]]

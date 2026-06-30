@@ -14,7 +14,7 @@ breadcrumb: [Use, GRC Compliance workspace, Policy and Compliance Management, Go
 
 # View dashboards in Compliance Workspace
 
-Access [[r_PolicyComplianceMgmt|Policy and Compliance Management]] dashboards directly from the Compliance Workspace without navigating to Platform Analytics application.
+Access Policy and Compliance Management dashboards directly from the Compliance Workspace without navigating to Platform Analytics application.
 
 ## Before you begin
 
@@ -47,6 +47,3 @@ For information on Compliance Workspace dashboards, see the following topics:
     -   Policy Exception Overview
     -   Policy Overview
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

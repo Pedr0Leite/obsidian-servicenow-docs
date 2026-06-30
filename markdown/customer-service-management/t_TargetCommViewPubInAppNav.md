@@ -12,13 +12,13 @@ breadcrumb: [Targeted communications, Configure case management, Case management
 
 # View a publication
 
-Access the details of a publication and review them using the [[c_TargetedCommunications|Targeted Communications]] menu.
+Access the details of a publication and review them using the Targeted Communications menu.
 
 ## Before you begin
 
 Role required: sn\_customerservice.customer
 
-**Note:** To view a published publication, see [[t_TargetCommViewPubOnPortal|View a publication on the Customer Service Portal]]
+**Note:** To view a published publication, see [View a publication on the Customer Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/t_TargetCommViewPubOnPortal.md)
 
 ## Procedure
 
@@ -26,7 +26,4 @@ Role required: sn\_customerservice.customer
 
 2.  Select a publication from the Publications list.
 
-## Related
 
-- [[t_TargetCommViewPubOnPortal|View a publication on the Customer Service Portal]]
-- [[c_TargetedCommunications|Targeted communications]]

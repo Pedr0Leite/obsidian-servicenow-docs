@@ -15,7 +15,7 @@ breadcrumb: [Discovery for Alibaba Cloud, Discovery for cloud environment, Disco
 
 # Create an Alibaba Cloud Discovery schedule in Discovery Admin Workspace
 
-Use the [[discovery-admin-workspace|Discovery Admin Workspace]] dashboard to create an Alibaba Cloud [[r-discovery|Discovery]] schedule.
+Use the Discovery Admin Workspace dashboard to create an Alibaba Cloud Discovery schedule.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Verify the following:
 -   The MID Server used for Cloud Discovery is configured with the Cloud Management capability.
 -   You have configured an Alibaba Cloud Random Access Memory \(RAM\) user or RAM role in the Alibaba Cloud console that has the necessary permissions so that the MID Server can access the cloud resources you plan to discover.
 -   You have created suitable Alibaba Cloud API credentials in the ServiceNow AI Platform. For more information, see [Create Alibaba Cloud API Credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/create-alibaba-cloud-api-credentials.md).
--   You're [[using-discovery|using Discovery]] Admin Workspace v1.13.0.
+-   You're using Discovery Admin Workspace v1.13.0.
 
 Role required: discovery\_admin
 
@@ -86,15 +86,9 @@ Role required: discovery\_admin
     |**Run on demand**|The schedule only runs when triggered manually. The schedule can be triggered by selecting **Finish and run** at the end of this setup, or by navigating to the schedule in the Discovery Schedules \[discovery\_schedule\] table and selecting **Discover Now**.|
     |**Run after series**|The schedule runs after another existing Discovery schedule completes, staggering or chaining them together. Selecting an existing schedule displays a relationship map of all the other associated schedules.|
     |**Set discovery time out**|If the schedule exceeds the maximum runtime, it's canceled. After toggling, configure the runtime threshold.|
-    |**Finish and run**|After being selected, all the information provided is validated. Then, a Discovery schedule is created in the background, a [[c_DiscoveryStatus|Discovery status]] is created, and the schedule is run. You're redirected to the Status Details page for the schedule.|
+    |**Finish and run**|After being selected, all the information provided is validated. Then, a Discovery schedule is created in the background, a Discovery status is created, and the schedule is run. You're redirected to the Status Details page for the schedule.|
     |**Finish**|After being selected, all the information provided is validated. A Discovery schedule is created, and you're redirected to its entry in the Discovery Schedules \[discovery\_schedule\] table. You can edit the schedule information or run it by selecting **Discover Now**.|
 
 
 **Parent Topic:**[Discovery for Alibaba Cloud](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/alibaba-cloud-discovery.md)
 
-## Related
-
-- [[discovery-admin-workspace|Discovery Admin Workspace]]
-- [[r-discovery|Discovery]]
-- [[using-discovery|Using Discovery]]
-- [[c_DiscoveryStatus|Discovery status]]

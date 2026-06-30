@@ -14,13 +14,13 @@ breadcrumb: [Issue assignment using the Governance, Risk, and Compliance Predict
 
 # Train and use the similarity solution definition for issue assignment prediction
 
-Train and use the machine learning solution by activating the [[r_WhatIsGRC|Governance, Risk, and Compliance]] Predictive Intelligence plugin. The solution enables the system to automatically suggest correct assignees to route issues. These suggestions reduce the time spent on deciding who should own the issue.
+Train and use the machine learning solution by activating the Governance, Risk, and Compliance Predictive Intelligence plugin. The solution enables the system to automatically suggest correct assignees to route issues. These suggestions reduce the time spent on deciding who should own the issue.
 
 ## Before you begin
 
 Make sure that the following plugins are activated.
 
--   The [[r_PolicyComplianceMgmt|Policy and Compliance Management]] plugin
+-   The Policy and Compliance Management plugin
 -   The Risk Management plugin
 -   GRC Profiles plugin must be activated
 -   The Predictive Intelligence plugin
@@ -116,7 +116,7 @@ Processing Language
 
 </td><td>
 
-Dominant language of the dataset that you are training on the solution definition. If the dataset language is English, choose **English**. By default, English processing is applied to all [[dataset-airc|datasets]]. For example, if you select **Italian**, the system processes the data in both English and Italian.
+Dominant language of the dataset that you are training on the solution definition. If the dataset language is English, choose **English**. By default, English processing is applied to all datasets. For example, if you select **Italian**, the system processes the data in both English and Italian.
 
 **Note:** The term processing indicates some of the language-specific steps that are used as part of training a solution. These steps include tokenizing words, removing stop words, and stemming.
 
@@ -155,8 +155,3 @@ Frequency of how often you want to refresh the data that you use to retrieve you
 
 **Parent Topic:**[Issue assignment using the Governance, Risk, and Compliance Predictive Intelligence plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/issue-assignment-using-predictive-intelli.md)
 
-## Related
-
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[dataset-airc|Datasets]]

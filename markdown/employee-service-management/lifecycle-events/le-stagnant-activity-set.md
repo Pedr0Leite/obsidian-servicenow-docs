@@ -14,7 +14,7 @@ breadcrumb: [Configure a Lifecycle Events trigger for activity sets, Lifecycle E
 
 # Lifecycle Events activity set progress optimization
 
-Ensure that the [[activity-lxp|activity]] sets you have defined for [[hr-lifecycle-events-landing-page-1|Lifecycle Events]] progress seamlessly through completion when they meet the conditions to be triggered for a Lifecycle Events case.
+Ensure that the activity sets you have defined for Lifecycle Events progress seamlessly through completion when they meet the conditions to be triggered for a Lifecycle Events case.
 
 Activity sets are created or modified to define a group of activities. Activity sets represent different stages in the life cycle event process and have conditions under which they’re triggered. The trigger conditions for an activity set depend on the values defined in the **Trigger type** and **Audience** fields in the Activity Set record. When an activity set is created, the **State** field in the corresponding Activity Set Context record is set to **Awaiting Trigger**. Once an activity set meets the trigger conditions that are defined for it, the value in the **State** field is changed to **Running Activities**.
 
@@ -85,7 +85,7 @@ Customization
 
 </td><td>
 
-Issues associated with custom [[LEWorkflow|Lifecycle Events workflows]] or their related script includes that are used to manage and run activities.
+Issues associated with custom Lifecycle Events workflows or their related script includes that are used to manage and run activities.
 
 </td><td>
 
@@ -122,8 +122,3 @@ Review the Activity Set Contexts table to confirm whether there are any records 
 </td></tr></tbody>
 </table>**Parent Topic:**[Configure a Lifecycle Events trigger for activity sets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/le-config-event-trigger.md)
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[LEWorkflow|Lifecycle Events workflows]]

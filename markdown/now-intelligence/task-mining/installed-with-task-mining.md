@@ -14,7 +14,7 @@ breadcrumb: [Reference, Task Mining, Platform Analytics]
 
 # Components installed with Task Mining
 
-Several types of components are installed with the [[task-mining|Task Mining]] application, including tables, user roles, and scheduled jobs.
+Several types of components are installed with the Task Mining application, including tables, user roles, and scheduled jobs.
 
 ## Roles installed
 
@@ -277,6 +277,3 @@ All activity categorization rules. The table is prepopulated with default fixed 
 </td></tr></tbody>
 </table>**Parent Topic:**[Task Mining Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/reference-task-mining.md)
 
-## Related
-
-- [[task-mining|Task Mining]]

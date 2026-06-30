@@ -22,10 +22,7 @@ The Audit Workspace is a unified medium with multiple views. These views enable 
 
 The Audit Workspace also supports repositories of financial regulatory requirements and guidelines from various organizations and frameworks, such as the Federal Financial Institutions Examination Council \(FFIEC\). You can align your evidence requests with these requirements and guidelines to help your asset managers better understand the compliance obligations that are associated with each request.
 
-**Note:** All requirements and guidelines that have been supported since before the Australia release are automatically included in the base [[asset-audit-response|Asset Audit Response]] application. Any requirements and guidelines that are supported starting with the Australia release are available only through the Unified Content Management application. You must install this application from the ServiceNow® Store as an add-on to the base Asset Audit Response application.
+**Note:** All requirements and guidelines that have been supported since before the Australia release are automatically included in the base Asset Audit Response application. Any requirements and guidelines that are supported starting with the Australia release are available only through the Unified Content Management application. You must install this application from the ServiceNow® Store as an add-on to the base Asset Audit Response application.
 
 For more information on the Audit Workspace, see [Audit Workspace limited](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/lite-audit-workspace.md).
 
-## Related
-
-- [[asset-audit-response|Asset Audit Response]]

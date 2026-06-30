@@ -26,7 +26,7 @@ Like NLQ synonyms, semantic shortcuts enable you to map common words in your use
 
 Semantic shortcuts provide a condition builder so that you can filter which records are covered by the terms you provide.
 
-Some semantic shortcuts are provided in the base system, and you can add more for your use [[cases|cases]] and business requirements. Review NLQ logs of actual user utterances to find possible terms to add. For more information, see [View NLQ logs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/natural-language-query/view-nlq-logs.md).
+Some semantic shortcuts are provided in the base system, and you can add more for your use cases and business requirements. Review NLQ logs of actual user utterances to find possible terms to add. For more information, see [View NLQ logs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/natural-language-query/view-nlq-logs.md).
 
 You can create a new shortcut, or modify an existing shortcut, as follows.
 
@@ -117,6 +117,3 @@ A user can enter `show me incident backlog` or `unassigned incidents` and the sy
 
 [View NLQ Table Guesser logs]()
 
-## Related
-
-- [[cases|Cases]]

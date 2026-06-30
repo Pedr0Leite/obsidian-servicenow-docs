@@ -13,7 +13,7 @@ breadcrumb: [Configure, AI Agent Advisor, Enable AI experiences]
 
 # Set up automation opportunity discovery for AI Agent Advisor
 
-Configure the data sources, filters, and schedule that [[ai-agent-advisor-landing-page|AI Agent Advisor]] uses to analyze your instance and identify automation opportunities.
+Configure the data sources, filters, and schedule that AI Agent Advisor uses to analyze your instance and identify automation opportunities.
 
 ## Before you begin
 
@@ -29,11 +29,11 @@ In the event an error occurs when performing these steps, see the troubleshootin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[now-assist-center-landing-page|Now Assist Center]]** or **Workspaces** &gt; **Now Assist Center**.
+1.  Navigate to **All** &gt; **Now Assist Center** or **Workspaces** &gt; **Now Assist Center**.
 
-2.  Select **Change advisor settings** in the AI Agent Advisor section of the [[now-assist-center-home-page|home page]].
+2.  Select **Change advisor settings** in the AI Agent Advisor section of the home page.
 
-    You can also select **Admin** \(\[Omitted image "icon-now-assist-center-nav-admin.png"\] Alt text: Admin icon in the [[now-assist-center-side-navigation-bar|side navigation bar]].\) in the side navigation bar and select **AI Agent Advisor** under Settings on the Admin page.
+    You can also select **Admin** \(\[Omitted image "icon-now-assist-center-nav-admin.png"\] Alt text: Admin icon in the side navigation bar.\) in the side navigation bar and select **AI Agent Advisor** under Settings on the Admin page.
 
     The AI Agent Advisor Setup tab opens showing a card for each data source. Enable the data sources you want AI Agent Advisor to analyze.
 
@@ -109,20 +109,12 @@ AI Agent Advisor runs the analysis according to the configured filters and sched
 
 ## What to do next
 
-View your automation opportunities on the home page. For more information, see [[now-assist-center-view-automation-opportunities|View your automation opportunities]].
+View your automation opportunities on the home page. For more information, see [View your automation opportunities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-view-automation-opportunities.md).
 
-**Parent Topic:**[[configuring-ai-agent-advisor|Configuring AI Agent Advisor]]
+**Parent Topic:**[Configuring AI Agent Advisor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configuring-ai-agent-advisor.md)
 
 **Related topics**  
 
 
 [Confirm installation of AI Agent Advisor]()
 
-## Related
-
-- [[now-assist-center-view-automation-opportunities|View your automation opportunities]]
-- [[configuring-ai-agent-advisor|Configuring AI Agent Advisor]]
-- [[ai-agent-advisor-landing-page|AI Agent Advisor]]
-- [[now-assist-center-landing-page|Now Assist Center]]
-- [[now-assist-center-home-page|Home page]]
-- [[now-assist-center-side-navigation-bar|Side navigation bar]]

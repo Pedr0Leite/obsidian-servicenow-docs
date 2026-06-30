@@ -16,7 +16,7 @@ breadcrumb: [Exploring Upgrade Center, Upgrade Center, Upgrade, Administer the S
 
 The Upgrade History module tracks every upgrade made to an instance. You can also view the complete report of an old upgrade or a recently completed upgrade version using this module.
 
-To view an upgrade history record, navigate to **All** &gt; **[[uc-landing-page|Upgrade Center]]** &gt; **Upgrade History** and select an upgrade from the list. On selecting an upgrade from the list, the System Upgrades form appears.
+To view an upgrade history record, navigate to **All** &gt; **Upgrade Center** &gt; **Upgrade History** and select an upgrade from the list. On selecting an upgrade from the list, the System Upgrades form appears.
 
 |Field|Description|
 |-----|-----------|
@@ -70,12 +70,7 @@ Total number of copied records to review whose base records have been upgraded
 
 Select View Upgrade Plan History related link to view the details of the upgrade plan configuration. See [Upgrade Plan overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-upgrade-plan.md) for more information.
 
-Select View [[uc-complete-summary|Upgrade Summary Report]] related link to view the summary of an older upgrade over [[uc-monitor-module|Upgrade Monitor module]].
+Select View Upgrade Summary Report related link to view the summary of an older upgrade over Upgrade Monitor module.
 
 See [Review skipped records using related lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-access-rl.md) for more information about related lists.
 
-## Related
-
-- [[uc-landing-page|Upgrade Center]]
-- [[uc-complete-summary|Upgrade Summary Report]]
-- [[uc-monitor-module|Upgrade Monitor module]]

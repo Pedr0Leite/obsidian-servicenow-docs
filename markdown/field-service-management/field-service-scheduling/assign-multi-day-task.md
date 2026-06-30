@@ -14,7 +14,7 @@ breadcrumb: [Assigning multi-day tasks to agents, Scheduling and dispatching, Us
 
 # Assign multi-day tasks to agents
 
-[[t_AssignATask|Assign a work order task]] that requires multiple schedules or days to complete the job to a field service agent. This capability avoids having to create more than one task for the same job.
+Assign a work order task that requires multiple schedules or days to complete the job to a field service agent. This capability avoids having to create more than one task for the same job.
 
 ## Before you begin
 
@@ -28,11 +28,11 @@ Role required: wm\_admin
 
 For information about how to assign a multi-day task to a crew, see [Assign work order tasks to crews](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/assign-wot-crew-operations.md).
 
-This procedure explains how you can assign a multi-day task to an agent using ServiceNow AI Platform. For information about how to assign a multi-day task [[using-dispatcher-workspace|using Dispatcher Workspace]], see [Assign work order tasks to agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/manage-work-order-tasks-dw.md).
+This procedure explains how you can assign a multi-day task to an agent using ServiceNow AI Platform. For information about how to assign a multi-day task using Dispatcher Workspace, see [Assign work order tasks to agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/manage-work-order-tasks-dw.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fsm-application-landing-page|Field Service Management]]** &gt; **Work Order** &gt; **Work Order Tasks**.
+1.  Navigate to **All** &gt; **Field Service Management** &gt; **Work Order** &gt; **Work Order Tasks**.
 
 2.  Select the desired task for assignment.
 
@@ -77,8 +77,3 @@ Description
 
 The task schedule spanning multiple schedule entries, days, or weeks is assigned to an agent.
 
-## Related
-
-- [[t_AssignATask|Assign a work order task]]
-- [[using-dispatcher-workspace|Using Dispatcher Workspace]]
-- [[fsm-application-landing-page|Field Service Management]]

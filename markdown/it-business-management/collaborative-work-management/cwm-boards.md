@@ -14,7 +14,7 @@ breadcrumb: [Use, Collaborative Work Management, Strategic Portfolio Management]
 
 # Managing work using Boards in CWM
 
-Use Boards in [[cwm-landing|Collaborative Work Management]] to define and organize tasks. With views such as List, Kanban, and Gantt, configure your workspace based on the way you and your team work.
+Use Boards in Collaborative Work Management to define and organize tasks. With views such as List, Kanban, and Gantt, configure your workspace based on the way you and your team work.
 
 \[Omitted video\] Description: Overview of Boards in the CWM workspace.
 
@@ -43,6 +43,3 @@ Export the list view of Collaborative Work Management \(CWM\) Boards to CSV or M
 
 **Parent Topic:**[Using Collaborative Work Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/using-collaborative-work-management.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

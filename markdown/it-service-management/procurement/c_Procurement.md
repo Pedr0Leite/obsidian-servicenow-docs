@@ -21,7 +21,7 @@ Procurement offers the ability to perform the following functions.
 -   Track service catalog requests
 -   Create and manage purchase orders
 -   Create and manage transfer orders
--   [[c_ReceiveAssets|Receive assets]]
+-   Receive assets
 
 -   **[Procurement roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/procurement/r_ProcurementRoles.md)**  
 The Procurement application uses the following roles.
@@ -42,6 +42,3 @@ Domain separation is supported in Procurement processing. Domain separation enab
 
 **Parent Topic:**[Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/asset-management/c_AssetManagement.md)
 
-## Related
-
-- [[c_ReceiveAssets|Receive assets]]

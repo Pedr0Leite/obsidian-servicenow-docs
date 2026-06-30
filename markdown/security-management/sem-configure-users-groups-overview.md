@@ -13,7 +13,7 @@ breadcrumb: [Implement, Unified Security Exposure Management, Security Operation
 
 # Configure users and groups in Security Exposure Management Workspace
 
-Administrators can manage user and group access directly from the [[sem-workspace-user-interface|Security Exposure Management Workspace]] using centralized assignment of product-specific roles through a consistent, workspace-based experience.
+Administrators can manage user and group access directly from the Security Exposure Management Workspace using centralized assignment of product-specific roles through a consistent, workspace-based experience.
 
 The Users and Groups capability in the Security Exposure Management Workspace provides a centralized interface for managing product-specific role assignments. This workspace-based experience enables administrators to control access to security management products without navigating to multiple configuration pages.
 
@@ -38,10 +38,10 @@ Access to the Users and Groups page varies based on role assignment:
 The Users and Groups page displays products and roles based on installed plugins and feature configuration. Supported products include:
 
 -   Security Exposure Management
--   [[vuln-landing-page|Vulnerability Response]]
--   [[avr-landing|Application Vulnerability Response]]
--   [[cvr-landing|Container Vulnerability Response]]
--   [[vr-config-compliance-landing|Configuration Compliance]]
+-   Vulnerability Response
+-   Application Vulnerability Response
+-   Container Vulnerability Response
+-   Configuration Compliance
 
 Each product provides multiple role options specific to its functional requirements, such as admin, analyst, remediation owner, and other specialized roles.
 
@@ -53,17 +53,8 @@ Users who have application-specific persona roles but do not have the system adm
 
 To view the granular roles inherited by a persona role, navigate to **All** &gt; **User Administration** &gt; **Roles**. Open the role record and review the Contains Roles related list.
 
--   **[[sem-add-groups-to-role|Add groups to a role]]**  
+-   **[Add groups to a role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-add-groups-to-role.md)**  
 Assign groups to product-specific roles in the Security Exposure Management Workspace. Only explicit assignments are managed through this interface.
--   **[[sem-add-users-to-role|Add users to a role]]**  
+-   **[Add users to a role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-add-users-to-role.md)**  
 Assign users to product-specific roles using the interface in the Security Exposure Management Workspace.
 
-## Related
-
-- [[sem-add-groups-to-role|Add groups to a role]]
-- [[sem-add-users-to-role|Add users to a role]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[avr-landing|Application Vulnerability Response]]
-- [[cvr-landing|Container Vulnerability Response]]
-- [[vr-config-compliance-landing|Configuration Compliance]]

@@ -12,7 +12,7 @@ breadcrumb: [Conversation Improvement Themes, Enable AI experiences]
 
 # Using Conversation Improvement Themes
 
-View performance insights using the widgets in [[conv-impr-themes-landing|Conversation Improvement Themes]].
+View performance insights using the widgets in Conversation Improvement Themes.
 
 To access the application, navigate to **All** &gt; **Conversation Improvement Themes** &gt; **Overview**.
 
@@ -41,12 +41,7 @@ For example, if you select Knowledge Article Management, it takes you to the pag
 
 **Note:** You can only see the sections to which you have access.
 
-For example, you need access to [[ai-control-tower-landing|AI Control Tower]] to access primary requests, Knowledge Base to access KB articles, Service Catalog to access catalog items, VA administrator to access VA topics, [[ai-agent-studio|AI Agent Studio]] to access AI agents.
+For example, you need access to AI Control Tower to access primary requests, Knowledge Base to access KB articles, Service Catalog to access catalog items, VA administrator to access VA topics, AI Agent Studio to access AI agents.
 
 \[Omitted image "select-theme.png"\] Alt text: Select a theme.
 
-## Related
-
-- [[conv-impr-themes-landing|Conversation Improvement Themes]]
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[ai-agent-studio|AI Agent Studio]]

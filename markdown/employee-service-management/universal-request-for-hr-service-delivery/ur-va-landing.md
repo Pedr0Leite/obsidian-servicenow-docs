@@ -14,7 +14,7 @@ breadcrumb: [Universal Request, Employee Service Management]
 
 # Virtual Agent for Universal Request
 
-The Virtual Agent capabilities of [[ur-landing-limitedaccess|Universal Request]] provide automated chat options to employees. It reduces the workload of agents by assisting the requester with certain basic tasks. It can display suggestions for self-help topics and knowledge articles based on keywords. It can also help employees to update their universal requests.
+The Virtual Agent capabilities of Universal Request provide automated chat options to employees. It reduces the workload of agents by assisting the requester with certain basic tasks. It can display suggestions for self-help topics and knowledge articles based on keywords. It can also help employees to update their universal requests.
 
 The Virtual Agent capabilities of Universal Request can help your employees do the following:
 
@@ -39,13 +39,9 @@ These topic conversations are available in all supported Universal Request Virtu
 -   **[Create a universal request using Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-create-ur-using-va.md)**  
 Create a universal request with the help of Virtual Agent. You can access the Virtual Agent using the chat option in the search page of Service Portal.
 -   **[Update or cancel a universal request using Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-cancel-ur-using-va.md)**  
-Update or [[cancel-ur|cancel a universal request]] with the help of the Virtual Agent in the chat option.
+Update or cancel a universal request with the help of the Virtual Agent in the chat option.
 -   **[Universal Request Virtual Agent conversation flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-va-conversation-flows.md)**  
 Universal Request Virtual Agent includes several predefined topic conversations that you can use to resolve common tasks on your universal requests.
 
 **Parent Topic:**[Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-landing-limitedaccess.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[cancel-ur|Cancel a universal request]]

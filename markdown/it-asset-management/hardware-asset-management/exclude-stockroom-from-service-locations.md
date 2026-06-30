@@ -14,7 +14,7 @@ breadcrumb: [Manage stockrooms, Use, Hardware Asset Management, IT Asset Managem
 
 # Exclude a stockroom from service locations
 
-Exclude a stockroom from service locations so that the stockroom isn't shown in the [[c_Stockrooms|Stockrooms]] missing service locations important actions card in the [[inventory-view-am|Inventory view]].
+Exclude a stockroom from service locations so that the stockroom isn't shown in the Stockrooms missing service locations important actions card in the Inventory view.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: inventory\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Inventory**.
+1.  Navigate to **All** &gt; **Hardware Asset Workspace** &gt; **Inventory**.
 
 2.  Select the **All stockrooms** tab.
 
@@ -44,8 +44,3 @@ Role required: inventory\_admin
 
 **Parent Topic:**[Manage stockrooms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/manage-your-stockrooms.md)
 
-## Related
-
-- [[c_Stockrooms|Stockrooms]]
-- [[inventory-view-am|Inventory view]]
-- [[using-ham-workspace|Hardware Asset Workspace]]

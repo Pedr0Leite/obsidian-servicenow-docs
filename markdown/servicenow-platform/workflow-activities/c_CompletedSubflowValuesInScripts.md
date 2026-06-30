@@ -30,7 +30,7 @@ coordinator
 
 </td><td>
 
-The WorkflowCoordinator used when running the subflows. You can use this variable in the **Finished script** to perform any final operations. Additionally, you can use the WorkflowCoordinator in a later workflow activity by passing the activity name or sys\_id to the WorkflowCoordinator.load\('&lt;Activity&gt;'\) function. For example, to load the [[c_WorkflowCoordinatorObject|WorkflowCoordinator object]] from a **Parallel Flow Launcher** activity called **Launch Subflows**, enter `var coord = WorkflowCoordinator.load('Launch Subflows');` in a later activity.
+The WorkflowCoordinator used when running the subflows. You can use this variable in the **Finished script** to perform any final operations. Additionally, you can use the WorkflowCoordinator in a later workflow activity by passing the activity name or sys\_id to the WorkflowCoordinator.load\('&lt;Activity&gt;'\) function. For example, to load the WorkflowCoordinator object from a **Parallel Flow Launcher** activity called **Launch Subflows**, enter `var coord = WorkflowCoordinator.load('Launch Subflows');` in a later activity.
 
 </td></tr><tr><td>
 
@@ -50,6 +50,3 @@ The subflow launched by the activity that completed most recently. You can use t
 </td></tr></tbody>
 </table>**Parent Topic:**[Parallel Flow Launcher workflow activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/r_ParallelFlowLauncher.md)
 
-## Related
-
-- [[c_WorkflowCoordinatorObject|WorkflowCoordinator object]]

@@ -12,7 +12,7 @@ breadcrumb: [Configure, Visa, Integrate, Financial Services Operations \(FSO\)]
 
 # Install Financial Services Operations Integration with Visa
 
-If you have the admin role, you can install the [[financial-services-operations-integration-with-visa-landing-page|Financial Services Operations Integration with Visa]] application.
+If you have the admin role, you can install the Financial Services Operations Integration with Visa application.
 
 ## Before you begin
 
@@ -39,9 +39,5 @@ Role required: admin
 5.  Select **Install**.
 
 
-**Parent Topic:**[[configuring-financial-services-operations-integration-with-visa|Configuring Financial Services Operations Integration with Visa]]
+**Parent Topic:**[Configuring Financial Services Operations Integration with Visa](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configuring-financial-services-operations-integration-with-visa.md)
 
-## Related
-
-- [[configuring-financial-services-operations-integration-with-visa|Configuring Financial Services Operations Integration with Visa]]
-- [[financial-services-operations-integration-with-visa-landing-page|Financial Services Operations Integration with Visa]]

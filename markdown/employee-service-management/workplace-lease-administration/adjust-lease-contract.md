@@ -26,7 +26,7 @@ To adjust a contract, its state must be Active.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-lease-admin-feat|Workplace Lease Administration]]** &gt; **Workplace Contracts**.
+1.  Navigate to **All** &gt; **Workplace Lease Administration** &gt; **Workplace Contracts**.
 
 2.  Select **Adjust**.
 
@@ -50,6 +50,3 @@ To adjust a contract, its state must be Active.
 
 [Cancel workplace contract in Core UI]()
 
-## Related
-
-- [[workplace-lease-admin-feat|Workplace Lease Administration]]

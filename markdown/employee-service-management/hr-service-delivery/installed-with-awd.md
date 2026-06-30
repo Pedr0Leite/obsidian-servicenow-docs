@@ -14,7 +14,7 @@ breadcrumb: [Reference, HR Service Delivery Advanced Integration with Workday, I
 
 # Components installed with HR Service Delivery Advanced Integration with Workday
 
-Several types of components are installed with activation of the [[advanced-wd|HR Service Delivery Advanced Integration with Workday]], including tables, user roles, and scheduled jobs.
+Several types of components are installed with activation of the HR Service Delivery Advanced Integration with Workday, including tables, user roles, and scheduled jobs.
 
 Demo data is available for this feature.
 
@@ -41,9 +41,9 @@ Advanced Workday Admin\[sn\_hr\_workday\_adv.admin\]
 -   Can configure Workday reports.
 -   Can customize Total rewards templates.
 -   Can configure Legal name change settings.
--   Can import [[config-w-daytimeoff|time offs]] from Workday.
--   Can pull [[holiday-calendar-awd|holiday calendars]] and schedule calendars from Workday.
--   Can pull Workday [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] IDs.
+-   Can import time offs from Workday.
+-   Can pull holiday calendars and schedule calendars from Workday.
+-   Can pull Workday reference IDs.
 
 </td><td>
 
@@ -131,11 +131,11 @@ Work Schedule Calendar\[sn\_hr\_workday\_work\_schedule\_calendar\]
 
 </td><td>
 
-Stores details of [[schedule-calen-awd|work schedule calendars]] \(such as work schedule calendar name, ID, and pattern start date\) that are pulled from Workday.
+Stores details of work schedule calendars \(such as work schedule calendar name, ID, and pattern start date\) that are pulled from Workday.
 
 </td></tr><tr><td>
 
-[[leg-name-awd|Legal Name Change Configuration]]\[n\_hr\_workday\_adv\_legal\_name\_change\_configuration\]
+Legal Name Change Configuration\[n\_hr\_workday\_adv\_legal\_name\_change\_configuration\]
 
 </td><td>
 
@@ -176,11 +176,3 @@ Store details of Total Rewards templates with sections and plans associated to i
 </td></tr></tbody>
 </table>**Parent Topic:**[Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/reference-hr-service-delivery-advanced-integration-with-workday.md)
 
-## Related
-
-- [[advanced-wd|HR Service Delivery Advanced Integration with Workday]]
-- [[config-w-daytimeoff|Time offs]]
-- [[holiday-calendar-awd|Holiday calendars]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[schedule-calen-awd|Work schedule calendars]]
-- [[leg-name-awd|Legal name change configuration]]

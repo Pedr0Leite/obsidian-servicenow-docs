@@ -15,11 +15,11 @@ breadcrumb: [AI-powered Widget Builder, Working with Employee Slate capabilities
 
 # Configure the AI widget builder for Employee Slate
 
-Configure the AI widget builder in [[employee-slate-landing-page|Employee Slate]]. Set the scope, the role access, and the chat panel that drives widget generation.
+Configure the AI widget builder in Employee Slate. Set the scope, the role access, and the chat panel that drives widget generation.
 
 ## Before you begin
 
-Activate [[employee-slate-nowassist|Employee Slate for Now Assist]] in the instance.
+Activate Employee Slate for Now Assist in the instance.
 
 An Oasis for Creator license for any admin who uses the AI chat panel.
 
@@ -82,7 +82,3 @@ The landing card lists the widgets in the instance. Admins can search, filter cu
 
 Admins create, clone, and refine AI-powered widgets from the same builder. Each widget honors the configured scope, the chat compatibility, and the role access. Admins can review the generated code and revert any change with the undo control.
 
-## Related
-
-- [[employee-slate-landing-page|Employee Slate]]
-- [[employee-slate-nowassist|Employee Slate for Now Assist]]

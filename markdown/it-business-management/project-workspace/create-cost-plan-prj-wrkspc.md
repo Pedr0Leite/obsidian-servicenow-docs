@@ -22,7 +22,7 @@ Role required: it\_project\_manager
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[project-workspace-landing-page|Project Workspace]]** and open a project.
+1.  Navigate to **Workspaces** &gt; **Project Workspace** and open a project.
 
 2.  Select **Financials** from the left menu.
 
@@ -44,7 +44,7 @@ Description
 
 A side panel opens to create a cost plan.
 
-2.  On the [[demand-plan-form|Cost plan form]], fill the fields.
+2.  On the Cost plan form, fill the fields.
 
 For a description of the field names, see [Create cost plan form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-cost-plan-form-spw.md).
 
@@ -81,7 +81,3 @@ You can edit a cost plan by one of the following ways.1.  Select the name of the
 
 **Parent Topic:**[Managing financials for your projects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/using-financials-prj-wrkspc.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]
-- [[demand-plan-form|Cost plan form]]

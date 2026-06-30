@@ -18,7 +18,7 @@ When multiple MID Servers are configured to scan the same protocol, you can set 
 
 ## Before you begin
 
-Role required: agent\_admin, [[r-discovery|discovery]]\_admin, or admin
+Role required: agent\_admin, discovery\_admin, or admin
 
 ## About this task
 
@@ -30,7 +30,7 @@ For example, an organization has 50 remote locations, varying in size from 10 de
 
 1.  Create the behavior record.
 
-    1.  [[create-disco-behavior|Create a Discovery behavior]] record and name it something descriptive, such as LoadBalanced.
+    1.  Create a Discovery behavior record and name it something descriptive, such as LoadBalanced.
 
     2.  Select and hold \(or right-click\) the header bar and select **Save** from the pop-up menu.
 
@@ -115,7 +115,3 @@ For example, an organization has 50 remote locations, varying in size from 10 de
 
 [Access an ACL-protected SNMP device]()
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[create-disco-behavior|Create a Discovery behavior]]

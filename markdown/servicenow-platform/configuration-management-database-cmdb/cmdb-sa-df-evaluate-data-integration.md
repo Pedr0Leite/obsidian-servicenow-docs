@@ -22,7 +22,7 @@ Role required: sn\_cmdb\_admin
 
 ## Procedure
 
-1.  Navigate to the [[cmdb-sa|CMDB success advisor]] landing page.
+1.  Navigate to the CMDB success advisor landing page.
 
 2.  On the Data Foundations card, select **View insights**.
 
@@ -30,7 +30,7 @@ Role required: sn\_cmdb\_admin
 
 4.  Find the Discovery pattern or Service Graph Connector by selecting the respective cards.
 
-5.  Identify the status of your Discovery patterns and [[cmdb-sgc-available|Service Graph Connectors]] to improve CMDB data coverage.
+5.  Identify the status of your Discovery patterns and Service Graph Connectors to improve CMDB data coverage.
 
 6.  Select the **Attribute coverage** link for a data integration source.
 
@@ -54,13 +54,6 @@ Role required: sn\_cmdb\_admin
         -   If you have the pd\_admin role, you can select **View pattern** for a Discovery pattern to understand its contribution and modify the pattern to maximize the attribute coverage. For more information, see [Patterns and horizontal discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/c-UsingPatternsForHorizontalDiscovery.md).
     -   For Service Graph Connectors, if you have the cmdb\_inst\_admin role, you can perform the following actions based on the applicable criteria:
         -   Select **Install connector** to add a connector from the ServiceNow Store.
-        -   Select **Create connection** to configure a Service Graph Connector from [[sgcc-landing|SGC Central]]. For more information, see [[sgcc-create-connection|Create a connection for a Service Graph Connector in SGC Central]].
-        -   Select **View connections** to open and review details of existing installed connections importing hardware asset data within SGC Central. For more information, see [[sgcc-viewing-installed-connection|Viewing connections for a Service Graph Connector in SGC Central]].
+        -   Select **Create connection** to configure a Service Graph Connector from SGC Central. For more information, see [Create a connection for a Service Graph Connector in SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-create-connection.md).
+        -   Select **View connections** to open and review details of existing installed connections importing hardware asset data within SGC Central. For more information, see [Viewing connections for a Service Graph Connector in SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-viewing-installed-connection.md).
 
-## Related
-
-- [[sgcc-create-connection|Create a connection for a Service Graph Connector in SGC Central]]
-- [[sgcc-viewing-installed-connection|Viewing connections for a Service Graph Connector in SGC Central]]
-- [[cmdb-sa|CMDB success advisor]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[sgcc-landing|SGC Central]]

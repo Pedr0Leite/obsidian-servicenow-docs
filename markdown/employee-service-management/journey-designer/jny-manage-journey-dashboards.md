@@ -14,7 +14,7 @@ breadcrumb: [Journey designer dashboards and reports, Use, Journey designer, Emp
 
 # Create and manage Journey designer dashboards
 
-Monitor journeys status and manage the [[jny-dsgnr-landing-page-1|Journey designer]] dashboards.
+Monitor journeys status and manage the Journey designer dashboards.
 
 ## Before you begin
 
@@ -24,11 +24,11 @@ Role required: admin
 
 The following dashboards are provided with the Journey designer app:
 
--   **[[journey-overview-dashboard|Journey overview dashboard]]**
+-   **Journey overview dashboard**
 
-    Displays information about the status of your active journeys, such as the number of journeys in draft mode, overdue journeys, journeys tasks, journeys by role and [[activity-lxp|activity]] type.
+    Displays information about the status of your active journeys, such as the number of journeys in draft mode, overdue journeys, journeys tasks, journeys by role and activity type.
 
--   **[[executive-jny-view-dashboard|Executive journey view dashboard]]**
+-   **Executive journey view dashboard**
 
     Displays the number of employees completing their journeys, SLA breaches, average days to complete journeys, and other metrics executives would be interested in.
 
@@ -114,9 +114,3 @@ Option to edit the display and color settings of the widget report.
 </table>
 **Parent Topic:**[Journey designer dashboards and reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-report-dashboards.md)
 
-## Related
-
-- [[jny-dsgnr-landing-page-1|Journey designer]]
-- [[journey-overview-dashboard|Journey overview dashboard]]
-- [[activity-lxp|Activity]]
-- [[executive-jny-view-dashboard|Executive journey view dashboard]]

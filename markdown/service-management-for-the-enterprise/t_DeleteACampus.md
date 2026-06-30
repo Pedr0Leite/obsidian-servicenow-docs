@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Facilities** &gt; **[[r_SpaceManagement|Space Management]]** &gt; **Campus**.
+1.  Navigate to **All** &gt; **Facilities** &gt; **Space Management** &gt; **Campus**.
 
 2.  Click the name of the campus you want to delete.
 
@@ -29,9 +29,5 @@ Role required: admin
     **Note:** If the campus has any buildings defined for it, a warning box appears identifying those buildings. Delete the buildings before deleting the campus.
 
 
-**Parent Topic:**[[r_Manually-builtMaps|Customer-created maps]]
+**Parent Topic:**[Customer-created maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_Manually-builtMaps.md)
 
-## Related
-
-- [[r_Manually-builtMaps|Customer-created maps]]
-- [[r_SpaceManagement|Space management]]

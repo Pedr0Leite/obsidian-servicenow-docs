@@ -17,13 +17,9 @@ breadcrumb: [Setup for integrating pre-published apps, Setup the Servicenow inst
 Allow the agents to work and manage the major incidents from Major Incident Management \(MIM\) workbench through Microsoft Teams pre-published app environment.
 
 -   **[Integrate Notify connector pre-published app with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-notify-ms-teams-multi-tenant.md)**  
-Set up the [[notify-connector-ms-teams|Notify connector for Microsoft Teams]] using the pre-published app. You can use the Microsoft Azure apps instead of creating a separate Microsoft Azure app for the integration.
+Set up the Notify connector for Microsoft Teams using the pre-published app. You can use the Microsoft Azure apps instead of creating a separate Microsoft Azure app for the integration.
 -   **[Integrate Meeting Extensions pre-published app with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-meeting-extensibility-multi-tenant.md)**  
-Configure the [[meeting-extensibility-ms-teams|Meeting Extensions for Microsoft Teams]] using the pre-published app.
+Configure the Meeting Extensions for Microsoft Teams using the pre-published app.
 
 **Parent Topic:**[Setup for integrating pre-published apps with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-multi-tenant.md)
 
-## Related
-
-- [[notify-connector-ms-teams|Notify connector for Microsoft Teams]]
-- [[meeting-extensibility-ms-teams|Meeting Extensions for Microsoft Teams]]

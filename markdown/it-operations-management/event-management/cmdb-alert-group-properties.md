@@ -14,7 +14,7 @@ breadcrumb: [CMDB based alert grouping, Mixed alert grouping, Alert grouping typ
 
 # CMDB alert grouping — properties and functionality
 
-Learn about the key properties and functionality of CMDB [[c_ServiceAnalyticsOverview|alert grouping]], which facilitate efficient alert organization based on relationships and enhance the overall effectiveness of alert management.
+Learn about the key properties and functionality of CMDB alert grouping, which facilitate efficient alert organization based on relationships and enhance the overall effectiveness of alert management.
 
 ## Properties for managing CMDB alert group creation
 
@@ -140,11 +140,7 @@ Set this property to true to prevent CMDB groups from forming based on applicati
 This property is hidden and enabled by default.
 
 </td></tr></tbody>
-</table>[[c_EM|Event Management]] stores a map of related CIs in the Event Management CI Graph Reuse \[em\_ci\_graph\_reuse\] table for each processed CI. You can adjust the storage period by modifying the **sa\_analytics.agg.query\_cmdb\_graph\_reuse\_period** property, with the default set to one day \(86,400 seconds\). This process enhances the search performance of relations in the CMDB. To disable the storage process during advanced use-case configurations, set the property value to zero.
+</table>Event Management stores a map of related CIs in the Event Management CI Graph Reuse \[em\_ci\_graph\_reuse\] table for each processed CI. You can adjust the storage period by modifying the **sa\_analytics.agg.query\_cmdb\_graph\_reuse\_period** property, with the default set to one day \(86,400 seconds\). This process enhances the search performance of relations in the CMDB. To disable the storage process during advanced use-case configurations, set the property value to zero.
 
 **Note:** If you need to change the default value, add the **sa\_analytics.agg.query\_cmdb\_graph\_reuse\_period** property, as it does not exist in the instance by default. For more information on how to create a property, see [Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddAPropertyUsingSysPropsList.md).
 
-## Related
-
-- [[c_ServiceAnalyticsOverview|Alert grouping]]
-- [[c_EM|Event Management]]

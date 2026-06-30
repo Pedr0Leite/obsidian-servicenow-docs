@@ -14,7 +14,7 @@ breadcrumb: [Domain separation in Cloud Provisioning and Governance - considerat
 
 # On-board a Company
 
-Review the following considerations to on-board customers or companies in a domain separated instance, for [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] services.
+Review the following considerations to on-board customers or companies in a domain separated instance, for Cloud Provisioning and Governance services.
 
 ## Domain separation for Cloud Provisioning and Governance overview
 
@@ -24,7 +24,7 @@ Domain separation for Cloud Provisioning and Governance is designed to give Serv
 
 -   [Create the MID Server user and grant the role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_SetupMIDServerRole.md).
 
-    Domain Separation in Cloud Provisioning and Governance is achieved by installing and configuring one or more dedicated MID Servers for each company/ domain that you are managing in your instance. Specifying a MID Server for each domain/company, ensures that Config Items \(CIs\) are assigned to the intended domain. Each domain has one or more MID Servers setup for cloud [[r-discovery|discovery]], provisioning, and other orchestration.
+    Domain Separation in Cloud Provisioning and Governance is achieved by installing and configuring one or more dedicated MID Servers for each company/ domain that you are managing in your instance. Specifying a MID Server for each domain/company, ensures that Config Items \(CIs\) are assigned to the intended domain. Each domain has one or more MID Servers setup for cloud discovery, provisioning, and other orchestration.
 
     **Note:** Create a MID Server in the global domain so that you can explore targets in other domains. For more information, see [Set up domain separation for MID servers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_MIDServerDomainSeparation.md)
 
@@ -42,17 +42,17 @@ Domain separation for Cloud Provisioning and Governance is designed to give Serv
 
     Create Resource Blocks in global domain as there is a 1:1 relationship between CI and resource block. Do not create resource blocks in any of the child or leaf domains. Resource blocks act as a process record, so any template of a parent domain is visible and works in the child domain.
 
-    Resource blocks act as a type of middleware component between catalog items, the [[cloud-management-api|Cloud API \(CAPI\)]], and the CMDB.
+    Resource blocks act as a type of middleware component between catalog items, the Cloud API \(CAPI\), and the CMDB.
 
     -   -   If the blocks in the base system do not provide the cloud resources that you need to provision, you can [create a custom resource block](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-resource-block.md).
--   In the Cloud Provisioning and Governance application, script execution is divided into [[cloud-scripts-and-templates|cloud scripts and cloud script templates]]. Use scripts in catalog items, resource blocks, OS profiles, and use policy scripts to set request form attributes. Policy scripts cannot override user data. For more information, see [Cloud scripts and cloud script templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-scripts-and-templates.md).
+-   In the Cloud Provisioning and Governance application, script execution is divided into cloud scripts and cloud script templates. Use scripts in catalog items, resource blocks, OS profiles, and use policy scripts to set request form attributes. Policy scripts cannot override user data. For more information, see [Cloud scripts and cloud script templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-scripts-and-templates.md).
 -   [Map a script to an OS profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/map-script-to-os-profile.md)
 
-    To execute scripted actions during VM provisioning, you can [[map-script-to-os-profile|map a script to an OS profile]]. The script runs on VMs that are created based on the image template in the OS profile.
+    To execute scripted actions during VM provisioning, you can map a script to an OS profile. The script runs on VMs that are created based on the image template in the OS profile.
 
     -   [Define Resource Profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-resource-profiles.md)
 
-        Create resource profile definitions in the global domain, and create mappings to these definitions in the child \(leaf\) domains. Do not delete [[cloud-resource-profiles|resource profiles]] without checking with all impacted companies. You can create domain-specific resource pools and pools filters for all supported cloud providers. As a Domain admin you can see global, domain and custom resource pools specific to sub-domains. A resource pool is a query or script that filters a table. You configure a resource pool to limit the values that are available to users when they request a catalog item. For domain separated resource pools only records of the relevant domain are returned.
+        Create resource profile definitions in the global domain, and create mappings to these definitions in the child \(leaf\) domains. Do not delete resource profiles without checking with all impacted companies. You can create domain-specific resource pools and pools filters for all supported cloud providers. As a Domain admin you can see global, domain and custom resource pools specific to sub-domains. A resource pool is a query or script that filters a table. You configure a resource pool to limit the values that are available to users when they request a catalog item. For domain separated resource pools only records of the relevant domain are returned.
 
         Resource profiles are cloud provider-agnostic definitions that specify the allowed attribute values for a resource. Resource profiles enable you to control the choices that the user sees when requesting a cloud resource. As a result, you do not need to define a unique blueprint for each variation of the resource.
 
@@ -63,7 +63,7 @@ Domain separation for Cloud Provisioning and Governance is designed to give Serv
     |[Quotas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/quotas.md)|Quotas are limitations or requirements for groups and users on CIs or cloud resources. Use quotas to prevent wasteful resource usage in your cloud environment.|
     |[Policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-policy.md)|A cloud policy can override a property value set by a user, create an approval task, reserve an IP address, pre-populate or hide form fields, execute custom scripts, call the Cloud API, or start or abort subflows. A cloud policy gives you system-wide control over approvals, resource operations, blueprint operations, or catalog item settings.|
     |[Pools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/pools.md)|A resource pool is a query or script that filters a table. You configure a resource pool to limit the values that are available to users when they request a catalog item.|
-    |[Permissions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-permissions.md)|Permissions are user group-level access rights to features in the Cloud Provisioning and Governance application and to specific records in the instance, such as blueprints or [[cloud-accounts|cloud accounts]].|
+    |[Permissions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-permissions.md)|Permissions are user group-level access rights to features in the Cloud Provisioning and Governance application and to specific records in the instance, such as blueprints or cloud accounts.|
 
     Permissions are user group-level access rights to features in the Cloud Provisioning and Governance application and to specific records in the instance, such as catalog items or cloud accounts. You could also set up basic governance policies, quotas, pools, and allow the cloud admin user to further customize them based on their needs. Create a user-group representing the domain users and associate permission to this user group, to set up permissions at a domain level. For more information on managing permissions for Cloud Provisioning and Governance roles, see [Manage Cloud Permissions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-permissions.md).
 
@@ -79,7 +79,7 @@ Domain separation for Cloud Provisioning and Governance is designed to give Serv
     -   [Cloud policy example](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/policy-walkthrough.md)
 -   [Create a cloud catalog item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-cloud-catalog-item.md)
 
-    [[create-cloud-catalog-item|Create a cloud catalog item]] for provisioning, based on a template and publish the catalog item to provide a service.
+    Create a cloud catalog item for provisioning, based on a template and publish the catalog item to provide a service.
 
     You can create common or global catalogs items based on templates, at the SP domain, making it available for all domains you're managing. You can also create custom catalog items for each domain/company based on your requirements. A user with domain admin/cloud designer roles, can update or delete cloud scripts and cloud script templates belongs to domain and sub-domains. You cannot use common catalogs with different pool-filter for each domain. Create a custom catalog for each domain instead.
 
@@ -109,7 +109,7 @@ Domain separation for Cloud Provisioning and Governance is designed to give Serv
 
 -   [Business hours scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/business-hours-scheduling.md)
 
-    Set up [[business-hours-scheduling|business hour scheduling]] on all virtual machines in a stack. Business hour scheduling can be set up on stacks at the time of provisioning or on existing stacks. Schedules can be set for when a stack should be started, stopped, and/or deprovisioned by defining parameters such as business hours, holidays, long weekends.
+    Set up business hour scheduling on all virtual machines in a stack. Business hour scheduling can be set up on stacks at the time of provisioning or on existing stacks. Schedules can be set for when a stack should be started, stopped, and/or deprovisioned by defining parameters such as business hours, holidays, long weekends.
 
     You map a schedule profile to an instance schedule. The schedule profile applies to all newly provisioned resources that use the profile. For example, a schedule profile can specify the days of the week and times of day when a stack should start and stop.
 
@@ -124,14 +124,3 @@ Domain separation for Cloud Provisioning and Governance is designed to give Serv
 
 For more information on provisioning cloud resources, and making Cloud Provisioning and Governance life-cycle operations available for each domain that you are managing in your instance for, see [Domain admin considerations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/domain-admin-workflow.md).
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[r-discovery|Discovery]]
-- [[cloud-management-api|Cloud API \(CAPI\)]]
-- [[cloud-scripts-and-templates|Cloud scripts and cloud script templates]]
-- [[map-script-to-os-profile|Map a script to an OS profile]]
-- [[cloud-resource-profiles|Resource Profiles]]
-- [[cloud-accounts|Cloud accounts]]
-- [[create-cloud-catalog-item|Create a cloud catalog item]]
-- [[business-hours-scheduling|Business hour scheduling]]

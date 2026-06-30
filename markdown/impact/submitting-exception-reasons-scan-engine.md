@@ -18,7 +18,7 @@ For Recommend level findings, developers can submit exception requests if they t
 
 Generally, exceptions require approval from a system administrator. However, certain settings configured by a system administrator may determine if the exception is automatically approved or rejected.
 
-**Note:** The record under the Scanned Record field of the finding, sn\_se\_finding, record should be extending sys\_metadata table in order for the Scan Engine Exceptions UI action button to be available. For more information on configuring exception properties, refer to [[exception-reason-properties|Configure exception reason properties]].
+**Note:** The record under the Scanned Record field of the finding, sn\_se\_finding, record should be extending sys\_metadata table in order for the Scan Engine Exceptions UI action button to be available. For more information on configuring exception properties, refer to [Configure exception reason properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/exception-reason-properties.md).
 
 Role required: Scan Engine Admin \(sn\_se.scan\_engine\_admin\).
 
@@ -42,6 +42,4 @@ Role required: Scan Engine Admin \(sn\_se.scan\_engine\_admin\).
 
     The finding card updates to show a gray background with an **Exception requested** label. The **Create exception** button is replaced with a link to view the exception reason that was entered.
 
-## Related
 
-- [[exception-reason-properties|Configure exception reason properties]]

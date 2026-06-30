@@ -14,7 +14,7 @@ breadcrumb: [Using breakdowns on dashboards, Indicator breakdowns, Configure fun
 
 # Configure widgets for breakdown dashboards
 
-Configure each widget that goes on a breakdown dashboard. The configuration determines whether and how the widget follows the elements selected on the dashboard. For some [[widgets|widgets]] and indicators, you can select whether to show multiple element values separately or as an aggregate.
+Configure each widget that goes on a breakdown dashboard. The configuration determines whether and how the widget follows the elements selected on the dashboard. For some widgets and indicators, you can select whether to show multiple element values separately or as an aggregate.
 
 ## Before you begin
 
@@ -40,7 +40,7 @@ Role required: pa\_power\_user, admin
 
     **Important:** Do not specify a breakdown and element on the widget record when you want the elements for that breakdown to be selected on a breakdown dashboard. The element on the widget record overrides any elements selected on the breakdown dashboard for that breakdown.
 
-4.  If more than one breakdown uses one of the [[breakdown-sources|breakdown sources]] on the dashboard, specify which breakdown applies to the widget in **Followed breakdown**.
+4.  If more than one breakdown uses one of the breakdown sources on the dashboard, specify which breakdown applies to the widget in **Followed breakdown**.
 
     For example, the breakdowns Opened by, Requested by, Requested for, and Assigned to use the Users.Active breakdown source. If you add Users.Active to a dashboard, select the relevant breakdown in **Followed breakdown** for each of the widgets that you have on that dashboard. This option does not affect any other breakdown sources you may have added to the dashboard.
 
@@ -66,7 +66,3 @@ Role required: pa\_power\_user, admin
 
 [Showing breakdown relations on dashboards]()
 
-## Related
-
-- [[widgets|Widgets]]
-- [[breakdown-sources|Breakdown sources]]

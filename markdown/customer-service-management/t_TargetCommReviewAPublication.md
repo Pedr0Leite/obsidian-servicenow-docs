@@ -24,7 +24,7 @@ After reviewing, an approver can either accept or reject a publication. If an ap
 
 The **Approvers** related list displays a list of approval tasks and includes most recent comment from each approver.
 
-**Note:** Delegate approval is not available in the [[c_TargetedCommunications|Targeted Communications]] application.
+**Note:** Delegate approval is not available in the Targeted Communications application.
 
 ## Procedure
 
@@ -56,7 +56,3 @@ The review state changes to **Rejected** on the Approvals list and the publicati
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_TargetedCommunications|Targeted communications]]

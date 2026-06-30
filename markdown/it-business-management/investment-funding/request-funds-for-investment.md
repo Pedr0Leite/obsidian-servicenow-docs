@@ -34,7 +34,7 @@ You can withdraw funding requests that are in the requested and planning state a
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[investment-funding-overview|Investment Funding]]** &gt; **My Funds**.
+1.  Navigate to **All** &gt; **Investment Funding** &gt; **My Funds**.
 
 2.  Click an investment card to open the investment for which you need funds.
 
@@ -72,6 +72,3 @@ You can withdraw funding requests that are in the requested and planning state a
 
 **Parent Topic:**[Investment Funding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/investment-funding/investment-funding-overview.md)
 
-## Related
-
-- [[investment-funding-overview|Investment Funding]]

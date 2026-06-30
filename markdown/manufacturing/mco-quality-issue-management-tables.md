@@ -12,7 +12,7 @@ breadcrumb: [Quality issue management data model, Data model, Reference, Manufac
 
 # Quality issue management tables
 
-This section explains [[mco-quality-issue-management|quality issue management]] \(QIM\) tables in [[manufacturing-overview|Manufacturing Commercial Operations]].
+This section explains quality issue management \(QIM\) tables in Manufacturing Commercial Operations.
 
 ## QIM plugin
 
@@ -45,7 +45,7 @@ Defines stakeholders for an issue with assigned RACI role and responsibility map
 
 </td></tr><tr><td>
 
-[[mco-PQI-use|Product Quality Investigation]] Task\[sn\_mfg\_qm\_prd\_qi\_task\]
+Product Quality Investigation Task\[sn\_mfg\_qm\_prd\_qi\_task\]
 
 </td><td>
 
@@ -89,7 +89,7 @@ Issue Cause\[sn\_rm\_core\_issue\_cause\]
 
 </td><td>
 
-Captures cause identified for an issue, with category and external [[manufacturing-reference|reference]].
+Captures cause identified for an issue, with category and external reference.
 
 </td></tr><tr><td>
 
@@ -173,7 +173,7 @@ Captures actual cost entries linked to an action.
 
 </td></tr><tr><td>
 
-[[mco-product-non-conformances|Product Non-conformance]] Case\[sn\_mfg\_qm\_prd\_ncc\]
+Product Non-conformance Case\[sn\_mfg\_qm\_prd\_ncc\]
 
 </td><td>
 
@@ -197,21 +197,12 @@ Tracks assets impacted by a reported issue, including their status and linkage t
 
 </td></tr><tr><td>
 
-[[mco-impacted-asset-action|Impacted Asset Action]]\[sn\_mfg\_qm\_impacted\_asset\_action\]
+Impacted Asset Action\[sn\_mfg\_qm\_impacted\_asset\_action\]
 
 </td><td>
 
 Links actions to impacted assets for issue resolution tracking.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[mco-quality-issue-management-data-model|Quality issue management data model]]
+</table>**Parent Topic:**[Quality issue management data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-quality-issue-management-data-model.md)
 
-## Related
-
-- [[mco-quality-issue-management-data-model|Quality issue management data model]]
-- [[mco-quality-issue-management|Quality issue management]]
-- [[manufacturing-overview|Manufacturing Commercial Operations]]
-- [[mco-PQI-use|Product quality investigation]]
-- [[manufacturing-reference|Reference]]
-- [[mco-product-non-conformances|Product non-conformance]]
-- [[mco-impacted-asset-action|Impacted asset action]]

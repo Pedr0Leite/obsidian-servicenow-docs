@@ -14,7 +14,7 @@ breadcrumb: [Subflows, Reference, Telecommunications Network Inventory]
 
 # Design assign Logical Connection Creation subflow
 
-The TNI Design assign Logical Connection Creation subflow enables you to create the logical connection record in the [[telecom-network-inventory|Telecommunications Network Inventory]] application. You can use this flow action to configure the activities in a [[telecommunications-circuit-design-resource-assignment|Design and Assign]] playbook for logical connection.
+The TNI Design assign Logical Connection Creation subflow enables you to create the logical connection record in the Telecommunications Network Inventory application. You can use this flow action to configure the activities in a Design and Assign playbook for logical connection.
 
 The TNI Design assign Logical Connection Creation subflow creates the logical connection record and updates the details in a change task. This subflow functions are as follows.
 
@@ -77,7 +77,3 @@ The TNI Design assign Logical Connection Creation subflow output are as follows.
 
 [Design Assign Number Element Validation subflow]()
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[telecommunications-circuit-design-resource-assignment|Design and assign]]

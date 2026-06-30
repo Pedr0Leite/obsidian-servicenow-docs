@@ -24,33 +24,24 @@ Entitlements for custom tables are included in certain subscription licenses bas
 
 ## ServiceNow Store applications that consume custom tables
 
-Some applications available from the [[servicenow-store|ServiceNow Store]] at no additional cost require a number of unallocated custom table entitlements. If an application consumes custom table entitlements, the application listing details and contract show how many are needed. For more information about application listing details, see [[store-listing-details|ServiceNow Store application listing details]].
+Some applications available from the ServiceNow Store at no additional cost require a number of unallocated custom table entitlements. If an application consumes custom table entitlements, the application listing details and contract show how many are needed. For more information about application listing details, see [ServiceNow Store application listing details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/store-listing-details.md).
 
 ## Additional information
 
 -   [Custom Table Guide legal schedule](https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/doc-type/legal/custom-table-guide.pdf)
 
-    Review the most recent complete [[clone-exclusions-preservers-cleanupscripts|definitions]] of custom and exempt tables.
+    Review the most recent complete definitions of custom and exempt tables.
 
-    **Note:** Legal [[c_UseSchedules|schedules]] are enforced based on when the contract is executed. For past versions of the Custom Table Guide, see [Legal schedules archive](https://www.servicenow.com/schedules-archived.html).
+    **Note:** Legal schedules are enforced based on when the contract is executed. For past versions of the Custom Table Guide, see [Legal schedules archive](https://www.servicenow.com/schedules-archived.html).
 
--   [[allocate-custom-table-subsc-app-v2|Map custom tables to a product subscription in Subscription Management]]
+-   [Map custom tables to a product subscription in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/allocate-custom-table-subsc-app-v2.md)
 
-    Maintain accurate entitlement for custom tables in the global scope and stay in compliance by mapping the tables to a product subscription in [[subscription-management-landing-page-v2|Subscription Management]]. Mapping your custom tables keeps your custom table allotment updated and helps you avoid running out of custom table entitlements.
+    Maintain accurate entitlement for custom tables in the global scope and stay in compliance by mapping the tables to a product subscription in Subscription Management. Mapping your custom tables keeps your custom table allotment updated and helps you avoid running out of custom table entitlements.
 
--   [[map-missing-custom-table-sub-mgt|Map a missing custom table to a product subscription in Subscription Management]]
+-   [Map a missing custom table to a product subscription in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/map-missing-custom-table-sub-mgt.md)
 
     Map a custom table in the global scope to a product subscription when that table isn't shown in the **Unmapped global custom tables** tab of Subscription Management. To stay in compliance, all custom tables must be mapped to a product subscription.
 
 
 **Parent Topic:**[Exploring ServiceNow AI Platform tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/exploring-table-administration.md)
 
-## Related
-
-- [[store-listing-details|ServiceNow Store application listing details]]
-- [[allocate-custom-table-subsc-app-v2|Map custom tables to a product subscription in Subscription Management]]
-- [[map-missing-custom-table-sub-mgt|Map a missing custom table to a product subscription in Subscription Management]]
-- [[servicenow-store|ServiceNow Store]]
-- [[clone-exclusions-preservers-cleanupscripts|Definitions]]
-- [[c_UseSchedules|Schedules]]
-- [[subscription-management-landing-page-v2|Subscription Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Create inventory models, Use, Telecommunications Network Inventory]
 
 # Create a logical connection model
 
-Create a logical connection model in the ServiceNow [[telecom-network-inventory|Telecommunications Network Inventory]] application to define the metadata for the different [[design-logical-connection-design-assign-playbook|logical connections]]. In the logical connection model, you can [[import-inventory|import models]], attach a file or an image, add or remove optional fields, and add compatibilities and substitutions.
+Create a logical connection model in the ServiceNow Telecommunications Network Inventory application to define the metadata for the different logical connections. In the logical connection model, you can import models, attach a file or an image, add or remove optional fields, and add compatibilities and substitutions.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ When you create a logical connection model record, it creates a model in the Log
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then go to **Inventory Models** &gt; **Logical Connection Models**.
 
@@ -34,7 +34,7 @@ When you create a logical connection model record, it creates a model in the Log
 
 4.  On the **Details** tab, fill in the common information for the logical connection model.
 
-    The following table lists the fields that are unique to the [[tni-logical-connection-forms|logical connection form]].
+    The following table lists the fields that are unique to the logical connection form.
 
 <table id="table_xxp_hq1_dtb"><thead><tr><th>
 
@@ -105,10 +105,3 @@ Manufacturer-assigned name of the logical connection model that is specified by 
 
 [Network inventory models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/using-inventory-models-tni.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[design-logical-connection-design-assign-playbook|Logical connections]]
-- [[import-inventory|Import models]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[tni-logical-connection-forms|Logical Connection form]]

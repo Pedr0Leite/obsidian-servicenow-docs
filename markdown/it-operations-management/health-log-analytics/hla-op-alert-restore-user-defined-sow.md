@@ -22,7 +22,7 @@ Role required: evt\_mgmt\_operator or evt\_mgmt\_admin
 
 ## Procedure
 
-1.  While viewing a Log Analytics alert in the [[workspace-dashboard-use|Service Operations Workspace]], select **Restore ML feedback**.
+1.  While viewing a Log Analytics alert in the Service Operations Workspace, select **Restore ML feedback**.
 
 2.  Confirm the action in the dialog box.
 
@@ -33,6 +33,3 @@ The metric that is associated with the alert returns to normal importance.
 
 **Parent Topic:**[Assign higher or lower significance to an alert in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-op-alert-significance.md)
 
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]

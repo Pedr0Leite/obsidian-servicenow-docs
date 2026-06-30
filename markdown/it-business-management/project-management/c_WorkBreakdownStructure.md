@@ -20,9 +20,9 @@ The work breakdown structure \(WBS\) is a hierarchical representation of all the
 
 Work breakdown structure \(WBS\) is being prepared for future deprecation. It will be hidden and no longer available for installation but will continue to be supported. For details, see the [Deprecation Process \[KB0867184\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base. Use new [Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/project-workspace-landing-page.md) with enhanced UI to help you efficiently manage your projects.
 
-Use the WBS to get a quick overview of the entire project, including the tasks and subtasks nested in the project. The [[c_GanttChart|Gantt chart]] gives you a similar overview using graphical elements like lines and bars to show dependencies and lengths of tasks. The WBS is more data-driven, presenting a wide variety of task information in expandable rows.
+Use the WBS to get a quick overview of the entire project, including the tasks and subtasks nested in the project. The Gantt chart gives you a similar overview using graphical elements like lines and bars to show dependencies and lengths of tasks. The WBS is more data-driven, presenting a wide variety of task information in expandable rows.
 
-You can view the WBS on the planning console, or as a related list on the Project or [[project-task-form|Project Task form]]. See [Open the project planning console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_OpenPlanningConsole.md) or [Access the WBS as a related list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_AccessTheWBSAsARelatedList.md).
+You can view the WBS on the planning console, or as a related list on the Project or Project Task form. See [Open the project planning console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_OpenPlanningConsole.md) or [Access the WBS as a related list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_AccessTheWBSAsARelatedList.md).
 
 When the WBS is viewed as a related list on the Project or Project task form, several important columns from the table appear by default.
 
@@ -35,7 +35,7 @@ When the WBS is viewed as a related list on the Project or Project task form, se
 Other useful information also appears by default, such as the description and percentage complete. You can personalize the list like any other list by selecting the personalize list icon \(\[Omitted image "PersonalizedListIcon.png"\] Alt text: personalize list icon\) and selecting the columns you want to view.
 
 -   **[Access the WBS as a related list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_AccessTheWBSAsARelatedList.md)**  
-You can view the WBS as a related list on both the Project and Project Task [[form-field-information-for-dw|forms]].
+You can view the WBS as a related list on both the Project and Project Task forms.
 
 **Parent Topic:**[Using Project Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/using-project-management.md)
 
@@ -44,8 +44,3 @@ You can view the WBS as a related list on both the Project and Project Task [[fo
 
 [Access the WBS as a related list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_AccessTheWBSAsARelatedList.md)
 
-## Related
-
-- [[c_GanttChart|Gantt chart]]
-- [[project-task-form|Project task form]]
-- [[form-field-information-for-dw|Forms]]

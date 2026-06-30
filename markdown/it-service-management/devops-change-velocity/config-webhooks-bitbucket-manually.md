@@ -14,7 +14,7 @@ breadcrumb: [Bitbucket, Integrate, DevOps Change Velocity, IT Service Management
 
 # Configure webhooks in Bitbucket manually
 
-Configure webhooks in Bitbucket to send sync notifications to the [[devops-landing-page-new|DevOps Change Velocity]] application.
+Configure webhooks in Bitbucket to send sync notifications to the DevOps Change Velocity application.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ You can also access manual configuration from the Bitbucket tool record in DevOp
 
 ## Procedure
 
-1.  In Bitbucket, navigate to **[[settings-mobile|Settings]]** &gt; **Webhooks** for the specified repo, and add a webhook.
+1.  In Bitbucket, navigate to **Settings** &gt; **Webhooks** for the specified repo, and add a webhook.
 
 2.  In DevOps Change Velocity, choose **Configure manually** when configuring the tool instance to send data.
 
@@ -51,7 +51,3 @@ You can also access manual configuration from the Bitbucket tool record in DevOp
 
 **Parent Topic:**[Bitbucket integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/bitbucket-integration-dev-ops.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[settings-mobile|Settings]]

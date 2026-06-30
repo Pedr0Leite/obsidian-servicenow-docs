@@ -14,7 +14,7 @@ breadcrumb: [Using Skills Management, Skills Management, Manage people and work 
 
 # Translate text in Skills Management
 
-Translate skills and descriptions when you add new skills in [[skills-management|Skills Management]].
+Translate skills and descriptions when you add new skills in Skills Management.
 
 ## Before you begin
 
@@ -46,6 +46,4 @@ Translate skill names and the description using the following fields that suppor
 
     For more information on translating custom content, see [Translating custom content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/translating-applications.md).
 
-## Related
 
-- [[skills-management|Skills Management]]

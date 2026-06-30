@@ -14,7 +14,7 @@ breadcrumb: [Service catalog UI policy, Debugging Service Catalog, Service Catal
 
 # Create a UI policy for catalog items
 
-You can apply UI policies for catalog items ordered in the [[service-catalog|service catalog]].
+You can apply UI policies for catalog items ordered in the service catalog.
 
 ## Before you begin
 
@@ -70,7 +70,7 @@ Active
 
 </td><td>
 
-Select the [[check-box|check box]] to enable the UI policy. Clear the check box to disable it.
+Select the check box to enable the UI policy. Clear the check box to disable it.
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -82,7 +82,7 @@ Catalog Conditions
 
 </td><td>
 
-Create conditions for the UI policy using catalog item variables. The policy is applied if the conditions evaluate to be true. For example, a catalog item of **Schedule a Move** may have a condition of **move\_from &gt; is &gt; San Diego**. The UI policy is applied when an employee schedules a move from San Diego to any other company location.**Note:** The [[label|label]] of a variable associated with a variable set reflects the variable set name. The format is *variable\_set\_name » variable\_name*.
+Create conditions for the UI policy using catalog item variables. The policy is applied if the conditions evaluate to be true. For example, a catalog item of **Schedule a Move** may have a condition of **move\_from &gt; is &gt; San Diego**. The UI policy is applied when an employee schedules a move from San Diego to any other company location.**Note:** The label of a variable associated with a variable set reflects the variable set name. The format is *variable\_set\_name » variable\_name*.
 
 </td></tr><tr><td>
 
@@ -186,7 +186,7 @@ Select the variable or variable set that belongs to the catalog item. When you a
 
  **Note:**
 
--   The set value UI policy action isn't applicable for the [[attachment|attachment]] and [[masked|masked]] variables.
+-   The set value UI policy action isn't applicable for the attachment and masked variables.
 
 Use the **Clear the variable value** option to clear the value for the attachment and masked variables.
 
@@ -295,10 +295,3 @@ The following UI policy makes it mandatory for any department to specify the nam
 
 \[Omitted image "CatalogUIPolicyExmple.png"\] Alt text: Catalog UI policy
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[check-box|Check box]]
-- [[label|Label]]
-- [[attachment|Attachment]]
-- [[masked|Masked]]

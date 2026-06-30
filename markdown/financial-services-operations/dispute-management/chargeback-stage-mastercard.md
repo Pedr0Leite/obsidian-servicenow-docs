@@ -18,7 +18,7 @@ After a chargeback is initiated, the chargeback request is sent to Mastercard, w
 
 ## Chargeback stages
 
-The [[chargeback-stage|Chargeback stage]] in Mastercard is described in these stages:
+The Chargeback stage in Mastercard is described in these stages:
 
 1.  **Initiation of chargeback and collaboration**:
     -   The agent initiates a chargeback request with Mastercard.
@@ -40,7 +40,7 @@ The [[chargeback-stage|Chargeback stage]] in Mastercard is described in these st
 
 Agents attach supporting documents as a `.zip` file for each task in the Chargeback stage as required.
 
-When integrated with Mastercard's Mastercom APIs, the system automates the submission of supporting documents for each task throughout the Chargeback stage. It automatically checks attached files against Mastercard requirements for file type and size. When agents submit multiple attachments, the system compresses them into a single zip file and alerts the agent when any attachment doesn’t meet Mastercard requirements. For more information, see [[mastercard-image-and-document-requirements|Mastercard document requirements]].
+When integrated with Mastercard's Mastercom APIs, the system automates the submission of supporting documents for each task throughout the Chargeback stage. It automatically checks attached files against Mastercard requirements for file type and size. When agents submit multiple attachments, the system compresses them into a single zip file and alerts the agent when any attachment doesn’t meet Mastercard requirements. For more information, see [Mastercard document requirements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/mastercard-image-and-document-requirements.md).
 
 -   **[Initiate chargeback](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/initiate-chargeback-mastercard.md)**  
 Initiate a chargeback for Mastercard transaction disputes and request collaboration from merchants.
@@ -61,7 +61,3 @@ Convert the provisional credit that was issued previously to a customer to a fin
 
 **Parent Topic:**[Processing a Mastercard dispute](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/processing-mastercard-dispute-case.md)
 
-## Related
-
-- [[mastercard-image-and-document-requirements|Mastercard document requirements]]
-- [[chargeback-stage|chargeback stage]]

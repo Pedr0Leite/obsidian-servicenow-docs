@@ -15,7 +15,7 @@ breadcrumb: [Use generative AI, Now Assist for CSM, Customer Service Management]
 
 # Summarize a chat conversation by using Now Assist for Customer Service Management \(CSM\)
 
-Generate a summary of the Virtual Agent chat history and the chat conversation between a live agent and a customer by using the [[csm-config-ws-chat-summary|chat summarization]] skill in the [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]] application.
+Generate a summary of the Virtual Agent chat history and the chat conversation between a live agent and a customer by using the chat summarization skill in the Now Assist for Customer Service Management \(CSM\) application.
 
 ## Before you begin
 
@@ -36,7 +36,7 @@ The chat summarization skill enables you to do the following actions:
 
 1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace**.
 
-2.  In [[csm-workspaces-configure|CSM Configurable Workspace]], open a chat from your inbox.
+2.  In CSM Configurable Workspace, open a chat from your inbox.
 
     The chat summarization skill creates an inline summary in the Active Chat window. This summary includes the customer’s issue and the actions that the customer has taken before the customer engaged with a live agent. The summary appears in the Active Chat window and is identified by the Now Assist icon \(\[Omitted image "bus-ai-sparkle.svg"\] Alt text: Now assist icon.\) and the **AI chat summary** label.
 
@@ -85,8 +85,3 @@ The system displays the Now Assist icon \(\[Omitted image "bus-ai-sparkle.svg"\]
 
 **Parent Topic:**[Using Now Assist for Customer Service Management \(CSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/now-assist-csm-using.md)
 
-## Related
-
-- [[csm-config-ws-chat-summary|Chat summarization]]
-- [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

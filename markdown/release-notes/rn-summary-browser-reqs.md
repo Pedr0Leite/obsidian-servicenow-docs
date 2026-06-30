@@ -62,7 +62,7 @@ Advanced Work Assignment \(AWA\)
 
 </td><td>
 
-Advanced Work Assignment doesn’t support mobile devices or Microsoft Edge browsers. Instead, use Microsoft Edge - Chromium or one of the other supported browsers that are listed in [[browser-support|Browser support]].
+Advanced Work Assignment doesn’t support mobile devices or Microsoft Edge browsers. Instead, use Microsoft Edge - Chromium or one of the other supported browsers that are listed in [Browser support](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/browser-support.md).
 
 </td></tr><tr><td>
 
@@ -206,9 +206,5 @@ UI Builder
 Internet Explorer isn't supported for UI Builder
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[release-notes-summaries|Release notes summaries for Australia features]]
+</table>**Parent Topic:**[Release notes summaries for Australia features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/release-notes-summaries.md)
 
-## Related
-
-- [[browser-support|Browser support]]
-- [[release-notes-summaries|Release notes summaries for Australia features]]

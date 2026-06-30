@@ -32,8 +32,5 @@ When attaching documents, the following steps occur.
 3.  The instance places the document based on the relevant API.
 4.  The instance sends a response back to the mobile app.
 
-**Parent Topic:**[[sg-security-mobile-data-flow|Mobile data flow for ServiceNow mobile apps]]
+**Parent Topic:**[Mobile data flow for ServiceNow mobile apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-security-mobile-data-flow.md)
 
-## Related
-
-- [[sg-security-mobile-data-flow|Mobile data flow for ServiceNow mobile apps]]

@@ -18,9 +18,9 @@ Bring your own license \(BYOL\) support enables you to determine the license com
 
 When organizations move to the public cloud, existing on-premise perpetual licenses are carried over to the cloud using BYOL. Existing on-premise subscription licenses are also carried over to the cloud using BYOS. BYOL and BYOS help improve license optimization, as organizations must pay only for infrastructure costs.
 
-The [[c_SoftwareAssetMgmt|Software Asset Management]] application supports BYOL for Microsoft and Oracle software products and BYOS for RHEL software products as follows:
+The Software Asset Management application supports BYOL for Microsoft and Oracle software products and BYOS for RHEL software products as follows:
 
-**Note:** `The Supported infrastructure type column in the following table applies to Infrastructure as a Service (IaaS) [[c_Models|models]] only.`
+**Note:** `The Supported infrastructure type column in the following table applies to Infrastructure as a Service (IaaS) models only.`
 
 <table id="table_dh3_w2x_cbc"><thead><tr><th>
 
@@ -218,7 +218,7 @@ Before you can begin determining the license compliance of software across your 
 
     See [CMDB CI Class Models store app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models.md) for more information on the CMDB CI Class Models application.
 
--   Request and install the [[cloud-insights-landing-page|Cloud Cost Management]] application from the [ServiceNow Store](https://store.servicenow.com/).
+-   Request and install the Cloud Cost Management application from the [ServiceNow Store](https://store.servicenow.com/).
 
     The Cloud Cost Management application is required for discovering the license types of software in your Microsoft SQL Server deployments on AWS. See [Cloud Insights application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/cloud-insights-landing-page.md) for more information on the Cloud Cost Management application.
 
@@ -281,10 +281,10 @@ After your discovered software is marked as BYOL, BYOS, or License Included, rec
 
 BYOL and BYOS licensing rules can differ for the same software products across different cloud providers. For example, Windows Server has different licensing rules on AWS and on Microsoft Azure. These rules must be combined with existing on-premise rules so that you can determine the complete license compliance position of each software product across your hybrid infrastructures. Microsoft offers special rights for products that are deployed on AWS vs Microsoft Azure, such as dual use rights, edition flexibility, and unlimited virtualization. For more information on licensing rules, see [Licensing rules for BYOL and BYOS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/byol-license-rules.md).
 
-The Software Asset Management application automatically reconciles these rules and provides an accurate license position report that can be viewed in the [[sam-workspace-workbench|License usage view]] of the [[sam-workspace|Software Asset Workspace]].
+The Software Asset Management application automatically reconciles these rules and provides an accurate license position report that can be viewed in the License usage view of the Software Asset Workspace.
 
 -   You can view BYOL license rights for your Microsoft software products in the Microsoft publisher overview of the Software Asset Workspace. For more information on the Microsoft publisher overview, see [Publisher overview for Microsoft in the Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/publisher-overview-microsoft.md).
--   You can view BYOL license rights for your Oracle software products in the Oracle publisher overview of the Software Asset Workspace. You can also view information about your Oracle Database server deployments across hybrid infrastructures, based on the agreement type, in the [[oracle-server-agreement|Oracle DB Server Deployments per Agreement report]]. For more information on the Oracle publisher overview, see [Publisher overview for Oracle in the Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/publisher-overview-oracle.md). For more information on the Oracle DB Server Deployments per Agreement report, see the [Oracle DB Server Deployments per Agreement report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/oracle-server-agreement.md).
+-   You can view BYOL license rights for your Oracle software products in the Oracle publisher overview of the Software Asset Workspace. You can also view information about your Oracle Database server deployments across hybrid infrastructures, based on the agreement type, in the Oracle DB Server Deployments per Agreement report. For more information on the Oracle publisher overview, see [Publisher overview for Oracle in the Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/publisher-overview-oracle.md). For more information on the Oracle DB Server Deployments per Agreement report, see the [Oracle DB Server Deployments per Agreement report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/oracle-server-agreement.md).
 -   You can view BYOS license rights for your RHEL software products in the Red Hat publisher overview of the Software Asset Workspace. For more information on the Red Hat publisher overview, see [Publisher overview for Red Hat in the Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/publisher-overview-red-hat.md).
 
 ## Cloud-based remediation options
@@ -305,18 +305,9 @@ To remediate non-compliance for cloud installations, the Software Asset Manageme
 
 
 -   **[Microsoft Windows and SQL Server infrastructure details reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/azure-byol-realized-savings-report.md)**  
-You can use the [[azure-byol-realized-savings-report|Microsoft Windows and SQL Server infrastructure details reports]] to gain visibility into the SQL Server and Windows Server deployments and infrastructure for different cloud providers including Microsoft Azure, AWS, and GCP.
+You can use the Microsoft Windows and SQL Server infrastructure details reports to gain visibility into the SQL Server and Windows Server deployments and infrastructure for different cloud providers including Microsoft Azure, AWS, and GCP.
 -   **[Core infrastructure suite \(CIS\) support for BYOL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/cis-byol.md)**  
 Use your on-premise CIS entitlements to license Windows Server installations on cloud platforms such as AWS and Microsoft Azure.
 
 **Parent Topic:**[Exploring Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/explore-sam-workspace.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[c_Models|Models]]
-- [[cloud-insights-landing-page|Cloud Cost Management]]
-- [[sam-workspace-workbench|License usage view]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[oracle-server-agreement|Oracle DB Server Deployments per Agreement report]]
-- [[azure-byol-realized-savings-report|Microsoft Windows and SQL Server infrastructure details reports]]

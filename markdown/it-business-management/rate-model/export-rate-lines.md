@@ -44,7 +44,7 @@ The number of criteria columns depends on the number of attributes added in the 
 1.  Open a rate model by performing one of the following actions:
 
     -   Navigate to **All** &gt; **Project Administration** &gt; **Rate Model** &gt; **All**.
-    -   Navigate to **All** &gt; **[[time-sheets|Time Sheets]]** &gt; **Rate Model** &gt; **All**.
+    -   Navigate to **All** &gt; **Time Sheets** &gt; **Rate Model** &gt; **All**.
 2.  On the Rate Model form, select the **View Rate Lines** related link.
 
 3.  Select the more actions icon \(\[Omitted image "MoreActionsIcon.png"\] Alt text: More actions icon\) and then select the **Export to CSV** option.
@@ -68,6 +68,3 @@ All rate lines in the rate model are exported to the file. If there is no rate l
 
 **Parent Topic:**[Rate Models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/rate-model/rate-model.md)
 
-## Related
-
-- [[time-sheets|Time Sheets]]

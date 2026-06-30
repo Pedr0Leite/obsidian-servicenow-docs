@@ -14,7 +14,7 @@ breadcrumb: [Use, Contractor Service Center, Health and Safety, Employee Service
 
 # Log in to the Contractor Service Center for the first time as a contractor
 
-You can log in to the [[hs-contractor-service-center-landing-page|Contractor Service Center]] and create various [[health-safety-overview|health and safety]] requests, or access knowledge articles.
+You can log in to the Contractor Service Center and create various health and safety requests, or access knowledge articles.
 
 ## Before you begin
 
@@ -38,13 +38,8 @@ Navigate on the contractor service center to perform various tasks to qualify yo
 -   Submit a safety incident to report it to the safety department for an investigation. For more information, see [Submit a safety incident as an employee](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/submit-hs-incident-observation.md).
 -   Submit a safety observation to report it to the safety department for an investigation. For more information, see [Submit a safety observation as an employee](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/submit-hs-safety-observation.md).
 -   Submit a permit-to-work request to carry out the job with significant risk. For more information, see [Create a permit-to-work request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-create-permit-to-work-request.md).
--   Submit a [[hs-job-safety-analysis|job safety analysis]] \(JSA\) to identify potential hazards and control measures related to these hazards at your point-of-work. For more information, see [Submit a JSA from Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-submit-jsa-emp-center.md).
+-   Submit a job safety analysis \(JSA\) to identify potential hazards and control measures related to these hazards at your point-of-work. For more information, see [Submit a JSA from Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-submit-jsa-emp-center.md).
 -   Access and view safety register documents for chemicals and asbestos. For more information, see [Access a safety register document in Employee center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-view-safety-register-docs-ec.md).
 
 **Parent Topic:**[Using the Contractor Service Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contractor-service-center/hs-using-contractor-service-center.md)
 
-## Related
-
-- [[hs-contractor-service-center-landing-page|Contractor Service Center]]
-- [[health-safety-overview|Health and Safety]]
-- [[hs-job-safety-analysis|Job safety analysis]]

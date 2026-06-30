@@ -22,10 +22,8 @@ Role required: sn\_customerservice\_agent
 
 1.  Navigate to **All** &gt; **Workspace Experience** &gt; **Workspaces**.
 
-2.  Select **[[csm-workspaces-configure|CSM Configurable Workspace]]**.
+2.  Select **CSM Configurable Workspace**.
 
     The workspace opens in a new browser tab.
 
-## Related
 
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

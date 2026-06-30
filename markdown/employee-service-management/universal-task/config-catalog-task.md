@@ -26,7 +26,7 @@ You can add filters to manage the catalog items that are available to a user. Fo
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[universal-task-landing|Universal Task]]** &gt; **Administration** &gt; **Catalog Task Configuration**.
+1.  Navigate to **All** &gt; **Universal Task** &gt; **Administration** &gt; **Catalog Task Configuration**.
 
 2.  Click **New**.
 
@@ -53,6 +53,3 @@ You can add filters to manage the catalog items that are available to a user. Fo
 
 **Next topic:**[Configure the roles to view employee forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/ut-config-empform-view-roles.md)
 
-## Related
-
-- [[universal-task-landing|Universal Task]]

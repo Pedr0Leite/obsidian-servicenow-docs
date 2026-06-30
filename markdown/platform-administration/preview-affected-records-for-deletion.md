@@ -20,13 +20,13 @@ Role required: admin
 
 ## About this task
 
-Deleting records in a table also deletes records from tables that extend or [[reference-email-admin|reference]] the source table. Preview the affected records before you execute a delete job and learn about other tables that are impacted.
+Deleting records in a table also deletes records from tables that extend or reference the source table. Preview the affected records before you execute a delete job and learn about other tables that are impacted.
 
 Up to three levels of cascaded records are deleted when the job is executed. For example, if the preview identifies incidents that match the conditions, it will also delete any problems that reference those incidents, defects that reference those problems, and test records that reference the defects. If sys\_attachment and sys\_attachment\_docs table records are associated with the incidents, those records might not appear in the preview but they are deleted as well.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System [[c_DataManagement|Data Management]]** &gt; **Delete jobs**.
+1.  Navigate to **All** &gt; **System Data Management** &gt; **Delete jobs**.
 
 2.  Select a delete job record.
 
@@ -39,13 +39,7 @@ Up to three levels of cascaded records are deleted when the job is executed. For
 
 ## What to do next
 
-[[schedule-execute-job-delete-records|Schedule or execute a job to delete records]]
+[Schedule or execute a job to delete records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/schedule-execute-job-delete-records.md)
 
-**Parent Topic:**[[deleting-records-safely|Deleting records safely in Core UI]]
+**Parent Topic:**[Deleting records safely in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/deleting-records-safely.md)
 
-## Related
-
-- [[schedule-execute-job-delete-records|Schedule or execute a job to delete records]]
-- [[deleting-records-safely|Deleting records safely in Core UI]]
-- [[reference-email-admin|Reference]]
-- [[c_DataManagement|Data Management]]

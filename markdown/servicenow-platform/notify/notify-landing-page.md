@@ -14,7 +14,7 @@ breadcrumb: [Manage service capabilities, Extend ServiceNow AI Platform capabili
 
 # Notify
 
-Notify provides support for SMS and voice channels on the ServiceNow platform for communicating internally with team members and externally with customers and contractors. The plug-in also provides APIs and [[c_WorkflowActivities|workflow activities]] to achieve the above. Some customers directly make use of the APIs in their products, and others via products like Major Incident Management, On-Call and CTI Softphone.
+Notify provides support for SMS and voice channels on the ServiceNow platform for communicating internally with team members and externally with customers and contractors. The plug-in also provides APIs and workflow activities to achieve the above. Some customers directly make use of the APIs in their products, and others via products like Major Incident Management, On-Call and CTI Softphone.
 
 <table id="simpletable_g33_wwg_vt" class="simpletableBody"><tbody><tr><td>
 
@@ -52,7 +52,7 @@ Use
 
 </td><td>
 
-[[reference|Reference]]
+Reference
 
  -   [Differences between Notify-Twilio and Notify-Twilio Direct](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/difference-notify-twilio-direct.md)
 -   [Notify workflow activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/c_NotifyActivities.md)
@@ -62,8 +62,3 @@ Use
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_WorkflowActivities|Workflow activities]]
-- [[reference|Reference]]

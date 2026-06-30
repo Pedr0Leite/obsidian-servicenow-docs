@@ -42,7 +42,7 @@ Click the options in the top right of the CAB calendar to display the calendar i
 
 </td></tr><tr><td id="d356291e95">
 
-**[[view-cab-meeting-details|View CAB meeting details]] at a glance**
+**View CAB meeting details at a glance**
 
 </td><td>
 
@@ -60,6 +60,3 @@ Click the meeting you want to attend and click **Open** to launch the meeting.
 </table>
 **Parent Topic:**[Working with the CAB Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/using-cab-workbench-cf.md)
 
-## Related
-
-- [[view-cab-meeting-details|View CAB meeting details]]

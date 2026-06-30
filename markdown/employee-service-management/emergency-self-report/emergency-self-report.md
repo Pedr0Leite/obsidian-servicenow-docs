@@ -18,7 +18,7 @@ During a crisis, the ServiceNow® Emergency Self Report application gives users 
 
 In contrast to email or phone reporting and manual data consolidation, Emergency Self Report provides a digital workflow that captures and automatically rolls up user reporting data for analysis and action. The application offers benefits for various people within the organization, with different views displayed for various roles.
 
--   **Use guided setup to implement [[safe-workplace|Safe Workplace]] suite apps**
+-   **Use guided setup to implement Safe Workplace suite apps**
 
     The Safe Workplace guided setup provides a sequence of tasks that help you configure the Safe Workplace and Emergency Response Management applications on your ServiceNow instance. To open the Safe Workplace guided setup, navigate to **Guided Setup** &gt; **Safe Workplace Guided Setup**. For more information about using the guided setup interface, see [Using guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/guided-setup.md).
 
@@ -115,7 +115,7 @@ ServiceNow is offering this application to government agencies and their authori
 All decisions in connection with the implementation of this application are at the sole decision of the government agency utilizing this application. Agencies remain solely responsible for complying with their legal obligations under applicable laws and regulations, including \(but not limited to\) data protection and employment laws and regulations, and should modify any language within the templates provided to meet the agency’s specific requirements.
 
 -   **[Set up Emergency Self Report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-self-report/set-up-emergency-self-report.md)**  
-To [[set-up-emergency-self-report|set up Emergency Self Report]], install the application. Then configure user access, a dedicated knowledge base, and system properties.
+To set up Emergency Self Report, install the application. Then configure user access, a dedicated knowledge base, and system properties.
 -   **[Report and track health statuses during an emergency](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-self-report/use-emergency-self-report.md)**  
 Emergency Self Report is used by users to self-report their health status, by managers to track the health status of their users, and by response teams to view the status for all users and sort the data for analysis and action.
 -   **[View self-reported user HR tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-self-report/view-hr-tasks-response-team.md)**  
@@ -125,10 +125,5 @@ As a crisis task administrator, upload a spreadsheet of self-reported health sta
 -   **[Domain separation for Emergency Self Report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-self-report/emergency-self-report-domain-separation.md)**  
 The following table lists the domain separation use cases for service providers \(SPs\) using this application.
 
-**Parent Topic:**[[emergency-response-management|Emergency Response Management]]
+**Parent Topic:**[Emergency Response Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-response-management.md)
 
-## Related
-
-- [[emergency-response-management|Emergency Response Management]]
-- [[safe-workplace|Safe Workplace]]
-- [[set-up-emergency-self-report|Set up Emergency Self Report]]

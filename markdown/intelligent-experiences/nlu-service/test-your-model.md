@@ -14,11 +14,11 @@ breadcrumb: [Test and publish your model, Model management, Natural Language Und
 
 # Test your model
 
-Test your [[nlu-landing|Natural Language Understanding]] \(NLU\) model against its default test set. Testing helps determine how your model is performing with the current content.
+Test your Natural Language Understanding \(NLU\) model against its default test set. Testing helps determine how your model is performing with the current content.
 
 ## Before you begin
 
--   Make sure that the NLU Model Builder - Core plugin, NLU Model Builder plugin, [[nlu-workbench-advanced-features|NLU Workbench - Advanced Features]] plugin and [[predictive-intelligence-landing|Predictive Intelligence]] plugin are all installed and activated.
+-   Make sure that the NLU Model Builder - Core plugin, NLU Model Builder plugin, NLU Workbench - Advanced Features plugin and Predictive Intelligence plugin are all installed and activated.
 -   Have a trained model for Virtual Agent or AI Search. For more information, see [Build and train your model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/managing-model-content.md).
 -   Have a test set for testing models. For more information, see [Test set creation and management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/nlu-test-set-creation-management.md).
 -   Role required: nlu\_editor, nlu\_admin, or admin. The editor must be assigned to the model.
@@ -42,7 +42,7 @@ In this example scenario, you've trained your model and want to assess the perfo
 
 2.  Select the tab for your model's application, then the name of the model you want to test.
 
-3.  On the model overview's **Model details** tab, locate the card for the **[[testing-your-model|Test and publish your model]]** phase, then click **View phase**.
+3.  On the model overview's **Model details** tab, locate the card for the **Test and publish your model** phase, then click **View phase**.
 
 4.  Select **Run new test**.
 
@@ -71,9 +71,3 @@ You can see previous test results by clicking **view the test history** on **Tes
 
 Use the results to edit and improve your model's content. When you are satisfied with the results, publish your model to make it available to consuming applications such as Virtual Agent.
 
-## Related
-
-- [[nlu-landing|Natural Language Understanding]]
-- [[nlu-workbench-advanced-features|NLU Workbench - Advanced Features]]
-- [[predictive-intelligence-landing|Predictive Intelligence]]
-- [[testing-your-model|Test and publish your model]]

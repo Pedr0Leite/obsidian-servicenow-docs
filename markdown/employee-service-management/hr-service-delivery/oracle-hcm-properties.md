@@ -14,7 +14,7 @@ breadcrumb: [Configure, HR Service Delivery integration with Oracle Cloud HCM, I
 
 # Configure properties
 
-Once you set up [[integration-hr-oracle-hcm|HR Service Delivery integration with Oracle Cloud HCM]], the source record for the Oracle HCM Cloud application is automatically created in the [[hr-integrations-framework|Enterprise Service Management Integrations Framework]], Source module. The integrations source properties can be used to configure the HR Service Delivery integration with Oracle Cloud HCM.
+Once you set up HR Service Delivery integration with Oracle Cloud HCM, the source record for the Oracle HCM Cloud application is automatically created in the Enterprise Service Management Integrations Framework, Source module. The integrations source properties can be used to configure the HR Service Delivery integration with Oracle Cloud HCM.
 
 These properties are available for HR Service Delivery integration with Oracle Cloud HCM.
 
@@ -84,8 +84,3 @@ Default value: False
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[integration-hr-oracle-hcm|HR Service Delivery integration with Oracle Cloud HCM]]
-- [[hr-integrations-framework|Enterprise Service Management Integrations Framework]]

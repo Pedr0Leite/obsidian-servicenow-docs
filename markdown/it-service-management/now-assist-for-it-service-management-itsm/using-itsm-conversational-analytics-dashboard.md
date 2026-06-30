@@ -15,7 +15,7 @@ breadcrumb: [Now Assist for IT Service Management \(ITSM\), IT Service Managemen
 
 # Use ITSM Virtual Agent Analytics dashboard
 
-Use the [[itsm-virtual-agent|ITSM Virtual Agent]] analytics dashboard to analyze chats from customer interactions, what ITSM Virtual Agent topics users are interested in, and measure customer satisfaction using AI transcripts and user feedback.
+Use the ITSM Virtual Agent analytics dashboard to analyze chats from customer interactions, what ITSM Virtual Agent topics users are interested in, and measure customer satisfaction using AI transcripts and user feedback.
 
 Access the ITSM Virtual Agent analytics dashboard from SOW or Assistant Designer with the appropriate roles.
 
@@ -40,7 +40,7 @@ ITIL \(itil\) and the AI Engagement Viewer \(sn\_na\_analytics.ai\_engmt\_viewer
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 2.  Select the Dashboard icon \[Omitted image "now-assist-itsm-va-dashboard-icon.png"\] Alt text:.
-3.  In the [[it-agent-dashboard|IT Agent Dashboard]], search for and select **ITSM Virtual Agent analytics**.
+3.  In the IT Agent Dashboard, search for and select **ITSM Virtual Agent analytics**.
 
 The ITSM Virtual Agent analytics dashboard displays.
 
@@ -72,7 +72,3 @@ As an admin, you can refer to the indicators, schedule jobs, and scripts used in
 
 **Parent Topic:**[Now Assist for IT Service Management \(ITSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/now-assist-itsm.md)
 
-## Related
-
-- [[itsm-virtual-agent|ITSM Virtual Agent]]
-- [[it-agent-dashboard|it agent dashboard]]

@@ -14,15 +14,15 @@ breadcrumb: [Configuration tasks for knowledge demand insights, Configuring Know
 
 # Configure Knowledge Demand Insights
 
-Configure the [[knowledge-demand-insights|Knowledge Demand Insights]] feature to identify which topics are missing knowledge articles and creating actionable knowledge gaps for missing topics.
+Configure the Knowledge Demand Insights feature to identify which topics are missing knowledge articles and creating actionable knowledge gaps for missing topics.
 
 ## Before you begin
 
-Activate the [[predictive-intelligence-for-km|Predictive Intelligence for Knowledge Management]] plugin \(com.snc.knowledge\_ml\). For more information, see [Predictive Intelligence for Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/predictive-intelligence-for-km.md) and [Additional plugins for Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/additional-plugins-km.md).
+Activate the Predictive Intelligence for Knowledge Management plugin \(com.snc.knowledge\_ml\). For more information, see [Predictive Intelligence for Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/predictive-intelligence-for-km.md) and [Additional plugins for Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/additional-plugins-km.md).
 
 ## About this task
 
-To configure the Knowledge Demand Insights feature, use the [[knowledge-management|Knowledge Management]] guided setup. The guided setup takes you through the entire setup and configuration process.
+To configure the Knowledge Demand Insights feature, use the Knowledge Management guided setup. The guided setup takes you through the entire setup and configuration process.
 
 This task provides general steps to configure the Knowledge Demand Insights feature. For more information about the feature, see [Knowledge demand insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/knowledge-demand-insights.md).
 
@@ -46,8 +46,3 @@ This task provides general steps to configure the Knowledge Demand Insights feat
 
 [Analyze knowledge gaps from a demand insights dashboard and create knowledge gap feedback tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/analyze-knowledge-gaps-demand-insights.md)
 
-## Related
-
-- [[knowledge-demand-insights|Knowledge demand insights]]
-- [[predictive-intelligence-for-km|Predictive Intelligence for Knowledge Management]]
-- [[knowledge-management|Knowledge Management]]

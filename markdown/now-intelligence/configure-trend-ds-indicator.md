@@ -20,11 +20,11 @@ Role required: None. However, upgraded instances may require pa\_viewer.
 
 ## About this task
 
-**Important:** Only native Data snapshots indicators have this feature. Classic indicators, including ones with Data snapshots enabled, have a time aggregation instead. For more information, see [[select-time-series-aggregation|Select time aggregation in KPI Details]].
+**Important:** Only native Data snapshots indicators have this feature. Classic indicators, including ones with Data snapshots enabled, have a time aggregation instead. For more information, see [Select time aggregation in KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/select-time-series-aggregation.md).
 
 ## Procedure
 
-1.  Open [[kpi-details|KPI Details]] for a native Data snapshots indicator, as described in [[view-kpi-details|View KPI Details]].
+1.  Open KPI Details for a native Data snapshots indicator, as described in [View KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/view-kpi-details.md).
 
 2.  Expand the Trend by menu, which has a label matching the currently selected aggregation period.
 
@@ -36,7 +36,7 @@ Role required: None. However, upgraded instances may require pa\_viewer.
 
     **Important:**
 
-    A date field can be specified only for [[automated-indicators|automated indicators]]. For a formula indicator, you can show only an aggregate total for the selected time period.
+    A date field can be specified only for automated indicators. For a formula indicator, you can show only an aggregate total for the selected time period.
 
 4.  Select a calendar.
 
@@ -51,7 +51,7 @@ Role required: None. However, upgraded instances may require pa\_viewer.
 7.  Press **Apply**.
 
 
-**Parent Topic:**[[kpi-details-components|Examining indicators with KPI Details]]
+**Parent Topic:**[Examining indicators with KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/kpi-details-components.md)
 
 **Related topics**  
 
@@ -72,10 +72,3 @@ Role required: None. However, upgraded instances may require pa\_viewer.
 
 [Access indicator record or scoresheet from KPI Details]()
 
-## Related
-
-- [[select-time-series-aggregation|Select time aggregation in KPI Details]]
-- [[view-kpi-details|View KPI Details]]
-- [[kpi-details-components|Examining indicators with KPI Details]]
-- [[kpi-details|KPI Details]]
-- [[automated-indicators|Automated indicators]]

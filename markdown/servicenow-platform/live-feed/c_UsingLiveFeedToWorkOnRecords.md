@@ -16,16 +16,16 @@ breadcrumb: [Using Live Feed, Live Feed Core UI, Manage people and work capabili
 
 A record feed is associated with a record, such as an incident or change.
 
-[[c_RecordFeeds|Record feeds]] help users collaborate on records by providing a place for anyone who can access the record to share messages and post attachments specific to that record.
+Record feeds help users collaborate on records by providing a place for anyone who can access the record to share messages and post attachments specific to that record.
 
 With record feeds, users can:
 
--   Follow record feeds and post messages in Live Feed. These messages can also be automatically maintained in the comments or [[c_WorkNotes|work notes]] journal fields on records.
+-   Follow record feeds and post messages in Live Feed. These messages can also be automatically maintained in the comments or work notes journal fields on records.
 -   View Live Feed from records.
 -   Work on multiple records from **My Feed**.
--   Access Live Feed team functions, such as sending invitations and subscribing to [[email|email]] notifications.
+-   Access Live Feed team functions, such as sending invitations and subscribing to email notifications.
 
-Any users with access to the record can also use the record feed. By default, record feeds are available on the incident, change, and problem tables. Administrators can [[c_ConfigureRecordFeeds|configure record feeds]] for additional tables.
+Any users with access to the record can also use the record feed. By default, record feeds are available on the incident, change, and problem tables. Administrators can configure record feeds for additional tables.
 
 \[Omitted image "LiveFeedDocumentFuji.png"\] Alt text: Live Feed Document
 
@@ -44,12 +44,5 @@ The Live Feed application creates a document group for each document feed. The d
 
 When a user follows or shows a record on Live Feed, a Live Feed group is automatically created and associated to the record \(if one does not already exist\). The user becomes a member of the group and can use Live Feed to work on the record. If the user can access work notes on the record, the user also becomes a group administrator.
 
-A Live Feed group is also automatically created when a user creates a record on a table that uses [[c_DocumentFeeds|document feeds]], such as the Incident table. The user who creates the record becomes the administrator of the group, and any other user who modifies the same record automatically joins the group.
+A Live Feed group is also automatically created when a user creates a record on a table that uses document feeds, such as the Incident table. The user who creates the record becomes the administrator of the group, and any other user who modifies the same record automatically joins the group.
 
-## Related
-
-- [[c_RecordFeeds|Record feeds]]
-- [[c_WorkNotes|Work notes]]
-- [[email|Email]]
-- [[c_ConfigureRecordFeeds|Configure record feeds]]
-- [[c_DocumentFeeds|Document feeds]]

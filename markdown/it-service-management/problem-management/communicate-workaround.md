@@ -24,7 +24,7 @@ Role required: admin, problem\_admin, problem\_manager or problem\_coordinator
 
 When you communicate a workaround, notification is sent to related incidents that a workaround is available. The Incident process is designed to use the workaround information or to notify the user of the same. For more information on notification, refer [Synchronization between incident and problem records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/sync-btwn-inci-prob.md).
 
-**Note:** The topic applies to Problems where you have activated the [[c_ProblemManagement|Problem Management]] Best Practice — Madrid \(com.snc.best\_practice.problem.madrid\) plugin.
+**Note:** The topic applies to Problems where you have activated the Problem Management Best Practice — Madrid \(com.snc.best\_practice.problem.madrid\) plugin.
 
 ## Procedure
 
@@ -51,7 +51,7 @@ Role required: itil or admin
 
 ### About this task
 
-The **Communicate Workaround** related link on the [[problem-form|Problem form]] eliminates the need to manually update each incident related to the Problem.
+The **Communicate Workaround** related link on the Problem form eliminates the need to manually update each incident related to the Problem.
 
 ### Procedure
 
@@ -67,7 +67,4 @@ The **Communicate Workaround** related link on the [[problem-form|Problem form]]
 
     If group on-call rotation scheduling is in effect when you communicate a workaround, the system stops the escalations on the associated incidents. Escalation stops because a workaround is available. This action effectively communicates knowledge to the appropriate audience, but does not create a knowledge article.
 
-## Related
 
-- [[c_ProblemManagement|Problem Management]]
-- [[problem-form|Problem form]]

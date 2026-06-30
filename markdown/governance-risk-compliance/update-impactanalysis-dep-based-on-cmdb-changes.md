@@ -12,7 +12,7 @@ breadcrumb: [Structured workflows for BIAs, Manage, Business Continuity Manageme
 
 # Scheduling an auto-update of dependencies
 
-You can schedule an auto-update of the dependencies in the [[bia-uib|business impact analysis]] based on the source data and relationships in the CMDB. You can receive an email notification with details of the BIA dependency updates from the BCM application.
+You can schedule an auto-update of the dependencies in the business impact analysis based on the source data and relationships in the CMDB. You can receive an email notification with details of the BIA dependency updates from the BCM application.
 
 \[Omitted video\] Description: An overview of how to update dependencies
 
@@ -20,7 +20,7 @@ The video shows how BCM Managers can use the CMDB as a source to update dependen
 
 ## Scheduling an auto-update of the dependencies
 
-The BCM administrators can schedule an auto-update of the BIA dependencies in the Impact analysis dependency update configuration module, based on the source data and relationships in the CMDB. You can access the auto-update configuration module by navigating to **Business Continuity Workspace** &gt; **General [[Administration|Administration]]** &gt; **Impact analysis dependency update configuration**.
+The BCM administrators can schedule an auto-update of the BIA dependencies in the Impact analysis dependency update configuration module, based on the source data and relationships in the CMDB. You can access the auto-update configuration module by navigating to **Business Continuity Workspace** &gt; **General Administration** &gt; **Impact analysis dependency update configuration**.
 
 The Impact analysis dependency update configuration module is shown in the example.
 
@@ -38,13 +38,13 @@ The source for the BIA dependencies is CMDB.
 
 Setting up the Impact analysis dependency update configuration module is a one-time activity. Once the sources are configured in the Impact analysis dependency update configuration module, the dependency updates are synchronized in the BIA.
 
-For more information on setting up the Impact analysis dependency update configuration module, see [[imp-ana-dep-update-config-module|Configuring impact analysis dependency updates]].
+For more information on setting up the Impact analysis dependency update configuration module, see [Configuring impact analysis dependency updates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/imp-ana-dep-update-config-module.md).
 
 ## Using the updated dependencies with the Xanadu release
 
 Beginning with the Xanadu release, you can use the updated dependencies from the latest BIA record to conduct a dependency assessment on an asset. Information from the columns labeled Related item BIA, Related item Recovery Time Objective \(RTO\), Related item Recovery Point Objective \(RPO\), and Related item Recovery Tier is used to ascertain the required recovery timeframe and data backup needs, which are then displayed in the Required Recovery Timeframe and Required Data Backup columns of the BIA record.
 
-For more information on the source BIA records option in the Dependency configuration modules, see [[conf-plan-dep-update-confi-module|Set up Planning dependency update configuration]].
+For more information on the source BIA records option in the Dependency configuration modules, see [Set up Planning dependency update configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/conf-plan-dep-update-confi-module.md).
 
 ## Using the scheduled job to auto-update the dependencies
 
@@ -92,7 +92,7 @@ See the workflow for using the **Update dependencies** UI action and updating th
     -   If the BIA record matches any configuration filter, the application gets the dependencies in real time according to the sources in the configuration. Then, update the BIA record according to the **Fields to be updated** in the configuration. The BIA workflow then continues for the next steps.
     -   If the BIA record does not match the configuration filter, the BIA workflow then continues for the next steps.
 
-For more information on updating the dependencies manually, see [[imp-analysis-dep-update-config|Update the BIA dependencies]].
+For more information on updating the dependencies manually, see [Update the BIA dependencies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/imp-analysis-dep-update-config.md).
 
 **Note:**
 
@@ -100,7 +100,7 @@ For more information on updating the dependencies manually, see [[imp-analysis-d
 
 ## Snapshot records of the BIA
 
-A snapshot record is created for each BIA update either with the scheduled job or with the **Update dependencies** manual UI action. If any new dependencies are added, updated, or deleted for a BIA, the snapshot record displays the delta of the changes. The snapshot records are listed in the Pending updates module in the Business Impact Analysis [[list-view-uib-ws|list view]] of the Business Continuity Workspace. A snapshot record is shown in the example.
+A snapshot record is created for each BIA update either with the scheduled job or with the **Update dependencies** manual UI action. If any new dependencies are added, updated, or deleted for a BIA, the snapshot record displays the delta of the changes. The snapshot records are listed in the Pending updates module in the Business Impact Analysis list view of the Business Continuity Workspace. A snapshot record is shown in the example.
 
 \[Omitted image "snapshot-record.png"\] Alt text: Snapshot record.
 
@@ -127,20 +127,10 @@ A user who can update the dependency assessment can import the dependency update
 
 When you perform a business impact analysis \(BIA\) on an asset, you must evaluate the dependencies of the BIA by performing a dependency assessment. If the dependencies in the CMDB are updated, importing them manually in a BIA can be a tedious activity. Beginning with the Australia release, the Data Relationships Framework application \(com.sn\_app\_grc\_relationship\_config\) supports the BCM application with the underlying framework to fetch the dependencies in the BIA. The Data Relationships Framework application is installed with the BCM application by default.
 
-For more information on the Data Relationships Framework, see [[data-relationship-framework|Data Relationships Framework]].
+For more information on the Data Relationships Framework, see [Data Relationships Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/data-relationship-framework.md).
 
 -   **[Update the BIA dependencies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/imp-analysis-dep-update-config.md)**  
 Update the business impact analysis \(BIA\) dependencies manually from the snapshot if the scheduled job is not activated in the Impact analysis dependency update configuration module. You can update the dependencies in an active BIA.
 
-**Parent Topic:**[[bia-tasks-performed-by-bia-owner|Structured workflows for BIAs]]
+**Parent Topic:**[Structured workflows for BIAs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bia-tasks-performed-by-bia-owner.md)
 
-## Related
-
-- [[imp-ana-dep-update-config-module|Configuring impact analysis dependency updates]]
-- [[conf-plan-dep-update-confi-module|Set up Planning dependency update configuration]]
-- [[imp-analysis-dep-update-config|Update the BIA dependencies]]
-- [[data-relationship-framework|Data Relationships Framework]]
-- [[bia-tasks-performed-by-bia-owner|Structured workflows for BIAs]]
-- [[bia-uib|Business impact analysis]]
-- [[Administration|Administration]]
-- [[list-view-uib-ws|List view]]

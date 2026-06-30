@@ -20,7 +20,7 @@ Role required: pa\_power\_user or higher
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Indicators**.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Indicators**.
 
 2.  Select **Create indicator**.
 
@@ -32,7 +32,7 @@ Role required: pa\_power\_user or higher
 
     -   **Automated indicator**
 
-        An automated indicator uses an indicator source as its data set. The indicator source specifies a table or database view, conditions for filtering records from that source, and the frequency at which you expect to display the data. The indicator applies an aggregator and optional conditions to this data. If you have Data snapshots enabled on your instance, you can base [[automated-indicators|automated indicators]] on Data snapshots sources, instead.
+        An automated indicator uses an indicator source as its data set. The indicator source specifies a table or database view, conditions for filtering records from that source, and the frequency at which you expect to display the data. The indicator applies an aggregator and optional conditions to this data. If you have Data snapshots enabled on your instance, you can base automated indicators on Data snapshots sources, instead.
 
     -   **Formula indicator**
 
@@ -66,7 +66,3 @@ Follow the instructions for the form that opens:
 -   [Manual indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_CreateAManualIndicator.md)
 -   [Using Performance Analytics with external data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/pa-external-data.md)
 
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[automated-indicators|Automated indicators]]

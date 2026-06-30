@@ -16,7 +16,7 @@ breadcrumb: [Classic approvals, Exploring Service Administration, Service Admini
 
 It is possible to manually add approvers to a request.
 
-Additional approvers can be added by clicking the **Edit** button in the Approvers section near the bottom of a request. When an approver is added manually, the status for that approver defaults to **Not Yet Requested**. When the status of the approver changes to **Requested**, the approver is sent an [[email|email]] requesting approval action.
+Additional approvers can be added by clicking the **Edit** button in the Approvers section near the bottom of a request. When an approver is added manually, the status for that approver defaults to **Not Yet Requested**. When the status of the approver changes to **Requested**, the approver is sent an email requesting approval action.
 
 **Parent Topic:**[Classic approvals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/r_Approvals.md)
 
@@ -25,6 +25,3 @@ Additional approvers can be added by clicking the **Edit** button in the Approve
 
 [Classic approvals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/r_Approvals.md)
 
-## Related
-
-- [[email|Email]]

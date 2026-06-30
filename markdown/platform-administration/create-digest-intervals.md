@@ -12,7 +12,7 @@ breadcrumb: [Email digests, Email and SMS notifications, System notifications, N
 
 # Create or modify email digest intervals
 
-Admins can create or modify the email digest intervals \(length of time\) during which activity for a selected notification is accumulated in an email digest. Users select a digest interval when they enable an email digest in their [[preferences-landing|notification preferences]].
+Admins can create or modify the email digest intervals \(length of time\) during which activity for a selected notification is accumulated in an email digest. Users select a digest interval when they enable an email digest in their notification preferences.
 
 ## Before you begin
 
@@ -40,7 +40,7 @@ Before adding an email digest interval, review the base system digest intervals 
 
 3.  If you created an interval, select **Submit**, or if you changed an interval, select **Update**.
 
-    The system updates the Digest Intervals \[sys\_email\_digest\_interval\] table with the new or modified interval. The digest interval is listed as an option in the notification preferences \(From your user profile, navigate to **Preferences &gt; [[notifications|Notifications]]** when a user enables a digest for the notification.
+    The system updates the Digest Intervals \[sys\_email\_digest\_interval\] table with the new or modified interval. The digest interval is listed as an option in the notification preferences \(From your user profile, navigate to **Preferences &gt; Notifications** when a user enables a digest for the notification.
 
 4.  To delete an interval, select the interval to be deleted in the Digest Intervals \[sys\_email\_digest\_interval\] table and select **Delete**.
 
@@ -49,19 +49,12 @@ Before adding an email digest interval, review the base system digest intervals 
 
 ## What to do next
 
-Determine the email notifications that can be delivered in a digest and [[configure-email-digest|configure the email digest content]] for those notifications.
+Determine the email notifications that can be delivered in a digest and [configure the email digest content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-email-digest.md) for those notifications.
 
-**Parent Topic:**[[email-digests|Email digests]]
+**Parent Topic:**[Email digests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/email-digests.md)
 
 **Related topics**  
 
 
-[[email-digest-properties|Email digest properties]]
+[Email digest properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/email-digest-properties.md)
 
-## Related
-
-- [[configure-email-digest|Configure email digests]]
-- [[email-digests|Email digests]]
-- [[email-digest-properties|Email digest properties]]
-- [[preferences-landing|Notification Preferences]]
-- [[notifications|Notifications]]

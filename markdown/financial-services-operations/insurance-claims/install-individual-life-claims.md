@@ -14,7 +14,7 @@ breadcrumb: [Configure, Individual Life Claims, Exploring insurance claims appli
 
 # Install Individual Life Claims
 
-If you have the admin role, you can install the [[individual-life-claims-landing-page|Individual Life Claims]] application \(sn\_ins\_claim\_indl\). The application includes demo data and installs related ServiceNow Store applications and plugins that aren’t already installed.
+If you have the admin role, you can install the Individual Life Claims application \(sn\_ins\_claim\_indl\). The application includes demo data and installs related ServiceNow Store applications and plugins that aren’t already installed.
 
 ## Before you begin
 
@@ -57,6 +57,3 @@ The following items are installed with Individual Life Claims:
 
 **Parent Topic:**[Setting up Individual Life Claims](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/setting-up-individual-life-claims.md)
 
-## Related
-
-- [[individual-life-claims-landing-page|Individual Life Claims]]

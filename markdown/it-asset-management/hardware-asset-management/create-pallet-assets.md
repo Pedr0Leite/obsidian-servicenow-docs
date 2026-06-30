@@ -14,7 +14,7 @@ breadcrumb: [Manage your inventory through pallet assets, Use, Hardware Asset Ma
 
 # Create pallet assets
 
-Create a pallet asset from the [[asset-estate-view-am|Asset estate view]] in the [[using-ham-workspace|Hardware Asset Workspace]] to track and manage assets in the inventory.
+Create a pallet asset from the Asset estate view in the Hardware Asset Workspace to track and manage assets in the inventory.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: asset
 
 ## About this task
 
-While creating a pallet asset, only the Details, Disposal, Activities, and Audit sections of the asset form appear. Although audit-related fields are shown on the asset form, you can't conduct the audit of [[pallet-assets|pallet assets]]. You can specify the aisle and space details to give the exact location of the pallet in a stockroom.
+While creating a pallet asset, only the Details, Disposal, Activities, and Audit sections of the asset form appear. Although audit-related fields are shown on the asset form, you can't conduct the audit of pallet assets. You can specify the aisle and space details to give the exact location of the pallet in a stockroom.
 
 ## Procedure
 
@@ -196,7 +196,7 @@ Disposal order number
 
 </td><td>
 
-This field is automatically set to the unique number assigned to the asset disposal order.**Note:** This field appears only if you have installed [[ham-landing-page|Hardware Asset Management]] from the ServiceNow Store.
+This field is automatically set to the unique number assigned to the asset disposal order.**Note:** This field appears only if you have installed Hardware Asset Management from the ServiceNow Store.
 
 </td></tr><tr><td>
 
@@ -306,9 +306,3 @@ The pallet that you created is added to the list shown in the Pallets tab.
 
 [Using pallet assets for managing inventory]()
 
-## Related
-
-- [[asset-estate-view-am|Asset estate view]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[pallet-assets|Pallet assets]]
-- [[ham-landing-page|Hardware Asset Management]]

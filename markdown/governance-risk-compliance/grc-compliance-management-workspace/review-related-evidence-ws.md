@@ -14,7 +14,7 @@ breadcrumb: [Manage evidence requests using the Compliance Workspace, Use, GRC C
 
 # Review related evidence using the Compliance Workspace
 
-The [[evidence-request|Evidence Request]] feature includes a related list called Related Evidence that is not visible by default.
+The Evidence Request feature includes a related list called Related Evidence that is not visible by default.
 
 ## Before you begin
 
@@ -47,6 +47,4 @@ The Related Evidence related list is available to a wide variety of forms throug
 
 4.  Click **Save**.
 
-## Related
 
-- [[evidence-request|Evidence request]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure Legal Matter Management with outside counsel, Configure, 
 
 # Configure the currency symbol for activity stream
 
-Configure currency to be displayed in the [[activity-lxp|activity]] stream.
+Configure currency to be displayed in the activity stream.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ By default, the activity stream displays currency and price fields converted int
 
 **Parent Topic:**[Configure Legal Matter Management to engage with outside counsel using Legal Tracker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/configurations-for-legal-tracker-integration.md)
 
-## Related
-
-- [[activity-lxp|Activity]]

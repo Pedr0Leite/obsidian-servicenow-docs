@@ -32,11 +32,8 @@ Following are API permissions requested by the ServiceNow® integration with Mic
 |Offline\_access \(delegated\)|This permission is required for the use of Tab SSO, to enable user authentication with a Microsoft Teams tab.|
 |openid \(delegated\)|This permission is required for accessing the ID tokens.|
 |email \(delegated\)|This permission is required to add the user's primary email address to the ID token.|
-|TeamsActivity.Send \(delegated\)|This permission is required to send a team work [[activity-lxp|activity]] to user.|
+|TeamsActivity.Send \(delegated\)|This permission is required to send a team work activity to user.|
 |profile \(delegated\)|This permission is required for giving the basic user details.|
 
 **Parent Topic:**[ServiceNow for Microsoft Teams reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/reference-sn-teams.md)
 
-## Related
-
-- [[activity-lxp|Activity]]

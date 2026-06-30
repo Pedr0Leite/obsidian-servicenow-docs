@@ -14,7 +14,7 @@ breadcrumb: [Reference for Dynamic Translation, Dynamic Translation, Translation
 
 # Limitations in Dynamic Translation
 
-You must be aware of a few limitations when you [[integrate-translation-service-provider|integrate with a translation service provider]] to enable the [[dynamic-translation|Dynamic Translation]] experience.
+You must be aware of a few limitations when you integrate with a translation service provider to enable the Dynamic Translation experience.
 
 ## Length limitations for translation service providers
 
@@ -33,7 +33,3 @@ For information about languages supported by Microsoft for translation, see the 
 
 **Parent Topic:**[Reference for Dynamic Translation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/reference-for-dynamic-translation.md)
 
-## Related
-
-- [[integrate-translation-service-provider|Integrate with a translation service provider]]
-- [[dynamic-translation|Dynamic translation]]

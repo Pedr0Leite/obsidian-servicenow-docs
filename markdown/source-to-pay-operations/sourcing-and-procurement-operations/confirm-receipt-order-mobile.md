@@ -14,7 +14,7 @@ breadcrumb: [Shopper to-dos on your mobile, Using Shopping Hub Mobile, Use, Sour
 
 # Confirm receipt of your order from your mobile device
 
-Provide confirmation of receipt of the items you ordered that are in pending receipt state, from your mobile application, so that payment is processed to the [[supplier|supplier]] accordingly. If you have not received the complete order, you can confirm receipt of a part of your order as well with the date when you received them.
+Provide confirmation of receipt of the items you ordered that are in pending receipt state, from your mobile application, so that payment is processed to the supplier accordingly. If you have not received the complete order, you can confirm receipt of a part of your order as well with the date when you received them.
 
 ## Before you begin
 
@@ -74,6 +74,3 @@ Tap on the line item to view the Details screen with the list of all the items p
 
 **Parent Topic:**[Shopper to-dos on your mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shopper-todos-mobile.md)
 
-## Related
-
-- [[supplier|Supplier]]

@@ -14,7 +14,7 @@ breadcrumb: [Sidebar and Microsoft Teams, Configuring Sidebar, Sidebar, Conversa
 
 # Enable or configure the Microsoft Teams integration
 
-Enable or configure the Microsoft Teams integration as part of integrating [[sidebar-landing|Sidebar]] with Microsoft Teams.
+Enable or configure the Microsoft Teams integration as part of integrating Sidebar with Microsoft Teams.
 
 ## Before you begin
 
@@ -22,13 +22,13 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings**.
 
 2.  Select Sidebar.
 
 3.  On the Integrations card:
 
-    -   If [[sidebar-teams-overview|Sidebar and Microsoft Teams]] are not already integrated, select **Set up**.
+    -   If Sidebar and Microsoft Teams are not already integrated, select **Set up**.
     -   If Sidebar and Microsoft Teams are already integrated, select **View configuration** from the Manage drop-down list.
 4.  On the Microsoft Teams Integration screen, slide the activate toggle to allow or prevent Microsoft Teams users from participating in Sidebar discussions.
 
@@ -101,8 +101,4 @@ Web page that appears after you successfully log in to Microsoft Teams. If this 
 </td></tr></tbody>
 </table>6.  Select **Save**.
 
-## Related
 
-- [[sidebar-landing|Sidebar]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[sidebar-teams-overview|Sidebar and Microsoft Teams]]

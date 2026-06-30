@@ -29,7 +29,7 @@ The following table lists the agents that are used in the APO.
 
 |Tool type|Execution mode|Name|Description|
 |---------|--------------|----|-----------|
-|Scripts|Autonomous|Invoice Inquiry resolution generator and case update|Collects the data related to invoice, invoice lines, invoice [[create-tax-lines-apo|tax lines]], exceptions, [[purchase-order-table|purchase order]], purchase order line tables, knowledge base tables and generates resolution for an inquiry case and auto-updates the inquiry case record with the generated resolution. If invoice is not passed as input, the information is collected from the knowledge base article \(with the knowledge base configured in system properties\).|
+|Scripts|Autonomous|Invoice Inquiry resolution generator and case update|Collects the data related to invoice, invoice lines, invoice tax lines, exceptions, purchase order, purchase order line tables, knowledge base tables and generates resolution for an inquiry case and auto-updates the inquiry case record with the generated resolution. If invoice is not passed as input, the information is collected from the knowledge base article \(with the knowledge base configured in system properties\).|
 |Scripts|Autonomous|Close the case|Closes the case if the user responds positively.|
 
 **Related topics**  
@@ -37,7 +37,3 @@ The following table lists the agents that are used in the APO.
 
 [Invoice inquiry cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/work-with-inquiry-cases.md)
 
-## Related
-
-- [[create-tax-lines-apo|Tax lines]]
-- [[purchase-order-table|Purchase order]]

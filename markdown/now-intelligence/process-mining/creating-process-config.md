@@ -14,7 +14,7 @@ breadcrumb: [Use, Process Mining, Platform Analytics]
 
 # Creating process configuration
 
-Process configurations include process preferences that activate features in the [[analyst-workbench-overview|Process Mining workspace]] and assist in the creation of projects. Having complete process configurations enables you to independently create projects and quickly gain insights, even without prior [[process-mining|process mining]] knowledge. This enhances the scalability of process mining across the organization.
+Process configurations include process preferences that activate features in the Process Mining workspace and assist in the creation of projects. Having complete process configurations enables you to independently create projects and quickly gain insights, even without prior process mining knowledge. This enhances the scalability of process mining across the organization.
 
 You can create a process configuration from various places in Process Mining.
 
@@ -27,7 +27,3 @@ Create a process configuration for a table to use the same default configuration
 
 **Parent Topic:**[Using Process Mining](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/use-process-mining.md)
 
-## Related
-
-- [[analyst-workbench-overview|Process Mining workspace]]
-- [[process-mining|Process Mining]]

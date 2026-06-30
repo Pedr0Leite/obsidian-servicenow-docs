@@ -84,7 +84,7 @@ Customer
 
 </td><td>
 
-For Zoom calls, you can add a customer mentioned in the work order task.You must install the Customer Service with [[fsm-application-landing-page|Field Service Management]] plugin to see the customer name on work order tasks. For more information, see [Integration with Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-integrations/customer-service-integration.md).
+For Zoom calls, you can add a customer mentioned in the work order task.You must install the Customer Service with Field Service Management plugin to see the customer name on work order tasks. For more information, see [Integration with Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-integrations/customer-service-integration.md).
 
 </td></tr></tbody>
 </table>    3.  After the participants list is finalized, tap **Submit** to initiate the conference call.
@@ -105,6 +105,4 @@ For Zoom calls, you can add a customer mentioned in the work order task.You must
 
     The recording of the meeting is added to the Conference form page in the Now Agent mobile application.
 
-## Related
 
-- [[fsm-application-landing-page|Field Service Management]]

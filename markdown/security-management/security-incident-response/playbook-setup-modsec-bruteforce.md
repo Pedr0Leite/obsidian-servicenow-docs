@@ -23,7 +23,7 @@ Role required:
 -   sn\_si.admin
 -   flow\_designer
 
-Make sure you have installed [[security-operations-landing-page|Security Operations]] Spoke \(`sn_sec_spoke`\).
+Make sure you have installed Security Operations Spoke \(`sn_sec_spoke`\).
 
 ## Procedure
 
@@ -35,7 +35,7 @@ Make sure you have installed [[security-operations-landing-page|Security Operati
 
     To create a copy of the playbook's flow, select the more actions menu icon \(\[Omitted image "more-action-menu.png"\] Alt text: More actions menu\) and select **Copy flow**. Perform this step only if you plan to customize or make specific changes to the flow.
 
-4.  Activate the [[tisc-playbooks-admin|playbooks]].
+4.  Activate the playbooks.
 
     1.  Activate the main flow to use the playbook available in the base system.
 
@@ -50,7 +50,3 @@ Make sure you have installed [[security-operations-landing-page|Security Operati
 
 **Parent Topic:**[Playbook for ModSec Brute force by IP Burst](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbook-modsec-bruteforce-ip.md)
 
-## Related
-
-- [[security-operations-landing-page|Security Operations]]
-- [[tisc-playbooks-admin|Playbooks]]

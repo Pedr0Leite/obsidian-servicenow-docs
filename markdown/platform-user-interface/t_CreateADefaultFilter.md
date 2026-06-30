@@ -26,14 +26,14 @@ Role required: admin
 
 1.  Navigate to the related list \(example, **Incidents** on a problem record\).
 
-2.  Create the desired filter using the [[c_ConditionBuilder|condition builder]] \(example, **\[Active\] \[is\] \[true\]**\).
+2.  Create the desired filter using the condition builder \(example, **\[Active\] \[is\] \[true\]**\).
 
     \[Omitted image "DefaultFilter.png"\] Alt text: Filter in a related list with the Set as Default Filter button highlighted
 
 3.  Click **Set as Default Filter**.
 
 
-**Parent Topic:**[[c_RelatedLists|Related lists]]
+**Parent Topic:**[Related lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_RelatedLists.md)
 
 **Related topics**  
 
@@ -50,7 +50,3 @@ Role required: admin
 
 [Create a default filter for list selector records]()
 
-## Related
-
-- [[c_RelatedLists|Related lists]]
-- [[c_ConditionBuilder|Condition builder]]

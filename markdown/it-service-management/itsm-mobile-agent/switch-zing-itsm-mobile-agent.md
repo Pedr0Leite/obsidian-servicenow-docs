@@ -14,7 +14,7 @@ breadcrumb: [AI Search in ITSM Mobile Agent, Exploring ITSM Mobile Agent, ITSM M
 
 # Switch back to Zing search in ITSM Mobile Agent
 
-If AI search is already enabled in [[itsm-mobile-agent|ITSM Mobile Agent]], enable Zing search configuration to use your own search profiles and configurations. It will enable Zing search in ITSM Mobile Agent and all workspaces.
+If AI search is already enabled in ITSM Mobile Agent, enable Zing search configuration to use your own search profiles and configurations. It will enable Zing search in ITSM Mobile Agent and all workspaces.
 
 ## Before you begin
 
@@ -34,6 +34,4 @@ For information about Zing search in mobile, see [Global search for mobile](http
     -   Value: true
 4.  Click **Submit**.
 
-## Related
 
-- [[itsm-mobile-agent|ITSM Mobile Agent]]

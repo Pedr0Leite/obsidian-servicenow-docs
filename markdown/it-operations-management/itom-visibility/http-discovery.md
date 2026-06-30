@@ -14,13 +14,13 @@ breadcrumb: [Network device discovery, Data collected by ITOM Visibility, ITOM V
 
 # HTTP device discovery
 
-[[r-discovery|Discovery]] can find devices that use the HTTP protocol.
+Discovery can find devices that use the HTTP protocol.
 
 **Note:** For information on Probe to Pattern migration see the knowledge article [KB0694477](https://support.servicenow.com/kb_view.do?sysparm_article=KB0694477).
 
 ## Classifier, probes, and patterns
 
-HTTP discovery relies on a the **HTTP** port probe, which Discovery runs after trying to run SSH and SNMP [[r_PortProbes|port probes]]. This port probe launches the **HTTP - Classify** probe which runs an HTTP GET request for every entry in the HTTP classification table. You should configure your own classifications that the **HTTP - Classify** probe can access.
+HTTP discovery relies on a the **HTTP** port probe, which Discovery runs after trying to run SSH and SNMP port probes. This port probe launches the **HTTP - Classify** probe which runs an HTTP GET request for every entry in the HTTP classification table. You should configure your own classifications that the **HTTP - Classify** probe can access.
 
 The HTTP port probe uses mappings between a protocol and port number in the IP Service \[cmdb\_ip\_service\] table. You can add additional port-to-protocol definitions in this table, or you can override the protocol used for a specific HTTP classifier.
 
@@ -33,7 +33,3 @@ Discovery can classify devices using the HTTP\(S\) protocol. You can create your
 
 **Parent Topic:**[Network device discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_NetworkDevices.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[r_PortProbes|Port probes]]

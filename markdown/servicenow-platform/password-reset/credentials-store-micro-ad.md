@@ -14,7 +14,7 @@ breadcrumb: [Credential stores for Password Reset, Configure your Password Reset
 
 # Credential Store for Password Reset for Microsoft Entra ID
 
-A credential store type is the set of flows to manage password and account of Microsoft Entra ID user. Navigate to **[[password-reset-landing-page|Password Reset]]** &gt; **Credential Stores** to view the list of example credential stores that are based on the base-system types.
+A credential store type is the set of flows to manage password and account of Microsoft Entra ID user. Navigate to **Password Reset** &gt; **Credential Stores** to view the list of example credential stores that are based on the base-system types.
 
 -   **[Integrate Password Reset with your Microsoft Entra ID](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/Config-credential-store-micro-azure.md)**  
 When the Microsoft Entra ID Integration for Password Reset store app is activated, the Password Reset application can manage passwords of a Microsoft Entra ID application. The application manages passwords by referencing a Microsoft Entra ID user with appropriate roles and password change privileges.
@@ -30,6 +30,3 @@ Create a Password Reset credential store record to configure access to your Micr
 
 [Configure the connection to the Microsoft Entra ID Credential Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/config-azure-credential-store.md)
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]

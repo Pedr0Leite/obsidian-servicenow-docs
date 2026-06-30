@@ -18,7 +18,7 @@ You can activate the ServiceNow Add-in for Microsoft Office plugin \(com.sn\_out
 
 ## Before you begin
 
--   Ensure that the application and all of its associated ServiceNow Store [[dex-workspace-application-tab|applications]] have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
+-   Ensure that the application and all of its associated ServiceNow Store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
 -   Review the [ServiceNow Add-in for Microsoft 365](https://store.servicenow.com) application listing in the ServiceNow Store for information on dependencies, licensing or subscription requirements, and release compatibility.
 
 Role required: admin
@@ -65,6 +65,3 @@ For more information, see [Install the ServiceNow Add-in for Microsoft 365](http
 
 [List of Australia plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]

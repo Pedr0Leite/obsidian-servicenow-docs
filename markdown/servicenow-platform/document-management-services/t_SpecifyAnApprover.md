@@ -26,7 +26,7 @@ Role required: document\_management\_user
 
 ## About this task
 
-You can have one approver or [[c_MultipleApprovers|multiple approvers]]. For example, set multiple approvers to have one person do a quality check of the document and a different individual to serve as a final approver. Approvers are assigned a number. The lowest number \(usually number one\) approver always goes first, then any other approvers in ascending chronological order. Multiple approvers can have the same sequence number. For example, two approvers can do a quality check and be assigned sequence number 1. Then, two individuals can be final approvers and be assigned sequence number 2.
+You can have one approver or multiple approvers. For example, set multiple approvers to have one person do a quality check of the document and a different individual to serve as a final approver. Approvers are assigned a number. The lowest number \(usually number one\) approver always goes first, then any other approvers in ascending chronological order. Multiple approvers can have the same sequence number. For example, two approvers can do a quality check and be assigned sequence number 1. Then, two individuals can be final approvers and be assigned sequence number 2.
 
 ## Procedure
 
@@ -47,6 +47,3 @@ You can have one approver or [[c_MultipleApprovers|multiple approvers]]. For exa
 
 **Parent Topic:**[Create or request a new document](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/t_CreateOrRequestANewDocument.md)
 
-## Related
-
-- [[c_MultipleApprovers|Multiple approvers]]

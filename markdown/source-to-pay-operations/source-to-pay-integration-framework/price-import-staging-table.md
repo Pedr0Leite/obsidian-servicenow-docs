@@ -18,13 +18,13 @@ The Price Import \[sn\_spend\_intg\_imp\_price\] staging table temporarily store
 
 |Field|Data type|Description|
 |-----|---------|-----------|
-|Catalog id|String|Unique identifier for each catalog of the [[purchase-order-table|purchase order]].|
+|Catalog id|String|Unique identifier for each catalog of the purchase order.|
 |Contract end date|String|Date on which the contract term ends.|
 |Contract number|String|Unique number of the contract.|
 |Contract start date|String|Date on which the contract term starts.|
 |Customer id|String|Unique identifier for a customer.|
 |Negotiated currency|String|Currency used in price negotiation.|
-|Negotiated price|String|Unit price of a product as negotiated through a contract with the [[supplier|supplier]].|
+|Negotiated price|String|Unit price of a product as negotiated through a contract with the supplier.|
 |Supplier id|String|Unique identifier for the supplier.|
 |Supplier part number|String|Unique identifier assigned by a supplier to a specific product or part that they provide.|
 |Third party import ID|String|Unique identifier for external data imports.|
@@ -106,7 +106,3 @@ The Price Import \[sn\_spend\_intg\_imp\_price\] staging table temporarily store
 
 [Unit of Measure inbound staging table]()
 
-## Related
-
-- [[purchase-order-table|Purchase order]]
-- [[supplier|Supplier]]

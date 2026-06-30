@@ -22,10 +22,10 @@ The disadvantage is that table extension requires a union query when you query f
 
 Consider using table extension when you have sequentially-written tables or insert-only type tables \(there are exceptions to this parameter\). Table extension is also useful in tables where data is needed for long periods of time.
 
--   **[[t_TableExtensionExample|Apply table extension]]**  
+-   **[Apply table extension](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_TableExtensionExample.md)**  
 Preserve data sets using table extension.
 
-**Parent Topic:**[[c_DatabaseRotation|Applying database rotation techniques]]
+**Parent Topic:**[Applying database rotation techniques](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_DatabaseRotation.md)
 
 **Related topics**  
 
@@ -34,7 +34,3 @@ Preserve data sets using table extension.
 
 [Table rotation]()
 
-## Related
-
-- [[t_TableExtensionExample|Apply table extension]]
-- [[c_DatabaseRotation|Applying database rotation techniques]]

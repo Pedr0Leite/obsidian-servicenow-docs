@@ -14,7 +14,7 @@ breadcrumb: [Payment Operations, Banking applications, Financial Services Operat
 
 # Install Financial Services Payment Operations
 
-Install the [[payment-ops-landing-page|Financial Services Payment Operations]] \(sn\_bom\_payment\) application if you have the admin role. This application includes demo data and installs the related store applications and plugins if they are not already installed.
+Install the Financial Services Payment Operations \(sn\_bom\_payment\) application if you have the admin role. This application includes demo data and installs the related store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -65,6 +65,3 @@ For more information, see [Components installed with Financial Services Payment 
 
 [List of plugins \(Australia\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-## Related
-
-- [[payment-ops-landing-page|Financial Services Payment Operations]]

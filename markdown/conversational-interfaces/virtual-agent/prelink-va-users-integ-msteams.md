@@ -14,7 +14,7 @@ breadcrumb: [Configure VA for Teams, Conversational Integration with Microsoft T
 
 # Installing Microsoft Teams for all Virtual Agent users
 
-Pre-link your [[virtual-agent-landing-page|Virtual Agent]] requesters to a ServiceNow instance before they run the [[teams-conv-integration|Conversational Integration with Microsoft Teams]]. Batch pre-linking enables your Virtual Agent users to immediately chat with a virtual agent and receive notifications without going through the initial authentication linking process.
+Pre-link your Virtual Agent requesters to a ServiceNow instance before they run the Conversational Integration with Microsoft Teams. Batch pre-linking enables your Virtual Agent users to immediately chat with a virtual agent and receive notifications without going through the initial authentication linking process.
 
 ## Before you begin
 
@@ -70,7 +70,3 @@ You can also customize the auto-linking process for Conversational Integration w
 
 **Parent Topic:**[Configure Virtual Agent for Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-va-msteams-settings.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[teams-conv-integration|Conversational Integration with Microsoft Teams]]

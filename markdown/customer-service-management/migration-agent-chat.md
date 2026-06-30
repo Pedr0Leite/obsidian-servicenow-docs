@@ -12,7 +12,7 @@ breadcrumb: [Migrate to CSM Configurable Workspace, Migrating to Configurable Wo
 
 # Agent Chat for Customer Service Management Configurable Workspace
 
-Learn how the CSM Agent Workspace Agent Chat functions with [[csm-workspaces-configure|CSM Configurable Workspace]].
+Learn how the CSM Agent Workspace Agent Chat functions with CSM Configurable Workspace.
 
 Agent Chat enables agents to interact with customers, create incident or case records, or transfer chats to another agent or queue. CSM Agent Workspace Agent Chat configurations work with CSM Configurable Workspace.
 
@@ -57,7 +57,3 @@ Interaction - Active
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

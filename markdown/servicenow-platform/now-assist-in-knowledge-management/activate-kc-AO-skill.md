@@ -14,7 +14,7 @@ breadcrumb: [Configure Article Optimization skill and prompts, Configure Now Ass
 
 # Activate Article Optimization skill
 
-Activate the [[knowledge-center-article-optimization|Knowledge Center Article Optimization]] skill to enable use of article optimization features for generating knowledge articles in the [[knowledge-center|Knowledge Center]].
+Activate the Knowledge Center Article Optimization skill to enable use of article optimization features for generating knowledge articles in the Knowledge Center.
 
 ## Before you begin
 
@@ -40,7 +40,3 @@ The Article Optimization skill is activated.
 
 [Configure custom AI-based Article Optimization scans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/configure-custom-ai-based-AO-scans.md)
 
-## Related
-
-- [[knowledge-center-article-optimization|Knowledge Center Article Optimization]]
-- [[knowledge-center|Knowledge Center]]

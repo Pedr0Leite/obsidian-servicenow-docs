@@ -24,7 +24,7 @@ Roles required: activity\_admin, activity\_creator
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Workflow** &gt; **[[workflow-editor|Workflow Editor]]**.
+1.  Navigate to **All** &gt; **Workflow** &gt; **Workflow Editor**.
 
 2.  From the **Custom** tab in the palette, open a custom activity.
 
@@ -242,7 +242,7 @@ JMS
 </td></tr></tbody>
 </table>## Activity designer parsing rule example
 
-In this example, the parsing rule is configured to populate the activityOutput.ipv4 variable with the value for the [[ip-address|IP address]] from a domain server, using PowerShell.
+In this example, the parsing rule is configured to populate the activityOutput.ipv4 variable with the value for the IP address from a domain server, using PowerShell.
 
 ### Before you begin
 
@@ -304,7 +304,4 @@ To generate the sample data, the administrator must actually run the command on 
 
     \[Omitted image "ParsingRulesList.png"\] Alt text: List of completed parsing rules
 
-## Related
 
-- [[workflow-editor|Workflow editor]]
-- [[ip-address|IP Address]]

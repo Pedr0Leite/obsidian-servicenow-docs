@@ -26,7 +26,7 @@ A demand insights dashboard displays tasks as topics for which your knowledge ba
 
 ## Procedure
 
-1.  Navigate to **[[knowledge-demand-insights|Knowledge Demand Insights]]** and select the demand insights dashboard for your tasks, or navigate to **All** &gt; **[[self-service-landing|Self-Service]]** &gt; **Dashboards**.
+1.  Navigate to **Knowledge Demand Insights** and select the demand insights dashboard for your tasks, or navigate to **All** &gt; **Self-Service** &gt; **Dashboards**.
 
     -   For customer service cases, select **Demand Insights for Cases**.
     -   For incidents, select **Demand Insights for Incidents**.
@@ -83,7 +83,7 @@ The **Description** field is automatically populated with frequently appearing w
 </table>
 ## Result
 
-If tasks within a collection are reported as knowledge gaps, a common feedback task for all the selected tasks is created and appears in the [[knowledge-management|Knowledge Management]] application. You can use the assignment rules to assign a feedback task to an ownership group or author. In the Knowledge Curation Tasks list, the **Is knowledge gap created** column value for the selected tasks is set to **true**.
+If tasks within a collection are reported as knowledge gaps, a common feedback task for all the selected tasks is created and appears in the Knowledge Management application. You can use the assignment rules to assign a feedback task to an ownership group or author. In the Knowledge Curation Tasks list, the **Is knowledge gap created** column value for the selected tasks is set to **true**.
 
 If you select an ignored collection from the demand insights dashboard, you can no longer report tasks within the collection as knowledge gaps.
 
@@ -96,8 +96,3 @@ If you select an ignored collection from the demand insights dashboard, you can 
 
 [Demand Insights for Incidents dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/demand-insights-incidents-dashboard.md)
 
-## Related
-
-- [[knowledge-demand-insights|Knowledge demand insights]]
-- [[self-service-landing|Self-service]]
-- [[knowledge-management|Knowledge Management]]

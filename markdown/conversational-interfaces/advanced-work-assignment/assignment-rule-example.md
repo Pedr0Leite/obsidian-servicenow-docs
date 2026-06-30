@@ -14,7 +14,7 @@ breadcrumb: [Set up a custom service channel, Configure, Advanced Work Assignmen
 
 # Create an assignment rule for change requests
 
-Create an assignment rule in [[awa-application-landing-page|Advanced Work Assignment]] that assigns change requests to agents who are available to do the tasks.
+Create an assignment rule in Advanced Work Assignment that assigns change requests to agents who are available to do the tasks.
 
 ## Before you begin
 
@@ -38,6 +38,4 @@ Role required: awa\_admin or admin
     -   Allow agents to reject: Selected
 4.  Select **Submit**.
 
-## Related
 
-- [[awa-application-landing-page|Advanced Work Assignment]]

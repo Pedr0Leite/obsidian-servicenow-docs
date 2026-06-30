@@ -15,9 +15,9 @@ breadcrumb: [Configuring Discovery, Discovery, ITOM Visibility, IT Operations Ma
 
 # Discovery commands for probes and patterns
 
-[[r-discovery|Discovery]] commands are used for both probe and pattern-based discovery to access configuration items \(CIs\) in your environment.
+Discovery commands are used for both probe and pattern-based discovery to access configuration items \(CIs\) in your environment.
 
-For information about [[c_ServiceMappingOverview|Service Mapping]] commands, see [Prerequisites for performing top-down discovery using Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/prerequisites-service-mapping.md).
+For information about Service Mapping commands, see [Prerequisites for performing top-down discovery using Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/prerequisites-service-mapping.md).
 
 For information about MID Server privileged commands, see [MID Server privileged commands](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_PrivilegedCommandsForMIDServer.md).
 
@@ -80,7 +80,3 @@ View permissions required by cloud resource patterns
 
 [KB1123625: Command Validation Tool](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1123625)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

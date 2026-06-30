@@ -12,7 +12,7 @@ breadcrumb: [Use Remediation Effort records, Use, Unified Security Exposure Mana
 
 # Create a remediation effort in the Security Exposure Management Workspace
 
-A remediation effort record is a static list of records that you create from a watch topic in the [[sem-workspace-user-interface|Security Exposure Management Workspace]].
+A remediation effort record is a static list of records that you create from a watch topic in the Security Exposure Management Workspace.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Role required:
 
 ## About this task
 
-You use remediation efforts to hand off the tasks IT teams use to fix [[vulnerabilities|vulnerabilities]] and mis-configurations.
+You use remediation efforts to hand off the tasks IT teams use to fix vulnerabilities and mis-configurations.
 
 -   You can edit existing remediation efforts.
 -   Create remediation efforts that are created automatically on the dates and times that you set.
@@ -166,7 +166,7 @@ Date when the record was last opened in your ServiceNow AI Platform. If the reco
 
     As records are updated or new records are created in watch topics, you can create remediation efforts.
 
-5.  Alternatively, you can [[sem-create-recurringRE-steal-VI|Create a recurring remediation effort in the Security Exposure Management Workspace]].
+5.  Alternatively, you can [Create a recurring remediation effort in the Security Exposure Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-create-recurringRE-steal-VI.md).
 
     The **Edit** button is available in the menu for existing remediation efforts. You have the option to modify the fields and conditions from a modal that is displayed. Any changes you make and save to the remediation effort record do not affect any of the other remediation efforts you have already created from the watch topic.
 
@@ -226,11 +226,5 @@ Date when the record was last opened in your ServiceNow AI Platform. If the reco
     Any changes you make and save to the remediation effort record do not affect any of the other remediation efforts you have already created from the watch topic.
 
 
-**Parent Topic:**[[sem-ws-remed-eff-rcd|Use Remediation Effort records]]
+**Parent Topic:**[Use Remediation Effort records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-ws-remed-eff-rcd.md)
 
-## Related
-
-- [[sem-create-recurringRE-steal-VI|Create a recurring remediation effort in the Security Exposure Management Workspace]]
-- [[sem-ws-remed-eff-rcd|Use Remediation Effort records]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]
-- [[vulnerabilities|Vulnerabilities]]

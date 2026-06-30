@@ -14,7 +14,7 @@ breadcrumb: [Configuring the invoice ingestion flows using Accounts Payable Oper
 
 # Copy and configure the Invoice processing case for Invoice email flow when Document Intelligence is not installed
 
-Copy and configure the Invoice email flow to [[create-invoice|create invoice]] processing cases from inbound emails when Document Intelligence is not installed.
+Copy and configure the Invoice email flow to create invoice processing cases from inbound emails when Document Intelligence is not installed.
 
 ## Before you begin
 
@@ -36,7 +36,7 @@ The Invoice processing case for Invoice email is the only flow that is available
 
 4.  In the **New flow name** field, enter a name for the copied flow.
 
-5.  In the **Application** field, select **[[apo-docintel-integration|Accounts Payable Operations integration with Document Intelligence]]**.
+5.  In the **Application** field, select **Accounts Payable Operations integration with Document Intelligence**.
 
 6.  Select **Copy**.
 
@@ -58,7 +58,4 @@ The Invoice processing case for Invoice email is the only flow that is available
 
 12. Select **Activate**.
 
-## Related
 
-- [[create-invoice|create invoice]]
-- [[apo-docintel-integration|Accounts Payable Operations integration with Document Intelligence]]

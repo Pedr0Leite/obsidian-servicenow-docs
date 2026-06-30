@@ -14,7 +14,7 @@ breadcrumb: [Assistant Designer interface reference, Virtual Agent reference, Vi
 
 # Topic Languages tab
 
-Use the **Languages** tab to view the topic's translation status for languages that have been activated in [[virtual-agent-landing-page|Virtual Agent]]. If NLU is enabled on your instance, you can also view model mappings for each language.
+Use the **Languages** tab to view the topic's translation status for languages that have been activated in Virtual Agent. If NLU is enabled on your instance, you can also view model mappings for each language.
 
 Some features on the Languages tab require the appropriate localization roles. For more information, see [Localization roles for Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/localization-roles-va.md).
 
@@ -91,6 +91,3 @@ If you've enabled NLU on your instance, you can view or modify the topic mapping
 
 **Parent Topic:**[Assistant Designer interface reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/vad-reference.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

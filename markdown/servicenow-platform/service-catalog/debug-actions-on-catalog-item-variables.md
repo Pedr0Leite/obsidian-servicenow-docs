@@ -28,9 +28,9 @@ The variable action logger displays the chronology of actions that happen on all
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[service-catalog|Service Catalog]]** &gt; **Catalog Administration** &gt; **Enable Variable Action Logger**.
+1.  Navigate to **All** &gt; **Service Catalog** &gt; **Catalog Administration** &gt; **Enable Variable Action Logger**.
 
-    The [[ui-page|UI Page]] Customization Diagnostics logger is enabled.
+    The UI Page Customization Diagnostics logger is enabled.
 
     **Note:** Perform this step before you run the logger.
 
@@ -38,7 +38,7 @@ The variable action logger displays the chronology of actions that happen on all
 
 3.  In the Catalog Items list, select an item that you want to log ****.
 
-4.  On the [[catalog-item-form|Catalog Item form]], click **Try it**.
+4.  On the Catalog Item form, click **Try it**.
 
 5.  On the catalog page for the item, right-click the header and select **Show Variable Action Logger**.
 
@@ -113,8 +113,3 @@ To print variable logs, click the Actions icon \(\[Omitted image "Actions.png"\]
 </table>
 **Parent Topic:**[Debugging Service Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/debugging-service-catalog.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[ui-page|UI page]]
-- [[catalog-item-form|Catalog Item form]]

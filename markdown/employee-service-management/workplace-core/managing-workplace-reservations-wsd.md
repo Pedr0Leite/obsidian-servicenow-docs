@@ -14,7 +14,7 @@ breadcrumb: [Manage workplace safety activities, Workplace Core, Workplace Servi
 
 # Managing workplace reservations for employees
 
-Reserve available areas or spaces for your employees and review pending reservation requests from employees in [[workplace-safety-mgmt-hr|Workplace Core]] so you can verify physical distancing measures when they return to the workplace. Once you make reservations, employees are notified about the locations to which they have access. The [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] also offers more advanced workplace reservation options in the [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] application.
+Reserve available areas or spaces for your employees and review pending reservation requests from employees in Workplace Core so you can verify physical distancing measures when they return to the workplace. Once you make reservations, employees are notified about the locations to which they have access. The Workplace Service Delivery also offers more advanced workplace reservation options in the Workplace Reservation Management application.
 
 ## Creating workplace reservations for employees
 
@@ -34,7 +34,7 @@ Reserve available areas or spaces for your employees and review pending reservat
 
     When you reserve a workplace for an employee, the reservation generates child reservation records for every applicable working day of the specified period. The applicable days are determined by the shift schedule that you select for this reservation. The reservation that you initially created acts as the parent reservation record.
 
-    If a child reservation conflicts with an existing reservation for any day in the specified period, the child reservation is not created for that day. You can manually [[create-reservation-request-1|create a reservation]] for a different workplace for that day.
+    If a child reservation conflicts with an existing reservation for any day in the specified period, the child reservation is not created for that day. You can manually create a reservation for a different workplace for that day.
 
     For example, say you created a reservation for the workplace 2CN1612 for Mark Andrews in the afternoon shift from 06-01-2020 to 06-10-2020. Eight child reservation records for Mark Andrews for the workplace 2CN1612 would be created for each working day between 06-01-2020 and 06-10-2020. However, if a reservation for 2CN1612 on 06-08-2020 exists for another employee Jane Doe, the child reservation for Mark Andrews on 06-08-2020 is not created. You can manually create a reservation for Mark Andrews for a different workplace for 06-08-2020.
 
@@ -48,11 +48,11 @@ After an employee requests a workplace for a given date range and the manager ap
 -   **[Define the capacity of workplace areas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/define-capacity-of-workplace-areas-wsd.md)**  
 Set the capacity for areas of your workplace in Workplace Core to enable reservations for the area. The capacity ensures a limit to the workplace reservations for these areas so you can ensure safety guidelines.
 -   **[Create workplace reservations for an employee](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/reserve-workspaces-for-employees-wsd.md)**  
-[[reserve-workspaces-for-employees|Create workplace reservations for an employee]] in the Workplace Core application using the shifts and shift schedules that you defined.
+Create workplace reservations for an employee in the Workplace Core application using the shifts and shift schedules that you defined.
 -   **[Create workplace reservations for multiple employees](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/reserve-spaces-bulk-assignment-multiple-employees-wsd.md)**  
 Automatically generate workplace reservations in bulk for all employees assigned to a shift for a single day or multiple days.
 -   **[Review pending workspace reservation requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/review-pending-reservation-requests.md)**  
-[[work-with-pending-reservation-requests|Review pending workplace reservation requests]] from employees in Workplace Core and assign available workplaces to complete these requests.
+Review pending workplace reservation requests from employees in Workplace Core and assign available workplaces to complete these requests.
 
 **Parent Topic:**[Manage workplace safety activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/manage-wsd-activites.md)
 
@@ -97,11 +97,3 @@ Automatically generate workplace reservations in bulk for all employees assigned
 
 [View workplace service usage analytics with Usage Insights]()
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[create-reservation-request-1|Create a reservation]]
-- [[reserve-workspaces-for-employees|Create workplace reservations for an employee]]
-- [[work-with-pending-reservation-requests|Review pending workplace reservation requests]]

@@ -32,7 +32,7 @@ The post incident report includes the following sections where a major incident 
     **Note:** The information that you provide for **Overview**, **Findings**, and **Timeline** gets updated in the Post Incident Report section on the Incident form.
 
 
-If you activate the [[cim-landing-page|Continual Improvement Management]] \(CIM\) plugin \(com.sn\_cim\), the Related Improvement Records section is displayed in the report. This section displays the Inbound CIM Integrations records.
+If you activate the Continual Improvement Management \(CIM\) plugin \(com.sn\_cim\), the Related Improvement Records section is displayed in the report. This section displays the Inbound CIM Integrations records.
 
 When you click **View Complete Report**, all the information entered by the major incident manager is compiled together and you can download the report in the .PDF format by clicking **Download Report PDF**.
 
@@ -44,7 +44,7 @@ The following links appear in the Incident form under the Related Links section:
 **Note:** On the downloaded report, under **Incident Response Timeline**, the time displayed in the timing type **Time to Identify** is calculated in the following ways:
 
 -   If you propose the incident as a major incident: The time indicates the time from creation of the first related alert for this incident or creation of the incident \(in case there is no alert or the Event Management plugin is inactive\), whichever occurs first, until the time the incident is first proposed as a major incident.
--   If you [[create-a-major-incident|create a major incident]] directly: The time indicates the time from creation of the first related alert for this incident or creation of the incident \(in case there is no alert or the Event Management plugin is inactive\), whichever occurs first, until the time the incident is promoted as a major incident.
+-   If you create a major incident directly: The time indicates the time from creation of the first related alert for this incident or creation of the incident \(in case there is no alert or the Event Management plugin is inactive\), whichever occurs first, until the time the incident is promoted as a major incident.
 
 **Parent Topic:**[Major incident workbench UI elements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/mi-workbench-ui-elements.md)
 
@@ -59,7 +59,3 @@ The following links appear in the Incident form under the Related Links section:
 
 [Associate a new post incident report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/asso-new-post-incident-report.md)
 
-## Related
-
-- [[cim-landing-page|Continual Improvement Management]]
-- [[create-a-major-incident|Create a major incident]]

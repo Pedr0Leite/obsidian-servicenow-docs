@@ -26,7 +26,7 @@ Role required: sn\_ohs\_im.manager, sn\_ohs\_im.agent
 
 2.  In the navigation bar, tap **Home**.
 
-3.  Tap the **Safety incidents** icon \(\[Omitted image "casemgmt-templateicon.png"\] Alt text: safety incident icon\) from the [[emp-center-quick-link-config|quick links]] section.
+3.  Tap the **Safety incidents** icon \(\[Omitted image "casemgmt-templateicon.png"\] Alt text: safety incident icon\) from the quick links section.
 
 4.  Open a safety incident record.
 
@@ -47,6 +47,3 @@ Role required: sn\_ohs\_im.manager, sn\_ohs\_im.agent
 
 **Parent Topic:**[Manage Health and Safety incident using the Mobile Agent app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-manage-safety-incident-mobile-agent.md)
 
-## Related
-
-- [[emp-center-quick-link-config|Quick links]]

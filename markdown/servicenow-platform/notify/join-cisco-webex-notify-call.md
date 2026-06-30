@@ -18,7 +18,7 @@ You can join an active conference call from an incident to discuss about the res
 
 ## Before you begin
 
-Role required: [[notify-landing-page|notify]]\_view, notify\_admin, major\_incident\_manager, or communication\_manager
+Role required: notify\_view, notify\_admin, major\_incident\_manager, or communication\_manager
 
 ## Procedure
 
@@ -35,6 +35,3 @@ Role required: [[notify-landing-page|notify]]\_view, notify\_admin, major\_incid
 
 **Parent Topic:**[Using the Notify Cisco Webex Connector with a major incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/use-cisco-webex-notify-mi.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]

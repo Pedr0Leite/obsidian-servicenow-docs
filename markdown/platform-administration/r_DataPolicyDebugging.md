@@ -12,11 +12,7 @@ breadcrumb: [Data policy, Administer, Field administration, Forms, fields, and l
 
 # Data policy debugging
 
-Debug messages can help administrators identify and resolve [[c_DataPolicy|data policy]] problems.
+Debug messages can help administrators identify and resolve data policy problems.
 
-Debug messages can help you identify and resolve data policy problems. To view data policy debugging messages at the bottom of the screen, navigate to **[[sys-diag|System Diagnostics]]** &gt; **Session Debug** &gt; **Debug Data Policies**.
+Debug messages can help you identify and resolve data policy problems. To view data policy debugging messages at the bottom of the screen, navigate to **System Diagnostics** &gt; **Session Debug** &gt; **Debug Data Policies**.
 
-## Related
-
-- [[c_DataPolicy|Data policy]]
-- [[sys-diag|System Diagnostics]]

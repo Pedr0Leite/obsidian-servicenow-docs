@@ -26,7 +26,7 @@ When you select multiple assessments, the number of selected assessments appears
 
 ## Benefits of combining assessments
 
-Combining assessments in [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] enables multiple benefits to assessment responders such as:
+Combining assessments in Smart Assessment Engine enables multiple benefits to assessment responders such as:
 
 -   Unified experience for the responders, allowing them to answer multiple assessments from the same or different templates within a single interface, which eliminates the need to open and respond to each assessment separately.
 -   Users retain context across related questions, making it easier to compare and contrast information from different templates.
@@ -35,6 +35,3 @@ Combining assessments in [[smart-asmnt-engine-landing-page|Smart Assessment Engi
 
 For more information on how to combine assessments, see [Submit combined assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-asmnt-combine.md).
 
-## Related
-
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]

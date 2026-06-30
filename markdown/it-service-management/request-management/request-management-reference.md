@@ -15,10 +15,10 @@ breadcrumb: [Request Management, IT Service Management]
 
 # Request Management reference
 
-[[reference-for-itsm-mobile-agent|Reference]] topics for [[c_RequestManagement|Request Management]].
+Reference topics for Request Management.
 
 -   **[Domain separation in Request Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/request-management/domain-sep-req-management.md)**  
-This is an overview of [[domain-sep-req-management|domain separation in Request Management]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+This is an overview of domain separation in Request Management. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 -   **[Request ITSM Roles - Request Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/request-management/request-itsm-roles-rm.md)**  
 Request the ITSM Roles plugin \(com.snc.itsm.roles\) to activate the ITSM Roles — Request Management plugin \(com.snc.itsm.roles.request\_management\) to gain more control over the access that different service desk agents, technicians, and managers have within your Request Management process.
 -   **[Activate Business Stakeholder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/request-management/activate-business-stakeholders.md)**  
@@ -26,8 +26,3 @@ Request the ITSM Roles plugin \(com.snc.itsm.roles\) to activate the ITSM Roles 
 
 **Parent Topic:**[Request Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/request-management/c_RequestManagement.md)
 
-## Related
-
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[c_RequestManagement|Request Management]]
-- [[domain-sep-req-management|Domain separation in Request Management]]

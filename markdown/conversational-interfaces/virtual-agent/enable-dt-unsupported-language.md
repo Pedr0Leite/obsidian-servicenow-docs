@@ -14,7 +14,7 @@ breadcrumb: [Localization options for Virtual Agent, Build and deploy, Virtual A
 
 # Enable Dynamic Translation for an unsupported language
 
-The ServiceNow® platform supports several languages, but you can enable dynamic machine translation for additional languages in [[virtual-agent-landing-page|Virtual Agent]].
+The ServiceNow® platform supports several languages, but you can enable dynamic machine translation for additional languages in Virtual Agent.
 
 ## Before you begin
 
@@ -120,6 +120,3 @@ Language to be used if a translation is not available. The language plugin must 
 
 **Parent Topic:**[Localization options for Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/multi-language-options-va.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

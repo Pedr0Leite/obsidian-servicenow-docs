@@ -14,7 +14,7 @@ breadcrumb: [Install Password Reset Windows Application, Installing and configur
 
 # Use an EXE file from the command line
 
-As an alternative to command-line installation, you can [[win-install-pwr-wizard|use a wizard]].
+As an alternative to command-line installation, you can use a wizard.
 
 ## Before you begin
 
@@ -63,7 +63,7 @@ PasswordResetLinkURL
 
 </td><td>
 
-URL of the page that users access when resetting a password.Be sure to substitute your ServiceNow server name and the URL suffix for the desired [[password-reset-landing-page|Password Reset]] process.
+URL of the page that users access when resetting a password.Be sure to substitute your ServiceNow server name and the URL suffix for the desired Password Reset process.
 
 </td></tr><tr><td>
 
@@ -101,7 +101,3 @@ Most installations do not need to specify this parameter value. Provide this val
 
 **Parent Topic:**[Install Password Reset Windows Application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/win-install-password-reset.md)
 
-## Related
-
-- [[win-install-pwr-wizard|Use a wizard]]
-- [[password-reset-landing-page|Password Reset]]

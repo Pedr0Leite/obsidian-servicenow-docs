@@ -20,7 +20,7 @@ When the **glide.ui.query\_string.enforce\_valid\_choice\_on\_create** system pr
 
 If invalid, the value is ignored and the field falls back to its default value. When the property is **false**, validation is inactive, and the system accepts any value, even invalid or inactive ones. This acceptance can potentially result in incorrect or unexpected data being stored on records.
 
-Ensure **glide.ui.query\_string.enforce\_valid\_choice\_on\_create** exists in the [[ca-system-properties|System Properties]] \[sys\_properties\] table and is set to **true**. If the property doesn’t exist in the table, the fallback value is **false**.
+Ensure **glide.ui.query\_string.enforce\_valid\_choice\_on\_create** exists in the System Properties \[sys\_properties\] table and is set to **true**. If the property doesn’t exist in the table, the fallback value is **false**.
 
 ## More information
 
@@ -34,7 +34,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -128,7 +128,3 @@ None
 
 **Parent Topic:**[Architecture, design, and threat modeling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-architecture-design-threat-molding.md)
 
-## Related
-
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]

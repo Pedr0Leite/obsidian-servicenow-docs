@@ -14,7 +14,7 @@ breadcrumb: [Configuring Discovery, Discovery, ITOM Visibility, IT Operations Ma
 
 # Request Discovery
 
-Request and activate the [[r-discovery|Discovery]] \(com.snc.discovery\) plugin to enable Discovery capabilities on your instance.
+Request and activate the Discovery \(com.snc.discovery\) plugin to enable Discovery capabilities on your instance.
 
 ## Before you begin
 
@@ -69,7 +69,7 @@ Select Maintenance Date and Time
 Select the date and time to activate the plugin.
 
 </td></tr></tbody>
-</table>    For example, see the following form to activate the [[c_EM|Event Management]] plugin on an instance named SNC Instance.
+</table>    For example, see the following form to activate the Event Management plugin on an instance named SNC Instance.
 
 4.  Select **Submit**.
 
@@ -83,7 +83,3 @@ Select the date and time to activate the plugin.
 
 [Discovery monitoring and issue resolution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoveryTroubleshooting.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_EM|Event Management]]

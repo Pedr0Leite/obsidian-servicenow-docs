@@ -14,7 +14,7 @@ breadcrumb: [Use, Journey Accelerator, Employee Journey Management, HR Service D
 
 # Employees view and complete action plans
 
-View, manage, and track your action plan progress from the [[employee-center-landing-page|Employee Center]] portal.
+View, manage, and track your action plan progress from the Employee Center portal.
 
 ## Before you begin
 
@@ -45,6 +45,3 @@ Your manager creates plans for different employee transition events. When you ca
 
 **Parent Topic:**[Working with Journey Accelerator plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-accelerator/working-with-journey-accelerator-plans.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

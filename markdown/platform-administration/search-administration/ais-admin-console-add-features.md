@@ -15,7 +15,7 @@ breadcrumb: [Using AI Search Admin console, AI Search Admin console, Search admi
 
 # Add features to AI Search
 
-Improve [[ia-ai-search|AI Search]] functionality by adding extra features through supported applications. Install the applications to expand AI Search capabilities.
+Improve AI Search functionality by adding extra features through supported applications. Install the applications to expand AI Search capabilities.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Role required: ais\_admin
 
 ## About this task
 
-Expand AI Search functionality by installing the AI Search Integration Hub spoke and the AI Search Data Labeling and [[ais-next-experience-app|AI Search for Next Experience]] applications. If any of these apps are installed, their card doesn't show up. If all three apps are installed, the entire section doesn't appear.
+Expand AI Search functionality by installing the AI Search Integration Hub spoke and the AI Search Data Labeling and AI Search for Next Experience applications. If any of these apps are installed, their card doesn't show up. If all three apps are installed, the entire section doesn't appear.
 
 ## Procedure
 
@@ -34,7 +34,3 @@ Expand AI Search functionality by installing the AI Search Integration Hub spoke
 
 **Parent Topic:**[Using AI Search Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/using-ais-admin-console.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[ais-next-experience-app|AI Search for Next Experience]]

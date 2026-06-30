@@ -33,8 +33,5 @@ Role required: sn\_hco\_orc.loc\_support\_agent or sn\_hco\_orc.plan author
 
 ## What to do next
 
-[[ctwm-op-care-team-case|Input Care team case details into the Operational Rounding playbook]]
+[Input Care team case details into the Operational Rounding playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/ctwm-op-care-team-case.md)
 
-## Related
-
-- [[ctwm-op-care-team-case|Input Care team case details into the Operational Rounding playbook]]

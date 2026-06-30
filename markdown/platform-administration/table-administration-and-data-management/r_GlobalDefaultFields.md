@@ -25,13 +25,10 @@ These required system fields are added to all tables:
 |Class \[sys\_class\_name\]|System Class Name|If the table is extensible, a string field that indicates which child table contains the record.|
 |Created \[sys\_created\_on\]|Date/Time|A time-stamp field that indicates when a record was created.|
 |Created by \[sys\_created\_by\]|String|A string field that indicates the user who created the record.|
-|Sys\_id \[sys\_id\]|Sys ID|The [[c_UniqueRecordIdentifier|Unique record identifier \(sys\_id\)]] for the record.|
+|Sys\_id \[sys\_id\]|Sys ID|The [Unique record identifier \(sys\_id\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_UniqueRecordIdentifier.md) for the record.|
 |Updates \[sys\_mod\_count\]|Integer|A numeric field that counts the number of updates for this record since record creation.|
 |Updated by \[sys\_updated\_by\]|String|A string field that indicates the user who most recently updated the record.|
 |Updated \[sys\_updated\_on\]|Date/Time|A time-stamp field that indicates the date and time of the most recent update.|
 
 **Parent Topic:**[Create a table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/t_CreateATable.md)
 
-## Related
-
-- [[c_UniqueRecordIdentifier|Unique record identifier \(sys\_id\)]]

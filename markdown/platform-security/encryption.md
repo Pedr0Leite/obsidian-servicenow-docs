@@ -16,12 +16,12 @@ Use the Key Management Framework \(KMF\) to generate, exchange, store, use, and 
 
 Key Management refers to the activities involved in handling your cryptographic keys and related security parameters during the key's life cycle. Key Management Framework is based on [National Institute of Standards and Technology \(NIST\) 800-57](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-57pt1r5.pdf) guidelines. In accordance with these guidelines, you can use KMF to:
 
--   Assign dedicated roles for cryptographic management and operations, [[c_AuditedTables|auditing]], and integration.
+-   Assign dedicated roles for cryptographic management and operations, auditing, and integration.
 -   Create cryptographic modules to configure of cryptographic specifications for unique cryptographic purposes and key types.
-    -   Symmetric key: encryption and decryption, key wrapping and unwrapping, and [[c_Authentication|authentication]]
+    -   Symmetric key: encryption and decryption, key wrapping and unwrapping, and authentication
     -   Asymmetric key: digital signature generation and verification, encryption and decryption, key wrapping and unwrapping
 -   Manage your key life cycle to generate, rotate, revoke, and suspend keys, including support of several key life cycle states
--   Create module access [[ca-policies|policies]] \(MAPs\) to enforce access controls, to grant access only to [[users|users]] and scripts that you choose.
+-   Create module access policies \(MAPs\) to enforce access controls, to grant access only to users and scripts that you choose.
 -   Protect your cryptographic keys with the Federal Information Processing Standard \(FIPS\) 140-2-L3 hardware Root of Trust \(RoT\), Public Key Infrastructure \(PKI\), key hierarchy, and envelope encryption.
 -   Assign the auditing role to users to can then view auditing information such as key usage statistics.
 
@@ -62,9 +62,9 @@ Key Management refers to the activities involved in handling your cryptographic 
 </td></tr></tbody>
 </table>## Activation information
 
-The ServiceNow Platform Encryption subscription bundle is a group commercial entitlement that includes Key Management Framework, [[now-platform-encryption|Field Encryption Enterprise]], Cloud Encryption, and [[db-full-disk-encryption|Database Encryption]].
+The ServiceNow Platform Encryption subscription bundle is a group commercial entitlement that includes Key Management Framework, Field Encryption Enterprise, Cloud Encryption, and Database Encryption.
 
-Field Encryption Enterprise is the unlimited license of [[field-encryption|Field Encryption]]. The Field Encryption Enterprise plugin is available with the activation of the com.glide.now.platform.encryption plugin. For details, see [Encryption and Key Management subscription bundle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/encryption-sku.md).
+Field Encryption Enterprise is the unlimited license of Field Encryption. The Field Encryption Enterprise plugin is available with the activation of the com.glide.now.platform.encryption plugin. For details, see [Encryption and Key Management subscription bundle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/encryption-sku.md).
 
 **Note:** KMF doesn’t support domain separation, but can be used with on-premise instances.
 
@@ -77,7 +77,7 @@ The Key Management Framework \(KMF\) API/UX lets you fully customize and manage 
 -   **[Key management actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/key-management-actions.md)**  
 One of the core features of KMF is to provide the capability  to manage  keys, such as revoking or rotating keys.  KMF properly secures sensitive data with the most up-to-date encryption materials and life cycle operations.
 -   **[Import a key from a web service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/import-key-webservice-1.md)**  
-Securely upload an external customer key onto your instance using [[import-key-webservice-1|import a key from a web service]] \(for example the key REST API\). Both symmetric and asymmetric public keys can be imported into a targeted KMF cryptographic module.
+Securely upload an external customer key onto your instance using import a key from a web service \(for example the key REST API\). Both symmetric and asymmetric public keys can be imported into a targeted KMF cryptographic module.
 -   **[Key Management Framework Health](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/kmf_diagnostics.md)**  
 Access on-demand health status information for the Key Management Framework. Warning and malfunction errors contain a detailed message.
 -   **[Prepare your instance for GlideEncrypter deprecation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/check-3des.md)**  
@@ -85,22 +85,9 @@ Use an instance scan script to find and remove GlideEncrypter API calls on your 
 -   **[Key Management Framework Resource Exchange](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/resource-exchange.md)**  
 ServiceNow® Resource Exchange is a KMF feature that gives you the capability to exchange resources between instances in a secure manner.
 -   **[Infrastructure Security](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/infrastructure-security.md)**  
-Use [[infrastructure-security|Infrastructure security]] tools to create, upload, and manage [[c_Certificates|certificates]] your instance uses to encrypt traffic from client to server.
+Use Infrastructure security tools to create, upload, and manage certificates your instance uses to encrypt traffic from client to server.
 -   **[Password2 encryption with the Key Management Framework \(KMF\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/password-2way-encrypted-fields.md)**  
 Supported by the Key Management Framework, use the Password2 \(2-way encrypted\) field type to encrypt and decrypt custom fields with segregation of duties, key protection, and life-cycle management. It works in accordance with NIST 800-57 guidelines and provides FIPS 140-2-L3 protection.
 
-**Parent Topic:**[[encryption-landing|Encryption]]
+**Parent Topic:**[Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/encryption-landing.md)
 
-## Related
-
-- [[encryption-landing|Encryption]]
-- [[c_AuditedTables|Auditing]]
-- [[c_Authentication|Authentication]]
-- [[ca-policies|Policies]]
-- [[users|Users]]
-- [[now-platform-encryption|Field Encryption Enterprise]]
-- [[db-full-disk-encryption|Database Encryption]]
-- [[field-encryption|Field Encryption]]
-- [[import-key-webservice-1|Import a key from a web service]]
-- [[infrastructure-security|Infrastructure Security]]
-- [[c_Certificates|Certificates]]

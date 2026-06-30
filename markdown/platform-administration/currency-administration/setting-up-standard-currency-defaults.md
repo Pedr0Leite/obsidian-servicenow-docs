@@ -14,7 +14,7 @@ breadcrumb: [Configure, Currency administration, Configure core features, Admini
 
 # Setting up defaults required for standard currency use
 
-Set up the defaults required for use of [[configure-and-use-default-currency-fields|standard currency fields]] in your instance.
+Set up the defaults required for use of standard currency fields in your instance.
 
 -   **[Control default currency field configuration and use in an instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/currency-properties.md)**  
 You can control how currency fields are configured and used in your instance.
@@ -34,6 +34,3 @@ Currency values can be converted to other currencies when stored and accessed.
 
 [Setting up defaults required for FX Currency use]()
 
-## Related
-
-- [[configure-and-use-default-currency-fields|Standard currency fields]]

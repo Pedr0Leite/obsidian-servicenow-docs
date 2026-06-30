@@ -28,7 +28,7 @@ Role required: admin
 
     The mobile push appears as a communication channel in the ServiceNow instance.
 
-2.  Select **Mobile push** as your preferred notification channel while defining the escalation [[settings-mobile|settings]] for a user group.
+2.  Select **Mobile push** as your preferred notification channel while defining the escalation settings for a user group.
 
     For information on escalation settings, see [Escalation and reminder settings for rosters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/escalation-remind-settings-oncall.md).
 
@@ -41,6 +41,3 @@ Role required: admin
 
 **Parent Topic:**[Configuring On-Call Scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/configuration.md)
 
-## Related
-
-- [[settings-mobile|Settings]]

@@ -24,7 +24,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[health-safety-overview|Health and Safety]]** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
 2.  In the primary navigation, select **Environmental Management** \(\[Omitted image "icon-hs-envt-mgmt.png"\] Alt text: environmental management icon\) icon.
 
@@ -44,12 +44,7 @@ The **Service provider requests** related list of the chemical record, displays 
 ## What to do next
 
 -   Depending on the request, the data from 3E can be instantly available or it can take up to 30 days to obtain. When the data is available, the service provider request will be marked as **Complete** by 3E. Once the request is completed by 3E service provider, the fields in the record are automatically updated.
--   If there are any error or status message from 3E system \(for example, for synchronization issues\), the error message is added to the [[activity-lxp|activity]] stream of the service provider request. If 3E service provider cannot locate the chemical data or metadata, the 3E staff manually intervenes and send messages that appear in the activity stream.
+-   If there are any error or status message from 3E system \(for example, for synchronization issues\), the error message is added to the activity stream of the service provider request. If 3E service provider cannot locate the chemical data or metadata, the 3E staff manually intervenes and send messages that appear in the activity stream.
 
 **Parent Topic:**[3E Protect](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-3e-protect.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[activity-lxp|Activity]]

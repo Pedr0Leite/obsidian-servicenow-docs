@@ -54,8 +54,5 @@ By default, you can import data related to carbon emissions, renewable energy, a
 
 The new mapping is ready to import data.
 
-**Parent Topic:**[[integrate-esg-with-watershed|Integrating Operational Sustainability Management \(formerly ESG\) with Watershed]]
+**Parent Topic:**[Integrating Operational Sustainability Management \(formerly ESG\) with Watershed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/integrate-esg-with-watershed.md)
 
-## Related
-
-- [[integrate-esg-with-watershed|Integrating Operational Sustainability Management \(formerly ESG\) with Watershed]]

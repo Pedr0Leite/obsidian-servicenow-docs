@@ -12,7 +12,7 @@ breadcrumb: [Related lists, Forms in the classic environment, Working in the cla
 
 # Create a default filter for list selector records
 
-You can set a default filter to restrict which related records users can select when editing a [[onboarding-modals-reference|reference]] field. Default [[c_Filters|filters]] are simple to set up but lack a dynamic filtering element, which prevents the end user from changing the default filter.
+You can set a default filter to restrict which related records users can select when editing a reference field. Default filters are simple to set up but lack a dynamic filtering element, which prevents the end user from changing the default filter.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ A filter is used to restrict the records that are listed in the slushbucket that
 
 ## Procedure
 
-1.  Right-click any column heading and select **[[configure-onboarding-modals|Configure]]** &gt; **List Control**.
+1.  Right-click any column heading and select **Configure** &gt; **List Control**.
 
 2.  Configure the List Control form to add the **Edit default filter** field, if necessary.
 
@@ -35,7 +35,7 @@ A filter is used to restrict the records that are listed in the slushbucket that
     When users click the **Edit** button in the related list, the list of records they can select is filtered according to the default filter.
 
 
-**Parent Topic:**[[c_RelatedLists|Related lists]]
+**Parent Topic:**[Related lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_RelatedLists.md)
 
 **Related topics**  
 
@@ -54,12 +54,5 @@ A filter is used to restrict the records that are listed in the slushbucket that
 
 [Configure reference qualifiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ConfigureReferenceQualifiers.md)
 
-[[c_ConditionBuilder|Condition builder]]
+[Condition builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_ConditionBuilder.md)
 
-## Related
-
-- [[c_RelatedLists|Related lists]]
-- [[c_ConditionBuilder|Condition builder]]
-- [[onboarding-modals-reference|Reference]]
-- [[c_Filters|Filters]]
-- [[configure-onboarding-modals|Configure]]

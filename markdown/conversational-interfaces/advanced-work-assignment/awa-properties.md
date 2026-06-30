@@ -14,7 +14,7 @@ breadcrumb: [Reference, Advanced Work Assignment, Manage people and work, Conver
 
 # Properties for Advanced Work Assignment
 
-The [[awa-application-landing-page|Advanced Work Assignment]] Properties page provides configuration options for AWA.
+The Advanced Work Assignment Properties page provides configuration options for AWA.
 
 If you have the admin role, you can create or change these properties by navigating to **System Properties** &gt; **All Properties**.
 
@@ -32,7 +32,7 @@ AWA Routing Look-Back Time**com.glide.awa.routinglookback**
 
 </td><td>
 
-AWA defaults to routing [[awa-work-items|work items]] created within the last 10 minutes. If a work item is created after 10 minutes has passed, it isn’t considered for AWA routing. For work items that are created outside of the default 10-minute window, create this system property to expand the AWA routing look-back time:-   **Name**: `com.glide.awa.routinglookback`
+AWA defaults to routing work items created within the last 10 minutes. If a work item is created after 10 minutes has passed, it isn’t considered for AWA routing. For work items that are created outside of the default 10-minute window, create this system property to expand the AWA routing look-back time:-   **Name**: `com.glide.awa.routinglookback`
 -   **Type**: **Integer**
 -   **Value**: Number of seconds
 
@@ -40,7 +40,7 @@ For example, set the property **Value** to 86400 \(24 hours\) to cover a full sh
 
 -   **Description**: `Number of seconds AWA looks back for routing once the work items are eligible for AWA.`
 
-**Note:** This property affects all [[awa-service-channels|service channels]] in the system.
+**Note:** This property affects all service channels in the system.
 
 </td></tr><tr><td>
 
@@ -72,8 +72,3 @@ Enables/disables the execution of subflows defined on the AWA queues when work i
 </td></tr></tbody>
 </table>For information on adding a system property, see [Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddAPropertyUsingSysPropsList.md).
 
-## Related
-
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[awa-work-items|Work items]]
-- [[awa-service-channels|Service channels]]

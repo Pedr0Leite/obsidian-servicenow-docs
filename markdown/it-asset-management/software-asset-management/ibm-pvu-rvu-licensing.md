@@ -14,7 +14,7 @@ breadcrumb: [Supported IBM license types, Software Asset Management publisher pa
 
 # IBM processor value unit \(PVU\) and resource value unit \(RVU\) licenses
 
-If you integrate the [[ibm-publisher-pack|Software Asset Management publisher pack for IBM]] with [[c_SoftwareAssetMgmt|Software Asset Management]] providers that are authorized to participate in the IBM Client Value Acceleration \(CVA\) Program, you can track and manage IBM PVU and RVU licenses. Alternatively, you can track and manage these licenses when you integrate with the IBM License Metric Tool \(ILMT\) or BigFix Inventory using version 1 or 2 of the integration APIs.
+If you integrate the Software Asset Management publisher pack for IBM with Software Asset Management providers that are authorized to participate in the IBM Client Value Acceleration \(CVA\) Program, you can track and manage IBM PVU and RVU licenses. Alternatively, you can track and manage these licenses when you integrate with the IBM License Metric Tool \(ILMT\) or BigFix Inventory using version 1 or 2 of the integration APIs.
 
 With these integrations, the publisher pack adds the Processor Value Unit \(PVU\) and Resource Value Unit \(RVU\) license metrics for IBM so that you can calculate licensing for these license types. For more details on Authorized SAM Provider \(ASP\) integrations, see [Authorized SAM Provider \(ASP\) integrations for IBM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/ibm-asp-integration.md). For more details on ILMT and BigFix Inventory integrations, see [IBM License Metric Tool \(ILMT\) and BigFix Inventory integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/ibm-ilmt-bigfix-inventory-integration.md).
 
@@ -32,7 +32,7 @@ You can gain visibility into how your PVU licenses are applied to your devices b
 
     For more details on ILMT and BigFix Inventory, see [IBM License Metric Tool \(ILMT\) and BigFix Inventory integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/ibm-ilmt-bigfix-inventory-integration.md).
 
--   If you are integrating the IBM publisher pack with an Authorized SAM Provider \(ASP\), navigate to **Workspaces** &gt; **[[sam-workspace|Software Asset Workspace]]**. When the Software Asset Workspace launches, open the [[operations-workspace|License operations view]]. From the left navigation menu of the License operations view, navigate to **IBM ASP Integration** &gt; **Device Settings** to modify the value of the corresponding **Usage Type** field. By default, the **Usage Type** field is automatically set to **Sub-capacity**. However, the **Usage Type** field for devices with allocations in your full capacity PVU entitlements is automatically set to **Full capacity** instead.
+-   If you are integrating the IBM publisher pack with an Authorized SAM Provider \(ASP\), navigate to **Workspaces** &gt; **Software Asset Workspace**. When the Software Asset Workspace launches, open the License operations view. From the left navigation menu of the License operations view, navigate to **IBM ASP Integration** &gt; **Device Settings** to modify the value of the corresponding **Usage Type** field. By default, the **Usage Type** field is automatically set to **Sub-capacity**. However, the **Usage Type** field for devices with allocations in your full capacity PVU entitlements is automatically set to **Full capacity** instead.
 
     For more details on the available device settings, see [Verify the meta data for your IBM hosts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/verify-ibm-device-meta-data.md).
 
@@ -177,9 +177,3 @@ You can gain visibility into how your RVU licenses are applied to your devices b
 
 **Parent Topic:**[Supported IBM license types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/supported-ibm-license-types.md)
 
-## Related
-
-- [[ibm-publisher-pack|Software Asset Management publisher pack for IBM]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[operations-workspace|License operations view]]

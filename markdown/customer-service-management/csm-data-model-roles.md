@@ -60,7 +60,7 @@ Business Organization Self Contributor
 
 Enables self-service case reporting for frontline, field, and location-based workers within business organizations. With this role, you can:
 
--   Create and track cases for [[sold-product|sold products]] and [[install-base-item|install base items]] assigned to you at a business location.
+-   Create and track cases for sold products and install base items assigned to you at a business location.
 -   View your own member details and responsibility at that location, along with the assignment group mapped to it.
 
 </td><td>
@@ -333,7 +333,7 @@ If also an internal user on a case, this user can:
 
 -   add additional comments and attachments
 -   accept or reject a solution
--   [[osp-close-case|close a case]]
+-   close a case
 -   receive notifications of case updates
 -   read work notes
 
@@ -640,7 +640,7 @@ sn\_service\_org.service\_org\_offering\_service\_read
 
 </td><td>
 
-Provides all CRUD access to [[outsourced-service-provider|outsourced customer service]] flow
+Provides all CRUD access to outsourced customer service flow
 
 </td><td>
 
@@ -861,12 +861,5 @@ No
 </table>**Related topics**  
 
 
-[[granular-admin-roles|Service Model Foundation Granular admin roles]]
+[Service Model Foundation Granular admin roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/granular-admin-roles.md)
 
-## Related
-
-- [[granular-admin-roles|Service Model Foundation Granular admin roles]]
-- [[sold-product|Sold products]]
-- [[install-base-item|Install base items]]
-- [[osp-close-case|Close a case]]
-- [[outsourced-service-provider|Outsourced Customer Service]]

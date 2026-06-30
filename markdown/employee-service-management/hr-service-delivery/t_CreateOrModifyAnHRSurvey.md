@@ -14,7 +14,7 @@ breadcrumb: [HR surveys, HR Administration, Configure, Case and Knowledge Manage
 
 # Add or modify an HR survey
 
-You can modify the predefined HR satisfaction surveys to suit the needs of the organization, and create [[c_HRSurveysIst|HR surveys]].
+You can modify the predefined HR satisfaction surveys to suit the needs of the organization, and create HR surveys.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ The following steps describe how to work with survey questions in the Survey Def
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **Surveys** &gt; **All HR Surveys**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **Surveys** &gt; **All HR Surveys**.
 
 2.  Click **New** or open an existing survey.
 
@@ -41,7 +41,3 @@ The following steps describe how to work with survey questions in the Survey Def
 
 **Parent Topic:**[HR surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_HRSurveysIst.md)
 
-## Related
-
-- [[c_HRSurveysIst|HR surveys]]
-- [[c_AdministerHRServiceManagement|HR Administration]]

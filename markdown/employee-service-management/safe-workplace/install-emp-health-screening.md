@@ -14,27 +14,27 @@ breadcrumb: [Employee Health Screening, Safe Workplace, Health and Safety, Emplo
 
 # Install Employee Health Screening
 
-You can install the [[employee-health-screening|Employee Health Screening]] application if you have the admin role. This application includes demo data and installs the related store applications and plugins if they are not already installed.
+You can install the Employee Health Screening application if you have the admin role. This application includes demo data and installs the related store applications and plugins if they are not already installed.
 
 ## Before you begin
 
 Ensure that the application and all of its associated store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
 
-If you've subscribed to the [[safe-workplace|Safe Workplace]] suite and you already have some of the apps installed, refer to the following order of installation for the remaining apps.
+If you've subscribed to the Safe Workplace suite and you already have some of the apps installed, refer to the following order of installation for the remaining apps.
 
--   [[emergency-outreach|Emergency Outreach]] \(sn\_imt\_checkin\)
+-   Emergency Outreach \(sn\_imt\_checkin\)
 -   Employee Health Screening \(sn\_imt\_monitoring\)
--   [[ppe-inventory-management|Workplace PPE Inventory Management]] \(sn\_imt\_ppe\)
--   [[employee-readiness-surveys|Employee Readiness Surveys]] \(sn\_imt\_readiness\)
+-   Workplace PPE Inventory Management \(sn\_imt\_ppe\)
+-   Employee Readiness Surveys \(sn\_imt\_readiness\)
 -   COVID-19 Global Health Data Set \(sn\_imt\_c19datafeed\)
--   [[contact-tracing|Contact Tracing]] \(sn\_imt\_tracing\)
--   [[emergency-self-report|Emergency Self Report]] \(sn\_imt\_quarantine\)
--   [[workplace-safety-mgmt-hr|Workplace Core]] \(sn\_wsd\_core\)
--   [[safe-workplace-dashboard|Safe Workplace Dashboard]] \(sn\_imt\_dashboard\)
--   [[emergency-response-management|Emergency Response Management]] for Now Mobile \(sn\_imt\_mobile\)
--   [[employee-travel-safety|Employee Travel Safety]] \(sn\_imt\_travel\)
--   [[health-safety-testing|Health and Safety Testing]] \(sn\_imt\_health\_test\)
--   [[vaccination-status|Vaccination Status]] \(sn\_imt\_vaccine\)
+-   Contact Tracing \(sn\_imt\_tracing\)
+-   Emergency Self Report \(sn\_imt\_quarantine\)
+-   Workplace Core \(sn\_wsd\_core\)
+-   Safe Workplace Dashboard \(sn\_imt\_dashboard\)
+-   Emergency Response Management for Now Mobile \(sn\_imt\_mobile\)
+-   Employee Travel Safety \(sn\_imt\_travel\)
+-   Health and Safety Testing \(sn\_imt\_health\_test\)
+-   Vaccination Status \(sn\_imt\_vaccine\)
 
 Role required: admin
 
@@ -93,7 +93,7 @@ Health monitor\[sn\_imt\_monitoring.monitoring\_user\]
 
 </td><td>
 
-Use the health screening page to record returning employee details. View [[employee-health-safety-status|employee health and safety status]].
+Use the health screening page to record returning employee details. View employee health and safety status.
 
 </td><td>
 
@@ -106,7 +106,7 @@ Health monitor administrator\[sn\_imt\_monitoring.monitoring\_admin\]
 
 </td><td>
 
-[[oracle-hcm-properties|Configure properties]] and temperature overrides and view the dashboard.
+Configure properties and temperature overrides and view the dashboard.
 
 </td><td>
 
@@ -130,7 +130,7 @@ Request for Entry\[sn\_imt\_monitoring\_request\_for\_entry\]
 
 </td><td>
 
-Results of employee health screening events. If the **sn\_imt\_monitoring.auto\_create\_request** property is enabled, the table also includes results from health monitors looking up an employee's [[health-safety-overview|health and safety]] status. For results from a health screening, the **Source** field is set to **Health screen**. For results from a status lookup, the **Source** field is set to **Auto-checkin**.
+Results of employee health screening events. If the **sn\_imt\_monitoring.auto\_create\_request** property is enabled, the table also includes results from health monitors looking up an employee's health and safety status. For results from a health screening, the **Source** field is set to **Health screen**. For results from a status lookup, the **Source** field is set to **Auto-checkin**.
 
 </td></tr><tr><td>
 
@@ -174,22 +174,3 @@ Messages provided to specific types of users \(determined by their audience\) wh
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[employee-health-screening|Employee Health Screening]]
-- [[safe-workplace|Safe Workplace]]
-- [[emergency-outreach|Emergency Outreach]]
-- [[ppe-inventory-management|Workplace PPE Inventory Management]]
-- [[employee-readiness-surveys|Employee Readiness Surveys]]
-- [[contact-tracing|Contact Tracing]]
-- [[emergency-self-report|Emergency Self Report]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[safe-workplace-dashboard|Safe Workplace Dashboard]]
-- [[emergency-response-management|Emergency Response Management]]
-- [[employee-travel-safety|Employee Travel Safety]]
-- [[health-safety-testing|Health and Safety Testing]]
-- [[vaccination-status|Vaccination Status]]
-- [[employee-health-safety-status|Employee Health and Safety Status]]
-- [[oracle-hcm-properties|Configure properties]]
-- [[health-safety-overview|Health and Safety]]

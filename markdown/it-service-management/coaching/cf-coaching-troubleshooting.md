@@ -14,7 +14,7 @@ breadcrumb: [Reference, Coaching, IT Service Management]
 
 # Resolve Coaching issues
 
-Resolve common issues when setting up or running [[cf-coaching-landing|Coaching]].
+Resolve common issues when setting up or running Coaching.
 
 <table id="table_xgp_zw4_sfb"><thead><tr><th>
 
@@ -73,6 +73,3 @@ Implement Coaching [extension points](https://raw.githubusercontent.com/ServiceN
 
 [Using client extension points in client-side UI scripting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/client-extension-points.md)
 
-## Related
-
-- [[cf-coaching-landing|Coaching]]

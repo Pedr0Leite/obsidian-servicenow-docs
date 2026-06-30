@@ -14,7 +14,7 @@ breadcrumb: [Investment Funding administration, Investment Funding, Strategic Po
 
 # Set Investment Funding preferences
 
-As an administrator, you can set global defaults for [[investment-funding-overview|Investment Funding]] preferences, which affect the funding behavior.
+As an administrator, you can set global defaults for Investment Funding preferences, which affect the funding behavior.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_invst\_pln\_investment\_admin
 
 1.  Navigate to **All** &gt; **Investment Funding** &gt; **Setup** &gt; **Preferences**.
 
-2.  In the **Funding frequency** list, select a frequency of periods in which you can request or [[allocate-funds-to-investment|allocate funds to an investment]].
+2.  In the **Funding frequency** list, select a frequency of periods in which you can request or allocate funds to an investment.
 
     The list shows options based on the configured fiscal calendar.
 
@@ -62,7 +62,3 @@ Role required: sn\_invst\_pln\_investment\_admin
 
 **Parent Topic:**[Investment Funding administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/investment-funding/investment-funding-administration.md)
 
-## Related
-
-- [[investment-funding-overview|Investment Funding]]
-- [[allocate-funds-to-investment|Allocate funds to an investment]]

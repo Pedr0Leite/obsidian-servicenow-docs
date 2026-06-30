@@ -23,7 +23,7 @@ Role required: admin
 
 Live updates enable list data to refresh automatically or manually without reloading the page.
 
-To [[configure-onboarding-modals|configure]] live updates, you must enable the **glide.[[lists-configurable-workspace|lists]].live\_list\_enabled** system property.
+To configure live updates, you must enable the **glide.lists.live\_list\_enabled** system property.
 
 Once enabled, you can configure live updates using the following options:
 
@@ -69,10 +69,5 @@ Use this procedure to enable the system property required to configure live upda
 
 ## What to do next
 
-Configure live updates for a page without affecting other lists in your workspace. For instructions, see [[live-list-updates-page-level|Configure live updates for a list page]].
+Configure live updates for a page without affecting other lists in your workspace. For instructions, see [Configure live updates for a list page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/live-list-updates-page-level.md).
 
-## Related
-
-- [[live-list-updates-page-level|Configure live updates for a list page]]
-- [[configure-onboarding-modals|Configure]]
-- [[lists-configurable-workspace|Lists]]

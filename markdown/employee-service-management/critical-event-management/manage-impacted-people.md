@@ -14,14 +14,14 @@ breadcrumb: [Critical Event Management, Health and Safety, Employee Service Mana
 
 # Managing impacted people
 
-Generate and manage an impacted people list,view an impacted person's record, and update their status in [[critical-event-management|Critical Event Management]].
+Generate and manage an impacted people list,view an impacted person's record, and update their status in Critical Event Management.
 
 -   **[Generate impacted people list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/generate-impacted-people-list.md)**  
 Generate an impacted people list for a critical event in Critical Event Management. The impacted people list is used to account for every individual in the critical event location.
 -   **[Add a person manually to the impacted people list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/add-person-manually-to-impacted-people.md)**  
 Manually add people to the impacted people list who may have visited the critical event location. Adding people help account for visitors, as their names won’t be automatically generated in the impacted people list.
 -   **[Export an impacted people list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/export-impacted-people-list.md)**  
-[[export-impacted-people-list|Export an impacted people list]] as a PDF, CSV, JSON, or Microsoft Excel file in Critical Event Management and either download or email the file.
+Export an impacted people list as a PDF, CSV, JSON, or Microsoft Excel file in Critical Event Management and either download or email the file.
 -   **[View an impacted person record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/view-impacted-person-record.md)**  
 View and track the status of an impacted person's record as an agent in Critical Event Management.
 -   **[Mark the status of impacted people as an agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/mark-status-of-impacted-people.md)**  
@@ -33,7 +33,3 @@ Mark the status of the impacted people in a critical event in the responder port
 
 **Parent Topic:**[Critical Event Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/critical-event-management.md)
 
-## Related
-
-- [[critical-event-management|Critical Event Management]]
-- [[export-impacted-people-list|Export an impacted people list]]

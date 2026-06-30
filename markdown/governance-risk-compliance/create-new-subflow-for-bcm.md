@@ -52,7 +52,7 @@ Application
 
 </td><td>
 
-Application scope for creating the subflow in. For the BCM tasks, you can select GRC: [[business-continuity-mangmt-overview|Business Continuity Management]].
+Application scope for creating the subflow in. For the BCM tasks, you can select GRC: Business Continuity Management.
 
 </td></tr><tr><td>
 
@@ -107,9 +107,5 @@ Roles that the subflow runs with. This option is only available when **Run as** 
 </td></tr></tbody>
 </table>For more information on creating a subflow, see [Create a subflow in Workflow Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/create-subflow.md).
 
-**Parent Topic:**[[automate-the-recovery-tasks|Automate recovery tasks]]
+**Parent Topic:**[Automate recovery tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/automate-the-recovery-tasks.md)
 
-## Related
-
-- [[automate-the-recovery-tasks|Automate recovery tasks]]
-- [[business-continuity-mangmt-overview|Business Continuity Management]]

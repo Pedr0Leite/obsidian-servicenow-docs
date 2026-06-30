@@ -22,7 +22,7 @@ Confirm that the following requirements are met:
 
 -   The idea is created from a universal request.
 -   The idea is associated with a category.
--   Personalize the [[create-an-idea-form|Create an Idea form]] to add the **Assigned to** field.
+-   Personalize the Create an Idea form to add the **Assigned to** field.
 -   The idea is assigned to an agent.
 -   Additional plugins required for transfer are active. For example, if the idea is being transferred as an HR case \(HRC\), activate the Human Resources Scoped App: Core \(com.sn\_hr\_core\), and Employee Center \(com.snc.employee\_center\) plugins.
 
@@ -65,6 +65,3 @@ The idea is transferred to the selected department. The **Primary Ticket** field
 
 **Parent Topic:**[Integrating Innovation Management with Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/universal-req-idea-mgmt.md)
 
-## Related
-
-- [[create-an-idea-form|Create an Idea form]]

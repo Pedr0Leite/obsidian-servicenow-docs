@@ -12,7 +12,7 @@ breadcrumb: [Exploring domain separation, Domain separation for service provider
 
 # Domain scope
 
-Domain scope defines what [[users|users]] can and cannot access.
+Domain scope defines what users can and cannot access.
 
 Every user has two domain scopes when establishing a session in a domain-separated instance.
 
@@ -91,7 +91,7 @@ When you deactivate a domain, the instance also automatically completes the foll
 
 For example, if you deactivate the ACME domain from the sample data, the instance also deactivates the ACME company, and the three sample users are locked out.
 
-**Parent Topic:**[[c_DomainSeparation|Exploring domain separation]]
+**Parent Topic:**[Exploring domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_DomainSeparation.md)
 
 **Related topics**  
 
@@ -106,7 +106,3 @@ For example, if you deactivate the ACME domain from the sample data, the instanc
 
 [Installed with domain separation]()
 
-## Related
-
-- [[c_DomainSeparation|Exploring domain separation]]
-- [[users|Users]]

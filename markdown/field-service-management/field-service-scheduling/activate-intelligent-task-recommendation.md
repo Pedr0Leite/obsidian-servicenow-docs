@@ -14,7 +14,7 @@ breadcrumb: [Configure Intelligent Task Recommendations, Setting up a Field Serv
 
 # Activate Intelligent Task Recommendation
 
-Activate the [[fsm-task-recommendation|Intelligent Task Recommendation]] plugin \(com.snc\_task\_recommendations\)\) for [[fsm-application-landing-page|Field Service Management]] if you have the admin role.
+Activate the Intelligent Task Recommendation plugin \(com.snc\_task\_recommendations\)\) for Field Service Management if you have the admin role.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Field Service Intelligent Task Recommendation feature requires the following plu
 -   Intelligent Task Recommendation \(sn\_task\_recommend\): Provides basic task recommendation framework scripts, configurations, and default extension points.
 -   Field Service Management Intelligent Task Recommendations \(sn\_fsm\_task\_rec\): Provides specific implementation and configuration for Field Service Management, which includes default filter constraints, ranking criteria, and Field Service Management extension points.
 
-Ensure the Field Service Management plugin is activated before you install Field Service Intelligent Task Recommendation. See [[t_ActivateFieldServiceManagement|Activate Field Service Management]] for more information.
+Ensure the Field Service Management plugin is activated before you install Field Service Intelligent Task Recommendation. See [Activate Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/t_ActivateFieldServiceManagement.md) for more information.
 
 Role required: admin
 
@@ -45,8 +45,4 @@ Role required: admin
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
-## Related
 
-- [[t_ActivateFieldServiceManagement|Activate Field Service Management]]
-- [[fsm-task-recommendation|Intelligent Task Recommendation]]
-- [[fsm-application-landing-page|Field Service Management]]

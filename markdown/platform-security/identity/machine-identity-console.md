@@ -20,7 +20,7 @@ Machine identities are digital identities that interact with systems and data. T
 
 <table id="table_t4k_14f_ryb" class="nav-card"><tbody><tr><td>
 
-[Explore\[Omitted image "bus-explore.svg"\] Alt text: Explore](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/identity/explore-machine-[[identity-landing|identity]]-console.md)
+[Explore\[Omitted image "bus-explore.svg"\] Alt text: Explore](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/identity/explore-machine-identity-console.md)
 
  [Learn the features and business value of Machine Identity Console.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/identity/explore-machine-identity-console.md)
 
@@ -34,12 +34,7 @@ Machine identities are digital identities that interact with systems and data. T
 
 Configure\[Omitted image "bus-sdlc.svg"\] Alt text: Set
 
- Configure [[inbound-integrations|Inbound integrations]] using the Machine Identity Console.
+ Configure Inbound integrations using the Machine Identity Console.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[identity-landing|Identity]]
-- [[inbound-integrations|Inbound integrations]]

@@ -22,7 +22,7 @@ Role required: Workplace manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-safety-mgmt-hr|Workplace Core]]** &gt; **Administration** &gt; **Workplace Entity Types**.
+1.  Navigate to **All** &gt; **Workplace Core** &gt; **Administration** &gt; **Workplace Entity Types**.
 
 2.  Select **New**.
 
@@ -31,7 +31,7 @@ Role required: Workplace manager
     |Field|Description|
     |-----|-----------|
     |Name|Name of the entity type. For example, Business Unit, Marketing Units, Projects and more.|
-    |Entity-mapping column|Workplace entity [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] column from the Workplace Entity table where the denormalized workplace entity information is stored.|
+    |Entity-mapping column|Workplace entity reference column from the Workplace Entity table where the denormalized workplace entity information is stored.|
     |Order|Order of an entity type based on its level in the hierarchy. The lower the order, the higher the entity type is set in the hierarchical structure. The lowest ordered entity type is set in the highest level in the hierarchy. For example, if you set ABC with order 1000 and XYZ with order 600 then XYZ is placed on top in the hierarchy level and ABC is set to lowest.|
     |Active|Option to activate the entity type.|
 
@@ -48,7 +48,3 @@ The entity type is created.
 
 **Parent Topic:**[Configure Workplace entity and entity types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/workplace-entity.md)
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

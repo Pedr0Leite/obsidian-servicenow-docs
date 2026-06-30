@@ -14,15 +14,11 @@ breadcrumb: [Configure, Vaccine Administration Management, Healthcare and Life S
 
 # Privacy policy settings for Vaccine Administration Management
 
-Users are required to provide their privacy consent at the time of registration on the [[hcls-vam|Vaccine Administration Management]] portal.
+Users are required to provide their privacy consent at the time of registration on the Vaccine Administration Management portal.
 
-The `Migrate Terms and Condition Data` fix script is used for moving existing users who have accepted the Vaccine Administration Management policy automatically to the new [[hcls-overview|Healthcare and Life Sciences]] policy.
+The `Migrate Terms and Condition Data` fix script is used for moving existing users who have accepted the Vaccine Administration Management policy automatically to the new Healthcare and Life Sciences policy.
 
 For more information about configuring privacy policy settings, see [Configure privacy policy settings for the Patient Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-config-privacy-policy.md).
 
 **Parent Topic:**[Configuring Vaccine Administration Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/vaccine-mgmt-config.md)
 
-## Related
-
-- [[hcls-vam|Vaccine Administration Management]]
-- [[hcls-overview|Healthcare and Life Sciences]]

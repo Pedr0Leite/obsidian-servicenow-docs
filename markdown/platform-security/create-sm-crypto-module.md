@@ -12,7 +12,7 @@ breadcrumb: [Secrets Management dashboard, Secrets Management, Platform Security
 
 # Create a secret group cryptographic module
 
-Create a secret group cryptographic module to perform [[encryption-landing|encryption]] and decryption.
+Create a secret group cryptographic module to perform encryption and decryption.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[secrets-management|Secrets Management]]** &gt; **Create Secret Group Crypto Module**.
+1.  Navigate to **All** &gt; **Secrets Management** &gt; **Create Secret Group Crypto Module**.
 
 2.  Select the type of group crypto module you would like to create.
 
@@ -118,10 +118,5 @@ The parent cryptographic module, which is determined by the cryptographic module
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[[secrets-dashboard|Secrets Management dashboard]]
+**Parent Topic:**[Secrets Management dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/secrets-dashboard.md)
 
-## Related
-
-- [[secrets-dashboard|Secrets Management dashboard]]
-- [[encryption-landing|Encryption]]
-- [[secrets-management|Secrets Management]]

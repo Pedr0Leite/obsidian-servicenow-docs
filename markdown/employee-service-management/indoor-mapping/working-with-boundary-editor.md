@@ -24,7 +24,7 @@ Role required: map admin, map editor, map editor limited
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[Indoor-mapping|Indoor Mapping]]** &gt; **Map Studio**.
+1.  Navigate to **All** &gt; **Indoor Mapping** &gt; **Map Studio**.
 
 2.  Select a Campus.
 
@@ -67,6 +67,3 @@ Role required: map admin, map editor, map editor limited
 
 **Next topic:**[Import outdoor elements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/import-outdoor-elements.md)
 
-## Related
-
-- [[Indoor-mapping|Indoor Mapping]]

@@ -37,10 +37,10 @@ Table rotation preserves instance performance and averts risk associated with qu
 
 You can use table rotation for sequentially-written tables or for insert-only tables. You cannot use table rotation for sys\_import tables or tables that extend the Task \[task\] table.
 
--   **[[t_ApplyTableRotation|Apply table rotation]]**  
+-   **[Apply table rotation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ApplyTableRotation.md)**  
 Preserve instance performance by applying table rotation.
 
-**Parent Topic:**[[c_DatabaseRotation|Applying database rotation techniques]]
+**Parent Topic:**[Applying database rotation techniques](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_DatabaseRotation.md)
 
 **Related topics**  
 
@@ -49,7 +49,3 @@ Preserve instance performance by applying table rotation.
 
 [Table extension]()
 
-## Related
-
-- [[t_ApplyTableRotation|Apply table rotation]]
-- [[c_DatabaseRotation|Applying database rotation techniques]]

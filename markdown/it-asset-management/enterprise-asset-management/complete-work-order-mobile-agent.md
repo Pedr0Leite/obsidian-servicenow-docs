@@ -156,7 +156,7 @@ Swap an asset or part with a replacement part
 
         7.  On the Calibration lines screen, select the calibration line that you want to complete or skip.
 
-            Each calibration line corresponds with a calibration attribute on the associated enterprise asset. If any calibration attribute contains multiple points at which you can measure accuracy, the [[enterprise-asset-management|Enterprise Asset Management]] application creates a separate calibration line for each point. You can choose to complete or skip each calibration line as needed. For more details on calibration attributes, see [Add calibration attributes to an enterprise asset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/add-calibration-attributes-enterprise-asset.md) or [Add calibration attributes to an enterprise model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/add-calibration-attributes-enterprise-model.md).
+            Each calibration line corresponds with a calibration attribute on the associated enterprise asset. If any calibration attribute contains multiple points at which you can measure accuracy, the Enterprise Asset Management application creates a separate calibration line for each point. You can choose to complete or skip each calibration line as needed. For more details on calibration attributes, see [Add calibration attributes to an enterprise asset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/add-calibration-attributes-enterprise-asset.md) or [Add calibration attributes to an enterprise model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/add-calibration-attributes-enterprise-model.md).
 
         8.  On the Calibration line record, use one of the following options to complete or skip the calibration line:
             -   To complete the calibration line, tap **Edit**. On the Edit calibration line screen, fill in the fields and then tap **Submit**.
@@ -257,6 +257,3 @@ Close the work order associated with the enterprise asset. For details, see [Clo
 
 [Move enterprise assets to maintenance state using the Mobile Agent application]()
 
-## Related
-
-- [[enterprise-asset-management|Enterprise Asset Management]]

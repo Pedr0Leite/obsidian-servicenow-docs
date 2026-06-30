@@ -22,7 +22,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 <table id="table_cmj_pv1_abc" class="nav-card"><tbody><tr><td>
 
-[Explore\[Omitted image "bus-[[threat-intelligence-security-center-overview|explore]].svg"\] Alt text:Learn about the features of Security Incident Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/what-is-sir.md)
+[Explore\[Omitted image "bus-explore.svg"\] Alt text:Learn about the features of Security Incident Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/what-is-sir.md)
 
 </td><td>
 
@@ -38,7 +38,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td><td>
 
-[Use the [[sir-workspace-landing-page|Security Incident Response Workspace]]\[Omitted image "bus-agent-workspace-1.svg"\] Alt text:Learn how to use the Security Incident Response and IT Remediation Workspaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/sir-workspace-landing-page.md)
+[Use the Security Incident Response Workspace\[Omitted image "bus-agent-workspace-1.svg"\] Alt text:Learn how to use the Security Incident Response and IT Remediation Workspaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/sir-workspace-landing-page.md)
 
 </td><td>
 
@@ -57,7 +57,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
  
 
 </td></tr></tbody>
-</table>## Request a [[security-operations-landing-page|Security Operations]] app on Store
+</table>## Request a Security Operations app on Store
 
 If you are a new Security Operations customer on London Patch 6 or later, visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) website to view all the available apps and for information about submitting requests to the store.
 
@@ -68,8 +68,3 @@ If you are a new Security Operations customer on London Patch 6 or later, visit 
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[threat-intelligence-security-center-overview|Explore]]
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[security-operations-landing-page|Security Operations]]

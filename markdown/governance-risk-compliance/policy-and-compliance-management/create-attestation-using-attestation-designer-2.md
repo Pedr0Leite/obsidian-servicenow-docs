@@ -56,7 +56,7 @@ Role required: sn\_compliance.attestation\_creator, sn\_compliance.manager, sn\_
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **Policy and Compliance** &gt; **[[Administration|Administration]]** &gt; **Attestation Types**.
+1.  Navigate to **All** &gt; **Policy and Compliance** &gt; **Administration** &gt; **Attestation Types**.
 
 2.  Click **Attestation Designer**.
 
@@ -210,7 +210,7 @@ Template
 
 </td><td>
 
-Choice list of templates that provide a predefined scale of options. **Note:** It is important to assign a template to every attestation. This allows controls to be created automatically based on control objectives and [[entity-type-in-risk-ws|entity types]].
+Choice list of templates that provide a predefined scale of options. **Note:** It is important to assign a template to every attestation. This allows controls to be created automatically based on control objectives and entity types.
 
 </td><td>
 
@@ -283,7 +283,7 @@ Role required: sn\_compliance.attestation\_creator or sn\_compliance.manager or 
 
 ## Group attestations using Same Response
 
-[[r_PolicyComplianceMgmt|Policy and Compliance Management]] and Risk Management offer two methods for consolidating attestations and [[risk-assessments|risk assessments]] into groups that help eliminate the task of providing repetitive responses for similar assessments. You can provide the same evidence to the grouped assessments or respond to individual assessments in the same user interface.
+Policy and Compliance Management and Risk Management offer two methods for consolidating attestations and risk assessments into groups that help eliminate the task of providing repetitive responses for similar assessments. You can provide the same evidence to the grouped assessments or respond to individual assessments in the same user interface.
 
 ### Before you begin
 
@@ -481,9 +481,4 @@ Role required: sn\_compliance.admin, sn\_compliance.manager
 
 4.  Click **Submit**.
 
-## Related
 
-- [[Administration|Administration]]
-- [[entity-type-in-risk-ws|Entity types]]
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[risk-assessments|risk assessments]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, Workplace Connectors, Workplace Service Delivery, Employ
 
 # Setup Workplace Connectors for badging data
 
-As a [[workplace-connectors-landing-page|Workplace Connectors]] administrator, [[configure-workplace-connectors|configure Workplace Connectors]] to import data from workplace badging data records. For example, [[employee-attendance|employee attendance data]] from badging spokes.
+As a Workplace Connectors administrator, configure Workplace Connectors to import data from workplace badging data records. For example, employee attendance data from badging spokes.
 
 The badging vendor Spoke is designed to handle badging data from a specific vendor. It utilizes a badging data table as the source for retrieving the data. It also allows for importing CSV data files through the SFTP method. A scheduled import set is used to transform the file and populate the Badging Data table.
 
@@ -38,7 +38,7 @@ To register details for a new provider, configure a provider to import data from
 5.  [Employee attendance data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/employee-attendance.md)  
 The Employee Attendance data \[sn\_wsd\_wc\_employee\_attendance\_data\] is the target table that contains the employee badging data and employee access records.
 6.  [Attendance Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/attendance-analytics.md)  
-The [[attendance-analytics|Attendance analytics]] table computes badging data based on the employee head count at the region, site, campus, and building level. It derives occupancy data from the Employee Attendance Data table.
+The Attendance analytics table computes badging data based on the employee head count at the region, site, campus, and building level. It derives occupancy data from the Employee Attendance Data table.
 
 **Parent Topic:**[Configure Workplace Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/configure-workplace-connectors.md)
 
@@ -46,9 +46,3 @@ The [[attendance-analytics|Attendance analytics]] table computes badging data ba
 
 **Next topic:**[Configure data Sources and schedule imports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/import-data-connector.md)
 
-## Related
-
-- [[workplace-connectors-landing-page|Workplace Connectors]]
-- [[configure-workplace-connectors|Configure Workplace Connectors]]
-- [[employee-attendance|Employee attendance data]]
-- [[attendance-analytics|Attendance Analytics]]

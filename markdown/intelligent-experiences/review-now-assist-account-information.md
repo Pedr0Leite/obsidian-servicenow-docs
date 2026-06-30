@@ -13,7 +13,7 @@ breadcrumb: [Now Assist Admin Settings, Exploring Now Assist Admin, Now Assist, 
 
 # Review Now Assist account
 
-Review your [[platform-now-assist-landing|Now Assist]] license details on the Account page of the Now Assist Admin console to make sure that you're up to date on what's available to you.
+Review your Now Assist license details on the Account page of the Now Assist Admin console to make sure that you're up to date on what's available to you.
 
 ## Before you begin
 
@@ -38,12 +38,7 @@ From the Account page, you can review the licensing information to verify which 
 
 ## What to do next
 
-Turn on the skills that you want for your Now Assist workflow applications so that you can use generative AI capabilities across the ServiceNow AI Platform. For more information, see [[configuring-na-landing|Configuring Now Assist Admin features]].
+Turn on the skills that you want for your Now Assist workflow applications so that you can use generative AI capabilities across the ServiceNow AI Platform. For more information, see [Configuring Now Assist Admin features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configuring-na-landing.md).
 
-**Parent Topic:**[[configure-now-assist-admin-settings|Now Assist Admin Settings]]
+**Parent Topic:**[Now Assist Admin Settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-now-assist-admin-settings.md)
 
-## Related
-
-- [[configuring-na-landing|Configuring Now Assist Admin features]]
-- [[configure-now-assist-admin-settings|Now Assist Admin Settings]]
-- [[platform-now-assist-landing|Now Assist]]

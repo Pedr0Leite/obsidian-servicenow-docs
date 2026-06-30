@@ -14,7 +14,7 @@ breadcrumb: [Create a project using Classic view, Use, Process Mining, Platform 
 
 # Manage a project
 
-Edit or delete a project from the [[new-project-def|Project Definition form]]. Delete a project if you are not using it and want to clean up data. Deleting a project deletes the project's configurations and versions or projects it has generated.
+Edit or delete a project from the Project Definition form. Delete a project if you are not using it and want to clean up data. Deleting a project deletes the project's configurations and versions or projects it has generated.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_process\_mining\_power\_user, or sn\_process\_mining\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[process-mining|Process Mining]]** &gt; **[[analyst-workbench-overview|Process Mining Workspace]]**.
+1.  Navigate to **All** &gt; **Process Mining** &gt; **Process Mining Workspace**.
 
 2.  From the Project list, select the ellipses beside the project.
 
@@ -45,8 +45,3 @@ Perform a data extraction on the updated project to view it in Analyst workbench
 
 **Parent Topic:**[Create a project using Classic view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/create-proj.md)
 
-## Related
-
-- [[new-project-def|Project definition form]]
-- [[process-mining|Process Mining]]
-- [[analyst-workbench-overview|Process Mining workspace]]

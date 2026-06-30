@@ -16,7 +16,7 @@ breadcrumb: [Manage goals, Goal Framework and Goal Framework for SPM, Strategic 
 
 You can associate a goal or target as the primary for the work and planning items where the items contribute to achieving the goal or target. You need different roles to set a goal or target as the primary for work and planning items.
 
-You can associate a goal or target as primary to work and planning items by populating the **Primary goal** and **Primary target** fields on the Project, Demand, Program, Feature, Epic, and Planning item [[form-field-information-for-dw|forms]].
+You can associate a goal or target as primary to work and planning items by populating the **Primary goal** and **Primary target** fields on the Project, Demand, Program, Feature, Epic, and Planning item forms.
 
 You can also associate non-primary goals or targets to work and planning items from the Goal/Target Relationships related list on the Project, Demand, Program, Feature, Epic, and Planning item forms.
 
@@ -97,7 +97,7 @@ Feature
 
 </td><td>
 
-[[agile-landing-page|Agile Development 2.0]]
+Agile Development 2.0
 
 </td><td>
 
@@ -165,7 +165,7 @@ Planning item \(Project, Demand, and Scrum/SAFe Epic\)
 
 </td><td>
 
-[[alignment-planner-workspace-landing-page|Strategic Planning]]
+Strategic Planning
 
 </td><td>
 
@@ -178,9 +178,3 @@ sn\_align\_core.apw\_user
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[form-field-information-for-dw|Forms]]
-- [[agile-landing-page|Agile Development 2.0]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

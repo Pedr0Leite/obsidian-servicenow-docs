@@ -16,7 +16,7 @@ breadcrumb: [Performance management: Metric collection, Telecom Assurance, Explo
 
 The Formula Engine processes raw KPI formulas and stores the result in the **Formatted KPI Formula** field when a record is inserted or updated in the MPN Formulas \[sn\_tsom\_em\_conns\_kpi\_definitions\] table.
 
-When a record is inserted or updated in the [[nokia-mpn-formulas-table|MPN Formulas table]], a business rule named Transform KPI Formula to Script fires automatically. It invokes the `NokiaMpnFormulaEngineSEP` extension point to process the raw formula before it is stored in the **Formatted KPI Formula** field.
+When a record is inserted or updated in the MPN Formulas table, a business rule named Transform KPI Formula to Script fires automatically. It invokes the `NokiaMpnFormulaEngineSEP` extension point to process the raw formula before it is stored in the **Formatted KPI Formula** field.
 
 The processing runs in two steps:
 
@@ -35,6 +35,3 @@ The resulting value is written to the **Formatted KPI Formula** field and is the
 
 [MPN Formulas table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/nokia-mpn-formulas-table.md)
 
-## Related
-
-- [[nokia-mpn-formulas-table|MPN Formulas table]]

@@ -63,7 +63,7 @@ The modified preview text displayed on the standard article template selector.
 
 ## Example
 
-The following code is modified to show custom preview text. You can also include [[html|HTML]] tags to modify the appearance of preview text.
+The following code is modified to show custom preview text. You can also include HTML tags to modify the appearance of preview text.
 
 ```
 var ArticleTemplateUtil = Class.create();
@@ -77,6 +77,3 @@ var ArticleTemplateUtil = Class.create();
 
 **Parent Topic:**[Configure knowledge article templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/configure-knowledge-article-templates.md)
 
-## Related
-
-- [[html|HTML]]

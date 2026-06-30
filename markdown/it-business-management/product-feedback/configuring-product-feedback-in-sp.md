@@ -16,7 +16,7 @@ breadcrumb: [Feedback application in Strategic Planning, Strategic Planning, Str
 
 Configure Feedback application with other applications to submit your feedback.
 
-Install the [[alignment-planner-workspace-landing-page|Strategic Planning]] application from ServiceNow Store and start configuring Feedback application. For more information on how to [[install-alignment-planner-workspace|install Strategic Planning]], see [Install Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/install-alignment-planner-workspace.md).
+Install the Strategic Planning application from ServiceNow Store and start configuring Feedback application. For more information on how to install Strategic Planning, see [Install Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/install-alignment-planner-workspace.md).
 
 -   **[Install ServiceNow Add-in for Microsoft Outlook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/install-servicenow-add-in-for-outlook.md)**  
 Configure user roles and download the office add-in manifest file to use the ServiceNow® add-in for Microsoft Outlook.
@@ -25,7 +25,7 @@ Create or submit feedback from Microsoft Outlook directly. By configuring feedba
 -   **[Configure email for feedback submission](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/configure-outlook-email-for-feedback.md)**  
 Configure email settings in your instance and send an email to this id to create feedback.
 -   **[Integrate the Idea portal with Feedback application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/integrate-idea-portal-with-product-feedback.md)**  
-[[integrate-idea-portal-with-product-feedback|Integrate the Idea portal with Feedback application]] to enable collaboration of product ideas with feedback.
+Integrate the Idea portal with Feedback application to enable collaboration of product ideas with feedback.
 -   **[Configure non-planning items for feedback or product ideas records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/config-items-sp.md)**  
 Configure non-planning items to link your feedback or product idea records to navigate quickly between related items.
 -   **[Configure the filters for feedback or product idea overview page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/configure-feedback-or-idea-overview-page.md)**  
@@ -38,8 +38,3 @@ Configure the filters for the feedback or product idea overview page to display 
 
 [Configuring Strategic Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/setting-up-alignment-planner-workspace.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[install-alignment-planner-workspace|Install Strategic Planning]]
-- [[integrate-idea-portal-with-product-feedback|Integrate the Idea portal with Feedback application]]

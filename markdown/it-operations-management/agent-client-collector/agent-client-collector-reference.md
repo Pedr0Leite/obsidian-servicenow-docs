@@ -14,7 +14,7 @@ breadcrumb: [Agent Client Collector reference, Agent Client Collector, IT Operat
 
 # Agent Client Collector Framework reference
 
-Reference topics provide additional information about mapping and fine-tuning application services using [[acc-landing-page|Agent Client Collector]] Framework lists and forms.
+Reference topics provide additional information about mapping and fine-tuning application services using Agent Client Collector Framework lists and forms.
 
 -   **[Agent Client Collector user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-users.md)**  
 Administrators can assign user roles to grant access to the Agent Client Collector. The following standard roles for the Agent Client Collector Framework \(ACC-F\) are included in the ServiceNow system with the Agent Client Collector installed on it.
@@ -43,11 +43,11 @@ Options available in the `acc.yml` configuration file.
 -   **[Synchronization properties for validating Agent Client Collector plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/plugin-validation-reference.md)**  
 Use the following properties when synchronizing public certificates from the MID Server to the Agent Client Collector.
 -   **[Agent Client Collector statuses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-statuses.md)**  
-The following table lists and describes the [[agent-statuses|Agent Client Collector statuses]].
+The following table lists and describes the Agent Client Collector statuses.
 -   **[Agent Client Collector log levels](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-logs-reference.md)**  
 The following table displays the available log levels which indicate the severity of Agent Client Collector events.
 -   **[Agent Client Collector log rotation parameters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-log-rotation-reference.md)**  
-If [[acc-logs-concept|Agent Client Collector logs]] get too large, they can drain system resources. To ensure system efficiency, configure parameters in the `acc.yml` file by which to rotate logs out of the system's storage \(Windows default location = `C:\ProgramData\ServiceNow\agent-client-collector\config\acc.yml`. Linux default location = `/etc/servicenow/agent-client-collector/acc.yml`\).
+If Agent Client Collector logs get too large, they can drain system resources. To ensure system efficiency, configure parameters in the `acc.yml` file by which to rotate logs out of the system's storage \(Windows default location = `C:\ProgramData\ServiceNow\agent-client-collector\config\acc.yml`. Linux default location = `/etc/servicenow/agent-client-collector/acc.yml`\).
 -   **[Agent Client Collector CPU protection thresholds](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-set-silent-reference.md)**  
 When an agent meets the configured thresholds specified in the agent's `acc.yml` file, it enters CPU protection mode, either for an individual check or for all checks. Agents in CPU protection mode appear in the agent logs with the syntax `Agent Protection`.
 -   **[Golden image structure and modularity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/golden-image-structure-modularity.md)**  
@@ -67,8 +67,3 @@ Operating systems and package types supported for Agent Client Collector auto-up
 
 **Parent Topic:**[Agent Client Collector reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-reference.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[agent-statuses|Agent Client Collector statuses]]
-- [[acc-logs-concept|Agent Client Collector logs]]

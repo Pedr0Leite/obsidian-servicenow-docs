@@ -19,7 +19,7 @@ Add and manage files using file nodes in the config data model of a CDM app or i
 
 ## Before you begin
 
-**Important:** Starting with the Washington D.C. release, [[devops-config-landing-page|DevOps Config]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+**Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 Role required: cdm\_editor or cdm\_admin
 
@@ -53,7 +53,7 @@ Steps
 </td><td>
 
 1.  Select the apps icon \(\[Omitted image "devops-config-apps-icon.png"\] Alt text: DevOps Config apps icon\) in the left navigation pane.
-2.  Select an app from the [[application-form|Applications list]].
+2.  Select an app from the Applications list.
 3.  Select **Edit config data** to [open a changeset.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-changeset-cr-u.md)
 
 
@@ -172,8 +172,3 @@ If a file node is included in a collection and into a deployable, then you can o
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]
-- [[application-form|Applications list]]

@@ -14,7 +14,7 @@ breadcrumb: [Getting started with Service Operations Workspace for ITSM, Configu
 
 # Configuring Problem Management in Service Operations Workspace
 
-Configure the features of [[c_ProblemManagement|Problem Management]] to manage problems and problem tasks in Service Operations Workspace
+Configure the features of Problem Management to manage problems and problem tasks in Service Operations Workspace
 
 ## Configuration overview
 
@@ -23,11 +23,7 @@ It is recommended that you activate the Problem Management Best Practice — Mad
 **Note:**
 
 -   The best practice states introduced in this plugin are not compatible with previous versions of Problem Management and require verification before this plugin can be activated.
--   This plugin is activated by default for the new instances. If the plugin is not active on your instance, use the Problem Management [[migration-utility|migration utility]] to verify and migrate to this plugin. For information about the migration utility, see [Migration Utility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/migration-utility.md).
+-   This plugin is activated by default for the new instances. If the plugin is not active on your instance, use the Problem Management migration utility to verify and migrate to this plugin. For information about the migration utility, see [Migration Utility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/migration-utility.md).
 
 You can configure the problem record overview tab and its UI elements in the Service Operations Workspace Admin Center. For more information, see [Manage configurations in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/manage-admin-console-sow-itsm.md).
 
-## Related
-
-- [[c_ProblemManagement|Problem Management]]
-- [[migration-utility|Migration Utility]]

@@ -14,7 +14,7 @@ breadcrumb: [Service Catalog, Manage service capabilities, Extend ServiceNow AI 
 
 # Creating a Service Catalog Wizard
 
-[[service-catalog|Service Catalog]] wizards help you to create wizard like, multi-step experiences.
+Service Catalog wizards help you to create wizard like, multi-step experiences.
 
 ## Before you begin
 
@@ -22,9 +22,9 @@ Service Catalog wizards are especially useful when the input required is huge an
 
 Pre-requisites for creating Service Catalog wizards:
 
--   Ensure that you have either a composite [[c_RecordProducer|record producer]], or a record producer set up. For more information, see [Create a record producer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_DefRecProdInSCat.md).
+-   Ensure that you have either a composite record producer, or a record producer set up. For more information, see [Create a record producer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_DefRecProdInSCat.md).
 -   The **Save options** field must have the value **Save in destination** in the composite record producer or record producer to enable the wizard to create records.
--   The **Allow edit** option should be selected on the composite record producer or [[record-producer-form|record producer form]] so that records are editable in the wizard.
+-   The **Allow edit** option should be selected on the composite record producer or record producer form so that records are editable in the wizard.
 
 Role required: wizard\_admin, or admin
 
@@ -73,7 +73,7 @@ The wizard uses a composite record producer, or record producer.
 
 </td><td>
 
-[[reference|Reference]] of the composite record producer, or record producer.
+Reference of the composite record producer, or record producer.
 
 </td></tr><tr><td>
 
@@ -125,7 +125,7 @@ If **true**, the **Submit** button is displayed in the last step.
 
 </td></tr><tr><td>
 
-**Review step [[label|label]]**
+**Review step label**
 
 </td><td>
 
@@ -136,7 +136,7 @@ Label of the Review and submit step.
 
     -   [Add step, section, or question to catalog item wizard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/configure-the-catalog-builder-experience.md)
     -   [Catalog Wizard form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/service-catalog-wizard-forms-field.md)
-    \[Omitted image "wiztemplate\_callouts.png"\] Alt text: [[service-catalog-wizard-forms-field|Catalog Wizard form]].
+    \[Omitted image "wiztemplate\_callouts.png"\] Alt text: Catalog Wizard form.
 
     After you set up the field values, the resulting wizard with the steps, layout, labels, and other elements appear as follows:
 
@@ -165,11 +165,3 @@ Create and configure declarative actions to enable administrators to configure b
 
 **Parent Topic:**[Service Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/service-catalog.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[c_RecordProducer|Record Producer]]
-- [[record-producer-form|Record Producer form]]
-- [[reference|Reference]]
-- [[label|Label]]
-- [[service-catalog-wizard-forms-field|Catalog Wizard form]]

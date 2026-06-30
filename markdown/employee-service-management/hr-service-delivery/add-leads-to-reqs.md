@@ -14,7 +14,7 @@ breadcrumb: [Job prospects, Use, Talent Profile, Hiring Experiences, HR Service 
 
 # Add prospects to job requisitions
 
-Add relevant profiles directly to the job requisition as [[job-leads|job prospects]].
+Add relevant profiles directly to the job requisition as job prospects.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[recruitment-workspace-concept|Recruitment workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Recruitment workspace**.
 
 2.  Go to the **Job requisition** tab.
 
@@ -30,7 +30,7 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
 4.  Go to the **Prospects** tab of the job requisition record page.
 
-5.  Select **Add prospects** to view the talent profiles and [[talent-pool-overview|talent pool]], you've access to, listed in the Add prospects pop-up window.
+5.  Select **Add prospects** to view the talent profiles and talent pool, you've access to, listed in the Add prospects pop-up window.
 
 6.  You can either choose talent profiles or choose profiles from a talent pool.
 
@@ -43,8 +43,3 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
 **Parent Topic:**[Job prospects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/job-leads.md)
 
-## Related
-
-- [[job-leads|Job prospects]]
-- [[recruitment-workspace-concept|Recruitment workspace]]
-- [[talent-pool-overview|Talent pool]]

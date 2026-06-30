@@ -14,7 +14,7 @@ breadcrumb: [Entity filters, Entity types, Explore entities, Common GRC features
 
 # Create an entity filter in the Core UI
 
-[[create-new-entity-filter-ws|Create an entity filter]] under an entity type in the classic user interface. The entity filter defines the table from which data is pulled into each entity type for display. If the entities belong to an application, the users who have access to the [[entity-class|entity class]] that is associated with the entity can only view those entities.
+Create an entity filter under an entity type in the classic user interface. The entity filter defines the table from which data is pulled into each entity type for display. If the entities belong to an application, the users who have access to the entity class that is associated with the entity can only view those entities.
 
 ## Before you begin
 
@@ -22,9 +22,9 @@ Role required: sn\_grc.manager
 
 ## Procedure
 
-1.  In the classic user interface, navigate to the **[[entity-type-in-risk-ws|Entity types]]** list.
+1.  In the classic user interface, navigate to the **Entity types** list.
 
-2.  Click an entity type in the list and navigate to the **[[what-is-an-entity-filter|Entity Filters]]** tab.
+2.  Click an entity type in the list and navigate to the **Entity Filters** tab.
 
 3.  To create a new entity filter, click **New**.
 
@@ -98,9 +98,3 @@ Option to use **Owner** field information in the query. The owner is the identif
 
 **Parent Topic:**[Entity filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/what-is-an-entity-filter.md)
 
-## Related
-
-- [[create-new-entity-filter-ws|Create an entity filter]]
-- [[entity-class|entity class]]
-- [[entity-type-in-risk-ws|Entity types]]
-- [[what-is-an-entity-filter|Entity filters]]

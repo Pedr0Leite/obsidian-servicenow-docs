@@ -12,24 +12,16 @@ breadcrumb: [Email Administration, Notifications, Configure core features, Admin
 
 # Reference
 
-Reference section provides additional information about [[c_EmailConfiguration|email administration]].
+Reference section provides additional information about email administration.
 
--   **[[c_EmailAttachmentLimits|Email size limits]]**  
+-   **[Email size limits](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailAttachmentLimits.md)**  
 To prevent issues with large email messages, the system enforces configured limits on the maximum allowed email body size, total attachment file size, and number of attachments per email.
--   **[[change-bounce-email-status|Check the status of bounced email addresses]]**  
+-   **[Check the status of bounced email addresses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/change-bounce-email-status.md)**  
 Choose the email address record that you want to modify, and update the state field as needed.
--   **[[user-criteria-form-notifications|User criteria form]]**  
+-   **[User criteria form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-criteria-form-notifications.md)**  
 User criteria enables you to allow access to users based on role, department, group, location, or company. Administrators can control access by creating and applying user criteria. User criteria records define conditions that are evaluated against user records. When user criteria is defined, records are only visible to users who pass the defined conditions.
--   **[[granular-admin-roles-notifications|Granular admin roles for Notifications]]**  
+-   **[Granular admin roles for Notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/granular-admin-roles-notifications.md)**  
 Granular admin roles enable organizations to assign specific administrative permissions based on functional responsibilities, replacing broad admin access with targeted role assignments. Use the new admin roles to grant users administrative capability without using the admin role.
 
-**Parent Topic:**[[email-administration-landing|Email Administration]]
+**Parent Topic:**[Email Administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/email-administration-landing.md)
 
-## Related
-
-- [[c_EmailAttachmentLimits|Email size limits]]
-- [[change-bounce-email-status|Check the status of bounced email addresses]]
-- [[user-criteria-form-notifications|User criteria form]]
-- [[granular-admin-roles-notifications|Granular admin roles for Notifications]]
-- [[email-administration-landing|Email Administration]]
-- [[c_EmailConfiguration|Email administration]]

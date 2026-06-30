@@ -12,13 +12,13 @@ breadcrumb: [Add tools and information, Create an AI agent, Now Assist AI agents
 
 # Add a Now Assist skill to an AI agent
 
-Add a generative AI skill to an AI agent in [[ai-agent-studio|AI Agent Studio]]. You can customize the skills to meet the needs of your users in different workflows.
+Add a generative AI skill to an AI agent in AI Agent Studio. You can customize the skills to meet the needs of your users in different workflows.
 
 ## Before you begin
 
-If you want to add a custom skill to an AI agent, the skill must be published and activated on the [[platform-now-assist-landing|Now Assist]] Admin console. For more information on deploying custom skills, see [Finalize and publish a custom skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/publish-skill.md) and [Activate a custom skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/activate-skill.md).
+If you want to add a custom skill to an AI agent, the skill must be published and activated on the Now Assist Admin console. For more information on deploying custom skills, see [Finalize and publish a custom skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/publish-skill.md) and [Activate a custom skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/activate-skill.md).
 
-When an AI agent uses a skill as a tool, the user the AI agent is running as must pass the ACL of the skill. Ensure that the security [[exploring-ai-governance|configurations]] for the skill are met by the AI agent and agentic workflow. For more information on setting skill-level ACLs, see [Configure access control lists for a skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/nask-access-control.md).
+When an AI agent uses a skill as a tool, the user the AI agent is running as must pass the ACL of the skill. Ensure that the security configurations for the skill are met by the AI agent and agentic workflow. For more information on setting skill-level ACLs, see [Configure access control lists for a skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/nask-access-control.md).
 
 Role required: sn\_aia.admin
 
@@ -88,9 +88,9 @@ Display output
 
 </td><td>
 
-Permission to display the output of the tool execution in the [[now-assist-center-now-assist-panel|Now Assist panel]] or in Virtual Agent:-   **Yes**
+Permission to display the output of the tool execution in the Now Assist panel or in Virtual Agent:-   **Yes**
 -   **No**
-If you want the AI agent to work in Off Glide architecture with [[now-assist-panel-premium|Premium Chat]] experience, you must turn-on the **Display output** toggle. When the toggle is turned-on, you can add widgets that can be used in assistants built with Premium Chat experiences. The widget configuration includes:
+If you want the AI agent to work in Off Glide architecture with Premium Chat experience, you must turn-on the **Display output** toggle. When the toggle is turned-on, you can add widgets that can be used in assistants built with Premium Chat experiences. The widget configuration includes:
 
 -   **Widget**: Defines the display output to render the content in a better user experience. You can select the widget from the drop-down.
 -   **Require widget transformation**: An additional LLM call is required to transform the raw tool. If you choose to skip this transformation step, the tool output will be directly mapped to the widget.
@@ -133,10 +133,4 @@ Message to display to users during tool execution.-   In-progress message: Write
 
     A Now Assist skill tool is added in the Skills section on the Add tools and information page.
 
-## Related
 
-- [[ai-agent-studio|AI Agent Studio]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[exploring-ai-governance|Configurations]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[now-assist-panel-premium|Premium chat]]

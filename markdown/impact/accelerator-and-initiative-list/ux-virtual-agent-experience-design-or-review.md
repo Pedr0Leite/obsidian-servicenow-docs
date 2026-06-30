@@ -19,7 +19,7 @@ This accelerator provides guidance on designing or improving the conversational 
 
 ## Accelerator Overview
 
-UX: Virtual Agent Experience Design or Review helps [[impact-landing-page|Impact]] customers create more intuitive and efficient Virtual Agent \(VA\) and Now Assist in VA experiences. We will review their existing VA implementation and share conversation design best practices to [[io-help|help]] users resolve inquiries faster with less frustration. We will provide actionable recommendations to enhance user interactions, streamline conversation flows, and boost overall satisfaction.
+UX: Virtual Agent Experience Design or Review helps Impact customers create more intuitive and efficient Virtual Agent \(VA\) and Now Assist in VA experiences. We will review their existing VA implementation and share conversation design best practices to help users resolve inquiries faster with less frustration. We will provide actionable recommendations to enhance user interactions, streamline conversation flows, and boost overall satisfaction.
 
 ## Package Availability
 
@@ -30,7 +30,7 @@ UX: Virtual Agent Experience Design or Review helps [[impact-landing-page|Impact
 -   **Session Preparation**
     -   Provision of a temporary instance
     -   Activation and configuration of related plugins, if needed
-    -   Review of customer goals and current VA [[user-experience-insights|user experience]], if available, to assess and provide recommendations for improvement
+    -   Review of customer goals and current VA user experience, if available, to assess and provide recommendations for improvement
 -   **Customer Coaching Session \#1 \(up to 90 min\)**
 
     Includes the following:
@@ -58,8 +58,3 @@ UX: Virtual Agent Experience Design or Review helps [[impact-landing-page|Impact
 
 **Note:** Additional details on supplemental legal terms, prerequisites, specifications, requirements, and exclusions can be found in the [Impact Accelerator Terms Matrix](https://www.servicenow.com/legal/servicenow-impact.html).
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[io-help|Help]]
-- [[user-experience-insights|User Experience]]

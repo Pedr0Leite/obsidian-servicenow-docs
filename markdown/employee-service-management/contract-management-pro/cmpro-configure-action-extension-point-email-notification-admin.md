@@ -68,7 +68,7 @@ The base system `ApprovalNotificationWorkspaceURLExt` script provides the config
 
         2.  To add a new action, update the **process** method.
 
-            For [[reference-hr-service-delivery-advanced-integration-with-workday|reference]], see an existing **process** method of the `DefaultLegalTicketActions` script include or the implementation of another practice area.
+            For reference, see an existing **process** method of the `DefaultLegalTicketActions` script include or the implementation of another practice area.
 
     4.  Click **Update**.
 
@@ -81,6 +81,3 @@ To create new email notifications, see [Create an email notification](https://ra
 
 **Parent Topic:**[Manage notifications in Contract Management Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-manage-notifications.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

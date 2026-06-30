@@ -40,11 +40,7 @@ The order is rejected and its state changes to Rejected. Rejected orders can be 
 **Related topics**  
 
 
-[[order-mgt-configuring|Configuring Order Management]]
+[Configuring Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-configuring.md)
 
-[[explore-order-management|Order management]]
+[Order management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-order-management.md)
 
-## Related
-
-- [[order-mgt-configuring|Configuring Order Management]]
-- [[explore-order-management|Order management]]

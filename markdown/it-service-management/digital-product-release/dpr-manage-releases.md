@@ -22,7 +22,7 @@ Role required: sn\_dpr\_model.release\_coordinator, sn\_dpr\_model.product\_mana
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[dpr-workspace|Digital Product Release Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Digital Product Release Workspace**.
 
 2.  Select the releases icon \(\[Omitted image "dpr-icon-release.png"\] Alt text: Releases icon.\).
 
@@ -40,7 +40,7 @@ Release bundles help you to group multiple releases to track and manage them con
 -   **[Review and update release details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-work-release-details.md)**  
 Review and modify the details of a release. You can also retarget the readiness date of the release as required.
 -   **[Add a product to a multi-product release](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-add-product-release.md)**  
-[[dpr-add-product-release|Add a product to a multi-product release]] to expand the scope of the release as requirements evolve. The added product gets its own child release with phases, tasks, and policies aligned to the main release.
+Add a product to a multi-product release to expand the scope of the release as requirements evolve. The added product gets its own child release with phases, tasks, and policies aligned to the main release.
 -   **[Remove a product from a multi-product release](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-remove-product-release.md)**  
 Remove an included product from a multi-product release when the product is no longer part of the release plan.
 -   **[Update the scope of a release](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-work-release-scope.md)**  
@@ -48,7 +48,7 @@ Review and update the scope of the release by adding or removing product enhance
 -   **[Manage configuration items in a release](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-work-release-config-items.md)**  
 View and manage the configuration items \(CIs\) in a release phase. Use the associated CIs to manage change requests and tasks in the release.
 -   **[Manage change requests in a release](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-work-release-change-request.md)**  
-View and [[dpr-work-release-change-request|manage change requests in a release]]. You can create and add new change requests to the release or add existing ones.
+View and manage change requests in a release. You can create and add new change requests to the release or add existing ones.
 -   **[Generate AI-powered release notes for a release](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-generate-release-notes.md)**  
 Generate structured release notes for a release using AI-driven summarization, reducing manual effort and improving clarity for stakeholders. The release notes are generated from the release scope.
 -   **[Manage artifacts in a release](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-work-release-artifact.md)**  
@@ -62,8 +62,3 @@ Complete a release after all tasks have been completed and all phases are in com
 
 **Parent Topic:**[Using Digital Product Release](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-using-digital-product-release.md)
 
-## Related
-
-- [[dpr-workspace|Digital Product Release Workspace]]
-- [[dpr-add-product-release|Add a product to a multi-product release]]
-- [[dpr-work-release-change-request|Manage change requests in a release]]

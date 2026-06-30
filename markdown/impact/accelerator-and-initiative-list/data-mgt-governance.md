@@ -18,7 +18,7 @@ This Accelerator provides insights and guidance to assess and improve your data 
 
 ## Accelerator Overview
 
-The Data Management and Governance Accelerator provides [[impact-landing-page|Impact]] Customers with a self-assessment, leading practice content, and advisory guidance for managing and governing the data in your ServiceNow implementation to achieve high levels of data quality.
+The Data Management and Governance Accelerator provides Impact Customers with a self-assessment, leading practice content, and advisory guidance for managing and governing the data in your ServiceNow implementation to achieve high levels of data quality.
 
 ## Package Availability
 
@@ -64,7 +64,7 @@ The Data Management and Governance Accelerator provides [[impact-landing-page|Im
 |Data Manager \(Required\)|Responsible for overall management and maintenance of ServiceNow data.|
 |Foundational Data Manager \(Required\)|Responsible for the subset of foundational data, such as, users, groups, locations, companies, and departments.|
 |Representative of Chief Information Security Officer \(Required\)|Responsible for the organization’s security policies, processes, practices, and technologies. Promotes adherence to security policies and procedures. Helps guide the Platform Owner to align with security standards.|
-|Security Administrator \(Required\)|Responsible for installing, administering, troubleshooting security capabilities, and configuration that complies with [[technical-governance|Technical Governance]] guidance. Promotes adherence to security policies and procedures.|
+|Security Administrator \(Required\)|Responsible for installing, administering, troubleshooting security capabilities, and configuration that complies with Technical Governance guidance. Promotes adherence to security policies and procedures.|
 |Compliance and Audit Officer \(Required\)|Responsible for compliance, risk management, and audit procedures.|
 |CMDB Manager \(Recommended\)|Maintains the accuracy and integrity of the CMDB configuration data; works with teams to certify data.|
 |Data Owners \(Recommended\)|Responsible for data related to a process, product, or an integration.|
@@ -79,7 +79,7 @@ Customers must provide the following supporting documentation from their Service
 -   Data Categorization Matrix
 -   Data Sources Matrix
 -   RACI for Data Management
--   Impact materials, such as [[customer-impact-plan|Customer Impact Plan]], [[architecture-blueprint|Architecture Blueprint]],Objectives and outcomes, Capabilities Map, and [[product-adoption|Product Adoption]] Roadmap
+-   Impact materials, such as Customer Impact Plan, Architecture Blueprint,Objectives and outcomes, Capabilities Map, and Product Adoption Roadmap
 
 ## Exclusions
 
@@ -94,10 +94,3 @@ Customers must provide the following supporting documentation from their Service
 -   Define your data and integrations with external systems or applications
 -   Assess or troubleshoot your data integrations
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[technical-governance|Technical Governance]]
-- [[customer-impact-plan|Customer Impact Plan]]
-- [[architecture-blueprint|Architecture Blueprint]]
-- [[product-adoption|Product Adoption]]

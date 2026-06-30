@@ -12,7 +12,7 @@ breadcrumb: [Cross-instance application trust configuration, Multi-instance Mana
 
 # Configure Managed Instances
 
-Implement the following steps to configure the Managed Instances in [[data-sync-landing-page|Multi-Instance Management]].
+Implement the following steps to configure the Managed Instances in Multi-Instance Management.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin or sn\_mif.mif\_admin.
 
 2.  Select **Add managed instances**.
 
-    The Add managed instances modal shows up. The managed instances allow the managing instance to remotely distribute trust profile [[clone-configurations-tab|configurations]]. The modal shows a list of instances where the approval request is sent.
+    The Add managed instances modal shows up. The managed instances allow the managing instance to remotely distribute trust profile configurations. The modal shows a list of instances where the approval request is sent.
 
     **Note:** The instances that show up on the list are pulled from the instance table. The instances that belong to the same account and customer are only shown in the list for the request to be sent.
 
@@ -56,7 +56,4 @@ Role required: admin or sn\_mif.mif\_admin.
 
     **Note:** The status shows as Revoked in the Managed Instances instance if its been deleted from the Managed By Instances instance. If a request is approved by the system, the status shows as Auto-Approved.
 
-## Related
 
-- [[data-sync-landing-page|Multi-instance Management]]
-- [[clone-configurations-tab|Configurations]]

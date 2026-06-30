@@ -26,17 +26,12 @@ The following plugins are activated when you enable the Public Sector Digital Se
 
 Demo data is available for this feature.
 
-**Note:** For information about the roles installed when you activate the Public Sector Digital Services Core plugin, as well as other Public Sector Digital Services applications, see [[roles-installed-with-public-sector-digital-services|Roles installed with Public Sector Digital Services]].
+**Note:** For information about the roles installed when you activate the Public Sector Digital Services Core plugin, as well as other Public Sector Digital Services applications, see [Roles installed with Public Sector Digital Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/roles-installed-with-public-sector-digital-services.md).
 
 -   **[Roles installed with Public Sector Digital Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/roles-installed-with-public-sector-digital-services.md)**  
 The Public Sector Digital Services application uses roles to provide access to information, identify internal and external users, and establish different types of relationships between users. These roles control access to public sector data through UI-based features such as forms and lists.
--   **[[properties-installed-with-psds|Properties installed with Public Sector Digital Services]]**  
+-   **[Properties installed with Public Sector Digital Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/properties-installed-with-psds.md)**  
 Use the system properties that are added with the activation of the Public Sector Digital Services application to configure access control to application data.
--   **[[plugins-installed-with-psds-addtl-plugins|Plugins installed with Public Sector Digital Services Applications]]**  
+-   **[Plugins installed with Public Sector Digital Services Applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/plugins-installed-with-psds-addtl-plugins.md)**  
 These plugins are automatically installed with the following Public Sector Digital Services applications, if they are not already active.
 
-## Related
-
-- [[roles-installed-with-public-sector-digital-services|Roles installed with Public Sector Digital Services]]
-- [[properties-installed-with-psds|Properties installed with Public Sector Digital Services]]
-- [[plugins-installed-with-psds-addtl-plugins|Plugins installed with Public Sector Digital Services Applications]]

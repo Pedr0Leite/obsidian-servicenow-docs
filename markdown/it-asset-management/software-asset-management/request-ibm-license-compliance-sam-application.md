@@ -14,7 +14,7 @@ breadcrumb: [Setting up an ASP integration, Authorized SAM Provider \(ASP\) inte
 
 # Request the IBM License Compliance for Software Asset Management application for Authorized Software Asset Management Provider \(ASP\) integrations
 
-Request the IBM License Compliance for [[c_SoftwareAssetMgmt|Software Asset Management]] application from the ServiceNow® Store so that you can integrate the [[ibm-publisher-pack|Software Asset Management publisher pack for IBM]] with an Authorized SAM Provider \(ASP\). Use the integration to track and manage your IBM licenses.
+Request the IBM License Compliance for Software Asset Management application from the ServiceNow® Store so that you can integrate the Software Asset Management publisher pack for IBM with an Authorized SAM Provider \(ASP\). Use the integration to track and manage your IBM licenses.
 
 ## Before you begin
 
@@ -59,7 +59,3 @@ The IBM License Compliance for Software Asset Management application adds licens
 
 **Parent Topic:**[Setting up an IBM Authorized SAM Provider \(ASP\) integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/setting-up-anglepoint-integration.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[ibm-publisher-pack|Software Asset Management publisher pack for IBM]]

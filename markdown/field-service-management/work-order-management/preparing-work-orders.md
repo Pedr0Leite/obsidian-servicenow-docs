@@ -16,7 +16,7 @@ breadcrumb: [Use, Field Service Management]
 
 Create work orders, and work order tasks using templates that integrate the right skills and scheduling.
 
-Create, approve, qualify, or close work orders and manage SLAs using the [[fsm-application-landing-page|Field Service Management]] application.
+Create, approve, qualify, or close work orders and manage SLAs using the Field Service Management application.
 
 ## Using overview
 
@@ -40,6 +40,3 @@ The steps for preparing work orders are:
 
 [Setting up work orders and tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/setting-up-work-orders-and-tasks.md)
 
-## Related
-
-- [[fsm-application-landing-page|Field Service Management]]

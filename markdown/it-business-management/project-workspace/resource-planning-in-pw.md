@@ -14,9 +14,9 @@ breadcrumb: [Explore, Project Workspace, Project Portfolio Management, Strategic
 
 # Resource planning in Project Workspace
 
-Plan and allocate resources using the [[project-workspace-landing-page|Project Workspace]] application to enable optimal resource utilization and execution.
+Plan and allocate resources using the Project Workspace application to enable optimal resource utilization and execution.
 
-The Resource Management application enables Project Managers to [[create-rsrc-asgnmnts-ppm|create resource assignments]], allocate resources, and analyze resource availability in Project Workspace. The Resource Management application can be used along with Project Workspace for any project or [[t_CreateAProjectTask|project tasks]].
+The Resource Management application enables Project Managers to create resource assignments, allocate resources, and analyze resource availability in Project Workspace. The Resource Management application can be used along with Project Workspace for any project or project tasks.
 
 ## Key benefits
 
@@ -26,7 +26,7 @@ With Resource Management in Project Workspace, you can:
 
 -   Assign resources at any stage of project development. Resources can be planned at a granular level.
 -   Change resource assignment dates, resources, and efforts for resource availability at any phase of the project.
--   [[create-attribute-resource-assignment|Create an attribute-based resource assignment]] in Project Workspace.
+-   Create an attribute-based resource assignment in Project Workspace.
 -   View availability in the heatmap and make allocations based on the resource availability. The allocations are color-coded to display the availability of the resources for a task.
 -   Request and allocate resources and verify resource availability on a single location in the Project Workspace.
 
@@ -34,17 +34,9 @@ With Resource Management in Project Workspace, you can:
 
 The Project Manager can create an attribute-based resource assignment in Project Workspace. Any type of project task can be added to the resource assignment.
 
-After a resource assignment is created, the project manager verifies resource availability, and then assigns the resource to a resource assignment. If the resource isn’t available, then the Project Manager coordinates with the Resource Manager for resource availability. If all parties agree, the resources begin work. Project Managers can view the [[r_AllocatingResources|resource allocation]] in the heatmap.
+After a resource assignment is created, the project manager verifies resource availability, and then assigns the resource to a resource assignment. If the resource isn’t available, then the Project Manager coordinates with the Resource Manager for resource availability. If all parties agree, the resources begin work. Project Managers can view the resource allocation in the heatmap.
 
-**Note:** After the resource assignment is created and has any requested allocations, a resource plan is created automatically in the allocated state in the back-end. Either a new resource plan and resource allocation are created, or an existing resource plan is retrieved based on the attributes. As a result, its planned cost and allocated cost are matched, and its planned and allocated hours are also matched. These [[c_ResourcePlans|resource plans]] aren’t displayed in the Resource Allocation Workbench.
+**Note:** After the resource assignment is created and has any requested allocations, a resource plan is created automatically in the allocated state in the back-end. Either a new resource plan and resource allocation are created, or an existing resource plan is retrieved based on the attributes. As a result, its planned cost and allocated cost are matched, and its planned and allocated hours are also matched. These resource plans aren’t displayed in the Resource Allocation Workbench.
 
 **Parent Topic:**[Exploring Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/exploring-project-workspace.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]
-- [[create-rsrc-asgnmnts-ppm|Create resource assignments]]
-- [[t_CreateAProjectTask|Project tasks]]
-- [[create-attribute-resource-assignment|Create an attribute-based resource assignment]]
-- [[r_AllocatingResources|Resource allocation]]
-- [[c_ResourcePlans|Resource plans]]

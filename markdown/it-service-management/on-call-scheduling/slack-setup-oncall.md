@@ -18,7 +18,7 @@ You configure Slack to enable users to receive Slack notifications for escalatio
 
 ## Configuring Slack for On-Call Scheduling
 
-The Slack spoke automates [[c_OnCallScheduling|On-Call Scheduling]] notifications and responds to them. The following configurations support On-Call Scheduling notifications:
+The Slack spoke automates On-Call Scheduling notifications and responds to them. The following configurations support On-Call Scheduling notifications:
 
 ## Outbound Configurations
 
@@ -60,7 +60,7 @@ The Slack spoke automates [[c_OnCallScheduling|On-Call Scheduling]] notification
 
 -   **Insert Slack Response**
 
-    This action creates a record in the \[sn\_slack\_ah\_v2\_inbound\] table for incoming Slack responses. You can [[reference-for-itsm-mobile-agent|reference]] the response by workflow based on **context\_id**.
+    This action creates a record in the \[sn\_slack\_ah\_v2\_inbound\] table for incoming Slack responses. You can reference the response by workflow based on **context\_id**.
 
 -   **On-Call Response Controller**
 
@@ -69,7 +69,3 @@ The Slack spoke automates [[c_OnCallScheduling|On-Call Scheduling]] notification
 
 **Parent Topic:**[Configuring On-Call Scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/configuration.md)
 
-## Related
-
-- [[c_OnCallScheduling|On-Call Scheduling]]
-- [[reference-for-itsm-mobile-agent|Reference]]

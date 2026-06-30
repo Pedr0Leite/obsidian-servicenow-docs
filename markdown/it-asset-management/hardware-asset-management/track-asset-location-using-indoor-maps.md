@@ -14,11 +14,11 @@ breadcrumb: [Use, Hardware Asset Management, IT Asset Management]
 
 # Track asset location using indoor maps
 
-Locate and track the consumables and hardware, bundle, and [[pallet-assets|pallet assets]] in your organization by using indoor maps. Indoor maps provide an interactive interface that enables you to visualize the location of your assets within your campuses, buildings, floors, and places.
+Locate and track the consumables and hardware, bundle, and pallet assets in your organization by using indoor maps. Indoor maps provide an interactive interface that enables you to visualize the location of your assets within your campuses, buildings, floors, and places.
 
 ## Before you begin
 
-To be able to use indoor maps in [[using-ham-workspace|Hardware Asset Workspace]], make sure you fulfill the following requirements:
+To be able to use indoor maps in Hardware Asset Workspace, make sure you fulfill the following requirements:
 
 -   You should explicitly install Indoor Mapping for Assets \(com.sn\_ima\) application from the ServiceNow® Store. When you install this application, Indoor Mapping \(sn\_map\_core\) and Indoor Mapping component \(sn\_map\_component\) are also installed.
 
@@ -28,7 +28,7 @@ To be able to use indoor maps in [[using-ham-workspace|Hardware Asset Workspace]
 
 -   Set up your indoor maps: You can design indoor maps using Map Studio. For more information, see [Configure Indoor Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/configure-ind-mapping.md).
 
-    **Note:** When you install indoor maps using the entitlement to the [[ham-landing-page|Hardware Asset Management]] license, you can use only the PNG floor map files in the Map Studio. You can’t import the files that are in AutoCAD or Raster file format. To use AutoCAD or Raster files, you should have entitlement to Workplace Service Delivery.
+    **Note:** When you install indoor maps using the entitlement to the Hardware Asset Management license, you can use only the PNG floor map files in the Map Studio. You can’t import the files that are in AutoCAD or Raster file format. To use AutoCAD or Raster files, you should have entitlement to Workplace Service Delivery.
 
 -   Synchronize location data: The Hardware Asset Management application supports the following indoor mapping location types:
 
@@ -76,7 +76,7 @@ Role required: admin or asset
 
 [Work with hardware normalization]()
 
-[Manage [[asset-bundles-concept|asset bundles]] from your inventory]()
+[Manage asset bundles from your inventory]()
 
 [Manage your inventory through pallet assets]()
 
@@ -98,13 +98,13 @@ Role required: admin or asset
 
 [Request a Hardware Asset Refresh]()
 
-[Manage your expiring [[c_Contracts|contracts]] for leased hardware assets]()
+[Manage your expiring contracts for leased hardware assets]()
 
 [Reclaim hardware assets]()
 
 [View RFID information of assets]()
 
-[Manage the lifecycle of hardware [[c_Models|models]] with calculated lifecycle templates]()
+[Manage the lifecycle of hardware models with calculated lifecycle templates]()
 
 [Create an internal lifecycle in the Hardware Asset Workspace]()
 
@@ -136,11 +136,3 @@ Role required: admin or asset
 
 [Update associated Decision tables for HAM flows]()
 
-## Related
-
-- [[pallet-assets|Pallet assets]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[ham-landing-page|Hardware Asset Management]]
-- [[asset-bundles-concept|Asset bundles]]
-- [[c_Contracts|Contracts]]
-- [[c_Models|Models]]

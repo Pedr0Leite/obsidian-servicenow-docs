@@ -14,11 +14,11 @@ breadcrumb: [Technical Accelerators, Accelerator catalog, View the Initiatives a
 
 # TuneUp Your Platform Analytics
 
-The TuneUp Your Platform Analytics Accelerator provides guidance on maintaining and governing Platform [[io-analytics|Analytics]] health to optimize value.
+The TuneUp Your Platform Analytics Accelerator provides guidance on maintaining and governing Platform Analytics health to optimize value.
 
 ## Accelerator overview
 
-TuneUp Your Platform Analytics provides [[impact-landing-page|Impact]] customers with an assessment of their current Platform Analytics implementation. This offering includes an applied demonstration of the capabilities of advanced Platform Analytics configuration, including [[instance-observer-performance|Performance]] Analytics, Workspaces, and Usage Insights. We aim to assist you in obtaining better insight into your Platform Analytics investment and provide leading practices on how to best increase adoption and utilization.
+TuneUp Your Platform Analytics provides Impact customers with an assessment of their current Platform Analytics implementation. This offering includes an applied demonstration of the capabilities of advanced Platform Analytics configuration, including Performance Analytics, Workspaces, and Usage Insights. We aim to assist you in obtaining better insight into your Platform Analytics investment and provide leading practices on how to best increase adoption and utilization.
 
 ## Package Availability
 
@@ -135,8 +135,3 @@ This Impact Accelerator in its entirety or portions of the Impact Accelerator Ac
 
 ServiceNow resources are not responsible for implementing Platform Analytics recommendations on Customer’s sub-production or production instances.
 
-## Related
-
-- [[io-analytics|Analytics]]
-- [[impact-landing-page|Impact]]
-- [[instance-observer-performance|Performance]]

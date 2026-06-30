@@ -12,7 +12,7 @@ breadcrumb: [Configure special handling notes, Configure case management, Case m
 
 # Configure special handling notes properties
 
-Configure the necessary properties to display [[c_OnScreenAlerts|special handling notes]].
+Configure the necessary properties to display special handling notes.
 
 ## Before you begin
 
@@ -51,6 +51,4 @@ The width of the pop-up window in pixels. The default width is 500. If you speci
 </td></tr></tbody>
 </table>3.  Click **Save**.
 
-## Related
 
-- [[c_OnScreenAlerts|Special handling notes]]

@@ -12,11 +12,11 @@ breadcrumb: [Using External Key Management Service, External Key Management Serv
 
 # External Key Management Service and instance automation
 
-Understand requirements and limitations for instance automation operations when [[ekms-external-key-management|External Key Management Service]] is enabled.
+Understand requirements and limitations for instance automation operations when External Key Management Service is enabled.
 
 When External Key Management Service \(EKMS\) is enabled on your instance, you must plan for instance automation operations such as cloning, backup and restore, copying, moving, and toggling between instances. These operations require compatible EKMS configurations between source and target instances to succeed.
 
-You can't clone or restore externally encrypted data unless the target instance can access the same external [[encryption-landing|encryption]] key. The preflight check validates EKMS compatibility before instance automation operations begin. If configurations are incompatible, the operation is blocked and you must follow the manual resolution steps in [KB2540187](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2540187).
+You can't clone or restore externally encrypted data unless the target instance can access the same external encryption key. The preflight check validates EKMS compatibility before instance automation operations begin. If configurations are incompatible, the operation is blocked and you must follow the manual resolution steps in [KB2540187](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2540187).
 
 ## Instance automation compatibility
 
@@ -100,7 +100,7 @@ EKMS configured
 
 </td><td>
 
-EKMS with matching [[sc-configuration|configuration]] and key wrapping strategy
+EKMS with matching configuration and key wrapping strategy
 
 </td><td>
 
@@ -240,7 +240,7 @@ By default, instance automation between instances using different key management
 
 To enable legacy key management support:
 
-1.  Navigate to **[[ca-system-properties|System Properties]]** &gt; **All Properties**.
+1.  Navigate to **System Properties** &gt; **All Properties**.
 2.  Search for **glide.ekms.ia.non\_bagheera\_support**.
 3.  Set the value to **True**.
 4.  Select **Save**.
@@ -255,12 +255,5 @@ This property enables instance automation in the following scenarios:
 
 Even with this property enabled, if the preflight check detects incompatible configurations, you must follow the manual resolution steps in [KB2540187](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2540187).
 
-**Parent Topic:**[[ekms-using-external-key-management|Using External Key Management Service]]
+**Parent Topic:**[Using External Key Management Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ekms-using-external-key-management.md)
 
-## Related
-
-- [[ekms-using-external-key-management|Using External Key Management Service]]
-- [[ekms-external-key-management|External Key Management Service]]
-- [[encryption-landing|Encryption]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

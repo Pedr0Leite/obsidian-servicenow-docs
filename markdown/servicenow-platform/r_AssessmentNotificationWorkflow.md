@@ -12,31 +12,24 @@ breadcrumb: [Enable manager notifications, Assessment administrator tasks, Using
 
 # Assessment notification workflow
 
-The system sends assessment notifications according to the [[notify-landing-page|Notify]] assessment user workflow. Users with the workflow\_admin, workflow\_creator, or workflow\_publisher roles can view workflows.
+The system sends assessment notifications according to the Notify assessment user workflow. Users with the workflow\_admin, workflow\_creator, or workflow\_publisher roles can view workflows.
 
-1.  To open the graphical [[workflow-editor|Workflow Editor]], navigate to **Workflow** &gt; **Workflow Editor**.
+1.  To open the graphical Workflow Editor, navigate to **Workflow** &gt; **Workflow Editor**.
 2.  In the activity menu, click the link to choose an existing workflow.
 
     \[Omitted image "WorkflowWindow.png"\] Alt text: Workflow window
 
-3.  Select **Notify assessment user** from the [[c_WorkflowVersions|Workflow Versions]] list.
+3.  Select **Notify assessment user** from the Workflow Versions list.
 
     The workflow appears.
 
     \[Omitted image "NotifyAssessmentUserWorkflow.png"\] Alt text: Notify assessment user workflow
 
 
-**Parent Topic:**[[t_EnablingManagerNotifications|Enable manager notifications]]
+**Parent Topic:**[Enable manager notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_EnablingManagerNotifications.md)
 
 **Related topics**  
 
 
-[[r_AssessmentNotifications|Assessment notifications]]
+[Assessment notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_AssessmentNotifications.md)
 
-## Related
-
-- [[t_EnablingManagerNotifications|Enable manager notifications]]
-- [[r_AssessmentNotifications|Assessment notifications]]
-- [[notify-landing-page|Notify]]
-- [[workflow-editor|Workflow editor]]
-- [[c_WorkflowVersions|Workflow versions]]

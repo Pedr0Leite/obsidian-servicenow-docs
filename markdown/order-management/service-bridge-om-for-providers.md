@@ -12,7 +12,7 @@ breadcrumb: [Integrate, Sales Customer Relationship Management]
 
 # Order Management for providers with Service Exchange
 
-The Service Exchange [[explore-order-management|Order Management]] for Providers application enables service providers to use Order Management to [[som-create-product-offering|create product offerings]] and service specifications that Service Exchange consumers can order from service catalogs in their ServiceNow instances. Order agents and fulfillers can then complete the orders and requests on the provider instance.
+The Service Exchange Order Management for Providers application enables service providers to use Order Management to create product offerings and service specifications that Service Exchange consumers can order from service catalogs in their ServiceNow instances. Order agents and fulfillers can then complete the orders and requests on the provider instance.
 
 ## Overview of Order Management for providers with Service Exchange
 
@@ -34,13 +34,13 @@ The workflow for generating these remote record producers involves these basic s
 -   Support quantity orders for order line items and selection of optional products and services.
 -   Synchronize product and service inventory records, which can be viewed by consumers in their instance.
 -   Allow consumers to:
-    -   [[Suspend|Suspend]], [[Resume|resume]], and disconnect orders
-    -   [[cancel|Cancel]] an order from the consumer instance if the order hasn't reached the point of no return \(PONR\).
+    -   Suspend, resume, and disconnect orders
+    -   Cancel an order from the consumer instance if the order hasn't reached the point of no return \(PONR\).
 
 ## Benefits
 
 -   Automates the generation of remote record producers that publish offerings and service specifications to a remote catalog.
--   Enables faster [[reviewing-orchestration-plans-order-fulfillment|order fulfillment]] on the provider instance and improves order accuracy.
+-   Enables faster order fulfillment on the provider instance and improves order accuracy.
 -   Facilitates communication by updating comments between the provider and customer instance as well as sharing frequent order status updates.
 
 ## Order state mapping
@@ -68,14 +68,5 @@ During order processing, note that order status states correspond to certain pro
 
 ## Next step
 
-As a Service Exchange admin, review the setup tasks in [[configuring-sb-om|Configuring Service Exchange Order Management for Providers]].
+As a Service Exchange admin, review the setup tasks in [Configuring Service Exchange Order Management for Providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configuring-sb-om.md).
 
-## Related
-
-- [[configuring-sb-om|Configuring Service Exchange Order Management for Providers]]
-- [[explore-order-management|Order management]]
-- [[som-create-product-offering|Create product offerings]]
-- [[Suspend|Suspend]]
-- [[Resume|Resume]]
-- [[cancel|Cancel]]
-- [[reviewing-orchestration-plans-order-fulfillment|Order fulfillment]]

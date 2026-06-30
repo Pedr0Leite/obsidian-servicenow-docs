@@ -14,9 +14,9 @@ breadcrumb: [Components installed with Advanced Risk, Reference, Risk Management
 
 # Roles for performing advanced risk assessment
 
-When you integrate [[advanced-risk-assessment|advanced risk assessment]] with other applications, you must ensure the users have the necessary roles to perform and approve the assessments.
+When you integrate advanced risk assessment with other applications, you must ensure the users have the necessary roles to perform and approve the assessments.
 
-Starting with version 14.1.2, several new roles have been introduced to enable users of other applications to successfully use the advanced [[risk-assessments|risk assessments]] feature. These independent roles have been created to provide the users the required ability to perform advanced risk assessment without requiring the Integrated Risk Management specific roles such as Risk Admin, GRC Business User.
+Starting with version 14.1.2, several new roles have been introduced to enable users of other applications to successfully use the advanced risk assessments feature. These independent roles have been created to provide the users the required ability to perform advanced risk assessment without requiring the Integrated Risk Management specific roles such as Risk Admin, GRC Business User.
 
 **Note:** You must manually assign the advanced risk assessment roles to the sn\_grc.business\_user role. To understand how you can adjust granting of roles and groups, see the [How to adjust granting of roles and groups to use background jobs \[KB0963693\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB0963693) article in the Now Support Knowledge Base. To understand more about the GRC business user role, see the [GRC Business User \[KB0864247\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB0864247) article in the Now Support Knowledge Base article in the Now Support Knowledge Base. You must log in to Now Support to view the article.
 
@@ -46,8 +46,8 @@ sn\_risk.admin
 
 </td><td>
 
-Users with this role can:-   Create [[airc-rams|risk assessment methodologies]]
--   Create and manage [[factors|factors]]
+Users with this role can:-   Create risk assessment methodologies
+-   Create and manage factors
 
 </td><td>
 
@@ -158,9 +158,3 @@ Users can view the quantitative risk appetite fields.
 </td></tr></tbody>
 </table>**Parent Topic:**[Components installed with Advanced Risk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/components-risk-advanced.md)
 
-## Related
-
-- [[advanced-risk-assessment|advanced risk assessment]]
-- [[risk-assessments|risk assessments]]
-- [[airc-rams|Risk assessment methodologies]]
-- [[factors|factors]]

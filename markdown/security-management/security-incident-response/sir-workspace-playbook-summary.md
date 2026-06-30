@@ -19,7 +19,7 @@ The following describes the process summary.
 -   Understand legacy flow-based playbook.
 -   List down possible activities, stages after analyzing the flow. Look for the steps where true Orchestration can be created.
 -   Take each activity and check if base system provided activity definition can fulfill the use case or not.
--   List down activity use cases, which need new [[build-activities|activity definitions]] to be implemented. Classify them - Interactive, non-interactive or automated. To create an activity definition:
+-   List down activity use cases, which need new activity definitions to be implemented. Classify them - Interactive, non-interactive or automated. To create an activity definition:
     -   Create a subflow or an action for the use case.
     -   Decide whether the associated data must be captured in flow data table or a custom table.
     -   If using flow data table, create flow data definition in **sys\_flow\_data\_definition**. While creating a flow data record in the subflow, select the flow data definition created.
@@ -33,6 +33,3 @@ The following describes the process summary.
 
 **Parent Topic:**[Playbook for Manual Phishing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbook-manual-phishing.md)
 
-## Related
-
-- [[build-activities|Activity Definitions]]

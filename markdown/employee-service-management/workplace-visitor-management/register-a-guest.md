@@ -18,7 +18,7 @@ Pre-plan your visitor or off-site colleagues visit. Specify their visit details 
 
 ## Before you begin
 
-**Important:** Starting with [[workplace-safety-mgmt-hr|Workplace Core]] \(sn\_wsd\_core\) version 2.1, all updates, and new features are available only on the [[workplace-services-portal-hr|Workplace Service Portal]]. The [[workplace-services|workplace services]] provided by ServiceNow® are removed from the Service Portal on Workplace Core \(sn\_wsd\_core\) beginning with version 2.1. To configure the Workplace service catalog in the Service Portal, see [Configure a catalog in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/associate-portal-catalog.md).
+**Important:** Starting with Workplace Core \(sn\_wsd\_core\) version 2.1, all updates, and new features are available only on the Workplace Service Portal. The workplace services provided by ServiceNow® are removed from the Service Portal on Workplace Core \(sn\_wsd\_core\) beginning with version 2.1. To configure the Workplace service catalog in the Service Portal, see [Configure a catalog in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/associate-portal-catalog.md).
 
 Role required: sn\_wsd\_core.workplace\_user
 
@@ -26,7 +26,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
 Submit this request to register a guest. Specify if there are any additional requirements for the visit as a private note to the reception staff.
 
-[[workplace-visitor-mgmt-feat|Workplace Visitor Management]] admin and reception staff can also register visitors directly from the application. Navigate to **Workplace Visitor Management** &gt; **Reception Staff** &gt; **Register Visitors**.
+Workplace Visitor Management admin and reception staff can also register visitors directly from the application. Navigate to **Workplace Visitor Management** &gt; **Reception Staff** &gt; **Register Visitors**.
 
 You can also register a visitor using the Virtual agent chat support. Navigate to **Workplace Core** &gt; **Workplace service portal** &gt; **Workplace Service Portal Home** and select the chat icon . Enter your question or select **Show Me Everything** to select from a list of available options to register a visitor.
 
@@ -34,7 +34,7 @@ You can also register a visitor using the Virtual agent chat support. Navigate t
 
 1.  Navigate to **All** &gt; **Workplace Core** &gt; **Workplace service portal**.
 
-    **Note:** You can also raise a request from the [[employee-center-landing-page|Employee Center]]. On the home page, navigate to **Workplace** &gt; **Browse all Workplace** and select the workplace service.
+    **Note:** You can also raise a request from the Employee Center. On the home page, navigate to **Workplace** &gt; **Browse all Workplace** and select the workplace service.
 
 2.  Open the **Visitor Management** category.
 
@@ -242,9 +242,9 @@ The colleague's license plate details.
 
 ## Result
 
-Your [[register-visitors|visitor registration]] is submitted and you can view your requests. The details about the visit are sent to the visitor's email address. The visitors also receive a reminder email with the invite code on the day before the registered date. For recurring invitations, only one email is sent for the visit details, but reminder emails are sent a day before every visit.
+Your visitor registration is submitted and you can view your requests. The details about the visit are sent to the visitor's email address. The visitors also receive a reminder email with the invite code on the day before the registered date. For recurring invitations, only one email is sent for the visit details, but reminder emails are sent a day before every visit.
 
-If any visitor policies are applicable for the visit, the email sent to the visitor contains options to accept or decline the policies. If the visitor declines the policies in the email, they can still accept them while checking in through the [[workplace-services-kiosk|Workplace Services Kiosk]]. For more information about the kiosk check-in process, see [Check in using an invite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/visitor-check-in.md).
+If any visitor policies are applicable for the visit, the email sent to the visitor contains options to accept or decline the policies. If the visitor declines the policies in the email, they can still accept them while checking in through the Workplace Services Kiosk. For more information about the kiosk check-in process, see [Check in using an invite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/visitor-check-in.md).
 
 ## What to do next
 
@@ -252,7 +252,7 @@ You can check the details of your request. You can also edit or cancel the reque
 
 -   You can view your requests by following one of the following steps.
     -   On the Employee Center, go to the Requests tab to view your requests and reservations.
-    -   On the [[mobile-employee-experience|Now Mobile app]] navigation bar, select **For Me** and scroll down to the My Request section to view your requests.
+    -   On the Now Mobile app navigation bar, select **For Me** and scroll down to the My Request section to view your requests.
     -   In the virtual agent chat, enter your question or select **Show Me Everything** to select from a list of available options to view your visitor details.
 -   On the request details screen, you can cancel a request by selecting **Cancel Request**.
 -   You can search for registered visitors in the **Visitors list** using the search option.
@@ -268,13 +268,3 @@ You can check the details of your request. You can also edit or cancel the reque
 
 [Review visitor policies]()
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-services-portal-hr|Workplace Service Portal]]
-- [[workplace-services|Workplace Services]]
-- [[workplace-visitor-mgmt-feat|Workplace Visitor Management]]
-- [[employee-center-landing-page|Employee Center]]
-- [[register-visitors|Visitor registration]]
-- [[workplace-services-kiosk|Workplace Services Kiosk]]
-- [[mobile-employee-experience|Now Mobile app]]

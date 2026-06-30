@@ -14,16 +14,16 @@ breadcrumb: [Service Catalog Reference, Service Catalog, Manage service capabili
 
 # Service catalog variables
 
-Service catalog variables capture and pass on information about choices a customer makes when ordering a catalog item. Variables help define the structure of a [[catalog-item-form|catalog item form]] that is displayed to the customer.
+Service catalog variables capture and pass on information about choices a customer makes when ordering a catalog item. Variables help define the structure of a catalog item form that is displayed to the customer.
 
 For example, you can define a variable called **Memory** to provide users with memory options at an extra cost for a PC catalog item. An Apple iPhone catalog item can use a variable called **Color** that allows customers to select the color when they order the phone from the catalog. You can define some variables to affect an item price, depending on the choices made.
 
-[[service-catalog|Service Catalog]] provides several types of variables, which are also referred to as questions. Variables can be stored, accessed from multiple places, and passed between tasks in a process when fulfilling a request. They can be displayed on the Requested Item and Catalog Task forms after an item has been ordered.
+Service Catalog provides several types of variables, which are also referred to as questions. Variables can be stored, accessed from multiple places, and passed between tasks in a process when fulfilling a request. They can be displayed on the Requested Item and Catalog Task forms after an item has been ordered.
 
 You can define service catalog variables with the catalog\_admin role.
 
 -   **[Types of service catalog variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/r_VariableTypes.md)**  
-Variables allow you to specify questions for a catalog item. Several [[r_VariableTypes|types of service catalog variables]] are provided. Some variable types accept variable attributes.
+Variables allow you to specify questions for a catalog item. Several types of service catalog variables are provided. Some variable types accept variable attributes.
 -   **[Create a service catalog variable](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_CreateAVariableForACatalogItem.md)**  
 Create service catalogs variables to gather information from users ordering a catalog item, for example, to ask users which options they want for the item.
 -   **[Service catalog data lookup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_ServiceCatalogDataLookup.md)**  
@@ -44,8 +44,3 @@ When catalog item requesters want to order items on portals or Next Experience U
 
 [Use service catalog variables in a report – Report Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/use-service-catalog-variables-in-report.md)
 
-## Related
-
-- [[catalog-item-form|Catalog Item form]]
-- [[service-catalog|Service Catalog]]
-- [[r_VariableTypes|Types of service catalog variables]]

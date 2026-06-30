@@ -14,7 +14,7 @@ breadcrumb: [Hiring Experiences, HR Service Delivery, Employee Service Managemen
 
 # Recruitment Workspace
 
-The [[recruitment-workspace-concept|Recruitment workspace]] centralizes job requisition tracking, boosts [[hiring-tab-concept|hiring]] efficiency, enhances applicant engagement, and enables recruiters to take smarter decisions with talent insights.
+The Recruitment workspace centralizes job requisition tracking, boosts hiring efficiency, enhances applicant engagement, and enables recruiters to take smarter decisions with talent insights.
 
 ## Get started
 
@@ -32,7 +32,7 @@ The [[recruitment-workspace-concept|Recruitment workspace]] centralizes job requ
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Important [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] information about Recruitment workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/recruitment-workspace-reference.md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Important reference information about Recruitment workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/recruitment-workspace-reference.md)
 
 </td></tr></tbody>
 </table>## Additional resources
@@ -43,8 +43,3 @@ The [[recruitment-workspace-concept|Recruitment workspace]] centralizes job requ
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[recruitment-workspace-concept|Recruitment workspace]]
-- [[hiring-tab-concept|Hiring]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

@@ -18,7 +18,7 @@ Explore and manage the usage status for the capabilities you are entitled to use
 
 ## Before you begin
 
-Role required: [[impact-landing-page|Impact]] Platform Owners, Impact Admins, Impact Executives, and Impact Users
+Role required: Impact Platform Owners, Impact Admins, Impact Executives, and Impact Users
 
 ## About this task
 
@@ -28,7 +28,7 @@ The capabilities map in Impact Store Application shows capabilities of type true
 
 ## Procedure
 
-1.  Navigate to **Impact Workspace** &gt; **[[product-adoption|Product Adoption]]** &gt; **Capabilities map**.
+1.  Navigate to **Impact Workspace** &gt; **Product Adoption** &gt; **Capabilities map**.
 
 2.  In the **Product adoption summary** section, view the overall usage summary for capabilities under your specific product area.
 
@@ -50,7 +50,7 @@ The capabilities map in Impact Store Application shows capabilities of type true
 
 6.  To view capabilities recommended by your Squad, see the **Squad prioritized** column.
 
-    Squad prioritized capabilities are identified by your [[impact-squad|Impact squad]] team as most relevant for your organization based on your entitlements and goals.
+    Squad prioritized capabilities are identified by your Impact squad team as most relevant for your organization based on your entitlements and goals.
 
     **Note:** To filter by Squad prioritized capabilities, select the \[Omitted image "filter-icon.png"\] Alt text: filter icon filter icon in the **Capabilities** section and then select **Squad Prioritized** from the filter options.
 
@@ -60,7 +60,7 @@ The capabilities map in Impact Store Application shows capabilities of type true
     -   Select \[Omitted image "ellipsis-horizontal-fill-24.svg"\] Alt text: from the menu and then select **Change Status** from the list.
 8.  Select a usage status from the list in the Edit Usage Status Pop-up window.
 
-9.  Select a capability to display the [[capability-details|Capability Details Page]] **About** tab with the **Related Resources**.
+9.  Select a capability to display the Capability Details Page **About** tab with the **Related Resources**.
 
 10. To hide the capability from appearing in the default view of the capabilities map, select the check box beside the capability, then select **Hide** button.
 
@@ -82,9 +82,4 @@ The capabilities map in Impact Store Application shows capabilities of type true
 
     The capability details and its related accelerators are displayed.
 
-## Related
 
-- [[impact-landing-page|Impact]]
-- [[product-adoption|Product Adoption]]
-- [[impact-squad|Impact Squad]]
-- [[capability-details|Capability Details Page]]

@@ -19,11 +19,11 @@ Turn on AI-assisted questionnaire pre-fill for a smart assessment template categ
 
 ## Before you begin
 
--   [[now-assist-for-smart-assessment-engine|Now Assist for Smart Assessment Engine]] is installed and the [[ai-generated-responses-for-smart-assessment|Smart Assessment Response Assist skill]] is active.
+-   Now Assist for Smart Assessment Engine is installed and the Smart Assessment Response Assist skill is active.
 
     For more information, see [Activate smart assessment response assist skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/activate-smart-assessment-response-assist-skill.md).
 
--   [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] is enabled and your TPRM smart assessment and questionnaire templates are active.
+-   Smart Assessment Engine is enabled and your TPRM smart assessment and questionnaire templates are active.
 
     For more information, see [Smart assessment configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-sae-assessment-config.md).
 
@@ -72,8 +72,3 @@ To use AI-assisted drafting in an active assessment, see [Generate AI-assisted d
 
 [Document Management system in Third-party Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-dms.md)
 
-## Related
-
-- [[now-assist-for-smart-assessment-engine|Now assist for smart assessment engine]]
-- [[ai-generated-responses-for-smart-assessment|Smart Assessment response assist skill]]
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]

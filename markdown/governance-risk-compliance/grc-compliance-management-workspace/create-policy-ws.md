@@ -67,7 +67,7 @@ Parent
 
 </td><td>
 
-The policy containing this policy. If you [[t_CreateAPolicyStatement-2|create a control objective]] from within a policy, this field is automatically filled.
+The policy containing this policy. If you create a control objective from within a policy, this field is automatically filled.
 
 </td></tr><tr><td>
 
@@ -140,7 +140,7 @@ Approval method
 
 </td><td>
 
-Approval method for dynamic [[bcm-approval-configuration|approval configuration]]. Available options are:-   Manually select approvers
+Approval method for dynamic approval configuration. Available options are:-   Manually select approvers
 -   Use approval rules
 
 
@@ -281,7 +281,7 @@ Enter the maximum number of days for which a policy exception can be requested f
 
     3.  Select **Add**.
 
-        The selected issues are added to the policy as related issues and an m2m relationship is created between the policy and the issues in the Issue to Document \[sn\_grc\_m2m\_issue\_document\] table. You can also create an issue for the policy by selecting the **New** button, which takes you to the [[create-new-issue-opres-ws|Create New Issue form]].
+        The selected issues are added to the policy as related issues and an m2m relationship is created between the policy and the issues in the Issue to Document \[sn\_grc\_m2m\_issue\_document\] table. You can also create an issue for the policy by selecting the **New** button, which takes you to the Create New Issue form.
 
     4.  To remove an issue that is mapped to the policy, select the issue and select **Remove**.
 
@@ -291,8 +291,4 @@ Enter the maximum number of days for which a policy exception can be requested f
 
 7.  To mark the policy ready for review, select **Request review**.
 
-## Related
 
-- [[t_CreateAPolicyStatement-2|Create a control objective]]
-- [[bcm-approval-configuration|Approval configuration]]
-- [[create-new-issue-opres-ws|Create New Issue form]]

@@ -28,7 +28,7 @@ Role required: document\_management\_user
 
 Once a document has been created and edited, a specific revision can be submitted for draft review and final approval. After final approval, the document can be published.
 
-When a draft of the document is ready, submit the draft for review. If the document does not have reviewers identified in the Reviewers field of the document record, the [[c_ReviewProcess|review process]] is omitted.
+When a draft of the document is ready, submit the draft for review. If the document does not have reviewers identified in the Reviewers field of the document record, the review process is omitted.
 
 ## Procedure
 
@@ -45,6 +45,3 @@ When a draft of the document is ready, submit the draft for review. If the docum
 
 **Parent Topic:**[Create a document](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/c_CreateADocument.md)
 
-## Related
-
-- [[c_ReviewProcess|Review process]]

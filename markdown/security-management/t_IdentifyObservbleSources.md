@@ -20,7 +20,7 @@ Role required: sn\_ti.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[threat-intel-landing-page|Threat Intelligence]]** &gt; **[[ioc-repository|IoC Repository]]** &gt; **Observables**.
+1.  Navigate to **All** &gt; **Threat Intelligence** &gt; **IoC Repository** &gt; **Observables**.
 
 2.  Click the observable to which you want to add observable sources.
 
@@ -35,7 +35,7 @@ Role required: sn\_ti.admin
 7.  Click **Save**.
 
 
-**Parent Topic:**[[c_Observables|Observables]]
+**Parent Topic:**[Observables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/c_Observables.md)
 
 **Related topics**  
 
@@ -54,8 +54,3 @@ Role required: sn\_ti.admin
 
 [Perform threat enrichment on observables]()
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[ioc-repository|IoC Repository]]

@@ -14,7 +14,7 @@ breadcrumb: [Integrate VA with messaging apps, Integrate VA with other channels,
 
 # Conversational Integration with LINE
 
-Conduct user-initiated, system-initiated, or agent-initiated conversations using the Conversational Integration with LINE application. The application connects a requester with a [[virtual-agent-landing-page|virtual agent]] or live agent using your company's LINE account.
+Conduct user-initiated, system-initiated, or agent-initiated conversations using the Conversational Integration with LINE application. The application connects a requester with a virtual agent or live agent using your company's LINE account.
 
 ## Get started with Conversational Integration with LINE
 
@@ -38,6 +38,3 @@ Enable a requester to converse with an agent using the LINE chat conversations.
 
 **Parent Topic:**[Integrating Virtual Agent with messaging apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-integration-messaging-apps.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

@@ -16,7 +16,7 @@ You can install Vaccination Status if you have the admin role.
 
 ## Before you begin
 
-Vaccination Status requires the ServiceNow® [[employee-readiness-core|Employee Readiness Core]] and [[emergency-outreach|Emergency Outreach]] applications.
+Vaccination Status requires the ServiceNow® Employee Readiness Core and Emergency Outreach applications.
 
 Role required: admin
 
@@ -42,7 +42,7 @@ Federal hosted
 
 </td><td>
 
-See the [Federal downloads for the [[emergency-response-management|Emergency Response Management]] and [[safe-workplace|Safe Workplace]] suite apps \[KB0030260\]](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030260) article in the Store Help Center for more information.
+See the [Federal downloads for the Emergency Response Management and Safe Workplace suite apps \[KB0030260\]](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030260) article in the Store Help Center for more information.
 
 </td></tr><tr><td>
 
@@ -66,17 +66,17 @@ See the [Commercial downloads for the Emergency Response Management and Safe Wor
 </table>If you've subscribed to the Safe Workplace suite and you already have some of the apps installed, refer to the following order of installation for the remaining apps.
 
 -   Emergency Outreach \(sn\_imt\_checkin\)
--   [[employee-health-screening|Employee Health Screening]] \(sn\_imt\_monitoring\)
--   [[ppe-inventory-management|Workplace PPE Inventory Management]] \(sn\_imt\_ppe\)
--   [[employee-readiness-surveys|Employee Readiness Surveys]] \(sn\_imt\_readiness\)
+-   Employee Health Screening \(sn\_imt\_monitoring\)
+-   Workplace PPE Inventory Management \(sn\_imt\_ppe\)
+-   Employee Readiness Surveys \(sn\_imt\_readiness\)
 -   COVID-19 Global Health Data Set \(sn\_imt\_c19datafeed\)
--   [[contact-tracing|Contact Tracing]] \(sn\_imt\_tracing\)
--   [[emergency-self-report|Emergency Self Report]] \(sn\_imt\_quarantine\)
--   [[workplace-safety-mgmt-hr|Workplace Core]] \(sn\_wsd\_core\)
--   [[safe-workplace-dashboard|Safe Workplace Dashboard]] \(sn\_imt\_dashboard\)
+-   Contact Tracing \(sn\_imt\_tracing\)
+-   Emergency Self Report \(sn\_imt\_quarantine\)
+-   Workplace Core \(sn\_wsd\_core\)
+-   Safe Workplace Dashboard \(sn\_imt\_dashboard\)
 -   Emergency Response Management for Now Mobile \(sn\_imt\_mobile\)
--   [[employee-travel-safety|Employee Travel Safety]] \(sn\_imt\_travel\)
--   [[health-safety-testing|Health and Safety Testing]] \(sn\_imt\_health\_test\)
+-   Employee Travel Safety \(sn\_imt\_travel\)
+-   Health and Safety Testing \(sn\_imt\_health\_test\)
 -   Vaccination Status \(sn\_imt\_vaccine\)
 
 ## Procedure
@@ -92,7 +92,7 @@ See the [Commercial downloads for the Emergency Response Management and Safe Wor
 4.  Click **Activate**.
 
 
-**Parent Topic:**[[vaccination-status|Vaccination Status]]
+**Parent Topic:**[Vaccination Status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/vaccination-status.md)
 
 ## Components installed with Vaccination Status
 
@@ -171,7 +171,7 @@ Contains a history of all reported vaccination statuses for each user. Users can
 
  Vaccine responses and their attachments are stored for the duration set by your organization's data retention policies. If the vaccine responses are deleted before the expiration date, the reported statuses and attachments are also deleted.
 
-**Note:** Any historical data saved for use in the [[vaccination-status-dashboard|Vaccination Status dashboard]] is count data only. Any personally identifying information is removed by default and is deleted based on your organization's policy.
+**Note:** Any historical data saved for use in the Vaccination Status dashboard is count data only. Any personally identifying information is removed by default and is deleted based on your organization's policy.
 
 </td></tr><tr><td>
 
@@ -199,7 +199,7 @@ Lists of vaccine exemption requests, their status, the exemption type, expiratio
 
  Managers may view the exemption requests for their direct reports in **My Employee's exemptions** if this ability is enabled by their organization.
 
- For more information, see [[config-vaccination-properties|Set up Vaccination Status properties]].
+ For more information, see [Set up Vaccination Status properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/config-vaccination-properties.md).
 
 </td></tr><tr><td>
 
@@ -235,22 +235,3 @@ Lists valid vaccine codes, such as CVX codes, obtained from the Center for Disea
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[vaccination-status|Vaccination Status]]
-- [[config-vaccination-properties|Set up Vaccination Status properties]]
-- [[employee-readiness-core|Employee Readiness Core]]
-- [[emergency-outreach|Emergency Outreach]]
-- [[emergency-response-management|Emergency Response Management]]
-- [[safe-workplace|Safe Workplace]]
-- [[employee-health-screening|Employee Health Screening]]
-- [[ppe-inventory-management|Workplace PPE Inventory Management]]
-- [[employee-readiness-surveys|Employee Readiness Surveys]]
-- [[contact-tracing|Contact Tracing]]
-- [[emergency-self-report|Emergency Self Report]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[safe-workplace-dashboard|Safe Workplace Dashboard]]
-- [[employee-travel-safety|Employee Travel Safety]]
-- [[health-safety-testing|Health and Safety Testing]]
-- [[vaccination-status-dashboard|Vaccination Status dashboard]]

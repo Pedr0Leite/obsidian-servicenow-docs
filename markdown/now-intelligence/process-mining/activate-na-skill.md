@@ -14,7 +14,7 @@ breadcrumb: [Working with work notes using Now Assist, Configure, Now Assist for
 
 # Activate work notes analysis skill
 
-Activate the transition [[worknotes-analysis|work notes analysis]] skill to be able to use [[now-assist|Now Assist for Process Mining]] to analyse work notes.
+Activate the transition work notes analysis skill to be able to use Now Assist for Process Mining to analyse work notes.
 
 ## Before you begin
 
@@ -37,7 +37,3 @@ Role required: admin
 
 **Parent Topic:**[Working with work notes using Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/worknotes.md)
 
-## Related
-
-- [[worknotes-analysis|Work notes analysis]]
-- [[now-assist|Now Assist for Process Mining]]

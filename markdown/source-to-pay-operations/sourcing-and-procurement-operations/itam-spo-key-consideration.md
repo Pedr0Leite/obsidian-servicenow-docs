@@ -42,12 +42,12 @@ Acknowledging asset receipt in ITAM
 </td><td>
 
 -   After asset delivery, the purchaser acknowledges receipt via the PO in ITAM. Assets are then created and can be viewed under the **Assets** tab of the ITAM PO.
--   In this workflow, no assets or [[receipts|receipts]] are created from the SPO PO.
+-   In this workflow, no assets or receipts are created from the SPO PO.
 -   A read-only receipt is generated on the SPO POL only after the ITAM receipt slip is created.
 
 </td></tr><tr><td>
 
-[[shopping-hub-overview|Shopping Hub]] and IT Asset Management
+Shopping Hub and IT Asset Management
 
 </td><td>
 
@@ -57,7 +57,7 @@ Shopping Hub controls should prevent IT asset purchases directly from the Shoppi
 
 </td></tr><tr><td>
 
-[[supplier|Supplier]] Product and Vendor Catalog Item table usage
+Supplier Product and Vendor Catalog Item table usage
 
 </td><td>
 
@@ -69,9 +69,9 @@ How ITAM-SPO better together flow affects SAM-Coupa integration
 
 </td><td>
 
-The ITAM-SPO integration flow does not support the Software Asset Management \(SAM\) and Coupa integration. If you are currently using the SAM-Coupa integration and wish to continue doing so, do not install the Asset Management Integration for [[psm-overview|Sourcing and Procurement Operations]] \(sn\_spend\_asset\) plugin.If you choose to install the better together application, complete the following steps to successfully implement the SPO-Coupa integration:
+The ITAM-SPO integration flow does not support the Software Asset Management \(SAM\) and Coupa integration. If you are currently using the SAM-Coupa integration and wish to continue doing so, do not install the Asset Management Integration for Sourcing and Procurement Operations \(sn\_spend\_asset\) plugin.If you choose to install the better together application, complete the following steps to successfully implement the SPO-Coupa integration:
 
--   Stop the “Create a Requisition” business rule from triggering on the ITAM [[purchase-order-table|Purchase Order]] table \(proc\_po\) when the status changes to Ordered.
+-   Stop the “Create a Requisition” business rule from triggering on the ITAM Purchase Order table \(proc\_po\) when the status changes to Ordered.
 
 -   Restrict the creation of new itam\_procurement\_integration\_job scheduled jobs. Retire any existing daily jobs to avoid potential conflicts.
 
@@ -84,17 +84,8 @@ Creation of assets for services
 
 </td><td>
 
-The creation of inventory assets for services in the alm\_asset table is disabled in the [[purchase-experience-workflow|Sourcing and Purchasing Automation]] and Asset Management Integration for Sourcing and Procurement Operations plugins. The previously created inventory assets for services are not affected. For fixed assets, ITAM continues to create corresponding records in the alm\_asset table for services. [[inventory-asset-creation|Inventory asset creation]] for goods continues to function as before.
+The creation of inventory assets for services in the alm\_asset table is disabled in the Sourcing and Purchasing Automation and Asset Management Integration for Sourcing and Procurement Operations plugins. The previously created inventory assets for services are not affected. For fixed assets, ITAM continues to create corresponding records in the alm\_asset table for services. Inventory asset creation for goods continues to function as before.
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Sourcing and Procurement Operations integration with IT Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-itam-better-together.md)
 
-## Related
-
-- [[receipts|Receipts]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[supplier|Supplier]]
-- [[psm-overview|Sourcing and Procurement Operations]]
-- [[purchase-order-table|Purchase order]]
-- [[purchase-experience-workflow|Sourcing and Purchasing Automation]]
-- [[inventory-asset-creation|Inventory asset creation]]

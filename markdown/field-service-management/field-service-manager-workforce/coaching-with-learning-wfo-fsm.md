@@ -83,7 +83,7 @@ Role required: sn\_lc.task\_creator
 
 ### About this task
 
-Set learning task completion due dates to include or exclude weekends using the **exclude\_weekends\_on\_learning\_task\_due\_date** system property. For more information, see [[components-wfo-fsm|Workforce Optimization for Field Service components]].
+Set learning task completion due dates to include or exclude weekends using the **exclude\_weekends\_on\_learning\_task\_due\_date** system property. For more information, see [Workforce Optimization for Field Service components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/components-wfo-fsm.md).
 
 ### Procedure
 
@@ -281,6 +281,3 @@ Role required: sn\_lc.learning\_admin
 
 You can review and learn the external course.
 
-## Related
-
-- [[components-wfo-fsm|Workforce Optimization for Field Service components]]

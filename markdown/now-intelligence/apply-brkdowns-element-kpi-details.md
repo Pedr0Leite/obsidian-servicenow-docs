@@ -12,7 +12,7 @@ breadcrumb: [Examining indicators, KPI Details, Platform Analytics experience, P
 
 # Filter indicator scores by breakdown elements in KPI Details
 
-Apply breakdowns and elements to filter classic and Data snapshots-enabled indicators. The filter controls are in the [[kpi-details|KPI Details]] sidebar.
+Apply breakdowns and elements to filter classic and Data snapshots-enabled indicators. The filter controls are in the KPI Details sidebar.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: None. However, upgraded instances may require pa\_viewer.
 
 You can select as many breakdowns as the indicator supports.
 
-For classic indicators, you can select up to two levels of breakdown, and you can select multiple elements on the first breakdown. [Breakdown matrix collection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/create-breakdown-mapping.md) must be enabled on the indicator to have more than one breakdown. For classic [[formula-indicators|formula indicators]], breakdown matrix collection must be enabled on the contributing [[automated-indicators|automated indicators]].
+For classic indicators, you can select up to two levels of breakdown, and you can select multiple elements on the first breakdown. [Breakdown matrix collection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/create-breakdown-mapping.md) must be enabled on the indicator to have more than one breakdown. For classic formula indicators, breakdown matrix collection must be enabled on the contributing automated indicators.
 
 For indicators with Data snapshots enabled, you can select any number of breakdowns and elements.
 
-Filtering native Data snapshots indicators is different enough that it is described in a separate topic. For more information, see [[filter-data-snapshots-indicator-scores|Filter native Data snapshots indicator scores in KPI Details]].
+Filtering native Data snapshots indicators is different enough that it is described in a separate topic. For more information, see [Filter native Data snapshots indicator scores in KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/filter-data-snapshots-indicator-scores.md).
 
 **Important:** Filter conditions do not persist between KPI Details page refreshes.
 
@@ -44,7 +44,7 @@ Filtering native Data snapshots indicators is different enough that it is descri
 
     Only classic indicators support elements filters.
 
-    1.  Expand the **Refine by** list to see the available [[c_BreakdownElementFilters|element filters]].
+    1.  Expand the **Refine by** list to see the available element filters.
 
         This image shows the "Groups I manage" and "One of my groups" elements filters, which are available for the Assignment Group breakdown in the base system.
 
@@ -58,7 +58,7 @@ Filtering native Data snapshots indicators is different enough that it is descri
 
 4.  In the **Sort by** menu, sort the elements by name, by the score for the selected date, or by the change from the previous date.
 
-    If [[real-time-scores|real-time scores]] are turned on, only sorting by name is available.
+    If real-time scores are turned on, only sorting by name is available.
 
 5.  Select one or more elements.
 
@@ -93,7 +93,7 @@ The following indicators support an aggregate score of multiple elements:
 
     **Note:** The word "aggregate" is used for two different things here: the aggregate view of multiple indicator scores, and the data aggregation that is set on an indicator.
 
--   [[t_CreateAManualIndicator|Manual indicators]]
+-   Manual indicators
 -   External indicators that do not use `SQL AVG()` or `SQL COUNT(DISTINCT...)` in their SQL statement
 -   Formula indicators that have aggregate element views enabled on their indicator records. For more information, see the entry on the **Allow aggregation of multiple breakdown element scores** field on the Other tab in [Create a formula indicator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_CreateAFormulaIndicator.md).
 
@@ -123,12 +123,3 @@ The following formula indicator does not have aggregate views of multiple elemen
 
 [Indicator breakdowns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_CreatingBreakdowns.md)
 
-## Related
-
-- [[filter-data-snapshots-indicator-scores|Filter native Data snapshots indicator scores in KPI Details]]
-- [[kpi-details|KPI Details]]
-- [[formula-indicators|Formula indicators]]
-- [[automated-indicators|Automated indicators]]
-- [[c_BreakdownElementFilters|Element filters]]
-- [[real-time-scores|Real-time scores]]
-- [[t_CreateAManualIndicator|Manual indicators]]

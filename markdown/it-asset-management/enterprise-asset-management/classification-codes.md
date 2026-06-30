@@ -14,11 +14,11 @@ breadcrumb: [Enterprise Asset Management data model, Explore, Enterprise Asset M
 
 # Model classification
 
-Use model classification to organize and categorize enterprise [[c_Models|models]] and their associated assets in a structured, consistent way across the ServiceNow platform.
+Use model classification to organize and categorize enterprise models and their associated assets in a structured, consistent way across the ServiceNow platform.
 
 ## Overview of classification
 
-Classification codes are structured identifiers assigned to enterprise models. After assigned to a model, a classification code is automatically inherited by all assets created from that model. Classification codes serve a descriptive purpose — supporting reporting, analysis, and grouping — distinct from [[model-hierarchy|model categories]], which serve a technical purpose by binding model, asset, and CI class tables together.
+Classification codes are structured identifiers assigned to enterprise models. After assigned to a model, a classification code is automatically inherited by all assets created from that model. Classification codes serve a descriptive purpose — supporting reporting, analysis, and grouping — distinct from model categories, which serve a technical purpose by binding model, asset, and CI class tables together.
 
 |Characteristic|Model categories|Model classifications|
 |--------------|----------------|---------------------|
@@ -58,7 +58,7 @@ Filtering by a parent classification includes all models and assets associated w
 
 The Enterprise Model Classification table is not seeded out-of-the-box. Organizations can adopt an industry-standard taxonomy or define their own custom system.
 
-|Classification system|Description|Enterprise [[am-landing-page|Asset Management]] \(EAM\) example|
+|Classification system|Description|Enterprise Asset Management \(EAM\) example|
 |---------------------|-----------|-------------------------------------------|
 |CSI OmniClass|Classification of construction elements|Standardized categories for air-distribution components \(ducts, diffusers, fans\)|
 |CSI UniFormat|Classification of buildings by functional elements, systems, and assemblies|Groups elements such as substructure, shell, interiors, and services consistently|
@@ -66,7 +66,7 @@ The Enterprise Model Classification table is not seeded out-of-the-box. Organiza
 |GICS|Global industry standard|Classifies turbines and substations in energy companies for external reporting|
 |ISO 14224|Reliability and maintenance data collection|Monitors failure rates and downtime for robotic arms, conveyors, and CNC machines|
 |NAICS|US, Canada, and Mexico industry classification|Maps conveyors, HVAC, or facility systems into industry codes for reporting|
-|UNSPSC|Global goods and services taxonomy|Confirms pumps and compressors are consistently classified in [[c_Procurement|procurement]] workflows|
+|UNSPSC|Global goods and services taxonomy|Confirms pumps and compressors are consistently classified in procurement workflows|
 
 ## Examples of classification systems applied in EAM
 
@@ -90,9 +90,3 @@ The Enterprise Model Classification table is not seeded out-of-the-box. Organiza
 
 [Import classification codes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/import-class-codes-eam.md)
 
-## Related
-
-- [[c_Models|Models]]
-- [[model-hierarchy|Model categories]]
-- [[am-landing-page|Asset Management]]
-- [[c_Procurement|Procurement]]

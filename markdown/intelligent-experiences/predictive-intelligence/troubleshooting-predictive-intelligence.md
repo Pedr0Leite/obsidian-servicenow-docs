@@ -93,7 +93,7 @@ Use the following options to help improve your metrics.
 
  Option 1: Update the processing language of the solution to the most prominent non-English language.
 
-**Note:** English is applied by default for all [[ai-datasets|datasets]].
+**Note:** English is applied by default for all datasets.
 
  Option 2: If there's sufficient data for each language/region:
 
@@ -117,7 +117,7 @@ The prediction fails and returns a Java exception where the cause is unknown.
 
 </td><td>
 
-1.  Search for the exception in the [[predictive-intelligence-landing|Predictive Intelligence]] Glide logs.
+1.  Search for the exception in the Predictive Intelligence Glide logs.
 2.  Submit an Incident record for Predictive Intelligence including all relevant details, such as the exception, the impacted instance, the solution name, and the input string.
 
 </td></tr><tr><td>
@@ -141,7 +141,3 @@ This can occur when the confidence of the prediction is less than the threshold 
 
 **Parent Topic:**[Configure Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/configure-predictive-intelligence.md)
 
-## Related
-
-- [[ai-datasets|Datasets]]
-- [[predictive-intelligence-landing|Predictive Intelligence]]

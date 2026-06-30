@@ -12,7 +12,7 @@ breadcrumb: [Manage cases, Use, Customer Service Management]
 
 # Create a request on behalf of a customer or consumer
 
-Customer service agents can create requests on behalf of customers from [[csm-workspaces-configure|CSM Configurable Workspace]] or from the platform interface.
+Customer service agents can create requests on behalf of customers from CSM Configurable Workspace or from the platform interface.
 
 ## Before you begin
 
@@ -69,9 +69,6 @@ Complete these steps:
 Click **Order Now**. The system creates the request and displays the request number. An information message provides a link to the case associated with the request.
 
 </td></tr></tbody>
-</table>6.  From the [[r_CustomerServiceCaseForm|Case form]], click the **Requests** related list to see the requests associated with the case.
+</table>6.  From the Case form, click the **Requests** related list to see the requests associated with the case.
 
-## Related
 
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[r_CustomerServiceCaseForm|Case form]]

@@ -14,7 +14,7 @@ breadcrumb: [Enable access to Supplier Collaboration Portal, Post-upgrade tasks,
 
 # Run the fix script to enable access to Supplier Collaboration Portal
 
-After you install the [[supplier-central|Supplier Collaboration Portal]], you must run the fix script to enable access to the portal.
+After you install the Supplier Collaboration Portal, you must run the fix script to enable access to the portal.
 
 ## Before you begin
 
@@ -38,7 +38,7 @@ After you download the script file, perform the following steps.
 
 4.  Select **Upload**.
 
-5.  Search for and select the `Add [[supplier|Supplier]] Roles` script record to open it.
+5.  Search for and select the `Add Supplier Roles` script record to open it.
 
 6.  Select **Run Fix Script**.
 
@@ -54,7 +54,3 @@ After the fix script run is successful, you can access the Supplier Collaboratio
 
 [Enable access to Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/enable-access-supp-central.md)
 
-## Related
-
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[supplier|Supplier]]

@@ -12,7 +12,7 @@ breadcrumb: [Use, Employee Center for OT, Operational Technology]
 
 # Report an OT incident in the Employee Center for OT
 
-If you're not an [[operational-technology-overview|Operational Technology]] \(OT\) incident user and need to [[report-ot-incident|report an OT incident]], report the incident in the [[ot-employee-portal-landing|Employee Center for OT]].
+If you're not an Operational Technology \(OT\) incident user and need to report an OT incident, report the incident in the Employee Center for OT.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: cmdb\_ot\_viewer
 
 ## About this task
 
-As a user without an OT incident role, you can still report an OT incident as long as you're assigned the **cmdb\_ot\_viewer** role. By reporting the OT incident in the Employee Center for OT, an OT incident record is created in the [[industrial-workspace-for-operational-technology|Industrial Workspace]]. This request is available on both desktop and the Now Mobile app experience.
+As a user without an OT incident role, you can still report an OT incident as long as you're assigned the **cmdb\_ot\_viewer** role. By reporting the OT incident in the Employee Center for OT, an OT incident record is created in the Industrial Workspace. This request is available on both desktop and the Now Mobile app experience.
 
 ## Procedure
 
@@ -57,12 +57,5 @@ When you report the OT incident, an overview of the incident is provided along w
 
 You can also view your request in the Employee Center by selecting **My Requests**. Viewing your request on the requests page lets you see any work notes or activities saved to your submitted request.
 
-**Parent Topic:**[[using-ot-employee-portal|Using the Employee Center for OT]]
+**Parent Topic:**[Using the Employee Center for OT](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/using-ot-employee-portal.md)
 
-## Related
-
-- [[using-ot-employee-portal|Using the Employee Center for OT]]
-- [[operational-technology-overview|Operational Technology]]
-- [[report-ot-incident|Report an OT incident]]
-- [[ot-employee-portal-landing|Employee Center for OT]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

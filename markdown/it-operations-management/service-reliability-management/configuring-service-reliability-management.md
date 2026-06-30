@@ -14,11 +14,11 @@ breadcrumb: [Service Reliability Management, ITOM AIOps, IT Operations Managemen
 
 # Configuring Service Reliability Management
 
-Configuring Service Reliability Management \(SRM\) involves installing it from the ServiceNow Store or [[workspace-dashboard-use|Service Operations Workspace]] Admin Center. You can also assign administrators and import services and teams.
+Configuring Service Reliability Management \(SRM\) involves installing it from the ServiceNow Store or Service Operations Workspace Admin Center. You can also assign administrators and import services and teams.
 
 ## Using guided setup for SRM
 
-The guided setup provides a sequence of tasks to help you configure SRM on your instance. To open the guided setup, navigate to **All** &gt; **Service Operations Workspace Admin Center** &gt; **Overview**. Next, find the [[sr-landing-page|Service Reliability Management]] tile and select **Configure**.
+The guided setup provides a sequence of tasks to help you configure SRM on your instance. To open the guided setup, navigate to **All** &gt; **Service Operations Workspace Admin Center** &gt; **Overview**. Next, find the Service Reliability Management tile and select **Configure**.
 
 ## SRM configuration documentation
 
@@ -47,7 +47,3 @@ Install the **Alert Automation** application and any supporting applications.
 
 **Parent Topic:**[Service Reliability Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-landing-page.md)
 
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[sr-landing-page|Service Reliability Management]]

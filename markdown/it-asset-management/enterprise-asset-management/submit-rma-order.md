@@ -14,7 +14,7 @@ breadcrumb: [Return Merchandise Authorization \(RMA\), Create and manage enterpr
 
 # Submit a Return Merchandise Authorization \(RMA\) order for your defective enterprise assets
 
-Submit a [[return-merchandise-authorization|Return Merchandise Authorization]] \(RMA\) order to initiate the replacement or repair of your defective enterprise assets.
+Submit a Return Merchandise Authorization \(RMA\) order to initiate the replacement or repair of your defective enterprise assets.
 
 ## Before you begin
 
@@ -59,6 +59,3 @@ After the RMA order is submitted successfully, you are automatically redirected 
 
 **Parent Topic:**[Requesting a Return Merchandise Authorization \(RMA\) for defective enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/requesting-return-merchandise-authorization-enterprise-assets.md)
 
-## Related
-
-- [[return-merchandise-authorization|Return Merchandise Authorization]]

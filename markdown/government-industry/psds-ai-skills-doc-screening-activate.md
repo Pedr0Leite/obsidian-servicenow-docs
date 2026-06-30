@@ -40,7 +40,7 @@ Activate the Document screening Al skill to use Now Assist for PSDS gen-AI to sc
     -   Now Assist in Document Intelligence \(sn\_docintel\_gen\_ai\)
     -   Document Processor \(sn\_doc\_processor\)
     -   Service Applicant Information \(sn\_svc\_appl\_info\)
-    -   [[now-assist-for-psds|Now Assist for Public Sector Digital Services \(PSDS\)]]
+    -   Now Assist for Public Sector Digital Services \(PSDS\)
     -   Social Benefits Playbook, Grants Management, **or** License and Permit Playbook
     For more information on configuring Now Assist in Document Intelligence, see [Configuring Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/docintel-configuring-now-assist.md).
 
@@ -71,6 +71,4 @@ Activate the Document screening Al skill to use Now Assist for PSDS gen-AI to sc
 
     \[Omitted image "psds-doc-screening-skill-activated.png"\] Alt text: Document screening Al skill is active.
 
-## Related
 
-- [[now-assist-for-psds|Now Assist for Public Sector Digital Services \(PSDS\)]]

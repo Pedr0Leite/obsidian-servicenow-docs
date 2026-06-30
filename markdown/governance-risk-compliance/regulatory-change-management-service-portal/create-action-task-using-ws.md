@@ -26,11 +26,11 @@ The user with the sn\_grc\_reg\_change.user role assigns the selected action tas
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[reg-change-mgmt-landing-page|Regulatory Change Management]]** &gt; **Compliance Workspace**.
+1.  Navigate to **All** &gt; **Regulatory Change Management** &gt; **Compliance Workspace**.
 
     The Regulatory Change Management application in the Compliance Workspace is displayed.
 
-2.  In the [[list-view-uib-ws|List view]], navigate to **Lists** &gt; **[[list-view-of-reg-alerts|Regulatory Alerts]]** &gt; **Assigned Alerts** view.
+2.  In the List view, navigate to **Lists** &gt; **Regulatory Alerts** &gt; **Assigned Alerts** view.
 
 3.  Complete one of the following tasks depending on the type of the alert.
 
@@ -256,8 +256,3 @@ The action task is marked for the users with the sn\_compliance.manager or the s
 
 [Complete the action task associated with the alert](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/create-action-task-src-document-alert.md)
 
-## Related
-
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]
-- [[list-view-uib-ws|List view]]
-- [[list-view-of-reg-alerts|Regulatory alerts]]

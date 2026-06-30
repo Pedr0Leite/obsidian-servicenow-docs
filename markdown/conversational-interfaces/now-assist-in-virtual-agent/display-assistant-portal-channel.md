@@ -28,9 +28,9 @@ Role required: virtual\_agent\_admin or admin
 
 The chat experience configuration defines how users interact with an assistant during a conversation, including message behavior, response generation, and fallback handling.
 
--   [[nava-standard-chat|Standard chat]] is a condensed conversational support experience in a chat widget.
--   [[nava-enhanced-chat|Enhanced chat]] is a conversational experience that includes a dynamic, movable, and resizable chat window, plus access to multiple active conversations.
--   [[nava-integrated-chat|Premium chat]] is a contextual chat experience that appears throughout the platform, adapting its behavior and interface based on where users are and what they’re doing.
+-   Standard chat is a condensed conversational support experience in a chat widget.
+-   Enhanced chat is a conversational experience that includes a dynamic, movable, and resizable chat window, plus access to multiple active conversations.
+-   Premium chat is a contextual chat experience that appears throughout the platform, adapting its behavior and interface based on where users are and what they’re doing.
 
 If your instance is eligible, you can opt into the premium chat experience. ServiceNow performs a set of readiness checks to see if your instance is eligible for premium chat. The default chat experience is enhanced chat. However, if you also previously had standard chat enabled, you still have that as an option.
 
@@ -54,7 +54,7 @@ In premium chat, catalog items have improved fluidity, but some will no longer b
     **Note:** If you have access to the default Employee Slate assistant, Employee Slate is available from within the portal list. Selecting Employee Slate prompts you to add premium chat.
 
     -   Standard chat and enhanced chat are not options for Employee Slate.
-    -   Employee Slate can be removed/unmapped from the default Employee Slate assistant and added to any [[now-assist-in-va-landing|Now Assist in Virtual Agent]] assistant.
+    -   Employee Slate can be removed/unmapped from the default Employee Slate assistant and added to any Now Assist in Virtual Agent assistant.
     \[Omitted image "NAinVA-display-exp-052026.png"\] Alt text: Select a portal for where you want your assistant to appear.
 
     One portal can only include one assistant. Any portal in the list that is already used is unavailable for selection.
@@ -88,7 +88,7 @@ In premium chat, catalog items have improved fluidity, but some will no longer b
             -   Enhanced chat with the option to allow the search bar to open into a full-page chat experience.
             -   Premium chat that opens the search bar into a full-page chat experience.
         -   For portals that do not have AI search enabled, you can choose between standard chat and enhanced chat with a dynamic, movable, and resizable chat window.
-        Enhanced chat \(full-page experience\) and premium chat \(full-page experience\) are supported for default Customer Service [[management|Management]] \(CSM\) portals such as Business Portal, CSM Portal, and Consumer Service Portal \(CSP\). CSM portals must have AI Search enabled. Enhanced chat is the default when an assistant is added to a default CSM portal.
+        Enhanced chat \(full-page experience\) and premium chat \(full-page experience\) are supported for default Customer Service Management \(CSM\) portals such as Business Portal, CSM Portal, and Consumer Service Portal \(CSP\). CSM portals must have AI Search enabled. Enhanced chat is the default when an assistant is added to a default CSM portal.
 
         For premium chat, your premium messages and premium fallbacks are prefilled with what you had in your legacy messages and legacy fallbacks. Review the settings to ensure that everything was prefilled correctly.
 
@@ -106,13 +106,13 @@ In premium chat, catalog items have improved fluidity, but some will no longer b
 
 2.  In **Channels**, select your preferred messaging channels to display a chat assistant.
 
-    Now Assist in Virtual Agent integrates with these channels: Slack, Microsoft Teams, Google Chat, SMS with Twilio, WhatsApp, and Amazon Connect. If the plugins are already installed, the available channel cards aren't displayed. For more information on [[va-integration-messaging-apps|integrating Virtual Agent with messaging apps]], see [Integrating Virtual Agent with messaging apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-integration-messaging-apps.md).
+    Now Assist in Virtual Agent integrates with these channels: Slack, Microsoft Teams, Google Chat, SMS with Twilio, WhatsApp, and Amazon Connect. If the plugins are already installed, the available channel cards aren't displayed. For more information on integrating Virtual Agent with messaging apps, see [Integrating Virtual Agent with messaging apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-integration-messaging-apps.md).
 
     Getting the plugin redirects you to the ServiceNow Store. After the plugins are installed and configured, you can then select the ones that you want the assistant to integrate with.
 
     -   After the plugins are installed and configured, choose the ones that you want the assistant to integrate with by selecting from the Add channel drop down menu.
 
-        \[Omitted image "NAinVA-display-channels-062026.png"\] Alt text: List of channels to integrate with [[virtual-agent-landing-page|Virtual Agent]].
+        \[Omitted image "NAinVA-display-channels-062026.png"\] Alt text: List of channels to integrate with Virtual Agent.
 
     -   Select the ellipsis to remove a channel. The edit option is only available for Microsoft Teams. You can toggle between standard and premium chat.
         -   For standard chat, conversations in Microsoft Teams display responses using adaptive, in-context cards.
@@ -255,12 +255,3 @@ Not applicable
 
 See [Brand and personalize an assistant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/brand-assistant.md).
 
-## Related
-
-- [[nava-standard-chat|Standard chat]]
-- [[nava-enhanced-chat|Enhanced chat]]
-- [[nava-integrated-chat|Premium chat]]
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]
-- [[management|Management]]
-- [[va-integration-messaging-apps|Integrating Virtual Agent with messaging apps]]
-- [[virtual-agent-landing-page|Virtual Agent]]

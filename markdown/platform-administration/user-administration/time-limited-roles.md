@@ -14,7 +14,7 @@ breadcrumb: [Time-limited role, Managing roles, User administration, Configure c
 
 # Grant a time-limited user role
 
-Learn how to [[t_AssignARoleToAUser|assign a role to a user]] temporarily. Use this feature if you have a user who needs to perform a one-time action that is normally outside their roles.
+Learn how to assign a role to a user temporarily. Use this feature if you have a user who needs to perform a one-time action that is normally outside their roles.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Role required: user\_admin
 **Note:**
 
 -   Time-limited user roles can be assigned to a user for a maximum of 5 days.
--   For a user, you can assign only `admin`, `snc_read_only`, `impersonator`, and \(or\) `snc_required_script_writer_permission` role as [[time-limited-role-overview|time-limited role]].
+-   For a user, you can assign only `admin`, `snc_read_only`, `impersonator`, and \(or\) `snc_required_script_writer_permission` role as time-limited role.
 -   Time-limited user roles are not displayed to the assigned users under the **Roles** tab of the user \(sys\_user\) record.
 -   When the time-limited role assigned users log in, they see a notification regarding the role assignment.
 -   Time-limited assignments can handle more than one role assignment to a user, even if the total duration across assignments is less than five days.
@@ -34,7 +34,7 @@ Role required: user\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **** &gt; **[[c_UserAdministration|User Administration]]** &gt; **Time-limited user roles**.
+1.  Navigate to **All** &gt; **** &gt; **User Administration** &gt; **Time-limited user roles**.
 
 2.  Select **New**.
 
@@ -108,8 +108,3 @@ The specified user now has the role. They must complete their restricted task be
 
 **Parent Topic:**[Time-limited role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/time-limited-role-overview.md)
 
-## Related
-
-- [[t_AssignARoleToAUser|Assign a role to a user]]
-- [[time-limited-role-overview|Time-limited role]]
-- [[c_UserAdministration|User administration]]

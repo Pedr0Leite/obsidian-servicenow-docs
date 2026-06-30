@@ -14,7 +14,7 @@ breadcrumb: [Configuring Service Operations Workspace for ITSM, Service Operatio
 
 # Migration from ITSM Agent Workspace to Service Operations Workspace for ITSM
 
-You can easily migrate common customizations and configurations for various features from ITSM Agent Workspace to [[sow-landing-page|Service Operations Workspace for ITSM]] using the on-screen [[migration-utility|migration utility]]. With this migration, you won't have to rebuild these features in Service Operations Workspace for ITSM. For these features, you can migrate any specific record types and elements or all of them.
+You can easily migrate common customizations and configurations for various features from ITSM Agent Workspace to Service Operations Workspace for ITSM using the on-screen migration utility. With this migration, you won't have to rebuild these features in Service Operations Workspace for ITSM. For these features, you can migrate any specific record types and elements or all of them.
 
 ## Migration process
 
@@ -24,17 +24,17 @@ You can easily migrate common customizations and configurations for various feat
 
 Perform the following steps in your non-production instance.
 
-1.  [[install-migration-utility-for-sow|Install the Migration Utility for Service Operations Workspace]] application. See [Install the Migration Utility for Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/install-migration-utility-for-sow.md).
-2.  If you have any custom ITSM table that should be [[migrated-records|migrated]], specify the table in the **sn\_sow\_migration.itsm\_aw\_migration\_tables** system property for migrating the associated list category and modules, list actions, related list actions and New record menu items from ITSM Agent Workspace to Service Operations Workspace for ITSM. See [Configure the migration of a custom ITSM table from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configure-migration-custom-table-to-sow-itsm.md).
+1.  Install the Migration Utility for Service Operations Workspace application. See [Install the Migration Utility for Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/install-migration-utility-for-sow.md).
+2.  If you have any custom ITSM table that should be migrated, specify the table in the **sn\_sow\_migration.itsm\_aw\_migration\_tables** system property for migrating the associated list category and modules, list actions, related list actions and New record menu items from ITSM Agent Workspace to Service Operations Workspace for ITSM. See [Configure the migration of a custom ITSM table from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configure-migration-custom-table-to-sow-itsm.md).
 3.  Create a basic authentication configuration \(sys\_auth\_profile\_basic\) to authenticate the Table API that the migration utility uses to perform creation, updating, and deletion of records. See [Create a basic authentication configuration to migrate from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-basic-authentication-credential-sow-migration.md).
 4.  Create an update set to record any changes that are made to Service Operations Workspace for ITSM during the migration. See [Create and select an update set as the current set](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/create-select-update-set.md).
-5.  [[migrate-itsm-agent-workspace-to-sow|Migrate from ITSM Agent Workspace to Service Operations Workspace for ITSM]] using the migration utility. See [Migrate from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/migrate-itsm-agent-workspace-to-sow.md).
+5.  Migrate from ITSM Agent Workspace to Service Operations Workspace for ITSM using the migration utility. See [Migrate from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/migrate-itsm-agent-workspace-to-sow.md).
 6.  If the migration to Service Operations Workspace for ITSM is working as expected in your non-production instance, move your migration changes to a production instance using the update set.
 
 **Note:** The logged in admin user credentials must match the credential used to setup basic authentication to successfully perform the migration from ITSM Agent Workspace to Service Operations Workspace for ITSM.
 
 -   **[Install the Migration Utility for Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/install-migration-utility-for-sow.md)**  
-You can install the Migration Utility for Service Operations Workspace application \(sn\_sow\_migration\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store [[dex-workspace-application-tab|applications]] and plugins if they are not already installed.
+You can install the Migration Utility for Service Operations Workspace application \(sn\_sow\_migration\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 -   **[Configure the migration of a custom ITSM table from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configure-migration-custom-table-to-sow-itsm.md)**  
 If you have a custom ITSM table that must be migrated, you must enable the migration of the associated list categories and modules, list actions, related list actions, and New record menu items from ITSM Agent Workspace to Service Operations Workspace for ITSM.
 -   **[Create a basic authentication configuration to migrate from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-basic-authentication-credential-sow-migration.md)**  
@@ -57,11 +57,3 @@ Through a set of simple steps, quickly migrate your ITSM Agent Workspace feature
 
 [Admin Center in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/admin-center-sow.md)
 
-## Related
-
-- [[sow-landing-page|Service Operations Workspace for ITSM]]
-- [[migration-utility|Migration Utility]]
-- [[install-migration-utility-for-sow|Install the Migration Utility for Service Operations Workspace]]
-- [[migrated-records|Migrated]]
-- [[migrate-itsm-agent-workspace-to-sow|Migrate from ITSM Agent Workspace to Service Operations Workspace for ITSM]]
-- [[dex-workspace-application-tab|Applications]]

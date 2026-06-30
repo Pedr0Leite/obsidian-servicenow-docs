@@ -14,7 +14,7 @@ breadcrumb: [Microsoft SCCM, Service Graph Connectors, Integrating third-party d
 
 # Upgrade to the latest version of Service Graph Connector for Microsoft SCCM
 
-Upgrade your [[cmdb-integration-sccm|Service Graph Connector for Microsoft SCCM]]. When you upgrade versions, you can select the files that you want to transfer from the earlier version to the later version of the Service Graph Connector for Microsoft SCCM.
+Upgrade your Service Graph Connector for Microsoft SCCM. When you upgrade versions, you can select the files that you want to transfer from the earlier version to the later version of the Service Graph Connector for Microsoft SCCM.
 
 ## Before you begin
 
@@ -43,7 +43,7 @@ After you have upgraded to the newer version, you can check the upgrade status.
 
 After the upgrade, if there are changes to the SQL in the data source files or mapping, then do the following:
 
-1.  Clear the **Use last run datetime** [[check-box|check box]] in all the data sources.
+1.  Clear the **Use last run datetime** check box in all the data sources.
 2.  Perform a full pull of data from all the data sources.
 
 **Note:** Upgrading from Service Graph Connector for Microsoft SCCM v2.3 to v2.3.1 requires a minimum pull of Computer and Software, because the Source Native Key for the software within the SQL was changed in the SG-SCCM Removed Software data source. Without the correct Source Native Keys, it will not be able find the software in the CMDB.
@@ -54,7 +54,3 @@ For more information on resolving any conflicts, see the following topics:
 -   [Resolve a skipped update and set a resolution status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/uc-resolve-skipped-update.md)
 -   [Skipped Changes to Review related list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/uc-access-rl.md)
 
-## Related
-
-- [[cmdb-integration-sccm|Service Graph Connector for Microsoft SCCM]]
-- [[check-box|Check box]]

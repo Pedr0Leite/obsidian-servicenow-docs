@@ -22,7 +22,7 @@ Role required: Log in as an employee.
 
 To view the **My Assets** option on the global header navigation bar of the Employee Center portal, the value of the **enable\_assets** option must be set to **true** on the Additional options, JSON format field of the Employee Center menu record. For more details, see [Enable or disable global header options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/config-global-header-components.md).
 
-**Note:** The **My Assets** option requires the [[ham-landing-page|Hardware Asset Management]] application to be activated.
+**Note:** The **My Assets** option requires the Hardware Asset Management application to be activated.
 
 ## Procedure
 
@@ -32,7 +32,7 @@ To view the **My Assets** option on the global header navigation bar of the Empl
     -   View the list of assets from the Employee Profile.
         1.  Select **Profile** on the global header navigation bar of the Employee Center portal.
         2.  Select the **Assets** tab.
-    The page displays all the hardware and [[c_ReceiveAConsumableAsset|consumable assets]] that are assigned to you.
+    The page displays all the hardware and consumable assets that are assigned to you.
 
 2.  For the asset for which you want to report an issue, select **Raise issue**.
 
@@ -110,7 +110,3 @@ You can view and track the submitted requests by selecting **My Requests** on th
 
 **Parent Topic:**[Audit your hardware assets by using Asset Attestation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/audit-hardware-assets-attestation.md)
 
-## Related
-
-- [[ham-landing-page|Hardware Asset Management]]
-- [[c_ReceiveAConsumableAsset|Consumable assets]]

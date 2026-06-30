@@ -12,7 +12,7 @@ breadcrumb: [Landing pages, CSM Configurable Workspace features, CSM Configurabl
 
 # CSM Landing Page - Premium
 
-The CSM Landing Page - Premium provides users with [[migration-lists|lists]] of assigned [[csm-cases-case-tasks-overview|cases and case tasks]] as well as agent, group, and organization metrics.
+The CSM Landing Page - Premium provides users with lists of assigned cases and case tasks as well as agent, group, and organization metrics.
 
 Customer service agents and managers can use the CSM Landing Page - Premium to quickly scan and prioritize work, access records, and track performance. Administrators can customize landing pages in [UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/using-ui-builder.md) to meet their unique business needs.
 
@@ -20,12 +20,12 @@ The CSM Landing Page - Premium includes components that display case information
 
 The CSM Landing Page - Premium is available with the following plugins:
 
--   [[csm-workspaces-configure|CSM Configurable Workspace]] \(sn\_csm\_wrkspc\)
--   Performance Analytics - Content Pack - [[c_CustomerServiceManagement|Customer Service Management]] - Advanced \(com.snc.pa.customer\_service\_advanced\)
+-   CSM Configurable Workspace \(sn\_csm\_wrkspc\)
+-   Performance Analytics - Content Pack - Customer Service Management - Advanced \(com.snc.pa.customer\_service\_advanced\)
 
 **Note:** Upgrade customers who haven’t customized the existing CSM Configurable Workspace landing page are automatically upgraded to the landing page available with the Australia release. Upgrade customers who have customized the existing CSM Configurable Workspace landing page must manually accept the Australia landing page.
 
-\[Omitted image "csm-config-ws-polaris-case-section.png"\] Alt text: Landing page to track your active cases and important items. For the text description, refer to the [[csm-ws-landing-page-original|CSM Landing Page]] and CSM Landing Page - Premium sections and components table.
+\[Omitted image "csm-config-ws-polaris-case-section.png"\] Alt text: Landing page to track your active cases and important items. For the text description, refer to the CSM Landing Page and CSM Landing Page - Premium sections and components table.
 
 \[Omitted image "csm-config-ws-polaris-performance-section.png"\] Alt text: Landing page with agent and organization performance data. For the text description, refer to the CSM Landing Page and CSM Landing Page - Premium sections and components table that follows.
 
@@ -99,7 +99,7 @@ Select an indicator to view a KPI details page.**Note:** This section is availab
 </td></tr></tbody>
 </table>## Create a landing page for CSM Configurable Workspace
 
-Use UI Builder to create landing pages for your agents. For more information, see [[config-csm-config-ws-landing-page|Create a CSM Configurable Workspace landing page]].
+Use UI Builder to create landing pages for your agents. For more information, see [Create a CSM Configurable Workspace landing page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-csm-config-ws-landing-page.md).
 
 ## Create multiple landing pages
 
@@ -109,11 +109,3 @@ You can create multiple landing pages. However, only a single landing page is di
 -   The **Order** of the landing page. Pages with a lower-order value take precedence over pages with a higher-order value.
 -   If permissions are defined, you can see a landing page if you have the required role or are a member of the required assignment group. Multiple roles and assignment group conditions are treated as OR conditions.
 
-## Related
-
-- [[config-csm-config-ws-landing-page|Create a CSM Configurable Workspace landing page]]
-- [[migration-lists|Lists]]
-- [[csm-cases-case-tasks-overview|Cases and case tasks]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[csm-ws-landing-page-original|CSM Landing Page]]

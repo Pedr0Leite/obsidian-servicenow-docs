@@ -15,7 +15,7 @@ breadcrumb: [Track your AI, Using AI Search Admin console, AI Search Admin conso
 
 # AI Search activity reports
 
-Reports summarize your [[ia-ai-search|AI Search]] [[clone-configurations-tab|configurations]] and trends.
+Reports summarize your AI Search configurations and trends.
 
 |Title|Type|Source table|Description|
 |-----|----|------------|-----------|
@@ -28,7 +28,3 @@ Reports summarize your [[ia-ai-search|AI Search]] [[clone-configurations-tab|con
 
 **Parent Topic:**[Track your AI Search activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/ais-admin-console-track-activity.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[clone-configurations-tab|Configurations]]

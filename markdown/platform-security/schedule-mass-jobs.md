@@ -12,7 +12,7 @@ breadcrumb: [Encrypting fields and attachments, Using Field Encryption, Field En
 
 # Schedule mass encryption, decryption, and rekeying jobs
 
-Schedule [[encryption-landing|encryption]], decryption, and rekeying jobs to run at a time that is best for your instance.
+Schedule encryption, decryption, and rekeying jobs to run at a time that is best for your instance.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_kmf.cryptographic\_manager
 
 ## About this task
 
-Mass encryption and decryption is also available from the Encrypted Field Configurations form. See [[mass-enc-dec|Run mass encryption or decryption]] for instructions.
+Mass encryption and decryption is also available from the Encrypted Field Configurations form. See [Run mass encryption or decryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/mass-enc-dec.md) for instructions.
 
 ## Procedure
 
@@ -54,11 +54,11 @@ Type
 
 </td><td>
 
-Job type:-   **Key Migration Context to Module:** Mass migration of Encryption Context keys to Encryption Modules, including creation of Module Access [[ca-policies|Policies]] records for access controls on the Encryption Modules
+Job type:-   **Key Migration Context to Module:** Mass migration of Encryption Context keys to Encryption Modules, including creation of Module Access Policies records for access controls on the Encryption Modules
 -   **Data Migration Context to Module**: Migrates data encrypted by Encryption Contexts to Encryption Modules
 -   **Mass Decryption Attachment**:Decrypts all encrypted attachments in records for a single table you define in the **Table** field.
 -   **Mass Encryption Attachment**: Encrypts all attachments in records for a single table you define in the **Table** field.
--   **Mass Encryption**: Encrypts any pre-existing value in the defined column/field used in the [[field-encryption|Field Encryption]] [[sc-configuration|Configuration]]
+-   **Mass Encryption**: Encrypts any pre-existing value in the defined column/field used in the Field Encryption Configuration
 -   **Mass Decryption Module**: Decrypts any pre-existing value in the defined column/field used in the Field Encryption Configuration with Single Module.
 -   **Mass Decryption Multi Module**: Decrypts any pre-existing value in the defined column/field used in the Field Encryption Configuration with Multiple Module.
 -   **Mass Rekeying**: Re-encrypts any pre-existing value in the defined column/field used in the Field Encryption Configuration using the current active key for the module.
@@ -125,13 +125,5 @@ Job status information when the job is running, has completed, or has errors.
     -   Click **Update** to save any changes you make to the job schedule.
     -   Click **Delete** to delete the scheduled job.
 
-**Parent Topic:**[[field-encryption-key-management|Encrypting fields and attachments]]
+**Parent Topic:**[Encrypting fields and attachments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/field-encryption-key-management.md)
 
-## Related
-
-- [[mass-enc-dec|Run mass encryption or decryption]]
-- [[field-encryption-key-management|Encrypting fields and attachments]]
-- [[encryption-landing|Encryption]]
-- [[ca-policies|Policies]]
-- [[field-encryption|Field Encryption]]
-- [[sc-configuration|Configuration]]

@@ -14,11 +14,11 @@ breadcrumb: [Security Attributes, Access Management]
 
 # Security Attributes Fundamentals
 
-A Security Attribute is highly configurable piece of information about a Subject or it’s Environment, when used in access controls, enables fine grain security [[sc-configuration|configuration]] in a non-complex way.
+A Security Attribute is highly configurable piece of information about a Subject or it’s Environment, when used in access controls, enables fine grain security configuration in a non-complex way.
 
 ## Overview
 
-[[security-attributes-landing|Security Attributes]] offer an alternative method for [[sc-access-control|access control]] via role definitions to currently practiced ACL\(Access Control Lists\) configuration. Security Attributes offer several advantages to ACL-based configurations:
+Security Attributes offer an alternative method for access control via role definitions to currently practiced ACL\(Access Control Lists\) configuration. Security Attributes offer several advantages to ACL-based configurations:
 
 -   **Better Security**
 
@@ -32,13 +32,8 @@ A Security Attribute is highly configurable piece of information about a Subject
 
     Build persona definitions from both Out-of-Box configuration in combination with customer defined personas.
 
--   **Logging and [[c_AuditedTables|Auditing]]**
+-   **Logging and Auditing**
 
     Security Attributes offer detailed auditing and logging to give more insight to security measures and theory.
 
-## Related
 
-- [[sc-configuration|Configuration]]
-- [[security-attributes-landing|Security Attributes]]
-- [[sc-access-control|Access control]]
-- [[c_AuditedTables|Auditing]]

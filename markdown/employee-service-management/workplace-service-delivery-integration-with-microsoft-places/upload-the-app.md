@@ -20,7 +20,7 @@ Upload the WSD for Microsoft places application in Microsoft Teams.
 
 Role required: admin
 
-Ensure to [[modify-the-manifest-file|modify the manifest file]] \(.json file\)
+Ensure to modify the manifest file \(.json file\)
 
 For more information about modifying the manifest file, refer to [Modify the manifest file](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-integration-with-microsoft-places/modify-the-manifest-file.md)
 
@@ -36,14 +36,10 @@ For more information about modifying the manifest file, refer to [Modify the man
 
 5.  Select **Upload a customised app**, browse for the updated zip file, and upload.
 
-6.  Click **Add** to integrate [[wsd-for-ms-places|WSD for Microsoft places]] application in Microsoft Teams.
+6.  Click **Add** to integrate WSD for Microsoft places application in Microsoft Teams.
 
 
 ## Result
 
 The WSD for Microsoft places application is integrated with Microsoft Teams.
 
-## Related
-
-- [[modify-the-manifest-file|Modify the manifest file]]
-- [[wsd-for-ms-places|WSD for Microsoft places]]

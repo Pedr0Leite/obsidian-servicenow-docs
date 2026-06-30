@@ -14,7 +14,7 @@ breadcrumb: [Install, Deposit Operations, Banking applications, Financial Servic
 
 # Install Financial Services Business Deposit Operations
 
-You can install the [[fso-overview|Financial Services]] Business Deposit Operations application \(sn\_bom\_deposit\_b2b\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Financial Services Business Deposit Operations application \(sn\_bom\_deposit\_b2b\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -57,6 +57,3 @@ For more information, see [Components installed with Financial Services Business
 
 **Parent Topic:**[Install Financial Services Deposit Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-deposit-operations/install-deposit-operations.md)
 
-## Related
-
-- [[fso-overview|Financial Services]]

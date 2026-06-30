@@ -30,7 +30,7 @@ Role required: document\_management\_user
 
 2.  Select the **Check Out Document** related link.
 
-    \[Omitted image "CheckOutADocument.png"\] Alt text: [[t_CheckOutADocument|Check out a document]].
+    \[Omitted image "CheckOutADocument.png"\] Alt text: Check out a document.
 
 3.  Select **Download file**.
 
@@ -45,6 +45,3 @@ Role required: document\_management\_user
 
 **Parent Topic:**[Managed Documents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/c_ManagedDocuments.md)
 
-## Related
-
-- [[t_CheckOutADocument|Check out a document]]

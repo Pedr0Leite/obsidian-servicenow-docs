@@ -12,7 +12,7 @@ breadcrumb: [Configure the Grants Management Portal, Set up self-service, Config
 
 # Approve registration for a business contact or organization in Grants Management Portal
 
-As an admin, you can approve or reject the registration of a new business contact or organization, submitted through the [[psds-gmp-overview|Grants Management Portal]].
+As an admin, you can approve or reject the registration of a new business contact or organization, submitted through the Grants Management Portal.
 
 ## Before you begin
 
@@ -30,6 +30,4 @@ Role required: admin
 
     Your selection will be reflected in the **State** field.
 
-## Related
 
-- [[psds-gmp-overview|Grants Management Portal]]

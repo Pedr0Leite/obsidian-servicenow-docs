@@ -14,7 +14,7 @@ breadcrumb: [Raise compliance request, Use, Compliance Case Management, Governan
 
 # Create a compliance request in the Compliance Workspace
 
-Raise a compliance request regarding organization's policies, inquiries, and guidelines by using the [[compliance-case-management|Compliance Case Management]] application. By seeking guidance, clarification, or approval, you contribute to maintaining a culture of compliance within the organization.
+Raise a compliance request regarding organization's policies, inquiries, and guidelines by using the Compliance Case Management application. By seeking guidance, clarification, or approval, you contribute to maintaining a culture of compliance within the organization.
 
 ## Before you begin
 
@@ -32,18 +32,13 @@ Role required: sn\_compliance\_ws.corporate\_compliance\_analyst and sn\_complia
 
 5.  On the form, fill in the fields.
 
-    For a description of the field values on the Create a [[compliance-case-form|Compliance Case form]], see [Compliance request form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/compliance-request-form.md).
+    For a description of the field values on the Create a Compliance Case form, see [Compliance request form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/compliance-request-form.md).
 
 6.  Select **Save**.
 
 
 -   **[Compliance request form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/compliance-request-form.md)**  
-Use the Create new [[compliance-request-form|compliance request form]] in the GRC: Compliance Case Management application to raise a compliance request.
+Use the Create new compliance request form in the GRC: Compliance Case Management application to raise a compliance request.
 
 **Parent Topic:**[Raising a compliance request in GRC: Compliance Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/raising-compliance-request.md)
 
-## Related
-
-- [[compliance-case-management|compliance case management]]
-- [[compliance-case-form|compliance case form]]
-- [[compliance-request-form|compliance request form]]

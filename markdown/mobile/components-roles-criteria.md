@@ -60,8 +60,5 @@ Lists of mobile components that can be applied to user roles, user criteria, or 
 |Icon section destination function|sys\_sg\_navigation\_section\_destination\_button|
 |Icon section destination launcher|sys\_sg\_navigation\_section\_destination\_applet\_launcher|
 
-**Parent Topic:**[[roles-user-criteria|User roles and user criteria permissions for mobile apps]]
+**Parent Topic:**[User roles and user criteria permissions for mobile apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/roles-user-criteria.md)
 
-## Related
-
-- [[roles-user-criteria|User roles and user criteria permissions for mobile apps]]

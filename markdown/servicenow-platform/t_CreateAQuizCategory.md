@@ -24,7 +24,7 @@ When you create a quiz, the system creates a default category using the name of 
 
 ## Procedure
 
-1.  Navigate either **[[c_Quizzes|Quizzes]]** &gt; **Quiz Designer** or **Quizzes** &gt; **Quizzes** and click **Quiz Designer** in the list header.
+1.  Navigate either **Quizzes** &gt; **Quiz Designer** or **Quizzes** &gt; **Quizzes** and click **Quiz Designer** in the list header.
 
 2.  Enter the name of the quiz in the **Name** field.
 
@@ -45,17 +45,12 @@ When you create a quiz, the system creates a default category using the name of 
 4.  Add a new category by clicking the **+** icon in the title bar of an existing category.
 
 
-**Parent Topic:**[[t_CreateaQuiz|Create a quiz]]
+**Parent Topic:**[Create a quiz](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateaQuiz.md)
 
 **Related topics**  
 
 
-[[c_QuizDesigner|Quiz designer]]
+[Quiz designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_QuizDesigner.md)
 
 [Create a quiz](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateaQuiz.md)
 
-## Related
-
-- [[t_CreateaQuiz|Create a quiz]]
-- [[c_QuizDesigner|Quiz designer]]
-- [[c_Quizzes|Quizzes]]

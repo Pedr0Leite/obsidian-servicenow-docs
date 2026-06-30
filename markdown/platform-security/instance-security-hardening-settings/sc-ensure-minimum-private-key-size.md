@@ -14,11 +14,11 @@ breadcrumb: [Configuration, Hardening settings, Platform Security]
 
 # Ensure minimum private key size
 
-Use a system property to determine the minimum size of the private key used for Certificate Signing [[c_requestAPI|Request]] \(CSR\) generation with the Certificate Inventory Management application.
+Use a system property to determine the minimum size of the private key used for Certificate Signing Request \(CSR\) generation with the Certificate Inventory Management application.
 
 The **sn\_disco\_certmgmt.private\_key\_size** system property determines the minimum size of the private key used for CSR generation with the Certificate Inventory Management application. Valid choices are 512, 1024, 2048, or 4096.
 
-Verify that this property is set to a value of 2048 or higher. Valid choices for this property are 512, 1024, 2048, or 4096. If the property doesn’t exist in the [[ca-system-properties|System Properties]] \[sys\_properties\] table, or the value is invalid, the value is 2048 by default.
+Verify that this property is set to a value of 2048 or higher. Valid choices for this property are 512, 1024, 2048, or 4096. If the property doesn’t exist in the System Properties \[sys\_properties\] table, or the value is invalid, the value is 2048 by default.
 
 ## More information
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -117,8 +117,3 @@ None
 
 **Parent Topic:**[Configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-configuration.md)
 
-## Related
-
-- [[c_requestAPI|request]]
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]

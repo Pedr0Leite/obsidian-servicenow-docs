@@ -14,7 +14,7 @@ breadcrumb: [Understanding Security Incident Response, Security Incident Respons
 
 # Domain separation and Security Incident Response
 
-Domain separation is supported in [[sir-landing-page|Security Incident Response]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported in Security Incident Response. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Standard
 
@@ -29,13 +29,13 @@ For more information on support levels, see [Application support for domain sepa
 
 ## Domain separation in SIR overview
 
-In the Security Incident Response application, domain separation enables service providers \(SPs\) to standardize SOC \([[security-operations-landing-page|Security Operations]] Center\) and Security Incident Response \(SIR\) procedures across the customer base they serve with lowered operational costs and a higher quality of service. Separate customer workspaces for workflows, dashboards, reports, and so forth, ensures that customer data is separated and never exposed to other clients.
+In the Security Incident Response application, domain separation enables service providers \(SPs\) to standardize SOC \(Security Operations Center\) and Security Incident Response \(SIR\) procedures across the customer base they serve with lowered operational costs and a higher quality of service. Separate customer workspaces for workflows, dashboards, reports, and so forth, ensures that customer data is separated and never exposed to other clients.
 
 |Release|Support level|Notes|
 |-------|-------------|-----|
 |Geneva, Helsinki|No support|Initiation of data-level domain separation|
 |Istanbul|Data only| |
-|Jakarta|Level 2 \(Data, Requestor, Fulfiller\)|**New features**: 3rd-party Integrations support with Level 2 domain separation under a single instance of integration, including [[threat-intel-landing-page|Threat Intelligence]] integrations|
+|Jakarta|Level 2 \(Data, Requestor, Fulfiller\)|**New features**: 3rd-party Integrations support with Level 2 domain separation under a single instance of integration, including Threat Intelligence integrations|
 |Kingston|Level 2 \(Data, Requestor, Fulfiller\)|**New features**: Sighting Search integration for SIR is enabled with multiple instances, but all instances still live under a single domain. Example: If there are two instances of a Splunk integration configured \(SplunkCLOUD and SplunkCORP\), both are still leveraged for incident response activities in a single domain, where the implementation was originally configured.|
 |London|Level 2 \(Data, Requestor, Fulfiller\)|**New features**: All integrations reside across multiple domains|
 |Madrid|Level 2 \(Data, Requestor, Fulfiller\)|All integrations can now reside across multiple domains. In the above example, SplunkCloud can be domain1 and SplunkCORP domain2.|
@@ -46,10 +46,10 @@ In the Security Incident Response application, domain separation enables service
 Domain separation for the Security Incident Response application covers the following product functionality:
 
 -   Security alerts are directed to the appropriate domain of the user whose ID/ credential/ scope generates the incident and is registered as a Security Incident.
--   Alerts generate “[[c_Observables|observables]],”which represent stateful properties or measurable events: Security workflows in the domain of the security incident are used to orchestrate the response.
+-   Alerts generate “observables,”which represent stateful properties or measurable events: Security workflows in the domain of the security incident are used to orchestrate the response.
 -   Integrations are configured in the domain of the security incident for response automation.
 -   Capabilities are configured in the domain of the security incident for response automation. These capabilities \(as of the Kingston release\) include:
-    -   [[tisc-threat-lookup|Threat Lookup]]
+    -   Threat Lookup
     -   Enrich Observable
     -   Enrich Configuration item
     -   Get Running Process
@@ -81,9 +81,9 @@ The Security Incident Response application manages the life cycle of a security 
 -   **Enrichment** of artifacts involved in the incidents \(IP, URLs, domains, file hashes\):
     -   Asset enrichment \(CMDB\)
     -   Users \(Platform\)
-    -   Automation: [[tisc-observable-enrichment|Observable enrichment]] \(Ex: WhoIs\)
+    -   Automation: Observable enrichment \(Ex: WhoIs\)
 -   **Investigate** the incidents with the help of the artifacts and their reputation or association with known threats
-    -   Orchestrate: [[tisc-playbooks-admin|Playbooks]] and knowledge base articles
+    -   Orchestrate: Playbooks and knowledge base articles
     -   Automation: Threat Lookup \(Ex: VirusTotal\), Sighting Search \(Ex: Splunk\), Get Running Processes \(Ex: Carbon Black\)
 -   **Eradicate** the threat-related artifacts involved in the incident based on the investigation performed
     -   Orchestrate: Playbooks and knowledge base articles
@@ -129,24 +129,24 @@ The following tasks must be configured:
     -   Set up security incident process definitions: [Understanding Security Incident Response process definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/setup-assistant-reference.md)
     -   Set up post-incident review processes: [Manage post incident activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/c_PostIncidentReview.md)
 3.  Security incident email settings
-    -   Set the email parsing inbox: [[email-parsing|Security Operations email parsing]]
-    -   Set up email parsers for alert ingestion: [[parsing-emails|Create email parsers in Security Operations]]
+    -   Set the email parsing inbox: [Security Operations email parsing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/email-parsing.md)
+    -   Set up email parsers for alert ingestion: [Create email parsers in Security Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/parsing-emails.md)
     -   Set up email matching rules for user-reported phishing: [Create rules to validate user-reported phishing attacks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/setup-assistant-reference.md)
     -   Set up email inbound actions: [Inbound email actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_InboundEmailActions.md)
-4.  [[security-incident-playbook|Security incident playbook]] settings
+4.  Security incident playbook settings
     -   Review and set up runbook documents: [Create a Security Incident Response runbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/setup-assistant-reference.md)
-    -   Set up security incident workflows: [[sec-ops-common-functionality|Security Operations common functionality]]
+    -   Set up security incident workflows: [Security Operations common functionality](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sec-ops-common-functionality.md)
 5.  Capability configurations
-    -   Block request: [[block-request-capability|Security Operations Integration- Block Request capability]]
-    -   Email search and delete: [[email-search-capability|Security Operations Integration- Email Search and Delete capability]]
-    -   Enrich configuration item: [[enrich-ci-capability|Security Operations Integration- Enrich CI capability]]
-    -   Enrich observable: [[enrich-observable-capability|Security Operations Integration- Enrich Observable capability]]
-    -   Get network statistics: [[get-network-statistics-capability|Security Operations Integration- Get Network Statistics capability]]
-    -   Get running processes: [[get-running-processes-capability|Security Operations Integration- Get Running Processes capability]]
-    -   Isolate host: [[isolate-host-capability|Security Operations Integration- Isolate Host capability]]
-    -   Publish to Watchlist: [[pubish-to-watchlist-capability|Security Operations Integration- Publish to Watchlist capability]]
-    -   Sighting search: [[sightings-search-capability|Security Operations Integration- Sightings Search capability]]
-    -   Threat lookup: [[sec-ops-threat-lookups-capability|Security Operations Integration - Threat Lookup capability]]
+    -   Block request: [Security Operations Integration- Block Request capability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/block-request-capability.md)
+    -   Email search and delete: [Security Operations Integration- Email Search and Delete capability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/email-search-capability.md)
+    -   Enrich configuration item: [Security Operations Integration- Enrich CI capability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/enrich-ci-capability.md)
+    -   Enrich observable: [Security Operations Integration- Enrich Observable capability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/enrich-observable-capability.md)
+    -   Get network statistics: [Security Operations Integration- Get Network Statistics capability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/get-network-statistics-capability.md)
+    -   Get running processes: [Security Operations Integration- Get Running Processes capability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/get-running-processes-capability.md)
+    -   Isolate host: [Security Operations Integration- Isolate Host capability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/isolate-host-capability.md)
+    -   Publish to Watchlist: [Security Operations Integration- Publish to Watchlist capability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/pubish-to-watchlist-capability.md)
+    -   Sighting search: [Security Operations Integration- Sightings Search capability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sightings-search-capability.md)
+    -   Threat lookup: [Security Operations Integration - Threat Lookup capability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sec-ops-threat-lookups-capability.md)
 
 ## How tenant domains manage their own application data
 
@@ -159,7 +159,7 @@ The following tasks must be configured:
 ## Business logic and processes that can be domain separated by instance owner
 
 -   Security Incident Response users and groups
--   [[sir_integrations|Security Incident Response integrations]] \(starting with the Madrid release\)
+-   Security Incident Response integrations \(starting with the Madrid release\)
 -   Email parsing rules for incident creation
 -   Business rules to consolidate multiple events or alerts into a security incident
 -   Workflows for incident response orchestration
@@ -174,27 +174,3 @@ The following tasks must be configured:
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[email-parsing|Security Operations email parsing]]
-- [[parsing-emails|Create email parsers in Security Operations]]
-- [[sec-ops-common-functionality|Security Operations common functionality]]
-- [[block-request-capability|Security Operations Integration- Block Request capability]]
-- [[email-search-capability|Security Operations Integration- Email Search and Delete capability]]
-- [[enrich-ci-capability|Security Operations Integration- Enrich CI capability]]
-- [[enrich-observable-capability|Security Operations Integration- Enrich Observable capability]]
-- [[get-network-statistics-capability|Security Operations Integration- Get Network Statistics capability]]
-- [[get-running-processes-capability|Security Operations Integration- Get Running Processes capability]]
-- [[isolate-host-capability|Security Operations Integration- Isolate Host capability]]
-- [[pubish-to-watchlist-capability|Security Operations Integration- Publish to Watchlist capability]]
-- [[sightings-search-capability|Security Operations Integration- Sightings Search capability]]
-- [[sec-ops-threat-lookups-capability|Security Operations Integration - Threat Lookup capability]]
-- [[sir-landing-page|Security Incident Response]]
-- [[security-operations-landing-page|Security Operations]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[c_Observables|Observables]]
-- [[tisc-threat-lookup|Threat Lookup]]
-- [[tisc-observable-enrichment|Observable Enrichment]]
-- [[tisc-playbooks-admin|Playbooks]]
-- [[security-incident-playbook|Security Incident Playbook]]
-- [[sir_integrations|Security Incident Response integrations]]

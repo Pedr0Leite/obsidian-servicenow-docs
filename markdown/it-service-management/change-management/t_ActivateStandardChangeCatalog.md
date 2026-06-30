@@ -14,7 +14,7 @@ breadcrumb: [Change Management plugins, Configure, Change Management, IT Service
 
 # Activate Change Management - Standard Change Catalog
 
-You can activate the [[c_ITILChangeManagement|Change Management]] - [[c_StandardChangeCatalogPlugin|Standard Change Catalog]] plugin \(com.snc.change\_management.standard\_change\_catalog\) if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
+You can activate the Change Management - Standard Change Catalog plugin \(com.snc.change\_management.standard\_change\_catalog\) if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
 
 ## Before you begin
 
@@ -43,7 +43,7 @@ Change management is used to create and manage change requests. Once this is act
 </td></tr></tbody>
 </table>## Procedure
 
-1.  Navigate to **All** &gt; **System [[dex-workspace-application-tab|Applications]]** &gt; **All Available Applications** &gt; **All**.
+1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
 2.  Find the plugin using the filter criteria and search bar.
 
@@ -57,7 +57,7 @@ Change management is used to create and manage change requests. Once this is act
 
 
 -   **[Installed with Change Management - Standard Change Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/r_InstlldWthStdChgCat.md)**  
-Several types of components are [[r_InstlldWthStdChgCat|installed with Change Management - Standard Change Catalog]].
+Several types of components are installed with Change Management - Standard Change Catalog.
 
 **Parent Topic:**[Change Management plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/change-plugins.md)
 
@@ -112,9 +112,3 @@ Several types of components are [[r_InstlldWthStdChgCat|installed with Change Ma
 
 [List of Australia plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]
-- [[c_StandardChangeCatalogPlugin|Standard change catalog]]
-- [[dex-workspace-application-tab|Applications]]
-- [[r_InstlldWthStdChgCat|Installed with Change Management - Standard Change Catalog]]

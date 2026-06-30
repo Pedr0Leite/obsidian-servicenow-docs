@@ -14,7 +14,7 @@ breadcrumb: [Microsites, Creating employee communications, Authoring and managin
 
 # Create and edit content from portal widgets
 
-Use the widget authoring shortcuts to create and edit rich, banner, styled, and news \(edit only\) content directly from the [[employee-center-portal-overview|employee portal]]. When you use the widget shortcuts, the system generates a publish plan to deliver the content to that specific widget.
+Use the widget authoring shortcuts to create and edit rich, banner, styled, and news \(edit only\) content directly from the employee portal. When you use the widget shortcuts, the system generates a publish plan to deliver the content to that specific widget.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ The following widgets offer authoring shortcuts:
 
 -   Content experiences
 -   Rich Content
--   News \(edit existing [[ec-news-articles|news articles]] only\)
+-   News \(edit existing news articles only\)
 
     **Note:** On the topic page, selecting any heading—including quick link headings—allows you to access **Instance options**. Within the instance window, you can modify the current heading levels. Once changes are made, select **Save** to apply the changes; the updated heading level will be reflected on the topic page, enhancing overall visibility.
 
@@ -37,7 +37,7 @@ For more information on which widgets support which content type, see [Publishin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self Service** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Self Service** &gt; **Employee Center**.
 
 2.  Enable the **Author view** toggle.
 
@@ -69,8 +69,3 @@ If necessary, modify the publish plan. See [Create a publish plan for your conte
 
 [Create customized media with styled content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-library-portal-styled.md)
 
-## Related
-
-- [[employee-center-portal-overview|Employee portal]]
-- [[ec-news-articles|News articles]]
-- [[employee-center-landing-page|Employee Center]]

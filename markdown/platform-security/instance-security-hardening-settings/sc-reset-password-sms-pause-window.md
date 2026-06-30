@@ -14,7 +14,7 @@ breadcrumb: [Authentication, Hardening settings, Platform Security]
 
 # Maximize reset password SMS pause window duration
 
-Manage the time duration in minutes that a user must wait before they can [[c_requestAPI|request]] a new [[c_SelfServicePasswordReset|password reset]] code.
+Manage the time duration in minutes that a user must wait before they can request a new password reset code.
 
 If the **password\_reset.sms.pause\_window** system property is not set to the recommended value of `2` minutes or greater, then a malicious user could initiate many password reset SMS codes in a brief window of time.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -99,9 +99,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-authentication.md)
 
-## Related
-
-- [[c_requestAPI|request]]
-- [[c_SelfServicePasswordReset|Password Reset]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

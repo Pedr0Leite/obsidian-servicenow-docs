@@ -12,11 +12,11 @@ breadcrumb: [Configure, Query Generation, Now Assist in Platform Analytics, Plat
 
 # Query Generation skills
 
-Query Generation skills enable users to ask questions in [[now-assist-platform-analytics|Now Assist in Platform Analytics]] applications and receive answers.
+Query Generation skills enable users to ask questions in Now Assist in Platform Analytics applications and receive answers.
 
 ## Before you begin
 
-[[query-generation|Query Generation]] is included in Generative AI Controller, which is included with Now Assist applications from the ServiceNow® Store.
+Query Generation is included in Generative AI Controller, which is included with Now Assist applications from the ServiceNow® Store.
 
 Role required: admin
 
@@ -49,10 +49,5 @@ Role required: admin
     **Warning:** Be careful when selecting the roles that can access a skill. The default role is sn\_query\_gen.user, which the default roles for other Now Assist in Platform Analytics skills contain. Users of these other skills must be able to access Query Generation skills.
 
 
-**Parent Topic:**[[configuring-query-generation|Configuring Query Generation]]
+**Parent Topic:**[Configuring Query Generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configuring-query-generation.md)
 
-## Related
-
-- [[configuring-query-generation|Configuring Query Generation]]
-- [[now-assist-platform-analytics|Now Assist in Platform Analytics]]
-- [[query-generation|Query Generation]]

@@ -12,7 +12,7 @@ breadcrumb: [Configuring Now Assist Admin features, Now Assist, Enable AI experi
 
 # Configure disambiguation
 
-Configure the disambiguation property that [[controls|controls]] when the assistant asks clarifying questions before responding to a [[platform-now-assist-landing|Now Assist]] in Virtual Agent or [[now-assist-center-now-assist-panel|Now Assist panel]] user request.
+Configure the disambiguation property that controls when the assistant asks clarifying questions before responding to a Now Assist in Virtual Agent or Now Assist panel user request.
 
 ## Before you begin
 
@@ -33,7 +33,7 @@ Disambiguation or clarification helps the Now Assist assistant handle situations
     If you have
 
     -   Now Assist in Virtual Agent or
-    -   Now Assist panel \([[now-assist-panel-standard|standard chat]], [[now-assist-panel-enhanced|enhanced chat]], or [[now-assist-panel-premium|premium chat]]\)
+    -   Now Assist panel \(standard chat, enhanced chat, or premium chat\)
     then use this configuration:
 
 <table id="table_pkn_sn1_53c"><thead><tr><th>
@@ -75,14 +75,5 @@ off
 </table>4.  To view the disambiguation data, in the filter navigator field, enter `sys_generative_ai_log`.
 
 
-**Parent Topic:**[[configuring-na-landing|Configuring Now Assist Admin features]]
+**Parent Topic:**[Configuring Now Assist Admin features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configuring-na-landing.md)
 
-## Related
-
-- [[configuring-na-landing|Configuring Now Assist Admin features]]
-- [[controls|Controls]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[now-assist-panel-standard|Standard chat]]
-- [[now-assist-panel-enhanced|Enhanced chat]]
-- [[now-assist-panel-premium|Premium chat]]

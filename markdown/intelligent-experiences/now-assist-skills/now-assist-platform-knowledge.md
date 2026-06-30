@@ -15,15 +15,11 @@ breadcrumb: [Skills in the Platform workflow, Now Assist skills, Now Assist AI a
 
 # Knowledge content recommendation
 
-Knowledge generative AI skills on the ServiceNow AI Platform provides recommendations for editing a knowledge article. Once activated, this skill is available on the [[now-assist-write-overview|Now Assist context menu]].
+Knowledge generative AI skills on the ServiceNow AI Platform provides recommendations for editing a knowledge article. Once activated, this skill is available on the Now Assist context menu.
 
-The [[platform-now-assist-landing|Now Assist]] Knowledge content recommendation is a Platform skill that is enabled by the admin from the Knowledge feature card. The skill allows agents and authors to use the Now Assist context menu to elaborate and shorten content in a knowledge article.
+The Now Assist Knowledge content recommendation is a Platform skill that is enabled by the admin from the Knowledge feature card. The skill allows agents and authors to use the Now Assist context menu to elaborate and shorten content in a knowledge article.
 
 \[Omitted image "NA-elaborate-shorten-content-1.png"\] Alt text: Use Now Assist to elaborate or shorten content in the knowledge article.
 
 For more information, see [Edit an article using the Now Assist context menu](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/Now-Assist-generate-article-using-context-menu.md).
 
-## Related
-
-- [[now-assist-write-overview|Now Assist context menu]]
-- [[platform-now-assist-landing|Now Assist]]

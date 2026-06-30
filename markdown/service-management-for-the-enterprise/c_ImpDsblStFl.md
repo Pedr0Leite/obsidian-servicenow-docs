@@ -54,13 +54,8 @@ When state flows are disabled, the state transition-related behavior of the foll
         -   **Agent must accept or reject the assigned task** is disabled.
         -   **Use dispatch queue** is disabled.
 
--   **[[t_ReEnableStateFlows|Re-enable state flows]]**  
-When [[c_ServiceManagement|service management]] state flows have been disabled, they cannot be re-enabled from the user interface.
+-   **[Re-enable state flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_ReEnableStateFlows.md)**  
+When service management state flows have been disabled, they cannot be re-enabled from the user interface.
 
-**Parent Topic:**[[c_ServiceManagementStates|Service management states]]
+**Parent Topic:**[Service management states](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_ServiceManagementStates.md)
 
-## Related
-
-- [[t_ReEnableStateFlows|Re-enable state flows]]
-- [[c_ServiceManagementStates|Service management states]]
-- [[c_ServiceManagement|Service Management]]

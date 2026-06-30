@@ -14,7 +14,7 @@ breadcrumb: [Walk-up Experience, IT Service Management]
 
 # Walk-up Experience on Now Mobile
 
-You can create and manage your appointments for a walk-up venue like the Tech Lounge when you use the ServiceNow® [[walkup-experience-landing-page|Walk-up Experience]] on the Now® Mobile app on your own mobile device.
+You can create and manage your appointments for a walk-up venue like the Tech Lounge when you use the ServiceNow® Walk-up Experience on the Now® Mobile app on your own mobile device.
 
 With the Now® Mobile app, you can use your mobile device to book appointments, see where you are in a queue, and cancel or modify your appointments for the Tech Lounge. You will never miss an appointment again. You will get reminders about your upcoming appointments and notifications if your appointment changes.
 
@@ -29,6 +29,3 @@ Leave a ServiceNow Walk-up Experience Tech Lounge queue at any time by using the
 
 **Parent Topic:**[Walk-up Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walkup-experience-landing-page.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]

@@ -18,8 +18,8 @@ Report a defect from an individual test that has failed so that you can further 
 
 ## Before you begin
 
--   The ability to report a defect is available only if the [[agile-landing-page|Agile Development 2.0]] plugin is activated.
--   Perform [[c_Tests|tests]] and update the test status. For more information, see [Performing tests and updating the test status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/c_Tester.md).
+-   The ability to report a defect is available only if the Agile Development 2.0 plugin is activated.
+-   Perform tests and update the test status. For more information, see [Performing tests and updating the test status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/c_Tester.md).
 -   Role required: tm\_tester
 
     **Important:**
@@ -33,11 +33,11 @@ Use the Test form to report a defect for a test that has failed. The reported de
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Test Management** &gt; **Test Execution** &gt; **[[c_TestPlans|Test Plans]]**.
+1.  Navigate to **All** &gt; **Test Management** &gt; **Test Execution** &gt; **Test Plans**.
 
 2.  Open the test plan which has the failed test.
 
-3.  From the [[c_TestCases|Test Cases]] related list, open the test case which has the failed test.
+3.  From the Test Cases related list, open the test case which has the failed test.
 
 4.  From the Tests related list, open the test that failed.
 
@@ -148,9 +148,3 @@ A defect is created and added to the following related lists:
 
 After submitting the defect, you can modify it from the defect record. The role required to modify a defect depends on your organization's configuration. By default, the defect is assigned to the group or individual specified in the **Assignment group** and **Assigned to** fields.
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]
-- [[c_Tests|Tests]]
-- [[c_TestPlans|Test plans]]
-- [[c_TestCases|Test cases]]

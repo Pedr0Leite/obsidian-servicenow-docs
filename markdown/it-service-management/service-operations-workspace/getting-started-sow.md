@@ -18,10 +18,10 @@ Quickly understand how you can implement the essential setup to get started with
 
 ## Install Service Operations Workspace for ITSM applications
 
-Starting with the Australia release, [[sow-landing-page|Service Operations Workspace for ITSM]] provides two application tiers:
+Starting with the Australia release, Service Operations Workspace for ITSM provides two application tiers:
 
--   SOW ITSM [[dex-workspace-application-tab|Applications]]: [[c_IncidentManagement|Incident Management]], [[c_RequestManagement|Request Management]]
--   SOW ITSM Advanced Applications: [[c_ITILChangeManagement|Change Management]], [[c_ProblemManagement|Problem Management]], Major Incident Management, [[c_OnCallScheduling|On-Call Scheduling]], [[walkup-experience-landing-page|Walk-up Experience]]
+-   SOW ITSM Applications: Incident Management, Request Management
+-   SOW ITSM Advanced Applications: Change Management, Problem Management, Major Incident Management, On-Call Scheduling, Walk-up Experience
 
 Upgrading an existing instance to Australia:
 
@@ -34,7 +34,7 @@ If you're setting up a new instance starting Australia, the SOW ITSM Application
 
 ## Service Operations Workspace Admin Center
 
-It provides effortless and quick access to manage most configurations in Service Operations Workspace for [[r_ITServiceManagement|IT Service Management]] \(ITSM\). It also provides centralized control of the instance to admins.
+It provides effortless and quick access to manage most configurations in Service Operations Workspace for IT Service Management \(ITSM\). It also provides centralized control of the instance to admins.
 
 \[Omitted video\] Description: Overview of SOW Admin Center
 
@@ -51,14 +51,3 @@ It provides effortless and quick access to manage most configurations in Service
 
 [Landing page redirection in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/landing-page-redirection-sow-itsm.md)
 
-## Related
-
-- [[sow-landing-page|Service Operations Workspace for ITSM]]
-- [[dex-workspace-application-tab|Applications]]
-- [[c_IncidentManagement|Incident Management]]
-- [[c_RequestManagement|Request Management]]
-- [[c_ITILChangeManagement|Change Management]]
-- [[c_ProblemManagement|Problem Management]]
-- [[c_OnCallScheduling|On-Call Scheduling]]
-- [[walkup-experience-landing-page|Walk-up Experience]]
-- [[r_ITServiceManagement|IT Service Management]]

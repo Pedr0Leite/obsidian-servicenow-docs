@@ -20,9 +20,9 @@ Role required: sn\_oper\_res.admin, sn\_dri\_inc\_rptg.digital\_resilience\_inci
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[grc-opres-landing-page|Operational Resilience]] Workspace** and open the "Regulatory Body Management Agency Profile" \[sn\_reg\_body\_mgmt\_agency\_profile.list\] table for the selected regulation.
+1.  Navigate to **Workspaces** &gt; **Operational Resilience Workspace** and open the "Regulatory Body Management Agency Profile" \[sn\_reg\_body\_mgmt\_agency\_profile.list\] table for the selected regulation.
 
-2.  Configure the action tasks \(with Smart [[airc-assessment-templates|Assessment templates]].
+2.  Configure the action tasks \(with Smart Assessment templates.
 
     As a Digital Resilience Incident administrator \(sn\_dri\_inc\_rptg.digital\_resilience\_incident\_admin\), you can modify action tasks or configure additional action tasks to meet your organizational requirements.
 
@@ -36,7 +36,7 @@ Role required: sn\_oper\_res.admin, sn\_dri\_inc\_rptg.digital\_resilience\_inci
 
         **Note:** Use an action task configuration to set up contextual information for different regulations. The configuration includes the assessment template, assignment group, trigger conditions, due dates, and more.
 
-        **Note:** The templates shown in this example are specific to DORA regulation. If other regulations are mapped to the entities in use, verify that their corresponding Smart Assessment templates are set up and published in the Assessment Workspace first. For more information, see [[set-up-sae-templates|Set up DRI Smart Assessment templates]].
+        **Note:** The templates shown in this example are specific to DORA regulation. If other regulations are mapped to the entities in use, verify that their corresponding Smart Assessment templates are set up and published in the Assessment Workspace first. For more information, see [Set up DRI Smart Assessment templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/set-up-sae-templates.md).
 
         The DORA regulations include four Smart Assessment template configurations as shown in the Action Task Configurations related list.
 
@@ -60,7 +60,7 @@ Role required: sn\_oper\_res.admin, sn\_dri\_inc\_rptg.digital\_resilience\_inci
 
         -   **DRI Intermediate report template**
 
-            Intermediate reporting and periodic assessments: When the DRI initial report is completed, the DRI intermediate reporting is triggered, specifically when its status changes to **Closed Complete**. Periodic action tasks: Following the initial report's completion, action tasks for intermediate assessments can be generated periodically as shown in the **Repeat** field. Configure the repetition frequency in the **Repeat interval** field. The example shows that you’re going to [[manage-reg-action-tasks|create an action task]] with the given template every 3 days.
+            Intermediate reporting and periodic assessments: When the DRI initial report is completed, the DRI intermediate reporting is triggered, specifically when its status changes to **Closed Complete**. Periodic action tasks: Following the initial report's completion, action tasks for intermediate assessments can be generated periodically as shown in the **Repeat** field. Configure the repetition frequency in the **Repeat interval** field. The example shows that you’re going to create an action task with the given template every 3 days.
 
             Termination conditions: When specific conditions are met, the periodic generation of these action tasks is terminated, indicating the underlying issue is resolved or no longer requires ongoing assessment. The system doesn’t send the intermediate action task anymore. These conditions are evaluated against the DIR case state or the incident or the security incident source record. The example shows the following termination conditions:
 
@@ -84,9 +84,4 @@ Role required: sn\_oper\_res.admin, sn\_dri\_inc\_rptg.digital\_resilience\_inci
 
     Completing the configuration steps outlined in this section sets up the action task configurations in the 'Regulatory Body Management Agency Profile' table.
 
-## Related
 
-- [[set-up-sae-templates|Set up DRI Smart Assessment templates]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[airc-assessment-templates|Assessment templates]]
-- [[manage-reg-action-tasks|Create an action task]]

@@ -14,7 +14,7 @@ breadcrumb: [Use Risk Workspace, Risk Management, Governance, Risk, and Complian
 
 # Report a risk event from the Risk Portal
 
-Report a risk event from the [[risk-portal|Risk Portal]]. The Risk Portal provides an easy method to quickly report risk events.
+Report a risk event from the Risk Portal. The Risk Portal provides an easy method to quickly report risk events.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ The risk event is created and submitted for the risk team's review.
 
 **Parent Topic:**[Using the Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/using-risk-workspace.md)
 
-## Related
-
-- [[risk-portal|risk portal]]

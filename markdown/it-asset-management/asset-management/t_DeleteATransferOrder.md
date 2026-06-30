@@ -20,7 +20,7 @@ You can delete a transfer order only if the transfer order is still in the draft
 
 Role required: inventory\_user
 
-The inventory\_user, asset, or [[c_Procurement|procurement]]\_user role can only access the Transfer Order \[alm\_transfer\_order\] reports. You must install the Procurement \(com.snc.procurement\) plugin for the inventory\_user, asset, and procurement\_user roles.
+The inventory\_user, asset, or procurement\_user role can only access the Transfer Order \[alm\_transfer\_order\] reports. You must install the Procurement \(com.snc.procurement\) plugin for the inventory\_user, asset, and procurement\_user roles.
 
 ## Procedure
 
@@ -40,6 +40,3 @@ The inventory\_user, asset, or [[c_Procurement|procurement]]\_user role can only
 
 [Return items received in a transfer order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/t_ReturnItemsRecInXferOrder.md)
 
-## Related
-
-- [[c_Procurement|Procurement]]

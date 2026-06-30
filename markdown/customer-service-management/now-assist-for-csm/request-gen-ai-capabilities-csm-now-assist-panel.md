@@ -27,7 +27,7 @@ Role required: sn\_customerservice\_agent, sn\_customerservice.consumer\_agent
 
 ## About this task
 
-You can use the Now Assist panel in [[csm-workspaces-configure|CSM Configurable Workspace]] to request a chat, call or case summary, generate case resolution notes and knowledge article, ask a question about a case, Use AI agents to complete cases and use conversational subflows and actions.
+You can use the Now Assist panel in CSM Configurable Workspace to request a chat, call or case summary, generate case resolution notes and knowledge article, ask a question about a case, Use AI agents to complete cases and use conversational subflows and actions.
 
 For more information about the Now Assist panel, see [Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-overview.md). For information about activating the Now Assist panel, see [Activate the Now Assist panel standard chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-now-assist-panel.md).
 
@@ -41,7 +41,7 @@ For more information about the Now Assist panel, see [Now Assist panel](https://
 
     \[Omitted image "now-assist-csm-na-panel.png"\] Alt text: Now Assist panel with a list of available actions and a task selection dropdown displayed after the user chose "Add Comment To Task.".
 
-4.  After you request the generative AI capabilities, you can summarize a chat for an interaction, summarize a chat for a case created from an interaction, [[case-summarization-in-process-page|summarize a case]], generate the resolution notes for a case, summarize a call, generate a knowledge article, ask questions about a case, use AI agents to complete cases, and complete tasks with conversational subflows and actions.
+4.  After you request the generative AI capabilities, you can summarize a chat for an interaction, summarize a chat for a case created from an interaction, summarize a case, generate the resolution notes for a case, summarize a call, generate a knowledge article, ask questions about a case, use AI agents to complete cases, and complete tasks with conversational subflows and actions.
 
 <table id="choicetable_tvj_cqn_xyb"><thead><tr><th align="left" id="d41164e203">
 
@@ -59,7 +59,7 @@ Description
 
 1.  Open the interaction.
 2.  From the header menu, select the Now Assist icon \[Omitted image "bus-ai-sparkle.svg"\] Alt text: Now assist icon..
-3.  In the Now Assist panel, select **[[csm-config-ws-chat-summary|Chat Summarization]]**. A summary of the chat conversation with the live agent is displayed.
+3.  In the Now Assist panel, select **Chat Summarization**. A summary of the chat conversation with the live agent is displayed.
 
 
 </td></tr><tr><td id="d41164e248">
@@ -114,7 +114,7 @@ Description
 
 1.  Open the case.
 2.  From the header menu, select the Now Assist icon \[Omitted image "bus-ai-sparkle.svg"\] Alt text: Now assist icon..
-3.  In the Now Assist panel, select **Generate Article**. A knowledge article is drafted for the case using task data, comments, and work notes from the [[csm-config-ws-activity-stream|activity stream]].
+3.  In the Now Assist panel, select **Generate Article**. A knowledge article is drafted for the case using task data, comments, and work notes from the activity stream.
 
 
 </td></tr><tr><td id="d41164e429">
@@ -153,9 +153,3 @@ Description
 
 **Parent Topic:**[Using Now Assist for Customer Service Management \(CSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/now-assist-csm-using.md)
 
-## Related
-
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[case-summarization-in-process-page|Summarize a case]]
-- [[csm-config-ws-chat-summary|Chat summarization]]
-- [[csm-config-ws-activity-stream|Activity stream]]

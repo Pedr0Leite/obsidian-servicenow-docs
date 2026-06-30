@@ -46,16 +46,12 @@ To view report statistics, navigate to **Performance Analytics** &gt; **Admin Co
 
 **Note:** The report\_admin role cannot view this console. The admin or pa\_admin role is required.
 
-The Reports Usage dashboard shows the following [[widgets|widgets]]:
+The Reports Usage dashboard shows the following widgets:
 
 |Widget|Type|Description|
 |------|----|-----------|
 |Number of Reports|Single Score with percentage change month on month.|The number of reports in the instance. Click the score to view a dashboard with chart and lists of breakdowns, records, and scores.|
 |% Reports not viewed in the last 6 months|Single Score with percentage change month on month.|The percentage of reports in the domain or instance that have not been viewed in the last six months. Click the score to view a detailed dashboard with a chart on which you can adjust the period, the calculation used, and additional information on the report.|
 |Top 10 Report Tables|List|A list of the top 10 tables used in reports. Point to the name of a table to read its description. Click the name of the table or the number of reports to show a dashboard with an enlarged chart, a list of the records in the table, the scores, and additional information on the report.|
-|Reports by Visualization type|Bar chart \(with option to change the visualization to one of several other [[report-types-creation-details-rd|report types]]\)|The number of times the report has been run on dashboard. Click a report segment to show a dashboard with an enlarged chart, a list of the records in the table, the scores, and additional information on the report.|
+|Reports by Visualization type|Bar chart \(with option to change the visualization to one of several other report types\)|The number of times the report has been run on dashboard. Click a report segment to show a dashboard with an enlarged chart, a list of the records in the table, the scores, and additional information on the report.|
 
-## Related
-
-- [[widgets|Widgets]]
-- [[report-types-creation-details-rd|Report types]]

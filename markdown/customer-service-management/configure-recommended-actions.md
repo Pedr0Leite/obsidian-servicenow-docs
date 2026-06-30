@@ -12,7 +12,7 @@ breadcrumb: [Recommended Actions configuration, Implement Intelligence, Configur
 
 # Configuring the Recommended Actions application
 
-As an admin, configure the [[configure-nba|Recommended Actions]] application to display relevant actions to your agents based on a record context.
+As an admin, configure the Recommended Actions application to display relevant actions to your agents based on a record context.
 
 ## Recommended actions
 
@@ -28,7 +28,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[ra-csm-contexts-create|Create a context]]
+[Create a context](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-contexts-create.md)
 
 </td><td>
 
@@ -36,7 +36,7 @@ A context enables agents to see recommendations for records from a specific tabl
 
 </td></tr><tr><td>
 
-[[ra-csm-create-context-inputs|Create a context input]]
+[Create a context input](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-create-context-inputs.md)
 
 </td><td>
 
@@ -44,7 +44,7 @@ A context input enables you to associate entities beyond just the context table 
 
 </td></tr><tr><td>
 
-[[ra-csm-rules-create|Create a rule for a context]]
+[Create a rule for a context](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-rules-create.md)
 
 </td><td>
 
@@ -55,11 +55,11 @@ A rule is a set of conditions that applies to a context and determines when a re
 -   Select conditions that apply to the context table.
 -   Select the roles that have access to the recommended actions.
 
-**Note:** New [[gamification-components-rules|rules]] can only be created from within a context.
+**Note:** New rules can only be created from within a context.
 
 </td></tr><tr><td>
 
-[[ra-csm-recommendations-create|Create a recommendation for a rule]]
+[Create a recommendation for a rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-recommendations-create.md)
 
 </td><td>
 
@@ -92,7 +92,7 @@ Guidance
 
 </td><td>
 
-An action that an agent can take or information that they can share. For example, a guidance can recommend that an agent can view and attach a knowledge article to a case or [[create-work-orders|create a work order]].
+An action that an agent can take or information that they can share. For example, a guidance can recommend that an agent can view and attach a knowledge article to a case or create a work order.
 
 </td></tr><tr><td>
 
@@ -111,25 +111,13 @@ Field recommendation
 A recommended value to use for a field. For example, this type of action can recommend the assignment group based on the text in the case short description.
 
 </td></tr></tbody>
-</table>For more information, see [[ra-csm-config-recommendations|Creating guidance and field recommendation in Recommended Actions]].
+</table>For more information, see [Creating guidance and field recommendation in Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-config-recommendations.md).
 
 ## Resource generators
 
-Configure resource generators to provide information that you can use as inputs to actions such as guidances and field recommendations. Configuration of decision trees don’t require resource generators. For more information, see [[ra-csm-resource-generators-create|Create a resource generator in Recommended Actions]].
+Configure resource generators to provide information that you can use as inputs to actions such as guidances and field recommendations. Configuration of decision trees don’t require resource generators. For more information, see [Create a resource generator in Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-resource-generators-create.md).
 
 ## Arbitration parameters
 
-Configure arbitration parameters to determine the frequency of issues or the priority order of the recommended actions so that agents get the guidance that they must help resolve customer issues. For more information, see [[configure-nba-arbitration-param|Configure the arbitration parameters in Recommended Actions]].
+Configure arbitration parameters to determine the frequency of issues or the priority order of the recommended actions so that agents get the guidance that they must help resolve customer issues. For more information, see [Configure the arbitration parameters in Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-nba-arbitration-param.md).
 
-## Related
-
-- [[ra-csm-contexts-create|Create a context in Recommended Actions]]
-- [[ra-csm-create-context-inputs|Create a context input in Recommended Actions]]
-- [[ra-csm-rules-create|Create a rule in Recommended Actions]]
-- [[ra-csm-recommendations-create|Create a recommendation in Recommended Actions]]
-- [[ra-csm-config-recommendations|Creating guidance and field recommendation in Recommended Actions]]
-- [[ra-csm-resource-generators-create|Create a resource generator in Recommended Actions]]
-- [[configure-nba-arbitration-param|Configure the arbitration parameters in Recommended Actions]]
-- [[configure-nba|Recommended Actions]]
-- [[gamification-components-rules|Rules]]
-- [[create-work-orders|Create a work order]]

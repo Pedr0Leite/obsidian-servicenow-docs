@@ -24,7 +24,7 @@ Role required: admin
 
 The **preventAppKillOnAuth** property is a pre-authenticated mobile setting that when set to true signals to the system that an important task is in progress. This setting maintains that the mobile app remains alive during the authentication process even when moved to the background.
 
-Mobile properties are configured as records in the sys\_sg\_properties table on the  ServiceNow [[mobile-config-navigation|Mobile Platform]] server.
+Mobile properties are configured as records in the sys\_sg\_properties table on the  ServiceNow Mobile Platform server.
 
 **Note:**  The **preventAppKillOnAuth** property is supported from the 20.6.0 mobile client release.
 
@@ -72,7 +72,7 @@ Application
 
 Application scope where the mobile property is applied. To select a different application scope, select the globe icon \(\[Omitted image "globe-icon.png"\] Alt text: Globe icon\) on the instance banner. Then select **Application scope:_application\_scope_**.
 
- For information about how mobile properties are affected by application scope, see [[mobile-properties|Mobile properties]].
+ For information about how mobile properties are affected by application scope, see [Mobile properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-properties.md).
 
 </td></tr><tr><td>
 
@@ -150,7 +150,3 @@ Enter either `Agent`, `Request`, or the name of a custom app type created by use
 
 **Parent Topic:**[Mobile properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-properties.md)
 
-## Related
-
-- [[mobile-properties|Mobile properties]]
-- [[mobile-config-navigation|Mobile Platform]]

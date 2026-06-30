@@ -16,7 +16,7 @@ breadcrumb: [Configuring ACC with a MID Server, ACC deployment - servers, Config
 
 Automatic selection of MID Servers ensures that each agent uses the most efficient available MID Server.
 
-The [[acc-landing-page|Agent Client Collector]] automatic MID Server selection feature set is disabled by default. There are several factors to consider before determining if automatic MID Server selection is right for your use cases.
+The Agent Client Collector automatic MID Server selection feature set is disabled by default. There are several factors to consider before determining if automatic MID Server selection is right for your use cases.
 
 ## Use case considerations
 
@@ -56,6 +56,3 @@ Configure the MID Servers that are ineligible for automatic MID Server selection
 
 [Enable automatic MID Server selection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-disable-auto-mid-selection.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

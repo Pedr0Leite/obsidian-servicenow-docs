@@ -14,7 +14,7 @@ breadcrumb: [Reference, Asset Audit Response, IT Asset Management]
 
 # Installed with Asset Audit Response
 
-Various components are installed on activation of the [[asset-audit-response|Asset Audit Response]] application.
+Various components are installed on activation of the Asset Audit Response application.
 
 ## Store applications installed
 
@@ -100,8 +100,8 @@ This role can fulfill and respond to evidence requests.
 </td><td>
 
 -   sn\_grc\_advanced.evidence\_responder
--   sam\_user \(available only if you have installed the [[c_SoftwareAssetMgmt|Software Asset Management]] application on your ServiceNow instance\)
--   sn\_hamp.ham\_user \(available only if you have installed the [[ham-landing-page|Hardware Asset Management]] application on your ServiceNow instance\)
+-   sam\_user \(available only if you have installed the Software Asset Management application on your ServiceNow instance\)
+-   sn\_hamp.ham\_user \(available only if you have installed the Hardware Asset Management application on your ServiceNow instance\)
 -   asset \(available only if you have installed the Hardware Asset Management application on your ServiceNow instance\)
 
 </td></tr><tr><td>
@@ -163,8 +163,3 @@ List of remediation tasks that are generated for all evidence requests.
 </td></tr></tbody>
 </table>**Parent Topic:**[Asset Audit Response reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-audits/asset-audit-response-references.md)
 
-## Related
-
-- [[asset-audit-response|Asset Audit Response]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[ham-landing-page|Hardware Asset Management]]

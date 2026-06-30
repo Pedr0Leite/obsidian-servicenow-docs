@@ -15,9 +15,9 @@ breadcrumb: [Work prioritization, Procurement Case Management, Explore, Sourcing
 
 # Work prioritization example
 
-This example shows how an organization might configure [[work-prioritization|work prioritization]] rules for all three record types, and what happens when records are evaluated against those rules.
+This example shows how an organization might configure work prioritization rules for all three record types, and what happens when records are evaluated against those rules.
 
-A manufacturing organization has deployed the SPO application and is [[configuring-work-prioritization|configuring work prioritization]] for the first time. Their procurement team has agreed on three different criteria, one per record type, that reflect the factors most relevant to their business.
+A manufacturing organization has deployed the SPO application and is configuring work prioritization for the first time. Their procurement team has agreed on three different criteria, one per record type, that reflect the factors most relevant to their business.
 
 ## Example configuration
 
@@ -39,7 +39,7 @@ For sourcing requests, the team prioritizes based on the organizational seniorit
 |3|Business owner job code is a Manager level|Moderate|
 |4|Business owner job code is IC1, IC2, or IC3|Low|
 
-For procurement cases, the team prioritizes based on the type of modification being requested. [[supplier|Supplier]] changes and contract amendments carry higher organizational risk than routine catalog updates.
+For procurement cases, the team prioritizes based on the type of modification being requested. Supplier changes and contract amendments carry higher organizational risk than routine catalog updates.
 
 |Rule|Condition|Priority assigned|
 |----|---------|-----------------|
@@ -49,7 +49,7 @@ For procurement cases, the team prioritizes based on the type of modification be
 
 ## Purchase requisition with mixed line values
 
-A department manager submits a [[purchase-requisition|purchase requisition]] for three items: office furniture \($12,000\), a desktop workstation \($8,500\), and a conference room display system \($67,000\).
+A department manager submits a purchase requisition for three items: office furniture \($12,000\), a desktop workstation \($8,500\), and a conference room display system \($67,000\).
 
 When the requisition is saved, the system evaluates each line against the decision table. The furniture line \($12,000\) matches Rule 4 and returns Low. The workstation line \($8,500\) also matches Rule 4 and returns Low. The display system line \($67,000\) matches Rule 2 — its amount falls between $50,000 and $99,999 — and returns High.
 
@@ -61,7 +61,7 @@ When the requisition appears in the specialist's queue, it is flagged as High �
 
 A sourcing event is created to evaluate suppliers for a new category of raw materials. The business owner on the request holds a job code that corresponds to an IC4-level role.
 
-When the [[sourcing-request|sourcing request]] is saved, the system evaluates the business owner's job code against the decision table. The IC4 job code matches Rule 2 and the sourcing request receives High priority.
+When the sourcing request is saved, the system evaluates the business owner's job code against the decision table. The IC4 job code matches Rule 2 and the sourcing request receives High priority.
 
 If the same sourcing event had been initiated by a manager-level business owner, the request would have received Moderate priority instead. The same sourcing event, sponsored by a different person, lands differently in the queue — reflecting the organizational importance of who is sponsoring the work.
 
@@ -83,10 +83,3 @@ This means work prioritization does not require all rules to be in place before 
 
 **Parent Topic:**[Work prioritization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/work-prioritization.md)
 
-## Related
-
-- [[work-prioritization|Work prioritization]]
-- [[configuring-work-prioritization|Configuring work prioritization]]
-- [[supplier|Supplier]]
-- [[purchase-requisition|Purchase requisition]]
-- [[sourcing-request|Sourcing request]]

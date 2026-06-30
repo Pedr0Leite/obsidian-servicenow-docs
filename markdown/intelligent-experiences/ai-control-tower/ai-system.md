@@ -25,7 +25,7 @@ Explore the AI systems in detail with examples.
     AI systems can be interconnected, with one system potentially depending on the outputs of another, referred to as a sub AI system." Recognizing these connections is important for monitoring AI usage and clarifying responsibilities.
 
 
-Tools are considered attributes of an AI system or sub AI system. They aren’t tracked as separate [[ai-assets|AI assets]] in the inventory and don’t have a lifecycle managed by the [[ai-control-tower-landing|AI Control Tower]] for governance or value assessment. The concept of Tools is relevant for agentic AI use [[cases|cases]], where they’re linked to AI systems during discovery, often through cloud platforms like Azure Foundry, AWS, or internal discovery processes.
+Tools are considered attributes of an AI system or sub AI system. They aren’t tracked as separate AI assets in the inventory and don’t have a lifecycle managed by the AI Control Tower for governance or value assessment. The concept of Tools is relevant for agentic AI use cases, where they’re linked to AI systems during discovery, often through cloud platforms like Azure Foundry, AWS, or internal discovery processes.
 
 AI Control Tower helps identify and track all AI systems in an organization, including how they’re connected. This supports AI risk assessments and audits.
 
@@ -37,8 +37,3 @@ Examples:
 -   Chatbot like ChatGPT-Responds to questions
 -   AI Issue Resolution Agent- uses other smaller AI systems like Issue Summarization and Owner Mapping
 
-## Related
-
-- [[ai-assets|AI assets]]
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[cases|Cases]]

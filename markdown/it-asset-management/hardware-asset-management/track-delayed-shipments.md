@@ -22,7 +22,7 @@ Role required: inventory\_user \(read\),inventory\_admin, or asset\_integration\
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Asset operations**.
+1.  Navigate to **All** &gt; **Hardware Asset Workspace** &gt; **Asset operations**.
 
 2.  From the **Shipment** list, select **Shipments**.
 
@@ -40,6 +40,3 @@ Role required: inventory\_user \(read\),inventory\_admin, or asset\_integration\
 
 **Parent Topic:**[Stale shipments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/stale-shipments.md)
 
-## Related
-
-- [[using-ham-workspace|Hardware Asset Workspace]]

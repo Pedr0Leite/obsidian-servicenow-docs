@@ -14,7 +14,7 @@ breadcrumb: [List reports, Report types, Reporting, Reporting, dashboards, and P
 
 # Applying list report column configurations with an update set
 
-Configured columns in [[list-reports|list reports]] can be moved to another instance by committing an update set.
+Configured columns in list reports can be moved to another instance by committing an update set.
 
 Configured list report columns are not automatically applied to an instance when you commit an update set. List reports render using UI views created each time you save a report. To ensure configured columns render in a list report or on a dashboard widget in another instance:
 
@@ -25,6 +25,3 @@ For information on adding customized configurations to an update set and applyin
 
 \[Omitted image "UIViewsReportViewRPTSysID.png"\] Alt text: UI Views report sys\_id
 
-## Related
-
-- [[list-reports|List reports]]

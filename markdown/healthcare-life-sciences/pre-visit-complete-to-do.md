@@ -16,7 +16,7 @@ View and complete all to-do items assigned to you as a patient from the patient 
 
 **Important:**
 
-Starting with the Yokohama release, [[pre-visit-mgmt-app|Pre-Visit Management]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+Starting with the Yokohama release, Pre-Visit Management is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base.
 
@@ -30,6 +30,3 @@ For each of the to-do item, you receive an email notification containing the ite
 
 **Note:** Your administrator can configure the to-dos page to add more to-do items.
 
-## Related
-
-- [[pre-visit-mgmt-app|Pre-Visit Management]]

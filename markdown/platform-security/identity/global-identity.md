@@ -14,7 +14,7 @@ breadcrumb: [Identity]
 
 # Global Identity
 
-Use ServiceNow®Global Identity to help identify and manage [[users|users]] across multiple instances.
+Use ServiceNow®Global Identity to help identify and manage users across multiple instances.
 
 Global Identity resolves unique users across multiple ServiceNow® instances by consolidating their attributes and other foundational data. Each unique user, regardless of instance, is identified by a Federated ID.
 
@@ -42,7 +42,3 @@ Global Identity resolves unique users across multiple ServiceNow® instances by 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[users|Users]]

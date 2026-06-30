@@ -14,9 +14,9 @@ breadcrumb: [Explore, Hardware Asset Management, IT Asset Management]
 
 # Receiving hardware and consumable assets at stockrooms
 
-As an inventory user, you can [[c_ReceiveAssets|receive assets]] at a stockroom from any workflow using the unified and standardized receiving mechanism.
+As an inventory user, you can receive assets at a stockroom from any workflow using the unified and standardized receiving mechanism.
 
-With the standardized receiving process, you don't need to be familiar with the specific workflow to which the assets belong. Therefore, you can receive hardware and [[c_ReceiveAConsumableAsset|consumable assets]] from different shipments originating from sources, like transfer orders, purchase orders, or any other workflows seamlessly.
+With the standardized receiving process, you don't need to be familiar with the specific workflow to which the assets belong. Therefore, you can receive hardware and consumable assets from different shipments originating from sources, like transfer orders, purchase orders, or any other workflows seamlessly.
 
 ## Benefits of standardized receiving mechanism
 
@@ -28,8 +28,8 @@ With the standardized receiving process, you don't need to be familiar with the 
 
 ## Requirements and limitations
 
--   You can receive enterprise assets in the [[using-ham-workspace|Hardware Asset Workspace]] only if the [[enterprise-asset-management|Enterprise Asset Management]] applications is activated.
--   You can receive hardware assets in the [[using-eam-workspace|Enterprise Asset Workspace]] only if the [[ham-landing-page|Hardware Asset Management]] application is activated.
+-   You can receive enterprise assets in the Hardware Asset Workspace only if the Enterprise Asset Management applications is activated.
+-   You can receive hardware assets in the Enterprise Asset Workspace only if the Hardware Asset Management application is activated.
 -   You can only receive complete quantity of consumables.
 -   You can receive assets from a purchase order line starting from the Zurich release, as well as Yokohama Patch 11 and Xanadu Patch 10 or later.
 
@@ -46,11 +46,3 @@ When any asset is received at the stockroom, the following changes happen:
 -   The stockroom field on the asset form is automatically updated.
 -   The receive tasks in the source workflows associated with the asset that you received are automatically closed.
 
-## Related
-
-- [[c_ReceiveAssets|Receive assets]]
-- [[c_ReceiveAConsumableAsset|Consumable assets]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[ham-landing-page|Hardware Asset Management]]

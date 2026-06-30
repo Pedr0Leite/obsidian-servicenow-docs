@@ -18,9 +18,9 @@ Platform Analytics Solutions contain prepackaged Performance Analytics and Repor
 
 ## Performance Analytics Content Pack for Cloud Resources overview
 
-The Performance Analytics Content Pack for Cloud Resources shows the aggregated view of all your Cloud Resources. You can filter on specific information for more details. There are also analytics tables and views that associate tags with resources so that you can build your own custom [[otto-aiops-dashboards|dashboards]] and reports.
+The Performance Analytics Content Pack for Cloud Resources shows the aggregated view of all your Cloud Resources. You can filter on specific information for more details. There are also analytics tables and views that associate tags with resources so that you can build your own custom dashboards and reports.
 
-The Performance Analytics Content Pack for Cloud Resources works with [[r-discovery|Discovery]] and [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] and it supports the following cloud providers:
+The Performance Analytics Content Pack for Cloud Resources works with Discovery and Cloud Provisioning and Governance and it supports the following cloud providers:
 
 -   Amazon Web Services
 -   Microsoft Azure public clouds
@@ -29,7 +29,7 @@ The Performance Analytics Content Pack for Cloud Resources works with [[r-discov
 
 The aggregate count of each cloud resource and the latest Cloud Discovery error logs are displayed on the dashboard. You can filter the cloud resources by the service account, datacenter, or resource group \(only for Microsoft Azure\) under a specific provider and view the resource count and the resources.
 
-The base-system Performance Analytics Content Pack for [[cloud-resources-dashboard|Cloud Resources dashboard]] doesn’t contain any widget for the GCP resources. You can create the reports and widgets by consuming data from the appropriate tables. For more information on the tables that contain the GCP resources data, see [Cloud Resources dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cloud-resources-dashboard.md). Alternatively, you can install the [[cow-landing-page|Cloud Discovery Workspace]] application to view the GCP reports and widgets. For more information, see [Cloud Discovery Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-discovery-workspace/cow-landing-page.md).
+The base-system Performance Analytics Content Pack for Cloud Resources dashboard doesn’t contain any widget for the GCP resources. You can create the reports and widgets by consuming data from the appropriate tables. For more information on the tables that contain the GCP resources data, see [Cloud Resources dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cloud-resources-dashboard.md). Alternatively, you can install the Cloud Discovery Workspace application to view the GCP reports and widgets. For more information, see [Cloud Discovery Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-discovery-workspace/cow-landing-page.md).
 
 For each cloud provider, a separate scheduled job is triggered every 30 minutes. The latest CI data is updated in the cloud resource analytic tables, which allows the dashboard to be more realistic and have the updated count. The information about each scheduled job is available in the Cloud Dashboard Job Status \[sn\_disco\_cd\_cloud\_dashboard\_job\_status\] table. The job details including the provider type, status, start time, end time, and duration are stored in this table.
 
@@ -46,10 +46,3 @@ The following roles and tasks are associated with this solution:
 -   Cloud Dashboard user \(sn\_disco\_cd.user\): Crew the cloud resource widgets in the Cloud Dashboard and has read-only access on the Cloud Resource analytics tables and the dashboard reports.
 -   Cloud Dashboard administrator \(sn\_disco\_cd.admin\): View, add, or edit the dashboard widgets and reports and has read-only access on the Cloud Resource analytics tables. By default \(sn\_disco\_cd.admin\) contains the \(sn\_disco\_cd.user\) role and \(discovery\_admin\) contains the \(sn\_disco\_cd.admin\) role.
 
-## Related
-
-- [[otto-aiops-dashboards|Dashboards]]
-- [[r-discovery|Discovery]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[cloud-resources-dashboard|Cloud Resources dashboard]]
-- [[cow-landing-page|Cloud Discovery Workspace]]

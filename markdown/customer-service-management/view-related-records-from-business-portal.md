@@ -20,13 +20,13 @@ Role required: sn\_customerservice.customer\_admin, sn\_customerservice.partner,
 
 ## About this task
 
-If a case has one or more related records, a Related Records widget is displayed on the case view page that [[migration-lists|lists]] those records.
+If a case has one or more related records, a Related Records widget is displayed on the case view page that lists those records.
 
 ## Procedure
 
 1.  Navigate to the business portal.
 
-2.  Select **Requests** &gt; **View submitted requests** &gt; **[[osp-view-cases|View cases]] &amp; tasks** in the portal header.
+2.  Select **Requests** &gt; **View submitted requests** &gt; **View cases &amp; tasks** in the portal header.
 
     You can select the case type from Categories and filter the list of records before selecting a case.
 
@@ -36,7 +36,4 @@ If a case has one or more related records, a Related Records widget is displayed
 
 5.  Select the **X** in the upper corner to close the details window.
 
-## Related
 
-- [[migration-lists|Lists]]
-- [[osp-view-cases|View cases]]

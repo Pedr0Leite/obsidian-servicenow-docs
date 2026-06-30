@@ -18,7 +18,7 @@ The Carbon Black integration enables you to investigate and respond to security 
 
 <table id="simpletable_g33_wwg_vt" class="simpletableBody"><tbody><tr><td>
 
-**[[threat-intelligence-security-center-overview|Explore]]**
+**Explore**
 
  -   [Security Incident Response integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/sir_integrations.md)
 -   [Carbon Black - Incident Enrichment integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/carbon-blk-inc-enrich-landing-page.md)
@@ -33,23 +33,23 @@ The Carbon Black integration enables you to investigate and respond to security 
 
 **Use**
 
- -   [[workflow-triggers|Security Operations workflow triggers]]
+ -   [Security Operations workflow triggers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/workflow-triggers.md)
 -   [View affected items for a security incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/show-affected-items-for-si.md)
--   [[secops-integration-get-running-processes-workflow|Security Operations - Get Running Processes Flow]]
--   [[secops-integration-cb-get-running-processes-workflow|Security Operations Carbon Black Integration - Get Running Processes Flow]]
+-   [Security Operations - Get Running Processes Flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/secops-integration-get-running-processes-workflow.md)
+-   [Security Operations Carbon Black Integration - Get Running Processes Flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/secops-integration-cb-get-running-processes-workflow.md)
 -   [View affected items for a security incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/show-affected-items-for-si.md)
--   [[run-block-request|Run Block Request]]
--   [[secops-integration-block-request-workflow|Security Operations Integration - Block Request Flow]]
--   [[run-isolate-host|Run Isolate Host]]
--   [[secops-integration-cb-isolate-host-workflow|Security Operations Carbon Black Integration - Isolate Host Flow]]
--   [[secops-integration-cb-remove-host-isolation-workflow|Security Operations Carbon Black Integration- Remove Host Isolation Flow]]
+-   [Run Block Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/run-block-request.md)
+-   [Security Operations Integration - Block Request Flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/secops-integration-block-request-workflow.md)
+-   [Run Isolate Host](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/run-isolate-host.md)
+-   [Security Operations Carbon Black Integration - Isolate Host Flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/secops-integration-cb-isolate-host-workflow.md)
+-   [Security Operations Carbon Black Integration- Remove Host Isolation Flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/secops-integration-cb-remove-host-isolation-workflow.md)
 
 </td><td>
 
 **Develop**
 
- -   [[c_IntegrationWritingGuidelines|ServiceNow Security Operations integration development guidelines]]
--   [[c_BestPractisesIntegrations|Tips for writing integrations]]
+ -   [ServiceNow Security Operations integration development guidelines](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/c_IntegrationWritingGuidelines.md)
+-   [Tips for writing integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/c_BestPractisesIntegrations.md)
 -   [Developer training](https://developer.servicenow.com/app.do#!/training/landing)
 -   [Developer documentation](https://developer.servicenow.com/app.do#!/documentation)
 -   [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md)
@@ -58,7 +58,7 @@ The Carbon Black integration enables you to investigate and respond to security 
 
 **Troubleshoot and get help**
 
- -   [[c_IntegrationTroubleshooting|Integration troubleshooting]]
+ -   [Integration troubleshooting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/c_IntegrationTroubleshooting.md)
 -   [Ask or answer questions in the Security Operations community](https://community.servicenow.com/community/security-operations)
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
@@ -69,18 +69,3 @@ The Carbon Black integration enables you to investigate and respond to security 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[workflow-triggers|Security Operations workflow triggers]]
-- [[secops-integration-get-running-processes-workflow|Security Operations - Get Running Processes Flow]]
-- [[secops-integration-cb-get-running-processes-workflow|Security Operations Carbon Black Integration - Get Running Processes Flow]]
-- [[run-block-request|Run Block Request]]
-- [[secops-integration-block-request-workflow|Security Operations Integration - Block Request Flow]]
-- [[run-isolate-host|Run Isolate Host]]
-- [[secops-integration-cb-isolate-host-workflow|Security Operations Carbon Black Integration - Isolate Host Flow]]
-- [[secops-integration-cb-remove-host-isolation-workflow|Security Operations Carbon Black Integration- Remove Host Isolation Flow]]
-- [[c_IntegrationWritingGuidelines|ServiceNow Security Operations integration development guidelines]]
-- [[c_BestPractisesIntegrations|Tips for writing integrations]]
-- [[c_IntegrationTroubleshooting|Integration troubleshooting]]
-- [[threat-intelligence-security-center-overview|Explore]]

@@ -18,7 +18,7 @@ Create a legal request from a universal request to get the Legal department's as
 
 ## Before you begin
 
-Ensure you have the [[ur-landing-limitedaccess|Universal Request]] application installed and [related configuration for legal services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/configure-universal-request-legal.md) completed by the administrator.
+Ensure you have the Universal Request application installed and [related configuration for legal services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/configure-universal-request-legal.md) completed by the administrator.
 
 An employee has [submitted a universal request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-create-universal-request-record.md) and the universal ticket is assigned to you.
 
@@ -61,6 +61,3 @@ To transfer the general legal request back to the Universal Request with externa
 
 **Parent Topic:**[Universal Request for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/universal-requests-legal.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]

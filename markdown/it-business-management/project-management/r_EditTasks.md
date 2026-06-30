@@ -14,7 +14,7 @@ breadcrumb: [Gantt chart, Using Planning console - Legacy, Using Project Managem
 
 # Gantt chart options
 
-Use the [[c_GanttChart|Gantt chart]] to quickly change task attributes, such as start and end time, rather than opening every Task form and modifying field values one by one.
+Use the Gantt chart to quickly change task attributes, such as start and end time, rather than opening every Task form and modifying field values one by one.
 
 From a Gantt chart, you can modify the following task attributes:
 
@@ -28,7 +28,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Planned start date for [[t_CreateAProjectTask|project tasks]]
+Planned start date for project tasks
 
 </td><td>
 
@@ -68,7 +68,7 @@ Lag time and lead time
 
 Lag time is an interval of time between the end of a predecessor task and the start of a successor task. The lag time delays the predecessor by an amount that you specify. Lead time is an interval of time that the predecessor task is allowed to start before it normally would. It is essentially a negative lag time. The value in the **Lag** field specifies both lag and lead time.
 
- To edit the **Lag** value, double-click a connector and update the settings in the [[planned-task-relationship-form|Planned Task Relationship form]]. Enter a negative value to specify a lead time.
+ To edit the **Lag** value, double-click a connector and update the settings in the Planned Task Relationship form. Enter a negative value to specify a lead time.
 
 </td></tr><tr><td>
 
@@ -76,18 +76,10 @@ Resources
 
 </td><td>
 
-To change a user resource for an existing task or add a resource to a new task, double-click the task bar and edit the Assigned to field in the [[project-task-form|Project Task form]].**Note:** The resources in **Assigned to** column can be constrained to be derived only from the allocated [[c_ResourcePlans|resource plans]] associated with the project or any of its task.
+To change a user resource for an existing task or add a resource to a new task, double-click the task bar and edit the Assigned to field in the Project Task form.**Note:** The resources in **Assigned to** column can be constrained to be derived only from the allocated resource plans associated with the project or any of its task.
 
 </td></tr></tbody>
-</table>The [[c_ProjectApplicationOverview|Project Management]] application provides several properties that control how tasks are calculated and behave. See [Project property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/r_InstalledWithProjectManagement.md) for more information.
+</table>The Project Management application provides several properties that control how tasks are calculated and behave. See [Project property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/r_InstalledWithProjectManagement.md) for more information.
 
 **Parent Topic:**[Gantt chart](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_GanttChart.md)
 
-## Related
-
-- [[c_GanttChart|Gantt chart]]
-- [[t_CreateAProjectTask|Project tasks]]
-- [[planned-task-relationship-form|Planned Task Relationship form]]
-- [[project-task-form|Project task form]]
-- [[c_ResourcePlans|Resource plans]]
-- [[c_ProjectApplicationOverview|Project Management]]

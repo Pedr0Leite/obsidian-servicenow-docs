@@ -14,7 +14,7 @@ breadcrumb: [Know Your Customer, Common applications, Financial Services Operati
 
 # Explore Financial Services Know Your Customer
 
-Use [[fso-kyc-landing-page|Financial Services Know Your Customer]] to verify applicant identity and minimize risk to your organization.
+Use Financial Services Know Your Customer to verify applicant identity and minimize risk to your organization.
 
 For information on components that are installed with Financial Services Know Your Customer, see [Components installed with Financial Services Know Your Customer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-know-your-customer-kyc/fso-kyc-installed-with.md).
 
@@ -25,6 +25,3 @@ For information on components that are installed with Financial Services Know Yo
 -   Coordinates verification efforts between front, middle, and back-office agents and personnel.
 -   Prevent fraudulent activity by verifying an applicant's identity prior to opening accounts or providing services.
 
-## Related
-
-- [[fso-kyc-landing-page|Financial Services Know Your Customer]]

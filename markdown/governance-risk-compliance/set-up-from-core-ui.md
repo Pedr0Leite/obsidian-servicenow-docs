@@ -12,7 +12,7 @@ breadcrumb: [Setting up pillars, entity types, entity filters, and entities, Con
 
 # Set up pillars and entity types from Core UI
 
-Set up the pillars and [[entity-type-in-risk-ws|entity types]] using Admin setup from the Core UI in the [[grc-opres-landing-page|Operational Resilience]] application.
+Set up the pillars and entity types using Admin setup from the Core UI in the Operational Resilience application.
 
 ## Before you begin
 
@@ -77,10 +77,5 @@ Role required: sn\_oper\_res.admin
 
 ## What to do next
 
-Once pillars and entity types are set up, configure the entity filters. For more information, see [[conf-ent-filter|Configure the entity filters]].
+Once pillars and entity types are set up, configure the entity filters. For more information, see [Configure the entity filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/conf-ent-filter.md).
 
-## Related
-
-- [[conf-ent-filter|Configure the entity filters]]
-- [[entity-type-in-risk-ws|Entity types]]
-- [[grc-opres-landing-page|Operational Resilience]]

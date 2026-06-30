@@ -14,7 +14,7 @@ breadcrumb: [Linux, Operating systems discovery, Data collected by ITOM Visibili
 
 # Omit network adapter secondary IP addresses in Linux discovery
 
-Limit [[r_DataCollDiscoLinuxComputers|Linux discovery]] to specific network adapters and their primary IP addresses to improve performance by ignoring secondary IP addresses.
+Limit Linux discovery to specific network adapters and their primary IP addresses to improve performance by ignoring secondary IP addresses.
 
 ## About this task
 
@@ -47,7 +47,7 @@ Role required: admin
 
 ## Result
 
-When the predefined schedule triggers the Linux server [[r-discovery|discovery]] or a scheduled horizontal discovery runs, only the specific network adapters and their primary IP addresses are included in the discovery process.
+When the predefined schedule triggers the Linux server discovery or a scheduled horizontal discovery runs, only the specific network adapters and their primary IP addresses are included in the discovery process.
 
 For more information, see [Schedule a horizontal discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_CreateADiscoverySchedule.md).
 
@@ -56,7 +56,3 @@ For more information, see [Schedule a horizontal discovery](https://raw.githubus
 
 [Linux discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_DataCollDiscoLinuxComputers.md)
 
-## Related
-
-- [[r_DataCollDiscoLinuxComputers|Linux discovery]]
-- [[r-discovery|Discovery]]

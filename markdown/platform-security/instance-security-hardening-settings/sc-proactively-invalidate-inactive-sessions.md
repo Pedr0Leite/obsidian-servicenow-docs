@@ -38,7 +38,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -53,7 +53,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -116,7 +116,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Session management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-session-management.md)
 
-## Related
-
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

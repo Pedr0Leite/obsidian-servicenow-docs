@@ -14,7 +14,7 @@ breadcrumb: [Defining portal styles, Configuring Service Portal, Service Portal,
 
 # Activate La Jolla theme branding
 
-Activate the [[c_ServicePortal|Service Portal]] La Jolla Brand to apply ServiceNow branding, which includes WCAG-AA compliance for contrast. This plugin is active by default on new instances, but admins must activate the plugin on instances upgraded from earlier versions.
+Activate the Service Portal La Jolla Brand to apply ServiceNow branding, which includes WCAG-AA compliance for contrast. This plugin is active by default on new instances, but admins must activate the plugin on instances upgraded from earlier versions.
 
 ## Before you begin
 
@@ -69,6 +69,3 @@ You can evaluate the feature on a sub-production instance without charge by requ
 
 [List of plugins \(Australia\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]

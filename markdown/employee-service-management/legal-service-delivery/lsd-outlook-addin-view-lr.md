@@ -14,7 +14,7 @@ breadcrumb: [Use Microsoft Outlook Add-In for Legal Service Delivery, Microsoft 
 
 # View legal request from the Outlook add-in
 
-As a legal request fulfiller, view legal requests and matters in the [[lsd-outlook-addin-landing|Microsoft Outlook Add-In for Legal Service Delivery]].
+As a legal request fulfiller, view legal requests and matters in the Microsoft Outlook Add-In for Legal Service Delivery.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_lg\_ops.request\_fulfiller or sn\_lg\_matter.matter\_fulfille
 
 ## Procedure
 
-1.  [[lsd-outlook-addin-login|Sign in to Microsoft Outlook Add-In for Legal Service Delivery]].
+1.  Sign in to Microsoft Outlook Add-In for Legal Service Delivery.
 
     For more information, see [Sign in to Microsoft Outlook Add-In for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-outlook-addin-login.md).
 
@@ -76,7 +76,3 @@ The legal request submitted for the email is displayed in the Created from this 
 
 **Parent Topic:**[Use Microsoft Outlook Add-In for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-outlook-addin-use.md)
 
-## Related
-
-- [[lsd-outlook-addin-landing|Microsoft Outlook Add-In for Legal Service Delivery]]
-- [[lsd-outlook-addin-login|Sign in to Microsoft Outlook Add-In for Legal Service Delivery]]

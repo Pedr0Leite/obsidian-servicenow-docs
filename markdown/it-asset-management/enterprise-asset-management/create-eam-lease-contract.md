@@ -14,7 +14,7 @@ breadcrumb: [Create and manage contracts for enterprise assets, Managing enterpr
 
 # Create a contract for your leased enterprise assets
 
-[[t_CreateAContract|Create a contract]] to define the lease details of your enterprise assets.
+Create a contract to define the lease details of your enterprise assets.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: sn\_eam.enterprise\_admin or sn\_eam.enterprise\_asset\_manager
 
 ## About this task
 
-The following steps describe how to create [[c_Contracts|contracts]] for leased enterprise assets only. For information on how to create other types of contracts, see [Contract Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/c_ContractManagement.md).
+The following steps describe how to create contracts for leased enterprise assets only. For information on how to create other types of contracts, see [Contract Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/c_ContractManagement.md).
 
 ## Procedure
 
-1.  From the [[using-eam-workspace|Enterprise Asset Workspace]], open the Contract and lease management view.
+1.  From the Enterprise Asset Workspace, open the Contract and lease management view.
 
 2.  On the **Lease contracts** tab, select **New**.
 
@@ -38,9 +38,9 @@ The following steps describe how to create [[c_Contracts|contracts]] for leased 
 
     A new contract record is created for the lease contract.
 
-5.  Build [[c_TermsAndConditions|terms and conditions]] for the lease contract.
+5.  Build terms and conditions for the lease contract.
 
-    Before you can build terms and conditions for a lease contract, you must [[t_CreateATermsAndConditionsRecord|create a terms and conditions record]] and add it to the contract. For detailed instructions on how to create a terms and conditions record, see [Create a terms and conditions record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/t_CreateATermsAndConditionsRecord.md). For detailed instructions on how to add a terms and conditions record to a contract, see [Add terms and conditions to a contract](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/t_AddTermsAndConditionsToAContract.md).
+    Before you can build terms and conditions for a lease contract, you must create a terms and conditions record and add it to the contract. For detailed instructions on how to create a terms and conditions record, see [Create a terms and conditions record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/t_CreateATermsAndConditionsRecord.md). For detailed instructions on how to add a terms and conditions record to a contract, see [Add terms and conditions to a contract](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/t_AddTermsAndConditionsToAContract.md).
 
     1.  On the lease contract record header, select the More Actions icon \[Omitted image "more-actions-icon.png"\] Alt text:.
 
@@ -101,10 +101,3 @@ The following steps describe how to create [[c_Contracts|contracts]] for leased 
 
 **Parent Topic:**[Create and manage contracts for enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-manage-enterprise-asset-contracts.md)
 
-## Related
-
-- [[t_CreateAContract|Create a contract]]
-- [[c_Contracts|Contracts]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[c_TermsAndConditions|Terms and conditions]]
-- [[t_CreateATermsAndConditionsRecord|Create a terms and conditions record]]

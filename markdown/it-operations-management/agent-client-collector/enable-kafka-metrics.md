@@ -14,7 +14,7 @@ breadcrumb: [ACC deployment - shared between servers and endpoints, Configuring 
 
 # Enable Apache Kafka health monitoring
 
-Set configurations in the Apache HTTP server application to enable the [[acc-landing-page|Agent Client Collector]] to perform Apache Kafka HTTP server monitoring.
+Set configurations in the Apache HTTP server application to enable the Agent Client Collector to perform Apache Kafka HTTP server monitoring.
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ Set configurations in the Apache HTTP server application to enable the [[acc-lan
 
 **Parent Topic:**[Deploying Agent Client Collector on both servers and endpoints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-shared-deployment.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

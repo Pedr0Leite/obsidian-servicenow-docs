@@ -39,7 +39,7 @@ Role required: sn\_fin\_ops.specialist
 
 6.  Select **Associate Record**.
 
-7.  On the [[create-interaction-related-record-form|Create New Interaction Related Record form]], fill in the fields.
+7.  On the Create New Interaction Related Record form, fill in the fields.
 
     For more information on the form fields and descriptions, see [Create new interaction related record form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/create-interaction-related-record-form.md).
 
@@ -57,6 +57,3 @@ Role required: sn\_fin\_ops.specialist
 
 [Create a finance case from an interaction]()
 
-## Related
-
-- [[create-interaction-related-record-form|Create new interaction related record form]]

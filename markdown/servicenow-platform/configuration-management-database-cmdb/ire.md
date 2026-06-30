@@ -14,7 +14,7 @@ breadcrumb: [Components and process of Identification and Reconciliation, Explor
 
 # Identification and Reconciliation Engine \(IRE\)
 
-IRE is an underlying key component in Identification and Reconciliation, providing a centralized framework to perform identification and reconciliation processes across different data sources. IRE uses [[c_IdentificationRules|identification rules]], [[r_ReconciliationRulesPrinciples|reconciliation rules]], and IRE data source rules when processing incoming data before inserting that data to the CMDB.
+IRE is an underlying key component in Identification and Reconciliation, providing a centralized framework to perform identification and reconciliation processes across different data sources. IRE uses identification rules, reconciliation rules, and IRE data source rules when processing incoming data before inserting that data to the CMDB.
 
 IRE processes help maintain data integrity in the CMDB.
 
@@ -131,7 +131,7 @@ IRE errors for a partial item:
 -   MISSING\_DEPENDENCY –— Dependent CI is missing a dependency relation which is specified in the payload​.
 -   INSERT\_NOT\_ALLOWED\_FOR\_SOURCE –— An IRE data source rule prevents the specified data sources from creating CIs of the specified class.
 
-For more details about [[id-engine-error-messages|IRE error messages]], see [IRE error messages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/id-engine-error-messages.md).
+For more details about IRE error messages, see [IRE error messages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/id-engine-error-messages.md).
 
 If processing fails because payload items are determined to be partial items, then the partial items are saved as partial payloads in the CMDB IRE Partial Payloads \[cmdb\_ire\_partial\_payloads\] table in JSON format for later potential processing.​ IRE uses identifier keys to attempt to match incoming payloads with stored partial payloads.
 
@@ -195,7 +195,7 @@ Server/Computer feed:
 
 The computer in the partial payload and the server in the new payload match because they have identical **source\_name** and **source\_native\_key**. Therefore, the partial payload and the new payload are merged, the operation is committed, and the partial payload is deleted from the Partial Payloads table.
 
-There is a limit on the number of items per partial payload, which is set by the [glide.identification\_engine.partial\_payload\_items\_max\_size](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/properties-id-reconciliation.md) property \(1000 by default\). Storing associated relationships, [[reference-document-management|references]], and dependent items, in one partial payload, can result in reaching that limit, in which case, the payload is split into multiple partial payloads.
+There is a limit on the number of items per partial payload, which is set by the [glide.identification\_engine.partial\_payload\_items\_max\_size](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/properties-id-reconciliation.md) property \(1000 by default\). Storing associated relationships, references, and dependent items, in one partial payload, can result in reaching that limit, in which case, the payload is split into multiple partial payloads.
 
 For more information about partial payloads, see [CreateOrUpdateCIEnhanced\(\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/IdentificationEngineScopedAPI.md)​​.
 
@@ -251,9 +251,3 @@ After scripts provide access to the IRE input and output payloads. Using a custo
 -   Access the sys\_ids of the CIs that IRE created or updated.
 -   Write other custom logic inside the script that uses the IRE output payload.
 
-## Related
-
-- [[c_IdentificationRules|Identification rules]]
-- [[r_ReconciliationRulesPrinciples|Reconciliation rules]]
-- [[id-engine-error-messages|IRE error messages]]
-- [[reference-document-management|References]]

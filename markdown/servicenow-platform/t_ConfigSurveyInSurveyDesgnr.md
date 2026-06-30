@@ -20,7 +20,7 @@ Role required: survey\_creator, survey\_admin, or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Survey** &gt; **View [[r_SurveyManagementLandingPage|Surveys]]**.
+1.  Navigate to **All** &gt; **Survey** &gt; **View Surveys**.
 
 2.  Open a survey definition in Survey Designer.
 
@@ -28,12 +28,12 @@ Role required: survey\_creator, survey\_admin, or admin
 
 4.  On the Survey Designer Configuration form, fill in the fields.
 
-    For a description of the field values, see [[survey-design-config-form|Survey Designer Configuration form]].
+    For a description of the field values, see [Survey Designer Configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/survey-design-config-form.md).
 
 5.  Select the **Availability** tab and complete the form.
 
 
-**Parent Topic:**[[c_SurveyDesigner|Survey designer]]
+**Parent Topic:**[Survey designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyDesigner.md)
 
 **Related topics**  
 
@@ -52,25 +52,15 @@ Role required: survey\_creator, survey\_admin, or admin
 
 [Configure category weights for a survey]()
 
-[[t_ViewAScorecard|View a survey scorecard]]
+[View a survey scorecard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAScorecard.md)
 
-[[t_CreateASurveyDesignerTemplateQ|Create a survey designer template question]]
+[Create a survey designer template question](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateASurveyDesignerTemplateQ.md)
 
-[[t_SelRecipsForASurveyInDesigner|Select recipients for a survey in the Survey Designer]]
+[Select recipients for a survey in the Survey Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_SelRecipsForASurveyInDesigner.md)
 
-[[t_PublishASurveyInSurveyDesigner|Publish a survey in the Survey Designer]]
+[Publish a survey in the Survey Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_PublishASurveyInSurveyDesigner.md)
 
 [Event scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ScheduleEvents.md)
 
-[[t_CreateAnAssessmentSignature|Create an assessment signature]]
+[Create an assessment signature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateAnAssessmentSignature.md)
 
-## Related
-
-- [[survey-design-config-form|Survey Designer Configuration form]]
-- [[c_SurveyDesigner|Survey designer]]
-- [[t_ViewAScorecard|View a survey scorecard]]
-- [[t_CreateASurveyDesignerTemplateQ|Create a survey designer template question]]
-- [[t_SelRecipsForASurveyInDesigner|Select recipients for a survey in the Survey Designer]]
-- [[t_PublishASurveyInSurveyDesigner|Publish a survey in the Survey Designer]]
-- [[t_CreateAnAssessmentSignature|Create an assessment signature]]
-- [[r_SurveyManagementLandingPage|Surveys]]

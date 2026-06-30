@@ -20,7 +20,7 @@ The following table lists the mandatory fields for the CMDB Service Model Stage 
 
 |Field|Data type|Description|
 |-----|---------|-----------|
-|ERP source|String|ERP source from which data is imported. For [[purchase-order-table|purchase order]], receipt, and invoice integrations, the [[erp-source|ERP source]] is determined through the [[legal-entity|legal entity]] associated with these records.|
+|ERP source|String|ERP source from which data is imported. For purchase order, receipt, and invoice integrations, the ERP source is determined through the legal entity associated with these records.|
 |Model number|String|Unique identifier for the service model.|
 
 **Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/spo-inbound-staging-tables.md)
@@ -100,8 +100,3 @@ The following table lists the mandatory fields for the CMDB Service Model Stage 
 
 [Unit of Measure inbound staging table]()
 
-## Related
-
-- [[purchase-order-table|Purchase order]]
-- [[erp-source|ERP source]]
-- [[legal-entity|Legal entity]]

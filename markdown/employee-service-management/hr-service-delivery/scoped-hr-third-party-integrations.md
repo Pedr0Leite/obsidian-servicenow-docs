@@ -14,7 +14,7 @@ breadcrumb: [Integration of HR Service Delivery with third-party systems, HR Ser
 
 # HR Integrations
 
-Integrate [[hr-service-delivery|HR Service Delivery]] with HR management systems to synchronize employee profiles, to-dos, and other data; background check systems to request background checks; e-signature systems to request electronic signatures; and more.
+Integrate HR Service Delivery with HR management systems to synchronize employee profiles, to-dos, and other data; background check systems to request background checks; e-signature systems to request electronic signatures; and more.
 
 For select systems, preconfigured integrations are available to use. You can also configure your own custom integration with third-party systems that use SOAP or REST services.
 
@@ -68,7 +68,7 @@ For information on HR Integrations support and troubleshooting, see the [HR Inte
 
 ## Activation information
 
-HR Integrations is automatically activated when you activate [[case-knowledge-management-landing-page|Case and Knowledge Management]]. If it is not activated, you can manually [[activate-hr-integrations|activate HR Integrations]]. For information on what components are installed with the application, see [Components installed with HR Integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/components-installed-with-hr-integrations.md).
+HR Integrations is automatically activated when you activate Case and Knowledge Management. If it is not activated, you can manually activate HR Integrations. For information on what components are installed with the application, see [Components installed with HR Integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/components-installed-with-hr-integrations.md).
 
 -   **[Activate HR Integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/activate-hr-integrations.md)**  
 You can activate Human Resources Scoped App: Integrations \[com.sn\_hr\_integrations\] if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
@@ -81,15 +81,9 @@ The preconfigured Sterling Talent Solutions integration uses REST services to re
 -   **[Integrating with the DocuSign service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/docusign-integration-for-hr.md)**  
 Request electronic signatures through the DocuSign service with the DocuSign integration.
 -   **[Integrating with the Adobe Sign service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/integrating-with-adobe-sign-service.md)**  
-Request electronic signatures through the Adobe Sign service with the Adobe Sign integration. This integration depends on the Adobe Sign spoke in IntegrationHub, and is enabled for the signing of adhoc documents \(HR PDF [[document-templates-overview|document templates]]\) and Adobe Sign templates.
+Request electronic signatures through the Adobe Sign service with the Adobe Sign integration. This integration depends on the Adobe Sign spoke in IntegrationHub, and is enabled for the signing of adhoc documents \(HR PDF document templates\) and Adobe Sign templates.
 -   **[Integrating with the CIC Plus service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/integrating-with-cic-plus-service.md)**  
 Integrate with the CIC Plus service so that you can enable US-based new hires to provide relevant tax information as part of the onboarding process.
 
 **Parent Topic:**[Integration of HR Service Delivery with third-party systems](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/integrate-third-party-systems.md)
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[case-knowledge-management-landing-page|Case and Knowledge Management]]
-- [[activate-hr-integrations|activate hr integrations]]
-- [[document-templates-overview|Document Templates]]

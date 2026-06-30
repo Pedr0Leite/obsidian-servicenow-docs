@@ -18,17 +18,17 @@ Learn about the components of the Key Management Framework \(KMF\), and how to u
 
 ## Components of the Key Management Framework
 
-\[Omitted image "kmf-moduleaccesspolicy-diagram.png"\] Alt text: KMF [[sc-configuration|configuration]] overview
+\[Omitted image "kmf-moduleaccesspolicy-diagram.png"\] Alt text: KMF configuration overview
 
 Key Management Framework consists of the following components.
 
 -   **Cryptographic modules**
 
-    KMF is centered around managing cryptographic modules. These modules act as the parent record for the other components. They define what data on your instance is encrypted, and what method of [[encryption-landing|encryption]] to use. Using multiple modules, you can encrypt different areas of your instance with different specifications.
+    KMF is centered around managing cryptographic modules. These modules act as the parent record for the other components. They define what data on your instance is encrypted, and what method of encryption to use. Using multiple modules, you can encrypt different areas of your instance with different specifications.
 
-    For example, you can create a module to secure the data in your Human Resources application to [[users|users]] with a specific role. You could then create another module to encrypt Incident descriptions which are visible to certain users based on a script you create.
+    For example, you can create a module to secure the data in your Human Resources application to users with a specific role. You could then create another module to encrypt Incident descriptions which are visible to certain users based on a script you create.
 
-    Module access [[ca-policies|policies]] are found by navigating to **All** &gt; **Key Management** &gt; **Cryptographic Modules** &gt; **All**. For more information on these modules, see [Cryptographic module overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/crypto-module-overview.md).
+    Module access policies are found by navigating to **All** &gt; **Key Management** &gt; **Cryptographic Modules** &gt; **All**. For more information on these modules, see [Cryptographic module overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/crypto-module-overview.md).
 
 -   **Module keys**
 
@@ -51,19 +51,19 @@ Key Management Framework consists of the following components.
 
 ## Key Management Framework workflow
 
--   **1. Assign [[kmf-roles|KMF roles]]**
+-   **1. Assign KMF roles**
 
     Administrators must begin by assigning themselves the sn\_kmf.admin role. This role enables you to use KMF features and assign KMF roles to other users.
 
 -   **2. Configure KMF settings**
 
-    Configure your [[field-encryption|field encryption]] settings to select either supplied keys or your own customer-supplied keys \(CSK\) for encryption.
+    Configure your field encryption settings to select either supplied keys or your own customer-supplied keys \(CSK\) for encryption.
 
 -   **3.Create cryptographic modules**
 
     Use cryptographic modules to select a set of data on your instance to be encrypted. In later steps, you assign a cryptographic specification to determine how to encrypt this data, and a module access policy to determine who can decrypt the data.
 
--   **4. [[create-crypto-spec|Create a cryptographic specification]]**
+-   **4. Create a cryptographic specification**
 
     The cryptographic specification defines a method of encryption. Once assigned to a module, it defines how the data assigned to that module is encrypted.
 
@@ -71,7 +71,7 @@ Key Management Framework consists of the following components.
 
     After creating modules to secure your data, create module access policies to control which users and scripts are able to access the encrypted data.
 
--   **6. [[create-cryptographic-module-lifecycle-policy|Create a cryptographic module life-cycle policy]]**
+-   **6. Create a cryptographic module life-cycle policy**
 
     These policies place limits on cryptographic modules, such as how long a cryptographic key is valid. These policies can safeguard your cryptographic modules by limiting their exposure.
 
@@ -93,16 +93,5 @@ Module access policies \(MAPs\) are access controls that you apply to your crypt
 -   **[Instance level keys in the Key Management Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/instance-level-keys.md)**  
 Learn about the Key Management Framework \(KMF\) key structure, which uses envelope encryption to ensure that all platform keys under KMF management are protected through a chain of keys. Customer Data Encryption Keys \(CDEKs\) created by KMF are also included in this structure
 
-**Parent Topic:**[[encryption|Key Management Framework]]
+**Parent Topic:**[Key Management Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/encryption.md)
 
-## Related
-
-- [[encryption|Key Management Framework]]
-- [[sc-configuration|Configuration]]
-- [[encryption-landing|Encryption]]
-- [[users|Users]]
-- [[ca-policies|Policies]]
-- [[kmf-roles|kmf roles]]
-- [[field-encryption|Field Encryption]]
-- [[create-crypto-spec|Create a cryptographic specification]]
-- [[create-cryptographic-module-lifecycle-policy|Create a cryptographic module life-cycle policy]]

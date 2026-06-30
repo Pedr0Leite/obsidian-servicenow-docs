@@ -14,7 +14,7 @@ breadcrumb: [Load balancers, Network device discovery, Data collected by ITOM Vi
 
 # A10 load balancer discovery
 
-[[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] uses patterns to collect information about A10 load balancers.
+Discovery and Service Mapping uses patterns to collect information about A10 load balancers.
 
 **Note:** Probe-to-pattern migration is supported for the New York release and later. See the knowledge article [KB0694477](https://support.servicenow.com/kb_view.do?sysparm_article=KB0694477) for more information.
 
@@ -452,7 +452,7 @@ Configuration Item \[cmdb\_ci\]
 References the A10 Load Balancer \[cmdb\_ci\_lb\_a10\] table.
 
 </td></tr></tbody>
-</table>\[Omitted image "A10-components.png"\] Alt text: A10 load balancer [[dependency-views-map|Dependency Views map]]
+</table>\[Omitted image "A10-components.png"\] Alt text: A10 load balancer Dependency Views map
 
 ## CI relationships
 
@@ -599,8 +599,3 @@ Service Mapping discovers the connections between the A10 load balancers and app
 
 **Parent Topic:**[Load balancer discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_LoadBalancers.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[dependency-views-map|Dependency Views map]]

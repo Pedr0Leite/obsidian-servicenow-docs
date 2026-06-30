@@ -12,7 +12,7 @@ breadcrumb: [Legal Digital Forensics, Legal Service Delivery Practice Applicatio
 
 # Exploring Legal Digital Forensics
 
-[[legal-digital-forensics-landing-page|Legal Digital Forensics]] enables different departments in your organization to submit legal requests for discovery and processing of digital data of employees suspected of malicious [[activity-lxp|activity]] or litigation.
+Legal Digital Forensics enables different departments in your organization to submit legal requests for discovery and processing of digital data of employees suspected of malicious activity or litigation.
 
 ## Features
 
@@ -31,7 +31,3 @@ You can submit a digital forensics request for the following actions for custodi
 
 After the required privacy approvals for investigation, the digital forensics team member working on the digital forensic request can promote it to a legal matter. The legal matter for the digital forensics request can have phases based on the requested actions. Each phase can have tasks for each custodial or non-custodial data for a keyword, data source, and date range.
 
-## Related
-
-- [[legal-digital-forensics-landing-page|Legal Digital Forensics]]
-- [[activity-lxp|Activity]]

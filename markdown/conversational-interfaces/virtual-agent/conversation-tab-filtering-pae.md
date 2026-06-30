@@ -48,7 +48,7 @@ To save a condition that you created in the condition builder, select **Save fil
 |Language|Conversations for the specified language based on the user's language setting.|
 |Message Count|Conversations for the specified message count in the chat.|
 |Provider Name|Conversations for the specified provider.|
-|VA Success|Conversations resolved by the [[virtual-agent-landing-page|Virtual Agent]].|
+|VA Success|Conversations resolved by the Virtual Agent.|
 |Setup Topic Types|Conversations that used the specified setup topic type.|
 |Topic Blocks|Conversations that used the specified topic block.|
 |Topic Categories|Conversations that have topics which belong to a specified topic category.|
@@ -58,6 +58,3 @@ To save a condition that you created in the condition builder, select **Save fil
 
 **Parent Topic:**[Conversations tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/conversation-tab-pae.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

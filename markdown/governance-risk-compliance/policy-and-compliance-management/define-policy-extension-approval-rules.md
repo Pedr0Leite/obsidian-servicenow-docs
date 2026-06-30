@@ -20,12 +20,9 @@ To enhance flexibility in policy extension approvals, enable the **GRC Approval 
 
 For more information, see [GRC Approval Configurator for approving policy exceptions and extensions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/grc-approval-configurator-for-policy-extension-and-exception.md).
 
-To [[enable-grc-approval-configurator|enable GRC Approval Configurator]], see [Enable GRC Approval Configurator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/enable-grc-approval-configurator.md).
+To enable GRC Approval Configurator, see [Enable GRC Approval Configurator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/enable-grc-approval-configurator.md).
 
 To configure the policy extension approval rules, see [Define policy exception and extension rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/define-policy-exception-verification-rules.md).
 
 **Parent Topic:**[Allow policy exception requests from other applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/allow-other-app-policy-except.md)
 
-## Related
-
-- [[enable-grc-approval-configurator|Enable GRC Approval Configurator]]

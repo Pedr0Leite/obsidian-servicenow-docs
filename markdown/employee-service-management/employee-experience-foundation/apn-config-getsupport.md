@@ -14,7 +14,7 @@ breadcrumb: [Mega menu configuration, Setup Employee Center browse experience fe
 
 # Get support
 
-Get support helps you with a centralized and easy-to-navigate section for quick help from the [[employee-center-landing-page|employee center]].
+Get support helps you with a centralized and easy-to-navigate section for quick help from the employee center.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ Admins provide a central place for employees to get help quickly without having 
 
 You can render **Get Support** as a widget on the home page or as a modal window. For more information, see [Configure advanced portal navigation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-adv-portal-nav-as-menu.md)
 
-\[Omitted image "get-support-ec.png"\] Alt text: Get support on the homepage as a widget and modal window for [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] purpose
+\[Omitted image "get-support-ec.png"\] Alt text: Get support on the homepage as a widget and modal window for reference purpose
 
 ## Procedure
 
@@ -43,7 +43,7 @@ You can render **Get Support** as a widget on the home page or as a modal window
     -   Static Content
 4.  Select **Content** from the available options.
 
-    -   For **Quick Link**, select the **Table name** \(sn\_ex\_sp\_quick\_link\) and **Document**. For more information on [[emp-center-quick-link-config|quick links]], see [Quick links](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/emp-center-quick-link-config.md).
+    -   For **Quick Link**, select the **Table name** \(sn\_ex\_sp\_quick\_link\) and **Document**. For more information on quick links, see [Quick links](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/emp-center-quick-link-config.md).
     -   For **Static Content**, select the **Table name** \(sn\_ex\_sp\_static\_content\) and **Document**. For more information on static content, see [Configure static content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/apn-config-static-content.md).
 
         **Note:** The admin can configure any number of items. The out-of-the-box **Get support** has a maximum of eight items.
@@ -52,7 +52,7 @@ You can render **Get Support** as a widget on the home page or as a modal window
 
 6.  Select **Portal** from the available options.
 
-    For example, to associate a quick link to [[deskless-kiosk-overview|Employee Center Pro Kiosk]], select Employee Center Pro Kiosk.
+    For example, to associate a quick link to Employee Center Pro Kiosk, select Employee Center Pro Kiosk.
 
 7.  Click **Save**.
 
@@ -69,9 +69,3 @@ You can proceed to select the Get support section to appear as a modal window by
 
 .
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[emp-center-quick-link-config|Quick links]]
-- [[deskless-kiosk-overview|Employee Center Pro Kiosk]]

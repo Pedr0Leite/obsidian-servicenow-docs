@@ -14,7 +14,7 @@ breadcrumb: [Operational Technology Manager, Operational Technology]
 
 # Configuring the Operational Technology Manager
 
-Configure the [[operational-technology-manager|Operational Technology Manager]] application so that you can create the data foundation for the ServiceNow® [[operational-technology-overview|Operational Technology]] solution.
+Configure the Operational Technology Manager application so that you can create the data foundation for the ServiceNow® Operational Technology solution.
 
 <table id="table_dt5_rxj_4nb"><thead><tr><th>
 
@@ -34,7 +34,7 @@ Extend the Configuration Management Database \(CMDB\) class hierarchy for use in
 
 </td></tr><tr><td>
 
-2. [[install-operational-technology-manager|Install Operational Technology Manager]].
+2. Install Operational Technology Manager.
 
 </td><td>
 
@@ -70,7 +70,7 @@ Upload your Operational Technology data to the Configuration Management Database
 
 </td><td>
 
-Discover Operational Technology \(OT\) devices in the designated Purdue levels in your Industrial Control System \(ICS\) networks.For more information about Discovery for Operational Technology, see [[discovery-for-operational-technology|IT Discovery for Operational Technology \(OT\) Networks]].
+Discover Operational Technology \(OT\) devices in the designated Purdue levels in your Industrial Control System \(ICS\) networks.For more information about Discovery for Operational Technology, see [IT Discovery for Operational Technology \(OT\) Networks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/discovery-for-operational-technology.md).
 
 </td></tr><tr><td>
 
@@ -98,14 +98,7 @@ If you have the admin role, you can install the Operational Technology Manager a
 -   **[Script includes installed with Operational Technology Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/script_includes_installed_with_operational_technology_manager.md)**  
 The Operational Technology Manager plugin installs the following script includes.
 -   **[Assign Operational Technology Manager roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/assign-operational-technology-manager-roles.md)**  
-[[assign-operational-technology-incident-management-roles|Assign roles to your users]] so that you can control their access to the features, capabilities, and data in the Operational Technology Manager application.
+Assign roles to your users so that you can control their access to the features, capabilities, and data in the Operational Technology Manager application.
 
 **Parent Topic:**[Operational Technology Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/operational-technology-manager.md)
 
-## Related
-
-- [[discovery-for-operational-technology|IT Discovery for Operational Technology \(OT\) Networks]]
-- [[operational-technology-manager|Operational Technology Manager]]
-- [[operational-technology-overview|Operational Technology]]
-- [[install-operational-technology-manager|Install Operational Technology Manager]]
-- [[assign-operational-technology-incident-management-roles|Assign roles to your users]]

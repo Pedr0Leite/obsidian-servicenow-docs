@@ -12,7 +12,7 @@ breadcrumb: [Using customer data models for B2B2C, Customer management, Use, Cus
 
 # Associate install base items with account consumers
 
-Enable customer service managers to track the instances provisioned by associating [[install-base-item|install base items]] with account consumers.
+Enable customer service managers to track the instances provisioned by associating install base items with account consumers.
 
 ## Before you begin
 
@@ -59,6 +59,4 @@ Add a new consumer
 </td></tr></tbody>
 </table>4.  Select **Update** to save your changes.
 
-## Related
 
-- [[install-base-item|Install base items]]

@@ -14,7 +14,7 @@ breadcrumb: [Manage, Contract Management Pro, Legal and Contract Operations, Emp
 
 # Platform Analytics Solutions for Contract Management Pro
 
-The [[cncore-contracts-dashboard|Contracts Dashboard]] in [[cncore-cmpro-landing-page|Contract Management Pro]] is an [[eslate-analytics-reporting|analytics and reporting]] solution that enables you to make data-driven decisions through insights and trends derived from contract request data.
+The Contracts Dashboard in Contract Management Pro is an analytics and reporting solution that enables you to make data-driven decisions through insights and trends derived from contract request data.
 
 ## Required roles
 
@@ -39,8 +39,3 @@ With Contracts Dashboard, you can make data-driven decisions by analyzing the tr
 
 [Modify assignment rule for contract requests]()
 
-## Related
-
-- [[cncore-contracts-dashboard|Contracts Dashboard]]
-- [[cncore-cmpro-landing-page|Contract Management Pro]]
-- [[eslate-analytics-reporting|Analytics and reporting]]

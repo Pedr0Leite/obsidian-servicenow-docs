@@ -22,7 +22,7 @@ Role required: sn\_lg\_ops.legal\_admin
 
 ## About this task
 
-`sn_lg_investigate.ethics_complaints_assignment_group` is a configurable system property that is used to configure default assignment group for ethics complaints raised using [[emp-center-quick-link-config|quick links]] in [[employee-center-landing-page|Employee Center]]. The sys\_id of any group that is protected with the [[ur-landing-limitedaccess|Universal Request]] sensitive role and has fulfillers who can work on ethics complaints is enabled to configure the system property.
+`sn_lg_investigate.ethics_complaints_assignment_group` is a configurable system property that is used to configure default assignment group for ethics complaints raised using quick links in Employee Center. The sys\_id of any group that is protected with the Universal Request sensitive role and has fulfillers who can work on ethics complaints is enabled to configure the system property.
 
 Alternatively, configure the property from [Set up Legal Investigations with HR Service Delivery Employee Relations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/integrate-lsd-hrsd.md).
 
@@ -45,8 +45,3 @@ Alternatively, configure the property from [Set up Legal Investigations with HR 
 
 You can now use the new assignment group to assign ethics complaints.
 
-## Related
-
-- [[emp-center-quick-link-config|Quick links]]
-- [[employee-center-landing-page|Employee Center]]
-- [[ur-landing-limitedaccess|Universal Request]]

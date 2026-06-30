@@ -18,7 +18,7 @@ The TuneUp Your Employee Center Accelerator provides guidance on maintaining and
 
 ## Accelerator overview
 
-TuneUp Your Employee Center provides [[impact-landing-page|Impact]] customers with an assessment of their current Employee Center implementation. Through careful analysis, we offer valuable insights and recommendations to enhance the health of their implementation while providing an opportunity to understand untapped value where enhanced capabilities are not yet deployed. Additionally, this Accelerator equips our customers with essential ServiceNow resources and leading practices guides on how to best increase adoption and usage of Employee Center.
+TuneUp Your Employee Center provides Impact customers with an assessment of their current Employee Center implementation. Through careful analysis, we offer valuable insights and recommendations to enhance the health of their implementation while providing an opportunity to understand untapped value where enhanced capabilities are not yet deployed. Additionally, this Accelerator equips our customers with essential ServiceNow resources and leading practices guides on how to best increase adoption and usage of Employee Center.
 
 For additional information, see [Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-center-landing-page.md).
 
@@ -55,7 +55,7 @@ One or more customer resource is requested. The specific number of resources pro
 |-----------------|----------------|--------|--------|
 |Platform Owner|Responsible for the overall accountability of the ServiceNow platform. Provides leadership and oversight to the System Administrators, ensures team alignment to business strategy and the ServiceNow roadmap, and is actively involved in the overarching governance of the platform.|✓| |
 |System Administrators|Maintains the stability and usability of the ServiceNow platform by performing application maintenance, managing support for cases related to ServiceNow applications, and contributing to ServiceNow software releases by delivering configuration tasks and features.|✓| |
-|UX and OCM Experts|Primary stakeholders for [[user-experience-insights|user experience]] and organizational change management.   | |✓|
+|UX and OCM Experts|Primary stakeholders for user experience and organizational change management.   | |✓|
 |Developers|Writes code for the ServiceNow platform.  | |✓|
 |Other Customer Roles|Other Customer Roles| |✓|
 |Trusted Service Partners|Attends ServiceNow Impact Accelerator coaching session\(s\) to understand leading practices and potentially support customer going forward.| |✓|
@@ -70,7 +70,3 @@ This Impact Accelerator in its entirety or portions of the Impact Accelerator ac
 
 ServiceNow resources are not responsible for implementing recommendations on Customer’s sub-production or production instances.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[user-experience-insights|User Experience]]

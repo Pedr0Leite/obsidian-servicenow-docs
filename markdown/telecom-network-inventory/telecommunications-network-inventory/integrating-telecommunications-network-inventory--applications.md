@@ -14,7 +14,7 @@ breadcrumb: [Telecommunications Network Inventory]
 
 # Integrating Telecommunications Network Inventory with other applications
 
-You can extend the capabilities of the [[telecom-network-inventory|Telecommunications Network Inventory]] application and connect with other departments to assist with problem resolution by integrating with other applications.
+You can extend the capabilities of the Telecommunications Network Inventory application and connect with other departments to assist with problem resolution by integrating with other applications.
 
 -   **[Telecommunications Network Inventory integration with Hardware Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/integration-with-hardware-asset-management.md)**  
 By integrating the Telecommunications Network Inventory application with the Hardware Asset Management \(HAM\) application, you can use an inventory template to create a service request. You can also associate the assets that are available in a stock room to instantiate the equipment.
@@ -23,6 +23,3 @@ With the Order Management for Telecommunications and Media \(OMT\) application, 
 
 **Parent Topic:**[Telecommunications Network Inventory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telecom-network-inventory.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]

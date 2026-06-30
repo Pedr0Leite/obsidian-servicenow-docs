@@ -14,13 +14,10 @@ breadcrumb: [Case and Knowledge Management, HR Service Delivery, Employee Servic
 
 # Explore Case and Knowledge Management
 
-HR [[case-knowledge-management-landing-page|Case and Knowledge Management]] pulls together many HR case related features.
+HR Case and Knowledge Management pulls together many HR case related features.
 
 -   **[Understanding Case and Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_HRServiceAutomation.md)**  
 Case and Knowledge Management for the scoped version of HR benefits your enterprise by automating standard HR processes within your organization that support relationships between employees and the HR department.
 
 **Parent Topic:**[Case and Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/case-knowledge-management-landing-page.md)
 
-## Related
-
-- [[case-knowledge-management-landing-page|Case and Knowledge Management]]

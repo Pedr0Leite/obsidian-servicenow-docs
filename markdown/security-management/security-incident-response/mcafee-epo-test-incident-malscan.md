@@ -14,7 +14,7 @@ breadcrumb: [McAfee ePO integration, Security Incident Response integrations, Se
 
 # Test security incidents to initiate malware scan
 
-After you configure a profile for the [[threat-intelligence-malware|malware]] scan, test the profile and view the security incidents that match the settings of your profile. Preview the scan results on the related lists of a ServiceNow AI Platform [[sir-landing-page|Security Incident Response]] \(SIR\) security incident.
+After you configure a profile for the malware scan, test the profile and view the security incidents that match the settings of your profile. Preview the scan results on the related lists of a ServiceNow AI Platform Security Incident Response \(SIR\) security incident.
 
 ## Before you begin
 
@@ -54,7 +54,7 @@ As a user with the sn\_si.admin role, verify that the profile with the malware s
 
 7.  After you verify that the scan is successfully completed, on the security incident, scroll to view the Related Links and select **Show all Related Lists**.
 
-    The [[threat-event|Threat Event]] Results and Threat Event Details list are displayed as tabs.
+    The Threat Event Results and Threat Event Details list are displayed as tabs.
 
 8.  If the Threat Event Details list is not selected, select it to view the results.
 
@@ -81,8 +81,3 @@ As a user with the sn\_si.admin role, verify that the profile with the malware s
 
 **Next topic:**[Test security incidents and approve requests for the isolate host](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcafee-epo-test-incident-ih.md)
 
-## Related
-
-- [[threat-intelligence-malware|Malware]]
-- [[sir-landing-page|Security Incident Response]]
-- [[threat-event|Threat Event]]

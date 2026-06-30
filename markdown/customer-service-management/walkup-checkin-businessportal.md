@@ -34,7 +34,7 @@ Walk-up check-in enables business users to schedule appointments for in-person s
 
 3.  Schedule an appointment.
 
-    For details, see [[csm-walkup-checkin-online|Schedule appointments or join a queue from the Self Service portals]].
+    For details, see [Schedule appointments or join a queue from the Self Service portals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-walkup-checkin-online.md).
 
 
 **Related topics**  
@@ -42,9 +42,5 @@ Walk-up check-in enables business users to schedule appointments for in-person s
 
 [Schedule appointments or join a queue from the Self Service portals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-walkup-checkin-online.md)
 
-[[use-walkup-experiencce|Using Walk-up Experience]]
+[Using Walk-up Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/use-walkup-experiencce.md)
 
-## Related
-
-- [[csm-walkup-checkin-online|Schedule appointments or join a queue from the Self Service portals]]
-- [[use-walkup-experiencce|Using Walk-up Experience]]

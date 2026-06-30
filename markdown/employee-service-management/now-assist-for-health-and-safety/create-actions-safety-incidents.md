@@ -14,14 +14,14 @@ breadcrumb: [Use agentic workflows, Now Assist for Health and Safety, Health and
 
 # Create actions for safety incidents agentic workflow
 
-Use the **Create actions for safety incidents** agentic workflow to suggest actions automatically for a specific incident and create actions in the [[health-safety-core-workspace|Health and Safety workspace]].
+Use the **Create actions for safety incidents** agentic workflow to suggest actions automatically for a specific incident and create actions in the Health and Safety workspace.
 
 To access the agentic workflow:
 
 1.  Navigate to **All** &gt; **AI Agent Studio** &gt; **Overview**.
 2.  Select **Create actions for safety incidents**.
 
-Safety agents and managers with the \[now\_assist\_panel\_user\] role can view the Now Assist panel. This panel can automatically trigger responses and create actions once an incident is opened. Once the actions are suggested by agentic AI, the safety agents and managers can enter the preferred action number or description. Entering the action number automatically creates that specific action record in the [[health-safety-overview|health and safety]] action-related item in an open incident record.
+Safety agents and managers with the \[now\_assist\_panel\_user\] role can view the Now Assist panel. This panel can automatically trigger responses and create actions once an incident is opened. Once the actions are suggested by agentic AI, the safety agents and managers can enter the preferred action number or description. Entering the action number automatically creates that specific action record in the health and safety action-related item in an open incident record.
 
 For more information on the Now Assist panel, see [Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-overview.md).
 
@@ -44,7 +44,3 @@ The AI agents and tools used for the **Create actions for safety incidents** age
 |----|----|--------------|
 |Add selected safety actions to safety incident|Scripts|Autonomous|
 
-## Related
-
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[health-safety-overview|Health and Safety]]

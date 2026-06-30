@@ -22,7 +22,7 @@ For information on how to implement and use Virtual Agent, see [Virtual Agent](h
 
 Before you can begin using Virtual Agent for your software requests, complete the following prerequisites:
 
--   Activate the [[c_SoftwareAssetMgmt|Software Asset Management]] Professional \(com.snc.samp\) plugin on your ServiceNow instance.
+-   Activate the Software Asset Management Professional \(com.snc.samp\) plugin on your ServiceNow instance.
 
     See [Request Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_RequSoftwareAssetMgmt.md) for more information on how to activate this plugin.
 
@@ -32,7 +32,7 @@ Before you can begin using Virtual Agent for your software requests, complete th
 
 -   Request and install the ITSM Virtual Agent Conversations application from the [ServiceNow Store](https://store.servicenow.com/).
 -   Request and install the ITSM NLU Model for Virtual Agent Conversations application from the [ServiceNow Store](https://store.servicenow.com/).
--   Enable automatic allocation of your software by setting the workflow of the corresponding software catalog items to **[[c_Procurement|Procurement]] Process Flow - Auto allocation enabled**. See [Create or edit a catalog item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_DefineACatalogItem.md) for more information on how to set the workflow for a software catalog item.
+-   Enable automatic allocation of your software by setting the workflow of the corresponding software catalog items to **Procurement Process Flow - Auto allocation enabled**. See [Create or edit a catalog item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_DefineACatalogItem.md) for more information on how to set the workflow for a software catalog item.
 
 ## Software request flow on Virtual Agent
 
@@ -53,7 +53,3 @@ If the corresponding software entitlements do not contain enough active rights a
 
 **Parent Topic:**[Exploring Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/explore-sam-workspace.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[c_Procurement|Procurement]]

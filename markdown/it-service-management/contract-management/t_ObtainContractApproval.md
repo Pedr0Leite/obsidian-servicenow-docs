@@ -26,10 +26,10 @@ After a contract is sent to an approver for review, the approver name cannot be 
 
 ## Procedure
 
-1.  Open the list of [[c_Contracts|contracts]] that are used across your deployment.
+1.  Open the list of contracts that are used across your deployment.
 
     -   If you are using the core UI, navigate to **Contract** &gt; **Contracts** &gt; **All**.
-    -   If you are using the Hardware Asset Workspace, open the [[c_ContractManagement|Contract management]] view and then select the **All contracts** tab.
+    -   If you are using the Hardware Asset Workspace, open the Contract management view and then select the **All contracts** tab.
     -   If you are using the Enterprise Asset Workspace, open the Contract and lease management view and then select the **All contracts** tab.
 2.  Select a contract.
 
@@ -45,7 +45,3 @@ After a contract is sent to an approver for review, the approver name cannot be 
 
 [Contract approval flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/contract-management/contract-approval-workflow.md)
 
-## Related
-
-- [[c_Contracts|Contracts]]
-- [[c_ContractManagement|Contract Management]]

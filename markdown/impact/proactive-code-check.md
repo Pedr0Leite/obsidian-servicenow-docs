@@ -16,7 +16,7 @@ Developers scan update sets for leading practice violations in non-production in
 
 ## Proactive Code Check key features
 
-**Note:** Starting with [[impact-landing-page|Impact]] Zurich version 6.0.8 ServiceNow Store release, Proactive Code Check is being prepared for future deprecation. It will be hidden and no longer installed on new instances but will continue to be supported. For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
+**Note:** Starting with Impact Zurich version 6.0.8 ServiceNow Store release, Proactive Code Check is being prepared for future deprecation. It will be hidden and no longer installed on new instances but will continue to be supported. For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
 
 Proactive Code Check can be used to perform a code review in your instances.
 
@@ -24,7 +24,7 @@ Proactive Code Check can be used to perform a code review in your instances.
 
 -   **Update set scanning**
     -   Scans code and configuration changes against predefined ServiceNow leading practices and compliance standards for the specific update set.
-    -   Detects security vulnerabilities, [[instance-observer-performance|performance]] issues, and coding inefficiencies early in the development lifecycle.
+    -   Detects security vulnerabilities, performance issues, and coding inefficiencies early in the development lifecycle.
     -   Improve code quality, reduce errors, and verify compliance before promoting to production.
 -   **Real-time feedback**
     -   Provides actionable insights and recommendations for resolving identified issues.
@@ -40,7 +40,7 @@ Proactive Code Check can be used to perform a code review in your instances.
 
     Code review reports on update sets in non-production instances can be synced for review in a configured production instance
 
-    View scan results on the [[platform-health-idi|Platform Health]] dashboard
+    View scan results on the Platform Health dashboard
 
 
 ## Proactive Code Check scan categories
@@ -54,23 +54,14 @@ Proactive Code Check performs leading practice checks related to the categories 
 |Security|Measures implementation of protocols across a ServiceNow instance to prevent unauthorized access, data breaches, cyber attacks, and potential vulnerabilities.|
 |Upgradeability|Assesses the ease of enhancing a ServiceNow instance or application with new features, improvements, security patches, or compatibility adjustments.|
 
-**Note:** For the complete list checks performed by a Proactive Code Check scan, see [[proactive-code-check-scan-suite|Proactive Code Check scan suite matrix for the Impact Store Application]].
+**Note:** For the complete list checks performed by a Proactive Code Check scan, see [Proactive Code Check scan suite matrix for the Impact Store Application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/proactive-code-check-scan-suite.md).
 
--   **[[install-proactive-code-check|Use Proactive Code Check for the Impact Store Application]]**  
+-   **[Use Proactive Code Check for the Impact Store Application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/install-proactive-code-check.md)**  
 Developers can identify issues and prevent defects before they are deployed to production.
--   **[[review-address-proactive-code-check-findings|Proactive Code Check analytics for the Impact Store Application]]**  
+-   **[Proactive Code Check analytics for the Impact Store Application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/review-address-proactive-code-check-findings.md)**  
 Platform Owners use Proactive Code Check to track compliance against coding best practices and organizational standards. Owners can review detailed findings and audit the status of issues that were uncovered during the scan. Historical data is available up to six months.
 -   **[Proactive Code Check scan suite matrix for the Impact Store Application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/proactive-code-check-scan-suite.md)**  
 Refer to the Proactive Code Check \(PCC\) scan suite matrix for details on the checks performed during a PCC scan.
 
-**Parent Topic:**[[impact-reference|Impact reference]]
+**Parent Topic:**[Impact reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/impact-reference.md)
 
-## Related
-
-- [[proactive-code-check-scan-suite|Proactive Code Check scan suite matrix for the Impact Store Application]]
-- [[install-proactive-code-check|Use Proactive Code Check for the Impact Store Application]]
-- [[review-address-proactive-code-check-findings|Proactive Code Check analytics for the Impact Store Application]]
-- [[impact-reference|Impact reference]]
-- [[impact-landing-page|Impact]]
-- [[instance-observer-performance|Performance]]
-- [[platform-health-idi|Platform Health]]

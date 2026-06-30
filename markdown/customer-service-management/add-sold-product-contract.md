@@ -12,7 +12,7 @@ breadcrumb: [Sold products, Configure install base, Configure product data, Prod
 
 # Associate sold products with contracts
 
-Capture complete information on a customer’s install base by associating [[sold-product|sold products]] to contracts.
+Capture complete information on a customer’s install base by associating sold products to contracts.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Associate sold products to contracts so that your customer service agents workin
 -   View which products have been sold to the customer under the contract.
 -   Track when sold products were added to the contract, and how long they are covered for.
 
-You can also associate a sold product with a contract from the [[sold-product-form|Sold Product form]].
+You can also associate a sold product with a contract from the Sold Product form.
 
 A sold product can be part of multiple contracts. If a sold product is deleted, it is also deleted from any associated contracts. If a contract is deleted, the sold product remains.
 
@@ -40,7 +40,7 @@ A sold product can be part of multiple contracts. If a sold product is deleted, 
 
     The list of sold products is filtered based on the account.
 
-    Click **Run filter** to see a list of all sold products. You can only add the sold products that belong to the account selected or to the [[c_AccountHierarchy|account hierarchy]].
+    Click **Run filter** to see a list of all sold products. You can only add the sold products that belong to the account selected or to the account hierarchy.
 
 4.  Click **Save**.
 
@@ -48,8 +48,4 @@ A sold product can be part of multiple contracts. If a sold product is deleted, 
 
 6.  Click **Update**.
 
-## Related
 
-- [[sold-product|Sold products]]
-- [[sold-product-form|Sold product form]]
-- [[c_AccountHierarchy|Account hierarchy]]

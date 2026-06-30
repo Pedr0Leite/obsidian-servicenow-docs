@@ -14,14 +14,14 @@ breadcrumb: [Migrate from ITSM Agent Workspace to Service Operations Workspace f
 
 # Configurations and customizations that can be migrated from ITSM Agent workspace to SOW for ITSM
 
-Several configurations and customizations related to various ITSM Agent Workspace features that can be [[migrated-records|migrated]] to SOW for ITSM.
+Several configurations and customizations related to various ITSM Agent Workspace features that can be migrated to SOW for ITSM.
 
 -   **[Migration of UI actions and layouts from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/ui-actions-layouts-migration-itsm-aw-sow.md)**  
-[[migration-from-itsm-aw-sow|Migration from ITSM Agent Workspace to Service Operations Workspace for ITSM]] includes identifying the required tables, identifying the eligible UI actions and layout records for migrations, and the migration process.
+Migration from ITSM Agent Workspace to Service Operations Workspace for ITSM includes identifying the required tables, identifying the eligible UI actions and layout records for migrations, and the migration process.
 -   **[Ribbons migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/ribbons-migration-itsm-aw-sow.md)**  
-Migration of the ribbons from ITSM Agent Workspace to [[sow-landing-page|Service Operations Workspace for ITSM]] includes identifying the required tables, identifying ribbons records for migration, and the migration process.
+Migration of the ribbons from ITSM Agent Workspace to Service Operations Workspace for ITSM includes identifying the required tables, identifying ribbons records for migration, and the migration process.
 -   **[Migration of view rules from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/view-rules-migration-itsm-aw-sow.md)**  
-[[view-rules-migration-itsm-aw-sow|Migration of view rules from ITSM Agent Workspace to Service Operations Workspace for ITSM]] includes identifying the required tables, identifying the view rules for migrations, and the migration process.
+Migration of view rules from ITSM Agent Workspace to Service Operations Workspace for ITSM includes identifying the required tables, identifying the view rules for migrations, and the migration process.
 -   **[New record menu items migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/new-record-menu-items-migration-itsm-aw-sow.md)**  
 Migration of the new record menu items from ITSM Agent Workspace to Service Operations Workspace for ITSM includes identifying the required tables, identifying new record menu items for migrations, and the migration process.
 -   **[Migration of highlighted fields in lists and forms from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/highlighted-fields-lists-forms-migration-itsm-aw-sow.md)**  
@@ -43,9 +43,3 @@ Migration of the field decorators actions from ITSM Agent Workspace to Service O
 
 **Parent Topic:**[Migrate from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/migrate-itsm-agent-workspace-to-sow.md)
 
-## Related
-
-- [[migrated-records|Migrated]]
-- [[migration-from-itsm-aw-sow|Migration from ITSM Agent Workspace to Service Operations Workspace for ITSM]]
-- [[sow-landing-page|Service Operations Workspace for ITSM]]
-- [[view-rules-migration-itsm-aw-sow|Migration of view rules from ITSM Agent Workspace to Service Operations Workspace for ITSM]]

@@ -14,10 +14,7 @@ breadcrumb: [Explore, Advanced Work Assignment, Manage people and work, Conversa
 
 # Management
 
-Configure [[awa-application-landing-page|Advanced Work Assignment]] properties using the Management menu options.
+Configure Advanced Work Assignment properties using the Management menu options.
 
 Only users with awa\_manager privileges can access the Management menu options.
 
-## Related
-
-- [[awa-application-landing-page|Advanced Work Assignment]]

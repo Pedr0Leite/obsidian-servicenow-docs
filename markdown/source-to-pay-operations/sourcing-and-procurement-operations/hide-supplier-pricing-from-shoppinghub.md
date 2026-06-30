@@ -14,7 +14,7 @@ breadcrumb: [Using Shopping Hub, Use, Sourcing and Procurement Operations, Finan
 
 # Hide supplier pricing from ShoppingHub
 
-When creating model categories for grouping your product models, you can decide if [[pricing|pricing]] is to be displayed in ShoppingHub for [[supplier|supplier]] products associated to a particular category.
+When creating model categories for grouping your product models, you can decide if pricing is to be displayed in ShoppingHub for supplier products associated to a particular category.
 
 The pricing that is displayed for supplier products on ShoppingHub is an agreed-upon contractual price between you and the supplier. As an administrator, based on your business requirement, you can decide if this pricing needs to be displayed or hidden in your ShoppingHub catalog for supplier products associated to a particular category. If you decide to hide the pricing, the shipping and taxes involved are also hidden. If there are parent and child categories, the display pricing choice made on the child category overrides its parent.
 
@@ -23,30 +23,30 @@ If pricing is hidden in the model category form for a product category, pricing 
 -   Product information card on the ShoppingHub catalog
 -   Product details or categories or suggestions based on your role landing page
 -   Supplier product card, on both ShoppingHub and Virtual Agent
--   Product header card in your [[shopping-cart|shopping cart]]
+-   Product header card in your shopping cart
 -   Summary section during full checkout and also on Virtual Agent
 -   Quick checkout overlay
 -   Purchase confirmation page after quick and full checkouts
 -   **Total line amount** and **Budget** fields in the My purchases list view, on both desktop and mobile
 -   **Total line amount** in the header, and price fields **Subtotal**, **Tax**, **Shipping**, and **Total line amount** in the purchase section in the Purchase details page, on both desktop and mobile
--   [[activity-stream|Activity stream]] in My purchases
--   **Pre-payment amount** field in the **[[pre-payments|Pre-payments]]** tab on the purchase details page
+-   Activity stream in My purchases
+-   **Pre-payment amount** field in the **Pre-payments** tab on the purchase details page
 -   **Negotiated unit cost** field in the **Additional quotes** tab on the purchase details page
 -   **Total line amount** field in the **Submitted purchases** tab on the purchase details page
 -   Approval to-do in the **To-dos** tab on the purchase details page
 -   **Total line amount** and **Remaining amount** fields in the blanket purchase list view, on mobile
 -   **Total line amount** and **Remaining amount** in the blanket purchase form view header, on mobile
--   **Total line amount** field in the Submitted purchases related list of a blanket [[purchase-order-table|purchase order]], on mobile
+-   **Total line amount** field in the Submitted purchases related list of a blanket purchase order, on mobile
 -   **Negotiated unit cost** and **Total line amount** fields in the Additional quotes related list of a blanket purchase order, on mobile
 -   Confirmation page after completing a select a supplier to-do
 -   Line amount invoiced in invoice acknowledgment
 
-    **Note:** This applies only if you haven't installed the [[shopping-hub-overview|Shopping Hub]] plugin and are still using the Source-to-Pay Common Architecture plugin.
+    **Note:** This applies only if you haven't installed the Shopping Hub plugin and are still using the Source-to-Pay Common Architecture plugin.
 
 -   Invoice amount to review in invoice acknowledgment, on mobile
 -   Price fields **Total amount**, **Amount paid**, and **Remaining balance** in the purchase section in invoice acknowledgment, on mobile
 -   Price fields **Total estimated tax**, **Total estimated shipping**, and **Total amount** in the purchase section in receipt acknowledgment, on mobile
--   Price fields **Subtotal**, **Estimated tax**, **Estimated shipping**, and **Total line amount** in the purchase section in [[milestones|milestones]], on mobile
+-   Price fields **Subtotal**, **Estimated tax**, **Estimated shipping**, and **Total line amount** in the purchase section in milestones, on mobile
 -   **Payout amount** field in the to-do section in milestones, on mobile
 -   Activity stream and purchase summary in My to-dos
 -   Standard search results on Employee Center \(EC\) and Virtual Agent
@@ -63,13 +63,3 @@ Also, if you’re a shopper with store credits allocated to you, you can view th
 
 **Parent Topic:**[Using Shopping Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/use-shoppinghub-portal.md)
 
-## Related
-
-- [[pricing|Pricing]]
-- [[supplier|Supplier]]
-- [[shopping-cart|Shopping cart]]
-- [[activity-stream|Activity stream]]
-- [[pre-payments|Pre-payments]]
-- [[purchase-order-table|Purchase order]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[milestones|Milestones]]

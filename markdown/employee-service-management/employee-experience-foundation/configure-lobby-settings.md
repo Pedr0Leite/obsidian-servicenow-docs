@@ -38,7 +38,7 @@ Role required: sn\_notify\_msteams.admin
 
     The **Lobby Bypass Settings** tab appears once you select the **Override Lobby settings** option.
 
-3.  Select **Audio Conferencing** tab, and then select **[[enable-audio-conferencing|Enable Audio Conferencing]]**option.
+3.  Select **Audio Conferencing** tab, and then select **Enable Audio Conferencing**option.
 
     **Note:** If you have an Microsoft Azure audio conferencing subscription, you must enable this option to enable the users to join the conference call via phone numbers.
 
@@ -55,6 +55,3 @@ Role required: sn\_notify\_msteams.admin
 
 **Parent Topic:**[Configure Notify connector for Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-notify-ms-teams.md)
 
-## Related
-
-- [[enable-audio-conferencing|Enable Audio Conferencing]]

@@ -18,10 +18,10 @@ This solution enables seamless collaboration between sourcing professionals and 
 
 ## Benefits of integrating Contract Management Pro and Sourcing and Procurement Operations
 
-Using Sourcing and Procurement Operations and [[cncore-cmpro-landing-page|Contract Management Pro]] together provides the following benefits:
+Using Sourcing and Procurement Operations and Contract Management Pro together provides the following benefits:
 
 -   Streamline Procurement and Contracts: Seamlessly request and manage contracts directly within the procurement workspace.
--   Mitigate risk to the organization: Ensure contract compliance and consistency with pre-approved templates and proactive [[cncore-obligation-management|obligation management]]
+-   Mitigate risk to the organization: Ensure contract compliance and consistency with pre-approved templates and proactive obligation management
 -   Control spend with contract data: Optimize procurement cost with access to historical metadata through a robust contract repository
 -   Boost legal team productivity: Utilize common contract processes like review and signature to boost productivity.
 -   Reduce manual review work by using generative AI: Use AI to identify missing and non-standard clauses for reducing manual review work
@@ -88,16 +88,16 @@ You can assign your procurement and contracting professionals to these roles as 
 Get started with initiating contract request by completing these tasks:
 
 1.  [Configure Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/configuring-spo.md).
-2.  [[cncore-config-cmpro|Configuring Contract Management Pro]]
+2.  Configuring Contract Management Pro
     -   **[Create a contract type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-create-contract-type.md)**
 
-        [[cncore-create-contract-type|Create a contract type]] for defining different types of contract requests and associate it to a contract model.
+        Create a contract type for defining different types of contract requests and associate it to a contract model.
 
         Role:contract administrator.
 
     -   **[Configure templates for a contract and amendment request in Contract Management Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-document-templates.md)**
 
-        [[cncore-create-contract-template|Create a contract template]] of type .docx that can be used when submitting a contract request to generate a standard contract with predefined content.
+        Create a contract template of type .docx that can be used when submitting a contract request to generate a standard contract with predefined content.
 
         Role:contract configurator.
 
@@ -121,10 +121,3 @@ Get started with initiating contract request by completing these tasks:
 
 3.  [Initiate a contract request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/initiate-contract-request.md).
 
-## Related
-
-- [[cncore-cmpro-landing-page|Contract Management Pro]]
-- [[cncore-obligation-management|Obligation Management]]
-- [[cncore-config-cmpro|Configuring Contract Management Pro]]
-- [[cncore-create-contract-type|Create a contract type]]
-- [[cncore-create-contract-template|Create a contract template]]

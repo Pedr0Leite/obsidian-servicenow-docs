@@ -28,7 +28,7 @@ This is the form that displays after an HR case is created. Configuration of the
 
 1.  Add or remove the fields in the **HR Service Additional Information** related list.
 
-    1.  Navigate to **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **[[hr-service-administration|HR Services]]** &gt; **[[hr-service-configuration|HR Service Configuration]]**.
+    1.  Navigate to **HR Administration** &gt; **HR Services** &gt; **HR Service Configuration**.
 
     2.  Open the HR service.
 
@@ -63,7 +63,7 @@ Click the lock icon to search for a subject person related list you want to appe
 
 2.  Configure the HR case form for the HR Center of Excellence \(COE\) that the HR service is categorized under.
 
-    1.  Navigate to **HR [[case-management-workspace|Case Management]]** &gt; **All HR Cases**, and open an HR case that is part of the same COE as the HR service.
+    1.  Navigate to **HR Case Management** &gt; **All HR Cases**, and open an HR case that is part of the same COE as the HR service.
 
     2.  In the HR case form header, click the menu icon and navigate to **Configure** &gt; **Form Layout**.
 
@@ -80,7 +80,7 @@ Examples on how to configure the HR case form for an HR service.
 
 ### Additional fields for 401\(k\) HR case forms
 
-You are part of an enterprise HR organization using the [[hr-service-delivery|HR Service Delivery]] application. You have several HR services related to 401\(k\) retirement benefits, and you want to add several additional fields to the HR case form, specifically the benefit plan and the list of retirement benefits for the subject person. This way, HR agents can have access to that information when working on that case type. Configuration of the HR case form for an HR service is a two-part process:
+You are part of an enterprise HR organization using the HR Service Delivery application. You have several HR services related to 401\(k\) retirement benefits, and you want to add several additional fields to the HR case form, specifically the benefit plan and the list of retirement benefits for the subject person. This way, HR agents can have access to that information when working on that case type. Configuration of the HR case form for an HR service is a two-part process:
 
 First, you need to add the fields and/or related lists you want to appear on the HR case form for that HR service in the **HR Service Additional Information** related list.
 
@@ -98,13 +98,13 @@ Once the configuration is complete, HR agents that are working on a 401\(k\) cas
 
 ### Requesting an e-signature for an HR document template
 
-You are configuring an HR service to request electronic signatures for HR [[document-templates-overview|document templates]] using [HR e-signature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-e-signature.md). Unlike managed documents or knowledge articles, the HR document template that the signatory will sign is selected on the HR case form. Therefore, you need to add the **PDF Template** field to the HR case form for your HR service. This way, HR agents can select the HR document template that they want the employee to sign when creating that case type.
+You are configuring an HR service to request electronic signatures for HR document templates using [HR e-signature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-e-signature.md). Unlike managed documents or knowledge articles, the HR document template that the signatory will sign is selected on the HR case form. Therefore, you need to add the **PDF Template** field to the HR case form for your HR service. This way, HR agents can select the HR document template that they want the employee to sign when creating that case type.
 
 First, on the HR service form, under the **HR Service Additional Information** related list, add the **PDF Template** field.
 
 \[Omitted image "hr-case-form-config-e-signature-1.png"\] Alt text: Add the PDF Template field to the HR service.
 
-Second, [[search-hr-case|create an HR case]] or open an existing case that is part of the COE that your HR service is categorized under. On the HR case form header, click the menu icon and navigate to **Configure** &gt; **Form Layout**. Make sure that the **PDF Template** field is included under the Selected column.
+Second, create an HR case or open an existing case that is part of the COE that your HR service is categorized under. On the HR case form header, click the menu icon and navigate to **Configure** &gt; **Form Layout**. Make sure that the **PDF Template** field is included under the Selected column.
 
 \[Omitted image "hr-case-form-config-e-signature-2.png"\] Alt text: On the HR case form, add the PDF Template field.
 
@@ -112,12 +112,3 @@ Now, when an HR agent requests an electronic signature for an HR document templa
 
 \[Omitted image "hr-case-form-config-e-signature-3.png"\] Alt text: HR agents can then select an HR document template for the signatory to sign on the HR case form.
 
-## Related
-
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[hr-service-administration|HR services]]
-- [[hr-service-configuration|HR service configuration]]
-- [[case-management-workspace|Case management]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[document-templates-overview|Document Templates]]
-- [[search-hr-case|Create an HR case]]

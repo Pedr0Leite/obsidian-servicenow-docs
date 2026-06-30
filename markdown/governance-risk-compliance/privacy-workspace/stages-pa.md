@@ -35,7 +35,7 @@ In this state, the privacy manager or the privacy analyst, who owns the processi
 
 -   Send privacy assessments.
 -   Update the processing activity **Details** section based on the assessment responses.
--   Assign the processing activity to one of the key stakeholders for the key stakeholders to update the details, the PI-tagged [[information-objects|information objects]], and the key stakeholders.
+-   Assign the processing activity to one of the key stakeholders for the key stakeholders to update the details, the PI-tagged information objects, and the key stakeholders.
 
     **Note:** You can assign the processing activity to those users who have the sn\_privacy.business\_user role.
 
@@ -58,7 +58,7 @@ In this state, the privacy manager or the privacy analyst, who owns the processi
 This is a state to track the processing activity for continuous monitoring​. The indicator functionality is used for continuous monitoring. When the processing activity is in this state, the privacy analyst can move the processing activity back to **Discover** or **Review** state based on the processing activity updates that must be assessed by the privacy analyst or the privacy manager. The following is the list of activities that can be performed on the processing activity form by a privacy manager or the privacy analyst who owns the processing activity.
 
 -   Auto execution of indicator functionality to continuously monitor controls associated with processing activity.
--   Create, [[manage-issues-common-core|manage issues]], and track issues.
+-   Create, manage issues, and track issues.
 
 **Note:** When a new privacy assessment is sent for a processing activity while it is in the **Monitor** state, the system automatically moves the processing activity to the **Discover** state.
 
@@ -68,7 +68,3 @@ This is a state to retire the processing activity when the respective business a
 
 **Parent Topic:**[Uses of a processing activity in Privacy Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/states-of-pa.md)
 
-## Related
-
-- [[information-objects|information objects]]
-- [[manage-issues-common-core|Manage issues]]

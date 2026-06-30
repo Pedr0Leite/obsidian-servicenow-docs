@@ -14,7 +14,7 @@ breadcrumb: [Microsoft Azure Translator Service spoke, Integration with other tr
 
 # Create a credential for the MicrosoftTranslation alias
 
-Authorize actions of [[microsoft-translation-spoke|Microsoft Azure Translator Service spoke]] by creating a credential for the MicrosoftTranslation connection and credential alias.
+Authorize actions of Microsoft Azure Translator Service spoke by creating a credential for the MicrosoftTranslation connection and credential alias.
 
 ## Before you begin
 
@@ -106,6 +106,3 @@ Alias to use the credential.
 
 **Next topic:**[Create a connection for the MicrosoftTranslation alias](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/create-connection-ms-translation.md)
 
-## Related
-
-- [[microsoft-translation-spoke|Microsoft Azure Translator Service spoke]]

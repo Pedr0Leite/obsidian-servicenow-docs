@@ -14,7 +14,7 @@ breadcrumb: [Setting up Granular Delegation, Granular Delegation, Employee Servi
 
 # Create delegation rule categories
 
-Create categories or sets of [[granular-delegation|granular delegation]] rules that make delegating large batches of tasks easy and efficient for your employees.
+Create categories or sets of granular delegation rules that make delegating large batches of tasks easy and efficient for your employees.
 
 ## Before you begin
 
@@ -51,6 +51,3 @@ Delegate assigned tasks for a specific period of time. See [Create a delegate](h
 
 Employees can now delegate their assigned tasks to other employees. See [Delegate on-demand tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/granular-delegation/granular-delegation-use.md).
 
-## Related
-
-- [[granular-delegation|Granular Delegation]]

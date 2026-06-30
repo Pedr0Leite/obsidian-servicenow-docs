@@ -28,7 +28,7 @@ The appointment reminder sends a reminder email and a pre-appointment questionna
 
 1.  To configure the appointment reminder.
 
-    1.  Navigate to **[[hcls-vam|Vaccine Administration Management]]** &gt; **Administration** &gt; **Appointment Configurations**.
+    1.  Navigate to **Vaccine Administration Management** &gt; **Administration** &gt; **Appointment Configurations**.
 
     2.  Open the Schedule Vaccine Appointment record.
 
@@ -61,6 +61,3 @@ The appointment reminder sends a reminder email and a pre-appointment questionna
 
 **Parent Topic:**[Configuring Vaccine Administration Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/vaccine-mgmt-config.md)
 
-## Related
-
-- [[hcls-vam|Vaccine Administration Management]]

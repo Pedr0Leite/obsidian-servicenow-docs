@@ -18,7 +18,7 @@ Review the components that are installed with the application. Components can be
 
 ## Before you begin
 
-Make sure that the [[customer-lifecycle-ops-landing-page|Financial Services Customer Lifecycle Operations]] application is installed. For more information, see [Install Financial Services Business Lifecycle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-customer-lifecycle-operations/install-business-lifecycle.md) and [Install Financial Services Client Lifecycle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-customer-lifecycle-operations/install-client-lifecycle.md).
+Make sure that the Financial Services Customer Lifecycle Operations application is installed. For more information, see [Install Financial Services Business Lifecycle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-customer-lifecycle-operations/install-business-lifecycle.md) and [Install Financial Services Client Lifecycle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-customer-lifecycle-operations/install-client-lifecycle.md).
 
 Role required: sn\_bom\_clo\_b2b.admin or sn\_bom\_clo\_b2c.admin
 
@@ -40,7 +40,7 @@ Description
 
 </td><td>
 
-[[configure-csm-workspace-fso-apps|Configure CSM Configurable Workspace]] to customize your workspace to suit your business needs.
+[Configure CSM Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-csm-workspace-fso-apps.md) to customize your workspace to suit your business needs.
 
 </td></tr><tr><td id="d48718e146">
 
@@ -48,7 +48,7 @@ Description
 
 </td><td>
 
-[[configure-playbooks-fso-apps|Edit or create a new playbook]] using Playbooks.
+[Edit or create a new playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-playbooks-fso-apps.md) using Playbooks.
 
 </td></tr><tr><td id="d48718e168">
 
@@ -56,7 +56,7 @@ Description
 
 </td><td>
 
-[[configure-service-definitions|Configure service definitions]] to enable unique flows and views for Customer Lifecycle Operations service cases and tasks.You can add new case types and configure service definitions for each type.
+[Configure service definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-service-definitions.md) to enable unique flows and views for Customer Lifecycle Operations service cases and tasks.You can add new case types and configure service definitions for each type.
 
 </td></tr><tr><td id="d48718e193">
 
@@ -64,7 +64,7 @@ Description
 
 </td><td>
 
-[[configure-sla-definitions-fso-cases|Configure the installed SLAs]] to configure SLA timings for Customer Lifecycle Operations service cases and tasks.
+[Configure the installed SLAs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-sla-definitions-fso-cases.md) to configure SLA timings for Customer Lifecycle Operations service cases and tasks.
 
 </td></tr><tr><td id="d48718e216">
 
@@ -72,7 +72,7 @@ Description
 
 </td><td>
 
-[[configure-groups-fso|Configure user groups]] for assignment of cases and tasks. You can also assign roles to groups and users.
+[Configure user groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-groups-fso.md) for assignment of cases and tasks. You can also assign roles to groups and users.
 
 </td></tr><tr><td id="d48718e235">
 
@@ -80,7 +80,7 @@ Description
 
 </td><td>
 
-[[configure-assignment-rules-fso-applications|Configure assignment rules]] to identify cases that meet certain conditions and then route those cases to agents.
+[Configure assignment rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-assignment-rules-fso-applications.md) to identify cases that meet certain conditions and then route those cases to agents.
 
 </td></tr><tr><td id="d48718e251">
 
@@ -88,18 +88,7 @@ Description
 
 </td><td>
 
-[[configuring-fso-document-processor|Configure Document Processor]] for document categories, document types, inbound and outbound document rules, and approval rules for document deferments and exceptions.
+[Configure Document Processor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configuring-fso-document-processor.md) for document categories, document types, inbound and outbound document rules, and approval rules for document deferments and exceptions.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[configure-csm-workspace-fso-apps|Configure CSM Configurable Workspace]]
-- [[configure-playbooks-fso-apps|Configure playbooks]]
-- [[configure-service-definitions|Configure service definitions]]
-- [[configure-sla-definitions-fso-cases|Configure SLA definitions]]
-- [[configure-groups-fso|Configure groups]]
-- [[configure-assignment-rules-fso-applications|Configure assignment rules]]
-- [[configuring-fso-document-processor|Configuring Financial Services Operations Document Processor]]
-- [[customer-lifecycle-ops-landing-page|Financial Services Customer Lifecycle Operations]]

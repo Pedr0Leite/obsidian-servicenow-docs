@@ -22,7 +22,7 @@ Role required: sn\_sec\_tisc.analyst
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center**.
 
     Threat Intel Library page is displayed.
 
@@ -30,11 +30,11 @@ Role required: sn\_sec\_tisc.analyst
 
     **Important:**
 
-    -   Any defanging characters will be cleaned as part of parsing and extraction of [[c_Observables|observables]].
+    -   Any defanging characters will be cleaned as part of parsing and extraction of observables.
     -   For this unstructured file format option only URL, domain, file name, hashes, and IP address will be extracted and no other observable types will be extracted for the data import and in case of such type of observables such as registry, directory types, those will be skipped from importing.
 3.  Click **Import from file \(unstructured\)** card.
 
-    **Note:** While importing the [[threat-intel-landing-page|threat intelligence]] data in the supported file formats such as TXT, CSV, STIX 2.x JSON, MISP JSON, or Structured File, the file size is limited to 5 MB.
+    **Note:** While importing the threat intelligence data in the supported file formats such as TXT, CSV, STIX 2.x JSON, MISP JSON, or Structured File, the file size is limited to 5 MB.
 
 4.  On the form, fill in the fields.
 
@@ -152,8 +152,3 @@ Select the taxonomy for the imported data. Using taxonomies, define dictionaries
 
 [Import data using raw text]()
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[c_Observables|Observables]]
-- [[threat-intel-landing-page|Threat Intelligence]]

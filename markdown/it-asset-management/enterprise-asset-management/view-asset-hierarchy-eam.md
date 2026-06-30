@@ -14,7 +14,7 @@ breadcrumb: [Create and manage enterprise assets, Managing enterprise models and
 
 # View the asset hierarchy in the Enterprise Asset Workspace
 
-View the hierarchy details of a multi-component asset in a tree-like format in the [[using-eam-workspace|Enterprise Asset Workspace]].
+View the hierarchy details of a multi-component asset in a tree-like format in the Enterprise Asset Workspace.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_eam.enterprise\_asset\_manager
 
 The Asset hierarchy option is shown only for an asset associated with a parent asset or that has child assets.
 
-The asset hierarchy shows [[c_ReceiveAConsumableAsset|consumable assets]] associated with a parent asset.
+The asset hierarchy shows consumable assets associated with a parent asset.
 
 **Note:** Asset hierarchy is not applicable to Linear assets and Pallets.
 
@@ -44,7 +44,3 @@ The asset hierarchy shows [[c_ReceiveAConsumableAsset|consumable assets]] associ
 
 **Parent Topic:**[Create and manage enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-manage-enterprise-assets.md)
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[c_ReceiveAConsumableAsset|Consumable assets]]

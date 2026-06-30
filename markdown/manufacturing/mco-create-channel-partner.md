@@ -26,7 +26,7 @@ Role required: admin
 
 3.  On the Channel partner form, fill in the fields.
 
-    For a description of the field values, see [[mco-cp-form|Channel partner form]].
+    For a description of the field values, see [Channel partner form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-cp-form.md).
 
 4.  Select **Save**.
 
@@ -36,6 +36,3 @@ Role required: admin
 
 [Create Channel Partner record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-channel-partner-record.md)
 
-## Related
-
-- [[mco-cp-form|Channel partner form]]

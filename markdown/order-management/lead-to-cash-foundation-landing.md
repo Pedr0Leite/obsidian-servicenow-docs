@@ -20,20 +20,11 @@ Select a link from the following table to explore key capabilities that streamli
 
 |Application|Description|
 |-----------|-----------|
-|[[product-catalog-managment|Product Catalog Management]]|Organize and maintain a unified catalog of products and services.|
-|[[pricing-management|Pricing Management]]|Manage price lists, discounts, and [[rules_101|rules]] to support dynamic and region-specific pricing.|
-|[[lead-to-cash|Lead to Cash Core]]|Enable seamless integration of lead generation, quoting, [[explore-order-management|order management]], and fulfillment.|
+|[Product Catalog Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/product-catalog-managment.md)|Organize and maintain a unified catalog of products and services.|
+|[Pricing Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/pricing-management.md)|Manage price lists, discounts, and rules to support dynamic and region-specific pricing.|
+|[Lead to Cash Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-to-cash.md)|Enable seamless integration of lead generation, quoting, order management, and fulfillment.|
 
 ## What to explore next
 
-Configure the lead-to-cash foundation applications to enable core capabilities for using [[order-mgt-overview|Sales Customer Relationship Management]]. For more information, see [[configuring-lead-to-cash-foundation|Configuring the lead-to-cash foundation applications]].
+Configure the lead-to-cash foundation applications to enable core capabilities for using Sales Customer Relationship Management. For more information, see [Configuring the lead-to-cash foundation applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configuring-lead-to-cash-foundation.md).
 
-## Related
-
-- [[product-catalog-managment|Product Catalog Management]]
-- [[pricing-management|Pricing Management]]
-- [[lead-to-cash|Lead to Cash Core]]
-- [[configuring-lead-to-cash-foundation|Configuring the lead-to-cash foundation applications]]
-- [[rules_101|Rules]]
-- [[explore-order-management|Order management]]
-- [[order-mgt-overview|Sales Customer Relationship Management]]

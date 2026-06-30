@@ -14,7 +14,7 @@ breadcrumb: [Types of catalog items, Explore, Service Catalog, Manage service ca
 
 # Add a catalog item
 
-[[service-catalog|Service Catalog]] enables you to add a catalog item to multiple catalogs and categories.
+Service Catalog enables you to add a catalog item to multiple catalogs and categories.
 
 ## Before you begin
 
@@ -33,16 +33,11 @@ Within an item:
 
 1.  To assign an item to another category or catalog, enter the new details in the appropriate related list.
 
-    **Note:** The values in these lists override the values of the **Catalogs** **** and **Category** fields in the [[catalog-item-form|catalog item form]]. If you change values for either related list, these changes automatically update the values in those fields.
+    **Note:** The values in these lists override the values of the **Catalogs** **** and **Category** fields in the catalog item form. If you change values for either related list, these changes automatically update the values in those fields.
 
 
 -   **[Share catalog items across catalogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_ShareCatalogItemsAcrossCatalogs.md)**  
-You can share a catalog item, enabling users to order that item from different catalogs. For example, you can share a [[password-reset-landing-page|Password Reset]] item across catalogs serving different teams.
+You can share a catalog item, enabling users to order that item from different catalogs. For example, you can share a Password Reset item across catalogs serving different teams.
 
 **Parent Topic:**[Types of catalog items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/r_ExtendedCatalogItemFunctions.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[catalog-item-form|Catalog Item form]]
-- [[password-reset-landing-page|Password Reset]]

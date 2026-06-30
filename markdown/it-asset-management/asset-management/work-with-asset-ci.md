@@ -17,7 +17,7 @@ breadcrumb: [Use, Asset Management, IT Asset Management]
 Asset and configuration item \(CI\) management refers to creating assets, setting appropriate states and substates, synchronizing assets and CIs, managing consumables, and retiring assets.
 
 -   **[Create assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/t_CreatingAssets.md)**  
-Create hardware, software, consumable, bundle, pallet, mobile, and facility assets using the Core UI or the [[using-ham-workspace|Hardware Asset Workspace]].
+Create hardware, software, consumable, bundle, pallet, mobile, and facility assets using the Core UI or the Hardware Asset Workspace.
 -   **[Retire assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/t_RetiringAssets.md)**  
 You can retire an asset at any time.
 -   **[Delete assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/t_DeletingAssets.md)**  
@@ -50,6 +50,3 @@ Map the asset **State** and **Substate** fields to the **CI Hardware Status** fi
 
 [Use Organization Management]()
 
-## Related
-
-- [[using-ham-workspace|Hardware Asset Workspace]]

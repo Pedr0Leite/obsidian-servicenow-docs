@@ -14,7 +14,7 @@ breadcrumb: [TPRM with Policy and Compliance Management, Integrate, Third-party 
 
 # Manually add a control objective to a question
 
-If you’re using both [[r_PolicyComplianceMgmt|Policy and Compliance Management]] and Third-party Risk Management, you can associate control objectives and controls with questions. Controls can be marked as compliant or non-compliant based on the response to the question.
+If you’re using both Policy and Compliance Management and Third-party Risk Management, you can associate control objectives and controls with questions. Controls can be marked as compliant or non-compliant based on the response to the question.
 
 ## Before you begin
 
@@ -52,7 +52,7 @@ To understand the difference between a control objective and a control, see [Str
 
 
 -   **[Control objectives form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-control-objective-form.md)**  
-Use the [[tprm-control-objective-form|control objectives form]] to capture all the information that you need to associate a control objective with a question using the Third-party Risk Management application.
+Use the control objectives form to capture all the information that you need to associate a control objective with a question using the Third-party Risk Management application.
 
 **Parent Topic:**[Integrating Third-party Risk Management with GRC: Policy and Compliance Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/pc-assessment-integration.md)
 
@@ -67,7 +67,3 @@ Use the [[tprm-control-objective-form|control objectives form]] to capture all t
 
 [Create new control form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-control-record-form.md)
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[tprm-control-objective-form|Control objectives form]]

@@ -16,21 +16,21 @@ breadcrumb: [Hardening settings, Platform Security]
 
 The error handling and logging category addresses the quality and verbosity of logged information exposed to stakeholders.
 
-This includes ensuring [[logs|logs]] and error messages do not collect sensitive information, correctly protect data according to classification and have an appropriate lifetime. Additionally, this category relates to appropriate error handling and not revealing sensitive errors to end [[users|users]], such as verbose stack traces for unhandled exceptions with security implications.
+This includes ensuring logs and error messages do not collect sensitive information, correctly protect data according to classification and have an appropriate lifetime. Additionally, this category relates to appropriate error handling and not revealing sensitive errors to end users, such as verbose stack traces for unhandled exceptions with security implications.
 
 -   **[Disable logger for low privilege users in script sandbox](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-glide-security-logger-no-loggining-for-sandbox.md)**  
 Manage Glide System's ability to log scripts being executed in the sandbox environment.
 -   **[Disable secure cookie debugging](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-disable-secure-cookie-debugging.md)**  
 Manage the log messages related to cookies in your instance.
 -   **[Disable SQL error messages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-disabling-sql-error-messages.md)**  
-Use the **glide.db.loguser** property to [[sc-disabling-sql-error-messages|disable SQL error messages]] from rendering in a browser.
+Use the **glide.db.loguser** property to disable SQL error messages from rendering in a browser.
 -   **[Enable Identity and Access Audit Tool](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-enable-identity-and-access-audit-tool.md)**  
-Use [[identity-audit|Identity and Access Audit]] to track changes to user accounts, groups, and roles.
+Use Identity and Access Audit to track changes to user accounts, groups, and roles.
 -   **[Enable MID audit log](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-enable-mid-audit-log-plugin-applicability-mid-server.md)**  
 The MID Server command audit log records details such as the command name, command hash, name of credential used, and execution status.
 -   **[Enable protected tables plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-enable-protected-tables-plugin.md)**  
 Use the **com.glide.security.protected\_table.enabled** property to prevent higher privilege users from tampering with log tables.
--   **[Log all outbound http [[c_requestAPI|request]] fields \[Removed in [[sec-center-v2|Security Center]] v1.3.2\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-log-all-outbound-http-request-fields.md)**  
+-   **[Log all outbound http request fields \[Removed in Security Center v1.3.2\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-log-all-outbound-http-request-fields.md)**  
 Configure the **glide.outbound\_http.security.log.allow.all.fields** property to false to prevent sensitive Outbound HTTP fields from being logged in plain text.
 -   **[Log html sanitization \[Removed in Security Center 2.0\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-log-html-sanitization.md)**  
 Configure **glide.html\_sanitize.discarded\_log.enable** property to determine if HTML sanitization events will be logged in your instance.
@@ -49,11 +49,3 @@ Configure this property to control whether verbose SQL error messages are displa
 
 **Parent Topic:**[Hardening settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/security-hardening-settings.md)
 
-## Related
-
-- [[logs|Logs]]
-- [[users|Users]]
-- [[sc-disabling-sql-error-messages|Disable SQL error messages]]
-- [[identity-audit|Identity and Access Audit]]
-- [[c_requestAPI|request]]
-- [[sec-center-v2|Security Center]]

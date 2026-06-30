@@ -14,7 +14,7 @@ breadcrumb: [MID-less log streaming, MID-less integrations, Set up integrations 
 
 # Set up log streaming via ITOM Gateway for Health Log Analytics
 
-Set up log streaming via ITOM Gateway to enable [[hla-landing-page|Health Log Analytics]] \(HLA\) to receive log data directly from external sources without a MID Server.
+Set up log streaming via ITOM Gateway to enable Health Log Analytics \(HLA\) to receive log data directly from external sources without a MID Server.
 
 ## Before you begin
 
@@ -75,6 +75,3 @@ Supported log sources include [AWS Firehose](https://raw.githubusercontent.com/S
 
 **Parent Topic:**[Set up Health Log Analytics on your ServiceNow instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-implement.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

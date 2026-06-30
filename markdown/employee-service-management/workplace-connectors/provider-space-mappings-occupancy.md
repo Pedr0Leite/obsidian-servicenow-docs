@@ -22,11 +22,11 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-connectors-landing-page|Workplace Connectors]]** &gt; **Administration** &gt; **Provider Space Mapping**.
+1.  Navigate to **All** &gt; **Workplace Connectors** &gt; **Administration** &gt; **Provider Space Mapping**.
 
     The location data is mapped with the external Ids of the provider. For example, Metrikus occupancy data using the External Ids. The location hierarchy is shown for the spaces or locations that you selected in the [Provider Connector Configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/provider-connector-config-occupancy.md) table.
 
-    \[Omitted image "wsd-provider-space-mappings.png"\] Alt text: Provider space Mappings table showing mapped [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] spaces with external IDs provided by Metrikus occupancy sensor.
+    \[Omitted image "wsd-provider-space-mappings.png"\] Alt text: Provider space Mappings table showing mapped Workplace Service Delivery spaces with external IDs provided by Metrikus occupancy sensor.
 
 2.  To create a provider space mapping records, select **New**.
 
@@ -84,7 +84,3 @@ Option to show the list of all connectors or sensor data that the provider suppo
 
 **Next topic:**[Retrieving Action Configurations data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/actions-configurations-occupancy.md)
 
-## Related
-
-- [[workplace-connectors-landing-page|Workplace Connectors]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]

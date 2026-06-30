@@ -13,13 +13,13 @@ breadcrumb: [Employee Center for OT, Operational Technology]
 
 # Exploring the Employee Center for OT
 
-The Employee Center for [[operational-technology-overview|Operational Technology]] \(OT\) is a central location in the Employee Center where you can submit requests for industrial issues.
+The Employee Center for Operational Technology \(OT\) is a central location in the Employee Center where you can submit requests for industrial issues.
 
 ## Employee Center for OT overview
 
-The [[ot-employee-portal-landing|Employee Center for OT]] provides you with self-service options to deflect issues, and helps drive productivity and satisfaction by providing simple and immediate access to different resources that can help you manage your OT system. You can use the Employee Center for OT for the following:
+The Employee Center for OT provides you with self-service options to deflect issues, and helps drive productivity and satisfaction by providing simple and immediate access to different resources that can help you manage your OT system. You can use the Employee Center for OT for the following:
 
--   [[report-ot-incident|Report an OT incident]] with an OT incident role
+-   Report an OT incident with an OT incident role
 -   Search for knowledge articles
 
 The Employee Center for OT is available in the existing Employee Center.
@@ -41,16 +41,8 @@ You can access the Employee Center for OT on both the desktop and the Now Mobile
 
 ## What to explore next
 
-To learn more about configuring and [[using-ot-employee-portal|using the Employee Center for OT]], see:
+To learn more about configuring and using the Employee Center for OT, see:
 
--   [[configuring-ot-employee-portal|Configuring the Employee Center for OT]]
--   [[report-ot-incident-in-ot-employee-portal|Report an OT incident in the Employee Center for OT]]
+-   [Configuring the Employee Center for OT](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/configuring-ot-employee-portal.md)
+-   [Report an OT incident in the Employee Center for OT](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/report-ot-incident-in-ot-employee-portal.md)
 
-## Related
-
-- [[configuring-ot-employee-portal|Configuring the Employee Center for OT]]
-- [[report-ot-incident-in-ot-employee-portal|Report an OT incident in the Employee Center for OT]]
-- [[operational-technology-overview|Operational Technology]]
-- [[ot-employee-portal-landing|Employee Center for OT]]
-- [[report-ot-incident|Report an OT incident]]
-- [[using-ot-employee-portal|Using the Employee Center for OT]]

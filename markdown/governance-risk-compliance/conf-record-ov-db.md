@@ -36,8 +36,6 @@ Role required: sn\_bcm.admin
 
     The report displays only the records that belong to the current record. For example, if 13 activated plans exist in the system but only 2 are linked to the current crisis event, the report shows 2. Selecting the visualization drills through to the filtered list of those records.
 
-    Repeat these steps for each record type — [[crisis-management-uib|Crisis events]], Business Impact Analyses, and Plans — to add overview dashboards across all major BCM record pages.
+    Repeat these steps for each record type — Crisis events, Business Impact Analyses, and Plans — to add overview dashboards across all major BCM record pages.
 
-## Related
 
-- [[crisis-management-uib|Crisis events]]

@@ -15,9 +15,9 @@ breadcrumb: [Reference, Now Assist in Document Intelligence, Enable AI experienc
 
 # Languages supported by Now Assist in Document Intelligence
 
-[[docintel-nowassist-landing|Now Assist in Document Intelligence]] supports text in multiple languages.
+Now Assist in Document Intelligence supports text in multiple languages.
 
-For text-based files, the [[platform-now-assist-landing|Now Assist]] recognizes any language supported by the selected or default model, as described in the model card for the LLM. For more information on LLMs, see [Large language models used by Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/llms-now-assist-document-intelligence.md).
+For text-based files, the Now Assist recognizes any language supported by the selected or default model, as described in the model card for the LLM. For more information on LLMs, see [Large language models used by Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/llms-now-assist-document-intelligence.md).
 
 For image files that need optical character recognition \(OCR\) to detect the text in them, OCR models are used to support different language groups. The language selected during use case setup helps the OCR model to detect text in the images. For more information, see [Set up a use case for Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/set-up-use-case-for-now-assist-document-intelligence.md).
 
@@ -43,14 +43,9 @@ The following table lists the available OCR models.
 
 [Field types in Now Assist in Document Intelligence]()
 
-[Now Assist in [[document-intelligence-landing|Document Intelligence]] forms]()
+[Now Assist in Document Intelligence forms]()
 
 [Limitations in Now Assist in Document Intelligence]()
 
 [Large language models used by Now Assist in Document Intelligence]()
 
-## Related
-
-- [[docintel-nowassist-landing|Now Assist in Document Intelligence]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[document-intelligence-landing|Document Intelligence]]

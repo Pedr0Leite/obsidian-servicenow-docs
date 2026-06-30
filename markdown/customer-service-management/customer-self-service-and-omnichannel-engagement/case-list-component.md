@@ -14,7 +14,7 @@ breadcrumb: [Configure web components, Web Embeddables, Set up self-service, Con
 
 # Case list component
 
-Display a comprehensive list of multiple cases along with their key details to help you manage and act on any case. Once you select any case, you can see the details of the case in the [[case-view-web-component|Case View component]].
+Display a comprehensive list of multiple cases along with their key details to help you manage and act on any case. Once you select any case, you can see the details of the case in the Case View component.
 
 Each case in the case list can include details such as the case number, the customer's name, short description, status, and opened. You can also add other columns using component properties.
 
@@ -22,6 +22,3 @@ Each case in the case list can include details such as the case number, the cust
 
 \[Omitted image "we-case-list-comp.png"\] Alt text: Case list component instance displaying list of cases in the Preview tab.
 
-## Related
-
-- [[case-view-web-component|Case view component]]

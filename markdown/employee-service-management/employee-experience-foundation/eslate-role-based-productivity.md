@@ -15,7 +15,7 @@ breadcrumb: [Employee Slate introduction, Employee Slate, Unified Employee Exper
 
 # Key user roles and personas
 
-[[employee-slate-landing-page|Employee Slate]] provides tailored experiences for everyday employees, content managers, and administrators.
+Employee Slate provides tailored experiences for everyday employees, content managers, and administrators.
 
 Employee Slate serves different categories of employees with experiences that match their work routines.
 
@@ -47,7 +47,7 @@ From the moment you sign in to the moment the task is done, everything runs from
 |Ask|Ask a question in natural language to Moveworks or Now Assist chat.|
 |Discover|Find answers across enterprise knowledge sources, such as SharePoint, Drive, and Slack.|
 |Act|Submit catalog requests through the conversational catalog without leaving the chat.|
-|Track|View approvals, tasks, and updates in one timeline in [[emp-slate-inbox|Tasks and requests]].|
+|Track|View approvals, tasks, and updates in one timeline in Tasks and requests.|
 |Stay current|Receive targeted notifications and announcements across web and mobile browser.|
 
 For more information, see [Employee Slate capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/eslate-capabilities-common.md) and [Moveworks AI assistant capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/empworks-moveworks-capabilities.md).
@@ -61,7 +61,7 @@ Draft announcements with conversational AI and target the right employees by rol
 |Action|Responsibility|
 |------|--------------|
 |Author|Draft announcements with conversational AI assistance.|
-|Target|Segment [[ecpro-audience|audiences]] by role, location, or group.|
+|Target|Segment audiences by role, location, or group.|
 |Publish|Deliver across web, mobile, Microsoft Teams, and Slack at once.|
 |Engage|Let AI field follow-up questions inline with the message.|
 |Measure|Review the reach, reads, and sentiment from communications analytics.|
@@ -69,8 +69,3 @@ Draft announcements with conversational AI and target the right employees by rol
 
 For more information, see [Employee communications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/eslate-employee-comms.md).
 
-## Related
-
-- [[employee-slate-landing-page|Employee Slate]]
-- [[emp-slate-inbox|Tasks and requests]]
-- [[ecpro-audience|Audiences]]

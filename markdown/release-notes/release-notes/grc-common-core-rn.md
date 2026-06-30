@@ -70,8 +70,5 @@ See [Common Governance, Risk, and Compliance features](https://raw.githubusercon
 
 Install Integrated Risk Management by requesting it from the ServiceNow Store. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
-**Parent Topic:**[[grc-rn-landing|Governance, Risk, and Compliance release notes]]
+**Parent Topic:**[Governance, Risk, and Compliance release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/grc-rn-landing.md)
 
-## Related
-
-- [[grc-rn-landing|Governance, Risk, and Compliance release notes]]

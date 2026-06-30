@@ -26,13 +26,13 @@ The Request elevated access catalog item is available only to the secondary cont
 
 ## Procedure
 
-1.  Navigate to the [[supplier-central|Supplier Collaboration Portal]] home page by accessing your instance URL and adding a /supplier suffix.
+1.  Navigate to the Supplier Collaboration Portal home page by accessing your instance URL and adding a /supplier suffix.
 
     For example, `https://example.com/supplier`.
 
-2.  Select the [[supplier|supplier]] from the **My Company** drop-down list of suppliers associated with your profile.
+2.  Select the supplier from the **My Company** drop-down list of suppliers associated with your profile.
 
-    **Important:** The list of suppliers under **My Company** is available from the Xanadu December 2024 release onwards, only if **M2M mapping between [[supplier-contact|supplier contact]] and suppliers** is enabled.
+    **Important:** The list of suppliers under **My Company** is available from the Xanadu December 2024 release onwards, only if **M2M mapping between supplier contact and suppliers** is enabled.
 
 3.  In the portal header, select **Raise a request**.
 
@@ -87,8 +87,3 @@ The Request elevated access catalog item is available only to the secondary cont
 
 [Raising requests from the Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supp-catalog-req.md)
 
-## Related
-
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[supplier|Supplier]]
-- [[supplier-contact|Supplier contact]]

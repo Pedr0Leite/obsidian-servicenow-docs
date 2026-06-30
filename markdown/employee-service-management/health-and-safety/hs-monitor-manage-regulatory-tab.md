@@ -30,7 +30,7 @@ The regulatory tab shows the conformance status through the regulatory list time
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[health-safety-overview|Health and Safety]]** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
 2.  Select **Environmental Management** \(\[Omitted image "icon-hs-envt-mgmt.png"\] Alt text: environmental management\) icon.
 
@@ -79,7 +79,3 @@ The regulatory tab shows the conformance status through the regulatory list time
 
 **Parent Topic:**[Chemical management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-using-chemical-management.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]

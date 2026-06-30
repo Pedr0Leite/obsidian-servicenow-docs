@@ -18,7 +18,7 @@ The processing activity overview page provides the privacy risk and compliance p
 
 The vertical layout of a processing activity provides a structured, top-down view that presents information in a clear and sequential manner. This design facilitates an intuitive understanding of the data processing lifecycle by visually representing each step of the workflow in a linear progression. You can easily trace the flow of information from initiation through to completion, enabling better insight into how personal data is collected, used, shared, and retained. This layout supports streamlined navigation and improves the ability to identify key elements and dependencies within the processing activity, enhancing both usability and compliance oversight.
 
-\[Omitted image "processing-activity-prm-hr-onboarding-sample.png"\] Alt text: Overview of the reports on a processing activity in [[privacy-management|Privacy management]].
+\[Omitted image "processing-activity-prm-hr-onboarding-sample.png"\] Alt text: Overview of the reports on a processing activity in Privacy management.
 
 ## Required roles
 
@@ -49,12 +49,12 @@ The processing activity overview page is organized into six sections.
 |Title|Description|
 |-----|-----------|
 |Risk posture|Residual risk score of the processing activity, along with the inherent risk level and control effectiveness.|
-|Risk heatmap|Distribution of [[ropa-record|processing activities]] by residual/inherent risk and control effectiveness levels. You can filter by risk classification.|
+|Risk heatmap|Distribution of processing activities by residual/inherent risk and control effectiveness levels. You can filter by risk classification.|
 
 |Title|Description|
 |-----|-----------|
-|Risk assessments|Number of [[risk-assessments|risk assessments]] by state, including counts for open, overdue, and due in 7 days. You can filter by RAM template.|
-|Privacy assessments|Number of privacy assessments by state, including counts for open, overdue, and due in 7 days. You can filter by available [[airc-assessment-templates|assessment templates]].|
+|Risk assessments|Number of risk assessments by state, including counts for open, overdue, and due in 7 days. You can filter by RAM template.|
+|Privacy assessments|Number of privacy assessments by state, including counts for open, overdue, and due in 7 days. You can filter by available assessment templates.|
 
 |Title|Description|
 |-----|-----------|
@@ -69,9 +69,3 @@ The processing activity overview page is organized into six sections.
 
 **Parent Topic:**[Reporting for Privacy Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/reporting-prm.md)
 
-## Related
-
-- [[privacy-management|privacy management]]
-- [[ropa-record|Processing activities]]
-- [[risk-assessments|risk assessments]]
-- [[airc-assessment-templates|Assessment templates]]

@@ -24,12 +24,12 @@ Role required: sn\_grc\_reg\_change.user
 
 You can initiate one of the following assessments:
 
--   Regulatory assessment: Uses the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]. A regulatory assessment is used to assess the potential effects of new or updated regulations before the regulations are finalized or implemented.
+-   Regulatory assessment: Uses the Smart Assessment Engine. A regulatory assessment is used to assess the potential effects of new or updated regulations before the regulations are finalized or implemented.
 -   Risk assessment: Uses the classic risk assessment. A risk-based approach is used to identify and address both direct and indirect impacts.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[reg-change-mgmt-landing-page|Regulatory Change Management]]** &gt; **Compliance Workspace** &gt; **Lists** &gt; **[[list-view-of-reg-alerts|Regulatory Alerts]]**.
+1.  Navigate to **All** &gt; **Regulatory Change Management** &gt; **Compliance Workspace** &gt; **Lists** &gt; **Regulatory Alerts**.
 
 2.  Select the regulatory alert that you want to assess.
 
@@ -59,11 +59,6 @@ You can initiate one of the following assessments:
 
         Ensure that the entity owners who are the risk assessors have the sn\_risk\_advanced.ara\_assessor role.
 
-        In the [[risk-assessments|Risk assessments]] related list in the regulatory alert record, the new impact assessments are listed.
+        In the Risk assessments related list in the regulatory alert record, the new impact assessments are listed.
 
-## Related
 
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]
-- [[list-view-of-reg-alerts|Regulatory alerts]]
-- [[risk-assessments|risk assessments]]

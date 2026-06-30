@@ -35,7 +35,7 @@ Other document types, for example, .zip or .exe files, are automatically downloa
 
 **Note:**
 
-You can only download PDF [[attachments-configurable-workspace|attachments]] with in the document.
+You can only download PDF attachments with in the document.
 
 The following table describes the icons used in Document Viewer.
 
@@ -50,16 +50,16 @@ The following table describes the icons used in Document Viewer.
 |\[Omitted image "IconDocViewerFitWidth.png"\] Alt text: Icon to increase the page display to full width|Increase the page to the full width of Document Viewer.|
 |\[Omitted image "IconDocViewerSearch.png"\] Alt text: Search bar with arrows to toggle to the next search result|Search for keywords in the document. Use the arrows to toggle to the next search result.|
 
--   **[[enable-document-viewer|Enable Document Viewer]]**  
+-   **[Enable Document Viewer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/enable-document-viewer.md)**  
 Enable Document Viewer to view documents directly rather than download them to view them in their native applications.
--   **[[doc-viewer-plugins|Document Viewer plugins]]**  
+-   **[Document Viewer plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/doc-viewer-plugins.md)**  
 With Document Viewer, you can view documents directly in the ServiceNow Platform rather than having to download them. Two new plugins enhance the experience and provide more options for document viewing. You can collaborate with other people, copy, delete, restore, and view version history directly in a ServiceNow instance.
--   **[[view-attachment-doc-viewer|View attachments with Document Viewer]]**  
+-   **[View attachments with Document Viewer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/view-attachment-doc-viewer.md)**  
 View documents within the platform using Document Viewer rather than having to download them to your own file system.
--   **[[disable-doc-viewer|Disable Document Viewer]]**  
+-   **[Disable Document Viewer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/disable-doc-viewer.md)**  
 Disable Document Viewer at the instance level to disable it or at table level to disable it for specific tables within the instance.
 
-**Parent Topic:**[[c_UsingForms|Forms in the classic environment]]
+**Parent Topic:**[Forms in the classic environment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_UsingForms.md)
 
 **Related topics**  
 
@@ -68,11 +68,3 @@ Disable Document Viewer at the instance level to disable it or at table level to
 
 [Enable Document Viewer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/enable-document-viewer.md)
 
-## Related
-
-- [[enable-document-viewer|Enable Document Viewer]]
-- [[doc-viewer-plugins|Document Viewer plugins]]
-- [[view-attachment-doc-viewer|View attachments with Document Viewer]]
-- [[disable-doc-viewer|Disable Document Viewer]]
-- [[c_UsingForms|Forms in the classic environment]]
-- [[attachments-configurable-workspace|Attachments]]

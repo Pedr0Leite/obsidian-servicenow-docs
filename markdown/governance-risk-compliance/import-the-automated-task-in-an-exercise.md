@@ -22,13 +22,13 @@ Role required: sn\_bcm.planner, sn\_bcm.program\_manager
 
 1.  Navigate to **Workspaces** &gt; **Business Continuity Workspace**.
 
-2.  In the [[list-view-uib-ws|List view]], navigate to **[[exercise-management-uib|Exercises]]** &gt; **Pending** and select **New**.
+2.  In the List view, navigate to **Exercises** &gt; **Pending** and select **New**.
 
     The **Create New Event** form is displayed.
 
 3.  Fill in the required fields in the **Details** tab.
 
-    For more information on the fields, see [[create-new-event-task-form-uib-ws|Create Event Task form]].
+    For more information on the fields, see [Create Event Task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-new-event-task-form-uib-ws.md).
 
 4.  Select the plan associated with the event from the Planning list in the Workspace view.
 
@@ -52,11 +52,5 @@ Role required: sn\_bcm.planner, sn\_bcm.program\_manager
     Plan activation and task copying: When a plan is activated during an event, its associated recovery tasks are copied into event tasks. This includes the asset recovery level details. If the recovery progress is already complete, the **View progress** button may not be visible. The recovery tasks from the original plan are accurately replicated in the event tasks, maintaining the same step sequence. For instance, if steps 2, 3, and 4 were defined in the plan, they are copied over to the event tasks in the same order.
 
 
-**Parent Topic:**[[performing-tasks-to-manage-exercise-events|Structured workflows for Exercises]]
+**Parent Topic:**[Structured workflows for Exercises](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/performing-tasks-to-manage-exercise-events.md)
 
-## Related
-
-- [[create-new-event-task-form-uib-ws|Create Event Task form]]
-- [[performing-tasks-to-manage-exercise-events|Structured workflows for Exercises]]
-- [[list-view-uib-ws|List view]]
-- [[exercise-management-uib|Exercises]]

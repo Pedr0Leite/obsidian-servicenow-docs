@@ -26,7 +26,7 @@ Role required: evt\_mgmt\_admin
 
 To construct the required condition statement, you can use event fields as well as additional fields that are defined in the **Additional Information** field of the event. Use these fields to configure conditions that can exclude events. Alternatively, you can filter incoming events to ensure that only those events that meet the required conditions are included.
 
-**Note:** [[create-event-rules|Event rules]] filter is case-sensitive.
+**Note:** Event rules filter is case-sensitive.
 
 While working in the Event Filter tab:
 
@@ -42,7 +42,7 @@ While working in the Event Filter tab:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Rules** &gt; **Event Rules**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Rules** &gt; **Event Rules**.
 
 2.  Click **New** or open an event rule.
 
@@ -94,7 +94,3 @@ Specify the required time conditions, for example, anytime after yesterday.
 
 [Set a threshold to suppress alert generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMISetThresholdEvent.md)
 
-## Related
-
-- [[create-event-rules|Event rules]]
-- [[c_EM|Event Management]]

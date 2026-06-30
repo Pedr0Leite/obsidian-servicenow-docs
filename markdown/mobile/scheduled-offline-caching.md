@@ -22,7 +22,7 @@ To enable and configure scheduled offline caching, the Agent Schedule plugin \[c
 
 For mobile clients other than Mobile Agent, verify that an entry in offline download schedule \(sys\_sg\_offline\_download\_schedule\) exists for the client type, for example, Request. This entry specifies the table that has the offline download schedules for the agents or technicians. Mobile uses the schedule from this table for scheduling offline cache generation. To populate schedules for each user, a scheduler script can be used like in Field Service Mobile.
 
-For the [[mobile-experience|Mobile Agent app]], the entry is created when the plugin is activated. After activating the plugin, you must create work schedules for the agents or technicians to enable users to automatically receive scheduled offline caches. This can be done directly through the Agent Work Schedules \[agent\_work\_schedule\] table. For more information on how to create schedules through this table, see [Create a work schedule for an agent or technician](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-agent-work-schedule.md).
+For the Mobile Agent app, the entry is created when the plugin is activated. After activating the plugin, you must create work schedules for the agents or technicians to enable users to automatically receive scheduled offline caches. This can be done directly through the Agent Work Schedules \[agent\_work\_schedule\] table. For more information on how to create schedules through this table, see [Create a work schedule for an agent or technician](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-agent-work-schedule.md).
 
 Based on the records from the Agent Work Schedules table, your instance runs background scheduled jobs that create schedules in the Agent Daily Schedules \[agent\_daily\_schedule\] table. Within these schedules, agents will receive a silent push sometime throughout their scheduled day.
 
@@ -30,7 +30,7 @@ The offline payloads that your instance generates are based on the times recorde
 
 ## Scheduled Jobs associated with offline caching
 
-These scheduled jobs are automatically scheduled for only users who enable background downloading on their app. For information on how users can enable this feature, see [[offline-end-user|Offline mode for mobile]].
+These scheduled jobs are automatically scheduled for only users who enable background downloading on their app. For information on how users can enable this feature, see [Offline mode for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/offline-end-user.md).
 
 -   **Populate Agents Daily Schedule Table**
 
@@ -94,17 +94,10 @@ glide.sg.offline.attachment.max\_total\_bytes
 Defines the total amount of storage the offline cache can use for attachments in bytes.
 
 </td></tr></tbody>
-</table>For information on other related offline system properties, see [[mobile-system-properties|System properties in offline mode]].
+</table>For information on other related offline system properties, see [System properties in offline mode](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-system-properties.md).
 
--   **[[general-guidelines-schedule-caching|General guidelines for scheduling offline caching]]**  
+-   **[General guidelines for scheduling offline caching](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/general-guidelines-schedule-caching.md)**  
 When scheduling offline caches keep these general guidelines in mind for usability and a good user experience.
 
-**Parent Topic:**[[offline-caching-scheduled|Scheduled offline caching]]
+**Parent Topic:**[Scheduled offline caching](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/offline-caching-scheduled.md)
 
-## Related
-
-- [[offline-end-user|Offline mode for mobile]]
-- [[mobile-system-properties|System properties in offline mode]]
-- [[general-guidelines-schedule-caching|General guidelines for scheduling offline caching]]
-- [[offline-caching-scheduled|Scheduled offline caching]]
-- [[mobile-experience|Mobile Agent app]]

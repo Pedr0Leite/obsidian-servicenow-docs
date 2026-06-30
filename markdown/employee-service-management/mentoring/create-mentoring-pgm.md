@@ -14,11 +14,11 @@ breadcrumb: [Configure, Mentoring, Growth Experiences, HR Service Delivery, Empl
 
 # Create a Mentoring program
 
-Create customized [[mentoring-egd-overview|mentoring]] programs that can be adopted by a mentee.
+Create customized mentoring programs that can be adopted by a mentee.
 
 ## About this task
 
-Mentoring admins can create multiple mentoring programs. Employees and managers use the [[employee-center-landing-page|Employee Center]] portal to enroll as mentors or mentees. See, [Enroll as a mentor or mentee](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/mentoring/enroll-mentoring.md).
+Mentoring admins can create multiple mentoring programs. Employees and managers use the Employee Center portal to enroll as mentors or mentees. See, [Enroll as a mentor or mentee](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/mentoring/enroll-mentoring.md).
 
 ## Before you begin
 
@@ -46,7 +46,4 @@ Role required: sn\_ecn.mentoring\_admin
 
 4.  Select **Submit**.
 
-## Related
 
-- [[mentoring-egd-overview|Mentoring]]
-- [[employee-center-landing-page|Employee Center]]

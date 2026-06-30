@@ -16,9 +16,9 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 Use the **glide.security.strict.updates** property to enable double-checking of security on inbound transactions during form submission. When you set this property to **true**, it adds an extra layer of table validation before a form renders in the browser.
 
-The **glide.security.strict.updates** system property provides an extra layer of security on form submission / field updates by ensuring only [[users|users]] with the proper permissions are allowed to update a form. If **glide.security.strict.updates** is not set to the recommended value of **true**, then updates are not strict meaning they are able to modify fields visible to them regardless of whether they have the appropriate permissions.
+The **glide.security.strict.updates** system property provides an extra layer of security on form submission / field updates by ensuring only users with the proper permissions are allowed to update a form. If **glide.security.strict.updates** is not set to the recommended value of **true**, then updates are not strict meaning they are able to modify fields visible to them regardless of whether they have the appropriate permissions.
 
-Ensure that the property **glide.security.strict.updates** exists in the [[ca-system-properties|System Properties]] \[sys\_properties\] table and is set to "true".
+Ensure that the property **glide.security.strict.updates** exists in the System Properties \[sys\_properties\] table and is set to "true".
 
 **Warning:** This is a safe harbor property, meaning the value can't be altered once it's changed. It is non-revertible.
 
@@ -34,7 +34,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -119,8 +119,3 @@ None
 
 **Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[users|Users]]
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]

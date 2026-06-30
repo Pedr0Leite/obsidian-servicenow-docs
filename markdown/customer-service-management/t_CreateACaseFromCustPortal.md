@@ -58,7 +58,7 @@ Consumer
 
 </td><td>
 
-The name of the consumer for this case. **Note:** This field is active only when the [[customer-data-model-b2b2c|Customer Data Models for B2B2C]] plugin is installed. Once Account is selected, only consumers belonging to the account are displayed.
+The name of the consumer for this case. **Note:** This field is active only when the Customer Data Models for B2B2C plugin is installed. Once Account is selected, only consumers belonging to the account are displayed.
 
 </td></tr><tr><td>
 
@@ -105,17 +105,12 @@ Description
 A detailed description of the customer question, issue, or problem.
 
 </td></tr></tbody>
-</table>    **Note:** Currently, the **Save as Draft** option is not optimized for [[c_CustomerServiceManagement|Customer Service Management]] portals and, it is inactive by default.
+</table>    **Note:** Currently, the **Save as Draft** option is not optimized for Customer Service Management portals and, it is inactive by default.
 
 4.  Select **Submit**.
 
 
 ## Result
 
-The case is created, assigned a case number, and added to the creator's case list. To view this list, select the **My [[migration-lists|Lists]]** tab on the Customer Service Portal header and select **All Cases** in the left pane.
+The case is created, assigned a case number, and added to the creator's case list. To view this list, select the **My Lists** tab on the Customer Service Portal header and select **All Cases** in the left pane.
 
-## Related
-
-- [[customer-data-model-b2b2c|Customer data models for B2B2C]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[migration-lists|Lists]]

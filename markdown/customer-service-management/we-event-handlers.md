@@ -14,8 +14,5 @@ breadcrumb: [Web Embeddables reference, Reference, Customer Service Management]
 
 Reference topics provide additional information about Web Embeddables.
 
-An event handler lets you configure actions, components, or [[migration-form-declarative-actions|declarative actions]] on your website. For example, you can map an event to your component to display an alert notification when the user selects any button on the confirmation message, or you can add an event handler to respond to a record creation failure.
+An event handler lets you configure actions, components, or declarative actions on your website. For example, you can map an event to your component to display an alert notification when the user selects any button on the confirmation message, or you can add an event handler to respond to a record creation failure.
 
-## Related
-
-- [[migration-form-declarative-actions|Declarative actions]]

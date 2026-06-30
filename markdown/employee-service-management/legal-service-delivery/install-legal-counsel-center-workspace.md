@@ -14,7 +14,7 @@ breadcrumb: [Configure Legal Counsel Center Workspace, Legal Counsel Center, Leg
 
 # Install Legal Counsel Center Workspace
 
-You can install the [[legal-counsel-center-landing|Legal Counsel Center]] application \(sn\_lg\_cf\_workspace\) if you have the admin role. The application installs ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Legal Counsel Center application \(sn\_lg\_cf\_workspace\) if you have the admin role. The application installs ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: admin
 The following items are installed:
 
 -   Plugins
-    -   [[legal-request-management-landing-page|Legal Request Management]] plugin
+    -   Legal Request Management plugin
     -   Legal Counsel Center plugin
 -   Store applications
 -   Roles
@@ -54,7 +54,3 @@ The following items are installed:
 
 **Parent Topic:**[Configure Legal Counsel Center Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/configure-legal-counsel-center-workspace.md)
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[legal-request-management-landing-page|Legal Request Management]]

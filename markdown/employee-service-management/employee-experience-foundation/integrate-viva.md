@@ -14,14 +14,10 @@ breadcrumb: [Employee Center for Microsoft Viva Connections, Employee Center Int
 
 # Integrating Employee Center for Microsoft Viva Connections
 
-Integrate [[employee-center-landing-page|Employee Center]] with Microsoft Viva Connections to enable an employee experience that allows users to manage tasks and navigate to Employee Center from Microsoft Teams.
+Integrate Employee Center with Microsoft Viva Connections to enable an employee experience that allows users to manage tasks and navigate to Employee Center from Microsoft Teams.
 
 -   **[Install Employee Center for Microsoft Viva Connections application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/install-sn-ms-viva-connections.md)**  
-Install the [[sn-ms-viva-integrations|Employee Center for Microsoft Viva Connections]] application to enable users to easily access their task cards from Microsoft Teams.
+Install the Employee Center for Microsoft Viva Connections application to enable users to easily access their task cards from Microsoft Teams.
 
 **Parent Topic:**[Employee Center for Microsoft Viva Connections](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/sn-ms-viva-integrations.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[sn-ms-viva-integrations|Employee Center for Microsoft Viva Connections]]

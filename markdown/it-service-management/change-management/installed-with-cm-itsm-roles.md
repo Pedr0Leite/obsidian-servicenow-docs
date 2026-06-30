@@ -14,9 +14,9 @@ breadcrumb: [Request ITSM Roles- Change Management, Change Management plugins, C
 
 # Components installed with ITSM Roles - Change Management
 
-Several user roles are installed with the activation of the ITSM Roles — [[c_ITILChangeManagement|Change Management]] plugin \(com.snc.itsm.roles.change\_management\). Security ACLs to support the security model for Change Management and related functionality are also installed.
+Several user roles are installed with the activation of the ITSM Roles — Change Management plugin \(com.snc.itsm.roles.change\_management\). Security ACLs to support the security model for Change Management and related functionality are also installed.
 
-When you install the ITSM Roles — Change Management plugin \(com.snc.itsm.roles.change\_management\), the plugin updates the Security Access Control Lists \(ACLs\), integrating revised scripts, and other files to overhaul the security model for these [[dex-workspace-application-tab|applications]].
+When you install the ITSM Roles — Change Management plugin \(com.snc.itsm.roles.change\_management\), the plugin updates the Security Access Control Lists \(ACLs\), integrating revised scripts, and other files to overhaul the security model for these applications.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -97,7 +97,7 @@ Incident read\[sn\_incident\_read\]
 
 </td><td>
 
-Read access to the [[c_IncidentManagement|Incident Management]] application and related records.**Note:** An ESS user \(user with no role\) can view only those incidents that they create or someone else creates on their behalf. A user with the sn\_incident\_read role can view all incidents as well as the [[major-incident-workbench|major incident workbench]].
+Read access to the Incident Management application and related records.**Note:** An ESS user \(user with no role\) can view only those incidents that they create or someone else creates on their behalf. A user with the sn\_incident\_read role can view all incidents as well as the major incident workbench.
 
 </td><td>
 
@@ -126,7 +126,7 @@ Problem read\[sn\_problem\_read\]
 
 </td><td>
 
-Read access to the [[c_ProblemManagement|Problem Management]] application and related records.
+Read access to the Problem Management application and related records.
 
 </td><td>
 
@@ -211,10 +211,3 @@ Enables gathering, and verifying information, as well as delivering quick resolu
 </td></tr></tbody>
 </table>**Parent Topic:**[Request ITSM Roles- Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/request-itsm-roles-cm.md)
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]
-- [[dex-workspace-application-tab|Applications]]
-- [[c_IncidentManagement|Incident Management]]
-- [[major-incident-workbench|Major incident workbench]]
-- [[c_ProblemManagement|Problem Management]]

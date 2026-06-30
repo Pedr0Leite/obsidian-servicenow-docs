@@ -14,7 +14,7 @@ breadcrumb: [Implement, Policy and Compliance Management, Governance, Risk, and 
 
 # Download GRC: Policy and Compliance Management
 
-Before you run GRC: [[r_PolicyComplianceMgmt|Policy and Compliance Management]] \(com.sn\_compliance\) in your instance, you must download it from the ServiceNow Store.
+Before you run GRC: Policy and Compliance Management \(com.sn\_compliance\) in your instance, you must download it from the ServiceNow Store.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Follow the instructions for [[download-grc-first-time|Download a GRC application from the ServiceNow Store for the first time]].
+1.  Follow the instructions for [Download a GRC application from the ServiceNow Store for the first time](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/download-grc-first-time.md).
 
     **Note:** Starting with Version 10.1, you can leverage new policy exception capabilities in Policy and Compliance Management from within Version 10.3 of the Vulnerability Response application. To use this feature, you must upgrade Policy and Compliance Management before upgrading Vulnerability Response. For more information, see
 
@@ -37,7 +37,3 @@ Validate that GRC: Policy and Compliance Management still works after you make a
 
 [List of plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/t_ActivateGRCPandC.md)
 
-## Related
-
-- [[download-grc-first-time|Download a GRC application from the ServiceNow Store for the first time]]
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

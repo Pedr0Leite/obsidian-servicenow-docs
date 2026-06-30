@@ -14,7 +14,7 @@ breadcrumb: [Exploring Service Mapping, Service Mapping, ITOM Visibility, IT Ope
 
 # Service Mapping flow
 
-Learn about high-level tasks users having different roles perform in [[c_ServiceMappingOverview|Service Mapping]].
+Learn about high-level tasks users having different roles perform in Service Mapping.
 
 In Service Mapping, users collaborate to map, review, and monitor an organization's application services.
 
@@ -31,7 +31,7 @@ A typical Service Mapping workflow has the following stages:
 7.  The administrator uses the feedback from the application service owner to fine-tune the application service maps, and then resends them to the owner for review. For more information about fine-tuning an application service map, see [Fine-tune application services to implement owner requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/review-implement-business-service-maps.md).
 8.  If the revised service instance maps are satisfactory, the service instance owner approves them. If not, the owner requests further fixes, which the administrator must address. See [Review application service maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/review-service-map.md).
 9.  The administrator finalizes the application services by configuring access and setting advanced attributes, such as criticality. To learn more, see [Application service completion](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/advanced-business-service-definitions.md).
-10. After the service instance definition is complete, the Service Mapping user can view application service maps. To learn more about maintaining the application services [[using-service-mapping|using Service Mapping]], see [Application service analysis and maintenance using classic Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/c_SvcPlanningAndAnalysisUsingMaps.md).
+10. After the service instance definition is complete, the Service Mapping user can view application service maps. To learn more about maintaining the application services using Service Mapping, see [Application service analysis and maintenance using classic Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/c_SvcPlanningAndAnalysisUsingMaps.md).
 
 \[Omitted image "SMMapFlow.png"\] Alt text: Service Mapping flow
 
@@ -44,7 +44,3 @@ In addition to these tasks, there may be a need to customize patterns that Servi
 
 [Control user access to application services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/control-user-access-to-business-services.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[using-service-mapping|Using Service Mapping]]

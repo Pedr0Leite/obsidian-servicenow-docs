@@ -14,9 +14,9 @@ breadcrumb: [Breakdown widgets, Performance Analytics widgets, Reporting, dashbo
 
 # Interacting with breakdown widgets on dashboards
 
-Performance Analytics users can interact with individual [[breakdown-widgets|breakdown widgets]] on dashboards to change the visualization or breakdown.
+Performance Analytics users can interact with individual breakdown widgets on dashboards to change the visualization or breakdown.
 
-[[widgets|Widgets]] with the **Type** of **Breakdown** enable users to select the visualization when viewing the widget on a dashboard. Users can select any visualization for the widget type from the **Visualization** choice list when viewing the widget on a dashboard.
+Widgets with the **Type** of **Breakdown** enable users to select the visualization when viewing the widget on a dashboard. Users can select any visualization for the widget type from the **Visualization** choice list when viewing the widget on a dashboard.
 
 **Note:** You cannot select the **Pivot Scorecard** visualization from a dashboard. To use this visualization, configure the widget record.
 
@@ -37,7 +37,3 @@ The visualization or breakdown selected in the widget record is used as the defa
 
 [Using breakdowns on dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_SpecialDashboards.md)
 
-## Related
-
-- [[breakdown-widgets|Breakdown widgets]]
-- [[widgets|Widgets]]

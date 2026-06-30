@@ -14,15 +14,15 @@ breadcrumb: [Explore, Legal Investigations, Legal Service Delivery Practice Appl
 
 # Better together solution: Legal Investigations and HR Service Delivery Employee Relations
 
-Employees can submit complaints through the [[employee-center-landing-page|Employee Center]] portal without worrying about who should investigate the complaint. During the triaging or investigation process, fulfillers working on these issues can transfer them back and forth between the Legal and HR departments as necessary for resolution.
+Employees can submit complaints through the Employee Center portal without worrying about who should investigate the complaint. During the triaging or investigation process, fulfillers working on these issues can transfer them back and forth between the Legal and HR departments as necessary for resolution.
 
 ## Key features
 
-Using [[legal-investigations-landing-page|Legal Investigations]] and [[hr-service-delivery|HR Service Delivery]] [[hr-case-employee-relations|Employee Relations]] with [[ur-landing-limitedaccess|Universal Request]] together for the following key features:
+Using Legal Investigations and HR Service Delivery Employee Relations with Universal Request together for the following key features:
 
--   Omnichannel modes for submitting complaints via Employee Center portal, and [[arc-portal|Anonymous Report Center \(ARC\)]] portal.
+-   Omnichannel modes for submitting complaints via Employee Center portal, and Anonymous Report Center \(ARC\) portal.
 -   Single triaging queue for all complaints through Universal Request.
--   Interdepartmental transfer of basic case details between [[legal-management-overview|Legal Service Delivery]] Legal Investigations and HR Service Delivery Employee Relations.
+-   Interdepartmental transfer of basic case details between Legal Service Delivery Legal Investigations and HR Service Delivery Employee Relations.
 
 ## Setting up Legal Investigations and HR Service Delivery Employee Relations to work together
 
@@ -58,12 +58,3 @@ The following workflow example explains how routing agents, legal fulfillers, an
 3.  The fulfiller from the respective department who is assigned the ticket can work on it and close it, transfer it to another department, or transfer to the universal request. See [Work on a legal matter for a complaint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/work-legal-investigations-matter.md).
 4.  When a ticket is transferred from the Legal department to the HR department, the details in the legal ticket, such as the description, short description, and comments, are copied to the HR Case. The legal ticket is closed, and an HR case is created, which is then handled by an HR agent. See [Transfer a legal ticket to another department](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/transfer-legal-request-universal-request.md). Similarly, an HR agent working on an HR case can transfer it to the Legal department, which creates an ethics legal matter.
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[legal-investigations-landing-page|Legal Investigations]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[hr-case-employee-relations|Employee Relations]]
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[arc-portal|Anonymous Report Center \(ARC\)]]
-- [[legal-management-overview|Legal Service Delivery]]

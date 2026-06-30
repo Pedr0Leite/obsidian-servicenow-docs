@@ -23,7 +23,7 @@ Role required: sn\_spend\_gen\_ai.now\_assist\_fulfiller
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Source-to-Pay Workspace**.
 
 2.  Select the list icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon.\).
 
@@ -45,7 +45,7 @@ Role required: sn\_spend\_gen\_ai.now\_assist\_fulfiller
 **Related topics**  
 
 
-[Summarize a record by using [[now-assist-spo|Now Assist for Sourcing and Procurement Operations \(SPO\)]] in Source-to-Pay Workspace]()
+[Summarize a record by using Now Assist for Sourcing and Procurement Operations \(SPO\) in Source-to-Pay Workspace]()
 
 [Summarize a record by using Now Assist for Sourcing and Procurement Operations \(SPO\) in Shopping Hub]()
 
@@ -55,7 +55,3 @@ Role required: sn\_spend\_gen\_ai.now\_assist\_fulfiller
 
 [Generate email responses]()
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[now-assist-spo|Now Assist for Sourcing and Procurement Operations \(SPO\)]]

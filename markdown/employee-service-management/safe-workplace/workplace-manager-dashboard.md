@@ -18,7 +18,7 @@ Use the Workplace Manager dashboard to monitor the space allocation and workplac
 
 \[Omitted image "workplace-mgr-dashboard.png"\] Alt text: Workplace manager dashboard
 
-To access the Workplace Manager Dashboard, navigate to **All** &gt; **[[workplace-central-feat|Workplace Central]]** &gt; **[[workplace-dashboards-wsd-core|Workplace Dashboards]]**.
+To access the Workplace Manager Dashboard, navigate to **All** &gt; **Workplace Central** &gt; **Workplace Dashboards**.
 
 Selecting a region, site, and a campus in the Workplace Report Filter at the top of the dashboard displays reports for that campus.
 
@@ -74,7 +74,3 @@ sn\_wsd\_core.workplace\_manager
 
 **Parent Topic:**[Manage Workplace Dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/workplace-dashboards-wsd-central.md)
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]
-- [[workplace-dashboards-wsd-core|Workplace dashboards]]

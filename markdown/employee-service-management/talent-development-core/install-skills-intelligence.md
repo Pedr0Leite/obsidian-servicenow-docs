@@ -14,7 +14,7 @@ breadcrumb: [Configuring Skills Foundation, Skills Foundation, Growth Experience
 
 # Install Skills Foundation
 
-You can install the [[skills-intelligence|Skills Foundation]] application \(com.sn\_skills\_int\) if you have the admin role.The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Skills Foundation application \(com.sn\_skills\_int\) if you have the admin role.The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -52,6 +52,4 @@ For more information, see [Components installed with Skills Foundation]().
 
 6.  Select **Install**.
 
-## Related
 
-- [[skills-intelligence|Skills Foundation]]

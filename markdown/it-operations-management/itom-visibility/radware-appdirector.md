@@ -14,13 +14,13 @@ breadcrumb: [Load balancers, Network device discovery, Data collected by ITOM Vi
 
 # Radware-appDirector load balancer discovery
 
-[[r-discovery|Discovery]] of Radware load balancers is performed by SNMP.
+Discovery of Radware load balancers is performed by SNMP.
 
 **Note:** For information on Probe to Pattern migration see the knowledge article [KB0694477](https://support.servicenow.com/kb_view.do?sysparm_article=KB0694477).
 
 ## Requirements
 
-**Important:** Discovery treats load balancers as licensable entities and attempts to discover them primarily using SNMP. If a load balancer in your system, running on a Linux host, has SNMP and SSH ports open, Discovery might classify it based on the SSH port. This classification has priority over SNMP. To ensure that Discovery properly classifies your hardware load balancers, [[create-disco-behavior|create a Discovery behavior]] for load balancers that includes SNMP but not SSH. Software load balancers are treated as applications.
+**Important:** Discovery treats load balancers as licensable entities and attempts to discover them primarily using SNMP. If a load balancer in your system, running on a Linux host, has SNMP and SSH ports open, Discovery might classify it based on the SSH port. This classification has priority over SNMP. To ensure that Discovery properly classifies your hardware load balancers, create a Discovery behavior for load balancers that includes SNMP but not SSH. Software load balancers are treated as applications.
 
 ## Credentials
 
@@ -59,7 +59,3 @@ The following data is collected on the Load Balancer Services `[cmdb_ci_lb_servi
 
 **Parent Topic:**[Load balancer discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_LoadBalancers.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[create-disco-behavior|Create a Discovery behavior]]

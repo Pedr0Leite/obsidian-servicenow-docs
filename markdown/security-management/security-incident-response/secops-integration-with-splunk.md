@@ -14,7 +14,7 @@ breadcrumb: [Security Incident Response integrations, Security Incident Response
 
 # ServiceNow Security Operations add-on for Splunk overview
 
-The ServiceNow [[security-operations-landing-page|Security Operations]] add-on for Splunk allows a Splunk software administrator to collect data and create incidents and events in the ServiceNow AI Platform.
+The ServiceNow Security Operations add-on for Splunk allows a Splunk software administrator to collect data and create incidents and events in the ServiceNow AI Platform.
 
 The add-on is installed from [Splunkbase.](https://splunkbase.splunk.com/)
 
@@ -29,6 +29,3 @@ The add-on is installed from [Splunkbase.](https://splunkbase.splunk.com/)
 
 [Using ServiceNow Security Operations Integration add-on](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/using-sn-secops-int-addon.md)
 
-## Related
-
-- [[security-operations-landing-page|Security Operations]]

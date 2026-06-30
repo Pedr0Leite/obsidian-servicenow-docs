@@ -16,7 +16,7 @@ breadcrumb: [Session management, Hardening settings, Platform Security]
 
 Use the **glide.guest.active.session.life\_span** property to control the duration of an active guest's HTTP sessions.
 
-The **glide.guest.active.session.life\_span** system property enforces a maximum lifespan on active guest HTTP sessions, regardless of session inactivity. The configured value is in minutes. A value of `0` disables the lifespan limit entirely, allowing sessions to persist until the inactive timeout fires. Guest [[users|users]] are unauthenticated users who access the instance without logging in.
+The **glide.guest.active.session.life\_span** system property enforces a maximum lifespan on active guest HTTP sessions, regardless of session inactivity. The configured value is in minutes. A value of `0` disables the lifespan limit entirely, allowing sessions to persist until the inactive timeout fires. Guest users are unauthenticated users who access the instance without logging in.
 
 Set the **glide.guest.active.session.life\_span** system property to `720`.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -115,8 +115,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Session management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-session-management.md)
 
-## Related
-
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

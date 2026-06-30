@@ -30,7 +30,7 @@ As an attestation respondent of the control you can log in to the Compliance Wor
 
 2.  Select the tasks icon \(\[Omitted image "TasksIcon.jpg"\] Alt text: Tasks icon.\).
 
-    You can view the attestations on the left panel. The Control Attestations [[list-view-uib-ws|list view]] displays the Control and Entity columns alongside the existing assessment instance, assessment template, state, users, and due date columns, providing attestors with direct scope context for each assessment instance without opening individual records.
+    You can view the attestations on the left panel. The Control Attestations list view displays the Control and Entity columns alongside the existing assessment instance, assessment template, state, users, and due date columns, providing attestors with direct scope context for each assessment instance without opening individual records.
 
 3.  Select the assessment instance link on the right panel of the My pending tasks related list.
 
@@ -46,6 +46,4 @@ As an attestation respondent of the control you can log in to the Compliance Wor
 
     All the questions are read only now that you have submitted the response.
 
-## Related
 
-- [[list-view-uib-ws|List view]]

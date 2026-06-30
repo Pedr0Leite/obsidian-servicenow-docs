@@ -14,7 +14,7 @@ breadcrumb: [FireEye Endpoint Security integration, Security Incident Response i
 
 # Invoke Sighting Search from a Security Incident
 
-Invoke the [[indicator-sightings|sightings]] search from a SIR security incident by following the below procedure.
+Invoke the sightings search from a SIR security incident by following the below procedure.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: ServiceNow AI Platform administrator \(sn\_si.admin\)
 
 3.  Click Show IoC in Related Links.
 
-4.  Click **Associated [[c_Observables|Observables]]** related lists.
+4.  Click **Associated Observables** related lists.
 
     \[Omitted image "invoke-sighting-search-from-security-incident.png"\] Alt text: Associated Observables related list selected
 
@@ -58,7 +58,4 @@ Role required: ServiceNow AI Platform administrator \(sn\_si.admin\)
 
     \[Omitted image "invoke-sightings-search-results.png"\] Alt text: Sightings Search Results
 
-## Related
 
-- [[indicator-sightings|Sightings]]
-- [[c_Observables|Observables]]

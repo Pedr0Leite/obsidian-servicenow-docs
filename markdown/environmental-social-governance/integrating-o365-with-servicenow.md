@@ -18,7 +18,7 @@ An ESG reporting disclosure manager may need to create disclosures to be transpa
 
 This integration allows the reporting managers to view the inventory of the ServiceNow Operational Sustainability Management data links on the disclosure report and refresh the inserted data to be in synchronization with the latest ServiceNow Operational Sustainability Management data. An audit trail is also established between the data imported and the ServiceNow instance. The audit trail provides any auditor the ability to click the links in the document and access the source of the data in the ServiceNow instance.
 
-You can also track any changes made to the data inserted using configuration and log those changes in the log table. For more information see, [[configure-o365-reporting-configs|Set up Microsoft 365 reporting configuration]].
+You can also track any changes made to the data inserted using configuration and log those changes in the log table. For more information see, [Set up Microsoft 365 reporting configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/configure-o365-reporting-configs.md).
 
 **Note:** This integration is compatible with the desktop version 16.71 \(23031200\) and the web version 16.0.16412.41005 of Microsoft Word. However, the charts are not interactive in the web version. This means that you cannot modify the chart colors, formats, and so on. The supported Windows Office version is 2303 \(Build 16130.20394\).
 
@@ -81,27 +81,18 @@ Horizontal bar chart
 
 \[Omitted image "data-imported-in-word-doc.jpg"\] Alt text: The data that is imported from an instance in to a Word document.
 
--   **[[workflow-ms-365|Workflow of Microsoft 365 for ServiceNow Reporting]]**  
+-   **[Workflow of Microsoft 365 for ServiceNow Reporting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/workflow-ms-365.md)**  
 The Microsoft 365 for ServiceNow Reporting integration utilizes a workflow that requires participation from multiple user roles such as system administrators, ESG administrators, and disclosure managers. By defining a clear workflow, individuals and teams can better understand their roles and responsibilities and generate the necessary disclosures.
--   **[[install-o365-addin|Install the ServiceNow Document designer add-in]]**  
+-   **[Install the ServiceNow Document designer add-in](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/install-o365-addin.md)**  
 Install the ServiceNow Document designer add-in to your Microsoft Word document. This add-in is required to import reports and data from your ServiceNow instance to Microsoft Word documents to create disclosure reports.
 -   **[Set up Microsoft 365 reporting configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/configure-o365-reporting-configs.md)**  
 Set up the Microsoft 365 reporting configuration records to specify the data points and reports that you want to import in to a Microsoft Word document for disclosure reporting purposes.
--   **[[add-additional-reporting-filters|Add additional reporting configuration filters for a Microsoft 365 configuration record]]**  
+-   **[Add additional reporting configuration filters for a Microsoft 365 configuration record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/add-additional-reporting-filters.md)**  
 Add additional reporting filters to specify at a granular level what data must be imported to the disclosure report from a table.
--   **[[add-the-sn-esg-addin-into-ms-word|Add the ServiceNow Document designer add-in into Microsoft Word]]**  
+-   **[Add the ServiceNow Document designer add-in into Microsoft Word](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/add-the-sn-esg-addin-into-ms-word.md)**  
 Before you can import data into your Microsoft Word document to create your disclosure reports, you must add the ServiceNow Document designer add-in to your Microsoft Word application.
--   **[[import-data-into-ms-word|Import data in to a Microsoft Word disclosure report]]**  
+-   **[Import data in to a Microsoft Word disclosure report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/import-data-into-ms-word.md)**  
 Import and insert data and reports into a Microsoft Word disclosure report document from a ServiceNow instance. You can only import and insert the data that is configured in your reporting configurations.
 
-**Parent Topic:**[[integrate-esg|Integrating Operational Sustainability Management \(formerly ESG\) with other applications]]
+**Parent Topic:**[Integrating Operational Sustainability Management \(formerly ESG\) with other applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/integrate-esg.md)
 
-## Related
-
-- [[configure-o365-reporting-configs|Set up Microsoft 365 reporting configuration]]
-- [[workflow-ms-365|Workflow of Microsoft 365 for ServiceNow Reporting]]
-- [[install-o365-addin|Install the ServiceNow Document designer add-in]]
-- [[add-additional-reporting-filters|Add additional reporting configuration filters for a Microsoft 365 configuration record]]
-- [[add-the-sn-esg-addin-into-ms-word|Add the ServiceNow Document designer add-in into Microsoft Word]]
-- [[import-data-into-ms-word|Import data in to a Microsoft Word disclosure report]]
-- [[integrate-esg|Integrating Operational Sustainability Management \(formerly ESG\) with other applications]]

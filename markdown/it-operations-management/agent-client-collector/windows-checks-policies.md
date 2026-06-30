@@ -14,7 +14,7 @@ breadcrumb: [Agent Client Collector Monitoring default checks and policies, ACC-
 
 # Windows default checks and policies
 
-[[acc-landing-page|Agent Client Collector]] provides the following default [[checks-policies|checks and policies]] for Windows health monitoring.
+Agent Client Collector provides the following default checks and policies for Windows health monitoring.
 
 ## Windows event monitoring checks
 
@@ -1032,7 +1032,3 @@ win2019-dc-64bit.Process.Status 67 1645372421
 </td></tr></tbody>
 </table>**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-policies-checks.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[checks-policies|Checks and policies]]

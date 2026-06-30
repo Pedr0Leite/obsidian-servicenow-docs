@@ -28,7 +28,7 @@ Role required: virtual\_agent\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **[[virtual-agent-landing-page|Virtual Agent]]** &gt; **Designer**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Designer**.
 
 2.  On the home page, select the topic where you will add the custom control.
 
@@ -118,7 +118,3 @@ A no-code condition statement or low-code script that specifies a condition for 
 
 The topic is active. You can deploy it to your Virtual Agent clients.
 
-## Related
-
-- [[convint-landing-page|Conversational Interfaces]]
-- [[virtual-agent-landing-page|Virtual Agent]]

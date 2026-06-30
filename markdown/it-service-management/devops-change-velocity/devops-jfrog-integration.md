@@ -31,11 +31,7 @@ Connect your JFrog instance using the ServiceNow Service Catalog.
 -   **[Onboard JFrog to DevOps Change Velocity — Classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/devops-jfrog-create-tool.md)**  
 Connect to an instance of the JFrog artifact tool to enable you to track artifacts published to JFrog.
 -   **[Integration with JFrog AppTrust application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/integration-with-jfrog-apptrust-application.md)**  
-Integrate [[devops-landing-page-new|DevOps Change Velocity]] with JFrog AppTrust [[dex-workspace-application-tab|applications]] to automate change request creation, approval, and evidence collection as application versions are promoted through life-cycle stages.
+Integrate DevOps Change Velocity with JFrog AppTrust applications to automate change request creation, approval, and evidence collection as application versions are promoted through life-cycle stages.
 
 **Parent Topic:**[Integrating DevOps Change Velocity with third party tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/integrating-devops-change-with-third-party-tools.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[dex-workspace-application-tab|Applications]]

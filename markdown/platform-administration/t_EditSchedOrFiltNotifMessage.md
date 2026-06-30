@@ -24,7 +24,7 @@ To edit the schedule or filter of an existing notification message:
 
 ## Procedure
 
-1.  In the [[preferences-landing|Notification Preferences]] screen, select the notification message to edit.
+1.  In the Notification Preferences screen, select the notification message to edit.
 
     You cannot edit any attributes of a mandatory message.
 
@@ -33,9 +33,5 @@ To edit the schedule or filter of an existing notification message:
 3.  Select **Update**.
 
 
-**Parent Topic:**[[t_NotificationFilters|Create a notification filter]]
+**Parent Topic:**[Create a notification filter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_NotificationFilters.md)
 
-## Related
-
-- [[t_NotificationFilters|Create a notification filter]]
-- [[preferences-landing|Notification Preferences]]

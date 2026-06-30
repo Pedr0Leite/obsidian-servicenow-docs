@@ -37,11 +37,7 @@ The **Sync Topics** button becomes available and the material topics heatmap dis
 
 ## What to do next
 
-[[create-a-socialsuite-connection|Create a Socialsuite connection]]
+[Create a Socialsuite connection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/create-a-socialsuite-connection.md)
 
-**Parent Topic:**[[integrate-operational-sustainability-with-SocialSuite|Integrating Operational Sustainability Management with Socialsuite]]
+**Parent Topic:**[Integrating Operational Sustainability Management with Socialsuite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/integrate-operational-sustainability-with-SocialSuite.md)
 
-## Related
-
-- [[create-a-socialsuite-connection|Create a Socialsuite connection]]
-- [[integrate-operational-sustainability-with-SocialSuite|Integrating Operational Sustainability Management with Socialsuite]]

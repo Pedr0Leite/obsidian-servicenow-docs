@@ -12,7 +12,7 @@ breadcrumb: [MITRE-ATT&amp;CK administration, MITRE-ATT&amp;CK framework overvie
 
 # Threat group to technique heatmap definition
 
-Define the threat group to technique heatmap definition so that on the heatmap you can measure and detect the [[attack-patterns|attack patterns]] that threat groups are using to attack your organization. The probability of an attack using a particular technique increases when you have a high number of attackers.
+Define the threat group to technique heatmap definition so that on the heatmap you can measure and detect the attack patterns that threat groups are using to attack your organization. The probability of an attack using a particular technique increases when you have a high number of attackers.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Role required:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[threat-intel-landing-page|Threat Intelligence]]** &gt; **MITRE ATT&amp;CK Administration** &gt; **Threat Group-Technique Heat Map Definition**.
+1.  Navigate to **All** &gt; **Threat Intelligence** &gt; **MITRE ATT&amp;CK Administration** &gt; **Threat Group-Technique Heat Map Definition**.
 
 2.  Review the threat group to technique heatmap definition and customize the entries for your environment.
 
@@ -83,7 +83,7 @@ Description about the threat group range and definition.
 3.  To add an entry, click **New**, complete the entries, and click **Submit**.
 
 
-**Parent Topic:**[[mitre-att-ck-administration|MITRE-ATT&amp;CK administration]]
+**Parent Topic:**[MITRE-ATT&amp;CK administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/mitre-att-ck-administration.md)
 
 **Related topics**  
 
@@ -116,7 +116,7 @@ Description about the threat group range and definition.
 
 [Define the data source and detection tool mapping]()
 
-[Define the data source and [[data-component|data component]] mapping]()
+[Define the data source and data component mapping]()
 
 [Define the technique detection coverage]()
 
@@ -134,9 +134,3 @@ Description about the threat group range and definition.
 
 [Review the MITRE-ATT&amp;CK system properties]()
 
-## Related
-
-- [[mitre-att-ck-administration|MITRE-ATT&amp;CK administration]]
-- [[attack-patterns|Attack patterns]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[data-component|Data Component]]

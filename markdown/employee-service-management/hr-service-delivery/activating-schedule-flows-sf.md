@@ -32,15 +32,11 @@ Role required: sn\_hr\_sf.admin
 
 5.  Expand **Call Run SuccessFactors Service Subflow**.
 
-    Once data is pulled into staging tables, [[transform-maps-navex|transform maps]] moves data into target tables. For more details, refer to [Use transform maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/transform-maps-w.md).
+    Once data is pulled into staging tables, transform maps moves data into target tables. For more details, refer to [Use transform maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/transform-maps-w.md).
 
     **Note:**
 
-    -   For a partial pull, deselect the **Retrieve all data** check box. Partial pull is not supported for Department and Location. It is only supported for [[c_HRProfileRecords|HR profile]] and Job Profile.
+    -   For a partial pull, deselect the **Retrieve all data** check box. Partial pull is not supported for Department and Location. It is only supported for HR profile and Job Profile.
     -   The **Retrieve All Data** check box is not supported for Pull To-Dos. The first pull will always be a full pull based on the configuration parameter **Initial Load Date time**. The subsequent ones are incremental pulls.
     -   Before you run the flow, turn off reporting: **com.snc.process\_flow.reporting.level**.
 
-## Related
-
-- [[transform-maps-navex|Transform maps]]
-- [[c_HRProfileRecords|HR Profile]]

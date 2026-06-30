@@ -33,7 +33,7 @@ If there's a Customer or Consumer Service Portal available for customers, they g
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -93,6 +93,3 @@ Update the claim case fields as required and [close the claim](https://raw.githu
 
 **Parent Topic:**[Work on a claim with an internal refund](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-payment-operations/work-claim-with-internal-refund.md)
 
-## Related
-
-- [[fso-overview|Financial Services]]

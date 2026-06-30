@@ -14,7 +14,7 @@ breadcrumb: [Configure Event Management connectors, Event Management Integration
 
 # Configure event collection for SNMP traps
 
-The SNMP listener runs on the MID Server, which acts as a collection endpoint for SNMP traps. The MID Server sends the traps to the ServiceNow instance for further processing as an event by [[c_EM|Event Management]].
+The SNMP listener runs on the MID Server, which acts as a collection endpoint for SNMP traps. The MID Server sends the traps to the ServiceNow instance for further processing as an event by Event Management.
 
 ## Before you begin
 
@@ -158,7 +158,7 @@ This field is automatically populated.
 
 8.  If the MID Server fails to start, review the MID Server log errors.
 
-    When working with object identifiers \(OIDs\), the OID trap counter may cause problems activating [[create-event-rules|event rules]]. To remove the trap counter from the OID, navigate to **MID Server** &gt; **Properties** and set the **mid.em.snmp\_old\_key\_counter\_cut.enabled** property to **true**.
+    When working with object identifiers \(OIDs\), the OID trap counter may cause problems activating event rules. To remove the trap counter from the OID, navigate to **MID Server** &gt; **Properties** and set the **mid.em.snmp\_old\_key\_counter\_cut.enabled** property to **true**.
 
 
 ## What to do next
@@ -191,7 +191,3 @@ By default, most SNMP trap events are processed by a single Event Management pro
 
 [Configure the SNMP traps listener to receive OEM traps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-snmp-trap-listener.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[create-event-rules|Event rules]]

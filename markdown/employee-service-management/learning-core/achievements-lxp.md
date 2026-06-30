@@ -14,7 +14,7 @@ breadcrumb: [My Learning, Exploring Learning, Learning, Growth Experiences, HR S
 
 # Achievements
 
-The **Achievements** tab on [[overview-lxp|My Learning]] shows you all your [[exploring-learning-exp|learning]] achievements.
+The **Achievements** tab on My Learning shows you all your learning achievements.
 
 \[Omitted image "achievements-lxp.png"\] Alt text: Achievements tab
 
@@ -23,7 +23,3 @@ The **Achievements** tab on [[overview-lxp|My Learning]] shows you all your [[ex
 |Achievements|Shows your learning achievements. When you learn something new and complete a course you can earn achievements and see them here.|
 |Badges|Displays your achievement badges, if any from Credly.|
 
-## Related
-
-- [[overview-lxp|My Learning]]
-- [[exploring-learning-exp|Learning]]

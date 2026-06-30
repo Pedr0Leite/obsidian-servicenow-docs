@@ -14,7 +14,7 @@ breadcrumb: [Using Lifecycle Events, Lifecycle Events, Employee Journey Manageme
 
 # Clone a lifecycle event
 
-Clone a lifecycle event and its associated [[activity-lxp|activity]] sets and activities with the lifecycle event builder.
+Clone a lifecycle event and its associated activity sets and activities with the lifecycle event builder.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_hr\_le.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hr-lifecycle-events-landing-page-1|Lifecycle Events]]** &gt; **Administration** &gt; **Manage Lifecycle Events**, and open a record.
+1.  Navigate to **All** &gt; **Lifecycle Events** &gt; **Administration** &gt; **Manage Lifecycle Events**, and open a record.
 
 2.  Click **Clone Lifecycle Event** to clone the lifecycle event and all of its associated activity sets and activities.
 
@@ -35,7 +35,3 @@ Role required: sn\_hr\_le.admin
 
 After cloning a lifecycle event, you can filter lifecyle event activities. See, [Filter lifecycle event activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/filter-lifecycle-event-activities.md)
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]

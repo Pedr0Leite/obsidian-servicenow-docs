@@ -12,23 +12,16 @@ breadcrumb: [Reference, Instance Clone, Configure core features, Administer the 
 
 # Troubleshooting for registering target instance
 
-A [[reference-email-admin|reference]] topic that includes troubleshooting to try to resolve errors that occur while registering a target instance.
+A reference topic that includes troubleshooting to try to resolve errors that occur while registering a target instance.
 
 When registering a target instance, consider the following guidelines.
 
--   **[[register-target-instance-1|Credentials error]]**  
+-   **[Credentials error](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/register-target-instance-1.md)**  
 Troubleshoot a credentials error that occurs while registering a target instance.
--   **[[register-target-instance-2|System property error]]**  
+-   **[System property error](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/register-target-instance-2.md)**  
 Troubleshoot a system property error that occurs while registering a target instance.
--   **[[register-target-instance-3|IP authentication error]]**  
+-   **[IP authentication error](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/register-target-instance-3.md)**  
 Troubleshoot a IP authentication error that occurs while registering a target instance
 
-**Parent Topic:**[[instance-clone-reference|Instance Clone reference]]
+**Parent Topic:**[Instance Clone reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-clone-reference.md)
 
-## Related
-
-- [[register-target-instance-1|Credentials error]]
-- [[register-target-instance-2|System property error]]
-- [[register-target-instance-3|IP authentication error]]
-- [[instance-clone-reference|Instance Clone reference]]
-- [[reference-email-admin|Reference]]

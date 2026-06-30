@@ -14,7 +14,7 @@ breadcrumb: [Setting improvement opportunities, Use, Process Mining, Platform An
 
 # Setting improvement opportunity for projects
 
-[[improve-opportunities|Set improvement opportunities]] for projects to find areas of improvement by which teams can optimize a process. You can either select from a list of rules available to you or set your own rules. Based on the rules set by you, you can view your areas of improvement.
+Set improvement opportunities for projects to find areas of improvement by which teams can optimize a process. You can either select from a list of rules available to you or set your own rules. Based on the rules set by you, you can view your areas of improvement.
 
 You can set improvement opportunity using the Finding Builder from the following locations:
 
@@ -26,17 +26,11 @@ You can set improvement opportunity using the Finding Builder from the following
 -   **[Set improvement opportunity from Project Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/setting-impr-opp-proj-build.md)**  
 Set improvement opportunities from Project Builder.
 -   **[Edit improvement opportunities from Summary and insights page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/summ-insights-page.md)**  
-Edit improvement opportunities from the [[summary-insights-dashboard|Summary and insights page]] to [[improvement-opportunities|configure improvement opportunities]] for the project.
+Edit improvement opportunities from the Summary and insights page to configure improvement opportunities for the project.
 -   **[Set improvement opportunities from Analyst workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/transition-filter-imp-opp.md)**  
 Set a process step filter as a rule-based improvement opportunity for your process table or your project.
 -   **[Edit improvement opportunities from Opportunity details page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/from-opp-details-page.md)**  
-Edit improvement opportunities from the [[opportunity-details|Opportunity details page]] to configure improvement opportunities for the project.
+Edit improvement opportunities from the Opportunity details page to configure improvement opportunities for the project.
 
 **Parent Topic:**[Setting improvement opportunities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/working-with-imp-opp.md)
 
-## Related
-
-- [[improve-opportunities|Set improvement opportunities]]
-- [[summary-insights-dashboard|Summary and insights page]]
-- [[improvement-opportunities|Configure improvement opportunities]]
-- [[opportunity-details|Opportunity details page]]

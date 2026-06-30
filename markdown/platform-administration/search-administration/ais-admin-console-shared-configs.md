@@ -15,9 +15,9 @@ breadcrumb: [AI Search Admin console reference, AI Search Admin console, Search 
 
 # AI Search Admin console Shared Configurations page
 
-This page is where you view and manage all [[clone-configurations-tab|configurations]] shared by [[ia-ai-search|AI Search]] and other applications.
+This page is where you view and manage all configurations shared by AI Search and other applications.
 
-\[Omitted image "ais-admin-shared-config.png"\] Alt text: [[ais-admin-console|AI Search Admin console]] Shared Configurations Summary view with 3 callouts highlighted. For a text description, see the table that follows.
+\[Omitted image "ais-admin-shared-config.png"\] Alt text: AI Search Admin console Shared Configurations Summary view with 3 callouts highlighted. For a text description, see the table that follows.
 
 <table id="table_lyh_wwg_rhb"><thead><tr><th>
 
@@ -46,8 +46,8 @@ Tabs for navigating the types of Shared Configurations tables. Select a tab to v
 -   Search sources \[ais\_search\_source\] table
 -   Indexed Sources \[ais\_datasource\] table
 -   Dictionaries \[ais\_dictionary\] table
--   [[genius-results-ais|Genius Results]] \[ais\_genius\_result\_configuration\] table
--   [[defining-search-app-cfgs-ais|Search application configurations]] \[sys\_search\_context\_config\] table
+-   Genius Results \[ais\_genius\_result\_configuration\] table
+-   Search application configurations \[sys\_search\_context\_config\] table
 -   Result-card interfaces \[sys\_ux\_composite\_data\]
 
 </td></tr><tr><td>
@@ -75,10 +75,3 @@ All Shared Configurations tables use the same controls to manage their entries.
 
 For further information on using these tables, see [Create an AI Search configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/ais-admin-console-create-config.md).
 
-## Related
-
-- [[clone-configurations-tab|Configurations]]
-- [[ia-ai-search|AI Search]]
-- [[ais-admin-console|AI Search Admin console]]
-- [[genius-results-ais|Genius Results]]
-- [[defining-search-app-cfgs-ais|Search application configurations]]

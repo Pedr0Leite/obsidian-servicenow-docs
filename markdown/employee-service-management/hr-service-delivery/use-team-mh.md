@@ -14,7 +14,7 @@ breadcrumb: [Use, Manager Hub, HR Service Delivery, Employee Service Management]
 
 # Utilize Manager Library
 
-[[discover-lxp|Discover]] curated and personalised leadership resources for multiple departments and systems. Get tools and resources to efficiently manage your team and self.
+Discover curated and personalised leadership resources for multiple departments and systems. Get tools and resources to efficiently manage your team and self.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Personalised and seasonally-based content from target communications and campaig
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Employee Center**.
 
     The Employee Center portal opens.
 
@@ -34,16 +34,10 @@ Personalised and seasonally-based content from target communications and campaig
 
 3.  Find information on corporate initiatives to focus on for the quarter, such as annual goals and feedback.
 
-4.  Use resources on career development, leader enablement, [[hiring-tab-concept|hiring]] and transitions, managerial events, employee performance evaluation, or other managerial tools to help you work efficiently.
+4.  Use resources on career development, leader enablement, hiring and transitions, managerial events, employee performance evaluation, or other managerial tools to help you work efficiently.
 
-5.  Click the [[emp-center-quick-link-config|quick links]] that navigate you through ServiceNow applications that are integrated with [[manager-hub-overview|Manager Hub]].
+5.  Click the quick links that navigate you through ServiceNow applications that are integrated with Manager Hub.
 
     For more information, refer to [Integrate Manager Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/integrate-mh-jc.md).
 
-## Related
 
-- [[discover-lxp|Discover]]
-- [[employee-center-landing-page|Employee Center]]
-- [[hiring-tab-concept|Hiring]]
-- [[emp-center-quick-link-config|Quick links]]
-- [[manager-hub-overview|Manager Hub]]

@@ -12,32 +12,32 @@ breadcrumb: [Observables, IoC Repository, Threat Intelligence, Enterprise securi
 
 # Perform lookups on observables
 
-You can perform [[threat-intel-landing-page|threat intelligence]] lookups on one or more observables to determine whether they’re associated with known security threats. The scanning implementations that run depend on the ones you’ve activated.
+You can perform threat intelligence lookups on one or more observables to determine whether they’re associated with known security threats. The scanning implementations that run depend on the ones you’ve activated.
 
 ## Before you begin
 
 Before you can perform lookups, you must activate the Threat Intelligence plugin. You must also install the plugin for one or more of the scanning implementations:
 
--   [[crowdstrike-intell-landing-page|CrowdStrike Falcon Intelligence integration]]
--   [[c_Metadefenderintegration|OPSWAT Metadefender]]
+-   [CrowdStrike Falcon Intelligence integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/crowdstrike-intell-landing-page.md)
+-   [OPSWAT Metadefender](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/c_Metadefenderintegration.md)
 -   [Security Operations Have I been pwned?](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/activate-haveibeenpwned.md)
--   [[activate-configure-virustotal|VirusTotal]]
+-   [VirusTotal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/activate-configure-virustotal.md)
 
 Role required: sn\_ti.write
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Threat Intelligence** &gt; **[[ioc-repository|IoC Repository]]** &gt; **Observables**.
+1.  Navigate to **All** &gt; **Threat Intelligence** &gt; **IoC Repository** &gt; **Observables**.
 
 2.  Do one of the following steps:
 
-    -   To perform a lookup on more than one observable, select the observables, click **Actions on selected rows**, and select **[[tisc-run-threat-lookup|Run threat lookup]]**.
+    -   To perform a lookup on more than one observable, select the observables, click **Actions on selected rows**, and select **Run threat lookup**.
     -   To perform a lookup on a single observable, open the observable record, and click the **Run threat lookup** related link.
     \[Omitted image "run-threat-lookup.png"\] Alt text: Run Threat Lookup slushbucket
 
-3.  Select the [[tisc-threat-lookup|threat lookup]] implementations you want to use, or select **All** to perform lookups using all of the active implementations, then click **Submit**.
+3.  Select the threat lookup implementations you want to use, or select **All** to perform lookups using all of the active implementations, then click **Submit**.
 
-    A message indicates that the threat lookups have begun. The [[sec-ops-integ-threat-lookup|Security Operations Integration - Threat Lookup Flow]] runs and also executes the implementation workflows for the threat lookup implementations you selected. The lookups are performed and the results are generated.
+    A message indicates that the threat lookups have begun. The [Security Operations Integration - Threat Lookup Flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sec-ops-integ-threat-lookup.md) runs and also executes the implementation workflows for the threat lookup implementations you selected. The lookups are performed and the results are generated.
 
 4.  When the lookups are completed, you can click the **Threat Lookup Results** tab to view the results.
 
@@ -68,7 +68,7 @@ Role required: sn\_ti.write
     \[Omitted image "threat-lookup-results-details.png"\] Alt text: Threat Lookup Results details
 
 
-**Parent Topic:**[[c_Observables|Observables]]
+**Parent Topic:**[Observables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/c_Observables.md)
 
 **Related topics**  
 
@@ -87,14 +87,3 @@ Role required: sn\_ti.write
 
 [Perform threat enrichment on observables]()
 
-## Related
-
-- [[crowdstrike-intell-landing-page|CrowdStrike Falcon Intelligence integration]]
-- [[c_Metadefenderintegration|OPSWAT Metadefender integration overview]]
-- [[activate-configure-virustotal|Activate and configure the VirusTotal integration]]
-- [[sec-ops-integ-threat-lookup|Security Operations Integration - Threat Lookup Flow]]
-- [[c_Observables|Observables]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[ioc-repository|IoC Repository]]
-- [[tisc-run-threat-lookup|Run Threat Lookup]]
-- [[tisc-threat-lookup|Threat Lookup]]

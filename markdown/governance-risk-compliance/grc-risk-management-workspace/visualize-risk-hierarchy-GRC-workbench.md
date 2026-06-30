@@ -24,7 +24,7 @@ Role required: sn\_risk.reader
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Risk** &gt; **[[grc-workbench|GRC Workbench]]**.
+1.  Navigate to **All** &gt; **Risk** &gt; **GRC Workbench**.
 
 2.  Select **Risk Dependencies**.
 
@@ -39,6 +39,3 @@ Role required: sn\_risk.reader
 
 **Parent Topic:**[Using Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/using-risk-mgmt.md)
 
-## Related
-
-- [[grc-workbench|grc workbench]]

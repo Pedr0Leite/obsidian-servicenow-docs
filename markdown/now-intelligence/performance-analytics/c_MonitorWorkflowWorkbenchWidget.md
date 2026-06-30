@@ -16,7 +16,7 @@ breadcrumb: [Performance Analytics widgets, Reporting, dashboards, and Performan
 
 A workbench process widget is a collection of indicators that tell a story. The widget enables you to analyze multiple facets of multiple indicators on one screen without drilling down. This widget is useful when you want to monitor a process or service that has a workflow.
 
-**Note:** This feature is part of the Core UI front end. It is not supported on [[c_performanceAnalyticsAndReporting|Platform Analytics]] dashboards or UI Builder pages, except to a limited extent when migrated in compatibility mode. To build Platform Analytics components, see [[analytics-center-data-visualizations|Data visualizations in Platform Analytics]] or [[interactive-filters-workspace|Filters in Platform Analytics]].
+**Note:** This feature is part of the Core UI front end. It is not supported on Platform Analytics dashboards or UI Builder pages, except to a limited extent when migrated in compatibility mode. To build Platform Analytics components, see [Data visualizations in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-data-visualizations.md) or [Filters in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters-workspace.md).
 
 This feature is deprecated, meaning it is in maintenance mode and is no longer being augmented or changed. Only security fixes to this feature will be addressed.
 
@@ -26,7 +26,7 @@ The widget has four interconnected sections that dynamically update. For example
 
 **Note:**
 
--   If [[real-time-scores|real-time scores]] are supported for the main indicator and its applied breakdowns, you can view real-time scores. To view real-time scores, select **Real-time** in the date selector. Real-time scores are displayed only in the top pane of the workbench. For more information, see [Real-time scores](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/real-time-scores.md).
+-   If real-time scores are supported for the main indicator and its applied breakdowns, you can view real-time scores. To view real-time scores, select **Real-time** in the date selector. Real-time scores are displayed only in the top pane of the workbench. For more information, see [Real-time scores](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/real-time-scores.md).
 -   The timespan that the widget shows for each score trend depends on the frequency of the indicator. The timespans are: 60 days for daily, one year for weekly and monthly, three years for quarterly, and 12 years for yearly. You cannot set this time span. However, applying a time series aggregation in the widget changes the time span accordingly.
 
 \[Omitted image "WorkbenchProcessWidget.png"\] Alt text: Shows the different sections of the workbench process widget.
@@ -47,7 +47,7 @@ Create a workbench widget to monitor a process using multiple indicators.
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **Performance Anaytics** &gt; **[[widgets|Widgets]]** and click **New**.
+1.  Navigate to **All** &gt; **Performance Anaytics** &gt; **Widgets** and click **New**.
 
     A new widget record appears.
 
@@ -85,7 +85,7 @@ Breakdown and Element
 
 </td><td>
 
-A breakdown [[c_BreakdownElementFilters|element filters]] the data that appears in the indicator. If you select a breakdown you must select an element.
+A breakdown element filters the data that appears in the indicator. If you select a breakdown you must select an element.
 
  For example, if your indicator is **Number of open Incidents** and you select **Breakdown** for **State** and **Active** for **Element**, only scores for incidents in the active state are included in the widget.
 
@@ -181,11 +181,3 @@ Specifies the name of the indicator on the widget. If you do not specify a Label
 
 Review the widget to ensure that the new indicators are correct. If you have not already, add the widget to a dashboard to view it.
 
-## Related
-
-- [[analytics-center-data-visualizations|Data visualizations in Platform Analytics]]
-- [[interactive-filters-workspace|Filters in Platform Analytics]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[real-time-scores|Real-time scores]]
-- [[widgets|Widgets]]
-- [[c_BreakdownElementFilters|Element filters]]

@@ -22,7 +22,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 ## Overview and key features
 
-The [[dlp-landing|Data Loss Prevention Incident Response]] integration with Microsoft enables organizations to gain a unified view of incidents across email, network, endpoint, and cloud sources. Endpoint devices enable remediation workflow involving end users, managers, and  DLP  operations team with automated incident assignment and escalations.
+The Data Loss Prevention Incident Response integration with Microsoft enables organizations to gain a unified view of incidents across email, network, endpoint, and cloud sources. Endpoint devices enable remediation workflow involving end users, managers, and  DLP  operations team with automated incident assignment and escalations.
 
 Use the key features of this integration to do the following actions:
 
@@ -45,9 +45,9 @@ Use the key features of this integration to do the following actions:
 -   **[Getting started with Microsoft DLP IR integration for data loss prevention](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/getting-started-microsoft-integration.md)**  
 Review the following information before you start setting up your Microsoft DLP IR integration for data loss prevention.
 -   **[Install and configure the Microsoft DLP integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/install-configure-microsoft-dlp-integration.md)**  
-[[configure-cortex-xsiam-siem|Install and configure]] the  DLP Incident Response integration with Microsoft DLP from the  ServiceNow® Store on your  ServiceNow AI Platform instance. Start investigating DLP incidents using the  Microsoft DLP event data.
+Install and configure the  DLP Incident Response integration with Microsoft DLP from the  ServiceNow® Store on your  ServiceNow AI Platform instance. Start investigating DLP incidents using the  Microsoft DLP event data.
 -   **[Create a new incident profile for Microsoft DLP integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/create-profile-microsoft-dlp-integration.md)**  
-[[ms-defender-profile|Create an incident profile]] in your  ServiceNow AI Platform instance to retrieve the data from the Microsoft Purview and add the data into the ServiceNow DLP IR incident table.
+Create an incident profile in your  ServiceNow AI Platform instance to retrieve the data from the Microsoft Purview and add the data into the ServiceNow DLP IR incident table.
 -   **[Configure Microsoft DLP IR integration settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/configure-microsoft-integration-settings.md)**  
 Modify the  Microsoft DLP IR  integration default system properties.
 -   **[Request release email from quarantine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/request-email-from-quarantine.md)**  
@@ -72,8 +72,3 @@ Domain separation enables you to separate data, processes, and administrative ta
 
 [Internet Content Adaption Protocol \(ICAP\) integration for DLP IR]()
 
-## Related
-
-- [[dlp-landing|Data Loss Prevention Incident Response]]
-- [[configure-cortex-xsiam-siem|Install and Configure]]
-- [[ms-defender-profile|Create an incident profile]]

@@ -24,7 +24,7 @@ Role required: sp\_admin or admin
 
 1.  Turn on the Performance Analyzer for the portals that you want to evaluate.
 
-    By default, the Performance Analyzer is enabled for the [[c_ServicePortal|Service Portal]] \(sp\).
+    By default, the Performance Analyzer is enabled for the Service Portal \(sp\).
 
     1.  In the navigation filter, enter `sys_properties.list`.
 
@@ -103,6 +103,3 @@ Consider updating any widgets that don’t meet your performance benchmarks to i
 
 **Parent Topic:**[Analyzing portal performance and usage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/using-portal-analytics.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]

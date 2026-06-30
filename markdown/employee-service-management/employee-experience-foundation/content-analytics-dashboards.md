@@ -14,7 +14,7 @@ breadcrumb: [Employee Center Pro reference, Employee Center Pro, Unified Employe
 
 # Content Analytics dashboards
 
-[[ecpro-content-automation-analytics|Content Analytics]] display data visualizations for portal data collected in the default tracking profile.
+Content Analytics display data visualizations for portal data collected in the default tracking profile.
 
 ## Content Analytics dashboard
 
@@ -157,7 +157,7 @@ Bar chart displaying the most viewed pages from the previous day
 
 [Campaign overview and Campaign analytics dashboards]()
 
-[Components installed with [[employee-center-landing-page|Employee Center]] Pro]()
+[Components installed with Employee Center Pro]()
 
 [Components installed with Content engagement]()
 
@@ -193,7 +193,3 @@ Bar chart displaying the most viewed pages from the previous day
 
 [To-do content form]()
 
-## Related
-
-- [[ecpro-content-automation-analytics|Content Analytics]]
-- [[employee-center-landing-page|Employee Center]]

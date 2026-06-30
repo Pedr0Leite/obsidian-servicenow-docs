@@ -14,7 +14,7 @@ breadcrumb: [Report a privacy case, Use, Privacy Case Management, Privacy Manage
 
 # Report a privacy case through email
 
-Identify and [[manage-issues-common-core|manage issues]] related to the impacted areas for the reported privacy case. You can also create issues from the Privacy Case Management landing page.
+Identify and manage issues related to the impacted areas for the reported privacy case. You can also create issues from the Privacy Case Management landing page.
 
 ## Before you begin
 
@@ -54,7 +54,7 @@ You must know:
 
 ## Result
 
-The email triggers an inbound email action in the [[privacy-management|Privacy Management]] application and creates a privacy case.
+The email triggers an inbound email action in the Privacy Management application and creates a privacy case.
 
 Field mapping after email submission:
 
@@ -89,7 +89,3 @@ Any reply sent by the admin appears in the Email tab of the privacy case.
 
 **Parent Topic:**[Reporting a privacy case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/reporting-a-privacy-case.md)
 
-## Related
-
-- [[manage-issues-common-core|Manage issues]]
-- [[privacy-management|privacy management]]

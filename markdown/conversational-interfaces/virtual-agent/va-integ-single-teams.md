@@ -14,7 +14,7 @@ breadcrumb: [Specialized VA integrations for Teams, Integrate VA with Teams, Con
 
 # Integrating multiple ServiceNow instances with a single Microsoft Teams tenant
 
-Enables ServiceNow® [[virtual-agent-landing-page|Virtual Agent]] to allow multiple ServiceNow instances to integrate with single Microsoft Teams tenant.
+Enables ServiceNow® Virtual Agent to allow multiple ServiceNow instances to integrate with single Microsoft Teams tenant.
 
 The Virtual Agent integration with Microsoft Teams creates a one-to-one association between the ServiceNow instance that you are installing from and the Microsoft Teams tenant in which the integration runs. By default, Virtual Agent supports one-select installation that integrates one Microsoft Teams tenant with one ServiceNow instance. By enabling this integration, Virtual Agent allows integrating multiple ServiceNow instances with a single Microsoft Teams tenant. You can integrate multiple ServiceNow instances with a single Microsoft Teams tenant by creating a bot for each of the instances on the Microsoft Teams tenant.
 
@@ -27,14 +27,9 @@ The Virtual Agent integration with Microsoft Teams creates a one-to-one associat
 5.  [Upload the manifest package file to publish your bot](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/upload-package-file-msteams.md)
 
 -   **[Create a bot in Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-bot-msteams.md)**  
-You must [[create-bot-msteams|create a bot in Microsoft Teams]] to be able to integrate with the Virtual Agent.
+You must create a bot in Microsoft Teams to be able to integrate with the Virtual Agent.
 -   **[Integrate your self-configured bot with single Microsoft Teams tenant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/teams-install-custom-app.md)**  
-Integrate multiple ServiceNow instances with a single Microsoft Teams tenant by creating multiple bots on the Microsoft Teams tenant. Use your ServiceNow Virtual Agent application, which supports multiple bots on a single Microsoft Teams tenant, to [[teams-install|install Conversational Integration with Microsoft Teams]] application.
+Integrate multiple ServiceNow instances with a single Microsoft Teams tenant by creating multiple bots on the Microsoft Teams tenant. Use your ServiceNow Virtual Agent application, which supports multiple bots on a single Microsoft Teams tenant, to install Conversational Integration with Microsoft Teams application.
 
 **Parent Topic:**[Specialized Virtual Agent integrations for Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/specialized-va-integs-msteams.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[create-bot-msteams|Create a bot in Microsoft Teams]]
-- [[teams-install|Install Conversational Integration with Microsoft Teams]]

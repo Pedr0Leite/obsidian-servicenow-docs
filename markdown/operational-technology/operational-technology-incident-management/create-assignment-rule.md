@@ -14,7 +14,7 @@ breadcrumb: [Configure, Operational Technology Incident Management, Operational 
 
 # Create an assignment rule
 
-Create an assignment rule to automatically assign an [[operational-technology-overview|Operational Technology]] \(OT\) incident to a group or user according to one or more conditions in the assignment rule. You use assignment rules to run at the time that you open an OT incident.
+Create an assignment rule to automatically assign an Operational Technology \(OT\) incident to a group or user according to one or more conditions in the assignment rule. You use assignment rules to run at the time that you open an OT incident.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ For more information about assignment rules, see [Defining assignment rules](htt
 
 **Parent Topic:**[Configuring Operational Technology Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/configuring-operational-technology-incident-mgt.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]

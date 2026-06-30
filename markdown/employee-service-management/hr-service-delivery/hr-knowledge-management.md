@@ -18,7 +18,7 @@ HR knowledge management allows the enterprise HR department to provide employees
 
 ## HR knowledge bases
 
-The [[case-knowledge-management-landing-page|Case and Knowledge Management]] application provides the following preconfigured HR knowledge base: Human Resources General Knowledge.
+The Case and Knowledge Management application provides the following preconfigured HR knowledge base: Human Resources General Knowledge.
 
 A knowledge administrator can create additional HR knowledge bases. Each knowledge base can be assigned to a knowledge owner and managers, as well as have unique workflows, user criteria, and category structures. See [Create a knowledge base](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/create-a-knowledgebase.md) for more information.
 
@@ -48,7 +48,7 @@ Create or modify a knowledge article within an HR knowledge base to share HR inf
 -   **[Attach knowledge articles to an HR case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/t_AttachKnowledgeArticleToHRCase.md)**  
 Attach one or more knowledge articles to an HR case to help process that record. For example, you can attach an article about the company dress code policy when an HR case is submitted that asks about wearing shorts to work.
 -   **[Knowledge blocks for HR knowledge management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/knowledge-blocks-for-hr-knowledge-management.md)**  
-You can use knowledge blocks with [[hr-service-delivery|HR Service Delivery]] to simplify knowledge authoring for writers and knowledge consumption for readers.
+You can use knowledge blocks with HR Service Delivery to simplify knowledge authoring for writers and knowledge consumption for readers.
 
 **Parent Topic:**[HR Administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_AdministerHRServiceManagement.md)
 
@@ -57,7 +57,3 @@ You can use knowledge blocks with [[hr-service-delivery|HR Service Delivery]] to
 
 [Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management.md)
 
-## Related
-
-- [[case-knowledge-management-landing-page|Case and Knowledge Management]]
-- [[hr-service-delivery|HR Service Delivery]]

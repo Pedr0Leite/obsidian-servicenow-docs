@@ -28,7 +28,7 @@ A page is content that lives at a specific URL. When a user opens the URL, they 
 
 1.  Navigate to **All** &gt; **Now Experience Framework** &gt; **UI Builder**.
 
-2.  From the **Display name** field, filter and search for **[[workspace-dashboard-use|Service Operations Workspace]]**.
+2.  From the **Display name** field, filter and search for **Service Operations Workspace**.
 
     The Experiences page opens.
 
@@ -51,6 +51,3 @@ A page is content that lives at a specific URL. When a user opens the URL, they 
 
 **Parent Topic:**[Customize the Service Operations Workspace for ITOM home page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/customize-sow-landing-page-itom.md)
 
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]

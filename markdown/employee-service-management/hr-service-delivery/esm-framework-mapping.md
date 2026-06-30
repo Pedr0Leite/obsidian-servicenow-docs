@@ -14,7 +14,7 @@ breadcrumb: [Enterprise Service Management Integrations Framework reference, Ent
 
 # Now Assist for HR Service Delivery \(HRSD\) Virtual Agent topic mapping for Enterprise Service Management Integrations Framework
 
-View the Virtual Agent topic-feature-service mapping for [[integ-now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\) integration with Enterprise Service Management Integrations Framework]].
+View the Virtual Agent topic-feature-service mapping for Now Assist for HR Service Delivery \(HRSD\) integration with Enterprise Service Management Integrations Framework.
 
 <table id="table_wkg_4nx_r2c"><thead><tr><th>
 
@@ -159,6 +159,3 @@ Get Worker
 </td></tr></tbody>
 </table>**Parent Topic:**[Enterprise Service Management Integrations Framework reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/ent-service-mgmt-int-framework-reference.md)
 
-## Related
-
-- [[integ-now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\) integration with Enterprise Service Management Integrations Framework]]

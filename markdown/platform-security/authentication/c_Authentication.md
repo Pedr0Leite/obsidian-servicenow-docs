@@ -14,7 +14,7 @@ breadcrumb: [Access Management]
 
 # Authentication
 
-ServiceNow's authentication validates the [[identity-landing|identity]] of a user who accesses an instance, and then authorizes the user to features that match the user's role or job function.
+ServiceNow's authentication validates the identity of a user who accesses an instance, and then authorizes the user to features that match the user's role or job function.
 
 ## Get started
 
@@ -26,7 +26,7 @@ ServiceNow's authentication validates the [[identity-landing|identity]] of a use
 
 </td><td>
 
-[\[Omitted image "bus-password-reset.svg"\] Alt text: [[oauth-inbound|OAuth inbound]] and outbound](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/api-inbound-and-outbound.md)
+[\[Omitted image "bus-password-reset.svg"\] Alt text: OAuth inbound and outbound](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/api-inbound-and-outbound.md)
 
  [OAuth based authentication validates the identity of the client that attempts to establish a trust on the system by using an authentication protocol.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/api-inbound-and-outbound.md)
 
@@ -50,7 +50,7 @@ ServiceNow's authentication validates the [[identity-landing|identity]] of a use
 
 </td><td>
 
-[\[Omitted image "bus-manager.svg"\] Alt text:[[mfa-landing|Multi-factor authentication]] \(MFA\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-landing.md)
+[\[Omitted image "bus-manager.svg"\] Alt text:Multi-factor authentication \(MFA\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-landing.md)
 
  [MFA enables you to provide second level of authentication that includes using passcode from an authentication app, hardware key, biometric authenticator, SMS, or Email.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-landing.md)
 
@@ -79,19 +79,11 @@ ServiceNow's authentication validates the [[identity-landing|identity]] of a use
  [Use external user self-registration to on-board a large volume of external users to your instance.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/external-user-self-registration.md)
 
 </td></tr></tbody>
-</table>You can use several different methods to authenticate [[users|users]]. User credentials are matched to different saved credentials for each method.
+</table>You can use several different methods to authenticate users. User credentials are matched to different saved credentials for each method.
 
 **Note:**
 
 -   The Okta SSO plugin is deprecated.
--   To learn more about the security properties that affect authorization processing, see [Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md) in Instance [[sc-hardening|Security Hardening]] Settings.
--   You can use [[c_SAML2.0WebBrowserSSOProfile|SAML]] and Digest Authentication through the Multiple Provider SSO application.
+-   To learn more about the security properties that affect authorization processing, see [Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md) in Instance Security Hardening Settings.
+-   You can use SAML and Digest Authentication through the Multiple Provider SSO application.
 
-## Related
-
-- [[identity-landing|Identity]]
-- [[oauth-inbound|OAuth Inbound]]
-- [[mfa-landing|Multi-factor authentication]]
-- [[users|Users]]
-- [[sc-hardening|Security hardening]]
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]

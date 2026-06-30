@@ -14,7 +14,7 @@ breadcrumb: [Time Sheet Portal, Time Card management, Working with Task table, T
 
 # Create time cards and log time through Time Sheet Portal
 
-After you create [[c_TimeCards|time cards]] in [[worker-portal|Time Sheet Portal]], log time in the time cards.
+After you create time cards in Time Sheet Portal, log time in the time cards.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ After you create [[c_TimeCards|time cards]] in [[worker-portal|Time Sheet Portal
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[time-sheets|Time Sheets]]** &gt; **Time Sheet Portal**.
+1.  Navigate to **All** &gt; **Time Sheets** &gt; **Time Sheet Portal**.
 
 2.  Create time cards in the **Logged Time Cards** section using any of the following options.
 
@@ -68,7 +68,7 @@ Steps
 
 </td></tr><tr><td id="d369865e219">
 
-**[[t_CreateATimeCard|Create a time card]] from the Tasks, Group Tasks, or Other tab**
+**Create a time card from the Tasks, Group Tasks, or Other tab**
 
 </td><td>
 
@@ -170,9 +170,3 @@ For issues you cannot resolve, contact your system administrator or the user wit
 
 [Log time and submit time sheets of your resources]()
 
-## Related
-
-- [[c_TimeCards|Time cards]]
-- [[worker-portal|Time Sheet Portal]]
-- [[time-sheets|Time Sheets]]
-- [[t_CreateATimeCard|Create a time card]]

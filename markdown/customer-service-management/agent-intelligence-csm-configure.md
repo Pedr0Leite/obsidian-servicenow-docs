@@ -12,7 +12,7 @@ breadcrumb: [Predictive Intelligence for case management, Machine learning solut
 
 # Configure Predictive Intelligence for case management
 
-Activate the Predictive [[intelligence-csm|Intelligence]] plugin and enable the related system property and client script to use Predictive Intelligence with [[c_CustomerServiceManagement|Customer Service Management]].
+Activate the Predictive Intelligence plugin and enable the related system property and client script to use Predictive Intelligence with Customer Service Management.
 
 ## Before you begin
 
@@ -40,7 +40,4 @@ Role required: admin
 
     4.  Click **Update**.
 
-## Related
 
-- [[intelligence-csm|Intelligence]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

@@ -28,7 +28,7 @@ The validation framework for the Digital Resilience Third-party Information Regi
 
 **Note:** The Data Package Model is used to structure and validate RoI packages.
 
-The DPM business validation rules and report.json, reportPackage.json, FrameworkCodeModuleVersion properties enable Third-party risk admins \[sn\_vdr\_risk\_asmt.vendor\_admin\] to view and maintain validation logic and configuration settings for CSV reporting and automated validation. Third-party risk admins can access these properties by navigating to **All** &gt; **Digital [[grc-opres-landing-page|Operational Resilience]] Management** and then selecting **Properties** or **DPM Business Validation Rules**.
+The DPM business validation rules and report.json, reportPackage.json, FrameworkCodeModuleVersion properties enable Third-party risk admins \[sn\_vdr\_risk\_asmt.vendor\_admin\] to view and maintain validation logic and configuration settings for CSV reporting and automated validation. Third-party risk admins can access these properties by navigating to **All** &gt; **Digital Operational Resilience Management** and then selecting **Properties** or **DPM Business Validation Rules**.
 
 ## Validation process
 
@@ -68,6 +68,3 @@ Refer to the following guidance to troubleshoot common validation issues when su
 -   Validation report is difficult to interpret: The report lacks context or field labels are unclear. Download the master template and use it to cross-reference the row number, sheet name, and record identifier. This helps locate the affected record and understand the validation error in context.
 -   File size or encoding issues: The uploaded ZIP file exceeds the 5-MB limit or uses unsupported encoding. Compress the file to meet the size requirement and verify all CSV files use UTF-8 encoding. Re-upload the corrected package.
 
-## Related
-
-- [[grc-opres-landing-page|Operational Resilience]]

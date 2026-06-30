@@ -20,7 +20,7 @@ The Payment card application is a data model that represents payment cards that 
 
 It also supports storing tokenized values for sensitive data, such as the primary account number \(PAN\).
 
-Cards in Payment card can be associated with a Financial Account in [[financial-services-operations-core-data-model|Financial Services Operations Core]]. This relationship can then be used in a [[fso-overview|Financial Services]] Operations \(FSO\) workflow that involves a card account, such as selecting a credit or debit card containing a disputed card transaction.
+Cards in Payment card can be associated with a Financial Account in Financial Services Operations Core. This relationship can then be used in a Financial Services Operations \(FSO\) workflow that involves a card account, such as selecting a credit or debit card containing a disputed card transaction.
 
 \[Omitted image "payment-card-data-model.png"\] Alt text: A data model diagram showing the tables contained in Payment card, and their relationships to tables in Customer Service Install Base Management and Financial Services Operations Core.
 
@@ -28,17 +28,10 @@ Cards in Payment card can be associated with a Financial Account in [[financial-
 
 Payment card is included with Financial Services Operations Core.
 
--   **[[payment-card-application-tables|Payment card tables]]**  
+-   **[Payment card tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/payment-card-application-tables.md)**  
 This section describes the tables in the Payment card application and shows how they store and manage physical payment card information.
--   **[[payment-card-application-roles|Payment card roles]]**  
+-   **[Payment card roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/payment-card-application-roles.md)**  
 This section outlines the core roles involved in managing payment cards in the Payment card application.
 
-**Parent Topic:**[[data-models|Data Models]]
+**Parent Topic:**[Data Models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/data-models.md)
 
-## Related
-
-- [[payment-card-application-tables|Payment card tables]]
-- [[payment-card-application-roles|Payment card roles]]
-- [[data-models|Data Models]]
-- [[financial-services-operations-core-data-model|Financial Services Operations Core]]
-- [[fso-overview|Financial Services]]

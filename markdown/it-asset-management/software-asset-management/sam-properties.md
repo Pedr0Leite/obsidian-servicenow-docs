@@ -16,7 +16,7 @@ breadcrumb: [Software Asset Management references, Software Asset Management, IT
 
 You can set default reconciliation properties such as grouping and reconciliation debugging.
 
-These properties are available for the [[c_SoftwareAssetMgmt|Software Asset Management]] application.
+These properties are available for the Software Asset Management application.
 
 To access these properties, navigate to **All** &gt; **Software Asset** &gt; **Administration** &gt; **Properties**.
 
@@ -50,7 +50,7 @@ SAM Workspace License operations list count limitsn\_sam\_workspace.sam\_license
 
 </td><td>
 
-Enables setting up a threshold limit to show the count of software asset records on the [[operations-workspace|License operations view]]. SAM administrator can set the value of the threshold limit as required.Value is set to **5000000**. If there are less than five million records, then the exact count of software installation records is shown. If there are more than five million records, then the count is shown as 5000000+.
+Enables setting up a threshold limit to show the count of software asset records on the License operations view. SAM administrator can set the value of the threshold limit as required.Value is set to **5000000**. If there are less than five million records, then the exact count of software installation records is shown. If there are more than five million records, then the count is shown as 5000000+.
 
 </td></tr><tr><td>
 
@@ -88,7 +88,7 @@ Enables debugging of reconciliation results to troubleshoot a result. The defaul
 
 </td></tr><tr><td>
 
-Automatically create [[c_CreatingSoftwareModels|software models]] for all 'licensable' productscom.snc.samp.automaticsmrcreation
+Automatically create software models for all 'licensable' productscom.snc.samp.automaticsmrcreation
 
 </td><td>
 
@@ -108,7 +108,7 @@ Disables software model result creation for unlicensed software models. Software
 
 Select the level of aggregation for reconciling licenses for Oracle databases and WebLogic servers on VMware com.snc.samp.oracle.reconlevel
 
- **Note:** This property is available only if you have activated the [[oracle-publisher-pack|Software Asset Management publisher pack for Oracle]].
+ **Note:** This property is available only if you have activated the Software Asset Management publisher pack for Oracle.
 
  **Note:** This property supports domain separation using the domain separation application properties for Software Asset Management. See [Set up domain-specific reconciliation properties for Oracle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/define-application-properties-oracle.md) for more details.
 
@@ -131,7 +131,7 @@ Use host affinity for reconciling licenses for Oracle databases and WebLogic ser
 
 </td><td>
 
-Enables the Software Asset Management application to account for VM-Host affinity rules when reconciling Oracle Database and WebLogic Server licenses within VMware vCenter Server instances. This property is applicable only if you set the aggregation level for [[oracle-recon|Oracle reconciliation]] to **vCenter\(s\)** in the **Select the level of aggregation for reconciling licenses for Oracle databases and WebLogic servers on VMware** property.VM-Host affinity rules enable you to specify the physical ESXi hosts on which your virtual machines can run. If provisions are made for VM-Host affinity rules in your Oracle license agreement, you can lower your licensing obligations by accounting for these rules when licensing your Oracle Database and WebLogic servers.
+Enables the Software Asset Management application to account for VM-Host affinity rules when reconciling Oracle Database and WebLogic Server licenses within VMware vCenter Server instances. This property is applicable only if you set the aggregation level for Oracle reconciliation to **vCenter\(s\)** in the **Select the level of aggregation for reconciling licenses for Oracle databases and WebLogic servers on VMware** property.VM-Host affinity rules enable you to specify the physical ESXi hosts on which your virtual machines can run. If provisions are made for VM-Host affinity rules in your Oracle license agreement, you can lower your licensing obligations by accounting for these rules when licensing your Oracle Database and WebLogic servers.
 
 </td></tr><tr><td>
 
@@ -155,7 +155,7 @@ Excludes the software installed on devices \(from the Software Asset Management 
 
 Enter the license period \(in days\) to be considered during reconciliation, for applications published on Citrix environmentcom.snc.samp.citrix.app.license.period
 
- **Note:** This property is available only if you have activated the [[citrix-publisher-pack|Software Asset Management publisher pack for Citrix]].
+ **Note:** This property is available only if you have activated the Software Asset Management publisher pack for Citrix.
 
 </td><td>
 
@@ -187,7 +187,7 @@ Indicates the number of scheduled jobs that run in parallel to reconciliation. S
 
 </td></tr><tr><td>
 
-Indicates whether Wide-Net Normalization is enabled on the instance. If enabled, Wide-Net Normalization rules/patterns are applied on discovery [[c_Models|models]] that haven’t been fully normalized by regular package normalization rules.com.snc.samp.wide\_net\_normalization.enabled
+Indicates whether Wide-Net Normalization is enabled on the instance. If enabled, Wide-Net Normalization rules/patterns are applied on discovery models that haven’t been fully normalized by regular package normalization rules.com.snc.samp.wide\_net\_normalization.enabled
 
 </td><td>
 
@@ -215,7 +215,7 @@ Indicates the threshold period, based on the number of days after which the bill
 
 </td></tr><tr><td>
 
-Red Hat Enterprise Linux Server for Virtual Datacenters license cost optimization threshold**Note:** This property is available only if you have activated the [[ibm-publisher-pack|Software Asset Management publisher pack for IBM]].
+Red Hat Enterprise Linux Server for Virtual Datacenters license cost optimization threshold**Note:** This property is available only if you have activated the Software Asset Management publisher pack for IBM.
 
 </td><td>
 
@@ -229,7 +229,7 @@ Determines whether you should use RHEL Server or RHEL for Virtual Datacenters li
 
 Microsoft Windows Server for Datacenter license cost optimization threshold com.snc.samp.windowserver.license.threshold
 
-**Note:** This property is available only if you have activated the [[microsoft-publisher-pack|Software Asset Management publisher pack for Microsoft]].
+**Note:** This property is available only if you have activated the Software Asset Management publisher pack for Microsoft.
 
 </td><td>
 
@@ -309,21 +309,9 @@ com.snc.samp.manage.published.products
 
 </td><td>
 
-Enables you to publish software products in the phase-wise Software Asset Management implementation and also remove the published software products. The default value of this property is **false**. By setting the value of this property to **true**, you can view reports and dashboards only related to the software products that you manage in a phase-wise implementation of Software Asset Management in the following views of the [[sam-workspace|Software Asset Workspace]]:-   [Software asset overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sam-workspace-landing.md)
+Enables you to publish software products in the phase-wise Software Asset Management implementation and also remove the published software products. The default value of this property is **false**. By setting the value of this property to **true**, you can view reports and dashboards only related to the software products that you manage in a phase-wise implementation of Software Asset Management in the following views of the Software Asset Workspace:-   [Software asset overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sam-workspace-landing.md)
 -   [License usage view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sam-workspace-workbench.md)
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Software Asset Management references](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/references.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[operations-workspace|License operations view]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[oracle-publisher-pack|Software Asset Management publisher pack for Oracle]]
-- [[oracle-recon|Oracle reconciliation]]
-- [[citrix-publisher-pack|Software Asset Management publisher pack for Citrix]]
-- [[c_Models|Models]]
-- [[ibm-publisher-pack|Software Asset Management publisher pack for IBM]]
-- [[microsoft-publisher-pack|Software Asset Management publisher pack for Microsoft]]
-- [[sam-workspace|Software Asset Workspace]]

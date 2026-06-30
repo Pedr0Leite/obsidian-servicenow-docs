@@ -38,12 +38,8 @@ Role required: admin
     5.  Complete the condition by selecting the language of the desired user.
 5.  Click **Update**.
 
-    All [[notifications|notifications]] for that event originate from the specified email address and go out in the language of the recipient.
+    All notifications for that event originate from the specified email address and go out in the language of the recipient.
 
 
-**Parent Topic:**[[t_CreateANotification|Create an email notification]]
+**Parent Topic:**[Create an email notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateANotification.md)
 
-## Related
-
-- [[t_CreateANotification|Create an email notification]]
-- [[notifications|Notifications]]

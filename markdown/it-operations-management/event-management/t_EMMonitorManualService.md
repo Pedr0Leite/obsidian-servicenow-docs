@@ -22,7 +22,7 @@ Role required: evt\_mgmt\_admin, evt\_mgmt\_operator, or evt\_mgmt\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Services** &gt; **Application Services**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Services** &gt; **Application Services**.
 
     \[Omitted image "application-service-list.png"\] Alt text: Application service list
 
@@ -100,6 +100,3 @@ In the service map:1.  Click a CI tile.
 </table>
 **Parent Topic:**[Monitor service health](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMViewDashboard.md)
 
-## Related
-
-- [[c_EM|Event Management]]

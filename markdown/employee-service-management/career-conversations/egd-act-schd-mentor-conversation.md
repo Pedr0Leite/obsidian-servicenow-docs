@@ -14,11 +14,11 @@ breadcrumb: [Using the Career Conversations application, Career Conversations, G
 
 # Schedule a mentoring conversation in Career Conversations
 
-Use the [[egd-activities-conversations-module|Career Conversations]] app to schedule a conversation with your mentee or mentor. For each conversation you schedule, discuss topics from which the mentee can benefit the most through the mentorship program.
+Use the Career Conversations app to schedule a conversation with your mentee or mentor. For each conversation you schedule, discuss topics from which the mentee can benefit the most through the mentorship program.
 
 ## Before you begin
 
-You must install the Career Conversations application to access it from the [[employee-center-landing-page|Employee Center]].
+You must install the Career Conversations application to access it from the Employee Center.
 
 You must provide your employees with a license to enable access to the Career Conversations app. For more information about employee licensing, refer to [License Talent Development Core users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-employee-profile-licensing.md).
 
@@ -34,7 +34,7 @@ Role required: employee \[sn\_egd\_act.employee\] or manager \[sn\_egd\_act.mana
 
 1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
 
-2.  From the Your career drop-down list, select **[[mentoring-egd-overview|Mentoring]]**.
+2.  From the Your career drop-down list, select **Mentoring**.
 
 3.  Select the **You mentorships** tab.
 
@@ -81,8 +81,3 @@ Use the link in the meeting invitation email to update the agenda.
 
 **Parent Topic:**[Using the Career Conversations application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/egd-activities-use.md)
 
-## Related
-
-- [[egd-activities-conversations-module|Career Conversations]]
-- [[employee-center-landing-page|Employee Center]]
-- [[mentoring-egd-overview|Mentoring]]

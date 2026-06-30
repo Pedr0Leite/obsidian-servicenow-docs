@@ -26,7 +26,7 @@ As a manager, you can view and assign the source document alerts to users with t
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Application** &gt; **[[reg-change-mgmt-landing-page|Regulatory Change Management]]** &gt; **[[list-view-of-reg-alerts|Regulatory Alerts]]** &gt; **Unassigned Alerts**.
+1.  Navigate to **All** &gt; **Application** &gt; **Regulatory Change Management** &gt; **Regulatory Alerts** &gt; **Unassigned Alerts**.
 
     All the regulatory alerts in your instance are displayed. You can view the unassigned alerts and assign them to a specific user. An incoming alert is automatically assigned to the New state.
 
@@ -49,9 +49,9 @@ As a manager, you can view and assign the source document alerts to users with t
     |State|State of the alert.|
     |Type|Type of the regulatory alert. For example, source document.|
     |Taxonomy|
-    |Regulatory body|Organization that [[exercise-management-uib|exercises]] a regulatory function, such as a government agency.|
+    |Regulatory body|Organization that exercises a regulatory function, such as a government agency.|
     |Sector|Different business segments for your organizations, such as banking and insurance.|
-    |Theme|Broad topics that you can use to classify your regulatory content. Possible themes are Privacy, [[grc-opres-landing-page|Operational Resilience]], and Regulatory Filings.|
+    |Theme|Broad topics that you can use to classify your regulatory content. Possible themes are Privacy, Operational Resilience, and Regulatory Filings.|
     |Jurisdiction|Location where a regulatory or legal body can extend the legal authority.|
     |Content type|Different categories of content that a regulatory body can issue, such as legislative materials, regulations, and rules.|
     |Dates|
@@ -84,9 +84,3 @@ The source document alert is assigned to the selected user and it is listed unde
 
 [Train and use the similarity solution to recommend citations on regulatory alerts]()
 
-## Related
-
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]
-- [[list-view-of-reg-alerts|Regulatory alerts]]
-- [[exercise-management-uib|Exercises]]
-- [[grc-opres-landing-page|Operational Resilience]]

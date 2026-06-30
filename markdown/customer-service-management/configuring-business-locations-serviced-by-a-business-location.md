@@ -24,7 +24,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[associate-customer-criteria-to-service-organization|Define the configuration type for customers or business locations]]
+[Define the configuration type for customers or business locations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/associate-customer-criteria-to-service-organization.md)
 
 </td><td>
 
@@ -32,7 +32,7 @@ Define the configuration type for the business location served to provide access
 
 </td></tr><tr><td>
 
-[[associate-customers-or-bus-loc-to-so|Associate customers or business locations to a service organization]]
+[Associate customers or business locations to a service organization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/associate-customers-or-bus-loc-to-so.md)
 
 </td><td>
 
@@ -40,8 +40,3 @@ Associate business locations to service organizations using the organization cus
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[associate-customer-criteria-to-service-organization|Define the configuration type for customers or business locations]]
-- [[associate-customers-or-bus-loc-to-so|Associate customers or business locations to a service organization]]

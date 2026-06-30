@@ -14,7 +14,7 @@ breadcrumb: [Manage employee reservations, Workplace Reservation Management, Wor
 
 # Approve a reservation
 
-Review employee reservations raised using [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] and approve or reject them.
+Review employee reservations raised using Workplace Reservation Management and approve or reject them.
 
 ## Before you begin
 
@@ -42,6 +42,3 @@ Role required: approver\_user
 
 [Manage and configure reservation waitlist]()
 
-## Related
-
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]

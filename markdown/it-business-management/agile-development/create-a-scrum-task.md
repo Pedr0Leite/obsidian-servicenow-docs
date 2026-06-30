@@ -14,7 +14,7 @@ breadcrumb: [Managing your product development using Agile Development 2.0, Agil
 
 # Create a scrum task for Agile Development 2.0 stories
 
-Create scrum tasks in [[agile-landing-page|Agile Development 2.0]] to break down a story into manageable pieces for your team to work on. You can create one scrum task at a time or multiple scrum tasks at once.
+Create scrum tasks in Agile Development 2.0 to break down a story into manageable pieces for your team to work on. You can create one scrum task at a time or multiple scrum tasks at once.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ This task explains how to create one scrum task at a time. To save time, you can
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[agile-development|Agile Development]]** &gt; **Stories**
+1.  Navigate to **All** &gt; **Agile Development** &gt; **Stories**
 
 2.  Open a story that you want to create tasks for.
 
@@ -169,7 +169,3 @@ For your Agile Development 2.0 stories, create batches of different types of scr
 
 **Parent Topic:**[Managing your product development using Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/using-agile-development-2-0.md)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]
-- [[agile-development|Agile Development]]

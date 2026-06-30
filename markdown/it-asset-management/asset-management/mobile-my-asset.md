@@ -17,9 +17,9 @@ breadcrumb: [Use, Asset Management, IT Asset Management]
 Use the ServiceNow Mobile and ServiceNow Agent apps to manage your assets.
 
 -   **[ServiceNow Agent app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/agent-mobile-asset.md)**  
-Use the [[agent-mobile-asset|ServiceNow Agent app]] to [[t_CreatingAssets|create assets]], look up assets, and [[c_ReceiveAssets|receive assets]] from a purchase order.
+Use the ServiceNow Agent app to create assets, look up assets, and receive assets from a purchase order.
 -   **[Now Mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/now-mobile-asset.md)**  
-Use the [[now-mobile-asset|Now Mobile app]] to view the assets that are assigned to you, to report any issues with your assets, and to remotely receive new assets. Create incidents to report any issues with your assets to your IT department.
+Use the Now Mobile app to view the assets that are assigned to you, to report any issues with your assets, and to remotely receive new assets. Create incidents to report any issues with your assets to your IT department.
 
 **Parent Topic:**[Using Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/using-asset-management.md)
 
@@ -42,9 +42,3 @@ Use the [[now-mobile-asset|Now Mobile app]] to view the assets that are assigned
 
 [Use Organization Management]()
 
-## Related
-
-- [[agent-mobile-asset|ServiceNow Agent app]]
-- [[t_CreatingAssets|Create assets]]
-- [[c_ReceiveAssets|Receive assets]]
-- [[now-mobile-asset|Now Mobile app]]

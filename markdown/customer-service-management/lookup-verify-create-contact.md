@@ -29,7 +29,7 @@ If an agent can't find a contact or consumer, they can create a record for that 
 
 ## Procedure
 
-1.  [[csm-workspaces-open|Open CSM Configurable Workspace]].
+1.  Open CSM Configurable Workspace.
 
 2.  From a saved interaction record, click one of the following icons in the Contextual side panel to access the Lookup and verify feature.
 
@@ -56,12 +56,7 @@ If an agent can't find a contact or consumer, they can create a record for that 
 **Related topics**  
 
 
-[[lookup-and-verify-overview|Lookup and verify]]
+[Lookup and verify](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/lookup-and-verify-overview.md)
 
-[[lookup-verify-contact-consumer|Look up and verify a contact or consumer]]
+[Look up and verify a contact or consumer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/lookup-verify-contact-consumer.md)
 
-## Related
-
-- [[lookup-and-verify-overview|Lookup and verify]]
-- [[lookup-verify-contact-consumer|Look up and verify a contact or consumer]]
-- [[csm-workspaces-open|Open CSM Configurable Workspace]]

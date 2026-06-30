@@ -14,7 +14,7 @@ breadcrumb: [Models, Product Catalog, Asset Management, IT Service Management]
 
 # Create hardware models
 
-Use hardware [[c_Models|models]] to track equipment assets such as servers and racks. You can create a new hardware model.
+Use hardware models to track equipment assets such as servers and racks. You can create a new hardware model.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: model\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ProductCatalog|Product Catalog]]** &gt; **Product Model** &gt; **Hardware Models**.
+1.  Navigate to **All** &gt; **Product Catalog** &gt; **Product Model** &gt; **Hardware Models**.
 
 2.  Click **New**.
 
@@ -46,7 +46,3 @@ On a hardware model record, you can add substitutes to track what hardware model
 
 **Parent Topic:**[Models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/c_Models.md)
 
-## Related
-
-- [[c_Models|Models]]
-- [[c_ProductCatalog|Product Catalog]]

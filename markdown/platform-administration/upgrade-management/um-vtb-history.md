@@ -20,7 +20,7 @@ To view the history report navigate to Upgrade History using one of the followin
 
 |Option|Navigation|
 |------|----------|
-|Using left navigation|Navigate to **All** &gt; **[[admin-center-intro|Admin Center]]** &gt; **Upgrade Management** &gt; **Upgrade History**.|
+|Using left navigation|Navigate to **All** &gt; **Admin Center** &gt; **Upgrade Management** &gt; **Upgrade History**.|
 |Using Admin tab option|Navigate to **Admin** &gt; **Upgrade Management** &gt; **Upgrade History**.|
 
 You can then select an upgrade from the list to view the upgrade history details. Click the **Skipped Record VTB** related link to view and manage the skipped records over VTB.
@@ -46,16 +46,11 @@ The skipped records are prioritized based on the importance of the file types. T
 \[Omitted image "uc-vtb.png"\] Alt text: Image showing the VTB view of skipped records resolution status
 
 -   **[Upgrade History Task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-history-task-form.md)**  
-You can update information about a skipped record task using the [[uc-history-task-form|Upgrade History Task form]].
+You can update information about a skipped record task using the Upgrade History Task form.
 -   **[Previous Resolutions related list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-previous-resolutions-rl.md)**  
-The [[uc-previous-resolutions-rl|Previous Resolutions related list]] shows the history of the selected skipped record. You can see what resolutions have been done with the selected skipped record in the previous upgrades.
+The Previous Resolutions related list shows the history of the selected skipped record. You can see what resolutions have been done with the selected skipped record in the previous upgrades.
 -   **[Update default labels in VTB view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-label-vtb.md)**  
 Filter skipped records in the task board of the VTB with the implementation of color-coded labels. You can filter the skipped records by assigning a color to each of the products.
 
 **Parent Topic:**[Reviewing upgrade history](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-review-history.md)
 
-## Related
-
-- [[admin-center-intro|Admin Center]]
-- [[uc-history-task-form|Upgrade History Task form]]
-- [[uc-previous-resolutions-rl|Previous Resolutions related list]]

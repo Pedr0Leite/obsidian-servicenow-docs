@@ -18,15 +18,11 @@ Key terms describe the terminology used in Test Management.
 
 |Term|Definition|
 |----|----------|
-|Test suite|A repository of [[c_TestCases|test cases]]. Test cases in a test suite can be copied over to a test plan.|
-|Test case|A collection of related [[c_Tests|tests]]. A test case is saved as part of a test suite and can be added to a test plan. Each test case within a test plan has an assigned tester.|
+|Test suite|A repository of test cases. Test cases in a test suite can be copied over to a test plan.|
+|Test case|A collection of related tests. A test case is saved as part of a test suite and can be added to a test plan. Each test case within a test plan has an assigned tester.|
 |Test|A collection of conditions or steps used to determine whether a feature is working correctly. A test also includes an expected result, which is used to determine if the test case passes or fails.|
 |Test plan|The tasks for how a product or a feature is to be tested. A test plan includes one or more test cases and can also specify a test environment. The test manager uses the test plan to assign and execute test cases and to track the testing progress.|
 |Test environment|The instance where testing should be performed, specified as a URL. A test environment is an optional parameter that the test manager can associate with a test plan.|
 |Test execution|The process of performing tests. The test manager assigns testers to test cases in a test plan; testers perform the tests in the assigned test cases.|
 |Guided test execution|An automated notification process for performing tests. The test manager assigns testers to test cases in a test plan and initiates testing from the Test Plan form. Testers receive notification to begin testing using the Assessments engine.|
 
-## Related
-
-- [[c_TestCases|Test cases]]
-- [[c_Tests|Tests]]

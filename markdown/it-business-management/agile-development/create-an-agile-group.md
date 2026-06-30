@@ -22,11 +22,11 @@ Role required: admin
 
 ## About this task
 
-\[Omitted video\] Description: Creating [[manage-groups-agile-dev|assignment groups in Agile Development 2.0]]
+\[Omitted video\] Description: Creating assignment groups in Agile Development 2.0
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[agile-development|Agile Development]]** &gt; **Create Agile Group**.
+1.  Navigate to **All** &gt; **Agile Development** &gt; **Create Agile Group**.
 
 2.  On the form, fill in the fields.
 
@@ -59,7 +59,3 @@ The Agile assignment groups are created and stored in the Groups \[sys\_user\_gr
 
 **Parent Topic:**[Assignment groups in Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/manage-groups-agile-dev.md)
 
-## Related
-
-- [[manage-groups-agile-dev|Assignment groups in Agile Development 2.0]]
-- [[agile-development|Agile Development]]

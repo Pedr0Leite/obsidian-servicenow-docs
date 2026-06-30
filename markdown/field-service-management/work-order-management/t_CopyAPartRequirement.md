@@ -18,7 +18,7 @@ Copy a part requirement to quickly create another, similar part requirement.
 
 ## Before you begin
 
-Role required: wm\_agent, wm\_qualifier, wm\_dispatcher, wm\_admin, or [[r_UserRoleInstallWFieldSrvMgmnt|qualifier combination role]]
+Role required: wm\_agent, wm\_qualifier, wm\_dispatcher, wm\_admin, or [qualifier combination role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/r_UserRoleInstallWFieldSrvMgmnt.md)
 
 ## Procedure
 
@@ -36,6 +36,4 @@ Role required: wm\_agent, wm\_qualifier, wm\_dispatcher, wm\_admin, or [[r_UserR
 
 6.  In the Source Work Order list, right-click on a work order task number and select **Paste Part Requirement**.
 
-## Related
 
-- [[r_UserRoleInstallWFieldSrvMgmnt|Roles installed with Field Service Management]]

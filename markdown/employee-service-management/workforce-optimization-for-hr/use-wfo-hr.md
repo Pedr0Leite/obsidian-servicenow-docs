@@ -23,10 +23,7 @@ Use Teams to track and analyze performance trends for your teams from a single l
 -   **[Scheduling in Workforce Optimization for HR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/scheduling-configurable-wfo-hr.md)**  
 Use Scheduling to manage your workforce resources efficiently by planning and managing schedules, staffing, and shifts across your teams all from one location. You can also integrate with on-call scheduling and create shifts and schedule for on-call rotations.
 -   **[Coaching in Workforce Optimization for HR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/using-coaching-wfo-hr.md)**  
-Use [[using-coaching-wfo-hr|Coaching in Workforce Optimization for HR]] to assess your team's abilities to efficiently resolve cases by reviewing their work at critical moments.
+Use Coaching in Workforce Optimization for HR to assess your team's abilities to efficiently resolve cases by reviewing their work at critical moments.
 
 **Parent Topic:**[Workforce Optimization for HR Overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/wfo-hr-overview.md)
 
-## Related
-
-- [[using-coaching-wfo-hr|Coaching in Workforce Optimization for HR]]

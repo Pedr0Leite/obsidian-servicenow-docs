@@ -26,8 +26,6 @@ Completing work orders on the web interface can include one or more of the follo
 
 -   [Contractor Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/field-service-contractor-portal.md)
 
-    The [[field-service-contractor-portal|Contractor Portal]] allows managers and field service agents of contractor companies to manage and work on the assigned work order tasks.
+    The Contractor Portal allows managers and field service agents of contractor companies to manage and work on the assigned work order tasks.
 
-## Related
 
-- [[field-service-contractor-portal|Contractor Portal]]

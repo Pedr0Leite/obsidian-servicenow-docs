@@ -14,7 +14,7 @@ breadcrumb: [Configure, Journey Accelerator, Employee Journey Management, HR Ser
 
 # Configure action plan access in the Employee Center
 
-Add or change the header menu labels. Or, update the My active items list link used to access action plans in the [[employee-center-landing-page|Employee Center]] user interface.
+Add or change the header menu labels. Or, update the My active items list link used to access action plans in the Employee Center user interface.
 
 ## Configure Journey Accelerator menu items in the Employee Center
 
@@ -31,6 +31,3 @@ Install the latest Employee Center app from the ServiceNow Store. After you inst
 3.  -   [Add a Journey Accelerator action plan link to My Active Items list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-accelerator/add-ja-action-plan-myitems-list.md)
 -   [Add a Journey Accelerator action plan menu to the Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-accelerator/add-ja-action-plan-menu-ec-header.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

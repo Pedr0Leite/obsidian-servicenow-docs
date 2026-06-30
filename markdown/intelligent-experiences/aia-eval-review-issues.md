@@ -20,7 +20,7 @@ Role required: sn\_aia.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[now-assist-skill-kit-landing|Now Assist Skill Kit]]** &gt; **Agentic Evaluations**.
+1.  Navigate to **All** &gt; **Now Assist Skill Kit** &gt; **Agentic Evaluations**.
 
 2.  From the list, select the automated evaluation you want to review.
 
@@ -74,7 +74,7 @@ Traces with this issue
 
 </td><td>
 
-Specific execution logs where the issue is seen. You can [[aia-eval-analyze-traces|analyze traces]] to understand how the issue manifests.
+Specific execution logs where the issue is seen. You can [analyze traces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-eval-analyze-traces.md) to understand how the issue manifests.
 
 </td></tr><tr><td>
 
@@ -82,7 +82,7 @@ Analysis notes
 
 </td><td>
 
-Space for you to add details about the analysis and what you want to communicate to others about the issue. These notes aren't considered when applying optimizations. See [[aia-eval-apply-optimization|Apply optimizations]] for more information.
+Space for you to add details about the analysis and what you want to communicate to others about the issue. These notes aren't considered when applying optimizations. See [Apply optimizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-eval-apply-optimization.md) for more information.
 
 </td></tr></tbody>
 </table>5.  [Analyze the traces of the issue](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-eval-analyze-traces.md).
@@ -98,8 +98,3 @@ Issues associated with the metrics for different components of the agentic AI as
 
 Proceed to the next step to [apply optimizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-eval-apply-optimization.md) to fix identified issues.
 
-## Related
-
-- [[aia-eval-analyze-traces|Analyze traces found in agentic evaluation run results]]
-- [[aia-eval-apply-optimization|Apply optimizations to agentic AI assets and reevaluate]]
-- [[now-assist-skill-kit-landing|Now Assist Skill Kit]]

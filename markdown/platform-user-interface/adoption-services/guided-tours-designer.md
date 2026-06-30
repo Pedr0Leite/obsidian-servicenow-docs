@@ -16,9 +16,9 @@ breadcrumb: [Explore Guided Tours, Guided Tours, Adoption services, Configure us
 
 The Guided Tour Designer is a tool for creating interactive, step-by-step walkthroughs that guide users through the ServiceNow AI Platform®.
 
-Guided Tour Designer \(GTD\) is a standard feature provided by default, with [[guided-tours|Guided Tours]] for any business unit.
+Guided Tour Designer \(GTD\) is a standard feature provided by default, with Guided Tours for any business unit.
 
-Administrators assigned to the guided tour admin role \(**guided\_tour\_admin**\) use the GTD to design guided tours. These integrated instructions and visual prompts offer users clear guidance for effectively navigating [[form-configurable-workspace|forms]], applications, and online portals.
+Administrators assigned to the guided tour admin role \(**guided\_tour\_admin**\) use the GTD to design guided tours. These integrated instructions and visual prompts offer users clear guidance for effectively navigating forms, applications, and online portals.
 
 ## Key feature of GTD
 
@@ -32,7 +32,7 @@ Administrators assigned to the guided tour admin role \(**guided\_tour\_admin**\
 
 -   **On-demand and auto-launch tours**
 
-    Administers can [[configure-onboarding-modals|configure]] the tour to auto-launch and users can access tours whenever they need them.
+    Administers can configure the tour to auto-launch and users can access tours whenever they need them.
 
 -   **Tour insights**
 
@@ -53,8 +53,4 @@ Administrators assigned to the guided tour admin role \(**guided\_tour\_admin**\
 
     Users can easily locate what they need and complete tasks efficiently.
 
-## Related
 
-- [[guided-tours|Guided Tours]]
-- [[form-configurable-workspace|Forms]]
-- [[configure-onboarding-modals|Configure]]

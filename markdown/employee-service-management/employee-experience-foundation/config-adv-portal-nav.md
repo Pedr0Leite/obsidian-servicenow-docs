@@ -14,7 +14,7 @@ breadcrumb: [Advanced Portal Navigation, Setup Employee Center browse experience
 
 # Configure advanced portal navigation order
 
-[[adv-portal-navigation-overview|Advanced Portal Navigation]] \(APN\) helps you design and configure an intuitive navigation for better information architecture and discovery. You can reorder topics and non-topic menu items based on employee needs.
+Advanced Portal Navigation \(APN\) helps you design and configure an intuitive navigation for better information architecture and discovery. You can reorder topics and non-topic menu items based on employee needs.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: Admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Advanced Portal Navigation**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **Advanced Portal Navigation**.
 
 2.  Click **New** or view the list of the available portals.
 
@@ -68,7 +68,3 @@ To include any future changes in the service portal menu or root topics in the a
 
 When sync happens, the new items appear in the end. Update the order manually to change the display order.
 
-## Related
-
-- [[adv-portal-navigation-overview|Advanced Portal Navigation]]
-- [[employee-center-landing-page|Employee Center]]

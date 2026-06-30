@@ -14,11 +14,11 @@ breadcrumb: [Explore, Software Bill of Materials, Unified Security Exposure Mana
 
 # Exploring supported applications for Software Bill of Materials
 
-Third-party vulnerability intelligence and other integrations with the [[sbom-landing|Software Bill of Materials]] applications can enhance the data of your uploaded files.
+Third-party vulnerability intelligence and other integrations with the Software Bill of Materials applications can enhance the data of your uploaded files.
 
 ## Supported applications benefits
 
-Third-party vulnerability intelligence and other integrations with the Software Bill of Materials applications permit you to view counts for components that are considered stale and abandoned, as well as information about if you can fix any [[vulnerabilities|vulnerabilities]] associated with components.
+Third-party vulnerability intelligence and other integrations with the Software Bill of Materials applications permit you to view counts for components that are considered stale and abandoned, as well as information about if you can fix any vulnerabilities associated with components.
 
 The ServiceNow® applications and third-party integrations listed in the following table are supported by the SBOM applications. These applications provide you with enriched vulnerability data, vulnerability intelligence, and other key information that can help you view and prioritize the vulnerabilities associated with SBOM files. All these applications and integrations are available from the ServiceNow® Store.
 
@@ -40,9 +40,9 @@ Users
 
 </th></tr></thead><tbody><tr><td>
 
-[[vuln-landing-page|Vulnerability Response]] is required if you install the SBOM Response application. Install The Vulnerability Response application prior to installing SBOM Response.
+Vulnerability Response is required if you install the SBOM Response application. Install The Vulnerability Response application prior to installing SBOM Response.
 
- [[avr-landing|Application Vulnerability Response]] features are installed with Vulnerability Response. These features enable access to the [[vulnerability-manager-workspace-landing-page|Vulnerability Manager Workspace]] in the Vulnerability Response application and the vulnerability workflow to help you remediate application vulnerable items \(AVIT\)s.
+ Application Vulnerability Response features are installed with Vulnerability Response. These features enable access to the Vulnerability Manager Workspace in the Vulnerability Response application and the vulnerability workflow to help you remediate application vulnerable items \(AVIT\)s.
 
 </td><td>
 
@@ -74,7 +74,7 @@ For compatibility information, see [KB0856498 Vulnerability Response Compatibili
 
 </td></tr><tr><td>
 
-Import software bills of material files with the [[veracode-vuln-integration|Veracode Vulnerability Integration]]. The Veracode Vulnerability Integration includes the following enhancements with Veracode SBOM files:-   If you have installed SBOM Response, you have the option to include vulnerabilities found by SBOM for the SBOM files you upload.
+Import software bills of material files with the Veracode Vulnerability Integration. The Veracode Vulnerability Integration includes the following enhancements with Veracode SBOM files:-   If you have installed SBOM Response, you have the option to include vulnerabilities found by SBOM for the SBOM files you upload.
 -   SBOM is mapped to the Source field for records in the Bill of Materials \[sn\_sbom\_doc\] table for the SBOM SBOM files that you upload.
 
 See [Veracode Vulnerability Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/application-vulnerability-response/veracode-vuln-integration.md) for more information.
@@ -115,12 +115,3 @@ Starting with version 4.0 of SBOM Core.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sbom-landing|Software Bill of Materials]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[avr-landing|Application Vulnerability Response]]
-- [[vulnerability-manager-workspace-landing-page|Vulnerability Manager Workspace]]
-- [[veracode-vuln-integration|Veracode Vulnerability Integration]]

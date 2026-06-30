@@ -15,7 +15,7 @@ breadcrumb: [Example Asset Refresh Virtual Agent conversation with notifications
 
 # Associate content with the Asset Refresh notification
 
-After creating the actionable notification for the Asset Refresh topic, go back into the notification and add content. This links the notification with the [[virtual-agent-landing-page|Virtual Agent]] topic that you created.
+After creating the actionable notification for the Asset Refresh topic, go back into the notification and add content. This links the notification with the Virtual Agent topic that you created.
 
 ## Before you begin
 
@@ -166,6 +166,4 @@ Select **mweb**, which is the default channel for Virtual Agent. You can configu
 
     3.  Select **Submit**.
 
-## Related
 
-- [[virtual-agent-landing-page|Virtual Agent]]

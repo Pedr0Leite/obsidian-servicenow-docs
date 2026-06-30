@@ -22,7 +22,7 @@ Role required: email\_composer
 
 1.  Open a Workspace record in your instance.
 
-2.  Select the **Email** tab in [[activity-stream-compose-configurable-workspace|Compose]].
+2.  Select the **Email** tab in Compose.
 
     An email draft opens with the same functionality as creating an email from a new workspace tab.
 
@@ -42,17 +42,12 @@ Role required: email\_composer
 
 7.  Create the email body.
 
-    You can insert an email template into the email body. For more information, see [[compose-emails-with-email-templates|Use email templates in the mini email composer]].
+    You can insert an email template into the email body. For more information, see [Use email templates in the mini email composer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/compose-emails-with-email-templates.md).
 
-    You can attach a file to the email. For more information, see [[add-a-file-to-an-email-from-the-mini-email-composer|Add a file to an email from the mini email composer]].
+    You can attach a file to the email. For more information, see [Add a file to an email from the mini email composer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/add-a-file-to-an-email-from-the-mini-email-composer.md).
 
 8.  Select **Send**.
 
-    Drafts save automatically after a set number of seconds. For more information on finding email drafts, see [[review-email-drafts-from-the-mini-email-composer|Review email drafts from the mini email composer]].
+    Drafts save automatically after a set number of seconds. For more information on finding email drafts, see [Review email drafts from the mini email composer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/review-email-drafts-from-the-mini-email-composer.md).
 
-## Related
 
-- [[compose-emails-with-email-templates|Use email templates in the mini email composer]]
-- [[add-a-file-to-an-email-from-the-mini-email-composer|Add a file to an email from the mini email composer]]
-- [[review-email-drafts-from-the-mini-email-composer|Review email drafts from the mini email composer]]
-- [[activity-stream-compose-configurable-workspace|Compose]]

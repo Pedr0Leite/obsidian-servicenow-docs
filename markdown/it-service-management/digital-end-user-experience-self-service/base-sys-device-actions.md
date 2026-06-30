@@ -14,7 +14,7 @@ breadcrumb: [Reference, Digital End-user Experience Self-service, Digital End-Us
 
 # Base system device actions
 
-DEX Self-service includes these [[device-actions|device actions]] in the base system.
+DEX Self-service includes these device actions in the base system.
 
 DEX Self-service includes the following device actions by default. Each action appears as a button for end users and helps resolve a specific device issue on supported operating systems.
 
@@ -23,6 +23,3 @@ DEX Self-service includes the following device actions by default. Each action a
 |Reinstall application|Microsoft Teams, Microsoft Outlook, or Zoom application crashes|macOS, Windows|
 |Clear disk space|Low disk space|Windows|
 
-## Related
-
-- [[device-actions|Device actions]]

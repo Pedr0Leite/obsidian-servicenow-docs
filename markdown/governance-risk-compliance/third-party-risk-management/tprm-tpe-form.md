@@ -14,7 +14,7 @@ breadcrumb: [Third-party \(external\) risk assessment management, Reference, Thi
 
 # Third-party element form
 
-Use the third-party element form to capture all the information that you need to [[tprm-tp-element-create|create a third-party element record]] using the Third-party Risk Management application. As a third-party risk manager, third-party risk assessor, or due diligence request owner, you can create a third-party element record.
+Use the third-party element form to capture all the information that you need to create a third-party element record using the Third-party Risk Management application. As a third-party risk manager, third-party risk assessor, or due diligence request owner, you can create a third-party element record.
 
 <table id="table_FloorForm"><thead><tr><th>
 
@@ -123,6 +123,3 @@ Values that are used to mark the location on the Risk concentration map. For mor
 
 [Add a third-party element record to an engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-tp-element-engagement.md)
 
-## Related
-
-- [[tprm-tp-element-create|Create a third-party element record]]

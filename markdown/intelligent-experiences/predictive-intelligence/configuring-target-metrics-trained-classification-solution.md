@@ -18,7 +18,7 @@ Set values for precision, coverage, and recall statistics for a trained machine 
 
 ## Setting classification metric values at the class or solution level
 
-[[predictive-intelligence-landing|Predictive Intelligence]] provides three classification metric types: precision, coverage, and recall. You configure these metrics on the Solution Statistics tab of a trained classification solution form. While you can manually set values to these metrics at the class level, doing so can be challenging if you have a large number of classes to cover. In many [[cases|cases]], you may not know the best value to set until your solution is trained. This topic focuses on setting the metric values at just the solution level.
+Predictive Intelligence provides three classification metric types: precision, coverage, and recall. You configure these metrics on the Solution Statistics tab of a trained classification solution form. While you can manually set values to these metrics at the class level, doing so can be challenging if you have a large number of classes to cover. In many cases, you may not know the best value to set until your solution is trained. This topic focuses on setting the metric values at just the solution level.
 
 ## Configuring solution metrics
 
@@ -41,7 +41,7 @@ Here's a sample landing page for a recently trained classification solution. As 
 
 \[Omitted image "metric-default-solution.png"\] Alt text: This sample image shows the estimated values set for solution precision, recall and coverage metrics.
 
-If you need to adjust these default values for a use case, refer to the sample [[exploring-ai-governance|configurations]] below. For example, based on the classification solution you're implementing, you might want to change the target metric value for precision, recall, or coverage. Keep in mind that when you change the target metric value for one metric, such as precision, it impacts the values of the recall and coverage metrics as well.
+If you need to adjust these default values for a use case, refer to the sample configurations below. For example, based on the classification solution you're implementing, you might want to change the target metric value for precision, recall, or coverage. Keep in mind that when you change the target metric value for one metric, such as precision, it impacts the values of the recall and coverage metrics as well.
 
 ## Precision configuration example
 
@@ -81,8 +81,3 @@ By Sorting \(z to a\) on the Estimated Precision column you can see which classe
 
 \[Omitted image "metric-all-example-result-classes.png"\] Alt text: The class-level results the system applied to a solution's precision, coverage, and recall statistics for 37 classes.
 
-## Related
-
-- [[predictive-intelligence-landing|Predictive Intelligence]]
-- [[cases|Cases]]
-- [[exploring-ai-governance|Configurations]]

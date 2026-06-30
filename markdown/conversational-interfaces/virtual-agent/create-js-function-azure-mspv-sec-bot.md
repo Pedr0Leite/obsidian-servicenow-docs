@@ -14,7 +14,7 @@ breadcrumb: [Using Microsoft Power Virtual Agents as a secondary bot with Virtua
 
 # Create a JavaScript function in Microsoft Azure using Visual Studio Code
 
-To use Power Virtual Agents with [[virtual-agent-landing-page|Virtual Agent]] Bot Interconnect, you must create a JavaScript function in Microsoft Azure using the sample code files in Bot Interconnect.
+To use Power Virtual Agents with Virtual Agent Bot Interconnect, you must create a JavaScript function in Microsoft Azure using the sample code files in Bot Interconnect.
 
 ## Before you begin
 
@@ -69,6 +69,3 @@ Role required: admin
 
 **Next topic:**[Locate and copy the Direct Line secret key in Microsoft Power Virtual Agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/get-dl-secret-key-mspva.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

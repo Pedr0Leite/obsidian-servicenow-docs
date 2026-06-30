@@ -12,7 +12,7 @@ breadcrumb: [Enhanced address data model for accounts, Configure accounts and co
 
 # Enable enhanced address model for accounts
 
-Use the [[account-address-table|Account Address table]] in the enhanced address data model feature to link a location with multiple accounts without creating duplicate location records.
+Use the Account Address table in the enhanced address data model feature to link a location with multiple accounts without creating duplicate location records.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ Role required: sn\_crm\_foundation\_admin, script\_include\_admin, and script\_f
 
 3.  Update the custom code that references the Account Address table.
 
-    The custom code can include elements that fetch the address of accounts in the Account Address table. Such elements can be reference qualifiers, script includes, business [[gamification-components-rules|rules]], and access control [[migration-lists|lists]] \(ACLs\) referencing to the Location table.
+    The custom code can include elements that fetch the address of accounts in the Account Address table. Such elements can be reference qualifiers, script includes, business rules, and access control lists \(ACLs\) referencing to the Location table.
 
 4.  Move the account-related data from the Location table to the Account Address table.
 
@@ -51,16 +51,10 @@ Role required: sn\_crm\_foundation\_admin, script\_include\_admin, and script\_f
 
     **Note:** You must not deactivate Type and Primary attributes.
 
-    This deactivation removes the Account and the Custom Relationship fields from the location-related [[migration-forms|forms]], lists, and related lists.
+    This deactivation removes the Account and the Custom Relationship fields from the location-related forms, lists, and related lists.
 
 7.  Set the system property **enable\_account\_address\_sharing** to true.
 
-    This property enables the enhanced address [[data-models|data models]] for accounts. The Account Addresses related list is displayed on the account and location form.
+    This property enables the enhanced address data models for accounts. The Account Addresses related list is displayed on the account and location form.
 
-## Related
 
-- [[account-address-table|Account Address table]]
-- [[gamification-components-rules|Rules]]
-- [[migration-lists|Lists]]
-- [[migration-forms|Forms]]
-- [[data-models|Data models]]

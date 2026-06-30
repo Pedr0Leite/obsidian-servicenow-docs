@@ -14,7 +14,7 @@ breadcrumb: [Setting up Contact Tracing, Contact Tracing, Safe Workplace, Health
 
 # Map handheld computing devices assigned to employees
 
-Map handheld computing devices that are assigned to employees and running the Zebra MotionWorks software to record proximity logs for [[contact-tracing|contact tracing]] using those devices.
+Map handheld computing devices that are assigned to employees and running the Zebra MotionWorks software to record proximity logs for contact tracing using those devices.
 
 ## Before you begin
 
@@ -50,6 +50,3 @@ A mapping of the handheld computing device and the employee to whom it is assign
 
 **Parent Topic:**[Setting up Contact Tracing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/set-up-contact-tracing.md)
 
-## Related
-
-- [[contact-tracing|Contact Tracing]]

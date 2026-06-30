@@ -30,9 +30,9 @@ Once the edition value is set, the discovery model for the software install is a
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Software asset** &gt; **[[sam-workspace|Software Asset Workspace]]** &gt; **License operations**.
+1.  Navigate to **All** &gt; **Software asset** &gt; **Software Asset Workspace** &gt; **License operations**.
 
-2.  Select **Discovery [[c_Models|models]]**.
+2.  Select **Discovery models**.
 
 3.  In the Discovery models page, open a discovery model.
 
@@ -47,7 +47,3 @@ Once the edition value is set, the discovery model for the software install is a
 
 **Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/using-sam-workspace.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_Models|Models]]

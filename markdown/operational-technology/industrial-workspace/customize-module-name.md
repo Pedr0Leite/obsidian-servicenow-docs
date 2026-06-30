@@ -14,7 +14,7 @@ breadcrumb: [Setting up the Operational Technology Progress Scorecard, Configure
 
 # Customize the module name
 
-Customize the module name of the [[operational-technology-overview|Operational Technology]] \(OT\) Progress Scorecard to change its name from the default value with a name more suitable for your needs.
+Customize the module name of the Operational Technology \(OT\) Progress Scorecard to change its name from the default value with a name more suitable for your needs.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin or ui\_builder\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]] Admin** &gt; **Guided Setup**.
+1.  Navigate to **All** &gt; **Industrial Workspace Admin** &gt; **Guided Setup**.
 
 2.  In the **Industrial Workspace** module, select the **OT Progress Scorecard section**.
 
@@ -35,7 +35,3 @@ Role required: admin or ui\_builder\_admin
 
 **Parent Topic:**[Setting up the Operational Technology Progress Scorecard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/setting-up-the-ot-progress-scorecard.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

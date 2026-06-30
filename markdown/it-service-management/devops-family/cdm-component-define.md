@@ -18,7 +18,7 @@ Define or update a component while working in a changeset.
 
 ## Before you begin
 
-**Important:** Starting with the Washington D.C. release, [[devops-config-landing-page|DevOps Config]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+**Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 Role required: cdm\_editor or cdm\_admin
 
@@ -202,6 +202,3 @@ Option to specify that the value of the CDI should be encrypted. This option app
 
 [How encrypted data is handled](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-secrets-managing.md)
 
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]

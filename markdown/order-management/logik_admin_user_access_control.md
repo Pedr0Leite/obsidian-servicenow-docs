@@ -12,7 +12,7 @@ breadcrumb: [CPQ admin settings, CPQ with other apps, Integrate, Sales Customer 
 
 # CPQ: User Access Control
 
-View access types, access areas, and user roles that can be managed via the [[please_share_your_feedback_on_admin_assist_responses|User Access]] utility.
+View access types, access areas, and user roles that can be managed via the User Access utility.
 
 **Note:** This feature must be enabled by support request. Create a support case by using the [ServiceNow Support portal](https://support.servicenow.com). For step-by-step instructions, see [Create a case on Now Support for CPQ \(Logik.ai\) Customers](https://support.servicenow.com/kb?sys_kb_id=d67d3e71475d7a90f64de825126d4326&id=kb_article_view).
 
@@ -32,7 +32,7 @@ For basic user access in CPQ, see [User access](https://raw.githubusercontent.co
 -   END\_USER
 -   CONFIG
 
-    Users with ADMIN can use the [[matrix_loader_table_of_contents|Matrix Loader]], including product filters and the catalog enrichment script MANAGED\_TABLES.
+    Users with ADMIN can use the Matrix Loader, including product filters and the catalog enrichment script MANAGED\_TABLES.
 
 -   TRANSACTION
 
@@ -47,9 +47,9 @@ For basic user access in CPQ, see [User access](https://raw.githubusercontent.co
     -   EX: MANAGED\_TABLES: READ + TABLE “myTable” Edit = ability to read all tables and edit "myTable"
 -   DEPLOY
     -   Applies all blueprint, transaction, product catalog enrichment, and product filter deploys
-    -   Roles are either NONE or ADMIN [[cpq-utilities|UTILITIES]]
+    -   Roles are either NONE or ADMIN UTILITIES
 -   UTILITIES
-    -   Logs, user access, runtime clients, admin API keys, external connections, settings, [[cpq-webhooks|webhooks]], connections
+    -   Logs, user access, runtime clients, admin API keys, external connections, settings, webhooks, connections
     -   Products \(for Ecommerce tenants\)
 
 ## Tables
@@ -73,14 +73,14 @@ User access can be limited to specific tables via CSV or API.
     -   READ correlates to GET endpoints
     -   EDIT additionally correlates to POST PUT PATCH DELETE endpoints
     -   ADMIN additionally correlates to Matrix Loader endpoints
--   DEPLOY\_NONE / DEPLOY\_ADMIN \(no EDIT or READ\): ADMIN everything deployment related, including Product Filter [[rules_101|Rules]] and Product Catalog Enrichment Deployments
+-   DEPLOY\_NONE / DEPLOY\_ADMIN \(no EDIT or READ\): ADMIN everything deployment related, including Product Filter Rules and Product Catalog Enrichment Deployments
 -   UTILITIES\_NONE / UTILITIES\_READ / UTILITIES\_ADMIN \(no EDIT\)
     -   READ correlates to GET endpoints
     -   ADMIN correlates to everything else
 
 ## Modifying access controls
 
-Admin users can [[Modify|modify]] access via CSV upload \(Admin &gt; Utilities &gt; User Access\). The User Access list shows existing users.
+Admin users can modify access via CSV upload \(Admin &gt; Utilities &gt; User Access\). The User Access list shows existing users.
 
 \[Omitted image "cpq-user-access-control-list.png"\] Alt text: Admin: User Access Control
 
@@ -149,11 +149,3 @@ Jane Doe,jane.doe@example.com,MANAGED_TABLES,READ,,DELETE
 Jane Doe,jane.doe@example.com,UTILITIES,,NONE
 ```
 
-## Related
-
-- [[please_share_your_feedback_on_admin_assist_responses|User access]]
-- [[matrix_loader_table_of_contents|Matrix Loader]]
-- [[cpq-utilities|Utilities]]
-- [[cpq-webhooks|Webhooks]]
-- [[rules_101|Rules]]
-- [[Modify|Modify]]

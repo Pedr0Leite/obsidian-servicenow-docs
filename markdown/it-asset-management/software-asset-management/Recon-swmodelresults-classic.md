@@ -105,7 +105,7 @@ Specific step within the reconciliation process.**Note:** This list column is no
 </td></tr></tbody>
 </table>## Software product results
 
-You can access [[c_CreatingSoftwareModels|Software Models]], Unlicensed Installs, and Removal candidates related lists from a product result record.
+You can access Software Models, Unlicensed Installs, and Removal candidates related lists from a product result record.
 
 A product result for a licensable product is generated after reconciliation even if there are no software models defined for the product.
 
@@ -314,7 +314,7 @@ Discovery model
 
 </td><td>
 
-[[sam-software-discovery|Software discovery]] model that represents the installed software product.
+Software discovery model that represents the installed software product.
 
 </td></tr><tr><td>
 
@@ -578,7 +578,3 @@ Savings to be gained from reclaiming unused software installations.
 </td></tr></tbody>
 </table>**Parent Topic:**[Software license usage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sam-license-workbench.md)
 
-## Related
-
-- [[c_CreatingSoftwareModels|Software models]]
-- [[sam-software-discovery|Software discovery]]

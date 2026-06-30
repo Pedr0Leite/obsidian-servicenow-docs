@@ -14,7 +14,7 @@ breadcrumb: [Data privacy clone, Data privacy \(Classic\), Data Privacy, Platfor
 
 # Configure data privacy clone request
 
-[[dp-clone|Data privacy clone]] integration is configured using a PostClone script to create and execute [[data-privacy-landing|data privacy]] jobs for configured [[ca-policies|policies]] on the target. After running the script, [[users|users]] will see de-identified data and will not have access to the original data.
+Data privacy clone integration is configured using a PostClone script to create and execute data privacy jobs for configured policies on the target. After running the script, users will see de-identified data and will not have access to the original data.
 
 ## Before you begin
 
@@ -30,9 +30,9 @@ Role required: data\_privacy\_clone\_processor, data\_privacy\_admin, and admin
 
 2.  Elevate to the **data\_privacy\_admin** role.
 
-    For details on role elevation, see [[t_ElevateToAPrivilegedRole|Elevate to a privileged role]].
+    For details on role elevation, see [Elevate to a privileged role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_ElevateToAPrivilegedRole.md).
 
-3.  Navigate to **System Security** &gt; **Data Privacy** &gt; **Privacy Policy [[sc-configuration|Configuration]]**.
+3.  Navigate to **System Security** &gt; **Data Privacy** &gt; **Privacy Policy Configuration**.
 
 4.  Create a Privacy Policy configuration.
 
@@ -40,7 +40,7 @@ Role required: data\_privacy\_clone\_processor, data\_privacy\_admin, and admin
 
 5.  Back up data privacy configurations.
 
-6.  As the data privacy admin, submit a clone [[c_requestAPI|request]].
+6.  As the data privacy admin, submit a clone request.
 
 
 ## Result
@@ -49,12 +49,3 @@ The data privacy PostClone script executes on the target Instance and The PostCl
 
 The elevated data privacy clone processor can log on to the target instance and monitor the post-clone federated job state on the dp\_federated\_job.list and dp\_job.list​.
 
-## Related
-
-- [[t_ElevateToAPrivilegedRole|Elevate to a privileged role]]
-- [[dp-clone|Data privacy clone]]
-- [[data-privacy-landing|Data Privacy]]
-- [[ca-policies|Policies]]
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[c_requestAPI|request]]

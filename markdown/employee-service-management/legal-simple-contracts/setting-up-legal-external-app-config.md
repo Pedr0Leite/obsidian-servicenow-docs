@@ -16,7 +16,7 @@ breadcrumb: [Configure Legal Simple Contracts, Configure, Legal Simple Contracts
 
 Set up external applications that provide services such as electronically signing contract documents and saving signed contracts or the documents related to legal requests in an external storage system.
 
-The [[legal-management-overview|Legal Service Delivery]] applications use spokes from Integration Hub to integrate with external applications. The legal configurator can complete configuring these external apps after the administrator has installed and configured these spokes.
+The Legal Service Delivery applications use spokes from Integration Hub to integrate with external applications. The legal configurator can complete configuring these external apps after the administrator has installed and configured these spokes.
 
 ## Integration with external storage systems
 
@@ -44,6 +44,4 @@ The [[legal-management-overview|Legal Service Delivery]] applications use spokes
 
     The legal configurator can set up the electronic signature app integrations for legal apps from **Legal Integrations**. For more information, see [Configure an e-signature provider for legal contracts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/integrate-legal-contracts-esign.md).
 
-## Related
 
-- [[legal-management-overview|Legal Service Delivery]]

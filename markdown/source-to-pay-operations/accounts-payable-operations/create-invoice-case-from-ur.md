@@ -15,7 +15,7 @@ breadcrumb: [Universal Request in Accounts Payable Operations, Use, Accounts Pay
 
 # Create invoice case from Universal Request
 
-Validate incoming [[universal-request|Universal Request]] items in the [[purch-order-mgmt-ws|Source-to-Pay Workspace]] and [[create-invoice|create invoice]] cases for further processing.
+Validate incoming Universal Request items in the Source-to-Pay Workspace and create invoice cases for further processing.
 
 ## Before you begin
 
@@ -23,12 +23,12 @@ Role required: Users must be part of the Accounts Payable Universal Request grou
 
 Plugins required:
 
--   Universal Request for [[source-to-pay-operations-overview|Source-to-Pay Operations]] Plugin \[sn\_fsc\_ur\_common\] plugin \(contains dependent plugin Universal Request Plugin \[com.snc.universal\_request\]\)
--   [[acc-pay-case-mgmt-overview|Invoice Case Management]] \[com.sn\_ap\_cm\].
+-   Universal Request for Source-to-Pay Operations Plugin \[sn\_fsc\_ur\_common\] plugin \(contains dependent plugin Universal Request Plugin \[com.snc.universal\_request\]\)
+-   Invoice Case Management \[com.sn\_ap\_cm\].
 
-Users can also create own groups. For more information on creating own service- specific-assignment groups see, Universal Request is raised in the Employee Center or [[supplier|Supplier]] portal.
+Users can also create own groups. For more information on creating own service- specific-assignment groups see, Universal Request is raised in the Employee Center or Supplier portal.
 
-This video shows you how to [[create-universal-request-spo|create a Universal Request]].\[Omitted video\] Description: The video shows you how to create a invoice case from a Universal Request.
+This video shows you how to create a Universal Request.\[Omitted video\] Description: The video shows you how to create a invoice case from a Universal Request.
 
 ## Procedure
 
@@ -74,12 +74,3 @@ Invoice case is created and processed. Once the case is resolved, the agent clos
 
 [Using Invoice Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/use-invoice-case-mgmt.md)
 
-## Related
-
-- [[universal-request|Universal Request]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[create-invoice|create invoice]]
-- [[source-to-pay-operations-overview|Source-to-Pay Operations]]
-- [[acc-pay-case-mgmt-overview|Invoice Case Management]]
-- [[supplier|Supplier]]
-- [[create-universal-request-spo|Create a Universal Request]]

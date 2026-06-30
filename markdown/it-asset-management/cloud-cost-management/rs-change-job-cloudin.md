@@ -37,7 +37,7 @@ If either condition is met, the app sends an email notification to the owner of 
 
 ## Procedure
 
-1.  Navigate to **[[ci-workspace|Cloud Cost Management Workspace]]** &gt; **Operations** &gt; **Recommendations** &gt; **Rightsizing**.
+1.  Navigate to **Cloud Cost Management Workspace** &gt; **Operations** &gt; **Recommendations** &gt; **Rightsizing**.
 
 2.  In the list on the appropriate tab, select the check boxes for the resources to rightsize.
 
@@ -105,6 +105,3 @@ Change request template \(Standard Change type\) to be used. If no template appe
 
 **Parent Topic:**[Resize resources with Rightsizing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/resize-res-ci.md)
 
-## Related
-
-- [[ci-workspace|Cloud Cost Management Workspace]]

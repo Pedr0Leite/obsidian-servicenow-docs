@@ -22,7 +22,7 @@ Role required: sn\_wsd\_case.manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-case-mgmt-feat|Workplace Case Management]]** &gt; **Facilities Management - Setup** &gt; **Provider routing rules**.
+1.  Navigate to **All** &gt; **Workplace Case Management** &gt; **Facilities Management - Setup** &gt; **Provider routing rules**.
 
 2.  Select **New**.
 
@@ -91,6 +91,3 @@ The criteria that must be met for this routing rule to match and apply to a work
 
 \[Omitted image "Routing-rule-exmpl2.png"\] Alt text:\[Omitted image "Routing-rule-exple1.png"\] Alt text:
 
-## Related
-
-- [[workplace-case-mgmt-feat|Workplace Case Management]]

@@ -12,15 +12,15 @@ breadcrumb: [Callback requests by agents, Use omnichannel callback, Customer com
 
 # Schedule a callback for a customer
 
-Schedule callbacks on behalf of customers from [[csm-workspaces-configure|CSM Configurable Workspace]].
+Schedule callbacks on behalf of customers from CSM Configurable Workspace.
 
 ## Before you begin
 
 Ensure the following:
 
--   [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) \[com.sn\_customerservice\] plugin is activated
--   [[omni-callback-csm|Omnichannel Callback for Customer Service Management]] \(com.sn\_omnichannel\_callback\) plugin is installed
--   Appointment booking \[com.snc.appointment\_booking\] plugin is installed \(automatically installed with [[omnichannel|omnichannel]] callback \[sn\_callback\] plugin\)
+-   Customer Service Management \(CSM\) \[com.sn\_customerservice\] plugin is activated
+-   Omnichannel Callback for Customer Service Management \(com.sn\_omnichannel\_callback\) plugin is installed
+-   Appointment booking \[com.snc.appointment\_booking\] plugin is installed \(automatically installed with omnichannel callback \[sn\_callback\] plugin\)
 -   System property **sn\_callback.enable\_agent\_scheduled\_callback** is enabled
 
 Role required: sn\_omni\_callback.callback\_writer
@@ -55,21 +55,11 @@ Agent-scheduled callbacks enable agents to create callback tasks while interacti
 **Related topics**  
 
 
-[[view-scheduled-callbacks|View scheduled callbacks]]
+[View scheduled callbacks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/view-scheduled-callbacks.md)
 
-[[view-related-callbacks-contextual-side-panel|View related callbacks in the contextual side panel]]
+[View related callbacks in the contextual side panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/view-related-callbacks-contextual-side-panel.md)
 
-[[reschedule-callback|Reschedule a callback]]
+[Reschedule a callback](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/reschedule-callback.md)
 
-[[cancel-callback|Cancel a callback]]
+[Cancel a callback](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/cancel-callback.md)
 
-## Related
-
-- [[view-scheduled-callbacks|View scheduled callbacks]]
-- [[view-related-callbacks-contextual-side-panel|View related callbacks in the contextual side panel]]
-- [[reschedule-callback|Reschedule a callback]]
-- [[cancel-callback|Cancel a callback]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[omni-callback-csm|Omnichannel Callback for Customer Service Management]]
-- [[omnichannel|Omnichannel]]

@@ -14,7 +14,7 @@ breadcrumb: [Collaborate with Docs, Use, Collaborative Work Management, Strategi
 
 # Create a Doc in CWM
 
-Store information related to your tasks, reference users and task records, and collaborate in real-time using Docs in [[cwm-landing|Collaborative Work Management]] workspace.
+Store information related to your tasks, reference users and task records, and collaborate in real-time using Docs in Collaborative Work Management workspace.
 
 ## Before you begin
 
@@ -55,6 +55,3 @@ Utilize the rich-text formatting options of the Doc to draft information relevan
 
 **Parent Topic:**[Collaborative documentation using CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/cwm-docs.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

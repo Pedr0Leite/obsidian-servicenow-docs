@@ -14,7 +14,7 @@ breadcrumb: [Sourcing Procurement Operations integration Employee, Integrate, So
 
 # Approve a request from Employee Center
 
-Approve, reject, or request clarification on open [[purchase-requisition|purchase requisition]] lines and sourcing requests that are assigned to you, directly from Employee Center.
+Approve, reject, or request clarification on open purchase requisition lines and sourcing requests that are assigned to you, directly from Employee Center.
 
 ## Before you begin
 
@@ -48,7 +48,7 @@ Description
 
 </td><td>
 
-Opens a confirmation dialog box, where you can enter your questions regarding the selected purchase requestion lines or [[sourcing-request|sourcing request]]. An email notification is sent to the requester that some clarification is sought for the purchase, and a provide clarification to-do is created for their action.**Note:** This correspondence is tracked through the [[activity-stream|activity stream]] of the approval plan here in Employee Center. The same is also tracked through the activity stream of the corresponding purchase requisition or sourcing request in [[shopping-hub-overview|Shopping Hub]].
+Opens a confirmation dialog box, where you can enter your questions regarding the selected purchase requestion lines or sourcing request. An email notification is sent to the requester that some clarification is sought for the purchase, and a provide clarification to-do is created for their action.**Note:** This correspondence is tracked through the activity stream of the approval plan here in Employee Center. The same is also tracked through the activity stream of the corresponding purchase requisition or sourcing request in Shopping Hub.
 
 </td></tr><tr><td id="d31445e129">
 
@@ -93,9 +93,3 @@ Email notifications are triggered for new, due soon, and overdue approval to-dos
 
 **Parent Topic:**[Sourcing and Procurement Operations integration with Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/employee-center-integration-psm.md)
 
-## Related
-
-- [[purchase-requisition|Purchase requisition]]
-- [[sourcing-request|Sourcing request]]
-- [[activity-stream|Activity stream]]
-- [[shopping-hub-overview|Shopping Hub]]

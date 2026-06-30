@@ -16,7 +16,7 @@ Plan your teams' work and assign work items such as incidents, problems, change 
 
 ## Before you begin
 
-**Note:** Your administrator must add sys ids for event categories that you want to display in the calendar to the **sn\_wfo\_work\_sched.shift\_data\_categories** system property. For more information, see [[work-scheduler-wfo-cs-reference|Work Scheduler components in Workforce Optimization for Customer Service reference]].
+**Note:** Your administrator must add sys ids for event categories that you want to display in the calendar to the **sn\_wfo\_work\_sched.shift\_data\_categories** system property. For more information, see [Work Scheduler components in Workforce Optimization for Customer Service reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/work-scheduler-wfo-cs-reference.md).
 
 Role required: sn\_wfo\_work\_sched.manager
 
@@ -75,15 +75,15 @@ Analyze the tasks that your agents are assigned to and their actual shift plans.
 
     1.  Select a task that you want to assign to an agent.
 
-        When you enable the **Show suggested only** option, by default, you can choose to display team members based on their availability, skills, or time zone. The ranking of the team members are based on matching assignment [[gamification-components-rules|rules]] set for each criteria. Work scheduler uses [[case-assignment-matching-criteria|Assignment workbench]] to evaluate agents to work on tasks.
+        When you enable the **Show suggested only** option, by default, you can choose to display team members based on their availability, skills, or time zone. The ranking of the team members are based on matching assignment rules set for each criteria. Work scheduler uses [Assignment workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-assignment-matching-criteria.md) to evaluate agents to work on tasks.
 
         You can select one or more of these criteria and the ranking of the team members will be based on the selected criteria:
 
         -   **WFO - Availability**—The number of hours the team member is available.
-        -   **WFO - [[mandatory-skills|Mandatory skills]]**— If the task has mandatory and optional skills associated with it, the work scheduler displays agents who have all of the mandatory skills first and then the agents who have the optional skills.
+        -   **WFO - Mandatory skills**— If the task has mandatory and optional skills associated with it, the work scheduler displays agents who have all of the mandatory skills first and then the agents who have the optional skills.
         -   **WFO - Optional skills**— If the task only has optional skills associated with it, then the list displays the agents with the optional skills.
         -   **WFO- Timezone overlap**—The delta between the task time zone and the user's time zone. For example, if the user is located in the Pacific time zone and if the task location is in the Eastern time zone, then it will display as **+3**; if the task location is Hawaii, then it will display as **-3**.
-        To add your own matching rule, see [[assignment-rules-work-scheduler-wfo-cs|Create a criteria for a matching rule in Work scheduler]].
+        To add your own matching rule, see [Create a criteria for a matching rule in Work scheduler](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/assignment-rules-work-scheduler-wfo-cs.md).
 
         All of these criteria are based on the **More is better** ranking method where a higher value is better. For example, when the WFO-Mandatory skills criteria is enabled, team members that have more skills that are mandatory to work on the work item will be ranked higher.
 
@@ -110,13 +110,5 @@ Analyze the tasks that your agents are assigned to and their actual shift plans.
     \[Omitted image "work-scheduler-ui.png"\] Alt text: Infographic displaying the Work Scheduler form with work queues based on unassigned incidents.
 
 
-**Parent Topic:**[[work-scheduler-wfo-cs|Assigning work using Work Scheduler in Workforce Optimization for Customer Service]]
+**Parent Topic:**[Assigning work using Work Scheduler in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/work-scheduler-wfo-cs.md)
 
-## Related
-
-- [[work-scheduler-wfo-cs-reference|Work Scheduler components in Workforce Optimization for Customer Service reference]]
-- [[case-assignment-matching-criteria|Matching criteria for case assignment]]
-- [[assignment-rules-work-scheduler-wfo-cs|Create a criteria for a matching rule in Work scheduler]]
-- [[work-scheduler-wfo-cs|Assigning work using Work Scheduler in Workforce Optimization for Customer Service]]
-- [[gamification-components-rules|Rules]]
-- [[mandatory-skills|Mandatory skills]]

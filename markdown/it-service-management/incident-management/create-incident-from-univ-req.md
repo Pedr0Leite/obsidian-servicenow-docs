@@ -14,13 +14,13 @@ breadcrumb: [Universal Request integration - Incident Management, Incident Manag
 
 # Create incident from Universal Request
 
-[[create-an-incident|Create an incident]] from a universal request record to restore service to a customer as soon as possible. After creating the incident record, you can investigate potential solutions.
+Create an incident from a universal request record to restore service to a customer as soon as possible. After creating the incident record, you can investigate potential solutions.
 
 ## Before you begin
 
 Role required: routing\_agent and ITIL or admin
 
-Activate the Universal Request \(sn\_uni\_req\) and the Universal Request Integration for [[c_IncidentManagement|Incident Management]] \(sn\_inc\_uni\_req\) plugins.
+Activate the Universal Request \(sn\_uni\_req\) and the Universal Request Integration for Incident Management \(sn\_inc\_uni\_req\) plugins.
 
 ## Procedure
 
@@ -39,7 +39,3 @@ Activate the Universal Request \(sn\_uni\_req\) and the Universal Request Integr
 
 **Parent Topic:**[Universal Request integration - Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/inci-mgmt-integ-with-univ-req.md)
 
-## Related
-
-- [[create-an-incident|Create an incident]]
-- [[c_IncidentManagement|Incident Management]]

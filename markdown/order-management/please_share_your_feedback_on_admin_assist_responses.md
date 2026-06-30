@@ -22,14 +22,14 @@ CPQ Admins can control access to the Admin interface by granting admin access on
 
 ## Managing user access
 
-Configure user access by visiting [[cpq-utilities|Utilities]] &gt; User Access.
+Configure user access by visiting Utilities &gt; User Access.
 
 \[Omitted image "cpq-user-access-pane.png"\] Alt text: User access screen
 
 1.  Username: Email address of the user. Click to edit \(see below\)
 2.  Access: The level of access a user has \(END\_USER or ADMIN\)
-    -   END\_USER: Can create configurations [[cpq-using|using CPQ]]. Typical for sales users, partners, and so on
-    -   ADMIN: Can access the administrative side of CPQ to create and [[Modify|modify]] [[blueprints|blueprints]], [[fields|fields]], [[rules_101|rules]], and other objects
+    -   END\_USER: Can create configurations using CPQ. Typical for sales users, partners, and so on
+    -   ADMIN: Can access the administrative side of CPQ to create and modify blueprints, fields, rules, and other objects
 3.  Toggle Admin Access: Select one or more users using the checkbox. Toggle Admin Access adds or removes admin access for the selected users, depending on their current access level
 4.  Import: At the bottom of the user access page is a sample user access file that can be exported. After making the necessary modifications to the exported file, you can import it using the "Import” button
 
@@ -39,7 +39,7 @@ To edit a user, click a username in the table.
 
 1.  Username: email address of the user being edited
 2.  Enable Admin Access: Toggle for controlling access to the Admin features of CPQ. The toggle to the right indicates that the user has Admin privileges
-3.  Save / [[cancel|Cancel]] – Confirm changes or cancel
+3.  Save / Cancel – Confirm changes or cancel
 
 **Note:**
 
@@ -51,18 +51,7 @@ To edit a user, click a username in the table.
 **Related topics**  
 
 
-[[cpq-using-uam|Using CPQ user access management]]
+[Using CPQ user access management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-using-uam.md)
 
-[[cpq-user-access-control-ref|User Access Control reference]]
+[User Access Control reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-user-access-control-ref.md)
 
-## Related
-
-- [[cpq-using-uam|Using CPQ user access management]]
-- [[cpq-user-access-control-ref|User Access Control reference]]
-- [[cpq-utilities|Utilities]]
-- [[cpq-using|Using CPQ]]
-- [[Modify|Modify]]
-- [[blueprints|Blueprints]]
-- [[fields|Fields]]
-- [[rules_101|Rules]]
-- [[cancel|Cancel]]

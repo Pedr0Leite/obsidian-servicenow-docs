@@ -14,32 +14,20 @@ breadcrumb: [Facilities service management process, Facilities Service Managemen
 
 A facilities request is a record in the system that tracks a proposed change to the physical facility of the organization. Typical facilities requests include the reporting of something bring broken or an issue like a beeping smoke alarm.
 
--   **[[r_FacilitiesRequestCreation|Facilities request creation]]**  
-[[FacilitiesLandingPage|Facilities service management]] uses the common [[c_ServiceManagement|service management]] request management process. Any user can submit a facilities request through the Facilities catalog. Users with the facilities\_staff role can also create and update facilities requests from the Facilities Request form.
--   **[[c_FacilitiesRequestApprovals|Facilities request approvals]]**  
+-   **[Facilities request creation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_FacilitiesRequestCreation.md)**  
+Facilities service management uses the common service management request management process. Any user can submit a facilities request through the Facilities catalog. Users with the facilities\_staff role can also create and update facilities requests from the Facilities Request form.
+-   **[Facilities request approvals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_FacilitiesRequestApprovals.md)**  
 Approving a facilities request means that the request has been reviewed and is ready to be qualified for facilities task creation and assignment. When a request is sent to a user with the facilities\_approver\_user role, the approver has several choices.
--   **[[r_FacilitiesAgentAssignment|Facilities agent assignment]]**  
+-   **[Facilities agent assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_FacilitiesAgentAssignment.md)**  
 Depending on your settings in the facilities configuration screen, you can assign agents manually or using auto-assignment.
--   **[[c_ScheduleBlackout|Schedule blackout periods]]**  
+-   **[Schedule blackout periods](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_ScheduleBlackout.md)**  
 A blackout period prevents work from being performed in a defined area for a scheduled time period. Blackout periods can be defined for spaces, levels, buildings, campuses, and zones.
--   **[[t_CollaborateOnARequest|Collaborate on a request]]**  
+-   **[Collaborate on a request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_CollaborateOnARequest.md)**  
 Within a request, you can enter comments that are visible to the submitter, allowing for collaboration between the two of you. For collaboration with other agents, you can enter comments that are not visible to the submitter.
--   **[[t_ChangeTheLocationOfARequest|Change the location of a request]]**  
+-   **[Change the location of a request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_ChangeTheLocationOfARequest.md)**  
 After opening a request, you can modify the details and update it.
--   **[[t_CloseARequest|Close a request]]**  
+-   **[Close a request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_CloseARequest.md)**  
 When you close a request, you can add details that you want the submitter to be aware of.
 
-**Parent Topic:**[[c_FacilitiesSMProcess|Facilities service management process]]
+**Parent Topic:**[Facilities service management process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_FacilitiesSMProcess.md)
 
-## Related
-
-- [[r_FacilitiesRequestCreation|Facilities request creation]]
-- [[c_FacilitiesRequestApprovals|Facilities request approvals]]
-- [[r_FacilitiesAgentAssignment|Facilities agent assignment]]
-- [[c_ScheduleBlackout|Schedule blackout periods]]
-- [[t_CollaborateOnARequest|Collaborate on a request]]
-- [[t_ChangeTheLocationOfARequest|Change the location of a request]]
-- [[t_CloseARequest|Close a request]]
-- [[c_FacilitiesSMProcess|Facilities service management process]]
-- [[FacilitiesLandingPage|Facilities Service Management]]
-- [[c_ServiceManagement|Service Management]]

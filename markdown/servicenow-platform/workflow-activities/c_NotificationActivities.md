@@ -14,17 +14,12 @@ breadcrumb: [Workflow activities reference, Workflow activities, Classic Workflo
 
 # Workflow notification activities
 
-Notification [[c_WorkflowActivities|workflow activities]] [[notify-landing-page|notify]] users of events that occur during the workflow.
+Notification workflow activities notify users of events that occur during the workflow.
 
 -   **[Create Event workflow activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/r_CreateEvent.md)**  
 The **Create Event** activity adds an event to the event queue, but does not immediately fire the event.
 -   **[Notification workflow activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/r_NotificationActivity.md)**  
-The **Notification** activity sends an [[email|email]] or SMS message to specified users or groups.
+The **Notification** activity sends an email or SMS message to specified users or groups.
 
 **Parent Topic:**[Workflow activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/c_WorkflowActivities.md)
 
-## Related
-
-- [[c_WorkflowActivities|Workflow activities]]
-- [[notify-landing-page|Notify]]
-- [[email|Email]]

@@ -15,19 +15,19 @@ breadcrumb: [ITSM, Use agentic AI in IT Service Management, Now Assist for IT Se
 
 # IT Service Management AI agent collection Triage and categorize ITSM incidents agentic workflow
 
-Use the Triage and categorize ITSM incidents AI agent team to assign [[r_CategorizingIncidents|incident categories and subcategories]]. Then, assign the service, service offering, and the configuration items \(CI\), and also link major incidents, and known problems autonomously.
+Use the Triage and categorize ITSM incidents AI agent team to assign incident categories and subcategories. Then, assign the service, service offering, and the configuration items \(CI\), and also link major incidents, and known problems autonomously.
 
 ## Triage and categorize ITSM incidents agentic workflow overview
 
 Using the Triage and categorize ITSM incidents agentic workflow, autonomously assign incident categories by assigning a category and a subcategory to incidents based on the incident short description. After categorizing the incident, assign the service, service offering, and configuration item \(CI\) related to the incident. Then, automatically link incidents to major incidents or known problems.
 
-To modify the Triage and categorize ITSM incidents agentic workflow, [duplicate it](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/clone-aia-usecase.md), and adjust the [[settings-mobile|settings]] according to your requirements.
+To modify the Triage and categorize ITSM incidents agentic workflow, [duplicate it](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/clone-aia-usecase.md), and adjust the settings according to your requirements.
 
 **Note:** You must enable the semantic indexing for the Problem table when you duplicate the agentic workflow. For more information, see [Semantic Index Field form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/semantic-index-field-form.md).
 
 **Important:** When you modify an agentic workflow, AI agent, or a tool, make sure that you update all instructions accordingly.
 
-**Important:** To search for related major incidents, you must activate the [[c_IncidentManagement|Incident Management]] - Major Incident Management plugin \(com.snc.incident.mim\). For more information, see [Activate Incident Management - Major Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/activate-major-incident-management-plugin.md).
+**Important:** To search for related major incidents, you must activate the Incident Management - Major Incident Management plugin \(com.snc.incident.mim\). For more information, see [Activate Incident Management - Major Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/activate-major-incident-management-plugin.md).
 
 ## Triage and categorize ITSM incidents agentic workflow
 
@@ -197,8 +197,3 @@ The image below shows the following:
 
 \[Omitted image "now-assist-itsm-inc-cat-fields.png"\] Alt text: Now Assist ITSM categorize incidents workflow fields populated
 
-## Related
-
-- [[r_CategorizingIncidents|Incident categories and subcategories]]
-- [[settings-mobile|Settings]]
-- [[c_IncidentManagement|Incident Management]]

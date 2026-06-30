@@ -24,11 +24,11 @@ Role required: sam\_spend\_import or sam\_admin
 
 ## About this task
 
-Your imported data can include all financial transaction data for your company. [[software-spend-detection|Software Spend Detection]] automatically determines whether each transaction is a software purchase. Before importing data, ensure that the fields **Vendor name**, **Transaction Description**, and **GL account** don't contain any identifiable information such as company or employee names. Make any necessary changes to the data before you import. All imported financial transaction data fields are read-only once loaded in your instance.
+Your imported data can include all financial transaction data for your company. Software Spend Detection automatically determines whether each transaction is a software purchase. Before importing data, ensure that the fields **Vendor name**, **Transaction Description**, and **GL account** don't contain any identifiable information such as company or employee names. Make any necessary changes to the data before you import. All imported financial transaction data fields are read-only once loaded in your instance.
 
 The import may take several hours when importing large numbers of transactions.
 
-**Note:** Software Spend Detection currently supports transaction data in English only. If you would like to help train ServiceNow artificial intelligence using data in other languages, contact the ServiceNow [[it-asset-management|IT Asset Management]] product team.
+**Note:** Software Spend Detection currently supports transaction data in English only. If you would like to help train ServiceNow artificial intelligence using data in other languages, contact the ServiceNow IT Asset Management product team.
 
 ## Procedure
 
@@ -47,7 +47,7 @@ The import may take several hours when importing large numbers of transactions.
     |Description|Description of the purchase. Don't include any identifiable information such as your company or employee names. Provide at least one of vendor name or description.|
     |GL account|General ledger account or expense category. Don't include any identifiable information such as your company or employee names. Optional.|
     |Amount|Transaction amount. Optional.|
-    |Type|Required. Select Accounts Payable or Expense. Accounts Payable transactions are from an accounting or [[c_Procurement|procurement]] system. Expense transactions are from an employee expense system or credit card feed.|
+    |Type|Required. Select Accounts Payable or Expense. Accounts Payable transactions are from an accounting or procurement system. Expense transactions are from an employee expense system or credit card feed.|
     |Location|Location. Optional.|
     |Cost center|Cost center. Optional.|
     |Department|Department. Optional.|
@@ -73,8 +73,3 @@ If necessary, you can mass delete all transactions from an import. Navigate to *
 
 **Parent Topic:**[Software Spend Detection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/software-spend-detection.md)
 
-## Related
-
-- [[software-spend-detection|Software Spend Detection]]
-- [[it-asset-management|IT Asset Management]]
-- [[c_Procurement|Procurement]]

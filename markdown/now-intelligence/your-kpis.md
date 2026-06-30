@@ -12,11 +12,11 @@ breadcrumb: [Platform Analytics experience, Platform Analytics]
 
 # Managing indicators from the Platform Analytics library
 
-The indicator library lists all the [[c_Indicators|Performance Analytics indicators]] or KPIs to which you have access. Users who can create or edit indicators or Performance Analytics collection jobs have additional information.
+The indicator library lists all the Performance Analytics indicators or KPIs to which you have access. Users who can create or edit indicators or Performance Analytics collection jobs have additional information.
 
-Open the list of indicators at **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Indicators**. You can also navigate to this library from other Platform Analytics library pages. The configuration of the Indicators page and the data access depends on your roles. All users with at least read access to an indicator get the basic indicator management functionality that is included in the default view.
+Open the list of indicators at **Platform Analytics** &gt; **Library** &gt; **Indicators**. You can also navigate to this library from other Platform Analytics library pages. The configuration of the Indicators page and the data access depends on your roles. All users with at least read access to an indicator get the basic indicator management functionality that is included in the default view.
 
-Library pages like this one include a navigation pane that provides access to the other libraries and the [[user-exp-analytics-landing|Usage Insights]] page. Use it to navigate between the libraries without interrupting your workflow.
+Library pages like this one include a navigation pane that provides access to the other libraries and the Usage Insights page. Use it to navigate between the libraries without interrupting your workflow.
 
 ## Basic indicator management
 
@@ -47,7 +47,7 @@ Privileged users have the following extra functionality:
 1.  Application navigator: Additional navigation destinations.
 2.  Creating indicators: Press **Create indicator** to open an empty Indicator form. For more information, see [Create an automated indicator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_CreateAnAutomatedIndicator.md) or [Create a formula indicator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_CreateAFormulaIndicator.md).
 3.  Indicators you created: You have an additional **Filter by** option, to see only the indicators you have created.
-4.  Indicator health: A row of tiles shows you useful statistics about the health of your indicators, such as how many automated and [[formula-indicators|formula indicators]] do not have active collection jobs. The No active data collection job, Not viewed in 6 months, and Not viewed in one year tiles suggest how many indicators you may be able to delete. Conversely, Updated in the last 30 days gives you an idea how many indicators are truly active. Press a tile to filter the indicator list by that statistic.
+4.  Indicator health: A row of tiles shows you useful statistics about the health of your indicators, such as how many automated and formula indicators do not have active collection jobs. The No active data collection job, Not viewed in 6 months, and Not viewed in one year tiles suggest how many indicators you may be able to delete. Conversely, Updated in the last 30 days gives you an idea how many indicators are truly active. Press a tile to filter the indicator list by that statistic.
 
     **Note:** Filters on the list of indicators do not currently filter the tiles.
 
@@ -61,7 +61,7 @@ Privileged users also see a different set of default columns. In place of the De
 -   The last time the indicator was viewed
 -   How many times in total it was viewed in the last year
 
-**Note:** A user with the pa\_admin role or higher might also see a panel with recommendations about problematic indicators. For more information, see [[pa-library-recommendations|Platform Analytics library recommendations]].
+**Note:** A user with the pa\_admin role or higher might also see a panel with recommendations about problematic indicators. For more information, see [Platform Analytics library recommendations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/pa-library-recommendations.md).
 
 ## Indicator management for admin users with Data snapshots enabled
 
@@ -80,17 +80,9 @@ When your instance is eligible for Data snapshots, you have a banner announcing 
 **Related topics**  
 
 
-[[kpi-details|KPI Details]]
+[KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/kpi-details.md)
 
 [Performance Analytics indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_Indicators.md)
 
 [Performance Analytics Essentials training](https://learning.servicenow.com/lxp?course_id=cbf7fac4db1a7340760a71043996194c&id=learning_course_prev)
 
-## Related
-
-- [[pa-library-recommendations|Platform Analytics library recommendations]]
-- [[kpi-details|KPI Details]]
-- [[c_Indicators|Performance Analytics indicators]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[user-exp-analytics-landing|Usage Insights]]
-- [[formula-indicators|Formula indicators]]

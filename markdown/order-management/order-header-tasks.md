@@ -22,7 +22,7 @@ Order header tasks can be generated at three stages of the order life cycle:
 
 -   After order submission
 -   After order approval
--   After [[reviewing-orchestration-plans-order-fulfillment|order fulfillment]]
+-   After order fulfillment
 
 ## Task categories
 
@@ -38,25 +38,18 @@ Order header tasks and top order line item tasks are generated automatically bas
 -   Order header tasks can be triggered by account and order action.
 -   Top order line item tasks can be triggered by product offering and order line item action.
 
-For more information, see [[configure-order-task-policy|Configure the customer order task policy using Decision Tables]].
+For more information, see [Configure the customer order task policy using Decision Tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-order-task-policy.md).
 
 ## Manual task creation
 
 Order agents can create order header tasks manually from the CSM Configurable Workspace. When an agent creates a task from the Order Tasks tab, the order number is automatically populated and is read-only.
 
-For more information, see [[create-order-header-task|Create an order header task]].
+For more information, see [Create an order header task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-order-header-task.md).
 
 **Related topics**  
 
 
-[[order-mgt-configuring|Configuring Order Management]]
+[Configuring Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-configuring.md)
 
-[[explore-order-management|Order management]]
+[Order management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-order-management.md)
 
-## Related
-
-- [[configure-order-task-policy|Configure the customer order task policy using Decision Tables]]
-- [[create-order-header-task|Create an order header task]]
-- [[order-mgt-configuring|Configuring Order Management]]
-- [[explore-order-management|Order management]]
-- [[reviewing-orchestration-plans-order-fulfillment|Order fulfillment]]

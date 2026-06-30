@@ -24,7 +24,7 @@ When the failure code received by the customer is 200, the path that leads to th
 
 \[Omitted image "ex-200-failure-code-path.png"\] Alt text: Path for 200 error code conditions
 
-For more information about how to configure a path, see [[configure-path-in-gdb|Determine the next node displayed in a decision tree]].
+For more information about how to configure a path, see [Determine the next node displayed in a decision tree](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-path-in-gdb.md).
 
 ## Procedure
 
@@ -47,10 +47,6 @@ For more information about how to configure a path, see [[configure-path-in-gdb|
 
 Configure paths for other failure codes:
 
--   300 failure code - This path leads to the [[osp-create-work-order|Create work order]] guidance.
+-   300 failure code - This path leads to the Create work order guidance.
 -   500 failure code - This path leads to the Assign IT technician guidance.
 
-## Related
-
-- [[configure-path-in-gdb|Determine the next node displayed in a decision tree]]
-- [[osp-create-work-order|Create work order]]

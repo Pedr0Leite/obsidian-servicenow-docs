@@ -20,7 +20,7 @@ Managing system events involves creating, monitoring, and handling events to dri
 
 -   [Create an event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-events/t_CreateYourOwnEvent.md)
 
-    Create custom [[events|system events]].
+    Create custom system events.
 
 -   [Move an event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-events/move_event.md)
 
@@ -28,11 +28,11 @@ Managing system events involves creating, monitoring, and handling events to dri
 
 -   [Pass event parameters from a work-flow to a notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-events/t_PassEventParameters.md)
 
-    Pass two event [[r_DirectJDBCProbeParameters|parameters]] that send information about a record or related records from a work-flow to a notification.
+    Pass two event parameters that send information about a record or related records from a work-flow to a notification.
 
 -   [Register an event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-events/t_RegisterAnEvent.md)
 
-    [[t_RegisterAnEvent|Register an event]] for a specific table and a business rule that fires the event.
+    Register an event for a specific table and a business rule that fires the event.
 
 -   [Reprocess an event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-events/t_ReprocessAnEvent.md)
 
@@ -56,8 +56,3 @@ You can fire the event again for testing or diagnostic purposes.
 
 **Parent Topic:**[System Events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-events/system-events-landing.md)
 
-## Related
-
-- [[events|System Events]]
-- [[r_DirectJDBCProbeParameters|Parameters]]
-- [[t_RegisterAnEvent|Register an event]]

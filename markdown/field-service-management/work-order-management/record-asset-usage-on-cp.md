@@ -14,12 +14,9 @@ breadcrumb: [Work order tasks \(WOTs\), Contractor Portal, Completing work order
 
 # Recording the usage of assets on the Contractor Portal
 
-The staff of contractor companies can track the consumable and non-consumable parts that are used or changed during the execution of [[work-order-tasks|work order tasks on the Field Service Contractor Portal]].
+The staff of contractor companies can track the consumable and non-consumable parts that are used or changed during the execution of work order tasks on the Field Service Contractor Portal.
 
 [Record the assets used during a work task on the Contractor Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/use-asset-cp.md)
 
 [Record the removal of an asset from a task location on the Contractor Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/remove-asset-cp.md)
 
-## Related
-
-- [[work-order-tasks|Work order tasks on the Field Service Contractor Portal]]

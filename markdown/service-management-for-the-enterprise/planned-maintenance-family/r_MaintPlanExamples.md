@@ -28,9 +28,9 @@ To schedule a reboot for certain computer models after a specified number of key
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[c_SMPlanMaint|Planned Maintenance]]** &gt; **Maintenance Plans**.
+1.  Navigate to **All** &gt; **Planned Maintenance** &gt; **Maintenance Plans**.
 
-2.  Click **New** and [[t_CreateAMaintPlan|create a maintenance plan]] called `Reboot Apple Computers` with the following definitions and then click **Submit**.
+2.  Click **New** and create a maintenance plan called `Reboot Apple Computers` with the following definitions and then click **Submit**.
 
     -   **Type**: Model-based
     -   **Model**: Click the lock icon and select **Apple iMac 27** and **Apple MacBook Pro 17**.
@@ -103,7 +103,3 @@ To schedule an antivirus scan on certain computers after a specified number of d
 
 The Update Antivirus maintenance plan schedules all Apple iMac 27 and Apple MacBook Pro 17 computers to run the antivirus software every 30 days.
 
-## Related
-
-- [[c_SMPlanMaint|Planned Maintenance]]
-- [[t_CreateAMaintPlan|Create a maintenance plan]]

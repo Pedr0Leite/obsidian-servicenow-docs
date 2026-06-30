@@ -14,7 +14,7 @@ breadcrumb: [Project workspace classic - Legacy, Project Portfolio Management, S
 
 # Plan a project using planning console in classic Project Workspace
 
-Perform the project planning such as create project schedule, make resource assignments, create baselines, and view critical path, using planning console in the classic [[project-workspace-landing-page|Project Workspace]].
+Perform the project planning such as create project schedule, make resource assignments, create baselines, and view critical path, using planning console in the classic Project Workspace.
 
 **Important:**
 
@@ -36,16 +36,10 @@ The **Planning** tab in project workspace displays the selected project in [plan
 
     **Note:** If project workbench is already open in **Planning** tab, click the **Project Workbench** selection arrow on the banner and select **Planning Console**.
 
-3.  Plan the project using planning console features such as WBS hierarchy and [[c_GanttChart|Gantt chart]].
+3.  Plan the project using planning console features such as WBS hierarchy and Gantt chart.
 
-    You can also perform several [tasks on the planning console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/r_PlanningConsoleTasks.md) that you can perform on lists and [[form-field-information-for-dw|forms]], such as creating [[t_CreateAProjectTask|project tasks]].
+    You can also perform several [tasks on the planning console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/r_PlanningConsoleTasks.md) that you can perform on lists and forms, such as creating project tasks.
 
 
 **Parent Topic:**[Project workspace classic - Legacy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/project-workspace-classic.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]
-- [[c_GanttChart|Gantt chart]]
-- [[form-field-information-for-dw|Forms]]
-- [[t_CreateAProjectTask|Project tasks]]

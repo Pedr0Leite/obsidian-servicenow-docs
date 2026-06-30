@@ -16,7 +16,7 @@ breadcrumb: [Workflow concepts, Classic Workflow, ServiceNow AI Platform Additio
 
 For full flexibility, workflows store information over a number of different tables.
 
-Usually tables containing workflow information are not edited one-by-one. Instead, use the [[workflow-editor|Workflow Editor]] to edit workflows. The following lists are provided for [[reference|reference]] purposes.
+Usually tables containing workflow information are not edited one-by-one. Instead, use the Workflow Editor to edit workflows. The following lists are provided for reference purposes.
 
 |Table|Description|
 |-----|-----------|
@@ -43,7 +43,7 @@ Usually tables containing workflow information are not edited one-by-one. Instea
 |Workflow Element Definition \[wf\_element\_definition\]|Parent table for activity definitions.|
 |Workflow Estimated Runtime Configuration \[wf\_estimated\_runtime\_config\]|Runtime performance data for completed workflows.|
 |Workflow Queued Command \[wf\_command\]|Temporary internal storage for workflows that are currently executing.|
-|Workflow SC Variable \[wf\_variable\]|The [[c_ServiceCatalogVariables|Service Catalog variables]] for a workflow.|
+|Workflow SC Variable \[wf\_variable\]|The Service Catalog variables for a workflow.|
 |Workflow Schedule \[wf\_workflow\_schedule\]|Definitions of the times to run specific workflows.|
 |Workflow Timing \[wf\_workflow\_timing\]|Timing performance data for workflows.|
 |Workflow Transition \[wf\_transition\]|All of the defined transitions in workflows.|
@@ -53,14 +53,8 @@ Usually tables containing workflow information are not edited one-by-one. Instea
 |Workflow Transition History \[wf\_transition\_history\]|The history of executed transitions.|
 |Stages|
 |Stage Default \[wf\_stage\_default\]|Definitions of default stage fields for tables to use.|
-|Stage Set \[stage\_set\]|A named set of stages that can be used to populate [[c_WorkflowStages|workflow stages]] for multiple workflows.|
+|Stage Set \[stage\_set\]|A named set of stages that can be used to populate workflow stages for multiple workflows.|
 |Stage Set Entry \[stage\_set\_entry\]|The stages that belong to a named stage set.|
 |Stage Set for Table \[stage\_set\_table\]|Defines a relationship of a stage set to a table so that the stage set can be used as the default stages when a new workflow is created for the table. This replaces the wf\_default\_stage table and is the view that shows when you click **Default Stages \(by table\)** in the menu.|
 |Workflow Stage \[wf\_stage\]|Definitions of stages used by workflows.|
 
-## Related
-
-- [[workflow-editor|Workflow editor]]
-- [[reference|Reference]]
-- [[c_ServiceCatalogVariables|Service catalog variables]]
-- [[c_WorkflowStages|Workflow stages]]

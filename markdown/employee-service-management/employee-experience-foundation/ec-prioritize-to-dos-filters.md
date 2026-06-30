@@ -38,9 +38,9 @@ When defining conditions like case sensitivity or null values, see API [GlideFil
 
 2.  Add the **Display priority** field to the to-dos filter form.
 
-    1.  Navigate to **[[employee-center-landing-page|Employee Center]]** &gt; **Administration** &gt; **To-dos Configuration**.
+    1.  Navigate to **Employee Center** &gt; **Administration** &gt; **To-dos Configuration**.
 
-    2.  Or, navigate to **[[employee-center-pro-landing|Employee Center Pro]]** &gt; **Administration** &gt; **To-dos Configuration**
+    2.  Or, navigate to **Employee Center Pro** &gt; **Administration** &gt; **To-dos Configuration**
 
     3.  Open a record.
 
@@ -62,7 +62,4 @@ When defining conditions like case sensitivity or null values, see API [GlideFil
 
     4.  Repeat the process for each filter.
 
-## Related
 
-- [[employee-center-landing-page|Employee Center]]
-- [[employee-center-pro-landing|Employee Center Pro]]

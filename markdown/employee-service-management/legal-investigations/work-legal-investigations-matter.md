@@ -14,7 +14,7 @@ breadcrumb: [Manage, Legal Investigations, Legal Service Delivery Practice Appli
 
 # Work on a legal matter for a complaint
 
-[[work-on-legal-matter-1|Work on a legal matter]] assigned to you to conduct [[legal-investigations-landing-page|legal investigations]] and resolve an internal complaint.
+Work on a legal matter assigned to you to conduct legal investigations and resolve an internal complaint.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_lg\_investigate.fulfiller
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Legal Request** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
 2.  Click the list icon \(\[Omitted image "lsd-lcc-list-icon.png"\] Alt text: List icon\).
 
@@ -50,8 +50,4 @@ Role required: sn\_lg\_investigate.fulfiller
     -   [Perform other general tasks on the legal matter]().
 7.  [Close the legal matter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/close-legal-matter.md) or [transfer the legal matter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/transfer-legal-request-universal-request.md) based on the requirements.
 
-## Related
 
-- [[work-on-legal-matter-1|Work on a legal matter]]
-- [[legal-investigations-landing-page|Legal Investigations]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]

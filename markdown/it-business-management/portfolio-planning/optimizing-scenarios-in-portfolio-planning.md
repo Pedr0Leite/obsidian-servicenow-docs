@@ -14,7 +14,7 @@ breadcrumb: [Portfolio Planning, Strategic Portfolio Management]
 
 # Optimizing planning with scenario planning in Portfolio Planning
 
-As a portfolio manager, optimize your [[portfolio-planning-app-landing-page|portfolio planning]] by comparing potential outcomes, assessing their alignment with strategic goals, and approving the best scenario as your live plan.
+As a portfolio manager, optimize your portfolio planning by comparing potential outcomes, assessing their alignment with strategic goals, and approving the best scenario as your live plan.
 
 ## Scenario planning items in the Prioritization tab
 
@@ -24,7 +24,7 @@ The **Prioritization** tab of the Scenario page enables you to add and remove pl
 
 ## Scenario planning items in the Roadmap tab
 
-The **Roadmap** tab displays a [[c_GanttChart|Gantt chart]]-like view of the planning items in the scenario, showing their planned start and end dates across the portfolio plan timeline. Using the Roadmap tab, you can drag the bars representing planning items across the timeline to adjust their dates.
+The **Roadmap** tab displays a Gantt chart-like view of the planning items in the scenario, showing their planned start and end dates across the portfolio plan timeline. Using the Roadmap tab, you can drag the bars representing planning items across the timeline to adjust their dates.
 
 \[Omitted image "roadmap-tab-ppw.png"\] Alt text: Roadmap tab of the Scenario screen
 
@@ -34,7 +34,7 @@ The **Financials** tab of the Scenario page enables you to set custom targets, b
 
 \[Omitted image "financials-tab-in-strategic-planning.png"\] Alt text: Financials tab in Scenario planning view detailing the budget and forecast values of planning items.
 
-Portfolio Manager can simulate multiple scenarios with different budget combinations and compare their outcomes to arrive at an informed decision to balance the resources and strategic objectives. Using the financials view in Scenario planning, you can get a simulation mode for the financial information. Using this view, the [[alignment-planner-workspace-landing-page|strategic planning]] users such as Portfolio managers, Program managers, or Portfolio user working on the portfolios, can set a portfolio budget target for a particular planning cycle, which could be a monthly, quarterly, yearly, or beyond a year up to 5 years. Using this defined budget, portfolio users can prioritize the planning items within the portfolio to analyze if the prioritized items can be executed within their portfolio budget, while reviewing the monetary benefit from the prioritized items.
+Portfolio Manager can simulate multiple scenarios with different budget combinations and compare their outcomes to arrive at an informed decision to balance the resources and strategic objectives. Using the financials view in Scenario planning, you can get a simulation mode for the financial information. Using this view, the strategic planning users such as Portfolio managers, Program managers, or Portfolio user working on the portfolios, can set a portfolio budget target for a particular planning cycle, which could be a monthly, quarterly, yearly, or beyond a year up to 5 years. Using this defined budget, portfolio users can prioritize the planning items within the portfolio to analyze if the prioritized items can be executed within their portfolio budget, while reviewing the monetary benefit from the prioritized items.
 
 **Important:** [Enable the budget allocation property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/enable-fin-budget-spw.md) to allocate budget to your planning items at portfolio-level and [configure the budget attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/config-budget-allocation-attribute-spw.md) to allocate budget by expense type or cost type.
 
@@ -45,7 +45,7 @@ You can perform financial scenario planning throughout your planning or executio
 **Note:**
 
 -   Finanicals in scenario planning is supported only for Epics, Projects, and Demands type of planning items.
--   Customers using the Legacy [[investment-funding-overview|Investment Funding]] should migrate to new experience to work on the financial scenario planning.
+-   Customers using the Legacy Investment Funding should migrate to new experience to work on the financial scenario planning.
 
 Personalize your scenario planning financials view using the Time scale and Range filters. Manage the budget of your planning items by monthly, quarterly, or yearly cadence depending on the planning cycle of your organization.
 
@@ -81,9 +81,3 @@ The following are high-level use cases for scenario planning.
 -   Fiscal year planning: Megan Burke, Portfolio Manager at ACME Inc, is planning for the next fiscal year and is required to prioritize planning items and align them with the organizational strategic goals. Megan creates a scenario for the portfolio plan and then uses the Prioritization tab to align items with goals. Megan holds discussions with program managers and with the financial team, creates multiple scenarios, and compares them. Megan approves the optimal scenario as a well-aligned strategic portfolio plan for the next fiscal year.
 -   Mid-cycle reprioritization; Changed priorities emerging mid-year require adjustments to the current portfolio plan. John Doe, the product manager at ACME Inc, creates a scenario and incorporates the changed priorities. John adjusts the plan based on the program manager's and financial team's feedback and finalizes the plan.
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[c_GanttChart|Gantt chart]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[investment-funding-overview|Investment Funding]]

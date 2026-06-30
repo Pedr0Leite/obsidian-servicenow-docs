@@ -41,7 +41,7 @@ If you elect to use an earlier version library, use this procedure to disable th
 
 2.  Open the menu from the upper left corner of the console.
 
-3.  Select **[[c_Connect|Connect]] via Windows PowerShell**.
+3.  Select **Connect via Windows PowerShell**.
 
 4.  Run one of these commands to disable the update check:
 
@@ -60,6 +60,3 @@ If you elect to use an earlier version library, use this procedure to disable th
 
 **Parent Topic:**[Configuring SCCM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/configuring-sccm.md)
 
-## Related
-
-- [[c_Connect|Connect]]

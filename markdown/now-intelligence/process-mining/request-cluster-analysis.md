@@ -14,7 +14,7 @@ breadcrumb: [Cluster analysis, Analyzing and getting process insights, Use, Proc
 
 # Perform a cluster analysis
 
-Generate a [[cluster-analysis|cluster analysis]] on an activity, connection between activities, route, or an improvement opportunity.
+Generate a cluster analysis on an activity, connection between activities, route, or an improvement opportunity.
 
 **Before you begin**
 
@@ -24,7 +24,7 @@ Generate a [[cluster-analysis|cluster analysis]] on an activity, connection betw
 
 Run a cluster analysis in one of the following ways.
 
--   From the [[summary-insights-dashboard|Summary and insights page]]:
+-   From the Summary and insights page:
     1.  From the Improvement Opportunities section, select a finding.
     2.  In the **Action** list, select **Requester intent \(cluster\)**.\[Omitted image "cluster-analysis.png"\] Alt text: Cluster analysis from Improvement Opportunities section
 
@@ -47,7 +47,3 @@ Run a cluster analysis in one of the following ways.
 
 [View a cluster analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/view-cluster-analysis.md)
 
-## Related
-
-- [[cluster-analysis|Cluster analysis]]
-- [[summary-insights-dashboard|Summary and insights page]]

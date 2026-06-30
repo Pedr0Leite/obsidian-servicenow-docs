@@ -16,7 +16,7 @@ breadcrumb: [ServiceNow for Microsoft Teams and Microsoft 365, Unified Employee 
 
 The ServiceNow® for Microsoft Teams or Microsoft 365 applications extend the integration of the application to different business units. You can enable employees to more effectively request and receive service from within Microsoft Teams by using this integration.
 
-ServiceNow for Microsoft Teams is available with IT Service Management, [[hr-service-delivery|HR Service Delivery]], [[ur-landing-limitedaccess|Universal Request]]. It is also supported for various Agent experience platforms, like Meeting Extensions.
+ServiceNow for Microsoft Teams is available with IT Service Management, HR Service Delivery, Universal Request. It is also supported for various Agent experience platforms, like Meeting Extensions.
 
 ServiceNow for Microsoft 365 is available with IT Service Management and HR Service Delivery.
 
@@ -43,7 +43,3 @@ Allow the agents to work and manage the major incidents from Major Incident Mana
 
 **Parent Topic:**[ServiceNow for Microsoft Teams and Microsoft 365](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/c_ServiceNowForMSTeams.md)
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[ur-landing-limitedaccess|Universal Request]]

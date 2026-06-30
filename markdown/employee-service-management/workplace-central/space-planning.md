@@ -18,7 +18,7 @@ Create, understand, and manage core functions like space hierarchy, neighborhood
 
 ## Space Planning Overview
 
-As a workplace manager, you can use the floor map to visualize where the employees are seated and how neighborhoods are located on the floors. You can manage seating, manage user moves, and keep your workspace data up to date. If the [[workplace-space-mgmt-ovw|Workplace Space Management]] plugin is installed, you can use additional features like space metrics and summaries. You can also get AI generated insights if you have Workplace Advisor installed.
+As a workplace manager, you can use the floor map to visualize where the employees are seated and how neighborhoods are located on the floors. You can manage seating, manage user moves, and keep your workspace data up to date. If the Workplace Space Management plugin is installed, you can use additional features like space metrics and summaries. You can also get AI generated insights if you have Workplace Advisor installed.
 
 As a space planner, you can use the Space Planning module for the following:
 
@@ -32,8 +32,8 @@ As a space planner, you can use the Space Planning module for the following:
 
 You must install the following plugins to use the Space Planning module:
 
--   [[workplace-central-feat|Workplace Central]]
--   [[workplace-safety-mgmt-hr|Workplace Core]]
+-   Workplace Central
+-   Workplace Core
 -   Workplace Space Management
 
     The Space Management plugin provides additional features like space metrics and summaries.
@@ -72,8 +72,3 @@ To access Space Planning, navigate to **All** &gt; **Workplace Central**, then s
 
 [Kiosk Indoor Mapping]()
 
-## Related
-
-- [[workplace-space-mgmt-ovw|Workplace Space Management]]
-- [[workplace-central-feat|Workplace Central]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]

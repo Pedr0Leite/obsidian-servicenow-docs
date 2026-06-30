@@ -14,7 +14,7 @@ breadcrumb: [Managing incidents in Enterprise Asset Management, Managing enterpr
 
 # Create an Enterprise Asset Management incident
 
-Create an incident record to document a deviation from an expected [[enterprise-asset-management|Enterprise Asset Management]] standard of operation.
+Create an incident record to document a deviation from an expected Enterprise Asset Management standard of operation.
 
 ## Before you begin
 
@@ -77,6 +77,3 @@ Resolve and close your incident.
 
 **Parent Topic:**[Managing incidents in Enterprise Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/managing-eam-incidents.md)
 
-## Related
-
-- [[enterprise-asset-management|Enterprise Asset Management]]

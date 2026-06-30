@@ -15,7 +15,7 @@ breadcrumb: [Integration configuration fields, Health Log Analytics reference, H
 
 # Splunk Poller integration configuration fields
 
-Description of the fields on the Splunk Poller integration configuration forms for [[hla-landing-page|Health Log Analytics]].
+Description of the fields on the Splunk Poller integration configuration forms for Health Log Analytics.
 
 For the Splunk Poller integration setup procedure, see [Set up a Splunk Poller integration for Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/il-connector-hla-splunk-polling.md).
 
@@ -146,6 +146,3 @@ The query Splunk uses to search your data. This field is required.For example, t
 
 **Parent Topic:**[Integration configuration fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

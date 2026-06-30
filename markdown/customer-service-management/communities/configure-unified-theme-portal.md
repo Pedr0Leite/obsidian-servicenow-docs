@@ -30,7 +30,7 @@ Add a theme and header menu to your service portal to define its look and behavi
 
 2.  In the information message on the Page form indicating that you have to change the current application to edit the record, select **here**.
 
-    You have to be in the **[[servicenow-communities|Communities]]** application to edit.
+    You have to be in the **Communities** application to edit.
 
 3.  In the **Theme** field, enter `CSM Default`.
 
@@ -40,7 +40,7 @@ Add a theme and header menu to your service portal to define its look and behavi
 
 6.  Click the Settings icon and **System Settings** &gt; **Developer**.
 
-7.  Change the **Application** to **[[c_CustomerServiceManagement|Customer Service Management]] Unified Theme** and click the Refresh icon.
+7.  Change the **Application** to **Customer Service Management Unified Theme** and click the Refresh icon.
 
     You only have to change this setting once.
 
@@ -68,7 +68,3 @@ Add a theme and header menu to your service portal to define its look and behavi
 
 **Parent Topic:**[Community Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/community-service-portal.md)
 
-## Related
-
-- [[servicenow-communities|Communities]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

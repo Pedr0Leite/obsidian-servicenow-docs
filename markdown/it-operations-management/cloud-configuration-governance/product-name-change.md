@@ -14,9 +14,9 @@ breadcrumb: [Cloud Provisioning and Governance, ITOM Cloud Accelerate, IT Operat
 
 # Product Name Change
 
-Starting with the Paris release, the ServiceNow® Cloud Management application was called ServiceNow® [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]. The application is transformed into [[csc-home|Cloud Services Catalog]] application providing improved and efficient management of the usage and life cycle of cloud resources.
+Starting with the Paris release, the ServiceNow® Cloud Management application was called ServiceNow® Cloud Provisioning and Governance. The application is transformed into Cloud Services Catalog application providing improved and efficient management of the usage and life cycle of cloud resources.
 
-The standalone subscription for Cloud Provisioning and Governance is discontinued. It is restructured and incorporated into Cloud Accelerate. Furthermore, it has been segmented into [[cloud-migration-landing-page|Cloud Migration Assessment]], [[cam-landing|Cloud Account Management]], Cloud Services Catalog, Cloud Configuration and Governance, and [[cloud-actions-library-landing-page|Cloud Action Library]].
+The standalone subscription for Cloud Provisioning and Governance is discontinued. It is restructured and incorporated into Cloud Accelerate. Furthermore, it has been segmented into Cloud Migration Assessment, Cloud Account Management, Cloud Services Catalog, Cloud Configuration and Governance, and Cloud Action Library.
 
 While product name references throughout the product documentation and the graphical user interface \(GUI\) are being updated, you might come across occasional references to their old names, based on the context. For some core components, the product name remains intentionally unchanged to maintain existing functionality.
 
@@ -31,10 +31,3 @@ While product name references throughout the product documentation and the graph
 |Unchanged component names|
 |MID Server Application &gt; Cloud Management|MID Server Application &gt; Cloud Management|Unchanged|
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[csc-home|Cloud Services Catalog]]
-- [[cloud-migration-landing-page|Cloud Migration Assessment]]
-- [[cam-landing|Cloud Account Management]]
-- [[cloud-actions-library-landing-page|Cloud Action Library]]

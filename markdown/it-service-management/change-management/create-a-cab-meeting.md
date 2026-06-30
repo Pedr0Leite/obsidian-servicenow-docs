@@ -96,7 +96,7 @@ Meeting start time
 
 </td><td>
 
-Start date and time for the meeting.**Note:** When you [[cm-add-agenda-cab-meeting-sow|add an agenda item to a CAB meeting]], the **CAB date** field in the change request is automatically updated with this date.
+Start date and time for the meeting.**Note:** When you add an agenda item to a CAB meeting, the **CAB date** field in the change request is automatically updated with this date.
 
 </td></tr><tr><td>
 
@@ -215,6 +215,3 @@ You can send CAB meeting invitations to attendees for each CAB meeting.
 
 **Parent Topic:**[Working with the CAB Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/using-cab-workbench-cf.md)
 
-## Related
-
-- [[cm-add-agenda-cab-meeting-sow|Add an agenda item to a CAB meeting]]

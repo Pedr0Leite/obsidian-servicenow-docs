@@ -12,7 +12,7 @@ breadcrumb: [Check the daily compliance score and configure security property se
 
 # PCI compliance score dashboard
 
-The PCI compliance score dashboard shows how your instance conforms to payment card industry \(PCI\) security standards. Use the dashboard to view your compliance score and modify your [[sc-configuration|configuration]] to improve security.
+The PCI compliance score dashboard shows how your instance conforms to payment card industry \(PCI\) security standards. Use the dashboard to view your compliance score and modify your configuration to improve security.
 
 \[Omitted image "pci-comp-dash.png"\] Alt text: PCI compliance score dashboard with sample values
 
@@ -22,7 +22,7 @@ security\_dashboard\_user or admin, needed to view the PCI compliance score dash
 
 ## Access the PCI compliance score dashboard
 
-To open the dashboard, navigate to **System Security** &gt; **[[instance-security-center|Instance Security Center]]**. From the instance security center, click **Compliance Scores** in the header, then select **PCI Compliance Score**.
+To open the dashboard, navigate to **System Security** &gt; **Instance Security Center**. From the instance security center, click **Compliance Scores** in the header, then select **PCI Compliance Score**.
 
 ## Use cases
 
@@ -74,10 +74,5 @@ Security Configurations \[isc\_security\_configurations\]
 Displays compliant and non-compliant security configurations in high, medium, and low categories. Click an area of the report to display the matching security configurations.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[instance-sec-center-hardening|Check the daily compliance score and configure security property settings]]
+</table>**Parent Topic:**[Check the daily compliance score and configure security property settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-sec-center-hardening.md)
 
-## Related
-
-- [[instance-sec-center-hardening|Check the daily compliance score and configure security property settings]]
-- [[sc-configuration|Configuration]]
-- [[instance-security-center|Instance Security Center]]

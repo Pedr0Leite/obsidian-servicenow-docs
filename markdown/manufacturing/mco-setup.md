@@ -12,21 +12,13 @@ breadcrumb: [Configure, Manufacturing Commercial Operations]
 
 # Set up Manufacturing Commercial Operations
 
-Set up the [[manufacturing-overview|Manufacturing Commercial Operations]] basic requirements.
+Set up the Manufacturing Commercial Operations basic requirements.
 
 |Task|Description|
 |----|-----------|
-|[[create-labor-code|Create a labor code]]|Provides the details to configure the labor code for the work performed by the service agents.|
-|[[mco-product-models|Configuring product models]]|Provides the details to configure the product model for each product.|
-|[[mco-assets|Configuring assets]]|Provides the details to configure the assets for each account or customer.|
-|[[mco-create-install-base-item|Create an install base item]]|Provides the details to configure the instances for an account or customer.|
-|[[mco-create-dealer|Create a dealer]]|Provides the details to create the dealers.|
+|[Create a labor code](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/create-labor-code.md)|Provides the details to configure the labor code for the work performed by the service agents.|
+|[Configuring product models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-product-models.md)|Provides the details to configure the product model for each product.|
+|[Configuring assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-assets.md)|Provides the details to configure the assets for each account or customer.|
+|[Create an install base item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-create-install-base-item.md)|Provides the details to configure the instances for an account or customer.|
+|[Create a dealer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-create-dealer.md)|Provides the details to create the dealers.|
 
-## Related
-
-- [[create-labor-code|Create a labor code]]
-- [[mco-product-models|Configuring product models]]
-- [[mco-assets|Configuring assets]]
-- [[mco-create-install-base-item|Create an install base item]]
-- [[mco-create-dealer|Create a dealer]]
-- [[manufacturing-overview|Manufacturing Commercial Operations]]

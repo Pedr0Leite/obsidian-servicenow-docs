@@ -14,7 +14,7 @@ breadcrumb: [Service Portal, Configure UIs and portals, Configure user experienc
 
 # Configuring Service Portal
 
-Plan and set up a self-[[c_ServicePortal|service portal]] for your employees or customers.
+Plan and set up a self-service portal for your employees or customers.
 
 ## Configuration overview
 
@@ -26,11 +26,11 @@ This workflow provides a high-level overview for configuring a portal. However, 
 
 2.  [Create a portal or update a base system portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/create-a-portal.md)
 
-    A portal is the engine that houses all the references to content for your site. The portal record defines the URL extension for a site, as well as things like the knowledge base, catalog, and homepage. You can also use the portal record to define the header menu and the portal branding. You can [[create-a-portal|create a portal]] or update an existing base system portal to suit your needs.
+    A portal is the engine that houses all the references to content for your site. The portal record defines the URL extension for a site, as well as things like the knowledge base, catalog, and homepage. You can also use the portal record to define the header menu and the portal branding. You can create a portal or update an existing base system portal to suit your needs.
 
 3.  [Configure portal branding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_BrandingEditor.md)
 
-    With the Branding Editor, you can [[configure-onboarding-modals|configure]] the styles and theme of your portal in a view with real-time updates. You can see how your portal appears to users. More advanced users still have the option of creating CSS [[c_StyleSheets|style sheets]] for the portal theme. However, they won't take advantage of the real-time update that the Branding Editor provides. Changes made in the Branding Editor or to specific components of the portal \(such as a widget or a page container\) override any customizations made to the theme. If you need more customization than what the Branding Editor can provide, see [Create a portal theme](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_CustomCSS.md).
+    With the Branding Editor, you can configure the styles and theme of your portal in a view with real-time updates. You can see how your portal appears to users. More advanced users still have the option of creating CSS style sheets for the portal theme. However, they won't take advantage of the real-time update that the Branding Editor provides. Changes made in the Branding Editor or to specific components of the portal \(such as a widget or a page container\) override any customizations made to the theme. If you need more customization than what the Branding Editor can provide, see [Create a portal theme](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_CustomCSS.md).
 
 4.  [Create new pages or update base system pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/t_ConfigureAPage.md) and [configure widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/service-portal-widgets.md)
 
@@ -60,7 +60,7 @@ Pages are made up of containers, columns, rows, widgets, and widget instances. Y
 -   **[Creating portal pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_Pages.md)**  
 Use pages to organize content, ensure responsive mobile optimization, and design meaningful portal user experiences for your customers. A page houses containers and rows, which then contain widgets. By manipulating the layout of the page, and the widgets within it, you can construct your desired user experience.
 -   **[Configure Service Portal Approval Configuration record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/configure-approval-assistance-ai-agent.md)**  
-Configure the Service Portal Approval Configuration record to make the Approval assistance AI agent and [[approval-info-record-widget|Approval Info Record widget]] work better for your specific use case.
+Configure the Service Portal Approval Configuration record to make the Approval assistance AI agent and Approval Info Record widget work better for your specific use case.
 -   **[Using portal widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/service-portal-widgets.md)**  
 Widgets are what define the content of your portal pages. You can use the base system widgets provided with Service Portal, clone and modify widgets, or develop custom widgets to fit your own needs.
 -   **[Configuring search in a portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/search-service-portal.md)**  
@@ -70,10 +70,3 @@ Control user access to a portal.
 
 **Parent Topic:**[Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ServicePortal.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[create-a-portal|Create a portal]]
-- [[configure-onboarding-modals|Configure]]
-- [[c_StyleSheets|Style sheets]]
-- [[approval-info-record-widget|Approval Info Record widget]]

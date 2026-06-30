@@ -14,11 +14,11 @@ breadcrumb: [Technical Accelerators, Accelerator catalog, View the Initiatives a
 
 # Introduction to Instance Observer-Guided
 
-The Introduction to Instance Observer Accelerator provides guidance on understanding and monitoring [[instance-observer-performance|performance]] using Instance Observer.
+The Introduction to Instance Observer Accelerator provides guidance on understanding and monitoring performance using Instance Observer.
 
 ## Accelerator overview
 
-Introduction to Instance Observer provides [[impact-landing-page|Impact]] Guided customers with an overview of Instance Observer, a review of specific telemetry for instance [[io-availability|availability]], prescriptive guidance on visible trends, and leading practices on monitoring your ServiceNow platform. See [[io-overview|Monitoring instance health with Instance Observer]] for more information on the feature.
+Introduction to Instance Observer provides Impact Guided customers with an overview of Instance Observer, a review of specific telemetry for instance availability, prescriptive guidance on visible trends, and leading practices on monitoring your ServiceNow platform. See [Monitoring instance health with Instance Observer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-overview.md) for more information on the feature.
 
 ## Package Availability
 
@@ -82,9 +82,3 @@ Writes code for the ServiceNow platform.
 
 This Impact Accelerator in its entirety or portions of the Impact Accelerator Activities may not be available to customers in the FedRAMP, NSC DOD IL5, or Australia IRAP-Protected data centers, to self-hosted customers, or in other restricted environments, or to managed service providers \(except for their internal use\).
 
-## Related
-
-- [[io-overview|Monitoring instance health with Instance Observer]]
-- [[instance-observer-performance|Performance]]
-- [[impact-landing-page|Impact]]
-- [[io-availability|Availability]]

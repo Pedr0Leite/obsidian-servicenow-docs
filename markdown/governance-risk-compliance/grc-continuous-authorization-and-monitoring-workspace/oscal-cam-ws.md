@@ -26,7 +26,7 @@ CAM OSCAL supports the following models:
 
 -   **Catalog**
 
-    According to NIST, the catalog model provides a structured, machine-readable representation of a catalog of controls. Therefore, as part of the catalog model, [[using-grc-cam|using CAM]] you can get the following control-related information:
+    According to NIST, the catalog model provides a structured, machine-readable representation of a catalog of controls. Therefore, as part of the catalog model, using CAM you can get the following control-related information:
 
     -   Control objectives: These are mapped to controls. The **Reference** field in a control objective maps to the NIST control. The requirements of a control objective map to the statements of the NIST's control. Therefore, each part of the **Description** field in a control objective align with the sub-part of the NIST's control. The child control objectives of each control objective are mapped to the control field. Related control objectives of the control objective are mapped to the links field.
     -   Control objective requirements: Statements or control requirements that are further broken down from a control objective's description.
@@ -77,6 +77,3 @@ Custom properties with a unique namespace are used to include specific informati
 
 **Parent Topic:**[Continuous authorization and monitoring tasks in the CAM Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/cam-ws-continuous-auth-monitor.md)
 
-## Related
-
-- [[using-grc-cam|Using CAM]]

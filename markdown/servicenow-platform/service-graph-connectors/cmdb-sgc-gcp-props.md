@@ -18,9 +18,9 @@ Service Graph Connector for GCP properties control the behavior of the connector
 
 ## Connection properties
 
-These connection properties are available for the [[sgc-cmdb-integration-gcp|Service Graph Connector for GCP]].
+These connection properties are available for the Service Graph Connector for GCP.
 
-**Note:** To open the Service Graph Connection Properties \[sn\_cmdb\_int\_util\_service\_graph\_connection\_property\] table for the connector, navigate to **All** &gt; **[[cmdb-sgc-available|Service Graph Connectors]]** &gt; **GCP** &gt; **Connections**, and select the connection name. The connection properties are displayed in the Service Graph Connection Properties related list.
+**Note:** To open the Service Graph Connection Properties \[sn\_cmdb\_int\_util\_service\_graph\_connection\_property\] table for the connector, navigate to **All** &gt; **Service Graph Connectors** &gt; **GCP** &gt; **Connections**, and select the connection name. The connection properties are displayed in the Service Graph Connection Properties related list.
 
 <table id="table_ad3_z3n_whc"><thead><tr><th>
 
@@ -584,7 +584,3 @@ Set the maximum waiting period \(in milliseconds\) after an API failure due to t
 
 [Record removal process in Service Graph Connector for GCP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-gcp-removal.md)
 
-## Related
-
-- [[sgc-cmdb-integration-gcp|Service Graph Connector for GCP]]
-- [[cmdb-sgc-available|Service Graph Connectors]]

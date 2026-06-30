@@ -16,13 +16,13 @@ breadcrumb: [Working with Task table, Table admin, Tables and data, Configure co
 
 The Time Card Management feature enables time card users such as task assignees to report and track their time for the assigned tasks.
 
-\[Omitted video\] Description: Video explaining how to set up the time tracking feature for projects, enter time, and approve [[c_TimeCards|time cards]].Watch this three-minute video to learn about setup of the time tracking feature, entering time and approvals.
+\[Omitted video\] Description: Video explaining how to set up the time tracking feature for projects, enter time, and approve time cards.Watch this three-minute video to learn about setup of the time tracking feature, entering time and approvals.
 
-Time Card Management works with the Task table to [[c_RecordTimeWorked|record time worked]] on various task types, such as projects, incidents, problems, and change requests.
+Time Card Management works with the Task table to record time worked on various task types, such as projects, incidents, problems, and change requests.
 
 With the Time Card Management feature:
 
--   The time card users can record the [[c_TimeWorked|time worked]] on a task using [time cards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_TimeCards.md) and [time sheets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/time-sheets.md). They can submit their time cards and [[time-sheets|time sheets]] for approval.
+-   The time card users can record the time worked on a task using [time cards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_TimeCards.md) and [time sheets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/time-sheets.md). They can submit their time cards and time sheets for approval.
 -   Time cards and time sheets are routed for approval based on the **Non-project time approver** and **Project time approver** fields in the user time sheet policy. User managers with time card approver role can also log time and [submit the time sheet of their resources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/submit-time-sheet-other-users.md)
 -   The time card approvers can perform the following tasks:
 
@@ -45,11 +45,11 @@ With the Time Card Management feature:
 -   **[Activate Time Card Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/t_ActivateTimeCardManagement.md)**  
 Administrators can activate the Time Card Management plugin \(com.snc.time\_card\). The plugin also activates the Performance Analytics - Content Pack - Project Portfolio Suite Dashboards plugin \(com.snc.pa.time\_card\). However, you need a Performance Analytics license to use the dashboards.
 -   **[Time sheet policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/time-sheet-policies.md)**  
-[[time-sheet-policies|Time sheet policies]] contain the policies to which a time sheet, or a time card must adhere.
+Time sheet policies contain the policies to which a time sheet, or a time card must adhere.
 -   **[Create a rate type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/CreateRateType.md)**  
 You can create rate types using the Rate Types feature.
 -   **[Time Sheet Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/worker-portal.md)**  
-[[worker-portal|Time Sheet Portal]] categorizes and displays all your assigned tasks in a single view for a given week. The portal enables you to record time spent on tasks on a day-to-day basis and submit the time sheet in a single action.
+Time Sheet Portal categorizes and displays all your assigned tasks in a single view for a given week. The portal enables you to record time spent on tasks on a day-to-day basis and submit the time sheet in a single action.
 -   **[Time Sheets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/time-sheets.md)**  
 A time sheet groups all the time cards for a user for the given week.
 -   **[Time cards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_TimeCards.md)**  
@@ -63,11 +63,3 @@ Domain separation is supported in Time Card. Domain separation enables you to se
 
 **Parent Topic:**[Working with the Task table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_TaskTable.md)
 
-## Related
-
-- [[c_TimeCards|Time cards]]
-- [[c_RecordTimeWorked|Record time worked]]
-- [[c_TimeWorked|Time worked]]
-- [[time-sheets|Time Sheets]]
-- [[time-sheet-policies|Time sheet policies]]
-- [[worker-portal|Time Sheet Portal]]

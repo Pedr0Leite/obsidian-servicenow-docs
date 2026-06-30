@@ -14,7 +14,7 @@ breadcrumb: [Integration with Virtual Conferencing, Integrating Field Service Ma
 
 # Configure Field Service Management Virtual Conferencing Integration
 
-Install and set up the [[fsm-application-landing-page|Field Service Management]] Virtual Conferencing Integration application to interact with customers and peer agents using Zoom or Microsoft Teams meetings initiated from the Now Agent mobile application.
+Install and set up the Field Service Management Virtual Conferencing Integration application to interact with customers and peer agents using Zoom or Microsoft Teams meetings initiated from the Now Agent mobile application.
 
 ## Before you begin
 
@@ -85,6 +85,3 @@ Customize the Conferences related list to display specific information about con
 
 **Parent Topic:**[Integration with Virtual Conferencing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-integrations/virtual-conference-integration-fsm.md)
 
-## Related
-
-- [[fsm-application-landing-page|Field Service Management]]

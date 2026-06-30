@@ -14,7 +14,7 @@ breadcrumb: [Requesting and approving an exception for a remediation task, Use, 
 
 # Request an exception for remediation tasks using GRC: Policy and Compliance Management
 
-Request policy exceptions using the GRC policy exception management capability in the Policy and Compliance Management application from within [[vr-config-compliance-landing|Configuration Compliance]].
+Request policy exceptions using the GRC policy exception management capability in the Policy and Compliance Management application from within Configuration Compliance.
 
 ## Before you begin
 
@@ -38,7 +38,7 @@ You can also request exceptions in the classic UI.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[avr-landing|Application Vulnerability Response]]** &gt; **Application Vulnerable Items** \(or **Remediation Tasks**\)&gt;**All**, and open the item or group for which you want to request an exception.
+1.  Navigate to **All** &gt; **Application Vulnerability Response** &gt; **Application Vulnerable Items** \(or **Remediation Tasks**\)&gt;**All**, and open the item or group for which you want to request an exception.
 
     The selected item or group must be in Open, Under investigation, or Awaiting implementation state.
 
@@ -117,7 +117,7 @@ Details that are related to the reason why this request is being made. This fiel
 
     6.  Click the Source tab and select a control objective from the **Control objective** field.
 
-    7.  Click the Risk [[vr-va-ws-assessment-tab|assessment tab]] and select the risk rating from the **Risk rating** field.
+    7.  Click the Risk assessment tab and select the risk rating from the **Risk rating** field.
 
     8.  Save the form.
 
@@ -141,8 +141,4 @@ Details that are related to the reason why this request is being made. This fiel
 
     For more information on the Policy Exception Integration and the hand-off between the remediation owner and the compliance manager, see [Policy and Compliance Management optional setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-compliance-optional-steps.md).
 
-## Related
 
-- [[vr-config-compliance-landing|Configuration Compliance]]
-- [[avr-landing|Application Vulnerability Response]]
-- [[vr-va-ws-assessment-tab|Assessment tab]]

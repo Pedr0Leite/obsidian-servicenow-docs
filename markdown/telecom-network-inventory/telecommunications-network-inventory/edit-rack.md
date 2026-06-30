@@ -14,7 +14,7 @@ breadcrumb: [Create a rack, Create and maintain racks and cabinets, Manually cre
 
 # Edit rack
 
-Edit a rack to remove, add, or move the equipment from the selected rack. Organize and upgrade the components within the rack using the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+Edit a rack to remove, add, or move the equipment from the selected rack. Organize and upgrade the components within the rack using the Telecommunications Network Inventory application.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ By editing a rack, you can see all the equipment added to the rack along with it
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then go to **Inventory** &gt; **Rack**.
 
@@ -128,7 +128,3 @@ Select Options \(\[Omitted image "icon-menu.png"\] Alt text: Options icon\) of t
 
 **Parent Topic:**[Create a rack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/edit-a-rack.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]

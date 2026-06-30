@@ -14,7 +14,7 @@ breadcrumb: [Shopper to-dos, Using Shopping Hub, Use, Sourcing and Procurement O
 
 # Provide more details on your purchase from Shopping Hub Home
 
-Provide additional information on your purchase from [[shopping-hub-overview|Shopping Hub]] Home by answering the follow-up questions that the procurement specialist has posted regarding your order. Your response to these to-dos ensures that the procurement specialist understands your exact requirements and has all the necessary information before proceeding with the [[sourcing-request|sourcing request]].
+Provide additional information on your purchase from Shopping Hub Home by answering the follow-up questions that the procurement specialist has posted regarding your order. Your response to these to-dos ensures that the procurement specialist understands your exact requirements and has all the necessary information before proceeding with the sourcing request.
 
 ## Before you begin
 
@@ -43,7 +43,3 @@ You can provide more information on the queries that the procurement buyer has p
 
 **Parent Topic:**[Shopper to-dos](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shopper-todos.md)
 
-## Related
-
-- [[shopping-hub-overview|Shopping Hub]]
-- [[sourcing-request|Sourcing request]]

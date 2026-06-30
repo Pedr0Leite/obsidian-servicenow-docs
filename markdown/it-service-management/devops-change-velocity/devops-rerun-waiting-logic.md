@@ -14,7 +14,7 @@ breadcrumb: [Restarting failed build or release pipeline jobs and stages, Azure 
 
 # Execution sequence and waiting logic for rerun jobs
 
-Processing sequence and waiting logic for rerun jobs are different when you reuse or [[t_CreateAChange|create a change request]] as part of a rerun job.
+Processing sequence and waiting logic for rerun jobs are different when you reuse or create a change request as part of a rerun job.
 
 ## Existing Considerations
 
@@ -46,6 +46,3 @@ For release pipelines, the stages are run in the specified sequence only during 
 
 **Parent Topic:**[Azure DevOps integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/azure-devops-integration-dev-ops.md)
 
-## Related
-
-- [[t_CreateAChange|Create a change request]]

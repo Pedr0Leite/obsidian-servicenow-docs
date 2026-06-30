@@ -50,9 +50,9 @@ This consists of the following metrics:
 **Note:**
 
 -   If Chat Queued count for Live Agents \(LA\) is higher and they are not receiving any chat for Virtual Agent \(VA\), this may be an indication that there is higher load on LA and VA responses for guiding users are limited.
--   If Chat arrival ratio or acceptance ratio is continuously trending higher, that may indicate that there is demand for [[io-availability|availability]] of more live agents by the users.
+-   If Chat arrival ratio or acceptance ratio is continuously trending higher, that may indicate that there is demand for availability of more live agents by the users.
 
-**Parent Topic:**[[instance-observer-ovr-metric|Overview of Instance Observer metrics]]
+**Parent Topic:**[Overview of Instance Observer metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/instance-observer-ovr-metric.md)
 
 **Related topics**  
 
@@ -67,7 +67,7 @@ This consists of the following metrics:
 
 [Transaction or response metrics]()
 
-[Database [[instance-observer-performance|performance]] metrics]()
+[Database performance metrics]()
 
 [Semaphores performance metrics]()
 
@@ -97,8 +97,3 @@ This consists of the following metrics:
 
 [Instance Data Replication]()
 
-## Related
-
-- [[instance-observer-ovr-metric|Overview of Instance Observer metrics]]
-- [[io-availability|Availability]]
-- [[instance-observer-performance|Performance]]

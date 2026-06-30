@@ -14,7 +14,7 @@ breadcrumb: [Set up a Jira instance, Configure, SPW Jira Integrations, Strategic
 
 # Create a child alias for Jira Spoke alias for SPW Jira Integrations
 
-Create a child connection &amp; credential alias that will be used to connect to Jira later, to enable integration between [[alignment-planner-workspace-landing-page|Strategic Planning]] and Jira.
+Create a child connection &amp; credential alias that will be used to connect to Jira later, to enable integration between Strategic Planning and Jira.
 
 ## Before you begin
 
@@ -46,6 +46,3 @@ Role required: admin
 
 **Parent Topic:**[Setting up a Jira instance for SPW Jira Integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/setting-up-jira-instance-spw.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

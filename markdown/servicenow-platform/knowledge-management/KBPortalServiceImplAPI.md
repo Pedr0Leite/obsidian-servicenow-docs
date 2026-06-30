@@ -14,7 +14,7 @@ breadcrumb: [Integrating a custom search or knowledge article viewer with knowle
 
 # KBPortalServiceImpl - Global
 
-The `KBPortalServiceImpl` API is included with [[knowledge-management|Knowledge Management]] V3 \[com.snc.knowledge3\] as a script include. It provides methods to use with knowledge, such as integration with a custom search.
+The `KBPortalServiceImpl` API is included with Knowledge Management V3 \[com.snc.knowledge3\] as a script include. It provides methods to use with knowledge, such as integration with a custom search.
 
 **Parent Topic:**[Integrating a custom search or knowledge article viewer with knowledge blocks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/integrating-with-custom-search-or-knowledge-article-viewer.md)
 
@@ -30,7 +30,7 @@ Instantiates a KBPortalServiceImpl object in a global application.
 
 Returns search results based on keywords from the knowledge article and from relevant knowledge block content that the user has access to read.
 
-If you have activated the [[knowledge-blocks|knowledge blocks]] feature and are using a custom search for knowledge with your application, your search may not return relevant articles when keywords are contained in the blocks. To return search results based on keywords from the article and from relevant block content that the user has access to read, you must call the `getResultData()` method inside your custom search.
+If you have activated the knowledge blocks feature and are using a custom search for knowledge with your application, your search may not return relevant articles when keywords are contained in the blocks. To return search results based on keywords from the article and from relevant block content that the user has access to read, you must call the `getResultData()` method inside your custom search.
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -67,7 +67,7 @@ function doKeywordSearch(queryText, count, queryLocation) {
     start: queryLocation,
     end: queryLocation+count,
 
-    [[attachment|attachment]]: false,
+    attachment: false,
 
     // Provide any additional metadata you want to include in your results.
     knowledge_fields: [
@@ -93,7 +93,7 @@ function doKeywordSearch(queryText, count, queryLocation) {
     article.publishedUTC = result.meta.published.display_value;
     article.text = article.text;
     article.score = result.meta.score;
-    article.[[label|label]] = article.short_description;
+    article.label = article.short_description;
     article.shortDescription = article.short_description;
     results.push(article);
   }
@@ -102,9 +102,3 @@ function doKeywordSearch(queryText, count, queryLocation) {
 }
 ```
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]
-- [[knowledge-blocks|Knowledge blocks]]
-- [[attachment|Attachment]]
-- [[label|Label]]

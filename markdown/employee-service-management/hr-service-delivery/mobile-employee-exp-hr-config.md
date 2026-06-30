@@ -14,11 +14,11 @@ breadcrumb: [Integration of HR Service Delivery with ServiceNow applications, HR
 
 # AI Search for HR Service Delivery
 
-The ServiceNow® AI Search application provides a modern consumer-grade search engine for the ServiceNow® Service Portal, [[employee-center-landing-page|Employee Center]] \(EC\), ServiceNow® Mobile, and ServiceNow® Virtual Agent.
+The ServiceNow® AI Search application provides a modern consumer-grade search engine for the ServiceNow® Service Portal, Employee Center \(EC\), ServiceNow® Mobile, and ServiceNow® Virtual Agent.
 
 New customers automatically have the ServiceNow® AI Search application configured with their base system for the EC only.
 
-If you are an existing customer, you can configure [[hr-service-delivery|HR Service Delivery]] to use the ServiceNow® AI Search application.
+If you are an existing customer, you can configure HR Service Delivery to use the ServiceNow® AI Search application.
 
 For more information, see [AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/overview-ais.md).
 
@@ -77,7 +77,3 @@ For more information, see [AI Search](https://raw.githubusercontent.com/ServiceN
 
 **Parent Topic:**[Integration of HR Service Delivery with ServiceNow applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/integrate-hr-platform-apps.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[hr-service-delivery|HR Service Delivery]]

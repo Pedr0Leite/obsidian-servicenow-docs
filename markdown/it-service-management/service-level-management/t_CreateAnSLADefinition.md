@@ -18,11 +18,11 @@ You can create one or more Service Level Agreement \(SLA\) definitions and use t
 
 ## Before you begin
 
-When you create an SLA definition, avoid using dot-walked fields that change frequently in any of the [[c_SLAConditions|SLA conditions]] \(start, stop, pause, and reset\). The SLA engine features, such as [[c_SLATimeline|SLA Timeline]] and SLA Repair replays the audit history of the Task record that the task\_sla is attached to. The SLA engine does not replay the audit history of any dot-walked fields from that Task, rather only considers the final state of the dot-walk fields.
+When you create an SLA definition, avoid using dot-walked fields that change frequently in any of the SLA conditions \(start, stop, pause, and reset\). The SLA engine features, such as SLA Timeline and SLA Repair replays the audit history of the Task record that the task\_sla is attached to. The SLA engine does not replay the audit history of any dot-walked fields from that Task, rather only considers the final state of the dot-walk fields.
 
 For example, a pause condition is set to an incident dot-walk field `incident.company.cost_center`. The value of the Cost Center is first set to Finance and later changed to Engineering. When the SLA repair runs, only the final value of the Cost Center is considered. So, if the SLA pause condition is: `incident.company.cost_center is Engineering`, SLA Repair pauses immediately, because the SLA Repair does not consider the previous Cost Center value: Finance. This condition also applies to SLA Timeline \(as well as when executing the SLA Engine asynchronously\).
 
-Now, if the requirement is to pause when incident.company.cost\_center is Engineering and not Finance, then the audit history must be on the Task record using a custom field. [[t_CreateCustomField|Create a custom field]] \(in this example on the incident table\) such as: u\_company\_cost\_center and a business rule to populate the field when either the company changes or the Cost Center of the company changes. In this approach, instead of setting the SLA pause condition to the dot-walked field, it is set against the custom field. The given approach ensures that the task\_sla, SLA repair, and SLA Timeline always shows the same results.
+Now, if the requirement is to pause when incident.company.cost\_center is Engineering and not Finance, then the audit history must be on the Task record using a custom field. Create a custom field \(in this example on the incident table\) such as: u\_company\_cost\_center and a business rule to populate the field when either the company changes or the Cost Center of the company changes. In this approach, instead of setting the SLA pause condition to the dot-walked field, it is set against the custom field. The given approach ensures that the task\_sla, SLA repair, and SLA Timeline always shows the same results.
 
 **Note:** The deeper the dot walk, the more business rules are required.
 
@@ -30,7 +30,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[service-level-mgmt-landing-page|Service Level Management]]** &gt; **SLA** &gt; **SLA Definitions**.
+1.  Navigate to **All** &gt; **Service Level Management** &gt; **SLA** &gt; **SLA Definitions**.
 
 2.  Click **New**.
 
@@ -153,7 +153,7 @@ Schedule source
 The schedule to be used when creating task SLAs. You can specify one of the following options:-   **No schedule**: If the **No Schedule** option is selected, the SLA calculates the schedule duration based on a 24 x 7 schedule.
 -   **SLA definition**: If the **SLA definition** option is selected, the **Schedule** list appears.
 
-**Schedule**: Specify the hours during which the [[sla-timer|SLA timer]] runs.
+**Schedule**: Specify the hours during which the SLA timer runs.
 
 -   **Task field**: This option title is determined from the option selected in the Table field, for example, if the Incident option is selected in the Table field, this option becomes the Incident field. If the **Task table field** option is selected, the **Schedule source field** list appears.
 
@@ -241,10 +241,3 @@ Select the condition type to determine when an SLA attaches, pauses, completes, 
 </table>
 **Parent Topic:**[Service Level Agreement \(SLA\) definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/c_SLADefinitions.md)
 
-## Related
-
-- [[c_SLAConditions|SLA conditions]]
-- [[c_SLATimeline|SLA timeline]]
-- [[t_CreateCustomField|Create a custom field]]
-- [[service-level-mgmt-landing-page|Service Level Management]]
-- [[sla-timer|SLA timer]]

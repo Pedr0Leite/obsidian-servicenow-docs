@@ -22,15 +22,15 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[advanced-work-assignment|Advanced Work Assignment]]**.
+1.  Navigate to **All** &gt; **Advanced Work Assignment**.
 
 2.  Create a service channel to automatically route incoming work to agents.
 
     For more information, see [Create or configure a service channel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/awa-create-service-channel.md).
 
-    The following service channels are specific to [[supplier-awa|Advanced Work Assignment for Supplier Lifecycle Operations]].
+    The following service channels are specific to Advanced Work Assignment for Supplier Lifecycle Operations.
 
-    -   [[supplier|Supplier]] Cases
+    -   Supplier Cases
     -   Chat
     After you have created a service channel, do the following:
 
@@ -67,8 +67,3 @@ The AWA routing is active and can be tested via `configure-scp-queue.dita`.
 
 [Configure Agent Chat for Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/configure-agent-chat-slm.md)
 
-## Related
-
-- [[advanced-work-assignment|advanced work assignment]]
-- [[supplier-awa|Advanced Work Assignment for Supplier Lifecycle Operations]]
-- [[supplier|Supplier]]

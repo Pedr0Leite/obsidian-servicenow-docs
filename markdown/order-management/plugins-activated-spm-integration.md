@@ -12,7 +12,7 @@ breadcrumb: [Order Management integration with Strategic Portfolio Management, I
 
 # Plugins activated for the Strategic Portfolio Management \(SPM\) integration
 
-The Strategic Portfolio Management \(SPM\) integration is included with the [[explore-order-management|Order Management]] application.
+The Strategic Portfolio Management \(SPM\) integration is included with the Order Management application.
 
 The integration requires the following plugins, which are activated by users with the admin role:
 
@@ -39,14 +39,14 @@ Contains roles
 
 </th></tr></thead><tbody><tr><td>
 
--   [[reviewing-orchestration-plans-order-fulfillment|Order fulfillment]] agent \[sn\_ind\_tmt\_orm.order-fulfillment\_agent\]
+-   Order fulfillment agent \[sn\_ind\_tmt\_orm.order-fulfillment\_agent\]
 -   Service order agent \[sn\_ind\_tmt\_orm.service\_order\_agent\]
 
 </td><td>
 
 Order fulfillment agents have read access to product orders, product order tasks, service orders, and resource orders. Service order agents have read access to service order requests, service orders, resource orders, and related fulfillment tasks. Agents have access to the following project information:
 
--   Read access to the Project form [[fields|fields]].
+-   Read access to the Project form fields.
 -   Read access to the Order Line Item to Project Relationship table.
 -   Read access to the Order Line Item and Order Task related lists in PPM.
 -   Read access to the Order task to Project Task related list in Order Management.
@@ -117,7 +117,7 @@ Administrator \[admin\]
 
 -   Creates the PPM project templates used to generate the projects for orders that require project oversight automatically.
 -   Configures the mapping between order tasks and planned project tasks associated with project templates
--   Specifies the conditions and decision [[rules_101|rules]] for determining project oversight and the project templates used to create those projects.
+-   Specifies the conditions and decision rules for determining project oversight and the project templates used to create those projects.
 -   Controls automatic closure of project tasks
 
 </td><td>
@@ -126,10 +126,3 @@ Administrator \[admin\]
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[explore-order-management|Order management]]
-- [[reviewing-orchestration-plans-order-fulfillment|Order fulfillment]]
-- [[fields|Fields]]
-- [[rules_101|Rules]]

@@ -14,7 +14,7 @@ breadcrumb: [Configuring Service Portal, Service Portal, Configure UIs and porta
 
 # Upgrading Service Portal
 
-After upgrading a ServiceNow instance from a previous release, you might need to perform additional tasks to take advantage of new or updated functionality in [[c_ServicePortal|Service Portal]].
+After upgrading a ServiceNow instance from a previous release, you might need to perform additional tasks to take advantage of new or updated functionality in Service Portal.
 
 Refer to the topics in this section for information about changes to implement to use the latest functionality in Service Portal.
 
@@ -25,6 +25,3 @@ Validate user input in a specific field type using a validation script. In new i
 
 **Parent Topic:**[Configuring Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/configuring-service-portal.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]

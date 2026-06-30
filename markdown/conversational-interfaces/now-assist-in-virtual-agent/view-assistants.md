@@ -21,17 +21,17 @@ View and manage all existing chat and voice assistants on your instance.
 
 See [Configuring assistants overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/configure-now-assist-va.md).
 
-To view the **Assistants** tab in [[assistant-designer|Assistant Designer]], verify that the Now Assist for Platform plugin is installed. The plugin comes with Now Assist products such as Now Assist for ITSM, Now Assist for CSM, and others.
+To view the **Assistants** tab in Assistant Designer, verify that the Now Assist for Platform plugin is installed. The plugin comes with Now Assist products such as Now Assist for ITSM, Now Assist for CSM, and others.
 
 **Note:**
 
--   With the Now Assist for Platform plugin, you can see all [[now-assist-in-va-landing|Now Assist in Virtual Agent]] and Now Assist panel assistants.
+-   With the Now Assist for Platform plugin, you can see all Now Assist in Virtual Agent and Now Assist panel assistants.
 -   If you only have the Now Assist for Creator plugin installed, only the Now Assist panel - Developer assistant is shown.
 -   When the **com.snc.ex\_ai\_portal** \(Employee Slate\) app is installed, the default Employee Slate assistant is available, and it is automatically displayed with Employee Slate, a portal-based employee experience. For more information, see [Employee Slate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-slate-landing-page.md).
 
 |Default assistants|Activate|Deactivate|Edit|Test|Delete|
 |------------------|--------|----------|----|----|------|
-|Now Assist in [[virtual-agent-landing-page|Virtual Agent]] \(default\)|Yes|Yes|Yes|Yes|No|
+|Now Assist in Virtual Agent \(default\)|Yes|Yes|Yes|Yes|No|
 |Now Assist panel - Platform \(default\)|Yes|Yes|Yes|Yes|No|
 |Now Assist - Developer|Yes|Yes|Yes|Yes|No|
 |Employee Slate assistant \(default\)|Yes|Yes|Yes|Yes|No|
@@ -119,8 +119,3 @@ For chat assistants, see [Create a chat assistant](https://raw.githubusercontent
 
 For voice assistants, see [Create a voice assistant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/configure-voice-assistants.md).
 
-## Related
-
-- [[assistant-designer|Assistant Designer]]
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]
-- [[virtual-agent-landing-page|Virtual Agent]]

@@ -14,7 +14,7 @@ breadcrumb: [Using Agent Workspace for HR Case Management, Agent Workspace, HR S
 
 # SMS conversations in HR Service Delivery Agent Workspace
 
-Using the Conversational SMS service channel app, available on the ServiceNow Store, HR agents can provide support for long-running SMS conversations via [[hr-service-delivery|HR Service Delivery]] Agent Workspace. Requesters can initiate HR support conversations through SMS.
+Using the Conversational SMS service channel app, available on the ServiceNow Store, HR agents can provide support for long-running SMS conversations via HR Service Delivery Agent Workspace. Requesters can initiate HR support conversations through SMS.
 
 ## Request apps on the Store
 
@@ -63,11 +63,7 @@ Agents can receive Google Chrome browser toasts when the following criteria is m
 
 ## Employee initiated SMS conversations
 
-Employees can initiate HR support conversations through SMS. Agents can expect the system to automatically associate the sender phone number to the channel user profile. If an SMS message is received for a non-existing channel user profile, a new channel user profile is automatically created by the system. The system queries the **Mobile phone** field on employee [[c_HRProfileRecords|HR profile]] for a match. When a match is found, the system associates the employee with the newly created channel user profile. If more than one match is found no association is made on the channel user profile. If no match is found no association is made on channel user profile.
+Employees can initiate HR support conversations through SMS. Agents can expect the system to automatically associate the sender phone number to the channel user profile. If an SMS message is received for a non-existing channel user profile, a new channel user profile is automatically created by the system. The system queries the **Mobile phone** field on employee HR profile for a match. When a match is found, the system associates the employee with the newly created channel user profile. If more than one match is found no association is made on the channel user profile. If no match is found no association is made on channel user profile.
 
 When an employee adds a phone number to an SMS messaging interaction or updates a phone number on the interaction, the Number field on the interaction updates from null to the employee's name. The HR profile for that employee is associated to the phone number. Only one active channel user profile can exist for a given phone number at any time.
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[c_HRProfileRecords|HR Profile]]

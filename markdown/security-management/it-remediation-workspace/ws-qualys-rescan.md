@@ -14,13 +14,13 @@ breadcrumb: [Rescan vulnerable items and remediation tasks in the IT Remediation
 
 # Rescan Qualys vulnerable items from the Vulnerability Response workspaces
 
-Verify that your vulnerable items have been remediated between scheduled scanning cycles. Initiate rescans in the Qualys product on-demand from the [[it-remediation-workspace-landing-page|IT Remediation Workspace]] in your ServiceNow AI Platform instance.
+Verify that your vulnerable items have been remediated between scheduled scanning cycles. Initiate rescans in the Qualys product on-demand from the IT Remediation Workspace in your ServiceNow AI Platform instance.
 
 ## Before you begin
 
 To initiate a rescan for the Qualys product from the classic environment, see [Initiate rescan for the Qualys Vulnerability Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-response/advanced-modifications.md).
 
-The Qualys scanners are deactivated by default in the [[vuln-landing-page|Vulnerability Response]] application. If you try to perform a rescan from the vulnerable items or remediation tasks that have these applications as a source, the **Rescan** button is not available.
+The Qualys scanners are deactivated by default in the Vulnerability Response application. If you try to perform a rescan from the vulnerable items or remediation tasks that have these applications as a source, the **Rescan** button is not available.
 
 To activate these scanners, as a user with the sn\_vul.vulnerability\_admin role:
 
@@ -41,7 +41,7 @@ For more information about setting up your Qualys scanner, see [Set up scanner a
 Roles required:
 
 -   sn\_vul.remediation\_owner for the IT Remediation Workspace.
--   sn\_vul.vulnerability\_analyst or sn\_vul.vulnerability\_admin from the [[vulnerability-manager-workspace-landing-page|Vulnerability Manager Workspace]].
+-   sn\_vul.vulnerability\_analyst or sn\_vul.vulnerability\_admin from the Vulnerability Manager Workspace.
 
 ## Procedure
 
@@ -97,8 +97,4 @@ From the Option profile list, choose a profile to use for the scan.You can selec
 
     All VIs that have transitioned, or will transition, to Closed/Fixed are imported with the next scheduled import of the Qualys integrations.
 
-## Related
 
-- [[it-remediation-workspace-landing-page|IT Remediation Workspace]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[vulnerability-manager-workspace-landing-page|Vulnerability Manager Workspace]]

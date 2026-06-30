@@ -26,7 +26,7 @@ The key components of the Skills Foundation application are:
 
 ## Bring your own skills ontology
 
-A dynamic AI-driven skills ontology can help your organization to define and measure the relationships between the skills, roles, and your employees. The skills ontology provides actionable data that guides learned decisions and effectively addresses skill gaps. Powered by AI, the skills ontology is constantly [[exploring-learning-exp|learning]], inferring, collecting, and maintaining information about the skills, which means that your organization need not update the data manually. You can augment the skills ontology with your organization's internal data to further enrich the ontology.
+A dynamic AI-driven skills ontology can help your organization to define and measure the relationships between the skills, roles, and your employees. The skills ontology provides actionable data that guides learned decisions and effectively addresses skill gaps. Powered by AI, the skills ontology is constantly learning, inferring, collecting, and maintaining information about the skills, which means that your organization need not update the data manually. You can augment the skills ontology with your organization's internal data to further enrich the ontology.
 
 ## Skills-based career data
 
@@ -34,7 +34,7 @@ Match the career data of your organization with skills to enhance the developmen
 
 ## Proactive Prompts to drive adoption
 
-Drive adoption in your organization by sending prompts proactively to your employees and managers so that they perform the specific tasks in their natural flow of work. For example, prompts can be used to request an employee to update their skills or for a manager to validate the skills of their team. You can use [[proactive-prompts-for-hrsd|Proactive Prompts]] in multiple engagement channels like Microsoft Teams, Microsoft Outlook, Zoom, and the short messaging services \(SMS\). Your employees can easily update their skills.
+Drive adoption in your organization by sending prompts proactively to your employees and managers so that they perform the specific tasks in their natural flow of work. For example, prompts can be used to request an employee to update their skills or for a manager to validate the skills of their team. You can use Proactive Prompts in multiple engagement channels like Microsoft Teams, Microsoft Outlook, Zoom, and the short messaging services \(SMS\). Your employees can easily update their skills.
 
 ## Employee skills profile
 
@@ -56,7 +56,7 @@ Build a complete profile of your talent with a comprehensive view of the skills 
 
 </td><td>
 
-[Reference \[Omitted image "bus-learn.svg"\] Alt text:Get details about components like fields, tables, and properties.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/skills-intelligence-[[reference-hr-service-delivery-advanced-integration-with-workday|reference]].md)
+[Reference \[Omitted image "bus-learn.svg"\] Alt text:Get details about components like fields, tables, and properties.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/skills-intelligence-reference.md)
 
 </td></tr></tbody>
 </table>## Additional resources
@@ -67,8 +67,3 @@ Build a complete profile of your talent with a comprehensive view of the skills 
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[proactive-prompts-for-hrsd|Proactive Prompts]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

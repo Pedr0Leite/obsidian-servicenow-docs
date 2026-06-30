@@ -14,7 +14,7 @@ breadcrumb: [Forms, Reference, Next Experience for Demand Management in Strategi
 
 # Create risk form
 
-The [[risk-form|risk form]] information is used to create a risk for the demand.
+The risk form information is used to create a risk for the demand.
 
 <table id="table_mxx_gvp_z5b"><thead><tr><th>
 
@@ -171,7 +171,3 @@ Information to record and track the work accomplished for resolving the risk.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[risk-form|Risk form]]

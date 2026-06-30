@@ -12,7 +12,7 @@ breadcrumb: [Configure, Code Signing, Platform Security]
 
 # Configure Code Signing Enterprise on your protected instance
 
-Turn on and configure [[code-signing-landing|Code Signing]] on your protected instance.
+Turn on and configure Code Signing on your protected instance.
 
 ## Before you begin
 
@@ -22,13 +22,13 @@ Roles required:
 -   security\_admin
 -   codesigning\_admin
 
-    **Note:** The codesigning\_admin role can be assigned using the process detailed in [[cse-assign-roles|Assign the Code Signing Administrator Role]].
+    **Note:** The codesigning\_admin role can be assigned using the process detailed in [Assign the Code Signing Administrator Role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/cse-assign-roles.md).
 
 -   sn\_kmf.cryptographic\_manager
 
 ## Procedure
 
-1.  On your PPI, navigate to **All** &gt; **Code Signing** &gt; **[[sc-configuration|Configuration]]** &gt; **Guided Setup** to open the [[code-signing-configuration|Code Signing configuration]] page.
+1.  On your PPI, navigate to **All** &gt; **Code Signing** &gt; **Configuration** &gt; **Guided Setup** to open the Code Signing configuration page.
 
 2.  In the **Instance type** field, select **protected instance**.
 
@@ -58,7 +58,7 @@ Roles required:
 
     This check scans your instance for any invalid or missing signatures, and might take some time to complete. Don't exit or refresh the page until the scan completes.
 
-    This workflow identifies signatures that were generated with expired or inactive [[c_Certificates|certificates]] and re-signs the affected records. To improve performance, the workflow now divides the process into multiple events and runs them in parallel.
+    This workflow identifies signatures that were generated with expired or inactive certificates and re-signs the affected records. To improve performance, the workflow now divides the process into multiple events and runs them in parallel.
 
 12. If the scan finds invalid signatures, select **Download Report**.
 
@@ -75,15 +75,7 @@ Roles required:
 
 ## Result
 
-Signature validation is now being enforced on your production instance. You can verify successful completion by looking at your [[ca-system-properties|system properties]]. Look for the **com.snc.kmf.signature.validation.flag** property on the System Properties \[sys\_property\] table, and verify that it has a value of **true**. Verify that the **com.snc.kmf.signature.validation.certificate\_trust** property doesn’t have an empty value.
+Signature validation is now being enforced on your production instance. You can verify successful completion by looking at your system properties. Look for the **com.snc.kmf.signature.validation.flag** property on the System Properties \[sys\_property\] table, and verify that it has a value of **true**. Verify that the **com.snc.kmf.signature.validation.certificate\_trust** property doesn’t have an empty value.
 
 \[Omitted image "cse-verify.png"\] Alt text: Property values verifying that signature validation is now being enforced
 
-## Related
-
-- [[cse-assign-roles|Assign the Code Signing Administrator Role]]
-- [[code-signing-landing|Code Signing]]
-- [[sc-configuration|Configuration]]
-- [[code-signing-configuration|Code Signing Configuration]]
-- [[c_Certificates|Certificates]]
-- [[ca-system-properties|System properties]]

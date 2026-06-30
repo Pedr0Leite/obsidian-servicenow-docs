@@ -14,7 +14,7 @@ breadcrumb: [Storage Discovery via SMI-S and CIM, Storage discovery, Data collec
 
 # Discovery of storage area networks \(SAN\)
 
-[[r-discovery|Discovery]] collects information about storage area networks from specialized devices, such as storage arrays and Fibre Channel \(FC\) switches, and creates specific references between the tables in the SAN schema.
+Discovery collects information about storage area networks from specialized devices, such as storage arrays and Fibre Channel \(FC\) switches, and creates specific references between the tables in the SAN schema.
 
 ## Multipath SAN storage example
 
@@ -22,6 +22,3 @@ Storage accessible to the Linux host consists of two physical fibre channel \(FC
 
 **Parent Topic:**[Storage Discovery via SMI-S and CIM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_DataCollDiscoStorageviaSMISCIM.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

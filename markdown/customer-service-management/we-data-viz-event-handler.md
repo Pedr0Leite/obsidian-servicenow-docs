@@ -70,10 +70,7 @@ This event is dispatched when the visualization is selected.
 
 [Embed the Data visualization component instance on the third-party website](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/embed-data-viz-comp.md)
 
-[[we-data-viz-comp-prop|Component properties for the Data visualization]]
+[Component properties for the Data visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/we-data-viz-comp-prop.md)
 
 [Sample code for the Data visualization component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/we-data-viz-sample-code.md)
 
-## Related
-
-- [[we-data-viz-comp-prop|Component properties for the Data visualization]]

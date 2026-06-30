@@ -16,9 +16,9 @@ breadcrumb: [Multi-factor authentication, Authentication, Access Management]
 
 Enforcement of MFA for non-SSO logins to ServiceNow from the Yokohama release.
 
-MFA enhances security by requiring [[users|users]] to provide two or more evidence to prove their [[identity-landing|identity]] during login. MFA protects accounts from threats like phishing and account takeovers.
+MFA enhances security by requiring users to provide two or more evidence to prove their identity during login. MFA protects accounts from threats like phishing and account takeovers.
 
-MFA being a critical security tool against various identity takeover-related attacks. ServiceNow enforces MFA by default post-Yokohama upgrade and making it mandatory for non-SSO log ins \(users performing login with only username and password or LDAP based [[c_Authentication|authentication]]\) to ensure a better security posture and reduce the risk of breaches.
+MFA being a critical security tool against various identity takeover-related attacks. ServiceNow enforces MFA by default post-Yokohama upgrade and making it mandatory for non-SSO log ins \(users performing login with only username and password or LDAP based authentication\) to ensure a better security posture and reduce the risk of breaches.
 
 MFA enforcement is carried though a MFA policy that is activated by default from Yokohama or upgrade to Yokohama. The MFA is enforced the **Enforce MFA for non-SSO logins** policy is `Active` and honored through the MFA Context.
 
@@ -31,7 +31,7 @@ Here's more details about MFA enforcement:
 
 -   Enforced to all production and non-production instances.
 -   Enforced to all the **non-snc\_external** users and **non-SSO** login.
--   Integration with Basic auth and [[oauth-inbound-and-outbound|OAuth]] [[resource-owner-password-grant|resource owner password credential grant]] does not require MFA from Yokohama.
+-   Integration with Basic auth and OAuth resource owner password credential grant does not require MFA from Yokohama.
 
 To know more about the changes due to enforcement, see [Changes due to the Multi-factor Authentication enforcement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/changes-mfa-enforcement.md).
 
@@ -50,10 +50,3 @@ To know more about MFA, see [Exploring Multi-factor Authentication](https://raw.
 
 [Frequently asked questions - Multi-factor Authentication enforcement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/faq-mfa.md)
 
-## Related
-
-- [[users|Users]]
-- [[identity-landing|Identity]]
-- [[c_Authentication|Authentication]]
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[resource-owner-password-grant|Resource owner password credential grant]]

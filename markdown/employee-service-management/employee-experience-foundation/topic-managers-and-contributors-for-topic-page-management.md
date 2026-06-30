@@ -14,7 +14,7 @@ breadcrumb: [Using Employee Center, Employee Center, Unified Employee Experience
 
 # Topic managers and contributors for topic page management
 
-While topic managers control the topic level decisions, the contributors manage the connected content, [[emp-center-quick-link-config|quick links]], adding applications, and [[featured-content|featured content]] on the topic page.
+While topic managers control the topic level decisions, the contributors manage the connected content, quick links, adding applications, and featured content on the topic page.
 
 **Topic manager** level permission works in a top-down manner. The managers can move, copy, or change any details on the topic pages they have been provided access to along with the sub-tree further down.
 
@@ -34,7 +34,7 @@ While topic managers control the topic level decisions, the contributors manage 
 **Related topics**  
 
 
-[Use the [[employee-center-landing-page|Employee Center]] topic pages]()
+[Use the Employee Center topic pages]()
 
 [Use the My To-dos page]()
 
@@ -46,7 +46,7 @@ While topic managers control the topic level decisions, the contributors manage 
 
 [Task filters on My tasks]()
 
-[View the [[rfy-ec|Recommended for you]] content]()
+[View the Recommended for you content]()
 
 [Use Employee Center from Zoom]()
 
@@ -64,9 +64,3 @@ While topic managers control the topic level decisions, the contributors manage 
 
 [Use Guided Self-Service]()
 
-## Related
-
-- [[emp-center-quick-link-config|Quick links]]
-- [[featured-content|Featured content]]
-- [[employee-center-landing-page|Employee Center]]
-- [[rfy-ec|Recommended for you]]

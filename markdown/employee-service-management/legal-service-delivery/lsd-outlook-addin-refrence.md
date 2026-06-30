@@ -14,14 +14,10 @@ breadcrumb: [Microsoft Outlook Add-In for Legal Service Delivery, Integration wi
 
 # Microsoft Outlook Add-In for Legal Service Delivery reference
 
-[[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] topics provide additional information about components installed, the lists and forms that you use in ServiceNow for Legal add-in for Outlook.
+Reference topics provide additional information about components installed, the lists and forms that you use in ServiceNow for Legal add-in for Outlook.
 
 -   **[Components installed with Microsoft Outlook Add-In for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-outlook-addin-components.md)**  
-Several types of components are installed with activation of the [[lsd-outlook-addin-landing|Microsoft Outlook Add-In for Legal Service Delivery]] application, including user roles.
+Several types of components are installed with activation of the Microsoft Outlook Add-In for Legal Service Delivery application, including user roles.
 
 **Parent Topic:**[Microsoft Outlook Add-In for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-outlook-addin-landing.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[lsd-outlook-addin-landing|Microsoft Outlook Add-In for Legal Service Delivery]]

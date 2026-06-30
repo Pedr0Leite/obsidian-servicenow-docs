@@ -12,7 +12,7 @@ breadcrumb: [Use agentic AI for OTSM, Now Assist for OTSM, Operational Technolog
 
 # Generate OT KB articles agentic workflow
 
-Use the Generate OT KB articles agentic workflow to generate a KB article when an [[operational-technology-overview|Operational Technology]] \(OT\) incident is resolved.
+Use the Generate OT KB articles agentic workflow to generate a KB article when an Operational Technology \(OT\) incident is resolved.
 
 ## Generate OT KB articles overview
 
@@ -47,7 +47,7 @@ With the Generate OT KB articles agentic workflow, you can automatically generat
     The author that publishes the generated KB article. The author for the OT agentic workflow is the OTSM Knowledge Generator AI Agent.
 
 
-The article is then automatically published and appears in the Attached Knowledge related list of the OT incident record in the [[industrial-workspace-for-operational-technology|Industrial Workspace]]. The KB Article Generation process isn't triggered if there's an article already attached to current OT incident.
+The article is then automatically published and appears in the Attached Knowledge related list of the OT incident record in the Industrial Workspace. The KB Article Generation process isn't triggered if there's an article already attached to current OT incident.
 
 If you want to change this agentic workflow, you can [duplicate it](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/clone-aia-usecase.md), adjust the settings to suit your specific needs, and activate the duplicated version of the agentic workflow instead.
 
@@ -61,7 +61,3 @@ The OT knowledge generator AI agent is used to generate a KB article related for
 
 **Important:** This agent is turned on by default. For more information, see [Now Assist skills, agents, and agentic workflows on by default](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills-on-by-default.md).
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

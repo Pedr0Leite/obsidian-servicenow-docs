@@ -12,7 +12,7 @@ breadcrumb: [Configuring Agentic Contact Center for Insurance, Agentic Contact C
 
 # Install Agentic Contact Center for Insurance
 
-If you have the admin role, you can install the [[landing-agentic-contact-centre-for-insurance|Agentic Contact Center for Insurance]] application \(sn\_ins\_csr\).
+If you have the admin role, you can install the Agentic Contact Center for Insurance application \(sn\_ins\_csr\).
 
 ## Before you begin
 
@@ -46,9 +46,5 @@ The application is installed.
 
 ## What to do next
 
-Configure Agentic Contact Center for Insurance for your workspace. For more information, see [[agentic-contact-center-for-insurance-configure|Configure Agentic Contact Center for Insurance]].
+Configure Agentic Contact Center for Insurance for your workspace. For more information, see [Configure Agentic Contact Center for Insurance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/agentic-contact-center-for-insurance-configure.md).
 
-## Related
-
-- [[agentic-contact-center-for-insurance-configure|Configure Agentic Contact Center for Insurance]]
-- [[landing-agentic-contact-centre-for-insurance|Agentic Contact Center for Insurance]]

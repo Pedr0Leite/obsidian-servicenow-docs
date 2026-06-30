@@ -14,7 +14,7 @@ breadcrumb: [DEX Application and Device Health pages, Monitor, Digital End-User 
 
 # DEX Insights
 
-The [[dex-landing|Digital End-User Experience]] \(DEX\) Insights tab provides access to the battery health, compliance, system performance, and system time reports, enabling you to track user [[dex-workspace-devices-tab|devices]] and take remedial actions. Use the Insights reports to gain early information about issues before they can slow down the users.
+The Digital End-User Experience \(DEX\) Insights tab provides access to the battery health, compliance, system performance, and system time reports, enabling you to track user devices and take remedial actions. Use the Insights reports to gain early information about issues before they can slow down the users.
 
 To access the Insights tab, navigate to **Workspaces** &gt; **Service Operations Workspace** and select the Insights icon \(\[Omitted image "icon-insights.png"\] Alt text: Insights icon\) in the primary navigation pane.
 
@@ -40,7 +40,7 @@ Event monitoring
 
 </td><td>
 
-Provides the ability to monitor and analyze configured events across managed devices.Using filters, you can isolate events by severity, OS type, and rule configuration. You can also take a [[remedial-action|remedial action]] on affected devices. See [DEX Insights reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/insights-reports.md) for more details.
+Provides the ability to monitor and analyze configured events across managed devices.Using filters, you can isolate events by severity, OS type, and rule configuration. You can also take a remedial action on affected devices. See [DEX Insights reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/insights-reports.md) for more details.
 
 </td></tr><tr><td>
 
@@ -93,8 +93,3 @@ This page appears on Windows machines only.
 </td></tr></tbody>
 </table>For more details on fields in each report category, see [DEX Insights reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/insights-reports.md).
 
-## Related
-
-- [[dex-landing|Digital End-User Experience]]
-- [[dex-workspace-devices-tab|Devices]]
-- [[remedial-action|Remedial action]]

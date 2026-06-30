@@ -12,9 +12,9 @@ breadcrumb: [Legacy product configurator, Configure, price, quote apps, Configur
 
 # Use extension points for open state management
 
-Control the options displayed in the product configurator by using extension points in [[som-open-state-management-model|Open state management]].
+Control the options displayed in the product configurator by using extension points in Open state management.
 
-You can use extension points to call custom [[scripts|scripts]] for managing the product configurator.
+You can use extension points to call custom scripts for managing the product configurator.
 
 As an admin, access the available open state management extension points, by navigating to **All** &gt; **Scripted Extension Points** and in the Extension Points list, select the appropriate extension point to view it.
 
@@ -25,7 +25,3 @@ As an admin, access the available open state management extension points, by nav
 |SetOpenStateResponse|Updates the open state config instance to a config instance.|
 |OpenStateModelExtension|Method used to return to the updated config instance. Customers can customize the process method.|
 
-## Related
-
-- [[som-open-state-management-model|Open state management]]
-- [[scripts|Scripts]]

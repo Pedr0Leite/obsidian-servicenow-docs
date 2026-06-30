@@ -14,7 +14,7 @@ breadcrumb: [Creating portal pages, Configuring Service Portal, Service Portal, 
 
 # Standard ticket page
 
-[[configure-onboarding-modals|Configure]] individual request types to display the request-specific information, while still having a consistent layout that is similar to other request types. This configuration verifies a consistent experience when viewing submitted requests.
+Configure individual request types to display the request-specific information, while still having a consistent layout that is similar to other request types. This configuration verifies a consistent experience when viewing submitted requests.
 
 For new instances, the standard ticket page is available by default. For upgraded instances, you must activate the Standard Ticket Route page route map. For information about activating this page route map, see [Activate the page route map for the standard ticket page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/config-pageroutemap-stpage.md).
 
@@ -49,14 +49,14 @@ If configured, this section displays the following regions for a submitted reque
 If configured, this section displays the following types of tabs for a submitted request:
 
 -   Activity
--   [[attachments-configurable-workspace|Attachments]]
+-   Attachments
 -   Variable editor
 -   Variable summarizer
--   Associated Requests. Displays all associated requests \(visible in the **My Requests** widget in [[c_ServicePortal|Service Portal]]\) for which the current ticket is the parent. It’s applicable in any of the following scenarios:
+-   Associated Requests. Displays all associated requests \(visible in the **My Requests** widget in Service Portal\) for which the current ticket is the parent. It’s applicable in any of the following scenarios:
 
     -   If the current ticket is a universal request, then all requests associated \(through the **Parent** field on the task table\) with child tickets of the universal request are displayed.
     -   If the current ticket isn’t a universal request, then all requests associated \(through the **Parent** field on the task table\) with the current ticket are displayed.
-    For information on defining [[c_Filters|filters]] for the [[my-request-widget-portal|My Requests widget]], see [Define filters for My Requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configure-my-requests.md).
+    For information on defining filters for the My Requests widget, see [Define filters for My Requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configure-my-requests.md).
 
 -   Custom tab
 
@@ -89,7 +89,7 @@ Ticket configurations are process domain-separated. For any request type record,
 **Note:** For a table, only one active configuration is enabled per domain.
 
 -   **[Configure the standard ticket page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/configure-st-page.md)**  
-Give Service Portal users a consistent way to view their submitted requests. You can [[configure-st-page|configure the standard ticket page]] for different request types.
+Give Service Portal users a consistent way to view their submitted requests. You can configure the standard ticket page for different request types.
 -   **[Activate the page route map for the standard ticket page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/config-pageroutemap-stpage.md)**  
 If you have upgraded your instance, redirect the ticket page to standard\_ticket page in Service Portal and view requests on the standard ticket page.
 
@@ -104,11 +104,3 @@ If you have upgraded your instance, redirect the ticket page to standard\_ticket
 
 [Configure the standard ticket page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/configure-st-page.md)
 
-## Related
-
-- [[configure-onboarding-modals|Configure]]
-- [[attachments-configurable-workspace|Attachments]]
-- [[c_ServicePortal|Service Portal]]
-- [[c_Filters|Filters]]
-- [[my-request-widget-portal|My Requests widget]]
-- [[configure-st-page|Configure the standard ticket page]]

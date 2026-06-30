@@ -14,7 +14,7 @@ breadcrumb: [Models, Product Catalog, Asset Management, IT Service Management]
 
 # Model form fields
 
-There are fields on the Model form that apply to all types of [[c_Models|models]].
+There are fields on the Model form that apply to all types of models.
 
 <table id="table_ijg_fpj_54"><thead><tr><th>
 
@@ -66,7 +66,7 @@ A brief description of the model.
 
 </td></tr><tr><td>
 
-[[c_ModelCategories|Model categories]]
+Model categories
 
 </td><td>
 
@@ -189,7 +189,7 @@ The configuration items created from this model. Can have any combination of ass
 
 </td></tr><tr><td>
 
-[[c_ProductCatalog|Product Catalog]]
+Product Catalog
 
 </td><td>
 
@@ -198,8 +198,3 @@ The information about the model as it appears in the product catalog and service
 </td></tr></tbody>
 </table>**Parent Topic:**[Models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/c_Models.md)
 
-## Related
-
-- [[c_Models|Models]]
-- [[c_ModelCategories|Model categories]]
-- [[c_ProductCatalog|Product Catalog]]

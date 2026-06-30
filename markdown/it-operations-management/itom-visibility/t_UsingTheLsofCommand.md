@@ -24,7 +24,7 @@ Role required: admin
 
 1.  Install `lsof` on the Solaris and AIX machines on which you want to gather application relationship data.
 
-2.  In the instance, navigate to **[[r-discovery|Discovery]] Definition** &gt; **CI Classification** &gt; **UNIX**.
+2.  In the instance, navigate to **Discovery Definition** &gt; **CI Classification** &gt; **UNIX**.
 
 3.  Select **Solaris** from the list.
 
@@ -41,6 +41,3 @@ Role required: admin
 
 **Parent Topic:**[Application Mapping for UNIX discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_DiscoveryAppMapForUNIX.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

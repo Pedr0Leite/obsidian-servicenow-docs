@@ -28,7 +28,7 @@ Role required: admin
 
     You can select **Disabled** tab to see the list of tables that has set Audit disabled. You can also select the All tab to see all the tables in your instance with either enabled or disabled Audit option.
 
-2.  Select the table from the list you want to update the [[c_AuditedTables|auditing]] configurations.
+2.  Select the table from the list you want to update the auditing configurations.
 
     The table with its respective columns show up. You can also see the total number of columns in the selected table.
 
@@ -48,9 +48,6 @@ Role required: admin
 
 6.  Select **Save** to save the latest modifications.
 
-    Select **Clear All** to remove all the columns being enabled. See [[setup-audit-retention|Setup your audit retention]] for more information about audit data retention.
+    Select **Clear All** to remove all the columns being enabled. See [Setup your audit retention](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/setup-audit-retention.md) for more information about audit data retention.
 
-## Related
 
-- [[setup-audit-retention|Setup your audit retention]]
-- [[c_AuditedTables|Auditing]]

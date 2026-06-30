@@ -14,7 +14,7 @@ breadcrumb: [Change Management plugins, Configure, Change Management, IT Service
 
 # Activate Change Management Success Probability
 
-You can activate the [[c_ITILChangeManagement|Change Management]] - Success Probability plugin \(com.snc.change\_management.success\_probability\) if you have the admin role.
+You can activate the Change Management - Success Probability plugin \(com.snc.change\_management.success\_probability\) if you have the admin role.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Activate the Change Management Success Probability \(com.snc.change\_management.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System [[dex-workspace-application-tab|Applications]]** &gt; **All Available Applications** &gt; **All**.
+1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
 2.  Find the plugin using the filter criteria and search bar.
 
@@ -86,7 +86,3 @@ Activate the Change Management Success Probability \(com.snc.change\_management.
 
 [Activate Change Management - Data Archiving]()
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]
-- [[dex-workspace-application-tab|Applications]]

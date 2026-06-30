@@ -42,7 +42,7 @@ Different roles are required to perform various steps in Field Service Guided Se
 |Set Up ACLs|wm\_admin|
 |Set Up Work Categories|wm\_admin|
 |Set Up Work Types|wm\_admin|
-|Setup [[fsm-application-landing-page|Field Service Management]] Configuration|wm\_admin|
+|Setup Field Service Management Configuration|wm\_admin|
 |Set Up Work Configuration|wm\_admin|
 
 |Step|Role required|
@@ -79,9 +79,5 @@ Different roles are required to perform various steps in Field Service Guided Se
 |Configure Group selection criteria|user\_admin|
 |Onboard External Agent|user\_admin|
 
-**Parent Topic:**[[fsm-reference|Field Service Management reference]]
+**Parent Topic:**[Field Service Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/fsm-reference.md)
 
-## Related
-
-- [[fsm-reference|Field Service Management reference]]
-- [[fsm-application-landing-page|Field Service Management]]

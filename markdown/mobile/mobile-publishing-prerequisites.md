@@ -40,7 +40,7 @@ Make sure that you have the following third-party applications to request, test,
     -   Google Firebase account
 
         -   Generates the Firebase App ID, Firebase API Key, and the Firebase project ID.
-        -   Sets up [[sg-mobile-security-push-notif|push notifications]] to Android devices.
+        -   Sets up push notifications to Android devices.
         For more information about Google Firebase, see the [Google Firebase documentation](https://firebase.google.com/).
 
     -   Apple Business Manager \(ABM\)
@@ -79,9 +79,5 @@ Make sure that you have the following third-party applications to request, test,
     \* These items are not required to request the branded app for public distribution, but they are required to complete the process.
 
 
-**Parent Topic:**[[mobile-publishing|Publish mobile apps with custom branding]]
+**Parent Topic:**[Publish mobile apps with custom branding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-publishing.md)
 
-## Related
-
-- [[mobile-publishing|Publish mobile apps with custom branding]]
-- [[sg-mobile-security-push-notif|Push notifications]]

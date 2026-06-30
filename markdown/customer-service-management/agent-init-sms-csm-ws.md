@@ -24,7 +24,7 @@ Ensure that an administrator has configured the Conversational SMS Integration w
 
 1.  Navigate to **All** &gt; **Workspace Experience** &gt; **Workspaces** &gt; **Agent Workspace Home**.
 
-2.  On the Agent Workspace Home page, navigate to **Agent Workspace** &gt; **[[migration-lists|Lists]]** &gt; **Interactions** &gt; **My Interactions**.
+2.  On the Agent Workspace Home page, navigate to **Agent Workspace** &gt; **Lists** &gt; **Interactions** &gt; **My Interactions**.
 
 3.  In the My Interactions list, modify an existing interaction or create another interaction.
 
@@ -32,7 +32,7 @@ Ensure that an administrator has configured the Conversational SMS Integration w
     -   To create another interaction, click **New** in the My Interactions list.
 4.  On the Details tab of the workspace form, fill in the details for a new interaction or modify the details.
 
-    For more information about the form, see [[csm-workspace-agent-actions|CSM workspace form features]].
+    For more information about the form, see [CSM workspace form features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-workspace-agent-actions.md).
 
     **Note:** The user profile associated with an interaction is configured by an administrator by using the AgentInitiatedConversationUtil extension point. By default, the AgentInitiatedMessagingUtilExtPointImpl script include that implements the AgentInitiatedConversationUtil extension point is available for the Conversational SMS Integration with Twilio application. For more information, see [Associate user profiles on messaging interactions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/associate-user-profiles-messaging-interactions.md).
 
@@ -146,8 +146,3 @@ An active interaction record associated with a different user exists
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[csm-workspace-agent-actions|CSM Configurable Workspace form features]]
-- [[migration-lists|Lists]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, SPW Jira Integrations, Strategic Planning, Strategic Por
 
 # Configuring Jira project settings in SPW
 
-Configure integration settings for each Jira project before importing issues to ensure accurate and consistent visibility of work in both [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace and Jira. These settings such as team association and data mappings define how work items sync between both applications.
+Configure integration settings for each Jira project before importing issues to ensure accurate and consistent visibility of work in both Strategic Planning Workspace and Jira. These settings such as team association and data mappings define how work items sync between both applications.
 
 For each Jira project, perform the following tasks:
 
@@ -33,6 +33,3 @@ For each Jira project, perform the following tasks:
 
 These steps must be completed for every Jira project that you plan to integrate. Doing so ensures that imported issues sync correctly and enables portfolio managers with real-time visibility into execution.
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

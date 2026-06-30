@@ -39,7 +39,7 @@ Configure when to moderate content for users and user groups.
 -   **[Configure moderation settings for a new user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/define-moderation-new-users.md)**  
 Configure the system to prevent inappropriate user contributions.
 -   **[Assign a moderation task to your assignment group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/assign-moderation-task-assignment-group.md)**  
-Change the assignment group to [[assign-moderation-task-assignment-group|assign a moderation task to your assignment group]].
+Change the assignment group to assign a moderation task to your assignment group.
 -   **[Configure abuse reporting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/configure-abuse-reporting.md)**  
 Configure whether users can report content and profile abuse, set an abuse reporting threshold, and define reasons for abuse reporting.
 -   **[Configure user banning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/configure-banning.md)**  
@@ -47,17 +47,17 @@ Set the number of offenses a user can make before they are banned from creating 
 -   **[Configure moderation filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/configure-moderation-filters.md)**  
 Create moderation filters to manage how content is moderated.
 -   **[Ban a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/ban-a-user.md)**  
-You can [[ban-a-user|ban a user]] from creating or editing content, for example, a user can be banned for posting inappropriate content.
+You can ban a user from creating or editing content, for example, a user can be banned for posting inappropriate content.
 -   **[Revoke a user ban](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/ban-user-revoke-ban.md)**  
-[[ban-user-revoke-ban|Revoke a user ban]] to allow a user to create and edit content again.
+Revoke a user ban to allow a user to create and edit content again.
 -   **[Approve or reject content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/approve-reject-content.md)**  
-[[approve-reject-content|Approve or reject content]] that a user reported as inappropriate or that is associated with a particular community profile.
+Approve or reject content that a user reported as inappropriate or that is associated with a particular community profile.
 -   **[Disable comments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/disable-comments.md)**  
-[[disable-comments|Disable comments]] on a blog, document, video, event, or question to avoid users from posting comments.
+Disable comments on a blog, document, video, event, or question to avoid users from posting comments.
 -   **[Remove content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/remove-content.md)**  
-[[remove-content|Remove content]] that does not meet community standards.
+Remove content that does not meet community standards.
 -   **[Harvest knowledge from a community](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/create-knowledge-from-communities.md)**  
-[[create-knowledge-from-communities|Harvest knowledge from a community]] and create structured knowledge articles from unstructured discussions around a question.
+Harvest knowledge from a community and create structured knowledge articles from unstructured discussions around a question.
 
 **Parent Topic:**[Configuring communities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/configure-communities.md)
 
@@ -82,7 +82,7 @@ You can [[ban-a-user|ban a user]] from creating or editing content, for example,
 
 [Enable knowledge harvesting]()
 
-[Activate [[servicenow-communities|Communities]] plugins]()
+[Activate Communities plugins]()
 
 [Community setup guide for admins]()
 
@@ -104,13 +104,3 @@ You can [[ban-a-user|ban a user]] from creating or editing content, for example,
 
 [Community Service Portal]()
 
-## Related
-
-- [[assign-moderation-task-assignment-group|Assign a moderation task to your assignment group]]
-- [[ban-a-user|Ban a user]]
-- [[ban-user-revoke-ban|Revoke a user ban]]
-- [[approve-reject-content|Approve or reject content]]
-- [[disable-comments|Disable comments]]
-- [[remove-content|Remove content]]
-- [[create-knowledge-from-communities|Harvest knowledge from a community]]
-- [[servicenow-communities|Communities]]

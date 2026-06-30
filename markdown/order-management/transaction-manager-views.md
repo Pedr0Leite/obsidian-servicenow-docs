@@ -12,9 +12,9 @@ breadcrumb: [Transaction Manager, CPQ app, Configure, price, quote apps, Configu
 
 # Transaction Manager: Views
 
-Understand how to set [[rules_101|rules]] for access to [[fields|fields]] and events according to user persona.
+Understand how to set rules for access to fields and events according to user persona.
 
-Views allow [[transaction-manager|Transaction Manager]] admins to control how users with various personas can view and [[Modify|modify]] fields and events at various stages of a transaction.
+Views allow Transaction Manager admins to control how users with various personas can view and modify fields and events at various stages of a transaction.
 
 To work with views, click **Views** in the Admin menu. The views list page shows the views you have configured for your transaction environment. Clicking a view’s name in the list displays the access privileges defined in the view.
 
@@ -32,7 +32,7 @@ The stages appear in the top row of the table. This helps you define the access 
 
 Clicking the pencil icon for **Associated Personas** lets you choose the personas assigned to the view. A menu shows all the personas. A persona can only be assigned to one view.
 
-The values in the display cannot be modified in the Admin UI. They can be modified only by importing a [[blueprints|blueprints]].zip file in CSV format.
+The values in the display cannot be modified in the Admin UI. They can be modified only by importing a blueprints.zip file in CSV format.
 
 \[Omitted image "cpq-txn-mgr-views-fields.jpeg"\] Alt text: Transaction Manager: Views
 
@@ -104,28 +104,16 @@ If you have multiple views defined for your Transaction Manager blueprint, this 
 
 \[Omitted image "cpq-txn-mgr-views-yaml.jpeg"\] Alt text: Yaml file
 
-When all three files have been modified, they can be placed in the views folder of the blueprints.zip file and imported into Transaction Manager via the [[matrix_loader_table_of_contents|Matrix Loader]]. Assuming that there are no issues with any of the files, changes to any views take effect when the blueprint is deployed.
+When all three files have been modified, they can be placed in the views folder of the blueprints.zip file and imported into Transaction Manager via the Matrix Loader. Assuming that there are no issues with any of the files, changes to any views take effect when the blueprint is deployed.
 
 **Related topics**  
 
 
-[[transaction-manager-personas|Transaction Manager: Personas]]
+[Transaction Manager: Personas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/transaction-manager-personas.md)
 
-[[transaction-manager-stages|Transaction Manager: Stages]]
+[Transaction Manager: Stages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/transaction-manager-stages.md)
 
-[[transaction-manager-events|Transaction Manager: Events]]
+[Transaction Manager: Events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/transaction-manager-events.md)
 
-[[transaction-manager-rules-and-rule-groupings|Transaction Manager: Rules and rule groupings]]
+[Transaction Manager: Rules and rule groupings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/transaction-manager-rules-and-rule-groupings.md)
 
-## Related
-
-- [[transaction-manager-personas|transaction manager personas]]
-- [[transaction-manager-stages|transaction manager stages]]
-- [[transaction-manager-events|transaction manager events]]
-- [[transaction-manager-rules-and-rule-groupings|transaction manager rules and rule groupings]]
-- [[rules_101|Rules]]
-- [[fields|Fields]]
-- [[transaction-manager|Transaction Manager]]
-- [[Modify|Modify]]
-- [[blueprints|Blueprints]]
-- [[matrix_loader_table_of_contents|Matrix Loader]]

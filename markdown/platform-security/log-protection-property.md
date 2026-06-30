@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  If the **com.glide.security.protected\_table.enabled** property doesn't exist in the [[ca-system-properties|System Properties]] list, select **New**.
+1.  If the **com.glide.security.protected\_table.enabled** property doesn't exist in the System Properties list, select **New**.
 
     The new system property form shows up.
 
@@ -103,6 +103,4 @@ Option to make the property private-   Read roles
 </td></tr></tbody>
 </table>3.  Select **Submit** to create the property.
 
-## Related
 
-- [[ca-system-properties|System properties]]

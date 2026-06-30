@@ -22,7 +22,7 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[recruitment-workspace-concept|Recruitment workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Recruitment workspace**.
 
 2.  Select a job requisition that you want to resume working on.
 
@@ -54,6 +54,3 @@ The job requisition is off hold and ready to be taken forward.
 
 [Open a job requisition in your ATS]()
 
-## Related
-
-- [[recruitment-workspace-concept|Recruitment workspace]]

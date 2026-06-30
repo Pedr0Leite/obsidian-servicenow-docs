@@ -28,7 +28,7 @@ The preferred reporting unit for any data is specified in a metric definition. W
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Risk** &gt; **[[Administration|Administration]]** &gt; **Unit Conversions**.
+1.  Navigate to **All** &gt; **Risk** &gt; **Administration** &gt; **Unit Conversions**.
 
 2.  Select **New**.
 
@@ -47,6 +47,3 @@ The preferred reporting unit for any data is specified in a metric definition. W
 
 **Parent Topic:**[Configuring metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/configuring-irm-metrics.md)
 
-## Related
-
-- [[Administration|Administration]]

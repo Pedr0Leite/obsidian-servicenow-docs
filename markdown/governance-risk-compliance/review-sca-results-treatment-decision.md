@@ -25,7 +25,7 @@ The **Results** step surfaces the quantitative output of the simulation. Review 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[grc-opres-landing-page|Operational Resilience]]** &gt; **[[scenario-analysis-ov|Scenario Analysis]]** and open the Scenario Analysis record form.
+1.  Navigate to **All** &gt; **Operational Resilience** &gt; **Scenario Analysis** and open the Scenario Analysis record form.
 
 2.  In the Playbook stage panel, select **Results**.
 
@@ -68,10 +68,5 @@ The **Results** step surfaces the quantitative output of the simulation. Review 
 
 ## Result
 
-The simulation results have been reviewed and a treatment decision has been recorded. The optional **Operational Vulnerabilities** and **Issues** steps are now available. For more information on adding operational vulnerabilities and issues, see [[add-sca-op-vul-and-issues|Log operational vulnerabilities and issues]].
+The simulation results have been reviewed and a treatment decision has been recorded. The optional **Operational Vulnerabilities** and **Issues** steps are now available. For more information on adding operational vulnerabilities and issues, see [Log operational vulnerabilities and issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/add-sca-op-vul-and-issues.md).
 
-## Related
-
-- [[add-sca-op-vul-and-issues|Log operational vulnerabilities and issues]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[scenario-analysis-ov|Scenario analysis]]

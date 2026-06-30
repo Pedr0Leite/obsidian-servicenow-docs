@@ -12,7 +12,7 @@ breadcrumb: [Using a regulated environment, ServiceNow Store, Administering appl
 
 # Listing types not available in regulated environments
 
-To preserve data privacy standards, certain types of app listings can't be offered in federal or regional instances of the [[servicenow-store|ServiceNow Store]].
+To preserve data privacy standards, certain types of app listings can't be offered in federal or regional instances of the ServiceNow Store.
 
 The following listing types aren't available in isolated federal or regional instances of the ServiceNow Store:
 
@@ -28,6 +28,4 @@ The following listing types aren't available in isolated federal or regional ins
 
     Early-stage, experimental projects that ServiceNow teams are developing to introduce new functionalities to the ServiceNow AI Platform.
 
-## Related
 
-- [[servicenow-store|ServiceNow Store]]

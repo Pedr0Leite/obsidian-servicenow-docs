@@ -16,13 +16,13 @@ breadcrumb: [Use Vaccine Administration Management, Vaccine Administration Manag
 
 As a user with the sn\_vaccine\_sm.user role, you can register for a vaccination program, provide your personal information, schedule and manage your vaccination appointments, provide health updates, and more, all from within a single, self-service portal.
 
-On the landing page, in the [[hcls-widget-covid-19|COVID-19 status widget]], you can see all the information regarding the vaccination status and COVID-19 test results.
+On the landing page, in the COVID-19 status widget, you can see all the information regarding the vaccination status and COVID-19 test results.
 
 You can scan the QR code to share your vaccination status and test results details, such as the status of the doses being administered, vaccination dates, vaccination status, vaccination method, and test results. You can also view details about your vaccination status and COVID-19 test results by clicking **View Details**.
 
 ## Register as a patient
 
-If you've created an account on the Patient Portal and have also installed the [[hcls-vam|Vaccine Administration Management]] application, you can schedule vaccinations for yourself and for other household members.
+If you've created an account on the Patient Portal and have also installed the Vaccine Administration Management application, you can schedule vaccinations for yourself and for other household members.
 
 ## Provide your personal information
 
@@ -73,7 +73,3 @@ Provide your health updates in the portal. Also, organizations have the option t
 </td></tr></tbody>
 </table>**Parent Topic:**[Using Vaccine Administration Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/using-vaccine-administration-management.md)
 
-## Related
-
-- [[hcls-widget-covid-19|COVID-19 status widget]]
-- [[hcls-vam|Vaccine Administration Management]]

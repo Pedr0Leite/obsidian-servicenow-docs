@@ -30,7 +30,7 @@ For new customers, the AI search is enabled by default.
 
 -   Users with either the system admin or content admin role can see unpublished content.
 -   For users with content approver roles, search results might include content for which they are not the audience. However, they cannot view the content unless they are part of the configured audience.
--   For users with content admin or content manager roles, search results shouldn't include content \(such as news, [[ec-company-events|company events]] or rich content\) in AI search results if they don't meet the scheduled availability window, or for which they are not the configured audience.
+-   For users with content admin or content manager roles, search results shouldn't include content \(such as news, company events or rich content\) in AI search results if they don't meet the scheduled availability window, or for which they are not the configured audience.
 
 ## Procedure
 
@@ -52,6 +52,4 @@ For new customers, the AI search is enabled by default.
 
 9.  Click **Update**.
 
-## Related
 
-- [[ec-company-events|Company events]]

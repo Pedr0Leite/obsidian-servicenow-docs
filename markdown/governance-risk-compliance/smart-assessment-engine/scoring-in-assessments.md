@@ -14,7 +14,7 @@ breadcrumb: [Use template designer, Manage, Smart Assessment Engine, Governance,
 
 # Scoring assessments
 
-Scoring in [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] is a systematic way to evaluate responses to various questions within an assessment. By attributing scores to answers, you can translate qualitative responses into quantitative data, offering a measurable and comparable outcome for each assessment.
+Scoring in Smart Assessment Engine is a systematic way to evaluate responses to various questions within an assessment. By attributing scores to answers, you can translate qualitative responses into quantitative data, offering a measurable and comparable outcome for each assessment.
 
 ## Exploring scoring
 
@@ -85,6 +85,3 @@ Scoring in Smart Assessment Engine transforms subjective responses into objectiv
 -   Simplifies the process of interpreting results. Instead of sifting through qualitative data, you can quickly glance at numerical scores to analyze performance.
 -   Confirms that all responses are evaluated consistently, reducing the likelihood of bias.
 
-## Related
-
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]

@@ -47,10 +47,7 @@ The Team calendar includes a list of the members in an assignment group and thei
 **Related topics**  
 
 
-[[workforce-system-properties|Workforce system properties]]
+[Workforce system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-system-properties.md)
 
 [Managing agents and tasks from Workforce](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/using-manager-workforce.md)
 
-## Related
-
-- [[workforce-system-properties|Workforce system properties]]

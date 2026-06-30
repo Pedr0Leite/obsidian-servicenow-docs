@@ -34,7 +34,7 @@ Roles required: sn\_si.basic role or higher
     |-----|-----------|
     |Number|\[Read only\] The automatically generated security request number.|
     |Company|The requester company.|
-    |Location|The CI [[location|location]], if applicable. This field is pre-filled when the CI is selected.|
+    |Location|The CI location, if applicable. This field is pre-filled when the CI is selected.|
     |Configuration Item|The configuration item affected by the request.|
     |Priority|The priority of the request.|
     |Opened|\[Read only\] The date and time that the request was opened.|
@@ -49,6 +49,4 @@ Roles required: sn\_si.basic role or higher
 
 5.  If you must escalate the request to a security incident, click **Convert to Security Incident**.
 
-## Related
 
-- [[location|Location]]

@@ -24,7 +24,7 @@ Role required: sn\_hr\_workday\_adv.admin
 
 1.  Navigate to **All** &gt; **Workday Advanced Use Cases** &gt; **Total Rewards** &gt; **Plans Available**.
 
-2.  Click **Get [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] IDs** to pull the plans from Workday into ServiceNow tables.
+2.  Click **Get Reference IDs** to pull the plans from Workday into ServiceNow tables.
 
     **Note:** The plans from Workday are pulled into Workday Reference ID List Staging \[sn\_hr\_workday\_adv\_reference\_id\_list\_staging\] table and from staging table into Workday Reference ID List \[sn\_hr\_workday\_adv\_reference\_id\_list\] table.
 
@@ -37,6 +37,4 @@ Role required: sn\_hr\_workday\_adv.admin
     |Workday ID|Unique identifier that is generated from Workday.|
     |Reference ID Type|Reference ID of the plan that is pulled from Workday. For example, Compensation Plan ID, Health Care Coverage Plan ID, and Insurance Coverage Plan ID.|
 
-## Related
 
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

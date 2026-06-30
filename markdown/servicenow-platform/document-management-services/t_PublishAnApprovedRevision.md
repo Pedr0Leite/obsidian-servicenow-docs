@@ -14,7 +14,7 @@ breadcrumb: [Create a document, Managed Documents, Document Services, Manage con
 
 # Publish an approved revision
 
-[[publish-a-document|Publish a document]] revision that has been approved.
+Publish a document revision that has been approved.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Once a document has been created and edited, a specific revision can be submitte
 
 Publish the approved revision from the Document Revisions list.
 
-**Note:** Publishing documents to the Knowledge Base requires the [[c_KnowledgeDocument|Knowledge Document Plugin]].
+**Note:** Publishing documents to the Knowledge Base requires the Knowledge Document Plugin.
 
 ## Procedure
 
@@ -51,7 +51,3 @@ Publish the approved revision from the Document Revisions list.
 
 **Parent Topic:**[Create a document](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/c_CreateADocument.md)
 
-## Related
-
-- [[publish-a-document|Publish a document]]
-- [[c_KnowledgeDocument|Knowledge Document plugin]]

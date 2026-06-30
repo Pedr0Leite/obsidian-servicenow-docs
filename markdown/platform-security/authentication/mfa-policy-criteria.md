@@ -14,7 +14,7 @@ breadcrumb: [MFA criteria, Configuring MFA, Multi-factor authentication, Authent
 
 # Configure adaptive authentication policy-based multi-factor criteria
 
-Use adaptive [[ca-policies|policies]] to determine which [[users|users]] must use two-step multi-factor \(MFA\) verification.
+Use adaptive policies to determine which users must use two-step multi-factor \(MFA\) verification.
 
 ## Before you begin
 
@@ -22,13 +22,13 @@ Role required: adaptive\_auth\_admin
 
 **Note:**
 
--   If the default policy is **Step-Up MFA Policy**, users will be shown with [[mfa-landing|Multi-factor Authentication]] if policy configured in **Step-Up MFA Policy** evaluates to true. Policy takes precedence over the user or role based [[sc-configuration|configuration]].
+-   If the default policy is **Step-Up MFA Policy**, users will be shown with Multi-factor Authentication if policy configured in **Step-Up MFA Policy** evaluates to true. Policy takes precedence over the user or role based configuration.
 -   MFA with SSO login will only be available if `glide.authenticate.mfa.with.multisso.enabled` Property is set to true.
--   You can navigate to the [[c_Authentication|Authentication]] Policy record to Add or Edit the 'Policy Input\(s\)' to the referenced Policy field \(**Step-Up MFA Policy** or **Step-Down MFA Policy**\).
+-   You can navigate to the Authentication Policy record to Add or Edit the 'Policy Input\(s\)' to the referenced Policy field \(**Step-Up MFA Policy** or **Step-Down MFA Policy**\).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[adaptive-authentication|Adaptive Authentication]]** &gt; **Auth Policy Contexts** &gt; **MFA Context**.
+1.  Navigate to **All** &gt; **Adaptive Authentication** &gt; **Auth Policy Contexts** &gt; **MFA Context**.
 
     The **MFA Context** policy context record opens.
 
@@ -47,11 +47,4 @@ Role required: adaptive\_auth\_admin
 
     After saving the record, the **Policy Input** and **Policy Conditions** lists update to display the policy inputs and conditions associated with the policy selected in the **Step-Up MFA Policy** field.
 
-## Related
 
-- [[ca-policies|Policies]]
-- [[users|Users]]
-- [[mfa-landing|Multi-factor authentication]]
-- [[sc-configuration|Configuration]]
-- [[c_Authentication|Authentication]]
-- [[adaptive-authentication|Adaptive authentication]]

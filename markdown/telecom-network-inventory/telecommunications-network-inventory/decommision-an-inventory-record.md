@@ -14,7 +14,7 @@ breadcrumb: [Manually creating and reviewing your network asset instances, Defin
 
 # Decommission an inventory record
 
-Decommission an inventory record that you want to remove from [[telecom-network-inventory|Telecommunications Network Inventory]].
+Decommission an inventory record that you want to remove from Telecommunications Network Inventory.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ When you decommission a CI record, all the related tables of the CI are removed 
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then go to **Inventory**.
 
@@ -50,7 +50,3 @@ When you decommission a CI record, all the related tables of the CI are removed 
 
 **Parent Topic:**[Manually creating and reviewing your network asset instances](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/creating-telecommunications-network-inventory.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]

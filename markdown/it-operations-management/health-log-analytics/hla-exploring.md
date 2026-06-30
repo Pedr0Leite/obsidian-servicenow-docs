@@ -14,11 +14,11 @@ breadcrumb: [Health Log Analytics, ITOM AIOps, IT Operations Management]
 
 # Exploring Health Log Analytics
 
-ServiceNow [[hla-landing-page|Health Log Analytics]] \(HLA\) predicts IT issues before they affect your users by collecting, analyzing, and correlating machine-generated log data in real time. It discovers anomalies and alerts you to potential issues.
+ServiceNow Health Log Analytics \(HLA\) predicts IT issues before they affect your users by collecting, analyzing, and correlating machine-generated log data in real time. It discovers anomalies and alerts you to potential issues.
 
 ## Health Log Analytics overview
 
-Health Log Analytics typically receives and processes log data and sends events to ServiceNow [[c_EM|Event Management]]. The application discovers anomalies as they happen and helps you identify the root cause of an issue by enabling you to triage related logs and analyze the raw data.
+Health Log Analytics typically receives and processes log data and sends events to ServiceNow Event Management. The application discovers anomalies as they happen and helps you identify the root cause of an issue by enabling you to triage related logs and analyze the raw data.
 
 Health Log Analytics can handle any kind of machine-generated textual log data. It can process application, infrastructure, and network logs, as well as other types of textual log data. Although a Configuration Management Database \(CMDB\) can be helpful to generate high-quality events and alerts, it is not necessary.
 
@@ -138,7 +138,3 @@ The diagram shows the Health Log Analytics workflow from collecting the data thr
 -   [Types of anomalous behavior in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-op-anomalous-behavior-types.md)
 -   [Types of Health Log Analytics alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-op-log-analytics-alert-types.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]
-- [[c_EM|Event Management]]

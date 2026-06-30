@@ -12,7 +12,7 @@ breadcrumb: [Customer Life Cycle Management Workflows, Product data, Set up your
 
 # Resuming sold products
 
-Resume [[sold-product|sold products]] to create a resume order on the [[csm-workspaces-configure|CSM Configurable Workspace]].
+Resume sold products to create a resume order on the CSM Configurable Workspace.
 
 Resume single or multiple root sold products and create combined orders for suspension and resumption of products and servies at the same time, to improve agent efficiency.
 
@@ -93,7 +93,3 @@ Role required: sn\_ind\_tmt\_orm.order\_admin or sn\_ind\_tmt\_orm.order\_agent
 
 An order for resuming the sold products is created, while order line items are created in an asynchronized manner.
 
-## Related
-
-- [[sold-product|Sold products]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

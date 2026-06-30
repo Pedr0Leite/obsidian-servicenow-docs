@@ -22,7 +22,7 @@ Role required: admin or evam\_admin
 
 ## About this task
 
-The view template is referenced from the [[entity-view-action-mapper|Entity View Action Mapper]] \(EVAM\) view configuration record. For more information, see [Define an EVAM configuration bundle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/entity-view-action-mapper-evam/define-view-configuration-bundle.md).
+The view template is referenced from the Entity View Action Mapper \(EVAM\) view configuration record. For more information, see [Define an EVAM configuration bundle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/entity-view-action-mapper-evam/define-view-configuration-bundle.md).
 
 ## Procedure
 
@@ -90,6 +90,4 @@ A JSON template that defines the view for a mapped data source.For example, the 
 </td></tr></tbody>
 </table>3.  Select **Submit**.
 
-## Related
 
-- [[entity-view-action-mapper|Entity view action mapper]]

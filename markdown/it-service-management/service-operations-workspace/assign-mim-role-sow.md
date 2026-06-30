@@ -20,13 +20,13 @@ Assign the Major incident manager \(major\_incident\_manager\) role to existing 
 
 As a Major incident manager \(major\_incident\_manager\), you can do the following actions:
 
--   [[promote-major-incident-sow|Promote a major incident]] candidate to a major incident.
--   [[create-major-incident-candidate|Create a major incident candidate]].
+-   Promote a major incident candidate to a major incident.
+-   Create a major incident candidate.
 -   Manage the major incident process and resolve major incidents.
 
 ## Before you begin
 
-You must activate the Major [[c_IncidentManagement|Incident Management]] plugin in Service Operations Workspace. For more information, see [Activate Major Incident Management in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/install-mim-sow.md).
+You must activate the Major Incident Management plugin in Service Operations Workspace. For more information, see [Activate Major Incident Management in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/install-mim-sow.md).
 
 Role required: admin
 
@@ -52,8 +52,4 @@ Role required: admin
 
     The user is also added to the list of users on the **MI Managers** tab.
 
-## Related
 
-- [[promote-major-incident-sow|Promote a major incident]]
-- [[create-major-incident-candidate|Create a major incident candidate]]
-- [[c_IncidentManagement|Incident Management]]

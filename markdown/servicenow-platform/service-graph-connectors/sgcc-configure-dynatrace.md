@@ -14,11 +14,11 @@ breadcrumb: [Observability-Dynatrace, Service Graph Connectors, Integrating thir
 
 # Configure Service Graph Connector for Observability - Dynatrace using SGC Central
 
-Set up scheduled import jobs to pull in Dynatrace data into your [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]].
+Set up scheduled import jobs to pull in Dynatrace data into your Configuration Management Database \(CMDB\).
 
 ## Before you begin
 
-**Important:** The [[cmdb-integration-dynatrace|Service Graph Connector for Observability - Dynatrace]] supports Dynatrace Classic \(v1/v2 APIs\) and is intended for Dynatrace managed \(self‑hosted\) or legacy SaaS environments. If you're using or upgrading to the latest Dynatrace 3rd-generation SaaS platform, you should use the new [[sgc-integration-observability-dynatrace-saas|Service Graph Connector for Observability - Dynatrace SaaS]].
+**Important:** The Service Graph Connector for Observability - Dynatrace supports Dynatrace Classic \(v1/v2 APIs\) and is intended for Dynatrace managed \(self‑hosted\) or legacy SaaS environments. If you're using or upgrading to the latest Dynatrace 3rd-generation SaaS platform, you should use the new Service Graph Connector for Observability - Dynatrace SaaS.
 
 Install Service Graph Connector for Observability - Dynatrace version 1.11.0 or later from the ServiceNow Store. For ServiceNow Store installation steps, see [Install a ServiceNow Store application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/installing-applications-in-application-manager.md).
 
@@ -29,11 +29,11 @@ Role required: The following table shows the roles required for each stage of th
 |Prerequisites|admin|
 |Setup|SGC-Admin \(sn\_cmdb\_int\_util.sgc\_admin\) or admin|
 
-**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for [[cmdb-sgc-available|Service Graph Connectors]], see [Service Graph Connector user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md).
+**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md).
 
 ## About this task
 
-The playbook experience for onboarding connectors is activated with [[sgcc-landing|SGC Central]] in the [[sg-workspace|Service Graph Workspace]] or CMDB Workspace. To configure the SGC Central application, see [[sgcc-configuring|Configuring SGC Central]] and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/playbook-ui.md).
+The playbook experience for onboarding connectors is activated with SGC Central in the Service Graph Workspace or CMDB Workspace. To configure the SGC Central application, see [Configuring SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-configuring.md) and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/playbook-ui.md).
 
 ## Procedure
 
@@ -243,7 +243,7 @@ Tags
 List of the tag names to fetch from your Dynatrace environment. For multiple entries, separate the tags with commas.
 
 </td></tr></tbody>
-</table>    3.  To manage data source failures during import, select the **Save REST response as [[attachment|attachment]]** [[check-box|check box]] to save each response as an attachment temporarily.
+</table>    3.  To manage data source failures during import, select the **Save REST response as attachment** check box to save each response as an attachment temporarily.
 
     4.  Select **Continue**.
 
@@ -291,14 +291,3 @@ Select **View all connections** to review the connection details. The created co
 
 [Service Graph Connector for Observability - Dynatrace properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-dynatrace-props.md)
 
-## Related
-
-- [[sgcc-configuring|Configuring SGC Central]]
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[cmdb-integration-dynatrace|Service Graph Connector for Observability - Dynatrace]]
-- [[sgc-integration-observability-dynatrace-saas|Service Graph Connector for Observability - Dynatrace SaaS]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[sgcc-landing|SGC Central]]
-- [[sg-workspace|Service Graph Workspace]]
-- [[attachment|Attachment]]
-- [[check-box|Check box]]

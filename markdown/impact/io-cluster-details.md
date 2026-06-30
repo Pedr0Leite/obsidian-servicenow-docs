@@ -16,9 +16,9 @@ The metrics provide the cluster details and Encryption status snapshot within th
 
 ## Cluster details
 
-The cluster details page gives you the details of the cluster configuration for the selected instance. It provides the number of nodes, their types, names, status, and where they are hosted \(primary and standby DC\), and whether the instance is AHA \(Advanced High [[io-availability|Availability]]\) enabled. If the instance is a sub-prod, you will not see a secondary DC as sub-prods are not failed over.
+The cluster details page gives you the details of the cluster configuration for the selected instance. It provides the number of nodes, their types, names, status, and where they are hosted \(primary and standby DC\), and whether the instance is AHA \(Advanced High Availability\) enabled. If the instance is a sub-prod, you will not see a secondary DC as sub-prods are not failed over.
 
-Diagnostic events information can be viewed by node, which can [[io-help|help]] troubleshoot problems.
+Diagnostic events information can be viewed by node, which can help troubleshoot problems.
 
 ## Encryption status
 
@@ -26,7 +26,7 @@ Diagnostic events information can be viewed by node, which can [[io-help|help]] 
 
 **Note:** Encryption status is not available in the Regulated Market.
 
-**Parent Topic:**[[instance-observer-ovr-metric|Overview of Instance Observer metrics]]
+**Parent Topic:**[Overview of Instance Observer metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/instance-observer-ovr-metric.md)
 
 **Related topics**  
 
@@ -41,7 +41,7 @@ Diagnostic events information can be viewed by node, which can [[io-help|help]] 
 
 [Transaction or response metrics]()
 
-[Database [[instance-observer-performance|performance]] metrics]()
+[Database performance metrics]()
 
 [Semaphores performance metrics]()
 
@@ -71,9 +71,3 @@ Diagnostic events information can be viewed by node, which can [[io-help|help]] 
 
 [Instance Data Replication]()
 
-## Related
-
-- [[instance-observer-ovr-metric|Overview of Instance Observer metrics]]
-- [[io-availability|Availability]]
-- [[io-help|Help]]
-- [[instance-observer-performance|Performance]]

@@ -35,8 +35,5 @@ When you provide an incorrect group name, the agent indicates that the group is 
 
 Select **Add a group** if you want to add a group to configure. You can also export the list of groups into an excel sheet or an available file type by selecting **Export**.
 
-**Parent Topic:**[[ia-config-platform-il|Platform module configuration in Setup Hub]]
+**Parent Topic:**[Platform module configuration in Setup Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-config-platform-il.md)
 
-## Related
-
-- [[ia-config-platform-il|Platform module configuration in Setup Hub]]

@@ -15,7 +15,7 @@ breadcrumb: [Now Assist Readiness Evaluation, Enable AI experiences]
 
 # Exploring Now Assist Readiness Evaluation
 
-The [[now-assist-readiness-evaluation-landing-page|Now Assist Readiness Evaluation]] app automates assessment processes, evaluates data readiness impacting implementation, and provides actionable insights to promote adopting [[platform-now-assist-landing|Now Assist]] quickly. The app enables you to assess whether updates, installations, or customizations of your instance could affect implementation. The assessments provide direct hyperlinks to improve any issues found.
+The Now Assist Readiness Evaluation app automates assessment processes, evaluates data readiness impacting implementation, and provides actionable insights to promote adopting Now Assist quickly. The app enables you to assess whether updates, installations, or customizations of your instance could affect implementation. The assessments provide direct hyperlinks to improve any issues found.
 
 ## Now Assist Readiness Evaluation overview
 
@@ -25,7 +25,7 @@ The following list details what agentic solutions for Now Assist are evaluated a
 
 -   **Agentic AI for Now Assist for IT Service Management \(ITSM\)**
 
-    Evaluates whether customizations on ITSM-related parent tables \(such as Incident and Task\) may interfere with AI agent behavior, task execution, or decision-making. Two use [[cases|cases]] are available to select: **Categorize Incidents** and **Generate Change Request Plans**. The assessment identifies and flags high-risk customizations to help promote seamless agent operations and stable instance performance. Each finding includes interactive hyperlinks to the impacted records, enabling you to review, validate, and address potential issues without navigating away from the dashboard.
+    Evaluates whether customizations on ITSM-related parent tables \(such as Incident and Task\) may interfere with AI agent behavior, task execution, or decision-making. Two use cases are available to select: **Categorize Incidents** and **Generate Change Request Plans**. The assessment identifies and flags high-risk customizations to help promote seamless agent operations and stable instance performance. Each finding includes interactive hyperlinks to the impacted records, enabling you to review, validate, and address potential issues without navigating away from the dashboard.
 
 -   **Agentic AI for Now Assist for Customer Service Management \(CSM\)**
 
@@ -44,7 +44,7 @@ The following list details what generative AI Now Assist products are evaluated 
 
 -   **Now Assist for IT Service Management \(ITSM\)**
 
-    This feature reviews customizations and [[exploring-ai-governance|configurations]] in the Incident and Task tables, such as fields, UI actions, and scripts. The assessment highlights changes made, tracks data completeness, and provides key metrics to improve accuracy and consistency in ITSM processes. The assessment also specifies the estimated remediation effort required and reports the language used in the instance.
+    This feature reviews customizations and configurations in the Incident and Task tables, such as fields, UI actions, and scripts. The assessment highlights changes made, tracks data completeness, and provides key metrics to improve accuracy and consistency in ITSM processes. The assessment also specifies the estimated remediation effort required and reports the language used in the instance.
 
 -   **Now Assist for Customer Service Management \(CSM\)**
 
@@ -81,9 +81,3 @@ To learn more about configuring and using the Now Assist Readiness Evaluation ap
 -   [Configuring Now Assist Readiness Evaluation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-readiness-evaluation/configuring-now-assist-readiness-evaluation.md)
 -   [Using Now Assist Readiness Evaluation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-readiness-evaluation/using-now-assist-readiness-evaluation.md)
 
-## Related
-
-- [[now-assist-readiness-evaluation-landing-page|Now Assist Readiness Evaluation]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[cases|Cases]]
-- [[exploring-ai-governance|Configurations]]

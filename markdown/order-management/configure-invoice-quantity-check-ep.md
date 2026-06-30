@@ -39,7 +39,7 @@ The demo implementation also illustrates a fallback pattern. When sold product i
 
 5.  Create your own implementation of the extension point by selecting the **Create implementation** related link.
 
-6.  On the Script Include form, fill in the [[fields|fields]].
+6.  On the Script Include form, fill in the fields.
 
     For a description of the Script Include form fields, see [Script includes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/c_ScriptIncludes.md).
 
@@ -98,10 +98,10 @@ The demo implementation also illustrates a fallback pattern. When sold product i
 
 9.  Validate your implementation by submitting an invoice dispute from the Business Portal using the Now Assist Virtual Assistant.
 
-    For more information, see [[dispute-invoice-issues-now-assist|Dispute invoice issues using Now Assist Virtual Assistant]].
+    For more information, see [Dispute invoice issues using Now Assist Virtual Assistant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/dispute-invoice-issues-now-assist.md).
 
 
-**Parent Topic:**[[now-assist-for-order-management-configuring|Configuring Now Assist for Order Management]]
+**Parent Topic:**[Configuring Now Assist for Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/now-assist-for-order-management-configuring.md)
 
 **Related topics**  
 
@@ -110,8 +110,3 @@ The demo implementation also illustrates a fallback pattern. When sold product i
 
 [Creating and adding a scripted extension point](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/impl-scripted-ext-pts-base-code.md)
 
-## Related
-
-- [[dispute-invoice-issues-now-assist|Dispute invoice issues using Now Assist Virtual Assistant]]
-- [[now-assist-for-order-management-configuring|Configuring Now Assist for Order Management]]
-- [[fields|Fields]]

@@ -18,7 +18,7 @@ The Reservation Waitlist data model describes the tables and configuration optio
 
 ## Reservation Waiting Lists
 
-The Reservation Waiting Lists table \(sn\_wsd\_rsv\_waitlist\) is updated with **Neighborhood**, **Reservable Module**, and **Fulfilled by** columns for manual [[event-planner|event planner]] fulfillment. Navigate to **All** &gt; **[[workplace-rsv-mgmt-feat|Workplace Reservation Management]]** &gt; **Reservation Overview** &gt; **My Waiting List**.
+The Reservation Waiting Lists table \(sn\_wsd\_rsv\_waitlist\) is updated with **Neighborhood**, **Reservable Module**, and **Fulfilled by** columns for manual event planner fulfillment. Navigate to **All** &gt; **Workplace Reservation Management** &gt; **Reservation Overview** &gt; **My Waiting List**.
 
 \[Omitted image "waitlist-list-reservable-module-record.png"\] Alt text: Reservation waiting list table showing the Reservable module configuration, status, and priority.
 
@@ -60,7 +60,3 @@ The following configuration options must be enabled in the Reservable Module Con
 
 **Next topic:**[Create a reservation waitlist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-rsv-waitlist.md)
 
-## Related
-
-- [[event-planner|Event Planner]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]

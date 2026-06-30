@@ -14,7 +14,7 @@ breadcrumb: [Creating a universal request, Universal Request for HR Service Deli
 
 # Configure field mappings
 
-[[map-fields-navex|Map fields]] to copy the primary details from an HR case to a [[ur-landing-limitedaccess|universal request]] \(that is auto-created from the HR case\).
+Map fields to copy the primary details from an HR case to a universal request \(that is auto-created from the HR case\).
 
 ## Before you begin
 
@@ -35,7 +35,4 @@ Role required: sn\_uni\_req.universal\_request\_write
     |description|description|
     |opened\_by|opened\_by|
 
-## Related
 
-- [[map-fields-navex|Map fields]]
-- [[ur-landing-limitedaccess|Universal Request]]

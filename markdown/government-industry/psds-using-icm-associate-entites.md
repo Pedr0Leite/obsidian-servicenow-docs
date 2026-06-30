@@ -20,7 +20,7 @@ Role required: icm.investigator, supervisory\_agent
 
 With ICM Entity Management, investigators can create and associate multiple entities to each other and to the case, as well as manage all entities and their relationships to the case, all from one workspace.
 
-Before you can link entities, make sure an entity record has been created for it **within** the case. For more information on how to create an entity record for a related person, property, vehicle, or other entity and associate it with the case, see [[psds-using-icm-add-entities|Add entities to an investigative case using Investigative Case Management Entity Management]].
+Before you can link entities, make sure an entity record has been created for it **within** the case. For more information on how to create an entity record for a related person, property, vehicle, or other entity and associate it with the case, see [Add entities to an investigative case using Investigative Case Management Entity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-using-icm-add-entities.md).
 
 ## Procedure
 
@@ -59,6 +59,3 @@ Before you can link entities, make sure an entity record has been created for it
 
 The entities are now linked to each other, allowing an investigator can build a web of assets related to the case.
 
-## Related
-
-- [[psds-using-icm-add-entities|Add entities to an investigative case using Investigative Case Management Entity Management]]

@@ -28,7 +28,7 @@ Use the filter panel to select which queries display in the results list. To fil
 
 \[Omitted image "filter-on-result-page.png"\] Alt text: Filter panel
 
-See [[filtering-results|Filter results]] for more information.
+See [Filter results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/filtering-results.md) for more information.
 
 ## Viewing results
 
@@ -70,6 +70,3 @@ The RAW data format is useful for debugging and verification.
 
 **Note:** You cannot export RAW XML results if your Console license is invalid \(absent or expired\).
 
-## Related
-
-- [[filtering-results|Filter results]]

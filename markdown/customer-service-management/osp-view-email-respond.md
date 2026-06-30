@@ -20,7 +20,7 @@ Role required: sn\_csm\_ocs.ext\_agent
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[outsourced-service-provider|Outsourced Customer Service]]** &gt; **Cases** &gt; **My Cases**.
+1.  Navigate to **All** &gt; **Outsourced Customer Service** &gt; **Cases** &gt; **My Cases**.
 
 2.  Open a case that you want to respond to.
 
@@ -38,6 +38,4 @@ Role required: sn\_csm\_ocs.ext\_agent
 
 7.  Select **Send**.
 
-## Related
 
-- [[outsourced-service-provider|Outsourced Customer Service]]

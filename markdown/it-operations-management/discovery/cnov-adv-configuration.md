@@ -15,12 +15,9 @@ breadcrumb: [Kubernetes Visibility Agent Reference, Kubernetes discovery using K
 
 # Kubernetes Visibility Agent advanced configuration
 
-This section refers to advanced configuration options for the [[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]] component running in a Kubernetes cluster.
+This section refers to advanced configuration options for the Kubernetes Visibility Agent component running in a Kubernetes cluster.
 
 For the latest information, see the [Kubernetes Visibility Agent \(formerly CNO for Visibility\) Advanced Configuration Options \[KB1648891\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1648891) article in the Now Support Knowledge Base.
 
 **Parent Topic:**[Kubernetes Visibility Agent Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cnov-reference.md)
 
-## Related
-
-- [[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]]

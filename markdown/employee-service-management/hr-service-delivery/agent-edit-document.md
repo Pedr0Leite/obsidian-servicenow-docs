@@ -24,7 +24,7 @@ Role required: sn\_hr\_core.case\_writer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **All HR Cases** &gt; **Assigned to me**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **All HR Cases** &gt; **Assigned to me**.
 
 2.  Open an HR case that is assigned to you.
 
@@ -43,6 +43,3 @@ Role required: sn\_hr\_core.case\_writer
 
 **Parent Topic:**[HR document generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/DocumentGeneration.md)
 
-## Related
-
-- [[case-management-workspace|Case management]]

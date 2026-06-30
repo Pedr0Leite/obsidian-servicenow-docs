@@ -24,7 +24,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
 1.  Navigate to **All** &gt; **Service Portal** &gt; **Service Portal Home** &gt; **Catalog** on the navigation menu bar.
 
-    You can also access the Emergency Maintenance request form using the [[employee-center-landing-page|Employee Center]] portal. Navigate to **All** &gt; **Self-Service** &gt; **Employee Center** &gt; **[[workplace-services|Workplace Services]]** &gt; **Maintenance** &gt; **Submit an emergency maintenance request**.
+    You can also access the Emergency Maintenance request form using the Employee Center portal. Navigate to **All** &gt; **Self-Service** &gt; **Employee Center** &gt; **Workplace Services** &gt; **Maintenance** &gt; **Submit an emergency maintenance request**.
 
 2.  Select **Submit an emergency maintenance request** record form.
 
@@ -57,7 +57,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
 [Request furniture for a space]()
 
-[Raise a [[space-assistance|space assistance]] request]()
+[Raise a space assistance request]()
 
 [Submit a maintenance request]()
 
@@ -77,8 +77,3 @@ Role required: sn\_wsd\_core.workplace\_user
 
 [Submit a change event request for a reservation]()
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-services|Workplace Services]]
-- [[space-assistance|Space assistance]]

@@ -29,7 +29,7 @@ For more information on support levels, see [Application support for domain sepa
 
 ## Activation information
 
-The Domain Support - Domain Extensions Installer plugin \(com.glide.domain.msp\_extensions.installer\) should be activated to enable domain separation for [[c_RequestManagement|Request Management]]. For information on how you can request for this plugin activation, see [Request domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_ActivateDomainSeparation.md).
+The Domain Support - Domain Extensions Installer plugin \(com.glide.domain.msp\_extensions.installer\) should be activated to enable domain separation for Request Management. For information on how you can request for this plugin activation, see [Request domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_ActivateDomainSeparation.md).
 
 ## How domain separation works in Request Management
 
@@ -46,7 +46,7 @@ Fulfillers see only requests, requested items, and catalog tasks that have been 
 -   A user belonging to “Initech” domain, submits a request. Only those fulfillers belonging to “Initech” domain or global domain can see this request.
 -   A fulfiller belonging to a parent domain can see requests, requested items, and catalog tasks of all its child domains as well.
 -   A fulfiller belonging to a specific domain can create requests only on behalf of the domains that they have access to.
--   If a user has access to multiple domains, the domain specified on the current record drives the functionality of that record and [[reference-for-itsm-mobile-agent|reference]] fields.
+-   If a user has access to multiple domains, the domain specified on the current record drives the functionality of that record and reference fields.
 
 **Parent Topic:**[Request Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/request-management/request-management-reference.md)
 
@@ -55,7 +55,3 @@ Fulfillers see only requests, requested items, and catalog tasks that have been 
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[c_RequestManagement|Request Management]]
-- [[reference-for-itsm-mobile-agent|Reference]]

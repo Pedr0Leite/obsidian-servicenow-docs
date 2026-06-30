@@ -18,14 +18,14 @@ Integrate your ServiceNow instance and Coupa by creating a custom OAuth applicat
 
 ## Application set up
 
--   Activate the [[source-to-pay-coupa-integration|Source-to-Pay integration with Coupa]] application from the ServiceNow Store to activate the Coupa Spoke automatically.
+-   Activate the Source-to-Pay integration with Coupa application from the ServiceNow Store to activate the Coupa Spoke automatically.
 -   Set up [Coupa Spoke](https://www.servicenow.com/docs/access?context=setup-coupa-spoke-v4&version=yokohama).
--   Activate the [[source-to-pay-integration-framework|Source-to-Pay integration framework]] from ServiceNow Store. Source-to-Pay integration with Coupa uses the Source-to-Pay integration framework to pull tasks from Coupa into your ServiceNow instance.For more information on Source-to-Pay integration framework, see [Source-to-Pay integration framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/source-to-pay-integration-framework.md).
+-   Activate the Source-to-Pay integration framework from ServiceNow Store. Source-to-Pay integration with Coupa uses the Source-to-Pay integration framework to pull tasks from Coupa into your ServiceNow instance.For more information on Source-to-Pay integration framework, see [Source-to-Pay integration framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/source-to-pay-integration-framework.md).
 
 
 ## Primary Data Integration Dependencies with Coupa
 
-Install the following dependencies of [[master-data-integration|Primary Data integration]] with Coupa. When you install the plugin, all the dependencies get installed automatically. All primary data are synchronized based on the configurable scheduled job Fetch Spend Primary Data.
+Install the following dependencies of Primary Data integration with Coupa. When you install the plugin, all the dependencies get installed automatically. All primary data are synchronized based on the configurable scheduled job Fetch Spend Primary Data.
 
 Run the Trigger Coupa Integration that pulls tasks into your ServiceNow instance. For more information, see [Use schedule flows in Oracle EBS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/using-schedule-flows-oracle-ebs.md).
 
@@ -36,7 +36,7 @@ Run the Trigger Coupa Integration that pulls tasks into your ServiceNow instance
 
 ## Supplier lifecycle Operations Integration Dependencies with Coupa
 
-Install the following dependencies of [[supp-mgmt-landing-page|Supplier Lifecycle Operations]] integration with Coupa. When you install the plugin, all the dependencies get installed automatically.
+Install the following dependencies of Supplier Lifecycle Operations integration with Coupa. When you install the plugin, all the dependencies get installed automatically.
 
 |App name|Plugin ID|
 |--------|---------|
@@ -48,7 +48,7 @@ Install the following dependencies of [[supp-mgmt-landing-page|Supplier Lifecycl
 
 ## Sourcing and Procurement Operations Integration Dependencies with Coupa
 
-Install the following dependencies of [[psm-overview|Sourcing and Procurement Operations]] integration with Coupa. When you install the plugin, all the dependencies get installed automatically.
+Install the following dependencies of Sourcing and Procurement Operations integration with Coupa. When you install the plugin, all the dependencies get installed automatically.
 
 |App name|Plugin ID|
 |--------|---------|
@@ -60,7 +60,7 @@ Install the following dependencies of [[psm-overview|Sourcing and Procurement Op
 
 ## Accounts Payable Operations Integration Dependencies with Coupa
 
-Install the following dependencies of [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] integration with Coupa. When you install the plugin, all the dependencies get installed automatically.
+Install the following dependencies of Accounts Payable Operations integration with Coupa. When you install the plugin, all the dependencies get installed automatically.
 
 |App name|Plugin ID|
 |--------|---------|
@@ -74,28 +74,15 @@ Install the following dependencies of [[acc-pay-mgmt-landing-page|Accounts Payab
 Activate and run the Trigger Coupa Integration that pulls tasks into your ServiceNow instance. For more information, see [Activate the schedule flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/activate-schedule-flows-coupa.md).
 
 -   **[ERP Source Configuration for Coupa](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/erp-source-configuration-coupa.md)**  
-Configure your Source-to-Pay \(S2P\) instance to support inbound and outbound integration with your ERP system. This integration configuration enables you to post [[purchase-order-table|purchase order]], receipt, invoice, and download primary data from the ERP automatically.
+Configure your Source-to-Pay \(S2P\) instance to support inbound and outbound integration with your ERP system. This integration configuration enables you to post purchase order, receipt, invoice, and download primary data from the ERP automatically.
 -   **[Define an ERP source configuration for Coupa](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/define-erp-source-coupa.md)**  
-Define an [[erp-source-configuration|ERP source configuration]] that specifies the Coupa [[erp-source|ERP source]] to which the ERP system connects. Map the integration payload with the Coupa tables.
+Define an ERP source configuration that specifies the Coupa ERP source to which the ERP system connects. Map the integration payload with the Coupa tables.
 -   **[Configure integration services for Coupa](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/configure-integration-services-coupa.md)**  
-[[configure-integration-services-coupa|Configure integration services for Coupa]]. Provide the connection end point and the Coupa ERP credentials that you set up for your authentication profile. Also, create a separate web service record for each service request that you want to customize.
+Configure integration services for Coupa. Provide the connection end point and the Coupa ERP credentials that you set up for your authentication profile. Also, create a separate web service record for each service request that you want to customize.
 -   **[Activate the schedule flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/activate-schedule-flows-coupa.md)**  
-Activate the schedule flow that interacts with Coupa to pull information into your ServiceNow instance. You can pull information on primary data, [[supplier|supplier]] management, sourcing, invoice, and so on.
+Activate the schedule flow that interacts with Coupa to pull information into your ServiceNow instance. You can pull information on primary data, supplier management, sourcing, invoice, and so on.
 -   **[Looking up primary data in Coupa](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/look-up-primary-data-coupa.md)**  
 You can run a job to look up primary data from different ERP sources into ServiceNow
 
 **Parent Topic:**[Source-to-Pay integration with Coupa](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/source-to-pay-coupa-integration.md)
 
-## Related
-
-- [[source-to-pay-coupa-integration|Source-to-Pay integration with Coupa]]
-- [[source-to-pay-integration-framework|Source-to-Pay integration framework]]
-- [[master-data-integration|Primary data integration]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[psm-overview|Sourcing and Procurement Operations]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[purchase-order-table|Purchase order]]
-- [[erp-source-configuration|ERP source configuration]]
-- [[erp-source|ERP source]]
-- [[configure-integration-services-coupa|Configure integration services for Coupa]]
-- [[supplier|Supplier]]

@@ -12,7 +12,7 @@ breadcrumb: [Configuring decision trees in Decision Tree Builder, Configuring gu
 
 # Reuse answers at decision points
 
-Link inputs to reuse answers from prior nodes in Decision Tree Builder. For example, in a decision tree that deals with a loan application, you could reuse the input related to the customer’s salary at multiple decision [[gamification-components-points|points]] to determine the loan eligibility.
+Link inputs to reuse answers from prior nodes in Decision Tree Builder. For example, in a decision tree that deals with a loan application, you could reuse the input related to the customer’s salary at multiple decision points to determine the loan eligibility.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin, sn\_gd\_core.decision\_tree\_author
 
 Linked inputs can be used to create path conditions.
 
-For more information about input mapping and exceptions related to input mapping, see [[guided-decision-tree-input-mapping|Linking inputs in decision tree nodes]].
+For more information about input mapping and exceptions related to input mapping, see [Linking inputs in decision tree nodes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/guided-decision-tree-input-mapping.md).
 
 ## Procedure
 
@@ -76,7 +76,4 @@ Linking node
 </td></tr></tbody>
 </table>5.  Select **Save and close**.
 
-## Related
 
-- [[guided-decision-tree-input-mapping|Linking inputs in decision tree nodes]]
-- [[gamification-components-points|Points]]

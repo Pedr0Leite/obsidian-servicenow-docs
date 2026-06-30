@@ -15,7 +15,7 @@ breadcrumb: [Service Mapping MCP tools, AI capabilities in Service Mapping, Usin
 
 # Service Mapping MCP tools reference
 
-Reference information for the five [[service-mapping-mcp-server|Service Mapping MCP tools]] provided by the Now Assist CMDB MCP Server, including their inputs, outputs, and example natural-language queries for use with Claude.
+Reference information for the five Service Mapping MCP tools provided by the Now Assist CMDB MCP Server, including their inputs, outputs, and example natural-language queries for use with Claude.
 
 The Now Assist CMDB MCP Server exposes five tools that an MCP-compatible AI client can invoke to retrieve application service data from a ServiceNow instance. All tools are read-only and do not create, update, or delete records.
 
@@ -37,7 +37,7 @@ Returns a list of all application service names in the instance.
     The response is paginated or bounded to prevent oversized payloads.
 
 -   **Example queries**
-    -   "Use the ServiceNow [[c_ServiceMappingOverview|Service Mapping]] tool, get\_all\_application\_service\_names, to list all application services."
+    -   "Use the ServiceNow Service Mapping tool, get\_all\_application\_service\_names, to list all application services."
     -   "List all tag-based application services in ServiceNow."
 
 ## get\_all\_application\_services\_for\_a\_server
@@ -130,7 +130,3 @@ Returns CIs that have CMDB relationships, TCP traffic signals or both, but are n
 
 **Parent Topic:**[Service Mapping MCP tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/service-mapping-mcp-server.md)
 
-## Related
-
-- [[service-mapping-mcp-server|Service Mapping MCP tools]]
-- [[c_ServiceMappingOverview|Service Mapping]]

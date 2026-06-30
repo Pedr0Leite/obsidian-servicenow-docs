@@ -16,8 +16,5 @@ In the event a security patch is needed, the mobile development team aligns with
 
 For more information, see [Secure your instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platsec-landing.md).
 
-**Parent Topic:**[[sg-mobile-security-practices|Mobile security practices]]
+**Parent Topic:**[Mobile security practices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-security-practices.md)
 
-## Related
-
-- [[sg-mobile-security-practices|Mobile security practices]]

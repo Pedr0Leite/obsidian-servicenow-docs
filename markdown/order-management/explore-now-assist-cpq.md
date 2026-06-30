@@ -12,7 +12,7 @@ breadcrumb: [Now Assist for CPQ, Sales Customer Relationship Management]
 
 # Exploring Now Assist for Configure, Price, Quote \(CPQ\)
 
-With the [[now-assist-for-cpq-landing|Now Assist for Configure, Price, Quote \(CPQ\)]] application, you can use generative AI to summarize quotes and provide immediate, comprehensive visibility into key quote information such as products, pricing, and terms. This functionality reduces errors, accelerates quote creation, and helps teams deliver accurate quotes faster.
+With the Now Assist for Configure, Price, Quote \(CPQ\) application, you can use generative AI to summarize quotes and provide immediate, comprehensive visibility into key quote information such as products, pricing, and terms. This functionality reduces errors, accelerates quote creation, and helps teams deliver accurate quotes faster.
 
 ## Now Assist for CPQ overview
 
@@ -31,11 +31,6 @@ The Now Assist for CPQ application includes the generative AI skill that enables
 
 Get started by performing the following tasks:
 
--   [[configure-now-assist-cpq|Configuring Now Assist for Configure, Price, Quote \(CPQ\)]]
--   [[summarize-quote|Summarize a quote using quote summarization]]
+-   [Configuring Now Assist for Configure, Price, Quote \(CPQ\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-now-assist-cpq.md)
+-   [Summarize a quote using quote summarization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/summarize-quote.md)
 
-## Related
-
-- [[configure-now-assist-cpq|Configuring Now Assist for Configure, Price, Quote \(CPQ\)]]
-- [[summarize-quote|Summarize a quote using quote summarization]]
-- [[now-assist-for-cpq-landing|Now Assist for Configure, Price, Quote \(CPQ\)]]

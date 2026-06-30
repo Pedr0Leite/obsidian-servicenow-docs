@@ -32,16 +32,16 @@ Customer Service\[com.sn\_customerservice\]
 
 </td><td>
 
-Enables the extension of tables from the Customer Service Management application into the [[fso-overview|Financial Services]] Operations applications.
+Enables the extension of tables from the Customer Service Management application into the Financial Services Operations applications.
 
 </td></tr></tbody>
 </table>## Store applications installed
 
 |Store application|Description|
 |-----------------|-----------|
-|Financial Services Operations Core|Stores the customer data that is needed to make policy service requests. For more information, see [[financial-services-operations-core-data-model|Financial Services Operations Core]].|
-|Insurance Special Investigations|Insurance Special Investigations enables insurance carriers to route fraud investigation requests to SIU agents. Requests get routed via adjusters working on claim cases through workflows in the [[personal-lines-claims-landing-page|Personal Lines Claims]] application.|
-|Document Processor|Enables management of document services tasks that are used in insurance policy service cases. For more information, see [[integrating-with-document-processor|Integrating with Document Processor]].|
+|Financial Services Operations Core|Stores the customer data that is needed to make policy service requests. For more information, see [Financial Services Operations Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-operations-core-data-model.md).|
+|Insurance Special Investigations|Insurance Special Investigations enables insurance carriers to route fraud investigation requests to SIU agents. Requests get routed via adjusters working on claim cases through workflows in the Personal Lines Claims application.|
+|Document Processor|Enables management of document services tasks that are used in insurance policy service cases. For more information, see [Integrating with Document Processor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/integrating-with-document-processor.md).|
 |Playbooks for Customer Service Management|Provides a way to visualize business process workflows in a simple, task-oriented view, ensuring consistent responses to commonly encountered situations. For more information, see [Playbooks for Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-case-playbooks.md).|
 
 ## Roles installed
@@ -70,7 +70,7 @@ Personal Lines Claims admin\[sn\_ins\_claim\_pers.admin\]
 
 -   Grant Personal Lines Claims roles
 -   Delete Personal Lines Claims cases and tasks
--   [[configure-personal-lines-claims|Configure Personal Lines Claims]] application
+-   Configure Personal Lines Claims application
 -   Create and modify Personal Lines Claims service definitions
 -   Has read, write, and create access to Personal Lines Claims policy or case data
 
@@ -90,7 +90,7 @@ Personal Lines Claims manager\[sn\_ins\_claim\_pers.manager\]
 
 </td><td>
 
--   Views the [[personal-lines-claims|Personal Lines Claims dashboard]]
+-   Views the Personal Lines Claims dashboard
 -   Uses Process Mining for Personal Lines Claims processes
 
 </td><td>
@@ -105,7 +105,7 @@ Personal Lines Claims adjuster\[sn\_ins\_claim\_pers.auto\_adjuster\]
 
 </td><td>
 
--   Evaluates the personal auto claim details based on assigned [[adjuster-tasks-workspace-pers|adjuster tasks]], and settles claims
+-   Evaluates the personal auto claim details based on assigned adjuster tasks, and settles claims
 -   Views the status of personal auto claim cases
 -   Creates and edits ad-hoc tasks
 
@@ -291,7 +291,7 @@ Property Incident\[sn\_ins\_claim\_pers\_auto\_incident\]
 
 </td><td>
 
-Stores information about property incident details for personal claims cases. This table extends the Claim Incident \[sn\_ins\_claim\_property\] table from [[insurance-claims-core-data-model|Insurance Claims Core]].
+Stores information about property incident details for personal claims cases. This table extends the Claim Incident \[sn\_ins\_claim\_property\] table from Insurance Claims Core.
 
 </td></tr><tr><td colspan="2" align="center">
 
@@ -307,14 +307,3 @@ Stores information about tasks related to the Special Investigation Unit departm
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[financial-services-operations-core-data-model|Financial Services Operations Core]]
-- [[integrating-with-document-processor|Integrating with Document Processor]]
-- [[fso-overview|Financial Services]]
-- [[personal-lines-claims-landing-page|Personal Lines Claims]]
-- [[configure-personal-lines-claims|Configure Personal Lines Claims]]
-- [[personal-lines-claims|Personal Lines Claims dashboard]]
-- [[adjuster-tasks-workspace-pers|Adjuster tasks]]
-- [[insurance-claims-core-data-model|Insurance Claims Core]]

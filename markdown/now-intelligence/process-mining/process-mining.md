@@ -28,7 +28,7 @@ Create automated business process flows from your data that enable you to monito
 -   Link connected processes for a more comprehensive view of what impacts your main business. For more information see, [Activate content packs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/activate-po-content-pack.md).
 -   View activity transitions to see the top contributing activity transitions across specific metrics. For more information see, [Applying a process step filter on an activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/node-to-node-conditions.md)
 -   Perform advanced calculations with the scalability of machine learning and AI.
--   Perform Machine Learning \(ML\) based [[cluster-analysis|Cluster Analysis]] to find similar groupings, or patterns, of instances or records. For more information see, [Cluster analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/cluster-analysis.md).
+-   Perform Machine Learning \(ML\) based Cluster Analysis to find similar groupings, or patterns, of instances or records. For more information see, [Cluster analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/cluster-analysis.md).
 
 ## Get started
 
@@ -58,7 +58,3 @@ Create automated business process flows from your data that enable you to monito
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cluster-analysis|Cluster analysis]]

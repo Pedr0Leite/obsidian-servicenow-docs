@@ -14,7 +14,7 @@ breadcrumb: [Support for continuous delivery \(configuration management\), Cloud
 
 # Create an Ansible configuration management provider and run Discovery
 
-Create an Ansible configuration management provider, and then run [[r-discovery|Discovery]] on the provider to find its resources.
+Create an Ansible configuration management provider, and then run Discovery on the provider to find its resources.
 
 ## Before you begin
 
@@ -24,11 +24,11 @@ Create an Ansible configuration management provider, and then run [[r-discovery|
 
 ## About this task
 
-**Important:** Starting with the Orlando release, the [[blueprints|cloud provisioning blueprints]] are available on instances upgraded from a previous release, but you cannot create a blueprint. Existing blueprints and catalog items created from those blueprints remain unaffected and continue to work.
+**Important:** Starting with the Orlando release, the cloud provisioning blueprints are available on instances upgraded from a previous release, but you cannot create a blueprint. Existing blueprints and catalog items created from those blueprints remain unaffected and continue to work.
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Manage** &gt; **Config Management**.
+1.  In the Cloud Admin Portal, navigate to **Manage** &gt; **Config Management**.
 
 2.  Select **New**.
 
@@ -123,7 +123,7 @@ Version of the configuration provider you are creating. **Note:** For Ansible To
 
 7.  Select **Ansible Inventory** to explore the contents.
 
-    **Note:** Communicate the supported applications to users so they can select the correct application from the **Hostgroup** field in the [[cloudmgt-cloud-user-portal|Cloud User Portal]]. The **Hostgroup** field shows all possible applications \(called Groups in Ansible\), not just the ones that the configuration management provider supports. Therefore, the provisioning fails when the user selects an unsupported application.
+    **Note:** Communicate the supported applications to users so they can select the correct application from the **Hostgroup** field in the Cloud User Portal. The **Hostgroup** field shows all possible applications \(called Groups in Ansible\), not just the ones that the configuration management provider supports. Therefore, the provisioning fails when the user selects an unsupported application.
 
     \[Omitted image "ansible-tower-groups.png"\] Alt text: Ansible Tower groups within an inventory
 
@@ -132,9 +132,3 @@ Version of the configuration provider you are creating. **Note:** For Ansible To
 
 After a user provisions a resource, the Stack Status indicates how the system runs through the Create node, Bootstrap, and ExecuteConfigPackage steps. You can obtain the IP address of a virtual machine in the User Portal by navigating to **Stacks** &gt; **\{category\}** and selecting the new virtual machine. Open the configuration management provider server to see the newly provisioned resource on the node that the user specified.
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[blueprints|Cloud Provisioning Blueprints]]
-- [[cloud-admin-portal|Cloud Admin Portal]]
-- [[cloudmgt-cloud-user-portal|Cloud User Portal]]

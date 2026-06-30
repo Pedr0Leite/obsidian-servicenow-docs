@@ -12,11 +12,11 @@ breadcrumb: [Forms, Administer, Configurable Workspace UI, Configure UIs and por
 
 # Configure a background color for highlighted values
 
-[[configure-onboarding-modals|Configure]] a background color for fields with highlighted values.
+Configure a background color for fields with highlighted values.
 
 ## Before you begin
 
-Configure a highlighted value for a form header. For instructions, see [[config-ws-highlight-value|Configure a highlighted value]].
+Configure a highlighted value for a form header. For instructions, see [Configure a highlighted value](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/config-ws-highlight-value.md).
 
 Role required: admin
 
@@ -62,7 +62,3 @@ Fields with highlighted values display a background color.
 
 \[Omitted image "form-highlighted-values-background-color.png"\] Alt text: Highlighted value with a background color
 
-## Related
-
-- [[config-ws-highlight-value|Configure a highlighted value for a form header]]
-- [[configure-onboarding-modals|Configure]]

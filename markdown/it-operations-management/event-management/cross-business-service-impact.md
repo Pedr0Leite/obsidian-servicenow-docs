@@ -45,7 +45,7 @@ Click a service or CI to see the alerts that are associated with it. For example
 
 1.  Open an application service map:
 
-    1.  Navigate to **[[c_EM|Event Management]]** &gt; **Services** &gt; **Application Services**.
+    1.  Navigate to **Event Management** &gt; **Services** &gt; **Application Services**.
     2.  Select **View Service** next to the service.
     3.  On the right-hand panel, select **Impact tree**.
     4.  On the lower panel, select **Impact**.
@@ -65,6 +65,3 @@ In the service map, you can visually verify that the service health of the sub-s
 
 [View an alert impact on CIs in a service map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMViewTopology.md)
 
-## Related
-
-- [[c_EM|Event Management]]

@@ -38,7 +38,7 @@ To enable redirection for a notification, replace the standard URL variables wit
 
     -   To display a link as the link text, replace `${URI}`, with `${mail_script:RecordNotificationRedirectionScript}`.
     -   To display the record name as the link text, replace `${URI_REF}` with `${mail_script:RecordREFNotificationRedirectionScript}`.
-    -   For [[list-view-uib-ws|list view]] links, create a custom mail script that uses the `GRCNotificationRedirectionUtils` script include to generate the redirection URL.
+    -   For list view links, create a custom mail script that uses the `GRCNotificationRedirectionUtils` script include to generate the redirection URL.
 5.  Select **Update**.
 
 
@@ -53,6 +53,3 @@ When users select links in the modified notification, the system automatically d
 
 [Modify email notifications to use notification redirection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/modify-email-notifications-to-use-notification-redirection.md)
 
-## Related
-
-- [[list-view-uib-ws|List view]]

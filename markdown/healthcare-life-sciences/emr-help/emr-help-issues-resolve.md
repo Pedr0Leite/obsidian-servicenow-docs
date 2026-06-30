@@ -18,7 +18,7 @@ Work on task records that are automatically created when clinicians submit Servi
 
 Ensure that an administrator has added the EMR Incident Data related list to the Incident form. For more information, see [Configuring the form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md).
 
-Incidents are the task type configured by default with the [[emr-exploring|EMR Help]] application.
+Incidents are the task type configured by default with the EMR Help application.
 
 You can use the EMR Help module or the Incident module to access incidents submitted from an EMR system.
 
@@ -184,6 +184,4 @@ Notes on how an incident was resolved.
 
     4.  Close the incident by clicking **Close Incident**.
 
-## Related
 
-- [[emr-exploring|EMR Help]]

@@ -20,27 +20,18 @@ Risk assessment is of two types: Quantitative and qualitative. Qualitative risk 
 
 The Operational Sustainability Risk Management application provides both types of risk assessments and is employed for assessing both entities and material topics. Object-based assessments focus on material topics, while risk-based assessments are applied to entities. The resulting risk assessment scores are then aggregated for risk-based assessments. Object-based assessment allows for evaluating risks on ServiceNow records or objects even in the absence of a comprehensive GRC setup for entities, risk statements, controls, and so on. An example of object assessment involves assessing change management or assessing a citation. For a more in-depth exploration of Advanced risk assessments, refer to the [Advanced Risk Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/advanced-risk-assessment.md) documentation.
 
-To learn about the roles are installed with the sn\_esg\_risk\_mgmt plugin, refer to [[components-installed-with-esg|Components installed with Operational Sustainability Management \(formerly ESG Management\)]].
+To learn about the roles are installed with the sn\_esg\_risk\_mgmt plugin, refer to [Components installed with Operational Sustainability Management \(formerly ESG Management\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/components-installed-with-esg.md).
 
--   **[[workflow-of-esg-risk-management|Workflow of Operational Sustainability Risk Management]]**  
+-   **[Workflow of Operational Sustainability Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/workflow-of-esg-risk-management.md)**  
 To perform risk assessments for your material topics and your entities, the ESG administrator, the ESG risk manager, and the ESG data owner must perform a set of defined steps.
--   **[[create-a-risk-assessment-methodology|Configure a risk assessment methodology]]**  
+-   **[Configure a risk assessment methodology](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/create-a-risk-assessment-methodology.md)**  
 Configure the risk assessment methodologies \(RAMs\) that are provided by default. A RAM is a configuration or a record in the risk assessment engine.
--   **[[create-a-risk-asmt-scope-and-initiate-asmt|Create a risk assessment scope and initiate an assessment]]**  
+-   **[Create a risk assessment scope and initiate an assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/create-a-risk-asmt-scope-and-initiate-asmt.md)**  
 Create a risk assessment scope to define and identify risks for an entity. Identify assessors and approvers for assessments and define the frequency of assessments. After creating the scope, initiate the risk assessments.
--   **[[initiate-a-risk-assessment-on-a-mt|Initiate risk assessments on material topics]]**  
+-   **[Initiate risk assessments on material topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/initiate-a-risk-assessment-on-a-mt.md)**  
 Assess the risks to your material topics by initiating a risk assessment and sending it to the owner of the material topic.
--   **[[respond-to-a-risk-asmt|Respond to a risk assessment]]**  
+-   **[Respond to a risk assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/respond-to-a-risk-asmt.md)**  
 Conduct risk assessments to assess risks in the Operational Sustainability Management application.
 
-**Parent Topic:**[[integrate-esg|Integrating Operational Sustainability Management \(formerly ESG\) with other applications]]
+**Parent Topic:**[Integrating Operational Sustainability Management \(formerly ESG\) with other applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/integrate-esg.md)
 
-## Related
-
-- [[components-installed-with-esg|components installed with esg]]
-- [[workflow-of-esg-risk-management|Workflow of Operational Sustainability Risk Management]]
-- [[create-a-risk-assessment-methodology|Configure a risk assessment methodology]]
-- [[create-a-risk-asmt-scope-and-initiate-asmt|Create a risk assessment scope and initiate an assessment]]
-- [[initiate-a-risk-assessment-on-a-mt|Initiate risk assessments on material topics]]
-- [[respond-to-a-risk-asmt|Respond to a risk assessment]]
-- [[integrate-esg|Integrating Operational Sustainability Management \(formerly ESG\) with other applications]]

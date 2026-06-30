@@ -14,11 +14,11 @@ breadcrumb: [Managing enterprise models and assets, Enterprise Asset Management,
 
 # Bulk import of your enterprise models and assets
 
-Use a subflow to import enterprise [[c_Models|models]] and assets of multiple types to your ServiceNow instance at one go. You can also perform a bulk update on existing models and assets.
+Use a subflow to import enterprise models and assets of multiple types to your ServiceNow instance at one go. You can also perform a bulk update on existing models and assets.
 
 ## Overview of Bulk import
 
-Use the [[using-eam-workspace|Enterprise Asset workspace]] to do a bulk transfer of all your enterprise models and asset from a different database to the ServiceNow instance.
+Use the Enterprise Asset workspace to do a bulk transfer of all your enterprise models and asset from a different database to the ServiceNow instance.
 
 Create an import record by downloading a template in the form of a spreadsheet \(.xlsx\). Ensure that you enter valid values in all the mandatory fields before uploading the template. Attach the template to the import record and select **Import** to begin the import process.
 
@@ -30,7 +30,7 @@ Modes refer to the type of import that you want to process. There are modes for 
 
 -   Create models
 -   Update models
--   [[t_CreatingAssets|Create assets]]
+-   Create assets
 -   Update assets
 -   Create models and assets
 -   Update models and assets
@@ -85,7 +85,7 @@ Model and asset template
 
 After a successful import, the MAC address that you provided in the template is added to the **MAC address** \[mac\_addr\] field in the Asset \[alm\_asset\] table.
 
-When the [[ot-asset-management|OT Asset Management]] application is activated, you can bulk import hardware assets and models in both the Enterprise Asset Workspace and the [[ot-asset-ws-otam|OT Asset Workspace]] only if the OT entity column is marked as TRUE.
+When the OT Asset Management application is activated, you can bulk import hardware assets and models in both the Enterprise Asset Workspace and the OT Asset Workspace only if the OT entity column is marked as TRUE.
 
 Starting with the Zurich release, the bulk import templates include **OT entity** and **Parent asset attribute** columns. When the OT Asset Management application is activated, you can bulk import hardware assets and models in both the Enterprise Asset Workspace and the OT Asset Workspace only if the OT entity column is marked as **TRUE**. With the**Parent asset attribute** field, you can choose to identify the parent of a child asset using either the asset tag, serial number, or MAC address.
 
@@ -117,10 +117,3 @@ The data that you enter in the spreadsheet is copied to one or more of the follo
 -   Model Component Import Staging \[sn\_eam\_mc\_import\_row\]​
 -   Asset Import Staging \[sn\_eam\_asset\_import\_row\]​
 
-## Related
-
-- [[c_Models|Models]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[t_CreatingAssets|Create assets]]
-- [[ot-asset-management|OT Asset Management]]
-- [[ot-asset-ws-otam|OT Asset Workspace]]

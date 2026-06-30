@@ -14,7 +14,7 @@ breadcrumb: [Authentication, Access Management]
 
 # Token based authentication \(User logins\)
 
-Enhance the security mechanism for [[users|users]] to access a network using token based [[c_Authentication|authentication]].
+Enhance the security mechanism for users to access a network using token based authentication.
 
 <table id="table_t4k_14f_ryb" class="nav-card"><tbody><tr><td>
 
@@ -24,7 +24,7 @@ Enhance the security mechanism for [[users|users]] to access a network using tok
 
 </td><td>
 
-[Digest Token Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/c_DigestTokenAuthentication.md)\[Omitted image "bus-sdlc.svg"\] Alt text: [[c_DigestTokenAuthentication|Digest Token Authentication]]
+[Digest Token Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/c_DigestTokenAuthentication.md)\[Omitted image "bus-sdlc.svg"\] Alt text: Digest Token Authentication
 
  [The digest token authentication passes user credentials and a digest token within an unencrypted HTTP header.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/c_DigestTokenAuthentication.md)
 
@@ -38,9 +38,3 @@ Enhance the security mechanism for [[users|users]] to access a network using tok
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[users|Users]]
-- [[c_Authentication|Authentication]]
-- [[c_DigestTokenAuthentication|Digest token authentication]]

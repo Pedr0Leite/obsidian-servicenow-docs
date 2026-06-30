@@ -14,17 +14,13 @@ breadcrumb: [Socure, Integrate, Financial Services Operations \(FSO\)]
 
 Integrate your Socure account with your ServiceNow® instance so that you can perform the required activities for onboarding new customers.
 
-You can set up and configure the Socure integration in your flows for multiple use cases. For example, let's say that you want to obtain information from the [[fso-kyc-landing-page|Financial Services Know Your Customer]] \(KYC\) application when you're onboarding new customer accounts or while you're periodically updating KYC information for an existing customer.
+You can set up and configure the Socure integration in your flows for multiple use cases. For example, let's say that you want to obtain information from the Financial Services Know Your Customer \(KYC\) application when you're onboarding new customer accounts or while you're periodically updating KYC information for an existing customer.
 
 ## Application setup
 
 To set up your integration, do the following actions:
 
 1.  Request an Integration Hub subscription. To learn how, see [Request Integration Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/request-ih-overview.md)
-2.  Activate [[integrating-socure-service|Financial Services Operations integration with Socure]] application from ServiceNow Store which automatically activates the Socure spoke.
+2.  Activate Financial Services Operations integration with Socure application from ServiceNow Store which automatically activates the Socure spoke.
 3.  Set up the Socure spoke. To learn how, see [Set up the Socure spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/setup-socure.md).
 
-## Related
-
-- [[fso-kyc-landing-page|Financial Services Know Your Customer]]
-- [[integrating-socure-service|Financial Services Operations integration with Socure]]

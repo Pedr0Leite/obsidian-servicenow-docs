@@ -14,7 +14,7 @@ breadcrumb: [CMDB Health, Configuration Management Database \(CMDB\), Configurat
 
 # Exploring CMDB Health
 
-Learn more about [[c_CMDBHealth|CMDB Health]] and review the benefits it can provide for users in your organization.
+Learn more about CMDB Health and review the benefits it can provide for users in your organization.
 
 ## CMDB Health overview
 
@@ -62,6 +62,3 @@ CMDB Health calculates an aggregated score for three Key Performance Indicators 
 
 [CMDB Health reference]()
 
-## Related
-
-- [[c_CMDBHealth|CMDB Health]]

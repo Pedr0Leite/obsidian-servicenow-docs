@@ -14,7 +14,7 @@ breadcrumb: [Configure, Portfolio Planning in Strategic Planning Workspace, Stra
 
 # Install Strategic Planning
 
-Install the [[alignment-planner-workspace-landing-page|Strategic Planning]] application from ServiceNow Store if you have the admin role.
+Install the Strategic Planning application from ServiceNow Store if you have the admin role.
 
 ## Before you begin
 
@@ -52,6 +52,3 @@ The following components are installed with installation of the Strategic Planni
 
 See [Components installed with Strategic Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/components-installed-with-alignment-planner-workspace.md) for more information.
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

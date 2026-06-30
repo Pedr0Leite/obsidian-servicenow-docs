@@ -58,12 +58,8 @@ When you use ITSM, you must understand the impact that a technology can have on 
 
 -   **Request catalog**
 
-    A catalog \(sometimes called a request catalog, [[service-catalog|service catalog]], or service request catalog\) is a set of business and technical products, services, service commitment options, and offerings that users can order on a [[self-service-landing|self-service]] basis. You can manage a catalog to present your available products and services to users as catalog items. Catalogs are described in detail in [Service Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/service-catalog.md).
+    A catalog \(sometimes called a request catalog, service catalog, or service request catalog\) is a set of business and technical products, services, service commitment options, and offerings that users can order on a self-service basis. You can manage a catalog to present your available products and services to users as catalog items. Catalogs are described in detail in [Service Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/service-catalog.md).
 
 
 **Parent Topic:**[Implementing the CSDM framework in stages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-implementation-stages.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[self-service-landing|Self-service]]

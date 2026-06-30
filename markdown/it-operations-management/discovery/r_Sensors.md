@@ -14,7 +14,7 @@ breadcrumb: [Discovery probes and sensors, Using Discovery, Discovery, ITOM Visi
 
 # Discovery sensors
 
-Every probe in [[r-discovery|Discovery]] must have a corresponding sensor to process the data returned.
+Every probe in Discovery must have a corresponding sensor to process the data returned.
 
 For example, if incoming data is the result of a WMI probe, then the WMI sensor is triggered to process the payload.
 
@@ -90,7 +90,7 @@ Script
 
 </td><td>
 
-Enter a script to run when processing the probe. You can use the g\_probe\_parameters hashmap in a sensor script to [[t_SetProbeParameters|set probe parameters]] for any configured, triggered probes. For example, this code sets a '**node\_port**' parameter to 16001 for all triggered probes.```
+Enter a script to run when processing the probe. You can use the g\_probe\_parameters hashmap in a sensor script to set probe parameters for any configured, triggered probes. For example, this code sets a '**node\_port**' parameter to 16001 for all triggered probes.```
 g_probe_parameters['node_port']=16001;
 ```
 
@@ -196,7 +196,7 @@ Role required: admin
 If the Discovery sensor transaction takes more than 20 minutes to complete, the following actions occur:
 
 -   The associated ECC Queue input record is set to the error state.
--   The *[[c_DiscoveryStatus|Discovery Status]] Completed Count* is updated.
+-   The *Discovery Status Completed Count* is updated.
 -   An error message is logged, for example:
 
     ```
@@ -224,8 +224,4 @@ If the Discovery sensor transaction takes more than 20 minutes to complete, the 
 
     The value is in seconds.
 
-## Related
 
-- [[r-discovery|Discovery]]
-- [[t_SetProbeParameters|Set probe parameters]]
-- [[c_DiscoveryStatus|Discovery status]]

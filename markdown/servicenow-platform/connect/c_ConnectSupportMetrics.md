@@ -30,7 +30,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[c_ConnectSupport|Connect Support]] Manager's Dashboard\[com.glide.[[c_Connect|connect]].managers\_dashboard\]
+Connect Support Manager's Dashboard\[com.glide.connect.managers\_dashboard\]
 
 </td><td>
 
@@ -116,7 +116,7 @@ The Performance Analytics - Context Sensitive Analytics for Chat plugin \(com.sn
 
     The last dashboard you viewed opens.
 
-2.  In the dashboard picker, under the **[[c_Collaboration|Connect Chat]]** group, select the dashboard you want to view.
+2.  In the dashboard picker, under the **Connect Chat** group, select the dashboard you want to view.
 
 3.  View the indicators.
 
@@ -126,8 +126,3 @@ The Performance Analytics - Context Sensitive Analytics for Chat plugin \(com.sn
 
 [Performance Analytics concepts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/c_PerformanceAnalytics.md)
 
-## Related
-
-- [[c_ConnectSupport|Connect Support]]
-- [[c_Connect|Connect]]
-- [[c_Collaboration|Connect Chat]]

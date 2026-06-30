@@ -22,7 +22,7 @@ Install and configure the Microsoft Azure Sentinel integration from the ServiceN
 
 Microsoft has extended the deprecation of the Azure Sentinel experience in the Azure portal from March 2026 to March 2027.
 
-If you are currently using the Azure Sentinel integration with [[sir-landing-page|Security Incident Response]] \(SIR\), we strongly recommend migrating to the new Defender portal integration as soon as possible. The Defender integration includes a built-in migration utility that automatically converts your existing Sentinel profiles into Defender profiles, while ensuring continuity of incidents created through Sentinel after the transition. For more information, see [Microsoft Sentinel to Defender Migration Guide](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2795226).
+If you are currently using the Azure Sentinel integration with Security Incident Response \(SIR\), we strongly recommend migrating to the new Defender portal integration as soon as possible. The Defender integration includes a built-in migration utility that automatically converts your existing Sentinel profiles into Defender profiles, while ensuring continuity of incidents created through Sentinel after the transition. For more information, see [Microsoft Sentinel to Defender Migration Guide](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2795226).
 
 Role required: sn\_si.ingestion\_profile\_admin
 
@@ -30,9 +30,9 @@ Role required: sn\_si.ingestion\_profile\_admin
 
 ## Procedure
 
-1.  Download the [[microsoft-azure-sentinel-integration|Microsoft Azure Sentinel integration]] from the ServiceNow Store and install it.
+1.  Download the Microsoft Azure Sentinel integration from the ServiceNow Store and install it.
 
-2.  Navigate to **[[security-operations-landing-page|Security Operations]]** &gt; **Integrations** &gt; **Integration Configurations**.
+2.  Navigate to **Security Operations** &gt; **Integrations** &gt; **Integration Configurations**.
 
 3.  Search for the Microsoft Azure Sentinel tile and click **Configure**.
 
@@ -57,8 +57,3 @@ Role required: sn\_si.ingestion\_profile\_admin
 
 After you successfully validate and submit the configuration, each incident ingestion server configuration is saved on the Security Integrations page as a tile.
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[microsoft-azure-sentinel-integration|Microsoft Azure Sentinel integration]]
-- [[security-operations-landing-page|Security Operations]]

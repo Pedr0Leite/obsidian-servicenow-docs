@@ -20,7 +20,7 @@ The Password Reset Windows Application enables a user, who forgets the password 
 
 Administrators download and run an EXE or MSI file to install or distribute the application to user computers. The application installs a link on the Windows login screen. The user clicks the link \(**Forgot Password** as depicted in the examples on various Windows versions\) and is then guided through the process of resetting the password.
 
-If your user is using Windows, 8.1, 10, or 11 operating system on the computer, a pop-up window opens after the user clicks the **Forgot Password** link. On the pop-up window, the user enters the user name. For the multi-identification type, the user enters a user name and [[email|email]] address and enters the displayed CAPTCHA if enabled for the process. If the CAPTCHA is incorrect, the user gets an error message.
+If your user is using Windows, 8.1, 10, or 11 operating system on the computer, a pop-up window opens after the user clicks the **Forgot Password** link. On the pop-up window, the user enters the user name. For the multi-identification type, the user enters a user name and email address and enters the displayed CAPTCHA if enabled for the process. If the CAPTCHA is incorrect, the user gets an error message.
 
 \[Omitted image "identify-login-first-screen.png"\] Alt text: Windows login screen
 
@@ -52,6 +52,3 @@ After the successful verification, the users go to the Reset step. Based on the 
 
 -   After the reset password process is complete, based on the configured type, the user either gets the auto-generated password on the pop-up window or an email containing the instructions to reset the password is sent to the user.
 
-## Related
-
-- [[email|Email]]

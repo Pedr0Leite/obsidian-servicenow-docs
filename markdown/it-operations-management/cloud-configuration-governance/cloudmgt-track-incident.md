@@ -44,7 +44,7 @@ Category
 
 </td><td>
 
-[[cloud-management-v2-landing-page|Cloud Provisioning and Governance]].
+Cloud Provisioning and Governance.
 
 </td></tr><tr><td>
 
@@ -105,7 +105,3 @@ The user who must respond to the incident.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]

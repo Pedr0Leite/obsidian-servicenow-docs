@@ -22,13 +22,13 @@ Role required: sn\_hs\_cm.case\_reporter
 
 ## About this task
 
-Employees can also submit safety-related compensation claims from their mobile device using the ServiceNow® [[mobile-employee-experience|Now Mobile app]].
+Employees can also submit safety-related compensation claims from their mobile device using the ServiceNow® Now Mobile app.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
 
-2.  In the Employee Center, select the **[[health-safety-overview|Health and Safety]]** menu and then **Submit a compensation claim**.
+2.  In the Employee Center, select the **Health and Safety** menu and then **Submit a compensation claim**.
 
 3.  On the form, fill in the fields.
 
@@ -49,13 +49,7 @@ Employees can also submit safety-related compensation claims from their mobile d
 
     **Note:** If you selected someone else in the **Requested For** field to submit this claim for, it doesn't appear in your **My Requests** list. Instead, it appears in the **My Requests** list of the person you selected.
 
--   The safety case is also listed in the Cases list on [[health-safety-core-workspace|Health and Safety Workspace]]. A safety case manager \[sn\_hs\_cm.case\_manager\] can view all the submitted requests by navigating to the Health and Safety Workspace and selecting the cases icon \(\[Omitted image "icon-hs-cases.png"\] Alt text: Health and safety cases icon.\). For more information, see [Work on a Health and Safety case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-case-management/hs-work-health-safety-case.md).
+-   The safety case is also listed in the Cases list on Health and Safety Workspace. A safety case manager \[sn\_hs\_cm.case\_manager\] can view all the submitted requests by navigating to the Health and Safety Workspace and selecting the cases icon \(\[Omitted image "icon-hs-cases.png"\] Alt text: Health and safety cases icon.\). For more information, see [Work on a Health and Safety case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-case-management/hs-work-health-safety-case.md).
 
 **Parent Topic:**[Submitting Health and Safety cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-case-management/hs-submitting-health-safety-cases.md)
 
-## Related
-
-- [[mobile-employee-experience|Now Mobile app]]
-- [[employee-center-landing-page|Employee Center]]
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]

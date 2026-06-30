@@ -10,7 +10,7 @@ reading_time_minutes: 2
 
 # Components installed with Hiring Core
 
-Several types of components are installed with activation of the [[hiring-core|Hiring Core]] plugin, including tables, user roles, and scheduled jobs.
+Several types of components are installed with activation of the Hiring Core plugin, including tables, user roles, and scheduled jobs.
 
 ## Roles installed
 
@@ -34,11 +34,11 @@ Hiring Core admin
 
 </td><td>
 
-This role is the super admin in the [[hiring-experiences-landing|Hiring Experiences]] environment.
+This role is the super admin in the Hiring Experiences environment.
 
 </td><td>
 
--   Hiring Core - [[hiring-tab-concept|Hiring]] manager
+-   Hiring Core - Hiring manager
 
 \[sn\_ta\_hiring\_core.hiring\_manager\]
 
@@ -46,7 +46,7 @@ This role is the super admin in the [[hiring-experiences-landing|Hiring Experien
 
 \[sn\_ta\_hiring\_core.recruiter\]
 
--   [[talent-profile-landing|Talent Profile]] admin
+-   Talent Profile admin
 
 sn\_ta\_tp.talent\_profile\_admin
 
@@ -61,11 +61,11 @@ This role is for the hiring manager for a job requisition.
 
 </td><td>
 
--   [[skills-intelligence|Skills Foundation]] user
+-   Skills Foundation user
 
 \[skill\_user\]
 
--   [[manager-hub-overview|Manager Hub]] user
+-   Manager Hub user
 
 \[sn\_mh.manager\_hub\_user\]
 
@@ -361,11 +361,3 @@ Historic data of the interview schedules.
 </td></tr></tbody>
 </table>**Parent Topic:**[Hiring Experiences reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/reference-frmwrk-ta.md)
 
-## Related
-
-- [[hiring-core|Hiring Core]]
-- [[hiring-experiences-landing|Hiring Experiences]]
-- [[hiring-tab-concept|Hiring]]
-- [[talent-profile-landing|Talent Profile]]
-- [[skills-intelligence|Skills Foundation]]
-- [[manager-hub-overview|Manager Hub]]

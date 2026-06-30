@@ -35,9 +35,9 @@ Select an item in the Project Template Configuration list to open the project Te
 \[Omitted image "ProjectTemplateConfigForm.png"\] Alt text: Project Template Configuration form
 
 -   **[Add a project template configuration item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_AddNewProjTempConfigItem.md)**  
-[[t_AddNewProjTempConfigItem|Add a project template configuration item]] to include in a template.
+Add a project template configuration item to include in a template.
 -   **[Modify a project template configuration item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_ModifAProjectTempConfigItem.md)**  
-[[t_ModifAProjectTempConfigItem|Modify a project template configuration item]] included in a template.
+Modify a project template configuration item included in a template.
 
 **Parent Topic:**[Applying templates to projects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_ProjectTemplates.md)
 
@@ -54,7 +54,3 @@ Select an item in the Project Template Configuration list to open the project Te
 
 [Apply template to a blank project in project workspace]()
 
-## Related
-
-- [[t_AddNewProjTempConfigItem|Add a project template configuration item]]
-- [[t_ModifAProjectTempConfigItem|Modify a project template configuration item]]

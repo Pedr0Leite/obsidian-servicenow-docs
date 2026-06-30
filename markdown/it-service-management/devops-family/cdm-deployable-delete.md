@@ -18,7 +18,7 @@ Delete a deployable to delete its config data and all associated snapshots.
 
 ## Before you begin
 
-**Important:** Starting with the Washington D.C. release, [[devops-config-landing-page|DevOps Config]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+**Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 Role required: CDM Admin \[sn\_cdm.cdm\_admin\]
 
@@ -28,7 +28,7 @@ Role required: CDM Admin \[sn\_cdm.cdm\_admin\]
 
 ## Procedure
 
-1.  For an open application, select the **[[settings-mobile|Settings]]** tab.
+1.  For an open application, select the **Settings** tab.
 
 2.  Select **Deployables** to view the list of deployables for the application.
 
@@ -39,7 +39,3 @@ Role required: CDM Admin \[sn\_cdm.cdm\_admin\]
     -   All existing snapshots are deleted.
     -   You can create a new deployable with the same name as a deleted deployable.
 
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]
-- [[settings-mobile|Settings]]

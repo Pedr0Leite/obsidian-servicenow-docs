@@ -18,7 +18,7 @@ Configure the Cisco Webex as an OAuth provider and allow the ServiceNow instance
 
 ## Before you begin
 
-Role required: [[notify-landing-page|notify]]\_setup\_admin
+Role required: notify\_setup\_admin
 
 ## Procedure
 
@@ -44,6 +44,3 @@ Role required: [[notify-landing-page|notify]]\_setup\_admin
 
 **Parent Topic:**[Configure Notify Cisco Webex Connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/setup-cisco-webex-notify.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]

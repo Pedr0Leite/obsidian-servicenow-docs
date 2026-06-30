@@ -12,9 +12,9 @@ breadcrumb: [Transaction Manager, CPQ app, Configure, price, quote apps, Configu
 
 # Transaction Manager: Personas
 
-Personas let you customize [[please_share_your_feedback_on_admin_assist_responses|user access]] according to users' business roles.
+Personas let you customize user access according to users' business roles.
 
-[[transaction-manager|Transaction Manager]] uses personas to define distinct user types and roles that you find in your sales organization. Personas might include a sales rep persona or a sales manager persona.
+Transaction Manager uses personas to define distinct user types and roles that you find in your sales organization. Personas might include a sales rep persona or a sales manager persona.
 
 Each persona has customized access to data, including what users with a persona can view and edit, and how the layout appears in each stage of a transaction’s life cycle. This lets an admin define how different users experience a transaction based on their roles in the sales organization.
 
@@ -32,7 +32,7 @@ To create a persona, follow these steps:
 
     \[Omitted image "cpq-txn-mgr-stages-persona-2.jpeg"\] Alt text: New persona
 
-    To assign user accounts to a persona, they must have been created by means of the User Access function in [[cpq-utilities|Utilities]]. User accounts that are not listed in the User Access list cannot be assigned to a persona. For more information on [[granting_user_access_in_logik_io|granting user access in CPQ]], see [User access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown).
+    To assign user accounts to a persona, they must have been created by means of the User Access function in Utilities. User accounts that are not listed in the User Access list cannot be assigned to a persona. For more information on granting user access in CPQ, see [User access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown).
 
 3.  A persona requires a name and a variable name. Enter the name of the new persona in the **Name** field.
 
@@ -59,9 +59,3 @@ The assigned user accounts appear in the **Username** list for the new persona. 
 
 \[Omitted image "cpq-txn-mgr-stages-persona-6.jpeg"\] Alt text: Persona
 
-## Related
-
-- [[please_share_your_feedback_on_admin_assist_responses|User access]]
-- [[transaction-manager|Transaction Manager]]
-- [[cpq-utilities|Utilities]]
-- [[granting_user_access_in_logik_io|Granting user access in CPQ]]

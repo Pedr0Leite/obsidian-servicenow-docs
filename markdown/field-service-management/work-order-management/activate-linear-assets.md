@@ -14,15 +14,15 @@ breadcrumb: [Set up work orders and tasks, Configure, Field Service Management]
 
 # Activate linear assets support in Field Service Management
 
-You can enable the [[fsm-application-landing-page|Field Service Management]] application to support linear assets by activating the Enterprise Asset Management plugin \(com.sn\_eam\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they aren’t already installed.
+You can enable the Field Service Management application to support linear assets by activating the Enterprise Asset Management plugin \(com.sn\_eam\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they aren’t already installed.
 
 ## Before you begin
 
-[[linear-asset-management|Linear asset support]] for Field Service Management requires activation of the following plugins before you install Enterprise Asset Management.
+Linear asset support for Field Service Management requires activation of the following plugins before you install Enterprise Asset Management.
 
 -   **Field Service Management \(com.snc.work\_management\)**
 
-    Enables you to manage work requests that are performed on location by field service agents. For more information, see [[t_ActivateFieldServiceManagement|Activate Field Service Management]].
+    Enables you to manage work requests that are performed on location by field service agents. For more information, see [Activate Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/t_ActivateFieldServiceManagement.md).
 
 -   **Field Service with Service Locations \(com.snc.fsm\_service\_locations\)**
 
@@ -30,9 +30,9 @@ You can enable the [[fsm-application-landing-page|Field Service Management]] app
 
 -   **CSM and FSM Configurable Workspace Foundation \(com.snc.uib.cwf\_workspace\)**
 
-    Enables you to create and [[c_ManageWorkOrders|manage work orders]] and work order tasks for linear assets.
+    Enables you to create and manage work orders and work order tasks for linear assets.
 
--   **[[dispatcher-activities|Dispatcher Workspace]] \(com.snc.uib.fsm\_dispatcher\_workspace\)**
+-   **Dispatcher Workspace \(com.snc.uib.fsm\_dispatcher\_workspace\)**
 
     Enables you to access and manage work orders and work order tasks for linear assets.
 
@@ -54,7 +54,7 @@ The following items are installed with Enterprise Asset Management:
 -   Properties
 -   Business rules
 
-For more information, see [[linear-asset-support-properties|Linear Assets Support properties]].
+For more information, see [Linear Assets Support properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/linear-asset-support-properties.md).
 
 ## Procedure
 
@@ -76,11 +76,3 @@ For more information, see [[linear-asset-support-properties|Linear Assets Suppor
 
 [Assign work orders for linear assets in Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/managing-linear-assets-fsm.md)
 
-## Related
-
-- [[t_ActivateFieldServiceManagement|Activate Field Service Management]]
-- [[linear-asset-support-properties|Linear Assets Support properties]]
-- [[fsm-application-landing-page|Field Service Management]]
-- [[linear-asset-management|Linear asset support]]
-- [[c_ManageWorkOrders|Manage work orders]]
-- [[dispatcher-activities|Dispatcher Workspace]]

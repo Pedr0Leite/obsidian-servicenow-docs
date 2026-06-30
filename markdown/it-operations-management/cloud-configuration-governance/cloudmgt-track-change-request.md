@@ -26,7 +26,7 @@ Each change request is either approved by default or, if an approval policy is i
 
 ## Procedure
 
-1.  Go to the **Activities** page or navigate to **[[cloudmgt-cloud-user-portal|Cloud User Portal]]** &gt; **View Activities**, then select **Track** &gt; **Change Requests**.
+1.  Go to the **Activities** page or navigate to **Cloud User Portal** &gt; **View Activities**, then select **Track** &gt; **Change Requests**.
 
 <table id="table_mzm_yz3_mz"><tbody><tr><td>
 
@@ -50,7 +50,7 @@ Category
 
 </td><td>
 
-[[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
+Cloud Provisioning and Governance
 
 </td></tr><tr><td>
 
@@ -71,7 +71,4 @@ Status.
 </td></tr></tbody>
 </table>2.  In the **Change Requests** list, click an entry to view full details.
 
-## Related
 
-- [[cloudmgt-cloud-user-portal|Cloud User Portal]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]

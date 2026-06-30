@@ -14,7 +14,7 @@ breadcrumb: [Configure, Advanced Work Assignment, Manage people and work, Conver
 
 # Deactivate Agent Affinity
 
-Deactivate Agent Affinity if you do not want Agent Affinity to assign [[awa-assignment|work assignments]] to agents.
+Deactivate Agent Affinity if you do not want Agent Affinity to assign work assignments to agents.
 
 ## Before you begin
 
@@ -34,6 +34,4 @@ Role required: awa\_admin or admin
 
     Agent Affinity is now deactivated.
 
-## Related
 
-- [[awa-assignment|Work assignments]]

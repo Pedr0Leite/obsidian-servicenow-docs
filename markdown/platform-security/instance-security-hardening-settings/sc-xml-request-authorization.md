@@ -14,9 +14,9 @@ breadcrumb: [API and web service, Hardening settings, Platform Security]
 
 # Require authorization for XML requests
 
-Use the **glide.basicauth.required.xml** property to designate if incoming XML requests should require [[basic-authentication|basic authentication]].
+Use the **glide.basicauth.required.xml** property to designate if incoming XML requests should require basic authentication.
 
-If the **glide.basicauth.required.xml** system property is not set to the recommended value of **true**, then Basic Authentication is disabled for the XML format [[export|export]] processor. This also happens when combined with a wrong role within the **guest\_user** related property \(For example a high privileged user such as Admin\). This leads to unauthenticated access to instance data.
+If the **glide.basicauth.required.xml** system property is not set to the recommended value of **true**, then Basic Authentication is disabled for the XML format export processor. This also happens when combined with a wrong role within the **guest\_user** related property \(For example a high privileged user such as Admin\). This leads to unauthenticated access to instance data.
 
 **Warning:** This is a safe harbor property, meaning the value can't be altered once it's changed. It is non-revertible.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -115,9 +115,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[API and web service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-api-web-service.md)
 
-## Related
-
-- [[basic-authentication|Basic authentication]]
-- [[export|Export]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

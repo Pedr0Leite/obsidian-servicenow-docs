@@ -14,9 +14,9 @@ breadcrumb: [Form field information for Strategic Planning, Reference, Portfolio
 
 # Target form
 
-Use the [[target-form|Target form]] to track and measure the progress of the goals.
+Use the Target form to track and measure the progress of the goals.
 
-**Note:** For Operational Sustainability Workspace and [[alignment-planner-workspace-landing-page|Strategic Planning]] users, to view the other fields that aren't added to the default view or your custom form view on the form in the workspace, configure the default or custom form layout. For information on how to configure the form layout, see [Configuring the form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md).
+**Note:** For Operational Sustainability Workspace and Strategic Planning users, to view the other fields that aren't added to the default view or your custom form view on the form in the workspace, configure the default or custom form layout. For information on how to configure the form layout, see [Configuring the form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md).
 
 <table id="table_rlc_24d_gyb"><thead><tr><th>
 
@@ -40,7 +40,7 @@ Goal
 
 </td><td>
 
-Name of the associated goal. This field is auto-populated when creating a target from the Targets related list on the [[goal-form|Goal form]].
+Name of the associated goal. This field is auto-populated when creating a target from the Targets related list on the Goal form.
 
 </td></tr><tr><td>
 
@@ -209,7 +209,7 @@ Check-in frequency
 
 </td><td>
 
-Option to specify breakdown intervals for the target and how frequently the owner or contributor should update the actual value of the target. Breaking down the target into smaller periods helps you set a target for smaller periods and focus on the specific breakdown targets. The available options are **Daily**, **Weekly**, **Monthly**, **Quarterly**, and **Yearly**. [[target-breakdowns-gf|Target breakdowns]] are automatically created when you set this field to any of the available options other than **None**. For more details on target breakdowns, see [Target breakdowns in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/target-breakdowns.md).**Note:** The target breakdowns feature isn’t supported for qualitative targets.
+Option to specify breakdown intervals for the target and how frequently the owner or contributor should update the actual value of the target. Breaking down the target into smaller periods helps you set a target for smaller periods and focus on the specific breakdown targets. The available options are **Daily**, **Weekly**, **Monthly**, **Quarterly**, and **Yearly**. Target breakdowns are automatically created when you set this field to any of the available options other than **None**. For more details on target breakdowns, see [Target breakdowns in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/target-breakdowns.md).**Note:** The target breakdowns feature isn’t supported for qualitative targets.
 
 </td></tr><tr><td>
 
@@ -301,14 +301,7 @@ This section appears based on the context variables available in the target sour
 
 When you select Actual value source as Benefit Plans \([predefined target automation script for benefit plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/target-automation-script-benefit-plans-apw.md)\), the **Benefit Plan** field appears in this section, from which you can select the required benefit plans for automating the actual value of the target.
 
-**Note:** You can use the Benefit Plans custom script only when [[c_ProjectPortfolioSuiteWithFinancials|PPM Standard \(Project Portfolio Management\)]] is installed. If you can't find the benefit plan that you want to select, you can find and select the same from Heisenberg UI by navigate to **Enterprise Goal Management** &gt; **Targets** and opening the Target form.
+**Note:** You can use the Benefit Plans custom script only when PPM Standard \(Project Portfolio Management\) is installed. If you can't find the benefit plan that you want to select, you can find and select the same from Heisenberg UI by navigate to **Enterprise Goal Management** &gt; **Targets** and opening the Target form.
 
 **Parent Topic:**[Form field information for Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/form-field-information-for-strategic-planning.md)
 
-## Related
-
-- [[target-form|Target form]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[goal-form|Goal form]]
-- [[target-breakdowns-gf|Target breakdowns]]
-- [[c_ProjectPortfolioSuiteWithFinancials|PPM Standard \(Project Portfolio Management\)]]

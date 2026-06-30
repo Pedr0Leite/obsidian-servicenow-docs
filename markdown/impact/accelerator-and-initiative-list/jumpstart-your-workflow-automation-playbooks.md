@@ -18,7 +18,7 @@ This accelerator provides a demonstration of the possibilities and capabilities 
 
 ## Accelerator Overview
 
-Jumpstart Your Workflow Automation: Playbooks provides [[impact-landing-page|Impact]] customers with an overview and applied demonstration of Workflow Studio and its Playbooks feature. This session reduces friction and makes the tool accessible to users of all skill levels. Customers learn to manage and create their own playbooks, driving greater efficiency in their business processes. In addition, this accelerator includes key resources and leading practice guides to [[io-help|help]] customers get started.
+Jumpstart Your Workflow Automation: Playbooks provides Impact customers with an overview and applied demonstration of Workflow Studio and its Playbooks feature. This session reduces friction and makes the tool accessible to users of all skill levels. Customers learn to manage and create their own playbooks, driving greater efficiency in their business processes. In addition, this accelerator includes key resources and leading practice guides to help customers get started.
 
 ## Package Availability
 
@@ -65,7 +65,3 @@ This Impact Accelerator in its entirety or portions of the Impact Accelerator ac
 
 ServiceNow is not responsible for implementing recommendations on Customer’s non-production or production instances.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[io-help|Help]]

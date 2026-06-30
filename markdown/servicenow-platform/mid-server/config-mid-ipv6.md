@@ -14,7 +14,7 @@ breadcrumb: [Configuring MID Servers, Configuring MID Server, MID Server, Manage
 
 # Configure a MID Server for IPv6
 
-A [[mid-server-landing|MID Server]] configured for IPv6 can [[c_Connect|connect]] to ServiceNow and use Discovery over IPv6 for specific addresses.
+A MID Server configured for IPv6 can connect to ServiceNow and use Discovery over IPv6 for specific addresses.
 
 ## Before you begin
 
@@ -75,7 +75,4 @@ When using Discovery over IPv6, the following requirements apply:
 
     The dual stack MID Server populates the relevant fields in the **ecc\_agent** record with IPv6 addresses. The tables **ecc\_agent\_router** and **ecc\_agent\_ip\_address** are populated with both IPv4 and IPv6 entries on a dual stack host.
 
-## Related
 
-- [[mid-server-landing|MID Server]]
-- [[c_Connect|Connect]]

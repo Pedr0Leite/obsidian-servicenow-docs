@@ -14,7 +14,7 @@ breadcrumb: [Set up access to Microsoft Azure billing and usage data, Configure 
 
 # Create a Microsoft Azure service principal
 
-Give [[cloud-insights-landing-page|Cloud Cost Management]] access to Microsoft Azure billing and usage data by creating a Microsoft Azure service principal.
+Give Cloud Cost Management access to Microsoft Azure billing and usage data by creating a Microsoft Azure service principal.
 
 ## Before you begin
 
@@ -174,6 +174,3 @@ Microsoft Partner Agreement \(MPA\)
 
 [Add the Billing Profile Reader role to the Microsoft Azure service principal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/add-billing-profile-reader-azure.md)
 
-## Related
-
-- [[cloud-insights-landing-page|Cloud Cost Management]]

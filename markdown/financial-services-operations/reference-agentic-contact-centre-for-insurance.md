@@ -15,13 +15,8 @@ breadcrumb: [Agentic Contact Center for Insurance, Insurance applications, Finan
 
 Learn about the components and properties that are installed with Agentic Contact Center for Insurance.
 
--   **[[components-installed-with-agentic-contact-centre-for-insurance|Components installed with Agentic Contact Center for Insurance]]**  
-Review the roles and other [[components-installed-with-dispute-rules-content-pack-for-mastercard|components installed]] when you activate Agentic Contact Center for Insurance.
+-   **[Components installed with Agentic Contact Center for Insurance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/components-installed-with-agentic-contact-centre-for-insurance.md)**  
+Review the roles and other components installed when you activate Agentic Contact Center for Insurance.
 
-**Parent Topic:**[[landing-agentic-contact-centre-for-insurance|Agentic Contact Center for Insurance]]
+**Parent Topic:**[Agentic Contact Center for Insurance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/landing-agentic-contact-centre-for-insurance.md)
 
-## Related
-
-- [[components-installed-with-agentic-contact-centre-for-insurance|Components installed with Agentic Contact Center for Insurance]]
-- [[landing-agentic-contact-centre-for-insurance|Agentic Contact Center for Insurance]]
-- [[components-installed-with-dispute-rules-content-pack-for-mastercard|Components installed]]

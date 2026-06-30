@@ -14,7 +14,7 @@ breadcrumb: [ACC deployment - shared between servers and endpoints, Configuring 
 
 # Enable viewing HAProxy metrics
 
-Configure the [[haproxy-metrics|HAProxy metrics]] stats page to enable monitoring your system devices by viewing HAProxy metrics.
+Configure the HAProxy metrics stats page to enable monitoring your system devices by viewing HAProxy metrics.
 
 ## Before you begin
 
@@ -63,6 +63,3 @@ HAProxy provides load balancing and reverse proxy capabilities for both HTTP and
 
 [HAProxy default checks and policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/haproxy-checks-policies.md)
 
-## Related
-
-- [[haproxy-metrics|HAProxy metrics]]

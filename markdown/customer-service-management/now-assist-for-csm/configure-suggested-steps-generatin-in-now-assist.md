@@ -84,7 +84,7 @@ Input fields
         **Note:** In the **Select Display** step, you can only choose roles that were added in the **Define Access** step. If you add a role in **Define Access**, you still must manually select it in **Select Display** to make it active.
 
     -   For customizing access control, see [Customize access control for suggested steps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/configure-suggested-steps-generatin-in-now-assist.md)
-7.  Toggle **Display** to determine if suggested step recommendations appear in In-product desktop, displaying Now Assist skills on [[migration-forms|forms]] and workspaces.
+7.  Toggle **Display** to determine if suggested step recommendations appear in In-product desktop, displaying Now Assist skills on forms and workspaces.
 
 8.  After selecting **Review and Activate** to examine changes, select **Done** to close the Suggested Steps Generation settings.
 
@@ -99,19 +99,19 @@ Learn how to enable the suggested steps generation in the CSM Workspace after sk
 
 Role required: admin
 
-After activating the Suggested steps generation feature in the Now Assist Admin console, follow the steps outlined to make the skill available in [[csm-workspaces-configure|CSM Configurable Workspace]].
+After activating the Suggested steps generation feature in the Now Assist Admin console, follow the steps outlined to make the skill available in CSM Configurable Workspace.
 
 ### Procedure
 
 1.  Navigate to **All** &gt; **UI Builder**.
 
-2.  Go to **Experiences** &gt; **CSM/FSM Configurable Workspace** &gt; **Record** &gt; **[[csm-front-line-case-page|Front-line Case Page]]**.
+2.  Go to **Experiences** &gt; **CSM/FSM Configurable Workspace** &gt; **Record** &gt; **Front-line Case Page**.
 
     \[Omitted image "csm-fsm-configurable-workspace.png"\] Alt text: Front-line Case page location under CSM/FSM Configurable Workspace
 
 3.  In the left content navigation pane, scroll down and select **Recommended Action 1**.
 
-4.  In the right pane, clear the checkbox **Hide [[configure-nba|recommended actions]]**.
+4.  In the right pane, clear the checkbox **Hide recommended actions**.
 
     \[Omitted image "recommended-actions1-tab.png"\] Alt text: Image shows the Hide recommended actions checkbox unchecked
 
@@ -153,9 +153,3 @@ Role required: admin
 
 By default, the sn\_customerservice\_agent or sn\_customerservice.consumer\_agent  role is used. These steps allow you to configure a custom role if needed.
 
-## Related
-
-- [[migration-forms|Forms]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[csm-front-line-case-page|Front-line case page]]
-- [[configure-nba|Recommended Actions]]

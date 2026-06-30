@@ -221,8 +221,5 @@ Service Definition \[sn\_case\_type\_selection\]
 Distribution \(percentage\) of government services available in the system.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[psds-content-pack|Analytics and Reporting Solutions for Public Sector Digital Services]]
+</table>**Parent Topic:**[Analytics and Reporting Solutions for Public Sector Digital Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-content-pack.md)
 
-## Related
-
-- [[psds-content-pack|psds content pack]]

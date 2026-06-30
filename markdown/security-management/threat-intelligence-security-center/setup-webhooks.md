@@ -14,7 +14,7 @@ breadcrumb: [Working with Webhooks, Administer, Threat Intelligence Security Cen
 
 # Configure webhooks
 
-Configure a webhook to subscribe to events in [[tisc-landing-page|Threat Intelligence Security Center]].
+Configure a webhook to subscribe to events in Threat Intelligence Security Center.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_sec\_tisc.admin
 
 ## About this task
 
-TISC webhooks provides the capability to [[integrating-threat-intelligence-security-center|integrate]] with security [[tools|tools]] such as SIEM. Users can then subscribe to various events related to different artifacts such as [[c_Observables|observables]] or [[indicator|indicators]] or [[threat-intelligence-malware|malware]] or [[threat-actors|threat actors]]. TISC notifies security tools \(such as SIEM\) when a new [[threat-intel-landing-page|threat intelligence]] is available or any existing threat intelligence data is updated or deleted in TISC.
+TISC webhooks provides the capability to integrate with security tools such as SIEM. Users can then subscribe to various events related to different artifacts such as observables or indicators or malware or threat actors. TISC notifies security tools \(such as SIEM\) when a new threat intelligence is available or any existing threat intelligence data is updated or deleted in TISC.
 
 For example, whenever a new observable is added in threat intelligence then a payload request is sent to the webhook URL configuration. This payload request usually collects the observable information and provides it as additional information to security tools \(such as SIEM\).
 
@@ -140,7 +140,7 @@ Provide a password to your authentication type.
 
 </td><td>
 
-Any headers to be passed with the requests can be provided in Request Header [[mapping-logrhythm|Mapping]]. Header should be provided in key-value pair separated by colon\(':'\). Each header key value pair should be provided in a new line. For providing authentication parameters as header values, enclose the required Authentication Label with '$\{' and '\}$'. For example, username:$\{Username\}$.
+Any headers to be passed with the requests can be provided in Request Header Mapping. Header should be provided in key-value pair separated by colon\(':'\). Each header key value pair should be provided in a new line. For providing authentication parameters as header values, enclose the required Authentication Label with '$\{' and '\}$'. For example, username:$\{Username\}$.
 
 </td></tr></tbody>
 </table>4.  Click **Validate and Save**.
@@ -153,7 +153,7 @@ Any headers to be passed with the requests can be provided in Request Header [[m
     -   By default, any webhook that is created will be in disabled state, you need to enable the webhook and activate it. A sample webhook is provisioned in the base system as a reference to the users.
 
 -   **[Subscribe Triggers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/subscribe-triggers.md)**  
-View the list of all the subscribed [[tisc-triggers|webhook triggers]] for the current webhook.
+View the list of all the subscribed webhook triggers for the current webhook.
 -   **[View webhook error logs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-error-logs.md)**  
 Use this error logs section to view all the audit entries which are marked as error in the status for a particular webhook.
 -   **[View webhook batches](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-webhook-batch.md)**  
@@ -168,15 +168,3 @@ A webhook batch record is created for each webhook execution.
 
 [Webhook Triggers]()
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[integrating-threat-intelligence-security-center|Integrate]]
-- [[tools|Tools]]
-- [[c_Observables|Observables]]
-- [[indicator|Indicators]]
-- [[threat-intelligence-malware|Malware]]
-- [[threat-actors|Threat actors]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[mapping-logrhythm|Mapping]]
-- [[tisc-triggers|Webhook Triggers]]

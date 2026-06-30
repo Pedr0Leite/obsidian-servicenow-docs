@@ -26,7 +26,7 @@ You can access recorded Zoom and Microsoft Teams meetings details from conferenc
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fsm-application-landing-page|Field Service Management]]** &gt; **Work Order** &gt; **All Work Order Tasks**.
+1.  Navigate to **All** &gt; **Field Service Management** &gt; **Work Order** &gt; **All Work Order Tasks**.
 
 2.  Open a work order task from the list.
 
@@ -39,6 +39,3 @@ You can access recorded Zoom and Microsoft Teams meetings details from conferenc
 
 **Parent Topic:**[Integration with Virtual Conferencing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-integrations/virtual-conference-integration-fsm.md)
 
-## Related
-
-- [[fsm-application-landing-page|Field Service Management]]

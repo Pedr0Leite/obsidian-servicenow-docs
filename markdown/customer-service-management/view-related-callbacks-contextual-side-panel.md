@@ -32,7 +32,7 @@ When working on a case or interaction, callback tiles appear automatically in th
 
 3.  Open a case or interaction.
 
-4.  Select the Related [[migration-lists|lists]] \(\[Omitted image "related-lists-callback.png"\] Alt text: Related icon.\) icon.
+4.  Select the Related lists \(\[Omitted image "related-lists-callback.png"\] Alt text: Related icon.\) icon.
 
 5.  Select **Related Callbacks**.
 
@@ -45,6 +45,3 @@ When working on a case or interaction, callback tiles appear automatically in th
 
 You can view related callbacks and access the callback task record page to reschedule or cancel them.
 
-## Related
-
-- [[migration-lists|Lists]]

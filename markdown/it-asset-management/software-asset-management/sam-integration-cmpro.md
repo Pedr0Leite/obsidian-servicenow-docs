@@ -15,9 +15,9 @@ breadcrumb: [Exploring Software Asset Management, Software Asset Management, IT 
 
 # Use Software Asset Management with Contract Management Pro
 
-Leverage advanced [[c_ContractLifeCycle|contract life cycle]] capabilities after a contract has been signed using the Obligation Management \(sn\_cm\_obligation\) and the Now Assist in [[c_ContractManagement|Contract Management]] Pro \(sn\_cm\_gen\_ai\) plugin.
+Leverage advanced contract life cycle capabilities after a contract has been signed using the Obligation Management \(sn\_cm\_obligation\) and the Now Assist in Contract Management Pro \(sn\_cm\_gen\_ai\) plugin.
 
-Integrating the [[c_SoftwareAssetMgmt|Software Asset Management]] and Contract Management Pro applications provides access to the following post-signature contract data and workflows within the [[sam-workspace|Software Asset Workspace]]:
+Integrating the Software Asset Management and Contract Management Pro applications provides access to the following post-signature contract data and workflows within the Software Asset Workspace:
 
 -   **Obligation Management:** Use the Contract Management Pro application's Obligation Management feature within the Software Asset Workspace. If you have the required roles assigned, you can create an obligation record. This record defines specific instructions and obligation tasks required to fulfill the contract obligation. For more information about the Contract Management Pro application's Obligation Management feature, see [Obligation Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/cncore-obligation-management.md). For more information about creating and managing obligation tasks in the Software Asset Workspace, see [Manage obligation tasks in the Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/manage-obligation-tasks-software-asset-workspace.md).
 -   **Renewal Management:** Receive proactive notifications and actionable insights regarding upcoming contract renewals.
@@ -55,9 +55,3 @@ The following plugins are required to use the Software Asset Management and Cont
 
 [Use manage contract repository agentic workflow in the Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/manage-contract-repository-workflow.md)
 
-## Related
-
-- [[c_ContractLifeCycle|Contract life cycle]]
-- [[c_ContractManagement|Contract Management]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-workspace|Software Asset Workspace]]

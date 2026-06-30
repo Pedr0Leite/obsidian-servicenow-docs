@@ -22,7 +22,7 @@ Role required: insights\_admin \[sn\_clin\_core.insights\_admin\]
 
 ## Procedure
 
-1.  Navigate to **[[ci-workspace|Cloud Cost Management Workspace]]** &gt; **Operations** &gt; **Administration** &gt; **AWS price discounts**.
+1.  Navigate to **Cloud Cost Management Workspace** &gt; **Operations** &gt; **Administration** &gt; **AWS price discounts**.
 
 2.  Select **New**.
 
@@ -67,6 +67,3 @@ View the provider's discount rate for each service account by navigating to **Cl
 
 [Schedule and manage the Cloud Cost Management jobs that download AWS price sheets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/aws-pricesht-sched-dwnld-cloudin.md)
 
-## Related
-
-- [[ci-workspace|Cloud Cost Management Workspace]]

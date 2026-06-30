@@ -14,11 +14,11 @@ breadcrumb: [Supplier Lifecycle Operations, Finance and Supply Chain]
 
 # Explore Supplier Lifecycle Operations
 
-Use ServiceNow® [[supp-mgmt-landing-page|Supplier Lifecycle Operations]] to empower suppliers with self-service to simplify operations and improve productivity.
+Use ServiceNow® Supplier Lifecycle Operations to empower suppliers with self-service to simplify operations and improve productivity.
 
 ## Overview of Supplier Lifecycle Operations
 
-Supplier Lifecycle Operations enables you to onboard suppliers quickly, effortlessly manage [[supplier|supplier]] data, add key supplier contacts, monitor supplier performance, and enhance the productivity of the teams that engage with suppliers.
+Supplier Lifecycle Operations enables you to onboard suppliers quickly, effortlessly manage supplier data, add key supplier contacts, monitor supplier performance, and enhance the productivity of the teams that engage with suppliers.
 
 ## Benefits of Supplier Lifecycle Operations
 
@@ -26,16 +26,16 @@ Supplier Lifecycle Operations provides the following benefits:
 
 -   Faster supplier onboarding: View details about new suppliers and onboard suppliers quickly using onboarding workflows and start purchasing goods and services.
 -   Automatically import supplier information: Supplier Lifecycle Operations integrates with the supplier Intelligence platform, Craft, which enables you to import and view all the important supplier details.
--   Supplier self-service: Enhance the supplier experience by enabling suppliers to complete onboarding tasks, get their questioned answered, and fulfill requests, such as viewing open purchase orders and submitting [[invoices|invoices]].
+-   Supplier self-service: Enhance the supplier experience by enabling suppliers to complete onboarding tasks, get their questioned answered, and fulfill requests, such as viewing open purchase orders and submitting invoices.
 -   Supplier data management: Provide flexibility to suppliers to manage and update their own data, ensuring that the supplier data is current and up to date.
 -   Supplier case and contact management: Create and manage supplier cases, add, and manage supplier contacts.
 -   Minimize risk during supplier onboarding: Identify and assess potential supplier risks when onboarding new suppliers.
 -   Manage supplier relationship and performance: Monitor and assess supplier performance by setting up criteria for measuring supplier performance though KPIs and thresholds.
--   Many-to-many \(M2M\) mapping between [[supplier-contact|supplier contact]] and suppliers: A single supplier contact can be the contact for multiple suppliers, if those suppliers share a parent-subsidiary relationship.
+-   Many-to-many \(M2M\) mapping between supplier contact and suppliers: A single supplier contact can be the contact for multiple suppliers, if those suppliers share a parent-subsidiary relationship.
 
     **Important:** M2M mapping between supplier contact and suppliers is available from the Xanadu December 2024 release onwards. To enable M2M mapping, see [Enable M2M mapping between supplier contact and suppliers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/enable-m2m-supplier-contacts.md).
 
--   [[supplier-pmnt-opt|Supplier payment optimization]]: Supplier managers can view the potential returns or savings when a supplier accepts commercial credit card payments. They can convert high-potential suppliers, and capture value through card-based payments.
+-   Supplier payment optimization: Supplier managers can view the potential returns or savings when a supplier accepts commercial credit card payments. They can convert high-potential suppliers, and capture value through card-based payments.
 
 For more information about installing and configuring Supplier Lifecycle Operations, see [Configure Supplier Lifecycle Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/config-supp-mgmt.md).
 
@@ -65,7 +65,7 @@ The application includes demo data and installs related ServiceNow® Store appli
 
 </td><td>
 
-Provides a common architecture to track data objects related to a supplier used in both Supplier Lifecycle Operations and [[supplier-central|Supplier Collaboration Portal]].
+Provides a common architecture to track data objects related to a supplier used in both Supplier Lifecycle Operations and Supplier Collaboration Portal.
 
 </td></tr><tr><td>
 
@@ -73,7 +73,7 @@ Provides a common architecture to track data objects related to a supplier used 
 
 </td><td>
 
-Enables you to centralize supplier information and collaborate with suppliers to improve performance.**Important:** Starting with the Washington D.C. release, Supplier Manager Workspace is being prepared for future deprecation. It’s hidden from the navigation and no longer is activated on new instances but will continue to be supported. [[purch-order-mgmt-ws|Source-to-Pay Workspace]] provides the latest experience for this functionality.
+Enables you to centralize supplier information and collaborate with suppliers to improve performance.**Important:** Starting with the Washington D.C. release, Supplier Manager Workspace is being prepared for future deprecation. It’s hidden from the navigation and no longer is activated on new instances but will continue to be supported. Source-to-Pay Workspace provides the latest experience for this functionality.
 
 </td></tr><tr><td>
 
@@ -178,12 +178,4 @@ Here are some additional ServiceNow resources that can help you:
 
     Connect with other Supplier Lifecycle Operations users at [ServiceNow Community](https://www.servicenow.com/community/source-to-pay-operations/ct-p/source-2-pay-operations).
 
-## Related
 
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[supplier|Supplier]]
-- [[invoices|Invoices]]
-- [[supplier-contact|Supplier contact]]
-- [[supplier-pmnt-opt|Supplier Payment Optimization]]
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

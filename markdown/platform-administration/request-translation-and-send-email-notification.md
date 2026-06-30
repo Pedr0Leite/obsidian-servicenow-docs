@@ -16,11 +16,11 @@ Request a translation to send an email in the recipient’s preferred language.
 
 ## Before you begin
 
-An email notification must exist. For more information, see [[t_CreateANotification|Create an email notification]].
+An email notification must exist. For more information, see [Create an email notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateANotification.md).
 
 You must activate the Glide Notification Translation \(com.glide.notification.translation\) plugin.
 
-The [Localization Framework settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/localization-settings.md) should be configured to request the translation for the [[framework-configuration|artifact configurations]] and add languages.
+The [Localization Framework settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/localization-settings.md) should be configured to request the translation for the artifact configurations and add languages.
 
 Role required: admin
 
@@ -32,7 +32,7 @@ Notification recipients must be defined as active users in the User \[sys\_user\
 
 1.  Navigate to the email item for which you want to request a translation.
 
-    -   For [[notifications|notifications]], navigate to **All** &gt; **System Notification** &gt; **Email** &gt; **Notifications**
+    -   For notifications, navigate to **All** &gt; **System Notification** &gt; **Email** &gt; **Notifications**
     -   For templates, navigate to **All** &gt; **System Notification** &gt; **Email** &gt; **Templates**.
     -   For layouts, navigate to **All** &gt; **System Policy** &gt; **Email** &gt; **Layouts**.
     **Note:** Static translation is not supported for email notifications of type **Meeting Invitation**.
@@ -44,16 +44,10 @@ Notification recipients must be defined as active users in the User \[sys\_user\
 4.  Select **Submit**.
 
 
-**Parent Topic:**[[static-translation|Static translation]]
+**Parent Topic:**[Static translation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/static-translation.md)
 
 **Related topics**  
 
 
 [Enable static translation]()
 
-## Related
-
-- [[t_CreateANotification|Create an email notification]]
-- [[static-translation|Static translation]]
-- [[framework-configuration|Artifact configurations]]
-- [[notifications|Notifications]]

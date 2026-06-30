@@ -12,11 +12,11 @@ breadcrumb: [Use, Now Assist in Document Management, Manage content capabilities
 
 # Generate summary and ask questions using Now Assist in Document Management
 
-Generate summary and ask questions to gain quick insights from your documents by using [[now-assist-document-management|Now Assist in Document Management]].
+Generate summary and ask questions to gain quick insights from your documents by using Now Assist in Document Management.
 
 ## Before you begin
 
-Configure the smart document skill. For more information, see [[configure-skill-smart-documents|Configure the Smart Documents Skill for Now Assist in Document Management]].
+Configure the smart document skill. For more information, see [Configure the Smart Documents Skill for Now Assist in Document Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configure-skill-smart-documents.md).
 
 Role required: sn\_nowassist\_admin.nsa\_admin
 
@@ -28,7 +28,7 @@ Role required: sn\_nowassist\_admin.nsa\_admin
 
     For example, an incident record.
 
-3.  Open the attached document to view it in the [[Documentviewer|document viewer]].
+3.  Open the attached document to view it in the document viewer.
 
     **Note:** The maximum supported document size is 10MB and the page limit is 200 pages. Supported file types are pdf, docx, pptx, xlsx, doc, ppt, xls, jpeg, and png.
 
@@ -42,8 +42,4 @@ Role required: sn\_nowassist\_admin.nsa\_admin
 
 6.  Provide feedback on whether the result is helpful or not by selecting the liked icon \[Omitted image "llm-thumbs-up-like.png"\] Alt text: liked icon or the not liked icon \[Omitted image "llm-thumbs-down-dislike.png"\] Alt text: not liked icon.
 
-## Related
 
-- [[configure-skill-smart-documents|Configure the Smart Documents Skill for Now Assist in Document Management]]
-- [[now-assist-document-management|Now Assist in Document Management]]
-- [[Documentviewer|Document Viewer]]

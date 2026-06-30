@@ -23,7 +23,7 @@ Role required: sn\_ap\_apm.invoice\_tolerance\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-pay-mgmt-landing-page|Accounts Payable Operations]]** &gt; **All** &gt; **Tolerance types**.
+1.  Navigate to **All** &gt; **Accounts Payable Operations** &gt; **All** &gt; **Tolerance types**.
 
 2.  On the **Invoice Tolerance type** list, select **New**.
 
@@ -32,7 +32,7 @@ Role required: sn\_ap\_apm.invoice\_tolerance\_admin
     |Field|Description|
     |-----|-----------|
     |**Name**|Name of the tolerance type|
-    |**Application**|The application value is automatically set to [[acc-pay-invoice-processing|Accounts Payable Invoice Processing]].|
+    |**Application**|The application value is automatically set to Accounts Payable Invoice Processing.|
     |**Line level**|Option to make the tolerance type applicable at the line level.|
     |**Description**|Brief description of the tolerance type|
 
@@ -41,7 +41,3 @@ Role required: sn\_ap\_apm.invoice\_tolerance\_admin
 
 **Parent Topic:**[Tolerance Rules and Variances for invoices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/tolerance-rules-and-variance.md)
 
-## Related
-
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[acc-pay-invoice-processing|Accounts Payable Invoice Processing]]

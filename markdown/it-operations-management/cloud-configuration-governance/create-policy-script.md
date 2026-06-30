@@ -26,7 +26,7 @@ For more information on using scripts, see [Cloud scripts and cloud script templ
 
 ## Procedure
 
-1.  On the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Govern** &gt; **Policies**.
+1.  On the Cloud Admin Portal, navigate to **Govern** &gt; **Policies**.
 
 2.  On the **Policy Action Scripts** tab, click **New**, enter a unique and descriptive **Name** and **Description**, fill in the form, and then click **Submit**.
 
@@ -161,6 +161,3 @@ gs.info( "Output of script is = " + outputParams);
 
 [Example policy action script that tags resources]()
 
-## Related
-
-- [[cloud-admin-portal|Cloud Admin Portal]]

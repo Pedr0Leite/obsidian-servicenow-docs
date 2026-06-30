@@ -97,11 +97,7 @@ console.log(errorMessage, errorType);
 
 [Embed the Knowledge article view component instance on the third-party website](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/embed-know-article-view-comp.md)
 
-[[we-know-article-view-comp-prop|Component properties for the Knowledge article view]]
+[Component properties for the Knowledge article view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/we-know-article-view-comp-prop.md)
 
-[[we-know-article-view-event-handler|Event handler in the Knowledge article view component]]
+[Event handler in the Knowledge article view component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/we-know-article-view-event-handler.md)
 
-## Related
-
-- [[we-know-article-view-comp-prop|Component properties for the Knowledge article view]]
-- [[we-know-article-view-event-handler|Event handler in the Knowledge article view component]]

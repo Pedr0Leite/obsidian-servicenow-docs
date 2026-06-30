@@ -12,7 +12,7 @@ breadcrumb: [Use, Next Experience UI, Configure UIs and portals, Configure user 
 
 # Next Experience preferences
 
-Next Experience offers [[c_UserPreferences|user preferences]] to personalize your instance UI.
+Next Experience offers user preferences to personalize your instance UI.
 
 Next Experience preferences let you personalize how the interface looks, behaves, and communicates with you; some options are available to all users, while others appear only to administrators or in specific contexts. If you have the admin role, you can customize the behavior of Next Experience across your instance by setting global preferences.
 
@@ -40,7 +40,7 @@ Description
 
 </td><td>
 
-[[next-display-preferences|Configure Next Experience display preferences]]: Control how the Next Experience interface looks and behaves on screen, such as layout, visual density, and presentation options. These settings affect only the current user’s view.
+[Configure Next Experience display preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-display-preferences.md): Control how the Next Experience interface looks and behaves on screen, such as layout, visual density, and presentation options. These settings affect only the current user’s view.
 
 </td></tr><tr><td>
 
@@ -48,7 +48,7 @@ Description
 
 </td><td>
 
-[[next-experience-accessibility-preferences|Configure Next Experience accessibility preferences]]: Adjust the interface to support accessibility needs, such as keyboard navigation, contrast, or motion behavior, to make the UI easier to use for different abilities.
+[Configure Next Experience accessibility preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-accessibility-preferences.md): Adjust the interface to support accessibility needs, such as keyboard navigation, contrast, or motion behavior, to make the UI easier to use for different abilities.
 
 </td></tr><tr><td>
 
@@ -56,7 +56,7 @@ Description
 
 </td><td>
 
-[[next-experience-debugging-preferences|Configure Next Experience debugging preferences]]: Debug your Next Experience instance to detect and remove the existing and potential errors in your Next Experience components and scripts.**Note:** The debugging preferences only appear for users with the admin role.
+[Configure Next Experience debugging preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-debugging-preferences.md): Debug your Next Experience instance to detect and remove the existing and potential errors in your Next Experience components and scripts.**Note:** The debugging preferences only appear for users with the admin role.
 
 </td></tr><tr><td>
 
@@ -64,7 +64,7 @@ Description
 
 </td><td>
 
-[[select-a-theme-in-next-experience|Select a theme in Next Experience]]: Personalize your Next Experience instance by choosing from the multiple themes that are available to you.**Note:** The themes that appear in the Theme user preference are determined by the user access and admin customizations.
+[Select a theme in Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/select-a-theme-in-next-experience.md): Personalize your Next Experience instance by choosing from the multiple themes that are available to you.**Note:** The themes that appear in the Theme user preference are determined by the user access and admin customizations.
 
 </td></tr><tr><td>
 
@@ -72,7 +72,7 @@ Description
 
 </td><td>
 
-[[next-experience-notifications-preferences|Configure Next Experience notification preferences]]: Control how and where you receive system and in‑product notifications, including banners, badges, and delivery channels such as email.
+[Configure Next Experience notification preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-notifications-preferences.md): Control how and where you receive system and in‑product notifications, including banners, badges, and delivery channels such as email.
 
 </td></tr><tr><td>
 
@@ -80,7 +80,7 @@ Description
 
 </td><td>
 
-[[next-experience-language-preferences|Configure Next Experience language and region preferences]]: Define your language, time zone, and date and time formats.
+[Configure Next Experience language and region preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-language-preferences.md): Define your language, time zone, and date and time formats.
 
 </td></tr><tr><td>
 
@@ -88,7 +88,7 @@ Description
 
 </td><td>
 
-[[next-experience-workspace-preferences|Configure Next Experience Workspace preferences]]: Customize behavior within a specific workspace, such as layout or interaction settings**Note:** The workspace preferences appear only if you have access to Workspace and the workspace is in focus.
+[Configure Next Experience Workspace preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-workspace-preferences.md): Customize behavior within a specific workspace, such as layout or interaction settings**Note:** The workspace preferences appear only if you have access to Workspace and the workspace is in focus.
 
 </td></tr><tr><td>
 
@@ -96,19 +96,7 @@ Description
 
 </td><td>
 
-[[configure-next-experience-user-experience|Configure Next Experience user experience preferences]]: Manage high‑level Next Experience behaviors, such as enabling or disabling the experience, analytics collection, or selecting a start page, depending on your access.
+[Configure Next Experience user experience preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-next-experience-user-experience.md): Manage high‑level Next Experience behaviors, such as enabling or disabling the experience, analytics collection, or selecting a start page, depending on your access.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[next-display-preferences|Configure Next Experience display preferences]]
-- [[next-experience-accessibility-preferences|Configure Next Experience accessibility preferences]]
-- [[next-experience-debugging-preferences|Configure Next Experience debugging preferences]]
-- [[select-a-theme-in-next-experience|Select a theme in Next Experience]]
-- [[next-experience-notifications-preferences|Configure Next Experience notification preferences]]
-- [[next-experience-language-preferences|Configure Next Experience language and region preferences]]
-- [[next-experience-workspace-preferences|Configure Next Experience Workspace preferences]]
-- [[configure-next-experience-user-experience|Configure Next Experience user experience preferences]]
-- [[c_UserPreferences|User preferences]]

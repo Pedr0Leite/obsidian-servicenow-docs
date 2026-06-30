@@ -14,7 +14,7 @@ breadcrumb: [Growth Experiences, HR Service Delivery, Employee Service Managemen
 
 # Employee Goals
 
-The ServiceNow® Employee Goals application lets employees view and track their career goals from the [[employee-center-landing-page|Employee Center]]. This application is a tool that enables employees to stay focused and aligned with your company's strategic objectives, resulting in improved overall organizational performance.
+The ServiceNow® Employee Goals application lets employees view and track their career goals from the Employee Center. This application is a tool that enables employees to stay focused and aligned with your company's strategic objectives, resulting in improved overall organizational performance.
 
 ## Get started
 
@@ -36,7 +36,7 @@ The ServiceNow® Employee Goals application lets employees view and track their 
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about components like fields, tables, and properties.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-goals/egd-goals-[[reference-hr-service-delivery-advanced-integration-with-workday|reference]].md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about components like fields, tables, and properties.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-goals/egd-goals-reference.md)
 
 </td><td>
 
@@ -51,7 +51,3 @@ The ServiceNow® Employee Goals application lets employees view and track their 
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

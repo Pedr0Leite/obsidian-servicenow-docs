@@ -133,7 +133,7 @@ Measures adoption of legal self-help tools to reduce repetitive queries and enab
 
 ## GC Dashboard overview
 
-The [[gc-dashboard|General Counsel \(GC\) Dashboard]] provides a unified overview of legal operations performance, consolidating insights into contracts, service delivery, privacy and compliance, digital invoicing, and self-service efficiency across the enterprise.
+The General Counsel \(GC\) Dashboard provides a unified overview of legal operations performance, consolidating insights into contracts, service delivery, privacy and compliance, digital invoicing, and self-service efficiency across the enterprise.
 
 -   **Purpose**
 
@@ -155,6 +155,3 @@ The [[gc-dashboard|General Counsel \(GC\) Dashboard]] provides a unified overvie
     -   Business Stakeholders \(Sales, HR, Procurement, IT, and so on\)
     -   Employees and End Users Using Legal Self-Service
 
-## Related
-
-- [[gc-dashboard|General Counsel \(GC\) Dashboard]]

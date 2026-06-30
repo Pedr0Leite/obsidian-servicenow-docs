@@ -14,9 +14,9 @@ breadcrumb: [Configure Observable Enrichment, TISC Enrichment integrations, TISC
 
 # Shodan integration
 
-Configure [[shodan-lookups|Shodan integration]] to enable automated discovery and analysis of internet-connected devices in your network [[threat-intelligence-infrastructure|infrastructure]].
+Configure Shodan integration to enable automated discovery and analysis of internet-connected devices in your network infrastructure.
 
-The Shodan integration performs enrichment on the following [[c_Observables|observables]]:
+The Shodan integration performs enrichment on the following observables:
 
 -   IP addresses
 -   URLs
@@ -29,8 +29,3 @@ Before you use Shodan integration, you must download it from the ServiceNow Stor
 
 **Parent Topic:**[Observable Enrichment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-observable-enrichment.md)
 
-## Related
-
-- [[shodan-lookups|Shodan integration]]
-- [[threat-intelligence-infrastructure|Infrastructure]]
-- [[c_Observables|Observables]]

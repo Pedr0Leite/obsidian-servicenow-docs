@@ -22,7 +22,7 @@ Role required: sn\_wsd\_rsv.manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-rsv-mgmt-feat|Workplace Reservation Management]]** &gt; **Administration** &gt; **Reservable Purposes**.
+1.  Navigate to **All** &gt; **Workplace Reservation Management** &gt; **Administration** &gt; **Reservable Purposes**.
 
 2.  Click **New**.
 
@@ -93,6 +93,3 @@ Define the purpose of a workplace item by adding a reservable purpose. The purpo
 
 [Configure reservation multi-day settings in Reservable Module]()
 
-## Related
-
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]

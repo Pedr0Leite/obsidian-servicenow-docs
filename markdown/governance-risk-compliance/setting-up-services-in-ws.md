@@ -12,17 +12,17 @@ breadcrumb: [Gathering data aligned with the CSDM setup, Manage, Operational Res
 
 # Data setup for business services
 
-[[grc-opres-landing-page|Operational Resilience]] managers typically verify that data is set up for services or business services and monitor their [[opres-ws-homepage-overview|resilience metrics]] on the dashboard. The [[main-node-config-bs-cmdb|Service \(CMDB\) Main node configuration]] fetches service-related data, while the [[opres-with-csdm-header|Opres with CSDM header Main node configuration]] sets up the business services-related data.
+Operational Resilience managers typically verify that data is set up for services or business services and monitor their resilience metrics on the dashboard. The Service \(CMDB\) Main node configuration fetches service-related data, while the Opres with CSDM header Main node configuration sets up the business services-related data.
 
 ## Business services overview on the dashboard
 
 A service performs a business-level function, such as email, IT services, e-commerce, or telephone banking. Existing customers use the Service \(CMDB\) Main node configuration, while new customers use the OpRes with CSDM header Main node configuration. The Service form or the business services form list risks, issues, control failures, and other areas that require attention.
 
-**Note:** Administrators can show or hide the **Services overview** or **Business services overview** tabs based on their organizational needs. For more information, see [[displaying-services-overview-tab|Show Business services overview tab in Workspace view]].
+**Note:** Administrators can show or hide the **Services overview** or **Business services overview** tabs based on their organizational needs. For more information, see [Show Business services overview tab in Workspace view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/displaying-services-overview-tab.md).
 
 ## Setup of entity types and pillars
 
-Before proceeding, ensure that [[entity-type-in-risk-ws|entity types]] and pillars are properly configured; refer to the [[setting-up-hierarchy|Setting up pillars, entity types, entity filters, and entities]] for setup instructions.
+Before proceeding, ensure that entity types and pillars are properly configured; refer to the [Setting up pillars, entity types, entity filters, and entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/setting-up-hierarchy.md) for setup instructions.
 
 ## Vertical layout for Service records
 
@@ -50,9 +50,9 @@ To add or remove services and processes in the Operational Resilience Workspace,
 
 ## Adding a service to reporting
 
-You can [[configure-csdm-modules|add a service to Operational Resilience reporting]] by selecting the **Add to OpRes reporting** UI action as shown in the following example.
+You can add a service to Operational Resilience reporting by selecting the **Add to OpRes reporting** UI action as shown in the following example.
 
-**Note:** Instead of adding services directly to Operational Resilience reporting, set up the [[what-is-an-entity-filter|entity filters]] for the desired services. For instructions on setting up the entity filters, see [Setting up pillars, entity types, entity filters, and entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/setting-up-hierarchy.md).
+**Note:** Instead of adding services directly to Operational Resilience reporting, set up the entity filters for the desired services. For instructions on setting up the entity filters, see [Setting up pillars, entity types, entity filters, and entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/setting-up-hierarchy.md).
 
 \[Omitted image "opres-reporting.png"\] Alt text: Add a\\ service to OpRes reporting.
 
@@ -194,7 +194,7 @@ High risks​​
 
 </td><td>
 
-List of the high-risk items or the [[risk-assessments|risk assessments]] in the monitor state that are associated with the service. Risks are rolled up from dependencies.
+List of the high-risk items or the risk assessments in the monitor state that are associated with the service. Risks are rolled up from dependencies.
 
 </td><td>
 
@@ -370,7 +370,7 @@ List of the approved Importance and impact assessment​s​.
 
 </td></tr><tr><td>
 
-[[scenario-analysis-ov|Scenario analysis]]​​
+Scenario analysis​​
 
 </td><td>
 
@@ -439,16 +439,3 @@ If you have the Operational Resilience manager role, in the 360-degree view for 
 -   Dependencies that are related to a pillar, such as the Process, Technology, People, Supplier, and Facility pillars in your organization
 -   Operational Resilience metrics
 
-## Related
-
-- [[displaying-services-overview-tab|Show Business services overview tab in Workspace view]]
-- [[setting-up-hierarchy|Setting up pillars, entity types, entity filters, and entities]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[opres-ws-homepage-overview|Resilience metrics]]
-- [[main-node-config-bs-cmdb|Service \(CMDB\) Main node configuration]]
-- [[opres-with-csdm-header|Opres with CSDM header Main node configuration]]
-- [[entity-type-in-risk-ws|Entity types]]
-- [[configure-csdm-modules|Add a service to Operational Resilience reporting]]
-- [[what-is-an-entity-filter|Entity filters]]
-- [[risk-assessments|risk assessments]]
-- [[scenario-analysis-ov|Scenario analysis]]

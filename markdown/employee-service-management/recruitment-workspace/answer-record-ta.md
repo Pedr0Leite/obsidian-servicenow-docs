@@ -30,7 +30,7 @@ Question
 
 </td><td>
 
-Parent question that has the [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] in the interceptor record.
+Parent question that has the reference in the interceptor record.
 
 </td></tr><tr><td>
 
@@ -62,7 +62,7 @@ User Prompt
 
 </td><td>
 
-Name of the task that is visible in [[recruitment-workspace-concept|Recruitment workspace]].The name visible in Recruitment workspace and the one provided in the **User Prompt** should be the same.
+Name of the task that is visible in Recruitment workspace.The name visible in Recruitment workspace and the one provided in the **User Prompt** should be the same.
 
 </td></tr><tr><td>
 
@@ -120,7 +120,3 @@ Roles who have access to the answer record.
 </td></tr></tbody>
 </table>**Parent Topic:**[Recruitment Workspace reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/recruitment-workspace-reference.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[recruitment-workspace-concept|Recruitment workspace]]

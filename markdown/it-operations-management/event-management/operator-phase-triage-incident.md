@@ -18,7 +18,7 @@ After you analyze and acknowledge an alert, you must triage it. The triage phase
 
 ## Before you begin
 
-**Note:** The Operator Workspace interface is available only to customers who have upgraded from a release prior to the Utah release. New customers as of the Utah release can use the [[sow-landing-page-itom|Service Operations Workspace for ITOM]], which offers an enhanced UI for managing alerts.
+**Note:** The Operator Workspace interface is available only to customers who have upgraded from a release prior to the Utah release. New customers as of the Utah release can use the Service Operations Workspace for ITOM, which offers an enhanced UI for managing alerts.
 
 <table id="table_pp3_vg3_3db"><tbody><tr><td>
 
@@ -63,7 +63,7 @@ Phase 3
 
 1.  Before you start to work on the alert, check whether other alerts should be correlated with the one you just reviewed:
 
-    1.  Navigate to **[[c_EM|Event Management]]** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+    1.  Navigate to **Event Management** &gt; **Service Operations Workspace**.
 
     2.  Click the same application service tile and review the alerts in the **Alerts** list.
 
@@ -185,18 +185,11 @@ If you do not need to perform any other triage actions, proceed to [Phase 3: Clo
 -   **[Run a remediation workflow on an alert](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-run-remdiation.md)**  
 As an Event Management operator, you can also run a workflow on your ServiceNow instance that helps remediate the alert. For example, you might run a workflow that automatically restarts a server on your network, which might resolve an alert about CPU usage.
 -   **[Launch a web application from an alert](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-launch-web-app.md)**  
-As an Event Management operator, you can also [[operator-launch-web-app|launch a web application from an alert]]. The web application might be a console for the event monitoring tool that your organization uses, or any external website that provides additional information you might need about the alert.
+As an Event Management operator, you can also launch a web application from an alert. The web application might be a console for the event monitoring tool that your organization uses, or any external website that provides additional information you might need about the alert.
 -   **[Associate a knowledge base article with an alert](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-associate-kb.md)**  
 As an Event Management operator, you can associate a knowledge base \(KB\) article with the alert to capture additional information about the alert. This might include a procedure that someone has to follow to resolve the underlying issue on your network, or a best practice to prevent the issue from reoccurring.
 -   **[Put an alert into maintenance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-put-alert-into-maintenance.md)**  
-As an Event Management operator, you can [[operator-put-alert-into-maintenance|put an alert into maintenance]] if the alert does not require any further action, but you still want to keep the alert active. Putting the alert into maintenance hides it from the Service Operations Workspace dashboard so that other operators do not need to access it, but it does not close the alert.
+As an Event Management operator, you can put an alert into maintenance if the alert does not require any further action, but you still want to keep the alert active. Putting the alert into maintenance hides it from the Service Operations Workspace dashboard so that other operators do not need to access it, but it does not close the alert.
 
 **Parent Topic:**[What Event Management operators do](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-process.md)
 
-## Related
-
-- [[sow-landing-page-itom|Service Operations Workspace for ITOM]]
-- [[c_EM|Event Management]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[operator-launch-web-app|Launch a web application from an alert]]
-- [[operator-put-alert-into-maintenance|Put an alert into maintenance]]

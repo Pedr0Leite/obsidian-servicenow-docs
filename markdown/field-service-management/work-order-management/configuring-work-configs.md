@@ -22,7 +22,7 @@ The steps for setting up Field Service work configurations are:
 
 1.  [Activate Field Service Work Configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/activate-work-configs.md)
 
-    Activate the Field Service Work Configurations plugin \(com.snc.fsm\_work\_types\) for [[fsm-application-landing-page|Field Service Management]] if you have the admin role.
+    Activate the Field Service Work Configurations plugin \(com.snc.fsm\_work\_types\) for Field Service Management if you have the admin role.
 
 2.  [Set up work configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/work-config-guided-setup.md)
 
@@ -38,13 +38,10 @@ The steps for setting up Field Service work configurations are:
 
 5.  \(Optional\) [Setting up dynamic scheduling configuration with work configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/work-configs-setting-up-dynamic-sched.md)
 
-    Set up Field Service Work Configurations can be set up to work with [[dynamic-scheduling|dynamic scheduling]].
+    Set up Field Service Work Configurations can be set up to work with dynamic scheduling.
 
 6.  [Example workflow for Field Service Work Configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/example-workflow-for-field-service-work-configurations.md)
 
     Explore how to use Field Service Work Configurations for a break-fix task for an MRI Scanner.
 
-## Related
 
-- [[fsm-application-landing-page|Field Service Management]]
-- [[dynamic-scheduling|Dynamic scheduling]]

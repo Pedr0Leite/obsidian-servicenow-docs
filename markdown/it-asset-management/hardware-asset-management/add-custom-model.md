@@ -14,7 +14,7 @@ breadcrumb: [Work with hardware normalization, Use, Hardware Asset Management, I
 
 # Add a custom hardware model
 
-If you have a hardware model that isn't represented in the [[am-landing-page|Asset Management]] Content Service yet, you can create a custom model.
+If you have a hardware model that isn't represented in the Asset Management Content Service yet, you can create a custom model.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: ham\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Asset** &gt; **Administration** &gt; **Custom [[c_Models|Models]]**.
+1.  Navigate to **All** &gt; **Asset** &gt; **Administration** &gt; **Custom Models**.
 
 2.  Click **New**.
 
@@ -44,7 +44,3 @@ After you've created the hardware model, [normalize the model](https://raw.githu
 
 **Parent Topic:**[Work with hardware normalization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/Work-with-hardware-normalization.md)
 
-## Related
-
-- [[am-landing-page|Asset Management]]
-- [[c_Models|Models]]

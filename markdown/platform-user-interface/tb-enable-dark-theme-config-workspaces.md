@@ -33,8 +33,5 @@ Role required: admin
     **Note:** If you select the dark theme, the dark theme only applies to the configurable workspaces. The classic environment remains in the default theme.
 
 
-**Parent Topic:**[[tb-working-in-dark-theme|Working with the dark theme]]
+**Parent Topic:**[Working with the dark theme](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tb-working-in-dark-theme.md)
 
-## Related
-
-- [[tb-working-in-dark-theme|Working with the dark theme]]

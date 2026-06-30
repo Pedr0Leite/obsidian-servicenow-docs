@@ -14,14 +14,9 @@ breadcrumb: [AI in Hardware Asset Management, Explore, Hardware Asset Management
 
 # Using generative AI skills for Now Assist for Hardware Asset Management \(HAM\)
 
-Streamline [[am-landing-page|asset management]] tasks in the [[using-ham-workspace|Hardware Asset Workspace]] by using the generative AI skills available in the Now Assist for HAM application.
+Streamline asset management tasks in the Hardware Asset Workspace by using the generative AI skills available in the Now Assist for HAM application.
 
 |Generative AI skill name|Description|Introduced inNow Assist for HAM version|
 |------------------------|-----------|---------------------------------------|
-|[Generate hardware asset insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/generate-asset-analysis-now-assist-ham.md)|Generates comprehensive asset summaries and actionable recommendations for the asset.|Now Assist for [[ham-landing-page|Hardware Asset Management]] \(HAM\) v4.0|
+|[Generate hardware asset insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/generate-asset-analysis-now-assist-ham.md)|Generates comprehensive asset summaries and actionable recommendations for the asset.|Now Assist for Hardware Asset Management \(HAM\) v4.0|
 
-## Related
-
-- [[am-landing-page|Asset Management]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[ham-landing-page|Hardware Asset Management]]

@@ -193,7 +193,7 @@ Advanced event condition
 Option to select when the recipients are from more than two tables. These are dynamic conditions.
 
 </td></tr></tbody>
-</table>4.  From the [[c_FormContextMenu|form context menu]], select **Save**.
+</table>4.  From the form context menu, select **Save**.
 
 5.  Select the **Contents** tab and then select **New Provider Content**.
 
@@ -228,14 +228,9 @@ Option to select when the recipients are from more than two tables. These are dy
 
 When triggered, users configured to receive the notifications see notifications with custom content as banners and in the Notifications menu in the Next Experience Unified Navigation.
 
-The UI Notification Inbox \[ui\_notification\_inbox\] table [[lists-configurable-workspace|lists]] all sent notifications and their recipients.
+The UI Notification Inbox \[ui\_notification\_inbox\] table lists all sent notifications and their recipients.
 
 If users receive duplicate notifications, verify that the notification trigger has only one content provider. If the notification has both a Next Experience and Workspace content provider, remove the Workspace content provider from the notification trigger to send only the Next Experience notification with custom content.
 
-**Parent Topic:**[[next-experience-ui-admin|Configuring the Next Experience UI]]
+**Parent Topic:**[Configuring the Next Experience UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-ui-admin.md)
 
-## Related
-
-- [[next-experience-ui-admin|Configuring the Next Experience UI]]
-- [[c_FormContextMenu|Form context menu]]
-- [[lists-configurable-workspace|Lists]]

@@ -14,7 +14,7 @@ breadcrumb: [Explore, Threat Intelligence Security Center, Security Operations]
 
 # TISC Key terminology
 
-Key terms and definitions used in TISC to help you understand [[threat-intel-landing-page|threat intelligence]] concepts and navigate the interface effectively.
+Key terms and definitions used in TISC to help you understand threat intelligence concepts and navigate the interface effectively.
 
 <table id="table_rvc_3t1_pzb"><thead><tr><th>
 
@@ -30,11 +30,11 @@ Data Processing
 
 </td><td>
 
-A Threat Intelligence Platform \(TIP\) collects, aggregates, and organizes threat intelligence data from various sources and patterns. Threat intelligence is data that is collected, processed, and analyzed to understand [[threat-actor|threat actor]] targets and attack behaviors.
+A Threat Intelligence Platform \(TIP\) collects, aggregates, and organizes threat intelligence data from various sources and patterns. Threat intelligence is data that is collected, processed, and analyzed to understand threat actor targets and attack behaviors.
 
 </td></tr><tr><td>
 
-[[c_Observables|Observables]]
+Observables
 
 </td><td>
 
@@ -42,7 +42,7 @@ Observables represent stateful properties or measurable events pertinent to comp
 
 </td></tr><tr><td>
 
-[[indicator|Indicators]]
+Indicators
 
 </td><td>
 
@@ -58,7 +58,7 @@ Defines STIX Domain Objects \(SDOs\), each corresponding to a unique concept in 
 
 </td></tr><tr><td>
 
-[[stix-relationships|Relationships]]
+Relationships
 
 </td><td>
 
@@ -74,10 +74,3 @@ A relationship links two observables, two SDOs, or an Observable and SDO, descri
 
 [TISC Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/view-threat-intelligence-security-center-homepage.md)
 
-## Related
-
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[threat-actor|Threat Actor]]
-- [[c_Observables|Observables]]
-- [[indicator|Indicators]]
-- [[stix-relationships|Relationships]]

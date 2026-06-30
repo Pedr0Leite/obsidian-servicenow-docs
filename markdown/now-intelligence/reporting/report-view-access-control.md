@@ -14,9 +14,9 @@ breadcrumb: [Administering reports, Reporting, Reporting, dashboards, and Perfor
 
 # Report\_view access control
 
-The report\_view operation is a record type [[access-control|access control]] list \(ACL\) that restricts access to reports. Only users who have one of the required roles can view reports that contain the restricted resource.
+The report\_view operation is a record type access control list \(ACL\) that restricts access to reports. Only users who have one of the required roles can view reports that contain the restricted resource.
 
-To [[t_CreateYourOwnReport|create a report]]\_view ACL, follow the general procedure for creating an ACL rule, but bearing the following points in mind:
+To create a report\_view ACL, follow the general procedure for creating an ACL rule, but bearing the following points in mind:
 
 There are two kinds of report\_view access control lists \(ACLs\): report\_view table ACLs and report\_view field ACLs. Report\_view table ACLs prevent users from viewing report or data visualization content based on the table specified in the ACL. Report\_view field ACLs prevent users from viewing reports or data visualizations that use the field specified in the ACL in the group by, row, column or aggregation settings.
 
@@ -30,7 +30,7 @@ Use these guidelines when creating your own report\_view operation access contro
 
     The report\_view operation only supports access restrictions based on a required role. A report\_view access control does not support scripts or advanced conditions.
 
--   **Restrict access to [[list-reports|list reports]] with a read operation**
+-   **Restrict access to list reports with a read operation**
 
     A list report uses regular record access controls to determine who can access data in a table or field. A report\_view access control cannot prevent users from viewing lists to which they have read access. To restrict access to record data in lists and forms, create a read operation access control. For more information about record access controls, see Access control list rules.
 
@@ -47,8 +47,3 @@ When a report is run, report\_view access control lists \(ACLs\) are evaluated o
 
 [bundle-psec.t_CreateAnACLRule]
 
-## Related
-
-- [[access-control|Access control]]
-- [[t_CreateYourOwnReport|Create a report]]
-- [[list-reports|List reports]]

@@ -15,32 +15,22 @@ breadcrumb: [Now Assist in AI Search, ServiceNow Store applications and integrat
 
 # Configuring Now Assist in AI Search
 
-As an administrator or search administrator, you can configure settings to control the behavior of [[now-assist-ais|Now Assist in AI Search]].
+As an administrator or search administrator, you can configure settings to control the behavior of Now Assist in AI Search.
 
 -   **[Enable Now Assist Genius Results in AI Search portals and mobile applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/enable-now-assist-gr-ais-apps.md)**  
-Specify the Now Assist Genius Result types you want to make available in each of your [[ia-ai-search|AI Search]] portals and mobile applications.
+Specify the Now Assist Genius Result types you want to make available in each of your AI Search portals and mobile applications.
 -   **[Now Assist Multi-Content Response Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/now-assist-multi-content-qna-genius-results.md)**  
-[[now-assist-multi-content-qna-genius-results|Now Assist Multi-Content Response Genius Results]] enhance search and chat experiences by providing comprehensive answers from multiple sources.
+Now Assist Multi-Content Response Genius Results enhance search and chat experiences by providing comprehensive answers from multiple sources.
 -   **[Now Assist Q&amp;A Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/now-assist-qna-genius-results.md)**  
-[[now-assist-qna-genius-results|Now Assist Q&amp;A Genius Results]] use the Now LLM Service to generate concise, actionable answers from knowledge article [[hs-results|results]] in Service Portal, Virtual Agent, Employee Center, and global searches.
+Now Assist Q&amp;A Genius Results use the Now LLM Service to generate concise, actionable answers from knowledge article results in Service Portal, Virtual Agent, Employee Center, and global searches.
 -   **[External Content Q&amp;A Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/external-content-qna.md)**  
-[[external-content-qna|External Content Q&amp;A Genius Results]] display concise, actionable AI-generated answers derived from documents in your Microsoft SharePoint Online instance.
+External Content Q&amp;A Genius Results display concise, actionable AI-generated answers derived from documents in your Microsoft SharePoint Online instance.
 -   **[Now Assist Actions Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/now-assist-catalog-ordering-gr.md)**  
-[[now-assist-catalog-ordering-gr|Now Assist Actions Genius Results]] display actionable answers showing Catalog Items and Virtual Agent topics that match your search query. AI Search matches records based on their similarity to your search's intent and meaning instead of looking for exact term matches.
+Now Assist Actions Genius Results display actionable answers showing Catalog Items and Virtual Agent topics that match your search query. AI Search matches records based on their similarity to your search's intent and meaning instead of looking for exact term matches.
 -   **[Configure AI Search as the source for Ask Now Assist suggestions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-ai-search-source-ask-now-assist-suggestions.md)**  
-Enable term highlighting in enhanced chat's Ask Now Assist suggestions by [[configuring-ais|configuring AI Search]] as the source for those suggestions.
+Enable term highlighting in enhanced chat's Ask Now Assist suggestions by configuring AI Search as the source for those suggestions.
 -   **[Hybrid search in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/hybrid-search-ais.md)**  
 In hybrid search mode, AI Search blends keyword search and semantic vector search to find results that best match the terms and meaning of your search.
 
 **Parent Topic:**[Now Assist in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/now-assist-ais.md)
 
-## Related
-
-- [[now-assist-ais|Now Assist in AI Search]]
-- [[ia-ai-search|AI Search]]
-- [[now-assist-multi-content-qna-genius-results|Now Assist Multi-Content Response Genius Results]]
-- [[now-assist-qna-genius-results|Now Assist Q&amp;A Genius Results]]
-- [[hs-results|Results]]
-- [[external-content-qna|External Content Q&amp;A Genius Results]]
-- [[now-assist-catalog-ordering-gr|Now Assist Actions Genius Results]]
-- [[configuring-ais|Configuring AI Search]]

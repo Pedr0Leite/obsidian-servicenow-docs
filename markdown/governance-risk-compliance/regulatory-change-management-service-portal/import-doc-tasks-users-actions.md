@@ -14,7 +14,7 @@ breadcrumb: [Source document import tasks, Regulatory Change Management Core UI,
 
 # Users, associated actions, and states for the source document import tasks
 
-Managers with the sn\_grc\_reg\_change.manager role and the users with the sn\_grc\_reg\_change.user, or sn\_grc\_reg\_change.admin role can view and perform certain actions on the [[source-doc-import-task|source document import tasks]].
+Managers with the sn\_grc\_reg\_change.manager role and the users with the sn\_grc\_reg\_change.user, or sn\_grc\_reg\_change.admin role can view and perform certain actions on the source document import tasks.
 
 ## Views and actions available to managers
 
@@ -69,6 +69,3 @@ If the alert is marked as applicable, and if the source document task created as
 
 **Parent Topic:**[Source document import tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/source-doc-import-task.md)
 
-## Related
-
-- [[source-doc-import-task|Source document import tasks]]

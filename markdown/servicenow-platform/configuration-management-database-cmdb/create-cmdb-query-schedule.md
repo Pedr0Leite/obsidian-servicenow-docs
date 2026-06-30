@@ -14,11 +14,11 @@ breadcrumb: [CMDB Query Builder, Configuration Management Database \(CMDB\), Con
 
 # Schedule a CMDB query
 
-Schedule a saved CMDB query to run once at a scheduled time or on a recurring schedule, and to [[email|email]] the query results to specified users.
+Schedule a saved CMDB query to run once at a scheduled time or on a recurring schedule, and to email the query results to specified users.
 
 ## Before you begin
 
-A saved CMDB query that was built in the [[cmdb-query-builder-landing-page|CMDB Query Builder]] must exist.
+A saved CMDB query that was built in the CMDB Query Builder must exist.
 
 Role required: cmdb\_query\_builder
 
@@ -158,8 +158,3 @@ File format to use for the query results.**Note:** [Configure the form layout](h
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[email|Email]]
-- [[cmdb-query-builder-landing-page|CMDB Query Builder]]

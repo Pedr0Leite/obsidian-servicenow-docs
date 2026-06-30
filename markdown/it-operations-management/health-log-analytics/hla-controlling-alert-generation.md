@@ -15,7 +15,7 @@ breadcrumb: [Health Log Analytics, ITOM AIOps, IT Operations Management]
 
 # Controlling Health Log Analytics alert generation, prioritization, and anomaly detection
 
-Influence how [[hla-landing-page|Health Log Analytics]] generates and prioritizes alerts and identifies anomalies. Use alert filters to reduce noise from unimportant issues.
+Influence how Health Log Analytics generates and prioritizes alerts and identifies anomalies. Use alert filters to reduce noise from unimportant issues.
 
 ## Overview of impacting alert generation, prioritization, and anomaly detection
 
@@ -37,6 +37,4 @@ Explore how to influence alert generation and anomaly detection in Health Log An
 
     Use advanced log alert filters to reduce noise by making Health Log Analytics drop alerts that don't indicate a significant issue.
 
-## Related
 
-- [[hla-landing-page|Health Log Analytics]]

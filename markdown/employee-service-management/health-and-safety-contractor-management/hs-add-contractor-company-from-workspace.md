@@ -14,7 +14,7 @@ breadcrumb: [Manage contractors, Health and Safety Contractor Management, Health
 
 # Add a contractor company from Health and Safety Workspace
 
-Add a contractor company to prequalify it and its workers. You can then manage the contractor workers from this company for their [[health-safety-overview|health and safety]].
+Add a contractor company to prequalify it and its workers. You can then manage the contractor workers from this company for their health and safety.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_hs\_crm.contractor\_coordinator and nds\_admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Health and Safety Workspace**.
 
 2.  Select the contractor management icon \(\[Omitted image "icon-contractor-mgmt.png"\] Alt text: Contractor management icon\) to open the **Contractor Management** tab.
 
@@ -111,7 +111,3 @@ For more information, see [Assign Health and Safety profile to a contractor work
 
 -   If necessary, add attachments related to the company using the add attachments icon \(\[Omitted image "icon-add-attachment.png"\] Alt text: Add attachment icon.\).
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]

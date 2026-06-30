@@ -22,7 +22,7 @@ Role required: sn\_communities.community\_user
 
 ## About this task
 
-The [[servicenow-communities|Communities]] application separates the notion of subscriptions from notifications. It is possible to subscribe to an item and disable notifications. You can also turn off all notifications.
+The Communities application separates the notion of subscriptions from notifications. It is possible to subscribe to an item and disable notifications. You can also turn off all notifications.
 
 ## Procedure
 
@@ -50,6 +50,3 @@ The [[servicenow-communities|Communities]] application separates the notion of s
 
 [Subscribe to content]()
 
-## Related
-
-- [[servicenow-communities|Communities]]

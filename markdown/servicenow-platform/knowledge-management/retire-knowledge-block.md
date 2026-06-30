@@ -22,7 +22,7 @@ Role required: user must have contributor access to the knowledge base.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Knowledge** &gt; **[[knowledge-blocks|Knowledge Blocks]]** &gt; **Published**.
+1.  Navigate to **All** &gt; **Knowledge** &gt; **Knowledge Blocks** &gt; **Published**.
 
 2.  Open the applicable record.
 
@@ -40,6 +40,3 @@ The retired knowledge block is no longer visible in the article.
 
 **Parent Topic:**[Create a knowledge block](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/create-modify-knowledge-block.md)
 
-## Related
-
-- [[knowledge-blocks|Knowledge blocks]]

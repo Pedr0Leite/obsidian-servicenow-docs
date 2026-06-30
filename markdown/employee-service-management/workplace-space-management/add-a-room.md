@@ -24,7 +24,7 @@ Role required: sn\_wsd\_core.admin and sn\_wsd\_spcmgmt.manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-safety-mgmt-hr|Workplace Core]]** &gt; **Space Administration**.
+1.  Navigate to **All** &gt; **Workplace Core** &gt; **Space Administration**.
 
 2.  Select **Rooms**.
 
@@ -225,7 +225,7 @@ Surface area computed in square feet or square meters.Ability to compute surface
 </td></tr></tbody>
 </table>6.  Select **Create QR code** to generate and print QR codes for this space.
 
-7.  Select **Unlink Space** to unlink a space from [[Indoor-mapping|Indoor Mapping]] map provider.
+7.  Select **Unlink Space** to unlink a space from Indoor Mapping map provider.
 
     For more information about how to link and synchronize Indoor Mapping map data objects with Workplace Indoor Mapping see, [Synchronize Indoor Mapping with Workplace Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/synchronize-ind-mapping-wsd.md).
 
@@ -277,7 +277,7 @@ You can add an allocation if there is none. For more information on how to add a
 
 [Create a Space Recommender rule]()
 
-[Raise a [[space-assistance|space assistance]] request]()
+[Raise a space assistance request]()
 
 [Create a view-by configuration]()
 
@@ -285,8 +285,3 @@ You can add an allocation if there is none. For more information on how to add a
 
 [Reviewing allocation changes]()
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[Indoor-mapping|Indoor Mapping]]
-- [[space-assistance|Space assistance]]

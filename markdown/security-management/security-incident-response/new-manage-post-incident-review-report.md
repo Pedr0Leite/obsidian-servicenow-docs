@@ -44,7 +44,7 @@ The Security Analyst can access the reports using the Post Incident Review tab.
 
     A security analyst can preview and modify the report template configuration. In the current configuration, the security analyst can only modify the timeline filters.
 
-    In case the configuration is modified for the primary report before the security incident is closed, the [[new-post-incident-review-report|post incident review report]] which is attached to the security incident will be updated as per the modifications done by the security analyst. After closure, the analyst will be able to modify the configuration and download the report on the go. However, the attached report would follow the last configuration before closure.
+    In case the configuration is modified for the primary report before the security incident is closed, the post incident review report which is attached to the security incident will be updated as per the modifications done by the security analyst. After closure, the analyst will be able to modify the configuration and download the report on the go. However, the attached report would follow the last configuration before closure.
 
     To Configure/Preview the report, perform the following steps:
 
@@ -57,6 +57,4 @@ The Security Analyst can access the reports using the Post Incident Review tab.
 
 6.  Click **Download** to directly download the report.
 
-## Related
 
-- [[new-post-incident-review-report|Post incident review report]]

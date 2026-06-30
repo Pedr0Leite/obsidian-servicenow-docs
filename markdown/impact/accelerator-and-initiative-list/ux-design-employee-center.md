@@ -14,11 +14,11 @@ breadcrumb: [Architecture Accelerators, Accelerator catalog, View the Initiative
 
 # UX: Design for Employee Center
 
-The UX \([[user-experience-insights|User Experience]]\): Design for Employee Center Accelerator provides UX Design support and guidance to [[io-help|help]] customers get started with Employee Center design.
+The UX \(User Experience\): Design for Employee Center Accelerator provides UX Design support and guidance to help customers get started with Employee Center design.
 
 ## Accelerator overview
 
-UX: Design for Employee Center provides [[impact-landing-page|Impact]] customers with tailored advice on designing the user experience of their Employee Center. We offer valuable insights and recommendations to enhance the usability and effectiveness of their implementation. Additionally, this accelerator equips our customers with essential ServiceNow resources and leading practices guides on how to improve the user experience of their Employee Center. For additional information, see [Employee Center](https://www.servicenow.com/docs/access?context=employee-center-landing-page).
+UX: Design for Employee Center provides Impact customers with tailored advice on designing the user experience of their Employee Center. We offer valuable insights and recommendations to enhance the usability and effectiveness of their implementation. Additionally, this accelerator equips our customers with essential ServiceNow resources and leading practices guides on how to improve the user experience of their Employee Center. For additional information, see [Employee Center](https://www.servicenow.com/docs/access?context=employee-center-landing-page).
 
 ## Package Availability
 
@@ -65,8 +65,3 @@ One or more customer resource is requested. The specific number of resources pro
 
 **Note:** Additional details on supplemental legal terms, prerequisites, specifications, requirements, and exclusions can be found in the [Impact Accelerator Terms Matrix](https://www.servicenow.com/legal/servicenow-impact.html).
 
-## Related
-
-- [[user-experience-insights|User Experience]]
-- [[io-help|Help]]
-- [[impact-landing-page|Impact]]

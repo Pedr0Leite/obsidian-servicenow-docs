@@ -12,29 +12,22 @@ breadcrumb: [Next Experience UI, Configure UIs and portals, Configure user exper
 
 # Using Next Experience UI
 
-Use the [[next-experience-landing-page|Next Experience UI]] to work across platform applications, configurable workspaces, and classic experiences in a single, unified interface.
+Use the Next Experience UI to work across platform applications, configurable workspaces, and classic experiences in a single, unified interface.
 
--   **[[managing-your-favorites|Favorites]]**
+-   **[Favorites](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/managing-your-favorites.md)**
 
     Learn how to manage your favorites in Next Experience.
 
--   **[[set-up-preferences-next-experience|Preferences]]**
+-   **[Preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/set-up-preferences-next-experience.md)**
 
-    Learn how to [[configure-onboarding-modals|configure]] Next Experience preferences.
+    Learn how to configure Next Experience preferences.
 
--   **[[next-experience-keyboard-shortcuts|Keyboard shortcuts]]**
+-   **[Keyboard shortcuts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-keyboard-shortcuts.md)**
 
     Learn about Next Experience keyboard shortcuts.
 
--   **[[follow-records-in-next-experience|Follow records]]**
+-   **[Follow records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/follow-records-in-next-experience.md)**
 
     Learn how to follow records in Next Experience.
 
-## Related
 
-- [[managing-your-favorites|Managing your favorites in Next Experience]]
-- [[set-up-preferences-next-experience|Next Experience preferences]]
-- [[next-experience-keyboard-shortcuts|Next Experience keyboard shortcuts]]
-- [[follow-records-in-next-experience|Follow records using the classic form in Next Experience]]
-- [[next-experience-landing-page|Next Experience UI]]
-- [[configure-onboarding-modals|Configure]]

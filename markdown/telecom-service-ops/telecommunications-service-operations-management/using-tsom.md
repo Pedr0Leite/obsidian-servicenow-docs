@@ -14,7 +14,7 @@ breadcrumb: [Telecommunications Service Operations Management]
 
 # Using Telecommunications Service Operations Management
 
-Leverage [[telecommunications-service-operations-management|Telecommunications Service Operations Management]] \(TSOM\) to proactively monitor telecom services, validate data integrity, and reconcile discrepancies across network inventory and discovery sources. TSOM enables operations teams to maintain an accurate telecom-aware CMDB and act on real-time network insights.
+Leverage Telecommunications Service Operations Management \(TSOM\) to proactively monitor telecom services, validate data integrity, and reconcile discrepancies across network inventory and discovery sources. TSOM enables operations teams to maintain an accurate telecom-aware CMDB and act on real-time network insights.
 
 ## Common operational tasks of TSOM
 
@@ -22,7 +22,7 @@ Once TSOM is configured, you can use its capabilities to:
 
 -   Run Telecom Discrepancy audits: Identify inconsistencies in network relationships and configurations by running certification audits based on discovered data and reconciliation rules.
 -   Validate attribute value mismatches in CMDB 360: Use the Attribute Value Discrepancy feature in CMDB 360 to compare attribute values across different discovery sources and detect conflicts or outdated records.
--   [[using-telecom-discovery-patterns|Use Telecom Discovery Patterns]]: Apply [[exploring-telecom-discovery|Telecom Discovery]] Patterns to accurately discover and populate telecom-specific Configuration Items \(CIs\) and their relationships.
+-   Use Telecom Discovery Patterns: Apply Telecom Discovery Patterns to accurately discover and populate telecom-specific Configuration Items \(CIs\) and their relationships.
 -   Run and verify import jobs from service graph connectors: Manually trigger import schedules \(e.g., for the Nokia Altiplano connector\) to verify that topology and device data is successfully imported into the CMDB and mapped to the correct CI classes.
 
 These tasks help ensure that your telecom network is continuously synchronized, accurate, and operationally visible within ServiceNow.
@@ -36,8 +36,3 @@ The Telecom Discrepancy Audit validates the integrity of configuration items \(C
 -   **[Generate reports for attribute value discrepancies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/use-attribute-value-discrepancy-in-cmdb-360.md)**  
 Use CMDB 360 to generate reports that highlight discrepancies in attribute values between different discovery sources or between a discovery source and the CMDB baseline.
 
-## Related
-
-- [[telecommunications-service-operations-management|Telecommunications Service Operations Management]]
-- [[using-telecom-discovery-patterns|Use Telecom Discovery patterns]]
-- [[exploring-telecom-discovery|Telecom Discovery]]

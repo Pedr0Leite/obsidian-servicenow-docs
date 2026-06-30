@@ -14,7 +14,7 @@ breadcrumb: [Configure agentic workflows, Configure, Now Assist in CM Pro, Contr
 
 # Update the contracts AI agents handler script include
 
-Update the ContractsAIAgentsHelper script include to add the sys\_id of a customized [[cmpro-na-reminder-agentic-wf|Manage contract repository agentic workflow]] to run the agentic workflow autonomously.
+Update the ContractsAIAgentsHelper script include to add the sys\_id of a customized Manage contract repository agentic workflow to run the agentic workflow autonomously.
 
 ## Before you begin
 
@@ -70,6 +70,3 @@ For more information, see [Manage contract repository agentic workflow](https://
 
 [Enable notifications for AI extracted metadata and obligations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-me-agentic-ntf.md)
 
-## Related
-
-- [[cmpro-na-reminder-agentic-wf|Manage contract repository agentic workflow]]

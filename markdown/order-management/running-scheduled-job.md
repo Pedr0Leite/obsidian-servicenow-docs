@@ -12,7 +12,7 @@ breadcrumb: [Asynchronous order processing, Order management, Configure, Sales C
 
 # Configure a scheduled job for asynchronous order creation
 
-Run a scheduled job in the [[explore-order-management|Order Management]] application to create a customer order from the Inbound Queue \[sn\_tmt\_core\_inbound\_queue\] table.
+Run a scheduled job in the Order Management application to create a customer order from the Inbound Queue \[sn\_tmt\_core\_inbound\_queue\] table.
 
 ## Before you begin
 
@@ -34,9 +34,9 @@ You can also use the Create Order UI action on the Inbound Queue table to create
 
 2.  From the Name column, select the **Create records from Inbound Queue table async** scheduled job.
 
-3.  On the form, fill in the [[fields|fields]].
+3.  On the form, fill in the fields.
 
-    For a description of the field values, see [[create-records-from-inbound-queue-table-async-form|Create records from inbound queue table async form]].
+    For a description of the field values, see [Create records from inbound queue table async form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-records-from-inbound-queue-table-async-form.md).
 
 4.  Select **Update**.
 
@@ -45,16 +45,10 @@ You can also use the Create Order UI action on the Inbound Queue table to create
 
 Customer order records are created.
 
-**Parent Topic:**[[asynchronous-order-processing|Asynchronous order processing for large customer and consumer orders]]
+**Parent Topic:**[Asynchronous order processing for large customer and consumer orders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/asynchronous-order-processing.md)
 
 **Related topics**  
 
 
 [Advanced options for scheduled jobs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/advanced-options-for-scheduled-jobs.md)
 
-## Related
-
-- [[create-records-from-inbound-queue-table-async-form|Create records from inbound queue table async form]]
-- [[asynchronous-order-processing|Asynchronous order processing for large customer and consumer orders]]
-- [[explore-order-management|Order management]]
-- [[fields|Fields]]

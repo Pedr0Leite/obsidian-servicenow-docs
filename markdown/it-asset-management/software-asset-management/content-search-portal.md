@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Workspace, Exploring Software Asset Management, Soft
 
 # Content lookup portal for Software Asset Management
 
-The Content lookup portal gives you visibility into the data stored in the Content Library as part of the [[it-asset-management|IT Asset Management]] Content Service via an intuitive user interface.
+The Content lookup portal gives you visibility into the data stored in the Content Library as part of the IT Asset Management Content Service via an intuitive user interface.
 
 The Content Library is a repository of software product names and all additional information such as software product lifecycle dates, discovery maps, and publisher part numbers \(PPNs\). This information is stored in different tables in the Content Library. For more details on the Content Service, see [Software Asset Management Content Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_SAMContentService.md).
 
@@ -24,10 +24,10 @@ The Content lookup portal enables you to do the following:
 
 -   Search for a speciﬁc software publisher, product, Discovery Map, life cycle, and PPN.
 -   View the entire list of software publishers, products, lifecycles, PPNs, and Discovery Maps in the Content Service.
--   View additional details related to software products such as software version, and software [[calculated-lifecycles|product life cycles]].
+-   View additional details related to software products such as software version, and software product life cycles.
 -   View the days remaining for the next content update.
 
-Access the Content lookup portal by navigating to **[[sam-workspace|Software Asset Workspace]]** &gt; **Content lookup**.
+Access the Content lookup portal by navigating to **Software Asset Workspace** &gt; **Content lookup**.
 
 **Note:** After installing the Content library portal application, when you access Content lookup portal for the first time, the charts aren’t populated on the page due to the absence of historical data. To load the charts, execute the Historical Data Collection jobs. For details, see the [Historical Data Collection job](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2229665) article in the Now Support Knowledge Base.
 
@@ -35,14 +35,14 @@ Access the Content lookup portal by navigating to **[[sam-workspace|Software Ass
 
 On the Content lookup portal, you can view the information based on the applications that are installed.
 
--   If only the [[c_SoftwareAssetMgmt|Software Asset Management]] Professional application is installed and you have the sam\_user role, you can view the following tabs showing the data stored in the [[c_SAMContentService|Software Asset Management Content Service]]:
+-   If only the Software Asset Management Professional application is installed and you have the sam\_user role, you can view the following tabs showing the data stored in the Software Asset Management Content Service:
     -   Software Overview
     -   Software Publishers
     -   Software Products
     -   Software DMAPs
     -   Software Lifecycles
     -   Software PPNs
--   If both Software Asset Management Professional and [[ham-landing-page|Hardware Asset Management]] applications are installed and you have both sam\_user and asset roles, you can view both software and hardware content tabs. For more information about the Hardware Asset Management Content lookup portal, see the [Content lookup portal for Hardware Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/content-lookup-ham.md).
+-   If both Software Asset Management Professional and Hardware Asset Management applications are installed and you have both sam\_user and asset roles, you can view both software and hardware content tabs. For more information about the Hardware Asset Management Content lookup portal, see the [Content lookup portal for Hardware Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/content-lookup-ham.md).
 
 The Content lookup portal uses the AI search functionality and helps you to search for a specific software publisher, product, Discovery Maps, life cycles, and PPNs.
 
@@ -108,7 +108,7 @@ Discovery Maps \[samp\_sw\_entitlement\_definition\]
 
 </td><td>
 
-Total number of [[sam-software-discovery|software discovery]] maps stored in the Content Library.Select the number of DMAPs to view the list of Software DMAPs. By default, all active records are populated on the list.
+Total number of software discovery maps stored in the Content Library.Select the number of DMAPs to view the list of Software DMAPs. By default, all active records are populated on the list.
 
 </td></tr><tr><td>
 
@@ -195,12 +195,3 @@ View a list of life cycle records of software products released in the Content L
 
 View a list of software publisher part numbers released in the Content Library. On the Software PPNs list, only active PPNs are displayed with a default filter condition applied. Select the publisher's part number to view the software part number details.
 
-## Related
-
-- [[it-asset-management|IT Asset Management]]
-- [[calculated-lifecycles|Product life cycles]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[c_SAMContentService|Software Asset Management Content Service]]
-- [[ham-landing-page|Hardware Asset Management]]
-- [[sam-software-discovery|Software discovery]]

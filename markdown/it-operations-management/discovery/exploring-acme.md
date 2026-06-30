@@ -14,7 +14,7 @@ breadcrumb: [Automated Certificate Management Environment, Certificate Inventory
 
 # Exploring ACME
 
-The [[automated-certificate-management-environment_0|Automated Certificate Management Environment]] \(ACME\) is a communication protocol that automates the interaction between a certificate authority \(CA\) and a server. It streamlines the processes of requesting, renewing, and revoking SSL/TLS certificates.
+The Automated Certificate Management Environment \(ACME\) is a communication protocol that automates the interaction between a certificate authority \(CA\) and a server. It streamlines the processes of requesting, renewing, and revoking SSL/TLS certificates.
 
 ## ACME overview
 
@@ -30,6 +30,3 @@ During requesting, renewing, or revoking SSL/TLS certificates, ACME offers signi
 -   It helps verify that the certificates are valid and up-to-date.
 -   It eliminates the need for manual certificate management tasks, reducing overall costs.
 
-## Related
-
-- [[automated-certificate-management-environment_0|Automated Certificate Management Environment]]

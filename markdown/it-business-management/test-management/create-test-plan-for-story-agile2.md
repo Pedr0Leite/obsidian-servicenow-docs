@@ -14,21 +14,21 @@ breadcrumb: [Sprint testing, Test Management 2.0, Test Management applications, 
 
 # Create a test for a story
 
-[[t_CreateATest|Create a test]] from the Sprint Tracking view to automatically link it to a story and track whether the story meets its acceptance criteria.
+Create a test from the Sprint Tracking view to automatically link it to a story and track whether the story meets its acceptance criteria.
 
 ## Before you begin
 
 -   Role required: scrum\_user or scrum\_admin
--   You can create a test from the List view only when [[agile-landing-page|Agile Development 2.0]] is installed along with [[test-management2-landing-page|Test Management 2.0]].
+-   You can create a test from the List view only when Agile Development 2.0 is installed along with Test Management 2.0.
 -   You must be a member of an agile group.
 
 ## About this task
 
-Create a test, add steps to the test, and create and maintain different versions of the test. A test is a collection of conditions or steps used to determine whether a story is working correctly. A test can also include an expected result, which determines whether the test passes or fails. When you create a test from the **Sprint Tracking** view, the test is automatically linked to the story displayed in that row. To confirm the link after creation, open the story record and locate the **[[c_Tests|Tests]]** related list.
+Create a test, add steps to the test, and create and maintain different versions of the test. A test is a collection of conditions or steps used to determine whether a story is working correctly. A test can also include an expected result, which determines whether the test passes or fails. When you create a test from the **Sprint Tracking** view, the test is automatically linked to the story displayed in that row. To confirm the link after creation, open the story record and locate the **Tests** related list.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[agile-development|Agile Development]]** &gt; **Agile Board**.
+1.  Navigate to **All** &gt; **Agile Development** &gt; **Agile Board**.
 
 2.  Click the **Sprint Tracking** tab, and select the **List** view.
 
@@ -186,10 +186,3 @@ Tests created through this workflow are automatically linked to the story. To co
 
 [Run your tests from the List view]()
 
-## Related
-
-- [[t_CreateATest|Create a test]]
-- [[agile-landing-page|Agile Development 2.0]]
-- [[test-management2-landing-page|Test Management 2.0]]
-- [[c_Tests|Tests]]
-- [[agile-development|Agile Development]]

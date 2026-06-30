@@ -14,7 +14,7 @@ breadcrumb: [Explore, Advanced Work Assignment, Manage people and work, Conversa
 
 # Work assignments
 
-After routing [[awa-work-items|work items]] to the appropriate queues and corresponding agent groups, [[awa-application-landing-page|Advanced Work Assignment]] \(AWA\) pushes work to the most qualified agent using the assignment criteria that you specify. Assignment criteria revolve around the type of assignment rule \(most capacity or last assigned\) and whether skills are defined.
+After routing work items to the appropriate queues and corresponding agent groups, Advanced Work Assignment \(AWA\) pushes work to the most qualified agent using the assignment criteria that you specify. Assignment criteria revolve around the type of assignment rule \(most capacity or last assigned\) and whether skills are defined.
 
 Administrators can choose to push work items to agents based on one of these assignment rules:
 
@@ -42,8 +42,8 @@ When an agent is available, AWA:
 
 In AWA, you can enable skill-based assignment and if needed, evaluate skill levels and make skill assignment mandatory \(required\). The basic process for setting up skills involves the following steps:
 
-1.  Identify agents that have specific skills \(for example, a foreign language or expertise in a certain area such as network routers\), and then assign the skills to those agents using the Skills [[management|Management]] feature.
-2.  Make the agents members of the assignment groups for the [[awa-queues|work item queues]] involving those skills.
+1.  Identify agents that have specific skills \(for example, a foreign language or expertise in a certain area such as network routers\), and then assign the skills to those agents using the Skills Management feature.
+2.  Make the agents members of the assignment groups for the work item queues involving those skills.
 3.  Create an assignment rule in AWA that enables skill handling for the specific skills.
 
     If you chose to select the **Evaluate skill level** option while creating the assignment rule, AWA also reviews agents' skill levels prior to assigning the work item to the most qualified agent. If multiple agents have the same number of matching skills, agents with more skills at the sufficient skill level are prioritized over agents with fewer skills at the sufficient level. For example, a chat comes through listing three skills at a high skill level. Agent A and Agent B both have the three skills. Agent A has three skills with the following skill levels: two high and one low. Agent B has three skills with the following skill levels: one high and two low. In this example, Agent A would be the first assignee of the work item because they have more skills with the sufficient skill level than Agent B. Agent B would only be assigned this work item if Agent A rejected the work.
@@ -57,9 +57,3 @@ In AWA, you can enable skill-based assignment and if needed, evaluate skill leve
 
 During work assignment, AWA routes and assigns work items to the Agent Workspace inbox of the most qualified agent based on the agents skills and if applicable, skill level and mandatory skill settings.
 
-## Related
-
-- [[awa-work-items|Work items]]
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[management|Management]]
-- [[awa-queues|Work item queues]]

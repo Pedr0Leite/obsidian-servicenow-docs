@@ -26,7 +26,7 @@ Outages can be tracked using both proactive cases and customer-reported cases.
 
 1.  Open your workspace.
 
-2.  Click **[[migration-lists|Lists]]**.
+2.  Click **Lists**.
 
 3.  Click a proactive case.
 
@@ -34,6 +34,4 @@ Outages can be tracked using both proactive cases and customer-reported cases.
 
     **Note:** If the Outages related list isn't displayed, click **more**.
 
-## Related
 
-- [[migration-lists|Lists]]

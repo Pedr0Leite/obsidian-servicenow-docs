@@ -27,9 +27,5 @@ You cannot reset `glide.sm.default_mode` to **Allow Access** once it has been se
 
 **Note:** By default, the wildcard table ACL rules are the only ACL rules that check for the value of the `glide.sm.default_mode` property. If you want to control other operations with this setting, create your own ACL rules to check for this property value.
 
-To learn more about this property, see [Deny by default with empty ACLs \[Updated in [[sec-center-v2|Security Center]] 1.3\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-security-manager-default-deny.md) in Instance [[sc-hardening|Security Hardening]] Settings.
+To learn more about this property, see [Deny by default with empty ACLs \[Updated in Security Center 1.3\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-security-manager-default-deny.md) in Instance Security Hardening Settings.
 
-## Related
-
-- [[sec-center-v2|Security Center]]
-- [[sc-hardening|Security hardening]]

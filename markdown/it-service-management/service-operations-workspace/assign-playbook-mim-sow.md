@@ -18,7 +18,7 @@ Configure and assign playbooks to manage the major incidents process.
 
 ## Before you begin
 
-The Major [[c_IncidentManagement|Incident Management]] \(MIM\) plugin must be activated in Service Operations Workspace. For more information, see [Activate Major Incident Management in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/install-mim-sow.md).
+The Major Incident Management \(MIM\) plugin must be activated in Service Operations Workspace. For more information, see [Activate Major Incident Management in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/install-mim-sow.md).
 
 Role required: admin
 
@@ -75,7 +75,3 @@ Select the **Process Automation Designer** link in the Create new playbook secti
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_IncidentManagement|Incident Management]]

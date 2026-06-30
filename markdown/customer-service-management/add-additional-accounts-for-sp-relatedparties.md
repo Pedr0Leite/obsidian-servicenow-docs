@@ -12,7 +12,7 @@ breadcrumb: [Adding related parties to a sold product, Using customer access man
 
 # Add additional accounts for the sold product
 
-Add additional accounts or contacts for your business-to-business \(B2B\) or business-to-business-to-consumer \(B2B2C\) [[sold-product|sold products]] by defining the type and responsibility of additional accounts or contacts. Once you add accounts as related parties, all contacts associated with the related party account can access the sold product.
+Add additional accounts or contacts for your business-to-business \(B2B\) or business-to-business-to-consumer \(B2B2C\) sold products by defining the type and responsibility of additional accounts or contacts. Once you add accounts as related parties, all contacts associated with the related party account can access the sold product.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: admin and sn\_customerservice\_manager
 
 ## About this task
 
-The responsibility assigned to the additional accounts that is associated with a sold product gets access to the sold product and the related entities, which include [[installed-products|installed products]], [[install-base-item|install base items]], and cases associated with sold products.
+The responsibility assigned to the additional accounts that is associated with a sold product gets access to the sold product and the related entities, which include installed products, install base items, and cases associated with sold products.
 
 ## Procedure
 
@@ -70,7 +70,7 @@ Responsibility
 
 </td><td>
 
-Access level to the sold product and related information.Additional account with the Authorized Account responsibility requires the sn\_install\_base.sold\_product\_authorized\_contact role to get access to the associated sold product and related entities. For details, see [[r_rolesinstalledwithcustaccessmgmt|Roles installed with customer access management]].
+Access level to the sold product and related information.Additional account with the Authorized Account responsibility requires the sn\_install\_base.sold\_product\_authorized\_contact role to get access to the associated sold product and related entities. For details, see [Roles installed with customer access management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_rolesinstalledwithcustaccessmgmt.md).
 
  **Note:** If the **Responsibility** field is empty, the accounts don't have any access to the sold product and associated case.
 
@@ -87,7 +87,7 @@ Specifies the sequence in which records are displayed, organized according to bu
 
     You can add additional accounts to the B2B sold product.
 
-    **Note:** Added accounts can be from the same account, partner account, or from [[c_ContactRelationships|contact relationships]].
+    **Note:** Added accounts can be from the same account, partner account, or from contact relationships.
 
 
 ## Result
@@ -105,10 +105,3 @@ After additional accounts are added to the sold product with Authorized Account 
 -   While creating a case for a sold product, you can only see the authorized accounts on the account's sold product.
 -   If you choose an account, you can only associate a sold product that you have full access to on the case.
 
-## Related
-
-- [[r_rolesinstalledwithcustaccessmgmt|Roles installed with customer access management]]
-- [[sold-product|Sold products]]
-- [[installed-products|Installed products]]
-- [[install-base-item|Install base items]]
-- [[c_ContactRelationships|Contact relationships]]

@@ -14,9 +14,5 @@ breadcrumb: [Mentoring, Growth Experiences, HR Service Delivery, Employee Servic
 
 # Mentoring reference
 
-[[mentoring-egd-overview|Mentoring]] Talent Development [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
+Mentoring Talent Development Reference
 
-## Related
-
-- [[mentoring-egd-overview|Mentoring]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

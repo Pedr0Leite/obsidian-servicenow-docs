@@ -14,7 +14,7 @@ breadcrumb: [Manually creating and reviewing your network asset instances, Defin
 
 # Define the facility hardware details
 
-Define the facility hardware record to represent power, thermal, network components and their connectivity in a datacenter. By defining the facility records, you can track and manage your network assets in the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+Define the facility hardware record to represent power, thermal, network components and their connectivity in a datacenter. By defining the facility records, you can track and manage your network assets in the Telecommunications Network Inventory application.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ When you create a facility hardware record, it creates a corresponding configura
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then go to **Inventory** &gt; **All Facilities**.
 
@@ -50,7 +50,7 @@ When you create a facility hardware record, it creates a corresponding configura
 
     If you select **Save** without selecting **Set Inventory Attributes**, it creates a CI record but not a Telecommunications Network Inventory CI record.
 
-7.  On the [[ci-attribue-form|TNI CI Attributes form]], fill in the fields.
+7.  On the TNI CI Attributes form, fill in the fields.
 
     To learn more about the Telecommunications Network Inventory attribute fields, see [TNI CI Attributes form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/ci-attribue-form.md).
 
@@ -80,8 +80,3 @@ If you want to establish relationships with the other network assets, enter the 
 
 [Data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/uses-for-network-inventory-data.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[ci-attribue-form|TNI CI Attributes form]]

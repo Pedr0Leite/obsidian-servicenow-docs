@@ -14,7 +14,7 @@ breadcrumb: [Managing tables and indexes, Table admin, Tables and data, Configur
 
 # Deleting custom tables
 
-Administrators can delete [[custom-tables|custom tables]] that are no longer needed. For example, delete a table from an application that is under development because the business requirements change.
+Administrators can delete custom tables that are no longer needed. For example, delete a table from an application that is under development because the business requirements change.
 
 A table is custom if an administrator created it and it is not part of a system upgrade or plugin activation. Custom table names always begins with `u_`, or `x_` for scoped tables.
 
@@ -31,6 +31,3 @@ You may decide to delete all the records on a table without deleting the table i
 
 **Parent Topic:**[Managing tables and indexes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/using-table-administration.md)
 
-## Related
-
-- [[custom-tables|Custom tables]]

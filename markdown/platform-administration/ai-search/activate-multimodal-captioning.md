@@ -20,7 +20,7 @@ Generate descriptive captions for images, tables, charts, and other visual eleme
 
 An administrator must have activated the Platform Multimodal Service plugin on your instance. For details on this procedure, see [Activate the Platform Multimodal Service plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/activate-platform-multimodal-service-plugin.md).
 
-**Note:** An [[ia-ai-search|AI Search]] administrator can select the VLM \(visual learning model\) provider and model used by the Platform Multimodal Service. For details on this process, see [Configure multimodal captioning for AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/configure-multimodal-captioning-for-ai-search.md).
+**Note:** An AI Search administrator can select the VLM \(visual learning model\) provider and model used by the Platform Multimodal Service. For details on this process, see [Configure multimodal captioning for AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/configure-multimodal-captioning-for-ai-search.md).
 
 Role required: ais\_admin
 
@@ -32,7 +32,7 @@ To improve search recall, you can configure the Platform Multimodal Service to a
 
 As an example, an attachment might include an image that yields the generated caption `woman in office`. Searches for `woman` or `office` can match the caption terms. Such searches return the attachment as a search result even if its text doesn't otherwise contain either of those terms.
 
-**Note:** Multimodal captioning is only supported for Knowledge \[kb\_knowledge\] table records from the Knowledge Table indexed source and for content retrieved by [[ext-cont-connectors-landing-page|external content connectors]].
+**Note:** Multimodal captioning is only supported for Knowledge \[kb\_knowledge\] table records from the Knowledge Table indexed source and for content retrieved by external content connectors.
 
 The multimodal captioning feature has been validated and tested for English-language content. For content in other languages, it may function but has not been evaluated for caption quality or accuracy. Multimodal captioning for non-English content is not currently supported.
 
@@ -55,7 +55,7 @@ Multimodal captioning runs as a separate process after text indexing is complete
     -   If no **index\_mms\_attachments** attribute exists, continue with the following steps.
 4.  In the Advanced Configuration related list, select **New**.
 
-5.  On the [[indexed-source-attribute-form-ais|Indexed Source Attribute form]], fill in the following fields.
+5.  On the Indexed Source Attribute form, fill in the following fields.
 
     |Field|Value|
     |-----|-----|
@@ -75,8 +75,3 @@ To make the new indexed source attribute take effect, perform a full table reind
 
 **Parent Topic:**[Indexed source attributes for AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/indexed-source-attributes-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[ext-cont-connectors-landing-page|External Content Connectors]]
-- [[indexed-source-attribute-form-ais|Indexed Source Attribute form]]

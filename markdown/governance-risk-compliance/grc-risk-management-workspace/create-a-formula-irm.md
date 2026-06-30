@@ -28,7 +28,7 @@ When creating a formula, you can utilize functions like maximum, minimum, or ave
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Risk Management** &gt; **[[risk-workspace|Risk Workspace]]** &gt; **Metrics** &gt; **Calculated metric definitions**.
+1.  Navigate to **All** &gt; **Risk Management** &gt; **Risk Workspace** &gt; **Metrics** &gt; **Calculated metric definitions**.
 
 2.  Open the metric definition for which you want to build a formula and select **Build formula** &gt; **Formula builder**.
 
@@ -59,6 +59,3 @@ When creating a formula, you can utilize functions like maximum, minimum, or ave
 
 **Parent Topic:**[Formula building in a calculated metric definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/formula-building-at-metric-definition-and-entity-level-irm.md)
 
-## Related
-
-- [[risk-workspace|risk workspace]]

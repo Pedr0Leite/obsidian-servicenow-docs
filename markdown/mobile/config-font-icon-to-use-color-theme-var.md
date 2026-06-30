@@ -24,7 +24,7 @@ Role required: admin
 
 Theme variables can only be applied to font icons.
 
-You can configure an icon within the work flow of configuring a screen or you can configure an icon by selecting the **Cards &amp; icons** category from the [[mab-concept|Mobile App Builder]] menu. This procedure uses the **Cards &amp; icons** category.
+You can configure an icon within the work flow of configuring a screen or you can configure an icon by selecting the **Cards &amp; icons** category from the Mobile App Builder menu. This procedure uses the **Cards &amp; icons** category.
 
 ## Procedure
 
@@ -34,7 +34,7 @@ You can configure an icon within the work flow of configuring a screen or you ca
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select the **Cards &amp; icons** category, and then select **New**.
 
@@ -76,7 +76,7 @@ Use these icons in the body of cards.
 
 -   `now-mobile-icons-buttons`
 
-These icons are designed to be used for functions. They can be used on buttons that are located on cards or for [[sg-config-quick-actions|quick actions]].
+These icons are designed to be used for functions. They can be used on buttons that are located on cards or for quick actions.
 
 -   `now-mobile-icons-ALPnavbar`
 
@@ -96,7 +96,7 @@ Enter the code that identifies the icon in the font family you want to use. For 
 
 Enter `FontColorVariable` to specify a theme variable for the color of your icon.
 
- This configuration is optional. If you do not specify a color, the default icon color is black. If you want to use a hex color code, see \[link to '[[config-font-type-icons|Configure font type icons]]'\], which contains information about configuring icon color using hex color codes.
+ This configuration is optional. If you do not specify a color, the default icon color is black. If you want to use a hex color code, see \[link to 'Configure font type icons'\], which contains information about configuring icon color using hex color codes.
 
 </td><td>
 
@@ -112,15 +112,9 @@ Enter `Name`
 
 Enter the name listed for the icon in the font family. For example, if you wanted to use the shopping cart icon in the **now-mobile-icons** family, you would enter `Cart`.
 
- For lists of font family icons names, see the [[mobile-icon-reference|Mobile icon reference]].
+ For lists of font family icons names, see the [Mobile icon reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-icon-reference.md).
 
 </td></tr></tbody>
 </table>8.  Select **Save**.
 
-## Related
 
-- [[mobile-icon-reference|Mobile icon reference]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]
-- [[sg-config-quick-actions|Quick actions]]
-- [[config-font-type-icons|Configure font type icons]]

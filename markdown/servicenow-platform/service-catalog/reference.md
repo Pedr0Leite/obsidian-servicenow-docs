@@ -14,7 +14,7 @@ breadcrumb: [Types of service catalog variables, Service catalog variables, Serv
 
 # Reference
 
-A reference variable [[reference-document-management|references]] a record in another table. For example, a variable named point\_of\_contact references the User \[sys\_user\] table.
+A reference variable references a record in another table. For example, a variable named point\_of\_contact references the User \[sys\_user\] table.
 
 For attributes supported by this variable, see [variable attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/variable-attributes.md).
 
@@ -86,6 +86,3 @@ current.variables.<variable name>.getDisplayValue()
 
 [Variable support in various channels]()
 
-## Related
-
-- [[reference-document-management|References]]

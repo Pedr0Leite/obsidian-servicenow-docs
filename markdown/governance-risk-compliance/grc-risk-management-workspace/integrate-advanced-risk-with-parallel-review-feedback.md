@@ -18,7 +18,7 @@ Learn how to use the Review and feedback workflow to enable the 2nd and 3rd line
 
 ## Overview of Parallel Review and Feedback
 
-The Parallel Review and Feedback in the Advanced Risk application helps in collaboration and engagement across different lines of management within an organization. The workflow enables the 2nd and 3rd line managers, such as Operational, IT, and Business Risk Managers, to provide feedback on records or fields in the records. For example, a risk manager can provide feedback by requesting a root cause analysis at the field level of the risk event. Alternatively, they may request the risk event owner to provide details of additional loss entries at the record level for the same risk event. Risk managers can [[create-feedback|create feedback]] on records available on the ServiceNow table and external records.
+The Parallel Review and Feedback in the Advanced Risk application helps in collaboration and engagement across different lines of management within an organization. The workflow enables the 2nd and 3rd line managers, such as Operational, IT, and Business Risk Managers, to provide feedback on records or fields in the records. For example, a risk manager can provide feedback by requesting a root cause analysis at the field level of the risk event. Alternatively, they may request the risk event owner to provide details of additional loss entries at the record level for the same risk event. Risk managers can create feedback on records available on the ServiceNow table and external records.
 
 ## Benefits of Parallel Review and Feedback
 
@@ -37,7 +37,7 @@ The Parallel Review and Feedback application enables you to do the following:
 -   **[Parallel Review and Feedback workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/review-feedback-workflow.md)**  
 The Parallel Review and Feedback workflow outlines the systematic process by which the solution facilitates the submission of feedback on a record or specific fields within a record. Feedback could be related to any improvement or recommendation at a record level, such as data integrity, compliance, and operational procedures.
 -   **[Feedback dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/feedback-dashboard.md)**  
-Use the [[feedback-dashboard|Feedback dashboard]] to track and manage feedback using the [[risk-workspace|Risk Workspace]]. The Feedback dashboard organizes feedback according to its status, importance, type, and other specific [[factors|factors]].
+Use the Feedback dashboard to track and manage feedback using the Risk Workspace. The Feedback dashboard organizes feedback according to its status, importance, type, and other specific factors.
 -   **[Configure a feedback integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/configure-feedback-integration.md)**  
 Configure a feedback integration setup in the Advanced Risk application to define the table on which you want to use Parallel Review and Feedback. This setup enables you to define the workspace, reviewer, and respondent for creating feedback on the table records.
 -   **[Create feedback in Advanced Risk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/create-a-feedback-risk.md)**  
@@ -53,9 +53,3 @@ When you integrate Parallel Review and Feedback with other applications, users m
 
 **Parent Topic:**[Using the Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/using-risk-workspace.md)
 
-## Related
-
-- [[create-feedback|create feedback]]
-- [[feedback-dashboard|feedback dashboard]]
-- [[risk-workspace|risk workspace]]
-- [[factors|factors]]

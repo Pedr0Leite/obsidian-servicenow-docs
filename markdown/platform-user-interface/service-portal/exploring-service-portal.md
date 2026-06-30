@@ -14,7 +14,7 @@ breadcrumb: [Service Portal, Configure UIs and portals, Configure user experienc
 
 # Exploring Service Portal
 
-Whether you're adapting a base system portal or developing a custom portal, learn more about the available features that help you provide a self-[[c_ServicePortal|service portal]] that drives productivity and satisfaction for your employees or customers.
+Whether you're adapting a base system portal or developing a custom portal, learn more about the available features that help you provide a self-service portal that drives productivity and satisfaction for your employees or customers.
 
 ## Benefits
 
@@ -114,6 +114,3 @@ Service Portal is an alternative presentation layer for the platform. As such, n
 
 **Parent Topic:**[Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ServicePortal.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]

@@ -13,7 +13,7 @@ breadcrumb: [Finance and Supply Chain workflows, Finance and Supply Chain]
 
 # Supply chain transformation with Finance and Supply Chain workflows
 
-ServiceNow [[finance-supply-chain-workflows|Finance and Supply Chain workflows]] support supply chain transformation by standardizing, automating, and connecting sourcing, procurement, payment, and [[supplier|supplier]] collaboration processes across organizations.
+ServiceNow Finance and Supply Chain workflows support supply chain transformation by standardizing, automating, and connecting sourcing, procurement, payment, and supplier collaboration processes across organizations.
 
 Organizations are transforming supply chain operations to improve resilience, visibility, and efficiency across sourcing, procurement, payments, and supplier collaboration.
 
@@ -36,7 +36,7 @@ Together, these products help organizations:
 
 Products within Finance and Supply Chain workflows support different supply chain stages.
 
-**Note:** [[source-to-pay-operations-overview|Source-to-Pay Operations]] is a product suite that includes [[psm-overview|Sourcing and Procurement Operations]], [[supp-mgmt-landing-page|Supplier Lifecycle Operations]], and [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] to support end-to-end procurement and payment processes. These products include capabilities such as ERP integration, a supplier portal, and task orchestration across procurement, finance, and supplier teams.
+**Note:** Source-to-Pay Operations is a product suite that includes Sourcing and Procurement Operations, Supplier Lifecycle Operations, and Accounts Payable Operations to support end-to-end procurement and payment processes. These products include capabilities such as ERP integration, a supplier portal, and task orchestration across procurement, finance, and supplier teams.
 
 |Product|Description|
 |-------|-----------|
@@ -55,11 +55,3 @@ Organizations adopt Finance and Supply Chain workflows based on business goals. 
 
 Together, these products enable a connected, workflow-driven approach to supply chain transformation.
 
-## Related
-
-- [[finance-supply-chain-workflows|Finance and Supply Chain workflows]]
-- [[supplier|Supplier]]
-- [[source-to-pay-operations-overview|Source-to-Pay Operations]]
-- [[psm-overview|Sourcing and Procurement Operations]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]

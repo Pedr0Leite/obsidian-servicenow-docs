@@ -26,7 +26,7 @@ The PPM Standard \(com.snc.financial\_planning\_pmo\) plugin must be installed t
 
 ## Procedure
 
-1.  Navigate to **[[sam-workspace|Software Asset Workspace]]** &gt; **Overlapping usage**.
+1.  Navigate to **Software Asset Workspace** &gt; **Overlapping usage**.
 
 2.  Select the **Application feature usage** tab.
 
@@ -147,11 +147,7 @@ The demand requirement for the demand is created. You can view the created deman
 
 ## What to do next
 
-To view all [[c_SoftwareAssetMgmt|Software Asset Management]] demand requirements, navigate to **Software Asset** &gt; **Software Asset Demand** &gt; **Demand Requirements**.
+To view all Software Asset Management demand requirements, navigate to **Software Asset** &gt; **Software Asset Demand** &gt; **Demand Requirements**.
 
 **Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/using-sam-workspace.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

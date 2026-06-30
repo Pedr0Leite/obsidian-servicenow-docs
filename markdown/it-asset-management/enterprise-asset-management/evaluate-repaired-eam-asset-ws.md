@@ -14,7 +14,7 @@ breadcrumb: [Fulfill repair orders manually, Fulfilling repair orders in the Ent
 
 # Evaluate the repaired asset in the Enterprise Asset Workspace
 
-[[evaluate-asset|Evaluate the repaired asset]] and confirm if the asset is redeployable or should be disposed of. The Repair flow completes after the repaired asset is evaluated.
+Evaluate the repaired asset and confirm if the asset is redeployable or should be disposed of. The Repair flow completes after the repaired asset is evaluated.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_eam.enterprise\_asset\_technician
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Inventory**.
+1.  Navigate to **Workspaces** &gt; **Enterprise Asset Workspace** &gt; **Inventory**.
 
 2.  Select the **Repair orders** tab.
 
@@ -87,7 +87,3 @@ Role required: sn\_eam.enterprise\_asset\_technician
 
 [Cancel a repair order line in the Enterprise Asset Workspace]()
 
-## Related
-
-- [[evaluate-asset|Evaluate the repaired asset]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]

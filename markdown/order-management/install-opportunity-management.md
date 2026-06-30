@@ -28,7 +28,7 @@ The following items are installed with Opportunity Management:
 -   Roles
 -   Tables
 
-For more information, see [[components-installed-opportunity-management|Components installed with Opportunity Management]].
+For more information, see [Components installed with Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/components-installed-opportunity-management.md).
 
 ## Procedure
 
@@ -48,7 +48,7 @@ For more information, see [[components-installed-opportunity-management|Componen
 
 5.  If demo data is available and you want to install it, select the **Load demo data** check box.
 
-    Demo data are the sample records that describe application features for common [[use-cases|use cases]]. Load the demo data when you first install the application on a development or test instance.
+    Demo data are the sample records that describe application features for common use cases. Load the demo data when you first install the application on a development or test instance.
 
 6.  Select **Install**.
 
@@ -56,13 +56,7 @@ For more information, see [[components-installed-opportunity-management|Componen
 **Related topics**  
 
 
-[[opportunity-mgmt-using|Using Opportunity Management]]
+[Using Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-mgmt-using.md)
 
-[[opportunity-management|Opportunity Management]]
+[Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management.md)
 
-## Related
-
-- [[components-installed-opportunity-management|Components installed with Opportunity Management]]
-- [[opportunity-mgmt-using|Using Opportunity Management]]
-- [[opportunity-management|Opportunity Management]]
-- [[use-cases|Use cases]]

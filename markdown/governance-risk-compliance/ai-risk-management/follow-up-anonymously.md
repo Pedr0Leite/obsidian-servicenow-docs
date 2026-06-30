@@ -19,11 +19,11 @@ After you submit an anonymous report, save the **Report key** and **Report numbe
 
 ## Before you begin
 
-Role required: sn\_ai\_case\_mgmt.ai\_case\_business\_user \(This role is required to access the [[employee-center|Employee Center]]\). No role is required to submit a report directly through the Anonymous Report Center.
+Role required: sn\_ai\_case\_mgmt.ai\_case\_business\_user \(This role is required to access the Employee Center\). No role is required to submit a report directly through the Anonymous Report Center.
 
 ## About this task
 
-You can report anytime, without sharing your name or contact details. Investigators only see the report details, not who submitted it. The AI case is managed as part of [[ai-risk-and-compliance|AI Risk and Compliance]] application and can be viewed in AI Control Tower to support risk and compliance oversight.
+You can report anytime, without sharing your name or contact details. Investigators only see the report details, not who submitted it. The AI case is managed as part of AI Risk and Compliance application and can be viewed in AI Control Tower to support risk and compliance oversight.
 
 After you submitted your anonymous AI case, the system generated a report number and a private report key. You need the report key to check status updates or provide additional information later. If you lose the report key, it can’t be recovered and the case can’t be identified or retrieved on your behalf. You need this information in order to follow up on a case.
 
@@ -58,7 +58,7 @@ Description
 </td><td>
 
 1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
-2.  On the Employee Center landing page, select **Help center** &gt; **Technology services** and then select **[[ai-assets-airc|AI assets]]** from the Technology services topics section.
+2.  On the Employee Center landing page, select **Help center** &gt; **Technology services** and then select **AI assets** from the Technology services topics section.
 3.  Select the **Visit Anonymous Report Center** card.
 4.  Select **Submit a report anonymously**.
 
@@ -70,7 +70,7 @@ Description
     -   Ensure that pop-up blockers or browser extensions aren’t preventing the portal from loading.
     After accessing the Anonymous report center, you are signed out automatically to keep your identity anonymous.
 
-3.  On the [[grc-anonymous-reporting-center|Anonymous Reporting Center]] landing page, select **Follow up on a report**.
+3.  On the Anonymous Reporting Center landing page, select **Follow up on a report**.
 
 4.  Enter the **Report key**, **Report number**, and the **Text verification** characters.
 
@@ -96,9 +96,3 @@ Use the report to add new information or to respond to investigator comments.
 
 [AI cases and inquiries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/airc-cases-inquiries.md)
 
-## Related
-
-- [[employee-center|employee center]]
-- [[ai-risk-and-compliance|AI Risk and Compliance]]
-- [[ai-assets-airc|AI assets]]
-- [[grc-anonymous-reporting-center|Anonymous Reporting Center]]

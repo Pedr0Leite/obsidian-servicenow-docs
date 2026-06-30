@@ -20,7 +20,7 @@ Role required: sn\_sow\_synthetics.synthetics\_viewer, sn\_sow\_synthetics.synth
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]** and select the [[synthetic-monitoring-landing-page|synthetic monitoring]] icon \(\[Omitted image "sys-mon-icon.png"\] Alt text: Synthetic monitoring\).
+1.  Navigate to **All** &gt; **Service Operations Workspace** and select the synthetic monitoring icon \(\[Omitted image "sys-mon-icon.png"\] Alt text: Synthetic monitoring\).
 
 2.  Select a monitor from the list of all monitors.
 
@@ -34,18 +34,12 @@ Role required: sn\_sow\_synthetics.synthetics\_viewer, sn\_sow\_synthetics.synth
     -   To refresh the chars, use the context menu.
 5.  View the status of each test in the **Monitor result history** card.
 
-    To view the details for a test, select its timestamp. For more information about the test details, see [[view-test-details|View test details]].
+    To view the details for a test, select its timestamp. For more information about the test details, see [View test details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/view-test-details.md).
 
-    **Note:** If your monitor uses OAuth and a test fails, see [[troubleshoot-oauth|OAuth issues]].
+    **Note:** If your monitor uses OAuth and a test fails, see [OAuth issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/troubleshoot-oauth.md).
 
-    To view [[view-alerts-for-a-synthetic-monitor|active alerts]] created by the monitor, select the Alert link to open its details.
+    To view [active alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/view-alerts-for-a-synthetic-monitor.md) created by the monitor, select the Alert link to open its details.
 
     **Note:** Filtering the list affects the data displayed in the metric charts.
 
-## Related
 
-- [[view-test-details|View test details]]
-- [[troubleshoot-oauth|OAuth issues]]
-- [[view-alerts-for-a-synthetic-monitor|View alerts for a synthetic monitor]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[synthetic-monitoring-landing-page|Synthetic monitoring]]

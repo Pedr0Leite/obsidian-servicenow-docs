@@ -15,11 +15,11 @@ breadcrumb: [Configure, Contract Management Pro, Legal and Contract Operations, 
 
 # Configure templates for a contract and amendment request in Contract Management Pro
 
-Create contract templates to easily generate Microsoft Word contract documents based on request types in [[cncore-cmpro-landing-page|Contract Management Pro]].
+Create contract templates to easily generate Microsoft Word contract documents based on request types in Contract Management Pro.
 
 The contract template in Contract Management Pro takes a Microsoft Word document that contains content controls as an input. The content marked by the content controls are parsed and used to create clauses and clause variations.
 
-You can add content controls either manually or by using the [[cncore-expl-snc-addin|Microsoft Word add-in for ServiceNow Contracts]]. Use only one method for a single contract template.
+You can add content controls either manually or by using the Microsoft Word add-in for ServiceNow Contracts. Use only one method for a single contract template.
 
 **Note:**
 
@@ -35,14 +35,9 @@ Create contract templates by using Microsoft Word add-in for ServiceNow Contract
 -   **[Create contract template by manually adding content controls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-setup-ct-manual.md)**  
 Create contract templates by adding content controls manually.
 -   **[Publish a contract template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-publish-template.md)**  
-[[cncore-publish-template|Publish a contract template]] to make it available for generating a standard contract document with predefined content when a contract user submits a request.
+Publish a contract template to make it available for generating a standard contract document with predefined content when a contract user submits a request.
 -   **[Configure dynamic clauses for contract templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-clause-and-cv.md)**  
 Enable dynamic customized content in contract templates through clauses that contain clause variations for preset conditions.
 
 **Parent Topic:**[Configuring Contract Management Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-config-cmpro.md)
 
-## Related
-
-- [[cncore-cmpro-landing-page|Contract Management Pro]]
-- [[cncore-expl-snc-addin|Microsoft Word add-in for ServiceNow Contracts]]
-- [[cncore-publish-template|Publish a contract template]]

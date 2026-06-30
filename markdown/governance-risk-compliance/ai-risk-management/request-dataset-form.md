@@ -73,7 +73,7 @@ Description
 
 </td><td>
 
-Brief description of the dataset, its core functionality, and intended use. For example, `The Employee Financial Data dataset contains comprehensive information about employees' financial status, including salary details, bonuses, benefits, and deductions. It may also encompass information on expenses, savings, and investment contributions, providing a holistic view of employees' financial profiles for training [[ai-model-airc|AI models]].`
+Brief description of the dataset, its core functionality, and intended use. For example, `The Employee Financial Data dataset contains comprehensive information about employees' financial status, including salary details, bonuses, benefits, and deductions. It may also encompass information on expenses, savings, and investment contributions, providing a holistic view of employees' financial profiles for training AI models.`
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -109,7 +109,7 @@ Relevant information about the source of the dataset. For example, `The employee
 
 </td></tr><tr><td>
 
-Base [[dataset-airc|datasets]]
+Base datasets
 
 </td><td>
 
@@ -126,7 +126,3 @@ Detailed documentation on dataset's purpose, architecture, performance, and ethi
 </td></tr></tbody>
 </table>**Parent Topic:**[Request a dataset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/request-dataset.md)
 
-## Related
-
-- [[ai-model-airc|AI models]]
-- [[dataset-airc|Datasets]]

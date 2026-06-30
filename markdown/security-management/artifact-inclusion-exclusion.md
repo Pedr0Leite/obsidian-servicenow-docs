@@ -14,12 +14,12 @@ breadcrumb: [Security artifact analysis, Security Case Management, Threat Intell
 
 The lists of supporting artifacts assigned to a case can sometimes get long and there may be instances where you want to remove particular artifacts from a list. Rather than permanently remove the artifacts, you can exclude them from the list and, as needed, return them to the list at a later time.
 
--   **[[exclude-records|Exclude security artifacts from a case]]**  
+-   **[Exclude security artifacts from a case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/exclude-records.md)**  
 You can remove artifacts from the lists of supporting artifacts. They are not permanently removed and can be returned to the case as needed.
--   **[[include-artifacts|Return excluded security artifacts to a case]]**  
+-   **[Return excluded security artifacts to a case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/include-artifacts.md)**  
 After you have excluded artifacts from a list in a case, you can return them to the case you can continue to work on them.
 
-**Parent Topic:**[[sec-artifact-analysis|Security artifact analysis]]
+**Parent Topic:**[Security artifact analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sec-artifact-analysis.md)
 
 **Related topics**  
 
@@ -30,8 +30,3 @@ After you have excluded artifacts from a list in a case, you can return them to 
 
 [Search for security artifacts]()
 
-## Related
-
-- [[exclude-records|Exclude security artifacts from a case]]
-- [[include-artifacts|Return excluded security artifacts to a case]]
-- [[sec-artifact-analysis|Security artifact analysis]]

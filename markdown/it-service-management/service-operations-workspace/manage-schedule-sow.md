@@ -36,7 +36,7 @@ You can:
 
 **Note:**
 
--   If the agent's calendar in [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]] is integrated with their Microsoft Outlook calendar, they can view their shifts, schedules, and events such as meetings, trainings, and time-off in your Microsoft Outlook calendar. For more information, see [Synchronize agent calendar in Workforce Optimization for ITSM with the Microsoft Outlook calendar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/synchronize-microsoft-outlook-wfo-itsm.md).
+-   If the agent's calendar in Workforce Optimization for ITSM is integrated with their Microsoft Outlook calendar, they can view their shifts, schedules, and events such as meetings, trainings, and time-off in your Microsoft Outlook calendar. For more information, see [Synchronize agent calendar in Workforce Optimization for ITSM with the Microsoft Outlook calendar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/synchronize-microsoft-outlook-wfo-itsm.md).
 -   When you create an event of types meeting or training, the logged-in user will always be part of the attendees list and cannot be removed.
 
 ## Procedure
@@ -164,6 +164,3 @@ The start date and time, the end date and time, and the group are automatically 
 
 **Parent Topic:**[Service Operations Workspace - Scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/itsm-sow-workspace-scheduling.md)
 
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]

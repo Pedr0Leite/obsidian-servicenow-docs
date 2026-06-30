@@ -30,7 +30,7 @@ If there's a Customer or Consumer Service Portal for customers, they get a notif
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -49,6 +49,3 @@ A pre-configured email about the case closure is sent to the claim customer.
 
 **Parent Topic:**[Managing payment claims and debit approvals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-payment-operations/managing-payment-claims.md)
 
-## Related
-
-- [[fso-overview|Financial Services]]

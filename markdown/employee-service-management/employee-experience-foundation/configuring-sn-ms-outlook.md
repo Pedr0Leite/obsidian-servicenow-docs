@@ -14,7 +14,7 @@ breadcrumb: [ServiceNow for Microsoft Outlook, Unified Employee Experience, Empl
 
 # Configuring ServiceNow for Microsoft Outlook
 
-Configure [[sn-ms-outlook-integration|ServiceNow for Microsoft Outlook]] to provide employees with seamless self-service without leaving the Outlook client.
+Configure ServiceNow for Microsoft Outlook to provide employees with seamless self-service without leaving the Outlook client.
 
 ## Configuration overview
 
@@ -24,6 +24,3 @@ The following table lists the tasks required to configure ServiceNow for Microso
 |----|-----------|
 |[Configure system properties to update the survey question limit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/configure-survey-question-limit.md)|Update the question limit for a survey displayed in Microsoft Outlook.|
 
-## Related
-
-- [[sn-ms-outlook-integration|ServiceNow for Microsoft Outlook]]

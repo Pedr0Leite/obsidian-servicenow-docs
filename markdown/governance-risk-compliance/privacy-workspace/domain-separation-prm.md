@@ -14,7 +14,7 @@ breadcrumb: [Reference, Privacy Management, Governance, Risk, and Compliance]
 
 # Domain separation in Privacy Management
 
-This is an overview of domain separation and the [[r_WhatIsGRC|Governance, Risk, and Compliance]] application [[privacy-management|Privacy Management]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+This is an overview of domain separation and the Governance, Risk, and Compliance application Privacy Management. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic
 
@@ -33,7 +33,7 @@ For more information on support levels, see [Application support for domain sepa
 Domain separation is best for those customers who:
 
 -   Need to enforce absolute data segregation between business entities \(data separation\).
--   Customize business process definitions and user interfaces for each domain \(delegated [[Administration|administration]]\).
+-   Customize business process definitions and user interfaces for each domain \(delegated administration\).
 -   Maintain some global processes and global reporting in a single instance.
 
 These users can choose to expand or collapse the domain scope to show or hide data from other domains.
@@ -43,7 +43,7 @@ These users can choose to expand or collapse the domain scope to show or hide da
 ## How domain separation works in GRC
 
 -   While GRC supports separation of data, separation of logic and process is not fully supported.
--   Many types of records in GRC are automatically generated through user processes. Entities, controls, risks, indicators, control tests, and [[ropa-record|processing activities]] are all fields that can be generated automatically. For records that are automatically generated \(and for any GRC record that is manually generated\), the domain of the record is the same as the domain of the user responsible for creating or generating the records.
+-   Many types of records in GRC are automatically generated through user processes. Entities, controls, risks, indicators, control tests, and processing activities are all fields that can be generated automatically. For records that are automatically generated \(and for any GRC record that is manually generated\), the domain of the record is the same as the domain of the user responsible for creating or generating the records.
 
     Automatic generation should be kept in mind when working in a domain-separated GRC implementation. Users should be sure that they are creating or generating records at the right domain level so that they are visible to the right set of users.
 
@@ -77,9 +77,3 @@ If you need complete and total separation of all system properties and do not re
 
 **Parent Topic:**[Privacy Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/privacy-mgmt-reference.md)
 
-## Related
-
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]
-- [[privacy-management|privacy management]]
-- [[Administration|Administration]]
-- [[ropa-record|Processing activities]]

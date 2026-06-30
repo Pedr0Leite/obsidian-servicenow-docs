@@ -14,7 +14,7 @@ breadcrumb: [Manage work using Boards, Use, Collaborative Work Management, Strat
 
 # Add tasks to a CWM Board
 
-Start planning work on your Board by adding tasks and assigning them to team members in [[cwm-landing|Collaborative Work Management]] workspace.
+Start planning work on your Board by adding tasks and assigning them to team members in Collaborative Work Management workspace.
 
 ## Before you begin
 
@@ -63,6 +63,3 @@ Use the generative AI capabilities of Now Assist to create tasks from the conten
 
 **Parent Topic:**[Managing work using Boards in CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/cwm-boards.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

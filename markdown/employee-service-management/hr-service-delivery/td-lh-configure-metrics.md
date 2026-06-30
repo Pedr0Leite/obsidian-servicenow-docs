@@ -14,7 +14,7 @@ breadcrumb: [Install and configure, Leader Hub, HR Service Delivery, Employee Se
 
 # Configure metrics for employee engagement
 
-Use the [[td-lh-lhmetricsconfig-form|Leader Hub Metric Configurations table]] to configure metrics for employee engagement with certain applications in the Talent Development suite. The configurable options are applicable to the metrics that appear in the Growth engagement widget and the employee cards on the [[td-lh-org-talent|Org talent page]].
+Use the Leader Hub Metric Configurations table to configure metrics for employee engagement with certain applications in the Talent Development suite. The configurable options are applicable to the metrics that appear in the Growth engagement widget and the employee cards on the Org talent page.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin \[sn\_egd\_lh.admin\]
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[td-lh-landing|Leader Hub]]** &gt; **Leader Hub Metric Configuration**.
+1.  Navigate to **All** &gt; **Leader Hub** &gt; **Leader Hub Metric Configuration**.
 
 2.  Select a record in the list to revise an existing configuration or select **New** to create a configuration.
 
@@ -55,8 +55,8 @@ Role required: admin \[sn\_egd\_lh.admin\]
     |**Aspirations**|of &lt;personnel&gt; have active aspirations|
     |**Growth Plans**|of &lt;personnel&gt; have active growth plans|
     |**Conversations**|of &lt;personnel&gt; have had conversations|
-    |**[[exploring-learning-exp|Learning]]**|of &lt;personnel&gt; have completed courses|
-    |**[[mentoring-egd-overview|Mentoring]]**|of &lt;personnel&gt; are involved in mentorships|
+    |**Learning**|of &lt;personnel&gt; have completed courses|
+    |**Mentoring**|of &lt;personnel&gt; are involved in mentorships|
 
     **Tip:** `<personnel>` represents the role that you specified in the **Metric Calculation Base** field \(i.e., employee, manager, or individual contributor\). The description you enter appears underneath the percentage that is calculated for the employee engagement metric you create. Using the description provided for the Aspirations app, the Growth engagement widget displays the following message: `<percentage>` of `<personnel>` have active aspirations.
 
@@ -75,15 +75,7 @@ Role required: admin \[sn\_egd\_lh.admin\]
 
 ## Result
 
-The employee engagement metric that you configured appears in the Growth engagement widget. The Growth engagement widget appears on the [[td-lh-at-a-glance|At a glance page]].
+The employee engagement metric that you configured appears in the Growth engagement widget. The Growth engagement widget appears on the At a glance page.
 
 **Parent Topic:**[Installing and configuring Leader Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/td-lh-install-config.md)
 
-## Related
-
-- [[td-lh-lhmetricsconfig-form|Leader Hub Metric Configurations table]]
-- [[td-lh-org-talent|Org talent page]]
-- [[td-lh-landing|Leader Hub]]
-- [[exploring-learning-exp|Learning]]
-- [[mentoring-egd-overview|Mentoring]]
-- [[td-lh-at-a-glance|At a glance page]]

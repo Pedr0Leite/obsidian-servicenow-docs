@@ -51,8 +51,5 @@ You can also do the initial configuration of onboarding an external manager thro
 
 ## Result
 
-The system sends an email to the newly onboarded manager that includes a URL to use to log in to Field Service [[field-service-contractor-portal|Contractor Portal]].
+The system sends an email to the newly onboarded manager that includes a URL to use to log in to Field Service Contractor Portal.
 
-## Related
-
-- [[field-service-contractor-portal|Contractor Portal]]

@@ -15,9 +15,5 @@ breadcrumb: [Configuring Cloud Account Management, Cloud Account Management, ITO
 
 # Creating configurations
 
-Setting up the [[cam-landing|Cloud Account Management]] app is a prerequisite task before proceeding to create, suspend, or scan a service account. By [[configuring-cam|configuring Cloud Account Management]], you can ensure that the application is ready to effectively execute account management tasks and deliver the desired results.
+Setting up the Cloud Account Management app is a prerequisite task before proceeding to create, suspend, or scan a service account. By configuring Cloud Account Management, you can ensure that the application is ready to effectively execute account management tasks and deliver the desired results.
 
-## Related
-
-- [[cam-landing|Cloud Account Management]]
-- [[configuring-cam|Configuring Cloud Account Management]]

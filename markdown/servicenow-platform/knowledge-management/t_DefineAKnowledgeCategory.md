@@ -24,7 +24,7 @@ Role required: knowledge\_admin, knowledge\_manager, **CanContribute** access to
 
 Define a hierarchy for categories by creating parent-child relationships. Each hierarchy consists of a top-level category and a structure of subcategories, which are also named the child categories. The category hierarchy is saved in the **Full category** field in the Knowledge Category \[kb\_category\] table.
 
-You can create and [[pace-edit-category|edit categories]] separately for each knowledge base.
+You can create and edit categories separately for each knowledge base.
 
 ## Procedure
 
@@ -48,7 +48,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[label|Label]]
+Label
 
 </td><td>
 
@@ -105,7 +105,3 @@ In addition to using categories defined by a knowledge manager, knowledge contri
 
 [Select a knowledge article category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/t_SelectACategory.md)
 
-## Related
-
-- [[pace-edit-category|Edit categories]]
-- [[label|Label]]

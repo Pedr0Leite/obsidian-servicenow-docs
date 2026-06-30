@@ -26,7 +26,7 @@ Role required: admin
 
     |Option|Navigation|
     |------|----------|
-    |Using left navigation|Navigate to **All** &gt; **[[admin-center-intro|Admin Center]]** &gt; **Upgrade Management** &gt; **Upgrade Preview**.|
+    |Using left navigation|Navigate to **All** &gt; **Admin Center** &gt; **Upgrade Management** &gt; **Upgrade Preview**.|
     |Using Admin tab option|Navigate to **Admin** &gt; **Upgrade Management** &gt; **Upgrade Preview**.|
 
 2.  Select the target version to be previewed.
@@ -99,6 +99,3 @@ Date and time on which the preview completed
 </table>
 **Parent Topic:**[Upgrade Preview tool in Upgrade Console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-upgrade-preview-tool.md)
 
-## Related
-
-- [[admin-center-intro|Admin Center]]

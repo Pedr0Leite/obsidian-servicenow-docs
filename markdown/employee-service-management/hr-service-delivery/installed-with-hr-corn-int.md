@@ -14,7 +14,7 @@ breadcrumb: [Reference, HR Service Delivery Integration with Cornerstone OnDeman
 
 # Components installed with HR Service Delivery Integration with Cornerstone OnDemand
 
-Several types of components are installed with activation of the [[hr-cornerstone-int|HR Service Delivery Integration with Cornerstone OnDemand]] plugin \[sn\_hr\_cornerstone\], including tables and user roles.
+Several types of components are installed with activation of the HR Service Delivery Integration with Cornerstone OnDemand plugin \[sn\_hr\_cornerstone\], including tables and user roles.
 
 ## Roles installed
 
@@ -63,7 +63,7 @@ Details of users mapped from the Cornerstone OnDemand system into the ServiceNow
 
 </td></tr><tr><td>
 
-CSOD [[exploring-learning-exp|Learning]] Object\[sn\_hr\_cornerstone\_lo\]
+CSOD Learning Object\[sn\_hr\_cornerstone\_lo\]
 
 </td><td>
 
@@ -83,7 +83,7 @@ Status of transcripts in the Cornerstone OnDemand system.
 **Related topics**  
 
 
-[Source for [[hr-service-delivery|HR Service Delivery]] Integration with Cornerstone OnDemand]()
+[Source for HR Service Delivery Integration with Cornerstone OnDemand]()
 
 [HR Integration Services for HR Service Delivery Integration with Cornerstone OnDemand]()
 
@@ -95,8 +95,3 @@ Status of transcripts in the Cornerstone OnDemand system.
 
 [Transform maps for HR Service Delivery Integration with Cornerstone OnDemand]()
 
-## Related
-
-- [[hr-cornerstone-int|HR Service Delivery Integration with Cornerstone OnDemand]]
-- [[exploring-learning-exp|Learning]]
-- [[hr-service-delivery|HR Service Delivery]]

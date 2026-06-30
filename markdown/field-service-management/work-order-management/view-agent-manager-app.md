@@ -14,7 +14,7 @@ breadcrumb: [Field Service Manager Mobile, Completing work on mobile, Use, Field
 
 # View agent information
 
-View information related to [[fsm-application-landing-page|Field Service Management]] agents in [[manager-mobile-app|Field Service Manager Mobile]], giving managers the ability to see agent information no matter where they are.
+View information related to Field Service Management agents in Field Service Manager Mobile, giving managers the ability to see agent information no matter where they are.
 
 ## Before you begin
 
@@ -39,7 +39,4 @@ Role required: wm\_manager, sn\_fsm\_tp.fsm\_territory\_resource\_manager
     |**Tap current location**|To see where the agent is currently located.|
     |**Tap agent shift schedule**|To see the schedule assigned to the agent.|
 
-## Related
 
-- [[fsm-application-landing-page|Field Service Management]]
-- [[manager-mobile-app|Field Service Manager Mobile]]

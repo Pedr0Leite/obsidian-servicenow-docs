@@ -14,10 +14,10 @@ breadcrumb: [Journey Accelerator, Employee Journey Management, HR Service Delive
 
 # Journey Accelerator reference
 
-[[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] topics provide additional information about the lists and forms that you use to configure and use [[journey-accelerator-1|Journey Accelerator]] .
+Reference topics provide additional information about the lists and forms that you use to configure and use Journey Accelerator .
 
 -   **[Journey Accelerator task template fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-accelerator/journey-accelerator-task-template.md)**  
-To make a task template, fill in the [[journey-accelerator-task-template|Journey Accelerator task template fields]].
+To make a task template, fill in the Journey Accelerator task template fields.
 -   **[Journey Accelerator Model Task fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-accelerator/ja-model-task-fields.md)**  
 Managers create to-do tasks that are saved as templates. The templates are stored as a Journey Accelerator Model Task.
 -   **[Action plan to-do task fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-accelerator/ja-todo-fields.md)**  
@@ -27,8 +27,3 @@ Several types of components install with the activation of the Journey Accelerat
 
 **Parent Topic:**[Journey Accelerator]()
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[journey-accelerator-1|Journey Accelerator]]
-- [[journey-accelerator-task-template|Journey Accelerator task template fields]]

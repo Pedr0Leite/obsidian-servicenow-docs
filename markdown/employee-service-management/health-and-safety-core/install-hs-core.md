@@ -14,7 +14,7 @@ breadcrumb: [Configure, Health and Safety Core, Health and Safety, Employee Serv
 
 # Install Health and Safety Core
 
-You can install the [[hs-core-landing|Health and Safety Core]] \(sn\_ohs\_im\) if you have an admin role. This data model includes demo data and installs related ServiceNow® Store plugins if they are not already installed.
+You can install the Health and Safety Core \(sn\_ohs\_im\) if you have an admin role. This data model includes demo data and installs related ServiceNow® Store plugins if they are not already installed.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Role required: admin
 
 ## About this task
 
-The following items are installed with [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]]:
+The following items are installed with Health and Safety Incident Management:
 
 -   Plugins
 -   Store applications
@@ -53,7 +53,7 @@ Geo map component
 
 </td><td>
 
-Provides access to enable the map component in the [[health-safety-core-workspace|Health and Safety Workspace]] from the application properties.
+Provides access to enable the map component in the Health and Safety Workspace from the application properties.
 
  To install, see [Activate a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md)
 
@@ -65,17 +65,17 @@ Geolocation plugin
 
 </td><td>
 
-Enables geolocation feature on the [[mobile-employee-experience|Now Mobile app]] and gives access to manual tracking options.
+Enables geolocation feature on the Now Mobile app and gives access to manual tracking options.
 
  For more information, see [Enabling and selecting location tracking options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/location-tracking-enable.md)
 
 </td></tr><tr><td>
 
-[[learning-core_overview|Learning Core]]\[sn\_lc\]
+Learning Core\[sn\_lc\]
 
 </td><td>
 
-Installs Learning Core to enable [[exploring-learning-exp|learning]] content in [[health-safety-overview|Health and Safety]] actions.For more information, see [Configuring Learning Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/configuring-learning-core.md).
+Installs Learning Core to enable learning content in Health and Safety actions.For more information, see [Configuring Learning Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/configuring-learning-core.md).
 
 </td></tr></tbody>
 </table>## Procedure
@@ -122,12 +122,3 @@ Installs Learning Core to enable [[exploring-learning-exp|learning]] content in 
 
 [Migrate existing safety documents to the Document library]()
 
-## Related
-
-- [[hs-core-landing|Health and Safety Core]]
-- [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[mobile-employee-experience|Now Mobile app]]
-- [[learning-core_overview|Learning Core]]
-- [[exploring-learning-exp|Learning]]
-- [[health-safety-overview|Health and Safety]]

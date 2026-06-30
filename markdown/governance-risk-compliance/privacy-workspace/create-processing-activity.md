@@ -25,7 +25,7 @@ Role required: sn\_privacy.analyst \(who owns the processing activity\) or sn\_p
 You can create a processing activity in two ways:
 
 -   Manually create a processing activity for a business application or process that handles personal data.
--   Update a processing activity that was automatically created when a privacy screening assessment determined that personal data is being processed. Screening assessments include automation rules that create [[ropa-record|processing activities]] based on specific responses. To configure automation in your assessment template, refer to [Post-assessment automations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/impact-automation.md).
+-   Update a processing activity that was automatically created when a privacy screening assessment determined that personal data is being processed. Screening assessments include automation rules that create processing activities based on specific responses. To configure automation in your assessment template, refer to [Post-assessment automations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/impact-automation.md).
 
 ## Procedure
 
@@ -45,7 +45,7 @@ Procedure
 
 </td><td>
 
-1.  Navigate to **All** &gt; **[[privacy-management|Privacy Management]]** &gt; **Processing activities** &gt; **All processing activities**.
+1.  Navigate to **All** &gt; **Privacy Management** &gt; **Processing activities** &gt; **All processing activities**.
 2.  Click **New**.
 
 
@@ -293,7 +293,3 @@ Send a privacy assessment to a processing activity owner to collect more informa
 
 **Parent Topic:**[Using Privacy Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/using-privacy-mgmt.md)
 
-## Related
-
-- [[ropa-record|Processing activities]]
-- [[privacy-management|privacy management]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure your Password Reset process, Configuring Password Reset, 
 
 # Calculating the security score for password reset process
 
-The security score of the [[password-reset-landing-page|password reset]] process is a critical metric for the password reset administrators to assess the strength and configuration of the password reset process.
+The security score of the password reset process is a critical metric for the password reset administrators to assess the strength and configuration of the password reset process.
 
 ## Password reset calculation
 
@@ -27,7 +27,7 @@ The password reset process score provides a quantitative measure of how well the
 
 ## Identification score
 
-To increase your identification score, you must enable multiple identification methods. If you’re currently using only one method, such as a username, adding another method like an [[email|email]] can increase your score by approximately five points. Additionally, enabling CAPTCHA adds 10 points to your score and help to prevent the bots from exploiting the password reset flow.
+To increase your identification score, you must enable multiple identification methods. If you’re currently using only one method, such as a username, adding another method like an email can increase your score by approximately five points. Additionally, enabling CAPTCHA adds 10 points to your score and help to prevent the bots from exploiting the password reset flow.
 
 ## Verification score
 
@@ -43,7 +43,7 @@ To optimize your score, enable either the Email/SMS Password Reset URL or auto-g
 
 To maximize your Password Policy Score, enable the Password Policy on the Credential Store if it isn’t active. Implement the Enforce History Policy to prevent users from reusing their last five passwords as defined in the **password\_history\_limit** property. Use a **High** strength password policy and enable the following settings:
 
-**Send password reset process security score notification** is a weekly job that send reminders to the password admin about the score and recommendations to improve the score. An email notification is sent to the Process Owners of all the active processes if **Enable security score notification** option is selected in [[configure-password-reset-form|Password Reset Process form]].
+**Send password reset process security score notification** is a weekly job that send reminders to the password admin about the score and recommendations to improve the score. An email notification is sent to the Process Owners of all the active processes if **Enable security score notification** option is selected in Password Reset Process form.
 
 **Parent Topic:**[Configure your Password Reset process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/t_CreateAPasswordResetProcess.md)
 
@@ -70,8 +70,3 @@ To maximize your Password Policy Score, enable the Password Policy on the Creden
 
 [Configure Google reCAPTCHA for the password reset process]()
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]
-- [[email|Email]]
-- [[configure-password-reset-form|Password Reset Process form]]

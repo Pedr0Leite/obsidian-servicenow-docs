@@ -14,7 +14,7 @@ breadcrumb: [Manage, DevOps Change Velocity, IT Service Management]
 
 # Configure webhooks from the tool record
 
-Configure webhooks from the tool record to send data to [[devops-landing-page-new|DevOps Change Velocity]] after your tool is connected.
+Configure webhooks from the tool record to send data to DevOps Change Velocity after your tool is connected.
 
 ## Before you begin
 
@@ -75,6 +75,3 @@ Configures a webhook with a new token.
 
 **Parent Topic:**[Managing DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/using-devops-change-velocity.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]

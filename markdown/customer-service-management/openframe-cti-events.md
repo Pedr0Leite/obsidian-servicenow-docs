@@ -28,7 +28,7 @@ As a CTI developer, ensure that you subscribe to the following events by using t
 |openframe\_awa\_workitem\_rejected|Events are sent to OpenFrame when a work item is rejected by an agent.|
 |openframe\_agent\_off\_interaction|Events are sent to OpenFrame indicating the presence of an agent on chat as off or available.|
 
-Add and activate an OpenFrame configuration by navigating to **OpenFrame** &gt; **Configurations**. For more information, see [[t_CreateAnOpenFrameConfiguration|Create an OpenFrame configuration]].
+Add and activate an OpenFrame configuration by navigating to **OpenFrame** &gt; **Configurations**. For more information, see [Create an OpenFrame configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/t_CreateAnOpenFrameConfiguration.md).
 
 ## Sample payloads
 
@@ -189,9 +189,5 @@ openframe\_agent\_off\_interaction
 </table>**Related topics**  
 
 
-[[c_OpenFrameOverview|OpenFrame overview]]
+[OpenFrame overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_OpenFrameOverview.md)
 
-## Related
-
-- [[t_CreateAnOpenFrameConfiguration|Create an OpenFrame configuration]]
-- [[c_OpenFrameOverview|OpenFrame overview]]

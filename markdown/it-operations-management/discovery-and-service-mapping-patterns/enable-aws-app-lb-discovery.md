@@ -18,7 +18,7 @@ Enable the **sn\_itom\_pattern.discover\_aws\_app\_pool\_members** MID Server pr
 
 ## Before you begin
 
-Role required: [[r-discovery|discovery]]\_admin
+Role required: discovery\_admin
 
 ## Procedure
 
@@ -40,6 +40,3 @@ Role required: [[r-discovery|discovery]]\_admin
 
 [AWS discovery using patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/data-discovered-aws-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

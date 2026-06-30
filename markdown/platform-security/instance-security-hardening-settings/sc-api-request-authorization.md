@@ -16,9 +16,9 @@ breadcrumb: [API and web service, Hardening settings, Platform Security]
 
 Use the **glide.basicauth.required.api** property to enhance security for basic authorization for incoming REST requests.
 
-If **glide.basicauth.required.api** isn't set to the recommended value of **true**, then [[basic-authentication|Basic Authentication]] on API requests are disabled which leads to unauthenticated access to instance data.
+If **glide.basicauth.required.api** isn't set to the recommended value of **true**, then Basic Authentication on API requests are disabled which leads to unauthenticated access to instance data.
 
-Ensure the property **glide.basicauth.required.api** exists in the [[ca-system-properties|System Properties]] \[sys\_properties\] table and is set to **true**.
+Ensure the property **glide.basicauth.required.api** exists in the System Properties \[sys\_properties\] table and is set to **true**.
 
 **Warning:** This is a safe harbor property, meaning the value can't be altered once it's changed. It is non-revertible.
 
@@ -34,7 +34,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -117,8 +117,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[API and web service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-api-web-service.md)
 
-## Related
-
-- [[basic-authentication|Basic authentication]]
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]

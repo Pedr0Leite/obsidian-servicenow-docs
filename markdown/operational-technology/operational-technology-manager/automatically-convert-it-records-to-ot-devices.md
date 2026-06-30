@@ -14,7 +14,7 @@ breadcrumb: [Use, Operational Technology Manager, Operational Technology]
 
 # Automatically convert your IT records to OT devices
 
-Create a scheduled job that automatically converts your IT hardware to [[operational-technology-overview|Operational Technology]] \(OT\) devices by using the Bulk Update Ruleset for Reassigning IT to OT feature. This scheduled job adds OT entity details to all the IT hardware that you want to convert at once.
+Create a scheduled job that automatically converts your IT hardware to Operational Technology \(OT\) devices by using the Bulk Update Ruleset for Reassigning IT to OT feature. This scheduled job adds OT entity details to all the IT hardware that you want to convert at once.
 
 ## Before you begin
 
@@ -37,7 +37,7 @@ You can also manually convert the IT hardware to the OT devices. For more inform
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]] Admin** &gt; **OT Manager Admin** &gt; **Automated IT OT Bulk Contextualization**.
+1.  Navigate to **All** &gt; **Industrial Workspace Admin** &gt; **OT Manager Admin** &gt; **Automated IT OT Bulk Contextualization**.
 
 2.  Select **New**.
 
@@ -129,7 +129,3 @@ Top-level parent entity, or industrial site, where the device is located or assi
 
 **Parent Topic:**[Using the Operational Technology Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/using-operational-technology-manager.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

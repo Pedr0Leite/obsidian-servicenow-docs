@@ -22,13 +22,13 @@ Role required: it\_project\_manager
 
 ## Procedure
 
-1.  On the [[create-a-project-form|Project form]], select additional actions icon \(\[Omitted image "additional-options.png"\] Alt text: additional actions icon.\) and select **Copy Project**.
+1.  On the Project form, select additional actions icon \(\[Omitted image "additional-options.png"\] Alt text: additional actions icon.\) and select **Copy Project**.
 
 2.  On Copy the selected project modal, enter the **New Project Name**.
 
 3.  Select a **Start date** and select **OK**.
 
-    Copy partial project, which is available from the [[project-task-form|Project Task form]], provides similar functionality. It copies all task or project relationships and children from the selected project and inserts them into the current project. In this case, a new project record is not created.
+    Copy partial project, which is available from the Project Task form, provides similar functionality. It copies all task or project relationships and children from the selected project and inserts them into the current project. In this case, a new project record is not created.
 
 
 ## Result
@@ -57,7 +57,7 @@ Reset or change the default values for copied fields in the new copied partial o
 
 [Create a project cost plan]()
 
-[Recalculating costs of all [[c_ResourcePlans|resource plans]] in a project]()
+[Recalculating costs of all resource plans in a project]()
 
 [Create an expense line]()
 
@@ -91,8 +91,3 @@ Reset or change the default values for copied fields in the new copied partial o
 
 [Change default values of copied project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_ModifyTheCopyProjectUIPage.md)
 
-## Related
-
-- [[create-a-project-form|Project form]]
-- [[project-task-form|Project task form]]
-- [[c_ResourcePlans|Resource plans]]

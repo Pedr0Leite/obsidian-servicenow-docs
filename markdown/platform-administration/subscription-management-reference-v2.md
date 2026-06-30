@@ -12,30 +12,20 @@ breadcrumb: [Subscription Management, Get started, Administer the ServiceNow AI 
 
 # Subscription Management reference
 
-[[reference-email-admin|Reference]] topics provide information about subscription types, meters, and domain separation support.
+Reference topics provide information about subscription types, meters, and domain separation support.
 
--   **[[types-subscription-v2|Types of subscriptions in Subscription Management]]**  
+-   **[Types of subscriptions in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/types-subscription-v2.md)**  
 Subscriptions to ServiceNow applications come in different types. The type of subscription determines the allocation of users, access to applications, and custom application and table entitlements.
--   **[[subscription-form-v2|Subscription form]]**  
+-   **[Subscription form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/subscription-form-v2.md)**  
 The Subscription form contains important information about your subscription.
--   **[[subscription-user-sets-v2|User sets and groups in Subscription Management]]**  
+-   **[User sets and groups in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/subscription-user-sets-v2.md)**  
 Subscription Management uses groups \(previously user sets\) to provide entitlement to sets of users.
--   **[[installed-with-subscription-management|Components installed with Subscription Management]]**  
+-   **[Components installed with Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/installed-with-subscription-management.md)**  
 Several components are installed with activation of the Subscription Management plugin \(com.glide.subscription\_management\), including user roles and tables.
--   **[[subscription-management-roles-v2|Subscription Management roles]]**  
+-   **[Subscription Management roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/subscription-management-roles-v2.md)**  
 Subscription Management is installed with these roles.
--   **[[domain-separation-subscription-mgmt|Domain separation and Subscription Management]]**  
+-   **[Domain separation and Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/domain-separation-subscription-mgmt.md)**  
 Domain separation is supported for Subscription Management. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
-**Parent Topic:**[[subscription-management-landing-page-v2|Subscription Management]]
+**Parent Topic:**[Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/subscription-management-landing-page-v2.md)
 
-## Related
-
-- [[types-subscription-v2|Types of subscriptions in Subscription Management]]
-- [[subscription-form-v2|Subscription form]]
-- [[subscription-user-sets-v2|User sets and groups in Subscription Management]]
-- [[installed-with-subscription-management|Components installed with Subscription Management]]
-- [[subscription-management-roles-v2|Subscription Management roles]]
-- [[domain-separation-subscription-mgmt|Domain separation and Subscription Management]]
-- [[subscription-management-landing-page-v2|Subscription Management]]
-- [[reference-email-admin|Reference]]

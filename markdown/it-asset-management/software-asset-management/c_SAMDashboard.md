@@ -16,10 +16,10 @@ breadcrumb: [Platform Analytics Solution for Software Asset Management classic, 
 
 View true-up costs, optimization results, and compliance trend charts on the Software Asset Management dashboard.
 
-**Note:** The Software Asset Management dashboard is no longer available for new Australia users who have activated the [[c_SoftwareAssetMgmt|Software Asset Management]] Professional \(com.snc.samp\) plugin or upgraded to Australia without activating the Software Asset Management Professional \(com.snc.samp\) plugin prior to Australia.
+**Note:** The Software Asset Management dashboard is no longer available for new Australia users who have activated the Software Asset Management Professional \(com.snc.samp\) plugin or upgraded to Australia without activating the Software Asset Management Professional \(com.snc.samp\) plugin prior to Australia.
 
 -   If you activated the Software Asset Management Professional \(com.snc.samp\) plugin prior to Australia but didn't activate the Workspace plugin \(com.sn\_sam\_workspace\), you have access to this dashboard.
--   If you activated the [[sam-workspace|Software Asset Workspace]] \(sn\_sam\_workspace\) store application after upgrading to Zurich, you won’t be able to access this dashboard from the **Software Asset** navigation menu in your instance. You can however access this dashboard from the **Dashboards** navigation menu.
+-   If you activated the Software Asset Workspace \(sn\_sam\_workspace\) store application after upgrading to Zurich, you won’t be able to access this dashboard from the **Software Asset** navigation menu in your instance. You can however access this dashboard from the **Dashboards** navigation menu.
 
 The Software Asset Management dashboard tab is accessed by navigating to **Software Asset** &gt; **Overview** and selecting **Software Asset Management** from the dashboard list. Select an element within a report to see more information, or add and move widgets as needed.
 
@@ -187,7 +187,3 @@ Compliance analysis consists of time-series data using Performance Analytics to 
 
 **Parent Topic:**[Platform Analytics Solution for Software Asset Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/software-asset-mgmt-content-pack.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-workspace|Software Asset Workspace]]

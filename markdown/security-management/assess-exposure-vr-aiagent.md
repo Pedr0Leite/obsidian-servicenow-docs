@@ -12,7 +12,7 @@ breadcrumb: [Use, Unified Security Exposure Management, Security Operations]
 
 # Assess your vulnerability exposure with generative AI
 
-Chat with an AI agent to help you assess the potential exposure of your configuration items and your business services to [[vulnerabilities|vulnerabilities]].
+Chat with an AI agent to help you assess the potential exposure of your configuration items and your business services to vulnerabilities.
 
 ## Before you begin
 
@@ -40,7 +40,7 @@ Roles required: sn\_vul.vulnerability\_admin or sn\_vul.vulnerability\_analyst
 
 2.  Enter a request in natural language to see if you’re exposed to any recent vulnerabilities, for example, **What are the recent CISA vulnerabilities?**
 
-    Because your entry doesn’t specify a range, the agent by default gathers Cybersecurity and [[threat-intelligence-infrastructure|Infrastructure]] Security Agency \(CISA\) exploitable vulnerability data about your assets and returns information from the last seven days.
+    Because your entry doesn’t specify a range, the agent by default gathers Cybersecurity and Infrastructure Security Agency \(CISA\) exploitable vulnerability data about your assets and returns information from the last seven days.
 
     The Common Vulnerabilities and Exposures \(CVE\) vulnerabilities that impact your assets and have vulnerable items associated with them in your environment are listed.
 
@@ -56,7 +56,7 @@ Roles required: sn\_vul.vulnerability\_admin or sn\_vul.vulnerability\_analyst
 
 5.  Enter **OK**.
 
-6.  Select the link to view the watch topic in the [[vulnerability-manager-workspace-landing-page|Vulnerability Manager workspace]] and view more details as well as the vulnerable items that are associated with the CVE.
+6.  Select the link to view the watch topic in the Vulnerability Manager workspace and view more details as well as the vulnerable items that are associated with the CVE.
 
     The list opens in a new tab in UI16. After reviewing the data, you might decide you want more information about the impact the CVE has on your other assets.
 
@@ -69,11 +69,5 @@ Roles required: sn\_vul.vulnerability\_admin or sn\_vul.vulnerability\_analyst
     Information about the business service includes associated vulnerable items, criticality \(risk\) and the configuration items by class are listed.
 
 
-**Parent Topic:**[[using-unified-security-exposure-management|Using Unified Security Exposure Management]]
+**Parent Topic:**[Using Unified Security Exposure Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/using-unified-security-exposure-management.md)
 
-## Related
-
-- [[using-unified-security-exposure-management|Using Unified Security Exposure Management]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[threat-intelligence-infrastructure|Infrastructure]]
-- [[vulnerability-manager-workspace-landing-page|Vulnerability Manager Workspace]]

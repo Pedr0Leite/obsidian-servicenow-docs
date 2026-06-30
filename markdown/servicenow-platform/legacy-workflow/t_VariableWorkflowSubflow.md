@@ -28,7 +28,7 @@ Role required: workflow\_admin, workflow\_creator, or admin
 
 1.  Prepare the subflow to accept variables from the parent workflow by defining the inputs.
 
-2.  Include the subflow in the parent workflow and [[c_Connect|connect]] the inputs to the parent workflow variables.
+2.  Include the subflow in the parent workflow and connect the inputs to the parent workflow variables.
 
     **Note:** You cannot pass variables to a subflow that runs on the Requested Item \[sc\_req\_item\] table.
 
@@ -51,7 +51,7 @@ All inputs are stored in the Variables \[var\_dictionary\] table.
 
 3.  In the Workflow Inputs window, click **New**.
 
-4.  Populate the record with the definition of the variable, including the column name, the [[label|label]] that is displayed to the user, and the type of field.
+4.  Populate the record with the definition of the variable, including the column name, the label that is displayed to the user, and the type of field.
 
 5.  Click **Submit**.
 
@@ -62,7 +62,7 @@ Use this procedure to add a subflow to a workflow.
 
 ### Procedure
 
-1.  In the [[workflow-editor|Workflow Editor]], open and check out the parent workflow.
+1.  In the Workflow Editor, open and check out the parent workflow.
 
 2.  Drag the subflow from the **Workflows** tab to the parent workflow.
 
@@ -76,8 +76,4 @@ Use this procedure to add a subflow to a workflow.
 
     The workflow triggers the subflow at the appropriate time and passes the variables as indicated by the **Inputs** definition.
 
-## Related
 
-- [[c_Connect|Connect]]
-- [[label|Label]]
-- [[workflow-editor|Workflow editor]]

@@ -18,7 +18,7 @@ This accelerator assesses your current Integrated Risk Management \(IRM\) proces
 
 ## Accelerator Overview
 
-Integrated Risk Management Maturity Assessment provides [[impact-landing-page|Impact]] customers with prescriptive recommendations based on a structured assessment conducted by key stakeholders within the customer’s business.
+Integrated Risk Management Maturity Assessment provides Impact customers with prescriptive recommendations based on a structured assessment conducted by key stakeholders within the customer’s business.
 
 By offering customers a snapshot of their current process maturity and targeted next-step recommendations, this accelerator helps maximize the value of their ServiceNow investment.
 
@@ -36,7 +36,7 @@ By offering customers a snapshot of their current process maturity and targeted 
 
     Your assessment participants are asked to independently fill out a prebuilt IRM Maturity Assessment Questionnaire that asks targeted questions to assess gaps and opportunities with your IRM product.
 
--   **Questionnaire Results Analysis \(time as needed determined by the [[impact-squad|Impact Squad]]\)**
+-   **Questionnaire Results Analysis \(time as needed determined by the Impact Squad\)**
 
     The Impact Squad performs the following:
 
@@ -56,7 +56,7 @@ By offering customers a snapshot of their current process maturity and targeted 
     -   Review the IRM Maturity Assessment report:
     -   -   Present the assessment results
 -   Discuss targeted recommendations
--   Provide a suggested plan and resources to [[io-help|help]] you decide which recommendations to implement
+-   Provide a suggested plan and resources to help you decide which recommendations to implement
 -   **Follow-up Session \(up to 1 hour\)**
     -   Opportunity for Q&amp;A related to the IRM Maturity Assessment
     -   Provide additional guidance on leading practices, as needed
@@ -141,8 +141,3 @@ We request that the IRM Maturity questionnaire is completed by the customer virt
 
 -   ServiceNow is not responsible for implementing the recommendations made based on the IRM Maturity Assessment.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[impact-squad|Impact Squad]]
-- [[io-help|Help]]

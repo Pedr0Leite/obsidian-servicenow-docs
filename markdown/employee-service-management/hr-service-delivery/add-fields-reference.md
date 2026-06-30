@@ -14,7 +14,7 @@ breadcrumb: [Configure, Hiring tab, Hiring Experiences, HR Service Delivery, Emp
 
 # Set up field data on the job requisition request form
 
-Add an entry to the [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] tables to provide the field values in the job requisition request form.
+Add an entry to the reference tables to provide the field values in the job requisition request form.
 
 Add an entry in the respective tables for the following field values to be available on the job requisition request form.
 
@@ -27,6 +27,3 @@ The Office Location field must have the Legal Entity field defined. For more inf
 
 **Parent Topic:**[Configuring Hiring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configuring-hiring-tab.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

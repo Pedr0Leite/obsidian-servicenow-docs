@@ -26,7 +26,7 @@ You may not have a plan ready for a crisis as it strikes suddenly without prior 
 
 1.  Navigate to **Business Continuity** &gt; **Business Continuity Workspace**.
 
-2.  Click the **[[start-crisis-event-in-uib-ws|Start a Crisis Event]]** link in the **Actions** section.
+2.  Click the **Start a Crisis Event** link in the **Actions** section.
 
 3.  On the modal form, fill in the fields.
 
@@ -40,6 +40,4 @@ You may not have a plan ready for a crisis as it strikes suddenly without prior 
 
     The crisis event is created and is in **Pending** state.
 
-## Related
 
-- [[start-crisis-event-in-uib-ws|Start a crisis event]]

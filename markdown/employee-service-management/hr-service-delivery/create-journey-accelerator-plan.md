@@ -14,7 +14,7 @@ breadcrumb: [Create an HR case, Use HR Case Management, Case and Knowledge Manag
 
 # Open an HR case to create a Journey Accelerator action plan
 
-[[journey-accelerator-1|Journey Accelerator]] action plans can be created by opening an HR case with a related lifecycle event.
+Journey Accelerator action plans can be created by opening an HR case with a related lifecycle event.
 
 ## Before you begin
 
@@ -27,18 +27,18 @@ When the Create Journey Accelerator Action Plan template is configured to automa
 When the template is not configured to automatically create Journey Accelerator action plans, a to-do task is created. The task is assigned to the manager \(**Opened for**\) to create a plan. The to-do contains the following information pre-filled in the plan:
 
 -   Who is this plan for \(mapped from the subject person\)
--   Plan type \(mapped from the [[activity-lxp|activity]]\)
+-   Plan type \(mapped from the activity\)
 -   Publish date \(mapped from the activity\)
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **Create New Case**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **Create New Case**.
 
 2.  Enter the name of the new employee in the Search for Employee field.
 
 3.  Fill in the Case Details:
 
-    -   **COE**: `HR [[hr-lifecycle-events-landing-page-1|Lifecycle Events]] Case`
+    -   **COE**: `HR Lifecycle Events Case`
     -   **HR service**: `New Hire Onborading`
     -   **Opened for**: `managers name`
     -   **Subject person**: `new hire name`
@@ -46,7 +46,7 @@ When the template is not configured to automatically create Journey Accelerator 
 
 5.  Review all the fields and make any updates that are needed and click **Ready for Work**.
 
-    A to-do task is created in the managers to-do list in the [[employee-center-landing-page|Employee Center]]. Managers review and publish plans from the Employee Center.
+    A to-do task is created in the managers to-do list in the Employee Center. Managers review and publish plans from the Employee Center.
 
 
 **Parent Topic:**[Create an HR case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/search-hr-case.md)
@@ -56,10 +56,3 @@ When the template is not configured to automatically create Journey Accelerator 
 
 [Working with Journey Accelerator plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-accelerator/working-with-journey-accelerator-plans.md)
 
-## Related
-
-- [[journey-accelerator-1|Journey Accelerator]]
-- [[activity-lxp|Activity]]
-- [[case-management-workspace|Case management]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[employee-center-landing-page|Employee Center]]

@@ -44,7 +44,7 @@ Inventory admin can perform either action. Catalog Manager can export models. Te
 
 The JSON export process operates as a single-stage interaction. When you initiate the Export Hierarchy function from a model or template record, the system identifies the selected record together with all its related and referenced records. The system packages them into a single JSON file. The JSON file is generated as an attachment on the Export request record. After the export status shows Completed, you can download the JSON file from the right sidebar.
 
-You can transfer the downloaded JSON file to the target instance. Load it using the JSON import feature in the [[exploring-network-inventory-workspace|Network Inventory Workspace]]. Importing the JSON on the target instance recreates the model or template along with its complete hierarchy. System ID continuity is preserved between the source and target.
+You can transfer the downloaded JSON file to the target instance. Load it using the JSON import feature in the Network Inventory Workspace. Importing the JSON on the target instance recreates the model or template along with its complete hierarchy. System ID continuity is preserved between the source and target.
 
 This is why JSON export is the recommended path for cross-instance migration. The file contains everything needed for the records to function on the target instance, not just the records themselves.
 
@@ -55,6 +55,3 @@ To learn the step-by-step procedure for exporting a model or template hierarchy 
 
 [Export hierarchy of models and templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/export-hierarchy-of-models-and-template.md)
 
-## Related
-
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]

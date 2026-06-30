@@ -15,13 +15,13 @@ breadcrumb: [Create a Universal Request, Use, Sourcing and Procurement Operation
 
 # Create a procurement case from a Universal Request
 
-When a [[universal-request|Universal Request]] arrives in the [[purch-order-mgmt-ws|Source-to-Pay Workspace]], create a linked procurement case to track and manage the request through fulfillment.
+When a Universal Request arrives in the Source-to-Pay Workspace, create a linked procurement case to track and manage the request through fulfillment.
 
 ## Before you begin
 
 Role required: sn\_uni\_req.routing\_agent and sn\_uni\_req.sensitiveinfo\_agent
 
-The Universal Request for [[source-to-pay-operations-overview|Source-to-Pay Operations]] plugin \(sn\_fsc\_ur\_common\) must be active. To activate the plugin, see [Install Universal Request for Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/install-universal-request-spo.md).
+The Universal Request for Source-to-Pay Operations plugin \(sn\_fsc\_ur\_common\) must be active. To activate the plugin, see [Install Universal Request for Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/install-universal-request-spo.md).
 
 ## Procedure
 
@@ -56,8 +56,3 @@ A procurement case is created and linked to the Universal Request. When the proc
 
 **Parent Topic:**[Create a Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-universal-request-spo.md)
 
-## Related
-
-- [[universal-request|Universal Request]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[source-to-pay-operations-overview|Source-to-Pay Operations]]

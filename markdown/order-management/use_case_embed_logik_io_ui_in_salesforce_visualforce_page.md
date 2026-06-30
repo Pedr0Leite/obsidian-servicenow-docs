@@ -53,7 +53,7 @@ Replace the ellipses in the above JSON with the appropriate values from your CPQ
 
 ## Display the default layout
 
-Sometimes, you may want to display a specific default layout that is not ordered first in the list of Blueprint [[layouts|layouts]]. To designate a specific starting layout with the CPQ configuration page loads, pass "layoutVarName":"&lt;variable name of the layout to show by default&gt;" in the topmost level of the JSON above.
+Sometimes, you may want to display a specific default layout that is not ordered first in the list of Blueprint layouts. To designate a specific starting layout with the CPQ configuration page loads, pass "layoutVarName":"&lt;variable name of the layout to show by default&gt;" in the topmost level of the JSON above.
 
 ## The host VisualForce page
 
@@ -138,9 +138,5 @@ Examples:
 
 To learn more about the easyXDM library used in this topic, see [easy XDM.net](https://easyxdm.net/wp/).
 
-**Parent Topic:**[[use-cases|Use cases]]
+**Parent Topic:**[Use cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/use-cases.md)
 
-## Related
-
-- [[use-cases|Use cases]]
-- [[layouts|Layouts]]

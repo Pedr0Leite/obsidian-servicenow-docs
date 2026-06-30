@@ -18,7 +18,7 @@ Approve or reject Concur expense reports from a Microsoft Outlook email message.
 
 ## Before you begin
 
-The [[x-concur-sa-integration|Approvals hub integration with SAP Concur]] \(sn\_ex\_cnc\) plugin must be installed.
+The Approvals hub integration with SAP Concur \(sn\_ex\_cnc\) plugin must be installed.
 
 Role required: approver\_user
 
@@ -71,7 +71,7 @@ Select **Approve**.
 **Related topics**  
 
 
-[Use the [[employee-center-landing-page|Employee Center]] topic pages]()
+[Use the Employee Center topic pages]()
 
 [Topic managers and contributors for topic page management]()
 
@@ -83,7 +83,7 @@ Select **Approve**.
 
 [Task filters on My tasks]()
 
-[View the [[rfy-ec|Recommended for you]] content]()
+[View the Recommended for you content]()
 
 [Use Employee Center from Zoom]()
 
@@ -101,8 +101,3 @@ Select **Approve**.
 
 [Use Guided Self-Service]()
 
-## Related
-
-- [[x-concur-sa-integration|Approvals hub integration with SAP Concur]]
-- [[employee-center-landing-page|Employee Center]]
-- [[rfy-ec|Recommended for you]]

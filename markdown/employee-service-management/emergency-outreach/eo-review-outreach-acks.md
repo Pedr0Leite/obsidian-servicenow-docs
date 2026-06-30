@@ -22,7 +22,7 @@ Role required: sn\_imt\_checkin.checkin\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **[[emergency-outreach|Emergency Outreach]]** &gt; **View Outreaches** and open the outreach notification to view.
+1.  Navigate to **Emergency Outreach** &gt; **View Outreaches** and open the outreach notification to view.
 
     Responses are listed in the Outreach Acknowledgements related list. As employees respond to the notification, their records are updated with their status and whether they responded by email, mobile, or SMS.
 
@@ -51,6 +51,3 @@ Role required: sn\_imt\_checkin.checkin\_admin or admin
 
 **Parent Topic:**[Emergency Outreach](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/emergency-outreach.md)
 
-## Related
-
-- [[emergency-outreach|Emergency Outreach]]

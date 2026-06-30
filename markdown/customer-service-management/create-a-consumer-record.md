@@ -12,7 +12,7 @@ breadcrumb: [Manage cases, Use, Customer Service Management]
 
 # Create a consumer record
 
-Consumer service agents and managers can create consumer records from the [[c_CustomerServiceManagement|Customer Service Management]] application.
+Consumer service agents and managers can create consumer records from the Customer Service Management application.
 
 ## Before you begin
 
@@ -48,9 +48,5 @@ Role required: One of the following roles:
 **Related topics**  
 
 
-[[create-consumer-address|Create additional consumer addresses]]
+[Create additional consumer addresses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-consumer-address.md)
 
-## Related
-
-- [[create-consumer-address|Create additional consumer addresses]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

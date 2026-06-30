@@ -23,7 +23,7 @@ Integrate with a third-party translation provider of your choice for machine tra
 
 ## About this task
 
-By default [[dynamic-translation|Dynamic Translation]] provides partially preconfigured translator records for several third party services. However, you can also create your own custom integration for a different service provider.
+By default Dynamic Translation provides partially preconfigured translator records for several third party services. However, you can also create your own custom integration for a different service provider.
 
 Custom integrations require you to create subflows for language detection and translation, including actions, in Workflow Studio.
 
@@ -185,7 +185,7 @@ additional\_parameters
 
 </td><td>
 
-Array of additional [[r_DirectJDBCProbeParameters|parameters]]. For example,
+Array of additional parameters. For example,
 
 ```
 [{'parameter_name': 'textType', 'parameter_value': 'html'}]
@@ -236,7 +236,7 @@ Choice
 </td></tr></tbody>
 </table>        **Note:** Ensure that the **Run As** field is set to **User who initiates session** in the flow properties.
 
-2.  [Create a custom translator configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/create-custom-translator.md) for your service provider in the Translator [[clone-configurations-tab|Configurations]] table, and set the record to active.
+2.  [Create a custom translator configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/create-custom-translator.md) for your service provider in the Translator Configurations table, and set the record to active.
 
     When you create the record in the Translator Configurations table, search for the subflows you created in the previous step..
 
@@ -244,7 +244,7 @@ Choice
 
     Refer to your provider's documentation to obtain these tags. For more information about entering the tags, see [Add an Exclusion Provider Pattern](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/dyn-translation-exclusion-provider.md).
 
-4.  [[create-language-code-mapping|Create a language code mapping]] to associate your provider's language codes to ServiceNow language codes.
+4.  Create a language code mapping to associate your provider's language codes to ServiceNow language codes.
 
     For more information, see [Create a language code mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/create-language-code-mapping.md).
 
@@ -258,9 +258,3 @@ Configure Dynamic Translation for a third-party machine translation provider of 
 
 **Parent Topic:**[Integration with other translation services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/integration-with-other-translation-services.md)
 
-## Related
-
-- [[dynamic-translation|Dynamic translation]]
-- [[r_DirectJDBCProbeParameters|Parameters]]
-- [[clone-configurations-tab|Configurations]]
-- [[create-language-code-mapping|Create a language code mapping]]

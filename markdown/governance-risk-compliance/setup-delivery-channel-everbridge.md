@@ -12,7 +12,7 @@ breadcrumb: [Setup steps for emergency notification, Integrating Crisis Manageme
 
 # Import delivery channels from Everbridge
 
-After setting up the connection and credentials with Everbridge, you must [[import-delivery-channels-from-everbridge-uib-ws|import the delivery channels from Everbridge]]. Sending notifications is made easier through these delivery channels.
+After setting up the connection and credentials with Everbridge, you must import the delivery channels from Everbridge. Sending notifications is made easier through these delivery channels.
 
 ## Before you begin
 
@@ -30,6 +30,4 @@ Finding out how to reach or connect with your stakeholders at the time of crisis
 
     All delivery channels are imported from Everbridge successfully. You get a message of confirmation if successful, otherwise an error message.
 
-## Related
 
-- [[import-delivery-channels-from-everbridge-uib-ws|Import the delivery channels from Everbridge]]

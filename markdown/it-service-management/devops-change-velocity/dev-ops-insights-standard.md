@@ -324,7 +324,7 @@ The Operational Stability tab shows:
     Mean time to resolve and daily mean time to resolve.
 
 
-**Note:** You must install the [[SPM2-landing-page|Service Portfolio Management]] Foundation \(com.snc.service\_portfolio\) plugin to see service availability widgets.
+**Note:** You must install the Service Portfolio Management Foundation \(com.snc.service\_portfolio\) plugin to see service availability widgets.
 
 Demo data is also provided for the service availability widgets.
 
@@ -857,6 +857,3 @@ Default number of API calls in the last 30 days.
 </td></tr></tbody>
 </table>**Parent Topic:**[DevOps Change Velocity reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/devops-change-velocity-reference.md)
 
-## Related
-
-- [[SPM2-landing-page|Service Portfolio Management]]

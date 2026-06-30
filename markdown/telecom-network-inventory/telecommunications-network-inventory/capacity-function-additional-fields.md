@@ -14,7 +14,7 @@ breadcrumb: [Reference, Telecommunications Network Inventory]
 
 # Capacity function additional fields
 
-Depending on the option that you selected in the Strategy field, the following fields appear in the [[capacity-function-form|capacity function form]].
+Depending on the option that you selected in the Strategy field, the following fields appear in the capacity function form.
 
 |Field|Description|
 |-----|-----------|
@@ -47,6 +47,3 @@ Depending on the option that you selected in the Strategy field, the following f
 
 [Create capacity function](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-capacity-function.md)
 
-## Related
-
-- [[capacity-function-form|Capacity Function form]]

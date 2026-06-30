@@ -14,7 +14,7 @@ breadcrumb: [Conversational Appointment Booking, Set up self-service, Configure,
 
 # Install Conversational Appointment Booking
 
-Install the [[conv_appt_booking|Conversational Appointment Booking]] application \(sn\_va\_appt\_schedul\) if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they are not already installed.
+Install the Conversational Appointment Booking application \(sn\_va\_appt\_schedul\) if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -73,6 +73,4 @@ For information about plugin activation, see [Activate a plugin](https://raw.git
 
 5.  Select **Install**.
 
-## Related
 
-- [[conv_appt_booking|Conversational Appointment Booking]]

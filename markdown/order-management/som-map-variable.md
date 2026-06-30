@@ -12,11 +12,11 @@ breadcrumb: [Product pricing, Configure, price, quote apps, Configure, Sales Cus
 
 # Map a custom context variable to a transaction entity
 
-Associate a custom pricing context variable to a particular transaction entity type in [[order-mgt-overview|Sales Customer Relationship Management]].
+Associate a custom pricing context variable to a particular transaction entity type in Sales Customer Relationship Management.
 
 ## Before you begin
 
-Verify that you're in the appropriate application scope for the transaction type. For example, if you're mapping a context variable for orders, the application scope is [[explore-order-management|Order Management]]. Use the Globe \[Omitted image "globe-outline-24.svg"\] Alt text: icon in the navigation bar to change the application scope.
+Verify that you're in the appropriate application scope for the transaction type. For example, if you're mapping a context variable for orders, the application scope is Order Management. Use the Globe \[Omitted image "globe-outline-24.svg"\] Alt text: icon in the navigation bar to change the application scope.
 
 Role required: admin
 
@@ -28,7 +28,7 @@ Role required: admin
 
 3.  Select **New**.
 
-4.  In the form, fill in the [[fields|fields]].
+4.  In the form, fill in the fields.
 
     |Field|Description|
     |-----|-----------|
@@ -45,8 +45,3 @@ Role required: admin
 
 The custom context variable is available for use in pricing matrices.
 
-## Related
-
-- [[order-mgt-overview|Sales Customer Relationship Management]]
-- [[explore-order-management|Order management]]
-- [[fields|Fields]]

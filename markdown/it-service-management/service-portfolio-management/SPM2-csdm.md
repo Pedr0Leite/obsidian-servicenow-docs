@@ -14,9 +14,9 @@ breadcrumb: [Configure, Service Portfolio Management, IT Service Management]
 
 # Applying the CSDM guidelines to Service Portfolio Management
 
-Service data relates to each other using different [[dex-workspace-application-tab|applications]] in different ways. [[SPM2-landing-page|Service Portfolio Management]] references the Common Service Data Model \(CSDM\) framework to bring service-related data together in a single view.
+Service data relates to each other using different applications in different ways. Service Portfolio Management references the Common Service Data Model \(CSDM\) framework to bring service-related data together in a single view.
 
-Since both ServiceNow® products of Service Portfolio Management and [[dpm-landing|Digital Portfolio Management]] \(DPM\) closely align with the CSDM, it's helpful to know the common terms and life-cycle fields when working in these applications.
+Since both ServiceNow® products of Service Portfolio Management and Digital Portfolio Management \(DPM\) closely align with the CSDM, it's helpful to know the common terms and life-cycle fields when working in these applications.
 
 **Tip:** For CSDM set-up information, see [Implementing the CSDM framework in stages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/csdm-implementation-stages.md).
 
@@ -117,7 +117,7 @@ A service type that is published to business users and it typically underpins on
 
 </td><td>
 
-Typically orderable by business users. Business users are able to select the desired offering and service commitment levels via the ServiceNow Service Catalog. For example, [[c_Procurement|procurement]], shipping, and finance.
+Typically orderable by business users. Business users are able to select the desired offering and service commitment levels via the ServiceNow Service Catalog. For example, procurement, shipping, and finance.
 
 </td></tr><tr><td>
 
@@ -201,7 +201,7 @@ Defines service delivery obligations agreed to between the consumer and the prov
 
 </td><td>
 
-Often manifested in the form of [[c_Contracts|contracts]] such as service level agreements, operational level agreements, and underpinning contracts. Service commitments include specific performance characteristics that differentiate one offering from another.
+Often manifested in the form of contracts such as service level agreements, operational level agreements, and underpinning contracts. Service commitments include specific performance characteristics that differentiate one offering from another.
 
 </td></tr><tr><td>
 
@@ -237,7 +237,7 @@ An abstract and ideally visual representation \(model\) of how an organization d
 
 </td><td>
 
-Typically represents the various elements of how an organization operates. It usually incorporates strategy positions such as the innovation model, degree of intelligent automation, industry alignment, provider delivery [[c_Models|models]], and the business expectations of IT.
+Typically represents the various elements of how an organization operates. It usually incorporates strategy positions such as the innovation model, degree of intelligent automation, industry alignment, provider delivery models, and the business expectations of IT.
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Configuring Service Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-configuring.md)
@@ -247,11 +247,3 @@ Typically represents the various elements of how an organization operates. It us
 
 [Implementing the CSDM framework in stages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/csdm-implementation-stages.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[SPM2-landing-page|Service Portfolio Management]]
-- [[dpm-landing|Digital Portfolio Management]]
-- [[c_Procurement|Procurement]]
-- [[c_Contracts|Contracts]]
-- [[c_Models|Models]]

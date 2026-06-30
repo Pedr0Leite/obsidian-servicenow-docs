@@ -18,8 +18,8 @@ You can manually create a remediation task from the **Remediation Tasks** module
 
 **Important:** You can create remediation tasks in the:
 
--   [[vulnerability-manager-workspace-landing-page|Vulnerability Manager Workspace]] as a user with the sn\_vulc.admin role.
--   [[it-remediation-workspace-landing-page|IT Remediation Workspace]] as a user with sn\_vulc.remediation\_owner role.
+-   Vulnerability Manager Workspace as a user with the sn\_vulc.admin role.
+-   IT Remediation Workspace as a user with sn\_vulc.remediation\_owner role.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ Role required: sn\_vulc.admin
 
 Using remediation task rules automatically populates the **Test Results** tab. Manual creation is useful for a remediation task that doesn't need a rule or to be repeated.
 
-**Note:** Starting with v14.9 of [[vr-config-compliance-landing|Configuration Compliance]], the following terms have been renamed:
+**Note:** Starting with v14.9 of Configuration Compliance, the following terms have been renamed:
 
 |Terminology prior to v14.9|Terminology v14.9 onwards|
 |--------------------------|-------------------------|
@@ -184,8 +184,4 @@ Work notes related to this remediation task.
 
     \[Omitted image "TestResultGroupRelatedTab.png"\] Alt text: Test result group related tab
 
-## Related
 
-- [[vulnerability-manager-workspace-landing-page|Vulnerability Manager Workspace]]
-- [[it-remediation-workspace-landing-page|IT Remediation Workspace]]
-- [[vr-config-compliance-landing|Configuration Compliance]]

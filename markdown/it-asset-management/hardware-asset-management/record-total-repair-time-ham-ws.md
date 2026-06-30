@@ -26,7 +26,7 @@ You can record the time worked for Troubleshoot asset, Repair asset, and Evaluat
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Inventory**.
+1.  Navigate to **Workspaces** &gt; **Hardware Asset Workspace** &gt; **Inventory**.
 
 2.  Select the **Repair orders** tab.
 
@@ -77,6 +77,3 @@ The actual time you worked on the task completion is automatically calculated. A
 
 [Pause a repair task in the Hardware Asset Workspace]()
 
-## Related
-
-- [[using-ham-workspace|Hardware Asset Workspace]]

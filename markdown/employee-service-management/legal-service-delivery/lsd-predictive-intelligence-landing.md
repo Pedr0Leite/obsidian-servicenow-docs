@@ -14,7 +14,7 @@ breadcrumb: [Integration with ServiceNow applications, Legal Service Delivery, L
 
 # Predictive intelligence for Legal Service Delivery
 
-The Predictive Intelligence for Legal Service Delivery uses machine-[[exploring-learning-exp|learning]] algorithms for the predicting Subcategory and Assignment group for legal requests.
+The Predictive Intelligence for Legal Service Delivery uses machine-learning algorithms for the predicting Subcategory and Assignment group for legal requests.
 
 **Important:** Starting with the Australia release, Predictive intelligence for Legal Service Delivery is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. There is no replacement for this plugin.
 
@@ -36,7 +36,7 @@ For details, see the [Deprecation Process \[KB0867184\]](https://support.service
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about components such as roles, tables, plugins, and store applications that are installed.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-PI-[[reference-hr-service-delivery-advanced-integration-with-workday|reference]]-landing.md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about components such as roles, tables, plugins, and store applications that are installed.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-PI-reference-landing.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -52,12 +52,7 @@ Install and configure the Predictive Intelligence for Legal Service Delivery.
 -   **[Use Predictive Intelligence for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-PI-use-landing.md)**  
 Use the Predictive Intelligence solution to predict and auto populate or view the suggestions for sub-category and assignment group.
 -   **[Predictive Intelligence for Legal Service Delivery reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-PI-reference-landing.md)**  
-Reference topics provide additional information about components installed, the lists and forms that you use in [[lsd-PI-reference-landing|Predictive Intelligence for Legal Service Delivery reference]].
+Reference topics provide additional information about components installed, the lists and forms that you use in Predictive Intelligence for Legal Service Delivery reference.
 
 **Parent Topic:**[Integration of Legal Service Delivery with ServiceNow applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snclc-integrate-lsd-lp.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[lsd-PI-reference-landing|Predictive Intelligence for Legal Service Delivery reference]]

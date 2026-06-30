@@ -14,7 +14,7 @@ breadcrumb: [Collect data from your system devices, ACC deployment - shared betw
 
 # Verify data collection in Agent Client Collector
 
-Collect data by gathering essential information from an agent's host system before executing any checks or policies. This process ensures that the [[acc-landing-page|Agent Client Collector]] has accurate and up-to-date data on the infrastructure, processes, and applications running on the host.
+Collect data by gathering essential information from an agent's host system before executing any checks or policies. This process ensures that the Agent Client Collector has accurate and up-to-date data on the infrastructure, processes, and applications running on the host.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: agent\_client\_collector\_admin
 
 ## About this task
 
-Collected data is stored as Configuration Item \(CI\) data, which serves as a foundation for monitoring, alerts, and [[operational-metrics|Metric Intelligence]] in the ServiceNow® instance.
+Collected data is stored as Configuration Item \(CI\) data, which serves as a foundation for monitoring, alerts, and Metric Intelligence in the ServiceNow® instance.
 
 Before checks and polices can be executed, Agent Client Collector collects data on:
 
@@ -41,7 +41,4 @@ Collected data is stored in the ServiceNow instance in either the CMDB \(Configu
 
     A green Collected icon \[Omitted image "collected-icon.png"\] Alt text: Collected icon indicates successful data collection for the specific agent.
 
-## Related
 
-- [[acc-landing-page|Agent Client Collector]]
-- [[operational-metrics|Metric Intelligence]]

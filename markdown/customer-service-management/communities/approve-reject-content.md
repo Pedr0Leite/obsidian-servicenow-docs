@@ -40,7 +40,7 @@ Each task requires the moderator to approve or reject the reported item. If the 
     |Moderation Notes|Notes entered by the user when reporting the content.|
     |Resolution Notes|Your comment as you moderate the content.|
     |Work Notes|Work notes entered by users working on the task.|
-    |Approve Content|Approve content that conforms to community [[gamification-components-rules|rules]]. The content state changes to Closed Complete.|
+    |Approve Content|Approve content that conforms to community rules. The content state changes to Closed Complete.|
     |Reject Content|Reject content or a profile. The content state changes to Closed Complete and the content is hidden in the community.|
 
     **Note:** You can review the outcome of existing and past moderation tasks by navigating to **Community** &gt; **Moderation** &gt; **Moderation Outcomes**. Click a task to view the details of the moderation task.
@@ -48,6 +48,3 @@ Each task requires the moderator to approve or reject the reported item. If the 
 
 **Parent Topic:**[Moderate a community](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/moderate-communities.md)
 
-## Related
-
-- [[gamification-components-rules|Rules]]

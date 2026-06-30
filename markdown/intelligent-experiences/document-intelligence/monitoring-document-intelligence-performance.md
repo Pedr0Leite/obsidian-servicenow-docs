@@ -14,22 +14,16 @@ breadcrumb: [Document Intelligence, Enable AI experiences]
 
 # Monitoring Document Intelligence performance
 
-Track document extraction performance in [[document-intelligence-landing|Document Intelligence]] to understand its usage and effectiveness.
+Track document extraction performance in Document Intelligence to understand its usage and effectiveness.
 
-**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the [[docintel-nowassist-landing|Now Assist in Document Intelligence]] application. For more information, see [Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/docintel-nowassist-landing.md).
+**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the Now Assist in Document Intelligence application. For more information, see [Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/docintel-nowassist-landing.md).
 
 -   **[View reports on the Document Intelligence Admin home page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/doc-intel-monitor-performance.md)**  
 Monitor document extraction performance in the Admin experience.
 -   **[Document Intelligence monitoring dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/document-intelligence-monitoring-dashboard.md)**  
-Monitor the overall performance of Document Intelligence over time in the [[document-intelligence-monitoring-dashboard|Document Intelligence monitoring dashboard]].
+Monitor the overall performance of Document Intelligence over time in the Document Intelligence monitoring dashboard.
 -   **[Use case performance dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/use-case-performance-dashboard.md)**  
-Monitor Document Intelligence \(DocIntel\) performance at the use case and field levels in the [[use-case-performance-dashboard|use case performance dashboard]].
+Monitor Document Intelligence \(DocIntel\) performance at the use case and field levels in the use case performance dashboard.
 
 **Parent Topic:**[Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/document-intelligence-landing.md)
 
-## Related
-
-- [[document-intelligence-landing|Document Intelligence]]
-- [[docintel-nowassist-landing|Now Assist in Document Intelligence]]
-- [[document-intelligence-monitoring-dashboard|Document Intelligence monitoring dashboard]]
-- [[use-case-performance-dashboard|Use case performance dashboard]]

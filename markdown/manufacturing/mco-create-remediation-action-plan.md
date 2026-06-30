@@ -12,7 +12,7 @@ breadcrumb: [Remediation action plans, Agent management, Use, Manufacturing Comm
 
 # Create a remediation action plan
 
-Create a remediation action plan for [[mco-PQI-use|product quality investigation]] case.
+Create a remediation action plan for product quality investigation case.
 
 ## Before you begin
 
@@ -26,19 +26,13 @@ Role required: admin
 
 3.  On the Remediation Action Plan form, fill in the fields.
 
-    For a description of the field values, see [[mco-remediation-action-plan-form|Remediation action plan form]].
+    For a description of the field values, see [Remediation action plan form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-remediation-action-plan-form.md).
 
 4.  Select **Save**.
 
 
--   **[[mco-related-list-for-remediation-action-plan|Related list for remediation action plan]]**  
+-   **[Related list for remediation action plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-related-list-for-remediation-action-plan.md)**  
 In the workspace, you can use the remediation action-related list to log the information.
 
-**Parent Topic:**[[mco-remediation-action-plans|Remediation action plans]]
+**Parent Topic:**[Remediation action plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-remediation-action-plans.md)
 
-## Related
-
-- [[mco-remediation-action-plan-form|Remediation action plan form]]
-- [[mco-related-list-for-remediation-action-plan|Related list for remediation action plan]]
-- [[mco-remediation-action-plans|Remediation action plans]]
-- [[mco-PQI-use|Product quality investigation]]

@@ -26,7 +26,7 @@ Request a new firewall rule using Service Catalog to manage various IP addresses
 
 ### Before you begin
 
-Ensure that the [[firewall-audit-reporting|Firewall Audits and Reporting]] catalog is enabled.
+Ensure that the Firewall Audits and Reporting catalog is enabled.
 
 Role required: firewall\_admin
 
@@ -67,7 +67,7 @@ To verify the new rule task, navigate to **Rule Requests** &gt; **Rule Requests 
 
 ## Approve firewall requests
 
-Approval of firewall requests gives you controlled access and compliance. Members of the approver group can review and approve [[Firewall-audits|firewall audits]] and new firewall requests.
+Approval of firewall requests gives you controlled access and compliance. Members of the approver group can review and approve firewall audits and new firewall requests.
 
 ### Before you begin
 
@@ -88,13 +88,8 @@ Role required: Members of the specified approver group **approval\_group** speci
     **Note:** The change request is created only if the rule task is **Approved** and in **Close Complete** state.
 
 
-The Firewall rule task security policy M2M corresponds to the related list **Security policies** in **Rule task**. Firewall administrators can add **description** or **tag** fields in a security policy on a Panorama device. They can also add firewall rule task numbers or change request numbers while creating or modifying security policies on Panorama. When the next [[r-discovery|discovery]] runs, the M2M table populates the mapping between:
+The Firewall rule task security policy M2M corresponds to the related list **Security policies** in **Rule task**. Firewall administrators can add **description** or **tag** fields in a security policy on a Panorama device. They can also add firewall rule task numbers or change request numbers while creating or modifying security policies on Panorama. When the next discovery runs, the M2M table populates the mapping between:
 
 -   Firewall rule task and firewall security policy
 -   Firewall security policy and business service if the business service is provided during the Firewall rule task request
 
-## Related
-
-- [[firewall-audit-reporting|Firewall Audits and Reporting]]
-- [[Firewall-audits|Firewall audits]]
-- [[r-discovery|Discovery]]

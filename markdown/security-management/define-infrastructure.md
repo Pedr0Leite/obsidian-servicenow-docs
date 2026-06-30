@@ -20,7 +20,7 @@ Role required: sn\_ti.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[threat-intel-landing-page|Threat Intelligence]]** &gt; **[[ioc-repository|IoC Repository]]** &gt; **Infrastructure**.
+1.  Navigate to **All** &gt; **Threat Intelligence** &gt; **IoC Repository** &gt; **Infrastructure**.
 
 2.  Click **New**.
 
@@ -43,7 +43,7 @@ Role required: sn\_ti.admin
 
 ## What to do next
 
-You can now click any of the following related lists to view additional information. You can also associate [[tisc-other-objects|other objects]] with the infrastructure.
+You can now click any of the following related lists to view additional information. You can also associate other objects with the infrastructure.
 
 <table id="table_zdn_szf_wmb"><thead><tr><th>
 
@@ -55,11 +55,11 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Show [[stix-relationships|Relationships]]
+Show Relationships
 
 </td><td>
 
-Opens the [[stix-visualizer|STIX Visualizer]] where you can view the relationship of the STIX object.Show Relationships appears only when the object has an associated object.
+Opens the STIX Visualizer where you can view the relationship of the STIX object.Show Relationships appears only when the object has an associated object.
 
 </td></tr><tr><td>
 
@@ -87,7 +87,7 @@ Lists kill chain phases associated with this object.
 
 </td></tr><tr><td>
 
-Associated [[c_Observables|Observables]]
+Associated Observables
 
 </td><td>
 
@@ -103,7 +103,7 @@ Lists systems, software services, and any associated physical or virtual resourc
 
 </td></tr><tr><td>
 
-[[threat-intelligence-campaigns|Campaigns]]
+Campaigns
 
 </td><td>
 
@@ -111,15 +111,15 @@ Lists campaigns associated with this object.
 
 </td></tr><tr><td>
 
-[[indicator|Indicators]]
+Indicators
 
 </td><td>
 
-Lists related [[c_IoCs|Indicators of Compromise]] \(IoC\) that have been identified by the threat source associated with this object.
+Lists related Indicators of Compromise \(IoC\) that have been identified by the threat source associated with this object.
 
 </td></tr><tr><td>
 
-[[threat-intelligence-intrusion-sets|Intrusion Set]]
+Intrusion Set
 
 </td><td>
 
@@ -127,7 +127,7 @@ Lists a set of adversarial behaviors and resources with common properties associ
 
 </td></tr><tr><td>
 
-[[threat-intelligence-locations|Locations]]
+Locations
 
 </td><td>
 
@@ -135,7 +135,7 @@ Lists locations that provide geographic context to this object.
 
 </td></tr><tr><td>
 
-[[threat-intelligence-malware|Malware]]
+Malware
 
 </td><td>
 
@@ -143,7 +143,7 @@ Lists malicious code associated with this object.
 
 </td></tr><tr><td>
 
-[[threat-intelligence-observed-data|Observed Data]]
+Observed Data
 
 </td><td>
 
@@ -151,7 +151,7 @@ Lists observed data associated with this object.
 
 </td></tr><tr><td>
 
-[[threat-actors|Threat Actors]]
+Threat Actors
 
 </td><td>
 
@@ -159,7 +159,7 @@ Lists individuals, groups, or organizations who act with malicious intent associ
 
 </td></tr><tr><td>
 
-[[tools|Tools]]
+Tools
 
 </td><td>
 
@@ -167,31 +167,12 @@ Lists legitimate software that is used by threat actors to perform attacks assoc
 
 </td></tr><tr><td>
 
-[[vulnerabilities|Vulnerabilities]]
+Vulnerabilities
 
 </td><td>
 
 Lists a weakness or defect in a software or hardware that attackers exploit which is associated with this object.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[threat-intelligence-infrastructure|Infrastructure]]
+</table>**Parent Topic:**[Infrastructure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-infrastructure.md)
 
-## Related
-
-- [[threat-intelligence-infrastructure|Infrastructure]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[ioc-repository|IoC Repository]]
-- [[tisc-other-objects|Other Objects]]
-- [[stix-relationships|Relationships]]
-- [[stix-visualizer|STIX Visualizer]]
-- [[c_Observables|Observables]]
-- [[threat-intelligence-campaigns|Campaigns]]
-- [[indicator|Indicators]]
-- [[c_IoCs|Indicators of compromise]]
-- [[threat-intelligence-intrusion-sets|Intrusion set]]
-- [[threat-intelligence-locations|Locations]]
-- [[threat-intelligence-malware|Malware]]
-- [[threat-intelligence-observed-data|Observed data]]
-- [[threat-actors|Threat actors]]
-- [[tools|Tools]]
-- [[vulnerabilities|Vulnerabilities]]

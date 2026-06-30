@@ -14,13 +14,13 @@ breadcrumb: [Activate, Process Mining, Platform Analytics]
 
 # Activate content packs
 
-Activate [[process-mining|Process Mining]] content packs to access prebuilt projects for specific areas of your business. You can activate a content pack from the application list on your instance.
+Activate Process Mining content packs to access prebuilt projects for specific areas of your business. You can activate a content pack from the application list on your instance.
 
 ## About this task
 
 Process Mining content packs contain prebuilt projects that include process model definitions, process finding definitions, and prebuilt process improvement insights for specific areas of your business.
 
-**Note:** [[activating-process-mining|Activating Process Mining]] content packs is an optional procedure. You must perform this task if you want to use any of the content packs available with Process Mining.
+**Note:** Activating Process Mining content packs is an optional procedure. You must perform this task if you want to use any of the content packs available with Process Mining.
 
 <table id="table_ykr_qk2_2vb"><thead><tr><th>
 
@@ -60,7 +60,7 @@ Using the Process Mining content pack with Financial Services Operations \(FSO\)
 
 </td><td>
 
-Using the Process Mining [[csm-integration-po|content pack for Customer Service Management]] enables you to analyze processes relevant to your KPIs, and identify bottlenecks associated with customer service cases.
+Using the Process Mining content pack for Customer Service Management enables you to analyze processes relevant to your KPIs, and identify bottlenecks associated with customer service cases.
 
 </td></tr><tr><td>
 
@@ -76,7 +76,7 @@ Using the Process Mining content pack for Order Management for Telecommunication
 
 </td><td>
 
-Using the Process Mining [[hrsd-integration-po|content pack for HR Service Delivery]] enables you to analyze processes relevant to your KPIs, and identify bottlenecks associated with customer service cases.
+Using the Process Mining content pack for HR Service Delivery enables you to analyze processes relevant to your KPIs, and identify bottlenecks associated with customer service cases.
 
 </td></tr><tr><td>
 
@@ -84,7 +84,7 @@ Using the Process Mining [[hrsd-integration-po|content pack for HR Service Deliv
 
 </td><td>
 
-Using the Process Mining [[sir-proc-min-content-pack|content pack for Security Incident Response]] enables you to analyze processes relevant to your security incident, and identify bottlenecks associated with them.
+Using the Process Mining content pack for Security Incident Response enables you to analyze processes relevant to your security incident, and identify bottlenecks associated with them.
 
 </td></tr></tbody>
 </table>## Before you begin
@@ -133,10 +133,3 @@ Analyze a process for work order tasks and identify bottlenecks to minimize dela
 
 **Parent Topic:**[Activating Process Mining](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/activating-process-mining.md)
 
-## Related
-
-- [[process-mining|Process Mining]]
-- [[activating-process-mining|Activating Process Mining]]
-- [[csm-integration-po|Content pack for Customer Service Management]]
-- [[hrsd-integration-po|Content pack for HR Service Delivery]]
-- [[sir-proc-min-content-pack|Content pack for Security Incident Response]]

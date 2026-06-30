@@ -14,13 +14,13 @@ breadcrumb: [Types of service catalog variables, Service catalog variables, Serv
 
 # Variable support in various channels
 
-[[c_ServiceCatalogVariables|Service Catalog variables]] are supported in various channels.
+Service Catalog variables are supported in various channels.
 
 |Variable|ServiceNow AI Platform|Service Portal|Now Mobile|Conversational interface in Virtual Agent powered by LLM|Conversational interface in Virtual Agent powered by NLU|Variable editor in Workspace and Catalog Item UIB component|
 |--------|----------------------|--------------|----------|--------------------------------------------------------|--------------------------------------------------------|-----------------------------------------------------------|
 |Attachment|Yes|Yes|Yes|Yes|Yes|Yes|
 |Break|Yes|Yes|Yes|Ignored or skipped|Ignored or skipped|Yes|
-|CheckBox|Yes|Yes|Yes|Yes|Single [[check-box|check box]] without the pricing implications is supported|Yes|
+|CheckBox|Yes|Yes|Yes|Yes|Single check box without the pricing implications is supported|Yes|
 |Container End|Yes|Yes|Yes|Yes|Yes|Yes|
 |Container Split|Yes|Yes|Yes|Yes|Yes|Yes|
 |Container Start|Yes|Yes|Yes|Yes|Yes|Yes|
@@ -32,7 +32,7 @@ breadcrumb: [Types of service catalog variables, Service catalog variables, Serv
 |IP Address|Yes|Yes|Yes|Yes|Yes|Yes|
 |Label|Yes|Yes|Yes|Yes|Yes|Yes|
 |List Collector|Yes|Yes|Yes|Yes|No|Yes|
-|Lookup Multiple Choice|Yes|Yes|Yes|Yes \(Without pricing implications\)|Yes \(Without pricing implications and advanced [[reference|reference]] qualifier\)|Yes|
+|Lookup Multiple Choice|Yes|Yes|Yes|Yes \(Without pricing implications\)|Yes \(Without pricing implications and advanced reference qualifier\)|Yes|
 |Lookup Select Box|Yes|Yes|Yes|Yes \(Without pricing implications\)|Yes \(Without pricing implications and advanced reference qualifier\)|Yes|
 |Custom|Yes|Yes|Yes|Yes \(requires custom implementation\)|No|No|
 |Custom with Label|Yes|Yes|Yes|Yes \(requires custom implementation\)|No|No|
@@ -107,8 +107,3 @@ breadcrumb: [Types of service catalog variables, Service catalog variables, Serv
 
 [Yes/No]()
 
-## Related
-
-- [[c_ServiceCatalogVariables|Service catalog variables]]
-- [[check-box|Check box]]
-- [[reference|Reference]]

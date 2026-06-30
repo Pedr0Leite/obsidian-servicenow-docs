@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -99,7 +99,7 @@ Security risk
 
 -   Severity score: 5.3
 -   CVSS rating: Medium
--   Security risk details: Allowing unrestricted public access to a ServiceNow instance without properly configuring the [[t_AccessControl|IP Address Access Control]] plugin exposes the system to unauthorized access and potential exploitation from any IP address, undermining network-level security and increasing the attack surface.
+-   Security risk details: Allowing unrestricted public access to a ServiceNow instance without properly configuring the IP Address Access Control plugin exposes the system to unauthorized access and potential exploitation from any IP address, undermining network-level security and increasing the attack surface.
 
 </td></tr><tr><td>
 
@@ -117,15 +117,10 @@ Dependencies and prerequisites
 
 This plugin when set to true restricts access to specific IP ranges. Unless public access is intended for the instance, administrators should limit access to their assigned IP net blocks. An exclusion list \(Deny\) or an inclusion list \(Allow\) of IP addresses can be created through IP Address Access Control \(ip\_access\_list.do\).
 
- Before setting this property, you must activate the [[c_IPRangeBasedAuthentication|IP Range Based Authentication]] \(com.snc.ipauthenticator\)**com.snc.ipauthenticator** plugin. To learn more, see [IP range based authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/c_IPRangeBasedAuthentication.md) and in the Steps to configure section \(below\).
+ Before setting this property, you must activate the IP Range Based Authentication \(com.snc.ipauthenticator\)**com.snc.ipauthenticator** plugin. To learn more, see [IP range based authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/c_IPRangeBasedAuthentication.md) and in the Steps to configure section \(below\).
 
  Ensure the plugin **com.snc.ipauthenticator** is activated and there is at least one active IP access policy in the table ip\_access.
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[sc-configuration|Configuration]]
-- [[t_AccessControl|IP Address Access Control]]
-- [[c_IPRangeBasedAuthentication|IP range based authentication]]

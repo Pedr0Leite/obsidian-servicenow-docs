@@ -14,11 +14,11 @@ breadcrumb: [API and web service, Hardening settings, Platform Security]
 
 # Require authorization for script requests
 
-Use the **glide.basicauth.required.scriptedprocessor** property to designate if incoming script requests should require [[basic-authentication|basic authentication]].
+Use the **glide.basicauth.required.scriptedprocessor** property to designate if incoming script requests should require basic authentication.
 
-The **glide.basicauth.required.scriptedprocessor** system property determines whether basic auth is required to invoke a scripted processor. Any records accessed by the scripted processor still use other access controls, such as ACLs, before returning any data. If **glide.basicauth.required.scriptedprocessor** isn't set to the recommended value of **true**, then an attacker could access sensitive information such as an unauthenticated \(guest\) user attempting to access an [[email|email]] through the EmailDisplay sys\_processor.
+The **glide.basicauth.required.scriptedprocessor** system property determines whether basic auth is required to invoke a scripted processor. Any records accessed by the scripted processor still use other access controls, such as ACLs, before returning any data. If **glide.basicauth.required.scriptedprocessor** isn't set to the recommended value of **true**, then an attacker could access sensitive information such as an unauthenticated \(guest\) user attempting to access an email through the EmailDisplay sys\_processor.
 
-Ensure the property **glide.basicauth.required.scriptedprocessor** exists in the [[ca-system-properties|System Properties]] \[sys\_properties\] table and is set to **true**.
+Ensure the property **glide.basicauth.required.scriptedprocessor** exists in the System Properties \[sys\_properties\] table and is set to **true**.
 
 **Warning:** This is a safe harbor property, meaning the value can't be altered once it's changed. It is non-revertible.
 
@@ -34,7 +34,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -96,7 +96,7 @@ Security risk
 
 -   Severity score: 7.2
 -   CVSS rating: High
--   Security risk details: This property may allow unauthenticated [[users|users]] to invoke scripted processors, potentially exposing sensitive information despite existing ACLs.
+-   Security risk details: This property may allow unauthenticated users to invoke scripted processors, potentially exposing sensitive information despite existing ACLs.
 
 </td></tr><tr><td>
 
@@ -104,8 +104,8 @@ Functional impact
 
 </td><td>
 
-This remediation enforces the [[c_Authentication|authentication]] in the form of Basic authorization.-   It performs this authentication while processing script requests on the instance.
--   It restricts any guest users who are currently accessing this data. If applicable, you may need to create a new account for users who need access to this content, with necessary [[sc-access-control|access control]] permissions.
+This remediation enforces the authentication in the form of Basic authorization.-   It performs this authentication while processing script requests on the instance.
+-   It restricts any guest users who are currently accessing this data. If applicable, you may need to create a new account for users who need access to this content, with necessary access control permissions.
 
 </td></tr><tr><td>
 
@@ -118,12 +118,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[API and web service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-api-web-service.md)
 
-## Related
-
-- [[basic-authentication|Basic authentication]]
-- [[email|Email]]
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]
-- [[users|Users]]
-- [[c_Authentication|Authentication]]
-- [[sc-access-control|Access control]]

@@ -16,9 +16,9 @@ Quizzes are questionnaires that you can assign to one or more users to assess th
 
 Each question is scored, and the overall score indicates the percentage of questions the user answered correctly. A quiz may have categories of questions that are assigned only to some users. You can assign weighting values to individual questions or categories of questions that make them more or less important when calculating the overall score. Quizzes require activation by a system administrator.
 
--   An administrator can [[t_CreateaQuiz|create a quiz]] for any purpose and assign it to a single user or multiple users.
+-   An administrator can create a quiz for any purpose and assign it to a single user or multiple users.
 -   A quiz can contain one or more categories of questions. Each category can be assigned to users who answer only the questions in that category.
--   The system can send [[email|email]] notifications to these users:
+-   The system can send email notifications to these users:
     -   Recipients: The recipient can receive notification of an assigned quiz, a quiz whose allowed duration is at 50%, and a quiz that is overdue.
     -   Recipient's manager: The recipient's manager can receive notification when a quiz is overdue.
     -   Quiz manager: The quiz manager can receive notification of an overdue quiz that is assigned to them.
@@ -27,9 +27,9 @@ Each question is scored, and the overall score indicates the percentage of quest
     -   Choice
     -   Duration
     -   Likert Scale
-    -   [[numeric-scale|Numeric Scale]]
+    -   Numeric Scale
     -   Template
-    -   [[yes-no|Yes/No]]
+    -   Yes/No
 -   A quiz question can be dependent on the response to any scored question. For example, you can create a dependent question requesting additional information that appears only if a recipient answers No to a specific question.
 
 ## Important terms
@@ -95,7 +95,7 @@ assessment administrator \[assessment\_admin\]
 
 </td><td>
 
-Can administer the [[r_Assessments|Assessments]] application and all quiz records. Can access all the modules of the Assessments application. **Note:** The itil\_admin role and the survey\_admin role contain the assessment\_admin role
+Can administer the Assessments application and all quiz records. Can access all the modules of the Assessments application. **Note:** The itil\_admin role and the survey\_admin role contain the assessment\_admin role
 
 </td></tr><tr><td>
 
@@ -103,31 +103,18 @@ Administrator \[admin\]
 
 </td><td>
 
-Can access all aspects of the assessment and survey processes. Only administrators can modify survey notifications, create survey modules, and import [[r_SurveyManagementLandingPage|surveys]].
+Can access all aspects of the assessment and survey processes. Only administrators can modify survey notifications, create survey modules, and import surveys.
 
 </td></tr></tbody>
-</table>-   **[[using-quizzes|Using Quizzes]]**  
+</table>-   **[Using Quizzes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/using-quizzes.md)**  
 You can use quizzes.
--   **[[quizzes-reference|Quizzes reference]]**  
-[[reference|Reference]] topics provide additional information about the forms, fields, and properties you use while working with quizzes.
+-   **[Quizzes reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/quizzes-reference.md)**  
+Reference topics provide additional information about the forms, fields, and properties you use while working with quizzes.
 
-**Parent Topic:**[[assessments-surveys-landing-page|Assessments and Surveys]]
+**Parent Topic:**[Assessments and Surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/assessments-surveys-landing-page.md)
 
 **Related topics**  
 
 
-[[c_AssessmentMetrics|Assessment metrics]]
+[Assessment metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentMetrics.md)
 
-## Related
-
-- [[using-quizzes|Using Quizzes]]
-- [[quizzes-reference|Quizzes reference]]
-- [[assessments-surveys-landing-page|Assessments and Surveys]]
-- [[c_AssessmentMetrics|Assessment metrics]]
-- [[t_CreateaQuiz|Create a quiz]]
-- [[email|Email]]
-- [[numeric-scale|Numeric scale]]
-- [[yes-no|Yes/No]]
-- [[r_Assessments|Assessments]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[reference|Reference]]

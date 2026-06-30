@@ -14,7 +14,7 @@ breadcrumb: [Exploring Software Asset Management, Software Asset Management, IT 
 
 # Product life cycles
 
-In the absence of vendor-provided life cycles, there are various capabilities that the [[c_SoftwareAssetMgmt|Software Asset Management]] application provides to improve life cycle coverage.
+In the absence of vendor-provided life cycles, there are various capabilities that the Software Asset Management application provides to improve life cycle coverage.
 
 ## Overview of product life cycles
 
@@ -26,7 +26,7 @@ You can also use calculated life cycles to create end-of-support \(EOS\), end- o
 
 The Software Product Lifecycles \[sam\_sw\_product\_lifecycle\] table holds the information of the software product, its lifecycle type \(internal or external\), full version, lifecycle phases, start date of the phase, and the risk.
 
-The Content active column in the Software Product Lifecycles \[sam\_sw\_product\_lifecycle\] table is set to the value true by the [[c_SAMContentService|Software Asset Management content service]] if the lifecycle records are valid. If you do not want a lifecycle phase to be rendered on the Technology Portfolio Management \(TPM\) timeline, then set the **Active** column to false. For example, you can have **General Availability**, **End of Extended Support**, and **End of Support** lifecycle phases as three records for Oracle DB Server software model in the Software Product Lifecycles list. However, if you do not want **General Availability** phase to be shown on the timeline, you can clear the **Active** check box in the Software Product Lifecycle form for that lifecycle phase record. As a result, the timeline starts with the **End of Support** phase. Although the lifecycle phase record exists for the software product lifecycle, the lifecycle data will not be rendered on the timeline. Because only active lifecycle records are considered and plotted in the TPM timeline.
+The Content active column in the Software Product Lifecycles \[sam\_sw\_product\_lifecycle\] table is set to the value true by the Software Asset Management content service if the lifecycle records are valid. If you do not want a lifecycle phase to be rendered on the Technology Portfolio Management \(TPM\) timeline, then set the **Active** column to false. For example, you can have **General Availability**, **End of Extended Support**, and **End of Support** lifecycle phases as three records for Oracle DB Server software model in the Software Product Lifecycles list. However, if you do not want **General Availability** phase to be shown on the timeline, you can clear the **Active** check box in the Software Product Lifecycle form for that lifecycle phase record. As a result, the timeline starts with the **End of Support** phase. Although the lifecycle phase record exists for the software product lifecycle, the lifecycle data will not be rendered on the timeline. Because only active lifecycle records are considered and plotted in the TPM timeline.
 
 View the Software Product Lifecycle report to be informed about the products nearing end-of-life, end-of-support, and end-of-extended support. View the report by navigating to **Reports** &gt; **View/Run**. The report is based on the scheduled job, **SAM - Generate Data For Software Lifecycle Report**.
 
@@ -63,7 +63,7 @@ Life cycle code columns can also be added to the Software Lifecycle Report for e
 
 To further improve life cycle coverages, even after approximated life cycles have been considered, EOS, EOES, and EOL life-cycle dates can be calculated based on software life cycle averages, measured in months, from the GA dates.
 
-Software life cycle averages can be defined at the product level, publisher level, or industry level. For details on specifying software life cycle averages in the [[sam-workspace|Software Asset Workspace]], see [Create averages for product life cycles in workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-lifecycle-averages-workspace.md) and for specifying software life cycle averages in the Software Asset Management classic application, see [Create averages for product life cycles in Software Asset Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-lifecycle-averages-classic.md)
+Software life cycle averages can be defined at the product level, publisher level, or industry level. For details on specifying software life cycle averages in the Software Asset Workspace, see [Create averages for product life cycles in workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-lifecycle-averages-workspace.md) and for specifying software life cycle averages in the Software Asset Management classic application, see [Create averages for product life cycles in Software Asset Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-lifecycle-averages-classic.md)
 
 You can override the GA date provided by ServiceNow by creating a custom GA date. The custom GA date always takes priority over the GA date provided by ServiceNow. The life cycles are calculated based on the product or publisher values that you specified. Life cycle dates are defined only at the generic version and not the full version. For details on specifying custom values in the Software Asset Workspace, see [Create averages for product life cycles in workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-lifecycle-averages-workspace.md), and for specifying values in the Software Asset Management classic application, see [Create averages for product life cycles in Software Asset Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-lifecycle-averages-classic.md).
 
@@ -118,8 +118,3 @@ Once created, the EOS, EOES, and EOL life cycles are visible in the software mod
 
 **Parent Topic:**[Exploring Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/explore-sam-workspace.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[c_SAMContentService|Software Asset Management Content Service]]
-- [[sam-workspace|Software Asset Workspace]]

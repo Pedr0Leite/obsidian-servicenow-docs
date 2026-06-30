@@ -14,7 +14,7 @@ breadcrumb: [Configure Emergency Outreach notifications, Emergency Outreach, Eme
 
 # Add email notifications for use with Emergency Outreach
 
-Add an email notification to customize the send conditions and notification for your employees and use it in place of the default notification for an [[emergency-outreach|Emergency Outreach]] notification.
+Add an email notification to customize the send conditions and notification for your employees and use it in place of the default notification for an Emergency Outreach notification.
 
 ## Before you begin
 
@@ -38,7 +38,7 @@ Employee Check-ins
 
 </td></tr><tr><td>
 
-[[employee-readiness-surveys|Employee Readiness Surveys]]
+Employee Readiness Surveys
 
 </td><td>
 
@@ -46,7 +46,7 @@ Outreach Surveys
 
 </td></tr><tr><td>
 
-[[employee-health-screening|Employee Health Screening]]
+Employee Health Screening
 
 </td><td>
 
@@ -54,7 +54,7 @@ Daily Health Verification
 
 </td></tr><tr><td>
 
-[[contact-tracing|Contact Tracing]]
+Contact Tracing
 
 </td><td>
 
@@ -220,9 +220,4 @@ Daily Health Verification Outreach
 
 10. Click **Update**.
 
-## Related
 
-- [[emergency-outreach|Emergency Outreach]]
-- [[employee-readiness-surveys|Employee Readiness Surveys]]
-- [[employee-health-screening|Employee Health Screening]]
-- [[contact-tracing|Contact Tracing]]

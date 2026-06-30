@@ -26,15 +26,15 @@ This image represents the structure of the ServiceNow mobile framework. The next
 
 -   **Mobile app**
 
-    A part of the ServiceNow® [[mobile-config-navigation|Mobile Platform]], there are 2 mobile apps: the [[now-mobile-app|Now Mobile app]] and the [[mobile-experience|Mobile Agent app]]. Each app focuses on a persona, which means the app experiences are tailored to support the tasks of specific roles in your organization. Each mobile app can have one or more mobile app configurations. For more information, see the following "Mobile app config" section.
+    A part of the ServiceNow® Mobile Platform, there are 2 mobile apps: the Now Mobile app and the Mobile Agent app. Each app focuses on a persona, which means the app experiences are tailored to support the tasks of specific roles in your organization. Each mobile app can have one or more mobile app configurations. For more information, see the following "Mobile app config" section.
 
 -   **Mobile app config**
 
     When users download a ServiceNow Mobile Platform application, they are prompted to log in with their credentials. When a user logs in to the instance, they are presented an experience that is created by a single mobile app config. The mobile app config that defines the user's experience depends on conditions defined in the config.
 
--   **[[sg-mobile-tab-bar|Navigation bar]]**
+-   **Navigation bar**
 
-    Each mobile app config has a navigation bar that appears at the bottom of the screen. A navigation bar can have up to five icons, called navigation bar tabs. By default, navigation bars have a notification and settings navigation bar tab. For information about how to create a navigation bar, see [[config-sg-application-menu|Configure the navigation bar and navigation tabs]].
+    Each mobile app config has a navigation bar that appears at the bottom of the screen. A navigation bar can have up to five icons, called navigation bar tabs. By default, navigation bars have a notification and settings navigation bar tab. For information about how to create a navigation bar, see [Configure the navigation bar and navigation tabs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/config-sg-application-menu.md).
 
 -   **Navigation bar tabs**
 
@@ -44,9 +44,9 @@ This image represents the structure of the ServiceNow mobile framework. The next
 
 -   **Launcher screens**
 
-    Launcher screens serve as landing pages or home pages for your users. Launcher screens contain a configurable header, and sections to provide access to screens in several formats. You can also configure launcher screens with a search bar and [[sg-config-quick-actions|quick actions]], which give your users access to commonly used functions.
+    Launcher screens serve as landing pages or home pages for your users. Launcher screens contain a configurable header, and sections to provide access to screens in several formats. You can also configure launcher screens with a search bar and quick actions, which give your users access to commonly used functions.
 
-    For more detail on launcher screens, see [[sg-mobile-applet-launcher|Launcher screens]].
+    For more detail on launcher screens, see [Launcher screens](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-applet-launcher.md).
 
 -   **Screens**
 
@@ -55,7 +55,7 @@ This image represents the structure of the ServiceNow mobile framework. The next
 
 ## Screens
 
-\[Omitted image "mobile-screens.png"\] Alt text: List of all available [[mobile-screens-landing|mobile screens]].
+\[Omitted image "mobile-screens.png"\] Alt text: List of all available mobile screens.
 
 -   **Screen segments**
 
@@ -69,7 +69,7 @@ This image represents the structure of the ServiceNow mobile framework. The next
 
     Icon records are located on the Icons \[sys\_sg\_icon\] table.
 
-    For more information on icons, see [[sg-mobile-icon|Mobile icons]].
+    For more information on icons, see [Mobile icons](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-icon.md).
 
 -   **Item streams**
 
@@ -85,7 +85,7 @@ This image represents the structure of the ServiceNow mobile framework. The next
 
     Data items are located on the data items \[sys\_sg\_data\_item\] table.
 
-    For more detail on data items, see [[sg-data-item|Data items]].
+    For more detail on data items, see [Data items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-data-item.md).
 
 -   **Item configurations**
 
@@ -106,13 +106,13 @@ This image represents the structure of the ServiceNow mobile framework. The next
 
     Screen types determine what a screen looks like and how your users are able to interact with it. You can create these screen types:
 
-    -   [[calendar-screen|Calendar]]
-    -   [[chart-screen|Chart]]
-    -   [[form-screen|Form]]
-    -   [[grouped-list-screen|Grouped list]]
-    -   [[list-screen|List]]
-    -   [[map-screen|Map]]
-    -   [[url-screen|URL]]
+    -   [Calendar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/calendar-screen.md)
+    -   [Chart](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/chart-screen.md)
+    -   [Form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/form-screen.md)
+    -   [Grouped list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/grouped-list-screen.md)
+    -   [List](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/list-screen.md)
+    -   [Map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/map-screen.md)
+    -   [URL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/url-screen.md)
     In addition to these types, you can add the following screens to segments in your record screen:
 
     -   Details screen
@@ -125,25 +125,6 @@ This image represents the structure of the ServiceNow mobile framework. The next
 
     Functions are located on the Function \[sys\_sg\_button\] table.
 
-    For more information on functions, see [[sg-studio-mobile-button-types|Mobile functions]].
+    For more information on functions, see [Mobile functions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-studio-mobile-button-types.md).
 
-## Related
 
-- [[config-sg-application-menu|Configure the navigation bar and navigation tabs]]
-- [[sg-mobile-applet-launcher|Launcher screens]]
-- [[sg-mobile-icon|Mobile icons]]
-- [[sg-data-item|Data items]]
-- [[calendar-screen|Calendar screen]]
-- [[chart-screen|Chart screen]]
-- [[form-screen|Record screen]]
-- [[grouped-list-screen|Grouped list screen]]
-- [[list-screen|List screen]]
-- [[map-screen|Map screen]]
-- [[url-screen|Mobile web screen]]
-- [[sg-studio-mobile-button-types|Mobile functions]]
-- [[mobile-config-navigation|Mobile Platform]]
-- [[now-mobile-app|Now Mobile app]]
-- [[mobile-experience|Mobile Agent app]]
-- [[sg-mobile-tab-bar|Navigation bar]]
-- [[sg-config-quick-actions|Quick actions]]
-- [[mobile-screens-landing|Mobile screens]]

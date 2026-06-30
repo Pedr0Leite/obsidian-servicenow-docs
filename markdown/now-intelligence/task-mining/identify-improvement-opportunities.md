@@ -14,7 +14,7 @@ breadcrumb: [Use, Task Mining, Platform Analytics]
 
 # Identify task improvement actions
 
-Initiate an automation request from a [[task-mining|Task Mining]] task timeline analysis.
+Initiate an automation request from a Task Mining task timeline analysis.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Create automation requests for your tasks directly from Task Mining. Capture bot
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[task-mining-workspace|Task Mining Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Task Mining Workspace**.
 
 2.  Select the project with a task timeline analysis that you want to identify task improvement actions for and select the **Task timeline** tab.
 
@@ -108,7 +108,3 @@ Create automation requests for your tasks directly from Task Mining. Capture bot
 
 [Task Mining analyses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/task-mining-dashboard.md)
 
-## Related
-
-- [[task-mining|Task Mining]]
-- [[task-mining-workspace|Task Mining Workspace]]

@@ -15,7 +15,7 @@ breadcrumb: [Integration configuration fields, Health Log Analytics reference, H
 
 # Elasticsearch integration configuration fields
 
-Description of the fields on the Elasticsearch integration configuration forms for [[hla-landing-page|Health Log Analytics]].
+Description of the fields on the Elasticsearch integration configuration forms for Health Log Analytics.
 
 For the Elasticsearch integration setup procedure, see [Set up an Elasticsearch integration for Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/il-connector-hla-elasticsearch.md).
 
@@ -302,7 +302,7 @@ The duration of time, in milliseconds, before a request to the Elasticsearch clu
 
 </td></tr><tr><td>
 
-Index [[r-discovery|discovery]] interval \(seconds\)
+Index discovery interval \(seconds\)
 
 </td><td>
 
@@ -399,7 +399,3 @@ How frequently the system polls for new log data.
 </td></tr></tbody>
 </table>**Parent Topic:**[Integration configuration fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]
-- [[r-discovery|Discovery]]

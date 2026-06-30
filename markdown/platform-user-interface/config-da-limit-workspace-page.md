@@ -12,11 +12,11 @@ breadcrumb: [Manage action visibility, Declarative actions, Administer, Configur
 
 # Restrict a global list action to a workspace page
 
-[[configure-onboarding-modals|Configure]] a global list action to display only on a specified workspace page.
+Configure a global list action to display only on a specified workspace page.
 
 ## Before you begin
 
-Configure an action configuration record for a list action, and copy the action configuration record's sys\_id. For instructions, see [[config-da-action-configuration|Configure an action configuration record]].
+Configure an action configuration record for a list action, and copy the action configuration record's sys\_id. For instructions, see [Configure an action configuration record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/config-da-action-configuration.md).
 
 Role required: admin
 
@@ -42,11 +42,11 @@ When the **Experience Restricted** field is set to true, the list action doesn't
 
 5.  Open your workspace experience in UI Builder.
 
-    For instructions, see [[open-your-configurable-workspace-experience-in-ui-builder|Open a Configurable Workspace experience in UI Builder]].
+    For instructions, see Open a Configurable Workspace experience in UI Builder.
 
 6.  Select or create a list page.
 
-    For instructions on creating a workspace page in UI Builder, see [[create-configurable-workspace-page-uib|Create a Configurable Workspace page]].
+    For instructions on creating a workspace page in UI Builder, see [Create a Configurable Workspace page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/create-configurable-workspace-page-uib.md).
 
 7.  From the Content tree, select the **Record List Header**.
 
@@ -59,9 +59,3 @@ When the **Experience Restricted** field is set to true, the list action doesn't
 
 The global list action displays only on the workspace page configured with the action configuration record's sys\_id.
 
-## Related
-
-- [[config-da-action-configuration|Configure an action configuration record]]
-- [[create-configurable-workspace-page-uib|Create a Configurable Workspace page]]
-- [[configure-onboarding-modals|Configure]]
-- [[open-your-configurable-workspace-experience-in-ui-builder|Open a Configurable Workspace experience in UI Builder]]

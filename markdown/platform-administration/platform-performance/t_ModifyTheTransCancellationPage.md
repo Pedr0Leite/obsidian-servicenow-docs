@@ -14,7 +14,7 @@ breadcrumb: [Transaction quotas, Configure, Platform performance, Maintain and m
 
 # Add or modify a transaction cancellation message
 
-The Quota Manager uses a UI page to control the contents of the [[transaction-cancellation|transaction cancellation]] message.
+The Quota Manager uses a UI page to control the contents of the transaction cancellation message.
 
 ## Before you begin
 
@@ -37,9 +37,5 @@ Knowledge of [Apache Jelly](http://commons.apache.org/jelly/) is highly recommen
 4.  Click **Update**.
 
 
-**Parent Topic:**[[maintain-monitor-now-platform|Maintaining and monitoring the ServiceNow AI Platform]]
+**Parent Topic:**[Maintaining and monitoring the ServiceNow AI Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/maintain-monitor-now-platform.md)
 
-## Related
-
-- [[maintain-monitor-now-platform|Maintaining and monitoring the ServiceNow AI Platform]]
-- [[transaction-cancellation|Transaction cancellation]]

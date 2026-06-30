@@ -16,7 +16,7 @@ breadcrumb: [Setting up primary data Shopping, Configure, Sourcing and Procureme
 
 As a procurement administrator, you can create and modify purchase process steps, work items involved in the process steps, and link the process steps and work items.
 
-You can track your purchase requisitions, purchase orders, and sourcing requests using the [[process-visibility|process visibility]] tracker in the purchase detail view.
+You can track your purchase requisitions, purchase orders, and sourcing requests using the process visibility tracker in the purchase detail view.
 
 To configure the visibility tracker, you can define the process steps and work items involved in the purchase procedure. You can then link the work items to their respective process steps. You can also update the sequence and labels to ensure flexibility and alignment with business processes.
 
@@ -29,6 +29,3 @@ Establish the relationship between the process steps and their work items.
 
 **Parent Topic:**[Setting up primary data for ShoppingHub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/set-up-master-data-shopping-hub.md)
 
-## Related
-
-- [[process-visibility|Process visibility]]

@@ -12,7 +12,7 @@ breadcrumb: [Configure change models, Configuring Simplified Change Management, 
 
 # Change model defaults for Simplified Change Management
 
-When you activate the ITSM [[c_ITILChangeManagement|Change Management]] Admin Experience plugin \(sn\_itsm\_chg\_admin\), the simplified change [[c_Models|models]] become the active defaults and the classic global models are deactivated.
+When you activate the ITSM Change Management Admin Experience plugin \(sn\_itsm\_chg\_admin\), the simplified change models become the active defaults and the classic global models are deactivated.
 
 ## What changes when you activate the plugin
 
@@ -57,10 +57,5 @@ To restore the change model defaults that were in place before activation, conta
 
 **Note:** Don't adjust these defaults manually, because the models function as an interdependent set.
 
-**Parent Topic:**[[configure-change-models-scm|Configure change models for Simplified Change Management]]
+**Parent Topic:**[Configure change models for Simplified Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/configure-change-models-scm.md)
 
-## Related
-
-- [[configure-change-models-scm|Configure change models for Simplified Change Management]]
-- [[c_ITILChangeManagement|Change Management]]
-- [[c_Models|Models]]

@@ -12,33 +12,22 @@ reading_time_minutes: 1
 
 IT Service Management has new and updated features in the Australia release.
 
--   **[[change-management-rn|Change Management release notes]]**  
+-   **[Change Management release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/change-management-rn.md)**  
 The ServiceNow® Change Management application provides a systematic approach to control the life cycle of all changes, facilitating beneficial changes to be made with minimum disruption to IT services. Change Management was enhanced and updated in the Australia release.
--   **[[devops-rn|DevOps Change Velocity release notes]]**  
+-   **[DevOps Change Velocity release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/devops-rn.md)**  
 The ServiceNow® DevOps Change Velocity application improves visibility into your DevOps data in a single system, automates and accelerates change processes, and helps you gain insights to measure the performance of your DevOps environment. DevOps Change Velocity was enhanced and updated in the Australia release.
--   **[[digital-end-user-experience-rn|Digital End-User Experience release notes]]**  
+-   **[Digital End-User Experience release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/digital-end-user-experience-rn.md)**  
 The ServiceNow® Digital End-User Experience application is a cloud-based tool providing IT with comprehensive visibility and monitoring for user applications, networks, and devices. Digital End-User Experience was enhanced and updated in the Australia release.
--   **[[incident-management-rn|Incident Management release notes]]**  
+-   **[Incident Management release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/incident-management-rn.md)**  
 The ServiceNow® Incident Management application helps you to restore normal service operations while minimizing the impact to business operations and maintaining quality. Incident Management was enhanced and updated in the Australia release.
--   **[[ai-native-it-service-desk-rn|IT Service Management release notes]]**  
+-   **[IT Service Management release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/ai-native-it-service-desk-rn.md)**  
 The ServiceNow® IT Service Management application provides simplified and automated implementation for administrators and a unified user experience for employees and fulfillers \(service desk agents\). IT Service Management is a new application in the Australia release.
--   **[[now-assist-for-itsm-rn|Now Assist for IT Service Management \(ITSM\) release notes]]**  
+-   **[Now Assist for IT Service Management \(ITSM\) release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/now-assist-for-itsm-rn.md)**  
 The ServiceNow® Now Assist for IT Service Management \(ITSM\) application brings agentic AI to IT Service Management. Now Assist for IT Service Management \(ITSM\) was enhanced and updated in the Australia release.
--   **[[on-call-scheduling-rn|On-Call Scheduling release notes]]**  
+-   **[On-Call Scheduling release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/on-call-scheduling-rn.md)**  
 The ServiceNow® On-Call Scheduling application enables you to verify that dedicated support team members are available to resolve issues when they occur. On-Call Scheduling was enhanced and updated in the Australia release.
--   **[[service-operations-workspace-itsm-rn|Service Operations Workspace for ITSM release notes]]**  
+-   **[Service Operations Workspace for ITSM release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/service-operations-workspace-itsm-rn.md)**  
 The ServiceNow® Service Operations Workspace \(SOW\) application is a configurable workspace that provides a unified agent experience for multiple IT Service Management and IT Operations Management capabilities. Service Operations Workspace for IT Service Management was enhanced and updated in the Australia release.
 
-**Parent Topic:**[[new-features-changes|Features and changes by product]]
+**Parent Topic:**[Features and changes by product](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/new-features-changes.md)
 
-## Related
-
-- [[change-management-rn|Change Management release notes]]
-- [[devops-rn|DevOps Change Velocity release notes]]
-- [[digital-end-user-experience-rn|Digital End-User Experience release notes]]
-- [[incident-management-rn|Incident Management release notes]]
-- [[ai-native-it-service-desk-rn|IT Service Management release notes]]
-- [[now-assist-for-itsm-rn|Now Assist for IT Service Management \(ITSM\) release notes]]
-- [[on-call-scheduling-rn|On-Call Scheduling release notes]]
-- [[service-operations-workspace-itsm-rn|Service Operations Workspace for ITSM release notes]]
-- [[new-features-changes|Features and changes by product]]

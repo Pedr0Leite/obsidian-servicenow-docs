@@ -14,11 +14,7 @@ breadcrumb: [Event Management, ITOM AIOps, IT Operations Management]
 
 # Configuring Event Management
 
-[[c_EM|Event Management]] administrators administer events, [[c_EMAlert|manage and monitor alerts]], aggregate alerts, and work review and monitor services' status with the Operator Workspace service monitor.
+Event Management administrators administer events, manage and monitor alerts, aggregate alerts, and work review and monitor services' status with the Operator Workspace service monitor.
 
 Event Management operators find alerts, analyze them, and take action to resolve the underlying issue.
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[c_EMAlert|Manage and monitor alerts]]

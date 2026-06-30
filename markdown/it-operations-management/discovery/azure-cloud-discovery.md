@@ -24,7 +24,7 @@ The advantages of using management groups are:
 
 Easy population of sub-accounts
 
-After you configure the management group and supply the necessary credentials, you can test the account. If the test succeeds, [[r-discovery|Discovery]] returns a list of subscriptions in that management group. From this list, you can choose one or more subscription sub-accounts to include in the Discovery schedule using the management group. For more information on the hierarchy of management groups and subscriptions, see [Organize your resources with Azure management groups](https://docs.microsoft.com/en-us/azure/governance/management-groups/overview)
+After you configure the management group and supply the necessary credentials, you can test the account. If the test succeeds, Discovery returns a list of subscriptions in that management group. From this list, you can choose one or more subscription sub-accounts to include in the Discovery schedule using the management group. For more information on the hierarchy of management groups and subscriptions, see [Organize your resources with Azure management groups](https://docs.microsoft.com/en-us/azure/governance/management-groups/overview)
 
 Discovery of sub-account resources using dynamically acquired credentials
 
@@ -51,7 +51,7 @@ Download the [Cloud Discovery patterns spreadsheet](https://downloads.docs.servi
 
 ## Data collected by Service Mapping during top-down discovery
 
-To include discovered components into service instances, enable CI relationships used in tag-based discovery by [[c_ServiceMappingOverview|Service Mapping]]. These CI relationships are available from the 1.0.68 release on the ServiceNow Store. For operational steps, see [Tag-based discovery configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/tag_discovery_configuration.md).
+To include discovered components into service instances, enable CI relationships used in tag-based discovery by Service Mapping. These CI relationships are available from the 1.0.68 release on the ServiceNow Store. For operational steps, see [Tag-based discovery configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/tag_discovery_configuration.md).
 
 Service Mapping uses tag-based discovery to create service instance maps including the Cloud components. The Service Mapping application comes with the following preconfigured CI relationships used for tag-based discovery. These CI relationships are available from the 1.0.68 release on the ServiceNow Store.
 
@@ -844,13 +844,7 @@ canonical\_hosted\_zone\_name
 </table>## Useful information
 
 -   [Microsoft Azure discovery solutions comparison](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/azure-discovery-methods.md)
--   [[setup-azure-service-accounts|Set up Azure service accounts]]
--   [[mid-server-configuration-cloud|Install and configure MID Servers to access cloud environments]]
+-   [Set up Azure service accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/setup-azure-service-accounts.md)
+-   [Install and configure MID Servers to access cloud environments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/mid-server-configuration-cloud.md)
 -   [Microsoft Azure Cloud discovery using patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/azure-cloud-discovery-patterns.md)
 
-## Related
-
-- [[setup-azure-service-accounts|Set up Azure service accounts]]
-- [[mid-server-configuration-cloud|Install and configure MID Servers to access cloud environments]]
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

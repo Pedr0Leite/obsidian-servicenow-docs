@@ -67,8 +67,5 @@ Heatmap \[Omitted image "heatmap.png"\] Alt text: Heatmap icon
 Heatmap letting you explore the number of open requests by any combination of state, assignment group, and priority, for any age bucket or for all ages.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[request-content-pack|Request Management Platform Analytics Solutions]]
+</table>**Parent Topic:**[Request Management Platform Analytics Solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/request-content-pack.md)
 
-## Related
-
-- [[request-content-pack|Request Management Platform Analytics Solutions]]

@@ -14,7 +14,7 @@ breadcrumb: [ACC deployment - shared between servers and endpoints, Configuring 
 
 # Agent Client Collector API
 
-Use the [[acc-landing-page|Agent Client Collector]] \(ACC\) API to create a flow that executes an `osquery` command on agents and processes the results. By leveraging the ACC API, you can automate the querying of agent data and streamline the processing of results, making it easier to monitor and manage system performance.
+Use the Agent Client Collector \(ACC\) API to create a flow that executes an `osquery` command on agents and processes the results. By leveraging the ACC API, you can automate the querying of agent data and streamline the processing of results, making it easier to monitor and manage system performance.
 
 The system supports osquery 5.7.0, providing compatibility with a range of queries for efficient data collection.
 
@@ -31,6 +31,3 @@ For details on enabling policy APIs, see [Enable policy APIs](https://raw.github
 
 **Parent Topic:**[Deploying Agent Client Collector on both servers and endpoints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-shared-deployment.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

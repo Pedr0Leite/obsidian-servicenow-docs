@@ -12,13 +12,13 @@ breadcrumb: [Order Management reference, Reference, Sales Customer Relationship 
 
 # Domain separation and Order Management
 
-Domain separation is supported for [[explore-order-management|Order Management]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported for Order Management. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic
 
 
 
--   Business logic: Ensure that data goes into the proper domain for the application’s service provider [[use-cases|use cases]].
+-   Business logic: Ensure that data goes into the proper domain for the application’s service provider use cases.
 -   The application supports domain separation at run time. The domain separation includes separation from the user interface, cache keys, reporting, rollups, and aggregations.
 -   The owner of the instance must set up the application to function across multiple tenants.
 
@@ -28,7 +28,7 @@ For more information on support levels, see [Application support for domain sepa
 
 ## Overview of domain separation in Order Management
 
-The [[reviewing-orchestration-plans-order-fulfillment|order fulfillment]] module in Order Management supports domain separation at an account level. All customer orders, order line items, and order tasks have account \(customer\) level separation.
+The order fulfillment module in Order Management supports domain separation at an account level. All customer orders, order line items, and order tasks have account \(customer\) level separation.
 
 ## How domain separation works in Order Management
 
@@ -55,23 +55,14 @@ If customer or service orders have an account name, an administrator can identif
 
 If fulfillment agents or managers are assigned to a domain, an administrator can assign them to work on customer orders, service orders, and order tasks for a specific domain \(account\).
 
-**Parent Topic:**[[order-mgt-reference|Order Management reference]]
+**Parent Topic:**[Order Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-reference.md)
 
 **Related topics**  
 
 
-[[using-order-management|Using Order Management]]
+[Using Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-order-management.md)
 
-[[order-mgt-configuring|Configuring Order Management]]
+[Configuring Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-configuring.md)
 
-[[managing-service-orders|Managing service orders]]
+[Managing service orders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/managing-service-orders.md)
 
-## Related
-
-- [[order-mgt-reference|Order Management reference]]
-- [[using-order-management|Using Order Management]]
-- [[order-mgt-configuring|Configuring Order Management]]
-- [[managing-service-orders|Managing service orders]]
-- [[explore-order-management|Order management]]
-- [[use-cases|Use cases]]
-- [[reviewing-orchestration-plans-order-fulfillment|Order fulfillment]]

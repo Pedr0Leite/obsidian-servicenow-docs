@@ -14,7 +14,7 @@ breadcrumb: [Configure, Walk-up Experience, IT Service Management]
 
 # Create or modify Walk-up Experience locations
 
-Create or customize the predefined [[walkup-experience-landing-page|Walk-up Experience]] location. Walk-up Experience locations contain all the information about the walk-up support venue. You can define the way each location or support venue works.
+Create or customize the predefined Walk-up Experience location. Walk-up Experience locations contain all the information about the walk-up support venue. You can define the way each location or support venue works.
 
 ## Before you begin
 
@@ -498,6 +498,3 @@ Option to add a logo for the designated on-site display monitor. Design this log
 
 **Parent Topic:**[Configuring Walk-up Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walkup-experience-configuration.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]

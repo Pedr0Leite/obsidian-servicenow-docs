@@ -102,7 +102,7 @@ Refer to these steps when you are ready to consume messages from Hermes for busi
         -   `<namespace>` with the namespace of the domain your Kafka topic belongs to \(optional\)
         -   `<app_id>` with the application ID
         -   `<topic_name>` with a test topic name
-        -   `<consumer_group_id>` with a [[label|label]] of your choice for the group that the consumer belongs to
+        -   `<consumer_group_id>` with a label of your choice for the group that the consumer belongs to
         **Note:** Each part of the topic name is case-sensitive.
 
     2.  Open a new terminal window.
@@ -136,6 +136,3 @@ Refer to these steps when you are ready to consume messages from Hermes for busi
 
 Test messages are consumed from the Hermes Kafka cluster.
 
-## Related
-
-- [[label|Label]]

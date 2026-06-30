@@ -22,13 +22,13 @@ Generate gating approvals with:
 
 |Title|Description|
 |-----|-----------|
-|Approval rules|Can apply to the [[service-catalog|service catalog]] as well as any other task table.|
+|Approval rules|Can apply to the service catalog as well as any other task table.|
 |Item-based approvals|Flag specific catalog items as requiring specific approvals. Any requests for these items automatically require these approvals.|
 
 -   **[Set up a gating approval via an approval rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/t_SetUpAGatingApprViaApprovalRule.md)**  
-You can [[t_SetUpAGatingApprViaApprovalRule|set up a gating approval via an approval rule]].
+You can set up a gating approval via an approval rule.
 -   **[Set up a gating approval based on the item being ordered](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/c_SetUpGatingApprBasedOnOrdItem.md)**  
-In addition to adding approvals via [[c_ApprovalRules|approval rules]], you can also add approvals based on what kind of item is being ordered.
+In addition to adding approvals via approval rules, you can also add approvals based on what kind of item is being ordered.
 
 **Parent Topic:**[Approval rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/c_ApprovalRules.md)
 
@@ -39,8 +39,3 @@ In addition to adding approvals via [[c_ApprovalRules|approval rules]], you can 
 
 [Set up a gating approval based on the item being ordered](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/c_SetUpGatingApprBasedOnOrdItem.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[t_SetUpAGatingApprViaApprovalRule|Set up a gating approval via an approval rule]]
-- [[c_ApprovalRules|Approval rules]]

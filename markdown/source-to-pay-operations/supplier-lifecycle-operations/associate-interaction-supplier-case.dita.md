@@ -14,7 +14,7 @@ breadcrumb: [Interaction Management, Using Source-to-Pay Workspace, Use, Supplie
 
 # Associate an interaction record to a supplier case
 
-Associate an interaction record to a supplier case if your interaction is related to an existing [[supplier|supplier]] case in [[purch-order-mgmt-ws|Source-to-Pay Workspace]].
+Associate an interaction record to a supplier case if your interaction is related to an existing supplier case in Source-to-Pay Workspace.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ Role required: admin
 
 5.  Select More Actions \[Omitted image "more-actions-icon.png"\] Alt text: More actions icon. and then select **Associate record**.
 
-    The [[create-interaction-related-record-form|Create New Interaction Related Record form]] appears in a new tab.
+    The Create New Interaction Related Record form appears in a new tab.
 
 6.  In the **Supplier case** field, search for and select a supplier case that you want to associate with the interaction.\[Omitted image "associate-interaction-supplier-case.png"\] Alt text: Associate record pop-up window.
 
@@ -52,8 +52,3 @@ The interaction record is linked to the supplier case.
 
 [View or create an interaction for a supplier](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-new-interaction.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[create-interaction-related-record-form|Create new interaction related record form]]

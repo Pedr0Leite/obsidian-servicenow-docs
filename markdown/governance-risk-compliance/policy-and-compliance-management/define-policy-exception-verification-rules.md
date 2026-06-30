@@ -24,7 +24,7 @@ Role required: sn\_compliance.manager to create the policy exception and extensi
 
 1.  Navigate to **All** &gt; **Assignment and Approval Configurations** &gt; **Approval Configurations**.
 
-    The Approval Configurator is shipped with default templates for verification, final approval, and extension. The priority is set for each of them. By default, verification configuration is set with priority 1, [[bcm-approval-configuration|approval configuration]] is set to priority 2, and extension approval configuration to priority 3.
+    The Approval Configurator is shipped with default templates for verification, final approval, and extension. The priority is set for each of them. By default, verification configuration is set with priority 1, approval configuration is set to priority 2, and extension approval configuration to priority 3.
 
 2.  Select the configuration template.
 
@@ -130,6 +130,3 @@ The rules are now set for approvals for policy exception and extension.
 
 **Parent Topic:**[GRC Approval Configurator for approving policy exceptions and extensions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/grc-approval-configurator-for-policy-extension-and-exception.md)
 
-## Related
-
-- [[bcm-approval-configuration|Approval configuration]]

@@ -14,7 +14,7 @@ breadcrumb: [Crew Operations, Set up workforce, Configure, Field Service Managem
 
 # Create crews in Field Service Management
 
-[[create-crews-dispatcher-wrkspc|Create crews]] to assign work order tasks to a predefined group of agents.
+Create crews to assign work order tasks to a predefined group of agents.
 
 ## Before you begin
 
@@ -120,7 +120,7 @@ From
 
 </td><td>
 
-Effective from the date for the crew to [[t_StartWork|start work]].
+Effective from the date for the crew to start work.
 
 </td></tr><tr><td>
 
@@ -138,7 +138,3 @@ Effective to date for the crew to end work.
 
 The crew is created with the Groups, Skills, and Members related list records. If the Territory Planning plugin is activated and the Territory model is enabled, **Territory Memberships** related list appears with the list of territories associated with the crew.
 
-## Related
-
-- [[create-crews-dispatcher-wrkspc|Create crews]]
-- [[t_StartWork|Start work]]

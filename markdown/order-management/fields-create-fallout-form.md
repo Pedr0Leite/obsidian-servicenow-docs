@@ -12,7 +12,7 @@ breadcrumb: [Order Management reference, Reference, Sales Customer Relationship 
 
 # Fallout form fields
 
-The Fallout form enables you to manually create, review, and [[Modify|modify]] the order fallout records.
+The Fallout form enables you to manually create, review, and modify the order fallout records.
 
 <table id="table_bty_b5h_rqb"><thead><tr><th>
 
@@ -51,7 +51,7 @@ Inadequate inventory. An ordered item can't be fulfilled.
 Associated system that is unavailable due to connectivity problems, timeouts, or other issues.
 
 
-**Note:** You can also create additional fallout types, as per the requirements of your enterprise. To learn more, see [[configure-fallout-management|Create additional fallout types]].
+**Note:** You can also create additional fallout types, as per the requirements of your enterprise. To learn more, see [Create additional fallout types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-fallout-management.md).
 
 To view the associated details or search for another fallout type:
 
@@ -181,10 +181,5 @@ Attachments
 File attachments for the fallout record. Select **Select file** to add the file as an attachment.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[order-mgt-reference|Order Management reference]]
+</table>**Parent Topic:**[Order Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-reference.md)
 
-## Related
-
-- [[configure-fallout-management|Configuring Fallout Management]]
-- [[order-mgt-reference|Order Management reference]]
-- [[Modify|Modify]]

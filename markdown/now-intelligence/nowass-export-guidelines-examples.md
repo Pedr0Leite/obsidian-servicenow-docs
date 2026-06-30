@@ -12,7 +12,7 @@ breadcrumb: [Export dashboards and visualizations, Platform Analytics in the Now
 
 # Export guidelines and examples
 
-In your prompts for the [[activate-db-dv-export-skill|dashboard and visualization export skill]], you can describe the export you want with a variable amount of detail. You are prompted for any necessary information that is missing. Before the export runs, you are asked to review the request, giving you a chance to change any options.
+In your prompts for the dashboard and visualization export skill, you can describe the export you want with a variable amount of detail. You are prompted for any necessary information that is missing. Before the export runs, you are asked to review the request, giving you a chance to change any options.
 
 \[Omitted image "export-request-review.png"\] Alt text: Prompt to review a request to export a dashboard.
 
@@ -41,7 +41,7 @@ Here are some example requests with different levels of detail, to use in differ
     In this case, you export the open dashboard and apply any filters on the dashboard as a whole and on any tabs. If you export a dashboard tab with applied filters, you apply only the top-level dashboard filters and the filters on that tab. You can apply filters only when exporting to PowerPoint.
 
 
-**Parent Topic:**[[export-db-dv-now-assist-panel|Export dashboards and data visualizations from the Now Assist panel]]
+**Parent Topic:**[Export dashboards and data visualizations from the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/export-db-dv-now-assist-panel.md)
 
 **Related topics**  
 
@@ -52,7 +52,3 @@ Here are some example requests with different levels of detail, to use in differ
 
 [Limitations for exporting dashboards and visualizations]()
 
-## Related
-
-- [[export-db-dv-now-assist-panel|Export dashboards and data visualizations from the Now Assist panel]]
-- [[activate-db-dv-export-skill|Dashboard and visualization export skill]]

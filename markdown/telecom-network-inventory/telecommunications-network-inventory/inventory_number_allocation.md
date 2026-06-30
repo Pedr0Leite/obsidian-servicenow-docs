@@ -14,7 +14,7 @@ breadcrumb: [Explore, Telecommunications Network Inventory]
 
 # Inventory number allocation
 
-You can [[manage-ip-addresses|manage IP addresses]], telephone number allocations, virtual local area networks \(VLANs\), or link aggregation groups \(LAGs\) by using the inventory number allocation of the [[telecom-network-inventory|Telecommunications Network Inventory]] application. By using this feature, you can organize, track, and manage the physical and logical numbers.
+You can manage IP addresses, telephone number allocations, virtual local area networks \(VLANs\), or link aggregation groups \(LAGs\) by using the inventory number allocation of the Telecommunications Network Inventory application. By using this feature, you can organize, track, and manage the physical and logical numbers.
 
 ## Benefits
 
@@ -35,7 +35,3 @@ By using the Telecommunications Network Inventory application, you can manage:
 2.  Telephone numbers. For more information, see [Telephone allocation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telephone_number_management.md).
 3.  VLANs and LAGs. For more information, see [Define your inventory numbering](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/define-tni-inventory-numbers.md).
 
-## Related
-
-- [[manage-ip-addresses|Manage IP addresses]]
-- [[telecom-network-inventory|Telecommunications Network Inventory]]

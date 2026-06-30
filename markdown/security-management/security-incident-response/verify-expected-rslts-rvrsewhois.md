@@ -38,14 +38,14 @@ Role required: sn\_si.analyst
 
 5.  Navigate back to the security incident, and with the **ReverseWhois Domains** tab selected, click an observable in the **Observable** column to open a record.
 
-    The child [[c_Observables|observables]] are displayed on the **Child Observables** tab on the Observable record. The child observables are generated only if the Reverse Whois application has returned domains.
+    The child observables are displayed on the **Child Observables** tab on the Observable record. The child observables are generated only if the Reverse Whois application has returned domains.
 
 
 If the lookup does not successfully complete, verify that the search terms you entered are supported by the integration. Review the work notes for more information.
 
 ## What to do next
 
-For more enrichment data on the domain lookup results, you can run the [[tisc-whoisxml-integration|Whois integration]] to perform enrichment lookups on the child observables returned by the [[reversewhois-lookups|Reverse Whois integration]]. This enrichment data on the child observables includes information on registration date, name of registrar, and country of origin.
+For more enrichment data on the domain lookup results, you can run the Whois integration to perform enrichment lookups on the child observables returned by the Reverse Whois integration. This enrichment data on the child observables includes information on registration date, name of registrar, and country of origin.
 
 **Parent Topic:**[Reverse Whois integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/reversewhois-lookups.md)
 
@@ -53,8 +53,3 @@ For more enrichment data on the domain lookup results, you can run the [[tisc-wh
 
 **Next topic:**[\(Optional\) Run enrichment lookup and verify expected results for Whois](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/verify-expected-results-for-whois.md)
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[tisc-whoisxml-integration|Whois integration]]
-- [[reversewhois-lookups|Reverse Whois integration]]

@@ -14,13 +14,13 @@ breadcrumb: [Configure, Threat Intelligence Security Center, Security Operations
 
 # Set up Threat Intelligence Security Center
 
-Before you use the [[tisc-landing-page|Threat Intelligence Security Center]], you must download it from the ServiceNow Store.
+Before you use the Threat Intelligence Security Center, you must download it from the ServiceNow Store.
 
 ## Roles installed
 
 Review the following information and verify that you’ve completed all the tasks for a smooth integration. Following is the list of different user persona defined to access and work with the application:
 
--   [[threat-intel-landing-page|Threat Intelligence]] analyst \(sn\_sec\_tisc.analyst\)
+-   Threat Intelligence analyst \(sn\_sec\_tisc.analyst\)
 -   Threat Intelligence administrator \(sn\_sec\_tisc.admin\)
 
 <table id="table_lfk_hkv_21c"><thead><tr><th>
@@ -40,12 +40,12 @@ Assign and verify the required ServiceNow AI Platform and Threat Intelligence Se
 The following roles are required for configuration and verification of the expected results:-   As an admin, you must install the TISC application from the ServiceNow Store and assign the role as sn\_sec\_tisc.admin.
 -   This sn\_sec\_tisc.admin role performs the following tasks:
 
-    -   Configures the [[data-sources|Data Sources]] to ingest the data. For more information, see [Threat Intelligence Feeds](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/threat-intelligence-feeds.md).
-    -   Configured the integrations required to enrich [[c_Observables|observables]] in TISC. For more information, see [TISC Enrichment integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-enrichment-integrations.md).
+    -   Configures the Data Sources to ingest the data. For more information, see [Threat Intelligence Feeds](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/threat-intelligence-feeds.md).
+    -   Configured the integrations required to enrich observables in TISC. For more information, see [TISC Enrichment integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-enrichment-integrations.md).
     -   Configures data import approvals to import the intelligence data using Import Intelligence. For more information, see [Working with Data Imports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/working-with-data-imports.md).
     -   Configures Threat Score Calculator using required criteria for automatic calculation of Threat Score of observables. For more information, see [Define Threat Score Calculator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/threat-score-calculator.md).
     -   Configures required Taxonomies and Taxonomy Values. For more information, see [Creating Taxonomies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/create-taxonomies.md).
-    -   Configure the [[tisc-mitre-att-ck-framework-overview|MITRE-ATT&amp;CK repository]] relevant to your organization. For more information, see [MITRE-ATT&amp;CK Repository](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-mitre-att-ck-framework-overview.md).
+    -   Configure the MITRE-ATT&amp;CK repository relevant to your organization. For more information, see [MITRE-ATT&amp;CK Repository](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-mitre-att-ck-framework-overview.md).
 **Note:** As a sn\_sec\_tisc.admin, you can also assign the sn\_sec\_tisc.analyst role.
 
 -   The sn\_sec\_tisc.analyst role performs the following tasks:
@@ -69,7 +69,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-This following applications are required to installTISC:-   [[case-mgmt|Security Case Management]] common workspace components \[com.snc.escm.ws\_commons\].
+This following applications are required to installTISC:-   Security Case Management common workspace components \[com.snc.escm.ws\_commons\].
 -   Threat Intelligence Support Common \[com.snc.threat\].
 -   Column Level Encryption \(com.glide.encryption\)
 -   Large JSON and XML Payload Builder API \(com.glide.streaming\_builder\)
@@ -84,11 +84,3 @@ Verify that the ServiceNow core applications that are required to support the in
 
 [Set Threat Intelligence Security Center properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-set-properties.md).
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[data-sources|Data Sources]]
-- [[c_Observables|Observables]]
-- [[tisc-mitre-att-ck-framework-overview|MITRE-ATT&amp;CK Repository]]
-- [[case-mgmt|Security Case Management]]

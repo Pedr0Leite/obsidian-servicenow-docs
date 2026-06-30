@@ -14,7 +14,7 @@ breadcrumb: [Plan sprints, Agile in CWM, Use, Collaborative Work Management, Str
 
 # Update sprint details in CWM
 
-Modify the duration, capacity, and dates for a sprint in [[cwm-landing|Collaborative Work Management]].
+Modify the duration, capacity, and dates for a sprint in Collaborative Work Management.
 
 ## Before you begin
 
@@ -48,6 +48,3 @@ Role required: sn\_cwm.cwm\_user
 
 [Delete a sprint in CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/delete-sprint-in-cwm.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

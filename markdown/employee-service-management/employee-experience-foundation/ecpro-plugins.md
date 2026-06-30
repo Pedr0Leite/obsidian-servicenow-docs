@@ -14,7 +14,7 @@ breadcrumb: [Admin configurations, Configuring Employee Center Pro, Employee Cen
 
 # Employee Center Pro plugins
 
-[[discover-lxp|Discover]] the Employee Center Pro plugins that are included out-of-the-box on a new ServiceNow® instance, as well as plugins that are installed when you upgrade to [[employee-center-pro-landing|Employee Center Pro]].
+Discover the Employee Center Pro plugins that are included out-of-the-box on a new ServiceNow® instance, as well as plugins that are installed when you upgrade to Employee Center Pro.
 
 ## Installed with Employee Center Pro
 
@@ -30,7 +30,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[employee-center-landing-page|Employee Center]] \(sn\_ex\_sp\)
+Employee Center \(sn\_ex\_sp\)
 
 </td><td>
 
@@ -46,7 +46,7 @@ Employee Center Pro extends the standard Employee Center capabilities and provid
 
 </td></tr><tr><td>
 
-[[hr-integrations-framework|Enterprise Service Management Integrations Framework]] \(sn\_hr\_integ\_fw\)
+Enterprise Service Management Integrations Framework \(sn\_hr\_integ\_fw\)
 
 </td><td>
 
@@ -99,7 +99,7 @@ Package your content into a campaign using multiple channels to deliver the righ
 
 ## Plugins to extend Employee Center Pro capabilities
 
-The following plugins are available after you [[install-ec-pro|install Employee Center Pro]]. It is not required to install all the plugins, however some plugins depend on other plugins to function.
+The following plugins are available after you install Employee Center Pro. It is not required to install all the plugins, however some plugins depend on other plugins to function.
 
 <table id="table_yb4_2fv_q1c"><thead><tr><th>
 
@@ -111,7 +111,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[emp-slate-employee-profile|Employee Profile]] \(sn\_employee\)
+Employee Profile \(sn\_employee\)
 
 </td><td>
 
@@ -129,7 +129,7 @@ The Communities plugin supports [Employee Forums](https://raw.githubusercontent.
 
 </td></tr><tr><td>
 
-[[ecpro-content-automation-analytics|Content Analytics]] \(sn\_cda\)
+Content Analytics \(sn\_cda\)
 
 </td><td>
 
@@ -150,12 +150,3 @@ Content Governance provides a streamlined way for employees to request content t
 </td></tr></tbody>
 </table>For more information, see the [List of plugins \(Australia\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md).
 
-## Related
-
-- [[discover-lxp|Discover]]
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[employee-center-landing-page|Employee Center]]
-- [[hr-integrations-framework|Enterprise Service Management Integrations Framework]]
-- [[install-ec-pro|Install Employee Center Pro]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[ecpro-content-automation-analytics|Content Analytics]]

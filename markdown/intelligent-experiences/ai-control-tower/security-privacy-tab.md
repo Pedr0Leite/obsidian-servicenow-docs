@@ -16,15 +16,15 @@ breadcrumb: [AI Control Tower Home, AI Control Tower dashboard, Explore, AI Cont
 
 Review AI asset security metrics such as access issues, dormant and privileged AI agents, and map the relationships of your ServiceNow agents, agentic workflows, and tools.
 
-The **Security &amp; privacy** tab of [[ai-control-tower-landing|AI Control Tower]] offers a dashboard-based overview of your AI asset security metrics. The dashboard contains several visualizations detailing AI asset security metrics. In addition to tracking metrics, the **Security &amp; privacy** tab contains the access map, a tool that gives an node-graph visualization of the relationships between your ServiceNow agents, agentic workflows, and tools. You can use the map to investigate the relationships between your AI agents and workflows further.
+The **Security &amp; privacy** tab of AI Control Tower offers a dashboard-based overview of your AI asset security metrics. The dashboard contains several visualizations detailing AI asset security metrics. In addition to tracking metrics, the **Security &amp; privacy** tab contains the access map, a tool that gives an node-graph visualization of the relationships between your ServiceNow agents, agentic workflows, and tools. You can use the map to investigate the relationships between your AI agents and workflows further.
 
 **Note:** You can drill down into the data on each widget by selecting the chart.
 
-\[Omitted image "sp-tab-dashboard.png"\] Alt text: Security &amp; privacy tab on the [[ai-governance|AI Control Tower dashboard]].
+\[Omitted image "sp-tab-dashboard.png"\] Alt text: Security &amp; privacy tab on the AI Control Tower dashboard.
 
 ## ServiceNow AI Insights
 
-ServiceNow AI Insights require that the [[platform-now-assist-landing|Now Assist]] AICT Security Posture Summarizer skill is enabled. For more details, see [[configure-a-now-assist-skill|Activate a Now Assist skill]].
+ServiceNow AI Insights require that the Now Assist AICT Security Posture Summarizer skill is enabled. For more details, see [Activate a Now Assist skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-a-now-assist-skill.md).
 
 AI Control Tower AI insights summarize positives and potential issues to remediate to improve the overall security posture of your instance.
 
@@ -47,7 +47,7 @@ In Access issues, the User ID is the ID of the user who ran the agent.
 
 ## AI asset security score
 
-The AI asset security score is a measure of the health of your [[ai-assets|AI assets]] in terms of access issues, privileged AI agents, and dormant [[ai-system|AI systems]].
+The AI asset security score is a measure of the health of your AI assets in terms of access issues, privileged AI agents, and dormant AI systems.
 
 \[Omitted image "sp-tab-ai-score.png"\] Alt text: ServiceNow AI asset security score.
 
@@ -107,7 +107,7 @@ Date the issue occurred.
 
 </td></tr><tr><td>
 
-[[ai-task-all-security-tasks|AI Task]]
+AI Task
 
 </td><td>
 
@@ -154,7 +154,7 @@ The AI asset security task to remediate the issue, if applicable.
 
 ## ServiceNow instance access to MCP servers
 
-MCP server access metrics include MCP client-server interactions routed through this instance's [[ai-gateway-overview|AI Gateway]]. Interactions that bypass the AI Gateway or are routed through another instance's AI Gateway aren't included.
+MCP server access metrics include MCP client-server interactions routed through this instance's AI Gateway. Interactions that bypass the AI Gateway or are routed through another instance's AI Gateway aren't included.
 
 -   **Clients connecting to MCP servers**
 
@@ -173,7 +173,7 @@ MCP server access metrics include MCP client-server interactions routed through 
 
 -   **Prompt injection**
 
-    These charts show prompt injection data provided by Now Assist Guardian. To see data, enable Now Assist Guardian for your instance. For more details, see [[now-assist-guardian-analytics|Now Assist Guardian analytics]].
+    These charts show prompt injection data provided by Now Assist Guardian. To see data, enable Now Assist Guardian for your instance. For more details, see [Now Assist Guardian analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-guardian-analytics.md).
 
 -   **Offensive content**
 
@@ -181,7 +181,7 @@ MCP server access metrics include MCP client-server interactions routed through 
 
 -   **Sensitive data**
 
-    The Sensitive data detected chart shows sensitive data that was identified in user responses to Now Assist [[ai-prompts|prompts]]. Exposure of sensitive data is limited to the LLM in your instance.
+    The Sensitive data detected chart shows sensitive data that was identified in user responses to Now Assist prompts. Exposure of sensitive data is limited to the LLM in your instance.
 
     The Sensitive data anonymized chart shows prompt data that met configured data patterns. This data was anonymized based on the configuration for the pattern in Configuration Data Patterns in Data Privacy.
 
@@ -211,15 +211,4 @@ MCP server access metrics include MCP client-server interactions routed through 
 
     **Note:** These security-vulnerable patterns are ever-evolving, so not all patterns may be identified.
 
-## Related
 
-- [[configure-a-now-assist-skill|Activate a Now Assist skill]]
-- [[now-assist-guardian-analytics|Now Assist Guardian analytics]]
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[ai-governance|AI Control Tower dashboard]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[ai-assets|AI assets]]
-- [[ai-system|AI systems]]
-- [[ai-task-all-security-tasks|AI Task]]
-- [[ai-gateway-overview|AI Gateway]]
-- [[ai-prompts|Prompts]]

@@ -14,7 +14,7 @@ breadcrumb: [Search application configurations, Configuring AI Search, AI Search
 
 # Configure source facet buckets in an AI Search application configuration
 
-Define settings for source facet buckets in a search application configuration. Users of the application can select source facet buckets to refine their search query [[hs-results|results]] by search source.
+Define settings for source facet buckets in a search application configuration. Users of the application can select source facet buckets to refine their search query results by search source.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: search\_application\_admin
 
 ## About this task
 
-[[ia-ai-search|AI Search]] automatically defines source facet buckets for [[defining-search-app-cfgs-ais|search application configurations]]. Each bucket is tied to a search source linked to the search application configuration's search profile. You can't create or delete these source facet buckets.
+AI Search automatically defines source facet buckets for search application configurations. Each bucket is tied to a search source linked to the search application configuration's search profile. You can't create or delete these source facet buckets.
 
 Use this procedure to configure display settings for source facet buckets in your search application configuration.
 
@@ -34,7 +34,7 @@ Use this procedure to configure display settings for source facet buckets in you
 
 3.  In the Source Facet Buckets related list, open the source facet bucket that you want to configure.
 
-4.  On the [[navigation-tab-form-ais|Source Facet Bucket form]], fill in the fields.
+4.  On the Source Facet Bucket form, fill in the fields.
 
     For a description of the field values, see [Source Facet Bucket form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/navigation-tab-form-ais.md).
 
@@ -47,9 +47,3 @@ The source facet bucket appears with updated settings in the Source Facet Bucket
 
 **Parent Topic:**[Search application configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/defining-search-app-cfgs-ais.md)
 
-## Related
-
-- [[hs-results|Results]]
-- [[ia-ai-search|AI Search]]
-- [[defining-search-app-cfgs-ais|Search application configurations]]
-- [[navigation-tab-form-ais|Source Facet Bucket form]]

@@ -14,17 +14,17 @@ breadcrumb: [Procuring enterprise assets, Enterprise Asset Management, IT Asset 
 
 # Source requests from Enterprise Asset workspace
 
-You can create a request in the Service Catalog application and source that request from the [[using-eam-workspace|Enterprise Asset Workspace]].
+You can create a request in the Service Catalog application and source that request from the Enterprise Asset Workspace.
 
 ## Before you begin
 
-You can source a request by using assets from the requester's local stockroom, if stock is available in the local stockroom. If stock is unavailable in the local stockroom, you can get the assets transferred from other [[c_Stockrooms|stockrooms]] or [[t_CreateAPurchaseOrder|create a purchase order]].
+You can source a request by using assets from the requester's local stockroom, if stock is available in the local stockroom. If stock is unavailable in the local stockroom, you can get the assets transferred from other stockrooms or create a purchase order.
 
 Role required: proc\_user
 
 ## Procedure
 
-1.  Navigate to **Enterprise Asset Workspace** &gt; **[[c_Procurement|Procurement]]** &gt; **Catalog tasks**.
+1.  Navigate to **Enterprise Asset Workspace** &gt; **Procurement** &gt; **Catalog tasks**.
 
 2.  Open the sourcing task for the request and select **Source request**.
 
@@ -36,7 +36,7 @@ Role required: proc\_user
 
     -   **Transfer**: If the stock isn’t available in your local stockroom and you want to source the request via a transfer order.
 
-        **Note:** If you [[create-a-transfer-order|create a transfer order]] and want the local stockroom to be included in the list of stockrooms to choose from, the admin must turn on the `glide.asset.procurement.sourcing.local_stock_transfer` property.
+        **Note:** If you create a transfer order and want the local stockroom to be included in the list of stockrooms to choose from, the admin must turn on the `glide.asset.procurement.sourcing.local_stock_transfer` property.
 
     -   **Purchase**: If the stock isn’t available in your local stockroom and you want to source a request via a purchase order.
 4.  Fill in the required fields based on the option that you choose.
@@ -45,10 +45,4 @@ Role required: proc\_user
 
     A task for transfer order line or purchase order line is created if you selected **Transfer** or **Purchase**. You can open the request to view the task.
 
-## Related
 
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[c_Stockrooms|Stockrooms]]
-- [[t_CreateAPurchaseOrder|Create a purchase order]]
-- [[c_Procurement|Procurement]]
-- [[create-a-transfer-order|Create a transfer order]]

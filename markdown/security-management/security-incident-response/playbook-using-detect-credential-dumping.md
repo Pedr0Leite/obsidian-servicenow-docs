@@ -14,7 +14,7 @@ breadcrumb: [Playbook for T1003 - Detect Credential Dumping Tools, Flow-based Pl
 
 # Use the T1003 - Detect Credential Dumping Tools playbook
 
-Use this playbook to investigate an incident involving credential dumping activities. The following steps give you a walkthrough of the actions, tasks, and subflows that are available in the T1003 - Detect Credential Dumping [[tools|Tools]] playbook.
+Use this playbook to investigate an incident involving credential dumping activities. The following steps give you a walkthrough of the actions, tasks, and subflows that are available in the T1003 - Detect Credential Dumping Tools playbook.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Role required:
 -   sn\_si.admin
 -   flow\_designer
 
-Make sure you have installed [[security-operations-landing-page|Security Operations]] Spoke \(`sn_sec_spoke`\).
+Make sure you have installed Security Operations Spoke \(`sn_sec_spoke`\).
 
 ## Procedure
 
@@ -67,7 +67,3 @@ Make sure you have installed [[security-operations-landing-page|Security Operati
 
 **Parent Topic:**[Playbook for T1003 - Detect Credential Dumping Tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbook-detect-credential-dumping-tools.md)
 
-## Related
-
-- [[tools|Tools]]
-- [[security-operations-landing-page|Security Operations]]

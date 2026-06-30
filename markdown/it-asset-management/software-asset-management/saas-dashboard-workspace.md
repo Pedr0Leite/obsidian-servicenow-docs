@@ -14,11 +14,11 @@ breadcrumb: [Software asset analytics view, Software Asset Workspace, Exploring 
 
 # SaaS overview dashboard in workspace
 
-View all SaaS related analytics for pure SaaS, Microsoft Office 365, and Adobe Cloud in the [[saas-overview-dashboard|SaaS overview dashboard]] in the [[analytics-workspace|Software asset analytics view]].
+View all SaaS related analytics for pure SaaS, Microsoft Office 365, and Adobe Cloud in the SaaS overview dashboard in the Software asset analytics view.
 
 Optimize your organization's cost on SaaS by analyzing the subscription usage, cost, and compliance for your SaaS applications on the SaaS overview dashboard. You can also view compliance analysis results related to Microsoft Office 365 and Adobe Cloud.
 
-**Note:** The SaaS overview dashboard is only visible if you activate the [[c_SoftwareAssetMgmt|Software Asset Management]] - [[sam-subscription-management|SaaS License Management]] plugin from ServiceNow Store.
+**Note:** The SaaS overview dashboard is only visible if you activate the Software Asset Management - SaaS License Management plugin from ServiceNow Store.
 
 You can filter the dashboard by instance, publisher, software model, or domain. Select any report to see more information.
 
@@ -27,7 +27,7 @@ You can filter the dashboard by instance, publisher, software model, or domain. 
 -   Domain Support - Domain Extensions Installer \(com.glide.domain.msp\_extensions.installer\)
 -   Performance Analytics - Domain Support \(com.snc.pa.domain\_support\)
 
-You can access the SaaS overview dashboard by navigating to **Workspaces** &gt; **[[sam-workspace|Software Asset Workspace]]** &gt; **Software asset analytics**.
+You can access the SaaS overview dashboard by navigating to **Workspaces** &gt; **Software Asset Workspace** &gt; **Software asset analytics**.
 
 \[Omitted image "software-analytics-workspace.png"\] Alt text: SaaS Overview dashboard in workspace
 
@@ -137,7 +137,7 @@ Software Subscription\[samp\_sw\_subscription\]
 
 </td><td>
 
-Total number of assigned rights for SaaS [[c_CreatingSoftwareModels|software models]].
+Total number of assigned rights for SaaS software models.
 
 </td></tr><tr><td>
 
@@ -197,7 +197,7 @@ Software Subscription\[samp\_sw\_subscription\]
 
 </td><td>
 
-Distribution of users based on their subscription software usage behavior. Use this data to identify the users with the highest software usage and determine the most appropriate threshold for your [[sw-reclamation-rules|software reclamation rules]]. This report displays the data if there's no activity, for 30 days, and for 120 or more days.
+Distribution of users based on their subscription software usage behavior. Use this data to identify the users with the highest software usage and determine the most appropriate threshold for your software reclamation rules. This report displays the data if there's no activity, for 30 days, and for 120 or more days.
 
 </td></tr><tr><td>
 
@@ -317,13 +317,3 @@ Graphical representation of the number of software units consumed vs the number 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[saas-overview-dashboard|SaaS Overview dashboard]]
-- [[analytics-workspace|Software asset analytics view]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-subscription-management|SaaS License Management]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[sw-reclamation-rules|Software reclamation rules]]

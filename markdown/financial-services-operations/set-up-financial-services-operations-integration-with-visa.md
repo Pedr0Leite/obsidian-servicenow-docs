@@ -12,7 +12,7 @@ breadcrumb: [Configure, Visa, Integrate, Financial Services Operations \(FSO\)]
 
 # Set up Financial Services Operations Integration with Visa
 
-Configure the [[financial-services-operations-integration-with-visa-landing-page|Financial Services Operations Integration with Visa]] application by using the Visa connection and credential record to authenticate ServiceNow requests.
+Configure the Financial Services Operations Integration with Visa application by using the Visa connection and credential record to authenticate ServiceNow requests.
 
 ## Before you begin
 
@@ -43,9 +43,5 @@ Role required: admin
 
 To view the action execution details, click **Your test has finished running. View the Action execution details.**
 
-**Parent Topic:**[[configuring-financial-services-operations-integration-with-visa|Configuring Financial Services Operations Integration with Visa]]
+**Parent Topic:**[Configuring Financial Services Operations Integration with Visa](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configuring-financial-services-operations-integration-with-visa.md)
 
-## Related
-
-- [[configuring-financial-services-operations-integration-with-visa|Configuring Financial Services Operations Integration with Visa]]
-- [[financial-services-operations-integration-with-visa-landing-page|Financial Services Operations Integration with Visa]]

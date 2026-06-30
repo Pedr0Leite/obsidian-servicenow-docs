@@ -12,7 +12,7 @@ breadcrumb: [Associating locations to consumer profiles, Creating multiple consu
 
 # Create and associate a location to a consumer profile
 
-Create a location and associate it with the consumer profile in the [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) application. With this functionality, you can create and associate multiple addresses to a consumer profile that serve other purposes.
+Create a location and associate it with the consumer profile in the Customer Service Management \(CSM\) application. With this functionality, you can create and associate multiple addresses to a consumer profile that serve other purposes.
 
 ## Before you begin
 
@@ -46,7 +46,7 @@ Here's an example of why a user created and associated a location to the consume
 
     **Note:** If multiple consumer profile location records are associated with the location, you can't delete a location record.
 
-    A new address is created and added to the **Location** field. You can associate this location to the consumer profile. For a description of the field values, see [[consumer-profile-location-table|Consumer Profile Location table]].
+    A new address is created and added to the **Location** field. You can associate this location to the consumer profile. For a description of the field values, see [Consumer Profile Location table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/consumer-profile-location-table.md).
 
 7.  Select **Update**.
 
@@ -54,10 +54,5 @@ Here's an example of why a user created and associated a location to the consume
 **Related topics**  
 
 
-[[assoc-existing-consumer-loc|Associate an existing consumer location with a consumer profile]]
+[Associate an existing consumer location with a consumer profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/assoc-existing-consumer-loc.md)
 
-## Related
-
-- [[consumer-profile-location-table|Consumer Profile Location table]]
-- [[assoc-existing-consumer-loc|Associate an existing consumer location with a consumer profile]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

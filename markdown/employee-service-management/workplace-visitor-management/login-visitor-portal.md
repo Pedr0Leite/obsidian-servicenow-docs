@@ -14,7 +14,7 @@ breadcrumb: [Using the visitor portal, Workplace Visitor Management, Workplace S
 
 # Logging in to the visitor portal
 
-Log in to the [[visitor-portal|visitor portal]] as an internal user or an external user.
+Log in to the visitor portal as an internal user or an external user.
 
 ## Log in as an internal visitor
 
@@ -63,6 +63,4 @@ Role required: None
 
     Alternatively, you can select a different email address by selecting **Use a different email**.
 
-## Related
 
-- [[visitor-portal|Visitor portal]]

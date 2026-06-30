@@ -19,12 +19,9 @@ The Task table structure provides a framework to organize and store task-related
 -   **[Important Task table fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/r_ImportantTaskTableFields.md)**  
 The Task table is a base class that provides fields for the core ITSM applications such as Incident, Problem, and Change Management. All applications that extend the Task table share these fields in common.
 -   **[Journal fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/r_JournalFields.md)**  
-[[r_JournalFields|Journal fields]] work together to create a log of changes and comments as tasks are worked on.
+Journal fields work together to create a log of changes and comments as tasks are worked on.
 -   **[Reminder table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/reminder-table.md)**  
 The Reminder \[reminder\] table provides a way to auto-generate reminders for a task.
 
 **Parent Topic:**[Working with the Task table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_TaskTable.md)
 
-## Related
-
-- [[r_JournalFields|Journal fields]]

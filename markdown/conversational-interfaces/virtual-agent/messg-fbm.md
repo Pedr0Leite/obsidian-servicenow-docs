@@ -22,7 +22,7 @@ Select a tile to get started.
 
 <table id="table_ev3_ndm_v4b" class="nav-card"><tbody><tr><td>
 
-[Explore\[Omitted image "bus-explore.svg"\] Alt text:Integrate Conversational Integration with Facebook Messenger with [[virtual-agent-landing-page|Virtual Agent]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/exploring-va-fb-messenger.md)
+[Explore\[Omitted image "bus-explore.svg"\] Alt text:Integrate Conversational Integration with Facebook Messenger with Virtual Agent.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/exploring-va-fb-messenger.md)
 
 </td><td>
 
@@ -54,6 +54,3 @@ Enable a requester to converse with an agent using the Facebook Messenger chat c
 
 **Parent Topic:**[Integrating Virtual Agent with messaging apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-integration-messaging-apps.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

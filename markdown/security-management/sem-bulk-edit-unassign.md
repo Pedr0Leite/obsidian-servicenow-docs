@@ -29,7 +29,7 @@ The  unassign  feature is applicable for records in any state other than Clo
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sem-workspace-user-interface|Security Exposure Management Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Security Exposure Management Workspace**.
 
 2.  On the List page, under Host Vulnerable items, open the Active or All list.
 
@@ -114,9 +114,5 @@ In the Security Exposure Management Workspace, on the List page, navigate to **E
 
 In the **Activity stream** of a record or remediation task, you can view the entire workflow of your request.
 
-**Parent Topic:**[[sem-using-bulk-edit|Using bulk edit in the Security Exposure Management Workspace]]
+**Parent Topic:**[Using bulk edit in the Security Exposure Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-using-bulk-edit.md)
 
-## Related
-
-- [[sem-using-bulk-edit|Using bulk edit in the Security Exposure Management Workspace]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]

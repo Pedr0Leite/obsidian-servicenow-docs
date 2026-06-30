@@ -14,7 +14,7 @@ breadcrumb: [ServiceNow AI Lens, Enable AI experiences]
 
 # ServiceNow AI Lens reference
 
-Reference topics provide additional information about the roles and tables that are installed with the [[servicenow-lens-landing-page|ServiceNow AI Lens]] application.
+Reference topics provide additional information about the roles and tables that are installed with the ServiceNow AI Lens application.
 
 -   **[Components installed with ServiceNow AI Lens](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/components-installed-sn-lens.md)**  
 Several types of components are installed with the activation of the ServiceNow AI Lens plugin, including user roles.
@@ -27,6 +27,3 @@ Use the AILensActionService script include together with Lens actions to leverag
 
 **Parent Topic:**[ServiceNow AI Lens](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/servicenow-lens-landing-page.md)
 
-## Related
-
-- [[servicenow-lens-landing-page|ServiceNow AI Lens]]

@@ -14,7 +14,7 @@ breadcrumb: [Set up the Google Cloud Translator Service spoke, Google Cloud Tran
 
 # Create a JWT provider for Google Cloud Translator Service spoke
 
-Add a JSON Web Token \(JWT\) provider to [[google-translator-spoke|Google Cloud Translator Service spoke]].
+Add a JSON Web Token \(JWT\) provider to Google Cloud Translator Service spoke.
 
 ## Before you begin
 
@@ -54,6 +54,3 @@ Role required: admin
 
 **Next topic:**[Configure the credential for the GoogleTranslation alias](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/configure-credential-google.md)
 
-## Related
-
-- [[google-translator-spoke|Google Cloud Translator Service Spoke]]

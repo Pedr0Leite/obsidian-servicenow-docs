@@ -14,7 +14,7 @@ breadcrumb: [Configure, Now Assist for HR Service Delivery \(HRSD\), HR Service 
 
 # Configure HCM AI agents from the HR Service Delivery AI Agent Collection
 
-Enable your employees to place requests to the Human Capital Management \(HCM\) system using the [[now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\)]] agent collection.
+Enable your employees to place requests to the Human Capital Management \(HCM\) system using the Now Assist for HR Service Delivery \(HRSD\) agent collection.
 
 ## Before you begin
 
@@ -32,17 +32,17 @@ Role required: flow\_designer, decision\_table\_admin, sn\_hr\_integr\_fw.admin,
 
     For more information, see [Integration of HR Service Delivery with third-party systems](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/integrate-third-party-systems.md).
 
-4.  Create [[flows-ukg|subflows]] aligning with Template Integration Gateway, or use default subflows that have been created for your HCM system.
+4.  Create subflows aligning with Template Integration Gateway, or use default subflows that have been created for your HCM system.
 
     For more information, see [Create a subflow using Template Integration Gateway](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-integration-gateway.md).
 
-    **Note:** The subflows for Oracle HCM can be used as a [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] to build subflows for any other HCM systems.
+    **Note:** The subflows for Oracle HCM can be used as a reference to build subflows for any other HCM systems.
 
 5.  Add input choices and define conditions and results in a decision table for the Integration Gateway subflow.
 
     For more information, see [Configure Integration Provider Mapping \(Decision table\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-integration-mapping.md).
 
-6.  Duplicate available [[conversational-agents|HCM AI agents]] to run them autonomously.
+6.  Duplicate available HCM AI agents to run them autonomously.
 
     For more information, see [Duplicate an AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/clone-ai-agent.md) For list of available agents, see [Using agentic workflows in Now Assist for HRSD](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/now-assist-hrsd-ai-agents-use-cases.md).
 
@@ -51,9 +51,3 @@ Role required: flow\_designer, decision\_table\_admin, sn\_hr\_integr\_fw.admin,
 
 **Parent Topic:**[Configure Now Assist for HR Service Delivery \(HRSD\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/configure-now-assist-hr.md)
 
-## Related
-
-- [[now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\)]]
-- [[flows-ukg|Subflows]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[conversational-agents|HCM AI agents]]

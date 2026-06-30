@@ -14,7 +14,7 @@ breadcrumb: [Local authentication, Authentication, Access Management]
 
 # Configure the logout confirmation prompt
 
-You can enable a logout confirmation prompt to prevent [[users|users]] from inadvertently logging themselves out.
+You can enable a logout confirmation prompt to prevent users from inadvertently logging themselves out.
 
 ## Before you begin
 
@@ -26,14 +26,10 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ca-system-properties|System Properties]]** &gt; **System**.
+1.  Navigate to **All** &gt; **System Properties** &gt; **System**.
 
-2.  Locate the **Prompt user to confirm a logout [[c_requestAPI|request]]** property and select the check box.
+2.  Locate the **Prompt user to confirm a logout request** property and select the check box.
 
 3.  When the user clicks the **Logout** button, a confirmation dialog box displays.
 
-## Related
 
-- [[users|Users]]
-- [[ca-system-properties|System properties]]
-- [[c_requestAPI|request]]

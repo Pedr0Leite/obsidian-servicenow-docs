@@ -35,8 +35,8 @@ Role required: pa\_power\_user or higher
 
 2.  Follow one of these procedures to start creating a Data snapshots automated indicator:
 
-    -   Create an indicator from the Indicator library, as described in [[create-indicator-from-library|Create an indicator from the library]].
-    -   Navigate to **All** &gt; **Data Snapshots** &gt; **Indicators** &gt; **[[automated-indicators|Automated Indicators]] - Data Snapshots** and select **New**.
+    -   Create an indicator from the Indicator library, as described in [Create an indicator from the library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-indicator-from-library.md).
+    -   Navigate to **All** &gt; **Data Snapshots** &gt; **Indicators** &gt; **Automated Indicators - Data Snapshots** and select **New**.
 3.  If you selected **Create indicator** from the indicator library, select the Automated indicator type and Data snapshots source type.
 
     \[Omitted image "create-new-indicator-page.png"\] Alt text: Create new indicator page opened from indicator library.
@@ -124,12 +124,12 @@ Conditions
 Conditions to apply to fields on the Data snapshots source so as to filter which data is aggregated. Conditions apply only to fields specified in the Data snapshots source. They do not apply to other fields on the fact table.
 
 </td></tr></tbody>
-</table>    **Note:** You don’t select breakdowns on Data snapshots indicators. The fields you select on the Data snapshots sources can be used to filter the indicators on data visualizations and [[kpi-details|KPI Details]], thus serving the function of breakdowns.
+</table>    **Note:** You don’t select breakdowns on Data snapshots indicators. The fields you select on the Data snapshots sources can be used to filter the indicators on data visualizations and KPI Details, thus serving the function of breakdowns.
 
-10. In the **[[access-control|Access control]]** tab, set whether to save this indicator to the library and whether to limit the visibility of the indicator by user, group, or role.
+10. In the **Access control** tab, set whether to save this indicator to the library and whether to limit the visibility of the indicator by user, group, or role.
 
     -   You can turn on **Show in library** to make the indicator available in the following places:
-        -   The [[c_performanceAnalyticsAndReporting|Platform Analytics]] indicator library
+        -   The Platform Analytics indicator library
         -   KPI Details
     -   You can limit visibility either by groups and users or by roles.
 
@@ -172,10 +172,3 @@ If no Trend by field is selected, the data doesn’t show IGT tasks created by e
 
 **Parent Topic:**[Data snapshots and multiple breakdowns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/multi-level-breakdowns.md)
 
-## Related
-
-- [[create-indicator-from-library|Create an indicator from the library]]
-- [[automated-indicators|Automated indicators]]
-- [[kpi-details|KPI Details]]
-- [[access-control|Access control]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

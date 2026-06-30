@@ -49,7 +49,7 @@ Download the Now Mobile app for Apple iOS or Google Android from the Apple App S
 
 -   **Access the demo**
 
-Take a look at the [[sg-mobile-demo|Now Mobile app demo]]. The demo is a curated experience designed to show how your employees can accomplish their work from anywhere. For more information on the app, see [Now Mobile app demo](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/sg-mobile-demo.md).
+Take a look at the Now Mobile app demo. The demo is a curated experience designed to show how your employees can accomplish their work from anywhere. For more information on the app, see [Now Mobile app demo](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/sg-mobile-demo.md).
 
 
 </td></tr></tbody>
@@ -68,6 +68,3 @@ Configure options for the Now Mobile app. For example, you can link the app with
 
 **Parent Topic:**[Unified Employee Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-and-ecpro-landing-page.md)
 
-## Related
-
-- [[sg-mobile-demo|Now Mobile app demo]]

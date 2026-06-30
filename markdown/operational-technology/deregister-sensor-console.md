@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  In the Console, navigate to the [[appliances-page|Appliances page]].
+1.  In the Console, navigate to the Appliances page.
 
 2.  From the list, select the Sensor that you want to deregister.
 
@@ -43,9 +43,5 @@ Role required: admin
 
 The Sensor is deregistered, and the Sensor is reset to the default network configuration, which is the DHCP with the link-local fallback.
 
-For removing a lost Sensor, see [[remove-lost-sensor-console|Remove a lost Sensor]].
+For removing a lost Sensor, see [Remove a lost Sensor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/remove-lost-sensor-console.md).
 
-## Related
-
-- [[remove-lost-sensor-console|Remove a lost Sensor]]
-- [[appliances-page|Appliances page]]

@@ -16,7 +16,7 @@ Domain separation is designed to give ServiceNow® service providers \(SPs\) the
 
 ## Overview
 
-It is safe for SP customers, on their own, to manage data contained within their domain that does not affect licensing or other customers. For example, it is safe for a customer to create new reports or manage [[sc-configuration|configuration]] items, but it’s not safe for them to customize fields, choices, business rules, and other processes where they can impact other customers on the same instance.
+It is safe for SP customers, on their own, to manage data contained within their domain that does not affect licensing or other customers. For example, it is safe for a customer to create new reports or manage configuration items, but it’s not safe for them to customize fields, choices, business rules, and other processes where they can impact other customers on the same instance.
 
 The ServiceNow base system administrative roles and their access controls on the ServiceNow platform are designed for a single admin team per instance. For example, the domain\_admin role is granted to one of the SP’s resources to manage all domain setting for the instance, and to create new domains. For any domain-specific admin tasks, the SP should create new “customer admin” roles and access controls as needed to grant specific access to their customers.
 
@@ -28,7 +28,7 @@ Examples:
 
 -   CI data management in the CMDB
 -   Report creation
--   Updates to existing user data, or new [[users|users]] without roles
+-   Updates to existing user data, or new users without roles
 -   Updates to existing core data records such as department, group, location,cost center, or new groups without roles, and new departments/ cost centers/ location.
 
 \[Omitted image "icon-yellow.png"\] Alt text: Yellow icon **Proceed with caution**
@@ -64,7 +64,7 @@ To learn more, see:
 -   [Application Support for domain separation](https://snc.do/app)
 -   [Domain separation release notes](https://snc.do/rn)
 
-**Parent Topic:**[[c_DomainSeparation|Exploring domain separation]]
+**Parent Topic:**[Exploring domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_DomainSeparation.md)
 
 **Related topics**  
 
@@ -79,8 +79,3 @@ To learn more, see:
 
 [Installed with domain separation]()
 
-## Related
-
-- [[c_DomainSeparation|Exploring domain separation]]
-- [[sc-configuration|Configuration]]
-- [[users|Users]]

@@ -16,15 +16,11 @@ Users can view and edit data protected with Edge Encryption within their mobile 
 
 ServiceNow® Edge Encryption encrypts sensitive data on your company premises before sending it over the Internet to your instance \(encrypted in flight\). This encrypted data is then stored and protected within your database \(encrypted at rest\).
 
-The diagram shows an example of how Edge Encryption operates within the [[mobile-config-navigation|mobile platform]]. A field is configured and protected with Edge Encryption. When the user enters a value in an encrypted field on the mobile device, it remains in a readable format. However, in the database, the value is displayed as an encrypted value.
+The diagram shows an example of how Edge Encryption operates within the mobile platform. A field is configured and protected with Edge Encryption. When the user enters a value in an encrypted field on the mobile device, it remains in a readable format. However, in the database, the value is displayed as an encrypted value.
 
 \[Omitted image "mobile-edge-encrypt.png"\] Alt text: How a value in a field protected by Edge Encryption displays in a mobile device and in a database.
 
 For more information, see [Edge Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption.md).
 
-**Parent Topic:**[[sg-mobile-security|Device security for ServiceNow Mobile apps]]
+**Parent Topic:**[Device security for ServiceNow Mobile apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-security.md)
 
-## Related
-
-- [[sg-mobile-security|Device security for ServiceNow Mobile apps]]
-- [[mobile-config-navigation|Mobile Platform]]

@@ -14,7 +14,7 @@ breadcrumb: [Use, Now Assist for Process Mining, Use, Process Mining, Platform A
 
 # Run intent and activity analysis
 
-Generate a [[intent-activity-analysis|intent and activity analysis]] on a node.
+Generate a intent and activity analysis on a node.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ You can run an intent and activity analysis from Analyst workbench or Opportunit
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Workspaces** &gt; **[[analyst-workbench-overview|Process Mining Workspace]]**.
+1.  Navigate to **All** &gt; **Workspaces** &gt; **Process Mining Workspace**.
 
 2.  From the list of projects, select a project.
 
@@ -57,7 +57,3 @@ You can run an intent and activity analysis from Analyst workbench or Opportunit
 
 **Parent Topic:**[Using Now Assist for Process Mining](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/use-na-process-mining.md)
 
-## Related
-
-- [[intent-activity-analysis|Intent and activity analysis]]
-- [[analyst-workbench-overview|Process Mining workspace]]

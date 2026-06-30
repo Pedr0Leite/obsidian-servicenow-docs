@@ -22,15 +22,15 @@ Role required: admin
 
 ## About this task
 
-To use the debug filter, add it to a dashboard. The debug filter is read-only and intended to aid in the design and implementation of [[c_CustomPublishers|custom interactive filters]].
+To use the debug filter, add it to a dashboard. The debug filter is read-only and intended to aid in the design and implementation of custom interactive filters.
 
 \[Omitted image "Debug\_publisher\_plus.png"\] Alt text:
 
 ## Procedure
 
-1.  In the dashboard, click the Add [[widgets|widgets]] \(\[Omitted image "AddWidgetButton.png"\] Alt text:\) icon.
+1.  In the dashboard, click the Add widgets \(\[Omitted image "AddWidgetButton.png"\] Alt text:\) icon.
 
-2.  In the Add Widgets panel, select the widget category **[[c_HomepagePublishers|Interactive Filters]]** and the widget **\{Debug\}**.
+2.  In the Add Widgets panel, select the widget category **Interactive Filters** and the widget **\{Debug\}**.
 
 3.  In the Debug filters list, select **Debug homepage filters** and click **Add**.
 
@@ -41,8 +41,3 @@ The Debug widget is added to your dashboard.
 
 **Parent Topic:**[Custom interactive filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/core-ui-interactive-filters/c_CustomPublishers.md)
 
-## Related
-
-- [[c_CustomPublishers|Custom interactive filters]]
-- [[widgets|Widgets]]
-- [[c_HomepagePublishers|Interactive Filters]]

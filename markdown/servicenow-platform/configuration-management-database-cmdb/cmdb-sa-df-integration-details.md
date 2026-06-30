@@ -14,9 +14,9 @@ breadcrumb: [Analyze data integrations, Use Data Foundations advisor, CMDB succe
 
 # Reviewing data integrations for Data Foundations
 
-Review both existing and suggested Discovery patterns and [[cmdb-sgc-available|Service Graph Connectors]] to improve your Data Foundations data coverage.
+Review both existing and suggested Discovery patterns and Service Graph Connectors to improve your Data Foundations data coverage.
 
-The **Data integrations** tab in [[cmdb-sa|CMDB success advisor]] for Data Foundations provides insight into current integration usage for Discovery patterns and Service Graph Connectors. To make sure your CMDB is being correctly populated with high-quality CI data for your principal classes, check the status of both integration types.
+The **Data integrations** tab in CMDB success advisor for Data Foundations provides insight into current integration usage for Discovery patterns and Service Graph Connectors. To make sure your CMDB is being correctly populated with high-quality CI data for your principal classes, check the status of both integration types.
 
 ## Integration types
 
@@ -32,7 +32,7 @@ The **Data integrations** tab displays two key data sources that support Data Fo
     |-----|-----------|
     |Status|Indicates whether a Discovery pattern is currently active. Only active patterns contribute data to the CMDB.|
     |Attribute coverage|Displays how many Data Foundations relevant attributes within a principal class are being populated by each pattern.|
-    |View pattern|Opens the Discovery pattern configuration, enabling you to inspect or refine the logic, [[c_IdentificationRules|identification rules]], and targeted CI classes.|
+    |View pattern|Opens the Discovery pattern configuration, enabling you to inspect or refine the logic, identification rules, and targeted CI classes.|
 
     Low attribute coverage might occur if the Discovery pattern is limited in scope, not collecting detailed CI information, or if its identification rules are not aligned with the actual devices in your network. In such cases, required CI attributes may be missing from the resulting CI records.
 
@@ -51,8 +51,4 @@ The **Data integrations** tab displays two key data sources that support Data Fo
 
     If a Service Graph Connector shows low attribute coverage or no active connections, it may indicate that the specific version being evaluated has limited attribute coverage. This can happen if the connector is installed but not fully mapped to populate key attributes or if the data source is unavailable or misconfigured. As a result, critical CI data, such as ownership, location, or relationship information, may not be imported into the CMDB, affecting data quality for your principal classes.
 
-## Related
 
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[cmdb-sa|CMDB success advisor]]
-- [[c_IdentificationRules|Identification rules]]

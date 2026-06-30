@@ -14,7 +14,7 @@ breadcrumb: [Legal Mobile, Legal Service Delivery, Legal and Contract Operations
 
 # Download and log in to mobile apps to access legal services
 
-Download the [[mobile-employee-experience|Now Mobile app]] to submit and track legal requests and the Mobile Agent mobile app to work on the submitted legal requests.
+Download the Now Mobile app to submit and track legal requests and the Mobile Agent mobile app to work on the submitted legal requests.
 
 ## Before you begin
 
@@ -38,7 +38,7 @@ After you [install the Legal Mobile](https://raw.githubusercontent.com/ServiceNo
 
 2.  Add your ServiceNow instance to the mobile app.
 
-3.  Log in to access the [[legal-mobile-overview|Legal Mobile]] apps functionality through the mobile device.
+3.  Log in to access the Legal Mobile apps functionality through the mobile device.
 
 4.  Open the Now Mobile or Mobile Agent mobile app and tap the plus icon \(**+**\).
 
@@ -52,7 +52,4 @@ After you [install the Legal Mobile](https://raw.githubusercontent.com/ServiceNo
 
 8.  Log in to your instance.
 
-## Related
 
-- [[mobile-employee-experience|Now Mobile app]]
-- [[legal-mobile-overview|Legal Mobile]]

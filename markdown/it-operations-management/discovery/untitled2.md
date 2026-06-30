@@ -15,12 +15,9 @@ breadcrumb: [Kubernetes Visibility Agent Reference, Kubernetes discovery using K
 
 # Install Kubernetes Visibility Agent \(KVA\) using the Terraform Helm provider
 
-You can install [[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]] using the Terraform Helm provider.
+You can install Kubernetes Visibility Agent using the Terraform Helm provider.
 
 For more information, see the [Install Kubernetes Visibility Agent \(formerly CNO for Visibility\) using the Terraform Helm provider \[KB1540556\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1540556) article in the Now Support Knowledge Base.
 
 **Parent Topic:**[Kubernetes Visibility Agent Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cnov-reference.md)
 
-## Related
-
-- [[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]]

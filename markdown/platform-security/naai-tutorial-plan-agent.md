@@ -14,11 +14,11 @@ breadcrumb: [Create and secure an AI agent in Now Assist, Agentic AI security an
 
 Define your use case, decide between an base system and custom agent, choose an activation model, and set your success criteria before you begin building.
 
-Time spent planning before you build saves significant rework later. The decisions you make in this phase — what the agent does, how it gets activated, and how you will measure success — shape every [[sc-configuration|configuration]] choice that follows.
+Time spent planning before you build saves significant rework later. The decisions you make in this phase — what the agent does, how it gets activated, and how you will measure success — shape every configuration choice that follows.
 
 ## Define your use case
 
-A well-scoped use case has three characteristics: it involves a repeatable, well-defined task; the agent has access to the data and tools it needs to complete that task; and the outcome is measurable. Good starting candidates are high-volume, low-risk tasks such as incident triage, knowledge article lookup, or [[c_SelfServicePasswordReset|password reset]] routing.
+A well-scoped use case has three characteristics: it involves a repeatable, well-defined task; the agent has access to the data and tools it needs to complete that task; and the outcome is measurable. Good starting candidates are high-volume, low-risk tasks such as incident triage, knowledge article lookup, or password reset routing.
 
 For each candidate use case, answer the following questions before proceeding:
 
@@ -40,11 +40,11 @@ ServiceNow supports two ways to activate an AI agent:
 
 -   **Natural language discovery \(user-initiated\)**
 
-    The agent is activated when a user types a message in a conversational channel such as Virtual Agent, Microsoft Teams, or Slack. The platform matches the user's [[c_requestAPI|request]] to the most appropriate agent based on the agent's role and description fields. Supports single AI agents only — agentic workflows cannot be discovered through natural language in Virtual Agent.
+    The agent is activated when a user types a message in a conversational channel such as Virtual Agent, Microsoft Teams, or Slack. The platform matches the user's request to the most appropriate agent based on the agent's role and description fields. Supports single AI agents only — agentic workflows cannot be discovered through natural language in Virtual Agent.
 
 -   **Trigger-based activation \(event-initiated\)**
 
-    The agent or agentic workflow is activated automatically when a platform event occurs, such as a record being created or updated, a scheduled time being reached, or an inbound [[email|email]] arriving. No user interaction is required. Supports both single AI agents and agentic workflows.
+    The agent or agentic workflow is activated automatically when a platform event occurs, such as a record being created or updated, a scheduled time being reached, or an inbound email arriving. No user interaction is required. Supports both single AI agents and agentic workflows.
 
 
 If your use case requires a user to initiate the interaction through chat, choose natural language discovery. If your use case should run automatically based on platform events, choose trigger-based activation.
@@ -59,15 +59,7 @@ Define how you will measure whether the agent is working before you build it. Th
 
 ## Next step
 
-When your use case is defined, your agent type and activation model are chosen, and your success criteria are documented, proceed to [[naai-tutorial-build-agent|Build your agent]].
+When your use case is defined, your agent type and activation model are chosen, and your success criteria are documented, proceed to [Build your agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/naai-tutorial-build-agent.md).
 
-**Parent Topic:**[[naai-tutorial-overview|Create and secure an AI agent in Now Assist]]
+**Parent Topic:**[Create and secure an AI agent in Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/naai-tutorial-overview.md)
 
-## Related
-
-- [[naai-tutorial-build-agent|Build your agent]]
-- [[naai-tutorial-overview|Create and secure an AI agent in Now Assist]]
-- [[sc-configuration|Configuration]]
-- [[c_SelfServicePasswordReset|Password Reset]]
-- [[c_requestAPI|request]]
-- [[email|Email]]

@@ -12,11 +12,11 @@ breadcrumb: [Create an external agent, Create an AI agent, Now Assist AI agents,
 
 # ServiceNow AI agents as secondary agents
 
-Integrate ServiceNow AI agents into other agentic [[ai-system|AI systems]], such as Google Cloud or Azure OpenAI.
+Integrate ServiceNow AI agents into other agentic AI systems, such as Google Cloud or Azure OpenAI.
 
 ## Enabling discovery of ServiceNow mobile agents
 
-In [[ai-agent-studio|AI Agent Studio]], on the **Settings** page, under **External AI Agents** &gt; **Discoverability**, you can enable the discovery of ServiceNow AI agents to use on other AI platforms. To do so, toggle **Allow third party to access ServiceNow AI Agents**.
+In AI Agent Studio, on the **Settings** page, under **External AI Agents** &gt; **Discoverability**, you can enable the discovery of ServiceNow AI agents to use on other AI platforms. To do so, toggle **Allow third party to access ServiceNow AI Agents**.
 
 You can also choose between **Synchronous** and **Asynchronous** communication between your external AI agent and the agentic AI provider.
 
@@ -50,10 +50,5 @@ Once you save the record, a Connection &amp; Credential Alias \[sys\_alias\] rec
 
 When the record is created, you can go back to the External Agent Callback Registry record you created and select **Verify URL** to test the connection works as expected.
 
-**Parent Topic:**[[create-external-aia|Create an external AI agent]]
+**Parent Topic:**[Create an external AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/create-external-aia.md)
 
-## Related
-
-- [[create-external-aia|Create an external AI agent]]
-- [[ai-system|AI systems]]
-- [[ai-agent-studio|AI Agent Studio]]

@@ -14,7 +14,7 @@ breadcrumb: [DEX Insights, Configure, Digital End-User Experience, IT Service Ma
 
 # Manage your system compliance report
 
-Configure the DEX policy metrics and the [[dex-workspace-application-tab|applications]] to monitor for your organization's compliance report. Set up the compliance-related rules and actions for your organization's [[dex-workspace-devices-tab|devices]] based on defined thresholds.
+Configure the DEX policy metrics and the applications to monitor for your organization's compliance report. Set up the compliance-related rules and actions for your organization's devices based on defined thresholds.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: admin
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  In the primary navigation pane, select the [[dex-workspace-administration-tab|DEX Administration]] icon \(\[Omitted image "icon-administration.png"\] Alt text:\).
+2.  In the primary navigation pane, select the DEX Administration icon \(\[Omitted image "icon-administration.png"\] Alt text:\).
 
 3.  Select **Configure** on the System compliance card.
 
@@ -73,8 +73,4 @@ Select a metric rule name to customize. The rules trigger actions based on speci
 
     For more information on the compliance report, see [DEX Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-workspace-insights-tab.md).
 
-## Related
 
-- [[dex-workspace-application-tab|Applications]]
-- [[dex-workspace-devices-tab|Devices]]
-- [[dex-workspace-administration-tab|DEX Administration]]

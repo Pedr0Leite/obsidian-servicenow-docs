@@ -24,7 +24,7 @@ Role required: sn\_bom\_credit\_card.dispute\_agent or sn\_bom\_credit\_card.dis
 
 Nacha governs the ACH network, which processes electronic payments like payroll, bill payments, and direct deposits in the United States of America. The Nacha Operating Rules and Guidelines establish compliance requirements for all disputed ACH transactions.
 
-This task is dependent on the [[dispute-rules-content-pack-for-nacha|Dispute Rules Content Pack for Nacha]] plugin.
+This task is dependent on the Dispute Rules Content Pack for Nacha plugin.
 
 The Dispute Rules Content Pack for Nacha includes a Knowledge Base article that contains a table of reason codes and the corresponding eligibility rules.
 
@@ -40,7 +40,7 @@ Dispute agents may use the KB article to manually evaluate whether an ACH transa
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -69,7 +69,3 @@ Dispute agents may use the KB article to manually evaluate whether an ACH transa
 
 **Parent Topic:**[Processing an ACH dispute](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/process-dispute-ach.md)
 
-## Related
-
-- [[dispute-rules-content-pack-for-nacha|Dispute Rules Content Pack for Nacha]]
-- [[fso-overview|Financial Services]]

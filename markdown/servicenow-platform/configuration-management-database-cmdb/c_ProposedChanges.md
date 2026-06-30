@@ -182,7 +182,7 @@ Active
 
 </td><td>
 
-[[check-box|Check box]] to activate this rule.
+Check box to activate this rule.
 
 </td></tr><tr><td>
 
@@ -334,6 +334,3 @@ To correctly determine the validity of a change, examine the parameters and appl
 
 [Timeline of CI changes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_HistoryTimeline.md)
 
-## Related
-
-- [[check-box|Check box]]

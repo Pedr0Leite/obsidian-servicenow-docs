@@ -14,7 +14,7 @@ breadcrumb: [Integrate, AI Search, Search administration, Configure core feature
 
 # AI Search Assist record producer integration for Service Portal
 
-[[ia-ai-search|AI Search]] Assist is a Service Portal widget that uses AI Search to improve incident deflection by displaying the most relevant set of related Catalog Item and knowledge article search [[hs-results|results]] within a record producer. You can use AI Search Assist instead of [[c_ContextualSearch|Contextual Search]].
+AI Search Assist is a Service Portal widget that uses AI Search to improve incident deflection by displaying the most relevant set of related Catalog Item and knowledge article search results within a record producer. You can use AI Search Assist instead of Contextual Search.
 
 ## AI Search Assist overview
 
@@ -35,15 +35,9 @@ Configure AI Search Assist settings for a record producer to help users view rel
 -   **[AI Search Assist roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/ai-search-assist-role.md)**  
 AI Search Assist includes the following roles.
 -   **[AI Search Assist properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/ai-search-assist-properties.md)**  
-The [[ai-search-assist-properties|AI Search Assist properties]] determine when searching begins based on characters entered and the time that has elapsed. These properties reduce the impact of searches for systems with many Catalog Items or Knowledge articles.
+The AI Search Assist properties determine when searching begins based on characters entered and the time that has elapsed. These properties reduce the impact of searches for systems with many Catalog Items or Knowledge articles.
 -   **[Domain separation and AI Search Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/ai-search-assist-domain-separation.md)**  
 Domain separation is supported for AI Search Assist. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 **Parent Topic:**[Integrating AI Search into other ServiceNow AI Platform applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/integrate-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]
-- [[c_ContextualSearch|Contextual search]]
-- [[ai-search-assist-properties|AI Search Assist properties]]

@@ -30,7 +30,7 @@ If you have custom roles that require access to this skill, update the ACLs for 
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** &gt; **Enterprise Agile Planning**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Enterprise Agile Planning**.
 
 2.  From the Agile structure section of the navigation panel, choose your EAP team that has an epic or feature as its work item type.
 
@@ -64,6 +64,3 @@ If you have custom roles that require access to this skill, update the ACLs for 
 
 [Create stories agentic workflow using Now Assist for Strategic Portfolio Management \(SPM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/generate-agile-story-planning-items.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

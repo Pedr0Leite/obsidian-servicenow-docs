@@ -14,7 +14,7 @@ breadcrumb: [Usage Insights reference, Usage Insights, Platform Analytics]
 
 # Domain separation in Usage Insights
 
-Domain separation is not supported for the [[user-exp-analytics-landing|Usage Insights]] application.
+Domain separation is not supported for the Usage Insights application.
 
 ## Support level: No support
 
@@ -30,6 +30,3 @@ For more information on support levels, see [Application support for domain sepa
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[user-exp-analytics-landing|Usage Insights]]

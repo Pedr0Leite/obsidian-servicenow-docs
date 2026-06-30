@@ -14,7 +14,7 @@ breadcrumb: [Reference, HR Service Delivery Integration with SuccessFactors, Int
 
 # Source for HR Service Delivery Integration with SuccessFactors
 
-Once you set up the [[hr-service-delivery-integration-success-factors|HR Service Delivery Integration with SuccessFactors]] application, the source record for SuccessFactors application is automatically created in [[hr-integrations-framework|Enterprise Service Management Integrations Framework]], Source module. The SuccessFactors source record in the in Enterprise Service Management Integrations Framework application contains a predefined set of properties and HR Integration Services.
+Once you set up the HR Service Delivery Integration with SuccessFactors application, the source record for SuccessFactors application is automatically created in Enterprise Service Management Integrations Framework, Source module. The SuccessFactors source record in the in Enterprise Service Management Integrations Framework application contains a predefined set of properties and HR Integration Services.
 
 <table id="table_tyz_xpj_1nb"><thead><tr><th>
 
@@ -39,7 +39,3 @@ When set to **True**, all the active users, active trainings, incomplete to-dos 
 </td></tr></tbody>
 </table>**Parent Topic:**[HR Service Delivery Integration with SuccessFactors reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-service-delivery-integration-with-success-factors-reference.md)
 
-## Related
-
-- [[hr-service-delivery-integration-success-factors|HR Service Delivery Integration with SuccessFactors]]
-- [[hr-integrations-framework|Enterprise Service Management Integrations Framework]]

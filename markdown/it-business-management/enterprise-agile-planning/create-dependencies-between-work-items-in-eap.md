@@ -29,7 +29,7 @@ This task is explained using stories in an Agile Release Train \(ART\) as an exa
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** &gt; **Enterprise Agile Planning**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Enterprise Agile Planning**.
 
 2.  From the Agile structure section of the left navigation panel, choose your EAP team.
 
@@ -66,6 +66,3 @@ This task is explained using stories in an Agile Release Train \(ART\) as an exa
 
 **Parent Topic:**[Work item dependencies in EAP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/work-item-dependencies-in-eap.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

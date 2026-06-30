@@ -14,7 +14,7 @@ breadcrumb: [Manage information objects, Configure, Privacy Management, Governan
 
 # Create an information object
 
-Create [[information-objects|information objects]] manually to associate the right [[data-subjects|data subject types]] with business processes or applications.
+Create information objects manually to associate the right data subject types with business processes or applications.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_privacy.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[privacy-management|Privacy Management]]** &gt; **Privacy Workspace**.
+1.  Navigate to **All** &gt; **Privacy Management** &gt; **Privacy Workspace**.
 
 2.  In the Privacy Workspace, select the List icon \(\[Omitted image "ws-list-icon.png"\]\).
 
@@ -48,13 +48,7 @@ Role required: sn\_privacy.admin
 
 ## Result
 
-Once the information object is created, you can see the [[ropa-record|Processing activities]] and Information object categories related lists.
+Once the information object is created, you can see the Processing activities and Information object categories related lists.
 
 **Parent Topic:**[Manage the Privacy Management library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/privacy-library-setup.md)
 
-## Related
-
-- [[information-objects|information objects]]
-- [[data-subjects|Data subject types]]
-- [[privacy-management|privacy management]]
-- [[ropa-record|Processing activities]]

@@ -18,11 +18,11 @@ Control user access to a portal.
 
 Control who accesses your portal and what they can see in the following ways:
 
--   Authentication: [[configure-onboarding-modals|Configure]] login and single sign on for users
+-   Authentication: Configure login and single sign on for users
 -   Limit page access by role: Use roles to limit the users who can see a page.
 -   Public pages: Use the public check box on a page record to make the page publicly accessible.
 
-    **Note:** A number of portal pages that are installed by default are marked public. Filter your list of [[c_ServicePortal|Service Portal]] pages for Public \[is\] true to identify these pages. Setting the Public value to false will prevent these pages from being publicly available.
+    **Note:** A number of portal pages that are installed by default are marked public. Filter your list of Service Portal pages for Public \[is\] true to identify these pages. Setting the Public value to false will prevent these pages from being publicly available.
 
 -   User criteria: For a more advanced way of limiting user access, create and apply user criteria to pages, widgets, widgets instances, and search sources.
 -   Multifactor authentication: If an instance is configured to require multifactor authentication, users are automatically directed to set up multifactor authentication upon initial login. For setup instructions, see [Setup multi-factor authentication upon initial login](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_SetUpMultiFactorAuthUponLogin.md). If multifactor authentication is optional, users can still enable or disable authentication from their user profile. For setup instructions, see [Setup multi-factor authentication on your user profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/mfa-setup-profile.md).
@@ -32,7 +32,7 @@ Service Portal uses a combination of system properties and script includes to de
 -   **[Configure page security by role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/configure-page-security.md)**  
 Set up pages to be public or filter them by role.
 -   **[Configure widget security](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/configure-widget-security.md)**  
-[[configure-widget-security|Configure widget security]] to ensure that your widget is being accessed only by the intended audience.
+Configure widget security to ensure that your widget is being accessed only by the intended audience.
 -   **[User criteria for Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/user-criteria.md)**  
 User criteria enables you to allow access to users based on role, department, group, location, or company. Administrators can control access to pages, widgets, widget instances, announcements, and search sources in a portal by creating and applying user criteria.
 -   **[Enable e-signature for Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/enable-esignature-sp.md)**  
@@ -46,8 +46,3 @@ Turn off access to a portal that you no longer want users to visit and optionall
 
 **Parent Topic:**[Configuring Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/configuring-service-portal.md)
 
-## Related
-
-- [[configure-onboarding-modals|Configure]]
-- [[c_ServicePortal|Service Portal]]
-- [[configure-widget-security|Configure widget security]]

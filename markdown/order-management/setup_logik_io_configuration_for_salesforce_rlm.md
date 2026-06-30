@@ -50,8 +50,8 @@ As the current package is unmanaged, you will be required to uninstall v0.3 to i
 
         \[Omitted image "cpq-product-selling-model-details.png"\] Alt text: Product selling model screen
 
-3.  Setup → Object Manager → Price Book Entry → Page [[layouts|Layouts]] → "Price Book Entry Layout": Add "Product Selling Model" field to the layout
-4.  Setup → Object Manager → Product → Page Layouts → "Product Layout": Add the following [[fields|fields]] to the layout
+3.  Setup → Object Manager → Price Book Entry → Page Layouts → "Price Book Entry Layout": Add "Product Selling Model" field to the layout
+4.  Setup → Object Manager → Product → Page Layouts → "Product Layout": Add the following fields to the layout
     -   Configure During Sale - makes the product configurable or not
     -   Based On - associates a product to a class
     -   Display URL - used for product images
@@ -63,7 +63,7 @@ As the current package is unmanaged, you will be required to uninstall v0.3 to i
     -   Child Components
     -   Inherited Attributes
     -   Product Component Group
-6.  App Launcher → [[product-catalog-managment|Product Catalog Management]] → Product Classification: Create a new Product Classification
+6.  App Launcher → Product Catalog Management → Product Classification: Create a new Product Classification
     -   Name: “Server Racks”
     -   Code: “RACK”
     -   Status: Active
@@ -204,11 +204,11 @@ Configure from account is not currently supported. In the future, the user will 
 
 ## CPQ Webhook Setup
 
-1.  If [[cpq-webhooks|Webhooks]] are not enabled on your CPQ environment, create a Support case and request Webhooks be turned on in the environment.
+1.  If Webhooks are not enabled on your CPQ environment, create a Support case and request Webhooks be turned on in the environment.
 
     To create a support case, use the [ServiceNow Support portal](https://support.servicenow.com). For step-by-step instructions, see [Create a case on Now Support for CPQ \(Logik.ai\) Customers](https://support.servicenow.com/kb?sys_kb_id=d67d3e71475d7a90f64de825126d4326&id=kb_article_view).
 
-2.  When Webhooks are enabled, navigate to CPQ Admin Home → [[cpq-utilities|Utilities]] → Webhooks, and create a new Webhook with the following settings:
+2.  When Webhooks are enabled, navigate to CPQ Admin Home → Utilities → Webhooks, and create a new Webhook with the following settings:
 
     -   Integration Type: Salesforce
     -   Async: false
@@ -253,7 +253,7 @@ Example productSellingModelId based on this image would be "Term\_Defined\_TermD
 
 ## Salesforce: Enable Business Rules Engine \(BRE\) for Qualification
 
-1.  Setup → Feature Settings → Business [[rules_101|Rules]] Engine → Business Rules Engine Settings: Toggle on the switch to enable “Industries Cloud Common Decision Tables Access”
+1.  Setup → Feature Settings → Business Rules Engine → Business Rules Engine Settings: Toggle on the switch to enable “Industries Cloud Common Decision Tables Access”
 2.  Setup → Context Service → Context Definition: Create a new custom context definition named “BrowseContextdefinition” \(this name must match exactly\). Don't set any other fields.
 3.  Click “Next”
 4.  Add the following context nodes:
@@ -381,7 +381,7 @@ Example productSellingModelId based on this image would be "Term\_Defined\_TermD
 22. Next to “IsQualified” set “Donʼt Use” to “Output”
 23. Click “Next” and “Save"
 24. Click the “Activate” button in the upper right corner to activate the decision table
-25. App Launcher → Business Rules Engine → Expression [[cpq-sets|Sets]]: Click "New" to create a new Expression Set
+25. App Launcher → Business Rules Engine → Expression Sets: Click "New" to create a new Expression Set
     -   Name: “QualificationProcedure”
     -   Usage Type: “Product Qualification"
     -   Context Definition: “BrowseContextdefinition”
@@ -434,12 +434,3 @@ Diagnosis: This is a permission set issue. Make sure that the following three RL
 -   ProductAndPriceConfiguration API
 -   Product Catalog Management Viewer
 
-## Related
-
-- [[layouts|Layouts]]
-- [[fields|Fields]]
-- [[product-catalog-managment|Product Catalog Management]]
-- [[cpq-webhooks|Webhooks]]
-- [[cpq-utilities|Utilities]]
-- [[rules_101|Rules]]
-- [[cpq-sets|Sets]]

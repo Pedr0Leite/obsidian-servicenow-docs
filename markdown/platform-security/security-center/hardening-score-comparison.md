@@ -14,7 +14,7 @@ breadcrumb: [Security hardening, Security configuration console, Security Center
 
 # Hardening score comparison
 
-Gain visibility to the health of your [[security-hardening-settings|hardening settings]] and use this data to improve the security posture of your instance.
+Gain visibility to the health of your hardening settings and use this data to improve the security posture of your instance.
 
 \[Omitted image "hard-score-comp.png"\] Alt text: Hardening score comparison
 
@@ -41,6 +41,3 @@ The hardening score comparison page displays hardening settings with changes in 
 
 **Parent Topic:**[Security hardening](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sc-hardening.md)
 
-## Related
-
-- [[security-hardening-settings|Hardening settings]]

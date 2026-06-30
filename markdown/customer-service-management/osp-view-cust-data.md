@@ -20,13 +20,13 @@ Role required: sn\_csm\_ocs.ext\_manager or sn\_csm\_ocs.ext\_agent
 
 ## Procedure
 
-1.  Navigate to **[[outsourced-service-provider|Outsourced Customer Service]]** &gt; **Cases** &gt; **All**.
+1.  Navigate to **Outsourced Customer Service** &gt; **Cases** &gt; **All**.
 
 2.  Open a case and click the preview icon next to the **Account** or **Contact** field.
 
 3.  Click **Open Record**.
 
-    The following related [[migration-lists|lists]] are visible for you to work on and fulfill the cases:
+    The following related lists are visible for you to work on and fulfill the cases:
 
     -   **Contacts**
     -   **Addresses**
@@ -35,11 +35,6 @@ Role required: sn\_csm\_ocs.ext\_manager or sn\_csm\_ocs.ext\_agent
     -   **Contracts**
     -   **Entitlements**
     -   **Account Relationships**
-    -   **[[sold-product|Sold Products]]** and
+    -   **Sold Products** and
     -   **Install Base**
 
-## Related
-
-- [[outsourced-service-provider|Outsourced Customer Service]]
-- [[migration-lists|Lists]]
-- [[sold-product|Sold products]]

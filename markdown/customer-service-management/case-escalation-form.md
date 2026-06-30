@@ -18,7 +18,7 @@ The Escalation form includes information about the escalation, such as the assoc
 
 An escalation record can contain one or more associated cases. When updating escalation records, customer service agents can enter comments or work notes. For case escalations, updates are replicated to the case activity history as work notes so they aren’t visible to the customer.
 
-The Escalation form has a **Related Cases** related list that includes the related cases for account escalations. The user can associate specific cases using this related list to indicate which cases are causing the escalation. The Escalation form also includes **Task SLAs** and **Approvers** related [[migration-lists|lists]].
+The Escalation form has a **Related Cases** related list that includes the related cases for account escalations. The user can associate specific cases using this related list to indicate which cases are causing the escalation. The Escalation form also includes **Task SLAs** and **Approvers** related lists.
 
 <table id="table_jks_bws_mf"><thead><tr><th>
 
@@ -42,7 +42,7 @@ Source Record
 
 </td><td>
 
-The case or account for which escalation is requested.**Note:** The case or [[customer-service-account-form|account form]] for the source record includes an **Escalations** related list.
+The case or account for which escalation is requested.**Note:** The case or account form for the source record includes an **Escalations** related list.
 
 </td></tr><tr><td>
 
@@ -167,8 +167,3 @@ Additional information that explains why this escalation is needed.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[migration-lists|Lists]]
-- [[customer-service-account-form|Account form]]

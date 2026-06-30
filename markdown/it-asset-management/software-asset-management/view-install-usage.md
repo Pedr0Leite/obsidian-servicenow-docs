@@ -22,7 +22,7 @@ Role required: sam\_manager
 
 ## Procedure
 
-1.  Navigate to **[[sam-workspace|Software Asset Workspace]]** &gt; **License operations** &gt; **Products with installs**.
+1.  Navigate to **Software Asset Workspace** &gt; **License operations** &gt; **Products with installs**.
 
     \[Omitted image "products-with-installs.png"\] Alt text: Products with installs
 
@@ -55,6 +55,3 @@ Role required: sam\_manager
 
 **Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/using-sam-workspace.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]

@@ -14,9 +14,9 @@ breadcrumb: [Reference, AI Risk and Compliance, Governance, Risk, and Compliance
 
 # AI governance email notifications
 
-Email notifications are sent automatically when specific events occur across AI governance workflows, including AI Control Tower, [[ai-risk-and-compliance|AI Risk and Compliance]], and inherited Risk Management processes.
+Email notifications are sent automatically when specific events occur across AI governance workflows, including AI Control Tower, AI Risk and Compliance, and inherited Risk Management processes.
 
-Email notifications are sent automatically when specific events occur across AI governance workflows. These notifications help ensure timely awareness, review, and action across [[r_WhatIsGRC|governance, risk, and compliance]] activities.
+Email notifications are sent automatically when specific events occur across AI governance workflows. These notifications help ensure timely awareness, review, and action across governance, risk, and compliance activities.
 
 These notifications are part of the base system. Availability and behavior may vary depending on configuration and inherited Risk Management workflows. To customize notification content or recipients, see [Create an email notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateANotification.md).
 
@@ -35,7 +35,7 @@ The following notifications are sent for events related to AI asset approval req
 
 ## AI Assessment / Risk Assessment
 
-The following notification is sent when AI Assessments or [[risk-assessments|Risk Assessments]] are cancelled using a bulk action.
+The following notification is sent when AI Assessments or Risk Assessments are cancelled using a bulk action.
 
 |Notification|Trigger condition|Recipients|
 |------------|-----------------|----------|
@@ -139,8 +139,3 @@ The following notifications are sent when approvals are requested for individual
 
 **Parent Topic:**[AI Risk and Compliance reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/ai-risk-and-compliance-reference.md)
 
-## Related
-
-- [[ai-risk-and-compliance|AI Risk and Compliance]]
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]
-- [[risk-assessments|risk assessments]]

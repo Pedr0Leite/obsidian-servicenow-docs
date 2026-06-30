@@ -32,7 +32,7 @@ Allocate budget for demands at each fiscal period instead of the entire fiscal y
 
 3.  In the Investment Budget related list, select **New**.
 
-4.  On the [[investment-budget-form|Investment Budget form]], fill in the fields.
+4.  On the Investment Budget form, fill in the fields.
 
     For more information about the fields and their description, see [Investment Budget form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/investment-budget-form.md).
 
@@ -45,6 +45,3 @@ The allocated budget for a fiscal period is displayed in the Investment Budget r
 
 **Parent Topic:**[Enable lean budgeting for demands](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/config-investment-budget-demand.md)
 
-## Related
-
-- [[investment-budget-form|Investment Budget form]]

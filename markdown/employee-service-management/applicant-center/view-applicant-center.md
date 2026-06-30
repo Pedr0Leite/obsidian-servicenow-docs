@@ -14,7 +14,7 @@ breadcrumb: [Use, Applicant Center, Hiring Experiences, HR Service Delivery, Emp
 
 # Access the Applicant Center
 
-Log in to the [[applicant-center-concept|Applicant Center]] without a password and explore the portal easily.
+Log in to the Applicant Center without a password and explore the portal easily.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ An applicant can log in to the Applicant Center without the need for a password 
 
 2.  Select **View Applicant Center**.
 
-    The magic link takes you to the [[applicant-portal-home-page|Applicant Center home page]].
+    The magic link takes you to the Applicant Center home page.
 
 3.  If the link expires, select **Send a new invite** from the pop-up window prompt.
 
@@ -45,7 +45,3 @@ An applicant can log in to the Applicant Center without the need for a password 
 
 **Parent Topic:**[Using Applicant Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/use-applicant-center.md)
 
-## Related
-
-- [[applicant-center-concept|Applicant Center]]
-- [[applicant-portal-home-page|Applicant Center home page]]

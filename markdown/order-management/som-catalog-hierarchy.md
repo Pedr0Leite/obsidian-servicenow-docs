@@ -25,11 +25,7 @@ The toggle legend identifies the product offering and specification icons displa
 **Related topics**  
 
 
-[[using-product-catalog|Using product catalogs]]
+[Using product catalogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-product-catalog.md)
 
-[[product-catalog-managment|Product Catalog Management]]
+[Product Catalog Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/product-catalog-managment.md)
 
-## Related
-
-- [[using-product-catalog|Using product catalogs]]
-- [[product-catalog-managment|Product Catalog Management]]

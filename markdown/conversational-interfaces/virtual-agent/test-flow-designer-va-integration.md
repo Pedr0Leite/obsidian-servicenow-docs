@@ -22,9 +22,9 @@ Role required: virtual\_agent\_admin or admin
 
 ## About this task
 
-When you test the subflow or action associated with the [[va-action|Action utility]], you see a test results preview pane that includes preview-only messages. These messages include a link called **View in Workflow Studio**. This link takes you to the execution details. You can use the execution details to do the following:
+When you test the subflow or action associated with the Action utility, you see a test results preview pane that includes preview-only messages. These messages include a link called **View in Workflow Studio**. This link takes you to the execution details. You can use the execution details to do the following:
 
--   Verify what is being returned to [[virtual-agent-landing-page|Virtual Agent]].
+-   Verify what is being returned to Virtual Agent.
 
     **Note:** Only topic authors have access to the **View in Workflow Studio** link. In non-production environments, this link is available by default. In production environments, topic authors must enable access to this link by creating a record in the \[sys\_flow\_execution\_setting\] table for each Workflow Studio asset. This link is not available in conversations where password2 input is used.
 
@@ -32,11 +32,11 @@ When you test the subflow or action associated with the [[va-action|Action utili
 
 Topic authors can also see the test results in the Conversation Task FDIH Invocations \[sys\_cs\_fdih\_invocation\_list\] table.
 
-**Note:** If you have turned on and set up [[now-assist-in-va-landing|Now Assist in Virtual Agent]], you can work with conversational actions and subflows from the [[assistant-designer|Assistant Designer]] home page. For each assistant, you can test topics, subflows, and actions by using the Assistant Designer home page **Test Assistant** button. Assistant Designer opens a Workflow Studio tab where you can test subflows and actions. For more information on conversational actions and subflows, see [Conversational actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/conversational-actions.md) and [Conversational subflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/conversational-subflows.md). You can still integrate actions and subflows that are not conversational from Workflow Studio into Virtual Agent topics via Assistant Designer. The following content is only relevant to actions or subflows that can't be made conversational in Workflow Studio.
+**Note:** If you have turned on and set up Now Assist in Virtual Agent, you can work with conversational actions and subflows from the Assistant Designer home page. For each assistant, you can test topics, subflows, and actions by using the Assistant Designer home page **Test Assistant** button. Assistant Designer opens a Workflow Studio tab where you can test subflows and actions. For more information on conversational actions and subflows, see [Conversational actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/conversational-actions.md) and [Conversational subflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/conversational-subflows.md). You can still integrate actions and subflows that are not conversational from Workflow Studio into Virtual Agent topics via Assistant Designer. The following content is only relevant to actions or subflows that can't be made conversational in Workflow Studio.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Virtual Agent** &gt; **Designer**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Designer**.
 
 2.  In the Asset library page, open the topic with the Action utility that you want to test.
 
@@ -57,10 +57,3 @@ Topic authors can also see the test results in the Conversation Task FDIH Invoca
 
 **Parent Topic:**[Integrating Virtual Agent with Workflow Studio workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-flow-designer-integration.md)
 
-## Related
-
-- [[va-action|Action utility]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]
-- [[assistant-designer|Assistant Designer]]
-- [[convint-landing-page|Conversational Interfaces]]

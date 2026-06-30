@@ -14,7 +14,7 @@ breadcrumb: [Use template designer, Manage, Smart Assessment Engine, Governance,
 
 # Template versioning
 
-Template versioning enables organizations to maintain multiple versions of [[airc-assessment-templates|assessment templates]] over time. The ongoing assessments continue to exist even if a their related version is retired or superseded by new versions.
+Template versioning enables organizations to maintain multiple versions of assessment templates over time. The ongoing assessments continue to exist even if a their related version is retired or superseded by new versions.
 
 ## Template versioning overview
 
@@ -75,7 +75,7 @@ This protects against publishing actions that reference questions you may have c
 
 ## Benefits of template versioning
 
-Template versioning in [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] provides the following benefits:
+Template versioning in Smart Assessment Engine provides the following benefits:
 
 -   Organizations can evolve assessment templates to meet changing requirements without disrupting ongoing assessment programs.
 -   Completed assessments remain unchanged, maintaining a permanent record of which template version was used for each assessment.
@@ -92,7 +92,3 @@ Template versioning in [[smart-asmnt-engine-landing-page|Smart Assessment Engine
 
 [KB3013746](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB3013746)
 
-## Related
-
-- [[airc-assessment-templates|Assessment templates]]
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]

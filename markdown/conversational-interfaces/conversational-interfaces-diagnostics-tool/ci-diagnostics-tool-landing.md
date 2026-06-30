@@ -14,7 +14,7 @@ breadcrumb: [Conversational Interfaces]
 
 # Conversational Interfaces Diagnostic Tool
 
-Use the Conversational Interfaces Diagnostic Tool to identify, troubleshoot, and find solutions for issues with [[convint-landing-page|conversational interfaces]], before reaching out to Now Support.
+Use the Conversational Interfaces Diagnostic Tool to identify, troubleshoot, and find solutions for issues with conversational interfaces, before reaching out to Now Support.
 
 ## Get started
 
@@ -24,7 +24,7 @@ Use the Conversational Interfaces Diagnostic Tool to identify, troubleshoot, and
 
 </td><td>
 
-[Use\[Omitted image "bus-root-cause-issue-resolution.svg"\] Alt text:Use the tool to resolve errors and solve configuration issues with Microsoft Teams and [[awa-application-landing-page|Advanced Work Assignment]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/conversational-interfaces-diagnostics-tool/using-ci-diagnostics-tool.md)
+[Use\[Omitted image "bus-root-cause-issue-resolution.svg"\] Alt text:Use the tool to resolve errors and solve configuration issues with Microsoft Teams and Advanced Work Assignment.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/conversational-interfaces-diagnostics-tool/using-ci-diagnostics-tool.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -33,7 +33,3 @@ Use the Conversational Interfaces Diagnostic Tool to identify, troubleshoot, and
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[convint-landing-page|Conversational Interfaces]]
-- [[awa-application-landing-page|Advanced Work Assignment]]

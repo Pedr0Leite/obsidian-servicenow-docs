@@ -15,7 +15,7 @@ breadcrumb: [Using Google Dialogflow as a secondary bot with Virtual Agent Bot I
 
 # Create a new agent in Google Dialogflow
 
-To use Google Dialogflow with [[virtual-agent-landing-page|Virtual Agent]] Bot Interconnect, you must first create a new agent in Google Dialogflow.
+To use Google Dialogflow with Virtual Agent Bot Interconnect, you must first create a new agent in Google Dialogflow.
 
 ## Before you begin
 
@@ -44,6 +44,3 @@ Role required: admin
 
 **Next topic:**[Create a service account and private key for the Google Dialogflow project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-srvc-acct-key-dialogflow.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

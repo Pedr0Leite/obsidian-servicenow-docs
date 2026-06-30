@@ -14,7 +14,7 @@ breadcrumb: [Certificate Inventory and Management patterns, Certificate Inventor
 
 # GCP Certificate Manager discovery
 
-Cloud [[r-discovery|Discovery]] uses Patterns to discover certificate data that the GCP Certificate Manager manages. Discovering this data requires installing and updating Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns and [[cert-inventory-mgmt|Certificate Inventory and Management]].
+Cloud Discovery uses Patterns to discover certificate data that the GCP Certificate Manager manages. Discovering this data requires installing and updating Discovery and Service Mapping Patterns and Certificate Inventory and Management.
 
 ## Request apps on the Store
 
@@ -238,8 +238,3 @@ The **Google Cloud Platform \(GCP\) - Certificate Manager Certificates** pattern
 
 **Parent Topic:**[Certificate Inventory and Management patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cert-invt-mgmt-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[cert-inventory-mgmt|Certificate Inventory and Management]]

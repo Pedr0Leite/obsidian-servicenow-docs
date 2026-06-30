@@ -16,7 +16,7 @@ breadcrumb: [PowerShell protocols and troubleshooting, PowerShell activity pack,
 
 Authentication and access denied errors can prevent PowerShell activities from running a command on a target host.
 
-Use these procedures for troubleshooting authentication failures with Orchestration PowerShell activities and when the Remote Procedure Call \(RPC\) server is unavailable or when access is denied. The authentication failure error displays when all credentials, including those of the local [[mid-server-landing|MID Server]] service account, do not have the correct permissions to run the Powershell script/command. The same error displays when the target host is unreachable.
+Use these procedures for troubleshooting authentication failures with Orchestration PowerShell activities and when the Remote Procedure Call \(RPC\) server is unavailable or when access is denied. The authentication failure error displays when all credentials, including those of the local MID Server service account, do not have the correct permissions to run the Powershell script/command. The same error displays when the target host is unreachable.
 
 \[Omitted image "AuthenticationErrorMsg.png"\] Alt text: Authentication error message
 
@@ -24,7 +24,7 @@ Use these procedures for troubleshooting authentication failures with Orchestrat
 
 ## Authentication failure in an Active Directory activity
 
-This example uses the [[r_CreateADObject|Create AD Object activity]] to illustrate troubleshooting authentication failure in PowerShell.
+This example uses the Create AD Object activity to illustrate troubleshooting authentication failure in PowerShell.
 
 ### Before you begin
 
@@ -51,7 +51,7 @@ Validate that the account you are using has the proper permissions to run the ac
     -   User name is invalid.
     -   Password entered incorrectly.
     -   Domain controller is unreachable.
-    **Note:** The majority of the return codes listed in the MID Server log for this error are **1**s and **3**s. This is because the Active Directory activities use the ADSI provider and not WMI or WinRM. An error code of **1** means the account was able to [[c_Connect|connect]] with the test account, but running the script failed.
+    **Note:** The majority of the return codes listed in the MID Server log for this error are **1**s and **3**s. This is because the Active Directory activities use the ADSI provider and not WMI or WinRM. An error code of **1** means the account was able to connect with the test account, but running the script failed.
 
     \[Omitted image "ErrorCode1.png"\] Alt text: Sample error code of 1
 
@@ -62,7 +62,7 @@ Validate that the account you are using has the proper permissions to run the ac
 
 ## Authentication failure in an Exchange activity
 
-This example uses the [[r_CreateMailboxActivity|Create Mailbox activity]] to illustrate troubleshooting authentication failure in PowerShell.
+This example uses the Create Mailbox activity to illustrate troubleshooting authentication failure in PowerShell.
 
 ### Before you begin
 
@@ -104,7 +104,7 @@ The target host might have one of these issues:
 
 ### Example WinRM error
 
-The Create Mailbox activity from the [[c_OrchestrationExchangeActivities|Exchange activity pack]] has generated an error in the ECC queue involving authentication using the MID Server service credential. This occurred because the MID Server credential is the last to be used if the targeted host is not the MID Server.
+The Create Mailbox activity from the Exchange activity pack has generated an error in the ECC queue involving authentication using the MID Server service credential. This occurred because the MID Server credential is the last to be used if the targeted host is not the MID Server.
 
 \[Omitted image "AuthenticationErrorMsg.png"\] Alt text: Authentication failure error message
 
@@ -112,10 +112,3 @@ The MID Server log shows that the MID Server tried to run the activity under spe
 
 \[Omitted image "MIDServerErrorCode.png"\] Alt text: MID Server error code
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[r_CreateADObject|Create AD Object activity]]
-- [[c_Connect|Connect]]
-- [[r_CreateMailboxActivity|Create Mailbox activity]]
-- [[c_OrchestrationExchangeActivities|Exchange activity pack]]

@@ -14,16 +14,12 @@ breadcrumb: [Natural Language Query, Enable AI experiences]
 
 # Natural Language Query References
 
-The following components are installed with [[natural-language-query|Natural Language Query]].
+The following components are installed with Natural Language Query.
 
 -   **[NLQ properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/natural-language-query/nlq-properties.md)**  
 The Natural Language Query \(NLQ\) properties control how and where NLQ operates.
 -   **[Natural Language Query roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/natural-language-query/natural-language-query-roles.md)**  
 Natural Language Query \(NLQ\) is installed with these roles.
 
-**Parent Topic:**[[ai-products|Enable AI experiences]]
+**Parent Topic:**[Enable AI experiences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-products.md)
 
-## Related
-
-- [[ai-products|Enable AI experiences]]
-- [[natural-language-query|Natural Language Query]]

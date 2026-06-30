@@ -14,8 +14,5 @@ breadcrumb: [Now Assist Data Kit, Enable AI experiences]
 
 # Now Assist Data Kit reference
 
-Reference topics for [[now-assist-data-kit-landing|Now Assist Data Kit]].
+Reference topics for Now Assist Data Kit.
 
-## Related
-
-- [[now-assist-data-kit-landing|Now Assist Data Kit]]

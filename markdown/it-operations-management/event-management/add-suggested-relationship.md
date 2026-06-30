@@ -22,13 +22,13 @@ Role required: evt\_mgmt\_admin
 
 ## About this task
 
-Configure the **sa\_analytics.agg.query\_cmdb\_suggested\_relationship\_enabled** property to further enhance [[c_ServiceAnalyticsOverview|alert grouping]] by using suggested relationships. For more information on properties, see [CMDB alert grouping — properties and functionality](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/cmdb-alert-group-properties.md).
+Configure the **sa\_analytics.agg.query\_cmdb\_suggested\_relationship\_enabled** property to further enhance alert grouping by using suggested relationships. For more information on properties, see [CMDB alert grouping — properties and functionality](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/cmdb-alert-group-properties.md).
 
-To create CMDB-based alert grouping, you can also create a grouping automation in [[workspace-dashboard-use|Service Operations Workspace]]. For more information, see [Create Group automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/group-alert-sow-itom.md).
+To create CMDB-based alert grouping, you can also create a grouping automation in Service Operations Workspace. For more information, see [Create Group automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/group-alert-sow-itom.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Administration** &gt; **CMDB Group CI Relations**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Administration** &gt; **CMDB Group CI Relations**.
 
     1.  Click **New**.
 
@@ -54,8 +54,3 @@ To create CMDB-based alert grouping, you can also create a grouping automation i
 
 **Note:** The same parent class and relationship can appear more than once.
 
-## Related
-
-- [[c_ServiceAnalyticsOverview|Alert grouping]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[c_EM|Event Management]]

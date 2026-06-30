@@ -12,7 +12,7 @@ breadcrumb: [Mobile icons, Mobile styles, Mobile app components, Building mobile
 
 # Configure font type icons
 
-Configure font type icons that can be used in a variety of places in mobile apps. For example, you can use font type icons in screens, cards, functions for [[sg-config-quick-actions|quick actions]], and navigation bars and tabs.
+Configure font type icons that can be used in a variety of places in mobile apps. For example, you can use font type icons in screens, cards, functions for quick actions, and navigation bars and tabs.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-You can configure an icon within the work flow of configuring a screen or you can configure an icon by selecting the **Cards &amp; icons** category from the [[mab-concept|Mobile App Builder]] menu. This procedure uses the **Cards &amp; icons** category.
+You can configure an icon within the work flow of configuring a screen or you can configure an icon by selecting the **Cards &amp; icons** category from the Mobile App Builder menu. This procedure uses the **Cards &amp; icons** category.
 
 ## Procedure
 
@@ -30,7 +30,7 @@ You can configure an icon within the work flow of configuring a screen or you ca
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select the **Cards &amp; icons** category, and then select **New**.
 
@@ -86,7 +86,7 @@ Enter `Value`
 
 Enter the code that identifies the icon in the font family you want to use. For example, `e903` is the code for the solid cart icon in the **now-mobile-icons-buttons** font family.
 
- For lists of font family icon codes, see the topic for the type of icon you want to use in the [[mobile-icon-reference|Mobile icon reference]].
+ For lists of font family icon codes, see the topic for the type of icon you want to use in the [Mobile icon reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-icon-reference.md).
 
 </td></tr><tr><td>
 
@@ -114,12 +114,5 @@ Enter the name listed for the icon in the font family. For example, if you wante
 
 ## What to do next
 
-After you create the font family icon, you must use Mobile App Builder to configure a mobile app to use the icon. For more information, see [[config-using-font-icon-in-mobile-app|Add a font icon in a mobile app]].
+After you create the font family icon, you must use Mobile App Builder to configure a mobile app to use the icon. For more information, see [Add a font icon in a mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/config-using-font-icon-in-mobile-app.md).
 
-## Related
-
-- [[mobile-icon-reference|Mobile icon reference]]
-- [[config-using-font-icon-in-mobile-app|Add a font icon in a mobile app]]
-- [[sg-config-quick-actions|Quick actions]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]

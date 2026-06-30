@@ -28,7 +28,7 @@ Role required: wm\_admin, wm\_dispatcher
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fsm-application-landing-page|Field Service Management]]** &gt; **Dispatching** &gt; **[[dispatcher-activities|Dispatcher Workspace]]**.
+1.  Navigate to **All** &gt; **Field Service Management** &gt; **Dispatching** &gt; **Dispatcher Workspace**.
 
 2.  Select **Dispatcher Workspace**.
 
@@ -84,7 +84,7 @@ Actual number of resources required to work on the task.
 
 </td></tr><tr><td>
 
-[[mandatory-skills|Mandatory skills]]
+Mandatory skills
 
 </td><td>
 
@@ -122,8 +122,3 @@ Option to identify if the skills are mandatory to complete a task.
 
 The resource requirement is added to the work order task that requires a crew.
 
-## Related
-
-- [[fsm-application-landing-page|Field Service Management]]
-- [[dispatcher-activities|Dispatcher Workspace]]
-- [[mandatory-skills|Mandatory skills]]

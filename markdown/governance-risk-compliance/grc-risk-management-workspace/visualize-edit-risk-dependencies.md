@@ -28,7 +28,7 @@ Role required: sn\_risk.manager
 
 3.  Search for and select a risk from the list on the left.
 
-    Risks are organized hierarchically by [[entity-class|entity class]], then by entity.
+    Risks are organized hierarchically by entity class, then by entity.
 
 4.  After selecting a risk from the left, the risk is displayed in the center with its direct upstream and downstream dependencies.
 
@@ -56,6 +56,3 @@ Drag an eligible downstream risk from the list of eligible risks on the right an
 </table>
 **Parent Topic:**[Use entity and risk dependencies using the GRC: Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/grc-workbench.md)
 
-## Related
-
-- [[entity-class|entity class]]

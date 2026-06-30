@@ -25,11 +25,11 @@ Role required: system\_scheduler\_admin
 ## Procedure
 
 1.  Configure **Run** time options:
-2.  Navigate to **All** &gt; **System Definition** &gt; **[[c_ScheduledJobs|Scheduled Jobs]]**.
+2.  Navigate to **All** &gt; **System Definition** &gt; **Scheduled Jobs**.
 
 3.  Select **New**.
 
-4.  Select **[[t_ScheduleAScriptExecution|Automatically run a script of your choosing]]**.
+4.  Select **Automatically run a script of your choosing**.
 
 5.  Select the **Run** menu to display available choices.
 
@@ -52,7 +52,7 @@ Role required: system\_scheduler\_admin
 
 ### About this task
 
-There are two ways to locate child tables of a scheduled job; either by running a script or using search [[r_DirectJDBCProbeParameters|parameters]].
+There are two ways to locate child tables of a scheduled job; either by running a script or using search parameters.
 
 ### Procedure
 
@@ -76,8 +76,3 @@ There are two ways to locate child tables of a scheduled job; either by running 
 
 [Enable run types for scheduled job child tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/customize-run-times-for-scheduled-jobs.md)
 
-## Related
-
-- [[c_ScheduledJobs|Scheduled jobs]]
-- [[t_ScheduleAScriptExecution|Automatically run a script of your choosing]]
-- [[r_DirectJDBCProbeParameters|Parameters]]

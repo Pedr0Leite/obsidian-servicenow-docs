@@ -16,7 +16,7 @@ breadcrumb: [Software Asset Management publisher pack for Citrix, Supported soft
 
 View license usage information related to Citrix in the publisher overview for Citrix Systems in the Software Asset Workspace.
 
-From the [[sam-workspace|Software Asset Workspace]], access the Citrix Systems publisher overview by navigating to **License usage** &gt; **Publishers** and then selecting **Citrix Systems** from the list of available software publishers.
+From the Software Asset Workspace, access the Citrix Systems publisher overview by navigating to **License usage** &gt; **Publishers** and then selecting **Citrix Systems** from the list of available software publishers.
 
 Results are updated whenever a new reconciliation result is available.
 
@@ -100,6 +100,3 @@ License consumption trends for your Citrix software products. Each data point re
 
 **Parent Topic:**[Software Asset Management publisher pack for Citrix](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/citrix-publisher-pack.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]

@@ -12,22 +12,14 @@ breadcrumb: [Inbound email, Notifications, Configure core features, Administer t
 
 # Configure inbound email actions
 
-Configure a processing order for [[actions-inbound-email|inbound email actions]] and use the order to manage multiple filters in inbound email actions.
+Configure a processing order for inbound email actions and use the order to manage multiple filters in inbound email actions.
 
--   **[[t_EnablingAutomaticUserCreation|Enable automatic user creation]]**  
+-   **[Enable automatic user creation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_EnablingAutomaticUserCreation.md)**  
 An administrator can set an email property to automatically create users from incoming email. The administrator provides a list of trusted domains to prevent untrusted users from being automatically created.
--   **[[r_SetFieldValsFromTheEmailBody|Setting field values from the email body]]**  
-Values in an [[ia-inbound-email-il|inbound email]] can set field values in a task record.
--   **[[r_OrderedEmailProcessingPlugin|Specifying the inbound email processing order]]**  
+-   **[Setting field values from the email body](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_SetFieldValsFromTheEmailBody.md)**  
+Values in an inbound email can set field values in a task record.
+-   **[Specifying the inbound email processing order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_OrderedEmailProcessingPlugin.md)**  
 You can configure a processing order for inbound email actions and use the order to manage multiple filters in inbound email actions.
 
-**Parent Topic:**[[inbound-email-landing|Inbound email]]
+**Parent Topic:**[Inbound email](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/inbound-email-landing.md)
 
-## Related
-
-- [[t_EnablingAutomaticUserCreation|Enable automatic user creation]]
-- [[r_SetFieldValsFromTheEmailBody|Setting field values from the email body]]
-- [[r_OrderedEmailProcessingPlugin|Specifying the inbound email processing order]]
-- [[inbound-email-landing|Inbound email]]
-- [[actions-inbound-email|Inbound email actions]]
-- [[ia-inbound-email-il|Inbound email]]

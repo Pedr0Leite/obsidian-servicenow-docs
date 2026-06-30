@@ -14,7 +14,7 @@ breadcrumb: [Company events, Creating employee communications, Authoring and man
 
 # Workplace Service Delivery Integration
 
-Create new reservations and make changes to existing reservations for your [[ec-company-events|company events]] from the Workplace Service Management portal, which integrates with [[employee-center-pro-landing|Employee Center Pro]].
+Create new reservations and make changes to existing reservations for your company events from the Workplace Service Management portal, which integrates with Employee Center Pro.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Create new reservations and make changes to existing reservations for your [[ec-
 
 ## About this task
 
-The [[workplace-service-delivery-suite-landing-page|workplace service delivery]] integrates with employee center pro to provide you with an opportunity to create new reservations and modify existing reservations for your company events seamlessly by following a few simple steps.
+The workplace service delivery integrates with employee center pro to provide you with an opportunity to create new reservations and modify existing reservations for your company events seamlessly by following a few simple steps.
 
 **Note:** This integration is for **Company Events** only.
 
@@ -62,7 +62,7 @@ The [[workplace-service-delivery-suite-landing-page|workplace service delivery]]
 -   **[Create Company Event with Workplace Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-wsd-integration-create-company-event.md)**  
 Create new company events and make changes to existing company events from the Workplace Service Management portal, which integrates with Employee Center Pro.
 -   **[Company Event Troubleshooting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-wsd-integration-troubleshooting.md)**  
-[[ec-wsd-integration-troubleshooting|Company event troubleshooting]] steps help resolve reservation changes and cancellations.
+Company event troubleshooting steps help resolve reservation changes and cancellations.
 
 **Parent Topic:**[Company events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-company-events.md)
 
@@ -75,9 +75,3 @@ Create new company events and make changes to existing company events from the W
 
 [Publishing company events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-publish-company-events.md)
 
-## Related
-
-- [[ec-company-events|Company events]]
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[ec-wsd-integration-troubleshooting|Company Event Troubleshooting]]

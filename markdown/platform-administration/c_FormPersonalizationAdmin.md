@@ -22,7 +22,7 @@ Administrators can manage this function using the following options.
 
 **Note:** Personalizing a form in this way modifies the form for you only. To make changes to a form that are visible to all users, you must configure the form.
 
-**Parent Topic:**[[form-administration|Administering forms on the ServiceNow AI Platform]]
+**Parent Topic:**[Administering forms on the ServiceNow AI Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/form-administration.md)
 
 ## Activate form personalization
 
@@ -42,7 +42,7 @@ Form personalization is activated for new instances. To activate form personaliz
 
     **Note:** When domain separation and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
 
-    You will see a message after installation is completed. For information about the components installed with a plugin, see [[find-components|Find components installed with an application]].
+    You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
 
 ## Change form personalization role requirements
@@ -57,7 +57,7 @@ Role required: admin
 
 1.  Enter `sys_properties.list` in the navigation filter.
 
-2.  Locate the **glide.ui.personalize\_form.role** property in the [[r_SetArchiveRuleProcessingBehavior|System Properties]] list.
+2.  Locate the **glide.ui.personalize\_form.role** property in the System Properties list.
 
 3.  In the **Value** field, specify the roles that can access form personalization.
 
@@ -77,7 +77,7 @@ Role required: admin
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[c_UserAdministration|User Administration]]** &gt; **User Preferences**.
+1.  Navigate to **All** &gt; **User Administration** &gt; **User Preferences**.
 
 2.  Filter the list by **\[Name\] \[contains\] \[personalize\]**.
 
@@ -119,9 +119,3 @@ Activating the Personalize Forms plugin sets the **glide.ui.personalize\_form** 
 
 [Personalize a form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_PersonalizeAForm.md)
 
-## Related
-
-- [[form-administration|Administering forms on the ServiceNow AI Platform]]
-- [[find-components|Find components installed with an application]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]
-- [[c_UserAdministration|User administration]]

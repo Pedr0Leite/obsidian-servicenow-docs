@@ -12,7 +12,7 @@ breadcrumb: [MITRE-ATT&amp;CK administration, MITRE-ATT&amp;CK framework overvie
 
 # Create and map detection rules
 
-Create detection rules and map them against the tactics and techniques. With this [[mapping-logrhythm|mapping]], you can see the coverage for the detection rules in your organization.
+Create detection rules and map them against the tactics and techniques. With this mapping, you can see the coverage for the detection rules in your organization.
 
 ## Before you begin
 
@@ -27,15 +27,15 @@ Detection rule mapping enables your organization to see which detection rules ar
 
 The primary purpose of the mapping is to provide visibility if your organization has the necessary detection rules to identify when an alert or event is triggered as a result of an attack by an adversary using a specific technique.
 
-For example, view the following illustration that shows a list of the detection rules mapped to various techniques. You can also view this information in [[mitre-att-ck-heatmap-and-navigator|the MITRE-ATT&amp;CK navigator]].
+For example, view the following illustration that shows a list of the detection rules mapped to various techniques. You can also view this information in [the MITRE-ATT&amp;CK navigator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/mitre-att-ck-heatmap-and-navigator.md).
 
 \[Omitted image "mitre-detection-rules.png"\] Alt text: MITRE ATT&amp;CK detection rules.
 
-If you do not intend to use the base system SIEM auto-extraction rules, then enable the automatic rollup of MITRE-ATT&amp;CK TTPs based on the detection rule mapping. You can populate the alert or event rule that triggers the security incident in the Alert Rule name field. You can also populate the Alert Rule name field by using SIEM integration, email parsing, manual creation, etc. For more information, see [[rollup-mitre-attack-information-detection-rules|Rollup MITRE-ATT&amp;CK information from detection rules]].
+If you do not intend to use the base system SIEM auto-extraction rules, then enable the automatic rollup of MITRE-ATT&amp;CK TTPs based on the detection rule mapping. You can populate the alert or event rule that triggers the security incident in the Alert Rule name field. You can also populate the Alert Rule name field by using SIEM integration, email parsing, manual creation, etc. For more information, see [Rollup MITRE-ATT&amp;CK information from detection rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/rollup-mitre-attack-information-detection-rules.md).
 
 **Note:**
 
-The detection rules feature has been updated to include mapping a single tactic to multiple techniques. Previously, you could map a single tactic with a single technique. If you are upgrading the [[threat-intel-landing-page|Threat Intelligence]] plugin from version 12.0.4 to a higher version, then review the following points before using the detection rules in MITRE-ATT&amp;CK module.
+The detection rules feature has been updated to include mapping a single tactic to multiple techniques. Previously, you could map a single tactic with a single technique. If you are upgrading the Threat Intelligence plugin from version 12.0.4 to a higher version, then review the following points before using the detection rules in MITRE-ATT&amp;CK module.
 
 -   You find multiple records merged into a single record if the fields - rule name, alert sensor, source, category, subcategory, and MITRE-ATT&amp;CK tactic are common.
 -   The old records are marked as true in the deprecated column and false in the active column.
@@ -112,7 +112,7 @@ The detection rules feature has been updated to include mapping a single tactic 
         \[Omitted image "mitre-import-upload.gif"\] Alt text: Upload the spreadsheet to complete the detection rule mapping.
 
 
-**Parent Topic:**[[mitre-att-ck-administration|MITRE-ATT&amp;CK administration]]
+**Parent Topic:**[MITRE-ATT&amp;CK administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/mitre-att-ck-administration.md)
 
 **Related topics**  
 
@@ -145,7 +145,7 @@ The detection rules feature has been updated to include mapping a single tactic 
 
 [Define the data source and detection tool mapping]()
 
-[Define the data source and [[data-component|data component]] mapping]()
+[Define the data source and data component mapping]()
 
 [Define the technique detection coverage]()
 
@@ -163,11 +163,3 @@ The detection rules feature has been updated to include mapping a single tactic 
 
 [Review the MITRE-ATT&amp;CK system properties]()
 
-## Related
-
-- [[mitre-att-ck-heatmap-and-navigator|MITRE-ATT&amp;CK heat map and navigator]]
-- [[rollup-mitre-attack-information-detection-rules|Rollup MITRE-ATT&amp;CK information from detection rules]]
-- [[mitre-att-ck-administration|MITRE-ATT&amp;CK administration]]
-- [[mapping-logrhythm|Mapping]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[data-component|Data Component]]

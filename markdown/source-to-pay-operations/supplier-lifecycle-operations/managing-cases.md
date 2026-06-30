@@ -14,9 +14,9 @@ breadcrumb: [Using Source-to-Pay Workspace, Use, Supplier Lifecycle Operations, 
 
 # Manage supplier cases from the Source-to-Pay Workspace
 
-You can create and manage [[supplier|supplier]] cases for suppliers in the [[purch-order-mgmt-ws|Source-to-Pay Workspace]].
+You can create and manage supplier cases for suppliers in the Source-to-Pay Workspace.
 
-On the [[source-to-pay-list-page|Source-to-Pay Workspace List page]], navigate to **Lists** &gt; **Cases** and select any of the sub-modules to view a list of cases. Select the link to the case in the Number column to open the Case Details page.
+On the Source-to-Pay Workspace List page, navigate to **Lists** &gt; **Cases** and select any of the sub-modules to view a list of cases. Select the link to the case in the Number column to open the Case Details page.
 
 For more information about viewing cases in the Source-to-Pay Workspace, see [View a supplier case from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/view-supp-case-ws.md).
 
@@ -43,7 +43,7 @@ When you select a link for a case, each case opens in a separate tab in the top-
     -   Supplier Case: Displays information about the supplier case.
     -   Summary Details: Displays the parent case, related location, start and end dates for the case.
     -   Resolution Information: Displays the resolution information and close notes for the case.
--   **Supplier Information** tab: Displays information about the supplier. For more information about this tab, see [[supp-info-tab|View information on supplier cases]].
+-   **Supplier Information** tab: Displays information about the supplier. For more information about this tab, see [View information on supplier cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supp-info-tab.md).
 -   **Supplier Tasks** tab: Lists the supplier tasks for the supplier case.
 -   **Related Cases** tab: Lists the child supplier cases related to the parent supplier case.
 
@@ -51,7 +51,7 @@ If you've not installed Third-party Risk Management, the playbook creates suppli
 
 -   **Approvals** tab: Lists the approval records, their approval status, and the persons who need to approve this case.
 
-**Important:** [[supp-mgmt-landing-page|Supplier Lifecycle Operations]] creates an approval record if the "Ask For Approval" action is a part of any SLO flow. This approval record can be approved by the user who belongs to the Supplier Administrators group \(sys\_user\_group table\). For more information, see [Add a user to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddAUserToAGroup.md).
+**Important:** Supplier Lifecycle Operations creates an approval record if the "Ask For Approval" action is a part of any SLO flow. This approval record can be approved by the user who belongs to the Supplier Administrators group \(sys\_user\_group table\). For more information, see [Add a user to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddAUserToAGroup.md).
 
 -   **Risk Assessments** tab: Displays the risk assessments for a supplier.
 
@@ -76,7 +76,7 @@ Contains the Comments and Work notes \(Private\) widgets. The text that you ente
 
 </td></tr><tr><td>
 
-[[activity-stream|Activity stream]]
+Activity stream
 
 </td><td>
 
@@ -119,7 +119,7 @@ For more information about risk ratings and risk scores, see [Set up risk rating
 
 </td></tr></tbody>
 </table>-   **[View information on supplier cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supp-info-tab.md)**  
-The **Supplier Information** tab shows details about the supplier and the [[supplier-contact|supplier contact]], a summary of all the open and overdue cases, and a list of all the cases by their priority.
+The **Supplier Information** tab shows details about the supplier and the supplier contact, a summary of all the open and overdue cases, and a list of all the cases by their priority.
 -   **[Sidebar for supplier cases in the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/sidebar-smw.md)**  
 Sidebar enables stakeholders to collaborate with others by getting into discussions when working on supplier cases.
 -   **[Configure due dates for supplier cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/configure-case-due-date.md)**  
@@ -127,7 +127,7 @@ Configure due dates for different case types so that the **Due date** field is a
 -   **[Case playbook for specific supplier case types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/gen-playbook-cases.md)**  
 Source-to-Pay Workspace includes a generic case playbook to complete supplier cases of specific case types.
 -   **[Create a case on behalf of a supplier from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-new-supplier-case.md)**  
-[[create-supplier-case-spo|Create a supplier case]] to track the progress of supplier tasks, resolve issues related to supplier products or services, and request additional information from a supplier.
+Create a supplier case to track the progress of supplier tasks, resolve issues related to supplier products or services, and request additional information from a supplier.
 -   **[Assign a supplier case to yourself from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/assign-supp-case.md)**  
 As a supplier manager, assign a case to yourself and start working on it.
 -   **[Submit a supplier case from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/submit-supplier-case.md)**  
@@ -182,13 +182,3 @@ Using Relish integration, checking supplier's banking details, physical addresse
 
 [Manage supplier tasks from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/managing-tasks.md)
 
-## Related
-
-- [[supp-info-tab|View information on supplier cases]]
-- [[supplier|Supplier]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[source-to-pay-list-page|Source-to-Pay Workspace list page]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[activity-stream|Activity stream]]
-- [[supplier-contact|Supplier contact]]
-- [[create-supplier-case-spo|Create a supplier case]]

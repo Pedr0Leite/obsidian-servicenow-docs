@@ -14,7 +14,7 @@ breadcrumb: [Containerized MID Server, Configuring MID Servers, Configuring MID 
 
 # Build MID Server Docker Image for Linux
 
-Deploy Containerized MID Servers on Linux by creating a Docker image with the provided recipes. [[containerized-mid|Containerized MID Server]] uses a Docker image of the [[mid-server-landing|MID Server]] that allows you to quickly deploy MID Servers at scale.
+Deploy Containerized MID Servers on Linux by creating a Docker image with the provided recipes. Containerized MID Server uses a Docker image of the MID Server that allows you to quickly deploy MID Servers at scale.
 
 ## Before you begin
 
@@ -415,7 +415,4 @@ The mutual PEM certificate is installed on the MID Server during initialization.
 
 6.  Deploy the containerized MID Server to the pod with the **deployment.yml** and run the command: `kubectl create -f deployment.yml`
 
-## Related
 
-- [[containerized-mid|Containerized MID Server]]
-- [[mid-server-landing|MID Server]]

@@ -12,7 +12,7 @@ breadcrumb: [Facilities move management, Facilities Service Management overview,
 
 # Facilities move requests
 
-Both employees and managers can request a move, which initiates the workflow of tasks to complete that move. Any user can submit a move request through the Facilities catalog. Users with the Facilities staff role can also create and update [[c_FacilitiesRequests|facilities requests]] using the move request form directly.
+Both employees and managers can request a move, which initiates the workflow of tasks to complete that move. Any user can submit a move request through the Facilities catalog. Users with the Facilities staff role can also create and update facilities requests using the move request form directly.
 
 Facilities move management works in the following manner:
 
@@ -23,16 +23,10 @@ Facilities move management works in the following manner:
 5.  Facilities staff members perform the tasks necessary to fulfill the move request.
 6.  The end of workflow script runs to update the user location and the location of all the asserts that were requested to be moved.
 
--   **[[t_CreateAMoveReqThruFacCatalog|Create a move request through the facilities catalog]]**  
+-   **[Create a move request through the facilities catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_CreateAMoveReqThruFacCatalog.md)**  
 Users can submit move requests by selecting from the categories of the Facilities catalog.
--   **[[t_CreateMoveReqWFacReqForm|Create a move request with the move request form]]**  
+-   **[Create a move request with the move request form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_CreateMoveReqWFacReqForm.md)**  
 Facilities staff members can create move requests using the move request form.
 
-**Parent Topic:**[[c_FacMoveMgmt|Facilities move management]]
+**Parent Topic:**[Facilities move management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_FacMoveMgmt.md)
 
-## Related
-
-- [[t_CreateAMoveReqThruFacCatalog|Create a move request through the facilities catalog]]
-- [[t_CreateMoveReqWFacReqForm|Create a move request with the move request form]]
-- [[c_FacMoveMgmt|Facilities move management]]
-- [[c_FacilitiesRequests|Facilities requests]]

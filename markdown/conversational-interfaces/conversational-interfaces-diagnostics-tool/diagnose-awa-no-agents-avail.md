@@ -14,7 +14,7 @@ breadcrumb: [Using the Conversational Interfaces Diagnostic Tool, Conversational
 
 # Diagnose Advanced Work Assignment configuration issues
 
-Use the [[ci-diagnostics-tool-landing|Conversational Interfaces Diagnostic Tool]] to identify and resolve common [[awa-application-landing-page|Advanced Work Assignment]] \(AWA\) configuration issues before reaching out to Now Support.
+Use the Conversational Interfaces Diagnostic Tool to identify and resolve common Advanced Work Assignment \(AWA\) configuration issues before reaching out to Now Support.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Solve issues with your AWA configuration. For example, you can solve issues such
 
 ## Procedure
 
-1.  Start a conversation with the [[virtual-agent-landing-page|Virtual Agent]] chatbot.
+1.  Start a conversation with the Virtual Agent chatbot.
 
 2.  At the greeting message, type `diagnostic pre chat`.
 
@@ -79,8 +79,3 @@ Solve issues with your AWA configuration. For example, you can solve issues such
 
 **Parent Topic:**[Using the Conversational Interfaces Diagnostic Tool](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/conversational-interfaces-diagnostics-tool/using-ci-diagnostics-tool.md)
 
-## Related
-
-- [[ci-diagnostics-tool-landing|Conversational Interfaces Diagnostic Tool]]
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[virtual-agent-landing-page|Virtual Agent]]

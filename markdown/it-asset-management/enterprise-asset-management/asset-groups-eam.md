@@ -14,7 +14,7 @@ breadcrumb: [Enterprise Asset Management data model, Explore, Enterprise Asset M
 
 # Asset groups in Enterprise Asset Management
 
-Asset groups in the [[enterprise-asset-management|Enterprise Asset Management]] application provide a systematic approach to organizing assets based on their functional relationships and their physical placement within an organization. They can help improve data integrity and support maintenance planning, life-cycle tracking, reporting, and access control.
+Asset groups in the Enterprise Asset Management application provide a systematic approach to organizing assets based on their functional relationships and their physical placement within an organization. They can help improve data integrity and support maintenance planning, life-cycle tracking, reporting, and access control.
 
 ## Organization of assets in Enterprise Asset Management
 
@@ -59,7 +59,7 @@ Keep the following considerations in mind for asset groups:
 Keep the following considerations in mind while adding assets to asset groups:
 
 -   You can add only assets without a parent.​
--   You can add only hardware and enterprise assets. You can't add any [[c_ReceiveAConsumableAsset|consumable assets]], linear assets, linear segments, or [[pallet-assets|pallet assets]].
+-   You can add only hardware and enterprise assets. You can't add any consumable assets, linear assets, linear segments, or pallet assets.
 -   Assets must be in the same location as the asset group or in a descendent location.
 -   Asset must be in the In use or In maintenance state.​​
 
@@ -72,7 +72,7 @@ Asset groups are unavailable in the following Enterprise Asset Management flows 
 -   Repair order line management
 -   Disposal order management
 -   Shipment asset creation
--   [[c_ContractManagement|Contract management]]
+-   Contract management
 -   Move order management
 -   Any flow where the asset requires a model
 
@@ -82,9 +82,3 @@ Asset groups require the sn\_isa\_model plugin, which is automatically installed
 
 **Parent Topic:**[Enterprise Asset Management data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/eam-data-model.md)
 
-## Related
-
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[c_ReceiveAConsumableAsset|Consumable assets]]
-- [[pallet-assets|Pallet assets]]
-- [[c_ContractManagement|Contract Management]]

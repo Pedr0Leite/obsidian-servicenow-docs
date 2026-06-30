@@ -14,7 +14,7 @@ breadcrumb: [Universal Request, Employee Service Management]
 
 # Integrating Universal Request with other applications
 
-Extend the capabilities of [[ur-landing-limitedaccess|Universal Request]] and connect with other departments to assist with ticket resolution. By integrating with other applications, you provide a consistent ticketing experience and facilitate inter-department request transfers and multi-department use cases.
+Extend the capabilities of Universal Request and connect with other departments to assist with ticket resolution. By integrating with other applications, you provide a consistent ticketing experience and facilitate inter-department request transfers and multi-department use cases.
 
 ## Integrate with IT Service Management
 
@@ -22,7 +22,7 @@ Universal Request provides an integration with the Incident Management applicati
 
 ## Integrate with HR Service Delivery
 
-Universal Request provides an integration with the [[hr-service-delivery|HR Service Delivery]] application after you install [HR Service Delivery integration with Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/universal-request-hr.md). This integration gives flexibility to the employees to create HR cases in the universal request record using the Now® Mobile app and [[employee-center-landing-page|Employee Center]]. HR routing agents can view these records from the Universal Request application. To modify the integration with the HR Service Delivery application, use the Universal Request guided setup.
+Universal Request provides an integration with the HR Service Delivery application after you install [HR Service Delivery integration with Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/universal-request-hr.md). This integration gives flexibility to the employees to create HR cases in the universal request record using the Now® Mobile app and Employee Center. HR routing agents can view these records from the Universal Request application. To modify the integration with the HR Service Delivery application, use the Universal Request guided setup.
 
 ## Integrate with Request Management
 
@@ -34,24 +34,15 @@ Integrate Innovation Management with the Universal Request application to enable
 
 ## Integrate with Workplace Service Delivery
 
-Integrate [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] services with Universal Request so that you can provide a convenient workplace experience to your employees. This integration provides a common help desk so that your employees can submit requests that are related to their workplace without having to search the [[workplace-services|Workplace services]] catalog. For more information, see [Workplace Service Delivery integration with Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/wsd-intergration-with-universal-request.md).
+Integrate Workplace Service Delivery services with Universal Request so that you can provide a convenient workplace experience to your employees. This integration provides a common help desk so that your employees can submit requests that are related to their workplace without having to search the Workplace services catalog. For more information, see [Workplace Service Delivery integration with Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/wsd-intergration-with-universal-request.md).
 
 ## Integrate with Universal Task
 
-Universal Request provides an integration with the [[universal-task-landing|Universal Task]] application. This integration enables agents to task employees, track task progress, and provide quick resolution. For more information, see [Configure your service for Universal Task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/config-service-for-ut.md) .
+Universal Request provides an integration with the Universal Task application. This integration enables agents to task employees, track task progress, and provide quick resolution. For more information, see [Configure your service for Universal Task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/config-service-for-ut.md) .
 
 ## Integrate with Microsoft Teams
 
-The [[sn-ms-teams-ur|Universal Request integration with Microsoft Teams]] application enables Universal Request to integrate with Microsoft Teams. This integration enables agents and employees to collaborate using Microsoft Teams and resolve universal requests more effectively. For more information, see [Universal Request integration with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/sn-ms-teams-ur.md) .
+The Universal Request integration with Microsoft Teams application enables Universal Request to integrate with Microsoft Teams. This integration enables agents and employees to collaborate using Microsoft Teams and resolve universal requests more effectively. For more information, see [Universal Request integration with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/sn-ms-teams-ur.md) .
 
 **Parent Topic:**[Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-landing-limitedaccess.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[workplace-services|Workplace Services]]
-- [[universal-task-landing|Universal Task]]
-- [[sn-ms-teams-ur|Universal Request integration with Microsoft Teams]]

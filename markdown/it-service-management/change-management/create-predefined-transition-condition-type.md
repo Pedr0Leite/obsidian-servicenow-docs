@@ -14,7 +14,7 @@ breadcrumb: [Create a Change model, Configure, Change Management, IT Service Man
 
 # Create predefined transition condition types
 
-Create predefined transition conditions to reuse the conditions for your change [[c_Models|models]].
+Create predefined transition conditions to reuse the conditions for your change models.
 
 ## Before you begin
 
@@ -42,6 +42,3 @@ Role required: change\_manager
 
 **Parent Topic:**[Create a Change model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/create-a-change-model.md)
 
-## Related
-
-- [[c_Models|Models]]

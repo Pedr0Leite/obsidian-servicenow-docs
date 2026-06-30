@@ -12,7 +12,7 @@ breadcrumb: [Service definitions, Case management, Organize agent workspaces, Co
 
 # Service definitions with catalog items
 
-Enable [[csm-service-definitions|service definitions]] to use service catalog items. Agents can select these catalog items and use the associated record producers to create cases of the correct type in [[csm-workspaces-configure|CSM Configurable Workspace]].
+Enable service definitions to use service catalog items. Agents can select these catalog items and use the associated record producers to create cases of the correct type in CSM Configurable Workspace.
 
 Users with the admin role can configure service definitions to use service catalog items. These catalog items are displayed as cards in the service selector. If a service definition has more than one associated service catalog item, the system shows all of the associated catalog items as cards in the service selector.
 
@@ -22,11 +22,11 @@ When an agent selects a catalog item from the service selector, the system displ
 
 Users with the admin role can configure a service definition to use catalog items.
 
-1.  [[create-csm-service-definition|Create a service definition]] or edit an existing service definition record.
+1.  [Create a service definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-csm-service-definition.md) or edit an existing service definition record.
 2.  Enable the **Use service catalog item** field.
 3.  Add the associated catalog items for this service definition to the Catalog Service Relationships related list.
 
-For more information, see [[csm-service-definitions-configure|Configuring service definitions]].
+For more information, see [Configuring service definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-service-definitions-configure.md).
 
 ## Using a service definition with catalog items to create a case
 
@@ -62,9 +62,3 @@ Default page settings:
 -   Table: Record Producer \[sc\_cat\_item\_producer\]
 -   Order: -1000
 
-## Related
-
-- [[create-csm-service-definition|Create a service definition]]
-- [[csm-service-definitions-configure|Configuring service definitions]]
-- [[csm-service-definitions|Service definitions]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

@@ -14,7 +14,7 @@ breadcrumb: [Reference Multi Provider Document Services framework, Multi Provide
 
 # Multi Provider Document Services Framework Framework roles
 
-[[mp-document-services-framework-landing|Multi Provider Document Services Framework]] Framework is installed with these roles.
+Multi Provider Document Services Framework Framework is installed with these roles.
 
 To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/managing-user-subscriptions-v2.md) and contact your account representative.
 
@@ -42,7 +42,7 @@ None.
 
 ## User \[mp\_document\_user\]
 
-Create, update, and [[delete-a-doc|delete documents]] managed for providers.
+Create, update, and delete documents managed for providers.
 
 ### Contains Roles
 
@@ -60,7 +60,3 @@ None.
 
 None.
 
-## Related
-
-- [[mp-document-services-framework-landing|Multi Provider Document Services Framework]]
-- [[delete-a-doc|Delete documents]]

@@ -24,7 +24,7 @@ Before starting this procedure, ensure that the [External Credential Storage plu
 
 ## Procedure
 
-1.  Configure the CyberArk vault with the application ID and [[c_Authentication|authentication]] details that all MID Servers requesting credentials will use.
+1.  Configure the CyberArk vault with the application ID and authentication details that all MID Servers requesting credentials will use.
 
     For details, refer to the CyberArk Credential Provider and ASCP Implementation Guide.
 
@@ -44,12 +44,8 @@ Before starting this procedure, ensure that the [External Credential Storage plu
 
     1.  In the CyberArk Password Safe, create the privileged accounts required by Discovery, Orchestration, or Service Mapping to access different devices and ensure that these accounts are members of the safes in which the necessary credentials are stored.
 
-    2.  Add the Credential Provider and application [[users|users]] as members of the Password Safes where the application passwords are stored.
+    2.  Add the Credential Provider and application users as members of the Password Safes where the application passwords are stored.
 
 
 **Parent Topic:**[CyberArk integration configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/c_CyberArkIntegrationConfiguration.md)
 
-## Related
-
-- [[c_Authentication|Authentication]]
-- [[users|Users]]

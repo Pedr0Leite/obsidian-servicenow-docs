@@ -14,7 +14,7 @@ breadcrumb: [Databricks, Service Graph Connectors for AI Control Tower, AI conne
 
 # Create an AI connection for Databricks
 
-Create an AI connection for Databricks in [[ai-control-tower-landing|AI Control Tower]] using the  [[ai-service-graph-connector-for-databricks|AI Service Graph Connector for Databricks]].
+Create an AI connection for Databricks in AI Control Tower using the  AI Service Graph Connector for Databricks.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_ai\_disc.discovery\_admin and sn\_cmdb\_int\_util.sgc\_admin
 
 ## Procedure
 
-1.  Navigate to **AI Control Tower** &gt; **Configuration** &gt; **[[enterprise-ai-discovery|AI connections]]**.
+1.  Navigate to **AI Control Tower** &gt; **Configuration** &gt; **AI connections**.
 
 2.  Click **Add**.
 
@@ -73,8 +73,3 @@ Role required: sn\_ai\_disc.discovery\_admin and sn\_cmdb\_int\_util.sgc\_admin
 
 The AI connection for Databricks is created and configured.
 
-## Related
-
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[ai-service-graph-connector-for-databricks|AI Service Graph Connector for Databricks]]
-- [[enterprise-ai-discovery|AI connections]]

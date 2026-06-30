@@ -24,7 +24,7 @@ Role required: awa\_admin or admin
 
 1.  Navigate to the queue settings through one of the following navigation paths:
 
-    -   **All** &gt; **[[awa-application-landing-page|Advanced Work Assignment]]** &gt; **Home**.
+    -   **All** &gt; **Advanced Work Assignment** &gt; **Home**.
 
         In the Essential settings section, select **Set up queues**.
 
@@ -39,6 +39,4 @@ Role required: awa\_admin or admin
 
 6.  Select **Submit**.
 
-## Related
 
-- [[awa-application-landing-page|Advanced Work Assignment]]

@@ -20,8 +20,8 @@ As a consumer, you can add your own variables to a provider's remote record prod
 
 Note the following requirements:
 
--   You must be using [[tmt-service-bridge-both-landing-page|Service Exchange]] version 2.1.x+.
--   You have added the necessary variables to a variable set. For more details, see [[service-bridge-v2-variable-sets|Using variable sets with Remote Record Producers]].
+-   You must be using Service Exchange version 2.1.x+.
+-   You have added the necessary variables to a variable set. For more details, see [Using variable sets with Remote Record Producers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-variable-sets.md).
 
 Role required: admin, itil, sn\_sb.admin
 
@@ -33,7 +33,7 @@ Role required: admin, itil, sn\_sb.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Service Exchange Consumer** &gt; **Provider [[se-connections-tab|Connections]]**.
+1.  Navigate to **All** &gt; **Service Exchange Consumer** &gt; **Provider Connections**.
 
 2.  On the Provider connection page, open your provider connection by selecting the relevant number link.
 
@@ -47,8 +47,4 @@ Role required: admin, itil, sn\_sb.admin
 
 6.  Select **Update**.
 
-## Related
 
-- [[service-bridge-v2-variable-sets|Using variable sets with Remote Record Producers]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]
-- [[se-connections-tab|Connections]]

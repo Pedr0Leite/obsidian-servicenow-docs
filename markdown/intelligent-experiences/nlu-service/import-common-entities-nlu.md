@@ -14,11 +14,11 @@ breadcrumb: [NLU entities, Build and train your model, Model management, Natural
 
 # Import entities
 
-Reuse entities that you have created across your other [[nlu-landing|Natural Language Understanding]] \(NLU\) models. Importing entities saves time and helps improve the intents in your model.
+Reuse entities that you have created across your other Natural Language Understanding \(NLU\) models. Importing entities saves time and helps improve the intents in your model.
 
 ## Before you begin
 
--   Make sure that the NLU Workbench plugin, NLU Workbench - Core plugin, NLU Common Model plugin, and [[predictive-intelligence-landing|Predictive Intelligence]] plugin are all installed and activated on your instance.
+-   Make sure that the NLU Workbench plugin, NLU Workbench - Core plugin, NLU Common Model plugin, and Predictive Intelligence plugin are all installed and activated on your instance.
 -   Create or use an existing NLU model.
 -   Create or use existing intents and entities.
 -   Role required: nlu\_editor, nlu\_admin, or admin. The nlu\_editor must be assigned to the model.
@@ -39,7 +39,7 @@ In this example procedure, you are importing several entities to a new model.
 
 2.  Select the tab corresponding to your model's application, then select the name of the model you want to add entities to.
 
-3.  In the **[[managing-model-content|Build and train your model]]** phase, select the **Entities** tab.
+3.  In the **Build and train your model** phase, select the **Entities** tab.
 
 4.  Select **Import entity**.
 
@@ -69,8 +69,3 @@ Use the imported entities to annotate the utterances of the model. Train your mo
 
 [Import an NLU intent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/import-nlu-intent.md)
 
-## Related
-
-- [[nlu-landing|Natural Language Understanding]]
-- [[predictive-intelligence-landing|Predictive Intelligence]]
-- [[managing-model-content|Build and train your model]]

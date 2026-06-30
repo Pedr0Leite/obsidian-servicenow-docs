@@ -56,8 +56,5 @@ When you perform a full data migration, the selected artifacts are excluded. You
 
 ## What to do next
 
-Navigate to **All** &gt; **Performance Analytics** &gt; **Migration Center** to proceed with migrating the other artifacts on your instance. For more information, see [[data-migration-perform|Perform full data migration]].
+Navigate to **All** &gt; **Performance Analytics** &gt; **Migration Center** to proceed with migrating the other artifacts on your instance. For more information, see [Perform full data migration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/data-migration-perform.md).
 
-## Related
-
-- [[data-migration-perform|Perform full data migration]]

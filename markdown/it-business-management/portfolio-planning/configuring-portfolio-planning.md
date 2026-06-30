@@ -15,7 +15,7 @@ breadcrumb: [Portfolio Planning, Strategic Portfolio Management]
 
 # Configuring Portfolio Planning
 
-Learn about the process required to set up [[portfolio-planning-app-landing-page|Portfolio Planning]] to enable your product and portfolio managers start aligning their work business objectives.
+Learn about the process required to set up Portfolio Planning to enable your product and portfolio managers start aligning their work business objectives.
 
 ## Configuration workflow
 
@@ -32,11 +32,11 @@ Use the following steps as guidelines to set up Portfolio Planning. Some of thes
 
     See [Configuring lens in Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/configuring-lens-in-portfolio-planning.md).
 
-4.  Integrate ServiceNow® [[portfolio-planning-integration-with-execution-applications|Portfolio Planning with Project Portfolio Management]] \(PPM\).
+4.  Integrate ServiceNow® Portfolio Planning with Project Portfolio Management \(PPM\).
 
     See [Portfolio Planning with Project Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/portfolio-planning-integration-with-execution-applications.md).
 
-5.  Configure Capacity Planning and [[manage-rsrc-cap-pp|generate resource capacity]].
+5.  Configure Capacity Planning and generate resource capacity.
 
     See [Capacity configuration in Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/config-cp-pp.md).
 
@@ -51,8 +51,3 @@ Guided Setup provides a sequence of tasks to help you with the required configur
 
 When you’re configuring a task from the Guided Setup, you can launch the in-app help for additional guidance by clicking the Show Help icon \(\[Omitted image "Banner\_HelpIcon.png"\] Alt text: Show Help.\).
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[portfolio-planning-integration-with-execution-applications|Portfolio Planning with Project Portfolio Management]]
-- [[manage-rsrc-cap-pp|Generate resource capacity]]

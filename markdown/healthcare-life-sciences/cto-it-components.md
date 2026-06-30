@@ -18,7 +18,7 @@ Several types of components such as tables, user roles, and business rules are i
 
 ## Tables installed with Care Team Operations for Healthcare IT
 
-**Tables installed with [[hcls-cto-it-app|Care Team Operations for Healthcare IT]]**
+**Tables installed with Care Team Operations for Healthcare IT**
 
 <table id="table_rqh_dgm_c2c"><tbody><tr><td>
 
@@ -114,7 +114,7 @@ Monitors the tasks within their organizations.
 
 </td></tr><tr><td>
 
-[[care-team-portal-landing|Care Team Portal]]
+Care Team Portal
 
  \(com.sn\_cto\_sp​\)
 
@@ -124,7 +124,7 @@ Provides a portal experience for Care Team Operations for Healthcare IT users to
 
 </td></tr><tr><td>
 
-[[hcls-cto-app|Healthcare Operations Core]]
+Healthcare Operations Core
 
  \[com.sn\_hco\]
 
@@ -134,9 +134,3 @@ Healthcare Operations Core provides clinicians an uniform interface to report an
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[hcls-cto-it-app|Care Team Operations for Healthcare IT]]
-- [[care-team-portal-landing|Care Team Portal]]
-- [[hcls-cto-app|Healthcare Operations Core]]

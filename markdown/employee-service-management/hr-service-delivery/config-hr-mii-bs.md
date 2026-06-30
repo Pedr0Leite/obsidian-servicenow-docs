@@ -14,7 +14,7 @@ breadcrumb: [HR Multi Instance Integration, HR Service Delivery, Employee Servic
 
 # Configuring HR Multi Instance Integration
 
-Plan and configure your implementation of [[multi-instance-int|HR Multi Instance Integration]].
+Plan and configure your implementation of HR Multi Instance Integration.
 
 ## Configuration overview
 
@@ -27,6 +27,4 @@ Plan and configure your implementation of [[multi-instance-int|HR Multi Instance
 
     If you are a consumer, plan and implement the configuration of HR Multi Instance Integration for Consumer.
 
-## Related
 
-- [[multi-instance-int|HR Multi Instance Integration]]

@@ -40,7 +40,7 @@ Description
 
 </td><td>
 
-Click **Create incident**.**Note:** If you [[create-an-incident|create an incident]] from an interaction, it will be auto-assigned to the user to whom the interaction is assigned.
+Click **Create incident**.**Note:** If you create an incident from an interaction, it will be auto-assigned to the user to whom the interaction is assigned.
 
 </td></tr><tr><td id="d367584e84">
 
@@ -48,7 +48,7 @@ Click **Create incident**.**Note:** If you [[create-an-incident|create an incide
 
 </td><td>
 
-From the **Create incident** drop-down, select **Create change**.**Note:** You can only [[t_CreateAChange|create a change request]] of the pre-approved change type.
+From the **Create incident** drop-down, select **Create change**.**Note:** You can only create a change request of the pre-approved change type.
 
 </td></tr><tr><td id="d367584e102">
 
@@ -92,7 +92,7 @@ The related records of a requester are displayed as intended for Service Operati
 
 If the type is Walk-up, you can view the walk-up summary of the interaction record.
 
-You can now view the device health of the user's assets to provide a resolution to the user. Select **Assigned assets** &gt; **View device health**. This option is available only if the DEX plugin\[sn\_dex\] is installed and DEX monitoring is enabled for the asset. For more information on [[dex-landing|Digital End-User Experience]], refer [Digital End-User Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-landing.md).
+You can now view the device health of the user's assets to provide a resolution to the user. Select **Assigned assets** &gt; **View device health**. This option is available only if the DEX plugin\[sn\_dex\] is installed and DEX monitoring is enabled for the asset. For more information on Digital End-User Experience, refer [Digital End-User Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-landing.md).
 
 </td></tr><tr><td id="d367584e272">
 
@@ -143,8 +143,3 @@ From the contextual side panel, click the templates icon \(\[Omitted image "temp
 
 [Associate an interaction with a task record]()
 
-## Related
-
-- [[create-an-incident|Create an incident]]
-- [[t_CreateAChange|Create a change request]]
-- [[dex-landing|Digital End-User Experience]]

@@ -14,7 +14,7 @@ breadcrumb: [Data model tables, Reference, Healthcare and Life Sciences Service 
 
 # Dosage variable table
 
-The Dosage variable \[sn\_hcls\_dosage\_variable\] table stores the variables configured for a dosage specification displayed on the [[hcls-med-prescription-form|Medication Prescription form]] of a [[hcls-service-mgmt-overview|Healthcare and Life Sciences Service Management]] application.
+The Dosage variable \[sn\_hcls\_dosage\_variable\] table stores the variables configured for a dosage specification displayed on the Medication Prescription form of a Healthcare and Life Sciences Service Management application.
 
 ## Key features
 
@@ -28,7 +28,3 @@ For more information, see [Healthcare and Life Sciences data model]().
 
 **Parent Topic:**[Healthcare and Life Sciences data model tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-healthcare-data-tables.md)
 
-## Related
-
-- [[hcls-med-prescription-form|Medication Prescription form]]
-- [[hcls-service-mgmt-overview|Healthcare and Life Sciences Service Management]]

@@ -14,13 +14,13 @@ breadcrumb: [Assistant Designer utilities, Assistant Designer interface referenc
 
 # Multi File Upload utility
 
-Use the Multi File Upload utility to upload more than one file at a time in a [[virtual-agent-landing-page|Virtual Agent]] conversation.
+Use the Multi File Upload utility to upload more than one file at a time in a Virtual Agent conversation.
 
 ## Multi File Upload utility properties
 
 Specify the flow action properties for the node that you want to create.
 
-**Note:** The Multi File Upload utility is supported in Microsoft Teams, Slack, and [[virtual-agent-api-landing-page|Virtual Agent API]] only.
+**Note:** The Multi File Upload utility is supported in Microsoft Teams, Slack, and Virtual Agent API only.
 
 Uploaded files are stored in the Attachments \[sys\_attachment\] table.
 
@@ -135,7 +135,3 @@ No-code condition statement or low-code script that specifies a condition for pr
 
 **Parent Topic:**[Assistant Designer utilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-utilities.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[virtual-agent-api-landing-page|Virtual Agent API]]

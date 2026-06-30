@@ -20,7 +20,7 @@ To collect these scores, select the unit on the indicator as **Use reference cur
 
 **Warning:** If the reference currency for a field changes after you have set up the indicator, scores are no longer collected properly.
 
-Sometimes you need to provide your users with monetary KPIs converted to a standard currency. Consider a global project manager or CFO who deals with project costs in many different original currencies. They need to see all these costs converted to the global company currency so they can make decisions based on global trends. To provide such users with the KPIs they need, you can configure [[c_Indicators|Performance Analytics indicators]] to collect scores denominated in a reference currency.
+Sometimes you need to provide your users with monetary KPIs converted to a standard currency. Consider a global project manager or CFO who deals with project costs in many different original currencies. They need to see all these costs converted to the global company currency so they can make decisions based on global trends. To provide such users with the KPIs they need, you can configure Performance Analytics indicators to collect scores denominated in a reference currency.
 
 To collect indicator scores in a reference currency, create an indicator with the following characteristics:
 
@@ -36,7 +36,7 @@ For the full procedure of creating such an indicator, see [Create an automated i
 -   A currency administrator must configure FX Currency fields before you use them in indicators.
 -   The **Precision** field is not available on the indicator form when **Use reference currency** is selected. Instead, the precision is inherited from the FX Currency configuration.
 
-After the scores have been collected, you can explore them more deeply in the [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]] or share them through a widget. The reference currency precision and symbol are used in all visual elements: the score value, change value, target, threshold, and tooltips.
+After the scores have been collected, you can explore them more deeply in the Analytics Hub or share them through a widget. The reference currency precision and symbol are used in all visual elements: the score value, change value, target, threshold, and tooltips.
 
 ## System Reference Currency reference
 
@@ -55,7 +55,3 @@ For an FX Currency field, the indicator scores are based on this hierarchy of co
 
 For more information about configuring FX Currency fields, see Setting up and operating FX Currency fields.
 
-## Related
-
-- [[c_Indicators|Performance Analytics indicators]]
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]

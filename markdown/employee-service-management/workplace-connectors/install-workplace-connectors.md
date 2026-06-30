@@ -14,7 +14,7 @@ breadcrumb: [Configure, Workplace Connectors, Workplace Service Delivery, Employ
 
 # Install Workplace Connectors
 
-Install the [[workplace-connectors-landing-page|Workplace Connectors]] application from the ServiceNow Store.
+Install the Workplace Connectors application from the ServiceNow Store.
 
 ## Before you begin
 
@@ -23,8 +23,8 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 Ensure you have the following plugins:
 
 -   Workplace Connectors
--   [[workplace-central-feat|Workplace Central]]
--   [[workplace-safety-mgmt-hr|Workplace Core]]
+-   Workplace Central
+-   Workplace Core
 
 Complete the following setup instructions:
 
@@ -52,7 +52,7 @@ Role required: admin
 
 4.  In the Application installation dialog box, review the application dependencies.
 
-    A list of dependent plugins and applications are displayed. If there are any plugins or applications that must be installed, you must install them before you can [[install-workplace-space-mgmt|install Workplace Space Management]].
+    A list of dependent plugins and applications are displayed. If there are any plugins or applications that must be installed, you must install them before you can install Workplace Space Management.
 
 5.  If demo data is available and you want to install it, select **Load demo data**.
 
@@ -69,9 +69,3 @@ Role required: admin
 
 **Next topic:**[Configure sensor data providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/providers-occupancy.md)
 
-## Related
-
-- [[workplace-connectors-landing-page|Workplace Connectors]]
-- [[workplace-central-feat|Workplace Central]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[install-workplace-space-mgmt|Install Workplace Space Management]]

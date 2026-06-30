@@ -14,9 +14,9 @@ breadcrumb: [Session management, Hardening settings, Platform Security]
 
 # Limit integrations' active session life span
 
-The **glide.integrations.active.session.life\_span** property enforces max lifespan on active guest HTTP sessions irrespective of inactive timeout. The configured value is in minutes. A value of zero will disable timing out the [[sc-active-sessions|active sessions]].
+The **glide.integrations.active.session.life\_span** property enforces max lifespan on active guest HTTP sessions irrespective of inactive timeout. The configured value is in minutes. A value of zero will disable timing out the active sessions.
 
-This [[sc-configuration|configuration]] enforces the max lifespan on active guest HTTP sessions irrespective of inactive timeout. The configured value is in minutes and the value of zero will disable timing out the active sessions. This particular property is limited to integrations that have low-privilege access to an instance.
+This configuration enforces the max lifespan on active guest HTTP sessions irrespective of inactive timeout. The configured value is in minutes and the value of zero will disable timing out the active sessions. This particular property is limited to integrations that have low-privilege access to an instance.
 
 Set the **glide.integrations.active.session.life\_span** system property to a value greater than `0` and less than or equal to `720`.
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -115,8 +115,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Session management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-session-management.md)
 
-## Related
-
-- [[sc-active-sessions|Active Sessions]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

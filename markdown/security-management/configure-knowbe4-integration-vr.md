@@ -30,7 +30,7 @@ Role required: sn\_sec\_phish.admin and sn\_sec\_phish\_kb4.kb4\_admin
     |Field|Description|
     |-----|-----------|
     |Integration Instance|Name of the integration instance. Select the integration instance using the Lookup icon.|
-    |Base URL|URL to [[integrating-threat-intelligence-security-center|integrate]] with KnowBe4.|
+    |Base URL|URL to integrate with KnowBe4.|
     |API Key|API key acquired from KnowBe4 account.|
     |Page|Page number from where simulations should be fetched.|
     |Page Size|Number of simulations that should be included.|
@@ -55,6 +55,4 @@ Role required: sn\_sec\_phish.admin and sn\_sec\_phish\_kb4.kb4\_admin
 
 7.  Select **Execute Now** to execute and collect data from KnowBe4.
 
-## Related
 
-- [[integrating-threat-intelligence-security-center|Integrate]]

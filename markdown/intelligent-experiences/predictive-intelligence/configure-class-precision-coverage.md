@@ -27,7 +27,7 @@ The system creates a class record for each output field value that it can predic
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[predictive-intelligence-landing|Predictive Intelligence]]** &gt; **Classification** &gt; **Solutions**.
+1.  Navigate to **All** &gt; **Predictive Intelligence** &gt; **Classification** &gt; **Solutions**.
 
     The system shows the list of available solutions.
 
@@ -65,6 +65,3 @@ The system creates a class record for each output field value that it can predic
 
 Test predictions for this class to verify that the system produces acceptable results.
 
-## Related
-
-- [[predictive-intelligence-landing|Predictive Intelligence]]

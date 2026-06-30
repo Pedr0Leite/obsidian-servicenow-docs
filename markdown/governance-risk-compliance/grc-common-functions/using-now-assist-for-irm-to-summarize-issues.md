@@ -15,7 +15,7 @@ breadcrumb: [Now Assist, Common GRC features, Governance, Risk, and Compliance]
 
 # Using Now Assist for Integrated Risk Management \(IRM\) skills
 
-Use the generative AI skills that are supported by the [[now-assist-for-irm|Now Assist for Integrated Risk Management \(IRM\)]] application for quick actions with issues.
+Use the generative AI skills that are supported by the Now Assist for Integrated Risk Management \(IRM\) application for quick actions with issues.
 
 **Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 
@@ -25,6 +25,3 @@ Starting with the Australia Patch 3 release, users who have Now Assist for IRM i
 
 To modify the prompts for the skills, follow the steps that are mentioned in [KB1806035](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1806035).
 
-## Related
-
-- [[now-assist-for-irm|Now Assist for Integrated Risk Management \(IRM\)]]

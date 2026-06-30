@@ -14,7 +14,7 @@ breadcrumb: [Card Operations, Banking applications, Financial Services Operation
 
 # Financial Services Card Operations reference
 
-Learn about the components and properties that are installed with the [[card-ops-landing-page|Financial Services Card Operations]] application.
+Learn about the components and properties that are installed with the Financial Services Card Operations application.
 
 -   **[Components installed with Financial Services Card Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-card-operations/installed-with-card-operations.md)**  
 Several types of components are installed with the installation of the Financial Services Card Operations application, including tables and user roles. The application also installs related plugins and store applications if they are not already installed.
@@ -23,6 +23,3 @@ Customize the properties that are available with the Financial Services Card Ope
 
 **Parent Topic:**[Financial Services Card Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-card-operations/card-ops-landing-page.md)
 
-## Related
-
-- [[card-ops-landing-page|Financial Services Card Operations]]

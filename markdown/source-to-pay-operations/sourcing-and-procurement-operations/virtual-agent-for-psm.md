@@ -23,18 +23,13 @@ For more information on Virtual Agent in general, its components, benefits, and 
 -   **[Sourcing and Procurement Operations Virtual Agent conversations and topic blocks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shoppinghub-virtual-agent-topics-and-topic-blocks.md)**  
 A topic conversation defines the dialog between the Virtual Agent \(chat support bot\) and the user, which enables you to gather information for a specific business need.
 -   **[Install Virtual Agent for Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/install-virtual-agent-for-shoppinghub.md)**  
-[[install-virtual-agent-for-shoppinghub|Install Virtual Agent for Sourcing and Procurement Operations]] from the ServiceNow Store.
+Install Virtual Agent for Sourcing and Procurement Operations from the ServiceNow Store.
 -   **[Enable Virtual Agent for Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/enable-virtual-agent-for-shoppinghub.md)**  
-[[enable-virtual-agent-for-shoppinghub|Enable Virtual Agent for Sourcing and Procurement Operations]] to start chatting with the Virtual Agent.
+Enable Virtual Agent for Sourcing and Procurement Operations to start chatting with the Virtual Agent.
 -   **[NLU support for Sourcing and Procurement Operations Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/nlu-support-shoppinghub-va.md)**  
-You can set up [[psm-overview|Sourcing and Procurement Operations]] Virtual Agent to use Natural Language Understanding \(NLU\) to understand word meanings and word contexts to infer user intent.
+You can set up Sourcing and Procurement Operations Virtual Agent to use Natural Language Understanding \(NLU\) to understand word meanings and word contexts to infer user intent.
 -   **[Set up NLU for Sourcing and Procurement Operations Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/set-up-nlu-for-shoppinghub-va.md)**  
 Set up Natural Language Understanding \(NLU\) for Sourcing and Procurement Operations Virtual Agent before chatting with the Virtual Agent to optimize the search experience.
 
 **Parent Topic:**[Sourcing and Procurement Operations integration with Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/employee-center-integration-psm.md)
 
-## Related
-
-- [[install-virtual-agent-for-shoppinghub|Install Virtual Agent for Sourcing and Procurement Operations]]
-- [[enable-virtual-agent-for-shoppinghub|Enable Virtual Agent for Sourcing and Procurement Operations]]
-- [[psm-overview|Sourcing and Procurement Operations]]

@@ -14,9 +14,9 @@ breadcrumb: [Platform Analytics Solutions for Advanced Work Assignment, Analytic
 
 # Advanced Work Assignment dashboard for tasks
 
-Enable managers to monitor Task \[task\] [[awa-work-items|work items]] so that their agents can better support customer needs.
+Enable managers to monitor Task \[task\] work items so that their agents can better support customer needs.
 
-This dashboard is available in the Performance Analytics - Content Pack - [[awa-application-landing-page|Advanced Work Assignment]] plugin. For information on activating the content pack, see [Platform Analytics Solutions for Advanced Work Assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-content-pack.md).
+This dashboard is available in the Performance Analytics - Content Pack - Advanced Work Assignment plugin. For information on activating the content pack, see [Platform Analytics Solutions for Advanced Work Assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-content-pack.md).
 
 \[Omitted image "AWATasks-update.png"\] Alt text: The dashboard displays indicators and reports to track agent tasks with customers
 
@@ -25,7 +25,7 @@ This dashboard is available in the Performance Analytics - Content Pack - [[awa-
 |End user and goal|Required role|
 |-----------------|-------------|
 |AWA administrator: Configures Advanced Work Assignment to best fit the business needs of customer service.|awa\_admin|
-|AWA manager: Identifies the areas of concern for routing and assignment of work items across [[awa-service-channels|service channels]].|awa\_manager|
+|AWA manager: Identifies the areas of concern for routing and assignment of work items across service channels.|awa\_manager|
 |Agent manager: Manages agents or agent groups. The agent manager needs to know what agents are working on in order to make sure customer needs are being met.|sn\_customerservice\_manager|
 |Performance Analytics administrator: Ensures that business managers are making the best use of Performance Analytics solutions.|pa\_admin or pa\_viewer|
 
@@ -122,8 +122,3 @@ For more information on analyzing data with breakdowns, see [Using breakdowns on
 |-----|----|-----------|
 |Average Task Wait Time - Last Hour|Single Score\[Omitted image "single-score.svg"\] Alt text: Single score report|Average amount of time in the past hour that customers have spent waiting for an agent response.|
 
-## Related
-
-- [[awa-work-items|Work items]]
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[awa-service-channels|Service channels]]

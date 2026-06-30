@@ -14,7 +14,7 @@ breadcrumb: [Shopper to-dos on your mobile, Using Shopping Hub Mobile, Use, Sour
 
 # Confirm meeting a milestone for your service from your mobile device
 
-Provide confirmation on whether the [[supplier|supplier]] has met a milestone for a service you had ordered, from your mobile application, so that payment can be processed to the supplier for that milestone. If a milestone has not been met by the due date, you can choose to push the due date to a later date.
+Provide confirmation on whether the supplier has met a milestone for a service you had ordered, from your mobile application, so that payment can be processed to the supplier for that milestone. If a milestone has not been met by the due date, you can choose to push the due date to a later date.
 
 ## Before you begin
 
@@ -76,6 +76,3 @@ Tap on the Actions icon, and select **Cancel milestone** to cancel the milestone
 
 **Parent Topic:**[Shopper to-dos on your mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shopper-todos-mobile.md)
 
-## Related
-
-- [[supplier|Supplier]]

@@ -14,7 +14,7 @@ breadcrumb: [Policy as Code Engine \(PaCE\), Extend ServiceNow AI Platform capab
 
 # Administer PaCE policies
 
-Use PaCE to manage the life cycle of a policy and create, update, review, and [[pace-execute-policies|execute policies]].
+Use PaCE to manage the life cycle of a policy and create, update, review, and execute policies.
 
 In addition, you can:
 
@@ -22,12 +22,8 @@ In addition, you can:
 -   Create a policy, modify policy information, copy a policy and its version to a new policy.
 -   Create a new policy version by copying an existing policy version and modifying it.
 -   View and define mapping information for any policy.
--   [[pace-review-executed-policies|Review executed policy activity]] and execution history for policies and policy versions.
+-   Review executed policy activity and execution history for policies and policy versions.
 -   Use tags and categories to manage your policies more efficiently.
 
 **Note:** You can create any number of policies, which can be updated, activated, or deactivated as required.
 
-## Related
-
-- [[pace-execute-policies|Execute policies]]
-- [[pace-review-executed-policies|Review executed policy activity]]

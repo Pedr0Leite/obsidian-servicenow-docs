@@ -13,7 +13,7 @@ breadcrumb: [Government Service Portal, Portals, Use, Public Sector Digital Serv
 
 # Register for the Government Service Portal as a constituent, business contact, or user
 
-Register for the Public Sector Digital Services [[gsp-overview-public-sector|Government Service Portal]] so that you can search for information, request assistance from a government service agent, apply for a grant, license, or permit, or track the status of your request.
+Register for the Public Sector Digital Services Government Service Portal so that you can search for information, request assistance from a government service agent, apply for a grant, license, or permit, or track the status of your request.
 
 ## Before you begin
 
@@ -48,6 +48,3 @@ Role required: none
 
 Your registration is complete. You can now log in to the Government Service Portal.
 
-## Related
-
-- [[gsp-overview-public-sector|Government Service Portal]]

@@ -12,7 +12,7 @@ breadcrumb: [Customer Life Cycle Management Workflows, Product data, Set up your
 
 # Disconnecting sold products
 
-Disconnect [[sold-product|sold products]] to create a disconnect order on the [[csm-workspaces-configure|CSM Configurable Workspace]].
+Disconnect sold products to create a disconnect order on the CSM Configurable Workspace.
 
 Disconnect single or multiple root sold products at the same time, to improve agent efficiency.
 
@@ -91,7 +91,3 @@ Role required: sn\_ind\_tmt\_orm.order\_admin or sn\_ind\_tmt\_orm.order\_agent
 
 An order for disconnecting the sold products is created, while order line items are created in an aysnchronized manner.
 
-## Related
-
-- [[sold-product|Sold products]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

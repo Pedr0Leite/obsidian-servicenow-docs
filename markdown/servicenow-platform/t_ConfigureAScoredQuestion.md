@@ -20,25 +20,25 @@ Role required: assessment\_admin or admin
 
 ## About this task
 
-A question must have a correct answer specified to be scored. Only results for scored questions are displayed in the [[c_QuizScorecards|quiz scorecard]].
+A question must have a correct answer specified to be scored. Only results for scored questions are displayed in the [quiz scorecard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_QuizScorecards.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_Quizzes|Quizzes]]** &gt; **Quizzes**.
+1.  Navigate to **All** &gt; **Quizzes** &gt; **Quizzes**.
 
 2.  Open the quiz containing the questions you want to mark as scored.
 
 3.  In the **Metric Categories** related list on the **Assessment Metric Type** form, select the category for the questions you want to mark as scored.
 
-4.  In the **[[c_AssessmentMetrics|Assessment Metrics]]** related list on the **Metric Category** form, select a question from the list.
+4.  In the **Assessment Metrics** related list on the **Metric Category** form, select a question from the list.
 
-5.  In the **Question Type** section of the **Assessment Metric** form, select the **Scored** [[check-box|check box]].
+5.  In the **Question Type** section of the **Assessment Metric** form, select the **Scored** check box.
 
     This check box is not available if the question's data type is not supported for scoring.
 
 6.  Select the **Correct answer** for the question.
 
-    **Note:** Multiple correct answers are supported for a few data types. See [[r_AvailableDataTypes|Data types for quizzes]].
+    **Note:** Multiple correct answers are supported for a few data types. See [Data types for quizzes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_AvailableDataTypes.md).
 
 7.  Click **Update**.
 
@@ -47,16 +47,7 @@ A question must have a correct answer specified to be scored. Only results for s
 9.  Return to the list of metric categories, select another category, and configure scoring for the appropriate questions in that category.
 
 
-**Parent Topic:**[[t_CreateaQuiz|Create a quiz]]
+**Parent Topic:**[Create a quiz](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateaQuiz.md)
 
-**Parent Topic:**[[t_EditaQuiz|Edit a quiz]]
+**Parent Topic:**[Edit a quiz](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_EditaQuiz.md)
 
-## Related
-
-- [[c_QuizScorecards|Quiz scorecards]]
-- [[r_AvailableDataTypes|Data types for quizzes]]
-- [[t_CreateaQuiz|Create a quiz]]
-- [[t_EditaQuiz|Edit a quiz]]
-- [[c_Quizzes|Quizzes]]
-- [[c_AssessmentMetrics|Assessment metrics]]
-- [[check-box|Check box]]

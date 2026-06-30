@@ -35,7 +35,7 @@ There are a few actions for which you must save your changes immediately to the 
 In addition, if you enable custom business rules on any of the columns, those columns are also part of exceptions.
 
 -   **[Enable client side planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/enable-client-side-planning.md)**  
-[[enable-client-side-planning|Enable client side planning]] in planning console to enable project scheduling at the client side.
+Enable client side planning in planning console to enable project scheduling at the client side.
 
 **Parent Topic:**[Using Planning console - Legacy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_TheProjectPlanningConsole.md)
 
@@ -58,6 +58,3 @@ In addition, if you enable custom business rules on any of the columns, those co
 
 [Using Planning console - Legacy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_TheProjectPlanningConsole.md)
 
-## Related
-
-- [[enable-client-side-planning|Enable client side planning]]

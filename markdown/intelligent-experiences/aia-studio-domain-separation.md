@@ -17,17 +17,17 @@ Domain separation is supported for Now AssistAI Agent Studio. Domain separation 
 
 ## Domain Separation Overview
 
-[[na-ai-agents|Now Assist AI agents]] use basic domain separation capabilities to help protect your users' data. Domain separation support for AI agents is applied at design time and run time.
+Now Assist AI agents use basic domain separation capabilities to help protect your users' data. Domain separation support for AI agents is applied at design time and run time.
 
 -   **Design-time support**
 
-    Refers to creating or updating agentic workflows, agents, tools, trigger [[exploring-ai-governance|configurations]], and so on. AI agent configurations can be made domain-specific for individual agents and the actual agentic workflows. Administrators can apply specific domains to those records. Similar to other basic domain separations, records in the AI agents tables are accessible if the user belongs to the same or a higher domain than those records.
+    Refers to creating or updating agentic workflows, agents, tools, trigger configurations, and so on. AI agent configurations can be made domain-specific for individual agents and the actual agentic workflows. Administrators can apply specific domains to those records. Similar to other basic domain separations, records in the AI agents tables are accessible if the user belongs to the same or a higher domain than those records.
 
 -   **Run-time support**
 
-    Refers to the agentic conversation on the [[now-assist-center-now-assist-panel|Now Assist panel]], web client, or any conversational channel. In the agentic conversations, the user that the agent impersonates functions as an agent with any AI agents who initiate the conversation on demand. For example, if the conversation is happening via a trigger mentioned on the **Run as** field on the Trigger form of an agentic workflow. If the user that the agent impersonates belongs to the same or a higher domain, that agent can access and use configurations that are associated with that domain.
+    Refers to the agentic conversation on the Now Assist panel, web client, or any conversational channel. In the agentic conversations, the user that the agent impersonates functions as an agent with any AI agents who initiate the conversation on demand. For example, if the conversation is happening via a trigger mentioned on the **Run as** field on the Trigger form of an agentic workflow. If the user that the agent impersonates belongs to the same or a higher domain, that agent can access and use configurations that are associated with that domain.
 
-    The domain visibility for an agentic workflow is resolved during run time based on the **Run as** attribute in the agentic workflow trigger condition. For more information, see [[configure-use-case-ai-agents|defining a trigger for an agentic workflow]].
+    The domain visibility for an agentic workflow is resolved during run time based on the **Run as** attribute in the agentic workflow trigger condition. For more information, see [defining a trigger for an agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-use-case-ai-agents.md).
 
 
 When an agentic conversation is triggered on demand, the domain visibility is applied to the particular agent in action. When an agentic conversation is initiated through a trigger, the domain visibility is applied to the user who resolves the caller \(in an incident record where the **Run as** attribute is set to **Caller**\), when the conversation runs against the incident record.
@@ -60,9 +60,3 @@ Domain separation in Now Assist AI agents supports:
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[configure-use-case-ai-agents|Create an agentic workflow]]
-- [[na-ai-agents|Now Assist AI agents]]
-- [[exploring-ai-governance|Configurations]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]

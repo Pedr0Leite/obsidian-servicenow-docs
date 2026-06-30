@@ -14,10 +14,7 @@ breadcrumb: [Configure an ACL rule, Access Control List Rules, Access Management
 
 # Allow ACL
 
-Learn about Allow ACLs \([[sc-access-control|access control]] lists\).
+Learn about Allow ACLs \(access control lists\).
 
 Allow ACLs are designed to grant access to resources by default unless a specific rule denies it. This is the opposite of a "Deny-Unless" model.
 
-## Related
-
-- [[sc-access-control|Access control]]

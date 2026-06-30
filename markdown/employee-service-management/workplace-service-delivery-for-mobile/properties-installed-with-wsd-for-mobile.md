@@ -14,7 +14,7 @@ breadcrumb: [Reference, Workplace Service Delivery for Mobile, Workplace Service
 
 # Properties installed with Workplace Service Delivery for Mobile
 
-Several properties are available with [[wsd-mobile-overview|Workplace Service Delivery for Mobile]].
+Several properties are available with Workplace Service Delivery for Mobile.
 
 <table id="table_dqg_vzt_prb"><thead><tr><th>
 
@@ -50,6 +50,3 @@ This property shows the **Toggle map view** option while making a reservation fr
 
 **Next topic:**[Indoor Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/Indoor-mapping.md)
 
-## Related
-
-- [[wsd-mobile-overview|Workplace Service Delivery for Mobile]]

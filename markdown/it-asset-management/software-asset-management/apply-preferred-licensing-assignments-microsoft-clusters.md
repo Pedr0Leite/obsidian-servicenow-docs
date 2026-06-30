@@ -62,7 +62,7 @@ Product version
 
 </td><td>
 
-Version of the Microsoft software product that you want to specify the licensing layer for.**Note:** If you don’t specify a product version, the [[c_SoftwareAssetMgmt|Software Asset Management]] application automatically selects the most cost effective version for the licensing assignment.
+Version of the Microsoft software product that you want to specify the licensing layer for.**Note:** If you don’t specify a product version, the Software Asset Management application automatically selects the most cost effective version for the licensing assignment.
 
 </td></tr><tr><td>
 
@@ -114,6 +114,3 @@ The preferred licensing assignment is applied to the Microsoft software product.
 
 **Parent Topic:**[Software Asset Management publisher pack for Microsoft](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/microsoft-publisher-pack.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

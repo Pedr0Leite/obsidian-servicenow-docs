@@ -14,7 +14,7 @@ breadcrumb: [Safety inspections and audits, Use, Health and Safety Risk Manageme
 
 # Complete a safety inspection or auditsurvey through Employee Center
 
-Complete a safety inspection or audit survey assigned to you through the [[employee-center-landing-page|Employee Center]].
+Complete a safety inspection or audit survey assigned to you through the Employee Center.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Role required: none
 -   You can also take an inspection or audit survey on the mobile app using the **My Assessments and Surveys** applet launcher. For more information, see [Surveys in the mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyServicePortal.md).
 -   For information on how an admin configures which survey field type should display the **Create action** check box, see [Configure the create action check box for safety inspection survey in the Mobile Agent app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-configure-create-action-checkbox-mobile-survey.md)
 -   You can complete an inspection or audit survey offline as well through the Mobile Agent app. Surveys completed offline are synchronized once an internet connection is established. For more information, see [Complete a safety inspection or audit survey in the offline mode](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/complete-safety-inspection-survey-offline-mode.md).
--   An inspection or audit manager can also complete a survey from the [[health-safety-core-workspace|Health and Safety Workspace]] by selecting **Open inspection survey** in the inspection record or **Open audit survey** in the audit record.
+-   An inspection or audit manager can also complete a survey from the Health and Safety Workspace by selecting **Open inspection survey** in the inspection record or **Open audit survey** in the audit record.
 
 ## Procedure
 
@@ -53,7 +53,3 @@ Role required: none
 
 **Parent Topic:**[Safety inspections and audits](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-safety-inspections.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]

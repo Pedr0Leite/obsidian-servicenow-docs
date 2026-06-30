@@ -12,7 +12,7 @@ breadcrumb: [Enriching orders, Order Management, Use, Sales Customer Relationshi
 
 # Capture order enrichment details for complex fulfillment
 
-Collect additional order details and technical information necessary for [[order-mgt-order-decomposition|order decomposition]] and fulfillment, promoting accurate delivery and helping prevent delays or fallouts for complex products or services.
+Collect additional order details and technical information necessary for order decomposition and fulfillment, promoting accurate delivery and helping prevent delays or fallouts for complex products or services.
 
 ## Before you begin
 
@@ -100,18 +100,12 @@ The order record is updated with all necessary fulfillment details. The order st
 
 ## What to do next
 
-[[som-om-approve-product-order|Approve orders in Order Management]]
+[Approve orders in Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-om-approve-product-order.md)
 
 **Related topics**  
 
 
-[[order-mgt-configuring|Configuring Order Management]]
+[Configuring Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-configuring.md)
 
-[[explore-order-management|Order management]]
+[Order management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-order-management.md)
 
-## Related
-
-- [[som-om-approve-product-order|Approve orders in Order Management]]
-- [[order-mgt-configuring|Configuring Order Management]]
-- [[explore-order-management|Order management]]
-- [[order-mgt-order-decomposition|Order decomposition]]

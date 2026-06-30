@@ -69,12 +69,12 @@ This data broker prefetches data only on direct page loads. It does not apply on
 8.  Save the page and open it in runtime.
 
 
-**Parent Topic:**[[adding-analytics-center-to-ws|Creating Platform Analytics pages in your own workspace]]
+**Parent Topic:**[Creating Platform Analytics pages in your own workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/adding-analytics-center-to-ws.md)
 
 **Related topics**  
 
 
-[Create a [[c_performanceAnalyticsAndReporting|Platform Analytics]] workspace from App Engine Studio]()
+[Create a Platform Analytics workspace from App Engine Studio]()
 
 [Add Platform Analytics pages to a configurable workspace]()
 
@@ -86,7 +86,3 @@ This data broker prefetches data only on direct page loads. It does not apply on
 
 [Pass global filters to the dashboard page template]()
 
-## Related
-
-- [[adding-analytics-center-to-ws|Creating Platform Analytics pages in your own workspace]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

@@ -14,7 +14,7 @@ breadcrumb: [Manage map objects and data, Indoor Mapping, Workplace Service Deli
 
 # Synchronize Indoor Mapping with Workplace Service Delivery
 
-Synchronize [[Indoor-mapping|Indoor Mapping]] locations and map data objects with [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] campus, buildings, floors, and spaces.
+Synchronize Indoor Mapping locations and map data objects with Workplace Service Delivery campus, buildings, floors, and spaces.
 
 ## Before you begin
 
@@ -104,8 +104,8 @@ Option to select a Workplace Service Delivery campus.
     -   If a new building is detected, **Create** operation is proposed in the Building related list Operation column. Indicates that a corresponding Indoor Mapping map record doesn’t exist in Workplace Service Delivery, and a new record should be created. The location name used in Workplace Service Delivery should be similar to the location name in Indoor Mapping
     -   **Link**: Indicates that a matching record from Indoor Mapping is found in Workplace Service Delivery based on the location name. The Indoor Mapping record is linked to an existing object in Workplace Service Delivery \(WSD\). After linking, the Workplace Service Delivery location name is shown in Indoor Mapping.
     -   **Ignore**: Indicates that the Indoor Mapping record is ignored and won’t be available in Workplace Service Delivery.
-    -   **Keep**: Indicates that the Indoor Mapping record is already linked to a Workplace Service Delivery record. This record can’t be changed in the synchronization process. If you want to unlink a record, select a location record in [[workplace-safety-mgmt-hr|Workplace Core]] and select **Unlink**. After unlinking, the location record doesn't show the **Keep** operation.
-    -   **Cleaning**: Two synchronization operations are available when performing the cleaning [[activity-lxp|activity]] on a location record:
+    -   **Keep**: Indicates that the Indoor Mapping record is already linked to a Workplace Service Delivery record. This record can’t be changed in the synchronization process. If you want to unlink a record, select a location record in Workplace Core and select **Unlink**. After unlinking, the location record doesn't show the **Keep** operation.
+    -   **Cleaning**: Two synchronization operations are available when performing the cleaning activity on a location record:
         -   **Retire**: Option to set the status of Workplace Service Delivery location to **Retire**.
 
             **Note:** This action removes all references to Indoor Mapping and is deactivated in the Workplace Core location table. The object is not available for subsequent synchronizations.
@@ -240,9 +240,3 @@ Option to select a Workplace Service Delivery campus.
 
 **Next topic:**[Synchronize Indoor Mapping with CMN Locations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/sync-cmn-location.md)
 
-## Related
-
-- [[Indoor-mapping|Indoor Mapping]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[activity-lxp|Activity]]

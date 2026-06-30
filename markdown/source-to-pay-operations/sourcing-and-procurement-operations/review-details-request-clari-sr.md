@@ -14,7 +14,7 @@ breadcrumb: [Sourcing intake guided experience playbooks, Working with playbooks
 
 # Review details and request clarification on a sourcing request in playbook
 
-Get complete clarity on a [[sourcing-request|sourcing request]] by reviewing the intake details, [[purchase-lines|purchase lines]], and approvals, and requesting clarification on the request, if necessary. You can perform these actions from the Request details section of the sourcing intake playbook.
+Get complete clarity on a sourcing request by reviewing the intake details, purchase lines, and approvals, and requesting clarification on the request, if necessary. You can perform these actions from the Request details section of the sourcing intake playbook.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: Sourcing manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[psd-overview|Procurement Case Management]]** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Procurement Case Management** &gt; **Source-to-Pay Workspace**.
 
 2.  Select the List icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon.\) and select **All work** &gt; **Sourcing Requests**.
 
@@ -65,9 +65,3 @@ Decide if you want to negotiate with suppliers right away, or skip this step and
 
 **Parent Topic:**[Sourcing intake guided experience with playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/sourcing-intake-guided-exp.md)
 
-## Related
-
-- [[sourcing-request|Sourcing request]]
-- [[purchase-lines|Purchase lines]]
-- [[psd-overview|Procurement Case Management]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

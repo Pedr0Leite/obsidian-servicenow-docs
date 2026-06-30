@@ -23,7 +23,7 @@ As an IT support agent, use the Incident assist agentic workflow to ask question
 
 The Incident assist agentic workflow is available by default.
 
-**Note:** To modify the Incident assist agentic workflow, duplicate it and adjust the [[settings-mobile|settings]] to meet your requirements.
+**Note:** To modify the Incident assist agentic workflow, duplicate it and adjust the settings to meet your requirements.
 
 ## Incident assist agentic workflow overview
 
@@ -116,6 +116,3 @@ See examples of the screens for different use cases for this workflow in the Now
 
 **Example of getting similar resolved incidents using the Incident assist agentic workflow in the Now Assist panel**\[Omitted image "now-assist-itsm-incident-assist-similar-incidents.png"\] Alt text: Example of getting similar resolved incidents using the Incident assist agentic workflow in the Now Assist panel
 
-## Related
-
-- [[settings-mobile|Settings]]

@@ -14,7 +14,7 @@ breadcrumb: [Get started, Configure, Advanced Work Assignment, Manage people and
 
 # Activate related plugins for Advanced Work Assignment
 
-After activating the [[awa-application-landing-page|Advanced Work Assignment]] plugin, activate related AWA plugins to enable other base system [[awa-service-channels|service channels]] and the Performance Analytics Solutions dashboard for AWA.
+After activating the Advanced Work Assignment plugin, activate related AWA plugins to enable other base system service channels and the Performance Analytics Solutions dashboard for AWA.
 
 You must have the admin role to activate these additional plugins for AWA.
 
@@ -69,7 +69,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[ci-use-agent-chat|Agent Chat]]\[com.glide.interaction.awa\]
+Agent Chat\[com.glide.interaction.awa\]
 
 </td><td>
 
@@ -93,9 +93,3 @@ Activates the Performance Analytics Content Pack for AWA. Provides base system K
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[awa-service-channels|Service channels]]
-- [[ci-use-agent-chat|Agent Chat]]

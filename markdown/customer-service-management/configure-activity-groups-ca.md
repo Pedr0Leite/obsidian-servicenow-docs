@@ -30,7 +30,7 @@ Learn more about configuring activity groups from the following video tutorial.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[customer-central|Customer Central]]** &gt; **Customer History** &gt; **Guided Setup**.
+1.  Navigate to **All** &gt; **Customer Central** &gt; **Customer History** &gt; **Guided Setup**.
 
 2.  Select **Get Started** under Activity Feed.
 
@@ -78,6 +78,4 @@ Select the table that stores the object on which the activities in this group ar
 
 9.  Select **Submit**.
 
-## Related
 
-- [[customer-central|Customer Central]]

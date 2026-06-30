@@ -14,7 +14,7 @@ breadcrumb: [ACC-F reference, Agent Client Collector reference, Agent Client Col
 
 # Agent Client Collector policy collection properties
 
-Description of the properties that determine the behavior of [[acc-landing-page|Agent Client Collector]] policy collection.
+Description of the properties that determine the behavior of Agent Client Collector policy collection.
 
 <table id="table_uyk_vcl_xyb"><thead><tr><th>
 
@@ -79,6 +79,3 @@ When set to **true**, repopulates the monitored CIs for given policies to show t
 </td></tr></tbody>
 </table>**Parent Topic:**[Agent Client Collector Framework reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-client-collector-reference.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

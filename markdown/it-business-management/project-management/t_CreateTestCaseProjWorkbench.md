@@ -14,7 +14,7 @@ breadcrumb: [Managing Project workbench, Using Project workbench - Legacy, Using
 
 # Create a test case in the project workbench
 
-Specifying a test plan is optional when creating a test phase. However, before you add [[c_TestCases|test cases]] to a test phase, you must specify a test plan.
+Specifying a test plan is optional when creating a test phase. However, before you add test cases to a test phase, you must specify a test plan.
 
 ## Before you begin
 
@@ -46,6 +46,3 @@ Role required: it\_project\_manager
 
 [Managing Project workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_UsingProjectWorkbench.md)
 
-## Related
-
-- [[c_TestCases|Test cases]]

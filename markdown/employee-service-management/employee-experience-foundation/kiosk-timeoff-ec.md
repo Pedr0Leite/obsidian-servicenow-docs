@@ -14,7 +14,7 @@ breadcrumb: [Configure Employee Center Pro Kiosk, Employee Center Pro Kiosk, Emp
 
 # Time off balances in Employee Center Pro Kiosk
 
-The time off balances details in the [[deskless-kiosk-overview|Employee Center Pro Kiosk]] is the source of truth for the time off or leave details of the deskless workers.
+The time off balances details in the Employee Center Pro Kiosk is the source of truth for the time off or leave details of the deskless workers.
 
 Track and manage your time off balances with a simplified home page optimized for the kiosks.
 
@@ -38,12 +38,7 @@ The display title of the **Time off** tab is customizable. For more information,
 For more information on customizing the data display in Kiosks, see [Customize data display in Kiosks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/create-implementation-kiosk.md).
 
 -   **[Customize the time off widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/widget-mapping-time.md)**  
-[[widget-mapping-time|Customize the time off widget]] on the [[emp-slate-employee-profile|Employee Profile]] to display it to your preference.
+Customize the time off widget on the Employee Profile to display it to your preference.
 
 **Parent Topic:**[Configure Employee Center Pro Kiosk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/deskless-kiosk-config.md)
 
-## Related
-
-- [[deskless-kiosk-overview|Employee Center Pro Kiosk]]
-- [[widget-mapping-time|Customize the time off widget]]
-- [[emp-slate-employee-profile|Employee profile]]

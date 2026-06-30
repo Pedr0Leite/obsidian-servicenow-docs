@@ -15,12 +15,12 @@ breadcrumb: [Contract Management Pro, Legal and Contract Operations, Employee Se
 
 # Contract Management Pro reference
 
-[[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] topics provide additional information about [[cncore-cmpro-landing-page|Contract Management Pro]].
+Reference topics provide additional information about Contract Management Pro.
 
 -   **[Components installed with Contract Management Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-comp-ccore.md)**  
-Several types of components are installed with activation of the Contracts Core application that includes the components for [[cncore-expl-wdt|Word Document Templates]], including tables and user roles.
+Several types of components are installed with activation of the Contracts Core application that includes the components for Word Document Templates, including tables and user roles.
 -   **[Components installed with Contract Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-comp-contract-workspace.md)**  
-User roles are installed with activation of the [[cncore-contract-workspace|Contract Workspace]] plugin.
+User roles are installed with activation of the Contract Workspace plugin.
 -   **[Components installed with Analytics Pack for Contract Management Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-comp-analytics-pack-cmpro.md)**  
 Several types of components are installed with activation of the Analytics Pack for Contract Management Pro plugin, including user roles and scheduled jobs.
 -   **[Contract request State and Contract document status in Contract Management Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-cr-state-status.md)**  
@@ -36,29 +36,17 @@ There are several properties that you can use to configure integrations for Cont
 -   **[Expiring Contracts Condition form fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-email-notif-expcont-form.md)**  
 The Expiring Contracts Condition form is used to create a rule or update an existing rule.
 -   **[Action assignment form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-actn-assignment-form.md)**  
-Learn about the fields of the [[cmpro-actn-assignment-form|Action Assignment form]]. Use this form to add the New action button to your workspace.
+Learn about the fields of the Action Assignment form. Use this form to add the New action button to your workspace.
 -   **[UFX Add on Event mapping form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-ufx-event-map-form.md)**  
-The [[cmpro-ufx-event-map-form|UFX Add on Event mapping form]] to configure the display of declarative action in your application.
+The UFX Add on Event mapping form to configure the display of declarative action in your application.
 -   **[Obligation form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-obligation-form.md)**  
-The [[cncore-obligation-form|obligation form]] provides the details to create or modify an obligation record in [[cncore-obligation-management|Obligation Management]].
+The obligation form provides the details to create or modify an obligation record in Obligation Management.
 -   **[Obligation Management notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-ob-mgmt-notification.md)**  
 Obligation Management uses email notifications to notify obligation fulfiller and obligation users when an obligation task is created, assigned, submitted, approved, or rejected.
 -   **[Contract Management Pro glossary](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/contract-management-pro-glossary.md)**  
 Learn about the terms and concepts used in Contract Management Pro.
 -   **[Contract Management solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-cml-feature-compare.md)**  
-Explore the differences between the different [[cmpro-cml-feature-compare|contract management solutions]] offered in ServiceNow - ITAM Contract Management, \(Deprecated\) [[legal-simple-contracts-landing-page|Legal Simple Contracts]], and Contract Management Pro \(CM Pro\)
+Explore the differences between the different contract management solutions offered in ServiceNow - ITAM Contract Management, \(Deprecated\) Legal Simple Contracts, and Contract Management Pro \(CM Pro\)
 
 **Parent Topic:**[Contract Management Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-cmpro-landing-page.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[cncore-cmpro-landing-page|Contract Management Pro]]
-- [[cncore-expl-wdt|Word Document Templates]]
-- [[cncore-contract-workspace|Contract Workspace]]
-- [[cmpro-actn-assignment-form|Action assignment form]]
-- [[cmpro-ufx-event-map-form|UFX Add on Event mapping form]]
-- [[cncore-obligation-form|Obligation form]]
-- [[cncore-obligation-management|Obligation Management]]
-- [[cmpro-cml-feature-compare|Contract Management solutions]]
-- [[legal-simple-contracts-landing-page|Legal Simple Contracts]]

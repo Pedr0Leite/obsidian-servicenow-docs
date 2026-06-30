@@ -14,13 +14,13 @@ breadcrumb: [Zero Touch request flow, Use, Hardware Asset Management, IT Asset M
 
 # Create a Script Include to transform Scratchpad updates from the provider
 
-To transform Scratchpad updates sent by your provider into a format required for the [[zero-touch-request|Zero Touch request flow]], you must have a Script Include with the method **transformScratchPadToHAMZTRFormat**.
+To transform Scratchpad updates sent by your provider into a format required for the Zero Touch request flow, you must have a Script Include with the method **transformScratchPadToHAMZTRFormat**.
 
 In the confirmation and shipment stages of the Zero Touch request flow, your provider should ideally send Scratchpad updates to your ServiceNow instance in a particular format. For details, see [Use the Scratchpad to complete your request fulfillment tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/using-scratchpad-for-provider-updates.md). However, if your provider's Scratchpad update isn't in the required format, you can transform it by using a Script Include with the method **transformScratchPadToHAMZTRFormat**.
 
 Consider the following points when you create the Script Include:
 
--   The Script Include is accessible from the [[am-landing-page|Asset Management]] Common application scope by adjusting the following settings on the application resource record:
+-   The Script Include is accessible from the Asset Management Common application scope by adjusting the following settings on the application resource record:
     -   Set the **Accessible from** field to **All application scopes**.
     -   Set the **Caller Access** field to **None** to make sure the caller access isn't restricted.
 -   Define the method **transformScratchPadToHAMZTRFormat** in the following format:
@@ -33,7 +33,4 @@ Consider the following points when you create the Script Include:
     }
     ```
 
-## Related
 
-- [[zero-touch-request|Zero Touch request flow]]
-- [[am-landing-page|Asset Management]]

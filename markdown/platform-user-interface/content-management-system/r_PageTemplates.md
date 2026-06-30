@@ -18,7 +18,7 @@ Every page that is part of the site needs a template.
 
 ## Critical page reference fields
 
-When you build a new site, there are four page [[onboarding-modals-reference|reference]] fields on the site record that are critical. Understanding these pages and how they are used helps you define page templates and site defaults.
+When you build a new site, there are four page reference fields on the site record that are critical. Understanding these pages and how they are used helps you define page templates and site defaults.
 
 -   Home page: landing page for the site. A home page is mandatory.
 -   Search page: page that displays search results when a user searches from any page within the site. A search page is mandatory for your site to have a Search Results block.
@@ -29,7 +29,7 @@ When you build a new site, there are four page [[onboarding-modals-reference|ref
 
 ## Detail pages
 
-Depending on the data or tables that you plan to use, you may need detail pages. These detail pages use one of the [[c_ContentTypes|content types]] in the following list.
+Depending on the data or tables that you plan to use, you may need detail pages. These detail pages use one of the content types in the following list.
 
 -   Knowledge detail page: displays a full knowledge article detail \(mandatory for a knowledge site\).
 -   Incident page: detail page for an incident record.
@@ -55,7 +55,3 @@ When you save a new template, include the word "template" in the page name.
 
 **Parent Topic:**[Content Management templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_ContentManagementTemplates.md)
 
-## Related
-
-- [[onboarding-modals-reference|Reference]]
-- [[c_ContentTypes|Content types]]

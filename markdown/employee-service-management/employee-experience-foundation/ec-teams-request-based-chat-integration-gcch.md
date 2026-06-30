@@ -18,7 +18,7 @@ You can integrate request-based chat with Microsoft Teams for Government Communi
 
 ## Prerequisites
 
-Before integrating [[employee-center-landing-page|Employee Center]] with your Microsoft Teams tenant, ensure that the following prerequisites are met:
+Before integrating Employee Center with your Microsoft Teams tenant, ensure that the following prerequisites are met:
 
 -   Your ServiceNow instances have been upgraded to the Vancouver release.
 -   You have not previously attempted installing the Conversational Integration with Microsoft Teams app on your instances.
@@ -46,6 +46,3 @@ Create and update a new record in the sys\_properties.list table with the detail
 
 **Parent Topic:**[Integrating ServiceNow with Microsoft Teams for GCC-H or DoD](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-sn-ms-teams-gcch.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

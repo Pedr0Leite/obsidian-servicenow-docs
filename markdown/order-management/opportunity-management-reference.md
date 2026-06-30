@@ -12,25 +12,16 @@ breadcrumb: [Lead and opportunity management, Reference, Sales Customer Relation
 
 # Opportunity Management reference
 
-Reference topics provide additional information about the [[opportunity-management|Opportunity Management]] application.
+Reference topics provide additional information about the Opportunity Management application.
 
--   **[[components-installed-opportunity-management|Components installed with Opportunity Management]]**  
+-   **[Components installed with Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/components-installed-opportunity-management.md)**  
 Several types of components are installed with activation of the Opportunity Management plugin, including user roles and tables.
--   **[[opportunity-details-form-fields|Opportunity details form]]**  
+-   **[Opportunity details form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-details-form-fields.md)**  
 Field descriptions for editing or reviewing details on the Opportunity form for Opportunity Management.
--   **[[create-appointments-form|Create new appointment form]]**  
-Field descriptions for editing or reviewing details on the Create New Appointment form in the [[explore-crm-touchpoints|CRM Touchpoints]] and Opportunity Management modules.
--   **[[create-opportunity-task-form|Create new opportunity task form]]**  
+-   **[Create new appointment form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-appointments-form.md)**  
+Field descriptions for editing or reviewing details on the Create New Appointment form in the CRM Touchpoints and Opportunity Management modules.
+-   **[Create new opportunity task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-opportunity-task-form.md)**  
 Field descriptions for editing or reviewing details on the Create New Opportunity Task form in CRM Touchpoints and Opportunity Management modules.
 
-**Parent Topic:**[[reference-lead-opportunity-mgt|Lead and opportunity management reference]]
+**Parent Topic:**[Lead and opportunity management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/reference-lead-opportunity-mgt.md)
 
-## Related
-
-- [[components-installed-opportunity-management|Components installed with Opportunity Management]]
-- [[opportunity-details-form-fields|Opportunity details form]]
-- [[create-appointments-form|Create new appointment form]]
-- [[create-opportunity-task-form|Create new opportunity task form]]
-- [[reference-lead-opportunity-mgt|Lead and opportunity management reference]]
-- [[opportunity-management|Opportunity Management]]
-- [[explore-crm-touchpoints|CRM Touchpoints]]

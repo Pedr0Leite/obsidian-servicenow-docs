@@ -14,13 +14,13 @@ breadcrumb: [Load balancers, Network device discovery, Data collected by ITOM Vi
 
 # Citrix NetScaler load balancer discovery
 
-[[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] find Citrix NetScaler load balancers including Server Load Balancing \(GSLB\).
+Discovery and Service Mapping find Citrix NetScaler load balancers including Server Load Balancing \(GSLB\).
 
 **Note:** For information on Probe to Pattern migration see the knowledge article [KB0694477](https://support.servicenow.com/kb_view.do?sysparm_article=KB0694477).
 
 ## Requirements and support
 
-**Important:** Discovery treats load balancers as licensable entities and attempts to discover them primarily using SNMP. If a load balancer in your system, running on a Linux host, has SNMP and SSH ports open, Discovery might classify it based on the SSH port. This classification has priority over SNMP. To ensure that Discovery properly classifies your hardware load balancers, [[create-disco-behavior|create a Discovery behavior]] for load balancers that includes SNMP but not SSH. Software load balancers are treated as applications.
+**Important:** Discovery treats load balancers as licensable entities and attempts to discover them primarily using SNMP. If a load balancer in your system, running on a Linux host, has SNMP and SSH ports open, Discovery might classify it based on the SSH port. This classification has priority over SNMP. To ensure that Discovery properly classifies your hardware load balancers, create a Discovery behavior for load balancers that includes SNMP but not SSH. Software load balancers are treated as applications.
 
 Virtual NetScaler load balancers are not fully supported. Discovery supports local server load balancers and GSLB.
 
@@ -86,7 +86,7 @@ NetScaler Load Balancer
 </td></tr></tbody>
 </table>To use probes for the horizontal discovery, make sure that the **NetScaler - Network Path Information** multiprobe is active on the **Trigger probes** related list for the **NetScaler Load Balancer** classifier. Then deactivate or remove the **Horizontal discovery** probe from the **Trigger probes** related list.
 
-To use patterns, verify that the correct pattern is specified in the [[r-HorizontalPatternProbe|horizontal pattern probe]] on the classifier. See [Add the Horizontal Pattern probe to a classifier](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c-UsingPatternsForHorizontalDiscovery.md) for instructions.
+To use patterns, verify that the correct pattern is specified in the horizontal pattern probe on the classifier. See [Add the Horizontal Pattern probe to a classifier](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c-UsingPatternsForHorizontalDiscovery.md) for instructions.
 
 **Note:** When using probes and sensors and the system properties**glide.discovery.hostname.snmp\_trusted** and/or **glide.discovery.hostname.dns\_nbt\_trusted** are set to false, the system uses **dns\_name** as the load balancer name. When using the Netscaler Load Balancer pattern, the system currently doesn’t recognize these system properties when they are set to false.
 
@@ -655,7 +655,7 @@ Integer
 
 ## Configuration item \(CI\) Relationships
 
-These relationships are created to support NetScaler Global Server [[c_LoadBalancers|Load Balancer discovery]]:
+These relationships are created to support NetScaler Global Server Load Balancer discovery:
 
 <table id="table_bhf_jis2_ycb"><thead><tr><th>
 
@@ -765,10 +765,3 @@ To change the value of the sysName, run the command: `set mib -name <DNS_NAME or
 
 **Parent Topic:**[Load balancer discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_LoadBalancers.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[create-disco-behavior|Create a Discovery behavior]]
-- [[r-HorizontalPatternProbe|Horizontal Pattern probe]]
-- [[c_LoadBalancers|Load balancer discovery]]

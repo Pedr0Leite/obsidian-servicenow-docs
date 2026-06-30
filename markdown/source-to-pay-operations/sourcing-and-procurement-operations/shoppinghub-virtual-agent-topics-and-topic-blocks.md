@@ -18,7 +18,7 @@ A topic conversation defines the dialog between the Virtual Agent \(chat support
 
 You can create and reuse topic blocks to simplify the topic authoring and maintenance process. Topic blocks enable you to reuse standard procedures across conversation topics.
 
-As part of the [[psm-overview|Sourcing and Procurement Operations]] product, the following Virtual Agent topic conversation and reusable topic blocks are provided:
+As part of the Sourcing and Procurement Operations product, the following Virtual Agent topic conversation and reusable topic blocks are provided:
 
 -   Request to purchase from a vendor
     -   ShoppingHub: Product Search
@@ -33,7 +33,7 @@ As part of the [[psm-overview|Sourcing and Procurement Operations]] product, the
     -   View Purchase Details
 -   See my procurement tasks
     -   More Info
-    -   PSM Select [[supplier|Supplier]] Task
+    -   PSM Select Supplier Task
     -   PSM Purchase Approval
     -   PSM Invoice Review Task
     -   PSM Confirm Receipt Task
@@ -45,7 +45,3 @@ To view just the reusable topic functions, navigate to the Topics page in Virtua
 
 **Parent Topic:**[Virtual Agent for Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/virtual-agent-for-psm.md)
 
-## Related
-
-- [[psm-overview|Sourcing and Procurement Operations]]
-- [[supplier|Supplier]]

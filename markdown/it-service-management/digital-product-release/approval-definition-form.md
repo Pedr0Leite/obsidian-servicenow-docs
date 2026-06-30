@@ -14,7 +14,7 @@ breadcrumb: [Reference, Digital Product Release, IT Service Management]
 
 # Approval definition form
 
-Release admins can [[create-approval-definitions|create approval definitions]] to get approvals of phase tasks for a release.
+Release admins can create approval definitions to get approvals of phase tasks for a release.
 
 For more information, see [Create an approval definition in Digital Product Release](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-create-approval-definition.md).
 
@@ -49,7 +49,7 @@ Approver source
 </td><td>
 
 Source of the user or group who approves the tasks.-   **Approval Definition**: Selects a specific user or group.
--   **Digital Product**: Selects the user or group determined dynamically through a user [[reference-for-itsm-mobile-agent|reference]] field from the Application [[c_Models|Models]] \[cmdb\_application\_product\_model\] table.
+-   **Digital Product**: Selects the user or group determined dynamically through a user reference field from the Application Models \[cmdb\_application\_product\_model\] table.
 -   **Service**: Selects the user or group determined dynamically through a user reference field from the Service Models \[cmdb\_service\_product\_model\] table.
 
 </td></tr><tr><td>
@@ -99,8 +99,3 @@ This field appears only when **Group** is selected from **Approval action**.
 </td></tr></tbody>
 </table>**Parent Topic:**[Digital Product Release reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-reference.md)
 
-## Related
-
-- [[create-approval-definitions|Create approval definitions]]
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[c_Models|Models]]

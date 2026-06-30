@@ -14,7 +14,7 @@ breadcrumb: [Explore, CMDB Query Builder, Configuration Management Database \(CM
 
 # CMDB Query Builder engine execution modes
 
-The [[cmdb-query-builder-landing-page|CMDB Query Builder]] engine uses two execution modes to run queries. By default, the system is configured to use the enhanced mode V2 which is designed for performance optimization. V2 is supported for most queries and enables running complex queries significantly quicker and process larger result sets without performance degradation.
+The CMDB Query Builder engine uses two execution modes to run queries. By default, the system is configured to use the enhanced mode V2 which is designed for performance optimization. V2 is supported for most queries and enables running complex queries significantly quicker and process larger result sets without performance degradation.
 
 The CMDB Query Builder can be set with the following engine execution modes for running queries:
 
@@ -105,6 +105,3 @@ The following decision flow examines settings and query structures, to determine
 
 The **Query Execution Mode** attribute in table Query Status \[qb\_query\_status\] shows the execution mode assigned to each query.
 
-## Related
-
-- [[cmdb-query-builder-landing-page|CMDB Query Builder]]

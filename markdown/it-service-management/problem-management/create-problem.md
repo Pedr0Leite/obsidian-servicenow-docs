@@ -14,7 +14,7 @@ breadcrumb: [Create a problem, Managing Problems, Problem Management, IT Service
 
 # Create a problem \(legacy\)
 
-A problem is a cause of one or more incidents. [[create-a-problem-v2|Create a problem]] to identify the root cause of the incidents and try to prevent them from happening again.
+A problem is a cause of one or more incidents. Create a problem to identify the root cause of the incidents and try to prevent them from happening again.
 
 ## Before you begin
 
@@ -51,7 +51,7 @@ Navigate to **Problem** &gt; **Create New**.
 
     When you initially create and save a problem, entering notes in the **Work notes** field is not mandatory. If you change the priority of the problem by selecting different **Impact** or **Urgency** values on an existing problem, the **Work notes** field becomes mandatory.
 
-    **Note:** This feature is available only in new instances starting with Jakarta or a later release. The [[c_ProblemManagement|Problem Management]] Best Practice – Jakarta plugin \(com.snc.best\_practice.problem.jakarta\) plugin must be activated.
+    **Note:** This feature is available only in new instances starting with Jakarta or a later release. The Problem Management Best Practice – Jakarta plugin \(com.snc.best\_practice.problem.jakarta\) plugin must be activated.
 
 4.  To enter notes on why the problem is closed, click the **Closure Information** tab and enter the information.
 
@@ -66,7 +66,3 @@ Assess the problem.
 
 **Parent Topic:**[Create a problem](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/create-a-problem-v2.md)
 
-## Related
-
-- [[create-a-problem-v2|Create a problem]]
-- [[c_ProblemManagement|Problem Management]]

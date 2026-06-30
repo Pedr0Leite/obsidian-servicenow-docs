@@ -14,7 +14,7 @@ breadcrumb: [Configure, Walk-up Experience, IT Service Management]
 
 # Enable Self-Service online check-in for Walk-up Experience
 
-Show or hide the [[walkup-experience-landing-page|Walk-up Experience]] online **Walk-up Check-in** module under **Self-Service** in the application navigator. You can enable or disable the module using the basic platform menu or module enablement process.
+Show or hide the Walk-up Experience online **Walk-up Check-in** module under **Self-Service** in the application navigator. You can enable or disable the module using the basic platform menu or module enablement process.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ The Walk-up Experience online **Walk-up Check-in** module is disabled \(hidden\)
 
 3.  Search by **Title** for the **Self-Service** application menu.
 
-    Search yields the itil\_self\_service and mobile\_self\_service menu [[dex-workspace-application-tab|applications]]. You can enable \(show\) the **Walk-up Check-in** module for each menu application.
+    Search yields the itil\_self\_service and mobile\_self\_service menu applications. You can enable \(show\) the **Walk-up Check-in** module for each menu application.
 
 4.  Click the **Self-Service** menu application with the **Name:** **itil\_self\_service**.
 
@@ -60,15 +60,10 @@ The Walk-up Experience online **Walk-up Check-in** module is disabled \(hidden\)
 
 9.  To enable the **Walk-up Check-in** module to display under **Self-Service** on the mobile application, click **Walk-up Check-in** in the Mobile Modules related list.
 
-10. Click the **Active** field to enable the module for mobile [[dex-workspace-devices-tab|devices]].
+10. Click the **Active** field to enable the module for mobile devices.
 
 11. Click **Update**.
 
 
 **Parent Topic:**[Configuring Walk-up Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walkup-experience-configuration.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]
-- [[dex-workspace-application-tab|Applications]]
-- [[dex-workspace-devices-tab|Devices]]

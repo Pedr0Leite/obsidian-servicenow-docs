@@ -41,8 +41,5 @@ Some ServiceNow resources that can provide you with helpful information are:
     Watch [Next Experience Academy: Theme Builder](https://www.youtube.com/watch?v=enjB3abGMjs) and [Creator Toolbox: Theme Builder](https://www.youtube.com/watch?v=MEzCfNIZSW4).
 
 
-**Parent Topic:**[[next-experience-theming|Working with themes in Next Experience]]
+**Parent Topic:**[Working with themes in Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-theming.md)
 
-## Related
-
-- [[next-experience-theming|Working with themes in Next Experience]]

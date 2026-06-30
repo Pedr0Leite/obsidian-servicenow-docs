@@ -14,7 +14,7 @@ breadcrumb: [Use digital resilience third-party registers, Third-party Risk Mana
 
 # Update existing records in bulk
 
-[[update-records-bulk-opres-ws|Update existing records in bulk]] from the Digital resilience third-party registers using Third-party Risk Management.
+Update existing records in bulk from the Digital resilience third-party registers using Third-party Risk Management.
 
 ## Before you begin
 
@@ -80,6 +80,4 @@ Only DORA administrators can view the **Upload** option and perform this task.
 
     The updated records are uploaded in bulk from the Digital resilience third-party registers.
 
-## Related
 
-- [[update-records-bulk-opres-ws|Update existing records in bulk]]

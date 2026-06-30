@@ -15,11 +15,11 @@ breadcrumb: [Install Accounts Payable Operations integration with Document Intel
 
 # Components installed with Accounts Payable Operations integration with Document Intelligence
 
-Reference information for the roles, flows, and tables installed with the [[apo-docintel-integration|Accounts Payable Operations integration with Document Intelligence]] \(sn\_ap\_ic\) application plugin during activation.
+Reference information for the roles, flows, and tables installed with the Accounts Payable Operations integration with Document Intelligence \(sn\_ap\_ic\) application plugin during activation.
 
 ## Roles required
 
-You must have the Accounts Payable Specialist \(sn\_ap\_apm.accounts\_payable\_specialist\) role to [[review-invoice-docintel|review an invoice in Document Intelligence]] and enter values in the invoice fields.
+You must have the Accounts Payable Specialist \(sn\_ap\_apm.accounts\_payable\_specialist\) role to review an invoice in Document Intelligence and enter values in the invoice fields.
 
 For more information about the roles that are installed with Document Intelligence, see [Components installed with Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/installed-with-document-intelligence.md).
 
@@ -115,7 +115,3 @@ Stores the invoice line data extracted from the invoice.
 </td></tr></tbody>
 </table>**Parent Topic:**[Install Accounts Payable Operations integration with Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/apm-integration-docintel.md)
 
-## Related
-
-- [[apo-docintel-integration|Accounts Payable Operations integration with Document Intelligence]]
-- [[review-invoice-docintel|Review an invoice in Document Intelligence]]

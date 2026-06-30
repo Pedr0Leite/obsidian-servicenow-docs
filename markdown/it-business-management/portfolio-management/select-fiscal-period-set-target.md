@@ -14,7 +14,7 @@ breadcrumb: [Scenario Planning for PPM, Portfolio Management, Project Portfolio 
 
 # Set target budget for a fiscal year
 
-When planning for a portfolio or all portfolios, start by selecting the fiscal period for the demands and projects that you want to work with. You then set the target amounts for both operating and capital expenses of portfolios when Scenario Planning is not integrated with [[investment-funding-overview|Investment Funding]].
+When planning for a portfolio or all portfolios, start by selecting the fiscal period for the demands and projects that you want to work with. You then set the target amounts for both operating and capital expenses of portfolios when Scenario Planning is not integrated with Investment Funding.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ For information on creating a top level investment and allocating funds, see the
 
 ## Procedure
 
-1.  Navigate to [[portfolio-planning-app-landing-page|Portfolio Planning]] Workbench from either of two starting points.
+1.  Navigate to Portfolio Planning Workbench from either of two starting points.
 
 <table id="choicetable_xfs_1fh_jlb"><thead><tr><th align="left" id="d317435e106">
 
@@ -89,7 +89,3 @@ Start creating scenarios for portfolio planning. For more information, see [Crea
 
 **Parent Topic:**[Scenario Planning for PPM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-management/portfolio-planning-overview.md)
 
-## Related
-
-- [[investment-funding-overview|Investment Funding]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

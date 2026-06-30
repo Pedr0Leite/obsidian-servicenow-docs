@@ -14,8 +14,5 @@ breadcrumb: [Legal Simple Contracts, Legal Service Delivery Practice Application
 
 # Manage Legal Simple Contracts
 
-As administrator work on managing the [[document-template-block|legal contract templates]] and legal contracts.
+As administrator work on managing the legal contract templates and legal contracts.
 
-## Related
-
-- [[document-template-block|Legal contract templates]]

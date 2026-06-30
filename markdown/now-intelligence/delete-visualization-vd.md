@@ -23,7 +23,7 @@ Role required: You can delete any data visualization that you created. If you ha
 
 ## Procedure
 
-1.  Navigate to **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Data visualizations**.
+1.  Navigate to **Platform Analytics** &gt; **Library** &gt; **Data visualizations**.
 
 2.  Open the data visualization that you want to delete.
 
@@ -34,9 +34,5 @@ Role required: You can delete any data visualization that you created. If you ha
     You cannot undo this action.
 
 
-**Parent Topic:**[[common-dv-tasks|Common data visualization tasks]]
+**Parent Topic:**[Common data visualization tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/common-dv-tasks.md)
 
-## Related
-
-- [[common-dv-tasks|Common data visualization tasks]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

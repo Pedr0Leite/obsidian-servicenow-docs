@@ -26,7 +26,7 @@ Role required: sn\_dex.admin
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  In the primary navigation pane, select the [[dex-workspace-administration-tab|DEX Administration]] icon \(\[Omitted image "icon-administration.png"\] Alt text:\).
+2.  In the primary navigation pane, select the DEX Administration icon \(\[Omitted image "icon-administration.png"\] Alt text:\).
 
 3.  Select **Configure** on the Alert rules card.
 
@@ -47,11 +47,11 @@ Role required: sn\_dex.admin
 
 7.  Select the **Applicable for Non-persistent VDIs** toggle switch to apply this metric rule to all the non-persistent Virtual Desktop Infrastructures \(VDIs\).
 
-    **Note:** When this toggle switch is on, only the **Location** option is available in the **Apply filtering for [[dex-workspace-devices-tab|devices]]** field.
+    **Note:** When this toggle switch is on, only the **Location** option is available in the **Apply filtering for devices** field.
 
 8.  Apply conditional filtering on the configuration items.
 
-    The predetermined filtering choices include Device, Department, Location, OS, User, and Version, with the Version option available for installed [[dex-workspace-application-tab|applications]].
+    The predetermined filtering choices include Device, Department, Location, OS, User, and Version, with the Version option available for installed applications.
 
     To add additional filters, select **+ New condition set**.
 
@@ -74,8 +74,3 @@ Role required: sn\_dex.admin
 
 [Define alert criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/define-alert-metric-criteria.md).
 
-## Related
-
-- [[dex-workspace-administration-tab|DEX Administration]]
-- [[dex-workspace-devices-tab|Devices]]
-- [[dex-workspace-application-tab|Applications]]

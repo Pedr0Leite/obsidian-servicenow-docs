@@ -14,7 +14,7 @@ breadcrumb: [Reference, Digital End-User Experience, IT Service Management]
 
 # Digital End-User Experience properties and settings
 
-You can update the following Digital End-User Experience properties and settings to fit your needs. You must have the admin role to update these [[settings-mobile|settings]] and properties.
+You can update the following Digital End-User Experience properties and settings to fit your needs. You must have the admin role to update these settings and properties.
 
 <table id="table_uh2_f5s_rdc"><thead><tr><th>
 
@@ -54,7 +54,7 @@ Application and Device Health
 
 </td><td>
 
-Link to the [[dex-workspace-administration-tab|DEX Administration]] card documentation
+Link to the DEX Administration card documentation
 
 </td></tr><tr><td>
 
@@ -136,7 +136,7 @@ Application and Device Health
 
 </td><td>
 
-Enables the playbook use when the correct plugins are enabledUse for hiding or showing the playbook in the options on the [[dex-workspace-user-details|device details]] page.
+Enables the playbook use when the correct plugins are enabledUse for hiding or showing the playbook in the options on the device details page.
 
 </td></tr><tr><td>
 
@@ -196,7 +196,7 @@ Application and Device Health
 
 </td><td>
 
-Duration of network [[perf-metrics-mob|performance metrics]] in seconds
+Duration of network performance metrics in seconds
 
 </td></tr><tr><td>
 
@@ -358,7 +358,7 @@ Desktop Assistant
 
 </td><td>
 
-Property that specifies the default esc portalIf you use a portal other than esc for [[itsm-virtual-agent|ITSM Virtual Agent]], you can specify that portal for integration between Desktop Assistant and ITSM Virtual Agent.
+Property that specifies the default esc portalIf you use a portal other than esc for ITSM Virtual Agent, you can specify that portal for integration between Desktop Assistant and ITSM Virtual Agent.
 
 </td></tr><tr><td>
 
@@ -383,10 +383,3 @@ Minimum compatible version for desktop application on Windows
 </td></tr></tbody>
 </table>**Parent Topic:**[Digital End-User Experience reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-reference.md)
 
-## Related
-
-- [[settings-mobile|Settings]]
-- [[dex-workspace-administration-tab|DEX Administration]]
-- [[dex-workspace-user-details|Device details]]
-- [[perf-metrics-mob|Performance metrics]]
-- [[itsm-virtual-agent|ITSM Virtual Agent]]

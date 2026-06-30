@@ -14,7 +14,7 @@ breadcrumb: [Create a portal, Configuring Service Portal, Service Portal, Config
 
 # Configure a portal header menu
 
-Define the look and behavior of the portal header menu and assign menu items to appear in the header. The header menu is one of the primary navigation controls for [[c_ServicePortal|Service Portal]] users.
+Define the look and behavior of the portal header menu and assign menu items to appear in the header. The header menu is one of the primary navigation controls for Service Portal users.
 
 ## Before you begin
 
@@ -63,7 +63,7 @@ Role required: \(admin or none\)
 
 4.  Select **Fixed Header** or **Fixed Footer** to lock the header or footer in one place so when users scroll up or down they remain in the same location on the page.
 
-5.  To [[configure-onboarding-modals|configure]] the appearance of the header, in the [[service-portal-configuration-page|Service Portal configuration page]], open the Branding Editor.
+5.  To configure the appearance of the header, in the Service Portal configuration page, open the Branding Editor.
 
 6.  Under the **Theme Colors** tab, use the color selectors in the Navbar section to control the colors in the header.
 
@@ -127,10 +127,10 @@ Widget
 
 </td><td>
 
-The widget that the header menu is based on. Select a menu-type widget from the list. For example, the [[header-widget|header menu widget]] that is included as a base system widget.
+The widget that the header menu is based on. Select a menu-type widget from the list. For example, the header menu widget that is included as a base system widget.
 
 </td></tr></tbody>
-</table>3.  Save the form, and then select **Menu Items** from the [[c_RelatedLists|related lists]].
+</table>3.  Save the form, and then select **Menu Items** from the related lists.
 
 4.  Select **New** and complete the menu item form.
 
@@ -180,7 +180,7 @@ Type
 
 </td><td>
 
-The kind of page the item links to. [[c_FormFields|Form fields]] vary depending on the option that you select from this list. Choose from:-   Page: Link to another page in the Service Portal.
+The kind of page the item links to. Form fields vary depending on the option that you select from this list. Choose from:-   Page: Link to another page in the Service Portal.
 -   URL: Link to an external website. To have the URL open on a new browser tab or window, enter `_blank` in the **URL target** field.
 -   Service Catalog: Link to the Service Catalog.
 -   Catalog Category: Link to a specific catalog category within the Service Catalog.
@@ -224,7 +224,7 @@ Icon that appears beside the menu item
 
     1.  Navigate to **Service Portal** &gt; **Portals**, then open the portal you want to add a menu to.
 
-    2.  From the **Main menu** field, select the [[onboarding-modals-reference|reference]] lookup icon, then select the appropriate menu by name.
+    2.  From the **Main menu** field, select the reference lookup icon, then select the appropriate menu by name.
 
     3.  Select **Save**.
 
@@ -264,12 +264,3 @@ In portal headers, the language selector displays the current language selection
 
 The language selector displays in the header menu for both authenticated and unauthenticated users.
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[configure-onboarding-modals|Configure]]
-- [[service-portal-configuration-page|Service Portal configuration page]]
-- [[header-widget|Header menu widget]]
-- [[c_RelatedLists|Related lists]]
-- [[c_FormFields|Form fields]]
-- [[onboarding-modals-reference|Reference]]

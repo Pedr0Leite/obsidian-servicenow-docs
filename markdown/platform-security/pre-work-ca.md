@@ -12,31 +12,31 @@ breadcrumb: [Continuous Authentication \(CA\), Zero Trust Access, Access Managem
 
 # Pre-work for Continuous Authentication
 
-Ensure to perform the following pre-work before using [[ca-homepage|Continuous Authentication \(CA\)]].
+Ensure to perform the following pre-work before using Continuous Authentication \(CA\).
 
-CA is built on ServiceNow's zero trust access security architecture that aims to enhance security by ensuring that the user remains who they claim to be, even after the initial [[c_Authentication|authentication]] process.
+CA is built on ServiceNow's zero trust access security architecture that aims to enhance security by ensuring that the user remains who they claim to be, even after the initial authentication process.
 
 **Note:** You must install the **Zero Trust - Continuous Authentication** \(`com.snc.zero_trust_continuous_authentication`\) for opting CA which requires a license.
 
-CA [[sc-configuration|configuration]] can be performed based on the following:
+CA configuration can be performed based on the following:
 
 -   [LDAP or Local login \(Username and Password\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/pre-work-ca.md)
 -   [SSO login \(SAML or OIDC\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/pre-work-ca.md).
 
 ## CA for Local login
 
-When the [[users|users]] are performing local login and to verify the [[identity-landing|Identity]] of the users, MFA is used as an authentication mechanism. If the users haven't setup MFA, it is compulsory to complete the setup.
+When the users are performing local login and to verify the Identity of the users, MFA is used as an authentication mechanism. If the users haven't setup MFA, it is compulsory to complete the setup.
 
 **Note:**
 
 -   From Yokohama, MFA is enforced to users for every login to ServiceNow performing local login.
 -   Make sure the MFA properties are Active and configured based on your requirement. To know more about MFA properties, see [Multi-factor Authentication system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-properties.md).
 
-To know more, see [[high-assurance-non-sso-logins|High Assurance session for non-SSO login]].
+To know more, see [High Assurance session for non-SSO login](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/high-assurance-non-sso-logins.md).
 
 ## CA for SSO login
 
-When the users are performing SSO based login \([[c_SAML2.0WebBrowserSSOProfile|SAML]] or OIDC\). To verify the Identity of the users, the same SSO used during initial login is shown as the re verification with re-authentication or IdP's MFA.
+When the users are performing SSO based login \(SAML or OIDC\). To verify the Identity of the users, the same SSO used during initial login is shown as the re verification with re-authentication or IdP's MFA.
 
 **Note:**
 
@@ -54,27 +54,14 @@ You must configure the IDP for CA as follows:
     -   To configure step up for **Okta** you can use the **ContinuousAuth\_Okta\_StepUp\_Script** in the IdP record. To know more, see this [documentation](https://developer.okta.com/docs/guides/step-up-authentication/main/).
     -   To configure step up for **Entra ID** or **Azure** you can use the **ContinuousAuth\_Azure\_StepUp\_Script** and add the required claim. To know more, see this [documentation](https://learn.microsoft.com/en-us/entra/identity-platform/developer-guide-conditional-access-authentication-context).
 
-To know more, see [[high-assurance-sso-logins|High Assurance for SSO login]].
+To know more, see [High Assurance for SSO login](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/high-assurance-sso-logins.md).
 
 **Related topics**  
 
 
-[[explore-continuous-auth|Exploring Continuous Authentication]]
+[Exploring Continuous Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/explore-continuous-auth.md)
 
-[[activate-continuous-authentication|Activating Continuous Authentication]]
+[Activating Continuous Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/activate-continuous-authentication.md)
 
-[[configure-ca|Configuring Continuous Authentication]]
+[Configuring Continuous Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/configure-ca.md)
 
-## Related
-
-- [[high-assurance-non-sso-logins|High Assurance session for non-SSO login]]
-- [[high-assurance-sso-logins|High Assurance for SSO login]]
-- [[explore-continuous-auth|Exploring Continuous Authentication]]
-- [[activate-continuous-authentication|Activating Continuous Authentication]]
-- [[configure-ca|Configuring Continuous Authentication]]
-- [[ca-homepage|Continuous Authentication \(CA\)]]
-- [[c_Authentication|Authentication]]
-- [[sc-configuration|Configuration]]
-- [[users|Users]]
-- [[identity-landing|Identity]]
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]

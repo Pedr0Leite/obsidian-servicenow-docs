@@ -20,7 +20,7 @@ Role required: clone\_admin on primary instance.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[Clone-UI|Clone Admin Console]]** &gt; **Clone Home** &gt; **Configuration**.
+1.  Navigate to **All** &gt; **Clone Admin Console** &gt; **Clone Home** &gt; **Configuration**.
 
 2.  Select **Multi-Instance View** link.
 
@@ -28,6 +28,4 @@ Role required: clone\_admin on primary instance.
 
     Clear the option to disable the Multi-Instance View feature. Re-enabling Multi-Instance View feature will restore your previous settings without losing your configuration.
 
-## Related
 
-- [[Clone-UI|Clone Admin Console]]

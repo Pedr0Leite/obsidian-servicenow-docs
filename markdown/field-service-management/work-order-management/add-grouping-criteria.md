@@ -32,7 +32,7 @@ When grouping is enabled, one work order is generated for all the assets that me
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[planned-work-management|Planned Work Management]]** &gt; **Work Plans**.
+1.  Navigate to **All** &gt; **Planned Work Management** &gt; **Work Plans**.
 
 2.  Open the work plan that you want to add the grouping criteria.
 
@@ -46,6 +46,4 @@ When grouping is enabled, one work order is generated for all the assets that me
     |Plan|Specifies the name of the plan for which the grouping condition applies. The value is auto-populated with the name of the work plan.|
     |Group by|Select the field by which you want to group the work orders.|
 
-## Related
 
-- [[planned-work-management|Planned Work Management]]

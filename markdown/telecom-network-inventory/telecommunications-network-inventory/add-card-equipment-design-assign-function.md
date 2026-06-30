@@ -14,7 +14,7 @@ breadcrumb: [Using Design &amp; Assign Network, Use, Telecommunications Network 
 
 # Add a card to equipment
 
-Add a card to equipment record using [[using-playbooks-design-assign-inventory-record|design and assign function]] in the [[telecom-network-inventory|Telecommunications Network Inventory]] application. By adding a card, you can fulfill an order request for a customer requirement.
+Add a card to equipment record using design and assign function in the Telecommunications Network Inventory application. By adding a card, you can fulfill an order request for a customer requirement.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Add a card to equipment record using [[using-playbooks-design-assign-inventory-r
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon\), and then go to **Changes** &gt; **All**.
 
@@ -65,8 +65,3 @@ Add a card to equipment record using [[using-playbooks-design-assign-inventory-r
 
 [Define a network model relationship](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-network-model-relationships.md)
 
-## Related
-
-- [[using-playbooks-design-assign-inventory-record|Design and Assign function]]
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]

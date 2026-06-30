@@ -20,7 +20,7 @@ Reference topics provide additional information about components installed and l
 
     Reference for user roles that are installed with activation of the sn\_ti\_admin plugin.
 
--   **Reference for [[task-intelligence|Task Intelligence]] for ITSM**
+-   **Reference for Task Intelligence for ITSM**
 
     Reference topics provide additional information about components installed with Task Intelligence for ITSM.
 
@@ -32,6 +32,4 @@ Reference topics provide additional information about components installed and l
 
     The language detection feature for Task Intelligence for CSM supports 22 different languages.
 
-## Related
 
-- [[task-intelligence|Task Intelligence]]

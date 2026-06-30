@@ -14,13 +14,13 @@ breadcrumb: [Explore, Next Experience for Demand Management in Strategic Plannin
 
 # Playbooks in Next Experience for Demand Management
 
-[[playbooks-in-demand-workspace-ppw|Playbooks in Next Experience for Demand Management]] provide a guided, structured approach to managing a demand from initiation to completion. Playbooks focus specifically on helping demand teams follow the standard demand life cycle, verifying every demand progresses consistently and no critical steps are missed.
+Playbooks in Next Experience for Demand Management provide a guided, structured approach to managing a demand from initiation to completion. Playbooks focus specifically on helping demand teams follow the standard demand life cycle, verifying every demand progresses consistently and no critical steps are missed.
 
 ## Purpose of Playbooks in Demand Management
 
 Playbooks provide a structured way to manage work by guiding teams through predefined steps. They show what to do, when to do it, and where to find the tools or information required to complete each task. You can apply a playbook to processes such as managing a demand, resolving an issue, launching a product, onboarding new employees, or defining key steps of a process. For more information on playbooks and how to create them, see [Workflow studio playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/process-automation-designer.md).
 
-In Next Experience for [[c_DemandManagement|Demand Management]], playbooks help demand managers and reviewers in the following ways:
+In Next Experience for Demand Management, playbooks help demand managers and reviewers in the following ways:
 
 -   Understand which activities must be completed at each demand stage.
 -   Track required inputs, approvals, and validations for demand progression.
@@ -67,7 +67,7 @@ Next Experience for Demand Management includes two predefined playbooks availabl
 
 -   Demand default playbook - The default demand playbook is a stage-gate playbook in which each stage must be finished before moving to the next one. Stages are visible only when all activities in the previous stage are completed or skipped. After completing a stage, demand managers can still return to previous stages.
 
-    You can [[t_CreatingDemands|create a demand]] playbook or customize the default demand playbook. For more information about the stages and activities of this playbook, see [Demand default playbook stages and activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/demand-default-playbook-stages.md). For information about creating one, see [Create and configure playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/setting-up-process-automation-designer.md).
+    You can create a demand playbook or customize the default demand playbook. For more information about the stages and activities of this playbook, see [Demand default playbook stages and activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/demand-default-playbook-stages.md). For information about creating one, see [Create and configure playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/setting-up-process-automation-designer.md).
 
 -   AI playbook - This playbook has an additional AI checkpoint stage where you can associate new or existing AI systems to your demand. The AI Control Tower plugin must be installed. The investment type of the demand must be set to artificial intelligence.
 
@@ -89,8 +89,3 @@ Next Experience for Demand Management includes two predefined playbooks availabl
 
 [Demand default playbook stages and activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/demand-default-playbook-stages.md)
 
-## Related
-
-- [[playbooks-in-demand-workspace-ppw|Playbooks in Next Experience for Demand Management]]
-- [[c_DemandManagement|Demand Management]]
-- [[t_CreatingDemands|Create a demand]]

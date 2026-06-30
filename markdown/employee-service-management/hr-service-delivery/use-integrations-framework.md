@@ -14,7 +14,7 @@ breadcrumb: [Enterprise Service Management Integrations Framework, Integration o
 
 # Using Enterprise Service Management Integrations Framework
 
-Understand how you can use [[hr-integrations-framework|Enterprise Service Management Integrations Framework]] to connect with a third-party system.
+Understand how you can use Enterprise Service Management Integrations Framework to connect with a third-party system.
 
 ## Before you begin
 
@@ -36,6 +36,3 @@ Role required: sn\_hr\_integr\_fw.admin
     -   Import sets are created and attached to the service job tracker, and load start time is populated. Once data is loaded in the import set tables, the state of the service job tracker changes to loaded and the load end time is populated.
     -   Once data is loaded for all the services, transformation begins based on the service order defined in the Integration Service \[sn\_hr\_integr\_fw\_service\] table. The states of services change to complete, and then the state of the job tracker record changes to complete. For more information, see [View job tracker details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-integration-job-tracker.md).
 
-## Related
-
-- [[hr-integrations-framework|Enterprise Service Management Integrations Framework]]

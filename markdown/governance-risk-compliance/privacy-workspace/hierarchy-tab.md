@@ -42,7 +42,7 @@ You can also collect hierarchy information from business users by adding this se
 
 -   **Related node type**
 
-    The type of entity you're connecting as a related node. Related nodes can be [[ropa-record|processing activities]], entities, business processes, business applications, vendors, or companies. Additional record types can be configured based on your organization's needs.
+    The type of entity you're connecting as a related node. Related nodes can be processing activities, entities, business processes, business applications, vendors, or companies. Additional record types can be configured based on your organization's needs.
 
 
 ## View lineage map
@@ -89,6 +89,3 @@ After a relationship is created, the Hierarchy tab displays the following column
 
 **Parent Topic:**[Processing activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/ropa-record.md)
 
-## Related
-
-- [[ropa-record|Processing activities]]

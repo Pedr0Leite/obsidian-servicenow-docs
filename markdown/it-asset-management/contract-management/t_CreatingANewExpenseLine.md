@@ -18,14 +18,14 @@ Typically, expense lines are automatically generated based on assets or users, b
 
 ## Before you begin
 
-Role required: asset, contract\_manager\(core UI and [[using-ham-workspace|Hardware Asset Workspace]] only\), sn\_eam.enterprise\_admin \([[using-eam-workspace|Enterprise Asset Workspace]] only\), or sn\_eam.enterprise\_asset\_manager \(Enterprise Asset Workspace only\)
+Role required: asset, contract\_manager\(core UI and Hardware Asset Workspace only\), sn\_eam.enterprise\_admin \(Enterprise Asset Workspace only\), or sn\_eam.enterprise\_asset\_manager \(Enterprise Asset Workspace only\)
 
 ## Procedure
 
-1.  Open the list of [[c_Contracts|contracts]] that are used across your deployment.
+1.  Open the list of contracts that are used across your deployment.
 
-    -   If you are using the core UI, navigate to **[[c_ContractManagement|Contract Management]]** &gt; **Contract** &gt; **All**.
-    -   If you are using the Hardware Asset Workspace, open the [[contract-mgmt-view-am|Contract management view]] and then select the **All contracts** tab.
+    -   If you are using the core UI, navigate to **Contract Management** &gt; **Contract** &gt; **All**.
+    -   If you are using the Hardware Asset Workspace, open the Contract management view and then select the **All contracts** tab.
     -   If you are using the Enterprise Asset Workspace, open the Contract and lease management view and then select the **All contracts** tab.
 2.  Select a contract.
 
@@ -68,10 +68,3 @@ Role required: asset, contract\_manager\(core UI and [[using-ham-workspace|Hardw
 
 [View contract expense lines]()
 
-## Related
-
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[c_Contracts|Contracts]]
-- [[c_ContractManagement|Contract Management]]
-- [[contract-mgmt-view-am|Contract management view]]

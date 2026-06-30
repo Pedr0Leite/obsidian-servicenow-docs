@@ -14,7 +14,7 @@ breadcrumb: [Validation, sanitization, and encoding, Hardening settings, Platfor
 
 # Sanitize All Translated HTML Fields
 
-Learn how to configure the **glide.translated\_html.sanitize\_all\_fields** property to the secure value to ensure that all **translated\_html** elements are sanitized with an [[c_HTMLSanitizer|HTML sanitizer]].
+Learn how to configure the **glide.translated\_html.sanitize\_all\_fields** property to the secure value to ensure that all **translated\_html** elements are sanitized with an HTML sanitizer.
 
 When the **glide.translated\_html.sanitize\_all\_fields** system property is set to the value **true**, all translated\_html elements will be sanitized using an HTML sanitizer. When the property is set to **false**, an element will only be sanitized if a dictionary attribute, **html\_sanitize**, is set to **true**.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -115,8 +115,3 @@ Allows customers to access any table information if the widget is set to public 
 </td></tr></tbody>
 </table>**Parent Topic:**[Validation, sanitization, and encoding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/validation-sanitization-encoding.md)
 
-## Related
-
-- [[c_HTMLSanitizer|HTML sanitizer]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

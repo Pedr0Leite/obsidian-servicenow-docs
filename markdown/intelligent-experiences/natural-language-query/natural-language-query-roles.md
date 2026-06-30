@@ -14,7 +14,7 @@ breadcrumb: [Natural Language Query References, Natural Language Query, Enable A
 
 # Natural Language Query roles
 
-[[natural-language-query|Natural Language Query]] \(NLQ\) is installed with these roles.
+Natural Language Query \(NLQ\) is installed with these roles.
 
 To learn more about managing per-user subscriptions, see [Managing per-user subscriptions in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/managing-user-subscriptions-v2.md) and contact your account representative.
 
@@ -58,6 +58,3 @@ None.
 
 To avoid granting an admin role, use the pa\_analyst role for NLQ Cmdb Implicit Relationships, NLQ Semantic Shortcuts, and NLQ Synonyms.
 
-## Related
-
-- [[natural-language-query|Natural Language Query]]

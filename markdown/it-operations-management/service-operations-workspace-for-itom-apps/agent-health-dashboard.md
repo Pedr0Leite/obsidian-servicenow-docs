@@ -22,7 +22,7 @@ The following example shows the agents in your system that are currently up, whi
 
 ## Prerequisites
 
-The [[acc-landing-page|Agent Client Collector]] application must be installed.
+The Agent Client Collector application must be installed.
 
 ## Required ServiceNow AI Platform roles
 
@@ -32,9 +32,9 @@ A user must have the agent\_client\_collector\_admin role to see all the widgets
 
 To open the dashboard, use one of the following methods:
 
--   Navigate to **All** &gt; **AIOps [[otto-aiops-dashboards|Dashboards]]** &gt; **AIOps Operational** &gt; **Agent Health**.
--   Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]** and select the AIOps Dashboards icon \(\[Omitted image "aiops-operational-icon.png"\] Alt text: AIOps Dashboards icon.\) and then select the **Agent Health** tab.
--   After upgrading to [[discovery-admin-workspace|Discovery Admin Workspace]] version 1.3.1 \(August 2024 Store\), you can navigate to **Workspaces** &gt; **Discovery Admin Workspace** &gt; **Insights** and use the enhanced dashboard.
+-   Navigate to **All** &gt; **AIOps Dashboards** &gt; **AIOps Operational** &gt; **Agent Health**.
+-   Navigate to **Workspaces** &gt; **Service Operations Workspace** and select the AIOps Dashboards icon \(\[Omitted image "aiops-operational-icon.png"\] Alt text: AIOps Dashboards icon.\) and then select the **Agent Health** tab.
+-   After upgrading to Discovery Admin Workspace version 1.3.1 \(August 2024 Store\), you can navigate to **Workspaces** &gt; **Discovery Admin Workspace** &gt; **Insights** and use the enhanced dashboard.
 
 
 ## Use case
@@ -142,10 +142,3 @@ Breakdown of your deployed agents according to the operating systems they are wo
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[otto-aiops-dashboards|Dashboards]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[discovery-admin-workspace|Discovery Admin Workspace]]

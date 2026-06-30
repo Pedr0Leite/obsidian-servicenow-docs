@@ -12,7 +12,7 @@ breadcrumb: [Partner Relationship Management reference, Reference, Sales Custome
 
 # Channel partner table fields
 
-Use the [[fields|fields]] on the channel partner \[sn\_prm\_channel\_partner\] table to manage and store information related to channel partners.
+Use the fields on the channel partner \[sn\_prm\_channel\_partner\] table to manage and store information related to channel partners.
 
 <table id="table_fzm_sdx_1fc"><thead><tr><th>
 
@@ -103,15 +103,10 @@ Activity
 Updates and information related to the channel partner.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[partner-relationship-management-reference|Partner Relationship Management reference]]
+</table>**Parent Topic:**[Partner Relationship Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/partner-relationship-management-reference.md)
 
 **Related topics**  
 
 
-[[configure-channel-partner-table|Configure Channel Partner table]]
+[Configure Channel Partner table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-channel-partner-table.md)
 
-## Related
-
-- [[partner-relationship-management-reference|Partner Relationship Management reference]]
-- [[configure-channel-partner-table|Configure Channel Partner table]]
-- [[fields|Fields]]

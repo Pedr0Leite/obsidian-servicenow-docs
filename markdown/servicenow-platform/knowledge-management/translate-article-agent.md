@@ -22,7 +22,7 @@ You must have contribute access to the knowledge base that stores the knowledge 
 
 Ensure that the system administrator verifies the following settings:
 
--   [[knowledge-management|Knowledge Management]] Advanced plugin \(com.snc.knowledge\_advanced\) is activated.
+-   Knowledge Management Advanced plugin \(com.snc.knowledge\_advanced\) is activated.
 -   I18N: Knowledge Management Internationalization Plugin v2 plugin \(com.glideapp.knowledge.i18n2\) is activated.
 
     **Note:** The 18N: Internationalization plugin \(com.glide.i18n\) activates the I18N: Knowledge Management Internationalization Plugin v2 plugin.
@@ -35,7 +35,7 @@ Role required: agent\_workspace\_user
 
 A translation task is created for a knowledge article when a request for translation is submitted or its knowledge base is configured to automatically create translation tasks. For more information, see [Request translations for missing languages in Agent Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/request-translations-agent.md) and [Create a knowledge base](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/create-a-knowledgebase.md).
 
-**Note:** The [[translation-management|translation management]] feature isn't available for [[knowledge-blocks|knowledge blocks]] in Agent Workspace.
+**Note:** The translation management feature isn't available for knowledge blocks in Agent Workspace.
 
 ## Procedure
 
@@ -78,8 +78,3 @@ When the translated version of the knowledge article is published, a new knowled
 
 [Translation management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/translation-management.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]
-- [[translation-management|Translation management]]
-- [[knowledge-blocks|Knowledge blocks]]

@@ -15,7 +15,7 @@ breadcrumb: [ACC Discovery, ACC deployment - servers, Configuring Agent Client C
 
 # License key discovery
 
-License key discovery in [[acc-landing-page|Agent Client Collector]] for Visibility - Content automatically collects software license keys from the Windows registry on managed endpoints.
+License key discovery in Agent Client Collector for Visibility - Content automatically collects software license keys from the Windows registry on managed endpoints.
 
 License key discovery enables the Agent Client Collector for Visibility - Content \(ACC-VC\) Windows agent to read software license keys stored in the Windows registry on managed endpoints. When a device is discovered, the agent reads registry values defined by an admin-configured list of registry paths and value names, and reports the results in your instance.
 
@@ -36,6 +36,3 @@ Enable license key discovery and define the registry paths and values you want t
 
 **Parent Topic:**[Agent Client Collector Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-discovery.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

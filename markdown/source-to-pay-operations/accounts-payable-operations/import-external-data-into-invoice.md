@@ -15,7 +15,7 @@ breadcrumb: [Accounts Payable Operations integration framework, Integrate, Accou
 
 # Import data into invoice
 
-Import bulk invoice data into [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] using a transform map and Excel file.
+Import bulk invoice data into Accounts Payable Operations using a transform map and Excel file.
 
 ## Before you begin
 
@@ -54,6 +54,3 @@ Role required: admin
 
 Excel template is created and uploaded with mandatory invoice data.
 
-## Related
-
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]

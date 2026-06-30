@@ -14,12 +14,12 @@ breadcrumb: [Access Management Automation, Configure a catalog in Service Portal
 
 # Set up Access Management Automation
 
-Set up the [[access-management|Access Management Automation]] application by configuring the [[c_ServicePortal|Service Portal]] page to use the default catalog items.
+Set up the Access Management Automation application by configuring the Service Portal page to use the default catalog items.
 
 ## Before you begin
 
 -   This application requires an Integration Hub or Automation Engine subscription. For more information, see [Legal schedules - Integration Hub overview](https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/doc-type/legal/snc-addendum-integrationhub.pdf).
--   Activate and [[configure-onboarding-modals|configure]] one of the required spokes.
+-   Activate and configure one of the required spokes.
 
     -   Okta spoke
     -   Microsoft Entra ID spoke \(formerly Microsoft Entra ID spoke\)
@@ -104,8 +104,3 @@ Set up the [[access-management|Access Management Automation]] application by con
 
 **Parent Topic:**[Access Management Automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/access-management.md)
 
-## Related
-
-- [[access-management|Access Management Automation]]
-- [[c_ServicePortal|Service Portal]]
-- [[configure-onboarding-modals|Configure]]

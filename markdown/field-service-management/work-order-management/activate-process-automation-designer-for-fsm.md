@@ -22,11 +22,11 @@ Role required: Admin.
 
 ## About this task
 
-In order to create Playbooks in Workflow Studio that are triggered by [[fsm-application-landing-page|Field Service Management]] tables, you must [purchase a subscription to Field Service Management](https://www.servicenow.com/lpgp/pricing-field-service-management.html).
+In order to create Playbooks in Workflow Studio that are triggered by Field Service Management tables, you must [purchase a subscription to Field Service Management](https://www.servicenow.com/lpgp/pricing-field-service-management.html).
 
 To purchase this subscription, contact your ServiceNow account manager. Your account manager can arrange to have the plugin activated on your organization's production and subproduction instances, generally within a few days.
 
-If you don't have an account manager, decide to delay activation after purchase, or want to evaluate the product on a subproduction instance without charge, follow these steps to enable the **[[playbooks|Playbooks for Field Service Management]] \[com.sn\_fsm\_playbook\]** plugin:
+If you don't have an account manager, decide to delay activation after purchase, or want to evaluate the product on a subproduction instance without charge, follow these steps to enable the **Playbooks for Field Service Management \[com.sn\_fsm\_playbook\]** plugin:
 
 ## Procedure
 
@@ -90,7 +90,7 @@ Enabling the **Playbooks for Field Service Management \[com.sn\_fsm\_playbook\]*
 -   Work Task Model \[cmdb\_worktask\_product\_model\]
 -   Work Type \[wm\_work\_type\]
 -   Agent Personal Schedule \[agent\_events\]
--   [[appointment-booking|Appointment Booking]] \[sn\_apptmnt\_booking\_appointment\_booking\]
+-   Appointment Booking \[sn\_apptmnt\_booking\_appointment\_booking\]
 -   Questionnaire \[wm\_questionnaire\]
 -   Service Order Task \[sm\_task\]
 -   Service Order Task Template Dependency \[sm\_m2m\_task\_template\_dependency\]
@@ -98,8 +98,3 @@ Enabling the **Playbooks for Field Service Management \[com.sn\_fsm\_playbook\]*
 -   Part Requirement \[sm\_part\_requirement\]
 -   Service Management Incidentals \[sm\_incidentals\]
 
-## Related
-
-- [[fsm-application-landing-page|Field Service Management]]
-- [[playbooks|Playbooks for Field Service Management]]
-- [[appointment-booking|Appointment booking]]

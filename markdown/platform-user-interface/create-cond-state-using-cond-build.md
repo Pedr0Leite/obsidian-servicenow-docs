@@ -12,7 +12,7 @@ breadcrumb: [Common UI elements, Working in Core UI, Configure UIs and portals, 
 
 # Create a condition statement using the condition builder
 
-A condition builder constructs a condition statement with a series of contextually generated fields. Condition builders are used in many operations, such as creating [[c_Filters|filters]], administering surveys, and administering access control.
+A condition builder constructs a condition statement with a series of contextually generated fields. Condition builders are used in many operations, such as creating filters, administering surveys, and administering access control.
 
 ## Before you begin
 
@@ -41,16 +41,10 @@ A condition consists of three parts: field, operator, and value.
     \[Omitted image "ExampleConditionActiveIsTrueAndCallerIsNotEmpty.png"\] Alt text: Example AND condition
 
 
--   **[[c_ConditionBuilder|Condition builder]]**  
+-   **[Condition builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_ConditionBuilder.md)**  
 A condition builder constructs a condition statement with a series of contextually generated fields. Condition builders are used in many operations, such as creating filters, administering surveys, and administering access control.
--   **[[r_OpAvailableFiltersQueries|Operators available for filters and queries]]**  
+-   **[Operators available for filters and queries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/r_OpAvailableFiltersQueries.md)**  
 The system provides a set of operators for use with filters, condition builders, and encoded queries. The data type of a field determines what operators are available for it.
 
-**Parent Topic:**[[p_CommonUIElements|Common UI elements]]
+**Parent Topic:**[Common UI elements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/p_CommonUIElements.md)
 
-## Related
-
-- [[c_ConditionBuilder|Condition builder]]
-- [[r_OpAvailableFiltersQueries|Operators available for filters and queries]]
-- [[p_CommonUIElements|Common UI elements]]
-- [[c_Filters|Filters]]

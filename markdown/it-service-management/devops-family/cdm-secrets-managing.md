@@ -16,13 +16,13 @@ breadcrumb: [DevOps Config reference, DevOps Config, IT Service Management]
 
 By default, encrypted values appear in all views as `*******`. Only users with the CDM Secrets \[sn\_cdm.cdm\_secrets\] role can view, create, update, and delete encrypted values in config data. The system validates and exports encrypted data appropriately.
 
-**Important:** Starting with the Washington D.C. release, [[devops-config-landing-page|DevOps Config]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+**Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 ## Permissions of users with the CDM Secrets \[sn\_cdm.cdm\_secrets\] role
 
 -   Encrypted values appear in all views as `*******` by default.
 -   Select the **View encrypted data** menu option to display encrypted values in any view.
--   Validate and [[cdm-cfg-data-export-from-ui|export a snapshot]] that includes encrypted data. All exported data is readable by the CI/CD pipeline apps.
+-   Validate and export a snapshot that includes encrypted data. All exported data is readable by the CI/CD pipeline apps.
 -   Create, update, delete abilities:
     -   View an encrypted value.
     -   Edit an encrypted value.
@@ -41,7 +41,3 @@ By default, encrypted values appear in all views as `*******`. Only users with t
 
 **Parent Topic:**[DevOps Config reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-family/devops-config-reference.md)
 
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]
-- [[cdm-cfg-data-export-from-ui|Export a snapshot]]

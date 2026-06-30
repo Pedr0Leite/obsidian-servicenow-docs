@@ -22,7 +22,7 @@ Role required: sn\_privacy.manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[privacy-management|Privacy Management]]** &gt; **Privacy Workspace** &gt; **List** &gt; **Scoping** &gt; **[[entity-type-in-risk-ws|Entity types]]**.
+1.  Navigate to **All** &gt; **Privacy Management** &gt; **Privacy Workspace** &gt; **List** &gt; **Scoping** &gt; **Entity types**.
 
 2.  Select the entity types that contain the entities for which you want to send the assessments.
 
@@ -47,7 +47,3 @@ The assessment is sent to the entity owners.
 
 **Parent Topic:**[Initiating privacy assessments for an entity or a processing activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/trigger-privacy-assessmt-on-entities.md)
 
-## Related
-
-- [[privacy-management|privacy management]]
-- [[entity-type-in-risk-ws|Entity types]]

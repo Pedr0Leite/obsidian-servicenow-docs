@@ -14,7 +14,7 @@ breadcrumb: [Content sites, Configure Content Management sites, Content Manageme
 
 # Create a site
 
-[[configure-onboarding-modals|Configure]] a site by either creating a new site with CMS or by editing a copy of either the ESS Portal or the Service Management Portal.
+Configure a site by either creating a new site with CMS or by editing a copy of either the ESS Portal or the Service Management Portal.
 
 ## Before you begin
 
@@ -130,7 +130,7 @@ Simple catalog display
 
 </td><td>
 
-Selecting this option simplifies catalog pages in the site by hiding the search bar, breadcrumbs, and the results per page choice list. It also prevents you from adding [[attachments-configurable-workspace|attachments]] from record producers to your CMS site.
+Selecting this option simplifies catalog pages in the site by hiding the search bar, breadcrumbs, and the results per page choice list. It also prevents you from adding attachments from record producers to your CMS site.
 
 </td></tr><tr><td>
 
@@ -155,7 +155,3 @@ The following is the site record for the ESS Portal:\[Omitted image "Site.png"\]
 
 [Copy a site](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_CopyASite.md)
 
-## Related
-
-- [[configure-onboarding-modals|Configure]]
-- [[attachments-configurable-workspace|Attachments]]

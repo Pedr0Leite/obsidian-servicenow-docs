@@ -27,18 +27,12 @@ This button can include any variety of action items: comment, attachment, and na
 
     For attachment input actions, when mapping attachments as part of a data source, the field name must be declared as a *sys\_id* so it's automatically added to the Attachment \[sys\_sg\_attachment\] table. You then must define which element identifier the element belongs to using the *values.Mapper* attribute.
 
--   **Navigation button**: Users tap on this option to open an alternative screen or launcher screen. For example, navigate to a [[list-screen|list screen]] to create a follow-up task or to view a knowledge base article in the context of an input. Any number of navigation buttons can be added to the more menu button.
+-   **Navigation button**: Users tap on this option to open an alternative screen or launcher screen. For example, navigate to a list screen to create a follow-up task or to view a knowledge base article in the context of an input. Any number of navigation buttons can be added to the more menu button.
 
-    **Note:** For [[mobile-nav-functions|navigation functions]] labeled with a Record context, the data source mechanism is required. For navigation functions labeled with a Global context, the data source mechanism isn't required.
+    **Note:** For navigation functions labeled with a Record context, the data source mechanism is required. For navigation functions labeled with a Global context, the data source mechanism isn't required.
 
 
-For input actions script examples, refer to the following [[input-actions-script-attachments|Script code for storing user-selected attachments in the database]] and [[input-actions-script-comments|Script code for comment type and updates for input actions]].
+For input actions script examples, refer to the following [Script code for storing user-selected attachments in the database](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/input-actions-script-attachments.md) and [Script code for comment type and updates for input actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/input-actions-script-comments.md).
 
 \[Omitted image "icon-ifs-input-action-more.png"\] Alt text: Two images illustrating how a menu opens from the bottom of the screen after you select the input form action button.
 
-## Related
-
-- [[input-actions-script-attachments|Script code for storing user-selected attachments in the database]]
-- [[input-actions-script-comments|Script code for comment type and updates for input actions]]
-- [[list-screen|List screen]]
-- [[mobile-nav-functions|Navigation functions]]

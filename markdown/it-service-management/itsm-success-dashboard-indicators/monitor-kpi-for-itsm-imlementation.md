@@ -14,11 +14,11 @@ breadcrumb: [Maximise the benefits, ITSM Success Dashboard indicators, IT Servic
 
 # Monitoring the KPIs of your ITSM implementation
 
-View and monitor the [[success-dashboard-indicator-landing|ITSM Success Dashboard indicators]] to measure the performance of your ITSM implementation using the Key Performance Indicators \(KPIs\) defined by ServiceNow.
+View and monitor the ITSM Success Dashboard indicators to measure the performance of your ITSM implementation using the Key Performance Indicators \(KPIs\) defined by ServiceNow.
 
 You can access the aggregated KPI data in the ITSM Success Dashboard indicators by navigating to **All&gt;** &gt; **Success Dashboard** &gt; **Success Dashboard** if you have the sn\_sd.success\_dashboard\_admin, sn\_sd.success\_dashboard\_read, or sn\_sd.success\_dashboard\_details\_read role.
 
-\[Omitted image "sd-overview-fb23.png"\] Alt text: ITSM Success Dashboard [[dex-workspace-dashboard-tab|landing page]]
+\[Omitted image "sd-overview-fb23.png"\] Alt text: ITSM Success Dashboard landing page
 
 You can monitor data by any of the following time aggregations.
 
@@ -34,7 +34,3 @@ For more information on the KPI definitions and formulas, see [HR Success Dashbo
 
 **Parent Topic:**[Maximise the benefits of using the ITSM Success Dashboard indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/measuring-performance-success-dashboard.md)
 
-## Related
-
-- [[success-dashboard-indicator-landing|ITSM Success Dashboard indicators]]
-- [[dex-workspace-dashboard-tab|Landing page]]

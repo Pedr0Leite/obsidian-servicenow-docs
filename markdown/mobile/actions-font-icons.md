@@ -12,11 +12,11 @@ breadcrumb: [Mobile icon reference, Mobile icons, Mobile styles, Mobile app comp
 
 # Actions font icons
 
-Use actions font icons for functions. They can be used on buttons that are located on cards or for [[sg-config-quick-actions|quick actions]]. Actions font icons are in the **now-mobile-icons-buttons** font family.
+Use actions font icons for functions. They can be used on buttons that are located on cards or for quick actions. Actions font icons are in the **now-mobile-icons-buttons** font family.
 
 **Important:**
 
--   When actions font icons are used on card buttons, these icons are available in the button configuration icon picker of [[mobile-card-builder|Mobile Card Builder]]. They do not need to be created as individual records in [[mab-concept|Mobile App Builder]] before you can select them in Mobile Card Builder
+-   When actions font icons are used on card buttons, these icons are available in the button configuration icon picker of Mobile Card Builder. They do not need to be created as individual records in Mobile App Builder before you can select them in Mobile Card Builder
 -   Actions font icons can be used on the button-type icon section of destination records.
 
 ## Usage examples
@@ -1538,11 +1538,5 @@ Australia
  
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[mobile-icon-reference|Mobile icon reference]]
+</table>**Parent Topic:**[Mobile icon reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-icon-reference.md)
 
-## Related
-
-- [[mobile-icon-reference|Mobile icon reference]]
-- [[sg-config-quick-actions|Quick actions]]
-- [[mobile-card-builder|Mobile Card Builder]]
-- [[mab-concept|Mobile App Builder]]

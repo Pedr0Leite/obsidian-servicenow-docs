@@ -14,7 +14,7 @@ breadcrumb: [Managing part requirements, Using Dispatcher Workspace, Assigning t
 
 # Source parts in Dispatcher Workspace
 
-[[c_SourceParts|Source parts]] from your preferred stockrooms or assignment groups to complete the work order task promptly.
+Source parts from your preferred stockrooms or assignment groups to complete the work order task promptly.
 
 ## Before you begin
 
@@ -28,13 +28,13 @@ Parts sourcing is a process of reserving and obtaining parts described in a part
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Field Service** &gt; **Dispatching** &gt; **[[dispatcher-activities|Dispatcher Workspace]]**.
+1.  Navigate to **All** &gt; **Field Service** &gt; **Dispatching** &gt; **Dispatcher Workspace**.
 
 2.  Select **Dispatcher Workspace**.
 
 3.  Select the work order task for which you want to source the parts from the task panel.
 
-4.  Select the **[[c_PartRequirements|Part Requirements]]** tab and view a list of required parts for the task.
+4.  Select the **Part Requirements** tab and view a list of required parts for the task.
 
 5.  Select the part that you want to source.
 
@@ -100,8 +100,3 @@ The transfer order and transfer order line is created for the sourced part.
 
 Complete the transfer orders: If the agent sources parts from other stockrooms or assignment groups, a transfer order line is created automatically. You can then complete the transfer order, confirming the parts are moved to the designated location.
 
-## Related
-
-- [[c_SourceParts|Source parts]]
-- [[dispatcher-activities|Dispatcher Workspace]]
-- [[c_PartRequirements|Part requirements]]

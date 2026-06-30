@@ -12,7 +12,7 @@ breadcrumb: [Mobile Platform]
 
 # Additional resources for Mobile Platform products and solutions
 
-If you’re looking for [[mobile-config-navigation|Mobile Platform]] best practices, troubleshooting, or other implementation guidelines, select a feature or resource type to discover ServiceNow resources on other relevant websites.
+If you’re looking for Mobile Platform best practices, troubleshooting, or other implementation guidelines, select a feature or resource type to discover ServiceNow resources on other relevant websites.
 
 **Note:** Many resources listed in the table require you to log in to sites like ServiceNow University, Now Create, or the ServiceNow Community. If the expected resource does not load, please log in and try to access the resource again.
 
@@ -128,7 +128,7 @@ Design considerations and user experience general guidelines
 
 </td></tr><tr><td>
 
-[[mobile-experience|Mobile Agent app]]
+Mobile Agent app
 
 </td><td>
 
@@ -178,7 +178,7 @@ Design considerations and user experience general guidelines
 
 </td></tr><tr><td>
 
-[[mab-concept|Mobile App Builder]]
+Mobile App Builder
 
 </td><td>
 
@@ -214,7 +214,7 @@ Release notes
 
 </td></tr><tr><td>
 
-[[mobile-card-builder|Mobile Card Builder]]
+Mobile Card Builder
 
 </td><td>
 
@@ -304,7 +304,7 @@ Release notes
 
 </td></tr><tr><td>
 
-[[mobile-security-landing|Mobile security]]
+Mobile security
 
 </td><td>
 
@@ -340,7 +340,7 @@ FAQs
 
 </td></tr><tr><td>
 
-[[now-mobile-app|Now Mobile app]]
+Now Mobile app
 
 </td><td>
 
@@ -390,12 +390,3 @@ Design considerations and user experience general guidelines
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[mobile-config-navigation|Mobile Platform]]
-- [[mobile-experience|Mobile Agent app]]
-- [[mab-concept|Mobile App Builder]]
-- [[mobile-card-builder|Mobile Card Builder]]
-- [[mobile-security-landing|Mobile security]]
-- [[now-mobile-app|Now Mobile app]]

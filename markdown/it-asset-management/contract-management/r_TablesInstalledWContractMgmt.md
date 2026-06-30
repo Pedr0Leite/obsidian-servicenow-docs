@@ -14,7 +14,7 @@ breadcrumb: [Components installed with Contract Management, Contract Management,
 
 # Tables installed with Contract Management
 
-Tables are added with [[c_ContractManagement|Contract Management]].
+Tables are added with Contract Management.
 
 <table id="table_ehg_1qk_35"><thead><tr><th>
 
@@ -30,7 +30,7 @@ Asset Covered \[clm\_m2m\_contract\_asset\]
 
 </td><td>
 
-Lists the assets covered by a contract. An asset can be covered by multiple [[c_Contracts|contracts]] and a contract can have multiple assets.**Note:** The contract\_manager, itil, inventory\_admin, or [[c_Procurement|procurement]]\_user role can only access the reports. You must activate the Procurement \(com.snc.procurement\) plugin for the procurement\_user role and the [[ham-landing-page|Hardware Asset Management]] Professional \(com.sn\_hamp\) plugin for the itil and inventory\_admin roles.
+Lists the assets covered by a contract. An asset can be covered by multiple contracts and a contract can have multiple assets.**Note:** The contract\_manager, itil, inventory\_admin, or procurement\_user role can only access the reports. You must activate the Procurement \(com.snc.procurement\) plugin for the procurement\_user role and the Hardware Asset Management Professional \(com.sn\_hamp\) plugin for the itil and inventory\_admin roles.
 
 </td></tr><tr><td>
 
@@ -70,7 +70,7 @@ Contract History \[clm\_contract\_history\]
 
 </td><td>
 
-Stores a copy of the contract when the start date, end date, or [[c_TermsAndConditions|terms and conditions]] change.
+Stores a copy of the contract when the start date, end date, or terms and conditions change.
 
 </td></tr><tr><td>
 
@@ -99,10 +99,3 @@ Lists the users covered by contracts.
 </td></tr></tbody>
 </table>**Parent Topic:**[Components installed with Contract Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/r_ComponentsInstalledWContractMgmt.md)
 
-## Related
-
-- [[c_ContractManagement|Contract Management]]
-- [[c_Contracts|Contracts]]
-- [[c_Procurement|Procurement]]
-- [[ham-landing-page|Hardware Asset Management]]
-- [[c_TermsAndConditions|Terms and conditions]]

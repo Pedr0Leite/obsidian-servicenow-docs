@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-There are four model types supported: autoregressive integrated moving average \(ARIMA\), probabilistic exponentially weighted moving average \(PEWMA\), Holt-Winters, and seasonal trend decomposition using Loess \(STL\).  [[metricbase|MetricBase]]  uses the model to create a definition of expected, normal values.
+There are four model types supported: autoregressive integrated moving average \(ARIMA\), probabilistic exponentially weighted moving average \(PEWMA\), Holt-Winters, and seasonal trend decomposition using Loess \(STL\).  MetricBase  uses the model to create a definition of expected, normal values.
 
 ## Procedure
 
@@ -134,6 +134,3 @@ Specify whether you want to trigger only on anomalies that occur above predicted
 
 Associate this trigger with a Workflow Studio flow. For more information, see [Assign a trigger to a flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/assign-trigger-to-workflow.md).
 
-## Related
-
-- [[metricbase|MetricBase]]

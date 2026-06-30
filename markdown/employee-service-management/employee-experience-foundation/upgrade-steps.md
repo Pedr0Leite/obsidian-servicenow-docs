@@ -14,7 +14,7 @@ breadcrumb: [Admin configurations, Configuring Employee Center Pro, Employee Cen
 
 # Upgrading to Employee Center Pro
 
-Guidance on preparing for and performing an upgrade from [[employee-center-landing-page|Employee Center]] to [[employee-center-pro-landing|Employee Center Pro]].
+Guidance on preparing for and performing an upgrade from Employee Center to Employee Center Pro.
 
 -   **[Install Employee Center Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/install-ec-pro.md)**  
 Employee Center Pro extends the standard Employee Center capabilities and provides a platform for employees to communicate and be engaged.
@@ -23,7 +23,3 @@ Migrate to the Employee Center Pro portal to provide employees with a unified po
 
 **Parent Topic:**[Employee Center Pro admin configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/configure-ecpro-portal.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[employee-center-pro-landing|Employee Center Pro]]

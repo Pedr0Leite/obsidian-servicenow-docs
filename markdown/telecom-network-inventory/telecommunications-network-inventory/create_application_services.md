@@ -14,7 +14,7 @@ breadcrumb: [Manage your network functions, Define inventory records, Use, Telec
 
 # Define network service instance details
 
-Create an application service instance using the [[telecom-network-inventory|Telecommunications Network Inventory]] application. You can create service instances to model different types of network functions.
+Create an application service instance using the Telecommunications Network Inventory application. You can create service instances to model different types of network functions.
 
 ## Before you begin
 
@@ -26,13 +26,13 @@ When you create a network service instance record, it creates a corresponding co
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then select **Services** &gt; **Service Instance**.
 
 3.  Select **New**.
 
-4.  On the [[application-service-instance-form|Service Instance form]], fill in the fields.
+4.  On the Service Instance form, fill in the fields.
 
     To learn more about fields, see [Service Instance form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/application-service-instance-form.md).
 
@@ -44,7 +44,7 @@ When you create a network service instance record, it creates a corresponding co
 
     If you select **Save** without selecting **Set Inventory Attributes**, it creates a CI record but not a Telecommunications Network Inventory CI record.
 
-6.  On the [[ci-attribue-form|TNI CI Attributes form]], fill in the fields.
+6.  On the TNI CI Attributes form, fill in the fields.
 
     To learn more about the Telecommunications Network Inventory attribute fields, see [TNI CI Attributes form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/ci-attribue-form.md).
 
@@ -55,9 +55,3 @@ When you create a network service instance record, it creates a corresponding co
 
 **Parent Topic:**[Manage your network functions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/services.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[application-service-instance-form|Service Instance form]]
-- [[ci-attribue-form|TNI CI Attributes form]]

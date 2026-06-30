@@ -18,12 +18,7 @@ Event Management architecture integrates data collection, processing, and alerti
 
 ## Architecture
 
-As events occur on various systems, the MID Server connector instance sends them to the main instance. [[c_EM|Event Management]] generates alerts, applies alert management rules, and prioritizes alerts for [[ccg-remediation|remediation]] and root cause analysis. This information can be viewed on [[otto-aiops-dashboards|dashboards]], the alert list in Alert Intelligence, or from a service map.
+As events occur on various systems, the MID Server connector instance sends them to the main instance. Event Management generates alerts, applies alert management rules, and prioritizes alerts for remediation and root cause analysis. This information can be viewed on dashboards, the alert list in Alert Intelligence, or from a service map.
 
 \[Omitted image "EventManagementOverview.png"\] Alt text: Event Management architecture
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[ccg-remediation|Remediation]]
-- [[otto-aiops-dashboards|Dashboards]]

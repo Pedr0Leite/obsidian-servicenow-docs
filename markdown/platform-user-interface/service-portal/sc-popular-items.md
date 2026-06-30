@@ -66,12 +66,9 @@ You can view order guides in the Service Catalog Popular Items widget as a stand
 
 [SC Wish List Cart widget]()
 
-[Create and edit a page using the [[c_ServicePortal|Service Portal]] Designer]()
+[Create and edit a page using the Service Portal Designer]()
 
 [Configure widget instances]()
 
 [Clone a widget]()
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]

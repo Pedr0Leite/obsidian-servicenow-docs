@@ -14,15 +14,15 @@ breadcrumb: [Reviewing of scans, Using Instance Scan, Instance Scan, Maintain an
 
 # Results
 
-An [[hs-landing-page|Instance Scan]] result reports the status and type of scan. You can also see all the checks that ran as part of the scan and all other information related to the scan such as errors and scan logs.
+An Instance Scan result reports the status and type of scan. You can also see all the checks that ran as part of the scan and all other information related to the scan such as errors and scan logs.
 
-On selecting **Go to Result** from the progress tracker of a scan, the Scan Result is identified by a **Result Number**. Select **Results Dashboard** to view the [[hc-scan-results|scan results]].
+On selecting **Go to Result** from the progress tracker of a scan, the Scan Result is identified by a **Result Number**. Select **Results Dashboard** to view the scan results.
 
 The **Scan Type** field states the type of scan that was executed. The **Status** field shows the status of the scan which can either be **In progress**, **Complete** or **Failed**. The **Execution Time** field shows the duration of the scan in milliseconds.
 
 There are the following related lists in the **Scan Result** form.
 
--   **Scan [[hs-findings|Findings]]**
+-   **Scan Findings**
 
     The Scan Findings related list shows up all the findings encountered during the execution of the checks.
 
@@ -56,8 +56,3 @@ Scan Results dashboard helps you with an overview of all details of an executed 
 
 **Parent Topic:**[Reviewing of scans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-review-scans.md)
 
-## Related
-
-- [[hs-landing-page|Instance Scan]]
-- [[hc-scan-results|Scan results]]
-- [[hs-findings|Findings]]

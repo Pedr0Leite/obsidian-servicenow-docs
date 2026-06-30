@@ -14,13 +14,13 @@ breadcrumb: [Configuring Cloud Services Catalog Terraform Connector, Cloud Servi
 
 # Install Cloud Services Catalog Terraform Connector
 
-You can install the [[cpg-terraform-connector-landing-page|Cloud Services Catalog Terraform Connector]] application \(com.sn\_cmp\_terraform\) if you have the admin role.
+You can install the Cloud Services Catalog Terraform Connector application \(com.sn\_cmp\_terraform\) if you have the admin role.
 
 ## Before you begin
 
 -   Ensure that the application and all of its associated ServiceNow Store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
 -   Review the [Cloud Services Catalog: Terraform Connector](https://store.servicenow.com/sn_appstore_store.do#!/store/application/9b04ffc20b1323002530a387b6673a1d/) application listing in the ServiceNow Store for information on dependencies, licensing or subscription requirements, and release compatibility.
--   Ensure that [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] \(com.snc.cloud.mgmt\) application is installed and activated in the ServiceNow AI Platform. For more information, see [Request the Cloud Provisioning and Governance application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/request-plugin-cloud-mgt.md).
+-   Ensure that Cloud Provisioning and Governance \(com.snc.cloud.mgmt\) application is installed and activated in the ServiceNow AI Platform. For more information, see [Request the Cloud Provisioning and Governance application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/request-plugin-cloud-mgt.md).
 
 Role required: admin
 
@@ -48,7 +48,3 @@ Role required: admin
 -   If you want to use Cloud Services Catalog Terraform Connector with Terraform Open Source, [Create a Terraform Open Source config provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/setup-cpg-terraform-connector-for-terraform-open-source.md).
 -   If you want to use Cloud Services Catalog Terraform Connector with Terraform Enterprise, [Create a Terraform Enterprise or Terraform Cloud config provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/setup-cpg-terraform-connector-for-terraform-enterprise.md).
 
-## Related
-
-- [[cpg-terraform-connector-landing-page|Cloud Services Catalog Terraform Connector]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]

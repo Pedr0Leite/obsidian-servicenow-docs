@@ -28,7 +28,7 @@ Role required: sn\_risk.manager
 
 3.  Search for and select a risk from the list on the left.
 
-    Risks are organized hierarchically by [[entity-class|entity class]], then by entity.
+    Risks are organized hierarchically by entity class, then by entity.
 
 4.  In the center tree, point to the upstream or downstream risk that should be disassociated from the selected center risk.
 
@@ -41,6 +41,3 @@ Role required: sn\_risk.manager
 
 **Parent Topic:**[Use entity and risk dependencies using the GRC: Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/grc-workbench.md)
 
-## Related
-
-- [[entity-class|entity class]]

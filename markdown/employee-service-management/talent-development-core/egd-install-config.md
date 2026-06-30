@@ -14,7 +14,7 @@ breadcrumb: [Talent Development Core, Growth Experiences, HR Service Delivery, E
 
 # Installing and configuring the Talent Development Core app
 
-Install and configure the [[egd-landing-page|Talent Development Core]] app. Talent Development Core is an app in a suite of ServiceNow apps and features that define a workflow for employees and managers to take control of their career development and growth.
+Install and configure the Talent Development Core app. Talent Development Core is an app in a suite of ServiceNow apps and features that define a workflow for employees and managers to take control of their career development and growth.
 
 -   **[Install the Talent Development Core application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-core-install.md)**  
 Install the Talent Development app to enable employees and managers to identify, create, and manage career growth and development plans.
@@ -23,6 +23,3 @@ Validate that these Talent Development Core features still works after you make 
 
 **Parent Topic:**[HR Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-service-delivery.md)
 
-## Related
-
-- [[egd-landing-page|Talent Development Core]]

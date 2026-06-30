@@ -14,10 +14,10 @@ breadcrumb: [Career Conversations, Growth Experiences, HR Service Delivery, Empl
 
 # Career Conversations reference
 
-Administrators use [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] information to configure and maintain applications and features.
+Administrators use reference information to configure and maintain applications and features.
 
 -   **[Components installed with Career Conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/egd-activities-components-roles-tables.md)**  
-Several types of components install with [[egd-activities-conversations-module|Career Conversations]], including roles and tables.
+Several types of components install with Career Conversations, including roles and tables.
 -   **[Career Conversations Conversations reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/egd-activities-conversations-form.md)**  
 Career Conversations administrators create conversations that are used by managers and employees.
 -   **[Create Suggested Talking Points reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/egd-activities-create-talking-point-form.md)**  
@@ -27,7 +27,3 @@ Career Conversations administrators can manage conversations that are used by ma
 
 **Parent Topic:**[HR Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-service-delivery.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[egd-activities-conversations-module|Career Conversations]]

@@ -30,7 +30,7 @@ Easily create new inspection records. Assign these inspection records to yoursel
 
 2.  In the navigation bar, tap **Home**.
 
-3.  Select **My inspections** from the [[emp-center-quick-link-config|quick links]] to open a list of inspections.
+3.  Select **My inspections** from the quick links to open a list of inspections.
 
 4.  Select **Create new inspection** to add a new inspection.
 
@@ -47,6 +47,3 @@ Easily create new inspection records. Assign these inspection records to yoursel
 
 **Parent Topic:**[Manage safety inspections and audits through the mobile apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-manage-safety-inspection-audits-mobile.md)
 
-## Related
-
-- [[emp-center-quick-link-config|Quick links]]

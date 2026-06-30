@@ -14,7 +14,7 @@ breadcrumb: [Administer, Threat Intelligence Security Center, Security Operation
 
 # Add to TAXII Collections from Library List View
 
-Add to TAXII Collections feature enables analysts to add the selected [[threat-intel-landing-page|threat intelligence]] including [[c_Observables|observables]], [[indicator|indicators]], and objects such as [[attack-patterns|attack patterns]], [[threat-actors|threat actors]] and so on directly to TAXII collections.
+Add to TAXII Collections feature enables analysts to add the selected threat intelligence including observables, indicators, and objects such as attack patterns, threat actors and so on directly to TAXII collections.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Following is the procedure that shows how to add TAXII collections to an observa
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Threat Intel Library** &gt; **Observables** &gt; **All Observables**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center** &gt; **Threat Intel Library** &gt; **Observables** &gt; **All Observables**.
 
 2.  Select the observable type.
 
@@ -77,7 +77,7 @@ Following is the procedure that shows how to add TAXII collections to an observa
 
 Once you add the records to the TAXII collections, navigate to **Administration** &gt; **TAXII Outbound Server** &gt; **TAXII Collections** to view the added records under the **TAXII Collection Records** section. For more information, see [Exploring TAXII Outbound Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-taxii-outbound-server.md) and [Viewing TAXII Collection Records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-view-taxii-collection.md).
 
-**[[marking-definitions|Marking Definitions]] for Records Added to TAXII Collections**
+**Marking Definitions for Records Added to TAXII Collections**
 
 When you add a record to a TAXII Collection, the application automatically applies marking definitions to provide additional context about the record.
 
@@ -87,7 +87,7 @@ If a record has a TLP \(Traffic Light Protocol\) classification, such as TLP Whi
 
 This ensures that users accessing the shared intelligence are aware of the requirements of each record. When a record is added to a collection, any relevant metadata or contextual records such as TLP markings are automatically created and linked.
 
-**Note:** When adding records, the Traffic Light Protocol \(TLP\) value associated with the intelligence records is included as a TLP 2.0 [[marking-definition|marking definition]] object. For more information, see [Define Marking Definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/define-market-definition.md).
+**Note:** When adding records, the Traffic Light Protocol \(TLP\) value associated with the intelligence records is included as a TLP 2.0 marking definition object. For more information, see [Define Marking Definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/define-market-definition.md).
 
 **Managing Global Exclusion Rules in TAXII Collections**
 
@@ -102,13 +102,3 @@ When you attempt to add records to a TAXII collection:
 
 For more information on the exclusion rules, see [Configuring Outbound Intel Data Exclusion Rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-outbound-data-exclusion.md).
 
-## Related
-
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[c_Observables|Observables]]
-- [[indicator|Indicators]]
-- [[attack-patterns|Attack patterns]]
-- [[threat-actors|Threat actors]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[marking-definitions|Marking definitions]]
-- [[marking-definition|Marking Definition]]

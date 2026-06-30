@@ -14,7 +14,7 @@ breadcrumb: [Configure, Security Incident Response Workspace, Security Incident 
 
 # Configure SI design time investigation
 
-Use this section to configure security incident design time investigation page to add multiple entry points and its associated records within the [[sir-workspace-landing-page|Security Incident Response Workspace]].
+Use this section to configure security incident design time investigation page to add multiple entry points and its associated records within the Security Incident Response Workspace.
 
 Role required: sn\_si.admin.
 
@@ -32,7 +32,7 @@ Configure the new entry point list to add it to the investigation page.
 -   **[Mapping View of the Associate Info to the entry point list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/map-view-to-the-entry-point-list.md)**  
 Map the associated info view to the newly added entry point list using the Map Associated Info View action.
 -   **[Configure each associated list from the view to handle run time data rendering](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/configure-associated-list.md)**  
-[[configure-associated-list|Configure each associated list from the view to handle run time data rendering]].
+Configure each associated list from the view to handle run time data rendering.
 
 **Parent Topic:**[Configuring SIR Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/configuring-security-incident-response-workspace.md)
 
@@ -55,7 +55,7 @@ Map the associated info view to the newly added entry point list using the Map A
 
 [Category management in Security Incident Response]()
 
-[View and update [[sir-landing-page|Security Incident Response]] system properties]()
+[View and update Security Incident Response system properties]()
 
 [Create quick filters for Security Incidents and Response Tasks lists]()
 
@@ -63,8 +63,3 @@ Map the associated info view to the newly added entry point list using the Map A
 
 [Explore Investigation Canvas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/explore-investigation-in-sir-workspace.md)
 
-## Related
-
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[configure-associated-list|Configure each associated list from the view to handle run time data rendering]]
-- [[sir-landing-page|Security Incident Response]]

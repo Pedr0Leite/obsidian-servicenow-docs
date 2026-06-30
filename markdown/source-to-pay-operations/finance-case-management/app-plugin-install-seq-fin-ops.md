@@ -14,7 +14,7 @@ breadcrumb: [Components installed with Finance Case Management, Install Finance 
 
 # Application plugin installation sequence in Finance Case Management
 
-View the consolidated list of plugins, high-level description of each plugin, and the dependencies that are required before installing each plugin in [[fin-case-mgmt-landing-page|Finance Case Management]].
+View the consolidated list of plugins, high-level description of each plugin, and the dependencies that are required before installing each plugin in Finance Case Management.
 
 ## Application plugin list
 
@@ -97,7 +97,7 @@ Maintains primary data such as Enterprise Resource Planning \(ERP\) sources, leg
 
 </td></tr><tr><td>
 
-[[awa-spo|Advanced Work Assignment for Source-to-Pay Operations]] \(snc.sn\_spend\_awa\)
+Advanced Work Assignment for Source-to-Pay Operations \(snc.sn\_spend\_awa\)
 
 </td><td>
 
@@ -105,13 +105,8 @@ Provides configurations to support automatic routing, queuing, and assignment of
 
 </td><td>
 
-[[advanced-work-assignment|Advanced Work Assignment]] \(glide.awa\)
+Advanced Work Assignment \(glide.awa\)
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Components installed with Finance Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/installed-with-fin-ops.md)
 
-## Related
-
-- [[fin-case-mgmt-landing-page|Finance Case Management]]
-- [[awa-spo|Advanced Work Assignment for Source-to-Pay Operations]]
-- [[advanced-work-assignment|advanced work assignment]]

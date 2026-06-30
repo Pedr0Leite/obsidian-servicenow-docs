@@ -14,9 +14,9 @@ breadcrumb: [Reference, Workplace Reservations for Microsoft Outlook Add-in, Wor
 
 # Properties installed with Workplace Reservations for Microsoft Outlook Add-in
 
-Customize the properties available with [[workplace-rsv-for-outlook-addin-feat|Workplace Reservations for Microsoft Outlook Add-in]].
+Customize the properties available with Workplace Reservations for Microsoft Outlook Add-in.
 
-These properties are available for [[workplace-space-mgmt-ovw|Workplace Space Management]].
+These properties are available for Workplace Space Management.
 
 **Note:** All of these properties are located in the System Properties \[sys\_properties\] table. To access the table, enter `sys_properties.list` in the navigation filter.
 
@@ -34,7 +34,7 @@ sn\_wsd\_msaddin.default\_reservable\_module
 
 </td><td>
 
-This property enables you to specify the default reservable module [[reservation-portal|make a reservation]]. The workplace items of the reservable module are displayed to make a reservation. Specify the sys\_id of the reservable module.-   Type: String
+This property enables you to specify the default reservable module make a reservation. The workplace items of the reservable module are displayed to make a reservation. Specify the sys\_id of the reservable module.-   Type: String
 -   Default value: **c31241cedb7650106c731dcd13961917**
 
 </td></tr><tr><td>
@@ -52,7 +52,7 @@ sn\_wsd\_msaddin.resource\_exclude\_list
 
 </td><td>
 
-This property enables you to exclude a room if you do not want it to appear in the Microsoft Outlook Add-in page. Specify either the room name or the email id of the room. If you are specifying the room name, ensure that the name is same as configured in the [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] application.-   Type: String
+This property enables you to exclude a room if you do not want it to appear in the Microsoft Outlook Add-in page. Specify either the room name or the email id of the room. If you are specifying the room name, ensure that the name is same as configured in the Workplace Reservation Management application.-   Type: String
 -   Default value: &lt;empty&gt;
 
 </td></tr></tbody>
@@ -63,9 +63,3 @@ This property enables you to exclude a room if you do not want it to appear in t
 
 [Components installed with Workplace Reservations for Microsoft Outlook Add-in]()
 
-## Related
-
-- [[workplace-rsv-for-outlook-addin-feat|Workplace Reservations for Microsoft Outlook Add-in]]
-- [[workplace-space-mgmt-ovw|Workplace Space Management]]
-- [[reservation-portal|Make a reservation]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]

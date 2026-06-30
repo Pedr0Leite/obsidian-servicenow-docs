@@ -14,7 +14,7 @@ breadcrumb: [Localizing Virtual Agent conversations, Localization options for Vi
 
 # Virtual Agent translation tables
 
-[[virtual-agent-landing-page|Virtual Agent]] uses the \[sys\_translated\_text\] and \[sys\_ui\_message\] tables to store translated text.
+Virtual Agent uses the \[sys\_translated\_text\] and \[sys\_ui\_message\] tables to store translated text.
 
 <table id="table_c1f_l12_lpb"><thead><tr><th>
 
@@ -53,6 +53,3 @@ Stores copies of the translations found in the Message \[sys\_ui\_message\] tabl
 </td></tr></tbody>
 </table>**Parent Topic:**[Localizing Virtual Agent conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/localize-va-topic.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

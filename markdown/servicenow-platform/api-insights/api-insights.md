@@ -36,7 +36,7 @@ The ServiceNow® API Insights workspace is an all-in-one application that enable
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about installed components.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights-[[reference|reference]].md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about installed components.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights-reference.md)
 
 </td><td>
 
@@ -49,6 +49,3 @@ The ServiceNow® API Insights workspace is an all-in-one application that enable
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now)
 
-## Related
-
-- [[reference|Reference]]

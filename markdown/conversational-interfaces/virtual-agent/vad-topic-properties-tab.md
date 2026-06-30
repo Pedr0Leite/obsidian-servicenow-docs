@@ -18,9 +18,9 @@ Use the **Topic Properties** tab to identify a topic and how it's used. You can 
 
 The properties that you can specify depend on the method of topic discovery.
 
-Two methods are available in [[assistant-designer|Assistant Designer]]: large language model \(LLM\) or Natural Language Understanding \(NLU\)/Keyword.
+Two methods are available in Assistant Designer: large language model \(LLM\) or Natural Language Understanding \(NLU\)/Keyword.
 
-For example, if you enable NLU/Keyword in [[virtual-agent-landing-page|Virtual Agent]] settings, the topic **Properties** tab includes fields for identifying the NLU model and intent for the topic.
+For example, if you enable NLU/Keyword in Virtual Agent settings, the topic **Properties** tab includes fields for identifying the NLU model and intent for the topic.
 
 For more information, see [Creating a Virtual Agent topic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-virtual-agent-topic.md).
 
@@ -147,7 +147,3 @@ Toggle to allow Virtual Agent to send confirmation messages to users when a valu
 </td></tr></tbody>
 </table>**Parent Topic:**[Assistant Designer interface reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/vad-reference.md)
 
-## Related
-
-- [[assistant-designer|Assistant Designer]]
-- [[virtual-agent-landing-page|Virtual Agent]]

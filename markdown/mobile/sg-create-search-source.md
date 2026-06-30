@@ -46,8 +46,5 @@ In these steps, you create the search source to define what search results your 
     Note that additional search sources can impact the performance of your searches.
 
 
-**Parent Topic:**[[sg-create-custom-search|Configure search criteria]]
+**Parent Topic:**[Configure search criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-create-custom-search.md)
 
-## Related
-
-- [[sg-create-custom-search|Configure search criteria]]

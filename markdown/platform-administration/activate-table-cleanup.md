@@ -32,7 +32,7 @@ Steps
 
 </th></tr></thead><tbody><tr><td id="d71446e61">
 
-**Using the [[c_DataManagement|Data Management]] Console**
+**Using the Data Management Console**
 
 </td><td>
 
@@ -100,7 +100,7 @@ Application
 
 </td><td>
 
-The application scope to which this [[table-cleaner|table cleaner]] job applies.
+The application scope to which this table cleaner job applies.
 
 </td></tr><tr><td>
 
@@ -146,10 +146,5 @@ Condition builder for specifying filter conditions that define the records to be
 
 The table cleanup rule runs automatically and deletes records when they meet the specified record age and any conditions that you set for them.
 
-**Parent Topic:**[[deleting-older-records|Deleting older or unwanted records in Core UI]]
+**Parent Topic:**[Deleting older or unwanted records in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/deleting-older-records.md)
 
-## Related
-
-- [[deleting-older-records|Deleting older or unwanted records in Core UI]]
-- [[c_DataManagement|Data Management]]
-- [[table-cleaner|Table cleaner]]

@@ -48,14 +48,9 @@ sn\_lg\_matter\_legal\_tracker\_invoice\_approval\_route**Note:** For more infor
 
 </td></tr></tbody>
 </table>-   **[Add outside counsel details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/lmm-lt-setup-outside-counsels.md)**  
-[[lmm-lt-setup-outside-counsels|Add outside counsel details]] for an outside firm to enable matter creation in Legal Tracker.
+Add outside counsel details for an outside firm to enable matter creation in Legal Tracker.
 -   **[Add approval route details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/lmm-lt-setup-approval-route.md)**  
-[[lmm-lt-setup-approval-route|Add approval route details]] in [[legal-matter-management-landing-page|Legal Matter Management]] to enable matter creation in Legal Tracker.
+Add approval route details in Legal Matter Management to enable matter creation in Legal Tracker.
 
 **Parent Topic:**[Configure Legal Matter Management to engage with outside counsel using Legal Tracker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/configurations-for-legal-tracker-integration.md)
 
-## Related
-
-- [[lmm-lt-setup-outside-counsels|Add outside counsel details]]
-- [[lmm-lt-setup-approval-route|Add approval route details]]
-- [[legal-matter-management-landing-page|Legal Matter Management]]

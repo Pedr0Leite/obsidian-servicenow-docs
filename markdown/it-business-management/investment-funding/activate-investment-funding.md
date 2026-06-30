@@ -14,7 +14,7 @@ breadcrumb: [Investment Funding, Strategic Portfolio Management]
 
 # Install Investment Funding
 
-You can install the [[investment-funding-overview|Investment Funding]] application \(sn\_invst\_pln\_v2\) from ServiceNow Store if you have the admin role.
+You can install the Investment Funding application \(sn\_invst\_pln\_v2\) from ServiceNow Store if you have the admin role.
 
 ## Before you begin
 
@@ -102,6 +102,3 @@ Several types of components are installed with activation of the Investment Fund
 
 **Parent Topic:**[Investment Funding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/investment-funding/investment-funding-overview.md)
 
-## Related
-
-- [[investment-funding-overview|Investment Funding]]

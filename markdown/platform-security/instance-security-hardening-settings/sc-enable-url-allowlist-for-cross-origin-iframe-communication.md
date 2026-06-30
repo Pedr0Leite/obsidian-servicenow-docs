@@ -18,7 +18,7 @@ Use a system property to enable cross-origin communication between iframes.
 
 Use the **glide.ui.concourse.onmessage\_enforce\_same\_origin** property to prevent cross-origin communication from untrusted domains. If not set to the recommended value of `true` then validation is not performed for cross-origin messaging. If set to `true` then domains listed in the **glide.ui.concourse.onmessage\_enforce\_same\_origin\_whitelist** system property can propagate messages in the UI. Use **glide.ui.concourse.onmessage\_enforce\_same\_origin\_whitelist** to control which domains are allowed.
 
-Ensure that the **glide.ui.concourse.onmessage\_enforce\_same\_origin** property exists in the [[ca-system-properties|System Properties]] \[sys\_properties\] table and is set to `true`.
+Ensure that the **glide.ui.concourse.onmessage\_enforce\_same\_origin** property exists in the System Properties \[sys\_properties\] table and is set to `true`.
 
 ## More information
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -115,7 +115,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]

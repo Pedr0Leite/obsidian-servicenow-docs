@@ -26,7 +26,7 @@ Role required: sn\_eam.enterprise\_asset\_manager
 
 ## Procedure
 
-1.  From the [[using-eam-workspace|Enterprise Asset Workspace]], open the [[inventory-view-am|Inventory view]].
+1.  From the Enterprise Asset Workspace, open the Inventory view.
 
 2.  On the **Recall orders** tab, select **New**.
 
@@ -63,7 +63,7 @@ If you select this option, the **Recall remediation instruction** field appears 
 
 </td></tr><tr><td>
 
-[[c_Models|Models]]
+Models
 
 </td><td>
 
@@ -154,8 +154,3 @@ Additional information about the recall order.
 
 **Parent Topic:**[Managing recalled enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/managing-recalled-enterprise-assets.md)
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[inventory-view-am|Inventory view]]
-- [[c_Models|Models]]

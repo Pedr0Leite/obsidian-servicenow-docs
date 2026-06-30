@@ -14,7 +14,7 @@ breadcrumb: [Manage, Workplace Calendar Synchronization, Workplace Service Deliv
 
 # Events in Workplace Calendar Synchronization
 
-For every reservation-related action, an event is created in [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]
+For every reservation-related action, an event is created in Workplace Calendar Synchronization
 
 ## About Events
 
@@ -22,7 +22,7 @@ When a synchronization is performed, the Workplace Calendar Synchronization appl
 
 The following events are created:
 
--   **Create**: A **Create** event is created whenever a reservation is created in the [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] Reservation portal.
+-   **Create**: A **Create** event is created whenever a reservation is created in the Workplace Reservation Management Reservation portal.
 -   **Update**: An **Update** event is created whenever there’s an update to the reservation created in the Workplace Reservation Management Reservation portal or when a reservation is checked out
 -   **Delete**: A **Delete** event is created whenever there is a reservation cancellation or a No show.
 -   **Read**: A **Read** event is created when the Workplace Reservation Management application intends to read the reservations created on the rooms calendar in the calendar provider. The **Read** event is created only for Google Calendar and Microsoft Exchange On-Premises calendar providers.
@@ -50,7 +50,3 @@ When an event is created, the event details on an Event form are displayed as fo
 -   You can also change the **Payload**, **Provider Payload** and **Response** format from string format to JSON format using the **Format JSON** option. The **Format JSON** helps with the readability of these fields.
 -   If an event fails, you can also manually reprocess the event using the **Re-process** option.
 
-## Related
-
-- [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]

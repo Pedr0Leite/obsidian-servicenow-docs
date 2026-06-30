@@ -15,7 +15,7 @@ breadcrumb: [Now Assist for CSM, Customer Service Management]
 
 # Using Now Assist for Customer Service Management \(CSM\)
 
-If you have an agent role, you can summarize the customer chat conversations, summarize the case details, and generate the case resolution notes with the [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]] application.
+If you have an agent role, you can summarize the customer chat conversations, summarize the case details, and generate the case resolution notes with the Now Assist for Customer Service Management \(CSM\) application.
 
 ## Skills reuse
 
@@ -29,10 +29,10 @@ Summarize your chat conversations to understand the chat context quicker:
 
 Summarize the case details to understand the case context quicker. These summaries are useful for long-running or complex cases that include multiple conversations between agents and customers.
 
-Generate the case resolution notes to wrap up cases faster. When you're ready to propose a solution to a customer, this feature can generate resolution notes and add them to the [[r_CustomerServiceCaseForm|Case form]]. The resolution notes also provide the context about the case resolution to other agents who might encounter similar issues.
+Generate the case resolution notes to wrap up cases faster. When you're ready to propose a solution to a customer, this feature can generate resolution notes and add them to the Case form. The resolution notes also provide the context about the case resolution to other agents who might encounter similar issues.
 
 -   **[Summarize a chat conversation by using Now Assist for Customer Service Management \(CSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/now-assist-csm-summarize-chat.md)**  
-Generate a summary of the Virtual Agent chat history and the chat conversation between a live agent and a customer by using the [[csm-config-ws-chat-summary|chat summarization]] skill in the Now Assist for Customer Service Management \(CSM\) application.
+Generate a summary of the Virtual Agent chat history and the chat conversation between a live agent and a customer by using the chat summarization skill in the Now Assist for Customer Service Management \(CSM\) application.
 -   **[Summarize a Sidebar discussion by using Now Assist for Customer Service Management \(CSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/summarize-sidebar-conversations.md)**  
 Generate a summary of the Sidebar discussions between agents, requesters, and subject matter experts by using the chat summarization skill in the Now Assist for Customer Service Management \(CSM\) application.
 -   **[Generate a chat reply recommendation by using Now Assist for Customer Service Management \(CSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/generate-chat-reply-recommendations.md)**  
@@ -44,7 +44,7 @@ Generate an email response that is based on the case and email context by using 
 -   **[Generate the resolution notes for a case by using Now Assist for Customer Service Management \(CSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/now-assist-csm-generate-resolution.md)**  
 Generate the resolution notes for a case, propose the resolution to the customer, and add the resolution information to the case record by using the resolution notes generation skill in the Now Assist for Customer Service Management \(CSM\) application. By generating the resolution notes, you can wrap up cases faster and provide information about the case resolution to other agents who might encounter similar issues.
 -   **[Generate a knowledge article from the CSM Configurable Workspace and classic environment with Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/Now-Assist-generate-article-csm-workspace.md)**  
-Generate the knowledge articles for resolved and closed cases within the [[csm-workspaces-configure|CSM Configurable Workspace]] and classic environment with Now Assist.
+Generate the knowledge articles for resolved and closed cases within the CSM Configurable Workspace and classic environment with Now Assist.
 -   **[Summarize a call by using Now Assist for Customer Service Management \(CSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/summarize-a-call-by-using-now-assist-for-customer-service-management-csm.md)**  
 Generate a summary of the call conversation between a live agent and a customer by using the call summarization skill in the Now Assist for Customer Service Management \(CSM\) application.
 -   **[Using conversational search in Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/using-conversational-search-in-now-assist-panel.md)**  
@@ -58,13 +58,13 @@ Make informed decisions on cases and email interactions based on requester's sen
 -   **[Request the generative AI capabilities in Customer Service Management by using the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/request-gen-ai-capabilities-csm-now-assist-panel.md)**  
 Request the contextual generative AI capabilities, such as a chat summary, case summary, case resolution notes, call summary, or knowledge article generation in the CSMCustomer Service Management application by using the conversational interface in the Now Assist panel.
 -   **[Use sentiment analysis dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/use-sentiment-analysis-dashboard.md)**  
-Visualize and interpret customer sentiment across cases using the [[case-sentiment-analysis|sentiment analysis]] dashboard and GenAI insight cards.
+Visualize and interpret customer sentiment across cases using the sentiment analysis dashboard and GenAI insight cards.
 -   **[View trending topics dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/view-trending-topics-dashboard.md)**  
 Identify clusters of related records and visualize their volumes and sentiment trends over time using the trending topics dashboard and GenAI-generated insights.
 -   **[Generate activity stream responses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/generate-a-recommendation-to-respond-to-an-activity.md)**  
 Generate recommendations for work notes or comments in a case record using Now Assist and add them to enhance the quality of your interactions with the user.
 -   **[Use automated quality assurance dashboard as a live agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/use-quality-assurance-dashboard-as-an-agent.md)**  
-The [[quality-assurance-management|automated quality assurance]] dashboard provides GenAI-generated quality insights for individual agents, including time-based filters, trend analysis, category and parameter breakdowns, with a detailed list of reviewed cases.
+The automated quality assurance dashboard provides GenAI-generated quality insights for individual agents, including time-based filters, trend analysis, category and parameter breakdowns, with a detailed list of reviewed cases.
 -   **[Use automated quality assurance dashboard as a manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/use-quality-assurance-dashboard-as-a-manager.md)**  
 Access the automated quality assurance dashboard from the CSM Configurable Workspace to view detailed agent performance metrics and quality assurance scoring data.
 -   **[Create a case based on service definition recommendations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/use-service-definition-rec.md)**  
@@ -74,11 +74,3 @@ The Troubleshooting steps identification AI agent fetches the context from a cas
 
 **Parent Topic:**[Now Assist for Customer Service Management \(CSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/now-assist-csm.md)
 
-## Related
-
-- [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]]
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[csm-config-ws-chat-summary|Chat summarization]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[case-sentiment-analysis|Sentiment Analysis]]
-- [[quality-assurance-management|Automated quality assurance]]

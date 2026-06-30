@@ -14,7 +14,7 @@ breadcrumb: [Install HR Service Delivery, Plan your installation, Integrating Se
 
 # Import Update set from XML and install fix script
 
-Import update set from XML to provide cross-scope access to [[hr-service-delivery|HR Service Delivery]] applications and run fix script to display field decorator in the ticket.
+Import update set from XML to provide cross-scope access to HR Service Delivery applications and run fix script to display field decorator in the ticket.
 
 ## Before you begin
 
@@ -27,11 +27,11 @@ Following table depicts the RCA record mapping to its feature.
 |RCA Record|Plugin|Plugin Name|
 |----------|------|-----------|
 |content\_automation\_rca\_records.xml|\{Content Automation\}|\[com.sn\_content\_automation\]|
-|document\_templates\_rca\_records.xml|\{[[document-templates-overview|Document Templates]]\}|\[com.snc.document\_templates\]|
+|document\_templates\_rca\_records.xml|\{Document Templates\}|\[com.snc.document\_templates\]|
 |human\_resources\_core\_rca\_records.xml|\{Human Resources Scoped App: Core\}|\[com.sn\_hr\_core\]|
 |human\_resources\_integrations\_rca\_records.xml|\{Human Resources Scoped App: Integrations\}|\[com.sn\_hr\_integrations\]|
-|human\_resources\_lifecycle\_events\_rca\_records.xml|\{Human Resources Scoped App: [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]\}|\[com.sn\_hr\_lifecycle\_events\]|
-|human\_resources\_service\_portal\_rca\_records.xml|\{ [[employee-center-landing-page|Employee Center]] \}|\[com.sn\_hr\_service\_portal\]|
+|human\_resources\_lifecycle\_events\_rca\_records.xml|\{Human Resources Scoped App: Lifecycle Events\}|\[com.sn\_hr\_lifecycle\_events\]|
+|human\_resources\_service\_portal\_rca\_records.xml|\{ Employee Center \}|\[com.sn\_hr\_service\_portal\]|
 |human\_resources\_workspace\_rca.xml|\{Human Resources Scoped App: Workspace\}|\[com.sn\_hr\_agent\_workspace\]|
 
 For more information about the Update sets, see [Update set transfers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/update-set-transfers.md).
@@ -99,9 +99,4 @@ Role required: admin
 
     The \[Omitted image "teams-decorator.png"\] Alt text: Microsoft Teams decorator icon is displayed as a field decorator in a record.
 
-## Related
 
-- [[hr-service-delivery|HR Service Delivery]]
-- [[document-templates-overview|Document Templates]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[employee-center-landing-page|Employee Center]]

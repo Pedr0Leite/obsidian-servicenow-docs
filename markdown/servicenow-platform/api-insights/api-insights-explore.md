@@ -14,11 +14,11 @@ breadcrumb: [API Insights, Configuration Management Database \(CMDB\), Configura
 
 # Exploring API Insights
 
-Learn about [[api-insights|API Insights]] with a sample workflow and review the benefits it can provide for different users in your organization.
+Learn about API Insights with a sample workflow and review the benefits it can provide for different users in your organization.
 
 ## API Insights overview
 
-API Insights is a centralized workspace for enterprise or software architects and [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]] administrators to analyze and take action on their organization's application programming interface \(API\) inventory.
+API Insights is a centralized workspace for enterprise or software architects and Configuration Management Database \(CMDB\) administrators to analyze and take action on their organization's application programming interface \(API\) inventory.
 
 ## API Insights users
 
@@ -44,7 +44,7 @@ Enterprise architect administrator
 
 </td><td>
 
-Users with the sn\_api\_insights\_ws.api\_mgmt\_architect\_admin role can access the API Insights workspace to search APIs, evaluate metrics on API usage, set parameters for creating an API, [[c_Connect|connect]] APIs to a business context, specify the group attribute for ownership, and associate a workflow for granting access to APIs.
+Users with the sn\_api\_insights\_ws.api\_mgmt\_architect\_admin role can access the API Insights workspace to search APIs, evaluate metrics on API usage, set parameters for creating an API, connect APIs to a business context, specify the group attribute for ownership, and associate a workflow for granting access to APIs.
 
 </td></tr><tr><td>
 
@@ -52,7 +52,7 @@ CMDB administrator
 
 </td><td>
 
-Users with the sn\_cmdb\_admin role can configure and manage the API-related [[cmdb-sgc-available|Service Graph Connectors]]. They can accept or reject clustering recommendations, search for and compare APIs, and adjust settings related to API data management within the CMDB.**Note:** A CMDB administrator needs additional roles such as ml\_report\_user, platform\_ml\_read, and cmdb\_inst\_admin to access some of the features and data.
+Users with the sn\_cmdb\_admin role can configure and manage the API-related Service Graph Connectors. They can accept or reject clustering recommendations, search for and compare APIs, and adjust settings related to API data management within the CMDB.**Note:** A CMDB administrator needs additional roles such as ml\_report\_user, platform\_ml\_read, and cmdb\_inst\_admin to access some of the features and data.
 
 Additionally, the CMDB administrator needs the following security roles to access specific widgets:
 
@@ -66,9 +66,9 @@ Additionally, the CMDB administrator needs the following security roles to acces
 
 \[Omitted image "api-insights-workflow.png"\] Alt text: Workflow describing various tasks a user with the sn\_api\_insights\_ws.api\_mgmt\_architect\_admin, sn\_api\_insights\_ws.api\_mgmt\_architect, or sn\_cmdb\_admin role can perform in API Insights.
 
-1.  A CMDB administrator with the sn\_cmdb\_admin role logs in to API Insights and configures the [[api-sgc-available|API Service Graph Connectors]] to import API data from various sources. Also, reviews and resolves any connection errors to ensure a smooth data import process.
+1.  A CMDB administrator with the sn\_cmdb\_admin role logs in to API Insights and configures the API Service Graph Connectors to import API data from various sources. Also, reviews and resolves any connection errors to ensure a smooth data import process.
 2.  An enterprise architect administrator with the sn\_api\_insights\_ws.api\_mgmt\_architect\_admin role accesses the settings page and adjusts the ownership settings according to their preferences.
-3.  An enterprise architect with the sn\_api\_insights\_ws.api\_mgmt\_architect role navigates to the APIs missing data section to enrich API records by adding relationships and [[reference-document-management|references]]. This includes associating business context, assigning [[enable-ownership-group|ownership groups]], linking product models, and defining API designs.
+3.  An enterprise architect with the sn\_api\_insights\_ws.api\_mgmt\_architect role navigates to the APIs missing data section to enrich API records by adding relationships and references. This includes associating business context, assigning ownership groups, linking product models, and defining API designs.
 4.  The enterprise architect explores the API page, which provides a centralized view of all APIs and views all APIs in one place. They drill down into specific APIs to analyze details such as ownership, deployment locations, consumer usage, security incidents, and alerts. Additionally, they assess how each API fits within the broader ecosystem, identifying key relationships and dependencies in the API relationship map.
 
 ## API Insights benefits
@@ -184,12 +184,3 @@ To learn more about configuring and using API Insights, see:
 -   [Managing API data connections added for Service Graph Connectors in API Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights-managing-connection.md)
 -   [API Insights reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights-reference.md)
 
-## Related
-
-- [[api-insights|API Insights]]
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[c_Connect|Connect]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[api-sgc-available|API Service Graph Connectors]]
-- [[reference-document-management|References]]
-- [[enable-ownership-group|Ownership groups]]

@@ -18,7 +18,7 @@ These Accelerators provide an evaluation of current or proposed solution design.
 
 ## Design Review- Advanced
 
-Design Review- Advanced provides [[impact-landing-page|Impact]] Advanced Customers with a review of either a solution to be implemented or an existing implemented solution, either as it pertains to the ServiceNow AI Platform.
+Design Review- Advanced provides Impact Advanced Customers with a review of either a solution to be implemented or an existing implemented solution, either as it pertains to the ServiceNow AI Platform.
 
 The Accelerator aims to assist Customers in making the best possible solution design decisions that result in better scalability, sustainability, maintainability, and upgradability and leverage the power of the native platform to avoid technical debt and future-state limitations.
 
@@ -35,7 +35,7 @@ The Accelerator aims to assist Customers in making the best possible solution de
     -   Propose action plan items for Customer to execute
 -   **Design Review Deliverable**
     -   Review of what application\(s\) are being reviewed, pain points and use cases
-    -   Aggregation of recommendations from [[impact-squad|Impact Squad]]
+    -   Aggregation of recommendations from Impact Squad
 -   **Customer Review Session \(up to 60 min\)**
 
     Review Design Review Deliverable.
@@ -144,7 +144,7 @@ It aims to assist Customers in making the best possible solution design decision
 
 -   **Platform Background documents, including:**
     -   Platform History information- Platform Implementation Date / Version; Application Families Implemented; Current Implementations; Current or Former Partners; Platform Governance; Platform Administration Team
-    -   Platform Standing information- Architectural Diagram/s; Integration Map/s; Open [[instance-observer-performance|performance]] or platform issues; Next planned upgrade; CSDM / CMDB Maturity; User Community information; Release Management Approach; Change Management Approach; DevOps Information
+    -   Platform Standing information- Architectural Diagram/s; Integration Map/s; Open performance or platform issues; Next planned upgrade; CSDM / CMDB Maturity; User Community information; Release Management Approach; Change Management Approach; DevOps Information
 -   **Application Background documents, including:**
     -   Business Case information– Organizational Goals and Objectives; Use Cases; Related Process Flows; Related Roles &amp; Responsibilities Document; Process Owner\(s\); Business Case; Benefit Case
     -   Business Consideration information– Enablement Approach; Organizational Change Management Approach; Policy / Procedure / Standard Requirements; Audit / Remediation Requirement\(s\)
@@ -163,8 +163,3 @@ This Accelerator does not include in-depth technical reviews of any design – t
 
 ServiceNow is not responsible for development of the solution design or execution of any recommendations.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[impact-squad|Impact Squad]]
-- [[instance-observer-performance|Performance]]

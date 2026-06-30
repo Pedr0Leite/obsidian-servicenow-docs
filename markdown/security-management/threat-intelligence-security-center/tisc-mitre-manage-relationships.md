@@ -14,7 +14,7 @@ breadcrumb: [MITRE-ATT&amp;CK Repository, TISC Library Repository, Threat Intell
 
 # Manage MITRE Relationships
 
-Manage the MITRE [[stix-relationships|relationships]] information that you imported from the MITRE TAXII collections.
+Manage the MITRE relationships information that you imported from the MITRE TAXII collections.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_sec\_tisc.analyst
 
 ## Procedure
 
-1.  To view the MITRE ATT&amp;CK Repository data, navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Threat Intel Library** &gt; **MITRE ATT&amp;CK** &gt; **Relationships**.
+1.  To view the MITRE ATT&amp;CK Repository data, navigate to **Workspaces** &gt; **Threat Intelligence Security Center** &gt; **Threat Intel Library** &gt; **MITRE ATT&amp;CK** &gt; **Relationships**.
 
     You can view the listed relationships.
 
@@ -108,7 +108,3 @@ Define the relationship ID.
 
 **Parent Topic:**[MITRE-ATT&amp;CK Repository](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-mitre-att-ck-framework-overview.md)
 
-## Related
-
-- [[stix-relationships|Relationships]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]

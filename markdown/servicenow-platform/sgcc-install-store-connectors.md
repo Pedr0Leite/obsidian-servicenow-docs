@@ -12,7 +12,7 @@ breadcrumb: [Explore connectors, Configuring SGC Central, SGC Central, Integrati
 
 # Install a Service Graph Connector from ServiceNow Store in SGC Central
 
-Explore ServiceNow Store to request and use a Service Graph Connector with no available entitlements from within the [[sgcc-landing|SGC Central]] view of the [[sg-workspace|Service Graph Workspace]] or CMDB Workspace.
+Explore ServiceNow Store to request and use a Service Graph Connector with no available entitlements from within the SGC Central view of the Service Graph Workspace or CMDB Workspace.
 
 ## Before you begin
 
@@ -28,12 +28,8 @@ Role required: admin
 
 3.  In the Available from ServiceNow Store section, select **Explore in ServiceNow Store**.
 
-4.  On ServiceNow Store, review the list of [[cmdb-sgc-available|Service Graph Connectors]] and install a connector.
+4.  On ServiceNow Store, review the list of Service Graph Connectors and install a connector.
 
     For more information, see the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) website.
 
-## Related
 
-- [[sgcc-landing|SGC Central]]
-- [[sg-workspace|Service Graph Workspace]]
-- [[cmdb-sgc-available|Service Graph Connectors]]

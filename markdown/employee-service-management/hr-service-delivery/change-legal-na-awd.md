@@ -14,7 +14,7 @@ breadcrumb: [Use, HR Service Delivery Advanced Integration with Workday, Integra
 
 # Change legal name through Virtual Agent
 
-Change your legal name change through Virtual Agent chat in [[employee-center-landing-page|Employee Center]].
+Change your legal name change through Virtual Agent chat in Employee Center.
 
 ## Before you begin
 
@@ -56,12 +56,7 @@ Role required: none
 
 [Report an issue with your payslip]()
 
-[Now Assist Virtual Agent topics for [[hr-service-delivery|HR Service Delivery]] Advanced Integration with Workday]()
+[Now Assist Virtual Agent topics for HR Service Delivery Advanced Integration with Workday]()
 
-[Use [[conversational-agents|HCM AI agents]] for HR Service Delivery Advanced Integration with Workday]()
+[Use HCM AI agents for HR Service Delivery Advanced Integration with Workday]()
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[conversational-agents|HCM AI agents]]

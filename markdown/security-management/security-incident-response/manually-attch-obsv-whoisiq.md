@@ -14,7 +14,7 @@ breadcrumb: [RISKIQ and WHOISIQ integration, Security Incident Response integrat
 
 # Create an observable for manual WHOISIQ lookups
 
-Security incident analysts use information from [[tisc-observable-enrichment|observable enrichment]] with the WHOISIQ API to learn more about the email addresses, names, and phone numbers of organizations.
+Security incident analysts use information from observable enrichment with the WHOISIQ API to learn more about the email addresses, names, and phone numbers of organizations.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_si.analyst
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ioc-repository|IoC Repository]]** &gt; **[[c_Observables|Observables]]**.
+1.  Navigate to **All** &gt; **IoC Repository** &gt; **Observables**.
 
     Under the navigation panel, the Observables module is displayed.
 
@@ -67,8 +67,3 @@ If you have created and edited an observable for lookup, run the observable enri
 
 **Next topic:**[Verify expected results for manual WHOISIQ lookups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/verify-expected-rslts-whoisiq.md)
 
-## Related
-
-- [[tisc-observable-enrichment|Observable Enrichment]]
-- [[ioc-repository|IoC Repository]]
-- [[c_Observables|Observables]]

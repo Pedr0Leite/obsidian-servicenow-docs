@@ -26,7 +26,7 @@ Update the function instance manually to redirect ServiceNow® AI Search to the 
 
 ## Procedure
 
-1.  Navigate to **System Mobile** &gt; **[[mobile-employee-experience|Now Mobile App]]** &gt; **Applet Launcher**.
+1.  Navigate to **System Mobile** &gt; **Now Mobile App** &gt; **Applet Launcher**.
 
 2.  In the launcher screen list, select **Homepage**.
 
@@ -49,6 +49,3 @@ The search redirection takes you to the new Now Mobile profile page.
 
 **Parent Topic:**[Employee profile for Now Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/my-team-widget-for-portal-and-mobile.md)
 
-## Related
-
-- [[mobile-employee-experience|Now Mobile app]]

@@ -24,7 +24,7 @@ Role required: sn\_si.admin
 
 1.  On the form, fill in the details.
 
-    Follow the instructions to complete the configuration for updating AWS Security Hub findings when you create or [[close-sir-incident-aiagent|close a security incident]] in SIR.
+    Follow the instructions to complete the configuration for updating AWS Security Hub findings when you create or close a security incident in SIR.
 
 <table id="table_kyc_qbg_p4b"><thead><tr><th>
 
@@ -112,6 +112,3 @@ Select to update the AWS Security Hub closing comments section with the resoluti
 
 The profile moves to the Waiting state. When the confirmation message shows that the setup and configuration is complete, you can activate the profile.
 
-## Related
-
-- [[close-sir-incident-aiagent|Close a security incident]]

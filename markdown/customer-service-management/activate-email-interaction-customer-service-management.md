@@ -13,7 +13,7 @@ breadcrumb: [Email Interaction, Email channel, Enable communication channels, Co
 
 # Activate Email Interaction for CSM
 
-Activate the [[email-as-an-interaction|Email Interaction]] for CSM plugin \(sn\_eaai\_csm\) for new or existing CSM customers. This plugin includes demo data and activates related plugins if they aren’t already active.
+Activate the Email Interaction for CSM plugin \(sn\_eaai\_csm\) for new or existing CSM customers. This plugin includes demo data and activates related plugins if they aren’t already active.
 
 ## Before you begin
 
@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-The flows are deployed with Email Interaction for CSM and are enabled by default for new CSM customers. The flows aren’t enabled by default for existing CSM customers. To manually activate the flows, [[activate-flow-email-interaction|Activate a flow for Email Interaction for CSM]]
+The flows are deployed with Email Interaction for CSM and are enabled by default for new CSM customers. The flows aren’t enabled by default for existing CSM customers. To manually activate the flows, [Activate a flow for Email Interaction for CSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/activate-flow-email-interaction.md)
 
 ## Procedure
 
@@ -50,7 +50,3 @@ The flows are deployed with Email Interaction for CSM and are enabled by default
 
 The Email Interaction for CSM plugin is successfully installed.
 
-## Related
-
-- [[activate-flow-email-interaction|Activate a flow for Email Interaction for CSM]]
-- [[email-as-an-interaction|Email Interaction]]

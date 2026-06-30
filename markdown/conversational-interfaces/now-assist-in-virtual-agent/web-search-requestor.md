@@ -19,7 +19,7 @@ The web search mode performs an internet search to answer a query. Web search mo
 
 **Note:** For more information about how to configure web search and turn on web search, see [Web search custom skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/web-search-custom-skill.md) and [Manage an assistant chat experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/manage-assistant-chat-experience.md).
 
-Web search mode is applicable to [[now-assist-in-va-landing|Now Assist in Virtual Agent]] [[nava-standard-chat|standard chat]] and [[nava-enhanced-chat|enhanced chat]] conversations. Select the Start web search mode icon \(\[Omitted image "Globe.png"\] Alt text: Start web search mode icon.\) to enter into the web search mode. While in this mode, all queries are answered via internet search results rather than internal company search results. When in web search mode, a divider line appears to indicate a conversational shift and the following text appears: `Searching the web (This search is external and does not represent Company content or policies.)`
+Web search mode is applicable to Now Assist in Virtual Agent standard chat and enhanced chat conversations. Select the Start web search mode icon \(\[Omitted image "Globe.png"\] Alt text: Start web search mode icon.\) to enter into the web search mode. While in this mode, all queries are answered via internet search results rather than internal company search results. When in web search mode, a divider line appears to indicate a conversational shift and the following text appears: `Searching the web (This search is external and does not represent Company content or policies.)`
 
 For example, if you ask `What's the latest Macbook pro configuration?` in web search mode, a synthesized response appears along with inline citations and sources.
 
@@ -41,8 +41,4 @@ To exit out of web search mode and return to internal search results, do one of 
 
     **Note:** The Web Search banner is only applicable to enhanced chat conversations.
 
-## Related
 
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]
-- [[nava-standard-chat|Standard chat]]
-- [[nava-enhanced-chat|Enhanced chat]]

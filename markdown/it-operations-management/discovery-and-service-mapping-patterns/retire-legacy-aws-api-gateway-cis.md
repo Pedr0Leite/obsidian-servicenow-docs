@@ -18,7 +18,7 @@ Avoid duplicate AWS API Gateway configuration items \(CIs\) by retiring legacy d
 
 ## Before you begin
 
--   Verify you have at least version 1.29.0 of [[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] Patterns.
+-   Verify you have at least version 1.29.0 of Discovery and Service Mapping Patterns.
 -   Run an AWS discovery to populate the CIs in the managed API data model. For more information, see [Create Discovery schedules for cloud resources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-manager.md).
 
 Role required: admin
@@ -40,7 +40,3 @@ Starting with Discovery and Service Mapping Patterns December release, the Amazo
 
 **Parent Topic:**[Amazon API Gateway discovery with Patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/aws-api-gateway-discovery.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

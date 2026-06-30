@@ -14,7 +14,7 @@ breadcrumb: [Create an achievement definition, Manage Learning, Using My Learnin
 
 # Add associated skills to an achievement
 
-[[add-associated-skills|Add associated skills]] to define the scope of an achievement.
+Add associated skills to define the scope of an achievement.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Create an achievement. For more information, see [Create an achievement definiti
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[exploring-learning-exp|Learning]]** &gt; **[[achievements-lxp|Achievements]]** &gt; **Achievement definitions**.
+1.  Navigate to **All** &gt; **Learning** &gt; **Achievements** &gt; **Achievement definitions**.
 
 2.  Select the achievement that you want to add associated skills to.
 
@@ -37,8 +37,3 @@ Create an achievement. For more information, see [Create an achievement definiti
 
 **Parent Topic:**[Create an achievement definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-achievement.md)
 
-## Related
-
-- [[add-associated-skills|Add associated skills]]
-- [[exploring-learning-exp|Learning]]
-- [[achievements-lxp|Achievements]]

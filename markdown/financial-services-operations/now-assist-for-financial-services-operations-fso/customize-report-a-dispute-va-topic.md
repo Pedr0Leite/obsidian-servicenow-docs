@@ -18,7 +18,7 @@ Review and modify the Virtual Agent topic in Disputes intake via Virtual Agent. 
 
 ## Before you begin
 
-Set the application scope in your instance to **[[card-ops-landing-page|Financial Services Card Operations]]**.
+Set the application scope in your instance to **Financial Services Card Operations**.
 
 Role required: admin
 
@@ -48,6 +48,3 @@ Review and modify the workflow for your business needs.
 
 [Form Data Collector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/learn-about-the-form-data-collector.md)
 
-## Related
-
-- [[card-ops-landing-page|Financial Services Card Operations]]

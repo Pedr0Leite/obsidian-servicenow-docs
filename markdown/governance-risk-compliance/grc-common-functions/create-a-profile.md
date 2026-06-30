@@ -14,7 +14,7 @@ breadcrumb: [Entity scoping, Explore entities, Common GRC features, Governance, 
 
 # Create independent entities
 
-Entities can be created manually, rather than generating them from the [[entity-type-in-risk-ws|entity types]]. Entities can also be created without needing to refer to an existing ServiceNow® table, like assets, applications, business services, or processes.
+Entities can be created manually, rather than generating them from the entity types. Entities can also be created without needing to refer to an existing ServiceNow® table, like assets, applications, business services, or processes.
 
 ## Before you begin
 
@@ -114,7 +114,7 @@ Class
 
 </td><td>
 
-[[entity-class|Entity class]] to which the application belongs.
+Entity class to which the application belongs.
 
 </td></tr><tr><td>
 
@@ -221,7 +221,3 @@ The corresponding score for the calculated ALE:-   Low
 
 **Parent Topic:**[Entity scoping in GRC](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/c_Scoping.md)
 
-## Related
-
-- [[entity-type-in-risk-ws|Entity types]]
-- [[entity-class|entity class]]

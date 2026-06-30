@@ -35,8 +35,5 @@ Role required: admin
 
 ## Result
 
-Any TLD not included in the value field becomes unclickable in [[c_Connect|Connect]].
+Any TLD not included in the value field becomes unclickable in Connect.
 
-## Related
-
-- [[c_Connect|Connect]]

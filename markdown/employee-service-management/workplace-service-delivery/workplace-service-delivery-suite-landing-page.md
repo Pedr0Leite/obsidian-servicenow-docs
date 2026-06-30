@@ -43,7 +43,7 @@ Workflow automation in WSD provides both digital workspace apps and physical wor
 
 ## Optimize space management with space utilization insights
 
-WSD provides a single platform and solution to efficiently manage your organization’s real-estate portfolio. [[workplace-services|Workplace services]] team can maintain facilities more efficiently using a single workspace. Plan and manage your maintenance, leases, and mappings using [[workplace-central-feat|Workplace Central]] and [[workplace-lease-admin-feat|Workplace Lease Administration]].
+WSD provides a single platform and solution to efficiently manage your organization’s real-estate portfolio. Workplace services team can maintain facilities more efficiently using a single workspace. Plan and manage your maintenance, leases, and mappings using Workplace Central and Workplace Lease Administration.
 
 Using the dashboard and analytics capabilities of Workplace Central, workplace managers can allocate workspaces to employees based on their preferences and requirements while simultaneously keeping a tab on space utilization. Facility managers can view space capacity using stack plans and measure the frequency of workspace utilization.
 
@@ -53,11 +53,11 @@ Workplace Service Delivery data model helps facility managers to optimize real-e
 
 ## Lease Administration
 
-Track workplace lease contracts, assets, services, and locations that are part of a contract [[use-lease-administration|using Workplace Lease Administration]]. Workplace managers can use Workplace Lease Administration to create and track workplace contracts. Workplace Managers are notified about expiring contracts, and track services that are part of a contract. Teams can also track locations that are part of a contract and maintain a list of assets in a contract, and manage contract documents.
+Track workplace lease contracts, assets, services, and locations that are part of a contract using Workplace Lease Administration. Workplace managers can use Workplace Lease Administration to create and track workplace contracts. Workplace Managers are notified about expiring contracts, and track services that are part of a contract. Teams can also track locations that are part of a contract and maintain a list of assets in a contract, and manage contract documents.
 
 ## Mobile workplace reservations
 
-Enhance and increase workplace efficiency by using the [[wsd-mobile-overview|Workplace Service Delivery for Mobile]] app. It enables employees, workplace managers and agents to access reservation, employee presence, and work schedule capabilities while on the move from any location any time.
+Enhance and increase workplace efficiency by using the Workplace Service Delivery for Mobile app. It enables employees, workplace managers and agents to access reservation, employee presence, and work schedule capabilities while on the move from any location any time.
 
 \[Omitted image "wsd-mobile-workplace-multiday-toggle-on.png"\] Alt text: Workplace showing options to make bulk reservation using the mobile app.
 
@@ -69,10 +69,3 @@ Enhance and increase workplace efficiency by using the [[wsd-mobile-overview|Wor
 -   Visit the WSD Community Forum. To learn more, visit the [Workplace Service Delivery Community](https://www.servicenow.com/community/wsd/ct-p/workplace-service-delivery).
 -   Visit the Product Hubs. To learn more, visit the [Employee Center Product hub](https://www.servicenow.com/community/employee-center/ct-p/employee-center).
 
-## Related
-
-- [[workplace-services|Workplace Services]]
-- [[workplace-central-feat|Workplace Central]]
-- [[workplace-lease-admin-feat|Workplace Lease Administration]]
-- [[use-lease-administration|Using Workplace Lease Administration]]
-- [[wsd-mobile-overview|Workplace Service Delivery for Mobile]]

@@ -24,15 +24,15 @@ As a project manager, you can do the following:
 
 -   View a list of employees assigned to your project
 -   View a list of spaces allocated for your project
--   [[create-schedule-plan-wfo-hr|Create a schedule plan]] for a specific period to map spaces to the employees
+-   Create a schedule plan for a specific period to map spaces to the employees
 -   Execute a schedule plan to assign spaces to the Workplace Profile of the users
 
 ## Accessing Schedule Planning
 
 You must install the following plugins to use the Schedule Planner module:
 
--   [[workplace-central-feat|Workplace Central]]
--   [[workplace-space-mgmt-ovw|Workplace Space Management]]
+-   Workplace Central
+-   Workplace Space Management
 
 You can install the plugins from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home). You can also visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) website to view all the available apps and for information about submitting requests to the store. For cumulative release notes information of all the released apps, see the [ServiceNow Store release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
@@ -93,8 +93,3 @@ A schedule plan can be in one of the following states:
 
 [Kiosk Indoor Mapping]()
 
-## Related
-
-- [[create-schedule-plan-wfo-hr|Create a schedule plan]]
-- [[workplace-central-feat|Workplace Central]]
-- [[workplace-space-mgmt-ovw|Workplace Space Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Opportunity Marketplace, Hiring Experiences, HR Service Delivery, E
 
 # Install and configure Opportunity Marketplace
 
-Admins install and configure the [[egd-oppt-mrktplc-landing|Opportunity Marketplace]] \(OPM\) application and configure features.
+Admins install and configure the Opportunity Marketplace \(OPM\) application and configure features.
 
 Follow these steps to configure Opportunity Marketplace:
 
@@ -36,6 +36,3 @@ Opportunity Marketplace comes with 3 base system **Opportunity types**. If you n
 
 **Parent Topic:**[Hiring Experiences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hiring-experiences-landing.md)
 
-## Related
-
-- [[egd-oppt-mrktplc-landing|Opportunity Marketplace]]

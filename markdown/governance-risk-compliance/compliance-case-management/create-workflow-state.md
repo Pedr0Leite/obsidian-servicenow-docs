@@ -14,7 +14,7 @@ breadcrumb: [Configure, Compliance Case Management, Governance, Risk, and Compli
 
 # Create a workflow state for a compliance case or request
 
-Create a workflow state for a compliance case or request to define the life cycle of the case or request using the [[compliance-case-management|Compliance Case Management]] application. GRC State Model is to configure the states and the state transitions that are created as part of the table.
+Create a workflow state for a compliance case or request to define the life cycle of the case or request using the Compliance Case Management application. GRC State Model is to configure the states and the state transitions that are created as part of the table.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ To create new states for the compliance case, the admin must create a new state 
 
 4.  Fill in the fields on the form.
 
-    For a description of the field values on the [[workflow-state-form|Workflow state form]], see [Workflow State form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/workflow-state-form.md).
+    For a description of the field values on the Workflow state form, see [Workflow State form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/workflow-state-form.md).
 
 5.  Select **Submit**.
 
@@ -44,7 +44,3 @@ Use the Workflow State form to define the workflow states in the GRC: Compliance
 
 **Parent Topic:**[Configuring Compliance Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/configure-compliance-case-management.md)
 
-## Related
-
-- [[compliance-case-management|compliance case management]]
-- [[workflow-state-form|workflow state form]]

@@ -14,9 +14,9 @@ breadcrumb: [Configure trigger conditions for an assessment, Assessment administ
 
 A trigger condition tells the system who to send a designated assessment to and when, based on specific conditions.
 
-With trigger conditions, assessment administrators can configure the system to generate [[r_Assessments|assessments]] each time a specific action occurs, such as when an incident or change request closes. The trigger condition sends the assessment to specified users who are related to the triggering record, such as incident callers or change request assignees. You can choose to send the assessment every time the condition is met, or set a probability for the system to send the assessment at random when the condition is met.
+With trigger conditions, assessment administrators can configure the system to generate assessments each time a specific action occurs, such as when an incident or change request closes. The trigger condition sends the assessment to specified users who are related to the triggering record, such as incident callers or change request assignees. You can choose to send the assessment every time the condition is met, or set a probability for the system to send the assessment at random when the condition is met.
 
-For a description of the field values in Trigger Condition form, see [[trigger-condition-form-for-assessment|Trigger Condition form for assessments]].
+For a description of the field values in Trigger Condition form, see [Trigger Condition form for assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/trigger-condition-form-for-assessment.md).
 
 <table id="table_znx_kb2_5s"><thead><tr><th>
 
@@ -107,7 +107,7 @@ Condition
 \[State\] \[is\] \[Closed\] and \[Vendor\] \[is not empty\]
 
 </td></tr></tbody>
-</table>## [[r_TriggerConditionExample|Trigger condition example]]
+</table>## Trigger condition example
 
 Modesto Scroggie is the caller on an incident that is assigned to Boris Catino, a service desk technician. Boris contacts a vendor to resolve Modesto's issue and sets the **Vendor** field to **Microsoft**. When the incident closes, the system creates an assessment instance assigned to Boris so Boris can evaluate Microsoft as a vendor.
 
@@ -118,11 +118,5 @@ Because two related fields were selected as part of the trigger condition, the a
 
 **Note:** Even though the trigger condition is set to be triggered every time the conditions are met, the **Repeat Interval** setting ensures that Boris does not receive another assessment if another vendor incident assigned to him closes within 30 days of the first one.
 
-**Parent Topic:**[[t_CreateTriggerAssessment|Configure trigger conditions for an assessment]]
+**Parent Topic:**[Configure trigger conditions for an assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateTriggerAssessment.md)
 
-## Related
-
-- [[trigger-condition-form-for-assessment|Trigger Condition form for assessments]]
-- [[t_CreateTriggerAssessment|Configure trigger conditions for an assessment]]
-- [[r_Assessments|Assessments]]
-- [[r_TriggerConditionExample|Trigger condition example]]

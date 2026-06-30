@@ -29,7 +29,7 @@ You should specify this information while answering catalog item questions.
 
 Using the **Enable also request for** field of the Requested For variable, you can request a catalog item for different users under one request.
 
-For information about [[delegated-request-exp|delegated request experience]], see [Delegated request experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/delegated-request-exp.md).
+For information about delegated request experience, see [Delegated request experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/delegated-request-exp.md).
 
 **Important:**
 
@@ -97,6 +97,3 @@ For information about [[delegated-request-exp|delegated request experience]], se
 
 [Variable support in various channels]()
 
-## Related
-
-- [[delegated-request-exp|Delegated request experience]]

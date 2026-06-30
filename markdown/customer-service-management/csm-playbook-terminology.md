@@ -63,7 +63,7 @@ An activity is one step in the overall business process represented in a playboo
 </td></tr></tbody>
 </table>## Playbook UI components
 
-Customer service agents interact with playbooks in [[csm-workspaces-configure|CSM Configurable Workspace]]. The record pages that display playbooks in a workspace are created or customized in [UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder-overview.md). Different components make up the playbook record pages.
+Customer service agents interact with playbooks in CSM Configurable Workspace. The record pages that display playbooks in a workspace are created or customized in [UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder-overview.md). Different components make up the playbook record pages.
 
 <table id="table_a2t_xmt_bcc"><thead><tr><th>
 
@@ -95,7 +95,7 @@ Horizontal stage picker
 
 </td><td>
 
-A horizontal stage picker displays the playbook stages horizontally at the top of the record page and [[migration-form-highlights|highlights]] the current stage. It displays activities within the current stage in the activity picker.\[Omitted image "csm-playbook-horiz-stage-picker.png"\] Alt text: playbook horizontal stage picker with four stages: Intake, Investigate, Work in progress, Resolve
+A horizontal stage picker displays the playbook stages horizontally at the top of the record page and highlights the current stage. It displays activities within the current stage in the activity picker.\[Omitted image "csm-playbook-horiz-stage-picker.png"\] Alt text: playbook horizontal stage picker with four stages: Intake, Investigate, Work in progress, Resolve
 
 </td></tr><tr><td>
 
@@ -131,8 +131,3 @@ An activity card displays the details of the current activity. Users use the car
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[migration-form-highlights|Highlights]]

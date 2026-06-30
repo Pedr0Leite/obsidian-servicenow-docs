@@ -28,17 +28,12 @@ Metric templates are available for metrics that have **Template** as the Data ty
 |Quality|Very Poor, Poor, Average, Good, Very Good|
 |Complexity|Very Complex, Complex, Moderate, Simple, Very Simple|
 
-**Parent Topic:**[[t_CreateAMetricTemplate|Create a metric template]]
+**Parent Topic:**[Create a metric template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateAMetricTemplate.md)
 
 **Related topics**  
 
 
-[[c_AssessmentMetrics|Assessment metrics]]
+[Assessment metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentMetrics.md)
 
-[[t_CreateAMetricDefinition|Create an assessment metric definition]]
+[Create an assessment metric definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateAMetricDefinition.md)
 
-## Related
-
-- [[t_CreateAMetricTemplate|Create a metric template]]
-- [[c_AssessmentMetrics|Assessment metrics]]
-- [[t_CreateAMetricDefinition|Create an assessment metric definition]]

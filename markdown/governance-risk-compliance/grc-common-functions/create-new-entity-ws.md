@@ -14,7 +14,7 @@ breadcrumb: [Entities in workspace view, Explore entities, Common GRC features, 
 
 # Create an entity
 
-Create an entity for your enterprise. In [[r_WhatIsGRC|Governance, Risk, and Compliance]], entities can be people, processes, departments, applications, or objects. These entities have controls that are defined to mitigate their exposure, and their audits must be completed.
+Create an entity for your enterprise. In Governance, Risk, and Compliance, entities can be people, processes, departments, applications, or objects. These entities have controls that are defined to mitigate their exposure, and their audits must be completed.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Roles required: sn\_grc.manager, sn\_risk\_workspace.IT\_risk\_manager, and sn\_
 
 ## About this task
 
-An entity is an object for an action. The entities have controls to mitigate their risk exposure. Follow this procedure to create new entities for your organization and view the downstream hierarchy, [[entity-type-in-risk-ws|entity types]], policies, and so on, related to the entity.
+An entity is an object for an action. The entities have controls to mitigate their risk exposure. Follow this procedure to create new entities for your organization and view the downstream hierarchy, entity types, policies, and so on, related to the entity.
 
 ## Procedure
 
-1.  Navigate to the desired workspace, go to the [[list-view-uib-ws|List view]], and click **Entities**.
+1.  Navigate to the desired workspace, go to the List view, and click **Entities**.
 
 2.  To create a new entity, click **New**.
 
@@ -52,7 +52,7 @@ An entity is an object for an action. The entities have controls to mitigate the
 
     **Note:** When you create a new entity, only the **Details** tab is displayed. After the new entity is created, the **Overview** tab, **Details** tab, and other related lists are displayed.
 
-    After saving the entity, a new entity form is displayed with the Details tab, [[hierarchy-tab|Hierarchy tab]], and the following related lists:
+    After saving the entity, a new entity form is displayed with the Details tab, Hierarchy tab, and the following related lists:
 
     -   Entity types
     -   Downstream risks
@@ -73,9 +73,3 @@ An entity is an object for an action. The entities have controls to mitigate the
 
 **Parent Topic:**[An entity in the workspace view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/entities-in-risk-ws.md)
 
-## Related
-
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]
-- [[entity-type-in-risk-ws|Entity types]]
-- [[list-view-uib-ws|List view]]
-- [[hierarchy-tab|Hierarchy tab]]

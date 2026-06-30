@@ -27,7 +27,7 @@ For the timeline of your portfolio plan or free-form roadmap, create milestones 
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]]** and open your roadmap.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Portfolio Planning** and open your roadmap.
 
 <table id="choicetable_vwv_t4z_5wb"><thead><tr><th align="left" id="d298624e96">
 
@@ -95,7 +95,3 @@ Update or delete the milestones that you added to your portfolio plan or free-fo
 
 [Customizing milestones display on roadmap in Strategic Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/personalizing-the-milestones-display-on-the-roadmap.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

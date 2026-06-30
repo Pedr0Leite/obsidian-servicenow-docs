@@ -33,7 +33,7 @@ Automate enrichment of IOC’s triggers only when:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Administration**.
+1.  Navigate to **All** &gt; **Threat Intelligence Security Center** &gt; **Administration**.
 
 2.  Select **Automated Flows**.
 
@@ -49,13 +49,13 @@ Automate enrichment of IOC’s triggers only when:
 
     1.  Add the observable to Allow List.
 
-    2.  Update the [[c_Observables|observables]] tags to Skip Enrichment.
+    2.  Update the observables tags to Skip Enrichment.
 
     3.  End the flow for this observable.
 
 6.  **Else, enrich the observable data with available capabilities:**
 
-    1.  Perform [[tisc-threat-lookup|threat lookup]] and sighting search to gather additional information about the observable.
+    1.  Perform threat lookup and sighting search to gather additional information about the observable.
 
     2.  Update the observable with enriched data.
 
@@ -79,7 +79,7 @@ Automate enrichment of IOC’s triggers only when:
 
 [Automated sharing of high-risk IOC's with trusted partners]()
 
-[Automatically add [[threat-intel-landing-page|threat intelligence]] to a TAXII collection]()
+[Automatically add threat intelligence to a TAXII collection]()
 
 [Create vulnerability assessment for zero day]()
 
@@ -91,14 +91,7 @@ Automate enrichment of IOC’s triggers only when:
 
 [Zero-day vulnerability tracking]()
 
-[Automatic [[threat-actor|Threat Actor]] priority tagging]()
+[Automatic Threat Actor priority tagging]()
 
 [Automated flows tables]()
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[c_Observables|Observables]]
-- [[tisc-threat-lookup|Threat Lookup]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[threat-actor|Threat Actor]]

@@ -14,7 +14,7 @@ breadcrumb: [Legal Hold Notification, Legal Service Delivery Practice Applicatio
 
 # Exploring Legal Hold Notification
 
-Explore the [[lg-hold-notif-landing-page|Legal Hold Notification]] application to understand its workflow, user roles, and the key benefits it offers across your organization.
+Explore the Legal Hold Notification application to understand its workflow, user roles, and the key benefits it offers across your organization.
 
 ## Legal Hold Notification overview
 
@@ -53,7 +53,7 @@ Legal Hold Notification provides the following benefits:
 
 ## What to explore next
 
-To find out more about configuring and [[use-lg-hold-notif|using Legal Hold Notification]], see:
+To find out more about configuring and using Legal Hold Notification, see:
 
 -   [Configure Legal Hold Notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/config-lg-hold-notif.md)
 -   [Using Legal Hold Notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/use-lg-hold-notif.md)
@@ -61,7 +61,3 @@ To find out more about configuring and [[use-lg-hold-notif|using Legal Hold Noti
 
 **Parent Topic:**[Legal Hold Notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/lg-hold-notif-landing-page.md)
 
-## Related
-
-- [[lg-hold-notif-landing-page|Legal Hold Notification]]
-- [[use-lg-hold-notif|Using Legal Hold Notification]]

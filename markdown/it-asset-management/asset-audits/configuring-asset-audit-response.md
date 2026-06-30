@@ -14,7 +14,7 @@ breadcrumb: [Asset Audit Response, IT Asset Management]
 
 # Configuring Asset Audit Response
 
-Configure the [[asset-audit-response|Asset Audit Response]] application so that you can track and manage your financial regulatory audit engagements, evidence requests, and responses to those requests.
+Configure the Asset Audit Response application so that you can track and manage your financial regulatory audit engagements, evidence requests, and responses to those requests.
 
 ## Configuration overview
 
@@ -23,6 +23,3 @@ You can install the Asset Audit Response application \(com.sn\_audit\_response\)
 
 **Parent Topic:**[Asset Audit Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-audits/asset-audit-response.md)
 
-## Related
-
-- [[asset-audit-response|Asset Audit Response]]

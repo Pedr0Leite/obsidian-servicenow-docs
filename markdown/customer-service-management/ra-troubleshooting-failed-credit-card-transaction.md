@@ -26,12 +26,7 @@ Help process analysts configure a recommended action of type decision tree that 
 
 |Task|Description|
 |----|-----------|
-|Creating a decision tree|Create a decision tree that enables agents to ask a series of questions to customers. Based on the answers provided, agents can troubleshoot and provide resolution to customer issues. For more information about how to configure a decision tree in Decision Tree Builder, see [[example-decision-tree|Troubleshoot a failed credit card transaction decision tree]].|
-|[[ex-create-rule|Create a rule from the Case context record]]|Create a rule to show recommendations for active cases that meet the condition specified in this rule.|
-|[[ex-create-recommendation|Create a recommendation with the decision tree as an action type]]|Create a recommendation that uses decision tree to troubleshoot a failed credit card transaction.|
+|Creating a decision tree|Create a decision tree that enables agents to ask a series of questions to customers. Based on the answers provided, agents can troubleshoot and provide resolution to customer issues. For more information about how to configure a decision tree in Decision Tree Builder, see [Troubleshoot a failed credit card transaction decision tree](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/example-decision-tree.md).|
+|[Create a rule from the Case context record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ex-create-rule.md)|Create a rule to show recommendations for active cases that meet the condition specified in this rule.|
+|[Create a recommendation with the decision tree as an action type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ex-create-recommendation.md)|Create a recommendation that uses decision tree to troubleshoot a failed credit card transaction.|
 
-## Related
-
-- [[example-decision-tree|Example configuration of a decision tree]]
-- [[ex-create-rule|Create a rule from the Case context record]]
-- [[ex-create-recommendation|Create a recommendation with the decision tree as an action type]]

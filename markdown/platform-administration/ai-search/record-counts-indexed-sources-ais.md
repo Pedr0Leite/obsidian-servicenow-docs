@@ -14,7 +14,7 @@ breadcrumb: [Administer, AI Search, Search administration, Configure core featur
 
 # Review record counts for indexed sources
 
-Understand where your indexed content originates by viewing record counts for your indexed sources in the [[ia-ai-search|AI Search]] Indexed Source Statistics table.
+Understand where your indexed content originates by viewing record counts for your indexed sources in the AI Search Indexed Source Statistics table.
 
 ## Before you begin
 
@@ -51,6 +51,3 @@ The AI Search Indexed Source Statistics \[ais\_datasource\_stats\] table contain
 
 **Parent Topic:**[Administering AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/administer-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]

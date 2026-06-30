@@ -16,7 +16,7 @@ Configure the message displayed to users when they receive their push notificati
 
 ## Before you begin
 
-To create a push notification message, you must first configure the push notification message content. For more information, see [[config-push-notification-message-content|Configure push notification message content]].
+To create a push notification message, you must first configure the push notification message content. For more information, see [Configure push notification message content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/config-push-notification-message-content.md).
 
 Role required: admin
 
@@ -51,7 +51,7 @@ Push app
 </td><td>
 
 References the mobile app you want to send a notification to.-   Use ServiceNow mobile Application for Mobile Agent.
--   Use ServiceNow Request Application for [[now-mobile-app|Now Mobile app]].
+-   Use ServiceNow Request Application for Now Mobile app.
 
 
 </td></tr><tr><td>
@@ -90,13 +90,7 @@ You configured a push notification message and paired it with a push notificatio
 
 ## What to do next
 
-To complete the notification, an event is required to determine when the push notification is sent and who receives it. For more information, see [[configure-push-notification-event|Configure a push notification event]].
+To complete the notification, an event is required to determine when the push notification is sent and who receives it. For more information, see [Configure a push notification event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/configure-push-notification-event.md).
 
-**Parent Topic:**[[configure-mobile-push-notifications|Mobile push notification components]]
+**Parent Topic:**[Mobile push notification components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/configure-mobile-push-notifications.md)
 
-## Related
-
-- [[config-push-notification-message-content|Configure push notification message content]]
-- [[configure-push-notification-event|Configure a push notification event]]
-- [[configure-mobile-push-notifications|Mobile push notification components]]
-- [[now-mobile-app|Now Mobile app]]

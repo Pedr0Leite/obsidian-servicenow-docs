@@ -14,7 +14,7 @@ breadcrumb: [Create custom mapping configurations, Configuring Portfolio Plannin
 
 # Create a choice map
 
-Map the choice list for each field map for fields with a list of values from [[portfolio-planning-app-landing-page|Portfolio Planning]] to [[c_ProjectPortfolioSuite|Project Portfolio Management]] and vice-versa.
+Map the choice list for each field map for fields with a list of values from Portfolio Planning to Project Portfolio Management and vice-versa.
 
 ## Before you begin
 
@@ -38,7 +38,4 @@ Role required: sn\_align\_core.apw\_admin
 
 7.  Click **Submit**.
 
-## Related
 
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]

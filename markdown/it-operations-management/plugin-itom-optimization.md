@@ -12,17 +12,17 @@ breadcrumb: [ITOM Optimization reference, ITOM Optimization, IT Operations Manag
 
 # Plugins activated with ITOM Optimization
 
-Table that lists the plugins that are activated with the [[itom-optimization-landing-page|ITOM Optimization]] application [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]. When you update your application, any newly required application dependencies are installed.
+Table that lists the plugins that are activated with the ITOM Optimization application Cloud Provisioning and Governance. When you update your application, any newly required application dependencies are installed.
 
 |Plugin name|Description|
 |-----------|-----------|
-|Cloud Provisioning and Governance Core \(com.snc.cloud.core\)|Contains resource blocks and cloud Application Programming Interface \(cloud API\) mappings related to Cloud API-based [[r-discovery|discovery]] and events processed by either response mapping or calling patterns.|
+|Cloud Provisioning and Governance Core \(com.snc.cloud.core\)|Contains resource blocks and cloud Application Programming Interface \(cloud API\) mappings related to Cloud API-based discovery and events processed by either response mapping or calling patterns.|
 |Cloud Config Management \(com.snc.config.mgmt\)|A Configuration Management Framework that provides API implementations to integrate with configuration management vendors.|
 |Orchestration \(com.snc.runbook\_automation\)|Automates often-repeated manual operations such as deployments, configurations, and information gathering. Orchestration uses workflow and MID Server technologies to enable activities to execute commands on systems inside your enterprise network.|
 |Service Portal - Core \(com.glide.service-portal\)|A portal framework that enables administrators to build a mobile-friendly self-service experience for users.|
 |ITOM Optimization Licensing \(com.sn\_itom\_opt\_licensing\)|A proxy application that enables you to install all applications related to Optimization. Once you purchase the Optimization license, you can install this proxy application, which enables you to install any application that is part of Optimization license.|
 
-**Parent Topic:**[[itom-optimization-reference|ITOM Optimization reference]]
+**Parent Topic:**[ITOM Optimization reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-optimization-reference.md)
 
 **Related topics**  
 
@@ -31,14 +31,7 @@ Table that lists the plugins that are activated with the [[itom-optimization-lan
 
 [Plugins or applications installed with ITOM Visibility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/plugin-app-itom-visibility.md)
 
-[[plugin-app-itom-health|Plugins or applications installed with ITOM AIOps]]
+[Plugins or applications installed with ITOM AIOps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/plugin-app-itom-health.md)
 
 [Applications installed with Now Assist for ITOM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/app-now-assist-itom.md)
 
-## Related
-
-- [[itom-optimization-reference|ITOM Optimization reference]]
-- [[plugin-app-itom-health|Plugins or applications installed with ITOM AIOps]]
-- [[itom-optimization-landing-page|ITOM Optimization]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[r-discovery|Discovery]]

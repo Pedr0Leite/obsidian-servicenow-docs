@@ -14,13 +14,13 @@ breadcrumb: [Configuring AI Search, AI Search, Search administration, Configure 
 
 # Create a custom search matcher for global search
 
-Customize the global search experience to return exact match search [[hs-results|results]] from a specified table and column \(field\). You can configure custom search matchers for search terms with prefixes followed by numbers, such as `INT470271`, or for numeric search terms with delimiter characters, such as `525-326-3827` or `2016/01/08`.
+Customize the global search experience to return exact match search results from a specified table and column \(field\). You can configure custom search matchers for search terms with prefixes followed by numbers, such as `INT470271`, or for numeric search terms with delimiter characters, such as `525-326-3827` or `2016/01/08`.
 
 ## Before you begin
 
 You must have Next Experience enabled.
 
-[[ia-ai-search|AI Search]] must be configured as the search engine for global search. For details on [[configuring-ais|configuring AI Search]] as the search engine for global search, see [AI Search for Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/ais-next-experience-app.md).
+AI Search must be configured as the search engine for global search. For details on configuring AI Search as the search engine for global search, see [AI Search for Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/ais-next-experience-app.md).
 
 **Note:** If your instance was originally created running Utah or a later family release, AI Search is automatically configured as the search engine for global search.
 
@@ -42,7 +42,7 @@ To learn how AI Search evaluates global search queries for exact matches, see [U
 
 2.  Select **New**.
 
-3.  On the [[custom-matcher-form-ais|Custom Matcher form]], fill in the **Name**, **Table**, and **Column** fields.
+3.  On the Custom Matcher form, fill in the **Name**, **Table**, and **Column** fields.
 
     For a description of the field values, see [Custom Matcher form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/custom-matcher-form-ais.md).
 
@@ -114,9 +114,3 @@ The name of the search application configuration record for the AI Search applic
 
 **Parent Topic:**[Configuring AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configuring-ais.md)
 
-## Related
-
-- [[hs-results|Results]]
-- [[ia-ai-search|AI Search]]
-- [[configuring-ais|Configuring AI Search]]
-- [[custom-matcher-form-ais|Custom Matcher form]]

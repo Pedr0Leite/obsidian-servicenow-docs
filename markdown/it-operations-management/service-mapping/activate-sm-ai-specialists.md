@@ -15,13 +15,13 @@ breadcrumb: [AI Agents for Service Mapping, AI capabilities in Service Mapping, 
 
 # Activate AI Agents for Service Mapping
 
-Activate the [[c_ServiceMappingOverview|Service Mapping]] AI Agent and the Business App Mapping AI Agent from the Service Mapping home page to start automated service map creation.
+Activate the Service Mapping AI Agent and the Business App Mapping AI Agent from the Service Mapping home page to start automated service map creation.
 
 ## Before you begin
 
 Before you begin, verify the following:
 
--   ITOM [[service-mapping-ai-specialists|AI agents for Service Mapping]] \[sn\_sm\_gen\_ai, version 1.3.1 or later\] is installed as part of the [[now-assist-itom|Now Assist for ITOM]] bundle.
+-   ITOM AI agents for Service Mapping \[sn\_sm\_gen\_ai, version 1.3.1 or later\] is installed as part of the Now Assist for ITOM bundle.
 -   Service Mapping Plus version 1.20.0 or later is installed. The AI Agent UI is delivered through Service Mapping Plus.
 -   Zurich Patch 9 or Australia Patch 2.
 
@@ -56,8 +56,3 @@ To deactivate an AI Agent, select **Deactivate** on the respective card. The but
 
 **Parent Topic:**[AI Agents for Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/service-mapping-ai-specialists.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[service-mapping-ai-specialists|AI Agents for Service Mapping]]
-- [[now-assist-itom|Now Assist for ITOM]]

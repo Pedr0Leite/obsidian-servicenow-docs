@@ -14,7 +14,7 @@ breadcrumb: [Available on-premise discovery patterns, Discovery patterns used by
 
 # Linux Pacemaker Cluster discovery
 
-The ServiceNow [[r-discovery|Discovery]] application uses the Linux Pacemaker Cluster discovery pattern to find high-availability cluster data and populate the CMDB with the discovered information. Discovering some of these resources may require updating to the latest version of the Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns application from the ServiceNow Store.
+The ServiceNow Discovery application uses the Linux Pacemaker Cluster discovery pattern to find high-availability cluster data and populate the CMDB with the discovered information. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 This pattern is an extension section of the [Linux Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_DataCollDiscoLinuxComputers.md) pattern. Discovery uses the pattern to run horizontal discovery.
 
@@ -77,7 +77,7 @@ The discovered data includes the following tables and fields.
 |node\_state|Node state.|
 |fqdn|FQDN of the machine where the node is running.|
 
-The [[dependency-views-map|Dependency Views map]] shows discovered load balancer CIs and the relationships between them.
+The Dependency Views map shows discovered load balancer CIs and the relationships between them.
 
 \[Omitted image "linux-pacemaker-cluster-dep-view.png"\] Alt text: CIs and connections on a Dependency Views map
 
@@ -100,8 +100,3 @@ These relationships are created to support Linux Pacemaker Cluster discovery:
 
 **Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/available-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[dependency-views-map|Dependency Views map]]

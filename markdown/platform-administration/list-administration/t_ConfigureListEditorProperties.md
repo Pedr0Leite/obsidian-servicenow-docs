@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[r_SetArchiveRuleProcessingBehavior|System Properties]]** &gt; **UI Properties**.
+1.  Navigate to **All** &gt; **System Properties** &gt; **UI Properties**.
 
 2.  To disable list editing, set the **Enable list editing** \(**glide.ui.list\_edit**\) property to **No** by clearing the check box.
 
@@ -53,6 +53,4 @@ Role required: admin
 
 4.  Select **Save**.
 
-## Related
 
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

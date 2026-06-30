@@ -212,7 +212,7 @@ Generate this
 
 </td><td>
 
-[[reference-email-admin|Reference]] to the template record from which you are generating a scheduled job.
+Reference to the template record from which you are generating a scheduled job.
 
 </td></tr></tbody>
 </table>
@@ -231,6 +231,3 @@ Generate this
 
 [Set a system time zone](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_SetASystemTimeZone.md)
 
-## Related
-
-- [[reference-email-admin|Reference]]

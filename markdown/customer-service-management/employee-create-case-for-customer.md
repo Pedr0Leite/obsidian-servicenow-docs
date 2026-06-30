@@ -18,7 +18,7 @@ Assign the proxy contact role \(sn\_customerservice.proxy\_contact\) to employee
 
 **Note:** This role requires licensing for access to CSM applications. The proxy contact cannot co-exist with the contributor roles.
 
-Install the [[csm-extension-for-proxy-contacts|CSM Extension for Proxy Contacts]] to use this functionality.
+Install the [CSM Extension for Proxy Contacts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-extension-for-proxy-contacts.md) to use this functionality.
 
 Employees with the proxy contact role can do the following:
 
@@ -39,11 +39,11 @@ From the Customer Service Portal, employees can do the following for the cases w
 Customer service agents can create cases and designate an employee with the proxy contact role as the internal contact.
 
 -   From Agent Workspace, agents can create cases for employees from interaction records.
--   From connect chat sessions with employees, agents can create cases that add the employee to the **Internal contact** field on the [[r_CustomerServiceCaseForm|Case form]].
+-   From connect chat sessions with employees, agents can create cases that add the employee to the **Internal contact** field on the Case form.
 
 ## Plugin information
 
-Activate the CSM Extension for Proxy Contacts \(com.snc.csm\_proxy\_contacts\) plugin to enable this feature. This plugin adds the following to [[c_CustomerServiceManagement|Customer Service Management]]:
+Activate the CSM Extension for Proxy Contacts \(com.snc.csm\_proxy\_contacts\) plugin to enable this feature. This plugin adds the following to Customer Service Management:
 
 -   The sn\_customerservice.proxy\_contact role.
 -   The ProxyContactHelper script include.
@@ -90,7 +90,7 @@ An agent can create a case for an employee by clicking **Create Case** on the In
 
 Employees can create a case by sending an email to the inbound email address. When the email is received, the system checks to see if the user has the proxy contact role.
 
--   If yes, the case is created and the employee is added to the **Internal contact** field. The content of the email is logged in the case [[csm-config-ws-activity-stream|activity stream]].
+-   If yes, the case is created and the employee is added to the **Internal contact** field. The content of the email is logged in the case activity stream.
 -   If no, the case is not created.
 
 ## Initiating a chat from the Customer Service Portal
@@ -119,9 +119,3 @@ The system sends an email notification to the employee in the **Internal contact
 -   The case is opened or closed.
 -   Comments are added to the case.
 
-## Related
-
-- [[csm-extension-for-proxy-contacts|Install the CSM Extension for Proxy Contacts]]
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[csm-config-ws-activity-stream|Activity stream]]

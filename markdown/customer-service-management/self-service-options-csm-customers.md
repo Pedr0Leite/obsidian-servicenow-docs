@@ -12,9 +12,9 @@ breadcrumb: [Explore, Customer Service Management]
 
 # Self-service for Customer Service Management
 
-With the [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) application, you can provide service for your customers through web applications that hosts self-service capabilities like knowledge articles, community forums, service catalogs, [[case-management|case management]], and chat.
+With the Customer Service Management \(CSM\) application, you can provide service for your customers through web applications that hosts self-service capabilities like knowledge articles, community forums, service catalogs, case management, and chat.
 
-Self-service in CSM empowers customers to resolve issues independently through intuitive digital experiences. It reduces dependency on support agents and improves overall satisfaction. Users can find information, resolve issues, and request assistance through web applications. The platform provides access to knowledge articles, virtual agents, [[servicenow-communities|communities]], and case management. It helps customers get the support they need quickly, reduces the workload on service agents, and improves overall service efficiency.
+Self-service in CSM empowers customers to resolve issues independently through intuitive digital experiences. It reduces dependency on support agents and improves overall satisfaction. Users can find information, resolve issues, and request assistance through web applications. The platform provides access to knowledge articles, virtual agents, communities, and case management. It helps customers get the support they need quickly, reduces the workload on service agents, and improves overall service efficiency.
 
 Self-service in CSM offers the following benefits:
 
@@ -58,10 +58,10 @@ By using the Service Portal web application, you can create portals that empower
 
 You can configure four types of portals to support your customers and consumers:
 
--   [[use-the-customer-portal|Customer Service Portal]]: Supports your business-to-business \(B2B\) customers
--   [[use-the-business-portal|Business Portal]]: Supports your business-to-business \(B2B\) customers and is built using configurable widgets
--   [[use-consumer-service-portal|Consumer Service Portal]]: Supports your business-to-consumer \(B2C\) customers
--   [[use-consumer-portal|Consumer Portal]]: Supports your business-to-consumer \(B2C\) customers and is built using configurable widgets.
+-   [Customer Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/use-the-customer-portal.md): Supports your business-to-business \(B2B\) customers
+-   [Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/use-the-business-portal.md): Supports your business-to-business \(B2B\) customers and is built using configurable widgets
+-   [Consumer Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/use-consumer-service-portal.md): Supports your business-to-consumer \(B2C\) customers
+-   [Consumer Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/use-consumer-portal.md): Supports your business-to-consumer \(B2C\) customers and is built using configurable widgets.
 
 All the portals offer the same self-service and Virtual Agent assistance features.
 
@@ -84,13 +84,13 @@ To learn more about [Engagement Messenger](https://raw.githubusercontent.com/Ser
 
 With the Service Catalog capability, you can create service catalogs where customers can request items, such as service and product offerings. You can enable customers to request items from the portal by associating one or more service catalogs with the portal. Customers can also track the status of open requests from the portal.
 
-To learn more about Service catalog, see [[service-catalog-request-integration|Service catalog integration with the Customer and Consumer Service Portals]].
+To learn more about Service catalog, see [Service catalog integration with the Customer and Consumer Service Portals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/service-catalog-request-integration.md).
 
 ## Knowledge base
 
 With the Knowledge Management capability, you can create knowledge bases with articles to share information with customers on the portal. Customers can search the knowledge bases for information, such as troubleshooting or task resolutions, to resolve issues and answer questions.
 
-To learn more about searching the Knowledge base, see [[t_SearchTheKnowledgeBase|Search the knowledge base]].
+To learn more about searching the Knowledge base, see [Search the knowledge base](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/t_SearchTheKnowledgeBase.md).
 
 ## Chat
 
@@ -100,7 +100,7 @@ As customers answer questions and select options presented by Virtual Agent, the
 
 If customers want to chat with an agent, Virtual Agent hands them off to a live agent. To provide this resource, use the Connect Support feature.
 
-To learn more about chat, see [[c_ChatFeature|Configuring the chat channel]].
+To learn more about chat, see [Configuring the chat channel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_ChatFeature.md).
 
 ## Community
 
@@ -108,15 +108,3 @@ With the Communities capability, you can create forums for agents and customers 
 
 To learn more about communities, see [Communities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/servicenow-communities.md).
 
-## Related
-
-- [[use-the-customer-portal|Using the Customer Service Portal]]
-- [[use-the-business-portal|Using the Business Portal]]
-- [[use-consumer-service-portal|Using the Consumer Service Portal]]
-- [[use-consumer-portal|Using the Consumer Portal]]
-- [[service-catalog-request-integration|Service catalog integration with the Customer and Consumer Service Portals]]
-- [[t_SearchTheKnowledgeBase|Search the knowledge base]]
-- [[c_ChatFeature|Configuring the chat channel]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[case-management|Case management]]
-- [[servicenow-communities|Communities]]

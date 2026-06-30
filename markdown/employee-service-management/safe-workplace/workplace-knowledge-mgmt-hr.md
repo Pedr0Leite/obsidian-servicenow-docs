@@ -14,9 +14,9 @@ breadcrumb: [Workplace Core, Safe Workplace, Health and Safety, Employee Service
 
 # Workplace knowledge management
 
-As a workplace admin, you can create knowledge base articles for employees. In the articles, provide information to your employees about [[workplace-services|workplace services]], such as workplace updates, self-help, troubleshoot, and others.
+As a workplace admin, you can create knowledge base articles for employees. In the articles, provide information to your employees about workplace services, such as workplace updates, self-help, troubleshoot, and others.
 
-With the [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] application, you can create knowledge base articles and display them as wiki pages or HTML pages. The Workplace Service Delivery Knowledge Management is the same as the ServiceNow AI Platform Knowledge Management, for more information, see [Configuring Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuring-knowledge-management.md).
+With the Workplace Service Delivery application, you can create knowledge base articles and display them as wiki pages or HTML pages. The Workplace Service Delivery Knowledge Management is the same as the ServiceNow AI Platform Knowledge Management, for more information, see [Configuring Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuring-knowledge-management.md).
 
 You can perform the following actions on a knowledge base article:
 
@@ -38,7 +38,3 @@ You can add attachments and enable employees to view the attachments individuall
 
 You can view and update the knowledge base articles at any time. You can view published articles, unpublished articles and retired articles separately. You can also republish an article whenever needed.
 
-## Related
-
-- [[workplace-services|Workplace Services]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]

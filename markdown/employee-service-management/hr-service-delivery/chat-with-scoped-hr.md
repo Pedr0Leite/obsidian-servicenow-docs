@@ -14,7 +14,7 @@ breadcrumb: [HR Administration, Configure, Case and Knowledge Management, HR Ser
 
 # HR chat from lists and forms
 
-You can chat with employees about their [[hr-service-administration|HR services]] request from any HR list or form in [[hr-service-delivery|HR Service Delivery]].
+You can chat with employees about their HR services request from any HR list or form in HR Service Delivery.
 
 Access chat from the **Toggle Connect Sidebar** from the **Form Header** on any HR form or list. A number display on the **Toggle Connect Sidebar** icon to indicate that someone is trying to chat with you.
 
@@ -22,7 +22,7 @@ A chat initiated about a specific HR case is part of the case record. By default
 
 In the chat widow, click the icon next to the HR case number to access the details of the HR case.
 
-**Note:** When an agent is not assigned to an HR case, some features are not available from the [[employee-center-landing-page|Employee Center]]. For example, the Ask a Question link to chat about a specific case cannot assign an agent. For information on automatically assigning an HR agent to a case, see [Assignment and matching rules in HR]().
+**Note:** When an agent is not assigned to an HR case, some features are not available from the Employee Center. For example, the Ask a Question link to chat about a specific case cannot assign an agent. For information on automatically assigning an HR agent to a case, see [Assignment and matching rules in HR]().
 
 See [Connect](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_Connect.md).
 
@@ -35,8 +35,3 @@ If an HR chat results in the need to open a case, create the case directly from 
 
 **Parent Topic:**[HR Administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_AdministerHRServiceManagement.md)
 
-## Related
-
-- [[hr-service-administration|HR services]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[employee-center-landing-page|Employee Center]]

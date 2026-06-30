@@ -18,13 +18,13 @@ You can view scans in real-time as they run or after they're completed. 
 
 -   Fully configure the general and additional Scan Engine properties.
 
-    See [[configure-scan-engine-properties|Configure Scan Engine properties]] and [[additional-scan-engine-properties|Configure definition properties]].
+    See [Configure Scan Engine properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configure-scan-engine-properties.md) and [Configure definition properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/additional-scan-engine-properties.md).
 
--   Role required: Scan Engine User \(`sn_se.scan_engine_user`\), Scan Engine Admin \(`(sn_se.scan_engine_admin`\) or [[impact-landing-page|Impact]] specific roles \(Impact App Admin, Impact Platform Owner, Impact Development Team Lead, Impact Executive, Impact Developer\).
+-   Role required: Scan Engine User \(`sn_se.scan_engine_user`\), Scan Engine Admin \(`(sn_se.scan_engine_admin`\) or Impact specific roles \(Impact App Admin, Impact Platform Owner, Impact Development Team Lead, Impact Executive, Impact Developer\).
 
 ## Procedure
 
-1.  To view a completed scan, navigate to **ALL** &gt; **Impact** &gt; **[[platform-health-idi|Platform Health]]** &gt; **Summary Scans** \(`sn_se_summary_scan` table\), and then select the scan number to view.
+1.  To view a completed scan, navigate to **ALL** &gt; **Impact** &gt; **Platform Health** &gt; **Summary Scans** \(`sn_se_summary_scan` table\), and then select the scan number to view.
 
 2.  To view a scan that is currently running, navigate to **ALL** &gt; **Impact** &gt; **Platform Health** &gt; **Scan Status**\(`sn_se_scan_status` table\).
 
@@ -147,12 +147,5 @@ System messages and progress updates from the scan.
 </table>
 ## What to do next
 
-From the summary scan record, use the **Findings** related list to view all findings discovered during this scan. See [[work-with-scan-engine-findings|Work with Scan Engine findings]] for more information.
+From the summary scan record, use the **Findings** related list to view all findings discovered during this scan. See [Work with Scan Engine findings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/work-with-scan-engine-findings.md) for more information.
 
-## Related
-
-- [[configure-scan-engine-properties|Configure Scan Engine properties]]
-- [[additional-scan-engine-properties|Configure definition properties]]
-- [[work-with-scan-engine-findings|Work with Scan Engine findings]]
-- [[impact-landing-page|Impact]]
-- [[platform-health-idi|Platform Health]]

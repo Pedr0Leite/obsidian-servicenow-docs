@@ -34,7 +34,7 @@ Role required:
 
 3.  Select Authorization packages from the **RMF** list.
 
-4.  From the [[list-view-uib-ws|list view]], select the authorization package record for which to generate SSP files.
+4.  From the list view, select the authorization package record for which to generate SSP files.
 
     **Note:** The authorization package must be in the Implement, Assess, Authorize, or Monitor state to generate OSCAL SSP.
 
@@ -68,6 +68,3 @@ Role required:
 
 **Parent Topic:**[Export in OSCAL format](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/oscal-support-cam.md)
 
-## Related
-
-- [[list-view-uib-ws|List view]]

@@ -22,9 +22,9 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[advanced-work-assignment|Advanced Work Assignment]]** &gt; **Queues**.
+1.  Navigate to **All** &gt; **Advanced Work Assignment** &gt; **Queues**.
 
-2.  Select **[[supplier|Supplier]] Collaboration Queue**.
+2.  Select **Supplier Collaboration Queue**.
 
     For more information about the fields on the Supplier Collaboration Queue form, see [Create a work item queue](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/awa-create-queue.md).
 
@@ -77,7 +77,3 @@ The queue is activated and the chat routing is applied.
 
 [Configure Advanced Work Assignment for Supplier Lifecycle Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/setup-awa-slm.md)
 
-## Related
-
-- [[advanced-work-assignment|advanced work assignment]]
-- [[supplier|Supplier]]

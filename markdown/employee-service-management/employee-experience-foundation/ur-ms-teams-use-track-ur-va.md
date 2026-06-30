@@ -14,7 +14,7 @@ breadcrumb: [Employee actions, Use Microsoft Teams for Universal Request, Use Mi
 
 # Update or cancel a universal request using Microsoft Teams
 
-Update or [[cancel-ur|cancel a universal request]] with the help of the Virtual Agent. You can access the Virtual Agent from the Microsoft Teams application.
+Update or cancel a universal request with the help of the Virtual Agent. You can access the Virtual Agent from the Microsoft Teams application.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ Role required: none
 
     The Virtual Agent prompts you to select the type of help required.
 
-6.  Select **Track [[ur-landing-limitedaccess|Universal Request]] Status \(Template\)**.
+6.  Select **Track Universal Request Status \(Template\)**.
 
 7.  Select the universal request that you want to track.
 
@@ -45,7 +45,3 @@ Role required: none
 
 **Parent Topic:**[Employee actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ur-ms-teams-use-employee.md)
 
-## Related
-
-- [[cancel-ur|Cancel a universal request]]
-- [[ur-landing-limitedaccess|Universal Request]]

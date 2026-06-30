@@ -14,7 +14,7 @@ breadcrumb: [Schedule Optimization, Setting up a Field Service scheduling method
 
 # Configuring log levels for detailed optimization analysis
 
-[[schedule-optimization|Schedule Optimization]] logs provide detailed information about each run, allowing you to gather specific information as needed.
+Schedule Optimization logs provide detailed information about each run, allowing you to gather specific information as needed.
 
 -   **[Set the Schedule optimization logging level](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/set-the-schedule-optimization-log-level.md)**  
 Adjust the logging level settings to specify the detail included in the Schedule Optimization logs.
@@ -26,9 +26,5 @@ An example of Schedule Optimization validation messages.
 **Related topics**  
 
 
-[[scheduling-health-dashboard|Scheduling Health dashboard]]
+[Scheduling Health dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/scheduling-health-dashboard.md)
 
-## Related
-
-- [[scheduling-health-dashboard|Scheduling Health dashboard]]
-- [[schedule-optimization|Schedule Optimization]]

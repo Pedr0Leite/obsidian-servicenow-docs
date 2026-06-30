@@ -14,7 +14,7 @@ breadcrumb: [Dispute Rules Content Pack for Nacha reference, Dispute Rules Conte
 
 # Domain separation and Dispute Rules Content Pack for Nacha
 
-[[domain-separation-dispute-content-pack-for-mastercard|Domain separation]] is unsupported for [[dispute-rules-content-pack-for-nacha|Dispute Rules Content Pack for Nacha]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is unsupported for Dispute Rules Content Pack for Nacha. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: No support
 
@@ -34,7 +34,3 @@ The Dispute Rules Content Pack for Nacha application provides dispute agents wit
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[domain-separation-dispute-content-pack-for-mastercard|Domain separation]]
-- [[dispute-rules-content-pack-for-nacha|Dispute Rules Content Pack for Nacha]]

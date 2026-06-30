@@ -26,18 +26,14 @@ You can adjust the frequency of this behavior or turn it off it entirely. For in
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Definition** &gt; **[[c_ScheduledJobs|Scheduled Jobs]]**.
+1.  Navigate to **All** &gt; **System Definition** &gt; **Scheduled Jobs**.
 
 2.  Open the job named **Update Currency Conversion Rates**.
 
 3.  Modify the schedule, as needed.
 
-    After the job runs, it stores and loads the rates from the Exchange Rate table. Navigate to **[[system-localization-landing|System Localization]]** &gt; **Exchange Rates** to see the exchange rates.
+    After the job runs, it stores and loads the rates from the Exchange Rate table. Navigate to **System Localization** &gt; **Exchange Rates** to see the exchange rates.
 
 
 **Parent Topic:**[Default currency conversions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/currency-conversions.md)
 
-## Related
-
-- [[c_ScheduledJobs|Scheduled jobs]]
-- [[system-localization-landing|System Localization]]

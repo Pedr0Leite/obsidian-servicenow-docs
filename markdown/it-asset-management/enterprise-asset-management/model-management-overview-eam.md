@@ -14,7 +14,7 @@ breadcrumb: [Enterprise Asset Workspace, Explore, Enterprise Asset Management, I
 
 # Enterprise model management overview for Enterprise Asset Workspace
 
-Use the Enterprise [[model-management-view-am|model management view]] in the [[using-eam-workspace|Enterprise Asset Workspace]] to [[create-manage-enterprise-models|create and manage enterprise models]]. You can also view details such as model lifecycle overview, model status, and enterprise [[c_Models|models]] up for end of life.
+Use the Enterprise model management view in the Enterprise Asset Workspace to create and manage enterprise models. You can also view details such as model lifecycle overview, model status, and enterprise models up for end of life.
 
 Take care of any urgent model related action items such as entering a missing model number or manufacture name.
 
@@ -70,7 +70,7 @@ Alternate equipment maintenance models
 
 </td><td>
 
-Count of models for which alternate equipment maintenance is enabled and are grouped by [[model-hierarchy|model categories]].
+Count of models for which alternate equipment maintenance is enabled and are grouped by model categories.
 
 </td></tr><tr><td>
 
@@ -90,11 +90,3 @@ Displays the risk heat map for number of models that have the likelihood and imp
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[model-management-view-am|Model management view]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[create-manage-enterprise-models|Create and manage enterprise models]]
-- [[c_Models|Models]]
-- [[model-hierarchy|Model categories]]

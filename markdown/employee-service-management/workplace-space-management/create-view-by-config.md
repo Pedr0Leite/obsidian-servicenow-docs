@@ -22,11 +22,11 @@ Role required: sn\_wsd\_spcmgmt.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-space-mgmt-ovw|Workplace Space Management]]** &gt; **Administration** &gt; **View-by Settings Configuration**
+1.  Navigate to **All** &gt; **Workplace Space Management** &gt; **Administration** &gt; **View-by Settings Configuration**
 
 2.  On the View by Configurations list, select **New**.
 
-3.  On the [[view-by-configuration-form|View by Configuration form]], fill in the fields.
+3.  On the View by Configuration form, fill in the fields.
 
     For a description of the field values, see [View by Configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/view-by-configuration-form.md).
 
@@ -64,14 +64,9 @@ Role required: sn\_wsd\_spcmgmt.admin
 
 [Create a Space Recommender rule]()
 
-[Raise a [[space-assistance|space assistance]] request]()
+[Raise a space assistance request]()
 
 [Create a KPI Configuration]()
 
 [Reviewing allocation changes]()
 
-## Related
-
-- [[workplace-space-mgmt-ovw|Workplace Space Management]]
-- [[view-by-configuration-form|View by Configuration form]]
-- [[space-assistance|Space assistance]]

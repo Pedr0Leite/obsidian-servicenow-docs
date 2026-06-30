@@ -15,13 +15,13 @@ breadcrumb: [Assistant Designer user input controls, Assistant Designer interfac
 
 # Carousel user input control
 
-Use the Carousel user input control in a [[virtual-agent-landing-page|Virtual Agent]] topic to present a prompt and a horizontal series of labeled images. The user can select a single item from the carousel.
+Use the Carousel user input control in a Virtual Agent topic to present a prompt and a horizontal series of labeled images. The user can select a single item from the carousel.
 
 **Tip:** If you want to change the default number of listed items per page, you can modify the **com.glide.cs.picker\_page\_limit** system property. The default value is 10.
 
 ## Carousel input control properties for LLM topic discovery
 
-**Note:** The Carousel user input control is not supported in [[now-assist-in-va-landing|Now Assist in Virtual Agent]].
+**Note:** The Carousel user input control is not supported in Now Assist in Virtual Agent.
 
 <table id="table_qmh_lgk_h1c"><thead><tr><th>
 
@@ -569,7 +569,3 @@ For screen devices, use touch scroll. For nonscreen devices, use voice paginatio
 </td></tr></tbody>
 </table>**Parent Topic:**[Assistant Designer user input controls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-user-inputs.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]

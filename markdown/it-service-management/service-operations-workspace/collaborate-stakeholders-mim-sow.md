@@ -18,7 +18,7 @@ Collaborate with the required stakeholders during the various phases of a major 
 
 ## About this task
 
-[[collab-services-tcm|Collaboration services]] provide a way to communicate and collaborate in real time to resolve incidents. For more information on the integration and features of Collaboration services available in Service Operations Workspace, see [Collaboration in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/collaboration-sow.md).
+Collaboration services provide a way to communicate and collaborate in real time to resolve incidents. For more information on the integration and features of Collaboration services available in Service Operations Workspace, see [Collaboration in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/collaboration-sow.md).
 
 ## Before you begin
 
@@ -66,7 +66,7 @@ Role required: major\_incident\_manager, itil, ia\_admin, or admin
         -   Start MS teams meeting
         -   Start Twilio meeting
         -   Start Zoom meeting
-        **Note:** The selected call channel [[dex-workspace-application-tab|applications]] must be configured for Service Operations Workspace.
+        **Note:** The selected call channel applications must be configured for Service Operations Workspace.
 
         .
 
@@ -89,7 +89,3 @@ Create adhoc communication and collaboration using the incident communication pl
 
 **Parent Topic:**[Managing a major incident record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/managing-major-incident-sow.md)
 
-## Related
-
-- [[collab-services-tcm|Collaboration services]]
-- [[dex-workspace-application-tab|Applications]]

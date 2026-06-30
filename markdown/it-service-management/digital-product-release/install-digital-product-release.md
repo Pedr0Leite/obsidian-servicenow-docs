@@ -14,7 +14,7 @@ breadcrumb: [Configure, Digital Product Release, IT Service Management]
 
 # Install Digital Product Release
 
-You can install the [[dpr-landing-page|Digital Product Release]] application \(sn\_dpr\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store [[dex-workspace-application-tab|applications]] and plugins if they are not already installed.
+You can install the Digital Product Release application \(sn\_dpr\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -34,14 +34,14 @@ The following items are installed with Digital Product Release:
 -   Store applications:
 
     -   Digital Product Release Data Model \(sn\_dpr\_model\): Contains the core data model for Digital Product Release.
-    -   [[dpr-workspace|Digital Product Release Workspace]] \(sn\_dpr\_workspace\): Provides a single location for the program managers to plan the releases for the digital products and services and the release managers to manage the release processes.
-    -   [[dpr-policy-content-pack|Digital Product Release Policy Content Pack]]: Contains a set of policies and data collectors to enable automation of phase gate verification in your Digital Product Release.
+    -   Digital Product Release Workspace \(sn\_dpr\_workspace\): Provides a single location for the program managers to plan the releases for the digital products and services and the release managers to manage the release processes.
+    -   Digital Product Release Policy Content Pack: Contains a set of policies and data collectors to enable automation of phase gate verification in your Digital Product Release.
     -   Release Timeline Component: Timeline component for Digital Product Release to visualize phases in releases.
     The following apps are also installed:
 
     -   Policy as Code Engine \(sn\_pace\)
     -   Policy as Code Engine UI \(sn\_pace\_builder\)
-    -   CMDB CI Class [[c_Models|Models]] \(sn\_cmdb\_ci\_class\)
+    -   CMDB CI Class Models \(sn\_cmdb\_ci\_class\)
     -   Roadmap UI Builder Component \(sn\_roadmap\)
     -   Playbook Experience \(sn\_playbook\_exp\)
     -   Playbook Experience Components \(now\_playbook\_exp\)
@@ -78,10 +78,4 @@ For more information, see [Components installed with Digital Product Release](ht
 
 6.  Select **Install**.
 
-## Related
 
-- [[dpr-landing-page|Digital Product Release]]
-- [[dex-workspace-application-tab|Applications]]
-- [[dpr-workspace|Digital Product Release Workspace]]
-- [[dpr-policy-content-pack|Digital Product Release Policy Content Pack]]
-- [[c_Models|Models]]

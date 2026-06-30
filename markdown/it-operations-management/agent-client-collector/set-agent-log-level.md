@@ -26,7 +26,7 @@ Role required: agent\_client\_collector\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-landing-page|Agent Client Collector]]** &gt; **Agents**.
+1.  Navigate to **All** &gt; **Agent Client Collector** &gt; **Agents**.
 
 2.  Select an agent.
 
@@ -41,6 +41,3 @@ Role required: agent\_client\_collector\_admin
 
 **Parent Topic:**[Using Agent Client Collector logs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/logs-acc.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

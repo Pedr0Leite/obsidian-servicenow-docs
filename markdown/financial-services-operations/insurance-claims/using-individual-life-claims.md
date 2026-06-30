@@ -14,7 +14,7 @@ breadcrumb: [Individual Life Claims, Exploring insurance claims applications, In
 
 # Managing Individual Life Claims
 
-Learn which roles use the [[individual-life-claims-landing-page|Individual Life Claims]] application to create, investigate, and manage an insurance claim from the first notice of loss \(FNOL\) to the claim closure.
+Learn which roles use the Individual Life Claims application to create, investigate, and manage an insurance claim from the first notice of loss \(FNOL\) to the claim closure.
 
 The Individual Life Claims application includes a death benefit claim workflow that enables your adjusters to work on multiple policy claims from a single case. FNOL representatives can submit claim requests, while adjusters can work on the cases for the individual life claims.
 
@@ -27,7 +27,7 @@ Use Workspace to work on all aspects of an individual life claim case. Users wit
 -   Navigate across tasks
 -   Manage multiple policies in a claim
 
-For more information, see [[fso-workspace|Workspaces]].
+For more information, see [Workspaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-workspace.md).
 
 The following table shows which workspace users can use the Individual Life Claims application in.
 
@@ -47,7 +47,7 @@ Claims admin
 
 Configures workspace according to the business requirements.
 
- For more information, see [Configure Individual Life Claims](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/configure-individual-life-claims.md) and [[configure-csm-workspace-fso-apps|Configure CSM Configurable Workspace]].
+ For more information, see [Configure Individual Life Claims](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/configure-individual-life-claims.md) and [Configure CSM Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-csm-workspace-fso-apps.md).
 
 </td></tr><tr><td>
 
@@ -93,11 +93,5 @@ FSO insurance applications store claim contact information in the following Insu
 -   The Claim Participant table \[sn\_ins\_claim\_profile\] stores details about all participants involved in the claims process.
 -   The Participant Role table \[sn\_ins\_claim\_participant\] stores information on the participant's role in the claim \(such as if they are the injured or insured\).
 
-For more information, see [[insurance-claims-core-tables|Insurance Claims Core tables]].
+For more information, see [Insurance Claims Core tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims-core-tables.md).
 
-## Related
-
-- [[fso-workspace|Workspaces in Financial Services Operations]]
-- [[configure-csm-workspace-fso-apps|Configure CSM Configurable Workspace]]
-- [[insurance-claims-core-tables|Insurance Claims Core tables]]
-- [[individual-life-claims-landing-page|Individual Life Claims]]

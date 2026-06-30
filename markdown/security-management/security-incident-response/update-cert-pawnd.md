@@ -48,7 +48,7 @@ Role required: admin
 
 4.  In **PEM Certificate**, paste in the certificate you downloaded and copied into the clipboard earlier.
 
-5.  Add the certificate to the [[identity|Identity]] Provider record.
+5.  Add the certificate to the Identity Provider record.
 
     1.  Navigate to **Multi-Provider SSO** &gt; **Identity Providers**.
 
@@ -64,6 +64,4 @@ Role required: admin
 
     **Note:** If you have a certificate that has expired, you need to remove it. For information on how to remove the expired certificate, refer to [KB0691439 Replacing an expiring SAML certificate](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0691439).
 
-## Related
 
-- [[identity|Identity]]

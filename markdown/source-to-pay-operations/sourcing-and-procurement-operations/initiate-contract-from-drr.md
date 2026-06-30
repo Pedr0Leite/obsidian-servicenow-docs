@@ -14,7 +14,7 @@ breadcrumb: [Initiate a contract request, Source-to-Pay Operations integration C
 
 # Initiate a contract request from Dynamic Related Records \(DRR\)
 
-[[initiate-contract-request|Initiate a contract request]] for purchase requisitions, sourcing requests, [[negotiations|negotiations]], or [[negotiation-events|sourcing events]] from the Dynamic Related Records \(DRR\) section.
+Initiate a contract request for purchase requisitions, sourcing requests, negotiations, or sourcing events from the Dynamic Related Records \(DRR\) section.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_cm\_core.contract\_user
 
 ## Procedure
 
-1.  Navigate to the **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to the **Source-to-Pay Workspace**.
 
 2.  Open the entity for which you have to initiate a contract request.
 
@@ -36,17 +36,10 @@ Role required: sn\_cm\_core.contract\_user
 
 6.  Provide the details about the contract that you have to initiate.
 
-    **Note:** Sourcing events and sourcing requests can be associated with multiple suppliers. Therefore, you must select a [[supplier|supplier]] to create a contract request for sourcing events and sourcing requests.
+    **Note:** Sourcing events and sourcing requests can be associated with multiple suppliers. Therefore, you must select a supplier to create a contract request for sourcing events and sourcing requests.
 
 7.  Select **Initiate**.
 
 
 **Parent Topic:**[Initiate a contract request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/initiate-contract-request.md)
 
-## Related
-
-- [[initiate-contract-request|Initiate a contract request]]
-- [[negotiations|Negotiations]]
-- [[negotiation-events|Sourcing events]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supplier|Supplier]]

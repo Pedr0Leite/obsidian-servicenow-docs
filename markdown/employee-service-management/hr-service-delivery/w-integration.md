@@ -18,8 +18,8 @@ The ServiceNow® HR Service Delivery Integration with Workday application is bui
 
 With this application, you can do the following:
 
--   [[w-profile|Synchronize worker profiles]] from Workday to a ServiceNow application.
--   Pull Workday tasks into a ServiceNow application. Enable employees to view all their to-dos or tasks in a single place, [[employee-center-landing-page|Employee Center]].
+-   Synchronize worker profiles from Workday to a ServiceNow application.
+-   Pull Workday tasks into a ServiceNow application. Enable employees to view all their to-dos or tasks in a single place, Employee Center.
 
 ## Application setup
 
@@ -40,18 +40,11 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td><td>
 
-[Use \[Omitted image "bus-agent-workspace-1.svg"\] Alt text: [[config-hrsd-int-workday|Using HR Service Delivery Integration with Workday]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/config-hrsd-int-workday.md)
+[Use \[Omitted image "bus-agent-workspace-1.svg"\] Alt text: Using HR Service Delivery Integration with Workday.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/config-hrsd-int-workday.md)
 
 </td><td>
 
-[Reference \[Omitted image "bus-learn.svg"\] Alt text: Get details about components like fields, tables, and properties. Get details about components like fields, tables, and properties.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hrsd-int-workday-[[reference-hr-service-delivery-advanced-integration-with-workday|reference]].md)
+[Reference \[Omitted image "bus-learn.svg"\] Alt text: Get details about components like fields, tables, and properties. Get details about components like fields, tables, and properties.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hrsd-int-workday-reference.md)
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[w-profile|Synchronize worker profiles]]
-- [[employee-center-landing-page|Employee Center]]
-- [[config-hrsd-int-workday|Using HR Service Delivery Integration with Workday]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

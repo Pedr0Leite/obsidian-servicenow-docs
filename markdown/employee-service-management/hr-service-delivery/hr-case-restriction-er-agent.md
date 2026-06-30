@@ -14,7 +14,7 @@ breadcrumb: [Employee Relations case restrictions, Configuring Employee Relation
 
 # HR for HR Security
 
-Even [[hr-case-employee-relations|Employee Relations]] agents with privileges to view and modify an ER case are limited from viewing, modifying, or restricting and ER case under certain circumstances for security purposes.
+Even Employee Relations agents with privileges to view and modify an ER case are limited from viewing, modifying, or restricting and ER case under certain circumstances for security purposes.
 
 Restrictions are enabled for the Employee Relations agent in the following areas of the ServiceNow instance:
 
@@ -24,7 +24,7 @@ When an ER agent is **Subject Person**, or **Opened for**, or **Complainant** on
 
 -   **View**
 
-    Can view only the self-service view of the ER case on Agent Workspace, the platform view, and the [[employee-center-landing-page|Employee Center]] that are available to regular employees. The agent cannot change the view.
+    Can view only the self-service view of the ER case on Agent Workspace, the platform view, and the Employee Center that are available to regular employees. The agent cannot change the view.
 
 -   **UI actions**
 
@@ -43,7 +43,3 @@ When an ER agent is **Subject Person**, or **Opened for**, or **Complainant** on
 
 When an ER agent is either **Subject of Allegation**, or **Witness** on the ER case, the ER agent will not have any access to that ER case.
 
-## Related
-
-- [[hr-case-employee-relations|Employee Relations]]
-- [[employee-center-landing-page|Employee Center]]

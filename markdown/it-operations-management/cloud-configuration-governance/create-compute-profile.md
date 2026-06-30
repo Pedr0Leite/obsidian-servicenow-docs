@@ -20,11 +20,11 @@ A compute profile specifies the hardware to use for newly-provisioned virtual ma
 
 Role required: sn\_cmp.cloud\_admin
 
-You must have a cloud account with datacenters. You must run [[r-discovery|Discovery]] on the service accounts to populate the datacenters.
+You must have a cloud account with datacenters. You must run Discovery on the service accounts to populate the datacenters.
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Manage** &gt; **[[cloud-resource-profiles|Resource Profiles]]**.
+1.  In the Cloud Admin Portal, navigate to **Manage** &gt; **Resource Profiles**.
 
 2.  In the **Profiles** list, select **Compute Profile** and then click **New**.
 
@@ -81,8 +81,3 @@ Select the hardware type that the profile should be mapped to.Click the referenc
 
 [Discover all datacenters in a service account on-demand]()
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[cloud-admin-portal|Cloud Admin Portal]]
-- [[cloud-resource-profiles|Resource Profiles]]

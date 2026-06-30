@@ -37,11 +37,11 @@ For more information, see [Manage HR roles](https://raw.githubusercontent.com/Se
 
 ## COE Security Configuration
 
-Use COE Security Configuration to define group restrictions for a COE and for all or specific [[hr-service-administration|HR services]] under it.
+Use COE Security Configuration to define group restrictions for a COE and for all or specific HR services under it.
 
 You can then restrict the COE with read and write capabilities.
 
-**Note:** If you choose to restrict other COEs besides [[hr-case-employee-relations|Employee Relations]] Case \[sn\_hr\_er\_case\], you can cause performance issues. ER cases numbering more than 100 K can impact performance.
+**Note:** If you choose to restrict other COEs besides Employee Relations Case \[sn\_hr\_er\_case\], you can cause performance issues. ER cases numbering more than 100 K can impact performance.
 
 For more information, see [Create a COE security policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-create-coe-security-policy.md).
 
@@ -64,7 +64,3 @@ Use ER matching rules to assign an agent that has the least number of cases, the
 
 For more information, see [Employee Relations matching rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-er-matching-rules.md).
 
-## Related
-
-- [[hr-service-administration|HR services]]
-- [[hr-case-employee-relations|Employee Relations]]

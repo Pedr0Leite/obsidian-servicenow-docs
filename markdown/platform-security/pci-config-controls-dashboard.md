@@ -12,11 +12,11 @@ breadcrumb: [Check the daily compliance score and configure security property se
 
 # PCI configuration controls score dashboard
 
-Use the PCI configuration controls score dashboard to review your PCI [[sc-configuration|configuration]] and determine which security checks are non-compliant. You can change the configuration of the non-compliant security checks from the [[instance-security-center|instance security center]].
+Use the PCI configuration controls score dashboard to review your PCI configuration and determine which security checks are non-compliant. You can change the configuration of the non-compliant security checks from the instance security center.
 
 ## Required ServiceNow AI Platform roles
 
-The security\_dashboard\_user or admin role is required to view the [[pci-comp-score-dashboard|PCI compliance score dashboard]].
+The security\_dashboard\_user or admin role is required to view the PCI compliance score dashboard.
 
 ## Access the PCI configuration controls score dashboard
 
@@ -73,11 +73,5 @@ Security Configurations \[isc\_security\_configurations\]
 Displays compliant and non-compliant PCI control configurations in high, medium, and low categories. Click an area of the report to display the matching security configurations.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[instance-sec-center-hardening|Check the daily compliance score and configure security property settings]]
+</table>**Parent Topic:**[Check the daily compliance score and configure security property settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-sec-center-hardening.md)
 
-## Related
-
-- [[instance-sec-center-hardening|Check the daily compliance score and configure security property settings]]
-- [[sc-configuration|Configuration]]
-- [[instance-security-center|Instance Security Center]]
-- [[pci-comp-score-dashboard|PCI compliance score dashboard]]

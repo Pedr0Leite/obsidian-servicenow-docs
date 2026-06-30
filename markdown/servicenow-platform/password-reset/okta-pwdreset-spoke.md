@@ -14,7 +14,7 @@ breadcrumb: [Setting up Password Reset, Password Reset, Manage service capabilit
 
 # Set up Password Reset integration with Okta
 
-Enables end users to reset or change their Okta passwords using [[password-reset-landing-page|Password Reset]] and Okta spoke.
+Enables end users to reset or change their Okta passwords using Password Reset and Okta spoke.
 
 ## Request apps on the Store
 
@@ -50,7 +50,7 @@ The Password Reset integration with Okta application provides these subflows tha
 |Password Lock State|Checks the lock status of the specified user account in Okta.|
 |Password Reset|Resets the password of the specified Okta user.|
 |Password Unlock|Unlocks the required user account in Okta.|
-|Send [[email|Email]] After Change Password|Sends a password change notification email to the user. This subflow is used in the Password Change subflow.|
+|Send Email After Change Password|Sends a password change notification email to the user. This subflow is used in the Password Change subflow.|
 
 ## Actions
 
@@ -82,15 +82,10 @@ Customize the default credential store records and password reset processes to i
 
 4.  Navigate to **Password Reset** &gt; **Processes**.
 
-5.  Customize the default records, **Service-Desk Process for Okta** and **Employee [[self-service-landing|Self-Service]] Process for Okta** , as per your requirement..
+5.  Customize the default records, **Service-Desk Process for Okta** and **Employee Self-Service Process for Okta** , as per your requirement..
 
-    **Note:** The **User must reset password** [[check-box|check box]] isn't supported in this integration. That is, you can't enforce users to reset their password upon first login after they reset password using the auto-generated password.
+    **Note:** The **User must reset password** check box isn't supported in this integration. That is, you can't enforce users to reset their password upon first login after they reset password using the auto-generated password.
 
     For more information, see [Configure your Password Reset process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/t_CreateAPasswordResetProcess.md).
 
-## Related
 
-- [[password-reset-landing-page|Password Reset]]
-- [[email|Email]]
-- [[self-service-landing|Self-service]]
-- [[check-box|Check box]]

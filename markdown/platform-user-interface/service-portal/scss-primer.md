@@ -47,7 +47,7 @@ For more information on Sass, see the [Sass/SCSS reference](http://sass-lang.com
 
 ## SCSS functions
 
-List of functions for [[c_ServicePortal|Service Portal]] SCSS compiler.
+List of functions for Service Portal SCSS compiler.
 
 ### RGB functions
 
@@ -97,7 +97,7 @@ List of functions for [[c_ServicePortal|Service Portal]] SCSS compiler.
 |adjust-color\(\)|Increases or decreases one or more components of a color.|Yes|
 |scale-color\(\)|Fluidly scales one or more properties of a color.|Yes|
 |change-color\(\)|Changes one or more properties of a color.|No|
-|ie-hex-str\(\)|Converts a color into the format understood by IE [[c_Filters|filters]].|No|
+|ie-hex-str\(\)|Converts a color into the format understood by IE filters.|No|
 
 ### String functions
 
@@ -127,7 +127,7 @@ List of functions for [[c_ServicePortal|Service Portal]] SCSS compiler.
 
 ### List functions
 
-[[lists-configurable-workspace|Lists]] in SCSS are immutable. All list functions return a new list rather than updating the existing list in-place.
+Lists in SCSS are immutable. All list functions return a new list rather than updating the existing list in-place.
 
 All list functions work for maps as well, treating them as lists of pairs.
 
@@ -262,8 +262,3 @@ The generated CSS looks like:
 
 For more information on Sass, see the [Sass/SCSS reference](http://sass-lang.com/documentation/file.SASS_REFERENCE.html#operations).
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[c_Filters|Filters]]
-- [[lists-configurable-workspace|Lists]]

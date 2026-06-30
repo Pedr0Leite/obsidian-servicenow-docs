@@ -12,7 +12,7 @@ breadcrumb: [Filter admin functions, Filters and breadcrumbs, Lists in the class
 
 # Create scripted filters
 
-The [[c_ConditionBuilder|condition builder]] alone cannot create some [[c_Filters|filters]], such as displaying a record set that depends on an unrelated table. If you know JavaScript, you can create JavaScript functions for use in advanced filters.
+The condition builder alone cannot create some filters, such as displaying a record set that depends on an unrelated table. If you know JavaScript, you can create JavaScript functions for use in advanced filters.
 
 ## Before you begin
 
@@ -36,14 +36,14 @@ Role required: admin
 
     For more information, see GlideRecord queries and Script includes.
 
-    **Note:** [[c_GroupedLists|Grouped lists]] with a script include in the filter may cause slowness.
+    **Note:** Grouped lists with a script include in the filter may cause slowness.
 
 
 ## Example
 
 A company provides intensive care for a group of customers. To track these services, the service manager needs a high-level journal and links to all incidents that the customers raise.
 
-The company creates an application, Intensive Care, and a table, \[u\_intensive\_care\]. While the table contains a [[onboarding-modals-reference|reference]] field for the customer name, there is no direct link to the user table. Thus, the manager cannot set up an incident list filter using the condition builder for customers who are under intensive care.
+The company creates an application, Intensive Care, and a table, \[u\_intensive\_care\]. While the table contains a reference field for the customer name, there is no direct link to the user table. Thus, the manager cannot set up an incident list filter using the condition builder for customers who are under intensive care.
 
 The solution is to write a JavaScript function that uses a GlideRecord query to build an array of user sys\_ids in the \[u\_intensive\_care\] table, as shown in the sample code below. Call the function from the condition builder in the Incident table \(**\[Caller\] \[is\] \[javascript:myFunction\(\)\]**\).
 
@@ -59,7 +59,7 @@ function myFunction(){
 }
 ```
 
-**Parent Topic:**[[filter-admin-functions|Filter admin functions]]
+**Parent Topic:**[Filter admin functions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/filter-admin-functions.md)
 
 **Related topics**  
 
@@ -70,10 +70,3 @@ function myFunction(){
 
 [Create a dynamic filter option]()
 
-## Related
-
-- [[filter-admin-functions|Filter admin functions]]
-- [[c_ConditionBuilder|Condition builder]]
-- [[c_Filters|Filters]]
-- [[c_GroupedLists|Grouped lists]]
-- [[onboarding-modals-reference|Reference]]

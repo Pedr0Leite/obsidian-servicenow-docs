@@ -30,8 +30,5 @@ From the landing page, a constituent can:
 -   Review and download the results letter and merit review summary of their submitted grant proposals, and accept or decline their award within the Results tab.
 -   View all Knowledge Base articles related to grants.
 
-For more information on how to use the Grants Portal, see [[psds-gmp-using-grants-mgmt-portal|Using the Grants Management Portal in Public Sector Digital Services]].
+For more information on how to use the Grants Portal, see [Using the Grants Management Portal in Public Sector Digital Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-gmp-using-grants-mgmt-portal.md).
 
-## Related
-
-- [[psds-gmp-using-grants-mgmt-portal|Using the Grants Management Portal in Public Sector Digital Services]]

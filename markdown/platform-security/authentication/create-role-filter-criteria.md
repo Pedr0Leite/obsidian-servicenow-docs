@@ -14,7 +14,7 @@ breadcrumb: [Role Filter, Filter criteria, Adaptive authentication, Authenticati
 
 # Create role filter criteria
 
-[[role-filter|Role filter]] criteria allows you to filter [[users|users]] based on the roles. You can [[configure-allow-access-policy|configure an authentication policy]] to allow or deny access to a list of user roles.
+Role filter criteria allows you to filter users based on the roles. You can configure an authentication policy to allow or deny access to a list of user roles.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: adaptive\_auth\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[adaptive-authentication|Adaptive Authentication]]** &gt; **[[adaptive-auth-filter-criteria|Filter Criteria]]** &gt; **Role Filter Criteria**.
+1.  Navigate to **All** &gt; **Adaptive Authentication** &gt; **Filter Criteria** &gt; **Role Filter Criteria**.
 
 2.  Click **New**.
 
@@ -55,10 +55,4 @@ Role required: adaptive\_auth\_admin
         -   Is empty string
     \[Omitted image "role-filter-criteria.png"\] Alt text: Role filter criteria sample
 
-## Related
 
-- [[role-filter|Role Filter]]
-- [[users|Users]]
-- [[configure-allow-access-policy|Configure an authentication policy]]
-- [[adaptive-authentication|Adaptive authentication]]
-- [[adaptive-auth-filter-criteria|Filter criteria]]

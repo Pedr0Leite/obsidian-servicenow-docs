@@ -28,7 +28,7 @@ Publishing the subscription activates the data synchronization process and begin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[tmt-service-bridge-both-landing-page|Service Exchange]] Consumer** &gt; **Open Records** &gt; **FDS Request**.
+1.  Navigate to **All** &gt; **Service Exchange Consumer** &gt; **Open Records** &gt; **FDS Request**.
 
 2.  Open the FDS request by selecting the record number in the **Number** column.
 
@@ -50,15 +50,9 @@ The foundation data subscription is now active. Data is synchronized to the prov
 **Related topics**  
 
 
-[[service-bridge-v2-explore-foundation-data-sync|Foundation data sync]]
+[Foundation data sync](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-explore-foundation-data-sync.md)
 
-[[using-provider-bound-fds-consumer|Configure outbound foundation data sync as consumers]]
+[Configure outbound foundation data sync as consumers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/using-provider-bound-fds-consumer.md)
 
-[[service-bridge-v2-configure-inboun-fds-providers|Configuring inbound foundation data sync as providers]]
+[Configuring inbound foundation data sync as providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-configure-inboun-fds-providers.md)
 
-## Related
-
-- [[service-bridge-v2-explore-foundation-data-sync|Foundation data sync]]
-- [[using-provider-bound-fds-consumer|Configure outbound foundation data sync as consumers]]
-- [[service-bridge-v2-configure-inboun-fds-providers|Configuring inbound foundation data sync as providers]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]

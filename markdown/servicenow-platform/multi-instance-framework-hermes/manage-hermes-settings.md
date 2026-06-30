@@ -15,12 +15,12 @@ breadcrumb: [Administer, Hermes Messaging Service, Manage service capabilities, 
 
 # Managing Hermes settings
 
-View, modify, and manage configuration properties that control the behavior of [[hermes-messaging-service|Hermes Messaging Service]]. You can update property values, manage background job states, or adjust settings where automated detection is unavailable.
+View, modify, and manage configuration properties that control the behavior of Hermes Messaging Service. You can update property values, manage background job states, or adjust settings where automated detection is unavailable.
 
 -   **[Update Hermes messaging settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/view-and-modify-a-hermes-property-value.md)**  
 Review and modify the current the Hermes configuration properties to control Apache Kafka integration, topic management, and other messaging behavior.
 -   **[Manage a background job in Hermes Messaging Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/manage-a-background-job.md)**  
-Manage background jobs in Hermes Messaging Service to control when and how often scheduled tasks run. You can make a job inactive, re-enable it, or adjust its interval from the [[c-hermes-settings|Hermes Settings page]].
+Manage background jobs in Hermes Messaging Service to control when and how often scheduled tasks run. You can make a job inactive, re-enable it, or adjust its interval from the Hermes Settings page.
 
 **Parent Topic:**[Administering Hermes Messaging Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/hermes-messaging-service-administration.md)
 
@@ -37,7 +37,3 @@ Manage background jobs in Hermes Messaging Service to control when and how often
 
 [View Hermes Messaging Service log messages]()
 
-## Related
-
-- [[hermes-messaging-service|Hermes Messaging Service]]
-- [[c-hermes-settings|Hermes Settings page]]

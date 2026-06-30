@@ -18,7 +18,7 @@ Using featured content, administrators can highlight important resources, articl
 
 Gain visibility into new and invalid content and manage content life cycle through automation for performance improvement.
 
-Mark the most important content as featured content so that employees can quickly [[discover-lxp|discover]] and use the content.
+Mark the most important content as featured content so that employees can quickly discover and use the content.
 
 \[Omitted image "featured-content.png"\] Alt text: See how Featured content appears on top
 
@@ -29,6 +29,3 @@ Mark the most important content as featured content so that employees can quickl
     -   [Associate featured content to a topic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/associate-featured-content-to-topic.md)
     -   [Featured Content form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/featured-content-form.md)
 
-## Related
-
-- [[discover-lxp|Discover]]

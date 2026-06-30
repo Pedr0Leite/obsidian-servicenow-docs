@@ -14,7 +14,7 @@ breadcrumb: [Agile Development 2.0 reference, Agile Development 2.0, Agile Devel
 
 # Related lists for a Release in Agile Development 2.0
 
-Use the related lists in the Release form for the actions that you need to perform for your release in [[agile-landing-page|Agile Development 2.0]], such as associating products, stories, or assignment groups.
+Use the related lists in the Release form for the actions that you need to perform for your release in Agile Development 2.0, such as associating products, stories, or assignment groups.
 
 <table id="table_release_related_list"><thead><tr><th>
 
@@ -53,6 +53,3 @@ Lists the groups assigned to the release. You can assign an existing agile group
 </td></tr></tbody>
 </table>**Parent Topic:**[Agile Development 2.0 reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/agile-development-2-reference.md)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]

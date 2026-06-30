@@ -22,9 +22,9 @@ Role required: admin
 
 ## About this task
 
-Activation of Field Service with Service Locations Support \(com.snc.fsm\_service\_locations\) plugin activates [[fsm-application-landing-page|Field Service Management]] \(com.snc.work\_management\) and sn-fsm-components \(com.sn\_fsm\_components\) plugins if they are not already active.
+Activation of Field Service with Service Locations Support \(com.snc.fsm\_service\_locations\) plugin activates Field Service Management \(com.snc.work\_management\) and sn-fsm-components \(com.sn\_fsm\_components\) plugins if they are not already active.
 
-For more information, see [[service-locations-components|Field Service with Service Locations Support components]].
+For more information, see [Field Service with Service Locations Support components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/service-locations-components.md).
 
 ## Procedure
 
@@ -40,7 +40,4 @@ For more information, see [[service-locations-components|Field Service with Serv
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
-## Related
 
-- [[service-locations-components|Field Service with Service Locations Support components]]
-- [[fsm-application-landing-page|Field Service Management]]

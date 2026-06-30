@@ -31,7 +31,7 @@ The technical editor lets you add any UI Builder component to your dashboard. Yo
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Dashboards**.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Dashboards**.
 
 2.  Select **Create new dashboard**.
 
@@ -67,24 +67,17 @@ The technical editor lets you add any UI Builder component to your dashboard. Yo
 
 9.  Add more containers, components, and configurations.
 
-10. If you have added a data visualization component and you want viewers to drill down to a more detailed data view from that component, follow the instructions in [[add-custom-drilldown-event|Add a drilldown event to a data visualization on a technical dashboard]].
+10. If you have added a data visualization component and you want viewers to drill down to a more detailed data view from that component, follow the instructions in [Add a drilldown event to a data visualization on a technical dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/add-custom-drilldown-event.md).
 
 11. Click **Save** at any time to save the changes you've made to the dashboard.
 
 
-**Parent Topic:**[[technical-dashboards|Technical dashboards]]
+**Parent Topic:**[Technical dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/technical-dashboards.md)
 
 **Related topics**  
 
 
-[[analytics-center-data-visualizations|Data visualizations in Platform Analytics]]
+[Data visualizations in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-data-visualizations.md)
 
-[[interactive-filters-workspace|Filters in Platform Analytics]]
+[Filters in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters-workspace.md)
 
-## Related
-
-- [[add-custom-drilldown-event|Add a drilldown event to a data visualization on a technical dashboard]]
-- [[technical-dashboards|Technical dashboards]]
-- [[analytics-center-data-visualizations|Data visualizations in Platform Analytics]]
-- [[interactive-filters-workspace|Filters in Platform Analytics]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

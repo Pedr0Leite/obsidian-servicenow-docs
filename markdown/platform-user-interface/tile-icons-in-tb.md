@@ -18,7 +18,7 @@ Tile icon illustrations are used to communicate a tile’s purpose using visual 
 
 A tile icon illustration is a small, purpose-driven graphic that visually represents the content or function of a tile, making navigation intuitive, reducing reliance on text. Tile icon illustrations are theme-able, and adapt to the theme colors of your instance.
 
-**Important:** Tile icon illustrations apply to Workspaces and are not supported in the [[c_UI16|Core UI]].
+**Important:** Tile icon illustrations apply to Workspaces and are not supported in the Core UI.
 
 \[Omitted image "tb-tile-icon-illustration.png"\] Alt text: Accessibility tile icon illustration.
 
@@ -34,17 +34,10 @@ To override the default tile icon illustrations with custom images, upload each 
 |Format|SVG|
 |File size limit|2 MB|
 
--   **[[configure-tile-icon-colors|Configure colors for tile icon illustrations]]**  
-[[configure-onboarding-modals|Configure]] and control the colors automatically applied to tile icon illustrations to keep your visual experience engaging while maintaining brand recognition.
--   **[[override-tile-icon-with-custom-images|Override tile icon illustrations with custom images]]**  
+-   **[Configure colors for tile icon illustrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-tile-icon-colors.md)**  
+Configure and control the colors automatically applied to tile icon illustrations to keep your visual experience engaging while maintaining brand recognition.
+-   **[Override tile icon illustrations with custom images](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/override-tile-icon-with-custom-images.md)**  
 Modify or override the default tile icon illustrations with your own custom images to promote visual elements that reflect your company's branding.
 
-**Parent Topic:**[[working-with-image-styles|Working with Image styles]]
+**Parent Topic:**[Working with Image styles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/working-with-image-styles.md)
 
-## Related
-
-- [[configure-tile-icon-colors|Configure colors for tile icon illustrations]]
-- [[override-tile-icon-with-custom-images|Override tile icon illustrations with custom images]]
-- [[working-with-image-styles|Working with Image styles]]
-- [[c_UI16|Core UI]]
-- [[configure-onboarding-modals|Configure]]

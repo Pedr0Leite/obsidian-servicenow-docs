@@ -22,7 +22,7 @@ Role required: sn\_align\_ws.spw\_financial\_user
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace** and select a planning item.
+1.  Navigate to **Workspaces** &gt; **Portfolio Planning Workspace** and select a planning item.
 
 2.  Select the **Financials** tab.
 
@@ -39,6 +39,4 @@ Role required: sn\_align\_ws.spw\_financial\_user
 
     **Note:** You can export financials data from Cost view and Baselines comparison view.
 
-## Related
 
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

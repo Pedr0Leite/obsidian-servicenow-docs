@@ -14,7 +14,7 @@ breadcrumb: [Manually creating and reviewing your network asset instances, Defin
 
 # Define the network interface details
 
-Review, update, or create a network instance for a network interface that controls the signaling and management functions between your networks. You define these attributes so that you can track and manage your network instances in the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+Review, update, or create a network instance for a network interface that controls the signaling and management functions between your networks. You define these attributes so that you can track and manage your network instances in the Telecommunications Network Inventory application.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Network interfaces are used for the interconnection of signaling, or for the Int
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  From the list icon \[Omitted image "lists\_icon-proactive.png"\] Alt text: list icon\(, go to **Inventory** &gt; **Network Interfaces**.
 
@@ -36,7 +36,7 @@ Network interfaces are used for the interconnection of signaling, or for the Int
 
     The fields in the following table are unique to the Network Interface form.
 
-    To learn about the remaining identification fields that are common to most of the Inventory and [[inventory_number_allocation|Inventory number allocation]] menu forms, see [Commonly used network asset instance identification fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/commonly-used-tni-identification-fields.md).
+    To learn about the remaining identification fields that are common to most of the Inventory and Inventory number allocation menu forms, see [Commonly used network asset instance identification fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/commonly-used-tni-identification-fields.md).
 
     |Field|Description|
     |-----|-----------|
@@ -171,7 +171,7 @@ Optical wavelength of a port.
 
     If you click **Save** without clicking **Set Inventory Attributes**, it creates a CI record but not a Telecommunications Network Inventory CI record. In the network inventory workspace, the **Set Inventory Attributes** is visible only for the Telecommunications Network Inventory roles.
 
-7.  On the [[ci-attribue-form|TNI CI Attributes form]], fill in the fields.
+7.  On the TNI CI Attributes form, fill in the fields.
 
     To learn more about the Telecommunications Network Inventory attribute fields, see [TNI CI Attributes form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/ci-attribue-form.md).
 
@@ -215,9 +215,3 @@ Optical wavelength of a port.
 
 [Modeling your workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telecommunications-network-inventory-workflow.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[inventory_number_allocation|Inventory number allocation]]
-- [[ci-attribue-form|TNI CI Attributes form]]

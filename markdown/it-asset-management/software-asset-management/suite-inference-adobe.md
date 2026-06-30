@@ -14,10 +14,7 @@ breadcrumb: [Software Asset Management software suites, Exploring Software Asset
 
 # Suite inference rules for Adobe license metrics
 
-Based on the system property Use component licenses to optimize compliance when suite licenses run out, the [[c_SoftwareAssetMgmt|Software Asset Management]] application uses suite or component licenses.
+Based on the system property Use component licenses to optimize compliance when suite licenses run out, the Software Asset Management application uses suite or component licenses.
 
 **Parent Topic:**[Software Asset Management software suites](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/software-suites.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

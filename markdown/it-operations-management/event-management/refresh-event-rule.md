@@ -14,7 +14,7 @@ breadcrumb: [Event rules, Processing Events, Configuring Event Management, Event
 
 # Refresh event rules
 
-Manually update [[create-event-rules|event rules]] to reflect current event information because once an event rule is created, the **Event Additional info** and **Event Raw info** fields are not automatically updated.
+Manually update event rules to reflect current event information because once an event rule is created, the **Event Additional info** and **Event Raw info** fields are not automatically updated.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ To automatically filter out irrelevant alerts or transform and standardize alert
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **All Events**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **All Events**.
 
 2.  Select the event.
 
@@ -43,7 +43,3 @@ To automatically filter out irrelevant alerts or transform and standardize alert
 
 **Parent Topic:**[Event rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/create-event-rules.md)
 
-## Related
-
-- [[create-event-rules|Event rules]]
-- [[c_EM|Event Management]]

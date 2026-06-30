@@ -26,14 +26,10 @@ This format is listed as part of the IdP's metadata.
 
 ## Procedure
 
-1.  In the property The NameID policy to use for returning the Subject's NameID in the SAMLResponse. Your [[c_SAML2.0WebBrowserSSOProfile|SAML]] [[identity-landing|identity]] provider will have to support this by declaring the policy in its metadata. The NameID value is used to match with the specified field in the User table to lookup the user., enter the value of the`NameIDFormat` element the integration uses.
+1.  In the property The NameID policy to use for returning the Subject's NameID in the SAMLResponse. Your SAML identity provider will have to support this by declaring the policy in its metadata. The NameID value is used to match with the specified field in the User table to lookup the user., enter the value of the`NameIDFormat` element the integration uses.
 
-    By default, the integration uses the SSOCircle `NameIDFormat` for [[email|email]] addresses.
+    By default, the integration uses the SSOCircle `NameIDFormat` for email addresses.
 
 2.  Click **Save**.
 
-## Related
 
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[identity-landing|Identity]]
-- [[email|Email]]

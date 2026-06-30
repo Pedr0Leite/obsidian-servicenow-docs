@@ -14,17 +14,17 @@ breadcrumb: [Configure for consumers, Service Exchange for Consumers, Service Ex
 
 # Activate a remote task definition record in Service Exchange
 
-As a consumer, activate the remote task definitions in your instance so that you can create [[service-bridge-v2-remote-task-overview|remote tasks]].
+As a consumer, activate the remote task definitions in your instance so that you can create remote tasks.
 
 ## Before you begin
 
-Before you can activate a remote task definition \(RTD\) in your ServiceNow instance, your provider must create an RTD first in their ServiceNow instance. For more information, see [[service-bridge-v2-create-remote-tasks-defs|Create a remote task definition in Service Exchange for Providers]].
+Before you can activate a remote task definition \(RTD\) in your ServiceNow instance, your provider must create an RTD first in their ServiceNow instance. For more information, see [Create a remote task definition in Service Exchange for Providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-create-remote-tasks-defs.md).
 
 Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[tmt-service-bridge-both-landing-page|Service Exchange]] Consumer** &gt; **Provider [[se-connections-tab|Connections]]**.
+1.  Navigate to **All** &gt; **Service Exchange Consumer** &gt; **Provider Connections**.
 
 2.  Select the Number column to navigate to the Provider connection record.
 
@@ -60,9 +60,4 @@ Role required: admin
 
     The pop-up window enables you to verify the inbound and outbound mappings.
 
-## Related
 
-- [[service-bridge-v2-create-remote-tasks-defs|Create a remote task definition in Service Exchange for Providers]]
-- [[service-bridge-v2-remote-task-overview|Remote tasks]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]
-- [[se-connections-tab|Connections]]

@@ -14,7 +14,7 @@ breadcrumb: [Create inventory template relationship, Use, Telecommunications Net
 
 # Add slots to the equipment inventory template
 
-In the equipment inventory template that you created in the [[exploring-network-inventory-workspace|Network Inventory Workspace]] [[network-inventory-workspace-list-view|Lists view]], use the Related Templates tab to create the associations for the slots. The following example shows how you add a related inventory template for an equipment model.
+In the equipment inventory template that you created in the Network Inventory Workspace Lists view, use the Related Templates tab to create the associations for the slots. The following example shows how you add a related inventory template for an equipment model.
 
 ## Procedure
 
@@ -38,7 +38,7 @@ After you create all the associated slots, they all appear in the **Related Temp
 
 ## What's next
 
-Next, [[adding-interface-cards-associated-equipment-model|add a network interface to the equipment template]]. To learn more, see [Add a network interface to the equipment template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/adding-interface-cards-associated-equipment-model.md).
+Next, add a network interface to the equipment template. To learn more, see [Add a network interface to the equipment template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/adding-interface-cards-associated-equipment-model.md).
 
 **Parent Topic:**[Create inventory template relationship](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/creating-inventory-templates-telco-equipment.md)
 
@@ -51,8 +51,3 @@ Next, [[adding-interface-cards-associated-equipment-model|add a network interfac
 
 [Create inventory template for network asset instantiation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/preparing-inv-templates-network-asset-generation.md)
 
-## Related
-
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[network-inventory-workspace-list-view|Lists view]]
-- [[adding-interface-cards-associated-equipment-model|Add a network interface to the equipment template]]

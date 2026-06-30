@@ -24,7 +24,7 @@ Role required: sn\_wsd\_case.workplace\_agent
 
 ## About this task
 
-The ServiceNow Agent - [[workplace-agent-mobile-feat|Workplace Agent for mobile]] application enables you to manage the workplace cases and tasks that are assigned to you on the go without the need of a desktop or laptop. You can manage any type of workplace cases such as regular workplace case, maintenance case, move case, space configuration case and reservation case. The application provides you with a category-based display where you can quickly access the works assigned to you and to your assignment group easily. The **Work view** of the application displays your work, your group work, and unassigned work.
+The ServiceNow Agent - Workplace Agent for mobile application enables you to manage the workplace cases and tasks that are assigned to you on the go without the need of a desktop or laptop. You can manage any type of workplace cases such as regular workplace case, maintenance case, move case, space configuration case and reservation case. The application provides you with a category-based display where you can quickly access the works assigned to you and to your assignment group easily. The **Work view** of the application displays your work, your group work, and unassigned work.
 
 For detailed information about the available features, refer to [Workplace Agent for mobile - Key features, actions, and case details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/workplace-agent-mob-key-features-workstats-casedetailspage.md).
 
@@ -136,6 +136,3 @@ Go to the **Unassigned work** section to view the details of all the cases and t
 
 [Offline mode]()
 
-## Related
-
-- [[workplace-agent-mobile-feat|Workplace Agent for mobile]]

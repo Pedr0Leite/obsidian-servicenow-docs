@@ -49,7 +49,7 @@ Savings Opportunity Discovery
 
 </td><td>
 
-Scans [[contracts|contracts]], spend, and [[supplier|supplier]] data on a recurring schedule to surface ranked savings opportunities for category managers to review, act on, or dismiss.
+Scans contracts, spend, and supplier data on a recurring schedule to surface ranked savings opportunities for category managers to review, act on, or dismiss.
 
 </td><td>
 
@@ -69,7 +69,7 @@ For more information about the AI agents, see [Now Assist AI agents](https://raw
 There might be AI agents installed with the Now Assist application that are not used in agentic workflows. To learn how to see all agents that are available to you, see [Find AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/find-ai-agents.md).
 
 -   **[Conversational intake for sourcing and procurement agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-help-fulfill-pr-agentic.md)**  
-The [[spo-help-fulfill-pr-agentic|Conversational intake for sourcing and procurement agentic workflow]] addresses your procurement needs by providing product recommendations, guided checkout, off-catalog processes, and detailed product information. It also answers questions and tracks related records.
+The Conversational intake for sourcing and procurement agentic workflow addresses your procurement needs by providing product recommendations, guided checkout, off-catalog processes, and detailed product information. It also answers questions and tracks related records.
 -   **[Enable AI agents for the Conversational intake for sourcing and procurement agentic workflow in the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/activate-fulfill-pr-agentic-workflow.md)**  
 Enable AI agents in the Now Assist panel to help you manage procurement requests more efficiently, with faster response times and smarter support.
 -   **[Enable AI agents for the Conversational intake for sourcing and procurement agentic workflow in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/activate-fulfill-pr-agentic-workflow-va.md)**  
@@ -77,16 +77,9 @@ Enable AI agents in Virtual Agent to streamline procurement requests, providing 
 -   **[Submit a purchase request using the Now Assist AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/request-product-ai-agents.md)**  
 Use the Now Assist AI‑powered chat experience in the Employee Center to submit a purchase request. The AI agent analyzes your requirements, displays suitable products or services, and guides you through confirming and submitting the request.
 -   **[Update the product category or spend category in the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/update-product-spend-category.md)**  
-Use the Now Assist panel to update the product category or spend category for purchase requisitions, sourcing requests, or purchase orders directly from the [[purch-order-mgmt-ws|Source-to-Pay Workspace]].
+Use the Now Assist panel to update the product category or spend category for purchase requisitions, sourcing requests, or purchase orders directly from the Source-to-Pay Workspace.
 -   **[Email parser agent for Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/email-parser-agent-spo.md)**  
-The [[email-parser-agent-spo|email parser agent for Sourcing and Procurement Operations]] processes inbound emails and creates the appropriate procurement cases without manual intervention.
+The email parser agent for Sourcing and Procurement Operations processes inbound emails and creates the appropriate procurement cases without manual intervention.
 
 **Parent Topic:**[Now Assist for Sourcing and Procurement Operations \(SPO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/now-assist-spo.md)
 
-## Related
-
-- [[contracts|Contracts]]
-- [[supplier|Supplier]]
-- [[spo-help-fulfill-pr-agentic|Conversational intake for sourcing and procurement agentic workflow]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[email-parser-agent-spo|Email parser agent for Sourcing and Procurement Operations]]

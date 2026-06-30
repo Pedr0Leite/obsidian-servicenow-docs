@@ -18,17 +18,17 @@ Use the Conversational Interfaces Guided Setup to create a personalized setup pr
 
 ## Before you begin
 
-The system admin role is required to activate the plugins and store applications. However, AWA admins and [[virtual-agent-landing-page|Virtual Agent]] admins can complete additional setup tasks for their respective solutions.
+The system admin role is required to activate the plugins and store applications. However, AWA admins and Virtual Agent admins can complete additional setup tasks for their respective solutions.
 
 Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Conversational Interfaces Guided Setup**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Conversational Interfaces Guided Setup**.
 
     The Conversational Interfaces Guided Setup page appears.
 
-2.  Review the sections Getting started and Things to consider for setup, which provide information on the setup process and highlight various items to think about before implementing Virtual Agent, [[ci-use-agent-chat|Agent Chat]], or both.
+2.  Review the sections Getting started and Things to consider for setup, which provide information on the setup process and highlight various items to think about before implementing Virtual Agent, Agent Chat, or both.
 
     Also consider whether you want to run Quick setup to get your agents running in as little as 30 minutes, in a minimal number of steps. Manual setup involves a comprehensive series of steps to set up your agents and may take a couple of hours or several days to complete, based on your configuration.
 
@@ -52,8 +52,3 @@ After you've completed the setup tasks, you and your topic authors can explore t
 
 [Guided Setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/guided-setup.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[ci-use-agent-chat|Agent Chat]]

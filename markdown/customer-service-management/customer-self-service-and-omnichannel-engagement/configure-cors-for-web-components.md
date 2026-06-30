@@ -14,11 +14,11 @@ breadcrumb: [Set up Web Embeddables, Web Embeddables, Set up self-service, Confi
 
 # Configure CORS \(Cross-Origin Resource Sharing\) rules before embedding ServiceNow components
 
-Configure a CORS rule to enable cross-domain requests between [[servicenow-web-components-overview|ServiceNow components]] and the website that you want to embed the web components.
+Configure a CORS rule to enable cross-domain requests between ServiceNow components and the website that you want to embed the web components.
 
 ## Before you begin
 
-You must have the following setup in to configure CORS [[gamification-components-rules|rules]] for components:
+You must have the following setup in to configure CORS rules for components:
 
 -   You must activate the ServiceNow components. For more information, see [Activate Web Embeddables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/act-web-embeddables.md).
 -   At least one ServiceNow component configured on your instance.
@@ -55,7 +55,3 @@ The domain name that you’ve entered is configured with CORS rules and can be u
 
 [Define a CORS rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/t_DefineACORSRule.md)
 
-## Related
-
-- [[servicenow-web-components-overview|ServiceNow components]]
-- [[gamification-components-rules|Rules]]

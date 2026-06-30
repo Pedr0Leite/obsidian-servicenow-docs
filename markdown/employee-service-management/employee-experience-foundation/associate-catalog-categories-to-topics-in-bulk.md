@@ -36,7 +36,7 @@ Role required: catalog\_admin, taxonomy\_admin, or any user that meets the Taxon
 
 5.  Click **OK**.
 
-    All the catalog items that belong to the categories that you moved to the Catalog Categories list are associated with the topic. The time taken to associate all the content with a topic depends on the number of catalog items that a category contains. This is a one-time [[activity-lxp|activity]].
+    All the catalog items that belong to the categories that you moved to the Catalog Categories list are associated with the topic. The time taken to associate all the content with a topic depends on the number of catalog items that a category contains. This is a one-time activity.
 
 
 ## What to do next
@@ -48,6 +48,3 @@ For more information, see [Taxonomy and connected content](https://raw.githubuse
 
 [Service catalog categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_ServiceCatalogCategories.md)
 
-## Related
-
-- [[activity-lxp|Activity]]

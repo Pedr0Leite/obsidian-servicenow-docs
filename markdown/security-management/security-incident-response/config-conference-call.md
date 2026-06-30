@@ -22,7 +22,7 @@ Role required: sn\_si.admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sir-landing-page|Security Incident Response]] Workspaces** &gt; **Administration**.
+1.  Navigate to **Workspaces** &gt; **Security Incident Response Workspaces** &gt; **Administration**.
 
 2.  Select **Conference Call**, and then **Call Configuration**.
 
@@ -94,6 +94,3 @@ Option to add default users for adding to a call.
 
 **Parent Topic:**[Security Incident Response conference call integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/sir-conf-call-capability.md)
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]

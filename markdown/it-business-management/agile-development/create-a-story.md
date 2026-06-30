@@ -14,7 +14,7 @@ breadcrumb: [Managing your product development using Agile Development 2.0, Agil
 
 # Create a story in Agile Development 2.0
 
-Create high-level definitions of your requirements in the form of stories in [[agile-landing-page|Agile Development 2.0]]. Manage and track your stories by associating them to a product, project, or release and by assigning them to an assignment group.
+Create high-level definitions of your requirements in the form of stories in Agile Development 2.0. Manage and track your stories by associating them to a product, project, or release and by assigning them to an assignment group.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: scrum\_story\_creator, scrum\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[agile-development|Agile Development]]** &gt; **Stories**.
+1.  Navigate to **All** &gt; **Agile Development** &gt; **Stories**.
 
 2.  Select **New**.
 
@@ -281,7 +281,3 @@ Enhancement associated with the story. This field is a reference field from the 
 
 **Parent Topic:**[Managing your product development using Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/using-agile-development-2-0.md)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]
-- [[agile-development|Agile Development]]

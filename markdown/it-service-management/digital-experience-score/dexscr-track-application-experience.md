@@ -36,9 +36,9 @@ Role required: sn\_dex\_score.digital\_workplace\_leader or sn\_dex\_score.dashb
 
 4.  Select the **Application experience** tile.
 
-5.  On the Application Experience Overview page in the **Application by experience** section, access a list of [[dex-workspace-application-tab|applications]] by selecting either a number in the **No. of applications** column or the **View all applications** link.
+5.  On the Application Experience Overview page in the **Application by experience** section, access a list of applications by selecting either a number in the **No. of applications** column or the **View all applications** link.
 
-    \[Omitted image "dex-score-app-list.png"\] Alt text: [[application-form|Applications list]] page displaying the installed and web applications, application experience scores, and the number of [[dex-workspace-devices-tab|devices]] on which applications are installed.
+    \[Omitted image "dex-score-app-list.png"\] Alt text: Applications list page displaying the installed and web applications, application experience scores, and the number of devices on which applications are installed.
 
 6.  Review the experience scores for an application to assess application performance and possible areas of improvement.
 
@@ -96,7 +96,7 @@ Employee satisfaction with the service desk's quality and speed of support for t
 
     3.  View device health details by selecting a device name in the **Device** column.
 
-        For more information about the [[user-health-card|device health page]], see [Device health page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/user-health-card.md).
+        For more information about the device health page, see [Device health page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/user-health-card.md).
 
 
 **Parent Topic:**[Tracking digital experience using Digital Experience Score​ dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/dexscr-using-dex-score.md)
@@ -114,9 +114,3 @@ Employee satisfaction with the service desk's quality and speed of support for t
 
 [DEX Score normalization for metric scores](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/dexscr-dex-score-normalization.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[application-form|Applications list]]
-- [[dex-workspace-devices-tab|Devices]]
-- [[user-health-card|Device health page]]

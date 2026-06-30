@@ -88,7 +88,7 @@ Primary data
 
 </td><td>
 
-[[cost-center|Cost center]]
+Cost center
 
 </td></tr><tr><td>
 
@@ -104,6 +104,3 @@ View a case from the Finance Operations Workspace for further processing.
 
 **Parent Topic:**[Explore the Finance Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/fin-ops-workpace.md)
 
-## Related
-
-- [[cost-center|Cost center]]

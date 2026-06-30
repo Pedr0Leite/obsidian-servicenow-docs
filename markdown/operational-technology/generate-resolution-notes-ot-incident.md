@@ -33,7 +33,7 @@ OT incident resolution notes are generated from the following information:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]]**.
+1.  Navigate to **All** &gt; **Industrial Workspace**.
 
 2.  Open the Industrial Workspace list view.
 
@@ -107,12 +107,7 @@ If you want to check some details about the OT resolution notes, select the more
     The resolution information is updated and the state of the OT incident is set to **Resolved**.
 
 
-**Parent Topic:**[[operational-technology-overview|Operational Technology]]
+**Parent Topic:**[Operational Technology](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-overview.md)
 
-**Parent Topic:**[[using-now-assist-otsm|Using Now Assist for Operational Technology Service Management \(OTSM\)]]
+**Parent Topic:**[Using Now Assist for Operational Technology Service Management \(OTSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/using-now-assist-otsm.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[using-now-assist-otsm|Using Now Assist for Operational Technology Service Management \(OTSM\)]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

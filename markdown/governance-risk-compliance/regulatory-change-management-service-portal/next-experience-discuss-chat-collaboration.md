@@ -14,7 +14,7 @@ breadcrumb: [Explore, Regulatory Change Management, Governance, Risk, and Compli
 
 # Next Experience Discuss and Chat Collaboration
 
-On a [[reg-change-mgmt-landing-page|regulatory change management]] case, select **Discuss** from other options. Collaborate with virtual agents by using **Next Experience Chat Collaboration** and Discuss.
+On a regulatory change management case, select **Discuss** from other options. Collaborate with virtual agents by using **Next Experience Chat Collaboration** and Discuss.
 
 -   Using Next Experience Chat and Discuss streamline communication and enhance collaboration among distributed risk and compliance teams working on compliance cases/requests.
 -   Fill out preliminary information and context for the discussion. Identify subject matter experts to help and collaborate within the discussion. Managers can access multiple discussions at once using the docked windows feature.
@@ -34,6 +34,3 @@ On a [[reg-change-mgmt-landing-page|regulatory change management]] case, select 
 
 [Exploring Now Assist in Regulatory Change Management \(RCM\)]()
 
-## Related
-
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]

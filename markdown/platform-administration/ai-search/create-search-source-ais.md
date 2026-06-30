@@ -24,15 +24,15 @@ Role required: ais\_admin
 
 ## About this task
 
-Define at least one search source for each of your indexed sources. You can define multiple search sources that [[reference-email-admin|reference]] the same indexed source, specifying distinct filter conditions for each.
+Define at least one search source for each of your indexed sources. You can define multiple search sources that reference the same indexed source, specifying distinct filter conditions for each.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ia-ai-search|AI Search]]** &gt; **AI Search Index** &gt; **Indexed Sources**.
+1.  Navigate to **All** &gt; **AI Search** &gt; **AI Search Index** &gt; **Indexed Sources**.
 
 2.  In the Search Source Mappings related list, select **New**.
 
-3.  On the [[search-source-form-ais|Search Source form]], fill in the fields.
+3.  On the Search Source form, fill in the fields.
 
     For a description of the field values, see [Search Source form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/search-source-form-ais.md).
 
@@ -43,8 +43,3 @@ Define at least one search source for each of your indexed sources. You can defi
 
 **Parent Topic:**[Search sources in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/search-sources-ais.md)
 
-## Related
-
-- [[reference-email-admin|Reference]]
-- [[ia-ai-search|AI Search]]
-- [[search-source-form-ais|Search Source form]]

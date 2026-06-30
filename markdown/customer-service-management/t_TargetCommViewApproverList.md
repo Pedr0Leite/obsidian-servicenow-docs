@@ -12,7 +12,7 @@ breadcrumb: [Targeted communications, Configure case management, Case management
 
 # View approvers for a publication
 
-Access and review the assigned approvers for a publication sent for review in [[c_TargetedCommunications|Targeted Communications]].
+Access and review the assigned approvers for a publication sent for review in Targeted Communications.
 
 ## Before you begin
 
@@ -30,6 +30,4 @@ Role required: sn\_publications.author or sn\_publications.admin
 
     The Approvers list includes the users with the publications approver role that have been added as approvers to the publication workflow.
 
-## Related
 
-- [[c_TargetedCommunications|Targeted communications]]

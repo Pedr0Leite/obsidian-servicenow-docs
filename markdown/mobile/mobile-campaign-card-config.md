@@ -14,7 +14,7 @@ breadcrumb: [Displaying campaigns, Configuring the Mobile Platform, Mobile Platf
 
 Configure item views to provide the details that define the appearance of cards within a mobile campaign to enhance display options and make your campaign more effective.
 
-When creating item views for cards for a mobile campaign, you need to construct required JSON code to define the appearance of the cards. You then provide this code in the **Item view JSON** field of the Item view form, as described in [[mobile-campaign-card-type|Create appearance templates for cards for a mobile campaign]]
+When creating item views for cards for a mobile campaign, you need to construct required JSON code to define the appearance of the cards. You then provide this code in the **Item view JSON** field of the Item view form, as described in [Create appearance templates for cards for a mobile campaign](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-campaign-card-type.md)
 
 **Note:** If any of the configurable values are empty or the line of code is removed, the default value is used.
 
@@ -137,6 +137,4 @@ The custom parameters for the item view for image cards are as follows:
 
     When set to `true` \(the default\), images on an image card are cropped to where the faces are captured in the frame.
 
-## Related
 
-- [[mobile-campaign-card-type|Create appearance templates for cards for a mobile campaign]]

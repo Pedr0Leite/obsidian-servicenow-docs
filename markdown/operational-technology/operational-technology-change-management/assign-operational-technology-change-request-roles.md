@@ -14,7 +14,7 @@ breadcrumb: [Configure, Operational Technology Change Management, Operational Te
 
 # Assign Operational Technology Change Management roles
 
-[[assign-operational-technology-incident-management-roles|Assign roles to your users]] so that you can control their access to the features, capabilities, and data in the [[operational-technology-change-management-landing-page|Operational Technology Change Management]] application.
+Assign roles to your users so that you can control their access to the features, capabilities, and data in the Operational Technology Change Management application.
 
 ## Before you begin
 
@@ -79,7 +79,3 @@ Can only view OT change records.
 
 **Parent Topic:**[Configuring Operational Technology Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-change-management/configuring-operational-technology-change-request.md)
 
-## Related
-
-- [[assign-operational-technology-incident-management-roles|Assign roles to your users]]
-- [[operational-technology-change-management-landing-page|Operational Technology Change Management]]

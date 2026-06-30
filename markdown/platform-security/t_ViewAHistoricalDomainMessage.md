@@ -20,13 +20,13 @@ Role required: admin
 
 ## Procedure
 
-1.  Enable verbose domain logging: Navigate to **All** &gt; **Domain Admin** &gt; **[[domain-separation-center|Domain Separation Center]]** &gt; **Configure Domain Center** &gt; **Enables detail domain logging** &gt; **Yes** \(or set property `glide.sys.domain.verbose` to **True**\).
+1.  Enable verbose domain logging: Navigate to **All** &gt; **Domain Admin** &gt; **Domain Separation Center** &gt; **Configure Domain Center** &gt; **Enables detail domain logging** &gt; **Yes** \(or set property `glide.sys.domain.verbose` to **True**\).
 
 2.  Navigate to **System Diagnostics** &gt; **Session Debug** &gt; **Enable All**.
 
 3.  Let the debug session run for a time period, such as a day, before checking the log files.
 
-4.  Navigate to **[[system-logs|System Logs]]** &gt; **Utilities** &gt; **Node Log File Download**.
+4.  Navigate to **System Logs** &gt; **Utilities** &gt; **Node Log File Download**.
 
 5.  Open the record for the day you want to view.
 
@@ -40,7 +40,4 @@ Role required: admin
 
     In this example, a user only saw records from the Incident table that matched the global and Software domains.
 
-## Related
 
-- [[domain-separation-center|Domain Separation Center]]
-- [[system-logs|System logs]]

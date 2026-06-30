@@ -14,7 +14,7 @@ breadcrumb: [Enterprise Asset Management for Healthcare, Industry-specific EAM s
 
 # Install Enterprise Asset Management for healthcare
 
-You can install the [[eam-for-healthcare|Enterprise Asset Management for Healthcare]] application \(com.sn\_eamhc\) if you have the admin role.The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Enterprise Asset Management for Healthcare application \(com.sn\_eamhc\) if you have the admin role.The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Role required: sys\_admin
 
 ## About this task
 
-The following items are [[installed-with-eam-healthcare|installed with Enterprise Asset Management for Healthcare]]:
+The following items are installed with Enterprise Asset Management for Healthcare:
 
 -   Store applications
 -   Roles
@@ -61,10 +61,5 @@ For more information, see [Installed with Enterprise Asset Management for Health
 **Related topics**  
 
 
-[Installed with [[enterprise-asset-management|Enterprise Asset Management]] for Healthcare]()
+[Installed with Enterprise Asset Management for Healthcare]()
 
-## Related
-
-- [[eam-for-healthcare|Enterprise Asset Management for Healthcare]]
-- [[installed-with-eam-healthcare|Installed with Enterprise Asset Management for Healthcare]]
-- [[enterprise-asset-management|Enterprise Asset Management]]

@@ -16,7 +16,7 @@ breadcrumb: [Employee Document Management, HR Documents, HR Service Delivery, Em
 
 Gain insight into macro trends more efficiently on a single dashboard-style page showing you important metrics on employee documents, status of purging and purge settings, and legal holds.
 
-Activating the Performance Analytics - Content Pack - Human Resources [[hr-employee-doc-management|Employee Document Management]] Scoped App \[com.sn\_hr\_employee\_files\_pa\] plugin enables the Performance Analytics reports and dashboard for the Employee Document Management.
+Activating the Performance Analytics - Content Pack - Human Resources Employee Document Management Scoped App \[com.sn\_hr\_employee\_files\_pa\] plugin enables the Performance Analytics reports and dashboard for the Employee Document Management.
 
 For more information on configuring your dashboard, see Dashboards overview.
 
@@ -67,13 +67,10 @@ Role required: admin
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **Employee Documents** &gt; **Dashboard**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **Employee Documents** &gt; **Dashboard**.
 
     The **Documents and Purging** tab shows by default.
 
 2.  The Click the **Legal Holds** tab to view the number of employees, document types, and documents on legal hold.
 
-## Related
 
-- [[hr-employee-doc-management|Employee Document Management]]
-- [[c_AdministerHRServiceManagement|HR Administration]]

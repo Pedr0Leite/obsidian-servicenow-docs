@@ -18,7 +18,7 @@ Customers can complete the full accelerator fulfillment process independently, w
 
 ## Accelerator Overview
 
-On-demand accelerators provide a fully self-serve experience for [[impact-landing-page|Impact]] customers with a 90-day action plan. Engagement-type filtering, progress tracking, and questionnaire persistence are accessible from the catalog.
+On-demand accelerators provide a fully self-serve experience for Impact customers with a 90-day action plan. Engagement-type filtering, progress tracking, and questionnaire persistence are accessible from the catalog.
 
 ## Self-serve accelerator fulfillment workflow
 
@@ -50,6 +50,3 @@ The workflow consists of consecutive tasks across the following activity types:
 
 [Start an on-demand accelerator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/start-ondemand-accelerator.md)
 
-## Related
-
-- [[impact-landing-page|Impact]]

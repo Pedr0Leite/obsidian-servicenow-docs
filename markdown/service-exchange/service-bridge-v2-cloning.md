@@ -14,14 +14,14 @@ breadcrumb: [Reference, Service Exchange]
 
 # List of preservers and exclusions tables for cloning
 
-When installing [[tmt-service-bridge-both-landing-page|Service Exchange]], certain tables must be preserved or excluded to maintain connectivity after a clone.
+When installing Service Exchange, certain tables must be preserved or excluded to maintain connectivity after a clone.
 
 If the default system profile is used, some of the Service Exchange table data isn’t preserved. To address this issue, you must create a custom clone profile with specific settings required for Service Exchange. Navigate to **All** &gt; **System Clone** &gt; **Clone Profiles** and select **New** to create a custom profile. For more details on clone profiles, see [Create a custom clone profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-clone-profile.md). In this profile, you must:
 
 -   Remove the **Remote Process Sync Disable Records** script from the Cleanup scripts related list,
 -   Validate if the following Service Exchange tables are included in the custom profile.
 
-**Note:** After a clone, you must reestablish the connection and activate the Capture Definitions. See [[service-bridge-v2-cloning-instances|Reestablish connection after a clone for a provider]] and [[service-bridge-v2-cloning-instances-con|Reestablish connection after a clone for a consumer]].
+**Note:** After a clone, you must reestablish the connection and activate the Capture Definitions. See [Reestablish connection after a clone for a provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-cloning-instances.md) and [Reestablish connection after a clone for a consumer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-cloning-instances-con.md).
 
 ## Service Exchange tables to preserve and exclude
 
@@ -252,7 +252,7 @@ sys\_alias
 
 </td></tr><tr><td>
 
-[[service-bridge-v2-explore-foundation-data-sync|Foundation Data Sync]]
+Foundation Data Sync
 
 </td><td>
 
@@ -339,9 +339,3 @@ The following examples use tables from this page to illustrate each scenario:
 
 **sn\_fds\_offering** \(not included in either list\): The system replaces the target table with source data. Records that existed on the target instance before the clone are replaced by source instance records.
 
-## Related
-
-- [[service-bridge-v2-cloning-instances|Reestablish connection after a clone for a provider]]
-- [[service-bridge-v2-cloning-instances-con|Reestablish connection after a clone for a consumer]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]
-- [[service-bridge-v2-explore-foundation-data-sync|Foundation data sync]]

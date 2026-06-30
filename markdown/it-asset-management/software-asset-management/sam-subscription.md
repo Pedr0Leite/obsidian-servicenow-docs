@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Management, IT Asset Management]
 
 # Subscriptions for Software Asset Management
 
-The ServiceNow platform uses a licensing method where your organization is charged for using the [[it-asset-management|IT Asset Management]] applications- ServiceNow [[c_SoftwareAssetMgmt|Software Asset Management]].
+The ServiceNow platform uses a licensing method where your organization is charged for using the IT Asset Management applications- ServiceNow Software Asset Management.
 
 Software Asset Management licensing is based on the resource categories you use. To calculate costs, Software Asset Management uses Subscription Units, a standardized unit of measure for managed IT resources, applied through defined ratios.
 
@@ -27,7 +27,3 @@ Resources that the IT Asset Management applications discover, monitor, and provi
 
 **Parent Topic:**[Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_SoftwareAssetMgmt.md)
 
-## Related
-
-- [[it-asset-management|IT Asset Management]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

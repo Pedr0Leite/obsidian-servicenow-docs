@@ -26,7 +26,7 @@ Role required: dm\_user\_criteria\_read
 
 2.  Open the document record.
 
-3.  Select the **Sharing Permissions** [[check-box|check box]].
+3.  Select the **Sharing Permissions** check box.
 
 4.  Select the **User Criteria Permissions** tab.
 
@@ -39,6 +39,3 @@ Role required: dm\_user\_criteria\_read
 
 **Parent Topic:**[Document security and access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/document-access-settings.md)
 
-## Related
-
-- [[check-box|Check box]]

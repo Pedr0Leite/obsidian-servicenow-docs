@@ -14,11 +14,11 @@ breadcrumb: [Explore, Industrial Connected Workforce Mobile Experience, Industri
 
 # Recommended Actions in the Industrial Connected Workforce Mobile Experience
 
-The Recommended Actions feature in [[icw-mobile-exp-landing-page|Industrial Connected Workforce Mobile Experience]] \(ICW Mobile\) displays suggested actions directly in the Recommendations tab of a task. These suggestions are based on the current context of the task and are intended to support you during manufacturing processes by providing relevant guidance at the point of need.
+The Recommended Actions feature in Industrial Connected Workforce Mobile Experience \(ICW Mobile\) displays suggested actions directly in the Recommendations tab of a task. These suggestions are based on the current context of the task and are intended to support you during manufacturing processes by providing relevant guidance at the point of need.
 
 Each recommended action is generated dynamically using the information that is specific to a task. This helps to focus on the actions that are relevant to your current task and reduce the time spent searching for supporting information. The Recommended Actions for ICW Mobile is available through the Now Mobile Agent.
 
-Recommendations on mobile are produced by the same task contexts and rules as the [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]] experience, so the guidance you receive in the field is consistent with a mobile device or a computer.
+Recommendations on mobile are produced by the same task contexts and rules as the Digital Factory Workspace experience, so the guidance you receive in the field is consistent with a mobile device or a computer.
 
 ## Supported use cases
 
@@ -39,7 +39,3 @@ When you select a recommended record, such as a related deviation or IGT, the re
 
 **Parent Topic:**[Exploring Industrial Connected Workforce Mobile Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/exploring-icw-mobile-experience.md)
 
-## Related
-
-- [[icw-mobile-exp-landing-page|Industrial Connected Workforce Mobile Experience]]
-- [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]

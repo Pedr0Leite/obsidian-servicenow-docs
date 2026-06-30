@@ -16,15 +16,15 @@ breadcrumb: [Configuration Management, Extend ServiceNow AI Platform capabilitie
 
 Use the ServiceNow® Configuration Management Database \(CMDB\) application to build logical representations of assets, services, and the relationships between them that comprise the infrastructure of your organization. Details about these components are stored in the CMDB as configuration items \(CIs\) which you can use to monitor the infrastructure, helping ensure integrity, stability, and continuous service operation.
 
-Use core features such as [[c_CMDBHealth|CMDB Health]], CMDB Identification and Reconciliation, and CMDB Data Manager to monitor and detect health issues, reconcile data integrity issues, and manage data life cycle.
+Use core features such as CMDB Health, CMDB Identification and Reconciliation, and CMDB Data Manager to monitor and detect health issues, reconcile data integrity issues, and manage data life cycle.
 
-**Note:** CMDB modules, features, and wizards are not supported on mobile devices. You cannot use a mobile device to access the [[ci-class-manager-landing-page|CI Class Manager]], Query Builder, or Duplicate CI Remediator or to access or configure CMDB features such as Identification and Reconciliation, CMDB Health, CMDB Data Manager, [[c_BaselineCMDB|baseline CMDB]], and proposed changes.
+**Note:** CMDB modules, features, and wizards are not supported on mobile devices. You cannot use a mobile device to access the CI Class Manager, Query Builder, or Duplicate CI Remediator or to access or configure CMDB features such as Identification and Reconciliation, CMDB Health, CMDB Data Manager, baseline CMDB, and proposed changes.
 
 ## Get started
 
 <table id="table_msx_fnh_j1c" class="nav-card"><tbody><tr><td>
 
-[Explore\[Omitted image "bus-explore.svg"\] Alt text:[[cnfig-mgmt-and-cmdb|Overview of CMDB]] and its predefined tables and key classes.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cnfig-mgmt-and-cmdb.md)
+[Explore\[Omitted image "bus-explore.svg"\] Alt text:Overview of CMDB and its predefined tables and key classes.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cnfig-mgmt-and-cmdb.md)
 
 </td><td>
 
@@ -72,7 +72,7 @@ Use core features such as [[c_CMDBHealth|CMDB Health]], CMDB Identification and 
 
 </td></tr><tr><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-[[reference|reference]].md)Reference topics provide detailed descriptions of tables, properties, forms, and roles.
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-reference.md)Reference topics provide detailed descriptions of tables, properties, forms, and roles.
 
 </td><td>
 
@@ -94,10 +94,3 @@ Use core features such as [[c_CMDBHealth|CMDB Health]], CMDB Identification and 
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[c_CMDBHealth|CMDB Health]]
-- [[ci-class-manager-landing-page|CI Class Manager]]
-- [[c_BaselineCMDB|Baseline CMDB]]
-- [[cnfig-mgmt-and-cmdb|Overview of CMDB]]
-- [[reference|Reference]]

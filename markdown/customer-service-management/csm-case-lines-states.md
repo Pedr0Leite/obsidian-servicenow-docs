@@ -81,7 +81,7 @@ The case line item has been cancelled.
 </td></tr></tbody>
 </table>## Syncing the state of a case with the case line items
 
-The [[csm-case-mgmt-case-lines|Case lines and workflows]] application syncs the state of the case line items with the parent case.
+The Case lines and workflows application syncs the state of the case line items with the parent case.
 
 <table id="table_ptj_wmk_tcc"><thead><tr><th>
 
@@ -145,7 +145,3 @@ When a case in the Draft state is set to Cancelled, the status of each associate
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[csm-case-mgmt-case-lines|Case Lines and Workflows]]

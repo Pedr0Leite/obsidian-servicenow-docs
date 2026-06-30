@@ -14,7 +14,7 @@ breadcrumb: [Employee tasks page, Setup task management, Configuring Employee Ce
 
 # Create or modify to-dos
 
-Create or modify a to-dos in the [[employee-center-landing-page|Employee Center]].
+Create or modify a to-dos in the Employee Center.
 
 ## Before you begin
 
@@ -330,7 +330,7 @@ Order
 Enter the order number in which you want the To-do to appear in the widget.
 
 </td></tr></tbody>
-</table>    3.  Under **[[field-mappings-sf|Field Mappings]]**, map the fields of the selected **To-dos configuration** table with the **To-do target** table.
+</table>    3.  Under **Field Mappings**, map the fields of the selected **To-dos configuration** table with the **To-do target** table.
 
         \[Omitted image "to-do-config-field-mapping.png"\] Alt text: field mapping details
 
@@ -344,7 +344,3 @@ Enter the order number in which you want the To-do to appear in the widget.
 
 [Enable task configuration for approvals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/approval-hub-to-dos-page-filters.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[field-mappings-sf|Field mappings]]

@@ -26,9 +26,9 @@ Enable Now Assist for DEX to access AI-generated boot time diagnostics.
 
 ## About this task
 
-Using Now Assist for Boot Time, analyze comprehensive boot [[perf-metrics-mob|performance metrics]] to help you investigate and resolve device startup issues efficiently. This AI-powered capability provides automated insights into boot performance and identifies potential problems affecting device boot times.
+Using Now Assist for Boot Time, analyze comprehensive boot performance metrics to help you investigate and resolve device startup issues efficiently. This AI-powered capability provides automated insights into boot performance and identifies potential problems affecting device boot times.
 
-Boot time represents the time a Windows device takes to start and get fully usable after a power-on or restart. The metric is captured from Windows event logs and recorded during a full or real boot. The boot time data is used to identify [[dex-workspace-devices-tab|devices]] with slow or degraded boot performance and act to improve the end-user experience.
+Boot time represents the time a Windows device takes to start and get fully usable after a power-on or restart. The metric is captured from Windows event logs and recorded during a full or real boot. The boot time data is used to identify devices with slow or degraded boot performance and act to improve the end-user experience.
 
 You can view boot time metrics in two locations: the **Insights** page and the **Device** page.
 
@@ -68,7 +68,3 @@ You can view boot time metrics in two locations: the **Insights** page and the *
 
 Use the boot time data and AI-generated insights to resolve performance issues and improve the end-user experience.
 
-## Related
-
-- [[perf-metrics-mob|Performance metrics]]
-- [[dex-workspace-devices-tab|Devices]]

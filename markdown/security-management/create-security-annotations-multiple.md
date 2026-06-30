@@ -12,11 +12,11 @@ breadcrumb: [Security annotations, Security Operations common functionality, Sec
 
 # Create security annotations for observables
 
-You can select a single or multiple [[c_Observables|observables]] and apply security annotations to them using the **Actions on selected rows** choice menu.
+You can select a single or multiple observables and apply security annotations to them using the **Actions on selected rows** choice menu.
 
 ## Before you begin
 
--   Requires the [[threat-intel-landing-page|Threat Intelligence]] plugin and activation. The Threat Intelligence plugin is available as a separate subscription.
+-   Requires the Threat Intelligence plugin and activation. The Threat Intelligence plugin is available as a separate subscription.
 
 Role required: admin
 
@@ -35,7 +35,7 @@ Role required: admin
 5.  Select **Submit**.
 
 
-**Parent Topic:**[[security-annotations|Security annotations]]
+**Parent Topic:**[Security annotations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-annotations.md)
 
 **Related topics**  
 
@@ -46,8 +46,3 @@ Role required: admin
 
 [View security annotations reports]()
 
-## Related
-
-- [[security-annotations|Security annotations]]
-- [[c_Observables|Observables]]
-- [[threat-intel-landing-page|Threat Intelligence]]

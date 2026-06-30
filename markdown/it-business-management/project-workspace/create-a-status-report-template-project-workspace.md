@@ -14,7 +14,7 @@ breadcrumb: [Managing projects with Project Workspace, Project Workspace, Projec
 
 # Create a status report template in Project Workspace
 
-Create a custom template for [[status-reporting-in-pw|status reporting in Project Workspace]]. Use the template to create status reports according to your specific requirements.
+Create a custom template for status reporting in Project Workspace. Use the template to create status reports according to your specific requirements.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: it\_project\_manager
 
 ## Procedure
 
-1.  Open a project from the home page of [[project-workspace-landing-page|Project Workspace]].
+1.  Open a project from the home page of Project Workspace.
 
     For information, see [Access the new Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/access-new-project-workspace.md).
 
@@ -30,7 +30,7 @@ Role required: it\_project\_manager
 
 3.  Select **New**.
 
-4.  On the [[create-new-document-template-form|Create new document template form]], fill in the fields.
+4.  On the Create new document template form, fill in the fields.
 
     For a description of the field values, see [Create new document template form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/create-new-document-template-form.md).
 
@@ -66,8 +66,3 @@ The template you created appears as an option when you try to create a status re
 
 [Add dynamic content to status report in Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/add-dynamic-content-to-status-report-in-pw.md)
 
-## Related
-
-- [[status-reporting-in-pw|Status reporting in Project Workspace]]
-- [[project-workspace-landing-page|Project Workspace]]
-- [[create-new-document-template-form|Create new document template form]]

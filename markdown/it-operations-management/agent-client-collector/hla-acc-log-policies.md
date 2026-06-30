@@ -14,11 +14,11 @@ breadcrumb: [Agent Client Collector log policies, Agent Client Collector Log Ana
 
 # Create an Agent Client Collector log policy
 
-Create a new ACC log policy when no default policy exists for the CI that you want [[acc-landing-page|Agent Client Collector]] to monitor.
+Create a new ACC log policy when no default policy exists for the CI that you want Agent Client Collector to monitor.
 
 ## Before you begin
 
--   The [[acc-log-analytics|Agent Client Collector Log Analytics]] \(ACC-L\) application, available from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home), must be installed. For more information, see [Agent Client Collector installation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-installation.md).
+-   The Agent Client Collector Log Analytics \(ACC-L\) application, available from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home), must be installed. For more information, see [Agent Client Collector installation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-installation.md).
 -   The Agent Client Collector comes with the default **servicenow** user. Ensure that this user has read access to enable Agent Client Collector to view all the configured log paths. For example, the Agent Client Collector **servicenow** user that comes installed with the base system does not have permissions to view the paths to `/var/log/` in Linux and `C:\Windows\System32` in Windows. For information about configuring permissions for the **servicenow** user, see the [ACC-L Permission Denied issues \[KB1117271\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1117271) article in the Now Support Knowledge Base.
 
 Role required: agent\_client\_collector\_admin
@@ -79,7 +79,7 @@ Role required: agent\_client\_collector\_admin
         |-----|-----------|
         |Path|The full path from where the logs are streamed. You can use a wildcard. This field is required.|
         |Component|The device type or stack layer that provides a context for the logs, used for anomaly detection and correlation. For example: Tomcat.|
-        |Source Type|Defines how [[hla-landing-page|Health Log Analytics]] handles a specific log type and parses the log data. For example: Tomcat Catalina.|
+        |Source Type|Defines how Health Log Analytics handles a specific log type and parses the log data. For example: Tomcat Catalina.|
 
     3.  For shipping multiline logs using Filebeat, configure the following properties.
 
@@ -168,8 +168,3 @@ For more information, see the Log input [Configuration options](https://www.elas
 
 [Ensure that the data input is streaming data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/accl-verify-log-streaming.md).
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[acc-log-analytics|Agent Client Collector Log Analytics]]
-- [[hla-landing-page|Health Log Analytics]]

@@ -18,7 +18,7 @@ The improved global search provides narrowed down content browsing on the global
 
 The improved global search by topic facets provides filtered data based on its association with the a topic and its sub-topics.
 
--   The supported content types for the search facets include content available on the Unified Browse Widget, like, Service Catalog, Knowledge Base articles, and [[exploring-learning-exp|learning]] content.
+-   The supported content types for the search facets include content available on the Unified Browse Widget, like, Service Catalog, Knowledge Base articles, and learning content.
 -   The topic facets filter content by hierarchy. Select a sub-topic to get specific hierarchical data.
 -   The base system facet levels available are two. You can add up to 10 levels.
 
@@ -28,9 +28,5 @@ The improved global search by topic facets provides filtered data based on its a
     -   Most relevant is the base system sorting option.
     -   Most recent filters the data by date.
 
-**Note:** You must have the [[employee-center-landing-page|Employee Center]] 28.0.4 installed along with Utah for the search by the topic facets feature to function.
+**Note:** You must have the Employee Center 28.0.4 installed along with Utah for the search by the topic facets feature to function.
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[employee-center-landing-page|Employee Center]]

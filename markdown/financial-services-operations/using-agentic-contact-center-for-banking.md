@@ -19,15 +19,15 @@ Learn about the tasks customer service representatives perform in Agentic Contac
 
 Customer service representatives perform these tasks in Agentic Contact Center for Banking:
 
--   [[view-customer-accounts-and-transactions|View customer accounts and transactions in Agentic Contact Center for Banking]]
+-   [View customer accounts and transactions in Agentic Contact Center for Banking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/view-customer-accounts-and-transactions.md)
 
     Review a customer's financial summary, account holdings, and account details in the Customer 360 page to understand the customer's overall position with the bank before or during an interaction.
 
--   [[view-cases|View customer cases in Agentic Contact Center for Banking]]
+-   [View customer cases in Agentic Contact Center for Banking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/view-cases.md)
 
     Review service cases for a customer's account in the Customer 360 page to understand account activity and any open or historical service requests.
 
--   [[work-on-an-interaction|Work on an interaction in Agentic Contact Center for Banking]]
+-   [Work on an interaction in Agentic Contact Center for Banking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/work-on-an-interaction.md)
 
     Manage customer interactions in the Interaction page. Accept incoming calls and resolve issues with AI-powered assistance.
 
@@ -39,11 +39,5 @@ Review service cases for a customer's account in the Customer 360 page to unders
 -   **[Work on an interaction in Agentic Contact Center for Banking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/work-on-an-interaction.md)**  
 Manage customer interactions in the Interaction page, from accepting incoming calls to resolving issues with AI-powered assistance. Customer service representatives \(CSRs\) can verify customer identity, use AI-generated insights, and complete interactions with automated wrap-up summaries.
 
-**Parent Topic:**[[agentic-contact-center-for-banking-landing|Agentic Contact Center for Banking]]
+**Parent Topic:**[Agentic Contact Center for Banking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/agentic-contact-center-for-banking-landing.md)
 
-## Related
-
-- [[view-customer-accounts-and-transactions|View customer accounts and transactions in Agentic Contact Center for Banking]]
-- [[view-cases|View customer cases in Agentic Contact Center for Banking]]
-- [[work-on-an-interaction|Work on an interaction in Agentic Contact Center for Banking]]
-- [[agentic-contact-center-for-banking-landing|Agentic Contact Center for Banking]]

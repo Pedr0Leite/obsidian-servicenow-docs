@@ -24,7 +24,7 @@ This property adds a counter under text fields, such as the **Additional Comment
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[r_SetArchiveRuleProcessingBehavior|System Properties]]** &gt; **UI Properties**.
+1.  Navigate to **All** &gt; **System Properties** &gt; **UI Properties**.
 
 2.  Select the check box next to **Character counter for textarea \(journal and multi line text fields\)**.
 
@@ -32,6 +32,4 @@ This property adds a counter under text fields, such as the **Additional Comment
 
     \[Omitted image "CharactersLeft.png"\] Alt text: Callout for the location of character counter after the check box has been selected.
 
-## Related
 
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

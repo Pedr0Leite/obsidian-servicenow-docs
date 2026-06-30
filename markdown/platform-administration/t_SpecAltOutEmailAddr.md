@@ -12,7 +12,7 @@ breadcrumb: [Create an email notification, Email and SMS notifications, System n
 
 # Specify alternative outbound email addresses for notifications
 
-By default, the system sends all [[ia-outbound-email-il|outbound email]] [[notifications|notifications]] from the default email address of the instance, but you can specify an alternative address.
+By default, the system sends all outbound email notifications from the default email address of the instance, but you can specify an alternative address.
 
 ## Before you begin
 
@@ -47,10 +47,5 @@ For organizations that need to send email messages from specific email addresses
 8.  Click **Update**.
 
 
-**Parent Topic:**[[t_CreateANotification|Create an email notification]]
+**Parent Topic:**[Create an email notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateANotification.md)
 
-## Related
-
-- [[t_CreateANotification|Create an email notification]]
-- [[ia-outbound-email-il|Outbound email]]
-- [[notifications|Notifications]]

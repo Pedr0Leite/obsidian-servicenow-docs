@@ -14,11 +14,11 @@ breadcrumb: [Using the Career Conversations application, Career Conversations, G
 
 # Schedule a growth plan check-in conversation
 
-Use the [[egd-activities-conversations-module|Career Conversations]] app to schedule a check-in conversation with your employee or manager about a growth plan explicitly related to the employee's career advancement within your organization.
+Use the Career Conversations app to schedule a check-in conversation with your employee or manager about a growth plan explicitly related to the employee's career advancement within your organization.
 
 ## Before you begin
 
-You must install the Career Conversations application to access it from the [[employee-center-landing-page|Employee Center]].
+You must install the Career Conversations application to access it from the Employee Center.
 
 You must provide your employees with a license to enable access to the Career Conversations app. For more information about employee licensing, refer to [License Talent Development Core users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-employee-profile-licensing.md).
 
@@ -54,7 +54,7 @@ Role required: employee \[sn\_egd\_act.employee\] or manager \[sn\_egd\_act.mana
 
 5.  Select **Edit plan**.
 
-6.  In the Plan activities widget, select the Add an [[activity-lxp|activity]] drop-down list.
+6.  In the Plan activities widget, select the Add an activity drop-down list.
 
 7.  Select **Check-in**.
 
@@ -128,8 +128,3 @@ Update the agenda for your upcoming conversation by using the link in the meetin
 
 **Parent Topic:**[Using the Career Conversations application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/egd-activities-use.md)
 
-## Related
-
-- [[egd-activities-conversations-module|Career Conversations]]
-- [[employee-center-landing-page|Employee Center]]
-- [[activity-lxp|Activity]]

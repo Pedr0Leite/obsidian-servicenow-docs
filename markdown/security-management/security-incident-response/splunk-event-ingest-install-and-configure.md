@@ -14,7 +14,7 @@ breadcrumb: [Splunk Enterprise Event Ingestion integration for Security Operatio
 
 # Install and configure the ServiceNow application for the Splunk Enterprise Event Ingestion integration
 
-[[configure-cortex-xsiam-siem|Install and configure]] Splunk Enterprise security- Event Ingestion integration from the ServiceNow Store on your ServiceNow AI Platform instance.
+Install and configure Splunk Enterprise security- Event Ingestion integration from the ServiceNow Store on your ServiceNow AI Platform instance.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_si.ingestion\_profile\_admin
 
 ## Procedure
 
-1.  If you have not installed the Splunk Enterprise Event Ingestion application from the ServiceNow Store for the integration, see [[install-non-core-apps|Install a Security Operations integration]] and follow the steps to install it.
+1.  If you have not installed the Splunk Enterprise Event Ingestion application from the ServiceNow Store for the integration, see [Install a Security Operations integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/install-non-core-apps.md) and follow the steps to install it.
 
 2.  Navigate to **All** &gt; **Integrations** &gt; **Integrations Configurations**
 
@@ -145,7 +145,3 @@ Use the Splunk Enterprise Event Ingestion settings to modify the preset configur
 
 **Next topic:**[Configure Splunk Enterprise Event Ingestion settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/configure-splunk-enterprise-event-ingestion-settings.md)
 
-## Related
-
-- [[install-non-core-apps|Install a Security Operations integration]]
-- [[configure-cortex-xsiam-siem|Install and Configure]]

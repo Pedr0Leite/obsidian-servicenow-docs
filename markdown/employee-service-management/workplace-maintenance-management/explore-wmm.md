@@ -34,9 +34,6 @@ Administrators and workplace managers can perform the following:
     For example, maintenance plans created for printers for a location use Template A. Similarly, maintenance plans for office desks use Template B. To achieve further granularity within maintenance plans, you can assign different templates for different printer types or model types \(HP, Cannon, and so on\). You can also use a different template for different maintenance schedules \(daily, weekly, quarterly, and so on\).
 
 -   Schedule job checks for an associated template and creates maintenance cases. It also pre-creates maintenance cases for plan records whose schedule is less than a day.
--   Track and monitor maintenance plan records and maintenance cases on [[workplace-central-feat|Workplace Central]].
+-   Track and monitor maintenance plan records and maintenance cases on Workplace Central.
 -   Analyze metrics and trends to show preventive maintenance cases versus corrective maintenance cases. Administrators and workplace managers can take appropriate measures to reduce corrective maintenance issues. For example, sudden outages and printer breakdown. Create maintenance plans for your models and assets to reduce the volume of corrective cases. For more information, see [Workplace Maintenance Management dashboard and analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/workplace-maintenance-management-dashboard-overview.md).
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]

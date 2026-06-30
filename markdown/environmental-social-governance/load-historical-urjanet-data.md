@@ -33,8 +33,5 @@ Role required: import\_scheduler
 
 The metrics are created by using the configured entities and metric definitions.
 
-**Parent Topic:**[[integrating-esg-management-with-urjanet|Integrating Operational Sustainability Management \(formerly ESG\) with Urjanet]]
+**Parent Topic:**[Integrating Operational Sustainability Management \(formerly ESG\) with Urjanet](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/integrating-esg-management-with-urjanet.md)
 
-## Related
-
-- [[integrating-esg-management-with-urjanet|Integrating Operational Sustainability Management \(formerly ESG\) with Urjanet]]

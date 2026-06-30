@@ -14,7 +14,7 @@ breadcrumb: [Using Dispatcher Workspace, Assigning tasks from Dispatcher Workspa
 
 # Remove a temporarily added agent from Dispatcher Workspace
 
-You can remove an agent from [[dispatcher-activities|Dispatcher Workspace]] that you temporarily added.
+You can remove an agent from Dispatcher Workspace that you temporarily added.
 
 ## Before you begin
 
@@ -47,6 +47,4 @@ Select the more actions \[Omitted image "more\_actions.png"\] Alt text: more act
 </td></tr></tbody>
 </table>    \[Omitted image "remove-all-added.png"\] Alt text: dispatcher workspace showing removing all added agents
 
-## Related
 
-- [[dispatcher-activities|Dispatcher Workspace]]

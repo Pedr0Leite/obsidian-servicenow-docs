@@ -20,7 +20,7 @@ Several types of components are installed with Visual Task Boards.
 
 ## Tables installed with Visual Task Boards
 
-Tables are added to your instance when you [[t_ActivateVisualTaskBoards|activate Visual Task Boards]].
+Tables are added to your instance when you activate Visual Task Boards.
 
 <table id="table_mvy_5vb_dt"><thead><tr><th>
 
@@ -108,7 +108,7 @@ Script includes are added to your instance when you activate Visual Task Boards.
 
 |Script include|Description|
 |--------------|-----------|
-|VisualTaskBoards|Provides general utilities for [[c_VisualTaskBoards|Visual Task Boards]].|
+|VisualTaskBoards|Provides general utilities for Visual Task Boards.|
 |VTBBoardSecurity|Provides security utilities to control board access.|
 |VTBGetBoardsByUser|Provides a method that retrieves all the boards a specified user owns or is a member of.|
 |VTBTaskSecurity|Provides security utilities to control task access.|
@@ -299,7 +299,3 @@ Notifications are added to your instance when you activate Visual Task Boards.
 |VTB lane limit exceeded|Sends an email notification to the board member that the number of tasks in the lane has exceeded the set lane limit.|
 |VTB card movement across vertical lanes and swimlanes|Sends an email notification to the board member with the details of the card moved and the member who moved the card.|
 
-## Related
-
-- [[t_ActivateVisualTaskBoards|Activate Visual Task Boards]]
-- [[c_VisualTaskBoards|Visual Task Boards]]

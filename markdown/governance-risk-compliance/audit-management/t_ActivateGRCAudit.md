@@ -14,7 +14,7 @@ breadcrumb: [Configure, Audit Management, Governance, Risk, and Compliance]
 
 # Download Audit Management
 
-Before you run GRC: [[c_GRCAudits|Audit Management]] \(com.sn\_audit\) in your instance, you must download it from the ServiceNow Store.
+Before you run GRC: Audit Management \(com.sn\_audit\) in your instance, you must download it from the ServiceNow Store.
 
 ## Before you begin
 
@@ -22,12 +22,8 @@ Role required: admin
 
 ## Procedure
 
-1.  Follow the instructions for [[download-grc-first-time|Download a GRC application from the ServiceNow Store for the first time]].
+1.  Follow the instructions for [Download a GRC application from the ServiceNow Store for the first time](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/download-grc-first-time.md).
 
 
 **Parent Topic:**[Configuring Audit Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/audit-imple-overview.md)
 
-## Related
-
-- [[download-grc-first-time|Download a GRC application from the ServiceNow Store for the first time]]
-- [[c_GRCAudits|Audit Management]]

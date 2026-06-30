@@ -55,8 +55,5 @@ Role required: sn\_se.scan\_engine\_admin, sn\_se.scan\_engine\_read\_user, sn\_
     Choose whether to automatically accept the existing reason.
 
 
-**Parent Topic:**[[configure-scan-engine-properties|Configure Scan Engine properties]]
+**Parent Topic:**[Configure Scan Engine properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configure-scan-engine-properties.md)
 
-## Related
-
-- [[configure-scan-engine-properties|Configure Scan Engine properties]]

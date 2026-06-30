@@ -38,11 +38,7 @@ The Recommended Actions for HRSD provides real‑time, actionable guidance and r
 
 [Use \[Omitted image "bus-task-list.svg"\] Alt text:](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/guided-decision-tree-aws.md)
 
- [[guided-decision-tree-aws|Use Recommended Actions]] for HRSD to help HR agents speed up case resolution.
+ Use Recommended Actions for HRSD to help HR agents speed up case resolution.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[guided-decision-tree-aws|Use recommended actions]]

@@ -14,7 +14,7 @@ breadcrumb: [Configuration Compliance imported data, Explore, Configuration Comp
 
 # The Tenable Vulnerability Integration with Configuration Compliance
 
-The Tenable.io product of the Tenable Vulnerability Integration imports policies, controls \(test results\), and configuration tests for processing in the [[vr-config-compliance-landing|Configuration Compliance]] application.
+The Tenable.io product of the Tenable Vulnerability Integration imports policies, controls \(test results\), and configuration tests for processing in the Configuration Compliance application.
 
 **Note:** Starting with v14.9 of Configuration Compliance, the following terms have been renamed:
 
@@ -30,7 +30,7 @@ The Tenable Vulnerability Integration is supported.
 
 You can use imported data to:
 
--   Identify configuration-related [[vulnerabilities|vulnerabilities]] on your assets listed in your Configuration Management Database \(CMDB\)
+-   Identify configuration-related vulnerabilities on your assets listed in your Configuration Management Database \(CMDB\)
 -   Verify that your assets are in compliance with your policies and controls.
 
 Assets data, policies, controls \(test results\), and configuration tests are imported with the following integrations:
@@ -64,7 +64,3 @@ To activate them:
 1.  Navigate to **Tenable Vulnerability Integration** &gt; **Administration** &gt; **Integrations**.
 2.  On the Tenable Integrations list, click an integration name to open the record and select the **Active** check box to enable it. You might prefer to leave the schedule settings in their default values for these integrations to start.
 
-## Related
-
-- [[vr-config-compliance-landing|Configuration Compliance]]
-- [[vulnerabilities|Vulnerabilities]]

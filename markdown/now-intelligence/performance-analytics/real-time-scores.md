@@ -14,7 +14,7 @@ breadcrumb: [Configure fundamentals, Performance Analytics \(Indicator data sour
 
 # Real-time scores
 
-You can view some Performance Analytics scores in real-time instead of from the most recent data collection job. If real-time scores are enabled, you can view them in [[kpi-details|KPI Details]] and in some data visualizations.
+You can view some Performance Analytics scores in real-time instead of from the most recent data collection job. If real-time scores are enabled, you can view them in KPI Details and in some data visualizations.
 
 Usually, the most recent score that a visualization can show is the one from the most recent successfully run [data collection job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md). However, some visualizations can show indicator scores in real-time, for some indicators.
 
@@ -28,13 +28,13 @@ You can show real-time scores for an indicator that meets the following criteria
 
 The following visualizations can show scores in real time:
 
--   The [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]
--   [[c_performanceAnalyticsAndReporting|Platform Analytics]] data visualizations that support real time update, such as Single score.
+-   The Analytics Hub
+-   Platform Analytics data visualizations that support real time update, such as Single score.
 -   KPI Details
--   Performance Analytics [[score-widgets|score widgets]] with the Real-time visualization
--   Workbench [[widgets|widgets]], for the main indicator
+-   Performance Analytics score widgets with the Real-time visualization
+-   Workbench widgets, for the main indicator
 
-**Warning:** Real-time scores can differ per viewer and differ from collected scores. Real-time scores are taken directly from the relevant facts tables. Therefore, the [[access-control|Access Control]] Lists \(ACL\) of those facts tables determine the real-time scores that each logged-in user sees.
+**Warning:** Real-time scores can differ per viewer and differ from collected scores. Real-time scores are taken directly from the relevant facts tables. Therefore, the Access Control Lists \(ACL\) of those facts tables determine the real-time scores that each logged-in user sees.
 
 **Important:** The Analytics Hub does not update real-time scores automatically. To see the most up-to-date scores on the Analytics Hub, refresh the browser page. Widgets and KPI Details do update automatically.
 
@@ -53,11 +53,3 @@ The following visualizations can show scores in real time:
 
 [Monitor a workflow with a workbench process widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_MonitorWorkflowWorkbenchWidget.md)
 
-## Related
-
-- [[kpi-details|KPI Details]]
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[score-widgets|Score widgets]]
-- [[widgets|Widgets]]
-- [[access-control|Access control]]

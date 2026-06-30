@@ -27,7 +27,7 @@ Currently, the application offers the following:
 
 -   **EU AI Act**
 
-    The EU AI Act is a regulatory framework that sets common rules for the use of artificial intelligence in the European Union. It follows a risk-based approach, classifying [[ai-system-airc|AI systems]] into unacceptable, high, limited, and minimal risk categories. Higher-risk AI systems are subject to stricter requirements such as risk management, transparency, human oversight, and ongoing monitoring. Authority documents and citations for the EU AI Act are available in the content pack. Pre-shipped control objective and risk statement mappings are not included for the EU AI Act. The EU AI Act content is structured into 13 chapters and contains 113 articles covering risk-based regulatory requirements for AI systems.
+    The EU AI Act is a regulatory framework that sets common rules for the use of artificial intelligence in the European Union. It follows a risk-based approach, classifying AI systems into unacceptable, high, limited, and minimal risk categories. Higher-risk AI systems are subject to stricter requirements such as risk management, transparency, human oversight, and ongoing monitoring. Authority documents and citations for the EU AI Act are available in the content pack. Pre-shipped control objective and risk statement mappings are not included for the EU AI Act. The EU AI Act content is structured into 13 chapters and contains 113 articles covering risk-based regulatory requirements for AI systems.
 
 -   **NIST AI RMF**
 
@@ -43,7 +43,7 @@ Currently, the application offers the following:
 
 -   **Colorado Artificial Intelligence Act \(SB 205\)**
 
-    The Colorado Artificial Intelligence Act establishes requirements for developers and deployers of high-risk AI systems, including [[risk-assessments|risk assessments]], impact evaluations, and disclosure obligations to consumers affected by AI-driven decisions. Authority documents, agency mappings, and citations for the Colorado AI Act are available in the content pack.
+    The Colorado Artificial Intelligence Act establishes requirements for developers and deployers of high-risk AI systems, including risk assessments, impact evaluations, and disclosure obligations to consumers affected by AI-driven decisions. Authority documents, agency mappings, and citations for the Colorado AI Act are available in the content pack.
 
 
 ## Regulatory support statement
@@ -67,7 +67,3 @@ ServiceNow aims to provide software updates for new or updated major regulations
 
 [Activate or update the Transparency in Frontier Artificial Intelligence Act \(SB 53\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/activate-or-update-sb53.md)
 
-## Related
-
-- [[ai-system-airc|AI systems]]
-- [[risk-assessments|risk assessments]]

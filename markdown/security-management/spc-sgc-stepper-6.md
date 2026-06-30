@@ -20,7 +20,7 @@ Role required: sn\_sec\_spc\_core.developer
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[spc-landing|Security Posture Control]]** &gt; **Connectors and use case setup**.
+1.  Navigate to **Workspaces** &gt; **Security Posture Control** &gt; **Connectors and use case setup**.
 
 2.  Select the **SPC API Integrations** tab.
 
@@ -46,6 +46,4 @@ Role required: sn\_sec\_spc\_core.developer
 
 12. To view and edit the import schedule, navigate to **All** &gt; **System Import Sets** &gt; **Administration** &gt; **Scheduled imports**.
 
-## Related
 
-- [[spc-landing|Security Posture Control]]

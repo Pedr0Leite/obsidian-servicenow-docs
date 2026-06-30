@@ -12,7 +12,7 @@ breadcrumb: [Use generative AI skills, Now Assist for Threat Intelligence Securi
 
 # Summarize a Case with Now Assist for Threat Intelligence Security Center
 
-Use [[now-assist-tisc-landing|Now Assist for Threat Intelligence Security Center]] to generate a concise summary of a case, including its key findings and recommended next steps.
+Use Now Assist for Threat Intelligence Security Center to generate a concise summary of a case, including its key findings and recommended next steps.
 
 ## Before you begin
 
@@ -22,13 +22,13 @@ Role required: sn\_sec\_tisc.analyst
 
 ## About this task
 
-The Case Summarization skill analyzes the content of a threat case — including linked [[threat-intel-landing-page|threat intelligence]] objects, notes, and activity history — and generates a concise summary. Analysts can review the summary and quickly understand the current state of the case.
+The Case Summarization skill analyzes the content of a threat case — including linked threat intelligence objects, notes, and activity history — and generates a concise summary. Analysts can review the summary and quickly understand the current state of the case.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center**.
 
-2.  Select the **[[threat-analyst-workbench|Threat Analyst Workbench]]** icon.
+2.  Select the **Threat Analyst Workbench** icon.
 
 3.  In **Case Management**, open the case you want to summarize.
 
@@ -41,15 +41,9 @@ The Case Summarization skill analyzes the content of a threat case — including
     Depending on the available data, the summary includes one or more of the following sections surfacing the prioritized details:
 
     -   Case overview: Available for all summaries. Contains a brief overview and case details.
-    -   Findings: Contain details, such as, Key insights, Top risk [[indicator|indicators]], Assets and Services.
+    -   Findings: Contain details, such as, Key insights, Top risk indicators, Assets and Services.
     -   Key actions taken: Lists the actions performed by analysts on the case.
     -   Recommended next steps: Lists the possible case mitigation, subsequent procedures, or other next steps.
 5.  Select **Share** to open the summary in an editable window and add or remove summary details, and select **Save to work notes**.
 
-## Related
 
-- [[now-assist-tisc-landing|Now Assist for Threat Intelligence Security Center]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-analyst-workbench|Threat Analyst Workbench]]
-- [[indicator|Indicators]]

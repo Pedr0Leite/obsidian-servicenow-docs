@@ -22,7 +22,7 @@ Role required: sn\_grc.user
 
 ## About this task
 
-[[risk-assessments|Risk assessments]] do not appear in the **Self-Service** &gt; **My assessments &amp; surveys** module, because hundreds of GRC assessment records could be generated at once. Instead, risk assessments are shown in a separate [[list-view-uib-ws|list view]].
+Risk assessments do not appear in the **Self-Service** &gt; **My assessments &amp; surveys** module, because hundreds of GRC assessment records could be generated at once. Instead, risk assessments are shown in a separate list view.
 
 ## Procedure
 
@@ -40,7 +40,7 @@ Role required: sn\_grc.user
 2.  Click **Update** and close the record.
  **Note:** Only a user with the sn\_grc.user role can be re-assigned the assessment.
 
- The list of assessments refreshes when you [[reassign-an-assessment|reassign an assessment]] to another user.
+ The list of assessments refreshes when you reassign an assessment to another user.
 
 </td></tr><tr><td id="d404804e141">
 
@@ -57,8 +57,3 @@ Role required: sn\_grc.user
 </table>
 **Parent Topic:**[Assess risks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/assess-risk-old-way.md)
 
-## Related
-
-- [[risk-assessments|risk assessments]]
-- [[list-view-uib-ws|List view]]
-- [[reassign-an-assessment|Reassign an assessment]]

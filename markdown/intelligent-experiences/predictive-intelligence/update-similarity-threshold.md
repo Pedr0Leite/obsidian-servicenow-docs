@@ -30,7 +30,7 @@ A deployed solution returns records only when the similarity score is higher tha
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[predictive-intelligence-landing|Predictive Intelligence]]** &gt; **Similarity** &gt; **Solutions**.
+1.  Navigate to **All** &gt; **Predictive Intelligence** &gt; **Similarity** &gt; **Solutions**.
 
 2.  In the ML Solutions list, locate your solution by filtering for the Solution Name, and open its active version.
 
@@ -44,6 +44,4 @@ A deployed solution returns records only when the similarity score is higher tha
 
     Your solution uses the new threshold value that you assigned to it and returns similar results that have a score higher than 90. If you set the threshold to 90, the similarity score must be 91% or above to return records.
 
-## Related
 
-- [[predictive-intelligence-landing|Predictive Intelligence]]

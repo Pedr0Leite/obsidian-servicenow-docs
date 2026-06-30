@@ -57,8 +57,5 @@ Using the order exception AI voice agent, you can do the following:
 
 The AI voice agent creates an order case for your request, with a system-generated number starting with the prefix ORDCS, and provides you with the case number over the call. Make a note of the case number, because no email confirmation is sent for order cases that are created through the voice channel.
 
-**Parent Topic:**[[now-assist-order-management-using|Using Now Assist for Order Management]]
+**Parent Topic:**[Using Now Assist for Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/now-assist-order-management-using.md)
 
-## Related
-
-- [[now-assist-order-management-using|Using Now Assist for Order Management]]

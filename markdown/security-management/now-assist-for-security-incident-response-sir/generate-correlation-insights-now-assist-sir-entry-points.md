@@ -14,7 +14,7 @@ breadcrumb: [Explore correlation insights, Use generative AI skills, Now Assist 
 
 # Generate correlation insights from the Security Incident Response Workspace with Now Assist for Security Incident Response
 
-Generate and view correlation insights in the [[sir-workspace-landing-page|Security Incident Response Workspace]] to help you connect past events to the security incident you're working on.
+Generate and view correlation insights in the Security Incident Response Workspace to help you connect past events to the security incident you're working on.
 
 ## Before you begin
 
@@ -34,8 +34,8 @@ Roles required: sn\_si.analyst, sn\_si.manager, or sn\_si.basic
 
     You can select more than one observable.
 
-    -   **Associated [[c_Observables|Observables]]**: Records that are linked by shared observables that suggest potential ongoing attacks or repeated use of malicious [[threat-intelligence-infrastructure|infrastructure]]. Examples might include IP addresses, URLs, or file hashes.
-    -   **Configuration items** \(CI\): Records that have the same CIs to help you identify potential [[vulnerabilities|vulnerabilities]] in specific systems. An example might be users' laptops.
+    -   **Associated Observables**: Records that are linked by shared observables that suggest potential ongoing attacks or repeated use of malicious infrastructure. Examples might include IP addresses, URLs, or file hashes.
+    -   **Configuration items** \(CI\): Records that have the same CIs to help you identify potential vulnerabilities in specific systems. An example might be users' laptops.
     -   **Affected Users**: Past incidents that have the same users to help you see patterns such as frequent phishing attempts or multiple unauthorized access attempts. An example is a specific user’s name.
     A list of matching items is displayed.
 
@@ -63,9 +63,3 @@ Roles required: sn\_si.analyst, sn\_si.manager, or sn\_si.basic
     5.  Return to the security incident record and refresh the page.
     6.  Generate correlation insights. Your results are based on your new lookup period.
 
-## Related
-
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[c_Observables|Observables]]
-- [[threat-intelligence-infrastructure|Infrastructure]]
-- [[vulnerabilities|Vulnerabilities]]

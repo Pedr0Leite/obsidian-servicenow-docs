@@ -16,7 +16,7 @@ Configure the MID Server to retrieve the temporary security credentials associat
 
 ## Before you begin
 
-Role required: [[r-discovery|discovery]]\_admin or sn\_cmp.cloud\_admin \(for [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]\)
+Role required: discovery\_admin or sn\_cmp.cloud\_admin \(for Cloud Provisioning and Governance\)
 
 ## Procedure
 
@@ -36,7 +36,7 @@ Role required: [[r-discovery|discovery]]\_admin or sn\_cmp.cloud\_admin \(for [[
 
     -   arn:partition:service:region:account-id:resource-type/resource-id
     -   resource-id
-    The MID Server uses the same IAM role that is set up for the corresponding AWS service account. For more information, see [[configure-iam-role-aws-account|Configure temporary credential access for trusted AWS accounts]].
+    The MID Server uses the same IAM role that is set up for the corresponding AWS service account. For more information, see [Configure temporary credential access for trusted AWS accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/configure-iam-role-aws-account.md).
 
     For operational information about creating AWS roles, refer to the Amazon documentation on [Creating a role to delegate permissions to an IAM user](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_create_for-user.html).
 
@@ -45,11 +45,5 @@ Role required: [[r-discovery|discovery]]\_admin or sn\_cmp.cloud\_admin \(for [[
     The new parameter is listed in the MID Server record.
 
 
-**Parent Topic:**[[setup-aws-service-accounts|Setting up AWS service accounts]]
+**Parent Topic:**[Setting up AWS service accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/setup-aws-service-accounts.md)
 
-## Related
-
-- [[configure-iam-role-aws-account|Configure temporary credential access for trusted AWS accounts]]
-- [[setup-aws-service-accounts|Setting up AWS service accounts]]
-- [[r-discovery|Discovery]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]

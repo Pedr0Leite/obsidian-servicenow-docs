@@ -122,7 +122,7 @@ Include consumables
 
 </td><td>
 
-Option to include [[c_ReceiveAConsumableAsset|consumable assets]] in the stockroom audit. The available options are:-   Yes: When this field is set to **Yes**, consumable assets are included in the inventory audit.
+Option to include consumable assets in the stockroom audit. The available options are:-   Yes: When this field is set to **Yes**, consumable assets are included in the inventory audit.
 -   No: When this field is set to **No**, consumable assets aren't included in the inventory audit.
 
 **Note:** You can include consumable assets only for stockroom audit. When the **Type** field is set to **Stockroom**, this field is activated. When the **Type** field is set to **Location**, this field is automatically set to **No** and inactive.
@@ -152,7 +152,7 @@ Depending on the value of the **Include consumables** field, the default selecti
 -   When the **Include consumables** field is set to **Yes**, the **Scan method** field value is automatically set to **Single Scan** and can’t be edited.
 -   When the **Include consumables** field is set to **No**, the Scan method field becomes editable, enabling you to select the desired scan type.
 
-Depending on the selected scan method for the audit record, you can scan the assets in the inventory using the [[agent-mobile-asset|ServiceNow Agent app]].
+Depending on the selected scan method for the audit record, you can scan the assets in the inventory using the ServiceNow Agent app.
 
 -   To complete asset scanning for the single scan audit record, see [Complete a single scan inventory audit using the ServiceNow Agent app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/scan-assets-agent-app.md).
 -   To complete asset scanning for multi scan audit records, see [Complete multi scan inventory audit using the ServiceNow Agent app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/complete-multi-scan-inventory-audit-using-mobile-app.md).
@@ -173,7 +173,3 @@ Depending on the selected scan method for the audit record, you can scan the ass
 
 [Complete multi scan inventory audit using the ServiceNow Agent app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/complete-multi-scan-inventory-audit-using-mobile-app.md)
 
-## Related
-
-- [[c_ReceiveAConsumableAsset|Consumable assets]]
-- [[agent-mobile-asset|ServiceNow Agent app]]

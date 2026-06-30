@@ -30,7 +30,7 @@ The default start date is set to 90 days ago starting from the day before the cu
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]** &gt; **Manager Workspace**.
+1.  Navigate to **All** &gt; **Workforce Optimization for ITSM** &gt; **Manager Workspace**.
 
 2.  Click the Schedule icon \[Omitted image "schedule-icon.png"\] Alt text: Schedule icon.
 
@@ -81,6 +81,3 @@ The default start date is set to 90 days ago starting from the day before the cu
 
 **Parent Topic:**[Setting up Demand Forecast in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/setting-up-demand-forecast-configurable-wfo-itsm.md)
 
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]

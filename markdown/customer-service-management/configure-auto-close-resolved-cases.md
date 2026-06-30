@@ -28,7 +28,7 @@ Enable this feature by activating the **Auto Close Resolved Cases** Flow Designe
 
 2.  On the Getting Started page of the guided setup, select **Get Started**
 
-3.  In the [[case-management|Case Management]] category, view the list of tasks to configure the feature.
+3.  In the Case Management category, view the list of tasks to configure the feature.
 
 <table id="table_pz1_qqv_llb"><thead><tr><th>
 
@@ -50,11 +50,11 @@ Activate the Auto Close Resolved Cases Flow Designer Flow, which identifies case
 
 </td></tr><tr><td>
 
-Configure Business [[gamification-components-rules|Rules]] for Auto Close Field
+Configure Business Rules for Auto Close Field
 
 </td><td>
 
-Configure the following business rules to enable or disable the **Auto Close** field on the [[r_CustomerServiceCaseForm|Case form]]:-   Mark for Auto Close
+Configure the following business rules to enable or disable the **Auto Close** field on the Case form:-   Mark for Auto Close
 -   Clear Auto Close
 
 
@@ -75,11 +75,5 @@ The **Auto Close Resolved Cases** Flow Designer flow uses the **Auto Close** fla
 **Related topics**  
 
 
-[[auto-close-customer-service-case|Automatically close customer service cases]]
+[Automatically close customer service cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/auto-close-customer-service-case.md)
 
-## Related
-
-- [[auto-close-customer-service-case|Automatically close customer service cases]]
-- [[case-management|Case management]]
-- [[gamification-components-rules|Rules]]
-- [[r_CustomerServiceCaseForm|Case form]]

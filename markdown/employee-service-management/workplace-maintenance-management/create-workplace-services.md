@@ -22,14 +22,14 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-case-mgmt-feat|Workplace Case Management]]** &gt; **[[workplace-services|Workplace Services]].**.
+1.  Navigate to **All** &gt; **Workplace Case Management** &gt; **Workplace Services.**.
 
-2.  On the [[workplace-service-form|workplace service form]], fill in the fields:
+2.  On the workplace service form, fill in the fields:
 
     -   Service Name: Name of the workplace service. For example, Workplace cleaning.
     -   Case table: Name of the case or request table. Select the **Workplace Maintenance Case** \(sn\_wsd\_maintenance\_case\) table.
-    -   Fulfillment Type: Select **Service [[activity-lxp|Activity]]** from the drop-down options.
-    -   Default Template: Default template for [[workplace-maintenance-mgmt-ovw|Workplace Maintenance Management]]. Search for the **General maintenance request** template using the lookup list icon \(\[Omitted image "icon-lookup.png"\] Alt text: Lookup list icon.\).
+    -   Fulfillment Type: Select **Service Activity** from the drop-down options.
+    -   Default Template: Default template for Workplace Maintenance Management. Search for the **General maintenance request** template using the lookup list icon \(\[Omitted image "icon-lookup.png"\] Alt text: Lookup list icon.\).
 3.  Select **Update**.
 
 
@@ -39,10 +39,3 @@ Role required: admin
 
 **Next topic:**[Create plan service configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/create-maint-service-config.md)
 
-## Related
-
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[workplace-services|Workplace Services]]
-- [[workplace-service-form|Workplace Service form]]
-- [[activity-lxp|Activity]]
-- [[workplace-maintenance-mgmt-ovw|Workplace Maintenance Management]]

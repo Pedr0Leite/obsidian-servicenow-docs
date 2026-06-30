@@ -26,7 +26,7 @@ When reserving space, the map accessibility toggle gives you the option to ident
 
 1.  Log in to a ServiceNow mobile app.
 
-2.  On the [[sg-mobile-tab-bar|navigation bar]], tap the settings icon \(\[Omitted image "settings.png"\] Alt text: Settings icon.\).
+2.  On the navigation bar, tap the settings icon \(\[Omitted image "settings.png"\] Alt text: Settings icon.\).
 
 3.  Navigate to **Preferences** &gt; **Office map preferences** &gt; **Map display**.
 
@@ -43,6 +43,3 @@ Select the map display option best suited for your requirements.
 
 \[Omitted image "indoor-map-compare-color-2-pattern.png"\] Alt text: Side-by-side comparison of 2 indoor map screens. One that identifies location with a color and one that identifies location with black and white patterns.
 
-## Related
-
-- [[sg-mobile-tab-bar|Navigation bar]]

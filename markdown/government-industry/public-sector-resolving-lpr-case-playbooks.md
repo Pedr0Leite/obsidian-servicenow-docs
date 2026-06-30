@@ -14,7 +14,7 @@ breadcrumb: [Using License and Permit Playbook, Playbooks, Use, Public Sector Di
 
 You can use playbooks to create cases and to complete the tasks and activities that are needed to resolve specific types of cases.
 
-**Note:** Verify that the License and Permit Playbook application, which is separate from the Public Sector Digital Services Core application, has been installed and configured. For instructions, see [[configuring-license-permit-playbook|Install and configure the License and Permit Playbook application]].
+**Note:** Verify that the License and Permit Playbook application, which is separate from the Public Sector Digital Services Core application, has been installed and configured. For instructions, see [Install and configure the License and Permit Playbook application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/configuring-license-permit-playbook.md).
 
 By default, the following stages are available to you as a government service agent in the License and Permit Playbook in the CSM Configurable Workspace.
 
@@ -29,7 +29,7 @@ The License and Permit Playbook experience starts with the **Intake** stage. Thi
 
 Use this playbook stage to gather and confirm information about the requester, the license or permit being requested, whether the requester is eligible for this type of license or permit, and whether they are exempt from the fees associated with the license or permit. You can also request additional information from the requester at this stage, upload additional documents, add additional comments, add related parties, and schedule a consultation through the work notes.
 
-If the case was submitted by a constituent through the [[gsp-overview-public-sector|Government Service Portal]], the constituent will be able to upload documents, and review the fees and disclaimers associated with the license or permit application before the case continues. At the end of the Intake stage, agents must enter details about the payment that was processed or waived.
+If the case was submitted by a constituent through the Government Service Portal, the constituent will be able to upload documents, and review the fees and disclaimers associated with the license or permit application before the case continues. At the end of the Intake stage, agents must enter details about the payment that was processed or waived.
 
 The playbook continues with the **Review** stage. In this stage, you can do the initial troubleshooting on the case, verify supporting documents and credentials, and set up any inspections needed for license or permit approval. You can move the case to the next stage when details are provided in the work notes on the inspections \(open work orders or work performed during\) or verifying documents.
 
@@ -69,7 +69,7 @@ Role required: sn\_gsm.constituent\_agent, sn\_gsm.relationship\_agent, sn\_gsm.
 
 8.  Enter the name of the constituent or business that the requester is submitting the application on behalf of, and select **Save**.
 
-    **Note:** All license/permit co-applicants must have a business contact account associated with your business to be included on a license/permit application. Each contact can create an account by registering on the Government Service Portal, or a government service agent can create a business contact record for them. For information on how agents can create a business contact record from information entered in a License and Permit application, see [[psds-multi-party-create-business-contact|Create a business contact account from license or permit application data]].
+    **Note:** All license/permit co-applicants must have a business contact account associated with your business to be included on a license/permit application. Each contact can create an account by registering on the Government Service Portal, or a government service agent can create a business contact record for them. For information on how agents can create a business contact record from information entered in a License and Permit application, see [Create a business contact account from license or permit application data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-multi-party-create-business-contact.md).
 
 9.  Select any add-ons, such as permit endorsements.
 
@@ -205,8 +205,4 @@ Role required: sn\_gsm.constituent\_agent, sn\_gsm.relationship\_agent, sn\_gsm.
 
     A notification is sent to the constituent that lets them know that the request is completed. The constituent can either accept or reject the proposal. If the constituent accepts the proposal, the case is automatically closed. If the constituent rejects the solution, the case is reopened, and the agent must propose another outcome.
 
-## Related
 
-- [[configuring-license-permit-playbook|Install and configure the License and Permit Playbook application]]
-- [[psds-multi-party-create-business-contact|Create a business contact account from license or permit application data]]
-- [[gsp-overview-public-sector|Government Service Portal]]

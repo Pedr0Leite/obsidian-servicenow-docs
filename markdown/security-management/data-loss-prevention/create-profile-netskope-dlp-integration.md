@@ -14,7 +14,7 @@ breadcrumb: [Data Loss Prevention Incident Response Integration with Netskope, I
 
 # Create a Profile for Netskope DLP integration
 
-[[ms-defender-profile|Create an incident profile]] in your ServiceNow AI Platform instance.
+Create an incident profile in your ServiceNow AI Platform instance.
 
 ## Before you begin
 
@@ -95,6 +95,3 @@ Set a schedule to retrieve Netskope DLP incidents that match the criteria in the
 
 **Parent Topic:**[Data Loss Prevention Incident Response Integration with Netskope](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/dlp-incident-response-integration-netskope.md)
 
-## Related
-
-- [[ms-defender-profile|Create an incident profile]]

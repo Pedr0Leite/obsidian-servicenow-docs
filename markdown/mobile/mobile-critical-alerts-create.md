@@ -20,11 +20,11 @@ Role required: admin
 
 ## About this task
 
-This task describes how to create a critical alert from an existing push notification. To create a push notification from scratch, see [[sg-mobile-push-notifications|Mobile push notifications]].
+This task describes how to create a critical alert from an existing push notification. To create a push notification from scratch, see [Mobile push notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-push-notifications.md).
 
 **Note:**
 
--   For users to receive critical alerts, the feature must be enabled on the user’s mobile device. If the feature is not enabled, the critical alert is delivered as a regular push notification, however it is labeled as critical in the notifications area. For more information, see the user-related topic, [[critical-alert-enable|Enabling critical alerts]].
+-   For users to receive critical alerts, the feature must be enabled on the user’s mobile device. If the feature is not enabled, the critical alert is delivered as a regular push notification, however it is labeled as critical in the notifications area. For more information, see the user-related topic, [Enabling critical alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/critical-alert-enable.md).
 -   On the Android platform, when a user receives a critical alert on certain phone types, they may experience the following device behavior:
 
     -   **OnePlus devices with hardware-controlled ringer mode:**
@@ -41,13 +41,13 @@ This task describes how to create a critical alert from an existing push notific
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select **All mobile records** from the menu.
 
@@ -63,7 +63,7 @@ This task describes how to create a critical alert from an existing push notific
 
 6.  Within the **Push message content** area, define and configure your critical alert.
 
-    For information on how to configure a critical alert, see [[mobile-citical-alert-code|Configure code for critical alerts]].
+    For information on how to configure a critical alert, see [Configure code for critical alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-citical-alert-code.md).
 
 7.  Select **Save**.
 
@@ -84,7 +84,7 @@ This task describes how to create a critical alert from an existing push notific
     7.  In the **Push app** field in the Push application area, select the same application you selected for the push notification message record.
     8.  In the Pull message content area, you have the option to edit the critical alert parameters.
 
-        **Note:** If the push message content contains a mobile deep link in the code, then you must change the application this alert is used for, either `Request` or `Agent`. Mobile deep links are written in the code as `MobileDeepLinkGenerator('<application type>')`. For more information, see [[deep-link-mobile-structure|Mobile deep link structure]].
+        **Note:** If the push message content contains a mobile deep link in the code, then you must change the application this alert is used for, either `Request` or `Agent`. Mobile deep links are written in the code as `MobileDeepLinkGenerator('<application type>')`. For more information, see [Mobile deep link structure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/deep-link-mobile-structure.md).
 
     9.  Select **Save**.
     10. Repeat these steps for each mobile application where you want to add a critical notification.
@@ -94,11 +94,3 @@ You can make a push notification into a critical alert with the addition of some
 
 **Parent Topic:**[Mobile push notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-push-notifications.md)
 
-## Related
-
-- [[sg-mobile-push-notifications|Mobile push notifications]]
-- [[critical-alert-enable|Enabling critical alerts]]
-- [[mobile-citical-alert-code|Configure code for critical alerts]]
-- [[deep-link-mobile-structure|Mobile deep link structure]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]

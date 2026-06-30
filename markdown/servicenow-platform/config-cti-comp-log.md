@@ -31,7 +31,7 @@ You can create logs for the following components:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[cloud-call-center-overview|ServiceNow Voice]] Core** &gt; **Log Configuration** &gt; **New**.
+1.  Navigate to **All** &gt; **ServiceNow Voice Core** &gt; **Log Configuration** &gt; **New**.
 
 2.  Select the component, component table, and log level you want to configure.
 
@@ -77,9 +77,5 @@ cti_core:: P:c4bae70xxxxf6a9a|C:bxxxx44|T:793cxxxx7b|O:6fb1xxxx4006dabb45vc::CTX
 -   T: Transformer
 -   O: Operation handler
 
-**Parent Topic:**[[ccc-setup|Setting up ServiceNow Voice]]
+**Parent Topic:**[Setting up ServiceNow Voice](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/ccc-setup.md)
 
-## Related
-
-- [[ccc-setup|Setting up ServiceNow Voice]]
-- [[cloud-call-center-overview|ServiceNow Voice]]

@@ -14,7 +14,7 @@ breadcrumb: [Administering workflow contexts, Workflow administration, Classic W
 
 # Cancel a workflow
 
-Canceling a workflow stops the workflow from executing and sets the workflow context **State** to **Canceled**. To cancel an executing workflow, you can use the cancelContext\(context\) script. You can define an onCancel script to clean up unresolved [[c_WorkflowActivities|workflow activities]].
+Canceling a workflow stops the workflow from executing and sets the workflow context **State** to **Canceled**. To cancel an executing workflow, you can use the cancelContext\(context\) script. You can define an onCancel script to clean up unresolved workflow activities.
 
 ## Before you begin
 
@@ -71,7 +71,7 @@ For more information, see the [Workflow - cancelContext\(GlideRecord context\)]
 
 ## Define an on-cancel script
 
-Canceling a workflow can leave records or scripts in an unresolved state. For example, canceling a [[service-catalog|service catalog]] workflow may leave catalog items in the requesting user's cart. An administrator can specify an On-cancel script that runs when the workflow transitions to the Canceled state. This script can [[notify-landing-page|notify]] users, log information, or resolve the state of any scripts run within a workflow activity. The sys\_id of the workflow context is available in this script using the context\_sys\_id variable.
+Canceling a workflow can leave records or scripts in an unresolved state. For example, canceling a service catalog workflow may leave catalog items in the requesting user's cart. An administrator can specify an On-cancel script that runs when the workflow transitions to the Canceled state. This script can notify users, log information, or resolve the state of any scripts run within a workflow activity. The sys\_id of the workflow context is available in this script using the context\_sys\_id variable.
 
 ### About this task
 
@@ -81,7 +81,7 @@ On-cancel scripts run asynchronously from the global scope. Your instance worklo
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **Workflow** &gt; **[[c_WorkflowVersions|Workflow Versions]]**.
+1.  Navigate to **All** &gt; **Workflow** &gt; **Workflow Versions**.
 
 2.  Select a workflow version that you have checked out.
 
@@ -110,9 +110,3 @@ if (grReq.get(grContext.id)) {
 }
 ```
 
-## Related
-
-- [[c_WorkflowActivities|Workflow activities]]
-- [[service-catalog|Service Catalog]]
-- [[notify-landing-page|Notify]]
-- [[c_WorkflowVersions|Workflow versions]]

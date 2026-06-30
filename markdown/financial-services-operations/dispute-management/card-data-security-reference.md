@@ -15,16 +15,12 @@ breadcrumb: [Card Data Security, Dispute Management, Banking applications, Finan
 
 # Card Data Security Reference
 
-Learn about the components and properties that are installed with [[card-data-security|Card Data Security]].
+Learn about the components and properties that are installed with Card Data Security.
 
 -   **[Components installed with Card Data Security](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/components-installed-with-card-data-security.md)**  
 Several types of components are installed with the activation of Card Data Security.
 -   **[Domain separation and Card Data Security](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/domain-separation-and-card-data-security.md)**  
-[[domain-separation-dispute-content-pack-for-mastercard|Domain separation]] is supported for Card Data Security. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported for Card Data Security. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 **Parent Topic:**[Card Data Security](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/card-data-security.md)
 
-## Related
-
-- [[card-data-security|Card Data Security]]
-- [[domain-separation-dispute-content-pack-for-mastercard|Domain separation]]

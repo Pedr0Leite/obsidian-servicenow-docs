@@ -26,7 +26,7 @@ Before outlining a guided tour, consider these factors:
 
 -   **Accessibility of the tour**
 
-    Enable the tour on your production system to help users perform routine tasks like ordering from the Service Catalog or creating incidents. If your aim is to train users to [[exploring|explore]] these tasks without creating real records, provide the tour on your non-production system.
+    Enable the tour on your production system to help users perform routine tasks like ordering from the Service Catalog or creating incidents. If your aim is to train users to explore these tasks without creating real records, provide the tour on your non-production system.
 
 -   **Name of the tour**
 
@@ -68,7 +68,7 @@ The following tips may also be helpful:
 -   When you place a callout on a form that contains tabs, consider that a user may not have the tab open for viewing. Create a new callout that instructs the user to first open the tab before proceeding with the rest of the tour.
 -   When adding callouts to fields with dynamic content, keep them minimal. If users can’t locate the associated tour element due to a delayed page refresh, the tour may end unexpectedly.
 -   When you guide a user through pop-up windows, add your callout to the originating page on or near the pop-up icon. Within the callout instructions, guide your user through the steps intended for the pop-up window, because callouts can’t be added to the pop-up window.
--   While the color of a callout is static in the Standard platform UI, you can customize callouts on [[c_ServicePortal|Service Portal]]. Consider using this capability to make sure that a consistent look-and-feel between your callouts and your Service Portal pages.
+-   While the color of a callout is static in the Standard platform UI, you can customize callouts on Service Portal. Consider using this capability to make sure that a consistent look-and-feel between your callouts and your Service Portal pages.
 
 ## Auto-launching your tour
 
@@ -78,7 +78,3 @@ You can choose to launch multiple tours automatically from a single starting pag
 
 **Parent Topic:**[Configuring Guided Tours](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/configure-guided-tours.md)
 
-## Related
-
-- [[exploring|Explore]]
-- [[c_ServicePortal|Service Portal]]

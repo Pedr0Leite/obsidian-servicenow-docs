@@ -14,7 +14,7 @@ breadcrumb: [Signature workflow for a request, Use, Contract Management Pro for 
 
 # Resend signature request
 
-[[cncore-resend-sign-req|Resend signature request]] functionality enables contract fulfillers to manually trigger signature request when needed.
+Resend signature request functionality enables contract fulfillers to manually trigger signature request when needed.
 
 ## Before you begin
 
@@ -37,6 +37,3 @@ Notification is resent to the current signatory.
 
 **Parent Topic:**[Signature workflow for a request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-lsd-signature-workflow.md)
 
-## Related
-
-- [[cncore-resend-sign-req|Resend signature request]]

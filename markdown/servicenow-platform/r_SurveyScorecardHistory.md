@@ -16,7 +16,7 @@ The History view compares the current ratings for the categories and their quest
 
 Ratings that have declined are highlighted in red and display negative numbers. Ratings that have improved are highlighted in green with positive numbers. Arrow icons beside the values in the **Diff** column indicate the trend of the current survey against the previous survey.
 
-Point to a category to display a line chart that shows the rating trend for that category. Click a category to view the Survey Category form containing the [[c_SurveyQuestion|survey questions]].
+Point to a category to display a line chart that shows the rating trend for that category. Click a category to view the Survey Category form containing the survey questions.
 
 \[Omitted image "VendorScorecardTrendChart.png"\] Alt text: Survey scorecard trend chart
 
@@ -28,11 +28,11 @@ To calculate the current ratings, the system averages the ratings from the trail
 
 ## 4 quarters
 
-Quarterly [[r_SurveyManagementLandingPage|surveys]] compare the average rating for each question and category in the current quarter against the [[r_AverageRatings|average ratings]] from the previous four quarters. The **Diff** column shows the discrepancy between the current ratings and the previous quarter's ratings. The column labels count backward, by quarter from the current quarter. For example, if the current quarter is the **3rd** quarter of 2015, then the previous quarters appear as **2nd** \[2015\], **1st** \[2015\], **4th** \[2014\], and **3rd** \[2014\]. All four of the previous quarters appear, whether or not there was any data for those quarters.
+Quarterly surveys compare the average rating for each question and category in the current quarter against the average ratings from the previous four quarters. The **Diff** column shows the discrepancy between the current ratings and the previous quarter's ratings. The column labels count backward, by quarter from the current quarter. For example, if the current quarter is the **3rd** quarter of 2015, then the previous quarters appear as **2nd** \[2015\], **1st** \[2015\], **4th** \[2014\], and **3rd** \[2014\]. All four of the previous quarters appear, whether or not there was any data for those quarters.
 
 \[Omitted image "SurveyScorecardHistory4qtr.png"\] Alt text: Survey scorecard history - 4 quarters
 
-**Parent Topic:**[[t_ViewAScorecard|View a survey scorecard]]
+**Parent Topic:**[View a survey scorecard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAScorecard.md)
 
 **Related topics**  
 
@@ -45,9 +45,3 @@ Quarterly [[r_SurveyManagementLandingPage|surveys]] compare the average rating f
 
 [Export a survey scorecard as an image]()
 
-## Related
-
-- [[t_ViewAScorecard|View a survey scorecard]]
-- [[c_SurveyQuestion|Survey questions]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[r_AverageRatings|Average ratings]]

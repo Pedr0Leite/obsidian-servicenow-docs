@@ -14,17 +14,17 @@ breadcrumb: [Configure Supplier Relationship and Performance Management, Configu
 
 # Create contract-level KPIs from KPI management
 
-You can add contract-level KPIs for a [[supplier|supplier]] from the **KPI management** tab of the supplier page. Contract-level KPIs are defined under their respective supplier-level KPIs.
+You can add contract-level KPIs for a supplier from the **KPI management** tab of the supplier page. Contract-level KPIs are defined under their respective supplier-level KPIs.
 
 ## Before you begin
 
 Role required: sn\_kpi.admin
 
-You can add contract-level KPIs only if you have installed the [[purchase-experience-workflow|Sourcing and Purchasing Automation]] \(com.snc.sn\_pr\) and Source-to-Pay Common Architecture \(com.snc.sn\_shop\) plugins.
+You can add contract-level KPIs only if you have installed the Sourcing and Purchasing Automation \(com.snc.sn\_pr\) and Source-to-Pay Common Architecture \(com.snc.sn\_shop\) plugins.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
 2.  Under **Quick actions**, select **Manage my suppliers**.
 
@@ -36,9 +36,9 @@ You can add contract-level KPIs only if you have installed the [[purchase-experi
 
 6.  Select the collection level as **Contract level**.
 
-7.  Select the applicable [[contracts|contracts]] from the list of available contracts.
+7.  Select the applicable contracts from the list of available contracts.
 
-8.  Select a KPI template from the list of available [[kpi-templates|KPI templates]].
+8.  Select a KPI template from the list of available KPI templates.
 
 9.  Select **Add**.
 
@@ -58,11 +58,3 @@ You can add contract-level KPIs only if you have installed the [[purchase-experi
 
 [Create KPIs without using KPI template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-kpis.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[purchase-experience-workflow|Sourcing and Purchasing Automation]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[contracts|Contracts]]
-- [[kpi-templates|KPI templates]]

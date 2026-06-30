@@ -12,7 +12,7 @@ breadcrumb: [Components installed, Reference, Field Service Management]
 
 # Client scripts installed with Field Service Management
 
-Client scripts are added with [[fsm-application-landing-page|Field Service Management]].
+Client scripts are added with Field Service Management.
 
 <table id="table_ClientScripts"><thead><tr><th>
 
@@ -96,7 +96,7 @@ Work Order\[wm\_order\]
 
 </td><td>
 
-Hides [[c_PartRequirements|part requirements]] on the Work Order form if part requirements are not activated in Field Service Configuration.
+Hides part requirements on the Work Order form if part requirements are not activated in Field Service Configuration.
 
 </td></tr><tr><td>
 
@@ -111,10 +111,5 @@ Asset Usage \[sm\_asset\_usage\]
 
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[r_InstalledWithFSM|Components installed with Field Service Management]]
+</table>**Parent Topic:**[Components installed with Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/r_InstalledWithFSM.md)
 
-## Related
-
-- [[r_InstalledWithFSM|Components installed with Field Service Management]]
-- [[fsm-application-landing-page|Field Service Management]]
-- [[c_PartRequirements|Part requirements]]

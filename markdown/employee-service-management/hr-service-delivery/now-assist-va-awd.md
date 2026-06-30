@@ -14,7 +14,7 @@ breadcrumb: [Use, HR Service Delivery Advanced Integration with Workday, Integra
 
 # Now Assist Virtual Agent topics for HR Service Delivery Advanced Integration with Workday
 
-You can use the Now Assist Virtual Agent topics in [[employee-center-landing-page|Employee Center]] to place requests, for example, apply for a time off or update your details from the Workday system in Employee Center.
+You can use the Now Assist Virtual Agent topics in Employee Center to place requests, for example, apply for a time off or update your details from the Workday system in Employee Center.
 
 ## Virtual Agent topics for HR Service Delivery Advanced Integration with Workday Overview
 
@@ -229,10 +229,5 @@ The Get Holiday Calendar Virtual Agent topic enables you to view your holiday ca
 
 [Report an issue with your payslip]()
 
-[Use [[conversational-agents|HCM AI agents]] for [[hr-service-delivery|HR Service Delivery]] Advanced Integration with Workday]()
+[Use HCM AI agents for HR Service Delivery Advanced Integration with Workday]()
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[conversational-agents|HCM AI agents]]
-- [[hr-service-delivery|HR Service Delivery]]

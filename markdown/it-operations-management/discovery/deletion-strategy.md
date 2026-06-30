@@ -14,7 +14,7 @@ breadcrumb: [Advanced Discovery configuration, Configuring Discovery, Discovery,
 
 # CI deletion strategies for pattern discovery
 
-When you perform [[r-discovery|discovery]] with a pattern, you can choose what to do with configuration items \(CIs\) that are in the Configuration Management Database \(CMDB\) but Discovery can no longer find.
+When you perform discovery with a pattern, you can choose what to do with configuration items \(CIs\) that are in the Configuration Management Database \(CMDB\) but Discovery can no longer find.
 
 **Note:** Deletion strategies are available only with patterns, not probes/sensors.
 
@@ -28,7 +28,7 @@ The dependency map on the main CI also shows the related CIs, as illustrated by 
 
 \[Omitted image "iis-server-related-cis.png"\] Alt text: related CIs to an IIS server
 
-After you discover the main CI and its related CIs for the first time using a pattern, you must manually configure an entry in the Related CI Types \[sa\_ci\_to\_pattern\] table for each relation between the main CI and a related CI type. These records are where you determine the deletion strategy for each related CI based on its type. Note that you cannot [[set-deletion-strategy|set a deletion strategy]] for the main CI for Infrastructure pattern type.
+After you discover the main CI and its related CIs for the first time using a pattern, you must manually configure an entry in the Related CI Types \[sa\_ci\_to\_pattern\] table for each relation between the main CI and a related CI type. These records are where you determine the deletion strategy for each related CI based on its type. Note that you cannot set a deletion strategy for the main CI for Infrastructure pattern type.
 
 You can view a list of the relations as the following image illustrates:
 
@@ -97,7 +97,3 @@ Set a deletion strategy when you want to take action on a related configuration 
 
 **Parent Topic:**[Advanced Discovery configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoveryExtendedCapabilities.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[set-deletion-strategy|Set a deletion strategy]]

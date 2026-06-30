@@ -14,7 +14,7 @@ breadcrumb: [Configure, Manager Hub, HR Service Delivery, Employee Service Manag
 
 # Configure to do mappings
 
-Create additional conditions or mappings to display managerial [[emp-slate-inbox|tasks and requests]].
+Create additional conditions or mappings to display managerial tasks and requests.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_mh.admin
 
 **Note:**
 
--   Prior to this Utah release, you could create additional conditions for to-do mappings using the To-dos Configuration form in [[employee-center-landing-page|Employee Center]]. Starting with the Utah release, you can create additional conditions for to-do mappings using the To-dos mapping module in [[manager-hub-overview|Manager Hub]].
+-   Prior to this Utah release, you could create additional conditions for to-do mappings using the To-dos Configuration form in Employee Center. Starting with the Utah release, you can create additional conditions for to-do mappings using the To-dos mapping module in Manager Hub.
 -   If you are upgrading to Utah release, additional conditions that were created for to-do mappings in the To-dos Configuration form in Employee Center must be created again in the To-dos mapping module in Manager Hub.
 
 ## Procedure
@@ -67,7 +67,7 @@ Option to enable the selection of reportee fields from the To-dos configuration 
 
 </td></tr><tr><td>
 
-Parent mapping [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] field
+Parent mapping reference field
 
 </td><td>
 
@@ -134,9 +134,3 @@ Order in which additional filter conditions are applied.
 
 [Configure widgets]()
 
-## Related
-
-- [[emp-slate-inbox|Tasks and requests]]
-- [[employee-center-landing-page|Employee Center]]
-- [[manager-hub-overview|Manager Hub]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

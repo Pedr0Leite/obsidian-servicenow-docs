@@ -13,7 +13,7 @@ breadcrumb: [Configure, Now Assist for Order Management, Sales Customer Relation
 
 # Customize an order summarization skill in Now Assist for Order Management
 
-Configure the [[now-assist-order-management|Now Assist for Order Management]] application so that your order agent and fulfillment agent can use the generative AI skills in the CSM/FSM Configurable Workspace and Business Portal.
+Configure the Now Assist for Order Management application so that your order agent and fulfillment agent can use the generative AI skills in the CSM/FSM Configurable Workspace and Business Portal.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ Role required: admin
 
 3.  Copy the order summarization skill for customization.
 
-    1.  Make a copy of an active skill by selecting either **Order Summarization \(Order Capture\)** or **Order Summarization \([[reviewing-orchestration-plans-order-fulfillment|Order Fulfillment]]\)**.
+    1.  Make a copy of an active skill by selecting either **Order Summarization \(Order Capture\)** or **Order Summarization \(Order Fulfillment\)**.
 
         **Note:** Only one version of a skill can be active at a time for each skill. If you create and activate a copy of the skill, any previously activated version of the skill is deactivated.
 
@@ -35,11 +35,11 @@ Role required: admin
 
         The copy that you make is listed in the All section.
 
-    3.  On the copied skill, select **Activate skill** to open and [[Modify|modify]] it.
+    3.  On the copied skill, select **Activate skill** to open and modify it.
 
         A guided setup leads you through configuring General details, View order input, Customize prompt output, Define Availability, Define access, select display, and Review and activate of the skill to be customized.
 
-4.  In the General details step, fill in the [[fields|fields]].
+4.  In the General details step, fill in the fields.
 
     1.  Enter a name and description for the skill.
 
@@ -132,12 +132,12 @@ Description of the base input field value.
 
     Default and Custom roles:
 
-    -   If no changes are made, the default role sn\_ind\_tmt\_orm.order\_agent automatically appears in **[[please_share_your_feedback_on_admin_assist_responses|User access]] - Access Control List \(ACL\)**.
+    -   If no changes are made, the default role sn\_ind\_tmt\_orm.order\_agent automatically appears in **User access - Access Control List \(ACL\)**.
     -   Apply role restrictions when the skill is invoked by selecting **Roles** and defining which data and resources \(for example, tables\) the user can access in the **Role restrictions to skill** field.
 
         **Note:** If you add a role in the **Define Access** step, you must manually select it in the **Select Display** field to make it active.
 
-9.  Configure the **In-product desktop** field to display the order summarization for [[explore-order-management|Order Management]].
+9.  Configure the **In-product desktop** field to display the order summarization for Order Management.
 
     1.  Display Now Assist skills on the forms and workspaces by selecting the **In-product desktop** field.
 
@@ -152,14 +152,5 @@ Description of the base input field value.
     Select **Summarize** in an order to generate the order summary.
 
 
-**Parent Topic:**[[now-assist-for-order-management-configuring|Configuring Now Assist for Order Management]]
+**Parent Topic:**[Configuring Now Assist for Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/now-assist-for-order-management-configuring.md)
 
-## Related
-
-- [[now-assist-for-order-management-configuring|Configuring Now Assist for Order Management]]
-- [[now-assist-order-management|Now Assist for Order Management]]
-- [[reviewing-orchestration-plans-order-fulfillment|Order fulfillment]]
-- [[Modify|Modify]]
-- [[fields|Fields]]
-- [[please_share_your_feedback_on_admin_assist_responses|User access]]
-- [[explore-order-management|Order management]]

@@ -18,7 +18,7 @@ Clone existing tasks to quickly create new tasks.
 
 ## Before you begin
 
-Role required: wm\_qualifier or [[r_UserRoleInstallWFieldSrvMgmnt|qualifier combination role]]
+Role required: wm\_qualifier or [qualifier combination role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/r_UserRoleInstallWFieldSrvMgmnt.md)
 
 ## About this task
 
@@ -43,6 +43,4 @@ In the cloning process, the following information is copied from the source task
 
     An entry in the **Work Notes** field contains the original task number and text stating that the task is a clone.
 
-## Related
 
-- [[r_UserRoleInstallWFieldSrvMgmnt|Roles installed with Field Service Management]]

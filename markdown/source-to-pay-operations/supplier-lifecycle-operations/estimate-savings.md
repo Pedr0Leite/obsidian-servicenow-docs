@@ -22,15 +22,15 @@ The saving estimator tool is used to calculate potential savings from credit car
 
 Role required: sn\_slm.manager or sn\_slm.admin
 
-**Important:** Check your entitlements to determine whether you have access to [[supplier-pmnt-opt|Supplier Payment Optimization]].
+**Important:** Check your entitlements to determine whether you have access to Supplier Payment Optimization.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
 2.  Under Quick actions, select **Manage my suppliers**.
 
-3.  Select the [[supplier|supplier]] for which you want to estimate the savings \(by commercial credit card payments\).
+3.  Select the supplier for which you want to estimate the savings \(by commercial credit card payments\).
 
 4.  Select the **Spend** tab.
 
@@ -68,9 +68,3 @@ The potential savings from credit card payments are displayed.
 
 [View the Payment Optimization dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/view-payment-opt-db.md)
 
-## Related
-
-- [[supplier-pmnt-opt|Supplier Payment Optimization]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supplier|Supplier]]

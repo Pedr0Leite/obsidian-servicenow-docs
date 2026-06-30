@@ -39,8 +39,5 @@ After you manually add metrics to the disclosure, you can also delete those metr
 7.  Select **Save**.
 
 
-**Parent Topic:**[[esg-disclosures|Disclosures in Operational Sustainability Management \(formerly ESG Management\)]]
+**Parent Topic:**[Disclosures in Operational Sustainability Management \(formerly ESG Management\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/esg-disclosures.md)
 
-## Related
-
-- [[esg-disclosures|Disclosures in Operational Sustainability Management \(formerly ESG Management\)]]

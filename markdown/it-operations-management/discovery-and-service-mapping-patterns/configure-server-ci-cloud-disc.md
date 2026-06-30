@@ -15,11 +15,11 @@ breadcrumb: [Server CI population during cloud discovery, Discovery patterns use
 
 # Configure Server CI creation during cloud discovery
 
-Create Server CIs during cloud [[r-discovery|discovery]] without running IP-based discovery, reducing discovery time in large environments.
+Create Server CIs during cloud discovery without running IP-based discovery, reducing discovery time in large environments.
 
 ## Before you begin
 
-Verify that you have at least version 1.31.0 of Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns.
+Verify that you have at least version 1.31.0 of Discovery and Service Mapping Patterns.
 
 Role required: admin
 
@@ -60,7 +60,3 @@ Run cloud discovery or wait for the next scheduled discovery run for the changes
 
 [Azure Virtual Machine Scale Sets \(VMSS\) Instance discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/AzureVMScaleSetInstance.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

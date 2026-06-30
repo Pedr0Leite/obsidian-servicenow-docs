@@ -14,7 +14,7 @@ breadcrumb: [Customize dashboard templates, Configuring Service Observability, S
 
 # Edit observability data charts on Service Observability dashboard templates
 
-Edit [[service-observability|Service Observability]] dashboard templates to view different observability vendor metrics on the Overview or Observability tabs' charts. Metrics are scoped to the selected service.
+Edit Service Observability dashboard templates to view different observability vendor metrics on the Overview or Observability tabs' charts. Metrics are scoped to the selected service.
 
 ## About this task
 
@@ -34,7 +34,7 @@ Role required: sn\_sow\_svcobs.admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]** and then navigate to a service record.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace** and then navigate to a service record.
 
     You can access a service record from these pages in the SOW:
 
@@ -111,7 +111,3 @@ Role required: sn\_sow\_svcobs.admin
 
 **Parent Topic:**[Customize Service Observability dashboard templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/customize-service-observability-dashboard-templates.md)
 
-## Related
-
-- [[service-observability|Service Observability]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

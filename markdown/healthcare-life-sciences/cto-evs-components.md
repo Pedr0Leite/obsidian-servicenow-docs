@@ -12,7 +12,7 @@ breadcrumb: [Reference, Care Team Operations for Environmental Services, Healthc
 
 # Components installed with Care Team Operations for Environmental Services
 
-Several types of components such as tables, user roles, and business rules are installed when you activate the [[cto-evs-landing|Care Team Operations for Environmental Services]] plugin.
+Several types of components such as tables, user roles, and business rules are installed when you activate the Care Team Operations for Environmental Services plugin.
 
 |Table name|Description|
 |----------|-----------|
@@ -101,10 +101,6 @@ Views and resolves EVS cases assigned to their teams as a location manager.
 
 |Integration|Description|
 |-----------|-----------|
-|Care Team Mobile \(`com.sn_cto_mobile`\)|Adds mobile screens, push notifications, and navigation support for EVS cases in the [[care-team-mobile-landing|Care Team mobile]] app.|
+|Care Team Mobile \(`com.sn_cto_mobile`\)|Adds mobile screens, push notifications, and navigation support for EVS cases in the Care Team mobile app.|
 |Semantic Search \(`com.glide.ais.semantic_search`\)|Enables AI-powered semantic search for EVS cases.|
 
-## Related
-
-- [[cto-evs-landing|Care Team Operations for Environmental Services]]
-- [[care-team-mobile-landing|Care Team Mobile]]

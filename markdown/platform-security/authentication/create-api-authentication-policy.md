@@ -14,7 +14,7 @@ breadcrumb: [API Authentication Policies, API access policy, Authentication, Acc
 
 # Create an API authentication policy
 
-[[authentication-policies|Authentication policies]] allow you to enforce access restrictions on the APIs based on the specified [[adaptive-auth-filter-criteria|filter criteria]].
+Authentication policies allow you to enforce access restrictions on the APIs based on the specified filter criteria.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: api\_service\_admin, adaptive\_auth\_policy\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Web Services** &gt; **[[api-authentication|API Authentication]] Policy**.
+1.  Navigate to **All** &gt; **System Web Services** &gt; **API Authentication Policy**.
 
 2.  Click **New**.
 
@@ -40,7 +40,7 @@ Role required: api\_service\_admin, adaptive\_auth\_policy\_admin
 
     You can also create a new Policy Input. For more information, see [Create policy inputs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/create-policy-input.md).
 
-6.  Move one or more filter criteria from the Collections list to the Policy Inputs List.\[Omitted image "[[c_Authentication|authentication]]-filter-criteria.png"\] Alt text: Adding one or more filter criteria to an authentication policy.
+6.  Move one or more filter criteria from the Collections list to the Policy Inputs List.\[Omitted image "authentication-filter-criteria.png"\] Alt text: Adding one or more filter criteria to an authentication policy.
 
 7.  Select **Save**.
 
@@ -59,9 +59,4 @@ Role required: api\_service\_admin, adaptive\_auth\_policy\_admin
 
 10. Select **Submit**.
 
-## Related
 
-- [[authentication-policies|Authentication policies]]
-- [[adaptive-auth-filter-criteria|Filter criteria]]
-- [[api-authentication|API Authentication]]
-- [[c_Authentication|Authentication]]

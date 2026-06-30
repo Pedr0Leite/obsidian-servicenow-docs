@@ -28,7 +28,7 @@ You can enable or disable logging using the **com.snc.on\_call\_rotation.log\_es
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_OnCallScheduling|On-Call Scheduling]]** &gt; **Escalations** &gt; **Escalation Logs** and open the incident.
+1.  Navigate to **All** &gt; **On-Call Scheduling** &gt; **Escalations** &gt; **Escalation Logs** and open the incident.
 
     The On-Call Escalations \[Escalation Logs view\] opens.
 
@@ -48,6 +48,3 @@ You can enable or disable logging using the **com.snc.on\_call\_rotation.log\_es
 
 [Track the progress of an escalation]()
 
-## Related
-
-- [[c_OnCallScheduling|On-Call Scheduling]]

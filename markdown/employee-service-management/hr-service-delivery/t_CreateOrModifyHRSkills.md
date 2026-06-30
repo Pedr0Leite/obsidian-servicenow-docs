@@ -26,7 +26,7 @@ The following procedure describes how to create and edit HR skills from the Skil
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **Manage Roles** &gt; **Manage HR Skills**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **Manage Roles** &gt; **Manage HR Skills**.
 
 2.  Click **New Skill** or open an existing skill.
 
@@ -49,6 +49,3 @@ The following procedure describes how to create and edit HR skills from the Skil
 
 **Parent Topic:**[HR skills management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_HRSkillsManagement.md)
 
-## Related
-
-- [[c_AdministerHRServiceManagement|HR Administration]]

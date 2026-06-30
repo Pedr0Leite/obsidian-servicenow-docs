@@ -14,7 +14,7 @@ breadcrumb: [Configuring Discovery, Discovery, ITOM Visibility, IT Operations Ma
 
 # Discovery classifiers
 
-A classifier tells [[r-discovery|Discovery]] which probes to trigger for the identification and exploration phases of discovery. Classifiers can also trigger the [[r-HorizontalPatternProbe|Horizontal Pattern probe]], which launches a pattern, rather than additional probes, for identification and exploration.
+A classifier tells Discovery which probes to trigger for the identification and exploration phases of discovery. Classifiers can also trigger the Horizontal Pattern probe, which launches a pattern, rather than additional probes, for identification and exploration.
 
 The classifier essentially starts the identification stage. Discovery uses it after the classification probe returns important parameters to the instance that tell Discovery what to do next.
 
@@ -35,7 +35,7 @@ Discovery classification can be broken down into three types: device classificat
     Of all protocols that Discovery uses \(including WMI, SSH, and SNMP\), HTTP is the lowest priority by default. Discovery uses HTTP classification only if:
 
     -   Shazzam determines that the ports for HTTP \(80\) and HTTPS \(443\) traffic are open.
-    -   The horizontal discovery process fails for the higher priority [[r_PortProbes|port probes]] \(WMI, SSH, and SNMP\) if the ports for those protocols are not open, or if discovery for those protocols fail. The horizontal discovery process can fail, for example, if SSH and SNMP credentials are not configured or are incorrect.
+    -   The horizontal discovery process fails for the higher priority port probes \(WMI, SSH, and SNMP\) if the ports for those protocols are not open, or if discovery for those protocols fail. The horizontal discovery process can fail, for example, if SSH and SNMP credentials are not configured or are incorrect.
 
         **Note:** See [Port Probes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_PortProbes.md) for more details on how port scanning works and to see the priorities of the different protocols.
 
@@ -53,7 +53,7 @@ Discovery classification can be broken down into three types: device classificat
 
 -   **IP address \(IP scan\) classification**
 
-    [[r_DataCollDiscoIPAddress|IP address discovery]] is credential-less, meaning that it attempts to identify devices and software based on just the open ports and banners it finds without requiring you to create credentials. If the classification criteria are met for a device in the IP Scan mode, Discovery automatically updates the CI in the CMDB. After a device is properly classified, Discovery launches the exploration probes configured for that class of device and begins gathering detailed information about the CI.
+    IP address discovery is credential-less, meaning that it attempts to identify devices and software based on just the open ports and banners it finds without requiring you to create credentials. If the classification criteria are met for a device in the IP Scan mode, Discovery automatically updates the CI in the CMDB. After a device is properly classified, Discovery launches the exploration probes configured for that class of device and begins gathering detailed information about the CI.
 
     In the default Discovery system, the Linux classifier triggers eleven exploration probes that return information such as disk size, memory, and the number of current connections. The data from these probes returns at different times and is stored in the ECC Queue until processing is complete.
 
@@ -106,9 +106,3 @@ Enables debugging information for process classification. -   **Type**: true \| 
 -   If Windows machines are on your network, you can use the WinRM protocol, rather than WMI, for more efficient lightweight data transfer and remote command execution. By default, Discovery uses WMI. For instructions on the classifier modifications you can make to use WinRM, see [Use Windows Remote Management for classification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_EnableDeviceClassWinRemoteMgmt.md).
 -   If you have Windows computers that are acting as servers and you want them to be classified by their function rather than by the operating system, you can make changes to the criteria of the Windows classifier. See [Reclassify a Windows Workstation machine as a server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_ReClassWinWorkstnAsSvr.md) for instructions.
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[r-HorizontalPatternProbe|Horizontal Pattern probe]]
-- [[r_PortProbes|Port probes]]
-- [[r_DataCollDiscoIPAddress|IP address discovery]]

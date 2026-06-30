@@ -25,7 +25,7 @@ Role required: admin, platform\_analytics\_admin, sn\_cro\_dashboard.admin
 -   GRC: Policy and Compliance
 -   Audit Management
 
-These professional entitlements include a license for [[c_performanceAnalyticsAndReporting|Platform Analytics]].
+These professional entitlements include a license for Platform Analytics.
 
 These solutions consist of Platform Analytics indicators and associated data collection jobs, used by the metrics on the CRO Dashboard. If you don’t have the prerequisite licenses, the installation proceeds. However, without the required plugins \(found in the application manager\) and applications \(found in the ServiceNow store\) and the underlying data, the dashboard won’t show any relevant metrics. If you have any questions about your licensing and entitlements, consult your account executive.
 
@@ -64,6 +64,4 @@ Application plugins:
 
     Users must log out and log back in to enable their new roles after the admin assigns them. For more information on user roles, see .
 
-## Related
 
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

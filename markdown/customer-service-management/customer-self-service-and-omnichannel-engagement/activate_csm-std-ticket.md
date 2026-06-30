@@ -28,7 +28,7 @@ For new customers, the standard ticket page is enabled by default. For upgrade c
 
 1.  Navigate to **All** &gt; **Service Portal** &gt; **Page Route Maps**.
 
-2.  Search for [[c_CustomerServiceManagement|Customer Service Management]] ticket route maps.
+2.  Search for Customer Service Management ticket route maps.
 
 3.  Set the value to **true** in the **Active** column.
 
@@ -46,6 +46,3 @@ For new customers, the standard ticket page is enabled by default. For upgrade c
 
 [Standard ticket page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/standard-ticket-page.md)
 
-## Related
-
-- [[c_CustomerServiceManagement|Customer Service Management]]

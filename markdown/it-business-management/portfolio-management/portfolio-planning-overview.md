@@ -18,7 +18,7 @@ The Scenario Planning for PPM application provides a central location for portfo
 
 **Important:** Starting with Australia release, Scenario Planning for PPM \(com.snc.ppm\_scenario\_planning\) is being prepared for future deprecation. It will be hidden and no longer available for activation but will continue to be supported. For details, see the [Deprecation Process \[KB0867184\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base.
 
-Alternatively, [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace \(for SPM pro users\) or [[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace \(for SPM standard users\) provides the Scenario Planning capability. For details, see [Scenario planning in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/scenario-planning-in-strategic-planning.md) or [Scenario planning in Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/scenario-planning-in-portfolio-planning.md).
+Alternatively, Strategic Planning Workspace \(for SPM pro users\) or Portfolio Planning Workspace \(for SPM standard users\) provides the Scenario Planning capability. For details, see [Scenario planning in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/scenario-planning-in-strategic-planning.md) or [Scenario planning in Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/scenario-planning-in-portfolio-planning.md).
 
 A scenario is a collection of demands and projects that serves as a planning instance for the selected fiscal year to support funding decisions.
 
@@ -30,18 +30,18 @@ The Scenario Planning for PPM provides the following capabilities to portfolio m
 
 -   Plan your portfolio based on resource capacity for a single year or multiple years.
 -   Break down your multiple year portfolio planning in smaller planning windows for continuous tracking and planning adjustment.
--   Allocate budget to demands and projects in your portfolio from [[investment-funding-overview|Investment Funding]].
+-   Allocate budget to demands and projects in your portfolio from Investment Funding.
 -   Create scenario-based plans for portfolios.
 -   Apply filters to refine your list of selected demands and projects in your portfolio.
 -   Experiment with different combinations of demands and projects in planning scenarios.
 -   View details of demands and projects that are not aligned with your strategic goals.
 -   Edit the way demands and projects are funded for each scenario.
 -   Compare different scenarios to assess outcomes of various project and demand combinations.
--   [[confirm-a-scenario|Confirm a planning scenario]] that best aligns with your organizational objectives as your current portfolio plan.
+-   Confirm a planning scenario that best aligns with your organizational objectives as your current portfolio plan.
 -   Override a previously confirmed planning scenario based on changing priorities and environment.
 -   View budget details such as actual and planned costs, projects, and demands not aligned to goals and strategies, and actual costs for the projects.
 -   View resource utilization and allocation.
--   [[t_ViewDemands|View demands]] and projects with over-allocated resources.
+-   View demands and projects with over-allocated resources.
 
 -   **[Install Scenario Planning for PPM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-management/install-scenario-planning.md)**  
 Install the Scenario Planning for PPM application from ServiceNow Store applications. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
@@ -52,7 +52,7 @@ Configure the scenario planning type and select the scope of portfolios to deter
 -   **[Set target budget for a fiscal year](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-management/select-fiscal-period-set-target.md)**  
 When planning for a portfolio or all portfolios, start by selecting the fiscal period for the demands and projects that you want to work with. You then set the target amounts for both operating and capital expenses of portfolios when Scenario Planning is not integrated with Investment Funding.
 -   **[Create planning scenarios](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-management/create-scenarios.md)**  
-[[create-scenarios|Create planning scenarios]] with different combinations of projects and demands in your portfolio. Experiment with different scenarios to plan your budget expenditure for a fiscal year.
+Create planning scenarios with different combinations of projects and demands in your portfolio. Experiment with different scenarios to plan your budget expenditure for a fiscal year.
 -   **[Compare planning scenarios](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-management/compare-scenarios.md)**  
 Compare various planning scenarios with your current or default plan to assess different combinations of projects and demands in your portfolio for execution. You can perform a what-if analysis and determine the planning scenario that optimally achieves the target budget and uses your resources.
 -   **[Confirm a planning scenario](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-management/confirm-a-scenario.md)**  
@@ -71,11 +71,3 @@ After confirming a scenario to complete planning of your portfolio, track the pr
 
 [Portfolio Dashboard]()
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[investment-funding-overview|Investment Funding]]
-- [[confirm-a-scenario|Confirm a planning scenario]]
-- [[t_ViewDemands|View demands]]
-- [[create-scenarios|Create planning scenarios]]

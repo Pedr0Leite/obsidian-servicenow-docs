@@ -16,15 +16,15 @@ The CSDM model offers a framework for evaluating and enhancing an organization's
 
 ## CSDM data workflow
 
-Integrating CSDM data workflow with [[grc-opres-landing-page|Operational Resilience]] uses data from various sources to support the assessment and improvement of the control environment. Here's a high-level overview of the data workflow.
+Integrating CSDM data workflow with Operational Resilience uses data from various sources to support the assessment and improvement of the control environment. Here's a high-level overview of the data workflow.
 
 -   **Data collection**
 
     Gather data from various sources, including:
 
-    -   Risk management systems \(for example, risk registers, [[risk-assessments|risk assessments]]\)
+    -   Risk management systems \(for example, risk registers, risk assessments\)
     -   Incident management systems \(for example, incident reports, root cause analysis\)
-    -   [[business-continuity-mangmt-overview|Business continuity management]] \(BCM\) systems \(for example, [[bia-uib|business impact analysis]], recovery plans\)
+    -   Business continuity management \(BCM\) systems \(for example, business impact analysis, recovery plans\)
     -   Compliance and regulatory data \(for example, audit reports, regulatory requirements\)
     -   Operational data \(for example, key performance indicators \(KPIs\), metrics\)
 -   **Data integration**
@@ -95,16 +95,7 @@ By applying the CSDM model to different business model views, organizations can 
 
 This flexible approach, along with the use of Main node configurations, enables organizations to customize their CSDM implementation to meet their specific business needs, ensuring a robust and effective control environment.
 
-For information on setting up the Main node configurations, see [[main-node-relationship-fw|Main node configurations: A component of the Data Relationships Framework]].
+For information on setting up the Main node configurations, see [Main node configurations: A component of the Data Relationships Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/main-node-relationship-fw.md).
 
-For information on gathering Operational Resilience data aligned with the CSDM model, see [[using-csdm-v5|Gathering data aligned with the CSDM setup]] and [[setup-homepage|Landing page and dashboard views]].
+For information on gathering Operational Resilience data aligned with the CSDM model, see [Gathering data aligned with the CSDM setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/using-csdm-v5.md) and [Landing page and dashboard views](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/setup-homepage.md).
 
-## Related
-
-- [[main-node-relationship-fw|main node relationship fw]]
-- [[using-csdm-v5|Gathering data aligned with the CSDM setup]]
-- [[setup-homepage|Landing page and dashboard views]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[risk-assessments|risk assessments]]
-- [[business-continuity-mangmt-overview|Business Continuity Management]]
-- [[bia-uib|Business impact analysis]]

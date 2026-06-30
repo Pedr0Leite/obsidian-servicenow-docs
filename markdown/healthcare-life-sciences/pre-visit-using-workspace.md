@@ -16,7 +16,7 @@ As a patient service representative, you can use Workspace to manage and schedul
 
 **Important:**
 
-Starting with the Yokohama release, [[pre-visit-mgmt-app|Pre-Visit Management]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+Starting with the Yokohama release, Pre-Visit Management is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base.
 
@@ -30,7 +30,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[pre-visit-viewing-home-page|Access the Workspace]].
+[Access the Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pre-visit-viewing-home-page.md).
 
 </td><td>
 
@@ -38,7 +38,7 @@ Use the home page in Workspace for procedure requests to quickly scan and access
 
 </td></tr><tr><td>
 
-[[pre-visit-view-cases|View a procedure request case in Workspace]].
+[View a procedure request case in Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pre-visit-view-cases.md).
 
 </td><td>
 
@@ -46,7 +46,7 @@ View a procedure request case in Workspace to complete patient pre-visit activit
 
 </td></tr><tr><td>
 
-[[pre-visit-viewing-patient-info|View patient information for a procedure request case in Workspace]].
+[View patient information for a procedure request case in Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pre-visit-viewing-patient-info.md).
 
 </td><td>
 
@@ -54,7 +54,7 @@ View the details of a patient in Workspace.
 
 </td></tr><tr><td>
 
-[[pre-visit-playbook|Work on a procedure request case in Workspace]].
+[Work on a procedure request case in Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pre-visit-playbook.md).
 
 </td><td>
 
@@ -62,7 +62,7 @@ Use the playbook available with the Pre-Visit Management application to manage p
 
 </td></tr><tr><td>
 
-[[pre-visit-booking-appt|Manage appointment bookings]].
+[Manage appointment bookings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pre-visit-booking-appt.md).
 
 </td><td>
 
@@ -70,12 +70,3 @@ Manage appointments for a procedure request in the Pre-Visit Management applicat
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[pre-visit-viewing-home-page|Viewing the landing page for procedure request cases in Workspace]]
-- [[pre-visit-view-cases|View a procedure request case in Workspace]]
-- [[pre-visit-viewing-patient-info|Viewing patient information for a procedure request in Workspace]]
-- [[pre-visit-playbook|Working on a procedure request case in Workspace]]
-- [[pre-visit-booking-appt|pre visit booking appt]]
-- [[pre-visit-mgmt-app|Pre-Visit Management]]

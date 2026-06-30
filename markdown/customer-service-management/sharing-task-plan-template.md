@@ -12,18 +12,18 @@ breadcrumb: [Task Plan Templates, Case management, Organize agent workspaces, Co
 
 # Sharing task plan templates
 
-Sharing task plan templates ensures that only authorized users can create, edit, and manage templates. It involves setting access controls, defining [[personas-roles-and-tables-post-integration-oppMgmt|roles and responsibilities]].
+Sharing task plan templates ensures that only authorized users can create, edit, and manage templates. It involves setting access controls, defining roles and responsibilities.
 
 ## Sharing task plan template overview
 
-Effective sharing of [[task-plan-templates|task plan templates]] helps organizations manage ownership, sharing, and access securely and efficiently. It defines the responsibilities of admin and owner, and supports a seamless experience for users interacting with templates.
+Effective sharing of task plan templates helps organizations manage ownership, sharing, and access securely and efficiently. It defines the responsibilities of admin and owner, and supports a seamless experience for users interacting with templates.
 
 The sharing task plan template capability provides secure, efficient template management, and role-based controls for all member types involved.
 
 Sharing task plan template features include;
 
 -   Role-based access control
--   Ownership and sharing [[gamification-components-rules|rules]]
+-   Ownership and sharing rules
 -   Global template settings
 -   Notifications when access is granted
 -   API and ACL configurations for automated access provisioning
@@ -66,9 +66,3 @@ Users, groups, service org, and service orgs filtered by organization criteria a
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[personas-roles-and-tables-post-integration-oppMgmt|Roles and responsibilities]]
-- [[task-plan-templates|Task Plan Templates]]
-- [[gamification-components-rules|Rules]]

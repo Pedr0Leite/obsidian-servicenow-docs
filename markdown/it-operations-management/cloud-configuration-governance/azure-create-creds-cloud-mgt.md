@@ -14,20 +14,20 @@ breadcrumb: [Day 1 setup guide for Microsoft Azure Cloud on Cloud Provisioning a
 
 # Store the Azure service principal credentials in the instance
 
-To securely access data on your provider account, the [[r-discovery|Discovery]] process must present appropriate credentials. To make the credentials available to Discovery, you first create Azure service principal credentials in the Azure Portal. You then securely store the credentials in a service account in your instance.
+To securely access data on your provider account, the Discovery process must present appropriate credentials. To make the credentials available to Discovery, you first create Azure service principal credentials in the Azure Portal. You then securely store the credentials in a service account in your instance.
 
 ## Before you begin
 
 Role required:
 
 -   Azure Portal Active Directory \(AD\) administrator
--   [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]: admin or sn\_cmp.cloud\_admin, discovery\_admin
+-   Cloud Provisioning and Governance: admin or sn\_cmp.cloud\_admin, discovery\_admin
 
 ## Procedure
 
 1.  [Create a Microsoft Azure service principal]() and open the text file that you created during the procedure.
 
-2.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Manage** &gt; **Credentials**.
+2.  In the Cloud Admin Portal, navigate to **Manage** &gt; **Credentials**.
 
 3.  Click **New** and then select **Azure Service Principal**.
 
@@ -72,13 +72,8 @@ Select **Client Secret**.The **Secret key** field appears when you select **Clie
 
 8.  Click a subscription to view the service account that was created for the subscription.
 
-9.  Click a [[c_DiscoveryStatus|discovery status]] entry in the **Credential Discovery Status** list to view the associated discovery log.
+9.  Click a discovery status entry in the **Credential Discovery Status** list to view the associated discovery log.
 
     Each time that you click **Discover Subscriptions**, the instance generates a new discovery status and lists the status in the **Credential Discovery Status** list.
 
-## Related
 
-- [[r-discovery|Discovery]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[cloud-admin-portal|Cloud Admin Portal]]
-- [[c_DiscoveryStatus|Discovery status]]

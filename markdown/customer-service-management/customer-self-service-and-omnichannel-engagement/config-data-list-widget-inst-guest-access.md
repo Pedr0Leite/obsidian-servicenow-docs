@@ -14,7 +14,7 @@ breadcrumb: [Portal Data List widget, Configurable Portal widgets, Set up self-s
 
 # Configure public access on the Portal Data List widget
 
-Configure the [[portal-data-list-widget|Portal Data List widget]] and page content for public access to enable guest users to view data without authentication.
+Configure the Portal Data List widget and page content for public access to enable guest users to view data without authentication.
 
 ## Before you begin
 
@@ -58,6 +58,4 @@ Role required: sp\_admin
 
 3.  Select **Update**.
 
-## Related
 
-- [[portal-data-list-widget|Portal Data List widget]]

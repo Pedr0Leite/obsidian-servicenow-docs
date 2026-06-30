@@ -22,11 +22,11 @@ Role required: translator
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Knowledge** &gt; **[[translation-management|Translation Management]]** &gt; **My Assigned Tasks**.
+1.  Navigate to **All** &gt; **Knowledge** &gt; **Translation Management** &gt; **My Assigned Tasks**.
 
 2.  In the Knowledge Translation Task page, select a translation task and click **Translate**.
 
-    A message stating that the knowledge article contains one or more [[knowledge-blocks|knowledge blocks]] that have missing translations is displayed.
+    A message stating that the knowledge article contains one or more knowledge blocks that have missing translations is displayed.
 
 3.  Click on the link in the message to view the list of blocks that require translation.
 
@@ -42,7 +42,3 @@ Role required: translator
 
 [Add knowledge blocks to a knowledge article](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/add-knowledge-block-to-knowledge-article.md)
 
-## Related
-
-- [[translation-management|Translation management]]
-- [[knowledge-blocks|Knowledge blocks]]

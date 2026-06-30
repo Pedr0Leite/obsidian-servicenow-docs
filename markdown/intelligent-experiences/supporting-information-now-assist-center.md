@@ -13,7 +13,7 @@ breadcrumb: [Explore, Now Assist Center, Enable AI experiences]
 
 # Supporting information for Now Assist Center
 
-Get a quick overview of the important information that is related to the [[now-assist-center-landing-page|Now Assist Center]] application.
+Get a quick overview of the important information that is related to the Now Assist Center application.
 
 ## Supported versions
 
@@ -25,13 +25,13 @@ Now Assist Center v3.0
 
 The Now Assist Center application supports the Now Assist Center workspace.
 
-The Now Assist Center workspace provides features that enable you to set up of your AI solutions in a unified experience without switching between separate [[platform-now-assist-landing|Now Assist]] applications.
+The Now Assist Center workspace provides features that enable you to set up of your AI solutions in a unified experience without switching between separate Now Assist applications.
 
-For more information, see [[now-assist-center-workspace|Now Assist Center workspace]].
+For more information, see [Now Assist Center workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-workspace.md).
 
 ## Licensing requirements
 
-**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [[ai-native-sku-overview|ServiceNow product tiers]].
+**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 
 ## Application information
 
@@ -39,9 +39,9 @@ Now Assist Center \(sn\_na\_center\) is available as a plugin from the ServiceNo
 
 This store app has no dependencies.
 
-For more information, see [[configuring-now-assist-center|Configuring Now Assist Center]].
+For more information, see [Configuring Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configuring-now-assist-center.md).
 
-**Parent Topic:**[[exploring-now-assist-center|Exploring Now Assist Center]]
+**Parent Topic:**[Exploring Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/exploring-now-assist-center.md)
 
 **Related topics**  
 
@@ -52,11 +52,3 @@ For more information, see [[configuring-now-assist-center|Configuring Now Assist
 
 [Now Assist Readiness Evaluation in Now Assist Center]()
 
-## Related
-
-- [[now-assist-center-workspace|Now Assist Center workspace]]
-- [[ai-native-sku-overview|ServiceNow product tiers]]
-- [[configuring-now-assist-center|Configuring Now Assist Center]]
-- [[exploring-now-assist-center|Exploring Now Assist Center]]
-- [[now-assist-center-landing-page|Now Assist Center]]
-- [[platform-now-assist-landing|Now Assist]]

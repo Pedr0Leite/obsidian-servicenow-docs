@@ -12,7 +12,7 @@ breadcrumb: [Enabling HTML sanitizer, HTML sanitizer]
 
 # Enable HTML Sanitizer logging
 
-When the [[c_HTMLSanitizer|HTML sanitizer]] removes elements or attributes, they are added to the [[r_SystemLogs|system log]].
+When the HTML sanitizer removes elements or attributes, they are added to the system log.
 
 ## Before you begin
 
@@ -26,12 +26,8 @@ You can review these sanitized elements by adding /syslog\_list.do?sysparm\_quer
 
 1.  To review these sanitized elements add `/syslog_list.do?sysparm_query=source%3DHTMLSanitizer` to your instance URL.
 
-2.  To enable or disable logging, add the `glide.html_sanitize.discarded_log.enable` property to the [[ca-system-properties|system properties]] and set the value to **true** \(enabled\) or **false** \(disabled\).
+2.  To enable or disable logging, add the `glide.html_sanitize.discarded_log.enable` property to the system properties and set the value to **true** \(enabled\) or **false** \(disabled\).
 
     This property is **true** by default.
 
-## Related
 
-- [[c_HTMLSanitizer|HTML sanitizer]]
-- [[r_SystemLogs|System log]]
-- [[ca-system-properties|System properties]]

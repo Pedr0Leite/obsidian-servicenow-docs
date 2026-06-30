@@ -14,7 +14,7 @@ breadcrumb: [Dependency Views, Configuration Management Database \(CMDB\), Confi
 
 # Dependency Views map menus and controls
 
-[[c_BusinesssServiceManagementMaps|Dependency Views]] maps contain the following menus and controls.
+Dependency Views maps contain the following menus and controls.
 
 \[Omitted image "DependencyViewsMapMenusControls.png"\] Alt text: Use the various menus and controls to filter, display or hide, and place nodes on the map.
 
@@ -24,7 +24,7 @@ The following options are available across the top of the map.
 
 <table id="table_t5r_jcx_dr"><tbody><tr><td>
 
-\[Omitted image "MenuIcon.png"\] Alt text: [[c_NextGenBSMMaps|Dependency Views map]] context menu.
+\[Omitted image "MenuIcon.png"\] Alt text: Dependency Views map context menu.
 
 </td><td>
 
@@ -266,8 +266,3 @@ Deletes a relationship. The relationship is deleted after prompting for confirma
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_BusinesssServiceManagementMaps|Dependency Views]]
-- [[c_NextGenBSMMaps|Dependency Views map]]

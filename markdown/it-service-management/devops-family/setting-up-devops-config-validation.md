@@ -14,7 +14,7 @@ breadcrumb: [DevOps Config, IT Service Management]
 
 # Configuring DevOps Config
 
-The DevOps engineer role installs and sets up [[devops-config-landing-page|DevOps Config]], which is used to validate config data \(committed by developers, or app engineers\) before deployment.
+The DevOps engineer role installs and sets up DevOps Config, which is used to validate config data \(committed by developers, or app engineers\) before deployment.
 
 **Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
@@ -26,13 +26,13 @@ Data validation configuration tasks
 
 </th><th>
 
-\(Optional\) [[dex-advanced-configuration|Advanced configuration]] tasks to extend the use of the data model
+\(Optional\) Advanced configuration tasks to extend the use of the data model
 
 </th></tr></thead><tbody><tr><td>
 
 1. [Install DevOps Config](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-family/install-devops-config.md).
 
- [[install-devops-config|Install DevOps Config]] application, content packs, and pipeline plugins.
+ Install DevOps Config application, content packs, and pipeline plugins.
 
  -   DevOps Config application.
 -   \(Optional\) DevOps Config Policy content pack.
@@ -80,7 +80,7 @@ Upload configuration data depending on use case.
 
 5. [Define policies in DevOps Config](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-family/devops-config-define-policies.md).
 
- Define policies to run for validation of config data using [[devops-config-default-policies|default DevOps Config policies]].
+ Define policies to run for validation of config data using default DevOps Config policies.
 
 </td><td>
 
@@ -90,7 +90,7 @@ Upload configuration data depending on use case.
 
 6. [Map policies to a deployable](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-deployable-map-policy-to.md).
 
- [[cdm-deployable-map-policy-to|Map policies to a deployable]] to run for validation of config data.
+ Map policies to a deployable to run for validation of config data.
 
 </td><td>
 
@@ -100,7 +100,7 @@ Extend the use of the data model by mapping policies to components and collectio
 
 7. [Define exporters in DevOps Config](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-family/devops-config-define-exporters.md).
 
- Define exporters to export config data to your pipeline using [[devops-config-default-exporters|default DevOps Config exporters]].
+ Define exporters to export config data to your pipeline using default DevOps Config exporters.
 
 </td><td>
 
@@ -131,12 +131,3 @@ N/A
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]
-- [[dex-advanced-configuration|Advanced configuration]]
-- [[install-devops-config|Install DevOps Config]]
-- [[devops-config-default-policies|Default DevOps Config policies]]
-- [[cdm-deployable-map-policy-to|Map policies to a deployable]]
-- [[devops-config-default-exporters|Default DevOps Config exporters]]

@@ -14,11 +14,11 @@ breadcrumb: [Create a personal authentication mode connection with Microsoft Exc
 
 # Configure the Microsoft Exchange Online calendar provider in personal authentication mode
 
-Enhance your workplace reservation experience with the [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]] application to synchronize reservations with your calendar provider. Configure Microsoft Exchange Online to synchronize reservations with your calendar provider using personal authentication mode.
+Enhance your workplace reservation experience with the Workplace Calendar Synchronization application to synchronize reservations with your calendar provider. Configure Microsoft Exchange Online to synchronize reservations with your calendar provider using personal authentication mode.
 
 ## About this task
 
-The Workplace Calendar Synchronization application uses the calendar provider as the primary source, confirming that events are updated and confirmed for room bookings through the [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] portal.
+The Workplace Calendar Synchronization application uses the calendar provider as the primary source, confirming that events are updated and confirmed for room bookings through the Workplace Reservation Management portal.
 
 ## Before you begin
 
@@ -38,7 +38,7 @@ Role required: sn\_wsd\_rsvsync.admin
 
 2.  Select **New**.
 
-3.  On the [[wsd-calendar-provider-form-fields|Provider form]], fill in the fields.
+3.  On the Provider form, fill in the fields.
 
     For a description of the field values, see [Provider form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/wsd-calendar-provider-form-fields.md).
 
@@ -68,8 +68,3 @@ Execute an instance scan to check the synchronization configuration. For more in
 
 [Configure your own connection and credential alias for personal authentication mode]()
 
-## Related
-
-- [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[wsd-calendar-provider-form-fields|Provider form]]

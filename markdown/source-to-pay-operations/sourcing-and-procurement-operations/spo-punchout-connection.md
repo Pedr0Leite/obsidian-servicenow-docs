@@ -14,7 +14,7 @@ breadcrumb: [Understanding punchout, Explore, Sourcing and Procurement Operation
 
 # Establishing connection between SPO and the supplier punchout system
 
-SPO and the [[supplier|supplier]] punchout system use PunchOutRequest and PunchOutResponse payloads to establish the connection.
+SPO and the supplier punchout system use PunchOutRequest and PunchOutResponse payloads to establish the connection.
 
 The PunchOut system returns a PunchOutResponse, which contains the start URL for the PunchOut session. The SPO endpoint parses this response and opens the URL in a new tab. This parsing can be implemented using the XML Parser action step.
 
@@ -26,6 +26,3 @@ The following figure illustrates the connection flow:
 
 **Parent Topic:**[Understanding Punchout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/punchout-overview.md)
 
-## Related
-
-- [[supplier|Supplier]]

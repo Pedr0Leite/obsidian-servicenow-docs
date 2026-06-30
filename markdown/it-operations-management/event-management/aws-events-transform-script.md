@@ -14,7 +14,7 @@ breadcrumb: [Integrate with push connectors, Configure a push connector, Configu
 
 # Integrate AWS platform as a data source
 
-Integrate Amazon Web Services \(AWS\) with [[c_EM|Event Management]]. To add AWS platform as a data source, configuration is required in the AWS platform.
+Integrate Amazon Web Services \(AWS\) with Event Management. To add AWS platform as a data source, configuration is required in the AWS platform.
 
 ## Before you begin
 
@@ -33,7 +33,7 @@ When an AWS platform alarm arrives, Event Management:
 
 The AWS platform push connector is located in **Event Management** &gt; **Integrations** &gt; **Push Connectors**. In the Push Connectors page, click **AWS Events Push Connector**.
 
-**Note:** The AWS push connector that is provided in the base system handles AWS CloudWatch alarms only and not CloudWatch events created through [[create-event-rules|event rules]]. To handle Simple Notification Service \(SNS\) alarms that are other than AWS CloudWatch, create a new push connector or customize the AWS push connector.
+**Note:** The AWS push connector that is provided in the base system handles AWS CloudWatch alarms only and not CloudWatch events created through event rules. To handle Simple Notification Service \(SNS\) alarms that are other than AWS CloudWatch, create a new push connector or customize the AWS push connector.
 
 Starting from the Xanadu release, the OOTB \(Out-Of-The-Box\) event rules provided with the connector, which you have not previously used \(i.e., neither activated, deactivated, nor modified\), will now have the **Apply additional matching rules** check box set to true. Previously, this check box was disabled. This change allows you to execute more event rules or automation using the same filter conditions for the events.
 
@@ -130,7 +130,3 @@ Integrate using an API key to establish secure communication and automate data e
 
 [Integrate with push connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-listener-transform-script.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[create-event-rules|Event rules]]

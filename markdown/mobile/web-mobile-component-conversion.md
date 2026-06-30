@@ -14,9 +14,9 @@ breadcrumb: [Using the Mobile App Builder, Mobile App Builder, Building tools, B
 
 Use guided UI to configure native mobile components using an existing web component as a starting reference.
 
-\[Omitted image "web-mobile-conversion.png"\] Alt text: window with option to choose to either [[sg-studio-configure-applet-screens|create a screen]] from scratch of use web to mobile
+\[Omitted image "web-mobile-conversion.png"\] Alt text: window with option to choose to either create a screen from scratch of use web to mobile
 
-Web to mobile streamlines the component creation process by enabling you to select an existing web component to serve as a template instead of creating a [[form-screen|record screen]] from scratch. Currently, web conversion only supports generating a record screen with a details screen segment.
+Web to mobile streamlines the component creation process by enabling you to select an existing web component to serve as a template instead of creating a record screen from scratch. Currently, web conversion only supports generating a record screen with a details screen segment.
 
 ## Selecting a Card
 
@@ -47,7 +47,3 @@ You can freely switch between the existing card, generic card, and Now Assist ge
 
 \[Omitted image "web-mobile-generated-record.png"\] Alt text: generated mobile record screen
 
-## Related
-
-- [[sg-studio-configure-applet-screens|Create a screen]]
-- [[form-screen|Record screen]]

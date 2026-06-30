@@ -144,10 +144,7 @@ These tools don't check for permissions. To update credentials:1.  Click **Updat
 
 
 -   **[Permissions required for DevOps tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/tool-req-permission.md)**  
-Permissions required in your third-party tool to connect to [[devops-landing-page-new|DevOps Change Velocity]].
+Permissions required in your third-party tool to connect to DevOps Change Velocity.
 
 **Parent Topic:**[Managing DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/using-devops-change-velocity.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]

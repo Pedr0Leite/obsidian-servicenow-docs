@@ -16,7 +16,7 @@ Define characteristics for a product, service, or resource specification.
 
 ## Before you begin
 
-[[som-product-config-add-characteristics|Create product characteristics and characteristic options]] that can be selected for a specification.
+[Create product characteristics and characteristic options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-product-config-add-characteristics.md) that can be selected for a specification.
 
 Role required: sn\_prd\_pm\_product\_catalog\_admin
 
@@ -28,7 +28,7 @@ Role required: sn\_prd\_pm\_product\_catalog\_admin
 
 3.  In the Specification Characteristics tab, select **New**.
 
-4.  In the form, fill in the [[fields|fields]].
+4.  In the form, fill in the fields.
 
     |Field|Description|
     |-----|-----------|
@@ -42,19 +42,12 @@ Role required: sn\_prd\_pm\_product\_catalog\_admin
 5.  Select **Save**.
 
 
-**Parent Topic:**[[order-mgt-product-catalog|Setting up specifications and product offerings]]
+**Parent Topic:**[Setting up specifications and product offerings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-product-catalog.md)
 
 **Related topics**  
 
 
-[[using-product-catalog|Using product catalogs]]
+[Using product catalogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-product-catalog.md)
 
-[[product-catalog-managment|Product Catalog Management]]
+[Product Catalog Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/product-catalog-managment.md)
 
-## Related
-
-- [[som-product-config-add-characteristics|Create product characteristics and characteristic options]]
-- [[order-mgt-product-catalog|Setting up specifications and product offerings]]
-- [[using-product-catalog|Using product catalogs]]
-- [[product-catalog-managment|Product Catalog Management]]
-- [[fields|Fields]]

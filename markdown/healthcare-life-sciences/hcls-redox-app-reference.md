@@ -20,12 +20,8 @@ Starting with the Yokohama release, Redox Inbound Integration is being prepared 
 
 For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base.
 
--   **[[hcls-redox-supported-dm|Supported data models and event types for Redox Inbound Integration]]**  
+-   **[Supported data models and event types for Redox Inbound Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hcls-redox-supported-dm.md)**  
 In the Redox engine, a request is determined by the event type and workflow set up for your integration.
 
-**Parent Topic:**[[hcls-redox-app|Redox Inbound Integration]]
+**Parent Topic:**[Redox Inbound Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hcls-redox-app.md)
 
-## Related
-
-- [[hcls-redox-supported-dm|Supported data models and event types for Redox Inbound Integration]]
-- [[hcls-redox-app|Redox Inbound Integration]]

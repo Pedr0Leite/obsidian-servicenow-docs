@@ -38,7 +38,7 @@ Cost plan for the resources required for the project.
 
 </td></tr><tr><td>
 
-[[cost-plan-breakdown|Cost Plan Breakdown]] \[cost\_plan\_breakdown\]
+Cost Plan Breakdown \[cost\_plan\_breakdown\]
 
 </td><td>
 
@@ -129,7 +129,7 @@ Project Time Card Exception\[project\_timecard\_exception\]
 
 </td><td>
 
-Stores time card information such as Week starts on, User, Project, and State of the [[c_TimeCards|time cards]].
+Stores time card information such as Week starts on, User, Project, and State of the time cards.
 
 </td></tr><tr><td>
 
@@ -145,10 +145,10 @@ Time Sheet Exception\[time\_sheet\_exception\]
 
 </td><td>
 
-Stores time sheet information such as Week starts on, User, and State of the [[time-sheets|time sheets]].
+Stores time sheet information such as Week starts on, User, and State of the time sheets.
 
 </td></tr></tbody>
-</table>## [[c_DemandManagement|Demand management]] tables
+</table>## Demand management tables
 
 Demand management adds the following tables.
 
@@ -222,10 +222,10 @@ Demand Task \[dmn\_demand\_task\]
 
 </td><td>
 
-Stores tasks associated with demands. Extends the planned\_task table to support demand-level task tracking and [[r_AllocatingResources|resource allocation]].
+Stores tasks associated with demands. Extends the planned\_task table to support demand-level task tracking and resource allocation.
 
 </td></tr></tbody>
-</table>## [[c_ProjectApplicationOverview|Project management]] tables
+</table>## Project management tables
 
 Project management adds the following tables.
 
@@ -343,7 +343,7 @@ Project templates.
 
 </td></tr><tr><td>
 
-[[c_ProjectTemplateConfiguration|Project Template Configuration]] \[project\_template\_config\]
+Project Template Configuration \[project\_template\_config\]
 
 </td><td>
 
@@ -430,7 +430,7 @@ Planned task Recalculation Exclusions \[planned\_task\_recalculation\_exclusions
 Defines tables that are excluded from recalculation \(start and end dates\). For example, the table is used for all sub tables under planned\_task to exclude tables from being recalculated. This table allows you to configure the tables from which you would not like to perform the recalculation from.
 
 </td></tr></tbody>
-</table>## [[c_ProgramManagement|Program management]] tables
+</table>## Program management tables
 
 Program management adds the following tables.
 
@@ -534,7 +534,7 @@ Requested Allocation \[requested\_allocation\]
 
 </td><td>
 
-Allocations for [[c_ResourcePlans|resource plans]].
+Allocations for resource plans.
 
 </td></tr><tr><td>
 
@@ -598,7 +598,7 @@ Resource Report Export \[resource\_report\_export\]
 
 </td><td>
 
-Saves JPG and PNG exports of [[c_UsingResourceManagementReports|resource management reports]].
+Saves JPG and PNG exports of resource management reports.
 
 </td></tr><tr><td>
 
@@ -641,7 +641,7 @@ User Schedule\[user\_has\_schedule\]
 Stores the schedule for a user.
 
 </td></tr></tbody>
-</table>## [[innovation-management-landing|Innovation management]] tables
+</table>## Innovation management tables
 
 Innovation Management adds the following tables.
 
@@ -694,7 +694,7 @@ Idea Module\[im\_module\]
 Configuration for the Idea portal such as module name, module id, and idea table to use. Create a separate table for each Idea module.
 
 </td></tr></tbody>
-</table>## [[time-card-management|Time card management]] tables
+</table>## Time card management tables
 
 Time card management adds the following tables.
 
@@ -728,7 +728,7 @@ Time Sheet Policytime\_sheet\_policy
 
 </td><td>
 
-Stores all [[time-sheet-policies|time sheet policies]].
+Stores all time sheet policies.
 
 </td></tr><tr><td>
 
@@ -802,18 +802,3 @@ Stores import sets that you imported into the instance.
 </td></tr></tbody>
 </table>**Parent Topic:**[Components installed with Project Portfolio Management \(PPM\) Standard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/r_InstalledWithProjectPortfolioSuiteWithFinancials.md)
 
-## Related
-
-- [[cost-plan-breakdown|Cost plan breakdown]]
-- [[c_TimeCards|Time cards]]
-- [[time-sheets|Time Sheets]]
-- [[c_DemandManagement|Demand Management]]
-- [[r_AllocatingResources|Resource allocation]]
-- [[c_ProjectApplicationOverview|Project Management]]
-- [[c_ProjectTemplateConfiguration|Project template configuration]]
-- [[c_ProgramManagement|Program Management]]
-- [[c_ResourcePlans|Resource plans]]
-- [[c_UsingResourceManagementReports|Resource Management reports]]
-- [[innovation-management-landing|Innovation Management]]
-- [[time-card-management|Time Card Management]]
-- [[time-sheet-policies|Time sheet policies]]

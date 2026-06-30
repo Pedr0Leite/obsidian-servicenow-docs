@@ -14,7 +14,7 @@ breadcrumb: [Advanced Filtering, Using Dispatcher Workspace, Assigning tasks fro
 
 # Delete an advanced filter
 
-You can delete an advanced filter in [[dispatcher-activities|Dispatcher Workspace]] to remove it after you create it.
+You can delete an advanced filter in Dispatcher Workspace to remove it after you create it.
 
 ## Before you begin
 
@@ -34,6 +34,4 @@ Role required: wm\_dispatcher
 
 6.  Select **Delete**.
 
-## Related
 
-- [[dispatcher-activities|Dispatcher Workspace]]

@@ -14,11 +14,11 @@ breadcrumb: [Data Privacy, Platform Privacy]
 
 # Data privacy roles
 
-[[data-privacy-landing|Data privacy]] adds these roles.
+Data privacy adds these roles.
 
 ## Data privacy administrator
 
-The data privacy administrator roles is an admin role used to create data privacy techniques and [[ca-policies|policies]].
+The data privacy administrator roles is an admin role used to create data privacy techniques and policies.
 
 ### Data privacy administrator \[data\_privacy\_admin\]
 
@@ -40,7 +40,7 @@ The data privacy administrator roles is an admin role used to create data privac
 
 -   **Considerations**
 
-    Avoid assigning this role to your [[users|users]] when more targeted roles are available.
+    Avoid assigning this role to your users when more targeted roles are available.
 
     In order to assign "Data privacy administrator" role elevate the user to security admin role in order to add the role.
 
@@ -74,7 +74,7 @@ Data privacy auditor is a read-only role used to view data privacy records.
 
 ## Data privacy clone processor
 
-Users with the [[dp-clone|Data privacy clone]] processor role can create and execute data-class data privacy jobs.
+Users with the Data privacy clone processor role can create and execute data-class data privacy jobs.
 
 ### Data privacy clone processor \[data\_privacy\_clone\_processor\]
 
@@ -125,9 +125,4 @@ Users with the Data privacy processor role create and execute data privacy jobs 
 
     None
 
-## Related
 
-- [[data-privacy-landing|Data Privacy]]
-- [[ca-policies|Policies]]
-- [[users|Users]]
-- [[dp-clone|Data privacy clone]]

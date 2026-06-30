@@ -14,7 +14,7 @@ breadcrumb: [Walk-up Experience appointment booking administration, Book Walk-up
 
 # Configure maximum multiple appointments
 
-Enhance [[walkup-experience-landing-page|Walk-up Experience]] service experience by helping requesters to book multiple appointments simultaneously. You can configure the location to accept multiple bookings and also decide the maximum number of appointments a requester can book at a location.
+Enhance Walk-up Experience service experience by helping requesters to book multiple appointments simultaneously. You can configure the location to accept multiple bookings and also decide the maximum number of appointments a requester can book at a location.
 
 Only one appointment could be booked by a requester with Walk-up Experience appointment booking feature. The requesters could not book any follow-up appointments. For example, requester has scheduled a laptop drop-off appointment and wants to schedule a pick-up appointment in advance.
 
@@ -30,6 +30,3 @@ Scheduling multiple appointments, the requesters and the agents can maintain the
 
 **Parent Topic:**[Walk-up Experience appointment booking administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walkup-appointment-administration.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]

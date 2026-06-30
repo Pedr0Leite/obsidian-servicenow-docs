@@ -29,35 +29,24 @@ Role required: assessment\_admin or admin
     -   An assessable record to evaluate. The assessable record must be associated with an on-demand type and at least one category that contains non-scripted metrics.
     -   One or more users who should perform the assessment. The API generates a questionnaire about the specified assessable record for each user.
 
-**Parent Topic:**[[c_OnDemandAssessments|On-demand assessments]]
+**Parent Topic:**[On-demand assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_OnDemandAssessments.md)
 
 **Related topics**  
 
 
-[[c_AssessmentGeneration|Assessment generation]]
+[Assessment generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentGeneration.md)
 
-[[c_ScheduledAssessments|Scheduled assessments]]
+[Scheduled assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_ScheduledAssessments.md)
 
-[[t_GenSchedAssessmentManually|Generate a scheduled assessment manually]]
+[Generate a scheduled assessment manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_GenSchedAssessmentManually.md)
 
-[[t_GenAVendorTypeAssmtManually|Generate a vendor type assessment manually]]
+[Generate a vendor type assessment manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_GenAVendorTypeAssmtManually.md)
 
-[[t_SetAssesstGenerationSchedule|Set an assessment generation schedule]]
+[Set an assessment generation schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_SetAssesstGenerationSchedule.md)
 
-[[c_AssessmentInstances|Assessment instances]]
+[Assessment instances](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentInstances.md)
 
-[[t_ViewAnAssessmentInstance|View an assessment instance]]
+[View an assessment instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAnAssessmentInstance.md)
 
-[[t_CleanUpAssessmentData|Clean up assessment data]]
+[Clean up assessment data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CleanUpAssessmentData.md)
 
-## Related
-
-- [[c_OnDemandAssessments|On-demand assessments]]
-- [[c_AssessmentGeneration|Assessment generation]]
-- [[c_ScheduledAssessments|Scheduled assessments]]
-- [[t_GenSchedAssessmentManually|Generate a scheduled assessment manually]]
-- [[t_GenAVendorTypeAssmtManually|Generate a vendor type assessment manually]]
-- [[t_SetAssesstGenerationSchedule|Set an assessment generation schedule]]
-- [[c_AssessmentInstances|Assessment instances]]
-- [[t_ViewAnAssessmentInstance|View an assessment instance]]
-- [[t_CleanUpAssessmentData|Clean up assessment data]]

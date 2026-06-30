@@ -14,22 +14,22 @@ breadcrumb: [Guidances, Recommended Actions, Recommended Actions configuration, 
 
 The Default guidance for search results is a guidance that can be used for any search sources that don't have mapped guidances.
 
-Using AI search results in [[configure-nba|Recommended Actions]] requires a search application configuration. For each search source in that configuration, the admin creates a mapping from the search result to an action.
+Using AI search results in Recommended Actions requires a search application configuration. For each search source in that configuration, the admin creates a mapping from the search result to an action.
 
 Starting with the Yokohama release, the Recommended Actions application automatically creates the mapping between search results and actions.
 
-When an admin creates or updates the search application configuration for a context record, the system [[ra-configuring-ai-search-automatically|automatically creates search result mapping records]] for each of the search sources in that configuration.
+When an admin creates or updates the search application configuration for a context record, the system [automatically creates search result mapping records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-configuring-ai-search-automatically.md) for each of the search sources in that configuration.
 
 -   If a search source does not have an existing mapping to an action, the system maps the search source to the default guidance.
 -   If a search source has an existing mapping to a specific action, the system keeps that mapping and does not overwrite it with the default guidance.
 
-The default guidance enables agents to view search results for any type of record. The agent can view the search results in the Recommended Actions tab in the contextual side panel in [[csm-workspaces-configure|CSM Configurable Workspace]]. Search results are displayed in a card format.
+The default guidance enables agents to view search results for any type of record. The agent can view the search results in the Recommended Actions tab in the contextual side panel in CSM Configurable Workspace. Search results are displayed in a card format.
 
 The default guidance is available on the following pages:
 
--   [[csm-default-record-page|CSM default record page]]
--   [[csm-front-line-case-page|Front-line case page]]
--   [[csm-interaction-record-page|CSM Interaction record page]] of type chat, video, email, and Walkup
+-   CSM default record page
+-   Front-line case page
+-   CSM Interaction record page of type chat, video, email, and Walkup
 
 ## Default guidance card
 
@@ -77,7 +77,7 @@ Relevancy score
 
 </td><td>
 
-The relevancy score displays on the [[ra-csm-guidances-share-kb-chat|Share KB in chat interactions guidance]] in the Search tab of the Recommended Actions contextual side panel. It indicates how well a search result matches the agent’s query.
+The relevancy score displays on the Share KB in chat interactions guidance in the Search tab of the Recommended Actions contextual side panel. It indicates how well a search result matches the agent’s query.
 
 </td></tr><tr><td>
 
@@ -109,12 +109,3 @@ Agents can use this action to open the associated record in a sub tab. Agents ca
 
 [Automatically map AI search results with guidance inputs in Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-configuring-ai-search-automatically.md)
 
-## Related
-
-- [[ra-configuring-ai-search-automatically|Automatically map AI search results with guidance inputs in Recommended Actions]]
-- [[configure-nba|Recommended Actions]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[csm-default-record-page|CSM default record page]]
-- [[csm-front-line-case-page|Front-line case page]]
-- [[csm-interaction-record-page|CSM Interaction record page]]
-- [[ra-csm-guidances-share-kb-chat|Share KB in chat interactions guidance]]

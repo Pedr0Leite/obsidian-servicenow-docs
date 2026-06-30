@@ -26,11 +26,11 @@ Role required: virtual\_agent\_admin or admin
 
 ## Procedure
 
-1.  Open the Asset Refresh topic in [[virtual-agent-landing-page|Virtual Agent]] Designer.
+1.  Open the Asset Refresh topic in Virtual Agent Designer.
 
 2.  Return to the **info** decision branch after the Continue or Defer static choice node where you first prompted the user to continue or get more information.
 
-    1.  From the Components area, drag a [[va-topic-blocks|Topic Block utility]] node onto the canvas.
+    1.  From the Components area, drag a Topic Block utility node onto the canvas.
 
     2.  In the properties palette, select **AI Search** for the Topic block.
 
@@ -69,7 +69,7 @@ Role required: virtual\_agent\_admin or admin
 
         \[Omitted image "crawl-ex-upgrade-now-later.png"\] Alt text: Static choice properties for "Upgrade Next Steps" node. It includes a user prompt and two choices: Yes, upgrade now or No, maybe later.
 
-5.  Add a [[va-decision|Decision utility]] to handle the user's choice.
+5.  Add a Decision utility to handle the user's choice.
 
     1.  From the Components area, drag a Decision utility onto the canvas.
 
@@ -107,8 +107,3 @@ When you're finished, [publish the topic](https://raw.githubusercontent.com/Serv
 
 [Improving the user experience with AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-ai-search.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[va-topic-blocks|Topic Block utility]]
-- [[va-decision|Decision utility]]

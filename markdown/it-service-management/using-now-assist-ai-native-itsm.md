@@ -12,7 +12,7 @@ breadcrumb: [Fulfiller experience, Simplified IT Service Management, IT Service 
 
 # Using the Service Desk Team Dashboard
 
-Service desk managers can use the Service Desk Team Dashboard to view key [[perf-metrics-mob|performance metrics]], including incident and requested item backlog, and team MTTR.
+Service desk managers can use the Service Desk Team Dashboard to view key performance metrics, including incident and requested item backlog, and team MTTR.
 
 You must have the service\_desk\_manager role to view the Service Desk Team Dashboard.
 
@@ -28,9 +28,5 @@ You can filter performance data by assignment group and date range.
 
 \[Omitted image "service-desk-dash-ai-native.png"\] Alt text:
 
-**Parent Topic:**[[fulfiller-experience-ai-native-itsm|Fulfiller experience in Simplified IT Service Management]]
+**Parent Topic:**[Fulfiller experience in Simplified IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/fulfiller-experience-ai-native-itsm.md)
 
-## Related
-
-- [[fulfiller-experience-ai-native-itsm|Fulfiller experience in Simplified IT Service Management]]
-- [[perf-metrics-mob|Performance metrics]]

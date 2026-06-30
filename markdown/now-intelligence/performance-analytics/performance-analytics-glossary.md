@@ -18,7 +18,7 @@ Performance Analytics uses terms and concepts that can differ from industry norm
 
 ## automated breakdown
 
-[[automated-breakdowns|Automated breakdowns]] are based on a breakdown source, which is a set of records from a table. The breakdown maps these records, known as breakdown elements, with fields on tables that indicators collect scores from. Scores collected from mapped tables can then be grouped and filtered based on the values in the mapped fields and the breakdown elements.
+Automated breakdowns are based on a breakdown source, which is a set of records from a table. The breakdown maps these records, known as breakdown elements, with fields on tables that indicators collect scores from. Scores collected from mapped tables can then be grouped and filtered based on the values in the mapped fields and the breakdown elements.
 
 ## automated indicator
 
@@ -53,11 +53,11 @@ The values for a breakdown. For example, the Priority breakdown may have the ele
 
 ## breakdown mapping
 
-A breakdown mapping specifies the relationships between breakdowns and [[c_IndicatorSources|indicator sources]]. A breakdown mapping references either a field on the indicator source or a script that queries the indicator source.
+A breakdown mapping specifies the relationships between breakdowns and indicator sources. A breakdown mapping references either a field on the indicator source or a script that queries the indicator source.
 
 ## breakdown relations
 
-[[view-navigation-paths|Navigation paths]] for viewing breakdown scores, by moving from one breakdown element to another breakdown element. Breakdown relations can be between the elements of different breakdowns, or they can be within a hierarchical structure of elements in the same breakdown.
+Navigation paths for viewing breakdown scores, by moving from one breakdown element to another breakdown element. Breakdown relations can be between the elements of different breakdowns, or they can be within a hierarchical structure of elements in the same breakdown.
 
 ## breakdown source
 
@@ -82,7 +82,7 @@ An indicator that is used in the formula of a formula indicator. A contributing 
 
 ## database view
 
-A database view defines table joins for [[reporting-landing-page|reporting]] purposes.
+A database view defines table joins for reporting purposes.
 
 For example, a database view can join the Incident table to the Metric Definition table. This view can be used for an indicator source.
 
@@ -104,7 +104,7 @@ A performance measurement taken at regular intervals of a business service, an a
 
 ## indicator score
 
-The value of an indicator for a specific collection period. For [[automated-indicators|automated indicators]], this value is calculated in a data collection job. For [[formula-indicators|formula indicators]], this value is calculated by performing operations on multiple automated indicators.
+The value of an indicator for a specific collection period. For automated indicators, this value is calculated in a data collection job. For formula indicators, this value is calculated by performing operations on multiple automated indicators.
 
 ## indicator source
 
@@ -134,11 +134,3 @@ The future hoped-for indicator scores that represent goals that your organizatio
 
 The user-defined top or bottom limit of the normal range of scores for an indicator. You can set up an alert to let you know when a threshold is breached and how. For example, you can set up an alert to let you know when a score reaches an all-time high or low.
 
-## Related
-
-- [[automated-breakdowns|Automated breakdowns]]
-- [[c_IndicatorSources|Indicator sources]]
-- [[view-navigation-paths|Navigation paths]]
-- [[reporting-landing-page|Reporting]]
-- [[automated-indicators|Automated indicators]]
-- [[formula-indicators|Formula indicators]]

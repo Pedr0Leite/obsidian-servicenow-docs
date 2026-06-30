@@ -28,13 +28,13 @@ For more information, see [Contract analysis using Now Assist in Contract Manage
 
 ## Procedure
 
-1.  Open the **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Open the **Source-to-Pay Workspace**.
 
 2.  Navigate to **Lists** &gt; **My work** &gt; **Open contract requests**
 
 3.  Select a contract request that is in Work in progress state.
 
-    **Note:** You can analyze only the [[contracts|contracts]] that are in Work in progress state.
+    **Note:** You can analyze only the contracts that are in Work in progress state.
 
 4.  If the contextual side panel isn’t open, select the Now Assist Contract Review by Now Assist icon \(\[Omitted image "cmpro-ai-sparkel-icon.png"\] Alt text: Contract Review by Now Assist icon\).
 
@@ -82,7 +82,7 @@ Steps
 </td></tr></tbody>
 </table>    After you select **Analyze with Now Assist**, you might encounter Restricted Caller Access \(RCA\) approval messages as shown in the image.
 
-    \[Omitted image "spo-cmro-rca-message.png"\] Alt text: [[approve-rca-contracts-spo|RCA approvals for Now Assist in Contract Management]].
+    \[Omitted image "spo-cmro-rca-message.png"\] Alt text: RCA approvals for Now Assist in Contract Management.
 
     For more information about approving restricted caller access \(RCA\) privileges to allow cross-scope access to Now Assist in Contract Management, see [RCA approvals for Now Assist in Contract Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/approve-rca-contracts-spo.md).
 
@@ -118,8 +118,3 @@ Approve restricted caller access \(RCA\) privileges to allow cross-scope access 
 
 [Start a metadata extraction for a contract from Source-to-Pay Workspace]()
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[contracts|Contracts]]
-- [[approve-rca-contracts-spo|RCA approvals for Now Assist in Contract Management]]

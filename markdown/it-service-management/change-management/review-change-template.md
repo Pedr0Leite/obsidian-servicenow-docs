@@ -24,11 +24,11 @@ You must have role configured with access to approve the templates associated wi
 
 ## About this task
 
-The approval process for [[change-templates|change templates]] is determined by the publish approval flow set by administrators. For more information, see [Change template management flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/change-template-management-flows.md).
+The approval process for change templates is determined by the publish approval flow set by administrators. For more information, see [Change template management flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/change-template-management-flows.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Change** &gt; **[[c_Models|Models]]** &gt; **Change Templates**.
+1.  Navigate to **All** &gt; **Change** &gt; **Models** &gt; **Change Templates**.
 
 2.  Select the template assigned to you to approve.
 
@@ -50,7 +50,3 @@ The approval process for [[change-templates|change templates]] is determined by 
 
 [Retire a change template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/retire-a-change-template.md)
 
-## Related
-
-- [[change-templates|Change templates]]
-- [[c_Models|Models]]

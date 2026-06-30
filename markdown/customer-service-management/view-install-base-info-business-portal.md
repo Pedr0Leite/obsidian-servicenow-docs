@@ -28,7 +28,7 @@ You can view all cases and the service status from the last 30 days as well as a
 
 1.  Navigate to the business portal.
 
-2.  Select **My hub** &gt; **Manage [[install-base-item|install base items]]** in the header menu.
+2.  Select **My hub** &gt; **Manage install base items** in the header menu.
 
     The system displays a list of install base items that belong to your account.
 
@@ -36,6 +36,4 @@ You can view all cases and the service status from the last 30 days as well as a
 
 4.  To create a case directly from the install base details, select **Create Case**.
 
-## Related
 
-- [[install-base-item|Install base items]]

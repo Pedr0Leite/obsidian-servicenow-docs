@@ -14,7 +14,7 @@ breadcrumb: [Use, Demand Management, Project Portfolio Management, Strategic Por
 
 # Associate AI systems with demands
 
-Add and manage AI system associations directly from the **AI Associations** tab in [[c_DemandManagement|Demand Management]].
+Add and manage AI system associations directly from the **AI Associations** tab in Demand Management.
 
 ## Before you begin
 
@@ -24,9 +24,9 @@ Add and manage AI system associations directly from the **AI Associations** tab 
 
 ## About this task
 
-Add and manage AI system associations directly from the AI Associations tab in a [[demand-form|demand form]].
+Add and manage AI system associations directly from the AI Associations tab in a demand form.
 
-You can select the impacted AI systems for the demand. If the required AI systems aren’t available, you can [[create-ai-systems-from-dw-ppw|create AI systems]] using the **Create AI System** related link directly within the [[demand-workflow-ppw|demand workflow]]. You’re navigated to the AI Control Tower to create the AI system. The created AI system is then available for selection in the **Impacted AI Systems** list on the demand form.
+You can select the impacted AI systems for the demand. If the required AI systems aren’t available, you can create AI systems using the **Create AI System** related link directly within the demand workflow. You’re navigated to the AI Control Tower to create the AI system. The created AI system is then available for selection in the **Impacted AI Systems** list on the demand form.
 
 ## Procedure
 
@@ -75,14 +75,7 @@ You can select the impacted AI systems for the demand. If the required AI system
 
 [PPM PIWB template - Find similar demands]()
 
-[Identify similar records using Now Assist for [[r_ITBusinessManagement|Strategic Portfolio Management]] \(SPM\)]()
+[Identify similar records using Now Assist for Strategic Portfolio Management \(SPM\)]()
 
 [Summarize demands with demand summarization skill]()
 
-## Related
-
-- [[c_DemandManagement|Demand Management]]
-- [[demand-form|Demand form]]
-- [[create-ai-systems-from-dw-ppw|Create AI systems]]
-- [[demand-workflow-ppw|Demand workflow]]
-- [[r_ITBusinessManagement|Strategic Portfolio Management]]

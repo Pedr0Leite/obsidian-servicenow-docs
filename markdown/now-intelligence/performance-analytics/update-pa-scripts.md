@@ -14,7 +14,7 @@ breadcrumb: [Configure Platform Analytics Solutions, Platform Analytics solution
 
 # Update Performance Analytics scripts
 
-[[content-packs-in-form-analytics-published|Platform Analytics Solutions]] include Performance Analytics scripts to perform calculations on records. These scripts use the time stamp fields from the [[c_IndicatorSources|indicator sources]]. If you change the time field stamps in an indicator source, also modify the related scripts.
+Platform Analytics Solutions include Performance Analytics scripts to perform calculations on records. These scripts use the time stamp fields from the indicator sources. If you change the time field stamps in an indicator source, also modify the related scripts.
 
 ## Before you begin
 
@@ -67,7 +67,3 @@ Role required: pa\_admin, admin
 
 **Next topic:**[Review the breakdown sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/review-breakdown-sources.md)
 
-## Related
-
-- [[content-packs-in-form-analytics-published|Platform Analytics solutions]]
-- [[c_IndicatorSources|Indicator sources]]

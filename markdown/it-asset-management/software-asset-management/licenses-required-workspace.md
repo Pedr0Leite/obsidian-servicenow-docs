@@ -14,7 +14,7 @@ breadcrumb: [Using Software Asset Workspace, Software Asset Management, IT Asset
 
 # View calculations for your licenses in workspace
 
-Evaluate the license compliance of software applications by viewing the details for all required licenses through the [[sam-workspace|Software Asset Workspace]] [[sam-workspace-workbench|License usage view]].
+Evaluate the license compliance of software applications by viewing the details for all required licenses through the Software Asset Workspace License usage view.
 
 ## Before you begin
 
@@ -210,7 +210,7 @@ A detailed license consumption summary post reconciliation. The summary gives yo
     |Field|Description|
     |-----|-----------|
     |Normalized display name|The normalized display name of a software product.|
-    |Discovery model|Normalizes the software you own by analyzing and classifying [[c_Models|models]] to reduce duplication.|
+    |Discovery model|Normalizes the software you own by analyzing and classifying models to reduce duplication.|
     |Installed on|Configuration item on which the software is installed.|
     |Assigned to|Name of the user assigned to this configuration item.|
     |Unlicensed install|Indicates whether the install is licensed or unlicensed.|
@@ -248,8 +248,3 @@ A detailed license consumption summary post reconciliation. The summary gives yo
 
 **Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/using-sam-workspace.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]
-- [[sam-workspace-workbench|License usage view]]
-- [[c_Models|Models]]

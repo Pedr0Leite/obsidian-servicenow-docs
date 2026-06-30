@@ -14,7 +14,7 @@ breadcrumb: [Updated hardening settings, Baseline versions, Hardening settings, 
 
 # Updated hardening settings for baseline version 6.0
 
-Some [[security-hardening-settings|hardening settings]] have been updated with the release of [[sec-center-v2|Security Center]] baseline version 6.0.
+Some hardening settings have been updated with the release of Security Center baseline version 6.0.
 
 <table id="table_oz1_qwv_bfc"><thead><tr><th>
 
@@ -30,7 +30,7 @@ Updates
 
 </td><td>
 
--   New Short Description: [[sc-publicly-exposed-virtual-agent-embedded-web-client|Prevent Unauthenticated Access to Virtual Agent Embedded Web Client]]
+-   New Short Description: Prevent Unauthenticated Access to Virtual Agent Embedded Web Client
 -   Old Short Description:Publicly Exposed Virtual Agent Embedded Web Client sn\_va\_web\_client\_app\_embed
 
 </td></tr><tr><td>
@@ -61,7 +61,7 @@ Rule: Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Enable [[c_HTMLSanitizer|HTML Sanitizer]] \[Updated in Security Center 1.3\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-html-sanitizer.md)
+[Enable HTML Sanitizer \[Updated in Security Center 1.3\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-html-sanitizer.md)
 
 </td><td>
 
@@ -96,7 +96,7 @@ Rule Script: Script has been updated to improve detection accuracy
 
 </td></tr><tr><td>
 
-[Restrict [[oauth-inbound-and-outbound|oauth]] parameters to POST body \[New in Security Center 1.3\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-restrict-oauth-parameters-to-post-body.md)
+[Restrict oauth parameters to POST body \[New in Security Center 1.3\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-restrict-oauth-parameters-to-post-body.md)
 
 </td><td>
 
@@ -120,7 +120,7 @@ Rule Script: Script has been updated to improve detection accuracy
 
 </td><td>
 
--   If the **glide.stax.whitelist\_enabled** system property does not exist in the [[ca-system-properties|System Properties]] \[sys\_properties\] table, or it is not set to the recommended value of **true**, then all external entities are allowed when the **glide.stax.allow\_entity\_resolution** system property is set to the value of **true**. If customizations do not require entity expansion, use the **glide.stax.allow\_entity\_resolution** system property to disable external entity expansion. The XML completes parsing but doesn't include any internal or external entities.
+-   If the **glide.stax.whitelist\_enabled** system property does not exist in the System Properties \[sys\_properties\] table, or it is not set to the recommended value of **true**, then all external entities are allowed when the **glide.stax.allow\_entity\_resolution** system property is set to the value of **true**. If customizations do not require entity expansion, use the **glide.stax.allow\_entity\_resolution** system property to disable external entity expansion. The XML completes parsing but doesn't include any internal or external entities.
 
     -   If you set **glide.stax.allow\_entity\_resolution** to **true**, all external entities attempt to resolve or expand subject entities, subject to the setting of the **glide.stax.whitelist\_enabled** property.
     -   If you set **glide.stax.allow\_entity\_resolution** to **false**, all entity resolution and expansion is blocked. To learn more about this property, see [Disable Entity Expansion within the XMLDocument2 Streaming Parser](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-disable-entity-expansion.md).
@@ -148,7 +148,7 @@ Values other than `http://java.sun.com/j2ee/dtds/` can be included in the in the
 
 </td></tr><tr><td>
 
-[Restrict [[email|email]] domains for external user registration \[Updated in Security Center 1.3, 1.5, and 2.0\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-external-user-registration-email-domain-allowlist.md)
+[Restrict email domains for external user registration \[Updated in Security Center 1.3, 1.5, and 2.0\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-external-user-registration-email-domain-allowlist.md)
 
 </td><td>
 
@@ -198,7 +198,7 @@ When set to "true", the "glide.ip.authenticate.allow" property is used to grant 
 
 -   Description \(New\):
 
-Disable entity expansion on your instance to [[platsec-landing|secure your instance]] from attacks such as ability to read system files, and Denial of Service. Use the system property to disallow XML entities to be expanded during parsing by the streaming parser \(XMLDocument2\).
+Disable entity expansion on your instance to secure your instance from attacks such as ability to read system files, and Denial of Service. Use the system property to disallow XML entities to be expanded during parsing by the streaming parser \(XMLDocument2\).
 
 Set the **glide.stax.allow\_entity\_resolution** system property to **false** to disable entity expansion on your instance. If this property does not appear in the System Properties \[sys\_properties\] table, the default value is **true**. Create the property record and set the value to **false** to change it's value.
 
@@ -242,7 +242,7 @@ This property is not honored for images from the attachment table if the origin 
     -   Stationeries \[sysevent\_email\_style\]
     -   Welcome Page Sections \[sys\_home\]
     -   System Properties \[sys\_properties\]
-Restriction should be applied for unauthenticated [[users|users]] as some attachments might contain sensitive information.
+Restriction should be applied for unauthenticated users as some attachments might contain sensitive information.
 
 -   Description \(Old\): If "glide.image\_provider.security\_enabled" is not set to the recommended value of "True", then all images are accessible via urls that end in ".iix". This would allow unauthenticated access to images leading to sensitive information leak.
 
@@ -280,7 +280,7 @@ Rule Script: Script has been updated to improve detection accuracy
 
 </td><td>
 
--   Technical [[sc-configuration|Configuration]] Name \(New\): com.glide.email\_filter,glide.email.read.active
+-   Technical Configuration Name \(New\): com.glide.email\_filter,glide.email.read.active
 -   Technical Configuration Name \(Old\): com.glide.email\_filter
 -   Rule Script: Script has been updated to improve detection accuracy
 
@@ -294,9 +294,9 @@ Rule Script: Script has been updated to improve detection accuracy
 
 Prevent potentially malicious formulas in programs such as Excel from being executed after exporting and opening the file by escaping formulas in these files. Excel injection occurs when websites embed untrusted entries inside Excel files. When you use a spreadsheet application such as Microsoft Excel, or LibreOffice Call, to open a file, any cells starting with +, -, =, or @ are interpreted as a formula unless properly escaped. Malicious formulas pose a risk even when the spreadsheet doesn't contain any sensitive information, as they can be used to compromise the viewer's computer through code execution.
 
-Set the **glide.[[export|export]].escape\_formulas** system property to **true** to escape these formulas from executing.
+Set the **glide.export.escape\_formulas** system property to **true** to escape these formulas from executing.
 
--   Description \(Old\): Setting the property "glide.export.escape\_formulas" to the recommended value of "true" prevents potentially malicious formulas in programs such as Excel from being executed after exporting and opening the file. Cell values for CSV, Xls, and XLSX can be interpreted as formulas by spreadsheet applications unless properly escaped which can lead to [[sc-malicious-code|malicious code]] execution.
+-   Description \(Old\): Setting the property "glide.export.escape\_formulas" to the recommended value of "true" prevents potentially malicious formulas in programs such as Excel from being executed after exporting and opening the file. Cell values for CSV, Xls, and XLSX can be interpreted as formulas by spreadsheet applications unless properly escaped which can lead to malicious code execution.
 -   CVSS Score \(New\): 6.4
 -   CVSS Score \(Old\): 6.5
 
@@ -322,11 +322,11 @@ Use the value of the **angular.jsonp.inclusion\_list.urls** system property to d
 
 -   Description \(New\):
 
-Prevent ServiceNow Customer Service and Support personnel from accessing the instances without your express permission by enabling the SNC [[sc-access-control|Access Control]] \(com.snc.snc\_access\_control\) plugin. Although all access to your instance is audited, you may prefer to control this access. This access method is fully auditable and tracked.
+Prevent ServiceNow Customer Service and Support personnel from accessing the instances without your express permission by enabling the SNC Access Control \(com.snc.snc\_access\_control\) plugin. Although all access to your instance is audited, you may prefer to control this access. This access method is fully auditable and tracked.
 
 **Note:** Other authorized ServiceNow Operations personnel, in their capacity to support and manage the product, are required to perform administrative actions on the underlying infrastructure. Enabling this plugin may affect support service levels and the Availability SLA. Availability SLA is then measured from the time that Support staff personnel are granted access to your instance.
 
-Enable the SNC Access Control \(com.snc.snc\_access\_control\) plugin to restrict access to your instance without your express permission. For more details on this feature, see [[c_SNCAccessControl|ServiceNow access control]]. For activation information, see [[t_ActivateSNCAccessControl|Activate ServiceNow access control]]
+Enable the SNC Access Control \(com.snc.snc\_access\_control\) plugin to restrict access to your instance without your express permission. For more details on this feature, see [ServiceNow access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_SNCAccessControl.md). For activation information, see [Activate ServiceNow access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_ActivateSNCAccessControl.md)
 
 -   Description \(Old\): The SNC Access Control \(com.snc.snc\_access\_control\) plugin prevents Customer Service and Support personnel from accessing the instances without your express permission. However, other authorized ServiceNow Operations personnel, in their capacity to support and manage the product, are required to perform administrative actions on the underlying infrastructure. This infrastructure includes servers and databases, among other infrastructure components that make up the SaaS solution. This access method is fully auditable and tracked.This plugin enables you to restrict access to your instance without your express permission, so it may affect support service levels and the Availability SLA. Availability SLA is then measured from the time that Support staff personnel are granted access to your instance.
 -   Remediation \(New\): Ensure the plugin "com.snc.snc\_access\_control" is activated. Read the documentation on activating at [https://www.servicenow.com/docs/csh?topicname=t\_ActivateSNCAccessControl.html&amp;version=latest.](https://www.servicenow.com/docs/access?context=t_ActivateSNCAccessControl&version=latest.)
@@ -351,7 +351,7 @@ Help secure your instance against brute force attacks by defining a time period 
 
 Set the **glide.user.unlock\_timeout\_in\_mins** system property value to a minimum of **15**. If **glide.user.unlock\_timeout\_in\_mins** does not exist, the default lockout time is set to 15 minutes.
 
-Ensure that the **SNC User Lockout Check with Auto Unlock** script action \(found on the Script Action \[sysevent\_script\_action\] table\) is present and active. The **SNC User Lockout Check with Auto Unlock** script action is installed with the [[c_HighSecuritySettings|High Security Settings]] \(com.glide.high\_security\) plugin.
+Ensure that the **SNC User Lockout Check with Auto Unlock** script action \(found on the Script Action \[sysevent\_script\_action\] table\) is present and active. The **SNC User Lockout Check with Auto Unlock** script action is installed with the High Security Settings \(com.glide.high\_security\) plugin.
 
 -   Remediation \(Old\): Ensure the property "glide.user.unlock\_timeout\_in\_mins" is set to "15" or more.
 -   Rule Script: Script has been updated to improve detection accuracy
@@ -393,11 +393,11 @@ Enable updated version of MultiSSO plugin
 -   Technical Configuration Name \(Old\): glide.authenticate.multisso.enabled,glide.authenticate.multissov2\_feature.enabled
 -   Description \(New\):
 
-If the Multi SSO plugin is enabled on an instance, reduce security vulnerabilities by confirming that the v2 version is enabled. The latest version enhances security and has more features, such as Assertion [[encryption-landing|encryption]] support, and IDP-initiated Single Logout \(SLO\). If the latest version is not enabled, the new security features cannot be used and the instance is at risk of using an plugin which is deprecated.
+If the Multi SSO plugin is enabled on an instance, reduce security vulnerabilities by confirming that the v2 version is enabled. The latest version enhances security and has more features, such as Assertion encryption support, and IDP-initiated Single Logout \(SLO\). If the latest version is not enabled, the new security features cannot be used and the instance is at risk of using an plugin which is deprecated.
 
 Follow the steps in [KB0756504](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0756504) to upgrade to the latest version. This process includes checking for and migrating any customization-related changes, then upgrading the version. When complete, the **glide.authenticate.multissov2\_feature.enabled** system property is automatically set **true**.
 
--   Description \(Old\): If the Multi SSO plugin is enabled on an instance, the v2 version should be enabled. Versions prior to MultiSSOv2, including [[c_SAML2.0WebBrowserSSOProfile|SAML]] 1.1 and SAML 2.0, do not follow best practice and use opensaml library versions with known CVEs. If the known CVEs were exploitable in outdated opensaml libraries, this could allow the attacker to forge messages and bypass [[c_Authentication|authentication]] through XML Signature Wrapping attacks, impersonate entities or allow person-in-the-middle attackers to gain unauthorized access to the platform.
+-   Description \(Old\): If the Multi SSO plugin is enabled on an instance, the v2 version should be enabled. Versions prior to MultiSSOv2, including SAML 1.1 and SAML 2.0, do not follow best practice and use opensaml library versions with known CVEs. If the known CVEs were exploitable in outdated opensaml libraries, this could allow the attacker to forge messages and bypass authentication through XML Signature Wrapping attacks, impersonate entities or allow person-in-the-middle attackers to gain unauthorized access to the platform.
 -   CVSS Score \(New\): 0
 -   CVSS Score \(Old\): 7.1
 
@@ -442,7 +442,7 @@ Rule Script: Script has been updated to improve detection accuracy
 
 -   Description \(New\):
 
-Prevent `OutOfMemoryExceptions` that can result from a [[c_requestAPI|request]] response body being too large using the **glide.http.response.get\_body.limit.enabled** and **glide.http.response.get\_body.limit** system properties. These exceptions can cause denial of service \(DOS\) attacks as well as other issues that may aid attackers in compromising an instance. Not setting these properties to the recommended values could make your instance vulnerable to OutOfMemoryExceptions and denial of service attacks.
+Prevent `OutOfMemoryExceptions` that can result from a request response body being too large using the **glide.http.response.get\_body.limit.enabled** and **glide.http.response.get\_body.limit** system properties. These exceptions can cause denial of service \(DOS\) attacks as well as other issues that may aid attackers in compromising an instance. Not setting these properties to the recommended values could make your instance vulnerable to OutOfMemoryExceptions and denial of service attacks.
 
 To protect your instance against these security vulnerabilities:
 
@@ -460,7 +460,7 @@ To protect your instance against these security vulnerabilities:
 
 -   Description \(New\):
 
-Reduce the scope of potential security incidents by decreasing the lifespan of active HTTP sessions. The **glide.ui.active.session.life\_span** system property enforces a maximum lifespan on active HTTP sessions irrespective of inactive timeout. Longer maximum lifespans can allow an attacker to use a stolen session a for longer time, increasing the scope of a security incident. The default value of **0** disables timeout of [[sc-active-sessions|active sessions]]
+Reduce the scope of potential security incidents by decreasing the lifespan of active HTTP sessions. The **glide.ui.active.session.life\_span** system property enforces a maximum lifespan on active HTTP sessions irrespective of inactive timeout. Longer maximum lifespans can allow an attacker to use a stolen session a for longer time, increasing the scope of a security incident. The default value of **0** disables timeout of active sessions
 
 Set the **glide.ui.active.session.life\_span** to a value between 1 and 720. This value represents the time in minutes that HTTP sessions can remain active.
 
@@ -469,26 +469,3 @@ Set the **glide.ui.active.session.life\_span** to a value between 1 and 720. Thi
 </td></tr></tbody>
 </table>**Parent Topic:**[Updated hardening settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/hardening-settings-updated.md)
 
-## Related
-
-- [[c_SNCAccessControl|ServiceNow access control]]
-- [[t_ActivateSNCAccessControl|Activate ServiceNow access control]]
-- [[security-hardening-settings|Hardening settings]]
-- [[sec-center-v2|Security Center]]
-- [[sc-publicly-exposed-virtual-agent-embedded-web-client|Prevent Unauthenticated Access to Virtual Agent Embedded Web Client]]
-- [[c_HTMLSanitizer|HTML sanitizer]]
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[ca-system-properties|System properties]]
-- [[email|Email]]
-- [[platsec-landing|Secure your instance]]
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[export|Export]]
-- [[sc-malicious-code|Malicious code]]
-- [[sc-access-control|Access control]]
-- [[c_HighSecuritySettings|High Security Settings]]
-- [[encryption-landing|Encryption]]
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[c_Authentication|Authentication]]
-- [[c_requestAPI|request]]
-- [[sc-active-sessions|Active Sessions]]

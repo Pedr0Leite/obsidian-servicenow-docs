@@ -14,9 +14,9 @@ breadcrumb: [HR Service Delivery, Employee Service Management]
 
 # HR Success Dashboard indicators
 
-HR Success Dashboard indicators provides service and performance insights to the HR leadership team and process owners. You can [[using-success-dashboard|measure the performance of the HR implementation]] using the different KPIs.
+HR Success Dashboard indicators provides service and performance insights to the HR leadership team and process owners. You can measure the performance of the HR implementation using the different KPIs.
 
-Success Dashboard is available for [[hr-service-delivery|HR Service Delivery]] and IT Service Management via the following applications:
+Success Dashboard is available for HR Service Delivery and IT Service Management via the following applications:
 
 -   HR Success Dashboard indicators
 -   ITSM Success Dashboard indicators
@@ -44,16 +44,10 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td><td>
 
-[Reference \[Omitted image "bus-learn.svg"\] Alt text: [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] Get details about ITSM Success Dashboard the [[sdb-dasboard-overview|HR Success Dashboard indicators components]] such as roles and dependent applications.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/success-dashboard-reference.md)
+[Reference \[Omitted image "bus-learn.svg"\] Alt text: Reference Get details about ITSM Success Dashboard the HR Success Dashboard indicators components such as roles and dependent applications.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/success-dashboard-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
 
 [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[using-success-dashboard|Measure the performance of the HR implementation]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[sdb-dasboard-overview|HR Success Dashboard indicators components]]

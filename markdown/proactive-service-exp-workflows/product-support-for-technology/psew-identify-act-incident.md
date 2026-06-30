@@ -25,7 +25,7 @@ The following diagram shows the steps involved in creating an incident record.
 **Note:** The Change Management workflow follows the same process. When a configuration item is updated in a change request record, the **Refresh Impacted Services** script is triggered and the affected accounts are retrieved. Since the configuration item field is set to read-only, you must ensure that this field is populated before the script is triggered. See [Create a case from a change request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/psew-impact-change.md) for more details.
 
 -   **[Create an incident in Proactive Service Experience Workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/create-an-incident-proactive.md)**  
-Create an incident record in [[psew-landing-page|Proactive Service Experience Workflows]] to document an issue that your customer is facing.
+Create an incident record in Proactive Service Experience Workflows to document an issue that your customer is facing.
 -   **[Resolve an incident record in Proactive Service Experience Workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/aw-impact-analysis.md)**  
 Resolve an incident record by creating cases from record so that you can identify and solve network issues for your enterprise customers.
 -   **[Generate a proactive case for a customer issue](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/generate-proactive-case-customer-impact-tab.md)**  
@@ -39,6 +39,3 @@ Create a reactive case record from in an incident, problem, or change record. An
 
 **Parent Topic:**[Using Proactive Service Experience Workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/use-assurance-workflows.md)
 
-## Related
-
-- [[psew-landing-page|Proactive Service Experience Workflows]]

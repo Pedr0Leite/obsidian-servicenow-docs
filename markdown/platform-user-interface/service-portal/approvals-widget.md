@@ -14,7 +14,7 @@ breadcrumb: [Example widgets, Widget library, Using portal widgets, Configuring 
 
 # Approvals widget
 
-Users can approve or reject items directly within [[c_ServicePortal|Service Portal]]. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
+Users can approve or reject items directly within Service Portal. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 
 ## Using the widget
 
@@ -48,6 +48,3 @@ Use the instance options to change the appearance of the approvals widget.
 
 [Clone a widget]()
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]

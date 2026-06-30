@@ -13,16 +13,16 @@ breadcrumb: [Reference, Now Assist Center, Enable AI experiences]
 
 # Now Assist Center glossary
 
-Before getting started with [[now-assist-center-landing-page|Now Assist Center]], it is important to understand some key concepts used in the application.
+Before getting started with Now Assist Center, it is important to understand some key concepts used in the application.
 
 For more helpful terminology, see  glossary.
 
-**Parent Topic:**[[now-assist-center-reference|Now Assist Center reference]]
+**Parent Topic:**[Now Assist Center reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-reference.md)
 
 **Related topics**  
 
 
-[Components installed with [[platform-now-assist-landing|Now Assist]] Center]()
+[Components installed with Now Assist Center]()
 
 [Domain separation and Now Assist Center]()
 
@@ -38,11 +38,11 @@ An agentic system is a type of software or AI that perceives its environment, ma
 
 ## agentic workflow
 
-An agentic workflow is a structured sequence of tasks executed by one or more AI agents with minimal human intervention to fulfill a business objective. You can create and manage these workflows in [[ai-agent-studio|AI Agent Studio]] by using triggers, tools, and evaluation plans, and deploy across ITSM, HR, and CSM use [[cases|cases]].
+An agentic workflow is a structured sequence of tasks executed by one or more AI agents with minimal human intervention to fulfill a business objective. You can create and manage these workflows in AI Agent Studio by using triggers, tools, and evaluation plans, and deploy across ITSM, HR, and CSM use cases.
 
 ## citation
 
-Small, interactable number next to AI-generated content in the [[now-assist-center-now-assist-panel|Now Assist panel]] that cites the source of the information.
+Small, interactable number next to AI-generated content in the Now Assist panel that cites the source of the information.
 
 ## Now Assist
 
@@ -68,11 +68,3 @@ A blueprint that defines the dialog between Virtual Agent and a user to accompli
 
 A conversational bot platform that provides user assistance through conversations in a messaging interface.
 
-## Related
-
-- [[now-assist-center-reference|Now Assist Center reference]]
-- [[now-assist-center-landing-page|Now Assist Center]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[ai-agent-studio|AI Agent Studio]]
-- [[cases|Cases]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]

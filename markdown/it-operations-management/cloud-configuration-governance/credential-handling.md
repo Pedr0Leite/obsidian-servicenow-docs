@@ -16,7 +16,7 @@ breadcrumb: [Day 2 operations using Workflow Studio subflow, Cloud Admin Portal,
 
 Extend the workflow engine to manage processes and automate things outside of an instance with Orchestration. Use the appropriate credentials required by Orchestration SSH and PowerShell activity elements: SSH requires SSH and PowerShell requires Windows.
 
-The [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] application generates credentials \(node credentials\) after a VM is provisioned. Node credentials are used to connect to a VM. In addition to node credentials, the system generates SSH/Windows credentials. These credentials are required for Orchestration, which provides the automation for workflows.
+The Cloud Provisioning and Governance application generates credentials \(node credentials\) after a VM is provisioned. Node credentials are used to connect to a VM. In addition to node credentials, the system generates SSH/Windows credentials. These credentials are required for Orchestration, which provides the automation for workflows.
 
 ## Pre-existing VMs
 
@@ -26,6 +26,3 @@ Cloud Provisioning and Governance now generates SSH private key credentials and 
 
 When you deprovision or delete a VM, all associated credentials are deleted, including the node credential and SSH private key credentials/Windows credentials, as well as the credentials alias tag.
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]

@@ -14,7 +14,7 @@ breadcrumb: [Content pages in CMS, Configure Content Management sites, Content M
 
 # Create a content page
 
-Pages are built from [[c_ContentBlocks|content blocks]] and organized into sites.
+Pages are built from content blocks and organized into sites.
 
 ## Before you begin
 
@@ -76,7 +76,7 @@ Content theme
 
 </td><td>
 
-The theme to use for the page. Themes bundle CSS [[c_StyleSheets|style sheets]] that are applied to all content within the page.If this field is left blank, the page inherits the default theme of the site. Use the default theme unless the page requires a different set of CSS style sheets from the other pages in the site.
+The theme to use for the page. Themes bundle CSS style sheets that are applied to all content within the page.If this field is left blank, the page inherits the default theme of the site. Use the default theme unless the page requires a different set of CSS style sheets from the other pages in the site.
 
 </td></tr><tr><td>
 
@@ -148,7 +148,3 @@ Type a description of the page that displays for users when they access the page
 
 **Parent Topic:**[Content pages in CMS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_ContentPages.md)
 
-## Related
-
-- [[c_ContentBlocks|Content blocks]]
-- [[c_StyleSheets|Style sheets]]

@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Management references, Software Asset Management, IT
 
 # SAM Success Goal Details
 
-Fields on the SAM Success Goal Details help you create success goals for tracking the success of the [[c_SoftwareAssetMgmt|Software Asset Management]] application in your instance.
+Fields on the SAM Success Goal Details help you create success goals for tracking the success of the Software Asset Management application in your instance.
 
 <table id="table_d23_kx2_zsb"><thead><tr><th>
 
@@ -177,6 +177,3 @@ A description of how the success goal was achieved.
 
 [Create success goals for Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-success-goals.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

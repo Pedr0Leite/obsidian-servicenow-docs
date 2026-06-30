@@ -14,13 +14,13 @@ breadcrumb: [Configure, Operational Technology Manager, Operational Technology]
 
 # Install Operational Technology Manager
 
-If you have the admin role, you can install the [[operational-technology-manager|Operational Technology Manager]] application. The application includes demo data and installs that are related ServiceNow® Store applications and plugins, if they are not already installed.
+If you have the admin role, you can install the Operational Technology Manager application. The application includes demo data and installs that are related ServiceNow® Store applications and plugins, if they are not already installed.
 
 ## Before you begin
 
 -   Ensure that the application and all of its associated ServiceNow Store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
 
-**Note:** To learn more about the subscriptions required for the Operational Technology Manager, see [[otm-license-module|Subscriptions for Operational Technology Management \(OTM\)]]
+**Note:** To learn more about the subscriptions required for the Operational Technology Manager, see [Subscriptions for Operational Technology Management \(OTM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/otm-license-module.md)
 
 Role required: admin
 
@@ -59,7 +59,3 @@ For more information on viewing components that are installed with Operational T
 
 **Parent Topic:**[Configuring the Operational Technology Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/configuring-operational-technology-manager.md)
 
-## Related
-
-- [[otm-license-module|Subscriptions for OTM]]
-- [[operational-technology-manager|Operational Technology Manager]]

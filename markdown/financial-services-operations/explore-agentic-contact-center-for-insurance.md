@@ -19,7 +19,7 @@ Insurance customer service representatives \(CSRs\) can use Agentic Contact Cent
 
 Insurance CSRs routinely handle inbound customer calls that require navigating multiple systems to locate the information needed to serve a customer, such as core insurance, CSM, and case management systems. Constant application switching increases handling time, raises the risk of error, and forces customers to wait on hold while agents gather data on their call. This impacts the overall quality of interaction.
 
-[[landing-agentic-contact-centre-for-insurance|Agentic Contact Center for Insurance]] addresses these challenges by consolidating customer policy data and embedding AI assistance directly into the [[fso-overview|Financial Services]] Operations workspace. The **Interaction** and **Customer 360** variants together provide an AI-enhanced environment that surfaces the right information at the right moment.
+Agentic Contact Center for Insurance addresses these challenges by consolidating customer policy data and embedding AI assistance directly into the Financial Services Operations workspace. The **Interaction** and **Customer 360** variants together provide an AI-enhanced environment that surfaces the right information at the right moment.
 
 ## Agentic Contact Center for Insurance users
 
@@ -34,12 +34,12 @@ Insurance CSRs routinely handle inbound customer calls that require navigating m
 2.  When the CSR accepts the call, the **Interaction** page opens. The customer's profile and policy summary are displayed , and the CSR immediately receives an AI-generated summary of the call based on what has been collected up to that point via the interactive voice response \(IVR\) or Voice AI agent. This gives the CSR immediate context before the conversation with the customer begins.
 3.  A live transcript of the call is captured and updated continuously throughout the interaction, and serves as the primary input for the real-time assistance of the AI agent .
 
-    For more information about the Interaction page, see [[interactionpage-agentic-contact-centre-for-insurance|Interaction page for Agentic Contact Center for Insurance]].
+    For more information about the Interaction page, see [Interaction page for Agentic Contact Center for Insurance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/interactionpage-agentic-contact-centre-for-insurance.md).
 
 4.  As the call progresses, an AI agent monitors the live transcript and displays relevant information and recommended next steps in the Now Assist panel when requested by the CSR. The AI agent processes the customer's request and retrieves the appropriate data from knowledge base articles and related systems like CSM, core insurance , and case management. The CSR can view all the relevant customer details like current policy, claims history, and coverage information, in the same window.
 
 5.  CSRs can also ask their own questions at any time by typing into the Now Assist panel. For example, they may check recent claims activity, check coverage eligibility criteria, or retrieve policy details.
-6.  At any point during or outside of an active call, a CSR can open the **Customer 360** page by selecting the customer's name from the Interaction page or searching for the customer. The Customer 360 page opens in a separate tab and provides a comprehensive view of the customer's profile and insurance relationship, including policies, premiums, claims, and coverages. For more information about the Customer 360 page, see [[customer-360-insurance-agentic-contact-centre|Customer 360 page for Agentic Contact Center for Insurance]].
+6.  At any point during or outside of an active call, a CSR can open the **Customer 360** page by selecting the customer's name from the Interaction page or searching for the customer. The Customer 360 page opens in a separate tab and provides a comprehensive view of the customer's profile and insurance relationship, including policies, premiums, claims, and coverages. For more information about the Customer 360 page, see [Customer 360 page for Agentic Contact Center for Insurance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/customer-360-insurance-agentic-contact-centre.md).
 7.  When the call concludes, the system displays a wrap-up summary dialog with configured wrap-up codes. The agent can select a code and submit the wrap-up using an AI-generated call summary. For more information, see [Use AI to generate wrap up code and notes summary](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ai-generated-wrap-up-codes-and-notes-summary.md).
 
 ## Agentic Contact Center for Insurance benefits
@@ -53,26 +53,16 @@ Insurance CSRs routinely handle inbound customer calls that require navigating m
 
 To learn more about configuring and using Agentic Contact Center for Insurance, see:
 
--   [[agentic-contact-center-for-insurance-use|Use Agentic Contact Center for Insurance]]
--   [[agentic-contact-center-for-insurance-configure|Configure Agentic Contact Center for Insurance]]
--   [[components-installed-with-agentic-contact-centre-for-insurance|Components installed with Agentic Contact Center for Insurance]]
+-   [Use Agentic Contact Center for Insurance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/agentic-contact-center-for-insurance-use.md)
+-   [Configure Agentic Contact Center for Insurance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/agentic-contact-center-for-insurance-configure.md)
+-   [Components installed with Agentic Contact Center for Insurance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/components-installed-with-agentic-contact-centre-for-insurance.md)
 
 **Related topics**  
 
 
-[[reference-agentic-contact-centre-for-insurance|Agentic Contact Center for Insurance reference]]
+[Agentic Contact Center for Insurance reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/reference-agentic-contact-centre-for-insurance.md)
 
 [Customer 360 page for Agentic Contact Center for Insurance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/customer-360-insurance-agentic-contact-centre.md)
 
 [Interaction page for Agentic Contact Center for Insurance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/interactionpage-agentic-contact-centre-for-insurance.md)
 
-## Related
-
-- [[interactionpage-agentic-contact-centre-for-insurance|Interaction page for Agentic Contact Center for Insurance]]
-- [[customer-360-insurance-agentic-contact-centre|Customer 360 page for Agentic Contact Center for Insurance]]
-- [[agentic-contact-center-for-insurance-use|Use Agentic Contact Center for Insurance]]
-- [[agentic-contact-center-for-insurance-configure|Configure Agentic Contact Center for Insurance]]
-- [[components-installed-with-agentic-contact-centre-for-insurance|Components installed with Agentic Contact Center for Insurance]]
-- [[reference-agentic-contact-centre-for-insurance|Agentic Contact Center for Insurance reference]]
-- [[landing-agentic-contact-centre-for-insurance|Agentic Contact Center for Insurance]]
-- [[fso-overview|Financial Services]]

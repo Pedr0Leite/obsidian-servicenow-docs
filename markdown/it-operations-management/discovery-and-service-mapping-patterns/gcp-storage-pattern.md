@@ -15,7 +15,7 @@ breadcrumb: [GCP discovery, Available cloud discovery patterns, Discovery patter
 
 # GCP Storage pattern-based discovery
 
-[[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] Patterns finds GCP persistent disks and snapshots on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
+Discovery and Service Mapping Patterns finds GCP persistent disks and snapshots on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 ## Pattern-based discovery and mapping requirements
 
@@ -130,7 +130,7 @@ The description of the persistent disk.
 
 ## CI relationships
 
-The Google Cloud Platform \(GCP\) - Storage pattern creates these relationships to support GCP [[c_Storage|storage discovery]].
+The Google Cloud Platform \(GCP\) - Storage pattern creates these relationships to support GCP storage discovery.
 
 |CI|Relationship|CI|
 |---|------------|---|
@@ -157,8 +157,3 @@ The Google Cloud Platform \(GCP\) - Storage pattern collects labels and populate
 
 **Parent Topic:**[Google Cloud Platform \(GCP\) Cloud discovery using Patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/gcp-cloud-discovery-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[c_Storage|Storage discovery]]

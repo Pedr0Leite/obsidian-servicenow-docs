@@ -15,13 +15,13 @@ breadcrumb: [Legal Conflict of Interest, Legal Service Delivery Practice Applica
 
 # Exploring Legal Conflict of Interest
 
-Learn more about the [[legal-conflict-of-interest-landing-page|Legal Conflict of Interest]] application through a sample workflow and review the benefits that it can provide.
+Learn more about the Legal Conflict of Interest application through a sample workflow and review the benefits that it can provide.
 
 ## Legal Conflict of Interest overview
 
-The ServiceNow® Legal Conflict of Interest enables you to manage the disclosure, approval, and registry of conflict of interest that might arise from employees having competing interests or loyalties. Employees can submit disclosures using the conversational interface of Now Assist in Virtual Agent or intake form available in the [[employee-center-landing-page|Employee Center]]. The Requests are evaluated against predefined risk factors to calculate an overall risk score. Based on this score, requests are routed to the appropriate approval workflow for faster resolution.
+The ServiceNow® Legal Conflict of Interest enables you to manage the disclosure, approval, and registry of conflict of interest that might arise from employees having competing interests or loyalties. Employees can submit disclosures using the conversational interface of Now Assist in Virtual Agent or intake form available in the Employee Center. The Requests are evaluated against predefined risk factors to calculate an overall risk score. Based on this score, requests are routed to the appropriate approval workflow for faster resolution.
 
-**Note:** The conversational intake functionality is available only when you have installed and configured [[legal-management-overview|Legal Service Delivery]] - Prime that is a paid application. For more information, see [Now Assist for Legal Service Delivery \(LSD\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/now-assist-lsd-landing.md).
+**Note:** The conversational intake functionality is available only when you have installed and configured Legal Service Delivery - Prime that is a paid application. For more information, see [Now Assist for Legal Service Delivery \(LSD\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/now-assist-lsd-landing.md).
 
 For more information on how to submit the requests using the two methods, see [Submit COI request form Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-conflict-of-interest/submit-coi-disclosure-request.md) and [Submit COI request using Now Assist conversational intake](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/now-assist-lsd-convi.md)
 
@@ -157,15 +157,9 @@ Legal administrator
 </td></tr></tbody>
 </table>## What to explore next
 
-To learn more about configuring and [[lsd-coi-use-landing|using Legal Conflict of Interest]], see:
+To learn more about configuring and using Legal Conflict of Interest, see:
 
 -   [Configure Legal Conflict of Interest](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-conflict-of-interest/legal-coi-administration.md)
 -   [Using Legal Conflict of Interest](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-conflict-of-interest/lsd-coi-use-landing.md)
 -   [Legal Conflict of Interest reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-conflict-of-interest/legal-coi-reference.md)
 
-## Related
-
-- [[legal-conflict-of-interest-landing-page|Legal Conflict of Interest]]
-- [[employee-center-landing-page|Employee Center]]
-- [[legal-management-overview|Legal Service Delivery]]
-- [[lsd-coi-use-landing|Using Legal Conflict of Interest]]

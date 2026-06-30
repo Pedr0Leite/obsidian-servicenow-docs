@@ -79,8 +79,5 @@ Hover over the vertical bar in the Subscription units area for the desired day t
 The third area shows which version of the OTM Licensing is used on the instance every day. It helps explaining spikes in count every time the new version is installed.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[otm-su-licensing-references|OTM SU Licensing References]]
+</table>**Parent Topic:**[OTM SU Licensing References](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/otm-su-licensing-references.md)
 
-## Related
-
-- [[otm-su-licensing-references|OTM SU Licensing References]]

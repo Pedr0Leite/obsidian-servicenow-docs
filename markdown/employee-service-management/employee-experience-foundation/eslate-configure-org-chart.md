@@ -15,11 +15,11 @@ breadcrumb: [Employee Org chart, Working with Employee Slate capabilities, Emplo
 
 # Configure the organization chart for Employee Slate
 
-Configure the organization chart in [[employee-slate-landing-page|Employee Slate]]. Set the eligible users and the fields that appear on each card.
+Configure the organization chart in Employee Slate. Set the eligible users and the fields that appear on each card.
 
 ## Before you begin
 
-Activate [[employee-slate-nowassist|Employee Slate for Now Assist]] in the instance.
+Activate Employee Slate for Now Assist in the instance.
 
 Role required: admin or Employee Slate administrator.
 
@@ -31,7 +31,7 @@ The eligible user setting controls who appears in the chart. The card field sett
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Organization chart**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **Organization chart**.
 
     The configuration page shows two settings: eligible users and user display.
 
@@ -65,8 +65,3 @@ Employees view the configured organization hierarchy and card fields when they o
 
 [Organization chart in Employee Center Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/employee-profile-org-chart.md)
 
-## Related
-
-- [[employee-slate-landing-page|Employee Slate]]
-- [[employee-slate-nowassist|Employee Slate for Now Assist]]
-- [[employee-center-landing-page|Employee Center]]

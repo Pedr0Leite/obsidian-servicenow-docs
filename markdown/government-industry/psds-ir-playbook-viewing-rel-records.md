@@ -64,7 +64,7 @@ Select the type of related record to view
 
 </td><td>
 
-Filter at the top of the Related Records list where you can select the type of related records to view. You can also use the filter to see the current selection. For more information, see [[psds-playbook-customizing-rel-records-view|Customize the related records view in Service Request Playbook]].
+Filter at the top of the Related Records list where you can select the type of related records to view. You can also use the filter to see the current selection. For more information, see [Customize the related records view in Service Request Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-playbook-customizing-rel-records-view.md).
 
 </td></tr><tr><td>
 
@@ -100,7 +100,3 @@ New record for the record type that is currently selected in the Related Records
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[psds-playbook-customizing-rel-records-view|Customize the related records view in Service Request Playbook]]

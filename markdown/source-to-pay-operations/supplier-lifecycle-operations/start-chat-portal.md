@@ -14,11 +14,11 @@ breadcrumb: [Using Supplier Collaboration Portal, Use, Supplier Lifecycle Operat
 
 # Start a chat session from the Supplier Collaboration Portal
 
-As a [[supplier-contact|supplier contact]], you can start a chat session from the Supplier Collaboration Portal and interact with [[supplier|supplier]] fulfillers.
+As a supplier contact, you can start a chat session from the Supplier Collaboration Portal and interact with supplier fulfillers.
 
 ## Before you begin
 
-**Important:** Check your entitlements to determine whether you have access to Live Agent Support. The chat functionality is available only if [[supplier-operations|Supplier Operations]] \(com.snc.sn\_so\) and its dependent plugins [[supplier-case-management|Supplier Case Management]] \(com.snc.sn\_supplier\_mgmt\) and Document Management \(com.snc.platform\_document\_management\) are installed.
+**Important:** Check your entitlements to determine whether you have access to Live Agent Support. The chat functionality is available only if Supplier Operations \(com.snc.sn\_so\) and its dependent plugins Supplier Case Management \(com.snc.sn\_supplier\_mgmt\) and Document Management \(com.snc.platform\_document\_management\) are installed.
 
 Role required: sn\_slm.contact
 
@@ -28,7 +28,7 @@ By starting a chat session, supplier contacts can interact directly with supplie
 
 ## Procedure
 
-1.  Navigate to the [[supplier-central|Supplier Collaboration Portal]] home page by accessing your instance URL and adding a /supplier suffix.
+1.  Navigate to the Supplier Collaboration Portal home page by accessing your instance URL and adding a /supplier suffix.
 
     For example, `https://example.com/supplier`.
 
@@ -74,17 +74,9 @@ By starting a chat session, supplier contacts can interact directly with supplie
 
 [Complete a risk assessment from the Supplier Collaboration Portal]()
 
-[Create a [[universal-request|Universal Request]] from the Supplier Collaboration Portal]()
+[Create a Universal Request from the Supplier Collaboration Portal]()
 
 [Raising requests from the Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supp-catalog-req.md)
 
 [View all your requests from the Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/view-supp-case-sc.md)
 
-## Related
-
-- [[supplier-contact|Supplier contact]]
-- [[supplier|Supplier]]
-- [[supplier-operations|Supplier Operations]]
-- [[supplier-case-management|Supplier Case Management]]
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[universal-request|Universal Request]]

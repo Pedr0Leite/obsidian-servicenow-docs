@@ -14,7 +14,7 @@ breadcrumb: [Use, Recruitment Workspace, Hiring Experiences, HR Service Delivery
 
 # Get overview of recruitment workload
 
-Recruiters can use the [[recruitment-workspace-concept|Recruitment workspace]] overview section to have enhanced visibility into their workload that prospects to effective prioritization of work.
+Recruiters can use the Recruitment workspace overview section to have enhanced visibility into their workload that prospects to effective prioritization of work.
 
 Leverage the transparency in data visibility that helps prioritization of work. Use the overview section to manage your active, on hold, or unassigned requisitions.
 
@@ -39,7 +39,7 @@ When you select a card, it opens the job requisition details page.
 
 Use the following filter and sort options to shift through the job requisitions.
 
--   Use **All managers** to filter by the [[hiring-tab-concept|hiring]] manager.
+-   Use **All managers** to filter by the hiring manager.
 -   Use **All states** to filter by state of the job requisitions or view all.
 -   Use **Sort by State** to sort the job requisition by date.
 
@@ -62,7 +62,3 @@ View all the applications associated with a job requisition. The application dat
 
 **Parent Topic:**[Using Recruitment workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/use-recruit-workspace.md)
 
-## Related
-
-- [[recruitment-workspace-concept|Recruitment workspace]]
-- [[hiring-tab-concept|Hiring]]

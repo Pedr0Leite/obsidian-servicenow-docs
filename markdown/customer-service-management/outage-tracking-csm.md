@@ -42,25 +42,18 @@ Your customers can view outage information on the Customer Service Portal.
 
 ## Activation information
 
-This feature requires the [[proactive-service-operations|Proactive Customer Service Operations]] Management plugin \(com.snc.proactive\_cs\_ops\).
+This feature requires the Proactive Customer Service Operations Management plugin \(com.snc.proactive\_cs\_ops\).
 
 **Related topics**  
 
 
-[[associate-outage-case|Associate an outage to a major case]]
+[Associate an outage to a major case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/associate-outage-case.md)
 
-[[track-outages-csm|Create an outage from a major case]]
+[Create an outage from a major case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/track-outages-csm.md)
 
-[[track-outages-aw|Track outages for install base items]]
+[Track outages for install base items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/track-outages-aw.md)
 
 [Proactive Customer Service - Advanced dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/analytics-and-reporting-solutions-for-customer-service/csm-proactive-monit-dashboard.md)
 
-[[view-install-base-info|View install base information from the Customer Service Portal]]
+[View install base information from the Customer Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/view-install-base-info.md)
 
-## Related
-
-- [[associate-outage-case|Associate an outage to a major case]]
-- [[track-outages-csm|Create an outage from a major case]]
-- [[track-outages-aw|Track outages for install base items]]
-- [[view-install-base-info|View install base information from the Customer Service Portal]]
-- [[proactive-service-operations|Proactive Customer Service Operations]]

@@ -18,7 +18,7 @@ A detailed description of the license metrics that can be used with Microsoft pr
 
 ## Microsoft products and Software Asset Management license metrics
 
-**Note:** The support for Per Processor license metric for Windows Server is applicable for Zurich patch 4 and [[c_SoftwareAssetMgmt|Software Asset Management]] \(sn\_itam\_samp\) 3.2.0 version onwards. If you have already upgraded to Zurich, you can install the Software Asset Management manually.
+**Note:** The support for Per Processor license metric for Windows Server is applicable for Zurich patch 4 and Software Asset Management \(sn\_itam\_samp\) 3.2.0 version onwards. If you have already upgraded to Zurich, you can install the Software Asset Management manually.
 
 <table id="table_olj_hhx_rqb"><thead><tr><th>
 
@@ -149,7 +149,7 @@ Standard/Enterprise
 
         -   Use Server \(Per Instance\) for server licensing for Standard, Web, Business Intelligence Editions
         -   Use Server \(Per Server\) for Enterprise Edition legacy versions 1
-**Note:** SQL Server Enterprise is licensed usually using the Per Core licensing model only. However if you have software assurance, you might follow Legacy Server/CAL licensing [[c_Models|models]]. ServiceNow recommends using the Server \(Per Server\) license metric on ServiceNow Software Asset Management.
+**Note:** SQL Server Enterprise is licensed usually using the Per Core licensing model only. However if you have software assurance, you might follow Legacy Server/CAL licensing models. ServiceNow recommends using the Server \(Per Server\) license metric on ServiceNow Software Asset Management.
 
     -   User/Device CAL for CAL licensing
 
@@ -627,7 +627,3 @@ For more information about licenses required for Server + CAL licensing model, s
 </td></tr></tbody>
 </table>**Parent Topic:**[Software Asset Management references](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/references.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[c_Models|Models]]

@@ -16,9 +16,9 @@ breadcrumb: [Setting up HR Service Delivery Playbook, HR Service Delivery Playbo
 
 Use Playbook Experiences to select the playbook your company uses.
 
-The base [[playbook-hr|HR Service Delivery Playbook]] contains a pre-configured playbook experience.
+The base HR Service Delivery Playbook contains a pre-configured playbook experience.
 
-A Playbook experience is tied to Playbook Configurations and Playbook [[activity-lxp|Activity]] Overrides.
+A Playbook experience is tied to Playbook Configurations and Playbook Activity Overrides.
 
 -   **Playbook Configuration**
     -   Decide if you want the activity state icon on the card.
@@ -57,7 +57,3 @@ A Playbook experience is tied to Playbook Configurations and Playbook [[activity
 
 To make changes to the default configurations, see Update playbook experience configurations.
 
-## Related
-
-- [[playbook-hr|HR Service Delivery Playbook]]
-- [[activity-lxp|Activity]]

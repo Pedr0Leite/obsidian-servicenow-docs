@@ -14,7 +14,7 @@ breadcrumb: [Discovery reference, Discovery, ITOM Visibility, IT Operations Mana
 
 # Discovery log details
 
-[[r-discovery|Discovery]] logs contain information on the horizontal discovery process based on probes and patterns.
+Discovery logs contain information on the horizontal discovery process based on probes and patterns.
 
 ## Discovery log related list
 
@@ -104,6 +104,3 @@ The Horizontal Discovery Log window contains information on pattern-based horizo
 
 **Parent Topic:**[Discovery reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-references.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

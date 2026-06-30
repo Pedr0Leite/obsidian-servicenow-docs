@@ -12,7 +12,7 @@ breadcrumb: [Configuring business locations, Setting up inter-organization suppo
 
 # Associate customers or business locations to a service organization
 
-Associate your customers or business locations with a service organization \(SO\) using the [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) application. By linking customers or business locations to the service organization, staff can create or resolve cases for customers and locations raised by other business locations.
+Associate your customers or business locations with a service organization \(SO\) using the Customer Service Management \(CSM\) application. By linking customers or business locations to the service organization, staff can create or resolve cases for customers and locations raised by other business locations.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin, sn\_customerservice\_manager, sn\_customerservice.svc\_loc
 
 You can associate customers \(accounts, consumers, and households\) and business locations \(both internal and external\) by using the organization criteria \[service\_organization\_criteria\] table. This association helps your organization to gain access to all customers and business locations associated with a service organization.
 
-For more information about defining organization criteria, see [[create-service-organization-criteria|Create the criteria for a service organization]].
+For more information about defining organization criteria, see [Create the criteria for a service organization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-service-organization-criteria.md).
 
 ## Procedure
 
@@ -78,7 +78,3 @@ Check box to activate or deactivate the organization customer criteria.
 
 An organization criterion is successfully defined for a business location.
 
-## Related
-
-- [[create-service-organization-criteria|Create the criteria for a service organization]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

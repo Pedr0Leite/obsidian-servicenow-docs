@@ -26,13 +26,13 @@ Role required: admin
 
     Check that the added CPU information is correct.
 
-2.  [Activate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/t_ActivateSWAssetMgmtOraclProcPac.md) the legacy Software [[c_AssetManagement|Asset Management]] - Oracle Process Pack \(com.snc.sam.oracle.pp\) plugin.
+2.  [Activate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/t_ActivateSWAssetMgmtOraclProcPac.md) the legacy Software Asset Management - Oracle Process Pack \(com.snc.sam.oracle.pp\) plugin.
 
     This also activates the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin if it is not already active.
 
 3.  Refresh processor definitions by navigating to **Software Asset** &gt; **System** and clicking **Refresh Processor Definitions**.
 
-4.  Ensure that the [[c_CreatingSoftwareModels|software models]] that you want to manage with Oracle licensing are set up accurately.
+4.  Ensure that the software models that you want to manage with Oracle licensing are set up accurately.
 
     See [Creating a software model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/t_ManagingSoftwareModels.md).
 
@@ -40,7 +40,7 @@ Role required: admin
 
     Ensure that the license is given the correct license metric.
 
-    The **License metric** \(metric\_type\) field on the Software License table is a [[reference-for-itsm-mobile-agent|reference]] field to the License Calculation table.
+    The **License metric** \(metric\_type\) field on the Software License table is a reference field to the License Calculation table.
 
 6.  [Create a software counter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_CreatingAnOracleSoftwareCounter.md) to calculate Oracle licenses with the matching license type.
 
@@ -49,8 +49,3 @@ Role required: admin
 
 **Parent Topic:**[Legacy Oracle process pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_OracleProcessPack.md)
 
-## Related
-
-- [[c_AssetManagement|Asset Management]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[reference-for-itsm-mobile-agent|Reference]]

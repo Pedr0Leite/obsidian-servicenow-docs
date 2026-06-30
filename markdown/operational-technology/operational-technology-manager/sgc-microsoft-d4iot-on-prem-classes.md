@@ -129,7 +129,7 @@ The following attributes in the Network Intrusion Detection System \[cmdb\_ci\_n
 
 ## Operational Technology \(OT\) \[cmdb\_ci\_ot\]
 
-The following attributes in the [[operational-technology-overview|Operational Technology]] \(OT\) \[cmdb\_ci\_ot\] table are populated by collected data:
+The following attributes in the Operational Technology \(OT\) \[cmdb\_ci\_ot\] table are populated by collected data:
 
 |Attribute label|Attribute name|
 |---------------|--------------|
@@ -219,6 +219,3 @@ The following attributes in the Serial Number \[cmdb\_serial\_number\] table are
 
 **Parent Topic:**[Service Graph Connector for Microsoft Defender for IoT \(On-premises Management Console\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/integration-sgc-microsoft-defender-iot-on-prem.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]

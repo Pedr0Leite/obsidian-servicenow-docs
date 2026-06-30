@@ -19,7 +19,7 @@ Retrieve security principals from your source system with a user permission craw
 
 ## Before you begin
 
-To run crawls for [[ext-cont-connectors-landing-page|external content connectors]], your instance must have inbound mTLS support enabled. For details on verifying that this feature is enabled on your instance, see [Verify whether inbound mTLS support is activated for your instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/verify-adcv2-inbound-mtls-enabled.md).
+To run crawls for external content connectors, your instance must have inbound mTLS support enabled. For details on verifying that this feature is enabled on your instance, see [Verify whether inbound mTLS support is activated for your instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/verify-adcv2-inbound-mtls-enabled.md).
 
 Role required: sn\_ext\_conn.xcc\_admin
 
@@ -39,21 +39,21 @@ For external content connectors that support user permission crawls, you can als
 
 **Note:** The following external content connectors don't retrieve user or group access permissions. You can't run user permission crawls for these connectors.
 
--   [[adobe-expmgr-cs-external-content-connector|Adobe Experience Manager as a Cloud Service external content connector]]
--   [[amazon-s3-external-content-connector|Amazon S3 external content connector]]
--   [[cornerstone-external-content-connector|Cornerstone external content connector]]
+-   Adobe Experience Manager as a Cloud Service external content connector
+-   Amazon S3 external content connector
+-   Cornerstone external content connector
 -   ServiceNow® product documentation external content connector
--   [[slack-external-content-connector|Slack external content connector]]
--   [[trello-external-content-connector|Trello external content connector]]
--   [[webcrawler-external-content-connector|Webcrawler external content connector]]
+-   Slack external content connector
+-   Trello external content connector
+-   Webcrawler external content connector
 
-The [[atlassian-confluence-cloud-external-content-connector|Atlassian Confluence Cloud external content connector]] only retrieves permissions for Confluence Cloud users who have made their email addresses visible to all users. To allow user permission, each Confluence Cloud user must set their own email visibility to **Anyone** as explained in the [https://support.atlassian.com/confluence-cloud/docs/configure-user-email-visibility/](https://support.atlassian.com/confluence-cloud/docs/configure-user-email-visibility/) Atlassian support resource.
+The Atlassian Confluence Cloud external content connector only retrieves permissions for Confluence Cloud users who have made their email addresses visible to all users. To allow user permission, each Confluence Cloud user must set their own email visibility to **Anyone** as explained in the [https://support.atlassian.com/confluence-cloud/docs/configure-user-email-visibility/](https://support.atlassian.com/confluence-cloud/docs/configure-user-email-visibility/) Atlassian support resource.
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **External Content Connectors** &gt; **External Content Admin Home**.
 
-2.  In the Connectors list, select the record for the connector that you want to [[t_CreateAUser|create a user]] permission crawl for.
+2.  In the Connectors list, select the record for the connector that you want to create a user permission crawl for.
 
 3.  In the connector editor's Create crawls tab, select **Crawl user permissions**.
 
@@ -61,7 +61,7 @@ The [[atlassian-confluence-cloud-external-content-connector|Atlassian Confluence
 
 4.  To make your user permission crawl run on a recurrent schedule, select the **Make recurring** option, then specify the schedule options.
 
-    **Note:** If the **Make recurring** option isn't shown, the external content connector automatically [[c_UseSchedules|schedules]] its own user permission crawls. In this case, you can only run one-time user permission crawls.
+    **Note:** If the **Make recurring** option isn't shown, the external content connector automatically schedules its own user permission crawls. In this case, you can only run one-time user permission crawls.
 
     1.  Enter a name for your scheduled crawl.
 
@@ -71,7 +71,7 @@ The [[atlassian-confluence-cloud-external-content-connector|Atlassian Confluence
 
     4.  Specify when you want the system to run your scheduled crawl by entering its start time and selecting a time zone.
 
-        The start time should be in **hh:mm a** format, where the format [[r_DirectJDBCProbeParameters|parameters]] have the following values:
+        The start time should be in **hh:mm a** format, where the format parameters have the following values:
 
         -   **hh**: a one- or two-digit hour between 0 and 12 inclusive, such as `5` or `11`
         -   **mm**: a two-digit minute between 00 and 59 inclusive, such as `15` or `37`
@@ -89,24 +89,9 @@ If you selected the **Make recurring** option in step [4](https://raw.githubuser
 
 ## What to do next
 
-You can monitor your user permission crawl's status or review its [[hs-results|results]] using the crawl history and analytics. For details on these [[c_MetricDefinitionSupport|metrics]], see [Review crawl history for an external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/review-crawl-ext-cont-connector.md) and [Review user permissions for an external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/review-usr-maps-ext-cont-connector.md).
+You can monitor your user permission crawl's status or review its results using the crawl history and analytics. For details on these metrics, see [Review crawl history for an external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/review-crawl-ext-cont-connector.md) and [Review user permissions for an external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/review-usr-maps-ext-cont-connector.md).
 
 If you need to cancel your running user permission crawl, see [Cancel a running external content connector crawl](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/cancel-ext-cont-connector-crawl.md).
 
 **Parent Topic:**[Crawling content with External Content Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/using-ext-cont-connectors.md)
 
-## Related
-
-- [[ext-cont-connectors-landing-page|External Content Connectors]]
-- [[adobe-expmgr-cs-external-content-connector|Adobe Experience Manager as a Cloud Service external content connector]]
-- [[amazon-s3-external-content-connector|Amazon S3 external content connector]]
-- [[cornerstone-external-content-connector|Cornerstone external content connector]]
-- [[slack-external-content-connector|Slack external content connector]]
-- [[trello-external-content-connector|Trello external content connector]]
-- [[webcrawler-external-content-connector|Webcrawler external content connector]]
-- [[atlassian-confluence-cloud-external-content-connector|Atlassian Confluence Cloud external content connector]]
-- [[t_CreateAUser|Create a user]]
-- [[c_UseSchedules|Schedules]]
-- [[r_DirectJDBCProbeParameters|Parameters]]
-- [[hs-results|Results]]
-- [[c_MetricDefinitionSupport|Metrics]]

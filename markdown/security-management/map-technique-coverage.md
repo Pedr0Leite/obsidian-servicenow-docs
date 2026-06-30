@@ -23,17 +23,17 @@ Map your overall technique detection coverage with the technique that enables yo
 
 You can use the technique detection coverage to get an overview into your organization's overall technique detection coverage. For example, if an adversary is attacking your organization, you see the kind of coverage that you have to detect the attacker's techniques.
 
-The technique and ID are automatically populated for all the [[setup-mitre-profile|collections]] and [[view-techniques|techniques]] that you have activated. The [[define-technique-coverage|coverage type and scoring definition]] that you have defined are available for as an option that you can select in the overall technique detection coverage.
+The technique and ID are automatically populated for all the [collections](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/setup-mitre-profile.md) and [techniques](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/view-techniques.md) that you have activated. The [coverage type and scoring definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/define-technique-coverage.md) that you have defined are available for as an option that you can select in the overall technique detection coverage.
 
-You can map the overall technique detection coverage with the technique to complete the [[mapping-logrhythm|mapping]]. You can associate a technique with only one overall technique detection coverage.
+You can map the overall technique detection coverage with the technique to complete the mapping. You can associate a technique with only one overall technique detection coverage.
 
-The technique detection coverage mapping that you define is used in the [[mitre-att-ck-heatmap-and-navigator|coverage visualization in the heatmap]].
+The technique detection coverage mapping that you define is used in the [coverage visualization in the heatmap](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/mitre-att-ck-heatmap-and-navigator.md).
 
 **Note:** You can arrive at the overall technique detection coverage using your organization-specific calculations. You may use any Breach &amp; Attack Simulation \(BAS\) products, the Cyber Analytics Repository \(CAR\), or any other methods as necessary to define the scoring definition, and use it in this procedure for the overall technique detection coverage mapping.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[threat-intel-landing-page|Threat Intelligence]]** &gt; **MITRE ATT&amp;CK Administration** &gt; **Detection Coverage Mapping**.
+1.  Navigate to **All** &gt; **Threat Intelligence** &gt; **MITRE ATT&amp;CK Administration** &gt; **Detection Coverage Mapping**.
 
     In this illustration, you see that the Cloud Accounts \(T1078.004\) sub-technique has excellent coverage in the organization and that the Overall Technique Detection Coverage is mapped to **Excellent**.
 
@@ -42,7 +42,7 @@ The technique detection coverage mapping that you define is used in the [[mitre-
 2.  Review each technique and map your overall technique detection coverage based on your [detection coverage definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/define-technique-coverage.md) and your organization's coverage availability.
 
 
-**Parent Topic:**[[mitre-att-ck-administration|MITRE-ATT&amp;CK administration]]
+**Parent Topic:**[MITRE-ATT&amp;CK administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/mitre-att-ck-administration.md)
 
 **Related topics**  
 
@@ -75,7 +75,7 @@ The technique detection coverage mapping that you define is used in the [[mitre-
 
 [Define the data source and detection tool mapping]()
 
-[Define the data source and [[data-component|data component]] mapping]()
+[Define the data source and data component mapping]()
 
 [Define the technique detection coverage]()
 
@@ -93,13 +93,3 @@ The technique detection coverage mapping that you define is used in the [[mitre-
 
 [Review the MITRE-ATT&amp;CK system properties]()
 
-## Related
-
-- [[setup-mitre-profile|Set up the MITRE-ATT&amp;CK framework]]
-- [[view-techniques|Manage techniques]]
-- [[define-technique-coverage|Define the technique detection coverage]]
-- [[mitre-att-ck-heatmap-and-navigator|MITRE-ATT&amp;CK heat map and navigator]]
-- [[mitre-att-ck-administration|MITRE-ATT&amp;CK administration]]
-- [[mapping-logrhythm|Mapping]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[data-component|Data Component]]

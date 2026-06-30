@@ -14,7 +14,7 @@ breadcrumb: [Customize dashboard templates, Configuring Service Observability, S
 
 # Edit ServiceNow data on Service Observability dashboard templates
 
-Edit [[service-observability|Service Observability]] dashboard templates to view data from problem and business app records on the Overview or Observability [[otto-aiops-dashboards|dashboards]].
+Edit Service Observability dashboard templates to view data from problem and business app records on the Overview or Observability dashboards.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_sow\_svcobs.admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]** and then navigate to a service record.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace** and then navigate to a service record.
 
     You can access a service record from these pages in the SOW:
 
@@ -69,8 +69,3 @@ Role required: sn\_sow\_svcobs.admin
 
 **Parent Topic:**[Customize Service Observability dashboard templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/customize-service-observability-dashboard-templates.md)
 
-## Related
-
-- [[service-observability|Service Observability]]
-- [[otto-aiops-dashboards|Dashboards]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

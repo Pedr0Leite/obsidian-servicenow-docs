@@ -34,7 +34,7 @@ Visual
 
 </td><td>
 
-[[enable-keyboard-focus-pref|Enable keyboard focus on text that displays tooltip]]
+[Enable keyboard focus on text that displays tooltip](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/enable-keyboard-focus-pref.md)
 
 </td><td>
 
@@ -46,7 +46,7 @@ Visual
 
 </td><td>
 
-[[show-date-time-formats-forms|Show date and time formats on forms preference]]
+[Show date and time formats on forms preference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/show-date-time-formats-forms.md)
 
 </td><td>
 
@@ -58,7 +58,7 @@ Visual
 
 </td><td>
 
-[[do-not-auto-dismiss-pref|Do not auto-dismiss page alerts preference]]
+[Do not auto-dismiss page alerts preference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/do-not-auto-dismiss-pref.md)
 
 </td><td>
 
@@ -70,7 +70,7 @@ Visual
 
 </td><td>
 
-[[replace-colors-with-patterns|Replace colors with patterns in charts and graphs preference]]
+[Replace colors with patterns in charts and graphs preference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/replace-colors-with-patterns.md)
 
 </td><td>
 
@@ -82,7 +82,7 @@ Visual
 
 </td><td>
 
-[[enable-data-table-pref|Enable data table for charts and graphs preference]]
+[Enable data table for charts and graphs preference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/enable-data-table-pref.md)
 
 </td><td>
 
@@ -94,7 +94,7 @@ Visual
 
 </td><td>
 
-[[reduce-motion-pref|Reduce motion preference]]
+[Reduce motion preference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/reduce-motion-pref.md)
 
 </td><td>
 
@@ -106,7 +106,7 @@ Visual
 
 </td><td>
 
-[[show-all-buttons-pref|Show all buttons without the need to hover preference]]
+[Show all buttons without the need to hover preference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/show-all-buttons-pref.md)
 
 </td><td>
 
@@ -130,7 +130,7 @@ Visual
 
 </td><td>
 
-[[enable-auto-focus-on-page-alerts|Enable auto-focus on page alerts preference]]
+[Enable auto-focus on page alerts preference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/enable-auto-focus-on-page-alerts.md)
 
 </td><td>
 
@@ -142,7 +142,7 @@ Physical
 
 </td><td>
 
-[[enable-keyboard-shortcuts-pref|Enable keyboard shortcuts preference]]
+[Enable keyboard shortcuts preference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/enable-keyboard-shortcuts-pref.md)
 
 </td><td>
 
@@ -166,7 +166,7 @@ Physical
 
 </td><td>
 
-[[enable-voice-input-pref|Enable voice input for the Now Assist panel]]
+[Enable voice input for the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/enable-voice-input-pref.md)
 
 </td><td>
 
@@ -238,11 +238,11 @@ Universal design
 
 </td><td>
 
-[[enable-accessibility-in-classic-pref|Enable accessibility in Classic preference]]
+[Enable accessibility in Classic preference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/enable-accessibility-in-classic-pref.md)
 
 </td><td>
 
-Applies accessibility features to [[c_UI16|Core UI]] if you're on the legacy interface.
+Applies accessibility features to Core UI if you're on the legacy interface.
 
 </td></tr><tr><td>
 
@@ -270,18 +270,3 @@ Allows you to export and analyze data in structured formats.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[enable-keyboard-focus-pref|Enable keyboard focus on text that displays tooltip]]
-- [[show-date-time-formats-forms|Show date and time formats on forms preference]]
-- [[do-not-auto-dismiss-pref|Do not auto-dismiss page alerts preference]]
-- [[replace-colors-with-patterns|Replace colors with patterns in charts and graphs preference]]
-- [[enable-data-table-pref|Enable data table for charts and graphs preference]]
-- [[reduce-motion-pref|Reduce motion preference]]
-- [[show-all-buttons-pref|Show all buttons without the need to hover preference]]
-- [[enable-auto-focus-on-page-alerts|Enable auto-focus on page alerts preference]]
-- [[enable-keyboard-shortcuts-pref|Enable keyboard shortcuts preference]]
-- [[enable-voice-input-pref|Enable voice input for the Now Assist panel]]
-- [[enable-accessibility-in-classic-pref|Enable accessibility in Classic preference]]
-- [[c_UI16|Core UI]]

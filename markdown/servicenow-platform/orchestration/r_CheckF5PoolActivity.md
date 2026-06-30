@@ -18,7 +18,7 @@ The Check F5 Pool activity checks the status of a pool to determine if it is ava
 
 Use this activity to determine if a pool you just created is up and running with the proper configuration.
 
-This activity was built using the [REST web service activity template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateARESTWebServiceActivity.md). To access the activity in the [[workflow-editor|Workflow Editor]], select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Active Directory**.
+This activity was built using the [REST web service activity template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateARESTWebServiceActivity.md). To access the activity in the Workflow Editor, select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Active Directory**.
 
 ## REST settings
 
@@ -49,6 +49,3 @@ This activity was built using the [REST web service activity template](https://r
 
 **Parent Topic:**[F5 Network Management activity pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchF5LoadBalancerActivities.md)
 
-## Related
-
-- [[workflow-editor|Workflow editor]]

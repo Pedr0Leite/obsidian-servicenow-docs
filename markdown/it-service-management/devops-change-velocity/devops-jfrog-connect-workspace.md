@@ -20,7 +20,7 @@ Connect to your JFrog instance using the DevOps Change Workspace playbook to tra
 
 Complete the tasks specified in the [Getting started with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/setting-up-devops-change-velocity.md) topic.
 
-Install the JFrog plugin \(x\_snc\_jfrog\) from the ServiceNow® Store to enable bearer token authentication and [[integration-with-jfrog-apptrust-application|integration with JFrog AppTrust application]]. For more information, see [Integration with JFrog AppTrust application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/integration-with-jfrog-apptrust-application.md).
+Install the JFrog plugin \(x\_snc\_jfrog\) from the ServiceNow® Store to enable bearer token authentication and integration with JFrog AppTrust application. For more information, see [Integration with JFrog AppTrust application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/integration-with-jfrog-apptrust-application.md).
 
 Role required: sn\_devops.admin or sn\_devops.tool\_owner
 
@@ -48,7 +48,7 @@ Steps
 
 </td></tr><tr><td id="d391666e157">
 
-**[[dex-workspace-application-tab|Applications]] module**
+**Applications module**
 
 </td><td>
 
@@ -130,12 +130,7 @@ Steps
 
 ## Result
 
-You’ve successfully onboarded your JFrog tool to [[devops-landing-page-new|DevOps Change Velocity]].
+You’ve successfully onboarded your JFrog tool to DevOps Change Velocity.
 
 **Parent Topic:**[JFrog integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/devops-jfrog-integration.md)
 
-## Related
-
-- [[integration-with-jfrog-apptrust-application|Integration with JFrog AppTrust application]]
-- [[dex-workspace-application-tab|Applications]]
-- [[devops-landing-page-new|DevOps Change Velocity]]

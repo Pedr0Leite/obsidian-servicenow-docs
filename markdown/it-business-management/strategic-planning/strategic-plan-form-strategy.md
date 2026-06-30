@@ -14,7 +14,7 @@ breadcrumb: [Reference, Strategy and Goals, Strategic Planning, Strategic Portfo
 
 # Strategic Plan form
 
-Use the [[strategic-plan-form|Strategic Plan form]] to define the purpose of your organization, its strategic priorities, and the associated goals.
+Use the Strategic Plan form to define the purpose of your organization, its strategic priorities, and the associated goals.
 
 |Field|Description|
 |-----|-----------|
@@ -28,6 +28,3 @@ Use the [[strategic-plan-form|Strategic Plan form]] to define the purpose of you
 
 **Parent Topic:**[Strategy and Goals reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/strategy-goals-reference.md)
 
-## Related
-
-- [[strategic-plan-form|Strategic Plan form]]

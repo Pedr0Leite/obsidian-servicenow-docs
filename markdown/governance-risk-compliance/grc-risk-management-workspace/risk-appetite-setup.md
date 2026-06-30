@@ -19,7 +19,7 @@ You can configure the risk appetite feature in the Advanced Risk application.
 Follow the order of the tasks to configure the risk appetite feature in the Advanced Risk application.
 
 -   **[Configure a risk appetite and tolerance in Advanced Risk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/configure-risk-appetite.md)**  
-Set up the [[advanced-risk-assessment|advanced risk assessment]] properties so that you can configure and customize the risk appetite and tolerance in the Advanced Risk application.
+Set up the advanced risk assessment properties so that you can configure and customize the risk appetite and tolerance in the Advanced Risk application.
 -   **[Set up a risk appetite scale](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/set-up-risk-appetite-scale.md)**  
 Set up a risk appetite scale in the Advanced Risk application to define the qualitative risk appetite within your organization.
 -   **[Change a risk appetite status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/change-risk-appetite-status.md)**  
@@ -27,6 +27,3 @@ Change the default name, color, and icon that appear for the risk appetite statu
 
 **Parent Topic:**[Configuring Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/configure-risk-mgmt.md)
 
-## Related
-
-- [[advanced-risk-assessment|advanced risk assessment]]

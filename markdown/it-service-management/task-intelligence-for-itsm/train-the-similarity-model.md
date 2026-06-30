@@ -14,11 +14,11 @@ breadcrumb: [Set up, Create a similar records prediction model, Manage, Task Int
 
 # Train the similarity model
 
-Train your similar record [[c_Models|models]] with training data to predict the similar records by recognizing similarities between fields of Incident table and training tables.
+Train your similar record models with training data to predict the similar records by recognizing similarities between fields of Incident table and training tables.
 
 ## Before you begin
 
-You can set up a task intelligence model or use the base system template that is shipped with [[c-itsm-task-intelligence|Task Intelligence for ITSM]]. For more information on setting up a new model, see [Set up similar records prediction model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/set-up-similar-records-prediction-model.md)
+You can set up a task intelligence model or use the base system template that is shipped with Task Intelligence for ITSM. For more information on setting up a new model, see [Set up similar records prediction model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/set-up-similar-records-prediction-model.md)
 
 Role required: sn\_ti\_admin.tia\_admin or sn\_itsm\_ml\_task.ti\_admin 
 
@@ -28,7 +28,7 @@ When you train a machine learning model, the model looks at the prediction field
 
 You can select the table and fields that you want to predict, such as the Prediction table and Predictions fields. Also, you can select the tables and fields that you want the model to use to predict the similar records, such as the Training table and Training fields.  Select this information to tell the model what to look for during training .
 
-**Note:** You can either use the recommended [[settings-mobile|settings]] or customize the settings to fit your needs. 
+**Note:** You can either use the recommended settings or customize the settings to fit your needs. 
 
 ## Procedure
 
@@ -75,8 +75,3 @@ If you’re training the model on a large amount of data, training can take some
 
 **Parent Topic:**[Set up similar records prediction model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/set-up-similar-records-prediction-model.md)
 
-## Related
-
-- [[c_Models|Models]]
-- [[c-itsm-task-intelligence|Task Intelligence for ITSM]]
-- [[settings-mobile|Settings]]

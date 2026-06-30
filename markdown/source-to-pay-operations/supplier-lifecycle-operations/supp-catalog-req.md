@@ -14,14 +14,14 @@ breadcrumb: [Using Supplier Collaboration Portal, Use, Supplier Lifecycle Operat
 
 # Raising requests from the Supplier Collaboration Portal
 
-You can raise requests using the [[supplier|supplier]] catalog by selecting **Raise a request** in the [[supplier-central|Supplier Collaboration Portal]] header.
+You can raise requests using the supplier catalog by selecting **Raise a request** in the Supplier Collaboration Portal header.
 
 \[Omitted video\] Description: Raise a request on the Supplier Collaboration portal
 
 **Important:**
 
 -   The list of suppliers under **My Company** is available from the Xanadu December 2024 release onwards.
--   If M2M mapping between [[supplier-contact|supplier contact]] and suppliers is enabled, you can select the supplier from the **My Company** drop-down list of suppliers.
+-   If M2M mapping between supplier contact and suppliers is enabled, you can select the supplier from the **My Company** drop-down list of suppliers.
 
 The following catalog items are available in the supplier catalog:
 
@@ -33,7 +33,7 @@ The following catalog items are available in the supplier catalog:
 -   Submit an issue
 -   Update banking details
 -   Update profile details
--   [[update-default-supplier|Update default supplier]] \(from Xanadu December 2024 release onwards\)
+-   Update default supplier \(from Xanadu December 2024 release onwards\)
 -   Something else
 
 -   **[Add or remove a supplier location using the supplier catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/submit-add-remove-supploc.md)**  
@@ -86,7 +86,7 @@ Request something else if the available catalog items in the supplier catalog do
 
 [Complete a risk assessment from the Supplier Collaboration Portal]()
 
-[Create a [[universal-request|Universal Request]] from the Supplier Collaboration Portal]()
+[Create a Universal Request from the Supplier Collaboration Portal]()
 
 [Add or remove a supplier location using the supplier catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/submit-add-remove-supploc.md)
 
@@ -110,10 +110,3 @@ Request something else if the available catalog items in the supplier catalog do
 
 [Request something else using the supplier catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/submit-general-request.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[supplier-contact|Supplier contact]]
-- [[update-default-supplier|Update default supplier]]
-- [[universal-request|Universal Request]]

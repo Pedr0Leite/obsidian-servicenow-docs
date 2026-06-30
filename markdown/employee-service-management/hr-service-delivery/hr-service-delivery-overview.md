@@ -14,7 +14,7 @@ breadcrumb: [HR Service Delivery, Employee Service Management]
 
 # Supporting information for HR Service Delivery
 
-The ServiceNow® [[hr-service-delivery|HR Service Delivery]] application improves the employee service experience by automating HR interactions and providing a single platform for all [[hr-service-administration|HR services]].
+The ServiceNow® HR Service Delivery application improves the employee service experience by automating HR interactions and providing a single platform for all HR services.
 
 ## HR Service Delivery applications
 
@@ -30,7 +30,7 @@ Depending on the HR Service Delivery package you choose, deploy one or more of t
 
 -   **[Lifecyle events for enterprise](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-journey-management/enterprise-onboarding-transitions-landing-page.md)**
 
-    Automate onboarding and other employee [[hr-lifecycle-events-landing-page-1|lifecycle events]] that span multiple departments, improving employee satisfaction and efficiency across HR and other departments.
+    Automate onboarding and other employee lifecycle events that span multiple departments, improving employee satisfaction and efficiency across HR and other departments.
 
 
 ## Supporting applications
@@ -40,7 +40,7 @@ You can also deploy the following supporting applications.
 -   [Document Templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/document-templates-overview.md) to automate and simplify the process of filling, signing, and reviewing a document online.
 -   [Employee Document Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/hr-employee-doc-management.md) to secure, retain, access, and purge employee files with ease using paperless document management. A separate subscription is required.
 -   [Enterprise Service Management Integrations Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-integrations-framework.md) to provide a consistent way of building integrations for common use cases such as pulling employee profiles and tasks from third-party application to a ServiceNow application, and pushing data from a ServiceNow application into a third-party application.
--   [HR Predictive Intelligence Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-predictive-intelligence-wb.md) to guide you through your predictive machine [[exploring-learning-exp|learning]] implementation to create intelligent HR processes.
+-   [HR Predictive Intelligence Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-predictive-intelligence-wb.md) to guide you through your predictive machine learning implementation to create intelligent HR processes.
 -   [Agent Workspace for HR Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/agent-ws-hr-case-mgmt-landing-page.md) to interact with employees, respond to inquiries, and resolve issues quickly as an HR agent.
 -   [HR Success Dashboard indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/success-dashboard-landing.md) to help the HR leadership measure the performance of the HR implementations, using different base system or customized KPIs.
 -   [Learning Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/learning-core_overview.md) to build a integrated learning content repository.
@@ -53,7 +53,7 @@ You can also deploy the following supporting applications.
 
 You can use the [Now Mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/mobile-employee-experience.md) with HR Service Delivery.
 
-Employees view HR requests, request help, complete HR tasks, receive targeted [[ec-mobile-content|mobile content]] and push notifications, chat with a virtual agent, and more using the [[mobile-employee-experience|Now Mobile app]].
+Employees view HR requests, request help, complete HR tasks, receive targeted mobile content and push notifications, chat with a virtual agent, and more using the Now Mobile app.
 
 ## Domain separation and HR Service Delivery
 
@@ -69,11 +69,3 @@ Customers are responsible for ensuring their use of HR Service Delivery applicat
 
 COE security policies are a way to easily restrict access to different COEs via configuration. The underlying COE security policy implementations are [ServiceNow ACLs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control-rules.md).
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[hr-service-administration|HR services]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[exploring-learning-exp|Learning]]
-- [[ec-mobile-content|Mobile content]]
-- [[mobile-employee-experience|Now Mobile app]]

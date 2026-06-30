@@ -14,7 +14,7 @@ breadcrumb: [Configuring the Service Graph Connector for Microsoft Excel, Servic
 
 # Test the Service Graph Connector for Microsoft Excel
 
-The troubleshooting actions can help resolve common issues when importing your [[operational-technology-overview|Operational Technology]] devices or data. Access the System Log to troubleshoot for these errors.
+The troubleshooting actions can help resolve common issues when importing your Operational Technology devices or data. Access the System Log to troubleshoot for these errors.
 
 These logs can be used to debug any issues or to find the Service Graph Connector steps are executed properly.
 
@@ -110,6 +110,3 @@ Only the existing site records in the CMDB are considered.
 </td></tr></tbody>
 </table>**Parent Topic:**[Configuring the Service Graph Connector for Microsoft Excel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/configuring-service-graph-connector-for-excel.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]

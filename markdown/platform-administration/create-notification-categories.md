@@ -12,7 +12,7 @@ breadcrumb: [Email and SMS notifications, System notifications, Notifications, C
 
 # Create notification categories
 
-You can create notification categories to identify and group related [[notifications|notifications]] that are listed in the notification settings for your users.
+You can create notification categories to identify and group related notifications that are listed in the notification settings for your users.
 
 ## Before you begin
 
@@ -39,9 +39,9 @@ Before adding new categories, review the base system notification categories in 
 
 ## Result
 
-The system adds the new category to the Notification Categories \[sys\_notification\_category\] table. After you create at least one, active notification that uses the new category, the category and notification are listed in the [[preferences-landing|Notification preferences]] for users \(**User Menu** &gt; **Preferences** &gt; **Notifications** &gt; **[[system-notifications-landing|System Notifications]]**\).
+The system adds the new category to the Notification Categories \[sys\_notification\_category\] table. After you create at least one, active notification that uses the new category, the category and notification are listed in the Notification preferences for users \(**User Menu** &gt; **Preferences** &gt; **Notifications** &gt; **System Notifications**\).
 
-**Parent Topic:**[[c_EmailNotifications|Email and SMS notifications]]
+**Parent Topic:**[Email and SMS notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailNotifications.md)
 
 **Related topics**  
 
@@ -68,9 +68,3 @@ The system adds the new category to the Notification Categories \[sys\_notificat
 
 [Email FAQs and troubleshooting notification emails]()
 
-## Related
-
-- [[c_EmailNotifications|Email and SMS notifications]]
-- [[notifications|Notifications]]
-- [[preferences-landing|Notification Preferences]]
-- [[system-notifications-landing|System notifications]]

@@ -14,7 +14,7 @@ breadcrumb: [Use, Issue Auto Resolution for HR, HR Service Delivery, Employee Se
 
 # Using agent feedback to improve your case criticality predictions
 
-By using your agent's feedback to determine how critical a case is, you can improve the machine [[exploring-learning-exp|learning]] \(ML\) models of the Issue Auto Resolution \(IAR\) application to predict cases more correctly over time.
+By using your agent's feedback to determine how critical a case is, you can improve the machine learning \(ML\) models of the Issue Auto Resolution \(IAR\) application to predict cases more correctly over time.
 
 When an agent creates a case, Issue Auto Resolution predicts how critical the issue is. However, in the past, these predictions sometimes needed to be improved. To improve the classification of cases through machine learning \(ML\) models, a new field, called the **Resolution requires** field, was introduced for HR agents to give feedback. Agents can only see this field on an HR case form when Issue Auto Resolution has predicted the criticality of that case.​
 
@@ -36,6 +36,3 @@ Agents see an informational message on the screen when they change the resolutio
 
 Informational messages can also appear as priority changes. The resolution requires that an agent makes changes or state changes.
 
-## Related
-
-- [[exploring-learning-exp|Learning]]

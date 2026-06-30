@@ -14,15 +14,15 @@ breadcrumb: [Workplace Reservations for Microsoft Outlook Add-in, Workplace Serv
 
 # Explore Workplace Reservations for Microsoft Outlook Add-in
 
-Reserve a workplace space in less than a minute without using the Reservation portal. The ServiceNow® [[workplace-rsv-for-outlook-addin-feat|Workplace Reservations for Microsoft Outlook Add-in]] enables you to [[reservation-portal|make a reservation]] using Microsoft Outlook directly.
+Reserve a workplace space in less than a minute without using the Reservation portal. The ServiceNow® Workplace Reservations for Microsoft Outlook Add-in enables you to make a reservation using Microsoft Outlook directly.
 
-**Note:** As of [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] version 3.0.2, you are no longer required to install the Microsoft Outlook Add-in plugin. The advanced search widget in the Workplace Reservation Management 3.0.2 version is used for Outlook Add-in reservations. To use Microsoft Outlook Add-in, install and [[configure-rsv-sync|configure Workplace Calendar Synchronization]]. Administrators can configure the manifest add-in file to complement integration with [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]].
+**Note:** As of Workplace Reservation Management version 3.0.2, you are no longer required to install the Microsoft Outlook Add-in plugin. The advanced search widget in the Workplace Reservation Management 3.0.2 version is used for Outlook Add-in reservations. To use Microsoft Outlook Add-in, install and configure Workplace Calendar Synchronization. Administrators can configure the manifest add-in file to complement integration with Workplace Calendar Synchronization.
 
 Workplace Reservation Management 3.0.2 manifest add-in file for Microsoft Outlook provides enhanced reservation experience and capabilities for employees. Employees can make reservations using multiple Reservable Modules. They can make multi-building, browse near a person, or neighborhood reservations. It provides advanced reservation web portal capabilities within the Microsoft Outlook Add-in manifest file.
 
 Migrate or update to Workplace Reservation Management 3.0.2 version. For more information, see [Manage Workplace Reservations for Microsoft Outlook Add-in](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/manage-outlook-addin-rsv.md).
 
-The Workplace Reservations for Microsoft Outlook Add-in application is created on the Seismic workspace and uses Seismic components. The components are stored in the [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] Components plugin to enhance the employee experience while using the add-in.
+The Workplace Reservations for Microsoft Outlook Add-in application is created on the Seismic workspace and uses Seismic components. The components are stored in the Workplace Service Delivery Components plugin to enhance the employee experience while using the add-in.
 
 As an employee, you can easily reserve a space using Microsoft Outlook directly. The ServiceNow® Workplace Reservations for Microsoft Outlook Add-in provides you the capabilities of the Workplace Reservation Management application within the Microsoft Outlook application. The add-in enables an employee to create an appointment or edit an existing appointment. An employee can find the available spaces easily and request extra services without the need to open a separate application. Only the locations that exist in both the Microsoft Exchange Online and Workplace Reservation Management are displayed for reservation. Only rooms added in the Rooms \[sn\_wsd\_core\_room\] table are sychronized using the calendar provider. To synchronize spaces, that spaces must be added as rooms in the Rooms \[sn\_wsd\_core\_room\] table.
 
@@ -72,11 +72,3 @@ For more information, refer the following:
 -   [Explore Workplace Calendar Synchronization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/workplace-calendar-synchronization-overview.md)
 -   [Setup Workplace Calendar Synchronization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/workplace-calendar-synchronization-setup.md)
 
-## Related
-
-- [[workplace-rsv-for-outlook-addin-feat|Workplace Reservations for Microsoft Outlook Add-in]]
-- [[reservation-portal|Make a reservation]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[configure-rsv-sync|Configure Workplace Calendar Synchronization]]
-- [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]

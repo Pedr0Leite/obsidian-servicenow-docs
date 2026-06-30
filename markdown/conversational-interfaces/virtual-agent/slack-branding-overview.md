@@ -15,19 +15,19 @@ breadcrumb: [Configure VA settings for Slack, Conversational Integration with Sl
 
 # Configure branding for your Virtual Agent bot in Slack
 
-You have the flexibility to customize the default ServiceNow branding for your Slack [[virtual-agent-landing-page|Virtual Agent]]. You can change the production bot's name and icon.
+You have the flexibility to customize the default ServiceNow branding for your Slack Virtual Agent. You can change the production bot's name and icon.
 
 ## Before you begin
 
 Role required: admin or virtual\_agent\_admin
 
-**Note:** The branding capability in Slack is available from the August 2022 store release and is compatible with the Tokyo release and above. Users must ensure that they are on the Tokyo family release and have downloaded the August store release for the [[mssg-slack|Conversational Integration with Slack]] app to use this functionality.
+**Note:** The branding capability in Slack is available from the August 2022 store release and is compatible with the Tokyo release and above. Users must ensure that they are on the Tokyo family release and have downloaded the August store release for the Conversational Integration with Slack app to use this functionality.
 
 Ensure that you set the **com.glide.cs.enable\_slack\_branding** system property to true before configuring the branding settings for your bot.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings**.
 
 2.  On the **General Settings** page under **Channels and integrations**, select **View All**.
 
@@ -76,8 +76,3 @@ Open your Slack bot interface and start a new conversation. You will notice that
 
 **Parent Topic:**[Configure Virtual Agent settings for Slack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-va-slack-settings.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[mssg-slack|Conversational Integration with Slack]]
-- [[convint-landing-page|Conversational Interfaces]]

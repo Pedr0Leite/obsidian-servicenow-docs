@@ -14,7 +14,7 @@ breadcrumb: [Release dashboards, Explore, Digital Product Release, IT Service Ma
 
 # Release Overview dashboard for a multi-product release
 
-The [[dpr-release-overview-dashboard|Release overview dashboard]] provides an overview of all the information about an individual product's release in a multi-product release, which the product team can use to assess its readiness.
+The Release overview dashboard provides an overview of all the information about an individual product's release in a multi-product release, which the product team can use to assess its readiness.
 
 \[Omitted image "dpr-release-overview-multi.png"\] Alt text: Release Overview dashboard provides high-level information about a single product or service release and its progress.
 
@@ -24,7 +24,7 @@ sn\_dpr\_model.product\_manager, sn\_dpr\_model.release\_admin, sn\_dpr\_model.r
 
 ## Access the Release Overview dashboard
 
-To open the dashboard, navigate to **Workspaces** &gt; **[[dpr-workspace|Digital Product Release Workspace]]**. Select the releases icon \(\[Omitted image "dpr-icon-release.png"\] Alt text: Releases icon.\) and then select a release from the Releases list.
+To open the dashboard, navigate to **Workspaces** &gt; **Digital Product Release Workspace**. Select the releases icon \(\[Omitted image "dpr-icon-release.png"\] Alt text: Releases icon.\) and then select a release from the Releases list.
 
 ## Widgets
 
@@ -112,7 +112,3 @@ Number of related tasks \(incidents, problems\) linked to the release, grouped b
 
 [Release dashboard for a multi-product release]()
 
-## Related
-
-- [[dpr-release-overview-dashboard|Release Overview dashboard]]
-- [[dpr-workspace|Digital Product Release Workspace]]

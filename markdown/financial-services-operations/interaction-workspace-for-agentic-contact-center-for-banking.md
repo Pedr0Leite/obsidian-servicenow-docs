@@ -91,18 +91,14 @@ For more information, see the following topics:
 -   [Interaction wrap up](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/interaction-wrap-up-state.md)
 -   [Use AI to generate wrap up code and notes summary](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ai-generated-wrap-up-codes-and-notes-summary.md)
 
-**Parent Topic:**[[exploring-agentic-contact-center-for-banking|Exploring Agentic Contact Center for Banking]]
+**Parent Topic:**[Exploring Agentic Contact Center for Banking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/exploring-agentic-contact-center-for-banking.md)
 
 **Related topics**  
 
 
 [Exploring Agentic Contact Center for Banking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/exploring-agentic-contact-center-for-banking.md)
 
-[[customer-360-agentic-contact-center-for-banking|Customer 360 page for Agentic Contact Center for Banking]]
+[Customer 360 page for Agentic Contact Center for Banking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/customer-360-agentic-contact-center-for-banking.md)
 
 [CSM Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-workspaces-configure.md)
 
-## Related
-
-- [[exploring-agentic-contact-center-for-banking|Exploring Agentic Contact Center for Banking]]
-- [[customer-360-agentic-contact-center-for-banking|Customer 360 page for Agentic Contact Center for Banking]]

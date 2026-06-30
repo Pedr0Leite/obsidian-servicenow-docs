@@ -27,7 +27,7 @@ Role required: None
     |Option|Action|
     |------|------|
     |**Smartphone or tablet**|From the Now Mobile, tap **Health**, and under **Follow These Safety Practices**, tap **Set up a visit**.|
-    |**Computer**|Navigate to **[[employee-health-safety-status|Employee Health and Safety Status]]** &gt; **Set up a visit**.|
+    |**Computer**|Navigate to **Employee Health and Safety Status** &gt; **Set up a visit**.|
 
 2.  On the form, fill in the fields.
 
@@ -50,7 +50,7 @@ Role required: None
 
 ## Result
 
-A visitor record is created in the [[health-safety-overview|Health and Safety]] Visitors table \[sn\_imt\_core\_visitor\], or updated if a record for the visitor already exists. A record is also created in the Health and Safety Visitor Invitation table \[sn\_imt\_core\_visitor\_invitation\].
+A visitor record is created in the Health and Safety Visitors table \[sn\_imt\_core\_visitor\], or updated if a record for the visitor already exists. A record is also created in the Health and Safety Visitor Invitation table \[sn\_imt\_core\_visitor\_invitation\].
 
 ## What to do next
 
@@ -58,7 +58,3 @@ To view all of your invited visitors, navigate to **Employee Health and Safety S
 
 **Parent Topic:**[Employee Health and Safety Status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-readiness-core/employee-health-safety-status.md)
 
-## Related
-
-- [[employee-health-safety-status|Employee Health and Safety Status]]
-- [[health-safety-overview|Health and Safety]]

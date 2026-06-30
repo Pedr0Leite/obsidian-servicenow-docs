@@ -14,7 +14,7 @@ breadcrumb: [Talent pool, Explore, Talent Profile, Hiring Experiences, HR Servic
 
 # Talent pool record view
 
-View all the important specifications of a [[talent-pool-overview|talent pool]] in the Talent pool record page.
+View all the important specifications of a talent pool in the Talent pool record page.
 
 ## Details tab
 
@@ -41,6 +41,3 @@ The **Record History** tab shows you the recorded history of the talent pool wit
 
 The tab is only visible to the admin. It doesn't show up for the recruiters.
 
-## Related
-
-- [[talent-pool-overview|Talent pool]]

@@ -16,7 +16,7 @@ breadcrumb: [Select a delivery location, Complete your checkout, Using Shopping 
 
 As a shopper, you can view, add, and select the delivery locations and office locations while placing an order on ShoppingHub.
 
-When an administrator configures valid countries for shipping on the **[[supplier|Supplier]]** or **Supplier product** using the **Supplier delivers to** field, you can see the product availability at valid locations and complete the order.
+When an administrator configures valid countries for shipping on the **Supplier** or **Supplier product** using the **Supplier delivers to** field, you can see the product availability at valid locations and complete the order.
 
 On configuration, shoppers can gain the following insights:
 
@@ -42,6 +42,3 @@ As a shopper, you can select a valid delivery location based on the preconfigure
 
 [Valid country location](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/valid-country-location.md)
 
-## Related
-
-- [[supplier|Supplier]]

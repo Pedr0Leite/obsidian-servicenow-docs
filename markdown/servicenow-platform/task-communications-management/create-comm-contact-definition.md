@@ -28,7 +28,7 @@ You can add or remove any particular communication contact manually.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[tcm-landing-page|Task Communications Management]]** &gt; **Plan Definitions**.
+1.  Navigate to **All** &gt; **Task Communications Management** &gt; **Plan Definitions**.
 
 2.  Click the communication plan that you want to define the contacts for.
 
@@ -83,6 +83,3 @@ Name of the user, group, or recipient list to be added to the contact list.**Not
 
 [Define a communication channel]()
 
-## Related
-
-- [[tcm-landing-page|Task Communications Management]]

@@ -48,7 +48,7 @@ Do this
 </td><td>
 
 1.  Tap **Inventory**.
-2.  In the **My [[c_PartRequirements|Part Requirements]]** section, tap **See all**.
+2.  In the **My Part Requirements** section, tap **See all**.
 3.  Tap the part requirement for which you wanted to view the transfer orders.
 4.  Tap the **Related List** tab.
 5.  In the **Transfer order lines** section, tap **See all**.
@@ -86,6 +86,3 @@ Do this
 
 You can pickup parts from your peer agents for the part request. For more information, see [Pick up a part to complete tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/picking-up-parts.md) and [Pick up a part to complete tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/picking-up-parts.md).
 
-## Related
-
-- [[c_PartRequirements|Part requirements]]

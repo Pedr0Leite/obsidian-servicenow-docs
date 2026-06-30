@@ -35,14 +35,9 @@ Role required: admin
     The character count is visible under the text area.
 
 
-**Parent Topic:**[[psds-config-gmp-foundation|Configure Grants Management]]
+**Parent Topic:**[Configure Grants Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-foundation.md)
 
-**Previous topic:**[[psds-config-gmp-internal-team-default-roles|Configure read/write access roles for the Grants Management internal program team]]
+**Previous topic:**[Configure read/write access roles for the Grants Management internal program team](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-internal-team-default-roles.md)
 
-**Next topic:**[[psds-config-gmp-setup-retention-policy|Configure a retention policy for grant cases in Grants Management]]
+**Next topic:**[Configure a retention policy for grant cases in Grants Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-setup-retention-policy.md)
 
-## Related
-
-- [[psds-config-gmp-foundation|Configure Grants Management]]
-- [[psds-config-gmp-internal-team-default-roles|Configure read/write access roles for the Grants Management internal program team]]
-- [[psds-config-gmp-setup-retention-policy|Configure a retention policy for grant cases in Grants Management]]

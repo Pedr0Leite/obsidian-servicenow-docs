@@ -14,7 +14,7 @@ breadcrumb: [Troubleshooting tools for Cloud Provisioning and Governance, Cloud 
 
 # Open cloud orchestrations
 
-Cloud orchestration records show you the orders that your instance processed for each attempted operation on a stack. They also show you the values of the fields that the user submitted through the [[cloudmgt-cloud-user-portal|Cloud User Portal]]. Use cloud orchestrations to troubleshoot issues that occur when a user provisions a cloud resource or runs another operation on an existing cloud resource.
+Cloud orchestration records show you the orders that your instance processed for each attempted operation on a stack. They also show you the values of the fields that the user submitted through the Cloud User Portal. Use cloud orchestrations to troubleshoot issues that occur when a user provisions a cloud resource or runs another operation on an existing cloud resource.
 
 ## Before you begin
 
@@ -182,7 +182,3 @@ This field can show the name of the MID Server involved in the transaction. It i
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cloudmgt-cloud-user-portal|Cloud User Portal]]

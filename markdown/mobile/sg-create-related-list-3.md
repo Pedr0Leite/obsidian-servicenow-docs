@@ -12,7 +12,7 @@ breadcrumb: [Configure a related list screen, Record screen, Mobile screen types
 
 # Update your record screen to display a related list
 
-Update your [[form-screen|record screen]] to display a list of related records.
+Update your record screen to display a list of related records.
 
 ## Before you begin
 
@@ -20,15 +20,15 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder appears in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you're working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
-3.  From the menu on the left side, select **Screens** to display the [[sg-data-item|data items]] for the scope.
+3.  From the menu on the left side, select **Screens** to display the data items for the scope.
 
 4.  Open the screen record where you want to display your embedded list.
 
@@ -42,7 +42,7 @@ Role required: admin
 
 8.  In the **Embedded screen** section, click **New**.
 
-9.  Select **Related Lists** in the **[[sg-studio-configure-applet-screens|Create a screen]]** window.
+9.  Select **Related Lists** in the **Create a screen** window.
 
 10. In the **New related lists screen**, fill in the following fields.
 
@@ -92,7 +92,7 @@ Available offline
 
 </td><td>
 
-Whether the list is accessible in [[mobile-offline-mode|offline mode]].
+Whether the list is accessible in offline mode.
 
 </td></tr><tr><td>
 
@@ -113,7 +113,7 @@ Choose an icon for the related list.
 </td></tr></tbody>
 </table>11. In the **Related list mapping** section, click **New**.
 
-    In the next steps, you map a connection between this related list and the [[list-screen|list screen]] that you created in the steps under [[sg-create-related-list-2|Create a list screen to use as a related list]].
+    In the next steps, you map a connection between this related list and the list screen that you created in the steps under [Create a list screen to use as a related list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-create-related-list-2.md).
 
 12. In the **Related list map** panel, select a relationship in the **Relationship** field.
 
@@ -138,13 +138,3 @@ Continuing the preceding example, the problem record screen must have a related 
 
 \[Omitted image "create-related-list.png"\] Alt text: Related list pop-up showing relationship options
 
-## Related
-
-- [[sg-create-related-list-2|Create a list screen to use as a related list]]
-- [[form-screen|Record screen]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]
-- [[sg-data-item|Data items]]
-- [[sg-studio-configure-applet-screens|Create a screen]]
-- [[mobile-offline-mode|Offline mode]]
-- [[list-screen|List screen]]

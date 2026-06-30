@@ -14,7 +14,7 @@ breadcrumb: [Application service completion, Application service mapping using c
 
 # Schedule a top-down discovery by Service Mapping
 
-After [[c_ServiceMappingOverview|Service Mapping]] discovers configuration items \(CIs\) belonging to your service instance for the first time, it then rediscovers CIs to find changes and updates. Create or modify [[r-discovery|discovery]] schedules to control how often Service Mapping rediscovers services or CIs. For example, you may create custom discovery schedules to avoid redundant stress on the infrastructure.
+After Service Mapping discovers configuration items \(CIs\) belonging to your service instance for the first time, it then rediscovers CIs to find changes and updates. Create or modify discovery schedules to control how often Service Mapping rediscovers services or CIs. For example, you may create custom discovery schedules to avoid redundant stress on the infrastructure.
 
 ## Before you begin
 
@@ -140,7 +140,3 @@ Learn about schedules that trigger top-down discovery of application services.
 
 [Pattern-based discovery in Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/pattern-based-discovery.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]

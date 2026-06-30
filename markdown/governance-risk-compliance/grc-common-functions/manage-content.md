@@ -14,7 +14,7 @@ breadcrumb: [AI reporting assistant, Microsoft Word based audit report templates
 
 # Manage content
 
-The **Manage content** page displays all the ServiceNow links in your Microsoft Word report, including content inserted using the [[ai-reporting-assistant|AI reporting assistant]].
+The **Manage content** page displays all the ServiceNow links in your Microsoft Word report, including content inserted using the AI reporting assistant.
 
 ## Manage content
 
@@ -32,6 +32,3 @@ The **AI generated** section displays cards for each piece of content inserted u
 
 **Parent Topic:**[AI reporting assistant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/ai-reporting-assistant.md)
 
-## Related
-
-- [[ai-reporting-assistant|AI reporting assistant]]

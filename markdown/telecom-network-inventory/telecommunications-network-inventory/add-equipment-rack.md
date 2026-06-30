@@ -14,7 +14,7 @@ breadcrumb: [Using Design &amp; Assign Network, Use, Telecommunications Network 
 
 # Add an equipment to rack or cabinet
 
-Add equipment to a rack or cabinet using [[using-playbooks-design-assign-inventory-record|design and assign function]] in the [[telecom-network-inventory|Telecommunications Network Inventory]] application. By adding the equipment to rack, you can fulfill a customer order request.
+Add equipment to a rack or cabinet using design and assign function in the Telecommunications Network Inventory application. By adding the equipment to rack, you can fulfill a customer order request.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon\), and then go to **Changes** &gt; **All**.
 
@@ -57,8 +57,3 @@ The equipment record is added in the Rack view. You can edit the rack. The relat
 
 **Parent Topic:**[Instantiating your network inventory by using design and assign](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/instantiate-asset-using-template-relationship-model.md)
 
-## Related
-
-- [[using-playbooks-design-assign-inventory-record|Design and Assign function]]
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]

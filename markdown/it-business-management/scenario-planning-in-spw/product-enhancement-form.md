@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Strategic Planning, Reference, Portfolio
 
 # Product Enhancement form
 
-Learn about the fields of the product enhancement form. Use this form to create or edit the details of a product enhancement in [[alignment-planner-workspace-landing-page|Strategic Planning]].
+Learn about the fields of the product enhancement form. Use this form to create or edit the details of a product enhancement in Strategic Planning.
 
 These fields are displayed on the full details page of the product enhancement.
 
@@ -33,6 +33,3 @@ These fields are displayed on the full details page of the product enhancement.
 
 **Parent Topic:**[Form field information for Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/form-field-information-for-strategic-planning.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

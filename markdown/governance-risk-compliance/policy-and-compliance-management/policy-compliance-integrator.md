@@ -14,12 +14,9 @@ breadcrumb: [Policy and Compliance Management, Governance, Risk, and Compliance]
 
 # GRC: Policy and Compliance integrator
 
-The GRC: Policy and Compliance integrator application provides a common framework so that your content providers can push their content into the GRC applications. The application also enables you to review, approve, and import the data into the [[r_PolicyComplianceMgmt|Policy and Compliance Management]] tables.
+The GRC: Policy and Compliance integrator application provides a common framework so that your content providers can push their content into the GRC applications. The application also enables you to review, approve, and import the data into the Policy and Compliance Management tables.
 
 Starting in Australia, you can use the GRC: Policy and Compliance integrator application with the GRC: integrations with third-party content application.
 
 For more information on how to complete the data import process, see [Workflow for GRC: Policy and Compliance integrator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/integrator-workflow.md) and [Using the GRC: Policy and Compliance integrator to display batch records and import tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/integrator-in-classic-ui.md).
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

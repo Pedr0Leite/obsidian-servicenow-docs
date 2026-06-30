@@ -14,19 +14,19 @@ breadcrumb: [Setup task management, Configuring Employee Center, Employee Center
 
 # Employee requests page
 
-The requests page is where employees can view all their requests on a single page in the [[employee-center-landing-page|Employee Center]]. You can configure the requests page by applying filters to show a user's service catalog requests, IT incidents, HR cases, and more.
+The requests page is where employees can view all their requests on a single page in the Employee Center. You can configure the requests page by applying filters to show a user's service catalog requests, IT incidents, HR cases, and more.
 
 ## Overview of the requests page
 
 The requests page displays all of an employee's requests. The following GIF shows an example of an employee viewing and opening requests on the requests page.
 
-**Note:** Leverage the [[my-requests-update-intro|Enhanced Requests Experience]] to get more flexibility of configuration and requests management on Employee Center. For more information, see [Enhanced Requests Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/my-requests-update-intro.md).
+**Note:** Leverage the Enhanced Requests Experience to get more flexibility of configuration and requests management on Employee Center. For more information, see [Enhanced Requests Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/my-requests-update-intro.md).
 
 ## Configuring the requests page
 
 You control the type of requests that appear by configuring the request filters. The filters define the table and conditions that a request must meet for it to appear on the requests page for an employee. For example, you can configure a Service Catalog Request filter by associating it with the Request \[sc\_request\] table with the conditions that the request is active and that the request was opened by or for the employee.
 
-**Note:** If you are [[using-emp-center|using Employee Center]] as part of [[hr-service-delivery|HR Service Delivery]], HR cases appear on the requests page for the user that the case was opened for. If an HR case has one or more child cases, the child cases are automatically rolled up with the parent case up to three generations \(children, grand-children, and great-grand-children\). Furthermore:
+**Note:** If you are using Employee Center as part of HR Service Delivery, HR cases appear on the requests page for the user that the case was opened for. If an HR case has one or more child cases, the child cases are automatically rolled up with the parent case up to three generations \(children, grand-children, and great-grand-children\). Furthermore:
 
 -   HR child cases that are rolled up with the parent do not appear as separate requests on the requests page.
 -   Non-HR child cases \(such as IT or service catalog requests\) appear both as a separate request and as part of the roll-up on the parent case.
@@ -70,10 +70,3 @@ With HR Service Delivery
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[my-requests-update-intro|Enhanced Requests Experience]]
-- [[using-emp-center|Using Employee Center]]
-- [[hr-service-delivery|HR Service Delivery]]

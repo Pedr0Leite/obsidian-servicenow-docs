@@ -14,8 +14,5 @@ breadcrumb: [IT Remediation Workspace, Vulnerability Response Workspaces, Unifie
 
 # IT Remediation Workspace reference information
 
-The following topics provide you with links, reference information, in addition to field data on the forms and records found in [[it-remediation-workspace-landing-page|IT Remediation Workspace]].
+The following topics provide you with links, reference information, in addition to field data on the forms and records found in IT Remediation Workspace.
 
-## Related
-
-- [[it-remediation-workspace-landing-page|IT Remediation Workspace]]

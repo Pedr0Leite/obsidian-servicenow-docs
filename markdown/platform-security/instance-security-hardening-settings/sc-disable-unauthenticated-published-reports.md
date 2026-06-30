@@ -16,9 +16,9 @@ breadcrumb: [Architecture, design, and threat modeling, Hardening settings, Plat
 
 Deactivate this property to prevent the user from publishing or accessing reports. This property disables the published reports feature in reporting.
 
-If the **glide.report.published\_reports.enabled** system property is not set to the recommended value of **false**, then reports stored on the instance can be made visible without [[c_Authentication|authentication]].
+If the **glide.report.published\_reports.enabled** system property is not set to the recommended value of **false**, then reports stored on the instance can be made visible without authentication.
 
-Ensure that the **glide.report.published\_reports.enabled** system property exists in the [[ca-system-properties|System Properties]] \[sys\_properties\] table and is set to the value **false**. If the property does not appear in the sys\_properties table, add a new record.
+Ensure that the **glide.report.published\_reports.enabled** system property exists in the System Properties \[sys\_properties\] table and is set to the value **false**. If the property does not appear in the sys\_properties table, add a new record.
 
 ## More information
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -115,8 +115,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Architecture, design, and threat modeling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-architecture-design-threat-molding.md)
 
-## Related
-
-- [[c_Authentication|Authentication]]
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]

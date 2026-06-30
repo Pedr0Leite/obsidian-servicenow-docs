@@ -14,7 +14,7 @@ breadcrumb: [Multicurrency reference, Reference, Next Experience for Demand Mana
 
 # Multicurrency fields in demand-related forms
 
-When you enable the **Demand Currency** view in Demand, Cost Plan, and [[cost-plan-breakdown|Cost Plan Breakdown]] [[form-field-information-for-dw|forms]], multicurrency fields appear in the Financials section of these forms.
+When you enable the **Demand Currency** view in Demand, Cost Plan, and Cost Plan Breakdown forms, multicurrency fields appear in the Financials section of these forms.
 
 <table id="table_nzw_snf_3jb"><thead><tr><th>
 
@@ -38,7 +38,7 @@ Project currency
 
 </td><td>
 
-Currency for implementing the project when this demand is converted to a project. This value carries over to the [[create-a-project-form|Project form]] in [[c_ProjectApplicationOverview|Project Management]].
+Currency for implementing the project when this demand is converted to a project. This value carries over to the Project form in Project Management.
 
 </td></tr><tr><td>
 
@@ -110,12 +110,12 @@ Actual cost in demand currency
 
 </td><td>
 
-Total cost incurred while working on a demand and [[demand-task|demand tasks]] in the selected demand currency.
+Total cost incurred while working on a demand and demand tasks in the selected demand currency.
 
 </td></tr></tbody>
 </table>|Field|Description|
 |-----|-----------|
-|Demand currency|Currency specified in the **Demand currency** field of the [[demand-form|Demand form]].|
+|Demand currency|Currency specified in the **Demand currency** field of the Demand form.|
 |Actual cost in demand currency|Total cost incurred while working on the demand tasks in the selected demand currency. Actual cost populates after the assignee creates and submits a time card. When the time card is approved, the resource rate from the rate card, labor rate, or system properties populates this field.|
 
 ## Financials section of the Cost Plan form
@@ -158,11 +158,3 @@ Total cost incurred while working on a demand and [[demand-task|demand tasks]] i
 |Opex budget in Demand Currency|Operating expense amount in the selected currency.|
 |Total Budget in Demand Currency|Sum of Capex and Opex amounts in the selected currency.|
 
-## Related
-
-- [[cost-plan-breakdown|Cost plan breakdown]]
-- [[form-field-information-for-dw|Forms]]
-- [[create-a-project-form|Project form]]
-- [[c_ProjectApplicationOverview|Project Management]]
-- [[demand-task|Demand tasks]]
-- [[demand-form|Demand form]]

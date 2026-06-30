@@ -19,9 +19,9 @@ Use the topic **Flow** tab to build the conversation flow. Use the controls for 
 
 ## Flow tab \(default view\)
 
-\[Omitted image "DesignerTextNodeCalloutSections-2.png"\] Alt text: View of [[virtual-agent-landing-page|Virtual Agent]] Designer topic Flow tab with 10 callouts highlighted. For the text description, see the table that follows.
+\[Omitted image "DesignerTextNodeCalloutSections-2.png"\] Alt text: View of Virtual Agent Designer topic Flow tab with 10 callouts highlighted. For the text description, see the table that follows.
 
-**Note:** An updated [[vad-topics-page|Assistant Designer Asset library]] user interface is available when you install [[now-assist-in-va-landing|Now Assist in Virtual Agent]] and turn on the Now Assist Topics skill. This content assumes that you have activated this skill and can see the list view. If this skill is not activated, you see the legacy UI and topics page. For more information, see [Virtual Agent Designer legacy topics page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/vad-prev-topics-page.md).
+**Note:** An updated Assistant Designer Asset library user interface is available when you install Now Assist in Virtual Agent and turn on the Now Assist Topics skill. This content assumes that you have activated this skill and can see the list view. If this skill is not activated, you see the legacy UI and topics page. For more information, see [Virtual Agent Designer legacy topics page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/vad-prev-topics-page.md).
 
 <table id="table_njp_rgk_zhb"><thead><tr><th>
 
@@ -37,7 +37,7 @@ Description
 
 </td><td>
 
-Tabs to navigate between your design and the Asset library. You can open and nevigate between multiple topics and the Asset library by selecting **[[assistant-designer|Assistant Designer]]** or an open topic's tab. Select the close icon \[Omitted image "delete-icon.png"\] Alt text: on a tab to close that topic.
+Tabs to navigate between your design and the Asset library. You can open and nevigate between multiple topics and the Asset library by selecting **Assistant Designer** or an open topic's tab. Select the close icon \[Omitted image "delete-icon.png"\] Alt text: on a tab to close that topic.
 
 </td></tr><tr><td>
 
@@ -76,7 +76,7 @@ If you add a node, then close the topic before saving or publishing, the node di
 
 </td><td>
 
-Collapsible [[sidebar-landing|sidebar]] with Components and Variables tabs.The Components tab shows a list of controls that you can drag onto the canvas to build a conversation. The following types of controls are available:
+Collapsible sidebar with Components and Variables tabs.The Components tab shows a list of controls that you can drag onto the canvas to build a conversation. The following types of controls are available:
 
 -   [User Input](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-user-inputs.md): Controls used to prompt and capture information from the user in a conversation. When Now Assist is enabled and you're working with a large language model \(LLM\) topic, the LLM User Input section indicates which controls are LLM compatible.
 -   [Bot Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-bot-responses.md): Controls for showing virtual agent responses in a conversation.
@@ -239,10 +239,3 @@ Point to the incomplete message to see a tooltip that describes what is missing.
 
 **Parent Topic:**[Assistant Designer interface reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/vad-reference.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[vad-topics-page|Assistant Designer Asset library]]
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]
-- [[assistant-designer|Assistant Designer]]
-- [[sidebar-landing|Sidebar]]

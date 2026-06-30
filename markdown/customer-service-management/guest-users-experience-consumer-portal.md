@@ -20,17 +20,12 @@ They can also view taxonomy topic cards showcasing public content, such as artic
 
 However, on selecting any card, button, or menu items, the guest users are redirected to the login page.
 
-**Parent Topic:**[[c_CustomerServiceManagement|Customer Service Management]]
+**Parent Topic:**[Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_CustomerServiceManagement.md)
 
 **Related topics**  
 
 
-[[guest-users-experience-business-portal|Guest users experience on Business Portal]]
+[Guest users experience on Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/guest-users-experience-business-portal.md)
 
-[[enable-language-selection-guest-users-businessportal|Enable language selection for guest users]]
+[Enable language selection for guest users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/enable-language-selection-guest-users-businessportal.md)
 
-## Related
-
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[guest-users-experience-business-portal|Guest users experience on Business Portal]]
-- [[enable-language-selection-guest-users-businessportal|Enable language selection for guest users]]

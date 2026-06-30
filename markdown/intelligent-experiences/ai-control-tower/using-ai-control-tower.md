@@ -15,8 +15,5 @@ breadcrumb: [AI Control Tower, Enable AI experiences]
 
 # Using AI Control Tower
 
-Use [[ai-control-tower-landing|AI Control Tower]] for creating governance workflows.
+Use AI Control Tower for creating governance workflows.
 
-## Related
-
-- [[ai-control-tower-landing|AI Control Tower]]

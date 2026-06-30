@@ -22,7 +22,7 @@ Role required: sn\_grc.admin
 
 ## About this task
 
-An exception report is a document that lists instances in which actual performance is deviated from expectations. GRC exception is a capability using which you can record or associate business exceptions with GRC objects such as citations, automated [[factors|factors]], and so on. Each exception record has details such as the category of the exception, the record in the table, and the field with which the exception is associated. The administrator can view the list of exceptions and resolve them. Whenever an exception is raised, the solution to resolve the exception is also given in the exception description. The administrator uses the proposed solution to resolve the exception. An example of an exception is when a user has not configured a risk assessment methodology but is trying to perform an object assessment. When an administrator resolves one type of exception, all other similar exceptions get resolved.
+An exception report is a document that lists instances in which actual performance is deviated from expectations. GRC exception is a capability using which you can record or associate business exceptions with GRC objects such as citations, automated factors, and so on. Each exception record has details such as the category of the exception, the record in the table, and the field with which the exception is associated. The administrator can view the list of exceptions and resolve them. Whenever an exception is raised, the solution to resolve the exception is also given in the exception description. The administrator uses the proposed solution to resolve the exception. An example of an exception is when a user has not configured a risk assessment methodology but is trying to perform an object assessment. When an administrator resolves one type of exception, all other similar exceptions get resolved.
 
 ## Procedure
 
@@ -138,6 +138,3 @@ Displays the stream of activities on the exception.
 
 **Parent Topic:**[Common Governance, Risk, and Compliance features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/common-grc-features.md)
 
-## Related
-
-- [[factors|factors]]

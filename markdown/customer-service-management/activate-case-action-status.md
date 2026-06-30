@@ -23,7 +23,7 @@ Role required: admin
 
 ## About this task
 
-Case action status provides a Customer Service-specific application of the Action Status Automation feature, which [[gamification-components-tracks|tracks]] [[case-action-status-blocking-tasks|blocking tasks]] created for customer service cases and updates the action status indicators.
+Case action status provides a Customer Service-specific application of the Action Status Automation feature, which tracks blocking tasks created for customer service cases and updates the action status indicators.
 
 ## Procedure
 
@@ -51,10 +51,5 @@ Case action status provides a Customer Service-specific application of the Actio
 **Related topics**  
 
 
-[[case-action-status-csm-workspace|Case action status]]
+[Case action status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-action-status-csm-workspace.md)
 
-## Related
-
-- [[case-action-status-csm-workspace|Case action status]]
-- [[gamification-components-tracks|Tracks]]
-- [[case-action-status-blocking-tasks|Blocking tasks]]

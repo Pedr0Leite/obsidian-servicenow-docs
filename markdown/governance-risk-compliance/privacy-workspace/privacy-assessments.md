@@ -14,7 +14,7 @@ breadcrumb: [Use, Privacy Management, Governance, Risk, and Compliance]
 
 # Types of privacy assessments
 
-Privacy assessments can be sent using various methods such as entities, [[entity-type-in-risk-ws|entity types]], and [[ropa-record|processing activities]].
+Privacy assessments can be sent using various methods such as entities, entity types, and processing activities.
 
 Multiple types of privacy assessments such as privacy screening assessment, privacy impact assessment, transfer impact assessment, and so on can be configured according to your requirements.
 
@@ -27,7 +27,3 @@ Send multiple privacy assessments from multiple processing activities. This capa
 
 **Parent Topic:**[Using Privacy Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/using-privacy-mgmt.md)
 
-## Related
-
-- [[entity-type-in-risk-ws|Entity types]]
-- [[ropa-record|Processing activities]]

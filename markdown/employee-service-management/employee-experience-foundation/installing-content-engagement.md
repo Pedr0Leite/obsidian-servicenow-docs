@@ -14,7 +14,7 @@ breadcrumb: [Employee Center Pro plugins, Admin configurations, Configuring Empl
 
 # Activate Content engagement
 
-You can activate the [[ec-content-engagement|Content Engagement]] \[sn\_ce\] plugin if you have the admin role to enable employee engagement activities \(reaction icons, comments, or sharing content\) with portal and [[ec-mobile-content|mobile content]].
+You can activate the Content Engagement \[sn\_ce\] plugin if you have the admin role to enable employee engagement activities \(reaction icons, comments, or sharing content\) with portal and mobile content.
 
 ## Before you begin
 
@@ -44,7 +44,3 @@ Activate the Content Publishing \[sn\_cd\] plugin: [Activate Content Publishing]
 
 [Content engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-engagement.md)
 
-## Related
-
-- [[ec-content-engagement|Content engagement]]
-- [[ec-mobile-content|Mobile content]]

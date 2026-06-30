@@ -14,13 +14,13 @@ breadcrumb: [Configure, HR Service Delivery Integration with Workday, Integratio
 
 # Synchronize worker profiles
 
-Pull worker profile data from Workday into ServiceNow. View worker profile details from Workday in ServiceNow [[hr-service-delivery|HR Service Delivery]].
+Pull worker profile data from Workday into ServiceNow. View worker profile details from Workday in ServiceNow HR Service Delivery.
 
-The following sections explain how to set up the application, [[config-w-sync|configure worker profile settings]], activate and run the schedule flow to synchronise worker profiles.
+The following sections explain how to set up the application, configure worker profile settings, activate and run the schedule flow to synchronise worker profiles.
 
 ## Application setup
 
-First, you must activate the [[w-integration|HR Service Delivery Integration with Workday]] application from ServiceNow Store. This automatically activates the Workday HR Spoke. Next, you must set up [Workday HR Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/workday-hr-spoke.md).
+First, you must activate the HR Service Delivery Integration with Workday application from ServiceNow Store. This automatically activates the Workday HR Spoke. Next, you must set up [Workday HR Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/workday-hr-spoke.md).
 
 ## Worker profile settings
 
@@ -32,8 +32,3 @@ Store one-time configuration parameters for synchronizing data between Workday a
 
 Activate and run the schedule flow that pulls Worker profile information into ServiceNow. For more information, see [Activating schedule flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/activate-w-schedule-flow.md).
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[config-w-sync|Configure worker profile settings]]
-- [[w-integration|HR Service Delivery Integration with Workday]]

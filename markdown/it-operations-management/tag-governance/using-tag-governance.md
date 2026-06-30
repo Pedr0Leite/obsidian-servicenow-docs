@@ -14,7 +14,7 @@ breadcrumb: [Tag Governance, ITOM Visibility, IT Operations Management]
 
 # Using Tag Governance
 
-Use the ServiceNow® [[landing-page-tag-governance|Tag Governance]] app to identify and remediate on-premises or cloud resources that are inconsistent and don't comply with the tag policies of your organization.
+Use the ServiceNow® Tag Governance app to identify and remediate on-premises or cloud resources that are inconsistent and don't comply with the tag policies of your organization.
 
 ## Tag governance tasks
 
@@ -28,7 +28,7 @@ Use the ServiceNow® [[landing-page-tag-governance|Tag Governance]] app to ident
 
 -   [Configure remediation policies on tag audit findings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/tag-governance/configure-remediation-tag-governance-.md)
 
-    Configure and preview [[ccg-remediation|remediation]] options, generate keys, and perform actions to remediate non-compliance or failures that are based on tag audit reports.
+    Configure and preview remediation options, generate keys, and perform actions to remediate non-compliance or failures that are based on tag audit reports.
 
 -   [Preview and remediate tag audit failures](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/tag-governance/perform-remediations-tag-governance.md)
 
@@ -36,10 +36,6 @@ Use the ServiceNow® [[landing-page-tag-governance|Tag Governance]] app to ident
 
 -   [Performing real-time updates to tags for cloud resources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/tag-governance/tag-governance-real-time-updates.md)
 
-    You can set up cloud events processing and map a tag policy to update [[cloud-tagging|tags for cloud resources]] in real time.
+    You can set up cloud events processing and map a tag policy to update tags for cloud resources in real time.
 
-## Related
 
-- [[landing-page-tag-governance|Tag Governance]]
-- [[ccg-remediation|Remediation]]
-- [[cloud-tagging|Tags for cloud resources]]

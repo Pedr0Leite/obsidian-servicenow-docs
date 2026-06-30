@@ -12,7 +12,7 @@ breadcrumb: [Reference, Operational Resilience, Governance, Risk, and Compliance
 
 # Script includes installed with Operational Resilience
 
-When you download the [[grc-opres-landing-page|Operational Resilience]] application, several Script includes are added to your instance.
+When you download the Operational Resilience application, several Script includes are added to your instance.
 
 ## Script includes and other references installed
 
@@ -110,7 +110,7 @@ Client script
 
 </td><td>
 
-Load options for the source field on [[exploring-op-vul|operational vulnerability]]
+Load options for the source field on operational vulnerability
 
 </td></tr><tr><td>
 
@@ -626,8 +626,3 @@ Adding the pillar for single entity
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[exploring-op-vul|Operational vulnerability]]

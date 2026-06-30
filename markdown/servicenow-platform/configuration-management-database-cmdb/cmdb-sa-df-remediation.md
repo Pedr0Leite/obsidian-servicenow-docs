@@ -14,7 +14,7 @@ breadcrumb: [Use Data Foundations advisor, CMDB success advisor, Configuration M
 
 # Improving CMDB data quality for Data Foundations
 
-The Remediation actions panel available for a chart in the [[cmdb-sa|CMDB success advisor]] dashboard for Data Foundations suggests targeted actions to address Data Foundations data quality issues and improve the overall quality of your [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]].
+The Remediation actions panel available for a chart in the CMDB success advisor dashboard for Data Foundations suggests targeted actions to address Data Foundations data quality issues and improve the overall quality of your Configuration Management Database \(CMDB\).
 
 \[Omitted image "cmdb-sa-df-remediation-actions.png"\] Alt text: Example actions in the remediation actions panel shown for stale CIs not updated within the selected time period.
 
@@ -42,7 +42,7 @@ The remediation actions are available for the improvement of the following issue
 
 -   **CIs with invalid or unpopulated names**
 
-    Identify and correct CIs in your principal classes that lack a valid name. Accurate names are required to correctly [[reference|reference]] data to the right configuration item.
+    Identify and correct CIs in your principal classes that lack a valid name. Accurate names are required to correctly reference data to the right configuration item.
 
 -   **CIs missing location**
 
@@ -64,12 +64,6 @@ The remediation actions are available for the improvement of the following issue
 ## Data Foundations specific remediation tips
 
 -   For stale CIs in principal classes: check whether a Discovery schedule is running against the affected network segment or cloud account. Stale data often means a Discovery job is failing or out of scope.
--   For duplicate CIs: review the [[c_CMDBIdentifyandReconcile|CMDB Identification and Reconciliation \(IRE\)]] rules for the affected CI class. Duplicates often signal that IRE rules need updating.
+-   For duplicate CIs: review the CMDB Identification and Reconciliation \(IRE\) rules for the affected CI class. Duplicates often signal that IRE rules need updating.
 -   For missing location or owner: consider using a CMDB enrichment rule to auto-populate these fields from related records. For example, derive location from IP subnet.
 
-## Related
-
-- [[cmdb-sa|CMDB success advisor]]
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[reference|Reference]]
-- [[c_CMDBIdentifyandReconcile|CMDB Identification and Reconciliation \(IRE\)]]

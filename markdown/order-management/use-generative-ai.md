@@ -12,7 +12,7 @@ breadcrumb: [Now Assist for SFA, Sales Customer Relationship Management]
 
 # Using generative AI in Now Assist for Sales Force Automation \(SFA\)
 
-[[now-assist-for-sales-and-order-management-som|Now Assist for Sales Force Automation \(SFA\)]] includes a generative AI skill that summarizes opportunities in the CRM Workspace. The summary synthesizes emails, meetings, touchpoints, work notes, and line items into a deal overview. In domain-separated environments, the skill uses only data within the user's domain.
+Now Assist for Sales Force Automation \(SFA\) includes a generative AI skill that summarizes opportunities in the CRM Workspace. The summary synthesizes emails, meetings, touchpoints, work notes, and line items into a deal overview. In domain-separated environments, the skill uses only data within the user's domain.
 
 ## Skills reuse
 
@@ -26,6 +26,3 @@ The Now Assist for Sales Force Automation \(SFA\) application includes the gener
 -   Share deal context quickly by copying the summary or pushing it to work notes.
 -   Keep summaries current by refreshing on demand to reflect the latest opportunity data.
 
-## Related
-
-- [[now-assist-for-sales-and-order-management-som|Now Assist for Sales Force Automation \(SFA\)]]

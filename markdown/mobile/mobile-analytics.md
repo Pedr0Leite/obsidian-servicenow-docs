@@ -18,7 +18,7 @@ Usage Insights helps you understand usage and adoption of your mobile applicatio
 
 This video shows you how to analyze the user experience within your applications using Usage Insights.
 
-The ServiceNow® Usage Insights application provides views for monitoring key performance indicators of users of your web and mobile applications built with the ServiceNow [[mobile-config-navigation|mobile platform]] and web assets. Visualize metrics and interactions to better understand the user experience, and create more intuitive journeys for your users.
+The ServiceNow® Usage Insights application provides views for monitoring key performance indicators of users of your web and mobile applications built with the ServiceNow mobile platform and web assets. Visualize metrics and interactions to better understand the user experience, and create more intuitive journeys for your users.
 
 There are two mobile applications with the primary difference being the personas they serve.
 
@@ -42,6 +42,3 @@ There are two mobile applications with the primary difference being the personas
 
 [Usage Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/user-exp-analytics-landing.md)
 
-## Related
-
-- [[mobile-config-navigation|Mobile Platform]]

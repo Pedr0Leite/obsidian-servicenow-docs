@@ -12,7 +12,7 @@ breadcrumb: [Structured workflows for BIA, Using BCM Classic Workspace, Manage, 
 
 # Create a business impact analysis
 
-[[create-bia-in-uib-ws|Create a business impact analysis]] \(BIA\) to get the necessary information for a plan. Use the BIA to identify the recovery time objective for an item and prioritize assets that have most and least critical dependencies. Use the information to establish their recovery strategies during the planning phase.
+Create a business impact analysis \(BIA\) to get the necessary information for a plan. Use the BIA to identify the recovery time objective for an item and prioritize assets that have most and least critical dependencies. Use the information to establish their recovery strategies during the planning phase.
 
 ## Before you begin
 
@@ -40,7 +40,7 @@ Name
 
 </td><td>
 
-Name of the [[bia-uib|business impact analysis]]. Describe the BIA within 255 characters length.
+Name of the business impact analysis. Describe the BIA within 255 characters length.
 
 </td></tr><tr><td>
 
@@ -123,7 +123,4 @@ Person who owns and is responsible for completing the BIA. BCM lead can review t
 
     **Note:** A scheduled job runs weekly to move the BIAs that have expired to **Archived** state.
 
-## Related
 
-- [[create-bia-in-uib-ws|Create a business impact analysis]]
-- [[bia-uib|Business impact analysis]]

@@ -14,7 +14,7 @@ breadcrumb: [Use agentic workflows, Now Assist for Health and Safety, Health and
 
 # Help resolve health and safety cases agentic workflow
 
-Use the **Help resolve [[health-safety-overview|health and safety]] cases** agentic workflow to enable faster resolution of cases. It enhances the management of Health and Safety cases by improving the time to response for safety teams.
+Use the **Help resolve health and safety cases** agentic workflow to enable faster resolution of cases. It enhances the management of Health and Safety cases by improving the time to response for safety teams.
 
 The **Help resolve health and safety cases** is a case analyzer agentic workflow designed to support safety teams in resolving cases more quickly and effectively. It reviews related historical cases, analyzes actions taken, and reviews available knowledge base articles to generate suitable action plans. You can select one or more preferred actions from the suggestions to apply to the current case. This process helps safety teams benefit from previous resolutions, reducing the time and effort required to close new cases.
 
@@ -52,6 +52,3 @@ The following agent is used to help resolve Health and Safety cases workflow:
 |Add selected actions to health and safety case|Scripts|Autonomous|
 |Get relevant knowledge articles|Search retrievals|Autonomous|
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]

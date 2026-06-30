@@ -14,11 +14,11 @@ breadcrumb: [Using CPQ, Configure, price, quote apps, Use, Sales Customer Relati
 
 Add pricing or quantity ramps to quote line items to set incremental changes during the life of a contract.
 
-In [[understand-the-commerce-logic-engine|the CPQ configurator]], you can [[Modify|modify]] the configuration of a product subscription so that prices and quantities change during the term of the subscription. This is called ramped pricing because the price or quantity increases or decreases during the term of the contract.
+In the CPQ configurator, you can modify the configuration of a product subscription so that prices and quantities change during the term of the subscription. This is called ramped pricing because the price or quantity increases or decreases during the term of the contract.
 
 To enable the ramped pricing feature, select the **Enable Ramps** check box on the **Pricing** tab of the product offering configuration page.
 
-When you [[create-new-quote|create a quote]] for a configurable product, you can set ramped pricing for offerings within the product. Select a quote line item, and then select **Ramps**. A **Price ramps for \[product offering\]** dialog appears that contains the following [[fields|fields]]:
+When you create a quote for a configurable product, you can set ramped pricing for offerings within the product. Select a quote line item, and then select **Ramps**. A **Price ramps for \[product offering\]** dialog appears that contains the following fields:
 
 -   Start date
 -   End date
@@ -37,18 +37,10 @@ In each segment, the **Quantity** field is editable. For example, to specify a c
 
 **Note:** By default, ramps are hidden in a product’s list of line items. To display the ramps in the line items view, set the hierarchy toggle at the top of the list. Then, select **conditions** and remove the default conditions for the view.
 
-**Parent Topic:**[[cpq-using|Using CPQ]]
+**Parent Topic:**[Using CPQ](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-using.md)
 
 **Related topics**  
 
 
-[[configurable-products-explore|Configurable products]]
+[Configurable products](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configurable-products-explore.md)
 
-## Related
-
-- [[cpq-using|Using CPQ]]
-- [[configurable-products-explore|Configurable products]]
-- [[understand-the-commerce-logic-engine|The CPQ Configurator]]
-- [[Modify|Modify]]
-- [[create-new-quote|Create a quote]]
-- [[fields|Fields]]

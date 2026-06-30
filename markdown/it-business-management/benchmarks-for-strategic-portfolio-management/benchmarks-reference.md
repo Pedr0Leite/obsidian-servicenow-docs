@@ -14,16 +14,12 @@ breadcrumb: [SPM Benchmarks, Strategic Portfolio Management]
 
 # SPM Benchmarks reference
 
-Reference information to provide additional details about [[benchmarks-for-spm|SPM Benchmarks]] such as the fields, user roles, and scheduled job information.
+Reference information to provide additional details about SPM Benchmarks such as the fields, user roles, and scheduled job information.
 
 -   **[Components installed with SPM Benchmarking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/benchmarks-for-strategic-portfolio-management/components-installed-with-spm-benchmarking.md)**  
 Several types of components are installed with activation of the SPM Benchmarks plugin, including tables, user roles, and scheduled jobs.
 -   **[SPM Benchmarks KPIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/benchmarks-for-strategic-portfolio-management/spm-benchmarking-kpis.md)**  
-The [[r_ITBusinessManagement|Strategic Portfolio Management]] KPIs are performance analytic indicators that collect the usage count data. Strategic, Alignment, and Execution KPIs are available by default in the SPM Benchmarks application.
+The Strategic Portfolio Management KPIs are performance analytic indicators that collect the usage count data. Strategic, Alignment, and Execution KPIs are available by default in the SPM Benchmarks application.
 
 **Parent Topic:**[SPM Benchmarks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/benchmarks-for-strategic-portfolio-management/benchmarks-for-spm.md)
 
-## Related
-
-- [[benchmarks-for-spm|SPM Benchmarks]]
-- [[r_ITBusinessManagement|Strategic Portfolio Management]]

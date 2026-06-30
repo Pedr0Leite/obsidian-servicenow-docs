@@ -28,7 +28,7 @@ For additional information about streaming logs using the Elasticsearch data inp
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hla-landing-page|Health Log Analytics]]** &gt; **Data Input** &gt; **Data Inputs**.
+1.  Navigate to **All** &gt; **Health Log Analytics** &gt; **Data Input** &gt; **Data Inputs**.
 
 2.  Open an Elasticsearch data input record from the Data Inputs table.
 
@@ -79,6 +79,3 @@ For additional information about streaming logs using the Elasticsearch data inp
 
 [Configure an Elasticsearch data input in Health Log Analytics manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-input-elastic.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

@@ -14,7 +14,7 @@ breadcrumb: [Use, Operational Technology Change Management, Operational Technolo
 
 # Edit the related devices and equipment model entities in a change record
 
-Add or remove the related [[operational-technology-overview|Operational Technology]] \(OT\) devices and equipment model entities directly from an OT change record. You can track the relationship between the change request and its affected items.
+Add or remove the related Operational Technology \(OT\) devices and equipment model entities directly from an OT change record. You can track the relationship between the change request and its affected items.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_ot\_change\_write or sn\_ot\_change\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]]**.
+1.  Navigate to **All** &gt; **Industrial Workspace**.
 
 2.  Open the Industrial Workspace list view.
 
@@ -72,7 +72,3 @@ Description
 
 **Parent Topic:**[Using Operational Technology Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-change-management/using-operational-technology-change-management.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

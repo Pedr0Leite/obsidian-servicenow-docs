@@ -52,7 +52,7 @@ When a customer answers that the amount is debited from the credit card, the pat
 
 ### What to do next
 
-[[configure-guidance-node-initiate-transaction-tracking|Configure a guidance node]] that allows agents to initiate the transaction tracking for a failed transaction.
+[Configure a guidance node](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-guidance-node-initiate-transaction-tracking.md) that allows agents to initiate the transaction tracking for a failed transaction.
 
 ## Configure the path for the amount-not-debited condition
 
@@ -89,9 +89,5 @@ When a customer answers that the amount isn’t debited from the credit card, th
 
 ### What to do next
 
-[[configure-question-node-to-ask-failure-codes|Configure a question node]] to ask for the failure codes that customer received after the failed transaction.
+[Configure a question node](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-question-node-to-ask-failure-codes.md) to ask for the failure codes that customer received after the failed transaction.
 
-## Related
-
-- [[configure-guidance-node-initiate-transaction-tracking|Configure a guidance node to initiate the transaction tracking]]
-- [[configure-question-node-to-ask-failure-codes|Configure a question node to ask failure codes]]

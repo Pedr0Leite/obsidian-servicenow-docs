@@ -35,7 +35,7 @@ In this example, asking Now Assist about booking travel provides a summary of th
 
 ## Custom apps
 
-If you have a mobile SDK installed on your instance, you have the option to enable Now Assist for Virtual Agent for your custom apps. For more information, see the [[mobile-sdk|Mobile SDK]] documentation.
+If you have a mobile SDK installed on your instance, you have the option to enable Now Assist for Virtual Agent for your custom apps. For more information, see the [Mobile SDK](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-sdk.md) documentation.
 
 \[Omitted image "na-va-custom-apps.png"\] Alt text: the custom apps section of the virtual agent display configuration screen
 
@@ -47,9 +47,5 @@ Choose how you want Virtual Agent to display on your mobile app.
 
 For information on how to configure your Now Assist display experience, see [Configuring assistants overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/configure-now-assist-va.md).
 
-**Note:** Now Assist in Native Mobile Virtual Agent uses mobile theming. For more information, see [[explore-ne-theming|Next Experience theming for mobile]].
+**Note:** Now Assist in Native Mobile Virtual Agent uses mobile theming. For more information, see [Next Experience theming for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/explore-ne-theming.md).
 
-## Related
-
-- [[mobile-sdk|Mobile SDK]]
-- [[explore-ne-theming|Next Experience theming for mobile]]

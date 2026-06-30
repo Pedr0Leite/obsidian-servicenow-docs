@@ -14,7 +14,7 @@ breadcrumb: [Review and update the equipment model details, Managing equipment m
 
 # Filter equipment model entities by operational status
 
-Filter how equipment model entities appear in the Equipment Model Manager on the [[industrial-workspace-for-operational-technology|Industrial Workspace]] using a system property. Filtering equipment model entities can help you organize the data shown on the Industrial Workspace.
+Filter how equipment model entities appear in the Equipment Model Manager on the Industrial Workspace using a system property. Filtering equipment model entities can help you organize the data shown on the Industrial Workspace.
 
 ## Before you begin
 
@@ -42,6 +42,3 @@ Role required: cmdb\_ot\_isa\_viewer and cmdb\_ot\_isa\_admin
 
 **Parent Topic:**[Review and update the equipment model details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/equipment-model-workspace.md)
 
-## Related
-
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

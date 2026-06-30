@@ -14,17 +14,17 @@ breadcrumb: [NLU intents, Build and train your model, Model management, Natural 
 
 # Resolve intent issues
 
-Use the issue cards to identify intents that have conflicts, need reviewing, or need more utterances. Resolving intent issues ensures the intents in your [[nlu-landing|Natural Language Understanding]] \(NLU\) models work properly.
+Use the issue cards to identify intents that have conflicts, need reviewing, or need more utterances. Resolving intent issues ensures the intents in your Natural Language Understanding \(NLU\) models work properly.
 
 ## Before you begin
 
--   Make sure that the NLU Workbench plugin, NLU Workbench - Core plugin, [[nlu-workbench-advanced-features|NLU Workbench - Advanced Features]] plugin, and [[predictive-intelligence-landing|Predictive Intelligence]] plugin are all installed and activated on your instance.
+-   Make sure that the NLU Workbench plugin, NLU Workbench - Core plugin, NLU Workbench - Advanced Features plugin, and Predictive Intelligence plugin are all installed and activated on your instance.
 -   You can resolve conflicts for Virtual Agent and AI Search models.
 -   Role required: nlu\_admin or admin. When assigned to a model, the nlu\_editor can resolve intent issues for that model.
 
 ## About this task
 
-When a trained model contains intents with issues, the issue cards are displayed on the intents tab of **[[managing-model-content|Build and train your model]]** page. Select each card to filter the list of intents for that issue. \[Omitted image "resolve-intent-issues001V.png"\] Alt text: In the Build and train your model phase, the highlighted cards notify the user about several issues with this model's intents.
+When a trained model contains intents with issues, the issue cards are displayed on the intents tab of **Build and train your model** page. Select each card to filter the list of intents for that issue. \[Omitted image "resolve-intent-issues001V.png"\] Alt text: In the Build and train your model phase, the highlighted cards notify the user about several issues with this model's intents.
 
 The cards display different issues:
 
@@ -98,9 +98,3 @@ Utterances designated as `Irrelevant` or `Not relevant`may also conflict with tr
 
 Continue to resolve all conflicts. When finished, train your model to see a list of updated conflicts, if any. Resolve all intent issues prior to testing and publishing your model.
 
-## Related
-
-- [[nlu-landing|Natural Language Understanding]]
-- [[nlu-workbench-advanced-features|NLU Workbench - Advanced Features]]
-- [[predictive-intelligence-landing|Predictive Intelligence]]
-- [[managing-model-content|Build and train your model]]

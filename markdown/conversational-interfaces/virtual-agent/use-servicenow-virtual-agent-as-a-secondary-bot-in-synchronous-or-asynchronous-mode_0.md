@@ -19,9 +19,9 @@ Use ServiceNow Virtual Agent as a secondary bot in synchronous or asynchronous m
 You can use ServiceNow Virtual Agent as a secondary bot in synchronous or asynchronous mode. See [Enable synchronous mode on the secondary ServiceNow Virtual Agent instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/enable-sync-mode-secondary-sn-bot.md) or [Enable asynchronous mode on the secondary ServiceNow Virtual Agent instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/enable-async-mode-secondary-sn-bot.md).
 
 -   **[Enable synchronous mode on the secondary ServiceNow Virtual Agent instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/enable-sync-mode-secondary-sn-bot.md)**  
-[[enable-sync-mode-secondary-sn-bot|Enable synchronous mode on the secondary ServiceNow Virtual Agent instance]] to use ServiceNow® [[virtual-agent-landing-page|Virtual Agent]] as a secondary bot with Virtual Agent Bot Interconnect.
+Enable synchronous mode on the secondary ServiceNow Virtual Agent instance to use ServiceNow® Virtual Agent as a secondary bot with Virtual Agent Bot Interconnect.
 -   **[Enable asynchronous mode on the secondary ServiceNow Virtual Agent instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/enable-async-mode-secondary-sn-bot.md)**  
-[[enable-async-mode-secondary-sn-bot|Enable asynchronous mode on the secondary ServiceNow Virtual Agent instance]] to use ServiceNow® Virtual Agent as a secondary bot with Virtual Agent Bot Interconnect.
+Enable asynchronous mode on the secondary ServiceNow Virtual Agent instance to use ServiceNow® Virtual Agent as a secondary bot with Virtual Agent Bot Interconnect.
 
 **Parent Topic:**[Using ServiceNow Virtual Agent as a secondary bot with Virtual Agent Bot Interconnect](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/using-sn-secondary-bot-with-sn-primary.md)
 
@@ -29,8 +29,3 @@ You can use ServiceNow Virtual Agent as a secondary bot in synchronous or asynch
 
 **Next topic:**[Enable synchronous mode on the secondary ServiceNow Virtual Agent instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/enable-sync-mode-secondary-sn-bot.md)
 
-## Related
-
-- [[enable-sync-mode-secondary-sn-bot|Enable synchronous mode on the secondary ServiceNow Virtual Agent instance]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[enable-async-mode-secondary-sn-bot|Enable asynchronous mode on the secondary ServiceNow Virtual Agent instance]]

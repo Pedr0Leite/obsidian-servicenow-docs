@@ -14,7 +14,7 @@ breadcrumb: [Global text search suggestions, Global search finds records from mu
 
 # Configure "Did you mean?" suggestions
 
-The Knowledge Base and global text searches can provide "Did you mean?" suggestions. Suggestions appear if a search doesn't return any [[hs-results|results]] and an alternate spelling or similar recent search does. This feature is disabled by default.
+The Knowledge Base and global text searches can provide "Did you mean?" suggestions. Suggestions appear if a search doesn't return any results and an alternate spelling or similar recent search does. This feature is disabled by default.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-Set [[r_SetArchiveRuleProcessingBehavior|system properties]] to enable "Did you mean?" suggestions in the Knowledge Base and legacy global search tools.
+Set system properties to enable "Did you mean?" suggestions in the Knowledge Base and legacy global search tools.
 
 ## Procedure
 
@@ -44,7 +44,3 @@ Set [[r_SetArchiveRuleProcessingBehavior|system properties]] to enable "Did you 
 
 [Update a type-ahead suggestion]()
 
-## Related
-
-- [[hs-results|Results]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

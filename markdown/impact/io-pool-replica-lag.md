@@ -18,7 +18,7 @@ This may be an indication that a transaction committed on the primary may not ye
 
 This number should ideally always be 0; however, a non-zero value usually indicates some workload that is performing an excessive amount of inserts, updates, and deletes to the database, causing a delay in processing the transaction bin logs on the standby or read replica database.
 
-**Parent Topic:**[[instance-observer-ovr-metric|Overview of Instance Observer metrics]]
+**Parent Topic:**[Overview of Instance Observer metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/instance-observer-ovr-metric.md)
 
 **Related topics**  
 
@@ -27,13 +27,13 @@ This number should ideally always be 0; however, a non-zero value usually indica
 
 [Anomaly insights]()
 
-[Feature [[io-availability|availability]] based on package]()
+[Feature availability based on package]()
 
 [Auriga Intelligent Alert report]()
 
 [Transaction or response metrics]()
 
-[Database [[instance-observer-performance|performance]] metrics]()
+[Database performance metrics]()
 
 [Semaphores performance metrics]()
 
@@ -63,8 +63,3 @@ This number should ideally always be 0; however, a non-zero value usually indica
 
 [Instance Data Replication]()
 
-## Related
-
-- [[instance-observer-ovr-metric|Overview of Instance Observer metrics]]
-- [[io-availability|Availability]]
-- [[instance-observer-performance|Performance]]

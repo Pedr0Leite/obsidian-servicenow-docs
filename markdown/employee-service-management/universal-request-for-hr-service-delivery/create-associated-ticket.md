@@ -14,11 +14,11 @@ breadcrumb: [Use, Universal Request, Employee Service Management]
 
 # Create associated ticket for primary ticket of UR
 
-Agent, working on the primary ticket, requests other departments for assistance in resolving a [[ur-landing-limitedaccess|universal request]] \(UR\) by creating associated tickets for the UR. Multiple departments can work simultaneously on these associated tickets. These associated tickets are independent of the UR state flow.
+Agent, working on the primary ticket, requests other departments for assistance in resolving a universal request \(UR\) by creating associated tickets for the UR. Multiple departments can work simultaneously on these associated tickets. These associated tickets are independent of the UR state flow.
 
 ## Before you begin
 
-Configure the **sn\_uni\_req.associated\_ticket** property in the **[[ur-properties|Universal Request properties]]** page to determine how to handle the creation of the associated tickets. For more information, see [Universal Request properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-properties.md).
+Configure the **sn\_uni\_req.associated\_ticket** property in the **Universal Request properties** page to determine how to handle the creation of the associated tickets. For more information, see [Universal Request properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-properties.md).
 
 Role required: agent part of the assignment group of the primary ticket or assigned to agent
 
@@ -31,7 +31,7 @@ The following are some key highlights.
 -   Pass on the context of the request directly to the other department using the pop-up when creating an associated ticket.
 -   Configure the information to be copied from UR to the Associated ticket in Mappings configuration.
 -   Agents work on the associated ticket even after the closure of primary ticket / UR as associated tickets are independent of the UR state flow.
--   Configure the Associated ticket tab configuration to view and track the [[activity-lxp|activity]] of associated tickets from the standard ticket page.
+-   Configure the Associated ticket tab configuration to view and track the activity of associated tickets from the standard ticket page.
 
 ## Procedure
 
@@ -63,8 +63,3 @@ The following are some key highlights.
 
 **Parent Topic:**[Using Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/using-ur.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[ur-properties|Universal Request properties]]
-- [[activity-lxp|Activity]]

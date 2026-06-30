@@ -14,7 +14,7 @@ breadcrumb: [Assistant Designer bot responses, Assistant Designer interface refe
 
 # Image bot response control
 
-Use the Image bot response control in a [[virtual-agent-landing-page|Virtual Agent]] topic to upload and display an image from a URL link. The image aspect ratio determines how the image is sized in the bot chat bubble.
+Use the Image bot response control in a Virtual Agent topic to upload and display an image from a URL link. The image aspect ratio determines how the image is sized in the bot chat bubble.
 
 ## Image bot response control properties
 
@@ -124,6 +124,3 @@ Image bot response output
 </td></tr></tbody>
 </table>**Parent Topic:**[Assistant Designer bot responses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-bot-responses.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

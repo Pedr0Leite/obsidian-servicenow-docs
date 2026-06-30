@@ -25,7 +25,7 @@ Role required: sn\_align\_ws.spw\_capacity\_user
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace**.
+1.  Navigate to **Workspaces** &gt; **Portfolio Planning Workspace**.
 
 2.  Select the **Manage resource capacity** option \(\[Omitted image "cp-manage-resource-capacity-icon.png"\] Alt text: Manage resource capacity option.\).
 
@@ -83,6 +83,3 @@ Activate a schedule job to automatically generate the capacity details of your r
 
 [Use Capacity Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/using-cap-planning-screen-pp.md) to view the resource capacity, resource-to-work mapping and re-prioritize resource allocations to effective execute your prioritized planning items.
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

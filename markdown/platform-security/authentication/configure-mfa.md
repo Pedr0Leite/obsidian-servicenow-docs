@@ -14,11 +14,11 @@ breadcrumb: [Multi-factor authentication, Authentication, Access Management]
 
 # Configuring Multi-factor Authentication
 
-Configure [[mfa-landing|multi-factor authentication]] \(MFA\) to improve your [[users|users]] security posture when using ServiceNow.
+Configure multi-factor authentication \(MFA\) to improve your users security posture when using ServiceNow.
 
 Firstly, to implement MFA, determine the MFA [verification methods](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-methods.md) based on business and user needs.
 
-After identifying the needs, with ServiceNow's MFA, you can select the right method or the combination of it for your users. Further, you can also use the various multi-factor authentication properties to enable, disable, and configure MFA to further enhance the user's MFA experience based on the [[c_Authentication|authentication]] criteria.
+After identifying the needs, with ServiceNow's MFA, you can select the right method or the combination of it for your users. Further, you can also use the various multi-factor authentication properties to enable, disable, and configure MFA to further enhance the user's MFA experience based on the authentication criteria.
 
 Here's some of the important topics related to configuring MFA:
 
@@ -26,8 +26,3 @@ Here's some of the important topics related to configuring MFA:
 -   [Multi-factor Authentication system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-properties.md)
 -   [Multi-factor Authentication criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/multi-factor-authentication-criteria.md)
 
-## Related
-
-- [[mfa-landing|Multi-factor authentication]]
-- [[users|Users]]
-- [[c_Authentication|Authentication]]

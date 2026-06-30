@@ -12,7 +12,7 @@ breadcrumb: [Configure, Financial Services Operations \(FSO\)]
 
 # Create or modify record producers
 
-Review the record producers that are installed with [[fso-overview|Financial Services]] Operations applications. You can modify the predefined record producers or add new ones to define how the request forms appear in the Banking Service catalog or Consumer Service portal, or both.
+Review the record producers that are installed with Financial Services Operations applications. You can modify the predefined record producers or add new ones to define how the request forms appear in the Banking Service catalog or Consumer Service portal, or both.
 
 ## Before you begin
 
@@ -20,9 +20,9 @@ Ensure that the scope is selected for the application for which you are creating
 
 Role required: Based on the application that you are configuring, you need the following roles:
 
--   For [[payment-ops-landing-page|Financial Services Payment Operations]]: sn\_bom\_payment.admin and admin
--   For [[card-ops-landing-page|Financial Services Card Operations]]: sn\_bom\_card.admin and admin
--   For [[fso-complaint-mgmt-landing-page|Financial Services Complaint Management]]: sn\_bom\_compl.admin and admin
+-   For Financial Services Payment Operations: sn\_bom\_payment.admin and admin
+-   For Financial Services Card Operations: sn\_bom\_card.admin and admin
+-   For Financial Services Complaint Management: sn\_bom\_compl.admin and admin
 -   For Financial Services Business Deposit Operations: sn\_bom\_deposit\_b2b.admin and admin
 -   For Financial Services Personal Deposit Operations: sn\_bom\_deposit\_b2c.admin and admin
 -   For Financial Services Business Loan Operations: sn\_bom\_loan\_b2b.admin and admin
@@ -32,7 +32,7 @@ Role required: Based on the application that you are configuring, you need the f
 
 A record producer enables users to submit banking requests from the Banking Service catalog and Consumer Service portal and stores the requested information as a record in the associated table.
 
-For information on record producers that are available with Financial Services Operations, see [[record-producers-fso-applications|Record producers for Financial Services Operations applications]].
+For information on record producers that are available with Financial Services Operations, see [Record producers for Financial Services Operations applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/record-producers-fso-applications.md).
 
 ## Procedure
 
@@ -153,10 +153,4 @@ Name of the catalog category in which the record producer should appear.
 
 7.  Click **Update**.
 
-## Related
 
-- [[record-producers-fso-applications|Record producers for Financial Services Operations applications]]
-- [[fso-overview|Financial Services]]
-- [[payment-ops-landing-page|Financial Services Payment Operations]]
-- [[card-ops-landing-page|Financial Services Card Operations]]
-- [[fso-complaint-mgmt-landing-page|Financial Services Complaint Management]]

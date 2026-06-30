@@ -14,7 +14,7 @@ breadcrumb: [Integrate with push connectors, Configure a push connector, Configu
 
 # Integrate Dynatrace platform events
 
-Integrate Dynatrace with [[c_EM|Event Management]] by adding Dynatrace as an authenticated data source.
+Integrate Dynatrace with Event Management by adding Dynatrace as an authenticated data source.
 
 ## What authentication is used
 
@@ -27,11 +27,7 @@ There are two methods of authentication:
 
 Do not use the evidence details timestamp as a substitute for the problem start time. The evidence timestamp refers to individual contributing events within the problem. It is part of the Root Cause Analysis \(RCA\) and does not indicate the start or duration of the overall problem.
 
-Starting from the Xanadu release, the base system rules provided with the connector, which you have not previously used \(i.e., neither activated, deactivated, nor modified\), will now have the **Apply additional matching rules** check box set to true. Previously, this check box was disabled. This change allows you to execute more [[create-event-rules|event rules]] or automation using the same filter conditions for the connector.
+Starting from the Xanadu release, the base system rules provided with the connector, which you have not previously used \(i.e., neither activated, deactivated, nor modified\), will now have the **Apply additional matching rules** check box set to true. Previously, this check box was disabled. This change allows you to execute more event rules or automation using the same filter conditions for the connector.
 
 **Note:** This feature applies only to active event rules.
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[create-event-rules|Event rules]]

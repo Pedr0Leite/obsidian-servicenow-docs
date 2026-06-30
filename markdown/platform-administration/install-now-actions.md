@@ -16,14 +16,14 @@ As an administrator for both ServiceNow and the third-party application, find an
 
 ## Before you begin
 
-To activate this feature, request the Messaging Notification plugin \(com.glide.notification.messaging\) through the HI Customer Service system. This plugin activates related plugins if they are not already active. For more information, see [[request-messaging-notification|Request the Messaging Notification plugin]].
+To activate this feature, request the Messaging Notification plugin \(com.glide.notification.messaging\) through the HI Customer Service system. This plugin activates related plugins if they are not already active. For more information, see [Request the Messaging Notification plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/request-messaging-notification.md).
 
 Roles required:
 
 -   Admin or messaging\_admin in ServiceNow
 -   Administrator for Slack or Teams
 
-**Parent Topic:**[[messaging-integration|Notifications in messaging applications]]
+**Parent Topic:**[Notifications in messaging applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/messaging-integration.md)
 
 ## Install the Now Actions messaging app for Slack
 
@@ -119,11 +119,5 @@ Role required: admin.
 
 ### What to do next
 
-To receive a ServiceNow notification in Microsoft Teams, create a message and a notification. See [[configure-message-content|Configure message content]] and [[create-messaging-notification|Create a messaging notification]].
+To receive a ServiceNow notification in Microsoft Teams, create a message and a notification. See [Configure message content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-message-content.md) and [Create a messaging notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-messaging-notification.md).
 
-## Related
-
-- [[request-messaging-notification|Request the Messaging Notification plugin]]
-- [[messaging-integration|Notifications in messaging applications]]
-- [[configure-message-content|Configure message content]]
-- [[create-messaging-notification|Create a messaging notification]]

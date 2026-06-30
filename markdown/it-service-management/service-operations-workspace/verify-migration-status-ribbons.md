@@ -14,11 +14,11 @@ breadcrumb: [Ribbons migration from ITSM Agent Workspace to Service Operations W
 
 # Perform post-migration tasks for ribbons
 
-Verify that the ribbons in Service Operations Workspace \(SOW\) are consistent with the ribbons in ITSM Agent Workspace and the ribbons are ready for use in SOW. You can update the [[migrated-records|migrated]] ribbon [[settings-mobile|settings]] in SOW based on your requirements.
+Verify that the ribbons in Service Operations Workspace \(SOW\) are consistent with the ribbons in ITSM Agent Workspace and the ribbons are ready for use in SOW. You can update the migrated ribbon settings in SOW based on your requirements.
 
 ## Before you begin
 
-When performing the migration, you must have selected the **Ribbons in the record form** option for ITSM Agent Workspace features. For example, the **Ribbons in the record form** option for [[c_IncidentManagement|Incident Management]]. For information about the migration process, see [Migrate from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/migrate-itsm-agent-workspace-to-sow.md).
+When performing the migration, you must have selected the **Ribbons in the record form** option for ITSM Agent Workspace features. For example, the **Ribbons in the record form** option for Incident Management. For information about the migration process, see [Migrate from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/migrate-itsm-agent-workspace-to-sow.md).
 
 Role required: admin
 
@@ -59,8 +59,3 @@ At the end of the migration process, a confirmation message specifies if the mig
 
 **Parent Topic:**[Ribbons migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/ribbons-migration-itsm-aw-sow.md)
 
-## Related
-
-- [[migrated-records|Migrated]]
-- [[settings-mobile|Settings]]
-- [[c_IncidentManagement|Incident Management]]

@@ -136,11 +136,11 @@ A tag for an individual credential for a JMS activity in an Orchestration workfl
 
 </td></tr><tr><td id="d156085e294">
 
-**Required [[mid-server-capabilities|MID Server capabilities]]**
+**Required MID Server capabilities**
 
 </td><td>
 
-[[mid-server-landing|MID Server]] to use, by capabilities.
+MID Server to use, by capabilities.
 
 </td></tr></tbody>
 </table>
@@ -191,7 +191,7 @@ A version number for the file, if one is available.
 
 </td><td>
 
-Location of the JAR file for [[reference|reference]] purposes. Source information is not used by the system.
+Location of the JAR file for reference purposes. Source information is not used by the system.
 
 </td></tr><tr><td id="d156085e483">
 
@@ -204,7 +204,7 @@ Short description of the JAR file and its purpose in the instance.
 </td></tr></tbody>
 </table>3.  Click the paper clip icon in the banner and attach the JMS driver jar file.
 
-    The JMS driver jar file should be available as part of JMS provider installation. Few JMS vendors make them available as a separate product. Refer to the JMS provider documentation to determine which JMS client driver jar files require the client applications to [[c_Connect|connect]] to the JMS provider. For example, if you are trying to connect to ActiveMQ V5.10 \(JMS provider\), you need the `activemq-all-5.10.1.jar` file.
+    The JMS driver jar file should be available as part of JMS provider installation. Few JMS vendors make them available as a separate product. Refer to the JMS provider documentation to determine which JMS client driver jar files require the client applications to connect to the JMS provider. For example, if you are trying to connect to ActiveMQ V5.10 \(JMS provider\), you need the `activemq-all-5.10.1.jar` file.
 
 4.  Navigate to **Orchestration** &gt; **Credentials &amp; Connections** &gt; **JMS Connection Factory**.
 
@@ -442,7 +442,7 @@ Array of hashmap
 
 </td><td>
 
-Capability values used to select the MID Server. For more information, see [MID Server capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown). If there are additional capabilities that are assigned by value, use this example to customize the [[c_MIDServerSelector|MID Server selection]]:```
+Capability values used to select the MID Server. For more information, see [MID Server capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown). If there are additional capabilities that are assigned by value, use this example to customize the MID Server selection:```
 var valueCapability = {'NEW_MID_CAPABIILTY':'NEW_MID_CAPABILITY_VALUE'};
 executionParam.valueCapabilities.push(valueCapability);
 ```
@@ -461,10 +461,3 @@ Use these parameters to create a post-processing script.
 |EccSysID|eccSysID|String|Contains the reference ID associated with the ECC Queue input message returned by the activity.|
 |ErrorMessages|errorMessages|String|Contains any error messages retrieved from the JMS command. This value is **null** if there are no error messages.|
 
-## Related
-
-- [[mid-server-capabilities|MID Server capabilities]]
-- [[mid-server-landing|MID Server]]
-- [[reference|Reference]]
-- [[c_Connect|Connect]]
-- [[c_MIDServerSelector|MID Server selection]]

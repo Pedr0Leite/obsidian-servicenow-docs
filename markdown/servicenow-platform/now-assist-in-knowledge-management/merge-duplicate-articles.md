@@ -14,7 +14,7 @@ breadcrumb: [Use Now Assist in Knowledge Management, Now Assist in Knowledge Man
 
 # Merge duplicate articles
 
-Merge multiple duplicate knowledge articles into a single, consolidated article [[using-now-assist-in-km|using Now Assist in Knowledge Management]]. This task helps knowledge managers reduce redundancy, preserve source article traceability, and verify readers access the most accurate and recent information.
+Merge multiple duplicate knowledge articles into a single, consolidated article using Now Assist in Knowledge Management. This task helps knowledge managers reduce redundancy, preserve source article traceability, and verify readers access the most accurate and recent information.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Ensure to configure and activate Identify duplicate articles and Merge duplicate
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[knowledge-center|Knowledge Center]]**.
+1.  Navigate to **All** &gt; **Knowledge Center**.
 
 2.  In the **Potential duplicates** card, select **View all** to view the list of potential duplicate articles.
 
@@ -58,7 +58,3 @@ A new article is created from the merged set of articles.
 
 **Parent Topic:**[Using Now Assist in Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/using-now-assist-in-km.md)
 
-## Related
-
-- [[using-now-assist-in-km|Using Now Assist in Knowledge Management]]
-- [[knowledge-center|Knowledge Center]]

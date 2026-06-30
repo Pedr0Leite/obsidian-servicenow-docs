@@ -17,7 +17,7 @@ Computer Telephony Integration \(CTI\) is accomplished by the CTI client on the 
 The URL must have the following components:
 
 1.  The base URL. For example: `https://<instance name>.service-now.com/cti.do?` would get to the instance and ask for CTI processing. The URL is accessible to authenticated users only.
-2.  [[r_DirectJDBCProbeParameters|Parameters]] identify what parts of the incident form to display.
+2.  Parameters identify what parts of the incident form to display.
     -   **sysparm\_caller\_name**=name where 'name' is the name for a user.
     -   **sysparm\_caller\_phone**=phone where 'phone' is the user's phone number. Either a name or phone should be provided if you want to identify the user on the call. Other parameters may be supplied to identify the user as discussed later.
     -   **sysparm\_task\_id**=taskID where 'taskID' identifies an existing issue that the caller is calling about.
@@ -53,9 +53,5 @@ The CTI Processing script does the following:
     2.  If the user does not have any open incidents, the popup screen shows a new incident with information provided in the URL shown.
 4.  If a user was not identified and a taskID is given and the taskID exists, then nothing happens. The code to handle this case is commented out. If you want the popup screen to show the details for the task, you must modify the CTI Processing script to put the functionality in a separate non-client-callable function.
 
-**Parent Topic:**[[r_SupportedIntegrationInterfaces|Supported integration interfaces]]
+**Parent Topic:**[Supported integration interfaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_SupportedIntegrationInterfaces.md)
 
-## Related
-
-- [[r_SupportedIntegrationInterfaces|Supported integration interfaces]]
-- [[r_DirectJDBCProbeParameters|Parameters]]

@@ -14,7 +14,7 @@ breadcrumb: [Service Level Management reference, Service Level Management, IT Se
 
 # Service Level Agreement \(Legacy\) engines
 
-If you are on an earlier version of the SLA engine, you can upgrade to the 2011 engine to make use of the complete [[service-level-mgmt-landing-page|service level management]] functionality.
+If you are on an earlier version of the SLA engine, you can upgrade to the 2011 engine to make use of the complete service level management functionality.
 
 The SLA engine has three versions:
 
@@ -64,6 +64,3 @@ Escalation engine is replaced with 2011 SLA Engine.
 
 **Parent Topic:**[Service Level Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/service-level-management-reference.md)
 
-## Related
-
-- [[service-level-mgmt-landing-page|Service Level Management]]

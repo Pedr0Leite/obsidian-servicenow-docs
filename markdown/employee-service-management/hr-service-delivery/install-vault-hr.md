@@ -26,7 +26,7 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
-2.  Find the [[vault-hr-service-delivery|ServiceNow Vault for HR Service Delivery]] \(com.sn\_hr\_vault\) application using the filter criteria and search bar.
+2.  Find the ServiceNow Vault for HR Service Delivery \(com.sn\_hr\_vault\) application using the filter criteria and search bar.
 
     You can search for the application by its name or ID. If you cannot find the application, you may have to request it from the ServiceNow Store.
 
@@ -47,6 +47,3 @@ Role required: admin
 
 **Parent Topic:**[ServiceNow Vault for HR Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/vault-hr-service-delivery.md)
 
-## Related
-
-- [[vault-hr-service-delivery|ServiceNow Vault for HR Service Delivery]]

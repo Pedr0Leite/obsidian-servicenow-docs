@@ -14,7 +14,7 @@ breadcrumb: [Managing multiple releases through release bundles, Manage releases
 
 # Track multiple releases from a release bundle
 
-Track the progress of releases in a release bundle concurrently to improve efficiency and streamline the [[c_ITILReleaseManagement|release management]] process. You can also identify dependencies and potential conflicts in your releases and coordinate with team members working on different releases.
+Track the progress of releases in a release bundle concurrently to improve efficiency and streamline the release management process. You can also identify dependencies and potential conflicts in your releases and coordinate with team members working on different releases.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_dpr\_model.release\_coordinator, sn\_dpr\_model.product\_mana
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[dpr-workspace|Digital Product Release Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Digital Product Release Workspace**.
 
 2.  Select the releases icon \(\[Omitted image "dpr-icon-release.png"\] Alt text: Releases icon.\), and then select **Bundles**.
 
@@ -65,7 +65,3 @@ Role required: sn\_dpr\_model.release\_coordinator, sn\_dpr\_model.product\_mana
 
 [Create a release bundle]()
 
-## Related
-
-- [[c_ITILReleaseManagement|Release Management]]
-- [[dpr-workspace|Digital Product Release Workspace]]

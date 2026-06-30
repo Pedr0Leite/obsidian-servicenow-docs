@@ -20,7 +20,7 @@ Role required: sn\_rcl\_claim\_mgmt.recall\_manager
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace** &gt; **Lists** &gt; **[[mco-recall-management|Recall Management]]** &gt; **My Campaigns** &gt; **Impacted asset**.
+1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace** &gt; **Lists** &gt; **Recall Management** &gt; **My Campaigns** &gt; **Impacted asset**.
 
 2.  Select **New**.
 
@@ -36,7 +36,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[mco-rcl-clms|Recall campaign]]
+Recall campaign
 
 </td><td>
 
@@ -52,7 +52,7 @@ Recall campaign phase that you want to recall.
 
 </td></tr><tr><td>
 
-[[mco-use-repair-claim|Repair claim]] case
+Repair claim case
 
 </td><td>
 
@@ -78,11 +78,5 @@ Install base item.
 </table>4.  Select **Save**.
 
 
-**Parent Topic:**[[mco_recall_campaign_phases|Adding a sub-phase]]
+**Parent Topic:**[Adding a sub-phase](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco_recall_campaign_phases.md)
 
-## Related
-
-- [[mco_recall_campaign_phases|Adding a sub-phase]]
-- [[mco-recall-management|Recall management]]
-- [[mco-rcl-clms|Recall campaign]]
-- [[mco-use-repair-claim|Repair claim]]

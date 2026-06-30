@@ -37,8 +37,5 @@ Role required: admin
 
 ## Result
 
-The questions are shown on the first page of the [[gsp-overview-public-sector|Government Service Portal]] intake page.
+The questions are shown on the first page of the Government Service Portal intake page.
 
-## Related
-
-- [[gsp-overview-public-sector|Government Service Portal]]

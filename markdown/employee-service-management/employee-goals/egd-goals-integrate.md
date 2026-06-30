@@ -14,9 +14,9 @@ breadcrumb: [Employee Goals, Growth Experiences, HR Service Delivery, Employee S
 
 # Integrations for Employee Goals
 
-Extend the [[egd-goals-landing|Employee Goals]] application's capabilities by integrating with your organization's human capital management \(HCM\) system to make employee goals accessible while using the Talent Development suite of applications.
+Extend the Employee Goals application's capabilities by integrating with your organization's human capital management \(HCM\) system to make employee goals accessible while using the Talent Development suite of applications.
 
-This integration enables the Employee Goals app to import goal management data from your HCM system to the Employee Goals \[sn\_egd\_goals\_employee\_goal\] table. Once the goal data is imported, employees in your organization can view and track their goals from the [[employee-center-landing-page|Employee Center]].
+This integration enables the Employee Goals app to import goal management data from your HCM system to the Employee Goals \[sn\_egd\_goals\_employee\_goal\] table. Once the goal data is imported, employees in your organization can view and track their goals from the Employee Center.
 
 The Employee Goals app provides an integration with the following HCM systems:
 
@@ -32,7 +32,4 @@ The Employee Goals app provides an integration with the following HCM systems:
 
     Integrate Workday with the Employee Goals app to access goals seamlessly from the Employee Center. For more information about the integration process with Workday, refer to [Workday HR Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/workday-hr-spoke.md).
 
-## Related
 
-- [[egd-goals-landing|Employee Goals]]
-- [[employee-center-landing-page|Employee Center]]

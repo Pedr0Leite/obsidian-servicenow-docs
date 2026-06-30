@@ -14,7 +14,7 @@ breadcrumb: [Create a legal entity and enhance digital resilience data, Use digi
 
 # Create New Company form
 
-On the [[create-new-legal-entity-form|Create New Company form]], fill in the fields for the legal entity.
+On the Create New Company form, fill in the fields for the legal entity.
 
 <table id="table_cyz_r34_ycd"><thead><tr><th>
 
@@ -389,7 +389,3 @@ Score that reflects the probability and impact of a risk event. This field is au
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[create-new-legal-entity-form|Create New Company form]]

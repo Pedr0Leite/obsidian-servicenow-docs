@@ -15,21 +15,21 @@ breadcrumb: [Use, AI Risk and Compliance, Governance, Risk, and Compliance]
 
 # Perform risk assessments on AI systems
 
-Perform risk assessments on AI systems to evaluate the likelihood and impact of potential risks using the [[ai-risk-and-compliance|AI Risk and Compliance]] application.
+Perform risk assessments on AI systems to evaluate the likelihood and impact of potential risks using the AI Risk and Compliance application.
 
 ## Before you begin
 
-The Advanced Risk application must be installed to perform risk assessment on the [[ai-system-airc|AI systems]].
+The Advanced Risk application must be installed to perform risk assessment on the AI systems.
 
 Role required: sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_analyst
 
 ## About this task
 
-To confirm risk-based assessments on [[ai-assets-airc|AI assets]] and risk roll-up function correctly, the **Migrate to Advanced [[risk-assessments|Risk Assessments]]** property must be enabled. If the property is set to **No**, risk score roll-up does not occur. For more information, see [Set up Advanced Risk assessments properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/advanced-risk-assessments-properties-airc.md).
+To confirm risk-based assessments on AI assets and risk roll-up function correctly, the **Migrate to Advanced Risk Assessments** property must be enabled. If the property is set to **No**, risk score roll-up does not occur. For more information, see [Set up Advanced Risk assessments properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/advanced-risk-assessments-properties-airc.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **AI Risk and Compliance** &gt; **[[ai-risk-and-compliance-workspace|AI Risk and Compliance Workspace]]**.
+1.  Navigate to **All** &gt; **AI Risk and Compliance** &gt; **AI Risk and Compliance Workspace**.
 
 2.  Select the list icon \[Omitted image "list-icon-airc-ws.png"\] Alt text:.
 
@@ -51,7 +51,7 @@ To confirm risk-based assessments on [[ai-assets-airc|AI assets]] and risk roll-
 
 7.  To initiate the assessment, select **Start assessment**.
 
-8.  Respond to all the risk assessment questions or [[factors|factors]].
+8.  Respond to all the risk assessment questions or factors.
 
     Your responses are automatically saved, and the overall risk score is calculated.
 
@@ -74,11 +74,3 @@ To confirm risk-based assessments on [[ai-assets-airc|AI assets]] and risk roll-
 
 **Parent Topic:**[Using AI Risk and Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/using-ai-risk-and-compliance.md)
 
-## Related
-
-- [[ai-risk-and-compliance|AI Risk and Compliance]]
-- [[ai-system-airc|AI systems]]
-- [[ai-assets-airc|AI assets]]
-- [[risk-assessments|risk assessments]]
-- [[ai-risk-and-compliance-workspace|AI Risk and Compliance workspace]]
-- [[factors|factors]]

@@ -14,7 +14,7 @@ breadcrumb: [Customizing Lists in Portfolio Planning Workspace, Configure, Portf
 
 # Enable adding custom tables to the Lists menu
 
-Add the **New** action button to the APW List Menu Configuration page, so that you can add custom tables to the Lists menu in [[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace.
+Add the **New** action button to the APW List Menu Configuration page, so that you can add custom tables to the Lists menu in Portfolio Planning Workspace.
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ The **New** action button is added to the APW List Menu Configuration page.
 
 [Customize Lists in Portfolio Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/customize-lists-in-portfolio-planning-workspace.md).
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

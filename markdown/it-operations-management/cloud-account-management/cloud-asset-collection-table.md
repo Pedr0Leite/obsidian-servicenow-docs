@@ -16,7 +16,7 @@ breadcrumb: [Cloud Account Management reference, Cloud Account Management, ITOM 
 
 Stores metadata of cloud assets collected from providers for IT operations.
 
-A Cloud Asset Collection Table is a structured repository in [[r_ITOMApplications|IT Operations Management]] that stores and manages metadata of cloud resources collected from multiple cloud service providers. The table stores all discovered or synced cloud assets, such as virtual machines, storage buckets, and databases after collection from cloud environments.
+A Cloud Asset Collection Table is a structured repository in IT Operations Management that stores and manages metadata of cloud resources collected from multiple cloud service providers. The table stores all discovered or synced cloud assets, such as virtual machines, storage buckets, and databases after collection from cloud environments.
 
 <table id="table_yk2_dlc_kgc"><thead><tr><th>
 
@@ -89,6 +89,3 @@ Free-text field for notes or context about the configuration.
 </td></tr></tbody>
 </table>**Parent Topic:**[Cloud Account Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/cam-reference.md)
 
-## Related
-
-- [[r_ITOMApplications|IT Operations Management]]

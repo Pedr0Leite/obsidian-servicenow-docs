@@ -27,7 +27,7 @@ A CI is in maintenance when:
 
 <table><thead><tr><th>
 
-How CIs in Maintenance appear in [[c_EM|Event Management]]
+How CIs in Maintenance appear in Event Management
 
 </th><th>
 
@@ -87,6 +87,3 @@ All alerts on a CI with an inactive change request and **In Maintenance** has no
 
 [Create maintenance rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/create-maintenance-rule.md)
 
-## Related
-
-- [[c_EM|Event Management]]

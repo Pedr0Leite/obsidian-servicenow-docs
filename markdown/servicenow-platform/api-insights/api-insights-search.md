@@ -14,7 +14,7 @@ breadcrumb: [Manage API data, API Insights, Configuration Management Database \(
 
 # Search for an API or an API component in API Insights
 
-Search for an API or an API component available within your organization in the [[api-insights|API Insights]] workspace.
+Search for an API or an API component available within your organization in the API Insights workspace.
 
 ## Before you begin
 
@@ -35,6 +35,4 @@ Role required: sn\_api\_insights\_ws.api\_mgmt\_architect
     |**APIs**|List of APIs that match your search query, including their management platform, life cycle stage, and most recent discovery date.|
     |**API components**|List of individual components of APIs that match your search query, including their class, method, and URL.|
 
-## Related
 
-- [[api-insights|API Insights]]

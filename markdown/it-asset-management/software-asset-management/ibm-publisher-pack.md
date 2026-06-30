@@ -16,7 +16,7 @@ breadcrumb: [Supported software publisher licenses, Software Asset Management, I
 
 Use the Software Asset Management publisher pack for IBM to track and optimize licensing for your IBM software products. You can also use the publisher pack to track and optimize licensing for the Red Hat Enterprise Linux Server and Red Hat Enterprise Linux for Virtual Datacenters products.
 
-To use the IBM publisher pack, activate the [[c_SoftwareAssetMgmt|Software Asset Management]] Professional for IBM \(com.sn\_samp\_ibm\) [plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_RequSoftwareAssetMgmt.md).
+To use the IBM publisher pack, activate the Software Asset Management Professional for IBM \(com.sn\_samp\_ibm\) [plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_RequSoftwareAssetMgmt.md).
 
 The IBM publisher pack supports the following license metrics:
 
@@ -69,13 +69,9 @@ You can track and manage IBM licenses in both VMware vSphere environments and IB
 -   **[Software Publisher Analytics dashboard for IBM in Software Asset Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/dashboard-ibm.md)**  
 View compliance analysis results related to IBM on the Software Publisher Analytics dashboard in the Software Asset Management classic application.
 -   **[Publisher overview for IBM in the Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/publisher-overview-ibm.md)**  
-View license usage information related to IBM in the [[publisher-overview-ibm|publisher overview for IBM in the Software Asset Workspace]].
+View license usage information related to IBM in the publisher overview for IBM in the Software Asset Workspace.
 -   **[Software Asset Management for Red Hat Enterprise Linux](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/rhel-publisher-pack.md)**  
 Use the Software Asset Management publisher pack for IBM to track and optimize licensing for your Red Hat Enterprise Linux \(RHEL\) products.
 
 **Parent Topic:**[Supported software publisher licenses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sam-publisher-packs.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[publisher-overview-ibm|Publisher overview for IBM in the Software Asset Workspace]]

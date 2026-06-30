@@ -14,7 +14,7 @@ breadcrumb: [Configure, Portfolio Planning, Strategic Portfolio Management]
 
 # Portfolio Planning diagnostics
 
-Run diagnostic scans to identify and fix errors in the configuration and other common settings for [[portfolio-planning-app-landing-page|Portfolio Planning]] before your planning managers prioritize and roadmap their projects and demands.
+Run diagnostic scans to identify and fix errors in the configuration and other common settings for Portfolio Planning before your planning managers prioritize and roadmap their projects and demands.
 
 Portfolio Planning diagnostic scans help you find discrepancies by validating the configuration for the following:
 
@@ -123,7 +123,3 @@ Verifies if each existing portfolio plan created in your instance has a valid po
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

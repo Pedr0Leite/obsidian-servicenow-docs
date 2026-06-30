@@ -14,14 +14,14 @@ breadcrumb: [Legal Mobile, Legal Service Delivery, Legal and Contract Operations
 
 # Install Legal Mobile
 
-You can install the [[legal-mobile-overview|Legal Mobile]] application \(sn\_lg\_mobile\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed. This app makes [[legal-management-overview|Legal Service Delivery]] applications available on Now Mobile and Mobile Agent mobile apps.
+You can install the Legal Mobile application \(sn\_lg\_mobile\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed. This app makes Legal Service Delivery applications available on Now Mobile and Mobile Agent mobile apps.
 
 ## Before you begin
 
 -   Ensure that the Legal Mobile application and all of its associated store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
 -   Review the [Legal Mobile](https://store.servicenow.com/sn_appstore_store.do#!/store/application/4cd59db40f500010325a707566767e1a) application listing in the ServiceNow Store for information on dependencies, licensing or subscription requirements, and release compatibility.
 
-Install the [[legal-request-management-landing-page|Legal Request Management]] \(sn\_lg\_ops\) application before you install Legal Mobile application \(sn\_lg\_mobile\).
+Install the Legal Request Management \(sn\_lg\_ops\) application before you install Legal Mobile application \(sn\_lg\_mobile\).
 
 Role required: admin
 
@@ -41,8 +41,4 @@ Role required: admin
 
 4.  Select **Install**.
 
-## Related
 
-- [[legal-mobile-overview|Legal Mobile]]
-- [[legal-management-overview|Legal Service Delivery]]
-- [[legal-request-management-landing-page|Legal Request Management]]

@@ -15,14 +15,14 @@ breadcrumb: [Explore, Now Assist for Security Incident Response, Security Operat
 
 # Supporting information for Now Assist for Security Incident Response
 
-Get a quick overview of the important information that is related to the [[now-assist-security-incident-landing|Now Assist for Security Incident Response]] application.
+Get a quick overview of the important information that is related to the Now Assist for Security Incident Response application.
 
 ## Supported versions
 
 Version 2.0.1 of Now Assist for Security Incident Response supports:
 
--   legacy UI \(UI16\): [[sir-landing-page|Security Incident Response]] core application, v13.6.4
--   [[sir-workspace-landing-page|Security Incident Response Workspace]] \(SIR Workspace\), v1.7.0
+-   legacy UI \(UI16\): Security Incident Response core application, v13.6.4
+-   Security Incident Response Workspace \(SIR Workspace\), v1.7.0
 -   Now Assist for ServiceNow AI Platform® v6.0.1
 
 ## Supported user interfaces
@@ -65,9 +65,3 @@ Legacy UI16
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[now-assist-security-incident-landing|Now Assist for Security Incident Response]]
-- [[sir-landing-page|Security Incident Response]]
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]

@@ -14,7 +14,7 @@ breadcrumb: [Using Agent Workspace for HR Case Management, Agent Workspace, HR S
 
 # Create a bulk case request using Agent Workspace for HR Case Management
 
-Create bulk case requests through [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]] to create the same type of HR case for multiple employees without having to create the same case multiple times.
+Create bulk case requests through Agent Workspace for HR Case Management to create the same type of HR case for multiple employees without having to create the same case multiple times.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_hr\_core\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **Agent Workspace for HR Case Management**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **Agent Workspace for HR Case Management**.
 
 2.  Select the **Lists** icon \(\[Omitted image "agent-ws-hr-list-icon.png"\] Alt text: Lists icon\).
 
@@ -38,11 +38,11 @@ Role required: sn\_hr\_core\_admin
 
     The **Details**, **User segment groups** and **Cases created** tabs are displayed.
 
-7.  [[bulk-case-segment|Create a user segment group]].
+7.  Create a user segment group.
 
     For more information, see [Specify a user segment group for a bulk case request in Agent Workspace for HR Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/segment-group-aws.md).
 
-    **Note:** You can also configure fields that you want to view in the User segment group form by configuring fields in the Case Creation Configuration form. Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **Case Creation Configuration**.
+    **Note:** You can also configure fields that you want to view in the User segment group form by configuring fields in the Case Creation Configuration form. Navigate to **All** &gt; **HR Administration** &gt; **Case Creation Configuration**.
 
 8.  View details of your bulk case request by selecting the **Details** tab when your segment status changes to **Processed**.
 
@@ -52,9 +52,4 @@ Role required: sn\_hr\_core\_admin
 
 10. Select the **Cases created** tab to view a list of cases created.
 
-## Related
 
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[case-management-workspace|Case management]]
-- [[bulk-case-segment|Create a user segment group]]
-- [[c_AdministerHRServiceManagement|HR Administration]]

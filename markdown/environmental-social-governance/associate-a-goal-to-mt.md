@@ -45,8 +45,5 @@ You can add or remove goals from a material topic only when the material topic i
 
 The goal is mapped to the material topic. This goal can now track the progress toward your chosen theme or topic.
 
-**Parent Topic:**[[create-esg-goal|Create an Operational Sustainability Management \(formerly ESG Management\) goal]]
+**Parent Topic:**[Create an Operational Sustainability Management \(formerly ESG Management\) goal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/create-esg-goal.md)
 
-## Related
-
-- [[create-esg-goal|Create an Operational Sustainability Management \(formerly ESG Management\) goal]]

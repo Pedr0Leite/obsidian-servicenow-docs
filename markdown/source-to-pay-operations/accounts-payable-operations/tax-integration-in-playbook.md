@@ -14,7 +14,7 @@ breadcrumb: [Tax Engine Integration, Integrate, Accounts Payable Operations, Fin
 
 # Tax integration in playbook
 
-The [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] playbook enables AP specialists and tax specialists to perform invoice tax validation using [[tax-engine-integration|tax engine integration]]. Use the playbook for implementing and viewing the different stages of tax validation using the tax engine integration.
+The Accounts Payable Operations playbook enables AP specialists and tax specialists to perform invoice tax validation using tax engine integration. Use the playbook for implementing and viewing the different stages of tax validation using the tax engine integration.
 
 ## Before you begin
 
@@ -22,13 +22,13 @@ Role required: AP specialist, tax specialist
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Source-to-Pay Workspace**.
 
 2.  Select the list icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon\).
 
     A list of options within the workspace is displayed.
 
-3.  Select **[[invoices|Invoices]] &gt;****All invoices.**
+3.  Select **Invoices &gt;****All invoices.**
 
     You can create an invoice manually. For more information on invoices, see [Work with invoices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/work-with-invoices.md). Invoices can be entered manually or extracted using DocIntel. For more information on invoice extraction, see [Configure data extraction modes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/set-up-extraction-modes-di.md).
 
@@ -38,7 +38,7 @@ Role required: AP specialist, tax specialist
 
     1.  Select the **Review header** details.
 
-        Review the invoice header details and make any required changes. Tax mentioned in the invoice copy is entered or extracted as [[supplier|supplier]] tax \(editable\) at header level and the system tax is the sum total of system tax \(read only, derived from external tax engine\) for all the [[create-tax-lines-apo|tax lines]].
+        Review the invoice header details and make any required changes. Tax mentioned in the invoice copy is entered or extracted as supplier tax \(editable\) at header level and the system tax is the sum total of system tax \(read only, derived from external tax engine\) for all the tax lines.
 
     2.  Select **Save**.
 
@@ -48,7 +48,7 @@ Role required: AP specialist, tax specialist
 
         **Note:** When tax integration is disabled, you can create tax lines from related list of invoice lines or invoice case. For more information on tax lines in related list see [Using Playbook in Accounts Payable Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/how-to-use-playbook.md). If tax integration is enabled, you can add tax lines using the related list but the tax lines are deleted and new tax lines are added as a response from external tax engine. Tax mentioned for each invoice line in the invoice copy is entered or extracted as supplier tax \(editable\) at invoice line level and the system tax \(read only, derived from external tax engine\) is the sum total of system tax \(read only\) for all the tax lines of that particular invoice line.
 
-    5.  Select **Add new invoice lines** to [[create-invoice|create invoice]] lines.
+    5.  Select **Add new invoice lines** to create invoice lines.
 
     6.  Select **Continue** to move to the next activity in the playbook.
 
@@ -88,7 +88,7 @@ Tax not validated due to integration error
 
 </td><td>
 
-Tax validation fails, exception is raised. **Note:** The revalidate Timed‑Out Tax Validations scheduled job identifies invoices that have remained in the In Progress [[tax-status|tax status]] beyond the configured threshold \(as defined by the system property Maximum time to wait for tax validation from the external tax integration in minutes\) and updates their tax status to **Integration Error**.
+Tax validation fails, exception is raised. **Note:** The revalidate Timed‑Out Tax Validations scheduled job identifies invoices that have remained in the In Progress tax status beyond the configured threshold \(as defined by the system property Maximum time to wait for tax validation from the external tax integration in minutes\) and updates their tax status to **Integration Error**.
 
 </td></tr><tr><td>
 
@@ -149,13 +149,4 @@ Tax amount on the invoice line is greater than the tax \(considering the varianc
 
     The invoice tax validation is successful.
 
-## Related
 
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[tax-engine-integration|Tax Engine Integration]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[invoices|Invoices]]
-- [[supplier|Supplier]]
-- [[create-tax-lines-apo|Tax lines]]
-- [[create-invoice|create invoice]]
-- [[tax-status|Tax status]]

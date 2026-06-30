@@ -16,7 +16,7 @@ breadcrumb: [Content blocks, Configure Content Management sites, Content Managem
 
 Apache Jelly is a Java-based and XML-based scripting and processing engine for turning XML into executable code.
 
-The Apache Jelly engine closely resembles XML and should be comfortable for developers familiar with JavaScript, XML, XHTML, or HTML. In the ServiceNow instance, the Apache Jelly engine renders items such as [[form-configurable-workspace|forms]], [[lists-configurable-workspace|lists]], and UI Pages. Apache Jelly code renders well within a dynamic content block, but can have issues when used in static blocks. You can use Jelly [[c_Tags|tags]], calls, and statements, but HTML acts just like XHTML.
+The Apache Jelly engine closely resembles XML and should be comfortable for developers familiar with JavaScript, XML, XHTML, or HTML. In the ServiceNow instance, the Apache Jelly engine renders items such as forms, lists, and UI Pages. Apache Jelly code renders well within a dynamic content block, but can have issues when used in static blocks. You can use Jelly tags, calls, and statements, but HTML acts just like XHTML.
 
 ```
 <?xml version= "1.0" encoding= "utf-8" ?>
@@ -163,8 +163,3 @@ Code examples
 
 [Types of content blocks]()
 
-## Related
-
-- [[form-configurable-workspace|Forms]]
-- [[lists-configurable-workspace|Lists]]
-- [[c_Tags|Tags]]

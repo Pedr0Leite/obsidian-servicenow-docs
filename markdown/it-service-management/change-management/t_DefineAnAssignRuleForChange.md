@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-You can define an assignment rule either for the change request or for the [[change-tasks|change tasks]] that are generated for change requests. In the following example, you create an assignment rule to assign change requests for configuration items in the database class to the **Database** group.
+You can define an assignment rule either for the change request or for the change tasks that are generated for change requests. In the following example, you create an assignment rule to assign change requests for configuration items in the database class to the **Database** group.
 
 ## Procedure
 
@@ -45,6 +45,3 @@ Save the change and see that it was automatically assigned to the **Database** g
 
 **Parent Topic:**[Configuring Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/configure-change-management.md)
 
-## Related
-
-- [[change-tasks|Change tasks]]

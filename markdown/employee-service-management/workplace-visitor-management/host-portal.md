@@ -14,7 +14,7 @@ breadcrumb: [Explore, Workplace Visitor Management, Workplace Service Delivery, 
 
 # Host portal
 
-[[use-host-portal|Use the host portal]] to manage visits and visitors.
+Use the host portal to manage visits and visitors.
 
 The Host Portal enables employees to manage visits. As a host, you can create, view, and manage visits from the portal. The portal displays a list of visits and a detailed view with visitor information, response status, and pre-check task completion.
 
@@ -40,6 +40,3 @@ As a host, you can use the portal for the following:
 
 [Visitor portal]()
 
-## Related
-
-- [[use-host-portal|Use the host portal]]

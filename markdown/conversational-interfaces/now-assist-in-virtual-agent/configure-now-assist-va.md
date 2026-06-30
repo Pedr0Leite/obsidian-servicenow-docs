@@ -14,7 +14,7 @@ breadcrumb: [Now Assist in Virtual Agent, Conversational Interfaces]
 
 # Configuring assistants overview
 
-Use [[assistant-designer|Assistant Designer]] to build and optimize large language model \(LLM\) assistants for your conversational needs. Assistant Designer is a centralized assistant administrator experience that allows you to create and manage both chat and voice assistants.
+Use Assistant Designer to build and optimize large language model \(LLM\) assistants for your conversational needs. Assistant Designer is a centralized assistant administrator experience that allows you to create and manage both chat and voice assistants.
 
 ## Before you begin
 
@@ -28,11 +28,11 @@ An admin can create and configure more than one chat or voice assistant within [
 
 For chat assistants, a primary assistant can be linked to one or more secondary assistants. The linkage enables a primary assistant to use search sources from secondary assistants, enhancing its functionality and efficiency. For more information on primary and secondary assistants, see [LLM assistants](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/llm-assistants.md). If multiple assistants are created, users can chat simultaneously with multiple assistants. Conversations are independent from each other.
 
-Each assistant can have more than one display experience, using either the [[nava-standard-chat|standard chat]] or [[nava-enhanced-chat|enhanced chat]] experience, depending on the display experience that's configured. Enhanced chat offers a conversational search experience that seamlessly integrates [[virtual-agent-landing-page|Virtual Agent]] chat with search results. For more information, see [Standard chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/nava-standard-chat.md) or [Enhanced chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/nava-enhanced-chat.md). For a comparison of the two, see [Using Now Assist in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/using-now-assist-in-va.md).
+Each assistant can have more than one display experience, using either the standard chat or enhanced chat experience, depending on the display experience that's configured. Enhanced chat offers a conversational search experience that seamlessly integrates Virtual Agent chat with search results. For more information, see [Standard chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/nava-standard-chat.md) or [Enhanced chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/nava-enhanced-chat.md). For a comparison of the two, see [Using Now Assist in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/using-now-assist-in-va.md).
 
-**Note:** Opt into [[nava-integrated-chat|premium chat]] if your instance meets certain criteria. For more information, see [Display your chat assistant on a portal, channel, or mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/display-assistant-portal-channel.md) or [Display your assistant on Platform or ServiceNow Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/display-nap-assistant.md).
+**Note:** Opt into premium chat if your instance meets certain criteria. For more information, see [Display your chat assistant on a portal, channel, or mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/display-assistant-portal-channel.md) or [Display your assistant on Platform or ServiceNow Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/display-nap-assistant.md).
 
-When configuring a chat assistant, notes throughout the procedures show where there are differences between the setup for [[now-assist-in-va-landing|Now Assist in Virtual Agent]] assistants and the setup for Now Assist panel assistants. You can't create additional Now Assist panel assistants.
+When configuring a chat assistant, notes throughout the procedures show where there are differences between the setup for Now Assist in Virtual Agent assistants and the setup for Now Assist panel assistants. You can't create additional Now Assist panel assistants.
 
 For voice assistants, a voice assistant can be mapped to one or more AI agents. The linkage enables a voice assistant to leverage agentic capabilities to resolve user queries over phone.
 
@@ -52,7 +52,7 @@ Accessing assistants
 
 </th></tr></thead><tbody><tr><td>
 
-**All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Assistants**
+**All** &gt; **Conversational Interfaces** &gt; **Assistants**
 
 </td><td>
 
@@ -74,12 +74,3 @@ Select the **Set up Now Assist in Virtual Agent** link. \[Omitted image "NAinVA-
 
 See [View assistants](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/view-assistants.md).
 
-## Related
-
-- [[assistant-designer|Assistant Designer]]
-- [[nava-standard-chat|Standard chat]]
-- [[nava-enhanced-chat|Enhanced chat]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[nava-integrated-chat|Premium chat]]
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]

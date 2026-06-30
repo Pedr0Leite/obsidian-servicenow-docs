@@ -18,7 +18,7 @@ This accelerator provides a demonstration of the possibilities and capabilities 
 
 ## Accelerator Overview
 
-Jumpstart Your SPM – Project Workspace provides [[impact-landing-page|Impact]] customers with an applied overview of Project Workspace within SPM, demonstrating how to centralize project data and manage projects and associated information from a single, unified view. This accelerator also equips customers with key resources and leading practices to [[io-help|help]] them get started quickly.
+Jumpstart Your SPM – Project Workspace provides Impact customers with an applied overview of Project Workspace within SPM, demonstrating how to centralize project data and manage projects and associated information from a single, unified view. This accelerator also equips customers with key resources and leading practices to help them get started quickly.
 
 ## Package Availability
 
@@ -156,7 +156,3 @@ Attends ServiceNow Impact Accelerator coaching session\(s\) to understand leadin
 
 ServiceNow is not responsible for implementing recommendations on Customer’s non-production or production instances.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[io-help|Help]]

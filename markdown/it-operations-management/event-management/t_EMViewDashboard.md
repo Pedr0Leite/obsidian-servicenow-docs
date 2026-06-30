@@ -26,7 +26,7 @@ Role required: evt\_mgmt\_admin, evt\_mgmt\_operator, or evt\_mgmt\_user
 
 The Operator Workspace tiles represent a service, alert group, or CI. The tile color represents the overall alert severity.
 
-**Note:** [[c_EM|Event Management]] Dashboard is not supported for new instances in the Paris release. However, instances upgraded from a release prior to Orlando that use Event Management Dashboard can continue to do so.
+**Note:** Event Management Dashboard is not supported for new instances in the Paris release. However, instances upgraded from a release prior to Orlando that use Event Management Dashboard can continue to do so.
 
 These tile icons are available:
 
@@ -48,7 +48,7 @@ Each tile represents the highest severity of an alert for the service, alert gro
 
 1.  To integrate with Operational Intelligence, activate the Operational Intelligence \(com.snc.sa.metric\) plugin.
 
-    Follow the steps in the [Get started with Metric Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/get-started-metrics.md) topic. Metrics information appears on the **Metrics** tab in the [[workspace-dashboard-use|Service Operations Workspace]].
+    Follow the steps in the [Get started with Metric Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/get-started-metrics.md) topic. Metrics information appears on the **Metrics** tab in the Service Operations Workspace.
 
 
 -   **[View discovered service history](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMViewAlertHistory.md)**  
@@ -65,7 +65,3 @@ View all services that Event Management supports, such as, alert groups, discove
 
 [View metric values in the Insights Explorer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/view-metrics-explorer.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

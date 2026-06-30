@@ -14,7 +14,7 @@ breadcrumb: [Configuring MFA, Multi-factor authentication, Authentication, Acces
 
 # Multi-factor Authentication system properties
 
-Use [[ca-system-properties|system properties]] to enable and customize MFA to meet your security requirements.
+Use system properties to enable and customize MFA to meet your security requirements.
 
 <table id="table_lxg_qcz_bs"><thead><tr><th>
 
@@ -30,7 +30,7 @@ Description
 
 </td><td>
 
-Enable [[mfa-landing|Multi-factor Authentication]].**Note:** To enforce MFA for [[api-authentication|API authentication]], set the `glide.authenticate.multifactor.for_integrations` system property to `true`. MFA is enforced only for [[users|users]] who have already enrolled in MFA. Users who have not enrolled are not affected.
+Enable Multi-factor Authentication.**Note:** To enforce MFA for API authentication, set the `glide.authenticate.multifactor.for_integrations` system property to `true`. MFA is enforced only for users who have already enrolled in MFA. Users who have not enrolled are not affected.
 
 </td></tr><tr><td>
 
@@ -46,7 +46,7 @@ Number of times that a user can choose to skip the setup of MFA. The default is 
 
 </td><td>
 
-Number of minutes that the reset code is valid. See [Log in with Multi-factor Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/t_LogOnWithMultifactorAuth.md). The default is 5.**Note:** This property is for [[email|email]] OTP validation time.
+Number of minutes that the reset code is valid. See [Log in with Multi-factor Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/t_LogOnWithMultifactorAuth.md). The default is 5.**Note:** This property is for email OTP validation time.
 
 </td></tr><tr><td>
 
@@ -96,7 +96,7 @@ Default value of the remember-browser check box in the validate multi-factor pag
 
 </td><td>
 
-Option to enable passwordless [[c_Authentication|authentication]] \(FIDO2 based MFA\) methods such as hardware key and biometric authentication.
+Option to enable passwordless authentication \(FIDO2 based MFA\) methods such as hardware key and biometric authentication.
 
 </td></tr><tr><td>
 
@@ -116,12 +116,3 @@ Option to enable MFA factor independently for the users without setting up an au
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[ca-system-properties|System properties]]
-- [[mfa-landing|Multi-factor authentication]]
-- [[api-authentication|API Authentication]]
-- [[users|Users]]
-- [[email|Email]]
-- [[c_Authentication|Authentication]]

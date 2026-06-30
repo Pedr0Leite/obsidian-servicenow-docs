@@ -14,7 +14,7 @@ breadcrumb: [Palo Alto Networks integration, Firewall integration, TISC Security
 
 # Add Observables to EDLs
 
-Add [[c_Observables|observables]] such as IP addresses, domains, and hashes to External Dynamic Lists \(EDLs\) to automatically update [[threat-intelligence-feeds|threat intelligence feeds]] in your security [[threat-intelligence-infrastructure|infrastructure]].
+Add observables such as IP addresses, domains, and hashes to External Dynamic Lists \(EDLs\) to automatically update threat intelligence feeds in your security infrastructure.
 
 ## Before you begin
 
@@ -22,9 +22,9 @@ Role required: sn\_sec\_tisc.analyst
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center**.
 
-2.  Select the **[[threat-analyst-workbench|Threat Analyst Workbench]]** icon.
+2.  Select the **Threat Analyst Workbench** icon.
 
 3.  Navigate to **Observables** &gt; **All Observables**.
 
@@ -46,10 +46,3 @@ Role required: sn\_sec\_tisc.analyst
 
 [Approve EDL entries for Palo Alto Networks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-approve-edl-entries.md)
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[threat-intelligence-feeds|Threat Intelligence Feeds]]
-- [[threat-intelligence-infrastructure|Infrastructure]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-analyst-workbench|Threat Analyst Workbench]]

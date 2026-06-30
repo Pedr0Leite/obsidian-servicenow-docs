@@ -14,7 +14,7 @@ breadcrumb: [E-signature, Manage people and work capabilities, Extend ServiceNow
 
 # Activating e-signature
 
-You can activate the [[e-signature|e-signature]] plugin \(com.snc.esign\) if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
+You can activate the e-signature plugin \(com.snc.esign\) if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
 
 ## Before you begin
 
@@ -34,19 +34,19 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-ServiceNow [[Documentviewer|document viewer]]\[com.snc.documentviewer\]
+ServiceNow document viewer\[com.snc.documentviewer\]
 
 </td><td>
 
-Document viewer is a platform feature that will enable users to view enterprise class documents inline within the platform [[attachment|attachment]] instead of downloading it to the local device and then opening the documents with a locally installed viewer.
+Document viewer is a platform feature that will enable users to view enterprise class documents inline within the platform attachment instead of downloading it to the local device and then opening the documents with a locally installed viewer.
 
 </td></tr><tr><td>
 
-[[c_ManagedDocuments|Managed documents]]\[com.snc.document\_management\]
+Managed documents\[com.snc.document\_management\]
 
 </td><td>
 
-Managed Documents application. To enable the ability to publish to the knowledge base, activate the [[c_KnowledgeDocument|knowledge document plugin]].
+Managed Documents application. To enable the ability to publish to the knowledge base, activate the knowledge document plugin.
 
 </td></tr><tr><td>
 
@@ -67,18 +67,10 @@ Provides a tool to allow a digital signature in a .pdf document. The Human Resou
 
 3.  Select **Install** to start the installation process.
 
-    **Note:** When [[domain-separation-relationship-formatter-editor|domain separation]] and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
+    **Note:** When domain separation and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
 
 **Parent Topic:**[E-signature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/e-signature/e-signature.md)
 
-## Related
-
-- [[e-signature|E-signature]]
-- [[Documentviewer|Document Viewer]]
-- [[attachment|Attachment]]
-- [[c_ManagedDocuments|Managed Documents]]
-- [[c_KnowledgeDocument|Knowledge Document plugin]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]

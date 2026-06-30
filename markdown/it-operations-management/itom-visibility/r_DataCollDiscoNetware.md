@@ -14,7 +14,7 @@ breadcrumb: [Operating systems discovery, Data collected by ITOM Visibility, ITO
 
 # Netware discovery
 
-[[r-discovery|Discovery]] identifies and classifies information about Netware.
+Discovery identifies and classifies information about Netware.
 
 ## Data collected
 
@@ -30,6 +30,3 @@ breadcrumb: [Operating systems discovery, Data collected by ITOM Visibility, ITO
 
 **Parent Topic:**[Operating systems discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_Computers.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

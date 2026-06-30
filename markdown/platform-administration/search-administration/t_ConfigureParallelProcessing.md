@@ -22,13 +22,13 @@ Role required: admin
 
 ## About this task
 
-For example, if you don't need Change Task [[hs-results|results]], deactivate that table in the Tasks search group. If only one group of users needs Change Task results, set up a separate search group that includes Change Tasks. Other users search using a group that doesn't contain Change Tasks.
+For example, if you don't need Change Task results, deactivate that table in the Tasks search group. If only one group of users needs Change Task results, set up a separate search group that includes Change Tasks. Other users search using a group that doesn't contain Change Tasks.
 
 Global text search can render results in parallel to improve performance. To configure the number of parallel processes:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[r_SetArchiveRuleProcessingBehavior|System Properties]]** &gt; **Global Text Search**.
+1.  Navigate to **All** &gt; **System Properties** &gt; **Global Text Search**.
 
 2.  Locate the property called **Number of simultaneous processes\(1 to 16\) used when searching though multiple groups in a global search**.
 
@@ -46,7 +46,3 @@ Global text search can render results in parallel to improve performance. To con
 
 [Revert to the legacy global search UI]()
 
-## Related
-
-- [[hs-results|Results]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

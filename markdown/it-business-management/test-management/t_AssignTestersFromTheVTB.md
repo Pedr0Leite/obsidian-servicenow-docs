@@ -22,13 +22,13 @@ Role required: tm\_test\_manager or tm\_tester
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Test Management** &gt; **Test Execution** &gt; **[[c_TestPlans|Test Plans]]**.
+1.  Navigate to **All** &gt; **Test Management** &gt; **Test Execution** &gt; **Test Plans**.
 
 2.  Open a test plan.
 
 3.  Click the **Show View Task Board** related link.
 
-    The VTB displays lanes for test case statuses. A card for each test case appears in the appropriate lane based on its status. [[c_TestCases|Test cases]] that are not assigned to any user display Unassigned on their cards.
+    The VTB displays lanes for test case statuses. A card for each test case appears in the appropriate lane based on its status. Test cases that are not assigned to any user display Unassigned on their cards.
 
     \[Omitted image "unassigned-test-case.png"\] Alt text: Unassigned test case card on the Test Plan Visual task Board.
 
@@ -43,7 +43,3 @@ Role required: tm\_test\_manager or tm\_tester
 
 **Parent Topic:**[Assigning testers to test cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/assigning-testers-to-test-cases.md)
 
-## Related
-
-- [[c_TestPlans|Test plans]]
-- [[c_TestCases|Test cases]]

@@ -20,21 +20,15 @@ The following logging tracks logins and activity by ServiceNow employees.
 
 </td><td>
 
-The [[r_EventLogs|event logs]] show all ServiceNow logins to a customer instance.
+The event logs show all ServiceNow logins to a customer instance.
 
 </td></tr><tr><td>
 
-[[r_TransactionLogs|Transaction logs]]
+[Transaction logs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/r_TransactionLogs.md)
 
 </td><td>
 
-The transaction logs show all activity on the instance, including any efforts to delete [[logs|logs]].
+The transaction logs show all activity on the instance, including any efforts to delete logs.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[r_TransactionLogs|Transaction logs]]
-- [[r_EventLogs|Event logs]]
-- [[logs|Logs]]

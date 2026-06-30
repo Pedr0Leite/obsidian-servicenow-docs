@@ -26,7 +26,7 @@ Role required: sn\_pace.admin
 
 1.  Navigate to **** &gt; **Mappings** &gt; **Dynamic Mappings**.
 
-2.  Select the [[check-box|check box]] of the mapped policy you want to request an exception for.
+2.  Select the check box of the mapped policy you want to request an exception for.
 
 3.  Click **Request exception**.
 
@@ -93,6 +93,4 @@ Select a date when you want this exception to be approved by.
 </td></tr></tbody>
 </table>5.  Click **Request**.
 
-## Related
 
-- [[check-box|Check box]]

@@ -29,7 +29,7 @@ You can add different types of managers to a territory:
 -   Territory manager: The territory manager can access and manage all territories.
 -   Resource manager: The resource manager has restricted access only to manage resources and create child territories in the assigned territory.
 
-To understand the difference between the manager types and their access rights, see [Managing territories and agents from Territory Planning console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/using-territory-planning-console.md) and [[territory-planning-components-fsm|Field Service Territory Planning components]].
+To understand the difference between the manager types and their access rights, see [Managing territories and agents from Territory Planning console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/using-territory-planning-console.md) and [Field Service Territory Planning components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/territory-planning-components-fsm.md).
 
 ## Procedure
 
@@ -107,6 +107,3 @@ Manage territory until the selected date.
 
 The manager appears in the **Territory Managers** related list when you open the territory.
 
-## Related
-
-- [[territory-planning-components-fsm|Field Service Territory Planning components]]

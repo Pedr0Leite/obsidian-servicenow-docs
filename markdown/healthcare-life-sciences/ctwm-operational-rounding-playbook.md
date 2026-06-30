@@ -15,45 +15,36 @@ breadcrumb: [Care Team Work Management, Healthcare Operations, Healthcare and Li
 
 A purpose‑built Operational Rounding Playbook guides plan authoring across multiple apps in a single flow—from plan details, healthcare orchestration case/task setup, and affected organization selection to scheduling and publish.
 
-1.  [[ctwm-create-new-task-plan|Create an Operational rounding task plan]]
+1.  [Create an Operational rounding task plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/ctwm-create-new-task-plan.md)
 
     Create a new task plan using the Operational rounding playbook.
 
-2.  [[ctwm-op-plan-details|Input plan details into the Operational Rounding playbook]]
+2.  [Input plan details into the Operational Rounding playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/ctwm-op-plan-details.md)
 
     Complete the **Plan details** playbook stage in the Operational rounding playbook.
 
-3.  [[ctwm-op-orc-case|Input Orchestration case details into the Operational Rounding playbook]]
+3.  [Input Orchestration case details into the Operational Rounding playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/ctwm-op-orc-case.md)
 
     Complete the **Orchestration case** playbook stage in the Operational rounding playbook
 
-4.  [[ctwm-op-healthcare-orc-tasks|Input Orchestration task details into the Operational Rounding playbook]]
+4.  [Input Orchestration task details into the Operational Rounding playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/ctwm-op-healthcare-orc-tasks.md)
 
     Complete the **Orchestration task** playbook stage in the Operational rounding playbook.
 
-5.  [[ctwm-op-care-team-case|Input Care team case details into the Operational Rounding playbook]]
+5.  [Input Care team case details into the Operational Rounding playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/ctwm-op-care-team-case.md)
 
     Complete the **Care team case** playbook stage in the Operational rounding playbook.
 
-6.  [[ctwm-op-care-team-task|Input Care team task details into the Operational Rounding playbook]]
+6.  [Input Care team task details into the Operational Rounding playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/ctwm-op-care-team-task.md)
 
     Complete the **Care team task** playbook stage in the Operational rounding playbook.
 
-7.  [[ctwm-op-assigned-orgs|Input Assigned organizations details into the Operational Rounding playbook]]
+7.  [Input Assigned organizations details into the Operational Rounding playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/ctwm-op-assigned-orgs.md)
 
     Complete the **Assigned organizations** playbook stage in the Operational rounding playbook.
 
-8.  [[ctwm-op-schedule|Input Schedule details into the Operational Rounding playbook]]
+8.  [Input Schedule details into the Operational Rounding playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/ctwm-op-schedule.md)
 
     Complete the **Schedule** playbook stage in the Operational rounding playbook.
 
-## Related
 
-- [[ctwm-create-new-task-plan|Create an Operational rounding task plan]]
-- [[ctwm-op-plan-details|Input plan details into the Operational Rounding playbook]]
-- [[ctwm-op-orc-case|Input Orchestration case details into the Operational Rounding playbook]]
-- [[ctwm-op-healthcare-orc-tasks|Input Orchestration task details into the Operational Rounding playbook]]
-- [[ctwm-op-care-team-case|Input Care team case details into the Operational Rounding playbook]]
-- [[ctwm-op-care-team-task|Input Care team task details into the Operational Rounding playbook]]
-- [[ctwm-op-assigned-orgs|Input Assigned organizations details into the Operational Rounding playbook]]
-- [[ctwm-op-schedule|Input Schedule details into the Operational Rounding playbook]]

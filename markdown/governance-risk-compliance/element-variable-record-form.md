@@ -32,8 +32,5 @@ For description of the field values, see the table.
 |Default Value|
 |Default value|Description for the default value of the element variable.|
 
-**Parent Topic:**[[configure-element-variable-uib-ws|Configure element variables for element definitions]]
+**Parent Topic:**[Configure element variables for element definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-element-variable-uib-ws.md)
 
-## Related
-
-- [[configure-element-variable-uib-ws|Configure element variables for element definitions]]

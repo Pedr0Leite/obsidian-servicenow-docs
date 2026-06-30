@@ -14,7 +14,7 @@ breadcrumb: [Assign a playbook to Major Incident Management, Configuring Major I
 
 # Designing a major incident playbook
 
-Use Playbooks to design your own playbook by creating custom flows, and then configure trigger rules to activate the playbook for Major [[c_IncidentManagement|Incident Management]].
+Use Playbooks to design your own playbook by creating custom flows, and then configure trigger rules to activate the playbook for Major Incident Management.
 
 Select the **Process Automation Designer** link in the Create new playbook section of the Assign Playbook page in Admin Center to open the Playbooks page. For more information on how to assign a playbook, see [Assign a playbook to Major Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/assign-playbook-mim-sow.md).
 
@@ -31,6 +31,3 @@ You can select **New** to create a playbook or select an existing playbook, such
 -   Activate – Activate the playbook on the instance.
 -   Test – Test the playbook on the instance.
 
-## Related
-
-- [[c_IncidentManagement|Incident Management]]

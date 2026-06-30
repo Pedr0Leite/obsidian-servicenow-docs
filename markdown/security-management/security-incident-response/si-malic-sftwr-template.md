@@ -52,7 +52,7 @@ Results
 
 </th></tr></thead><tbody><tr><td>
 
-Scan Endpoint - [[threat-intelligence-malware|Malware]] Found?
+Scan Endpoint - Malware Found?
 
 </td><td>
 
@@ -154,6 +154,3 @@ The **State** of the security incident is changed automatically to **Review**, a
 
 [Security Incident Web/BBS Defacement workflow template]()
 
-## Related
-
-- [[threat-intelligence-malware|Malware]]

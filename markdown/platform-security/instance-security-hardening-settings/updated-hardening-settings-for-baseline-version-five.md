@@ -14,7 +14,7 @@ breadcrumb: [Updated hardening settings, Baseline versions, Hardening settings, 
 
 # Updated hardening settings for baseline version 5.0
 
-Some [[security-hardening-settings|hardening settings]] have been updated with the release of [[sec-center-v2|Security Center]] baseline version 5.0.
+Some hardening settings have been updated with the release of Security Center baseline version 5.0.
 
 Baseline version 5 includes several updates to short descriptions for style and consistency across records. In addition, many property related scripts were updated to improve the accuracy of default values in cases where the property has been removed from the sys\_property table.
 
@@ -41,7 +41,7 @@ Updates
 
 </td><td>
 
--   New remediation: Ensure the property **com.glide.[[sc-communications|communications]].httpclient.ocsp\_allow\_network\_error** exists and is set to false. If the property does not appear in the sys\_properties table, add a new record.
+-   New remediation: Ensure the property **com.glide.communications.httpclient.ocsp\_allow\_network\_error** exists and is set to false. If the property does not appear in the sys\_properties table, add a new record.
 -   Old Remediation: Ensure the property **com.glide.communications.httpclient.ocsp\_allow\_network\_error** is set to false.
 
 </td></tr><tr><td>
@@ -109,7 +109,7 @@ Updates
 
 </td><td>
 
--   New short description: [[sc-enable-gliderecord-scope-fencing-legacy-behavior|Disable GlideRecord Scope Fencing Legacy Behavior]]
+-   New short description: Disable GlideRecord Scope Fencing Legacy Behavior
 -   Old short description: Enable GlideRecord Scope Fencing Legacy Behavior
 
 </td></tr><tr><td>
@@ -132,7 +132,7 @@ Updates
 
 </td></tr><tr><td>
 
-[Enable SSL in LDAP [[c_Authentication|authentication]] \[Updated in Security Center 1.5 and 2.0\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-enable-ssl-in-ldap-authentication.md)
+[Enable SSL in LDAP authentication \[Updated in Security Center 1.5 and 2.0\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-enable-ssl-in-ldap-authentication.md)
 
 </td><td>
 
@@ -151,7 +151,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Set OTP lifetime for [[c_SelfServicePasswordReset|password reset]] to 1 hour \[Updated in Security Center 2.0\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-set-otp-lifetime-for-password-reset-to-12-hours-or-less.md)
+[Set OTP lifetime for password reset to 1 hour \[Updated in Security Center 2.0\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-set-otp-lifetime-for-password-reset-to-12-hours-or-less.md)
 
 </td><td>
 
@@ -234,7 +234,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New description: When the property **com.glide.snap.infected\_download\_allowed** is set to true, [[users|users]] can still download non-scanned attachments in the case that the [[antivirus|antivirus]] service is down or unreachable. This means it is possible that a user downloads a malicious file and risks infecting the user's desktop \(in the case there is no other endpoint protection on the device\).
+-   New description: When the property **com.glide.snap.infected\_download\_allowed** is set to true, users can still download non-scanned attachments in the case that the antivirus service is down or unreachable. This means it is possible that a user downloads a malicious file and risks infecting the user's desktop \(in the case there is no other endpoint protection on the device\).
 -   Old description: If **com.glide.snap.infected\_download\_allowed** is not set to the recommended value of False, then it is possible to download a malicious file that has not been scanned leading to a risk of infecting the user's desktop.
 -   New remediation: Ensure the property **com.glide.snap.infected\_download\_allowed** is set to false.
 -   Old remediation: Ensure the property **com.glide.snap.infected\_download\_allowed** is set to False.
@@ -259,7 +259,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Restrict [[email|email]] domains for external user registration \[Updated in Security Center 1.3, 1.5, and 2.0\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-external-user-registration-email-domain-allowlist.md)
+[Restrict email domains for external user registration \[Updated in Security Center 1.3, 1.5, and 2.0\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-external-user-registration-email-domain-allowlist.md)
 
 </td><td>
 
@@ -318,8 +318,8 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: **[[sc-reset-password-request-max-attempts-window|Control Lockout Time for Invalid Password Reset Attempts]]**
--   Old short description: **Minimize Reset Password [[c_requestAPI|Request]] Max Attempts Window Duration**
+-   New short description: **Control Lockout Time for Invalid Password Reset Attempts**
+-   Old short description: **Minimize Reset Password Request Max Attempts Window Duration**
 -   New description: The **password\_reset.request.max\_attempt\_window** property defines the number of minutes a user must wait to reset or change their password after exceeding the maximum number of unsuccessful attempts that is set with the **password\_reset.request.max\_attempt property**. A small number of minutes for the **password\_reset.request.max\_attempt\_window** property increases the risk of successfully brute forcing a password as a greater number of password reset attempts can be made. The default of 1440 minutes is recommended.
 -   Old description: If **password\_reset.request.max\_attempt\_window** is not set to the recommended value of 1440 or less, then it could be possible to perform account bruteforce as the account will not be locked after a maximum number of wrong authentication attempts.
 -   New remediation: Ensure the property **password\_reset.request.max\_attempt\_window** is set to 1440 or greater.
@@ -343,23 +343,9 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: **[[sc-reset-password-request-max-attempts|Limit Invalid Password Reset Attempts]]**
+-   New short description: **Limit Invalid Password Reset Attempts**
 -   Old short description: **Minimize Reset Password Request Max Attempt Allowance**
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Updated hardening settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/hardening-settings-updated.md)
 
-## Related
-
-- [[security-hardening-settings|Hardening settings]]
-- [[sec-center-v2|Security Center]]
-- [[sc-communications|Communications]]
-- [[sc-enable-gliderecord-scope-fencing-legacy-behavior|Disable GlideRecord Scope Fencing Legacy Behavior]]
-- [[c_Authentication|Authentication]]
-- [[c_SelfServicePasswordReset|Password Reset]]
-- [[users|Users]]
-- [[antivirus|Antivirus]]
-- [[email|Email]]
-- [[sc-reset-password-request-max-attempts-window|Control Lockout Time for Invalid Password Reset Attempts]]
-- [[c_requestAPI|request]]
-- [[sc-reset-password-request-max-attempts|Limit Invalid Password Reset Attempts]]

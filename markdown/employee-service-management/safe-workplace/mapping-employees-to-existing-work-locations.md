@@ -14,11 +14,11 @@ breadcrumb: [Workplace Core, Safe Workplace, Health and Safety, Employee Service
 
 # Mapping employees to their designated workspaces
 
-Map your employees to their designated workplace locations in [[workplace-safety-mgmt-hr|Workplace Core]] to automatically fill in that detail in reservation requests and to take advantage of auto-assignment of workspaces if that feature has been enabled.
+Map your employees to their designated workplace locations in Workplace Core to automatically fill in that detail in reservation requests and to take advantage of auto-assignment of workspaces if that feature has been enabled.
 
 For employees who had a designated workspace before they started working remotely, create a mapping between the user profile and the designated workspace details. This mapping populates the workspace details on reservation request forms so employees don't have to provide these details manually.
 
-If your system administrator has enabled the auto-assign feature, mapping workspaces for all employees also means that designated workspaces are automatically assigned when employees [[reservation-portal|make a reservation]] request.
+If your system administrator has enabled the auto-assign feature, mapping workspaces for all employees also means that designated workspaces are automatically assigned when employees make a reservation request.
 
 The data from the User Workplace Profile \[sn\_wsd\_core\_workplace\_profile\] table is used to automatically assign the designated workspace to the employee.
 
@@ -33,7 +33,3 @@ Map existing designated workspaces to employee user profiles in Workplace Core. 
 
 **Parent Topic:**[Workplace Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/workplace-safety-mgmt-hr.md)
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[reservation-portal|Make a reservation]]

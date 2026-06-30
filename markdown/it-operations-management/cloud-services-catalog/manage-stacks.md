@@ -14,7 +14,7 @@ breadcrumb: [Cloud Services Catalog, ITOM Cloud Accelerate, IT Operations Manage
 
 # Exploring the My Stacks tab
 
-Sort, view, or manage your stack of cloud resources and services as a part of the Day 2 activities by using the **My Stacks** tab on the Employee Center toolbar in [[csc-home|Cloud Services Catalog]].
+Sort, view, or manage your stack of cloud resources and services as a part of the Day 2 activities by using the **My Stacks** tab on the Employee Center toolbar in Cloud Services Catalog.
 
 The **My Stacks** tab has multiple options that let you categorize, sort, or view your stacks with a different managed status. The following example shows what the **My Stacks** tab looks like on Employee Center.
 
@@ -49,6 +49,3 @@ You can use redirection to your **My Stacks** tab as an alternate but simplified
 
 **Parent Topic:**[Cloud Services Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/csc-home.md)
 
-## Related
-
-- [[csc-home|Cloud Services Catalog]]

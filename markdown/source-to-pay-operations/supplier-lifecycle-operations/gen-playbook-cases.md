@@ -14,13 +14,13 @@ breadcrumb: [Manage supplier cases, Using Source-to-Pay Workspace, Use, Supplier
 
 # Case playbook for specific supplier case types
 
-[[purch-order-mgmt-ws|Source-to-Pay Workspace]] includes a generic case playbook to complete [[supplier|supplier]] cases of specific case types.
+Source-to-Pay Workspace includes a generic case playbook to complete supplier cases of specific case types.
 
 ## Case playbook for supplier cases
 
 The case playbook provides step-by-step guidance for completing specific types of supplier cases. The case playbook includes a generic supplier case flow containing various stages and activities that you must complete to close the supplier case. For more information, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/playbook-ui.md).
 
-When a [[supplier-contact|supplier contact]] submits a request using the supplier catalog item from the [[supplier-central|Supplier Collaboration Portal]] or when a supplier manager or fulfiller creates a case from the Source-to-Pay Workspace, the application opens the case on the **Playbook** tab on the Details page.
+When a supplier contact submits a request using the supplier catalog item from the Supplier Collaboration Portal or when a supplier manager or fulfiller creates a case from the Source-to-Pay Workspace, the application opens the case on the **Playbook** tab on the Details page.
 
 The case playbook is displayed only for these case types:
 
@@ -125,9 +125,3 @@ As a supplier manager or fulfiller, you can update the state of the case and clo
 
 [Create a case on behalf of a supplier from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-new-supplier-case.md)
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supplier|Supplier]]
-- [[supplier-contact|Supplier contact]]
-- [[supplier-central|Supplier Collaboration Portal]]

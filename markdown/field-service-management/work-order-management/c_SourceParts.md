@@ -16,9 +16,9 @@ breadcrumb: [Part requirements, Manage inventory in FSM, Manage work order tasks
 
 Sourcing a part is the process of reserving and obtaining an asset described in a part requirement record by transferring it from one stockroom to another.
 
-Users who can create work orders can create [[c_PartRequirements|part requirements]] by using [work order templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/c_WorkOrderTemplates.md) or by manually using the procedures on this page. Agents, qualifiers, and dispatchers, including users with the combination roles, can create and source a part requirement.
+Users who can create work orders can create part requirements by using [work order templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/c_WorkOrderTemplates.md) or by manually using the procedures on this page. Agents, qualifiers, and dispatchers, including users with the combination roles, can create and source a part requirement.
 
--   A qualifier determines if parts are necessary to [[c_ExecuteWorkOrderTasks|execute work order tasks]].
+-   A qualifier determines if parts are necessary to execute work order tasks.
 -   A dispatcher sources the part requirements and creates transfer order lines.
 -   A dispatcher or agent moves the parts through the transfer process.
 -   An agent accepts delivery of the parts and records part usage.
@@ -35,7 +35,7 @@ With simplified part sourcing, when ever a task is assigned to an agent the part
 
 ## Use assets
 
-The technician can [[t_CreateAPartRequirement|create a part requirement]] and use a part from their personal stockroom without going through the sourcing process. This is helpful for agents who are already working on tasks and have access to the necessary parts. To use this feature, click the [**Use Asset**](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/t_RecordAssetUsageUseAsset.md) button on the Asset Usages related list on the Work Order Task form.
+The technician can create a part requirement and use a part from their personal stockroom without going through the sourcing process. This is helpful for agents who are already working on tasks and have access to the necessary parts. To use this feature, click the [**Use Asset**](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/t_RecordAssetUsageUseAsset.md) button on the Asset Usages related list on the Work Order Task form.
 
 ## Advanced part sourcing
 
@@ -46,8 +46,3 @@ With advanced part sourcing, the technician can source multiple assets at once f
 
 [View asset usage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/t_RecordAssetUsage.md)
 
-## Related
-
-- [[c_PartRequirements|Part requirements]]
-- [[c_ExecuteWorkOrderTasks|Execute work order tasks]]
-- [[t_CreateAPartRequirement|Create a part requirement]]

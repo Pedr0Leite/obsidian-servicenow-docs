@@ -14,7 +14,7 @@ breadcrumb: [Use, Hardware Asset Management, IT Asset Management]
 
 # Assess performance of Hardware Asset Management
 
-Track the success of the [[ham-landing-page|Hardware Asset Management]] application in your instance by creating success goals. You can also create a success goal category for a success goal and track the success of your goals by creating success activities.
+Track the success of the Hardware Asset Management application in your instance by creating success goals. You can also create a success goal category for a success goal and track the success of your goals by creating success activities.
 
 -   **[Create a success goal for Hardware Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-suc-goal.md)**  
 Create a success goal to track the success of the Hardware Asset Management application in your instance.
@@ -34,7 +34,7 @@ View the maturity of your Hardware Asset Management \(HAM\) program to analyze t
 
 [Work with hardware normalization]()
 
-[Manage [[asset-bundles-concept|asset bundles]] from your inventory]()
+[Manage asset bundles from your inventory]()
 
 [Manage your inventory through pallet assets]()
 
@@ -56,13 +56,13 @@ View the maturity of your Hardware Asset Management \(HAM\) program to analyze t
 
 [Request a Hardware Asset Refresh]()
 
-[Manage your expiring [[c_Contracts|contracts]] for leased hardware assets]()
+[Manage your expiring contracts for leased hardware assets]()
 
 [Reclaim hardware assets]()
 
 [View RFID information of assets]()
 
-[Manage the lifecycle of hardware [[c_Models|models]] with calculated lifecycle templates]()
+[Manage the lifecycle of hardware models with calculated lifecycle templates]()
 
 [Create an internal lifecycle in the Hardware Asset Workspace]()
 
@@ -94,9 +94,3 @@ View the maturity of your Hardware Asset Management \(HAM\) program to analyze t
 
 [Update associated Decision tables for HAM flows]()
 
-## Related
-
-- [[ham-landing-page|Hardware Asset Management]]
-- [[asset-bundles-concept|Asset bundles]]
-- [[c_Contracts|Contracts]]
-- [[c_Models|Models]]

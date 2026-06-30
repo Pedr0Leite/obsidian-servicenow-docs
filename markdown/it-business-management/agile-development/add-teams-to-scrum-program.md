@@ -24,7 +24,7 @@ Role required: it\_program\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[agile-development|Agile Development]]** &gt; **Scrum Programs**.
+1.  Navigate to **All** &gt; **Agile Development** &gt; **Scrum Programs**.
 
 2.  Open your scrum program record.
 
@@ -43,6 +43,3 @@ Role required: it\_program\_manager
 
 **Parent Topic:**[Scrum Programs for Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/scrum-programs-concept.md)
 
-## Related
-
-- [[agile-development|Agile Development]]

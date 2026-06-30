@@ -14,7 +14,7 @@ breadcrumb: [Create entitlements in Software Asset Management classic, Using Sof
 
 # Create maintenance entitlements in Software Asset Management classic
 
-Define license details, for all publishers other than Microsoft, to manage all your [[software-license-maintenance|software license maintenance]] needs such as start and end dates of your [[c_Contracts|contracts]] and software upgrades.
+Define license details, for all publishers other than Microsoft, to manage all your software license maintenance needs such as start and end dates of your contracts and software upgrades.
 
 ## Before you begin
 
@@ -58,7 +58,7 @@ Role required: sam\_admin
 
         If the entitlement has split and you've deleted the maintenance entitlement, the perpetual entitlement is not removed.
 
-    4.  View the [[downgrade-rights|downgrade rights]] for the software model associated with the maintenance entitlement in the **Downgrade Rights** related list.
+    4.  View the downgrade rights for the software model associated with the maintenance entitlement in the **Downgrade Rights** related list.
 
     5.  To manage license keys, and specify which licenses keys are allocated to entitlements, click the **License Keys** related list
 
@@ -75,8 +75,3 @@ Role required: sam\_admin
 
 **Parent Topic:**[Create entitlements in Software Asset Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/track-software-rights.md)
 
-## Related
-
-- [[software-license-maintenance|Software license maintenance]]
-- [[c_Contracts|Contracts]]
-- [[downgrade-rights|Downgrade Rights]]

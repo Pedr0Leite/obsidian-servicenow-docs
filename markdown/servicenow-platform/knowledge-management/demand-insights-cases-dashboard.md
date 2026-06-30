@@ -16,7 +16,7 @@ breadcrumb: [Analytics and Reporting Solutions for Knowledge Management, Knowled
 
 The Demand Insights for Cases dashboard enables you as a customer service case manager to identify which cases have no or insufficient knowledge coverage. You can then create feedback tasks for knowledge gaps to deflect such cases.
 
-The [[predictive-intelligence-for-km|Predictive Intelligence for Knowledge Management]] plugin \(com.snc.knowledge\_ml\) includes the Demand Insights for Cases dashboard. For more information, see [Predictive Intelligence for Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/predictive-intelligence-for-km.md) and [Additional plugins for Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/additional-plugins-km.md). The navigation path for viewing this dashboard is **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Dashboards**. Using the search field, look for the dashboard.
+The Predictive Intelligence for Knowledge Management plugin \(com.snc.knowledge\_ml\) includes the Demand Insights for Cases dashboard. For more information, see [Predictive Intelligence for Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/predictive-intelligence-for-km.md) and [Additional plugins for Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/additional-plugins-km.md). The navigation path for viewing this dashboard is **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Dashboards**. Using the search field, look for the dashboard.
 
 \[Omitted image "Demand-insights-cases-db.png"\] Alt text: Demand Insights for Cases dashboard
 
@@ -62,6 +62,3 @@ Displays data from the Knowledge Curation Task \[kb\_curation\_task\_cluster\] t
 
 [Knowledge demand insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/knowledge-demand-insights.md)
 
-## Related
-
-- [[predictive-intelligence-for-km|Predictive Intelligence for Knowledge Management]]

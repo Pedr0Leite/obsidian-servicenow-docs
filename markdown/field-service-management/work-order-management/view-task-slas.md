@@ -14,7 +14,7 @@ breadcrumb: [Work order tasks \(WOTs\), Contractor Portal, Completing work order
 
 # View task SLAs on the Contractor Portal
 
-View the work order SLA timeline in the Field Service [[field-service-contractor-portal|Contractor Portal]] to make sure you complete your task within the SLA time period.
+View the work order SLA timeline in the Field Service Contractor Portal to make sure you complete your task within the SLA time period.
 
 ## Before you begin
 
@@ -38,6 +38,4 @@ You cannot create and edit SLAs or delete them from work order tasks using the F
 
     The SLA report details includes the progress of the task SLA over the lifetime of the task.
 
-## Related
 
-- [[field-service-contractor-portal|Contractor Portal]]

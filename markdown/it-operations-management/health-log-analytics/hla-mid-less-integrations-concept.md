@@ -15,11 +15,11 @@ breadcrumb: [Set up integrations from Integrations Launchpad, Set up HLA on your
 
 # MID-less integrations for Health Log Analytics
 
-[[hla-landing-page|Health Log Analytics]] \(HLA\) supports integrations that stream log data directly to your ServiceNow instance without a MID Server. Use these integrations to simplify your deployment and reduce infrastructure overhead.
+Health Log Analytics \(HLA\) supports integrations that stream log data directly to your ServiceNow instance without a MID Server. Use these integrations to simplify your deployment and reduce infrastructure overhead.
 
 ## Role of the MID Server in Health Log Analytics
 
-A Management, Instrumentation, and [[r-discovery|Discovery]] \(MID\) Server is a Java application that runs on a server in your network. In a standard HLA deployment, the MID Server acts as a relay between your log data sources and your ServiceNow instance. It collects, filters, and forwards log data on behalf of the instance.
+A Management, Instrumentation, and Discovery \(MID\) Server is a Java application that runs on a server in your network. In a standard HLA deployment, the MID Server acts as a relay between your log data sources and your ServiceNow instance. It collects, filters, and forwards log data on behalf of the instance.
 
 While MID Servers provide flexibility and support a wide range of integrations, they introduce additional infrastructure to deploy, maintain, and monitor. Organizations with high log volumes may also have to scale MID Server capacity over time.
 
@@ -74,7 +74,3 @@ Before choosing a MID-less integration, review the following:
 
 **Parent Topic:**[Set up Health Log Analytics on your ServiceNow instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-implement.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]
-- [[r-discovery|Discovery]]

@@ -44,7 +44,7 @@ Role required: none
 
     2.  Select the type of task you want to create.
 
-        An administrator can [[configure-onboarding-modals|configure]] which task types are available.
+        An administrator can configure which task types are available.
 
         The new task record appears in a pop-up window. The short description is automatically populated with the checklist item text.
 
@@ -55,6 +55,3 @@ Role required: none
 
 **Parent Topic:**[Visual Task Board checklists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/c_VisualTaskBoardChecklists.md)
 
-## Related
-
-- [[configure-onboarding-modals|Configure]]

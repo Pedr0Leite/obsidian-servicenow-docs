@@ -12,15 +12,10 @@ breadcrumb: [OT Manager Foundation, Operational Technology]
 
 # Using the OT Manager Foundation
 
-You can search for [[operational-technology-overview|Operational Technology]] \(OT\) configuration items \(CIs\) and OT device information using the Operational Technology \(OT\) Manager Foundation.
+You can search for Operational Technology \(OT\) configuration items \(CIs\) and OT device information using the Operational Technology \(OT\) Manager Foundation.
 
--   **[[search-related-records-ot-cmdb-tables-now-assist-otm|Search for related records in an OT CMDB table]]**  
+-   **[Search for related records in an OT CMDB table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/search-related-records-ot-cmdb-tables-now-assist-otm.md)**  
 Search for Operational Technology \(OT\) configuration items \(CIs\) and OT device information available in an OT CMDB table.
 
-**Parent Topic:**[[now-assist-for-otm-landing|Operational Technology \(OT\) Manager Foundation]]
+**Parent Topic:**[Operational Technology \(OT\) Manager Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/now-assist-for-otm-landing.md)
 
-## Related
-
-- [[search-related-records-ot-cmdb-tables-now-assist-otm|Search for related records in an OT CMDB table]]
-- [[now-assist-for-otm-landing|Operational Technology \(OT\) Manager Foundation]]
-- [[operational-technology-overview|Operational Technology]]

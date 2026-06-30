@@ -14,7 +14,7 @@ breadcrumb: [ITOM Visibility and CSDM reference, ITOM Visibility reference, ITOM
 
 # ITOM Visibility and CMDB tables
 
-[[itom-visibility-landing-page|ITOM Visibility]] manages and uses CMDB tables. Several ServiceNow products benefit from and add value to ITOM Visibility.
+ITOM Visibility manages and uses CMDB tables. Several ServiceNow products benefit from and add value to ITOM Visibility.
 
 ## Tables that ITOM Visibility manages
 
@@ -24,7 +24,7 @@ breadcrumb: [ITOM Visibility and CSDM reference, ITOM Visibility reference, ITOM
 
     The tables that ITOM Visibility manages depend on the method used to map the service instance \(the label for the table was formerly application service\) . You can use the Application Service wizard to populate an application service.
 
-    -   Map the Service instance using top-down [[r-discovery|discovery]] of CI connections. This method requires [[c_ServiceMappingOverview|Service Mapping]], the sm\_admin role, and the current domain must be a leaf domain. This is the best option for accuracy and complete mapping. ITOM Visibility manages the Mapped Application Service table \[cmdb\_ci\_service\_discovered\]
+    -   Map the Service instance using top-down discovery of CI connections. This method requires Service Mapping, the sm\_admin role, and the current domain must be a leaf domain. This is the best option for accuracy and complete mapping. ITOM Visibility manages the Mapped Application Service table \[cmdb\_ci\_service\_discovered\]
     -   Map the service instance using a tag list or tag family. This method requires Service Mapping and is preferred for public or private cloud where tags are typically used. ITOM Visibility manages the tag-based maps table \[cmdb\_ci\_service\_by\_tags\].
     -   Manually map the service instance. This method requires that you select specific CIs — no automation is used. ITOM Visibility manages the service maps table \[cmdb\_ci\_service\_manual\].
     -   Use Dynamic Service to synchronize manually-created CI relationships to a Service Map view.
@@ -49,7 +49,7 @@ breadcrumb: [ITOM Visibility and CSDM reference, ITOM Visibility reference, ITOM
 
 -   IT Service Management
 -   Customer Service Management \(CSM\)
--   [[c_EM|Event Management]]
+-   Event Management
 -   Cloud Management
 -   Asset Management \(Hardware Asset Management and Software Asset Management\)
 -   Strategic Portfolio Management \(Financial Management — Showback statements, Application Portfolio Management \[ APM \]\)
@@ -61,9 +61,3 @@ For details on implementing CMDB data to conform with the CSDM framework, see [I
 
 **Parent Topic:**[ITOM Visibility and CSDM reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/itom-visibility-use-case-product-view.md)
 
-## Related
-
-- [[itom-visibility-landing-page|ITOM Visibility]]
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[c_EM|Event Management]]

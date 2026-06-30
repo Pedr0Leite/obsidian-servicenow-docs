@@ -14,7 +14,7 @@ breadcrumb: [Automating prioritization and triaging, Security Exposure Managemen
 
 Classification groups automate the classification of entities or records based on the classification rules defined in the group. The condition for each rule is evaluated in order, and the first matching rule is used.
 
-The Unified Security Exposure Management base system includes the following two classification groups, which classify [[cj-discovered-items|discovered items]] and [[vulnerabilities|vulnerabilities]] respectively:
+The Unified Security Exposure Management base system includes the following two classification groups, which classify discovered items and vulnerabilities respectively:
 
 -   Technologies Classification
 -   Discovered Containers Classification
@@ -32,16 +32,10 @@ Whenever findings and discovered items are imported, the vulnerability classific
 -   For a selected table, there can only be one active classification group.
 -   Once you create a group, you can’t delete it.
 
-**Parent Topic:**[[sem-automating-prioritization-triaging|Automating prioritization and triaging]]
+**Parent Topic:**[Automating prioritization and triaging](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-automating-prioritization-triaging.md)
 
 **Related topics**  
 
 
-[[sem-configure-classification-rules|Configuring classification rules]]
+[Configuring classification rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-configure-classification-rules.md)
 
-## Related
-
-- [[sem-automating-prioritization-triaging|Automating prioritization and triaging]]
-- [[sem-configure-classification-rules|Configuring classification rules]]
-- [[cj-discovered-items|Discovered Items]]
-- [[vulnerabilities|Vulnerabilities]]

@@ -12,7 +12,7 @@ breadcrumb: [Common Security Operations integration flows and orchestration acti
 
 # Determine Observables activity
 
-The **Determine [[c_Observables|Observables]]** workflow activity determines which observable to include in the workflow
+The **Determine Observables** workflow activity determines which observable to include in the workflow
 
 The **Determine Observables** activity can be used with any workflow to determine which observables to include in the workflow.
 
@@ -42,9 +42,5 @@ The output variables contain data that can be used in subsequent activities.
 |--------|-----------|
 |observables|Filtered observables|
 
-**Parent Topic:**[[common-wf-activities|Common Security Operations integration flows and orchestration activities]]
+**Parent Topic:**[Common Security Operations integration flows and orchestration activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/common-wf-activities.md)
 
-## Related
-
-- [[common-wf-activities|Common Security Operations integration flows and orchestration activities]]
-- [[c_Observables|Observables]]

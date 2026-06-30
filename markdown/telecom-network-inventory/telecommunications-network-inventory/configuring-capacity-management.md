@@ -14,14 +14,14 @@ breadcrumb: [Configure, Telecommunications Network Inventory]
 
 # Configuring capacity management
 
-Create and configure the [[capacity-management-reporting|capacity management]] function, definition, and metric in the [[telecom-network-inventory|Telecommunications Network Inventory]] application. By using capacity management, you can calculate the maximum, occupied, and available capacity of your network assets.
+Create and configure the capacity management function, definition, and metric in the Telecommunications Network Inventory application. By using capacity management, you can calculate the maximum, occupied, and available capacity of your network assets.
 
 -   **[Create capacity function](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-capacity-function.md)**  
 Create a capacity function in the Telecommunications Network Inventory application. You can use this function to calculate the capacity of your network assets.
 -   **[Create capacity definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-capacity-definition.md)**  
 Create a capacity definition in the Telecommunications Network Inventory application. You can use multiple functions in the capacity definition to calculate the capacity of your network assets.
 -   **[View a capacity metric](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/modify-capacity-metric.md)**  
-[[modify-capacity-metric|View a capacity metric]] record in the Telecommunications Network Inventory application. You can use the capacity metric to get the consolidated information of the capacity calculations.
+View a capacity metric record in the Telecommunications Network Inventory application. You can use the capacity metric to get the consolidated information of the capacity calculations.
 -   **[Collect operational values for datacenter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/enter-operational-values-data-center.md)**  
 Record and update operational values manually for datacenters performance tracking in the Telecommunications Network Inventory application. You can use this data for further analysis and reporting.
 
@@ -34,8 +34,3 @@ Record and update operational values manually for datacenters performance tracki
 
 [Revision, operationalization, and decommission of a Configuration Item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/revision-of-a-confiuguration-item.md)
 
-## Related
-
-- [[capacity-management-reporting|Capacity management]]
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[modify-capacity-metric|View a capacity metric]]

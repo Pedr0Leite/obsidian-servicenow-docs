@@ -24,7 +24,7 @@ Administrators create templates for tasks as part of defining an execution plan.
 
 ## Set up an execution plan approval task
 
-Approval tasks are specific types of tasks within [[c_ExecutionPlans|execution plans]].
+Approval tasks are specific types of tasks within execution plans.
 
 ### Before you begin
 
@@ -38,7 +38,7 @@ To set up an approval task including a rollback action:
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[service-catalog|Service Catalog]]** &gt; **Execution Plans**.
+1.  Navigate to **All** &gt; **Service Catalog** &gt; **Execution Plans**.
 
 2.  Select an execution plan.
 
@@ -124,7 +124,3 @@ If a task is skipped, the request fulfillment process moves on to the next task.
 
 If the last task in an execution plan is skipped, the process is finished and the appropriate request item is closed as complete. Skipped tasks have their state set to **Closed Skipped** and display as gray boxes on a requested items list.
 
-## Related
-
-- [[c_ExecutionPlans|Execution Plans]]
-- [[service-catalog|Service Catalog]]

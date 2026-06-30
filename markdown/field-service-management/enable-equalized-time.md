@@ -12,7 +12,7 @@ breadcrumb: [Configuring Time Zones, Dispatcher Workspace, CSM/FSM Configurable 
 
 # Enable resource time indicators
 
-Resource time indicators allow dispatchers to see all the Field Service technicians' time zones on the calendar in [[dispatcher-activities|Dispatcher Workspace]] at a glance. It takes away the math needed to calculate time zones differences between technicians.
+Resource time indicators allow dispatchers to see all the Field Service technicians' time zones on the calendar in Dispatcher Workspace at a glance. It takes away the math needed to calculate time zones differences between technicians.
 
 ## Before you begin
 
@@ -36,6 +36,4 @@ Once the resource time indicators property is enabled, dispatchers can turn on r
 
 4.  Select **Update**.
 
-## Related
 
-- [[dispatcher-activities|Dispatcher Workspace]]

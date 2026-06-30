@@ -16,12 +16,7 @@ Several playbook applications are available that provide playbooks to onboard cu
 
 |Application|Description|
 |-----------|-----------|
-|[[csm-case-type-onboarding|Case Playbook for Onboarding]]|Use this application to manage the process for taking on new customers or enrolling customers in new products. An onboarding case captures the details of the new customer, including their selection of products and services.|
-|[[csm-playbook-complaint-overview|Case Playbook for Complaints]]|Use this application to manage the process for handling customer complaints. A complaint case captures the details of the problem reported by the customer and the expected resolution.|
-|[[csm-playbook-product-support|Case Playbook for Product Support]]|Use this application to guide agents through the steps that are needed to resolve product issues. A product support case captures information about the customer, the product, and the reported issue.|
+|[Case Playbook for Onboarding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-case-type-onboarding.md)|Use this application to manage the process for taking on new customers or enrolling customers in new products. An onboarding case captures the details of the new customer, including their selection of products and services.|
+|[Case Playbook for Complaints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbook-complaint-overview.md)|Use this application to manage the process for handling customer complaints. A complaint case captures the details of the problem reported by the customer and the expected resolution.|
+|[Case Playbook for Product Support](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbook-product-support.md)|Use this application to guide agents through the steps that are needed to resolve product issues. A product support case captures information about the customer, the product, and the reported issue.|
 
-## Related
-
-- [[csm-case-type-onboarding|Case Playbook for Onboarding]]
-- [[csm-playbook-complaint-overview|Case Playbook for Complaints]]
-- [[csm-playbook-product-support|Case Playbook for Product Support]]

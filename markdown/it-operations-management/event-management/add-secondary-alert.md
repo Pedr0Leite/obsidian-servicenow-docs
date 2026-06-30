@@ -24,11 +24,11 @@ Role required: evt\_mgmt\_admin
 
 The alert you select to add to a new group may already be part of another group. Adding it to the new group will automatically remove it from its current group, changing its group association. Alternatively, you can update the alert’s parent to move it to a different group. By specifying a new parent, the alert is transferred to the new parent’s group and removed from the previous one. This can be accomplished by updating the **Parent** field on the alert form or by modifying the **Parent** column in the Alerts list.
 
-**Note:** When you add an alert to a group, this action is logged as feedback for [[c_ServiceAnalyticsOverview|alert grouping]] as part of the process. Currently, the feedback option is available but does not trigger further actions after being logged. Future enhancements to this feature are being considered.
+**Note:** When you add an alert to a group, this action is logged as feedback for alert grouping as part of the process. Currently, the feedback option is available but does not trigger further actions after being logged. Future enhancements to this feature are being considered.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **All Alerts**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **All Alerts**.
 
 2.  Select the alert number to open the alert.
 
@@ -47,7 +47,3 @@ The alert is added as a secondary alert to the selected parent alert.
 
 **Parent Topic:**[Manual alert grouping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/manual-alert-grouping.md)
 
-## Related
-
-- [[c_ServiceAnalyticsOverview|Alert grouping]]
-- [[c_EM|Event Management]]

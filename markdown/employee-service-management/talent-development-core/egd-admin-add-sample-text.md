@@ -22,7 +22,7 @@ Role required: sn\_egd\_core.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[egd-landing-page|Talent Development Core]]** &gt; **Administration** &gt; **Sample texts**.
+1.  Navigate to **All** &gt; **Talent Development Core** &gt; **Administration** &gt; **Sample texts**.
 
 2.  Select **New**.
 
@@ -35,6 +35,3 @@ Role required: sn\_egd\_core.admin
 
 **Parent Topic:**[Administer and maintain the Talent Development Core app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-administration.md)
 
-## Related
-
-- [[egd-landing-page|Talent Development Core]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure Journey designer features, Configure, Journey designer, E
 
 # Create and manage plan types
 
-Create plan types to manage the top-level classification for stages and tasks in a [[jny-dsgnr-landing-page-1|Journey designer]] plan.
+Create plan types to manage the top-level classification for stages and tasks in a Journey designer plan.
 
 ## Before you begin
 
@@ -33,6 +33,3 @@ Role required: admin \[sn\_jny.admin\]
 
 **Parent Topic:**[Configure Journey designer features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-configuration.md)
 
-## Related
-
-- [[jny-dsgnr-landing-page-1|Journey designer]]

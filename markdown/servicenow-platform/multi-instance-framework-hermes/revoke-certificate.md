@@ -14,7 +14,7 @@ breadcrumb: [Configure, Hermes Messaging Service, Manage service capabilities, E
 
 # Revoke a Hermes certificate
 
-Revoke a ServiceNow® instance-signed certificate so that it can't be used in secure connections to the [[hermes-messaging-service|Hermes Messaging Service]].
+Revoke a ServiceNow® instance-signed certificate so that it can't be used in secure connections to the Hermes Messaging Service.
 
 ## Before you begin
 
@@ -48,6 +48,3 @@ The certificates are revoked and can no longer be used in secure connections to 
 
 [Restricting access to Hermes]()
 
-## Related
-
-- [[hermes-messaging-service|Hermes Messaging Service]]

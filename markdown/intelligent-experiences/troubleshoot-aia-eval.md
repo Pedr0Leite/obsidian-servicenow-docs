@@ -22,15 +22,15 @@ There are a few different reasons why an evaluation run may fail to execute prop
 
 -   **Agent version unavailable**
 
-    Verify that the selected agent version still exists in [[ai-agent-studio|AI Agent Studio]]. The version does not have to be the one currently active, but deleted or archived versions can't be evaluated.
+    Verify that the selected agent version still exists in AI Agent Studio. The version does not have to be the one currently active, but deleted or archived versions can't be evaluated.
 
 -   **User permissions**
 
-    Confirm that your User record has the permissions required to execute evaluation runs in general and to use the specific AI asset. To check whether a certain user has access, you can perform an access test. See [[test-aia-access|Test user access to an AI agent]] and [[test-aw-access|Test user access to an agentic workflow]].
+    Confirm that your User record has the permissions required to execute evaluation runs in general and to use the specific AI asset. To check whether a certain user has access, you can perform an access test. See [Test user access to an AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/test-aia-access.md) and [Test user access to an agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/test-aw-access.md).
 
 -   **Data format errors**
 
-    Verify that the dataset conforms to the required format. Malformed records can cause the evaluation to fail. See [[ref-aia-eval|Data requirements for agentic evaluations]] for the supported data types.
+    Verify that the dataset conforms to the required format. Malformed records can cause the evaluation to fail. See [Data requirements for agentic evaluations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ref-aia-eval.md) for the supported data types.
 
 -   **Metric and data mismatch**
 
@@ -43,11 +43,11 @@ If the evaluation found no issues, but the specific agentic AI asset is still no
 
 -   **Dataset coverage**
 
-    The evaluation dataset may not include the types of inputs or scenarios that expose the agent's weaknesses. Review the dataset for any coverage gaps and add representative edge [[cases|cases]] to more closely align what is being evaluated with real-world scenarios.
+    The evaluation dataset may not include the types of inputs or scenarios that expose the agent's weaknesses. Review the dataset for any coverage gaps and add representative edge cases to more closely align what is being evaluated with real-world scenarios.
 
 -   **Metric selection**
 
-    The selected metrics may not be measuring where the agentic AI asset is failing. Review whether additional or different metrics would better capture the performance gap. You can [[create-custom-metric|create custom metrics]] to evaluate other dimensions of the agentic AI asset responses or actions, such as length of response or whether a response meets certain formatting requirements.
+    The selected metrics may not be measuring where the agentic AI asset is failing. Review whether additional or different metrics would better capture the performance gap. You can [create custom metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/create-custom-metric.md) to evaluate other dimensions of the agentic AI asset responses or actions, such as length of response or whether a response meets certain formatting requirements.
 
 -   **Scoring thresholds**
 
@@ -56,7 +56,7 @@ If the evaluation found no issues, but the specific agentic AI asset is still no
 
 ## Optimization applied, but re-evaluation didn't improve
 
-If the re-evaluation scores did not improve after [[aia-eval-apply-optimization|applying optimizations]], try the following:
+If the re-evaluation scores did not improve after [applying optimizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-eval-apply-optimization.md), try the following:
 
 -   Review trace details for the issues that were targeted. The optimization may have only alleviated surface-level symptoms without resolving the underlying root cause.
 -   Check whether the optimization introduced a regression in a different metric. Score improvements in one area can sometimes degrade another, lowering the final scores.
@@ -72,7 +72,7 @@ If the data can't be processed because it doesn't meet data requirements, the ev
 
 -   **Missing required fields**
 
-    [[ai-datasets|Datasets]] must include the fields required by the selected metrics. Check for missing or misnamed columns. If you're using a ground truth, you must include it in the dataset.
+    Datasets must include the fields required by the selected metrics. Check for missing or misnamed columns. If you're using a ground truth, you must include it in the dataset.
 
 -   **Encoding issues**
 
@@ -82,13 +82,4 @@ If the data can't be processed because it doesn't meet data requirements, the ev
 
     Very large files or datasets may time out during processing. If this occurs, reduce the dataset size or contact your Platform Administrator.
 
-## Related
 
-- [[test-aia-access|Test user access to an AI agent]]
-- [[test-aw-access|Test user access to an agentic workflow]]
-- [[ref-aia-eval|Reference for agentic evaluations]]
-- [[create-custom-metric|Create a custom metric for evaluating agentic workflows]]
-- [[aia-eval-apply-optimization|Apply optimizations to agentic AI assets and reevaluate]]
-- [[ai-agent-studio|AI Agent Studio]]
-- [[cases|Cases]]
-- [[ai-datasets|Datasets]]

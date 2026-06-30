@@ -16,14 +16,14 @@ breadcrumb: [Configure, Workplace Connectors, Workplace Service Delivery, Employ
 
 Configure the workplace environment data sensors to retrieve and fetch air quality and temperature data for a workplace. Define the units to measure air quality and temperature in the Unit of Measure table \[sn\_wsd\_wc\_unit\_of\_measure\]. The units are added in the Environmental data table.
 
-[[workplace-connectors-landing-page|Workplace Connectors]] Environmental data table \(sn\_wsd\_wc\_space\_environment\) checks for workplace air quality and temperature. It checks for Carbon dioxide and Ozone levels along with temperature, and relative Humidity value at a workplace location.
+Workplace Connectors Environmental data table \(sn\_wsd\_wc\_space\_environment\) checks for workplace air quality and temperature. It checks for Carbon dioxide and Ozone levels along with temperature, and relative Humidity value at a workplace location.
 
 **Note:** Workplace Connectors customers are expected to build their own environmental data framework for using Environmental sensor data records. For more information about how to implement the Workplace Connectors framework and environmental sensor data, see Workplace Connectors Implementation Guide V1.0 Aug 2024 on the ServiceNow Community.
 
 1.  [Set up Connector Configuration for Environmental sensor data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/wsd-connectorconfiguration-environment.md)  
-Configure the [[connector-configuration-occupancy|Connector Configurations]] table for loading the Environmental data. Connector configuration table retrieves the sensor data from different environmental sensor data providers.
+Configure the Connector Configurations table for loading the Environmental data. Connector configuration table retrieves the sensor data from different environmental sensor data providers.
 2.  [Provider Connector Configuration for Environmental sensors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/wsd-env-provider-connectorconfig.md)  
-Configure the [[provider-configuration-ovw|provider connector configuration]] for setting up environmental sensors in workplace locations.
+Configure the provider connector configuration for setting up environmental sensors in workplace locations.
 3.  [Set up the Units of measure data table for environmental sensors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/wsd-enviromental-unit-measure.md)  
 Configure the unit of measure for air quality \(Carbon dioxide and Ozone metric\) and temperature units \(degree celsius and micrograms per cubic meter\) for a workplace location. The Workplace Connectors environmental sensors checks for the air and temperature quality metrics in a workplace location.
 4.  [Configure environmental sensor data for a workplace location](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/config-connectors-env-sensor.md)  
@@ -37,8 +37,3 @@ Use the archive rules and destroy rules to archive and purge the environmental d
 
 **Next topic:**[Set up Connector Configuration for Environmental sensor data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/wsd-connectorconfiguration-environment.md)
 
-## Related
-
-- [[workplace-connectors-landing-page|Workplace Connectors]]
-- [[connector-configuration-occupancy|Connector Configurations]]
-- [[provider-configuration-ovw|Provider connector configuration]]

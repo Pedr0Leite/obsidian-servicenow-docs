@@ -14,8 +14,5 @@ breadcrumb: [Using Contracts and Entitlements Workflows, Customer Contracts and 
 
 Modify Customer contracts, contracts lines, and entitlements.
 
-Modifying customer contracts, contracts lines, and entitlements applies the requested changes and updates the record based on configured amendment [[rules_101|rules]]. Modifications can impact terms, pricing, dates, or related records while preserving life cycle history.
+Modifying customer contracts, contracts lines, and entitlements applies the requested changes and updates the record based on configured amendment rules. Modifications can impact terms, pricing, dates, or related records while preserving life cycle history.
 
-## Related
-
-- [[rules_101|Rules]]

@@ -34,7 +34,7 @@ The following table shows mappings between the fields on the processing activity
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[privacy-management|Privacy Management]]** &gt; **Assessments** &gt; **All [[airc-assessment-templates|Assessment Templates]]**.
+1.  Navigate to **All** &gt; **Privacy Management** &gt; **Assessments** &gt; **All Assessment Templates**.
 
 2.  Click and open the required assessment template.
 
@@ -53,7 +53,3 @@ The following table shows mappings between the fields on the processing activity
 
 **Parent Topic:**[Create a privacy assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/create-assessment-template.md)
 
-## Related
-
-- [[privacy-management|privacy management]]
-- [[airc-assessment-templates|Assessment templates]]

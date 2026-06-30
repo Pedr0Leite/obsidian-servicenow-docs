@@ -15,7 +15,7 @@ breadcrumb: [Intelligent Servicing for Fraud, Banking applications, Financial Se
 
 # Exploring Intelligent Servicing for Fraud
 
-By using the [[intelligent-servicing-for-fraud-landing-page|Intelligent Servicing for Fraud]] application, you can review the alert details that are flagged by external systems, review the cases that are reported by customers, investigate the alert cases that are reported by customers, and move the case to a final case disposition.
+By using the Intelligent Servicing for Fraud application, you can review the alert details that are flagged by external systems, review the cases that are reported by customers, investigate the alert cases that are reported by customers, and move the case to a final case disposition.
 
 ## Key features
 
@@ -64,7 +64,3 @@ Fulfillers
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[intelligent-servicing-for-fraud-landing-page|Intelligent Servicing for Fraud]]

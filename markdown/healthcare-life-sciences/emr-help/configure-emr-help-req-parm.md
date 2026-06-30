@@ -28,7 +28,7 @@ You can also create system-specific parameters as remote request parameters to s
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[emr-exploring|EMR Help]]** &gt; **Administration** &gt; **Request Parameters**.
+1.  Navigate to **All** &gt; **EMR Help** &gt; **Administration** &gt; **Request Parameters**.
 
 2.  In the Remote Request Parameters list, modify an existing parameter or create another parameter.
 
@@ -102,6 +102,4 @@ Option to indicate that the parameter contains sensitive data.
 
     **Note:** If a column for an EMR variable already exists in the data table, you can reuse the same column instead of creating another column. For example, if you have multiple EMR systems with a few common EMR variables, you can map the common variable from different EMR systems to the same column in the data table.
 
-## Related
 
-- [[emr-exploring|EMR Help]]

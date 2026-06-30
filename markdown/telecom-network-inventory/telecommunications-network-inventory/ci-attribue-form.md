@@ -14,7 +14,7 @@ breadcrumb: [Reference, Telecommunications Network Inventory]
 
 # TNI CI Attributes form
 
-The TNI CI Attributes form enables you to create the [[telecom-network-inventory|Telecommunications Network Inventory]] attribute details for a network inventory in the Telecommunications Network Inventory application.
+The TNI CI Attributes form enables you to create the Telecommunications Network Inventory attribute details for a network inventory in the Telecommunications Network Inventory application.
 
 <table id="table_gcm_h11_5vb"><thead><tr><th>
 
@@ -181,6 +181,3 @@ Free-form operation note text for this network asset. For example, `Check diesel
 
 [Create a telecommunications equipment instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/define-equipment-type.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]

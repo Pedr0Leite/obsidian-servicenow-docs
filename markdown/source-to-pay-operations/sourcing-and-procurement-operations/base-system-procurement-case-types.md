@@ -15,7 +15,7 @@ breadcrumb: [Reference, Sourcing and Procurement Operations, Finance and Supply 
 
 # Base system procurement case type reference
 
-[[psd-overview|Procurement Case Management]] provides 13 base system case types that classify procurement work.
+Procurement Case Management provides 13 base system case types that classify procurement work.
 
 ## Purchase modification cases
 
@@ -39,7 +39,7 @@ How it is created
 
 </td><td>
 
-Modify an existing [[purchase-requisition|purchase requisition]] or [[purchase-order-table|purchase order]] — for example, to change quantity, price, delivery date, or line items.
+Modify an existing purchase requisition or purchase order — for example, to change quantity, price, delivery date, or line items.
 
 </td><td>
 
@@ -51,7 +51,7 @@ Requestor selects the edit action in ShoppingHub. The system creates a purchase 
 
 </td><td>
 
-Return received goods to the [[supplier|supplier]].
+Return received goods to the supplier.
 
 </td><td>
 
@@ -104,7 +104,7 @@ How it is created
 
 </td><td>
 
-Verify and correct the general [[ledger-account|ledger account]] coding on a purchase line before the order is placed.
+Verify and correct the general ledger account coding on a purchase line before the order is placed.
 
 </td><td>
 
@@ -128,7 +128,7 @@ Automatic — the Task Generation Decision Table creates the case when a purchas
 
 </td><td>
 
-Review applicable [[contracts|contracts]] before the purchase proceeds.
+Review applicable contracts before the purchase proceeds.
 
 </td><td>
 
@@ -168,7 +168,7 @@ Conduct a supplier due diligence assessment before a purchase proceeds.
 
 </td><td>
 
-Manual — opened by a procurement specialist — or automatically via the Task Generation Decision Table during [[supplier-qualification|supplier qualification]]. The case is initially assigned to the user who creates it.
+Manual — opened by a procurement specialist — or automatically via the Task Generation Decision Table during supplier qualification. The case is initially assigned to the user who creates it.
 
 </td></tr></tbody>
 </table>## Support request cases
@@ -235,7 +235,7 @@ Employee submits the **Request a copy of contract** catalog item in the Service 
 
 [Savings opportunity fields]()
 
-[Purchase requisition, purchase order, and [[sourcing-request|sourcing request]] states]()
+[Purchase requisition, purchase order, and sourcing request states]()
 
 [SPO and ITAM data model mappings]()
 
@@ -245,13 +245,3 @@ Employee submits the **Request a copy of contract** catalog item in the Service 
 
 [Procurement case types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/procurement-case-types.md)
 
-## Related
-
-- [[psd-overview|Procurement Case Management]]
-- [[purchase-requisition|Purchase requisition]]
-- [[purchase-order-table|Purchase order]]
-- [[supplier|Supplier]]
-- [[ledger-account|Ledger account]]
-- [[contracts|Contracts]]
-- [[supplier-qualification|Supplier qualification]]
-- [[sourcing-request|Sourcing request]]

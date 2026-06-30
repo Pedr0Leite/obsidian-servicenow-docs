@@ -14,7 +14,7 @@ breadcrumb: [Software discovery models in the legacy Software Asset Management p
 
 # Create new models using the legacy Software Asset Management plugin
 
-If the automatically generated software model is not correct or if the system cannot find a match from existing [[c_Models|models]], you can create a new model using the legacy Software [[c_AssetManagement|Asset Management]] \(com.snc.software\_asset\_management\) plugin.
+If the automatically generated software model is not correct or if the system cannot find a match from existing models, you can create a new model using the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: sam
 
 3.  Save the record.
 
-    Two related links appear for creating [[c_CreatingSoftwareModels|software models]].
+    Two related links appear for creating software models.
 
 4.  Select one of these related links to create a new model, which are available only if no **Software model** is specified.
 
@@ -42,7 +42,7 @@ Role required: sam
     |Publisher|\[Read-only\] Publisher of the software.|
     |Version|\[Read-only\] Specific version of the software.|
     |Revision|\[Read-only\] Revision number of the software.|
-    |Software model|Software product model to which the discovery model maps. Click the [[reference-for-itsm-mobile-agent|reference]] lookup icon and use the lookup list to find the software model to associate with this software discovery model.|
+    |Software model|Software product model to which the discovery model maps. Click the reference lookup icon and use the lookup list to find the software model to associate with this software discovery model.|
     |Prod id|\[Read-only\] Product ID code for the software, as reported through the discovery process.|
     |Automatically matched|\[Read-only\] Check box that indicates whether the discovery tool used the **Display Name**, **Publisher**, and **Version** fields to determine the **Software model**.|
     |Approved|Check box that indicates whether the mapping to software model has been reviewed and approved.|
@@ -57,9 +57,3 @@ Role required: sam
 
 **Parent Topic:**[Software discovery models in the legacy Software Asset Management plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_UsingSoftwareDiscoveryModels.md)
 
-## Related
-
-- [[c_Models|Models]]
-- [[c_AssetManagement|Asset Management]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[reference-for-itsm-mobile-agent|Reference]]

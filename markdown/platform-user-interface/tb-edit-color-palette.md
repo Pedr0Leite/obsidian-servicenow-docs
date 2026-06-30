@@ -33,7 +33,7 @@ You can also watch a short video on how to create an alternate color palette.
 
     \[Omitted image "tb-home.png"\] Alt text: Page menu.
 
-2.  From the Home page view, select the Manager page view to see [[tb-create-theme|the themes you have created]].
+2.  From the Home page view, select the Manager page view to see [the themes you have created](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tb-create-theme.md).
 
     **Important:** When you have selected the theme you want to work on, verify that you have selected the correct scope for the theme from the application scope picker.
 
@@ -56,20 +56,14 @@ You can also watch a short video on how to create an alternate color palette.
     -   In the **Color palette name** field, change the color palette name.
     -   Select any of the three brand colors defined in this palette and change them from the color picker.
 
-        **Note:** For dark palettes, only the primary color can be edited. If you want to customize further, see [[tb-edit-components|Edit components]].
+        **Note:** For dark palettes, only the primary color can be edited. If you want to customize further, see [Edit components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tb-edit-components.md).
 
 
 ## Result
 
 The alternate color palette is added to your core theme. The theme name now appears as a theme group with the palette recorded under the Color palette drop-down list.\[Omitted image "tb-color-palette-list.png"\] Alt text: Color palette drop-down list.
 
-If your theme is currently published, your alternate color palette is available for selection in the user's Theme preferences. For information on publishing your theme, see [[tb-apply-theme|Publish your themes with Theme Builder]].
+If your theme is currently published, your alternate color palette is available for selection in the user's Theme preferences. For information on publishing your theme, see [Publish your themes with Theme Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tb-apply-theme.md).
 
-**Parent Topic:**[[tb-edit-theme|Manage or edit a theme with Theme Builder]]
+**Parent Topic:**[Manage or edit a theme with Theme Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tb-edit-theme.md)
 
-## Related
-
-- [[tb-create-theme|Create a theme with Theme Builder]]
-- [[tb-edit-components|Edit components]]
-- [[tb-apply-theme|Publish your themes with Theme Builder]]
-- [[tb-edit-theme|Manage or edit a theme with Theme Builder]]

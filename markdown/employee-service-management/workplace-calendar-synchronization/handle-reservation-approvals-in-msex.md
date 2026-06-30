@@ -16,7 +16,7 @@ breadcrumb: [Microsoft Exchange Online - Calendar synchronization, Setup Workpla
 
 Track the approval status from Microsoft Outlook when a reservation request is either approved or rejected by the delegate.
 
-If you [[create-reservation-request-1|create a reservation]] in [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] for a room with approvals enabled in Microsoft Outlook, the reservation status is initially set to Awaiting confirmation. When a callback is received from Microsoft Outlook, the reservation status updates to Awaiting approval. The reservation remains in this state until a delegate manually accepts or rejects the request.
+If you create a reservation in Workplace Service Delivery for a room with approvals enabled in Microsoft Outlook, the reservation status is initially set to Awaiting confirmation. When a callback is received from Microsoft Outlook, the reservation status updates to Awaiting approval. The reservation remains in this state until a delegate manually accepts or rejects the request.
 
 -   If the approver accepts the request in Microsoft Outlook, the reservation status in **Workplace Reservations** \[sn\_wsd\_rsv\_reservation\] table changes to Confirmed.
 -   If the approver declines the request, the reservation status in **Workplace Reservations** \[sn\_wsd\_rsv\_reservation\] table changes to Cancelled.
@@ -30,7 +30,3 @@ A new column **External Approval State** has been added to the **Workplace Reser
 
 **Note:** If a room has approvals enabled in both Workplace Service Delivery and Microsoft Outlook, the reservation status remains in Awaiting approval until it’s approved in both systems.
 
-## Related
-
-- [[create-reservation-request-1|Create a reservation]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]

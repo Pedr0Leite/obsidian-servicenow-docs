@@ -14,7 +14,7 @@ breadcrumb: [Understanding user criteria for event types, Scheduling your teams'
 
 # Create user criteria for event types in Workforce Optimization for ITSM
 
-Add a user criteria record to specify which users, roles, and groups can access event types in [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]].
+Add a user criteria record to specify which users, roles, and groups can access event types in Workforce Optimization for ITSM.
 
 ## Before you begin
 
@@ -51,6 +51,3 @@ Role required: admin
 
 [Create a user criteria record for Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/create-user-criteria-record.md)
 
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]

@@ -27,10 +27,7 @@ The base system has the following existing on-call notification channels to send
 
 Besides the on-call notification channels available in the base system, you can configure your own service provider and add the provider as the custom on-call notification channel.
 
-To define, configure and integrate a custom channel in [[c_OnCallScheduling|On-Call Scheduling]] for sending on-call escalation notification, refer to the [https://support.servicenow.com/kb?id=kb\_article\_view&amp;sysparm\_article=KB2299454](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2299454).
+To define, configure and integrate a custom channel in On-Call Scheduling for sending on-call escalation notification, refer to the [https://support.servicenow.com/kb?id=kb\_article\_view&amp;sysparm\_article=KB2299454](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2299454).
 
 **Parent Topic:**[Configuring On-Call Scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/configuration.md)
 
-## Related
-
-- [[c_OnCallScheduling|On-Call Scheduling]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure event collection for SNMP traps, Configure Event Manageme
 
 # Configure message keys to spread SNMP object identifiers
 
-By default, most SNMP trap events are processed by a single [[c_EM|Event Management]] processing job. This can negatively effect event processing. Configure message keys on the MID Server to ensure that more than one processing job is invoked, ensuring optimal SNMP trap performance.
+By default, most SNMP trap events are processed by a single Event Management processing job. This can negatively effect event processing. Configure message keys on the MID Server to ensure that more than one processing job is invoked, ensuring optimal SNMP trap performance.
 
 ## Before you begin
 
@@ -36,7 +36,7 @@ Role required: evt\_mgmt\_admin
 
 6.  Click **Submit**.
 
-    **Note:** The OID trap counter may cause problems activating [[create-event-rules|event rules]]. To remove the trap counter from the OID, navigate to **MID Server** &gt; **Properties** and set the **mid.em.snmp\_oid\_key\_counter\_cut.enabled** property to **true**.
+    **Note:** The OID trap counter may cause problems activating event rules. To remove the trap counter from the OID, navigate to **MID Server** &gt; **Properties** and set the **mid.em.snmp\_oid\_key\_counter\_cut.enabled** property to **true**.
 
 7.  To set conditions in a script that determine the message key to be used based on the SNMP traps received:
 
@@ -53,7 +53,3 @@ Role required: evt\_mgmt\_admin
 
 **Parent Topic:**[Configure event collection for SNMP traps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMSNMPTrapEvent.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[create-event-rules|Event rules]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, Personal Data Rights \(PDR\), Privacy Management, Govern
 
 # Generate action tasks for a personal data rights request
 
-Automatically create action tasks for a [[personal-data-rights|personal data rights]] request. These action tasks are generated based on the data registry that is created by the personal data rights admin and are assigned to the right data owners.
+Automatically create action tasks for a personal data rights request. These action tasks are generated based on the data registry that is created by the personal data rights admin and are assigned to the right data owners.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Creating a data registry helps identify which user should be assigned personal d
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[personal-data-rights-workspace|Personal Data Rights Workspace]]** &gt; **Lists** &gt; **Personal data rights** &gt; **All requests**.
+1.  Navigate to **All** &gt; **Personal Data Rights Workspace** &gt; **Lists** &gt; **Personal data rights** &gt; **All requests**.
 
 2.  Open the request for which you want to generate tasks.
 
@@ -41,7 +41,3 @@ Creating a data registry helps identify which user should be assigned personal d
 
 **Parent Topic:**[Configuring Personal Data Rights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/configuring-personal-data-rights.md)
 
-## Related
-
-- [[personal-data-rights|personal data rights]]
-- [[personal-data-rights-workspace|Personal Data Rights workspace]]

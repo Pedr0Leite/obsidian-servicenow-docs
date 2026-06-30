@@ -16,7 +16,7 @@ Several types of components are installed with the Advanced Part Sourcing featur
 
 ## Plugin
 
-The Field Service Advanced Parts Sourcing \(com.snc.fsm\_advanced\_parts\_sourcing\) plugin must be activated. For more information on the steps to activate a plugin, see [[t_ActivateFieldServiceManagement|Activate Field Service Management]].
+The Field Service Advanced Parts Sourcing \(com.snc.fsm\_advanced\_parts\_sourcing\) plugin must be activated. For more information on the steps to activate a plugin, see [Activate Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/t_ActivateFieldServiceManagement.md).
 
 ## Business rules
 
@@ -257,7 +257,7 @@ New columns added
 
 </th></tr></thead><tbody><tr><td>
 
-[[c_PartRequirements|Part requirements]]\[sm\_part\_requirement​\]
+Part requirements\[sm\_part\_requirement​\]
 
 </td><td>
 
@@ -326,10 +326,5 @@ Creates a part request when a part is added to the part requirement.-   **Type**
 -   **Location**: **Field Service** &gt; **Administration** &gt; **Properties**
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[components-inst-additional-plugin|Components installed with additional plugins for Field Service Management]]
+</table>**Parent Topic:**[Components installed with additional plugins for Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/components-inst-additional-plugin.md)
 
-## Related
-
-- [[t_ActivateFieldServiceManagement|Activate Field Service Management]]
-- [[components-inst-additional-plugin|Components installed with additional plugins for Field Service Management]]
-- [[c_PartRequirements|Part requirements]]

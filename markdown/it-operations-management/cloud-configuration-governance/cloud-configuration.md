@@ -14,7 +14,7 @@ breadcrumb: [Cloud Provisioning and Governance, ITOM Cloud Accelerate, IT Operat
 
 # Cloud Provisioning and Governance administration guide
 
-After you set up the [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] application on your instance, there are many items that you must configure before your users can request and manage any cloud resources.
+After you set up the Cloud Provisioning and Governance application on your instance, there are many items that you must configure before your users can request and manage any cloud resources.
 
 ## Requirements
 
@@ -34,7 +34,7 @@ Role required to use the Cloud Provisioning and Governance administration guide 
 
 ## What to do after setup
 
--   **Create [[cloud-resource-profiles|resource profiles]]**
+-   **Create resource profiles**
 
     Resource profiles contain the attributes that a resource can have. Users select values for these attributes when they order a cloud resource. You can configure these types of resource profiles: Compute \(such as the size of a VM\), Operating System \(such as the type and version\), Storage \(such as backup\), and Security Groups \(such as whether to use HTTPS\). See [Resource Profiles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-resource-profiles.md) for more information.
 
@@ -50,7 +50,3 @@ Role required to use the Cloud Provisioning and Governance administration guide 
     -   Use or modify a base-system catalog item
     -   Use a Terraform template
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[cloud-resource-profiles|Resource Profiles]]

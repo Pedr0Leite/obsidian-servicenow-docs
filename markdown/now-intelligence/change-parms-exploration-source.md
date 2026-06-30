@@ -21,7 +21,7 @@ Role required: now\_assist\_explorer\_user and ownership or editing rights to th
 
 ## Procedure
 
-1.  [[launch-now-assist-explorer|Launch AI Data Explorer]].
+1.  Launch AI Data Explorer.
 
 2.  Open an exploration that has a question and response whose source you want to change.
 
@@ -54,9 +54,5 @@ The data visualization, summary, and suggested follow-on questions are regenerat
 
 **Note:** Regenerating a response removes all changes that you made manually to the text in the summary.
 
-**Parent Topic:**[[ask-expl-questions|Questions and responses in an exploration]]
+**Parent Topic:**[Questions and responses in an exploration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/ask-expl-questions.md)
 
-## Related
-
-- [[ask-expl-questions|Questions and responses in an exploration]]
-- [[launch-now-assist-explorer|Launch AI Data Explorer]]

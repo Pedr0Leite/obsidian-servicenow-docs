@@ -27,7 +27,7 @@ Roles required:
 
 1.  Navigate to the Equipment Model Manager using one of these options:
 
-    -   Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]] Admin** &gt; **[[industrial-process-manager-overview|Industrial Process Manager]]** &gt; **Equipment Model Manager**.
+    -   Navigate to **All** &gt; **Industrial Workspace Admin** &gt; **Industrial Process Manager** &gt; **Equipment Model Manager**.
     -   Navigate to **All** &gt; **Industrial Workspace**. Select the Equipment model \(\[Omitted image "equip-model-manager-button.png"\] Alt text: Equipment model icon\) icon.
 2.  From the Equipment model view, select the site, or expand the equipment model hierarchy to select the entity that you want to view mappings for.
 
@@ -44,7 +44,3 @@ Roles required:
 
 **Parent Topic:**[Automated Mapping Across Zone-based IP Network Groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/automate-mappings-between-ot-assets-and-equipment-model-entity.md)
 
-## Related
-
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[industrial-process-manager-overview|Industrial Process Manager]]

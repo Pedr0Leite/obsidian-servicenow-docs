@@ -12,7 +12,7 @@ breadcrumb: [JDBCProbe, Supported integration interfaces, Integration options, I
 
 # Parameters
 
-The following parameters are available in a [[c_DirectJDBCProbe|direct JDBC probe]].
+The following parameters are available in a direct JDBC probe.
 
 <table id="table_k4c_ywv_4y"><thead><tr><th>
 
@@ -53,7 +53,7 @@ Description
 
 </td><td>
 
-Required. The JDBC connection string/URL for defining the connection usually contains information about the database server and name, the user ID, and password for connecting to the database. The syntax is vendor-specific. See the following links for [[reference-email-admin|reference]]:-   Oracle: `[jdbc:oracle:thin:<username/password>@<database>]`
+Required. The JDBC connection string/URL for defining the connection usually contains information about the database server and name, the user ID, and password for connecting to the database. The syntax is vendor-specific. See the following links for reference:-   Oracle: `[jdbc:oracle:thin:<username/password>@<database>]`
 -   Microsoft SQL Server: `[jdbc:sqlserver://localhost;user=MyUserName;password=*****;]`
 -   MySQL - `[jdbc:mysql://localhost/database?user=username%26password=passwd]`
 
@@ -147,10 +147,5 @@ For example, to query a table using a direct JDBC probe, requires the following 
     -   User password
 -   The table name
 
-**Parent Topic:**[[t_JDBCProbe|JDBCProbe]]
+**Parent Topic:**[JDBCProbe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_JDBCProbe.md)
 
-## Related
-
-- [[t_JDBCProbe|JDBCProbe]]
-- [[c_DirectJDBCProbe|Direct JDBC Probe]]
-- [[reference-email-admin|Reference]]

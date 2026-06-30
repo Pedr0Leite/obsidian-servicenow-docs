@@ -12,7 +12,7 @@ breadcrumb: [Configure, Now Assist AI agents, Enable AI experiences]
 
 # Enable Now Assist Guardian for AI agents
 
-Identify and block offensive messages that are sent by human agents automatically by enabling [[platform-now-assist-landing|Now Assist]] Guardian in AI agents. With this capability, you can help reduce your agentic workflow or test from being exposed to harmful content.
+Identify and block offensive messages that are sent by human agents automatically by enabling Now Assist Guardian in AI agents. With this capability, you can help reduce your agentic workflow or test from being exposed to harmful content.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-The Now Assist Guardian, which is a ServiceNow AI Platform capability in the [[now-assist-center-now-assist-panel|Now Assist panel]], is a set of guardrails that are designed to intercept and mitigate offensive, sensitive, or security-related issues that may arise during interactions with the Now Assist application.
+The Now Assist Guardian, which is a ServiceNow AI Platform capability in the Now Assist panel, is a set of guardrails that are designed to intercept and mitigate offensive, sensitive, or security-related issues that may arise during interactions with the Now Assist application.
 
 For example, let's say that Now Assist Guardian detects an offensive message in the execution plan of an agentic workflow. When you try to trigger the plan or test it, Now Assist Guardian can step in to terminate the plan or test because it detected harmful content at the first step of the execution plan.
 
@@ -32,7 +32,7 @@ For more information about the different guardrails, see [Now Assist Guardian](h
 
 1.  Configure Offensiveness for AI agents.
 
-    1.  In [[ai-agent-studio|AI Agent Studio]], navigate to the **Settings** tab.
+    1.  In AI Agent Studio, navigate to the **Settings** tab.
 
         You’re directed to the Offensiveness page.
 
@@ -69,8 +69,4 @@ For more information about the different guardrails, see [Now Assist Guardian](h
 
         When you configure the Prompt Injection for an agentic workflow by using the required instructions, the system is designed to detect harmful content and block the conversation.
 
-## Related
 
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[ai-agent-studio|AI Agent Studio]]

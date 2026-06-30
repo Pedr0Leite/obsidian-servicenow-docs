@@ -14,7 +14,7 @@ breadcrumb: [Technology Controls Monitoring Accelerator, GRC use case accelerato
 
 # Using indicator templates
 
-Indicators collect data to monitor a single control or risk. Indicator templates allow you to create multiple indicators for similar controls or risks. The [[tech-controls-monitoring-accel|Technology Controls Monitoring Accelerator]] application provides a collection of 171 predefined indicator templates for monitoring cybersecurity controls.
+Indicators collect data to monitor a single control or risk. Indicator templates allow you to create multiple indicators for similar controls or risks. The Technology Controls Monitoring Accelerator application provides a collection of 171 predefined indicator templates for monitoring cybersecurity controls.
 
 ## Indicators and Indicator templates
 
@@ -131,6 +131,3 @@ You can also view information on the following tabs:
 
 **Parent Topic:**[Technology Controls Monitoring Accelerator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/tech-controls-monitoring-accel.md)
 
-## Related
-
-- [[tech-controls-monitoring-accel|Technology Controls Monitoring Accelerator]]

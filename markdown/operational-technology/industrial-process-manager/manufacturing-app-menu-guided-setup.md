@@ -14,11 +14,11 @@ breadcrumb: [Configure, Industrial Process Manager, Operational Technology]
 
 # Industrial Workspace Admin application menu and Guided Setup
 
-After you install the application and related plugins, you can use the [[industrial-workspace-for-operational-technology|Industrial Workspace]] Admin application menu to access the related [[operational-technology-manager|Operational Technology Manager]], [[industrial-process-manager-overview|Industrial Process Manager]], [[operational-technology-incident-management-landing-page|Operational Technology Incident Management]], [[oper-tech-vulnerability-response-landing-page|Operational Technology Vulnerability Response]], [[operational-technology-change-management-landing-page|Operational Technology Change Management]], [[operational-technology-knowledge-management-landing-page|Operational Technology Knowledge Management]], and [[operational-technology-request-management-landing-page|Operational Technology Request Management]] functions.
+After you install the application and related plugins, you can use the Industrial Workspace Admin application menu to access the related Operational Technology Manager, Industrial Process Manager, Operational Technology Incident Management, Operational Technology Vulnerability Response, Operational Technology Change Management, Operational Technology Knowledge Management, and Operational Technology Request Management functions.
 
 ## Industrial Workspace Admin application menu contents
 
-To access the Industrial Workspace Admin application menu, enter `Industrial Workspace Admin` in the application navigator. The [[operational-technology-overview|Operational Technology]] Management solution currently consists of the following applications and features:
+To access the Industrial Workspace Admin application menu, enter `Industrial Workspace Admin` in the application navigator. The Operational Technology Management solution currently consists of the following applications and features:
 
 -   Operational Technology Manager
 -   Industrial Process Manager
@@ -28,7 +28,7 @@ To access the Industrial Workspace Admin application menu, enter `Industrial Wor
 -   Operational Technology Knowledge Management
 -   Operational Technology Request Management
 
-**Note:** You need to install either the Operational Technology Manager or Industrial Process Manager applications first before [[using-operational-technology-incident-mgt|using Operational Technology Incident Management]] and Operational Technology Change Management.
+**Note:** You need to install either the Operational Technology Manager or Industrial Process Manager applications first before using Operational Technology Incident Management and Operational Technology Change Management.
 
 The options that appear on the Industrial Workspace Admin application menu depend on which OT applications are installed and what assigned roles the user has. When the Industrial Process Manager is installed, the following functions are available on the Industrial Workspace Admin application menu:
 
@@ -68,15 +68,3 @@ To learn more about Guided Setups and their use, see [Using guided setup](https:
 
 **Parent Topic:**[Configuring the Industrial Process Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/configuring-manufacturing-process-mgr.md)
 
-## Related
-
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[operational-technology-manager|Operational Technology Manager]]
-- [[industrial-process-manager-overview|Industrial Process Manager]]
-- [[operational-technology-incident-management-landing-page|Operational Technology Incident Management]]
-- [[oper-tech-vulnerability-response-landing-page|Operational Technology Vulnerability Response]]
-- [[operational-technology-change-management-landing-page|Operational Technology Change Management]]
-- [[operational-technology-knowledge-management-landing-page|Operational Technology Knowledge Management]]
-- [[operational-technology-request-management-landing-page|Operational Technology Request Management]]
-- [[operational-technology-overview|Operational Technology]]
-- [[using-operational-technology-incident-mgt|Using Operational Technology Incident Management]]

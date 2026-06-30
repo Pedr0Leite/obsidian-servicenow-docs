@@ -14,13 +14,13 @@ breadcrumb: [Service Catalog Reference, Service Catalog, Manage service capabili
 
 # Service catalog variable sets
 
-Administrators and catalog administrators often define multiple catalog items that use the same group of [[c_ServiceCatalogVariables|service catalog variables]]. Catalog managers and catalog editors can attach a variable set for items to which they are assigned. However, catalog managers and catalog editors cannot create a variable set.
+Administrators and catalog administrators often define multiple catalog items that use the same group of service catalog variables. Catalog managers and catalog editors can attach a variable set for items to which they are assigned. However, catalog managers and catalog editors cannot create a variable set.
 
 For example, a catalog administrator defines 10 catalog items for types of servers. The request process for all these items asks the same five questions, using the same variables.
 
 Associating these variables individually per catalog item is repetitive, time-consuming, and error-prone. Also, to make a single change to multiple catalog items involves manually changing each item. For example, to add a variable to 10 catalog items, you would need to manually associate the variable with each item.
 
-Variable sets allow you to create a collection of variables that can be reused across multiple catalog items and [[c_ServiceCatalogOrderGuides|order guides]]. Using variable sets saves time because you do not have to create the same variables individually for many catalog items. Also, when variables should be modified, you can modify the variable set and the changes are reflected across all the catalog items that are associated with the variable set.
+Variable sets allow you to create a collection of variables that can be reused across multiple catalog items and order guides. Using variable sets saves time because you do not have to create the same variables individually for many catalog items. Also, when variables should be modified, you can modify the variable set and the changes are reflected across all the catalog items that are associated with the variable set.
 
 Variable sets also allow you to define catalog client scripts and UI policies that are applicable to the variables in the set.
 
@@ -36,32 +36,32 @@ Use a single-row variable set to capture data from variables that are grouped to
 
 ## Multi-row variable set
 
-Use a multi-row variable set \(MRVS\) to capture variable data in a grid layout while submitting a catalog item request for a group of entities. For example, for HR during the reorganization of employees, a single [[c_RecordProducer|record producer]] should be able to capture the relevant information such as the department and manager for a group of employees. Also, when you request a catalog item to order virtual machines and servers, configuration options should be captured as a single request. In this case, a requester can define multiple hardware units as rows and their configuration options as columns of an MRVS.
+Use a multi-row variable set \(MRVS\) to capture variable data in a grid layout while submitting a catalog item request for a group of entities. For example, for HR during the reorganization of employees, a single record producer should be able to capture the relevant information such as the department and manager for a group of employees. Also, when you request a catalog item to order virtual machines and servers, configuration options should be captured as a single request. In this case, a requester can define multiple hardware units as rows and their configuration options as columns of an MRVS.
 
 You cannot include the following variable types in an MRVS:
 
--   [[attachment|Attachment]]
--   [[break|Break]]
+-   Attachment
+-   Break
 -   Container End
 -   Container Start
 -   Container Split
--   [[html|HTML]]
--   [[label|Label]]
+-   HTML
+-   Label
 -   Macro
 -   Macro with label
--   [[rich-text-label|Rich Text Label]]
--   [[ui-page|UI Page]]
+-   Rich Text Label
+-   UI Page
 
 **Note:**
 
 -   You can configure an MRVS variable to disallow duplicate values. For information about the **Unique** field, see [Create a service catalog variable](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_CreateAVariableForACatalogItem.md).
 -   You can hide a variable in the MRVS so that it does not appear when the dialog box is open.
 -   The **Map to field** functionality is not supported for variables used in an MRVS.
--   Only the glide list interface is supported for the [[list-collector|List Collector]] variable.
+-   Only the glide list interface is supported for the List Collector variable.
 -   Cascading functionality for variables in an order guide is not supported in an MRVS.
 -   An MRVS is not displayed when added within a container.
 -   You cannot add variables with read roles in an MRVS.
--   When you [[t_UsingBulkRequests|clone a request]] that contains an MRVS, the information that is specified in the MRVS is available in all cloned requests. All UI policies and client scripts on the MRVS are also cloned.
+-   When you clone a request that contains an MRVS, the information that is specified in the MRVS is available in all cloned requests. All UI policies and client scripts on the MRVS are also cloned.
 -   Set a limit to the number of rows that you can add to an MRVS by using the **max\_rows** attribute in the **Variable Set attributes** field.
 -   In the RITM and request view in Now Mobile, an MRVS is not supported. A message is displayed in this view that this variable set is not viewable.
 -   An MRVS is supported in the variable summarizer only in Service Portal.
@@ -69,7 +69,7 @@ You cannot include the following variable types in an MRVS:
 -   You can iterate through individual rows and access variables using the For Each flow logic.
 -   You can include MRVS while creating a catalog task using a workflow.
 
-An MRVS form changes dynamically based on the data in the [[catalog-item-form|catalog item form]] that includes the following:
+An MRVS form changes dynamically based on the data in the catalog item form that includes the following:
 
 -   Other rows of that MRVS
 -   Other variables outside of that MRVS on the catalog item form.
@@ -83,7 +83,7 @@ You can define catalog client scripts, catalog UI policies, and catalog data loo
 -   onSubmit catalog client scripts are not supported for an MRVS.
 -   Catalog UI policies and catalog client scripts defined at the item level are not applicable for variables in an MRVS. Only those catalog UI policies and catalog client scripts defined within the MRVS are applicable for variables in the MRVS.
 -   Scripts that are not included in an MRVS cannot affect variables inside the MRVS. Similarly, the scripts included in the MRVS cannot affect the variables that are not included in the MRVS.
--   Variables that are not included in an MRVS cannot be used in dependent [[reference|reference]] qualifiers for variables in the MRVS. Similarly, the variables included in the MRVS cannot be used in dependent reference qualifiers for variables that are not in the MRVS. For a reference qualifier, the current row is the one that is being edited.
+-   Variables that are not included in an MRVS cannot be used in dependent reference qualifiers for variables in the MRVS. Similarly, the variables included in the MRVS cannot be used in dependent reference qualifiers for variables that are not in the MRVS. For a reference qualifier, the current row is the one that is being edited.
 
 You cannot set **Global** as `True` for any variable that belongs to an MRVS. So, an MRVS is not available in catalog tasks.
 
@@ -104,18 +104,3 @@ Variable sets can have one of many layouts. You can define the order of the vari
 
 **Parent Topic:**[Service Catalog Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/service-catalog-reference.md)
 
-## Related
-
-- [[c_ServiceCatalogVariables|Service catalog variables]]
-- [[c_ServiceCatalogOrderGuides|Order guides]]
-- [[c_RecordProducer|Record Producer]]
-- [[attachment|Attachment]]
-- [[break|Break]]
-- [[html|HTML]]
-- [[label|Label]]
-- [[rich-text-label|Rich Text Label]]
-- [[ui-page|UI page]]
-- [[list-collector|List collector]]
-- [[t_UsingBulkRequests|Clone a request]]
-- [[catalog-item-form|Catalog Item form]]
-- [[reference|Reference]]

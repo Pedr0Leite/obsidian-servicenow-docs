@@ -14,7 +14,7 @@ breadcrumb: [Use agentic workflows, Now Assist for SPO, Sourcing and Procurement
 
 # Update the product category or spend category in the Now Assist panel
 
-Use the Now Assist panel to update the product category or spend category for purchase requisitions, sourcing requests, or purchase orders directly from the [[purch-order-mgmt-ws|Source-to-Pay Workspace]].
+Use the Now Assist panel to update the product category or spend category for purchase requisitions, sourcing requests, or purchase orders directly from the Source-to-Pay Workspace.
 
 ## Before you begin
 
@@ -64,7 +64,7 @@ The product category or spend category for the selected purchase line is success
 
 [Conversational intake for sourcing and procurement agentic workflow]()
 
-[Enable AI agents for the [[spo-help-fulfill-pr-agentic|Conversational intake for sourcing and procurement agentic workflow]] in the Now Assist panel]()
+[Enable AI agents for the Conversational intake for sourcing and procurement agentic workflow in the Now Assist panel]()
 
 [Enable AI agents for the Conversational intake for sourcing and procurement agentic workflow in Virtual Agent]()
 
@@ -72,7 +72,3 @@ The product category or spend category for the selected purchase line is success
 
 [Email parser agent for Sourcing and Procurement Operations]()
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[spo-help-fulfill-pr-agentic|Conversational intake for sourcing and procurement agentic workflow]]

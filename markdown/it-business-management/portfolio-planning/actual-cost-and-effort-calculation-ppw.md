@@ -14,7 +14,7 @@ breadcrumb: [Reference, Next Experience for Demand Management in Portfolio Plann
 
 # Actual cost and effort calculation for a demand and demand task
 
-Actual cost and effort represent the realized cost and time spent working on demands and [[demand-task|demand tasks]] during a specific time period. These values are calculated based on approved [[c_TimeCards|time cards]] and hourly rates for resources.
+Actual cost and effort represent the realized cost and time spent working on demands and demand tasks during a specific time period. These values are calculated based on approved time cards and hourly rates for resources.
 
 ## Overview of calculation
 
@@ -34,11 +34,11 @@ The hourly rate for calculating actual cost is derived in the following order:
 
 ## Resource assignments and Time cards
 
-Don’t [[create-rsrc-asgnmnts-ppm|create resource assignments]] for allocating resources or groups to a demand task. Resource assignments created in the demand are used for resource estimation of the work entity created from the demand. These resource assignments automatically move to the resulting work entity when a demand is qualified and converted.
+Don’t create resource assignments for allocating resources or groups to a demand task. Resource assignments created in the demand are used for resource estimation of the work entity created from the demand. These resource assignments automatically move to the resulting work entity when a demand is qualified and converted.
 
-When you [[submit-time-card|submit a time card]] for a demand, the actual effort and cost aren’t reflected in the resource assignment. Resource assignments aren't associated with the demand by default. The actual cost and actual effort remain with the demand and aren't transferred to the created projects, even if you manually associate a resource assignment.
+When you submit a time card for a demand, the actual effort and cost aren’t reflected in the resource assignment. Resource assignments aren't associated with the demand by default. The actual cost and actual effort remain with the demand and aren't transferred to the created projects, even if you manually associate a resource assignment.
 
-If a resource spends extra hours working on a demand that aren’t associated with demand tasks, this time must also be recorded. The resource submits the time card for recording extra hours using the [[worker-portal|Time Sheet Portal]]. This extra cost and effort is added to the demand but isn’t reflected in the actual cost and effort for the demand tasks.
+If a resource spends extra hours working on a demand that aren’t associated with demand tasks, this time must also be recorded. The resource submits the time card for recording extra hours using the Time Sheet Portal. This extra cost and effort is added to the demand but isn’t reflected in the actual cost and effort for the demand tasks.
 
 ## Demand-level calculations
 
@@ -91,10 +91,3 @@ Demand rollup:
 -   Demand Actual Cost = $1,200
 -   Demand Actual Effort = 24 hours
 
-## Related
-
-- [[demand-task|Demand tasks]]
-- [[c_TimeCards|Time cards]]
-- [[create-rsrc-asgnmnts-ppm|Create resource assignments]]
-- [[submit-time-card|Submit a time card]]
-- [[worker-portal|Time Sheet Portal]]

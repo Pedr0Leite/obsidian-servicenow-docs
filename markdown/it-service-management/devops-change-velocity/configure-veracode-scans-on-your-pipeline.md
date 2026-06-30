@@ -16,7 +16,7 @@ breadcrumb: [Veracode, Integrate, DevOps Change Velocity, IT Service Management]
 
 Configure Veracode scans on your Azure DevOps, Jenkins, GitHub, GitLab, or Harness pipelines.
 
-You can configure Veracode scans on any stage of the pipeline and the scan details are retrieved from the corresponding stage to [[devops-landing-page-new|DevOps Change Velocity]]. If you are using Azure DevOps or GitHub Actions orchestration tools then you need to add the custom action code in your pipeline always. If you are using Jenkins, and your pipeline already has a Veracode security scan step, you do not have to add the custom action code in your pipeline. Ensure that your Veracode security scan step has waitForScan: true. This is required for the system to retrieve the scan information.
+You can configure Veracode scans on any stage of the pipeline and the scan details are retrieved from the corresponding stage to DevOps Change Velocity. If you are using Azure DevOps or GitHub Actions orchestration tools then you need to add the custom action code in your pipeline always. If you are using Jenkins, and your pipeline already has a Veracode security scan step, you do not have to add the custom action code in your pipeline. Ensure that your Veracode security scan step has waitForScan: true. This is required for the system to retrieve the scan information.
 
 If you want to configure Veracode for the GitLab tool, you can either use the generic Docker container image to add the Veracode security step or perform the steps specified in the [Integrate security tools with GitLab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/configure-security-tool-for-gitlab.md) topic.
 
@@ -91,7 +91,7 @@ GitHub Actions
     SecurityScanResults:
         needs: build
         runs-on: ubuntu-latest
-        name: Servicenow [[security-tool-framework|Security Scan Results]]
+        name: Servicenow Security Scan Results
 
     steps:
       - name: ServiceNow DevOps Security Results
@@ -175,7 +175,3 @@ Run the generic Docker Container Image to use the following script. For more inf
 
 **Parent Topic:**[Veracode integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/veracode-integration-with-devops-change-velocity.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[security-tool-framework|Security scan results]]

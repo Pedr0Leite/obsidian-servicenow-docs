@@ -34,7 +34,7 @@ Record information icon \[Omitted image "contextual-side-panel-record-info.png"\
 
 </td><td>
 
-Relevant information about a record. In Service Request Playbook, the ribbon displays the record information, constituent details, the case timeline, and the active and inactive service level agreements \(SLAs\). For more information on how to view information about the ribbon in playbooks, see [[psds-playbook-viewing-ribbon|View the ribbon information in Service Request Playbook]].
+Relevant information about a record. In Service Request Playbook, the ribbon displays the record information, constituent details, the case timeline, and the active and inactive service level agreements \(SLAs\). For more information on how to view information about the ribbon in playbooks, see [View the ribbon information in Service Request Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-playbook-viewing-ribbon.md).
 
 </td></tr><tr><td>
 
@@ -66,7 +66,7 @@ Response template icon \(\[Omitted image "response-template-icon.png"\] Alt text
 
 </td><td>
 
-Reusable messages that you can copy and paste into the cases and case tasks. For more information on using and creating response templates, see [[use-response-templates-psds|Use response templates in Service Request Playbook]].
+Reusable messages that you can copy and paste into the cases and case tasks. For more information on using and creating response templates, see [Use response templates in Service Request Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/use-response-templates-psds.md).
 
 </td></tr><tr><td>
 
@@ -86,8 +86,3 @@ Ability for you to communicate with requesters and make internal notes about the
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[psds-playbook-viewing-ribbon|View the ribbon information in Service Request Playbook]]
-- [[use-response-templates-psds|Use response templates in Service Request Playbook]]

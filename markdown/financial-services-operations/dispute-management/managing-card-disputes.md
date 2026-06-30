@@ -14,7 +14,7 @@ breadcrumb: [Dispute Management, Banking applications, Financial Services Operat
 
 # Managing dispute service requests
 
-[[dispute-management|Dispute management]] enables agents to create dispute cases for both personal and business debit and credit card accounts, as well as non-card ACH transactions, and automate the process of dispute routing and fraud-related activities. Learn how agents initiate, investigate, and resolve dispute cases for personal and commercial customers.
+Dispute management enables agents to create dispute cases for both personal and business debit and credit card accounts, as well as non-card ACH transactions, and automate the process of dispute routing and fraud-related activities. Learn how agents initiate, investigate, and resolve dispute cases for personal and commercial customers.
 
 By using the dispute service case and its associated tasks, you can manage dispute cases for your customers. Customers can dispute a transaction on their account due to several reasons, such as:
 
@@ -40,19 +40,19 @@ For more information, see [Overview of the Dispute Management workflow](https://
 
 ## Financial adjustments
 
-[[financial-adjustments|Financial adjustments]] are changes made to an account during a dispute, such as issuing a temporary \(provisional\) credit, reversing it, or applying a final credit based on the outcome.
+Financial adjustments are changes made to an account during a dispute, such as issuing a temporary \(provisional\) credit, reversing it, or applying a final credit based on the outcome.
 
-In [[fso-overview|Financial Services]] Operations, the Financial adjustments depend on the policies, Immediate Provisional Credit, Immediate Final Credit, and No credit.
+In Financial Services Operations, the Financial adjustments depend on the policies, Immediate Provisional Credit, Immediate Final Credit, and No credit.
 
 ## Regulatory SLAs
 
-In addition to regular SLAs in the dispute management workflow, the [[dispute-content-pack-for-us-regulation-landing-page|Dispute Content Pack for US Regulations]] is available to enable issuers in the United States to track Service Level Agreement \(SLA\) due dates that align with regulatory guidelines.
+In addition to regular SLAs in the dispute management workflow, the Dispute Content Pack for US Regulations is available to enable issuers in the United States to track Service Level Agreement \(SLA\) due dates that align with regulatory guidelines.
 
 For more information, see [Dispute Content Pack for US Regulations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/dispute-content-pack-for-us-regulation-landing-page.md).
 
 ## Dashboards
 
-ServiceNow® Performance Analytics give service owners insight into how the team and business are performing. A dashboard with customizable views is available for Card Operations Dispute Management. For more information, see [[card-operations-dashboard|Dispute Management dashboard]].
+ServiceNow® Performance Analytics give service owners insight into how the team and business are performing. A dashboard with customizable views is available for Card Operations Dispute Management. For more information, see [Dispute Management dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/card-operations-dashboard.md).
 
 -   **[Overview of the Dispute Management workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/dispute-management-workflows.md)**  
 ServiceNow® Dispute Management enables efficient card and non-card transaction dispute resolution, enhanced compliance, and streamlined customer experiences.
@@ -67,10 +67,3 @@ After you have completed all tasks in a card dispute case, you can add final det
 
 **Parent Topic:**[Dispute Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/dispute-management.md)
 
-## Related
-
-- [[card-operations-dashboard|Dispute Management dashboard]]
-- [[dispute-management|Dispute Management]]
-- [[financial-adjustments|financial adjustments]]
-- [[fso-overview|Financial Services]]
-- [[dispute-content-pack-for-us-regulation-landing-page|Dispute Content Pack for US Regulations]]

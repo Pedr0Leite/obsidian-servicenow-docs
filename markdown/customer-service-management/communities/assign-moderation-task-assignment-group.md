@@ -26,7 +26,7 @@ A moderation task is generated when a community user reports inappropriate conte
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Routing and Assignment** &gt; **Assignment [[gamification-components-rules|Rules]]**.
+1.  Navigate to **All** &gt; **Routing and Assignment** &gt; **Assignment Rules**.
 
 2.  On the Assignment Rules page, search and select `sn_communities_moderation_task` in the **Table** column.
 
@@ -37,6 +37,3 @@ A moderation task is generated when a community user reports inappropriate conte
 
 **Parent Topic:**[Moderate a community](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/moderate-communities.md)
 
-## Related
-
-- [[gamification-components-rules|Rules]]

@@ -14,7 +14,7 @@ breadcrumb: [Visibility to Firewall inventory, Configuring Firewall Audits and R
 
 # Archive firewall rule audit, rule requests, and audit tasks
 
-Archive [[firewall-requests|firewall rule requests]], audit requests, and audit tasks that are older than a specific time period to enhance system performance. At a later time, you can delete them from the archive table altogether to reduce the size of that table.
+Archive firewall rule requests, audit requests, and audit tasks that are older than a specific time period to enhance system performance. At a later time, you can delete them from the archive table altogether to reduce the size of that table.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: firewall\_admin
 
 1.  Activate one or more of the **Firewall Archival Rules**.
 
-    The following archival rules come with the [[firewall-audit-reporting|Firewall Audits and Reporting]] application, but are inactive by default. You must activate any rules if you want to use them.
+    The following archival rules come with the Firewall Audits and Reporting application, but are inactive by default. You must activate any rules if you want to use them.
 
     -   Archive Firewall Audit Request
     -   Archival Firewall Audit Request Security Policy M2M
@@ -45,7 +45,3 @@ Role required: firewall\_admin
 
 **Parent Topic:**[Visibility to Firewall inventory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/use-firewall-audit-rep.md)
 
-## Related
-
-- [[firewall-requests|Firewall rule requests]]
-- [[firewall-audit-reporting|Firewall Audits and Reporting]]

@@ -12,7 +12,7 @@ breadcrumb: [Opportunity Management, Lead and opportunity apps, Use, Sales Custo
 
 # Create a quote from an opportunity
 
-[[create-new-quote|Create a quote]] directly from an opportunity as a sales agent or with integrated roles.
+Create a quote directly from an opportunity as a sales agent or with integrated roles.
 
 ## Before you begin
 
@@ -33,22 +33,15 @@ Role required: sales\_agent
     If users with integrated roles create quotes then the channel partners and the related channel partners are copied to the newly created quotes. All the created quotes can be viewed on the **Quotes** tab. For details about integrated roles, see [Integration with Sales Customer Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/integration-with-sales-and-order-management.md).
 
 
--   **[[opportunity-management-create-quote-line-items|Create a quote from an opportunity line item]]**  
+-   **[Create a quote from an opportunity line item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management-create-quote-line-items.md)**  
 Create a quote from the selected line items in an opportunity record.
 
-**Parent Topic:**[[opportunity-mgmt-using|Using Opportunity Management]]
+**Parent Topic:**[Using Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-mgmt-using.md)
 
 **Related topics**  
 
 
-[[configure-opportunity-mgmt|Install and configure Opportunity Management]]
+[Install and configure Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-opportunity-mgmt.md)
 
-[[opportunity-management|Opportunity Management]]
+[Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management.md)
 
-## Related
-
-- [[opportunity-management-create-quote-line-items|Create a quote from an opportunity line item]]
-- [[opportunity-mgmt-using|Using Opportunity Management]]
-- [[configure-opportunity-mgmt|Install and configure Opportunity Management]]
-- [[opportunity-management|Opportunity Management]]
-- [[create-new-quote|Create a quote]]

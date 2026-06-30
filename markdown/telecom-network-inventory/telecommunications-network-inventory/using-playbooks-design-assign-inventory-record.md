@@ -14,7 +14,7 @@ breadcrumb: [Use, Telecommunications Network Inventory]
 
 # Design and Assign function
 
-Use the Design and Assign function for a network service in the [[telecom-network-inventory|Telecommunications Network Inventory]] application. The inventory agents can use the playbook to complete the guided tasks to [[telecommunications-circuit-design-resource-assignment|design and assign]] a network inventory record and its associated Configuration Items \(CI\) records.
+Use the Design and Assign function for a network service in the Telecommunications Network Inventory application. The inventory agents can use the playbook to complete the guided tasks to design and assign a network inventory record and its associated Configuration Items \(CI\) records.
 
 A Design and Assign function includes multiple activities for an agent to fulfill the requirement of a design request. When using a Design and Assign function, agents can:
 
@@ -33,7 +33,3 @@ Use the Design and Assign function to create a logical connection in the Telecom
 
 [Design and assign your network services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/design-assign-playbook.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[telecommunications-circuit-design-resource-assignment|Design and assign]]

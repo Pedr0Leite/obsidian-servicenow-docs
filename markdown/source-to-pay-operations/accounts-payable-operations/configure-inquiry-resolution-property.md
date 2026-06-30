@@ -25,9 +25,9 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-pay-mgmt-landing-page|Accounts Payable Operations]]** &gt; **Properties**.
+1.  Navigate to **All** &gt; **Accounts Payable Operations** &gt; **Properties**.
 
-    The [[acc-pay-properties|Accounts Payable Operations properties]] page appears.
+    The Accounts Payable Operations properties page appears.
 
 2.  In the **Inquiry resolution properties** area, enter the title of the knowledge article that the AI agent uses to extract data and provide resolution for the inquiry case.
 
@@ -43,7 +43,3 @@ The AI agent uses the data from the specified KB article to resolve the inquiry 
 
 [Set APO properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/set-apo-properties.md)
 
-## Related
-
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[acc-pay-properties|Accounts Payable Operations properties]]

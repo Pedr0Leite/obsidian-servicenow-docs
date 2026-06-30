@@ -20,7 +20,7 @@ Role required: admin
 
 Perform the following tasks.
 
--   Activate the Email Notification Script for [[osp-contextual-search|Contextual Search]] Results plugin \(com.snc.adv\_cxs\_results\_email\_script\). For more information, see [Activate a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md).
+-   Activate the Email Notification Script for Contextual Search Results plugin \(com.snc.adv\_cxs\_results\_email\_script\). For more information, see [Activate a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md).
 -   Set the application scope to the scope of your task table using the application picker. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
 -   Verify that you have defined a search context for your task to include recommended resources in the Auto-Responder email notifications. For more information, see [Define a search context](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_DefineSearchContext.md).
 -   Verify that you have configured a table for the search context associated with your task. For more information, see [Configure table for a contextual search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_DefineContextualSearchForForm.md).
@@ -51,7 +51,7 @@ Perform the following tasks.
 
         For the table that you’re configuring, be sure to do the following:
 
-        -   Train the similarity solution for the table. For more information, see [[train-sol-defn-auto-responder|Train the similarity solution for finding Auto-Responder notification content]].
+        -   Train the similarity solution for the table. For more information, see [Train the similarity solution for finding Auto-Responder notification content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/train-sol-defn-auto-responder.md).
         -   Add the similarity solution in the Additional Resource Configurations tab on the Search Context form.
     3.  In the Email Conﬁgurations related list, link your task table configuration with the Notification \[sysevent\_email\_action\] table.
 
@@ -100,18 +100,12 @@ Maximum number of resources you want to include in the Auto-Responder email noti
 
         -   For a new configuration, select **Submit**.
         -   For an existing configuration, select **Update**.
-3.  Enable contextual search results based on text searches in addition to search results based on Predictive [[intelligence-csm|Intelligence]] to be included in Auto-Responder notifications.
+3.  Enable contextual search results based on text searches in addition to search results based on Predictive Intelligence to be included in Auto-Responder notifications.
 
-    For more information, see [[enable-text-based-auto-responder|Enable text search recommendations in Auto-Responder notifications]].
+    For more information, see [Enable text search recommendations in Auto-Responder notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/enable-text-based-auto-responder.md).
 
 4.  Configure a custom portal and include advanced contextual search results in email notifications.
 
-    For more information, see [[use-extension-point-auto-responder|Include advanced contextual search results in Auto-Responder notifications]].
+    For more information, see [Include advanced contextual search results in Auto-Responder notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/use-extension-point-auto-responder.md).
 
-## Related
 
-- [[train-sol-defn-auto-responder|Train the similarity solution for finding Auto-Responder notification content]]
-- [[enable-text-based-auto-responder|Enable text search recommendations in Auto-Responder notifications]]
-- [[use-extension-point-auto-responder|Include advanced contextual search results in Auto-Responder notifications]]
-- [[osp-contextual-search|Contextual search]]
-- [[intelligence-csm|Intelligence]]

@@ -91,7 +91,7 @@ Class
 
 Class to which the metric definition belongs. The choices are as follows:-   **KPI**: Indicates how well the risk exposure is managed against objectives. Use this option to add entities and additional entities to the metric definition.
 -   **KRI**: Indicates the amount of exposure to a given risk or set of risks. Use this option to add risks and risk statements to the metric definition. This option is available if the Advanced Risk plugin is activated.
--   **KCI**: Indicates the effectiveness of any controls that have been implemented to reduce or mitigate a given risk exposure. Use this option to add controls and control objectives to the metric definition. This option is available if the [[r_PolicyComplianceMgmt|Policy and Compliance Management]] plugin is activated.
+-   **KCI**: Indicates the effectiveness of any controls that have been implemented to reduce or mitigate a given risk exposure. Use this option to add controls and control objectives to the metric definition. This option is available if the Policy and Compliance Management plugin is activated.
 
 **Important:** This field appears only when the metric definition is created from the IRM suite of applications. It doesn’t appear for Operational Sustainability Management.
 
@@ -329,7 +329,7 @@ Direction
 Direction that you want to see the metric in. The choices are as follows:-   **None**: If you don’t want any change in the metric direction, select this option.
 -   **Minimize**: If the desired metric direction is downward or descending, select this option. For example, minimize the number of risks assessments that remain open beyond their due date.
 -   **Maximize**: If the desired metric direction is upward or ascending, select this option. For example, you want to maximize the number of critical controls.
--   **Milestone**: Option to select when the metric direction is not applicable, but the metric is tracked against a milestone. For example, if your organization has a goal to complete all the [[risk-assessments|risk assessments]] for an entity by the end of the month, the upcoming date for the goal is considered as a milestone.
+-   **Milestone**: Option to select when the metric direction is not applicable, but the metric is tracked against a milestone. For example, if your organization has a goal to complete all the risk assessments for an entity by the end of the month, the upcoming date for the goal is considered as a milestone.
 
 **Note:** Thresholds can be set for all directions excluding **Milestone**. For more information on creating thresholds, see [Create a threshold for a metric definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/t_create-threshold-for-metrics.md).
 
@@ -421,7 +421,3 @@ Groups that can view the record.
 </td></tr></tbody>
 </table>**Parent Topic:**[Create an automated metric definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/t_create-metric-definition.md)
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[risk-assessments|risk assessments]]

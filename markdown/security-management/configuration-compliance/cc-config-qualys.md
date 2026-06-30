@@ -14,7 +14,7 @@ breadcrumb: [Qualys, Integrate with other applications, Configuration Compliance
 
 # Configure the PCRS parameters
 
-Starting with v12.6.3 of Qualys Integration for [[security-operations-landing-page|Security Operations]], you can use the Qualys PCRS Policy Host Integration and Qualys PCRS Test Results Integration for importing test results with new sets of Qualys APIs. These integrations need a gateway URL to fetch information from Qualys.
+Starting with v12.6.3 of Qualys Integration for Security Operations, you can use the Qualys PCRS Policy Host Integration and Qualys PCRS Test Results Integration for importing test results with new sets of Qualys APIs. These integrations need a gateway URL to fetch information from Qualys.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-When you install the Qualys Integration for Security Operations for [[vuln-landing-page|Vulnerability Response]], you can configure the **gateway\_url** and **posture\_api\_version parameters**for the new PCRS integrations in [[vr-config-compliance-landing|Configuration Compliance]]. For more information on how to find the gateway URL for your API URL, see [Identify your Qualys platform](https://www.qualys.com/platform-identification/).
+When you install the Qualys Integration for Security Operations for Vulnerability Response, you can configure the **gateway\_url** and **posture\_api\_version parameters**for the new PCRS integrations in Configuration Compliance. For more information on how to find the gateway URL for your API URL, see [Identify your Qualys platform](https://www.qualys.com/platform-identification/).
 
 The gateway URL must be added in your ServiceNow instance.
 
@@ -42,8 +42,4 @@ The gateway URL must be added in your ServiceNow instance.
 
 4.  On the Integration Instance Parameters tab, locate the **posture\_api\_version** parameter and set the value to 2.0 or 5.0 as required.
 
-## Related
 
-- [[security-operations-landing-page|Security Operations]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[vr-config-compliance-landing|Configuration Compliance]]

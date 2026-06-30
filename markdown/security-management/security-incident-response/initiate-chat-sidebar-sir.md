@@ -24,7 +24,7 @@ Verify that you have activated the Omni-Experience Standard Feature Set plugin. 
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sir-workspace-landing-page|Security Incident Response Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Security Incident Response Workspace**.
 
 2.  Select the List view \[Omitted image "listview-icon.png"\] Alt text: list view icon icon.
 
@@ -84,7 +84,7 @@ Option to add participants for the sidebar discussion. If you have integrated si
 Provide a brief summary about the issue to be discussed in the sidebar discussion.
 
 </td></tr></tbody>
-</table>    \[Omitted image "native-sidebar-chat.png"\] Alt text: Initiate a Sidebar chat in [[sir-landing-page|Security Incident Response]]
+</table>    \[Omitted image "native-sidebar-chat.png"\] Alt text: Initiate a Sidebar chat in Security Incident Response
 
 6.  Select **Start discussion**.
 
@@ -95,7 +95,3 @@ Provide a brief summary about the issue to be discussed in the sidebar discussio
 
 **Parent Topic:**[Collaborate using conference call or chat in Security Incident Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/collab-sir-call-chat.md)
 
-## Related
-
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[sir-landing-page|Security Incident Response]]

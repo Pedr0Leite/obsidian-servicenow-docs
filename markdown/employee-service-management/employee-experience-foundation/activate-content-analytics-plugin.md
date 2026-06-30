@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-[[ecpro-content-automation-analytics|Content Analytics]] requires the following plugins to collect data and generate dashboards:
+Content Analytics requires the following plugins to collect data and generate dashboards:
 
 |Plugin|Description|
 |------|-----------|
@@ -30,7 +30,7 @@ Role required: admin
 |Content Publishing \[sn\_cd\]|Provides data from content published through Content Publishing|
 |Content Experiences \[sn\_ca\]|Provides data from content published through Content Experiences|
 |Performance Analytics - Portal Analytics \[sn\_cdap\]|Enhances dashboards with content profiling and time window filters|
-|Performance Analytics - [[ec-content-engagement|Content engagement]] Analytics \[sn\_ca\_pa\]|Enhances dashboards with campaign filters enabling users to view campaign-specific analytics and engagement over time for to-do content|
+|Performance Analytics - Content engagement Analytics \[sn\_ca\_pa\]|Enhances dashboards with campaign filters enabling users to view campaign-specific analytics and engagement over time for to-do content|
 
 ## Procedure
 
@@ -66,7 +66,3 @@ Role required: admin
 
 [Components installed with Content Analytics]()
 
-## Related
-
-- [[ecpro-content-automation-analytics|Content Analytics]]
-- [[ec-content-engagement|Content engagement]]

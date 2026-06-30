@@ -14,7 +14,7 @@ breadcrumb: [Create a deviation, Use, Industrial Connected Workforce Mobile Expe
 
 # Contextualize an external document using AI Enhanced recommended actions for ICW Mobile
 
-With the [[ai-enhanced-ra-icw-landing|AI Enhanced recommended actions for Industrial Connected Workforce]] Mobile Experience, you can contextualize an external document to get an explanation of why the document is relevant to a deviation.
+With the AI Enhanced recommended actions for Industrial Connected Workforce Mobile Experience, you can contextualize an external document to get an explanation of why the document is relevant to a deviation.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_icw.deviation\_user and sn\_ai\_enhanced\_ra.document\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]**.
+1.  Navigate to **All** &gt; **Digital Factory Workspace**.
 
 2.  Open the Digital Factory Workspace list view.
 
@@ -46,13 +46,7 @@ Role required: sn\_icw.deviation\_user and sn\_ai\_enhanced\_ra.document\_user
 **Related topics**  
 
 
-[[exploring-ai-enhanced-ra-icw|AI Enhanced recommended actions for Industrial Connected Workforce \( ICW\)]]
+[AI Enhanced recommended actions for Industrial Connected Workforce \( ICW\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/exploring-ai-enhanced-ra-icw.md)
 
-[[configure-ai-enhanced-ra-icw|Configure AI Enhanced recommended actions for Industrial Connected Workforce]]
+[Configure AI Enhanced recommended actions for Industrial Connected Workforce](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/configure-ai-enhanced-ra-icw.md)
 
-## Related
-
-- [[exploring-ai-enhanced-ra-icw|AI Enhanced recommended actions for Industrial Connected Workforce \( ICW\)]]
-- [[configure-ai-enhanced-ra-icw|Configure AI Enhanced recommended actions for Industrial Connected Workforce]]
-- [[ai-enhanced-ra-icw-landing|AI Enhanced recommended actions for Industrial Connected Workforce]]
-- [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]

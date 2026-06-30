@@ -14,7 +14,7 @@ breadcrumb: [NetApp SolidFire storage system, Available on-premise discovery pat
 
 # Create a serverless discovery schedule for NetApp SolidFire discovery
 
-Set up a dedicated [[serverless-discovery|serverless discovery]] schedule for NetApp SolidFire cluster and node [[r-discovery|discovery]].
+Set up a dedicated serverless discovery schedule for NetApp SolidFire cluster and node discovery.
 
 ## Before you begin
 
@@ -84,7 +84,3 @@ Either execute discovery immediately by selecting **Discover now** or wait until
 
 [NetApp SolidFire storage system discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/solidfire-storage-pattern.md)
 
-## Related
-
-- [[serverless-discovery|Serverless Discovery]]
-- [[r-discovery|Discovery]]

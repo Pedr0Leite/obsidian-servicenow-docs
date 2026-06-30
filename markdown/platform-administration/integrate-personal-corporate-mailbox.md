@@ -22,7 +22,7 @@ Role required: user\_email\_account
 
 ## Procedure
 
-1.  From the user menu, navigate to **Preferences** &gt; **[[notifications|Notifications]]** and then select the **Advanced Preferences** link.
+1.  From the user menu, navigate to **Preferences** &gt; **Notifications** and then select the **Advanced Preferences** link.
 
 2.  Select the **Delivery Channels** tab.
 
@@ -42,7 +42,7 @@ Role required: user\_email\_account
 
     2.  In the Create dialog, select **Password** or **OAuth 2.0** from the Authentication drop-down list.
 
-        For **Password** as the authentication type, enter the App password provided by your [[email-service|email service]] provider in the **App password** field.
+        For **Password** as the authentication type, enter the App password provided by your email service provider in the **App password** field.
 
         **Note:** The password flow is deprecated for Microsoft as of September 2025. For more information about generating app passwords for Google or Yahoo! accounts, see [Google: Sign in with app passwords](https://support.google.com/accounts/answer/185833?hl=en) and [Yahoo!: Generate and manage 3rd-party app passwords](https://help.yahoo.com/kb/SLN15241.html?guccounter=1).
 
@@ -50,7 +50,7 @@ Role required: user\_email\_account
 
     4.  Select a template from the list of configured user email account templates.
 
-        To configure a new template aside from the preconfigured templates, see [[configure-personal-corporate-mailbox|Configure templates for personal corporate mailboxes]].
+        To configure a new template aside from the preconfigured templates, see [Configure templates for personal corporate mailboxes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-personal-corporate-mailbox.md).
 
     5.  Review the information.
 
@@ -63,11 +63,5 @@ Role required: user\_email\_account
         **Note:** At least one mailbox must be connected to view the connected mailboxes.
 
 
-**Parent Topic:**[[personal-corporate-mailbox|Personal corporate mailbox]]
+**Parent Topic:**[Personal corporate mailbox](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/personal-corporate-mailbox.md)
 
-## Related
-
-- [[configure-personal-corporate-mailbox|Configure templates for personal corporate mailboxes]]
-- [[personal-corporate-mailbox|Personal corporate mailbox]]
-- [[notifications|Notifications]]
-- [[email-service|Email service]]

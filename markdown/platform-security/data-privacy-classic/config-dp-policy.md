@@ -14,11 +14,11 @@ breadcrumb: [Data privacy \(Classic\) configuration, Data privacy \(Classic\), D
 
 # Create a data privacy policy
 
-Configure a [[data-privacy-landing|data privacy]] policy to specify which data privacy techniques are used when anonymizing your data.
+Configure a data privacy policy to specify which data privacy techniques are used when anonymizing your data.
 
 ## Before you begin
 
-The data privacy [[sc-configuration|configuration]] defines tables, sys\_user and other, and columns to the de-identified, depending on the use case and specifies parameterized types of the techniques to be used while de-identifying data.
+The data privacy configuration defines tables, sys\_user and other, and columns to the de-identified, depending on the use case and specifies parameterized types of the techniques to be used while de-identifying data.
 
 **Note:** To complete a privacy configuration, you must first configure a data privacy technique configuration. See [Create a data privacy technique configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/config-dp-technique.md) for more information.
 
@@ -28,9 +28,9 @@ Role required: data\_privacy\_admin and admin
 
 1.  Elevate to the **data\_privacy\_admin** role.
 
-    For details on role elevation, see [[t_ElevateToAPrivilegedRole|Elevate to a privileged role]].
+    For details on role elevation, see [Elevate to a privileged role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_ElevateToAPrivilegedRole.md).
 
-2.  Navigate to **System Security** &gt; **[[data-privacy-classic|Data Privacy \(Classic\)]]** &gt; **Privacy Policy Configuration**.
+2.  Navigate to **System Security** &gt; **Data Privacy \(Classic\)** &gt; **Privacy Policy Configuration**.
 
 3.  Select **New**.
 
@@ -38,15 +38,15 @@ Role required: data\_privacy\_admin and admin
 
 5.  In the **Data Class** field, select the data class to use with this policy.
 
-    Data privacy [[ca-policies|policies]] can only apply to classified data, for more information on [[data-classification|data classification]], see [Data classification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-classification/data-classification.md).
+    Data privacy policies can only apply to classified data, for more information on data classification, see [Data classification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-classification/data-classification.md).
 
     After selecting a data class, the **Privacy Classified Field Techniques** and **Privacy Primary Reference Links** lists display on the form.
 
 6.  Select **Apply to All Data in Class** to apply anonymization to all data in the chosen data class.
 
-    If you don’t select this field, your data privacy processor [[users|users]] can choose which users to anonymize when creating data privacy jobs. If you select this field, that option is not available.
+    If you don’t select this field, your data privacy processor users can choose which users to anonymize when creating data privacy jobs. If you select this field, that option is not available.
 
-    -   **Apply when Cloning**: This option becomes available. When selected, the privacy configuration executes during [[dp-clone|data privacy clone]].
+    -   **Apply when Cloning**: This option becomes available. When selected, the privacy configuration executes during data privacy clone.
     -   **Application Order**: A data privacy job for Postclone configuration with a higher Application Order might start before another job with lower order.
 
         **Important:** Avoid creating multiple data privacy policies with the same Application Order, as the resultant processing order for those with the same order will be inconsistent.
@@ -74,13 +74,3 @@ Role required: data\_privacy\_admin and admin
 
 [Configure a data privacy job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/config-data-privacy-job.md).
 
-## Related
-
-- [[t_ElevateToAPrivilegedRole|Elevate to a privileged role]]
-- [[data-privacy-landing|Data Privacy]]
-- [[sc-configuration|Configuration]]
-- [[data-privacy-classic|Data privacy \(Classic\)]]
-- [[ca-policies|Policies]]
-- [[data-classification|Data Classification]]
-- [[users|Users]]
-- [[dp-clone|Data privacy clone]]

@@ -28,10 +28,10 @@ Field descriptions for the Distribution set form, organized by section, for conf
 |Order|Order in which the distribution set must be applied to the invoice line.|
 |Effective from|Date from which the distribution set is active.|
 |Effective to|Date by when the distribution set must be deactivated.|
-|Filters|Conditions or rules that are configured. Example: [[supplier|Supplier]] tax is $ 100USD.|
+|Filters|Conditions or rules that are configured. Example: Supplier tax is $ 100USD.|
 |Distribution Lines|
 |Distribution set|Auto-populated number of the distribution set.|
-|Allocation type|Cost split across allocation type [[cost-center|cost center]] or general ledger.|
+|Allocation type|Cost split across allocation type cost center or general ledger.|
 |Cost center|Cost center for which the distribution set is applied.|
 |Allocation percentage|Percentage cost that is split across cost centers.|
 
@@ -44,7 +44,7 @@ Field descriptions for the Distribution set form, organized by section, for conf
 
 [Create New Invoice Line form]()
 
-[Create [[invoice-line-cost-allocation|invoice cost allocation]] form]()
+[Create invoice cost allocation form]()
 
 [Outbound cost allocation staging table]()
 
@@ -70,8 +70,3 @@ Field descriptions for the Distribution set form, organized by section, for conf
 
 [Accounts Payable Operations glossary]()
 
-## Related
-
-- [[supplier|Supplier]]
-- [[cost-center|Cost center]]
-- [[invoice-line-cost-allocation|Invoice cost allocation]]

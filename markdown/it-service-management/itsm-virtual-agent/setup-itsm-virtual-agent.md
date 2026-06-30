@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-[Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent-landing-page.md) must be activated before you can use the [[itsm-virtual-agent|ITSM Virtual Agent]] topic conversations. Users with the admin roles can activate Glide Virtual Agent \[com.glide.cs.chatbot\].
+[Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent-landing-page.md) must be activated before you can use the ITSM Virtual Agent topic conversations. Users with the admin roles can activate Glide Virtual Agent \[com.glide.cs.chatbot\].
 
 Install ITSM Virtual Agent and the ITSM NLU Model for Virtual Agent Conversations by requesting them from the ServiceNow Store. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
@@ -38,7 +38,7 @@ Topics must be activated and published before your employees can use them. By de
 
 4.  [Configure Natural Language Understanding \(NLU\) in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/configure-nlu-settings.md).
 
-    ITSM Virtual Agent topics use ServiceNow NLU [[c_Models|models]]. The English NLU models are activated by default. If you are using other languages, you must activate those NLU models manually. For details, see [Multilingual model management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/multilingual-model-managent.md).
+    ITSM Virtual Agent topics use ServiceNow NLU models. The English NLU models are activated by default. If you are using other languages, you must activate those NLU models manually. For details, see [Multilingual model management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/multilingual-model-managent.md).
 
 5.  Publish the ITSM Virtual Agent topics and their corresponding NLU models in Virtual Agent Designer.
 
@@ -51,7 +51,3 @@ Topics must be activated and published before your employees can use them. By de
 
 **Parent Topic:**[Setting up ITSM Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/setting-up-itsm-va.md)
 
-## Related
-
-- [[itsm-virtual-agent|ITSM Virtual Agent]]
-- [[c_Models|Models]]

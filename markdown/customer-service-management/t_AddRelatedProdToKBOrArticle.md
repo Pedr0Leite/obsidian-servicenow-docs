@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-To access knowledge bases and articles associated with a product, a user must have read or contribute access and have the product included in the user's account as an asset. For more information about assets, see [[configure-csm-assets|Configure assets]].
+To access knowledge bases and articles associated with a product, a user must have read or contribute access and have the product included in the user's account as an asset. For more information about assets, see [Configure assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-csm-assets.md).
 
 ## Procedure
 
@@ -44,6 +44,4 @@ To access knowledge bases and articles associated with a product, a user must ha
 
     4.  Select **Update**.
 
-## Related
 
-- [[configure-csm-assets|Configure assets]]

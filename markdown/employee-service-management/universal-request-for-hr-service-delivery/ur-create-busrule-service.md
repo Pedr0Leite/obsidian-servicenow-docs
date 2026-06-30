@@ -14,7 +14,7 @@ breadcrumb: [Configure service to use Universal Request, Setting up and configur
 
 # Create a business rule for your service
 
-Create a business rule on the service table to attach the newly created department ticket with a [[ur-landing-limitedaccess|universal request]].
+Create a business rule on the service table to attach the newly created department ticket with a universal request.
 
 ## Before you begin
 
@@ -63,6 +63,3 @@ You can create a business rule for your service for any of the following reasons
 
 **Parent Topic:**[Configure service to use Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/config-service-for-ur.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]

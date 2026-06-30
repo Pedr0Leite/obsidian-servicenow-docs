@@ -21,7 +21,7 @@ To update the Assigned To attribute of the Computer CI, you need to collect info
 
 Role required: admin
 
-You can automatically populate Assigned to for Windows endpoint devices and macOS devices, like workstations or employee laptops, as part of agent-based [[r-discovery|Discovery]] using ACC-VC with the following system properties. See [Available system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md) for more information.
+You can automatically populate Assigned to for Windows endpoint devices and macOS devices, like workstations or employee laptops, as part of agent-based Discovery using ACC-VC with the following system properties. See [Available system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md) for more information.
 
 -   **sn\_acc\_vis\_content.set\_assigned\_to**
 -   **sn\_acc\_vis\_content.assigned\_to\_user\_order**
@@ -31,7 +31,7 @@ You can automatically populate Assigned to for Windows endpoint devices and macO
 
 1.  Create higher user privileges to fetch the logged in user details.
 
-    Use Log on As Local System User instead of the default ServiceNow user for running the [[acc-landing-page|Agent Client Collector]]. When working in a macOS environment, use the default ServiceNow user.
+    Use Log on As Local System User instead of the default ServiceNow user for running the Agent Client Collector. When working in a macOS environment, use the default ServiceNow user.
 
     Ensure that you have Powershell to run the internal commands on your machines that fetch the logged in user details.
 
@@ -50,7 +50,3 @@ No new user account is created in the sys\_user table. Instead, the existing use
 
 **Parent Topic:**[Agent Client Collector Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-discovery.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[acc-landing-page|Agent Client Collector]]

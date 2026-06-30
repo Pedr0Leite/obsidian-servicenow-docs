@@ -20,7 +20,7 @@ Role required: sn\_csm\_walkup.walkup\_technician
 
 ## About this task
 
-Manage interactions manually using the CSM Walk-up Experience Technician modules found in the application navigator. To manage automatically assigned interactions from the [[csm-workspaces-configure|CSM Configurable Workspace]] inbox, refer to [[csm-walkup-view-auto-assigned-requests|Manage automatically assigned Walk-up Experience interactions]].
+Manage interactions manually using the CSM Walk-up Experience Technician modules found in the application navigator. To manage automatically assigned interactions from the CSM Configurable Workspace inbox, refer to [Manage automatically assigned Walk-up Experience interactions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-walkup-view-auto-assigned-requests.md).
 
 Walk-up queues support guests in the order that they check into the queue — first come, first served. Technicians supporting the queue can decide who will work the first interaction. As new guests enter the queue and submit interactions, technicians share the workload, assigning queued interactions to themselves.
 
@@ -87,7 +87,7 @@ All Closed Complete and Closed Abandoned interactions assigned to a specific wal
 
     2.  If you cannot resolve the issue or fulfill the request, click the **Create Case** related link to create a case.
 
-    When you create a case, the associated related [[migration-lists|lists]] on the form populate. Related lists include the following details:
+    When you create a case, the associated related lists on the form populate. Related lists include the following details:
 
     -   Cases for Interaction: Cases associated with the interaction
     -   Cases by Same Caller: Cases created for a walk-up guest
@@ -97,8 +97,4 @@ All Closed Complete and Closed Abandoned interactions assigned to a specific wal
 
     You can also click **Close** to complete the interaction.
 
-## Related
 
-- [[csm-walkup-view-auto-assigned-requests|Manage automatically assigned Walk-up Experience interactions]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[migration-lists|Lists]]

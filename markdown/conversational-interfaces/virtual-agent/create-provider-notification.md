@@ -14,7 +14,7 @@ breadcrumb: [Using, Conversational Integration with WhatsApp \(powered by Twilio
 
 # Create a provider notification
 
-Execute the following steps to create a provider notification for [[virtual-agent-landing-page|Virtual Agent]] and Workspace providers.
+Execute the following steps to create a provider notification for Virtual Agent and Workspace providers.
 
 ## Before you begin
 
@@ -196,6 +196,3 @@ Option to select when the recipients are from more than 2 tables. These are dyna
 
 **Parent Topic:**[Using Conversational Integration with WhatsApp \(powered by Twilio\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-whatsapp-using.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

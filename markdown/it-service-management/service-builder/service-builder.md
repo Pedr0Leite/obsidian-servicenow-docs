@@ -14,7 +14,7 @@ breadcrumb: [IT Service Management]
 
 # Service Builder
 
-Create and edit services and service offerings using the ServiceNow® Service Builder application. Service Builder is an interactive, guided experience as you create and edit services and service offering details. Even though Service Builder is a feature of [[SPM2-landing-page|Service Portfolio Management]], its plugin is part of the [[dpm-landing|Digital Portfolio Management]] list of products in the ServiceNow Store.
+Create and edit services and service offerings using the ServiceNow® Service Builder application. Service Builder is an interactive, guided experience as you create and edit services and service offering details. Even though Service Builder is a feature of Service Portfolio Management, its plugin is part of the Digital Portfolio Management list of products in the ServiceNow Store.
 
 \[Omitted image "SB-noloop3.gif"\] Alt text: Service Builder in action.
 
@@ -51,7 +51,7 @@ After you edit a service or an offering, the published version stays active unti
 
 |Home page tab|Description|
 |-------------|-----------|
-|Dashboard|The default [[dex-workspace-dashboard-tab|landing page]] where you can create a business service or a technology management service. You can also view services that you interacted with in the last few days from the dashboard view.|
+|Dashboard|The default landing page where you can create a business service or a technology management service. You can also view services that you interacted with in the last few days from the dashboard view.|
 |Services|List of all services along with their state, classification, phase, status, and owner. If you have editing access to the services and service offerings, you can edit them from this tab.|
 
 **Related topics**  
@@ -63,8 +63,3 @@ After you edit a service or an offering, the published version stays active unti
 
 [Create a service offering in Service Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-builder/create-edit-service-offering.md)
 
-## Related
-
-- [[SPM2-landing-page|Service Portfolio Management]]
-- [[dpm-landing|Digital Portfolio Management]]
-- [[dex-workspace-dashboard-tab|Landing page]]

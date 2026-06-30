@@ -14,7 +14,7 @@ breadcrumb: [Portal content, Creating employee communications, Authoring and man
 
 # Create calendar content
 
-Add a calendar to the [[employee-center-portal-overview|employee portal]] to provide employees with a quick way of viewing upcoming [[ec-company-events|company events]], such as holidays.
+Add a calendar to the employee portal to provide employees with a quick way of viewing upcoming company events, such as holidays.
 
 ## Before you begin
 
@@ -64,7 +64,7 @@ Order
 
 </td><td>
 
-When you have multiple pieces of content that appear in a carousel, you can define the order they appear.Enter a number defining the order the content appears on the service portal or [[employee-center-landing-page|Employee Center]]. Content appears closer to the beginning of the carousel when assigned a lower number.
+When you have multiple pieces of content that appear in a carousel, you can define the order they appear.Enter a number defining the order the content appears on the service portal or Employee Center. Content appears closer to the beginning of the carousel when assigned a lower number.
 
 **Note:** Use increments of 100 when determining the order. This method makes it easier to edit. For example, you numbered your links 1, 2, 3, 4, 5 and wanted to place a new content after 2. You would have to renumber 3, 4, and 5. If you use 100, 200, and 300 and wanted to place content from 100 through 200, you would simply use any number from 101 through 199.
 
@@ -91,8 +91,4 @@ The calendar you want to appear on the Employee Center.Select the Lookup using l
 
 7.  Or select **Submit** to save the record and return to the list of content.
 
-## Related
 
-- [[employee-center-portal-overview|Employee portal]]
-- [[ec-company-events|Company events]]
-- [[employee-center-landing-page|Employee Center]]

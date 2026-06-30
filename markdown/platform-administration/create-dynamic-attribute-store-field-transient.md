@@ -23,7 +23,7 @@ Role required: admin
 You can create a dynamic attribute store field to store one or more transient attributes that describe a record. When you create a dynamic attribute store field, the following schema changes occur automatically.
 
 -   A dynamic namespace is automatically created and associated with the dynamic attribute store field. The namespace associated with a store field can be modified at any time.
--   A dynamic category [[reference-email-admin|reference]] field is automatically added to the same table. You can store any dynamic attribute that you want in the store field, but the dynamic category reference field can help users determine which attributes to store.
+-   A dynamic category reference field is automatically added to the same table. You can store any dynamic attribute that you want in the store field, but the dynamic category reference field can help users determine which attributes to store.
 
 ## Procedure
 
@@ -56,9 +56,5 @@ You can create a dynamic attribute store field to store one or more transient at
 
 ## What to do next
 
-Populate the dynamic attribute store field with one or more attributes. See [[add-transient-attributes|Add transient attributes to a record]].
+Populate the dynamic attribute store field with one or more attributes. See [Add transient attributes to a record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/add-transient-attributes.md).
 
-## Related
-
-- [[add-transient-attributes|Add transient attributes to a record]]
-- [[reference-email-admin|Reference]]

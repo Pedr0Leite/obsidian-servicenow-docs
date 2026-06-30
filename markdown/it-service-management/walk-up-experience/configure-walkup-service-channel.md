@@ -14,7 +14,7 @@ breadcrumb: [Configure, Walk-up Experience, IT Service Management]
 
 # Configure Walk-up Experience service channel
 
-Configure the [[walkup-experience-landing-page|Walk-up Experience]] service channel to meet the needs of your walk-up agents and how they are assigned to and manage interactions in Agent Workspace.
+Configure the Walk-up Experience service channel to meet the needs of your walk-up agents and how they are assigned to and manage interactions in Agent Workspace.
 
 ## Before you begin
 
@@ -37,6 +37,3 @@ The Walk-up Experience service channel is viewed and configured through Advanced
 
 **Parent Topic:**[Configuring Walk-up Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walkup-experience-configuration.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]

@@ -26,7 +26,7 @@ Role required: sn\_privacy.manager
 
 In the Configuration Management Database \(CMDB\), you can search the database for entities that process personal data using one of the following methods:
 
--   Using the predefined queries and selecting only those applications and processes that have associated [[information-objects|information objects]]. For more information about information objects and their role in [[privacy-management|Privacy Management]], see [Information objects in Privacy Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/information-object-in-privacy.md). For information on how to scope entities with personal information, see [Scope entities to discover processing activities with personal information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/scope-entities-with-pi.md)
+-   Using the predefined queries and selecting only those applications and processes that have associated information objects. For more information about information objects and their role in Privacy Management, see [Information objects in Privacy Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/information-object-in-privacy.md). For information on how to scope entities with personal information, see [Scope entities to discover processing activities with personal information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/scope-entities-with-pi.md)
 -   Building your own query. For more information on building the CMDB queries, see [Querying the CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/querying-cmdb.md)
 
 To filter entities that contain personal data, you must filter the entities using the appropriate queries. ServiceNow® provides two default queries for you to use to filter entities with personal data. The default queries are provided for the following tables:
@@ -38,11 +38,11 @@ You can also create your own queries. This procedure demonstrates using the defa
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Privacy Workspace** &gt; **Scoping** &gt; **[[entity-type-in-risk-ws|Entity types]]**.
+1.  Navigate to **All** &gt; **Privacy Workspace** &gt; **Scoping** &gt; **Entity types**.
 
 2.  Open the entity you want to filter for personal information.
 
-3.  Click the [[what-is-an-entity-filter|Entity Filters]] related list.
+3.  Click the Entity Filters related list.
 
 4.  Click **New**.
 
@@ -65,9 +65,3 @@ You can also create your own queries. This procedure demonstrates using the defa
 
 **Parent Topic:**[Entity scoping to plan a privacy program](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/entity-scoping-in-privacy-mgmt.md)
 
-## Related
-
-- [[information-objects|information objects]]
-- [[privacy-management|privacy management]]
-- [[entity-type-in-risk-ws|Entity types]]
-- [[what-is-an-entity-filter|Entity filters]]

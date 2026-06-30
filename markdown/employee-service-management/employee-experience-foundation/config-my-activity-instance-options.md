@@ -18,7 +18,7 @@ You can configure the instance options to control the appearance of the widget, 
 
 ## About this task
 
-On the [[employee-center-landing-page|Employee Center]] home page, press and hold the control key, right-click the My active items widget, and then select **Instance Options**. By default, only 4 cards for the primary [[activity-lxp|activity]] are displayed in the list view. You can configure the instance options to view more cards.
+On the Employee Center home page, press and hold the control key, right-click the My active items widget, and then select **Instance Options**. By default, only 4 cards for the primary activity are displayed in the list view. You can configure the instance options to view more cards.
 
 ## Before you begin
 
@@ -60,7 +60,3 @@ Role required: sp\_admin or admin
 
 [My active items widget configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/my-activity-config.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[activity-lxp|Activity]]

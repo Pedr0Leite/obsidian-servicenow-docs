@@ -37,14 +37,10 @@ The **Order** column is hidden in the base system.
     \[Omitted image "Quiz\_Answer\_Order.png"\] Alt text: Quiz answer order
 
 
-**Parent Topic:**[[t_CreateAMetric|Create an assessment metric for a category]]
+**Parent Topic:**[Create an assessment metric for a category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateAMetric.md)
 
 **Related topics**  
 
 
-[[c_AssessmentMetrics|Assessment metrics]]
+[Assessment metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentMetrics.md)
 
-## Related
-
-- [[t_CreateAMetric|Create an assessment metric for a category]]
-- [[c_AssessmentMetrics|Assessment metrics]]

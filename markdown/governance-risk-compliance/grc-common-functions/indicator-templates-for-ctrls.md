@@ -14,11 +14,11 @@ breadcrumb: [Technology Controls Monitoring Accelerator, GRC use case accelerato
 
 # Indicator templates for controls
 
-The [[tech-controls-monitoring-accel|Technology Controls Monitoring Accelerator]] includes 273 indicator templates \(94 Basic, 174 Manual, and 5 Scripted\) for CIS v7 and includes new 67 indicator templates \(64 Basic and 3 Scripted\) for CIS v8.
+The Technology Controls Monitoring Accelerator includes 273 indicator templates \(94 Basic, 174 Manual, and 5 Scripted\) for CIS v7 and includes new 67 indicator templates \(64 Basic and 3 Scripted\) for CIS v8.
 
-When the Technology Controls Monitoring Accelerator is used along with the [[cybersecurity-controls-accelerator|Cybersecurity Controls Accelerator]] application, you can manage indicator templates within the Cybersecurity Controls Accelerator application.
+When the Technology Controls Monitoring Accelerator is used along with the Cybersecurity Controls Accelerator application, you can manage indicator templates within the Cybersecurity Controls Accelerator application.
 
-When Technology Controls Monitoring Accelerator is run as a standalone application; however, it can be run with the [[r_PolicyComplianceMgmt|Policy and Compliance Management]] application. You can also [map UCF controls to indicator templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/cybersecurity-controls-accelerator.md) from with the Policy and Compliance Management application.
+When Technology Controls Monitoring Accelerator is run as a standalone application; however, it can be run with the Policy and Compliance Management application. You can also [map UCF controls to indicator templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/cybersecurity-controls-accelerator.md) from with the Policy and Compliance Management application.
 
 **Note:** For information on the different types of indicator templates, see [Using indicator templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/using-indicator-templates.md).
 
@@ -3102,7 +3102,7 @@ CIS Control V8 14.9
 
 Conduct Role-Specific Security Awareness and Skills Training:
 
- Conduct role-specific security awareness and skills training. Example implementations include secure system [[Administration|administration]] courses for IT professionals, \(OWASP ™ Top 10 vulnerability awareness and prevention training for web application developers, and advanced social engineering awareness training for high-profile roles.
+ Conduct role-specific security awareness and skills training. Example implementations include secure system administration courses for IT professionals, \(OWASP ™ Top 10 vulnerability awareness and prevention training for web application developers, and advanced social engineering awareness training for high-profile roles.
 
 </td><td>
 
@@ -3854,7 +3854,7 @@ CIS Control V8 17.7
 
 </td><td>
 
-Conduct Routine Incident Response [[exercise-management-uib|Exercises]]:
+Conduct Routine Incident Response Exercises:
 
  Plan and conduct routine incident response exercises and scenarios for key personnel involved in the incident response process to prepare for responding to real-world incidents. Exercises need to test communication channels, decision making, and workflows. Conduct testing on an annual basis, at a minimum.
 
@@ -5639,7 +5639,7 @@ GRC: Advanced Risk
 
 </td><td>
 
-[[risk-assessments|Risk Assessments]] \[sn\_risk\_advanced\_risk\_assessment\_instance\]
+Risk Assessments \[sn\_risk\_advanced\_risk\_assessment\_instance\]
 
 </td><td>
 
@@ -5915,7 +5915,7 @@ Planning information security continuity:Ensure information security and the con
 
 </td><td>
 
-GRC: [[bia-uib|Business Impact Analysis]]
+GRC: Business Impact Analysis
 
 </td><td>
 
@@ -6327,12 +6327,3 @@ Security Incident \[sn\_si\_incident\]
 </td></tr></tbody>
 </table>**Parent Topic:**[Technology Controls Monitoring Accelerator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/tech-controls-monitoring-accel.md)
 
-## Related
-
-- [[tech-controls-monitoring-accel|Technology Controls Monitoring Accelerator]]
-- [[cybersecurity-controls-accelerator|cybersecurity controls accelerator]]
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[Administration|Administration]]
-- [[exercise-management-uib|Exercises]]
-- [[risk-assessments|risk assessments]]
-- [[bia-uib|Business impact analysis]]

@@ -12,11 +12,11 @@ breadcrumb: [Configure, Operational Resilience, Governance, Risk, and Compliance
 
 # Setting up pillars, entity types, entity filters, and entities
 
-This section helps you configure the [[grc-opres-landing-page|Operational Resilience]] application to organize and track your organization's operational data through a structured hierarchy of pillars, [[entity-type-in-risk-ws|entity types]], and entities.
+This section helps you configure the Operational Resilience application to organize and track your organization's operational data through a structured hierarchy of pillars, entity types, and entities.
 
 ## Key concepts and definitions in Operational Resilience
 
-It is essential to understand the core [[tprm-terminology|terminology]] and how different components relate to each other. This section defines the key concepts that form the foundation of the application's data structure. Knowledge of these terms enables informed decision-making during setup and confirms that the system is configured correctly for your organization's needs. The table provides definitions and practical examples for each concept.
+It is essential to understand the core terminology and how different components relate to each other. This section defines the key concepts that form the foundation of the application's data structure. Knowledge of these terms enables informed decision-making during setup and confirms that the system is configured correctly for your organization's needs. The table provides definitions and practical examples for each concept.
 
 |Term|Definition|Example|
 |----|----------|-------|
@@ -27,7 +27,7 @@ It is essential to understand the core [[tprm-terminology|terminology]] and how 
 |CSDM|Common Service Data Model - Company standard for organizing IT data|Confirms consistency across ServiceNow applications|
 |CMDB|Configuration Management Database \(CMDB\) - Stores IT infrastructure data|Source of servers, applications, and relationships|
 
-Consider the example of organizing a filing cabinet where pillars are drawers, entity types are folders within each drawer, [[what-is-an-entity-filter|entity filters]] are the labels that determine what goes in each folder, and entities are the actual documents.
+Consider the example of organizing a filing cabinet where pillars are drawers, entity types are folders within each drawer, entity filters are the labels that determine what goes in each folder, and entities are the actual documents.
 
 ## Understanding the data hierarchy
 
@@ -119,7 +119,7 @@ Activate Pillars -   Navigate to the Pillars module.
 
 </td><td>
 
-[[set-up-from-ws|Set up pillars and entity types from Workspace UI]]
+[Set up pillars and entity types from Workspace UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/set-up-from-ws.md)
 
 </td></tr><tr><td>
 
@@ -149,7 +149,7 @@ Configure entity filters -   Within each entity type, configure filters.
 
 </td><td>
 
-[[conf-ent-filter|Configure the entity filters]], [[activate-ent-fil-directly|Activate the entity filters]], and [[verify-ent-fil|Verify the configuration of entity filters]]
+[Configure the entity filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/conf-ent-filter.md), [Activate the entity filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/activate-ent-fil-directly.md), and [Verify the configuration of entity filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/verify-ent-fil.md)
 
 </td></tr><tr><td>
 
@@ -163,7 +163,7 @@ Generate entities -   Run entity generation process. Entities are created automa
 
 </td><td>
 
-[[gen-ent-auto|Generate entities automatically using a scheduled job]]
+[Generate entities automatically using a scheduled job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/gen-ent-auto.md)
 
 </td></tr><tr><td>
 
@@ -176,20 +176,7 @@ Configure Main node \(Post-setup\) -   Set up CMDB integration.
 
 </td><td>
 
-[[set-up-main-node|Configure the Main node configurations]]
+[Configure the Main node configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/set-up-main-node.md)
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[set-up-from-ws|Set up pillars and entity types from Workspace UI]]
-- [[conf-ent-filter|Configure the entity filters]]
-- [[activate-ent-fil-directly|Activate the entity filters]]
-- [[verify-ent-fil|Verify the configuration of entity filters]]
-- [[gen-ent-auto|gen ent auto]]
-- [[set-up-main-node|Configure the Main node configurations]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[entity-type-in-risk-ws|Entity types]]
-- [[tprm-terminology|Terminology]]
-- [[what-is-an-entity-filter|Entity filters]]

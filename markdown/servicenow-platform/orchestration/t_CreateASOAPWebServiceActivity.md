@@ -74,15 +74,15 @@ Name-value pairs to pass to the SOAP endpoint. You can create these parameters m
 
 </td></tr><tr><td id="d343504e179">
 
-**Use [[mid-server-landing|MID Server]]**
+**Use MID Server**
 
 </td><td>
 
-[[check-box|Check box]] that determines if a MID Server must be used to invoke the SOAP web service. If the SOAP web service message function defines a MID Server, that MID Server is used instead of the one selected here.
+Check box that determines if a MID Server must be used to invoke the SOAP web service. If the SOAP web service message function defines a MID Server, that MID Server is used instead of the one selected here.
 
 </td></tr><tr><td id="d343504e188">
 
-**Required [[mid-server-capabilities|MID Server capabilities]]**
+**Required MID Server capabilities**
 
 </td><td>
 
@@ -134,8 +134,3 @@ Required REST endpoint basic authentication credentials. This field is available
 -   Use [auto-mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/automap-output-variable-inputs.md) to generate outputs and parsing rules \(recommended for JDBC\)
 -   If you do not use auto-mapping, you can manually [create output variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateAnOutputVariable.md) and [create parsing rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateAParsingRule.md)
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[check-box|Check box]]
-- [[mid-server-capabilities|MID Server capabilities]]

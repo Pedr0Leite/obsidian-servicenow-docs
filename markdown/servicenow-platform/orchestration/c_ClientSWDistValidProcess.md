@@ -14,7 +14,7 @@ breadcrumb: [Client software distribution from SCCM, Client Software Distributio
 
 # Client software distribution validation process
 
-After SCCM deploys software to a target computer, [[c_ClientSoftwareDistribution|client software distribution]] \(CSD\) detects the installation and validates its status.
+After SCCM deploys software to a target computer, client software distribution \(CSD\) detects the installation and validates its status.
 
 Client software distribution uses the following methods for detecting software installed on the target machine:
 
@@ -28,6 +28,3 @@ The instance uses the data gathered by Discovery or the SCCM integration plugin 
 
 **Parent Topic:**[Client software distribution from SCCM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_CSDFromAnSCCMHost.md)
 
-## Related
-
-- [[c_ClientSoftwareDistribution|Client Software Distribution]]

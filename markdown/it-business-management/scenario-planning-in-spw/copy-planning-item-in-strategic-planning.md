@@ -14,7 +14,7 @@ breadcrumb: [Prioritize portfolio plan work, Portfolio Planning in Strategic Pla
 
 # Duplicate a planning item
 
-Create a copy of an existing planning item to add it to your portfolio plan's work backlog in [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace and ensure that the work pipeline is current. If the planning item you want to create is similar to an existing planning item, duplicating the existing planning item saves your time.
+Create a copy of an existing planning item to add it to your portfolio plan's work backlog in Strategic Planning Workspace and ensure that the work pipeline is current. If the planning item you want to create is similar to an existing planning item, duplicating the existing planning item saves your time.
 
 ## Before you begin
 
@@ -24,11 +24,11 @@ Role required: sn\_align\_core.apw\_user
 
 ## About this task
 
-Use the Prioritization tab of your portfolio plan to add new planning items or import them from other ServiceNow execution system such as PPM, [[agile-landing-page|Agile Development 2.0]], or SAFe.
+Use the Prioritization tab of your portfolio plan to add new planning items or import them from other ServiceNow execution system such as PPM, Agile Development 2.0, or SAFe.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]]**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Portfolio Planning**.
 
 2.  From the list of portfolio plans, select one and then select **Planning**.
 
@@ -51,8 +51,3 @@ Use the Prioritization tab of your portfolio plan to add new planning items or i
 -   [Update planning item details from Prioritization tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/update-planning-item-details-from-backlog-in-alignment-planner-workspace.md).
 -   Learn about [Personalizing views for prioritization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/personalize-prioritization-page-in-strategic-planinng-workspace.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[agile-landing-page|Agile Development 2.0]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

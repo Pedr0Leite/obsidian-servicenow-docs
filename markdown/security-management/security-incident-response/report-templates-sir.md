@@ -23,11 +23,11 @@ The analyst will be able to:
 -   [Delete a report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/delete-report-sir.md)
 
 -   **[Create a report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-report-sir.md)**  
-Analysts can [[create-report-sir|create a report]] in [[sir-landing-page|Security Incident Response]] to include the status of an incident and share it via email.
+Analysts can create a report in Security Incident Response to include the status of an incident and share it via email.
 -   **[Edit a report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/edit-report-sir.md)**  
 Analysts can modify an unpublished report in Security Incident Response and share it via email.
 -   **[Delete a report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/delete-report-sir.md)**  
-You can [[delete-report-sir|delete a report]] in Security Incident Response which is in published or draft state.
+You can delete a report in Security Incident Response which is in published or draft state.
 
 **Parent Topic:**[Working with Security Incident Records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/using-analyst-workspace.md)
 
@@ -58,8 +58,3 @@ You can [[delete-report-sir|delete a report]] in Security Incident Response whic
 
 [View and filter the incident timeline]()
 
-## Related
-
-- [[create-report-sir|Create a report]]
-- [[sir-landing-page|Security Incident Response]]
-- [[delete-report-sir|Delete a report]]

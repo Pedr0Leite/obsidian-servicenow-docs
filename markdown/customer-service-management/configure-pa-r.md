@@ -12,7 +12,7 @@ breadcrumb: [Extend capabilities, Configure, Customer Service Management]
 
 # Configure Customer Service Platform Analytics Solutions
 
-Enable [[customer-service-content-pack|Customer Service Platform Analytics Solutions]] to view preconfigured dashboards with actionable data visualizations to improve your business processes.
+Enable Customer Service Platform Analytics Solutions to view preconfigured dashboards with actionable data visualizations to improve your business processes.
 
 ## Before you begin
 
@@ -36,7 +36,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Activate Performance Analytics for [[c_CustomerServiceManagement|Customer Service Management]]
+Activate Performance Analytics for Customer Service Management
 
 </td><td>
 
@@ -103,7 +103,4 @@ View the provided dashboards to get an overview of your scores and view multiple
 
     This button opens the page in your instance where the configuration is completed.
 
-## Related
 
-- [[customer-service-content-pack|Customer Service Platform Analytics Solutions]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

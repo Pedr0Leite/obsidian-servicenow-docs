@@ -18,7 +18,7 @@ Manage the interpolation protection on your instance.
 
 Use the **glide.ui.jelly.js\_interpolation.protect\_nested\_expressions** system property to turn on or off interpolation protection specifically for nested Jelly expressions. Interpolation protection ensures that when Jelly expressions are used in JavaScript, they must be deemed safe by either falling under certain categories OR being marked as SAFE in the expression itself. This property was added to protect against possibly dangerous Jelly expressions which are nested in another Jelly expression.
 
-Ensure that the **glide.ui.jelly.js\_interpolation.protect\_nested\_expressions** system property exists and is set to the value **true**. If the property does not appear in the [[ca-system-properties|System Properties]] \[sys\_properties\] table, add a new record.
+Ensure that the **glide.ui.jelly.js\_interpolation.protect\_nested\_expressions** system property exists and is set to the value **true**. If the property does not appear in the System Properties \[sys\_properties\] table, add a new record.
 
 **Warning:** This is a safe harbor property, meaning the value can't be altered once it's changed. It is non-revertible.
 
@@ -34,7 +34,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -117,7 +117,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Validation, sanitization, and encoding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/validation-sanitization-encoding.md)
 
-## Related
-
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]

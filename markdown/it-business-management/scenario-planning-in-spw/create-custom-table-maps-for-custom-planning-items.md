@@ -14,7 +14,7 @@ breadcrumb: [Create custom mapping configurations, Configuring Strategic Plannin
 
 # Create a table map
 
-[[create-custom-table-maps-for-custom-planning-items-ppw|Create a table map]] to define the mapping between tables in [[alignment-planner-workspace-landing-page|Strategic Planning]] with the tables in [[agile-landing-page|Agile Development 2.0]], SAFe, and PPM.
+Create a table map to define the mapping between tables in Strategic Planning with the tables in Agile Development 2.0, SAFe, and PPM.
 
 ## Before you begin
 
@@ -45,8 +45,3 @@ A new table map is created with your alignment and execution table configuration
 
 Create a business rule to support export of this new table map configuration to Agile Development 2.0, SAFe, or PPM. For more information, see [Create a business rule to apply a custom table map configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-a-bussiness-rule.md).
 
-## Related
-
-- [[create-custom-table-maps-for-custom-planning-items-ppw|Create a table map]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[agile-landing-page|Agile Development 2.0]]

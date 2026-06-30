@@ -14,7 +14,7 @@ breadcrumb: [Reference section for Problem Management, Problem Management, IT Se
 
 # Quick start tests for Problem Management
 
-Validate that [[c_ProblemManagement|Problem Management]] still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
+Validate that Problem Management still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
 
 Problem Management quick start tests require activating the Problem Management Best Practice — Madrid plugin \(com.snc.best\_practice.problem.madrid\) and the Problem Management — ATF Tests plugin \(com.snc.problem.atf\). For all state related test, the Problem Management State Model \(com.snc.best\_practice.problem.madrid.state\_model\) plugin needs to be active.
 
@@ -224,7 +224,7 @@ Madrid
 
 </td></tr><tr><td>
 
-PRB MGMT: [[create-known-error-from-problem|Create a Known Error article]] from Problem
+PRB MGMT: Create a Known Error article from Problem
 
 </td><td>
 
@@ -302,7 +302,3 @@ Madrid
 
 [Quick start tests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/quick-start-tests.md)
 
-## Related
-
-- [[c_ProblemManagement|Problem Management]]
-- [[create-known-error-from-problem|Create a known error article]]

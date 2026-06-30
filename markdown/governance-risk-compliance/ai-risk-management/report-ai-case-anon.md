@@ -15,17 +15,17 @@ breadcrumb: [Use, AI Risk and Compliance, Governance, Risk, and Compliance]
 
 # Report an AI case anonymously
 
-Report an AI case without revealing your identity using the [[grc-anonymous-reporting-center|Anonymous Reporting Center]]. Your name and contact details are not shared with investigators. Save the report key and report number provided after submission to track updates or provide additional information later.
+Report an AI case without revealing your identity using the Anonymous Reporting Center. Your name and contact details are not shared with investigators. Save the report key and report number provided after submission to track updates or provide additional information later.
 
 ## Before you begin
 
 Anonymous AI case reporting is available when the AI Case Management \(sn\_ai\_case\_mgmt\) application is installed. Installing AI Case Management automatically installs and configures the Anonymous Report Center plugin and required record producers.
 
-Role required: sn\_ai\_case\_mgmt.ai\_case\_business\_user \(This role is required to access the [[employee-center|Employee Center]]\). No role is required to submit a report directly through the Anonymous Report Center.
+Role required: sn\_ai\_case\_mgmt.ai\_case\_business\_user \(This role is required to access the Employee Center\). No role is required to submit a report directly through the Anonymous Report Center.
 
 ## About this task
 
-You can report anytime, without sharing your name or contact details. Investigators only see the report details, not who submitted it. The AI case is managed as part of [[ai-risk-and-compliance|AI Risk and Compliance]] application and can be viewed in AI Control Tower to support risk and compliance oversight.
+You can report anytime, without sharing your name or contact details. Investigators only see the report details, not who submitted it. The AI case is managed as part of AI Risk and Compliance application and can be viewed in AI Control Tower to support risk and compliance oversight.
 
 The Report an AI case record producer within the AI Case Management application \(sn\_ai\_case\_mgmt\) supports secure handling of anonymous AI case reports. Before an anonymous report is saved, all free‑text fields \(such as case type, summary, business unit, and jurisdiction\) are automatically sanitized. This process removes HTML, scripts, styles, symbols, and unsupported characters; restricts input to standard alphanumeric characters and basic punctuation; and trims extra whitespace. Only alphanumeric characters and `@ . _ -` are retained. These automated checks help reduce the risk of unsafe or malformed input in anonymously submitted AI cases.
 
@@ -60,7 +60,7 @@ Description
 </td><td>
 
 1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
-2.  On the Employee Center landing page, select **Help center** &gt; **Technology services** and then select **[[ai-assets-airc|AI assets]]** from the Technology services topics section.
+2.  On the Employee Center landing page, select **Help center** &gt; **Technology services** and then select **AI assets** from the Technology services topics section.
 3.  Select the **Visit Anonymous Report Center** card.
 4.  Select **Submit a report anonymously**.
 
@@ -100,16 +100,9 @@ AI cases are managed through AI Case Management within AI Risk and Compliance to
 After an AI case is created and enters the New state, the next step is Triage, where the AI Risk and Compliance team reviews the case to validate scope, assess severity, and determine the appropriate course of action. Depending on the outcome of triage, the team may initiate an assessment. For more information, see [Initiate AI assessment on an AI asset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/initiate-assessment-on-an-ai-asset.md).
 
 -   **[Report an AI case form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/report-anon-ai-case-form.md)**  
-Use the [[report-ai-case-form|Report an AI case form]] in the Anonymous Report Center to report an AI case with the necessary details. After you submit the AI case report, mandatory fields and input format are validated before submission.
+Use the Report an AI case form in the Anonymous Report Center to report an AI case with the necessary details. After you submit the AI case report, mandatory fields and input format are validated before submission.
 -   **[Follow up on a report from the Anonymous Reporting Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/follow-up-anonymously.md)**  
 After you submit an anonymous report, save the **Report key** and **Report number**. Use these reference numbers to follow up or address comments on your case anonymously.
 
 **Parent Topic:**[Using AI Risk and Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/using-ai-risk-and-compliance.md)
 
-## Related
-
-- [[grc-anonymous-reporting-center|Anonymous Reporting Center]]
-- [[employee-center|employee center]]
-- [[ai-risk-and-compliance|AI Risk and Compliance]]
-- [[ai-assets-airc|AI assets]]
-- [[report-ai-case-form|Report an AI case form]]

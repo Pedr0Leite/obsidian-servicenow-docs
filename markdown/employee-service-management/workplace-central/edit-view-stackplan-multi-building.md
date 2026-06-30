@@ -22,7 +22,7 @@ Ensure that you have created a scenario, and it is in the Draft state. For more 
 
 **Important:** If allocation changes in your instance impact the scenario, the system displays a warning on the Space Details panel. You must review the changes, edit the scenario accordingly, then select **Move to valid** before continuing. For more information about allocation changes, see [Reviewing allocation changes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/reviewing-allocation-changes.md).
 
-\[Omitted image "wsd-central-review-changes.png"\] Alt text: Space details panel displaying a warning about [[reviewing-allocation-changes|reviewing allocation changes]].
+\[Omitted image "wsd-central-review-changes.png"\] Alt text: Space details panel displaying a warning about reviewing allocation changes.
 
 Role required: sn\_wsd\_spcmgmt.space\_planner, sn\_wsd\_spcmgmt.scenario\_reader \(read only; to view a scenario\)
 
@@ -30,11 +30,11 @@ Role required: sn\_wsd\_spcmgmt.space\_planner, sn\_wsd\_spcmgmt.scenario\_reade
 
 1.  Navigate to one of the following locations:
 
-    -   **All** &gt; **[[workplace-central-feat|Workplace Central]]** &gt; **Workplace Central**.
-    -   **All** &gt; **[[scenario-planning|Scenario Planning]]** &gt; **My Scenario Plans**
-    You can also open Workplace Central from the [[employee-center-landing-page|Employee Center]] by navigating to **Workspaces** &gt; **Workplace Central**.
+    -   **All** &gt; **Workplace Central** &gt; **Workplace Central**.
+    -   **All** &gt; **Scenario Planning** &gt; **My Scenario Plans**
+    You can also open Workplace Central from the Employee Center by navigating to **Workspaces** &gt; **Workplace Central**.
 
-    The [[workplace-analytics|Workplace Analytics]] dashboard opens.
+    The Workplace Analytics dashboard opens.
 
 2.  Select All scenarios, then select the scenario that you want to edit.
 
@@ -131,10 +131,3 @@ This step is applicable if the Group by option is Workplace Entity.
 
 [Edit user assignments of a neighborhood]()
 
-## Related
-
-- [[reviewing-allocation-changes|Reviewing allocation changes]]
-- [[workplace-central-feat|Workplace Central]]
-- [[scenario-planning|Scenario Planning]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-analytics|Workplace Analytics]]

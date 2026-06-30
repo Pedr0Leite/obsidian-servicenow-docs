@@ -14,7 +14,7 @@ breadcrumb: [Event Management, ITOM AIOps, IT Operations Management]
 
 # Using Event Management
 
-As an [[c_EM|Event Management]] operator, your role is to find alerts, analyze them, and take action to help resolve the underlying issue.
+As an Event Management operator, your role is to find alerts, analyze them, and take action to help resolve the underlying issue.
 
 This guide can assist you on a regular basis.
 
@@ -25,13 +25,9 @@ On the Operator Workspace, you can view alerts by application services, technica
 -   **[Use the Event Management overview dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMUseOverviewDashboard.md)**  
 The Event Management overview module uses Performance Analytics to present data from your instance for you to better visualize and understand your processes and drive continual improvement.
 -   **[Launch web application from alert](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMLaunchAnApplication.md)**  
-You can [[operator-launch-web-app|launch a web application from an alert]] that matches the conditions set in an alert action rule.
+You can launch a web application from an alert that matches the conditions set in an alert action rule.
 -   **[Event Management Operator Tutorial](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-guide-em.md)**  
 As an Event Management operator, your role is to find alerts, analyze them, and take action to help resolve the underlying issue.
 
 **Parent Topic:**[Event Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/c_EM.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[operator-launch-web-app|Launch a web application from an alert]]

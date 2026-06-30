@@ -12,14 +12,14 @@ breadcrumb: [Managing Operational vulnerability, Manage, Operational Resilience,
 
 # Creating an action task for the operational vulnerability
 
-The [[exploring-op-vul|Operational vulnerability]] analysts gather additional information or an evidence on the vulnerability by creating one or more action tasks. An action task can be of an assessment or investigation type.
+The Operational vulnerability analysts gather additional information or an evidence on the vulnerability by creating one or more action tasks. An action task can be of an assessment or investigation type.
 
 The Operational vulnerability analysts assign the assessment or investigation action tasks to appropriate task owners. The task owners then review the tasks, note their observations, finish the assigned work, and inform the task owners to review their work.
 
 Task owners typically perform the following actions:
 
--   [[create-action-task-op-vul|Manage an assessment-type action task]]
--   [[update-state-of-action-task|Manage an investigation-type action task]]
+-   [Manage an assessment-type action task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-action-task-op-vul.md)
+-   [Manage an investigation-type action task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/update-state-of-action-task.md)
 
 ## Workflow states for an action task
 
@@ -43,8 +43,3 @@ When an action task \[sn\_grc\_case\_mgmt\_case\_task\] associated with the vuln
 2.  When the action task is assigned to the assignment group, the users in the assignment group receive the email notifications.
 3.  When the action task is submitted for a review, the analyst assigned to the operational vulnerability record receives the email notification to review the task.
 
-## Related
-
-- [[create-action-task-op-vul|Manage an assessment-type action task]]
-- [[update-state-of-action-task|Manage an investigation-type action task]]
-- [[exploring-op-vul|Operational vulnerability]]

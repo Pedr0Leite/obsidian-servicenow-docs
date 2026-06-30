@@ -14,7 +14,7 @@ breadcrumb: [Using Notify with tasks, Using Notify, Notify, Manage service capab
 
 # Send an SMS alert from a task
 
-Use [[notify-landing-page|Notify]] to send information related to a call through SMS alerts from a task record.
+Use Notify to send information related to a call through SMS alerts from a task record.
 
 ## Before you begin
 
@@ -44,7 +44,7 @@ Use **glide.enable.notify\_on\_task** property to enable Notify integration for 
 
 <table id="choicetable_b2f_p4c_lq"><tbody><tr><td id="d88055e143">
 
-**Click the [[reference|reference]] lookup icon and select the relevant user**
+**Click the reference lookup icon and select the relevant user**
 
 </td><td>
 
@@ -75,7 +75,3 @@ Any SMS records created from a task are associated with that task. You can view 
 
 [Manage conference calls on task]()
 
-## Related
-
-- [[notify-landing-page|Notify]]
-- [[reference|Reference]]

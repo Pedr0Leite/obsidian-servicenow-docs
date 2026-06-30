@@ -14,20 +14,20 @@ breadcrumb: [Discovery patterns used by ITOM Visibility, ITOM Visibility, IT Ope
 
 # Available on-premise discovery patterns
 
-[[itom-visibility-landing-page|ITOM Visibility]] comes with an extensive library of patterns.
+ITOM Visibility comes with an extensive library of patterns.
 
-ServiceNow releases new [[r-discovery|discovery]] patterns on the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) on a monthly basis to ensure that your organization can discover the latest industry-standard devices and applications. Major ServiceNow versions incorporate patterns previously released on the ServiceNow Store.
+ServiceNow releases new discovery patterns on the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) on a monthly basis to ensure that your organization can discover the latest industry-standard devices and applications. Major ServiceNow versions incorporate patterns previously released on the ServiceNow Store.
 
 For a complete list of devices and applications that ITOM Visibility can discover, see [Detailed information on products discovered by ITOM Visibility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_SupportedApplications.md).
 
 -   **[Apache Cassandra database discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/cassandra-discovery.md)**  
-ServiceNow Discovery finds the Apache and the DataStax Cassandra database on UNIX using the Cassandra Distributed DB pattern. Discovering some of these resources requires installing the Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns from the ServiceNow® Store.
+ServiceNow Discovery finds the Apache and the DataStax Cassandra database on UNIX using the Cassandra Distributed DB pattern. Discovering some of these resources requires installing the Discovery and Service Mapping Patterns from the ServiceNow® Store.
 -   **[Apache Kafka and Apache Zookeeper discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/kafka-zookeeper-discovery.md)**  
 ServiceNow Discovery uses the Kafka and Zookeeper discovery pattern to find Kafka data built on the Zookeeper synchronization service.
 -   **[Apigee Edge Enterprise edition discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/apigee-edge-discovery.md)**  
 The ServiceNow Discovery application uses the APIGee pattern to find Apigee Edge Enterprise edition versions 4.x.x. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 -   **[Avi Vantage load balancer discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/avi-load-balancer-discovery.md)**  
-The ServiceNow Discovery and Service Mapping applications use the Avi [[c_LoadBalancers|load balancer discovery]] patterns to find Avi Vantage load balancer components. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
+The ServiceNow Discovery and Service Mapping applications use the Avi load balancer discovery patterns to find Avi Vantage load balancer components. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 -   **[Next-Generation Cisco Firewall discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/cisco-fw-discovery.md)**  
 The ServiceNow Discovery application uses the Next Generation Cisco Firewall pattern to find Cisco firewalls. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 -   **[Cisco Switch Wireless Access Point \(WAP\) discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/cisco-waps-discovery.md)**  
@@ -37,7 +37,7 @@ The ServiceNow Discovery application can discover Citrix NetScaler SDX devices u
 -   **[Citrix Xen Hyper-V Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/citrix-xen-hyper-v-discovery.md)**  
 ServiceNow Discovery uses the Citrix Xen Hyper-V pattern to find and map instances. Discover these resources by installing the pattern applications from the ServiceNow Store and add Citrix Xen Hyper-V to the Linux Server Pattern’s Extension Section.
 -   **[Cloudian Storage Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/cloudian-storage-discovery.md)**  
-ServiceNow Discovery uses the [[cloudian-storage-discovery|Cloudian Storage discovery]] pattern to find Cloudian servers and related disks. Discovering these resources requires installing the Patterns application from the ServiceNow Store.
+ServiceNow Discovery uses the Cloudian Storage discovery pattern to find Cloudian servers and related disks. Discovering these resources requires installing the Patterns application from the ServiceNow Store.
 -   **[Cohesity storage system discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/cohesity-storage-system-discovery.md)**  
 The Discovery and Service Mapping Patterns application uses the Cohesity Storage System pattern to find clusters, nodes, and chassis for the Cohesity DataPlatform. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 -   **[ColdFusion discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/cold-fusion-discovery.md)**  
@@ -63,11 +63,11 @@ Discovery and Service Mapping Patterns finds Gunicorn WSGI HTTP server instances
 -   **[HAProxy load balancer discovery with patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/haproxy-lb-discovery-pattern.md)**  
 The Discovery and Service Mapping Patterns application uses the HA Proxy pattern to find HAProxy Community load balancers running on a Linux server. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 -   **[HPE BladeSystem Enclosure Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/hpe-bladesystem-enclosure-discovery.md)**  
-ServiceNow Discovery uses the [[hpe-bladesystem-enclosure-discovery|HPE BladeSystem Enclosure discovery]] pattern to discover BladeSystem, which is a line of Hewlett Packard Enterprise blade server machines. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
+ServiceNow Discovery uses the HPE BladeSystem Enclosure discovery pattern to discover BladeSystem, which is a line of Hewlett Packard Enterprise blade server machines. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 -   **[IBM Db2 on Linux database discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/ibm-db2-linux-discovery.md)**  
-ServiceNow Discovery uses the Db2 on [[r_DataCollDiscoLinuxComputers|Linux discovery]] pattern to find IBM Db2 instances on Linux servers.
+ServiceNow Discovery uses the Db2 on Linux discovery pattern to find IBM Db2 instances on Linux servers.
 -   **[IBM Db2 on Windows database discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/ibm-db2-windows-discovery.md)**  
-ServiceNow Discovery uses the Db2 on [[r_DataCollDiscoWindowsComputers|Windows discovery]] pattern to find IBM Db2 instances on Windows servers.
+ServiceNow Discovery uses the Db2 on Windows discovery pattern to find IBM Db2 instances on Windows servers.
 -   **[IBM Informix Dynamic Server discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/ibm-informix-discovery.md)**  
 The ServiceNow Discovery and Service Mapping applications can find and map the Informix Dynamic Server. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 -   **[IBM PowerHA SystemMirror for AIX discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/ibm-powerha-hamcp-discovery.md)**  
@@ -81,13 +81,13 @@ The Discovery and Service Mapping Patterns application uses the Websphere On Win
 -   **[InfiniBox Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/infinibox-discovery.md)**  
 ServiceNow Discovery uses the InfiniBox pattern to find and map instances. Discovering these resources requires installing the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 -   **[Next-Generation Juniper Network Firewall discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/juniper-fw-discovery.md)**  
-The ServiceNow Discovery application uses the [[juniper-fw-discovery|Next-Generation Juniper Network Firewall discovery]] pattern to find Juniper network firewalls. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
+The ServiceNow Discovery application uses the Next-Generation Juniper Network Firewall discovery pattern to find Juniper network firewalls. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 -   **[Linux Pacemaker Cluster discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/linux-pacemaker-cluster-discovery.md)**  
-The ServiceNow Discovery application uses the [[linux-pacemaker-cluster-discovery|Linux Pacemaker Cluster discovery]] pattern to find high-availability cluster data and populate the CMDB with the discovered information. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
+The ServiceNow Discovery application uses the Linux Pacemaker Cluster discovery pattern to find high-availability cluster data and populate the CMDB with the discovered information. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 -   **[Microsoft Certificate Authority \(CA\) certificates discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/microsoft-ca-discovery.md)**  
 The ServiceNow Discovery application can discover Microsoft Certificate Authority \(CA\) certificates using the Microsoft CA - Certificate Management pattern. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 -   **[NetApp SolidFire storage system discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/solidfire-storage-pattern.md)**  
-ServiceNow Discovery uses the [[solidfire-storage-pattern|NetApp SolidFire storage system discovery]] pattern to find clusters and nodes on the SolidFire storage system. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
+ServiceNow Discovery uses the NetApp SolidFire storage system discovery pattern to find clusters and nodes on the SolidFire storage system. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 -   **[Network router discovery using patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/network-router-patterns.md)**  
 The Discovery and Service Mapping Patterns application uses the Network Router pattern to find network routers in your environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 -   **[Network switch discovery using patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/network-switch-patterns.md)**  
@@ -127,7 +127,7 @@ Discovery uses multiple patterns to find all Rubrik cluster data. Discovering so
 -   **[Veritas Cluster Server discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/veritas-cluster-server-discovery.md)**  
 The ServiceNow Discovery application uses the Unix Cluster – VERITAS Cluster pattern to find Veritas Cluster Server components. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 -   **[VMware NSX Advanced load balancer discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/vmware-nsx-lb-discovery.md)**  
-The ServiceNow Discovery application uses the [[vmware-nsx-lb-discovery|VMware NSX Advanced load balancer discovery]] pattern to find VMware NSX load balancers. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
+The ServiceNow Discovery application uses the VMware NSX Advanced load balancer discovery pattern to find VMware NSX load balancers. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 -   **[VMware NSX-T cluster pattern-based discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/nsx-t-cluster-pattern.md)**  
 Discovery and Service Mapping Patterns uses the NSX Cluster pattern to find VMware NSX-T infrastructure. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
@@ -137,17 +137,3 @@ Discovery and Service Mapping Patterns uses the NSX Cluster pattern to find VMwa
 
 **Next topic:**[Apache Cassandra database discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/cassandra-discovery.md)
 
-## Related
-
-- [[itom-visibility-landing-page|ITOM Visibility]]
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[c_LoadBalancers|Load balancer discovery]]
-- [[cloudian-storage-discovery|Cloudian Storage Discovery]]
-- [[hpe-bladesystem-enclosure-discovery|HPE BladeSystem Enclosure Discovery]]
-- [[r_DataCollDiscoLinuxComputers|Linux discovery]]
-- [[r_DataCollDiscoWindowsComputers|Windows discovery]]
-- [[juniper-fw-discovery|Next-Generation Juniper Network Firewall discovery]]
-- [[linux-pacemaker-cluster-discovery|Linux Pacemaker Cluster discovery]]
-- [[solidfire-storage-pattern|NetApp SolidFire storage system discovery]]
-- [[vmware-nsx-lb-discovery|VMware NSX Advanced load balancer discovery]]

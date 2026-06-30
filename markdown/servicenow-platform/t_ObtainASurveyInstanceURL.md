@@ -37,7 +37,7 @@ The survey instance URL is available on the survey instance record.
 5.  Distribute the URL to the assigned user.
 
 
-**Parent Topic:**[[c_SurveyURLs|Survey URLs]]
+**Parent Topic:**[Survey URLs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyURLs.md)
 
 **Related topics**  
 
@@ -48,6 +48,3 @@ The survey instance URL is available on the survey instance record.
 
 [Test a survey URL]()
 
-## Related
-
-- [[c_SurveyURLs|Survey URLs]]

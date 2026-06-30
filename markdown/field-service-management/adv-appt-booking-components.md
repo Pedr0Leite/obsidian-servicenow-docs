@@ -12,7 +12,7 @@ breadcrumb: [Appointment booking components, Components installed with additiona
 
 # Advanced appointment booking components
 
-The roles, properties, and tables for the advanced [[appointment-booking|appointment booking]] feature.
+The roles, properties, and tables for the advanced appointment booking feature.
 
 This plugin activates the following plugins if they aren't already installed:
 
@@ -80,9 +80,5 @@ Appointment Schedule Override​\[sn\_apptmnt\_booking\_schedule\_override\]
 Stores override schedule changes. ​
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[appointment-booking-components|Appointment booking components]]
+</table>**Parent Topic:**[Appointment booking components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/appointment-booking-components.md)
 
-## Related
-
-- [[appointment-booking-components|Appointment booking components]]
-- [[appointment-booking|Appointment booking]]

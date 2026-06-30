@@ -14,7 +14,7 @@ breadcrumb: [Day 1 setup guide for Microsoft Azure Cloud on Cloud Provisioning a
 
 # Set up Microsoft Azure Government Cloud on Cloud Provisioning and Governance
 
-Set up Microsoft Azure Government Cloud on Cloud Provisioning and Governance for the first time. You can discover, provision, and manage Microsoft Azure Government Cloud resources using [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]], thereafter.
+Set up Microsoft Azure Government Cloud on Cloud Provisioning and Governance for the first time. You can discover, provision, and manage Microsoft Azure Government Cloud resources using Cloud Provisioning and Governance, thereafter.
 
 ## Before you begin
 
@@ -68,7 +68,7 @@ Be sure to perform the procedures in order. After you have performed the Day 1 s
 
     5.  Click **Edit** and add the following applications to the **Supported Applications List**:
 
-        -   **[[r-discovery|Discovery]]**
+        -   **Discovery**
         -   **Cloud Management**
         -   **Orchestration**
     6.  Click **Save**.
@@ -95,7 +95,7 @@ Be sure to perform the procedures in order. After you have performed the Day 1 s
 
 4.  [Store the Azure service principal credentials in the instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/azure-create-creds-cloud-mgt.md).
 
-5.  In the **[[cloud-admin-portal|Cloud Admin Portal]]**, navigate to **Manage** &gt; **Credentials**, and select the Azure Service principal record.
+5.  In the **Cloud Admin Portal**, navigate to **Manage** &gt; **Credentials**, and select the Azure Service principal record.
 
 6.  To discover service accounts associated to the Azure subscriptions that are available to this Service principal, click the **Discover Subscriptions** related link.
 
@@ -108,8 +108,3 @@ The **Azure Subscriptions** related list displays all subscriptions that are ass
 
 [Define the schedule for downloading Microsoft Azure billing data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/azure-bill-dwnld-sched-cloud-mgt.md).
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[r-discovery|Discovery]]
-- [[cloud-admin-portal|Cloud Admin Portal]]

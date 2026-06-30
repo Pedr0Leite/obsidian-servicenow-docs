@@ -14,7 +14,7 @@ breadcrumb: [Use, Compliance Case Management, Governance, Risk, and Compliance]
 
 # Add a cause and consequence to a compliance case
 
-Define the root cause for the reported compliance case or event and its consequences on the organization by using the GRC: [[compliance-case-management|Compliance Case Management]] application.
+Define the root cause for the reported compliance case or event and its consequences on the organization by using the GRC: Compliance Case Management application.
 
 ## Before you begin
 
@@ -38,7 +38,7 @@ You can add multiple causes to a compliance case or event and define a primary c
 
 6.  On the form, fill in the fields.
 
-    For a description of the field values on the [[cause-and-consequence-form|Cause and Consequence form]], see [Cause and Consequence form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/cause-consequence-form.md).
+    For a description of the field values on the Cause and Consequence form, see [Cause and Consequence form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/cause-consequence-form.md).
 
 7.  Select **Save**.
 
@@ -48,7 +48,3 @@ Use the Cause and Consequence form to define the cause and consequence that a ca
 
 **Parent Topic:**[Using Compliance Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/use-compliance-case-management.md)
 
-## Related
-
-- [[compliance-case-management|compliance case management]]
-- [[cause-and-consequence-form|Cause and consequence form]]

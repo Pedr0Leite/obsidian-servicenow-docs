@@ -14,7 +14,7 @@ breadcrumb: [Discovery for VMware, Discovery for cloud environment, Discovery, I
 
 # Configure the VMware Events service to auto-update the CMDB
 
-Configure events from the cloud environment to make the necessary updates to your CMDB without additional scanning. The VMware Events service can auto-update CI data in the CMDB whenever [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] makes a life-cycle state or configuration change to a VMware resource. As a result, the CI data in the CMDB is updated without having to wait for [[r-discovery|Discovery]] to run.
+Configure events from the cloud environment to make the necessary updates to your CMDB without additional scanning. The VMware Events service can auto-update CI data in the CMDB whenever Cloud Provisioning and Governance makes a life-cycle state or configuration change to a VMware resource. As a result, the CI data in the CMDB is updated without having to wait for Discovery to run.
 
 ## Before you begin
 
@@ -33,7 +33,7 @@ Role required: sn\_cmp.cloud\_event\_integration
 
 ## About this task
 
-When VMware Events sends an update, the instance processes the event and creates or updates the CI entry in the CMDB and the CI information in the [[cloudmgt-cloud-user-portal|Cloud User Portal]]. Each event is saved as a record in the Events table on your instance. Configure all event/alert rules from the vCenter.
+When VMware Events sends an update, the instance processes the event and creates or updates the CI entry in the CMDB and the CI information in the Cloud User Portal. Each event is saved as a record in the Events table on your instance. Configure all event/alert rules from the vCenter.
 
 To connect to a different MID Server or vCenter: Update the settings and then click the **Start** related link. The **Status** value changes to **Updating** and then to **Started**.
 
@@ -48,7 +48,7 @@ During event processing, the Cloud Event Scheduler identifies the domain of the 
 1.  Navigate to the VMware Alert Configuration in one of the following ways:
 
     -   Use the `https://baseURL/ecc_agent_ext_context_vcenter` to navigate directly using the URL.
-    -   On the **[[cloud-admin-portal|Cloud Admin Portal]]**, navigate to **Manage** &gt; **Alert Configurations**.
+    -   On the **Cloud Admin Portal**, navigate to **Manage** &gt; **Alert Configurations**.
 2.  On the **VMware** tab, click **New**.
 
 3.  On the form, fill in the fields.
@@ -83,9 +83,3 @@ During event processing, the Cloud Event Scheduler identifies the domain of the 
 -   If the vCenter has events in the Event Manager and the same events are configured, Cloud Provisioning and Governance gathers the events and take action on the CIs accordingly.
 -   Identification and Reconciliation Engine \(IRE\) changes the CI state based on event payload received and the IRE cannot be customized.
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[r-discovery|Discovery]]
-- [[cloudmgt-cloud-user-portal|Cloud User Portal]]
-- [[cloud-admin-portal|Cloud Admin Portal]]

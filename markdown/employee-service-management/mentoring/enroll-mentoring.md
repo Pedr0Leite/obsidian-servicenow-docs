@@ -22,7 +22,7 @@ Role required: none
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Your career** &gt; **[[mentoring-egd-overview|Mentoring]]**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **Your career** &gt; **Mentoring**.
 
 2.  Select **Get started**.
 
@@ -34,7 +34,4 @@ Role required: none
 
 4.  Select **Next** and answer the questions that appear in the wizard.
 
-## Related
 
-- [[employee-center-landing-page|Employee Center]]
-- [[mentoring-egd-overview|Mentoring]]

@@ -32,7 +32,7 @@ For signing an adhoc document \(HR PDF document template\) or an Adobe Sign temp
 
 1.  Configure an HR service for the Adobe Sign integration.
 
-    1.  Navigate to **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **[[hr-service-configuration|HR Service Configuration]]**.
+    1.  Navigate to **HR Administration** &gt; **HR Service Configuration**.
 
     2.  Click **New** or open a record.
 
@@ -53,7 +53,7 @@ For signing an adhoc document \(HR PDF document template\) or an Adobe Sign temp
 
     1.  In the **Template** field, click the Lookup icon.
 
-    2.  In the **[[hr-template-configuration|HR Templates]]** list, click **New** or open a record.
+    2.  In the **HR Templates** list, click **New** or open a record.
 
     3.  From the **Add fields** list, select **PDF Template.**
 
@@ -74,8 +74,3 @@ For signing an adhoc document \(HR PDF document template\) or an Adobe Sign temp
 
 **Parent Topic:**[Integrating with the Adobe Sign service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/integrating-with-adobe-sign-service.md)
 
-## Related
-
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[hr-service-configuration|HR service configuration]]
-- [[hr-template-configuration|HR templates]]

@@ -14,7 +14,7 @@ breadcrumb: [PhishTank integration, Security Incident Response integrations, Sec
 
 # Verify expected results for PhishTank
 
-[[c_Observables|Observables]] are generated automatically by a security incident and scanned by the application. Lookup results are displayed on the [[tisc-threat-lookup|Threat Lookup]] Results tab at the bottom of the security incident record.
+Observables are generated automatically by a security incident and scanned by the application. Lookup results are displayed on the Threat Lookup Results tab at the bottom of the security incident record.
 
 ## Before you begin
 
@@ -38,7 +38,7 @@ Role required: sn\_si.analyst
 
 4.  In the **Observable** column, select an observable to open a record and display more information.
 
-    On the observable record, for lookups matching malicious, `Malicious` is displayed the **Finding** field. The observable is tagged with the [[threat-intel-landing-page|Threat Intelligence]] source that found it to be malicious, in this case, the PhishTank application.
+    On the observable record, for lookups matching malicious, `Malicious` is displayed the **Finding** field. The observable is tagged with the Threat Intelligence source that found it to be malicious, in this case, the PhishTank application.
 
 5.  To view raw data, navigate back to the security incident and select the blue information icon next to an observable.
 
@@ -57,8 +57,3 @@ If you don't see results under the **Threat Lookup Results** tab, verify that th
 
 **Next topic:**[\(Optional\) Manually attach an observable for PhishTank](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/attach-an-observable-manually-phishtank.md)
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[tisc-threat-lookup|Threat Lookup]]
-- [[threat-intel-landing-page|Threat Intelligence]]

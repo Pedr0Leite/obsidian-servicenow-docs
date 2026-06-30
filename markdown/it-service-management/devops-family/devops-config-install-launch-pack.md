@@ -14,7 +14,7 @@ breadcrumb: [Install DevOps Config, Configuring DevOps Config, DevOps Config, IT
 
 # Install DevOps Config Exporter content pack
 
-Install DevOps Config Exporter content pack for a default set of [[devops-config-landing-page|DevOps Config]] exporters that you can use as-is, or customize for your needs.
+Install DevOps Config Exporter content pack for a default set of DevOps Config exporters that you can use as-is, or customize for your needs.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ The DevOps Config Exporter content pack contains a set of [Default DevOps Config
 
 ## Procedure
 
-1.  Navigate to **System [[dex-workspace-application-tab|Applications]]** &gt; **All Available Applications** &gt; **All**.
+1.  Navigate to **System Applications** &gt; **All Available Applications** &gt; **All**.
 
 2.  Click the **Not Installed** tab to view a list of applications available for installation.
 
@@ -39,7 +39,3 @@ The DevOps Config Exporter content pack contains a set of [Default DevOps Config
 
 **Parent Topic:**[Install DevOps Config](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-family/install-devops-config.md)
 
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]
-- [[dex-workspace-application-tab|Applications]]

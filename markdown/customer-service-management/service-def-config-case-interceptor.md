@@ -12,7 +12,7 @@ breadcrumb: [Configuring service definitions, Service definitions, Case manageme
 
 # Add a case type to the Case interceptor
 
-In the Core UI, the Case interceptor [[migration-lists|lists]] the types of customer service cases that an agent can create. If you create a case type and you want that case type to appear in the Case interceptor, you need to add it to the Case interceptor configuration.
+In the Core UI, the Case interceptor lists the types of customer service cases that an agent can create. If you create a case type and you want that case type to appear in the Case interceptor, you need to add it to the Case interceptor configuration.
 
 ## Before you begin
 
@@ -43,6 +43,4 @@ When an agent creates a case, they can select the case type from the Case interc
 
 6.  Select **Submit**.
 
-## Related
 
-- [[migration-lists|Lists]]

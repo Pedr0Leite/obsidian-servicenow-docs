@@ -22,7 +22,7 @@ Role required: sn\_msi.workspace\_admin
 
 ## Procedure
 
-1.  Navigate to **[[major-security-incident-management-landing-page|Major Security Incident Management]]** &gt; **Chat Channel** &gt; **Channel Templates**.
+1.  Navigate to **Major Security Incident Management** &gt; **Chat Channel** &gt; **Channel Templates**.
 
 2.  On the Chat Channel Configuration form, select **New** in the form header.
 
@@ -102,6 +102,3 @@ The chat channel is now created and the users are assigned to those chat channel
 
 **Parent Topic:**[Configure Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/chat-channel-provider-config.md)
 
-## Related
-
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]

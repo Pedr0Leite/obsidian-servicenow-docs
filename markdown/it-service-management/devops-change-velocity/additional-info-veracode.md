@@ -14,11 +14,7 @@ breadcrumb: [Veracode, Integrate, DevOps Change Velocity, IT Service Management]
 
 # Additional info - Veracode
 
-Additional information on Veracode such as association of orchestration tool from security tool, [[security-tool-framework|security scan results]], and [[change-condition-for-security-framework|change policies based on security summary tables]].
+Additional information on Veracode such as association of orchestration tool from security tool, security scan results, and change policies based on security summary tables.
 
 **Parent Topic:**[Veracode integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/veracode-integration-with-devops-change-velocity.md)
 
-## Related
-
-- [[security-tool-framework|Security scan results]]
-- [[change-condition-for-security-framework|Change policies based on security summary tables]]

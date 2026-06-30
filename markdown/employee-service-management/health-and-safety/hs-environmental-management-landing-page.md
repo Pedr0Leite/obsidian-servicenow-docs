@@ -14,7 +14,7 @@ breadcrumb: [Health and Safety, Employee Service Management]
 
 # Health and Safety Environmental Management
 
-The ServiceNow® Health and Safety Environmental Management application is a solution in [[health-safety-overview|Health and Safety]] that focuses on environmental conformance. It provides a [[hs-using-chemical-management|chemical management]] feature that enables organizations to manage chemicals, handle emissions and waste, and support regulatory conformance.
+The ServiceNow® Health and Safety Environmental Management application is a solution in Health and Safety that focuses on environmental conformance. It provides a chemical management feature that enables organizations to manage chemicals, handle emissions and waste, and support regulatory conformance.
 
 ## Get started
 
@@ -36,7 +36,7 @@ The ServiceNow® Health and Safety Environmental Management application is a sol
 
 </td><td>
 
-[Health and Safety Environmental Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-reference-environmental-management.md)[[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]\[Omitted image "bus-learn.svg"\] Alt text:Get detailed description of the forms used in Health and Safety Environmental Management.
+[Health and Safety Environmental Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-reference-environmental-management.md)Reference\[Omitted image "bus-learn.svg"\] Alt text:Get detailed description of the forms used in Health and Safety Environmental Management.
 
 </td><td>
 
@@ -49,8 +49,3 @@ The ServiceNow® Health and Safety Environmental Management application is a sol
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[hs-using-chemical-management|Chemical management]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

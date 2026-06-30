@@ -14,7 +14,7 @@ breadcrumb: [Explore Localization Framework, Localization Framework, Translation
 
 # Workflows in the Localization Framework
 
-Workflows in the Settings table define the process for a [[ia-localization-il|localization]] task, including steps for approval and methods for translating and publishing.
+Workflows in the Settings table define the process for a localization task, including steps for approval and methods for translating and publishing.
 
 ## Overview of workflows in the Settings table of Localization Framework
 
@@ -36,7 +36,7 @@ Translation → Publish
 
 </td><td>
 
-The localization task is translated manually or by using one of the [[translation-modes|translation modes]]. After translation, the content is published manually.Group needed: Assign the **Localization Fulfiller Group**.
+The localization task is translated manually or by using one of the translation modes. After translation, the content is published manually.Group needed: Assign the **Localization Fulfiller Group**.
 
 </td></tr><tr><td>
 
@@ -125,7 +125,3 @@ Select an [Auto Translation Mode](https://raw.githubusercontent.com/ServiceNow/S
 </td></tr></tbody>
 </table>**Parent Topic:**[Explore Localization Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/exploring-localization-framework.md)
 
-## Related
-
-- [[ia-localization-il|Localization]]
-- [[translation-modes|Translation modes]]

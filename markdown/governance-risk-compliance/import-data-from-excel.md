@@ -20,7 +20,7 @@ Role required: sn\_bcm.core\_viewer
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **Business Continuity Workspace** &gt; **[[exercise-management-uib|Exercises]]** &gt; **Pending** and select the parent record \(the same one you exported from\).
+1.  Navigate to **Workspaces** &gt; **Business Continuity Workspace** &gt; **Exercises** &gt; **Pending** and select the parent record \(the same one you exported from\).
 
 2.  Open the same event record from where you had exported the Microsoft Excel sheet.
 
@@ -54,7 +54,7 @@ Role required: sn\_bcm.core\_viewer
 
 7.  Monitor the import progress using the inline progress tracker on the event record.
 
-    Import processing occurs in batches. Processing time depends on the number of records in the file. For information on the progress states shown in the tracker, see the Import progress states table in [[using-export-import-feature-event-tasks|Importing and exporting event tasks in Microsoft Excel]].
+    Import processing occurs in batches. Processing time depends on the number of records in the file. For information on the progress states shown in the tracker, see the Import progress states table in [Importing and exporting event tasks in Microsoft Excel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/using-export-import-feature-event-tasks.md).
 
     The system reads the Microsoft Excel file, matches each row to an existing record using the **Number** field, and updates only the changed fields. Reference fields such as **Assigned to** are resolved automatically — the system converts display values back to the correct internal records.
 
@@ -85,7 +85,3 @@ Role required: sn\_bcm.core\_viewer
 
 **Parent Topic:**[Importing and exporting event tasks in Microsoft Excel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/using-export-import-feature-event-tasks.md)
 
-## Related
-
-- [[using-export-import-feature-event-tasks|Importing and exporting event tasks in Microsoft Excel]]
-- [[exercise-management-uib|Exercises]]

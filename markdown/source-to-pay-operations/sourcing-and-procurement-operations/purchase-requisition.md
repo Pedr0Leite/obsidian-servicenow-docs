@@ -14,12 +14,12 @@ breadcrumb: [Sourcing and Purchasing Automation, Explore, Sourcing and Procureme
 
 # Purchase requisition
 
-A purchase requisition represents a request that is sent internally within an organization to obtain purchased goods or services. It consists of items that need to be ordered, and may need to go through approvals for a [[purchase-order-table|purchase order]] to be created.
+A purchase requisition represents a request that is sent internally within an organization to obtain purchased goods or services. It consists of items that need to be ordered, and may need to go through approvals for a purchase order to be created.
 
 A purchase requisition is created in either of the following scenarios:
 
 -   When a shopper selects **Request to buy** from a product details page on ShoppingHub.
--   When a [[supplier|supplier]] is selected after providing quotes in a [[sourcing-request|sourcing request]].
+-   When a supplier is selected after providing quotes in a sourcing request.
 
 Through a purchase requisition, the purchasing department understands details of the items that are requested, the quantity, supplier, cost, and reason for purchase.\[Omitted image "create\_purchase\_requisition.png"\] Alt text: Purchase requisition.
 
@@ -45,7 +45,7 @@ Requisition type
 
 </td><td>
 
-Indicates if this requisition is net new or a revision.The shopper can revise the quantity of the product or delivery location for on order from ShoppingHub or the buyer can submit a revision from the [[purchase-experience-workflow|Sourcing and Purchasing Automation]] module.
+Indicates if this requisition is net new or a revision.The shopper can revise the quantity of the product or delivery location for on order from ShoppingHub or the buyer can submit a revision from the Sourcing and Purchasing Automation module.
 
 To understand how revisions are handled, see [Purchase revisions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-revisions.md).
 
@@ -149,7 +149,7 @@ After the fact
 
 </td><td>
 
-Indicates if the purchase requisition is after the fact or not.After a purchase line is created and grouped into a purchase requisition, if the created on date is either within or after x number of days of the expected delivery date or start date, then the entire purchase requisition would be considered as after the fact. For a purchase requisition that has multiple [[purchase-lines|purchase lines]], if at least one line is after the fact, the entire purchase requisition is considered after the fact.
+Indicates if the purchase requisition is after the fact or not.After a purchase line is created and grouped into a purchase requisition, if the created on date is either within or after x number of days of the expected delivery date or start date, then the entire purchase requisition would be considered as after the fact. For a purchase requisition that has multiple purchase lines, if at least one line is after the fact, the entire purchase requisition is considered after the fact.
 
 </td></tr><tr><td>
 
@@ -165,7 +165,7 @@ Shipping method
 
 </td><td>
 
-Details of the carrier, the applicable suppliers, and the valid delivery location countries for those suppliers.For more information on shipping methods and [[handling-fees|handling fees]], see [Handling fees](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/handling-fees.md).
+Details of the carrier, the applicable suppliers, and the valid delivery location countries for those suppliers.For more information on shipping methods and handling fees, see [Handling fees](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/handling-fees.md).
 
 </td></tr><tr><td>
 
@@ -221,7 +221,7 @@ Payment term as agreed with the supplier. This value defaults from the reference
 
 </td></tr><tr><td>
 
-[[legal-entity|Legal entity]]
+Legal entity
 
 </td><td>
 
@@ -237,7 +237,7 @@ This value defaults from the associated business owner.
 
 </td></tr><tr><td>
 
-[[cost-center|Cost center]]
+Cost center
 
 </td><td>
 
@@ -288,7 +288,7 @@ Displays all the cases associated with this purchase requisition.
 
 </td></tr><tr><td>
 
-Related [[contracts|Contracts]]
+Related Contracts
 
 </td><td>
 
@@ -334,7 +334,7 @@ Contract Requests
 
 </td><td>
 
-Displays all the associated contract requests against this purchase requisition.**Note:** This field is displayed only if you have the [[source-to-pay-operations-overview|Source-to-Pay Operations]] with Contract Management Pro plugin \(sn\_spend\_clm\) installed.
+Displays all the associated contract requests against this purchase requisition.**Note:** This field is displayed only if you have the Source-to-Pay Operations with Contract Management Pro plugin \(sn\_spend\_clm\) installed.
 
 </td></tr><tr><td>
 
@@ -386,15 +386,3 @@ As an administrator, you can configure the conditions of a purchase request, whi
 
 **Parent Topic:**[Sourcing and Purchasing Automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-experience-workflow.md)
 
-## Related
-
-- [[purchase-order-table|Purchase order]]
-- [[supplier|Supplier]]
-- [[sourcing-request|Sourcing request]]
-- [[purchase-experience-workflow|Sourcing and Purchasing Automation]]
-- [[purchase-lines|Purchase lines]]
-- [[handling-fees|Handling fees]]
-- [[legal-entity|Legal entity]]
-- [[cost-center|Cost center]]
-- [[contracts|Contracts]]
-- [[source-to-pay-operations-overview|Source-to-Pay Operations]]

@@ -14,7 +14,7 @@ breadcrumb: [Sourcing Procurement Operations integration third-party, Integrate,
 
 # Submit multi-product sourcing requests
 
-Requesters can submit sourcing requests with multiple products in a single sourcing intake form. When a [[sourcing-request|sourcing request]] form contains multiple products, the third-party sourcing solution automatically creates individual [[negotiation-events|sourcing events]] for each product.
+Requesters can submit sourcing requests with multiple products in a single sourcing intake form. When a sourcing request form contains multiple products, the third-party sourcing solution automatically creates individual sourcing events for each product.
 
 ## Before you begin
 
@@ -44,7 +44,7 @@ When a requester submits a sourcing intake form with multiple products, the thir
 
     \[Omitted image "multi-prod-3p-step4.png"\] Alt text: Select your requirement for the request.
 
-5.  Select your preferred [[supplier|supplier]].
+5.  Select your preferred supplier.
 
     \[Omitted image "multi-prod-3p-step5.png"\] Alt text: Add existing supplier in the system.
 
@@ -76,19 +76,12 @@ When a requester submits a sourcing intake form with multiple products, the thir
 
 10. Select **Submit**.
 
-    \[Omitted image "multi-prod-3p-result.png"\] Alt text: Multiple sourcing requests are created for the same [[purchase-requisition|purchase requisition]].
+    \[Omitted image "multi-prod-3p-result.png"\] Alt text: Multiple sourcing requests are created for the same purchase requisition.
 
 
 ## Result
 
-Multiple sourcing requests are created and linked to the same purchase record. All related requests are visible and manageable in the [[purch-order-mgmt-ws|Source-to-Pay Workspace]], and each sourcing request has its own sourcing event and RFQ identifier.
+Multiple sourcing requests are created and linked to the same purchase record. All related requests are visible and manageable in the Source-to-Pay Workspace, and each sourcing request has its own sourcing event and RFQ identifier.
 
 **Parent Topic:**[Sourcing and Procurement Operations integration with third-party sourcing solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/psm-integration-third-party-sourcing.md)
 
-## Related
-
-- [[sourcing-request|Sourcing request]]
-- [[negotiation-events|Sourcing events]]
-- [[supplier|Supplier]]
-- [[purchase-requisition|Purchase requisition]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

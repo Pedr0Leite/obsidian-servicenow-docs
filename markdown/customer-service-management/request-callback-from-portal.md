@@ -12,7 +12,7 @@ breadcrumb: [Callback requests from customers, Use omnichannel callback, Custome
 
 # Working with callback requests using the Customer Service Portal
 
-As a customer, you can request a callback from a customer service agent [[use-the-customer-portal|using the Customer Service Portal]]. You can request an immediate callback or schedule a voice or video callback that you can reschedule or cancel.
+As a customer, you can request a callback from a customer service agent using the Customer Service Portal. You can request an immediate callback or schedule a voice or video callback that you can reschedule or cancel.
 
 ## Request a callback using the Customer Service or Consumer Service Portal
 
@@ -32,7 +32,7 @@ You can request an immediate callback only for a voice channel. Use the **Call m
 
     For example: `https://yourportalurl.com/csm`
 
-2.  Select **My [[migration-lists|Lists]]** in the portal header and then select **My cases**.
+2.  Select **My Lists** in the portal header and then select **My cases**.
 
 3.  Select the case for which you need support.
 
@@ -84,7 +84,7 @@ The date and time slots indicate the agent's availability.
 
 ## Reschedule a callback using the Customer Service or Consumer Service Portal
 
-[[reschedule-callback|Reschedule a callback]] from an agent using the Customer or Consumer Service Portal.
+Reschedule a callback from an agent using the Customer or Consumer Service Portal.
 
 ### Before you begin
 
@@ -123,7 +123,7 @@ You can reschedule a callback request to receive a phone or video call from an a
 
 ## Cancel a callback using the Customer Service or Consumer Service Portal
 
-[[cancel-callback|Cancel a callback]] from an agent using the Customer or Consumer Service Portal.
+Cancel a callback from an agent using the Customer or Consumer Service Portal.
 
 ### Before you begin
 
@@ -152,9 +152,3 @@ Role required: sn\_customerservice.customer, sn\_customerservice.consumer
 -   The details of the canceled callback request are available in the **Callbacks** tab.
 -   A confirmation email is sent.
 
-## Related
-
-- [[use-the-customer-portal|Using the Customer Service Portal]]
-- [[migration-lists|Lists]]
-- [[reschedule-callback|Reschedule a callback]]
-- [[cancel-callback|Cancel a callback]]

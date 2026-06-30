@@ -16,7 +16,7 @@ Track and monitor the real-time status of your work by accessing your profile in
 
 ## Before you begin
 
-**Important:** To access the next generation of the Workforce Optimization for Customer Service application, transition to the Workforce Optimization for Customer Service application that is available from the ServiceNow Store. You can now configure Workforce Optimization for Customer Service using the [UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder-overview.md). For more information see, [[configurable-wfo-cs|Workforce Optimization for Customer Service]].
+**Important:** To access the next generation of the Workforce Optimization for Customer Service application, transition to the Workforce Optimization for Customer Service application that is available from the ServiceNow Store. You can now configure Workforce Optimization for Customer Service using the [UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder-overview.md). For more information see, [Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configurable-wfo-cs.md).
 
 Role required: sn\_wfo\_csm.employee
 
@@ -34,7 +34,7 @@ Access your profile to analyze information such as:
 
 1.  Navigate to **All** &gt; **Workspace Experience** &gt; **Workspaces** &gt; **Agent Workspace Home**.
 
-2.  Click the [[migration-lists|Lists]] icon.
+2.  Click the Lists icon.
 
 <table id="choicetable_sy3_vzm_vnb"><thead><tr><th align="left" id="d276225e134">
 
@@ -73,8 +73,3 @@ For information on creating a list, see [Administering lists for Configurable Wo
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[configurable-wfo-cs|Workforce Optimization for Customer Service]]
-- [[migration-lists|Lists]]

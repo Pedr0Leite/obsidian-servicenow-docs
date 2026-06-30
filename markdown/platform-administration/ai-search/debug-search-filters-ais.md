@@ -14,7 +14,7 @@ breadcrumb: [Administer, AI Search, Search administration, Configure core featur
 
 # Debug search source and content security filters
 
-Use the Session Log to view search source and content security filters applied to [[hs-results|results]] for a search query. Administrators can use this approach to verify search source filters and content [[ia-security-settings-il|security settings]].
+Use the Session Log to view search source and content security filters applied to results for a search query. Administrators can use this approach to verify search source filters and content security settings.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: admin
 
 ## About this task
 
-[[session-debugging-ais|Enable session debugging for AI Search]] to view debug log messages for search source and content security filters. Each debug log message shows the filters that [[ia-ai-search|AI Search]] applies to determine which records appear in a search query's results.
+Enable session debugging for AI Search to view debug log messages for search source and content security filters. Each debug log message shows the filters that AI Search applies to determine which records appear in a search query's results.
 
 ## Procedure
 
-1.  To enable session debugging for AI Search, navigate to **All** &gt; **[[sys-diag|System Diagnostics]]** &gt; **Session Debug** &gt; **Debug AI Search**.
+1.  To enable session debugging for AI Search, navigate to **All** &gt; **System Diagnostics** &gt; **Session Debug** &gt; **Debug AI Search**.
 
 2.  Navigate to **All** &gt; **System Diagnostics** &gt; **Session Debug** &gt; **Debug Log**.
 
@@ -53,10 +53,3 @@ If content security filters prevent the user from seeing search results that sho
 
 **Parent Topic:**[Administering AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/administer-ais.md)
 
-## Related
-
-- [[hs-results|Results]]
-- [[ia-security-settings-il|Security Settings]]
-- [[session-debugging-ais|Enable session debugging for AI Search]]
-- [[ia-ai-search|AI Search]]
-- [[sys-diag|System Diagnostics]]

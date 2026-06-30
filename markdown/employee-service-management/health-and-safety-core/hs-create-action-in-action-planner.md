@@ -14,7 +14,7 @@ breadcrumb: [Manage actions in Action planner, Use, Health and Safety Core, Heal
 
 # Create and manage a safety action in the Action planner
 
-Create and manage safety actions in context while reviewing a [[health-safety-overview|Health and Safety]] record, without opening a separate Action form.
+Create and manage safety actions in context while reviewing a Health and Safety record, without opening a separate Action form.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ With Action planner, you can manage actions in context while reviewing a Health 
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Health and Safety Workspace**.
 
 2.  Open a safety record such as a safety incident or a risk assessment.
 
@@ -92,12 +92,7 @@ The inline **Edit action** form opens with the current fields pre-filled.
 
 ## What to do next
 
-If the [[now-assist-hs-landing|Now Assist for Health and Safety]] application \(sn\_hs\_gen\_ai\) is installed, you can also view and act on AI-generated action suggestions in the action planner. For more information, see [Generate and manage AI‑suggested safety actions in Action planner](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/now-assist-hs-generate-ai-suggested-actions-in-action-planner.md).
+If the Now Assist for Health and Safety application \(sn\_hs\_gen\_ai\) is installed, you can also view and act on AI-generated action suggestions in the action planner. For more information, see [Generate and manage AI‑suggested safety actions in Action planner](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/now-assist-hs-generate-ai-suggested-actions-in-action-planner.md).
 
 **Parent Topic:**[Managing safety actions in the Action planner](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/hs-action-planner.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[now-assist-hs-landing|Now Assist for Health and Safety]]

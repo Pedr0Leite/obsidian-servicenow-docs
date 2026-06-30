@@ -22,7 +22,7 @@ Role required: wm\_ext\_agent and wm\_ext\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Field Service [[field-service-contractor-portal|Contractor Portal]]** &gt; **My Lists** &gt; **My Tasks**.
+1.  Navigate to **All** &gt; **Field Service Contractor Portal** &gt; **My Lists** &gt; **My Tasks**.
 
 2.  Open a work order task.
 
@@ -41,6 +41,3 @@ Role required: wm\_ext\_agent and wm\_ext\_manager
 
 The asset you used is successfully recorded in the agent personal stockroom.
 
-## Related
-
-- [[field-service-contractor-portal|Contractor Portal]]

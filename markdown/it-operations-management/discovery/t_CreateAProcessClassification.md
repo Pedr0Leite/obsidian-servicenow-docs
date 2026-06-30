@@ -14,7 +14,7 @@ breadcrumb: [Discovery classifiers, Configuring Discovery, Discovery, ITOM Visib
 
 # Create a Discovery process classification
 
-A process classification allows [[r-discovery|Discovery]] to create a particular CI type from information gathered during the identification and exploration phases.
+A process classification allows Discovery to create a particular CI type from information gathered during the identification and exploration phases.
 
 ## Before you begin
 
@@ -117,7 +117,7 @@ On classification script
 
 </td><td>
 
-Enter a script to run when the condition and classification criteria are met. Use this script to perform any special tasks after a device is classified. It is possible to use the `g_probe_parameters` hashmap from within a classification script to [[t_SetProbeParameters|set probe parameters]] for any configured, triggered probes. For example, this code sets a `'node_port'` parameter to 16001 for all triggered probes.`g_probe_parameters['node_port'] = 16001;`
+Enter a script to run when the condition and classification criteria are met. Use this script to perform any special tasks after a device is classified. It is possible to use the `g_probe_parameters` hashmap from within a classification script to set probe parameters for any configured, triggered probes. For example, this code sets a `'node_port'` parameter to 16001 for all triggered probes.`g_probe_parameters['node_port'] = 16001;`
 
  See [On classification script objects for Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_OnClassificationScriptObjects.md) for more examples and for a list of the objects you can use in this kind of script.
 
@@ -127,7 +127,7 @@ Triggers probes
 
 </td><td>
 
-Select the exploration probes you want Discovery to launch. These probes gather detailed information about a classified CI. Discovery will not launch these probes when it is configured to stop after classification. If you want to use patterns for horizontal discovery, add the [Horizontal Pattern](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r-HorizontalPatternProbe.md) probe in the **Probe** column, and then specify your pattern in the **Pattern** column. **Warning:** Do not specify your pattern in the **Probe** column. You must choose the [[r-HorizontalPatternProbe|Horizontal Pattern probe]] which launches the specified pattern.
+Select the exploration probes you want Discovery to launch. These probes gather detailed information about a classified CI. Discovery will not launch these probes when it is configured to stop after classification. If you want to use patterns for horizontal discovery, add the [Horizontal Pattern](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r-HorizontalPatternProbe.md) probe in the **Probe** column, and then specify your pattern in the **Pattern** column. **Warning:** Do not specify your pattern in the **Probe** column. You must choose the Horizontal Pattern probe which launches the specified pattern.
 
 </td></tr><tr><td>
 
@@ -177,8 +177,3 @@ Use this related list to view previous versions of the process classification re
 
 Run a discovery through the [Discovery Schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_CreateADiscoverySchedule.md) to search for applications. You can also [create or modify process handlers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_CreateAProcessHandler.md) that prevent the creation of duplicate CIs based on process classifiers if that is an issue for your environment.
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[t_SetProbeParameters|Set probe parameters]]
-- [[r-HorizontalPatternProbe|Horizontal Pattern probe]]

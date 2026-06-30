@@ -14,7 +14,7 @@ breadcrumb: [Explore, Virtual Agent, Conversational Interfaces]
 
 # LLM topic discovery in Virtual Agent
 
-Large language models \(LLMs\) enable [[virtual-agent-landing-page|Virtual Agent]] to process user statements in plain language. Conversations that use LLMs can outperform those conversations that use Natural Language Understanding \(NLU\), with easier setup.
+Large language models \(LLMs\) enable Virtual Agent to process user statements in plain language. Conversations that use LLMs can outperform those conversations that use Natural Language Understanding \(NLU\), with easier setup.
 
 ## How LLMs work in Virtual Agent
 
@@ -22,7 +22,7 @@ Watch this video to learn about LLM topics in Virtual Agent Designer.
 
 \[Omitted video\] Description: Virtual Agent Designer LLM topic authoring video
 
-When you create a topic in Virtual Agent Designer, you can select LLM as the model type for your topic whenever [[now-assist-in-va-landing|Now Assist in Virtual Agent]] is turned on. Virtual Agent then uses LLM generative AI to discover topics that match the user's intent.
+When you create a topic in Virtual Agent Designer, you can select LLM as the model type for your topic whenever Now Assist in Virtual Agent is turned on. Virtual Agent then uses LLM generative AI to discover topics that match the user's intent.
 
 Unlike NLU topics, LLMs don't require models, intents, or keywords to be linked to the topic. LLMs can discover topics and perform language-related tasks, such as text generation for case summaries and resolution notes, without months of training on NLU models. Overall, you can create, configure, and deploy LLM topics faster than working with NLU.
 
@@ -43,7 +43,7 @@ For example, if a user asks Virtual Agent to calculate a ride share fee, the LLM
 
 ## Entity extraction
 
-With LLM topics, the LLM has all the information needed to determine if an utterance has the information to fulfill a request. Unlike NLU models, you don't need to associate entities with a user input node or [[add-nodeless-entities-input-vars|add nodeless NLU entities as input variables to a topic]]. The LLM simply finds the entity that most closely fits the user intent.
+With LLM topics, the LLM has all the information needed to determine if an utterance has the information to fulfill a request. Unlike NLU models, you don't need to associate entities with a user input node or add nodeless NLU entities as input variables to a topic. The LLM simply finds the entity that most closely fits the user intent.
 
 ## Topic switching
 
@@ -58,8 +58,3 @@ Another example is when a user might ask a casual question or engage in small ta
 -   [Now Assist in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/now-assist-in-va-landing.md)
 -   [LLM assistants](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/llm-assistants.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]
-- [[add-nodeless-entities-input-vars|Add nodeless NLU entities as input variables to a topic]]

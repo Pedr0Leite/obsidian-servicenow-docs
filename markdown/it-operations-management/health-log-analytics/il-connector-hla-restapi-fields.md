@@ -15,7 +15,7 @@ breadcrumb: [Integration configuration fields, Health Log Analytics reference, H
 
 # REST API integration configuration fields
 
-Description of the fields on the REST API integration configuration forms for [[hla-landing-page|Health Log Analytics]].
+Description of the fields on the REST API integration configuration forms for Health Log Analytics.
 
 For the REST API integration setup procedure, see [Set up a REST API integration for Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/il-connector-hla-rest-api.md).
 
@@ -39,7 +39,7 @@ Unique name of this integration. For example: My REST API integration. This fiel
 
 </td></tr><tr><td>
 
-[[mid-web-server|MID web server]]
+MID web server
 
 </td><td>
 
@@ -88,7 +88,3 @@ The port for the MID Server.This field is read-only. It is auto-populated when t
 </td></tr></tbody>
 </table>**Parent Topic:**[Integration configuration fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]
-- [[mid-web-server|MID Web Server]]

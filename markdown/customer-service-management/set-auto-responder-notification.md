@@ -12,13 +12,13 @@ breadcrumb: [Use Auto-Responder for case deflection, Customer communication, Use
 
 # Set Auto-Responder notification preferences
 
-[[manage-subscriptions|Set notification preferences]] for receiving Auto-Responder recommendations on customer service cases you submitted or for which you are on the watchlist.
+Set notification preferences for receiving Auto-Responder recommendations on customer service cases you submitted or for which you are on the watchlist.
 
 ## Before you begin
 
 Role required: snc\_external role or watchlist users associated with the customer service case
 
-Ensure that an administrator has configured the Auto-Responder feature. For more information, see [[config-auto-responder|Configure Auto-Responder notifications]].
+Ensure that an administrator has configured the Auto-Responder feature. For more information, see [Configure Auto-Responder notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-auto-responder.md).
 
 ## Procedure
 
@@ -26,12 +26,8 @@ Ensure that an administrator has configured the Auto-Responder feature. For more
 
 2.  Click your username or photo in the portal header, and then click **Profile**.
 
-3.  On the [[gamification-ui-user-profile|User Profile page]], scroll down to the Actions section, and click **Notification Preferences**.
+3.  On the User Profile page, scroll down to the Actions section, and click **Notification Preferences**.
 
 4.  On the Notification Preference window, select or clear the **Case auto-responder recommendations** check box to turn the Auto-Responder notifications on or off for you.
 
-## Related
 
-- [[config-auto-responder|Configure Auto-Responder notifications]]
-- [[manage-subscriptions|Set notification preferences]]
-- [[gamification-ui-user-profile|User profile page]]

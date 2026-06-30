@@ -23,7 +23,7 @@ The ADAM schema needs to be extended to support ADAMSync.
 1.  Run the following command from c:\\windows\\adam to import the ADAMSync schema extensions. You may have to change the server:port and add credentials if the current user doesn't have access. See the AdamSyncMetadata.ldf file for details.
 
     ```
-    ldifde -i -f MS-AdamSyncMetadata.LDF -s localhost:50000 -j . -c "cn=[[sc-configuration|Configuration]],dc=X" #configurationNamingContext
+    ldifde -i -f MS-AdamSyncMetadata.LDF -s localhost:50000 -j . -c "cn=Configuration,dc=X" #configurationNamingContext
     ```
 
 2.  Do the same with MS-AdamSchemaW2k3.ldf to support Windows 2003 attributes.
@@ -54,6 +54,3 @@ Here are some additional schema changes we recommend.
     -   userPrincipalName
 5.  Restart the ADAM Service to enable the new settings.
 
-## Related
-
-- [[sc-configuration|Configuration]]

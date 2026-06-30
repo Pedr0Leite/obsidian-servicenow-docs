@@ -21,8 +21,5 @@ When a task is auto-dispatched, the application matches the task with a nearby a
     If the system cannot find an appropriate agent, it displays a failure message and leaves the task in the **Pending Dispatch** state.
 
 
-**Parent Topic:**[[c_FacRequestTasks|Facilities request tasks]]
+**Parent Topic:**[Facilities request tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_FacRequestTasks.md)
 
-## Related
-
-- [[c_FacRequestTasks|Facilities request tasks]]

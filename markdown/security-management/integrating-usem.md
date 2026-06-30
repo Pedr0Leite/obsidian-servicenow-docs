@@ -18,7 +18,7 @@ Unified Security Exposure Management supports multiple third-party integrations 
 
 Integrations work in the following way:
 
-1.  Vulnerability entries are imported from the National Vulnerability Database \(NVD\), [[cvd-overview|Central Vulnerability Database]] and third-party scanners.
+1.  Vulnerability entries are imported from the National Vulnerability Database \(NVD\), Central Vulnerability Database and third-party scanners.
 2.  Detection data from third-party scanners are matched against assets in your Configuration Management Database \(CMDB\).
 3.  When a match is found, a finding is created.
 4.  The findings are then:
@@ -54,7 +54,7 @@ Built by
 
 </th></tr></thead><tbody><tr><td colspan="6">
 
-Import [[vulnerabilities|vulnerabilities]] and create vulnerable items
+Import vulnerabilities and create vulnerable items
 
 </td></tr><tr><td>
 
@@ -66,7 +66,7 @@ Tenable
 
 </td><td>
 
-[[vuln-landing-page|Vulnerability Response]]
+Vulnerability Response
 
 </td><td>
 
@@ -388,7 +388,7 @@ Vulnerability Response
 
 </td><td>
 
-Import [[threat-intelligence-infrastructure|infrastructure]] vulnerabilities from your cloud asset sources. Supports vulnerability calculator and filtering by severity.
+Import infrastructure vulnerabilities from your cloud asset sources. Supports vulnerability calculator and filtering by severity.
 
 </td><td>
 
@@ -460,7 +460,7 @@ Vulnerability Response
 
 </td><td>
 
-[[integrating-threat-intelligence-security-center|Integrate]] IBM Guardium database vulnerability scan results with ServiceNow.
+Integrate IBM Guardium database vulnerability scan results with ServiceNow.
 
 </td><td>
 
@@ -610,7 +610,7 @@ Palo Alto
 
 </td><td>
 
-[[cvr-landing|Container Vulnerability Response]]
+Container Vulnerability Response
 
 </td><td>
 
@@ -1062,7 +1062,7 @@ Vulnerability Response - Intelligence
 
 </td><td>
 
-Prioritize vulnerabilities using Digital Shadows risk factors and scoring based on analyst-curated [[threat-intel-landing-page|threat intelligence]].
+Prioritize vulnerabilities using Digital Shadows risk factors and scoring based on analyst-curated threat intelligence.
 
 </td><td>
 
@@ -1188,7 +1188,7 @@ Vulnerability Response - Intelligence
 
 </td><td>
 
-Ingest vulnerabilities from scanning [[tools|tools]], provide Zafran enrichment and then link to vulnerable items in Vulnerability Response.
+Ingest vulnerabilities from scanning tools, provide Zafran enrichment and then link to vulnerable items in Vulnerability Response.
 
  Intelligence includes mitigation factors, internet-facing, and custom risk score.
 
@@ -1290,7 +1290,7 @@ Qualys
 
 </td><td>
 
-[[vr-config-compliance-landing|Configuration Compliance]]
+Configuration Compliance
 
 </td><td>
 
@@ -1634,7 +1634,7 @@ Veracode
 
 </td><td>
 
-[[avr-landing|Application Vulnerability Response]]
+Application Vulnerability Response
 
 </td><td>
 
@@ -2167,7 +2167,7 @@ During integration execution, multiple processes are generated, and data is rece
 -   **sn\_sec\_cmn.record\_threshold\_heartbeat**: Defines the number of processed records, after which the heartbeat \(timestamp\) is sent to the import queue entry.
 -   **sn\_sec\_cmn.maximum\_heartbeat\_delay**: Defines the time after which the import queue entry must be timed out.
 
--   **[[review-usem-integrations|Review Unified Security Exposure Management integrations]]**  
+-   **[Review Unified Security Exposure Management integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/review-usem-integrations.md)**  
 The integration dashboard provides an overview of the installed third-party applications and the status of the integration runs.
 
 **Related topics**  
@@ -2175,16 +2175,3 @@ The integration dashboard provides an overview of the installed third-party appl
 
 [Review Unified Security Exposure Management integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/review-usem-integrations.md)
 
-## Related
-
-- [[review-usem-integrations|Review Unified Security Exposure Management integrations]]
-- [[cvd-overview|Central Vulnerability Database]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[threat-intelligence-infrastructure|Infrastructure]]
-- [[integrating-threat-intelligence-security-center|Integrate]]
-- [[cvr-landing|Container Vulnerability Response]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[tools|Tools]]
-- [[vr-config-compliance-landing|Configuration Compliance]]
-- [[avr-landing|Application Vulnerability Response]]

@@ -14,7 +14,7 @@ breadcrumb: [Managing enterprise models and assets, Enterprise Asset Management,
 
 # Onboarding multiple enterprise assets in the Enterprise Asset Workspace
 
-Onboard multiple enterprise assets at one go by creating onboarding orders in the [[asset-operations-view|Asset operations view]].
+Onboard multiple enterprise assets at one go by creating onboarding orders in the Asset operations view.
 
 As an enterprise asset technician, you should perform the following actions to initiate the onboarding of enterprise assets:
 
@@ -28,9 +28,5 @@ Create an onboarding order in the Asset operations view to initiate the onboardi
 -   **[Add details of the enterprise assets to an onboarding order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/add-eam-assets-onboard-order.md)**  
 Specify the details of the enterprise assets that you want to onboard through an onboarding order.
 
-**Parent Topic:**[[it-asset-management|IT Asset Management]]
+**Parent Topic:**[IT Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/it-asset-management.md)
 
-## Related
-
-- [[it-asset-management|IT Asset Management]]
-- [[asset-operations-view|Asset operations view]]

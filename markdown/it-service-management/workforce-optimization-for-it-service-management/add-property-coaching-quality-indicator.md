@@ -14,7 +14,7 @@ breadcrumb: [Setting up, Coaching, Workforce Optimization for ITSM, IT Service M
 
 # Configure an indicator to display in the Coaching Overview tab in Workforce Optimization for ITSM
 
-Add a system property to display the desired indicator in the [[cf-coaching-landing|Coaching]] Overview tab in the Coaching application.
+Add a system property to display the desired indicator in the Coaching Overview tab in the Coaching application.
 
 ## Before you begin
 
@@ -91,14 +91,10 @@ sn\_coaching.coach
 </td></tr></tbody>
 </table>4.  Click **Submit**.
 
-    The configured indicator replaces the existing indicator in the Overview tab in the Coaching application in [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]].
+    The configured indicator replaces the existing indicator in the Overview tab in the Coaching application in Workforce Optimization for ITSM.
 
     The image below show an example of the configured indicator displayed in the Coaching Overview tab.\[Omitted image "coaching-quality-indicator-uib.png"\] Alt text: Coaching quality indicator
 
 
 **Parent Topic:**[Setting up Coaching in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/setup-coaching-configurable-workforce-optimization-itsm.md)
 
-## Related
-
-- [[cf-coaching-landing|Coaching]]
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]

@@ -14,11 +14,11 @@ breadcrumb: [Configure, Operational Technology Knowledge Management, Operational
 
 # Assigning knowledge workflows to an OT knowledge base
 
-You can assign different Knowledge Management workflows to each [[operational-technology-overview|Operational Technology]] \(OT\) knowledge base for the publishing and retiring processes.
+You can assign different Knowledge Management workflows to each Operational Technology \(OT\) knowledge base for the publishing and retiring processes.
 
 ## Knowledge workflow overview
 
-You can use the default Knowledge Management workflows in the following table for [[operational-technology-knowledge-management-landing-page|Operational Technology Knowledge Management]] and apply them to OT knowledge bases.
+You can use the default Knowledge Management workflows in the following table for Operational Technology Knowledge Management and apply them to OT knowledge bases.
 
 **Note:** For the workflows that require approval, you can configure which users can approve or reject by editing the `getApprovers()` function in the `KBWorkflow` script include.
 
@@ -100,7 +100,3 @@ To send email notifications for approval workflows, enable the **Send notificati
 
 **Parent Topic:**[Configuring Operational Technology Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-knowledge-management/configuring-operational-technology-knowledge-management.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[operational-technology-knowledge-management-landing-page|Operational Technology Knowledge Management]]

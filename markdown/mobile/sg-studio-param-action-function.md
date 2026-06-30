@@ -24,17 +24,17 @@ The UI parameter fields don’t appear on the action function unless you’ve as
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select **Functions** in the menu, and then select **New**.
 
-    Complete the action function fields as needed. For more information on completing the fields for the action function, see [[sg-studio-config-action-function|Configure an action function]].
+    Complete the action function fields as needed. For more information on completing the fields for the action function, see [Configure an action function](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-studio-config-action-function.md).
 
 4.  Scroll down to the UI Parameters section of the form, select **New**, and complete the fields as needed.
 
@@ -160,7 +160,7 @@ Provides a search bar so that users can search in a list. Select a reference fie
 
     -   **QR/Barcode**
 
-Provides the option to search by QRC or barcode. Learn more about this feature in [[sg-mobile-scanning|Mobile barcode scanning]].
+Provides the option to search by QRC or barcode. Learn more about this feature in [Mobile barcode scanning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-scanning.md).
 
 -   **Auto fill options**
     -   **GPS Location**
@@ -185,7 +185,7 @@ Auto-fills with the mobile user's user record.
 
     -   **Append encoded query**
 
-Used to connect a [[chart-screen|chart screen]] to a list or [[form-screen|record screen]].
+Used to connect a chart screen to a list or record screen.
 
 </td></tr><tr><td>
 
@@ -227,14 +227,5 @@ The field used from the source field table.
 
 ## What to do next
 
-Associate the function with a specific screen. For more information on how to associate the action, see [[sg-studio-button-instances|Associate a function with a location in the app]].
+Associate the function with a specific screen. For more information on how to associate the action, see [Associate a function with a location in the app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-studio-button-instances.md).
 
-## Related
-
-- [[sg-studio-config-action-function|Configure an action function]]
-- [[sg-mobile-scanning|Mobile barcode scanning]]
-- [[sg-studio-button-instances|Associate a function with a location in the app]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]
-- [[chart-screen|Chart screen]]
-- [[form-screen|Record screen]]

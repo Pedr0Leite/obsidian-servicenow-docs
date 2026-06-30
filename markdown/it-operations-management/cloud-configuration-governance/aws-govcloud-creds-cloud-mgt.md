@@ -14,7 +14,7 @@ breadcrumb: [Day 1 setup guide for Amazon Web Services on Cloud Provisioning and
 
 # Create AWS GovCloud credentials for Cloud Provisioning and Governance
 
-Skip this procedure if your organization does not use AWS GovCloud \(US\). To securely access data on your provider account, the [[r-discovery|Discovery]] process must present appropriate credentials. An AWS GovCloud \(US\) region is an isolated AWS region that meets stringent US government security and compliance requirements to host sensitive workloads. [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] supports all AWS GovCloud \(US\) services.
+Skip this procedure if your organization does not use AWS GovCloud \(US\). To securely access data on your provider account, the Discovery process must present appropriate credentials. An AWS GovCloud \(US\) region is an isolated AWS region that meets stringent US government security and compliance requirements to host sensitive workloads. Cloud Provisioning and Governance supports all AWS GovCloud \(US\) services.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ Role required: sn\_cmp.cloud\_admin
 
 ## About this task
 
-Cloud Provisioning and Governance accesses GovCloud regions using a set of credentials for each region. To configure Cloud Provisioning and Governance to support a GovCloud region, you create one standard AWS account for each region \(required for billing\), obtain the credentials for the account, and then [[create-service-account|create a service account]] for the region. For more information on billing, see the "AWS GovCloud \(US\) Billing and Payment" page in the [AWS documentation](https://aws.amazon.com/documentation/).
+Cloud Provisioning and Governance accesses GovCloud regions using a set of credentials for each region. To configure Cloud Provisioning and Governance to support a GovCloud region, you create one standard AWS account for each region \(required for billing\), obtain the credentials for the account, and then create a service account for the region. For more information on billing, see the "AWS GovCloud \(US\) Billing and Payment" page in the [AWS documentation](https://aws.amazon.com/documentation/).
 
 ## Procedure
 
@@ -76,7 +76,7 @@ Attach one or more policies …
 
 </td><td>
 
-Select the appropriate policy. **Note:** The **AdministratorAccess** policy has the most powerful permission level, including permission to provision cloud resources. The policy enables the same access that would be granted to the instance if you were not using IAM and used your AWS account Access Key ID and Secret Access Key. You might instead prefer to create a policy or combine multiple policies to grant the appropriate permission level. See [[aws-create-user-policy-cloud-mgt|Control AWS access and permissions using policies]] for details.
+Select the appropriate policy. **Note:** The **AdministratorAccess** policy has the most powerful permission level, including permission to provision cloud resources. The policy enables the same access that would be granted to the instance if you were not using IAM and used your AWS account Access Key ID and Secret Access Key. You might instead prefer to create a policy or combine multiple policies to grant the appropriate permission level. See [Control AWS access and permissions using policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/aws-create-user-policy-cloud-mgt.md) for details.
 
 </td></tr></tbody>
 </table>6.  On the Review page, verify your selections and then click **Create user**.
@@ -136,9 +136,4 @@ The **Secret access key** that you generated on the AWS Management Console, such
 
     The instance records the credentials. Next, you [Create a service account for AWS GovCloud]().
 
-## Related
 
-- [[aws-create-user-policy-cloud-mgt|Control AWS access and permissions using policies]]
-- [[r-discovery|Discovery]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[create-service-account|Create a service account]]

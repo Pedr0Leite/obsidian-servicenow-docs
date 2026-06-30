@@ -14,7 +14,7 @@ breadcrumb: [Autocad import tool, Manage CAD source files, Indoor Mapping, Workp
 
 # Configure CAD objects using the CAD Editor tab
 
-Edit and manage CAD objects using the [[autocad-editor|CAD Editor tab]]. Draw polylines or polygons, add text or mtext, edit text, place or block attributes.
+Edit and manage CAD objects using the CAD Editor tab. Draw polylines or polygons, add text or mtext, edit text, place or block attributes.
 
 The CAD Editor shows a preview of the CAD layers, places, blocks, elements, geometries, and shape. It retains the original style and color of your source CAD file. Add, remove, or update changes to your CAD file in real-time. Resolve issues like unclosed polylines, missing polygons, missing text attributes. Edit block, layer, text, and place type attributes.
 
@@ -37,6 +37,3 @@ The CAD Editor tab provides editing and drawing tools to configure, optimize, an
 
 **Next topic:**[Isolate a layer in the CAD editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/isolate-layer.md)
 
-## Related
-
-- [[autocad-editor|CAD Editor tab]]

@@ -14,7 +14,7 @@ breadcrumb: [Managing incidents and tasks using My Work applet, ITSM Mobile Agen
 
 # View upcoming shifts with On-Call Scheduling
 
-Use the My work feature in the [[itsm-mobile-agent|ITSM Mobile Agent]] app to view your upcoming shifts and request time off.
+Use the My work feature in the ITSM Mobile Agent app to view your upcoming shifts and request time off.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: itil, sn\_incident\_write
 
 ## About this task
 
-Use the [[c_OnCallScheduling|On-Call Scheduling]] applet to view your upcoming shifts and request time off. You can also view the members of your available on-call group.
+Use the On-Call Scheduling applet to view your upcoming shifts and request time off. You can also view the members of your available on-call group.
 
 ## Procedure
 
@@ -53,7 +53,3 @@ Use the [[c_OnCallScheduling|On-Call Scheduling]] applet to view your upcoming s
     -   Proposed coverage
     -   Notes
 
-## Related
-
-- [[itsm-mobile-agent|ITSM Mobile Agent]]
-- [[c_OnCallScheduling|On-Call Scheduling]]

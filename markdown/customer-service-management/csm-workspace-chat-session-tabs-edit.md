@@ -20,7 +20,7 @@ Role required: virtual\_agent\_admin
 
 ## About this task
 
-The Session Tabs Settings section of the Agent Chat settings screen [[migration-lists|lists]] the workspaces that have configured SLA threshold levels. Under the Configured workspaces heading, you can see a list of the configured workspaces and the SLA threshold levels that have been configured for each workspace.
+The Session Tabs Settings section of the Agent Chat settings screen lists the workspaces that have configured SLA threshold levels. Under the Configured workspaces heading, you can see a list of the configured workspaces and the SLA threshold levels that have been configured for each workspace.
 
 From this section, you can do the following:
 
@@ -63,6 +63,4 @@ From this section, you can do the following:
 
         The workspace is removed from the Configured workspaces list in the Session Tab Settings section.
 
-## Related
 
-- [[migration-lists|Lists]]

@@ -14,7 +14,7 @@ breadcrumb: [Configurable task filters, Setup task management, Configuring Emplo
 
 # Configure filter conditions
 
-With these conditions, you enable employees to easily filter, [[discover-lxp|discover]], and fulfill the tasks in a few clicks.
+With these conditions, you enable employees to easily filter, discover, and fulfill the tasks in a few clicks.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_hr\_sp.esc\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Administration** &gt; **To-dos config filter conditions**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **Administration** &gt; **To-dos config filter conditions**.
 
 2.  Click **New** or open a record.
 
@@ -42,7 +42,4 @@ Role required: sn\_hr\_sp.esc\_admin
 
     The **Condition** is created.
 
-## Related
 
-- [[discover-lxp|Discover]]
-- [[employee-center-landing-page|Employee Center]]

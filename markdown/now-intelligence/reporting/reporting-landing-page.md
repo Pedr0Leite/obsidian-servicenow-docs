@@ -14,9 +14,9 @@ breadcrumb: [Reporting, dashboards, and Performance Analytics in the Core UI, Pl
 
 # Reporting
 
-ServiceNow® Reporting enables you to create and [[c_DistributeReports|distribute reports]] that show the current state of instance data, such as the number of open incidents of each priority. Reporting functionality is available by default for all tables, except for system tables.
+ServiceNow® Reporting enables you to create and distribute reports that show the current state of instance data, such as the number of open incidents of each priority. Reporting functionality is available by default for all tables, except for system tables.
 
-**Note:** On net new Australia instances and instances migrated to [[par-workspace|Platform Analytics experience]], Reporting functionality is replaced with Data Visualizations. For more information, see [[analytics-center-data-visualizations|Data visualizations in Platform Analytics]].
+**Note:** On net new Australia instances and instances migrated to Platform Analytics experience, Reporting functionality is replaced with Data Visualizations. For more information, see [Data visualizations in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-data-visualizations.md).
 
 Core UI Reporting functionality is in maintenance mode and is no longer being augmented or changed. Only security fixes to this feature will be addressed.
 
@@ -34,7 +34,7 @@ Core UI Reporting functionality is in maintenance mode and is no longer being au
 
 </td><td>
 
-[Report types\[Omitted image "bus-chart-down-with-arrow.svg"\] Alt text:Learn about the [[report-types-creation-details-rd|report types]] and the details of how to create each specific one.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-types-creation-details-rd.md)
+[Report types\[Omitted image "bus-chart-down-with-arrow.svg"\] Alt text:Learn about the report types and the details of how to create each specific one.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-types-creation-details-rd.md)
 
 </td></tr><tr><td>
 
@@ -55,9 +55,3 @@ Core UI Reporting functionality is in maintenance mode and is no longer being au
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[analytics-center-data-visualizations|Data visualizations in Platform Analytics]]
-- [[c_DistributeReports|Distribute reports]]
-- [[par-workspace|Platform Analytics experience]]
-- [[report-types-creation-details-rd|Report types]]

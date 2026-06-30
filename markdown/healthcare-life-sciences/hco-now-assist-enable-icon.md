@@ -12,7 +12,7 @@ breadcrumb: [Configure, Now Assist for Care Team Operations, Healthcare and Life
 
 # Enable the Now Assist icon in Care Team Mobile
 
-Set up the Now Assist icon within [[care-team-mobile-landing|Care Team Mobile]] so you can leverage the **Request care team assistance** agentic workflow in Care Team Mobile.
+Set up the Now Assist icon within Care Team Mobile so you can leverage the **Request care team assistance** agentic workflow in Care Team Mobile.
 
 ## Before you begin
 
@@ -61,6 +61,3 @@ Role required: admin
 
 The Now Assist icon is accessible within Care Team Mobile. Users can select this icon to create support cases using the conversational abilities of Virtual Agent.
 
-## Related
-
-- [[care-team-mobile-landing|Care Team Mobile]]

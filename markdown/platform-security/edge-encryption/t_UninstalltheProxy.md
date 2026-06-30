@@ -14,7 +14,7 @@ breadcrumb: [Installing Edge Encryption, Edge Encryption, Encryption]
 
 # Uninstall the Edge Encryption proxy on Linux
 
-You can uninstall the [[edge-encryption|Edge Encryption]] proxy. If you are upgrading the proxy, it is not necessary to shut down and uninstall the current version.
+You can uninstall the Edge Encryption proxy. If you are upgrading the proxy, it is not necessary to shut down and uninstall the current version.
 
 ## Before you begin
 
@@ -24,9 +24,9 @@ You must have access to the computer running the Edge Encryption proxy.
 
 ## About this task
 
-Before shutting down the Edge Encryption proxy, ensure that no [[users|users]] are connected to the instance using the proxy.
+Before shutting down the Edge Encryption proxy, ensure that no users are connected to the instance using the proxy.
 
-The [[encryption-landing|encryption]] proxy running on Linux operates as a single process. You can end this process to accommodate such tasks as redeploying the encryption proxy to another host machine, updating the proxy version, updating the Java version, or changing the unique name of the encryption proxy when deploying the encryption proxy on multiple proxy servers.
+The encryption proxy running on Linux operates as a single process. You can end this process to accommodate such tasks as redeploying the encryption proxy to another host machine, updating the proxy version, updating the Java version, or changing the unique name of the encryption proxy when deploying the encryption proxy on multiple proxy servers.
 
 ## Procedure
 
@@ -41,8 +41,3 @@ The [[encryption-landing|encryption]] proxy running on Linux operates as a singl
 
 **Parent Topic:**[Installing Edge Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/c_InstallEdgeEncryptionProxy.md)
 
-## Related
-
-- [[edge-encryption|Edge Encryption]]
-- [[users|Users]]
-- [[encryption-landing|Encryption]]

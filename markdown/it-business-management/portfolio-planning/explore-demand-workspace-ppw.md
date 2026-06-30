@@ -14,7 +14,7 @@ breadcrumb: [Next Experience for Demand Management in Portfolio Planning, Portfo
 
 # Exploring Next Experience for Demand Management
 
-Next Experience for [[c_DemandManagement|Demand Management]] enables you to create, evaluate, and prioritize demands, throughout the demand life cycle.
+Next Experience for Demand Management enables you to create, evaluate, and prioritize demands, throughout the demand life cycle.
 
 ## Next Experience for Demand Management overview
 
@@ -28,7 +28,7 @@ Next Experience for Demand Management is a centralized workspace experience that
 |----|-----------|
 |Business user|Creates a demand using Service Catalog or Idea Portal.|
 |Demand user|Creates a demand using Demand Management and adds required details. Cannot edit the demand details once the demand moves to the **Submitted** state.|
-|Demand managers|Manages and prioritizes demands based on the available demand details. They can assign [[demand-task|demand tasks]] to gather more details. Demand managers are also responsible for progressing the demand through the different stages in its life cycle.|
+|Demand managers|Manages and prioritizes demands based on the available demand details. They can assign demand tasks to gather more details. Demand managers are also responsible for progressing the demand through the different stages in its life cycle.|
 |Business stakeholders|Fills out the assessments for scoring and reviews demands before they are approved.|
 |Demand approvers|Approves the demand to be converted into a work item.|
 
@@ -37,13 +37,13 @@ Next Experience for Demand Management is a centralized workspace experience that
 Next Experience for Demand Management provides benefits for demand managers and their users.
 
 -   Consistent demand intake and evaluation process: Next Experience for Demand Management enables a structured workflow. Demands progress through defined evaluation stages.
--   Centralized visibility into demand information: Next Experience for Demand Management provides a single interface to view all demands and their associated details such as business cases, capacity, and financials. Demand managers can compile a complete picture of a demand without having to cross-reference multiple [[form-field-information-for-dw|forms]], modules, or applications to compile a complete picture of a demand.
+-   Centralized visibility into demand information: Next Experience for Demand Management provides a single interface to view all demands and their associated details such as business cases, capacity, and financials. Demand managers can compile a complete picture of a demand without having to cross-reference multiple forms, modules, or applications to compile a complete picture of a demand.
 -   Playbook-guided demand life-cycle: Playbooks define the sequence of stages and activities that demands must go through such as creation, planning, assessment, and approval. Each stage contains a set of prescribed activities that must be completed before demands transition to the next stage. Using playbooks, your organization can define its own processes.
 -   Consolidated data for demand prioritization: Next Experience for Demand Management provides demand details, capacity and risk assessment outputs, and financial summaries in a unified view. Demand managers can compare, rank, and prioritize demands based on defined organizational criteria.
 
 ## What to explore next
 
-To learn more about configuring and [[use-demands-dmnd-wpc|using Next Experience for Demand Management]], see:
+To learn more about configuring and using Next Experience for Demand Management, see:
 
 -   [Configuring Next Experience for Demand Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/configuring-demand-workspace-ppw.md)
 -   [Managing demands in Next Experience for Demand Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/managing-demands-ppw.md)
@@ -51,9 +51,3 @@ To learn more about configuring and [[use-demands-dmnd-wpc|using Next Experience
 -   [Docs for demands in Next Experience for Demand Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/docs-for-demands-ppw.md)
 -   [Next Experience for Demand Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/demand-workspace-reference-ppw.md)
 
-## Related
-
-- [[c_DemandManagement|Demand Management]]
-- [[demand-task|Demand tasks]]
-- [[form-field-information-for-dw|Forms]]
-- [[use-demands-dmnd-wpc|Using Next Experience for Demand Management]]

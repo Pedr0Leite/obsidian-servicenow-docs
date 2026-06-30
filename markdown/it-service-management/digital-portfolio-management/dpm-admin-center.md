@@ -14,7 +14,7 @@ breadcrumb: [Configure, Digital Portfolio Management, IT Service Management]
 
 # Use the Admin Center in Digital Portfolio Management
 
-The Admin Center in [[dpm-landing|Digital Portfolio Management]] \(DPM\) provides administrators a guided walk-through to set up and configure the DPM Workspace for the organization. The provided information and configuration prompts enable visibility into the end-to-end service and application life-cycle.
+The Admin Center in Digital Portfolio Management \(DPM\) provides administrators a guided walk-through to set up and configure the DPM Workspace for the organization. The provided information and configuration prompts enable visibility into the end-to-end service and application life-cycle.
 
 With a DPM admin role \[sn\_dpm.dpm\_admin\], access the DPM Admin Center to set up and configure the DPM experience for the organization. The Admin Center provides easy to follow setup steps and includes tooltips and links to resources, plugins, and configuration tables.
 
@@ -30,7 +30,7 @@ To access the DPM Admin Center, you must have the DPM Admin role \[sn\_dpm.dpm\_
 
 Navigate to **All** &gt; **Digital Portfolio Management** &gt; **DPM Admin Center**.
 
-The Admin Center has two tabs: **Overview** and **[[settings-mobile|Settings]]**.
+The Admin Center has two tabs: **Overview** and **Settings**.
 
 ## Overview tab
 
@@ -38,7 +38,7 @@ The Admin Center has two tabs: **Overview** and **[[settings-mobile|Settings]]**
 
 The **Overview** tab enables you to do the following:
 
--   Follow the guided setup to configure services with offerings, business [[dex-workspace-application-tab|applications]], and service instances.
+-   Follow the guided setup to configure services with offerings, business applications, and service instances.
 -   Configure key performance indicator \(KPI\) groups.
 -   Explore the settings.
 -   Create and review service portfolios.
@@ -107,8 +107,3 @@ In the DPM Admin Center, you can see a comprehensive view of your business appli
 
 **Parent Topic:**[Configuring Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-configure-cfw.md)
 
-## Related
-
-- [[dpm-landing|Digital Portfolio Management]]
-- [[settings-mobile|Settings]]
-- [[dex-workspace-application-tab|Applications]]

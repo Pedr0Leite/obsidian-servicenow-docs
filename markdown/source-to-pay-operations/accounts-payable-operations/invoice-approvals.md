@@ -15,7 +15,7 @@ breadcrumb: [Using Accounts Payable Invoice Processing, Use, Accounts Payable Op
 
 # Invoice approvals
 
-Invoice approvals in [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] route [[invoices|invoices]] with no exceptions to approvers based on configured approval rules and track invoices through pending approval and approved states.
+Invoice approvals in Accounts Payable Operations route invoices with no exceptions to approvers based on configured approval rules and track invoices through pending approval and approved states.
 
 The approval engine picks all the invoices with the No exception found status and based on the configured approval rules, creates the approval requests and assigns them to the approvers. At this stage, the status of the invoices changes to Pending approval. After the approver approves the approval request, the status of the invoice changes to Approved.
 
@@ -45,7 +45,3 @@ Approve or reject invoice approval tasks assigned to you in Employee Center.
 
 [View invoice documents in the Source-to-Pay Workspace]()
 
-## Related
-
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[invoices|Invoices]]

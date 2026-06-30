@@ -14,7 +14,7 @@ breadcrumb: [Install the Edge Encryption proxy server using the interactive inst
 
 # Configure the AES 128-bit encryption key
 
-After you [[configure-cert|configure the HTTPS certificate]] through the [[edge-encryption|Edge Encryption]] proxy installer, configure the AES 128-bit encryption key to encrypt your data.
+After you configure the HTTPS certificate through the Edge Encryption proxy installer, configure the AES 128-bit encryption key to encrypt your data.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-The [[encryption-landing|encryption]] key is either a plain text file inside the `/keys` directory or a secret key inside a keystore. If you use a keystore for your AES 128-bit and AES 256-bit encryption keys, they must both use the same keystore.
+The encryption key is either a plain text file inside the `/keys` directory or a secret key inside a keystore. If you use a keystore for your AES 128-bit and AES 256-bit encryption keys, they must both use the same keystore.
 
 If you are updating an SSL certificate on an Edge proxy server, see [Update SSL certificate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/update-ssl-certificate.md).
 
@@ -115,8 +115,3 @@ Import an encryption key from a different keystore.
 
 **Next topic:**[Configure the AES 256-bit encryption key](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/configure-256-key.md)
 
-## Related
-
-- [[configure-cert|Configure the HTTPS certificate]]
-- [[edge-encryption|Edge Encryption]]
-- [[encryption-landing|Encryption]]

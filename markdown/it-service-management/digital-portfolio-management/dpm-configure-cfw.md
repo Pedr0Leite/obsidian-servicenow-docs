@@ -14,7 +14,7 @@ breadcrumb: [Digital Portfolio Management, IT Service Management]
 
 # Configuring Digital Portfolio Management
 
-Enable the [[dpm-landing|Digital Portfolio Management]] \(DPM\) Workspace and configure the [[settings-mobile|settings]] for your organization. Set it up to show data so you can monitor services, service offerings, business [[dex-workspace-application-tab|applications]], and service instances. All configuration tasks require the DPM admin role \[sn\_dpm.dpm\_admin\].
+Enable the Digital Portfolio Management \(DPM\) Workspace and configure the settings for your organization. Set it up to show data so you can monitor services, service offerings, business applications, and service instances. All configuration tasks require the DPM admin role \[sn\_dpm.dpm\_admin\].
 
 ## Using guided setup to implement Digital Portfolio Management \(DPM\)
 
@@ -22,7 +22,7 @@ Guided setup provides a sequence of tasks that help you configure the DPM Worksp
 
 For more information, see [Use the Admin Center in Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-admin-center.md).
 
-**Note:** The DPM Workspace uses the taxonomy structures from the [[SPM2-landing-page|Service Portfolio Management]] application. For more information, see [Service Portfolio Management taxonomy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-taxonomy.md).
+**Note:** The DPM Workspace uses the taxonomy structures from the Service Portfolio Management application. For more information, see [Service Portfolio Management taxonomy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-taxonomy.md).
 
 ## Configuration overview
 
@@ -37,7 +37,7 @@ Configuring the DPM Workspace involves setting up environments, tools, and user 
     Use the DPM Admin Center for a guided walk-through to do the following configuration tasks.
 
     1.  Identify the solutions that are ready to configure for the organization. Solutions could be services, service offerings, business applications, and service instances.
-    2.  Identify the service portfolios or the [[dpm-enterprise-portfolios|enterprise portfolios]] that are ready to configure for the organization.
+    2.  Identify the service portfolios or the enterprise portfolios that are ready to configure for the organization.
     3.  Assess planning items for the plan portion of the solution life cycle. If your organization doesn’t use the planning portion of the life cycle, then follow the prompts to remove the plan view for the organization.
     4.  Assess build metrics to show a solution's performance in the build portion of the solution life cycle.
     5.  Map key performance indicator \(KPI\) groups to track the performance of the solutions.
@@ -77,10 +77,3 @@ Create Process Mining projects for each key performance indicator \(KPI\) group 
 
 [Use the Admin Center in Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-admin-center.md)
 
-## Related
-
-- [[dpm-landing|Digital Portfolio Management]]
-- [[settings-mobile|Settings]]
-- [[dex-workspace-application-tab|Applications]]
-- [[SPM2-landing-page|Service Portfolio Management]]
-- [[dpm-enterprise-portfolios|Enterprise portfolios]]

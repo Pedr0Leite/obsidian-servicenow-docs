@@ -14,7 +14,7 @@ breadcrumb: [Manage financials for demands, Next Experience for Demand Managemen
 
 # Generate labor costs
 
-[[generate-labor-cost-demand|Generate labor costs]] to view the expenses of resources using resource assignments and cost plans.
+Generate labor costs to view the expenses of resources using resource assignments and cost plans.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: admin
 
 3.  Select **Active**.
 
-4.  On the [[scheduled-script-execution-form-gf|Scheduled Script Execution form]], fill the fields.
+4.  On the Scheduled Script Execution form, fill the fields.
 
     For a description of the field names, see [Scheduled Script Execution Form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/scheduled-script-execution-form.md).
 
@@ -36,7 +36,4 @@ Role required: admin
 
     **Tip:** Alternatively, as an admin, you can activate and define a scheduled job to generate labor costs at the required frequency. For more information, see [Activate a scheduled job to generate labor costs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/gen-labor-costs-scheduled-job-ppm.md).
 
-## Related
 
-- [[generate-labor-cost-demand|Generate labor costs]]
-- [[scheduled-script-execution-form-gf|Scheduled Script Execution form]]

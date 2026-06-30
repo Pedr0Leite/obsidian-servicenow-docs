@@ -12,11 +12,11 @@ breadcrumb: [Transaction Manager, CPQ app, Configure, price, quote apps, Configu
 
 # Transaction Manager: Stages
 
-A stage represents a phase in an organization's selling process. This article illustrates a process with five stages that you can [[Modify|modify]] to suit your needs.
+A stage represents a phase in an organization's selling process. This article illustrates a process with five stages that you can modify to suit your needs.
 
 Stages represent phases in an organization's selling process. In this example, we demonstrate a process with five stages: Draft, Pending Approval, Approved, Contracted, and Ordered. Your implementation will add or delete stages to accommodate your selling process.
 
-\[Omitted image "cpq-txn-mgr-stages-1.jpeg"\] Alt text: [[transaction-manager|Transaction Manager]]: stages
+\[Omitted image "cpq-txn-mgr-stages-1.jpeg"\] Alt text: Transaction Manager: stages
 
 ## Ordering stages
 
@@ -38,13 +38,13 @@ For example, a transaction might transition to the **pending approval** stage, o
 
 ## Stages and rule groupings
 
-Rule groupings are associated with stages. Rule groupings are executed when the stage is transitioned to and when users update [[fields|fields]] or run events while in the stage.
+Rule groupings are associated with stages. Rule groupings are executed when the stage is transitioned to and when users update fields or run events while in the stage.
 
 ## Stages and views
 
 Stages enable the admin to assign distinct permissions \(views\) to determine how personas observe field data.
 
-For more information about defining views for stages, see [[transaction-manager-views|Transaction Manager: Views]].
+For more information about defining views for stages, see [Transaction Manager: Views](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/transaction-manager-views.md).
 
 ## Create a new stage, associate rule groups, and set entry criteria
 
@@ -62,7 +62,7 @@ When you click **Save**, you see the stage editor page. In the stage editor, you
 
 \[Omitted image "cpq-txn-mgr-stages-create-3.jpeg"\] Alt text: Transaction Manager: stages
 
-In the stage editor, in the **Entry Criteria** section, you can create the conditions that are tested before the transaction is allowed to transition into the new stage. The method is the same as the method you use to create conditions in [[rules_101|rules]]. Click **Entry Criteria** to choose the type of condition logic you want to implement.
+In the stage editor, in the **Entry Criteria** section, you can create the conditions that are tested before the transaction is allowed to transition into the new stage. The method is the same as the method you use to create conditions in rules. Click **Entry Criteria** to choose the type of condition logic you want to implement.
 
 \[Omitted image "cpq-txn-mgr-stages-create-4.jpeg"\] Alt text: Transaction Manager: stages
 
@@ -134,16 +134,7 @@ Deleting a stage is restricted because deleting a stage in use by transactions c
 **Related topics**  
 
 
-[[transaction-manager-rules-and-rule-groupings|Transaction Manager: Rules and rule groupings]]
+[Transaction Manager: Rules and rule groupings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/transaction-manager-rules-and-rule-groupings.md)
 
-[[transaction-manager-events|Transaction Manager: Events]]
+[Transaction Manager: Events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/transaction-manager-events.md)
 
-## Related
-
-- [[transaction-manager-views|transaction manager views]]
-- [[transaction-manager-rules-and-rule-groupings|transaction manager rules and rule groupings]]
-- [[transaction-manager-events|transaction manager events]]
-- [[Modify|Modify]]
-- [[transaction-manager|Transaction Manager]]
-- [[fields|Fields]]
-- [[rules_101|Rules]]

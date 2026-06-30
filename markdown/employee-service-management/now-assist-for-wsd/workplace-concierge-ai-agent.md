@@ -20,7 +20,7 @@ Use the Workplace Concierge agentic workflow to register visitors from existing 
 
 ## Workplace Concierge workflow overview
 
-[[workplace-concierge-feat|Workplace Concierge]] is an agentic workflow that operates directly from communication tools like email, calendar, and Now Assist in Virtual Agent. When you add the Workplace Concierge to a conversation, it identifies the intent to schedule a meeting, gathers and validates the necessary visit details, confirms the information with the host, and then creates the visit and visitor invitations. If any mandatory detail is absent or ambiguous, Workplace Concierge pauses and communicates with the host before proceeding.
+Workplace Concierge is an agentic workflow that operates directly from communication tools like email, calendar, and Now Assist in Virtual Agent. When you add the Workplace Concierge to a conversation, it identifies the intent to schedule a meeting, gathers and validates the necessary visit details, confirms the information with the host, and then creates the visit and visitor invitations. If any mandatory detail is absent or ambiguous, Workplace Concierge pauses and communicates with the host before proceeding.
 
 Workplace Concierge supports the following communication channels:
 
@@ -28,7 +28,7 @@ Workplace Concierge supports the following communication channels:
 -   Email thread: Workplace Concierge can be added in the CC field of the email thread
 -   Now Assist in Virtual Agent: Workplace Concierge can be invoked in the chat by entering keywords like `invite a visitor`
 
-After a visit is created, the Workplace Concierge sends invitation emails with a link to the [[visitor-portal|visitor portal]]. Workplace Concierge also monitors replies and updates the visitor records. Visitors can respond to the email or use the portal link based on their preference. Hosts can use simple commands to send reminders or cancel specific visits, and they receive progress notifications like how many visitors have completed the pre-check tasks.
+After a visit is created, the Workplace Concierge sends invitation emails with a link to the visitor portal. Workplace Concierge also monitors replies and updates the visitor records. Visitors can respond to the email or use the portal link based on their preference. Hosts can use simple commands to send reminders or cancel specific visits, and they receive progress notifications like how many visitors have completed the pre-check tasks.
 
 ## Workplace Concierge workflow
 
@@ -47,7 +47,7 @@ The following agents are used in the Workplace Concierge workflow:
 
 |AI agent Name|Description|
 |-------------|-----------|
-|Chat Visit Agent|This agent assists hosts in managing workplace visits, [[adding-visitors|adding visitors]] and checking visit requirements from Now Assist in Virtual Agent.|
+|Chat Visit Agent|This agent assists hosts in managing workplace visits, adding visitors and checking visit requirements from Now Assist in Virtual Agent.|
 |Email Visit creation agent|This agent assists hosts in managing workplace visits from emails and calendar invites.|
 |Email Visitor Intake agent|This agent collects and processes visitor information through email replies sent by visitors. The agent communicates directly with visitors via email and updates visitor records based on email responses.|
 
@@ -87,8 +87,3 @@ Add the Workplace Concierge to an email thread or a calendar invite.
 
 [AI Agent Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-agent-studio.md)
 
-## Related
-
-- [[workplace-concierge-feat|Workplace Concierge]]
-- [[visitor-portal|Visitor portal]]
-- [[adding-visitors|Adding visitors]]

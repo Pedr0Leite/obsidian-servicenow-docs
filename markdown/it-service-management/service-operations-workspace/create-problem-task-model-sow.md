@@ -14,13 +14,13 @@ breadcrumb: [Configuring Problem Management in Service Operations Workspace, Get
 
 # Create a problem task model in Service Operations Workspace
 
-Create custom [[problem-mgmt-models|Problem Management models]] with states and transitions tailored to your use cases.
+Create custom Problem Management models with states and transitions tailored to your use cases.
 
 ## Before you begin
 
 See considerations for enabling Problem Management models at [Problem Management models in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/problem-mgmt-models-sow.md).
 
-Enable the system property **com.snc.problem\_management.[[c_Models|models]].enabled**. For more information, see [Enable Problem Management models in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/enable-problem-mgmt-models-sow.md).
+Enable the system property **com.snc.problem\_management.models.enabled**. For more information, see [Enable Problem Management models in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/enable-problem-mgmt-models-sow.md).
 
 Role required: admin
 
@@ -37,7 +37,7 @@ Role required: admin
 
     1.  Select **New**.
 
-    2.  On the [[problem-task-model-form|Problem Task Model form]], fill in the fields.
+    2.  On the Problem Task Model form, fill in the fields.
 
         For more information, see [Problem task model form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/problem-task-model-form.md).
 
@@ -113,8 +113,3 @@ Role required: admin
 
 Your custom problem task model is available as a choice in Service Operations Workspace for the roles specified in your model.
 
-## Related
-
-- [[problem-mgmt-models|Problem Management models]]
-- [[c_Models|Models]]
-- [[problem-task-model-form|Problem task model form]]

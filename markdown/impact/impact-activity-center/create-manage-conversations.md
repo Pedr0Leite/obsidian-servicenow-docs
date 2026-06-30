@@ -14,17 +14,17 @@ breadcrumb: [Conversations, Activity Center, Impact reference, Impact]
 
 # Create and manage conversations
 
-Create new [[impact-conversations_store|Impact conversations]] or manage existing conversations.
+Create new Impact conversations or manage existing conversations.
 
 ## Before you begin
 
-Role required: [[impact-landing-page|impact]] user or impact executive
+Role required: impact user or impact executive
 
 ## Create a conversation
 
 ## Procedure
 
-1.  Navigate to **Impact** &gt; **[[impact-activity-center|Activity Center]]** &gt; **Conversations**.
+1.  Navigate to **Impact** &gt; **Activity Center** &gt; **Conversations**.
 
 2.  Select **Create New** &gt; **Conversation**.
 
@@ -82,7 +82,7 @@ Changes the subject of the conversation from the available subjects:-   Business
 -   Objectives
 -   General
 -   Initiatives
--   [[platform-health-idi|Platform health]]
+-   Platform health
 -   Review &amp; meetings
 
 
@@ -151,9 +151,3 @@ Manage who receives and which conversations are part of the watchlist.
 
 **Parent Topic:**[Activity Center Conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/impact-activity-center/conversations.md)
 
-## Related
-
-- [[impact-conversations_store|Impact Conversations]]
-- [[impact-landing-page|Impact]]
-- [[impact-activity-center|Activity Center]]
-- [[platform-health-idi|Platform Health]]

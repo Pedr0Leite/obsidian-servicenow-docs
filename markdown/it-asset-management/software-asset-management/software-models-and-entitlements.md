@@ -18,11 +18,11 @@ A software model is a profile of the software that you've purchased, including i
 
 ## Software models
 
-[[c_CreatingSoftwareModels|Software models]] are used to record publisher information and create a profile. You can link multiple entitlements to one software model.
+Software models are used to record publisher information and create a profile. You can link multiple entitlements to one software model.
 
-If you delete a software model, all records related to the software model, in the [[downgrade-rights|Downgrade Rights]] \[samp\_sw\_downgrade\_model and samp\_downgrade\_model\] tables, are automatically deleted. For detailed information on downgrade rights, see [Downgrade Rights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/downgrade-rights.md).
+If you delete a software model, all records related to the software model, in the Downgrade Rights \[samp\_sw\_downgrade\_model and samp\_downgrade\_model\] tables, are automatically deleted. For detailed information on downgrade rights, see [Downgrade Rights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/downgrade-rights.md).
 
-For details on manually creating software models, see [Create a software model in the Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-swmodels-workspace.md). For details on [[duplicate-sw-models|automatic creation of software models]], see [Automatic creation of software models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/duplicate-sw-models.md).
+For details on manually creating software models, see [Create a software model in the Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-swmodels-workspace.md). For details on automatic creation of software models, see [Automatic creation of software models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/duplicate-sw-models.md).
 
 ## Software entitlements
 
@@ -54,13 +54,7 @@ The step-up license type is only available if the publisher is Microsoft. If you
 -   **[Automatic creation of software models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/duplicate-sw-models.md)**  
 Software models are automatically created for software installations if one doesn't already exist.
 -   **[Custom publisher part numbers \(PPN\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/customppn-swap.md)**  
-Propagate changes to entitlements and software models by replacing your custom PPNs and custom discovery maps \(DMAPs\) with the [[c_SAMContentService|Software Asset Management Content Service]] PPNs and DMAPs.
+Propagate changes to entitlements and software models by replacing your custom PPNs and custom discovery maps \(DMAPs\) with the Software Asset Management Content Service PPNs and DMAPs.
 
 **Parent Topic:**[Exploring Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/explore-sam-workspace.md)
 
-## Related
-
-- [[c_CreatingSoftwareModels|Software models]]
-- [[downgrade-rights|Downgrade Rights]]
-- [[duplicate-sw-models|Automatic creation of software models]]
-- [[c_SAMContentService|Software Asset Management Content Service]]

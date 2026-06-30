@@ -24,13 +24,13 @@ This feature is enabled by default. To turn off this feature, you can set the **
 
 You can configure catalog items in portals like Service Portal or Employee Center to prefill forms by modifying the URL.
 
-**Note:** In portals, you can find widget instance option called **Disable URL prefill**. This [[check-box|check box]] is turned off by default. Select this option to disable URL prefill on that specific portal.
+**Note:** In portals, you can find widget instance option called **Disable URL prefill**. This check box is turned off by default. Select this option to disable URL prefill on that specific portal.
 
 To configure prefill, you can do the following actions:
 
 1.  Use a URL parameter, **sysparm\_variable\_values**, to construct the key-value pairs. In the key-value pair, key is the name of the variable and value is the value of that variable.
 
-    **Note:** The value for a [[reference|reference]] variable must be a sys\_id.
+    **Note:** The value for a reference variable must be a sys\_id.
 
 2.  Provide the value as a URL parameter of **sysparm\_variable\_values**. For example, if you want to set **Department** as “Sales” and **Business justification** as “employee onboarding”, then use the following URL.
 
@@ -42,14 +42,14 @@ To configure prefill, you can do the following actions:
 
     The following variables aren’t supported for prefill:
 
-    -   [[attachment|Attachment]]
+    -   Attachment
     -   Custom
-    -   Custom with [[label|label]]
+    -   Custom with label
     -   Non-input taking variable types such as label, container
-    -   [[masked|Masked]]
-    -   [[ui-page|UI page]]
+    -   Masked
+    -   UI page
     -   Multi-row variable set \(MRVS\)
-    The order in which these variable values are prefilled is the order in which the variables are defined on the [[catalog-item-form|catalog item form]].
+    The order in which these variable values are prefilled is the order in which the variables are defined on the catalog item form.
 
 
 ## Prefilling forms on Next Experience UIs
@@ -85,12 +85,3 @@ Once you configure this, when requesters request items, they would see the forms
 
 **Parent Topic:**[Service catalog variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_ServiceCatalogVariables.md)
 
-## Related
-
-- [[check-box|Check box]]
-- [[reference|Reference]]
-- [[attachment|Attachment]]
-- [[label|Label]]
-- [[masked|Masked]]
-- [[ui-page|UI page]]
-- [[catalog-item-form|Catalog Item form]]

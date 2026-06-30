@@ -16,15 +16,15 @@ Use the lookup function to return information from a user-managed table.
 
 CPQ uses a SQL-based query language to look up user-managed tables.
 
-The lookup function returns up to 10,000 rows from a table and times out after 30 seconds if the search is still querying. For information about uploading CSV files into managed tables, see [[cpq-matrix-loader-csv-table-upload|Matrix Loader: CSV table upload]].
+The lookup function returns up to 10,000 rows from a table and times out after 30 seconds if the search is still querying. For information about uploading CSV files into managed tables, see [Matrix Loader: CSV table upload](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-matrix-loader-csv-table-upload.md).
 
-To learn about general guidelines for using the lookup function, see [[table_queries|Minimizing table queries]].
+To learn about general guidelines for using the lookup function, see [Minimizing table queries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/table_queries.md).
 
 ## Supported commands
 
 -   SELECT selects columns from a table \(separated by “,”\)
 -   FROM selects the table that the query will take data from
--   WHERE [[cpq-sets|sets]] the conditions where the other columns will be searched from
+-   WHERE sets the conditions where the other columns will be searched from
 -   AND conjoins two WHERE conditions \(both must be true\)
 -   OR conjoins two WHERE conditions \(either can be true\)
 
@@ -38,7 +38,7 @@ var tableResults = lookup("SELECT column1, column2 FROM tableName WHERE column3 
 
 The first parameter is the SQL-based command string used to query the managed table.
 
-The second parameter is the key-value map to be inserted into the query. The values can be constants, variables, or [[fields|fields]].
+The second parameter is the key-value map to be inserted into the query. The values can be constants, variables, or fields.
 
 The tableResults variable holds the resulting array. This variable cannot be returned itself. Results must be referenced by index \(`tableResults[0], tableResults[1]...`\) and can contain any number of results, or none.
 
@@ -82,12 +82,5 @@ lookup("SELECT column1 FROM table WHERE column2 IN (:options)",{options = cfg. [
 
 [Minimizing table queries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/table_queries.md)
 
-[[cpq-indexes-and-natural-keys-for-managed-tables|Indexes and natural keys for managed tables]]
+[Indexes and natural keys for managed tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-indexes-and-natural-keys-for-managed-tables.md)
 
-## Related
-
-- [[cpq-matrix-loader-csv-table-upload|cpq matrix loader csv table upload]]
-- [[table_queries|Minimizing table queries]]
-- [[cpq-indexes-and-natural-keys-for-managed-tables|Indexes and natural keys for managed tables]]
-- [[cpq-sets|Sets]]
-- [[fields|Fields]]

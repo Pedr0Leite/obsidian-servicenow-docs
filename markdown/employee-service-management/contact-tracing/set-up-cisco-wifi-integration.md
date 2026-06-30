@@ -55,7 +55,7 @@ To specify which option to use, configure the **sn\_imt\_tracing.wifi\_log\_cisc
 
 2.  Set system properties to use the Wi-Fi access data files imported from the SFTP server into the Wi-Fi Access Register table.
 
-    1.  Navigate to **[[contact-tracing|Contact Tracing]]** &gt; **Administration** &gt; **Properties**.
+    1.  Navigate to **Contact Tracing** &gt; **Administration** &gt; **Properties**.
 
     2.  Configure the following system properties:
 
@@ -86,6 +86,3 @@ Run the diagnostic request using the Wi-Fi access logs for an employee who is cl
 
 **Parent Topic:**[Retrieving Wi-Fi access log data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/wifi-access-management.md)
 
-## Related
-
-- [[contact-tracing|Contact Tracing]]

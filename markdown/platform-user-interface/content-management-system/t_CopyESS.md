@@ -14,13 +14,13 @@ breadcrumb: [Content Management templates, Configure Content Management sites, C
 
 # Customize a copy of a page template
 
-One good source for templates is the base system sample site. It is easy to copy pages and restyle them into new [[r_PageTemplates|page templates]] to meet different business requirements.
+One good source for templates is the base system sample site. It is easy to copy pages and restyle them into new page templates to meet different business requirements.
 
 ## Before you begin
 
 Role required: content\_admin or admin
 
-The Employee Self-[[c_ServicePortal|Service portal]] is provided as a working example and design template in the following procedure.
+The Employee Self-Service portal is provided as a working example and design template in the following procedure.
 
 ## Procedure
 
@@ -49,7 +49,3 @@ The Employee Self-[[c_ServicePortal|Service portal]] is provided as a working ex
 
 **Parent Topic:**[Content Management templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_ContentManagementTemplates.md)
 
-## Related
-
-- [[r_PageTemplates|Page templates]]
-- [[c_ServicePortal|Service Portal]]

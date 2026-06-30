@@ -14,14 +14,14 @@ breadcrumb: [Microsoft Entra ID integration for new hire onboarding, Lifecyle ev
 
 # Set up the Microsoft Entra ID integration for new hire onboarding
 
-To set up the Microsoft Entra ID integration for new hire onboarding, you must first set up the Microsoft Entra ID spoke, next configure the remote directory sync to fetch the groups into your instance, and last configure the required [[business-roles|business roles]].
+To set up the Microsoft Entra ID integration for new hire onboarding, you must first set up the Microsoft Entra ID spoke, next configure the remote directory sync to fetch the groups into your instance, and last configure the required business roles.
 
 ## Before you begin
 
 This integration requires subscriptions to the following:
 
 -   [Microsoft Azure AD spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/microsoft-azure-ad-spoke.md)
--   Human Resources Scoped App: [[hr-lifecycle-events-landing-page-1|Lifecycle Events]] for Enterprise \[com.sn\_hr\_lifecycle\_ent\] plugin
+-   Human Resources Scoped App: Lifecycle Events for Enterprise \[com.sn\_hr\_lifecycle\_ent\] plugin
 
     **Note:** The lifecycle event for new hire onboarding is included as demo data with this plugin.
 
@@ -65,7 +65,3 @@ Role required: admin
 
 **Parent Topic:**[Microsoft Entra ID integration for new hire onboarding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-journey-management/azure-active-directory-integration-for-new-hire-onboarding.md)
 
-## Related
-
-- [[business-roles|Business roles]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]

@@ -49,7 +49,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -61,7 +61,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -111,7 +111,7 @@ Security risk
 
 -   Severity score: 4.8
 -   CVSS score: Medium
--   Security risk details: When **com.glide.acl\_check\_all\_filter\_on\_new** is set to `false`, then ACLs aren't checked for fields on new record creation from the filtered list view UI of a table, unless one of the other exceptions applies. In such a situation, ACLs can be bypassed by [[users|users]] without create access to fields. This allows protected fields to be set to improper values on record creation through the filtered list view UI of a table.
+-   Security risk details: When **com.glide.acl\_check\_all\_filter\_on\_new** is set to `false`, then ACLs aren't checked for fields on new record creation from the filtered list view UI of a table, unless one of the other exceptions applies. In such a situation, ACLs can be bypassed by users without create access to fields. This allows protected fields to be set to improper values on record creation through the filtered list view UI of a table.
 
 </td></tr><tr><td>
 
@@ -132,8 +132,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]
-- [[users|Users]]

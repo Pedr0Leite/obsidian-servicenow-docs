@@ -14,7 +14,7 @@ breadcrumb: [Manage the safety inspection and audit surveys through mobile app, 
 
 # Complete a safety inspection or audit survey in the offline mode
 
-Complete a safety inspection or audit survey assigned to you in the [[offline-mode|offline mode]]-without an internet connection- through the Mobile Agent app.
+Complete a safety inspection or audit survey assigned to you in the offline mode-without an internet connection- through the Mobile Agent app.
 
 ## Before you begin
 
@@ -51,6 +51,3 @@ For more information on how offline mode works in the mobile app, see [Offline m
 
 **Parent Topic:**[Manage the safety inspection and audit surveys through mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-configure-manage-safety-inspections-audits-mobile.md)
 
-## Related
-
-- [[offline-mode|Offline mode]]

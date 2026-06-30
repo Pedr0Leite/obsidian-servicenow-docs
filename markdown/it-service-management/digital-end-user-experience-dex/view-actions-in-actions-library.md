@@ -14,7 +14,7 @@ breadcrumb: [Monitor, Digital End-User Experience, IT Service Management]
 
 # View actions in the Digital End-User Experience Action Library
 
-View and use various services available for a device in the [[dex-landing|Digital End-User Experience]] Action Library.
+View and use various services available for a device in the Digital End-User Experience Action Library.
 
 ## Before you begin
 
@@ -28,13 +28,10 @@ Role required:
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **Service Operations Workspace** and select the **[[dex-workspace-devices-tab|Devices]]** icon\(\[Omitted image "icon-devices.png"\] Alt text: Devices icon\) from the primary navigation pane.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace** and select the **Devices** icon\(\[Omitted image "icon-devices.png"\] Alt text: Devices icon\) from the primary navigation pane.
 
 2.  Select a device from the list.
 
 3.  On the contextual side panel, select the Action Library icon \(\[Omitted image "icon-action-library.png"\] Alt text: Action library icon\) and view actions.
 
-## Related
 
-- [[dex-landing|Digital End-User Experience]]
-- [[dex-workspace-devices-tab|Devices]]

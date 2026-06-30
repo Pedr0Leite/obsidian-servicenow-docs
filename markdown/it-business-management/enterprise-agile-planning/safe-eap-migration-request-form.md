@@ -38,7 +38,7 @@ EAP configuration
 
 </td><td>
 
-Configuration in EAP that matches with your SAFe configuration.For example, if you're using [[portfolio-overview|Portfolio SAFe]] in your ServiceNow instance, select **Portfolio configuration**.
+Configuration in EAP that matches with your SAFe configuration.For example, if you're using Portfolio SAFe in your ServiceNow instance, select **Portfolio configuration**.
 
 </td></tr><tr><td>
 
@@ -107,6 +107,3 @@ Status of the migration request.
 
 [Migrating from SAFe to EAP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/migrating-from-safe-to-eap.md)
 
-## Related
-
-- [[portfolio-overview|Portfolio SAFe]]

@@ -14,7 +14,7 @@ breadcrumb: [Change Management plugins, Configure, Change Management, IT Service
 
 # Activate Change Management - Mass Update CI
 
-You can activate the [[c_ITILChangeManagement|Change Management]] - [[bulk-ci-change|Mass Update CI]] plugin \(com.snc.change\_management.mass\_update\_ci\) if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
+You can activate the Change Management - Mass Update CI plugin \(com.snc.change\_management.mass\_update\_ci\) if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
 
 ## Before you begin
 
@@ -49,7 +49,7 @@ Best Practice - Bulk CI Changes enables you to record a single change proposal t
 </td></tr></tbody>
 </table>## Procedure
 
-1.  Navigate to **All** &gt; **System [[dex-workspace-application-tab|Applications]]** &gt; **All Available Applications** &gt; **All**.
+1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
 2.  Find the plugin using the filter criteria and search bar.
 
@@ -114,8 +114,3 @@ Several types of components are installed with the Change Management - Mass upda
 
 [List of plugins \(Australia\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]
-- [[bulk-ci-change|Mass Update CI]]
-- [[dex-workspace-application-tab|Applications]]

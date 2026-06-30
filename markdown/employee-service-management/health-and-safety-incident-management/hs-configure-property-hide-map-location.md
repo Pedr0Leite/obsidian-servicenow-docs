@@ -14,7 +14,7 @@ breadcrumb: [Configure, Health and Safety Incident Management, Health and Safety
 
 # Configure the location search bar visibility on the map
 
-Configure the visibility of the location search bar on the map widget when reporting a [[health-safety-overview|Health and Safety]] incident or observation.
+Configure the visibility of the location search bar on the map widget when reporting a Health and Safety incident or observation.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ The location search bar on the map is used to find the exact location of the inc
 
 Use this configuration to hide the search bar for users who prefer to set a location by selecting directly on the map.
 
-To enable the map component in the [[health-safety-core-workspace|Health and Safety Workspace]] install the geomap component \[sn\_geo\_map\] plugin. For more information, see [Additional features in Health and Safety](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/install-hs-incident-mgmt.md).
+To enable the map component in the Health and Safety Workspace install the geomap component \[sn\_geo\_map\] plugin. For more information, see [Additional features in Health and Safety](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/install-hs-incident-mgmt.md).
 
 ## Procedure
 
@@ -46,7 +46,3 @@ To enable the map component in the [[health-safety-core-workspace|Health and Saf
 
 **Parent Topic:**[Setting up Health and Safety Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/setting-up-hs-incident-mgmt.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]

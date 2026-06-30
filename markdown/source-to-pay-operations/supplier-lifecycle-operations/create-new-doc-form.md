@@ -126,7 +126,7 @@ The document version that is used for document download.
 **Related topics**  
 
 
-[Create New [[supplier|Supplier]] Case form]()
+[Create New Supplier Case form]()
 
 [Create new task form]()
 
@@ -152,6 +152,3 @@ The document version that is used for document download.
 
 [Manage documents from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/upload-doc-ws.md)
 
-## Related
-
-- [[supplier|Supplier]]

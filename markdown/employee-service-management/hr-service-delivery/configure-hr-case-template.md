@@ -22,7 +22,7 @@ Role required: sn\_hr\_core.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **[[hr-service-administration|HR Services]]** &gt; **[[hr-service-configuration|HR Service Configuration]]**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **HR Services** &gt; **HR Service Configuration**.
 
 2.  Open the HR service.
 
@@ -112,9 +112,9 @@ Option to enable the use of global descriptions for translations. If selected, y
 
  Using dynamic variables in an HR task template works in:
 
--   HR tasks related to HR cases in the legacy UI or [[hr-service-delivery|HR Service Delivery]] Agent Workspace
--   [[employee-center-pro-landing|Employee Center Pro]] To-dos form
--   [[hr-lifecycle-events-landing-page-1|Lifecycle Events]] ticket form
+-   HR tasks related to HR cases in the legacy UI or HR Service Delivery Agent Workspace
+-   Employee Center Pro To-dos form
+-   Lifecycle Events ticket form
 **Note:** Because some dynamic variables might provide personal information, use the sn\_hr\_core.task\_template\_variable\_ignore system property to ensure privacy. For example, social security number \(ssn\) is excluded by default. You can add other variables to this system property to disable them but ensure they are comma separated with no spaces between each variable.
 
 </td></tr><tr><td>
@@ -125,7 +125,7 @@ Add field
 
 Fields to automatically populate on the HR case form when a request for that HR service is made. Select one or more fields from the **Add field** list and provide the desired values. For example, you can add the **State** field to set a default case state or add the **PDF Template** field to select a document for cases that require a document acknowledgement or signature.Any changes that you make to the template fields or values will take precedence over the original template values in the fields.
 
- **Note:** Select the Document Template option to associate a document template \(of [[document-templates-overview|Document Templates]] \[com.snc.document\_templates\] plugin\) with an HR service.
+ **Note:** Select the Document Template option to associate a document template \(of Document Templates \[com.snc.document\_templates\] plugin\) with an HR service.
 
 </td></tr></tbody>
 </table>5.  Click **Submit** or **Update** on the HR template form.
@@ -139,12 +139,3 @@ Fields to automatically populate on the HR case form when a request for that HR 
 
 **Next topic:**[Configure a record producer for an HR service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-hr-record-producer.md)
 
-## Related
-
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[hr-service-administration|HR services]]
-- [[hr-service-configuration|HR service configuration]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[document-templates-overview|Document Templates]]

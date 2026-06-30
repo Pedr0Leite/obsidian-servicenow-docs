@@ -14,7 +14,7 @@ breadcrumb: [Configuring Event Management, Event Management, ITOM AIOps, IT Oper
 
 # View Event Management license usage
 
-[[c_EM|Event Management]] is licensed based on the number of CIs bound to alerts during the last year. For alerts that are not bound to CIs, the system calculates the number of nodes \(servers\) that can send events to the instance directly or through a third-party monitoring tool during the last year.
+Event Management is licensed based on the number of CIs bound to alerts during the last year. For alerts that are not bound to CIs, the system calculates the number of nodes \(servers\) that can send events to the instance directly or through a third-party monitoring tool during the last year.
 
 ## Before you begin
 
@@ -77,7 +77,3 @@ One of these values:-   True - The event listed is counted towards the license u
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_EM|Event Management]]

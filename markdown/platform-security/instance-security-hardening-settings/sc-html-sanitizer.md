@@ -16,7 +16,7 @@ breadcrumb: [Validation, sanitization, and encoding, Hardening settings, Platfor
 
 Use the **glide.html.sanitize\_all\_fields** property to enable the HTMLSanitizer script include, which sanitizes HTML input based on exclusion listed and inclusion listed attributes configured in a script.
 
-The field types available with dictionary/fields include HTML and Translated HTML. These HTML input fields enable [[users|users]] to write HTML formatted input, for example:
+The field types available with dictionary/fields include HTML and Translated HTML. These HTML input fields enable users to write HTML formatted input, for example:
 
 `<h1>Test</h1>`, using the most basic HTML tags such as `<img>`, `<a href …>`, and `<iframe>`.
 
@@ -44,11 +44,11 @@ Property name
 
 </td></tr><tr><td>
 
-[[sc-configuration|Configuration]] type
+Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -112,7 +112,7 @@ Workaround
 
 </td><td>
 
-This property sanitizes all HTML fields in the system. If you must enable HTML sanitization on individual fields, see [[t_EnSanitizIndFlds|Enable sanitization on individual fields]].
+This property sanitizes all HTML fields in the system. If you must enable HTML sanitization on individual fields, see [Enable sanitization on individual fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_EnSanitizIndFlds.md).
 
  You can also configure the inclusion list or exclusion list to sanitize HTML tags and attributes as per your organizations policy.
 
@@ -122,20 +122,12 @@ References
 
 </td><td>
 
-[[t_ActivateHTMLSanitizer|Enabling HTML sanitizer]]
+[Enabling HTML sanitizer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_ActivateHTMLSanitizer.md)
 
- [[c_HTMLSanitizer|HTML sanitizer]]
+ [HTML sanitizer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_HTMLSanitizer.md)
 
 </td></tr></tbody>
 </table>To learn more about adding or creating a system property, see [Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddAPropertyUsingSysPropsList.md).
 
 **Parent Topic:**[Validation, sanitization, and encoding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/validation-sanitization-encoding.md)
 
-## Related
-
-- [[t_EnSanitizIndFlds|Enable sanitization on individual fields]]
-- [[t_ActivateHTMLSanitizer|Enabling HTML sanitizer]]
-- [[c_HTMLSanitizer|HTML sanitizer]]
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

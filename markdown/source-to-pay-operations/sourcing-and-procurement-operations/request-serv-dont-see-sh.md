@@ -14,7 +14,7 @@ breadcrumb: [Request for products or services that you don't see on ShoppingHub,
 
 # Request for services that you don't see on Shopping Hub
 
-Place a request for one or more services that are currently not listed on the [[shopping-hub-overview|Shopping Hub]] portal. You can do this from Shopping Hub Home or directly from Employee Center.
+Place a request for one or more services that are currently not listed on the Shopping Hub portal. You can do this from Shopping Hub Home or directly from Employee Center.
 
 ## Before you begin
 
@@ -38,7 +38,7 @@ Role required: sn\_shop.shopper
 
 4.  On the form, fill in the details of the services that you’re looking for.
 
-    \[Omitted image "spo-need-service-form.png"\] Alt text: illing the service details to create a [[sourcing-request|sourcing request]].
+    \[Omitted image "spo-need-service-form.png"\] Alt text: illing the service details to create a sourcing request.
 
 <table id="table_hjz_1fd_flb"><thead><tr><th>
 
@@ -82,9 +82,9 @@ What suppliers do you want to request from?
 
 </td><td>
 
-Details of the suppliers you want to request from. The options are:-   Existing suppliers in the system: Add one or many suppliers from the list of existing suppliers. If you’ve contacted them already, select the appropriate option, and enter details of the [[supplier-contact|supplier contact]] such as first and last names, job title, and registered email ID.
+Details of the suppliers you want to request from. The options are:-   Existing suppliers in the system: Add one or many suppliers from the list of existing suppliers. If you’ve contacted them already, select the appropriate option, and enter details of the supplier contact such as first and last names, job title, and registered email ID.
 
-**Note:** Before you save the supplier contact details, ensure that your admin has set up the email domains for the [[supplier|supplier]] contacts, and the corresponding records are available in the [[slo-supp-email-table|Supplier Email Domain table]].
+**Note:** Before you save the supplier contact details, ensure that your admin has set up the email domains for the supplier contacts, and the corresponding records are available in the Supplier Email Domain table.
 
 -   External suppliers: Add one or many suppliers, and enter details of the supplier contact such as first and last names, job title, and registered email ID.
 
@@ -95,7 +95,7 @@ For more information on adding suppliers, see:
 
 -   From Platform: [Add a supplier](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-supplier.md).
 -   From the supplier catalog: [Add a supplier contact using the supplier catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/enroll-contact-catalog.md).
--   From [[purch-order-mgmt-ws|Source-to-Pay Workspace]]: [Add a supplier contact from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/add-supplier-contact.md).
+-   From Source-to-Pay Workspace: [Add a supplier contact from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/add-supplier-contact.md).
 
 
 </td></tr><tr><td>
@@ -159,11 +159,3 @@ In case of errors, check your system logs to detect any issues with the record p
 
 **Parent Topic:**[Requesting for products or services that you don't see on ShoppingHub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/request-prod-serv-dont-see-sh.md)
 
-## Related
-
-- [[shopping-hub-overview|Shopping Hub]]
-- [[sourcing-request|Sourcing request]]
-- [[supplier-contact|Supplier contact]]
-- [[supplier|Supplier]]
-- [[slo-supp-email-table|Supplier Email Domain table]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

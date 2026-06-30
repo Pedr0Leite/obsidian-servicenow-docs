@@ -12,11 +12,11 @@ breadcrumb: [Configure, Task Intelligence for Customer Service, Machine learning
 
 # Create a model to predict similar open incidents
 
-Use the Task [[intelligence-csm|Intelligence]] for CSM to create and train a machine learning model that identifies similar open incidents. The model analyzes similar open incidents data to suggest relevant incident records when working on a current open incident, helping agents resolve issues faster. The plugin includes a ready-to-train model for predicting similar cases and also lets you create custom models tailored to your specific use cases.
+Use the Task Intelligence for CSM to create and train a machine learning model that identifies similar open incidents. The model analyzes similar open incidents data to suggest relevant incident records when working on a current open incident, helping agents resolve issues faster. The plugin includes a ready-to-train model for predicting similar cases and also lets you create custom models tailored to your specific use cases.
 
 ## Before you begin
 
--   Ensure that the [[csm-task-intelligence|Task Intelligence for Customer Service]] plugin is installed.
+-   Ensure that the Task Intelligence for Customer Service plugin is installed.
 -   Ensure that your instance contains sufficient open incident records \(minimum 10,000 recommended\) for meaningful training.
 -   Role required: ml\_admin, ti\_admin
 
@@ -26,7 +26,7 @@ Use the Task [[intelligence-csm|Intelligence]] for CSM to create and train a mac
 
 1.  Navigate to **All** &gt; **Task Intelligence for Customer Service** &gt; **Setup**.
 
-    The [[csm-task-intel-admin-center|Task Intelligence Admin Console]] displays.
+    The Task Intelligence Admin Console displays.
 
 2.  On the Similar Open Incidents card, select **Ready to train**.
 
@@ -91,11 +91,6 @@ Use the Task [[intelligence-csm|Intelligence]] for CSM to create and train a mac
 
     **Result**
 
-    Once deployed, similar open incidents are displayed in the [[configure-nba|Recommended Actions]] section under the Suggested Actions tab when an agent opens a case that helps them resolve cases faster using related issues and prior solutions.
+    Once deployed, similar open incidents are displayed in the Recommended Actions section under the Suggested Actions tab when an agent opens a case that helps them resolve cases faster using related issues and prior solutions.
 
-## Related
 
-- [[intelligence-csm|Intelligence]]
-- [[csm-task-intelligence|Task Intelligence for Customer Service]]
-- [[csm-task-intel-admin-center|Task Intelligence Admin Console]]
-- [[configure-nba|Recommended Actions]]

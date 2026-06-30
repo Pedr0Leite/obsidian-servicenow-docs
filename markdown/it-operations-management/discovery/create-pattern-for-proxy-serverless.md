@@ -14,7 +14,7 @@ breadcrumb: [Serverless Discovery, Running discoveries in your network, Using Di
 
 # Create pattern and schedule for host-based serverless discovery
 
-To find application CIs that reside on a known host in your CMDB, create an infrastructure pattern for host-based [[serverless-discovery|serverless discovery]]. After creating the pattern, create a [[r-discovery|Discovery]] schedule that triggers the pattern.
+To find application CIs that reside on a known host in your CMDB, create an infrastructure pattern for host-based serverless discovery. After creating the pattern, create a Discovery schedule that triggers the pattern.
 
 ## Before you begin
 
@@ -87,10 +87,5 @@ Role required: cloud\_admin, service\_mapping\_admin, or admin
 
 ### Result
 
-Check the [[c_DiscoveryStatus|Discovery status]] to see the Discovery log, the devices list, which holds the discovered CIs, and the ECC queue records. Note that the Shazzam probe did not launch and Discovery did not trigger any classification probes.
+Check the Discovery status to see the Discovery log, the devices list, which holds the discovered CIs, and the ECC queue records. Note that the Shazzam probe did not launch and Discovery did not trigger any classification probes.
 
-## Related
-
-- [[serverless-discovery|Serverless Discovery]]
-- [[r-discovery|Discovery]]
-- [[c_DiscoveryStatus|Discovery status]]

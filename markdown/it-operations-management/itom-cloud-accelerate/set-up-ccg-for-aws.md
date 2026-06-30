@@ -14,7 +14,7 @@ breadcrumb: [Exploring Cloud Configuration Governance, Cloud Configuration Gover
 
 # Set up Cloud Configuration Governance for AWS
 
-Set up access to the Amazon Web Services \(AWS\) [[cloud-accounts|cloud accounts]] in [[cloud-configuration-governance|Cloud Configuration Governance]] to enable interaction between the application and the cloud. The application requires access to the cloud accounts to scan the cloud resources for non-compliant configurations and remediate them.
+Set up access to the Amazon Web Services \(AWS\) cloud accounts in Cloud Configuration Governance to enable interaction between the application and the cloud. The application requires access to the cloud accounts to scan the cloud resources for non-compliant configurations and remediate them.
 
 ## Before you begin
 
@@ -103,7 +103,7 @@ Credential alias type.Select **Credential** from the Type drop-down list.
 
 5.  Set up an AWS service account.
 
-    1.  Navigate to **[[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]** &gt; **Service accounts**.
+    1.  Navigate to **Cloud Provisioning and Governance** &gt; **Service accounts**.
 
     2.  Select **New**.
 
@@ -135,7 +135,7 @@ Account ID
 
 </td></tr><tr><td>
 
-[[r-discovery|Discovery]] credentials
+Discovery credentials
 
 </td><td>
 
@@ -164,7 +164,7 @@ Type of the datacenter where the account is hosted.Select **AWS Datacenter**.
 
 </td></tr><tr><td>
 
-Datacenter [[c_DiscoveryStatus|discovery status]]
+Datacenter discovery status
 
 </td><td>
 
@@ -209,7 +209,7 @@ Description
 
 </th></tr></thead><tbody><tr><td id="d157477e644">
 
-**[[create-assume-role-config|Create an assume role configuration]] for the management account**
+**Create an assume role configuration for the management account**
 
 </td><td>
 
@@ -243,7 +243,7 @@ For more information, see [Configure the trusting account for Cloud Configuratio
 </td></tr></tbody>
 </table>7.  Install and configure the MID Servers.
 
-    For more information, see [[mid-server-configuration-cloud|Install and configure MID Servers]].
+    For more information, see [Install and configure MID Servers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/mid-server-configuration-cloud.md).
 
 8.  Run datacenter discovery to identify the datacenters associated with the service accounts.
 
@@ -253,17 +253,7 @@ For more information, see [Configure the trusting account for Cloud Configuratio
 -   **[Configure the trusting account for Cloud Configuration Governance and Cloud Action Library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/configure-trusting-account-for-ccg.md)**  
 Configure the trusting account whose resources need to be accessed, to rely on the trusted account using the Identity and Access Management \(IAM\) role.
 -   **[Create an assume role configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/create-assume-role-config.md)**  
-[[create-service-account|Create a service account]] assume role configuration to facilitate cross-account access that is from a management account to a member account or from a trusted account to a trusting account. All the related member accounts or trusted accounts are automatically loaded avoiding the need to add them individually.
+Create a service account assume role configuration to facilitate cross-account access that is from a management account to a member account or from a trusted account to a trusting account. All the related member accounts or trusted accounts are automatically loaded avoiding the need to add them individually.
 
 **Parent Topic:**[Exploring Cloud Configuration Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/exploring-cloud-configuration-governance.md)
 
-## Related
-
-- [[mid-server-configuration-cloud|Install and configure MID Servers to access cloud environments]]
-- [[cloud-accounts|Cloud accounts]]
-- [[cloud-configuration-governance|Cloud Configuration Governance]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[r-discovery|Discovery]]
-- [[c_DiscoveryStatus|Discovery status]]
-- [[create-assume-role-config|Create an assume role configuration]]
-- [[create-service-account|Create a service account]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, Supplier Lifecycle Operations, Finance and Supply Chain]
 
 # Install Supplier Payment Optimization
 
-You can install the [[supplier-pmnt-opt|Supplier Payment Optimization]] application to identify, prioritize, and track high potential suppliers and estimate potential savings from credit card payments.
+You can install the Supplier Payment Optimization application to identify, prioritize, and track high potential suppliers and estimate potential savings from credit card payments.
 
 ## Before you begin
 
@@ -26,8 +26,8 @@ To install Supplier Payment Optimization, the following plugins have to be insta
 
 -   **Required plugin**: Supplier Payment Optimization \(com.snc.sn\_slm\_opt\)
 -   **Dependent plugins**:
-    -   [[supplier-operations|Supplier Operations]] \(com.snc.sn\_so\)
-    -   [[purch-order-mgmt-ws|Source-to-Pay Workspace]] \(com.sn\_spend\_workspace\)
+    -   Supplier Operations \(com.snc.sn\_so\)
+    -   Source-to-Pay Workspace \(com.sn\_spend\_workspace\)
     -   Source-to-Pay Common Architecture \(com.snc.sn\_shop\)
 
 **Note:** The application installs required ServiceNow® Store applications and plugins if they are not already installed.
@@ -58,7 +58,7 @@ To install Supplier Payment Optimization, the following plugins have to be insta
 **Related topics**  
 
 
-[Install [[supplier|Supplier]] Case Management]()
+[Install Supplier Case Management]()
 
 [Install Supplier Collaboration Portal]()
 
@@ -70,21 +70,13 @@ To install Supplier Payment Optimization, the following plugins have to be insta
 
 [Advanced Work Assignment for Supplier Lifecycle Operations]()
 
-[Enable M2M mapping between [[supplier-contact|supplier contact]] and suppliers]()
+[Enable M2M mapping between supplier contact and suppliers]()
 
 [Configure Supplier Relationship and Performance Management]()
 
-[Install [[universal-request|Universal Request]] for SLO]()
+[Install Universal Request for SLO]()
 
 [Configure smart assessments]()
 
 [Install Supplier Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/install-supp-mgmt.md)
 
-## Related
-
-- [[supplier-pmnt-opt|Supplier Payment Optimization]]
-- [[supplier-operations|Supplier Operations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supplier|Supplier]]
-- [[supplier-contact|Supplier contact]]
-- [[universal-request|Universal Request]]

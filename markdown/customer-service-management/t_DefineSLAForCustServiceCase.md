@@ -20,9 +20,9 @@ Role required: admin
 
 ## About this task
 
-The [[c_CustomerServiceManagement|Customer Service Management]] application uses service level agreements with customer service cases. An SLA can be attached to a service contract, to a company, and to a product and can be configured to start, pause, and stop based on any customer service case attributes.
+The Customer Service Management application uses service level agreements with customer service cases. An SLA can be attached to a service contract, to a company, and to a product and can be configured to start, pause, and stop based on any customer service case attributes.
 
-An SLA is automatically associated to a case when the case is created or updated based on the conditions that have been set up in the SLA definition. The specific record that gets attached to a case is the Task SLA record, which [[gamification-components-tracks|tracks]] the SLAs for that particular case. The Task SLA table \[task\_sla\] stores Task SLA records.
+An SLA is automatically associated to a case when the case is created or updated based on the conditions that have been set up in the SLA definition. The specific record that gets attached to a case is the Task SLA record, which tracks the SLAs for that particular case. The Task SLA table \[task\_sla\] stores Task SLA records.
 
 ## Procedure
 
@@ -36,7 +36,3 @@ An SLA is automatically associated to a case when the case is created or updated
 
 [Service Level Management concepts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management-concepts.md)
 
-## Related
-
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[gamification-components-tracks|Tracks]]

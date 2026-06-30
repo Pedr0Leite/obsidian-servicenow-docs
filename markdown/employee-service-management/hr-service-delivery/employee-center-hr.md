@@ -14,7 +14,7 @@ breadcrumb: [Integration of HR Service Delivery with ServiceNow applications, HR
 
 # Employee Center with HR Service Delivery
 
-The [[employee-center-landing-page|Employee Center]] is available to use when you activate the Human Resources Scoped App: Core \[com.sn\_hr\_core\] plugin.
+The Employee Center is available to use when you activate the Human Resources Scoped App: Core \[com.sn\_hr\_core\] plugin.
 
 The Employee Center provides a single and unified portal experience for employees to find information, get help, and request services or items they need. For more information, see [Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/employee-center-landing-page.md).
 
@@ -22,9 +22,9 @@ The Employee Center provides a single and unified portal experience for employee
 
 HR taxonomy delivers pre-configured mappings of the HR catalog items and knowledge articles to the HR topics provided by the Employee Experience taxonomy.
 
-Your employees can [[discover-lxp|discover]] content of different types such as catalog and knowledge together within a single topic. The topic mappings for the HR taxonomy also powers the search in the Employee Center.
+Your employees can discover content of different types such as catalog and knowledge together within a single topic. The topic mappings for the HR taxonomy also powers the search in the Employee Center.
 
-To use the Employee Center with [[hr-service-delivery|HR Service Delivery]]:
+To use the Employee Center with HR Service Delivery:
 
 -   Activate the HR taxonomy \(com.sn\_hr\_emp\_taxonomy\) plugin. When activated, the HR catalog items and knowledge \(KB\) articles are mapped to the topics and subtopics under Taxonomy.
 -   The base system provides the HR topics and subtopics and are included when you activate the HR taxonomy \(com.sn\_hr\_emp\_taxonomy\) plugin.
@@ -39,7 +39,7 @@ To use the Employee Center with [[hr-service-delivery|HR Service Delivery]]:
 
 The following are optional widgets that can be configured:
 
--   Start Date widget: This widget only appears to new hires prior to their start date for onboarding cases only. When using the base system layout, place the widget on the Employee Center home page, in the right-hand pane above the My Items widget. For more information on [[hr-lifecycle-events-landing-page-1|Lifecycle Events]] and onboarding and configuring the widget, see
+-   Start Date widget: This widget only appears to new hires prior to their start date for onboarding cases only. When using the base system layout, place the widget on the Employee Center home page, in the right-hand pane above the My Items widget. For more information on Lifecycle Events and onboarding and configuring the widget, see
     -   [Lifecyle events for enterprise](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-journey-management/enterprise-onboarding-transitions-landing-page.md)
     -   [Service Portal widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal-widgets.md)
 -   Parental Leave Guide: Provides a link to the Parental Leave Guide portal page. For more information, see
@@ -48,9 +48,3 @@ The following are optional widgets that can be configured:
 
 **Parent Topic:**[Integration of HR Service Delivery with ServiceNow applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/integrate-hr-platform-apps.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[discover-lxp|Discover]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]

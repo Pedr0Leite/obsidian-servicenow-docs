@@ -81,7 +81,7 @@ Fields defined by the JSON schema in the **Quick start config** field on the por
 }]
 ```
 
-For more information on editing the portal from the portal record page, see [[psds-config-gds-portal-record|Configure the GOV.UK Design System Service Portal record]].
+For more information on editing the portal from the portal record page, see [Configure the GOV.UK Design System Service Portal record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gds-portal-record.md).
 
 </td></tr><tr><td>
 
@@ -138,9 +138,5 @@ For information on creating and customizing the header/footer menu, see [Create 
 
 Changes made in the Branding Editor or to specific components of the portal \(such as a widget or a page container\) override any customizations made to the theme. If your portal needs more customization than Branding Editor can provide, you can edit the CSS of the existing theme. For information on how to customize the portal theme using CSS, see [Create a portal theme](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_CustomCSS.md).
 
-**Parent Topic:**[[psds-config-gds-content-pack-gsp|Configure the GOV.UK Design System \(GDS\) Service Portal]]
+**Parent Topic:**[Configure the GOV.UK Design System \(GDS\) Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gds-content-pack-gsp.md)
 
-## Related
-
-- [[psds-config-gds-portal-record|Configure the GOV.UK Design System Service Portal record]]
-- [[psds-config-gds-content-pack-gsp|Configure the GOV.UK Design System \(GDS\) Service Portal]]

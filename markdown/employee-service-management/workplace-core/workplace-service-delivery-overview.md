@@ -14,7 +14,7 @@ breadcrumb: [Workplace Core, Workplace Service Delivery, Employee Service Manage
 
 # Explore Workplace Core
 
-The ServiceNow® [[workplace-safety-mgmt-hr|Workplace Core]] application enables you to create well-maintained and well-managed processes for employees in the workplace. You can manage various units of your workplace such as workplace locations, maintenance, space administrations, reservations, requests, visitors, moves and more. The Workplace Core is the core application of the [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] suite.
+The ServiceNow® Workplace Core application enables you to create well-maintained and well-managed processes for employees in the workplace. You can manage various units of your workplace such as workplace locations, maintenance, space administrations, reservations, requests, visitors, moves and more. The Workplace Core is the core application of the Workplace Service Delivery suite.
 
 \[Omitted image "covid.wsm\_overview.png"\] Alt text: Workplace Safety Management overview
 
@@ -45,7 +45,7 @@ The ServiceNow® [[workplace-safety-mgmt-hr|Workplace Core]] application enables
 
     If the workplace profiles of all employees are set up, the application automatically assigns available workplaces for employees using the data stored in Workplace profile table.
 
-    The Workplace Service Delivery provides more advanced workplace reservation options in the [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]. For more information, see [Workplace Reservation Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/workplace-rsv-mgmt-feat.md).
+    The Workplace Service Delivery provides more advanced workplace reservation options in the Workplace Reservation Management. For more information, see [Workplace Reservation Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/workplace-rsv-mgmt-feat.md).
 
 -   **Workplace tasks**
 
@@ -55,7 +55,7 @@ The ServiceNow® [[workplace-safety-mgmt-hr|Workplace Core]] application enables
 
     Using data visualizations, you can evaluate the availability of workplaces and occupancy levels of your office locations, and monitor the progress of workplace tasks on the workplace dashboard.
 
--   **[[workplace-case-mgmt-feat|Workplace Case Management]]**
+-   **Workplace Case Management**
 
     As a workplace manager, you can enable employees to raise workplace-related requests. The Workplace Case Management application enables you to configure services using which employees case can raise their requests.
 
@@ -67,24 +67,24 @@ The ServiceNow® [[workplace-safety-mgmt-hr|Workplace Core]] application enables
 
 -   **Manage workplace moves**
 
-    As a workplace manager, the application enables you to manage the move requests raised by employees. You can track the expected start and due date by when a move must be fulfilled. You can perform various other actions. For more information, refer to [[workplace-move-mgmt-overview|Workplace Move Management]].
+    As a workplace manager, the application enables you to manage the move requests raised by employees. You can track the expected start and due date by when a move must be fulfilled. You can perform various other actions. For more information, refer to [Workplace Move Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-move-mgmt-overview.md).
 
--   **[[workplace-central-feat|Workplace Central]]**
+-   **Workplace Central**
 
-    As a workplace manager, save your time by focusing on all your main workplace activities in a single workspace, that is, Workplace Central. The workplace central is a workspace available on the [[employee-center-landing-page|Employee Center]]. It is a one-stop workspace from where you can check all the dashboards, perform space allocation activities, manage move requests, manage reservations and more. For more information, refer to [Workplace Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/workplace-central-feat.md).
+    As a workplace manager, save your time by focusing on all your main workplace activities in a single workspace, that is, Workplace Central. The workplace central is a workspace available on the Employee Center. It is a one-stop workspace from where you can check all the dashboards, perform space allocation activities, manage move requests, manage reservations and more. For more information, refer to [Workplace Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/workplace-central-feat.md).
 
 
 **Note:**
 
-In Workplace Core \[sn\_wsd\_core\] version 2.19.0 and above, the navigation path for [[workplace-services|Workplace Services]] Portal is not available in the application context search menu **All****Workplace Core**. You can access the Workplace Service from the Employee Center portal home page. Select **Workplace Service**, **Site safety**. For more information, see [Workplace services on the Employee Center portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/workplace-services-on-employee-center.md).
+In Workplace Core \[sn\_wsd\_core\] version 2.19.0 and above, the navigation path for Workplace Services Portal is not available in the application context search menu **All****Workplace Core**. You can access the Workplace Service from the Employee Center portal home page. Select **Workplace Service**, **Site safety**. For more information, see [Workplace services on the Employee Center portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/workplace-services-on-employee-center.md).
 
-Workplace Core customers using Workplace Core version 2.18.1 and later can access Workplace services portal from **All** &gt; **Workplace Core** &gt; **[[workplace-services-portal-hr|Workplace service portal]]** &gt; **Workplace Service Portal Home**.
+Workplace Core customers using Workplace Core version 2.18.1 and later can access Workplace services portal from **All** &gt; **Workplace Core** &gt; **Workplace service portal** &gt; **Workplace Service Portal Home**.
 
 ## Use with other Workplace Service Delivery applications
 
 Workplace Core is the core application of the ServiceNow® Workplace Service Delivery. Use it along with other applications that are part of the suite. For information about other applications available in the suite, see [Workplace Service Delivery applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery/workplace-service-delivery-apps.md)
 
-All [[safe-workplace|Safe Workplace]] suite applications are available in the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
+All Safe Workplace suite applications are available in the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
 
 -   **[Workplace Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/workplace-services-portal-wsd.md)**  
 The Workplace Service Portal is a self-service portal for employees, delivering workplace services from a central location. Employees can make reservations, view knowledge base articles, submit and review requests, and get help using virtual agent chat support.
@@ -95,15 +95,3 @@ Workplace Service Delivery provides you with delivered conversations in Virtual 
 
 **Parent Topic:**[Workplace Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/workplace-service-delivery-feat.md)
 
-## Related
-
-- [[workplace-move-mgmt-overview|Workplace Move Management]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[workplace-central-feat|Workplace Central]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-services|Workplace Services]]
-- [[workplace-services-portal-hr|Workplace Service Portal]]
-- [[safe-workplace|Safe Workplace]]

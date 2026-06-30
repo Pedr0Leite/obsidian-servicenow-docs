@@ -22,7 +22,7 @@ Role required: sn\_si.admin
 
 ## Procedure
 
-1.  On the [[mapping-logrhythm|mapping]] page, in the AWS Security Hub Mapping section, select one of the Sample Ingestion Methods.
+1.  On the mapping page, in the AWS Security Hub Mapping section, select one of the Sample Ingestion Methods.
 
 <table id="table_kyc_qbg_p4b"><thead><tr><th>
 
@@ -69,7 +69,7 @@ Map these findings to the **SIR Incident Target Fields**. The finding fields and
 
     1.  In the Security Incident column, expand the list that is displayed and then select a field.
 
-        **Note:** Multiple [[c_Observables|observables]] can be displayed on the same security incident. For example, the **Observable** field can be mapped multiple times with different values. Similarly, the **Configuration Item** and **Work notes fields** support multiple values. If you try to map two values to a field that can't support multiple values, you see an error message that this field doesn’t support multiple values. Similarly, if a field on a security incident has a list from which you can choose multiple options, and you try to map an option to that field that is not displayed on the list, the field doesn’t populate on the security incident.
+        **Note:** Multiple observables can be displayed on the same security incident. For example, the **Observable** field can be mapped multiple times with different values. Similarly, the **Configuration Item** and **Work notes fields** support multiple values. If you try to map two values to a field that can't support multiple values, you see an error message that this field doesn’t support multiple values. Similarly, if a field on a security incident has a list from which you can choose multiple options, and you try to map an option to that field that is not displayed on the list, the field doesn’t populate on the security incident.
 
     2.  From the AWS Security Hub Source Fields section, drag your field to map it to your new field.
 
@@ -77,7 +77,7 @@ Map these findings to the **SIR Incident Target Fields**. The finding fields and
 
         **Note:** In the base system, the system property sn\_sec\_security.finding\_updates is by default set to True to receive the AWS Security Hub updates related to new alerts that are linked to SIR.
 
-        -   By default, the Affected Users, Configuration items, and Observables fields are checked. This means that whenever there are new observables or associated configuration items, or affected users that get added to the incident then that information is automatically extracted and populated in the respective related lists in the [[sir-landing-page|Security Incident Response]] \(SIR\) during that polling interval.
+        -   By default, the Affected Users, Configuration items, and Observables fields are checked. This means that whenever there are new observables or associated configuration items, or affected users that get added to the incident then that information is automatically extracted and populated in the respective related lists in the Security Incident Response \(SIR\) during that polling interval.
         -   For any other fields, you must select the check box that corresponds to a field for any new or updated changes made in the finding in AWS Security Hub. This automatically updates the respective SIR incident data with the new incident data.
         **Important:** Due diligence is required to be done before selecting this functionality as overriding the existing data may result in unstable data for the analyst to work with and any other automation that is set even by the field values of security incident may also get affected. So, it is important to do the due diligence before you select any override functionality.
 
@@ -128,8 +128,3 @@ Map these findings to the **SIR Incident Target Fields**. The finding fields and
 
 Define and set filter conditions so that you can specify which findings create security incidents. You can use the same field values \(defined in the Mapping section\) in the Incident Generation Conditions builder \(in the Filtering and Aggregation section\) to define additional criteria that an incoming finding must satisfy to create a security incident.
 
-## Related
-
-- [[mapping-logrhythm|Mapping]]
-- [[c_Observables|Observables]]
-- [[sir-landing-page|Security Incident Response]]

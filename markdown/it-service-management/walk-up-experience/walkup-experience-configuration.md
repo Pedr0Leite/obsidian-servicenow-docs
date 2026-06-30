@@ -14,7 +14,7 @@ breadcrumb: [Walk-up Experience, IT Service Management]
 
 # Configuring Walk-up Experience
 
-Customize your [[walkup-experience-landing-page|Walk-up Experience]] portal and configure appointments, notifications, walk-up venue locations, associated stockrooms, customer satisfaction surveys, and hours of operation to meet your required needs.
+Customize your Walk-up Experience portal and configure appointments, notifications, walk-up venue locations, associated stockrooms, customer satisfaction surveys, and hours of operation to meet your required needs.
 
 Walk-up Experience includes associated notifications to alert requesters when the location is closed or when an interaction is assigned to an agent. Pre-built customer satisfaction surveys capture user sentiment about the experience. Also included are several configurable tables for customizing your walk-up portal and service center experience. You can configure and specify the following features for your experience:
 
@@ -26,7 +26,7 @@ Walk-up Experience includes associated notifications to alert requesters when th
 -   Add a logo and brand your portal and walk-up location to fit your style.
 -   Access location-specific branding elements, such as logo images, for walk-up queues. These configuration options are found in the Walk-up Location Queue \[wu\_location\_queue\] table.
 
-The following [[dex-workspace-application-tab|applications]] are included in the **Administration** module of the Walk-up Experience navigation bar:
+The following applications are included in the **Administration** module of the Walk-up Experience navigation bar:
 
 |Application|Description|
 |-----------|-----------|
@@ -41,7 +41,7 @@ The following [[dex-workspace-application-tab|applications]] are included in the
 -   **[Walk-up Experience administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walkup-experience-administration.md)**  
 Walk-up Experience users with the sn\_walkup.walkup\_admin role and administrators can activate and configure the application to meet specific requirements.
 -   **[Walk-up Experience portal security and access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walkup-exper-security-portal-acess.md)**  
-Security is built into the application to prevent end-user facing [[dex-workspace-devices-tab|devices]] at the Walk-up Experience on-site portal from offering elevated role privileges to users. The Walk-up Experience on-site portal is accessed by an account containing only the sn\_walkup.walkup\_login role.
+Security is built into the application to prevent end-user facing devices at the Walk-up Experience on-site portal from offering elevated role privileges to users. The Walk-up Experience on-site portal is accessed by an account containing only the sn\_walkup.walkup\_login role.
 -   **[Configure the Walk-up Experience portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/configure-walkup-portal.md)**  
 Create engaging walk-up center service portals featuring your logo, portal theme, desired catalog, links to a knowledge base and social community, and more.
 -   **[Configure Walk-up Experience service channel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/configure-walkup-service-channel.md)**  
@@ -75,8 +75,3 @@ Requesters can check into a walk-up location online via the Service Portal. You 
 
 **Parent Topic:**[Walk-up Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walkup-experience-landing-page.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]
-- [[dex-workspace-application-tab|Applications]]
-- [[dex-workspace-devices-tab|Devices]]

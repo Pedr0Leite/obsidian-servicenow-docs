@@ -25,7 +25,7 @@ There are two types of work notes analysis. You can do a clustering with or with
 You can use the Now Assist feature for work notes analysis even with 5-50 eligible work notes. If there are less than 25 eligible work notes, the system will not run clustering, but will put all the work notes into one LLM call, otherwise clustering will be performed before calling the LLM.
 
 -   **[Configure work notes analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/configure-worknotes-analysis.md)**  
-[[configure-worknotes-analysis|Configure work notes analysis]] for a process table to view the work notes analysis for a project based on that process table.
+Configure work notes analysis for a process table to view the work notes analysis for a project based on that process table.
 -   **[Perform work notes analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/perform-worknotes-analysis.md)**  
 Generate a work notes analysis on a transition.
 -   **[Resubmit work notes analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/resubmit-worknotes-analysis.md)**  
@@ -33,6 +33,3 @@ If a work notes analysis fails for some reason, you can resubmit it.
 
 **Parent Topic:**[Analyzing and getting process insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/analyze-get-process-insights.md)
 
-## Related
-
-- [[configure-worknotes-analysis|Configure work notes analysis]]

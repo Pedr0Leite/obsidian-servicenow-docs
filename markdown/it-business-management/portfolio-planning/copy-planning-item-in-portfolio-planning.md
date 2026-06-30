@@ -14,7 +14,7 @@ breadcrumb: [Prioritize portfolio plan work, Portfolio Planning, Strategic Portf
 
 # Duplicate a planning item
 
-Create a copy of an existing planning item to add it to your portfolio plan's work backlog in [[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace and ensure that the work pipeline is current. If the planning item you want to create is similar to an existing planning item, duplicating the existing planning item saves your time.
+Create a copy of an existing planning item to add it to your portfolio plan's work backlog in Portfolio Planning Workspace and ensure that the work pipeline is current. If the planning item you want to create is similar to an existing planning item, duplicating the existing planning item saves your time.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_align\_core.apw\_user
 
 ## About this task
 
-Use the Prioritization page of your portfolio plan to add new planning items or import them from other ServiceNow execution system such as [[c_ProjectPortfolioSuite|Project Portfolio Management]] \(PPM\).
+Use the Prioritization page of your portfolio plan to add new planning items or import them from other ServiceNow execution system such as Project Portfolio Management \(PPM\).
 
 ## Procedure
 
@@ -51,7 +51,3 @@ Use the Prioritization page of your portfolio plan to add new planning items or 
 -   [Update planning item details from Prioritization view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/modify-planing-item-details-from-prioritization-portfolio-planning-workspace.md).
 -   [Personalizing views for prioritization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/personalizing-prioritization-page-views-in-portfolio-planning-workspace.md).
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]

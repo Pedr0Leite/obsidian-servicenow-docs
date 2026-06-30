@@ -14,7 +14,7 @@ breadcrumb: [Identity Center, Identity]
 
 # Identity Center for users
 
-View the details about your [[sc-active-sessions|active sessions]], login history, and trusted devices with the [[identity-center|Identity Center]].
+View the details about your active sessions, login history, and trusted devices with the Identity Center.
 
 Identity Center is a collection of user attributes, devices, login history, security activity and much more. It provides a single pane view of all the data with additional security controls and notification capabilities.
 
@@ -37,7 +37,7 @@ To access the Identity Center for users, navigate to one of the following:
 
 The Identity Center page is displayed as follows:
 
-\[Omitted image "[[identity-landing|identity]]-center-for-user.png"\] Alt text: Identity Center for User Home page
+\[Omitted image "identity-center-for-user.png"\] Alt text: Identity Center for User Home page
 
 Identity Center has the following tabs:
 
@@ -47,8 +47,3 @@ Identity Center has the following tabs:
 
 You can select these tabs to view the details such browser, IP Addressees, session relation information, login information, your registered mobile devices.
 
-## Related
-
-- [[sc-active-sessions|Active Sessions]]
-- [[identity-center|Identity Center]]
-- [[identity-landing|Identity]]

@@ -14,7 +14,7 @@ breadcrumb: [Exploring Agent Client Collector, Agent Client Collector, IT Operat
 
 # Agent Client Collector for Visibility - Content use case
 
-The [[acc-landing-page|Agent Client Collector]] for Visibility - Content \(ACC-VC\) use case demonstrates how a financial organization can perform effective [[r-discovery|discovery]] across on-premise and remote environments.
+The Agent Client Collector for Visibility - Content \(ACC-VC\) use case demonstrates how a financial organization can perform effective discovery across on-premise and remote environments.
 
 ## Use case overview
 
@@ -44,7 +44,7 @@ To address these challenges, the financial organization implemented Agent Client
 ## Outcomes
 
 -   End-to-end asset visibility: The organization achieved complete visibility across secure data center assets, cloud and hybrid environments, and remote workforce devices. This eliminated blind spots and improved operational decision making.
--   Improved CMDB accuracy and reliability: Continuous data collection ensured up-to-date and trustworthy CI data, and improved [[c_ServiceMappingOverview|service mapping]] and dependency insights.
+-   Improved CMDB accuracy and reliability: Continuous data collection ensured up-to-date and trustworthy CI data, and improved service mapping and dependency insights.
 -   Enhanced compliance and audit readiness: The organization benefited from granular, auditable asset data, faster and more efficient compliance reporting, and reduced risk of regulatory violations.
 -   Increased operational efficiency: Reduced reliance of manual discovery and troubleshooting led to faster issue detection and lower operational overhead.
 
@@ -55,8 +55,3 @@ ACC-VC enabled the organization to transform its discovery strategy from periodi
 -   Maintain regulatory compliance
 -   Build a resilient and scalable IT operations framework
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

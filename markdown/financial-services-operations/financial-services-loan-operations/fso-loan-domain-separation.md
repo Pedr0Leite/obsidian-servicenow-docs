@@ -14,7 +14,7 @@ breadcrumb: [Reference, Loan Operations, Banking applications, Financial Service
 
 # Domain separation and Financial Services Loan Operations
 
-[[domain-separation-dispute-content-pack-for-mastercard|Domain separation]] is unsupported for the [[loan-ops-landing-page|Financial Services Loan Operations]] application. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is unsupported for the Financial Services Loan Operations application. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic
 
@@ -39,7 +39,3 @@ All Financial Service Loan Operations applications are built on top of Customer 
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[domain-separation-dispute-content-pack-for-mastercard|Domain separation]]
-- [[loan-ops-landing-page|Financial Services Loan Operations]]

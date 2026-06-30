@@ -36,7 +36,7 @@ The following roles enable customer service agents to view and create changes fo
 -   sn\_change\_read
 -   sn\_change\_write
 
-For more information, see [[assign-csm-itsm-integration-roles|Assign CSM/ITSM integration roles]].
+For more information, see [Assign CSM/ITSM integration roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/assign-csm-itsm-integration-roles.md).
 
 ## Synchronizing data between the change and the case
 
@@ -50,7 +50,7 @@ Work notes are synchronized from the change to the case when:
 
 ## Change form related lists
 
-Integration with the Change Management application adds the following related [[migration-lists|lists]] to the Change form:
+Integration with the Change Management application adds the following related lists to the Change form:
 
 -   Cases Fixed by Change
 -   Cases Caused by Change
@@ -63,7 +63,3 @@ When a record producer for a standard change or normal change is created and exp
 -   The record producer does not appear as part of Standard Change catalog items.
 -   If the agent chooses to create a Standard Change from the normal record producer, the Standard Change is created but the change record is not linked with the case.
 
-## Related
-
-- [[assign-csm-itsm-integration-roles|Assigning CSM/ITSM integration roles]]
-- [[migration-lists|Lists]]

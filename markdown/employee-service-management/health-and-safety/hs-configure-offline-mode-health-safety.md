@@ -14,7 +14,7 @@ breadcrumb: [Mobile experience for Health and Safety, Health and Safety, Employe
 
 # Configure offline mode in the Now Mobile app for Health and Safety
 
-Setup [[offline-mode|offline mode]] in the [[mobile-employee-experience|Now Mobile app]] for [[health-safety-overview|Health and Safety]] so that users can access it even without an internet connection.
+Setup offline mode in the Now Mobile app for Health and Safety so that users can access it even without an internet connection.
 
 ## Before you begin
 
@@ -42,7 +42,7 @@ Role required: admin
 
     2.  Search for the Health and Safety application scope and then select the name of the application scope.
 
-        To enable offline mode for safety incidents and observations, select [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]].
+        To enable offline mode for safety incidents and observations, select Health and Safety Incident Management.
 
     3.  Select **Mobile app configs**, and then select the **Now Mobile** to configure offline mode in it.
 
@@ -57,9 +57,3 @@ Role required: admin
 
 **Parent Topic:**[Mobile experience for Health and Safety](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-health-safety-mobile.md)
 
-## Related
-
-- [[offline-mode|Offline mode]]
-- [[mobile-employee-experience|Now Mobile app]]
-- [[health-safety-overview|Health and Safety]]
-- [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]]

@@ -18,7 +18,7 @@ Field Service technicians and managers use the ServiceNow Agent mobile applicati
 
 Field Service technician have the flexibility to view and update their work order tasks from any location, so they stay connected and productive no matter where the job takes them.
 
-Field Service managers can take full control of their teams and responsibilities using the ServiceNow Agent mobile application, giving them the freedom to work from virtually anywhere on their mobile device. After installing and signing into the application, managers and territory managers see the [[manager-mobile-app|Field Service Manager Mobile]] interface, purpose-built to support efficient team oversight and day-to-day field operations on the go.
+Field Service managers can take full control of their teams and responsibilities using the ServiceNow Agent mobile application, giving them the freedom to work from virtually anywhere on their mobile device. After installing and signing into the application, managers and territory managers see the Field Service Manager Mobile interface, purpose-built to support efficient team oversight and day-to-day field operations on the go.
 
 Completing work on mobile include using the ServiceNow Agent mobile application as a technician or a manager.
 
@@ -30,6 +30,4 @@ Completing work on mobile include using the ServiceNow Agent mobile application 
 
     Learn about all the things managers can accomplish on Field Service Manager Mobile.
 
-## Related
 
-- [[manager-mobile-app|Field Service Manager Mobile]]

@@ -12,7 +12,7 @@ breadcrumb: [Defined desktop actions, Configure, AI Desktop Actions, Enable AI e
 
 # Download AI Desktop Actions installer
 
-Download the [[agentic-desktop-landing-page|AI Desktop Actions]] installer so that you can install AI Desktop Actions on your Windows machine for designing and running desktop actions.
+Download the AI Desktop Actions installer so that you can install AI Desktop Actions on your Windows machine for designing and running desktop actions.
 
 ## Before you begin
 
@@ -54,7 +54,7 @@ Role required: Windows administrator
 
 6.  If not already installed, download and install the .Net Desktop Runtime framework.
 
-    The installer validates if required .NET Desktop Runtime is installed or not on the user machine. If not installed, the installer provides a link to instructions for downloading and installing the same. For more information, see [[install-dot-network-framework-ad|Download and install .Net Desktop Runtime for AI Desktop Actions]].
+    The installer validates if required .NET Desktop Runtime is installed or not on the user machine. If not installed, the installer provides a link to instructions for downloading and installing the same. For more information, see [Download and install .Net Desktop Runtime for AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-dot-network-framework-ad.md).
 
     \[Omitted image "ad-set-up-dot-net-installation.png"\] Alt text: NET Desktop Runtime required screen.
 
@@ -67,13 +67,7 @@ If AI Desktop Actions is not installed using Windows administrator privileges, y
 
 ## What to do next
 
-Use AI Desktop Actions to design desktop actions. For more information, see [[desktop-actions-designer-workspace-ad|Defined path desktop actions in AI Desktop Actions]].
+Use AI Desktop Actions to design desktop actions. For more information, see [Defined path desktop actions in AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/desktop-actions-designer-workspace-ad.md).
 
-**Parent Topic:**[[ad-defined-path-da|Configuring AI Desktop Actions for defined path desktop actions]]
+**Parent Topic:**[Configuring AI Desktop Actions for defined path desktop actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ad-defined-path-da.md)
 
-## Related
-
-- [[install-dot-network-framework-ad|Download and install .Net Desktop Runtime for AI Desktop Actions]]
-- [[desktop-actions-designer-workspace-ad|Defined path desktop actions in AI Desktop Actions]]
-- [[ad-defined-path-da|Configuring AI Desktop Actions for defined path desktop actions]]
-- [[agentic-desktop-landing-page|AI Desktop Actions]]

@@ -14,11 +14,11 @@ breadcrumb: [Advanced Service Mapping configuration, Configuring Service Mapping
 
 # Data collection and discovery using Netflow
 
-[[c_ServiceMappingOverview|Service Mapping]] can perform [[r-discovery|discovery]] based on data collected using the Netflow protocol. Netflow is a protocol that Service Mapping can use to collect data about CIs and their connections along with Netstat and lsof commands.
+Service Mapping can perform discovery based on data collected using the Netflow protocol. Netflow is a protocol that Service Mapping can use to collect data about CIs and their connections along with Netstat and lsof commands.
 
 Using the Netflow protocol for collecting data is one of the traffic-based discovery methods. Other methods deployed by Service Mapping are using netstat and lsof commands and the VPC Flow Logs. For more information, refer to [Traffic-based discovery in Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/traffic-based-discovery.md).
 
-In base systems, which are the default or standard configurations, traffic-based discovery relies solely on TCP-related data collected using the **netstat**, **ss**, and **lsof** commands. Discovery based on Netflow and VPC logs requires additional configuration. You can enrich your traffic-based discovery by [[service-mapping-setup|configuring Service Mapping]] to use the Netflow protocol.
+In base systems, which are the default or standard configurations, traffic-based discovery relies solely on TCP-related data collected using the **netstat**, **ss**, and **lsof** commands. Discovery based on Netflow and VPC logs requires additional configuration. You can enrich your traffic-based discovery by configuring Service Mapping to use the Netflow protocol.
 
 The component, which receives data in the Netflow format is the Netflow Collector. Its location depends on whether you configure data collection for testing purposes or standard operation:
 
@@ -59,8 +59,3 @@ Netflow-based discovery has the following flow:
 
 [https://support.servicenow.com/kb\_view.do?sysparm\_article=KB0597467](https://support.servicenow.com/kb_view.do?sysparm_article=KB0597467)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]
-- [[service-mapping-setup|Configuring Service Mapping]]

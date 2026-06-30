@@ -22,9 +22,9 @@ Problem Management models enable you to define:
 -   State transitions
 -   State transition conditions
 
-The following default [[c_Models|models]] are provided to replicate the non-model versions included as part of the base problem life cycle.
+The following default models are provided to replicate the non-model versions included as part of the base problem life cycle.
 
-**Note:** The base problem life cycle is included with the [[c_ProblemManagement|Problem Management]]  Best Practice - Madrid - State Model \(com.snc.best\_practice.problem.madrid.state\_model\) plugin. Use the Problem Management [[migration-utility|Migration Utility]] [store application](https://store.servicenow.com/sn_appstore_store.do#!/store/application/d03b7539dbbb3300f21e7ffdbf9619a8) to enable this plugin and migrate your records to the base problem life cycle.
+**Note:** The base problem life cycle is included with the Problem Management  Best Practice - Madrid - State Model \(com.snc.best\_practice.problem.madrid.state\_model\) plugin. Use the Problem Management Migration Utility [store application](https://store.servicenow.com/sn_appstore_store.do#!/store/application/d03b7539dbbb3300f21e7ffdbf9619a8) to enable this plugin and migrate your records to the base problem life cycle.
 
 |Model|Description|
 |-----|-----------|
@@ -45,7 +45,7 @@ To begin working with custom models, see the following topics:
 -   [Create a problem task model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/create-problem-task-model.md)
 -   [Enable Problem Management models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/enable-problem-mgmt-models.md) \(Required only for customers upgrading to Yokohama.\)
 
-**Note:** Any problems or problem tasks that were created before you [[enable-problem-mgmt-models|enable Problem Management models]] will continue to use the non-model life cycle.
+**Note:** Any problems or problem tasks that were created before you enable Problem Management models will continue to use the non-model life cycle.
 
 ## Considerations for Problem Management models and Service Operations Workspace
 
@@ -63,9 +63,3 @@ If you are using Service Operations Workspace 5.x and you enable Problem Managem
 
 **Parent Topic:**[Exploring Problem Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/exploring-problem-management.md)
 
-## Related
-
-- [[c_Models|Models]]
-- [[c_ProblemManagement|Problem Management]]
-- [[migration-utility|Migration Utility]]
-- [[enable-problem-mgmt-models|Enable Problem Management models]]

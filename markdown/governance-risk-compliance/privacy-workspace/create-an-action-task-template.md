@@ -14,7 +14,7 @@ breadcrumb: [Configure, Personal Data Rights \(PDR\), Privacy Management, Govern
 
 # Create an action task template
 
-Create action task templates accessible to [[personal-data-rights|personal data rights]] administrators to align with various request types, such as the right to correct, delete, know, or opt-out. Using these templates for auto-generated action tasks ensures that each task meets the specific requirements of the request type. This alignment guarantees consistency, compliance, and efficiency in handling personal data rights requests.
+Create action task templates accessible to personal data rights administrators to align with various request types, such as the right to correct, delete, know, or opt-out. Using these templates for auto-generated action tasks ensures that each task meets the specific requirements of the request type. This alignment guarantees consistency, compliance, and efficiency in handling personal data rights requests.
 
 ## Before you begin
 
@@ -47,6 +47,3 @@ Role required: system administrator
 
 **Parent Topic:**[Configuring Personal Data Rights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/configuring-personal-data-rights.md)
 
-## Related
-
-- [[personal-data-rights|personal data rights]]

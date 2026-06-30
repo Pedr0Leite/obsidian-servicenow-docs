@@ -14,7 +14,7 @@ breadcrumb: [Configure, Advanced Work Assignment, Manage people and work, Conver
 
 # Set work item sort order
 
-Specify the order in which [[awa-work-items|work items]] in a queue are sorted.
+Specify the order in which work items in a queue are sorted.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ The **Work Item Sort Order** field only determines the order that AWA assigns th
 
 1.  Navigate to the queue settings through one of the following navigation paths:
 
-    -   **All** &gt; **[[awa-application-landing-page|Advanced Work Assignment]]** &gt; **Home**.
+    -   **All** &gt; **Advanced Work Assignment** &gt; **Home**.
 
         In the Essential settings section, select **Set up queues**.
 
@@ -44,7 +44,4 @@ The **Work Item Sort Order** field only determines the order that AWA assigns th
     -   **Order**: The value of the **Order** value relative to other items in the queue.
 5.  Select **Submit**.
 
-## Related
 
-- [[awa-work-items|Work items]]
-- [[awa-application-landing-page|Advanced Work Assignment]]

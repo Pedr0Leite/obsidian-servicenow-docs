@@ -14,7 +14,7 @@ breadcrumb: [Set up a keystore and encryption keys, Install the Edge Encryption 
 
 # Set up a Java KeyStore keystore
 
-You can use a Java KeyStore keystore to store [[encryption-landing|encryption]] keys.
+You can use a Java KeyStore keystore to store encryption keys.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ You must use the Java 1.8 version of the keytool utility. A copy of the utility 
 
 ## About this task
 
-The [[edge-encryption|Edge Encryption]] proxy ships with the Java JCEKS KeyStore file named `keystore.jceks` in the `keystore` directory. This keystore file contains the ServiceNow public key used to validate encryption rules signed by ServiceNow.
+The Edge Encryption proxy ships with the Java JCEKS KeyStore file named `keystore.jceks` in the `keystore` directory. This keystore file contains the ServiceNow public key used to validate encryption rules signed by ServiceNow.
 
 ## Procedure
 
@@ -48,7 +48,3 @@ You can use the keytool shipped with the encryption proxy distribution to create
 
 **Parent Topic:**[Set up a keystore and encryption keys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/set-up-keystore.md)
 
-## Related
-
-- [[encryption-landing|Encryption]]
-- [[edge-encryption|Edge Encryption]]

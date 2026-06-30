@@ -30,10 +30,7 @@ A component triggers an event when a certain condition is met or on user interac
 
 [Embed the Case create component instance on the third-party website](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/embed-case-create-component-on-third-party-website.md)
 
-[[comp-properties-case-create|Component properties for the Case create]]
+[Component properties for the Case create](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/comp-properties-case-create.md)
 
 [Sample code for the Case create component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/we-case-create-sample-code.md)
 
-## Related
-
-- [[comp-properties-case-create|Component properties for the Case create]]

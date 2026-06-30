@@ -12,31 +12,20 @@ breadcrumb: [Domain separation for service providers, Access Management]
 
 # Domain separation setup and administration
 
-Setting up domain separation involves requesting activation of a plugin, setting options, and assigning [[users|users]] and records to domains.
+Setting up domain separation involves requesting activation of a plugin, setting options, and assigning users and records to domains.
 
 Do the following to set up domain separation:
 
-1.  [[t_ActivateDomainSeparation|Request domain separation]]
-2.  [[t_CreateADomain|Create a domain]]
-3.  [[t_AddADomainFieldToATable|Add a domain field to a table]]
+1.  [Request domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_ActivateDomainSeparation.md)
+2.  [Create a domain](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_CreateADomain.md)
+3.  [Add a domain field to a table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_AddADomainFieldToATable.md)
 
 You can also perform these basic administrative tasks on domains:
 
--   [[t_ActivateDeactivateADomainForMSP|Enable or disable a domain]]
--   [[t_ViewDomainRelationships|View domain relationships]]
--   [[t_ChangeDomainVisibility|Expand domain scope]]
--   [[t_CreateADomainSpecificChoiceList|Create a domain-specific choice list]]
+-   [Enable or disable a domain](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_ActivateDeactivateADomainForMSP.md)
+-   [View domain relationships](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_ViewDomainRelationships.md)
+-   [Expand domain scope](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_ChangeDomainVisibility.md)
+-   [Create a domain-specific choice list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_CreateADomainSpecificChoiceList.md)
 
-See [[c_DomainSeparationAdministration|Advanced domain separation administration]] for a list of tasks to perform after you set up domain separation and perform basic administration.
+See [Advanced domain separation administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_DomainSeparationAdministration.md) for a list of tasks to perform after you set up domain separation and perform basic administration.
 
-## Related
-
-- [[t_ActivateDomainSeparation|Request domain separation]]
-- [[t_CreateADomain|Create a domain]]
-- [[t_AddADomainFieldToATable|Add a domain field to a table]]
-- [[t_ActivateDeactivateADomainForMSP|Enable or disable a domain]]
-- [[t_ViewDomainRelationships|View domain relationships]]
-- [[t_ChangeDomainVisibility|Expand domain scope]]
-- [[t_CreateADomainSpecificChoiceList|Create a domain-specific choice list]]
-- [[c_DomainSeparationAdministration|Advanced domain separation administration]]
-- [[users|Users]]

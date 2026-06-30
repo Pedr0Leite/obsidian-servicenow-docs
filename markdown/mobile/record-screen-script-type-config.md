@@ -18,7 +18,7 @@ Configure script screen fields to display calculated or personalized content in 
 
 Role required: admin
 
-**Note:** For use cases and examples of how the script screen field is used, see [[record-screen-script-type|Dynamic variable support in record screens]].
+**Note:** For use cases and examples of how the script screen field is used, see [Dynamic variable support in record screens](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/record-screen-script-type.md).
 
 ## Procedure
 
@@ -42,7 +42,7 @@ Type
 
 </td><td>
 
-Type of screen field. For a list of types and a description of how they're used, see [[sg-screen-field-enhancements|Screen fields]].For this configuration, select **Script**.
+Type of screen field. For a list of types and a description of how they're used, see [Screen fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-screen-field-enhancements.md).For this configuration, select **Script**.
 
 </td></tr><tr><td>
 
@@ -58,7 +58,7 @@ Hidden
 
 </td><td>
 
-Option to avoid this field from showing on the [[form-screen|record screen]].
+Option to avoid this field from showing on the record screen.
 
 </td></tr><tr><td>
 
@@ -104,11 +104,5 @@ Script that runs when the record screen is displayed. The script must return a J
 7.  Select **Submit**.
 
 
-**Parent Topic:**[[sg-mobile-add-screen-field|Add screen fields to a record screen]]
+**Parent Topic:**[Add screen fields to a record screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-add-screen-field.md)
 
-## Related
-
-- [[record-screen-script-type|Dynamic variable support in record screens]]
-- [[sg-screen-field-enhancements|Screen fields]]
-- [[sg-mobile-add-screen-field|Add screen fields to a record screen]]
-- [[form-screen|Record screen]]

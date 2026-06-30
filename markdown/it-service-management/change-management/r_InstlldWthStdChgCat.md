@@ -20,7 +20,7 @@ Several types of components are installed with Change Management - Standard Chan
 
 ## Tables installed with Change Management - Standard Change Catalog
 
-[[c_ITILChangeManagement|Change Management]] - [[c_StandardChangeCatalogPlugin|Standard Change Catalog]] adds or modifies the following tables.
+Change Management - Standard Change Catalog adds or modifies the following tables.
 
 <table id="table_sw2_x1z_z5"><thead><tr><th>
 
@@ -76,13 +76,7 @@ Standard change template\[std\_change\_template\]
 
 </td><td>
 
-List of standard [[change-templates|change templates]].
+List of standard change templates.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]
-- [[c_StandardChangeCatalogPlugin|Standard change catalog]]
-- [[change-templates|Change templates]]

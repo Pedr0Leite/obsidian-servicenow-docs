@@ -14,7 +14,7 @@ breadcrumb: [Search application configurations, Configuring AI Search, AI Search
 
 # Show search result counts for facets on the results page for a search application
 
-Display search result counts for facets on the [[hs-results|results]] page for [[ia-ai-search|AI Search]] applications that use Seismic components. Search result counts for facets show the number of matching search results for each source facet bucket.
+Display search result counts for facets on the results page for AI Search applications that use Seismic components. Search result counts for facets show the number of matching search results for each source facet bucket.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Because the late binding security implementation may have removed some search re
 
 **Note:** Source facet buckets with 1,000 or more matching search results display **1000+** as their result count. When search result counts for facets are enabled, source facet buckets with 0 matching search results aren't shown on the search results page.
 
-To learn more about [[content-security-ais|content security in AI Search]] and how the late binding security implementation can affect search result counts, see [Content security in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/content-security-ais.md).
+To learn more about content security in AI Search and how the late binding security implementation can affect search result counts, see [Content security in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/content-security-ais.md).
 
 \[Omitted image "service-portal-result-counts-ais.png"\] Alt text: Service Portal results page showing result counts for source facet buckets.
 
@@ -40,7 +40,7 @@ Search result counts for facets are supported in search applications that use Se
 
 -   Service Portal
 -   Employee Service Center \(ESC\)
--   [[ais-next-experience-app|AI Search for Next Experience]] global and workspace search
+-   AI Search for Next Experience global and workspace search
 -   Custom UI Builder applications that use Seismic UI components
 
 Other search applications, such as Virtual Agent and Now Mobile, don't use Seismic components and so don’t support display of search result counts for facets. For best results, don't enable search result counts for facets in these search applications.
@@ -64,9 +64,3 @@ AI Search displays source facet bucket result counts on the results page for the
 
 **Parent Topic:**[Search application configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/defining-search-app-cfgs-ais.md)
 
-## Related
-
-- [[hs-results|Results]]
-- [[ia-ai-search|AI Search]]
-- [[content-security-ais|Content security in AI Search]]
-- [[ais-next-experience-app|AI Search for Next Experience]]

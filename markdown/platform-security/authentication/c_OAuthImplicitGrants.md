@@ -20,7 +20,7 @@ The implicit grant type, also known as **implicit grant code flow**, allows the 
 
 ## OAuth implicit grant flow process
 
-Just as with the standard authorization code flow process, the client application makes a [[c_requestAPI|request]] to use the restricted resource on the instance and the end user approves it. The request is in the form of a URL sent to the instance. The URL must include the following parameters:
+Just as with the standard authorization code flow process, the client application makes a request to use the restricted resource on the instance and the end user approves it. The request is in the form of a URL sent to the instance. The URL must include the following parameters:
 
 -   `client_id=<the necessary client ID>`. This is mandatory to identify which protected resource the client application wants access to.
 -   `response_type=token`. This is mandatory to request the access token directly \(as opposed to asking for an authorization code\). The value must be `token` for implicit grants. In the standard authorization code flow example, the response type is `code`.
@@ -40,6 +40,3 @@ If the user grants access, the token is included in the redirect \(callback\) UR
 https/http://{callbackURL}?access_token={the_token}
 ```
 
-## Related
-
-- [[c_requestAPI|request]]

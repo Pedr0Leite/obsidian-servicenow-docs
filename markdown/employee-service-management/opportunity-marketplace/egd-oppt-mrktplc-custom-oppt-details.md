@@ -14,7 +14,7 @@ breadcrumb: [Create custom opportunity types, Configure, Opportunity Marketplace
 
 # Create custom opportunity details records in Opportunity Marketplace
 
-You can customize the details for an opportunity type in [[egd-oppt-mrktplc-landing|Opportunity Marketplace]].
+You can customize the details for an opportunity type in Opportunity Marketplace.
 
 ## Before you begin
 
@@ -53,6 +53,3 @@ The copied \(cloned\) opportunity details record is available to select by oppor
 
 **Parent Topic:**[Creating custom opportunity types in Opportunity Marketplace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/opportunity-marketplace/egd-oppt-mrktplc-custom-oppt-type.md)
 
-## Related
-
-- [[egd-oppt-mrktplc-landing|Opportunity Marketplace]]

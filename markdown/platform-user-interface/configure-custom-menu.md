@@ -38,7 +38,7 @@ Role required: admin
 
 4.  Select **Submit**.
 
-5.  To [[configure-onboarding-modals|configure]] Unified Navigation configurable menu items, select your menu from the Unified Navigation Menus list.
+5.  To configure Unified Navigation configurable menu items, select your menu from the Unified Navigation Menus list.
 
 6.  Select **New**. The form displays the **Application** or **Module** field, depending on your selection.
 
@@ -102,9 +102,5 @@ Order that the menu item appears in the menu list.
     The new menu is displayed. If it does not appear, ensure that active is marked and then refresh your instance.
 
 
-**Parent Topic:**[[next-experience-ui-admin|Configuring the Next Experience UI]]
+**Parent Topic:**[Configuring the Next Experience UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-ui-admin.md)
 
-## Related
-
-- [[next-experience-ui-admin|Configuring the Next Experience UI]]
-- [[configure-onboarding-modals|Configure]]

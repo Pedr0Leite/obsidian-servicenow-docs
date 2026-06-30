@@ -40,7 +40,7 @@ Standard
 
 </td><td>
 
-Industrial Guided Task standard to run. Visible and required when **Type** is **Standard**. [[work-set-standards|Work set standards]] are excluded from selection because a work set can't contain another work set. Available standards are filtered to those that are global or in the user's site.
+Industrial Guided Task standard to run. Visible and required when **Type** is **Standard**. Work set standards are excluded from selection because a work set can't contain another work set. Available standards are filtered to those that are global or in the user's site.
 
 </td></tr><tr><td>
 
@@ -108,6 +108,3 @@ If a functional location is not provided in either location, the standard can't 
 
 [Work set standard and task life cycles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/work-set-standard-task-life-cycle.md)
 
-## Related
-
-- [[work-set-standards|Work set standards]]

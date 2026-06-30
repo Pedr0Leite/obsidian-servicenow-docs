@@ -14,13 +14,13 @@ breadcrumb: [Installing Edge Encryption, Edge Encryption, Encryption]
 
 # Install the Edge Encryption proxy server using the command line installer
 
-Manually install multiple [[edge-encryption|Edge Encryption]] proxy servers in your network.
+Manually install multiple Edge Encryption proxy servers in your network.
 
 ## Before you begin
 
 Roles required: security\_admin on your ServiceNow instance and local administrator on the host machine.
 
-If order preserving [[encryption-landing|encryption]] types or encryption patterns are to be used, set up a MySQL database on a machine in your network if not already present.
+If order preserving encryption types or encryption patterns are to be used, set up a MySQL database on a machine in your network if not already present.
 
 **Note:** If using Unbound Technology encryption keys with Edge Encryption, install the proxy server using the command line installer on the Unbound client machine. The Edge Encryption proxy server must run on the same machine as the Unbound technology client.
 
@@ -31,7 +31,7 @@ First, set up a single Edge Encryption proxy server. After your first proxy serv
 1.  [Install the Edge Encryption proxy server \(command line installer\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/install-edge-linux-windows.md)  
 Install an Edge Encryption proxy on a 64-bit Windows or Linux computer.
 2.  [Create and configure the RSA key pair for the digital signature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/t_SetUpAKeyPair.md)  
-Create an RSA key pair that the proxy server can use to create the digital signature for signing changes to the encryption properties and [[sc-configuration|configuration]].
+Create an RSA key pair that the proxy server can use to create the digital signature for signing changes to the encryption properties and configuration.
 3.  [Import and configure the certificate for secure SSL connection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/t_SetUpSecureSSLConnection.md)  
 To use a secure SSL connection, import a server certificate and add it to the Java KeyStore.
 4.  [Set up a keystore and encryption keys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/set-up-keystore.md)  
@@ -53,8 +53,3 @@ After the first Edge Encryption proxy is properly configured and tested, you can
 
 **Parent Topic:**[Installing Edge Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/c_InstallEdgeEncryptionProxy.md)
 
-## Related
-
-- [[edge-encryption|Edge Encryption]]
-- [[encryption-landing|Encryption]]
-- [[sc-configuration|Configuration]]

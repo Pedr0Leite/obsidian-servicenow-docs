@@ -36,7 +36,7 @@ Configure GitLab as an OAuth 2.0 authentication identity provider. For more info
 
 ### Procedure
 
-1.  From your GitLab account, create your App by navigating to **Edit Profile** &gt; **[[dex-workspace-application-tab|Applications]]**.
+1.  From your GitLab account, create your App by navigating to **Edit Profile** &gt; **Applications**.
 
 2.  In the **Add new application** form, specify a **Name**, and in **Redirect URI** field, enter `https://<instance-name>.service-now.com/oauth_redirect.do`.
 
@@ -69,7 +69,7 @@ Role required: admin
 
 3.  Select **Connect to a third party OAuth Provider**.
 
-    The system displays an empty [[application-registries-form|Application Registries form]].
+    The system displays an empty Application Registries form.
 
 4.  Complete the form.
 
@@ -189,7 +189,4 @@ Role required: admin
 
     A successful token generation indicates that you can now authenticate connection between ServiceNow DevOps and GitLab via OAuth.
 
-## Related
 
-- [[dex-workspace-application-tab|Applications]]
-- [[application-registries-form|Application Registries form]]

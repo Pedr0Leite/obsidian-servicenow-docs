@@ -14,7 +14,7 @@ breadcrumb: [Knowledge Management, Manage content capabilities, Extend ServiceNo
 
 # Using Knowledge Management
 
-Use [[knowledge-management|Knowledge Management]] to search and find information on self-help, troubleshooting, and task resolution in knowledge bases.
+Use Knowledge Management to search and find information on self-help, troubleshooting, and task resolution in knowledge bases.
 
 -   **[Knowledge Management guide for users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/get-started-knowledge-end-users.md)**  
 After knowledge bases are set up, you can start searching and creating articles.
@@ -29,29 +29,29 @@ Reminders enable relevant users to review knowledge articles and complete tasks 
 -   **[Using the homepage of Knowledge Management v3](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/c_KnowledgeHomepage.md)**  
 The Knowledge Management v3 homepage displays knowledge articles organized by knowledge base and category, as well as featured content and popular articles.
 -   **[Request a knowledge base](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/t_RequestAKnowledgeBase.md)**  
-If existing knowledge bases do not fit your needs, you can request a new knowledge base through the [[service-catalog|service catalog]]. If the request is approved, you are added as the owner of the new knowledge base.
+If existing knowledge bases do not fit your needs, you can request a new knowledge base through the service catalog. If the request is approved, you are added as the owner of the new knowledge base.
 -   **[Import a Word document to a knowledge base](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/import-word-platform.md)**  
-Import a Word document to [[create-knowledge-article|create a knowledge article]].
+Import a Word document to create a knowledge article.
 -   **[Use knowledge on mobile devices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/c_UsingKnowledgeOnMobile.md)**  
 All users can access knowledge from mobile devices to search for and view knowledge articles.
 -   **[Using Now Mobile for Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/mobile-experience-for-km.md)**  
 Access knowledge articles from anywhere using the Information applet on the Now Mobile app. You can view recently viewed and most popular articles, search for articles, browse articles by category, and provide feedback for articles.
 -   **[Manage ownership groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/create-edit-ownership-group.md)**  
-Create [[enable-ownership-group|ownership groups]] and associate them to knowledge articles. Knowledge group managers or knowledge administrators can edit ownership groups.
+Create ownership groups and associate them to knowledge articles. Knowledge group managers or knowledge administrators can edit ownership groups.
 -   **[Use article versioning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/use-article-versioning_0.md)**  
-[[use-article-versioning_0|Use article versioning]] to create and maintain multiple versions of a knowledge article.
+Use article versioning to create and maintain multiple versions of a knowledge article.
 -   **[Using knowledge blocks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/using-knowlege-blocks.md)**  
-Use [[knowledge-blocks|knowledge blocks]] to simplify knowledge authoring for writers and knowledge consumption for readers.
+Use knowledge blocks to simplify knowledge authoring for writers and knowledge consumption for readers.
 -   **[Use knowledge subscriptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/use-knowledge-subscriptions.md)**  
-[[use-knowledge-subscriptions|Use knowledge subscriptions]] to receive [[email|email]] notifications about new articles and article revisions or comments.
+Use knowledge subscriptions to receive email notifications about new articles and article revisions or comments.
 -   **[Use translation management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/use-translation-management.md)**  
-[[use-translation-management|Use translation management]] to create and manage translation tasks.
+Use translation management to create and manage translation tasks.
 -   **[Work on a feedback task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/review-reassign-feedback-task.md)**  
 You can change the state of a task and resolve or reassign tasks generated by article feedback.
 -   **[Track the progress on a feedback task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/track-feedback-task-metrics.md)**  
 Monitor open and closed feedback tasks and track the duration of time a feedback task remains in each state.
 -   **[Use Article Quality Index](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/use-article-quality-index.md)**  
-[[use-article-quality-index|Use article quality index]] \(AQI\) to assess the quality of knowledge articles.
+Use article quality index \(AQI\) to assess the quality of knowledge articles.
 -   **[Managing KCS article states](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/managing-kcs-article-states.md)**  
 Manage the readiness of KCS articles and comply with regulated information using KCS article states.
 -   **[Knowledge article creation from an incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/article-from-incident.md)**  
@@ -61,15 +61,3 @@ To use the new functionality available in knowledge v3 with legacy articles, you
 
 **Parent Topic:**[Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/knowledge-management.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]
-- [[service-catalog|Service Catalog]]
-- [[create-knowledge-article|Create a knowledge article]]
-- [[enable-ownership-group|Ownership groups]]
-- [[use-article-versioning_0|Use article versioning]]
-- [[knowledge-blocks|Knowledge blocks]]
-- [[use-knowledge-subscriptions|Use knowledge subscriptions]]
-- [[email|Email]]
-- [[use-translation-management|Use translation management]]
-- [[use-article-quality-index|Use Article Quality Index]]

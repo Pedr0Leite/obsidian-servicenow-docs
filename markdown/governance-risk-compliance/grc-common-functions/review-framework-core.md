@@ -18,7 +18,7 @@ Review the Framework Core that's activated with the NIST CSF application.
 
 ## Before you begin
 
-[[r_PolicyComplianceMgmt|Policy and Compliance Management]] Role required: admin
+Policy and Compliance Management Role required: admin
 
 NIST CSF role required: sn\_irm\_nist\_csf.risk\_executive or sn\_irm\_nist\_csf.security\_officer
 
@@ -32,7 +32,7 @@ NIST CSF role required: sn\_irm\_nist\_csf.risk\_executive or sn\_irm\_nist\_csf
     -   **Respond**
     -   **Recover**
     -   **Govern**
-2.  In the Policy to [[tprm-control-objective-form|Control Objectives form]], click on one of the policy statements to review the information.
+2.  In the Policy to Control Objectives form, click on one of the policy statements to review the information.
 
     **Note:** Policy statements are grouped by policies based on NIST CSF guidelines.
 
@@ -43,7 +43,3 @@ NIST CSF role required: sn\_irm\_nist\_csf.risk\_executive or sn\_irm\_nist\_csf
 
 **Parent Topic:**[Identify the framework core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/identify-framework-core.md)
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[tprm-control-objective-form|Control objectives form]]

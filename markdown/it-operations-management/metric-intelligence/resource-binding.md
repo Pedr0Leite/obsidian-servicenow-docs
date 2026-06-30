@@ -16,7 +16,7 @@ breadcrumb: [Metric binding, Exploring Metric Intelligence, Metric Intelligence,
 
 Bind metrics to resources to simplify metric events binding by enabling binding to resources such as specific disks or web pages, in addition to binding to CIs.
 
-[[operational-metrics|Metric Intelligence]] models metric series in either of the following methods:
+Metric Intelligence models metric series in either of the following methods:
 
 -   Binding a metric series to a CI and to the metric being monitored for that CI using a 'CI/Metric' format. For example, 'win\_server\_001/response\_time\_mean'.
 -   Binding a metric series to a CI, a resource within that CI, and the metric being monitored for that resource, using a 'CI/Resource/Metric' format. For example, 'win\_server\_001/Disk — C/disk\_usage'. This method is referred to as **resource binding**.
@@ -25,7 +25,7 @@ The first method enables modeling, storing, aggregating, and querying data at th
 
 Use cases:
 
--   Common examples are disks, processors, and network interfaces. In cases in which these entities are being monitored but do not exist in the CMDB, using resources for [[metric-binding|metric binding]] is useful.
+-   Common examples are disks, processors, and network interfaces. In cases in which these entities are being monitored but do not exist in the CMDB, using resources for metric binding is useful.
 -   Some monitoring solutions capture metric data within services such as KPIs for individual web pages in an application. In such cases where the entity being monitored is not a configuration item, metric binding to resources can be helpful.
 
 In those situations, using resource binding results in more meaningful aggregations across similar metrics \(such as: avg disk\_usage for a host across all disks\).
@@ -75,7 +75,3 @@ Mappings of CI classes to resource classes are stored in the CI Type To Resource
 |cmdb\_ci\_database|ci\_resource\_database|
 |cmdb\_ci\_vm\_object|ci\_resource\_vm\_object|
 
-## Related
-
-- [[operational-metrics|Metric Intelligence]]
-- [[metric-binding|Metric binding]]

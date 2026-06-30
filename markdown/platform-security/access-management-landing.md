@@ -17,7 +17,7 @@ Access Management enables you to have access to ServiceNow® instance securely.
 
 [Zero Trust Access\[Omitted image "bus-agent-workspace-1.svg"\] Alt text: Trust Access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/session-access.md)
 
- [[session-access|Zero Trust Access ensures that all access to applications and data is granted on a least privilege basis, only after the user's identity verification and risk assessment.]]
+ [Zero Trust Access ensures that all access to applications and data is granted on a least privilege basis, only after the user's identity verification and risk assessment.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/session-access.md)
 
 </td><td>
 
@@ -27,7 +27,7 @@ Access Management enables you to have access to ServiceNow® instance securely.
 
 </td><td>
 
-[Authentication\[Omitted image "bus-firewall.svg"\] Alt text: [[c_Authentication|Authentication]]\`](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/c_Authentication.md)
+[Authentication\[Omitted image "bus-firewall.svg"\] Alt text: Authentication\`](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/c_Authentication.md)
 
  [ServiceNow's authentication validates the identity of a user who accesses an instance, and then authorizes the user to features that match the user's role or job function.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/c_Authentication.md)
 
@@ -41,13 +41,13 @@ Access Management enables you to have access to ServiceNow® instance securely.
 
 [Security Data Filters\[Omitted image "bus-filter.svg"\] Alt text: Filter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-data-filters.md)
 
- [[security-data-filters|Use security data filters to restrict user access to records based on a user's role or other security attribute-related assertions.]]
+ [Use security data filters to restrict user access to records based on a user's role or other security attribute-related assertions.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-data-filters.md)
 
 </td><td>
 
 [Security Roles\[Omitted image "bus-discover.svg"\] Alt text: Security roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-roles.md)
 
- [[security-roles|Security Roles provide added security, every user must have at least one role so that the instance can distinguish between internal and external users.]]
+ [Security Roles provide added security, every user must have at least one role so that the instance can distinguish between internal and external users.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-roles.md)
 
 </td></tr><tr><td>
 
@@ -57,9 +57,9 @@ Access Management enables you to have access to ServiceNow® instance securely.
 
 </td><td>
 
-[ServiceNow [[sc-access-control|Access Control]]\[Omitted image "bus-manager.svg"\] Alt text: Access Control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_SNCAccessControl.md)
+[ServiceNow Access Control\[Omitted image "bus-manager.svg"\] Alt text: Access Control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_SNCAccessControl.md)
 
- [[c_SNCAccessControl|The SNC Access Control plugin enables you to control which Customer Service and Support employees can access your instance, and when.]]
+ [The SNC Access Control plugin enables you to control which Customer Service and Support employees can access your instance, and when.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_SNCAccessControl.md)
 
 </td><td>
 
@@ -67,12 +67,3 @@ Access Management enables you to have access to ServiceNow® instance securely.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[session-access|Zero Trust Access \(ZTA\)]]
-- [[security-data-filters|Security data filters]]
-- [[security-roles|Security Roles]]
-- [[c_SNCAccessControl|ServiceNow access control]]
-- [[c_Authentication|Authentication]]
-- [[sc-access-control|Access control]]

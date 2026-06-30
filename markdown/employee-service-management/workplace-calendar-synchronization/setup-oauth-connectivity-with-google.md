@@ -14,7 +14,7 @@ breadcrumb: [Google Calendar - Calendar synchronization, Setup Workplace Calenda
 
 # Setup OAuth connectivity with Google Calendar
 
-Create an application registry for Google Calendar with ServiceNow to synchronize reservations. Perform this app registration if you want to [[create-own-connection-credential-alias-for-google|create your own connection and credential alias for Google]] Calendar.
+Create an application registry for Google Calendar with ServiceNow to synchronize reservations. Perform this app registration if you want to create your own connection and credential alias for Google Calendar.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Create an application registry for Google Calendar with ServiceNow to synchroniz
 
 Ensure that the application scope is set to **Google Calendar Spoke**. Otherwise, do the following:
 
-1.  Select the Application scope icon \(\[Omitted image "application-scope-globe-icon.png"\] Alt text: Application scope to set the scope of your application.\) on the top-right corner of your [[employee-center-landing-page|Employee Center]] homepage.
+1.  Select the Application scope icon \(\[Omitted image "application-scope-globe-icon.png"\] Alt text: Application scope to set the scope of your application.\) on the top-right corner of your Employee Center homepage.
 2.  In the drop- down, select the option consisting **Application scope:**.
 3.  In the filter navigator, search and select **Google Calendar Spoke**.
 4.  Refresh the page.
@@ -96,7 +96,3 @@ The OAuth connectivity is added for Google.
 
 [Create your own connection and credential alias for Google](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/create-own-connection-credential-alias-for-google.md)
 
-## Related
-
-- [[create-own-connection-credential-alias-for-google|Create your own connection and credential alias for Google]]
-- [[employee-center-landing-page|Employee Center]]

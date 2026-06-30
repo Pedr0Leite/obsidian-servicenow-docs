@@ -26,7 +26,7 @@ Report groups are displayed in the Customer Information view in Agent Workspace.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[customer-central|Customer Central]]** &gt; **Customer Information** &gt; **Report Group Configurations**.
+1.  Navigate to **All** &gt; **Customer Central** &gt; **Customer Information** &gt; **Report Group Configurations**.
 
 2.  Select **New**.
 
@@ -67,6 +67,4 @@ Select the list of reports to be displayed in the group.
 </td></tr></tbody>
 </table>4.  Select **Submit**.
 
-## Related
 
-- [[customer-central|Customer Central]]

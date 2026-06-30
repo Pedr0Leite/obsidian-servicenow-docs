@@ -13,7 +13,7 @@ breadcrumb: [Tuning the semantic layer, Configure, Query Generation, Now Assist 
 
 # Query Generation Health page
 
-The health page shows the state of the Now LLM and AI Search, along with the states of [[query-generation|Query Generation]] system properties, enabled products, and dependency plugins.
+The health page shows the state of the Now LLM and AI Search, along with the states of Query Generation system properties, enabled products, and dependency plugins.
 
 ## Health page overview
 
@@ -57,7 +57,7 @@ The state of Query Generation skills and the LLMs they use. Also the state of AI
 
 </td><td>
 
-For Query Generation skills, if any are inactive, navigate to Now Assist Admin. Activate skills there as described in [[enable-query-generation|Query Generation skills]]. If you have error messages, contact your Generative AI Controller administrator or Now Support.For AI Search, consult your organization's AI Search administrators.
+For Query Generation skills, if any are inactive, navigate to Now Assist Admin. Activate skills there as described in [Query Generation skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/enable-query-generation.md). If you have error messages, contact your Generative AI Controller administrator or Now Support.For AI Search, consult your organization's AI Search administrators.
 
 </td></tr><tr><td>
 
@@ -108,10 +108,5 @@ The state of relevant system properties that can be modified by an administrator
 Navigate to the Properties \[sys\_properties\] table and change the value of the property in question. Update only the required properties that start with sn\_query\_gen. \*\*
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[semantic-layer-tuning-overview|Tuning the semantic layer]]
+</table>**Parent Topic:**[Tuning the semantic layer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/semantic-layer-tuning-overview.md)
 
-## Related
-
-- [[enable-query-generation|Query Generation skills]]
-- [[semantic-layer-tuning-overview|Tuning the semantic layer]]
-- [[query-generation|Query Generation]]

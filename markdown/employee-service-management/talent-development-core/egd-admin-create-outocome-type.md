@@ -26,7 +26,7 @@ An **Outcome Type** is used to categorize activities into logical outcomes.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[egd-landing-page|Talent Development Core]]** &gt; **Growth Plans** &gt; **Outcome Types**.
+1.  Navigate to **All** &gt; **Talent Development Core** &gt; **Growth Plans** &gt; **Outcome Types**.
 
 2.  Select **New**.
 
@@ -39,6 +39,3 @@ An **Outcome Type** is used to categorize activities into logical outcomes.
 
 **Parent Topic:**[Administer and maintain the Talent Development Core app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-administration.md)
 
-## Related
-
-- [[egd-landing-page|Talent Development Core]]

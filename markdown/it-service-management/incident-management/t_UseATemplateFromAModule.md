@@ -33,7 +33,7 @@ In the [Create incident template](https://raw.githubusercontent.com/ServiceNow/S
 3.  On the form, fill in the fields.
 
     -   **Title**: `Bond Trading Access Denied`.
-    -   **Order**: In the Module records list, view the order numbers and enter a number that is appropriate. For example, if the order number of **Homepage** is 50 and the order number of **Business [[dex-workspace-application-tab|Applications]]** is 52, and you want to place the new module between **Homepage** and **Business Applications**, enter the order number as 51.
+    -   **Order**: In the Module records list, view the order numbers and enter a number that is appropriate. For example, if the order number of **Homepage** is 50 and the order number of **Business Applications** is 52, and you want to place the new module between **Homepage** and **Business Applications**, enter the order number as 51.
     -   **Hint**: `Log an incident about the Bond Trade application`.
     Link Type section:
 
@@ -64,6 +64,3 @@ Select the module to open a new incident record with the applied Bond Trading Ac
 
 [Create a record producer using a template]()
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]

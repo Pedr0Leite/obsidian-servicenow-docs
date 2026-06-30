@@ -12,13 +12,13 @@ breadcrumb: [Manage cases, Use, Customer Service Management]
 
 # Create a customer service case
 
-Customer service agents and agent managers can create cases using the [[c_CustomerServiceManagement|Customer Service Management]] application.
+Customer service agents and agent managers can create cases using the Customer Service Management application.
 
 ## Before you begin
 
 Role required: sn\_customerservice\_agent, sn\_customerservice\_manager, or admin
 
-**Note:** Apart from these roles, contributor roles also can create cases. To learn more, see [[csm-contributor-user-roles|Contributor user roles]].
+**Note:** Apart from these roles, contributor roles also can create cases. To learn more, see [Contributor user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-contributor-user-roles.md).
 
 ## Procedure
 
@@ -34,7 +34,7 @@ Description
 
 </th></tr></thead><tbody><tr><td id="d238391e83">
 
-**[[csm-workspaces-configure|CSM Configurable Workspace]]**
+**CSM Configurable Workspace**
 
 </td><td>
 
@@ -48,14 +48,14 @@ From the Interaction form, select **Create Case**.
 
 Navigate to **Customer Service** &gt; **Cases** &gt; **Create New**.You can also create cases by:
 
--   Selecting **New** from the [[c_CustomerServiceCaseList|Customer Service Cases list]].
+-   Selecting **New** from the Customer Service Cases list.
 -   Selecting the Create New Case related link from any of the entities that can be associated with a case, such as accounts or products.
 
 
 </td></tr></tbody>
 </table>2.  On the Create Case form, fill in the fields.
 
-    To learn more about the fields on the Case form, see [[r_CustomerServiceCaseForm|Case form]]
+    To learn more about the fields on the Case form, see [Case form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_CustomerServiceCaseForm.md)
 
 3.  Select **Submit**.
 
@@ -68,10 +68,3 @@ If available, the following information is associated with a newly created case:
 -   The product and contract details
 -   The SLA and entitlements
 
-## Related
-
-- [[csm-contributor-user-roles|Contributor user roles]]
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[c_CustomerServiceCaseList|Customer Service Cases list]]

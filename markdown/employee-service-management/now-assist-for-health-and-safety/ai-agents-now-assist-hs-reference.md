@@ -14,9 +14,5 @@ breadcrumb: [Now Assist for Health and Safety, Health and Safety, Employee Servi
 
 # Health and safety Now Assist Reference
 
-Using the [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] topics, learn about the components, such as the roles, tables, plugins, and store applications that are installed when you install the [[now-assist-hs-landing|Now Assist for Health and Safety]] plugin.
+Using the reference topics, learn about the components, such as the roles, tables, plugins, and store applications that are installed when you install the Now Assist for Health and Safety plugin.
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[now-assist-hs-landing|Now Assist for Health and Safety]]

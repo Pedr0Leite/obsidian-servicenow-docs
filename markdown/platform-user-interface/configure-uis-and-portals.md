@@ -24,22 +24,22 @@ Customize your interface to create an efficient, unique experience for users and
 
 </td><td>
 
-[Working in [[c_UI16|Core UI]] \[Omitted image "bus-agent-workspace-1.svg"\] Alt text: Icon for [[working-in-ui16-and-ui15|Working in Core UI]] Upgrade the user experience with custom homepages and URL navigation, all in Core UI.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/working-in-ui16-and-ui15.md)
+[Working in Core UI \[Omitted image "bus-agent-workspace-1.svg"\] Alt text: Icon for Working in Core UI Upgrade the user experience with custom homepages and URL navigation, all in Core UI.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/working-in-ui16-and-ui15.md)
 
 </td></tr><tr><td>
 
-[Service Portal \[Omitted image "bus-discover.svg"\] Alt text: Icon for working with [[c_ServicePortal|Service Portal]] Build the perfect self-service interface for your customers with the mobile-friendly Service Portal.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ServicePortal.md)
+[Service Portal \[Omitted image "bus-discover.svg"\] Alt text: Icon for working with Service Portal Build the perfect self-service interface for your customers with the mobile-friendly Service Portal.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ServicePortal.md)
 
 </td><td>
 
-[Content Management System \[Omitted image "bus-learn.svg"\] Alt text: Icon for working with [[c_ContentManagementSystem|Content Management System]] Design custom interfaces for the ServiceNow platform and its applications using this highly flexible application.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_ContentManagementSystem.md)
+[Content Management System \[Omitted image "bus-learn.svg"\] Alt text: Icon for working with Content Management System Design custom interfaces for the ServiceNow platform and its applications using this highly flexible application.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_ContentManagementSystem.md)
 
 </td><td>
 
  
 
 </td></tr></tbody>
-</table>## [[next-experience-landing-page|Next Experience UI]]
+</table>## Next Experience UI
 
 Personalize your experience to increase productivity and engagement. With the Next Experience UI, you can take control of navigation with all app shell items in one place. The ServiceNow AI Platform lets you create custom menus and landing pages. You can easily move between core UI apps and personalized workspaces.
 
@@ -49,7 +49,7 @@ Create a workspace that works perfectly for you and your business needs. The Wor
 
 ## Working in Core UI
 
-[[exploring|Explore]] improvements in both usability and design with Core UI. Easy URL-based navigation to records or modules brings you the data that you want in an instant, from full addresses to tiny-URL-supported links. Building homepages to your specifications lets you have all the navigation, controls, and system info you need to work most efficiently.
+Explore improvements in both usability and design with Core UI. Easy URL-based navigation to records or modules brings you the data that you want in an instant, from full addresses to tiny-URL-supported links. Building homepages to your specifications lets you have all the navigation, controls, and system info you need to work most efficiently.
 
 ## Service Portal
 
@@ -59,11 +59,3 @@ Design the optimal self-service experience with Service Portal. Connected to the
 
 Build everything from full websites to integrated apps using CMS. This powerful application offers a range of solutions for your business, whether you need an interface based on a simple search bar, or detailed text-and-image-based layouts. Options such as full internationalization and translation further expand your customer reach and influence.
 
-## Related
-
-- [[c_UI16|Core UI]]
-- [[working-in-ui16-and-ui15|Working in Core UI]]
-- [[c_ServicePortal|Service Portal]]
-- [[c_ContentManagementSystem|Content Management System]]
-- [[next-experience-landing-page|Next Experience UI]]
-- [[exploring|Explore]]

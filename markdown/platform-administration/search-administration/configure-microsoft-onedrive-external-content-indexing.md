@@ -15,7 +15,7 @@ breadcrumb: [Microsoft OneDrive external content connector, Configure, External 
 
 # Configure Microsoft OneDrive for external content indexing
 
-Register an OAuth 2.0 application in the Microsoft Entra [[admin-center-intro|admin center]] to allow the [[microsoft-onedrive-external-content-connector|Microsoft OneDrive external content connector]] to access your Microsoft OneDrive source system.
+Register an OAuth 2.0 application in the Microsoft Entra admin center to allow the Microsoft OneDrive external content connector to access your Microsoft OneDrive source system.
 
 ## Before you begin
 
@@ -147,7 +147,3 @@ For details on creating and configuring a Microsoft OneDrive external content co
 
 **Parent Topic:**[Microsoft OneDrive external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/microsoft-onedrive-external-content-connector.md)
 
-## Related
-
-- [[admin-center-intro|Admin Center]]
-- [[microsoft-onedrive-external-content-connector|Microsoft OneDrive external content connector]]

@@ -20,7 +20,7 @@ Role required: sn\_sec\_exception.admin
 
 ## About this task
 
-You can also request an extension from the [[sem-workspace-user-interface|Security Exposure Management Workspace]].
+You can also request an extension from the Security Exposure Management Workspace.
 
 ## Procedure
 
@@ -82,9 +82,5 @@ Enter any other relevant information.
     -   The Request Extension button is unavailable for remediation tasks that are created as part of an exception rule.
     -   If a deferred remediation task is extended again, the extend deferral count increases in the backend.
 
-**Parent Topic:**[[sem-exception-management-overview|Exception Management Overview]]
+**Parent Topic:**[Exception Management Overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-exception-management-overview.md)
 
-## Related
-
-- [[sem-exception-management-overview|Exception Management Overview]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]

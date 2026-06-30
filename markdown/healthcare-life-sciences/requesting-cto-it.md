@@ -12,18 +12,14 @@ breadcrumb: [Care Team Operations for Healthcare IT, Healthcare Operations, Heal
 
 # Creating service requests in Care Team Operations for Healthcare IT
 
-Use the [[care-team-portal-landing|Care Team Portal]] to report EMR or other IT issues to support teams for fulfillment.
+Use the Care Team Portal to report EMR or other IT issues to support teams for fulfillment.
 
--   [[hcls-cto-it-report-emr-issue|Report an EMR issue with Care Team Operations for IT]]
+-   [Report an EMR issue with Care Team Operations for IT](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hcls-cto-it-report-emr-issue.md)
 
     Report any issue with your EMR system using the Report an EMR issue catalog item from the Care Team Operations portal.
 
--   [[hcls-cto-it-request-other-service|Request other IT service with Care Team Operations for IT]]
+-   [Request other IT service with Care Team Operations for IT](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hcls-cto-it-request-other-service.md)
 
     Request IT service for non-EMR issues using the Request other IT service catalog item from the Care Team Portal.
 
-## Related
 
-- [[hcls-cto-it-report-emr-issue|Report an EMR issue with Care Team Operations for IT]]
-- [[hcls-cto-it-request-other-service|Request other IT service with Care Team Operations for IT]]
-- [[care-team-portal-landing|Care Team Portal]]

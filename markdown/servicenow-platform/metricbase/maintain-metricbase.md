@@ -14,7 +14,7 @@ breadcrumb: [MetricBase, Manage instance data sources, Extend ServiceNow AI Plat
 
 # Managing MetricBase
 
-View the overall health and performance of [[metricbase|MetricBase]], and debug its triggers and scripts.
+View the overall health and performance of MetricBase, and debug its triggers and scripts.
 
 ## Overview of managing MetricBase
 
@@ -139,6 +139,4 @@ Role required: admin
 
     Session debug tracking for MetricBase activities starts and the MetricBase Status page displays.
 
-## Related
 
-- [[metricbase|MetricBase]]

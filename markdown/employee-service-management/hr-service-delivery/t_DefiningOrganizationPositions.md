@@ -14,7 +14,7 @@ breadcrumb: [Managed lists, HR Administration, Configure, Case and Knowledge Man
 
 # Add or modify employee positions
 
-As part of the Human Resources setup process, you define positions to describe employee job functions within the organization. Positions are associated with employees in the [[c_HRProfileRecords|HR profile]].
+As part of the Human Resources setup process, you define positions to describe employee job functions within the organization. Positions are associated with employees in the HR profile.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Create position records for your organization. Other organization information, s
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **[[c_ManagedLists|Managed Lists]]** &gt; **Positions**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **Managed Lists** &gt; **Positions**.
 
 2.  Click **New** to create a position, or click an entry to open an existing position.
 
@@ -41,8 +41,3 @@ Create position records for your organization. Other organization information, s
 
 **Parent Topic:**[Managed lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_ManagedLists.md)
 
-## Related
-
-- [[c_HRProfileRecords|HR Profile]]
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[c_ManagedLists|Managed lists]]

@@ -14,16 +14,16 @@ breadcrumb: [Setting up and configuring Universal Task, Universal Task, Employee
 
 # Configuring your service for Universal Task
 
-You can configure the UI actions and related lists for the [[universal-task-landing|Universal Task]] application so that you can view and create universal tasks for your service. Services are the various departments in your organization, such as IT, HR, and Legal.
+You can configure the UI actions and related lists for the Universal Task application so that you can view and create universal tasks for your service. Services are the various departments in your organization, such as IT, HR, and Legal.
 
 1.  [Assign Universal Task admin role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/assign-ut-admin-role.md)  
 Assign the sn\_uni\_task.admin role to the application administrators so that they can integrate and configure Universal Task. Roles control access to features, capabilities, and data.
 2.  [Create UI actions for your service with Universal Task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/config-uiactions-for-ut.md)  
 Create UI actions for your service so that agents can create universal tasks.
 3.  [Add a Universal Task related list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/create-relatedlist-ur.md)  
-[[create-relatedlist-ur|Add a Universal Task related list]] to a service-specific form in both the ServiceNow AI Platform and Agent Workspace to let agents view a universal task for the request.
+Add a Universal Task related list to a service-specific form in both the ServiceNow AI Platform and Agent Workspace to let agents view a universal task for the request.
 4.  [Add a Task tab on the Standard Ticket page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/config-stdtktpage-for-ut.md)  
-[[config-stdtktpage-for-ut|Add a Task tab on the Standard Ticket page]] to let employees view the tasks that are assigned to them by the agents.
+Add a Task tab on the Standard Ticket page to let employees view the tasks that are assigned to them by the agents.
 5.  [Define the agent criteria for Universal Task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/ut-config-extn-point-agent.md)  
 Define the criteria for an agent so that the agent can access the parent table for Universal Task. The default criteria is that agents must have write access to the parent table.
 6.  [Configure Universal Task for your service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/config-ut-for-service.md)  
@@ -37,16 +37,9 @@ Provide the implementation for childTaskCancelled, childTaskCompleted, childTask
 10. [Display the universal tasks for a request in Now Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/ut-mobile-config-tasktab.md)  
 Display all the universal tasks that are assigned for a particular request by simply configuring the **Tasks** tab in Now Mobile.
 11. [Hide the template bar on the Universal Task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/ut-hide-template-bar.md)  
-Hide the template bar for the [[universal-task-form|Universal Task form]] because it does not include [[ut-task-template-landing|Universal Task templates]].
+Hide the template bar for the Universal Task form because it does not include Universal Task templates.
 12. [Remove the Universal Task admin role from the admin role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/ut-remove-admin-role.md)  
 After system configuration, remove the Universal Task Admin role \(sn\_uni\_task.admin\) from IT System Administrator role \(admin\) to help prevent IT System Administrators from viewing sensitive information via forms, lists and UI.
 
 **Parent Topic:**[Setting up and configuring Universal Task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/set-up-universal-task.md)
 
-## Related
-
-- [[universal-task-landing|Universal Task]]
-- [[create-relatedlist-ur|Add a Universal Task related list]]
-- [[config-stdtktpage-for-ut|Add a Task tab on the Standard Ticket page]]
-- [[universal-task-form|Universal Task form]]
-- [[ut-task-template-landing|Universal Task templates]]

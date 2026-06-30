@@ -46,7 +46,7 @@ You cannot group by Record Producer variables. For more information, see Record 
 
 ## Group or stack a report by questions
 
-You can create reports grouped or stacked by questions, as well as create filters on the same questions. For example, you can [[t_CreateYourOwnReport|create a report]] that shows customer responses of their reasons for requesting help, or descriptions of their issues.
+You can create reports grouped or stacked by questions, as well as create filters on the same questions. For example, you can create a report that shows customer responses of their reasons for requesting help, or descriptions of their issues.
 
 ### Before you begin
 
@@ -56,11 +56,11 @@ Role required: itil, report\_user, report\_group, report\_global, report\_admin,
 
 You can apply these steps to any report type as long as the report source has questions associated with it. If the report source does not have questions, the **Questions** option does not display in the **Group by** and **Stack by** fields.
 
-**Note:** List, Box, Trendbox, and Pivot reports cannot use questions as a primary or secondary **Group by**. Single Score, Calendar, Control, Histogram, and [[c_MapReport|Map reports]] do not support **Group by** on any fields. [[list-reports|List reports]] can use questions as columns. Multilevel Pivot reports can use questions as columns and rows.
+**Note:** List, Box, Trendbox, and Pivot reports cannot use questions as a primary or secondary **Group by**. Single Score, Calendar, Control, Histogram, and Map reports do not support **Group by** on any fields. List reports can use questions as columns. Multilevel Pivot reports can use questions as columns and rows.
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Data Visualizations** and select **New**.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations** and select **New**.
 
 2.  On the **Data** tab, give the report a name that reflects the information being grouped.
 
@@ -119,9 +119,4 @@ You can apply these steps to any report type as long as the report source has qu
 
     See [Creating reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-types-creation-details-rd.md).
 
-## Related
 
-- [[t_CreateYourOwnReport|Create a report]]
-- [[c_MapReport|Map reports]]
-- [[list-reports|List reports]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

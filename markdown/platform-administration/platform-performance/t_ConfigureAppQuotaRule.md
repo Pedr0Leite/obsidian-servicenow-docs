@@ -30,7 +30,7 @@ You must be in the application scope of the application for which you want to cr
 
 2.  Select **New**.
 
-3.  On the [[application-quota-rule-form|Application Quota Rule form]], fill in the fields.
+3.  On the Application Quota Rule form, fill in the fields.
 
     For a description of the field values, see [Application quota rule form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/application-quota-rule-form.md).
 
@@ -41,9 +41,5 @@ You must be in the application scope of the application for which you want to cr
 5.  Select **Submit**.
 
 
-**Parent Topic:**[[maintain-monitor-now-platform|Maintaining and monitoring the ServiceNow AI Platform]]
+**Parent Topic:**[Maintaining and monitoring the ServiceNow AI Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/maintain-monitor-now-platform.md)
 
-## Related
-
-- [[maintain-monitor-now-platform|Maintaining and monitoring the ServiceNow AI Platform]]
-- [[application-quota-rule-form|Application quota rule form]]

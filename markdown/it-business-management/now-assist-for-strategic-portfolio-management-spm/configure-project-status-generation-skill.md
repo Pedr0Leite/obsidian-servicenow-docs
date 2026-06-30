@@ -44,10 +44,8 @@ Role required: admin
 
     Roles can be added by entering the name of the role in the User roles field. Existing roles can be removed by selecting the X icon in the role bubble. You must have at least one role specified, but you can add as many as you like. In the next step of the skill configuration, select where you'd like to display the skill.
 
-7.  You can select in-product if you'd like to display the skill on [[form-field-information-for-dw|forms]] and workspaces.
+7.  You can select in-product if you'd like to display the skill on forms and workspaces.
 
 8.  Review your choices and select **Activate** to complete the configuration.
 
-## Related
 
-- [[form-field-information-for-dw|Forms]]

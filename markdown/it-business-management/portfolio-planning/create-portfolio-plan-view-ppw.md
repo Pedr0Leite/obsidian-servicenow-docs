@@ -26,7 +26,7 @@ You can create up to three private views and up to 10 shared \(public\) views pe
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace** &gt; **Portfolio Planning**.
+1.  Navigate to **Workspaces** &gt; **Portfolio Planning Workspace** &gt; **Portfolio Planning**.
 
 2.  From the list of portfolio plans, select one.
 
@@ -58,11 +58,7 @@ The shared view for the portfolio plan is created and will be visible to all sta
 ## What to do next
 
 -   Share the portfolio plan with your stakeholders to start collaborating on the portfolio plan. See [Share a portfolio plan with stakeholders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/share-portfolio-plan-in-portfolio-planning-workspace.md).
--   [[edit-portfolio-plan-view-ppw|Edit a portfolio plan view]] to make any changes to the existing view. See [Edit a portfolio plan view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/edit-portfolio-plan-view-ppw.md).
+-   Edit a portfolio plan view to make any changes to the existing view. See [Edit a portfolio plan view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/edit-portfolio-plan-view-ppw.md).
 
 **Parent Topic:**[Managing portfolio plan views in Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/managing-portfolio-plan-views-ppw.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[edit-portfolio-plan-view-ppw|Edit a portfolio plan view]]

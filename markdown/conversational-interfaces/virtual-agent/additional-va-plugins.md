@@ -14,7 +14,7 @@ breadcrumb: [Install Virtual Agent plugins, Activate and get started, Virtual Ag
 
 # Additional plugins for Virtual Agent
 
-After activating [[virtual-agent-landing-page|Virtual Agent]], you can activate additional plugins to enable other features for conversation design.
+After activating Virtual Agent, you can activate additional plugins to enable other features for conversation design.
 
 You must have the admin role to activate these additional plugins. For details, see [Activate a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md).
 
@@ -34,7 +34,7 @@ Description
 
 </td><td>
 
-Enables [predefined Virtual Agent conversations, reusable topic blocks, and prebuilt ServiceNow NLU models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/prebuilt-topics-ITSM.md) for the Customer Service [[management|Management]], HR Service Delivery, and IT Service Management applications.
+Enables [predefined Virtual Agent conversations, reusable topic blocks, and prebuilt ServiceNow NLU models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/prebuilt-topics-ITSM.md) for the Customer Service Management, HR Service Delivery, and IT Service Management applications.
 
  -   Requires the Glide Virtual Agent \(com.glide.cs.chatbot\) plugin to be activated.
 -   Automatically activates the NLU Workbench \(com.snc.nlu\_studio\) plugin.
@@ -66,8 +66,3 @@ Provides insights into user interactions so you can see how well Virtual Agent u
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[management|Management]]

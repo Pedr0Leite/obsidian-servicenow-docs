@@ -42,7 +42,7 @@ Steps
 
 </td><td>
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]]**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Portfolio Planning**.
 2.  From the list of portfolio plans, select the required portfolio plan that the goal belongs to.
 3.  In the Goals view, select the **Goals and targets** tab.
 4.  Select the current progress value link for the target in the Progress column.
@@ -83,7 +83,7 @@ The Target side panel opens with the **Details** tab.
 
 The Goal side panel opens with the **Details** tab.
 
-5.  In the side panel, select **Full Details** to open the [[goal-form|goal form]].
+5.  In the side panel, select **Full Details** to open the goal form.
 6.  On the **Quantitative Targets** or **Qualitative Targets** tab, select the target record.
 
 
@@ -97,7 +97,7 @@ The Goal side panel opens with the **Details** tab.
 
 ## Result
 
-After the **Actuals to date** field is updated, the progress value for the target and its goal is auto-updated. For information on how the progress value is calculated, see [progress value calculation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/progress-value-calculation-egm.md). For information on how the progress value is calculated for a target that has [[target-breakdowns-gf|target breakdowns]], see [Target breakdowns in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/target-breakdowns.md).
+After the **Actuals to date** field is updated, the progress value for the target and its goal is auto-updated. For information on how the progress value is calculated, see [progress value calculation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/progress-value-calculation-egm.md). For information on how the progress value is calculated for a target that has target breakdowns, see [Target breakdowns in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/target-breakdowns.md).
 
 **Related topics**  
 
@@ -106,9 +106,3 @@ After the **Actuals to date** field is updated, the progress value for the targe
 
 [Update the progress of an automated target](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/update-progress-of-target-agf-apw.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[goal-form|Goal form]]
-- [[target-breakdowns-gf|Target breakdowns]]

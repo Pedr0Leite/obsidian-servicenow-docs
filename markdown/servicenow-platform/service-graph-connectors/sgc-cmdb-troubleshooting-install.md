@@ -25,11 +25,11 @@ Role required: admin
 
 ## About this task
 
-The following applications or plugins are installed with [[cmdb-sgc-support-tools|Service Graph Connector Support Tools]]:
+The following applications or plugins are installed with Service Graph Connector Support Tools:
 
--   **[[integration-commons-for-cmdb|Integration Commons for CMDB]] \(sn\_cmdb\_int\_util\)**
+-   **Integration Commons for CMDB \(sn\_cmdb\_int\_util\)**
 
-    Contains the [[cmdb-integ-dashboard|CMDB Integrations Dashboard]] and a set of Robust Transform Engine \(RTE\) transforms and script includes.
+    Contains the CMDB Integrations Dashboard and a set of Robust Transform Engine \(RTE\) transforms and script includes.
 
 -   **Glide Virtual Agent Lite \(com.glide.cs.chatbot.lite\)**
 
@@ -53,8 +53,3 @@ The following applications or plugins are installed with [[cmdb-sgc-support-tool
 
 **Parent Topic:**[Service Graph Connector Support Tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-sgc-support-tools.md)
 
-## Related
-
-- [[cmdb-sgc-support-tools|Service Graph Connector Support Tools]]
-- [[integration-commons-for-cmdb|Integration Commons for CMDB]]
-- [[cmdb-integ-dashboard|CMDB Integrations Dashboard]]

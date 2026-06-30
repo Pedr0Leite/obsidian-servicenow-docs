@@ -12,7 +12,7 @@ breadcrumb: [Indicators of compromise, IoC Repository, Threat Intelligence, Ente
 
 # View an IoC
 
-IoCs, sometimes referred to as [[indicator|indicators]], are most typically retrieved from a threat data source as STIX data. If needed, you can also create IoCs.
+IoCs, sometimes referred to as indicators, are most typically retrieved from a threat data source as STIX data. If needed, you can also create IoCs.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_ti.write
 
 ## Procedure
 
-1.  After the scheduled job has retrieved IoC data from the [[c_GetStartedWithThreatIntel|defined data source]], navigate to **[[threat-intel-landing-page|Threat Intelligence]]** &gt; **[[ioc-repository|IoC Repository]]** &gt; **Indicators**.
+1.  After the scheduled job has retrieved IoC data from the [defined data source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/c_GetStartedWithThreatIntel.md), navigate to **Threat Intelligence** &gt; **IoC Repository** &gt; **Indicators**.
 
     The retrieved IoCs are listed.
 
@@ -42,7 +42,7 @@ Select classification tag
 
 </td><td>
 
-If you set up and activated [[create-class-group-and-tags|security tags]] to add metadata to the record, you can select one or more tags to specify the degree of sensitivity of the IoC. If you did not set up or activate security tags, this drop-down list is not displayed.
+If you set up and activated [security tags](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/create-class-group-and-tags.md) to add metadata to the record, you can select one or more tags to specify the degree of sensitivity of the IoC. If you did not set up or activate security tags, this drop-down list is not displayed.
 
 </td></tr><tr><td>
 
@@ -105,15 +105,15 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Show [[stix-relationships|Relationships]]
+Show Relationships
 
 </td><td>
 
-Opens the [[stix-visualizer|STIX Visualizer]] where you can view the relationship of the STIX object.Show Relationships appears only when the object has an associated object.
+Opens the STIX Visualizer where you can view the relationship of the STIX object.Show Relationships appears only when the object has an associated object.
 
 </td></tr><tr><td>
 
-Related [[c_Observables|Observables]]
+Related Observables
 
 </td><td>
 
@@ -161,7 +161,7 @@ If the **Notes** field contains valid JSON key/value pairs, they are parsed and 
 
 </td></tr><tr><td>
 
-[[security-annotations|Security Annotations]]
+Security Annotations
 
 </td><td>
 
@@ -185,7 +185,7 @@ Lists kill chain phases associated with this object.
 
 </td></tr><tr><td>
 
-[[attack-patterns|Attack Patterns]]
+Attack Patterns
 
 </td><td>
 
@@ -193,7 +193,7 @@ Lists the attack patterns that help categorize attacks that are associated with 
 
 </td></tr><tr><td>
 
-[[threat-intelligence-campaigns|Campaigns]]
+Campaigns
 
 </td><td>
 
@@ -201,7 +201,7 @@ Lists campaigns associated with this object.
 
 </td></tr><tr><td>
 
-[[threat-intelligence-intrusion-sets|Intrusion Set]]
+Intrusion Set
 
 </td><td>
 
@@ -209,7 +209,7 @@ Lists a set of adversarial behaviors and resources with common properties associ
 
 </td></tr><tr><td>
 
-[[threat-intelligence-malware|Malware]]
+Malware
 
 </td><td>
 
@@ -217,7 +217,7 @@ Lists malicious code associated with this object.
 
 </td></tr><tr><td>
 
-[[threat-actors|Threat Actors]]
+Threat Actors
 
 </td><td>
 
@@ -225,7 +225,7 @@ Lists individuals, groups, or organizations who act with malicious intent associ
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[[c_IoCs|Indicators of compromise]]
+**Parent Topic:**[Indicators of compromise](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/c_IoCs.md)
 
 **Related topics**  
 
@@ -240,20 +240,3 @@ Lists individuals, groups, or organizations who act with malicious intent associ
 
 [Add associated tasks to an IoC]()
 
-## Related
-
-- [[c_GetStartedWithThreatIntel|Set up Threat Intelligence]]
-- [[create-class-group-and-tags|Set up security tag groups and tags]]
-- [[c_IoCs|Indicators of compromise]]
-- [[indicator|Indicators]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[ioc-repository|IoC Repository]]
-- [[stix-relationships|Relationships]]
-- [[stix-visualizer|STIX Visualizer]]
-- [[c_Observables|Observables]]
-- [[security-annotations|Security annotations]]
-- [[attack-patterns|Attack patterns]]
-- [[threat-intelligence-campaigns|Campaigns]]
-- [[threat-intelligence-intrusion-sets|Intrusion set]]
-- [[threat-intelligence-malware|Malware]]
-- [[threat-actors|Threat actors]]

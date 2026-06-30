@@ -14,7 +14,7 @@ breadcrumb: [Configuring Universal Request, Setting up and configuring Universal
 
 # Set up Virtual Agent for Universal Request
 
-Use Virtual Agent \(VA\) capabilities to provide a better user experience for your chat channel using the ServiceNow® Natural Language Understanding \(NLU\) model. Publish and use the default Virtual Agent topics for [[ur-landing-limitedaccess|Universal Request]].
+Use Virtual Agent \(VA\) capabilities to provide a better user experience for your chat channel using the ServiceNow® Natural Language Understanding \(NLU\) model. Publish and use the default Virtual Agent topics for Universal Request.
 
 ## Before you begin
 
@@ -56,6 +56,3 @@ Apply the Natural Language Understanding vocabulary in the Universal Request app
 
 **Parent Topic:**[Configuring Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/configure-ur.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]

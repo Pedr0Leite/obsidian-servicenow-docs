@@ -14,7 +14,7 @@ breadcrumb: [Configuring air gap connections, Microsoft SCCM, Service Graph Conn
 
 # Perform a full data load for the air gap solution for Microsoft SCCM
 
-After you verify that the test data load for the air gap solution for the [[cmdb-integration-sccm|Service Graph Connector for Microsoft SCCM]] is successful, you can perform a full data load.
+After you verify that the test data load for the air gap solution for the Service Graph Connector for Microsoft SCCM is successful, you can perform a full data load.
 
 ## Before you begin
 
@@ -40,7 +40,7 @@ Role required: admin
 
 7.  Test the air gap connection in your ServiceNow instance.
 
-    1.  Navigate to **All** &gt; **[[cmdb-sgc-available|Service Graph Connectors]]** &gt; **SCCM** &gt; **Connections**.
+    1.  Navigate to **All** &gt; **Service Graph Connectors** &gt; **SCCM** &gt; **Connections**.
 
     2.  Select the air gap connection that you created.
 
@@ -48,7 +48,4 @@ Role required: admin
 
         When the connection is successful, the **Status** field is set to `Success`. If the connection fails, follow the suggestions for remediation.
 
-## Related
 
-- [[cmdb-integration-sccm|Service Graph Connector for Microsoft SCCM]]
-- [[cmdb-sgc-available|Service Graph Connectors]]

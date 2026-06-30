@@ -14,7 +14,7 @@ breadcrumb: [Document Services, Manage content capabilities, Extend ServiceNow A
 
 # PDF generation and accessibility
 
-PDF generation settings support accessibility features such as accessibility tags for screen readers, customizable export formats, and image retrieval timeouts for optimized [[html|HTML]] to PDF conversion.
+PDF generation settings support accessibility features such as accessibility tags for screen readers, customizable export formats, and image retrieval timeouts for optimized HTML to PDF conversion.
 
 **Note:** PDF generation with accessibility is unavailable for on-premise customers.
 
@@ -35,6 +35,3 @@ Static and dynamic guardrails are safeguards that help maintain stability during
 
 **Parent Topic:**[Document Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/document-services-landing-page.md)
 
-## Related
-
-- [[html|HTML]]

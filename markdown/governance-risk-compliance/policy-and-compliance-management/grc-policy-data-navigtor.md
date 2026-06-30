@@ -18,7 +18,7 @@ When you launch the 360° view from a particular compliance record, you can inst
 
 ## 360° view
 
-In [[r_PolicyComplianceMgmt|Policy and Compliance Management]], the 360° relationship view button is enabled in the following workspace forms:
+In Policy and Compliance Management, the 360° relationship view button is enabled in the following workspace forms:
 
 -   Authority document \[sn\_compliance\_authority\_document\]
 -   Policy \[sn\_compliance\_policy\]
@@ -50,6 +50,3 @@ If you had selected **Attestation** in the **Attestation method** for the contro
 
 \[Omitted image "smart-assessment-deg-view.png"\] Alt text: Attestations in the 360° view of a control.
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

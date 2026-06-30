@@ -23,7 +23,7 @@ You can achieve the following using the ATF Test Generator and Cloud Runner stor
 -   ServiceNow’s Cloud Runner allows you to execute ATF tests on a headless browser, eliminating the need for local setup.
 -   Intelligent test generation helps ensure comprehensive test coverage for your applications.
 -   Automated test creation and cloud-based execution significantly reduce testing time and effort.
--   AI-powered test generation minimizes human error and improves the reliability of test [[hs-results|results]].
+-   AI-powered test generation minimizes human error and improves the reliability of test results.
 -   Streamlined workflows and efficient test execution optimize your testing process.
 
 See [ATF Test Generator and Cloud Runner](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/atf-tg-cr-intro.md) for more information.
@@ -47,6 +47,3 @@ See [ATF Test Generator and Cloud Runner](https://raw.githubusercontent.com/Serv
 
 [Upgrade Plans tool in Upgrade Console]()
 
-## Related
-
-- [[hs-results|Results]]

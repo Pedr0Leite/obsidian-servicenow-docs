@@ -18,7 +18,7 @@ Provide your agents at a business location with the visibility into other busine
 
 The Service Model Foundation enables business locations to request help from others and fulfill such requests. Besides supporting customers, business locations can also support other service organizations.
 
-Currently, there’s no easy way for agents who are assigned to a specific business location to access the details they need about other business locations they support, such as contact information, [[install-base-item|install base items]], or existing cases.
+Currently, there’s no easy way for agents who are assigned to a specific business location to access the details they need about other business locations they support, such as contact information, install base items, or existing cases.
 
 With the inter-organization support capabilities, you can enable your business location agents to access additional details about the other business locations they serve, facilitating quicker and more efficient support for the requesting service organization.
 
@@ -41,11 +41,7 @@ This way, the regional support agents can quickly access necessary information a
 
 Inter-organization support offers the following benefits:
 
--   Improve [[agent-exp|agent experience]]: Provide agents at a business location with visibility into the other business locations that they support.
+-   Improve agent experience: Provide agents at a business location with visibility into the other business locations that they support.
 -   Reduce resolution time: Minimize back-and-forth communication by providing key context alongside cases for service organizations.
 -   Increase operational efficiency: Define support structures for service organizations through hierarchy or relationship-based criteria.
 
-## Related
-
-- [[install-base-item|Install base items]]
-- [[agent-exp|Agent experience]]

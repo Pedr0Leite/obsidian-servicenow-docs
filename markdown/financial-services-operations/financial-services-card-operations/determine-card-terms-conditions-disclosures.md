@@ -20,7 +20,7 @@ Determine a card's terms and conditions and disclosures and update the customer 
 
 Role required: sn\_bom\_credit\_card.agent or sn\_bom\_credit\_card.agent\_connector
 
-**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [[fso-combine-csm-industry-roles|Roles and Personas]].
+**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-combine-csm-industry-roles.md).
 
 ## About this task
 
@@ -28,7 +28,7 @@ This credit card task is automatically created for a new credit card case when t
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -79,7 +79,3 @@ Steps
 
 A document task to file a customer agreement is automatically generated in the **Tasks** tab of the associated case. The task is created in the Open state and assigned to an assignment group or a document agent in the document services department. The assignment group or user that the task is assigned to is based on the assignment rule.
 
-## Related
-
-- [[fso-combine-csm-industry-roles|Using agent connector and contributor roles in Financial Services Operations]]
-- [[fso-overview|Financial Services]]

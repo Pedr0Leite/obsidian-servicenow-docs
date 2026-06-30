@@ -16,7 +16,7 @@ Add a map marker icon and define the click behavior to differentiate between dat
 
 ## Before you begin
 
-Set up a [[configure-map-data-items|map data item]] before you accomplish this task.
+Set up a [map data item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-map-data-items.md) before you accomplish this task.
 
 Role required: admin
 
@@ -31,7 +31,7 @@ Role required: admin
     |Field|Description|
     |-----|-----------|
     |Name|Name for your map coordinate definition.|
-    |Type|Type of map coordinate definition. Select **Field**, which uses the Classic Environment \([[lists-configurable-workspace|lists]] and [[form-configurable-workspace|forms]]\), or **Script**.|
+    |Type|Type of map coordinate definition. Select **Field**, which uses the Classic Environment \(lists and forms\), or **Script**.|
     |Table|Table for the condition. For example, incident \[incident\].|
     |Latitude field|Latitude field to define map coordinates. Select**Location**, then **Latitude**.|
     |Longitude field|Longitude field to define map coordinates. Select **Location**, then **Longitude**.|
@@ -109,7 +109,7 @@ Optional application scope for your map marker, if other than Global.
 
 Set up map marker icons and map marker click actions to finish configuring map markers.
 
-**Parent Topic:**[[create-advanced-map-page|Create an advanced Map Page]]
+**Parent Topic:**[Create an advanced Map Page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/create-advanced-map-page.md)
 
 ## Set up map marker icons
 
@@ -208,7 +208,7 @@ Role required: admin
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **System Map Page** &gt; **[[c_MapPages|Map Pages]]**.
+1.  Navigate to **All** &gt; **System Map Page** &gt; **Map Pages**.
 
 2.  Select your Map Page.
 
@@ -225,10 +225,3 @@ You've set up a map marker. Click **Try it** on the Map Pages form to ensure tha
 
 **Note:** If data is not available, map markers don't show.
 
-## Related
-
-- [[configure-map-data-items|Configure map data items]]
-- [[create-advanced-map-page|Create an advanced Map Page]]
-- [[lists-configurable-workspace|Lists]]
-- [[form-configurable-workspace|Forms]]
-- [[c_MapPages|Map pages]]

@@ -14,7 +14,7 @@ breadcrumb: [Managing contextual search, Contextual search, Search administratio
 
 # Define contextual search for record producer
 
-Define a record producer to trigger a search based on the text that you enter in a variable field. Search [[hs-results|results]] appear at the bottom of the record producer form.
+Define a record producer to trigger a search based on the text that you enter in a variable field. Search results appear at the bottom of the record producer form.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-The base system **Create New Incident** record producer is configured to use [[c_ContextualSearch|contextual search]]. If you have customized this record producer, you can configure contextual search to link to a specific field on your record producer.
+The base system **Create New Incident** record producer is configured to use contextual search. If you have customized this record producer, you can configure contextual search to link to a specific field on your record producer.
 
 **Note:** Only one variable within a record producer can use contextual search.
 
@@ -34,7 +34,7 @@ The base system **Create New Incident** record producer is configured to use [[c
 
 3.  On the form, fill in the fields.
 
-    \[Omitted image "record-producer-config.png"\] Alt text: [[record-producer-config-form-ais|Record producer configuration form]]
+    \[Omitted image "record-producer-config.png"\] Alt text: Record producer configuration form
 
     |Field|Description|
     |-----|-----------|
@@ -52,8 +52,3 @@ The base system **Create New Incident** record producer is configured to use [[c
 
 **Parent Topic:**[Managing contextual search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/working-with-contextual-search.md)
 
-## Related
-
-- [[hs-results|Results]]
-- [[c_ContextualSearch|Contextual search]]
-- [[record-producer-config-form-ais|Record Producer Configuration form]]

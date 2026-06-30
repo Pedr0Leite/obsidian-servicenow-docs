@@ -15,7 +15,7 @@ breadcrumb: [Reference, Change Management, IT Service Management]
 
 # Change flows
 
-The [[c_ITILChangeManagement|Change Management]] Change flows provide a library of reusable actions and end-to-end implementations of the Change [[c_Models|models]] provided in the base system.
+The Change Management Change flows provide a library of reusable actions and end-to-end implementations of the Change models provided in the base system.
 
 Starting with the Yokohama release, the new base system flows replace the existing workflows for Change Management. However, you can continue to create custom workflows or use the existing ones. To migrate your existing workflows to flows, check the new base system flows available in Workflow Studio for guidance. For any new requirements, use flows.
 
@@ -51,7 +51,3 @@ Use Workflow Studio actions as building blocks to handle the Change models and t
 
 **Parent Topic:**[Reference section for Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/reference-change-management.md)
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]
-- [[c_Models|Models]]

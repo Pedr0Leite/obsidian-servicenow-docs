@@ -12,7 +12,7 @@ breadcrumb: [Filters, Platform Analytics experience, Platform Analytics]
 
 # Platform Analytics filter tables
 
-The following tables relate to [[c_performanceAnalyticsAndReporting|Platform Analytics]] filters and can be accessed through scripts.
+The following tables relate to Platform Analytics filters and can be accessed through scripts.
 
 |Table|Description|
 |-----|-----------|
@@ -21,6 +21,3 @@ The following tables relate to [[c_performanceAnalyticsAndReporting|Platform Ana
 |par\_component\_filter\_permission|Contains the role, group, and user permissions for all filters in the filter library. Extends par\_component\_permission.|
 |par\_dashboard\_filter|Lists all filters on Platform Analytics dashboards and the name of the dashboard.|
 
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

@@ -43,12 +43,12 @@ TSM combines purpose-built applications with CSM and core platform capabilities 
 |Application|Value|
 |-----------|-----|
 |[Now Assist for Telecommunications, Media and Technology \(TMT\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/now-assist-spmc.md)|Use AI-powered industry workflows to supercharge insights, actions, and self-service experiences.|
-|[[cspm-landing-page|Customer Service Problem Management]]|Efficiently identify and resolve service problems with a streamlined service management process.|
-|[[account-lifecycle-events-landing|Customer Success Management]]|Drive adoption, mitigate risk, and maximize customer value with proactive success strategies, real-time health monitoring, and intelligent automation.|
-|[[tmt-service-bridge-both-landing-page|Service Exchange]]|Quickly connect enterprise customers and suppliers running ServiceNow® to optimize work across the value chain.|
-|[[assurance-workflows|Product Support for Technology]]|Proactively notify customers of service disruptions and provide real-time resolution tracking.|
-|[[stm-landing-page|Service Test Management]]|Unite customer service and network operations on a single platform.|
-|[[c360-land-page|Telecommunications Customer 360]]|Aggregate data from multiple systems into a single platform.|
+|[Customer Service Problem Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/cspm-landing-page.md)|Efficiently identify and resolve service problems with a streamlined service management process.|
+|[Customer Success Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/account-lifecycle-events-landing.md)|Drive adoption, mitigate risk, and maximize customer value with proactive success strategies, real-time health monitoring, and intelligent automation.|
+|[Service Exchange](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/tmt-service-bridge-both-landing-page.md)|Quickly connect enterprise customers and suppliers running ServiceNow® to optimize work across the value chain.|
+|[Product Support for Technology](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/assurance-workflows.md)|Proactively notify customers of service disruptions and provide real-time resolution tracking.|
+|[Service Test Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/stm-landing-page.md)|Unite customer service and network operations on a single platform.|
+|[Telecommunications Customer 360](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/c360-land-page.md)|Aggregate data from multiple systems into a single platform.|
 
 ## Additional resources
 
@@ -58,14 +58,5 @@ TSM combines purpose-built applications with CSM and core platform capabilities 
 **Related topics**  
 
 
-[[telecom-media-tech-landing|Telecommunications, Media, and Technology \(TMT\)]]
+[Telecommunications, Media, and Technology \(TMT\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/telecom-media-tech-landing.md)
 
-## Related
-
-- [[cspm-landing-page|Customer Service Problem Management]]
-- [[account-lifecycle-events-landing|Customer Success Management]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]
-- [[assurance-workflows|Product Support for Technology]]
-- [[stm-landing-page|Service Test Management]]
-- [[c360-land-page|Telecommunications Customer 360]]
-- [[telecom-media-tech-landing|Telecommunications, Media, and Technology \(TMT\)]]

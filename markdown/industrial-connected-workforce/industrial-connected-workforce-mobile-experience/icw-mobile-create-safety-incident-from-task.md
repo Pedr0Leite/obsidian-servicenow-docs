@@ -14,13 +14,13 @@ breadcrumb: [Use, Industrial Connected Workforce Mobile Experience, Industrial C
 
 # Create a safety incident from a task
 
-Create a safety incident directly from an existing task when you are [[using-icw-mobile-experience|using the Industrial Connected Workforce Mobile Experience]].
+Create a safety incident directly from an existing task when you are using the Industrial Connected Workforce Mobile Experience.
 
 ## Before you begin
 
 Role required: sn\_icw.safety\_incident\_user, and one of sn\_icw.deviation\_user, sn\_icw.rca\_user, or sn\_icw.action\_user
 
-You must have the sn\_icw.safety\_incident\_user role to create safety incident from a deviation, from a [[industrial-root-cause-analysis|root cause analysis]], and an action respectively.
+You must have the sn\_icw.safety\_incident\_user role to create safety incident from a deviation, from a root cause analysis, and an action respectively.
 
 The task must be active on ICW Mobile application for you to create a safety incident.
 
@@ -36,7 +36,7 @@ The task must be active on ICW Mobile application for you to create a safety inc
 
 4.  Select **Create safety incident**.
 
-5.  On the [[icw-safety-incident-form|Safety Incident form]], review and complete the fields.
+5.  On the Safety Incident form, review and complete the fields.
 
     Fields from the originating task are automatically populated.
 
@@ -58,8 +58,3 @@ The safety incident is created and linked to the originating task. The incident 
 
 [Using ICW Health and Safety Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/using-icw-health-and-safety-integration.md)
 
-## Related
-
-- [[using-icw-mobile-experience|Using the Industrial Connected Workforce Mobile Experience]]
-- [[industrial-root-cause-analysis|Root Cause Analysis]]
-- [[icw-safety-incident-form|Safety Incident form]]

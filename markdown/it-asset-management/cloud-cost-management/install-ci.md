@@ -14,7 +14,7 @@ breadcrumb: [Configuring Cloud Cost Management, Cloud Cost Management, IT Asset 
 
 # Install Cloud Cost Management
 
-You can install the [[cloud-insights-landing-page|Cloud Cost Management]] application \(sn\_clin\) if you have the admin role.The application includes demo data and installs related ServiceNow® Store applications and plugins if they aren’t already installed.
+You can install the Cloud Cost Management application \(sn\_clin\) if you have the admin role.The application includes demo data and installs related ServiceNow® Store applications and plugins if they aren’t already installed.
 
 ## Before you begin
 
@@ -62,6 +62,4 @@ For more information, see [Components installed with Cloud Cost Management](http
     -   If you install demo data, Cloud Cost Management features might not work properly.
 6.  Select **Install**.
 
-## Related
 
-- [[cloud-insights-landing-page|Cloud Cost Management]]

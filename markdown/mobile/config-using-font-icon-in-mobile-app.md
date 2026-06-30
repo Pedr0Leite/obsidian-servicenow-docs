@@ -12,7 +12,7 @@ breadcrumb: [Mobile icons, Mobile styles, Mobile app components, Building mobile
 
 # Add a font icon in a mobile app
 
-Use [[mab-concept|Mobile App Builder]] to configure mobile apps that use a font family icon.
+Use Mobile App Builder to configure mobile apps that use a font family icon.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-For a list of font icon names and descriptions, see the [[mobile-icon-reference|Mobile icon reference]].
+For a list of font icon names and descriptions, see the [Mobile icon reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-icon-reference.md).
 
 ## Procedure
 
@@ -30,7 +30,7 @@ For a list of font icon names and descriptions, see the [[mobile-icon-reference|
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select the **All mobile records** category and enter `Icon section destination screen` in the **Record type** field to load a list of possible destinations.
 
@@ -42,8 +42,4 @@ For a list of font icon names and descriptions, see the [[mobile-icon-reference|
 
 7.  Select **Save**.
 
-## Related
 
-- [[mobile-icon-reference|Mobile icon reference]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]

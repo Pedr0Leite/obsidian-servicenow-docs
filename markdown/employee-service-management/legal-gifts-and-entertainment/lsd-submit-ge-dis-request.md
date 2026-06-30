@@ -22,7 +22,7 @@ Role required: sn\_lg\_ops.legal\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Help center** &gt; **Legal services** &gt; **Ethics and compliance**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **Help center** &gt; **Legal services** &gt; **Ethics and compliance**.
 
 2.  Select **Gifts &amp; Entertainment Disclosure**.
 
@@ -39,7 +39,7 @@ Role required: sn\_lg\_ops.legal\_user
     -   The value of the disclosure is more than the maximum amount allowed.
     -   The external company name is not available in the list and was manually entered.
 -   The Standard Ticket page displays the following tabs to perform different tasks:
-    -   [[activity-lxp|Activity]]: Track the activity history of the request and post messages for the fulfiller working on the request.
+    -   Activity: Track the activity history of the request and post messages for the fulfiller working on the request.
     -   Attachments or Documents: Upload and manage the documents in the legal request.
 
         **Note:** If the external storage option is enabled, the **Documents** tab is displayed. Otherwise, the **Attachments** tab is displayed.
@@ -48,7 +48,3 @@ Role required: sn\_lg\_ops.legal\_user
 
 **Parent Topic:**[Requesting legal clearance for gifts and entertainment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-gifts-and-entertainment/lsd-ge-submitting-request.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[activity-lxp|Activity]]

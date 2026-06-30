@@ -26,7 +26,7 @@ Create an SLA definition and use it in Workplace cases. An SLA definition record
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-case-mgmt-feat|Workplace Case Management]]** &gt; **Workplace Case Management - Setup** &gt; **SLA Definitions**.
+1.  Navigate to **All** &gt; **Workplace Case Management** &gt; **Workplace Case Management - Setup** &gt; **SLA Definitions**.
 
 2.  Create an SLA Definition or modify an existing one.
 
@@ -84,6 +84,3 @@ The SLA Definition is created.
 
 [Group similar workplace cases under a parent case]()
 
-## Related
-
-- [[workplace-case-mgmt-feat|Workplace Case Management]]

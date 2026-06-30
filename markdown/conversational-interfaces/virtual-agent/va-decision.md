@@ -14,7 +14,7 @@ breadcrumb: [Assistant Designer utilities, Assistant Designer interface referenc
 
 # Decision utility
 
-Use the Decision utility in a [[virtual-agent-landing-page|Virtual Agent]] topic to add two or more branches that represent different paths in a conversation.
+Use the Decision utility in a Virtual Agent topic to add two or more branches that represent different paths in a conversation.
 
 ## Use scripts or variable conditions to set decision branches
 
@@ -36,6 +36,3 @@ You can also use the Script option for branch conditions. In the following examp
 
 **Parent Topic:**[Assistant Designer utilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-utilities.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

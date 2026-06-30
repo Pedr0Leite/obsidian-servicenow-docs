@@ -14,7 +14,7 @@ breadcrumb: [Editing functions for knowledge articles in the HTML editor, Creati
 
 # Formatting options for knowledge articles
 
-You can apply formatting to a knowledge article using the [[html|HTML]] editor.
+You can apply formatting to a knowledge article using the HTML editor.
 
 You can use the options on the HTML toolbar to apply the following formatting in knowledge article text:
 
@@ -27,11 +27,7 @@ You can use the options on the HTML toolbar to apply the following formatting in
 -   Auto-format content copied from Microsoft Word to match the format of the article.
 -   Create collapsible sections in an article to show or hide the content.
 -   Insert bookmarks to the article content that can link to specific parts of the text with an ID.
--   Identify and resolve accessibility related issues in a knowledge article using the [[accessibility-checker|Accessibility checker in the toolbar]].
+-   Identify and resolve accessibility related issues in a knowledge article using the Accessibility checker in the toolbar.
 
 For more information, see [Formatting icons for HTML fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_Formatting.md).
 
-## Related
-
-- [[html|HTML]]
-- [[accessibility-checker|Accessibility checker in the toolbar]]

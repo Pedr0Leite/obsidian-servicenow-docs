@@ -22,7 +22,7 @@ Role required: sn\_critical.agent
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]** and select the **[[critical-event-management|Critical Event Management]]** tab.
+1.  Navigate to **Workspaces** &gt; **Health and Safety Workspace** and select the **Critical Event Management** tab.
 
 2.  Open the critical event.
 
@@ -34,7 +34,7 @@ Role required: sn\_critical.agent
 
 6.  Select the status of the person.
 
-    For details on [[impacted-people-status|impacted people status]], see [Impacted people status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/impacted-people-status.md).
+    For details on impacted people status, see [Impacted people status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/impacted-people-status.md).
 
 7.  Enter any relevant notes.
 
@@ -58,8 +58,3 @@ Role required: sn\_critical.agent
 
 [Conduct a roll call as an on-site responder]()
 
-## Related
-
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[critical-event-management|Critical Event Management]]
-- [[impacted-people-status|Impacted people status]]

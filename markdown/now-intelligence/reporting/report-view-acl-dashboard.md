@@ -14,7 +14,7 @@ breadcrumb: [Administering reports, Reporting, Reporting, dashboards, and Perfor
 
 # ACL Assessment for Reports
 
-Use the ServiceNow® ACL Assessment for Reports to identify reports that are blocked by report\_view ACLs \([[access-control|access control]] lists\).
+Use the ServiceNow® ACL Assessment for Reports to identify reports that are blocked by report\_view ACLs \(access control lists\).
 
 ## Application components
 
@@ -62,6 +62,3 @@ In domain separated instances, the ACL Assessment for Reports has certain limita
 
 **Parent Topic:**[Administering reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_AdminsteringReports.md)
 
-## Related
-
-- [[access-control|Access control]]

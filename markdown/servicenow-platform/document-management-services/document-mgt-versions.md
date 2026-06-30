@@ -14,11 +14,11 @@ breadcrumb: [Document repository, Use, Document Management, Document Services, M
 
 # Document versions
 
-In the ServiceNow® [[doc-management-landing|Document Management]] application, documents display as versions in the record. You view these versions as a related list within the document record. A document can have many versions.
+In the ServiceNow® Document Management application, documents display as versions in the record. You view these versions as a related list within the document record. A document can have many versions.
 
 The term "document" refers to the container record that holds document information such as its name, description, type and other metadata. While the document record doesn’t contain the actual document file, it does contain versions in the record, which you can open, update, and track.
 
-Use the [[attachment|Attachment]] icon \(\[Omitted image "attachment-icon.png"\] Alt text: Attachment icon.\) to add documents to a record.
+Use the Attachment icon \(\[Omitted image "attachment-icon.png"\] Alt text: Attachment icon.\) to add documents to a record.
 
 Alternatively, you can provide the link to a document in the URL field. You then access the actual documents by selecting the versions in the related list.
 
@@ -38,7 +38,7 @@ Document owners have the option to:
 For multiple document versions, the latest reviewed and approved version gets published and the previous versions are retired.
 
 -   **[Create a document version](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/create-doc-version.md)**  
-[[create-doc-version|Create a document version]] for each document.
+Create a document version for each document.
 -   **[Compare document versions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/compare-document-version.md)**  
 Document version comparison enables you to view differences between two versions of a document, highlighting changes such as added, removed, or modified content.
 
@@ -61,8 +61,3 @@ Document version comparison enables you to view differences between two versions
 
 [Delete documents]()
 
-## Related
-
-- [[doc-management-landing|Document Management]]
-- [[attachment|Attachment]]
-- [[create-doc-version|Create a document version]]

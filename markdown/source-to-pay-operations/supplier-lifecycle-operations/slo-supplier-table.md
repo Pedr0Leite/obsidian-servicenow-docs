@@ -14,7 +14,7 @@ breadcrumb: [Primary data tables for Supplier Lifecycle Operations, Reference, S
 
 # Supplier table
 
-The [[supplier|Supplier]] \[sn\_fin\_supplier\] table stores important information about a supplier.
+The Supplier \[sn\_fin\_supplier\] table stores important information about a supplier.
 
 ## Supplier \[sn\_fin\_supplier\] table
 
@@ -286,7 +286,7 @@ Company code of the supplier in the ERP system.
 
 </td></tr><tr><td>
 
-[[erp-source|ERP source]]
+ERP source
 
 </td><td>
 
@@ -417,12 +417,7 @@ String
 Number to which documents can be faxed to the supplier.
 
 </td></tr></tbody>
-</table>For more information, see [[slo-data-model|Supplier Lifecycle Operations data model]].
+</table>For more information, see [Supplier Lifecycle Operations data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/slo-data-model.md).
 
 **Parent Topic:**[Primary data tables for Supplier Lifecycle Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-## Related
-
-- [[slo-data-model|Supplier Lifecycle Operations data model]]
-- [[supplier|Supplier]]
-- [[erp-source|ERP source]]

@@ -14,7 +14,7 @@ breadcrumb: [Create time card, Time cards, Time Card management, Working with Ta
 
 # Copy time cards from a previous time sheet
 
-Another option for creating [[c_TimeCards|time cards]] is to copy them from an existing timesheet, which copies all the time cards \(for project as well as non-project tasks\) from a selected time sheet.
+Another option for creating time cards is to copy them from an existing timesheet, which copies all the time cards \(for project as well as non-project tasks\) from a selected time sheet.
 
 ## Before you begin
 
@@ -57,6 +57,3 @@ You can also perform this task from the [Time Sheet Portal](https://raw.githubus
 
 **Parent Topic:**[Create a time card](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/t_CreateATimeCard.md)
 
-## Related
-
-- [[c_TimeCards|Time cards]]

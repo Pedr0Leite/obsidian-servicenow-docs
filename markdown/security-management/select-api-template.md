@@ -12,17 +12,17 @@ breadcrumb: [Creating an API connector with a generative AI skill, Use, Unified 
 
 # Create an API connector with generative AI
 
-Use the SPC Setup Connector skill to help you automatically complete configuration steps 3-5 in the Connector builder in the [[spc-landing|Security Posture Control]] Workspace.
+Use the SPC Setup Connector skill to help you automatically complete configuration steps 3-5 in the Connector builder in the Security Posture Control Workspace.
 
 ## Before you begin
 
 **Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 
-The SPC Setup Connector skill is included with [[now-assist-for-vulnerability-response-landing|Now Assist for Vulnerability Response]] and the skill is activated by default. For more information about configuring this skill, see [[activate-skills-now-assist-vulnerability-response|Configure a generative AI skill]].
+The SPC Setup Connector skill is included with Now Assist for Vulnerability Response and the skill is activated by default. For more information about configuring this skill, see [Configure a generative AI skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/activate-skills-now-assist-vulnerability-response.md).
 
 **Important:** This Now Assist skill is turned on by default. The skill will be automatically available to appropriate role users for the application. For more information, see [Now Assist skills, agents, and agentic workflows on by default](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills-on-by-default.md).
 
-You must complete steps one and two in the workspace before you can invoke the SCP Setup Connector Now Assist skill. See [[spc-sgc-template-stepper1|Enter metadata]] and [[spc-sgc-template-stepper2|Create connector alias and connection credentials]] for more information.
+You must complete steps one and two in the workspace before you can invoke the SCP Setup Connector Now Assist skill. See [Enter metadata](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-sgc-template-stepper1.md) and [Create connector alias and connection credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-sgc-template-stepper2.md) for more information.
 
 Role required: admin
 
@@ -69,7 +69,7 @@ You might prefer to use this field if the API page has too many details, or if i
 
     The process takes a few moments and progress is displayed in the modal.
 
-    Now Assist generates a response sample and schema based on the API documentation you uploaded in the previous step. You must check the sample response and schema for accuracy and the [[mapping-logrhythm|mapping]] for accuracy before you [[spc-sgc-validate-api-connector|validate your connector]] and publish it.
+    Now Assist generates a response sample and schema based on the API documentation you uploaded in the previous step. You must check the sample response and schema for accuracy and the mapping for accuracy before you [validate your connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-sgc-validate-api-connector.md) and publish it.
 
     **Note:**
 
@@ -104,21 +104,10 @@ You might prefer to use this field if the API page has too many details, or if i
 
     This sample data is aggregated, and the mapping is editable. Additionally, you can and create custom attributes for your SPC policies as needed.
 
-    For more information about mapping that includes combining values to populate a single field, see [[spc-sgc-stepper-5|Map response]] in the Security Posture Control product documentation.
+    For more information about mapping that includes combining values to populate a single field, see [Map response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-sgc-stepper-5.md) in the Security Posture Control product documentation.
 
 9.  See [validate your connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-sgc-validate-api-connector.md) in the Security Posture Control product documentation for more information about the validation step, publishing your connector, and completing the process.
 
 
-**Parent Topic:**[[using-now-assist-api-connector|Creating an API connector with generative ai]]
+**Parent Topic:**[Creating an API connector with generative ai](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/using-now-assist-api-connector.md)
 
-## Related
-
-- [[activate-skills-now-assist-vulnerability-response|Configure a generative AI skill]]
-- [[spc-sgc-template-stepper1|Enter metadata]]
-- [[spc-sgc-template-stepper2|Create connector alias and connection credentials]]
-- [[spc-sgc-validate-api-connector|Validate your API connector]]
-- [[spc-sgc-stepper-5|Map API response to SPC attributes]]
-- [[using-now-assist-api-connector|Creating an API connector with generative ai]]
-- [[spc-landing|Security Posture Control]]
-- [[now-assist-for-vulnerability-response-landing|Now Assist for Vulnerability Response]]
-- [[mapping-logrhythm|Mapping]]

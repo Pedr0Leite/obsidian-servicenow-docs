@@ -23,17 +23,12 @@ The PRM plugin \(com.snc.partner\_relationship\_management\) comes with a set of
 |sn\_prm\_sales\_partner\_sales\_manager|This role is assigned to external channel partner organizational staff to manage the entire sales lead to cash life cycle for B2B and B2C customers.| |
 |sn\_prm\_sales\_partner\_sales\_relationship\_manager|This role is assigned to enterprise personnel to manage the entire sales lead to cash life cycle for the hierarchy of their channel partners.| |
 
-**Parent Topic:**[[install-sales-common-for-partner-relationship-management|Install Sales Common for Partner Relationship Management]]
+**Parent Topic:**[Install Sales Common for Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/install-sales-common-for-partner-relationship-management.md)
 
 **Related topics**  
 
 
-[[partner-relationship-management|Partner Relationship Management]]
+[Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/partner-relationship-management.md)
 
-[[using-partner-relationship-management|Using Partner Relationship Management]]
+[Using Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-partner-relationship-management.md)
 
-## Related
-
-- [[install-sales-common-for-partner-relationship-management|Install Sales Common for Partner Relationship Management]]
-- [[partner-relationship-management|Partner Relationship Management]]
-- [[using-partner-relationship-management|Using Partner Relationship Management]]

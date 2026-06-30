@@ -35,7 +35,7 @@ View projects and project details
 
 </td><td>
 
-Customers can view the projects created for their accounts if they've been associated with the project as a project contact. Customers have read-only access to project details on the Customer Project form. Customers can also view records in the following related [[migration-lists|lists]] if the system administrator has configured the corresponding ACLs for each of the tables.
+Customers can view the projects created for their accounts if they've been associated with the project as a project contact. Customers have read-only access to project details on the Customer Project form. Customers can also view records in the following related lists if the system administrator has configured the corresponding ACLs for each of the tables.
 
 -   Customer Project Tasks
 -   Project Change Requests
@@ -134,7 +134,3 @@ Customer contacts can view the project change request and project issue records 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[migration-lists|Lists]]

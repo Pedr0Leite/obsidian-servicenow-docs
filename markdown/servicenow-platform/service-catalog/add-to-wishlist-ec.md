@@ -24,7 +24,7 @@ Role required: requester
 
 1.  Navigate to **All** &gt; **Employee Center** &gt; **IT**.
 
-2.  Select a topic to view the catalog items and then select catalog item or [[c_RecordProducer|record producer]] from the Catalog.
+2.  Select a topic to view the catalog items and then select catalog item or record producer from the Catalog.
 
 3.  Click the Add to Wish List icon \(\[Omitted image "SPWishList.png"\] Alt text: Icon to add to the wishlist\) in the Ordering widget.
 
@@ -58,7 +58,7 @@ To clear the wish list, click **Clear Wish List**.
 
 </td><td>
 
-To navigate to the [[service-catalog|Service Catalog]] landing page, click **View the Catalog**.
+To navigate to the Service Catalog landing page, click **View the Catalog**.
 
 </td></tr></tbody>
 </table>6.  To navigate to any wish list item page, click the image or name of the item in the wish list details page.
@@ -68,7 +68,3 @@ To navigate to the [[service-catalog|Service Catalog]] landing page, click **Vie
 
 **Parent Topic:**[Service Catalog in Employee Center portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/service-catalog-in-ec.md)
 
-## Related
-
-- [[c_RecordProducer|Record Producer]]
-- [[service-catalog|Service Catalog]]

@@ -34,7 +34,7 @@ The agent responds only to questions within insurance scope and only about the c
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Initiate an interaction when a customer contacts you.
 
@@ -77,6 +77,3 @@ The agent answers your questions using information from the customer's insurance
 
 [Summarize an insurance customer interaction in Agentic Contact Center for Insurance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/summarize-insurance-customer-context.md)
 
-## Related
-
-- [[fso-overview|Financial Services]]

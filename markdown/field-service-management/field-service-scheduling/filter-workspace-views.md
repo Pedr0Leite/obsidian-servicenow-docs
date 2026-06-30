@@ -14,7 +14,7 @@ breadcrumb: [Using Dispatcher Workspace, Assigning tasks from Dispatcher Workspa
 
 # Filter Dispatcher Workspace views
 
-Filter the map view, hybrid view, and schedule view of [[dispatcher-activities|Dispatcher Workspace]] to display only the items that interest you.
+Filter the map view, hybrid view, and schedule view of Dispatcher Workspace to display only the items that interest you.
 
 ## Before you begin
 
@@ -30,12 +30,8 @@ Role required: wm\_dispatcher
 
 4.  Determine the information that you want to display.
 
-    -   To [[c_ViewAgentInformation|view agent information]], select **Agents**.
+    -   To view agent information, select **Agents**.
     -   To view contractor group information, select **Contractors**.
     -   To view agents, groups, or contractor groups with a specific skill set, select **Skills**.
     -   To view agents, groups, or contractor groups with all named skills, select **Match all skills**.
 
-## Related
-
-- [[dispatcher-activities|Dispatcher Workspace]]
-- [[c_ViewAgentInformation|View agent information]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, Workplace Reservation Management, Workplace Service Deli
 
 # Create a standard service
 
-Create a Standard service to make it available to employees by default when they [[reservation-portal|make a reservation]].
+Create a Standard service to make it available to employees by default when they make a reservation.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: sn\_wsd\_rsv.admin
 
 ## About this task
 
-A Standard service is a basic provision available with a reservable workplace item when a reservation is made. For example, white board, additional monitor, and similar other [[standard-service|standard services]].
+A Standard service is a basic provision available with a reservable workplace item when a reservation is made. For example, white board, additional monitor, and similar other standard services.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-rsv-mgmt-feat|Workplace Reservation Management]]** &gt; **Administration** &gt; **Standard Services**.
+1.  Navigate to **All** &gt; **Workplace Reservation Management** &gt; **Administration** &gt; **Standard Services**.
 
 2.  Click **New**.
 
@@ -99,8 +99,3 @@ Add a standard service to a workplace space or room based on where it is made av
 
 [Configure reservation multi-day settings in Reservable Module]()
 
-## Related
-
-- [[reservation-portal|Make a reservation]]
-- [[standard-service|Standard services]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]

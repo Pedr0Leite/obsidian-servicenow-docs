@@ -14,7 +14,7 @@ breadcrumb: [Setting up Software Asset Management Foundation plugin, Software As
 
 # Customize a Discovery pattern for Software Asset Management Foundation plugin
 
-[[c_SoftwareAssetMgmtSAMF|Software Asset Management Foundation plugin]] automatically leverages SQL Server, Exchange, and Oracle Database Discovery patterns, but you can perform steps for Software Asset Management Foundation plugin to utilize additional Discovery patterns, if needed.
+Software Asset Management Foundation plugin automatically leverages SQL Server, Exchange, and Oracle Database Discovery patterns, but you can perform steps for Software Asset Management Foundation plugin to utilize additional Discovery patterns, if needed.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ For more information on pattern customization, see [Discovery patterns used by I
 
     1.  Navigate to **Pattern Designer** &gt; **Discovery Patterns**.
 
-    2.  Open the pattern record from which you would like to collect data for Software [[c_AssetManagement|Asset Management]] \(for example, the discovery pattern for MySQL\).
+    2.  Open the pattern record from which you would like to collect data for Software Asset Management \(for example, the discovery pattern for MySQL\).
 
     3.  Select and copy the **Class Name** field value.
 
@@ -98,7 +98,3 @@ If the software product has an edition that is not being discovered, [Manually o
 
 **Parent Topic:**[Setting up Software Asset Management Foundation plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/t_SAMSetupSAMF.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmtSAMF|Software Asset Management Foundation plugin]]
-- [[c_AssetManagement|Asset Management]]

@@ -28,7 +28,7 @@ When you set a personal target, it is only visible to you.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]** &gt; **Manager Workspace**.
+1.  Navigate to **All** &gt; **Workforce Optimization for ITSM** &gt; **Manager Workspace**.
 
 2.  Click the teams icon.
 
@@ -104,6 +104,3 @@ In the **Target** field, update the value that you'd like the agent to achieve f
 
 [Performance Analytics targets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/pa-targets.md)
 
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]

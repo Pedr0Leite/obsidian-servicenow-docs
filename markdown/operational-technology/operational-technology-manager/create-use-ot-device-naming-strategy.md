@@ -14,7 +14,7 @@ breadcrumb: [Industrial Core plugin, Reference, Operational Technology Manager, 
 
 # Create and use an OT device naming strategy
 
-Create and use the [[operational-technology-overview|Operational Technology]] \(OT\) device naming strategy to create unique names for your OT devices.
+Create and use the Operational Technology \(OT\) device naming strategy to create unique names for your OT devices.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: cmdb\_ot\_admin and script\_include\_admin
 
 ## About this task
 
-The [[industrial-core-plugin|Industrial Core plugin]] comes with the **DeviceNamingStrategyHelper** script include, which identifies whether or not to use the device naming strategy. If yes, then the script identifies which naming strategy to use for a given source class. This helps reduce the number of changes that are required for the Service Graph Connector.
+The Industrial Core plugin comes with the **DeviceNamingStrategyHelper** script include, which identifies whether or not to use the device naming strategy. If yes, then the script identifies which naming strategy to use for a given source class. This helps reduce the number of changes that are required for the Service Graph Connector.
 
 ## Procedure
 
@@ -78,7 +78,3 @@ The [[industrial-core-plugin|Industrial Core plugin]] comes with the **DeviceNam
 
 **Parent Topic:**[Industrial Core plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/industrial-core-plugin.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-core-plugin|Industrial Core plugin]]

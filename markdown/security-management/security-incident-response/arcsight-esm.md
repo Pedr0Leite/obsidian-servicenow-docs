@@ -14,20 +14,20 @@ breadcrumb: [Security Incident Response integrations, Security Incident Response
 
 # ArcSight ESM Event Ingestion integration
 
-The ArcSight ESM event ingestion integration with the [[sir-landing-page|Security Incident Response]] product allows security incident analysts to collect correlated events and automate creation of security incidents with the ServiceNow platform. Data is ingested continually based on a configured polling schedule, and it is used by analysts to identify and respond to potential cyber security threats.
+The ArcSight ESM event ingestion integration with the Security Incident Response product allows security incident analysts to collect correlated events and automate creation of security incidents with the ServiceNow platform. Data is ingested continually based on a configured polling schedule, and it is used by analysts to identify and respond to potential cyber security threats.
 
 With this integration, correlated events that are candidates for security incidents can be ingested on a periodic basis. You can map fields in correlated events to security incident fields, preview the setup of an event as a security incident, and setup scheduled ingestion of events to automatically create security incidents on an ongoing basis.
 
 ## Overview of ArcSight ESM Event Ingestion integration
 
-This integration provides a [[security-operations-landing-page|security operations]] center \(SOC\) analyst with visibility to correlation events in ArcSight ESM. This data can be integrated into ServiceNow AI Platform Security Incident Response \(SIR\) security incidents for further investigation and remediation. Profiles are created in your ServiceNow AI Platform instance to handle different correlation event types that are created and made available via correlation query viewers in ArcSight ESM. These profiles customize how different ArcSight ESM correlated event fields are displayed on SIR security incidents.
+This integration provides a security operations center \(SOC\) analyst with visibility to correlation events in ArcSight ESM. This data can be integrated into ServiceNow AI Platform Security Incident Response \(SIR\) security incidents for further investigation and remediation. Profiles are created in your ServiceNow AI Platform instance to handle different correlation event types that are created and made available via correlation query viewers in ArcSight ESM. These profiles customize how different ArcSight ESM correlated event fields are displayed on SIR security incidents.
 
 ## Key features
 
 This integration includes the following key features:
 
--   Create multiple event ingestion profiles to create SIR security incidents for specific types of threats such as [[threat-intelligence-malware|malware]] and unauthorized access attempts.
--   Drag-and-drop [[mapping-logrhythm|mapping]] of ArcSight ESM correlation event field values to associated SIR security incident fields.
+-   Create multiple event ingestion profiles to create SIR security incidents for specific types of threats such as malware and unauthorized access attempts.
+-   Drag-and-drop mapping of ArcSight ESM correlation event field values to associated SIR security incident fields.
 -   A preview of the SIR security incident layout based on sample correlation events to validate event mapping details.
 -   Ingest historical correlation events as well as new notable events on configurable intervals.
 -   Filter out correlation events that do not meet SIR incident generation criteria, e.g. low priority events
@@ -48,7 +48,7 @@ The following Security Operations applications must be installed and activated f
     1.  ServiceNow Integration Hub Runtime
     2.  ServiceNow Integration Hub Action Step - REST
 
-For more information about installing the Security Operations core applications, see [[entitle-secops-product|Get entitlement for a Security Operations product or application]] and [[activate-entitled-store-app|Activate a ServiceNow Store application]].
+For more information about installing the Security Operations core applications, see [Get entitlement for a Security Operations product or application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/entitle-secops-product.md) and [Activate a ServiceNow Store application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/activate-entitled-store-app.md).
 
 ## ArcSight ESM supported versions
 
@@ -65,11 +65,3 @@ This integration requires an installed and configured MID Server in your Service
 |1|ArcSight ESM product documentation|[ArcSight product documentation](https://community.microfocus.com/t5/ArcSight-Product-Documentation/ct-p/productdocs).|
 |2|ServiceNow Product documentation website|[ServiceNow Product Documentation website](https://www.servicenow.com/docs)|
 
-## Related
-
-- [[entitle-secops-product|Get entitlement for a Security Operations product or application]]
-- [[activate-entitled-store-app|Activate a ServiceNow Store application]]
-- [[sir-landing-page|Security Incident Response]]
-- [[security-operations-landing-page|Security Operations]]
-- [[threat-intelligence-malware|Malware]]
-- [[mapping-logrhythm|Mapping]]

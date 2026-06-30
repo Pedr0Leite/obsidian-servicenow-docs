@@ -18,14 +18,14 @@ After you have configured and refined your test environment to be a good represe
 
 Role required: admin.
 
-To ensure that all stakeholders in your company are prepared for the final production upgrade, complete the administrative planning tasks in Phase 6 of the [[upgrades-planning-checklist|Upgrade planning checklist]]. When upgrading a production instance:
+To ensure that all stakeholders in your company are prepared for the final production upgrade, complete the administrative planning tasks in Phase 6 of the [Upgrade planning checklist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/upgrades-planning-checklist.md). When upgrading a production instance:
 
 -   Obtain confirmation from IT and management that all non-production instance defects have been fixed, validated, and included in an update set.
 -   Use the change management process established by your organization to track the upgrade.
 -   Communicate effectively with your user community regarding changes, new features, and process updates resulting from the upgrade.
 -   Negotiate a suitable upgrade time for all users of the ServiceNow system.
 
-    For example, schedule the upgrade after hours, to minimize impact to your users. Remember to schedule the upgrade to occur 15–20 minutes before the [[upgrades-phase-3|**Upgrade** scheduled job]] interval.
+    For example, schedule the upgrade after hours, to minimize impact to your users. Remember to schedule the upgrade to occur 15–20 minutes before the [**Upgrade** scheduled job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/upgrades-phase-3.md) interval.
 
 -   Allow time in your change window to run all test cases and validate that all integrations, key business functionality, and system performance are acceptable. Add a time buffer for responding to errors without breaching the change window.
 
@@ -60,7 +60,4 @@ To ensure that all stakeholders in your company are prepared for the final produ
 
     Replicate typical user behaviors that occur on your production instance. Assign a consistent core team of power users and key stakeholders to validate important functionality in the ServiceNow instance before and after upgrades.
 
-## Related
 
-- [[upgrades-planning-checklist|Upgrade planning checklist]]
-- [[upgrades-phase-3|Phase 3 - Verify your upgrade configurations and schedule the development instance upgrade in Now Support]]

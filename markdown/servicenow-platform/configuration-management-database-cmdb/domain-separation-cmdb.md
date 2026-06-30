@@ -14,7 +14,7 @@ breadcrumb: [Reference, Configuration Management Database \(CMDB\), Configuratio
 
 # Domain separation and Configuration Management Database \(CMDB\)
 
-[[domain-separation-relationship-formatter-editor|Domain separation]] is supported in the CMDB. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported in the CMDB. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Standard
 
@@ -29,7 +29,7 @@ For more information on support levels, see [Application support for domain sepa
 
 ## Overview of domain separation in CMDB
 
-The following topics provide details about domain separation in [[manage-cmdb|Configuration Management]] \(CMDB\) modules:
+The following topics provide details about domain separation in Configuration Management \(CMDB\) modules:
 
 -   [Domain separation in CMDB Health](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-health-domain-separation.md)
 -   [Domain separation and CMDB Query Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/domain-separation-groups-query-builder.md)
@@ -42,7 +42,3 @@ The following topics provide details about domain separation in [[manage-cmdb|Co
 
 [Domain separation and Configuration Management Database \(CMDB\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/domain-separation-cmdb.md)
 
-## Related
-
-- [[domain-separation-relationship-formatter-editor|Domain separation]]
-- [[manage-cmdb|Configuration Management]]

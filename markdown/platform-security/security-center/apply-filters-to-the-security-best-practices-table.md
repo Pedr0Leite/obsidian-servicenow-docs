@@ -14,7 +14,7 @@ breadcrumb: [Security Best Practices, Security posture console, Security Center,
 
 # Filters the security best practices table
 
-Apply filters to return more relevant results for your [[security-best-practices-manager|security best practices]].
+Apply filters to return more relevant results for your security best practices.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin
 
 1.  Access Security Best Practices Manager by selecting **All** on your ServiceNow instance and entering best practice.
 
-2.  Navigate to the **[[best-practices|Best Practices]]** table and select a field you want to apply a filter to by selecting its kebab menu, or the one with three vertical dots \(\[Omitted image "ellipsis-vertical-fill-24.svg"\] Alt text: vertical dots\).
+2.  Navigate to the **Best Practices** table and select a field you want to apply a filter to by selecting its kebab menu, or the one with three vertical dots \(\[Omitted image "ellipsis-vertical-fill-24.svg"\] Alt text: vertical dots\).
 
 <table id="choicetable_k12_2fy_cbc"><thead><tr><th align="left" id="d173189e74">
 
@@ -95,8 +95,8 @@ Apply a filter to return security best practices that match one or more of the f
  -   Address initial security configurations
 -   Keep instances up to date
 -   Manage access controls
--   Monitoring [[logs|logs]]
--   Protect with [[encryption-landing|encryption]]
+-   Monitoring logs
+-   Protect with encryption
 -   Secure emails
  **Note**: Advanced filters are applied for goals by default. To modify them, select **Make changes** &gt; **Advanced view** &gt; **Select field goals** and then build the rest of the conditions and select **Update**.
 
@@ -181,9 +181,4 @@ After you log out of your instance your filters are reset to the default setting
 
 4.  Select **Update** to apply the saved filter.
 
-## Related
 
-- [[security-best-practices-manager|Security Best Practices]]
-- [[best-practices|Best Practices]]
-- [[logs|Logs]]
-- [[encryption-landing|Encryption]]

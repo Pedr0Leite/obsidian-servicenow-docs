@@ -14,17 +14,17 @@ breadcrumb: [Use, Employee Document Management, HR Documents, HR Service Deliver
 
 # Managing employee documents
 
-Use [[hr-employee-doc-management|Employee Document Management]] to search, create, move, or manage legal holds on employee documents.
+Use Employee Document Management to search, create, move, or manage legal holds on employee documents.
 
 Employee Document Management is your virtual file cabinet containing any or all your organization's employee documents. With Employee Document Management, you can:
 
 -   Search for employee documents: There are many ways you can use to narrow down your search for employee documents.
 -   Create employee documents:
     -   Employee documents can be added directly to the document repository.
-    -   When combined with [[hr-service-delivery|HR Service Delivery]], HR agents can move documents from an HR case or add directly to the document repository.
--   Place an [[c_HRProfileRecords|HR profile]] or document type on legal hold: Placing an HR profile or document type on legal hold prevents associated employee documents from being purged after the retention period has been reached.
--   Move employee documents: When employee documents are attached to an HR case, you can manually move them to the document repository. Or, you can configure [[hr-service-administration|HR services]] to automatically move employee documents when the case is closed/complete.
--   View employee documents: Employees can view their own employee documents on the service portal or [[employee-center-landing-page|Employee Center]]. Here [Define policies for a document type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/hr-doc-management-config.md) is how you give them access by document type. The base system provides example document types.
+    -   When combined with HR Service Delivery, HR agents can move documents from an HR case or add directly to the document repository.
+-   Place an HR profile or document type on legal hold: Placing an HR profile or document type on legal hold prevents associated employee documents from being purged after the retention period has been reached.
+-   Move employee documents: When employee documents are attached to an HR case, you can manually move them to the document repository. Or, you can configure HR services to automatically move employee documents when the case is closed/complete.
+-   View employee documents: Employees can view their own employee documents on the service portal or Employee Center. Here [Define policies for a document type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/hr-doc-management-config.md) is how you give them access by document type. The base system provides example document types.
 
 **Parent Topic:**[Using Employee Document Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/using-employee-document-management.md)
 
@@ -223,7 +223,7 @@ Employee documents can also be added directly to the employee document repositor
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **All HR Cases**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **All HR Cases**.
 
 2.  Select a case that has employee documents attached.
 
@@ -286,7 +286,7 @@ A legal hold prevents the purging of documents only by out-of-box document clean
 
 7.  Click **OK**.
 
-8.  To place a document type on legal hold, navigate to **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **Employee Documents** &gt; **Document Types**.
+8.  To place a document type on legal hold, navigate to **HR Administration** &gt; **Employee Documents** &gt; **Document Types**.
 
 9.  Select a document type.
 
@@ -398,15 +398,6 @@ See [Properties for Employee Document Management application](https://raw.github
 
 1.  Navigate to **All** &gt; **HR Administration** &gt; **Employee Documents** &gt; **Purge Logs**.
 
-    A list of purged documents with the fields specified in the **These fields will be included in the purge logs if enabled** of [[employee-doc-properties|Properties for Employee Document Management Application]] appear.
+    A list of purged documents with the fields specified in the **These fields will be included in the purge logs if enabled** of Properties for Employee Document Management Application appear.
 
-## Related
 
-- [[hr-employee-doc-management|Employee Document Management]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[c_HRProfileRecords|HR Profile]]
-- [[hr-service-administration|HR services]]
-- [[employee-center-landing-page|Employee Center]]
-- [[case-management-workspace|Case management]]
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[employee-doc-properties|Properties for Employee Document Management application]]

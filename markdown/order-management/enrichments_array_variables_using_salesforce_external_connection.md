@@ -46,11 +46,7 @@ const response = Salesforce.<yourExternalConnectionVariableName>(inputs);
 **Related topics**  
 
 
-[[external-connections|Set up External connections for configuration rules]]
+[Set up External connections for configuration rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/external-connections.md)
 
-[[enrichments_on_pass_data_from_salesforce_to_logik_io_fields|Passing data from Salesforce to CPQ fields]]
+[Passing data from Salesforce to CPQ fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/enrichments_on_pass_data_from_salesforce_to_logik_io_fields.md)
 
-## Related
-
-- [[external-connections|Set up External connections for configuration rules]]
-- [[enrichments_on_pass_data_from_salesforce_to_logik_io_fields|Passing data from Salesforce to CPQ fields]]

@@ -28,7 +28,7 @@ Role required: sam\_admin
 
     This subscription information includes all subscriptions available on the Adobe admin center.
 
-3.  Verify with the Adobe admin if complete subscription data isn't getting pulled accurately into [[c_SoftwareAssetMgmt|Software Asset Management]].
+3.  Verify with the Adobe admin if complete subscription data isn't getting pulled accurately into Software Asset Management.
 
     After the validation is successful, look for system logs for any possible errors:
 
@@ -36,6 +36,3 @@ Role required: sam\_admin
     2.  **Check outbound logs for API calls and responses**: If the API response isn't successful, check [Adobe documentation](https://helpx.adobe.com/in/support.html) for the specific error.
     3.  **If the APIs were successful, review system logs**: Look for any technical failures or issues within the code itself.
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

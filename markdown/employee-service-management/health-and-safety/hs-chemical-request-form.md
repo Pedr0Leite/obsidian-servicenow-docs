@@ -198,7 +198,7 @@ JSA
 
 </td><td>
 
-Option to associate a [[hs-job-safety-analysis|job safety analysis]] \(JSA\)
+Option to associate a job safety analysis \(JSA\)
 
  Use the \(\[Omitted image "circle-info-outline-24.svg"\] Alt text: info icon\) icon to preview the JSA record
 
@@ -221,6 +221,3 @@ Any additional documents to be attached for the chemical request.
 </td></tr></tbody>
 </table>**Parent Topic:**[Health and Safety Environmental Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-reference-environmental-management.md)
 
-## Related
-
-- [[hs-job-safety-analysis|Job safety analysis]]

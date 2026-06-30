@@ -24,7 +24,7 @@ Role required: sn\_apw\_advanced.eap\_user
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** &gt; **Enterprise Agile Planning**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Enterprise Agile Planning**.
 
 2.  Add a team to Favorites.
 
@@ -49,6 +49,3 @@ Role required: sn\_apw\_advanced.eap\_user
 
 **Parent Topic:**[Manage team backlog in EAP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/using-eap.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

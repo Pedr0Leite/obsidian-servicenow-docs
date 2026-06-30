@@ -34,7 +34,7 @@ Default value
 
 </th></tr></thead><tbody><tr><td>
 
-Maximum number of daily [[r_AllocatingResources|resource allocation]] records that should be considered in synchronous mode for confirmation and allocation.\(**com.snc.resource\_management.plan.auto\_async\_threshold**\)
+Maximum number of daily resource allocation records that should be considered in synchronous mode for confirmation and allocation.\(**com.snc.resource\_management.plan.auto\_async\_threshold**\)
 
 </td><td>
 
@@ -44,7 +44,7 @@ Determines the maximum number of daily resource allocation records that should b
 
  If you always want to confirm and allocate the resource plan in synchronous mode, set the value of the property to a higher number based on your requirements.
 
-**Note:** If the property **com.snc.resource\_management.run\_state\_changes\_async** is set to true, the confirmation and allocation of [[c_ResourcePlans|resource plans]] is always considered in asynchronous mode.
+**Note:** If the property **com.snc.resource\_management.run\_state\_changes\_async** is set to true, the confirmation and allocation of resource plans is always considered in asynchronous mode.
 
 </td><td>
 
@@ -157,7 +157,7 @@ Calendar Event Duration \(Minutes\) \(**com.snc.resource\_management.allocation\
 
 The default duration for a calendar event.
 
- Resource allocations use this property to [[t_AllocateWResAllocationsRelList|create allocations]] with a decimal value.
+ Resource allocations use this property to create allocations with a decimal value.
 
  For example, a user is available for three blocks of time: two 30-minute blocks and one 60-minute block.
 
@@ -331,8 +331,3 @@ true
 </td></tr></tbody>
 </table>**Parent Topic:**[Resource Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rsrc-mgmt-reference.md)
 
-## Related
-
-- [[r_AllocatingResources|Resource allocation]]
-- [[c_ResourcePlans|Resource plans]]
-- [[t_AllocateWResAllocationsRelList|Create allocations]]

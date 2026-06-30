@@ -18,7 +18,7 @@ The Extend Your Employee Center to Pro Accelerator provides prescriptive guidanc
 
 ## Accelerator Overview
 
-Extend Your Employee Center to Pro provides [[impact-landing-page|Impact]] customers with guidance on how to extend  their current Employee Center implementation with  Employee Center Pro features. Through an overview of Employee Center Pro features, such as Content Experiences, Publishing, and Employee Communications, customers are  educated on the features available with Employee Center Pro.
+Extend Your Employee Center to Pro provides Impact customers with guidance on how to extend  their current Employee Center implementation with  Employee Center Pro features. Through an overview of Employee Center Pro features, such as Content Experiences, Publishing, and Employee Communications, customers are  educated on the features available with Employee Center Pro.
 
 Additionally, this Accelerator equips our customers with essential ServiceNow resources and leading  practice guides on how to best increase adoption and usage of the Employee Center Pro capabilities.  For additional information, see [Exploring Employee Center Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emp-center-vs-ec-pro.md).
 
@@ -58,7 +58,7 @@ Offered pursuant to the applicable ServiceNow Impact Package and Accelerator des
 |-----------------|----------------|
 |Platform Owner \(Required\)|Responsible for the overall accountability of the ServiceNow platform. Provides leadership and oversight to the System Administrators, ensures team alignment to business strategy and the ServiceNow roadmap, and is actively involved in the overarching governance of the platform.|
 |System Administrator\(s\) \(Required\)|Maintains the stability and usability of the ServiceNow platform by performing application maintenance, managing support for cases related to ServiceNow applications, and contributing to ServiceNow software releases by delivering configuration tasks and features.|
-|UX and OCM Experts \(Recommended\)|Primary stakeholders for [[user-experience-insights|user experience]] and organizational change management.|
+|UX and OCM Experts \(Recommended\)|Primary stakeholders for user experience and organizational change management.|
 |Developer\(s\) \(Recommended\)|Writes code for the ServiceNow platform.|
 |Other Customer Roles \(Recommended\)|Primary stakeholders responsible for employee experience and engagement, including Knowledge, Portal, and Catalog Managers.|
 |Trusted Service Partners \(Recommended\)|Attends ServiceNow Impact Accelerator coaching session\(s\) to understand leading practices and potentially support customer going forward.|
@@ -73,7 +73,3 @@ This Impact Accelerator in its entirety or portions of the Impact Accelerator Ac
 
 ServiceNow resources are not responsible for recommendations on a customer’s sub-production or production instances.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[user-experience-insights|User Experience]]

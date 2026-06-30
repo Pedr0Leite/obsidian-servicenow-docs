@@ -150,7 +150,7 @@ Unlock Commercial features
 
 </td><td>
 
-Indicates if you have the commercial features \(like JFR\) enabled.Not collected during ACC-VC [[file-based-discovery|file-based discovery]] \(FBD\).
+Indicates if you have the commercial features \(like JFR\) enabled.Not collected during ACC-VC file-based discovery \(FBD\).
 
 </td></tr><tr><td>
 
@@ -206,7 +206,7 @@ First Discovered
 
 </td><td>
 
-The date of the first [[r-discovery|discovery]]
+The date of the first discovery
 
 </td></tr><tr><td>
 
@@ -270,7 +270,3 @@ Reference to the \[cmdb\_ci\] table
 
 [Discover java installation data using Agent Client Collector for Visibility - Content file-based discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-file-based-discovery.md)
 
-## Related
-
-- [[file-based-discovery|File-based Discovery]]
-- [[r-discovery|Discovery]]

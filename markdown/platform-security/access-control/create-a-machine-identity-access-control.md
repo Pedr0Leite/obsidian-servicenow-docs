@@ -14,7 +14,7 @@ breadcrumb: [Machine identity access controls, Access Management]
 
 # Create a machine identity access control
 
-Enable administrators to define and enforce granular control for integration [[users|users]] by introducing User Access Profiles. This feature provides an additional layer of security and control, allowing admins to specify the exact resources \(REST APIs and SOAP APIs\) that an integration user can access, ensuring tighter governance and minimizing security risks.
+Enable administrators to define and enforce granular control for integration users by introducing User Access Profiles. This feature provides an additional layer of security and control, allowing admins to specify the exact resources \(REST APIs and SOAP APIs\) that an integration user can access, ensuring tighter governance and minimizing security risks.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Security** &gt; **[[machine-identity-access-controls|Machine Identity Access Controls]]**.
+1.  Navigate to **All** &gt; **System Security** &gt; **Machine Identity Access Controls**.
 
 2.  Select the **New** button.
 
@@ -42,7 +42,7 @@ Name
 
 </td><td>
 
-Name of the [[sc-access-control|access control]] record.
+Name of the access control record.
 
 </td></tr><tr><td>
 
@@ -112,15 +112,9 @@ Check this to apply the policy to child tables of the **Tables** field
 
 ## Result
 
-The following is an example of a machine [[identity-landing|identity]] access control form that has been filled out:
+The following is an example of a machine identity access control form that has been filled out:
 
 \[Omitted image "machine-acl-example.png"\] Alt text: An example of a machine identity access control form filled out.
 
 A user with an machine identity access control cannot access any other APIs \(REST or SOAP\) and will only be able to access the resources explicitly stated in the access control, even if they have the required roles.
 
-## Related
-
-- [[users|Users]]
-- [[machine-identity-access-controls|Machine identity access controls]]
-- [[sc-access-control|Access control]]
-- [[identity-landing|Identity]]

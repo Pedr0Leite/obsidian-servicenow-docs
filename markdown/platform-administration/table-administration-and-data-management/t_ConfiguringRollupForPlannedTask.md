@@ -70,7 +70,7 @@ Navigator
 
 </td><td>
 
-The [[reference-email-admin|reference]] column of the parent to which the value must be rolled up.
+The reference column of the parent to which the value must be rolled up.
 
 </td></tr><tr><td>
 
@@ -100,6 +100,3 @@ Select the check box to allow roll up. Leave the field unchecked to exclude the 
 </table>
 **Parent Topic:**[Extending the Task table with Planned tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_PlannedTask.md)
 
-## Related
-
-- [[reference-email-admin|Reference]]

@@ -20,7 +20,7 @@ Role required: sn\_customerservice\_agent, sn\_customerservice.consumer\_agent, 
 
 ## About this task
 
-When you create or edit a knowledge article in [[csm-workspaces-configure|CSM Configurable Workspace]], you can access the editing capabilities available with the [Knowledge Center article editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/kc-article-editor.md). Use the editing capabilities available with the article editor to format article content such as text, images, and media.
+When you create or edit a knowledge article in CSM Configurable Workspace, you can access the editing capabilities available with the [Knowledge Center article editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/kc-article-editor.md). Use the editing capabilities available with the article editor to format article content such as text, images, and media.
 
 When creating a knowledge article, you can select a knowledge base and an article template and see a preview of the selected template. Then you can use the article editor in CSM Configurable Workspace to create the article.
 
@@ -57,6 +57,4 @@ Before creating knowledge articles, the system administrator needs to [enable cr
 
 7.  Select **Save**.
 
-## Related
 
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

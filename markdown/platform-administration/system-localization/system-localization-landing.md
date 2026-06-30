@@ -14,7 +14,7 @@ breadcrumb: [Translation and localization, Configure core features, Administer t
 
 # System Localization
 
-[[ia-localization-il|Localization]] allows administrators to accommodate users from a variety of different countries, using different languages and currencies, within the same instance.
+Localization allows administrators to accommodate users from a variety of different countries, using different languages and currencies, within the same instance.
 
 ## Get started
 
@@ -36,7 +36,7 @@ breadcrumb: [Translation and localization, Configure core features, Administer t
 
 </td></tr><tr><td colspan="2">
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about properties, tables, and more.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/system-localization-[[reference-email-admin|reference]].md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about properties, tables, and more.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/system-localization-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -55,7 +55,3 @@ Reference topics provide additional information about configuration properties, 
 
 **Parent Topic:**[ServiceNow AI Platform translation and localization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/translation-and-localization.md)
 
-## Related
-
-- [[ia-localization-il|Localization]]
-- [[reference-email-admin|Reference]]

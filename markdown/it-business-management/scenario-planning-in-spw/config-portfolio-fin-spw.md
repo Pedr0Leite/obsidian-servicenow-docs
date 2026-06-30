@@ -14,7 +14,7 @@ breadcrumb: [Configure, Portfolio Planning in Strategic Planning Workspace, Stra
 
 # Configure portfolio financials in Strategic Planning
 
-Configuration details for properties and scheduled jobs to view and manage portfolio financials in [[alignment-planner-workspace-landing-page|Strategic Planning]]
+Configuration details for properties and scheduled jobs to view and manage portfolio financials in Strategic Planning
 
 ## Before you begin
 
@@ -38,6 +38,4 @@ Role required: admin
 
     For more information, see [Activate a scheduled job to generate data to view portfolio financials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/fin-data-generation-scheduled-job-spw.md).
 
-## Related
 
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

@@ -16,7 +16,7 @@ breadcrumb: [Express List in SOW for ITOM, Using SOW for ITOM, Service Operation
 
 Gain a better understanding of the relationships between alerts in alert groups in the Express List by using Link View. Link View offers a visual representation of the relationships between the alerts in a group.
 
-When [[c_EM|Event Management]] generates an alert group, Link View shows how the attributes of the alerts in the group are linked. The colored tags represent configuration items \(CIs\) and other environment items in relation to the alerts.
+When Event Management generates an alert group, Link View shows how the attributes of the alerts in the group are linked. The colored tags represent configuration items \(CIs\) and other environment items in relation to the alerts.
 
 The information shown in Link View is available without the need for a populated Configuration Management Database \(CMDB\). However, when the CMDB is populated, Link View offers additional value by providing the probable cause of the alerts and the service that the alert group impacts.
 
@@ -48,6 +48,3 @@ Currently, Link View is supported for several alert groups. For more information
 
 [View links between alerts in a group in Express List](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/view-relationships-between-alerts-in-groups.md)
 
-## Related
-
-- [[c_EM|Event Management]]

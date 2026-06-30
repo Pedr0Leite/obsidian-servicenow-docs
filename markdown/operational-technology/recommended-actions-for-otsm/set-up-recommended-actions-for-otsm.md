@@ -14,7 +14,7 @@ breadcrumb: [Configure, Recommended Actions for OTSM, Operational Technology]
 
 # Set up Recommended Actions for Operational Technology Service Management \(OTSM\)
 
-Set up recommended actions to display relevant recommendations in the [[industrial-workspace-for-operational-technology|Industrial Workspace]].
+Set up recommended actions to display relevant recommendations in the Industrial Workspace.
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ Role required: admin
 
 **Parent Topic:**[Configuring Recommended Actions for Operational Technology Service Management \(OTSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/recommended-actions-for-otsm/configuring-recommended-actions-otsm.md)
 
-## Related
-
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

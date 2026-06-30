@@ -22,7 +22,7 @@ Role required: admin.
 
 ## About this task
 
-The [[hp-dep-help-tool-features|Homepage deprecation help tool]] is a store app. For more information about installing store apps, see Install a ServiceNow Store application.
+The Homepage deprecation help tool is a store app. For more information about installing store apps, see Install a ServiceNow Store application.
 
 ## Procedure
 
@@ -46,6 +46,4 @@ The [[hp-dep-help-tool-features|Homepage deprecation help tool]] is a store app.
 
     In the Review Installation Details dialog box, any dependencies installed with your application are listed.
 
-## Related
 
-- [[hp-dep-help-tool-features|Homepage deprecation help tool]]

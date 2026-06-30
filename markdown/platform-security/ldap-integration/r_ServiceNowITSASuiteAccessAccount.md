@@ -14,7 +14,7 @@ breadcrumb: [Active Directory Application Mode \(ADAM\), LDAP integration, Authe
 
 # Active Directory Application Mode \(ADAM\) Access Account
 
-The system requires a user account to read the [[c_ActiveDirectoryApplicationMode|Active Directory Application Mode \(ADAM\)]] object information that is imported into the application instance.
+The system requires a user account to read the Active Directory Application Mode \(ADAM\) object information that is imported into the application instance.
 
 Create the account by using one of the following methods:
 
@@ -31,6 +31,3 @@ When using ADAM as an LDAP source, you must specify the fully qualified distingu
 
 [http://www.microsoft.com/downloads/en/details.aspx?familyid=9688f8b9-1034-4ef6-a3e5-2a2a57b5c8e4&amp;displaylang=en%7C](http://www.microsoft.com/downloads/en/details.aspx?familyid=9688f8b9-1034-4ef6-a3e5-2a2a57b5c8e4&displaylang=en%7C)
 
-## Related
-
-- [[c_ActiveDirectoryApplicationMode|Active Directory Application Mode \(ADAM\)]]

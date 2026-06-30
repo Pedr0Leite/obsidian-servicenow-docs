@@ -97,7 +97,7 @@ field\_name field
 
 </td><td>
 
-If true, a tree is displayed to select from that includes [[reference-email-admin|reference]] fields so you can dot-walk.
+If true, a tree is displayed to select from that includes reference fields so you can dot-walk.
 
 </td></tr><tr><td>
 
@@ -147,7 +147,7 @@ any table
 
 </td><td>
 
-If true, attachments on the table are indexed for search purposes. To learn more, see [[t_DisablingAttachmentsOnATable|Index attachments on a table]].
+If true, attachments on the table are indexed for search purposes. To learn more, see [Index attachments on a table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_DisablingAttachmentsOnATable.md).
 
 </td></tr><tr><td>
 
@@ -211,7 +211,7 @@ collection field
 
 </td><td>
 
-Specifies the interval of [[c_MetricDefinitionSupport|metrics]] collection.
+Specifies the interval of metrics collection.
 
 </td></tr><tr><td>
 
@@ -275,7 +275,7 @@ any table derived from sys\_auto
 
 </td><td>
 
-If present or true, disables the usual **Execute Now** button. The ServiceNow AI Platform applications that use [[c_UseSchedules|schedules]], such as Discovery, use this attribute to substitute their own more appropriate action.
+If present or true, disables the usual **Execute Now** button. The ServiceNow AI Platform applications that use schedules, such as Discovery, use this attribute to substitute their own more appropriate action.
 
 </td></tr><tr><td>
 
@@ -389,7 +389,7 @@ any table
 
 </td><td>
 
-If present or true, causes an icon \(an envelope\) to appear in the more options menu in the form header. If you click it, a pop-up [[c_EnableTheEmailClient|email client]] appears.
+If present or true, causes an icon \(an envelope\) to appear in the more options menu in the form header. If you click it, a pop-up email client appears.
 
 </td></tr><tr><td>
 
@@ -879,7 +879,7 @@ any field
 
 </td><td>
 
-If present or true, creates a toggle option on the activity formatter header for incidents, tasks, and problems. The toggle provides a choice between the **Live Feed** for that record \(also known as a document feed\) or the activity formatter fields already in use. To learn more, see [[c_ActivityFormatter|Activity formatter]] for more details.
+If present or true, creates a toggle option on the activity formatter header for incidents, tasks, and problems. The toggle provides a choice between the **Live Feed** for that record \(also known as a document feed\) or the activity formatter fields already in use. To learn more, see [Activity formatter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ActivityFormatter.md) for more details.
 
 </td></tr><tr><td>
 
@@ -975,7 +975,7 @@ positive integer
 
 </td><td>
 
-any table affected by the [[table-cleaner|table cleaner]]
+any table affected by the table cleaner
 
 </td><td>
 
@@ -1332,7 +1332,7 @@ any reference field with an auto completer \(see ref\_auto\_completer\)
 
 </td><td>
 
-Causes auto-complete to work with all fields that are specified in the **ref\_ac\_columns** attribute. This attribute overrides the default behavior, which searches only the display value column. To learn more, see [[c_AutoCompleteForReferenceFields|Configure auto-complete to match text from any reference field]].
+Causes auto-complete to work with all fields that are specified in the **ref\_ac\_columns** attribute. This attribute overrides the default behavior, which searches only the display value column. To learn more, see [Configure auto-complete to match text from any reference field](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_AutoCompleteForReferenceFields.md).
 
 </td></tr><tr><td>
 
@@ -1382,7 +1382,7 @@ any reference field \(can be applied to a table to affect all reference fields o
 
 </td><td>
 
-Specifies the name of a JavaScript class \(client side\) that creates the list auto completion choices. Valid class values include: -   AJAXReferenceCompleter: Matching auto-complete choices appear as a list. Only the [[c_DisplayValues|Display values]] column of the reference table appears. If there is no other auto-completion class specified, reference fields automatically use this class.
+Specifies the name of a JavaScript class \(client side\) that creates the list auto completion choices. Valid class values include: -   AJAXReferenceCompleter: Matching auto-complete choices appear as a list. Only the [Display values](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_DisplayValues.md) column of the reference table appears. If there is no other auto-completion class specified, reference fields automatically use this class.
 -   AJAXTableCompleter: Matching auto-complete choices appear as rows in a table. The display value column of the reference table appears, with any columns listed in the **ref\_ac\_columns** attribute.
 -   AJAXReferenceChoice: Displays matching auto-complete choices as a list. Only the display value column of the reference table, and up to 25 matching choices, appear. If there are more than 25 auto-complete choices, the choices for the AJAXTableCompleter class appear for the reference field instead.
 
@@ -1634,7 +1634,7 @@ condition fields
 
 </td><td>
 
-Enables or disables the condition count widget to preview how many records are a set of conditions. To learn more, see [[t_AddingTheConditionCountWidget|Add the condition count to a condition field]].
+Enables or disables the condition count widget to preview how many records are a set of conditions. To learn more, see [Add the condition count to a condition field](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddingTheConditionCountWidget.md).
 
 </td></tr><tr><td>
 
@@ -1840,7 +1840,7 @@ target_field=percent_complete_target,target_threshold_colors=0:tomato;50:khaki;9
 target_field=percent_complete_target,target_threshold_colors=0:tomato;50:khaki;90:lightgreen,target_field=u_expected_completion
 ```
 
- If you do not specify an additional target\_field, a target value of 100 is used, allowing you to use the color thresholds with a single field value. See [[c_TargetThresholdColorsAttribute|Target threshold colors attribute]].
+ If you do not specify an additional target\_field, a target value of 100 is used, allowing you to use the color thresholds with a single field value. See [Target threshold colors attribute](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_TargetThresholdColorsAttribute.md).
 
 </td></tr><tr><td>
 
@@ -1889,7 +1889,7 @@ any table
 </td><td>
 
 Sets the value to false to [Enable or disable the Zing junk filter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/t_DisableTheJunkFilter.md) for the table. -   By default, Zing does not index or search for two-digit numbers and single character words \(unless they are Chinese or Japanese characters\).
--   Regenerate the index after disabling the junk filter. This attribute [[hs-results|results]] in a larger table index.
+-   Regenerate the index after disabling the junk filter. This attribute results in a larger table index.
 -   For optimal performance, do not apply it unless it is required.
 
 </td></tr><tr><td>
@@ -2122,17 +2122,3 @@ To convert fields that are displayed in milliseconds \(such as 'Resolution Time'
 
 **Parent Topic:**[Managing tables and indexes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/using-table-administration.md)
 
-## Related
-
-- [[t_DisablingAttachmentsOnATable|Index attachments on a table]]
-- [[c_ActivityFormatter|Activity formatter]]
-- [[c_AutoCompleteForReferenceFields|Auto-complete for reference fields]]
-- [[c_DisplayValues|Display values]]
-- [[t_AddingTheConditionCountWidget|Add the condition count to a condition field]]
-- [[c_TargetThresholdColorsAttribute|Target threshold colors attribute]]
-- [[reference-email-admin|Reference]]
-- [[c_MetricDefinitionSupport|Metrics]]
-- [[c_UseSchedules|Schedules]]
-- [[c_EnableTheEmailClient|Email client]]
-- [[table-cleaner|Table cleaner]]
-- [[hs-results|Results]]

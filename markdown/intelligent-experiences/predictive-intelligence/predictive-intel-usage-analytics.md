@@ -14,7 +14,7 @@ breadcrumb: [Testing and monitoring predictions, Predictive Intelligence, Enable
 
 # Predictive Intelligence Usage Analytics dashboard
 
-The Predictive Intelligence Usage Analytics dashboard is a central location to understand the effectiveness and overall value of all your [[predictive-intelligence-landing|Predictive Intelligence]] solutions. View metrics for model training successes and failures. Monitor prediction statistics including breakdowns by individual model.
+The Predictive Intelligence Usage Analytics dashboard is a central location to understand the effectiveness and overall value of all your Predictive Intelligence solutions. View metrics for model training successes and failures. Monitor prediction statistics including breakdowns by individual model.
 
 \[Omitted image "predictive-intel-usage-analytics-overview-a.png"\] Alt text: An overview of the PI Usage Dashboard, with the tab for the Classification tab open. The Date Range selector is highlighted. Several widgets are visible, such as Total Active Solutions.
 
@@ -180,6 +180,3 @@ For the following widgets, use the selector labeled **Clustering solution** on t
 
 [Track classification prediction results over time](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/review-prediction-results.md)
 
-## Related
-
-- [[predictive-intelligence-landing|Predictive Intelligence]]

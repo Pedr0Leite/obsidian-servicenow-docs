@@ -14,7 +14,7 @@ breadcrumb: [Using the Conversational Analytics Dashboard, Conversational Analyt
 
 # Users tab
 
-Get detailed information on [[virtual-agent-landing-page|Virtual Agent]] users such as the time of the last conversation and duration of the conversation.
+Get detailed information on Virtual Agent users such as the time of the last conversation and duration of the conversation.
 
 The **Users** tab provides information about users who interacted with Virtual Agent in a certain time period.
 
@@ -52,6 +52,3 @@ You can use filters to get a deeper understanding of User data.
 
 **Parent Topic:**[Using the Conversational Analytics Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/use-the-dashboard-overview-pae.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

@@ -12,7 +12,7 @@ breadcrumb: [Administer, Log Export Service \(LES\), Platform Security]
 
 # Create a log source configuration
 
-Regulate and set filters on the [[logs|logs]] to be forwarded by creating a log source [[sc-configuration|configuration]].
+Regulate and set filters on the logs to be forwarded by creating a log source configuration.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: admin or sn\_logstoanalytics.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Log [[export|Export]] Service**.
+1.  Navigate to **All** &gt; **Log Export Service**.
 
     A list of source configurations shows up.
 
@@ -48,7 +48,7 @@ Source Type
 
 Types of log sources-   Node Log
 -   Table
-See [[les-log-sources-export|Log sources]] for more information.
+See [Log sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/les-log-sources-export.md) for more information.
 
 </td></tr><tr><td>
 
@@ -103,7 +103,7 @@ Conditions to forward logs selectively.**Note:** This field is visible only if y
     2.  Select the required table in the Log Table field.
     3.  Select the lookup icon in the Topic field.
 
-        **Note:** You can select an existing topic from the list. You can also create a new topic by selecting **New** in the Kafka Topics list. See [[les-multi-topics-v2|Create source type and multi topics in the LES source table]] to create a new Kafka topic.
+        **Note:** You can select an existing topic from the list. You can also create a new topic by selecting **New** in the Kafka Topics list. See [Create source type and multi topics in the LES source table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/les-multi-topics-v2.md) to create a new Kafka topic.
 
     4.  Select **Submit** on the Source Topics form.
 6.  View the recently created log table and its corresponding topic in the Source Topics related list.
@@ -114,13 +114,5 @@ Conditions to forward logs selectively.**Note:** This field is visible only if y
 -   **[Create source type and multi topics in the LES source table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/les-multi-topics-v2.md)**  
 Consume logs for each source type by creating multiple topics per source type. You can now leverage the option of customized selection of specific topics for different log sources during the debugging process, without impacting the other log tables.
 
-**Parent Topic:**[[les-administer|Administering Log Export Service \(LES\)]]
+**Parent Topic:**[Administering Log Export Service \(LES\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/les-administer.md)
 
-## Related
-
-- [[les-log-sources-export|Log sources]]
-- [[les-multi-topics-v2|Create source type and multi topics in the LES source table]]
-- [[les-administer|Administering Log Export Service \(LES\)]]
-- [[logs|Logs]]
-- [[sc-configuration|Configuration]]
-- [[export|Export]]

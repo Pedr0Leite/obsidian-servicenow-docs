@@ -12,7 +12,7 @@ breadcrumb: [Playbook page templates, Playbooks in Customer Service Management, 
 
 # Playbook related items component
 
-The related items component provides access to the case-related [[migration-lists|lists]].
+The related items component provides access to the case-related lists.
 
 The related items component uses an expandable accordion format. Agents can expand the desired lists to see the related items. This component also displays an icon with the number of items in a list.
 
@@ -29,6 +29,3 @@ The items in an expanded list are displayed as cards. An expanded list shows one
 -   Agents can open an item in a subtab.
 -   If a list has more than five items, it includes a **Show more** option.
 
-## Related
-
-- [[migration-lists|Lists]]

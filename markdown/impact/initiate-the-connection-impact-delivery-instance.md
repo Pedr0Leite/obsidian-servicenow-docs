@@ -12,30 +12,30 @@ breadcrumb: [Use manual registration to configure the Impact Store Application, 
 
 # Initiate the connection to Impact data with manual registration
 
-Establish a connection between your [[impact-landing-page|Impact]] Store Application and the Impact Delivery Instance to allow the exchange of data.
+Establish a connection between your Impact Store Application and the Impact Delivery Instance to allow the exchange of data.
 
 ## Before you begin
 
 **Important:** A named contact administrator must be allocated to perform the installation and implementation of the Impact Store Application. The person initiating registration may not be the named contact administrator.
 
--   The named contact administrator performs the configuration starting with a registration email sent from the [[impact-squad|Impact Squad]].
+-   The named contact administrator performs the configuration starting with a registration email sent from the Impact Squad.
 -   The registration email contains a direct link to the IDI provider connection form.
 
 Role required: An Impact role
 
 ## Procedure
 
-1.  [[install-impact-innovation-lab|Install Impact]].
+1.  [Install Impact](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/install-impact-innovation-lab.md).
 
 2.  Log in to the Impact Store Application.
 
-3.  Navigate to **Guided Setup** &gt; **[[register-your-instance|Register your instance]]** &gt; **Initiate connection to the Impact Delivery Instance**.\[Omitted image "manual-registration-gui.png"\] Alt text: Initiate connection to the Impact Delivery Instance in Impact Guided Setup manual registration.
+3.  Navigate to **Guided Setup** &gt; **Register your instance** &gt; **Initiate connection to the Impact Delivery Instance**.\[Omitted image "manual-registration-gui.png"\] Alt text: Initiate connection to the Impact Delivery Instance in Impact Guided Setup manual registration.
 
     The login screen for IDI displays to enter IDI credentials.
 
 4.  Log in to the Impact Delivery Instance.
 
-5.  Navigate to **[[impact-activity-center|Activity Center]]** &gt; **Instance registration**.
+5.  Navigate to **Activity Center** &gt; **Instance registration**.
 
     The Instance registration page loads.
 
@@ -102,20 +102,11 @@ Contact \(administrator who receives the email to complete setup\)
 
 ## What to do next
 
-The named contact administrator will [[connect-instance-impact-store-app|Use manual registration to establish the connection to the provider instance]].
+The named contact administrator will [Use manual registration to establish the connection to the provider instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/connect-instance-impact-store-app.md).
 
-**Parent Topic:**[[use_manual_registration_configure_impact_store_application|Use manual registration to configure the Impact Store Application]]
+**Parent Topic:**[Use manual registration to configure the Impact Store Application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/use_manual_registration_configure_impact_store_application.md)
 
 **Previous topic:**[Use manual registration to configure the Impact Store Application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/use_manual_registration_configure_impact_store_application.md)
 
 **Next topic:**[Use manual registration to establish the connection to the provider instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/connect-instance-impact-store-app.md)
 
-## Related
-
-- [[install-impact-innovation-lab|Install Impact]]
-- [[connect-instance-impact-store-app|Use manual registration to establish the connection to the provider instance]]
-- [[use_manual_registration_configure_impact_store_application|Use manual registration to configure the Impact Store Application]]
-- [[impact-landing-page|Impact]]
-- [[impact-squad|Impact Squad]]
-- [[register-your-instance|Register your instance]]
-- [[impact-activity-center|Activity Center]]

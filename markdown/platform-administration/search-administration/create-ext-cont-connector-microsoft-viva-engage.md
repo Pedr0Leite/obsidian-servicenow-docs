@@ -19,7 +19,7 @@ Create an external content connector to retrieve searchable content and security
 
 ## Before you begin
 
-A source system administrator must have already configured your Microsoft Viva Engage source system to allow access by the [[microsoft-viva-engage-external-content-connector|Microsoft Viva Engage external content connector]]. For details on configuring these settings in the source system, see [Configure Microsoft Viva Engage for external content indexing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/configure-microsoft-viva-engage-external-content-indexing.md).
+A source system administrator must have already configured your Microsoft Viva Engage source system to allow access by the Microsoft Viva Engage external content connector. For details on configuring these settings in the source system, see [Configure Microsoft Viva Engage for external content indexing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/configure-microsoft-viva-engage-external-content-indexing.md).
 
 You need login credentials for a Microsoft Entra service user account that can grant the Microsoft Viva Engage connector access to your Microsoft Viva Engage tenant.
 
@@ -33,13 +33,13 @@ To learn more about administrator roles in Microsoft Viva Engage, see the [https
 
 Verify that you're logged out of all your Microsoft accounts.
 
-**Important:** If you're logged in to a Microsoft account when creating the connector, the connector runs using that account instead of prompting you for your Microsoft Entra service user account credentials. Using a non-service user account may prevent Microsoft Viva Engage content from being searchable in [[ia-ai-search|AI Search]] applications.
+**Important:** If you're logged in to a Microsoft account when creating the connector, the connector runs using that account instead of prompting you for your Microsoft Entra service user account credentials. Using a non-service user account may prevent Microsoft Viva Engage content from being searchable in AI Search applications.
 
 Role required: sn\_ext\_conn.xcc\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ext-cont-connectors-landing-page|External Content Connectors]]** &gt; **External Content Admin Home**.
+1.  Navigate to **All** &gt; **External Content Connectors** &gt; **External Content Admin Home**.
 
 2.  If prompted, select **Switch scope** to switch to the External Content Connectors Admin scope.
 
@@ -73,7 +73,7 @@ Authority URL
 
 </td><td>
 
-Authority URL used to log in to your Microsoft Viva Engage source system. The authority URL typically consists of your Microsoft cloud service endpoint URL, possibly followed by organization-specific [[r_DirectJDBCProbeParameters|parameters]]. Cloud service endpoint URLs include:
+Authority URL used to log in to your Microsoft Viva Engage source system. The authority URL typically consists of your Microsoft cloud service endpoint URL, possibly followed by organization-specific parameters. Cloud service endpoint URLs include:
 
 -   `https://login.microsoftonline.com/` \(for the Microsoft 365 cloud\)
 -   `https://login.microsoftonline.us/` \(for the Microsoft 365 GCC or GCC High cloud or the Microsoft 365 DoD cloud\)
@@ -85,7 +85,7 @@ Tenant ID
 
 </td><td>
 
-Directory \(tenant\) ID for the OAuth 2.0 application defined in the Microsoft Entra [[admin-center-intro|admin center]] that grants access to your Microsoft Viva Engage instance. If you have access to the OAuth 2.0 application's registration record in the Microsoft Entra admin center, you can navigate to **Overview** and copy this ID from the **Directory \(tenant\) ID** field in the Essentials section.
+Directory \(tenant\) ID for the OAuth 2.0 application defined in the Microsoft Entra admin center that grants access to your Microsoft Viva Engage instance. If you have access to the OAuth 2.0 application's registration record in the Microsoft Entra admin center, you can navigate to **Overview** and copy this ID from the **Directory \(tenant\) ID** field in the Essentials section.
 
  If you can't access the OAuth 2.0 application's registration record in the Microsoft Entra admin center, ask your Microsoft Entra administrator for the application's **Directory \(tenant\) ID** value.
 
@@ -173,10 +173,3 @@ You can link connector search sources to search profiles from the External Conte
 
 **Parent Topic:**[Microsoft Viva Engage external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/microsoft-viva-engage-external-content-connector.md)
 
-## Related
-
-- [[microsoft-viva-engage-external-content-connector|Microsoft Viva Engage external content connector]]
-- [[ia-ai-search|AI Search]]
-- [[ext-cont-connectors-landing-page|External Content Connectors]]
-- [[r_DirectJDBCProbeParameters|Parameters]]
-- [[admin-center-intro|Admin Center]]

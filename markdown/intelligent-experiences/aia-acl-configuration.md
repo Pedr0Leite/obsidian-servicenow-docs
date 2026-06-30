@@ -16,7 +16,7 @@ The ServiceNow AI Platform enforces a deny-by-default ACL \(Access Control Lists
 
 ## Configure ACLs in AI Agent Studio
 
-ACLs configured in the [[ai-agent-studio|AI Agent Studio]] for AI agents and agentic workflows are role-based and of the Allow If type:
+ACLs configured in the AI Agent Studio for AI agents and agentic workflows are role-based and of the Allow If type:
 
 -   **Allow-If**: Grants access to data or resources when any of the specified conditions in the ACL are met. Allow If ACLs don't prevent other ACLs from granting access to the same resource even if it that specific ACL itself doesn't grant access.
 -   **Deny-Unless**: Grants access only when the invoking user identity meets all the specified conditions. No other ACLs can override or grant access to that resource once a Deny Unless ACL is in place. This is available when configuring ACLS in the ACL \[sys\_security\_acl\] table and not in the AI Agent Studio.
@@ -32,8 +32,8 @@ There are three possible options for ACLs created in AI Agent Studio:
 
 Each AI agent and agentic workflow must have its own unique ACL.
 
--   To configure an ACL in the AI Agent Studio for an AI agent, see the [[define-sec-controls-aia|Define security controls for an AI agent]] guided setup.
--   To configure an ACL for an agentic workflow, see the [[define-sec-controls-aw|Define security controls for an agentic workflow]] guided setup.
+-   To configure an ACL in the AI Agent Studio for an AI agent, see the [Define security controls for an AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/define-sec-controls-aia.md) guided setup.
+-   To configure an ACL for an agentic workflow, see the [Define security controls for an agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/define-sec-controls-aw.md) guided setup.
 
 **Note:** If there are conflicting security requirements between agentic workflows, AI agents, and AI agent tools, or if the invoking user meets the criteria for some ACLs but not others, your agentic AI fails to execute. When configuring these security settings, consider all aspects of the agentic system- including the agentic workflow, AI agents, and tools.
 
@@ -74,7 +74,7 @@ The ACL types are:
 
 ## How deny-by-default enforcement works
 
-The **Security Attribute** field value for AI Agent and agentic workflow on the Access [[controls|Controls]] table \[sys\_security\_acl\] is set to **Never**, enforcing the deny behavior and leaving the **Decision Type** field value as is, that is, **Allow If**. This configuration verifies that if an AI component already has a primary ACL in place, access continues to be governed by that ACL. The backup \(wild card\) ACLs deny access only when no primary ACL is present. The old wildcard ACLs allow users with agents that predate the availability of access controls in agentic products to continue to run their agents, but that general guidelines is to implement deny by default in all instances. The replacement means that the AI agents and agentic workflows must have explicit ACL entries to operate. Without explicit ACLs, access is denied by default.
+The **Security Attribute** field value for AI Agent and agentic workflow on the Access Controls table \[sys\_security\_acl\] is set to **Never**, enforcing the deny behavior and leaving the **Decision Type** field value as is, that is, **Allow If**. This configuration verifies that if an AI component already has a primary ACL in place, access continues to be governed by that ACL. The backup \(wild card\) ACLs deny access only when no primary ACL is present. The old wildcard ACLs allow users with agents that predate the availability of access controls in agentic products to continue to run their agents, but that general guidelines is to implement deny by default in all instances. The replacement means that the AI agents and agentic workflows must have explicit ACL entries to operate. Without explicit ACLs, access is denied by default.
 
 **Note:** The enforcement applies only to the freshly reset instances. Any instances that aren't reset aren't affected by this configuration change.
 
@@ -95,9 +95,3 @@ Enforcing deny-by-default ACLs for agentic types provides the following security
 -   Aligns the platform with secure-by-default principles for AI agentic components.
 -   Provides a clear, auditable ACL model for agentic workflows and AI agents.
 
-## Related
-
-- [[define-sec-controls-aia|Define security controls for an AI agent]]
-- [[define-sec-controls-aw|Define security controls for an agentic workflow]]
-- [[ai-agent-studio|AI Agent Studio]]
-- [[controls|Controls]]

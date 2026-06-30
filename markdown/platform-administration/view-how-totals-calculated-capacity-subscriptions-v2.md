@@ -20,7 +20,7 @@ Role required: usage\_admin, sn\_sub\_man.admin, or admin
 
 ## Procedure
 
-1.  Navigate to [[subscription-management-landing-page-v2|Subscription Management]] in one of the following ways.
+1.  Navigate to Subscription Management in one of the following ways.
 
     -   Navigate to **Admin** &gt; **Subscription Management** &gt; **Subscriptions**.
     -   Navigate to **All** &gt; **Subscription Management** &gt; **All Subscriptions**.
@@ -39,7 +39,7 @@ Role required: usage\_admin, sn\_sub\_man.admin, or admin
 
 5.  Select **Open Record** to view the full Capacity Definition record details.
 
-6.  Select **Execute** to run the query or script immediately and view the latest [[hs-results|results]].
+6.  Select **Execute** to run the query or script immediately and view the latest results.
 
     **Note:** Executing a script or table query in a Capacity Definition record does not count toward the execution total that is monitored by the system.
 
@@ -48,10 +48,5 @@ Role required: usage\_admin, sn\_sub\_man.admin, or admin
 7.  If the capacity subscription is out of compliance, adjust the number of allocated resources or increase the capacity subscription.
 
 
-**Parent Topic:**[[monitoring-capacity-subscriptions|Monitoring capacity subscriptions]]
+**Parent Topic:**[Monitoring capacity subscriptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/monitoring-capacity-subscriptions.md)
 
-## Related
-
-- [[monitoring-capacity-subscriptions|Monitoring capacity subscriptions]]
-- [[subscription-management-landing-page-v2|Subscription Management]]
-- [[hs-results|Results]]

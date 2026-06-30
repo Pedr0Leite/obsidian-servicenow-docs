@@ -12,7 +12,7 @@ breadcrumb: [Reference, Patient Support Services, Healthcare and Life Sciences S
 
 # Patient Support Services Work ATF \(Automated Test Framework\) tests
 
-The following ATF tests are available in [[pss-app|Patient Support Services]] as a part of the Patient Support Services Workspace ATF test suite.
+The following ATF tests are available in Patient Support Services as a part of the Patient Support Services Workspace ATF test suite.
 
 ## Patient Support Services Workspace ATF test suite
 
@@ -30,9 +30,5 @@ This test suite for Patient Support Services Enrollment Case ensures that enroll
 
 For more information on the Automated Test Framework, see [Exploring Automated Test Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/automated-test-framework.md).
 
-**Parent Topic:**[[pss-reference|Patient Support Services reference]]
+**Parent Topic:**[Patient Support Services reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-reference.md)
 
-## Related
-
-- [[pss-reference|Patient Support Services reference]]
-- [[pss-app|Patient Support Services]]

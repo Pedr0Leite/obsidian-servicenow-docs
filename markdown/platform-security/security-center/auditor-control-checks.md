@@ -16,13 +16,13 @@ breadcrumb: [Scan suites, Security scanner, Security configuration console, Secu
 
 Learn about the checks available in the default Access Controls Auditor Suites, what criteria they evaluate, and how they can be used to improve the security of your instance.
 
-[[access-control-rules|Access Control List rules]] \(ACLs\) restrict access to data by requiring [[users|users]] to pass a set of requirements before they can interact with it. Access Controls Auditor checks evaluate your instance according to the eight criteria listed in the following table. Use the findings on these checks to improve the security of your instance.
+Access Control List rules \(ACLs\) restrict access to data by requiring users to pass a set of requirements before they can interact with it. Access Controls Auditor checks evaluate your instance according to the eight criteria listed in the following table. Use the findings on these checks to improve the security of your instance.
 
 |Check Name|Check Criteria|Description|
 |----------|--------------|-----------|
-|All Processors of type - SCRIPT must be protected with CSRF Token|Checks for Processors with the **SCRIPT** type that aren’t protected with a CSRF token.|All Processors with the **SCRIPT** type should be protected with a Cross-site [[c_requestAPI|Request]] Forgery \(CSRF\) token. These processors should have the CSRF option checked, which prohibits the processor from running unless the instance uses a CSRF token.|
+|All Processors of type - SCRIPT must be protected with CSRF Token|Checks for Processors with the **SCRIPT** type that aren’t protected with a CSRF token.|All Processors with the **SCRIPT** type should be protected with a Cross-site Request Forgery \(CSRF\) token. These processors should have the CSRF option checked, which prohibits the processor from running unless the instance uses a CSRF token.|
 |Can Contribute / Cannot Contribute user criteria to be defined on each knowledge|Checks for knowledge base records that don’t have **Can Contribute** or **Cannot Contribute** user criteria defined.|Each knowledge base should have either **Can Contribute** or **Cannot Contribute** user criteria defined. Otherwise, any user can contribute content to a knowledge base with no Contribute criteria defined.|
-|Empty ACLs|Checks for [[sc-access-control|Access Control]] List \(ACL\) records that have no security attribute, no role, or the **public** role.|Leaving ACLs empty or using the **public** role may provide open access to any content protected by this ACL.|
+|Empty ACLs|Checks for Access Control List \(ACL\) records that have no security attribute, no role, or the **public** role.|Leaving ACLs empty or using the **public** role may provide open access to any content protected by this ACL.|
 |Access Controls on Client callable Script Includes|Checks for client-callable script includes that aren’t secured by ACLs.|All client callable script includes should be secured with an ACL using required roles.|
 |Access controls on UI Pages|Checks for UI Pages that aren’t secured by ACLs|Without an ACL securing access to a UI Page, that UI Page is accessible to all logged-in internal users. Without any restrictions logged-in users can potentially make unauthorized changes.|
 |Access controls on Tables|Checks for tables without ACLs|Tables should be secured with ACLs. Access to data stored in tables should be limited only to users that need it.|
@@ -31,9 +31,3 @@ Learn about the checks available in the default Access Controls Auditor Suites, 
 
 **Parent Topic:**[Scan suites](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sec-center-suites.md)
 
-## Related
-
-- [[access-control-rules|Access Control List Rules]]
-- [[users|Users]]
-- [[c_requestAPI|request]]
-- [[sc-access-control|Access control]]

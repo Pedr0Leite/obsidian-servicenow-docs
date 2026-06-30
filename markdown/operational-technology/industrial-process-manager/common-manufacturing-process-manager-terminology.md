@@ -14,7 +14,7 @@ breadcrumb: [Explore, Industrial Process Manager, Operational Technology]
 
 # Industrial Process Manager common terminology
 
-Before getting started with the [[industrial-process-manager-overview|Industrial Process Manager]], let's look at some common terminology and acronyms that are used in this content.
+Before getting started with the Industrial Process Manager, let's look at some common terminology and acronyms that are used in this content.
 
 <table id="table_msb_ghs_gqb"><thead><tr><th>
 
@@ -30,7 +30,7 @@ Definition
 
 </th></tr></thead><tbody><tr><td>
 
-[[operational-technology-overview|Operational Technology]]
+Operational Technology
 
 </td><td>
 
@@ -52,7 +52,7 @@ ISA
 
 </td><td>
 
-Organization that publishes the standards for industrial enterprises, including the [[isa-95-equipment-model|ISA-95 equipment model]].
+Organization that publishes the standards for industrial enterprises, including the ISA-95 equipment model.
 
 </td></tr><tr><td>
 
@@ -69,8 +69,3 @@ Common term that is used for taking data from a source system, transforming it, 
 </td></tr></tbody>
 </table>**Parent Topic:**[Exploring Industrial Process Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/exploring-manufacturing-process-mgr.md)
 
-## Related
-
-- [[industrial-process-manager-overview|Industrial Process Manager]]
-- [[operational-technology-overview|Operational Technology]]
-- [[isa-95-equipment-model|ISA-95 equipment model]]

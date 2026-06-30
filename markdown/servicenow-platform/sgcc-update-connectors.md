@@ -12,7 +12,7 @@ breadcrumb: [Explore connectors, Configuring SGC Central, SGC Central, Integrati
 
 # Update an installed Service Graph Connector in SGC Central
 
-Keep a Service Graph Connector up-to-date within [[sgcc-landing|SGC Central]].
+Keep a Service Graph Connector up-to-date within SGC Central.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 1.  Use one of the following methods to open SGC Central:
 
-    -   Navigate to **Workspaces** &gt; **[[sg-workspace|Service Graph Workspace]]**, and from the left navigation panel, select the Ingestion icon \[Omitted image "icon-sgc-central.png"\] to open the SGC Central view.
+    -   Navigate to **Workspaces** &gt; **Service Graph Workspace**, and from the left navigation panel, select the Ingestion icon \[Omitted image "icon-sgc-central.png"\] to open the SGC Central view.
     -   Navigate to **Workspaces** &gt; **CMDB Workspace** &gt; **SGC Central**.
 2.  Select **Explore connectors**.
 
@@ -34,7 +34,4 @@ Role required: admin
     -   Select **Install updates** to open Application Manager, and then view and install updates for a connector from the **Updates** tab.
     For more information, see [Application Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager.md).
 
-## Related
 
-- [[sgcc-landing|SGC Central]]
-- [[sg-workspace|Service Graph Workspace]]

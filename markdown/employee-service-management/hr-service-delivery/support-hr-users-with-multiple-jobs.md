@@ -23,7 +23,7 @@ Beginning in the New York release, you can use the new Jobs \(sn\_hr\_core\_job\
 
 ## Jobs table and HR Profile table
 
-The [[c_HRProfileRecords|HR Profile]] table has a [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] to the Jobs table for the user's primary job.
+The HR Profile table has a reference to the Jobs table for the user's primary job.
 
 <table id="table_fn3_ylg_f3b"><thead><tr><th>
 
@@ -64,7 +64,7 @@ In the case of Eva Seahorn, for example, Eva was rehired as a marketing director
 
 ## Supporting multiple jobs in a lifecycle event
 
-Use the Jobs table to create lifecycle event cases where you can specify which job the case pertains to. For example, say that you have an intern that is being transferred to a full-time position. The intern has two associated job records. When an onboarding case for the full-time position is created, the case is associated with the full-time job record, ensuring that downstream [[activity-lxp|activity]] sets and activities are triggered based on information from that relevant job record. For more information, see [Support multiple jobs in a lifecycle event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/adopt-jobs-table.md).
+Use the Jobs table to create lifecycle event cases where you can specify which job the case pertains to. For example, say that you have an intern that is being transferred to a full-time position. The intern has two associated job records. When an onboarding case for the full-time position is created, the case is associated with the full-time job record, ensuring that downstream activity sets and activities are triggered based on information from that relevant job record. For more information, see [Support multiple jobs in a lifecycle event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/adopt-jobs-table.md).
 
 **Parent Topic:**[HR Administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_AdministerHRServiceManagement.md)
 
@@ -77,8 +77,3 @@ Use the Jobs table to create lifecycle event cases where you can specify which j
 
 [hr\_ActivityUtils - Global](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/hr_ActivityUtilsAPI.md)
 
-## Related
-
-- [[c_HRProfileRecords|HR Profile]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[activity-lxp|Activity]]

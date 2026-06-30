@@ -12,18 +12,12 @@ breadcrumb: [Configure, price, quote, Reference, Sales Customer Relationship Man
 
 # Quote Management reference
 
-Reference topics provide additional information about the [[quote-management|Quote Management]] application.
+Reference topics provide additional information about the Quote Management application.
 
--   **[[components-installed-quote-management|Components Installed with Quote Management]]**  
+-   **[Components Installed with Quote Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/components-installed-quote-management.md)**  
 Several types of components are installed with activation of the Quote Management plugin, including user roles.
--   **[[quote-detail-form-fields|Quote details forms]]**  
+-   **[Quote details forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-detail-form-fields.md)**  
 Use Quote details forms to capture, view, and manage all key information about a quote.
 
-**Parent Topic:**[[reference-cpq|Configure, price, quote reference]]
+**Parent Topic:**[Configure, price, quote reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/reference-cpq.md)
 
-## Related
-
-- [[components-installed-quote-management|Components Installed with Quote Management]]
-- [[quote-detail-form-fields|Quote details forms]]
-- [[reference-cpq|Configure, price, quote reference]]
-- [[quote-management|Quote Management]]

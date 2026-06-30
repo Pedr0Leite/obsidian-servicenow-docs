@@ -14,7 +14,7 @@ breadcrumb: [Extend SLA condition rules, Configuring Service Level Management, S
 
 # Invoke SLA condition rules on a specific SLA definition
 
-You can change the [[c_SLAConditionRules|SLA condition rules]] for a specific SLA definition.
+You can change the SLA condition rules for a specific SLA definition.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ In cases where a particular SLA requires that specific SLA condition rules shoul
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[service-level-mgmt-landing-page|Service Level Management]]** &gt; **SLA** &gt; **SLA Definitions**.
+1.  Navigate to **All** &gt; **Service Level Management** &gt; **SLA** &gt; **SLA Definitions**.
 
 2.  Open an SLA definition record.
 
@@ -44,7 +44,3 @@ In cases where a particular SLA requires that specific SLA condition rules shoul
 
 [SLA condition rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/c_SLAConditionRules.md)
 
-## Related
-
-- [[c_SLAConditionRules|SLA condition rules]]
-- [[service-level-mgmt-landing-page|Service Level Management]]

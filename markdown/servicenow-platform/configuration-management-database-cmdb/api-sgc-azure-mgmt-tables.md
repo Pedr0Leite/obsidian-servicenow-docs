@@ -176,7 +176,7 @@ The following attributes in the API Backend \[cmdb\_ci\_api\_backend\] table are
 
 <table id="table_cgq_3jj_dxb"><thead><tr><th>
 
-Attribute [[label|label]]
+Attribute label
 
 </th><th>
 
@@ -311,6 +311,3 @@ The following attributes in the API Consumer Access \[api\_consumer\_access\] ta
 |API|api|
 |Valid to|valid\_to|
 
-## Related
-
-- [[label|Label]]

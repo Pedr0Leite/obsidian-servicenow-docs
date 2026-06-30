@@ -14,9 +14,9 @@ breadcrumb: [Administer, AI Search, Search administration, Configure core featur
 
 # Internationalization support for AI Search
 
-[[ia-ai-search|AI Search]] supports indexing and search in all languages offered by the ServiceNow AI Platform®. Search linguistic features are supported in Arabic, Brazilian Portuguese, Czech, Danish, Dutch, English, Finnish, French, French - Canada, German, Hebrew, Hungarian, Italian, Japanese, Korean, Norwegian \(Bokmål\), Polish, Portuguese, Russian, Simplified Chinese, Spanish, Swedish, Traditional Chinese, and Turkish.
+AI Search supports indexing and search in all languages offered by the ServiceNow AI Platform®. Search linguistic features are supported in Arabic, Brazilian Portuguese, Czech, Danish, Dutch, English, Finnish, French, French - Canada, German, Hebrew, Hungarian, Italian, Japanese, Korean, Norwegian \(Bokmål\), Polish, Portuguese, Russian, Simplified Chinese, Spanish, Swedish, Traditional Chinese, and Turkish.
 
-[[explore-language-support-ais|Internationalization support]] is automatically enabled and isn't configurable.
+Internationalization support is automatically enabled and isn't configurable.
 
 To view the full list of languages offered as ServiceNow AI Platform plugins and supported in AI Search, see [Activate a language](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/t_ActivateALanguage.md).
 
@@ -78,7 +78,7 @@ When processing search query text, AI Search uses tokenization settings for the 
 
 **Note:** AI Search recognizes Japanese, Simplified Chinese, and Traditional Chinese terms in search queries. These terms are processed with the appropriate language tokenization settings regardless of the user session's language. As an example, if a user in a French user session searches for `remplacement ordinateur 笔记本电脑`, AI Search applies Simplified Chinese settings for the `笔记本电脑` term and French settings for the other search terms.
 
-AI Search compares your search query terms with terms from indexed content and metadata, returning search [[hs-results|results]] for indexed records or documents that contain matches. When your search terms are in the same language as the indexed terms, AI Search processes both sets of terms with the same tokenization settings, producing predictable matches and search results. If your search terms aren't in the same language as the indexed terms, AI Search processes the two sets of terms with different tokenization settings and matching may be unpredictable.
+AI Search compares your search query terms with terms from indexed content and metadata, returning search results for indexed records or documents that contain matches. When your search terms are in the same language as the indexed terms, AI Search processes both sets of terms with the same tokenization settings, producing predictable matches and search results. If your search terms aren't in the same language as the indexed terms, AI Search processes the two sets of terms with different tokenization settings and matching may be unpredictable.
 
 ## Language dependence for search features
 
@@ -98,7 +98,7 @@ Language dependence and supported languages
 
 </td><td>
 
-AI Search only evaluates Genius Result [[clone-configurations-tab|configurations]] with NLU triggers if the linked NLU model has the same language as the search query.[[genius-results-ais|Genius Results]] configurations that use an LLM or a heuristic model, such as Now Assist Multi-Content Response or Q&amp;A, are limited to languages supported by the model.
+AI Search only evaluates Genius Result configurations with NLU triggers if the linked NLU model has the same language as the search query.Genius Results configurations that use an LLM or a heuristic model, such as Now Assist Multi-Content Response or Q&amp;A, are limited to languages supported by the model.
 
 Supported languages: Arabic, Brazilian Portuguese, Czech, Danish, Dutch, English, Finnish, French, French - Canada, German, Hebrew, Hungarian, Italian, Japanese, Korean, Norwegian \(Bokmål\), Polish, Portuguese, Russian, Simplified Chinese, Spanish, Swedish, Traditional Chinese, and Turkish.
 
@@ -130,7 +130,7 @@ AI Search performs language-specific lemma normalization for terms in indexed co
 
 </td><td>
 
-AI Search only evaluates activation for [[result-improvement-rules-ais|result improvement rules]] that have the same language as the search query or that have **All Languages** specified. Supported languages: All languages activated in your instance. For the list of languages you can activate, see [Activate a language](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/t_ActivateALanguage.md).
+AI Search only evaluates activation for result improvement rules that have the same language as the search query or that have **All Languages** specified. Supported languages: All languages activated in your instance. For the list of languages you can activate, see [Activate a language](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/t_ActivateALanguage.md).
 
 </td></tr><tr><td>
 
@@ -138,7 +138,7 @@ AI Search only evaluates activation for [[result-improvement-rules-ais|result im
 
 </td><td>
 
-AI Search only considers [[stop-words-ais|stop words]] from dictionaries that have the same language as the search query. Supported languages: All languages activated in your instance. For the list of languages you can activate, see [Activate a language](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/t_ActivateALanguage.md).
+AI Search only considers stop words from dictionaries that have the same language as the search query. Supported languages: All languages activated in your instance. For the list of languages you can activate, see [Activate a language](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/t_ActivateALanguage.md).
 
 </td></tr><tr><td>
 
@@ -146,7 +146,7 @@ AI Search only considers [[stop-words-ais|stop words]] from dictionaries that ha
 
 </td><td>
 
-AI Search only considers [[synonyms-ais|synonyms]] from dictionaries that have the same language as the search query. Supported languages: All languages activated in your instance. For the list of languages you can activate, see [Activate a language](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/t_ActivateALanguage.md).
+AI Search only considers synonyms from dictionaries that have the same language as the search query. Supported languages: All languages activated in your instance. For the list of languages you can activate, see [Activate a language](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/t_ActivateALanguage.md).
 
 </td></tr><tr><td>
 
@@ -154,7 +154,7 @@ AI Search only considers [[synonyms-ais|synonyms]] from dictionaries that have t
 
 </td><td>
 
-AI Search derives a separate list of auto-correction terms for each supported language found in search source indexed content. Auto-correction only replaces search query terms with terms from the list that has the same language as the search query. Supported languages: Arabic, Brazilian Portuguese, Czech, Danish, Dutch, English, Finnish, French - Canada, French, German, Hebrew, Hungarian, Italian, Norwegian \(Bokmål\), Polish, Portuguese, Russian, Spanish, Swedish, and Turkish. [[typo-handling-ais|Typo handling]] isn't supported for Japanese, Korean, Simplified Chinese, or Traditional Chinese.
+AI Search derives a separate list of auto-correction terms for each supported language found in search source indexed content. Auto-correction only replaces search query terms with terms from the list that has the same language as the search query. Supported languages: Arabic, Brazilian Portuguese, Czech, Danish, Dutch, English, Finnish, French - Canada, French, German, Hebrew, Hungarian, Italian, Norwegian \(Bokmål\), Polish, Portuguese, Russian, Spanish, Swedish, and Turkish. Typo handling isn't supported for Japanese, Korean, Simplified Chinese, or Traditional Chinese.
 
 </td></tr></tbody>
 </table>-   **[Searching translated content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/searching-translated-content-ais.md)**  
@@ -164,26 +164,13 @@ Improve multilingual search recall by defining a set of Knowledge article search
 -   **[Configure globally searchable knowledge articles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-global-srch-kb-articles.md)**  
 Define an encoded query for knowledge articles that you want to make searchable in any language.
 -   **[Configure translation for knowledge article reference field values in facets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/translate-facet-field-values-kb.md)**  
-Specify whether facets should display knowledge article [[reference-email-admin|reference]] field values in the search user's session language. If you disable translation, facets display knowledge article reference field values in your instance's default language.
+Specify whether facets should display knowledge article reference field values in the search user's session language. If you disable translation, facets display knowledge article reference field values in your instance's default language.
 -   **[AI Search interaction with fallback languages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/interaction-fallback-language-ais.md)**  
 When a fallback language is configured for the user's session language, AI Search searches translated documents in both languages. Search uses the appropriate stop word, synonym, and typo handling dictionaries for the fallback language.
 -   **[Enable a global fallback locale for translated content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/enable-global-fallback-lang-ais.md)**  
 Configure AI Search to match translated documents in a global fallback locale's language as well as the user's session language.
 -   **[Language filtering for external content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/language-filtering-external-content.md)**  
-AI Search filters search results from [[ext-cont-connectors-landing-page|external content connectors]], showing only results in the user's session language, fallback language, and global fallback locale language.
+AI Search filters search results from external content connectors, showing only results in the user's session language, fallback language, and global fallback locale language.
 
 **Parent Topic:**[Administering AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/administer-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[explore-language-support-ais|Internationalization support]]
-- [[hs-results|Results]]
-- [[clone-configurations-tab|Configurations]]
-- [[genius-results-ais|Genius Results]]
-- [[result-improvement-rules-ais|Result improvement rules]]
-- [[stop-words-ais|Stop words]]
-- [[synonyms-ais|Synonyms]]
-- [[typo-handling-ais|Typo handling]]
-- [[reference-email-admin|Reference]]
-- [[ext-cont-connectors-landing-page|External Content Connectors]]

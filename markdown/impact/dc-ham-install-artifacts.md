@@ -12,7 +12,7 @@ breadcrumb: [Impact Value Management Data Collection Content Pack for HAM, Enabl
 
 # Review HAM artifacts
 
-The Data Collection app contains a pre-build data metric structure for the ServiceNow Performance/Platform [[io-analytics|Analytics]] application.
+The Data Collection app contains a pre-build data metric structure for the ServiceNow Performance/Platform Analytics application.
 
 ## Performance/Platform analytics
 
@@ -62,6 +62,3 @@ The app contains the following artifacts for each of the above-specified artifac
 |Manual|Impact VM - Legacy HAM systems annual run-rate|
 |Automated|Impact VM - \# of unplanned outages from HW issues this month|
 
-## Related
-
-- [[io-analytics|Analytics]]

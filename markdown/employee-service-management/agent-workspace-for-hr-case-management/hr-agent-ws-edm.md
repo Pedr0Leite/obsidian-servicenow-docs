@@ -14,10 +14,7 @@ breadcrumb: [Using Agent Workspace for HR Case Management, Agent Workspace, HR S
 
 # Employee Document Management for Agent Workspace for HR Case Management
 
-[[hr-employee-doc-management|Employee Document Management]] provides storage space, a filing system, the ability to easily retrieve documents, defining who can view sensitive documents, and when to purge documents.
+Employee Document Management provides storage space, a filing system, the ability to easily retrieve documents, defining who can view sensitive documents, and when to purge documents.
 
 For more information about Employee Document Management, see [Employee Document Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/hr-employee-doc-management.md).
 
-## Related
-
-- [[hr-employee-doc-management|Employee Document Management]]

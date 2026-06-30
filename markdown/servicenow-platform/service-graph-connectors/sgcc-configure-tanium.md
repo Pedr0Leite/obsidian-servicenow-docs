@@ -14,17 +14,17 @@ breadcrumb: [Tanium, Service Graph Connectors, Integrating third-party data into
 
 # Configure Service Graph Connector for Tanium using SGC Central
 
-Set up scheduled import jobs to pull in Tanium data into your [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]].
+Set up scheduled import jobs to pull in Tanium data into your Configuration Management Database \(CMDB\).
 
 ## Before you begin
 
-Install [[cmdb-integration-tanium|Service Graph Connector for Tanium]] version 1.7.0 or later from the ServiceNow Store. For ServiceNow Store installation steps, see [Install a ServiceNow Store application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/installing-applications-in-application-manager.md).
+Install Service Graph Connector for Tanium version 1.7.0 or later from the ServiceNow Store. For ServiceNow Store installation steps, see [Install a ServiceNow Store application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/installing-applications-in-application-manager.md).
 
 Role required: admin
 
 ## About this task
 
-The playbook experience for onboarding connectors is activated with [[sgcc-landing|SGC Central]] in the CMDB Workspace. To configure the SGC Central application, see [[sgcc-configuring|Configuring SGC Central]] and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/playbook-ui.md).
+The playbook experience for onboarding connectors is activated with SGC Central in the CMDB Workspace. To configure the SGC Central application, see [Configuring SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-configuring.md) and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/playbook-ui.md).
 
 ## Procedure
 
@@ -40,7 +40,7 @@ The playbook experience for onboarding connectors is activated with [[sgcc-landi
 
 5.  Complete the initial prerequisites when setting up a connection for the first time using a connector.
 
-    **Note:** This step is required only during the first-time setup. See [[sgcc-first-time-setup|Perform initial setup tasks when creating a connection in SGC Central]].
+    **Note:** This step is required only during the first-time setup. See [Perform initial setup tasks when creating a connection in SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-first-time-setup.md).
 
 6.  Complete the prerequisites for setting up the Tanium environment.
 
@@ -51,7 +51,7 @@ The playbook experience for onboarding connectors is activated with [[sgcc-landi
 
             **Note:** Copy the unmodifiable **ServiceNow \(reserved\)** view from the Tanium instance to create the custom view.
 
-        3.  After creating a view, select the **I have created a custom view for this connection according to the instructions** [[check-box|check box]].
+        3.  After creating a view, select the **I have created a custom view for this connection according to the instructions** check box.
         4.  After completing the **Select view** activity, select **Continue**.
 7.  Determine the type of authentication for the Tanium connection.
 
@@ -93,7 +93,7 @@ Host name
 
 </td><td>
 
-Base URL or [[ip-address|IP address]] of the Tanium server.
+Base URL or IP address of the Tanium server.
 
 </td></tr><tr><td>
 
@@ -121,7 +121,7 @@ Authentication token for the Tanium API that grants access to the Tanium data.Th
 
 </td></tr><tr><td>
 
-Use [[mid-server-landing|MID Server]]
+Use MID Server
 
 </td><td>
 
@@ -182,13 +182,3 @@ Select **View all connections** to review the connection details. The configured
 
 [Accessing the connection details of Service Graph Connector for Tanium](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-tanium-conn.md)
 
-## Related
-
-- [[sgcc-configuring|Configuring SGC Central]]
-- [[sgcc-first-time-setup|Perform initial setup tasks when creating a connection in SGC Central]]
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[cmdb-integration-tanium|Service Graph Connector for Tanium]]
-- [[sgcc-landing|SGC Central]]
-- [[check-box|Check box]]
-- [[ip-address|IP Address]]
-- [[mid-server-landing|MID Server]]

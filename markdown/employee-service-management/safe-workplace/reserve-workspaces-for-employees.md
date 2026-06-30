@@ -14,7 +14,7 @@ breadcrumb: [Managing workplace reservations for employees, Workplace Core, Safe
 
 # Create workplace reservations for an employee
 
-Create workplace reservations for an employee in the [[workplace-safety-mgmt-hr|Workplace Core]] application using the shifts and shift schedules that you defined.
+Create workplace reservations for an employee in the Workplace Core application using the shifts and shift schedules that you defined.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ You can also access the Reservation form by navigating to **Workplace Core** &gt
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Browse [[workplace-services|Workplace Services]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center** &gt; **Browse Workplace Services**.
 
 2.  Scroll and select **Reserve a space**.
 
@@ -91,7 +91,7 @@ Date and time until which the reservation remains active.
 </td></tr></tbody>
 </table>4.  Select **Submit**.
 
-5.  If you accessed the Reservation form from [[workplace-services-portal-hr|Workplace Service Portal]], on the verification page, you can create another reservation or view all the existing reservations.
+5.  If you accessed the Reservation form from Workplace Service Portal, on the verification page, you can create another reservation or view all the existing reservations.
 
     |Option|Action|
     |------|------|
@@ -107,9 +107,3 @@ Date and time until which the reservation remains active.
 
 **Parent Topic:**[Managing workplace reservations for employees](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/managing-workplace-reservations.md)
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-services|Workplace Services]]
-- [[workplace-services-portal-hr|Workplace Service Portal]]

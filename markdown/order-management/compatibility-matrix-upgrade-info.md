@@ -38,7 +38,7 @@ Customer Engagement Sequences starting with version 2.0.1
 
 Roles
 
- For more information, see [[components-installed-customer-engagement-sequences|Components installed with Customer Engagement Sequences]].
+ For more information, see [Components installed with Customer Engagement Sequences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/components-installed-customer-engagement-sequences.md).
 
 </td><td>
 
@@ -115,12 +115,7 @@ Available starting with the Zurich release and Playbooks version 28.1.
 **Related topics**  
 
 
-[[using-customer-engagement-sequences|Using Customer Engagement Sequences]]
+[Using Customer Engagement Sequences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-customer-engagement-sequences.md)
 
-[[explore-customer-engagement-sequences|Customer Engagement Sequences]]
+[Customer Engagement Sequences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-customer-engagement-sequences.md)
 
-## Related
-
-- [[components-installed-customer-engagement-sequences|Components installed with Customer Engagement Sequences]]
-- [[using-customer-engagement-sequences|Using Customer Engagement Sequences]]
-- [[explore-customer-engagement-sequences|Customer Engagement Sequences]]

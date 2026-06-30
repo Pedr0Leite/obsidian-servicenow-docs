@@ -14,7 +14,7 @@ breadcrumb: [Administer, Instance Data Replication, Manage instance data sources
 
 # Deploying a replication configuration from one instance to another in Instance Data Replication
 
-Copy a replication configuration from one instance to another through an update set in [[instance-data-replication|Instance Data Replication]] \(IDR\).
+Copy a replication configuration from one instance to another through an update set in Instance Data Replication \(IDR\).
 
 In IDR, you can capture a snapshot of a replication configuration, including selected fields, filters, or data transformations using the **Track in Update Set** option, and then copy it to another instance using an update set.
 
@@ -73,6 +73,3 @@ Export a replication configuration from one instance and import it on another in
 
 [Resolving data replication errors in Instance Data Replication]()
 
-## Related
-
-- [[instance-data-replication|Instance Data Replication]]

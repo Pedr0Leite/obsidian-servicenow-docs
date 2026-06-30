@@ -10,7 +10,7 @@ reading_time_minutes: 5
 
 # Components installed with Content Analytics
 
-Several types of components install with the activation of the [[ecpro-content-automation-analytics|Content Analytics]] \[sn\_cda\] plugin, including tables, user roles, and scheduled jobs.
+Several types of components install with the activation of the Content Analytics \[sn\_cda\] plugin, including tables, user roles, and scheduled jobs.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -234,7 +234,7 @@ Stores analytics related to page referrals.
 
 [Campaign overview and Campaign analytics dashboards]()
 
-[Components installed with [[employee-center-landing-page|Employee Center]] Pro]()
+[Components installed with Employee Center Pro]()
 
 [Components installed with Content engagement]()
 
@@ -270,7 +270,3 @@ Stores analytics related to page referrals.
 
 [To-do content form]()
 
-## Related
-
-- [[ecpro-content-automation-analytics|Content Analytics]]
-- [[employee-center-landing-page|Employee Center]]

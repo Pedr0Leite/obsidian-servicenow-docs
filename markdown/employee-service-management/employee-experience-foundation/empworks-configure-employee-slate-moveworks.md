@@ -22,8 +22,8 @@ Configure Employee Slate for Moveworks from the Product Configuration console. S
 Before you configure Employee Slate for Moveworks, verify the following prerequisites:
 
 -   You have the System administrator role.
--   The [[employee-slate-moveworks|Employee Slate for Moveworks]] foundational plugin is installed from the Product Hub page.
--   The [[employee-slate-advanced|Employee Slate Advanced]] plugin is installed if the deployment requires the advanced experience.
+-   The Employee Slate for Moveworks foundational plugin is installed from the Product Hub page.
+-   The Employee Slate Advanced plugin is installed if the deployment requires the advanced experience.
 -   The Moveworks AI Assistant instance URL is available.
 
 Role required: Admin
@@ -58,9 +58,9 @@ The Product Configuration console organizes the configuration work into modules 
 
 6.  In the **Canvas** module, configure the default canvas view and the widget library.
 
-    Select **Canvas Editor** to [[eslate-configure-canvas|configure the default canvas dashboard]]. Use the widget library to toggle the visibility of widgets that employees can add to their personal canvas. You can also edit or create widgets from the library. For the full procedure, see [Configure the default canvas dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/eslate-configure-canvas.md).
+    Select **Canvas Editor** to configure the default canvas dashboard. Use the widget library to toggle the visibility of widgets that employees can add to their personal canvas. You can also edit or create widgets from the library. For the full procedure, see [Configure the default canvas dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/eslate-configure-canvas.md).
 
-7.  In the **Documentation** module, review the links to [[employee-slate-landing-page|Employee Slate]] documentation for home page, [[emp-slate-inbox|Tasks and requests]], org chart, notifications, and [[emp-slate-employee-profile|employee profile]].
+7.  In the **Documentation** module, review the links to Employee Slate documentation for home page, Tasks and requests, org chart, notifications, and employee profile.
 
     Links open the ServiceNow documentation site in a new tab. Use the documentation to complete feature-specific configurations that aren't part of the Product Configuration console.
 
@@ -73,11 +73,3 @@ The Product Configuration console organizes the configuration work into modules 
 
 Employee Slate for Moveworks is configured with the branding, Moveworks AI Assistant connection, canvas layout, and widget library that you set. Employees can open the configured portal and interact with the Moveworks AI Assistant.
 
-## Related
-
-- [[employee-slate-moveworks|Employee Slate for Moveworks]]
-- [[employee-slate-advanced|Employee Slate Advanced]]
-- [[eslate-configure-canvas|Configure the default canvas dashboard]]
-- [[employee-slate-landing-page|Employee Slate]]
-- [[emp-slate-inbox|Tasks and requests]]
-- [[emp-slate-employee-profile|Employee profile]]

@@ -14,7 +14,7 @@ breadcrumb: [Natural Language Understanding \(NLU\) topic discovery in Virtual A
 
 # Dialog Acts for Virtual Agent
 
-As part of the Vancouver release, the Dialog Acts feature expands natural language communication with [[virtual-agent-landing-page|Virtual Agent]], leading to more fluid conversations between user and agent.
+As part of the Vancouver release, the Dialog Acts feature expands natural language communication with Virtual Agent, leading to more fluid conversations between user and agent.
 
 ## How Dialog Acts works
 
@@ -44,6 +44,3 @@ The current release includes the following types of responses, stored in the Ope
 |Affirm|Confirm a variable.|
 |Negate|Decline confirming a variable.|
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

@@ -12,7 +12,7 @@ breadcrumb: [Configure, Next Experience UI, Configure UIs and portals, Configure
 
 # Add a workspace to the Unified Navigation Workspaces menu
 
-[[configure-onboarding-modals|Configure]] the Unified Navigation to display a workspace in the Workspaces menu.
+Configure the Unified Navigation to display a workspace in the Workspaces menu.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ The available workspace displays in the Unified Navigation when you have access 
 
 2.  Select the application that you want to add to the Workspaces menu on the Unified Navigation.
 
-3.  In [[c_RelatedLists|related lists]], select the **UX Application Category M2Ms** tab.
+3.  In related lists, select the **UX Application Category M2Ms** tab.
 
     \[Omitted image "ux-application-category-tab.png"\] Alt text: UX Application Category M2Ms tab.
 
@@ -78,7 +78,7 @@ Order
 
 </td><td>
 
-Order in which the Workspace you select is displayed in the Workspaces menu.**Note:** This option is enabled once the **glide.ui.next\_experience.workspace\_sorting** system property has been created. For more information, see [[set-order-workspace-unified-navigation|Set the order of your workspaces in the Unified Navigation Workspaces menu]].
+Order in which the Workspace you select is displayed in the Workspaces menu.**Note:** This option is enabled once the **glide.ui.next\_experience.workspace\_sorting** system property has been created. For more information, see [Set the order of your workspaces in the Unified Navigation Workspaces menu](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/set-order-workspace-unified-navigation.md).
 
 </td></tr></tbody>
 </table>7.  Select **Submit**.
@@ -86,11 +86,5 @@ Order in which the Workspace you select is displayed in the Workspaces menu.**No
 8.  Refresh your browser to access the new workspace from the Workspaces menu.
 
 
-**Parent Topic:**[[next-experience-ui-admin|Configuring the Next Experience UI]]
+**Parent Topic:**[Configuring the Next Experience UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-ui-admin.md)
 
-## Related
-
-- [[set-order-workspace-unified-navigation|Set the order of your workspaces in the Unified Navigation Workspaces menu]]
-- [[next-experience-ui-admin|Configuring the Next Experience UI]]
-- [[configure-onboarding-modals|Configure]]
-- [[c_RelatedLists|Related lists]]

@@ -28,13 +28,10 @@ Role required: sn\_notify\_msteams.admin
 
 3.  Paste the copied App ID value in **Application ID of Meeting Extensibility teams app \(The App ID can be found from "Manage apps" page in Teams Admin portal\)** and select **Save**.
 
-    **Note:** Log in to the [Microsoft Teams portal](https://teams.microsoft.com/), search for and open **[[notify-connector-ms-teams|Notify Connector for Microsoft Teams]]** app at least once for the Meeting Extensions app to work.
+    **Note:** Log in to the [Microsoft Teams portal](https://teams.microsoft.com/), search for and open **Notify Connector for Microsoft Teams** app at least once for the Meeting Extensions app to work.
 
     Meeting Extensions app is set up.
 
 
 **Parent Topic:**[Integrate Meeting Extensions self-configured app with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-meeting-extensibility-single-tenant.md)
 
-## Related
-
-- [[notify-connector-ms-teams|Notify connector for Microsoft Teams]]

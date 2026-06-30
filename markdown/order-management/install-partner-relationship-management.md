@@ -12,13 +12,13 @@ breadcrumb: [Configure Partner Relationship Management, Configure, Sales Custome
 
 # Install Partner Relationship Management
 
-Install the [[partner-relationship-management|Partner Relationship Management]] plugin \(com.snc.partner\_relationship\_management\), along with the demo data and installations that are related to ServiceNow Store applications and plugins.
+Install the Partner Relationship Management plugin \(com.snc.partner\_relationship\_management\), along with the demo data and installations that are related to ServiceNow Store applications and plugins.
 
 ## Before you begin
 
 -   Ensure that the application and all of its associated ServiceNow Store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
 
-Depending on your entitlements, you must install demo data after installation. Demo data comprises the sample records that describe application features for the common [[use-cases|use cases]].
+Depending on your entitlements, you must install demo data after installation. Demo data comprises the sample records that describe application features for the common use cases.
 
 Role required: admin
 
@@ -81,19 +81,12 @@ Load the demo data after installing Partner Relationship Management.1.  Install 
 
 You have successfully installed the Partner Relationship Management application.
 
-**Parent Topic:**[[configure-partner-relationship-management|Configure Partner Relationship Management]]
+**Parent Topic:**[Configure Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-partner-relationship-management.md)
 
 **Related topics**  
 
 
-[[roles-and-components-of-partner-relationship-management|Roles and components of Partner Relationship Management]]
+[Roles and components of Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/roles-and-components-of-partner-relationship-management.md)
 
-[[data-model-for-partner-relationship-management|Data model for Partner Relationship Management]]
+[Data model for Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/data-model-for-partner-relationship-management.md)
 
-## Related
-
-- [[configure-partner-relationship-management|Configure Partner Relationship Management]]
-- [[roles-and-components-of-partner-relationship-management|Roles and components of Partner Relationship Management]]
-- [[data-model-for-partner-relationship-management|Data model for Partner Relationship Management]]
-- [[partner-relationship-management|Partner Relationship Management]]
-- [[use-cases|Use cases]]

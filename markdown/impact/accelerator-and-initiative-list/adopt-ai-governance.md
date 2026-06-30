@@ -18,7 +18,7 @@ This accelerator guides customers through the process of establishing and managi
 
 ## Accelerator Overview
 
-Adopt AI Governance builds on the [[foundations-of-ai-governance|Foundations of AI Governance]] accelerator by providing [[impact-landing-page|Impact]] customers with ready-made AIMS materials and collaborating with them to tailor these assets to their specific requirements. This offering focuses on helping customers make AI governance practices operational, in alignment with ISO/IEC 42001, removing common barriers to compliance through expert guidance. By the end of the engagement, customers have a customized, actionable governance framework to [[io-help|help]] them successfully adopt AI governance.
+Adopt AI Governance builds on the Foundations of AI Governance accelerator by providing Impact customers with ready-made AIMS materials and collaborating with them to tailor these assets to their specific requirements. This offering focuses on helping customers make AI governance practices operational, in alignment with ISO/IEC 42001, removing common barriers to compliance through expert guidance. By the end of the engagement, customers have a customized, actionable governance framework to help them successfully adopt AI governance.
 
 ## Package Availability
 
@@ -165,8 +165,3 @@ Partner Stakeholders
 
 ServiceNow is not responsible for nor guaranteeing any strategic outcomes from this engagement.
 
-## Related
-
-- [[foundations-of-ai-governance|Foundations of AI Governance]]
-- [[impact-landing-page|Impact]]
-- [[io-help|Help]]

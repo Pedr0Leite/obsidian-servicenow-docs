@@ -14,7 +14,7 @@ breadcrumb: [Configuring ServiceNow Add-in for Microsoft 365, ServiceNow Add-in 
 
 # Create a manifest file
 
-Create and download a manifest file with the configurations that you want to enable for the [[sn-addin-for-ms365|ServiceNow Add-in for Microsoft 365]].
+Create and download a manifest file with the configurations that you want to enable for the ServiceNow Add-in for Microsoft 365.
 
 ## Before you begin
 
@@ -60,6 +60,3 @@ The manifest is configured and activated for the ServiceNow Add-in for Microsoft
 
 **Parent Topic:**[Configuring ServiceNow Add-in for Microsoft 365](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/configuring-sn-addin-for-ms365.md)
 
-## Related
-
-- [[sn-addin-for-ms365|ServiceNow Add-in for Microsoft 365]]

@@ -14,7 +14,7 @@ breadcrumb: [Virtual Agent, Conversational Interfaces]
 
 # Integrating Virtual Agent with other channels
 
-Integrate and extend the capabilities of [[virtual-agent-landing-page|Virtual Agent]] by connecting to your employees and customers where they already are. They are engaged in web portals, Now® Mobile apps, and collaboration tools such as Slack, Microsoft Teams, Facebook Messenger consumer app, Workplace enterprise messaging app, and any other popular chat or messaging app.
+Integrate and extend the capabilities of Virtual Agent by connecting to your employees and customers where they already are. They are engaged in web portals, Now® Mobile apps, and collaboration tools such as Slack, Microsoft Teams, Facebook Messenger consumer app, Workplace enterprise messaging app, and any other popular chat or messaging app.
 
 -   **[Creating conversational custom chat integrations in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-custom-adapter-framework.md)**  
 Conversational custom chat integration framework is a powerful framework consisting of scriptable APIs and configurations to bring the ServiceNow® Virtual Agent to any conversational interface.
@@ -25,6 +25,3 @@ Enable users to run voice-based Virtual Agent bot conversations by integrating w
 
 **Parent Topic:**[Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/virtual-agent-landing-page.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

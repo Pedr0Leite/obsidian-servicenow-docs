@@ -28,7 +28,7 @@ However, the system analyzes the following settings to determine whether an expo
 2.  If the format-specific property is not set, the system checks the property for the general export limit. This property can also be set to any value, but exceeding the default export limit can impact system performance.
 3.  If both the format-specific export limit and the general export limit property aren't set, the system enforces the default export limit.
 
-**Important:** To set these properties, navigate to **[[r_SetArchiveRuleProcessingBehavior|System Properties]]** &gt; **Import Export**.
+**Important:** To set these properties, navigate to **System Properties** &gt; **Import Export**.
 
 <table id="table_iqm_t5l_2r"><thead><tr><th>
 
@@ -207,7 +207,7 @@ glide.ui.export.limit
 10,000
 
 </td></tr></tbody>
-</table>A warning threshold property called **glide.ui.export.warn.threshold** controls how the records are exported. When you export enough records from a list to exceed the threshold, a choice dialog appears. You can choose to wait for the export to complete or email the exported records as an attachment. The warning threshold can be changed in the system property. The email attachment must not exceed the maximum [[c_EmailAttachmentLimits|Email size limits]].
+</table>A warning threshold property called **glide.ui.export.warn.threshold** controls how the records are exported. When you export enough records from a list to exceed the threshold, a choice dialog appears. You can choose to wait for the export to complete or email the exported records as an attachment. The warning threshold can be changed in the system property. The email attachment must not exceed the maximum [Email size limits](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailAttachmentLimits.md).
 
 <table id="table_jyw_zvl_2r"><thead><tr><th>
 
@@ -277,7 +277,3 @@ The Excel export cell threshold is customizable using the **glide.xlsx.max\_cell
 
 The export puts the information into the Excel document with 32,000 rows per spreadsheet.
 
-## Related
-
-- [[c_EmailAttachmentLimits|Email size limits]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

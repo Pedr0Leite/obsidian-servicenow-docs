@@ -14,13 +14,13 @@ breadcrumb: [Integrate with SaaS applications, SaaS License Management, Software
 
 # Integrating with SAP S/4HANA Cloud Public Edition
 
-Integrating your [[c_SoftwareAssetMgmt|Software Asset Management]] application with the SAP S/4HANA Public Cloud application enables you to track your software subscriptions and optimize licenses.
+Integrating your Software Asset Management application with the SAP S/4HANA Public Cloud application enables you to track your software subscriptions and optimize licenses.
 
 **Important:**
 
 You must request and install the following applications from [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home):
 
--   [[sam-subscription-management|SaaS License Management]] plugin \(com.sn\_sam\_saas\_int\)
+-   SaaS License Management plugin \(com.sn\_sam\_saas\_int\)
 -   Software Asset Management Professional for SAP plugin \(com.sn\_samp\_sap\)
 -   SAP S/4HANA Spoke plugin \(sn\_s4\_hana\_cld\_spk\)
 -   Software Asset Management integration with SAP S/4HANA plugin \(sn\_sam\_s4hanacloud\)
@@ -137,7 +137,7 @@ ServiceNow Role required: sam\_integrator
 
 ### About this task
 
-If you’re [[using-sam-workspace|using Software Asset Workspace]], the option to create the SAP S/4HANA integration profile in Core UI is inactive.
+If you’re using Software Asset Workspace, the option to create the SAP S/4HANA integration profile in Core UI is inactive.
 
 ### Procedure
 
@@ -164,7 +164,7 @@ Action
 
 </td></tr><tr><td id="d43018e709">
 
-**[[sam-workspace|Software Asset Workspace]]**
+**Software Asset Workspace**
 
 </td><td>
 
@@ -254,7 +254,7 @@ Type of integration profile. This field is automatically set to **SAP S4Hana Clo
 
 ### What to do next
 
-After the integration connects, your ServiceNow instance automatically creates [[c_CreatingSoftwareModels|software models]] and software subscriptions that are refreshed daily.
+After the integration connects, your ServiceNow instance automatically creates software models and software subscriptions that are refreshed daily.
 
 After creating an integration profile, view information about the profile in the Software Asset Workspace by navigating to **License operations** &gt; **User subscription** &gt; **Direct integration profiles**. You can select an integration profile to view the following related lists. If all of the following related lists aren't visible for an integration profile in the default view, you can select the custom integration view from the Details tab:
 
@@ -274,10 +274,3 @@ Create software entitlements for the automatically generated software models to 
 -   For more information on creating software entitlements in the Software Asset Workspace, see [Create entitlements in workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-entitlements-workspace.md).
 -   For more information on creating software entitlements using the Software Asset Management Playbook, see [Create entitlements using the guided walk-through](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/guidedwalk-workspace.md).
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-subscription-management|SaaS License Management]]
-- [[using-sam-workspace|Using Software Asset Workspace]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_CreatingSoftwareModels|Software models]]

@@ -14,7 +14,7 @@ breadcrumb: [Journey designer, Employee Journey Management, HR Service Delivery,
 
 # Installation and configuration overview
 
-The [[jny-dsgnr-landing-page-1|Journey designer]] app has multiple versions that have different installation instructions and configuration options.
+The Journey designer app has multiple versions that have different installation instructions and configuration options.
 
 -   **[Install Journey designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-install-version-3.md)**  
 Install the Journey designer version 3 \[sn\_jny\] application to enable administrators and managers to create and manage various professional and personal events and journeys.
@@ -25,11 +25,7 @@ After you install or upgrade to the latest Journey designer application from Ser
 -   **[Configure Journey designer features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-configuration.md)**  
 Administrators configure Journey designer for the needs of their organization.
 -   **[Enable and configure the Pre-hire Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-pre-hire-enable-configure.md)**  
-Enable access to the [[jny-pre-hire-experience|Pre-hire experience]] and configure its components so your organization can use the Journey designer app to facilitate the preboarding process. You must activate and configure the components for the Pre-hire experience so newly hired employees can use the onboarding portal to embark on their first journey.
+Enable access to the Pre-hire experience and configure its components so your organization can use the Journey designer app to facilitate the preboarding process. You must activate and configure the components for the Pre-hire experience so newly hired employees can use the onboarding portal to embark on their first journey.
 
 **Parent Topic:**[Journey designer]()
 
-## Related
-
-- [[jny-dsgnr-landing-page-1|Journey designer]]
-- [[jny-pre-hire-experience|Pre-hire experience]]

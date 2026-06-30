@@ -14,7 +14,7 @@ breadcrumb: [Manage the employee profile AI and ML model, Employee profile, Setu
 
 # Manually train the employee profile predictive model
 
-Manually train the [[emp-slate-employee-profile|employee profile]] predictive intelligence to model similar users if auto-train is not enabled by default.
+Manually train the employee profile predictive intelligence to model similar users if auto-train is not enabled by default.
 
 ## Before you begin
 
@@ -33,6 +33,3 @@ Role required: sn-employee.admin
     -   Set the variable system property to **True** with the **Application** scope set to **Global** to use the auto-train model on Employee Profile.
     -   Provide a minimum of 10 records to use the auto-train model.
 
-## Related
-
-- [[emp-slate-employee-profile|Employee profile]]

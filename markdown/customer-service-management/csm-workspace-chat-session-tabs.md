@@ -16,7 +16,7 @@ Use visual indicators on chat session tabs, such as colors and icons, to alert a
 
 The chat session tabs feature helps agents to manage multiple interactions efficiently. Agents can use visual indicators to reduce the risk of threshold timer breaches, improve chat prioritization, and optimize response times. This feature enables agents to multitask effectively while maintaining service level commitments.
 
-The chat session tabs feature introduces a color-coded system for chat session tabs in [[csm-workspaces-configure|CSM Configurable Workspace]] based on configured Service Level Agreement \(SLA\) thresholds. Additional visual indicators alert agents about unread messages, chat status, and unsaved changes. These visual cues help agents to prioritize their interactions by tracking chat duration and alerting them when conversations require immediate attention.
+The chat session tabs feature introduces a color-coded system for chat session tabs in CSM Configurable Workspace based on configured Service Level Agreement \(SLA\) thresholds. Additional visual indicators alert agents about unread messages, chat status, and unsaved changes. These visual cues help agents to prioritize their interactions by tracking chat duration and alerting them when conversations require immediate attention.
 
 ## Benefits
 
@@ -44,7 +44,7 @@ Real-time duration tracking for chat sessions
 
 </td><td>
 
-This feature actively [[gamification-components-tracks|tracks]] the duration of a chat and alerts the agent when predefined SLA thresholds are reached.-   The timer begins when a customer sends a message to an agent and the tab for that chat interaction is inactive.
+This feature actively tracks the duration of a chat and alerts the agent when predefined SLA thresholds are reached.-   The timer begins when a customer sends a message to an agent and the tab for that chat interaction is inactive.
 -   The inactive tab cycles through different colors to alert the agent to the unread message and the approaching SLA thresholds.
 -   The timer resets once the agent engages with the tab.
 
@@ -139,7 +139,7 @@ This timer alerts the agent to a severe SLA breach by changing the color of an i
 **Note:** The length of time for the Level 3 timer must be greater than the Level 2 timer.
 
 </td></tr></tbody>
-</table>For more information, see [[csm-workspace-chat-session-tabs-configure|Configure chat session tabs]].
+</table>For more information, see [Configure chat session tabs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-workspace-chat-session-tabs-configure.md).
 
 ## Tab colors
 
@@ -223,8 +223,3 @@ When this feature is enabled, chat session tabs display colors to indicate the c
 
 For more information, see [Configure chat session tabs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-workspace-chat-session-tabs-configure.md).
 
-## Related
-
-- [[csm-workspace-chat-session-tabs-configure|Configure chat session tabs]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[gamification-components-tracks|Tracks]]

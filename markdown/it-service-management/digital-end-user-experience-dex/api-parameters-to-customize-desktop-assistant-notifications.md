@@ -14,7 +14,7 @@ breadcrumb: [DEX Desktop Assistant reference, Reference, Digital End-User Experi
 
 # API parameters to configure Desktop Assistant notifications
 
-sendDANotification\(\) method parameters in the `DesktopAppNotificationUtils` script include for configuring [[da-push-notifications|Desktop Assistant notifications]].
+sendDANotification\(\) method parameters in the `DesktopAppNotificationUtils` script include for configuring Desktop Assistant notifications.
 
 <table id="table_z5k_bwb_glb"><thead><tr><th>
 
@@ -74,7 +74,7 @@ The name of the table containing the record that the notification links to. For 
 
 </td><td>
 
-The source application that triggered the notification. Accepted values are **mim** \(Major [[c_IncidentManagement|Incident Management]]\) and **pe** \([[proactive-engagement-landing-page|Proactive Engagement]]\). The value is case-insensitive. Any other value causes the API to return a 400 error.
+The source application that triggered the notification. Accepted values are **mim** \(Major Incident Management\) and **pe** \(Proactive Engagement\). The value is case-insensitive. Any other value causes the API to return a 400 error.
 
 **Note:** Desktop Assistant sends notifications for a new source only if the source is added as a choice value in the **Notification source** field of the Desktop Assistant notification \(sn\_dex\_desktop\_assistant\_notification\) table. This enables Desktop Assistant to recognize and track the source.
 
@@ -136,8 +136,3 @@ Displayed when the notification status is **Pending** at the time the Desktop As
 </td></tr></tbody>
 </table>**Parent Topic:**[DEX Desktop Assistant reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-desktop-experience-reference.md)
 
-## Related
-
-- [[da-push-notifications|Desktop Assistant notifications]]
-- [[c_IncidentManagement|Incident Management]]
-- [[proactive-engagement-landing-page|Proactive Engagement]]

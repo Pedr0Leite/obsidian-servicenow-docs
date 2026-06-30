@@ -18,20 +18,20 @@ The 'Make a reservation' form also referred to as the Reservation portal, is a c
 
 You can reserve a workplace item for any period between 00:00 to 23:59 \(midnight to 11:59 p.m.\) on the same day. For example, you can make a reservation until anytime before 23:59. If the reservation continues to another day, you must create a separate reservation.
 
-You can make a reservation from the [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] application and the [[workplace-services-portal-hr|Workplace Service Portal]].
+You can make a reservation from the Workplace Reservation Management application and the Workplace Service Portal.
 
 -   To open the 'Make a reservation' form from the application, navigate to **Workplace Reservation Management** &gt; **New Reservation**.
 -   To open the 'Make a reservation' form from the Workplace Service Portal, perform the following actions:
     1.  Select **Reservations** &gt; **Make a reservation**.
     2.  Select **Make a reservation** directly on the home page.
-    3.  Select **New general reservation** from the [[workplace-services|Workplace services]] catalog.
+    3.  Select **New general reservation** from the Workplace services catalog.
 
 The 'Make a reservation' form enables you to do the following:
 
 -   View workplace items such as meeting rooms and desks for your location or for a different location.
 -   View the availability of a meeting room or desk before making a reservation request.
--   Use workplace floor maps to find and reserve a space within [[workplace-safety-mgmt-hr|Workplace Core]]. To view the maps in the Location directory and within Workplace Reservation Management, use Mappedin and [[Indoor-mapping|Indoor Mapping]]. For more information on how to use floor maps, see [[wsm-mappedin-admin|Workplace Space Mapping]].
--   Check for any [[standard-service|standard services]] that are available with workplace items, such as whiteboards, seating capacity, and projector.
+-   Use workplace floor maps to find and reserve a space within Workplace Core. To view the maps in the Location directory and within Workplace Reservation Management, use Mappedin and Indoor Mapping. For more information on how to use floor maps, see [Workplace Space Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/wsm-mappedin-admin.md).
+-   Check for any standard services that are available with workplace items, such as whiteboards, seating capacity, and projector.
 -   Reserve a workplace item for yourself or on behalf of someone else.
 -   Reserve multiple buildings for a single reservation. For more information, see [Create multi-building reservations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-multi-building-reservation.md).
 -   View the details of the reservations that you've created.
@@ -44,7 +44,7 @@ The 'Make a reservation' form enables you to do the following:
 
 You can also use the Virtual Agent chat support on the Workplace Service Portal to make a reservation and view your reservation details. The chat support enables you to do the following:
 
--   [[create-reservation-request-1|Create a reservation]] for a location.
+-   Create a reservation for a location.
 -   View the reservations that you created on the current day.
 -   See when your reservation will start or happen.
 -   Cancel a reservation.
@@ -87,13 +87,3 @@ If the reservation requires approvals, its status changes depending on what your
 
 -   If you cancel your reservation, the state of the reservation changes to **Cancelled**.
 
-## Related
-
-- [[wsm-mappedin-admin|Workplace Space Mapping]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-services-portal-hr|Workplace Service Portal]]
-- [[workplace-services|Workplace Services]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[Indoor-mapping|Indoor Mapping]]
-- [[standard-service|Standard services]]
-- [[create-reservation-request-1|Create a reservation]]

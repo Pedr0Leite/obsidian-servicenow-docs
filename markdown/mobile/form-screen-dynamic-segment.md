@@ -12,17 +12,17 @@ breadcrumb: [Using dynamic segments to display data, Record screen, Mobile scree
 
 # Configure a dynamic segment to display selected data in a record screen
 
-Configure a [[form-screen|record screen]] with a dynamic screen segment so users can view records that correspond to selected segments, rather than view a complete list of records.
+Configure a record screen with a dynamic screen segment so users can view records that correspond to selected segments, rather than view a complete list of records.
 
 ## Before you begin
 
 When configuring a dynamic screen segment within a record screen, ensure that you have created the following items:
 
--   A record screen, used to include a dynamic screen segment within the segmented control. For more information, see [[configure-param-form-applet|Configure a parameterized record screen]].
+-   A record screen, used to include a dynamic screen segment within the segmented control. For more information, see [Configure a parameterized record screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/configure-param-form-applet.md).
 -   An embedded list, used to display a list of records within the selected record screen. This list is selected from the **Dynamic segment item stream** field.
 -   A corresponding list to be displayed when each screen segment is selected. This process should resemble the embedded list procedure, with the addition of using a target table to which you are referencing.
 
-    For more information about embedded lists and the list to be displayed when a screen segment is selected, see [[sg-embedded-list|Embedded lists for a record screen]]
+    For more information about embedded lists and the list to be displayed when a screen segment is selected, see [Embedded lists for a record screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-embedded-list.md)
 
 
 Role required: admin
@@ -37,7 +37,7 @@ Role required: admin
 
 4.  In the Segmented Control area, select the height and width of the segment buttons.
 
-    For a guide to the button sizes, see [[dynamic-segment-form-screen|Using dynamic segments to display data in a record screen]].
+    For a guide to the button sizes, see [Using dynamic segments to display data in a record screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/dynamic-segment-form-screen.md).
 
 5.  Right-click in the header and select **Save**.
 
@@ -74,7 +74,7 @@ Role required: admin
         |-----|-----|
         |Record Screen|This field is automatically set to the name of the selected record screen.|
         |Application|Scoped application associated with this record. This field defaults to the current application.|
-        |Dynamic screen segment list stream|An embedded [[list-screen|list screen]] contained within the dynamic screen segment of the record screen.|
+        |Dynamic screen segment list stream|An embedded list screen contained within the dynamic screen segment of the record screen.|
         |Active|Option for determining whether the dynamic screen segment is active. For this configuration, select this option.|
         |Embedded Screen|List screen that contains a list of records displayed to the user when they tap one of the segments from the dynamic screen segment.|
         |Order|The location where the dynamic screen segment displays in the segmented control. If you have defined a header segment, this number must be higher to ensure it is to the right of the header segment.|
@@ -94,13 +94,5 @@ Role required: admin
 
 ## What to do next
 
-Define the appearance of selected segment buttons. See, [[dynamic-segmented-control-config|Customize segment button colors in the segmented control area]].
+Define the appearance of selected segment buttons. See, [Customize segment button colors in the segmented control area](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/dynamic-segmented-control-config.md).
 
-## Related
-
-- [[configure-param-form-applet|Configure a parameterized record screen]]
-- [[sg-embedded-list|Embedded lists for a record screen]]
-- [[dynamic-segment-form-screen|Using dynamic segments to display data in a record screen]]
-- [[dynamic-segmented-control-config|Customize segment button colors in the segmented control area]]
-- [[form-screen|Record screen]]
-- [[list-screen|List screen]]

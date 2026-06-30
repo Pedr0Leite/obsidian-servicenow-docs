@@ -16,7 +16,7 @@ breadcrumb: [Software Asset Management publisher pack for SAP, Supported softwar
 
 Determine license optimizations for your SAP named user types based on your SAP user transaction activity.
 
-User transaction activities are the transactions or tasks that users perform on an SAP client. These activities are based on SAP transaction codes \(t-codes\), which are the shortcuts that enable you to identify and perform these transactions or tasks. When you run scheduled jobs for SAP, the [[c_SoftwareAssetMgmt|Software Asset Management]] application retrieves the SAP transaction codes that were actively used by your SAP users.
+User transaction activities are the transactions or tasks that users perform on an SAP client. These activities are based on SAP transaction codes \(t-codes\), which are the shortcuts that enable you to identify and perform these transactions or tasks. When you run scheduled jobs for SAP, the Software Asset Management application retrieves the SAP transaction codes that were actively used by your SAP users.
 
 When you create a reclamation rule for an SAP named user type, you can specify the transaction codes and the minimum number of those transaction codes that must be active for a user to keep their assigned named user license. During reconciliation, the Software Asset Management application compares these transaction codes against the discovered user transaction codes for the named user type. You can view the resulting data in the Users for Transaction Based License Optimization report on the Software Publisher Analytics dashboard for SAP. Use this information to optimize your named user license position by downgrading licenses or reclaiming unused licenses. See [Software Publisher Analytics dashboard for SAP in Software Asset Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/dashboard-sap.md) for more information on this report.
 
@@ -38,7 +38,7 @@ View the SAP transaction codes \(t-codes\) that were actively used by your SAP u
 
 [Create entitlements for SAP]()
 
-[Create [[c_CreatingSoftwareModels|software models]] for SAP]()
+[Create software models for SAP]()
 
 [Create a custom SAP named user type]()
 
@@ -58,7 +58,3 @@ View the SAP transaction codes \(t-codes\) that were actively used by your SAP u
 
 [Publisher overview for SAP in the Software Asset Workspace]()
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[c_CreatingSoftwareModels|Software models]]

@@ -32,7 +32,7 @@ The following variables are supported in an HTML document template:
 -   Multi Line Text
 -   Multiple Choice
 -   Numeric Scale
--   [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
+-   Reference
 -   Select Box
 -   Single Line Text
 -   URL
@@ -58,6 +58,3 @@ The following variables are unsupported in an HTML document template:
 -   Masked
 -   Multi Row Variable Set
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

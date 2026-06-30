@@ -14,7 +14,7 @@ breadcrumb: [Applications list, DEX Application and Device Health reference, Ref
 
 # Web application — Overview page
 
-The overview page for a Web application provides information on the active alerts, active [[dex-workspace-devices-tab|devices]], active incidents, current impacted devices, and the average-to-resolve time for the incidents.
+The overview page for a Web application provides information on the active alerts, active devices, active incidents, current impacted devices, and the average-to-resolve time for the incidents.
 
 |Field|Description|
 |-----|-----------|
@@ -27,6 +27,3 @@ The overview page for a Web application provides information on the active alert
 
 **Parent Topic:**[Applications list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/application-form.md)
 
-## Related
-
-- [[dex-workspace-devices-tab|Devices]]

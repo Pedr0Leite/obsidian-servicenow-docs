@@ -14,7 +14,7 @@ breadcrumb: [Legal Service Delivery Practice Applications, Legal Service Deliver
 
 # Legal Conflict of Interest
 
-Legal Conflict of Interest enables you to manage the disclosure, approval, and registry of conflict of interest that might arise from employees having competing interests or loyalties. Employees can submit disclosures using the conversational interface of Now Assist in Virtual Agent or intake form available in the [[employee-center-landing-page|Employee Center]].
+Legal Conflict of Interest enables you to manage the disclosure, approval, and registry of conflict of interest that might arise from employees having competing interests or loyalties. Employees can submit disclosures using the conversational interface of Now Assist in Virtual Agent or intake form available in the Employee Center.
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
@@ -34,7 +34,7 @@ Legal Conflict of Interest enables you to manage the disclosure, approval, and r
 
 </td><td>
 
-[Reference \[Omitted image "bus-learn.svg"\] Alt text: Get details about components such as roles, tables, plugins, and store applications that are installed.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-conflict-of-interest/legal-coi-[[reference-hr-service-delivery-advanced-integration-with-workday|reference]].md)
+[Reference \[Omitted image "bus-learn.svg"\] Alt text: Get details about components such as roles, tables, plugins, and store applications that are installed.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-conflict-of-interest/legal-coi-reference.md)
 
 </td><td>
 
@@ -47,7 +47,3 @@ Legal Conflict of Interest enables you to manage the disclosure, approval, and r
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

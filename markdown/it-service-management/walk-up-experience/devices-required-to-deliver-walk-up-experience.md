@@ -14,7 +14,7 @@ breadcrumb: [Explore, Walk-up Experience, IT Service Management]
 
 # Devices required to deliver Walk-up Experience
 
-The functionality of the [[walkup-experience-landing-page|Walk-up Experience]] application relies on different kinds of [[dex-workspace-devices-tab|devices]]. Users can check into an online walk-up queue using a desktop or laptop computer, tablet, or mobile phone.
+The functionality of the Walk-up Experience application relies on different kinds of devices. Users can check into an online walk-up queue using a desktop or laptop computer, tablet, or mobile phone.
 
 Onsite walk-up location users can check into the queue by scanning an employee badge or with a provided, typically stationary, tablet.
 
@@ -28,7 +28,3 @@ The following guidance describes what devices are needed and function best for e
 
 **Note:** To optimize the experience for Apple iOS-based tablet devices, save the opened Check-in and CSAT survey tabs to the homepage of the device. When selected from the homepage, they open in full screen.
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]
-- [[dex-workspace-devices-tab|Devices]]

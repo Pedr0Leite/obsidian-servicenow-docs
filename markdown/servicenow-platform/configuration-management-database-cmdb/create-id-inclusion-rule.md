@@ -22,7 +22,7 @@ Role required: sn\_cmdb\_editor and itil have read access, sn\_cmdb\_admin and i
 
 ## About this task
 
-During duplication detection of independent CIs, the [[ire|identification and reconciliation engine \(IRE\)]] processes only the CIs that satisfy the identification inclusion rules. For example, you can set a filter to include only CIs whose state is operational. When no identification inclusion rules exist, all CIs are included in the identification process and in the [[c_CMDBHealth|CMDB Health]] duplicate metric calculations. In the base system, there are no predefined identification inclusion rules. Identification inclusion rules are defined at the class level.
+During duplication detection of independent CIs, the identification and reconciliation engine \(IRE\) processes only the CIs that satisfy the identification inclusion rules. For example, you can set a filter to include only CIs whose state is operational. When no identification inclusion rules exist, all CIs are included in the identification process and in the CMDB Health duplicate metric calculations. In the base system, there are no predefined identification inclusion rules. Identification inclusion rules are defined at the class level.
 
 Identification inclusion rules also indirectly impact what appears in CMDB health dashboards for duplicate CIs, in addition to any [health inclusion rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/create-health-inclusion-rule.md).
 
@@ -30,7 +30,7 @@ Identification inclusion rules also indirectly impact what appears in CMDB healt
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Configuration** &gt; **[[ci-class-manager-landing-page|CI Class Manager]]**.
+1.  Navigate to **All** &gt; **Configuration** &gt; **CI Class Manager**.
 
 2.  Select **Hierarchy** to display the CI Classes list.
 
@@ -64,8 +64,3 @@ Navigate to **All** &gt; **Configuration** &gt; **Identification/Reconciliation*
 
 [Create health inclusion rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/create-health-inclusion-rule.md)
 
-## Related
-
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]
-- [[c_CMDBHealth|CMDB Health]]
-- [[ci-class-manager-landing-page|CI Class Manager]]

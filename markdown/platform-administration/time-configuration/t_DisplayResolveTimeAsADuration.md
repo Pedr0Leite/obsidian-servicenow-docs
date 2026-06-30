@@ -14,7 +14,7 @@ breadcrumb: [Resolve time, Task fields for measuring work time, Default date and
 
 # Display resolve time as a duration
 
-You can display the [[c_ResolveTime|resolve time]] as a human-readable duration rather than an integer representing a duration in seconds.
+You can display the resolve time as a human-readable duration rather than an integer representing a duration in seconds.
 
 ## Procedure
 
@@ -41,6 +41,3 @@ You can display the [[c_ResolveTime|resolve time]] as a human-readable duration 
 
 **Parent Topic:**[Resolve time](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_ResolveTime.md)
 
-## Related
-
-- [[c_ResolveTime|Resolve time]]

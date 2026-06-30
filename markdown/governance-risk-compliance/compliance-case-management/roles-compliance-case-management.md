@@ -14,7 +14,7 @@ breadcrumb: [Reference, Compliance Case Management, Governance, Risk, and Compli
 
 # Roles installed with Compliance Case Management
 
-The GRC: [[compliance-case-management|Compliance Case Management]] installs the essential role to perform respective day-to-day operational tasks towards managing compliance cases for the enterprise to perform their respective tasks.
+The GRC: Compliance Case Management installs the essential role to perform respective day-to-day operational tasks towards managing compliance cases for the enterprise to perform their respective tasks.
 
 <table id="table_m2t_czq_mqb"><thead><tr><th>
 
@@ -36,7 +36,7 @@ Compliance Case Business User
 
 </td><td>
 
-The compliance case business user can perform the following tasks:-   Create compliance cases and requests from the [[employee-center|Employee Center]]
+The compliance case business user can perform the following tasks:-   Create compliance cases and requests from the Employee Center
 -   Work on the case tasks.
 
 .
@@ -95,7 +95,7 @@ Compliance Case Admin
 
 Compliance case administrators can configure the Compliance Case Management application. They can perform the following tasks:-   Create a case type.
 -   Create a state model and transitions.
--   [[sae-asmnt-template-create|Create an assessment template]].
+-   Create an assessment template.
 -   Delete cases.
 -   Review the key stakeholders, impacted areas, related areas, causes and consequences, regulations, and issues that are assigned to the case analyst.
 
@@ -104,7 +104,7 @@ Compliance case administrators can configure the Compliance Case Management appl
 -   sn\_grc\_case\_mgmt.grc\_​case\_admin
 -   sn\_comp\_case.compliance​\_case\_manager
 
- **Note:** If you use the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] for assessments of action tasks, then the following roles are granted to the Compliance case admin.
+ **Note:** If you use the Smart Assessment Engine for assessments of action tasks, then the following roles are granted to the Compliance case admin.
 
 -   sn\_risk\_advanced.ara\_assessor
 -   sn\_smart\_asmt.assessment\_admin
@@ -129,9 +129,3 @@ NA
 
 **Parent Topic:**[Compliance Case Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/reference-data-compliance-case-management.md)
 
-## Related
-
-- [[compliance-case-management|compliance case management]]
-- [[employee-center|employee center]]
-- [[sae-asmnt-template-create|Create an assessment template]]
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]

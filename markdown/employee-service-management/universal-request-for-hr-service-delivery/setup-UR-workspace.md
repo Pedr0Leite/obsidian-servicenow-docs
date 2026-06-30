@@ -14,11 +14,11 @@ breadcrumb: [Agent Workspaces, Universal Request, Employee Service Management]
 
 # Setting up Universal Request in Agent Workspaces
 
-[[activate-ur-plugin|Activate Universal Request]] in agent workspace and set up roles for performing the tasks.
+Activate Universal Request in agent workspace and set up roles for performing the tasks.
 
 ## Activating Universal Request in Agent Workspaces
 
-[[ur-landing-limitedaccess|Universal Request]] is activated in Agent Workspaces when you enable the Universal Request plugin \(com.snc.universal\_request\) or Universal Request: Advanced Work Assignment plugin \(com.snc.universal\_request.awa\).
+Universal Request is activated in Agent Workspaces when you enable the Universal Request plugin \(com.snc.universal\_request\) or Universal Request: Advanced Work Assignment plugin \(com.snc.universal\_request.awa\).
 
 ## Roles used for Universal Request in Agent Workspaces
 
@@ -26,12 +26,7 @@ breadcrumb: [Agent Workspaces, Universal Request, Employee Service Management]
 |----|-----------|
 |UR administrator \[sn\_uni\_req.ur\_admin\]|Set up and configure Universal Request roles for the agent workspace.|
 |Routing agent \[sn\_uni\_req.routing\_agent, agent\_workspace\_user, workspace\_user, sn\_uni\_req.universal\_request\_write, sn\_uni\_req.universal\_request\_read|Create, edit, view and resolve Universal requests.|
-|Routing agent \[sn\_uni\_req.routing\_agent, agent\_workspace\_user, workspace\_user, sn\_uni\_req.universal\_request\_write,sn\_uni\_req.universal\_request\_read, interaction\_agent\]|Handle interactions and [[ur-create-universal-request-record|create universal request]] from interaction.|
+|Routing agent \[sn\_uni\_req.routing\_agent, agent\_workspace\_user, workspace\_user, sn\_uni\_req.universal\_request\_write,sn\_uni\_req.universal\_request\_read, interaction\_agent\]|Handle interactions and create universal request from interaction.|
 
 **Parent Topic:**[Universal Request in Agent Workspaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/universal-request-workspace.md)
 
-## Related
-
-- [[activate-ur-plugin|Activate Universal Request]]
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[ur-create-universal-request-record|Create Universal Request]]

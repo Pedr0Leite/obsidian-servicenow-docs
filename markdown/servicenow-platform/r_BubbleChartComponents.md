@@ -12,24 +12,16 @@ breadcrumb: [View a bubble chart for assessments, View a metric result, Assessme
 
 # Bubble chart components
 
-The X- and Y-axes each represent a different metric category. [[c_assessable-records|Assessable records]] are plotted on the chart as circular markers, or bubbles, which vary in size according to scores for the third category.
+The X- and Y-axes each represent a different metric category. Assessable records are plotted on the chart as circular markers, or bubbles, which vary in size according to scores for the third category.
 
 The bubble chart page has these components:
 
 -   **Bubble Chart**
     -   **X- and Y-axes**: Each axis represents a metric category.
-    -   **Bubbles**: Each labeled bubble represents an average of category result data for an assessable record. Point to a bubble to [[t_ViewAnAssessableRecord|view an assessable record]] score summary. Click a bubble or bubble [[label|label]] to view the scorecard for the assessable record.
--   **Source record list**: List of all records defined by the **Table** and **Condition** fields for the associated [[c_MetricTypesAndAssessableRecords|metric type]]. Note that the bubble chart only plots records for which there are [[r_AssessmentResults|assessment results]]. The assessment results are actually associated with the assessable records for each of the listed source records.
+    -   **Bubbles**: Each labeled bubble represents an average of category result data for an assessable record. Point to a bubble to view an assessable record score summary. Click a bubble or bubble label to view the scorecard for the assessable record.
+-   **Source record list**: List of all records defined by the **Table** and **Condition** fields for the associated [metric type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_MetricTypesAndAssessableRecords.md). Note that the bubble chart only plots records for which there are assessment results. The assessment results are actually associated with the assessable records for each of the listed source records.
 
 \[Omitted image "BubbleChart.png"\] Alt text: Bubble chart
 
-**Parent Topic:**[[t_view-bubble-chart-assessments|View a bubble chart for assessments]]
+**Parent Topic:**[View a bubble chart for assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_view-bubble-chart-assessments.md)
 
-## Related
-
-- [[c_MetricTypesAndAssessableRecords|Metric types and assessable records]]
-- [[t_view-bubble-chart-assessments|View a bubble chart for assessments]]
-- [[c_assessable-records|Assessable records]]
-- [[t_ViewAnAssessableRecord|View an assessable record]]
-- [[label|Label]]
-- [[r_AssessmentResults|Assessment results]]

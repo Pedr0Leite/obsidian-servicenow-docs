@@ -13,7 +13,7 @@ breadcrumb: [Configure, Now Assist for Order Management, Sales Customer Relation
 
 # Configure scripted extension points for the manage order operations agent
 
-Configure scripted extension points so that the manage [[order-operations-landing|order operations]] chat assistant can check product availability, validate order exception requests for delivery, quantity, and shipping location, and evaluate quote thresholds against your external inventory, ERP, or pricing systems.
+Configure scripted extension points so that the manage order operations chat assistant can check product availability, validate order exception requests for delivery, quantity, and shipping location, and evaluate quote thresholds against your external inventory, ERP, or pricing systems.
 
 ## Before you begin
 
@@ -44,7 +44,7 @@ To enable real-world functionality such as querying on-hand quantities, delivery
 
 5.  Create your own implementation of the selected extension point by selecting the **Create implementation** related link.
 
-6.  On the Script Include form for your chosen extension point, fill in the [[fields|fields]].
+6.  On the Script Include form for your chosen extension point, fill in the fields.
 
     For a description of the Script Include form fields, see [Script includes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/c_ScriptIncludes.md).
 
@@ -128,10 +128,10 @@ To enable real-world functionality such as querying on-hand quantities, delivery
 
 9.  Validate your implementation by requesting order changes from the Business Portal using the Now Assist Virtual Assistant.
 
-    For more information, see [[request-order-changes-now-assist|Request order changes using Now Assist Virtual Assistant]].
+    For more information, see [Request order changes using Now Assist Virtual Assistant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/request-order-changes-now-assist.md).
 
 
-**Parent Topic:**[[now-assist-for-order-management-configuring|Configuring Now Assist for Order Management]]
+**Parent Topic:**[Configuring Now Assist for Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/now-assist-for-order-management-configuring.md)
 
 **Related topics**  
 
@@ -140,9 +140,3 @@ To enable real-world functionality such as querying on-hand quantities, delivery
 
 [Creating and adding a scripted extension point](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/impl-scripted-ext-pts-base-code.md)
 
-## Related
-
-- [[request-order-changes-now-assist|Request order changes using Now Assist Virtual Assistant]]
-- [[now-assist-for-order-management-configuring|Configuring Now Assist for Order Management]]
-- [[order-operations-landing|Order operations]]
-- [[fields|Fields]]

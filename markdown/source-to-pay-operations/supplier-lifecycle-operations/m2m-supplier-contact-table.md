@@ -14,7 +14,7 @@ breadcrumb: [Primary data tables for Supplier Lifecycle Operations, Reference, S
 
 # Supplier Contact table
 
-The [[supplier-contact|Supplier Contact]] \[sn\_slm\_contact\_m2m\_supplier\] table stores information about [[supplier|supplier]] contacts and suppliers linked to them.
+The Supplier Contact \[sn\_slm\_contact\_m2m\_supplier\] table stores information about supplier contacts and suppliers linked to them.
 
 ## Supplier Contact \[sn\_slm\_contact\_m2m\_supplier\] table
 
@@ -33,12 +33,7 @@ The Supplier Contact \[sn\_slm\_contact\_m2m\_supplier\] table contains the foll
 |Default supplier|Boolean|Indicates whether the supplier is the default supplier for the supplier contact.|
 |Primary contact|Boolean|Indicates whether the supplier contact is the primary contact for the supplier.|
 
-For more information, see [[slo-data-model|Supplier Lifecycle Operations data model]].
+For more information, see [Supplier Lifecycle Operations data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/slo-data-model.md).
 
 **Parent Topic:**[Primary data tables for Supplier Lifecycle Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-## Related
-
-- [[slo-data-model|Supplier Lifecycle Operations data model]]
-- [[supplier-contact|Supplier contact]]
-- [[supplier|Supplier]]

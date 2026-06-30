@@ -20,7 +20,7 @@ Use the Service Graph Connector for VMware Workspace ONE UEM to pull data from V
 
 Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
-The integration imports different hardware assets into the ServiceNow® [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]] application.
+The integration imports different hardware assets into the ServiceNow® Configuration Management Database \(CMDB\) application.
 
 ## Supported versions
 
@@ -49,11 +49,11 @@ The guided setup for the Service Graph Connector for VMware Workspace ONE UEM pr
 
 ## CMDB integrations dashboard
 
-The [[integration-commons-for-cmdb|Integration Commons for CMDB]] store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring Workspace ONE integrations in the [[cmdb-integ-dashboard|CMDB Integrations Dashboard]], see [Using the CMDB Integrations Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-integration-commons/integration-commons-for-cmdb.md).
+The Integration Commons for CMDB store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring Workspace ONE integrations in the CMDB Integrations Dashboard, see [Using the CMDB Integrations Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-integration-commons/integration-commons-for-cmdb.md).
 
 ## Data mapping
 
-Data from the VMware Workspace ONE UEM Devices and Apps data sources is mapped and transformed into the ServiceNow CMDB Configuration Item \(CI\) class definitions using the Robust Transform Engine \(RTE\). Data is inserted into the ServiceNow CMDB using the [[ire|Identification and Reconciliation Engine \(IRE\)]].
+Data from the VMware Workspace ONE UEM Devices and Apps data sources is mapped and transformed into the ServiceNow CMDB Configuration Item \(CI\) class definitions using the Robust Transform Engine \(RTE\). Data is inserted into the ServiceNow CMDB using the Identification and Reconciliation Engine \(IRE\).
 
 When you complete setting up the connection, you configure the integration to periodically pull data from VMware Workspace ONE UEM.
 
@@ -75,17 +75,10 @@ The data is then inserted into the following target tables:
 
 For more information on where data is saved when pulling data from VMware Workspace ONE Unified Endpoint Management \(UEM\), see [CMDB classes targeted in Service Graph Connector for VMware Workspace ONE UEM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-workspaceone-classes.md).
 
-You can use the [[integrationhub-etl|IntegrationHub ETL]] app to view the data maps. See [IntegrationHub ETL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/integration-hub-etl/integrationhub-etl.md) for more information.
+You can use the IntegrationHub ETL app to view the data maps. See [IntegrationHub ETL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/integration-hub-etl/integrationhub-etl.md) for more information.
 
 **Related topics**  
 
 
 [Service Graph Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-sgc-available.md)
 
-## Related
-
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[integration-commons-for-cmdb|Integration Commons for CMDB]]
-- [[cmdb-integ-dashboard|CMDB Integrations Dashboard]]
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]
-- [[integrationhub-etl|IntegrationHub ETL]]

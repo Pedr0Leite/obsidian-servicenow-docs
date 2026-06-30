@@ -14,7 +14,7 @@ breadcrumb: [Configure Classic Mobile devices, Service Catalog customization, Ty
 
 # Define the mobile layout
 
-You can configure the Classic Mobile layout for categories within a [[service-catalog|service catalog]].
+You can configure the Classic Mobile layout for categories within a service catalog.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-By default, [[c_ServiceCatalogCategories|service catalog categories]] appear on mobile devices in the same order as on desktop devices.
+By default, service catalog categories appear on mobile devices in the same order as on desktop devices.
 
 ## Procedure
 
@@ -48,7 +48,3 @@ By default, [[c_ServiceCatalogCategories|service catalog categories]] appear on 
 
 [Limit description sizes in the Classic Mobile UI]()
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[c_ServiceCatalogCategories|Service catalog categories]]

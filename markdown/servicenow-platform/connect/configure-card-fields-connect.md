@@ -14,7 +14,7 @@ breadcrumb: [Connect administration, Connect, ServiceNow AI Platform Additional 
 
 # Configure the fields on a record card in Connect
 
-When a record is either linked to or created from a [[c_Collaboration|Connect Chat]] conversation, the details of the record display as a card in the chat window.
+When a record is either linked to or created from a Connect Chat conversation, the details of the record display as a card in the chat window.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-The card view only applies to the full Connect Chat page and the end-user view of [[c_ConnectSupport|Connect Support]] conversations.
+The card view only applies to the full Connect Chat page and the end-user view of Connect Support conversations.
 
 ## Procedure
 
@@ -32,7 +32,7 @@ The card view only applies to the full Connect Chat page and the end-user view o
 
 3.  On the Configuring Incidents List screen, select **New** from the View name list.\[Omitted image "config-incidents-list-screenshot.png"\] Alt text: Screen shot of Configuring Incidents List
 
-4.  In the Create New View dialog, enter `[[c_Connect|Connect]]` in the View name field. \[Omitted image "create-new-view.png"\] Alt text: Create new view dialog.
+4.  In the Create New View dialog, enter `Connect` in the View name field. \[Omitted image "create-new-view.png"\] Alt text: Create new view dialog.
 
     For more information on creating a form view, see [Create and delete views](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/create-delete-view.md) .
 
@@ -42,8 +42,4 @@ The card view only applies to the full Connect Chat page and the end-user view o
 
 6.  Validate that the card displays the fields in a Connect Chat conversation.
 
-## Related
 
-- [[c_Collaboration|Connect Chat]]
-- [[c_ConnectSupport|Connect Support]]
-- [[c_Connect|Connect]]

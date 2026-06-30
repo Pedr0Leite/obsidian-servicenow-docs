@@ -24,9 +24,9 @@ Role required: requester
 
 1.  Navigate to **All** &gt; **Employee Center** &gt; **IT**.
 
-2.  Select a topic to view the catalog items and then select catalog item or [[c_RecordProducer|record producer]] from the Catalog.
+2.  Select a topic to view the catalog items and then select catalog item or record producer from the Catalog.
 
-3.  Enter the required information in the [[catalog-item-form|catalog item form]].
+3.  Enter the required information in the catalog item form.
 
 4.  Enter the number of items in the **Quantity** field.
 
@@ -74,7 +74,3 @@ To add the catalog item to the wish list, click the Add to Wish List icon \(\[Om
 
 **Parent Topic:**[Service Catalog in Employee Center portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/service-catalog-in-ec.md)
 
-## Related
-
-- [[c_RecordProducer|Record Producer]]
-- [[catalog-item-form|Catalog Item form]]

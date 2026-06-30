@@ -14,7 +14,7 @@ breadcrumb: [Service Observability templates, Service Observability reference, S
 
 # Amazon CloudWatch templates for Service Observability
 
-Templates used to create Amazon CloudWatch [[otto-aiops-dashboards|dashboards]] in [[service-observability|Service Observability]]. You can edit these templates as needed.
+Templates used to create Amazon CloudWatch dashboards in Service Observability. You can edit these templates as needed.
 
 See [Customize Service Observability dashboard templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/customize-service-observability-dashboard-templates.md) for more information.
 
@@ -25,7 +25,3 @@ Dashboard and charts on the Amazon CloudWatch tab of the Service Details page in
 
 **Parent Topic:**[Service Observability templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/observability-templates.md)
 
-## Related
-
-- [[otto-aiops-dashboards|Dashboards]]
-- [[service-observability|Service Observability]]

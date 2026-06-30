@@ -14,7 +14,7 @@ breadcrumb: [Configure the Employee Profile overview widget, Employee profile, S
 
 # Overview section form
 
-The overview section form enables you to configure a section on the [[emp-slate-employee-profile|Employee Profile]] UI.
+The overview section form enables you to configure a section on the Employee Profile UI.
 
 <table id="table_vdm_zcw_rqb"><thead><tr><th>
 
@@ -125,7 +125,7 @@ Visibility settings for the section:-   Mobile only
 
 [Portal notification configuration form]()
 
-[Portal [[ec-notification-content|notification content]] form]()
+[Portal notification content form]()
 
 [Trigger conditions form]()
 
@@ -147,7 +147,3 @@ Visibility settings for the section:-   Mobile only
 
 [Website configuration form]()
 
-## Related
-
-- [[emp-slate-employee-profile|Employee profile]]
-- [[ec-notification-content|Notification content]]

@@ -56,7 +56,7 @@ Line chart\[Omitted image "inline-data-vis-line.png"\] Alt text: Trend line char
 
 </td><td>
 
-Displays the emissions generated based on the various calculation methodologies such as EEIO data, LCA data, and supplier data. For more information about these calculation methodologies, refer to [[scope-3-dashboard|Scope 3 dashboard]]. The unit of emission measurement for this report is also KgCO2e. You can view the data for the past 3, 4, or 5 years to obtain a comparative analysis.
+Displays the emissions generated based on the various calculation methodologies such as EEIO data, LCA data, and supplier data. For more information about these calculation methodologies, refer to [Scope 3 dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/scope-3-dashboard.md). The unit of emission measurement for this report is also KgCO2e. You can view the data for the past 3, 4, or 5 years to obtain a comparative analysis.
 
 </td></tr><tr><td>
 
@@ -112,9 +112,5 @@ Displays the supplier data obtained using the Carbon disclosure project \(CDP\) 
 **Related topics**  
 
 
-[[configuring-the-scope-3-dashboard|Configuring the Scope 3 dashboard]]
+[Configuring the Scope 3 dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/configuring-the-scope-3-dashboard.md)
 
-## Related
-
-- [[scope-3-dashboard|Scope 3 dashboard]]
-- [[configuring-the-scope-3-dashboard|Configuring the Scope 3 dashboard]]

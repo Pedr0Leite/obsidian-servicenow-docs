@@ -24,7 +24,7 @@ Learn more about the news widgets: [News articles](https://raw.githubusercontent
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
 
     The Employee Center home page is displayed.
 
@@ -92,7 +92,7 @@ Inline loading
 
 </td><td>
 
-The article reading page \(cd\_news\_article\) enables employees to open other [[ec-news-articles|news articles]] from the Article detail page without refreshing the entire page.
+The article reading page \(cd\_news\_article\) enables employees to open other news articles from the Article detail page without refreshing the entire page.
 
  **Note:** This is only intended to be used on the article reading page.
 
@@ -196,7 +196,3 @@ Enables viewing of nested call insights for total load time in parent and child 
 
 **Parent Topic:**[Configure employee communications widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/employee-comms-widgets.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[ec-news-articles|News articles]]

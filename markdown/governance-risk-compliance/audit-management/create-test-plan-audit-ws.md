@@ -22,7 +22,7 @@ Role required: sn\_audit.manager, sn\_audit\_ws.supervisor, sn\_audit\_ws.audito
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Audit** &gt; **[[audit-management-overview-ws|Audit Workspace]]**.
+1.  Navigate to **All** &gt; **Audit** &gt; **Audit Workspace**.
 
 2.  Click **Create** and select **Test plan** from the **Home** page.
 
@@ -138,6 +138,4 @@ Detailed steps, to carry out the operational expectations, which need to be perf
 
 6.  To visually explore the relationships between the different types of critical audit data that affect your business, click **360° view** button.
 
-## Related
 
-- [[audit-management-overview-ws|Audit Workspace]]

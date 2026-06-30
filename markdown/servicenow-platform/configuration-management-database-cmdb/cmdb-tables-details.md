@@ -14,11 +14,11 @@ breadcrumb: [Explore, Configuration Management Database \(CMDB\), Configuration 
 
 # CMDB tables descriptions
 
-List of tables in the CMDB in a base system with its name, [[label|label]], and a description of the type of information that is stored in the table.
+List of tables in the CMDB in a base system with its name, label, and a description of the type of information that is stored in the table.
 
-You can extend tables in a base system by installing a CMDB CI Class Models store app which adds class models that support specific technologies. These extensions include class definitions, [[c_IdentificationRules|identification rules]], identifier entries, and dependent relationships if applicable. A CMDB CI Class Models store app can also modify the label of a base class. For more information, see [CMDB CI Class Models app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models/cmdb-ci-class-models.md).
+You can extend tables in a base system by installing a CMDB CI Class Models store app which adds class models that support specific technologies. These extensions include class definitions, identification rules, identifier entries, and dependent relationships if applicable. A CMDB CI Class Models store app can also modify the label of a base class. For more information, see [CMDB CI Class Models app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models/cmdb-ci-class-models.md).
 
-Class descriptions are integrated into the [[ci-class-manager-landing-page|CI Class Manager]] and appear in the **Description** field on the Basic Info page for a class. For more information about viewing class descriptions, see [View and edit class definitions and metadata](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/t_ViewTableDefinitions.md).
+Class descriptions are integrated into the CI Class Manager and appear in the **Description** field on the Basic Info page for a class. For more information about viewing class descriptions, see [View and edit class definitions and metadata](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/t_ViewTableDefinitions.md).
 
 <table id="table_jjn_xvp_33b"><thead><tr><th>
 
@@ -102,7 +102,7 @@ Alias
 
 </td><td>
 
-Pseudonym for data locations, virtual [[email|email]] addresses, pointers, and so on.
+Pseudonym for data locations, virtual email addresses, pointers, and so on.
 
 </td></tr><tr><td>
 
@@ -138,7 +138,7 @@ ServiceNow Application
 
 </td><td>
 
-CIs that Event Management generates for various components such as Impact calculator, which is used to bind alerts that are later shown in maps. Used internally by self-health when monitoring internal health checks for key components such as connector instance status and [[mid-server-landing|MID Server]] status.
+CIs that Event Management generates for various components such as Impact calculator, which is used to bind alerts that are later shown in maps. Used internally by self-health when monitoring internal health checks for key components such as connector instance status and MID Server status.
 
  Parent class for all ServiceNow applications.
 
@@ -592,7 +592,7 @@ cmdb\_ci\_appl\_connectit
 
 </td><td>
 
-[[c_Connect|Connect]]-It Service
+Connect-It Service
 
 </td><td>
 
@@ -1734,7 +1734,7 @@ cmdb\_ci\_cloud\_ip\_address
 
 </td><td>
 
-Cloud [[ip-address|IP Address]]
+Cloud IP Address
 
 </td><td>
 
@@ -4318,7 +4318,7 @@ Qualifier
 
 </td><td>
 
-[[c_RelationQualifier|Relation qualifier]] CIs which contain important information about CI relationships.
+Relation qualifier CIs which contain important information about CI relationships.
 
  In a relation qualifier, you can annotate arbitrary unique information about the relationship between two CIs. You can define multiple qualifiers for a single relationship, resulting in a qualifier chain. However, there can be only a single qualifier chain for a specific relationship type between two CIs.
 
@@ -5648,7 +5648,7 @@ SLA
 
 </td><td>
 
-A [[reference|reference]] to the Agreement \[sla\] table.
+A reference to the Agreement \[sla\] table.
 
 </td></tr><tr><td>
 
@@ -5703,14 +5703,3 @@ The Service Configuration Item Association table \[svc\_ci\_assoc\] binds an app
 |Configuration Item Id|A reference to the Configuration Item \[cmdb\_ci\] table.|
 |Service Id|A reference to the Service \[cmdb\_ci\_service\] table.|
 
-## Related
-
-- [[label|Label]]
-- [[c_IdentificationRules|Identification rules]]
-- [[ci-class-manager-landing-page|CI Class Manager]]
-- [[email|Email]]
-- [[mid-server-landing|MID Server]]
-- [[c_Connect|Connect]]
-- [[ip-address|IP Address]]
-- [[c_RelationQualifier|Relation qualifier]]
-- [[reference|Reference]]

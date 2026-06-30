@@ -804,8 +804,5 @@ Control whether read-only fields can be updated through client scripts and serve
  Use the Feature Preview Program to choose which pre-release capabilities to activate and test on your instance.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[rn-combined-intro|Products combined by family]]
+</table>**Parent Topic:**[Products combined by family](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/delta-yokohama-australia/rn-combined-intro.md)
 
-## Related
-
-- [[rn-combined-intro|Products combined by family]]

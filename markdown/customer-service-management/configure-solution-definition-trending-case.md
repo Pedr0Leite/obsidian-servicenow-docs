@@ -18,7 +18,7 @@ To enable clustering of similar cases into topics, you must first update and tra
 
 Role required: admin
 
-Activate the Predictive [[intelligence-csm|Intelligence]] for [[c_CustomerServiceManagement|Customer Service Management]] plugin \(com.snc.csm\_ml\).
+Activate the Predictive Intelligence for Customer Service Management plugin \(com.snc.csm\_ml\).
 
 ## About this task
 
@@ -54,7 +54,4 @@ You can modify the fields, filters, update frequency, and training frequency.
 
     The clusters that were formed for the given solution are displayed in a tree map in descending order of size from top left to bottom right. Each node is colored from red to green depending on the cluster quality.
 
-## Related
 
-- [[intelligence-csm|Intelligence]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

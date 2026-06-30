@@ -14,7 +14,7 @@ breadcrumb: [Integration of HR Service Delivery with third-party systems, HR Ser
 
 # Document Template integration with Docusign
 
-The ServiceNow® Document Template integration with Docusign application enables you to use the Docusign application for signing documents that are generated from ServiceNow [[document-templates-overview|Document Templates]].
+The ServiceNow® Document Template integration with Docusign application enables you to use the Docusign application for signing documents that are generated from ServiceNow Document Templates.
 
 ## Key features
 
@@ -35,6 +35,3 @@ Next, set up the Docusign spoke. For more information, see [Docusign eSignature 
 
 Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
-## Related
-
-- [[document-templates-overview|Document Templates]]

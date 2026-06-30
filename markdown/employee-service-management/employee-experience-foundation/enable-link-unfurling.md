@@ -16,7 +16,7 @@ breadcrumb: [HR Service Delivery integration, Microsoft Teams Integration for Em
 
 ServiceNow for Microsoft Teams supports link unfurling. Link unfurling generates a content-rich preview when a supported link is shared in a conversation with a user in Microsoft Teams.
 
-To [[unfurl-links-it|enable link unfurling]], you must create and download the manifest file and upload the file to Microsoft Teams. To download the manifest file, refer [Create and download the manifest file for pre-published apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/download-manifest-file-mt.md).
+To enable link unfurling, you must create and download the manifest file and upload the file to Microsoft Teams. To download the manifest file, refer [Create and download the manifest file for pre-published apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/download-manifest-file-mt.md).
 
 In a conversation in Microsoft Teams application, the content in the URL appears as a preview to the user in the form of an adaptive card. The preview is generated based on the content shared in the URL.
 
@@ -29,6 +29,3 @@ Configure the property to view the content when the user clicks the adaptive car
 
 **Parent Topic:**[Configure HR Service Delivery integration with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/sn-ms-teams-config-hr.md)
 
-## Related
-
-- [[unfurl-links-it|Enable link unfurling]]

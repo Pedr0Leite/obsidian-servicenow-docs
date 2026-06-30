@@ -22,7 +22,7 @@ Role required: map admin, map editor, map editor limited
 
 ## Procedure
 
-1.  Two direction modes \(**Accessible** and **Default**\) are enabled by default in [[Indoor-mapping|Indoor Mapping]].
+1.  Two direction modes \(**Accessible** and **Default**\) are enabled by default in Indoor Mapping.
 
     -   **Accessible:** This mode is for users with reduced mobility and so by default, the stairs and escalators are inactive, while elevators and ramps are added.
     -   **Default**: Configured for general public and pedestrians.
@@ -196,6 +196,3 @@ Select a campus or building and copy floor direction graphs from a floor to a si
 
 **Next topic:**[Create a connector type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/create-connectors.md)
 
-## Related
-
-- [[Indoor-mapping|Indoor Mapping]]

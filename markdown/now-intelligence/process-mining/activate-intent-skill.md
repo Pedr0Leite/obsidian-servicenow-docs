@@ -14,7 +14,7 @@ breadcrumb: [Working with intent and activity analysis, Configure, Now Assist fo
 
 # Activate Intent and Activity Analysis skill
 
-Activate the [[intent-activity-analysis|Intent and Activity analysis]] skill to be able to use [[now-assist|Now Assist for Process Mining]] to understand the intent of the requester and gain insight into the related tasks and actions needed to complete the tasks.
+Activate the Intent and Activity analysis skill to be able to use Now Assist for Process Mining to understand the intent of the requester and gain insight into the related tasks and actions needed to complete the tasks.
 
 ## Before you begin
 
@@ -35,7 +35,3 @@ Role required: admin
 
 **Parent Topic:**[Working with intent and activity analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/nowass-intent-activity-analysis.md)
 
-## Related
-
-- [[intent-activity-analysis|Intent and activity analysis]]
-- [[now-assist|Now Assist for Process Mining]]

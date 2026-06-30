@@ -14,7 +14,7 @@ breadcrumb: [HR service configuration, HR services, HR Administration, Configure
 
 # Configure an HR service
 
-Create or modify an HR service to define the request to fulfillment process for that case type. Examples of [[hr-service-administration|HR services]] include benefits enrollment, direct deposit setup, and background check requests by third-party providers.
+Create or modify an HR service to define the request to fulfillment process for that case type. Examples of HR services include benefits enrollment, direct deposit setup, and background check requests by third-party providers.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_hr\_core.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **HR Services** &gt; **[[hr-service-configuration|HR Service Configuration]]**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **HR Services** &gt; **HR Service Configuration**.
 
 2.  Click **New** or open a record.
 
@@ -30,8 +30,8 @@ Role required: sn\_hr\_core.admin
 
     -   The categorization of HR catalog items are employee-facing only, and have no relation to the categorization of HR services under the HR Centers of Excellence \(COEs\) data model.
     -   If you are creating a new HR service and plan to make it available for employee self-service, see [HR catalog item configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-catalog-item-configuration.md). Creating a new HR catalog item automatically creates a corresponding HR service, and you can avoid creating duplicate services.
-    -   If you have an existing HR service that you want to make available for employee self-service, do not [[create-hr-catalog-item|create an HR catalog item]]. \(Creating a HR catalog item automatically creates a corresponding HR service.\) Instead, see [Configure a record producer for an HR service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-hr-record-producer.md) to add the existing service as an HR catalog item in the HR service catalog.
-    -   The [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]] is highly configurable for HR agents. It supports the same functionality in the Classic [[hr-service-delivery|HR Service Delivery]] Agent Workspace.
+    -   If you have an existing HR service that you want to make available for employee self-service, do not create an HR catalog item. \(Creating a HR catalog item automatically creates a corresponding HR service.\) Instead, see [Configure a record producer for an HR service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-hr-record-producer.md) to add the existing service as an HR catalog item in the HR service catalog.
+    -   The Agent Workspace for HR Case Management is highly configurable for HR agents. It supports the same functionality in the Classic HR Service Delivery Agent Workspace.
 3.  Fill in the fields on the form, as appropriate.
 
 <table id="table_s3f_c43_lfb"><thead><tr><th>
@@ -64,7 +64,7 @@ Badge
 
 </td><td colspan="2">
 
-Badge to use with the HR service. Badges display on the portal to indicate to the employee which department is fulfilling that [[activity-lxp|activity]]. See [Configure an HR badge](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/CreateModHRBadges.md) for more information.
+Badge to use with the HR service. Badges display on the portal to indicate to the employee which department is fulfilling that activity. See [Configure an HR badge](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/CreateModHRBadges.md) for more information.
 
 </td></tr><tr><td rowspan="7">
 
@@ -206,7 +206,7 @@ Show case to subject person
 
 </td><td colspan="2">
 
-\(Employee Service Center [[employee-center-landing-page|Employee Center]] only\) Option to show the HR case to the subject person when it is created, including:-   HR tasks assigned to the subject person
+\(Employee Service Center Employee Center only\) Option to show the HR case to the subject person when it is created, including:-   HR tasks assigned to the subject person
 -   Child HR cases where the subject person is also the opened for
 -   Child HR cases when the subject person has a task assigned
 -   Requests where the subject person is the requested for
@@ -226,7 +226,7 @@ Automatically move attachments
 
 </td><td colspan="2">
 
-Option to enable the movement of attachments to a document repository.**Note:** This option appears if the [[hr-employee-doc-management|Employee Document Management]] \[com.sn\_employee\_document\_management\] plugin is activated.
+Option to enable the movement of attachments to a document repository.**Note:** This option appears if the Employee Document Management \[com.sn\_employee\_document\_management\] plugin is activated.
 
 </td></tr><tr><td>
 
@@ -251,13 +251,13 @@ Case options
 </td><td colspan="2">
 
 Additional case options for the HR service. For example, you can:-   Add Manager to Watchlist: The manager of the opened for person is added to the watchlist and receives notifications about the case.
--   Agent Can Add An Approval: Allow agents the flexibility to [[add-approvers-cm|add adhoc approvers to a case]]. For more information, see [Add adhoc approvers to a case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/add-approvers-cm.md).
+-   Agent Can Add An Approval: Allow agents the flexibility to add adhoc approvers to a case. For more information, see [Add adhoc approvers to a case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/add-approvers-cm.md).
 -   Automatically Create Draft Document: Automatically place a document for HR services to the subject person on the HR Service Portal. An example is when an employee requests tuition reimbursement. An education expense agreement document is automatically sent to the employee to sign.
--   Automatically Initiates Document tasks: Tasks are created for participants who are mapped to a document template. This option appears only when the [[document-templates-overview|Document Templates]] \[com.snc.document\_templates\] plugin is installed and a document template is selected on a HR service.
+-   Automatically Initiates Document tasks: Tasks are created for participants who are mapped to a document template. This option appears only when the Document Templates \[com.snc.document\_templates\] plugin is installed and a document template is selected on a HR service.
 -   Do Not Default Subject Person: Subject Person is not defaulted from the Opened for person when a case is created.
 -   Skip Auto Assign: HR case is not automatically assigned to an HR group or agent using the HR template or matching rules.
 
-**Note:** Skipping auto assignment does not affect the [[hr-template-configuration|HR templates]], assignment rules, or the workflows.
+**Note:** Skipping auto assignment does not affect the HR templates, assignment rules, or the workflows.
 
 -   Skip Automatic User Acceptance State: Select to bypass the user acceptance state.
 -   User Cannot Cancel: Opened for person on HR case cannot cancel it via the Employee Center \(EC\) or service portal.
@@ -265,7 +265,7 @@ Additional case options for the HR service. For example, you can:-   Add Manager
 
 </td></tr><tr><td>
 
-[[hr-criteria|HR criteria]]
+HR criteria
 
 </td><td colspan="2">
 
@@ -325,18 +325,3 @@ You can add custom columns \(fields\) to an HR table.
 
 **Next topic:**[Configure a service activity for an HR service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-service-activity-for-hr-service.md)
 
-## Related
-
-- [[hr-service-administration|HR services]]
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[hr-service-configuration|HR service configuration]]
-- [[create-hr-catalog-item|Create an HR catalog item]]
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[activity-lxp|Activity]]
-- [[employee-center-landing-page|Employee Center]]
-- [[hr-employee-doc-management|Employee Document Management]]
-- [[add-approvers-cm|Add adhoc approvers to a case]]
-- [[document-templates-overview|Document Templates]]
-- [[hr-template-configuration|HR templates]]
-- [[hr-criteria|HR criteria]]

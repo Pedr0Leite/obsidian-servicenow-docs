@@ -14,7 +14,7 @@ breadcrumb: [Reference, Telecommunications Service Operations Management]
 
 # Telecom discrepancy identification and reconciliation
 
-The system properties are part of the TSOM Visibility plugin \(sn\_tsom\_core\) and control the Telecom Discrepancy Identification &amp; Reconciliation log \(TSOM CMDB Audit\). The TSOM Visibility plugin serves as an enabler for the TSOM Visibility applications, containing logic that is shared across the [[exploring-telecom-discovery|Telecom Discovery]] and Telecom Discrepancy Identification &amp; Reconciliation solution.
+The system properties are part of the TSOM Visibility plugin \(sn\_tsom\_core\) and control the Telecom Discrepancy Identification &amp; Reconciliation log \(TSOM CMDB Audit\). The TSOM Visibility plugin serves as an enabler for the TSOM Visibility applications, containing logic that is shared across the Telecom Discovery and Telecom Discrepancy Identification &amp; Reconciliation solution.
 
 <table id="table_c1p_wmd_b2c"><thead><tr><th>
 
@@ -181,6 +181,3 @@ Audits records in the `cmdb_ci_network_topology` table. For each network topolog
 
 [Run Telecom Discrepancy audit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/run-audits.md)
 
-## Related
-
-- [[exploring-telecom-discovery|Telecom Discovery]]

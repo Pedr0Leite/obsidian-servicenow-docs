@@ -12,7 +12,7 @@ breadcrumb: [Launcher screens, Mobile app components, Building mobile apps, Mobi
 
 # Create a launcher screen
 
-Use [[sg-mobile-applet-launcher|launcher screens]] in a dashboard layout, for users to access [[sg-mobile-applet|mobile screen types]], as selected by you.
+Use launcher screens in a dashboard layout, for users to access mobile screen types, as selected by you.
 
 ## Before you begin
 
@@ -24,13 +24,13 @@ The launcher screen configuration page contains all the sections that make up a 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Create a launcher screen by using one of the following methods.
 
@@ -119,7 +119,7 @@ Header function instance
 
 </td><td>
 
-Determine if this launcher section contains a header section. For more information, see [[create-alp-header|Configure a launcher screen header]].
+Determine if this launcher section contains a header section. For more information, see [Configure a launcher screen header](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/create-alp-header.md).
 
 </td></tr><tr><td>
 
@@ -127,7 +127,7 @@ Search configuration
 
 </td><td>
 
-Determine if this launcher section contains a search area. For more information, see [[mobile-search-config|Global search for mobile]].
+Determine if this launcher section contains a search area. For more information, see [Global search for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-search-config.md).
 
 </td></tr><tr><td>
 
@@ -135,7 +135,7 @@ Launcher sections
 
 </td><td>
 
-Determine what UI sections are contained in this launcher screen. For more information, see [[alp-ui-sections|Launcher screen UI sections]].
+Determine what UI sections are contained in this launcher screen. For more information, see [Launcher screen UI sections](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/alp-ui-sections.md).
 
 </td></tr><tr><td>
 
@@ -143,7 +143,7 @@ Quick action function instance
 
 </td><td>
 
-Determine if this launcher section contains any quick [[mobile-actions|action functions]]. For more information, see [[sg-config-quick-actions|Quick actions]].
+Determine if this launcher section contains any quick action functions. For more information, see [Quick actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-config-quick-actions.md).
 
 </td></tr><tr><td>
 
@@ -151,7 +151,7 @@ Access control type
 
 </td><td>
 
-Option to assign either user role permissions or user criteria permissions for this launcher screen. For more information, see [[roles-user-criteria|User roles and user criteria permissions for mobile apps]].
+Option to assign either user role permissions or user criteria permissions for this launcher screen. For more information, see [User roles and user criteria permissions for mobile apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/roles-user-criteria.md).
 
 </td></tr><tr><td>
 
@@ -176,15 +176,4 @@ Determine which user criteria can access this launcher screen. If you have not s
 
 6.  Select **Save**.
 
-## Related
 
-- [[create-alp-header|Configure a launcher screen header]]
-- [[mobile-search-config|Global search for mobile]]
-- [[alp-ui-sections|Launcher screen UI sections]]
-- [[sg-config-quick-actions|Quick actions]]
-- [[roles-user-criteria|User roles and user criteria permissions for mobile apps]]
-- [[sg-mobile-applet-launcher|Launcher screens]]
-- [[sg-mobile-applet|Mobile screen types]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]
-- [[mobile-actions|Action functions]]

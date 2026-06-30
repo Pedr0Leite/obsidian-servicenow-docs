@@ -22,7 +22,7 @@ Role required: sn\_dlir.admin
 
 ## About this task
 
-The incident status is retrieved dynamically from the Symantec Endpoint Source which is added in the [[mapping-logrhythm|mapping]]. You need to perform a one-to-one incident status mapping.
+The incident status is retrieved dynamically from the Symantec Endpoint Source which is added in the mapping. You need to perform a one-to-one incident status mapping.
 
 ## Procedure
 
@@ -56,6 +56,3 @@ If you change the status of any DLP incident on your ServiceNow instance, then t
 
 **Parent Topic:**[Create a profile for Symantec DLP integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/create-profile-symantec-dlp.md)
 
-## Related
-
-- [[mapping-logrhythm|Mapping]]

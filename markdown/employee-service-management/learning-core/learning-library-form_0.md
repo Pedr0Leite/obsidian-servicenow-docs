@@ -14,7 +14,7 @@ breadcrumb: [Learning reference, Learning, Growth Experiences, HR Service Delive
 
 # Learning library form
 
-Use the [[learning-library-form|learning library form]] to [[create-learning-library|create a learning library]].
+Use the learning library form to create a learning library.
 
 <table id="table_gv2_c5h_x4b"><thead><tr><th>
 
@@ -67,7 +67,3 @@ Employees that the catalog is visible to or employees who can curate the items i
 </td></tr></tbody>
 </table>**Parent Topic:**[Learning reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/learning-experience-reference.md)
 
-## Related
-
-- [[learning-library-form|Learning library form]]
-- [[create-learning-library|Create a learning library]]

@@ -14,11 +14,7 @@ breadcrumb: [Reference, Configuration Compliance, Unified Security Exposure Mana
 
 # Configuration Compliance criticality maps
 
-[[vr-config-compliance-landing|Configuration Compliance]] criticality [[mapping-logrhythm|mapping]] transforms criticality fields from the source to fields in Configuration Compliance.
+Configuration Compliance criticality mapping transforms criticality fields from the source to fields in Configuration Compliance.
 
 The Configuration Compliance base system ships with a standard Qualys Cloud Platform to standard ServiceNow mapping. Creating or editing a criticality map is intended only for customized or non-standard third-party mappings in your environment.
 
-## Related
-
-- [[vr-config-compliance-landing|Configuration Compliance]]
-- [[mapping-logrhythm|Mapping]]

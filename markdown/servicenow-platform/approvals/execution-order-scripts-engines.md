@@ -36,7 +36,7 @@ The order of execution is as follows:
 4.  The data base operation \(insert, update, delete\).
 5.  After business rules: Scripts configured to execute after the database operation with an order less than 1000.
 6.  After engines. The following are not executed in any specific order:
-    -   [[label|Label]] engine
+    -   Label engine
     -   Listener engine
     -   Table notifications engine
     -   Role engine - keeps role changes in sync with sys\_user\_has\_role table \(for sys\_user, sys\_user\_group, sys\_user\_grmember and sys\_user\_role tables\)
@@ -44,7 +44,7 @@ The order of execution is as follows:
     -   Update sync engine
     -   Workflow engine \(for deferred workflows\)
     -   Trigger engine \(for all Workflow Studio flows\)
-7.  [[email|Email]] notifications. The following are executed based on the weight of the notification record:
+7.  Email notifications. The following are executed based on the weight of the notification record:
     -   Notifications sent on an insert, update, or delete
     -   Event-based notifications
 8.  After business rules \(Only active records\). Scripts configured to execute after the database operation with an order greater than or equal to 1000.
@@ -53,7 +53,3 @@ The order of execution is as follows:
 
 **Parent Topic:**[Classic approvals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/r_Approvals.md)
 
-## Related
-
-- [[label|Label]]
-- [[email|Email]]

@@ -14,7 +14,7 @@ breadcrumb: [Configuring air gap connections, Microsoft SCCM, Service Graph Conn
 
 # Perform a test data load for the air gap solution for Microsoft SCCM
 
-After you configure the air gap solution for the [[cmdb-integration-sccm|Service Graph Connector for Microsoft SCCM]], test whether the Microsoft SCCM endpoint is accessible from the high-secure server.
+After you configure the air gap solution for the Service Graph Connector for Microsoft SCCM, test whether the Microsoft SCCM endpoint is accessible from the high-secure server.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ Role required: admin
 
 [Perform a full data load for the air gap solution for Microsoft SCCM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-sccm-airgap-data-load.md)
 
-## Related
-
-- [[cmdb-integration-sccm|Service Graph Connector for Microsoft SCCM]]

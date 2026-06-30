@@ -22,7 +22,7 @@ Role required: sn\_grc\_reg\_change.manager
 
 ## About this task
 
-Users with the sn\_grc\_reg\_change.manager role can create the [[list-view-of-reg-alerts|regulatory alerts]] manually. Creating the regulatory alerts manually provides the following benefits:
+Users with the sn\_grc\_reg\_change.manager role can create the regulatory alerts manually. Creating the regulatory alerts manually provides the following benefits:
 
 -   Recognize and fix human instinctive errors accurately.
 -   Assign an ad-hoc or the submitted regulatory event alert to the subject matter experts for further review and analysis, thus ensuring accountability.
@@ -30,7 +30,7 @@ Users with the sn\_grc\_reg\_change.manager role can create the [[list-view-of-r
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[reg-change-mgmt-landing-page|Regulatory Change Management]]** &gt; **Compliance Workspace** &gt; **Regulatory alerts** &gt; **Unassigned Alerts**.
+1.  Navigate to **All** &gt; **Regulatory Change Management** &gt; **Compliance Workspace** &gt; **Regulatory alerts** &gt; **Unassigned Alerts**.
 
     The Regulatory Change Management application in the Compliance Workspace is displayed.
 
@@ -192,7 +192,3 @@ The regulatory event alert is assigned to the selected coordinator.
 
 [Import the regulatory event alerts in bulk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/import-regulatory-event-alerts-in-bulk.md) and [Assess the impact of a regulatory event alert](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/assess-impact-of-reg-change-using-ws.md).
 
-## Related
-
-- [[list-view-of-reg-alerts|Regulatory alerts]]
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]

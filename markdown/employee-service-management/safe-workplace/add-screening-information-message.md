@@ -22,7 +22,7 @@ Role required: sn\_imt\_monitoring.monitoring\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-health-screening|Employee Health Screening]]** &gt; **Information Message**.
+1.  Navigate to **All** &gt; **Employee Health Screening** &gt; **Information Message**.
 
 2.  Click **New**.
 
@@ -45,6 +45,3 @@ Users in the selected audience will see this message when they complete their he
 
 **Parent Topic:**[Employee Health Screening](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/employee-health-screening.md)
 
-## Related
-
-- [[employee-health-screening|Employee Health Screening]]

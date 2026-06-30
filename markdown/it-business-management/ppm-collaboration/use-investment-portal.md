@@ -14,7 +14,7 @@ breadcrumb: [Investment Portal, Project Portfolio Management, Strategic Portfoli
 
 # Track your key investments
 
-Track and analyze the cost, schedule, and scope of your investments in one place using [[investment-portal|Investment Portal]].
+Track and analyze the cost, schedule, and scope of your investments in one place using Investment Portal.
 
 ## Before you begin
 
@@ -256,6 +256,3 @@ Select the **Configuration** \[Omitted image "configuration\_investment.png"\] A
 
 [Investment Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/investment-portal.md)
 
-## Related
-
-- [[investment-portal|Investment Portal]]

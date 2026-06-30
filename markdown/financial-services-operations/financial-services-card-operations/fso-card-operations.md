@@ -14,7 +14,7 @@ breadcrumb: [Card Operations, Banking applications, Financial Services Operation
 
 # Exploring Financial Services Card Operations
 
-You can use the ServiceNow® [[card-ops-landing-page|Financial Services Card Operations]] application to create and manage various card service requests.
+You can use the ServiceNow® Financial Services Card Operations application to create and manage various card service requests.
 
 ## Card services
 
@@ -46,6 +46,3 @@ The Financial Services Card Operations application is aimed at the following use
 
 [Overview of the Dispute Management workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/dispute-management-workflows.md)
 
-## Related
-
-- [[card-ops-landing-page|Financial Services Card Operations]]

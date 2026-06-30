@@ -48,7 +48,7 @@ Execute on
 
 </td><td>
 
-Option to determine whether to use a specific MID Server or a MID Server cluster.This feature is supported in the [[hla-landing-page|Health Log Analytics]] application, Version 26.0.17 - February 2023 and later, available from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
+Option to determine whether to use a specific MID Server or a MID Server cluster.This feature is supported in the Health Log Analytics application, Version 26.0.17 - February 2023 and later, available from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
 
 </td></tr><tr><td>
 
@@ -467,7 +467,7 @@ The duration of time, in milliseconds, before a request to the Elasticsearch clu
 
 </td></tr><tr><td>
 
-Index [[r-discovery|discovery]] interval \(seconds\)
+Index discovery interval \(seconds\)
 
 </td><td>
 
@@ -558,7 +558,3 @@ The number of seconds before current time to query to include delayed data.The c
 </td></tr></tbody>
 </table>**Parent Topic:**[Data input configuration fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-input-config-fields.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]
-- [[r-discovery|Discovery]]

@@ -49,10 +49,10 @@ Profile header
 An overview of your personal information. -   Click **Edit Profile** to change your profile photo and edit your personal information.
 -   Click **Edit Profile** to change your user preferences. Update your time zone to view when events are occurring in your selected time zone.
 -   Click the **...** icon and then **Display Settings** to set your display settings and determine who can view which sections of your profile.
- If the [[communities-gamification|gamification]] feature is enabled, the profile header includes your current gamification achievements, including:
+ If the gamification feature is enabled, the profile header includes your current gamification achievements, including:
 
--   The top three [[gamification-components-badges|badges]] that you have been awarded
--   The total number of [[gamification-components-points|points]] that you have earned
+-   The top three badges that you have been awarded
+-   The total number of points that you have earned
 -   The current level that you have achieved based on your point total \(for example, Enthusiast or Champion\)
 
 
@@ -137,8 +137,3 @@ A display of your expertise at topic level. You can view your level within the t
 </table>
 **Parent Topic:**[Use a community profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/community-profile.md)
 
-## Related
-
-- [[communities-gamification|Gamification]]
-- [[gamification-components-badges|Badges]]
-- [[gamification-components-points|Points]]

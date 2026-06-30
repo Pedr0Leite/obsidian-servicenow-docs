@@ -14,7 +14,7 @@ breadcrumb: [Category management in Security Incident Response, Configure, Secur
 
 # Create a security incident subcategory
 
-Create subcategories for a category for a deeper classification of a security incident in [[sir-workspace-landing-page|Security Incident Response Workspace]].
+Create subcategories for a category for a deeper classification of a security incident in Security Incident Response Workspace.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_si.admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sir-landing-page|Security Incident Response]] Workspaces** &gt; **Administration**.
+1.  Navigate to **Workspaces** &gt; **Security Incident Response Workspaces** &gt; **Administration**.
 
 2.  Navigate to **Category Management** &gt; **Subcategory**.
 
@@ -55,7 +55,3 @@ The newly created subcategory is saved and appears on the Subcategory page.
 
 [Create a security incident category]()
 
-## Related
-
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[sir-landing-page|Security Incident Response]]

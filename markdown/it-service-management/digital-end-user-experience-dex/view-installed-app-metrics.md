@@ -14,7 +14,7 @@ breadcrumb: [Monitor, Digital End-User Experience, IT Service Management]
 
 # View metrics of an installed application
 
-View and monitor the CPU and memory usage of your [[dex-workspace-application-tab|applications]] to optimize performance and promoting efficient resource allocation.
+View and monitor the CPU and memory usage of your applications to optimize performance and promoting efficient resource allocation.
 
 ## Before you begin
 
@@ -34,6 +34,4 @@ Role required: sn\_dex.user
 
     You can view information on the number of crashes, CPU usage, memory and I/O performance, and memory usage trends. For more information on the metrics, see [Installed application — Performance page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/installed-app-health-form.md).
 
-## Related
 
-- [[dex-workspace-application-tab|Applications]]

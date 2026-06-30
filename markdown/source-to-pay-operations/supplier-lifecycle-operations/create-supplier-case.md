@@ -14,19 +14,19 @@ breadcrumb: [Using Source-to-Pay Workspace, Use, Supplier Lifecycle Operations, 
 
 # Create supplier case from Universal Request
 
-Routing agents can [[create-supplier-case-spo|create a supplier case]] from the [[purch-order-mgmt-ws|Source-to-Pay Workspace]] to resolve a [[universal-request|Universal Request]].
+Routing agents can create a supplier case from the Source-to-Pay Workspace to resolve a Universal Request.
 
-\[Omitted video\] Description: Creating [[supplier|supplier]] cases from Universal Requests.
+\[Omitted video\] Description: Creating supplier cases from Universal Requests.
 
 ## Before you begin
 
 Role required: sn\_uni\_req.routing\_agent, and sn\_slm.agent
 
-You must have the following plugin installed: Universal Request for [[source-to-pay-operations-overview|Source-to-Pay Operations]] Plugin \[sn\_fsc\_ur\_common\].
+You must have the following plugin installed: Universal Request for Source-to-Pay Operations Plugin \[sn\_fsc\_ur\_common\].
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **Source-to-Pay workspace**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay workspace**.
 
 2.  Select the list icon.
 
@@ -36,7 +36,7 @@ You must have the following plugin installed: Universal Request for [[source-to-
 
 5.  Select **Create supplier case**.
 
-6.  In the [[new-supplier-case|Create New Supplier Case form]], fill in the details.
+6.  In the Create New Supplier Case form, fill in the details.
 
     The universal request number from which the supplier case is created appears in the **Universal Request** field on the supplier case form.
 
@@ -80,12 +80,3 @@ The supplier case number appears in the **Primary Ticket** field of the Universa
 
 [Emails view for supplier managers]()
 
-## Related
-
-- [[create-supplier-case-spo|Create a supplier case]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[universal-request|Universal Request]]
-- [[supplier|Supplier]]
-- [[source-to-pay-operations-overview|Source-to-Pay Operations]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[new-supplier-case|Create New Supplier Case form]]

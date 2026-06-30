@@ -22,7 +22,7 @@ Role required: email\_composer
 
 1.  Open a Workspace record in your instance.
 
-2.  Open the mini email composer by selecting the **Email** tab under the [[activity-stream-compose-configurable-workspace|Compose]] panel.
+2.  Open the mini email composer by selecting the **Email** tab under the Compose panel.
 
 3.  From the email footer, select the Apply templates icon \(\[Omitted image "x-apply-templates-icon.png"\] Alt text: Apply templates icon\).
 
@@ -40,9 +40,6 @@ Role required: email\_composer
 
 7.  Apply a response template with a keyboard shortcut.
 
-    For instructions on applying a response template with a keyboard shortcut, see [[add-response-templates-shortcut|Add response templates with a keyboard shortcut]].
+    For instructions on applying a response template with a keyboard shortcut, see [Add response templates with a keyboard shortcut](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/add-response-templates-shortcut.md).
 
-## Related
 
-- [[add-response-templates-shortcut|Use keyboard shortcuts for emails]]
-- [[activity-stream-compose-configurable-workspace|Compose]]

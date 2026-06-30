@@ -16,11 +16,11 @@ breadcrumb: [Setup Employee Center browse experience features, Configuring Emplo
 
 Cross-channel **favorites** capability provides quick access to the content the employees use frequently and offers extensibility for BUs.
 
-Employees can view and access their favorite content directly from the **My Favorites** widget on the [[employee-center-landing-page|Employee Center]] home page or from the **My Favorites** link on the global navigation bar.​
+Employees can view and access their favorite content directly from the **My Favorites** widget on the Employee Center home page or from the **My Favorites** link on the global navigation bar.​
 
 By default, favorites \(sp\_favorite\) are enabled for Employee Center and MESP portals​ for **Requests**, **Articles**, and **Applications** content types.
 
-**Note:** The **Favorites** option for **Applications** is available to only EC pro customers as **[[web-application-employee-about|App launcher]]** is an EC Pro feature.
+**Note:** The **Favorites** option for **Applications** is available to only EC pro customers as **App launcher** is an EC Pro feature.
 
 Employees can see the favorites icon on the following types of pages or sections:
 
@@ -30,7 +30,7 @@ Employees can see the favorites icon on the following types of pages or sections
 -   Service catalog page
 -   My applications page
 -   My applications widget
--   [[rfy-ec|Recommended for you]] widget
+-   Recommended for you widget
 
 You can set up the favorite card details and use the default favorite icon \[Omitted image "myfav-no-selection.jpg"\] Alt text: default favorite icon default without selection to bookmark content as your favorites. When your employees mark content as favorites, the favorite icon appearance changes to \[Omitted image "myfav-selection.jpg"\] Alt text: default favorite icon default with selection.
 
@@ -77,8 +77,3 @@ Follow these steps to troubleshoot issues with **Favorites**:
 
 [Manage favorites](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/web-configure-favorites-employee.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[web-application-employee-about|App Launcher]]
-- [[rfy-ec|Recommended for you]]

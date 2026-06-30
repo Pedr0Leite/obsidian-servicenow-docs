@@ -40,9 +40,9 @@ The Analyze network incidents agentic workflow has the following plugin dependen
 
 -   Customer service with service management \(sn\_cs\_sm\)
 -   Customer service \(sn\_customerservice\)
--   [[cspm-landing-page|Customer service problem management]]
+-   Customer service problem management
 -   Telecommunications alarm management open API \(sn\_ind\_tmf642\)
--   [[field-service-management-telecommunications|Field service management for telecommunications]] \(sn\_fsmt\)
+-   Field service management for telecommunications \(sn\_fsmt\)
 -   Major issue management
 
 ## Analyze network incidents agentic workflow
@@ -125,8 +125,3 @@ AI agent capable of consuming resolution steps for an incident and converting th
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cspm-landing-page|Customer Service Problem Management]]
-- [[field-service-management-telecommunications|Field Service Management for Telecommunications]]

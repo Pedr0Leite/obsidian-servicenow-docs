@@ -36,7 +36,7 @@ Description
 
 </td><td>
 
-[[service-bridge-v2-request-fds-offering-consumers|Request a foundation data offering from your consumer.]]
+[Request a foundation data offering from your consumer.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-request-fds-offering-consumers.md)
 
 </td><td>
 
@@ -48,7 +48,7 @@ Requests FDS offerings from your consumer based on the published offerings.After
 
 </td><td>
 
-[[service-bridge-v2-fds-validate-subs-items-provider|Configure the sample data and validate subscription items.]]
+[Configure the sample data and validate subscription items.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-fds-validate-subs-items-provider.md)
 
 </td><td>
 
@@ -60,7 +60,7 @@ Configure the incoming data based on the CMDB or non-CMDB table to validate subs
 
 </td><td>
 
-[[service-bridge-v2-fds-accept-sups-provider|Accept the subscription.]]
+[Accept the subscription.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-fds-accept-sups-provider.md)
 
 </td><td>
 
@@ -70,14 +70,7 @@ Accept the subscription.After you accept the subscription, your consumer publish
 </table>**Related topics**  
 
 
-[[service-bridge-v2-explore-foundation-data-sync|Foundation data sync]]
+[Foundation data sync](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-explore-foundation-data-sync.md)
 
-[[using-provider-bound-fds-consumer|Configure outbound foundation data sync as consumers]]
+[Configure outbound foundation data sync as consumers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/using-provider-bound-fds-consumer.md)
 
-## Related
-
-- [[service-bridge-v2-request-fds-offering-consumers|Request foundation data sync offerings from a consumer]]
-- [[service-bridge-v2-fds-validate-subs-items-provider|Validate FDS subscriptions items as a provider]]
-- [[service-bridge-v2-fds-accept-sups-provider|Accept a foundation data sync subscription as a provider]]
-- [[service-bridge-v2-explore-foundation-data-sync|Foundation data sync]]
-- [[using-provider-bound-fds-consumer|Configure outbound foundation data sync as consumers]]

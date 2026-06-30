@@ -14,11 +14,11 @@ breadcrumb: [Reference, Dispute Content Pack for US Regulations, Dispute Managem
 
 # Components installed with Dispute Content Pack for US Regulations
 
-The [[dispute-content-pack-for-us-regulation-landing-page|Dispute Content Pack for US Regulations]] plugin installs components such as SLAs and additional plugins.
+The Dispute Content Pack for US Regulations plugin installs components such as SLAs and additional plugins.
 
 ## Plugins installed
 
-**Note:** The Dispute Content Pack for US Regulations application is dependent on the [[card-ops-landing-page|Financial Services Card Operations]] application.
+**Note:** The Dispute Content Pack for US Regulations application is dependent on the Financial Services Card Operations application.
 
 |Plugin|Description|
 |------|-----------|
@@ -148,7 +148,3 @@ Starts from dispute reported date. Two complete billing cycles, no later than 90
 </td></tr></tbody>
 </table>**Parent Topic:**[Dispute Content Pack for US Regulations reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/dispute-content-pack-for-us-regulation-reference.md)
 
-## Related
-
-- [[dispute-content-pack-for-us-regulation-landing-page|Dispute Content Pack for US Regulations]]
-- [[card-ops-landing-page|Financial Services Card Operations]]

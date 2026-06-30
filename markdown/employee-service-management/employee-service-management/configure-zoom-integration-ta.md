@@ -10,12 +10,9 @@ reading_time_minutes: 1
 
 # Configure Zoom integration
 
-Configure Zoom to seamlessly integrate meeting invites originating from [[hiring-experiences-landing|Hiring Experiences]] with your Zoom account.
+Configure Zoom to seamlessly integrate meeting invites originating from Hiring Experiences with your Zoom account.
 
 For more information, see [Set up the Zoom spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/setup-zoom.md).
 
 **Parent Topic:**[Integrations for Hiring Experiences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/integrate-with-talent-acquisition.md)
 
-## Related
-
-- [[hiring-experiences-landing|Hiring Experiences]]

@@ -12,11 +12,11 @@ breadcrumb: [The CPQ Configurator, CPQ, Configure, price, quote, Explore, Sales 
 
 # Configurable products
 
-Learn how configurable products connect [[blueprints|blueprints]] to end-user configuration experiences in CPQ, supporting both headless and Salesforce-integrated [[use-cases|use cases]].
+Learn how configurable products connect blueprints to end-user configuration experiences in CPQ, supporting both headless and Salesforce-integrated use cases.
 
 Configurable products act as the bridge between a CPQ blueprint and the configuration experience that end users interact with. They define how a specific product launches and behaves during configuration—whether accessed through a headless application or integrated with Salesforce CPQ.
 
-Each configurable product ties together the technical definition of a product \(its blueprint\) with the business object that represents it \(the Salesforce Product2 record or headless configuration record\). This association allows users to configure products dynamically, ensuring that all logic, pricing, and visualization [[rules_101|rules]] from the blueprint are applied in real time.
+Each configurable product ties together the technical definition of a product \(its blueprint\) with the business object that represents it \(the Salesforce Product2 record or headless configuration record\). This association allows users to configure products dynamically, ensuring that all logic, pricing, and visualization rules from the blueprint are applied in real time.
 
 ## Key benefits
 
@@ -27,7 +27,7 @@ Configurable products simplify the connection between your product definitions a
 |Unified Configuration Launch|Connects each product directly to a CPQ blueprint so the correct configuration UI opens automatically for the end user.|
 |Cross-Platform Flexibility|Supports both headless and Salesforce CPQ environments with consistent configuration experiences.|
 |Reduced Maintenance|Allows multiple Salesforce Product2 records to link to a single blueprint, simplifying updates across similar products.|
-|Faster Go-to-Market|Eliminates the need for custom integration [[scripts|scripts]] to launch configuration sessions.|
+|Faster Go-to-Market|Eliminates the need for custom integration scripts to launch configuration sessions.|
 
 ## Configurable product architecture
 
@@ -57,12 +57,5 @@ The setup process depends on your Managed Package version used for CPQ: Once con
 **Related topics**  
 
 
-[[configurable_products|Setting up configurable products]]
+[Setting up configurable products](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configurable_products.md)
 
-## Related
-
-- [[configurable_products|Setting up configurable products]]
-- [[blueprints|Blueprints]]
-- [[use-cases|Use cases]]
-- [[rules_101|Rules]]
-- [[scripts|Scripts]]

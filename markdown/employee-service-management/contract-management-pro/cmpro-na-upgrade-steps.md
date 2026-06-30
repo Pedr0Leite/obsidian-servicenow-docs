@@ -15,7 +15,7 @@ breadcrumb: [Configure, Now Assist in CM Pro, Contract Management Pro, Legal and
 
 # Post-upgrade steps for Now Assist in Contract Management
 
-If you are upgrading to [[cncore-now-assit-landing|Now Assist in Contract Management]] from Yokohama \(Patch 2 and lower\) or Xanadu \(Patch 8 and lower\), and you have customized use cases, run a fix script to migrate the existing data to the Now Assist Admin console.
+If you are upgrading to Now Assist in Contract Management from Yokohama \(Patch 2 and lower\) or Xanadu \(Patch 8 and lower\), and you have customized use cases, run a fix script to migrate the existing data to the Now Assist Admin console.
 
 ## Before you begin
 
@@ -59,6 +59,3 @@ Your customized use cases are migrated to the Now Assist Admin console.
 
 [Configuring contract analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-conf-contract-analysis.md)
 
-## Related
-
-- [[cncore-now-assit-landing|Now Assist in Contract Management]]

@@ -27,14 +27,14 @@ There are two system properties which control how location tracking registers us
 
 **Note:**
 
--   Manual location tracking is only supported on the [[mobile-experience|Mobile Agent app]].
+-   Manual location tracking is only supported on the Mobile Agent app.
 -   Consider that the higher the frequency or proximity value the more drain on the battery of the user's device. These higher settings may also affect data protection and privacy of the user.
 
 ## Procedure
 
 1.  Navigate to **All** and then enter `sys_properties.list` in the navigation filter.
 
-2.  Select the location tracking [[mobile-properties|mobile properties]] that you want to configure.
+2.  Select the location tracking mobile properties that you want to configure.
 
 <table id="choicetable_dtv_3vz_2wb"><thead><tr><th align="left" id="d40235e104">
 
@@ -68,10 +68,5 @@ Procedure
 </table>3.  Right-click in the header and select **Save**.
 
 
-**Parent Topic:**[[location-tracking-enable|Enabling and selecting location tracking options]]
+**Parent Topic:**[Enabling and selecting location tracking options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/location-tracking-enable.md)
 
-## Related
-
-- [[location-tracking-enable|Enabling and selecting location tracking options]]
-- [[mobile-experience|Mobile Agent app]]
-- [[mobile-properties|Mobile properties]]

@@ -14,7 +14,7 @@ breadcrumb: [Resolving errors, Administer, Instance Data Replication, Manage ins
 
 # Discover replication delays in Instance Data Replication
 
-Monitor possible data replication issues by using the [[instance-data-replication|Instance Data Replication]] \(IDR\) Monitoring Dashboard.
+Monitor possible data replication issues by using the Instance Data Replication \(IDR\) Monitoring Dashboard.
 
 ## Before you begin
 
@@ -139,6 +139,3 @@ Version of the Message Queue. Default is V2 \(Hermes\)
 
 **Parent Topic:**[Resolving data replication errors in Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/common-issues-idr.md)
 
-## Related
-
-- [[instance-data-replication|Instance Data Replication]]

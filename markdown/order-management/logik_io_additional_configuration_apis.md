@@ -14,7 +14,7 @@ breadcrumb: [API overview and resources, CPQ app, Configure, price, quote apps, 
 
 These CPQ configuration APIs let you retrieve or delete an existing configuration. They complement the runtime APIs and are useful for viewing full configuration details and for removing configurations no longer needed. Use them alongside the standard create, update, reconfigure, and BOM APIs to support end-to-end configuration workflows.
 
-This article is a followup to [[logik_io_runtime_apis|Runtime APIs]]. For more information on authentication and setup,see that article.
+This article is a followup to [Runtime APIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/logik_io_runtime_apis.md). For more information on authentication and setup,see that article.
 
 These API endpoints to get a configuration and delete a configuration from CPQ are included for completeness.
 
@@ -22,7 +22,7 @@ These API endpoints to get a configuration and delete a configuration from CPQ a
 
 CPQ configurations can be retrieved from the CPQ servers by sending a GET request, which will return the entire configuration in the response. If you only need the product data of the outputs, consider using one of the GET BOM API calls.
 
-**Note:** This does not load a configuration into the CPQ [[rules_101|rules]] engine for updates to [[fields|fields]] and re-running of rules. If you need to make updates to an existing configuration, use the Reconfigure API call.
+**Note:** This does not load a configuration into the CPQ rules engine for updates to fields and re-running of rules. If you need to make updates to an existing configuration, use the Reconfigure API call.
 
 |HTTP method|GET|
 |-----------|---|
@@ -49,7 +49,7 @@ Sample response:
 "valid": true, "messages": [], "productChange": true,
 "products": [<ARRAY OF PRODUCTS IN CONFIGURATION>],
 "total": 30,
-"[[layouts|layouts]]": [<ARRAY OF LAYOUTS>]
+"layouts": [<ARRAY OF LAYOUTS>]
 }
 
 ```
@@ -93,9 +93,3 @@ An order for a complex manufactured product is placed, and the engineering team 
 
 Retrieve the “Manufacturing” bill of materials for an existing configuration → Get BOM API call.
 
-## Related
-
-- [[logik_io_runtime_apis|Runtime APIs]]
-- [[rules_101|Rules]]
-- [[fields|Fields]]
-- [[layouts|Layouts]]

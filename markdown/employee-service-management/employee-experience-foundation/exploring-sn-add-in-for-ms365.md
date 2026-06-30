@@ -14,7 +14,7 @@ breadcrumb: [ServiceNow Add-in for Microsoft 365, Unified Employee Experience, E
 
 # Exploring ServiceNow Add-in for Microsoft 365
 
-[[sn-addin-for-ms365|ServiceNow Add-in for Microsoft 365]] provides [[emp-center-quick-link-config|quick links]] to employees and reduces the time taken to submit incidents, cases, or catalog requests.
+ServiceNow Add-in for Microsoft 365 provides quick links to employees and reduces the time taken to submit incidents, cases, or catalog requests.
 
 ## ServiceNow Add-in for Microsoft 365 overview
 
@@ -24,7 +24,7 @@ The ServiceNow Add-in for Microsoft 365 can be used to create an add-in with cus
 
 |User|Description|
 |----|-----------|
-|Administrator|Administrators manage the installation and configuration of the ServiceNow Add-in for Microsoft 365. They can also [[map-fields-navex|map fields]] from the email to the catalog item or form.|
+|Administrator|Administrators manage the installation and configuration of the ServiceNow Add-in for Microsoft 365. They can also map fields from the email to the catalog item or form.|
 |Employee|Employees use the ServiceNow add-in in their Microsoft Outlook client to create incidents or cases based on emails.|
 
 ## ServiceNow Add-in for Microsoft 365 benefits
@@ -81,15 +81,9 @@ Employees
 </td></tr></tbody>
 </table>## What to explore next
 
-To learn more about configuring and [[using-sn-addin-for-ms365|using ServiceNow Add-in for Microsoft 365]], see:
+To learn more about configuring and using ServiceNow Add-in for Microsoft 365, see:
 
 -   [Configuring ServiceNow Add-in for Microsoft 365](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/configuring-sn-addin-for-ms365.md)
 -   [Using ServiceNow Add-in for Microsoft 365](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/using-sn-addin-for-ms365.md)
 -   [ServiceNow Add-in for Microsoft 365 reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/sn-addin-for-ms365-reference.md)
 
-## Related
-
-- [[sn-addin-for-ms365|ServiceNow Add-in for Microsoft 365]]
-- [[emp-center-quick-link-config|Quick links]]
-- [[map-fields-navex|Map fields]]
-- [[using-sn-addin-for-ms365|Using ServiceNow Add-in for Microsoft 365]]

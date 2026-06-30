@@ -14,15 +14,15 @@ breadcrumb: [The CPQ Configurator, CPQ, Configure, price, quote, Explore, Sales 
 
 Learn how sets organize repeatable field groups, simplify complex configurations, and enable data aggregation across repeated elements in CPQ.
 
-A set is a reusable, repeatable collection of [[fields|fields]] that lets administrators define multiple instances of similar configuration data—such as multiple products, components, or options—in a single blueprint.
+A set is a reusable, repeatable collection of fields that lets administrators define multiple instances of similar configuration data—such as multiple products, components, or options—in a single blueprint.
 
-Each row in a set represents one instance of a repeated group of fields, and each field in that row behaves independently. sets streamline configuration design, reduce duplication, and support advanced [[use-cases|use cases]] that require tabular or list-based inputs.
+Each row in a set represents one instance of a repeated group of fields, and each field in that row behaves independently. sets streamline configuration design, reduce duplication, and support advanced use cases that require tabular or list-based inputs.
 
-Administrators use sets to present configuration options in structured, table-like [[layouts|layouts]] that customers can easily edit in the end-user interface.
+Administrators use sets to present configuration options in structured, table-like layouts that customers can easily edit in the end-user interface.
 
 Sets are designed to:
 
--   Simplify repeatable configurations. Instead of creating multiple fields and [[rules_101|rules]] for each repetition, define once and reuse many times.
+-   Simplify repeatable configurations. Instead of creating multiple fields and rules for each repetition, define once and reuse many times.
 -   Provide intuitive, tabular data entry. End users can add, remove, or edit multiple product instances in a structured grid.
 -   Support dynamic rules. Rules can reference values in the same row or aggregate data across all rows.
 -   Enable advanced reporting and summaries. Aggregates summarize field values across rows \(for example, total quantity or total rack units\).
@@ -54,7 +54,7 @@ Sets can appear in the UI in several formats, depending on user experience requi
 |List|Each row shown as a card; can support single-select or multi-select.|Select delivery slots or service packages.|
 |Repeater|Displays one record at a time with navigation controls.|Edit configurations one-by-one in smaller layouts.|
 
-Administrators control layout, alignment, and scrolling in the [[layout_editor|layout editor]].
+Administrators control layout, alignment, and scrolling in the layout editor.
 
 ## Field relationships
 
@@ -100,7 +100,7 @@ Enable uploads/downloads by adding JSON properties in the set’s raw value:
 
 ## Scripting with sets
 
-To reference sets in rules or [[scripts|scripts]], use the following syntax:
+To reference sets in rules or scripts, use the following syntax:
 
 |Use case|Example syntax|
 |--------|--------------|
@@ -119,14 +119,5 @@ if (set.networkDevices.totalRackUnits > 50) {
 **Related topics**  
 
 
-[[sets|Configure sets]]
+[Configure sets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/sets.md)
 
-## Related
-
-- [[sets|Configure sets]]
-- [[fields|Fields]]
-- [[use-cases|Use cases]]
-- [[layouts|Layouts]]
-- [[rules_101|Rules]]
-- [[layout_editor|Layout editor]]
-- [[scripts|Scripts]]

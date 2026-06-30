@@ -14,10 +14,7 @@ breadcrumb: [Dispute Rules Content Pack for Mastercard, Dispute Management, Bank
 
 # Setting up Dispute Rules Content Pack for Mastercard
 
-You can set up your implementation of the [[dispute-rules-content-pack-for-mastercard-landing-page|Dispute Rules Content Pack for Mastercard]] application by installing the application from the ServiceNow Store.
+You can set up your implementation of the Dispute Rules Content Pack for Mastercard application by installing the application from the ServiceNow Store.
 
 **Parent Topic:**[Dispute Rules Content Pack for Mastercard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/dispute-rules-content-pack-for-mastercard-landing-page.md)
 
-## Related
-
-- [[dispute-rules-content-pack-for-mastercard-landing-page|Dispute Rules Content Pack for Mastercard]]

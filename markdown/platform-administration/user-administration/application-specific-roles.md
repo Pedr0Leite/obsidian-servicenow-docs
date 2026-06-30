@@ -118,7 +118,7 @@ Employee Service Management
 
 </td><td>
 
-Case and [[ia-knowledge-mgmt|Knowledge Management]]
+Case and Knowledge Management
 
 </td><td>
 
@@ -358,7 +358,7 @@ Governance, Risk, and Compliance
 
 </td><td>
 
-GRC: [[c_MetricDefinitionSupport|Metrics]]
+GRC: Metrics
 
 </td><td>
 
@@ -502,7 +502,7 @@ ServiceNow AI Platform capabilities
 
 </td><td>
 
-[[ia-ai-search|AI Search]]
+AI Search
 
 </td><td>
 
@@ -1255,8 +1255,3 @@ Teamspaces
 </td></tr></tbody>
 </table>**Parent Topic:**[Base system roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/r_BaseSystemRoles.md)
 
-## Related
-
-- [[ia-knowledge-mgmt|Knowledge management]]
-- [[c_MetricDefinitionSupport|Metrics]]
-- [[ia-ai-search|AI Search]]

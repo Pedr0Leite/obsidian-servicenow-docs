@@ -14,7 +14,7 @@ breadcrumb: [Storage discovery, Data collected by ITOM Visibility, ITOM Visibili
 
 # Discovery data collected for storage via a host
 
-[[r-discovery|Discovery]] gathers information about storage units that connect to Linux, Solaris, and Windows hosts via a local I/O port or Host Bus Adapter \(HBA\).
+Discovery gathers information about storage units that connect to Linux, Solaris, and Windows hosts via a local I/O port or Host Bus Adapter \(HBA\).
 
 ## Probes used to discover storage from a host
 
@@ -825,6 +825,3 @@ computer
 </td></tr></tbody>
 </table>**Parent Topic:**[Storage discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_Storage.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

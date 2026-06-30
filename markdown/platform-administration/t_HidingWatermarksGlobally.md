@@ -39,8 +39,5 @@ Watermarks can only be hidden in the HTML message for the global application. Th
     This ensures that all watermarks are hidden on all email messages. This cannot be done on a per-email basis.
 
 
-**Parent Topic:**[[c_WorkingWithWatermarks|Watermarks on notification emails]]
+**Parent Topic:**[Watermarks on notification emails](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_WorkingWithWatermarks.md)
 
-## Related
-
-- [[c_WorkingWithWatermarks|Watermarks on notification emails]]

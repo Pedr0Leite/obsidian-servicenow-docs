@@ -28,11 +28,11 @@ Role required: document\_management\_user
 
 1.  In the Document Revisions list, right-click the revised document and select **Submit Revision**.
 
-    Because you identified yourself as the reviewer, you receive an approve request [[email|email]] message.
+    Because you identified yourself as the reviewer, you receive an approve request email message.
 
 2.  In the email message, click the link next to **Click here to view Approval Request**.
 
-3.  View the document by clicking the [[attachment|attachment]] name under **Document Revision**.
+3.  View the document by clicking the attachment name under **Document Revision**.
 
 4.  Click **Approve**.
 
@@ -45,7 +45,3 @@ Role required: document\_management\_user
 
 **Parent Topic:**[Managed Documents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/c_ManagedDocuments.md)
 
-## Related
-
-- [[email|Email]]
-- [[attachment|Attachment]]

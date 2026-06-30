@@ -14,12 +14,12 @@ breadcrumb: [Gifts and Entertainment Compliance, Legal Service Delivery Practice
 
 # Gifts and Entertainment Compliance reference
 
-[[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] topics provide additional information about the components, lists and forms that you use in [[lsd-ge-landing-page|Gifts and Entertainment Compliance]].
+Reference topics provide additional information about the components, lists and forms that you use in Gifts and Entertainment Compliance.
 
 -   **[Components installed with Gifts and Entertainment Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-gifts-and-entertainment/lsd-installed-with-ge.md)**  
 Several types of components are installed with installation of the Gifts and Entertainment Compliance, including tables and user roles.
 -   **[Gift Policies form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-gifts-and-entertainment/lsd-ge-policy-form.md)**  
-Use the [[lsd-ge-policy-form|Gift Policies form]] to add policy in accordance with your organization's policy.
+Use the Gift Policies form to add policy in accordance with your organization's policy.
 -   **[Gift and entertainment disclosure form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-gifts-and-entertainment/lsd-ge-disclosure-form.md)**  
 Use the Gift Policies form to add policy in accordance with your organization's policy.
 -   **[Gifts and Entertainment Compliance notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-gifts-and-entertainment/lsd-GnE-notifications.md)**  
@@ -27,8 +27,3 @@ Notifications alert you of changes in gift and entertainment disclosure request 
 
 **Parent Topic:**[Gifts and Entertainment Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-gifts-and-entertainment/lsd-ge-landing-page.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[lsd-ge-landing-page|Gifts and Entertainment Compliance]]
-- [[lsd-ge-policy-form|Gift Policies form]]

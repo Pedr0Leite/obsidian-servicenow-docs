@@ -34,7 +34,7 @@ You can also use a criticality value to define recovery strategies.
 
 1.  In the classic environment, perform the following steps:
 
-    1.  Navigate to **All** &gt; **[[c_ServiceMappingOverview|Service Mapping]]** &gt; **Home**.
+    1.  Navigate to **All** &gt; **Service Mapping** &gt; **Home**.
 
         The Home page displays only information on service instances that Service Mapping can discover or already discovered. The Home page does not display information on service instances that are created manually or using the API.
 
@@ -80,11 +80,7 @@ You can also use a criticality value to define recovery strategies.
 
 [Control user access to application services]()
 
-[Schedule a top-down [[r-discovery|discovery]] by Service Mapping]()
+[Schedule a top-down discovery by Service Mapping]()
 
 [Service definition transfer from one instance to another]()
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]

@@ -14,16 +14,16 @@ breadcrumb: [Reference, Supplier Lifecycle Operations, Finance and Supply Chain]
 
 # Supplier Relationship and Performance Management reference
 
-Reference topics provide additional information about [[supplier-performance-management-overview|Supplier Relationship and Performance Management]], including its data model, lists, and forms.
+Reference topics provide additional information about Supplier Relationship and Performance Management, including its data model, lists, and forms.
 
 **Important:** Check your entitlements to determine whether you have access to Supplier Relationship and Performance Management.
 
 -   **[Supplier Relationship and Performance Management data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supplier-relationship-and-performance-management-data-model.md)**  
-The following diagram shows the tables and their relationships that comprise the [[supplier-relationship-and-performance-management-data-model|Supplier Relationship and Performance Management data model]].
+The following diagram shows the tables and their relationships that comprise the Supplier Relationship and Performance Management data model.
 -   **[Primary data tables for Supplier Relationship and Performance Management \(SRPM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/primary-data-tables-srpm.md)**  
 The primary data tables for Supplier Relationship and Performance Management store important information about KPI configurations, KPI data, and generated scores.
 -   **[Restructured Supplier Task table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supplier-task-table-restructure.md)**  
-The [[supplier|Supplier]] Task table architecture has been restructured in the Washington DC and Yokohama releases.
+The Supplier Task table architecture has been restructured in the Washington DC and Yokohama releases.
 
 **Parent Topic:**[Supplier Lifecycle Operations reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supp-mgmt-reference.md)
 
@@ -54,8 +54,3 @@ The [[supplier|Supplier]] Task table architecture has been restructured in the W
 
 [Supplier Lifecycle Operations glossary]()
 
-## Related
-
-- [[supplier-performance-management-overview|Supplier Relationship and Performance Management]]
-- [[supplier-relationship-and-performance-management-data-model|Supplier Relationship and Performance Management data model]]
-- [[supplier|Supplier]]

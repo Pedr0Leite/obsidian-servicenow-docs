@@ -14,7 +14,7 @@ breadcrumb: [Security Auditable Fields, Identity and Access Audit, Identity]
 
 # Configuring Retention Period
 
-Configure the retention period for [[identity-audit|Identity and Access Audit]].
+Configure the retention period for Identity and Access Audit.
 
 ## Before you begin
 
@@ -32,6 +32,4 @@ Role required: admin
 
 3.  Click **Update**.
 
-## Related
 
-- [[identity-audit|Identity and Access Audit]]

@@ -14,7 +14,7 @@ breadcrumb: [Using Shopping Hub, Use, Sourcing and Procurement Operations, Finan
 
 # Purchasing from punchout or third-party suppliers
 
-Shoppers who are part of the punchout group can navigate to punchout or external third-party [[supplier|supplier]] sites from ShoppingHub or Employee Center and make purchases. They can view the third-party purchases in the My purchases page on ShoppingHub, and also view the shipment records received from the third-party sites.
+Shoppers who are part of the punchout group can navigate to punchout or external third-party supplier sites from ShoppingHub or Employee Center and make purchases. They can view the third-party purchases in the My purchases page on ShoppingHub, and also view the shipment records received from the third-party sites.
 
 ## External suppliers on ShoppingHub
 
@@ -23,7 +23,7 @@ Shoppers who are part of the punchout group can view punchout or external third-
 -   **Suppliers** &gt; **Supplier sites**: Shoppers can select the **Supplier site** check box to filter their search for external or punchout suppliers.
 -   **Purchase directly from the supplier site** widget: Shoppers can view up to four external supplier cards here. If there are more than four external suppliers, they can view all by going to the complete list.
 
-For more information about the checkout experiences for shoppers based on whether they have installed Employee Center, [[shopping-hub-overview|Shopping Hub]], or both, see [Shopper checkout experiences based on installed applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/ec-sh-checkout-flow.md).
+For more information about the checkout experiences for shoppers based on whether they have installed Employee Center, Shopping Hub, or both, see [Shopper checkout experiences based on installed applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/ec-sh-checkout-flow.md).
 
 For more information on punchout groups and how to configure them as an admin, see [Configure punchout for third-party site purchases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/configure-supplier-punchout.md).
 
@@ -40,9 +40,9 @@ For more information on Employee Center, see [Sourcing and Procurement Operation
 
 ## Post checkout from external supplier sites
 
-After successfully completing a checkout at an external third-party supplier site, a shopper can view the third-party [[purchase-requisition|purchase requisition]] in the My purchases page ​from ShoppingHub Home. The purchase requisition record contains details of the third-party supplier, [[purchase-lines|purchase lines]] with product names, and the associated approvals, [[contracts|contracts]], and cases.
+After successfully completing a checkout at an external third-party supplier site, a shopper can view the third-party purchase requisition in the My purchases page ​from ShoppingHub Home. The purchase requisition record contains details of the third-party supplier, purchase lines with product names, and the associated approvals, contracts, and cases.
 
-Once the necessary approvals are received and the associated cases are completed, a [[purchase-order-table|purchase order]] is created by the procurement specialist. The same purchase order can also be viewed by the procurement admin in the external site in their order logs. The order confirmation and shipment confirmation details are received from the external supplier site as and when the order is processed. [[shipment-details|Shipment details]] are captured in the Shipment Details table by purchase lines.
+Once the necessary approvals are received and the associated cases are completed, a purchase order is created by the procurement specialist. The same purchase order can also be viewed by the procurement admin in the external site in their order logs. The order confirmation and shipment confirmation details are received from the external supplier site as and when the order is processed. Shipment details are captured in the Shipment Details table by purchase lines.
 
 In case of an update to the order quantity or price at the external supplier end, the same is sent as a revision during order confirmation to SPO, which is then updated in SPO as a revision purchase requisition. For more information on purchase revision scenarios, see [Purchase revision flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-revision-flows.md).
 
@@ -54,12 +54,3 @@ In case of any failures in creating purchase requisitions, check the import logs
 
 An error code of 500 would indicate an invalid credential record or a missing punchout configuration in the third-party registration for supplier​.
 
-## Related
-
-- [[supplier|Supplier]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[purchase-requisition|Purchase requisition]]
-- [[purchase-lines|Purchase lines]]
-- [[contracts|Contracts]]
-- [[purchase-order-table|Purchase order]]
-- [[shipment-details|Shipment details]]

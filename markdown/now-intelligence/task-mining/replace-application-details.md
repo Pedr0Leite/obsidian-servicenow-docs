@@ -14,7 +14,7 @@ breadcrumb: [Configure, Task Mining, Platform Analytics]
 
 # Avoid capturing and displaying application details
 
-Prevent the [[task-mining|Task Mining]] agent from collecting application details by replacing application details that match event filters. Application details include the application name, URL, and window name that appear during application categorization and in dashboards.
+Prevent the Task Mining agent from collecting application details by replacing application details that match event filters. Application details include the application name, URL, and window name that appear during application categorization and in dashboards.
 
 ## Before you begin
 
@@ -33,7 +33,7 @@ The Event Field Replacement Value anonymization value affects the output of this
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[task-mining-workspace|Task Mining Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Task Mining Workspace**.
 
 2.  Select the Configuration icon \[Omitted image "task-mining-configuration-icon.png"\].
 
@@ -60,7 +60,4 @@ The Event Field Replacement Value anonymization value affects the output of this
     -   To replace the value of fields that might contain PII that can be transferred in the raw data, select **Value**. This option still collects details for the activities, but displays BLOCKLISTED in the data. Use this option when you have fields containing sensitive data you don't want exposed in the data.
 8.  Select **Save**.
 
-## Related
 
-- [[task-mining|Task Mining]]
-- [[task-mining-workspace|Task Mining Workspace]]

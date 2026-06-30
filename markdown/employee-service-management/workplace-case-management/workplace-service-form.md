@@ -47,14 +47,14 @@ Fulfillment type
 </td><td>
 
 Fulfillment type for the workplace service. You can select one of the following values:-   **Manual**: Select this option for manual fulfillment. This option enables you to fulfill the request with a human response.
--   **Service [[activity-lxp|activity]]**: Select this option to trigger activities to fulfill the workplace service. Save the form to create or update workplace service activities. For more information, see [Create a Workplace service activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/create-workplace-service-activity.md)
+-   **Service activity**: Select this option to trigger activities to fulfill the workplace service. Save the form to create or update workplace service activities. For more information, see [Create a Workplace service activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/create-workplace-service-activity.md)
 -   **Flow**: Select this option to use an existing subflow from the application for fulfillment. For more information about Flows, see [Create a subflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/create-subflow.md).
 
 **Note:** If you are creating a custom subflow, ensure that the input fields are set to following:
 
     -   Label: Workplace Case
     -   Name: workplace\_case
-    -   Type: [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]].Workplace Case
+    -   Type: Reference.Workplace Case
 
 </td></tr><tr><td>
 
@@ -114,11 +114,11 @@ Available for
 
 </td><td>
 
-Option to specify where the workplace service is available.-   **Case**: Select this option to make the workplace service available only to [[workplace-case-mgmt-feat|Workplace Case Management]] users.
+Option to specify where the workplace service is available.-   **Case**: Select this option to make the workplace service available only to Workplace Case Management users.
 -   **Reservation**: Select this option to make the workplace service available for employees while making a reservation.
 -   **Case and Reservation**: Select this option to make the workplace service available to both Workplace Case Management users and to employees making a reservation.
 
-**Note:** The **Reservation** and **Case and Reservation** options appear only if the [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] application is installed.
+**Note:** The **Reservation** and **Case and Reservation** options appear only if the Workplace Reservation Management application is installed.
 
 </td></tr><tr><td>
 
@@ -198,9 +198,3 @@ Description about the workplace service that explains the purpose of the workpla
 
 [Workplace Location Assignment service]()
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]

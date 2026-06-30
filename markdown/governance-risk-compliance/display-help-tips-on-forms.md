@@ -39,8 +39,5 @@ Role required: sn\_oper\_res.manager
     \[Omitted image "help-tip-on-the-forms.png"\] Alt text: Help tip.
 
 
-**Parent Topic:**[[conf-dg-resi-party-regi|Configuring Digital resilience third-party registers]]
+**Parent Topic:**[Configuring Digital resilience third-party registers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/conf-dg-resi-party-regi.md)
 
-## Related
-
-- [[conf-dg-resi-party-regi|Configuring Digital resilience third-party registers]]

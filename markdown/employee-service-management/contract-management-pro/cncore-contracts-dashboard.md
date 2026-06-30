@@ -26,7 +26,7 @@ For more information on working with KPI details, see [Examining indicators with
 
 -   Contract Report Publisher \[sn\_cm\_core.contract\_report\_publisher\]: Needed to edit and publish reports related to contract requests and signed contracts data.
 -   Contract Report Viewer \[sn\_cm\_core.contract\_report\_viewer\]: Needed to view reports related to contract requests and signed contracts data.
--   Contract PA Admin \[sn\_cm\_pa.pa\_admin\]: Needed to activate and configure the Analytics Pack for [[cncore-cmpro-landing-page|Contract Management Pro]].
+-   Contract PA Admin \[sn\_cm\_pa.pa\_admin\]: Needed to activate and configure the Analytics Pack for Contract Management Pro.
 
 ## Access the Contracts Dashboard
 
@@ -237,6 +237,3 @@ Displays own paper and third-party paper in the list. You can select the desired
 </td></tr></tbody>
 </table>**Parent Topic:**[Platform Analytics Solutions for Contract Management Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-analytics-pa.md)
 
-## Related
-
-- [[cncore-cmpro-landing-page|Contract Management Pro]]

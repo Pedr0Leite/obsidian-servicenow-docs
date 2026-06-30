@@ -14,7 +14,7 @@ breadcrumb: [Certification filters, CMDB Compliance, Configuration Management Da
 
 # Create a filter
 
-You can create as many versions of a filter as necessary. You can then designate which versions are active and available for selection in Compliance template records, Governance Risk and Compliance control test definitions, or [[c_DataCertification|Data Certification]] schedule definitions.
+You can create as many versions of a filter as necessary. You can then designate which versions are active and available for selection in Compliance template records, Governance Risk and Compliance control test definitions, or Data Certification schedule definitions.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: none
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Configuration** &gt; **[[ci-class-manager-landing-page|CI Class Manager]]**, and:
+1.  Navigate to **All** &gt; **Configuration** &gt; **CI Class Manager**, and:
 
     1.  Click **Hierarchy** to display the CI Classes list.
 
@@ -33,7 +33,7 @@ Role required: none
 2.  Or, navigate to one of these modules:
 
     -   **Compliance** &gt; **Filters**
-    -   **Data Certification** &gt; **Schedules** &gt; **[[c_CertificationFilters|Certification Filters]]**
+    -   **Data Certification** &gt; **Schedules** &gt; **Certification Filters**
 3.  Select an existing filter to edit, or click **New**.
 
 4.  Fill in the fields \(see table below\).
@@ -104,7 +104,7 @@ Version
 
 </td><td>
 
-\[Read-only\] Indicates the version of this filter. Any changes to this filter, except to the description or the **Active** [[check-box|check box]], makes it inactive. The system increments the version of the updated filter and marks it as active. The system saves all versions of the filter and makes them available for reactivation.
+\[Read-only\] Indicates the version of this filter. Any changes to this filter, except to the description or the **Active** check box, makes it inactive. The system increments the version of the updated filter and marks it as active. The system saves all versions of the filter and makes them available for reactivation.
 
 </td></tr><tr><td>
 
@@ -118,10 +118,3 @@ Specifies the fields, operators, and values that create the filter. The availabl
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_DataCertification|Data Certification]]
-- [[ci-class-manager-landing-page|CI Class Manager]]
-- [[c_CertificationFilters|Certification filters]]
-- [[check-box|Check box]]

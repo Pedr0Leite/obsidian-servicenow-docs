@@ -166,13 +166,13 @@ Use the **Order** field in this catalog variable set record to set this order va
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[service-catalog|Service Catalog]]** &gt; **Catalog Definition** &gt; **Maintain Items**.
+1.  Navigate to **All** &gt; **Service Catalog** &gt; **Catalog Definition** &gt; **Maintain Items**.
 
 2.  Open the catalog item to edit.
 
 3.  Navigate to the Variable Sets related list.
 
-4.  Click the [[reference|reference]] icon for the variable set.
+4.  Click the reference icon for the variable set.
 
     \[Omitted image "SC\_Catalog\_Variable\_Set\_Order.png"\] Alt text: catalog variable set
 
@@ -195,7 +195,3 @@ The order for display of the variables and variable sets is specified using the 
 -   In Layout 2, an order value is not specified for Variable Set A whereas an order value is specified for Variable Set B at the Related Lists level. In this case, the empty value for Variable Set A is considered as zero. Hence, the layout is organized based on the order value of 0 for Variable Set A and 300 for Variable Set B.
 -   In Layout 3, order values are not specified for both Variable Set A and Variable Set B at the Related Lists level. In this case, the order values specified within the variable sets are considered. Hence, the layout is organized based on the order value of 400 for Variable Set A and 150 for Variable Set B.
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[reference|Reference]]

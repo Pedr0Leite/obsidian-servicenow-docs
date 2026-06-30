@@ -14,11 +14,11 @@ breadcrumb: [CI Remediation, Manage and monitor alerts, Configuring Event Manage
 
 # Create or edit CI remediation
 
-Create a [[ci-remediation|CI remediation]] rule that lets users manually apply an Orchestration workflow for resolving issues with specific CIs associated with alerts. Define these CIs in the CI filter conditions of the rule.
+Create a CI remediation rule that lets users manually apply an Orchestration workflow for resolving issues with specific CIs associated with alerts. Define these CIs in the CI filter conditions of the rule.
 
 ## Before you begin
 
-Create the workflow to remediate CIs. In the workflow settings, select **[[ccg-remediation|Remediation]] Task \[em\_remediation\_task\]** in the **Table** field.
+Create the workflow to remediate CIs. In the workflow settings, select **Remediation Task \[em\_remediation\_task\]** in the **Table** field.
 
 Then submit the workflow definition, and add the following conditions to the workflow properties:
 
@@ -40,7 +40,7 @@ A CI remediation rule associates a set of CIs that might experience problems wit
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Rules** &gt; **CI Remediations**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Rules** &gt; **CI Remediations**.
 
 2.  Click **New**, or select a CI remediation to edit.
 
@@ -58,8 +58,3 @@ In service maps that are opened from the Event Management dashboard, this remedi
 
 **Parent Topic:**[CI Remediation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/ci-remediation.md)
 
-## Related
-
-- [[ci-remediation|CI Remediation]]
-- [[ccg-remediation|Remediation]]
-- [[c_EM|Event Management]]

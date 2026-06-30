@@ -16,7 +16,7 @@ breadcrumb: [Error handling and logging, Hardening settings, Platform Security]
 
 Configure the **glide.outbound\_http.security.log.allow.all.fields** property to false to prevent sensitive Outbound HTTP fields from being logged in plain text.
 
-If this property is not set to the recommended value of **false**, sensitive Outbound HTTP fields might be logged in plaintext. This can decrease the security posture of your enterprise network because outbound requests with sensitive data and credentials can be logged in plaintext which is unencrypted, and can be viewed by lower-[[privileged-users|privileged users]].
+If this property is not set to the recommended value of **false**, sensitive Outbound HTTP fields might be logged in plaintext. This can decrease the security posture of your enterprise network because outbound requests with sensitive data and credentials can be logged in plaintext which is unencrypted, and can be viewed by lower-privileged users.
 
 ## More information
 
@@ -30,7 +30,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -42,7 +42,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -97,8 +97,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Error handling and logging](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-error-handling-logging.md)
 
-## Related
-
-- [[privileged-users|Privileged Users]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

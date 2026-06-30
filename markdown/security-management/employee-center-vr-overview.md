@@ -12,9 +12,9 @@ breadcrumb: [Use, Unified Security Exposure Management, Security Operations]
 
 # Employee service center for Vulnerability Response
 
-Employee Service Center provides a standardised approval experience and process for Business Unit Heads, Service Owners, and IT Heads, who may not regularly log in to USEM. It enables them to manage approvals from a central [[location|location]], such as Employee Center Approval Requests, ensuring that requests are routed to the right approvers, decisions are tracked transparently, and actions are completed efficiently. This improves operational efficiency, accountability, and the overall approver experience.
+Employee Service Center provides a standardised approval experience and process for Business Unit Heads, Service Owners, and IT Heads, who may not regularly log in to USEM. It enables them to manage approvals from a central location, such as Employee Center Approval Requests, ensuring that requests are routed to the right approvers, decisions are tracked transparently, and actions are completed efficiently. This improves operational efficiency, accountability, and the overall approver experience.
 
-This feature enables users to manage and take action on various vulnerability-related approvals directly from the **Employee Service Center** \(ESC\), eliminating the need to navigate to**[[vuln-landing-page|Vulnerability Response]]** &gt; **My Approvals**.
+This feature enables users to manage and take action on various vulnerability-related approvals directly from the **Employee Service Center** \(ESC\), eliminating the need to navigate to**Vulnerability Response** &gt; **My Approvals**.
 
 The following approval types are displayed within the Employee Service Center:
 
@@ -32,14 +32,8 @@ For Exception Rules:
 
 These approvals are available under the **My Tasks** section for easier access and management. For more information related to employee center visit: [Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-center-landing-page.md)
 
--   **[[manage-approvals-ec|Managing Approvals via the Employee Service Center]]**  
+-   **[Managing Approvals via the Employee Service Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/manage-approvals-ec.md)**  
 The updated Employee Service Center experience consolidates vulnerability approvals under one interface.This allows customers to efficiently manage security exceptions without navigating multiple systems or UIs.
 
-**Parent Topic:**[[using-unified-security-exposure-management|Using Unified Security Exposure Management]]
+**Parent Topic:**[Using Unified Security Exposure Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/using-unified-security-exposure-management.md)
 
-## Related
-
-- [[manage-approvals-ec|Managing Approvals via the Employee Service Center]]
-- [[using-unified-security-exposure-management|Using Unified Security Exposure Management]]
-- [[location|Location]]
-- [[vuln-landing-page|Vulnerability Response]]

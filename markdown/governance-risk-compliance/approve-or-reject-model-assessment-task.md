@@ -12,7 +12,7 @@ breadcrumb: [Use, Model Risk Management, Governance, Risk, and Compliance]
 
 # Approve or reject model assessment and validation tasks
 
-Approve or reject the model assessment and validation tasks either from the [[employee-center|Employee Center]] or [[model-risk-workspace|Model Risk Workspace]].
+Approve or reject the model assessment and validation tasks either from the Employee Center or Model Risk Workspace.
 
 ## Before you begin
 
@@ -49,10 +49,5 @@ Role required: sn\_model\_risk\_mgmt.task\_approver
         This action terminates the current workflow and initiates it again from the beginning.
 
 
-**Parent Topic:**[[using-mrm|Using Model Risk Management]]
+**Parent Topic:**[Using Model Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/using-mrm.md)
 
-## Related
-
-- [[using-mrm|Using Model Risk Management]]
-- [[employee-center|employee center]]
-- [[model-risk-workspace|Model Risk Workspace]]

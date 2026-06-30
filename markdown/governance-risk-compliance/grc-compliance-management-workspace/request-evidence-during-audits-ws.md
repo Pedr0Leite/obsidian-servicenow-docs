@@ -30,7 +30,7 @@ Evidence can be requested in the following three ways:
 
 -   **Request Evidence**
 
-    From the Entity, Control, Audit Task, Control Test Issue, and Other Issues related lists in an engagement record. To request evidence from these sources, navigate to **All** &gt; **Policy and Compliance** &gt; **Compliance Workspace**. In the [[list-view-uib-ws|List view]] of the workspace, select **Engagements** in the Control testing list. Open the engagement record, and select the related list from which you want to request evidence. Select the **Request Evidence** button. Here, you can either create an [[evidence-request|evidence request]] or add more requests to an existing evidence request. The Evidence request is created but not the evidence request tasks.
+    From the Entity, Control, Audit Task, Control Test Issue, and Other Issues related lists in an engagement record. To request evidence from these sources, navigate to **All** &gt; **Policy and Compliance** &gt; **Compliance Workspace**. In the List view of the workspace, select **Engagements** in the Control testing list. Open the engagement record, and select the related list from which you want to request evidence. Select the **Request Evidence** button. Here, you can either create an evidence request or add more requests to an existing evidence request. The Evidence request is created but not the evidence request tasks.
 
     You can inform the user of the evidence records that already exist for any of the related item tables of the engagement, which they can reuse.
 
@@ -361,7 +361,4 @@ Instructions for providing evidence. For example, list of supporting documents, 
 
     The Evidence related list appears with the list of evidences and the person who is assigned the request receives an email notification to provide the requested evidence. Also, the state of the request changes to **Work in Progress**.You can view the description and monitor the state of the Evidence request in the stepper of the Overview page as it progresses through the evidence request process flow.
 
-## Related
 
-- [[list-view-uib-ws|List view]]
-- [[evidence-request|Evidence request]]

@@ -13,7 +13,7 @@ breadcrumb: [Engage via email interactions, Using Email Interaction for CSM, Cus
 
 # Create a customer contact
 
-Use the Contact card on the [[email-as-an-interaction|email interaction]] page to create a customer contact and add the customer contact into the interaction record.
+Use the Contact card on the email interaction page to create a customer contact and add the customer contact into the interaction record.
 
 ## Before you begin
 
@@ -21,7 +21,7 @@ Role required: sn\_customerservice\_agent, workspace\_admin, or admin
 
 ## About this task
 
-Agents can use the contact [[csm-record-page-lookup-component|lookup component]] to search for contacts. If an agent can't find a contact or if the customer is a guest, the agent can create a record for that customer from the contact lookup component.
+Agents can use the contact lookup component to search for contacts. If an agent can't find a contact or if the customer is a guest, the agent can create a record for that customer from the contact lookup component.
 
 ## Procedure
 
@@ -29,7 +29,7 @@ Agents can use the contact [[csm-record-page-lookup-component|lookup component]]
 
 2.  Select the List icon \(\[Omitted image "List\_icon.jpg"\] Alt text: List icon\).
 
-3.  On the [[migration-lists|Lists]] section, in the Interactions section, select **My Interactions**.
+3.  On the Lists section, in the Interactions section, select **My Interactions**.
 
 4.  In the My Interactions page, select an email interaction.
 
@@ -37,7 +37,7 @@ Agents can use the contact [[csm-record-page-lookup-component|lookup component]]
 
 6.  On the Contact form, fill in the fields.
 
-    For a description of the field values, see [[contact-form-eaai|Contact form for Email Interaction for CSM]].
+    For a description of the field values, see [Contact form for Email Interaction for CSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/contact-form-eaai.md).
 
 7.  Select **Save**.
 
@@ -50,9 +50,3 @@ The system performs these actions:
 -   Creates and displays the contact card.
 -   Adds the information to the interaction record.
 
-## Related
-
-- [[contact-form-eaai|Contact form for Email Interaction for CSM]]
-- [[email-as-an-interaction|Email Interaction]]
-- [[csm-record-page-lookup-component|Lookup component]]
-- [[migration-lists|Lists]]

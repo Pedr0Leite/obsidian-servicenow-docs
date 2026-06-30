@@ -12,7 +12,7 @@ breadcrumb: [Business Portal, Use, Sales Customer Relationship Management]
 
 # Create orders from the Business Portal
 
-Browse products in a product catalog and create orders in [[explore-order-management|Order Management]].
+Browse products in a product catalog and create orders in Order Management.
 
 ## Before you begin
 
@@ -58,7 +58,7 @@ The following illustration describes the process to create orders from the Busin
         |Cumulative monthly price|Total cost of a product and its child items, if any, over a month.|
         |Cumulative one time price|One-time price of the product and its child items, if any.|
 
-    2.  If you need to [[Modify|modify]] the quantity or customization for a product in the cart, select the Edit icon \[Omitted image "pencil-outline-24.svg"\] Alt text: and modify the details.
+    2.  If you need to modify the quantity or customization for a product in the cart, select the Edit icon \[Omitted image "pencil-outline-24.svg"\] Alt text: and modify the details.
 
     3.  If you want to delete an item, select the Delete icon \[Omitted image "Form\_DeleteIcon.png"\] Alt text:.
 
@@ -92,13 +92,7 @@ The order is created and you're redirected to the Order details page. You can vi
 **Related topics**  
 
 
-[[order-mgt-view-order-using-customer-portal|View an order on the Business Portal]]
+[View an order on the Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-view-order-using-customer-portal.md)
 
-[[modify-terms-conditions-sales-cart|Modify terms and conditions for the sales cart]]
+[Modify terms and conditions for the sales cart](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/modify-terms-conditions-sales-cart.md)
 
-## Related
-
-- [[order-mgt-view-order-using-customer-portal|View an order on the Business Portal]]
-- [[modify-terms-conditions-sales-cart|Modify terms and conditions for the sales cart]]
-- [[explore-order-management|Order management]]
-- [[Modify|Modify]]

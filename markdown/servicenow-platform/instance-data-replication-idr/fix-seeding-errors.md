@@ -14,7 +14,7 @@ breadcrumb: [Resolving errors, Administer, Instance Data Replication, Manage ins
 
 # Fix seeding errors in Instance Data Replication
 
-Retry [[instance-data-replication|Instance Data Replication]] \(IDR\) seeding on tables with seeding errors, which occur from network problems and failed inserts, so that you don't have to do a full seeding.
+Retry Instance Data Replication \(IDR\) seeding on tables with seeding errors, which occur from network problems and failed inserts, so that you don't have to do a full seeding.
 
 ## Before you begin
 
@@ -46,11 +46,7 @@ Do not retry full seeding if you exceed any of the following limitations:
 4.  Retry the seeding request.Click or select specific errors, and then click **Retry Selected Errors**.
 
     -   Retry seeding for all errors by selecting **Retry All Errors**.
-    -   Retry seeding for specific errors by selecting the [[check-box|check box]] next to each error and then selecting **Retry Selected Errors**.
+    -   Retry seeding for specific errors by selecting the check box next to each error and then selecting **Retry Selected Errors**.
 
 **Parent Topic:**[Resolving data replication errors in Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/common-issues-idr.md)
 
-## Related
-
-- [[instance-data-replication|Instance Data Replication]]
-- [[check-box|Check box]]

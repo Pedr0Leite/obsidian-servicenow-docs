@@ -44,7 +44,7 @@ To create a workflow stage field:
 
 5.  Click **Save**.
 
-6.  Right-click the field [[label|label]] and select **Configure Dictionary**.
+6.  Right-click the field label and select **Configure Dictionary**.
 
 7.  Open a dictionary entry.
 
@@ -54,7 +54,7 @@ To create a workflow stage field:
 
 10. To ensure that the workflow field properly displays stages on the form, define a choice for each workflow stage.
 
-    -   To create [[c_WorkflowStages|workflow stages]] using a choice list that already has choices, you can import the stages from the choice list. A stage is created for each choice defined for the **Stage field** selected in the [[r_WorkflowProperties|workflow properties]]. For detailed steps about importing a choice list, see [Import stages from a choice list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/c_WorkflowStageSets.md).
+    -   To create workflow stages using a choice list that already has choices, you can import the stages from the choice list. A stage is created for each choice defined for the **Stage field** selected in the workflow properties. For detailed steps about importing a choice list, see [Import stages from a choice list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/c_WorkflowStageSets.md).
     -   The **Value** of each choice must match the **Value** of the corresponding workflow stage.
     -   Do not use spaces in the **Value** field for either choices or stages. Use underscores in place of spaces.
     -   Make the choice list read-only. If a user changes the stage value for a record from the choice list rather than allowing the workflow to control the value, the workflow-driven, legacy, and linear renders may not work as intended. You can also use business rules or events to ensure the workflow progresses accordingly.
@@ -79,13 +79,7 @@ Enable workflow stage fields to display approvers, change the number of approver
 -   **[Workflow stage field icons and tooltips](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/r_WorkflowFieldIcons.md)**  
 A workflow stage field displays icons to indicate the workflow stage.
 -   **[Workflow stage renderers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/r_WorkflowStageRenderers.md)**  
-[[r_WorkflowStageRenderers|Workflow stage renderers]] determine how a workflow displays stages in a workflow field.
+Workflow stage renderers determine how a workflow displays stages in a workflow field.
 
 **Parent Topic:**[Workflow stages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/c_WorkflowStages.md)
 
-## Related
-
-- [[label|Label]]
-- [[c_WorkflowStages|Workflow stages]]
-- [[r_WorkflowProperties|Workflow properties]]
-- [[r_WorkflowStageRenderers|Workflow stage renderers]]

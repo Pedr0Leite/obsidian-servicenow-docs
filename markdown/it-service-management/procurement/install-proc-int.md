@@ -14,11 +14,11 @@ breadcrumb: [Integrating with external procurement applications, Procurement, As
 
 # Install Asset Management - Procurement Integration
 
-You can install the [[c_AssetManagement|Asset Management]] - [[c_Procurement|Procurement]] Integration application \(app-itam-procurement-integration\) from the ServiceNow Store.
+You can install the Asset Management - Procurement Integration application \(app-itam-procurement-integration\) from the ServiceNow Store.
 
 ## Before you begin
 
--   Ensure that the application and all of its associated ServiceNow Store [[dex-workspace-application-tab|applications]] have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
+-   Ensure that the application and all of its associated ServiceNow Store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
 -   Review the [Asset Management - Procurement Integration](https://store.servicenow.com/sn_appstore_store.do#!/store/application/6bc356601b9e1101cf85dd75dd6abe9e) application listing in the ServiceNow Store for information on dependencies, licensing or subscription requirements, and release compatibility.
 
 Role required: Now Support
@@ -49,8 +49,4 @@ For more information, see [Components installed with Asset Management - Procurem
 
 5.  Select **Install**.
 
-## Related
 
-- [[c_AssetManagement|Asset Management]]
-- [[c_Procurement|Procurement]]
-- [[dex-workspace-application-tab|Applications]]

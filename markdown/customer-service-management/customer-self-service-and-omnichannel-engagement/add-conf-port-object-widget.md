@@ -14,7 +14,7 @@ breadcrumb: [Portal Object widget, Configurable Portal widgets, Set up self-serv
 
 # Add and configure the Portal Object widget
 
-Add a [[portal-object-widget|Portal Object widget]] to your portal and modify its data and behavior. You can use the Portal Object widget to display important information and actions related to records from a defined table on your portal homepage.
+Add a Portal Object widget to your portal and modify its data and behavior. You can use the Portal Object widget to display important information and actions related to records from a defined table on your portal homepage.
 
 ## Before you begin
 
@@ -52,11 +52,8 @@ The Portal Object widget displays the information based on the sy\_id entered in
 
 11. On the Instance form, fill in the fields.
 
-    For a description of the field values, see [[port-object-inst-options|Portal Object widget instance options form]].
+    For a description of the field values, see [Portal Object widget instance options form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/port-object-inst-options.md).
 
 12. Select **Save**.
 
-## Related
 
-- [[port-object-inst-options|Portal Object widget instance options form]]
-- [[portal-object-widget|Portal Object widget]]

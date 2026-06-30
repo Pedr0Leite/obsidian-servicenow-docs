@@ -18,8 +18,8 @@ You can activate one or more of the Change Management plugins if they are not al
 
 Many of the following Change Management plugins are activated in the base system. Others can be activated when you are ready to use them. The Change Management plugins that are inactive in the base system include the following.
 
--   [[c_ITILChangeManagement|Change Management]] [[bulk-ci-change|mass update CI]] \(com.snc.change\_management.mass\_update\_ci\)
--   Change Management [[c_RskAsmtCalc|risk assessment]] \(com.snc.change\_management.risk\_assessment\)
+-   Change Management mass update CI \(com.snc.change\_management.mass\_update\_ci\)
+-   Change Management risk assessment \(com.snc.change\_management.risk\_assessment\)
 -   Best practice - bulk CI changes \(com.snc.bestpractice.bulkchange\)
 
 You can activate one or more of the following Change Management plugins.
@@ -39,9 +39,9 @@ You can activate the Change Management - Change Schedule plugin \(com.snc.change
 -   **[Activate Change Management - Risk Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/activate-change-risk-assessment.md)**  
 You can activate the Change Management - Risk Assessment plugin \(com.snc.change\_management.risk\_assessment\) if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
 -   **[Activate Change Management - Standard Change Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_ActivateStandardChangeCatalog.md)**  
-You can activate the Change Management - [[c_StandardChangeCatalogPlugin|Standard Change Catalog]] plugin \(com.snc.change\_management.standard\_change\_catalog\) if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
+You can activate the Change Management - Standard Change Catalog plugin \(com.snc.change\_management.standard\_change\_catalog\) if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
 -   **[Activate Change Management - Change Success Score](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/activate-change-success-score.md)**  
-You can activate the Change Management - [[change-success-score|Change Success Score]] \(com.snc.change\_management.change\_success\_score\) plugin if you have the admin role. This plugin activates related plugins if they are not already active.
+You can activate the Change Management - Change Success Score \(com.snc.change\_management.change\_success\_score\) plugin if you have the admin role. This plugin activates related plugins if they are not already active.
 -   **[Activate Change Management - Mass Update CI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_ActivateChangeManagementBulkCI.md)**  
 You can activate the Change Management - Mass Update CI plugin \(com.snc.change\_management.mass\_update\_ci\) if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
 -   **[Activate Change Management -Approval policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/activate-change-approval-policy.md)**  
@@ -55,9 +55,9 @@ You can activate the Change Management - Core plugin \(com.snc.change\_managemen
 -   **[Request Change Management - Risk Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/request-cm-risk-assessment.md)**  
 To activate Change Management capability to predict change risk using Predictive Intelligence, request the Change Management - Risk Intelligence plugin \(com.snc.change\_management.ml.risk\) through the Now Support Customer Service system.
 -   **[Request Change Management - Standard Change Template Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/request-cm-std-chg-template-intelligence.md)**  
-To activate Change Management capability that uses Predictive Intelligence to identify change clusters and propose standard [[change-templates|change templates]], request the Change Management - Standard Change Template Intelligence plugin \(com.snc.change\_management.ml.sctp\) through the Now Support Customer Service system.
+To activate Change Management capability that uses Predictive Intelligence to identify change clusters and propose standard change templates, request the Change Management - Standard Change Template Intelligence plugin \(com.snc.change\_management.ml.sctp\) through the Now Support Customer Service system.
 -   **[Change Management - Predictive Intelligence Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/request-cm-picore.md)**  
-To activate Change Management predictive intelligent features, the [[request-cm-picore|Change Management - Predictive Intelligence Core]] plugin \(com.snc.change\_management.ml\) is required and is automatically installed along with other through Change Management Predictive Intelligence plugins that are requested using the Now Support Customer Service system.
+To activate Change Management predictive intelligent features, the Change Management - Predictive Intelligence Core plugin \(com.snc.change\_management.ml\) is required and is automatically installed along with other through Change Management Predictive Intelligence plugins that are requested using the Now Support Customer Service system.
 -   **[Activate Change Management - Change Flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/activate-change-flows.md)**  
 You can activate the Change Management - Change Model Foundation Data \(com.snc.change\_management.change\_model.foundation\) plugin if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
 -   **[Activate Change Management - Change Velocity dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/activate-change-velocity-dashboard.md)**  
@@ -71,12 +71,3 @@ You can activate the Change Management - Data Archiving plugin \(com.glide.auxdb
 
 **Parent Topic:**[Configuring Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/configure-change-management.md)
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]
-- [[bulk-ci-change|Mass Update CI]]
-- [[c_RskAsmtCalc|Risk assessment]]
-- [[c_StandardChangeCatalogPlugin|Standard change catalog]]
-- [[change-success-score|Change success score]]
-- [[change-templates|Change templates]]
-- [[request-cm-picore|Change Management - Predictive Intelligence Core]]

@@ -16,7 +16,7 @@ breadcrumb: [Certificate Inventory and Management, ITOM Visibility, IT Operation
 
 Attestation jobs run in regular intervals, sending emails to certificate owners, giving them a chance to review certificate ownership.
 
-You can configure the system to send certificate ownership attestation reviews by email at regular intervals. Certificate owners can attest to or reject ownership of certificates via these emails. Alternatively, you can [[reassign-certificate-ownership|reassign certificate ownership]] to align with user changes.
+You can configure the system to send certificate ownership attestation reviews by email at regular intervals. Certificate owners can attest to or reject ownership of certificates via these emails. Alternatively, you can reassign certificate ownership to align with user changes.
 
 **Related topics**  
 
@@ -27,6 +27,3 @@ You can configure the system to send certificate ownership attestation reviews b
 
 [Reassign Certificate Ownership](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/reassign-certificate-ownership.md)
 
-## Related
-
-- [[reassign-certificate-ownership|Reassign Certificate Ownership]]

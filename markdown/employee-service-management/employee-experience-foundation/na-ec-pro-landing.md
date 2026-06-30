@@ -17,7 +17,7 @@ breadcrumb: [Unified Employee Experience, Employee Service Management]
 
 Now Assist for Employee Center Pro expands across AI-powered capabilities, enterprise search, and omnichannel delivery to meet modern productivity needs.
 
-Now Assist for Employee Center Pro offers the portal experience with all the [[eslate-employee-comms|employee communications]] and engagement tools. Now Assist employee experience with seamless conversational interactions, and AI search, which provides a consumer-grade search engine for Service Portal, Now Mobile, and Virtual Agent.
+Now Assist for Employee Center Pro offers the portal experience with all the employee communications and engagement tools. Now Assist employee experience with seamless conversational interactions, and AI search, which provides a consumer-grade search engine for Service Portal, Now Mobile, and Virtual Agent.
 
 **Note:** Now Assist for Employee Center Pro only provides employee or requester conversations and might require other Now Assist products to deliver AI agents or other related features.
 
@@ -35,7 +35,3 @@ Now Assist for Employee Center Pro offers the portal experience with all the [[e
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[eslate-employee-comms|Employee communications]]

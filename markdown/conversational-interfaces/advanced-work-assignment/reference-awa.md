@@ -14,8 +14,5 @@ breadcrumb: [Advanced Work Assignment, Manage people and work, Conversational In
 
 # Advanced Work Assignment reference
 
-The following sections detail the installed components and [[awa-properties|properties for Advanced Work Assignment]] \(AWA\), along with domain separation and performance statistics information.
+The following sections detail the installed components and properties for Advanced Work Assignment \(AWA\), along with domain separation and performance statistics information.
 
-## Related
-
-- [[awa-properties|Properties for Advanced Work Assignment]]

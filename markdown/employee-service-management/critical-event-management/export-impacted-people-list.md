@@ -14,7 +14,7 @@ breadcrumb: [Managing impacted people, Critical Event Management, Health and Saf
 
 # Export an impacted people list
 
-Export an impacted people list as a PDF, CSV, JSON, or Microsoft Excel file in [[critical-event-management|Critical Event Management]] and either download or email the file.
+Export an impacted people list as a PDF, CSV, JSON, or Microsoft Excel file in Critical Event Management and either download or email the file.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_critical.agent
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]** and select the **Critical Event Management** tab.
+1.  Navigate to **Workspaces** &gt; **Health and Safety Workspace** and select the **Critical Event Management** tab.
 
 2.  Open the critical event.
 
@@ -66,7 +66,3 @@ Role required: sn\_critical.agent
 
 [Conduct a roll call as an on-site responder]()
 
-## Related
-
-- [[critical-event-management|Critical Event Management]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]

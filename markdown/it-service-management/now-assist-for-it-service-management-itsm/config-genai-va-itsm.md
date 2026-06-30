@@ -41,7 +41,7 @@ When you configure generative AI for catalog item request submissions, your requ
 
 Although the following catalog item question types are supported in the conversation mode, natural language responses aren't supported for them:
 
--   [[reference-for-itsm-mobile-agent|Reference]]
+-   Reference
 -   Lookup select box
 -   Lookup multiple choice
 -   Requested For
@@ -55,7 +55,7 @@ Although the following catalog item question types are supported in the conversa
 |Upload file formats such as text, PDF, Word \(.doc, .docx\) and image files such as JPEG and PNG.|[Upload documents in a chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/upload-documents-na-va.md).|
 |Combine AI Search with generative AI chat skills to speed up issue resolution and reduce deflection to a live agent using Now Assist for ITSM in Virtual Agent.|[Enhanced chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/nava-enhanced-chat.md)|
 |Use the structured and unstructured data from ServiceNow records, knowledge bases, and external sources to enhance the performance of Now Assist in Virtual Agent, AI agents, and generative AI skills using Knowledge Graph.|[Knowledge Graph](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph-landing.md)|
-|Define crawl [[settings-mobile|settings]] for external content connectors to crawl source systems and send it to AI Search for indexing.|[Configuring External Content Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configuring-ext-cont-connectors.md)|
+|Define crawl settings for external content connectors to crawl source systems and send it to AI Search for indexing.|[Configuring External Content Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configuring-ext-cont-connectors.md)|
 |Monitor your device's performance and diagnose potential issues.|[Check device health using Now Assist for ITSM Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-self-service/check-your-device-s-health-using-now-assist-for-itsm.md)|
 
 ## Procedure
@@ -69,10 +69,5 @@ Although the following catalog item question types are supported in the conversa
     **Note:**
 
     -   Configure the required conditions for the Virtual Agent skills.
-    -   [[itsm-virtual-agent|ITSM Virtual Agent]] is now replaced with the generative AI Virtual Agent.
+    -   ITSM Virtual Agent is now replaced with the generative AI Virtual Agent.
 
-## Related
-
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[settings-mobile|Settings]]
-- [[itsm-virtual-agent|ITSM Virtual Agent]]

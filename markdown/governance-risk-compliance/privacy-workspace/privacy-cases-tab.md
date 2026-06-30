@@ -14,7 +14,7 @@ breadcrumb: [Privacy Workspace for the privacy manager, Explore, Privacy Managem
 
 # Privacy cases tab
 
-The Privacy cases tab on the [[privacy-management|privacy management]] dashboard serves as a centralized interface for monitoring, analyzing, and managing privacy-related incidents and requests within an organization.
+The Privacy cases tab on the privacy management dashboard serves as a centralized interface for monitoring, analyzing, and managing privacy-related incidents and requests within an organization.
 
 The Privacy cases tab on the privacy management dashboard helps organizations achieve and maintain compliance with data protection regulations. It supports adherence to laws such as the General Data Protection Regulation \(GDPR\). It also includes the California Consumer Privacy Act \(CCPA\) and other global privacy frameworks.
 
@@ -53,11 +53,7 @@ You can create a processing activity, privacy case, or an issue using the **Crea
 
 The following image shows the Privacy cases dashboard.
 
-\[Omitted image "privacy-cases-tab.png"\] Alt text: Privacy cases tab on the [[privacy-manager-dashboard|privacy management home page]].
+\[Omitted image "privacy-cases-tab.png"\] Alt text: Privacy cases tab on the privacy management home page.
 
 **Parent Topic:**[Privacy Workspace for the privacy manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/privacy-mgmt-ws-privacy-compliance-manager.md)
 
-## Related
-
-- [[privacy-management|privacy management]]
-- [[privacy-manager-dashboard|Privacy Management home page]]

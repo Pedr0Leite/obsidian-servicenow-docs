@@ -48,8 +48,8 @@ All existing controls are termed as standard controls. You can convert a standar
 
     **Note:**
 
-    -   The **Function** field changes from Standard control to Common control. Also, the Reliant entities and Reliant [[entity-type-in-risk-ws|entity types]] related lists appear on the control form to help you add the reliant entities.
-    -   When a standard control changes to common control, an additional **[[entity-based-access|Entity based access]] restriction** option is added. This option is disabled by default. When **Entity based access restriction** is enabled, only users or user groups included in the access configuration for the entities associated with this control can access it.
+    -   The **Function** field changes from Standard control to Common control. Also, the Reliant entities and Reliant entity types related lists appear on the control form to help you add the reliant entities.
+    -   When a standard control changes to common control, an additional **Entity based access restriction** option is added. This option is disabled by default. When **Entity based access restriction** is enabled, only users or user groups included in the access configuration for the entities associated with this control can access it.
 7.  To add reliant entities, select the Reliant entities related list.
 
     1.  Click the **Add** button.
@@ -103,7 +103,3 @@ All existing controls are termed as standard controls. You can convert a standar
 
 Associating reliant entities to a common control has an [impact on compliance scoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/compliance-score-common-control.md).
 
-## Related
-
-- [[entity-type-in-risk-ws|Entity types]]
-- [[entity-based-access|Entity Based Access]]

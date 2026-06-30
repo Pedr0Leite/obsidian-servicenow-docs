@@ -14,7 +14,7 @@ breadcrumb: [Labor unions, HR Administration, Configure, Case and Knowledge Mana
 
 # Components installed with Labor Unions
 
-Tables and roles related to the [[labor-unions|Labor Unions]] module.
+Tables and roles related to the Labor Unions module.
 
 ## Tables
 
@@ -43,7 +43,7 @@ Contains roles
 
 </th></tr></thead><tbody><tr><td>
 
-[[c_HRProfileRecords|HR profile]] reader \[sn\_hr\_core.profile\_reader\]
+HR profile reader \[sn\_hr\_core.profile\_reader\]
 
 </td><td>
 
@@ -95,12 +95,7 @@ Use Local Chapters to set up and track the chapters of your union. Local chapter
 -   **[Create union contacts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/labor-union-contacts.md)**  
 Union Contacts track the people who work for a union or local chapter organization.
 -   **[Create employee union memberships](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/labor-union-employee-membership.md)**  
-Use Employee Union Membership to input and track your union employees. Creating union memberships allows you to gain visibility into employee membership through an HR profile and target content or tasks through [[hr-criteria|HR criteria]].
+Use Employee Union Membership to input and track your union employees. Creating union memberships allows you to gain visibility into employee membership through an HR profile and target content or tasks through HR criteria.
 
 **Parent Topic:**[Labor unions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/labor-unions.md)
 
-## Related
-
-- [[labor-unions|Labor unions]]
-- [[c_HRProfileRecords|HR Profile]]
-- [[hr-criteria|HR criteria]]

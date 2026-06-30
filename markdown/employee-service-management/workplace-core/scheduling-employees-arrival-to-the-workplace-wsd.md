@@ -14,13 +14,13 @@ breadcrumb: [Manage workplace safety activities, Workplace Core, Workplace Servi
 
 # Setting and tracking arrivals at the workplace
 
-Workplace managers can set arrival intervals in [[workplace-safety-mgmt-hr|Workplace Core]] for different locations at your workplace with defined capacities to facilitate staggered entry of employees into the office. Employees can then choose from the defined arrival slots.
+Workplace managers can set arrival intervals in Workplace Core for different locations at your workplace with defined capacities to facilitate staggered entry of employees into the office. Employees can then choose from the defined arrival slots.
 
 Workplace managers can define arrival times and capacity for different locations such as the entry and exit gates, elevator, gym, and cafeteria of your workplace. Employees can then schedule their arrival at these locations for an available time slot.
 
 For example, say you define arrival times for the cafeteria at 12:00 h, 13:00 h, 14:00 h, and 15:00 h, and set a capacity of 15 for every slot. A maximum of 15 employees can schedule their arrival to the cafeteria for each of these times on any given day.
 
-By setting arrival intervals for your workplace, you can facilitate [[employee-sn-ms-teams|employee actions]] such as entry and exit to the office, elevator use, lunch pickup, gym use, and so on, without employees having to wait in long lines or causing large gatherings at any of the locations.
+By setting arrival intervals for your workplace, you can facilitate employee actions such as entry and exit to the office, elevator use, lunch pickup, gym use, and so on, without employees having to wait in long lines or causing large gatherings at any of the locations.
 
 **Important:** Starting with Workplace Core version 2.3, time zones are introduced in the application. All the arrival schedules that were created on Workplace Core version 2.2 and earlier are deactivated after the upgrade.
 
@@ -72,7 +72,3 @@ Define building time zones, change the capacity of an arrival schedule, and set 
 
 [View workplace service usage analytics with Usage Insights]()
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[employee-sn-ms-teams|Employee actions]]

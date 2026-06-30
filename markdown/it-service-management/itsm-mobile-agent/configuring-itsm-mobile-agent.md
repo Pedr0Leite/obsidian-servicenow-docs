@@ -14,7 +14,7 @@ breadcrumb: [ITSM Mobile Agent, IT Service Management]
 
 # Configuring ITSM Mobile Agent
 
-Plan and configure [[itsm-mobile-agent|ITSM Mobile Agent]].
+Plan and configure ITSM Mobile Agent.
 
 ## Configuration overview
 
@@ -24,6 +24,3 @@ As an administrator, you can configure preferences and application behavior and 
 -   Create and configure actionable notifications for Mobile Agent.
 -   Enable push notification categories.
 
-## Related
-
-- [[itsm-mobile-agent|ITSM Mobile Agent]]

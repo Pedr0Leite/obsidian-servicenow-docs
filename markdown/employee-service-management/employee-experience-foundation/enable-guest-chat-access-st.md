@@ -14,7 +14,7 @@ breadcrumb: [Request-based chat access for a guest user, Integration for Employe
 
 # Enable chat access for guest users
 
-[[enable-guest-chat-access-mt|Enable chat access for a guest user]] while configuring ServiceNow® for Microsoft Teams settings for a self-configured app.
+Enable chat access for a guest user while configuring ServiceNow® for Microsoft Teams settings for a self-configured app.
 
 ## Before you begin
 
@@ -84,6 +84,3 @@ Guests belonging to the selected guest domains can start or import chats.
 
 **Parent Topic:**[Request-based chat access for a guest user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/guest-user-chat-access-st.md)
 
-## Related
-
-- [[enable-guest-chat-access-mt|Enable chat access for a guest user]]

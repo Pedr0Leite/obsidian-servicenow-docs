@@ -24,7 +24,7 @@ For reports and metrics on legal requests and legal matters and the trend analys
 
 \[Omitted image "legal-executive-dashboard.gif"\] Alt text: Legal Executive dashboard showing widgets and reports.
 
-**Important:** The tabs specific to practice areas are available on the Legal Executive dashboard depending on whether the corresponding application is installed. For example, the **Contracts** tab is available when you have installed the [[legal-simple-contracts-landing-page|Legal Simple Contracts]] application. Also, you can add new tabs in the dashboard to view reports related to practice areas created by you.
+**Important:** The tabs specific to practice areas are available on the Legal Executive dashboard depending on whether the corresponding application is installed. For example, the **Contracts** tab is available when you have installed the Legal Simple Contracts application. Also, you can add new tabs in the dashboard to view reports related to practice areas created by you.
 
 ## Required ServiceNow AI Platform roles
 
@@ -128,7 +128,7 @@ Digital Forensics Open Backlog
 
 </td><td>
 
-Number of days that the activities have been open for digital forensics requests created this year to date. An [[activity-lxp|activity]]'s age is calculated from the time the legal matter task associated with the activity was created to the present day.
+Number of days that the activities have been open for digital forensics requests created this year to date. An activity's age is calculated from the time the legal matter task associated with the activity was created to the present day.
 
 </td><td>
 
@@ -299,7 +299,7 @@ Age of open privacy and compliance requests that have been submitted. The age is
 
 -   **Privacy Impact Assessment**
 
-    Age of open [[privacy-assessment-requests|Privacy Assessment requests]] that have been submitted. The age is calculated from the time the legal requests were created to the present day.
+    Age of open Privacy Assessment requests that have been submitted. The age is calculated from the time the legal requests were created to the present day.
 
 -   **Request Completed within SLA**
 
@@ -396,12 +396,12 @@ Age of open privacy and compliance requests that have been submitted. The age is
 
 ## Breakdowns
 
--   **Common to [[legal-management-overview|Legal Service Delivery]] applications**
+-   **Common to Legal Service Delivery applications**
     -   Group
     -   Assigned To \(for all users in the system\)
     -   Assigned To \(for users in the Legal Privacy and Compliance groups\)
     -   Category
--   **[[legal-request-management-landing-page|Legal Request Management]]**
+-   **Legal Request Management**
     -   Age
     -   Assigned To
     -   Category
@@ -409,7 +409,7 @@ Age of open privacy and compliance requests that have been submitted. The age is
     -   Priority
     -   State
     -   Subcategory
--   **[[legal-matter-management-landing-page|Legal Matter Management]]**
+-   **Legal Matter Management**
     -   Matter Owner
     -   Priority
     -   State \(for legal matters\)
@@ -419,7 +419,7 @@ Age of open privacy and compliance requests that have been submitted. The age is
     -   Category
     -   Deal Size
     -   Subcategory
--   **[[legal-digital-forensics-landing-page|Legal Digital Forensics]]**
+-   **Legal Digital Forensics**
     -   Assigned To
     -   Requested Activities
     -   Subcategory
@@ -964,12 +964,3 @@ Number of legal matters created from legal fulfillers in various regions so far 
 </td></tr></tbody>
 </table>**Parent Topic:**[Analytics and Reporting Solutions for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/legalsd-content-pack.md)
 
-## Related
-
-- [[legal-simple-contracts-landing-page|Legal Simple Contracts]]
-- [[activity-lxp|Activity]]
-- [[privacy-assessment-requests|Privacy assessment requests]]
-- [[legal-management-overview|Legal Service Delivery]]
-- [[legal-request-management-landing-page|Legal Request Management]]
-- [[legal-matter-management-landing-page|Legal Matter Management]]
-- [[legal-digital-forensics-landing-page|Legal Digital Forensics]]

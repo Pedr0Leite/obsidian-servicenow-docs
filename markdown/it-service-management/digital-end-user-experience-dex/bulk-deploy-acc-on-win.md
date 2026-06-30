@@ -14,7 +14,7 @@ breadcrumb: [Deploying DEX to employees, Configure, Digital End-User Experience,
 
 # Install Agent Client Collector on Windows using Microsoft Intune
 
-Use Microsoft Intune to install Agent Client Collector \(ACC\) on multiple Windows [[dex-workspace-devices-tab|devices]] at once, promoting consistent deployment across your organization.
+Use Microsoft Intune to install Agent Client Collector \(ACC\) on multiple Windows devices at once, promoting consistent deployment across your organization.
 
 ## Before you begin
 
@@ -97,7 +97,7 @@ Define the groups, users, and devices to which you want to deploy the ACC, then 
 </td></tr></tbody>
 </table>7.  Select **Next**.
 
-8.  Review the [[settings-mobile|settings]], then select **Create**.
+8.  Review the settings, then select **Create**.
 
     You can view the ACC application in the application list. Once the users check-in and are synchronized with Microsoft Intune, the silent installation process begins.
 
@@ -107,7 +107,3 @@ Define the groups, users, and devices to which you want to deploy the ACC, then 
     -   Review the log file on the endpoint devices: `C:\ProgramData\ServiceNow\agent-client-collector\log\acc.log`.
     -   On an endpoint device, search for **Services** and check the status for Agent Client Collector.
 
-## Related
-
-- [[dex-workspace-devices-tab|Devices]]
-- [[settings-mobile|Settings]]

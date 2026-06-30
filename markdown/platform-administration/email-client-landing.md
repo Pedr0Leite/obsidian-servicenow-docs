@@ -35,11 +35,8 @@ Send email directly from any record, such as an incident, change request, or pro
 </td></tr></tbody>
 </table>## Troubleshoot and get help
 
--   [[troubleshooting-notification-emails|Troubleshooting Notification emails]]
+-   [Troubleshooting Notification emails](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/troubleshooting-notification-emails.md)
 -   Ask or answer questions in the [Platform](https://community.servicenow.com/community/service-automation-platform) community
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[troubleshooting-notification-emails|Email FAQs and troubleshooting notification emails]]

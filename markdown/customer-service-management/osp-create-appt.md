@@ -20,7 +20,7 @@ Role required: sn\_csm\_ocs.ext\_manager or sn\_csm\_ocs.ext\_agent
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[outsourced-service-provider|Outsourced Customer Service]]** &gt; **My Cases**.
+1.  Navigate to **All** &gt; **Outsourced Customer Service** &gt; **My Cases**.
 
 2.  Open a case.
 
@@ -45,6 +45,4 @@ Role required: sn\_csm\_ocs.ext\_manager or sn\_csm\_ocs.ext\_agent
 
     **Note:** You can also cancel the appointment using the **Cancel appointment** related link.
 
-## Related
 
-- [[outsourced-service-provider|Outsourced Customer Service]]

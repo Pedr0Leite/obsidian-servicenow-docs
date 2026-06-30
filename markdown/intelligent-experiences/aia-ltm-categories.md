@@ -12,7 +12,7 @@ breadcrumb: [Set up long-term memory, Configure, Now Assist AI agents, Enable AI
 
 # Long-term memory categories
 
-Long-term memory \(LTM\) categories define the types of semantic information that a [[platform-now-assist-landing|Now Assist]] AI agent can learn and retain about users over time. You can add new categories and map them to specific agents to personalize agent responses based on accumulated user context.
+Long-term memory \(LTM\) categories define the types of semantic information that a Now Assist AI agent can learn and retain about users over time. You can add new categories and map them to specific agents to personalize agent responses based on accumulated user context.
 
 Semantic memory in the AI agent Memories table \(`sn_aia_memory_list`\) is organized by LTM categories. Each category represents a distinct type of user-specific information, such as software preferences, workplace context, or communication style. By mapping categories to an agent, you control what the agent learns and retains across interactions.
 
@@ -28,7 +28,7 @@ The platform includes the following default LTM categories:
 
 -   **Software and tools**
 
-    Captures information about applications, tools, and software [[exploring-ai-governance|configurations]] relevant to the user, such as operating system version or approved applications.
+    Captures information about applications, tools, and software configurations relevant to the user, such as operating system version or approved applications.
 
 -   **Work context**
 
@@ -39,7 +39,7 @@ The platform includes the following default LTM categories:
     Captures communication preferences and interaction style, such as preferred language, response format, or notification settings.
 
 
-You can extend this list by creating custom categories suited to your organization's use [[cases|cases]].
+You can extend this list by creating custom categories suited to your organization's use cases.
 
 ## How categories affect memory extraction
 
@@ -70,8 +70,3 @@ Semantic memories are retrieved at runtime using retrieval-augmented generation 
 -   Mapping too many categories to a single agent can increase extraction processing time. Map only the categories relevant to the agent's use case.
 -   To verify that semantic memories are being extracted, open the AI Agent Memories table and filter by **Type** = **Semantic** and the relevant agent or user.
 
-## Related
-
-- [[platform-now-assist-landing|Now Assist]]
-- [[exploring-ai-governance|Configurations]]
-- [[cases|Cases]]

@@ -26,7 +26,7 @@ You can only cancel a repair order line that is not in the Completed stage.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Inventory**.
+1.  Navigate to **Workspaces** &gt; **Hardware Asset Workspace** &gt; **Inventory**.
 
 2.  Select the **Repair orders** tab.
 
@@ -62,6 +62,3 @@ You can only cancel a repair order line that is not in the Completed stage.
 
 [Cancel a repair order in the Hardware Asset Workspace]()
 
-## Related
-
-- [[using-ham-workspace|Hardware Asset Workspace]]

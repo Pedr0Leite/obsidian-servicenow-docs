@@ -26,7 +26,7 @@ All Service Level Agreement \(SLAs\) attached to a task, such as an incident, pr
 
 The **slm-timer-config-api** application provides the ability to set a preferred SLA for a given task using the configuration that is either dynamic, such as **First SLA to breach** or declarative from a hierarchical mapping of first to matching SLA definitions.
 
-The [[sla-timer|SLA timer]] configuration provides the following foundation data which also serves as an example to customize.
+The SLA timer configuration provides the following foundation data which also serves as an example to customize.
 
 -   **Do not show SLA timer**
 
@@ -41,7 +41,7 @@ The **SLA Timer Configuration** application comes only with demo data, it is alw
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[service-level-mgmt-landing-page|Service Level Management]]** &gt; **Administration** &gt; **SLA Timer Configuration**.
+1.  Navigate to **All** &gt; **Service Level Management** &gt; **Administration** &gt; **SLA Timer Configuration**.
 
 2.  Click **New**.
 
@@ -171,7 +171,7 @@ Displays the task SLA with the earliest breach time for which Resolution is conf
     |----|-----------|
     |SLA timer config|The desired timer configuration. If the timer was created from a related list, this field will be auto-populated with the parent record.|
     |Order|The hierarchical order of the task SLA. This value is pre-populated. However, you can edit it based on your requirements.|
-    |Table|The table that the task belongs to,which is used as a [[reference-for-itsm-mobile-agent|reference]] qualifier on the SLA definition. The available values are Incident, Problem, or Change.|
+    |Table|The table that the task belongs to,which is used as a reference qualifier on the SLA definition. The available values are Incident, Problem, or Change.|
     |SLA definition|Select the SLA definition that is available for the table.|
 
     **Note:** If an identical mapping for the **Order** or **SLA definition** in the selected table, the configuration is prevented from using business rules. This check ensures that there is always only one preferred SLA definition at each level in the hierarchy.
@@ -189,8 +189,3 @@ However, as a best practice do not provide a configuration sys\_id to the applic
 
 **Parent Topic:**[Configuring Service Level Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/configuring-service-level-management.md)
 
-## Related
-
-- [[sla-timer|SLA timer]]
-- [[service-level-mgmt-landing-page|Service Level Management]]
-- [[reference-for-itsm-mobile-agent|Reference]]

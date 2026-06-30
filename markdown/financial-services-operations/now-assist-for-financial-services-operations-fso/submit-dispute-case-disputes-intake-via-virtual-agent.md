@@ -14,7 +14,7 @@ breadcrumb: [Use generative AI, Now Assist for FSO, Financial Services Operation
 
 # Submit a dispute case with Disputes intake via Virtual Agent
 
-Create a new dispute case using the Disputes intake via Virtual Agent skill in the [[now-assist-for-financial-services-operations|Now Assist for Financial Services Operations \(FSO\)]] application. Customers can interact with a Virtual Agent chat, which collects and infers details from customer responses.
+Create a new dispute case using the Disputes intake via Virtual Agent skill in the Now Assist for Financial Services Operations \(FSO\) application. Customers can interact with a Virtual Agent chat, which collects and infers details from customer responses.
 
 ## Before you begin
 
@@ -64,6 +64,3 @@ Retrieve a chat interaction between a customer and Disputes intake via Virtual A
 
 **Parent Topic:**[Using generative AI in Now Assist for Financial Services Operations \(FSO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/using-now-assist-for-financial-services-operations-fso.md)
 
-## Related
-
-- [[now-assist-for-financial-services-operations|Now Assist for Financial Services Operations \(FSO\)]]

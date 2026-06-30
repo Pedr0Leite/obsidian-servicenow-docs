@@ -14,7 +14,7 @@ breadcrumb: [Replicate data, Instance Data Replication, Manage instance data sou
 
 # Reconfigure a replication set in Instance Data Replication
 
-If you must change or update your original replication set, reconfigure [[instance-data-replication|Instance Data Replication]] \(IDR\) replication sets on the producer instance.
+If you must change or update your original replication set, reconfigure Instance Data Replication \(IDR\) replication sets on the producer instance.
 
 ## Before you begin
 
@@ -62,6 +62,3 @@ Note the following important information:
 
 **Parent Topic:**[Replicating data with Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/replicating-data.md)
 
-## Related
-
-- [[instance-data-replication|Instance Data Replication]]

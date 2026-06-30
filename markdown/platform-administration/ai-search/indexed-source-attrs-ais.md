@@ -14,7 +14,7 @@ breadcrumb: [Indexed source attributes, Indexed sources, Configuring AI Search, 
 
 # List of AI Search indexed source attributes
 
-You can adjust indexing behavior for an [[ia-ai-search|AI Search]] indexed source by configuring indexed source attributes and values.
+You can adjust indexing behavior for an AI Search indexed source by configuring indexed source attributes and values.
 
 For instructions on defining AI Search indexed source attributes, see [Create an indexed source attribute in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-indexed-source-attr-ais.md).
 
@@ -82,7 +82,7 @@ Control indexing behavior for tags from indexed records. Supported values:
 
  Default value: **none**
 
-**Note:** Search [[hs-results|results]] display indexed tags based on the visibility of the result record instead of the visibility of the tag.
+**Note:** Search results display indexed tags based on the visibility of the result record instead of the visibility of the tag.
 
  If you change the value of this attribute for an indexed source, the change doesn't take effect until you reindex content from the indexed source. For reindexing steps, see [Perform a full table index or reindex for a single AI Search indexed source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/index-single-source-ais.md).
 
@@ -109,7 +109,7 @@ index\_translated\_reference\_fields
 
 </td><td>
 
-Control indexing behavior for translated [[reference-email-admin|reference]] fields from indexed records. Supported values:
+Control indexing behavior for translated reference fields from indexed records. Supported values:
 
 -   **true**: Enable indexing of translated reference fields for this table.
 -   **false**: Disable indexing of translated reference fields for this table.
@@ -134,13 +134,7 @@ Control precedence of external user read access permissions and external group d
 **Note:** This attribute only applies to indexed sources for external content schema tables. If you apply this attribute to an indexed source for an internal table, it has no effect.
 
 </td></tr></tbody>
-</table>**Note:** Indexed source attributes are records on the [[ai-search-configuration|AI Search Configuration]] Attribute \[ais\_configuration\_attribute\] table that have Table as their **Applies To** field value. Records on this table that have Column as their **Applies To** field value are [Field settings for AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/field-settings-ais.md).
+</table>**Note:** Indexed source attributes are records on the AI Search Configuration Attribute \[ais\_configuration\_attribute\] table that have Table as their **Applies To** field value. Records on this table that have Column as their **Applies To** field value are [Field settings for AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/field-settings-ais.md).
 
 **Parent Topic:**[Indexed source attributes for AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/indexed-source-attributes-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]
-- [[reference-email-admin|Reference]]
-- [[ai-search-configuration|AI Search configuration]]

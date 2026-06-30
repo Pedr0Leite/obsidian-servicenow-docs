@@ -12,7 +12,7 @@ breadcrumb: [Configure, Model Risk Management, Governance, Risk, and Compliance]
 
 # Install Model Risk Management
 
-Install the [[model-risk-management|Model Risk Management]] application \(sn\_model\_risk\_mgmt\). The application installs related ServiceNow® Store applications and plugins if they aren’t already installed.
+Install the Model Risk Management application \(sn\_model\_risk\_mgmt\). The application installs related ServiceNow® Store applications and plugins if they aren’t already installed.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ The following items are installed with Model Risk Management:
 -   Tables
 -   Properties
 
-For more information, see [[mrm-reference|Model Risk Management reference]].
+For more information, see [Model Risk Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/mrm-reference.md).
 
 ## Procedure
 
@@ -56,7 +56,4 @@ For more information, see [[mrm-reference|Model Risk Management reference]].
 
 6.  Select **Install**.
 
-## Related
 
-- [[mrm-reference|Model Risk Management reference]]
-- [[model-risk-management|Model Risk Management]]

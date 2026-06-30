@@ -30,13 +30,13 @@ The following information is provided for legacy context.
 
 The primary purpose for a word corpus is to infer textual data for training your NLU model. If using a word corpus in a solution, you must specify it for training in the solution definition phase of a solution. A trained word corpus can be reused across solutions and capabilities.
 
-You can use a word corpus to help compare similar record text in a table or across multiple tables. A word corpus can also be helpful in other scenarios, such as clustering, where you group similar records together for data analysis, reuse, or review. The items you add to your corpus should be specific to your company and your industry so you can reuse it in other similarity or clustering solutions and apply it to various use [[cases|cases]].
+You can use a word corpus to help compare similar record text in a table or across multiple tables. A word corpus can also be helpful in other scenarios, such as clustering, where you group similar records together for data analysis, reuse, or review. The items you add to your corpus should be specific to your company and your industry so you can reuse it in other similarity or clustering solutions and apply it to various use cases.
 
 In this example procedure, you're working on incident records and you want to locate relevant knowledge base \(KB\) articles that could provide resolutions to those incident cases. Your goal here is to create a word corpus that you can apply to a new similarity solution that compares active incidents to published KB articles.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[predictive-intelligence-landing|Predictive Intelligence]]** &gt; **Word Corpus**.
+1.  Navigate to **All** &gt; **Predictive Intelligence** &gt; **Word Corpus**.
 
 2.  In the Word Corpus form, click **New**.
 
@@ -181,7 +181,3 @@ Create a solution in the appropriate framework. For more information, see the li
 
 [Create and train a clustering solution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/create-clustering-solution.md)
 
-## Related
-
-- [[cases|Cases]]
-- [[predictive-intelligence-landing|Predictive Intelligence]]

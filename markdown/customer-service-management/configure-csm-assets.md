@@ -18,16 +18,12 @@ Role required: admin
 
 Assets can have serial numbers or asset tag numbers and can be allocated to individual accounts or to a contact within an account. Assets can also have associated support contracts.
 
-**Note:** [[c_CustomerServiceManagement|Customer Service Management]] leverages the Asset Management application to create and maintain assets. Ensure that the Asset Management plugin \(com.snc.asset\_management\) is activated.
+**Note:** Customer Service Management leverages the Asset Management application to create and maintain assets. Ensure that the Asset Management plugin \(com.snc.asset\_management\) is activated.
 
 You can either import your existing assets using guided setup or create new assets using the Customer Service Management.
 
 **Related topics**  
 
 
-[[configure-install-base|Configure install base]]
+[Configure install base](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-install-base.md)
 
-## Related
-
-- [[configure-install-base|Configure install base]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

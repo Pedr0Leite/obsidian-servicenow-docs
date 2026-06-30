@@ -16,15 +16,15 @@ breadcrumb: [Analytics and Reporting, Workplace Reservation Management, Workplac
 
 Use the Reservation Management dashboard to monitor the reservations and meeting frequency in your organization. On any day, you can view details such as number of reservations, peak meeting times, and number of meetings for different locations.
 
-**Note:** The [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] dashboard is migrated to [[workplace-central-feat|Workplace Central]]. You can start using the migrated dashboards from Workplace Central. The out-of-the-box dashboards are also migrated to Workplace Central.
+**Note:** The Workplace Reservation Management dashboard is migrated to Workplace Central. You can start using the migrated dashboards from Workplace Central. The out-of-the-box dashboards are also migrated to Workplace Central.
 
-Old dashboards are not supported for new [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] customers. For existing customers, old dashboards are currently available but will be deprecated soon.
+Old dashboards are not supported for new Workplace Service Delivery customers. For existing customers, old dashboards are currently available but will be deprecated soon.
 
 For more information about the migrated dashboard, see [Reservation Management dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/reservation-management-dashboard.md).
 
 \[Omitted image "reservation-management-dashboard.png"\] Alt text: Reservation Management dashboard
 
-To access the Reservation Management Dashboard, navigate to **All** &gt; **Workplace Central** &gt; **[[workplace-dashboards-wsd-core|Workplace Dashboards]]**.
+To access the Reservation Management Dashboard, navigate to **All** &gt; **Workplace Central** &gt; **Workplace Dashboards**.
 
 ## End user and roles
 
@@ -69,9 +69,3 @@ sn\_wsd\_rsv.manager
 
 **Parent Topic:**[Manage Workplace Dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/workplace-dashboards-wsd-central.md)
 
-## Related
-
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-central-feat|Workplace Central]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[workplace-dashboards-wsd-core|Workplace dashboards]]

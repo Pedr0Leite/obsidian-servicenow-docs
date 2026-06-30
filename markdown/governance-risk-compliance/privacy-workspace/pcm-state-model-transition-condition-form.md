@@ -14,7 +14,7 @@ breadcrumb: [Define model state transitions, Configure, Privacy Case Management,
 
 # GRC model state transition condition form
 
-Use the [[grc-model-state-transition-condition-form|GRC Model State Transition Condition form]] to define the transition conditions to control how a compliance case traverses through the different workflow states by using the Privacy Case Management application.
+Use the GRC Model State Transition Condition form to define the transition conditions to control how a compliance case traverses through the different workflow states by using the Privacy Case Management application.
 
 See the following table for a description of the field values.
 
@@ -97,6 +97,3 @@ Script to be defined for this state transition. This field appears only when **T
 </td></tr></tbody>
 </table>**Parent Topic:**[Define the model state transitions for a privacy case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/create-a-model-state-transition-for-privacy-case.md)
 
-## Related
-
-- [[grc-model-state-transition-condition-form|grc model state transition condition form]]

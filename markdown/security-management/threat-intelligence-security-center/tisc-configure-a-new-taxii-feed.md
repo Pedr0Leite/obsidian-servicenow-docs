@@ -22,7 +22,7 @@ Role required: sn\_sec\_tisc.admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center**.
 
 2.  Select the Integrations icon.
 
@@ -158,7 +158,7 @@ Integration script
 
 </td><td>
 
-Invokes a call to the REST Endpoint URL API using authentication parameters. The script fetches [[c_Observables|observables]] or [[indicator|indicators]] STIX data available for the specific feed.**Note:** The fetched data is raw data only with no records created. The data is attached to the integration process and can be viewed under the **Integration Run** section.
+Invokes a call to the REST Endpoint URL API using authentication parameters. The script fetches observables or indicators STIX data available for the specific feed.**Note:** The fetched data is raw data only with no records created. The data is attached to the integration process and can be viewed under the **Integration Run** section.
 
 The base system includes custom script includes provisioned within the application for integration scripts:
 
@@ -223,8 +223,3 @@ Start date from when the data needs to be fetched. Set this field with the time 
 
 **Parent Topic:**[About STIX TAXII](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/threat-intelligence-security-center-feeds.md)
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[c_Observables|Observables]]
-- [[indicator|Indicators]]

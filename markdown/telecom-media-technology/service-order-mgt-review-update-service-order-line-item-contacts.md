@@ -26,7 +26,7 @@ You can also add, change, or delete customer contacts as needed.
 
 1.  To view the customer contacts that are currently associated with a service order line item, locate the service order line item that you want to view.
 
-    To learn more, see [[service-order-mgt-review-service-order-line-related-detail|Review the line items and related details for a service order]].
+    To learn more, see [Review the line items and related details for a service order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/service-order-mgt-review-service-order-line-related-detail.md).
 
 2.  Select **Order Line Item Contacts**.
 
@@ -104,7 +104,3 @@ Select the options icon \[Omitted image "more-options.png"\] Alt text: next to t
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[service-order-mgt-review-service-order-line-related-detail|Review the line items and related details for a service order]]

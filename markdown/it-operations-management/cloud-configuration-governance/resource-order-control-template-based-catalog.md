@@ -28,7 +28,7 @@ Use resource controls to perform the following actions:
 -   Set limits for stack quota during provisioning for the cloud user.
 -   Create a policy to be triggered when a quota limit is exceeded.
 -   Add a policy notification and request for approval when a quota limit is exceeded.
--   Show user and user group quotas for template-based catalogs in the [[cloudmgt-cloud-user-portal|Cloud User portal]].
+-   Show user and user group quotas for template-based catalogs in the Cloud User portal.
 
 ## How resource order controls work
 
@@ -57,6 +57,3 @@ Create quota definitions and policies mapped to cloud-template based catalog ite
 
 **Parent Topic:**[Quotas and resource order controls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/quotas.md)
 
-## Related
-
-- [[cloudmgt-cloud-user-portal|Cloud User Portal]]

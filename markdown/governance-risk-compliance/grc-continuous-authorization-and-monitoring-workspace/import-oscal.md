@@ -94,10 +94,7 @@ From the New Import playbook experience page, you can import OSCAL files in the 
 -   **[Import OSCAL SSP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/import-oscal-ssp-cam-ws.md)**  
 From the New Import playbook experience page, you can import OSCAL files in the System Security Plan \(SSP\) model into CAM workspace. This action enables you to seamlessly upload authorization package data in OSCAL format.
 -   **[Import OSCAL Assessment Results \(AR\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/import-oscal-assessment-results.md)**  
-Import an OSCAL Assessment Results \(AR\) package from another instance or external tool to [[t_CreateEngagement|create an engagement]].
+Import an OSCAL Assessment Results \(AR\) package from another instance or external tool to create an engagement.
 
 **Parent Topic:**[CAM OSCAL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/oscal-cam-ws.md)
 
-## Related
-
-- [[t_CreateEngagement|Create an engagement]]

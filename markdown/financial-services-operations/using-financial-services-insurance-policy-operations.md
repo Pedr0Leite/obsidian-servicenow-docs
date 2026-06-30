@@ -29,7 +29,7 @@ Requesters, contributors, and processors use personalized Workspace to work on a
 -   Focus on high-priority items
 -   Easily navigate across tasks
 
-For more information, see [[fso-workspace|Workspaces]].
+For more information, see [Workspaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-workspace.md).
 
 <table id="table_qy1_452_wrb"><thead><tr><th>
 
@@ -45,7 +45,7 @@ Policy admin
 
 </td><td>
 
-Configures the insurance policy workspace as per business requirements. For more information, see [[configure-csm-workspace-fso-apps|Configure CSM Configurable Workspace]].
+Configures the insurance policy workspace as per business requirements. For more information, see [Configure CSM Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-csm-workspace-fso-apps.md).
 
 </td></tr><tr><td>
 
@@ -92,20 +92,12 @@ Underwriter
 Views the status of and works on underwriting tasks.
 
 </td></tr></tbody>
-</table>-   **[[request-review-approve-change-coverage-request-workflows|Request, review, and approve change coverage request workflows]]**  
+</table>-   **[Request, review, and approve change coverage request workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/request-review-approve-change-coverage-request-workflows.md)**  
 Learn how agents, using the change coverage limits workflows, resolve service requests for requesting, reviewing, and approving policy change requests.
--   **[[submit-ins-policy-service-request|Submit a policy service request]]**  
+-   **[Submit a policy service request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/submit-ins-policy-service-request.md)**  
 Help your customers by submitting a policy service request for them.
--   **[[work-ins-policy-case|Work on a policy service case]]**  
+-   **[Work on a policy service case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/work-ins-policy-case.md)**  
 Review a policy case for a policy service request and update its details to trigger its workflow.
 
-**Parent Topic:**[[fso-ins-personal-policy-ops-landing-page|Personal Lines Servicing]]
+**Parent Topic:**[Personal Lines Servicing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-ins-personal-policy-ops-landing-page.md)
 
-## Related
-
-- [[fso-workspace|Workspaces in Financial Services Operations]]
-- [[configure-csm-workspace-fso-apps|Configure CSM Configurable Workspace]]
-- [[request-review-approve-change-coverage-request-workflows|Request, review, and approve change coverage request workflows]]
-- [[submit-ins-policy-service-request|Submit a policy service request]]
-- [[work-ins-policy-case|Work on a policy service case]]
-- [[fso-ins-personal-policy-ops-landing-page|Personal Lines Servicing]]

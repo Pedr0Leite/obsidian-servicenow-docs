@@ -14,7 +14,7 @@ breadcrumb: [Components installed with Procurement, Activate Procurement, Procur
 
 # Script includes installed with Procurement
 
-[[c_Procurement|Procurement]] plugin adds the following script include.
+Procurement plugin adds the following script include.
 
 |Script include|Description|
 |--------------|-----------|
@@ -22,6 +22,3 @@ breadcrumb: [Components installed with Procurement, Activate Procurement, Procur
 
 **Parent Topic:**[Components installed with Procurement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/procurement/r_InstalledWithProcurement.md)
 
-## Related
-
-- [[c_Procurement|Procurement]]

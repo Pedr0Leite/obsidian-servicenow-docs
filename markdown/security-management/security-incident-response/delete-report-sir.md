@@ -14,7 +14,7 @@ breadcrumb: [Reports in Security Incident Response, Working with Security Incide
 
 # Delete a report
 
-You can delete a report in [[sir-landing-page|Security Incident Response]] which is in published or draft state.
+You can delete a report in Security Incident Response which is in published or draft state.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_si.analyst
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sir-workspace-landing-page|Security Incident Response Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Security Incident Response Workspace**.
 
 2.  Open a security incident.
 
@@ -41,7 +41,3 @@ Role required: sn\_si.analyst
 
 **Parent Topic:**[Reports in Security Incident Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/report-templates-sir.md)
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]

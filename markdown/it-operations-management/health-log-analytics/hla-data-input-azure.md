@@ -15,7 +15,7 @@ breadcrumb: [Manual data input configuration, Set up data inputs manually, Set u
 
 # Configure a Microsoft Azure Log Analytics data input in Health Log Analytics manually
 
-Set up a data input for streaming log data from Microsoft Azure Log Analytics to your ServiceNow instance. The data input points the [[hla-landing-page|Health Log Analytics]] AI engine to a data source in your Microsoft Azure Log Analytics account.
+Set up a data input for streaming log data from Microsoft Azure Log Analytics to your ServiceNow instance. The data input points the Health Log Analytics AI engine to a data source in your Microsoft Azure Log Analytics account.
 
 ## Before you begin
 
@@ -104,6 +104,3 @@ The data input configuration process is complete. Health Log Analytics adds the 
 
 [Configure advanced settings for Microsoft Azure Log Analytics data inputs in Health Log Analytics manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-input-adv-azure-la.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

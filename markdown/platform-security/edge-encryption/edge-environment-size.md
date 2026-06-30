@@ -14,7 +14,7 @@ breadcrumb: [Planning for Edge Encryption, Edge Encryption, Encryption]
 
 # Sizing your Edge Encryption environment
 
-Choosing the number of proxy servers for your environment is an important task. Consider the number of [[users|users]], redundancy needs, and acceptable latency.
+Choosing the number of proxy servers for your environment is an important task. Consider the number of users, redundancy needs, and acceptable latency.
 
 ## Redundancy
 
@@ -22,7 +22,7 @@ Maintain redundant proxy servers in case of hardware failure. Proxy servers shou
 
 ## Size
 
-Size refers to the number of proxy servers required to avoid additional latency that the [[encryption-landing|encryption]] of data produces. Depending on use, you may want to reduce the amount of latency by adding additional proxy servers. For example, if regular mass encryptions are run, add additional proxy servers to handle the load, or run the mass encryptions when the user load is light. In addition, the hardware that the proxy server runs on influences performance and latency. Proxy servers running on hardware with faster CPUs, more CPUs, and more RAM have higher throughput than slower, limited systems.
+Size refers to the number of proxy servers required to avoid additional latency that the encryption of data produces. Depending on use, you may want to reduce the amount of latency by adding additional proxy servers. For example, if regular mass encryptions are run, add additional proxy servers to handle the load, or run the mass encryptions when the user load is light. In addition, the hardware that the proxy server runs on influences performance and latency. Proxy servers running on hardware with faster CPUs, more CPUs, and more RAM have higher throughput than slower, limited systems.
 
 The following guidelines assume that your proxy server is running on at least the minimum hardware requirements. To determine the number of proxy servers:
 
@@ -47,7 +47,3 @@ The proxy server must have a minimum of 4 GB of RAM available \(6 GB recommended
 
 **Parent Topic:**[Planning for Edge Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/c_EdgeEncryptionPlanning.md)
 
-## Related
-
-- [[users|Users]]
-- [[encryption-landing|Encryption]]

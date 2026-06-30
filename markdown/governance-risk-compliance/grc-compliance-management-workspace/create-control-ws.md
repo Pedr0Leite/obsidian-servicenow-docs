@@ -345,7 +345,7 @@ Public information about the control.
 
     The control is created and all related lists are visible.
 
-    If you had created a common control, then there are Reliant entities and Reliant [[entity-type-in-risk-ws|entity types]] related lists along with other related lists of the control. Use the Reliant entities related list to associate entities to the common control. Or, you can use the Reliant entity types related list to add a group of entities of an entity type instead of associating them one by one.
+    If you had created a common control, then there are Reliant entities and Reliant entity types related lists along with other related lists of the control. Use the Reliant entities related list to associate entities to the common control. Or, you can use the Reliant entity types related list to add a group of entities of an entity type instead of associating them one by one.
 
     \[Omitted image "RelEntitiesRelList.png"\] Alt text: Related lists to associate entities as reliant entities.
 
@@ -371,6 +371,4 @@ Public information about the control.
 
         **Note:** The UI action buttons such as New, Add, Remove aren’t available if the control is in Retired state.
 
-## Related
 
-- [[entity-type-in-risk-ws|Entity types]]

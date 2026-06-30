@@ -14,7 +14,7 @@ breadcrumb: [Related dashboards page, Analyzing assistants, Now Assist in Virtua
 
 # Edit a dashboard in the dashboard library
 
-Edit an existing dashboard in the [[related-dashboards-page|Related Dashboards page]] to update details such as the display name, description, or the associated dashboard itself.
+Edit an existing dashboard in the Related Dashboards page to update details such as the display name, description, or the associated dashboard itself.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ You can edit an existing dashboard in the library to update its display name, de
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[assistant-designer|Assistant Designer]]** &gt; **Analytics** and select Related Dashboards in the left navigation.
+1.  Navigate to **All** &gt; **Assistant Designer** &gt; **Analytics** and select Related Dashboards in the left navigation.
 
 2.  Locate the dashboard you want to edit and select **Edit** in the Actions menu.
 
@@ -48,7 +48,4 @@ You can edit an existing dashboard in the library to update its display name, de
 
     Changes are immediately visible to users in the dashboard library.
 
-## Related
 
-- [[related-dashboards-page|Related dashboards page]]
-- [[assistant-designer|Assistant Designer]]

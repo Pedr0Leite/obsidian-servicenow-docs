@@ -24,9 +24,9 @@ Run a tag audit to audit discovered CIs for the following tag policy types:
 -   Tag Presence: Checks CIs for the presence of the tag key values that you specify
 -   Tag Key &amp; Value: Checks CIs for the presence of key-value pairs that you specify.
 
-Specify string value or tag keys that you are looking for in a comma-separated format in the Tag Presence policy type. You can also specify a number in the Tag Count check policy type to identify CIs with one or more tags. After you run the tag audits, you can view audit results and configure [[ccg-remediation|remediation]] measures that are based on the compliance index quality. Optionally, you can also assign remediation tasks for non-compliant CIs to user groups and users for follow-on tasks.
+Specify string value or tag keys that you are looking for in a comma-separated format in the Tag Presence policy type. You can also specify a number in the Tag Count check policy type to identify CIs with one or more tags. After you run the tag audits, you can view audit results and configure remediation measures that are based on the compliance index quality. Optionally, you can also assign remediation tasks for non-compliant CIs to user groups and users for follow-on tasks.
 
-Auto-remediation works with the Assume Role on AWS to automate the tagging of cloud resources, by following the steps in [[configure-iam-role-aws-account|Configure temporary credential access for trusted AWS accounts]].
+Auto-remediation works with the Assume Role on AWS to automate the tagging of cloud resources, by following the steps in [Configure temporary credential access for trusted AWS accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/configure-iam-role-aws-account.md).
 
 The Assume Role must have the following permissions \(policy\) for remediation to work:
 
@@ -78,16 +78,9 @@ The Assume Role must have the following permissions \(policy\) for remediation t
 
 **Note:**
 
-While performing tag remediation, if it is found that [[r-discovery|Discovery]] is credential-less, MID Server with Tag Management capability is picked. Hence, add Tag Management capability to the correct MID Server with service account IAM role attached. This action is essential because there might be several accounts that IAM role MID Servers must choose from.
+While performing tag remediation, if it is found that Discovery is credential-less, MID Server with Tag Management capability is picked. Hence, add Tag Management capability to the correct MID Server with service account IAM role attached. This action is essential because there might be several accounts that IAM role MID Servers must choose from.
 
-**Note:** You must have the [[itom-visibility-landing-page|ITOM Visibility]] entitlements to [[ccg-run-remediation|run remediation]] on CIs in the CMDB. For more information, [contact Customer Service and Support.](https://www.servicenow.com/support/contact-support.html)
+**Note:** You must have the ITOM Visibility entitlements to run remediation on CIs in the CMDB. For more information, [contact Customer Service and Support.](https://www.servicenow.com/support/contact-support.html)
 
 **Parent Topic:**[Tag Governance reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/tag-governance/reference-tag-governance.md)
 
-## Related
-
-- [[configure-iam-role-aws-account|Configure temporary credential access for trusted AWS accounts]]
-- [[ccg-remediation|Remediation]]
-- [[r-discovery|Discovery]]
-- [[itom-visibility-landing-page|ITOM Visibility]]
-- [[ccg-run-remediation|Run remediation]]

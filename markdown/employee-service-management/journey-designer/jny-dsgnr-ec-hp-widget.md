@@ -16,7 +16,7 @@ breadcrumb: [Configure Journey designer features, Configure, Journey designer, E
 
 The Service Portal Designer contains a library of widgets to add to a service portal. The **EC homepage journey tabs widget** displays key details related to users' journeys.
 
-Administrators can add the **EC homepage journey tabs** to their organizations [[employee-center-landing-page|Employee Center]] service portal. Employee Center users assigned to a journey see information relevant related to their journey.
+Administrators can add the **EC homepage journey tabs** to their organizations Employee Center service portal. Employee Center users assigned to a journey see information relevant related to their journey.
 
 -   **Involved journeys**
 
@@ -32,11 +32,7 @@ Administrators can add the **EC homepage journey tabs** to their organizations [
 
 
 -   **[Add Journey designer widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-ec-jrny-tab-widget.md)**  
-The [[jny-dsgnr-landing-page-1|Journey designer]] widget is not on the Employee Center home page by default. An administrator must add it.
+The Journey designer widget is not on the Employee Center home page by default. An administrator must add it.
 
 **Parent Topic:**[Configure Journey designer features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-configuration.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[jny-dsgnr-landing-page-1|Journey designer]]

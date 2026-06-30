@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Install the [[sc-configuration|configuration]] file.
+1.  Install the configuration file.
 
     ```
      C:\WINDOWS\adam>adamsync /install localhost:50000 MS-AdamSyncConf-SNC.XML
@@ -31,14 +31,14 @@ Role required: admin
 2.  Run the synchronization file to log to the console.
 
     ```
-     C:\WINDOWS\adam>adamsync /sync localhost:50000 "ou=[[users|users]],dc=service-now,dc=adam" /log -
+     C:\WINDOWS\adam>adamsync /sync localhost:50000 "ou=users,dc=service-now,dc=adam" /log -
     ```
 
 3.  Review the results by using the ADSIEdit console.
 
     You should see the new objects and attributes that were created by ADAMSync.
 
-4.  Run ldap to test the UserProxy [[c_Authentication|authentication]].
+4.  Run ldap to test the UserProxy authentication.
 
     Automating the sync process
 
@@ -52,8 +52,3 @@ Role required: admin
 
     -   If you are using Microsoft Exchange, we recommend excluding cn=SystemMailbox\* objects as part of the object-filter configuration.
 
-## Related
-
-- [[sc-configuration|Configuration]]
-- [[users|Users]]
-- [[c_Authentication|Authentication]]

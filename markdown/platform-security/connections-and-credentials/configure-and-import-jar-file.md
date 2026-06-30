@@ -14,7 +14,7 @@ breadcrumb: [OAuth 2.0 authentication via MID Server using external credential s
 
 # Configure a JAR file and credential identifiers
 
-Configure a JAR file and credential identifiers so that the JAR file resolves the credential identifiers into actual credentials from the CyberArk external vault. The process enables the MID Server to get and include [[oauth-2-credentials|OAuth 2.0 credentials]] in the [[oauth-inbound-and-outbound|OAuth]] token [[c_requestAPI|request]].
+Configure a JAR file and credential identifiers so that the JAR file resolves the credential identifiers into actual credentials from the CyberArk external vault. The process enables the MID Server to get and include OAuth 2.0 credentials in the OAuth token request.
 
 ## Before you begin
 
@@ -31,8 +31,3 @@ The CyberArk external vault stores sensitive credentials and the ServiceNow inst
 
 **Parent Topic:**[OAuth 2.0 authentication via MID Server using external credential storage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/oauth-2-0-support-in-external-credential.md)
 
-## Related
-
-- [[oauth-2-credentials|OAuth 2.0 credentials]]
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[c_requestAPI|request]]

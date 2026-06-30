@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-You can customize how the Entity View Action Mapper \(EVAM\) component is configured for the **Announcements** section. While the data can be customized for the default [[dex-workspace-dashboard-tab|landing page]], the visual styling changes can be done only by creating a copy of the landing page. In the base system, announcements and the corresponding data sources are defined for the following tables:
+You can customize how the Entity View Action Mapper \(EVAM\) component is configured for the **Announcements** section. While the data can be customized for the default landing page, the visual styling changes can be done only by creating a copy of the landing page. In the base system, announcements and the corresponding data sources are defined for the following tables:
 
 -   Outage \[cmdb\_ci\_outage\]
 -   Banner Announcement \[sys\_ux\_banner\_announcement\]
@@ -78,6 +78,3 @@ You can add announcements for additional tables by defining additional data sour
 
 **Parent Topic:**[Landing page configurations in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/landing-page-configurations-sow-itsm.md)
 
-## Related
-
-- [[dex-workspace-dashboard-tab|Landing page]]

@@ -31,7 +31,7 @@ You can renew a contract that meets the following conditions:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-lease-admin-feat|Workplace Lease Administration]]** &gt; **Workplace Contracts**.
+1.  Navigate to **All** &gt; **Workplace Lease Administration** &gt; **Workplace Contracts**.
 
 2.  Select a contract in the Active or Expired state.
 
@@ -136,6 +136,3 @@ If you selected the **Save** option, ensure that you select **Renew** when youâ€
 
 [Cancel workplace contract in Core UI]()
 
-## Related
-
-- [[workplace-lease-admin-feat|Workplace Lease Administration]]

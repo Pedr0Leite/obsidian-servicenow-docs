@@ -18,9 +18,9 @@ Explore the AI Gateway, its value, and learn how to use and configure it for you
 
 ## Model Context Protocol
 
-The MCP is a standardized client-server protocol that enables AI applications to discover and interact seamlessly with external tools, data sources, and systems. MCP facilitates communication between an AI host application \([[ai-agent-studio|AI Agent Studio]]\), an MCP Client embedded in the host, and one or more MCP servers that expose specific capabilities such as tools.
+The MCP is a standardized client-server protocol that enables AI applications to discover and interact seamlessly with external tools, data sources, and systems. MCP facilitates communication between an AI host application \(AI Agent Studio\), an MCP Client embedded in the host, and one or more MCP servers that expose specific capabilities such as tools.
 
-For more information on MCP, see [[mcp-client|Model Context Protocol Client]].
+For more information on MCP, see [Model Context Protocol Client](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/mcp-client.md).
 
 ## AI Gateway overview
 
@@ -52,8 +52,8 @@ With the increasing need of interoperability across different AI solutions acros
 
 Applications
 
--   [[platform-now-assist-landing|Now Assist]] subscription \(required\)
--   [[ai-control-tower-landing|AI Control Tower]] for Now Assist – Pro Plus license \(auto-installs sn\_awh\_config\)
+-   Now Assist subscription \(required\)
+-   AI Control Tower for Now Assist – Pro Plus license \(auto-installs sn\_awh\_config\)
 -   AI Agent Studio \(required for MCP server intake in AI Gateway for AI Control Tower \(1.0.5\)\)
 
 Plugins
@@ -77,9 +77,3 @@ If you're using any generative AI features, you already have access to AI Gatewa
 -   For information on AI Gateway in the configuration page, see [AI Gateway](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/ai-gateway.md).
 -   For information on the roles in AI Control Tower and their role with AI Gateway, see [AI Control Tower roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/roles-installed-with-ai-control-tower.md).
 
-## Related
-
-- [[mcp-client|Model Context Protocol Client]]
-- [[ai-agent-studio|AI Agent Studio]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[ai-control-tower-landing|AI Control Tower]]

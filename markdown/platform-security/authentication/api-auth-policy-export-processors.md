@@ -14,9 +14,9 @@ breadcrumb: [API access policy, Authentication, Access Management]
 
 # Access policy for System or Export Processors
 
-Ability for System or [[export|Export]] Processors to leverage processor access policy to secure all the export endpoints.
+Ability for System or Export Processors to leverage processor access policy to secure all the export endpoints.
 
-Ability to secure all the export endpoints and apply the inbound [[c_Authentication|authentication]] profile and processor access [[ca-policies|policies]] at a global or instance level.
+Ability to secure all the export endpoints and apply the inbound authentication profile and processor access policies at a global or instance level.
 
 **Note:**
 
@@ -25,19 +25,10 @@ Ability to secure all the export endpoints and apply the inbound [[c_Authenticat
 
 ## Sample use cases
 
--   Admin can block the RSS processor if not intending to use it, by leveraging the [[api-access-policy|API access policy]].
--   Admin can [[create-an-authentication-profile|create an authentication profile]] with [[basic-authentication|basic authentication]] and associate an authentication policy that always evaluates to false.
+-   Admin can block the RSS processor if not intending to use it, by leveraging the API access policy.
+-   Admin can create an authentication profile with basic authentication and associate an authentication policy that always evaluates to false.
 
-    Example, Create IP criteria with a range from `0.0.0.0` to `255.255.255.255` \(add Ipv6 address space as well\) and then add policy condition with the false operator. By this way, policy conditions will always evaluate as false, and the API access policy will block the access irrespective of where the [[c_requestAPI|request]] is originating.
+    Example, Create IP criteria with a range from `0.0.0.0` to `255.255.255.255` \(add Ipv6 address space as well\) and then add policy condition with the false operator. By this way, policy conditions will always evaluate as false, and the API access policy will block the access irrespective of where the request is originating.
 
 -   Allowing access to the processor only from a trusted network.
 
-## Related
-
-- [[export|Export]]
-- [[c_Authentication|Authentication]]
-- [[ca-policies|Policies]]
-- [[api-access-policy|API access policy]]
-- [[create-an-authentication-profile|Create an authentication profile]]
-- [[basic-authentication|Basic authentication]]
-- [[c_requestAPI|request]]

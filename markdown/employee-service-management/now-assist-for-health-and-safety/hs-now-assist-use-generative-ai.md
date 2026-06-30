@@ -14,12 +14,12 @@ breadcrumb: [Now Assist for Health and Safety, Health and Safety, Employee Servi
 
 # Use generative AI skills
 
-Use the integration of generative AI with [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]] to summarize incident patterns.
+Use the integration of generative AI with Health and Safety Incident Management to summarize incident patterns.
 
 The generative AI skills can be used with Health and Safety Incident Management when com.snc.sn\_hs\_gen\_ai plugin is installed.
 
 -   **[Incident pattern analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/hs-incident-pattern-analysis.md)**  
-The [[hs-incident-pattern-analysis|incident pattern analysis]] tool automatically detects recurring patterns across [[health-safety-overview|health and safety]] incidents.
+The incident pattern analysis tool automatically detects recurring patterns across health and safety incidents.
 -   **[Conversational AI Health and Safety incident or observation report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/now-assist-explore-conversational-incidents.md)**  
 Use the Now Assist panel conversational interface to report Health and Safety incidents and observations that enables you to engage with live agents, virtual agents, or both.
 -   **[Generate and manage AI‑suggested safety actions in Action planner](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/now-assist-hs-generate-ai-suggested-actions-in-action-planner.md)**  
@@ -27,8 +27,3 @@ Generate AI-suggested safety actions in Action planner to quickly identify and c
 
 **Parent Topic:**[Now Assist for Health and Safety](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/now-assist-hs-landing.md)
 
-## Related
-
-- [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]]
-- [[hs-incident-pattern-analysis|Incident pattern analysis]]
-- [[health-safety-overview|Health and Safety]]

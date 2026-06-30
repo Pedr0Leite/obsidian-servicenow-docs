@@ -14,7 +14,7 @@ breadcrumb: [Now Assist for Health and Safety, Health and Safety, Employee Servi
 
 # Using agentic workflows in Now Assist for Health and Safety
 
-Use the [[health-safety-overview|Health and Safety]] agentic workflow collection to complete tasks autonomously through the Now Assist panel.
+Use the Health and Safety agentic workflow collection to complete tasks autonomously through the Now Assist panel.
 
 <table id="table_glr_gft_w2c"><thead><tr><th>
 
@@ -43,7 +43,7 @@ The Now Assist panel suggests a list of actions for a safety incident and create
 
 </td></tr><tr><td>
 
-[[help-resolve-safety-cases-agentic-workflow|Help resolve health and safety cases agentic workflow]]
+Help resolve health and safety cases agentic workflow
 
 </td><td>
 
@@ -75,7 +75,3 @@ To run the AI agents autonomously, duplicate the agentic workflow if needed and 
 
 There might be AI agents installed with the Now Assist application that are not used in agentic workflows. To learn how to see all agents that are available to you, see [Find AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/find-ai-agents.md).
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[help-resolve-safety-cases-agentic-workflow|Help resolve health and safety cases agentic workflow]]

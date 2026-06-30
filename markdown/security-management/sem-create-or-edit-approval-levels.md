@@ -20,7 +20,7 @@ Role required: sn\_vul\_container.vulnerability\_admin, sn\_vul\_cmn.vulnerabili
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sem-workspace-user-interface|Security Exposure Management Workspace]]** &gt; **Administration** &gt; **Approval Rules**.
+1.  Navigate to **Workspaces** &gt; **Security Exposure Management Workspace** &gt; **Administration** &gt; **Approval Rules**.
 
 2.  Select **New** to create a rule and provide the necessary details.
 
@@ -137,9 +137,5 @@ Select an option from:-   Assigned to
 </table>6.  To save the changes, select **Update**.
 
 
-**Parent Topic:**[[sem-approval-rules-overiew|Unified Approval Rules Overview]]
+**Parent Topic:**[Unified Approval Rules Overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-approval-rules-overiew.md)
 
-## Related
-
-- [[sem-approval-rules-overiew|Unified Approval Rules Overview]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]

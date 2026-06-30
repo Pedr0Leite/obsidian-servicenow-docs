@@ -14,7 +14,7 @@ breadcrumb: [Normalization data services, Creating users, companies, departments
 
 # Enabling duplicate company names in extension tables
 
-You can create records with duplicate company names in extension tables, such as Customer Account \[customer\_account\] table, without causing normalization conflicts in [[c_NormalizationOverview|Normalization Data Services]].
+You can create records with duplicate company names in extension tables, such as Customer Account \[customer\_account\] table, without causing normalization conflicts in Normalization Data Services.
 
 If your ServiceNow instance has company records in the Company \[core\_company\] table from IT Service Management \(ITSM\) or IT Operations Management \(ITOM\), and you are adopting Customer Service Management \(CSM\), you may encounter errors when creating Customer Account records for the same companies.
 
@@ -43,7 +43,7 @@ Role required: nds\_admin
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **System [[clone-exclusions-preservers-cleanupscripts|Definitions]]** &gt; **Script includes**.
+1.  Navigate to **All** &gt; **System Definitions** &gt; **Script includes**.
 
 2.  Search for and open the **ClearNonCoreCompanyExtensionsFix** script.
 
@@ -63,7 +63,7 @@ Role required: nds\_admin
 
 5.  Add the **glide.cmdb.canonical.use\_base\_core\_company\_only** system property and set its value to **True**.
 
-    For more information, see [[t_AddAPropertyUsingSysPropsList|Add a system property]].
+    For more information, see [Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddAPropertyUsingSysPropsList.md).
 
 6.  Normalize data in the CMDB table.
 
@@ -121,8 +121,4 @@ Role required: nds\_admin
 
     6.  Select **Run Script**.
 
-## Related
 
-- [[t_AddAPropertyUsingSysPropsList|Add a system property]]
-- [[c_NormalizationOverview|Normalization data services]]
-- [[clone-exclusions-preservers-cleanupscripts|Definitions]]

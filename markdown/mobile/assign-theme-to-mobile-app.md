@@ -18,17 +18,17 @@ After you configure a mobile theme that reflects your company identity, you can 
 
 Role required: admin
 
-**Important:** Use [[sg-themes|legacy mobile theming]] on Tokyo and earlier ServiceNow® instances. For Utah and later releases, see [[explore-ne-theming|Next Experience theming for mobile]].
+**Important:** Use legacy mobile theming on Tokyo and earlier ServiceNow® instances. For Utah and later releases, see [Next Experience theming for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/explore-ne-theming.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select **Mobile app configs** from the menu.
 
@@ -36,14 +36,8 @@ Role required: admin
 
 5.  Scroll down to locate the Client Theme section, select **Choose**, and then select the desired mobile app theme record.
 
-    For information about creating a mobile theme, see [[sg-configure-theme|Create a theme for your mobile applications]].
+    For information about creating a mobile theme, see [Create a theme for your mobile applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-configure-theme.md).
 
 6.  Select **Save**.
 
-## Related
 
-- [[explore-ne-theming|Next Experience theming for mobile]]
-- [[sg-configure-theme|Create a theme for your mobile applications]]
-- [[sg-themes|Legacy mobile theming]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]

@@ -16,17 +16,12 @@ Domain separation enables you to separate data, processes, and administrative ta
 
 All partner program records, partner program relationships, and channel partners are present in the domain of the associated program.
 
-**Parent Topic:**[[partner-relationship-management-reference|Partner Relationship Management reference]]
+**Parent Topic:**[Partner Relationship Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/partner-relationship-management-reference.md)
 
 **Related topics**  
 
 
-[[configure-partner-program-table|Configure Partner Program table]]
+[Configure Partner Program table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-partner-program-table.md)
 
-[[partner-program-table-fields|Partner program table fields]]
+[Partner program table fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/partner-program-table-fields.md)
 
-## Related
-
-- [[partner-relationship-management-reference|Partner Relationship Management reference]]
-- [[configure-partner-program-table|Configure Partner Program table]]
-- [[partner-program-table-fields|Partner program table fields]]

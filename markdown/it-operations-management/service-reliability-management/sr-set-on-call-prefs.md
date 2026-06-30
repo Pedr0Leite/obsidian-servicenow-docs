@@ -22,9 +22,9 @@ Role required: srm\_manager or srm\_admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-    You're taken to your [[sr-home-page|SRM Home page]].
+    You're taken to your SRM Home page.
 
     **Note:** If you use other Service Operations Workspace \(SOW\) applications, you may see the SOW Home page instead of the SRM Home page. The SOW Home page includes SRM alerts and incidents in its metrics.
 
@@ -98,7 +98,3 @@ Choices are:-   System default \(Escalate to all shifts\)
 
 **Parent Topic:**[Create an SRM on-call schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-create-on-call-schedule.md)
 
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[sr-home-page|SRM Home page]]

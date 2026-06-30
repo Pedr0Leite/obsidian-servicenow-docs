@@ -26,7 +26,7 @@ You can only ask a question in a forum if you have been assigned the correct per
 
 If you ask a question, you can edit or delete it. If you created the question and reply with an answer, your answer is labeled **Author**.
 
-There are three ways of asking questions in [[servicenow-communities|Communities]].
+There are three ways of asking questions in Communities.
 
 ## Procedure
 
@@ -120,6 +120,3 @@ To attach a file, click **Add attachments** and then drag the file into the **At
 
 [Disable comments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/disable-comments.md)
 
-## Related
-
-- [[servicenow-communities|Communities]]

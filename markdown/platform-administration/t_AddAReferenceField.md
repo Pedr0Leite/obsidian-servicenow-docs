@@ -12,7 +12,7 @@ breadcrumb: [Reference field type, Reference, Field administration, Forms, field
 
 # Add a reference field
 
-Add [[reference-email-admin|reference]] fields to a table using the same method as for any other field.
+Add reference fields to a table using the same method as for any other field.
 
 ## Before you begin
 
@@ -34,6 +34,4 @@ The related table also appears in the Available Tables list for future form cust
 
 4.  Click **Save**.
 
-## Related
 
-- [[reference-email-admin|Reference]]

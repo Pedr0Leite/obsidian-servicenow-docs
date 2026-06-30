@@ -15,7 +15,7 @@ breadcrumb: [Digital Product Release Policy Content Pack, Digital Product Releas
 
 # Digital Product Release data collectors
 
-The [[dpr-policy-content-pack|Digital Product Release Policy Content Pack]] contains a set of data collectors to collect DevOps data to be validated against policies.
+The Digital Product Release Policy Content Pack contains a set of data collectors to collect DevOps data to be validated against policies.
 
 ## Approval Task Completeness
 
@@ -106,6 +106,3 @@ Output: % of commits without Work Item.
 
 [Passing parameters to PaCE policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/pace-passing-parameters.md)
 
-## Related
-
-- [[dpr-policy-content-pack|Digital Product Release Policy Content Pack]]

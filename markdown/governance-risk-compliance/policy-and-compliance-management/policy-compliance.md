@@ -14,7 +14,7 @@ breadcrumb: [Policy and Compliance Management, Governance, Risk, and Compliance]
 
 # Exploring Policy and Compliance Management
 
-The ServiceNow [[r_PolicyComplianceMgmt|Policy and Compliance Management]] product provides a centralized process for creating and managing policies, standards, and internal control procedures that are cross-mapped to external regulations and benchmarks. Additionally, the application provides structured workflows for the identification, assessment, and continuous monitoring of control activities.
+The ServiceNow Policy and Compliance Management product provides a centralized process for creating and managing policies, standards, and internal control procedures that are cross-mapped to external regulations and benchmarks. Additionally, the application provides structured workflows for the identification, assessment, and continuous monitoring of control activities.
 
 ## Policy and Compliance Management overview
 
@@ -56,6 +56,3 @@ Policy and Compliance activities involve all levels of management. A key functio
 
 \[Omitted image "policy-compliance-servicenow-solution.png"\] Alt text: Policy and Compliance Management and the ServiceNow AI Platform.
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

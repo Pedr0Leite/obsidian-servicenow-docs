@@ -12,7 +12,7 @@ breadcrumb: [Configuring client accessible secrets, Secrets Management, Platform
 
 # Upload the public/private keypair to the MID Server
 
-Upload your public/private keypair to your MID Server. This keypair enables the MID Server to handle [[c_Authentication|authentication]] requests from your instance.
+Upload your public/private keypair to your MID Server. This keypair enables the MID Server to handle authentication requests from your instance.
 
 ## Before you begin
 
@@ -30,14 +30,14 @@ Ensure that the system you perform these steps on has access to both the MID Ser
 
 ## Procedure
 
-1.  In your local environment, locate the folder where you created your key pair in the [[client-access-example-1|Create encryption keys and certificate]] steps.
+1.  In your local environment, locate the folder where you created your key pair in the [Create encryption keys and certificate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/client-access-example-1.md) steps.
 
-2.  Find and copy the full path to the `manage-[[c_Certificates|certificates]].bat` file.
+2.  Find and copy the full path to the `manage-certificates.bat` file.
 
     **Note:** This file is located on your MID Server folder. Depending on where you've stored your MID Server folder, your path may look like this example:
 
     ```
-    C:\[[users|Users]]\<your_user_account>\Documents\SM_Implementation\mid.utah-07-08-2022__patch4b01-31-2023_02-07-2023_1702.windows.x86-64\sm_ig_MIDS\bin\scripts\manage-certificates.bat
+    C:\Users\<your_user_account>\Documents\SM_Implementation\mid.utah-07-08-2022__patch4b01-31-2023_02-07-2023_1702.windows.x86-64\sm_ig_MIDS\bin\scripts\manage-certificates.bat
     ```
 
 3.  Create a text file and paste the path into the file.
@@ -46,7 +46,7 @@ Ensure that the system you perform these steps on has access to both the MID Ser
 
     `-a your_identity_key_alias`
 
-    Replace `your_identity_key_alias` with the name of the [[identity-landing|identity]] key alias that you created when you uploaded your public certificate.
+    Replace `your_identity_key_alias` with the name of the identity key alias that you created when you uploaded your public certificate.
 
 5.  Find and copy the full path to your key pair file.
 
@@ -83,13 +83,5 @@ Ensure that the system you perform these steps on has access to both the MID Ser
     Restarting the MID Server synchronizes the uploaded key pair in the MID Keystore for use with operations. Wait for the MID Server to restart, with a status of **Up** and a validated value of **Yes** before continuing.
 
 
-**Parent Topic:**[[client-access-secret-landing|Configuring client accessible secrets]]
+**Parent Topic:**[Configuring client accessible secrets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/client-access-secret-landing.md)
 
-## Related
-
-- [[client-access-example-1|Create encryption keys and certificate]]
-- [[client-access-secret-landing|Configuring client accessible secrets]]
-- [[c_Authentication|Authentication]]
-- [[c_Certificates|Certificates]]
-- [[users|Users]]
-- [[identity-landing|Identity]]

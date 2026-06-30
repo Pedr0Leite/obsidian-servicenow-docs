@@ -14,7 +14,7 @@ breadcrumb: [Managing supplier contacts, Using Supplier Collaboration Portal, Us
 
 # Remove a supplier contact from the Supplier Collaboration Portal
 
-Remove a [[supplier-contact|supplier contact]] that you no longer require from the [[supplier-central|Supplier Collaboration Portal]].
+Remove a supplier contact that you no longer require from the Supplier Collaboration Portal.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: sn\_slm.contact or sn\_slm.admin
 
     |To|Do this|
     |---|-------|
-    |Remove a [[supplier|supplier]] from the My contacts widget.|Perform the steps described in [Remove a supplier contact from the My contacts widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/remove-supp-contact.md).|
+    |Remove a supplier from the My contacts widget.|Perform the steps described in [Remove a supplier contact from the My contacts widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/remove-supp-contact.md).|
     |Remove a supplier contact using the supplier catalog.|Perform the steps described in [Remove a supplier contact using the supplier catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/remove-contact-catalog.md).|
 
 
@@ -46,8 +46,3 @@ Remove a supplier contact that you no longer require.
 
 [Remove a supplier contact from the My contacts widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/remove-supp-contact.md)
 
-## Related
-
-- [[supplier-contact|Supplier contact]]
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[supplier|Supplier]]

@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-When the [[cpg-terraform-connector-landing-page|Cloud Services Catalog Terraform Connector]] app detects a change in the variables on the Terraform template \(.TF\) file or the metadata \(`metadata.snc`\) file, it creates change tasks. The change tasks are assigned to users who had created the catalog items \(user with \[sn.cmp.cloud\_service\_designer\] role\). Based on the change detected on the template variables or the metadata, the catalog item task prompts you take one of the following actions:
+When the Cloud Services Catalog Terraform Connector app detects a change in the variables on the Terraform template \(.TF\) file or the metadata \(`metadata.snc`\) file, it creates change tasks. The change tasks are assigned to users who had created the catalog items \(user with \[sn.cmp.cloud\_service\_designer\] role\). Based on the change detected on the template variables or the metadata, the catalog item task prompts you take one of the following actions:
 
 -   Create a catalog item from the modified template version.
 
@@ -48,7 +48,7 @@ The Cloud Services Catalog Terraform Connector creates an IaC change task for a 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]** &gt; **[[cloud-admin-portal|Cloud Admin Portal]]**.
+1.  Navigate to **All** &gt; **Cloud Provisioning and Governance** &gt; **Cloud Admin Portal**.
 
     The Cloud Admin Portal opens in a new browser tab.
 
@@ -64,7 +64,7 @@ The Cloud Services Catalog Terraform Connector creates an IaC change task for a 
 
         **Note:** The default value mentioned in the variable record of the Terraform Task Metadata related list overrides the default value mentioned in the Terraform template.
 
-5.  Select the **changes** link on the recommendation message to view a difference comparison in the template content, as detected by IaC [[r-discovery|Discovery]].
+5.  Select the **changes** link on the recommendation message to view a difference comparison in the template content, as detected by IaC Discovery.
 
 6.  On the form, fill in the fields.
 
@@ -75,9 +75,3 @@ The Cloud Services Catalog Terraform Connector creates an IaC change task for a 
 
 **Parent Topic:**[Using Cloud Services Catalog Terraform Connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/using-ccg-terraform-connector.md)
 
-## Related
-
-- [[cpg-terraform-connector-landing-page|Cloud Services Catalog Terraform Connector]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[cloud-admin-portal|Cloud Admin Portal]]
-- [[r-discovery|Discovery]]

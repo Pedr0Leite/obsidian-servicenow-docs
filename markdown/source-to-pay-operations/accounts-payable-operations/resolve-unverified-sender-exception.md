@@ -14,7 +14,7 @@ breadcrumb: [Work on an invoice exception, Invoice exceptions, Using Accounts Pa
 
 # Resolve unverified sender source exception
 
-Review an unverified sender source exception in APO and resolve it by adding the sender as a [[supplier-contact|supplier contact]] or rejecting the invoice.
+Review an unverified sender source exception in APO and resolve it by adding the sender as a supplier contact or rejecting the invoice.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ An invoice with an unverified sender source exception must be assigned to you or
 
 ## About this task
 
-Use this procedure when an invoice is flagged with an unverified sender source exception. The exception indicates that the sender's email address or domain could not be verified against the [[supplier|supplier]] record or vendor contact list. You must review the exception details and take one of the available actions to resolve it.
+Use this procedure when an invoice is flagged with an unverified sender source exception. The exception indicates that the sender's email address or domain could not be verified against the supplier record or vendor contact list. You must review the exception details and take one of the available actions to resolve it.
 
 The system evaluates the following conditions in order when an invoice email is received:
 
@@ -37,7 +37,7 @@ The system first checks whether the email was forwarded by an internal employee.
 
 Condition B: Known supplier, unknown contact.
 
-The system evaluates this condition when the sender is not an internal employee. It applies when the supplier is successfully identified on the invoice \(via OCR or [[purchase-order-table|purchase order]] match\) but the sender's email address is not recognized.
+The system evaluates this condition when the sender is not an internal employee. It applies when the supplier is successfully identified on the invoice \(via OCR or purchase order match\) but the sender's email address is not recognized.
 
 -   The system checks whether all of the following are true:
     -   The supplier is identified as valid.
@@ -48,7 +48,7 @@ The system evaluates this condition when the sender is not an internal employee.
 
 ## Procedure
 
-1.  Navigate to **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]** &gt; **All** &gt; **List** &gt; **[[invoices|Invoices]]**.
+1.  Navigate to **Source-to-Pay Workspace** &gt; **All** &gt; **List** &gt; **Invoices**.
 
     locate the invoice with the unverified sender source exception.
 
@@ -66,7 +66,7 @@ The system evaluates this condition when the sender is not an internal employee.
 
     **Note:**
 
-    This option is available only if the [[supp-mgmt-landing-page|Supplier Lifecycle Operations]] application is installed on your instance.
+    This option is available only if the Supplier Lifecycle Operations application is installed on your instance.
 
     To reject the invoice, select **Reject invoice**. A rejection dialog appears. Continue to the next step.\[Omitted image "unverified-sender.png"\] Alt text: Review an unverified sender source exception in APO
 
@@ -87,11 +87,3 @@ If you added the sender as a supplier contact, the invoice is reprocessed.
 
 [Add a supplier contact from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/add-supplier-contact.md)
 
-## Related
-
-- [[supplier-contact|Supplier contact]]
-- [[supplier|Supplier]]
-- [[purchase-order-table|Purchase order]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[invoices|Invoices]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]

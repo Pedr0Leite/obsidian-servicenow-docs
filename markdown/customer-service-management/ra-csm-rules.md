@@ -20,14 +20,14 @@ Creating a rule includes the following steps:
 -   Defining the conditions that apply to the context recordsand context inputs.
 -   Creating recommendations for the rule. A recommendation is a way to suggest a helpful action to an agent. A rule can have multiple recommendations.
 
-The [[configure-nba|Recommended Actions]] application includes one context record, case context, that you can use to create recommendations for cases. For example, following are some guidance recommendations:
+The Recommended Actions application includes one context record, case context, that you can use to create recommendations for cases. For example, following are some guidance recommendations:
 
--   Case field level recommendations: This rule includes one recommendation to predict a value for the **Assignment group** field on the [[r_CustomerServiceCaseForm|Case form]].
+-   Case field level recommendations: This rule includes one recommendation to predict a value for the **Assignment group** field on the Case form.
 -   Case side panel recommendations: This rule includes recommendations to view and attach a knowledge article to a case and to attach and add a link to a knowledge article in a comment, work note, or email.
 
 ## Apply rules to tables extended from the context table
 
-A rule created in the parent context is inherited by the extended context when you select the [Apply to tables extended from the context table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-rules.md) check box in a rule. The [[gamification-components-rules|rules]] inherited from the parent context appear in the Inherited Rules related list of the extended context. Therefore, the recommendations of these rules are passed on to the extended context. Along with the recommendations of the context table, the recommendations of the active rules from the parent context are inherited by the extended context.
+A rule created in the parent context is inherited by the extended context when you select the [Apply to tables extended from the context table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-rules.md) check box in a rule. The rules inherited from the parent context appear in the Inherited Rules related list of the extended context. Therefore, the recommendations of these rules are passed on to the extended context. Along with the recommendations of the context table, the recommendations of the active rules from the parent context are inherited by the extended context.
 
 ## Rule form
 
@@ -35,7 +35,7 @@ The Rule form provides information about the rule, including a description, the 
 
 When you create a rule, provide this information and save the record. After saving, you can see the Recommendations related list.
 
-You can access the rule records by navigating to **All** &gt; **Recommended Actions** &gt; **Rules**. New rules can only be created from within a context. For more information, see [[ra-csm-rules-create|Create a rule]].
+You can access the rule records by navigating to **All** &gt; **Recommended Actions** &gt; **Rules**. New rules can only be created from within a context. For more information, see [Create a rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-rules-create.md).
 
 <table id="table_urf_5cf_ztb"><thead><tr><th>
 
@@ -123,9 +123,3 @@ Determines the order in which the rule is applied.
 
 [Create a rule in Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-rules-create.md)
 
-## Related
-
-- [[ra-csm-rules-create|Create a rule in Recommended Actions]]
-- [[configure-nba|Recommended Actions]]
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[gamification-components-rules|Rules]]

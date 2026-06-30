@@ -29,19 +29,14 @@ Role required: sales\_agent
 
 ## What to do next
 
-To learn more, see [[lead-management-using|Using Lead Management]].
+To learn more, see [Using Lead Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management-using.md).
 
 **Parent Topic:**[Using Lead Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management-using.md)
 
 **Related topics**  
 
 
-[[configure-lead-management|Install and configure Lead Management]]
+[Install and configure Lead Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-lead-management.md)
 
-[[lead-management|Lead Management]]
+[Lead Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management.md)
 
-## Related
-
-- [[lead-management-using|Using Lead Management]]
-- [[configure-lead-management|Install and configure Lead Management]]
-- [[lead-management|Lead Management]]

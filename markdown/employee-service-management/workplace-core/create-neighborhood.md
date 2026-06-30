@@ -18,11 +18,11 @@ Create a neighborhood and assign users to available spaces in a neighborhood. Ad
 
 ## Before you begin
 
-**Note:** Verify that [[workplace-safety-mgmt-hr|Workplace Core]] is installed to set up and manage neighborhoods.
+**Note:** Verify that Workplace Core is installed to set up and manage neighborhoods.
 
-**Important:** If you’re using [[workplace-space-mgmt-ovw|Workplace Space Management]] version1.11.1 or later, to [[add-a-user-to-neighbourhood|add a user to the neighborhood]], refer to [Add or edit a neighborhood assignment of a workplace profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/add-a-user-to-the-neighbourhood-from-the-workplace-profile.md).
+**Important:** If you’re using Workplace Space Management version1.11.1 or later, to add a user to the neighborhood, refer to [Add or edit a neighborhood assignment of a workplace profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/add-a-user-to-the-neighbourhood-from-the-workplace-profile.md).
 
-**Important:** From Workplace Space Management version 1.11.1, the **Neighbourhood User Assignments** table is no longer available. Instead, the user assignment can be performed on a workplace profile directly using the **Workplace Profile Location Assignment** table \(displayed a related list on the form\) in the Workplace Core application. The **Workplace Profile Location Assignment** in the Workplace Core is now configured with additional fields such as **Profile type**, **Neighborhood**, and **Source** where all the data is saved. This table helps a space manager to perform [[scenario-planning|scenario planning]] and save any user assignment-related changes performed on a neighborhood directly on the workplace profile.
+**Important:** From Workplace Space Management version 1.11.1, the **Neighbourhood User Assignments** table is no longer available. Instead, the user assignment can be performed on a workplace profile directly using the **Workplace Profile Location Assignment** table \(displayed a related list on the form\) in the Workplace Core application. The **Workplace Profile Location Assignment** in the Workplace Core is now configured with additional fields such as **Profile type**, **Neighborhood**, and **Source** where all the data is saved. This table helps a space manager to perform scenario planning and save any user assignment-related changes performed on a neighborhood directly on the workplace profile.
 
 On a neighborhood, when you configure a user assignment rule, the neighborhood assignment changes on the workplace profile are automatically saved on the user's workplace profile. On the user's workplace profile, you can check the type of assignment from the **Profile type** field.
 
@@ -80,9 +80,3 @@ A private or restricted neighborhood.If an employee is assigned to the neighborh
 
 **Parent Topic:**[Managing Neighborhoods](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/neighborhoods.md)
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-space-mgmt-ovw|Workplace Space Management]]
-- [[add-a-user-to-neighbourhood|Add a user to the neighborhood]]
-- [[scenario-planning|Scenario Planning]]

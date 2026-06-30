@@ -82,7 +82,7 @@ In the process of reviewing KPI performance in the Performance Analytics applica
 As part of the implementation process, the Improvement Manager and Improvement Coordinator determined the work required in the next three to six months to complete the improvement, with a target review date 3 months after start.
 
 -   Configured default CIM Phase 1 \(added two CIM tasks\), and created CIM Phase 2 \(added two CIM tasks\).
--   Created a [[c_ITILChangeManagement|Change Management]] application task record \(CHG0030001\) associated with CIM Task 2 using the **Create Change** related link, and set the change record attributes.
+-   Created a Change Management application task record \(CHG0030001\) associated with CIM Task 2 using the **Create Change** related link, and set the change record attributes.
 -   Added four KPIs to the Impacted KPIs tab to monitor with the improvement.
 
 Improvement Coordinator met with CIM task owners regularly to oversee status and monitor work completed, and set the improvement status to review after all implementation was complete.
@@ -333,7 +333,7 @@ Short description
 
 </td><td>
 
-Reduce the reassigned count by using ServiceNow Auto Categorization and Auto Assignment [[c_Models|models]]
+Reduce the reassigned count by using ServiceNow Auto Categorization and Auto Assignment models
 
 </td></tr><tr><td>
 
@@ -513,7 +513,3 @@ Impacted KPI
 
 [Applications integrated with Continual Improvement Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/cim-integration.md)
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]
-- [[c_Models|Models]]

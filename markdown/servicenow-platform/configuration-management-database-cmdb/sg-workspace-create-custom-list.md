@@ -14,7 +14,7 @@ breadcrumb: [Configure, Service Graph Workspace, Configuration Management Databa
 
 # Create a custom list in the Lists view in Service Graph Workspace
 
-Create your own lists of classes that you can then navigate in the [[sg-workspace-lists-view|Lists view in Service Graph Workspace]] to explore data.
+Create your own lists of classes that you can then navigate in the Lists view in Service Graph Workspace to explore data.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sg-workspace|Service Graph Workspace]]** and then in the navigation panel, select the Lists icon.
+1.  Navigate to **Workspaces** &gt; **Service Graph Workspace** and then in the navigation panel, select the Lists icon.
 
 2.  In Lists view, select the My lists tab and then select **Create new list**.
 
@@ -42,7 +42,4 @@ Role required: admin
 
 4.  Select **Create**.
 
-## Related
 
-- [[sg-workspace-lists-view|Lists view in Service Graph Workspace]]
-- [[sg-workspace|Service Graph Workspace]]

@@ -12,7 +12,7 @@ breadcrumb: [Predictive Intelligence for Field Service Management, FSM reports a
 
 # Activate Predictive Intelligence for Field Service Management
 
-You can activate the Predictive Intelligence for Field Service plugin \(com.snc.fsm\_ml\) for [[fsm-application-landing-page|Field Service Management]] if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can activate the Predictive Intelligence for Field Service plugin \(com.snc.fsm\_ml\) for Field Service Management if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -42,6 +42,4 @@ Role required: admin
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
-## Related
 
-- [[fsm-application-landing-page|Field Service Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Workplace Service Delivery, Employee Service Management]
 
 # Workplace Calendar Synchronization
 
-Enhance your workplace's reservation experience by synchronizing your reservations with your calendar provider by using the ServiceNow® Workplace Calendar Synchronization application. Enable your employees to make reservations with ServiceNow® [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] or with your organization's calendar service providers, such as Microsoft Exchange Online.
+Enhance your workplace's reservation experience by synchronizing your reservations with your calendar provider by using the ServiceNow® Workplace Calendar Synchronization application. Enable your employees to make reservations with ServiceNow® Workplace Reservation Management or with your organization's calendar service providers, such as Microsoft Exchange Online.
 
 ## Get started
 
@@ -44,7 +44,3 @@ Enhance your workplace's reservation experience by synchronizing your reservatio
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]

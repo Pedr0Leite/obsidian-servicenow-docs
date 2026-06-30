@@ -14,7 +14,7 @@ breadcrumb: [Lead-to-Cash Process Management, Order operations apps, Use, Sales 
 
 Monitor and track sales activities for a customer account after you have created a sales process record.
 
-The **Details**, **Activity**, and **Tasks** tabs provide the following information when you select a node on the [[explore-lead-cash-process-management|Lead-to-Cash Process Management]] sales process node map:
+The **Details**, **Activity**, and **Tasks** tabs provide the following information when you select a node on the Lead-to-Cash Process Management sales process node map:
 
 -   **Sales entity details for an account**
 
@@ -31,29 +31,20 @@ The **Details**, **Activity**, and **Tasks** tabs provide the following informat
 
 Related lists configured in the Sales cockpit view in Next Experience UI govern the tabs that are displayed for a sales entity on the sales dashboard. For example, you can display tabs such as **Line Items for an Opportunity** and **Line Characteristics for Opportunity Line** containing the respective record details.
 
-By accessing the sales data and using integrated communication channels such as sidebar discussions and emails, you can promote record completeness and accuracy, and support downstream processes such as [[reviewing-orchestration-plans-order-fulfillment|order fulfillment]], revenue recognition, and reporting.
+By accessing the sales data and using integrated communication channels such as sidebar discussions and emails, you can promote record completeness and accuracy, and support downstream processes such as order fulfillment, revenue recognition, and reporting.
 
-**Parent Topic:**[[using-lead-cash-process-management|Using Lead-to-Cash Process Management]]
+**Parent Topic:**[Using Lead-to-Cash Process Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-lead-cash-process-management.md)
 
 **Related topics**  
 
 
-[[create-checklists-l2c-process-management|Create and manage task checklists]]
+[Create and manage task checklists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-checklists-l2c-process-management.md)
 
-[[add-attachments-sales-process|Add attachments for a sales process record]]
+[Add attachments for a sales process record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/add-attachments-sales-process.md)
 
-[[view-send-emails-sales-process|View and send emails in Lead-to-Cash Process Management]]
+[View and send emails in Lead-to-Cash Process Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/view-send-emails-sales-process.md)
 
-[[conditions-link-delink-toggle-records|Linking, delinking, and link conversion conditions]]
+[Linking, delinking, and link conversion conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/conditions-link-delink-toggle-records.md)
 
 [Using Sidebar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/using-sidebar.md)
 
-## Related
-
-- [[using-lead-cash-process-management|Using Lead-to-Cash Process Management]]
-- [[create-checklists-l2c-process-management|Create and manage task checklists]]
-- [[add-attachments-sales-process|Add attachments for a sales process record]]
-- [[view-send-emails-sales-process|View and send emails in Lead-to-Cash Process Management]]
-- [[conditions-link-delink-toggle-records|Linking, delinking, and link conversion conditions]]
-- [[explore-lead-cash-process-management|Lead-to-Cash Process Management]]
-- [[reviewing-orchestration-plans-order-fulfillment|Order fulfillment]]

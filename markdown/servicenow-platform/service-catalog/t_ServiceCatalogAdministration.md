@@ -14,7 +14,7 @@ breadcrumb: [Legacy service catalog access controls, Service Catalog security, C
 
 # Service Catalog administration
 
-[[service-catalog|Service Catalog]] enables an administrator to configure the service catalog.
+Service Catalog enables an administrator to configure the service catalog.
 
 ## Before you begin
 
@@ -37,6 +37,3 @@ Role required: admin
 
 **Parent Topic:**[Legacy service catalog access controls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_LegcySrvcCatAccessCntrol.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]

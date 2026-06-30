@@ -18,7 +18,7 @@ View validation failures and warnings on the **Validation results** tab for the 
 
 ## Before you begin
 
-**Important:** Starting with the Washington D.C. release, [[devops-config-landing-page|DevOps Config]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+**Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 Role required: cdm\_viewer or cdm\_editor or cdm\_exporter\_editor or cdm\_policy\_editor or cdm\_admin
 
@@ -154,7 +154,3 @@ Path to the node in the data tree that includes the impacted data.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]

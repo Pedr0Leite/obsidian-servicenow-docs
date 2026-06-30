@@ -12,7 +12,7 @@ breadcrumb: [Lead Management reference, Lead and opportunity management, Referen
 
 # Components installed with Lead Management
 
-Several types of components are installed with activation of the [[lead-management|Lead Management]] plugin, including tables and user roles.
+Several types of components are installed with activation of the Lead Management plugin, including tables and user roles.
 
 ## Roles installed
 
@@ -174,9 +174,5 @@ Lead
 Prospective customers who have expressed their interest through various channels, such as website forms, social media, or events.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[lead-management-reference|Lead Management reference]]
+</table>**Parent Topic:**[Lead Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management-reference.md)
 
-## Related
-
-- [[lead-management-reference|Lead Management reference]]
-- [[lead-management|Lead Management]]

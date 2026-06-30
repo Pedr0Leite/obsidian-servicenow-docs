@@ -24,7 +24,7 @@ Supported version: 2.4.1.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Integrations** &gt; **Connector Instances**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Integrations** &gt; **Connector Instances**.
 
 2.  Click **New**.
 
@@ -120,6 +120,3 @@ Provide the Icinga alert type details. There are 2 types of an alert in Icinga2:
 
 **Parent Topic:**[Configure a pull connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMConfigureConnectorInstance.md)
 
-## Related
-
-- [[c_EM|Event Management]]

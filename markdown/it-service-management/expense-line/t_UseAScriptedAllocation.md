@@ -59,7 +59,7 @@ You can use scripted allocations to perform any of the following actions.
 
 [Create an allocation rule]()
 
-[Automatic [[c_ExpenseLine|expense line]] creation]()
+[Automatic expense line creation]()
 
 [Create expense lines manually]()
 
@@ -67,6 +67,3 @@ You can use scripted allocations to perform any of the following actions.
 
 [Create a sample allocation rule]()
 
-## Related
-
-- [[c_ExpenseLine|Expense Line]]

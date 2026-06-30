@@ -22,7 +22,7 @@ Role required: sn\_customerservice\_manager, admin
 
 Administrators and customer service managers can create entitlements for a household. These entitlements apply to the current members of that household.
 
-When a case is created for a household or a consumer, the **Entitlement** field on the [[r_CustomerServiceCaseForm|Case form]] [[migration-lists|lists]] the available entitlements:
+When a case is created for a household or a consumer, the **Entitlement** field on the Case form lists the available entitlements:
 
 |If these fields are filled in|The **Entitlement** field lists these entitlements|
 |-----------------------------|--------------------------------------------------|
@@ -44,18 +44,12 @@ When a case is created for a household or a consumer, the **Entitlement** field 
 
 4.  If desired, select a different household member in the **Consumer** field.
 
-5.  Fill in the remaining fields on the [[entitlement-form|Entitlement form]].
+5.  Fill in the remaining fields on the Entitlement form.
 
-    For more information, see [[c_CreateAnEntitlement|Create entitlements for CSM entities]].
+    For more information, see [Create entitlements for CSM entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_CreateAnEntitlement.md).
 
 6.  Select **Submit**.
 
-    The entitlement is added to the Entitlements related list on the [[data-model-household-form|Household form]].
+    The entitlement is added to the Entitlements related list on the Household form.
 
-## Related
 
-- [[c_CreateAnEntitlement|Create entitlements for CSM entities]]
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[migration-lists|Lists]]
-- [[entitlement-form|Entitlement form]]
-- [[data-model-household-form|Household form]]

@@ -74,7 +74,7 @@ Record pages and page variants created with this template enable agents to manag
 
 The ITSM voice interaction record page variant is included with the ITSM Configurable Workspace plugin and has a dependency on the Interaction Controls Component plugin. This page variant is available for users with the interaction controls enabled. For more information, see [OpenFrame configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/itsm-native-voice-record-page.md).
 
-This page variant includes the following [[settings-mobile|settings]].
+This page variant includes the following settings.
 
 <table id="table_zqv_lvv_q1c"><thead><tr><th>
 
@@ -304,7 +304,7 @@ The ITSM voice interaction record page supports actions from the following Custo
 -   CSM Workspace \(com.snc.agent\_workspace.csm
 -   Major Issue Management \(com.sn\_majorissue\_mgt\)
 -   Customer Service with Service Management \(com.sn\_cs\_sm\)
--   Customer Service with [[c_RequestManagement|Request Management]] \(com.sn\_cs\_sm\_request\)
+-   Customer Service with Request Management \(com.sn\_cs\_sm\_request\)
 -   Time Recording for Customer Service \(com.snc.csm\_time\_recording\)
 -   Omni-Experience Standard Feature Set
 
@@ -405,7 +405,3 @@ The agent can switch between phone interactions and chat interactions. If an int
 
 **Parent Topic:**[Configuring Interaction Management in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configure-interaction-management-sow.md)
 
-## Related
-
-- [[settings-mobile|Settings]]
-- [[c_RequestManagement|Request Management]]

@@ -20,7 +20,7 @@ Role required: sn\_rtl\_instore\_ops.associate or sn\_rtl\_instore\_ops.manager
 
 ## Procedure
 
-1.  In **[[rahi-retail-operations-overview|Retail]] Mobile**, select **My Work**.
+1.  In **Retail Mobile**, select **My Work**.
 
 2.  Open the store case and select **Tasks** related list to view the associated unassigned store tasks.
 
@@ -36,13 +36,8 @@ Role required: sn\_rtl\_instore\_ops.associate or sn\_rtl\_instore\_ops.manager
 
     **Note:**
 
-    -   Once you create and fulfill the questionnaire, you can view the smart assessment instance through View Questionnaire option on mobile app and the list of smart assessment templates through the [[rahi-retail-create-a-questionnaire-template|Retail Questionnaire]] list on the workspace.
+    -   Once you create and fulfill the questionnaire, you can view the smart assessment instance through View Questionnaire option on mobile app and the list of smart assessment templates through the Retail Questionnaire list on the workspace.
     -   Only users assigned to the corresponding store task or smart assessment instance can perform fulfillment actions.
 
-**Parent Topic:**[[rahi-retail-fulfill-in-store-ops-mobile|Fulfill In-store operations cases and tasks in Retail Mobile]]
+**Parent Topic:**[Fulfill In-store operations cases and tasks in Retail Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-fulfill-in-store-ops-mobile.md)
 
-## Related
-
-- [[rahi-retail-fulfill-in-store-ops-mobile|Fulfill In-store operations cases and tasks in Retail Mobile]]
-- [[rahi-retail-operations-overview|Retail]]
-- [[rahi-retail-create-a-questionnaire-template|Retail questionnaire]]

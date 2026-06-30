@@ -14,11 +14,11 @@ breadcrumb: [Configure, Healthcare and Life Sciences Service Management Core, He
 
 # Assign roles for Healthcare and Life Sciences Service Management Core users
 
-Assign roles to control access to features, capabilities, and data in the [[hcls-core-app|Healthcare and Life Sciences Service Management Core]] application.
+Assign roles to control access to features, capabilities, and data in the Healthcare and Life Sciences Service Management Core application.
 
 ## Before you begin
 
-Set the application scope to [[hcls-overview|Healthcare and Life Sciences]] using the application picker. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
+Set the application scope to Healthcare and Life Sciences using the application picker. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
 
 Role required: sn\_hcls.manager or admin
 
@@ -212,7 +212,7 @@ sn\_hcls.healthcare\_agent
 
 </td><td>
 
-Accesses and views healthcare data related to patients as a contact center agent. Can view and edit the CSM Households table, [[hcls-memb-plan-table|Member Plan table]], [[hcls-pre-auth-header-table|Pre-authorization Request table]], and all clinical tables.
+Accesses and views healthcare data related to patients as a contact center agent. Can view and edit the CSM Households table, Member Plan table, Pre-authorization Request table, and all clinical tables.
 
  Can create household members and pre-auth requests.
 
@@ -411,9 +411,3 @@ sn\_hcls.revenue\_cycle\_data\_viewer
     -   To assign a role to a user, see [Assign a role to a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AssignARoleToAUser.md).
     -   To assign a role to a group, see [Assign a role to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AssignRoleToGroup.md).
 
-## Related
-
-- [[hcls-core-app|Healthcare and Life Sciences Service Management Core]]
-- [[hcls-overview|Healthcare and Life Sciences]]
-- [[hcls-memb-plan-table|Member plan table]]
-- [[hcls-pre-auth-header-table|Pre-authorization request table]]

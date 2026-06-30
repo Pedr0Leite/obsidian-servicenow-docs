@@ -26,11 +26,11 @@ Select a tile to get started.
 
 </td><td>
 
-[Install\[Omitted image "bus-root-cause-issue-resolution.svg"\] Alt text:[[teams-install|Install Conversational Integration with Microsoft Teams]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/teams-install.md)
+[Install\[Omitted image "bus-root-cause-issue-resolution.svg"\] Alt text:Install Conversational Integration with Microsoft Teams.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/teams-install.md)
 
 </td><td>
 
-[Integrate\[Omitted image "bus-integration-and-apis.svg"\] Alt text:Integrate Conversational Integration with Microsoft Teams with [[virtual-agent-landing-page|Virtual Agent]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-integ-msteams.md)
+[Integrate\[Omitted image "bus-integration-and-apis.svg"\] Alt text:Integrate Conversational Integration with Microsoft Teams with Virtual Agent.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-integ-msteams.md)
 
 </td></tr><tr><td>
 
@@ -38,7 +38,7 @@ Select a tile to get started.
 
 </td><td>
 
-[Now Assist\[Omitted image "bus-ai-sparkle.svg"\] Alt text:Use [[now-assist-in-va-landing|Now Assist in Virtual Agent]] in your Microsoft Teams integration.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/na-va-llm-teams.md)
+[Now Assist\[Omitted image "bus-ai-sparkle.svg"\] Alt text:Use Now Assist in Virtual Agent in your Microsoft Teams integration.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/na-va-llm-teams.md)
 
 </td><td>
 
@@ -66,13 +66,7 @@ Configure your Microsoft Teams bots that are integrated with Virtual Agent to en
 -   **[Using Now Assist in Virtual Agent conversations with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/na-va-llm-teams.md)**  
 The Now Assist provides you with the large language model \(LLM\)-based conversational experience during your conversations with a Now Virtual Agent bot or a Self-configured bot that is integrated with Microsoft Teams.
 -   **[Virtual Agent feature support in Microsoft Teams conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-teams-other-features.md)**  
-The Microsoft Teams app supports Virtual Agent features, such as [[virtual-agent-controls|Assistant Designer controls]] for creating conversations, notifications, AI Search results, and more.
+The Microsoft Teams app supports Virtual Agent features, such as Assistant Designer controls for creating conversations, notifications, AI Search results, and more.
 
 **Parent Topic:**[Integrating Virtual Agent with messaging apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-integration-messaging-apps.md)
 
-## Related
-
-- [[teams-install|Install Conversational Integration with Microsoft Teams]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]
-- [[virtual-agent-controls|Assistant Designer controls]]

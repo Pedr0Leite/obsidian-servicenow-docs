@@ -13,7 +13,7 @@ breadcrumb: [Configure, Next Experience UI, Configure UIs and portals, Configure
 
 # Performing admin user functions in Next Experience
 
-Use admin functions in the Next Experience user menu to elevate roles, impersonate users, and [[configure-onboarding-modals|configure]] a workspace.
+Use admin functions in the Next Experience user menu to elevate roles, impersonate users, and configure a workspace.
 
 ## Before you begin
 
@@ -55,17 +55,11 @@ Configure Workspace
 
 </td><td>
 
-Dynamic links to configuration pages to access configurations relevant to [[lists-configurable-workspace|lists]] or [[form-configurable-workspace|forms]] more easily. These items display in the user menu when a workspace is in focus.-   **Configure workspace**: Link to configure the workspace in UI Builder.
+Dynamic links to configuration pages to access configurations relevant to lists or forms more easily. These items display in the user menu when a workspace is in focus.-   **Configure workspace**: Link to configure the workspace in UI Builder.
 -   **Configure page**: Menu to configure page elements in the classic environment. The items display dynamically to show items that pertain to lists and items that pertain to forms.
 
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[[next-experience-ui-admin|Configuring the Next Experience UI]]
+**Parent Topic:**[Configuring the Next Experience UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-ui-admin.md)
 
-## Related
-
-- [[next-experience-ui-admin|Configuring the Next Experience UI]]
-- [[configure-onboarding-modals|Configure]]
-- [[lists-configurable-workspace|Lists]]
-- [[form-configurable-workspace|Forms]]

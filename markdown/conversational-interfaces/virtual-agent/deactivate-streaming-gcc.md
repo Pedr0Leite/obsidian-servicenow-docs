@@ -23,7 +23,7 @@ Role required: admin or virtual\_agent\_admin.
 
 ## About this task
 
-**Note:** Custom Engine Agent \(CEA\) is replacing Declarative Agent \(DA\), the prior Microsoft Copilot integration. The CEA enables [[virtual-agent-landing-page|Virtual Agent]] to be discoverable by Microsoft Copilot, with full functional access to [[now-assist-in-va-landing|Now Assist in Virtual Agent]] and multi-turn conversations.
+**Note:** Custom Engine Agent \(CEA\) is replacing Declarative Agent \(DA\), the prior Microsoft Copilot integration. The CEA enables Virtual Agent to be discoverable by Microsoft Copilot, with full functional access to Now Assist in Virtual Agent and multi-turn conversations.
 
 You must have version 10.1.1 or higher of the Microsoft Teams plugin to have CEA support. In version 10.2 of the Microsoft Teams plugin, streaming is inactive by default and CEA is active by default.
 
@@ -52,7 +52,3 @@ If you want to reactivate streaming, repeat these steps, but set the **Value** f
 
 **Parent Topic:**[Specialized Virtual Agent integrations for Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/specialized-va-integs-msteams.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]

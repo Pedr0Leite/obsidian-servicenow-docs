@@ -19,7 +19,7 @@ Use the breadcrumb trail at the top of the page title to open a different level 
 
 ## Before you begin
 
-Select a functional location from the Home menu in the [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]] to set the context.
+Select a functional location from the Home menu in the Digital Factory Workspace to set the context.
 
 Role required: ICW worker
 
@@ -40,6 +40,3 @@ Role required: ICW worker
 
 **Parent Topic:**[Functional location vertical navigation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/functional-location-vertical-navigation.md)
 
-## Related
-
-- [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]

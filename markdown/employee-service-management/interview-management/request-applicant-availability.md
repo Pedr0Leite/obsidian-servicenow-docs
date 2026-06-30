@@ -22,7 +22,7 @@ Role required: sn\_ta\_hiring\_core.recruiter or sn\_ta\_hiring\_core.recruitmen
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[recruitment-workspace-concept|Recruitment workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Recruitment workspace**.
 
 2.  Select the required job requisition.
 
@@ -30,7 +30,7 @@ Role required: sn\_ta\_hiring\_core.recruiter or sn\_ta\_hiring\_core.recruitmen
 
 4.  On the application page, select **Request scheduling preferences**.
 
-5.  On the [[request-availability-form|Request scheduling preferences form]], fill in the fields.
+5.  On the Request scheduling preferences form, fill in the fields.
 
     For a description of the field values, see [Request scheduling preferences form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/request-availability-form.md).
 
@@ -44,7 +44,3 @@ Role required: sn\_ta\_hiring\_core.recruiter or sn\_ta\_hiring\_core.recruitmen
 
 **Parent Topic:**[Using Interview Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/using-interview-mgmnt.md)
 
-## Related
-
-- [[recruitment-workspace-concept|Recruitment workspace]]
-- [[request-availability-form|Request scheduling preferences form]]

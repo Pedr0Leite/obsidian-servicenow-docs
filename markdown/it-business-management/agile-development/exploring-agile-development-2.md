@@ -14,14 +14,14 @@ breadcrumb: [Agile Development 2.0, Agile Development, Strategic Portfolio Manag
 
 # Exploring Agile Development 2.0
 
-Learn about the Scrum methodology framework, typical activities, and artifacts that are used in ServiceNow® [[agile-landing-page|Agile Development 2.0]].
+Learn about the Scrum methodology framework, typical activities, and artifacts that are used in ServiceNow® Agile Development 2.0.
 
 Agile Development 2.0 supports both product-based and project-based development efforts. For a quick overview of these approaches, watch the video.
 
-Use the information in the following sections for a deeper understanding of [[agile-development|Agile Development]] basics, its process, and the scenarios in which Agile Development is used. Also, learn about the features of the Agile Development 2.0 application.
+Use the information in the following sections for a deeper understanding of Agile Development basics, its process, and the scenarios in which Agile Development is used. Also, learn about the features of the Agile Development 2.0 application.
 
 -   **[Basics of Agile Development](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/basics-agile-development.md)**  
-Scrum is one of the popular methodologies of Agile Development, which includes a fixed sprint schedule and regular requirements testing. These activities are performed by common roles such as product owner, scrum master, and group members. Learn about the [[basics-agile-development|basics of Agile Development]] process.
+Scrum is one of the popular methodologies of Agile Development, which includes a fixed sprint schedule and regular requirements testing. These activities are performed by common roles such as product owner, scrum master, and group members. Learn about the basics of Agile Development process.
 -   **[Agile Development process flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/agile-development-process-flow.md)**  
 Learn the process that is used to manage product development efforts in Agile Development 2.0, such as creating a product or tracking a sprint or release.
 -   **[Agile Development use cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/agile-workflow-use-cases.md)**  
@@ -33,13 +33,7 @@ Create defects for the issues that are reported for your product using Agile Dev
 -   **[Enhancement requests in Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/enhancement-requests.md)**  
 Create enhancement requests for different areas of your product in Agile Development 2.0. You can then create stories for these requests so that your teams can start working on developing them.
 -   **[Agile Development — Unified Backlog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/unified-backlog.md)**  
-The ServiceNow® [[unified-backlog|Agile Development — Unified Backlog]] application helps you maintain a centralized backlog for records of different task types, such as defects, problems, or enhancements. Prioritize different task types from one location, and automatically create stories for these records, saving time.
+The ServiceNow® Agile Development — Unified Backlog application helps you maintain a centralized backlog for records of different task types, such as defects, problems, or enhancements. Prioritize different task types from one location, and automatically create stories for these records, saving time.
 
 **Parent Topic:**[Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/agile-landing-page.md)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]
-- [[agile-development|Agile Development]]
-- [[basics-agile-development|Basics of Agile Development]]
-- [[unified-backlog|Agile Development — Unified Backlog]]

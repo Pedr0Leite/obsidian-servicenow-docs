@@ -24,7 +24,7 @@ Role required: sn\_lg\_ip.patent\_fulfiller
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Counsel Center**.
 
 2.  Based on the resolution of the patent application review by the outside counsel, either close the request or indicate that the patent was filed.
 
@@ -43,10 +43,10 @@ Actions
 </td><td>
 
 1.  Select the List icon \(\[Omitted image "lsd-lcc-list-icon.png"\] Alt text: List icon\) from the primary navigation and in the Legal Requests section of the **Lists** menu, select **All**.
-2.  Open the [[legal-invention-disclosure-landing|Legal Invention Disclosure]] request and select the **Legal Matters** tab.
+2.  Open the Legal Invention Disclosure request and select the **Legal Matters** tab.
 3.  Open the matter associated with the request.
 4.  Select **Patent filed**.
-5.  On the form, provide the [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] number, filing date, and title of the application from the outside counsel's email message.
+5.  On the form, provide the reference number, filing date, and title of the application from the outside counsel's email message.
 6.  Select **Submit**.
     -   A Patent Repo record to track the details and status of the application is automatically generated and is accessible on the **Patent repositories** tab.
     -   A new matter task named "Patent filed" is generated and is accessible in the **Tasks** tab.
@@ -132,8 +132,3 @@ Actions
 
 **Parent Topic:**[Using the Legal Invention Disclosure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/use-legal-invention-disclosure.md)
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[legal-invention-disclosure-landing|Legal Invention Disclosure]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

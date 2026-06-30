@@ -24,14 +24,14 @@ Ensure you have enabled following.
 
 -   Territory model. For more information, see [Enable the Field Service territory model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/enable-territory-model.md).
 -   Work force optimization. For more information, see [Configuring Workforce Optimization for Field Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/configuring-wfo-fsm.md).
--   Enable **Enable Shift Scheduling for FSM to determine availability** and **Enable/disable association of territory resources with demand channels** configurations. For more information, see [[t_ConfigureFieldService|Global domain configurations]].
--   Advanced [[capacity-management|Capacity and Reservations Management]]. For information, see [Activate Field Service Advanced Capacity and Reservations management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/capacity-console-plugin.md).
+-   Enable **Enable Shift Scheduling for FSM to determine availability** and **Enable/disable association of territory resources with demand channels** configurations. For more information, see [Global domain configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/t_ConfigureFieldService.md).
+-   Advanced Capacity and Reservations Management. For information, see [Activate Field Service Advanced Capacity and Reservations management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/capacity-console-plugin.md).
 
 ## About this task
 
 Mapping technicians to demand channels within a territory on a time-bound, recurring basis allows appropriate scheduling to reflect real-world patterns, so tasks are assigned to technicians qualified to handle them at the time they are scheduled. You can define repeating schedules driven by union rules, part-time shifts, or regional strategies. For example, a technician might handle installations on weekdays and repairs only on alternate Saturdays.
 
-This association helps assign the tasks to the appropriate technicians during [[dynamic-scheduling|dynamic scheduling]], [[schedule-optimization|schedule optimization]], or manual scheduling. This also helps calculate accurate appointment availability in scripted mode based on technician demand channel recurrence.
+This association helps assign the tasks to the appropriate technicians during dynamic scheduling, schedule optimization, or manual scheduling. This also helps calculate accurate appointment availability in scripted mode based on technician demand channel recurrence.
 
 ## Procedure
 
@@ -123,9 +123,3 @@ Indicates if the association of technician with demand channel is active. Select
 
 Technicians are associated with demand channels.
 
-## Related
-
-- [[t_ConfigureFieldService|Global domain configurations]]
-- [[capacity-management|Capacity and Reservations Management]]
-- [[dynamic-scheduling|Dynamic scheduling]]
-- [[schedule-optimization|Schedule Optimization]]

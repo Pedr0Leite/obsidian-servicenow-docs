@@ -15,13 +15,13 @@ breadcrumb: [Explore, Now Assist, Common GRC features, Governance, Risk, and Com
 
 # Supporting information for Now Assist for Integrated Risk Management \(IRM\)
 
-Get a quick overview of the important information that is related to the [[now-assist-for-irm|Now Assist for Integrated Risk Management \(IRM\)]] application.
+Get a quick overview of the important information that is related to the Now Assist for Integrated Risk Management \(IRM\) application.
 
 ## Supported versions
 
 Now Assist for IRM is supported starting from the Yokohama Patch 3 release.
 
--   GRC: [[reg-change-mgmt-landing-page|Regulatory Change Management]] application: version 20.1.2
+-   GRC: Regulatory Change Management application: version 20.1.2
 -   Now Assist for IRM application: version 20.1.1
 
 ## Supported user interfaces
@@ -42,7 +42,7 @@ Workflow
 
 </th></tr></thead><tbody><tr><td>
 
-[[risk-workspace|Risk Workspace]]
+Risk Workspace
 
 </td><td>
 
@@ -55,7 +55,7 @@ Workflow
 
 -   Optimize GRC issue resolution agentic workflow
 -   Get Regulatory Insights agentic workflow
--   [[generate_regulatory_action_plans|Generate Regulatory Action Plans]] agentic workflow
+-   Generate Regulatory Action Plans agentic workflow
 
 </td></tr><tr><td>
 
@@ -96,9 +96,3 @@ This store app has the following dependencies:
 
 For more information, see [Configure Now Assist for Integrated Risk Management \(IRM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/configure-now-assist-for-irm.md).
 
-## Related
-
-- [[now-assist-for-irm|Now Assist for Integrated Risk Management \(IRM\)]]
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]
-- [[risk-workspace|risk workspace]]
-- [[generate_regulatory_action_plans|Generate regulatory action plans]]

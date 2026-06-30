@@ -16,28 +16,18 @@ Enable and configure email client.
 
 ## Configuration overview
 
--   **[[enable-email-client|Enable the email client for a table]]**  
+-   **[Enable the email client for a table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/enable-email-client.md)**  
 Enable the email client for a table so that users can send emails directly from the table record.
--   **[[email-client-configuration|Email client configurations]]**  
-Use email client configurations to manage the behavior of your [[c_EnableTheEmailClient|email client]]. Each configuration consists of different email controls for setting allowable email recipients and email addresses.
--   **[[r_EnableTheSMSDeliveryOption|Enable SMS delivery with the email client]]**  
+-   **[Email client configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/email-client-configuration.md)**  
+Use email client configurations to manage the behavior of your email client. Each configuration consists of different email controls for setting allowable email recipients and email addresses.
+-   **[Enable SMS delivery with the email client](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_EnableTheSMSDeliveryOption.md)**  
 Give users the option to send an email client message as an SMS text message.
--   **[[t_CreateAnEmailClientTemplate|Create an email client template]]**  
+-   **[Create an email client template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAnEmailClientTemplate.md)**  
 Create a different template for each table that uses the email client to pre-populate data for recipients and email content.
--   **[[quick-message|Composing emails with quick messages]]**  
+-   **[Composing emails with quick messages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/quick-message.md)**  
 Insert predefined content into the message body of emails that you send from the email client.
--   **[[email-address-internationalization|Email address internationalization]]**  
+-   **[Email address internationalization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/email-address-internationalization.md)**  
 Email address internationalization allows international character support for email addresses for non-English characters when sending and receiving emails. Email addresses can have non American Standard Code for Information Interchange \(ASCII\) characters.
 
-**Parent Topic:**[[email-client-landing|Email client]]
+**Parent Topic:**[Email client](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/email-client-landing.md)
 
-## Related
-
-- [[enable-email-client|Enable the email client for a table]]
-- [[email-client-configuration|Email client configurations]]
-- [[r_EnableTheSMSDeliveryOption|Enable SMS delivery with the email client]]
-- [[t_CreateAnEmailClientTemplate|Create an email client template]]
-- [[quick-message|Composing emails with quick messages]]
-- [[email-address-internationalization|Email address internationalization]]
-- [[email-client-landing|Email client]]
-- [[c_EnableTheEmailClient|Email client]]

@@ -18,7 +18,7 @@ Activate the content pack ServiceNow® Store application for the Platform Analyt
 
 ## Before you begin
 
-The Usage Insights API application from the [[servicenow-store|ServiceNow Store]] must be activated in your instance.
+The Usage Insights API application from the ServiceNow Store must be activated in your instance.
 
 Role required: admin
 
@@ -26,7 +26,7 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **Available To Obtain From Store**.
 
-2.  Browse for Advanced [[ia-ai-search|AI Search]] Management Tools and verify that you have the necessary valid entitlements.
+2.  Browse for Advanced AI Search Management Tools and verify that you have the necessary valid entitlements.
 
     You need a Now Support account and permission to request applications for the instances under consideration. The Now Support account and the instance must be part of the same company. For more information, see [Install a ServiceNow Product](https://store.servicenow.com/sn_appstore_store.do#!/store/help?article=KB0030186) on the ServiceNow Store.
 
@@ -45,10 +45,5 @@ The following application menus and modules appear in the application navigator:
 |AI Search dashboard|**AI Search** &gt; **AI Search Analytics** &gt; **Search Index Analytics**|
 |Search preview UI|**AI Search** &gt; **Preview** &gt; **Search Preview**|
 
-**Note:** Immediately after installation, the AI Search dashboards will be empty. The dashboards may take up to an hour to populate with [[hs-results|results]].
+**Note:** Immediately after installation, the AI Search dashboards will be empty. The dashboards may take up to an hour to populate with results.
 
-## Related
-
-- [[servicenow-store|ServiceNow Store]]
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]

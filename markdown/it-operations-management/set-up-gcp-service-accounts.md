@@ -18,24 +18,16 @@ GCP service account is a unique account typically used by an application or comp
 
 ## Verify the REST API Permissions
 
-Download the [Cloud Discovery patterns spreadsheet](https://downloads.docs.servicenow.com/resource/enus/api/servicenow-discovery-patterns-api-details.xlsx) so you can grant user permissions required for running the [[r-discovery|Discovery]] patterns. In addition to permissions, the spreadsheet also includes useful information such as pattern names, types, CI Classes, and links to vendor documentation. New patterns are available quarterly, so check periodically to be sure you have the latest version of the spreadsheet.
+Download the [Cloud Discovery patterns spreadsheet](https://downloads.docs.servicenow.com/resource/enus/api/servicenow-discovery-patterns-api-details.xlsx) so you can grant user permissions required for running the Discovery patterns. In addition to permissions, the spreadsheet also includes useful information such as pattern names, types, CI Classes, and links to vendor documentation. New patterns are available quarterly, so check periodically to be sure you have the latest version of the spreadsheet.
 
--   **[[itom-create-google-api-credentials|Configure the Google API credentials for Cloud Discovery]]**  
+-   **[Configure the Google API credentials for Cloud Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-create-google-api-credentials.md)**  
 Create Google API credentials to allow Cloud Discovery to access the data on your Google account securely.
--   **[[google-api-credentials-form|Google API Credentials Form]]**  
+-   **[Google API Credentials Form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/google-api-credentials-form.md)**  
 Fill in the Google API Credentials form to configure the credentials.
--   **[[create-gcp-service-accounts|Create GCP service accounts]]**  
+-   **[Create GCP service accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/create-gcp-service-accounts.md)**  
 Create Google Cloud Platform \(GCP\) service accounts on the ServiceNow AI Platform to access your GCP account during GCP discovery.
--   **[[gcp-access-and-permission-using-policies|GCP access and permission using policies]]**  
+-   **[GCP access and permission using policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/gcp-access-and-permission-using-policies.md)**  
 Google Cloud Platform \(GCP\) access and permission using policies provide privileges for secure cloud resource utilization and management in GCP.
 
-**Parent Topic:**[[setup-cloud-service-account|Set up a cloud service account]]
+**Parent Topic:**[Set up a cloud service account](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/setup-cloud-service-account.md)
 
-## Related
-
-- [[itom-create-google-api-credentials|Configure the Google API credentials for Cloud Discovery]]
-- [[google-api-credentials-form|Google API Credentials Form]]
-- [[create-gcp-service-accounts|Create GCP service accounts]]
-- [[gcp-access-and-permission-using-policies|GCP access and permission using policies]]
-- [[setup-cloud-service-account|Set up a cloud service account]]
-- [[r-discovery|Discovery]]

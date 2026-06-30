@@ -16,7 +16,7 @@ Several component types are installed with Geolocation.
 
 The Geolocation plugin adds a field called [Geolocation tracked](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_InstalledWithGeolocation.md) to the User `[sys_user]` table. This field allows the system to track individual users by their geographical coordinates.
 
-**Parent Topic:**[[c_Geolocation|Geolocation]]
+**Parent Topic:**[Geolocation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_Geolocation.md)
 
 ## Business rules installed with geolocation
 
@@ -44,7 +44,7 @@ User \[sys\_user\]
 
 </td><td>
 
-Populates the **Latitude** and **Longitude** fields on the [[r_GeolocationHistory|Geolocation History]] \[geo\_history\] table when the **Latitude** and **Longitude** fields are updated on the User \[sys\_user\] table.
+Populates the **Latitude** and **Longitude** fields on the Geolocation History \[geo\_history\] table when the **Latitude** and **Longitude** fields are updated on the User \[sys\_user\] table.
 
 </td></tr></tbody>
 </table>**Related topics**  
@@ -90,7 +90,7 @@ Populates the **Latitude** and **Longitude** fields on a user record with GPS co
 
 Geolocation provides the following configurable properties in **Geolocation** &gt; **Administration** &gt; **Geolocation Properties**.
 
-The Google Maps plugin provides additional [map properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/set-up-google-maps-api.md) that are used to implement and control specific geolocation features. You must have a [[r_GeolocationGoogleKey|private key]] for Google Maps API for Business to take advantage of the properties listed here.
+The Google Maps plugin provides additional [map properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/set-up-google-maps-api.md) that are used to implement and control specific geolocation features. You must have a [private key](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_GeolocationGoogleKey.md) for Google Maps API for Business to take advantage of the properties listed here.
 
 <table id="table_n35_gbp_pp"><thead><tr><th>
 
@@ -154,7 +154,7 @@ glide.geolocation.proximity
 Minimum distance an agent must move to be considered in a new location \(in meters\). This setting establishes a geolocation perimeter that prevents ServiceNow from creating unnecessary history records when an agent has multiple tasks in the same vicinity. An example of this might be when an agent has several tasks in one building. The system assumes that all task activity within the specified radius is part of a single record and does not create additional records when the agent moves from task to task around the building.-   **Type**: Integer
 -   **Default value**: 500
 
-For an explanation of how [[r_LocationTracking|location tracking]] works, using both the frequency and criteria properties, see the section How location tracking works, at the end of the table.
+For an explanation of how location tracking works, using both the frequency and criteria properties, see the section How location tracking works, at the end of the table.
 
 **Note:** The iOS version of the app updates geolocation only when the mobile device detects a significant location change, which is determined by the your device's operating system. When the operating system updates its location, your app updates with that location change. Distance and time property values are not honored for the iOS version of ServiceNow apps.
 
@@ -252,9 +252,3 @@ Script includes are added with activation of Geolocation.
 
 [Installed with geolocation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_InstalledWithGeolocation.md)
 
-## Related
-
-- [[c_Geolocation|Geolocation]]
-- [[r_GeolocationGoogleKey|Geolocation Google key]]
-- [[r_GeolocationHistory|Geolocation history]]
-- [[r_LocationTracking|Location tracking]]

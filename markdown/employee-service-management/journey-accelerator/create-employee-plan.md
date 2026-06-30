@@ -14,7 +14,7 @@ breadcrumb: [Use, Journey Accelerator, Employee Journey Management, HR Service D
 
 # Create and track plans for your employees
 
-Create and manage employee transition plans by using [[journey-accelerator-1|Journey Accelerator]] templates. You can use role-based plans to create consistent plans for different roles on your team.
+Create and manage employee transition plans by using Journey Accelerator templates. You can use role-based plans to create consistent plans for different roles on your team.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: All employees with direct reports
 
 ## Procedure
 
-1.  In the [[employee-center-landing-page|Employee Center]] \(EC\) portal, click **Action Plans**.
+1.  In the Employee Center \(EC\) portal, click **Action Plans**.
 
     **Note:** Depending on the Employee Center configuration, the Action plans menu can be in the top header menu or under the More list menu. You can also access action plans from My active items list.
 
@@ -80,14 +80,9 @@ Role required: All employees with direct reports
 
 
 -   **[Edit existing Journey Accelerator plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-accelerator/manager-edit-plans.md)**  
-[[manager-edit-plans|Edit existing Journey Accelerator plans]] by adding, removing, or rearranging stages and tasks to meet the needs of the employee and your team.
+Edit existing Journey Accelerator plans by adding, removing, or rearranging stages and tasks to meet the needs of the employee and your team.
 -   **[Manage action plan to-do tasks and create templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-accelerator/manage-todo-tasks-as-manager.md)**  
 Create, modify, and manage to-do tasks for employees and mentors as part of your management responsibilities.
 
 **Parent Topic:**[Working with Journey Accelerator plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-accelerator/working-with-journey-accelerator-plans.md)
 
-## Related
-
-- [[journey-accelerator-1|Journey Accelerator]]
-- [[employee-center-landing-page|Employee Center]]
-- [[manager-edit-plans|Edit existing Journey Accelerator plans]]

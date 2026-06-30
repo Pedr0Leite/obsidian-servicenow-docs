@@ -14,7 +14,7 @@ breadcrumb: [MID Server reference, MID Server, Manage instance data sources, Ext
 
 # MID Server heartbeat
 
-The instance checks the [[mid-server-landing|MID Server]] for a response every 5 minutes, using a synthetic transaction monitoring system.
+The instance checks the MID Server for a response every 5 minutes, using a synthetic transaction monitoring system.
 
 <table id="table_ljs_dsf_khb"><tbody><tr><td>
 
@@ -77,6 +77,3 @@ To change the trigger interval for the Heartbeat probe, navigate to **System Sch
 
 [Pause the MID Server]()
 
-## Related
-
-- [[mid-server-landing|MID Server]]

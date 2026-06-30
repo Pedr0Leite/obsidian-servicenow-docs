@@ -15,7 +15,7 @@ breadcrumb: [Cloud resource discovery references, Data collected by ITOM Visibil
 
 # Data collected for Microsoft Azure Cloud Discovery
 
-[[r-discovery|Discovery]] collects information about cloud resources in Microsoft Azure datacenters. Discovering some of these resources may require updating to the latest version of the Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns application from the ServiceNow Store.
+Discovery collects information about cloud resources in Microsoft Azure datacenters. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 ## Request apps on the Store
 
@@ -27,7 +27,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
     -   Discovery and Service Mapping Patterns
     -   CMDB CI Class Models
     -   Visibility Content
--   **[[create-azure-cloud-credentials|Create Azure cloud credentials]]**
+-   **Create Azure cloud credentials**
 
     Create Microsoft Azure credentials that can access the Microsoft Azure account. For more information, see [Create Azure cloud credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/create-azure-cloud-credentials.md).
 
@@ -42,7 +42,7 @@ Download the [Cloud Discovery patterns spreadsheet](https://downloads.docs.servi
 
 ## How Discovery finds Microsoft Azure resources
 
-Discovery uses the [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] API and Discovery and Service Mapping Patterns to find cloud resources.
+Discovery uses the Cloud Provisioning and Governance API and Discovery and Service Mapping Patterns to find cloud resources.
 
 <table id="table_wwr_rng_gz"><thead><tr><th>
 
@@ -330,9 +330,3 @@ category
 
 [Agent Client Collector Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-discovery.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[create-azure-cloud-credentials|Create Azure cloud credentials]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]

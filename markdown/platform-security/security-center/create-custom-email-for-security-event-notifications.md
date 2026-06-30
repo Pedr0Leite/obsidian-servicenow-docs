@@ -14,7 +14,7 @@ breadcrumb: [Configure policy preferences, Security Event Notifications, Securit
 
 # Create a custom email for security event notifications
 
-Learn how for creating a custom [[email|email]] for [[security-policies|security event notifications]] by configuring new notifications, setting triggers, defining recipients, and crafting email content with dynamic event fields.
+Learn how for creating a custom email for security event notifications by configuring new notifications, setting triggers, defining recipients, and crafting email content with dynamic event fields.
 
 ## Before you begin
 
@@ -56,7 +56,7 @@ Select the field next to **Send when** label and select **Triggered**.
 
 </td><td>
 
--   Select the local icon next to **Users/Groups in fields**, and select both **[[users|Users]]** and **Groups**. Select the **Add Item** \(&gt;\) icon to move the fields into the **Selected** text field.
+-   Select the local icon next to **Users/Groups in fields**, and select both **Users** and **Groups**. Select the **Add Item** \(&gt;\) icon to move the fields into the **Selected** text field.
 -   Right click on the record header banner and select **Save**.\)
 
 
@@ -76,7 +76,7 @@ Role: ${event_id.role.URI_REF}
 Granted to: ${event_id.granted_to.URI_REF} 
 Granted by: ${event_id.user.URI_REF} 
 Logged at: ${event_id.sys_created_on} 
-[[sec-center-v2|Security Center]] Notification: ${execution.policy.name}
+Security Center Notification: ${execution.policy.name}
 ```
 
 </td></tr></tbody>
@@ -93,9 +93,3 @@ Logged at: ${event_id.sys_created_on}
 
 **Parent Topic:**[Configure preferences for security event notification policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/configure-preferences-for-security-event-notifications.md)
 
-## Related
-
-- [[email|Email]]
-- [[security-policies|Security Event Notifications]]
-- [[users|Users]]
-- [[sec-center-v2|Security Center]]

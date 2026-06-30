@@ -18,11 +18,11 @@ As a manager, assign Learning to your team members to enhance their skills.
 
 ## Before you begin
 
-Role required: sn\_lc.[[exploring-learning-exp|learning]]\_manager
+Role required: sn\_lc.learning\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **[[overview-lxp|My Learning]]** &gt; **[[manager-view-lxp|Assigned to your team]]**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **My Learning** &gt; **Assigned to your team**.
 
 2.  Select **Assign learning**.
 
@@ -57,9 +57,3 @@ Role required: sn\_lc.[[exploring-learning-exp|learning]]\_manager
 
 [Skill sensing for learning content]()
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[employee-center-landing-page|Employee Center]]
-- [[overview-lxp|My Learning]]
-- [[manager-view-lxp|Assigned to your team]]

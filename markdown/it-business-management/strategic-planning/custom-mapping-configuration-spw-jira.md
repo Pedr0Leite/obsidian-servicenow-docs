@@ -26,7 +26,7 @@ This flexibility helps provides a tailored integration experience, so that portf
 
 ## Create custom table mapping for SPW Jira integrations
 
-Create a custom mapping configuration between tables of [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace \(SPW\) and Jira.
+Create a custom mapping configuration between tables of Strategic Planning Workspace \(SPW\) and Jira.
 
 ### Before you begin
 
@@ -48,7 +48,7 @@ For example, if your team uses an issue type like Feature that isn’t mapped by
 
 3.  From the Table Maps related list, select **New**.
 
-4.  On the [[table-map-form-ppw|Table Map form]], fill in the fields.
+4.  On the Table Map form, fill in the fields.
 
     For field information, see [Table Map form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/spw-table-map-form.md).
 
@@ -57,7 +57,7 @@ For example, if your team uses an issue type like Feature that isn’t mapped by
 
 ### What to do next
 
-1.  Validate your new table map configuration by clicking **Validate and fix mapping** from the Jira [[create-a-project-form|project form]].
+1.  Validate your new table map configuration by clicking **Validate and fix mapping** from the Jira project form.
 2.  For this table map, create field mappings. See [Create custom field mapping for SPW Jira integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/custom-mapping-configuration-spw-jira.md).
 
 ## Create custom field mapping for SPW Jira integrations
@@ -135,8 +135,3 @@ For example, Jira Stories include default states such as To Do, In Progress, and
 2.  [Enable bidirectional sync of work items between Jira projects and SPW](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/enable-bidirectional-sync-spw-jira.md).
 3.  [Import issues from Jira to SPW](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/import-issues-from-jira-to-spw.md).
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[table-map-form-ppw|Table map form]]
-- [[create-a-project-form|Project form]]

@@ -32,7 +32,7 @@ After creating diagnostic features, diagnostic scripts, and fix scripts, map the
 
 2.  Select **New**.
 
-3.  On the [[diagnostics-form-finance|Diagnostics form]], fill the fields.
+3.  On the Diagnostics form, fill the fields.
 
     For a description of the field names, see [Diagnostics form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/diagnostics-form.md).
 
@@ -43,6 +43,3 @@ After creating diagnostic features, diagnostic scripts, and fix scripts, map the
 
 **Parent Topic:**[Use Resource Diagnostics to detect corrupt resource data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/use-resource-diagnostics.md)
 
-## Related
-
-- [[diagnostics-form-finance|Diagnostics form]]

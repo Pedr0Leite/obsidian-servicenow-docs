@@ -17,7 +17,7 @@ breadcrumb: [SPO ITAM data model mappings, Reference, Sourcing and Procurement O
 
 Lists the field mappings between ITAM receipt line records and SPO receipt records.
 
-SPO receipt is auto-generated in the background after receipt of any items. Based on the ITAM data model, the ITAM receipt line field corresponds to the equivalent of SPO receipt. The ITAM receiving slip can contain multiple receiving lines. SPO receipt is read-only, with data captured from the ITAM [[purchase-order-table|purchase order]] \(PO\) whenever the ITAM receiving experiences are active.
+SPO receipt is auto-generated in the background after receipt of any items. Based on the ITAM data model, the ITAM receipt line field corresponds to the equivalent of SPO receipt. The ITAM receiving slip can contain multiple receiving lines. SPO receipt is read-only, with data captured from the ITAM purchase order \(PO\) whenever the ITAM receiving experiences are active.
 
 |ITAM Receipt Line Fields|SPO Receipt Fields|
 |------------------------|------------------|
@@ -46,6 +46,3 @@ SPO receipt is auto-generated in the background after receipt of any items. Base
 
 [ITAM shipment field and state mappings to SPO]()
 
-## Related
-
-- [[purchase-order-table|Purchase order]]

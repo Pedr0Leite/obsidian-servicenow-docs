@@ -14,7 +14,7 @@ breadcrumb: [View Space Optimization metrics, Working with Workplace Analytics, 
 
 # Run the scheduled job for the Space Optimization dashboard
 
-As an admin, run the scheduled job **[[workplace-analytics|Workplace Analytics]] Space Management report data generation** to calculate capacity and utilization for all spaces.
+As an admin, run the scheduled job **Workplace Analytics Space Management report data generation** to calculate capacity and utilization for all spaces.
 
 ## Before you begin
 
@@ -35,6 +35,3 @@ This job should be run before viewing the dashboard for the first time. The job 
 
 **Parent Topic:**[View Space Optimization metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/view-space-opt-analytics.md)
 
-## Related
-
-- [[workplace-analytics|Workplace Analytics]]

@@ -20,7 +20,7 @@ Role required: sn\_shift\_planning.admin
 
 ## About this task
 
-Adherence and conformance calculations are based on the [[setup-scheduling-configurable-wfo-cs|defined configuration]] and your agents' actual and planned work schedules.
+Adherence and conformance calculations are based on the [defined configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/setup-scheduling-configurable-wfo-cs.md) and your agents' actual and planned work schedules.
 
 **Note:** Your administrator can disable schedule adherence or change the configuration for adherence and conformance. For more information, see [Configure properties for schedule adherence and conformance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/setup-scheduling-configurable-wfo-cs.md).
 
@@ -46,7 +46,7 @@ Analyze time worked summary of your team
 
 </td><td>
 
-1.  Click the [[migration-lists|Lists]] icon \(\[Omitted image "list-new.png"\] Alt text: Lists icon.\).
+1.  Click the Lists icon \(\[Omitted image "list-new.png"\] Alt text: Lists icon.\).
 2.  Under Schedule Adherence, click **Time Worked Summary**.
 
 **Note:** The **Available Non Planned** time captures the time the agent was available and clocked in outside of the agent's scheduled work events. For example, if an agent is scheduled to attend a training from 13:00 to 14:00 but forgets to clock out that attendance, that time is considered the clocked-in time. The training time from 13:00 to 14:00 is captured as the available non-planned time.
@@ -80,10 +80,5 @@ To understand the computations of the fields in a time worked summary, consider 
 
 **Note:** Fatima Alonzo is adherent because the schedule adherence and conformance are within the threshold. To see which agents are non-adherent, look for the numbers highlighted in red.
 
-**Parent Topic:**[[scheduling-configurable-wfo-cs|Scheduling in Workforce Optimization for Customer Service]]
+**Parent Topic:**[Scheduling in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/scheduling-configurable-wfo-cs.md)
 
-## Related
-
-- [[setup-scheduling-configurable-wfo-cs|Setting up Scheduling in Workforce Optimization for Customer Service]]
-- [[scheduling-configurable-wfo-cs|Scheduling in Workforce Optimization for Customer Service]]
-- [[migration-lists|Lists]]

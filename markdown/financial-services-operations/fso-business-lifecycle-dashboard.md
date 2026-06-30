@@ -14,7 +14,7 @@ breadcrumb: [Platform Analytics, Financial Services Operations \(FSO\)]
 
 With the Business Lifecycle Operations dashboard, you can get insight into how your team and business are performing for the business lifecycle cases.
 
-**Important:** The [[fso-overview|Financial Services]] Business Lifecycle dashboard has been modernized to give you a better user experience.
+**Important:** The Financial Services Business Lifecycle dashboard has been modernized to give you a better user experience.
 
 You can monitor the status of the lifecycle cases, see trends, and drill down into the details from a single view. For any time that you specify, you can view the details for the open cases, the new cases, and the average closing times of the lifecycle cases.
 
@@ -119,9 +119,5 @@ The following table shows the available filters in the Business Lifecycle Operat
 |Age|Bucket|Shows the age ranges in days for the Business Lifecycle cases.|
 |Service|List|Fetches the records for all the Business Lifecycle cases.|
 
-**Parent Topic:**[[fso-content-pack|Implementing Platform Analytics solutions]]
+**Parent Topic:**[Implementing Platform Analytics solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-content-pack.md)
 
-## Related
-
-- [[fso-content-pack|Implementing Platform Analytics solutions]]
-- [[fso-overview|Financial Services]]

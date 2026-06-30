@@ -16,7 +16,7 @@ breadcrumb: [Creating campaigns, Authoring and managing employee communications,
 
 Analyze your campaign to ensure that your messaging is effective and that you are targeting the correct audience when you use campaign success goals. You can also check your campaign's progress and evaluate how successful your campaign is.
 
-Campaigns uses [[ecpro-content-automation-analytics|Content Analytics]] to collect data on user interactions and generate visualizations that help you determine the effectiveness of your campaign. View the data visualizations for published campaigns in the [Campaign overview and Campaign analytics dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-content-automation-content-pack.md).
+Campaigns uses Content Analytics to collect data on user interactions and generate visualizations that help you determine the effectiveness of your campaign. View the data visualizations for published campaigns in the [Campaign overview and Campaign analytics dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-content-automation-content-pack.md).
 
 **Note:** Content Analytics is a separate plugin that must be installed and configured. For installation information, see [Activate Content Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/activate-content-analytics-plugin.md).
 
@@ -50,11 +50,11 @@ You can define the following factors to make your campaign more effective:
 
     Use campaign success goals to set a desired outcome for the campaign, for example driving employees to enroll in benefits or reducing the number of employee-created inquiry cases. If you aren't seeing the results that you expected, you can modify the campaign.
 
-    **Note:** You can [[ecpro-create-campaign-success-criteria|create campaign success goals]] only when the state of a campaign is in Draft or Editing.
+    **Note:** You can create campaign success goals only when the state of a campaign is in Draft or Editing.
 
     Here are some ways that you can utilize campaign success goals:
 
-    -   Determine if your campaign is successfully driving a specific type of action, like employees signing up for benefits. For example, your company has 2,000 employees and 1,500 have already signed up for payroll direct deposit. You [[ecpro-create-campaign|create a campaign]] that is directed at the 500 employees who have not signed up for payroll direct deposit yet. If your campaign is in the last stage and few employees have signed up, you can add another stage to the campaign with additional content encouraging employees to sign up.
+    -   Determine if your campaign is successfully driving a specific type of action, like employees signing up for benefits. For example, your company has 2,000 employees and 1,500 have already signed up for payroll direct deposit. You create a campaign that is directed at the 500 employees who have not signed up for payroll direct deposit yet. If your campaign is in the last stage and few employees have signed up, you can add another stage to the campaign with additional content encouraging employees to sign up.
     -   Compare metrics from your campaign against a previous campaign. For example, the open enrollment campaign last year included a webinar with a question-and-answer session, whereas this year the campaign has an informational video instead. You can review the difference in enrollment rates to determine if the content change had an impact.
     -   See if your campaign is successfully reducing a type of action. For example, you create a campaign that provides videos, knowledge articles, and links to inform employees about a program. In the weeks after the campaign ends, you compare the number of inquiry cases created before the campaign started to the number of cases created after.
     \[Omitted image "campaign-success.png"\] Alt text: Campaign success goals
@@ -63,8 +63,4 @@ You can define the following factors to make your campaign more effective:
 
     You can also select the campaign success goal to view the record.
 
-## Related
 
-- [[ecpro-content-automation-analytics|Content Analytics]]
-- [[ecpro-create-campaign-success-criteria|Create campaign success goals]]
-- [[ecpro-create-campaign|Create a campaign]]

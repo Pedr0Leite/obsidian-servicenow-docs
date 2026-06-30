@@ -15,7 +15,7 @@ breadcrumb: [Health Log Analytics reference, Health Log Analytics, ITOM AIOps, I
 
 # Health Log Analytics language and character support
 
-[[hla-landing-page|Health Log Analytics]] provides international language support. The default language is US English.
+Health Log Analytics provides international language support. The default language is US English.
 
 ## Language support coverage
 
@@ -29,6 +29,3 @@ Health Log Analytics currently supports ASCII and Windows-1252 \(commonly referr
 
 **Parent Topic:**[Health Log Analytics reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-reference.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

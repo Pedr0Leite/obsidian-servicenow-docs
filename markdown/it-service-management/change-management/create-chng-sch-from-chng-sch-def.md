@@ -18,7 +18,7 @@ You can define a change schedule from a change schedule definition record. Chang
 
 ## Before you begin
 
--   You have activated [[c_ITILChangeManagement|Change Management]] - Change Schedule plugin \(com.snc.change\_management.soc\).
+-   You have activated Change Management - Change Schedule plugin \(com.snc.change\_management.soc\).
 -   Role required: itil, sn\_chg\_soc.change\_soc\_admin, sn\_change\_role, sn\_change\_write roles, sn\_change\_write, or admin
 
 ## About this task
@@ -210,13 +210,9 @@ Options to define style conditions to determine the color of a span using a cond
 
 [Change schedules view]()
 
-[Create a change schedule from the [[change-schedule|Change Schedules]] page]()
+[Create a change schedule from the Change Schedules page]()
 
 [Add related tasks to a change schedule]()
 
 [Style rules definition]()
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]
-- [[change-schedule|Change schedules]]

@@ -22,7 +22,7 @@ Role required: sam\_integrator
 
 ## About this task
 
-[[sam-subscription-management|SaaS License Management]] offers direct integrations with select applications. Direct integrations provide the most robust usage data. For a list of available direct integrations, see [Integrate with SaaS applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/create-integration-profile.md). If you have a connected SSO app and want to replace it with a direct integration, disconnect the app before creating the direct integration to avoid creating duplicate subscription records for the app.
+SaaS License Management offers direct integrations with select applications. Direct integrations provide the most robust usage data. For a list of available direct integrations, see [Integrate with SaaS applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/create-integration-profile.md). If you have a connected SSO app and want to replace it with a direct integration, disconnect the app before creating the direct integration to avoid creating duplicate subscription records for the app.
 
 When an app is disconnected, all SSO subscriptions for the app are deleted and any open reclamation candidates are set to Closed Skipped.
 
@@ -76,6 +76,3 @@ When an app is disconnected, all SSO subscriptions for the app are deleted and a
 
 [Subscription exclusions for SaaS and SSO applications]()
 
-## Related
-
-- [[sam-subscription-management|SaaS License Management]]

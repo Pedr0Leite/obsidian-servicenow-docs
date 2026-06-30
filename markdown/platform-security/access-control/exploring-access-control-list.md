@@ -16,7 +16,7 @@ breadcrumb: [Access Control List Rules, Access Management]
 
 Explore Access Control Lists \(ACLs\).
 
-All [[access-control-rules|access control list rules]] specify:
+All access control list rules specify:
 
 -   The decision type, rule type and operation which defines the ACL
 -   The object being secured
@@ -24,7 +24,7 @@ All [[access-control-rules|access control list rules]] specify:
 
 ## Components of ACL
 
-The decision type defines whether [[users|users]] are allowed to access the object if conditions are met or denies access the object unless conditions are met.
+The decision type defines whether users are allowed to access the object if conditions are met or denies access the object unless conditions are met.
 
 |Decision type|Description|
 |-------------|-----------|
@@ -109,11 +109,11 @@ For example, all these entries specify an operation:
 The conditions specify when someone can access the named object and operation. Security administrators can specify condition requirements by adding:
 
 -   One or more user roles to the **Requires role** list.
--   One or more [[security-attributes-landing|security attributes]] need to be evaluated to be true.
+-   One or more security attributes need to be evaluated to be true.
 -   One or more data conditions.
 -   A script that evaluates to true or false or sets the `answer` variable to true or false.
 
-To gain access to an object and operation, a user must pass all conditions listed in an [[sc-access-control|access control]]. For example, this access control restricts access to view operations on the incident table.
+To gain access to an object and operation, a user must pass all conditions listed in an access control. For example, this access control restricts access to view operations on the incident table.
 
 \[Omitted image "access-control-record-write-incident2.png"\] Alt text: ACL on an incident record.
 
@@ -246,7 +246,7 @@ edit\_ci\_relations
 
 </td><td>
 
-User cannot define relationships between [[sc-configuration|Configuration]] Item \[cmdb\_ci\] tables.
+User cannot define relationships between Configuration Item \[cmdb\_ci\] tables.
 
 </td></tr><tr><td>
 
@@ -356,7 +356,7 @@ If two or more rules match at the same point in the processing order, the user m
 
 ## Required role
 
-Normal admin users can view and debug access control rules. However, to create or update existing access control rules, administrators must elevate privileges to the [[security-admin-role|security\_admin role]]. See [[t_ElevateToAPrivilegedRole|Elevate to a privileged role]] for instructions.
+Normal admin users can view and debug access control rules. However, to create or update existing access control rules, administrators must elevate privileges to the security\_admin role. See [Elevate to a privileged role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_ElevateToAPrivilegedRole.md) for instructions.
 
 ## ACL rules in scoped applications
 
@@ -372,12 +372,3 @@ For tables that are in a different scope than the ACL rule record, the types of 
 -   You can create wild-card table rules \(\*\) only in the global scope.
 -   You can create wild-card field rules \(\*\) only for tables in the same scope as the ACL rule.
 
-## Related
-
-- [[t_ElevateToAPrivilegedRole|Elevate to a privileged role]]
-- [[access-control-rules|Access Control List Rules]]
-- [[users|Users]]
-- [[security-attributes-landing|Security Attributes]]
-- [[sc-access-control|Access control]]
-- [[sc-configuration|Configuration]]
-- [[security-admin-role|Security\_admin role]]

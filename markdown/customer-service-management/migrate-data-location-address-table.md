@@ -12,16 +12,11 @@ breadcrumb: [Enhanced address data model for accounts, Configure accounts and co
 
 # Data migration from Location to Account Address table
 
-Migrate your data from the Location table to the [[account-address-table|Account Address table]].
+Migrate your data from the Location table to the Account Address table.
 
 Migrate data by following the steps provided in the Customer Service guided setup.
 
-To access the guided setup, navigate to **Customer Service** &gt; **Administration** &gt; **Guided Setup** &gt; **Foundation Data** &gt; **Enable [[csm-enable-enhanced-address-data-model|Enhanced Address Data Model for Accounts]]**.
+To access the guided setup, navigate to **Customer Service** &gt; **Administration** &gt; **Guided Setup** &gt; **Foundation Data** &gt; **Enable Enhanced Address Data Model for Accounts**.
 
-**Note:** Review step 4 within the [[enable-enhanced-address-model|Enable enhanced address model for accounts]] to get details on how to migrate data.
+**Note:** Review step 4 within the [Enable enhanced address model for accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/enable-enhanced-address-model.md) to get details on how to migrate data.
 
-## Related
-
-- [[enable-enhanced-address-model|Enable enhanced address model for accounts]]
-- [[account-address-table|Account Address table]]
-- [[csm-enable-enhanced-address-data-model|Enhanced address data model for accounts]]

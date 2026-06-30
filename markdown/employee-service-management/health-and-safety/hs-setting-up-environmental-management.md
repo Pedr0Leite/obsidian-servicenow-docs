@@ -14,7 +14,7 @@ breadcrumb: [Health and Safety Environmental Management, Health and Safety, Empl
 
 # Setting up Health and Safety Environmental Management
 
-Set up your implementation for [[hs-environmental-management-landing-page|Health and Safety Environmental Management]] by installing the application and reviewing, and configuring the components that are installed with the application.
+Set up your implementation for Health and Safety Environmental Management by installing the application and reviewing, and configuring the components that are installed with the application.
 
 -   **[Install Health and Safety Environmental Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-install-environmental-management.md)**  
 You can install the Health and Safety Environmental Management if you have the admin role. The application includes demo data and installs related ServiceNow Store applications and plugins if they aren’t already installed.
@@ -25,6 +25,3 @@ Migrate your existing safety data sheets \(SDS\) from Chemical safety register t
 
 **Parent Topic:**[Health and Safety Environmental Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-environmental-management-landing-page.md)
 
-## Related
-
-- [[hs-environmental-management-landing-page|Health and Safety Environmental Management]]

@@ -12,14 +12,14 @@ breadcrumb: [Push notification setup with a custom push application for ServiceN
 
 # Create a push message attribute definition
 
-Push message attribute [[clone-exclusions-preservers-cleanupscripts|definitions]] allow you to create reusable properties for push message content specification.
+Push message attribute definitions allow you to create reusable properties for push message content specification.
 
 ## Before you begin
 
-1.  [[t_ActivatePushNotifications|Activate push notifications]]
-2.  \(iOS only\) [[upload-push-cert|Upload a push certificate to your instance]]
-3.  [[t_CreateAMobileApplication|Create a push application record for your custom app]]
-4.  [[t_CreateAMobileMessageLayout|Create push message content]]
+1.  [Activate push notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivatePushNotifications.md)
+2.  \(iOS only\) [Upload a push certificate to your instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upload-push-cert.md)
+3.  [Create a push application record for your custom app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAMobileApplication.md)
+4.  [Create push message content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAMobileMessageLayout.md)
 
 Role required: admin or push\_admin
 
@@ -29,7 +29,7 @@ Role required: admin or push\_admin
 
 Use an attribute definition to specify a default push action script or string that you can then use in the push message content.
 
-You can override these attributes by creating any [[t_CreateAPushMessageAttributeValue|push message attribute values]].
+You can override these attributes by creating any [push message attribute values](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAPushMessageAttributeValue.md).
 
 ## Procedure
 
@@ -91,11 +91,3 @@ Specify an arbitrary string value to be placed in the attribute that is used by 
 
 If you want to override default attribute definitions, see [Create an attribute value or action for a push message](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAPushMessageAttributeValue.md).
 
-## Related
-
-- [[t_ActivatePushNotifications|Activate push notifications]]
-- [[upload-push-cert|Upload a push certificate to your instance]]
-- [[t_CreateAMobileApplication|Create a push application record for your custom app]]
-- [[t_CreateAMobileMessageLayout|Create push message content]]
-- [[t_CreateAPushMessageAttributeValue|Create an attribute value or action for a push message]]
-- [[clone-exclusions-preservers-cleanupscripts|Definitions]]

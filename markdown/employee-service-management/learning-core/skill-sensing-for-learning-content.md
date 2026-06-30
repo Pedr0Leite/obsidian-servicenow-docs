@@ -16,9 +16,9 @@ breadcrumb: [Using My Learning, Learning, Growth Experiences, HR Service Deliver
 
 Skill sensing is an automated approach to identify and extract skills from the title and description of a course so that the admin can associate the skills to a course.
 
-Plugin requirement: [[now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\)]] plugin \(sn\_hr\_gen\_ai\), [[learning-core_overview|Learning core]] plugin \(sn\_learning\_core\), and [[skills-intelligence|Skills foundation]] plugin \(sn\_skills\_int\).
+Plugin requirement: Now Assist for HR Service Delivery \(HRSD\) plugin \(sn\_hr\_gen\_ai\), Learning core plugin \(sn\_learning\_core\), and Skills foundation plugin \(sn\_skills\_int\).
 
-You can add skills to the [[exploring-learning-exp|learning]] courses using skill sensing in two ways:
+You can add skills to the learning courses using skill sensing in two ways:
 
 -   Add skills at the individual course level. For more information, see [Add skills to a course with skill sensing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/add-skill-course-skill-sensing.md).
 -   Add multiple skills automatically using the skill sensing configuration or you can review the skills manually. For more information, see [Configuration for bulk skill sensing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/skill-sensing-configuration.md) and [Add or discard multiple skills with skill sensing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/bulk-skill-sensing.md).
@@ -49,9 +49,3 @@ Review and approve the Large Language Model \(LLM\) recommended skills before ta
 
 [Manage Learning]()
 
-## Related
-
-- [[now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\)]]
-- [[learning-core_overview|Learning Core]]
-- [[skills-intelligence|Skills Foundation]]
-- [[exploring-learning-exp|Learning]]

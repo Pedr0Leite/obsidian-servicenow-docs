@@ -19,7 +19,7 @@ The **DO NOT USE - Invoice Processing** use case includes invoice and invoice li
 |Field|Description|
 |-----|-----------|
 |Invoice Fields|
-|Supplier invoice number|The invoice number of the [[supplier|supplier]] invoice.|
+|Supplier invoice number|The invoice number of the supplier invoice.|
 |Supplier|Supplier who delivers the product or service.|
 |Supplier tax id|The tax ID of the supplier.|
 |Invoice date|Date on which this invoice is created.|
@@ -47,7 +47,7 @@ The **DO NOT USE - Invoice Processing** use case includes invoice and invoice li
 |Remit to state/province|The state to which the payment is made.|
 |Remit to street|The street address to which the payment is made.|
 |Remit to zip/postal code|The zip code to which this payment is made.|
-|Invoice ship to city|The city to which the items on the [[purchase-order-table|purchase order]] should be shipped.|
+|Invoice ship to city|The city to which the items on the purchase order should be shipped.|
 |Invoice ship to country|The country to which the items on the purchase order should be shipped.|
 |Invoice ship to state/province|The state to which the items on the purchase order should be shipped.|
 |Invoice ship to street|The street address to which the items on the purchase order should be shipped.|
@@ -61,7 +61,3 @@ The **DO NOT USE - Invoice Processing** use case includes invoice and invoice li
 
 **Parent Topic:**[Invoice Processing use case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/docintel-invoice-process-usecase.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[purchase-order-table|Purchase order]]

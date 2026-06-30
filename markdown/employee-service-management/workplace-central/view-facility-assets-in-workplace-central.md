@@ -14,7 +14,7 @@ breadcrumb: [Working with Case management, Use, Workplace Central, Workplace Ser
 
 # View Facility Assets in Workplace Central
 
-Use the Facility Assets list to look up an asset and its related cases without leaving [[workplace-central-feat|Workplace Central]].
+Use the Facility Assets list to look up an asset and its related cases without leaving Workplace Central.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_wsd\_case.manager
 
 A new Facility Assets section has been added to the Lists area of , and Workplace Central, enabling case agents, case managers, and facilities managers to view asset details, associated workplace cases, maintenance cases, and maintenance plan records from within a single workspace without switching to the Enterprise Asset Management workspace.
 
-**Note:** The [[create-maint-cases|Workplace Maintenance Cases]] and Workplace Maintenance Plan Records tabs will appear only if the [[workplace-maintenance-mgmt-ovw|Workplace Maintenance Management]] \(sn\_wsd\_maintenance\) plugin is installed.
+**Note:** The Workplace Maintenance Cases and Workplace Maintenance Plan Records tabs will appear only if the Workplace Maintenance Management \(sn\_wsd\_maintenance\) plugin is installed.
 
 ## Procedure
 
@@ -76,8 +76,3 @@ A new Facility Assets section has been added to the Lists area of , and Workplac
 
 [Manage workplace cases in List view in Workplace Central]()
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]
-- [[create-maint-cases|Workplace maintenance cases]]
-- [[workplace-maintenance-mgmt-ovw|Workplace Maintenance Management]]

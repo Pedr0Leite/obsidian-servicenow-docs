@@ -14,13 +14,13 @@ breadcrumb: [API and web service, Hardening settings, Platform Security]
 
 # Require authorization for import requests
 
-Use the **glide.basicauth.required.importprocessor** property to designate if incoming import requests should require [[basic-authentication|basic authentication]].
+Use the **glide.basicauth.required.importprocessor** property to designate if incoming import requests should require basic authentication.
 
-The **glide.basicauth.required.importprocessor** system property performs this [[c_Authentication|authentication]] while importing data sources into the instance tables/pages.
+The **glide.basicauth.required.importprocessor** system property performs this authentication while importing data sources into the instance tables/pages.
 
-It restricts any guest [[users|users]] who are currently accessing this data. If **glide.basicauth.required.importprocessor** isn't set to the recommended value of **true**, then unauthenticated users could access import processor. Additional access controls, such as ACLs, are still enforced, but this value allows a guest user import [[c_requestAPI|request]] to be processed and not summarily denied.
+It restricts any guest users who are currently accessing this data. If **glide.basicauth.required.importprocessor** isn't set to the recommended value of **true**, then unauthenticated users could access import processor. Additional access controls, such as ACLs, are still enforced, but this value allows a guest user import request to be processed and not summarily denied.
 
-Ensure that the property **glide.basicauth.required.importprocessor** exists in the [[ca-system-properties|System Properties]] \[sys\_properties\] table and is set to **true**.
+Ensure that the property **glide.basicauth.required.importprocessor** exists in the System Properties \[sys\_properties\] table and is set to **true**.
 
 **Warning:** This is a safe harbor property, meaning the value can't be altered once it's changed. It is non-revertible.
 
@@ -36,7 +36,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -106,7 +106,7 @@ Functional impact
 
 </td><td>
 
-This remediation enforces a combination of authentication methods, in the form of basic authentication and system level [[sc-access-control|access control]].-   It performs this authentication while importing data sources into the instance tables/pages.
+This remediation enforces a combination of authentication methods, in the form of basic authentication and system level access control.-   It performs this authentication while importing data sources into the instance tables/pages.
 -   It restricts any guest users who are currently accessing this data. If applicable, you may need to create a new account for users who need access to this content, with necessary access control permissions.
 
  To learn more, see [Retrieving data from a CSV formatted file](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/t_RetrieveDataFromACSVFormatFile.md).
@@ -122,12 +122,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[API and web service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-api-web-service.md)
 
-## Related
-
-- [[basic-authentication|Basic authentication]]
-- [[c_Authentication|Authentication]]
-- [[users|Users]]
-- [[c_requestAPI|request]]
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]
-- [[sc-access-control|Access control]]

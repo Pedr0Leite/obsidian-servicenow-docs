@@ -14,7 +14,7 @@ breadcrumb: [Universal Request for Health and Safety cases, Health and Safety Ca
 
 # Create Universal Request for Health and Safety as an agent
 
-Agents can create and manage universal requests directly from the [[health-safety-core-workspace|Health and Safety Workspace]].
+Agents can create and manage universal requests directly from the Health and Safety Workspace.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_uni\_req.routing\_agent or admin
 
 ## About this task
 
-Agents that are part of the [[health-safety-overview|Health and Safety]] routing group can initiate and manage universal requests within the Health and Safety Workspace.
+Agents that are part of the Health and Safety routing group can initiate and manage universal requests within the Health and Safety Workspace.
 
 ## Procedure
 
@@ -32,7 +32,7 @@ Agents that are part of the [[health-safety-overview|Health and Safety]] routing
 
 3.  Select **Universal Requests** and then select **All**.
 
-4.  Select **New** to open the [[new-ur-record-form|universal request form]].
+4.  Select **New** to open the universal request form.
 
     On the Universal Request form, fill in the details. For more information see, [Universal Request form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/new-ur-record-form.md)
 
@@ -41,7 +41,7 @@ Agents that are part of the [[health-safety-overview|Health and Safety]] routing
 
 ## Result
 
-The [[ur-landing-limitedaccess|Universal Request]] record is created and appears in the Universal Request list tab.
+The Universal Request record is created and appears in the Universal Request list tab.
 
 ## What to do next
 
@@ -54,9 +54,3 @@ The agent can perform the following from the new Universal Request record:
 
 -   Use the More actions \[Omitted image "agent-workspace-more-ui-actions-icon.jpg"\] Alt text: more actions icon icon and select **Create Health and Safety Case**.
 
-## Related
-
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[health-safety-overview|Health and Safety]]
-- [[new-ur-record-form|Universal Request form]]
-- [[ur-landing-limitedaccess|Universal Request]]

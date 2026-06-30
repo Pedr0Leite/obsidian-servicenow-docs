@@ -16,7 +16,7 @@ You can configure the left padding of the system numbers on a table. For example
 
 ## Before you begin
 
-If you are configuring numbers on a custom table or a table that does not extend the task table, then, before performing the following procedure, you must prepare business rules and script includes. For more information, see [[t_PrepToLeftPadNumFldsInCustmTbls|Prepare to left-pad number fields in custom tables]].
+If you are configuring numbers on a custom table or a table that does not extend the task table, then, before performing the following procedure, you must prepare business rules and script includes. For more information, see [Prepare to left-pad number fields in custom tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_PrepToLeftPadNumFldsInCustmTbls.md).
 
 Role required: admin
 
@@ -49,6 +49,3 @@ Role required: admin
 
 **Parent Topic:**[Prepare to left-pad number fields in custom tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_PrepToLeftPadNumFldsInCustmTbls.md)
 
-## Related
-
-- [[t_PrepToLeftPadNumFldsInCustmTbls|Prepare to left-pad number fields in custom tables]]

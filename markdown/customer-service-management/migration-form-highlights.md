@@ -24,12 +24,8 @@ To migrate your highlights, add an extra step in the custom highlighted values t
 
 An additional highlighted value configuration is provided out of box, CSM/FSM Configurable Workspace Highlighted Value Config.
 
--   Legacy highlighted values in [[migration-form-headers|form headers]] work without modification, but may affect the functionality of Configurable Workspace.
+-   Legacy highlighted values in form headers work without modification, but may affect the functionality of Configurable Workspace.
 -   Highlighted values must be added to a highlighted value configuration to appear in Configurable Workspace.
 
-For more information, see [[config-csm-config-ws-highlight-value|Set up a highlighted value]].
+For more information, see [Set up a highlighted value](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-csm-config-ws-highlight-value.md).
 
-## Related
-
-- [[config-csm-config-ws-highlight-value|Set up a highlighted value in a form header in CSM Configurable Workspace]]
-- [[migration-form-headers|Form headers]]

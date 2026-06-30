@@ -14,7 +14,7 @@ breadcrumb: [Authentication, Hardening settings, Platform Security]
 
 # Set OTP lifetime for password reset to 1 hour \[Updated in Security Center 2.0\]
 
-Control the time duration of the link in the [[c_SelfServicePasswordReset|password reset]] [[email|email]].
+Control the time duration of the link in the password reset email.
 
 The **glide.pwd\_reset.onetime.token.validity** system property makes the link in the password reset email expire after the number of hours specified in the property. The validity time of a password reset token should be kept as short as possible while not disrupting normal user experience
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -107,9 +107,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-authentication.md)
 
-## Related
-
-- [[c_SelfServicePasswordReset|Password Reset]]
-- [[email|Email]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

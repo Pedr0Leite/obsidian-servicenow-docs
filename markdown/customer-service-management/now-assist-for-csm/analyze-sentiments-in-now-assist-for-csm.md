@@ -15,7 +15,7 @@ breadcrumb: [Use generative AI, Now Assist for CSM, Customer Service Management]
 
 # Analyze sentiments in Now Assist for Customer Service Management \(CSM\)
 
-Make informed decisions on cases and email interactions based on requester's sentiment and the reasoning behind it in the [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]] application.
+Make informed decisions on cases and email interactions based on requester's sentiment and the reasoning behind it in the Now Assist for Customer Service Management \(CSM\) application.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Role required: sn\_customerservice\_agent and sn\_customerservice.consumer\_agen
 
 ## Procedure
 
-1.  Navigate to the case or [[r_CustomerServiceCaseForm|case form]] in the Core UI or in [[csm-workspaces-configure|CSM Configurable Workspace]].
+1.  Navigate to the case or case form in the Core UI or in CSM Configurable Workspace.
 
 2.  <table id="table_emg_jm5_w2c"><thead><tr><th>
 
@@ -43,7 +43,7 @@ Navigate in Core UI
 
 The case list view appears.
 
-\[Omitted image "sentiment-analysis-coreui-case-list-view.png"\] Alt text: [[case-sentiment-analysis|Sentiment analysis]] Core UI list view
+\[Omitted image "sentiment-analysis-coreui-case-list-view.png"\] Alt text: Sentiment analysis Core UI list view
 
 You can analyze the Sentiment and Sentiment trend for the case list.
 
@@ -180,7 +180,7 @@ The CSM Configurable Workspace form view appears.
 
     1.  In the Core UI or in CSM Configurable Workspace, enter a comment in the Additional Comments field.
 
-    2.  In the [[csm-config-workspace-interface|CSM Configurable Workspace interface]], a red dot appears on the information icon\[Omitted image "circle-info-outline-24.svg"\] Alt text: The information icon provides an explanation for why a particular sentiment has been assigned next to the sentiment.
+    2.  In the CSM Configurable Workspace interface, a red dot appears on the information icon\[Omitted image "circle-info-outline-24.svg"\] Alt text: The information icon provides an explanation for why a particular sentiment has been assigned next to the sentiment.
 
     3.  Select the information icon \[Omitted image "circle-info-outline-24.svg"\] Alt text: The information icon provides an explanation for why a particular sentiment has been assigned and then select the refresh icon \[Omitted image "refresh-sync-new.png"\] Alt text: Refreshes content to see the updated sentiment scale \(Very Positive, Positive, Neutral, Negative, or Very Negative\)and sentiment trend.
 
@@ -194,10 +194,3 @@ The CSM Configurable Workspace form view appears.
 
 [Sentiment analysis for email interactions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/sentiment-analysis-interaction.md)
 
-## Related
-
-- [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]]
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[case-sentiment-analysis|Sentiment Analysis]]
-- [[csm-config-workspace-interface|CSM Configurable Workspace interface]]

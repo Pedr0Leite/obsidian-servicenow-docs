@@ -14,7 +14,7 @@ breadcrumb: [Set up data inputs manually, Set up HLA on your instance, Configuri
 
 # Advanced data input configuration in Health Log Analytics
 
-When you have configured a data input successfully, [[hla-landing-page|Health Log Analytics]] adds a record to the Data Inputs table and attaches the configuration file to it. You can configure advanced settings for your data input. Configuring advanced settings is optional.
+When you have configured a data input successfully, Health Log Analytics adds a record to the Data Inputs table and attaches the configuration file to it. You can configure advanced settings for your data input. Configuring advanced settings is optional.
 
 -   **[Configure advanced settings for Amazon CloudWatch data inputs in Health Log Analytics manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-input-adv-cloudwatch.md)**  
 Configure advanced settings for data inputs used for streaming log data from Amazon CloudWatch to your instance.
@@ -37,6 +37,3 @@ Configure advanced settings for data inputs that use Rsyslog, Splunk, or TCP age
 
 **Parent Topic:**[Set up data inputs in Health Log Analytics manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-input-setup-manual.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

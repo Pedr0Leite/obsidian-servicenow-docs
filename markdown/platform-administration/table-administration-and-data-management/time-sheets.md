@@ -14,7 +14,7 @@ breadcrumb: [Time Card management, Working with Task table, Table admin, Tables 
 
 # Time Sheets
 
-A time sheet groups all the [[c_TimeCards|time cards]] for a user for the given week.
+A time sheet groups all the time cards for a user for the given week.
 
 With time sheets:
 
@@ -50,16 +50,11 @@ A time sheet can have any of the following states:
 
 
 -   **[Create a time sheet](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/create-time-sheet.md)**  
-As a time card user, you can [[create-time-sheet|create a time sheet]] to group all your time cards for the given week and submit them in a single step.
+As a time card user, you can create a time sheet to group all your time cards for the given week and submit them in a single step.
 -   **[Submit a time sheet](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/submit-time-sheet.md)**  
-Once the time sheet is updated with [[c_TimeWorked|time worked]], you can submit the time sheet for the week to submit all the time cards for the week together.
+Once the time sheet is updated with time worked, you can submit the time sheet for the week to submit all the time cards for the week together.
 -   **[Approve or reject a time sheet](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/approve-time-sheet.md)**  
 View, approve, or reject time sheet or time cards for your user, for the given week, in a single step.
 
 **Parent Topic:**[Time Card Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/time-card-management.md)
 
-## Related
-
-- [[c_TimeCards|Time cards]]
-- [[create-time-sheet|Create a time sheet]]
-- [[c_TimeWorked|Time worked]]

@@ -12,7 +12,7 @@ breadcrumb: [Decorations, Reference field type, Reference, Field administration,
 
 # Reference field icon
 
-On forms, the [[reference-email-admin|reference]] icon \(\[Omitted image "IconReferenceUI15.png"\] Alt text: Core UI reference icon\) appears by populated reference fields. Clicking the icon opens a read-only preview of the referenced record.
+On forms, the reference icon \(\[Omitted image "IconReferenceUI15.png"\] Alt text: Core UI reference icon\) appears by populated reference fields. Clicking the icon opens a read-only preview of the referenced record.
 
 \[Omitted image "image.referenced-record-b20"\] Alt text: Pointing to the reference icon, which looks like the letter I in a circle, opens a preview of the record over the form
 
@@ -68,7 +68,7 @@ The pop-up form displays in the top form section only.
 **Related topics**  
 
 
-[[configure-form-layout|Configuring the form layout]]
+[Configuring the form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md)
 
 ## Configure pop-ups on read-only fields
 
@@ -80,7 +80,7 @@ Role required: admin
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[r_SetArchiveRuleProcessingBehavior|System Properties]]** &gt; **UI Properties**.
+1.  Navigate to **All** &gt; **System Properties** &gt; **UI Properties**.
 
 2.  Change the value of the **Enable click-through of a reference field when the reference field is read-only.** \(**glide.ui.reference.readonly.clickthrough**\) property.
 
@@ -91,8 +91,3 @@ Role required: admin
 
 If this system value is set to **false**, you can override the setting for a specific read-only reference field. Configure the dictionary entry and add the **readonly\_clickthrough=true** attribute.
 
-## Related
-
-- [[configure-form-layout|Configuring the form layout]]
-- [[reference-email-admin|Reference]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

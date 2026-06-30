@@ -14,7 +14,7 @@ breadcrumb: [Source-to-Pay integration with SAP, Integration with third-party ap
 
 # Explore Source-to-Pay integration with SAP
 
-Learn more about the [[source-to-pay-sap-integration|Source-to-Pay integration with SAP]].
+Learn more about the Source-to-Pay integration with SAP.
 
 ## Establishing communication between the SAP and ServiceNow instances
 
@@ -51,6 +51,3 @@ SAP supports the following protocols for transferring data:
 
 The current default SAP integration workflows offered by ServiceNow cater to the implementation of the first two types. However, it doesn’t exclude customers from implementing on cloud, which can easily be achieved by converting the wrapper function modules into web service WSDLs. However, this requires customizations at SAP and ServiceNow.
 
-## Related
-
-- [[source-to-pay-sap-integration|Source-to-Pay integration with SAP]]

@@ -14,16 +14,11 @@ breadcrumb: [Components installed with Contract Management, Contract Management,
 
 # User roles installed with Contract Management
 
-A user role is added with [[c_ContractManagement|Contract Management]].
+A user role is added with Contract Management.
 
 |Role|Contains Role|Description|
 |----|-------------|-----------|
-|contract\_manager|financial\_mgmt\_user|Manages the [[c_ContractLifeCycle|contract life cycle]]. Can create, edit, and delete [[c_Contracts|contracts]].|
+|contract\_manager|financial\_mgmt\_user|Manages the contract life cycle. Can create, edit, and delete contracts.|
 
 **Parent Topic:**[Components installed with Contract Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/contract-management/r_ComponentsInstalledWContractMgmt.md)
 
-## Related
-
-- [[c_ContractManagement|Contract Management]]
-- [[c_ContractLifeCycle|Contract life cycle]]
-- [[c_Contracts|Contracts]]

@@ -26,7 +26,7 @@ A demand can be reset to Draft from the Completed, Approved, Screening, or Submi
 
 ## Procedure
 
-1.  Open a demand from the home page of Next Experience for [[c_DemandManagement|Demand Management]].
+1.  Open a demand from the home page of Next Experience for Demand Management.
 
     For more information, see [Access demands](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/access-demands-ppw.md).
 
@@ -38,7 +38,7 @@ A demand can be reset to Draft from the Completed, Approved, Screening, or Submi
 
     -   Active assessments pending with stakeholders, or
     -   Resource assignments are created for the demand
-4.  Select the check box to replan the allocated [[c_ResourcePlans|resource plans]] that have no actual hours reported.
+4.  Select the check box to replan the allocated resource plans that have no actual hours reported.
 
 5.  Select **OK**.
 
@@ -47,10 +47,5 @@ A demand can be reset to Draft from the Completed, Approved, Screening, or Submi
 
 -   The demand is moved to the Draft state.
 -   All the score values in **Assessment Data** tab are reset to default.
--   All active assessments for the demand are canceled. New assessments are triggered when the demand moves to the Screening state and if the **Assessment Required** field on the [[demand-form|demand form]] is set to true.
+-   All active assessments for the demand are canceled. New assessments are triggered when the demand moves to the Screening state and if the **Assessment Required** field on the demand form is set to true.
 
-## Related
-
-- [[c_DemandManagement|Demand Management]]
-- [[c_ResourcePlans|Resource plans]]
-- [[demand-form|Demand form]]

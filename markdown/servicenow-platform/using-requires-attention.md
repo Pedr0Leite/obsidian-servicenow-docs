@@ -17,7 +17,7 @@ Learn how to review and manage items that need your attention, such as expiring 
 
 ## About this task
 
-The **[[exploring-requires-attention|Requires Attention]]** section helps you quickly identify and act on items that need review. This section includes articles nearing expiration, flagged content, and feedback tasks assigned to you.
+The **Requires Attention** section helps you quickly identify and act on items that need review. This section includes articles nearing expiration, flagged content, and feedback tasks assigned to you.
 
 ## Before you begin
 
@@ -50,6 +50,3 @@ You can track and resolve to pending tasks efficiently from the **Requires Atten
 
 [Requires attention](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-## Related
-
-- [[exploring-requires-attention|Requires attention]]

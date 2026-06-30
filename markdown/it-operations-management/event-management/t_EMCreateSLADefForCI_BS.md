@@ -30,7 +30,7 @@ Role required: evt\_mgmt\_admin
 
     For a description of each field, see [Create an SLA definition for a CI or application service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMCreateSLADefForCI_BS.md).
 
-4.  For the **Table** field, select **[[c_EM|Event Management]] SLA \[em\_ci\_severity\_task\]**.
+4.  For the **Table** field, select **Event Management SLA \[em\_ci\_severity\_task\]**.
 
 5.  Configure the **Start condition** filter by adding conditions, such as:
 
@@ -98,6 +98,3 @@ For a specific service, such as Email, when the **Severity** is **Critical**
 
 **Parent Topic:**[SLAs for application services and CIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/c_EMSLAsForBSAndCIs.md)
 
-## Related
-
-- [[c_EM|Event Management]]

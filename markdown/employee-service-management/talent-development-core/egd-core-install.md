@@ -23,7 +23,7 @@ Dependent plugins and apps for Talent Development:
 -   [Manager Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/manager-hub-overview.md)
 -   [Skills Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/skills-intelligence.md)
 
-    When the [[skills-intelligence|Skills Foundation]] property **sn\_skills\_int.enable\_skills** is set to true, the use of Skills Foundation is enabled for all Talent applications that support the use of Skills Foundation. See [Configuring Skills Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/configuring-skills-intelligence.md) for more information about Skills Foundation properties.
+    When the Skills Foundation property **sn\_skills\_int.enable\_skills** is set to true, the use of Skills Foundation is enabled for all Talent applications that support the use of Skills Foundation. See [Configuring Skills Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/configuring-skills-intelligence.md) for more information about Skills Foundation properties.
 
 -   [Install Employee Center Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/install-ec-pro.md)
 
@@ -31,7 +31,7 @@ Role required: admin
 
 ## About this task
 
-When an administrator installs the [[egd-landing-page|Talent Development Core]] app from the ServiceNow store, it integrates [[exploring-learning-exp|learning]], skills identification, aspirations, and planning for a personal career growth and development plan.
+When an administrator installs the Talent Development Core app from the ServiceNow store, it integrates learning, skills identification, aspirations, and planning for a personal career growth and development plan.
 
 ## Procedure
 
@@ -54,8 +54,3 @@ When an administrator installs the [[egd-landing-page|Talent Development Core]] 
 
 **Parent Topic:**[Installing and configuring the Talent Development Core app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-install-config.md)
 
-## Related
-
-- [[skills-intelligence|Skills Foundation]]
-- [[egd-landing-page|Talent Development Core]]
-- [[exploring-learning-exp|Learning]]

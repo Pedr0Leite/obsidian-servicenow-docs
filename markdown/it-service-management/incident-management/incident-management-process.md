@@ -14,7 +14,7 @@ breadcrumb: [Incident Management, IT Service Management]
 
 # Exploring Incident Management
 
-ServiceNow [[c_IncidentManagement|Incident Management]] supports the incident management process with the ability to identify and log incidents, classify and prioritize incidents, assign incidents to appropriate users or groups, escalate, resolve, and report incidents.
+ServiceNow Incident Management supports the incident management process with the ability to identify and log incidents, classify and prioritize incidents, assign incidents to appropriate users or groups, escalate, resolve, and report incidents.
 
 ## Incident Management overview
 
@@ -26,14 +26,14 @@ Any user can log an incident within the system using the following methods.
 
 ServiceNow Incident Management process follows these steps:
 
-1.  Incident identification - The first step in the life of an incident is incident identification. You can report incidents through emails, sms, phone call, support chats, walk-ups, and [[dex-workspace-application-tab|applications]]. The service desk decides if the issue is truly an incident or if it is a request.
+1.  Incident identification - The first step in the life of an incident is incident identification. You can report incidents through emails, sms, phone call, support chats, walk-ups, and applications. The service desk decides if the issue is truly an incident or if it is a request.
 2.  Incident logging - Once identified as an incident, the service desk logs the incident. The incident should include information, such as the caller, business service, configuration item, and contact type. The logging process includes:
     -   Incident categorization - Incident categorization is a vital step in the incident management process. Categorization involves assigning a category and at least one subcategory to the incident.
     -   Incident prioritization - Incident prioritization is important for SLA response adherence. The priority of an incident is determined by its impact on users or business and its urgency.
 3.  Incident response - Once identified, categorized, prioritized, and logged, the service desk can handle and resolve the incident. Incident resolution involves the following steps:
     -   Initial diagnosis - Occurs when the user describes the problem and answers troubleshooting questions.
     -   Incident escalation - Happens when an incident requires advanced support, such as sending an on-site technician or assistance from certified support staff.
-    -   Investigation and diagnosis - Takes place during troubleshooting when the initial incident hypothesis is confirmed as being correct. Once the incident is diagnosed, service desk can apply a solution, such as changing software [[settings-mobile|settings]], applying a software patch, or ordering new hardware.
+    -   Investigation and diagnosis - Takes place during troubleshooting when the initial incident hypothesis is confirmed as being correct. Once the incident is diagnosed, service desk can apply a solution, such as changing software settings, applying a software patch, or ordering new hardware.
     -   Resolution and recovery - Happens the service desk confirms that the service of the user is restored within the stipulated SLA time.
     -   Incident closure - At this point, the incident is considered closed and the incident process ends.
 
@@ -59,8 +59,3 @@ Incident Management is responsible for managing the life cycle of incidents, fro
 
 **Parent Topic:**[Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/c_IncidentManagement.md)
 
-## Related
-
-- [[c_IncidentManagement|Incident Management]]
-- [[dex-workspace-application-tab|Applications]]
-- [[settings-mobile|Settings]]

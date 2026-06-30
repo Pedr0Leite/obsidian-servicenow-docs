@@ -14,7 +14,7 @@ breadcrumb: [Reference, AI Search, Search administration, Configure core feature
 
 # Search Scripted Post-processors form
 
-The Search Scripted Post-processors form enables you to create a search scripted post-processor in the search application configuration for an [[ia-ai-search|AI Search]] application.
+The Search Scripted Post-processors form enables you to create a search scripted post-processor in the search application configuration for an AI Search application.
 
 For details on creating or editing search scripted post-processors, see [Using search scripted post-processors in AI Search application configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/script-post-process-ais.md).
 
@@ -67,7 +67,7 @@ Post processing script
 
 </td><td>
 
-Server-side script function that takes a record object as its parameter. When the search scripted post-processor is linked to a search application configuration, search [[hs-results|results]] reflect changes made to the record object in this script function. As an example, this post-processing script function operates on search results from the kb\_knowledge table, transforming sys\_updated\_on date field values into a human-readable format:
+Server-side script function that takes a record object as its parameter. When the search scripted post-processor is linked to a search application configuration, search results reflect changes made to the record object in this script function. As an example, this post-processing script function operates on search results from the kb\_knowledge table, transforming sys\_updated\_on date field values into a human-readable format:
 
 ```
 function process(record) {
@@ -145,7 +145,3 @@ function process(record) {
 </td></tr></tbody>
 </table>**Parent Topic:**[AI Search reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/reference-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]

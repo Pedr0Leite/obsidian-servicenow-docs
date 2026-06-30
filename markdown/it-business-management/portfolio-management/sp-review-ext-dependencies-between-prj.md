@@ -20,7 +20,7 @@ Review the external dependencies between projects in a portfolio to track projec
 
 Role required: it\_portfolio\_manager
 
-Open demands and projects in the timeline view of the [[portfolio-planning-app-landing-page|Portfolio Planning]] Workbench.
+Open demands and projects in the timeline view of the Portfolio Planning Workbench.
 
 ## About this task
 
@@ -53,6 +53,3 @@ For example, project B is dependent on project A \(external soft dependency\) an
 
 **Parent Topic:**[Create planning scenarios](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-management/create-scenarios.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

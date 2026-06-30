@@ -14,12 +14,12 @@ breadcrumb: [Use for providers, Service Exchange for Providers, Service Exchange
 
 # Register a consumer from the Provider Center
 
-Register a consumer instance from the **[[se-connections-tab|Connections]]** tab in the Provider Center to establish a [[tmt-service-bridge-both-landing-page|Service Exchange]] connection between your instance and the consumer instance.
+Register a consumer instance from the **Connections** tab in the Provider Center to establish a Service Exchange connection between your instance and the consumer instance.
 
 ## Before you begin
 
 -   Role required: admin
--   A provider record must have been created. See [[service-bridge-v2-new-provider|Set up a Service Exchange provider record]].
+-   A provider record must have been created. See [Set up a Service Exchange provider record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-new-provider.md).
 -   A company record must exist for the consumer in the provider instance, and a contact must be associated with that company.
 -   The consumer instance must be running Service Exchange version 2.3.18 or later.
 
@@ -60,14 +60,7 @@ A connection request is created and the consumer receives the registration URL. 
 
 ## What to do next
 
-[[se-consumer-center-onboarding|Consumer registration from the Consumer Center]].
+[Consumer registration from the Consumer Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/se-consumer-center-onboarding.md).
 
-**Parent Topic:**[[service-bridge-v2-administer|Using Service Exchange for providers]]
+**Parent Topic:**[Using Service Exchange for providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-administer.md)
 
-## Related
-
-- [[service-bridge-v2-new-provider|Set up a Service Exchange provider record]]
-- [[se-consumer-center-onboarding|Consumer registration from the Consumer Center]]
-- [[service-bridge-v2-administer|Using Service Exchange for providers]]
-- [[se-connections-tab|Connections]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]

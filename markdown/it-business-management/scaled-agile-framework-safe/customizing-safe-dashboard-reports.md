@@ -30,7 +30,7 @@ Customize the Burnup, Burndown, and Cumulative Flow Diagram reports of your dash
 
 
 -   **[Customize indicators of your Essential SAFe dashboard reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/customize-indicators-of-safe-dashboard-reports.md)**  
-Configure indicators to reflect your customizations in [[essential-overview|Essential SAFe]] dashboards.
+Configure indicators to reflect your customizations in Essential SAFe dashboards.
 -   **[Update UI scripts to use your indicators for Essential SAFe dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/update-ui-scripts-to-use-your-indicators-safe.md)**  
 Customize UI scripts by overriding methods in empty implementation \(Impl\) classes.
 -   **[Customize story states of your Essential SAFe dashboard reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/customize-story-states-of-your-safe-dashboard-reports.md)**  
@@ -38,6 +38,3 @@ Configure story states to reflect your customizations on the Essential SAFe dash
 
 **Parent Topic:**[Performance Analytics Content Pack for Essential SAFe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/pa-content-pack-essential-safe.md)
 
-## Related
-
-- [[essential-overview|Essential SAFe]]

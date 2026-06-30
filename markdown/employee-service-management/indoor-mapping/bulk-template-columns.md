@@ -24,9 +24,9 @@ Use the bulk upload template to provide information about your campuses, buildin
 |Country|Country in which the campus is located. You must use the ISO 3166-1 Alpha-2 code for the country.|
 |Marker latitude|Geographic latitude coordinate for the campus in the decimal degrees format.|
 |Marker longitude|Geographic longitude coordinate for the campus in the decimal degrees format.|
-|Enable in Kiosk View|Option to enable the campus for the [[kiosk-indoor-mapping|Kiosk Indoor Mapping]] feature. You must fill in `YES` or `NO` in this column.|
-|Enable in Scenario View|Option to enable the campus for the [[scenario-planning|Scenario Planning]] feature. You must fill in `YES` or `NO` in this column.|
-|Enable in Default View|Option to enable the campus for the Default [[Indoor-mapping|Indoor Mapping]] feature. You must fill in `YES` or `NO` in this column.|
+|Enable in Kiosk View|Option to enable the campus for the Kiosk Indoor Mapping feature. You must fill in `YES` or `NO` in this column.|
+|Enable in Scenario View|Option to enable the campus for the Scenario Planning feature. You must fill in `YES` or `NO` in this column.|
+|Enable in Default View|Option to enable the campus for the Default Indoor Mapping feature. You must fill in `YES` or `NO` in this column.|
 
 |Column|Description|
 |------|-----------|
@@ -170,8 +170,3 @@ Option to enable the floor for the Default Indoor Mapping feature. You must fill
 
 **Next topic:**[Workplace Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/workplace-central-feat.md)
 
-## Related
-
-- [[kiosk-indoor-mapping|Kiosk Indoor Mapping]]
-- [[scenario-planning|Scenario Planning]]
-- [[Indoor-mapping|Indoor Mapping]]

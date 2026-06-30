@@ -153,8 +153,5 @@ Logging level verbosity to use for the application.Default: Info
 
 ## What to do next
 
-The next setup step is to[[setup-scheduled-jobs|Set up scheduled import jobs]].
+The next setup step is to[Set up scheduled import jobs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/setup-scheduled-jobs.md).
 
-## Related
-
-- [[setup-scheduled-jobs|Set up scheduled import jobs]]

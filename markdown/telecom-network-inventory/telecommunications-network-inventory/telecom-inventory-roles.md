@@ -14,7 +14,7 @@ breadcrumb: [Configure, Telecommunications Network Inventory]
 
 # Assign user role
 
-You can assign roles to control user access to specific features, capabilities, and data in the [[telecom-network-inventory|Telecommunications Network Inventory]] application. These assigned roles enable or prevent access to specific forms and processes by users with the specified roles only.
+You can assign roles to control user access to specific features, capabilities, and data in the Telecommunications Network Inventory application. These assigned roles enable or prevent access to specific forms and processes by users with the specified roles only.
 
 You assign roles to users and groups by using the ServiceNow AI Platform user administration feature.
 
@@ -53,7 +53,7 @@ Inventory Template Manager \[sn\_ni\_core.inventory\_template\_manager\]
 
 </td><td>
 
-Role that enables a user with create, read, edit, and delete access to the [[using-templates-tni|network inventory templates]] for the new or existing entities. Also, this role enables the user to perform a Create, Read, Update, Delete \(CRUD\) operation on the default template.
+Role that enables a user with create, read, edit, and delete access to the network inventory templates for the new or existing entities. Also, this role enables the user to perform a Create, Read, Update, Delete \(CRUD\) operation on the default template.
 
 </td></tr><tr><td>
 
@@ -61,7 +61,7 @@ Inventory Agent \[sn\_ni\_core.inventory\_agent\]
 
 </td><td>
 
-Role that enables a user with the following permissions:-   Read access to all inventory models, capacity metrics, and [[pack_tables|pack tables]].
+Role that enables a user with the following permissions:-   Read access to all inventory models, capacity metrics, and pack tables.
 -   Write, update, and delete access to the inventory tables.
 -   Read and write access to the template, change request and change task table.
 
@@ -160,8 +160,3 @@ Read, Report view
 
 **Parent Topic:**[Configuring Telecommunications Network Inventory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/configuring-telecom-network-inventory.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[using-templates-tni|Network inventory templates]]
-- [[pack_tables|Pack tables]]

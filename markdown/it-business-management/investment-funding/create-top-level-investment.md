@@ -26,7 +26,7 @@ A top-level investment does not have a source investment or source investment en
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[investment-funding-overview|Investment Funding]]** &gt; **Top level Investments**.
+1.  Navigate to **All** &gt; **Investment Funding** &gt; **Top level Investments**.
 
 2.  Click **New**.
 
@@ -92,6 +92,3 @@ Allocate funds to a top-level investment so that the investment owner can distri
 
 **Parent Topic:**[Investment Funding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/investment-funding/investment-funding-overview.md)
 
-## Related
-
-- [[investment-funding-overview|Investment Funding]]

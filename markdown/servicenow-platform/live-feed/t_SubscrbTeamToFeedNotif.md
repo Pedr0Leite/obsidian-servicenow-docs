@@ -14,7 +14,7 @@ breadcrumb: [Use teams in Live Feed, Using Live Feed, Live Feed Core UI, Manage 
 
 # Subscribe a team to feed notification
 
-A team administrator can subscribe a team to specific feeds so the members of the team receive [[email|email]] notifications.
+A team administrator can subscribe a team to specific feeds so the members of the team receive email notifications.
 
 ## Before you begin
 
@@ -37,6 +37,3 @@ Role required: none
 
 **Parent Topic:**[Use teams in Live Feed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/c_UseTeamsInLiveFeed.md)
 
-## Related
-
-- [[email|Email]]

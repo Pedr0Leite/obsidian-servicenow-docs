@@ -14,7 +14,7 @@ breadcrumb: [Configuration Compliance dashboard, Analytics and Reporting, Config
 
 # Viewing the Performance Analytics for Configuration Compliance dashboard
 
-You can manage your most important configuration issues and remediate them quickly by viewing the reports on the [[vr-config-compliance-landing|Configuration Compliance]] Performance Analytics \(PA\) dashboard.
+You can manage your most important configuration issues and remediate them quickly by viewing the reports on the Configuration Compliance Performance Analytics \(PA\) dashboard.
 
 **Note:** Starting with v14.9 of Configuration Compliance, the following terms have been renamed:
 
@@ -31,7 +31,7 @@ You can manage your most important configuration issues and remediate them quick
 The following roles are required for the Configuration Compliance Performance Analytics dashboard:
 
 -   admin: An admin can install and activate the Performance Analytics for Configuration Compliance and make changes to the system properties.
--   pa\_admin: A performance analytics administrator can create and review the background jobs, [[indicator|indicators]], breakdowns, widgets, and dashboards. This admin can also set up and start the data collection.
+-   pa\_admin: A performance analytics administrator can create and review the background jobs, indicators, breakdowns, widgets, and dashboards. This admin can also set up and start the data collection.
 -   sn\_vulc.read: A user with the read role can review the dashboard data.
 
 ## Access the Configuration Compliance dashboard
@@ -40,7 +40,7 @@ To open the dashboard, navigate to **All** &gt; **Configuration Compliance** &gt
 
 **Important:**
 
-Starting with version 14.9 of Configuration Compliance, this dashboard can also be viewed in the Next Experience UI. To view the dashboard in the new UI, navigate to **Workspaces** &gt; **[[vulnerability-manager-workspace-landing-page|Vulnerability Manager Workspace]]** and click the **Dashboards** icon. Depending on your role, the default dashboard is displayed. To view other dashboards, click the drop-down next to the dashboard name. For more information, see the [Dashboards in the Vulnerability Manager Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-manager-workspace/vr-ws-dashboards.md) and [Dashboards in the IT Remediation Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/it-remediation-workspace/itr-ws-dashboards.md).
+Starting with version 14.9 of Configuration Compliance, this dashboard can also be viewed in the Next Experience UI. To view the dashboard in the new UI, navigate to **Workspaces** &gt; **Vulnerability Manager Workspace** and click the **Dashboards** icon. Depending on your role, the default dashboard is displayed. To view other dashboards, click the drop-down next to the dashboard name. For more information, see the [Dashboards in the Vulnerability Manager Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-manager-workspace/vr-ws-dashboards.md) and [Dashboards in the IT Remediation Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/it-remediation-workspace/itr-ws-dashboards.md).
 
 **Note:** If you are on Tokyo, you can view the dashboards in the Next Experience UI but with some functional loss.
 
@@ -182,7 +182,7 @@ Choice
 
 </td><td>
 
-[[location|Location]] where the resource is hosted.
+Location where the resource is hosted.
 
 </td></tr></tbody>
 </table>**Note:** You can select multiple options from the filters and select **Apply**. Each widget shows the filters that are applied and the filters that aren’t applied. Depending on the data available, the report is generated. The widget also shows the count of the filter that is supported.
@@ -637,10 +637,3 @@ Exception requests that are created by you and that are grouped according to the
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[vr-config-compliance-landing|Configuration Compliance]]
-- [[indicator|Indicators]]
-- [[vulnerability-manager-workspace-landing-page|Vulnerability Manager Workspace]]
-- [[location|Location]]

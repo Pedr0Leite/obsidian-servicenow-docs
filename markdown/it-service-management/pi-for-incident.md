@@ -12,7 +12,7 @@ breadcrumb: [Request Predictive Intelligence for Incident, Machine learning solu
 
 # Predictive Intelligence for Incident
 
-Use your instance records to build [[c_IncidentManagement|Incident Management]] -specific solutions.
+Use your instance records to build Incident Management -specific solutions.
 
 ## Solution definitions
 
@@ -27,9 +27,5 @@ These solution definitions are available as templates on instances where both Pr
 
 For more information on similarity solution, refer [Create similarity solution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/create-similarity-solution.md).
 
-**Parent Topic:**[[request-predictive-intelligence-for-im|Request Predictive Intelligence for Incident]]
+**Parent Topic:**[Request Predictive Intelligence for Incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/request-predictive-intelligence-for-im.md)
 
-## Related
-
-- [[request-predictive-intelligence-for-im|Request Predictive Intelligence for Incident]]
-- [[c_IncidentManagement|Incident Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Application Manager, Administering applications, Get started, Admin
 
 # Uninstalling applications
 
-[[application-manager|Application Manager]] can be used to uninstall applications that are no longer in use on your instance.
+Application Manager can be used to uninstall applications that are no longer in use on your instance.
 
 ## Overview of using the Application Manager to uninstall
 
@@ -25,9 +25,5 @@ Some applications can be uninstalled from your instance to remove scripts, backg
 -   **[Uninstall an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/uninstall-application-app-mgr.md)**  
 Uninstall an unused application to remove unnecessary or conflicting scripts, background jobs, and roles from your instance.
 
-**Parent Topic:**[[administering-applications|Administering applications]]
+**Parent Topic:**[Administering applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/administering-applications.md)
 
-## Related
-
-- [[administering-applications|Administering applications]]
-- [[application-manager|Application Manager]]

@@ -12,7 +12,7 @@ breadcrumb: [Configure, Now Assist for CPQ, Sales Customer Relationship Manageme
 
 # Customize a quote summarization skill in Now Assist for Configure, Price, Quote \(CPQ\)
 
-Configure the [[now-assist-for-cpq-landing|Now Assist for Configure, Price, Quote \(CPQ\)]] application so that the agent can use the generative AI skills in the CSM/FSM Configurable Workspace and Business Portal.
+Configure the Now Assist for Configure, Price, Quote \(CPQ\) application so that the agent can use the generative AI skills in the CSM/FSM Configurable Workspace and Business Portal.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: admin
 
 3.  Make a copy of an active quote summarization skill by selecting the More actions icon \[Omitted image "more-options.png"\] Alt text: and then select **Make a copy** to create a version that you can customize.
 
-4.  In the General details step, fill in the [[fields|fields]].
+4.  In the General details step, fill in the fields.
 
     1.  Enter a name and description for the skill.
 
@@ -117,7 +117,7 @@ Description of the base input field value.
 
     Default and Custom roles:
 
-    -   If no changes are made, the default role automatically appears in **[[please_share_your_feedback_on_admin_assist_responses|User access]] - Access Control List \(ACL\)**.
+    -   If no changes are made, the default role automatically appears in **User access - Access Control List \(ACL\)**.
     -   Apply role restrictions when the skill is invoked by selecting **Roles** and defining which data and resources \(for example, tables\) the user can access in **Role restrictions to skill**.
 
         **Note:** If you add a role in the Define Access step, you must manually select it in the **Select Display** field to make it active.
@@ -136,8 +136,4 @@ Description of the base input field value.
 
     2.  Generate the quote summary by selecting **Summarize** in a quote.
 
-## Related
 
-- [[now-assist-for-cpq-landing|Now Assist for Configure, Price, Quote \(CPQ\)]]
-- [[fields|Fields]]
-- [[please_share_your_feedback_on_admin_assist_responses|User access]]

@@ -91,8 +91,8 @@ Assists in the creation and tailoring of security controls within the organizati
 
  Defined access to the following sections:
 
--   **NIST RMF** &gt; **Select** &gt; **[[rmf-review-baseline-controls|Review Baseline Controls]]**
--   **NIST RMF** &gt; **Select** &gt; **[[rmf-tailor-baseline-controls|Tailor Baseline Controls]]**
+-   **NIST RMF** &gt; **Select** &gt; **Review Baseline Controls**
+-   **NIST RMF** &gt; **Select** &gt; **Tailor Baseline Controls**
 -   **NIST RMF** &gt; **Content**
 
 </td></tr><tr><td>
@@ -101,7 +101,7 @@ Sys admin
 
 </td><td>
 
-Access to the following sections: **NIST RMF** &gt; **[[Administration|Administration]]**
+Access to the following sections: **NIST RMF** &gt; **Administration**
 
 </td></tr><tr><td>
 
@@ -113,7 +113,7 @@ Access to the following sections: **NIST RMF** &gt; **Administration**
 
 </td></tr></tbody>
 </table>-   **[Install the NIST RMF Use Case Accelerator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/install-nist-rmf.md)**  
-The NIST RMF Use Case Accelerator is used with the GRC core applications: [[r_PolicyComplianceMgmt|Policy and Compliance Management]], Risk Management, and [[c_GRCAudits|Audit Management]] applications.
+The NIST RMF Use Case Accelerator is used with the GRC core applications: Policy and Compliance Management, Risk Management, and Audit Management applications.
 -   **[Verify the NIST RMF Use Case Accelerator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/verify-nist-rmf.md)**  
 After installing the GRC: NIST RMF Use Case Accelerator, review the NIST RMF application structure, core content, and demo data, if selected during installation.
 -   **[NIST RMF supporting concepts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/grc-nist-rmf-key-concepts.md)**  
@@ -125,10 +125,3 @@ The NIST RMF navigation structure facilitates the management of the NIST securit
 
 **Parent Topic:**[Governance, Risk, and Compliance use case accelerators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/grc-use-case-accelerators.md)
 
-## Related
-
-- [[rmf-review-baseline-controls|Review baseline controls]]
-- [[rmf-tailor-baseline-controls|Tailor baseline controls]]
-- [[Administration|Administration]]
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[c_GRCAudits|Audit Management]]

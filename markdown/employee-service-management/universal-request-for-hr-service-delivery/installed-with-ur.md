@@ -14,7 +14,7 @@ breadcrumb: [Activate Universal Request, Universal Request plugins, Setting up a
 
 # Components installed with Universal Request
 
-Several types of components are installed with activation of the [[ur-landing-limitedaccess|Universal Request]] plugin, including tables, user roles, and scheduled jobs.
+Several types of components are installed with activation of the Universal Request plugin, including tables, user roles, and scheduled jobs.
 
 Demo data is available for this feature.
 
@@ -125,7 +125,7 @@ Stores the Universal Request records and the state reasons.
 
 </td></tr><tr><td>
 
-[[configure-route-state|Transfer Configuration]]
+Transfer Configuration
 
  \[universal\_request\_route\_conf\]
 
@@ -207,7 +207,7 @@ Universal Request Priority Data Lookup\[dl\_universal\_request\_priority\]
 
 </td></tr><tr><td>
 
-Universal Request [[activity-lxp|Activity]] Log\[universal\_request\_activity\_log\]
+Universal Request Activity Log\[universal\_request\_activity\_log\]
 
 </td><td>
 
@@ -216,8 +216,3 @@ Universal Request [[activity-lxp|Activity]] Log\[universal\_request\_activity\_l
 </td></tr></tbody>
 </table>**Parent Topic:**[Activate Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/activate-ur-plugin.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[configure-route-state|Transfer configuration]]
-- [[activity-lxp|Activity]]

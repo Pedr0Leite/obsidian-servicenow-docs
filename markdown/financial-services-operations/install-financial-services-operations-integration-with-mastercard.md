@@ -12,7 +12,7 @@ breadcrumb: [Configure, Mastercard, Integrate, Financial Services Operations \(F
 
 # Install Financial Services Operations Integration with Mastercard
 
-If you have the admin role, you can install the [[financial-services-operations-integration-with-mastercard-landing-page|Financial Services Operations Integration with Mastercard]] application.
+If you have the admin role, you can install the Financial Services Operations Integration with Mastercard application.
 
 ## Before you begin
 
@@ -34,6 +34,4 @@ Role required: admin
 
 4.  Select **Install**.
 
-## Related
 
-- [[financial-services-operations-integration-with-mastercard-landing-page|Financial Services Operations Integration with Mastercard]]

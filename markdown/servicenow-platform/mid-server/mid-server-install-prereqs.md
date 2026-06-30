@@ -14,7 +14,7 @@ breadcrumb: [Installing the MID Server, Configuring MID Server, MID Server, Mana
 
 # Install a MID Server on Windows
 
-Install MID Servers with the [[mid-server-landing|MID Server]] guided Windows installation package. The package includes an installer that automatically configures OpenJDK to run in the environment. The MID Server can use an existing JRE rather than the provided OpenJDK. Uninstall the MID Server to redeploy it.
+Install MID Servers with the MID Server guided Windows installation package. The package includes an installer that automatically configures OpenJDK to run in the environment. The MID Server can use an existing JRE rather than the provided OpenJDK. Uninstall the MID Server to redeploy it.
 
 <table id="table_jvn_ds4_nhb"><tbody><tr><td>
 
@@ -124,7 +124,7 @@ Certificate Revocation
 
 </td><td>
 
-This [[check-box|check box]] is selected by default to enable certificate revocation policies to improve security. For more information on certificate revocation, see [MID Server certificate check policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-security-checks.md).
+This check box is selected by default to enable certificate revocation policies to improve security. For more information on certificate revocation, see [MID Server certificate check policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-security-checks.md).
 
  When testing a connection with certificate revocation enabled, the installer checks if OCSP port 80 is open and the entrust page is accessible.
 
@@ -136,7 +136,7 @@ Use proxy
 
 </td><td>
 
-Select this check box if your MID Server communicates through a proxy to [[c_Connect|connect]] to the instance.**Note:** Your proxy server must use Basic Authentication for the MID server to connect to the instance.
+Select this check box if your MID Server communicates through a proxy to connect to the instance.**Note:** Your proxy server must use Basic Authentication for the MID server to connect to the instance.
 
 The MID Server can bypass proxy servers whose DNS/IP address is listed in the configuration parameter **mid.cloud.discovery.proxy.exclusion.list**. See [MID Server property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/r_MIDServerProperties.md) for more information.
 
@@ -146,7 +146,7 @@ Proxy Host
 
 </td><td>
 
-Enter the proxy server host name or [[ip-address|IP address]]. Do not include the protocol in the host name. For example, enter `proxyserver.domain.com`, not `https://proxyserver.domain.com`.
+Enter the proxy server host name or IP address. Do not include the protocol in the host name. For example, enter `proxyserver.domain.com`, not `https://proxyserver.domain.com`.
 
 </td></tr><tr><td>
 
@@ -283,7 +283,7 @@ Modify this field if necessary. It is populated automatically by prefixing `Serv
 
     Select **Start MID Server after installation** if you want to start the MID Server immediately after installation. If you want to make additional configuration changes, before starting the MID server, leave this box unchecked. If mutual authentication was selected, the MID Server username and password fields are removed.
 
-    **Note:** If the [[mid-startup-fails|MID Server fails to start]], the cause might be a duplicate name or multiple services that point to the same executable path. This can happen when you have MID servers previously not installed through the installer. See [MID Server fails to start](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-startup-fails.md) for details.
+    **Note:** If the MID Server fails to start, the cause might be a duplicate name or multiple services that point to the same executable path. This can happen when you have MID servers previously not installed through the installer. See [MID Server fails to start](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-startup-fails.md) for details.
 
 11. Select **Mid Servers List Page**.
 
@@ -376,7 +376,7 @@ Windows service credentials are not the same as the MID Server user credentials,
 
 ## Windows MID Server silent installation and uninstallation
 
-Silently [[mid-server-installation|installing the MID Server]] uses predefined parameters and requires no user input after it is initiated. You can use silent installation on several machines at once to quickly set up a network and to ensure all MID Servers have the same installation settings.
+Silently installing the MID Server uses predefined parameters and requires no user input after it is initiated. You can use silent installation on several machines at once to quickly set up a network and to ensure all MID Servers have the same installation settings.
 
 ### MID Server silent installation
 
@@ -578,11 +578,4 @@ By electing to use your own JRE, you are responsible for upgrading it as necessa
 
 3.  Save the file.
 
-## Related
 
-- [[mid-server-landing|MID Server]]
-- [[check-box|Check box]]
-- [[c_Connect|Connect]]
-- [[ip-address|IP Address]]
-- [[mid-startup-fails|MID Server fails to start]]
-- [[mid-server-installation|Installing the MID Server]]

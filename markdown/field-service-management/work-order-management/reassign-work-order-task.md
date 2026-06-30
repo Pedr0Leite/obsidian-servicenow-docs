@@ -14,7 +14,7 @@ breadcrumb: [Field Service Contractor for mobile, ServiceNow Agent mobile app, C
 
 # Reassign a work order task to an agent on a mobile device
 
-As a manager, you can reassign a work order task to an agent through the [[wot-fsc|Field Service Contractor for mobile]] application.
+As a manager, you can reassign a work order task to an agent through the Field Service Contractor for mobile application.
 
 ## Before you begin
 
@@ -48,6 +48,3 @@ Role required: wm\_ext\_manager
 
 The work order task is reassigned to a contractor agent.
 
-## Related
-
-- [[wot-fsc|Field Service Contractor for mobile]]

@@ -22,11 +22,11 @@ Role required: sn\_task\_plan.admin or sn\_task\_plan.creator role
 
 Template items include tasks, child cases, and child case tasks. You can also create a hierarchy of template items. For example, you can create a case as a template item and then create case tasks as child template items for that case.
 
-You can create new template items or you can [[clone-task-plan-template-item|clone existing template items]]. When you clone a template item, it clones the hierarchy of that item.
+You can create new template items or you can [clone existing template items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/clone-task-plan-template-item.md). When you clone a template item, it clones the hierarchy of that item.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[task-plan-templates|Task Plan Templates]]** &gt; **Draft Task Plan Templates**.
+1.  Navigate to **All** &gt; **Task Plan Templates** &gt; **Draft Task Plan Templates**.
 
 2.  Select a task plan template record number to display the record.
 
@@ -36,7 +36,7 @@ You can create new template items or you can [[clone-task-plan-template-item|clo
 
     The template item form opens in a new tab. The **Number** field displays the number of the template item. The **Task plan template** field displays the number of the parent task plan template.
 
-    For more information about these fields, see [[task-plan-template-item-form|Template item form]].
+    For more information about these fields, see [Template item form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/task-plan-template-item-form.md).
 
 5.  Provide a brief description of the template item in the **Short description** field.
 
@@ -55,11 +55,5 @@ You can create new template items or you can [[clone-task-plan-template-item|clo
 
 ## What to do next
 
-After creating a template item, you can [[create-task-plan-template-item-condition|create one or more conditions for the template item]]. You can also create child template items for a template item.
+After creating a template item, you can [create one or more conditions for the template item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-task-plan-template-item-condition.md). You can also create child template items for a template item.
 
-## Related
-
-- [[clone-task-plan-template-item|Clone a template item]]
-- [[task-plan-template-item-form|Template item form]]
-- [[create-task-plan-template-item-condition|Create a template item condition]]
-- [[task-plan-templates|Task Plan Templates]]

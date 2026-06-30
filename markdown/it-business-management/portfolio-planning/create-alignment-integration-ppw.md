@@ -14,11 +14,11 @@ breadcrumb: [Configuring Portfolio Planning with PPM, Configure, Portfolio Plann
 
 # Create an alignment integration
 
-Internal alignment integration synchronizes internal processes and data to support [[r_ITBusinessManagement|Strategic Portfolio Management]], confirming that planning and execution are aligned with business objectives through real-time bi-directional synchronization with applications such as [[c_ProjectPortfolioSuite|Project Portfolio Management]], [[agile-landing-page|Agile Development 2.0]], and [[SAFeoverview|Scaled Agile Framework \(SAFe\)]].
+Internal alignment integration synchronizes internal processes and data to support Strategic Portfolio Management, confirming that planning and execution are aligned with business objectives through real-time bi-directional synchronization with applications such as Project Portfolio Management, Agile Development 2.0, and Scaled Agile Framework \(SAFe\).
 
 ## About this task
 
-After you have [[portfolio-planning-app-landing-page|Portfolio Planning]] installed, the **ServiceNow Internal** Alignment integration is created by default. In case the alignment integration isn’t available, you can create your alignment integration type.
+After you have Portfolio Planning installed, the **ServiceNow Internal** Alignment integration is created by default. In case the alignment integration isn’t available, you can create your alignment integration type.
 
 ## Before you begin
 
@@ -38,10 +38,4 @@ Role required: admin
 
 5.  Click **Submit**.
 
-## Related
 
-- [[r_ITBusinessManagement|Strategic Portfolio Management]]
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]
-- [[agile-landing-page|Agile Development 2.0]]
-- [[SAFeoverview|Scaled Agile Framework \(SAFe\)]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

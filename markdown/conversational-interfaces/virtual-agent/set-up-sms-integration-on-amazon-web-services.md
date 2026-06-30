@@ -24,7 +24,7 @@ Role required: admin
 
 ## About this task
 
-To set up integration on AWS, you must procure a phone number and an AWS SNS topic that subscribes to the AWS End User messaging phone number. The Lambda function on AWS that subscribes to the SNS topic signs the SMS messages with a secret key to verify and validate the messages that you receive. The Lambda function uses the Key [[management|Management]] Services \(KMS\) to create signatures using the SHA-256 algorithm.
+To set up integration on AWS, you must procure a phone number and an AWS SNS topic that subscribes to the AWS End User messaging phone number. The Lambda function on AWS that subscribes to the SNS topic signs the SMS messages with a secret key to verify and validate the messages that you receive. The Lambda function uses the Key Management Services \(KMS\) to create signatures using the SHA-256 algorithm.
 
 This further enables IAM users to call the AWS End User Messaging APIs to send outbound SMS/MMS. You can also set up the S3 bucket to send media files to customers and store outbound media files.
 
@@ -38,7 +38,7 @@ This further enables IAM users to call the AWS End User Messaging APIs to send o
 
 2.  Setup a collection of the required Amazon Web Services resources and properties using a CloudFormation template.
 
-    To learn how to deploy a stack, see [documentation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/stacks.html). You can download the ServiceNow CloudFormation template from the [[conversational-sms-integration-amazon|Conversational SMS Integration with AWS End User Messaging]] store application from the ServiceNow store. This template creates an External \(Import key material\) type of KMS \(Key Management Service\) with no key material. You must upload the wrapped key material separately.
+    To learn how to deploy a stack, see [documentation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/stacks.html). You can download the ServiceNow CloudFormation template from the Conversational SMS Integration with AWS End User Messaging store application from the ServiceNow store. This template creates an External \(Import key material\) type of KMS \(Key Management Service\) with no key material. You must upload the wrapped key material separately.
 
 3.  Upload the wrapped key material to the key from step 2.
 
@@ -55,7 +55,3 @@ This further enables IAM users to call the AWS End User Messaging APIs to send o
 
 **Parent Topic:**[Configuring Conversational SMS Integration with AWS End User Messaging](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-ci-sms-with-aws.md)
 
-## Related
-
-- [[management|Management]]
-- [[conversational-sms-integration-amazon|Conversational SMS Integration with AWS End User Messaging]]

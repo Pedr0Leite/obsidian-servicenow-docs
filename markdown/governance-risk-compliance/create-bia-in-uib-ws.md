@@ -20,7 +20,7 @@ Role required: sn\_bia.bia\_admin, sn\_bia.bia\_manager, sn\_bcm.program\_manage
 
 ## About this task
 
-Beginning with the Yokohama release, you can configure a [[bia-uib|business impact analysis]] \(BIA\) template with a legacy assessment or Smart assessment. The Smart assessment offers multiple question types and uses impact automation to calculate the RTO, RPO, and recovery tier based on your answers. To configure a BIA template with the legacy or Smart assessment, see [[configure-bia-template-uib-ws|Configure BIA templates with legacy assessment]] or [[conf-bia-temp-smart-asmt-type|Configure BIA templates with Smart Assessment]].
+Beginning with the Yokohama release, you can configure a business impact analysis \(BIA\) template with a legacy assessment or Smart assessment. The Smart assessment offers multiple question types and uses impact automation to calculate the RTO, RPO, and recovery tier based on your answers. To configure a BIA template with the legacy or Smart assessment, see [Configure BIA templates with legacy assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-bia-template-uib-ws.md) or [Configure BIA templates with Smart Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/conf-bia-temp-smart-asmt-type.md).
 
 Beginning with the Xanadu release, you can use the updated dependencies from the latest BIA record to conduct a dependency assessment on an asset. Using these updated dependencies enables for a precise execution of the business impact analysis. The business impact analysis is enhanced through the implementation of these updates:
 
@@ -37,7 +37,7 @@ The BIA Manager \(sn\_bia.bia\_manager\) now includes the Doc writer \(sn\_doc.w
 
 1.  Navigate to **Workspaces** &gt; **Business Continuity Workspace**.
 
-2.  In the [[list-view-uib-ws|List view]], navigate to **Business Impact Analysis** and select **New**.
+2.  In the List view, navigate to **Business Impact Analysis** and select **New**.
 
     The **Create New Impact analysis** form is displayed as shown in the example.
 
@@ -45,7 +45,7 @@ The BIA Manager \(sn\_bia.bia\_manager\) now includes the Doc writer \(sn\_doc.w
 
 3.  On the **Details** tab of the **Create New Impact analysis** form, fill in the required fields.
 
-    For more information on the fields, see [[create-new-impact-analysis-reference-form-bcm-uib-ws|Create New Impact analysis form]].
+    For more information on the fields, see [Create New Impact analysis form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-new-impact-analysis-reference-form-bcm-uib-ws.md).
 
     The business impact analysis is created in the **Draft** state and it’s displayed in the List view. The state and details of the business impact analysis are displayed in these tabs:
 
@@ -189,16 +189,7 @@ The BIA Manager \(sn\_bia.bia\_manager\) now includes the Doc writer \(sn\_doc.w
 
 
 -   **[Create New Impact analysis form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-new-impact-analysis-reference-form-bcm-uib-ws.md)**  
-Use the Create New Impact analysis form to add details about the business impact analysis, assessments, approvals, and so on in [[bcm-workspace|BCM Configurable Workspace]].
+Use the Create New Impact analysis form to add details about the business impact analysis, assessments, approvals, and so on in BCM Configurable Workspace.
 
-**Parent Topic:**[[bia-tasks-performed-by-bia-owner|Structured workflows for BIAs]]
+**Parent Topic:**[Structured workflows for BIAs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bia-tasks-performed-by-bia-owner.md)
 
-## Related
-
-- [[configure-bia-template-uib-ws|Configure BIA templates with legacy assessment]]
-- [[conf-bia-temp-smart-asmt-type|Configure BIA templates with Smart Assessment]]
-- [[create-new-impact-analysis-reference-form-bcm-uib-ws|Create New Impact analysis form]]
-- [[bia-tasks-performed-by-bia-owner|Structured workflows for BIAs]]
-- [[bia-uib|Business impact analysis]]
-- [[list-view-uib-ws|List view]]
-- [[bcm-workspace|BCM Configurable Workspace]]

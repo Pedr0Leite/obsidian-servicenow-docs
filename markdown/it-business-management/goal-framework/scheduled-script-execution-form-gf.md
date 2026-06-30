@@ -68,7 +68,7 @@ migrateStrategyWorkItemRelData
 
 
 </td></tr></tbody>
-</table>## [[migrate-goal-relationships-for-assigned-entities-egm|Migrate goal relationships for assigned entities]]
+</table>## Migrate goal relationships for assigned entities
 
 Use the **Migrate goal relationships for assigned entities** job to populate the fields, **Assigned entity type** and **Assigned entity** on the [Goal form]() based on the existing values in the legacy fields, **Business Unit**, **Department**, **Company**, **Portfolio**, and any customized entity field.
 
@@ -86,7 +86,7 @@ Migrate goal relationships for assigned entities
 
 </td><td>
 
-\(For [[alignment-planner-workspace-landing-page|Strategic Planning]] users\) Populates the fields, **Assigned entity type** and **Assigned entity** on the [Goal form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/goal-form-egm.md) based on the data in the Goal Relationship \[sn\_gf\_goal\_m2m\_relationship\] table if you've created an m2m relationship with lens entities other than **Company**, **Business Unit**, **Department**, and **Portfolio**.If users had already created m2m relationship, they may use this script to move those relationships from the m2m table to the goals table to access and manage those goals in the respective portfolio plans.
+\(For Strategic Planning users\) Populates the fields, **Assigned entity type** and **Assigned entity** on the [Goal form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/goal-form-egm.md) based on the data in the Goal Relationship \[sn\_gf\_goal\_m2m\_relationship\] table if you've created an m2m relationship with lens entities other than **Company**, **Business Unit**, **Department**, and **Portfolio**.If users had already created m2m relationship, they may use this script to move those relationships from the m2m table to the goals table to access and manage those goals in the respective portfolio plans.
 
  If the goal has only one relationship with an assign entity table type, the **Assign entity type** and **Assign entity** fields are populated on the Goal \[sn\_gf\_goal\] table based on the Goal Relationship \[sn\_gf\_goal\_m2m\_relationship\] table.
 
@@ -94,8 +94,3 @@ Migrate goal relationships for assigned entities
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[migrate-goal-relationships-for-assigned-entities-egm|Migrate goal relationships for assigned entities]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

@@ -14,7 +14,7 @@ breadcrumb: [Reference, Workplace Maintenance Management, Workplace Service Deli
 
 # Components installed with Workplace Maintenance Management
 
-Different roles and components or tables are available with the installation of [[workplace-maintenance-mgmt-ovw|Workplace Maintenance Management]].
+Different roles and components or tables are available with the installation of Workplace Maintenance Management.
 
 ## Roles installed with Workplace Maintenance Management
 
@@ -23,7 +23,7 @@ Navigate to **All** &gt; **System Definition** &gt; **Roles** &gt; **.**
 |Role title \[name\]|Description|Contains roles|
 |-------------------|-----------|--------------|
 |sn\_wsd\_wc.manager|Provides read access to all data including Occupancy Dashboard and other dashboards.|sn\_wsd\_wc.user|
-|sn\_wsd\_wc.admin|Provides admin access to configure and set up the [[workplace-connectors-landing-page|Workplace Connectors]] application|sn\_wsd\_wc.manager|
+|sn\_wsd\_wc.admin|Provides admin access to configure and set up the Workplace Connectors application|sn\_wsd\_wc.manager|
 |sn\_wsd\_wc.user|Provides read access to only a few columns and fields. The read access is set up by administrators.|None|
 
 ## Tables installed with Workplace Maintenance Management
@@ -88,7 +88,7 @@ Workplace Maintenance Service Configuration \(sn\_wsd\_maintenance\_service\_con
 
 </td><td>
 
-Associates [[workplace-services|workplace services]] and sets scheduling conditions for a plan record. The schedule job fetches plan records that have a maintenance schedule template for a workplace service to create maintenance cases. For more information, see [Create plan service configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/create-maint-service-config.md) and [Workplace planned maintenance scheduled job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/sch-job-planned-nightly.md).
+Associates workplace services and sets scheduling conditions for a plan record. The schedule job fetches plan records that have a maintenance schedule template for a workplace service to create maintenance cases. For more information, see [Create plan service configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/create-maint-service-config.md) and [Workplace planned maintenance scheduled job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/sch-job-planned-nightly.md).
 
 </td></tr></tbody>
 </table>## Workplace Maintenance Management Scheduled Jobs
@@ -134,8 +134,3 @@ This scheduled job collects historical data and populates it in the Workplace Ma
 
 **Next topic:**[Workplace Lease Administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/workplace-lease-admin-feat.md)
 
-## Related
-
-- [[workplace-maintenance-mgmt-ovw|Workplace Maintenance Management]]
-- [[workplace-connectors-landing-page|Workplace Connectors]]
-- [[workplace-services|Workplace Services]]

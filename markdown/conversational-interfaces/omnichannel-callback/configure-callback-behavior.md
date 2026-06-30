@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings** &gt; **General**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings** &gt; **General**.
 
 2.  On the Callback configuration form, swipe the **Activate** toggle switch to the right, enter the wait time threshold, and select **Save**.
 
@@ -42,6 +42,4 @@ Role required: admin
 
     When the callback timeout is reached, no further callback attempts are made and the callback task is closed.
 
-## Related
 
-- [[convint-landing-page|Conversational Interfaces]]

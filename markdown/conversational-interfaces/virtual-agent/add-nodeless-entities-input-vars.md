@@ -15,7 +15,7 @@ breadcrumb: [Creating a Virtual Agent topic, Getting started with Virtual Agent 
 
 # Add nodeless NLU entities as input variables to a topic
 
-You can add nodeless NLU entities as input variables to a topic if NLU is enabled for [[virtual-agent-landing-page|Virtual Agent]]. These variables can be slot-filled from NLU service provider predictions or provided outside of the scope of the topic.
+You can add nodeless NLU entities as input variables to a topic if NLU is enabled for Virtual Agent. These variables can be slot-filled from NLU service provider predictions or provided outside of the scope of the topic.
 
 ## Before you begin
 
@@ -29,11 +29,11 @@ For more information about NLU entities, see [Entities](https://raw.githubuserco
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Virtual Agent** &gt; **Designer**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Designer**.
 
 2.  Open a topic and view the **Flow** tab.
 
-3.  In the [[sidebar-landing|sidebar]], select the Variables tab, and select the **Input** icon \[Omitted image "icon-plus-clear.png"\].
+3.  In the sidebar, select the Variables tab, and select the **Input** icon \[Omitted image "icon-plus-clear.png"\].
 
 4.  On the form, fill in the fields.
 
@@ -171,8 +171,3 @@ Select one of the following:-   **Condition Builder**: Creates a filter used to 
 
 **Parent Topic:**[Creating a Virtual Agent topic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-virtual-agent-topic.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[sidebar-landing|Sidebar]]

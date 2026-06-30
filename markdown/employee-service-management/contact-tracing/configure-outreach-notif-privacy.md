@@ -14,7 +14,7 @@ breadcrumb: [Setting up data privacy consent settings for Contact Tracing, Setti
 
 # Configure an Emergency Outreach notification for Contact Tracing privacy consents
 
-As an administrator, create or configure an [[emergency-outreach|Emergency Outreach]] notification to send email and mobile push notifications to employees requesting them to view the privacy policy and seeking their consent to use their data for [[contact-tracing|contact tracing]].
+As an administrator, create or configure an Emergency Outreach notification to send email and mobile push notifications to employees requesting them to view the privacy policy and seeking their consent to use their data for contact tracing.
 
 ## Before you begin
 
@@ -88,7 +88,3 @@ A user with the admin or sn\_imt\_checkin.checkin\_admin role can stop the sched
 
 **Parent Topic:**[Setting up data privacy consent settings for Contact Tracing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/set-up-privacy-consent-settings.md)
 
-## Related
-
-- [[emergency-outreach|Emergency Outreach]]
-- [[contact-tracing|Contact Tracing]]

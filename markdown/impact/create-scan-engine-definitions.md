@@ -16,7 +16,7 @@ The Scan Engine contains preexisting base system definitions. However, if your o
 
 ## Before you begin
 
-**Note:** The [[impact-landing-page|Impact]] Guided package allows up to 10 active custom definitions in a single instance. Definitions above that number will be disabled when a scan is executed. The Impact Total package or the [[platform-health-idi|Platform Health]] add-on with the Guided package may have unlimited active custom definitions in a single instance.
+**Note:** The Impact Guided package allows up to 10 active custom definitions in a single instance. Definitions above that number will be disabled when a scan is executed. The Impact Total package or the Platform Health add-on with the Guided package may have unlimited active custom definitions in a single instance.
 
 Role required: Scan Engine Admin \(`sn_se.scan_engine_admin`\).
 
@@ -62,7 +62,7 @@ Select the severity level of the finding for the definition that displays when r
 -   **Recommend**: Prevents users from modifying the record unless they provide an exception reason for why the definition was not followed or until the definition's conditions are met.
 -   **Suggest**: Prompts users to check if there is a better solution available.
 -   **Review**: Calls out less serious items for review. This does not contribute to technical debt.
-See [[understand-scan-engine-results-findings|Understand scan results and findings]] for additional information.
+See [Understand scan results and findings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/understand-scan-engine-results-findings.md) for additional information.
 
 </td></tr><tr><td id="d48952e190">
 
@@ -72,10 +72,10 @@ See [[understand-scan-engine-results-findings|Understand scan results and findin
 
 The category of the definition: -   **Upgradeability**: Assesses the ease of enhancing a ServiceNow instance or application with new features, improvements, security patches, or compatibility adjustments.
 -   **Manageability**: Measures the extent to which ServiceNow instances, applications, or infrastructure can be effectively monitored, configured, and maintained.
--   **[[instance-observer-performance|Performance]]**: Measures the efficiency of a ServiceNow instance, encompassing aspects such as speed, responsiveness, resource utilization, and overall dependability.
+-   **Performance**: Measures the efficiency of a ServiceNow instance, encompassing aspects such as speed, responsiveness, resource utilization, and overall dependability.
 -   **Security**: Measures implementation of protocols across a ServiceNow instance to prevent unauthorized access, data breaches, cyber-attacks, and potential vulnerabilities.
--   **[[user-experience-insights|User Experience]]**: Evaluates the quality of user interactions with applications, considering ease of use, efficiency, design, responsiveness, accessibility, and its emotional and functional impact.
-See [[scan-engine-definitions|Scan Engine definitions]] for details.
+-   **User Experience**: Evaluates the quality of user interactions with applications, considering ease of use, efficiency, design, responsiveness, accessibility, and its emotional and functional impact.
+See [Scan Engine definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/scan-engine-definitions.md) for details.
 
 </td></tr><tr><td id="d48952e239">
 
@@ -345,11 +345,4 @@ A description of the steps for resolving the finding related to this definition.
 </td></tr></tbody>
 </table>7.  Select **Save** in the Additional Actions drop down menu to save the new definition, then configure the Applicable Tables.
 
-## Related
 
-- [[understand-scan-engine-results-findings|Understand scan results and findings]]
-- [[scan-engine-definitions|Scan Engine definitions]]
-- [[impact-landing-page|Impact]]
-- [[platform-health-idi|Platform Health]]
-- [[instance-observer-performance|Performance]]
-- [[user-experience-insights|User Experience]]

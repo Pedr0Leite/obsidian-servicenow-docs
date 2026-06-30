@@ -20,8 +20,8 @@ View visitor registrations submitted through the service portal. You can view al
 
 Role required: sn\_wsd\_visitor.admin or sn\_wsd\_visitor.staff
 
--   A reception staff can update the state of the [[register-visitors|visitor registration]].
--   You can print badges from anywhere in the [[workplace-visitor-mgmt-feat|Workplace Visitor Management]] application.
+-   A reception staff can update the state of the visitor registration.
+-   You can print badges from anywhere in the Workplace Visitor Management application.
 
 ## Procedure
 
@@ -57,7 +57,3 @@ Role required: sn\_wsd\_visitor.admin or sn\_wsd\_visitor.staff
 
 [Apply visitor management archive policy]()
 
-## Related
-
-- [[register-visitors|Visitor registration]]
-- [[workplace-visitor-mgmt-feat|Workplace Visitor Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Create a signal, Configuring Proactive Prompts, Proactive Prompts, 
 
 # Add a new prompt header to identify the prompt
 
-Add intuitive headers to the prompts displayed on the [[employee-center-portal-overview|Employee Portal]] to enable users to identify the type of prompt easily.
+Add intuitive headers to the prompts displayed on the Employee Portal to enable users to identify the type of prompt easily.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ The predefined default header is Suggestion.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[proactive-prompts-for-hrsd|Proactive Prompts]]** &gt; **Administration** &gt; **Signal Configurations**.
+1.  Navigate to **All** &gt; **Proactive Prompts** &gt; **Administration** &gt; **Signal Configurations**.
 
 2.  Select **New**.
 
@@ -73,7 +73,3 @@ The predefined default header is Suggestion.
 
 The newest header added is selected in the **Prompt header** field.
 
-## Related
-
-- [[employee-center-portal-overview|Employee portal]]
-- [[proactive-prompts-for-hrsd|Proactive Prompts]]

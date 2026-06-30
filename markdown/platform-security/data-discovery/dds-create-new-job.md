@@ -14,7 +14,7 @@ breadcrumb: [Data Discovery scheduled discovery, Data Discovery Store, Data Disc
 
 # Create discovery job
 
-Create and schedule a new [[dds-data-discovery|Data Discovery Store]] job.
+Create and schedule a new Data Discovery Store job.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: discovery.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[data-discovery-landing|Data Discovery]]** &gt; **Scheduled Discovery**.
+1.  Navigate to **All** &gt; **Data Discovery** &gt; **Scheduled Discovery**.
 
 2.  Select **Discovery Jobs** in the right side navigation pane.
 
@@ -97,7 +97,4 @@ The end of the time window to run this job. The job runs until the time entered 
 </td></tr></tbody>
 </table>4.  Select the **Schedule** button.
 
-## Related
 
-- [[dds-data-discovery|Data Discovery Store]]
-- [[data-discovery-landing|Data Discovery]]

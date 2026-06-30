@@ -19,7 +19,7 @@ Learn about the AI capabilities that can help teams adopt service level objectiv
 
 ## AI and SLO Management
 
-Use the [[now-assist-itom-slo-generation|SLO creator agent]] to automatically generate baseline SLOs for eligible configuration items \(CIs\). The agent analyzes CI data and creates active SLOs that you can review and modify.
+Use the SLO creator agent to automatically generate baseline SLOs for eligible configuration items \(CIs\). The agent analyzes CI data and creates active SLOs that you can review and modify.
 
 To learn more about the SLO creator agent, see:
 
@@ -61,6 +61,3 @@ This application requires data to be transferred from ServiceNow customers' indi
 
 ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/opt-out-of-data-sharing-for-now-assist.md).
 
-## Related
-
-- [[now-assist-itom-slo-generation|SLO creator agent]]

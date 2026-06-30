@@ -32,7 +32,7 @@ When new vulnerability is created in TISC and there is a related vulnerability i
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Administration**.
+1.  Navigate to **All** &gt; **Threat Intelligence Security Center** &gt; **Administration**.
 
 2.  Select **Automated Flows**.
 
@@ -66,7 +66,7 @@ When new vulnerability is created in TISC and there is a related vulnerability i
 
 [Automated sharing of high-risk IOC's with trusted partners]()
 
-[Automatically add [[threat-intel-landing-page|threat intelligence]] to a TAXII collection]()
+[Automatically add threat intelligence to a TAXII collection]()
 
 [Create vulnerability assessment for zero day]()
 
@@ -76,12 +76,7 @@ When new vulnerability is created in TISC and there is a related vulnerability i
 
 [Zero-day vulnerability tracking]()
 
-[Automatic [[threat-actor|Threat Actor]] priority tagging]()
+[Automatic Threat Actor priority tagging]()
 
 [Automated flows tables]()
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[threat-actor|Threat Actor]]

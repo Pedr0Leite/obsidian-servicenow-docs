@@ -16,7 +16,7 @@ breadcrumb: [Report types, Reporting, Reporting, dashboards, and Performance Ana
 
 Single score reports display a single value that is key to your business. Add single score reports to dashboards and configure them to update in real time.
 
-**Note:** On instances with Unified Analytics enabled, and on new Australia instances, both Core UI reports and [[par-workspace|Platform Analytics experience]] data visualizations are found in the [[c_performanceAnalyticsAndReporting|Platform Analytics]] library. Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**. For more information, see [[explore-data-vis-library|Exploring the Data Visualizations library]].
+**Note:** On instances with Unified Analytics enabled, and on new Australia instances, both Core UI reports and Platform Analytics experience data visualizations are found in the Platform Analytics library. Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**. For more information, see [Exploring the Data Visualizations library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/explore-data-vis-library.md).
 
 Single score reports which include dynamic conditions added at the report level will not show real-time updates on dashboards unless manually refreshed, or upon a page refresh. The real-time dashboard widget relies on the record watcher to know when an update has been made in order for the single score widget to auto-refresh. However, dynamic conditions aren't supported as part of the record watcher. See further explanation in [Create a real-time score visualization for a score widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/create-real-time-score-widget.md).
 
@@ -40,7 +40,7 @@ Role required: itil, report\_user, report\_group, report\_global, report\_admin,
 
 1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations** and select **New**.
 
-2.  On instances with Unified Analytics enabled, and on new Australia instances, both Core UI reports and Platform Analytics experience data visualizations are found in the Platform Analytics library. Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**. For more information, see [[differences-between-core-ui-ne-dbs|Differences between Core UI and Platform Analytics dashboards]].
+2.  On instances with Unified Analytics enabled, and on new Australia instances, both Core UI reports and Platform Analytics experience data visualizations are found in the Platform Analytics library. Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**. For more information, see [Differences between Core UI and Platform Analytics dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/differences-between-core-ui-ne-dbs.md).
 
 3.  On the **Data** tab, give the report a name that reflects the information being grouped.
 
@@ -60,7 +60,7 @@ Also called a report source, a data source is a table with filters applied to pr
 
 </td><td>
 
-The raw data from a table with no filters applied. When you select a table, its short description appears below the table name. For trend [[reporting-landing-page|reporting]], you can also select a remote table, which aggregates, in memory, data retrieved from an external source. Then select a **Trend by** field option to aggregate its data. To learn more about remote tables, see Retrieving external data using remote tables and scripts
+The raw data from a table with no filters applied. When you select a table, its short description appears below the table name. For trend reporting, you can also select a remote table, which aggregates, in memory, data retrieved from an external source. Then select a **Trend by** field option to aggregate its data. To learn more about remote tables, see Retrieving external data using remote tables and scripts
 
 </td></tr><tr><td id="d233312e317">
 
@@ -134,7 +134,7 @@ Enables you to configure how to show numerical values in reports, including deci
 
     To learn how to construct conditions, see Condition builder.
 
-    **Note:** In aggregated and [[list-reports|list reports]], language-dependent filter conditions may return zero results on localized instances.
+    **Note:** In aggregated and list reports, language-dependent filter conditions may return zero results on localized instances.
 
 9.  On the **Style** tab, fill in the fields as appropriate to configure the appearance of the report.
 
@@ -252,12 +252,3 @@ How the chart title is aligned vertically. This field appears when **Custom char
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[explore-data-vis-library|Exploring the Data Visualizations library]]
-- [[differences-between-core-ui-ne-dbs|Differences between Core UI and Platform Analytics dashboards]]
-- [[par-workspace|Platform Analytics experience]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[reporting-landing-page|Reporting]]
-- [[list-reports|List reports]]

@@ -18,7 +18,7 @@ After creating the chat launcher button, assign it to your Now Assist chat and v
 
 Role required: admin
 
--   Complete [[hco-now-assist-create-launcher-button|Enable Voice Assistant in Care Team Mobile]].
+-   Complete [Enable Voice Assistant in Care Team Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hco-now-assist-create-launcher-button.md).
 
 ## Procedure
 
@@ -41,6 +41,3 @@ Role required: admin
 
 The chat and voice assistants are now available from the prominent action button in the mobile app. For additional configuration, see Integrate voice assistant with mobile app launcher.
 
-## Related
-
-- [[hco-now-assist-create-launcher-button|Enable Voice Assistant in Care Team Mobile]]

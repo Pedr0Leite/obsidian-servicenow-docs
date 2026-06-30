@@ -78,11 +78,7 @@ The **Overview** tab provides an aggregated view of all the tests that the monit
 
 ## Details tab
 
-You can use the **Details** tab to create a monitor or edit an existing one. See [[create-synthetic-monitor|Create and edit a synthetic monitor]] for more information.
+You can use the **Details** tab to create a monitor or edit an existing one. See [Create and edit a synthetic monitor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/create-synthetic-monitor.md) for more information.
 
-**Parent Topic:**[[synthetic-monitoring-reference|Synthetic monitoring reference]]
+**Parent Topic:**[Synthetic monitoring reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/synthetic-monitoring-reference.md)
 
-## Related
-
-- [[create-synthetic-monitor|Create and edit a synthetic monitor]]
-- [[synthetic-monitoring-reference|Synthetic monitoring reference]]

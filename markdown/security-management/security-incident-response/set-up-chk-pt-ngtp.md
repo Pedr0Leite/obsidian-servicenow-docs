@@ -14,7 +14,7 @@ breadcrumb: [Check Point NGTP setup, Check Point Next Generation Threat Preventi
 
 # Set up the Check Point NGTP integration
 
-Complete the following steps to set up the [[check-point-ng-integration|Check Point Next Generation Threat Prevention integration]]. This would ensure that the pre-requisites for the integration to work are in place.
+Complete the following steps to set up the Check Point Next Generation Threat Prevention integration. This would ensure that the pre-requisites for the integration to work are in place.
 
 ## Before you begin
 
@@ -84,6 +84,4 @@ Role required: admin
 
     4.  Follow the [steps to configure HTTPS Inspection](https://sc1.checkpoint.com/documents/R80.10/WebAdminGuides/EN/CP_R80.10_NexGenSecurityGateway_Guide/html_frameset.htm?topic=documents/R80.10/WebAdminGuides/EN/CP_R80.10_NexGenSecurityGateway_Guide/13700) in the Check Point User Guide.
 
-## Related
 
-- [[check-point-ng-integration|Check Point Next Generation Threat Prevention integration]]

@@ -16,7 +16,7 @@ Spaces can be deleted from any floor or from another space as long as the space 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Facilities** &gt; **[[r_SpaceManagement|Space Management]]** &gt; **Space**.
+1.  Navigate to **All** &gt; **Facilities** &gt; **Space Management** &gt; **Space**.
 
 2.  Click the name of the space you want to delete.
 
@@ -25,9 +25,5 @@ Spaces can be deleted from any floor or from another space as long as the space 
     If the space has any assets associated with it, or if the space is associated with another space, a warning box opens. If you click **Delete**, the associated asset or space is deleted.
 
 
-**Parent Topic:**[[r_Manually-builtMaps|Customer-created maps]]
+**Parent Topic:**[Customer-created maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_Manually-builtMaps.md)
 
-## Related
-
-- [[r_Manually-builtMaps|Customer-created maps]]
-- [[r_SpaceManagement|Space management]]

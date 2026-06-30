@@ -14,7 +14,7 @@ breadcrumb: [Use, Advanced Work Assignment, Manage people and work, Conversation
 
 # Check unassigned interactions
 
-View a list of unassigned interactions in [[awa-application-landing-page|Advanced Work Assignment]] from chat and phone that are currently waiting in the queue and are not assigned to any agents. You can use this list to debug, implement advanced [[awa-assignment|work assignments]], or determine why certain [[awa-work-items|work items]] are not being assigned.
+View a list of unassigned interactions in Advanced Work Assignment from chat and phone that are currently waiting in the queue and are not assigned to any agents. You can use this list to debug, implement advanced work assignments, or determine why certain work items are not being assigned.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: awa\_manager or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Advanced Work Assignment** &gt; **[[management|Management]]** &gt; **Unassigned interactions**.
+1.  Navigate to **All** &gt; **Advanced Work Assignment** &gt; **Management** &gt; **Unassigned interactions**.
 
 2.  In the list, check the unassigned interactions:
 
@@ -41,9 +41,4 @@ Role required: awa\_manager or admin
     |Timed Out|Interaction that has exceeded the timeout specified in assignment rule.|
     |Exceeded Queue Target Wait Time|Interaction that has waited longer than the target wait time of the queue.|
 
-## Related
 
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[awa-assignment|Work assignments]]
-- [[awa-work-items|Work items]]
-- [[management|Management]]

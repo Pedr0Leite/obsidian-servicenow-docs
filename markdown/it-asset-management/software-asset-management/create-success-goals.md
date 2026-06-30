@@ -14,7 +14,7 @@ breadcrumb: [Success portal view in Software Asset Workspace, Software Asset Wor
 
 # Create success goals for Software Asset Management
 
-Create success goals to track the success of the [[c_SoftwareAssetMgmt|Software Asset Management]] application in your instance.
+Create success goals to track the success of the Software Asset Management application in your instance.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sam\_admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sam-workspace|Software Asset Workspace]]** &gt; **Success Portal**.
+1.  Navigate to **Workspaces** &gt; **Software Asset Workspace** &gt; **Success Portal**.
 
 2.  Select **Create success goal**.
 
@@ -32,7 +32,7 @@ Role required: sam\_admin
 
 4.  Select **Save**.
 
-    The success goal appears in the [License operations view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/operations-workspace.md) under the Success goals list. You can cancel or delete a success goal from the [[operations-workspace|License operations view]].
+    The success goal appears in the [License operations view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/operations-workspace.md) under the Success goals list. You can cancel or delete a success goal from the License operations view.
 
 
 **Related topics**  
@@ -44,8 +44,3 @@ Role required: sam\_admin
 
 [Success portal view in Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/success-portal-view.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[operations-workspace|License operations view]]

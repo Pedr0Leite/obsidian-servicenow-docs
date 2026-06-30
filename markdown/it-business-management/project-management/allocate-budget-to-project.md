@@ -22,7 +22,7 @@ Role required: it\_portfolio\_manager
 
 ## Procedure
 
-1.  Open the [[create-a-project-form|project form]].
+1.  Open the project form.
 
 2.  In the related links, select **Project Budget**.
 
@@ -60,7 +60,7 @@ The project budget for the selected year appears in the **Project Budget** relat
 
 [Create a project cost plan]()
 
-[Recalculating costs of all [[c_ResourcePlans|resource plans]] in a project]()
+[Recalculating costs of all resource plans in a project]()
 
 [Create an expense line]()
 
@@ -92,7 +92,3 @@ The project budget for the selected year appears in the **Project Budget** relat
 
 [Migrate financial baselines of projects to Next Experience]()
 
-## Related
-
-- [[create-a-project-form|Project form]]
-- [[c_ResourcePlans|Resource plans]]

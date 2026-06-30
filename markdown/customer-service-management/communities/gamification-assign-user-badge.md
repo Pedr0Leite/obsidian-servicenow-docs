@@ -14,7 +14,7 @@ breadcrumb: [Moderate gamification, Gamification, Using communities, Communities
 
 # Award a badge to a user
 
-Award [[communities-gamification|gamification]] [[gamification-components-badges|badges]] to community users to recognize their community activities.
+Award gamification badges to community users to recognize their community activities.
 
 ## Before you begin
 
@@ -41,7 +41,3 @@ A badge can be awarded to a user only once. If a badge is removed from a user, i
 
 **Parent Topic:**[Moderate gamification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/communities-gamification-moderate.md)
 
-## Related
-
-- [[communities-gamification|Gamification]]
-- [[gamification-components-badges|Badges]]

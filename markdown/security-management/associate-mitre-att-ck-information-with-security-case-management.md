@@ -12,7 +12,7 @@ breadcrumb: [Using MITRE-ATT&amp;CK to detect and analyze threats, MITRE-ATT&amp
 
 # Associate MITRE-ATT&amp;CK information with security case
 
-Associate MITRE-ATT&amp;CK tactics and techniques to a security case for better [[case-mgmt|security case management]] and threat analysis at a granular level.
+Associate MITRE-ATT&amp;CK tactics and techniques to a security case for better security case management and threat analysis at a granular level.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_si.analyst
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[threat-intel-landing-page|Threat Intelligence]]** &gt; **Case Management** &gt; **All Cases**.
+1.  Navigate to **All** &gt; **Threat Intelligence** &gt; **Case Management** &gt; **All Cases**.
 
 2.  Select the security case that you want to enrich with the MITRE-ATT&amp;CK information.
 
@@ -37,9 +37,9 @@ Role required: sn\_si.analyst
     The tactics and techniques that you have added appear in the MITRE-ATT&amp;CK Card.\[Omitted image "mitre-case-management.gif"\] Alt text: This illustration shows how to associate MITRE information with a security case.
 
 
-**Parent Topic:**[[mitre-att-ck-features|Using MITRE-ATT&amp;CK to detect and analyze threats]]
+**Parent Topic:**[Using MITRE-ATT&amp;CK to detect and analyze threats](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/mitre-att-ck-features.md)
 
-**Parent Topic:**[[create-cases-in-case-mgmt|Create cases in Security Case Management]]
+**Parent Topic:**[Create cases in Security Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/create-cases-in-case-mgmt.md)
 
 **Related topics**  
 
@@ -48,7 +48,7 @@ Role required: sn\_si.analyst
 
 [Associate MITRE-ATT&amp;CK information with observables]()
 
-[Rollup MITRE-ATT&amp;CK information using [[tisc-threat-lookup|Threat Lookup]] results]()
+[Rollup MITRE-ATT&amp;CK information using Threat Lookup results]()
 
 [Rollup MITRE-ATT&amp;CK information from detection rules]()
 
@@ -62,10 +62,3 @@ Role required: sn\_si.analyst
 
 [Add artifacts to a case]()
 
-## Related
-
-- [[mitre-att-ck-features|Using MITRE-ATT&amp;CK to detect and analyze threats]]
-- [[create-cases-in-case-mgmt|Create cases in Security Case Management]]
-- [[case-mgmt|Security Case Management]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[tisc-threat-lookup|Threat Lookup]]

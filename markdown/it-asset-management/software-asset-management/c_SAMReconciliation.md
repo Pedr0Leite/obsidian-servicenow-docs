@@ -30,14 +30,14 @@ Review reconciliation results in a simplified License Workbench view, and use th
 
 ## Upgrade considerations for customized reconciliation script includes
 
-Starting from the Yokohama release, all the reconciliation script includes are being moved from the family release to the [[c_SoftwareAssetMgmt|Software Asset Management]] store application \(com.sn\_itam\_samp'\).
+Starting from the Yokohama release, all the reconciliation script includes are being moved from the family release to the Software Asset Management store application \(com.sn\_itam\_samp'\).
 
 **Note:** When you activate the Software Asset Management Professional \(com.sn\_samp\_master\) plugin or the Software Asset Management Foundation \(com.snc.sams\) plugin, the Software Asset Management store application \(com.sn\_itam\_samp'\) is automatically activated.
 
 When upgrading to Yokohama, if you have made customizations to reconciliation script includes, you need to move your customizations to the new script includes. The old script includes will be deprecated.
 
 -   **[Software reconciliation results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/software-reconciliation-results.md)**  
-[[software-reconciliation-results|Software reconciliation results]] show the compliance status of software products concerning discovery and entitlements. Users with the sam\_user role can view the reconciliation results.
+Software reconciliation results show the compliance status of software products concerning discovery and entitlements. Users with the sam\_user role can view the reconciliation results.
 -   **[Effective License Position \(ELP\) report for grouping by consumption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/elp-grouping-byconsumption.md)**  
 Get a comprehensive overview of your software license position across various organizational levels by generating an ELP report.
 -   **[Accurately reporting your software true-up cost](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/accurate-trueup-cost.md)**  
@@ -51,7 +51,3 @@ Get visibility into how your rights are calculated and consumed post the reconci
 
 **Parent Topic:**[Exploring Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/explore-sam-workspace.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[software-reconciliation-results|Software reconciliation results]]

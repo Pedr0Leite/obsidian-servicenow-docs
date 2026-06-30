@@ -15,7 +15,7 @@ breadcrumb: [Install Invoice Case Management, Configure, Accounts Payable Operat
 
 # Components installed with Invoice Case Management
 
-Reference information for the roles, scheduled jobs, and tables installed with the [[acc-pay-case-mgmt-overview|Invoice Case Management]] plugin during activation.
+Reference information for the roles, scheduled jobs, and tables installed with the Invoice Case Management plugin during activation.
 
 ## Roles installed
 
@@ -68,7 +68,7 @@ Invoice Case Management Requester \[sn\_ap\_cm.requester\]
 
 </td><td>
 
-Can [[create-invoice|create invoice]] inquiry cases.
+Can create invoice inquiry cases.
 
 </td><td>
 
@@ -138,7 +138,3 @@ Activate the **Create Inquiry Case on Invoice email** flow to automatically crea
 
 **Parent Topic:**[Install Invoice Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/install-invoice-case-mgmt.md)
 
-## Related
-
-- [[acc-pay-case-mgmt-overview|Invoice Case Management]]
-- [[create-invoice|create invoice]]

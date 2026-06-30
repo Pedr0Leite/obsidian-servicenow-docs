@@ -12,27 +12,16 @@ breadcrumb: [Business Continuity Management, Governance, Risk, and Compliance]
 
 # Managing BCM workflow tasks
 
-You can use the features and capabilities of the [[business-continuity-mangmt-overview|Business Continuity Management]] application and manage business continuity workflow tasks in [[bcm-workspace|BCM Configurable Workspace]].
+You can use the features and capabilities of the Business Continuity Management application and manage business continuity workflow tasks in BCM Configurable Workspace.
 
 ## Performing business continuity tasks in BCM Configurable Workspace
 
-Perform the tasks that are outlined in this section to manage business continuity for your organization. You can [[create-bia-in-uib-ws|create a business impact analysis]], business continuity plan, an exercise event, or [[manage-crisis-event|manage a crisis event]] in Business Continuity Workspace \(also known as BCM Configurable Workspace\).
+Perform the tasks that are outlined in this section to manage business continuity for your organization. You can create a business impact analysis, business continuity plan, an exercise event, or manage a crisis event in Business Continuity Workspace \(also known as BCM Configurable Workspace\).
 
 See these sections for performing business continuity tasks in BCM Configurable Workspace:
 
--   For tasks related to a [[bia-uib|business impact analysis]], see [[bia-tasks-performed-by-bia-owner|Structured workflows for BIAs]].
--   For tasks related to a business continuity plan, see [[bcp-tasks-performed-by-bcp-owner|Structured workflows for BCPs]].
--   For tasks related to an exercise event, see [[performing-tasks-to-manage-exercise-events|Structured workflows for Exercises]].
--   For tasks related to a crisis event, see [[perform-tasks-to-manage-crisis-events|Structured workflows for Crisis events]].
+-   For tasks related to a business impact analysis, see [Structured workflows for BIAs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bia-tasks-performed-by-bia-owner.md).
+-   For tasks related to a business continuity plan, see [Structured workflows for BCPs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bcp-tasks-performed-by-bcp-owner.md).
+-   For tasks related to an exercise event, see [Structured workflows for Exercises](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/performing-tasks-to-manage-exercise-events.md).
+-   For tasks related to a crisis event, see [Structured workflows for Crisis events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/perform-tasks-to-manage-crisis-events.md).
 
-## Related
-
-- [[bia-tasks-performed-by-bia-owner|Structured workflows for BIAs]]
-- [[bcp-tasks-performed-by-bcp-owner|Structured workflows for BCPs]]
-- [[performing-tasks-to-manage-exercise-events|Structured workflows for Exercises]]
-- [[perform-tasks-to-manage-crisis-events|Structured workflows for Crisis events]]
-- [[business-continuity-mangmt-overview|Business Continuity Management]]
-- [[bcm-workspace|BCM Configurable Workspace]]
-- [[create-bia-in-uib-ws|Create a business impact analysis]]
-- [[manage-crisis-event|Manage a crisis event]]
-- [[bia-uib|Business impact analysis]]

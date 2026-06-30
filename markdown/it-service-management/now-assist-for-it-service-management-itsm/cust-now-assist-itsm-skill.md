@@ -15,7 +15,7 @@ breadcrumb: [Configure, Now Assist for IT Service Management \(ITSM\), IT Servic
 
 # Customize a Now Assist for IT Service Management \(ITSM\) skill
 
-If you have the admin role, you can customize a Now Assist for IT Service Management \(ITSM\) skill so that agents can use the generative AI skills in [[sow-landing-page|Service Operations Workspace for ITSM]] and in Core UI.
+If you have the admin role, you can customize a Now Assist for IT Service Management \(ITSM\) skill so that agents can use the generative AI skills in Service Operations Workspace for ITSM and in Core UI.
 
 ## Before you begin
 
@@ -175,7 +175,7 @@ Summarizes attachments in the Incident summarization skill record using Document
 
         1.  Navigate to **All** &gt; **Change** &gt; **Workspace Configuration** &gt; **Overview Container.**
 
-            Make sure the application scope is set to **[[c_ITILChangeManagement|Change Management]] for Service Operations Workspace**.
+            Make sure the application scope is set to **Change Management for Service Operations Workspace**.
 
         2.  In the Change Overview Containers list, select the state that you've added or modified.
         3.  Add the GenAI Summary Card to the Change Overview Cards related list.
@@ -357,7 +357,4 @@ Closed
 
     You can now select **Summarize** in an incident and generate the custom incident summary.
 
-## Related
 
-- [[sow-landing-page|Service Operations Workspace for ITSM]]
-- [[c_ITILChangeManagement|Change Management]]

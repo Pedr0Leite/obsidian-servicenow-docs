@@ -12,7 +12,7 @@ breadcrumb: [Overview of Instance Observer metrics, Instance Observer reference,
 
 # Load balancer performance metrics
 
-The metrics provide the load balancer [[instance-observer-performance|performance]] snapshot within the ServiceNow AI Platform®.
+The metrics provide the load balancer performance snapshot within the ServiceNow AI Platform®.
 
 ## Memory Utilization \(1 to 100 max\)
 
@@ -42,7 +42,7 @@ Total number of HTTP responses/second with response code 5XX \(server error resp
 
 This represents the total number of active \(processing\) requests at a given timestamp. Note that this is an aggregated value that includes all responses sent for the instance in question.
 
-**Parent Topic:**[[instance-observer-ovr-metric|Overview of Instance Observer metrics]]
+**Parent Topic:**[Overview of Instance Observer metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/instance-observer-ovr-metric.md)
 
 **Related topics**  
 
@@ -51,7 +51,7 @@ This represents the total number of active \(processing\) requests at a given ti
 
 [Anomaly insights]()
 
-[Feature [[io-availability|availability]] based on package]()
+[Feature availability based on package]()
 
 [Auriga Intelligent Alert report]()
 
@@ -87,8 +87,3 @@ This represents the total number of active \(processing\) requests at a given ti
 
 [Instance Data Replication]()
 
-## Related
-
-- [[instance-observer-ovr-metric|Overview of Instance Observer metrics]]
-- [[instance-observer-performance|Performance]]
-- [[io-availability|Availability]]

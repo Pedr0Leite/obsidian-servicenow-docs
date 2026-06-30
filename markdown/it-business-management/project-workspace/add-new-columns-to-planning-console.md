@@ -14,7 +14,7 @@ breadcrumb: [Personalize the planning page view in Project Workspace, Managing p
 
 # Add new columns to the planning page
 
-Display new columns on the planning page of the new [[project-workspace-landing-page|project workspace]] so that your project managers can view custom fields for the [[t_CreateAProjectTask|project tasks]] on the planning page.
+Display new columns on the planning page of the new project workspace so that your project managers can view custom fields for the project tasks on the planning page.
 
 ## Before you begin
 
@@ -49,7 +49,3 @@ The Project Workspace view of the pm\_project\_task table is updated according t
 
 **Parent Topic:**[Personalize the planning page view in Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/personalize-planning-console-in-project-workspace.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]
-- [[t_CreateAProjectTask|Project tasks]]

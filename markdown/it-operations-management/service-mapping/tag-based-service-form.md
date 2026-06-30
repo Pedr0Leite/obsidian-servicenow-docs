@@ -22,7 +22,7 @@ The tag-based application service form offers a comprehensive view of a tag-base
 
 To access the tag-based application service form:
 
-1.  Navigate to **Workspaces** &gt; **[[c_ServiceMappingOverview|Service Mapping]]** &gt; **.**
+1.  Navigate to **Workspaces** &gt; **Service Mapping** &gt; **.**
 2.  Select the **Tag-based Service Mapping** icon \[Omitted image "tag-outline-24.svg"\] from the navigation pane.
 3.  Select the **Tag-based service maps** tile.
 4.  Select the desired tag-based service to view the tag-based application service form.
@@ -41,6 +41,3 @@ The **Service CIs** tab lists the configuration items \(CIs\) that are part of t
 
 The **Tagged CIs** tab lists all CIs that meet the criteria for a tag-based application service, up to 4,000. The **sa.it\_service.list\_cis\_max\_count** property controls this limit. This list includes CIs belonging to the application service \(also listed on the **Service CIs** tab\) and up to 3,000 additional CIs. This tab is useful for building new tag-based application services or troubleshooting existing services with a preview of relevant CIs. However, no CIs beyond the 4000 limit are displayed.
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]

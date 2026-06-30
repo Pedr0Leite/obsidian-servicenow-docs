@@ -14,7 +14,7 @@ breadcrumb: [Setting up Field Service Mobile Agent, Configure, Field Service Man
 
 # Configuring Site Mapping for Field Service Management
 
-Site Mapping for [[fsm-application-landing-page|Field Service Management]] helps agents navigate job sites when their tasks are in large indoor facilities.
+Site Mapping for Field Service Management helps agents navigate job sites when their tasks are in large indoor facilities.
 
 Site Mapping for Field Service Management integrates features from Indoor Mapping to the Mobile Agent application. For more information, see [Indoor Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/Indoor-mapping.md).
 
@@ -29,6 +29,3 @@ The steps for configuring Site Mapping for Field Service Management are:
 3.  [Create a Custom Map Provider record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/mobile-experience-for-field-service-management-glide-family/create-custom-map-prvdr-rcrd.md)
 4.  [Set the default provider for a Custom Map Screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/mobile-experience-for-field-service-management-glide-family/set-default-provdr-cst-mp-scrn.md)
 
-## Related
-
-- [[fsm-application-landing-page|Field Service Management]]

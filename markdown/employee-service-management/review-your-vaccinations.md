@@ -32,8 +32,5 @@ Role required: sn\_imt\_core.privacy\_consent\_user
 
     -   If you are reviewing the record, review the record and click **Back** to return to the list of vaccine responses.
 
-**Parent Topic:**[[vaccination-status|Vaccination Status]]
+**Parent Topic:**[Vaccination Status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/vaccination-status.md)
 
-## Related
-
-- [[vaccination-status|Vaccination Status]]

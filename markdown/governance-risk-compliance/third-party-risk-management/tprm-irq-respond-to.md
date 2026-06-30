@@ -22,7 +22,7 @@ Role required: snc\_internal
 
 ## About this task
 
-When someone in your organization creates a due diligence request, the owner of the overall due diligence process specifies who should respond to that initial IRQ. Internal assessments can also be created on demand and the owner assigns questionnaires to IRQ assessors or respondents. As an IRQ assessor or respondent, you receive an email that contains the links to the assigned questionnaires, the name of the related assessment, and the deadline. This information is also provided as part of the questionnaire in [[employee-center|Employee Center]]. For more information, see [Assessing your third-party risk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-assessing-tpr.md), [Create an internal assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-create-int-assessment.md), [Requesting third-party risk due diligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-requesting-tpr-due-diligence.md), and [Due diligence workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-workflow-in-workspace.md).
+When someone in your organization creates a due diligence request, the owner of the overall due diligence process specifies who should respond to that initial IRQ. Internal assessments can also be created on demand and the owner assigns questionnaires to IRQ assessors or respondents. As an IRQ assessor or respondent, you receive an email that contains the links to the assigned questionnaires, the name of the related assessment, and the deadline. This information is also provided as part of the questionnaire in Employee Center. For more information, see [Assessing your third-party risk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-assessing-tpr.md), [Create an internal assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-create-int-assessment.md), [Requesting third-party risk due diligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-requesting-tpr-due-diligence.md), and [Due diligence workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-workflow-in-workspace.md).
 
 **Note:** When a request is created, the system alerts the initial due diligence requester and all users in the Due diligence request assignment group. A member of the group can assign a Third-party risk \(TPR\) manager or TPR assessor to act as the owner of the request.
 
@@ -50,7 +50,7 @@ In the My active items pane, select **Surveys** and In the My Assessments and Su
 
 </td></tr><tr><td id="d125424e154">
 
-**Respond to an IRQ or internal questionnaire using the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]**
+**Respond to an IRQ or internal questionnaire using the Smart Assessment Engine**
 
 </td><td>
 
@@ -73,7 +73,3 @@ Internal assessments can be reassigned to any system user except vendor contacts
 
 [Why you conduct due diligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/vrm-due-diligence-why.md)
 
-## Related
-
-- [[employee-center|employee center]]
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]

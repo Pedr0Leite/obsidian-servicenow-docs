@@ -26,7 +26,7 @@ Here is what the **change.itil.approve.role** template looks like using the rich
 
 The selection list on the right shows the available fields from the `sysapproval_approver` table.
 
-Notice the **change.itil.approve.role** template also uses a predefined email layout \(Unsubscribe and Preferences\), which provides links for the recipient to unsubscribe from approval [[notifications|notifications]] and [[set-notification-preferences|set notification preferences]].
+Notice the **change.itil.approve.role** template also uses a predefined email layout \(Unsubscribe and Preferences\), which provides links for the recipient to unsubscribe from approval notifications and set notification preferences.
 
 And here is the **mailto.approval** template:
 
@@ -46,20 +46,13 @@ Notice that the email recipient can use the following links in the mail:
 -   A link that generates an automatic email response to reject the change
 -   A link to unsubscribe from approval notifications and another link to set notification preferences
 
--   **[[r_AddBlankLinesInAnEmailTemplate|Add blank lines in an email template]]**  
+-   **[Add blank lines in an email template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AddBlankLinesInAnEmailTemplate.md)**  
 You can easily add blank lines in an email template using HTML tags.
 
-**Parent Topic:**[[c_EmailTemplates|Email templates]]
+**Parent Topic:**[Email templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailTemplates.md)
 
 **Related topics**  
 
 
-[[email-layouts|Email layouts]]
+[Email layouts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/email-layouts.md)
 
-## Related
-
-- [[r_AddBlankLinesInAnEmailTemplate|Add blank lines in an email template]]
-- [[c_EmailTemplates|Email templates]]
-- [[email-layouts|Email layouts]]
-- [[notifications|Notifications]]
-- [[set-notification-preferences|Set notification preferences]]

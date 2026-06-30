@@ -12,11 +12,11 @@ breadcrumb: [Configure case management, Case management, Organize agent workspac
 
 # Routing and assigning customer service cases
 
-The case routing feature uses matching [[gamification-components-rules|rules]] and assignment rules to identify customer service cases that meet certain conditions and then route those cases to customer service agents.
+The case routing feature uses matching rules and assignment rules to identify customer service cases that meet certain conditions and then route those cases to customer service agents.
 
 ## Overview
 
-Create one or more matching rules that establish specific conditions that a case must meet before it can be routed to an agent. Then use an assignment rule to route those cases to agents based on product knowledge and availability. You can also [[t_InvokeMatchingRuleAPI|invoke the MatchingRuleProcessor API]] to execute the matching rules and return a list of users \(sys\_ids\).
+Create one or more matching rules that establish specific conditions that a case must meet before it can be routed to an agent. Then use an assignment rule to route those cases to agents based on product knowledge and availability. You can also invoke the MatchingRuleProcessor API to execute the matching rules and return a list of users \(sys\_ids\).
 
 ## Matching Rules
 
@@ -50,7 +50,3 @@ Alternately, you can create a script to further customize the assignment rule.
 
 [Assignment rules module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_AssignmentRulesModule.md)
 
-## Related
-
-- [[gamification-components-rules|Rules]]
-- [[t_InvokeMatchingRuleAPI|Invoke the MatchingRuleProcessor API]]

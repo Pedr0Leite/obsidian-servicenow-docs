@@ -126,7 +126,7 @@ Users who must approve the disclosure.
 
     Before you perform the next step, wait for one minute for the data to reflect in the tracking table. Ensure that the custom properties, Document ID and Disclosure Number of the disclosure documents for a disclosure record are not updated or deleted.
 
-5.  To modify and upload the document that is created, refer to [[upload-a-disclosure-document|Upload a disclosure document]].
+5.  To modify and upload the document that is created, refer to [Upload a disclosure document](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/upload-a-disclosure-document.md).
 
 6.  To move the disclosure to the next state, select **Move to Work in Progress**.
 
@@ -136,9 +136,5 @@ Users who must approve the disclosure.
 -   **[Upload a disclosure document](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/upload-a-disclosure-document.md)**  
 Upload locally created disclosures in the Operational Sustainability Management application instance.
 
-**Parent Topic:**[[esg-disclosures|Disclosures in Operational Sustainability Management \(formerly ESG Management\)]]
+**Parent Topic:**[Disclosures in Operational Sustainability Management \(formerly ESG Management\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/esg-disclosures.md)
 
-## Related
-
-- [[upload-a-disclosure-document|Upload a disclosure document]]
-- [[esg-disclosures|Disclosures in Operational Sustainability Management \(formerly ESG Management\)]]

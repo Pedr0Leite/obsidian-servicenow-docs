@@ -24,7 +24,7 @@ Role required: sp\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ServicePortal|Service Portal]]** &gt; **Announcements** and open the inactive record named **Privacy Notice**.
+1.  Navigate to **All** &gt; **Service Portal** &gt; **Announcements** and open the inactive record named **Privacy Notice**.
 
 2.  Review the form.
 
@@ -60,6 +60,3 @@ The Privacy Notice announcement is displayed to unauthenticated portal users.
 
 [Create an announcement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/create-announcement.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]

@@ -14,7 +14,7 @@ breadcrumb: [Developing custom widgets, Service Portal, Configure UIs and portal
 
 # Widget troubleshooting guide
 
-Use the following tools to investigate and resolve unexpected behavior in your custom [[c_ServicePortal|Service Portal]] widgets.
+Use the following tools to investigate and resolve unexpected behavior in your custom Service Portal widgets.
 
 -   **Reduce complexity**
 
@@ -208,9 +208,9 @@ This code can be added to the HTML code of a page to output the data object to t
 
 -   **Check the associated Angular Providers**
 
-    Verify that the necessary Angular Providers are associated with widgets. Removing the default Angular Providers associated with a base system widget can cause unexpected behavior. For example, removing the scToggleData or scBindHtmlCompile Angular Providers from the [[sc-catalog-item-widget|SC Catalog Item widget]].
+    Verify that the necessary Angular Providers are associated with widgets. Removing the default Angular Providers associated with a base system widget can cause unexpected behavior. For example, removing the scToggleData or scBindHtmlCompile Angular Providers from the SC Catalog Item widget.
 
--   **Create a [[onboarding-modals-reference|reference]] to the widgets scope in the console**
+-   **Create a reference to the widgets scope in the console**
 
     Use reference to a widget to manipulate scope data or manually run the widgets client and server scripts. Use the following steps to create the reference.
 
@@ -244,8 +244,3 @@ This code can be added to the HTML code of a page to output the data object to t
 
 **Parent Topic:**[Developing custom widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/widget-dev-guide.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[sc-catalog-item-widget|SC Catalog Item widget]]
-- [[onboarding-modals-reference|Reference]]

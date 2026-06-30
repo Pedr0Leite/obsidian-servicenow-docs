@@ -14,7 +14,7 @@ breadcrumb: [Notify workflow activities, Notify reference, Notify, Manage servic
 
 # Creating Notify activities
 
-Default [[notify-landing-page|Notify]] workflow generally performs a single action, such as initiating a phone call. You can create custom [[c_NotifyActivities|Notify workflow activities]] to implement more complex functionality.
+Default Notify workflow generally performs a single action, such as initiating a phone call. You can create custom Notify workflow activities to implement more complex functionality.
 
 Use event handler functions in each Notify activity definition to design your own activity behavior. For example, you can set the activity result if the caller hangs up by using the onCompleted function.
 
@@ -37,7 +37,3 @@ When creating a new Notify workflow activity, follow these design principles.
 
 [NotifyAction - Global](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/c_NotifyActionApi.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]
-- [[c_NotifyActivities|Notify workflow activities]]

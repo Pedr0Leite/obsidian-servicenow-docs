@@ -14,7 +14,7 @@ breadcrumb: [Privacy Workspace for the privacy manager, Explore, Privacy Managem
 
 # Risk and compliance tab
 
-The Risk and compliance tab on the [[privacy-management|privacy management]] dashboard provides a centralized view of privacy-related risk exposure and regulatory compliance performance.
+The Risk and compliance tab on the privacy management dashboard provides a centralized view of privacy-related risk exposure and regulatory compliance performance.
 
 The Risk and compliance tab on the privacy management dashboard enables organizations to monitor the risk and compliance postures of the privacy program within the organization. It helps evaluate how effective current privacy controls are in mitigating identified risks and supporting compliance.
 
@@ -26,7 +26,7 @@ The visualization and data-driven layout support informed decision-making for pr
 
 -   **Risk overview**
 
-    This donut chart displays the distribution of [[ropa-record|processing activities]] across different aggregated risk levels. By default, the distribution is based on the aggregated residual risk scores. However, you can apply a filter to view the distribution based on aggregated inherent risk classification instead. Each activity is color-coded by its associated risk level.
+    This donut chart displays the distribution of processing activities across different aggregated risk levels. By default, the distribution is based on the aggregated residual risk scores. However, you can apply a filter to view the distribution based on aggregated inherent risk classification instead. Each activity is color-coded by its associated risk level.
 
     The Risk heatmap widget displays the visualization of all identified risks within each processing activity. By default, residual risk filter is applied, but you can filter it based on inherent risk level. The heatmap is segmented, and the segmentation changes based on the filter. The activities fall under the respective combination of risk and control effectiveness, or impact and likelihood. The combination is based on the selected risk classification filter.
 
@@ -40,7 +40,7 @@ The visualization and data-driven layout support informed decision-making for pr
 
     This section highlights specific control objectives requiring immediate remediation, along with the number of impacted processing activities. Each control objective is hyperlinked for detailed review.
 
--   **[[reg-change-mgmt-landing-page|Regulatory change management]]**
+-   **Regulatory change management**
 
     The Activity overview widget displays the status of change-related activities triggered by regulatory updates. Each segment is represented using donut charts with status-based color coding.
 
@@ -51,13 +51,7 @@ The visualization and data-driven layout support informed decision-making for pr
 
 The following image shows the Risk and compliance dashboard.
 
-\[Omitted image "risk-compliance-prm-home-page.png"\] Alt text: Risk and compliance tab on the [[privacy-manager-dashboard|privacy management home page]].
+\[Omitted image "risk-compliance-prm-home-page.png"\] Alt text: Risk and compliance tab on the privacy management home page.
 
 **Parent Topic:**[Privacy Workspace for the privacy manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/privacy-mgmt-ws-privacy-compliance-manager.md)
 
-## Related
-
-- [[privacy-management|privacy management]]
-- [[ropa-record|Processing activities]]
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]
-- [[privacy-manager-dashboard|Privacy Management home page]]

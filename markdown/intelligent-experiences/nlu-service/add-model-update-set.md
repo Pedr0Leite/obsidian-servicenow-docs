@@ -14,12 +14,12 @@ breadcrumb: [Creating models, Model management, Natural Language Understanding, 
 
 # Add an NLU model to an update set
 
-Use update sets to move your [[nlu-landing|Natural Language Understanding]] \(NLU\) models from one instance to another. Update sets include all records needed for your model to function on the target instance.
+Use update sets to move your Natural Language Understanding \(NLU\) models from one instance to another. Update sets include all records needed for your model to function on the target instance.
 
 ## Before you begin
 
--   Make sure that the NLU Workbench plugin, NLU Workbench - Core plugin, and [[predictive-intelligence-landing|Predictive Intelligence]] plugin are all installed and activated on your instance.
--   The following instructions apply to [[nlu-models|NLU models]] for Virtual Agent and AI Search.
+-   Make sure that the NLU Workbench plugin, NLU Workbench - Core plugin, and Predictive Intelligence plugin are all installed and activated on your instance.
+-   The following instructions apply to NLU models for Virtual Agent and AI Search.
 -   Role required: admin
 
 ## About this task
@@ -110,8 +110,3 @@ In the target instance, navigate to **Retrieved Update Sets** and select **Impor
 
 If a referenced record in the source instance is not present on the target instance, you may encounter errors while applying the update set. For example, the origin field on sys\_nlu\_intent could refer to an intent from a different model that doesn't exist on the target instance. You can select **Accept remote update** on the failed records to commit the update set anyway.
 
-## Related
-
-- [[nlu-landing|Natural Language Understanding]]
-- [[predictive-intelligence-landing|Predictive Intelligence]]
-- [[nlu-models|NLU models]]

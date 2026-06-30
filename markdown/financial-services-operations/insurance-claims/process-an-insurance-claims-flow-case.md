@@ -14,7 +14,7 @@ breadcrumb: [Use, Insurance claims, Exploring insurance claims applications, Ins
 
 # Process an Insurance claims case
 
-Process claims cases in the [[insurance-claims-flow|Insurance claims]] application. As a claims processor, you can review and verify insurance claims, complete the fulfillment tasks after an adjuster's evaluation, and close a claim.
+Process claims cases in the Insurance claims application. As a claims processor, you can review and verify insurance claims, complete the fulfillment tasks after an adjuster's evaluation, and close a claim.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ This procedure references service definitions and products that are used in the 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Open the claim case and task in one of the following ways.
 
@@ -100,7 +100,4 @@ Select an active case from the My pending tasks or My open claims list.
 
 5.  Close the task from the task form.
 
-## Related
 
-- [[insurance-claims-flow|Insurance claims]]
-- [[fso-overview|Financial Services]]

@@ -14,7 +14,7 @@ breadcrumb: [Configuring air gap connections, Microsoft SCCM, Service Graph Conn
 
 # Configure air gap solution for Microsoft SCCM in a ServiceNow instance
 
-Configure the air gap solution for the [[cmdb-integration-sccm|Service Graph Connector for Microsoft SCCM]] in your ServiceNow instance after you finish the configuration in your high-secure and low-secure servers.
+Configure the air gap solution for the Service Graph Connector for Microsoft SCCM in your ServiceNow instance after you finish the configuration in your high-secure and low-secure servers.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **System Definition** &gt; **Plugins**, and download the `ServiceNow IntegrationHub Action Step – PowerShell` plugin.
 
-2.  Navigate to **Workspaces** &gt; **CMDB Workspace** &gt; **[[sgcc-landing|SGC Central]]** &gt; **Create connection**.
+2.  Navigate to **Workspaces** &gt; **CMDB Workspace** &gt; **SGC Central** &gt; **Create connection**.
 
 3.  Download and run the PowerShell scripts to set up an air gap connection.
 
@@ -36,7 +36,7 @@ Role required: admin
 
     4.  Download the scripts and configure the air gap connection.
 
-    5.  Select the **I have read the instructions and executed the scripts accordingly** [[check-box|check box]], and then select **Continue**.
+    5.  Select the **I have read the instructions and executed the scripts accordingly** check box, and then select **Continue**.
 
 4.  In the **Setup** stage of the playbook, select the **Create and test connection** activity.
 
@@ -60,7 +60,7 @@ Display name for the connection.
 
 </td></tr><tr><td>
 
-[[mid-server-landing|MID Server]]
+MID Server
 
 </td><td>
 
@@ -99,9 +99,3 @@ Folder where the data is to be archived if the **Archive Data After Retrieval** 
 
 [Perform a test data load for the air gap solution for Microsoft SCCM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-sccm-airgap-test-load.md)
 
-## Related
-
-- [[cmdb-integration-sccm|Service Graph Connector for Microsoft SCCM]]
-- [[sgcc-landing|SGC Central]]
-- [[check-box|Check box]]
-- [[mid-server-landing|MID Server]]

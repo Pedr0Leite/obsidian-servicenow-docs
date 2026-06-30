@@ -33,8 +33,5 @@ Role required: sn\_grc\_metric.admin
     3.  Select **Save**.
 
 
-**Parent Topic:**[[enable-custom-fiscal-year|Create fiscal calendars]]
+**Parent Topic:**[Create fiscal calendars](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/enable-custom-fiscal-year.md)
 
-## Related
-
-- [[enable-custom-fiscal-year|Create fiscal calendars]]

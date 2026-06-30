@@ -31,7 +31,7 @@ The guidance based recommendations appear for various records in the Service Ope
 
 For incident records, clicking the **Recommendations** icon\(\[Omitted image "recommended-actions-icon.png"\] Alt text: recommended actions icon\) displays the **Recommended actions** and **Search** sub-tabs. The **Search** sub-tab allows you to manually search for AI-powered recommendations.
 
-For records other than incidents \(such as Incident Tasks, Problems, Problem tasks, Change requests, [[change-tasks|Change tasks]], Interactions, and Requests\), recommendations do not appear directly. Instead, you can use AI-powered search to find the recommendations.
+For records other than incidents \(such as Incident Tasks, Problems, Problem tasks, Change requests, Change tasks, Interactions, and Requests\), recommendations do not appear directly. Instead, you can use AI-powered search to find the recommendations.
 
 ## Procedure
 
@@ -54,6 +54,3 @@ For records other than incidents \(such as Incident Tasks, Problems, Problem tas
 
 **Parent Topic:**[Recommended Actions for ITSM in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/recommended-actions-for-itsm-in-service-operations-workspace.md)
 
-## Related
-
-- [[change-tasks|Change tasks]]

@@ -14,9 +14,9 @@ breadcrumb: [HR Service Delivery, Employee Service Management]
 
 # HR Service Delivery for mobile
 
-The HR Service Delivery for mobile plugin enables employees to access [[hr-service-delivery|HR Service Delivery]] features from their mobile devices.
+The HR Service Delivery for mobile plugin enables employees to access HR Service Delivery features from their mobile devices.
 
-Employees can view HR requests, [[discover-lxp|discover]] knowledge articles, request help, complete HR tasks, chat with a virtual agent, and more.
+Employees can view HR requests, discover knowledge articles, request help, complete HR tasks, chat with a virtual agent, and more.
 
 ## View HR requests
 
@@ -24,7 +24,7 @@ Employees can view HR requests, [[discover-lxp|discover]] knowledge articles, re
 
 Employees can view their HR requests from the **Home** tab by selecting **My Requests**.
 
-**Note:** If you're using the [[mobile-employee-experience|Now Mobile app]] with the [[hr-lifecycle-events-landing-page-1|Lifecycle Events]] for Enterprise \[com.sn\_hr\_lifecycle\_ent\] plugin, [[hiring-tab-concept|hiring]] managers can track the onboarding progress of their new hires in a single and consolidated section. See [Hiring manager experience for new hire onboarding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-mobile/hiring-manager-experience-for-new-hire-onboarding-in-now-mobile-app.md) for more information.
+**Note:** If you're using the Now Mobile app with the Lifecycle Events for Enterprise \[com.sn\_hr\_lifecycle\_ent\] plugin, hiring managers can track the onboarding progress of their new hires in a single and consolidated section. See [Hiring manager experience for new hire onboarding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-mobile/hiring-manager-experience-for-new-hire-onboarding-in-now-mobile-app.md) for more information.
 
 ## Request help
 
@@ -51,14 +51,14 @@ If enabled, employees can chat with a virtual agent. See [Enable Live Agent in t
 
 ## Activation information
 
-HR Service Delivery for mobile is automatically activated when you activate [[case-knowledge-management-landing-page|Case and Knowledge Management]]. If it is not activated, you can manually [[activate-mobile-employee-experience-for-hr-service-delivery|activate HR Service Delivery for mobile]].
+HR Service Delivery for mobile is automatically activated when you activate Case and Knowledge Management. If it is not activated, you can manually activate HR Service Delivery for mobile.
 
 [Activate HR Service Delivery for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-mobile/activate-mobile-employee-experience-for-hr-service-delivery.md)
 
 -   **[Activate HR Service Delivery for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-mobile/activate-mobile-employee-experience-for-hr-service-delivery.md)**  
 Activate the HR Service Delivery for mobile plugin \(sn\_hr\_mobile\) if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
 -   **[Administer Now Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-mobile/administer-mobile-employee-onboarding-for-hr-service-delivery.md)**  
-Configure the Now Mobile experience for your employees to enable them to access features from Lifecycle Events, [[jny-dsgnr-landing-page-1|Journey designer]], and Agent Chat in their mobile devices.
+Configure the Now Mobile experience for your employees to enable them to access features from Lifecycle Events, Journey designer, and Agent Chat in their mobile devices.
 -   **[Hiring manager experience for new hire onboarding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-mobile/hiring-manager-experience-for-new-hire-onboarding-in-now-mobile-app.md)**  
 If you're using the Now Mobile app with the Lifecycle Events for Enterprise \[com.sn\_hr\_lifecycle\_ent\] plugin, hiring managers can track the onboarding progress of their new hires in a single and consolidated section.
 
@@ -71,13 +71,3 @@ If you're using the Now Mobile app with the Lifecycle Events for Enterprise \[co
 
 [Now Mobile experience for Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/emp-center-mobile-exp.md)
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[discover-lxp|Discover]]
-- [[mobile-employee-experience|Now Mobile app]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[hiring-tab-concept|Hiring]]
-- [[case-knowledge-management-landing-page|Case and Knowledge Management]]
-- [[activate-mobile-employee-experience-for-hr-service-delivery|Activate HR Service Delivery for mobile]]
-- [[jny-dsgnr-landing-page-1|Journey designer]]

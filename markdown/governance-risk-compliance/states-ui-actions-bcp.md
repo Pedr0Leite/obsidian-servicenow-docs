@@ -12,7 +12,7 @@ breadcrumb: [Structured workflows for BCPs, Manage, Business Continuity Manageme
 
 # States and UI actions for a BCP
 
-When you [[create-bcp-plan-in-uib-ws|create a business continuity plan]] \(BCP\), certain UI actions are associated with each state.
+When you create a business continuity plan \(BCP\), certain UI actions are associated with each state.
 
 ## States and UI actions associated with a plan
 
@@ -42,7 +42,7 @@ In business continuity plan record Lists view, select **New**.
 
 </td><td>
 
-When you select **New** in the [[create-new-plan-bcp-uib-ws-reference-form|Create New Plan form]] or **Create BIA** in the Home page, a record is created in the **Draft** state by default.
+When you select **New** in the Create New Plan form or **Create BIA** in the Home page, a record is created in the **Draft** state by default.
 
  On the **Details** tab, add details of the business continuity plan. Add details on the tabs:
 
@@ -111,7 +111,7 @@ When you select **Archive** in the **Create New Plan** form, the state of the bu
 
 Download the PDF of the business continuity plan for reference. The PDF attachment is available in the **Activity** panel of the **Details** tab.
 
-For information on generating the PDF of a [[bia-uib|business impact analysis]], see [[generate-pdf-for-bcp|Generate BCP reports in PDF or Microsoft Word format]].
+For information on generating the PDF of a business impact analysis, see [Generate BCP reports in PDF or Microsoft Word format](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/generate-pdf-for-bcp.md).
 
 -   **Copy**
 
@@ -119,7 +119,7 @@ Save a copy of the PDF of the business impact analysis for future reference as a
 
 -   **360º view**
 
-Visualize the 360º representation of the business continuity plan such as its name, scope, related plans, and related tasks. To view 360º relationships of a business continuity plan, see [[relationship-view-bcp|Visualize 360° relationships for the BCP]].
+Visualize the 360º representation of the business continuity plan such as its name, scope, related plans, and related tasks. To view 360º relationships of a business continuity plan, see [Visualize 360° relationships for the BCP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/relationship-view-bcp.md).
 
 -   **Delete**
 
@@ -159,13 +159,5 @@ Progress each Business Continuity Plan through a numbered sequence of states on 
 
 The current state is marked **In progress** and future states are labeled **Upcoming**. Use **Submit for review** and **Submit for approval** in the plan header to advance states.
 
-**Parent Topic:**[[bcp-tasks-performed-by-bcp-owner|Structured workflows for BCPs]]
+**Parent Topic:**[Structured workflows for BCPs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bcp-tasks-performed-by-bcp-owner.md)
 
-## Related
-
-- [[generate-pdf-for-bcp|Generate BCP reports in PDF or Microsoft Word format]]
-- [[relationship-view-bcp|Visualize 360° relationships for the BCP]]
-- [[bcp-tasks-performed-by-bcp-owner|Structured workflows for BCPs]]
-- [[create-bcp-plan-in-uib-ws|Create a business continuity plan]]
-- [[create-new-plan-bcp-uib-ws-reference-form|Create New Plan form]]
-- [[bia-uib|Business impact analysis]]

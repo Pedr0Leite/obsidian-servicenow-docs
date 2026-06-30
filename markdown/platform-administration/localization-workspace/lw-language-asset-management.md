@@ -14,13 +14,13 @@ breadcrumb: [Configuring Localization Workspace, Localization Workspace, Transla
 
 # Language Asset Management
 
-Enhance [[ia-localization-il|localization]] in your instance with Language Asset Management in [[localization-workspace|Localization Workspace]]. You can [[lw-lam-upload-glossaries|upload glossaries to Language Asset Management]] for editing and storage.
+Enhance localization in your instance with Language Asset Management in Localization Workspace. You can upload glossaries to Language Asset Management for editing and storage.
 
 ## Glossaries in Language Asset Management
 
 From version 3.0.0, the Language Asset Management area of Localization Workspace enables you to upload glossaries, which are lists of terms with translations that you provide. Each source term in a glossary can have translations into multiple languages. You can create multiple glossaries. In the Australia release, glossaries are available for storage and editing only.
 
-When planning your glossary [[ia-assets|assets]], consider the following points.
+When planning your glossary assets, consider the following points.
 
 -   You can have more than one glossary in Language Asset Management, so you can organize your glossaries according to business unit, function, or locale.
 -   Each glossary can be subdivided or filtered using the Product/Service category.
@@ -51,9 +51,3 @@ Download your glossary as a CSV or spreadsheet file to share with stakeholders, 
 
 **Parent Topic:**[Configuring Localization Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/configuring-localization-workspace.md)
 
-## Related
-
-- [[ia-localization-il|Localization]]
-- [[localization-workspace|Localization Workspace]]
-- [[lw-lam-upload-glossaries|Upload glossaries to Language Asset Management]]
-- [[ia-assets|Assets]]

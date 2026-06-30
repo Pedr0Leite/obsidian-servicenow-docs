@@ -14,7 +14,7 @@ breadcrumb: [Microsoft 365 SaaS License Management success guide, Success Guides
 
 # Identify savings opportunities
 
-Identify savings opportunities and save money with the ServiceNow [[c_SoftwareAssetMgmt|Software Asset Management]] application.
+Identify savings opportunities and save money with the ServiceNow Software Asset Management application.
 
 ## Before you begin
 
@@ -33,7 +33,7 @@ For enterprise subscriptions such as E1, E3, and E5, Microsoft may specify a com
         |Interface|Action|
         |---------|------|
         |Core UI|Navigate to **All** &gt; **Software Asset** &gt; **Reconciliation** &gt; **License Workbench**.|
-        |Software Asset Workspace|Navigate to **[[sam-workspace|Software Asset Workspace]]** &gt; **License usage**.|
+        |Software Asset Workspace|Navigate to **Software Asset Workspace** &gt; **License usage**.|
 
     2.  Locate and select Microsoft 365.
 
@@ -76,7 +76,7 @@ Software Asset Workspace
 </td></tr></tbody>
 </table>    2.  Add the **Last activity** field and filter the list to view desired subscriptions.
 
-        **Note:** The Last activity date is pulled from the published [[microsoft-o365|Microsoft 365 integration]] profile and inventory tools. If a subscription is a suite product, the Last activity date is the latest activity information from any of its suite components. Validate Last activity dates with Microsoft cloud administrators as needed.
+        **Note:** The Last activity date is pulled from the published Microsoft 365 integration profile and inventory tools. If a subscription is a suite product, the Last activity date is the latest activity information from any of its suite components. Validate Last activity dates with Microsoft cloud administrators as needed.
 
     3.  Right-click the **Display name** column header and select **Bar Chart**.
 
@@ -108,8 +108,3 @@ Here are a few follow-up actions:
 -   Filter the Software Installations list for Microsoft 365 and add the **Last used** column. Create a report if wanted.
 -   Compare the Software installations report with the Software subscriptions report.
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[microsoft-o365|Microsoft 365 integration]]

@@ -58,7 +58,7 @@ If you think that the response was helpful, select thumbs-up \[Omitted image "ic
 
 </td><td>
 
-Select the copy to clipboard icon \[Omitted image "icon-clipboard.png"\] to use the response information for another purpose, such as pasting into an [[email|email]].
+Select the copy to clipboard icon \[Omitted image "icon-clipboard.png"\] to use the response information for another purpose, such as pasting into an email.
 
 </td></tr><tr><td id="d612884e178">
 
@@ -79,6 +79,3 @@ If you think that data might have changed after you viewed the response, select 
 
 [Manage CI details using CI Form in CMDB Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/ci-form-cmdb-workspace.md)
 
-## Related
-
-- [[email|Email]]

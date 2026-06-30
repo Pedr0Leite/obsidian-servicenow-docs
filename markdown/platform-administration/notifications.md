@@ -12,11 +12,11 @@ breadcrumb: [Configure core features, Administer the ServiceNow AI Platform]
 
 # Notifications
 
-Use ServiceNow® Notifications to manage system email, create [[system-notifications-landing|system notifications]], and configure how your system responds to [[ia-inbound-email-il|inbound email]].
+Use ServiceNow® Notifications to manage system email, create system notifications, and configure how your system responds to inbound email.
 
 <table id="id_dkt_zw3_bzb" class="nav-card"><tbody><tr><td>
 
-[Email Administration\[Omitted image "bus-email-server.svg"\] Alt text: With email notifications use [[c_EmailProperties|email properties]] to define your instance and set up email accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/email-administration-landing.md)
+[Email Administration\[Omitted image "bus-email-server.svg"\] Alt text: With email notifications use email properties to define your instance and set up email accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/email-administration-landing.md)
 
 </td><td>
 
@@ -36,20 +36,13 @@ Use ServiceNow® Notifications to manage system email, create [[system-notificat
 
 </td><td>
 
-[Notification Preferences\[Omitted image "bus-sdlc.svg"\] Alt text:With [[preferences-landing|notification preferences]] you can manage and choose the notifications you want to receive](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/preferences-landing.md)
+[Notification Preferences\[Omitted image "bus-sdlc.svg"\] Alt text:With notification preferences you can manage and choose the notifications you want to receive](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/preferences-landing.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
 
--   [[troubleshooting-notification-emails|Troubleshooting Notification emails]]
+-   [Troubleshooting Notification emails](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/troubleshooting-notification-emails.md)
 -   Ask or answer questions in the [Platform](https://community.servicenow.com/community/service-automation-platform) community
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[troubleshooting-notification-emails|Email FAQs and troubleshooting notification emails]]
-- [[system-notifications-landing|System notifications]]
-- [[ia-inbound-email-il|Inbound email]]
-- [[c_EmailProperties|Email properties]]
-- [[preferences-landing|Notification Preferences]]

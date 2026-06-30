@@ -15,20 +15,12 @@ breadcrumb: [Now Assist Center, Enable AI experiences]
 
 Install and configure settings for Now Assist Center.
 
--   **[[now-assist-center-install|Confirm installation of Now Assist Center]]**  
+-   **[Confirm installation of Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-install.md)**  
 Confirm the installation of the Now Assist Center application.
--   **[[now-assist-center-enable-now-assist-panel|Enable the Now Assist panel]]**  
-Enable the Now Assist panel to have your AI companion perform setup, configuration, and administrative tasks more quickly using natural language [[ai-prompts|prompts]].
--   **[[now-assist-center-automation-discovery-setup|Set up automation opportunity discovery in Now Assist Center]]**  
-Configure the data sources, filters, and schedule that [[ai-agent-advisor-landing-page|AI Agent Advisor]] uses to analyze your instance and identify automation opportunities.
+-   **[Enable the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-enable-now-assist-panel.md)**  
+Enable the Now Assist panel to have your AI companion perform setup, configuration, and administrative tasks more quickly using natural language prompts.
+-   **[Set up automation opportunity discovery in Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-automation-discovery-setup.md)**  
+Configure the data sources, filters, and schedule that AI Agent Advisor uses to analyze your instance and identify automation opportunities.
 
-**Parent Topic:**[[now-assist-center-landing-page|Now Assist Center]]
+**Parent Topic:**[Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-landing-page.md)
 
-## Related
-
-- [[now-assist-center-install|Confirm installation of Now Assist Center]]
-- [[now-assist-center-enable-now-assist-panel|Enable the Now Assist panel]]
-- [[now-assist-center-automation-discovery-setup|Set up automation opportunity discovery in Now Assist Center]]
-- [[now-assist-center-landing-page|Now Assist Center]]
-- [[ai-prompts|Prompts]]
-- [[ai-agent-advisor-landing-page|AI Agent Advisor]]

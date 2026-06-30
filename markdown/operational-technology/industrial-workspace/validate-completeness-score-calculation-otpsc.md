@@ -14,7 +14,7 @@ breadcrumb: [Setting up the Operational Technology Progress Scorecard, Configure
 
 # Validate the completeness score calculation
 
-Validate that the **CMDB Health Dashboard - Completeness Score Calculation** is activated to run if you want to include the **OT Device Data Completeness \(%\)** indicator in the [[operational-technology-overview|Operational Technology]] \(OT\) Progress Scorecard.
+Validate that the **CMDB Health Dashboard - Completeness Score Calculation** is activated to run if you want to include the **OT Device Data Completeness \(%\)** indicator in the Operational Technology \(OT\) Progress Scorecard.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]] Admin** &gt; **Guided Setup**.
+1.  Navigate to **All** &gt; **Industrial Workspace Admin** &gt; **Guided Setup**.
 
 2.  In the **Industrial Workspace** section, select **OT Progress Scorecard**.
 
@@ -39,7 +39,3 @@ Role required: admin
 
 **Parent Topic:**[Setting up the Operational Technology Progress Scorecard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/setting-up-the-ot-progress-scorecard.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

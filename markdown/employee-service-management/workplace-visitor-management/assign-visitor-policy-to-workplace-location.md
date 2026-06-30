@@ -33,7 +33,7 @@ You can also assign visitor policy by selecting the workplace location in **Buil
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-visitor-mgmt-feat|Workplace Visitor Management]]** &gt; **Administration** &gt; **Visitor Policies**.
+1.  Navigate to **All** &gt; **Workplace Visitor Management** &gt; **Administration** &gt; **Visitor Policies**.
 
 2.  Select the visitor policy to which you want add the workplace location.
 
@@ -49,7 +49,7 @@ You can also assign visitor policy by selecting the workplace location in **Buil
 
     2.  On the preview window for the location policy, select **Open Record**.
 
-    3.  On the [[location-policy-form|Location Policy form]], fill in the fields.
+    3.  On the Location Policy form, fill in the fields.
 
         For a description of the field values, see [Location Policy form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/location-policy-form.md).
 
@@ -60,7 +60,3 @@ The visitor policy is assigned to the selected workplace location.
 
 **Parent Topic:**[Create a visitor policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/create-visitor-policy.md)
 
-## Related
-
-- [[workplace-visitor-mgmt-feat|Workplace Visitor Management]]
-- [[location-policy-form|Location Policy form]]

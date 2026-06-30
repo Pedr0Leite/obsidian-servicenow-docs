@@ -14,15 +14,15 @@ breadcrumb: [Sourcing and Purchasing Automation, Explore, Sourcing and Procureme
 
 # Contracts
 
-A contract defines the terms and conditions along with [[pricing|pricing]] agreed for a product with the [[supplier|supplier]]​. An active contractual price determines if the pricing of a product or service is displayed on ShoppingHub.
+A contract defines the terms and conditions along with pricing agreed for a product with the supplier​. An active contractual price determines if the pricing of a product or service is displayed on ShoppingHub.
 
-Use the purchasing view to view contract details in the [[purchase-experience-workflow|Sourcing and Purchasing Automation]] module. You can also create a new contract with the contract\_manager role.
+Use the purchasing view to view contract details in the Sourcing and Purchasing Automation module. You can also create a new contract with the contract\_manager role.
 
-In addition to purchase requisitions, systematic creation of a contract occurs during a [[sourcing-request|sourcing request]] or negotiation. This is configured accordingly in flow designer. The various scenarios for pre-purchase contract creation are:
+In addition to purchase requisitions, systematic creation of a contract occurs during a sourcing request or negotiation. This is configured accordingly in flow designer. The various scenarios for pre-purchase contract creation are:
 
 -   Negotiation exists, created manually: Trigger contract creation, including NDA if required, against the negotiation when the state of the negotiation is Planned.
 -   Negotiation exists, created systematically through third-party sourcing integration: Trigger contract creation, including NDA if required, against the negotiation when the state of the negotiation is Negotiation in Progress.
--   Negotiation does not exist: Trigger NDA contract creation, if required, against the sourcing request when the state of the sourcing request is Awaiting Supplier Response. A procurement specialist or contract team can manually create other contracts against the sourcing request before creating a [[purchase-requisition|purchase requisition]]. If contracts are not manually created against the sourcing request, they are systematically created against the awarded purchase requisition after approvals are complete.
+-   Negotiation does not exist: Trigger NDA contract creation, if required, against the sourcing request when the state of the sourcing request is Awaiting Supplier Response. A procurement specialist or contract team can manually create other contracts against the sourcing request before creating a purchase requisition. If contracts are not manually created against the sourcing request, they are systematically created against the awarded purchase requisition after approvals are complete.
 -   New supplier created from manual sourcing or third-party sourcing integration: For third-party sourcing integration, trigger contract creation when a new purchase line is created for a new supplier. For manual sourcing, contract creation follows the manual negotiation creation or negotiation does not exist scenarios.
 
 When a supplier is awarded, contracts that were created for the other suppliers are canceled, except NDAs. Contract metadata population remain as is.
@@ -191,7 +191,7 @@ Financial
 
 </td></tr><tr><td>
 
-Invoice [[payment-terms|payment terms]]
+Invoice payment terms
 
 </td><td>
 
@@ -259,11 +259,11 @@ PO Number
 
 </td><td>
 
-[[purchase-order-table|Purchase order]] associated with this contract.
+Purchase order associated with this contract.
 
 </td></tr><tr><td>
 
-[[cost-center|Cost center]]
+Cost center
 
 </td><td>
 
@@ -368,13 +368,3 @@ Contract exception rules specify conditions in which a contract record is not cr
 
 **Parent Topic:**[Sourcing and Purchasing Automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-experience-workflow.md)
 
-## Related
-
-- [[pricing|Pricing]]
-- [[supplier|Supplier]]
-- [[purchase-experience-workflow|Sourcing and Purchasing Automation]]
-- [[sourcing-request|Sourcing request]]
-- [[purchase-requisition|Purchase requisition]]
-- [[payment-terms|Payment terms]]
-- [[purchase-order-table|Purchase order]]
-- [[cost-center|Cost center]]

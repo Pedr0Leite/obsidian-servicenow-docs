@@ -15,13 +15,8 @@ breadcrumb: [AI Agent Advisor, Enable AI experiences]
 
 Use AI Agent Advisor to automatically discover automation opportunities in your instance and deploy AI agents to implement the automations.
 
--   **[[using-ai-agent-advisor-in-now-assist-center|AI Agent Advisor in Now Assist Center]]**  
-Use [[now-assist-center-ai-agent-advisor|AI Agent Advisor in Now Assist Center]] to automatically discover automation opportunities in your instance and deploy AI agents to implement the automations.
+-   **[AI Agent Advisor in Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/using-ai-agent-advisor-in-now-assist-center.md)**  
+Use AI Agent Advisor in Now Assist Center to automatically discover automation opportunities in your instance and deploy AI agents to implement the automations.
 
-**Parent Topic:**[[ai-agent-advisor-landing-page|AI Agent Advisor]]
+**Parent Topic:**[AI Agent Advisor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-agent-advisor-landing-page.md)
 
-## Related
-
-- [[using-ai-agent-advisor-in-now-assist-center|AI Agent Advisor in Now Assist Center]]
-- [[ai-agent-advisor-landing-page|AI Agent Advisor]]
-- [[now-assist-center-ai-agent-advisor|AI Agent Advisor in Now Assist Center]]

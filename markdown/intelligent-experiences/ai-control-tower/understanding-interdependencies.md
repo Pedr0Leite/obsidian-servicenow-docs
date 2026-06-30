@@ -14,7 +14,7 @@ breadcrumb: [Explore, AI Control Tower, Enable AI experiences]
 
 # Inter-dependencies
 
-Explore the inter-dependencies of [[ai-system|AI systems]], [[ai-models|AI models]], and [[ai-datasets|datasets]].
+Explore the inter-dependencies of AI systems, AI models, and datasets.
 
 An AI system operates as part of a larger framework, closely connected to the AI model powering its capabilities and the datasets that shape its behavior. While these elements are interrelated, each plays a unique role and should be clearly identified to confirm effective governance.
 
@@ -30,11 +30,5 @@ For a visual example of how these elements interact, see [Example of an AI syste
 
 For information on Model asset classes, see Model asset classes
 
-For information on [[ai-assets|AI assets]] API, see AI Assets API
+For information on AI assets API, see AI Assets API
 
-## Related
-
-- [[ai-system|AI systems]]
-- [[ai-models|AI models]]
-- [[ai-datasets|Datasets]]
-- [[ai-assets|AI assets]]

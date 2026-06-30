@@ -15,11 +15,11 @@ breadcrumb: [Authentication, Access Management]
 
 # Authentication factors
 
-Authentication factors help identify and verify callers, allowing only authorized [[users|users]] to access AI voice agents on the ServiceNow AI Platform.
+Authentication factors help identify and verify callers, allowing only authorized users to access AI voice agents on the ServiceNow AI Platform.
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore\[Omitted image "bus-explore.svg"\] Alt text: Explore [[c_Authentication|Authentication]] factorsLearn the features and business value of authentication factors for voice agents.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/explore-authentication-factors.md)
+[Explore\[Omitted image "bus-explore.svg"\] Alt text: Explore Authentication factorsLearn the features and business value of authentication factors for voice agents.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/explore-authentication-factors.md)
 
 </td><td>
 
@@ -27,8 +27,3 @@ Authentication factors help identify and verify callers, allowing only authorize
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[users|Users]]
-- [[c_Authentication|Authentication]]

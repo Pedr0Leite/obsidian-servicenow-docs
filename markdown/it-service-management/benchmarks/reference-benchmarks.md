@@ -14,8 +14,5 @@ breadcrumb: [Benchmarks, IT Service Management]
 
 # Benchmarks reference
 
-Refer to the different roles, dashboard, KPI categories and trends offered by ServiceNow [[benchmarks-landing|Benchmarks]].
+Refer to the different roles, dashboard, KPI categories and trends offered by ServiceNow Benchmarks.
 
-## Related
-
-- [[benchmarks-landing|Benchmarks]]

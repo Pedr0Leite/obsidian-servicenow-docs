@@ -14,11 +14,11 @@ breadcrumb: [Reference, Manager Hub, HR Service Delivery, Employee Service Manag
 
 # Default configurations for team column data
 
-Predefined set of team data configurations are available to use after you have activated [[manager-hub-overview|Manager Hub]] from ServiceNow Store.
+Predefined set of team data configurations are available to use after you have activated Manager Hub from ServiceNow Store.
 
 |Name|Description|
 |----|-----------|
-|Status|Configuration to display the status of an employee on the Team members tab in Your team menu in [[employee-center-landing-page|Employee Center]]. For example, the status of an employee can be a new hire or leaving the organization.|
+|Status|Configuration to display the status of an employee on the Team members tab in Your team menu in Employee Center. For example, the status of an employee can be a new hire or leaving the organization.|
 |Location|Configuration to display employee location details based on time zone, city, state, or country.|
 |Active Journey|Configuration to display active employee journeys, such as onboarding, or career growth.|
 |Contact|Configuration to display employee contact details, such as email and work phone.|
@@ -46,19 +46,13 @@ For more details, navigate to **All** &gt; **Manager Hub** &gt; **Administration
 
 [Default configurations for To do's]()
 
-[Default [[proactive-prompts-for-hrsd|proactive prompts]] for Manager Hub]()
+[Default proactive prompts for Manager Hub]()
 
 [Use the View menu icon in Manager Hub]()
 
-[Assign [[exploring-learning-exp|learning]] form]()
+[Assign learning form]()
 
 [Create a conversation form]()
 
 [Schedule a conversation form]()
 
-## Related
-
-- [[manager-hub-overview|Manager Hub]]
-- [[employee-center-landing-page|Employee Center]]
-- [[proactive-prompts-for-hrsd|Proactive Prompts]]
-- [[exploring-learning-exp|Learning]]

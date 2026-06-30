@@ -14,7 +14,7 @@ breadcrumb: [Cloud Cost Management Workspace, Exploring Cloud Cost Management, C
 
 # Cloud Cost Management overview
 
-Enhance your experience by using the modernized and user-friendly Cloud Cost Management overview. This simplified overview page helps you use the [[cloud-insights-landing-page|Cloud Cost Management]] application more effectively by reducing complexity.
+Enhance your experience by using the modernized and user-friendly Cloud Cost Management overview. This simplified overview page helps you use the Cloud Cost Management application more effectively by reducing complexity.
 
 **Important:** If you have the insights\_owner role, only the accounts that are assigned to you appear in the filters and data.
 
@@ -81,7 +81,7 @@ Monthly spend breakdown
 
 </td><td>
 
-Monthly spend breakdown grouped by provider, service category, service account, cloud service, or purchase option. The results can be sorted by time range and cost type. Use the **Show forecast** toggle switch for hiding or showing the future cost.Selecting a monthly spend breakdown bar navigates you to the [[spend-anaytics|Spend analytics]] page. For more information, see [Spend analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/spend-anaytics.md).
+Monthly spend breakdown grouped by provider, service category, service account, cloud service, or purchase option. The results can be sorted by time range and cost type. Use the **Show forecast** toggle switch for hiding or showing the future cost.Selecting a monthly spend breakdown bar navigates you to the Spend analytics page. For more information, see [Spend analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/spend-anaytics.md).
 
 </td></tr></tbody>
 </table>|Report|Description|
@@ -163,13 +163,7 @@ Unused
 
 </td><td>
 
-The Unused recommendation helps you identify the [[um-cloudin|unused resources]]. You can schedule unused machines to be powered off or terminated.
+The Unused recommendation helps you identify the unused resources. You can schedule unused machines to be powered off or terminated.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cloud-insights-landing-page|Cloud Cost Management]]
-- [[spend-anaytics|Spend analytics]]
-- [[um-cloudin|Unused resources]]

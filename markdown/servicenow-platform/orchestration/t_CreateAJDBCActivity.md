@@ -48,7 +48,7 @@ The JDBC activity template allows you to execute ANSI SQL statements or stored p
 
 </td><td>
 
-Configure or [[reference|reference]] the appropriate JDBC Connection for the database. The connection selected provides the activity with the following information: -   Target database information \(server and database names\)
+Configure or reference the appropriate JDBC Connection for the database. The connection selected provides the activity with the following information: -   Target database information \(server and database names\)
 -   Connection URL
 -   Target database port \(if different from standard port number\)
 -   Database instance name
@@ -68,7 +68,7 @@ JDBC credential to use for your JDBC connection.
 
 </td><td>
 
-Input the ANSI SQL to execute on the JDBC target database. **Note:** This field is hidden when the Stored Procedure [[check-box|check box]] is selected.
+Input the ANSI SQL to execute on the JDBC target database. **Note:** This field is hidden when the Stored Procedure check box is selected.
 
  You can [map the input variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/CreateInputVariables.md) you created to configure the SQL statements. By default, you can run the following SQL statements. -   select
 -   insert
@@ -77,7 +77,7 @@ Input the ANSI SQL to execute on the JDBC target database. **Note:** This field 
 -   show
 -   create
 -   describe
-For added security measure, a [[mid-server-landing|MID Server]] property controls the operations that this JDBCOrchestrationProbe executes, which restricts the SQL commands used. This property protects against potentially destructive commands, such as drop database. The mid.property.jdbc\_operations contains the MID Server property controls.**Note:** You cannot run multiple statements of different types. For example, you cannot run a select statement and an update statement together, but you can run two insert statements. However, you cannot run multiple select statements in this activity.
+For added security measure, a MID Server property controls the operations that this JDBCOrchestrationProbe executes, which restricts the SQL commands used. This property protects against potentially destructive commands, such as drop database. The mid.property.jdbc\_operations contains the MID Server property controls.**Note:** You cannot run multiple statements of different types. For example, you cannot run a select statement and an update statement together, but you can run two insert statements. However, you cannot run multiple select statements in this activity.
 
 </td></tr><tr><td id="d554544e244">
 
@@ -113,7 +113,7 @@ Elapsed time to wait after running the query until the data is returned. This fi
 
 </td></tr><tr><td id="d554544e281">
 
-**Required [[mid-server-capabilities|MID Server capabilities]]**
+**Required MID Server capabilities**
 
 </td><td>
 
@@ -146,7 +146,7 @@ If checked, you can run a stored procedure on MySQL, Oracle, or SQL Server datab
 
 ## Create a JDBC connection for an Orchestration activity
 
-The JDBC Connection \[jdbc\_connection\] table provides the information custom JDBC Orchestration activities use to [[c_Connect|connect]] to various target databases.
+The JDBC Connection \[jdbc\_connection\] table provides the information custom JDBC Orchestration activities use to connect to various target databases.
 
 ### Before you begin
 
@@ -266,7 +266,7 @@ Oracle, MySQL, SQLServer
 
 </td><td>
 
-Host name or [[ip-address|IP address]] of the database server.
+Host name or IP address of the database server.
 
 </td></tr><tr><td>
 
@@ -491,7 +491,7 @@ You can test the input parameters of a custom JDBC activity during its developme
 
 ### Before you begin
 
-[[CreateInputVariables|Create input variables]] and map them to fields in the Execution Command form or provide actual values for these fields. Role required: web\_service\_admin, activity\_admin, activity\_creator
+Create input variables and map them to fields in the Execution Command form or provide actual values for these fields. Role required: web\_service\_admin, activity\_admin, activity\_creator
 
 ### About this task
 
@@ -528,12 +528,4 @@ This test executes only the input parameters against an endpoint and not the pre
 
 6.  Click the **X** in the upper right corner of the window to close it.
 
-## Related
 
-- [[reference|Reference]]
-- [[check-box|Check box]]
-- [[mid-server-landing|MID Server]]
-- [[mid-server-capabilities|MID Server capabilities]]
-- [[c_Connect|Connect]]
-- [[ip-address|IP Address]]
-- [[CreateInputVariables|Create input variables]]

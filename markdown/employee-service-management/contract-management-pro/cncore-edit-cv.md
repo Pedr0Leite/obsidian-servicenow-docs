@@ -22,13 +22,13 @@ Role required: sn\_cm\_core.contract\_config
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Contracts Core** &gt; **Contract Administration** &gt; **[[cncore-expl-clause-mgmt|Clause Management]]**.
+1.  Navigate to **All** &gt; **Contracts Core** &gt; **Contract Administration** &gt; **Clause Management**.
 
 2.  Select a clause.
 
 3.  In the Clause Variations related list, select the clause variation.
 
-4.  On the form [[cncore-cv-form|Clause Variation form]], edit the fields that you want to modify.
+4.  On the form Clause Variation form, edit the fields that you want to modify.
 
     For a description of the field values, see [Clause Variation form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-cv-form.md).
 
@@ -58,7 +58,3 @@ If the updated clause variation is associated with a published contract template
 
 [Delete a contract template]()
 
-## Related
-
-- [[cncore-expl-clause-mgmt|Clause Management]]
-- [[cncore-cv-form|Clause Variation form]]

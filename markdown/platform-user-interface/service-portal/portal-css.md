@@ -14,13 +14,13 @@ breadcrumb: [Configuring Service Portal, Service Portal, Configure UIs and porta
 
 # Defining portal styles
 
-Pages are made up of containers, columns, rows, widgets, and widget instances. You can [[configure-onboarding-modals|configure]] the CSS of each component, or use the CSS defined in theme and branding as global definitions for the portal. If you do not define CSS in theme or branding, Bootstrap defaults are used.
+Pages are made up of containers, columns, rows, widgets, and widget instances. You can configure the CSS of each component, or use the CSS defined in theme and branding as global definitions for the portal. If you do not define CSS in theme or branding, Bootstrap defaults are used.
 
 You can define CSS in your portal at multiple levels.
 
 -   **Bootstrap defaults**
 
-    If no other CSS is defined, all elements use Bootstrap version 3.3.6 defaults. You can use [Bootstrap CSS Helper Classes](https://www.w3schools.com/bootstrap/bootstrap_ref_css_helpers.asp) with any [[c_ServicePortal|Service Portal]] field that accepts CSS as a value. To show or hide Service Portal containers, use Bootstrap CSS Responsive Utilities Helper Classes such as `visible-lg` or `hidden-md`.
+    If no other CSS is defined, all elements use Bootstrap version 3.3.6 defaults. You can use [Bootstrap CSS Helper Classes](https://www.w3schools.com/bootstrap/bootstrap_ref_css_helpers.asp) with any Service Portal field that accepts CSS as a value. To show or hide Service Portal containers, use Bootstrap CSS Responsive Utilities Helper Classes such as `visible-lg` or `hidden-md`.
 
 -   **Branding editor theme colors/Portal CSS**
 
@@ -74,7 +74,3 @@ Localizing a portal for right-to-left languages requires CSS that mirrors the di
 
 **Parent Topic:**[Configuring Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/configuring-service-portal.md)
 
-## Related
-
-- [[configure-onboarding-modals|Configure]]
-- [[c_ServicePortal|Service Portal]]

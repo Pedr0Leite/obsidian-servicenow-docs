@@ -22,14 +22,14 @@ The Catalog Import \[sn\_spend\_intg\_imp\_catalog\] staging table temporarily s
 |Available Units|String|Number of units of a product that are available.|
 |Bundle|Boolean|Indicates whether the Product Model is of type bundle.|
 |Bundled Components|String|Bundle model components as a json array.|
-|Catalog id|String|Unique identifier for each catalog of the [[purchase-order-table|purchase order]].|
+|Catalog id|String|Unique identifier for each catalog of the purchase order.|
 |Category UNSPSC code|String| |
 |Contract end date|String|Date on which the contract term ends.|
 |Contract number|String| |
 |Contract start date|String|Date on which the contract term starts.|
 |Customer id|String|Unique identifier for the customer.|
 |Delivery time|String|Estimated number of days it takes to ship a product to the customer.|
-|Images|String|List of strings that specify the image URLs for the [[supplier|supplier]] product.|
+|Images|String|List of strings that specify the image URLs for the supplier product.|
 |Manufacturer/publisher name|String|Name of the manufacturer or publisher.|
 |Manufacturer/publisher part number \(MPN\)|String|Manufacturer or publisher’s unique identifier for the product.|
 |Negotiated currency|String|Currency used in price negotiation.|
@@ -126,7 +126,3 @@ The Catalog Import \[sn\_spend\_intg\_imp\_catalog\] staging table temporarily s
 
 [Unit of Measure inbound staging table]()
 
-## Related
-
-- [[purchase-order-table|Purchase order]]
-- [[supplier|Supplier]]

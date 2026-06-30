@@ -14,7 +14,7 @@ breadcrumb: [Exploring Software Asset Management, Software Asset Management, IT 
 
 # Allocation management on Software Asset Management
 
-[[c_SoftwareAssetMgmt|Software Asset Management]] \(SAM\) offers optimal license assignment confirming that licensing entities are allocated according to the available entitlements.
+Software Asset Management \(SAM\) offers optimal license assignment confirming that licensing entities are allocated according to the available entitlements.
 
 For example, Software Asset Management determines the most cost-effective license assignment for a specific host or virtual machine based on the available Microsoft SQL Server Standard or Enterprise entitlements. Software Asset Management streamlines the licensing process and helps you optimize costs by selecting the most efficient licensing options. Allocation management saves your time, reduces the risk of compliance issues, and unnecessary expenses.
 
@@ -81,7 +81,7 @@ Lets say, there’s a SQL Server Enterprise license, and Software Asset Manageme
 
 To override the license assignment:
 
-1.  In the [[sam-workspace|Software Asset Workspace]], navigate to **License Operations** &gt; **Licensing**.
+1.  In the Software Asset Workspace, navigate to **License Operations** &gt; **Licensing**.
 2.  Select **Software entitlements**.
 3.  Select the software entitlements for SQL Server. For example, select the Microsoft SQL Server 2017 Enterprise software entitlement.\[Omitted image "select-software-entitlement.png"\] Alt text: Licensing Software entitlements.
 4.  Select the **Device Allocations** tab and then select **New**.
@@ -113,7 +113,3 @@ When allocating software licenses, follow the licensing rules supported by the p
 
 **Parent Topic:**[Exploring Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/explore-sam-workspace.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-workspace|Software Asset Workspace]]

@@ -14,7 +14,7 @@ breadcrumb: [Exploring Edge Encryption, Edge Encryption, Encryption]
 
 # Edge Encryption components
 
-[[edge-encryption|Edge Encryption]] is composed of the Edge Encryption proxy server that runs on a server in your network, and the Edge Encryption plugin that must be installed on your ServiceNow instance. If using order-preserving [[encryption-landing|encryption]] types or encryption patterns, a proxy database must also be installed in your network.
+Edge Encryption is composed of the Edge Encryption proxy server that runs on a server in your network, and the Edge Encryption plugin that must be installed on your ServiceNow instance. If using order-preserving encryption types or encryption patterns, a proxy database must also be installed in your network.
 
 ## Proxy application
 
@@ -22,7 +22,7 @@ When going through the Edge Encryption proxy server, the Edge Encryption plugin 
 
 ## Proxy server
 
-The Edge Encryption proxy server uses encryption rules to identify in an HTTP [[c_requestAPI|request]] what, if anything, must be encrypted and encrypts it before forwarding the request to the instance. For decryption, the Edge Encryption proxy server looks at the HTTP responses for any encrypted data and decrypts it before sending the response back to the client. For this decryption to happen, all HTTP requests and responses must go through the Edge Encryption proxy server. These HTTP requests include any requests originating from a browser, as well as any SOAP or REST requests.
+The Edge Encryption proxy server uses encryption rules to identify in an HTTP request what, if anything, must be encrypted and encrypts it before forwarding the request to the instance. For decryption, the Edge Encryption proxy server looks at the HTTP responses for any encrypted data and decrypts it before sending the response back to the client. For this decryption to happen, all HTTP requests and responses must go through the Edge Encryption proxy server. These HTTP requests include any requests originating from a browser, as well as any SOAP or REST requests.
 
 ## Proxy database
 
@@ -45,8 +45,3 @@ Because encryption patterns rely on tokenization, clear text values are stored i
 
 **Parent Topic:**[Exploring Edge Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/c_EdgeEncryptionOverview.md)
 
-## Related
-
-- [[edge-encryption|Edge Encryption]]
-- [[encryption-landing|Encryption]]
-- [[c_requestAPI|request]]

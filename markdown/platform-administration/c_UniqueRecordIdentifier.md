@@ -42,8 +42,5 @@ You can access the sys\_id from a record URL or by using a script.
         ```
 
 
-**Parent Topic:**[[data-management-reference|Data Management reference]]
+**Parent Topic:**[Data Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/data-management-reference.md)
 
-## Related
-
-- [[data-management-reference|Data Management reference]]

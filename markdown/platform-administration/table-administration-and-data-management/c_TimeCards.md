@@ -14,9 +14,9 @@ breadcrumb: [Time Card management, Working with Task table, Table admin, Tables 
 
 # Time cards
 
-Time cards are used to record the [[c_TimeWorked|time worked]] on a task by a task assignee.
+Time cards are used to record the time worked on a task by a task assignee.
 
-The [[time-card-management|time card management]] feature works with the Task table to [[c_RecordTimeWorked|record time worked]] on Projects, Incidents, Problems, and Change Requests.
+The time card management feature works with the Task table to record time worked on Projects, Incidents, Problems, and Change Requests.
 
 Task assignees can record time worked in the Time worked field on a task record or enter hours directly into their time card. Some tables support automatic time card creation based on start and end date fields.
 
@@ -46,8 +46,3 @@ As a time card approver, you can view and approve or reject a submitted time car
 
 **Parent Topic:**[Time Card Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/time-card-management.md)
 
-## Related
-
-- [[c_TimeWorked|Time worked]]
-- [[time-card-management|Time Card Management]]
-- [[c_RecordTimeWorked|Record time worked]]

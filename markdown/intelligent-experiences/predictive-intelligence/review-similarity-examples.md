@@ -39,7 +39,7 @@ On domain-separated instances, the following procedure displays records from all
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[predictive-intelligence-landing|Predictive Intelligence]]** &gt; **Similarity** &gt; **Solutions**.
+1.  Navigate to **All** &gt; **Predictive Intelligence** &gt; **Similarity** &gt; **Solutions**.
 
 2.  In the ML Solutions list, locate your solution by filtering for the Solution Name, and open the active version.
 
@@ -56,6 +56,3 @@ On domain-separated instances, the following procedure displays records from all
 
 If you decide to adjust the Similarity Score Threshold for your similarity solution, see [update its similarity solution threshold](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/update-similarity-threshold.md).
 
-## Related
-
-- [[predictive-intelligence-landing|Predictive Intelligence]]

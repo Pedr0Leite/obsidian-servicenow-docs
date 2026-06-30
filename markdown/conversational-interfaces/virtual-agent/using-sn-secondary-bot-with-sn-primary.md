@@ -14,7 +14,7 @@ breadcrumb: [Using Virtual Agent Bot Interconnect in your configuration, Build a
 
 # Using ServiceNow Virtual Agent as a secondary bot with Virtual Agent Bot Interconnect
 
-[[virtual-agent-landing-page|Virtual Agent]] Bot Interconnect enables you to use ServiceNow® Virtual Agent as the primary bot with a ServiceNow Virtual Agent secondary bot.
+Virtual Agent Bot Interconnect enables you to use ServiceNow® Virtual Agent as the primary bot with a ServiceNow Virtual Agent secondary bot.
 
 ## Prerequisites
 
@@ -23,11 +23,11 @@ In order to configure ServiceNow Virtual Agent as a secondary bot with Virtual A
 -   Two Australia ServiceNow instances.
 -   On the primary instance: Virtual Agent Bot Interconnect Store application
 -   On the secondary instance:
-    -   [[virtual-agent-api-landing-page|Virtual Agent API]] v3.8.x or later
+    -   Virtual Agent API v3.8.x or later
     -   Virtual Agent API on the secondary instance must be in synchronous mode or asynchronous mode.
 
 1.  [Use ServiceNow Virtual Agent as a secondary bot in synchronous or asynchronous mode](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/use-servicenow-virtual-agent-as-a-secondary-bot-in-synchronous-or-asynchronous-mode_0.md)  
-[[use-servicenow-virtual-agent-as-a-secondary-bot-in-synchronous-or-asynchronous-mode_0|Use ServiceNow Virtual Agent as a secondary bot in synchronous or asynchronous mode]] with Bot Interconnect.
+Use ServiceNow Virtual Agent as a secondary bot in synchronous or asynchronous mode with Bot Interconnect.
 2.  [Create a connection and credential in Virtual Agent Bot Interconnect](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-connection-credential-two-sn-instances.md)  
 To use ServiceNow® Virtual Agent as a secondary bot with Virtual Agent Bot Interconnect, configure the connection and credential records in the Bot Interconnect \(primary\) instance.
 3.  [Create an auth token in the ServiceNow secondary instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-auth-token-sn-secondary-instance.md)  
@@ -35,15 +35,9 @@ To use ServiceNow® Virtual Agent as a secondary bot with Virtual Agent Bot Inte
 4.  [Create a Virtual Agent Bot Interconnect shell topic to call Virtual Agent secondary topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-va-topic-sn-primary-secondary-config.md)  
 To use ServiceNow® Virtual Agent as a secondary bot with Virtual Agent Bot Interconnect, you must create at least one shell topic in Bot Interconnect.
 5.  [Enable live agent connection on the primary instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/enable-live-agent-connection-on-the-secondary-instance.md)  
-[[enable-live-agent-connection-on-the-secondary-instance|Enable live agent connection on the primary instance]] to route an interaction to a live agent on the secondary instance.
+Enable live agent connection on the primary instance to route an interaction to a live agent on the secondary instance.
 6.  [Debug Virtual Agent Bot Interconnect with a ServiceNow Virtual Agent secondary bot](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/debug-bot-sn-sn-configuration.md)  
 Debug Workflow Studio executions of your Virtual Agent Bot Interconnect and Virtual Agent secondary bot integration.
 
 **Parent Topic:**[Using Virtual Agent Bot Interconnect in your configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/using-sn-va-primary-bot-api.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[virtual-agent-api-landing-page|Virtual Agent API]]
-- [[use-servicenow-virtual-agent-as-a-secondary-bot-in-synchronous-or-asynchronous-mode_0|Use ServiceNow Virtual Agent as a secondary bot in synchronous or asynchronous mode]]
-- [[enable-live-agent-connection-on-the-secondary-instance|Enable live agent connection on the primary instance]]

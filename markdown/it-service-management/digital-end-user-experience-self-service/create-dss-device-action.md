@@ -30,7 +30,7 @@ Role required: sn\_dex.admin
 
     For more information, see [Enable issue configurations for DEX Self-service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-self-service/enable-dex-self-service-issues.md).
 
-3.  [[create-remedial-action|Create a remedial action]].
+3.  Create a remedial action.
 
     For more information, see [Create a remedial action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/create-remedial-action.md).
 
@@ -38,7 +38,7 @@ Role required: sn\_dex.admin
 
     For more information, see [Configure device actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-self-service/configuring-dex-self-service-device-actions.md).
 
-    **Note:** Only issue configurations linked to a supported [[remedial-action|remedial action]] are available when creating [[device-actions|device actions]].
+    **Note:** Only issue configurations linked to a supported remedial action are available when creating device actions.
 
 5.  Verify the configuration.
 
@@ -56,8 +56,3 @@ Role required: sn\_dex.admin
 
 [Custom device action example](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-self-service/example-device-action.md)
 
-## Related
-
-- [[create-remedial-action|Create a remedial action]]
-- [[remedial-action|Remedial action]]
-- [[device-actions|Device actions]]

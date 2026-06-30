@@ -12,7 +12,7 @@ breadcrumb: [Currency conversion and third-party aggregation, Using Digital resi
 
 # Convert and aggregate contractual expenses to regulator-required currencies
 
-Convert and aggregate contractual expenses to regulator-required currencies and generate consolidated reports for reporting submissions. Beginning with Digital [[grc-opres-landing-page|Operational Resilience]] Management \(sn\_dora\_accel\), version 22.x.x, these currency conversion and third-party aggregation capabilities are supported for DORA reporting.
+Convert and aggregate contractual expenses to regulator-required currencies and generate consolidated reports for reporting submissions. Beginning with Digital Operational Resilience Management \(sn\_dora\_accel\), version 22.x.x, these currency conversion and third-party aggregation capabilities are supported for DORA reporting.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_oper\_res.admin, sn\_oper\_res.manager
 
 Two download types are supported: \(1\) Excel master template — for internal review and analysis; does NOT require Competent Authority, Reference Date, or Date of Reporting fields. \(2\) Plain-CSV reporting package — for regulatory submission; requires Competent Authority, Reference Date, and Date of Reporting; includes Level 3 DPM validation on generation. Currency conversion and aggregation settings are available for both types.
 
-Once the instance is activated, currency rates populate automatically via a daily scheduled job. To align with regulator requirements, administrators or DORA administrators can update currency rates and validation rules at **All &gt; Digital Operational Resilience Management &gt; Digital Resilience Choices or DPM Business Validation Rules**. For more information, see [[currency-conversion-aggregation|Currency conversion and third-party aggregation]].
+Once the instance is activated, currency rates populate automatically via a daily scheduled job. To align with regulator requirements, administrators or DORA administrators can update currency rates and validation rules at **All &gt; Digital Operational Resilience Management &gt; Digital Resilience Choices or DPM Business Validation Rules**. For more information, see [Currency conversion and third-party aggregation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/currency-conversion-aggregation.md).
 
 \[Omitted image "dora-excel-validation-rules.png"\] Alt text: DPM business validation rules.
 
@@ -109,7 +109,3 @@ Once the instance is activated, currency rates populate automatically via a dail
 
 **Parent Topic:**[Currency conversion and third-party aggregation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/currency-conversion-aggregation.md)
 
-## Related
-
-- [[currency-conversion-aggregation|Currency conversion and third-party aggregation]]
-- [[grc-opres-landing-page|Operational Resilience]]

@@ -14,7 +14,7 @@ breadcrumb: [Transaction Manager: Layouts, Transaction Manager, CPQ app, Configu
 
 Learn how to add functionality to a button by programming UI effects in either YAML or JSON.
 
-In [[transaction-manager|Transaction Manager]], UI effects are layout elements that add functionalities to a button. Users can customize the UI effects that CPQ has established. However, users cannot create new UI effects as they do events.
+In Transaction Manager, UI effects are layout elements that add functionalities to a button. Users can customize the UI effects that CPQ has established. However, users cannot create new UI effects as they do events.
 
 If a UI effect and an event are present on the same button, the UI effect runs after the event runs.
 
@@ -41,7 +41,7 @@ As an example, a UI effect might enable a button to open a searchable list of pr
 
 Here’s how that button might appear in the resulting UI:
 
-\[Omitted image "cpq-txn-mgr-[[layouts|layouts]]-ui-effects-add-button.png"\] Alt text: Add products
+\[Omitted image "cpq-txn-mgr-layouts-ui-effects-add-button.png"\] Alt text: Add products
 
 ## Programming UI effects
 
@@ -56,7 +56,7 @@ Each parameter has the following possible values:
 
 ## Analysis of types
 
--   **url** requires a location in the form of a URL. Pressing the button takes users to the URL by way of a particular target \(inline, tab, window, modal iframe, or slideout iframe\). Using curly braces, admins can dynamically pass field values into the URL. Common [[use-cases|use cases]] are passing a value to an output document or opening a record page in Salesforce.
+-   **url** requires a location in the form of a URL. Pressing the button takes users to the URL by way of a particular target \(inline, tab, window, modal iframe, or slideout iframe\). Using curly braces, admins can dynamically pass field values into the URL. Common use cases are passing a value to an output document or opening a record page in Salesforce.
 -   **anchor** requires a location as an element ID in the layout. Pressing the button focuses on or scrolls to the element. Related parent elements are opened in tabs or an accordion structure. The target should be inline.
 -   **productSearch** opens the product catalog in the target in either a slideout or a modal window. A variable name is required. The UI effect must be added to the gridHeaderButtons element. Options include the following:
 
@@ -64,7 +64,7 @@ Each parameter has the following possible values:
     -   Show favorites list: **favorites** - **true** \(show\), false \(hide\)
     -   Location of button placement: **actionLocation** - **footer**, **header**, or both
         -   Defaults to **footer** if not specified
-        -   Buttons include "[[cancel|Cancel]]", "Add Line", "Configure", and "Done Configuring"
+        -   Buttons include "Cancel", "Add Line", "Configure", and "Done Configuring"
     The following code shows products, hides favorites, and places buttons only on the header:
 
     ```
@@ -334,9 +334,4 @@ If an event and a UI effect are both present on a button, access for both is det
     variableName: exportLines
     ```
 
-## Related
 
-- [[transaction-manager|Transaction Manager]]
-- [[layouts|Layouts]]
-- [[use-cases|Use cases]]
-- [[cancel|Cancel]]

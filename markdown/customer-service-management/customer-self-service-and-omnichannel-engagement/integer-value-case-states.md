@@ -22,7 +22,7 @@ Role required: sp\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Definitions** &gt; **Choice [[migration-lists|Lists]]**.
+1.  Navigate to **All** &gt; **System Definitions** &gt; **Choice Lists**.
 
 2.  On the Choices page, in the **Table** column, enter `*sn_customerservice_case`.
 
@@ -36,9 +36,5 @@ The Value column on the Choices page displays the integer values of all the stat
 **Related topics**  
 
 
-[[portal-case-cards-widget-default-color|Default highlight color for different case states]]
+[Default highlight color for different case states](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/portal-case-cards-widget-default-color.md)
 
-## Related
-
-- [[portal-case-cards-widget-default-color|Default highlight color for different case states]]
-- [[migration-lists|Lists]]

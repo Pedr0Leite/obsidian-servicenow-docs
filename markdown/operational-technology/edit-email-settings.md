@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to the [[settings-page-console|Settings page]].
+1.  Navigate to the Settings page.
 
 2.  Select the **Email** tab.
 
@@ -38,6 +38,4 @@ Role required: admin
 
 5.  Select **Save**.
 
-## Related
 
-- [[settings-page-console|Settings page]]

@@ -117,13 +117,10 @@ Enter the value associated with the **Type** selected. If a value that is invali
 </table>7.  Click **Submit**.
 
 
-**Parent Topic:**[[third-party-integrations|Security Operations Integration Configurations]]
+**Parent Topic:**[Security Operations Integration Configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/third-party-integrations.md)
 
 **Related topics**  
 
 
 [Activate and configure third-party integrations]()
 
-## Related
-
-- [[third-party-integrations|Security Operations Integration Configurations]]

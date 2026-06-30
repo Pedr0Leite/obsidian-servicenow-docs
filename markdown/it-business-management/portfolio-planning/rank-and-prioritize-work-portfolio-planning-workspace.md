@@ -36,7 +36,7 @@ The Rank column helps you quickly identify the rank of an item relative to the o
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace** &gt; **Portfolio Planning**.
+1.  Navigate to **Workspaces** &gt; **Portfolio Planning Workspace** &gt; **Portfolio Planning**.
 
 2.  From the list of portfolio plans, select one and then select **Planning**.
 
@@ -82,6 +82,3 @@ Use the Rearrange rows icon \(\[Omitted image "icon-rearrange.png"\] Alt text: R
 
 The rank of the item is automatically updated and can be seen from the Rank column. The Rank column is read-only.
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

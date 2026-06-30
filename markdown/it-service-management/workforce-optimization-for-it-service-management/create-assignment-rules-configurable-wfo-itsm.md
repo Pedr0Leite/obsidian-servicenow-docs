@@ -28,7 +28,7 @@ An eligible assignment group can consist of one or more groups of agents availab
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]** &gt; **Channel Management** &gt; **Queues**
+1.  Navigate to **All** &gt; **Workforce Optimization for ITSM** &gt; **Channel Management** &gt; **Queues**
 
 2.  Select a queue to define an assignment rule.
 
@@ -80,6 +80,3 @@ The set of groups eligible for assignment. -   Click the lock icon to unlock it 
 
 **Parent Topic:**[Setting up Channels in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/setup-channels-configurable-workforce-optimization-itsm.md)
 
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]

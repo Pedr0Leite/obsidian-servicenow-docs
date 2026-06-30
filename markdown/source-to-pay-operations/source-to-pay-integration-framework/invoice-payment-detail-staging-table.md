@@ -55,11 +55,11 @@ String
 
 </td><td>
 
-Unique identifier for [[invoices|invoices]] in the ERP system.This is a mandatory field.
+Unique identifier for invoices in the ERP system.This is a mandatory field.
 
 </td></tr><tr><td>
 
-[[erp-source|ERP Source]]
+ERP Source
 
 </td><td>
 
@@ -71,7 +71,7 @@ Specifies the original source of ERP.This is a mandatory field.
 
 </td></tr><tr><td>
 
-ERP [[supplier|supplier]] code
+ERP supplier code
 
 </td><td>
 
@@ -233,8 +233,3 @@ Unique identifier for imported data set.
 
 [Invoice line stage table]()
 
-## Related
-
-- [[invoices|Invoices]]
-- [[erp-source|ERP source]]
-- [[supplier|Supplier]]

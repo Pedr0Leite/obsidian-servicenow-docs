@@ -12,7 +12,7 @@ breadcrumb: [Overview of Instance Observer metrics, Instance Observer reference,
 
 # Email performance metrics
 
-The metrics provide the Email [[instance-observer-performance|performance]] snapshot within the ServiceNow AI Platform®.
+The metrics provide the Email performance snapshot within the ServiceNow AI Platform®.
 
 ## Inbound Emails
 
@@ -26,7 +26,7 @@ his represents the total number of emails processed by the SMTP server. This inc
 
 If the emails sent is zero, then it means that the SMTP server has nothing further to process or there has been a failure in the SMTP server.
 
-**Parent Topic:**[[instance-observer-ovr-metric|Overview of Instance Observer metrics]]
+**Parent Topic:**[Overview of Instance Observer metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/instance-observer-ovr-metric.md)
 
 **Related topics**  
 
@@ -35,7 +35,7 @@ If the emails sent is zero, then it means that the SMTP server has nothing furth
 
 [Anomaly insights]()
 
-[Feature [[io-availability|availability]] based on package]()
+[Feature availability based on package]()
 
 [Auriga Intelligent Alert report]()
 
@@ -71,8 +71,3 @@ If the emails sent is zero, then it means that the SMTP server has nothing furth
 
 [Instance Data Replication]()
 
-## Related
-
-- [[instance-observer-ovr-metric|Overview of Instance Observer metrics]]
-- [[instance-observer-performance|Performance]]
-- [[io-availability|Availability]]

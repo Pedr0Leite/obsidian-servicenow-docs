@@ -28,9 +28,9 @@ The widget also includes a search box so that you can search for an article by n
 
 ## Instance options
 
-Use the instance options to [[configure-onboarding-modals|configure]] the Knowledge Breadcrumbs widget for a portal page.
+Use the instance options to configure the Knowledge Breadcrumbs widget for a portal page.
 
-**Note:** The AI Search instance options apply only if AI Search is enabled in your portal. For more information on enabling AI Search for [[c_ServicePortal|Service Portal]], see [Enable and configure AI Search in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/enable-ais-sp.md).
+**Note:** The AI Search instance options apply only if AI Search is enabled in your portal. For more information on enabling AI Search for Service Portal, see [Enable and configure AI Search in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/enable-ais-sp.md).
 
 <table id="table_jtv_wws_jnb"><thead><tr><th>
 
@@ -112,7 +112,3 @@ Content that portal users can search on, including tables in your instance or ex
 
 [Clone a widget]()
 
-## Related
-
-- [[configure-onboarding-modals|Configure]]
-- [[c_ServicePortal|Service Portal]]

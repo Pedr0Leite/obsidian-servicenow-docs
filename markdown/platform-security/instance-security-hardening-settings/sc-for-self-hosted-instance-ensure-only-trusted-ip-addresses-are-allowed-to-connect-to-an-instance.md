@@ -14,7 +14,7 @@ breadcrumb: [Architecture, design, and threat modeling, Hardening settings, Plat
 
 # For Self-Hosted Instance, Ensure only Trusted IP Addresses are Allowed to Connect to An Instance
 
-Use [[ca-system-properties|system properties]] to control which inbound IP addresses can connect to self-hosted instances.
+Use system properties to control which inbound IP addresses can connect to self-hosted instances.
 
 A self-hosted instance is a customer-managed deployment of the ServiceNow platform, which runs on your own infrastructure instead of ServiceNow's cloud. A instance is classified as self-hosted if the property **glide.installation.self\_hosted** is set to true.
 
@@ -50,7 +50,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -157,7 +157,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Architecture, design, and threat modeling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-architecture-design-threat-molding.md)
 
-## Related
-
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]

@@ -14,7 +14,7 @@ breadcrumb: [Create a case type, Configure, Compliance Case Management, Governan
 
 # Create view rule
 
-Define the view rules for the workspace and default view in the GRC: [[compliance-case-management|Compliance Case Management]] application. By defining the rules, you can control how the compliance case or request form appears.
+Define the view rules for the workspace and default view in the GRC: Compliance Case Management application. By defining the rules, you can control how the compliance case or request form appears.
 
 ## Before you begin
 
@@ -26,13 +26,13 @@ Role required: sn\_compliance\_case\_admin
 
 2.  Open a case type from the list.
 
-3.  On the [[case-type-form|case type form]], select **View Rules**.
+3.  On the case type form, select **View Rules**.
 
 4.  Select **New**.
 
 5.  On the form, fill in the fields.
 
-    For a description of the field values on the [[view-rule-form|View Rule form]], see [View Rule form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/view-rule-form.md).
+    For a description of the field values on the View Rule form, see [View Rule form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/view-rule-form.md).
 
 6.  Select **Submit**.
 
@@ -42,8 +42,3 @@ Use the View Rule form to define the workspace and default view rules in the GRC
 
 **Parent Topic:**[Create a case type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/create-case-type.md)
 
-## Related
-
-- [[compliance-case-management|compliance case management]]
-- [[case-type-form|Case Type form]]
-- [[view-rule-form|view rule form]]

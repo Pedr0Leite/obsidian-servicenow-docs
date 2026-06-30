@@ -14,19 +14,19 @@ breadcrumb: [Configure KBA, Knowledge-based authentication, Configure authentica
 
 # Create KBA answers
 
-Create knowledge-based answers for the preconfigured security questions to confirm the user's [[identity-landing|identity]].
+Create knowledge-based answers for the preconfigured security questions to confirm the user's identity.
 
 ## Before you begin
 
 Role required: auth\_factors\_admin
 
-KBA validates answers against records in ServiceNow AI Platform tables by default. To  validate against  an external source such as a CRM or order management platform, select Identification or [[c_Authentication|Authentication]] in the Script [[sc-configuration|Configuration]] field. External data is never imported or stored in ServiceNow AI Platform.
+KBA validates answers against records in ServiceNow AI Platform tables by default. To  validate against  an external source such as a CRM or order management platform, select Identification or Authentication in the Script Configuration field. External data is never imported or stored in ServiceNow AI Platform.
 
 The User Column field determines whether an identified caller can proceed to authentication. When populated with a field that links to a system user account, the caller is eligible for authentication. When left empty or mapped incorrectly, the caller is treated as a guest — the caller can access personalized, non-sensitive information but can't be authenticated.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[authentication-factors|Authentication Factors]]** &gt; **Knowledge Based Factor** &gt; **Answers**.
+1.  Navigate to **All** &gt; **Authentication Factors** &gt; **Knowledge Based Factor** &gt; **Answers**.
 
 2.  Select **New** on the Knowledge Based Answers page.
 
@@ -113,7 +113,7 @@ Whether this field is required is controlled by the property. To know more, see 
 
     2.  Script Configuration as **Identification**: Validate against an external system during identification:
 
-        **Note:** KBA Answers - **Script Configuration**: Works for only [[users|users]] with `snc_external`role users.
+        **Note:** KBA Answers - **Script Configuration**: Works for only users with `snc_external`role users.
 
 <table><thead><tr><th>
 
@@ -202,7 +202,7 @@ The following properties control the behavior of knowledge-based authentication 
 
 <table id="table_zyt_2xc_m3c"><thead><tr><th>
 
-[[ca-system-properties|System properties]]
+System properties
 
 </th><th>
 
@@ -240,12 +240,3 @@ Controls the script execution time limit in seconds for external source validati
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[identity-landing|Identity]]
-- [[c_Authentication|Authentication]]
-- [[sc-configuration|Configuration]]
-- [[authentication-factors|Authentication factors]]
-- [[users|Users]]
-- [[ca-system-properties|System properties]]

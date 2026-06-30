@@ -14,7 +14,7 @@ breadcrumb: [Decision tables, Configure, Telecommunications Network Inventory]
 
 # Customize the Validation of Revision CI
 
-Customize the validation process of a CI \(Configuration Item\) using the [[telecom-network-inventory|Telecommunications Network Inventory]] application. You can customize the validation process by providing adjustable parameters based on the script.
+Customize the validation process of a CI \(Configuration Item\) using the Telecommunications Network Inventory application. You can customize the validation process by providing adjustable parameters based on the script.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ You can specify criteria and rules that fit your requirements, enabling a tailor
 
 **Parent Topic:**[Configuring decision tables for Telecommunications Network Inventory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/decision_tables.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]

@@ -22,7 +22,7 @@ If you’re upgrading from a previous release, you must activate the Knowledge O
 
 Enable the responsive dashboard to optimize analytics by setting the **glide.cms.enable.responsive\_grid\_layout** system property to true.
 
-To access the Knowledge Management Overview dashboard, navigate to **All** &gt; **[[self-service-landing|Self-Service]]** &gt; **Dashboards**. Search for the Knowledge Management Overview dashboard. The dashboard by default opens with the **Article Lifecycle** tab displayed.
+To access the Knowledge Management Overview dashboard, navigate to **All** &gt; **Self-Service** &gt; **Dashboards**. Search for the Knowledge Management Overview dashboard. The dashboard by default opens with the **Article Lifecycle** tab displayed.
 
 \[Omitted image "KMdashboard\_overview.gif"\] Alt text: Knowledge Management Overview dashboard tabs
 
@@ -64,6 +64,3 @@ The Knowledge Management Overview dashboard includes various reports.
 |Monthly knowledge views by author|Trend \(\[Omitted image "icon-trend-report.png"\] Alt text: Trend icon\)|Shows the count of viewed articles trended by month per author.|
 |Articles created by author|Trend \(\[Omitted image "icon-trend-report.png"\] Alt text: Trend icon\)|Shows articles created according to knowledge author trended by month.|
 
-## Related
-
-- [[self-service-landing|Self-service]]

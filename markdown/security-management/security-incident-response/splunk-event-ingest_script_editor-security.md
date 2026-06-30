@@ -14,7 +14,7 @@ breadcrumb: [Splunk Enterprise Security event ingestion integration, Security In
 
 # Use the script editor to format alert values for the Splunk Enterprise Security Event Ingestion integration
 
-In addition to the directly mapped fields from the ingested notable event values, and the values you enter manually, use the script editor to format field values on the security incident during the [[mapping-logrhythm|mapping]] step.
+In addition to the directly mapped fields from the ingested notable event values, and the values you enter manually, use the script editor to format field values on the security incident during the mapping step.
 
 ## Before you begin
 
@@ -50,6 +50,4 @@ In certain cases, Splunk Enterprise Security notable event values are mapped to 
 
 5.  Close the table to return to the Mapping form.
 
-## Related
 
-- [[mapping-logrhythm|Mapping]]

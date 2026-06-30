@@ -14,14 +14,14 @@ breadcrumb: [Configure Legal Counsel Center Workspace, Legal Counsel Center, Leg
 
 # Enable or disable notifications
 
-Enable or disable [[legal-counsel-center-config-notification|Legal Counsel Center notifications]] to subscribe to items that interest you and unsubscribe from information that does not interest you and is not mandatory.
+Enable or disable Legal Counsel Center notifications to subscribe to items that interest you and unsubscribe from information that does not interest you and is not mandatory.
 
 ## Before you begin
 
 You must have the following applications installed:
 
--   [[legal-request-management-landing-page|Legal Request Management]]
--   [[legal-counsel-center-landing|Legal Counsel Center]]
+-   Legal Request Management
+-   Legal Counsel Center
 
 Role required: admin
 
@@ -46,8 +46,3 @@ The notification is enabled or disabled for the user. For more information on th
 
 **Parent Topic:**[Configure Legal Counsel Center Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/configure-legal-counsel-center-workspace.md)
 
-## Related
-
-- [[legal-counsel-center-config-notification|Legal Counsel Center notifications]]
-- [[legal-request-management-landing-page|Legal Request Management]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]

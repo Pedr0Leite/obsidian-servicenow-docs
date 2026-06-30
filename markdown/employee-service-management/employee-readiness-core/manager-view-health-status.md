@@ -14,7 +14,7 @@ breadcrumb: [Employee Health and Safety Status, Employee Readiness Core, Safe Wo
 
 # View your users' health and safety status
 
-View the [[health-safety-overview|health and safety]] status of your team to check their progress on company requirements for returning to the workplace.
+View the health and safety status of your team to check their progress on company requirements for returning to the workplace.
 
 ## Before you begin
 
@@ -24,9 +24,9 @@ All users can view the health and safety status of their direct reports. However
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-health-safety-status|Employee Health and Safety Status]]** &gt; **View Team Status**.
+1.  Navigate to **All** &gt; **Employee Health and Safety Status** &gt; **View Team Status**.
 
-    **Note:** To view the status page on the [[mobile-employee-experience|Now Mobile app]], navigate to **Health** &gt; **My Team** &gt; **My Team's Safety Status**.
+    **Note:** To view the status page on the Now Mobile app, navigate to **Health** &gt; **My Team** &gt; **My Team's Safety Status**.
 
     The status page shows whether each user has completed all requirements for returning to the workplace.
 
@@ -37,8 +37,3 @@ All users can view the health and safety status of their direct reports. However
 
 **Parent Topic:**[Employee Health and Safety Status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-readiness-core/employee-health-safety-status.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[employee-health-safety-status|Employee Health and Safety Status]]
-- [[mobile-employee-experience|Now Mobile app]]

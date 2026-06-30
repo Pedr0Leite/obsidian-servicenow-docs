@@ -15,19 +15,19 @@ breadcrumb: [Configure Now Assist for Accounts Payable Operations \(APO\), Now A
 
 # Install Now Assist for Accounts Payable Operations \(APO\)
 
-Install the APO plugin \[sn\_ap\_gen\_ai\] to give AP fulfillers access to generative AI skills in [[purch-order-mgmt-ws|Source-to-Pay Workspace]] and Core UI.
+Install the APO plugin \[sn\_ap\_gen\_ai\] to give AP fulfillers access to generative AI skills in Source-to-Pay Workspace and Core UI.
 
 ## Before you begin
 
 Role required: admin
 
-Install the Document Intelligence for [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] Content Pack from the ServiceNow® Store for the invoice data extraction skill.
+Install the Document Intelligence for Accounts Payable Operations Content Pack from the ServiceNow® Store for the invoice data extraction skill.
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **Now Assist Admin** &gt; **Features** to access the **Now Assist Features** tab of the Now Assist Admin console.
 
-2.  Expand the **[[finance-supply-chain-landing|Finance and Supply Chain]]** workflow group and select **Accounts Payable Operations**.
+2.  Expand the **Finance and Supply Chain** workflow group and select **Accounts Payable Operations**.
 
     The APO features are grouped under the **Finance and Supply Chain** workflow group. Each feature has its associated skills.
 
@@ -35,7 +35,7 @@ Install the Document Intelligence for [[acc-pay-mgmt-landing-page|Accounts Payab
 
     |Skills|Action|
     |------|------|
-    |Purchase order line mapping|To activate the skill, on the [[purchase-order-table|Purchase order]] line mapping skill card, select **Turn on**.|
+    |Purchase order line mapping|To activate the skill, on the Purchase order line mapping skill card, select **Turn on**.|
     |Invoice case summarization|On the Purchase order line mapping skill card, select **Activate skill**.|
     |Invoice data extraction|On the Invoice data extraction mapping skill card, select **Activate skill**.|
 
@@ -135,12 +135,6 @@ Now Assist skills are available in the Now Assist panel. Turn on multi-language 
 
 9.  On the Purchase order line mapping summarization for the APO specialists feature card, select **Turn on**.
 
-    The generative AI skill auto-generates mappings between invoice lines and [[purchase-order-lines|purchase order lines]].
+    The generative AI skill auto-generates mappings between invoice lines and purchase order lines.
 
-## Related
 
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[finance-supply-chain-landing|Finance and Supply Chain]]
-- [[purchase-order-table|Purchase order]]
-- [[purchase-order-lines|Purchase order lines]]

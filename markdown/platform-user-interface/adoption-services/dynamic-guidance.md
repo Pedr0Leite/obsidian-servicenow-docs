@@ -15,7 +15,7 @@ breadcrumb: [Adoption services, Configure user experiences]
 
 # Dynamic Guidance
 
-Dynamic Guidance is the proactive AI assistant invoked from [[help-center|Help Center]] and Now Assist panel that generates an engaging voice and text based, step by step, real-time guidance, dynamically, across platforms.
+Dynamic Guidance is the proactive AI assistant invoked from Help Center and Now Assist panel that generates an engaging voice and text based, step by step, real-time guidance, dynamically, across platforms.
 
 Dynamic Guidance addresses the need for personalized contextual support by leveraging artificial intelligence to queries raised by you in natural language. Thus, it can respond conversationally, guiding you more effectively within the product experience. Dynamic Guidance uses Google services to share real-time screen and get guidance.
 
@@ -38,6 +38,3 @@ Admins can extend the documentation sources available to Dynamic Guidance by con
 
 Dynamic Guidance transforms the in-product help experience by implementing an advanced, conversational help capable of delivering contextual support to users. This solution will surpass traditional, static, administrator-created content by utilising natural language, screen context awareness, and robust system integration.
 
-## Related
-
-- [[help-center|Help Center]]

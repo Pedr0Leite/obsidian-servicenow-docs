@@ -18,7 +18,7 @@ Make an outgoing call or send an SMS using Twilio and trigger callbacks to Servi
 
 ## Before you begin
 
-Role required: [[notify-landing-page|notify]]\_setup\_admin, notify\_admin
+Role required: notify\_setup\_admin, notify\_admin
 
 ## Procedure
 
@@ -35,6 +35,3 @@ Role required: [[notify-landing-page|notify]]\_setup\_admin, notify\_admin
 
 **Parent Topic:**[Configure Notify with Twilio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/t_ConfigureNotifyWithTwilio.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]

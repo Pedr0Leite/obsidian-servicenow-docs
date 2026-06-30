@@ -14,7 +14,7 @@ breadcrumb: [Notification content, Creating employee communications, Authoring a
 
 # Create email, SMS, or push notification content
 
-Use [[ec-notification-content|Notification Content]] to send an information blast directly to your employees via email, SMS, or push to their mobile devices. Notifications can be used to direct users to the portal for detailed information.
+Use Notification Content to send an information blast directly to your employees via email, SMS, or push to their mobile devices. Notifications can be used to direct users to the portal for detailed information.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Role required: sn\_cd.content\_manager
 
 4.  Select **Email** or **Push** under **Choose a content format**.
 
-5.  Fill out the new [[notification-content-form|notification content form]]:
+5.  Fill out the new notification content form:
 
 <table id="table_rkb_p1z_vfb"><thead><tr><th>
 
@@ -133,7 +133,4 @@ The message you want to send via push. You are limited to 1600 characters.
 
     **Note:** Integration with Localization Framework is not available for Push or SMS content.
 
-## Related
 
-- [[ec-notification-content|Notification content]]
-- [[notification-content-form|Notification content form]]

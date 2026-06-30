@@ -14,7 +14,7 @@ breadcrumb: [Using Notify with On-Call Scheduling, Using Notify, Notify, Manage 
 
 # Key differences between on-call scheduling with NotifyNow and with Notify
 
-There are key differences between on-call scheduling with NotifyNow and on-call scheduling with [[notify-landing-page|Notify]].
+There are key differences between on-call scheduling with NotifyNow and on-call scheduling with Notify.
 
 ## Tracking responses to questions
 
@@ -31,6 +31,3 @@ The On call:Assign by Acknowledgement workflow no longer uses the Notify Questio
 
 [Call a user from the WebRTC UI]()
 
-## Related
-
-- [[notify-landing-page|Notify]]

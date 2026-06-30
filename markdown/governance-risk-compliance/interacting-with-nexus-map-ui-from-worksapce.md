@@ -20,7 +20,7 @@ Role required: sn\_oper\_res.manager
 
 ## Procedure
 
-1.  Navigate to **[[grc-opres-landing-page|Operational Resilience]] Workspace** &gt; **List** &gt; **Services**.
+1.  Navigate to **Operational Resilience Workspace** &gt; **List** &gt; **Services**.
 
 2.  From any of the Services modules, open the desired record that you want to work on.
 
@@ -41,7 +41,7 @@ Role required: sn\_oper\_res.manager
 
     **Note:** The sys\_id of the nexus map is defined in the respective declarative actions.
 
-    Multiple Nexus maps: You can configure multiple Nexus maps for a single main node. When configuring a specific entity, such as a business service, you can create multiple [[nexus-map-configuration|Nexus map configurations]]. For example, you can configure a Nexus map for a business service resilience map group, which includes multiple buttons that link to different node maps. The group name can be customized to suit your needs.
+    Multiple Nexus maps: You can configure multiple Nexus maps for a single main node. When configuring a specific entity, such as a business service, you can create multiple Nexus map configurations. For example, you can configure a Nexus map for a business service resilience map group, which includes multiple buttons that link to different node maps. The group name can be customized to suit your needs.
 
     In the following example, two buttons are configured for the business service resilience map group, each depicting a specific node map. This functionality enables for a tailored visualization of the business service and its associated nodes. By customizing the group name and node maps, you can create a more informative and user-friendly Nexus map.
 
@@ -81,7 +81,7 @@ Role required: sn\_oper\_res.manager
 
     \[Omitted image "record-360-view.png"\] Alt text: 360° view.
 
-7.  To navigate to the Service record or the [[list-view-uib-ws|list view]], use the breadcrumb menu option in the UI.
+7.  To navigate to the Service record or the list view, use the breadcrumb menu option in the UI.
 
     The example displays the breadcrumb trail navigation to the Service record.
 
@@ -155,9 +155,9 @@ Role required: sn\_oper\_res.manager
     -   Operational vulnerabilities
     -   Incidents
     -   Outages
-    -   [[crisis-management-uib|Crisis events]]
+    -   Crisis events
     -   Vulnerabilities
-    -   Third party [[risk-assessments|risk assessments]]
+    -   Third party risk assessments
 16. Change the node configuration by modifying the Node Configuration setting in the Nexus map.
 
     The example shows how to update the Node Configuration setting in the Nexus map.
@@ -210,10 +210,4 @@ Role required: sn\_oper\_res.manager
 
     \[Omitted image "export-map-icon.png"\] Alt text: Export map.
 
-## Related
 
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[nexus-map-configuration|Nexus map configurations]]
-- [[list-view-uib-ws|List view]]
-- [[crisis-management-uib|Crisis events]]
-- [[risk-assessments|risk assessments]]

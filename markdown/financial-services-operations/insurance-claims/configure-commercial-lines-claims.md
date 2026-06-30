@@ -14,7 +14,7 @@ breadcrumb: [Commercial Lines Claims, Exploring insurance claims applications, I
 
 # Configure Commercial Lines Claims
 
-Review the components that are installed with the [[commercial-lines-claims-landing-page|Commercial Lines Claims]] application and modify as needed for your organization's business needs.
+Review the components that are installed with the Commercial Lines Claims application and modify as needed for your organization's business needs.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: sn\_ins\_claim\_cml.admin and admin
 
 1.  Import your financial accounts, financial products, financial institutions, and transactions data into ServiceNow tables.
 
-    For more information, see [[import-financial-accounts-products-institutions|Import your financial data using import sets]].
+    For more information, see [Import your financial data using import sets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/import-financial-accounts-products-institutions.md).
 
 2.  Review the installed components and modify them or add new ones as applicable.
 
@@ -44,7 +44,7 @@ Description
 
 </td><td>
 
-Configure service definitions to enable unique flows and views for service cases and tasks. For more information, see [[configure-service-definitions|Configure service definitions]].You can add new case types and configure service definitions for each type.
+Configure service definitions to enable unique flows and views for service cases and tasks. For more information, see [Configure service definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-service-definitions.md).You can add new case types and configure service definitions for each type.
 
 </td></tr><tr><td id="d116605e146">
 
@@ -52,7 +52,7 @@ Configure service definitions to enable unique flows and views for service cases
 
 </td><td>
 
-Edit or create flows using Workflow Studio. For more information, see [[configure-flow-designer-flows-fso-apps|Edit or create flows]].
+Edit or create flows using Workflow Studio. For more information, see [Edit or create flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-flow-designer-flows-fso-apps.md).
 
 </td></tr><tr><td id="d116605e168">
 
@@ -60,7 +60,7 @@ Edit or create flows using Workflow Studio. For more information, see [[configur
 
 </td><td>
 
-Create a playbook by using Playbooks. For more information, see [[configure-playbooks-fso-apps|Edit or create a new playbook]].
+Create a playbook by using Playbooks. For more information, see [Edit or create a new playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-playbooks-fso-apps.md).
 
 </td></tr><tr><td id="d116605e190">
 
@@ -68,7 +68,7 @@ Create a playbook by using Playbooks. For more information, see [[configure-play
 
 </td><td>
 
-Configure CSM Configurable Workspace to enable agents to interact with customers and create and work on cases.For more information, see [[configure-csm-workspace-fso-apps|Configure CSM Configurable Workspace]].
+Configure CSM Configurable Workspace to enable agents to interact with customers and create and work on cases.For more information, see [Configure CSM Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-csm-workspace-fso-apps.md).
 
 </td></tr><tr><td id="d116605e224">
 
@@ -76,7 +76,7 @@ Configure CSM Configurable Workspace to enable agents to interact with customers
 
 </td><td>
 
-Configure Claim workspace, Fraud score, and Claim summary pages on claim cases and claim [[adjuster-tasks-workspace-pers|adjuster tasks]]. For more information, see [Enable Claim workspace, Fraud score, and Claim summary pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/enable-fraud-score-and-claim-summary-pages.md).**Note:** The Claim workspace is accessible from an adjuster task. The Fraud score and Claim summary pages are accessible from both a claim case and an adjuster task.
+Configure Claim workspace, Fraud score, and Claim summary pages on claim cases and claim adjuster tasks. For more information, see [Enable Claim workspace, Fraud score, and Claim summary pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/enable-fraud-score-and-claim-summary-pages.md).**Note:** The Claim workspace is accessible from an adjuster task. The Fraud score and Claim summary pages are accessible from both a claim case and an adjuster task.
 
 </td></tr><tr><td id="d116605e242">
 
@@ -84,7 +84,7 @@ Configure Claim workspace, Fraud score, and Claim summary pages on claim cases a
 
 </td><td>
 
-Configure the installed SLAs to configure SLA timings for claim service cases and tasks.For more information, see [[configure-sla-definitions-fso-cases|Configure the installed SLAs]]
+Configure the installed SLAs to configure SLA timings for claim service cases and tasks.For more information, see [Configure the installed SLAs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-sla-definitions-fso-cases.md)
 
 </td></tr><tr><td id="d116605e263">
 
@@ -92,7 +92,7 @@ Configure the installed SLAs to configure SLA timings for claim service cases an
 
 </td><td>
 
-Configure user groups for assignment of cases and tasks. You can also assign roles to groups and users.For more information, see [[configure-groups-fso|Configure user groups]].
+Configure user groups for assignment of cases and tasks. You can also assign roles to groups and users.For more information, see [Configure user groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-groups-fso.md).
 
 </td></tr><tr><td id="d116605e285">
 
@@ -100,7 +100,7 @@ Configure user groups for assignment of cases and tasks. You can also assign rol
 
 </td><td>
 
-Configure assignment rules to identify cases that meet certain conditions and then route those cases to agents. For more information, see [[configure-assignment-rules-fso-applications|Configure assignment rules]].
+Configure assignment rules to identify cases that meet certain conditions and then route those cases to agents. For more information, see [Configure assignment rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-assignment-rules-fso-applications.md).
 
 </td></tr><tr><td id="d116605e301">
 
@@ -108,7 +108,7 @@ Configure assignment rules to identify cases that meet certain conditions and th
 
 </td><td>
 
-Configure document processor for document categories, document types, inbound and outbound document rules, and approval rules for document deferments and exceptions.For more information, see [[configuring-fso-document-processor|Configure Document Processor]].
+Configure document processor for document categories, document types, inbound and outbound document rules, and approval rules for document deferments and exceptions.For more information, see [Configure Document Processor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configuring-fso-document-processor.md).
 
 </td></tr><tr><td id="d116605e328">
 
@@ -120,17 +120,3 @@ The Archive Commercial Auto Claim Case rule archives commercial auto claim cases
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[import-financial-accounts-products-institutions|Import your financial data using import sets]]
-- [[configure-service-definitions|Configure service definitions]]
-- [[configure-flow-designer-flows-fso-apps|Configure flows]]
-- [[configure-playbooks-fso-apps|Configure playbooks]]
-- [[configure-csm-workspace-fso-apps|Configure CSM Configurable Workspace]]
-- [[configure-sla-definitions-fso-cases|Configure SLA definitions]]
-- [[configure-groups-fso|Configure groups]]
-- [[configure-assignment-rules-fso-applications|Configure assignment rules]]
-- [[configuring-fso-document-processor|Configuring Financial Services Operations Document Processor]]
-- [[commercial-lines-claims-landing-page|Commercial Lines Claims]]
-- [[adjuster-tasks-workspace-pers|Adjuster tasks]]

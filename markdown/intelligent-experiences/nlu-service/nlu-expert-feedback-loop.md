@@ -22,7 +22,7 @@ The Expert Feedback Loop takes data from your instance and provides it to you fo
 
 ## Installation
 
-Expert Feedback Loop is part of the [[nlu-workbench-advanced-features|NLU Workbench - Advanced Features]] app available on the ServiceNow® Store.
+Expert Feedback Loop is part of the NLU Workbench - Advanced Features app available on the ServiceNow® Store.
 
 To use Expert Feedback Loop, ensure that the NLU Workbench - Advanced Features \(sn\_nlu\_workbench\) plugin is active on your instance. For more information, see [Install NLU Workbench - Advanced Features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/install-nlu-workbench-adv-features.md) and [Activate the NLU Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/activate-nlu-workbench.md).
 
@@ -34,7 +34,7 @@ Before you start an import, make sure you have access to the data in your instan
 
 If you're working in a sub-production instance, you must import the feedback data from the **open\_nlu\_predict\_intent\_feedback** table in your production instance to your sub-production instance. For guidance on how to import, see Importing from another ServiceNow instance.
 
-Here are a few data scenarios regarding the system behavior for the [[nlu-models|NLU models]] that house the feedback loop utterances.
+Here are a few data scenarios regarding the system behavior for the NLU models that house the feedback loop utterances.
 
 -   If you move a model to a different instance, the feedback data persists.
 -   If you upgrade the instance, the feedback data persists.
@@ -162,7 +162,7 @@ As you keep marking and saving your feedback data, you can see the ratio of revi
 
 \[Omitted image "nlu-expert-feedback-loop8a.png"\] Alt text: The progress bar shows you how many utterances have been reviewed, and those that are available for review.
 
-On the **[[nlu-tune-your-model|Tune your model]]** image below, you can see the default 60/40 percentage split for your model training set and your model test set. You can adjust these default values if needed by selecting your own chosen numbers in each of the two **\(%\)** boxes. Once you're satisfied with your percentage split, click the **Tune** button to tune your model based on the percentage values you chose.
+On the **Tune your model** image below, you can see the default 60/40 percentage split for your model training set and your model test set. You can adjust these default values if needed by selecting your own chosen numbers in each of the two **\(%\)** boxes. Once you're satisfied with your percentage split, click the **Tune** button to tune your model based on the percentage values you chose.
 
 **Note:** If you click the **View feedback** caret, it takes you to an Expert Feedback Loop screen where you can continue reviewing, marking, and saving your feedback utterances.
 
@@ -192,7 +192,7 @@ Here are some steps to use to get started.
     -   In the **Run** field, select one of the eight Repeat Interval options for the job. The options are: Daily, Weekly, Monthly, Periodically, One, On Demand, Business Calendar:Entry Start, and Business Calendar:Entry End.
     -   In the **Repeat Interval** field, enter the number of days you want between now and the next repeat interval for the Active Learning job.
     -   In the **Starting** field, click the Calendar icon and choose the day and time for the next Active Learning job interval.
-    -   Click the **Update** button to save your [[exploring-ai-governance|configurations]] or click the **Execute Now** button to start the Active Learning job run.
+    -   Click the **Update** button to save your configurations or click the **Execute Now** button to start the Active Learning job run.
     -   To verify when the next Active Learning job runs, navigate to the **All** field and type **sys\_trigger.list**, then press the **return** key on your keyboard. The Schedule page appears. Click **Active Learning**. The Schedule Item/Active Learning record appears and populates the **Next action** field with the date and time for the next Active Learning job run.
 
         \[Omitted image "nlu-expert-feedback-loop12.png"\] Alt text: The Active Learning record
@@ -200,9 +200,3 @@ Here are some steps to use to get started.
 
 Detailed information about NLU's Active Learning job can be found in this KB article on the Support portal: [KB1633901](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1633901).
 
-## Related
-
-- [[nlu-workbench-advanced-features|NLU Workbench - Advanced Features]]
-- [[nlu-models|NLU models]]
-- [[nlu-tune-your-model|Tune your model]]
-- [[exploring-ai-governance|Configurations]]

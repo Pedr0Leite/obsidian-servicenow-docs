@@ -12,7 +12,7 @@ breadcrumb: [Set up CSM Configurable Workspace, CSM Configurable Workspace, Orga
 
 # Configure the activity timer log
 
-Configure the activity timer log to appear on selected record pages in [[csm-workspaces-configure|CSM Configurable Workspace]].
+Configure the activity timer log to appear on selected record pages in CSM Configurable Workspace.
 
 ## Before you begin
 
@@ -20,13 +20,13 @@ Role required: admin
 
 ## About this task
 
-The activity timer log feature automatically [[gamification-components-tracks|tracks]] the time that agents spend working on cases and interactions and provides detailed time reports. This feature is available on the following record pages:
+The activity timer log feature automatically tracks the time that agents spend working on cases and interactions and provides detailed time reports. This feature is available on the following record pages:
 
--   [[csm-default-record-page|CSM default record page]]
--   [[csm-front-line-case-page|Front-line case page]]
--   [[csm-interaction-record-page|CSM Interaction record page]]
--   [[csm-native-voice-record-page|CSM voice interaction record page]]
--   [[csm-centered-chat-interaction-page|CSM centered chat interaction record page]]
+-   CSM default record page
+-   Front-line case page
+-   CSM Interaction record page
+-   CSM voice interaction record page
+-   CSM centered chat interaction record page
 
 ## Procedure
 
@@ -77,15 +77,5 @@ Specifies case types excluded from the activity timer log feature.
 **Related topics**  
 
 
-[[csm-config-ws-time-tracking|Activity timer log]]
+[Activity timer log](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-config-ws-time-tracking.md)
 
-## Related
-
-- [[csm-config-ws-time-tracking|Activity timer log]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[gamification-components-tracks|Tracks]]
-- [[csm-default-record-page|CSM default record page]]
-- [[csm-front-line-case-page|Front-line case page]]
-- [[csm-interaction-record-page|CSM Interaction record page]]
-- [[csm-native-voice-record-page|CSM voice interaction record page]]
-- [[csm-centered-chat-interaction-page|CSM centered chat interaction record page]]

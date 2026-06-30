@@ -24,7 +24,7 @@ Role required: sn\_shift\_planning.admin
 
 1.  Create an event type.
 
-    1.  Navigate to **All** &gt; **[[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]** &gt; **Scheduling** &gt; **Event Types**.
+    1.  Navigate to **All** &gt; **Workforce Optimization for ITSM** &gt; **Scheduling** &gt; **Event Types**.
 
     2.  Click **New**.
 
@@ -100,6 +100,3 @@ Type of event, for example, custom, meeting, break, or time off.
 
 **Parent Topic:**[Setting up Scheduling in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/setup-scheduling-configurable-workforce-optimization-itsm.md)
 
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]

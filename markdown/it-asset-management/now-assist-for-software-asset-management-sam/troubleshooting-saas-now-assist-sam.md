@@ -26,7 +26,7 @@ Now Assist for SAM generates the troubleshooting guidance for all SaaS and SSO i
 
 ## Procedure
 
-1.  Navigate to **Workspace** &gt; **[[sam-workspace|Software Asset Workspace]]** &gt; **License operations**.
+1.  Navigate to **Workspace** &gt; **Software Asset Workspace** &gt; **License operations**.
 
 2.  Select **User subscription** and then select **Direct integration profiles**.
 
@@ -88,6 +88,3 @@ The Now Assist for SAM application generates the troubleshooting details that co
 
 **Parent Topic:**[Using generative AI skills in Now Assist for SAM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/now-assist-for-software-asset-management-sam/using-now-assist-sam.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]

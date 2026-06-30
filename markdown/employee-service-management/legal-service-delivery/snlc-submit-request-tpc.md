@@ -22,7 +22,7 @@ Role required: sn\_lg\_ops.legal\_user and sn\_cm\_core.contract\_user
 
 ## Procedure
 
-1.  Access the third-party review intake form either from the Legal Service Portal or from [[employee-center-landing-page|Employee Center]].
+1.  Access the third-party review intake form either from the Legal Service Portal or from Employee Center.
 
 <table id="choicetable_new_tpc"><thead><tr><th align="left" id="d587253e60">
 
@@ -145,6 +145,3 @@ As a legal user, resubmit contract request in draft state.
 
 **Parent Topic:**[Third-party contract review requests]()
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

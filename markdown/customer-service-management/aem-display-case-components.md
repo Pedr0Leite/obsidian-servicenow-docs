@@ -16,7 +16,7 @@ Use case components available within Adobe Experience Manager \(AEM\) to access 
 
 ## Before you begin
 
-Define the cross-origin resource sharing \(CORS\) rule to access the Case API and CSM Attachment API from your AEM instance. For more information, see [[aem-integration-setup|Define a cross-origin resource sharing rule \(CORS\) to access ServiceNow API endpoints from AEM]].
+Define the cross-origin resource sharing \(CORS\) rule to access the Case API and CSM Attachment API from your AEM instance. For more information, see [Define a cross-origin resource sharing rule \(CORS\) to access ServiceNow API endpoints from AEM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/aem-integration-setup.md).
 
 Role required: AEM author
 
@@ -100,10 +100,10 @@ Custom CSS class
 
 </td><td id="component-custom-css-desc">
 
-Custom CSS class for applying custom styles to this component. For more information, see [[aem-style-components|Customizing the colors of ServiceNow components in AEM]].
+Custom CSS class for applying custom styles to this component. For more information, see [Customizing the colors of ServiceNow components in AEM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/aem-style-components.md).
 
 </td></tr></tbody>
-</table>8.  Set the New Case component properties for users to [[t_CreateACaseFromCustServApp|create a customer service case]] in your ServiceNow instance from your AEM page.
+</table>8.  Set the New Case component properties for users to create a customer service case in your ServiceNow instance from your AEM page.
 
 <table id="table_abr_rbk_cmb"><thead><tr><th>
 
@@ -159,7 +159,7 @@ Number of list items
 
 </td><td>
 
-Maximum number of items to include in the product and asset [[migration-lists|lists]].Use the increment or decrement icons to increase or decrease the values. You can also manually enter a value. The value must be greater than `1`.
+Maximum number of items to include in the product and asset lists.Use the increment or decrement icons to increase or decrease the values. You can also manually enter a value. The value must be greater than `1`.
 
 </td></tr><tr><td>
 
@@ -204,7 +204,7 @@ Custom CSS class
 Custom CSS class for applying custom styles to this component. For more information, see [Customizing the colors of ServiceNow components in AEM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/aem-style-components.md).
 
 </td></tr></tbody>
-</table>9.  Set the [[case-view-web-component|Case View component]] properties to display customer service cases and any comments and attachments, if available, from a ServiceNow instance.
+</table>9.  Set the Case View component properties to display customer service cases and any comments and attachments, if available, from a ServiceNow instance.
 
 <table id="table_tfp_h4q_tkb"><thead><tr><th>
 
@@ -265,7 +265,7 @@ Custom CSS class
 Custom CSS class for applying custom styles to this component. For more information, see [Customizing the colors of ServiceNow components in AEM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/aem-style-components.md).
 
 </td></tr></tbody>
-</table>10. Set the [[case-list-component|Case List component]] properties to display a list of customer service cases.
+</table>10. Set the Case List component properties to display a list of customer service cases.
 
 <table id="table_ywq_wbr_tkb"><thead><tr><th>
 
@@ -343,12 +343,3 @@ Custom CSS class for applying custom styles to this component. For more informat
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[aem-integration-setup|Configuring integration settings for ServiceNow services and components in AEM]]
-- [[aem-style-components|Customizing the colors of ServiceNow components in AEM]]
-- [[t_CreateACaseFromCustServApp|Create a customer service case]]
-- [[migration-lists|Lists]]
-- [[case-view-web-component|Case view component]]
-- [[case-list-component|Case list component]]

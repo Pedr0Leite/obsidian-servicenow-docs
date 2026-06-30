@@ -56,13 +56,9 @@ This feature extends account address and location access to following granular a
 
 Contacts can access account addresses and corresponding location records through different types of account relationships. These relationships determine which accounts and addresses they can view or interact with.
 
--   My Account: It’s a direct, one-to-one relationship between the contact and it's assigned account. For example, a service provider is added as a contact under the parent account. Through the parent-child hierarchy, they can view and [[manage-cases|manage cases]], addresses, and locations across child accounts in different regions.
+-   My Account: It’s a direct, one-to-one relationship between the contact and it's assigned account. For example, a service provider is added as a contact under the parent account. Through the parent-child hierarchy, they can view and manage cases, addresses, and locations across child accounts in different regions.
 -   Other Accessible Accounts: They’re additional accounts that contacts can access indirectly, through one of the following relationships:
-    -   [[c_AccountHierarchy|Account Hierarchy]]: Access is inherited through parent-child account relationships. If a contact is associated with the parent account, they might automatically access the child accounts. For example, a global IT manager associated with the parent account can view and manage cases, addresses, and location records from regional teams under child accounts.
+    -   Account Hierarchy: Access is inherited through parent-child account relationships. If a contact is associated with the parent account, they might automatically access the child accounts. For example, a global IT manager associated with the parent account can view and manage cases, addresses, and location records from regional teams under child accounts.
     -   Account Relationship: Access is granted through formal associations between two customer accounts that aren’t part of a hierarchy, and can be unidirectional or bidirectional. For example, a partner account managing support for products from another organization. Through this relationship, contacts from the partner account can access the addresses of the associated customer account.
     -   Contact Relationship: Access is granted when a contact is linked to another customer account they don’t belong to directly. This relationship is commonly used where a contact works across multiple accounts, such as an external service provider. For example, a consultant working with three client organizations can access the associated addresses and locations of all three accounts.
 
-## Related
-
-- [[manage-cases|Manage cases]]
-- [[c_AccountHierarchy|Account hierarchy]]

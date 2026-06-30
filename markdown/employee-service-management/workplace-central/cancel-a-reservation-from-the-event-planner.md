@@ -14,7 +14,7 @@ breadcrumb: [Working with Event planner, Use, Workplace Central, Workplace Servi
 
 # Cancel a reservation from the Event planner
 
-As a reservation planner, the [[event-planner|Event planner]] enables you to cancel a reservation at any time.
+As a reservation planner, the Event planner enables you to cancel a reservation at any time.
 
 ## Before you begin
 
@@ -24,11 +24,11 @@ Role required: sn\_wsd\_rsv.reservation\_planner
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-central-feat|Workplace Central]]** &gt; **Workplace Central**.
+1.  Navigate to **All** &gt; **Workplace Central** &gt; **Workplace Central**.
 
-    You can also open Workplace Central from the [[employee-center-landing-page|Employee Center]] directly. Navigate to **Workspaces** &gt; **Workplace Central**.
+    You can also open Workplace Central from the Employee Center directly. Navigate to **Workspaces** &gt; **Workplace Central**.
 
-    The [[workplace-analytics|Workplace Analytics]] dashboard opens.
+    The Workplace Analytics dashboard opens.
 
 2.  Select the **Event planner** icon from the menu \(\[Omitted image "event-planner-icon.png"\] Alt text: Event planner icon.\).
 
@@ -63,9 +63,3 @@ The reservation is canceled. The cancellation notes are automatically generated.
 
 **Parent Topic:**[Working with Event planner](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/working-with-event-planner.md)
 
-## Related
-
-- [[event-planner|Event Planner]]
-- [[workplace-central-feat|Workplace Central]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-analytics|Workplace Analytics]]

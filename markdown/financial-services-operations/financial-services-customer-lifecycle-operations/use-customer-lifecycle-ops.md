@@ -14,7 +14,7 @@ breadcrumb: [Customer Lifecycle Operations, Common applications, Financial Servi
 
 # Using Financial Services Customer Lifecycle Operations
 
-Learn how branch workers and agents use the [[customer-lifecycle-ops-landing-page|Financial Services Customer Lifecycle Operations]] application to create, document, and resolve the new account creation process.
+Learn how branch workers and agents use the Financial Services Customer Lifecycle Operations application to create, document, and resolve the new account creation process.
 
 ## Workspaces
 
@@ -26,11 +26,11 @@ Relationship managers, administrators, and agents use workspaces and landing pag
 -   Customizing your workflow.
 -   Monitoring workload and performance.
 
-For more information on workspaces and playbooks, see [[fso-workspace|Workspaces]].
+For more information on workspaces and playbooks, see [Workspaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-workspace.md).
 
 ## Workflows
 
-Several predefined workflows exist for [[fso-overview|Financial Services]] Business Lifecycle and Financial Services Client Lifecycle applications.
+Several predefined workflows exist for Financial Services Business Lifecycle and Financial Services Client Lifecycle applications.
 
 When a client applies for a new account, an agent creates a case and assigns it to either themselves or another agent. After the agent updates the case details, the appropriate lifecycle workflow is triggered. The flow triggers various tasks from the case, including document verification and Know Your Customer protocols. New tasks become available as the previous tasks are completed.
 
@@ -40,12 +40,5 @@ For more information, see [Customer Lifecycle Operations workflows](https://raw.
 
 ServiceNow® Performance Analytics give business owners insight into how the team and business are performing. Dashboards with customizable views are available for Business Lifecycle and Client Lifecycle within their respective applications.
 
-For more information, see [[fso-business-lifecycle-dashboard|Business Lifecycle Operations dashboard]] and [[fso-client-lifecycle-dashboard|Client Lifecycle dashboard]].
+For more information, see [Business Lifecycle Operations dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-business-lifecycle-dashboard.md) and [Client Lifecycle dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-client-lifecycle-dashboard.md).
 
-## Related
-
-- [[fso-workspace|Workspaces in Financial Services Operations]]
-- [[fso-business-lifecycle-dashboard|Business Lifecycle Operations dashboard]]
-- [[fso-client-lifecycle-dashboard|Client Lifecycle dashboard]]
-- [[customer-lifecycle-ops-landing-page|Financial Services Customer Lifecycle Operations]]
-- [[fso-overview|Financial Services]]

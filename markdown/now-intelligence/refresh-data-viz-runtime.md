@@ -20,8 +20,5 @@ You can refresh a visualization through the visualization's More actions menu.
 
 **Note:** If the creator of a visualization has suppressed this option, you will not see Refresh under the More actions menu.
 
-**Parent Topic:**[[view-data-visualizations|View data visualizations]]
+**Parent Topic:**[View data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/view-data-visualizations.md)
 
-## Related
-
-- [[view-data-visualizations|View data visualizations]]

@@ -14,15 +14,11 @@ breadcrumb: [Notify workflow activities, Notify reference, Notify, Manage servic
 
 # Notify languages
 
-[[notify-landing-page|Notify]] supports multiple languages when using text-to-speech.
+Notify supports multiple languages when using text-to-speech.
 
-For example, when using the **input** or **say** [[c_WorkflowActivities|workflow activities]], you can specify which language to use when reading the text.
+For example, when using the **input** or **say** workflow activities, you can specify which language to use when reading the text.
 
 The list of available languages is stored on the Notify Languages \[notify\_language\] table. By default, languages supported by all Notify telephony providers are available. You can add additional languages if they are supported by your specific telephony provider.
 
 **Parent Topic:**[Notify workflow activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/c_NotifyActivities.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]
-- [[c_WorkflowActivities|Workflow activities]]

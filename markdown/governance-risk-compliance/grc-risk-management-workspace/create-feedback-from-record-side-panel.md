@@ -14,7 +14,7 @@ breadcrumb: [Create feedback in Advanced Risk, Parallel Review and Feedback in A
 
 # Create Feedback from the record side panel
 
-[[create-feedback|Create feedback]] on a record or fields in a record from the record side panel using the Advanced Risk application. The feedback enables you to recommend improvements related to data integrity, compliance, operational procedures, and other pertinent areas.
+Create feedback on a record or fields in a record from the record side panel using the Advanced Risk application. The feedback enables you to recommend improvements related to data integrity, compliance, operational procedures, and other pertinent areas.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_rvw\_feedback.reviewer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Risk** &gt; **[[risk-workspace|Risk Workspace]]**.
+1.  Navigate to **All** &gt; **Risk** &gt; **Risk Workspace**.
 
 2.  Select the list \[Omitted image "list-icon-riskworkspace.png"\] Alt text: List icon. icon.
 
@@ -59,12 +59,7 @@ Role required: sn\_rvw\_feedback.reviewer
 
 
 -   **[Feedback Details form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/feedback-details-form.md)**  
-Use the [[feedback-details-form|Feedback Details form]] to provide feedback on a record or fields in a record from the record side panel.
+Use the Feedback Details form to provide feedback on a record or fields in a record from the record side panel.
 
 **Parent Topic:**[Create feedback in Advanced Risk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/create-a-feedback-risk.md)
 
-## Related
-
-- [[create-feedback|create feedback]]
-- [[risk-workspace|risk workspace]]
-- [[feedback-details-form|feedback details form]]

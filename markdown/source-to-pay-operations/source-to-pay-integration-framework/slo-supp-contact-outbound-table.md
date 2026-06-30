@@ -14,7 +14,7 @@ breadcrumb: [Outbound staging tables for Supplier Lifecycle Operations, Outbound
 
 # Supplier contact outbound staging table
 
-The [[supplier-contact|Supplier contact]] outbound \[sn\_spend\_intg\_supplier\_contact\_outbound\] staging table temporarily stores important data about a supplier contact so that an ERP integrator can export this data to a third-party ERP system.
+The Supplier contact outbound \[sn\_spend\_intg\_supplier\_contact\_outbound\] staging table temporarily stores important data about a supplier contact so that an ERP integrator can export this data to a third-party ERP system.
 
 ## Supplier contact outbound staging table
 
@@ -39,7 +39,7 @@ The following table lists the mandatory fields for the Supplier contact outbound
 |Fax|String|Fax number of the supplier contact.|
 |First name|String|First name of the supplier contact.|
 |Gender|String|Gender of the supplier contact.|
-|Home phone|String|Home phone number of the [[supplier|supplier]] contact|
+|Home phone|String|Home phone number of the supplier contact|
 |Integration status|String|Current status of the supplier contact integration.|
 |Job code|String|Job code of the supplier contact.|
 |Last name|String|Last name of the supplier contact.|
@@ -61,7 +61,3 @@ The following table lists the mandatory fields for the Supplier contact outbound
 |User ID|String|User ID to identify the supplier contact.|
 |Zip/Postal Code|String|ZIP code of the supplier contact.|
 
-## Related
-
-- [[supplier-contact|Supplier contact]]
-- [[supplier|Supplier]]

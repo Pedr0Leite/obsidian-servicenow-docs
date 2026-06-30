@@ -14,7 +14,7 @@ breadcrumb: [Create a strict mode connection with Microsoft Exchange Online, Mic
 
 # Configure Microsoft Azure
 
-Set up a strict mode authentication with Microsoft Azure to connect Microsoft Exchange Online with [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]].
+Set up a strict mode authentication with Microsoft Azure to connect Microsoft Exchange Online with Workplace Calendar Synchronization.
 
 ## Before you begin
 
@@ -109,6 +109,3 @@ Add strict mode permissions to synchronize Workplace Calendar Synchronization wi
 
 [Configure Microsoft Exchange Online calendar provider in strict mode]()
 
-## Related
-
-- [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]

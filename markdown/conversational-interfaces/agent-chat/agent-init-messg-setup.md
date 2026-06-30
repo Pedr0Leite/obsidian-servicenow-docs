@@ -14,7 +14,7 @@ breadcrumb: [Configure Agent-Initiated Messaging Interface, Configure, Agent Cha
 
 # Set up Agent-Initiated Messaging Interface for a messaging channel
 
-Set up the [[agent-init-messg-interface|Agent-Initiated Messaging Interface]] application to send messages from a messaging channel.
+Set up the Agent-Initiated Messaging Interface application to send messages from a messaging channel.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Set up the [[agent-init-messg-interface|Agent-Initiated Messaging Interface]] ap
 -   [Review the list of messaging channels available for the Agent-Initiated Messaging Interface application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/agent-init-messg-sc-setting.md).
 -   Set the application scope to the application associated with the messaging channel using the application picker. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
 
-    For example, for using the SMS messaging channel, set the application scope to the [[conversation-sms-service-channel-store-app|Conversational SMS service channel]] application.
+    For example, for using the SMS messaging channel, set the application scope to the Conversational SMS service channel application.
 
 
 Role required: admin
@@ -110,7 +110,3 @@ Order number for each channel in which they appear for agent on the Compose Mess
 
 **Parent Topic:**[Configuring Agent-Initiated Messaging Interface](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/config-agent-init-messg-interface.md)
 
-## Related
-
-- [[agent-init-messg-interface|Agent-Initiated Messaging Interface]]
-- [[conversation-sms-service-channel-store-app|Conversational SMS service channel]]

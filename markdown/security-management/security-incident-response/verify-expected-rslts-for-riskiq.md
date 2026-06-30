@@ -14,7 +14,7 @@ breadcrumb: [RISKIQ and WHOISIQ integration, Security Incident Response integrat
 
 # Verify expected results for RISKIQ SSL certificate lookups
 
-When a security incident generates [[c_Observables|observables]] for URLs, domains, IP addresses, certificate file hashes \(SHA-1 fingerprint\), and certificate serial numbers, security incident analysts use the SSL certificate lookup results to verify sites have certificates that have been issued by a trusted public Certificate Authority \(CA\).
+When a security incident generates observables for URLs, domains, IP addresses, certificate file hashes \(SHA-1 fingerprint\), and certificate serial numbers, security incident analysts use the SSL certificate lookup results to verify sites have certificates that have been issued by a trusted public Certificate Authority \(CA\).
 
 ## Before you begin
 
@@ -54,7 +54,7 @@ For supported observables, the ServiceNow AI Platform scans for the most recent 
     |Observable \(example\)|Scan results|Description and location|
     |----------------------|------------|------------------------|
     |community.servicenow.com|Found certificate with a SHA1 hash.|An exact match is found, and a valid issuer of an SSL certificate is listed. Results for the exact match are displayed on the **SSL Certificates** tab on the security incident record.|
-    |invalidsubdomain.servicenow.com|No certificates found.|A summary that indicates no certificate results were found is displayed on the **[[tisc-observable-enrichment|Observable Enrichment]] Results** tab on the security incident record.|
+    |invalidsubdomain.servicenow.com|No certificates found.|A summary that indicates no certificate results were found is displayed on the **Observable Enrichment Results** tab on the security incident record.|
     |mail.dgnetworks.com|Found certificate with SHA1 hash.|An exact match is listed for a self-signed, or internally generated certificate. Results are displayed on the **SSL Certificates** tab on the security incident record.|
     |servicenow.com|Search returned 138 certificates, and a single primary certificate could not be identified.|An exact match is not found for a primary SSL certificate, because a lookup value returns multiple certificates. A summary that indicates no primary certificate was found is displayed on the **Observable Enrichment Results** tab on the security incident record.|
 
@@ -81,7 +81,3 @@ A security incident analyst can use multiple SSL certificate results to determin
 
 [Supported observables for RISKIQ and RISKIQ WHOISIQ](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/riskiq_supported_obsv.md)
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[tisc-observable-enrichment|Observable Enrichment]]

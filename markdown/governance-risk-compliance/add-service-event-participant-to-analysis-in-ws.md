@@ -12,7 +12,7 @@ breadcrumb: [Enable the legacy scenario analysis flow, Legacy scenario analysis,
 
 # Associate a scope and define the dependencies
 
-Associate a scope by adding services and define the dependencies with the [[scenario-analysis-ov|scenario analysis]] by adding services. You can then begin to analyze the impact of the scenarios and events in [[grc-opres-landing-page|Operational Resilience]] Workspace.
+Associate a scope by adding services and define the dependencies with the scenario analysis by adding services. You can then begin to analyze the impact of the scenarios and events in Operational Resilience Workspace.
 
 ## Before you begin
 
@@ -44,7 +44,4 @@ Role required: sn\_oper\_res.manager
 
 4.  Select **Save**.
 
-## Related
 
-- [[scenario-analysis-ov|Scenario analysis]]
-- [[grc-opres-landing-page|Operational Resilience]]

@@ -26,7 +26,7 @@ After a metric data task is closed, the risk administrator can modify the metric
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Risk** &gt; **[[risk-workspace|Risk Workspace]]** &gt; **List** &gt; **Metrics** &gt; **My metric data tasks**.
+1.  Navigate to **All** &gt; **Risk** &gt; **Risk Workspace** &gt; **List** &gt; **Metrics** &gt; **My metric data tasks**.
 
 2.  Open the record you want to modify.
 
@@ -47,6 +47,3 @@ The metric data task value is overridden and the same value is updated in the me
 
 **Parent Topic:**[Using GRC: Metrics to provide data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/using-metrics-irm.md)
 
-## Related
-
-- [[risk-workspace|risk workspace]]

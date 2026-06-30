@@ -14,7 +14,7 @@ breadcrumb: [Managing workplace tasks, Workplace Core, Safe Workplace, Health an
 
 # Create a workplace task checklist
 
-You can create a unique checklist for each workplace task template in [[workplace-safety-mgmt-hr|Workplace Core]]. You can also quickly create a checklist from an existing checklist template.
+You can create a unique checklist for each workplace task template in Workplace Core. You can also quickly create a checklist from an existing checklist template.
 
 ## Before you begin
 
@@ -97,6 +97,3 @@ You can save a Workplace Core workplace task checklist as a template for easy re
 
 **Parent Topic:**[Managing workplace tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/workplace-maintenance-tasks.md)
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]

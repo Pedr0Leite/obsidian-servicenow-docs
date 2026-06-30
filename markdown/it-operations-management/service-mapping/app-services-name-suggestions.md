@@ -14,7 +14,7 @@ breadcrumb: [Service Mapping reference, Service Mapping, ITOM Visibility, IT Ope
 
 # Name suggestions for application service candidates
 
-[[auto-serv-suggest|Automated Service Suggestions]] provides meaningful name suggestions for service identification, which you can access on the **Application Service Suggestions** tab in the [[sm-dashboard|Service Mapping workspace]].
+Automated Service Suggestions provides meaningful name suggestions for service identification, which you can access on the **Application Service Suggestions** tab in the Service Mapping workspace.
 
 <table id="table_tkd_rjd_gxb"><thead><tr><th>
 
@@ -82,7 +82,3 @@ Name suggestions taken from the top three application fingerprints associated wi
 
 [Map application services based on Automated Service Suggestions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/map-application-suggestion.md)
 
-## Related
-
-- [[auto-serv-suggest|Automated Service Suggestions]]
-- [[sm-dashboard|Service Mapping Workspace]]

@@ -14,7 +14,7 @@ breadcrumb: [Advanced ACL configuration, Access Control List Rules, Access Manag
 
 # Provide external users access to a table
 
-To enable [[users|users]] with only the snc\_external role to access the list view of a table, you must create a series of ACLs.
+To enable users with only the snc\_external role to access the list view of a table, you must create a series of ACLs.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: security\_admin
 
 ## Procedure
 
-1.  [[t_ElevateToAPrivilegedRole|Elevate to a privileged role]].
+1.  [Elevate to a privileged role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_ElevateToAPrivilegedRole.md).
 
 2.  [Create an ACL rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/t_CreateAnACLRule.md) with the following settings:
 
@@ -48,7 +48,4 @@ Role required: security\_admin
     -   **Required role**: snc\_external
     Repeat this step for every field that you want to give the user write access to. Use an asterisk **\*** instead of the column name to provide access to all fields at once.
 
-## Related
 
-- [[t_ElevateToAPrivilegedRole|Elevate to a privileged role]]
-- [[users|Users]]

@@ -12,7 +12,7 @@ breadcrumb: [Run transform to update data, Space management, Facilities Service 
 
 # Transform map
 
-A transform map is an .xls file that allows you to add spaces or details about spaces from other sources into the [[r_SpaceManagement|space management]] application.
+A transform map is an .xls file that allows you to add spaces or details about spaces from other sources into the space management application.
 
 Transform maps must be run separately for floors and spaces. Unique spaces are identified based on a combination of the building name, floor, and space name and must be included in the transform map.
 
@@ -21,11 +21,7 @@ For your convenience, ServiceNow provides two transform maps for your use:
 -   imp\_facilities\_data
 -   imp\_facilities\_level\_data
 
-For instructions, see [[t_RunTransform|Run transform to update data]].
+For instructions, see [Run transform to update data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_RunTransform.md).
 
 **Parent Topic:**[Run transform to update data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_RunTransform.md)
 
-## Related
-
-- [[t_RunTransform|Run transform to update data]]
-- [[r_SpaceManagement|Space management]]

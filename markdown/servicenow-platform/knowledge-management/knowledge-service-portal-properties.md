@@ -16,7 +16,7 @@ breadcrumb: [Knowledge Management reference, Knowledge Management, Manage conten
 
 Knowledge Management Service Portal properties determine how information is displayed on the Knowledge portal. You must have the admin role to set configuration properties.
 
-The following system properties are set to direct users to the [[knowledge-management|Knowledge Management]] Service Portal homepage, and to specify the URL suffix for the homepage.
+The following system properties are set to direct users to the Knowledge Management Service Portal homepage, and to specify the URL suffix for the homepage.
 
 <table id="table_jzs_2kx_kt"><thead><tr><th>
 
@@ -40,7 +40,7 @@ Directs users to the desired Knowledge homepage. -   Type: true\|false
  **Note:** This property is not honored for the following use cases:
 
 -   Contextual search in the Incident form
--   [[c_Connect|Connect]]
+-   Connect
 -   Global search
 
 </td></tr><tr><td>
@@ -58,7 +58,3 @@ The URL suffix for the Knowledge Management Service Portal. The default is **kb*
 
 Starting with the Washington DC release, the Knowledge Management v3 homepage \(com.snc.knowledge3\) is being prepared for deprecation in the future Y release. It is replaced by the Knowledge Management Service Portal \(com.snc.knowledge\_serviceportal\), which is active by default for customers on Madrid and later releases. For more information about the new experience, see [Knowledge Management Service Portal homepage features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/knowledge-service-portal-pages.md).
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]
-- [[c_Connect|Connect]]

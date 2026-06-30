@@ -24,9 +24,9 @@ Employers remain solely responsible for complying with their legal obligations u
 
 The **Vaccination Status data retention period \(in days\)** property sets the number of days that the user-reported vaccination status data is available in the Vaccine response table \[sn\_imt\_vaccine\_vaccine\_response\] before it is deleted automatically. The **Data Retention Job for Vaccination Status** scheduled job runs daily to delete records that have an updated date past the specified retention period.
 
-**Note:** Any historical data retained for use in the [[vaccination-status-dashboard|Vaccination Status Dashboard]] is count data only. Personally identifying information is removed by default. If the vaccine responses are deleted before the duration is met, the reported statuses and attachments are deleted, too.
+**Note:** Any historical data retained for use in the Vaccination Status Dashboard is count data only. Personally identifying information is removed by default. If the vaccine responses are deleted before the duration is met, the reported statuses and attachments are deleted, too.
 
-Enable the **Use country-specific data retention policy for Vaccination Status** property \[sn\_imt\_vaccine.use\_country\_specific\_data\_retention\_policy\] and use the Data Retention module in [[employee-health-safety-status|Employee Health and Safety Status]] to define policies at the country-level.
+Enable the **Use country-specific data retention policy for Vaccination Status** property \[sn\_imt\_vaccine.use\_country\_specific\_data\_retention\_policy\] and use the Data Retention module in Employee Health and Safety Status to define policies at the country-level.
 
 ## Procedure
 
@@ -55,10 +55,5 @@ Enable the **Use country-specific data retention policy for Vaccination Status**
 
 When the **Data Retention Job for Vaccination Status** daily scheduled job completes or is manually executed, the data of users in those locations have their records retained or deleted based on their country's data retention policy.
 
-**Parent Topic:**[[vaccination-status|Vaccination Status]]
+**Parent Topic:**[Vaccination Status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/vaccination-status.md)
 
-## Related
-
-- [[vaccination-status|Vaccination Status]]
-- [[vaccination-status-dashboard|Vaccination Status dashboard]]
-- [[employee-health-safety-status|Employee Health and Safety Status]]

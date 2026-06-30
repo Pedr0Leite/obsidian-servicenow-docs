@@ -30,22 +30,14 @@ Users with these roles can edit schedule times, including windows and planned du
 -   &lt;sm application&gt;\_dispatcher: Tasks in the Pending Dispatch state.
 -   &lt;sm application&gt;\_admin: Tasks in Draft or Pending Dispatch state.
 
--   **[[t_CreateAFacilitiesRequestTask|Create a facilities request task]]**  
-Facilities request tasks are created from [[c_FacilitiesRequests|facilities requests]].
--   **[[t_CloneARequestTask|Clone a request task]]**  
+-   **[Create a facilities request task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_CreateAFacilitiesRequestTask.md)**  
+Facilities request tasks are created from facilities requests.
+-   **[Clone a request task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_CloneARequestTask.md)**  
 Existing tasks can be cloned to create tasks with the same populated fields.
--   **[[t_UseTaskTempForMultReqTemp|Create a task template for common task requests]]**  
+-   **[Create a task template for common task requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_UseTaskTempForMultReqTemp.md)**  
 If you have tasks that are often repeated across multiple jobs, you can create and reuse a task template in multiple request templates. You can also use it on a Work order request to pull common and repeatable information into a request.
--   **[[t_AutoDispatchATask|Auto-dispatch a task]]**  
+-   **[Auto-dispatch a task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_AutoDispatchATask.md)**  
 When a task is auto-dispatched, the application matches the task with a nearby agent having the necessary skills and schedule that can accommodate the task.
 
-**Parent Topic:**[[c_FacilitiesSMProcess|Facilities service management process]]
+**Parent Topic:**[Facilities service management process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_FacilitiesSMProcess.md)
 
-## Related
-
-- [[t_CreateAFacilitiesRequestTask|Create a facilities request task]]
-- [[t_CloneARequestTask|Clone a request task]]
-- [[t_UseTaskTempForMultReqTemp|Create a task template for common task requests]]
-- [[t_AutoDispatchATask|Auto-dispatch a task]]
-- [[c_FacilitiesSMProcess|Facilities service management process]]
-- [[c_FacilitiesRequests|Facilities requests]]

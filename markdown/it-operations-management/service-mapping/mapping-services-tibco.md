@@ -14,7 +14,7 @@ breadcrumb: [Map a single application service using classic Service Mapping, App
 
 # Tibco BusinessWorks and EMS discovery
 
-[[r-discovery|Discovery]] can find Tibco ActiveMatrix BusinessWorks and Enterprise Message Service \(EMS\). [[c_ServiceMappingOverview|Service Mapping]] can discover application services containing Tibco BusinessWorks, Enterprise Message Service \(EMS\), and their components.
+Discovery can find Tibco ActiveMatrix BusinessWorks and Enterprise Message Service \(EMS\). Service Mapping can discover application services containing Tibco BusinessWorks, Enterprise Message Service \(EMS\), and their components.
 
 ## Data collected by Discovery for Tibco ActiveMatrix BusinessWorks
 
@@ -162,8 +162,3 @@ Make sure that you provided a user with elevated rights as described in [Service
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

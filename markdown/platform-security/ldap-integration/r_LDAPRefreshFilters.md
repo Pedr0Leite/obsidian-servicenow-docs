@@ -14,7 +14,7 @@ breadcrumb: [LDAP record synchronization, LDAP integration, Authentication, Acce
 
 # LDAP refresh filters
 
-Filters on the LDAP refresh process can be used to specify processing that ignores inserts of disabled [[users|users]].
+Filters on the LDAP refresh process can be used to specify processing that ignores inserts of disabled users.
 
 You can loosen the LDAP OU filter to bring all of the data in to your import set table \(including inactive users\) and then specify processing that ignores inserts of disabled users. The sample ‘Users’ OU definition that the instance provides in its out-of-box LDAP sample contains a filter.
 
@@ -26,6 +26,3 @@ To use filtering within the main LDAP refresh process, change the filter to brin
 
 **Note:** There is a precaution here: because the filtering brings in all the records, you may end up with a vast amount of older inactive LDAP accounts that should not be inserted into the instance. A user record should never be created for a disabled user.
 
-## Related
-
-- [[users|Users]]

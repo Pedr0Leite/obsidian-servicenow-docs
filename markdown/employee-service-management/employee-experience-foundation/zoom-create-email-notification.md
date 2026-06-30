@@ -14,7 +14,7 @@ breadcrumb: [Using Employee Center, Employee Center, Unified Employee Experience
 
 # Use Employee Center from Zoom
 
-Access and use the ServiceNow® [[employee-center-landing-page|Employee Center]] capabilities from Zoom client.
+Access and use the ServiceNow® Employee Center capabilities from Zoom client.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: Employee
 
 1.  Log in to your Zoom application.
 
-2.  Navigate to **Apps** &gt; **[[discover-lxp|Discover]]**.
+2.  Navigate to **Apps** &gt; **Discover**.
 
 3.  Search for and select **ServiceNow Employee Center**.
 
@@ -54,7 +54,7 @@ Role required: Employee
 
 [Task filters on My tasks]()
 
-[View the [[rfy-ec|Recommended for you]] content]()
+[View the Recommended for you content]()
 
 [View employee profile]()
 
@@ -72,8 +72,3 @@ Role required: Employee
 
 [Employee Center for Zoom](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/zoom-ec-create-app.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[discover-lxp|Discover]]
-- [[rfy-ec|Recommended for you]]

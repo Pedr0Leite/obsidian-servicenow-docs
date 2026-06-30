@@ -18,13 +18,13 @@ Upgrade your production or sub-production instance effortlessly by following our
 
 **Note:** It is recommended to clone the production instance to sub-production instance.
 
-The following steps are in a nutshell to explain the overall configuration experience of [[um-landing-page|Upgrade Console]] in a sub-production or a production instance.
+The following steps are in a nutshell to explain the overall configuration experience of Upgrade Console in a sub-production or a production instance.
 
 ## Configuring Upgrade Console
 
 Implement the following steps to configure Upgrade Console.
 
-1.  Navigate to **Admin** &gt; **Upgrade Console** &gt; **[[um-guided-tour|Guided upgrade]]**.
+1.  Navigate to **Admin** &gt; **Upgrade Console** &gt; **Guided upgrade**.
 
     **Note:** The **Guided upgrade** tab shows up only when the upgrade is in progress. If there is no ongoing upgrade, you can select the required upgrade version and select **Get started** in the Get started with your upgrade section.
 
@@ -49,7 +49,3 @@ Follow the guided upgrade steps to experience the seamless upgrade on your produ
 
 **Parent Topic:**[Upgrade Console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-landing-page.md)
 
-## Related
-
-- [[um-landing-page|Upgrade Console]]
-- [[um-guided-tour|Guided upgrade]]

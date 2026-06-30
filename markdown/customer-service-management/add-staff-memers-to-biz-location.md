@@ -33,7 +33,7 @@ Add internal and external members to a business location. You can add both inter
 
 2.  Select **Register Member at External Business Location** to open the Register Member at External Business Location record.
 
-    You can use the record to register new location staff or move existing staff between locations managed by the Location manager, and [[csm-assign-responsibilities|assign responsibilities]] to staff accordingly.
+    You can use the record to register new location staff or move existing staff between locations managed by the Location manager, and assign responsibilities to staff accordingly.
 
 3.  On the form, fill in the fields.
 
@@ -138,12 +138,7 @@ Once a staff member is added to a business location, the following details can b
 **Related topics**  
 
 
-[[report-cases-on-behalf-of-biz-location|Create cases for a business location in the Business Location Service Portal]]
+[Create cases for a business location in the Business Location Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/report-cases-on-behalf-of-biz-location.md)
 
-[[track-cases-for-blsp-portal|Track cases on the Business Location Service Portal]]
+[Track cases on the Business Location Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/track-cases-for-blsp-portal.md)
 
-## Related
-
-- [[report-cases-on-behalf-of-biz-location|Create cases for a business location in the Business Location Service Portal]]
-- [[track-cases-for-blsp-portal|Track cases on the Business Location Service Portal]]
-- [[csm-assign-responsibilities|Assign responsibilities]]

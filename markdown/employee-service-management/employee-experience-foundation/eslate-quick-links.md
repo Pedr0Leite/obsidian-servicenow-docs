@@ -15,9 +15,9 @@ breadcrumb: [Working with Employee Slate capabilities, Employee Slate, Unified E
 
 # Quick links
 
-[[employee-slate-landing-page|Employee Slate]] provides Quick Link widgets on the home page and Canvas to give employees direct access to key destinations.
+Employee Slate provides Quick Link widgets on the home page and Canvas to give employees direct access to key destinations.
 
-Both Quick Link widgets use records from [[employee-center-landing-page|Employee Center]] \(`sn_ex_sp_quick_link`\). Admins specify which [[emp-center-quick-link-config|Quick Links]] appear by providing the sys\_id of each record.
+Both Quick Link widgets use records from Employee Center \(`sn_ex_sp_quick_link`\). Admins specify which Quick Links appear by providing the sys\_id of each record.
 
 |Location|Configuration method|Access path|
 |--------|--------------------|-----------|
@@ -31,8 +31,3 @@ To configure either widget, see [Configure Quick Links widgets](https://raw.gith
 
 [Configure Quick Links widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/eslate-configure-quick-links.md)
 
-## Related
-
-- [[employee-slate-landing-page|Employee Slate]]
-- [[employee-center-landing-page|Employee Center]]
-- [[emp-center-quick-link-config|Quick links]]

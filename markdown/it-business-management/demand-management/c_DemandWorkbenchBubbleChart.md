@@ -14,7 +14,7 @@ breadcrumb: [Demand workbench, Explore, Demand Management, Project Portfolio Man
 
 # Demand workbench bubble chart
 
-The interactive bubble chart on the [[c_DemandWorkbench|demand workbench]] is a dynamically updated graph that plots metrics for multiple demand records.
+The interactive bubble chart on the demand workbench is a dynamically updated graph that plots metrics for multiple demand records.
 
 Demand managers can use bubble charts to visualize, compare, and evaluate the relative standing of demands in three categories: risk, value, and size. The X-axis represents the risk of a demand, the Y-axis represents the value, and the Z-axis represents the size. Demands are plotted as circles, or bubbles, which vary in size according to the size of the demand. All three measurements are based on values between 0 through 10. This scale enables demand managers to see how one demand compares to other demands in the chart.
 
@@ -33,14 +33,10 @@ From the demand workbench bubble chart, you can perform the following actions:
 -   Select and drag a bubble to increase or decrease the risk or value of the demand.
 -   Right-click a bubble to view the demand, [create an artifact](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_CrtArtftDmdMnu.md), or [view an artifact](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_ViewAnArtifactCreatedFromADemand.md) that has been created from a demand.
 
-    **Note:** If [[agile-landing-page|Agile Development 2.0]] isn’t activated, you won’t find the options to create an enhancement or a defect
+    **Note:** If Agile Development 2.0 isn’t activated, you won’t find the options to create an enhancement or a defect
 
 
 Changes made to a demand in the bubble chart are automatically updated in the demand record.
 
 **Parent Topic:**[Demand workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/c_DemandWorkbench.md)
 
-## Related
-
-- [[c_DemandWorkbench|Demand workbench]]
-- [[agile-landing-page|Agile Development 2.0]]

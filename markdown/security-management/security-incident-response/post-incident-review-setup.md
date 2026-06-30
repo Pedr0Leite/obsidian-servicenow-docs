@@ -20,7 +20,7 @@ Define rule conditions and generate required and optional assessments for specif
 
 Role required: sn\_si.admin
 
-**Note:** To use the Post Incident Review Assessment Trigger Conditions feature, you must upgrade to [[sir-landing-page|Security Incident Response]] 11.0. Before upgrading, you must revert any customizations done to the Post Incident Review Metric type and trigger conditions. In addition, you may also have to revert the customizations done to the business rules specific to the post incident review.
+**Note:** To use the Post Incident Review Assessment Trigger Conditions feature, you must upgrade to Security Incident Response 11.0. Before upgrading, you must revert any customizations done to the Post Incident Review Metric type and trigger conditions. In addition, you may also have to revert the customizations done to the business rules specific to the post incident review.
 
 -   Require assessments to be complete
 -   Store assignee
@@ -48,6 +48,3 @@ Role required: sn\_si.admin
         -   If you create a rule without defining a condition in the **Condition** field, then the condition is evaluated as true and the rule is applicable for all security incidents.
         -   You can define a specific rule to make the assessments either mandatory or optional, and the assessments are not generated for the remaining security incidents, which don't match the defined rules.
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]

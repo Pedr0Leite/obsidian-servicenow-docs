@@ -16,7 +16,7 @@ breadcrumb: [Employee Readiness Core, Safe Workplace, Health and Safety, Employe
 
 Use the ServiceNow® My Safe Workplace page to view all of your information and resources for returning to the workplace. Manage your requirement status for workplace entry, update your health status, track workspace reservations, and create requests for PPE or testing.
 
-To view My Safe Workplace, navigate to **[[employee-health-safety-status|Employee Health and Safety Status]]** &gt; **My Safe Workplace**.
+To view My Safe Workplace, navigate to **Employee Health and Safety Status** &gt; **My Safe Workplace**.
 
 
 
@@ -58,18 +58,18 @@ Things you can request
 
 </td><td>
 
-You can take the following actions.-   Submit a list of daily contacts for [[contact-tracing|contact tracing]]
+You can take the following actions.-   Submit a list of daily contacts for contact tracing
 -   Submit a user privacy consent form for contact tracing
 -   Submit a health verification about your health status and compliance with safety policies
 -   Screen a visitor for entry
 -   Invite a visitor
--   [[ets-request-travel|Request permission to travel]]
--   [[request-health-test|Request a COVID-19 diagnostic test]] or report your test results
+-   Request permission to travel
+-   Request a COVID-19 diagnostic test or report your test results
 -   Request personal protective equipment \(PPE\) such as masks, gloves, or goggles
 -   Reserve shifts and workspaces
 -   Schedule your arrival time at a workplace
 
-If some ServiceNow® [[safe-workplace|Safe Workplace]] suite applications are not installed, some requests may not be available.
+If some ServiceNow® Safe Workplace suite applications are not installed, some requests may not be available.
 
 </td></tr><tr><td>
 
@@ -110,19 +110,19 @@ Role required: admin
 
 My Safe Workplace uses widgets from ServiceNow® Safe Workplace suite applications.
 
--   The **Submit an update about your health status** widget requires the ServiceNow® [[emergency-self-report|Emergency Self Report]] application.
--   The **Track your reservations** widget requires the ServiceNow® [[workplace-safety-mgmt-hr|Workplace Core]] application.
+-   The **Submit an update about your health status** widget requires the ServiceNow® Emergency Self Report application.
+-   The **Track your reservations** widget requires the ServiceNow® Workplace Core application.
 
 If these applications are not installed, by default there are blank spaces in My Safe Workplace where the corresponding widgets would be displayed. Complete the setup steps to remove any blank spaces.
 
 My Safe Workplace also has widgets for employees to create and track requests. The requests use features from the following Safe Workplace suite applications.
 
 -   ServiceNow® Contact Tracing
--   ServiceNow® [[employee-health-screening|Employee Health Screening]]
--   ServiceNow® [[employee-readiness-core|Employee Readiness Core]]
--   ServiceNow® [[employee-travel-safety|Employee Travel Safety]]
--   ServiceNow® [[health-safety-testing|Health and Safety Testing]]
--   ServiceNow® [[ppe-inventory-management|Workplace PPE Inventory Management]]
+-   ServiceNow® Employee Health Screening
+-   ServiceNow® Employee Readiness Core
+-   ServiceNow® Employee Travel Safety
+-   ServiceNow® Health and Safety Testing
+-   ServiceNow® Workplace PPE Inventory Management
 -   ServiceNow® Workplace Core
 
 If some of these applications are not installed, employees can still use the widgets to create and view requests based on the applications that are installed. Install the remaining applications to give employees access to all request types.
@@ -149,17 +149,3 @@ To complete the setup, make sure that employees have the required roles to view 
 -   The **View your team's status** widget is only displayed for managers. The sn\_imt\_monitoring.monitoring\_user role is required for managers to view details about their direct reports.
 -   There are no required roles for all other My Safe Workplace widgets.
 
-## Related
-
-- [[employee-health-safety-status|Employee Health and Safety Status]]
-- [[contact-tracing|Contact Tracing]]
-- [[ets-request-travel|Request permission to travel]]
-- [[request-health-test|Request a COVID-19 diagnostic test]]
-- [[safe-workplace|Safe Workplace]]
-- [[emergency-self-report|Emergency Self Report]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[employee-health-screening|Employee Health Screening]]
-- [[employee-readiness-core|Employee Readiness Core]]
-- [[employee-travel-safety|Employee Travel Safety]]
-- [[health-safety-testing|Health and Safety Testing]]
-- [[ppe-inventory-management|Workplace PPE Inventory Management]]

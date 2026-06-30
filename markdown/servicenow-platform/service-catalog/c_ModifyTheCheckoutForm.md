@@ -32,11 +32,11 @@ Role required: admin
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[service-catalog|Service Catalog]]** &gt; **Catalog Administration** &gt; **Properties**.
+1.  Navigate to **All** &gt; **Service Catalog** &gt; **Catalog Administration** &gt; **Properties**.
 
 2.  Locate the property: **Show the request item number for each line item on the checkout screen \(default false\)**.
 
-3.  Select the **Yes** [[check-box|check box]] to add the number column to the checkout form.
+3.  Select the **Yes** check box to add the number column to the checkout form.
 
     \[Omitted image "CheckoutNumber.png"\] Alt text: Screenshot for checkout number
 
@@ -61,7 +61,4 @@ Role required: admin
 
     \[Omitted image "CheckoutName.png"\] Alt text: Screenshot for checkout name.
 
-## Related
 
-- [[service-catalog|Service Catalog]]
-- [[check-box|Check box]]

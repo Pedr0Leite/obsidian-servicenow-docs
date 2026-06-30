@@ -18,11 +18,7 @@ breadcrumb: [Health Log Analytics, ITOM AIOps, IT Operations Management]
 Gain valuable insights into the number of IT issues predicted before your users were affected and the money it saved your organization by using Analytics and Reporting in Health Log Analytics.
 
 -   **[Platform Analytics Solutions for Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-content-pack.md)**  
-Platform Analytics Solutions contain prepackaged Performance Analytics and Reporting content for use with other ServiceNow AI Platform products. This Platform Analytics Solution provides valuable insights into the number of IT issues [[hla-landing-page|Health Log Analytics]] predicted before your users were affected, and the money it saved your organization by preventing critical outages.
+Platform Analytics Solutions contain prepackaged Performance Analytics and Reporting content for use with other ServiceNow AI Platform products. This Platform Analytics Solution provides valuable insights into the number of IT issues Health Log Analytics predicted before your users were affected, and the money it saved your organization by preventing critical outages.
 
-**Parent Topic:**[[itom-health-landing-page|ITOM AIOps]]
+**Parent Topic:**[ITOM AIOps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-health-landing-page.md)
 
-## Related
-
-- [[itom-health-landing-page|ITOM AIOps]]
-- [[hla-landing-page|Health Log Analytics]]

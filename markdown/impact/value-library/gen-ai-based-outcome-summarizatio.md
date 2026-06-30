@@ -14,7 +14,7 @@ breadcrumb: [Value management, Using Impact, Impact]
 
 # Gen AI based outcome summarization
 
-View a concise summary of your operational outcomes in the [[impact-landing-page|Impact]] store application. This summary could include positive or negative outcomes trends, adoption of recommended applications, and consumption of related accelerators.
+View a concise summary of your operational outcomes in the Impact store application. This summary could include positive or negative outcomes trends, adoption of recommended applications, and consumption of related accelerators.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required:Impact App Admin, Impact Platform Owner, Impact Portfolio Owner.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Impact** &gt; **[[impact-in-platform-business-outcomes|Value Management]]**.
+1.  Navigate to **All** &gt; **Impact** &gt; **Value Management**.
 
 2.  Select one of the following to open the desired outcomes page.
 
@@ -72,7 +72,4 @@ Action
 
 6.  If you think that data might have changed after you viewed the summary, refresh the summary information by selecting the redo icon \[Omitted image "refresh\_aisummary.png"\] Alt text:.
 
-## Related
 
-- [[impact-landing-page|Impact]]
-- [[impact-in-platform-business-outcomes|Value management]]

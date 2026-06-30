@@ -14,7 +14,7 @@ breadcrumb: [Install Workplace Core, Workplace Core, Safe Workplace, Health and 
 
 # Properties installed with Workplace Core
 
-Customize the properties available with [[workplace-safety-mgmt-hr|Workplace Core]].
+Customize the properties available with Workplace Core.
 
 These properties are available for Workplace Core.
 
@@ -65,7 +65,7 @@ sn\_wsd\_core.floor\_plan.portal.show\_non\_reservables
 
 </td><td>
 
-Determines whether non-reservable workspaces appear in grey on the floor plan in the [[workplace-services-portal-hr|Workplace Service Portal]].-   Type: true\|false
+Determines whether non-reservable workspaces appear in grey on the floor plan in the Workplace Service Portal.-   Type: true\|false
 -   Default value: false
 
  **Note:** Changing this value to true can negatively affect performance.
@@ -107,7 +107,7 @@ sn\_wsd\_core.wsd\_inbound\_email
 
 </td><td>
 
-Checks for emails that are received for the ServiceNow® [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] and [[workplace-case-mgmt-feat|Workplace Case Management]] applications.This property has been renamed from the **sn\_wsd\_case.wsd\_inbound\_email** property in Workplace Case Management version 1.0.1.
+Checks for emails that are received for the ServiceNow® Workplace Service Delivery and Workplace Case Management applications.This property has been renamed from the **sn\_wsd\_case.wsd\_inbound\_email** property in Workplace Case Management version 1.0.1.
 
  This property is available only for Workplace Safety Management 2.0.3 or later.
 
@@ -121,7 +121,7 @@ sn\_wsd\_core.floor\_transform\_map
 
 </td><td>
 
-Enables you to configure customized [[transform-maps-navex|transform maps]]. -   Type: string
+Enables you to configure customized transform maps. -   Type: string
 -   Default value: 2528fbf70f201010dbc3d2d92f767e04
 
 </td></tr><tr><td>
@@ -196,10 +196,3 @@ Enables you to specify the maximum number of days in the future until when emplo
 </td></tr></tbody>
 </table>**Parent Topic:**[Install Workplace Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/install-workplace-safety-mgmt-hr.md)
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-services-portal-hr|Workplace Service Portal]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[transform-maps-navex|Transform maps]]

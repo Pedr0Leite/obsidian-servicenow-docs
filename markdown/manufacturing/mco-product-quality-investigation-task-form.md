@@ -28,7 +28,7 @@ Number
 
 </td><td>
 
-[[mco-PQI-use|Product quality investigation]] case task number is automatically generated. The number starts with PQIT and incremented for every new report.
+Product quality investigation case task number is automatically generated. The number starts with PQIT and incremented for every new report.
 
 </td></tr><tr><td>
 
@@ -103,15 +103,10 @@ Assigned to
 Select the user to whom the non-conformance case task has been assigned.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[mco-qim-form|Quality issue management form]]
+</table>**Parent Topic:**[Quality issue management form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-qim-form.md)
 
 **Related topics**  
 
 
-[[mco-notes|Notes form]]
+[Notes form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-notes.md)
 
-## Related
-
-- [[mco-qim-form|Quality issue management form]]
-- [[mco-notes|Notes form]]
-- [[mco-PQI-use|Product quality investigation]]

@@ -14,7 +14,7 @@ breadcrumb: [Explore, Privacy Management, Governance, Risk, and Compliance]
 
 # Risk assessments in Privacy Management
 
-You can perform [[risk-assessments|risk assessments]] on your [[ropa-record|processing activities]] to determine their risk scores and find out the privacy risk posture of your organization.
+You can perform risk assessments on your processing activities to determine their risk scores and find out the privacy risk posture of your organization.
 
 To understand the risk posture, the following assessments are performed.
 
@@ -30,7 +30,7 @@ Criticality assessments can be performed using one of the following two methods.
 
 -   **Automated criticality assessment**
 
-    Using the automated method, the privacy manager uses the **Automated criticality [[factors|factors]]** [[risk-assessment-methodology-prm|risk assessment methodology \(RAM\)]] that is provided by default to calculate the criticality score of a processing activity. The privacy managers must publish this RAM before it can be used. By default, the RAM is provided in the **Draft** state. When a user performs a screening assessment, they are prompted to respond to several questions, including those related to criticality and risk assessment. If the user provides answers to these criticality-related questions during the screening assessment, the system automatically calculates the criticality risk score. The calculated score is then displayed on the Overview page when the user proceeds to the processing activity. Because only two RAMs are supported at a time, they must deactivate any other existing criticality factors RAM. It is crucial to note that when an existing criticality factors RAM is deactivated, all the in-progress risk assessments associated with that RAM get canceled.
+    Using the automated method, the privacy manager uses the **Automated criticality factors** risk assessment methodology \(RAM\) that is provided by default to calculate the criticality score of a processing activity. The privacy managers must publish this RAM before it can be used. By default, the RAM is provided in the **Draft** state. When a user performs a screening assessment, they are prompted to respond to several questions, including those related to criticality and risk assessment. If the user provides answers to these criticality-related questions during the screening assessment, the system automatically calculates the criticality risk score. The calculated score is then displayed on the Overview page when the user proceeds to the processing activity. Because only two RAMs are supported at a time, they must deactivate any other existing criticality factors RAM. It is crucial to note that when an existing criticality factors RAM is deactivated, all the in-progress risk assessments associated with that RAM get canceled.
 
 
 \[Omitted image "criticality-asmt.png"\] Alt text: Manually initiate criticality assessment.
@@ -50,14 +50,7 @@ To understand the details about how to perform the risk assessments, see [Privac
 -   **[Risk Assessment Methodology \(RAM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/risk-assessment-methodology-prm.md)**  
 Risk Assessment Methodology \(RAM\) provides a systematic and repeatable approach to identifying, evaluating, and mitigating privacy risks associated with data processing activities.
 -   **[Privacy assessment configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/privacy-assessment-configurations.md)**  
-To perform a processing activity criticality and privacy risk assessment, two [[airc-rams|risk assessment methodologies]] \(RAMs\) are provided by default.
+To perform a processing activity criticality and privacy risk assessment, two risk assessment methodologies \(RAMs\) are provided by default.
 
 **Parent Topic:**[Exploring Privacy Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/explore-privacy-management.md)
 
-## Related
-
-- [[risk-assessments|risk assessments]]
-- [[ropa-record|Processing activities]]
-- [[factors|factors]]
-- [[risk-assessment-methodology-prm|Risk Assessment Methodology \(RAM\)]]
-- [[airc-rams|Risk assessment methodologies]]

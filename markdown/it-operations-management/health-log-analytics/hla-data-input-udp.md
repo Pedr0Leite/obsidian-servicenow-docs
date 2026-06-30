@@ -19,7 +19,7 @@ Set up a data input for sending raw log messages to your ServiceNow instance dir
 
 ## Before you begin
 
-This feature is supported in the [[hla-landing-page|Health Log Analytics]] application, Version 25.0.17 - November 2022 and later, available from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
+This feature is supported in the Health Log Analytics application, Version 25.0.17 - November 2022 and later, available from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
 
 -   Verify that a MID Server is installed and configured with the Log Ingestion capability enabled. For more information, see [MID Server system requirements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_MIDServerSystemRequirements.md).
 
@@ -85,6 +85,3 @@ The data input configuration process is complete. Health Log Analytics adds the 
 
 [Configure advanced settings for Rsyslog, Splunk, or TCP data inputs in Health Log Analytics manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-input-adv-rsyslog-splunk.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

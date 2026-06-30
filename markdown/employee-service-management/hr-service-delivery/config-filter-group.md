@@ -14,7 +14,7 @@ breadcrumb: [Reference, Manager Hub, HR Service Delivery, Employee Service Manag
 
 # Default configurations for filter groups
 
-Predefined set of filter group configurations are available to use after you have activated [[manager-hub-overview|Manager Hub]] from ServiceNow Store.
+Predefined set of filter group configurations are available to use after you have activated Manager Hub from ServiceNow Store.
 
 |Name|Description|
 |----|-----------|
@@ -46,18 +46,13 @@ For more details, navigate to **All** &gt; **Manager Hub** &gt; **Administration
 
 [Default configurations for To do's]()
 
-[Default [[proactive-prompts-for-hrsd|proactive prompts]] for Manager Hub]()
+[Default proactive prompts for Manager Hub]()
 
 [Use the View menu icon in Manager Hub]()
 
-[Assign [[exploring-learning-exp|learning]] form]()
+[Assign learning form]()
 
 [Create a conversation form]()
 
 [Schedule a conversation form]()
 
-## Related
-
-- [[manager-hub-overview|Manager Hub]]
-- [[proactive-prompts-for-hrsd|Proactive Prompts]]
-- [[exploring-learning-exp|Learning]]

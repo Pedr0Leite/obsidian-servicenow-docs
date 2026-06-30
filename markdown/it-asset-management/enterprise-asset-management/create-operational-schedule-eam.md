@@ -28,7 +28,7 @@ An operational schedule record is stored in the Asset schedule \[sn\_itam\_commo
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Admin center** &gt; **KPI configuration**.
+1.  Navigate to **Workspaces** &gt; **Enterprise Asset Workspace** &gt; **Admin center** &gt; **KPI configuration**.
 
 2.  From the KPI configuration list, select **Operational schedules**.
 
@@ -106,6 +106,3 @@ Description of the operational schedule.
 
 [Map enterprise assets to an operational schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-asset-schedule-eam.md).
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]

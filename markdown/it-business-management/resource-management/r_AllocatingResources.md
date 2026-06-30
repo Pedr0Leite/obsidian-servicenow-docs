@@ -14,7 +14,7 @@ breadcrumb: [Resource Management classic, Project Portfolio Management, Strategi
 
 # Resource allocation
 
-After resource requesters [[t_CreateResourcePlanProjectTask|create a resource plan]], resource managers can confirm the resources to move the plan to the Confirmed state. Resource managers can then allocate resources to the plan and move it to the Allocated state.
+After resource requesters create a resource plan, resource managers can confirm the resources to move the plan to the Confirmed state. Resource managers can then allocate resources to the plan and move it to the Allocated state.
 
 Based on calendar and schedule information, resource managers view resource availability and select the resources under their management that can be confirmed and allocated to specific tasks.
 
@@ -24,7 +24,7 @@ When a resource plan moves to the Confirmed state, resource allocations correspo
 
 When the plan is moved to the Allocated state, the **Booking type** changes from **Soft** to **Hard**. For a hard booking, the resource is assigned to the plan and is not available for other plans during the allocated times. The booked time also appears on the user calendar. If the requested resource cannot be allocated for the entire allocation duration, the allocation record booking type remains as soft.
 
-Any errors or warnings during allocations are logged in the Resource Plan Logs related list on the [[rsrc-plan-form|Resource Plan form]]. You can review these logs to take correct actions for further resource allocation.
+Any errors or warnings during allocations are logged in the Resource Plan Logs related list on the Resource Plan form. You can review these logs to take correct actions for further resource allocation.
 
 **Note:** The resource property **com.snc.resource\_management.allocation\_interval\_minutes** enables the creation of soft and hard allocations with a decimal value.
 
@@ -49,7 +49,7 @@ Any errors or warnings during allocations are logged in the Resource Plan Logs r
 
     -   `Total available capacity = Available capacity User 1 + Available capacity User 2 = 24 + 40 = 64 hours`
     -   `Hours to allocate per hour of available capacity = Planned hours/total available capacity = 40/64 = 0.625 hours`
-    **Note:** Multiple soft allocations could be created for one requested allocation for group [[c_ResourcePlans|resource plans]].
+    **Note:** Multiple soft allocations could be created for one requested allocation for group resource plans.
 
 -   **Case 2: Most available resource requested first**
 
@@ -74,7 +74,7 @@ Any errors or warnings during allocations are logged in the Resource Plan Logs r
 
 -   **Case 1: Even spread**
 
-    Selecting **Even** as hard allocation spread type creates [[c_ResourceEvents|resource events]] for the resource by splitting the hours evenly across all working days. The Smart Even Load allocation spread takes the availability of resources into account while allocating and only applies hours evenly where possible. If a resource is over-allocated for a day, it bypasses that day and resumes allocations to succeeding days until the resource plan is fulfilled.
+    Selecting **Even** as hard allocation spread type creates resource events for the resource by splitting the hours evenly across all working days. The Smart Even Load allocation spread takes the availability of resources into account while allocating and only applies hours evenly where possible. If a resource is over-allocated for a day, it bypasses that day and resumes allocations to succeeding days until the resource plan is fulfilled.
 
     For example, for a resource requested for 20 hours in a week, the even spread hard allocation is as follows:
 
@@ -99,7 +99,7 @@ Any errors or warnings during allocations are logged in the Resource Plan Logs r
 
 You can control the minimum unit for an event by modifying the Calendar Event Duration \(minutes\) \(**com.snc.resource\_management.allocation\_interval\_minutes property**\). The default is 60 minutes.
 
-Resource allocations use this property to [[t_AllocateWResAllocationsRelList|create allocations]] with a decimal value.  Use the following table to verify you set the property value correctly.
+Resource allocations use this property to create allocations with a decimal value.  Use the following table to verify you set the property value correctly.
 
 |Scheduled hours of the user|Calendar Event Duration value|
 |---------------------------|-----------------------------|
@@ -151,10 +151,3 @@ Resource managers can reject plans from the Resource Plan form or from the Resou
 
 **Parent Topic:**[Resource Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/c_ResourceManagement.md)
 
-## Related
-
-- [[t_CreateResourcePlanProjectTask|Create a resource plan]]
-- [[rsrc-plan-form|Resource Plan form]]
-- [[c_ResourcePlans|Resource plans]]
-- [[c_ResourceEvents|Resource events]]
-- [[t_AllocateWResAllocationsRelList|Create allocations]]

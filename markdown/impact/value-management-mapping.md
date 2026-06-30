@@ -12,7 +12,7 @@ breadcrumb: [Table and field level mapping, Impact reference, Impact]
 
 # Value Management tables
 
-Following are the tables that are synced with your business objectives, business outcomes, and [[impact-in-platform-business-outcomes|value management]] metrics.
+Following are the tables that are synced with your business objectives, business outcomes, and value management metrics.
 
 |Source field|Source table|Target field|Target table|
 |------------|------------|------------|------------|
@@ -43,9 +43,5 @@ Following are the tables that are synced with your business objectives, business
 |sys\_updated\_by|sn\_impact\_cust\_outcome\_performance|sys\_updated\_by|x\_snc\_octane\_bvmp\_operational\_performance|
 |executive\_summary|sn\_impact\_cust\_outcome\_performance|executive\_summary|x\_snc\_octane\_bvmp\_operational\_performance|
 
-**Parent Topic:**[[table-field-level-mapping|Table and field level mapping]]
+**Parent Topic:**[Table and field level mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/table-field-level-mapping.md)
 
-## Related
-
-- [[table-field-level-mapping|Table and field level mapping]]
-- [[impact-in-platform-business-outcomes|Value management]]

@@ -14,7 +14,7 @@ breadcrumb: [Developing custom widgets, Service Portal, Configure UIs and portal
 
 # Widget diagnostics
 
-Resolve [[c_ServicePortal|Service Portal]] page issues by identifying widget customization levels and checking widget code directly from a portal page.
+Resolve Service Portal page issues by identifying widget customization levels and checking widget code directly from a portal page.
 
 If a portal page isn't working as expected, it may be because of a bug in widget code. To diagnose the page, try diagnosing the widgets on the page.
 
@@ -66,7 +66,7 @@ Customized
 </td><td>
 
 Base widget that you configured in any of the following ways:-   Modified the widget code directly
--   Modified [[c_WidgetInstanceOptions|widget option schema]]
+-   Modified widget option schema
 -   Modified widget dependencies, ng-templates, or Angular Providers
 
 </td></tr></tbody>
@@ -136,7 +136,3 @@ There are several known limitations using widget diagnostics from a portal page:
 -   The widget dependencies that are listed on the portal page reflect only the first-level dependencies. Any dependency that is nested deeper than the first level is not included. To further troubleshoot the widget, check the nested dependencies in the widget record.
 -   There is no way for the system to track a Widget Dependency after you've deleted it.
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[c_WidgetInstanceOptions|Widget option schema]]

@@ -15,7 +15,7 @@ breadcrumb: [Automated quality assurance, Activate Now Assist Skills, Configure,
 
 # Copy Automated quality assurance skill
 
-Use the make a copy feature to create a copy of the [[quality-assurance-management|Automated quality assurance]] skill so that you can experiment with skill settings and configure it to fit your business needs.
+Use the make a copy feature to create a copy of the Automated quality assurance skill so that you can experiment with skill settings and configure it to fit your business needs.
 
 ## Before you begin
 
@@ -52,6 +52,3 @@ A copy of the Automated quality assurance skill is generated, and you're taken t
 
 Continue the steps in the guided setup to activate the skill. For more information, see [Activate Automated quality assurance skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/quality-assurance-management.md).
 
-## Related
-
-- [[quality-assurance-management|Automated quality assurance]]

@@ -22,7 +22,7 @@ The Active Producer Replication Sets monitor your producer replication set statu
 
 Active Consumer Replication Sets monitor your consumer replication set status, report the network lag time, and report the data lag time between the producer instance and consumer instance.
 
-**Parent Topic:**[[instance-observer-ovr-metric|Overview of Instance Observer metrics]]
+**Parent Topic:**[Overview of Instance Observer metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/instance-observer-ovr-metric.md)
 
 **Related topics**  
 
@@ -31,13 +31,13 @@ Active Consumer Replication Sets monitor your consumer replication set status, r
 
 [Anomaly insights]()
 
-[Feature [[io-availability|availability]] based on package]()
+[Feature availability based on package]()
 
 [Auriga Intelligent Alert report]()
 
 [Transaction or response metrics]()
 
-[Database [[instance-observer-performance|performance]] metrics]()
+[Database performance metrics]()
 
 [Semaphores performance metrics]()
 
@@ -67,8 +67,3 @@ Active Consumer Replication Sets monitor your consumer replication set status, r
 
 [User information metrics]()
 
-## Related
-
-- [[instance-observer-ovr-metric|Overview of Instance Observer metrics]]
-- [[io-availability|Availability]]
-- [[instance-observer-performance|Performance]]

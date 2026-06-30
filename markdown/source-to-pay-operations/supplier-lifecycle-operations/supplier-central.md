@@ -14,7 +14,7 @@ breadcrumb: [Explore, Supplier Lifecycle Operations, Finance and Supply Chain]
 
 # Supplier Collaboration Portal
 
-The ServiceNow® Supplier Collaboration Portal application provides a seamless unified employee portal experience for [[supplier|supplier]] contacts.
+The ServiceNow® Supplier Collaboration Portal application provides a seamless unified employee portal experience for supplier contacts.
 
 **Important:** Check your entitlements to determine whether you have access to this feature.
 
@@ -24,7 +24,7 @@ Supplier Collaboration Portal enables you to do the following:
 -   Improve supplier data quality by enabling suppliers to manage their own data
 -   Accelerate case resolution by enabling suppliers to complete tasks and upload required prerequisite documents
 
-As a [[supplier-contact|supplier contact]], you must first self-register to access the Supplier Collaboration Portal. For more information, see [Self-register to the Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/self-reg-to-supp-central.md).
+As a supplier contact, you must first self-register to access the Supplier Collaboration Portal. For more information, see [Self-register to the Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/self-reg-to-supp-central.md).
 
 In the Supplier Collaboration Portal, you can view the requests assigned to you, open to-dos, and Knowledge articles.
 
@@ -73,7 +73,7 @@ For more information, see [Viewing supplier contact tasks from the Supplier Coll
 
 </td></tr><tr><td>
 
-[[my-requests|My Requests]]
+My Requests
 
 </td><td>
 
@@ -121,15 +121,15 @@ As a supplier contact, you can view and work on specific items. The information 
 -   Surveys
 -   Issues
 -   Risk Assessments
--   [[contracts|Contracts]]
+-   Contracts
 -   Supplier Products
 -   Purchase Orders
 -   Shipments
--   [[invoices|Invoices]]
+-   Invoices
 
  The Risk Assessments tile is displayed if you have installed the Third-party Risk Management plugin.
 
- The Contracts, Supplier Products, Purchase Orders, Shipments, and Invoices tiles are displayed if you have installed the [[purchase-experience-workflow|Sourcing and Purchasing Automation]] \(com.snc.sn\_pr\) and Source-to-Pay Common Architecture \(com.snc.sn\_shop\) plugins.
+ The Contracts, Supplier Products, Purchase Orders, Shipments, and Invoices tiles are displayed if you have installed the Sourcing and Purchasing Automation \(com.snc.sn\_pr\) and Source-to-Pay Common Architecture \(com.snc.sn\_shop\) plugins.
 
  **Important:**
 
@@ -207,11 +207,3 @@ Displays a list of the most viewed articles.
 
 [Install Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/install-supp-central.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[supplier-contact|Supplier contact]]
-- [[my-requests|My requests]]
-- [[contracts|Contracts]]
-- [[invoices|Invoices]]
-- [[purchase-experience-workflow|Sourcing and Purchasing Automation]]

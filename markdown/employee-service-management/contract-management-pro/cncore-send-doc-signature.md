@@ -42,7 +42,7 @@ Role required: sn\_cm\_core.contract\_user
     -   If a message appears containing the details of the contract document, select **Send for signature**.
     -   If a message appears stating that the signatories aren't synchronized:
         1.  Update and sync the signatures.
-            -   For versions of [[cncore-cmpro-landing-page|Contract Management Pro]] starting with 1.2.1, see [Resolve the failure to send contract documents for signature \(starting with Contract Management Pro 1.2.1\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-sync-doc-user.md).
+            -   For versions of Contract Management Pro starting with 1.2.1, see [Resolve the failure to send contract documents for signature \(starting with Contract Management Pro 1.2.1\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-sync-doc-user.md).
             -   For earlier versions of Contract Management Pro, see [Resolve an error during send for signature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-sync-signatories-user.md).
         2.  Select **Send for signature**.
         3.  Select **Send for signature** in the confirmation message.
@@ -53,13 +53,9 @@ Role required: sn\_cm\_core.contract\_user
 
 ## Result
 
-The document is sent for signature to the specified signatories. The [[activity-lxp|activity]] stream displays details of the contract document that is sent for signature.
+The document is sent for signature to the specified signatories. The activity stream displays details of the contract document that is sent for signature.
 
 The contract request state and contract status updates to Awaiting signature. For more information, see [Signature workflow for a contract request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-signature-workflow.md).
 
 **Parent Topic:**[Signature workflow for a contract request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-signature-workflow.md)
 
-## Related
-
-- [[cncore-cmpro-landing-page|Contract Management Pro]]
-- [[activity-lxp|Activity]]

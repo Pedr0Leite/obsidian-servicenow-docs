@@ -22,9 +22,9 @@ Role required: admin
 
 ## About this task
 
-New York Patch 9, or Orlando Patch 3 or later are required before you can see and repair the [[c_ProblemManagement|Problem Management]] Best Practice – Jakarta \(com.snc.best\_practice.problem.jakarta\) and Problem Management Best Practice — Madrid — State Model \(com.snc.best\_practice.problem.madrid.state\_model\) plugins. Before the mentioned patches, these plugins were development plugins.
+New York Patch 9, or Orlando Patch 3 or later are required before you can see and repair the Problem Management Best Practice – Jakarta \(com.snc.best\_practice.problem.jakarta\) and Problem Management Best Practice — Madrid — State Model \(com.snc.best\_practice.problem.madrid.state\_model\) plugins. Before the mentioned patches, these plugins were development plugins.
 
-**Note:** If you do not have the required patch, refer to Blocking [[migration-utility-modification|modifications]] for required base functionality in the [KB0819196](https://support.servicenow.com/kb_view.do?sysparm_article=KB0819196) article in the HI Knowledge Base.
+**Note:** If you do not have the required patch, refer to Blocking modifications for required base functionality in the [KB0819196](https://support.servicenow.com/kb_view.do?sysparm_article=KB0819196) article in the HI Knowledge Base.
 
 ## Procedure
 
@@ -32,9 +32,9 @@ New York Patch 9, or Orlando Patch 3 or later are required before you can see an
 
     1.  Repair the plugin or apply the update set as required.
 
-        **Note:** Certain plugins contain functionality for [[dex-workspace-application-tab|applications]] including Problem Management. For those plugins, refer to the specified knowledge article to restore the required problem functionality instead of repairing the plugin.
+        **Note:** Certain plugins contain functionality for applications including Problem Management. For those plugins, refer to the specified knowledge article to restore the required problem functionality instead of repairing the plugin.
 
-    2.  Return to the [[migrating-existing-records|migration job]] and mark that plugin as repaired.
+    2.  Return to the migration job and mark that plugin as repaired.
 2.  Click **Run Checks**.
 
 
@@ -42,9 +42,3 @@ New York Patch 9, or Orlando Patch 3 or later are required before you can see an
 
 [Resolve blocking and warning modifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/resolve-blocking-warning-modifi.md).
 
-## Related
-
-- [[c_ProblemManagement|Problem Management]]
-- [[migration-utility-modification|Modifications]]
-- [[dex-workspace-application-tab|Applications]]
-- [[migrating-existing-records|Migration job]]

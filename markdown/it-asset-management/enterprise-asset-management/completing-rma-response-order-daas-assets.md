@@ -14,7 +14,7 @@ breadcrumb: [Managing RMA response orders for defective DaaS assets, Enterprise 
 
 # Completing a Return Merchandise Authorization \(RMA\) response order for defective Device as a Service \(DaaS\) assets
 
-After you [[create-rma-response-order|create an RMA response order]] with corresponding RMA response order lines, you must perform various tasks to complete and close the order.
+After you create an RMA response order with corresponding RMA response order lines, you must perform various tasks to complete and close the order.
 
 Based on the action that you want to take on your defective DaaS assets, you must complete a specific set of tasks for each RMA response order line within an RMA response order. After you complete all tasks for an order line, it moves to the Completed stage. After every order line reaches the Completed stage, the order is closed.
 
@@ -94,11 +94,7 @@ After you repair a defective DaaS asset, complete the Evaluate asset task by eva
 -   **[Complete the Ship task for a defective Device as a Service DaaS asset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/ship-daas-asset-rma-response-order.md)**  
 If you want to perform a replacement or an off-site repair for a defective DaaS asset, you must complete the associated Ship task by having the customer ship the asset to you. If you choose to repair the asset, you must complete the associated Ship task by shipping the asset back to the customer after a successful repair.
 -   **[Complete the Receive asset task for a defective Device as a Service DaaS asset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/receive-shipped-daas-asset-rma-response-order.md)**  
-After a customer ships a defective DaaS asset to you for repair or replacement, or after you ship a repaired DaaS asset back to a customer, complete the [[receive-rma-asset|Receive asset]] task by verifying that the asset was received successfully.
+After a customer ships a defective DaaS asset to you for repair or replacement, or after you ship a repaired DaaS asset back to a customer, complete the Receive asset task by verifying that the asset was received successfully.
 
 **Parent Topic:**[Managing Return Merchandise Authorization \(RMA\) response orders for defective Device as a Service \(DaaS\) assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/managing-rma-response-orders-daas-assets.md)
 
-## Related
-
-- [[create-rma-response-order|Create an RMA response order]]
-- [[receive-rma-asset|Receive asset]]

@@ -22,7 +22,7 @@ Role required: sn\_compliance.admin, sn\_compliance.manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Policy and Compliance** &gt; **[[Administration|Administration]]** &gt; **Properties**.
+1.  Navigate to **All** &gt; **Policy and Compliance** &gt; **Administration** &gt; **Properties**.
 
 2.  Select the **Entity hierarchy based scoring** property to set it to **true**.
 
@@ -42,6 +42,4 @@ Role required: sn\_compliance.admin, sn\_compliance.manager
 
 5.  Select **Execute Now** in the Scheduled Script Execution Update compliance scores for hierarchy entities.
 
-## Related
 
-- [[Administration|Administration]]

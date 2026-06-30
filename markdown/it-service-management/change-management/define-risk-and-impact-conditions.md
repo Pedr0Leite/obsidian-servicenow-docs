@@ -25,7 +25,7 @@ Role required: itil\_admin or admin
 Risk Conditions are run against the change request based on their **Order** field from lowest to highest. The first Risk Condition that matches the change request record is applied. All subsequent risk conditions are then ignored whether they match or not. A risk calculation rule is defined with two elements.
 
 -   Conditions that can evaluate to *true* or *false*. You can use a condition builder or write a script.
--   **Risk** and **Impact** field value [[settings-mobile|settings]] when the conditions evaluate to **true**.
+-   **Risk** and **Impact** field value settings when the conditions evaluate to **true**.
 
 ## Procedure
 
@@ -151,6 +151,3 @@ Write the script in the **Script values** field. Specify the **Risk** and **Impa
 
 [Risk Calculator property]()
 
-## Related
-
-- [[settings-mobile|Settings]]

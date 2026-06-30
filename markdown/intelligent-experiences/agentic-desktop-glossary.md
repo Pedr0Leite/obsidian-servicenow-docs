@@ -13,9 +13,9 @@ breadcrumb: [Reference, AI Desktop Actions, Enable AI experiences]
 
 # AI Desktop Actions glossary
 
-Learn about the terms and concepts that are unique to [[agentic-desktop-landing-page|AI Desktop Actions]].
+Learn about the terms and concepts that are unique to AI Desktop Actions.
 
-**Parent Topic:**[[agentic-desktop-reference|AI Desktop Actions reference]]
+**Parent Topic:**[AI Desktop Actions reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/agentic-desktop-reference.md)
 
 ## A
 
@@ -33,7 +33,7 @@ Example: Reviewing an open incident and routing it based on its current priority
 
 ### AI agent
 
-Set of large language model \(LLM\) instructions and tools in [[ai-agent-studio|AI Agent Studio]] that can process natural language inputs, generate execution plans, and run desktop actions autonomously or semi-autonomously.
+Set of large language model \(LLM\) instructions and tools in AI Agent Studio that can process natural language inputs, generate execution plans, and run desktop actions autonomously or semi-autonomously.
 
 ### AI Agent Studio
 
@@ -89,7 +89,7 @@ Virtual environment within the Execution workspace where automations run in isol
 
 ### Desktop session
 
-Isolated Windows session within the Execution workspace where desktop actions run. The desktop session launches automatically when you test a desktop action or trigger an automation from the [[now-assist-center-now-assist-panel|Now Assist panel]].
+Isolated Windows session within the Execution workspace where desktop actions run. The desktop session launches automatically when you test a desktop action or trigger an automation from the Now Assist panel.
 
 ## E
 
@@ -173,9 +173,3 @@ Glossary terms are grouped alphabetically.
 
 Desktop action that has been activated and added to an AI agent in AI Agent Studio. Tools provide AI agents with the capabilities to complete specific tasks during execution. An AI agent selects a tool based on its name and description.
 
-## Related
-
-- [[agentic-desktop-reference|AI Desktop Actions reference]]
-- [[agentic-desktop-landing-page|AI Desktop Actions]]
-- [[ai-agent-studio|AI Agent Studio]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]

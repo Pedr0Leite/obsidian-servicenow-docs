@@ -14,7 +14,7 @@ breadcrumb: [Service Catalog security, Configuring Service Catalog, Service Cata
 
 # Legacy service catalog access controls
 
-[[service-catalog|Service catalog]] supports several ways to control access to a catalog item or category. These controls are also known as catalog entitlements.
+Service catalog supports several ways to control access to a catalog item or category. These controls are also known as catalog entitlements.
 
 Instead of access controls, use user criteria that is the supported security model for catalog item and category. For information about user criteria, see [Apply user criteria to items and categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_AppUserCritItemsCat.md).
 
@@ -49,6 +49,3 @@ Service Catalog enables an administrator to grant or deny access to a service ca
 
 **Parent Topic:**[Service Catalog security](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/p_ServiceCatalogSecurity.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]

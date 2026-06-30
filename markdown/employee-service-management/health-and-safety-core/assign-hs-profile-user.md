@@ -14,7 +14,7 @@ breadcrumb: [Configure, Health and Safety Core, Health and Safety, Employee Serv
 
 # Assign Health and Safety profile to a user
 
-Assign the [[health-safety-overview|Health and Safety]] profile to all users in your organization, including employees, visitors, and contractors.
+Assign the Health and Safety profile to all users in your organization, including employees, visitors, and contractors.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ For more information on Health and Safety user profiles, see [Health and Safety 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Health and Safety** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
 2.  Select the configuration icon \(\[Omitted image "icon-config.png"\] Alt text: Configuration icon\).
 
@@ -69,7 +69,3 @@ For more information on Health and Safety user profiles, see [Health and Safety 
 
 [Migrate existing safety documents to the Document library]()
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]

@@ -39,7 +39,7 @@ Use ServiceNow Virtual Agent with  Zoom Team Chat
 </td><td>
 
 -   IT Service Management Pro and above
--   [[hr-service-delivery|HR Service Delivery]] Pro and above
+-   HR Service Delivery Pro and above
 
  To implement ServiceNow Virtual Agent with Zoom, see [Using the Now Virtual Agent app](https://support.zoom.us/hc/en-us/articles/9508873527565-Using-the-Now-Virtual-Agent-app).
 
@@ -51,7 +51,7 @@ Use ServiceNow Virtual Agent with  Zoom Team Chat
 
 </td></tr><tr><td>
 
-Enhance employee experience by integrating [[employee-center-landing-page|Employee Center]] with the Zoom application
+Enhance employee experience by integrating Employee Center with the Zoom application
 
 </td><td>
 
@@ -133,8 +133,3 @@ Create custom integrations using Zoom spoke.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[employee-center-landing-page|Employee Center]]

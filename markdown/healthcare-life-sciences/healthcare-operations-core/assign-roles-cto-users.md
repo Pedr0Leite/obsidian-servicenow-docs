@@ -14,7 +14,7 @@ breadcrumb: [Setting up roles and responsibilities, Configure, Healthcare Operat
 
 # Assign roles to Healthcare Operations Core users
 
-Assign specific roles to give [[hcls-cto-app|Healthcare Operations Core]] users visibility into healthcare organizations and the hierarchies they manage.
+Assign specific roles to give Healthcare Operations Core users visibility into healthcare organizations and the hierarchies they manage.
 
 ## Before you begin
 
@@ -83,6 +83,4 @@ Monitors the tasks within their organizations.
 
 4.  Select **Save**.
 
-## Related
 
-- [[hcls-cto-app|Healthcare Operations Core]]

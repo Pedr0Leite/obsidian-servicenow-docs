@@ -12,17 +12,10 @@ breadcrumb: [Security Operations email processing, Security Operations common fu
 
 # Security Operations email properties
 
-Email Properties specify which inboxes are used as input in Email Parsing to import information from external detection systems to create records for security, vulnerability, and IoCs. You can set up a general account for all external detection systems to use, or individual email accounts for [[sir-landing-page|Security Incident Response]], [[threat-intel-landing-page|Threat Intelligence]], or [[vuln-landing-page|Vulnerability Response]].
+Email Properties specify which inboxes are used as input in Email Parsing to import information from external detection systems to create records for security, vulnerability, and IoCs. You can set up a general account for all external detection systems to use, or individual email accounts for Security Incident Response, Threat Intelligence, or Vulnerability Response.
 
--   **[[create-email-properties|Create Security Operations email properties]]**  
+-   **[Create Security Operations email properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/create-email-properties.md)**  
 You can specify email addresses for reports and control automatic email behaviors using email Properties.
 
-**Parent Topic:**[[email-processing|Security Operations email processing]]
+**Parent Topic:**[Security Operations email processing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/email-processing.md)
 
-## Related
-
-- [[create-email-properties|Create Security Operations email properties]]
-- [[email-processing|Security Operations email processing]]
-- [[sir-landing-page|Security Incident Response]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[vuln-landing-page|Vulnerability Response]]

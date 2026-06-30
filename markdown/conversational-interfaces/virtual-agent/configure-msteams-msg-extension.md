@@ -14,7 +14,7 @@ breadcrumb: [Configure VA for Teams, Conversational Integration with Microsoft T
 
 # Configure Microsoft Teams Message Extension
 
-Configure Microsoft Teams Message Extension to enable users to use AI Search to find content \(Knowledge articles and catalog items\), and share information in a one-on-one or group chat. For the base system [[virtual-agent-landing-page|Virtual Agent]] integration with Microsoft Teams, this feature is enabled by default.
+Configure Microsoft Teams Message Extension to enable users to use AI Search to find content \(Knowledge articles and catalog items\), and share information in a one-on-one or group chat. For the base system Virtual Agent integration with Microsoft Teams, this feature is enabled by default.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ Administrators have the option to configure the number of search results that ap
 
 **Parent Topic:**[Configure Virtual Agent for Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-va-msteams-settings.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

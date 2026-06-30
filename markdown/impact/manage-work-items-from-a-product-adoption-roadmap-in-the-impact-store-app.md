@@ -12,7 +12,7 @@ breadcrumb: [Work items, Using Impact, Impact]
 
 # Manage work items from a capability linked to a Product Adoption Roadmap in the Impact Store App
 
-Convert a capability linked to a [[product-adoption|product adoption]] roadmap to an SPM entity either from the [[impact-landing-page|Impact]] home page or from the **[[impact-par|Product Adoption Roadmaps]]**.
+Convert a capability linked to a product adoption roadmap to an SPM entity either from the Impact home page or from the **Product Adoption Roadmaps**.
 
 ## Before you begin
 
@@ -40,7 +40,7 @@ Role required: Impact App Admin, Impact Platform Owner, Impact Portfolio Owner, 
 
     You are redirected to the **Work items** page and a UI message confirms that an SPM entity is created successfully with a link to the created SPM entity.
 
-8.  Select the link to view the record details, or open the capability from the product adoption roadmap and click **Work Items** on the [[capability-details|capability details page]].
+8.  Select the link to view the record details, or open the capability from the product adoption roadmap and click **Work Items** on the capability details page.
 
     \[Omitted image "capability\_workitems.png"\] Alt text: Capability details work items tab
 
@@ -64,9 +64,3 @@ Role required: Impact App Admin, Impact Platform Owner, Impact Portfolio Owner, 
         -   Collaborative Work Management
         -   Portfolio Planning Core/ Strategic Portfolio Management
 
-## Related
-
-- [[product-adoption|Product Adoption]]
-- [[impact-landing-page|Impact]]
-- [[impact-par|Product Adoption Roadmaps]]
-- [[capability-details|Capability Details Page]]

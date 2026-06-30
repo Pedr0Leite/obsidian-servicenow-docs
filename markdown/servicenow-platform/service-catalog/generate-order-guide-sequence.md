@@ -14,7 +14,7 @@ breadcrumb: [Create an order guide, Order guides, Types of catalog items, Explor
 
 # Configure a sequence to fulfill items in order guides
 
-Configure a sequence in Playbooks to fulfill items in [[c_ServiceCatalogOrderGuides|order guides]]. Once you define a sequence, you don't have to manually check whether required items have been fulfilled before fulfilling their dependent items.
+Configure a sequence in Playbooks to fulfill items in order guides. Once you define a sequence, you don't have to manually check whether required items have been fulfilled before fulfilling their dependent items.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ Sequence generated for order guides with only record producers as rule base item
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[service-catalog|Service Catalog]]** &gt; **Catalog Definition** &gt; **Order Guides**.
+1.  Navigate to **All** &gt; **Service Catalog** &gt; **Catalog Definition** &gt; **Order Guides**.
 
 2.  Select the order guide for which you want to create a sequence in which the items must be fulfilled.
 
@@ -94,7 +94,3 @@ Sequence generated for order guides with only record producers as rule base item
 
 [Process Automation Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/process-automation-designer.md)
 
-## Related
-
-- [[c_ServiceCatalogOrderGuides|Order guides]]
-- [[service-catalog|Service Catalog]]

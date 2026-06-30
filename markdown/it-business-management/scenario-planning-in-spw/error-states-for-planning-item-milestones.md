@@ -14,7 +14,7 @@ breadcrumb: [Reference, Portfolio Planning in Strategic Planning Workspace, Stra
 
 # Item milestone errors in Strategic Planning Workspace
 
-Learn about the scenarios when the planning item milestones on the portfolio plan roadmap or free-form roadmap can be in an error state in [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace.
+Learn about the scenarios when the planning item milestones on the portfolio plan roadmap or free-form roadmap can be in an error state in Strategic Planning Workspace.
 
 An item milestone can fall out of the approved start or end dates of the item when you reschedule the existing planning item.
 
@@ -22,7 +22,7 @@ When you reschedule a planning item on the roadmap, the due dates of its milesto
 
 The milestones that are out of sync with the item's schedule can be viewed from the Milestones tab on the side panel. From the side panel, you can edit and adjust the due date of the milestone to reflect the change of plans. See [Update roadmap item milestones](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/manage-planning-item-milestones.md).\[Omitted image "milestone-out-of-range.gif"\] Alt text: Item milestone out of date range.
 
-**Note:** You can’t [[t_UpdateAProjectInProgress|update a project]] milestone from the roadmap view. Updating project milestones may impact the associated cost and [[c_ResourcePlans|resource plans]] of the project. So, it’s recommended to update project milestones using [[project-workspace-landing-page|Project Workspace]] in [[c_ProjectPortfolioSuite|Project Portfolio Management]] \(PPM\).
+**Note:** You can’t update a project milestone from the roadmap view. Updating project milestones may impact the associated cost and resource plans of the project. So, it’s recommended to update project milestones using Project Workspace in Project Portfolio Management \(PPM\).
 
 **Parent Topic:**[Strategic Planning Workspace reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/alignment-planner-workspace-reference.md)
 
@@ -35,10 +35,3 @@ The milestones that are out of sync with the item's schedule can be viewed from 
 
 [Customizing the dependencies display on the roadmap in Strategic Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/customizing-dependencies-display-on-roadmap.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[t_UpdateAProjectInProgress|Update a project]]
-- [[c_ResourcePlans|Resource plans]]
-- [[project-workspace-landing-page|Project Workspace]]
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Integrating with external procurement applications, Procurement, As
 
 # Domain separation and Asset Management - Procurement Integration
 
-Domain separation is supported for [[c_AssetManagement|Asset Management]] - [[c_Procurement|Procurement]] Integration. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported for Asset Management - Procurement Integration. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Enhanced
 
@@ -34,7 +34,7 @@ Domain separation is present in all aspects of the Asset Management - Procuremen
 
 -   You can create multiple procurement integration profiles in each domain. You must have only one published and active profile in each domain, including the parent domain.
 -   For the Purchase Order to create a requisition in your external purchasing application, a published procurement integration profile must exist in the domain of the purchase order.
--   All Purchase Orders, Purchase Order Lines, Receiving Slips, Receiving Slip Lines, entitlements, entitlement import errors, and [[c_ExpenseLine|expense line]] records that you created are stamped with the respective domain of the purchase order.
+-   All Purchase Orders, Purchase Order Lines, Receiving Slips, Receiving Slip Lines, entitlements, entitlement import errors, and expense line records that you created are stamped with the respective domain of the purchase order.
 
 The Procurement Integration Job \[itam\_procurement\_integration\_job\] table isn't domain separated.
 
@@ -55,8 +55,3 @@ However, each procurement integration job is associated with a procurement integ
 
 Service Catalog – Domain Separation \(com.glideapp.servicecatalog.domain\_separation\)
 
-## Related
-
-- [[c_AssetManagement|Asset Management]]
-- [[c_Procurement|Procurement]]
-- [[c_ExpenseLine|Expense Line]]

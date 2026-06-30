@@ -14,12 +14,12 @@ breadcrumb: [Service Portal, Configure UIs and portals, Configure user experienc
 
 # Service Portal reference
 
-[[onboarding-modals-reference|Reference]] topics provide information about roles, configuration properties, SCSS variables, domain separation, and more.
+Reference topics provide information about roles, configuration properties, SCSS variables, domain separation, and more.
 
 -   **[Service Portal roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/service-portal-roles.md)**  
-[[c_ServicePortal|Service Portal]] installs these roles.
+Service Portal installs these roles.
 -   **[Service Portal properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/properties-service-portal.md)**  
-[[properties-service-portal|Service Portal properties]] control aspects of the portal experience for admin and end users.
+Service Portal properties control aspects of the portal experience for admin and end users.
 -   **[Service Portal SCSS Primer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/scss-primer.md)**  
 SCSS is a subset of the Syntactically Awesome StyleSheets \(Sass\) specification and is an extension of CSS. Every valid CSS style sheet is valid SCSS.
 -   **[Domain separation and Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/domain-separation-service-portal.md)**  
@@ -29,8 +29,3 @@ The following plugins are installed with the Service Portal for Enterprise Servi
 
 **Parent Topic:**[Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ServicePortal.md)
 
-## Related
-
-- [[onboarding-modals-reference|Reference]]
-- [[c_ServicePortal|Service Portal]]
-- [[properties-service-portal|Service Portal properties]]

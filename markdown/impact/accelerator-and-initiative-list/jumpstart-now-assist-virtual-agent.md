@@ -18,7 +18,7 @@ The Jumpstart Your Now Assist in Virtual Agent \(VA\) Accelerator provides a dem
 
 ## Accelerator overview
 
-Jumpstart Your Now Assist in Virtual Agent provides [[impact-landing-page|Impact]] customers with an overview and applied  demonstration that helps you to gain a deeper understanding of how to get started with Now Assist in VA. This Accelerator guides customers through the setup process, while highlighting  the potential of Generative AI in the Virtual Agent space. Additionally, it offers key resources and leading practices for getting started with confidence.
+Jumpstart Your Now Assist in Virtual Agent provides Impact customers with an overview and applied  demonstration that helps you to gain a deeper understanding of how to get started with Now Assist in VA. This Accelerator guides customers through the setup process, while highlighting  the potential of Generative AI in the Virtual Agent space. Additionally, it offers key resources and leading practices for getting started with confidence.
 
 For additional information on the feature, see [Now Assist in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-va-landing.md)
 
@@ -75,6 +75,3 @@ This Impact Accelerator in its entirety or portions of the Impact Accelerator ac
 
 ServiceNow resources are not responsible for implementing recommendations on customer’s non-production or production instances.
 
-## Related
-
-- [[impact-landing-page|Impact]]

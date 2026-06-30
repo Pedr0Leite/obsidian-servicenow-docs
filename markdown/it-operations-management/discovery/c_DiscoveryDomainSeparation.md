@@ -14,7 +14,7 @@ breadcrumb: [Configuring Discovery, Discovery, ITOM Visibility, IT Operations Ma
 
 # Domain Separation and Discovery
 
-Domain separation is supported in [[r-discovery|Discovery]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported in Discovery. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Standard
 
@@ -88,6 +88,3 @@ Configuring the "Run as" user in a Discovery schedule directs discovered Configu
 
 [Discovery behaviors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoveryBehaviors.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

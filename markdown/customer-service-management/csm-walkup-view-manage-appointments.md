@@ -20,7 +20,7 @@ Role required: sn\_csm\_walkup.walkup\_technician
 
 ## About this task
 
-Technicians and managers primarily use [[csm-workspaces-configure|CSM Configurable Workspace]] for all Walk-up Experience related information, including viewing and managing scheduled appointments.
+Technicians and managers primarily use CSM Configurable Workspace for all Walk-up Experience related information, including viewing and managing scheduled appointments.
 
 **Note:** You can also view and manage scheduled appointments from the CSM Walk-up Experience in the application navigator, or left navigation bar.
 
@@ -32,7 +32,7 @@ Upcoming appointments also display with a small calendar icon next to the user n
 
 ## Procedure
 
-1.  [[csm-workspaces-open|Open CSM Configurable Workspace]].
+1.  Open CSM Configurable Workspace.
 
 2.  Select **List** in the left navigation bar.
 
@@ -52,7 +52,4 @@ Upcoming appointments also display with a small calendar icon next to the user n
 
     3.  Select **Save** to save any changes you make to the appointment interaction.
 
-## Related
 
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[csm-workspaces-open|Open CSM Configurable Workspace]]

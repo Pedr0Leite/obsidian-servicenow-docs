@@ -14,7 +14,7 @@ breadcrumb: [Viewing reports and dashboards in the Software Bill of Materials wo
 
 # Reviewing the Components module in the Software Bill of Materials Workspace
 
-The Components module in the [[sbom-landing|Software Bill of Materials]] \(SBOM\) Workspace displays current information about vulnerable, stale, abandoned, and high-risk combinations for the components you import.
+The Components module in the Software Bill of Materials \(SBOM\) Workspace displays current information about vulnerable, stale, abandoned, and high-risk combinations for the components you import.
 
 ## Viewing the Components module
 
@@ -59,7 +59,7 @@ The list of **Stale** and **Abandoned** components, as well as those with at lea
 
     -   A stale component's version is more than two major versions behind the latest version and two years behind the latest version.
     -   An abandoned component has not been updated for more than two years.
-    -   Vulnerable components are components that have any [[vulnerabilities|vulnerabilities]] with a severity of **High** or greater.
+    -   Vulnerable components are components that have any vulnerabilities with a severity of **High** or greater.
 -   **High-risk combinations**
 
 High-risk components might require your immediate attention. The Deps.dev integration, which is installed when you install the SBOM Response application, provides the packages intelligence for components in the **Stale** and **Abandoned** states.
@@ -90,7 +90,3 @@ See [Checking a Software Bill of Materials entity for vulnerabilities](https://r
 
 See [Classifying licenses and resolving component licenses in the Software Bill of Materials workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sbom-core/vr-sbom-license-overview.md) for more information about how to license data your import with your components and viewing your over-all license compliance in the workspace.
 
-## Related
-
-- [[sbom-landing|Software Bill of Materials]]
-- [[vulnerabilities|Vulnerabilities]]

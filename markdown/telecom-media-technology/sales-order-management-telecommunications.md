@@ -40,8 +40,5 @@ The Sales CRM for Telecommunications application includes the following capabili
 |Configure, price, and quote \(CPQ\)|Guides agents to build service combinations with catalogs that support complex product bundles, subscriptions, and usage-based pricing. Shortens sales cycles and increases win rates while protecting margins.|
 |Order management|Automates order fulfillment from sale to service activation with intelligent workflows that coordinate across systems. Activates services faster while eliminating revenue loss from failed orders.|
 |Renewal workflows|Provides a complete view of services and subscriptions with automated renewal workflows for proactive outreach. Protects recurring revenue by identifying renewal risks early and surfacing expansion opportunities.|
-|Industry aligned \(TMF APIs\)|Get the details of ServiceNow® implementation of TM Forum \(TMF\) APIs for [[telecom-media-tech-landing|Telecommunications, Media, and Technology \(TMT\)]] products.|
+|Industry aligned \(TMF APIs\)|Get the details of ServiceNow® implementation of TM Forum \(TMF\) APIs for Telecommunications, Media, and Technology \(TMT\) products.|
 
-## Related
-
-- [[telecom-media-tech-landing|Telecommunications, Media, and Technology \(TMT\)]]

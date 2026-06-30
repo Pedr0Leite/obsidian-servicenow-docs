@@ -14,7 +14,7 @@ breadcrumb: [Set up the RSS feeds infrastructure, Configure, Regulatory Change M
 
 # Map the taxonomy
 
-Create an internal taxonomy when you are setting up the [[reg-change-mgmt-landing-page|Regulatory Change Management]] application. Map the external taxonomy to the internal taxonomy so that the Regulatory Change Management application refers to only one taxonomy.
+Create an internal taxonomy when you are setting up the Regulatory Change Management application. Map the external taxonomy to the internal taxonomy so that the Regulatory Change Management application refers to only one taxonomy.
 
 ## Before you begin
 
@@ -74,6 +74,4 @@ The Regulatory Change Management application stores the taxonomy and it provides
 
     The external taxonomy class is mapped to the internal taxonomy class.
 
-## Related
 
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]

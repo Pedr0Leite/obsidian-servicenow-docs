@@ -14,11 +14,11 @@ breadcrumb: [Terms and conditions, Contracts, Contract Management use, Contract 
 
 # Build a terms and conditions document within a contract
 
-After adding one or more [[c_TermsAndConditions|terms and conditions]] records to a contract, you can build a terms and conditions document within the contract.
+After adding one or more terms and conditions records to a contract, you can build a terms and conditions document within the contract.
 
 ## Before you begin
 
-Role required: admin, contract\_manager\(core UI and [[using-ham-workspace|Hardware Asset Workspace]] only\), sn\_eam.enterprise\_admin \([[using-eam-workspace|Enterprise Asset Workspace]] only\), or sn\_eam.enterprise\_asset\_manager \(Enterprise Asset Workspace only\)
+Role required: admin, contract\_manager\(core UI and Hardware Asset Workspace only\), sn\_eam.enterprise\_admin \(Enterprise Asset Workspace only\), or sn\_eam.enterprise\_asset\_manager \(Enterprise Asset Workspace only\)
 
 ## About this task
 
@@ -26,10 +26,10 @@ The terms and conditions records are added in the sequence specified in the **Or
 
 ## Procedure
 
-1.  Open the list of [[c_Contracts|contracts]] that are used across your deployment.
+1.  Open the list of contracts that are used across your deployment.
 
-    -   If you are using the core UI, navigate to **[[c_ContractManagement|Contract Management]]** &gt; **Contract** &gt; **All**.
-    -   If you are using the Hardware Asset Workspace, open the [[contract-mgmt-view-am|Contract management view]] and then select the **All contracts** tab.
+    -   If you are using the core UI, navigate to **Contract Management** &gt; **Contract** &gt; **All**.
+    -   If you are using the Hardware Asset Workspace, open the Contract management view and then select the **All contracts** tab.
     -   If you are using the Enterprise Asset Workspace, open the Contract and lease management view and then select the **All contracts** tab.
 2.  Select a contract.
 
@@ -53,11 +53,3 @@ The terms and conditions records are added in the sequence specified in the **Or
 
 [Add terms and conditions to a contract]()
 
-## Related
-
-- [[c_TermsAndConditions|Terms and conditions]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[c_Contracts|Contracts]]
-- [[c_ContractManagement|Contract Management]]
-- [[contract-mgmt-view-am|Contract management view]]

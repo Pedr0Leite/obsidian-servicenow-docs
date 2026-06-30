@@ -14,7 +14,7 @@ breadcrumb: [Configuring Cloud Account Management, Cloud Account Management, ITO
 
 # Set up Azure connection
 
-Add and configure an Azure connection with your Azure portal. Using the connection credentials, the [[cam-landing|Cloud Account Management]] application creates Azure subscriptions. This is a one-time configuration step.
+Add and configure an Azure connection with your Azure portal. Using the connection credentials, the Cloud Account Management application creates Azure subscriptions. This is a one-time configuration step.
 
 ## Before you begin
 
@@ -48,6 +48,4 @@ Role required: sn\_itom\_cam.cw\_admin
 
 8.  To view the connection alias, select **View connection alias**.
 
-## Related
 
-- [[cam-landing|Cloud Account Management]]

@@ -34,7 +34,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[service-level-mgmt-landing-page|Service level management]]\[com.snc.sla\]
+Service level management\[com.snc.sla\]
 
 </td><td>
 
@@ -45,7 +45,7 @@ Provides the core SLA functionality.SLA Definitions provide conditions to start,
 </td></tr></tbody>
 </table>## Procedure
 
-1.  Navigate to **All** &gt; **System [[dex-workspace-application-tab|Applications]]** &gt; **All Available Applications** &gt; **All**.
+1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
 2.  Find the plugin using the filter criteria and search bar.
 
@@ -70,12 +70,7 @@ Several types of components are installed with the SLA breakdown definitions.
 
 [Activate SLA timeline]()
 
-[Activate Service Level Management - [[sla-timer|SLA Timer]] Config API]()
+[Activate Service Level Management - SLA Timer Config API]()
 
 [List of plugins \(Australia\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-## Related
-
-- [[service-level-mgmt-landing-page|Service Level Management]]
-- [[dex-workspace-application-tab|Applications]]
-- [[sla-timer|SLA timer]]

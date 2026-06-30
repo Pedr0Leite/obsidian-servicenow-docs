@@ -14,7 +14,7 @@ breadcrumb: [Visualize network infrastructure, Explore, Telecommunications Netwo
 
 # Floor map
 
-Use the [[using-floor-map|floor map]] in the [[telecom-network-inventory|Telecommunications Network Inventory]] application to view a layout of your datacenter infrastructure. You can view the network assets placement and monitor the operational data on the map.
+Use the floor map in the Telecommunications Network Inventory application to view a layout of your datacenter infrastructure. You can view the network assets placement and monitor the operational data on the map.
 
 ## Floor map overview
 
@@ -156,14 +156,9 @@ You can upload and manage the datacenter map objects using the Indoor Mapping Ma
 
 Access the floor map in the Telecommunications Network Inventory workspace as follows:
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 2.  Select the blue hub icon \(\[Omitted image "icon-blue-hub.png"\] Alt text: Blue Hub Icon.\).
 3.  Select the **Floor map** tab.
 
 To learn more about how to use the floor map, see [Floor map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/using-floor-map.md).
 
-## Related
-
-- [[using-floor-map|Floor map]]
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]

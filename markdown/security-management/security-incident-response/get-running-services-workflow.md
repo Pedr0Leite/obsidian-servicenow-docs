@@ -29,11 +29,11 @@ The **Security Incident Response - Get Running Services workflow** runs automati
 Workflow activities include:
 
 -   Audit Log Enrichment Script activity
--   [[get-config-FQDN-activity|Get Configuration Item FQDN Flow Action]]
+-   [Get Configuration Item FQDN Flow Action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/get-config-FQDN-activity.md)
 -   [Determine Shell Script by OS activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/determine-shell-script-by-os-activity.md)
 -   Is Execution via PowerShell activity
 -   [Get Running Services - WMI Enrichment activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/get-running-services-via-pwrshell-activity.md)
--   [[create-enrich-data-records|Create Enrichment Data records Flow Action]]
+-   [Create Enrichment Data records Flow Action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/create-enrich-data-records.md)
 
 ## Procedure
 
@@ -45,7 +45,7 @@ Workflow activities include:
 
 4.  Select **Update**.
 
-    [[sir-landing-page|Security Incident Response]] provides running services information in the **Related Links** &gt; **Security Incident Enrichments**tab. For more information, see [[enrichment-data-mapping|Security Operations enrichment data mapping]].
+    Security Incident Response provides running services information in the **Related Links** &gt; **Security Incident Enrichments**tab. For more information, see [Security Operations enrichment data mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/enrichment-data-mapping.md).
 
 
 -   **[Determine Shell Script by OS activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/determine-shell-script-by-os-activity.md)**  
@@ -66,9 +66,3 @@ The **Security Incident Response - Get Running Services** workflow gathers runni
 
 [Security Incident - Evaluate response task outcome workflow]()
 
-## Related
-
-- [[get-config-FQDN-activity|Get Configuration Item FQDN Flow Action]]
-- [[create-enrich-data-records|Create Enrichment Data records Flow Action]]
-- [[enrichment-data-mapping|Security Operations enrichment data mapping]]
-- [[sir-landing-page|Security Incident Response]]

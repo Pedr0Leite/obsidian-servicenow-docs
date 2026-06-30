@@ -19,18 +19,18 @@ Install Now Assist plugins to enable generative AI on your instance.
 
 Role required: admin
 
-Follow these instructions to get started with [[platform-now-assist-landing|Now Assist]] Admin:
+Follow these instructions to get started with Now Assist Admin:
 
 1.  To get started with Now Assist, you must install at least one Now Assist application on your instance.
 2.  License any Now Assist software from the ServiceNow Store and install it through the Application Manager to access Now Assist Admin.
 3.  The Now Assist Admin console guides your implementation, starting with installation.
-4.  Check out the [[configuring-now-assist|Now Assist Journey Checklist for more information.]]
+4.  Check out the [Now Assist Journey Checklist for more information.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configuring-now-assist.md)
 
 ## About this task
 
 Now Assist applications often function interdependently. Now Assist Suites help reduce runtime errors and update issues by bundling compatible versions of Now Assist applications together during installation and updates.
 
-For more information about how Now Assist Suites work, see [[now-assist-suites-app-mgr|Now Assist suite versions]].
+For more information about how Now Assist Suites work, see [Now Assist suite versions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-suites-app-mgr.md).
 
 For details about available Now Assist Suites and their compatibility with ServiceNow AI Platform versions, see [Now Assist Suite release notes](https://www.servicenow.com/docs/r/store-release-notes/sn-store-now-assist-suite-release-notes.html).
 
@@ -131,12 +131,5 @@ If you encounter issues installing or updating applications, see this [knowledge
 
 ## What to do next
 
-[[activate-now-assist-panel|Activate the Now Assist panel standard chat]] or [[configure-a-now-assist-skill|Activate a Now Assist skill]].
+[Activate the Now Assist panel standard chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-now-assist-panel.md) or [Activate a Now Assist skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-a-now-assist-skill.md).
 
-## Related
-
-- [[configuring-now-assist|Overview tab in Now Assist Admin]]
-- [[now-assist-suites-app-mgr|Now Assist suite versions]]
-- [[activate-now-assist-panel|Activate the Now Assist panel standard chat]]
-- [[configure-a-now-assist-skill|Activate a Now Assist skill]]
-- [[platform-now-assist-landing|Now Assist]]

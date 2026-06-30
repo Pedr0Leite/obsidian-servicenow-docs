@@ -26,7 +26,7 @@ This document service task is automatically created for a new credit card case w
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -52,6 +52,3 @@ This document service task is automatically created for a new credit card case w
 -   The document service task moves to the Closed – Complete state.
 -   A credit card task to determine the card's terms and conditions and disclosures and update the customer agreement is automatically generated in the **Tasks** tab of the associated case. The task is created in the Open state and assigned to an assignment group or a credit card agent in the credit card services department. The assignment group or user that the task is assigned to is based on the assignment rule.
 
-## Related
-
-- [[fso-overview|Financial Services]]

@@ -14,7 +14,7 @@ breadcrumb: [Visibility to TLS certificates, Configuring Certificate Inventory a
 
 # Run Certificate Discovery via certificate file import
 
-In [[cert-inventory-mgmt|Certificate Inventory and Management]], you can discover certificates by importing certificate files into the system using pattern-based [[r-discovery|Discovery]].
+In Certificate Inventory and Management, you can discover certificates by importing certificate files into the system using pattern-based Discovery.
 
 ## Before you begin
 
@@ -58,7 +58,3 @@ The import certificates are discovered using the Import SSL Certificate pattern,
 
 When your Discovery schedule runs, it then automatically scans your files.
 
-## Related
-
-- [[cert-inventory-mgmt|Certificate Inventory and Management]]
-- [[r-discovery|Discovery]]

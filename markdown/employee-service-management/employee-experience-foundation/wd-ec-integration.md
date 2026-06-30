@@ -14,7 +14,7 @@ breadcrumb: [Approval hub integrations, Approvals hub, Setup task management, Co
 
 # Approvals hub integration with Workday
 
-Enable easier access to all active approvals of external business applications such as Workday from [[employee-center-pro-landing|Employee Center Pro]]. The Workday spoke is built by Bristlecone, Inc.
+Enable easier access to all active approvals of external business applications such as Workday from Employee Center Pro. The Workday spoke is built by Bristlecone, Inc.
 
 Using Approvals hub integration with Workday, you can perform the following actions from Employee Center Pro:
 
@@ -27,13 +27,13 @@ Using Approvals hub integration with Workday, you can perform the following acti
 Ensure you have the latest versions of the following plugins:
 
 -   Employee Center Pro
--   [[w-integration|HR Service Delivery Integration with Workday]] 3.0.0
+-   HR Service Delivery Integration with Workday 3.0.0
 
     **Note:** Upgrade v2.0.6 to v 3.0.0
 
 -   Workday HR Spoke
 -   Human Resources Scoped App: Core \(com.sn\_hr\_core\)
--   [[hr-integrations-framework|Enterprise Service Management Integrations Framework]]. This framework is installed with Employee Center Pro.
+-   Enterprise Service Management Integrations Framework. This framework is installed with Employee Center Pro.
 
 ## Prerequisites
 
@@ -68,7 +68,7 @@ By default, todos configurations are available for **Open** and **Completed**.
 
 **Note:** For more information the field-level info about leaves, timesheets, timeoffs, compensation change, job change, job requisition, or leave of absence, see [Workday HR Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/workday-hr-spoke.md).
 
-For additional [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] information, see [Approvals experience reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/approval-hub-ootb.md).
+For additional reference information, see [Approvals experience reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/approval-hub-ootb.md).
 
 -   **[Fetch Workday reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/wd-ec-approvals-scheduled-job.md)**  
 As an administrator, fetch the reports metadata from other business applications such as Workday. View the Workday reports, leaves, compensation, and other information from your ServiceNow instance.
@@ -79,9 +79,3 @@ Using the default To-dos configuration, you can provide the approvers with more 
 
 **Parent Topic:**[Approval hub integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/approvals-int-concept.md)
 
-## Related
-
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[w-integration|HR Service Delivery Integration with Workday]]
-- [[hr-integrations-framework|Enterprise Service Management Integrations Framework]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

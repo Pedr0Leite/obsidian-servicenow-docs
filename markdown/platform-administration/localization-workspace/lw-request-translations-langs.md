@@ -14,7 +14,7 @@ breadcrumb: [Requesting translations in Localization Workspace, Localization Wor
 
 # Request translations in Localization Workspace: Languages
 
-Add target languages to a translation request in [[localization-workspace|Localization Workspace]].
+Add target languages to a translation request in Localization Workspace.
 
 ## Before you begin
 
@@ -80,6 +80,3 @@ When you select a check box for a language group, the Target language and Transl
 
 Advance to the next step in the wizard, **Types**, to select content for translation.
 
-## Related
-
-- [[localization-workspace|Localization Workspace]]

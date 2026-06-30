@@ -14,7 +14,7 @@ breadcrumb: [Additional features, Microsoft Azure, Service Graph Connectors, Int
 
 # Enabling VM insights for collecting Azure data
 
-You must enable the VM insights feature in the Azure portal for collecting TCP and processes data using the [[cmdb-integration-azure|Service Graph Connector for Microsoft Azure]].
+You must enable the VM insights feature in the Azure portal for collecting TCP and processes data using the Service Graph Connector for Microsoft Azure.
 
 ## Requirements for enabling the VM insights feature
 
@@ -29,6 +29,3 @@ There are several methods available for enabling VM insights. For more informati
 
 **Note:** In the data collection rule, ensure that you’ve selected the **Enable guest performance** and **Enable processes and dependencies \(Maps\)** check boxes on the rule form.
 
-## Related
-
-- [[cmdb-integration-azure|Service Graph Connector for Microsoft Azure]]

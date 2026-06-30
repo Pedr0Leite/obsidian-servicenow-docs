@@ -14,7 +14,7 @@ breadcrumb: [Map multiple application services suggested by classic Service Mapp
 
 # Add or remove CIs for multiple application services using connection suggestions
 
-If the [[predictive-intelligence-discovery|discovery based on Predictive Intelligence]] is enabled, the newly mapped application services include only CIs and CI connections added by [[r-discovery|discovery]] patterns. Use connection suggestions to decide which configuration items \(CIs\) to include or exclude globally. [[c_ServiceMappingOverview|Service Mapping]] then updates all relevant discovered application services to reflect your decisions.
+If the discovery based on Predictive Intelligence is enabled, the newly mapped application services include only CIs and CI connections added by discovery patterns. Use connection suggestions to decide which configuration items \(CIs\) to include or exclude globally. Service Mapping then updates all relevant discovered application services to reflect your decisions.
 
 ## Before you begin
 
@@ -98,8 +98,3 @@ Service Mapping applies the changes to traffic-based connections to all relevant
 
 **Parent Topic:**[Map multiple application services suggested by classic Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/map-business-services-in-bulk.md)
 
-## Related
-
-- [[predictive-intelligence-discovery|Discovery based on Predictive Intelligence]]
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

@@ -22,7 +22,7 @@ Role required: Procurement specialist, agent
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[psd-overview|Procurement Case Management]]**.
+1.  Navigate to **All** &gt; **Procurement Case Management**.
 
 2.  Select the List icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon.\) and select **Interactions** &gt;**All**.
 
@@ -49,6 +49,3 @@ Role required: Procurement specialist, agent
 
 **Parent Topic:**[Interaction Management in Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/interaction-management-in-procurement-operations-workspace.md)
 
-## Related
-
-- [[psd-overview|Procurement Case Management]]

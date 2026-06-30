@@ -15,7 +15,7 @@ breadcrumb: [Now Assist for IT Service Management \(ITSM\), IT Service Managemen
 
 # Exploring Now Assist for IT Service Management \(ITSM\)
 
-With the [[now-assist-itsm|Now Assist for IT Service Management \(ITSM\)]] application, your agents can summarize the chat conversations and incident details, generate the incident resolution notes to share with other agents.
+With the Now Assist for IT Service Management \(ITSM\) application, your agents can summarize the chat conversations and incident details, generate the incident resolution notes to share with other agents.
 
 ## Now Assist for IT Service Management \(ITSM\) overview
 
@@ -129,16 +129,16 @@ The Now Assist for ITSM application includes the generative AI skills and featur
 
     \[Omitted image "now-assist-itsm-generate-reply.png"\] Alt text: Write with Now Assist chat reply recommendation.
 
--   **Release notes generation for a release in [[dpr-landing-page|Digital Product Release]]**
+-   **Release notes generation for a release in Digital Product Release**
 
     Enables a product manager to generate structured release notes for a release that is in the readiness phase.
 
-    The Generate release notes skill uses artifacts in the release scope to generate the release notes that you can review it before publishing.\[Omitted image "dpr-release-notes-preview.png"\] Alt text: Release notes for a release generated using AI-driven summarization, in [[dpr-workspace|Digital Product Release Workspace]].
+    The Generate release notes skill uses artifacts in the release scope to generate the release notes that you can review it before publishing.\[Omitted image "dpr-release-notes-preview.png"\] Alt text: Release notes for a release generated using AI-driven summarization, in Digital Product Release Workspace.
 
 
 ## Now Assist panel in Service Operations Workspace for ITSM
 
-An agent can use the Now Assist panel in [[sow-landing-page|Service Operations Workspace for ITSM]]. This conversational interface enables an agent to request a chat summary or incident summary and generate the incident resolution notes. For more information about the Now Assist panel, see [Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-overview.md).
+An agent can use the Now Assist panel in Service Operations Workspace for ITSM. This conversational interface enables an agent to request a chat summary or incident summary and generate the incident resolution notes. For more information about the Now Assist panel, see [Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-overview.md).
 
 -   **[Supporting information for Now Assist for IT Service Management \(ITSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/supporting-information-now-assist-itsm.md)**  
 Get a quick overview of the important information that is related to the Now Assist for IT Service Management \(ITSM\) application.
@@ -150,9 +150,3 @@ Get a quick overview of the important information that is related to the Now Ass
 
 [Exploring Now Assist Admin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/exploring-now-assist-platform.md)
 
-## Related
-
-- [[now-assist-itsm|Now Assist for IT Service Management \(ITSM\)]]
-- [[dpr-landing-page|Digital Product Release]]
-- [[dpr-workspace|Digital Product Release Workspace]]
-- [[sow-landing-page|Service Operations Workspace for ITSM]]

@@ -14,7 +14,7 @@ breadcrumb: [Manage work using Boards, Use, Collaborative Work Management, Strat
 
 # Board views in CWM
 
-Create, customize, and switch seamlessly between Board display preferences such as column display, sorting, and filtering based on the audience and purpose in [[cwm-landing|Collaborative Work Management]] \(CWM\).
+Create, customize, and switch seamlessly between Board display preferences such as column display, sorting, and filtering based on the audience and purpose in Collaborative Work Management \(CWM\).
 
 \[Omitted video\] Description: Introduction and overview of Board views in CWM.
 
@@ -60,6 +60,3 @@ Delete the custom personal or shared views for your CWM Boards and keep your Boa
 
 **Parent Topic:**[Managing work using Boards in CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/cwm-boards.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

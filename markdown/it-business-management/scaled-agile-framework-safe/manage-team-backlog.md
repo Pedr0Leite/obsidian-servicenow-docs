@@ -25,7 +25,7 @@ Role required: scrum\_product\_owner, scrum\_master, safe\_product\_owner, or sa
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[SAFeoverview|Scaled Agile Framework \(SAFe\)]]** &gt; **SAFe Board**.
+1.  Navigate to **All** &gt; **Scaled Agile Framework \(SAFe\)** &gt; **SAFe Board**.
 
 2.  From the choice list at the top-left corner, select the level as **Team**.
 
@@ -129,6 +129,4 @@ In SAFe, the main portion of sprint planning occurs during the Big Room Planning
 
     A dialog box appears indicating the number of completed and incomplete stories in the sprint. Move incomplete stories, if any, to the backlog or a future sprint. Click **Complete**.
 
-## Related
 
-- [[SAFeoverview|Scaled Agile Framework \(SAFe\)]]

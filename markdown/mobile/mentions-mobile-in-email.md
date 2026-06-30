@@ -39,8 +39,5 @@ Configure your instance to send an email notification when a user mentions a con
 7.  Verify that **Allow Notifications** is enabled.
 
 
-**Parent Topic:**[[notification-activity-stream|Configure notifications for mobile activity stream mentions]]
+**Parent Topic:**[Configure notifications for mobile activity stream mentions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/notification-activity-stream.md)
 
-## Related
-
-- [[notification-activity-stream|Configure notifications for mobile activity stream mentions]]

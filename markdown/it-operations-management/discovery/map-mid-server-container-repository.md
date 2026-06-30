@@ -19,14 +19,14 @@ If network access or datacenter location requires a specific MID Server, map MID
 
 ## Before you begin
 
--   Verify that you have at least version 1.30.2 of [[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] Patterns.
+-   Verify that you have at least version 1.30.2 of Discovery and Service Mapping Patterns.
 -   Verify that the Linux MID Server has the following requirements:
     -   8GB RAM with 4GB for the Java Virtual Machine \(JVM\).
-    -   MID Server **Capability** configured to **[[container-image-task|Scan Container Images]]**. For more information on configuring capabilities, see [MID Server capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/mid-server-capabilities.md).
+    -   MID Server **Capability** configured to **Scan Container Images**. For more information on configuring capabilities, see [MID Server capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/mid-server-capabilities.md).
     -   Can access the image repository.
     -   Has Aqua Trivy, starting 0.44.0, installed on the MID Server. The last version validated is 0.68.2. For more information on installing Aqua Trivy, see the [Container Image scan feature overview \[KB1218504\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1218504) article in the Now Support Knowledge Base.
 -   Verify that the container image repository credentials are configured for the private repositories. For more information, see [Create and test your credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_CreateCredential.md) and [Container image repository credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/container-image-repo-credential.md).
--   Verify that a [[container_image_scan_pattern|container image discovery]] has run for Docker, Kubernetes, or Amazon Elastic Container Service \(Amazon ECS\) discovery. For more information, see:
+-   Verify that a container image discovery has run for Docker, Kubernetes, or Amazon Elastic Container Service \(Amazon ECS\) discovery. For more information, see:
     -   [Docker virtualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c-docker-virtualization.md)
     -   [Kubernetes discovery using patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/kubernetes-discovery.md)
     -   [Amazon ECS resource discovery with Patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/aws-ecs-fargate-discovery.md)
@@ -94,9 +94,3 @@ Scan the container images. For more information, see [Scan container images](htt
 
 **Parent Topic:**[Container image scanning for software decomposition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/container-image-concept.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[container-image-task|Scan container images]]
-- [[container_image_scan_pattern|Container image discovery]]

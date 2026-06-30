@@ -15,7 +15,7 @@ breadcrumb: [SAP DMS external content connector, Configure, External Content Con
 
 # Configure SAP DMS for external content indexing
 
-Create service instances and service keys in your SAP Business Technology Platform \(BTP\) global account to allow the [[sap-dms-external-content-connector|SAP DMS external content connector]] to access your SAP DMS documents and repositories.
+Create service instances and service keys in your SAP Business Technology Platform \(BTP\) global account to allow the SAP DMS external content connector to access your SAP DMS documents and repositories.
 
 ## Before you begin
 
@@ -53,7 +53,7 @@ To allow the connector to access your SAP DMS source system via this API, you mu
 
     5.  Select **Create**.
 
-    6.  On the New Instance or [[subscription-form-v2|Subscription form]], fill in the fields.
+    6.  On the New Instance or Subscription form, fill in the fields.
 
         |Field|Description|
         |-----|-----------|
@@ -195,7 +195,7 @@ To allow the connector to access your SAP DMS source system via this API, you mu
 
     5.  Select **Next**.
 
-    6.  On the New Instance or Subscription form, paste the following JSON code into the Configure instance [[r_DirectJDBCProbeParameters|parameters]] text entry field, replacing `<instance-name>` with the name of your ServiceNow AI Platform instance.
+    6.  On the New Instance or Subscription form, paste the following JSON code into the Configure instance parameters text entry field, replacing `<instance-name>` with the name of your ServiceNow AI Platform instance.
 
         ```json
         {
@@ -467,8 +467,3 @@ For details on creating and configuring a SAP DMS external content connector, se
 
 **Parent Topic:**[SAP DMS external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/sap-dms-external-content-connector.md)
 
-## Related
-
-- [[sap-dms-external-content-connector|SAP DMS external content connector]]
-- [[subscription-form-v2|Subscription form]]
-- [[r_DirectJDBCProbeParameters|Parameters]]

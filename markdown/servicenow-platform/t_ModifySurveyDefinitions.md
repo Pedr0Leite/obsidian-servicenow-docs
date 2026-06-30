@@ -20,7 +20,7 @@ Role required: admin, survey\_creator, or survey\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Survey** &gt; **View [[r_SurveyManagementLandingPage|Surveys]]**.
+1.  Navigate to **All** &gt; **Survey** &gt; **View Surveys**.
 
     Each survey definition is stored as a record on the Assessment Metric Type `[asmt_metric_type]` table with a modified view for survey use.
 
@@ -62,7 +62,7 @@ Active
 
 </td><td>
 
-[[check-box|Check box]] to activate the survey definition. When the **Active** check box is cleared, new survey instances cannot be generated and users cannot complete existing survey instances. Use the **Active** check box to deactivate or activate a published survey.
+Check box to activate the survey definition. When the **Active** check box is cleared, new survey instances cannot be generated and users cannot complete existing survey instances. Use the **Active** check box to deactivate or activate a published survey.
 
 </td></tr><tr><td>
 
@@ -94,7 +94,7 @@ Allow retake
 
 </td><td>
 
-Check box that allows users to modify their answers to a completed survey. Users can resubmit a survey as many times as they want until the due date. After that date, the system removes the survey from the user's My [[r_Assessments|Assessments]] &amp; Surveys page.
+Check box that allows users to modify their answers to a completed survey. Users can resubmit a survey as many times as they want until the due date. After that date, the system removes the survey from the user's My Assessments &amp; Surveys page.
 
 </td></tr><tr><td>
 
@@ -134,7 +134,7 @@ Sample Metric
 
 </td><td>
 
-A metric of the current survey that you can include as an image in the [[email|email]] or invitation sent to a survey user. When the survey user clicks the image in the email or while previewing the [[html|HTML]] body, the entire survey is available to be taken.**Note:** You cannot edit or delete a metric that is selected in this field.
+A metric of the current survey that you can include as an image in the email or invitation sent to a survey user. When the survey user clicks the image in the email or while previewing the HTML body, the entire survey is available to be taken.**Note:** You cannot edit or delete a metric that is selected in this field.
 
 </td></tr><tr id="tr_SurveySignature"><td>
 
@@ -196,7 +196,7 @@ Chat Survey
 
 </td><td>
 
-Option to validate if [[c_SurveyQuestion|survey questions]] are supported in a chat survey. Enables conversational questionnaires \(pre-chat and post-chat surveys\) in the chat client. Also enables you to map chat context variables to survey questions. For information on a chat survey in ITSM Virtual Agent, see [[survey-virtual-agent|Surveys in ITSM Virtual Agent]].**Note:** This field is available only when the Glide Conversation Server plugin \(com.glide.cs\) is activated.
+Option to validate if survey questions are supported in a chat survey. Enables conversational questionnaires \(pre-chat and post-chat surveys\) in the chat client. Also enables you to map chat context variables to survey questions. For information on a chat survey in ITSM Virtual Agent, see [Surveys in ITSM Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/survey-virtual-agent.md).**Note:** This field is available only when the Glide Conversation Server plugin \(com.glide.cs\) is activated.
 
 </td></tr><tr><td>
 
@@ -204,7 +204,7 @@ Outlook Actionable Message
 
 </td><td>
 
-Includes an embedded survey in the survey email notification. After you select this check box and save the survey, a validation is run to ensure all survey questions are supported. **Note:** This field is available only when the [[outlook-actionable-messages|Outlook Actionable Messages]]\(sn\_ms\_oam\) plugin is installed.
+Includes an embedded survey in the survey email notification. After you select this check box and save the survey, a validation is run to ensure all survey questions are supported. **Note:** This field is available only when the Outlook Actionable Messages\(sn\_ms\_oam\) plugin is installed.
 
 </td></tr><tr><td>
 
@@ -224,7 +224,7 @@ Introduction
 
 </td><td>
 
-Introductory content to display on [[c_SurveyQuestionnairesForUsers|survey questionnaires]]. Consider adding a company logo, a welcome message, background information about the survey, or instructions.
+Introductory content to display on survey questionnaires. Consider adding a company logo, a welcome message, background information about the survey, or instructions.
 
 </td></tr><tr><td>
 
@@ -252,7 +252,7 @@ View Responses
 
 </td><td>
 
-Link that opens the list of [[c_SurveyResults|responses]] for this survey. This related link is available only if there are results for the survey.
+Link that opens the list of [responses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyResults.md) for this survey. This related link is available only if there are results for the survey.
 
 </td></tr><tr><td>
 
@@ -260,7 +260,7 @@ View Scorecard
 
 </td><td>
 
-Link that opens the [[t_ViewAScorecard|scorecard]] for this survey. This related link is available only if there are results for the survey.
+Link that opens the [scorecard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAScorecard.md) for this survey. This related link is available only if there are results for the survey.
 
 </td></tr><tr><td>
 
@@ -268,7 +268,7 @@ View Survey URL
 
 </td><td>
 
-Link that opens a dialog box that displays a [[c_SurveyURLs|URL]] for this survey. The URL is useful for sharing a public survey.This related link is available only if the **Active** check box is selected. The URL does not work until the survey definition is published.
+Link that opens a dialog box that displays a [URL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyURLs.md) for this survey. The URL is useful for sharing a public survey.This related link is available only if the **Active** check box is selected. The URL does not work until the survey definition is published.
 
 </td></tr><tr><td>
 
@@ -329,7 +329,7 @@ Metric Categories
 
 </td><td>
 
-All [[c_SurveyCategory|survey categories]] for this survey.
+All [survey categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyCategory.md) for this survey.
 
 </td></tr><tr><td>
 
@@ -337,15 +337,15 @@ Survey Users
 
 </td><td>
 
-All [[c_SurveyUsersAndGroups|survey users]] who are authorized to take this survey. If no users are listed, any user can take this survey.
+All [survey users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyUsersAndGroups.md) who are authorized to take this survey. If no users are listed, any user can take this survey.
 
 </td></tr><tr><td>
 
-[[c_AssessmentInstances|Assessment Instances]]
+Assessment Instances
 
 </td><td>
 
-All [[t_ViewSurveyInstance|survey instances]] for this survey. Configure the form to add this related list to see it.
+All [survey instances](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewSurveyInstance.md) for this survey. Configure the form to add this related list to see it.
 
  **Note:** If you add a related list to the form, use list control to omit the **New** button. The system generates survey instances to produce functional surveys.
 
@@ -369,35 +369,14 @@ Recipients lists that are added to the survey.
 </table>4.  Save the record.
 
 
-**Parent Topic:**[[c_SurveyDefinitions|Survey definitions]]
+**Parent Topic:**[Survey definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyDefinitions.md)
 
 **Related topics**  
 
 
-[[c_TriggerConditions|Survey trigger conditions]]
+[Survey trigger conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_TriggerConditions.md)
 
-[[t_PublishASurvey|Publish a survey]]
+[Publish a survey](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_PublishASurvey.md)
 
 [Event scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ScheduleEvents.md)
 
-## Related
-
-- [[survey-virtual-agent|Surveys in ITSM Virtual Agent]]
-- [[c_SurveyResults|Survey responses and results]]
-- [[t_ViewAScorecard|View a survey scorecard]]
-- [[c_SurveyURLs|Survey URLs]]
-- [[c_SurveyCategory|Survey categories]]
-- [[c_SurveyUsersAndGroups|Survey users and groups]]
-- [[t_ViewSurveyInstance|View a survey instance]]
-- [[c_SurveyDefinitions|Survey definitions]]
-- [[c_TriggerConditions|Survey trigger conditions]]
-- [[t_PublishASurvey|Publish a survey]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[check-box|Check box]]
-- [[r_Assessments|Assessments]]
-- [[email|Email]]
-- [[html|HTML]]
-- [[c_SurveyQuestion|Survey questions]]
-- [[outlook-actionable-messages|Outlook Actionable Messages]]
-- [[c_SurveyQuestionnairesForUsers|Survey questionnaires]]
-- [[c_AssessmentInstances|Assessment instances]]

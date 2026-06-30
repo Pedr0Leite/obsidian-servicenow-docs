@@ -24,7 +24,7 @@ Consider scheduling the update job to run during non-business hours to minimize 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System [[c_DataManagement|Data Management]]** &gt; **Update jobs**.
+1.  Navigate to **All** &gt; **System Data Management** &gt; **Update jobs**.
 
 2.  Select an update job record.
 
@@ -58,20 +58,14 @@ Description
 1.  Select **Execute Now** to run the update job immediately.
 2.  When prompted, select **Proceed** to update the records now.
 3.  On the Progress page, select **Cancel** to stop the job from continuing to run.
-4.  Select **Check execution [[hs-results|results]]** to return to the update job form.
+4.  Select **Check execution results** to return to the update job form.
 
 
 </td></tr></tbody>
 </table>
 ## Result
 
-The records are scheduled for update or updated immediately. If you want to revert the updates to the records, see [[rollback-update-job|Rollback an update job]].
+The records are scheduled for update or updated immediately. If you want to revert the updates to the records, see [Rollback an update job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/rollback-update-job.md).
 
-**Parent Topic:**[[updating-records-safely|Updating records safely in Core UI]]
+**Parent Topic:**[Updating records safely in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/updating-records-safely.md)
 
-## Related
-
-- [[rollback-update-job|Rollback an update job]]
-- [[updating-records-safely|Updating records safely in Core UI]]
-- [[c_DataManagement|Data Management]]
-- [[hs-results|Results]]

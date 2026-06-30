@@ -14,7 +14,7 @@ breadcrumb: [Time Sheets, Time Card management, Working with Task table, Table a
 
 # Submit a time sheet
 
-Once the time sheet is updated with [[c_TimeWorked|time worked]], you can submit the time sheet for the week to submit all the [[c_TimeCards|time cards]] for the week together.
+Once the time sheet is updated with time worked, you can submit the time sheet for the week to submit all the time cards for the week together.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ When a user submits a time sheet, the [time sheet policy](https://raw.githubuser
 
 1.  Navigate to the time sheet using one of the following options:
 
-    -   To submit a time sheet in the Pending state, navigate to**[[time-sheets|Time Sheets]]** &gt; **My Time Sheets** &gt; **Pending**.
+    -   To submit a time sheet in the Pending state, navigate to**Time Sheets** &gt; **My Time Sheets** &gt; **Pending**.
     -   To submit the time sheet for the current week, navigate to **Time Sheets** &gt; **My Time Sheets** &gt; **Current Time Sheet**.
     -   To submit a time sheet in the Rejected state, **Time Sheets** &gt; **My Time Sheets** &gt; **Rejected**. You can make required changes as suggested in the rejection comments to resubmit a rejected time sheet.
 2.  To submit in the Time Sheets list, open the time sheet.
@@ -47,8 +47,3 @@ When a user submits a time sheet, the [time sheet policy](https://raw.githubuser
 
 **Parent Topic:**[Time Sheets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/time-sheets.md)
 
-## Related
-
-- [[c_TimeWorked|Time worked]]
-- [[c_TimeCards|Time cards]]
-- [[time-sheets|Time Sheets]]

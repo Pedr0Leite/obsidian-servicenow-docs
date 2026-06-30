@@ -13,11 +13,11 @@ breadcrumb: [Configure action buttons, Declarative actions, Administer, Configur
 
 # Configure a declarative action with the Now Assist icon
 
-[[configure-onboarding-modals|Configure]] a declarative action button with the Now Assist icon \(\[Omitted image "icon-ai-sparkle.png"\]\) and hover animation.
+Configure a declarative action button with the Now Assist icon \(\[Omitted image "icon-ai-sparkle.png"\]\) and hover animation.
 
 ## Before you begin
 
-Create a declarative action and add the button to a workspace. For instructions, see [[creating-declarative-actions|Creating declarative action buttons]].
+Create a declarative action and add the button to a workspace. For instructions, see [Creating declarative action buttons](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/creating-declarative-actions.md).
 
 Role required: admin
 
@@ -41,7 +41,4 @@ The Now Assist icon \(\[Omitted image "icon-ai-sparkle.png"\]\) with hover anima
 
 5.  Select **Update**.
 
-## Related
 
-- [[creating-declarative-actions|Creating declarative action buttons]]
-- [[configure-onboarding-modals|Configure]]

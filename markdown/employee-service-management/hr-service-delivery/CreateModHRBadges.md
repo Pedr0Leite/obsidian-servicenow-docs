@@ -29,12 +29,12 @@ Custom badges only appear for specif .
 
 -   The base system provides defaults and is configurable.
 -   On the **HR Ticket** page, you can filter to-dos based on badges.
--   Defaults are added to [[hr-service-administration|HR services]].
--   Can be overridden on an [[activity-lxp|Activity]].
+-   Defaults are added to HR services.
+-   Can be overridden on an Activity.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **Badges**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **Badges**.
 
 2.  Click **New** or open a record.
 
@@ -50,8 +50,3 @@ Custom badges only appear for specif .
 
 **Parent Topic:**[HR Administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_AdministerHRServiceManagement.md)
 
-## Related
-
-- [[hr-service-administration|HR services]]
-- [[activity-lxp|Activity]]
-- [[c_AdministerHRServiceManagement|HR Administration]]

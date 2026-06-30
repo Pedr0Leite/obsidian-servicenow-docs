@@ -15,7 +15,7 @@ breadcrumb: [Configure the manage alerts autonomously agentic workflow, Configur
 
 # Configure the Google Gemini Cloud Assist agent
 
-Configure the Google Gemini Cloud Assist agent to use the Gemini Cloud Assistant observability skill in the [[itom-autonomous-operator-workflow|manage alerts autonomously agentic workflow]]. Once configured, the skill gathers information to help you investigate alerts.
+Configure the Google Gemini Cloud Assist agent to use the Gemini Cloud Assistant observability skill in the manage alerts autonomously agentic workflow. Once configured, the skill gathers information to help you investigate alerts.
 
 ## Before you begin
 
@@ -64,6 +64,3 @@ To learn more about using the Google Gemini Cloud Assist agent in the manage ale
 
 **Parent Topic:**[Configure the manage alerts autonomously agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/configure-manage-alerts-autonomously-workflow.md)
 
-## Related
-
-- [[itom-autonomous-operator-workflow|Manage alerts autonomously agentic workflow]]

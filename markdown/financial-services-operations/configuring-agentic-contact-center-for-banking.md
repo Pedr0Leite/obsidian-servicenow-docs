@@ -17,7 +17,7 @@ Configure Agentic Contact Center for Banking by integrating your CCaaS provider,
 
 ## Configuration overview
 
--   [[install-agentic-contact-center-for-banking|Install Agentic Contact Center for Banking]]
+-   [Install Agentic Contact Center for Banking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/install-agentic-contact-center-for-banking.md)
 
     Install the application.
 
@@ -31,7 +31,7 @@ Configure Agentic Contact Center for Banking by integrating your CCaaS provider,
 
     **Note:** The Wrap Up Completion skill is dependent on Now Assist for Customer Service Management \(CSM\).
 
--   [[configure-ai-indexing-fso-contact-center|Configure AI indexing for Agentic Contact Center for Banking]]
+-   [Configure AI indexing for Agentic Contact Center for Banking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-ai-indexing-fso-contact-center.md)
 
     Configure AI indexing for the sources that the AI skills and agents use to retrieve data and perform analysis.
 
@@ -63,10 +63,5 @@ If you have the admin role, you can install the Agentic Contact Center for Banki
 -   **[Configure AI indexing for Agentic Contact Center for Banking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-ai-indexing-fso-contact-center.md)**  
 Configure AI indexing to enable intelligent search capabilities across financial accounts, cases, and customer interactions in Agentic Contact Center for Banking.
 
-**Parent Topic:**[[agentic-contact-center-for-banking-landing|Agentic Contact Center for Banking]]
+**Parent Topic:**[Agentic Contact Center for Banking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/agentic-contact-center-for-banking-landing.md)
 
-## Related
-
-- [[install-agentic-contact-center-for-banking|Install Agentic Contact Center for Banking]]
-- [[configure-ai-indexing-fso-contact-center|Configure AI indexing for Agentic Contact Center for Banking]]
-- [[agentic-contact-center-for-banking-landing|Agentic Contact Center for Banking]]

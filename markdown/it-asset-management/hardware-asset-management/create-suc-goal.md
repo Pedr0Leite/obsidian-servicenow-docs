@@ -14,7 +14,7 @@ breadcrumb: [Assess performance of Hardware Asset Management, Use, Hardware Asse
 
 # Create a success goal for Hardware Asset Management
 
-Create a success goal to track the success of the [[ham-landing-page|Hardware Asset Management]] application in your instance.
+Create a success goal to track the success of the Hardware Asset Management application in your instance.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: ham\_admin
 
 1.  Navigate to one of the following paths.
 
-    -   **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Success portal**
+    -   **Hardware Asset Workspace** &gt; **Success portal**
     -   **Hardware Asset Workspace** &gt; **Asset operations** &gt; **Success goals**
 2.  Select **Create success goal** or **New**.
 
@@ -39,12 +39,7 @@ Role required: ham\_admin
 
 ## Result
 
-The success goal that you created gets displayed on the Success goals page in the [[asset-operations-view|Asset operations view]].
+The success goal that you created gets displayed on the Success goals page in the Asset operations view.
 
 **Parent Topic:**[Assess performance of Hardware Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/suc-goal-act-hw.md)
 
-## Related
-
-- [[ham-landing-page|Hardware Asset Management]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[asset-operations-view|Asset operations view]]

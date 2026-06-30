@@ -63,8 +63,5 @@ You can receive notifications when your manager makes a schedule plan available 
     All shifts you have added for sign up will be submitted.
 
 
-**Parent Topic:**[[scheduling-configurable-wfo-cs|Scheduling in Workforce Optimization for Customer Service]]
+**Parent Topic:**[Scheduling in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/scheduling-configurable-wfo-cs.md)
 
-## Related
-
-- [[scheduling-configurable-wfo-cs|Scheduling in Workforce Optimization for Customer Service]]

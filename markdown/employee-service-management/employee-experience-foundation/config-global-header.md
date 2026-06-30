@@ -14,7 +14,7 @@ breadcrumb: [Admin configurations, Configuring Employee Center, Employee Center,
 
 # Employee Center global header
 
-The global header is the first row in the [[employee-center-landing-page|Employee Center]] portal header. The global header contains menus that enable you to navigate to the My To-dos page, My Requests page, More menu, user profile, and Tours.
+The global header is the first row in the Employee Center portal header. The global header contains menus that enable you to navigate to the My To-dos page, My Requests page, More menu, user profile, and Tours.
 
 \[Omitted image "global-header-menus.png"\] Alt text: Globar header in the Employee Center
 
@@ -99,6 +99,3 @@ Opens guides tours that demonstrate how to use a feature. For example, an admini
 
 **Note:** For performance reasons, the header request count for My Requests is disabled by default.
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

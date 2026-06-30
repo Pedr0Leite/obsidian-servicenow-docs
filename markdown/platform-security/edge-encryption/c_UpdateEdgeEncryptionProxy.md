@@ -14,7 +14,7 @@ breadcrumb: [Edge Encryption, Encryption]
 
 # Upgrading Edge Encryption
 
-Both instance upgrades and proxy server upgrades require special consideration in an [[edge-encryption|Edge Encryption]] environment.
+Both instance upgrades and proxy server upgrades require special consideration in an Edge Encryption environment.
 
 ## Instance upgrades
 
@@ -44,7 +44,7 @@ Third party libraries, such as Gemalto, are lost during instance and proxy serve
 
 1.  Manually add the following property to edgeencryption.properties:
 
-    `edgeencryption.ekm.provider.classname = com.snc.edgeencryption.[[encryption-landing|encryption]].CloudEdgeNaeKeyProvider`
+    `edgeencryption.ekm.provider.classname = com.snc.edgeencryption.encryption.CloudEdgeNaeKeyProvider`
 
 2.  Add the **edgeencryption.thirdparty.vendor.library.path** vendor library location property and set it to `/path/to/jars`.
 
@@ -66,19 +66,19 @@ Schedule an upgrade to allow the instance to upgrade the proxy server at the sch
 2.  The administrator receives a notification upon logging in when a new version of the proxy server is available.
 3.  The administrator can [Schedule an Edge Encryption proxy server upgrade](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/schedule-proxy-upgrade.md) for each proxy server.
 
-    **Note:** Only [[users|users]] with the [[security-admin-role|security\_admin role]] can create an upgrade schedule through the proxy server.
+    **Note:** Only users with the security\_admin role can create an upgrade schedule through the proxy server.
 
 4.  Once the upgrade is scheduled, the proxy server automatically upgrades at the scheduled time. During the upgrade, the proxy server is offline for only a short time.
 
     **Note:** Because the proxy server restarts during the upgrade, it is offline for a short time. The amount of time is determined by your environment and how long it takes to stop and restart the proxy service.
 
-5.  During the scheduled upgrade, a new proxy directory is created and your [[sc-configuration|configuration]] files are copied to the new directory. New properties are written to your existing properties file. The following files or directories in your old proxy directory are copied to the new proxy directory.
+5.  During the scheduled upgrade, a new proxy directory is created and your configuration files are copied to the new directory. New properties are written to your existing properties file. The following files or directories in your old proxy directory are copied to the new proxy directory.
 
     -   `/conf` directory
     -   `/keys` directory
     -   `/keystore` directory
     -   `java/jre/lib/security/cacerts` file
-    As a result, your keys, keystores, settings, and [[c_Certificates|certificates]] are preserved.
+    As a result, your keys, keystores, settings, and certificates are preserved.
 
     **Note:** Only the above files are copied to the new proxy directory. Any other customized files in the proxy server directory are not preserved during a scheduled upgrade. The upgrade log file can be found in the original proxy directory in the following folder: `<original-proxy-directory>/tmp/upgrade-wrapper/bin`.
 
@@ -152,11 +152,3 @@ If a proxy upgrade is unsuccessful, you can go back to the earlier version.
 
 **Parent Topic:**[Edge Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/edge-encryption.md)
 
-## Related
-
-- [[edge-encryption|Edge Encryption]]
-- [[encryption-landing|Encryption]]
-- [[users|Users]]
-- [[security-admin-role|Security\_admin role]]
-- [[sc-configuration|Configuration]]
-- [[c_Certificates|Certificates]]

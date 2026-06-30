@@ -14,7 +14,7 @@ breadcrumb: [ACC deployment - servers, Configuring Agent Client Collector, Agent
 
 # Agent Client Collector Discovery
 
-Discover CIs in your environment by using [[acc-landing-page|Agent Client Collector]] for Visibility - Content \(ACC-VC\) [[r-discovery|Discovery]]. ACC-VC works with both horizontal IP-based Discovery, and you can also use push-based Discovery.
+Discover CIs in your environment by using Agent Client Collector for Visibility - Content \(ACC-VC\) Discovery. ACC-VC works with both horizontal IP-based Discovery, and you can also use push-based Discovery.
 
 -   **[Using push-based Discovery and horizontal IP-based Discovery together](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/using-enhanced-discovery-and-agent-less-discovery-together.md)**  
 Discovery performed by Agent Client Collector for Visibility - Content \(ACC-VC\) is compatible and can coexist with horizontal IP-based Discovery. You may have ACC installed on a given target host and still have that host as part of a horizontal IP-based Discovery schedule as well.
@@ -27,12 +27,7 @@ To update the Assigned To attribute of the Computer CI, you need to collect info
 -   **[Populating users based on type for Agent Client Collector for Visibility - Content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/filter-list-of-users-for-acc-v.md)**  
 You can persist the type of users that populate the CMDB depending on your particular interests. Currently, local and system are supported for Windows, Linux, and macOS.
 -   **[License key discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/license-key-discovery.md)**  
-[[license-key-discovery|License key discovery]] in Agent Client Collector for Visibility - Content automatically collects software license keys from the Windows registry on managed endpoints.
+License key discovery in Agent Client Collector for Visibility - Content automatically collects software license keys from the Windows registry on managed endpoints.
 
 **Parent Topic:**[Deploying Agent Client Collector on servers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-server-deployment.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[r-discovery|Discovery]]
-- [[license-key-discovery|License key discovery]]

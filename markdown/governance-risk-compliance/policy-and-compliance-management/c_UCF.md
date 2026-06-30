@@ -51,7 +51,7 @@ Set the property as false and import the UCF content in multiple shared list. If
 
 ## UCF and GRC terminology differences
 
-Authority documents in the UCF content are organized and mapped to their proper citations, which in turn are mapped to a common set of controls. The [[tprm-terminology|terminology]] between UCF and the GRC applications differs slightly as explained in the following table.
+Authority documents in the UCF content are organized and mapped to their proper citations, which in turn are mapped to a common set of controls. The terminology between UCF and the GRC applications differs slightly as explained in the following table.
 
 |UCF|GRC application|
 |---|---------------|
@@ -66,6 +66,3 @@ In order for compliance managers to download UCF authority documents from the UC
 
 **Parent Topic:**[Configure the UCF integration using the UCF Common Controls Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/configure-UCF-integration.md)
 
-## Related
-
-- [[tprm-terminology|Terminology]]

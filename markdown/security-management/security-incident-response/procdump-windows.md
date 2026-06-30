@@ -35,8 +35,6 @@ Role required: sn\_si.analyst
 
 4.  Select the check boxes for the running processes you want to perform a procdump for, click the Actions on selected rows drop-down list at the bottom of the list, and click **Run Procdump**.
 
-    An **Initiated prodump workflow for selected process** message appears at the top of the list, and the **[[sir-landing-page|Security Incident Response]] - Run procdump** workflow executes.
+    An **Initiated prodump workflow for selected process** message appears at the top of the list, and the **Security Incident Response - Run procdump** workflow executes.
 
-## Related
 
-- [[sir-landing-page|Security Incident Response]]

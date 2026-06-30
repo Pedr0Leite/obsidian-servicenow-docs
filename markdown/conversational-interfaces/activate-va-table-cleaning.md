@@ -14,7 +14,7 @@ breadcrumb: [Data management in Conversational Interfaces, Conversational Interf
 
 # Activate table cleaning for Virtual Agent tables
 
-Activate table cleaning for certain tables used in [[virtual-agent-landing-page|Virtual Agent]] and [[convint-landing-page|Conversational Interfaces]].
+Activate table cleaning for certain tables used in Virtual Agent and Conversational Interfaces.
 
 ## Before you begin
 
@@ -85,10 +85,5 @@ Condition builder for specifying filter conditions that define the records to be
     The Table Cleaner scheduled job automatically runs the cleaner when the table records meet the specified record age and any conditions that you set for them.
 
 
-**Parent Topic:**[[va-data-mgmt|Data management in Conversational Interfaces]]
+**Parent Topic:**[Data management in Conversational Interfaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/va-data-mgmt.md)
 
-## Related
-
-- [[va-data-mgmt|Data management in Conversational Interfaces]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]

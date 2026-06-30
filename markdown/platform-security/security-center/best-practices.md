@@ -14,7 +14,7 @@ breadcrumb: [Security Best Practices, Security posture console, Security Center,
 
 # Best Practices
 
-Learn details about the Best Practices in the [[sc-posture-console|Security Posture Console]].
+Learn details about the Best Practices in the Security Posture Console.
 
 <table id="table_bmy_gzy_fgc"><thead><tr><th>
 
@@ -30,11 +30,11 @@ Activate the ServiceNow Access Control plugin
 
 </td><td>
 
-Use the ServiceNow Access Control plugin to control which employees can access your instance, and when. Enforcing a default deny posture for all [[users|users]] except those users you specify. This can include ServiceNow employees. Using this plugin helps prevent unwanted access to your instance.
+Use the ServiceNow Access Control plugin to control which employees can access your instance, and when. Enforcing a default deny posture for all users except those users you specify. This can include ServiceNow employees. Using this plugin helps prevent unwanted access to your instance.
 
- **Note:** After ServiceNow Access Control is activated, personnel must explicitly [[c_requestAPI|request]] access from you on an ad-hoc and temporary basis.
+ **Note:** After ServiceNow Access Control is activated, personnel must explicitly request access from you on an ad-hoc and temporary basis.
 
- For details on this plugin, see [[c_SNCAccessControl|ServiceNow access control]].
+ For details on this plugin, see [ServiceNow access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_SNCAccessControl.md).
 
 </td></tr><tr><td>
 
@@ -70,13 +70,13 @@ Verify that browsers that connect to your instance are using the more secure Tra
 
 </td></tr><tr><td>
 
-Configure your [[email|email]] systems to accept mail from your instance by using SPF
+Configure your email systems to accept mail from your instance by using SPF
 
 </td><td>
 
 If your organization uses Sender Policy Framework \(SPF\) to control inbound email with anti-spam technology, you must configure it to accept email originating from your instance. Configure SPF to query the SPF records dynamically.
 
- If SPF isn’t an option, another approach is to add the mail server IP addresses to your allow list. This [[sc-configuration|configuration]] must be monitored as the addresses could be subject to change.
+ If SPF isn’t an option, another approach is to add the mail server IP addresses to your allow list. This configuration must be monitored as the addresses could be subject to change.
 
  For steps and additional details on these solutions, see [KB0535456](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0535456)
 
@@ -88,7 +88,7 @@ Consider limiting file attachments, uploads, and downloads
 
 Restrict attachment uploads by role, file extension, MIME type, or size to help prevent potentially malicious files being stored and delivered from your instance. You can also control which file types can be downloaded, including by MIME type, and prevent image access by unauthenticated users.
 
- These attachment restrictions are controlled by [[ca-system-properties|system properties]] on your instance. For details on their configuration, see [Configure attachment system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_DisablingTheDragAndDropFeature.md).
+ These attachment restrictions are controlled by system properties on your instance. For details on their configuration, see [Configure attachment system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_DisablingTheDragAndDropFeature.md).
 
 </td></tr><tr><td>
 
@@ -102,11 +102,11 @@ Prevent SQL error messages from being presented in the web browser. Though usefu
 
 </td></tr><tr><td>
 
-[[sc-disable-password-less-authentication|Disable password-less authentication]]
+Disable password-less authentication
 
 </td><td>
 
-Help ensure strong [[c_Authentication|authentication]] by disabling password-less authentication when possible. Without disabling password-less authentication, potential attackers could gain access to your instance by correctly guessing a user name \(such as firstname.lastname or a role title\).
+Help ensure strong authentication by disabling password-less authentication when possible. Without disabling password-less authentication, potential attackers could gain access to your instance by correctly guessing a user name \(such as firstname.lastname or a role title\).
 
  You can disable password-less authentication on your instance using a system property. For details on this property see [Disable password-less authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-disable-password-less-authentication.md).
 
@@ -118,9 +118,9 @@ Enable table auditing for important or sensitive data
 
 Track changes to your data using table auditing. Auditing tracks the creation, update, and deletion of all records in the table where it’s enabled, enabling admins to track changes to important or sensitive data. Admins can also choose to select specific fields in a table for auditing to see more targeted results or to reduce performance impact.
 
- For details on auditing on instances, see [[c_AuditedTables|Auditing]].
+ For details on auditing on instances, see [Auditing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_AuditedTables.md).
 
- For specific instructions on enabling auditing on a table, see [[t_EnableAuditingForATable|Configuring auditing for a table]].
+ For specific instructions on enabling auditing on a table, see [Configuring auditing for a table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_EnableAuditingForATable.md).
 
 </td></tr><tr><td>
 
@@ -130,9 +130,9 @@ Encrypt data at rest within the instance
 
 Encrypt your data to maintain its confidentiality and integrity. Data on your instance can be within the database. You can also elect to subscribe to functionality to encrypt the data volume transparently on the backend. The physical disks on which the instance runs can also be encrypted in their entirety to guard data in case of their loss or theft.
 
- You can use different methods of [[encryption-landing|encryption]] simultaneously for data stored in your instance, depending on your use case and the risks you wish to mitigate. For example, you can choose to transparently encrypt your data at rest using [[db-full-disk-encryption|database encryption]] on most tables, cloud encryption on the entire data volume. You could also use full disk hardware encryption, which also requires a dedicated environment to protect against drive or server theft.
+ You can use different methods of encryption simultaneously for data stored in your instance, depending on your use case and the risks you wish to mitigate. For example, you can choose to transparently encrypt your data at rest using database encryption on most tables, cloud encryption on the entire data volume. You could also use full disk hardware encryption, which also requires a dedicated environment to protect against drive or server theft.
 
- Review the encryption options available with in [[encryption|Key Management Framework]].
+ Review the encryption options available with in [Key Management Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/encryption.md).
 
 </td></tr><tr><td>
 
@@ -140,9 +140,9 @@ Enforce the use of strong passphrases
 
 </td><td>
 
-Use password [[ca-policies|policies]] to enforce the length, complexity, expiration, uniqueness, lockout, and more for native and local accounts on your instance. Use these policies to maximize security, encourage the adoption of long passphrases and help to eliminate the use of simple passwords.
+Use password policies to enforce the length, complexity, expiration, uniqueness, lockout, and more for native and local accounts on your instance. Use these policies to maximize security, encourage the adoption of long passphrases and help to eliminate the use of simple passwords.
 
- You can retain your existing policies for any external authentication services you have integrated, such as LDAP or [[c_SAML2.0WebBrowserSSOProfile|SAML]].
+ You can retain your existing policies for any external authentication services you have integrated, such as LDAP or SAML.
 
  For details on password policy configuration, see [Configure your password policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/set-your-password-policy.md).
 
@@ -172,7 +172,7 @@ Ensure that the High Security plugin is installed and activated
 
 </td><td>
 
-Use the High Security plugin \(HSP\) to enhance security management and applying appropriate settings. [[c_HighSecuritySettings|High Security Settings]] provides a central location for security settings, creates a distinct security administrator role, a [[c_DefaultDenyProperty|default deny property]], and other important security features.
+Use the High Security plugin \(HSP\) to enhance security management and applying appropriate settings. High Security Settings provides a central location for security settings, creates a distinct security administrator role, a default deny property, and other important security features.
 
  HSP is installed and enabled by default on all new instances. You can request HSP activation for older instances, including instances that have had upgrades from an older version. Enabling HSP should be done only after careful testing in a non-production environment, as activation changes some fundamental properties and behaviors.
 
@@ -190,7 +190,7 @@ Security information constantly evolves, so it's crucial to stay updated with se
 
  -   [CORE Directory: ServiceNow CORE Compliance Portal](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0959484)
 -   [Securing the ServiceNow AI Platform: How ServiceNow protects customer data](https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/doc-type/resource-center/ebook/ebk-how-servicenow-delivers-safe-and-secure-cloud-services.pdf)
--   [[platsec-landing|Secure your instance]]
+-   [Secure your instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platsec-landing.md)
 
 </td></tr><tr><td>
 
@@ -198,11 +198,11 @@ Harden your Instance
 
 </td><td>
 
-Use the [[sec-center-v2|Security Center]] Hardening tool to reduce risk by limiting weaknesses that could be exploited, and implement recommended settings to secure your instance further.
+Use the Security Center Hardening tool to reduce risk by limiting weaknesses that could be exploited, and implement recommended settings to secure your instance further.
 
  Learn more about Security Center at [Security Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sec-center-v2.md).
 
- Review the available [[security-hardening-settings|hardening settings]] at [Hardening settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/security-hardening-settings.md).
+ Review the available hardening settings at [Hardening settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/security-hardening-settings.md).
 
 </td></tr><tr><td>
 
@@ -222,7 +222,7 @@ Integrate with MFA
 
 </td><td>
 
-Integrate third-party [[mfa-landing|multi-factor authentication]] \(MFA\) with your existing SAML IdP to provide additional login security. MFA provides a high level of security because authentication requires multiple [[authentication-factors|authentication factors]]. Something the user knows \(the password\) as well as something they own \(a one-time code, mobile phone, or biometric attributes, such as a fingerprint\).
+Integrate third-party multi-factor authentication \(MFA\) with your existing SAML IdP to provide additional login security. MFA provides a high level of security because authentication requires multiple authentication factors. Something the user knows \(the password\) as well as something they own \(a one-time code, mobile phone, or biometric attributes, such as a fingerprint\).
 
  Learn more about MFA integration at [Multi-factor authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-landing.md).
 
@@ -234,17 +234,17 @@ Limit accepted email sender domains
 
 Control which domains and users your instance can communicate with via email by using system address filters. These filters can be customized to your requirements.
 
- Learn how to configure trusted domains at [[designate-untrusted-trusted-email-domains|Designate email domains as untrusted or trusted]].
+ Learn how to configure trusted domains at [Designate email domains as untrusted or trusted](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/designate-untrusted-trusted-email-domains.md).
 
 </td></tr><tr><td>
 
-Monitor important [[logs|logs]] to help identify any suspicious or malicious activity
+Monitor important logs to help identify any suspicious or malicious activity
 
 </td><td>
 
 The system logs module provides a variety of logs that you can use to troubleshoot and debug transactions and events that take place within the instance.
 
--   **[[r_EventLogs|Event logs]]**
+-   **Event logs**
 
 Event logs reveal much about system activity, including login events \(successful or otherwise\), and privilege escalation.
 
@@ -255,7 +255,7 @@ System logs contain extensive information about general activity, including conf
 
 **Note:** The Event and System logs can also be used to provide an audit trail of any activity by personnel.
 
--   **[[r_TransactionLogs|Transaction logs]]**
+-   **Transaction logs**
 
 Transaction logs record all web browser-related activity for an instance and can provide details of every request made. Transaction logs can be useful for identifying unusual or malicious activity.
 
@@ -263,7 +263,7 @@ Transaction logs record all web browser-related activity for an instance and can
 
 Enable auditing for database tables. Record history is perpetual and enables you to track and view details of any changes made to the data since its creation. By default, only the incident, problem, and change tables are tracked. For other tables, auditing must be enabled manually.
 
--   **[[r_ImportLogs|Import logs]]**
+-   **Import logs**
 
 You can view detailed information related to data import activity into your instance by checking the import logs. These logs include information about source and status, time, and so on
 
@@ -272,7 +272,7 @@ You can view detailed information related to data import activity into your inst
 These show REST and SOAP request activity and can help you to track the volume and destination of connections to external services.
 
 
- Learn more about system logs in [[system-logs|System logs]].
+ Learn more about system logs in [System logs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/system-logs.md).
 
 </td></tr><tr><td>
 
@@ -286,11 +286,11 @@ Monitor for unusual activity such as high numbers of failed logins, especially w
 
 </td></tr><tr><td>
 
-[[instance-sec-center-event-ribbon|Monitor security events]]
+Monitor security events
 
 </td><td>
 
-Review the **My [[sc-metrics|security metrics]] dashboard** to see the available security metrics for your instance, and set thresholds to generate email notifications for notable activity. Examples of notable activity can include:
+Review the **My security metrics dashboard** to see the available security metrics for your instance, and set thresholds to generate email notifications for notable activity. Examples of notable activity can include:
 
  -   **Privilege escalation**
 
@@ -311,7 +311,7 @@ Monitor your instance’s Hardening Compliance level
 
 </td><td>
 
-Ensure that your instances are in compliance with the latest [[sc-hardening|security hardening]] [[ca-metrics|metrics]] using the Hardening tool in Security Center. Access this tool in a non-production instance assess impact to your environment. Ideally, the score should be as close to 100% as possible with a minimum score of 83%, without affecting product functionality.
+Ensure that your instances are in compliance with the latest security hardening metrics using the Hardening tool in Security Center. Access this tool in a non-production instance assess impact to your environment. Ideally, the score should be as close to 100% as possible with a minimum score of 83%, without affecting product functionality.
 
  Learn more about Security Center's hardening settings tool at [Hardening settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/security-hardening-settings.md).
 
@@ -325,7 +325,7 @@ Help to ensure that your instance is secure and resistant to unauthorized access
 
 </td></tr><tr><td>
 
-Remove the ‘[[c_ChSetRemMeChkbxCookie|Remember Me]]’ check box
+Remove the ‘Remember Me’ check box
 
 </td><td>
 
@@ -369,16 +369,16 @@ Transfer log data from the instance for archival and reference
 
 </td><td>
 
-Archive your log data to retain it beyond the default 21-day log rotation period. This archival can be achieved using web services requests, the data [[export|export]] feature, the MID Server, or the Log Export Service from the Vault package.
+Archive your log data to retain it beyond the default 21-day log rotation period. This archival can be achieved using web services requests, the data export feature, the MID Server, or the Log Export Service from the Vault package.
 
  Use the following resources to learn more about these methods:
 
  -   [Web services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/r_AvailableWebServices.md)
--   [[les-landing-page|Exploring Log Export Service \(LES\)]]
+-   [Exploring Log Export Service \(LES\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/les-landing-page.md)
 
 </td></tr><tr><td>
 
-Use encryption modules with RBAC to further enhance data [[sc-access-control|access control]]
+Use encryption modules with RBAC to further enhance data access control
 
 </td><td>
 
@@ -390,7 +390,7 @@ Learn how to use the Key Management Framework \(KMF\) to protect the data on you
 
 </td></tr><tr><td>
 
-Use of [[certificate-based-authentication|certificate-based authentication]] with integration providers
+Use of certificate-based authentication with integration providers
 
 </td><td>
 
@@ -408,7 +408,7 @@ Integrate third-party multi-factor authentication \(MFA\) with your existing SAM
 
  ServiceNow supports direct MFA integration with local accounts, LDAP, SSO with SAML, OIDC, or Digest.
 
- [[adaptive-authentication|Adaptive Authentication]] is a prerequisite for SSO with MFA.
+ Adaptive Authentication is a prerequisite for SSO with MFA.
 
  MFA can be enabled for specified users and specified roles, and configured for ease of use. For example you can exempt recognized devices for a number of hours.
 
@@ -425,9 +425,9 @@ Use the email filters feature set to deal with suspect inbound messages
 
 </td><td>
 
-Create email filters to filter out messages marked as suspicious by ServiceNow [[antivirus|Antivirus]] Protection. In addition to virus protection, Antivirus Protection analyzes email for malware and SPAM, scoring and the results adding this information to the message in x-headers. You can use these headers as criteria for the Email Filters Plugin to act on if desired.
+Create email filters to filter out messages marked as suspicious by ServiceNow Antivirus Protection. In addition to virus protection, Antivirus Protection analyzes email for malware and SPAM, scoring and the results adding this information to the message in x-headers. You can use these headers as criteria for the Email Filters Plugin to act on if desired.
 
- Learn more about ServiceNow's antivirus feature at [[antivirus-protection|Antivirus Scanning]].
+ Learn more about ServiceNow's antivirus feature at [Antivirus Scanning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/antivirus-protection.md).
 
  Learn how to configure email filters on your instance at [Email filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailFilters.md).
 
@@ -451,64 +451,18 @@ Consider using your own \(or third-party\) infrastructure to send and receive in
 
  By using your own SMTP, POP3, or IMAP servers, you can control how mail is filtered and received before being sent to your instance.
 
-**Note:** Configuration of your own email infrastructure is considered an advanced email configuration, and can optionally use a third-party email infrastructure via [[c_OAuthApplications|OAuth 2.0]] email authentication. See your own email vendor documentation and instructions for details.
+**Note:** Configuration of your own email infrastructure is considered an advanced email configuration, and can optionally use a third-party email infrastructure via OAuth 2.0 email authentication. See your own email vendor documentation and instructions for details.
 
 </td></tr><tr><td>
 
-Validate access [[use-access-analyzer|using Access Analyzer]]
+Validate access using Access Analyzer
 
 </td><td>
 
-Use the ServiceNow [[access-analyzer|Access Analyzer]] tool to help you compare and analyze permissions for selected users, roles, or groups. You can use this information to troubleshoot access issues, identify who has access to your sensitive data, and determine the correct level of access for users on your instance.
+Use the ServiceNow Access Analyzer tool to help you compare and analyze permissions for selected users, roles, or groups. You can use this information to troubleshoot access issues, identify who has access to your sensitive data, and determine the correct level of access for users on your instance.
 
  Learn more about the benefits of Access Analyzer at [Exploring Access Analyzer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/explore-access-analyzer.md).
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Security Best Practices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/security-best-practices-manager.md)
 
-## Related
-
-- [[c_SNCAccessControl|ServiceNow access control]]
-- [[c_AuditedTables|Auditing]]
-- [[t_EnableAuditingForATable|Configuring auditing for a table]]
-- [[encryption|Key Management Framework]]
-- [[platsec-landing|Secure your instance]]
-- [[designate-untrusted-trusted-email-domains|Designate email domains as untrusted or trusted]]
-- [[system-logs|System logs]]
-- [[les-landing-page|Exploring Log Export Service \(LES\)]]
-- [[antivirus-protection|Antivirus Scanning]]
-- [[sc-posture-console|Security posture console]]
-- [[users|Users]]
-- [[c_requestAPI|request]]
-- [[email|Email]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]
-- [[sc-disable-password-less-authentication|Disable password-less authentication]]
-- [[c_Authentication|Authentication]]
-- [[encryption-landing|Encryption]]
-- [[db-full-disk-encryption|Database Encryption]]
-- [[ca-policies|Policies]]
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[c_HighSecuritySettings|High Security Settings]]
-- [[c_DefaultDenyProperty|Default deny property]]
-- [[sec-center-v2|Security Center]]
-- [[security-hardening-settings|Hardening settings]]
-- [[mfa-landing|Multi-factor authentication]]
-- [[authentication-factors|Authentication factors]]
-- [[logs|Logs]]
-- [[r_EventLogs|Event logs]]
-- [[r_TransactionLogs|Transaction logs]]
-- [[r_ImportLogs|Import logs]]
-- [[instance-sec-center-event-ribbon|Monitor security events]]
-- [[sc-metrics|Security metrics]]
-- [[sc-hardening|Security hardening]]
-- [[ca-metrics|Metrics]]
-- [[c_ChSetRemMeChkbxCookie|Remember me]]
-- [[export|Export]]
-- [[sc-access-control|Access control]]
-- [[certificate-based-authentication|Certificate-based authentication]]
-- [[adaptive-authentication|Adaptive authentication]]
-- [[antivirus|Antivirus]]
-- [[c_OAuthApplications|OAuth 2.0]]
-- [[use-access-analyzer|Using Access Analyzer]]
-- [[access-analyzer|Access Analyzer]]

@@ -14,7 +14,7 @@ breadcrumb: [User interface configuration, Working in Core UI, Configure UIs and
 
 The overview help feature included with the base system displays slides with introductory information on new features offered in the ServiceNow® platform. An administrator can hide the option from the help menu.
 
-To learn about the latest features in your version, click the **[[whats-new|What's New]]** link in the [[c_UI16|Core UI]] help sidebar.
+To learn about the latest features in your version, click the **What's New** link in the Core UI help sidebar.
 
 \[Omitted image "WhatsNewLink.png"\] Alt text: Overview help link
 
@@ -34,17 +34,10 @@ To find the property, type `sys_properties.list` in the application navigator. F
 
 \[Omitted image "WhatsNewHidden.png"\] Alt text: Help panel open with the What's New option hidden
 
--   **[[create-custom-overview-help-pages|Create custom overview help]]**  
+-   **[Create custom overview help](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/create-custom-overview-help-pages.md)**  
 You can edit existing overview help pages to display your own custom panels to selected users.
--   **[[example-add-slide-to-existing-page|Example of adding a panel to an existing overview help page]]**  
+-   **[Example of adding a panel to an existing overview help page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/example-add-slide-to-existing-page.md)**  
 This example adds panels to the existing overview help page that display only for users with specific roles and when a specific plugin is activated.
 
-**Parent Topic:**[[p_NavigationAndUIConfiguration|User interface configuration]]
+**Parent Topic:**[User interface configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/p_NavigationAndUIConfiguration.md)
 
-## Related
-
-- [[create-custom-overview-help-pages|Create custom overview help]]
-- [[example-add-slide-to-existing-page|Example of adding a panel to an existing overview help page]]
-- [[p_NavigationAndUIConfiguration|User interface configuration]]
-- [[whats-new|What's New]]
-- [[c_UI16|Core UI]]

@@ -81,7 +81,7 @@ Impacted KPIs
 
 </td><td>
 
-Select the KPIs most likely impacted by the findings. Choosing the affected KPIs enables you to assess the business impact. You can view the KPI-related findings in the Insights panel of the [[analyst-workbench-overview|Process Mining workspace]].
+Select the KPIs most likely impacted by the findings. Choosing the affected KPIs enables you to assess the business impact. You can view the KPI-related findings in the Insights panel of the Process Mining workspace.
 
 </td></tr><tr><td>
 
@@ -94,6 +94,3 @@ Select the field if you want this finding definition to be active. By default, i
 </td></tr></tbody>
 </table>**Parent Topic:**[Process Mining reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/process-mining-reference.md)
 
-## Related
-
-- [[analyst-workbench-overview|Process Mining workspace]]

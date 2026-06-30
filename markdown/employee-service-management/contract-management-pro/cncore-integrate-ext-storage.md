@@ -18,7 +18,7 @@ As a contract configurator, configure an external storage system to store signed
 
 ## About this task
 
-The following video walks you through the process of configuring external storage for [[cncore-cmpro-landing-page|Contract Management Pro]].\[Omitted video\] Description: Video explaining how to configure external storage for Contract Management Pro, approximately two minutes long.
+The following video walks you through the process of configuring external storage for Contract Management Pro.\[Omitted video\] Description: Video explaining how to configure external storage for Contract Management Pro, approximately two minutes long.
 
 ## Before you begin
 
@@ -171,6 +171,3 @@ For information on configuring electronic signature provider, see [Configure an 
 
 [Configure an e-signature provider]()
 
-## Related
-
-- [[cncore-cmpro-landing-page|Contract Management Pro]]

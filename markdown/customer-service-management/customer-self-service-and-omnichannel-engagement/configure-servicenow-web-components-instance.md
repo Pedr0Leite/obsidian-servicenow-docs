@@ -22,13 +22,13 @@ You must have the following setup to configure ServiceNow component instance:
 
 -   Enable Web Embeddables in your instance. For more information, see [Activate Web Embeddables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/act-web-embeddables.md)
 -   [Set up a custom URL as the instance URL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/set-up-custom-url.md)
--   Authenticate the [[servicenow-web-components-overview|ServiceNow components]] using OpenID Connect \(OIDC\) or non OIDC authentication. For more information, see [Authenticate the ServiceNow components using OIDC](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/authenticate-sn-webcomponents-oidc.md) and [Non OIDC authentication for ServiceNow components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/auth-sn-webcomponents-non-oidc.md).
+-   Authenticate the ServiceNow components using OpenID Connect \(OIDC\) or non OIDC authentication. For more information, see [Authenticate the ServiceNow components using OIDC](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/authenticate-sn-webcomponents-oidc.md) and [Non OIDC authentication for ServiceNow components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/auth-sn-webcomponents-non-oidc.md).
 
 Role required: sn\_embeddable\_core.emb\_admin
 
 ## About this task
 
-This procedure outlines the high-level steps that you must follow to [[set-up-web-embeddables|set up Web Embeddables]] component instance.
+This procedure outlines the high-level steps that you must follow to set up Web Embeddables component instance.
 
 ## Procedure
 
@@ -38,19 +38,19 @@ This procedure outlines the high-level steps that you must follow to [[set-up-we
 
     For more information on how to create a new module, see [Create a module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/create-we-module.md).
 
-3.  On the module page, in the Components tab, [[we-create-group-and-add-comp-instance|create a group and add a component instance]].
+3.  On the module page, in the Components tab, create a group and add a component instance.
 
-    For more information on how to [[create-a-group-so|create a group]] and then add a component instance, see [Create a group and add a component instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/we-create-group-and-add-comp-instance.md).
+    For more information on how to create a group and then add a component instance, see [Create a group and add a component instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/we-create-group-and-add-comp-instance.md).
 
 4.  Toggle the **Show static preview** option to see a visual representation of a component when a live preview isn’t available.
 
-    **Note:** The Show static preview option isn’t available for [[we-data-viz-comp-overview|Data visualization component]].
+    **Note:** The Show static preview option isn’t available for Data visualization component.
 
 5.  Configure the component instance properties.
 
     The Preview tab displays real-time data according to choices set in the component properties.
 
-6.  Select the **CORS [[gamification-components-rules|rules]]** tab to configure the CORS rules.
+6.  Select the **CORS rules** tab to configure the CORS rules.
 
     For more information about configuring CORS rules, see [Configure CORS \(Cross-Origin Resource Sharing\) rules before embedding ServiceNow components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/configure-cors-for-web-components.md).
 
@@ -81,11 +81,3 @@ The global and component codes are ready to be shared with the third-party admin
 
 [Embed ServiceNow components instance on the third-party website](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/embed-web-components-third-party-website.md)
 
-## Related
-
-- [[servicenow-web-components-overview|ServiceNow components]]
-- [[set-up-web-embeddables|Set up Web Embeddables]]
-- [[we-create-group-and-add-comp-instance|Create a group and add a component instance]]
-- [[create-a-group-so|Create a group]]
-- [[we-data-viz-comp-overview|Data visualization component]]
-- [[gamification-components-rules|Rules]]

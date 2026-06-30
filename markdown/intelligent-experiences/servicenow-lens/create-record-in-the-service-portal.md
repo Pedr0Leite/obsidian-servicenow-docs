@@ -14,7 +14,7 @@ breadcrumb: [Use, ServiceNow AI Lens, Enable AI experiences]
 
 # Autofill catalog item form in the Service Portal
 
-Use [[servicenow-lens-landing-page|ServiceNow AI Lens]] to extract data from artifacts and autofill catalog item forms in Service Portal. For example, autofill a new vendor onboarding form by extracting key details such as vendor name, address, contact email, and banking information from multiple artifacts, including Excel files, emails, images, and PDF documents.
+Use ServiceNow AI Lens to extract data from artifacts and autofill catalog item forms in Service Portal. For example, autofill a new vendor onboarding form by extracting key details such as vendor name, address, contact email, and banking information from multiple artifacts, including Excel files, emails, images, and PDF documents.
 
 ## Before you begin
 
@@ -131,7 +131,7 @@ The catalog item form is auto-filled.
 </td></tr></tbody>
 </table>10. In the catalog item request form, confirm that the catalog item form fields are correctly filled.
 
-    The fields that are auto-filled by [[platform-now-assist-landing|Now Assist]] are highlighted with the Sparkle icon \[Omitted image "lens-sp-sparkle-icon.png"\] Alt text: Service Portal AI Sparkle icon..
+    The fields that are auto-filled by Now Assist are highlighted with the Sparkle icon \[Omitted image "lens-sp-sparkle-icon.png"\] Alt text: Service Portal AI Sparkle icon..
 
     Only the field types that are supported by ServiceNow AI Lens get auto-populated with the extracted data. If the form doesn't have field types that are supported, then ServiceNow AI Lens won’t update the record. For more information about the supported fields, see [Field types supported](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/field-types-supported.md).
 
@@ -164,8 +164,3 @@ You can analyze the artifacts as many times as needed without reloading the form
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[servicenow-lens-landing-page|ServiceNow AI Lens]]
-- [[platform-now-assist-landing|Now Assist]]

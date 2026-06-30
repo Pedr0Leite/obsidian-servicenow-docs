@@ -14,7 +14,7 @@ breadcrumb: [Integrate, Regulatory Change Management, Governance, Risk, and Comp
 
 # RSS feeds overview
 
-A Really simple syndication \(RSS\) feed in [[reg-change-mgmt-landing-page|Regulatory Change Management]] is like a subscription service for updates about new or changed rules and regulations. Instead of visiting multiple websites to check for updates, you can subscribe to feeds from regulatory bodies or industry news.
+A Really simple syndication \(RSS\) feed in Regulatory Change Management is like a subscription service for updates about new or changed rules and regulations. Instead of visiting multiple websites to check for updates, you can subscribe to feeds from regulatory bodies or industry news.
 
 When a new regulation is published, it automatically appears in your feed, for example, getting notifications from a news app. This ability helps companies stay on top of important changes quickly and easily, ensuring they remain compliant with the latest rules.
 
@@ -64,6 +64,3 @@ Regulatory taxonomy simplifies identifying necessary changes in a customer’s r
 
 **Parent Topic:**[Integrating RCM with other applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/integrating-with-rcm.md)
 
-## Related
-
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]

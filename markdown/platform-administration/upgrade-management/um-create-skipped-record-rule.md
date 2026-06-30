@@ -26,7 +26,7 @@ Role required: admin
 
     |Option|Navigation|
     |------|----------|
-    |Using left navigation|Navigate to **All** &gt; **[[admin-center-intro|Admin Center]]** &gt; **Upgrade Management** &gt; **Skipped Rules**.|
+    |Using left navigation|Navigate to **All** &gt; **Admin Center** &gt; **Upgrade Management** &gt; **Skipped Rules**.|
     |Using Admin tab option|Navigate to **Admin** &gt; **Upgrade Management** &gt; **Skipped Rules**.|
 
     A list of available rules shows up.
@@ -118,6 +118,3 @@ You can now run the skipped record rules either automatically during an upgrade 
 
 [Execute a skipped record rule]()
 
-## Related
-
-- [[admin-center-intro|Admin Center]]

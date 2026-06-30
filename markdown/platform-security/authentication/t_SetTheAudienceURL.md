@@ -14,7 +14,7 @@ breadcrumb: [Service Provider \(SP\) system properties, SAML, Multi-Provider sin
 
 # Set the audience URL for SAML
 
-Enable your instance to verify that it is the intended recipient of a [[c_SAML2.0WebBrowserSSOProfile|SAML]] response by using the Audience property.
+Enable your instance to verify that it is the intended recipient of a SAML response by using the Audience property.
 
 ## Before you begin
 
@@ -42,6 +42,4 @@ The integration verifies that each SAML response contains the same URL listed in
 
 3.  Click **Update**.
 
-## Related
 
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]

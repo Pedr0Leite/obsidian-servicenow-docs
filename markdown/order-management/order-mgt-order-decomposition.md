@@ -16,11 +16,11 @@ Order decomposition is the process of breaking down an approved customer or serv
 
 ## Overview of order decomposition
 
-When an order is approved, the system breaks down the commercial elements of an approved order into its smaller, actionable technical components called domain orders \(product, service, and resource orders\) for fulfillment. Decomposition defines the Bill of Material for an ordered component. The decomposition is guided by specifications, specification relationships, and decomposition [[rules_101|rules]] defined in the product catalog. Decomposition rules \(often exclusion rules\) determine when domain orders should or should not be created, based on characteristics or options present in the order line item. Decomposition establishes hierarchical relationships between source and target specifications, generating the necessary product, service, and resource orders.
+When an order is approved, the system breaks down the commercial elements of an approved order into its smaller, actionable technical components called domain orders \(product, service, and resource orders\) for fulfillment. Decomposition defines the Bill of Material for an ordered component. The decomposition is guided by specifications, specification relationships, and decomposition rules defined in the product catalog. Decomposition rules \(often exclusion rules\) determine when domain orders should or should not be created, based on characteristics or options present in the order line item. Decomposition establishes hierarchical relationships between source and target specifications, generating the necessary product, service, and resource orders.
 
 For example, consider the SD-WAN Service Package from the demo data. For this product, specification relationships and decomposition rules determine which product, service, and resource orders are generated based on the order's characteristics.
 
-During order decomposition, work orders are created for product or service orders that need further action. For example, installation of a device at the customer site. You must close the order tasks and work order tasks associated with the domain orders to proceed with [[reviewing-orchestration-plans-order-fulfillment|order fulfillment]]. Fallout records are created if you manually close the domain orders.
+During order decomposition, work orders are created for product or service orders that need further action. For example, installation of a device at the customer site. You must close the order tasks and work order tasks associated with the domain orders to proceed with order fulfillment. Fallout records are created if you manually close the domain orders.
 
 ## Hierarchy of domain orders
 
@@ -142,7 +142,7 @@ Service and resource orders only
 
 </td></tr><tr><td>
 
-[[staggered-decomposition|Staggered decomposition]]
+Staggered decomposition
 
 </td><td>
 
@@ -202,20 +202,12 @@ Customer order decomposition supports the following additional features:
 -   Quantity-based decomposition: Customer orders can be decomposed into multiple domain orders based on order quantity, supporting revisions, and fulfillment of multiple instances.
 -   Support for change orders: Customer order decomposition supports updates to quantity characteristics, enabling upgrades, downgrades, and inventory management during fulfillment.
 
-Fore more information, see [[customer-order-decomposition|Customer order decomposition]].
+Fore more information, see [Customer order decomposition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/customer-order-decomposition.md).
 
 **Related topics**  
 
 
-[[order-mgt-configuring|Configuring Order Management]]
+[Configuring Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-configuring.md)
 
-[[explore-order-management|Order management]]
+[Order management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-order-management.md)
 
-## Related
-
-- [[customer-order-decomposition|Customer order decomposition]]
-- [[order-mgt-configuring|Configuring Order Management]]
-- [[explore-order-management|Order management]]
-- [[rules_101|Rules]]
-- [[reviewing-orchestration-plans-order-fulfillment|Order fulfillment]]
-- [[staggered-decomposition|Staggered decomposition]]

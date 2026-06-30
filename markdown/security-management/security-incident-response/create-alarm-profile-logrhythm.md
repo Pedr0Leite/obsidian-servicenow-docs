@@ -52,7 +52,7 @@ Name
 
 </td><td>
 
-Name for the alarm profile. This name helps you identify the alarm types such as Unauthorized access \(VPN\), [[threat-intelligence-malware|malware]], or phishing.
+Name for the alarm profile. This name helps you identify the alarm types such as Unauthorized access \(VPN\), malware, or phishing.
 
 </td></tr><tr><td>
 
@@ -87,7 +87,7 @@ Active
 By default this option is not selected. After you complete all alarm profile setup steps and click **Finish**, you are prompted to select this check box to activate the alarm profile. When the alarm profile is active, it pulls alarms from the LogRhythm Client Console automatically.
 
 </td></tr></tbody>
-</table>5.  Click **Continue** to save your data and proceed to the [[mapping-logrhythm|Mapping]] form.
+</table>5.  Click **Continue** to save your data and proceed to the Mapping form.
 
     If the validation is successful, the page reloads and the **Mapping** form is displayed. You cannot proceed with the configuration until you have successfully validated your connection and credentials.
 
@@ -114,7 +114,3 @@ The LogRhythm Enterprise integration provides you the ability to automatically u
 
 [Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mapping-logrhythm.md)
 
-## Related
-
-- [[threat-intelligence-malware|Malware]]
-- [[mapping-logrhythm|Mapping]]

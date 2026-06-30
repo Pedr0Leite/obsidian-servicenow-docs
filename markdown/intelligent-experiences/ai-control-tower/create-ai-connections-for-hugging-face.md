@@ -14,7 +14,7 @@ breadcrumb: [Hugging Face, Service Graph Connectors for AI Control Tower, AI con
 
 # Create an AI Connection for Hugging Face
 
-Create an AI connection for Hugging Face in [[ai-control-tower-landing|AI Control Tower]] using the  Hugging Face connector.
+Create an AI connection for Hugging Face in AI Control Tower using the  Hugging Face connector.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_ai\_disc.discovery\_admin and sn\_cmdb\_int\_util.sgc\_admin
 
 ## Procedure
 
-1.  Navigate to **AI Control Tower** &gt; **Configuration** &gt; **[[enterprise-ai-discovery|AI connections]]**.
+1.  Navigate to **AI Control Tower** &gt; **Configuration** &gt; **AI connections**.
 
 2.  Click **Add**.
 
@@ -82,7 +82,3 @@ Role required: sn\_ai\_disc.discovery\_admin and sn\_cmdb\_int\_util.sgc\_admin
 
 The AI connection for Hugging Face is created and configured.
 
-## Related
-
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[enterprise-ai-discovery|AI connections]]

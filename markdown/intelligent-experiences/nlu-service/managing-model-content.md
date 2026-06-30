@@ -39,9 +39,9 @@ For more information, see [NLU intents](https://raw.githubusercontent.com/Servic
 
 Your intents use entities to provide additional context for the model when receiving inputs. In the computer example, the laptop is the entity, or object of, the action.
 
-[[entities|NLU entities]] fall into two categories: system-defined and user-defined. System entities such as DATE, TIME, and LOCATION are available by default in your instance. You can create your own user-defined entities to provide additional associations and meaning for your business requirements.
+NLU entities fall into two categories: system-defined and user-defined. System entities such as DATE, TIME, and LOCATION are available by default in your instance. You can create your own user-defined entities to provide additional associations and meaning for your business requirements.
 
-All entities are reusable across other [[nlu-models|NLU models]]. However, you must add them to a training utterance for each model to use them.
+All entities are reusable across other NLU models. However, you must add them to a training utterance for each model to use them.
 
 For more information, see [NLU entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/entities.md).
 
@@ -79,7 +79,3 @@ Use the **Settings** tab to edit the name, short description, and confidence thr
 
 For more information on the confidence threshold, see [Test and publish your model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/testing-your-model.md). For more information on Settings, see [NLU model settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/nlu-model-settings.md).
 
-## Related
-
-- [[entities|NLU entities]]
-- [[nlu-models|NLU models]]

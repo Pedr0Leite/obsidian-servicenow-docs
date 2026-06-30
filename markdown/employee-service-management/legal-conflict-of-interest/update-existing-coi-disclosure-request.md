@@ -22,7 +22,7 @@ Role required: sn\_lg\_ops.legal\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Employee Center**.
 
     **Note:** If you’re using Legal Service Portal, open a request by navigating to the Legal Service Portal and selecting **My Requests** &gt; **View all requests** from the header.
 
@@ -80,6 +80,3 @@ The approval details appear under the **Approvals** tab on the Standard Ticket p
 
 **Parent Topic:**[Using Legal Conflict of Interest](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-conflict-of-interest/lsd-coi-use-landing.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

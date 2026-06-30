@@ -14,7 +14,7 @@ breadcrumb: [Understanding Service Portal, Exploring Service Portal, Service Por
 
 # Service Portal core concepts
 
-[[c_ServicePortal|Service Portal]] contains two parts: a framework and a portal. The framework is composed of a set of APIs, Angular services, directives, and tools that help to build portals. The portal is a group of pages linked by page IDs.
+Service Portal contains two parts: a framework and a portal. The framework is composed of a set of APIs, Angular services, directives, and tools that help to build portals. The portal is a group of pages linked by page IDs.
 
 \[Omitted image "ServicePortalOverviewDiagram.png"\] Alt text: Diagram of Service Portal and how pages and widgets fit inside it
 
@@ -26,6 +26,3 @@ Widget instances get their logic from the base widget template, client scripts, 
 
 **Parent Topic:**[Understanding Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sp-what-to-know.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]

@@ -15,7 +15,7 @@ breadcrumb: [Notion external content connector, Configure, External Content Conn
 
 # Configure Notion for external content indexing
 
-Create and authorize an internal integration in the Notion integrations dashboard to allow the [[notion-external-content-connector|Notion external content connector]] to access your Notion source system.
+Create and authorize an internal integration in the Notion integrations dashboard to allow the Notion external content connector to access your Notion source system.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ The Notion external content connector retrieves pages and files from your Notion
 
 To allow the connector to access your Notion source system via the Notion REST API, you must configure and authorize an internal integration in the Notion integrations dashboard. Your connector administrator can use settings copied from the internal integration to configure the Notion external connector for proper connection to your source system.
 
-**Important:** The Notion external content connector doesn't retrieve per-user permissions when running content crawls. All content indexed by the connector is searchable by all mapped users who have access to your configured [[ia-ai-search|AI Search]] experience.
+**Important:** The Notion external content connector doesn't retrieve per-user permissions when running content crawls. All content indexed by the connector is searchable by all mapped users who have access to your configured AI Search experience.
 
 ## Procedure
 
@@ -94,7 +94,3 @@ For details on creating and configuring a Notion external content connector, see
 
 **Parent Topic:**[Notion external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/notion-external-content-connector.md)
 
-## Related
-
-- [[notion-external-content-connector|Notion external content connector]]
-- [[ia-ai-search|AI Search]]

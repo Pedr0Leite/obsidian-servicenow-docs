@@ -18,7 +18,7 @@ Create a list of words or phrases to act as a vocabulary source. The values in t
 
 ## Before you begin
 
--   Make sure that the NLU Workbench plugin, NLU Workbench - Core plugin, NLU Common Model plugin, and [[predictive-intelligence-landing|Predictive Intelligence]] plugin are all installed and activated on your instance.
+-   Make sure that the NLU Workbench plugin, NLU Workbench - Core plugin, NLU Common Model plugin, and Predictive Intelligence plugin are all installed and activated on your instance.
 -   Role required: admin, nlu\_admin, or nlu\_editor
 
 ## About this task
@@ -47,9 +47,9 @@ In this example procedure, you're creating a list vocabulary source for your com
     |Language|Language of the vocabulary source. Synonym must be in the same language.|
     |Synonym|Word or phrase the model uses during intent prediction. Choose a commonly-occurring word in the same language as your model.|
     |Enable Fuzzy Matching|Check this box if you want the items on the list to match when a user utterance has slight misspellings.|
-    |Make case sensitive|Check this box to make the values in the list case sensitive. Utterances with wrong [[cases|cases]] won't match.|
+    |Make case sensitive|Check this box to make the values in the list case sensitive. Utterances with wrong cases won't match.|
 
-    For this example, use the following [[exploring-ai-governance|configurations]]:
+    For this example, use the following configurations:
 
     -   **Handle**: `@meetingroom`
     -   **Language**: `English - en`
@@ -87,8 +87,3 @@ You must retrain the model after updating a list vocabulary source. For more inf
 
 Then you can use the list vocabulary source when annotating a training utterance. Use the @ symbol with the handle to refer to this vocabulary source.
 
-## Related
-
-- [[predictive-intelligence-landing|Predictive Intelligence]]
-- [[cases|Cases]]
-- [[exploring-ai-governance|Configurations]]

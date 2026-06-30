@@ -14,7 +14,7 @@ breadcrumb: [\(Optional\) Set keystore properties for signing logout requests fo
 
 # Create self-signed BCFKS keystore for SAML
 
-Generate a FIPS 140-2 compliant self-signed BCFKS keystore for use in [[c_SAML2.0WebBrowserSSOProfile|SAML]] signing and [[encryption-landing|encryption]] operations within the Multi-Provider SSO plugin.
+Generate a FIPS 140-2 compliant self-signed BCFKS keystore for use in SAML signing and encryption operations within the Multi-Provider SSO plugin.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 Do the following:
 
 -   Install Java on your machine and the key tool command-line tool accessible in your terminal \(or "command prompt" if you are running it on a windows machine\).
--   Perform the following steps to create a keystore using FIPS-approved cryptographic algorithms \(such as RSA 2048-bit or higher paired with SHA-256\) that meets federal security requirements for [[identity-landing|identity]] federation and single sign-on implementations.
+-   Perform the following steps to create a keystore using FIPS-approved cryptographic algorithms \(such as RSA 2048-bit or higher paired with SHA-256\) that meets federal security requirements for identity federation and single sign-on implementations.
 
 ## Procedure
 
@@ -164,8 +164,4 @@ keytool -exportcert ^
 
     8.  Copy the `sys_id` of this record.
 
-## Related
 
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[encryption-landing|Encryption]]
-- [[identity-landing|Identity]]

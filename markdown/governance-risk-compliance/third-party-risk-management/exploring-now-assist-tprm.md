@@ -15,7 +15,7 @@ breadcrumb: [Now Assist, Third-party Risk Management, Governance, Risk, and Comp
 
 # Exploring Now Assist for Third-party Risk Management \(TPRM\)
 
-With the [[now-assist-tprm|Now Assist for Third-party Risk Management \(TPRM\)]] application, you can use skills to automate the collection of TPRM risk data.
+With the Now Assist for Third-party Risk Management \(TPRM\) application, you can use skills to automate the collection of TPRM risk data.
 
 ## Now Assist for TPRM overview
 
@@ -70,7 +70,7 @@ Uses generative AI to generate third‑party risk issue record recommendations, 
 -   sn\_vdr\_risk\_asmt.vendor\_assessment\_reviewer
 
 </td></tr></tbody>
-</table>**Note:** Issue recommendations are available only for assessments that use the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]. Historical issue data from both classic and smart assessments is used to generate recommendations.
+</table>**Note:** Issue recommendations are available only for assessments that use the Smart Assessment Engine. Historical issue data from both classic and smart assessments is used to generate recommendations.
 
 ## What to explore next
 
@@ -85,7 +85,3 @@ To learn more about configuring and using Now Assist for TPRM, see:
 -   [Generate issue recommendations for TPRM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/create-recommendation-tprm-issue.md)
 -   [Create or dismiss issues using recommendations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/manage-recommendation-issue.md)
 
-## Related
-
-- [[now-assist-tprm|Now Assist for Third-party Risk Management \(TPRM\)]]
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]

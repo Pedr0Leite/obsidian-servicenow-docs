@@ -14,7 +14,7 @@ breadcrumb: [Azure DevOps, Integrate, DevOps Change Velocity, IT Service Managem
 
 # Parallel stages in Azure DevOps release pipelines
 
-Parallel stages in a release pipeline are now processed concurrently and displayed in the [[dev-ops-pipeline-ui|DevOps pipeline UI]] in real time. Base system pre-deployment conditions and release gates enable you to create change requests that include details from parallel stages.
+Parallel stages in a release pipeline are now processed concurrently and displayed in the DevOps pipeline UI in real time. Base system pre-deployment conditions and release gates enable you to create change requests that include details from parallel stages.
 
 ## Base system parallel stage support for Azure DevOps
 
@@ -89,7 +89,7 @@ pipeline {
 
 ## ServiceNow® DevOps release gate in pre-deployment conditions to create Change requests
 
-A base-system ServiceNow DevOps Release Gate is added along with pre-deployment conditions. Enable base system deployment gates that are configured to call the ServiceNow AI Platform instance, to [[t_CreateAChange|create a change request]] before the deploy to production stage. Change requests are now created after all previous \(upstream\) stages complete processing. The change request captures relevant details from all upstream stages and displays them in the following corresponding related lists.
+A base-system ServiceNow DevOps Release Gate is added along with pre-deployment conditions. Enable base system deployment gates that are configured to call the ServiceNow AI Platform instance, to create a change request before the deploy to production stage. Change requests are now created after all previous \(upstream\) stages complete processing. The change request captures relevant details from all upstream stages and displays them in the following corresponding related lists.
 
 -   Commits
 -   Work Items
@@ -129,7 +129,3 @@ Ensure that you review the following considerations before upgrading.
 
 **Parent Topic:**[Azure DevOps integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/azure-devops-integration-dev-ops.md)
 
-## Related
-
-- [[dev-ops-pipeline-ui|DevOps Pipeline UI]]
-- [[t_CreateAChange|Create a change request]]

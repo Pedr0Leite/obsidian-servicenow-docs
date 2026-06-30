@@ -14,13 +14,13 @@ breadcrumb: [Exploring Service Mapping, Service Mapping, ITOM Visibility, IT Ope
 
 # Traversal rules in Service Mapping
 
-Traversal rules identify and map relationships between configuration items to create comprehensive application service maps. They connect relevant configuration items based on predefined relationships, promoting accurate [[c_ServiceMappingOverview|service mapping]] and visualization.
+Traversal rules identify and map relationships between configuration items to create comprehensive application service maps. They connect relevant configuration items based on predefined relationships, promoting accurate service mapping and visualization.
 
 Traversal rules facilitate comprehensive service mapping by identifying related configuration items \(CIs\) through specific relationships that exist in the Configuration Management Database \(CMDB\). These rules support the mapping of related CIs even when they aren’t directly tagged, providing a more accurate service map.
 
 ## Components of traversal rules
 
-When configuring traversal rules, it’s essential to add them in the correct order, as tag-based [[r-discovery|discovery]] uses these rules to identify CIs that can be mapped.
+When configuring traversal rules, it’s essential to add them in the correct order, as tag-based discovery uses these rules to identify CIs that can be mapped.
 
 The Service Mapping administrator \(service\_mapping\_admin\) manages traversal rules in the Traversal Rules for Application Services \[svc\_traversal\_rules\] table. When configuring these rules, the following key components are considered:
 
@@ -43,7 +43,3 @@ By default, you can only have five traversal rules participate in tag-based disc
 
 **Parent Topic:**[Exploring Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/service-mapping-get-started.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]

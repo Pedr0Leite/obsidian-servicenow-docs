@@ -14,7 +14,7 @@ breadcrumb: [Configuring, Critical Event Management, Health and Safety, Employee
 
 # Define communication plans, tasks, and recipients
 
-Define the communication plan, tasks, and recipients that help the agent [[create-new-communication|create a communication task]] to send out mass notifications.
+Define the communication plan, tasks, and recipients that help the agent create a communication task to send out mass notifications.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[health-safety-overview|Health and Safety]]** &gt; **[[critical-event-management|Critical Event Management]]** &gt; **Communication Plan Definition**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Critical Event Management** &gt; **Communication Plan Definition**.
 
 2.  Add a communication plan by selecting **New** or edit an existing communication plan.
 
@@ -37,8 +37,3 @@ Role required: admin
     -   You can add tasks and recipient list to the communication plan based on your organizational needs.
     -   To learn more about a communication plan and its process, see [Task Communications Management process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/task-communications-management.md).
 
-## Related
-
-- [[create-new-communication|Create a communication task]]
-- [[health-safety-overview|Health and Safety]]
-- [[critical-event-management|Critical Event Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Using Lifecycle Events, Lifecycle Events, Employee Journey Manageme
 
 # Configure the UI of the lifecycle event builder
 
-Customize the appearance of the lifecycle event builder. You can change the colors of the different [[activity-lxp|activity]] types, as well as change the color and size of the activity set columns.
+Customize the appearance of the lifecycle event builder. You can change the colors of the different activity types, as well as change the color and size of the activity set columns.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_hr\_le.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hr-lifecycle-events-landing-page-1|Lifecycle Events]]** &gt; **Administration** &gt; **LE UI Configuration**.
+1.  Navigate to **All** &gt; **Lifecycle Events** &gt; **Administration** &gt; **LE UI Configuration**.
 
     \[Omitted image "le-ui-config-brand2.png"\] Alt text: Lifecycle Event UI Configuration
 
@@ -32,7 +32,4 @@ Role required: sn\_hr\_le.admin
 
 4.  After making any edits, click **Update**.
 
-## Related
 
-- [[activity-lxp|Activity]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]

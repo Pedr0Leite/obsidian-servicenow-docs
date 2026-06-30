@@ -19,7 +19,7 @@ This accelerator provides a demonstration of the possibilities and capabilities 
 
 ## Accelerator Overview
 
-CSDM Data Modeling helps [[impact-landing-page|Impact]] customers build a solid understanding of the ServiceNow platform data model \(CSDM\) and teaches them how to properly model their data, so it aligns with the framework's standardized structure. By learning how to map and relate their information correctly, customers gain clearer service visibility, stronger governance, and a more scalable foundation for future platform capabilities. This offering also provides key resources and leading practices to get started with modeling your data to align to the ServiceNow platform successfully.
+CSDM Data Modeling helps Impact customers build a solid understanding of the ServiceNow platform data model \(CSDM\) and teaches them how to properly model their data, so it aligns with the framework's standardized structure. By learning how to map and relate their information correctly, customers gain clearer service visibility, stronger governance, and a more scalable foundation for future platform capabilities. This offering also provides key resources and leading practices to get started with modeling your data to align to the ServiceNow platform successfully.
 
 ## Package Availability
 
@@ -35,10 +35,10 @@ Customers are strongly encouraged to complete [Jumpstart Your CSDM: Foundation](
     -   A high-level manual review of your data related to CSDM
     -   Scheduling of future sessions with your project team
 -   **Customer Coaching Sessions**
-    -   Introductory workshop covering high-level CSDM concepts to [[io-help|help]] customers get started
+    -   Introductory workshop covering high-level CSDM concepts to help customers get started
     -   Additional data modeling sessions to cover 3-5 real world scenarios using customer data
     -   Guidance on how to import and maintain CSDM aligned data
-    -   Optional [[design-review|design review]] or Q&amp;A session for CSDM models built based on the coaching provided
+    -   Optional design review or Q&amp;A session for CSDM models built based on the coaching provided
 -   **Deliverables**
     -   Data Modeling Workbook – used to gather your customer data and ready for import
     -   Data Modeling Examples – curated from customer input and used to help bring data concepts to life
@@ -56,8 +56,3 @@ Customers are strongly encouraged to complete [Jumpstart Your CSDM: Foundation](
 |Executive Sponsor\(s\)|Responsible for setting and communicating the vision of the ServiceNow Engagement within the rest of the enterprise. Participate in engagement governance and remove roadblocks to a successful implementation.| |✓|
 |Trusted Service Partners|Attend ServiceNow Impact Accelerator coaching session\(s\) to understand leading practices and potentially support customers going forward.| |✓|
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[io-help|Help]]
-- [[design-review|Design Review]]

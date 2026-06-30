@@ -14,7 +14,7 @@ breadcrumb: [Multilingual model management, Natural Language Understanding, Enab
 
 # Enable or disable a secondary model intent
 
-Enable and disable intents in your [[nlu-landing|Natural Language Understanding]] \(NLU\) models to make them active or inactive. Disable intents while editors or admins edit, review, or update its content and translations.
+Enable and disable intents in your Natural Language Understanding \(NLU\) models to make them active or inactive. Disable intents while editors or admins edit, review, or update its content and translations.
 
 ## Before you begin
 
@@ -42,7 +42,7 @@ Enabling of intents works in the following ways:
 -   NLU admins can enable and disable intents in any model.
 -   NLU editors can enable and disable intents only for models they are assigned to.
 
-Disabling intents gives editors time to review the intent translations and update them if needed. When you’re satisfied with the content, enable the intent to make it accessible to other [[nlu-models|NLU models]] and ServiceNow applications.
+Disabling intents gives editors time to review the intent translations and update them if needed. When you’re satisfied with the content, enable the intent to make it accessible to other NLU models and ServiceNow applications.
 
 In this review example, you have a list of disabled intents in the Needs review state. The goal of this task is to review the translated content for a secondary model. When you complete your review, or if the content is fine as it is, you click Mark as reviewed. This moves the intent into the Reviewed state. You can also undo the Mark as reviewed state for an intent by clicking the **Unmark Reviewed** button, but only if you remain on the Intent screen. If you leave the screen prematurely, the **Unmark Reviewed** button disappears, and you won't be able to retrieve it.
 
@@ -91,7 +91,3 @@ In this example procedure, you're reviewing the intents in a model one at a time
 
 Repeat Steps 1 through 6 for the four remaining intents in the list. As each intent review completes and is marked with the Reviewed state, the running count in the intents reviewed box increases toward 5 of 5.
 
-## Related
-
-- [[nlu-landing|Natural Language Understanding]]
-- [[nlu-models|NLU models]]

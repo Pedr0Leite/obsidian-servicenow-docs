@@ -14,7 +14,7 @@ breadcrumb: [Using Shopping Hub, Use, Sourcing and Procurement Operations, Finan
 
 # Shopping controls overridden by credits
 
-As a shopper, you can use employee credits to purchase a restricted set of [[supplier|supplier]] products based on the category or product model. At the same time, you could be restricted, via Shopping Control, from viewing those supplier products.
+As a shopper, you can use employee credits to purchase a restricted set of supplier products based on the category or product model. At the same time, you could be restricted, via Shopping Control, from viewing those supplier products.
 
 In this case, the employee credits allocated to you override the shopping control settings and temporarily allow you to view and shop those specific supplier products which are tied to these employee credits. Once this credit is consumed or reaches expiry, the shopping control settings resume precedence.
 
@@ -26,6 +26,3 @@ Scenario 2: A shopping control exists, according to which you, from the marketin
 
 **Parent Topic:**[Using Shopping Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/use-shoppinghub-portal.md)
 
-## Related
-
-- [[supplier|Supplier]]

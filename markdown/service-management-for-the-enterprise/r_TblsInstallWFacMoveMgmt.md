@@ -12,7 +12,7 @@ breadcrumb: [Installed with Facilities Move Management, Activate Facilities Move
 
 # Tables installed with Facilities Move Management
 
-[[c_FacMoveMgmt|Facilities Move Management]] adds the following tables.
+Facilities Move Management adds the following tables.
 
 <table id="table_u5j_fry_dt"><thead><tr><th>
 
@@ -24,7 +24,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[c_EnterpriseMove|Enterprise Move]] Scenario\[enterprise\_move\_scenario\]
+Enterprise Move Scenario\[enterprise\_move\_scenario\]
 
 </td><td>
 
@@ -111,10 +111,5 @@ Move Task\[move\_task\]
 Holds single user move tasks
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[r_InstallWFacMoveMgmt|Installed with Facilities Move Management]]
+</table>**Parent Topic:**[Installed with Facilities Move Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_InstallWFacMoveMgmt.md)
 
-## Related
-
-- [[r_InstallWFacMoveMgmt|Installed with Facilities Move Management]]
-- [[c_FacMoveMgmt|Facilities move management]]
-- [[c_EnterpriseMove|Enterprise move]]

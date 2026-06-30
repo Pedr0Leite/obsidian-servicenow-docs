@@ -14,7 +14,7 @@ breadcrumb: [Digital Product Release, IT Service Management]
 
 # Digital Product Release Policy Content Pack
 
-The Digital Product Release Policy Content Pack includes data collectors and policies for automating the verification of phase gate in product and service releases in [[dpr-landing-page|Digital Product Release]].
+The Digital Product Release Policy Content Pack includes data collectors and policies for automating the verification of phase gate in product and service releases in Digital Product Release.
 
 -   Data collectors enable you to create low-code policies for the DevOps data model application.
 
@@ -24,6 +24,4 @@ The Digital Product Release Policy Content Pack includes data collectors and pol
 
     For more information, see [Digital Product Release policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-policies.md).
 
-## Related
 
-- [[dpr-landing-page|Digital Product Release]]

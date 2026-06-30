@@ -14,7 +14,7 @@ breadcrumb: [Work on NDA legal requests, Non-disclosure agreement requests, Use,
 
 # Initiate an ad hoc approval for a contract document revision
 
-[[cmpro-initiate-approval-contract-request|Initiate an ad hoc approval for a contract document revision]] from a user or a user group.
+Initiate an ad hoc approval for a contract document revision from a user or a user group.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ You can assign these approvals to any user or user group in your organization wh
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Legal request** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal request** &gt; **Legal Counsel Center**.
 
 2.  Click the list icon \(\[Omitted image "lsd-lcc-list-icon.png"\] Alt text: List icon\).
 
@@ -144,7 +144,3 @@ The approval details appear under the **Approvals** tab on the Standard Ticket p
 
 **Parent Topic:**[Work on NDA legal requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-work-on-contract-request.md)
 
-## Related
-
-- [[cmpro-initiate-approval-contract-request|Initiate an ad hoc approval for a contract document revision]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]

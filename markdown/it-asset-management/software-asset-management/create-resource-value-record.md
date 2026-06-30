@@ -22,7 +22,7 @@ Role required: sam\_admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sam-workspace|Software Asset Workspace]]** &gt; **License operations** &gt; **Resource Value**.
+1.  Navigate to **Workspaces** &gt; **Software Asset Workspace** &gt; **License operations** &gt; **Resource Value**.
 
 2.  Select **New**.
 
@@ -104,6 +104,3 @@ The resource value record that you created appears in the Resource Value list vi
 
 **Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/using-sam-workspace.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]

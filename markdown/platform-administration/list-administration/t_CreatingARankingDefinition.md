@@ -14,7 +14,7 @@ breadcrumb: [Context ranking, Administer, List administration, Forms, fields, an
 
 # Create a ranking definition
 
-Enable [[r_ContextRanking|context ranking]] for a related list by creating a ranking definition.
+Enable context ranking for a related list by creating a ranking definition.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Definition** &gt; **Ranking [[clone-exclusions-preservers-cleanupscripts|Definitions]]**.
+1.  Navigate to **All** &gt; **System Definition** &gt; **Ranking Definitions**.
 
 2.  Click **New**.
 
@@ -32,7 +32,7 @@ Role required: admin
 
     This is the table of the records in the ranked related list. For example, to enable ranking for a related list of incidents in the Problem form, select the Incident \[incident\] table.
 
-5.  In the **Context column** field, select the [[reference-email-admin|reference]] column providing the context in which ranking is to be performed.
+5.  In the **Context column** field, select the reference column providing the context in which ranking is to be performed.
 
     The context in this case is the form in which the related list appears and not a table name. For example, a related list with a **Record table** of Incident \[incident\] can have several contexts, including the **Problem** form or a **Configuration item** form.
 
@@ -62,8 +62,3 @@ The system does not generate indexes for ranking definitions inserted into the d
 
 **Parent Topic:**[Context ranking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-administration/r_ContextRanking.md)
 
-## Related
-
-- [[r_ContextRanking|Context ranking]]
-- [[clone-exclusions-preservers-cleanupscripts|Definitions]]
-- [[reference-email-admin|Reference]]

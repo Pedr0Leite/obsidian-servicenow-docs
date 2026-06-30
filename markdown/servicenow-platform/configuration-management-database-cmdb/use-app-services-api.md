@@ -18,7 +18,7 @@ Application services provide APIs that let you perform operations such as creati
 
 Role required: app\_service\_admin
 
-A service instance is a set of interconnected applications and hosts that are configured to offer a service to the organization. Service instances can be internal, like an organization [[email|email]] system or customer-facing, like an organization website.
+A service instance is a set of interconnected applications and hosts that are configured to offer a service to the organization. Service instances can be internal, like an organization email system or customer-facing, like an organization website.
 
 ## Create an application service
 
@@ -64,6 +64,3 @@ The following JavaScript APIs are also available:
 
 [Application Service API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/application-service-api.md)
 
-## Related
-
-- [[email|Email]]

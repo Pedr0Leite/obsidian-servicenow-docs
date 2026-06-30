@@ -26,7 +26,7 @@ The Repair SLA function is enabled for all new installed instances running the 2
 
 An SLA repair log record is created each time a repair action takes place with details such as who initiated the repair and start and end date and time. The log record contains a number of child **SLA Repair Log Entry** records related to it. Each repair log entry has a type of either **Before repair** or **After repair** that will contain the appropriate values from each Task SLA record that is repaired. If there is only a **Before repair** entry record for a task SLA, this indicates that it has been deleted. If there is only an **After record**, the repair function has created a task SLA that did not previously exist.
 
-Navigate to **[[service-level-mgmt-landing-page|Service Level Management]]** &gt; **Repair Logs** to view repair log information:
+Navigate to **Service Level Management** &gt; **Repair Logs** to view repair log information:
 
 -   **Active Repairs**: view repairs that are still in progress.
 -   **My Repairs**: view repairs you have run.
@@ -35,6 +35,3 @@ Navigate to **[[service-level-mgmt-landing-page|Service Level Management]]** &gt
 
 **Parent Topic:**[Repair Service Level Agreement \(SLA\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/c_RepairSLAs.md)
 
-## Related
-
-- [[service-level-mgmt-landing-page|Service Level Management]]

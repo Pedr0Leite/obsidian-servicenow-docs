@@ -14,13 +14,13 @@ breadcrumb: [Configure, WSD for Microsoft places, Workplace Service Delivery, Em
 
 # Download manifest files
 
-Download the manifest files as part of configuring and integrating [[wsd-for-ms-places|WSD for Microsoft places]] application in Microsoft Teams.
+Download the manifest files as part of configuring and integrating WSD for Microsoft places application in Microsoft Teams.
 
 ## Before you begin
 
 Role required: admin
 
-Ensure to [[installing-wsd-ms-places|register the WSD for Microsoft places application]] in the Microsoft Azure portal.
+Ensure to register the WSD for Microsoft places application in the Microsoft Azure portal.
 
 For more information about registering the WSD for Microsoft places application, refer to [Register the WSD for Microsoft places application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-integration-with-microsoft-places/installing-wsd-ms-places.md)
 
@@ -53,7 +53,3 @@ For more information about registering the WSD for Microsoft places application,
 
 Follow up with modifying the .json file from the manifest zip file.
 
-## Related
-
-- [[wsd-for-ms-places|WSD for Microsoft places]]
-- [[installing-wsd-ms-places|Register the WSD for Microsoft places application]]

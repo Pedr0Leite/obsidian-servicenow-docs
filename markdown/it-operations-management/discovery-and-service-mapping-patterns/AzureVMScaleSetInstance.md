@@ -14,7 +14,7 @@ breadcrumb: [Microsoft Azure discovery, Available cloud discovery patterns, Disc
 
 # Azure Virtual Machine Scale Sets \(VMSS\) Instance discovery
 
-The [[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] Patterns application uses the Azure - VM Scale Set \(LP\) and the Azure VM Instance - Uniform Scale Set patterns to find Azure Virtual Machine Scale Sets \(VMSS\). Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
+The Discovery and Service Mapping Patterns application uses the Azure - VM Scale Set \(LP\) and the Azure VM Instance - Uniform Scale Set patterns to find Azure Virtual Machine Scale Sets \(VMSS\). Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 VMSS let you create and manage a group of load balanced virtual machines \(VMs\). The number of VM instances can automatically increase or decrease in response to demand or a defined schedule. There Uniform Orchestration modes Flexible and achieve.
 
@@ -133,7 +133,3 @@ Both the Azure - VM Scale Set \(LP\) and the Azure VM Instance - Uniform Scale S
 
 **Parent Topic:**[Microsoft Azure Cloud discovery using patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/azure-cloud-discovery-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

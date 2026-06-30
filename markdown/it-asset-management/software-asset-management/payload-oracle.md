@@ -20,7 +20,7 @@ After you discover Oracle software installs via your discovery source, send a pa
 
 **Note:** In the Properties page, make sure to select the Enable scheduled jobs when using third party Datasource Integration Framework \[com.snc.samp.ire.datasource.integration\] property.
 
-When the schedule job, SAM- [[third-party-discovery-sam|Software Asset Connections]], runs, it looks for records with null software installs, populates the software install field in the Oracle Instance table and creates the software install record associated to the instance.
+When the schedule job, SAM- Software Asset Connections, runs, it looks for records with null software installs, populates the software install field in the Oracle Instance table and creates the software install record associated to the instance.
 
 The following is a sample payload to create software install records for Oracle in the Oracle Instance \[cmdb\_ci\_db\_ora\_instance\] table. The sample input contains a list of CIs and relationships that exist between these CIs. The payload states that there is an Oracle database server, Dev development 1969 with a standard edition. The Oracle database server has many Oracle options enabled such as Armstrong, Aldrin, Collins and runs on a Linux server.
 
@@ -104,6 +104,3 @@ The following is a sample payload to create software install records for Oracle 
 
 **Parent Topic:**[Software Asset Management references](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/references.md)
 
-## Related
-
-- [[third-party-discovery-sam|Software asset connections]]

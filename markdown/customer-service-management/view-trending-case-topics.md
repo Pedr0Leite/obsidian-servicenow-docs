@@ -28,20 +28,14 @@ View a list of clusters and cluster concepts.
 
 ## Procedure
 
-1.  [[csm-workspaces-open|Open CSM Configurable Workspace]].
+1.  Open CSM Configurable Workspace.
 
-2.  Navigate to **[[migration-lists|Lists]]** &gt; **[[trending-case-topics|Trending Case Topics]]** &gt; **Last 1 week**.
+2.  Navigate to **Lists** &gt; **Trending Case Topics** &gt; **Last 1 week**.
 
 
 ## What to do next
 
 Click a **Cluster Id** to view the Cluster Summary form details, Related Cases and Related Major Cases.
 
-You can also [[create-major-case|create a major case]] for trending case topics.
+You can also create a major case for trending case topics.
 
-## Related
-
-- [[csm-workspaces-open|Open CSM Configurable Workspace]]
-- [[migration-lists|Lists]]
-- [[trending-case-topics|Trending case topics]]
-- [[create-major-case|Create a major case]]

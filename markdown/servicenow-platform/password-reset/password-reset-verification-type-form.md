@@ -38,11 +38,11 @@ Automatic enrollment
 
 </td><td>
 
-Select the [[check-box|check box]] to auto-enroll users. If **Automatic enrollment** is not selected, then you must provide an enrollment UI macro and enrollment processor script.For SMS and [[email|email]] verification, if the **Automatic enrollment** check box is selected and the user's mobile number and email address already appear in the sys\_user table record, the user is enrolled for the corresponding verification.
+Select the check box to auto-enroll users. If **Automatic enrollment** is not selected, then you must provide an enrollment UI macro and enrollment processor script.For SMS and email verification, if the **Automatic enrollment** check box is selected and the user's mobile number and email address already appear in the sys\_user table record, the user is enrolled for the corresponding verification.
 
  If the user’s mobile number and email address aren’t mentioned in the sys\_user table, the user is not enrolled.
 
- **Note:** If the **Automatic enrollment** check box isn’t selected, then even if the user's mobile number and email address appear in the sys\_user table record, the user is not enrolled. The user must enroll manually by using the [[password-reset-landing-page|password reset]] enrollment process.
+ **Note:** If the **Automatic enrollment** check box isn’t selected, then even if the user's mobile number and email address appear in the sys\_user table record, the user is not enrolled. The user must enroll manually by using the password reset enrollment process.
 
 </td></tr><tr><td>
 
@@ -82,8 +82,3 @@ Verification processor script \(extension scripts\) that processes the verificat
 
 [Create a custom Password Reset verification type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/create-verification-type.md)
 
-## Related
-
-- [[check-box|Check box]]
-- [[email|Email]]
-- [[password-reset-landing-page|Password Reset]]

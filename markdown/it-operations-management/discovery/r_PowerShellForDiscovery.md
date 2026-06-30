@@ -14,7 +14,7 @@ breadcrumb: [Advanced Discovery configuration, Configuring Discovery, Discovery,
 
 # PowerShell for Discovery and Service Mapping
 
-MID Servers use PowerShell and PowerShell Remoting for accessing configuration items \(CIs\) during horizontal and top-down [[r-discovery|discovery]]. Review MID Server parameters and script includes, probe parameters, and credentials for using PowerShell.
+MID Servers use PowerShell and PowerShell Remoting for accessing configuration items \(CIs\) during horizontal and top-down discovery. Review MID Server parameters and script includes, probe parameters, and credentials for using PowerShell.
 
 PowerShell is used to control and automate the administration of Windows servers and applications.
 
@@ -44,9 +44,9 @@ The following descriptions explain how MID Servers use PowerShell to deploy prob
 
     The following script includes were added for PowerShell discoveries. These scripts run on the MID Server to generate the scripts that Discovery uses for WMIRunner and PowerShell.
 
-    -   GenerateWMIScriptJS: Generates a Javascript script for the [[r_WMIRunnerProbe|WMIRunner probe]].
+    -   GenerateWMIScriptJS: Generates a Javascript script for the WMIRunner probe.
     -   GenerateWMIScriptPS1: Generates a PowerShell script for PowerShell discovery.
--   **[[mid-server-parameter-powershell|MID Server parameters for PowerShell]]**
+-   **MID Server parameters for PowerShell**
 
     Optional parameters for the MID Server can be found at [MID Server parameters for PowerShell](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/mid-server-parameter-powershell.md). After changing the setting for any parameter, be sure to restart the MID Server service.
 
@@ -58,7 +58,7 @@ MID Servers using PowerShell must be installed on a supported Windows operating 
 -   **Version 3.0**
     -   Regular Discovery
     -   Application Dependency Mapping \(ADM\)
-    -   [[file-based-discovery|File-based Discovery]]
+    -   File-based Discovery
     -   PowerShell version 3.0 does not support Windows Server 2003.
 -   **Version 4.0**
     -   Regular Discovery
@@ -93,9 +93,3 @@ Parameters control the behavior of a particular MID Server and have lower preced
 
 **Parent Topic:**[Advanced Discovery configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoveryExtendedCapabilities.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[r_WMIRunnerProbe|WMIRunner probe]]
-- [[mid-server-parameter-powershell|MID Server parameters for PowerShell]]
-- [[file-based-discovery|File-based Discovery]]

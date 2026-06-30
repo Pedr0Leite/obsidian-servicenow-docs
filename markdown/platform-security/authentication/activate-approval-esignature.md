@@ -14,21 +14,21 @@ breadcrumb: [E-signature for Multi-Provider SSO, Multi-Provider SSO configuratio
 
 # Activate Approval with e-Signature plugin
 
-The Approval with e-Signature plugin \(com.glide.e\_signature\_approvals\) allows [[users|users]] to approve requests by re-entering their login credentials.
+The Approval with e-Signature plugin \(com.glide.e\_signature\_approvals\) allows users to approve requests by re-entering their login credentials.
 
 ## Before you begin
 
 Role required: admin
 
-**Note:** You must install the [[code-signing-landing|Code Signing]] Signatures \(`com.glide.code_signing.signatures`\) to install the E-signature plugin.
+**Note:** You must install the Code Signing Signatures \(`com.glide.code_signing.signatures`\) to install the E-signature plugin.
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
-2.  Find the plugin using the [[adaptive-auth-filter-criteria|filter criteria]] and search bar.
+2.  Find the plugin using the filter criteria and search bar.
 
-    You can search for the plugin by its name or ID. If you cannot find a plugin, you might have to [[c_requestAPI|request]] it from ServiceNow personnel.
+    You can search for the plugin by its name or ID. If you cannot find a plugin, you might have to request it from ServiceNow personnel.
 
 3.  Select **Install** to start the installation process.
 
@@ -36,9 +36,4 @@ Role required: admin
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
-## Related
 
-- [[users|Users]]
-- [[code-signing-landing|Code Signing]]
-- [[adaptive-auth-filter-criteria|Filter criteria]]
-- [[c_requestAPI|request]]

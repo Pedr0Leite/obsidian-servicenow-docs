@@ -18,13 +18,13 @@ The questionnaire that you use can depend on your industry, geographic area, jur
 
 ## Types of TPRM SAE Questionnaire template
 
-After upgrading to version 22.0.2 and installing the Unified Content Management application, you can view these questionnaire templates by navigating to **Workspaces** &gt; **Vendor Management Workspace**, select the unified content management icon \[Omitted image "unified-content-mgmt-icon.png"\] Alt text: and then navigate to **Smart [[airc-assessment-templates|assessment templates]]**.
+After upgrading to version 22.0.2 and installing the Unified Content Management application, you can view these questionnaire templates by navigating to **Workspaces** &gt; **Vendor Management Workspace**, select the unified content management icon \[Omitted image "unified-content-mgmt-icon.png"\] Alt text: and then navigate to **Smart assessment templates**.
 
 |Name|Risk Area|Regulation or Purpose|Classification|
 |----|---------|---------------------|--------------|
 |Information Security &amp; Cybersecurity Document Request|Information Security &amp; Cyber Risk|This template is designed to collect comprehensive documentation related to the vendor's information security program, cybersecurity controls, and technical safeguards. It validates the vendor's ability to protect sensitive data, systems, and infrastructure from cyber threats, unauthorised access, and security incidents. Essential for assessing vendors with access to IT systems, networks, or sensitive information.|TPRM external document request|
 |Regulatory Compliance &amp; Legal Document Request|Regulatory Compliance &amp; Legal Risk|This template collects documentation to verify your organisation's adherence to applicable laws, regulations, industry standards, and contractual obligations. We need to evaluate your compliance posture across relevant regulatory frameworks and your ability to meet legal and regulatory requirements. This assessment is essential given the regulated nature of our industry and the regulated data we handle.|TPRM external document request|
-|Business Continuity &amp; [[grc-opres-landing-page|Operational Resilience]] Document Request|Business Continuity &amp; Operational Resilience Risk|This template requests documentation to evaluate your organisation's capability to maintain operations during disruptions, disasters, or [[crisis-management-uib|crisis events]]. We need to assess recovery capabilities, redundancy measures, and operational resilience frameworks. This is critical given your role in providing essential services where downtime could significantly impact our organisation's operations.|TPRM external document request|
+|Business Continuity &amp; Operational Resilience Document Request|Business Continuity &amp; Operational Resilience Risk|This template requests documentation to evaluate your organisation's capability to maintain operations during disruptions, disasters, or crisis events. We need to assess recovery capabilities, redundancy measures, and operational resilience frameworks. This is critical given your role in providing essential services where downtime could significantly impact our organisation's operations.|TPRM external document request|
 |Inherent risk questionnaire|Inherent Third-Party Risk|Internal questionnaire template for assessing inherent risk during due diligence requests.|TPRM internal IRQ|
 |IRQ - 3rd Party Engagement Renewal|Inherent Third-Party Risk|Internal questionnaire for assessing third-party engagement renewal requirements.|TPRM internal IRQ|
 |IRQ - 3rd Party Engagement Onboarding - EU|Inherent Third-Party Risk|Internal questionnaire for third-party engagement onboarding specific to European Union region.|TPRM internal IRQ|
@@ -57,11 +57,11 @@ After upgrading to version 22.0.2 and installing the Unified Content Management 
 |PDPA Personal Data Protection Act - Sample Ques. - Singapore|Data Privacy &amp; Protection Risk|Sample questionnaire for assessing compliance with Singapore Personal Data Protection Act.|TPRM external questionnaire|
 |PCI DSS - Sample Questionnaire|Payment Card &amp; Data Security Risk|Sample questionnaire for assessing vendor compliance with Payment Card Industry Data Security Standard.|TPRM external questionnaire|
 |Operational Resiliency - Sample Questionnaire|Business Continuity &amp; Operational Resilience Risk|Sample questionnaire for assessing vendor operational resilience and recovery capabilities.|TPRM external questionnaire|
-|OSHA - Sample Questionnaire|Workplace Safety &amp; Labor Risk|Sample questionnaire for assessing vendor compliance with Occupational Safety and Health [[Administration|Administration]] requirements.|TPRM external questionnaire|
+|OSHA - Sample Questionnaire|Workplace Safety &amp; Labor Risk|Sample questionnaire for assessing vendor compliance with Occupational Safety and Health Administration requirements.|TPRM external questionnaire|
 |NIST - Sample Questionnaire|Information Security &amp; Cyber Risk|Sample questionnaire for assessing vendor alignment with NIST cybersecurity framework.|TPRM external questionnaire|
 |MiFID II Markets in Financial Instruments Directive II - Sample Questionnaire - EU|Financial &amp; Regulatory Compliance Risk|Sample questionnaire for assessing compliance with MiFID II financial instruments directive.|TPRM external questionnaire|
 |Medical Billing - Sample Questionnaire|Healthcare &amp; Regulatory Compliance Risk|Sample questionnaire for assessing medical billing vendor compliance and practices.|TPRM external questionnaire|
-|MAS Monetary Authority of Singapore BCM - Sample Ques. - Singapore|Business Continuity &amp; Operational Resilience Risk|Sample questionnaire for assessing compliance with MAS [[business-continuity-mangmt-overview|business continuity management]] guidelines.|TPRM external questionnaire|
+|MAS Monetary Authority of Singapore BCM - Sample Ques. - Singapore|Business Continuity &amp; Operational Resilience Risk|Sample questionnaire for assessing compliance with MAS business continuity management guidelines.|TPRM external questionnaire|
 |IRS Internal Revenue Service - Sample Questionnaire - US|Financial &amp; Regulatory Compliance Risk|Sample questionnaire for assessing vendor compliance with Internal Revenue Service requirements.|TPRM external questionnaire|
 |Hi-Trust Health Info Trust Alliance - Sample Questionnaire|Information Security &amp; Cyber Risk|Sample questionnaire for assessing vendor compliance with HITRUST security framework.|TPRM external questionnaire|
 |HIPPA - Sample Questionnaire|Health Data Privacy Risk|Sample questionnaire for assessing vendor compliance with HIPAA health information privacy requirements.|TPRM external questionnaire|
@@ -77,7 +77,7 @@ After upgrading to version 22.0.2 and installing the Unified Content Management 
 |Export Control - Sample Questionnaire|Trade &amp; Export Compliance Risk|Sample questionnaire for assessing vendor compliance with export control regulations.|TPRM external questionnaire|
 |Environmental Lite EPA - Sample Questionnaire|ESG &amp; Sustainability Risk|Streamlined questionnaire for assessing vendor environmental compliance with EPA standards.|TPRM external questionnaire|
 |Environmental Full - Sample Questionnaire|ESG &amp; Sustainability Risk|Comprehensive questionnaire for assessing vendor environmental compliance and sustainability practices.|TPRM external questionnaire|
-|Element Product Risk - Sample|Regulatory Compliance &amp; Legal Risk|Sample questionnaire for assessing product-related risk [[factors|factors]].|TPRM external questionnaire|
+|Element Product Risk - Sample|Regulatory Compliance &amp; Legal Risk|Sample questionnaire for assessing product-related risk factors.|TPRM external questionnaire|
 |Element Facility Risk - Sample|Regulatory Compliance &amp; Legal Risk|Sample questionnaire for assessing facility-related risk factors.|TPRM external questionnaire|
 |Element Facility Datacenter Risk - Sample|Physical &amp; Logical Security Risk|Sample questionnaire for assessing datacenter facility risk factors.|TPRM external questionnaire|
 |Element Beneficial Owner Risk - Sample|Financial Crime &amp; Ethics Risk|Sample questionnaire for assessing beneficial ownership risk factors.|TPRM external questionnaire|
@@ -101,7 +101,7 @@ After upgrading to version 22.0.2 and installing the Unified Content Management 
 |Bribery Act 2010 - Sample Questionnaire|Financial Crime &amp; Ethics Risk|Sample questionnaire for assessing vendor compliance with UK Bribery Act 2010 requirements.|TPRM external questionnaire|
 |BCM - Sample Questionnaire|Business Continuity &amp; Operational Resilience Risk|Sample questionnaire for assessing vendor Business Continuity Management practices.|TPRM external questionnaire|
 |AML - Sample Questionnaire|Financial Crime &amp; Ethics Risk|Sample questionnaire for assessing vendor Anti-Money Laundering controls and compliance.|TPRM external questionnaire|
-|AI Vendor Risk Assessment for Fully Managed AI Service \(Provider/Processor\)|AI Governance &amp; Model Risk|Questionnaire for [[assessing-risks|assessing risks]] associated with fully managed AI service providers and processors.|TPRM external questionnaire|
+|AI Vendor Risk Assessment for Fully Managed AI Service \(Provider/Processor\)|AI Governance &amp; Model Risk|Questionnaire for assessing risks associated with fully managed AI service providers and processors.|TPRM external questionnaire|
 |ABAC - Sample Questionnaire|Financial Crime &amp; Ethics Risk|Sample questionnaire for assessing vendor Anti-Bribery and Anti-Corruption controls.|TPRM external questionnaire|
 |12CFR Part 1016 Privacy -Sample Questionnaire|Financial Privacy Risk|Sample questionnaire for assessing compliance with 12 CFR Part 1016 privacy regulations.|TPRM external questionnaire|
 |Accessibility questions for Software Vendors|Accessibility &amp; Regulatory Compliance Risk|TPRM external questionnaire|TPRM external questionnaire|
@@ -185,12 +185,3 @@ You can view these questionnaire templates by navigating to **All** &gt; **Third
 
 **Parent Topic:**[Third-party Risk Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-reference.md)
 
-## Related
-
-- [[airc-assessment-templates|Assessment templates]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[crisis-management-uib|Crisis events]]
-- [[Administration|Administration]]
-- [[business-continuity-mangmt-overview|Business Continuity Management]]
-- [[factors|factors]]
-- [[assessing-risks|assessing risks]]

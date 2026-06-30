@@ -12,7 +12,7 @@ breadcrumb: [Configure, Now Assist for Care Team Operations, Healthcare and Life
 
 # Enable the Request care team assistance agentic workflow to create care team cases
 
-Enable the [[hco-now-assist-request-assistance|Request care team assistance agentic workflow]] so that care team cases can be created using Now Assist in Virtual Agent.
+Enable the Request care team assistance agentic workflow so that care team cases can be created using Now Assist in Virtual Agent.
 
 ## Before you begin
 
@@ -37,6 +37,3 @@ Role required: admin
 
 The **Request care team assistance** agentic workflow is now enabled in Now Assist in Virtual Agent.
 
-## Related
-
-- [[hco-now-assist-request-assistance|Request care team assistance agentic workflow]]

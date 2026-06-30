@@ -32,7 +32,7 @@ Steps
 
 </th></tr></thead><tbody><tr><td id="d127309e68">
 
-**Using a [[c_DataManagement|data management]] policy**
+**Using a data management policy**
 
 </td><td>
 
@@ -58,7 +58,7 @@ Steps
 
     |Action|Description|
     |------|-----------|
-    |**Archive**|Archive records that [[reference-email-admin|reference]] the archived record.|
+    |**Archive**|Archive records that reference the archived record.|
     |**Clear**|Remove the reference to the archived record. The record no longer references the archived record and doesn't appear as a related record in future archives.|
     |**Delete**|Delete records that reference the archived record.|
 
@@ -102,10 +102,5 @@ Steps
 5.  Select **Submit**.
 
 
-**Parent Topic:**[[archiving-older-records|Archiving records in Core UI]]
+**Parent Topic:**[Archiving records in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/archiving-older-records.md)
 
-## Related
-
-- [[archiving-older-records|Archiving records in Core UI]]
-- [[c_DataManagement|Data Management]]
-- [[reference-email-admin|Reference]]

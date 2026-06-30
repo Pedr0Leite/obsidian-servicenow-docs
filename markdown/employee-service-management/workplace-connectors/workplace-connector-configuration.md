@@ -18,7 +18,7 @@ Configure the connector configuration table \[sn\_wsd\_wc\_connector\_config\] t
 
 ## Before you begin
 
-As a [[workplace-connectors-landing-page|Workplace Connectors]] administrator, add the new connector configuration table to connect with the badging integration framework. This configuration fetches the badging data from the integration framework.
+As a Workplace Connectors administrator, add the new connector configuration table to connect with the badging integration framework. This configuration fetches the badging data from the integration framework.
 
 Role required: sn\_wsd\_wc.admin
 
@@ -34,7 +34,7 @@ Role required: sn\_wsd\_wc.admin
 
 4.  In the **Target table** field, select the target table for the badging spoke data.
 
-    In this case, it’s the [[employee-attendance|Employee Attendance Data]] table. For more information, see [Employee attendance data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/employee-attendance.md).
+    In this case, it’s the Employee Attendance Data table. For more information, see [Employee attendance data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/employee-attendance.md).
 
 5.  In the **Type** field, select the type of data the connector processes from the drop-down list.
 
@@ -55,7 +55,3 @@ Role required: sn\_wsd\_wc.admin
 
 **Next topic:**[Provider connector configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/provider-configuration-ovw.md)
 
-## Related
-
-- [[workplace-connectors-landing-page|Workplace Connectors]]
-- [[employee-attendance|Employee attendance data]]

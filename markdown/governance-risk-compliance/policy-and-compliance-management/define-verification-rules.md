@@ -40,7 +40,7 @@ You can also use the GRC Approval Configurator to configure policy exception rul
     |Field|Description|
     |-----|-----------|
     |Type|Defaults to Verification Rule.|
-    |Name|Enter a name for this [[bcm-approval-configuration|approval configuration]].|
+    |Name|Enter a name for this approval configuration.|
     |Short description|Provide a brief description of the purpose of the configuration.|
     |Source application|Select the application for that applies to this verification rule. Only applications that have been previously added to the Integration Registry are listed.|
     |Active|If this is selected, this verification rule is active and the requester will have the option of requesting an initial approval prior to sending it to the compliance manager for approvals.|
@@ -58,6 +58,3 @@ You can also use the GRC Approval Configurator to configure policy exception rul
 
 **Parent Topic:**[Allow policy exception requests from other applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/allow-other-app-policy-except.md)
 
-## Related
-
-- [[bcm-approval-configuration|Approval configuration]]

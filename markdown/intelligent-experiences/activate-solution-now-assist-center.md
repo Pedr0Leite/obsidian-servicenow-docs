@@ -13,15 +13,15 @@ breadcrumb: [Activating actionable use cases, Use, Now Assist Center, Enable AI 
 
 # Activate an actionable use case in Now Assist Center
 
-Activate a [[platform-now-assist-landing|Now Assist]] solution from an actionable use case card on the [[now-assist-center-landing-page|Now Assist Center]] [[now-assist-center-home-page|home page]].
+Activate a Now Assist solution from an actionable use case card on the Now Assist Center home page.
 
 ## Before you begin
 
-[[now-assist-center-now-assist-panel|Now Assist panel]] must be enabled to activate the use [[cases|cases]]. Actionable use cases work with the Now Assist panel to guide you through the setup in a chat conversation. For more information, see [[now-assist-center-enable-now-assist-panel|Enable the Now Assist panel]].
+Now Assist panel must be enabled to activate the use cases. Actionable use cases work with the Now Assist panel to guide you through the setup in a chat conversation. For more information, see [Enable the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-enable-now-assist-panel.md).
 
-Required plugins must be installed. For more information, see [[install-configure-essential-now-assist-plugins|Install and configure essential Now Assist plugins using Now Assist Center]].
+Required plugins must be installed. For more information, see [Install and configure essential Now Assist plugins using Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-configure-essential-now-assist-plugins.md).
 
-**Note:** If a card displays a Model provider not approved warning, the model provider for that skill has not been approved in [[ai-control-tower-landing|AI Control Tower]]. Resolve this issue before attempting setup for the use case.
+**Note:** If a card displays a Model provider not approved warning, the model provider for that skill has not been approved in AI Control Tower. Resolve this issue before attempting setup for the use case.
 
 Role required: sn\_na\_center.nac\_admin
 
@@ -53,7 +53,7 @@ The actionable use cases section on the home page displays solution cards tailor
 
 5.  When the panel asks you to confirm, respond to proceed with the activation.
 
-6.  Follow any additional [[ai-prompts|prompts]] in the panel to complete the setup.
+6.  Follow any additional prompts in the panel to complete the setup.
 
 
 ## Result
@@ -64,25 +64,12 @@ After it is activated, the card disappears and the new solution appears under th
 
 ## What to do next
 
-To monitor the performance of the activated solution, review the Recently activated AI section on the home page. For more information, see [[monitor-now-assist-performance-now-assist-center|Monitor your recently activated Now Assist solution in Now Assist Center]].
+To monitor the performance of the activated solution, review the Recently activated AI section on the home page. For more information, see [Monitor your recently activated Now Assist solution in Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/monitor-now-assist-performance-now-assist-center.md).
 
-**Parent Topic:**[[now-assist-center-actionable-use-cases|Activating actionable use cases from Now Assist Center]]
+**Parent Topic:**[Activating actionable use cases from Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-actionable-use-cases.md)
 
 **Related topics**  
 
 
 [Install and configure essential Now Assist plugins using Now Assist Center]()
 
-## Related
-
-- [[now-assist-center-enable-now-assist-panel|Enable the Now Assist panel]]
-- [[install-configure-essential-now-assist-plugins|Install and configure essential Now Assist plugins using Now Assist Center]]
-- [[monitor-now-assist-performance-now-assist-center|Monitor your recently activated Now Assist solution in Now Assist Center]]
-- [[now-assist-center-actionable-use-cases|Activating actionable use cases from Now Assist Center]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-center-landing-page|Now Assist Center]]
-- [[now-assist-center-home-page|Home page]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[cases|Cases]]
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[ai-prompts|Prompts]]

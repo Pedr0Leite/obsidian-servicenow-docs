@@ -30,7 +30,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[install-psds-information-request-playbook|Install Information Request Playbook application]]
+[Install Information Request Playbook application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/install-psds-information-request-playbook.md)
 
 </td><td>
 
@@ -71,7 +71,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[install-psds-service-request-playbook|Install Service Request Playbook application]]
+[Install Service Request Playbook application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/install-psds-service-request-playbook.md)
 
 </td><td>
 
@@ -91,7 +91,7 @@ You can activate the Customer Service Mobile plugin \(com.sn\_csm\_mobile\) usin
 
 </td><td>
 
-Install the Field Service Management plugin to view the work orders related list. For more information, see [[psds-integration-fsm|Integration with Field Service Management]].
+Install the Field Service Management plugin to view the work orders related list. For more information, see [Integration with Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-integration-fsm.md).
 
 </td></tr><tr><td>
 
@@ -134,8 +134,4 @@ Role required: admin
 
     Agents with the above roles can now log in to the Mobile Agent and work on Service Request cases assigned to them.
 
-## Related
 
-- [[install-psds-information-request-playbook|Install Information Request Playbook for Public Sector Digital Services]]
-- [[install-psds-service-request-playbook|Install Service Request Playbook for Public Sector Digital Services]]
-- [[psds-integration-fsm|Integration with Field Service Management]]

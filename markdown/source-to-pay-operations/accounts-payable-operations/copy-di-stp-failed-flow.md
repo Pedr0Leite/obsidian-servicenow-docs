@@ -37,7 +37,7 @@ Scope: sn\_ap\_ic scope.
 
 4.  In the **New flow name** field, enter a name for the copied flow.
 
-5.  In the **Application** field, select **[[apo-docintel-integration|Accounts Payable Operations integration with Document Intelligence]]**.
+5.  In the **Application** field, select **Accounts Payable Operations integration with Document Intelligence**.
 
 6.  Select **Copy**.
 
@@ -47,6 +47,4 @@ Scope: sn\_ap\_ic scope.
 
 8.  Select **Activate**.
 
-## Related
 
-- [[apo-docintel-integration|Accounts Payable Operations integration with Document Intelligence]]

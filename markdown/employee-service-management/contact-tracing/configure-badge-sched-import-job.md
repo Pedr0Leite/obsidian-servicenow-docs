@@ -14,7 +14,7 @@ breadcrumb: [Setting up Contact Tracing, Contact Tracing, Safe Workplace, Health
 
 # Modify the scheduled data import job
 
-As an administrator, review and modify the scheduled data import jobs used for importing badge access and Wi-Fi access data from an Excel file into the [[contact-tracing|Contact Tracing]] application.
+As an administrator, review and modify the scheduled data import jobs used for importing badge access and Wi-Fi access data from an Excel file into the Contact Tracing application.
 
 ## Before you begin
 
@@ -49,6 +49,3 @@ These jobs are set for manual execution to import the [badge access data](https:
 
 [Importing data using import sets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/t_ScheduleADataImport.md)
 
-## Related
-
-- [[contact-tracing|Contact Tracing]]

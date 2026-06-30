@@ -14,7 +14,7 @@ breadcrumb: [Configuring search in a portal, Configuring Service Portal, Service
 
 # Zing search in Service Portal
 
-[[c_ServicePortal|Service Portal]] search supports the ServiceNow Zing text indexing and search engine. Zing allows you to index and search record data by table and is created entirely with ServiceNow code and implemented within the relational model.
+Service Portal search supports the ServiceNow Zing text indexing and search engine. Zing allows you to index and search record data by table and is created entirely with ServiceNow code and implemented within the relational model.
 
 To make data searchable from Service Portal, you create search sources that fetch data from a single table within your ServiceNow instance, from multiple ServiceNow tables, or from an external site.
 
@@ -51,7 +51,7 @@ Associate a portal with a text index group to create common search rules and to 
 
 ## Search suggestions and typeahead search
 
-Search suggestions replaces typeahead search in Service Portal. Update the **glide.service\_portal.search\_as\_you\_type\_behavior** system property to change this behavior. For more information, see [Enable and disable search suggestions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/enable-search-suggestions.md). Service Portal [[search-widgets|search widgets]] automatically use whichever feature you enable.
+Search suggestions replaces typeahead search in Service Portal. Update the **glide.service\_portal.search\_as\_you\_type\_behavior** system property to change this behavior. For more information, see [Enable and disable search suggestions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/enable-search-suggestions.md). Service Portal search widgets automatically use whichever feature you enable.
 
 ## Search facets
 
@@ -62,7 +62,7 @@ Enable your end users to filter search results for a more meaningful result set.
 
 **Note:** Only set search facets for indexed fields. Fields that are not indexed may take longer to return results and are not optimized for a fast search experience. Learn more: [Configure a table for indexing and searching](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-single-table-for-indexing.md).
 
-Search facets render in the [[faceted-search|Faceted Search widget]] on the sp\_search page. In new instances, search facets are enabled by default. If upgrading from a previous release, [[enable-facets|enable search facets]] by activating a record in the Page Route Maps \[sp\_page\_route\_map\] table. See [Enable search facets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/enable-facets.md).
+Search facets render in the Faceted Search widget on the sp\_search page. In new instances, search facets are enabled by default. If upgrading from a previous release, enable search facets by activating a record in the Page Route Maps \[sp\_page\_route\_map\] table. See [Enable search facets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/enable-facets.md).
 
 -   **Simple**
 
@@ -75,11 +75,11 @@ Search facets render in the [[faceted-search|Faceted Search widget]] on the sp\_
     |API|Use|
     |---|---|
     |SPScriptedFacetService - Scoped|Creates a single or multi choice facet.|
-    |SPScriptedFacet - Scoped|Defines facet items, [[c_Filters|filters]], or mapped queries for the facet.|
+    |SPScriptedFacet - Scoped|Defines facet items, filters, or mapped queries for the facet.|
 
 
 -   **[Define a search source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/add-table-search-source.md)**  
-[[configure-onboarding-modals|Configure]] a basic search source to query data from an instance table, or configure an advanced data fetch script to query data across multiple tables and data sources, or to pull data from anywhere on the web.
+Configure a basic search source to query data from an instance table, or configure an advanced data fetch script to query data across multiple tables and data sources, or to pull data from anywhere on the web.
 -   **[Enable search facets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/enable-facets.md)**  
 In new instances, search facets are enabled by default. If upgrading from a previous release, enable search facets by activating a record in the Page Route Maps \[sp\_page\_route\_map\] table.
 -   **[Add facets to a simple search source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/create-search-filter.md)**  
@@ -97,11 +97,3 @@ Use contextual search to limit search results for an instance of the type-ahead 
 
 **Parent Topic:**[Configuring search in a portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/search-service-portal.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[search-widgets|Search widgets]]
-- [[faceted-search|Faceted Search widget]]
-- [[enable-facets|Enable search facets]]
-- [[c_Filters|Filters]]
-- [[configure-onboarding-modals|Configure]]

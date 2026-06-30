@@ -15,7 +15,7 @@ breadcrumb: [Configuring, Health Log Analytics, ITOM AIOps, IT Operations Manage
 
 # Set up Health Log Analytics on your ServiceNow instance
 
-Implement [[hla-landing-page|Health Log Analytics]] on your ServiceNow instance.
+Implement Health Log Analytics on your ServiceNow instance.
 
 **Important:**
 
@@ -55,6 +55,3 @@ Verify that Health Log Analytics can function properly by performing diagnostic 
 
 **Parent Topic:**[Configuring Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-configuring.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

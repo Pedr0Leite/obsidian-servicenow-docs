@@ -16,7 +16,7 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 Discover how to set the **glide.enforce\_security\_scope.sn\_hr\_va** property to a secure value, preventing data leakage from the Virtual Agent Conversations scoped application.
 
-The **glide.enforce\_security\_scope.sn\_hr\_va** property restricts the [[sc-access-control|access control]] lists \(ACLs\) of several human resources \(HR\) tables to only consider the sn\_hr\_va scope. If this property is not set to the recommended value of true, then data from the Human Resources: Virtual Agent Conversations scoped application will be exposed to ACLs from all other scopes. For example, this could allow the IT Administrator to access HR data.
+The **glide.enforce\_security\_scope.sn\_hr\_va** property restricts the access control lists \(ACLs\) of several human resources \(HR\) tables to only consider the sn\_hr\_va scope. If this property is not set to the recommended value of true, then data from the Human Resources: Virtual Agent Conversations scoped application will be exposed to ACLs from all other scopes. For example, this could allow the IT Administrator to access HR data.
 
 ## More information
 
@@ -30,7 +30,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -42,7 +42,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -97,8 +97,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[sc-access-control|Access control]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

@@ -25,14 +25,14 @@ When a finding is identified, the integration can automatically or manually gene
 
 **Note:** Jira, Azure DevOps, and the Other integration type do not use My SN Instances. They authenticate using a basic auth record and an API token configured directly in Scan Engine Properties.
 
--   **[[configuring-sn-integration-options|Configure ServiceNow user story integration]]**  
+-   **[Configure ServiceNow user story integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configuring-sn-integration-options.md)**  
 Configure the ServiceNow instance user story integration to create stories in a production instance directly from finding records on a non-production instance.
--   **[[configure-jira-integration-options|Configure Jira user story integration]]**  
+-   **[Configure Jira user story integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configure-jira-integration-options.md)**  
 Configure the Jira user story integration to create work items in a Jira project directly from Scan Engine finding records.
--   **[[configure-azure-devops-integration-options|Configure Azure DevOps story integration]]**  
+-   **[Configure Azure DevOps story integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configure-azure-devops-integration-options.md)**  
 Perform the following procedure to configure your Azure DevOps integration options.
 
-**Parent Topic:**[[instance-integration-scan-engine|Scan Engine integrations]]
+**Parent Topic:**[Scan Engine integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/instance-integration-scan-engine.md)
 
 **Related topics**  
 
@@ -43,12 +43,5 @@ Perform the following procedure to configure your Azure DevOps integration optio
 
 [Configure Azure DevOps story integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configure-azure-devops-integration-options.md)
 
-[[configure-other-integration-options|Configure other integration options]]
+[Configure other integration options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configure-other-integration-options.md)
 
-## Related
-
-- [[configuring-sn-integration-options|Configure ServiceNow user story integration]]
-- [[configure-jira-integration-options|Configure Jira user story integration]]
-- [[configure-azure-devops-integration-options|Configure Azure DevOps story integration]]
-- [[instance-integration-scan-engine|Scan Engine integrations]]
-- [[configure-other-integration-options|Configure other integration options]]

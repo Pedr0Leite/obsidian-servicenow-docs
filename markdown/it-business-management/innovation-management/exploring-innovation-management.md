@@ -14,7 +14,7 @@ breadcrumb: [Innovation Management, Project Portfolio Management, Strategic Port
 
 # Exploring Innovation Management
 
-The [[innovation-management-landing|Innovation Management]] application is a central repository to gather and [[evaluate-ideas-actions|evaluate ideas]] to determine which ideas are most likely to be implemented.
+The Innovation Management application is a central repository to gather and evaluate ideas to determine which ideas are most likely to be implemented.
 
 ## Innovation Management overview
 
@@ -52,12 +52,7 @@ To learn more about configuring and using Innovation Management, see:
 -   [Innovation Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/innovation-management-reference.md)
 
 -   **[Predictive Intelligence for Innovation Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/predictive-intelligence-for-innovation.md)**  
-The [[predictive-intelligence-for-innovation|Predictive Intelligence for Innovation Management]] capability uses machine-learning algorithms to search and display similar ideas while submitting a new idea.
+The Predictive Intelligence for Innovation Management capability uses machine-learning algorithms to search and display similar ideas while submitting a new idea.
 
 **Parent Topic:**[Innovation Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/innovation-management-landing.md)
 
-## Related
-
-- [[innovation-management-landing|Innovation Management]]
-- [[evaluate-ideas-actions|Evaluate ideas]]
-- [[predictive-intelligence-for-innovation|Predictive Intelligence for Innovation Management]]

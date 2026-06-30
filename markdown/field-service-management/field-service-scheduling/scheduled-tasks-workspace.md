@@ -14,7 +14,7 @@ breadcrumb: [Working on scheduled tasks, Using Dispatcher Workspace, Assigning t
 
 # Manage scheduled tasks in Dispatcher Workspace
 
-As a dispatcher, you can move scheduled tasks to the Assigned state or move them back to the Pending dispatch state in [[dispatcher-activities|Dispatcher Workspace]].
+As a dispatcher, you can move scheduled tasks to the Assigned state or move them back to the Pending dispatch state in Dispatcher Workspace.
 
 ## Before you begin
 
@@ -98,7 +98,3 @@ Steps
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[dispatcher-activities|Dispatcher Workspace]]

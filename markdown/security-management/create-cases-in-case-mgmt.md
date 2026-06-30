@@ -12,7 +12,7 @@ breadcrumb: [Security Case Management, Threat Intelligence, Enterprise security 
 
 # Create cases in Security Case Management
 
-Cases are used to track information about a [[campaign|campaign]] or state actor threatening your organization. After a case is created, you can add artifacts that allow you to review and analyze all related information within a single case record.
+Cases are used to track information about a campaign or state actor threatening your organization. After a case is created, you can add artifacts that allow you to review and analyze all related information within a single case record.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ r
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[threat-intel-landing-page|Threat Intelligence]]** &gt; **Case Management** &gt; **All Cases**.
+1.  Navigate to **All** &gt; **Threat Intelligence** &gt; **Case Management** &gt; **All Cases**.
 
     The Security Cases list opens.
 
@@ -60,21 +60,13 @@ r
 
 6.  Click **Submit**.
 
-    After the record has been saved, you can click the **Case Artifacts** tab and [[add-records-to-cases|add artifacts to the case]].
+    After the record has been saved, you can click the **Case Artifacts** tab and [add artifacts to the case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/add-records-to-cases.md).
 
 
 -   **[Add artifacts to a case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/add-records-to-cases.md)**  
-After you have created a case, you can add artifacts, such as security incidents, CIs, and [[c_IoCs|indicators of compromise]], to the case. These artifacts act as clues in solving the case.
--   **[[associate-mitre-att-ck-information-with-security-case-management|Associate MITRE-ATT&amp;CK information with security case]]**  
+After you have created a case, you can add artifacts, such as security incidents, CIs, and indicators of compromise, to the case. These artifacts act as clues in solving the case.
+-   **[Associate MITRE-ATT&amp;CK information with security case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/associate-mitre-att-ck-information-with-security-case-management.md)**  
 Associate MITRE-ATT&amp;CK tactics and techniques to a security case for better security case management and threat analysis at a granular level.
 
-**Parent Topic:**[[case-mgmt|Security Case Management]]
+**Parent Topic:**[Security Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/case-mgmt.md)
 
-## Related
-
-- [[add-records-to-cases|Add artifacts to a case]]
-- [[associate-mitre-att-ck-information-with-security-case-management|Associate MITRE-ATT&amp;CK information with security case]]
-- [[case-mgmt|Security Case Management]]
-- [[campaign|Campaign]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[c_IoCs|Indicators of compromise]]

@@ -14,7 +14,7 @@ breadcrumb: [Floor map, Network visualization view, Use, Telecommunications Netw
 
 # Map Indoor Mapping campus to a datacenter
 
-Map an Indoor Mapping campus to a datacenter Configuration Item \(CI\) so you can view the datacenter's network infrastructure in the [[telecom-network-inventory|Telecommunications Network Inventory]].
+Map an Indoor Mapping campus to a datacenter Configuration Item \(CI\) so you can view the datacenter's network infrastructure in the Telecommunications Network Inventory.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Map an Indoor Mapping campus to a datacenter Configuration Item \(CI\) so you ca
 
 ## About this task
 
-After you create a Indoor Mapping campus record, you must map it to the datacenter Configuration Item \(CI\). Synchronize the campus with a location record, which is where the datacenter is located. Now you can open the campus in the [[using-floor-map|floor map]] and view the datacenter infrastructure.
+After you create a Indoor Mapping campus record, you must map it to the datacenter Configuration Item \(CI\). Synchronize the campus with a location record, which is where the datacenter is located. Now you can open the campus in the floor map and view the datacenter infrastructure.
 
 **Note:** If you use the same CMN location when creating the data center and campus, the campus will be automatically mapped to the CI.
 
@@ -73,7 +73,3 @@ View the details of your datacenter infrastructure using the floor map. To learn
 
 [Floor map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/visualization-floor-maps.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[using-floor-map|Floor map]]

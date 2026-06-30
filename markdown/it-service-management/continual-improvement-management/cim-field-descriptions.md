@@ -78,7 +78,7 @@ Approver group
 
 Group of users that have permission to approve the improvement initiative.
 
- CIM Approvers group is added with [[cim-landing-page|Continual Improvement Management]]. Default is empty.
+ CIM Approvers group is added with Continual Improvement Management. Default is empty.
 
 </td></tr><tr><td>
 
@@ -390,7 +390,7 @@ Source/Parent
 
 Source or parent application from which the improvement initiative was created.
 
--   [[cf-coaching-landing|Coaching]] Opportunity \(COP\)
+-   Coaching Opportunity \(COP\)
 
 Coaching opportunity record to which the improvement initiative is linked.
 
@@ -419,7 +419,7 @@ Problem record to which the improvement initiative is linked.
 Assessment metric type for the survey definition record to which the improvement initiative is linked.
 
 
-**Note:** This field is shown only when an improvement initiative is created from Coaching, CMDB, Demand Management, GRC, [[c_IncidentManagement|Incident Management]], [[c_ProblemManagement|Problem Management]], or Survey Management [[dex-workspace-application-tab|applications]].
+**Note:** This field is shown only when an improvement initiative is created from Coaching, CMDB, Demand Management, GRC, Incident Management, Problem Management, or Survey Management applications.
 
 </td></tr></tbody>
 </table>## Schedule tab
@@ -836,10 +836,3 @@ Date the improvement initiative was created.
 </td></tr></tbody>
 </table>**Parent Topic:**[Continual Improvement Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/cim-reference.md)
 
-## Related
-
-- [[cim-landing-page|Continual Improvement Management]]
-- [[cf-coaching-landing|Coaching]]
-- [[c_IncidentManagement|Incident Management]]
-- [[c_ProblemManagement|Problem Management]]
-- [[dex-workspace-application-tab|Applications]]

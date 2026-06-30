@@ -14,7 +14,7 @@ breadcrumb: [Configure, SPW Jira Integrations, Strategic Planning, Strategic Por
 
 # Setting up a Jira instance for SPW Jira Integrations
 
-Establish a connection between [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace \(SPW\) and Jira using a Jira instance record.
+Establish a connection between Strategic Planning Workspace \(SPW\) and Jira using a Jira instance record.
 
 Before connecting SPW and Jira, you need a Jira instance record and Jira connection alias in your ServiceNow instance.
 
@@ -47,6 +47,3 @@ Create a Jira instance record which is later used to connect Strategic Planning 
 
 **Parent Topic:**[Configuring SPW Jira Integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/configuring-spw-jira-integrations.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

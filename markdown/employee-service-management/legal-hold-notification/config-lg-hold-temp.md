@@ -22,7 +22,7 @@ Role required: sn\_lg\_ops.legal\_config
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[document-templates-overview|Document Templates]]** &gt; **All Document Template**.
+1.  Navigate to **All** &gt; **Document Templates** &gt; **All Document Template**.
 
 2.  Select **New**.
 
@@ -52,7 +52,7 @@ Application
 
 </td><td>
 
-The application to which the template belongs, which in this case is [[lg-hold-notif-landing-page|Legal Hold Notification]].**Legal Hold Notification**.
+The application to which the template belongs, which in this case is Legal Hold Notification.**Legal Hold Notification**.
 
 </td></tr><tr><td>
 
@@ -76,7 +76,3 @@ A new legal hold notice template is created.
 
 **Parent Topic:**[Configure Legal Hold Notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/config-lg-hold-notif.md)
 
-## Related
-
-- [[document-templates-overview|Document Templates]]
-- [[lg-hold-notif-landing-page|Legal Hold Notification]]

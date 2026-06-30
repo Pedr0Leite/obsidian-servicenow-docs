@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **[[impact-landing-page|Impact]]** &gt; **[[platform-health-idi|Platform Health]]** &gt; **Monitor** &gt; **Instance Observer**.
+1.  Navigate to **Impact** &gt; **Platform Health** &gt; **Monitor** &gt; **Instance Observer**.
 
 2.  From the **Performance** menu, select the telemetry option to evaluate.
 
@@ -42,10 +42,5 @@ Role required: admin
     -   Download to PNG, SVG, or CSV files or view transactions on the instance.
     -   Change the report type.
 
-**Parent Topic:**[[instance-observer-performance|Performance]]
+**Parent Topic:**[Performance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/instance-observer-performance.md)
 
-## Related
-
-- [[instance-observer-performance|Performance]]
-- [[impact-landing-page|Impact]]
-- [[platform-health-idi|Platform Health]]

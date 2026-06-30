@@ -22,7 +22,7 @@ Role required: sn\_customerservice\_agent, sn\_customerservice.consumer\_agent, 
 
 Users with the major issue manager role receive a notification email when a major case candidate is created. These users can click the link in the notification email to open the major case candidate in the platform interface.
 
-**Note:** All major case candidates are automatically created as proactive cases as they are created internally and on behalf of the customer. To leverage the full capabilities of [[proactive-service-operations|Proactive Customer Service Operations]], install the Proactive Operations Management \(com.snc.proactive\_cs\_ops\) plugin.
+**Note:** All major case candidates are automatically created as proactive cases as they are created internally and on behalf of the customer. To leverage the full capabilities of Proactive Customer Service Operations, install the Proactive Operations Management \(com.snc.proactive\_cs\_ops\) plugin.
 
 You can also create a major case candidate from Agent Workspace.
 
@@ -36,6 +36,4 @@ You can also create a major case candidate from Agent Workspace.
 
 4.  Click **Submit**.
 
-## Related
 
-- [[proactive-service-operations|Proactive Customer Service Operations]]

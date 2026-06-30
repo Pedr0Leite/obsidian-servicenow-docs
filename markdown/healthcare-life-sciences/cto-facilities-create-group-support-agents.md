@@ -12,7 +12,7 @@ breadcrumb: [Configure, Care Team Operations for Facilities, Healthcare Operatio
 
 # Create a group for all location support agents in Care Team Operations for Facilities
 
-Create a group for location support agents with the **sn\_cto\_facilities.loc\_support\_agent** role assigned so that users added to this group inherits the collection of roles for [[cto-facilities-landing|Care Team Operations for Facilities]].
+Create a group for location support agents with the **sn\_cto\_facilities.loc\_support\_agent** role assigned so that users added to this group inherits the collection of roles for Care Team Operations for Facilities.
 
 ## Before you begin
 
@@ -45,6 +45,3 @@ The location support agent role will only give healthcare organization members t
 
 A user group is created for your location support agents to which you can assign your facilities fulfillers when doing automated user imports.
 
-## Related
-
-- [[cto-facilities-landing|Care Team Operations for Facilities]]

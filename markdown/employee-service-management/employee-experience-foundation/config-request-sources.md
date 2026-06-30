@@ -14,7 +14,7 @@ breadcrumb: [Enhanced Requests Experience, Setup task management, Configuring Em
 
 # Set up request sources
 
-Create different request sources for different applications to see all your requests under the Requests section on [[employee-center-landing-page|Employee Center]].
+Create different request sources for different applications to see all your requests under the Requests section on Employee Center.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: sn\_hr\_sp.esc\_admin
 
     For existing customers a fix script is shipped with Employee Center version 38.0 to sync data with the request sources and the request filter conditions when you upgrade.
 
-3.  On the [[request-source-form|Request source form]], fill in the fields, and select **Submit**.
+3.  On the Request source form, fill in the fields, and select **Submit**.
 
     For a description of the field values, see [Request source form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/request-source-form.md).
 
@@ -37,7 +37,3 @@ Role required: sn\_hr\_sp.esc\_admin
 
 You've created a request source for your preferred application.
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[request-source-form|Request source form]]

@@ -12,7 +12,7 @@ breadcrumb: [Setting up CSM integration with IT Service Management, Integrate wi
 
 # Integrate with IT Service Management using Guided Setup
 
-Use the Guided Setup to integrate [[c_CustomerServiceManagement|Customer Service Management]] with the Request, Incident, Problem, and Change Management applications.
+Use the Guided Setup to integrate Customer Service Management with the Request, Incident, Problem, and Change Management applications.
 
 ## Before you begin
 
@@ -30,13 +30,10 @@ To configure the integration with the Request, Incident, Problem, and Change Man
 
 3.  In the Integration with Service Management category, click **Get Started**.
 
-    The Integration with Service Management page opens with a list of tasks to activate plugins and [[configure-data-model-roles|assign roles]].
+    The Integration with Service Management page opens with a list of tasks to activate plugins and assign roles.
 
 4.  To perform a task, click **Configure**.
 
     This button opens the page in your instance where the configuration is completed.
 
-## Related
 
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[configure-data-model-roles|Assign roles]]

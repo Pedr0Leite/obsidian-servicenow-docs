@@ -14,7 +14,7 @@ breadcrumb: [Legal Virtual Agent Conversations, Legal Service Delivery, Legal an
 
 # Start a chat session through Legal Counsel Center Inbox
 
-Accept an incoming chat request through [[legal-counsel-center-landing|Legal Counsel Center]] Inbox to start a chat session with the requester.
+Accept an incoming chat request through Legal Counsel Center Inbox to start a chat session with the requester.
 
 ## Before you begin
 
@@ -59,6 +59,3 @@ The live agent support enables a chat interaction between an employees and legal
 
 [bundle-platux.interaction-message-agent-workspace]
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]

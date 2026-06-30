@@ -14,7 +14,7 @@ breadcrumb: [Manage Predictive Intelligence for User Reported Phishing, Security
 
 # Final verdict generation for User Reported Phishing
 
-[[sir-landing-page|Security Incident Response]] teams can now drive the finalized verdict for a user reported phishing record based on results from predictive intelligence and threat enrichment integrations.
+Security Incident Response teams can now drive the finalized verdict for a user reported phishing record based on results from predictive intelligence and threat enrichment integrations.
 
 This final verdict generation is enabled through a decision table construct and leveraged within a flow.
 
@@ -29,8 +29,8 @@ The **Decision Inputs** tab shows the different conditions that were evaluated t
 The following conditions are available with the base system:
 
 -   Predicted as suspicious: When predictive intelligence has classified the user reported phishing email as **suspicious**.
--   At least one observable is malicious: When an observable involved in the security incident \(For example, URL, Domain, IP, Hash\) has been classified as **malicious** by [[threat-intel-landing-page|threat intelligence]] sources.
--   [[tisc-observable-enrichment|Observable enrichment]] are suspect: When enrichment on [[c_Observables|observables]] \(For example, recency of phishing domain registration, country of phishing domain registration\) are deemed to be suspect.
+-   At least one observable is malicious: When an observable involved in the security incident \(For example, URL, Domain, IP, Hash\) has been classified as **malicious** by threat intelligence sources.
+-   Observable enrichment are suspect: When enrichment on observables \(For example, recency of phishing domain registration, country of phishing domain registration\) are deemed to be suspect.
 -   Sender domain is spoofed: When the phisher’s email domain is suspected of spoofing a trusted domain.
 -   Sender name is spoofed: When the phisher’s email address is suspect of spoofing an trusted employee of an organization.
 
@@ -44,7 +44,7 @@ The following decisions are available with the base system:
 
 You can see the conditions that were evaluated for each of the final verdict options. Select the Label link to see the conditions.
 
-You can customize the decision table provided with the base system or create your own decision table. This decision table can be leveraged in [[cj-sir-about-flows|security incident response playbooks]]. The **Generate Final Verdict for Phishing Security Incidents** subflow is available with the base system. This subflow automatically generates the final verdict for a phishing security incident and applies a security tag based on that decision. You can include this subflow as part of the **Automated Phishing** playbook.
+You can customize the decision table provided with the base system or create your own decision table. This decision table can be leveraged in security incident response playbooks. The **Generate Final Verdict for Phishing Security Incidents** subflow is available with the base system. This subflow automatically generates the final verdict for a phishing security incident and applies a security tag based on that decision. You can include this subflow as part of the **Automated Phishing** playbook.
 
 The inputs for this subflow are:
 
@@ -56,10 +56,3 @@ The inputs for this subflow are:
 
 The output of this flow can be **Confirmed Phish**, **Likely Phish**, or **Likely Benign**.
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[tisc-observable-enrichment|Observable Enrichment]]
-- [[c_Observables|Observables]]
-- [[cj-sir-about-flows|Security Incident Response playbooks]]

@@ -18,7 +18,7 @@ The Help resolve tuition reimbursement requests agentic workflow streamlines the
 
 ## Help resolve tuition reimbursement requests overview
 
-The Help Resolve Tuition Reimbursement Requests agentic workflow automates the evaluation of employee tuition reimbursement submissions using the Policy-based HR evaluator skill to compare course information provided through the [[employee-center-landing-page|Employee Center]] against company policies documented in knowledge articles. For each request, the workflow collects the submitted course details, analyzes them against policy requirements, and returns a case analysis with one of three decisions: approval if the request meets all policy requirements, denial with explanation if requirements are not met, or a request for additional information if the submission is incomplete.
+The Help Resolve Tuition Reimbursement Requests agentic workflow automates the evaluation of employee tuition reimbursement submissions using the Policy-based HR evaluator skill to compare course information provided through the Employee Center against company policies documented in knowledge articles. For each request, the workflow collects the submitted course details, analyzes them against policy requirements, and returns a case analysis with one of three decisions: approval if the request meets all policy requirements, denial with explanation if requirements are not met, or a request for additional information if the submission is incomplete.
 
 **Note:** This agentic workflow is designed for reimbursement requests for courses that were pre-approved and completed. The [Help resolve tuition requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/now-assist-hrsd-ai-agents-policy-resolving-tr-usecase.md) agentic workflow helps employees evaluate whether a course meets company requirements before the employee enrolls.
 
@@ -55,6 +55,3 @@ In the Help resolve tuition reimbursement requests workflow, the agentic workflo
 2.  Locate and open **TR Case Created or Updated**.
 3.  Select the **Active** option to enable the business rule.
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

@@ -22,11 +22,11 @@ Role required: sn\_hr\_core.admin
 
 ## About this task
 
-Answers from the [[ut-emp-form|employee form]] are stored in the Metric Results \[asmt\_metric\_result\] table. You can query the answers using [[hr-criteria|HR criteria]]. For example, if on an invention disclosure form, the new hire answers yes, then you can use that answer to trigger the creation of another task to collect details on the invention.
+Answers from the employee form are stored in the Metric Results \[asmt\_metric\_result\] table. You can query the answers using HR criteria. For example, if on an invention disclosure form, the new hire answers yes, then you can use that answer to trigger the creation of another task to collect details on the invention.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **HR Criteria**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **HR Criteria**.
 
 2.  Click **New**.
 
@@ -126,8 +126,3 @@ Depending on the case type, the HR criteria record will use the following survey
 
 **Parent Topic:**[Collect employee input](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/employee-form-configuration.md)
 
-## Related
-
-- [[ut-emp-form|Employee form]]
-- [[hr-criteria|HR criteria]]
-- [[c_AdministerHRServiceManagement|HR Administration]]

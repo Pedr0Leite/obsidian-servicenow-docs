@@ -14,7 +14,7 @@ breadcrumb: [Track experience scores, Digital Experience Score, Digital End-User
 
 # Track application experience scores
 
-Track and drill down into the quantitative and qualitative data on the [[dexscr-digital-experience-score|Digital Experience Score​]] dashboard to gain a comprehensive view into employee experiences of using work [[dex-workspace-application-tab|applications]].
+Track and drill down into the quantitative and qualitative data on the Digital Experience Score​ dashboard to gain a comprehensive view into employee experiences of using work applications.
 
 ## Before you begin
 
@@ -74,7 +74,7 @@ Applications needing attention
 
 </td><td>
 
-The three applications with lowest experience scores and the changes in scores from the previous period. Selecting an application name displays the application's experience score page and details of the application's [[perf-metrics-mob|performance metrics]].
+The three applications with lowest experience scores and the changes in scores from the previous period. Selecting an application name displays the application's experience score page and details of the application's performance metrics.
 
 </td></tr></tbody>
 </table>7.  View a list of all applications and access an application's metric details either by selecting a number in the **No. of applications** column or the **View all applications** link.
@@ -95,8 +95,3 @@ The three applications with lowest experience scores and the changes in scores f
 
 [DEX Score normalization for metric scores](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/dexscr-dex-score-normalization.md)
 
-## Related
-
-- [[dexscr-digital-experience-score|Digital Experience Score​]]
-- [[dex-workspace-application-tab|Applications]]
-- [[perf-metrics-mob|Performance metrics]]

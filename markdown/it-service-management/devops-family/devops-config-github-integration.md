@@ -14,7 +14,7 @@ breadcrumb: [Integrating your pipeline in DevOps Config, DevOps Config, IT Servi
 
 # GitHub pipeline actions
 
-Use these actions in your GitHub pipeline to interact with the [[devops-config-landing-page|DevOps Config]] data model.
+Use these actions in your GitHub pipeline to interact with the DevOps Config data model.
 
 **Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
@@ -482,6 +482,4 @@ exporter-arguments
             exporter-data-format: XML
     ```
 
-## Related
 
-- [[devops-config-landing-page|DevOps Config]]

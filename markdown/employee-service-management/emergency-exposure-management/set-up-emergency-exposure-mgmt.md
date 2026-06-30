@@ -14,7 +14,7 @@ breadcrumb: [Emergency Exposure Management, Emergency Response Management, Emplo
 
 # Set up Emergency Exposure Management
 
-After installing the [[emergency-exposure-management|Emergency Exposure Management]] application, set up tracing system for your data sources, diagnostic request task configuration, and register Microsoft applications.
+After installing the Emergency Exposure Management application, set up tracing system for your data sources, diagnostic request task configuration, and register Microsoft applications.
 
 ## Before you begin
 
@@ -28,13 +28,10 @@ Role required: sn\_imt\_diagnosis.diagnostics\_admin or admin
 
 2.  [Set up a tracing system for an exposure data source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-exposure-management/set-up-tracing-system.md).
 
-    A tracing system corresponds to a [[contact-tracing|contact tracing]] data source that you can select in a diagnostic request to identify potential exposure from an affected employee.
+    A tracing system corresponds to a contact tracing data source that you can select in a diagnostic request to identify potential exposure from an affected employee.
 
 3.  [Create or modify a diagnostic request task configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-exposure-management/create-diagnostic-task-config.md).
 
     A diagnostic request task enables you to perform some manual tasks to fetch potentially exposed employees in a diagnostic request report for an affected employee.
 
-## Related
 
-- [[emergency-exposure-management|Emergency Exposure Management]]
-- [[contact-tracing|Contact Tracing]]

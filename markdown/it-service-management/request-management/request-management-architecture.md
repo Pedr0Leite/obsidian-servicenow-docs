@@ -14,7 +14,7 @@ breadcrumb: [Explore, Request Management, IT Service Management]
 
 # Request Management architecture
 
-[[c_RequestManagement|Request Management]] allows catalog items to be requested and fulfilled based on defined flows.
+Request Management allows catalog items to be requested and fulfilled based on defined flows.
 
 ## Request Management hierarchy
 
@@ -50,7 +50,7 @@ When a user submits a request for a catalog item, records are generated in the f
     4.  The temporary cart is checked out by performing these steps.
         1.  A record in the Request \[sc\_request\] table is initialized but not committed in the database.
         2.  A record in Request Item \[sc\_req\_item\] table is initialized but not committed in the database.
-        3.  The request [[reference-for-itsm-mobile-agent|reference]] for the Request Item \[sc\_req\_item\] table record is updated with the Request \[sc\_request\] table record.
+        3.  The request reference for the Request Item \[sc\_req\_item\] table record is updated with the Request \[sc\_request\] table record.
         4.  The variables record in the Options \[sc\_item\_option\] and Variable Ownership \[sc\_item\_option\_mtom\] tables are updated based on the Request Item \[sc\_req\_item\] table record.
         5.  The Request Item \[sc\_req\_item\] table record is committed in the database.
         6.  The Request \[sc\_request\] table record is committed in the database.
@@ -78,7 +78,3 @@ When a user submits a request for a catalog item, records are generated in the f
 
 [Create a request from Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/request-management/create-request-from-ur.md)
 
-## Related
-
-- [[c_RequestManagement|Request Management]]
-- [[reference-for-itsm-mobile-agent|Reference]]

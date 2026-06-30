@@ -20,9 +20,9 @@ Role required: sn\_oper\_res.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[data-relationship-framework|Data Relationships Framework]]** &gt; **Main node configuration** and open the desired Main node configuration from the [[list-view-uib-ws|list view]].
+1.  Navigate to **All** &gt; **Data Relationships Framework** &gt; **Main node configuration** and open the desired Main node configuration from the list view.
 
-2.  Open the Nexus map configuration record from the [[nexus-map-configuration|Nexus map configurations]] related list.
+2.  Open the Nexus map configuration record from the Nexus map configurations related list.
 
     The following example shows the Nexus map configuration record with the Node configurations related list.
 
@@ -34,7 +34,7 @@ Role required: sn\_oper\_res.admin
 
     \[Omitted image "node-config-new-record.png"\] Alt text: Node configuration new record.
 
-    For more information on the fields, see [[node-configuration-form|Node configuration form]].
+    For more information on the fields, see [Node configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/node-configuration-form.md).
 
 4.  Select the table in the **Table** field.
 
@@ -69,12 +69,5 @@ Role required: sn\_oper\_res.admin
 
 ## What to do next
 
-To customize the map display such as assigning specific colors and icons to nodes that meet certain conditions, configure the Node status configuration. For more information, see [[configure-node-status-configurations|Configure the Node status configurations]].
+To customize the map display such as assigning specific colors and icons to nodes that meet certain conditions, configure the Node status configuration. For more information, see [Configure the Node status configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-node-status-configurations.md).
 
-## Related
-
-- [[node-configuration-form|Node configuration form]]
-- [[configure-node-status-configurations|Configure the Node status configurations]]
-- [[data-relationship-framework|Data Relationships Framework]]
-- [[list-view-uib-ws|List view]]
-- [[nexus-map-configuration|Nexus map configurations]]

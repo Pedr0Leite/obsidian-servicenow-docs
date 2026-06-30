@@ -12,7 +12,7 @@ breadcrumb: [Phone channel, Enable communication channels, Configure, Customer S
 
 # Configuring Omnichannel Callback for Customer Service Management
 
-Configure various aspects of [[omni-callback-csm|Omnichannel Callback for Customer Service Management]] to enable callback feature based on the specific requirements of your organization.
+Configure various aspects of Omnichannel Callback for Customer Service Management to enable callback feature based on the specific requirements of your organization.
 
 Installing and configuring Omnichannel Callback for Customer Service Management enables your customers to request a callback from various channels such a Virtual Agent, the Customer Service Portal, and Engagement Messenger.
 
@@ -20,16 +20,8 @@ The configuration process consists of the configuration tasks listed in the foll
 
 |Task|Description|
 |----|-----------|
-|[[install-csm-omni-callback-app|Install Omnichannel Callback for Customer Service Management]]|Install the [[omnichannel|Omnichannel]] Callback application \(sn\_callback\).|
-|[[configure-omni-callback-behaviour|Configure the callback behavior for Omnichannel Callback for Customer Service Management]]|Configure the various aspects of callback such as max retry attempts and expire time.|
-|[[publish-callback-va-topics|Publish the Virtual Agent topics for callback]]|Publish the callback virtual agent topics to display the callback option to customers on Virtual Agent clients.|
-|[[em-callback|Callback feature configuration form]]|Configure the callback feature in Engagement Messenger.|
+|[Install Omnichannel Callback for Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/install-csm-omni-callback-app.md)|Install the Omnichannel Callback application \(sn\_callback\).|
+|[Configure the callback behavior for Omnichannel Callback for Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-omni-callback-behaviour.md)|Configure the various aspects of callback such as max retry attempts and expire time.|
+|[Publish the Virtual Agent topics for callback](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/publish-callback-va-topics.md)|Publish the callback virtual agent topics to display the callback option to customers on Virtual Agent clients.|
+|[Callback feature configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/em-callback.md)|Configure the callback feature in Engagement Messenger.|
 
-## Related
-
-- [[install-csm-omni-callback-app|Install Omnichannel Callback for Customer Service Management]]
-- [[configure-omni-callback-behaviour|Configure the callback behavior for Omnichannel Callback for Customer Service Management]]
-- [[publish-callback-va-topics|Publish the Virtual Agent topics for callback]]
-- [[em-callback|Callback feature configuration form]]
-- [[omni-callback-csm|Omnichannel Callback for Customer Service Management]]
-- [[omnichannel|Omnichannel]]

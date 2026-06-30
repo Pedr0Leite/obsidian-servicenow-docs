@@ -14,7 +14,7 @@ breadcrumb: [Threat Intelligence Feeds, Integrate, Threat Intelligence Security 
 
 # Duplicate threat intelligence feeds
 
-Duplicate a threat feed to create an exact copy with all associated [[c_Observables|observables]], [[indicator|indicators]], and actors when you want to modify settings without affecting the original feed.
+Duplicate a threat feed to create an exact copy with all associated observables, indicators, and actors when you want to modify settings without affecting the original feed.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_sec\_tisc.admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center**.
 
 2.  Select the **Integrations** icon.
 
@@ -41,8 +41,3 @@ Role required: sn\_sec\_tisc.admin
 
 **Parent Topic:**[Threat Intelligence Feeds](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/threat-intelligence-feeds.md)
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[indicator|Indicators]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]

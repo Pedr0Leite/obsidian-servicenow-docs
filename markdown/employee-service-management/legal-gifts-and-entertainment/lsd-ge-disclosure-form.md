@@ -14,7 +14,7 @@ breadcrumb: [Reference, Gifts and Entertainment Compliance, Legal Service Delive
 
 # Gift and entertainment disclosure form
 
-Use the [[lsd-ge-policy-form|Gift Policies form]] to add policy in accordance with your organization's policy.
+Use the Gift Policies form to add policy in accordance with your organization's policy.
 
 <table id="simpletable_uzg_jlj_tkb"><thead><tr><th>
 
@@ -133,6 +133,3 @@ Indicates whether the company involved is state-owned.
 </td></tr></tbody>
 </table>**Parent Topic:**[Gifts and Entertainment Compliance reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-gifts-and-entertainment/lsd-ge-reference.md)
 
-## Related
-
-- [[lsd-ge-policy-form|Gift Policies form]]

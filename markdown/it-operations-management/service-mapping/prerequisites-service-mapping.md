@@ -14,9 +14,9 @@ breadcrumb: [Configuring Service Mapping, Service Mapping, ITOM Visibility, IT O
 
 # Prerequisites for performing top-down discovery using Service Mapping
 
-Learn about credentials, users, and user permissions you must configure to let [[c_ServiceMappingOverview|Service Mapping]] access and discover applications inside your organization private network.
+Learn about credentials, users, and user permissions you must configure to let Service Mapping access and discover applications inside your organization private network.
 
-Configure the relevant requirements to enable successful top-down [[r-discovery|discovery]]:
+Configure the relevant requirements to enable successful top-down discovery:
 
 -   **Host credentials**
 
@@ -55,7 +55,7 @@ Use the following guidelines to decide for which MID Server to create credential
 
 In addition to generic credentials, you configure on MID Servers, you must configure sudo-level credentials on all Unix-based hosts in your organization.
 
-If the MID Server does not have sufficient credentials to access a device or application, it can run Network Mapper \(Nmap\) commands to collect basic information without using credentials. [[nmap-credential-less-discovery|Credential-less discovery with Nmap]] requires additional configuration as described in [Install and uninstall Nmap on a MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/install-nmap-on-mid-server.md).
+If the MID Server does not have sufficient credentials to access a device or application, it can run Network Mapper \(Nmap\) commands to collect basic information without using credentials. Credential-less discovery with Nmap requires additional configuration as described in [Install and uninstall Nmap on a MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/install-nmap-on-mid-server.md).
 
 Review the list of credentials necessary to discover hosts and applications supported in the base system.
 
@@ -465,7 +465,7 @@ Service Mapping uses the SSH credentials to retrieve connections that are not fr
         -   `list gtm wideip`
         -   `list gtm wideip all`
 -   For F5REST pattern:
-    -   For horizontal discovery [[using-discovery|using Discovery]], provide read-only permissions to run the following APIs:
+    -   For horizontal discovery using Discovery, provide read-only permissions to run the following APIs:
 
         -   `"https://" + $ipAddress + "/mgmt/tm/ltm/pool"`
         -   `"https://" + $ipAddress + "/mgmt/tm/sys/global-settings"`
@@ -502,7 +502,7 @@ Service Mapping uses the SSH credentials to retrieve connections that are not fr
     -   Create [basic authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/r_BasicAuthCredentialsForm.md) credentials.
     -   Create [a credential alias](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/discovery-credential-alias.md) for the basic authentication credential.
     -   Create a [serverless discovery schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/create-serverless-sched-f5-rest-oauth.md).
--   For top-down discovery [[using-service-mapping|using Service Mapping]], provide permissions to run the following APIs:
+-   For top-down discovery using Service Mapping, provide permissions to run the following APIs:
 
     -   `https://" get_attr {"managementIP"}"/mgmt/tm/ltm/"get_attr {"irule"}`
     -   `https://" get_attr {"managementIP"}"/mgmt/tm/ltm/virtual/~Common~"get_attr {"vip_name"}`
@@ -1179,7 +1179,7 @@ An LPAR is virtual machine equivalent of IBM.
     -   `lssysconn -r all -F type_model_serial_num:ipaddr`
 -   Verify you have permissions for the following AIX \(LPAR\) command: `lparstat -i`.
 
-**Note:** The `lparstat -i` command is in addition to the commands required for [[r_DataCollDiscoAIXComputers|AIX server discovery]]. For more information on AIX server discovery, see [AIX server discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_DataCollDiscoAIXComputers.md). For a list of the AIX commands, see [Service Mapping commands requiring a privileged user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/r_CommandsnCredentials.md).
+**Note:** The `lparstat -i` command is in addition to the commands required for AIX server discovery. For more information on AIX server discovery, see [AIX server discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_DataCollDiscoAIXComputers.md). For a list of the AIX commands, see [Service Mapping commands requiring a privileged user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/r_CommandsnCredentials.md).
 
 -   Configure SSH credentials on the ServiceNow AI Platform. For more information, see [SSH credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/r_SSHCredentialsForm.md).
 
@@ -2981,11 +2981,3 @@ Service Mapping accesses network infrastructure devices like load balancers and 
 
 [PowerShell for Discovery and Service Mapping]()
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]
-- [[nmap-credential-less-discovery|Credential-less discovery with Nmap]]
-- [[using-discovery|Using Discovery]]
-- [[using-service-mapping|Using Service Mapping]]
-- [[r_DataCollDiscoAIXComputers|AIX server discovery]]

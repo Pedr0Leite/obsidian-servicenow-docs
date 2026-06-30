@@ -14,7 +14,7 @@ breadcrumb: [Industrial Guided Tasks, Use, Digital Factory Workspace, Industrial
 
 # Using templates to create standards
 
-You can create templates as a means to implement structured standards. These templates are developed and maintained by [[industrial-connected-workforce-overview|Industrial Connected Workforce]] \(ICW\) admins and are made accessible to operators through the Standards hub.
+You can create templates as a means to implement structured standards. These templates are developed and maintained by Industrial Connected Workforce \(ICW\) admins and are made accessible to operators through the Standards hub.
 
 ## About standard templates
 
@@ -78,14 +78,9 @@ Operators can also choose to create a standard without using a template.
 -   **[Create an assessment template category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/create-assessment-template-category-icw.md)**  
 Set up an assessment template category so that you can build standard templates for that category and use them in the Standards hub.
 -   **[Create an assessment template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/create-assessment-template-icw.md)**  
-[[create-assessment-template-icw|Create an assessment template]] for creating standards from templates in the [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]].
+Create an assessment template for creating standards from templates in the Digital Factory Workspace.
 -   **[Create a standard from a template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/create-standard-from-template.md)**  
 Create a standard by using available templates within your organization. This approach saves time and promotes consistency compared to building a new standard manually.
 
 **Parent Topic:**[Using Industrial Guided Tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/using-industrial-guided-tasks.md)
 
-## Related
-
-- [[industrial-connected-workforce-overview|Industrial Connected Workforce]]
-- [[create-assessment-template-icw|Create an assessment template]]
-- [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]

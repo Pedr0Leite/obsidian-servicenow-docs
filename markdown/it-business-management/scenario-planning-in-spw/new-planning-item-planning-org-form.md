@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Strategic Planning, Reference, Portfolio
 
 # Planning item type form
 
-Learn about the fields of the new table form that are required to add a new planning item type in [[alignment-planner-workspace-landing-page|Strategic Planning]].
+Learn about the fields of the new table form that are required to add a new planning item type in Strategic Planning.
 
 <table id="table_bnt_zb3_gqb"><thead><tr><th>
 
@@ -46,7 +46,7 @@ Application
 
 </td><td>
 
-This field is automatically set to **[[portfolio-planning-app-landing-page|Portfolio Planning]]** based on your scope.
+This field is automatically set to **Portfolio Planning** based on your scope.
 
  If this field shows a different value, then ensure that your ServiceNow instance is in **Portfolio Planning** scope.
 
@@ -74,7 +74,3 @@ If this new table is a type of planning item, select **Planning Item**.
 
 [Define a new planning item type in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-planning-organization-and-planning-item-type.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

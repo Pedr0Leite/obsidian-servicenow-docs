@@ -15,7 +15,7 @@ breadcrumb: [General chat settings, Configuring Conversational Interfaces, Conve
 
 # Add your bot to a portal
 
-Give your users a place to interact with your bot and human agents. Choose a Service Portal chat configuration provided with your base system, such as the Service Portal [[ci-use-agent-chat|Agent Chat]] configuration used for Agent Chat and [[virtual-agent-landing-page|Virtual Agent]]. Your end users can initiate and maintain a bot or Agent Chat conversation in any page of the portal.
+Give your users a place to interact with your bot and human agents. Choose a Service Portal chat configuration provided with your base system, such as the Service Portal Agent Chat configuration used for Agent Chat and Virtual Agent. Your end users can initiate and maintain a bot or Agent Chat conversation in any page of the portal.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Home**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Home**.
 
 2.  Under **Add your bot to a portal**, select **Add to portal** to configure the base system portal.
 
@@ -138,11 +138,5 @@ Your end users can initiate and maintain an Agent Chat or Virtual Agent conversa
     In Service Portal, you can customize the Agent Chat button and pass page data to Agent Chat. For more information, see [Configure Agent Chat in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-va-in-sp.md).
 
 
-**Parent Topic:**[[ci-configuring-chat-features|General chat settings]]
+**Parent Topic:**[General chat settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ci-configuring-chat-features.md)
 
-## Related
-
-- [[ci-configuring-chat-features|General chat settings]]
-- [[ci-use-agent-chat|Agent Chat]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]

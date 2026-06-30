@@ -14,7 +14,7 @@ breadcrumb: [Securing and encrypting MID Server data, MID Server, Manage instanc
 
 # MID Server command audit log
 
-The command audit log records the commands run by the [[mid-server-landing|MID Server]] for the Discovery application. Review the commands to check for anomalies or errors.
+The command audit log records the commands run by the MID Server for the Discovery application. Review the commands to check for anomalies or errors.
 
 <table id="table_m2t_cv4_nhb"><tbody><tr><td>
 
@@ -25,7 +25,7 @@ The command audit log records the commands run by the [[mid-server-landing|MID S
 
 ## Enable the command audit log
 
-The MID Server audit log is enabled with the MID Server property **mid.log.command\_audit.enable**, which is set to false by default. Add the property in the **[[r_MIDServerProperties|MID Server Properties]]** table \[ecc\_agent\_property\_list.do\]. Once enabled, the MID Server command audit logs are accessed in the instance by navigating to **MID Server** &gt; **Command Audit Logs** \[ecc\_agent\_command\_audit\_log\_list.do\]. To see or change this table, the user must have the role **agent\_security\_admin**.
+The MID Server audit log is enabled with the MID Server property **mid.log.command\_audit.enable**, which is set to false by default. Add the property in the **MID Server Properties** table \[ecc\_agent\_property\_list.do\]. Once enabled, the MID Server command audit logs are accessed in the instance by navigating to **MID Server** &gt; **Command Audit Logs** \[ecc\_agent\_command\_audit\_log\_list.do\]. To see or change this table, the user must have the role **agent\_security\_admin**.
 
 \[Omitted image "mid-audit-logs.png"\] Alt text: Typical data in the MID Server command audit logs.
 
@@ -74,7 +74,3 @@ By default, the table is rotated every seven days. For more information, see [Ta
 
 [MID Server Governance]()
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[r_MIDServerProperties|MID Server properties]]

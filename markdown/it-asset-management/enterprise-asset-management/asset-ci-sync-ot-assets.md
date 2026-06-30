@@ -55,7 +55,7 @@ Whenever there are updates to **Serial number** or **MAC address** fields, the C
 -   The Discovery source is **SNassetmanagement**, which means that the CI is created from an asset.
 -   CI name hasn't been modified by CMDB.
 
-**Note:** The **sn\_itam\_common.mac\_address\_sync** system property enables you to synchronize asset and CI using the Mac address. By default, this system property is set to **false**. To enable synchronization through the Mac address, set this system property to **true** by navigating to **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Admin center** &gt; **Other configuration**.
+**Note:** The **sn\_itam\_common.mac\_address\_sync** system property enables you to synchronize asset and CI using the Mac address. By default, this system property is set to **false**. To enable synchronization through the Mac address, set this system property to **true** by navigating to **Enterprise Asset Workspace** &gt; **Admin center** &gt; **Other configuration**.
 
 ## OT entity synchronization between asset and CI
 
@@ -71,7 +71,7 @@ The CI \[cmdb\_ci\] table has the **OT entity** \[cmdb\_ot\_entity\] field. Also
 **Related topics**  
 
 
-[OT [[am-landing-page|Asset Management]] licensing]()
+[OT Asset Management licensing]()
 
 [Install OT Asset Management]()
 
@@ -79,7 +79,3 @@ The CI \[cmdb\_ci\] table has the **OT entity** \[cmdb\_ot\_entity\] field. Also
 
 [OT Asset Workspace]()
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[am-landing-page|Asset Management]]

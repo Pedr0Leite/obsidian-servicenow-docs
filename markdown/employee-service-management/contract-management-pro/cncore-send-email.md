@@ -127,7 +127,7 @@ To discard the email, select **Discard draft**.
 </table>
 ## Result
 
-After the email is sent, it is added to the [[activity-lxp|activity]] stream on the request form. Emails you receive from others are also added to the activity stream.
+After the email is sent, it is added to the activity stream on the request form. Emails you receive from others are also added to the activity stream.
 
 To see a list of available default email notifications, go to **All** &gt; **System Notifications** &gt; **Notifications** and search for the **Contracts Support** category.
 
@@ -135,6 +135,3 @@ For more information, see [Create an email notification](https://raw.githubuserc
 
 **Parent Topic:**[Using Contract Management Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-use-cmpro.md)
 
-## Related
-
-- [[activity-lxp|Activity]]

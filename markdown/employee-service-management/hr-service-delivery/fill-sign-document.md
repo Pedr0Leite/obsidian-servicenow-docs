@@ -19,11 +19,11 @@ Complete your document task by filling in the required details and submitting th
 ## Before you begin
 
 -   Role required: none
--   This content applies only to the [[document-templates-overview|document templates]] that are created in the Document Templates application \(sn\_doc\). Document Templates is different from HR Document Templates. For HR Document Templates, refer to .
+-   This content applies only to the document templates that are created in the Document Templates application \(sn\_doc\). Document Templates is different from HR Document Templates. For HR Document Templates, refer to .
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-service** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Self-service** &gt; **Employee Center**.
 
     Alternatively, you can complete your document tasks by navigating to **Self-Service** &gt; **My Document Tasks**.
 
@@ -56,7 +56,3 @@ Complete your document task by filling in the required details and submitting th
 
 **Parent Topic:**[Working on a document task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/work-doctemp-tasks.md)
 
-## Related
-
-- [[document-templates-overview|Document Templates]]
-- [[employee-center-landing-page|Employee Center]]

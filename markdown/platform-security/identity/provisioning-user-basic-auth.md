@@ -14,7 +14,7 @@ breadcrumb: [Tutorial: Configure SCIM for user provisioning with a Provider, SCI
 
 # Provisioning user using Basic Authentication
 
-Configuring SCIM automatically provisions and de-provisions [[users|users]] and groups to ServiceNow by using the providers' provisioning service with [[basic-authentication|Basic Authentication]].
+Configuring SCIM automatically provisions and de-provisions users and groups to ServiceNow by using the providers' provisioning service with Basic Authentication.
 
 ## Before you begin
 
@@ -26,11 +26,11 @@ You must activate the SCIM plugin.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Web Services** &gt; **[[inbound-authentication-profile|REST API Access Policies]]** to check the details on the REST API Access Policies.
+1.  Navigate to **All** &gt; **System Web Services** &gt; **REST API Access Policies** to check the details on the REST API Access Policies.
 
-2.  In the [[api-access-policy|API Access Policy]] page, click the **SCIM API Policy** record.
+2.  In the API Access Policy page, click the **SCIM API Policy** record.
 
-3.  Verify the **SCIM API Basic Auth** record is available in the [[c_Authentication|Authentication]] Profiles sections.
+3.  Verify the **SCIM API Basic Auth** record is available in the Authentication Profiles sections.
 
 4.  Select **Basic Auth** as the Type.
 
@@ -40,10 +40,4 @@ You must activate the SCIM plugin.
 
     **Note:** If the connection fails, ensure that your ServiceNow account has admin permissions and try again.
 
-## Related
 
-- [[users|Users]]
-- [[basic-authentication|Basic authentication]]
-- [[inbound-authentication-profile|REST API access policies]]
-- [[api-access-policy|API access policy]]
-- [[c_Authentication|Authentication]]

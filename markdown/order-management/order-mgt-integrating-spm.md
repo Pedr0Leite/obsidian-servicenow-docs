@@ -12,16 +12,16 @@ breadcrumb: [Integrate, Sales Customer Relationship Management]
 
 # Order Management integration with Strategic Portfolio Management
 
-The [[explore-order-management|Order Management]] application provides an integration with the ServiceNow® Strategic Portfolio Management \(SPM\) application enables project oversight of complex [[reviewing-orchestration-plans-order-fulfillment|order fulfillment]] tasks.
+The Order Management application provides an integration with the ServiceNow® Strategic Portfolio Management \(SPM\) application enables project oversight of complex order fulfillment tasks.
 
 Use this integration to handle order line items, planned order tasks as projects, create project at the order level, create program, reuse program, create site project and reuse site project in the SPM.
 
 ## Features
 
--   Automates the creation of SPM programs, site projects, and projects based on program and project oversight [[rules_101|rules]], enabling project managers to track order fulfillment activities within a project in SPM.
+-   Automates the creation of SPM programs, site projects, and projects based on program and project oversight rules, enabling project managers to track order fulfillment activities within a project in SPM.
 -   Enable fulfillment agents, managers, and project managers to view related lists that show the relationship between an order line item and project, site locations and site projects, domain order and project task, and order task and project task.
 -   Supports tracking and synchronization of one or more order tasks.
--   Supports staggered/in-flight orders for new tasks created as part of [[staggered-decomposition|staggered decomposition]] or in-flight changes. Uses predefined planned order tasks that enable synchronization between order fulfillment and project tasks.
+-   Supports staggered/in-flight orders for new tasks created as part of staggered decomposition or in-flight changes. Uses predefined planned order tasks that enable synchronization between order fulfillment and project tasks.
 -   Closes project tasks automatically when child tasks and associated order tasks or domain orders are completed or canceled.
 -   Supports an agent to create project at the order level to manage large projects.
 -   Maps the project specification tasks to the order tasks.
@@ -40,9 +40,3 @@ Use this integration to handle order line items, planned order tasks as projects
 -   Enables to see the details of project task and status for domain orders and order tasks.
 -   Configurable mapping to auto-generate programs, site projects, and sub-projects from customer orders, sites, and products.
 
-## Related
-
-- [[explore-order-management|Order management]]
-- [[reviewing-orchestration-plans-order-fulfillment|Order fulfillment]]
-- [[rules_101|Rules]]
-- [[staggered-decomposition|Staggered decomposition]]

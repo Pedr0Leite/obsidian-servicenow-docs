@@ -61,7 +61,7 @@ Hosting/Containment RelationsScenario: A physical server hosts several virtual m
 
 -   Group alerts using CMDB hosting/containment rules to aggregate alerts related to the physical server and its hosted VMs into a single alert group.
 -   Provide a comprehensive view of all alerts tied to the physical server's failure.
--   Focus [[ccg-remediation|remediation]] efforts on the physical server while monitoring the VMs to ensure all aspects are addressed efficiently.
+-   Focus remediation efforts on the physical server while monitoring the VMs to ensure all aspects are addressed efficiently.
 
 </td></tr><tr><td>
 
@@ -81,7 +81,3 @@ Applicative RelationsScenario: An enterprise application relies on multiple micr
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[ccg-remediation|Remediation]]

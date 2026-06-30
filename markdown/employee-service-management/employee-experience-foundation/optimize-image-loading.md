@@ -14,7 +14,7 @@ breadcrumb: [Managing portal performance, Configuring Employee Center Pro, Emplo
 
 # Improve the image load time on Employee Center
 
-Use CDN URLs to reduce the load time of the banner images, background images, and app icons on the [[employee-center-landing-page|Employee Center]] portal.
+Use CDN URLs to reduce the load time of the banner images, background images, and app icons on the Employee Center portal.
 
 ## Before you begin
 
@@ -28,11 +28,11 @@ You can manage the icon images, background images on the profile pages, banner i
 
 The feature considerably improves the first load time of the graphics. The load time keeps improving as frequently you use and reload the pages.
 
-The CDN URL support is available for the Popular topics, the [[emp-center-quick-link-config|Quick Links]], and the My applications widgets.
+The CDN URL support is available for the Popular topics, the Quick Links, and the My applications widgets.
 
 **Note:**
 
--   My applications is only available with the [[employee-center-pro-landing|Employee Center Pro]] license.
+-   My applications is only available with the Employee Center Pro license.
 -   The ServiceNow AI Platform® provides support to create and manage your own CDN server and URL. The configuration and maintenance are the responsibility of the customer.
 
 ## Procedure
@@ -58,8 +58,3 @@ The CDN URL support is available for the Popular topics, the [[emp-center-quick-
 
 **Parent Topic:**[Managing portal performance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/improve-manage.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[emp-center-quick-link-config|Quick links]]
-- [[employee-center-pro-landing|Employee Center Pro]]

@@ -24,7 +24,7 @@ Role required: sn\_sec\_tisc.admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Administration** &gt; **Inbound Intel Sharing**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center** &gt; **Administration** &gt; **Inbound Intel Sharing**.
 
 2.  Select **Inbound Intel Sharing Profiles**.
 
@@ -173,6 +173,3 @@ Specifies the tags to be added to all the inbound intelligence received from ext
 
 [Defining Approval Rule for Inbound Intel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-approval-inbound-intel.md)
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]

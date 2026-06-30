@@ -14,7 +14,7 @@ breadcrumb: [Instance Scan references, Instance Scan, Maintain and monitor, Admi
 
 # Instance Scan properties
 
-On the properties form, you can set [[r_DirectJDBCProbeParameters|parameters]] that control how the instance executes.
+On the properties form, you can set parameters that control how the instance executes.
 
 <table id="table_f14_32f_yhc"><thead><tr><th>
 
@@ -30,7 +30,7 @@ glide.scan.inactive\_records
 
 </td><td>
 
--   Controls whether [[hs-landing-page|instance scan]] considers inactive records, where active=false
+-   Controls whether instance scan considers inactive records, where active=false
 -   The default value is false. Instance Scan scans only the active records
 -   When enabled, scans will include inactive records in the health check evaluation
 
@@ -95,7 +95,3 @@ glide.scan.sn\_non\_standard\_scopes\_list
 
 [Instance Scan roles]()
 
-## Related
-
-- [[r_DirectJDBCProbeParameters|Parameters]]
-- [[hs-landing-page|Instance Scan]]

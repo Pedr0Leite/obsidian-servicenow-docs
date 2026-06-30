@@ -26,7 +26,7 @@ You must have **Enable single select groups / territories** off in settings to s
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Field Service** &gt; **Dispatching** &gt; **[[dispatcher-activities|Dispatcher Workspace]].**.
+1.  Navigate to **All** &gt; **Field Service** &gt; **Dispatching** &gt; **Dispatcher Workspace.**.
 
 2.  Select Dispatcher Workspace.
 
@@ -36,6 +36,4 @@ You must have **Enable single select groups / territories** off in settings to s
 
 5.  Select **Apply**.
 
-## Related
 
-- [[dispatcher-activities|Dispatcher Workspace]]

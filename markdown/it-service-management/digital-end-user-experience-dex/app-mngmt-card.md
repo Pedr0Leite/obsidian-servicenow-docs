@@ -14,7 +14,7 @@ breadcrumb: [Administration cards, DEX Application and Device Health reference, 
 
 # Application management card
 
-The Application management card shows the list of the used [[dex-workspace-application-tab|applications]], application type, end-user OS, and whether an application is included in the metrics or compliance monitoring.
+The Application management card shows the list of the used applications, application type, end-user OS, and whether an application is included in the metrics or compliance monitoring.
 
 <table id="table_nzs_1cp_qdc"><thead><tr><th>
 
@@ -77,6 +77,3 @@ Operating system associated with the application.
 
 **Parent Topic:**[Administration cards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/administration-cards.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]

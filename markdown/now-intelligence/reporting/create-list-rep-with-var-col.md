@@ -22,13 +22,13 @@ Roles required: itil, report\_user, report\_group, report\_global, report\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Data Visualizations** and select **New**.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations** and select **New**.
 
 2.  On the **Data** tab, give the report a name that reflects the information being grouped.
 
 3.  Select a report source that has variables associated with it.
 
-    There are two kinds of [[c_ReportSources|report sources]]. For [[list-reports|list reports]] with variables, the report source is usually the service catalog table.
+    There are two kinds of report sources. For list reports with variables, the report source is usually the service catalog table.
 
 <table id="simpletable_wrg_yz2_4wb"><thead><tr><th>
 
@@ -138,7 +138,7 @@ Configure fields based on calculation of multiple inputs including arithmetic fu
 
     2.  Select the sort plus icon \(\[Omitted image "sort-order-plus-icon.png"\] Alt text: Sort plus icon\) to configure additional sorting order conditions. \(Select the sort minus icon \( \[Omitted image "sort-order-minus-icon.png"\] Alt text: Sort minus icon\) to delete configured sorting order conditions.\)
     3.  Select **Save**.
-    For fields of the type Choice list, sort order is not determined alphabetically based on Label, it is sorted based on the **Value** of the choice field. For multi-level pivot table and [[c_HeatmapCharts|heatmap reports]], sort order is determined by the sequence of the choices in the list.
+    For fields of the type Choice list, sort order is not determined alphabetically based on Label, it is sorted based on the **Value** of the choice field. For multi-level pivot table and heatmap reports, sort order is determined by the sequence of the choices in the list.
 
     \[Omitted image "choice-list-sort-order.png"\] Alt text: Report sorted by priority choice list
 
@@ -165,9 +165,3 @@ Configure fields based on calculation of multiple inputs including arithmetic fu
     -   The default number of rows in a list report exported to PDF is 1000. To configure this value, enter `sys_properties.list` in the Filter Navigator, and edit the property glide.pdf.max\_rows. For more information, see: Add a system property.
     -   Despite list filtering, pdf-format exported rows will count all record rows sequentially up to the export limit and show as blank for roles prevented by ACLs from viewing restricted data.
 
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[c_ReportSources|Report sources]]
-- [[list-reports|List reports]]
-- [[c_HeatmapCharts|Heatmap reports]]

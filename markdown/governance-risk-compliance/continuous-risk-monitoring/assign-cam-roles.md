@@ -26,7 +26,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **User [[Administration|Administration]]** &gt; **Users**.
+1.  Navigate to **All** &gt; **User Administration** &gt; **Users**.
 
 2.  Select the name of a user.
 
@@ -40,6 +40,4 @@ Role required: admin
 
     **Note:** If the Employee Operator plugin is installed, then each of these roles \(such as Authorization Official, Executive Reader, and Reader\) is classified as a lite role.
 
-## Related
 
-- [[Administration|Administration]]

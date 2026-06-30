@@ -12,10 +12,7 @@ breadcrumb: [Now Assist for CPQ, Sales Customer Relationship Management]
 
 # Configuring Now Assist for Configure, Price, Quote \(CPQ\)
 
-Configure the [[now-assist-for-cpq-landing|Now Assist for Configure, Price, Quote \(CPQ\)]] application so that your agents can use the generative AI skills in CSM Configurable Workspace and Business Portal.
+Configure the Now Assist for Configure, Price, Quote \(CPQ\) application so that your agents can use the generative AI skills in CSM Configurable Workspace and Business Portal.
 
 Use the Now Assist Admin console to configure Now Assist for CPQ. Use the Now Assist for CPQ plugin to install and configure the generative AI skills.
 
-## Related
-
-- [[now-assist-for-cpq-landing|Now Assist for Configure, Price, Quote \(CPQ\)]]

@@ -18,7 +18,7 @@ Automatically generate a post-incident analysis for a security incident that inc
 
 ## Before you begin
 
-You must have the post-incident analysis skill activated if you want a post-incident analysis generated automatically by [[now-assist-security-incident-landing|Now Assist for Security Incident Response]].
+You must have the post-incident analysis skill activated if you want a post-incident analysis generated automatically by Now Assist for Security Incident Response.
 
 If the Close notes are already populated manually prior to closing the security incident, this content is not over-written by Now Assist for Security Incident Response when analysts set the State field to **Closed**.
 
@@ -30,7 +30,7 @@ Roles required: sn\_si.analyst, sn\_si.manager, or sn\_si.basic
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Security Incident** &gt; **[[sir-workspace-landing-page|Security Incident Response Workspace]]** and open a security incident that is assigned to you.
+1.  Navigate to **All** &gt; **Security Incident** &gt; **Security Incident Response Workspace** and open a security incident that is assigned to you.
 
 2.  On the **Details** tab, select **Closed** in the State field to close the security incident.
 
@@ -67,10 +67,6 @@ Roles required: sn\_si.analyst, sn\_si.manager, or sn\_si.basic
 
 9.  Select **Close Incident**.
 
-    The post-incident analysis is saved in the Post incident analysis field on the Details tab and on the [[vr-va-ws-overview-tab|Overview tab]] on security incidents in Security Incident Response Workspace.
+    The post-incident analysis is saved in the Post incident analysis field on the Details tab and on the Overview tab on security incidents in Security Incident Response Workspace.
 
-## Related
 
-- [[now-assist-security-incident-landing|Now Assist for Security Incident Response]]
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[vr-va-ws-overview-tab|Overview tab]]

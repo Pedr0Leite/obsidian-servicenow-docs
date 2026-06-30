@@ -12,11 +12,11 @@ breadcrumb: [CPQ app, Configure, price, quote apps, Configure, Sales Customer Re
 
 # Customizing the CPQ UI header
 
-Customize the CPQ UI header to reflect your brand with logos, text, and background styles. Configure header elements and buttons—such as [[cancel|Cancel]], Reset, Return, and Switch Layout—through the layout CSV file to create a branded, user-friendly configuration experience.
+Customize the CPQ UI header to reflect your brand with logos, text, and background styles. Configure header elements and buttons—such as Cancel, Reset, Return, and Switch Layout—through the layout CSV file to create a branded, user-friendly configuration experience.
 
 \[Omitted image "cpq-layout-logik-header.png"\] Alt text: Logo
 
-The CPQ header lets you brand the configuration page with a logo. Essential buttons and actions are also customizable. [[csv_layout_upload|CSV layout upload]] supports these features.
+The CPQ header lets you brand the configuration page with a logo. Essential buttons and actions are also customizable. CSV layout upload supports these features.
 
 ## Branding options
 
@@ -74,7 +74,7 @@ Here, `http://www.some.url/bg.png` is the location of a publicly available image
 
 Adjust the header definition in your layout spreadsheet. Export to a CSV file and upload to the appropriate blueprint. Navigation:
 
-CPQ Admin -&gt; [[blueprints|Blueprints]] -&gt; \[click appropriate blueprint\] -&gt; [[layouts|Layouts]] tab -&gt; \[click appropriate layout name\] - Import Layout.
+CPQ Admin -&gt; Blueprints -&gt; \[click appropriate blueprint\] -&gt; Layouts tab -&gt; \[click appropriate layout name\] - Import Layout.
 
 ## Button configurations
 
@@ -142,7 +142,7 @@ Reset
 
 </td><td>
 
-Resets all [[fields|fields]] to their initial states so that the user can start over without moving from the page.
+Resets all fields to their initial states so that the user can start over without moving from the page.
 
 </td></tr><tr><td>
 
@@ -205,13 +205,5 @@ CPQ Admin -&gt; Blueprints -&gt; \[click appropriate blueprint\] -&gt; Layouts t
 
 ## Currency display
 
-You also use the values column of the header row component of the CSV layout upload file to configure how currency displays in the Shopping Cart. For more information, see [[layout_how_do_i_customize_currency_display_in_shopping_cart|Customizing the currency display in the shopping cart]].
+You also use the values column of the header row component of the CSV layout upload file to configure how currency displays in the Shopping Cart. For more information, see [Customizing the currency display in the shopping cart](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/layout_how_do_i_customize_currency_display_in_shopping_cart.md).
 
-## Related
-
-- [[layout_how_do_i_customize_currency_display_in_shopping_cart|Customizing the currency display in the shopping cart]]
-- [[cancel|Cancel]]
-- [[csv_layout_upload|CSV layout upload]]
-- [[blueprints|Blueprints]]
-- [[layouts|Layouts]]
-- [[fields|Fields]]

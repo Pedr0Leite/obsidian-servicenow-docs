@@ -15,7 +15,7 @@ breadcrumb: [Create a prompt, Using Now Assist Skill Kit, Now Assist Skill Kit, 
 
 # Add a tool
 
-Add and configure tools in the [[now-assist-skill-kit-landing|Now Assist Skill Kit]] tool canvas to gather data and context before a prompt runs. Tools can be chained sequentially, run in parallel, or branched conditionally using decision nodes.
+Add and configure tools in the Now Assist Skill Kit tool canvas to gather data and context before a prompt runs. Tools can be chained sequentially, run in parallel, or branched conditionally using decision nodes.
 
 ## Before you begin
 
@@ -64,7 +64,7 @@ Two types of nodes are available:
         |Skill|Calls another published skill as a tool, enabling skill chaining.|
         |Sub Flow|Runs a subflow from Workflow Studio as a tool.|
         |Web Search|Searches the web and returns results to use as context in the prompt. See [Add a web search tool](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/add-web-search.md).|
-        |Predictive Intelligence|Uses a [[predictive-intelligence-landing|Predictive Intelligence]] solution to classify or predict values as part of the skill flow. See .|
+        |Predictive Intelligence|Uses a Predictive Intelligence solution to classify or predict values as part of the skill flow. See .|
         |Document Intelligence|Extracts structured data from documents as part of the skill flow. See .|
 
     2.  If you want this tool to run simultaneously with another tool at the same level in the flow, select **Add as parallel node**.
@@ -97,7 +97,7 @@ Two types of nodes are available:
 
     3.  Under **Branch conditions**, select **Filters** or **Script** and define the conditions that must be met for this branch to execute.
 
-        Branches are evaluated in the order they appear. Once a branch condition is fulfilled, all subsequent branches are skipped. Use the arrow [[controls|controls]] to reorder branches.
+        Branches are evaluated in the order they appear. Once a branch condition is fulfilled, all subsequent branches are skipped. Use the arrow controls to reorder branches.
 
     4.  Select **Add branch** to add additional branches.
 
@@ -114,8 +114,3 @@ After adding and testing your tools, configure the prompt to reference tool outp
 
 **Parent Topic:**[Create a prompt](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/create-prompt-template.md)
 
-## Related
-
-- [[now-assist-skill-kit-landing|Now Assist Skill Kit]]
-- [[predictive-intelligence-landing|Predictive Intelligence]]
-- [[controls|Controls]]

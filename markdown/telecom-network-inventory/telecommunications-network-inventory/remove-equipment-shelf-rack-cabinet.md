@@ -14,7 +14,7 @@ breadcrumb: [Using Design &amp; Assign Network, Use, Telecommunications Network 
 
 # Remove an equipment or shelf from a rack or cabinet
 
-Remove an equipment or shelf from a rack or cabinet using [[using-playbooks-design-assign-inventory-record|design and assign function]] in the [[telecom-network-inventory|Telecommunications Network Inventory]] application. By removing the equipment from rack, you can fulfill a customer order request.
+Remove an equipment or shelf from a rack or cabinet using design and assign function in the Telecommunications Network Inventory application. By removing the equipment from rack, you can fulfill a customer order request.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_ni\_core.inventory\_agent
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon\), and then go to **Changes** &gt; **All**.
 
@@ -84,8 +84,3 @@ Equipment or shelf that you want to remove from the selected rack or cabinet.
 
 **Parent Topic:**[Instantiating your network inventory by using design and assign](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/instantiate-asset-using-template-relationship-model.md)
 
-## Related
-
-- [[using-playbooks-design-assign-inventory-record|Design and Assign function]]
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]

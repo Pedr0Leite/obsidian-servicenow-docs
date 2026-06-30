@@ -22,12 +22,10 @@ Role required: none
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **My tasks**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **My tasks**.
 
 2.  Sign the PIP acknowledgement form that is sent by your manager.
 
 3.  Complete the other PIP tasks as and when they are assigned to you.
 
-## Related
 
-- [[employee-center-landing-page|Employee Center]]

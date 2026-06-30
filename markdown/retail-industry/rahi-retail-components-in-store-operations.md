@@ -12,7 +12,7 @@ breadcrumb: [Components installed with plugins, Reference, Retail]
 
 # Components installed with Retail In-store Operations
 
-Certain roles and dependencies must be considered when using the [[rahi-retail-operations-overview|Retail]] In-store Operations plugin.
+Certain roles and dependencies must be considered when using the Retail In-store Operations plugin.
 
 ## Plugins installed with Retail In-store Operations
 
@@ -102,9 +102,5 @@ Create, update, and close Store Operations case for the stores and associated ch
 |Supporting retail organization |Same as requesting retail organization |
 |Due Date |2 hours from now \(date/time\) |
 
-**Parent Topic:**[[rahi-retail-components-installed-with-plugins|Components installed with plugins]]
+**Parent Topic:**[Components installed with plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-components-installed-with-plugins.md)
 
-## Related
-
-- [[rahi-retail-components-installed-with-plugins|Components installed with plugins]]
-- [[rahi-retail-operations-overview|Retail]]

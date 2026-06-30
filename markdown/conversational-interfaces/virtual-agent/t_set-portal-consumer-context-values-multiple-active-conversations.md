@@ -18,15 +18,15 @@ Use context values to determine which portals receive certain messages and notif
 
 ## Before you begin
 
-[[activate-virtual-agent|Activate Virtual Agent]]. For more information, see [Activate Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/activate-virtual-agent.md).
+Activate Virtual Agent. For more information, see [Activate Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/activate-virtual-agent.md).
 
-Configure your [[ci-use-agent-chat|Agent Chat]] system for your portal or portals. See [Configure Agent Chat in a portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-va-in-sp.md) for more information.
+Configure your Agent Chat system for your portal or portals. See [Configure Agent Chat in a portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-va-in-sp.md) for more information.
 
 Role required: virtual\_agent\_admin or admin
 
 ## About this task
 
-With consumer context added to a portal configuration, that portal acts as context for multiple active conversations with [[virtual-agent-landing-page|Virtual Agent]].
+With consumer context added to a portal configuration, that portal acts as context for multiple active conversations with Virtual Agent.
 
 **Note:** These instructions are for configuring Natural Language Understanding \(NLU\) conversations. Large Language Model \(LLM\) conversations are configured for multiple active conversations based on portals, with no configuration necessary.
 
@@ -55,8 +55,3 @@ Set a default context for your conversations. See [Set a default NLU context val
 
 **Parent Topic:**[Using multiple active conversations in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/c_multiple-active-conversations-va.md)
 
-## Related
-
-- [[activate-virtual-agent|Activate Virtual Agent]]
-- [[ci-use-agent-chat|Agent Chat]]
-- [[virtual-agent-landing-page|Virtual Agent]]

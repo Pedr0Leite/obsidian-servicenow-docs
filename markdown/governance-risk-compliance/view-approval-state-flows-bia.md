@@ -12,7 +12,7 @@ breadcrumb: [Assess impact categories and dependencies of process, Structured wo
 
 # View approval state flows for a business impact analysis
 
-View the approval state transitions sent at each level of the approval process, and the details of the approvers as you direct the [[bia-uib|business impact analysis]] through multiple levels of approvals.
+View the approval state transitions sent at each level of the approval process, and the details of the approvers as you direct the business impact analysis through multiple levels of approvals.
 
 ## Before you begin
 
@@ -66,6 +66,4 @@ Role required: sn\_bcm.planner, sn\_bcm.program\_manager, sn\_bcm.viewer
 
         If the approvers at a level have approved or rejected the BIA, then the state moves to No Longer Required for all succeeding levels of approvals.
 
-## Related
 
-- [[bia-uib|Business impact analysis]]

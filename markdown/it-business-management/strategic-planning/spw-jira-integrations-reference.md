@@ -15,35 +15,24 @@ breadcrumb: [SPW Jira Integrations, Strategic Planning, Strategic Portfolio Mana
 
 # SPW Jira Integrations reference
 
-Reference topics provide additional information about the lists and [[form-field-information-for-dw|forms]] that you use to configure [[spw-jira-landing|SPW Jira Integrations]].
+Reference topics provide additional information about the lists and forms that you use to configure SPW Jira Integrations.
 
 -   **[Components installed with SPW Jira Integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/components-installed-with-spw-jira-integrations.md)**  
 Learn about the roles and tables installed with the SPW Jira Integrations application.
 -   **[Default mapping configuration for SPW Jira Integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/default-mapping-configuration-spw-jira.md)**  
-Learn about the default mapping configuration of Epic, Story, and Sprint work types between [[alignment-planner-workspace-landing-page|Strategic Planning]] and Jira.
+Learn about the default mapping configuration of Epic, Story, and Sprint work types between Strategic Planning and Jira.
 -   **[Team Integration Settings form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/team-integration-settings-form.md)**  
-Learn about the fields of [[team-integration-settings-form|Team Integration Settings form]] that is used to create an association between Jira projects and EAP teams.
+Learn about the fields of Team Integration Settings form that is used to create an association between Jira projects and EAP teams.
 -   **[Table Map form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/spw-table-map-form.md)**  
-Learn about the fields of the [[table-map-form-ppw|Table Map form]], which are used while creating a custom table mapping configuration for SPW Jira Integrations.
+Learn about the fields of the Table Map form, which are used while creating a custom table mapping configuration for SPW Jira Integrations.
 -   **[Field Map form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/spw-field-map-form.md)**  
-Learn about the fields of the [[field-map-form-ppw|Field Map form]], which are used while creating a custom field mapping configuration for SPW Jira Integrations.
+Learn about the fields of the Field Map form, which are used while creating a custom field mapping configuration for SPW Jira Integrations.
 -   **[Choice Map form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/spw-choice-map-form.md)**  
-Learn about the fields of the [[choice-map-form-ppw|Choice Map form]], which are used while creating a custom choice mapping configuration for SPW Jira Integrations.
+Learn about the fields of the Choice Map form, which are used while creating a custom choice mapping configuration for SPW Jira Integrations.
 -   **[Create Connection &amp; Credential form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/create-connection-credential-form.md)**  
-Learn about the fields of the [[create-connection-credential-form|Create Connection &amp; Credential form]], which is used while setting up SPW Jira Integrations.
+Learn about the fields of the Create Connection &amp; Credential form, which is used while setting up SPW Jira Integrations.
 -   **[Jira Instance form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/jira-instance-form.md)**  
-Learn about the fields of the [[jira-instance-form|Jira Instance form]], used to connect Strategic Planning to Jira.
+Learn about the fields of the Jira Instance form, used to connect Strategic Planning to Jira.
 
 **Parent Topic:**[SPW Jira Integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/spw-jira-landing.md)
 
-## Related
-
-- [[form-field-information-for-dw|Forms]]
-- [[spw-jira-landing|SPW Jira Integrations]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[team-integration-settings-form|Team Integration Settings form]]
-- [[table-map-form-ppw|Table map form]]
-- [[field-map-form-ppw|Field map form]]
-- [[choice-map-form-ppw|Choice map form]]
-- [[create-connection-credential-form|Create Connection &amp; Credential form]]
-- [[jira-instance-form|Jira Instance form]]

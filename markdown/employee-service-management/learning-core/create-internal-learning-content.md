@@ -14,7 +14,7 @@ breadcrumb: [Manage Learning, Using My Learning, Learning, Growth Experiences, H
 
 # Create internal Learning content
 
-Create internal [[exploring-learning-exp|Learning]] courses so that employees can learn new content and enhance their skills set.
+Create internal Learning courses so that employees can learn new content and enhance their skills set.
 
 ## Before you begin
 
@@ -35,7 +35,7 @@ Role required: sn\_lc.catalog\_manager
 
 ## What to do next
 
-[[add-associated-skills|Add associated skills]] to external learning content in Learning. For more information, see [Add associated skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/add-associated-skills.md) to Learning content.
+Add associated skills to external learning content in Learning. For more information, see [Add associated skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/add-associated-skills.md) to Learning content.
 
 -   **[Define user access to course within internal learning content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/define-internal-content-user-access.md)**  
 Define user access to define who has read access to internal learning content.
@@ -65,7 +65,3 @@ Add assigned topics to internal learning content.
 
 [Learning internal content form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/learning-internal-content-form.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[add-associated-skills|Add associated skills]]

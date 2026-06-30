@@ -12,7 +12,7 @@ breadcrumb: [Create a notification filter, Subscription-based notifications, Pre
 
 # Filter device notifications using a schedule
 
-You can associate devices, such as Email, SMS, and Voice, to [[c_UseSchedules|schedules]] that define when the devices can and cannot receive [[notifications|notifications]].
+You can associate devices, such as Email, SMS, and Voice, to schedules that define when the devices can and cannot receive notifications.
 
 ## Before you begin
 
@@ -35,10 +35,5 @@ Notifications that are triggered outside of the scheduled days and times for the
 5.  Select **Submit**.
 
 
-**Parent Topic:**[[t_NotificationFilters|Create a notification filter]]
+**Parent Topic:**[Create a notification filter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_NotificationFilters.md)
 
-## Related
-
-- [[t_NotificationFilters|Create a notification filter]]
-- [[c_UseSchedules|Schedules]]
-- [[notifications|Notifications]]

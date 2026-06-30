@@ -38,9 +38,9 @@ Demand \[dmn\_demand\] table
 
 </td><td>
 
-To create a project from a demand in project currency. Specify the currency that you want to use to manage your project by navigating to the **Financials** tab of the [[demand-form|Demand form]] and selecting a currency in the **Project Currency** field.**Note:** You can specify the project currency only when you switch to the Demand Currency view. For more information, see [Multicurrency in Demand Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/multicurrency-demand.md).
+To create a project from a demand in project currency. Specify the currency that you want to use to manage your project by navigating to the **Financials** tab of the Demand form and selecting a currency in the **Project Currency** field.**Note:** You can specify the project currency only when you switch to the Demand Currency view. For more information, see [Multicurrency in Demand Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/multicurrency-demand.md).
 
-To [[t_CreatingDemands|create a demand]], see [Create a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_CreatingDemands.md).
+To create a demand, see [Create a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_CreatingDemands.md).
 
 </td></tr><tr><td>
 
@@ -48,7 +48,7 @@ Project \[pm\_project\] table
 
 </td><td>
 
-To navigate to the [[create-a-project-form|Project form]], see [Project form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/create-a-project-form.md).
+To navigate to the Project form, see [Project form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/create-a-project-form.md).
 
 </td></tr><tr><td>
 
@@ -56,15 +56,15 @@ Cost Plans \[cost\_plan\] table
 
 </td><td>
 
-To navigate to the [[demand-plan-form|Cost Plan form]], see [Create a project cost plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateAProjectCostPlan.md).
+To navigate to the Cost Plan form, see [Create a project cost plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateAProjectCostPlan.md).
 
 </td></tr><tr><td>
 
-[[cost-plan-breakdown|Cost Plan Breakdown]] \[cost\_plan\_breakdown\] table
+Cost Plan Breakdown \[cost\_plan\_breakdown\] table
 
 </td><td>
 
-To navigate to the [[cost-plan-breakdown-form|Cost Plan Breakdown form]], see [Update a cost plan breakdown](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/update-cost-plan-breakdown.md).
+To navigate to the Cost Plan Breakdown form, see [Update a cost plan breakdown](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/update-cost-plan-breakdown.md).
 
 </td></tr><tr><td>
 
@@ -88,7 +88,7 @@ Expense Line \[fm\_expense\_line\] table
 
 </td><td>
 
-Expense lines are part of project cost plans and stores cost associated with a specific resource. To navigate to the [[expense-line-form-demand|Expense line form]], see [Create an expense line](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateAExpenseLine.md).
+Expense lines are part of project cost plans and stores cost associated with a specific resource. To navigate to the Expense line form, see [Create an expense line](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateAExpenseLine.md).
 
 </td></tr><tr><td>
 
@@ -114,12 +114,3 @@ Stores the project target and budget expense values for both capital and operati
 
 Refer to the form fields that are exclusive to the Project Currency view that you have selected. All the other form tabs and fields remain same both for the default view and the project currency view. Continue to enter values in the fields as you would for the default view.
 
-## Related
-
-- [[demand-form|Demand form]]
-- [[t_CreatingDemands|Create a demand]]
-- [[create-a-project-form|Project form]]
-- [[demand-plan-form|Cost plan form]]
-- [[cost-plan-breakdown|Cost plan breakdown]]
-- [[cost-plan-breakdown-form|Cost plan breakdown form]]
-- [[expense-line-form-demand|Expense line form]]

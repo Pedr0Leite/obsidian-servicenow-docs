@@ -14,7 +14,7 @@ breadcrumb: [Use, Privacy Case Management, Privacy Management, Governance, Risk,
 
 # Add or create an issue for a privacy case
 
-Identify and [[manage-issues-common-core|manage issues]] related to the impacted areas for the reported privacy case. You can also create issues from the Privacy Case Management landing page.
+Identify and manage issues related to the impacted areas for the reported privacy case. You can also create issues from the Privacy Case Management landing page.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_privacy\_case.privacy\_case\_analyst
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[privacy-management|Privacy Management]]** &gt; **Privacy Workspace**.
+1.  Navigate to **All** &gt; **Privacy Management** &gt; **Privacy Workspace**.
 
 2.  Select the list \[Omitted image "ws-list-icon.png"\] icon.
 
@@ -57,7 +57,7 @@ Action
 
 </td><td>
 
-Refer to the [[create-new-issue-opres-ws|new issue creation form]].
+Refer to the [new issue creation form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-new-issue-opres-ws.md).
 
 </td></tr></tbody>
 </table>6.  Select **Save**.
@@ -65,8 +65,3 @@ Refer to the [[create-new-issue-opres-ws|new issue creation form]].
 
 **Parent Topic:**[Using Privacy Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/using-pcm.md)
 
-## Related
-
-- [[create-new-issue-opres-ws|Create New Issue form]]
-- [[manage-issues-common-core|Manage issues]]
-- [[privacy-management|privacy management]]

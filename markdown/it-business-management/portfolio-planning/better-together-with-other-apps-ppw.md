@@ -14,11 +14,11 @@ breadcrumb: [Explore, Portfolio Planning, Strategic Portfolio Management]
 
 # Better together with other ServiceNow applications
 
-Integration of [[portfolio-planning-app-landing-page|Portfolio Planning]] with other ServiceNow® applications helps portfolio and product managers to optimize planning, collaboration, and release management for their products.
+Integration of Portfolio Planning with other ServiceNow® applications helps portfolio and product managers to optimize planning, collaboration, and release management for their products.
 
 ## Portfolio Planning with Collaborative Work Management
 
-With the integration of ServiceNow® [[cwm-landing|Collaborative Work Management]] \(CWM\) with Portfolio Planning, you can plan and roadmap with Boards in a portfolio plan. By adding CWM Boards to a lens configuration, you can access them in the Prioritization and Roadmap pages of a portfolio plan as planning items.
+With the integration of ServiceNow® Collaborative Work Management \(CWM\) with Portfolio Planning, you can plan and roadmap with Boards in a portfolio plan. By adding CWM Boards to a lens configuration, you can access them in the Prioritization and Roadmap pages of a portfolio plan as planning items.
 
 The lenses supported to configure CMW Board as a planning item are Organization and Project Portfolio.
 
@@ -26,7 +26,3 @@ For more information on integration of CWM with Portfolio Planning, see [Connect
 
 **Parent Topic:**[Exploring Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/exploring-portfolio-planning.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[cwm-landing|Collaborative Work Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Use, Operational Technology Incident Management, Operational Techno
 
 # Create a child incident
 
-Create a child [[operational-technology-overview|Operational Technology]] \(OT\) incident record to capture part of the deviation reported so that it can be worked on separately. Creating child incidents can help you organize multiple incidents related to the same parent.
+Create a child Operational Technology \(OT\) incident record to capture part of the deviation reported so that it can be worked on separately. Creating child incidents can help you organize multiple incidents related to the same parent.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ Fields that are copied over to the child incident are configured by using the **
 
 ## Procedure
 
-1.  Navigate to the **OT Incidents** list module in the [[industrial-workspace-for-operational-technology|Industrial Workspace]].
+1.  Navigate to the **OT Incidents** list module in the Industrial Workspace.
 
     Alternatively, you can go to an OT device record or equipment model entity record and select the **OT Incidents** tab.
 
@@ -48,7 +48,3 @@ Now, you can view and edit the child incident in the parent incident record.
 
 **Parent Topic:**[Using Operational Technology Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/using-operational-technology-incident-mgt.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

@@ -26,9 +26,9 @@ Agents can use the onboarding process for new accounts, contacts, and consumers 
 
 ## General onboarding workflow
 
-In the [[customer-lifecycle-ops-landing-page|Financial Services Customer Lifecycle Operations]] application, agents follow a general onboarding workflow to efficiently onboard new clients. The steps involved are as follows:
+In the Financial Services Customer Lifecycle Operations application, agents follow a general onboarding workflow to efficiently onboard new clients. The steps involved are as follows:
 
-**Note:** [[fso-overview|Financial Services]] Client Lifecycle contains fewer tasks than Financial Services Business Lifecycle. For example, Financial Services Client Lifecycle does not support adding or managing business contacts.
+**Note:** Financial Services Client Lifecycle contains fewer tasks than Financial Services Business Lifecycle. For example, Financial Services Client Lifecycle does not support adding or managing business contacts.
 
 1.  Account Creation:
     -   A potential client contacts the financial institution to request the creation of an account.
@@ -47,7 +47,3 @@ In the [[customer-lifecycle-ops-landing-page|Financial Services Customer Lifecyc
 
 By following this general onboarding workflow, agents ensure a smooth and efficient onboarding process for new accounts, contacts, and consumers in the Financial Services Customer Lifecycle Operations application.
 
-## Related
-
-- [[customer-lifecycle-ops-landing-page|Financial Services Customer Lifecycle Operations]]
-- [[fso-overview|Financial Services]]

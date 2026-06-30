@@ -14,11 +14,11 @@ breadcrumb: [Health and Safety Case Management, Health and Safety, Employee Serv
 
 # Exploring Health and Safety Case Management
 
-Learn more about [[hs-case-management-landing-page|Health and Safety Case Management]] and review the benefits it can provide for different users in your organization.
+Learn more about Health and Safety Case Management and review the benefits it can provide for different users in your organization.
 
 ## Health and Safety Case Management overview
 
-With Health and Safety Case Management, employees can ask [[health-safety-overview|health and safety]] questions, line managers can plan employees' returning to work after an injury or illness, and the safety team can work on these health and safety cases to resolve them.
+With Health and Safety Case Management, employees can ask health and safety questions, line managers can plan employees' returning to work after an injury or illness, and the safety team can work on these health and safety cases to resolve them.
 
 **Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 
@@ -61,7 +61,7 @@ Work on safety cases and the related safety incidents or injuries.
 </table>## Health and Safety Case Management workflow
 
 1.  Health and safety cases are submitted to the safety team in one of the following ways:
-    -   Employees submit health and safety related questions from the [[employee-center-landing-page|Employee Center]].
+    -   Employees submit health and safety related questions from the Employee Center.
     -   Safety case manager creates cases based on questions received from employees or their line managers.
     -   Safety agent \(with RTW case manager role\), working on safety incidents or injuries, creates return to work cases for employees returning to work after an injury or illness. They can also create HR cases for any assistance from the HR department.
 2.  Safety case manager works on safety cases to provide information and resolve employees' questions related to health and safety. If it's a return to work case, they can assess the employee's capability to work before they return from their injury or illness.
@@ -167,8 +167,3 @@ To learn more about configuring and using Health and Safety Case Management, see
 -   [Work on a Health and Safety case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-case-management/hs-work-health-safety-case.md)
 -   [Health and Safety Case Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-case-management/hs-case-management-reference.md)
 
-## Related
-
-- [[hs-case-management-landing-page|Health and Safety Case Management]]
-- [[health-safety-overview|Health and Safety]]
-- [[employee-center-landing-page|Employee Center]]

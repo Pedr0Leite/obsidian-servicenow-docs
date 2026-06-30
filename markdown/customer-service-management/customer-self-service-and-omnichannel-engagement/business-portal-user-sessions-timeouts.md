@@ -14,7 +14,7 @@ breadcrumb: [Business and Consumer Portal, Configure portals, Set up self-servic
 
 # Business and Consumer portal usage calculation
 
-Track how your customers and employees are using the portal. The [[customer-portal-usage-dashboard|Customer Portal Usage dashboard]] provides information about portal visits resulting in session counts.
+Track how your customers and employees are using the portal. The Customer Portal Usage dashboard provides information about portal visits resulting in session counts.
 
 To view the Customer Portal Usage dashboard, navigate to **Customer Service** &gt; **Administration** &gt; **Portal Usage**.
 
@@ -54,6 +54,3 @@ A user logs in and continues the session past midnight:
 |3|User session continues past midnight|**Yes**|
 |4|User logs out|No|
 
-## Related
-
-- [[customer-portal-usage-dashboard|Customer Portal Usage dashboard]]

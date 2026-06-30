@@ -16,9 +16,9 @@ Configure Data Collection for HAM.
 
 ## Before you begin
 
-For the Manual Indicators, you must add a new data point every month. For example, given the fixed nature of the [[impact-landing-page|Impact]] VM - Legacy HAM Systems Annual Run-Rate indicator, you only need to enter this data point once.
+For the Manual Indicators, you must add a new data point every month. For example, given the fixed nature of the Impact VM - Legacy HAM Systems Annual Run-Rate indicator, you only need to enter this data point once.
 
-**Important:** If you do not have full access to Performance/Platform [[io-analytics|Analytics]] through a Pro or Enterprise subscription, you are required to enter this data point every month
+**Important:** If you do not have full access to Performance/Platform Analytics through a Pro or Enterprise subscription, you are required to enter this data point every month
 
 Role required: admin, pa\_power\_user, pa\_admin, or pa\_data\_collector
 
@@ -30,7 +30,4 @@ Role required: admin, pa\_power\_user, pa\_admin, or pa\_data\_collector
 
     \[Omitted image "dct\_config\_ham.png"\] Alt text: Example with Mar 2024 cell selected with no Indicator score entered.
 
-## Related
 
-- [[impact-landing-page|Impact]]
-- [[io-analytics|Analytics]]

@@ -12,7 +12,7 @@ breadcrumb: [Integrate, Customer Service Management]
 
 # Integrating with Continual Improvement Management
 
-Integrate [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) with the Continual Improvement Management \(CIM\) application to request improvement opportunities and to implement phases and tasks to meet performance goals, track progress, and measure success.
+Integrate Customer Service Management \(CSM\) with the Continual Improvement Management \(CIM\) application to request improvement opportunities and to implement phases and tasks to meet performance goals, track progress, and measure success.
 
 You can use CIM for improvements to Performance Analytics \(PA\) indicators and to service operations. For example, create a new improvement initiative to:
 
@@ -36,6 +36,3 @@ To use CIM with Customer Service Management, you must request the Continual Impr
 
 [Managing improvements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/cim-improvement-initiative-mgmt.md)
 
-## Related
-
-- [[c_CustomerServiceManagement|Customer Service Management]]

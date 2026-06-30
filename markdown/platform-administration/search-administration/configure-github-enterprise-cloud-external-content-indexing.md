@@ -15,7 +15,7 @@ breadcrumb: [GitHub Enterprise Cloud external content connector, Configure, Exte
 
 # Configure GitHub Enterprise Cloud for external content indexing
 
-Create and authorize a GitHub App to allow the [[github-enterprise-cloud-external-content-connector|GitHub Enterprise Cloud external content connector]] to access your GitHub Enterprise Cloud content.
+Create and authorize a GitHub App to allow the GitHub Enterprise Cloud external content connector to access your GitHub Enterprise Cloud content.
 
 ## Before you begin
 
@@ -142,6 +142,3 @@ For details on creating and configuring a GitHub Enterprise Cloud external conte
 
 **Parent Topic:**[GitHub Enterprise Cloud external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/github-enterprise-cloud-external-content-connector.md)
 
-## Related
-
-- [[github-enterprise-cloud-external-content-connector|GitHub Enterprise Cloud external content connector]]

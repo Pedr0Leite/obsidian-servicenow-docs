@@ -14,7 +14,7 @@ breadcrumb: [Configure, Workplace Case Management, Workplace Service Delivery, E
 
 # Configuring a record producer for reservation
 
-[[wsd-create-record-producer|Configure a record producer]] to integrate it with [[workplace-rsv-mgmt-feat|Workplace Reservation Management]].
+Configure a record producer to integrate it with Workplace Reservation Management.
 
 Integrating a record producer with Workplace Reservation Management provides administrators with flexible choices to handle service requests. If a record producer is mapped to the **Record producer for reservation** field in a workplace service, it’s displayed to users during the reservation process. If no record producer is mapped, the system displays a custom widget for service item requests.
 
@@ -27,7 +27,7 @@ For example, while reserving a room with a projector from 10:00 to 11:00, the pr
 The dual approach with a record producer and a custom widget provides a streamlined and unified experience:
 
 -   Using a record producer automatically populates and hides fields with known data from the reservation context like requested for, date and time, space details. It makes sure that users only provide the necessary information, simplifying the process and improving data accuracy.
--   Using the custom widget maintains backward compatibility for [[workplace-services|workplace services]] that don't have a record producer.
+-   Using the custom widget maintains backward compatibility for workplace services that don't have a record producer.
 
 ## Enabling a record producer for editing
 
@@ -55,7 +55,7 @@ While creating the record producer, make sure that you follow these steps.
     -   **Impact**: impact
     **Note:** Ensure that you include a record producer variable with the field name `reservation`. Otherwise, the reservation case isn't linked to the child case generated.
 
--   Sections like request details and space selection are hidden on the request form as they’re derived from the reservation data. For more information, refer to any record producers installed with [[workplace-case-mgmt-feat|Workplace Case Management]], like `Catering`.
+-   Sections like request details and space selection are hidden on the request form as they’re derived from the reservation data. For more information, refer to any record producers installed with Workplace Case Management, like `Catering`.
 
 
 ## Mapping the record producer to the reservation page
@@ -101,9 +101,3 @@ For more information about the fields of a workplace service, see [Workplace Ser
 
 [Group similar workplace cases under a parent case]()
 
-## Related
-
-- [[wsd-create-record-producer|Configure a Record producer]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-services|Workplace Services]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]

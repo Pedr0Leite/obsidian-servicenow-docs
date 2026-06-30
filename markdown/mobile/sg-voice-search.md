@@ -26,7 +26,7 @@ Take advantage of the speech recognition feature of your mobile device. Use voic
 
  The first time you use the voice search feature, your mobile device may prompt you to allow your ServiceNow app to record audio.
 
- **Note:** Your administrator must enable this feature. For details on enabling voice search on your instance, see [[turn-on-voice-search|Enable voice search]].
+ **Note:** Your administrator must enable this feature. For details on enabling voice search on your instance, see [Enable voice search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/turn-on-voice-search.md).
 
 </td></tr></tbody>
 </table>The first time you use the voice search feature, your mobile device may prompt you to allow your ServiceNow app to record audio.
@@ -46,6 +46,3 @@ Take advantage of the speech recognition feature of your mobile device. Use voic
 
 Depending on your mobile device's operating system, the voice recordings you create with the voice search feature are sent to Google or Apple to be processed into a text query. ServiceNow does not have control of the recording once it has been sent.
 
-## Related
-
-- [[turn-on-voice-search|Enable voice search]]

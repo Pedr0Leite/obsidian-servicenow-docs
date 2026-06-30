@@ -18,7 +18,7 @@ Create a copy of a Knowledge Graph schema and duplicate it for further customiza
 
 ## Before you begin
 
-Verify that you have not selected a ServiceNow prebuilt [[knowledge-graph-landing|Knowledge Graph]] schema that is non-editable.
+Verify that you have not selected a ServiceNow prebuilt Knowledge Graph schema that is non-editable.
 
 Verify that the scope selected when creating a Knowledge Graph schema is the same as the scope of the existing Knowledge Graph schema.
 
@@ -51,6 +51,4 @@ Role required: kg\_admin
 
 6.  Select **Create**.
 
-## Related
 
-- [[knowledge-graph-landing|Knowledge Graph]]

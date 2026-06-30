@@ -12,31 +12,22 @@ breadcrumb: [View a quiz designer scorecard, View a quiz result, Quiz designer, 
 
 # Quiz scorecards
 
-The [[c_Quizzes|Quizzes]] application prepares printable scorecards.
+The Quizzes application prepares printable scorecards.
 
 A scorecard analyzes category and question responses and compares current ratings with previous ratings. You can examine ratings over time, compare question ratings, or compare the ratings of all categories. All ratings are averages for the time range selected.
 
 The system dynamically updates a scorecard each time you view it, so the ratings reflect recently completed quizzes.
 
--   **[[r_CategoryResults|Category results]]**  
+-   **[Category results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_CategoryResults.md)**  
 The Category Results view is a stacked bar chart of responses to all questions in a category.
--   **[[r_QuestionResults|Question results]]**  
+-   **[Question results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_QuestionResults.md)**  
 The Question Results view shows the results for all questions in a quiz.
--   **[[r_AverageRatings|Average ratings]]**  
+-   **[Average ratings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_AverageRatings.md)**  
 The Average Ratings view displays a bar chart of the weighted average rating for each question in a category.
--   **[[r_ScorecardHistory|Scorecard history]]**  
+-   **[Scorecard history](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_ScorecardHistory.md)**  
 The History view compares the current ratings for the categories and their questions with ratings from the previous three years or four quarters..
 
-**Parent Topic:**[[t_ViewAQuizDesignerScorecard|View a quiz designer scorecard]]
+**Parent Topic:**[View a quiz designer scorecard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAQuizDesignerScorecard.md)
 
-**Parent Topic:**[[quizzes-reference|Quizzes reference]]
+**Parent Topic:**[Quizzes reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/quizzes-reference.md)
 
-## Related
-
-- [[r_CategoryResults|Category results]]
-- [[r_QuestionResults|Question results]]
-- [[r_AverageRatings|Average ratings]]
-- [[r_ScorecardHistory|Scorecard history]]
-- [[t_ViewAQuizDesignerScorecard|View a quiz designer scorecard]]
-- [[quizzes-reference|Quizzes reference]]
-- [[c_Quizzes|Quizzes]]

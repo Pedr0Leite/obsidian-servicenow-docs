@@ -12,9 +12,9 @@ breadcrumb: [Create and secure an AI agent in Now Assist, Agentic AI security an
 
 # Test and validate
 
-Test your agent's execution and access controls, run automated evaluations, and review Guardian [[logs|logs]] before approving the agent for production deployment.
+Test your agent's execution and access controls, run automated evaluations, and review Guardian logs before approving the agent for production deployment.
 
-Testing validates both that your agent performs its intended task correctly and that your security [[sc-configuration|configuration]] works as designed. Both dimensions must pass before you deploy to production.
+Testing validates both that your agent performs its intended task correctly and that your security configuration works as designed. Both dimensions must pass before you deploy to production.
 
 ## Test agent execution
 
@@ -25,7 +25,7 @@ Use the testing playground in AI Agent Studio to run manual test executions agai
 
 ## Test access controls
 
-Verify that your ACL configuration works correctly by running access tests as different [[users|users]]. Confirm that users who should have access can invoke the agent, and users who should not have access cannot.
+Verify that your ACL configuration works correctly by running access tests as different users. Confirm that users who should have access can invoke the agent, and users who should not have access cannot.
 
 -   To test user access to an AI agent, see [Test user access to an AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/test-aia-access.md).
 -   To test user access to an agentic workflow, see [Test user access to an agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/test-aw-access.md).
@@ -40,16 +40,16 @@ Automated evaluations test your agent against a dataset of expected inputs and o
 
 ## Review Guardian logs from testing
 
-[[export|Export]] and review [[now-assist-guardian|Now Assist Guardian]] logs from your test runs before going live. The logs show you what content Guardian detected during testing, which helps you decide whether your current blocking configuration is appropriate for production use. See .
+Export and review Now Assist Guardian logs from your test runs before going live. The logs show you what content Guardian detected during testing, which helps you decide whether your current blocking configuration is appropriate for production use. See .
 
 If you see unexpected detections in the logs, adjust your Guardian configuration before proceeding. Common causes include overly broad sensitive topic filters or test utterances that trigger offensiveness detection.
 
 ## Go-live validation gate
 
-Do not proceed to [[naai-tutorial-go-live-monitor|Go live and monitor]] until all of the following are true:
+Do not proceed to [Go live and monitor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/naai-tutorial-go-live-monitor.md) until all of the following are true:
 
 -   Agent execution tests pass for your defined use case scenarios.
--   [[sc-access-control|Access control]] tests confirm that only intended users can invoke the agent.
+-   Access control tests confirm that only intended users can invoke the agent.
 -   Automated evaluations meet your defined success criteria threshold.
 -   Guardian logs from testing have been reviewed and configuration is confirmed appropriate for production.
 
@@ -57,15 +57,5 @@ Do not proceed to [[naai-tutorial-go-live-monitor|Go live and monitor]] until al
 
 When all validation gate criteria are met, proceed to [Go live and monitor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/naai-tutorial-go-live-monitor.md).
 
-**Parent Topic:**[[naai-tutorial-overview|Create and secure an AI agent in Now Assist]]
+**Parent Topic:**[Create and secure an AI agent in Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/naai-tutorial-overview.md)
 
-## Related
-
-- [[naai-tutorial-go-live-monitor|Go live and monitor]]
-- [[naai-tutorial-overview|Create and secure an AI agent in Now Assist]]
-- [[logs|Logs]]
-- [[sc-configuration|Configuration]]
-- [[users|Users]]
-- [[export|Export]]
-- [[now-assist-guardian|Now Assist Guardian]]
-- [[sc-access-control|Access control]]

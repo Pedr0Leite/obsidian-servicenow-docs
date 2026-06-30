@@ -14,11 +14,11 @@ breadcrumb: [Shopper to-dos on your mobile, Using Shopping Hub Mobile, Use, Sour
 
 # Approve your purchase requisition from your mobile device
 
-As a manager, provide approvals for purchase requisitions that are in pending approval state from your mobile application. [[purchase-requisition|Purchase requisition]] approvals are generated when an approval rule is triggered on meeting certain criteria. You can choose to reject them along with your reasons for rejection. Your action on these to-dos moves them to their respective workflows.
+As a manager, provide approvals for purchase requisitions that are in pending approval state from your mobile application. Purchase requisition approvals are generated when an approval rule is triggered on meeting certain criteria. You can choose to reject them along with your reasons for rejection. Your action on these to-dos moves them to their respective workflows.
 
 ## Before you begin
 
-When a purchase approval to-do is assigned to you, it is displayed on the Now Mobile **My Tasks** tab, in addition to the [[shopping-hub-overview|Shopping Hub]] desktop to-dos page.
+When a purchase approval to-do is assigned to you, it is displayed on the Now Mobile **My Tasks** tab, in addition to the Shopping Hub desktop to-dos page.
 
 Role required: sn\_shop.shopper
 
@@ -54,7 +54,3 @@ Role required: sn\_shop.shopper
 
 **Parent Topic:**[Shopper to-dos on your mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shopper-todos-mobile.md)
 
-## Related
-
-- [[purchase-requisition|Purchase requisition]]
-- [[shopping-hub-overview|Shopping Hub]]

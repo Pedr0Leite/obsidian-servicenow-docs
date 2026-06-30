@@ -14,7 +14,7 @@ breadcrumb: [Features, Managed Documents, Document Services, Manage content capa
 
 # Managed Document concepts
 
-The following concepts explain [[c_ManagedDocuments|Managed Documents]]: Managed Document, Document Collection, Document Revisions, and Document Parameters.
+The following concepts explain Managed Documents: Managed Document, Document Collection, Document Revisions, and Document Parameters.
 
 <table id="table_uhs_bfn_vq"><thead><tr><th>
 
@@ -63,12 +63,8 @@ Document Parameters
 -   Audience: Defines the groups with access to the document, such as internal or external.
 -   Name Formats: Defines the format of document names, ensuring that documents of the same type have the same name scheme assembled from name components.
 -   Name Components: Defines the document values used in the name formats.
--   [[c_ApprovalRules|Approval Rules]]: Defines the approvals the document must have before it can be published.
+-   Approval Rules: Defines the approvals the document must have before it can be published.
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Managed Document features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/r_ManagedDocumentFeatures.md)
 
-## Related
-
-- [[c_ManagedDocuments|Managed Documents]]
-- [[c_ApprovalRules|Approval rules]]

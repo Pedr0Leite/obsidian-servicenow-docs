@@ -14,7 +14,7 @@ breadcrumb: [Configure, Digital Portfolio Management, IT Service Management]
 
 # Create Process Mining projects for KPI groups in Digital Portfolio Management
 
-Create Process Mining projects for each key performance indicator \(KPI\) group in [[dpm-landing|Digital Portfolio Management]] \(DPM\) to see KPI performance and analyze anomalies.
+Create Process Mining projects for each key performance indicator \(KPI\) group in Digital Portfolio Management \(DPM\) to see KPI performance and analyze anomalies.
 
 ## Before you begin
 
@@ -74,7 +74,7 @@ A scheduled job runs to remine the projects when additional data is added so tha
 
     1.  Open the DPM Workspace.
 
-    2.  Select the [[dpm-enterprise-portfolios|enterprise portfolios]] icon \(\[Omitted image "enterprise-portfolio-icon-purple.png"\]\), and then open an enterprise portfolio.
+    2.  Select the enterprise portfolios icon \(\[Omitted image "enterprise-portfolio-icon-purple.png"\]\), and then open an enterprise portfolio.
 
     3.  Select **View Details**.
 
@@ -92,7 +92,3 @@ A scheduled job runs to remine the projects when additional data is added so tha
 
 [Process Mining components for Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-po-integration.md)
 
-## Related
-
-- [[dpm-landing|Digital Portfolio Management]]
-- [[dpm-enterprise-portfolios|Enterprise portfolios]]

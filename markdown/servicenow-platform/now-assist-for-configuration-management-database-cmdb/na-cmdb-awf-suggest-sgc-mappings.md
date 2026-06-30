@@ -14,7 +14,7 @@ breadcrumb: [Use agentic workflows, Now Assist for Configuration Management Data
 
 # Recommend service graph connector agentic workflow
 
-Sometimes you're not sure which integration to use to capture CI data. When you provide Now Assist with then name of a particular CI class, it can recommend the data sources or [[cmdb-sgc-available|Service Graph Connectors]] and ingestion sources that can best populate CMDB data.
+Sometimes you're not sure which integration to use to capture CI data. When you provide Now Assist with then name of a particular CI class, it can recommend the data sources or Service Graph Connectors and ingestion sources that can best populate CMDB data.
 
 ## Before you begin
 
@@ -76,7 +76,7 @@ If you think that the response was helpful, select thumbs-up \[Omitted image "ic
 
 </td><td>
 
-Select the copy to clipboard icon \[Omitted image "icon-clipboard.png"\] to use the response information for another purpose, such as pasting into an [[email|email]].
+Select the copy to clipboard icon \[Omitted image "icon-clipboard.png"\] to use the response information for another purpose, such as pasting into an email.
 
 </td></tr><tr><td id="d504261e311">
 
@@ -95,7 +95,3 @@ If you think that data might have changed after you viewed the response, select 
 
 [Exploring Service Graph Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/exploring-sg-workspace.md)
 
-## Related
-
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[email|Email]]

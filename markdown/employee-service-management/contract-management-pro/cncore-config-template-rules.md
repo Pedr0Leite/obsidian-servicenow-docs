@@ -22,7 +22,7 @@ Role required: sn\_cm\_core.contract\_config
 
 ## About this task
 
-If you want the variables related to contract request to be available in condition builder, add the contract request [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] to your application table. For more information, see [Enable contract request fields in condition builders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-add-cmr-condtion-build.md)
+If you want the variables related to contract request to be available in condition builder, add the contract request reference to your application table. For more information, see [Enable contract request fields in condition builders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-add-cmr-condtion-build.md)
 
 ## Procedure
 
@@ -122,6 +122,3 @@ Conditions under which the contract template is selected. For example, to apply 
 
 [Create a contract configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-contract-config.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

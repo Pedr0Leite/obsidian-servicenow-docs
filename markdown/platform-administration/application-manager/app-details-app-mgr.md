@@ -14,7 +14,7 @@ breadcrumb: [Explore, Application Manager, Administering applications, Get start
 
 # Application Manager application details
 
-The details page in the [[application-manager|Application Manager]] displays key information about applications, plugins, or products that are installed or available to install.
+The details page in the Application Manager displays key information about applications, plugins, or products that are installed or available to install.
 
 When you select an application, plugin, or product the details page is displayed.
 
@@ -88,17 +88,11 @@ Not licensed
 
 </td><td>
 
-This dependency must be procured from the [[servicenow-store|ServiceNow Store]] before it can be installed. Select the dependency and review any application state indicators for additional details.
+This dependency must be procured from the ServiceNow Store before it can be installed. Select the dependency and review any application state indicators for additional details.
 
  For more information about application state indicators, see [Application state indicators in Application Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/app-mgr-state-indicators.md).
 
- For more information about procuring applications, see [[getting-apps-trials|Getting apps and trials from the ServiceNow Store]].
+ For more information about procuring applications, see [Getting apps and trials from the ServiceNow Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/getting-apps-trials.md).
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[getting-apps-trials|Getting apps and trials from the ServiceNow Store]]
-- [[application-manager|Application Manager]]
-- [[servicenow-store|ServiceNow Store]]

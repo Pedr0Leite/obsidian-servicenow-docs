@@ -14,9 +14,9 @@ breadcrumb: [AI Search record producer for Service Portal, Integrate, AI Search,
 
 # AI Search Assist roles
 
-[[ia-ai-search|AI Search]] Assist includes the following roles.
+AI Search Assist includes the following roles.
 
-To learn more about managing subscriptions, see [[managing-user-subscriptions-v2|Managing per-user subscriptions in Subscription Management]] and contact your account representative.
+To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/managing-user-subscriptions-v2.md) and contact your account representative.
 
 **Parent Topic:**[AI Search Assist record producer integration for Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/ai-search-assist.md)
 
@@ -44,7 +44,3 @@ None.
 
 **Note:** Avoid granting an admin role when more specialized roles are available.
 
-## Related
-
-- [[managing-user-subscriptions-v2|Managing per-user subscriptions in Subscription Management]]
-- [[ia-ai-search|AI Search]]

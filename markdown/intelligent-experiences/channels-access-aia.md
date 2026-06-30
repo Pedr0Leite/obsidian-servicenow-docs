@@ -12,7 +12,7 @@ breadcrumb: [Create an AI agent, Now Assist AI agents, Enable AI experiences]
 
 # Select channels and status for an AI agent
 
-In the guided setup for an AI agent, activate the AI agent to use in an assistant in [[platform-now-assist-landing|Now Assist]] for Virtual Agent, and set the processing messages.
+In the guided setup for an AI agent, activate the AI agent to use in an assistant in Now Assist for Virtual Agent, and set the processing messages.
 
 ## Before you begin
 
@@ -44,7 +44,7 @@ The final step of the AI agent guided setup includes options for where you can i
 
     \[Omitted image "aia-channels-activation.png"\] Alt text: Select channels and access page.
 
-    **Note:** If you have installed the Off Glide Conversation Server plugin \(com.glide.cs.offglide\) on your ServiceNow [[ai-agent-studio|AI Agent Studio]] instance, then agent learning and voice agents won't work if the assistant is in [[now-assist-panel-premium|Premium Chat]] mode.
+    **Note:** If you have installed the Off Glide Conversation Server plugin \(com.glide.cs.offglide\) on your ServiceNow AI Agent Studio instance, then agent learning and voice agents won't work if the assistant is in Premium Chat mode.
 
 4.  Select **Save and test**.
 
@@ -55,12 +55,5 @@ You have completed the guided setup for creating an AI agent. Your new AI agent 
 
 ## What to do next
 
-Move to the **Testing** page to [[test-ai-agent|test an AI agent execution]] using example utterances or to [[test-aia-access|test user access]].
+Move to the **Testing** page to [test an AI agent execution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/test-ai-agent.md) using example utterances or to [test user access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/test-aia-access.md).
 
-## Related
-
-- [[test-ai-agent|Manually test the execution of an AI agent]]
-- [[test-aia-access|Test user access to an AI agent]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[ai-agent-studio|AI Agent Studio]]
-- [[now-assist-panel-premium|Premium chat]]

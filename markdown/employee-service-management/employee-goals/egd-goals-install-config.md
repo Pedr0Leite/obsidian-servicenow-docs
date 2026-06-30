@@ -14,11 +14,7 @@ breadcrumb: [Employee Goals, Growth Experiences, HR Service Delivery, Employee S
 
 # Installing and configuring Employee Goals
 
-[[egd-goals-install|Install the Employee Goals application]] to import the goal management data stored on your human capital management \(HCM\) system to the ServiceNow AI Platform®. When configuration options are available, administrators can configure components of the application to meet the specifications of your organization.
+Install the Employee Goals application to import the goal management data stored on your human capital management \(HCM\) system to the ServiceNow AI Platform®. When configuration options are available, administrators can configure components of the application to meet the specifications of your organization.
 
-After goal data is imported from your HCM system to the ServiceNow AI Platform, employees can conveniently access their goals from the [[employee-center-landing-page|Employee Center]].
+After goal data is imported from your HCM system to the ServiceNow AI Platform, employees can conveniently access their goals from the Employee Center.
 
-## Related
-
-- [[egd-goals-install|Install the Employee Goals application]]
-- [[employee-center-landing-page|Employee Center]]

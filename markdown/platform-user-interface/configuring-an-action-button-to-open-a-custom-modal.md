@@ -12,7 +12,7 @@ breadcrumb: [Configure action buttons, Declarative actions, Administer, Configur
 
 # Configuring a form action to open a custom modal
 
-[[configure-onboarding-modals|Configure]] a form action to open a custom modal that provides information or interactive elements without navigating away from the current page.
+Configure a form action to open a custom modal that provides information or interactive elements without navigating away from the current page.
 
 Configuring an action button to open a custom modal involves several processes:
 
@@ -22,24 +22,18 @@ Configuring an action button to open a custom modal involves several processes:
 
 2.  Designing the page variant in UI Builder:
 
-    Using UI Builder to design a page variant passes the modal into the workspace record page. For more information, see [[design-a-page-variant-in-uib|Design a page variant in UIB]].
+    Using UI Builder to design a page variant passes the modal into the workspace record page. For more information, see [Design a page variant in UIB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/design-a-page-variant-in-uib.md).
 
 3.  Configuring the page variant as a modal in UI Builder:
 
-    Using UI Builder to configure the page variant defines the modal to appear in the workspace record page. For more information, see [[configure-a-page-variant-as-a-modal-in-uib|Configure a page variant as a modal in UIB]].
+    Using UI Builder to configure the page variant defines the modal to appear in the workspace record page. For more information, see [Configure a page variant as a modal in UIB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-a-page-variant-as-a-modal-in-uib.md).
 
 4.  Creating a UX add-on event mapping:
 
-    Setting up a UX add-on event mapping connects the action button to your custom modal. For more information, see [[create-a-ux-add-on-event-mapping|Create a UX add-on event mapping]].
+    Setting up a UX add-on event mapping connects the action button to your custom modal. For more information, see [Create a UX add-on event mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/create-a-ux-add-on-event-mapping.md).
 
 5.  Defining the payload for a custom modal:
 
-    Configuring the payload sets the action button to open the custom modal in your workspace. For more information, see [[define-the-payload-for-a-custom-modal|Define the payload for a custom modal]].
+    Configuring the payload sets the action button to open the custom modal in your workspace. For more information, see [Define the payload for a custom modal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/define-the-payload-for-a-custom-modal.md).
 
-## Related
 
-- [[design-a-page-variant-in-uib|Design a page variant in UIB]]
-- [[configure-a-page-variant-as-a-modal-in-uib|Configure a page variant as a modal in UIB]]
-- [[create-a-ux-add-on-event-mapping|Create a UX add-on event mapping]]
-- [[define-the-payload-for-a-custom-modal|Define the payload for a custom modal]]
-- [[configure-onboarding-modals|Configure]]

@@ -14,7 +14,7 @@ breadcrumb: [Access hours, Assigning tasks using Dynamic Scheduling, Scheduling 
 
 # Assigning work order task with defined access hours
 
-Assign work order tasks either automatically within defined access hours through [[dynamic-scheduling|dynamic scheduling]] or manually outside those hours.
+Assign work order tasks either automatically within defined access hours through dynamic scheduling or manually outside those hours.
 
 Dynamic scheduling uses the following filter criteria to schedule the tasks with defined access hours:
 
@@ -23,6 +23,3 @@ Dynamic scheduling uses the following filter criteria to schedule the tasks with
 -   Window start and window end dates
 -   Access hours
 
-## Related
-
-- [[dynamic-scheduling|Dynamic scheduling]]

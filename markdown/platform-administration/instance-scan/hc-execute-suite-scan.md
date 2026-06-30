@@ -14,7 +14,7 @@ breadcrumb: [Executing a scan, Using Instance Scan, Instance Scan, Maintain and 
 
 # Execute a suite scan
 
-Execute suites of available checks against a specific target to have targeted [[hc-scan-results|scan results]] by selecting **Execute Suite Scan**.
+Execute suites of available checks against a specific target to have targeted scan results by selecting **Execute Suite Scan**.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hs-landing-page|Instance Scan]]** &gt; **Suites**.
+1.  Navigate to **All** &gt; **Instance Scan** &gt; **Suites**.
 
     A list of all suites displays.
 
@@ -43,7 +43,7 @@ Role required: admin.
     -   **Update Set**: Scans multiple update sets.
 5.  Select **Execute Scan**.
 
-    **Note:** If a record is inactive, the checks don't generate any [[hs-findings|findings]] for that record.
+    **Note:** If a record is inactive, the checks don't generate any findings for that record.
 
 
 **Parent Topic:**[Executing a scan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-execute-scans.md)
@@ -59,8 +59,3 @@ Role required: admin.
 
 [Execute a reactive scan]()
 
-## Related
-
-- [[hc-scan-results|Scan results]]
-- [[hs-landing-page|Instance Scan]]
-- [[hs-findings|Findings]]

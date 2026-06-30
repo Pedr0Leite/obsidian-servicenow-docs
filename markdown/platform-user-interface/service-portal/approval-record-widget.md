@@ -14,7 +14,7 @@ breadcrumb: [Example widgets, Widget library, Using portal widgets, Configuring 
 
 # Approval Record widget
 
-The Approval Record widget shows the full record for an approval including the [[activity-stream-configurable-workspace|activity stream]]. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
+The Approval Record widget shows the full record for an approval including the activity stream. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 
 \[Omitted image "WidgetApprovalRecord.png"\] Alt text: Approval Record widget showing all of the information available about the approval including comments by the requestor.
 
@@ -27,13 +27,9 @@ The approval record widget does not include instance options.
 **Related topics**  
 
 
-[Create and edit a page using the [[c_ServicePortal|Service Portal]] Designer]()
+[Create and edit a page using the Service Portal Designer]()
 
 [Configure widget instances]()
 
 [Clone a widget]()
 
-## Related
-
-- [[activity-stream-configurable-workspace|Activity stream]]
-- [[c_ServicePortal|Service Portal]]

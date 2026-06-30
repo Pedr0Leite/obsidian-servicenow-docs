@@ -14,7 +14,7 @@ breadcrumb: [Creating or editing catalog item template, Catalog Builder, Service
 
 # Transfer catalog items using update sets
 
-Transfer catalog items published through [[catalog-builder|Catalog Builder]] from one instance to another easily by using update sets automatically created for the catalog item. For example, you can transfer catalog items created by a business user from a non-production to production instance.
+Transfer catalog items published through Catalog Builder from one instance to another easily by using update sets automatically created for the catalog item. For example, you can transfer catalog items created by a business user from a non-production to production instance.
 
 ## Before you begin
 
@@ -43,6 +43,3 @@ Role required: catalog\_admin, catalog\_builder\_editor
 
 **Parent Topic:**[Creating or editing catalog item template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/create-cat-item-template-cat-builder.md)
 
-## Related
-
-- [[catalog-builder|Catalog Builder]]

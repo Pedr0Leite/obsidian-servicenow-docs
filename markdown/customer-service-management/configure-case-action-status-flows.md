@@ -12,7 +12,7 @@ breadcrumb: [Case action status, Configure case management, Case management, Org
 
 # Configure actionable case flows
 
-The Case Action Status plugin provides several actionable case flows that create and resolve [[case-action-status-blocking-tasks|blocking tasks]] for different case-related actions.
+The Case Action Status plugin provides several actionable case flows that create and resolve blocking tasks for different case-related actions.
 
 ## Before you begin
 
@@ -20,9 +20,9 @@ Role required: admin
 
 ## About this task
 
-The actionable case flows included with the Case Action Status plugin are enabled by default. If you do not want to create blocking tasks for a specific action, you need to disable the associated flow. For more information about the case flows included with the plugin, see [[case-action-status-triggers|Actionable case flows]].
+The actionable case flows included with the Case Action Status plugin are enabled by default. If you do not want to create blocking tasks for a specific action, you need to disable the associated flow. For more information about the case flows included with the plugin, see [Actionable case flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-action-status-triggers.md).
 
-**Note:** The Case Action Status plugin provides case flows that create and resolve blocking tasks for problems associated with cases. To get complete functionality, you must also activate the Customer Service with Service Management plugin \(com.sn\_cs\_sm\). For more information, see [[configure-csm-sm-integration|Integrate with Service Management]].
+**Note:** The Case Action Status plugin provides case flows that create and resolve blocking tasks for problems associated with cases. To get complete functionality, you must also activate the Customer Service with Service Management plugin \(com.sn\_cs\_sm\). For more information, see [Integrate with Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-csm-sm-integration.md).
 
 ## Procedure
 
@@ -36,11 +36,5 @@ The actionable case flows included with the Case Action Status plugin are enable
 **Related topics**  
 
 
-[[case-action-status-csm-workspace|Case action status]]
+[Case action status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-action-status-csm-workspace.md)
 
-## Related
-
-- [[case-action-status-triggers|Actionable case flows]]
-- [[configure-csm-sm-integration|Integrate with IT Service Management using Guided Setup]]
-- [[case-action-status-csm-workspace|Case action status]]
-- [[case-action-status-blocking-tasks|Blocking tasks]]

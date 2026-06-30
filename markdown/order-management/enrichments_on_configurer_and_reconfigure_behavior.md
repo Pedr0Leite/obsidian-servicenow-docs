@@ -16,7 +16,7 @@ You can test whether a configuration is being initialized or being reconfigured,
 
 Sometimes it is necessary to execute code only when the configuration is being initialized, or only when it is being reconfigured. For example, you might want to set a field to its default values at the beginning of a configuration, but keep the userʼs selection during any future edit.
 
-The methods below can be combined without interfering with one another and can lead to flexible and unique code behaviors for your [[configurable-products-explore|configurable products]].
+The methods below can be combined without interfering with one another and can lead to flexible and unique code behaviors for your configurable products.
 
 ## userEdited: running only when a field was not edited
 
@@ -30,7 +30,7 @@ if (cfgRequest.[fieldVariableName].userEdited == false) {
 }
 ```
 
-All [[fields|fields]] will have the **userEdited** property set to false when the configuration is initialized, but when reconfiguring, some will be set to true based on the changes made by the user. If youʼd like a behavior to occur only when a field has or hasnʼt been edited, write the code to execute after one of these checks.
+All fields will have the **userEdited** property set to false when the configuration is initialized, but when reconfiguring, some will be set to true based on the changes made by the user. If youʼd like a behavior to occur only when a field has or hasnʼt been edited, write the code to execute after one of these checks.
 
 ## The lineId partner field
 
@@ -66,7 +66,7 @@ if (cfgRequest.partner.quote.lineId.value != null) {
 }
 ```
 
-For more information on partner fields, see [[system_fields_vs_partner_fields|CPQ fields, system fields, and partner fields]].
+For more information on partner fields, see [CPQ fields, system fields, and partner fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/system_fields_vs_partner_fields.md).
 
 ## isInitial: creating a text field
 
@@ -92,11 +92,5 @@ On every subsequent reconfiguration, `isInitial` will be No, and will remain No.
 
 This method has the added benefit of not having to save the entire QLE in SFDC in order to make the distinction between an initialization or reconfiguration. The method immediately detects when the user enters the configurator a second time.
 
-This method also includes the ability to reference the new field as a condition in [[rules_101|rules]], such as making a rule fire specifically on initialization or reconfiguration. It does not require the behavior to exist only in the On Configure/Reconfigure script. However, to keep the configuring experience similar from the end user's perspective, you should be wary of making too many behavioral differences between initialization and reconfiguration.
+This method also includes the ability to reference the new field as a condition in rules, such as making a rule fire specifically on initialization or reconfiguration. It does not require the behavior to exist only in the On Configure/Reconfigure script. However, to keep the configuring experience similar from the end user's perspective, you should be wary of making too many behavioral differences between initialization and reconfiguration.
 
-## Related
-
-- [[system_fields_vs_partner_fields|CPQ fields, system fields, and partner fields]]
-- [[configurable-products-explore|Configurable products]]
-- [[fields|Fields]]
-- [[rules_101|Rules]]

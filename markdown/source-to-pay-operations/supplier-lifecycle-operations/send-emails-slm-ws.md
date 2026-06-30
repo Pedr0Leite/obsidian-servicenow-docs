@@ -14,7 +14,7 @@ breadcrumb: [Composing emails with predefined content, Using Source-to-Pay Works
 
 # Communicate using emails from the Source-to-Pay Workspace
 
-Compose and send emails directly from a [[supplier|supplier]] case or a supplier task in the [[purch-order-mgmt-ws|Source-to-Pay Workspace]].
+Compose and send emails directly from a supplier case or a supplier task in the Source-to-Pay Workspace.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_slm.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **Source-to-Pay Workspace**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
 2.  Select the list icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon.\).
 
@@ -63,8 +63,3 @@ You can compose and send emails directly from a supplier case or a supplier task
 
 [Configure access to the compose email feature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/config-access-compose-email.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]

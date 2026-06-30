@@ -16,20 +16,20 @@ breadcrumb: [Reporting, dashboards, and Performance Analytics in the Core UI, Pl
 
 Interactive Analysis enables you to quickly explore data on a list of records.
 
-**Note:** [[c_performanceAnalyticsAndReporting|Platform Analytics]] does not support interactive analytics.
+**Note:** Platform Analytics does not support interactive analytics.
 
-From any Core UI list of records, you can access an interactive set of reports on the list data. You can also manipulate the data by grouping, stacking, aggregating, and applying [[c_HomepagePublishers|interactive filters]]. Click the visualization to drill down into the data. Click the information icon \(\[Omitted image "PreviewIcon.png"\] Alt text: Information icon\) to edit the source filter, view the list of applied filters, and copy the URL of the analysis.
+From any Core UI list of records, you can access an interactive set of reports on the list data. You can also manipulate the data by grouping, stacking, aggregating, and applying interactive filters. Click the visualization to drill down into the data. Click the information icon \(\[Omitted image "PreviewIcon.png"\] Alt text: Information icon\) to edit the source filter, view the list of applied filters, and copy the URL of the analysis.
 
 \[Omitted image "interactive-analysis-p.png"\] Alt text: Interactive analysis with information panel option
 
 -   **[Launch Interactive Analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/launch-interactive-analysis.md)**  
-[[launch-interactive-analysis-pa|Launch Interactive Analysis]] from any list.
+Launch Interactive Analysis from any list.
 -   **[Interactive Analysis information panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/interactive-analysis-info-panel.md)**  
 The **Filter Info** panel summarizes what the current filter shows and enables you to edit the source filter condition, bookmark an interactive analysis, and share an interactive analysis with colleagues.
 -   **[Add a filter to Interactive Analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/add-filter-to-ia.md)**  
 Add a filter to show more refined information in your Interactive Analysis.
 -   **[Remove a filter from Interactive Analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/remove-filter-from-ia.md)**  
-You can [[remove-filter-from-ia|remove a filter from Interactive Analysis]] and specify whether to remove the filter element from Group by and Stack by lists in the analysis.
+You can remove a filter from Interactive Analysis and specify whether to remove the filter element from Group by and Stack by lists in the analysis.
 -   **[Edit source filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/modify-source-filter-criteria.md)**  
 You can edit a source filter in the Interactive Analysis **Filter Info** panel.
 -   **[Interactive Analysis filter deduplication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/interactive-filters-deduplication.md)**  
@@ -43,9 +43,3 @@ When you work with Interactive Analysis, you can view data from the perspectives
 
 **Parent Topic:**[Reporting, dashboards, and Performance Analytics in the Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/classic-vis-overview.md)
 
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[c_HomepagePublishers|Interactive Filters]]
-- [[launch-interactive-analysis-pa|Launch Interactive Analysis]]
-- [[remove-filter-from-ia|Remove a filter from Interactive Analysis]]

@@ -22,7 +22,7 @@ Role required: sn\_eam.enterprise\_asset\_manager
 
 ## Procedure
 
-1.  From the [[using-eam-workspace|Enterprise Asset Workspace]], open the Work management view.
+1.  From the Enterprise Asset Workspace, open the Work management view.
 
 2.  On the **Work order tasks** tab, select the work order task that you want to create dependencies for.
 
@@ -38,6 +38,4 @@ Role required: sn\_eam.enterprise\_asset\_manager
 
 6.  Select **Save**.
 
-## Related
 
-- [[using-eam-workspace|Enterprise Asset Workspace]]

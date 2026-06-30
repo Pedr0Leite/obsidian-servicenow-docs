@@ -25,15 +25,15 @@ Role required: admin
 The following items are installed with Processor Access Policy:
 
 -   System Property: com.glide.auth.profile.supported.processor.list
--   Module in the navigation: Processor Access [[ca-policies|Policies]]
+-   Module in the navigation: Processor Access Policies
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
-2.  Find the Processor Access Policy \(`com.glide.processor.policy`\) plugin using the [[adaptive-auth-filter-criteria|filter criteria]] and search bar.
+2.  Find the Processor Access Policy \(`com.glide.processor.policy`\) plugin using the filter criteria and search bar.
 
-    You can search for the plugin by its name or ID. If you cannot find a plugin, you might have to [[c_requestAPI|request]] it from ServiceNow personnel.
+    You can search for the plugin by its name or ID. If you cannot find a plugin, you might have to request it from ServiceNow personnel.
 
 3.  Select **Install** to start the installation process.
 
@@ -46,11 +46,5 @@ The following items are installed with Processor Access Policy:
 
 .
 
-Configure [[c_Authentication|authentication]] profile for the processors, for more information see, [Configure Authentication profile for Processor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/configure-auth-profile-processor.md).
+Configure authentication profile for the processors, for more information see, [Configure Authentication profile for Processor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/configure-auth-profile-processor.md).
 
-## Related
-
-- [[ca-policies|Policies]]
-- [[adaptive-auth-filter-criteria|Filter criteria]]
-- [[c_requestAPI|request]]
-- [[c_Authentication|Authentication]]

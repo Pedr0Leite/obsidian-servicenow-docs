@@ -14,7 +14,7 @@ breadcrumb: [Configuring MID Servers, Configuring MID Server, MID Server, Manage
 
 # vCenter event collector
 
-The vCenter event collector is a [[mid-server-landing|MID Server]] extension that listens for vCenter-related events and updates the CMDB accordingly.
+The vCenter event collector is a MID Server extension that listens for vCenter-related events and updates the CMDB accordingly.
 
 <table id="table_p53_ms4_nhb"><tbody><tr><td>
 
@@ -35,7 +35,7 @@ See [Discovery for VMware vCenter](https://raw.githubusercontent.com/ServiceNow/
 
 ## How vCenter events are processed
 
-The MID Server listens for the vCenter events configured in the vCenter Event Collector form. When one of these events is returned from vCenter, the instance parses the payload with a business rule that converts the vCenter event into a system event \(sysevent\). The instance then uses that sysevent to perform tasks, such as [[email|email]] notification.
+The MID Server listens for the vCenter events configured in the vCenter Event Collector form. When one of these events is returned from vCenter, the instance parses the payload with a business rule that converts the vCenter event into a system event \(sysevent\). The instance then uses that sysevent to perform tasks, such as email notification.
 
 **Note:** If the MID server is paused when a vCenter event occurs, the MID server still processes the event. In this case, it is possible for the event collector to display a status of **Started**.
 
@@ -689,7 +689,7 @@ Role required: agent\_admin, admin
 
 Multiple MID Servers can listen to the same vCenter instance, and you can add multiple Event Collectors for different vCenters to a single MID Server. Make sure you configure the events on the event collector record that specify the correct MID Server.
 
-**Note:** You can add events to the vCenter event collector. However, not every event is supported by the base system event handlers. If you want to handle events other than those supported in the base Discovery system, you must create a script action to process the events.For instructions, see [Script actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/r_ScriptActions.md). As a [[reference|reference]], the instance processes the vCenter events in the base system with a script action called **Discovery: Process vCenter events**. Do not edit or delete this script action.
+**Note:** You can add events to the vCenter event collector. However, not every event is supported by the base system event handlers. If you want to handle events other than those supported in the base Discovery system, you must create a script action to process the events.For instructions, see [Script actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/r_ScriptActions.md). As a reference, the instance processes the vCenter events in the base system with a script action called **Discovery: Process vCenter events**. Do not edit or delete this script action.
 
 To configure the vCenter event processor extension:
 
@@ -751,7 +751,7 @@ Test
 
 </td><td>
 
-Tests the parameters for validity. If the [[ip-address|IP address]], hostname, and the set of events is valid then the test returns a successful status. If any of the parameters are incorrect, an error is shown. Running a test does not affect any extensions that are currently running.
+Tests the parameters for validity. If the IP address, hostname, and the set of events is valid then the test returns a successful status. If any of the parameters are incorrect, an error is shown. Running a test does not affect any extensions that are currently running.
 
 </td></tr><tr><td>
 
@@ -857,9 +857,3 @@ Executing on
 
 [VMware discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/c_DiscoverVMwareInfrastructure.md)
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[email|Email]]
-- [[reference|Reference]]
-- [[ip-address|IP Address]]

@@ -18,7 +18,7 @@ These examples demonstrate how to perform a REST query using cURL commands, and 
 
 ## Return all indicators that are displayed in the Analytics Hub
 
-You can request a list of all indicators that are displayed in the [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]], including their unique record identifiers.
+You can request a list of all indicators that are displayed in the Analytics Hub, including their unique record identifiers.
 
 **Note:** These examples use the macOS syntax for curl commands. The Windows syntax can differ.
 
@@ -1090,6 +1090,3 @@ Response:
 
 **Parent Topic:**[Integrate Performance Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_PAWebServiceIntegrations.md)
 
-## Related
-
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]

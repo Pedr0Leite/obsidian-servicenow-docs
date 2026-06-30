@@ -26,7 +26,7 @@ Role required: sn\_prd\_pm.product\_catalog\_admin and sn\_prd\_pm.product\_cata
 
 3.  Select **New**.
 
-4.  In the form, fill in the [[fields|fields]].
+4.  In the form, fill in the fields.
 
 <table id="table_klq_jdn_11c"><thead><tr><th>
 
@@ -139,18 +139,12 @@ Product code for the category. The system automatically generates a code based o
 
 ## What to do next
 
-[[som-create-product-offering|Create product offerings]].
+[Create product offerings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-create-product-offering.md).
 
 **Related topics**  
 
 
-[[using-product-catalog|Using product catalogs]]
+[Using product catalogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-product-catalog.md)
 
-[[product-catalog-managment|Product Catalog Management]]
+[Product Catalog Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/product-catalog-managment.md)
 
-## Related
-
-- [[som-create-product-offering|Create product offerings]]
-- [[using-product-catalog|Using product catalogs]]
-- [[product-catalog-managment|Product Catalog Management]]
-- [[fields|Fields]]

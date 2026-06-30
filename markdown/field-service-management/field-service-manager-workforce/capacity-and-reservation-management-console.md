@@ -16,9 +16,9 @@ breadcrumb: [Capacity, Managing workforce, Use, Field Service Management]
 
 The Capacity Console is a tool designed for monitoring, managing, and optimizing resource capacities across territories and demand channels.
 
-It provides an intuitive, visual representation of [[capacity|capacity]] utilization, empowering capacity planners to make data-driven decisions and improve operational efficiency.
+It provides an intuitive, visual representation of capacity utilization, empowering capacity planners to make data-driven decisions and improve operational efficiency.
 
-**Note:** To use Capacity Console, you must activate the Field Service Advanced [[capacity-management|Capacity and Reservations management]] \(com.snc.fsm\_advanced\_capacity\_management\) plugin. For more information, see [Activate Field Service Advanced Capacity and Reservations management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/capacity-console-plugin.md).
+**Note:** To use Capacity Console, you must activate the Field Service Advanced Capacity and Reservations management \(com.snc.fsm\_advanced\_capacity\_management\) plugin. For more information, see [Activate Field Service Advanced Capacity and Reservations management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/capacity-console-plugin.md).
 
 -   **Comprehensive capacity view**
 
@@ -88,7 +88,7 @@ The following snapshot illustrates the Capacity Console, showcasing:
 **Related topics**  
 
 
-[[capacity-console|Capacity Console]]
+[Capacity Console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/capacity-console.md)
 
 [View data in capacity console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/view-territory-summary-from-capacity-console.md)
 
@@ -96,8 +96,3 @@ The following snapshot illustrates the Capacity Console, showcasing:
 
 [Update capacity value and reservation for a territory in capacity console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/update-reservation-rule-in-capacity-console.md)
 
-## Related
-
-- [[capacity-console|Capacity Console]]
-- [[capacity|Capacity]]
-- [[capacity-management|Capacity and Reservations Management]]

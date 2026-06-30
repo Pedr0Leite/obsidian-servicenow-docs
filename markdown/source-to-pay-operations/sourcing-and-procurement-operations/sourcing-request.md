@@ -20,8 +20,8 @@ A purchase line is created, which is then grouped into a sourcing request. Sourc
 
 As a procurement specialist or sourcing manager:
 
--   To view all sourcing requests from the [[purch-order-mgmt-ws|Source-to-Pay Workspace]], navigate to **All** &gt; **[[psd-overview|Procurement Case Management]]** &gt; **Source-to-Pay Workspace**, and select the List icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon.\), followed by **All team work** &gt; **Sourcing Requests**.
--   To view all sourcing requests from the Platform, navigate to **[[purchase-experience-workflow|Sourcing and Purchasing Automation]]** &gt; **All Work**, and select **All Sourcing Requests**.
+-   To view all sourcing requests from the Source-to-Pay Workspace, navigate to **All** &gt; **Procurement Case Management** &gt; **Source-to-Pay Workspace**, and select the List icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon.\), followed by **All team work** &gt; **Sourcing Requests**.
+-   To view all sourcing requests from the Platform, navigate to **Sourcing and Purchasing Automation** &gt; **All Work**, and select **All Sourcing Requests**.
 -   To view sourcing requests assigned to you from the Platform, navigate to **Sourcing and Purchasing Automation** &gt; **My Work**, and select **My Sourcing Requests**.
 
 After the shopper places a request for a catalog or non-catalog item from ShoppingHub, the information that the shopper provides is mapped to the fields of a sourcing request as follows:
@@ -88,7 +88,7 @@ Sourcing event
 
 </td><td>
 
-Represents the type of sourcing activity needed to negotiate with each [[supplier|supplier]], and tracks the individual [[negotiations|negotiations]] with each supplier.
+Represents the type of sourcing activity needed to negotiate with each supplier, and tracks the individual negotiations with each supplier.
 
 </td></tr><tr><td>
 
@@ -148,7 +148,7 @@ Benchmark price
 
 </td><td>
 
-Price point from which all starting unit costs for all the [[purchase-lines|purchase lines]] of this sourcing requests are derived.
+Price point from which all starting unit costs for all the purchase lines of this sourcing requests are derived.
 
 </td></tr><tr><td>
 
@@ -209,7 +209,7 @@ Purchasing SLAs
 
 </td><td>
 
-Displays the SLAs associated to purchasing tasks against the sourcing request, along with tasks associated to the underlying [[purchase-requisition|purchase requisition]] line.
+Displays the SLAs associated to purchasing tasks against the sourcing request, along with tasks associated to the underlying purchase requisition line.
 
 </td></tr><tr><td>
 
@@ -217,11 +217,11 @@ Negotiations
 
 </td><td>
 
-Represents the task of obtaining the [[pricing|pricing]] of or negotiating the terms for the product or service requested by the shopper.For more details, see [Negotiations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/negotiations.md).
+Represents the task of obtaining the pricing of or negotiating the terms for the product or service requested by the shopper.For more details, see [Negotiations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/negotiations.md).
 
 </td></tr><tr><td>
 
-Draft [[contracts|Contracts]]
+Draft Contracts
 
 </td><td>
 
@@ -249,7 +249,7 @@ Contract Requests
 
 </td><td>
 
-Displays all the associated contract requests against this sourcing request.**Note:** This field is displayed only if you have the [[source-to-pay-operations-overview|Source-to-Pay Operations]] with Contract Management Pro plugin \(sn\_spend\_clm\) installed.
+Displays all the associated contract requests against this sourcing request.**Note:** This field is displayed only if you have the Source-to-Pay Operations with Contract Management Pro plugin \(sn\_spend\_clm\) installed.
 
 </td></tr><tr><td>
 
@@ -292,7 +292,7 @@ Let's consider a simple scenario where qualification is needed. If a price is en
 
 Manually creating a new PRL re-triggers the qualification flow. If pricing has been added to this PRL, the PRL remains in the Pricing Obtained state while qualification work is being done. The SR also remains in the Qualification Needed state, as needed.
 
-When [[negotiation-events|sourcing events]] \(NEs\) and negotiations \(NEGs\) are considered in the sourcing flow, consider the following scenarios:
+When sourcing events \(NEs\) and negotiations \(NEGs\) are considered in the sourcing flow, consider the following scenarios:
 
 -   Qualification is needed, where NE is in the Planned state, and NEG, SR, and PRL are all in the Qualification Needed state:
 
@@ -337,16 +337,3 @@ For a list of all sourcing request states and the conditions that trigger each s
 
 **Parent Topic:**[Sourcing and Purchasing Automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-experience-workflow.md)
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[psd-overview|Procurement Case Management]]
-- [[purchase-experience-workflow|Sourcing and Purchasing Automation]]
-- [[supplier|Supplier]]
-- [[negotiations|Negotiations]]
-- [[purchase-lines|Purchase lines]]
-- [[purchase-requisition|Purchase requisition]]
-- [[pricing|Pricing]]
-- [[contracts|Contracts]]
-- [[source-to-pay-operations-overview|Source-to-Pay Operations]]
-- [[negotiation-events|Sourcing events]]

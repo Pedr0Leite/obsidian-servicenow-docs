@@ -12,11 +12,11 @@ breadcrumb: [List screen, Mobile screen types, Mobile screens, Mobile app compon
 
 # Configure an empty state for a list screen
 
-Configure an empty state to display on empty list screens, to provide information to further direct users. These features are configured in the web-based UI instead of in the [[mab-concept|Mobile App Builder]].
+Configure an empty state to display on empty list screens, to provide information to further direct users. These features are configured in the web-based UI instead of in the Mobile App Builder.
 
 ## Before you begin
 
-You should already have an empty state configured for list screens that do not contain any data. For more information, see [[empty-state-default|Configure an empty state]].
+You should already have an empty state configured for list screens that do not contain any data. For more information, see [Configure an empty state](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/empty-state-default.md).
 
 Role required: admin
 
@@ -24,14 +24,10 @@ Role required: admin
 
 1.  In the web-based UI, enter `sys_sg_list_screen.list` in the filter navigator.
 
-2.  Select a [[list-screen|list screen]] to display the specific empty state.
+2.  Select a list screen to display the specific empty state.
 
 3.  In the **Empty State** field, select an empty state to associate with the list screen.
 
 4.  Right-click in the header and select **Save**.
 
-## Related
 
-- [[empty-state-default|Configure an empty state]]
-- [[mab-concept|Mobile App Builder]]
-- [[list-screen|List screen]]

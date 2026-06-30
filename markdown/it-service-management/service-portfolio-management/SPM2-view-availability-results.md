@@ -14,7 +14,7 @@ breadcrumb: [Use, Service Portfolio Management, IT Service Management]
 
 # View availability results in Service Portfolio Management
 
-View availability calculations for commitments on service offerings and application services. After the commitments are set up in [[SPM2-landing-page|Service Portfolio Management]], you can view the results by an automated report that you set up.
+View availability calculations for commitments on service offerings and application services. After the commitments are set up in Service Portfolio Management, you can view the results by an automated report that you set up.
 
 After an availability commitment is added to a service offering or to an application service, Service Portfolio Management generates a year of availability records for that item and commitment, starting from the previous year. Service availability is based on the availability of the offerings, rolled up to the service. If an outage is updated, then the related availability records are updated as well so you can assess outage impacts and manage outage records.
 
@@ -278,6 +278,3 @@ Starting with the Vancouver release, archival rules are activated by default. Se
 
 **Parent Topic:**[Using Service Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-using.md)
 
-## Related
-
-- [[SPM2-landing-page|Service Portfolio Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Workplace Connectors, Workplace Service Delivery, Employee Service 
 
 # Workplace Connectors references
 
-Learn more about the roles, tables, system properties, and scheduled jobs tables that are installed with [[workplace-connectors-landing-page|Workplace Connectors]].
+Learn more about the roles, tables, system properties, and scheduled jobs tables that are installed with Workplace Connectors.
 
 1.  [Components installed with Workplace Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/component-workplace-connectors.md)  
 Several types of components are installed with the installation of the Workplace Connectors application, including user roles and tables.
@@ -27,6 +27,3 @@ Environmental sensor data form has pre-filled environmental data values and unit
 
 **Next topic:**[Components installed with Workplace Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/component-workplace-connectors.md)
 
-## Related
-
-- [[workplace-connectors-landing-page|Workplace Connectors]]

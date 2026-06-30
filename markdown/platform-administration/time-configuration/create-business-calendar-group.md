@@ -24,7 +24,7 @@ Role required: business\_calendar\_admin
 
 You can base a Performance Analytics indicator or a report on business calendars instead of the standard calendar. The business calendars themselves are too granular in scale, and have to be grouped. The report or indicator then uses that group. Work with your Performance Analytics team to design the business calendar groups.
 
-**Note:** Fiscal calendars are also supported. When you [[t_GenerateFiscalCalendar|generate a fiscal calendar]], a corresponding business calendar group is also generated automatically.
+**Note:** Fiscal calendars are also supported. When you generate a fiscal calendar, a corresponding business calendar group is also generated automatically.
 
 ## Procedure
 
@@ -60,6 +60,3 @@ Each business calendar record \(Week, Month, Quarter, and Year\) also shows whic
 
 ["Indicators with business calendars" in Create an automated indicator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/t_CreateAnAutomatedIndicator.md)
 
-## Related
-
-- [[t_GenerateFiscalCalendar|Generate a fiscal calendar]]

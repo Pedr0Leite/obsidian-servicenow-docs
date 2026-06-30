@@ -18,7 +18,7 @@ Use NLU Model Performance to see how well your models predicted intents in Virtu
 
 ## Summary usage
 
-The NLU Model Performance application provides an analysis and report of how well your [[nlu-models|NLU models]] predict VA users' intents from their utterances. As NLU models for VA are updated, published, and deployed, you can use NLU Model Performance to review the efficacy of the intent predictions they make. If these predictions are skipped, it’s because they're unable to predict an intent with a high enough confidence score for the model. To improve VA topic prediction, the system groups unsupported VA utterances into clusters for an analysis and then generates a report that identifies the outcome of the analysis.
+The NLU Model Performance application provides an analysis and report of how well your NLU models predict VA users' intents from their utterances. As NLU models for VA are updated, published, and deployed, you can use NLU Model Performance to review the efficacy of the intent predictions they make. If these predictions are skipped, it’s because they're unable to predict an intent with a high enough confidence score for the model. To improve VA topic prediction, the system groups unsupported VA utterances into clusters for an analysis and then generates a report that identifies the outcome of the analysis.
 
 To access this application, use the nlu\_admin or admin role and navigate to **All** &gt; **NLU Workbench** &gt; **Performance**.
 
@@ -26,7 +26,7 @@ To access this application, use the nlu\_admin or admin role and navigate to **A
 
 ## Installation
 
-NLU Model Performance is an application available on the ServiceNow® Store. To use this application, ensure that the [[nlu-workbench-advanced-features|NLU Workbench - Advanced Features]] \(sn\_nlu\_workbench\) plugin is active on your instance. For more information, see [Install NLU Workbench - Advanced Features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/install-nlu-workbench-adv-features.md) and [Activate the NLU Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/activate-nlu-workbench.md). Because NLU Model Performance relies on data coming in from VA, ensure that the Glide Virtual Agent \(com.glide.cs.chatbot\) plugin is also active. See Activate Virtual Agent.
+NLU Model Performance is an application available on the ServiceNow® Store. To use this application, ensure that the NLU Workbench - Advanced Features \(sn\_nlu\_workbench\) plugin is active on your instance. For more information, see [Install NLU Workbench - Advanced Features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/install-nlu-workbench-adv-features.md) and [Activate the NLU Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/activate-nlu-workbench.md). Because NLU Model Performance relies on data coming in from VA, ensure that the Glide Virtual Agent \(com.glide.cs.chatbot\) plugin is also active. See Activate Virtual Agent.
 
 ## Configuring Conversational Interfaces settings for ServiceNow NLU
 
@@ -106,7 +106,3 @@ Click **Run analysis** or **Rerun analysis**, whichever is available. Each time 
 
 [bundle-convint.va-NLU]
 
-## Related
-
-- [[nlu-models|NLU models]]
-- [[nlu-workbench-advanced-features|NLU Workbench - Advanced Features]]

@@ -12,11 +12,11 @@ breadcrumb: [Set up layouts, CPQ app, Configure, price, quote apps, Configure, S
 
 # Multi-tier structure \(nested tiers\)
 
-Create complex, multi-tier [[layouts|layouts]] in CPQ by nesting tiers in other tiers using a layout CSV file. Define tier display types—such as tabs, expandable sections, and basic containers—to organize [[fields|fields]] and achieve flexible, structured, and visually clear configuration interfaces.
+Create complex, multi-tier layouts in CPQ by nesting tiers in other tiers using a layout CSV file. Define tier display types—such as tabs, expandable sections, and basic containers—to organize fields and achieve flexible, structured, and visually clear configuration interfaces.
 
-In CPQ, there are two basic container types: tiers and column [[cpq-sets|sets]]. This article focuses on the top-level container \(tiers\) and how to achieve more complex layouts by nesting different types of tiers.
+In CPQ, there are two basic container types: tiers and column sets. This article focuses on the top-level container \(tiers\) and how to achieve more complex layouts by nesting different types of tiers.
 
-**Note:** As of May 23, 2023, nesting tiers is not supported in the [[layout_wizard|Layout Wizard]] or in the [[layout_editor|layout editor]]. However, you can change the display type of existing tiers, including nested tiers.
+**Note:** As of May 23, 2023, nesting tiers is not supported in the Layout Wizard or in the layout editor. However, you can change the display type of existing tiers, including nested tiers.
 
 The basic CSV format for a single-tier structure looks like this:
 
@@ -52,10 +52,3 @@ The layout CSV file is structured like so:
 
 \[Omitted image "cpq-layout-nested-tiers-fields-outside-bottom-tier-csv.png"\] Alt text: CSV file
 
-## Related
-
-- [[layouts|Layouts]]
-- [[fields|Fields]]
-- [[cpq-sets|Sets]]
-- [[layout_wizard|Layout Wizard]]
-- [[layout_editor|Layout editor]]

@@ -27,13 +27,10 @@ For example, let's say that you have multiple SD-WAN product offerings: Gold, Si
 
 You can package all 20 of those services in a single catalog. The consumers for each product offering only have rights to the services to which they are entitled.
 
-To learn more, see [[service-bridge-v2-remote-catalog|Create remote catalogs in Service Exchange for providers]].
+To learn more, see [Create remote catalogs in Service Exchange for providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-remote-catalog.md).
 
 **Related topics**  
 
 
 [Create remote catalogs in Service Exchange for providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-remote-catalog.md)
 
-## Related
-
-- [[service-bridge-v2-remote-catalog|Create remote catalogs in Service Exchange for providers]]

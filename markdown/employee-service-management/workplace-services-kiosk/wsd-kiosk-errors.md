@@ -16,11 +16,11 @@ breadcrumb: [Reference, Workplace Services Kiosk, Workplace Service Delivery, Em
 
 Find the cause and related information of kiosk errors in the system logs.
 
-The [[workplace-services-kiosk|Workplace Services Kiosk]] displays a generic error page to the user when an error occurs. As an admin, you can find information about the errors in the system logs. An error can occur in the following scenarios:
+The Workplace Services Kiosk displays a generic error page to the user when an error occurs. As an admin, you can find information about the errors in the system logs. An error can occur in the following scenarios:
 
 -   The kiosk doesn’t provide the required parameters.
 -   The flow configuration record isn’t found in the Kiosk module configuration \[sn\_wsd\_kiosk\_module\_configuration\] table.
--   The indoor map configuration record isn’t found in the [[kiosk-indoor-mapping|Kiosk indoor mapping]] configuration \[sn\_wsd\_indoor\_map\_kiosk\_configuration\] table.
+-   The indoor map configuration record isn’t found in the Kiosk indoor mapping configuration \[sn\_wsd\_indoor\_map\_kiosk\_configuration\] table.
 -   The configured view type isn’t accessible by the kiosk viewer \[sn\_wsd\_kiosk.kiosk\_viewer\] role.
 -   The configured campus isn’t part of the configured view type.
 -   The floor where the kiosk camera is set isn’t part of the configured view type.
@@ -28,7 +28,3 @@ The [[workplace-services-kiosk|Workplace Services Kiosk]] displays a generic err
 
 **Parent Topic:**[Workplace Services Kiosk reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/workplace-services-kiosk-reference.md)
 
-## Related
-
-- [[workplace-services-kiosk|Workplace Services Kiosk]]
-- [[kiosk-indoor-mapping|Kiosk Indoor Mapping]]

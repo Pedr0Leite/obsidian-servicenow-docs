@@ -63,11 +63,7 @@ The feature is now activated on your production instance. Your users can now acc
 
 After activating a feature, you can contact the product team directly to share feedback.
 
-If you decide to stop using the feature, you can deactivate it at any time. For more information, see [[deactivate-prerelease-feature|Deactivate a pre-release feature]].
+If you decide to stop using the feature, you can deactivate it at any time. For more information, see [Deactivate a pre-release feature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/deactivate-prerelease-feature.md).
 
-**Parent Topic:**[[feature-preview-program|Feature Preview Program]]
+**Parent Topic:**[Feature Preview Program](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/feature-preview-program.md)
 
-## Related
-
-- [[deactivate-prerelease-feature|Deactivate a pre-release feature]]
-- [[feature-preview-program|Feature Preview Program]]

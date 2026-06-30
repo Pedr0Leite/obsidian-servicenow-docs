@@ -30,7 +30,7 @@ Create resource assignments to request a portion of team or resource capacity fo
     -   To open a demand, navigate to **All** &gt; **Demand** &gt; **Demands** &gt; **All** and open a demand.
 2.  On the **Resource assignments** related list, select **New**.
 
-3.  On the [[pw-resource-assignment-form|Resource assignment form]], fill the fields.
+3.  On the Resource assignment form, fill the fields.
 
     For a description of the field names, see [Resource assignment form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/resource-assignment-form.md).
 
@@ -41,6 +41,3 @@ Create resource assignments to request a portion of team or resource capacity fo
 
 **Parent Topic:**[Migration of resource plans, operational resource plans, and cost plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rsrc-plans-rsrc-asgmnts.md)
 
-## Related
-
-- [[pw-resource-assignment-form|Resource assignment form]]

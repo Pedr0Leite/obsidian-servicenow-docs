@@ -24,7 +24,7 @@ You have defined a communication plan.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[tcm-landing-page|Task Communications Management]]** &gt; **Plan Definitions**.
+1.  Navigate to **All** &gt; **Task Communications Management** &gt; **Plan Definitions**.
 
 2.  Click the communication plan for which you want to define a communication task.
 
@@ -131,6 +131,3 @@ Define communication channel for the task.
 
 [Define a communication contact]()
 
-## Related
-
-- [[tcm-landing-page|Task Communications Management]]

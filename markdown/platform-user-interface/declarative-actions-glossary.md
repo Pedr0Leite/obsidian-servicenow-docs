@@ -145,7 +145,7 @@ Description
 
 </td><td>
 
-Describes what the action does for future [[onboarding-modals-reference|reference]].
+Describes what the action does for future reference.
 
 </td><td>
 
@@ -684,7 +684,3 @@ Applicable when the Implemented as field is set to **UXF Client Action**.Maps an
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[onboarding-modals-reference|Reference]]

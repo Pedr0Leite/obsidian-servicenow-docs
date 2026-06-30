@@ -24,7 +24,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]]** &gt; **Planning Attributes**.
+1.  Navigate to **All** &gt; **Portfolio Planning** &gt; **Planning Attributes**.
 
 2.  Filter the Attribute name to locate and open the **Group** attribute.
 
@@ -47,11 +47,7 @@ Role required: admin
 
 ## What to do next
 
-1.  Configure attribute values: Navigate to **All** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]]** &gt; **Planning Attributes** to view and manage attribute values. You can add, edit, or import attribute entries for Group, Skill, and Role.
+1.  Configure attribute values: Navigate to **All** &gt; **Strategic Planning** &gt; **Planning Attributes** to view and manage attribute values. You can add, edit, or import attribute entries for Group, Skill, and Role.
 2.  Map attributes to resources: Assign the enabled planning attributes to your resources so they appear in capacity views. For custom attributes, see [Create or edit planning attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/configure-planning-attributes.md).
 3.  Start capacity planning: Navigate to the Capacity tab in your Strategic Planning Workspace to view resource capacity based on the enabled attributes.
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

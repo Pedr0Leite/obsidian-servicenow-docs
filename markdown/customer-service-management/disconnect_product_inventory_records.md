@@ -12,7 +12,7 @@ breadcrumb: [Product inventory configurations, Customer Life Cycle Management Wo
 
 # Disconnect product inventory records
 
-Perform the **Disconnect** operation on single or multiple product inventory records that result in the creation of orders or quotes on the [[csm-workspaces-configure|CSM Configurable Workspace]] so that you can permanently disconnect a product and its services.
+Perform the **Disconnect** operation on single or multiple product inventory records that result in the creation of orders or quotes on the CSM Configurable Workspace so that you can permanently disconnect a product and its services.
 
 ## Before you begin
 
@@ -47,6 +47,3 @@ After performing the **Disconnect** action, a disconnect order is created and th
 
 An order to disconnect the product inventory record is created.
 
-## Related
-
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

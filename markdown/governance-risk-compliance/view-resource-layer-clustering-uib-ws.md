@@ -12,7 +12,7 @@ breadcrumb: [Structured workflows for Crisis map, Manage, Business Continuity Ma
 
 # Select resource layer clustering
 
-Select resource layer clustering in the Crisis map within the [[bcm-workspace|BCM Configurable Workspace]] to view assets or resources on the map.
+Select resource layer clustering in the Crisis map within the BCM Configurable Workspace to view assets or resources on the map.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_bcm.admin or sn\_bcm.program\_manager
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **Business Continuity Workspace** and select **Crisis map** in the [[list-view-uib-ws|list view]].
+1.  Navigate to **Workspaces** &gt; **Business Continuity Workspace** and select **Crisis map** in the list view.
 
 2.  Select the **Layers** icon.
 
@@ -36,7 +36,7 @@ Role required: sn\_bcm.admin or sn\_bcm.program\_manager
 
     For example, when you select a datacenter icon without a count indicator, a popover displays the information configured in the Resource Configuration table \[sn\_fam\_resource\_config\].
 
-    If you configure the **Power** and **Power consumption** fields from the datacenter table \[cmdb\_co\_datacenter\] as display fields in the [[resource-configuration-form|Resource Configuration form]], the popover shows the datacenter's power consumption details and location coordinates.
+    If you configure the **Power** and **Power consumption** fields from the datacenter table \[cmdb\_co\_datacenter\] as display fields in the Resource Configuration form, the popover shows the datacenter's power consumption details and location coordinates.
 
 5.  Select the **Asset** icon with a number next to it.
 
@@ -47,11 +47,5 @@ Role required: sn\_bcm.admin or sn\_bcm.program\_manager
 6.  Select the **Reset** icon in the map to clear the search results on the map.
 
 
-**Parent Topic:**[[crisis-map-collective-tasks|Structured workflows for Crisis map]]
+**Parent Topic:**[Structured workflows for Crisis map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/crisis-map-collective-tasks.md)
 
-## Related
-
-- [[crisis-map-collective-tasks|Structured workflows for Crisis map]]
-- [[bcm-workspace|BCM Configurable Workspace]]
-- [[list-view-uib-ws|List view]]
-- [[resource-configuration-form|Resource Configuration form]]

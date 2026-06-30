@@ -70,7 +70,7 @@ Xanadu Patch 3
 
 </td><td>
 
-[[australia-patch-1|Australia Patch 1]]
+Australia Patch 1
 
 </td><td>
 
@@ -82,7 +82,7 @@ Xanadu Patch 3
 
 </td><td>
 
-[[australia-patch-2|Australia Patch 2]]
+Australia Patch 2
 
 </td><td>
 
@@ -106,7 +106,7 @@ Xanadu Patch 3
 
 </td><td>
 
-[[australia-patch-3|Australia Patch 3]]
+Australia Patch 3
 
 </td><td>
 
@@ -2814,9 +2814,3 @@ from australia patch 2 hot fix 1 to australia patch 3[csv](https://downloads.doc
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[australia-patch-1|Australia Patch 1]]
-- [[australia-patch-2|Australia Patch 2]]
-- [[australia-patch-3|Australia Patch 3]]

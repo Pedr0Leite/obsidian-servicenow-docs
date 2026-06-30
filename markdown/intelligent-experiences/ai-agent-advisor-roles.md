@@ -13,9 +13,9 @@ breadcrumb: [Reference, AI Agent Advisor, Enable AI experiences]
 
 # AI Agent Advisor roles
 
-[[ai-agent-advisor-landing-page|AI Agent Advisor]] is installed with these roles.
+AI Agent Advisor is installed with these roles.
 
-**Parent Topic:**[[ai-agent-advisor-reference|AI Agent Advisor reference]]
+**Parent Topic:**[AI Agent Advisor reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-agent-advisor-reference.md)
 
 **Related topics**  
 
@@ -84,7 +84,3 @@ None.
 
 None.
 
-## Related
-
-- [[ai-agent-advisor-reference|AI Agent Advisor reference]]
-- [[ai-agent-advisor-landing-page|AI Agent Advisor]]

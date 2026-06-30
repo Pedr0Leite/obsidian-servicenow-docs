@@ -14,7 +14,7 @@ breadcrumb: [Reports in Security Incident Response, Working with Security Incide
 
 # Edit a report
 
-Analysts can modify an unpublished report in [[sir-landing-page|Security Incident Response]] and share it via email.
+Analysts can modify an unpublished report in Security Incident Response and share it via email.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_si.analyst
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sir-workspace-landing-page|Security Incident Response Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Security Incident Response Workspace**.
 
 2.  Open a security incident.
 
@@ -55,7 +55,3 @@ Role required: sn\_si.analyst
 
 **Parent Topic:**[Reports in Security Incident Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/report-templates-sir.md)
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]

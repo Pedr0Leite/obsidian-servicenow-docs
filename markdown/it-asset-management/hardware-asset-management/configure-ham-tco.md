@@ -14,7 +14,7 @@ breadcrumb: [Use, Hardware Asset Management, IT Asset Management]
 
 # Configure the Total Cost of Ownership of assets
 
-Configure the Total Cost of Ownership \(TCO\) of assets by creating rate cards for each task in a [[ham-landing-page|Hardware Asset Management]] workflow.
+Configure the Total Cost of Ownership \(TCO\) of assets by creating rate cards for each task in a Hardware Asset Management workflow.
 
 Rate cards capture costs for a task or on the time consumed on the task.
 
@@ -34,7 +34,7 @@ Create your own Total Cost of Ownership \(TCO\) report to compare the actual or 
 
 [Work with hardware normalization]()
 
-[Manage [[asset-bundles-concept|asset bundles]] from your inventory]()
+[Manage asset bundles from your inventory]()
 
 [Manage your inventory through pallet assets]()
 
@@ -56,13 +56,13 @@ Create your own Total Cost of Ownership \(TCO\) report to compare the actual or 
 
 [Request a Hardware Asset Refresh]()
 
-[Manage your expiring [[c_Contracts|contracts]] for leased hardware assets]()
+[Manage your expiring contracts for leased hardware assets]()
 
 [Reclaim hardware assets]()
 
 [View RFID information of assets]()
 
-[Manage the lifecycle of hardware [[c_Models|models]] with calculated lifecycle templates]()
+[Manage the lifecycle of hardware models with calculated lifecycle templates]()
 
 [Create an internal lifecycle in the Hardware Asset Workspace]()
 
@@ -98,9 +98,3 @@ Create your own Total Cost of Ownership \(TCO\) report to compare the actual or 
 
 [Asset analytics view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/asset-analytics-view.md)
 
-## Related
-
-- [[ham-landing-page|Hardware Asset Management]]
-- [[asset-bundles-concept|Asset bundles]]
-- [[c_Contracts|Contracts]]
-- [[c_Models|Models]]

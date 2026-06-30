@@ -38,7 +38,7 @@ Role required: admin
 
     For more information, see [Create a reservation in Microsoft Outlook add-in](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/outlook-create-rsv.md).
 
-5.  Select the add-in manifest file of your instance and [[create-reservation-request-1|create a reservation]] using the [[reservation-portal|Make a reservation]] form.
+5.  Select the add-in manifest file of your instance and create a reservation using the Make a reservation form.
 
     For more information, see [Create a reservation in Microsoft Outlook add-in](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/outlook-create-rsv.md).
 
@@ -50,7 +50,7 @@ Role required: admin
 
     **Note:** An event or meeting invite when it’s initially created in Microsoft Outlook is in a **Draft** state. When the meeting invite is sent, it is sent to the Microsoft Exchange Online server. It takes some time for a meeting or reservation request sent from the client server to be synchronized with the Microsoft Exchange Online server. After synchronization, the reservation changes to **Confirmation** state.
 
-8.  Navigate to **All** &gt; **[[workplace-rsv-mgmt-feat|Workplace Reservation Management]]** &gt; **All Reservations**.
+8.  Navigate to **All** &gt; **Workplace Reservation Management** &gt; **All Reservations**.
 
     Select your reservation to review the details on Workplace Reservation Management.
 
@@ -58,8 +58,4 @@ Role required: admin
 
     \[Omitted image "delegate-fields-all-reservations-page.png"\] Alt text: Workplace Reservations page showing updated reservations for an employee. If you have provided delegate access, it shows the column values for the delegate and the organizer.
 
-## Related
 
-- [[create-reservation-request-1|Create a reservation]]
-- [[reservation-portal|Make a reservation]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]

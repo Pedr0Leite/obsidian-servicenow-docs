@@ -15,7 +15,7 @@ breadcrumb: [Explore, External Content Connectors, Search administration, Config
 
 # Configuring crawl settings for external content connectors
 
-Connector administrators can configure crawl settings for each external content connector, such as which source system locations it crawls and which types of content it sends to [[ia-ai-search|AI Search]] for indexing.
+Connector administrators can configure crawl settings for each external content connector, such as which source system locations it crawls and which types of content it sends to AI Search for indexing.
 
 **Parent Topic:**[Exploring External Content Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/exploring-ext-cont-connectors.md)
 
@@ -96,6 +96,3 @@ Connector administrators can configure crawl settings for each external content 
 
 [Configure crawl settings for a Zoom external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/configure-crawl-settings-zoom-external-content-connector.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]

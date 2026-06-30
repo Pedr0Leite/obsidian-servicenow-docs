@@ -14,7 +14,7 @@ breadcrumb: [Predictive Intelligence for Universal Request, Configuring Universa
 
 # Train the similarity solution for similar closed Universal Requests
 
-Train the Similar Closed [[ur-landing-limitedaccess|Universal Request]] solution definition to identify and predict similar Universal Requests that are closed based on the short description, description, and the assignment group of the Universal Request created. When an agent opens a universal request, similar closed universal requests can be searched in the Related Search section of the Universal Request record.
+Train the Similar Closed Universal Request solution definition to identify and predict similar Universal Requests that are closed based on the short description, description, and the assignment group of the Universal Request created. When an agent opens a universal request, similar closed universal requests can be searched in the Related Search section of the Universal Request record.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ This solution is available only if you enable the **Enable to view similar close
 
 **Parent Topic:**[Predictive Intelligence for Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/predictive-intelligence-ur.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]

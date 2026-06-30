@@ -15,23 +15,16 @@ breadcrumb: [CMDB Coverage, Configuration Management Database \(CMDB\), Configur
 
 # CMDB Coverage reference
 
-[[reference|Reference]] topics provide additional information about the scheduled jobs and properties used by [[cmdb-coverage|CMDB Coverage]].
+Reference topics provide additional information about the scheduled jobs and properties used by CMDB Coverage.
 
 -   **[CMDB Coverage initialization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-coverage-initialization.md)**  
-The initialization activity processes historical [[ip-address|IP address]] data from your existing CMDB CIs and IPAM sources. Initialization establishes baseline coverage metrics before ongoing monitoring begins.
+The initialization activity processes historical IP address data from your existing CMDB CIs and IPAM sources. Initialization establishes baseline coverage metrics before ongoing monitoring begins.
 -   **[CMDB Coverage scheduled jobs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-coverage-scheduled-jobs.md)**  
 CMDB Coverage uses scheduled jobs to identify stale and missing data.
 -   **[CMDB Coverage properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-coverage-properties.md)**  
-[[cmdb-coverage-properties|CMDB Coverage properties]] control the behavior of the application.
+CMDB Coverage properties control the behavior of the application.
 -   **[Domain separation and CMDB Coverage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-coverage-domain-separation.md)**  
-[[domain-separation-relationship-formatter-editor|Domain separation]] is unsupported for CMDB Coverage. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is unsupported for CMDB Coverage. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 **Parent Topic:**[CMDB Coverage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-coverage.md)
 
-## Related
-
-- [[reference|Reference]]
-- [[cmdb-coverage|CMDB Coverage]]
-- [[ip-address|IP Address]]
-- [[cmdb-coverage-properties|CMDB Coverage properties]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]

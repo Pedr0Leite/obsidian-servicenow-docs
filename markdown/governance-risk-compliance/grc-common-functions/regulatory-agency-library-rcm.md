@@ -36,7 +36,7 @@ After a regulatory agency is created, on the overview tab of the agency, you can
 -   **[Download and activate the Regulatory Agency Library plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/activate-reg-agency-library-ccm.md)**  
 You can activate the GRC: Regulatory Agency Library application if you have the admin role. This application includes demo data and provides you access to regulatory body profiles.
 -   **[Add a regulatory agency](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/add-regulatory-agency.md)**  
-[[add-regulatory-agency|Add a regulatory agency]] in Compliance Workspace to identify the relevant regulatory authorities that are responsible for overseeing the industries or sectors within each jurisdiction.
+Add a regulatory agency in Compliance Workspace to identify the relevant regulatory authorities that are responsible for overseeing the industries or sectors within each jurisdiction.
 -   **[Add a regulatory contact to an agency](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/add-regulatory-contacts.md)**  
 Add a regulatory contact to a specific regulatory agency or within a jurisdiction in Compliance Workspace. By mapping a regulatory contact to a specific agency, this contact is notified about your case reporting, case audit, and case closures as they occur.
 -   **[Add a jurisdiction to an agency](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/add-regulatory-jurisdiction.md)**  
@@ -44,7 +44,7 @@ Add a jurisdiction to a regulatory agency in Compliance Workspace to define the 
 -   **[Add an authority document to an agency](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/add-authority-document-agency.md)**  
 Add an authority document to a regulatory agency in Compliance Workspace to maintain traceability between regulations and their source documents.
 -   **[Compose and send an email about a regulatory agency record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/compose-emails-regulatory-agency.md)**  
-[[compose-emails-regulatory-agency|Compose and send an email about a regulatory agency record]] to multiple stakeholders within or outside your organization by using the Compliance Workspace.
+Compose and send an email about a regulatory agency record to multiple stakeholders within or outside your organization by using the Compliance Workspace.
 
 **Parent Topic:**[Common Governance, Risk, and Compliance features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/common-grc-features.md)
 
@@ -63,7 +63,3 @@ Add an authority document to a regulatory agency in Compliance Workspace to main
 
 [Compose and send an email about a regulatory agency record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/compose-emails-regulatory-agency.md)
 
-## Related
-
-- [[add-regulatory-agency|Add a regulatory agency]]
-- [[compose-emails-regulatory-agency|Compose and send an email about a regulatory agency record]]

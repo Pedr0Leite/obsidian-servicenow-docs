@@ -14,13 +14,13 @@ breadcrumb: [Use, Journey designer, Employee Journey Management, HR Service Deli
 
 # Now Assist Virtual Agent topics for Journey designer
 
-Complete the [[jny-dsgnr-landing-page-1|Journey designer]] related tasks from [[employee-center-landing-page|Employee Center]] using the Now Assist Virtual Agent topics.
+Complete the Journey designer related tasks from Employee Center using the Now Assist Virtual Agent topics.
 
 To use the following Now Assist Virtual Agent topics in Employee Center, verify that the Journey designer and Now Assist for HRSD applications are installed from ServiceNow Store.
 
 ## Create JA task
 
-The Create JA task Virtual Agent topic enables you to create a JA task for any journey \(if any JA plan is associated with that journey\). This means that [[journey-accelerator-1|Journey Accelerator]] is one of the sources for that journey and the Create JA task Virtual Agent topic supports creation of JA task from the available templates only and not from scratch.
+The Create JA task Virtual Agent topic enables you to create a JA task for any journey \(if any JA plan is associated with that journey\). This means that Journey Accelerator is one of the sources for that journey and the Create JA task Virtual Agent topic supports creation of JA task from the available templates only and not from scratch.
 
 **Note:** The Create JA task Virtual Agent topic will be available only if the current logged in user has any journey\(s\) that have a JA plan associated. This means that Journey Accelerator is one of the sources for that journey and current logged in user should be a manager or a mentor for that journey with edit access.
 
@@ -32,8 +32,3 @@ From Employee Center, open a chat window and type in words such as, create JA ta
 
 **Parent Topic:**[Using Journey designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/using-jny-dsnr.md)
 
-## Related
-
-- [[jny-dsgnr-landing-page-1|Journey designer]]
-- [[employee-center-landing-page|Employee Center]]
-- [[journey-accelerator-1|Journey Accelerator]]

@@ -14,7 +14,7 @@ breadcrumb: [Using Software Asset Management Foundation plugin workspace, Softwa
 
 # Software asset overview for Software Asset Management Foundation plugin dashboard
 
-Enhance your [[c_SoftwareAssetMgmtSAMF|Software Asset Management Foundation plugin]] experience by using the modernized and user-friendly software asset overview dashboard. The software asset overview is a simplified and intuitive environment that helps you use the application more effectively by reducing complexity.
+Enhance your Software Asset Management Foundation plugin experience by using the modernized and user-friendly software asset overview dashboard. The software asset overview is a simplified and intuitive environment that helps you use the application more effectively by reducing complexity.
 
 Use the software asset overview view to:
 
@@ -23,7 +23,7 @@ Use the software asset overview view to:
 
 Click any widget to view detailed information. All the widgets are updated whenever a new reconciliation result is available.
 
-\[Omitted image "software-asset-overview-samf.png"\] Alt text: Software asset overview [[dex-workspace-dashboard-tab|landing page]]
+\[Omitted image "software-asset-overview-samf.png"\] Alt text: Software asset overview landing page
 
 <table id="table_nq2_bjl_2qb"><thead><tr><th>
 
@@ -76,7 +76,3 @@ Cost to be compliant based on the average prices in entitlements for the rights 
 </td></tr></tbody>
 </table>**Parent Topic:**[Using Software Asset Management Foundation plugin workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/using-samf-workspace.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmtSAMF|Software Asset Management Foundation plugin]]
-- [[dex-workspace-dashboard-tab|Landing page]]

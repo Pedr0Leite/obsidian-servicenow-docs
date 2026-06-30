@@ -28,7 +28,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[attachment|Attachment]]
+Attachment
 
 </td><td>
 
@@ -48,7 +48,7 @@ Assessment
 
 </td><td>
 
-On questionnaires, users select a [[check-box|check box]] next to a statement or leave it cleared.
+On questionnaires, users select a check box next to a statement or leave it cleared.
 
 \[Omitted image "CheckboxDataType.png"\] Alt text: Check box
 
@@ -100,7 +100,7 @@ Script
 
 </td><td>
 
-When the script runs, the system populates the **Duration value** and **Scaled value** fields on the [[r_MetricResultFieldNames|Metric Result form]] with the appropriate values from the *actual\_result* and *scaled\_result* variables in the metric script.
+When the script runs, the system populates the **Duration value** and **Scaled value** fields on the Metric Result form with the appropriate values from the *actual\_result* and *scaled\_result* variables in the metric script.
 
 </td></tr><tr><td>
 
@@ -112,7 +112,7 @@ Assessment
 
 </td><td>
 
-On questionnaires, users select a value from a custom scale of answer options. Create a metric definition for each answer option, which is represented by a radio button on the scale. A Likert scale metric that evaluates an application's ease of use might have the metric definitions **Easy**, **Average**, and **Difficult**.If you want to reuse a series of answer options for multiple metrics, [[t_CreateAMetricTemplate|create a metric template]] and use the Template data type instead of the Likert Scale data type.
+On questionnaires, users select a value from a custom scale of answer options. Create a metric definition for each answer option, which is represented by a radio button on the scale. A Likert scale metric that evaluates an application's ease of use might have the metric definitions **Easy**, **Average**, and **Difficult**.If you want to reuse a series of answer options for multiple metrics, create a metric template and use the Template data type instead of the Likert Scale data type.
 
 \[Omitted image "LikertScaleDataType.png"\] Alt text: Likert Scale
 
@@ -128,7 +128,7 @@ Assessment, Script
 
 **Assessment**: On questionnaires, users enter a number. \[Omitted image "NumberAssessmentDataType.png"\] Alt text: Number
 
- **Script**: When the script runs, the system populates the **Actual value** and **Scaled value** fields on the [[t_ViewAMetricResult|Metric Result]] form with the appropriate values from the *actual\_result* and *scaled\_result* variables in the metric script.
+ **Script**: When the script runs, the system populates the **Actual value** and **Scaled value** fields on the [Metric Result](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAMetricResult.md) form with the appropriate values from the *actual\_result* and *scaled\_result* variables in the metric script.
 
 </td></tr><tr><td>
 
@@ -178,7 +178,7 @@ On questionnaires, users select a value from a predefined series of answer optio
 
 </td></tr><tr><td>
 
-[[yes-no|Yes/No]]
+Yes/No
 
 </td><td>
 
@@ -193,26 +193,14 @@ On questionnaires, users select **Yes** or **No** from a list.
  Set the **Scale definition** field to **High** if selecting **Yes** equates to a better score.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[assessment-reference|Assessments reference]]
+</table>**Parent Topic:**[Assessments reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/assessment-reference.md)
 
 **Related topics**  
 
 
-[[c_AssessmentMetrics|Assessment metrics]]
+[Assessment metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentMetrics.md)
 
-[[t_CreateAMetricDefinition|Create an assessment metric definition]]
+[Create an assessment metric definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateAMetricDefinition.md)
 
-[[t_UpdAMetrMinMaxValToMatchATmplate|Update a metric minimum and maximum value to match a template]]
+[Update a metric minimum and maximum value to match a template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_UpdAMetrMinMaxValToMatchATmplate.md)
 
-## Related
-
-- [[t_ViewAMetricResult|View a metric result]]
-- [[assessment-reference|Assessments reference]]
-- [[c_AssessmentMetrics|Assessment metrics]]
-- [[t_CreateAMetricDefinition|Create an assessment metric definition]]
-- [[t_UpdAMetrMinMaxValToMatchATmplate|Update a metric minimum and maximum value to match a template]]
-- [[attachment|Attachment]]
-- [[check-box|Check box]]
-- [[r_MetricResultFieldNames|Metric Result form]]
-- [[t_CreateAMetricTemplate|Create a metric template]]
-- [[yes-no|Yes/No]]

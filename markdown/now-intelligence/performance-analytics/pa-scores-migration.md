@@ -26,7 +26,7 @@ Instances created prior to Istanbul still use the original Scores \[pa\_scores\]
 
 ## Migration Monitor
 
-After beginning the migration, you can track the migration status by navigating to **[[c_performanceAnalyticsAndReporting|Platform Analytics]] Administration** &gt; **Indicator Settings** &gt; **Scores Migration Monitor.**
+After beginning the migration, you can track the migration status by navigating to **Platform Analytics Administration** &gt; **Indicator Settings** &gt; **Scores Migration Monitor.**
 
 If any errors occur during migration, contact Customer Service and Support to resolve the issue.
 
@@ -80,6 +80,3 @@ During migration you cannot collect, modify, or delete scores. Scheduled data co
 
 If the migration fails for any reason, contact Customer Service and Support for assistance. Existing scores remain in place.
 
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

@@ -26,9 +26,9 @@ Role required: sn\_si.ingestion\_profile\_admin
 
 ## About this task
 
-This functionality allows the security administrator to copy profiles that have been tested and verified on one ServiceNow AI Platform instance, for example on non-production, to another ServiceNow AI Platform instance, for example production, without the need to redo all [[qradar-ibm-intg-settings|configuration settings]]. The settings that are exported and imported include profile name, correlation rules, mappings, filters, aggregation criteria, field translations, fetched sample data, scheduling, and configuration tile source information.
+This functionality allows the security administrator to copy profiles that have been tested and verified on one ServiceNow AI Platform instance, for example on non-production, to another ServiceNow AI Platform instance, for example production, without the need to redo all configuration settings. The settings that are exported and imported include profile name, correlation rules, mappings, filters, aggregation criteria, field translations, fetched sample data, scheduling, and configuration tile source information.
 
-**Note:** When you export a manual event forwarding profile type, the attachment data used for the sample field [[mapping-logrhythm|mapping]] is copied, however, the attachment file itself is not exported.
+**Note:** When you export a manual event forwarding profile type, the attachment data used for the sample field mapping is copied, however, the attachment file itself is not exported.
 
 ## Procedure
 
@@ -62,14 +62,10 @@ This functionality allows the security administrator to copy profiles that have 
 
 10. Verify the MID Server settings after your import a profile.
 
-11. Navigate to **[[security-operations-landing-page|Security Operations]]** &gt; **Integration Configurations**.
+11. Navigate to **Security Operations** &gt; **Integration Configurations**.
 
 12. Select the Splunk Enterprise Security configuration tile, and select **Update**.
 
 13. Review and update the Source and MID Server details as required.
 
-## Related
 
-- [[qradar-ibm-intg-settings|Configuration settings]]
-- [[mapping-logrhythm|Mapping]]
-- [[security-operations-landing-page|Security Operations]]

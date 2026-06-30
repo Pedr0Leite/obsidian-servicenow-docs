@@ -30,7 +30,7 @@ You can create as many triage boards as you want. For example, you can create on
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[agile-development|Agile Development]]** &gt; **Agile Board** &gt; **Backlog**.
+1.  Navigate to **All** &gt; **Agile Development** &gt; **Agile Board** &gt; **Backlog**.
 
 2.  Set up a new triage board.
 
@@ -111,6 +111,3 @@ A triage board is created and can be accessed from the Backlog section of the Ag
 
 [Manage your product backlog in Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/manage-maintain-backlog.md)
 
-## Related
-
-- [[agile-development|Agile Development]]

@@ -14,7 +14,7 @@ breadcrumb: [Work orders, Set up work orders and tasks, Configure, Field Service
 
 # Customizing state flows
 
-State flows control the sequence in which records transition between states in the [[fsm-application-landing-page|Field Service Management]] applications.
+State flows control the sequence in which records transition between states in the Field Service Management applications.
 
 ## How Field Service Management task state flows work
 
@@ -75,13 +75,10 @@ The steps for setting up state flow customizations are:
 
 6.  \(Optional\) [Rebuild state flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/rebuild-state.md)
 
-    [[rebuild-state|Rebuild state flows]] when a mismatch between existing and new sys\_ids occurs.
+    Rebuild state flows when a mismatch between existing and new sys\_ids occurs.
 
 7.  \(Optional\) [State flow cleanup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/state-flow-cleanup.md)
 
     Cleanup the business rules, client scripts, and UI actions that the system creates to perform custom transitions that only exist while the state flow records that use them are present.
 
-## Related
 
-- [[fsm-application-landing-page|Field Service Management]]
-- [[rebuild-state|Rebuild state flows]]

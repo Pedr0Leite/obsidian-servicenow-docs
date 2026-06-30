@@ -18,7 +18,7 @@ Preview audit reports for resources that tag policies identify as non-compliant.
 
 ## Before you begin
 
-Configure tag policies and [[ccg-remediation|remediation]] policies. See [Configure a tag policy for Tag Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/tag-governance/configure-tag-governance-policy.md) and [Configure remediation policies on tag audit findings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/tag-governance/configure-remediation-tag-governance-.md).
+Configure tag policies and remediation policies. See [Configure a tag policy for Tag Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/tag-governance/configure-tag-governance-policy.md) and [Configure remediation policies on tag audit findings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/tag-governance/configure-remediation-tag-governance-.md).
 
 **Note:** The update to cloud works only for AWS and Microsoft Azure Cloud resources for CMDB classes listed in the Tag Remediation form.
 
@@ -36,7 +36,7 @@ Based on the tag policies that you create, you can preview remediation flows and
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[landing-page-tag-governance|Tag Governance]]** &gt; **Remediation**.
+1.  Navigate to **All** &gt; **Tag Governance** &gt; **Remediation**.
 
 2.  From the Tag Remediations list, select the record that you want to view.
 
@@ -48,7 +48,7 @@ Based on the tag policies that you create, you can preview remediation flows and
 
 5.  On the Tag Remediation Keys related list, select **New** to create a tag remediation key.
 
-    The fields on the [[tag-gov-tag-remediation-key-form|Tag Remediation Key form]] are described in [Tag Remediation Key form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/tag-governance/tag-gov-tag-remediation-key-form.md).
+    The fields on the Tag Remediation Key form are described in [Tag Remediation Key form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/tag-governance/tag-gov-tag-remediation-key-form.md).
 
 6.  Select **Submit**.
 
@@ -71,8 +71,3 @@ Based on the tag policies that you create, you can preview remediation flows and
 
 Based on the tag audit result findings and the Tag Remediations Keys that you create, the remediation flow adds missing tags to the non-compliant CIs to achieve policy compliance.
 
-## Related
-
-- [[ccg-remediation|Remediation]]
-- [[landing-page-tag-governance|Tag Governance]]
-- [[tag-gov-tag-remediation-key-form|Tag Remediation Key form]]

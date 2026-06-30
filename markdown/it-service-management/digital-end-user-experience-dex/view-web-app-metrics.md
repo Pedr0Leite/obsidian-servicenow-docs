@@ -26,7 +26,7 @@ Role required: sn\_dex.user
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  In the primary navigation pane, select the [[dex-workspace-application-tab|Applications]] icon \(\[Omitted image "icon-applications.png"\] Alt text: The Applications icon.\).
+2.  In the primary navigation pane, select the Applications icon \(\[Omitted image "icon-applications.png"\] Alt text: The Applications icon.\).
 
 3.  Select a web application name.
 
@@ -36,6 +36,4 @@ Role required: sn\_dex.user
 
     **Note:** If you set up a page-level monitoring for specific application pages, you can see the collected metrics in the Metrics analyzer. Select one or more pages under **Pages** and narrow down your data by location, OS, or date range.
 
-## Related
 
-- [[dex-workspace-application-tab|Applications]]

@@ -14,7 +14,7 @@ breadcrumb: [Knowledge Management reference, Knowledge Management, Manage conten
 
 # Components installed with knowledge blocks
 
-Several types of components are installed with activation of the [[knowledge-blocks|knowledge blocks]] plugin, including tables.
+Several types of components are installed with activation of the knowledge blocks plugin, including tables.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -57,6 +57,3 @@ KB knowledge to block history table.
 </td></tr></tbody>
 </table>For further information on table administration and how to manage data, see [Table administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_TableAdministration.md).
 
-## Related
-
-- [[knowledge-blocks|Knowledge blocks]]

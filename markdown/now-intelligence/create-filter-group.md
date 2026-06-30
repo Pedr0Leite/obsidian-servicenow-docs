@@ -24,11 +24,11 @@ If you have many filters that apply to many visualizations on a dashboard, it ca
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Dashboards**.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Dashboards**.
 
 2.  Locate and open or create the dashboard to which you want to add a filter group.
 
-    [[technical-dashboards|Technical dashboards]] are not supported. You can only add a filter group to a dashboard in the inline editor. For more information, see [[edit-db-in-ac|Edit Platform Analytics dashboards]].
+    Technical dashboards are not supported. You can only add a filter group to a dashboard in the inline editor. For more information, see [Edit Platform Analytics dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/edit-db-in-ac.md).
 
 3.  Select **Add new element** and add a Filter Group element.
 
@@ -113,9 +113,9 @@ Turn on to have the group border and radius match the pill border and radius. Av
 
     You can add filters of any type except Domain. The filter configuration is the same as for the Filter component:
 
-    -   [[create-select-filter-workspace|Configure a Single/Multiple select or cascading filter]]
-    -   [[create-boolean-filter-workspace|Configure a True/False filter]]
-    -   [[create-date-filter-workspace|Configure a Date filter in the inline editor]]
+    -   [Configure a Single/Multiple select or cascading filter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-select-filter-workspace.md)
+    -   [Configure a True/False filter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-boolean-filter-workspace.md)
+    -   [Configure a Date filter in the inline editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-date-filter-workspace.md)
     When you complete the configuration of each filter, select **Back to group configuration**.
 
 6.  Configure any additional settings that you want to change.
@@ -184,11 +184,3 @@ The following example shows a group of two filters being applied to a data visua
 
 \[Omitted image "filter-group-simple.gif"\] Alt text: Filters being set and cleared in a group.
 
-## Related
-
-- [[edit-db-in-ac|Edit Platform Analytics dashboards]]
-- [[create-select-filter-workspace|Configure a Single/Multiple select or cascading filter]]
-- [[create-boolean-filter-workspace|Configure a True/False filter]]
-- [[create-date-filter-workspace|Configure a Date filter in the inline editor]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[technical-dashboards|Technical dashboards]]

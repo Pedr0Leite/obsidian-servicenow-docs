@@ -22,13 +22,13 @@ Equipment models and templates must exist in the system before you can define mo
 
 -   Bring in existing model data from manufacturer datasheets or external network management systems.
 -   Create models and templates in bulk using a structured Excel file.
--   [[import-models-and-templates|Import models and templates]] exported as JSON from anotheServiceNowr instance for cross-instance migration.
+-   Import models and templates exported as JSON from anotheServiceNowr instance for cross-instance migration.
 
 ## Available paths for importing models and templates
 
 You can import the following types of models and templates in different ways.
 
--   **[[import-inventory|Import models]] via Excel**
+-   **Import models via Excel**
 
     Imports models in bulk using a structured Excel file. You can import the following physical hardware model types:
 
@@ -39,7 +39,7 @@ You can import the following types of models and templates in different ways.
     -   Interface Model
     To learn more, see [Import models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/import-inventory.md)
 
--   **[[import-templates|Import templates]] via Excel**
+-   **Import templates via Excel**
 
     Imports inventory templates in bulk using a structured Excel file. To learn more, see [Import template Excel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/import-template-excel.md)
 
@@ -50,7 +50,7 @@ You can import the following types of models and templates in different ways.
 
 During an import, if a model, relationship, or template already exists in the system, the import does not create a duplicate. Existing records are updated depending on whether the imported data contains changes. The Import Results summary provides a breakdown of inserted, updated, skipped, ignored, and failed records so you can verify the outcome of each import.
 
-If you're looking to [[export-models-and-templates|export models and templates]] from one ServiceNow instance and import them into another, see [Exporting hierarchy of models and templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
+If you're looking to export models and templates from one ServiceNow instance and import them into another, see [Exporting hierarchy of models and templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
 **Related topics**  
 
@@ -61,9 +61,3 @@ If you're looking to [[export-models-and-templates|export models and templates]]
 
 [Import models and templates in JSON format](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/import-models-templates-json.md)
 
-## Related
-
-- [[import-models-and-templates|Import models and templates]]
-- [[import-inventory|Import models]]
-- [[import-templates|Import templates]]
-- [[export-models-and-templates|Export models and templates]]

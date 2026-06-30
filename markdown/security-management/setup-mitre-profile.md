@@ -24,7 +24,7 @@ Structured Threat Information Expression \(STIX™\) is a language for describin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[threat-intel-landing-page|Threat Intelligence]]** &gt; **Sources** &gt; **TAXII Profiles**.
+1.  Navigate to **All** &gt; **Threat Intelligence** &gt; **Sources** &gt; **TAXII Profiles**.
 
     You see the available TAXII profiles.
 
@@ -74,18 +74,18 @@ Describes the actions that an adversary takes while operating within an Industri
     **Note:**
 
     1.  Collections are packaged as part of Threat Intelligence Core plugin. Installing or updating the Threat Intelligence Support Common - Version 12.0 or higher, and Threat Intelligence - Version 12.0 or higher ensures that your collections data is auto-populated.
-    2.  Activate the TAXII collection only for the collection that you intend to use in your organization and disable the other collections. For example, if you intend to use Enterprise ATT&amp;CK matrix, then activate Enterprise ATT&amp;CK at the TAXII collection level and at the [[view-mitre-collection|Matrices]] level. Disable the other Mobile ATT&amp;CK and ICS ATT&amp;CK matrices at the TAXII collection and at the Matrices level.
+    2.  Activate the TAXII collection only for the collection that you intend to use in your organization and disable the other collections. For example, if you intend to use Enterprise ATT&amp;CK matrix, then activate Enterprise ATT&amp;CK at the TAXII collection level and at the [Matrices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/view-mitre-collection.md) level. Disable the other Mobile ATT&amp;CK and ICS ATT&amp;CK matrices at the TAXII collection and at the Matrices level.
     3.  In the TAXII Collections related lists, if you select the Run option as Daily, then an error occurs and the option defaults to On Demand. This error occurs as scheduling the MITRE-ATT&amp;CK data refresh daily is restricted to optimize the load on the MITRE servers. Also, MITRE updates the ATT&amp;CK data only twice a year.
     4.  The TAXII collections are not refreshed unless you activate the TAXII collection.
     5.  Updates to existing collections can be retrieved from the MITRE server by scheduling the ‘run’ frequency in each collection.
-    6.  The customizations that you make to the [[tisc-mitre-att-ck-framework-overview|MITRE-ATT&amp;CK repository]] data \([[threat-intelligence-malware|Malware]], Group, Mitigation, and Tool objects to a technique\) are saved during scheduled updates.
+    6.  The customizations that you make to the MITRE-ATT&amp;CK repository data \(Malware, Group, Mitigation, and Tool objects to a technique\) are saved during scheduled updates.
     7.  MITRE updates the MITRE-ATT&amp;CK knowledge base where some objects are identified as revoked or deprecated, new objects are added, or existing objects are modified. If MITRE revokes any tactic or technique, then these objects are marked as revoked in the ServiceNow AI Platform. The revoked objects are kept in the repository but are not available for use in the ServiceNow AI Platform.
 
 ## What to do next
 
 After the TAXII profile setup is complete, the MITRE-ATT&amp;CK repository data is imported at regular intervals to the ServiceNow AI Platform®. You can see this data by navigating to **MITRE ATT&amp;CK Repository** &gt; **Matrices** and **MITRE ATT&amp;CK Repository** &gt; **Techniques**.
 
-**Parent Topic:**[[mitre-att-ck-administration|MITRE-ATT&amp;CK administration]]
+**Parent Topic:**[MITRE-ATT&amp;CK administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/mitre-att-ck-administration.md)
 
 **Related topics**  
 
@@ -116,7 +116,7 @@ After the TAXII profile setup is complete, the MITRE-ATT&amp;CK repository data 
 
 [Define the data source and detection tool mapping]()
 
-[Define the data source and [[data-component|data component]] mapping]()
+[Define the data source and data component mapping]()
 
 [Define the technique detection coverage]()
 
@@ -136,11 +136,3 @@ After the TAXII profile setup is complete, the MITRE-ATT&amp;CK repository data 
 
 [Review the MITRE-ATT&amp;CK system properties]()
 
-## Related
-
-- [[view-mitre-collection|Manage matrices]]
-- [[mitre-att-ck-administration|MITRE-ATT&amp;CK administration]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[tisc-mitre-att-ck-framework-overview|MITRE-ATT&amp;CK Repository]]
-- [[threat-intelligence-malware|Malware]]
-- [[data-component|Data Component]]

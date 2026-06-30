@@ -14,7 +14,7 @@ breadcrumb: [HR Predictive Intelligence Workbench implementation, HR Predictive 
 
 # HR PIWB template: Predict the assignment group for incoming cases
 
-Use a guided template that walks you through setting up a machine [[exploring-learning-exp|learning]] model to predict the correct assignment group for cases.
+Use a guided template that walks you through setting up a machine learning model to predict the correct assignment group for cases.
 
 ## Before you begin
 
@@ -131,6 +131,3 @@ Role required: sn\_piwb\_hr\_content.admin
 
 **Parent Topic:**[HR Predictive Intelligence Workbench implementation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-piwb-implementation-guidance.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]

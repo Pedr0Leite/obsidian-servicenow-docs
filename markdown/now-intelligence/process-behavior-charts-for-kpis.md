@@ -12,7 +12,7 @@ breadcrumb: [Platform Analytics experience, Platform Analytics]
 
 # KPI Signals
 
-KPI Signals notifies you when the behavior of a process changes significantly. This feature applies standard statistical Process Behavior Charts to [[c_Indicators|Performance Analytics indicators]].
+KPI Signals notifies you when the behavior of a process changes significantly. This feature applies standard statistical Process Behavior Charts to Performance Analytics indicators.
 
 ## Get started
 
@@ -22,7 +22,7 @@ KPI Signals notifies you when the behavior of a process changes significantly. T
 
 </td><td>
 
-[Configure\[Omitted image "bus-sdlc.svg"\] Alt text:Activate KPI Signals for an indicator and [[configure-signal-detection|configure signal detection]] and notification. Add responsible users.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configuring-kpi-signals.md)
+[Configure\[Omitted image "bus-sdlc.svg"\] Alt text:Activate KPI Signals for an indicator and configure signal detection and notification. Add responsible users.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configuring-kpi-signals.md)
 
 </td></tr><tr><td>
 
@@ -39,7 +39,3 @@ KPI Signals notifies you when the behavior of a process changes significantly. T
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now)
 
-## Related
-
-- [[c_Indicators|Performance Analytics indicators]]
-- [[configure-signal-detection|Configure signal detection]]

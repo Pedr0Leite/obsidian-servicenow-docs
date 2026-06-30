@@ -14,13 +14,13 @@ breadcrumb: [Unified Security Exposure Management, Security Operations]
 
 # Software Bill of Materials
 
-View a list of the open source and third-party software components that you’re using in your application development. Get insights into software licenses, version information, and the known [[vulnerabilities|vulnerabilities]] in your components in the Software Bill of Materials \(SBOM\) files that you upload into your instance.
+View a list of the open source and third-party software components that you’re using in your application development. Get insights into software licenses, version information, and the known vulnerabilities in your components in the Software Bill of Materials \(SBOM\) files that you upload into your instance.
 
 ## Get started
 
 <table id="table_uqb_jcw_szb" class="nav-card"><tbody><tr><td>
 
-[Explore\[Omitted image "bus-[[threat-intelligence-security-center-overview|explore]].svg"\] Alt text: Learn about SBOM concepts and features.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sbom-core/vr-sbom-exploring.md)
+[Explore\[Omitted image "bus-explore.svg"\] Alt text: Learn about SBOM concepts and features.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sbom-core/vr-sbom-exploring.md)
 
 </td><td>
 
@@ -51,7 +51,3 @@ View a list of the open source and third-party software components that you’re
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477).
 -   [Contact Customer Service and Support.](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[vulnerabilities|Vulnerabilities]]
-- [[threat-intelligence-security-center-overview|Explore]]

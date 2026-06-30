@@ -15,7 +15,7 @@ breadcrumb: [Set up SAP integration to establish a connection with SAP, Software
 
 # Create a system user for OAuth authentication in SAP
 
-Create a dedicated system user in SAP to serve as the OAuth 2.0 client ID for the [[c_SoftwareAssetMgmt|Software Asset Management]] integration.
+Create a dedicated system user in SAP to serve as the OAuth 2.0 client ID for the Software Asset Management integration.
 
 ## Before you begin
 
@@ -46,6 +46,3 @@ Use transaction code **SU01** to create the system user. The system user is refe
 
 Configure the OAuth client in SAP. For details, see [Configure an OAuth client in SAP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/configure-oauth-client-sap.md).
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

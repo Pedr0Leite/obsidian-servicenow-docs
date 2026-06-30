@@ -19,7 +19,7 @@ This accelerator provides a demonstration of the possibilities and capabilities 
 
 ## Accelerator Overview
 
-Jumpstart Your Integration Hub provides [[impact-landing-page|Impact]] customers with an overview and applied demonstration of Integration Hub, external triggers, and spokes. It helps customers understand the value of building integrations using Integration Hub as part of the Workflow Data Fabric, while also providing key resources and leading practices to support successful implementation.
+Jumpstart Your Integration Hub provides Impact customers with an overview and applied demonstration of Integration Hub, external triggers, and spokes. It helps customers understand the value of building integrations using Integration Hub as part of the Workflow Data Fabric, while also providing key resources and leading practices to support successful implementation.
 
 ## Package Availability
 
@@ -59,6 +59,3 @@ Jumpstart Your Integration Hub provides [[impact-landing-page|Impact]] customers
 
 **Note:** Additional details on supplemental legal terms, prerequisites, specifications, requirements, and exclusions can be found in the [Impact Accelerator Terms Matrix](https://www.servicenow.com/legal/servicenow-impact.html).
 
-## Related
-
-- [[impact-landing-page|Impact]]

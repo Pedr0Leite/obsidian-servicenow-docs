@@ -14,7 +14,7 @@ breadcrumb: [Implement, Policy and Compliance Management, Governance, Risk, and 
 
 # Implement setup checklist for the GRC: Policy and Compliance Management application
 
-This checklist includes the setup tasks that you are required to complete in your ServiceNow AI Platform® instance. When you have completed these tasks, the base system is ready for operation. Optional setup procedures are also included to enhance GRC: [[r_PolicyComplianceMgmt|Policy and Compliance Management]] functionality.
+This checklist includes the setup tasks that you are required to complete in your ServiceNow AI Platform® instance. When you have completed these tasks, the base system is ready for operation. Optional setup procedures are also included to enhance GRC: Policy and Compliance Management functionality.
 
 ## Before you begin
 
@@ -47,7 +47,7 @@ As a user with the Compliance Administrator or Compliance Manager role, verify t
  1.  To verify the GRC: GRC Profile Dependencies core application is installed on your instance, navigate to **Plugins** and search for GRC Profile.
 2.  If the GRC Profile core application is not already installed, click **Install** to install it.
 3.  After the GRC Profile application is installed, install the Policy and Compliance Management core application.
- If Policy and Compliance Management is not visible in your instance, all of the GRC core applications are available from the ServiceNow Store. For more information about getting entitlement, downloading, and installing the GRC core applications, see [[grc-and-store|GRC and the ServiceNow Store]].
+ If Policy and Compliance Management is not visible in your instance, all of the GRC core applications are available from the ServiceNow Store. For more information about getting entitlement, downloading, and installing the GRC core applications, see [GRC and the ServiceNow Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-and-store.md).
 
 </td></tr><tr><td>
 
@@ -65,7 +65,7 @@ As a user with the Compliance Administrator role, in your ServiceNow AI Platform
 
 </td><td>
 
-As a user with the Compliance Administrator role, [[set-policy-compliance-properties|set Policy and Compliance Management properties]] to control various behaviors in the system. For example, you can define states for which a control is active or inactive.
+As a user with the Compliance Administrator role, set Policy and Compliance Management properties to control various behaviors in the system. For example, you can define states for which a control is active or inactive.
 
  For detailed instructions, see [Set Policy and Compliance Management properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/set-policy-compliance-properties.md).
 
@@ -124,8 +124,4 @@ As a user with the Compliance Administrator or Compliance Manager role, create c
 
     For detailed instructions for optional features, see [Policy and Compliance Management enhancement steps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/policy-compliance-optional-steps.md).
 
-## Related
 
-- [[grc-and-store|GRC and the ServiceNow Store]]
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[set-policy-compliance-properties|Set Policy and Compliance Management properties]]

@@ -10,7 +10,7 @@ reading_time_minutes: 1
 
 # Integrations for Journey designer app
 
-Extend the [[jny-dsgnr-landing-page-1|Journey designer]] application's capabilities by integrating other applications into the journey experience.
+Extend the Journey designer application's capabilities by integrating other applications into the journey experience.
 
 Integrating supported applications expands the features and capabilities of Journey designer. Supported applications have unique installation and configuration requirements. Supported integration applications can be installed before or after installing the Journey designer app.
 
@@ -20,6 +20,4 @@ Integrating supported applications expands the features and capabilities of Jour
 
     The Retry Handler Framework is required when using the Microsoft Exchange Online spoke.
 
-## Related
 
-- [[jny-dsgnr-landing-page-1|Journey designer]]

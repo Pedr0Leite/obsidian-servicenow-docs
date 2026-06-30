@@ -26,7 +26,7 @@ Values that you enter in the Cloud Service Account &gt; AWS Org Assume Role Para
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]** &gt; **Organization Access Parameters** &gt; **AWS Org Assume Role Parameters**.
+1.  Navigate to **All** &gt; **Cloud Provisioning and Governance** &gt; **Organization Access Parameters** &gt; **AWS Org Assume Role Parameters**.
 
     \[Omitted image "AWSOrgAssumeRoleModule.png"\] Alt text: AWS Org Assume Role Parameters module
 
@@ -112,6 +112,4 @@ Required. Service account to associate with the access parameters that you pass 
 </td></tr></tbody>
 </table>    **Note:** For more details on how these parameters are used and what they mean, see the [AWS documentation](https://aws.amazon.com/documentation/) on the AWS Security Token Service API for the AssumeRole action.
 
-## Related
 
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]

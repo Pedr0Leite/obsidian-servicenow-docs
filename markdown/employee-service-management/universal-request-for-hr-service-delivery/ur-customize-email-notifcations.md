@@ -14,7 +14,7 @@ breadcrumb: [Unified ticket experience setting, Configure service to use Univers
 
 # Email notification preferences for your service
 
-Customize email notifications to control which email notifications are sent to requesters when a [[ur-landing-limitedaccess|universal request]] is created. This setting prevents employees from receiving duplicate or inconsistent email notifications.
+Customize email notifications to control which email notifications are sent to requesters when a universal request is created. This setting prevents employees from receiving duplicate or inconsistent email notifications.
 
 ## Before you begin
 
@@ -50,11 +50,7 @@ Modify the email subject to display the relevant ticket number by using the task
 
 [Create universal request automatically for department tickets via other channels]()
 
-[Automatically [[ur-create-universal-request-record|create universal request]] from an inbound email]()
+[Automatically create universal request from an inbound email]()
 
 [Configure a catalog item or record producer to create a universal request]()
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[ur-create-universal-request-record|Create Universal Request]]

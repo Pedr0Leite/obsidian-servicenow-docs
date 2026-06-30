@@ -78,7 +78,7 @@ safe\_scrum\_user
 
 ## Data visualizations
 
-If you are upgrading from version 1.0.2 or earlier of [[pa-content-pack-essential-safe|Performance Analytics Content Pack for Essential SAFe]], then install this dashboard from Solution Library to upgrade its layout and access the following visualizations:
+If you are upgrading from version 1.0.2 or earlier of Performance Analytics Content Pack for Essential SAFe, then install this dashboard from Solution Library to upgrade its layout and access the following visualizations:
 
 -   Epic Burnup
 -   Epic Cumulative Flow Diagram
@@ -202,6 +202,3 @@ If there are too many stories at any area of the chart and the bubbles appear cr
 
 **Parent Topic:**[Performance Analytics Content Pack for Essential SAFe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/pa-content-pack-essential-safe.md)
 
-## Related
-
-- [[pa-content-pack-essential-safe|Performance Analytics Content Pack for Essential SAFe]]

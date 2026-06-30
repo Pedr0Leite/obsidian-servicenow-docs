@@ -19,10 +19,7 @@ Use the ICW Health and Safety Integration application to manage and resolve safe
 -   **[Create a safety incident from an ICW task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/icw-create-safety-incident-from-task.md)**  
 Create a safety incident directly from an existing ICW task when the task reveals a safety-related issue.
 -   **[View safety incidents in the Digital Factory Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/icw-view-safety-incident.md)**  
-Access and manage safety incidents from the [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]] list views.
+Access and manage safety incidents from the Digital Factory Workspace list views.
 
 **Parent Topic:**[Using Digital Factory Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/using-digital-factory-workspace.md)
 
-## Related
-
-- [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]

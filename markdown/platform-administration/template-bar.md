@@ -24,11 +24,11 @@ When toggled, the template bar appears at the bottom of the form. Select a templ
 |All Templates button \(\[Omitted image "templateBarAllTemplates.png"\] Alt text: All Templates button\)|Toggles the All Templates window.|
 |Create New Template button \(\[Omitted image "templateBarNewTemplate.png"\] Alt text: Create New Template button\)|Displays the Create New Template window.|
 |All Templates popup|This window displays when the **All Templates** button is selected. The window displays a filterable list of all available templates. Click the **Edit** button to the left of any template to edit that template.|
-|Disable Template Bar button \(\[Omitted image "templateBarDisable.png"\] Alt text: Disable Template Bar button\)|Disables the template bar. To display the bar, see [[t_ToggleTheTemplateBar|Toggle the template bar]]|
+|Disable Template Bar button \(\[Omitted image "templateBarDisable.png"\] Alt text: Disable Template Bar button\)|Disables the template bar. To display the bar, see [Toggle the template bar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ToggleTheTemplateBar.md)|
 
 For non-admins, see [KB0711956](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0711956) for more information on enabling the Edit button.
 
-**Parent Topic:**[[c_Templates|Using form templates]]
+**Parent Topic:**[Using form templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_Templates.md)
 
 **Related topics**  
 
@@ -47,7 +47,3 @@ For non-admins, see [KB0711956](https://support.servicenow.com/kb?id=kb_article_
 
 [Scripted templates]()
 
-## Related
-
-- [[t_ToggleTheTemplateBar|Toggle the template bar]]
-- [[c_Templates|Using form templates]]

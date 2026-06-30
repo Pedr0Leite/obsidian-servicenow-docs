@@ -16,10 +16,10 @@ You can now precisely manage log consumption with a new multi-consumer system, e
 
 The system now supports multi-consumer log consumption which means each log source can be consumed separately have its own dedicated topic.
 
-Previously, all [[logs|logs]] were consumed from the same topic. However, with the new multi-topic concept, you can create multiple consumers for different topics. To create a consumer, you can select the following:
+Previously, all logs were consumed from the same topic. However, with the new multi-topic concept, you can create multiple consumers for different topics. To create a consumer, you can select the following:
 
 -   A specific topic from the dropdown menu
--   Respective destination [[sc-configuration|configuration]]
+-   Respective destination configuration
 -   Respective consumer context
 
     **Note:** Starting Zurich release, the **Consumer context** is a new field added in the Consumer form. Each consumer context is associated with one unique mid server.
@@ -33,10 +33,5 @@ A major benefit of this multi-consumer architecture is the ability to run multip
 
 **Note:** For a mid server consumer, the maximum production level throughput is 31500 msg/sec. You can use 27,000 msg/sec as the reliable sustained throughput.
 
-**Parent Topic:**[[les-mid-server-consumer|MID server consumer]]
+**Parent Topic:**[MID server consumer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/les-mid-server-consumer.md)
 
-## Related
-
-- [[les-mid-server-consumer|MID server consumer]]
-- [[logs|Logs]]
-- [[sc-configuration|Configuration]]

@@ -48,7 +48,7 @@ For existing customers, when you upgrade to Utah, you continue to use your exist
 
 From Utah, Next Experience is the new theme on the MESP. For the existing customers, when you upgrade to Utah, the theme adoption works in the following manner:
 
--   When you have not branded the [[mobile-employee-experience|Now Mobile app]] and enable the Next Experience option, the new theme applies automatically on the MESP portal record.
+-   When you have not branded the Now Mobile app and enable the Next Experience option, the new theme applies automatically on the MESP portal record.
 -   When you have not branded the Now Mobile app and do not turn on the Next Experience option, the new theme is not applicable on the MESP portal record.
 -   When you have branded the Now Mobile app; irrespective of the turning on or off the Next Experience option, the new theme is not applicable on the MESP portal record.
 
@@ -60,10 +60,10 @@ From Utah, Next Experience is the new theme on the MESP. For the existing custom
 
 ## Now Mobile native upgrade considerations
 
-Here are the Now Mobile upgrade considerations for various [[employee-center-landing-page|Employee Center]] Applications. When you make changes at the mapping level, the latest changes are not available out-of-the-box.
+Here are the Now Mobile upgrade considerations for various Employee Center Applications. When you make changes at the mapping level, the latest changes are not available out-of-the-box.
 
 -   Apps compatible with Utah: Now Mobile, Webviews for mobile, Search configurations for mobile, and Tasks for mobile.
--   Apps compatible with Utah, San Diego, and Tokyo family releases: Employee Center, Employee Center Core, [[emp-slate-employee-profile|Employee Profile]], and Content Publishing.
+-   Apps compatible with Utah, San Diego, and Tokyo family releases: Employee Center, Employee Center Core, Employee Profile, and Content Publishing.
 
 <table id="simpletable_icc_dcp_tjb"><thead><tr><th>
 
@@ -121,8 +121,3 @@ Run the following fix scripts manually by setting the **runManually=true** to up
 
 **Parent Topic:**[Configuring Employee Center for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-mobile-configrations.md)
 
-## Related
-
-- [[mobile-employee-experience|Now Mobile app]]
-- [[employee-center-landing-page|Employee Center]]
-- [[emp-slate-employee-profile|Employee profile]]

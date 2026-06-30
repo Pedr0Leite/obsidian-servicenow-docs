@@ -15,7 +15,7 @@ breadcrumb: [Tax lines, Reference, Accounts Payable Operations, Finance and Supp
 
 # Invoice Tax lines fields
 
-Field descriptions for the Invoice [[create-tax-lines-apo|Tax Lines]] tab used to record tax details for invoiced purchases.
+Field descriptions for the Invoice Tax Lines tab used to record tax details for invoiced purchases.
 
 ## Invoice Tax lines fields
 
@@ -27,7 +27,7 @@ The following table displays the fields in the invoice tax lines tab.
 |Number|A unique system-generated number, which identifies the tax line.|
 |Tax type|Type of the tax applicable on the invoice.|
 |Taxable amount|The amount of tax applicable on an invoice.|
-|Supplier tax rate|The tax rate charged by the [[supplier|supplier]].|
+|Supplier tax rate|The tax rate charged by the supplier.|
 |Supplier tax|The amount charged by the supplier.|
 |System tax rate|The tax rate calculated by the third-party tax calculation engine.|
 |Final tax|The tax amount paid for this invoice|
@@ -36,7 +36,3 @@ The following table displays the fields in the invoice tax lines tab.
 
 **Parent Topic:**[Tax lines](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-tax-lines-apo.md)
 
-## Related
-
-- [[create-tax-lines-apo|Tax lines]]
-- [[supplier|Supplier]]

@@ -16,7 +16,7 @@ You can compare the properties and relationships of a CI at two different points
 
 ## Before you begin
 
-The CI must be in the [[sc-configuration|Configuration]] Item \[cmdb\_ci\] table or a descendant of this table. [[c_AuditedTables|Auditing]] must be enabled for the table containing the CI.
+The CI must be in the Configuration Item \[cmdb\_ci\] table or a descendant of this table. Auditing must be enabled for the table containing the CI.
 
 Role required: admin.
 
@@ -30,7 +30,4 @@ Role required: admin.
 
 4.  Click **Compare**.
 
-## Related
 
-- [[sc-configuration|Configuration]]
-- [[c_AuditedTables|Auditing]]

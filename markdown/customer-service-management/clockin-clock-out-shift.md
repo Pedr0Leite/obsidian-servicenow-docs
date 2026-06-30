@@ -16,7 +16,7 @@ Clock in and clock out your work shifts using CSM Agent Workspace. You can track
 
 ## Before you begin
 
-**Important:** To access the next generation of the Workforce Optimization for Customer Service application, transition to the Workforce Optimization for Customer Service application that is available from the ServiceNow Store. You can now configure Workforce Optimization for Customer Service using the [UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder-overview.md). For more information see, [[configurable-wfo-cs|Workforce Optimization for Customer Service]].
+**Important:** To access the next generation of the Workforce Optimization for Customer Service application, transition to the Workforce Optimization for Customer Service application that is available from the ServiceNow Store. You can now configure Workforce Optimization for Customer Service using the [UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder-overview.md). For more information see, [Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configurable-wfo-cs.md).
 
 Role required: sn\_shift\_planning.agent
 
@@ -35,9 +35,5 @@ The clock-in event is generated when you either login or set your status as **Av
 
 ## Result
 
-You can view your time attendance and adherence in **[[migration-lists|Lists]]** &gt; **Schedule Adherence** &gt; **Time Attendance** and **Time Worked Summary** lists.
+You can view your time attendance and adherence in **Lists** &gt; **Schedule Adherence** &gt; **Time Attendance** and **Time Worked Summary** lists.
 
-## Related
-
-- [[configurable-wfo-cs|Workforce Optimization for Customer Service]]
-- [[migration-lists|Lists]]

@@ -19,7 +19,7 @@ This accelerator provides coaching to assess training needs, build enablement pl
 
 ## Accelerator Overview
 
-OCM: Managing Change provides [[impact-landing-page|Impact]] customers with coaching — aligned to the Knowledge and Ability elements of the industry standard OCM Readiness framework — that helps Platform Owners and OCM Leads develop the enablement strategies their users need to successfully adopt ServiceNow. This offering covers training needs analysis, multi-modal enablement planning, champion network activation, barrier analysis, and process integration — giving teams a practical OCM playbook they can execute immediately.
+OCM: Managing Change provides Impact customers with coaching — aligned to the Knowledge and Ability elements of the industry standard OCM Readiness framework — that helps Platform Owners and OCM Leads develop the enablement strategies their users need to successfully adopt ServiceNow. This offering covers training needs analysis, multi-modal enablement planning, champion network activation, barrier analysis, and process integration — giving teams a practical OCM playbook they can execute immediately.
 
 **Note:** This is the second accelerator in the three-part OCM Accelerator Series. It follows OCM: Preparing for Change \(Awareness + Desire\) and precedes OCM: Reinforcing &amp; Sustaining Change \(Reinforcement\).
 
@@ -104,6 +104,3 @@ Additional details on supplemental legal terms, prerequisites, specifications, r
 
 ServiceNow is not responsible for implementing any of the recommended configuration changes in your sub-production or production instances.
 
-## Related
-
-- [[impact-landing-page|Impact]]

@@ -16,13 +16,13 @@ breadcrumb: [Defining Document Parameters, Features, Managed Documents, Document
 
 Define a new classification on the Classification form.
 
-Navigate to **[[c_ManagedDocuments|Managed Documents]]** &gt; **Administration** &gt; **Classification** and click **New**.
+Navigate to **Managed Documents** &gt; **Administration** &gt; **Classification** and click **New**.
 
 |Field|Description|
 |-----|-----------|
 |Name|A unique name for the classification.|
 |Code|A short code for the classification. Referenced as a name component for the name format.|
-|Label|A [[label|label]] to display in the **Classification** choice list.|
+|Label|A label to display in the **Classification** choice list.|
 |Order|A number indicating this classification's sequence in the choice list.|
 
 The following classifications are available in the base system.
@@ -35,7 +35,3 @@ The following classifications are available in the base system.
 
 **Parent Topic:**[Defining Document Parameters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/r_DefiningDocumentParameters.md)
 
-## Related
-
-- [[c_ManagedDocuments|Managed Documents]]
-- [[label|Label]]

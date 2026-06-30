@@ -14,7 +14,7 @@ breadcrumb: [Operational Technology Manager, Operational Technology]
 
 # Exploring the Operational Technology Manager
 
-Learn how you can use the [[operational-technology-manager|Operational Technology Manager]] application to create the foundational data and relationships that enable your enterprise to use the ServiceNow® [[operational-technology-overview|Operational Technology]] solution.
+Learn how you can use the Operational Technology Manager application to create the foundational data and relationships that enable your enterprise to use the ServiceNow® Operational Technology solution.
 
 The Operational Technology Manager supports the use of the Configuration Management Database \(CMDB\), Service Graph Connectors, and Discovery applications in the ServiceNow AI Platform.
 
@@ -27,14 +27,9 @@ Multiple methods are available for uploading your existing Operational Technolog
 -   **[Differences between OT and standard IT networks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/differences-between-ot-standard-it-networks.md)**  
 There are differences in how the Configuration Management Database \(CMDB\) handles the devices located in Operational Technology networks and those in standard Information Technology \(IT\) networks.
 -   **[Enhanced Access Control for Operational Technology](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/ot-enhanced-access-control.md)**  
-[[ot-enhanced-access-control|Enhanced Access Control for Operational Technology]] \(Operational Technology\) implements data filters, deny unless access control rules \(ACLs\), and ACL query rules to help promote system security.
+Enhanced Access Control for Operational Technology \(Operational Technology\) implements data filters, deny unless access control rules \(ACLs\), and ACL query rules to help promote system security.
 -   **[Viewing your installed Operational Technology applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/view-installed-ot-applications.md)**  
 You can view the Operational Technology \(OT\) applications that you have installed on your instance for better visibility of how you can use the Operational Technology Management solution.
 
 **Parent Topic:**[Operational Technology Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/operational-technology-manager.md)
 
-## Related
-
-- [[operational-technology-manager|Operational Technology Manager]]
-- [[operational-technology-overview|Operational Technology]]
-- [[ot-enhanced-access-control|Enhanced Access Control for Operational Technology]]

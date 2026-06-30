@@ -12,7 +12,7 @@ breadcrumb: [Setup for Crisis map, Configure, Business Continuity Management, Go
 
 # Configure Scheduled Data Imports records
 
-Configure a Scheduled Data Imports record for the Crisis map application. You can then manage your subscriptions to the threat feeds from an internal or external source in the [[bcm-workspace|BCM Configurable Workspace]].
+Configure a Scheduled Data Imports record for the Crisis map application. You can then manage your subscriptions to the threat feeds from an internal or external source in the BCM Configurable Workspace.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Threat feeds provide a situational awareness of potential or current threats to 
 
 ## Procedure
 
-1.  Navigate to **Threat and Alert Data Feeds** &gt; **[[Administration|Administration]]** &gt; **Scheduled Imports**.
+1.  Navigate to **Threat and Alert Data Feeds** &gt; **Administration** &gt; **Scheduled Imports**.
 
     Following two scheduled data imports exist within the base system.
 
@@ -43,7 +43,7 @@ Threat feeds provide a situational awareness of potential or current threats to 
 
 3.  On the form, fill in the fields.
 
-    For more information on the Scheduled Data Imports form, see [[scheduled-data-imports-form|Scheduled Data Imports form]].
+    For more information on the Scheduled Data Imports form, see [Scheduled Data Imports form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/scheduled-data-imports-form.md).
 
 4.  Select **Submit**.
 
@@ -71,11 +71,5 @@ The data import record is displayed in the **Scheduled Data Imports** record pag
 -   **[Scheduled Data Imports form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/scheduled-data-imports-form.md)**  
 Use the Scheduled Data Imports form in the BCM Configurable Workspace to add details about a Scheduled data imports record.
 
-**Parent Topic:**[[crisis-map-admin-tasks|Setup for Crisis map]]
+**Parent Topic:**[Setup for Crisis map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/crisis-map-admin-tasks.md)
 
-## Related
-
-- [[scheduled-data-imports-form|Scheduled Data Imports form]]
-- [[crisis-map-admin-tasks|Setup for Crisis map]]
-- [[bcm-workspace|BCM Configurable Workspace]]
-- [[Administration|Administration]]

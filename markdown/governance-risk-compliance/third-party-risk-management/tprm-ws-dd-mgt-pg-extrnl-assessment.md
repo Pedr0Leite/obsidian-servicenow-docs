@@ -18,7 +18,7 @@ After the IRQ process is complete, you send questionnaires and document requests
 
 ## Accessing an external assessment
 
-On the Due diligence management page, select the **DDR** number for any engagement due diligence request and the select the **External assessments** tab. The tab displays the list of all third-party [[risk-assessments|risk assessments]] \(external due diligence processes\) for the selected engagement request.
+On the Due diligence management page, select the **DDR** number for any engagement due diligence request and the select the **External assessments** tab. The tab displays the list of all third-party risk assessments \(external due diligence processes\) for the selected engagement request.
 
 \[Omitted image "tprm-ws-dd-mgt-tp-assesment.png"\] Alt text: List of third-party risks assessments.
 
@@ -139,15 +139,15 @@ Select **Browse** in the **Attachments** section or select the attachment icon t
 -   **[Life cycle states of a external assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-external-assessment-lifecycle.md)**  
 The process of collecting assessment data from a third party moves between several states. For example, during the **Submitted to third party** state, the third party responds to tasks, issues, and works to complete the questionnaires.
 -   **[Assessment metric type form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-create-q-template-form.md)**  
-Use the [[new-assessment-reference|assessment metric type form]] to capture all the information that you need to create a questionnaire template using the Third-party Risk Management application. As a third-party risk admin, you can create a questionnaire template.
+Use the assessment metric type form to capture all the information that you need to create a questionnaire template using the Third-party Risk Management application. As a third-party risk admin, you can create a questionnaire template.
 -   **[Create new external assessment template form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/create-assess-template-form.md)**  
-Use the external assessment template form to capture all the information that you need to [[create-vendor-risk-assess-temp|create an external assessment template]]. As a third-party risk manager, you can [[sae-asmnt-template-create|create an assessment template]].
+Use the external assessment template form to capture all the information that you need to create an external assessment template. As a third-party risk manager, you can create an assessment template.
 -   **[Create New TPRM SAE questionnaire template form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)**  
 Use the Create New TPRM questionnaire template form to capture all the information that you need to create a TPRM SAE questionnaire template using the Smart Assessment template designer. As a third-party risk admin, you can create a questionnaire template.
 -   **[Third-party risk assessment form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-create-assessment-form.md)**  
-Use the [[tprm-create-assessment-form|third-party risk assessment form]] to capture all the information that you need to create an assessment using the Third-party Risk Management application. As a third-party risk assessor or manager, you can [[tprm-create-assessment|create an external assessment]].
+Use the third-party risk assessment form to capture all the information that you need to create an assessment using the Third-party Risk Management application. As a third-party risk assessor or manager, you can create an external assessment.
 -   **[Third-party element form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-tpe-form.md)**  
-Use the [[tprm-tpe-form|third-party element form]] to capture all the information that you need to [[tprm-tp-element-create|create a third-party element record]] using the Third-party Risk Management application. As a third-party risk manager, third-party risk assessor, or due diligence request owner, you can create a third-party element record.
+Use the third-party element form to capture all the information that you need to create a third-party element record using the Third-party Risk Management application. As a third-party risk manager, third-party risk assessor, or due diligence request owner, you can create a third-party element record.
 
 **Parent Topic:**[Third-party Risk Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-reference.md)
 
@@ -168,13 +168,3 @@ Use the [[tprm-tpe-form|third-party element form]] to capture all the informatio
 
 [Third-party element form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-tpe-form.md)
 
-## Related
-
-- [[risk-assessments|risk assessments]]
-- [[new-assessment-reference|Assessment Metric Type form]]
-- [[create-vendor-risk-assess-temp|Create an external assessment template]]
-- [[sae-asmnt-template-create|Create an assessment template]]
-- [[tprm-create-assessment-form|Third-party risk assessment form]]
-- [[tprm-create-assessment|Create an external assessment]]
-- [[tprm-tpe-form|Third-party element form]]
-- [[tprm-tp-element-create|Create a third-party element record]]

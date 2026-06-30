@@ -16,7 +16,7 @@ Edit text that the AI generated, or share your thoughts in AI Data Explorer by a
 
 ## Before you begin
 
-To access AI writing tools, the refine text in exploration skill must be activated. For more information, see [[activate-now-ass-explorer|Activate AI Data Explorer skills]].
+To access AI writing tools, the refine text in exploration skill must be activated. For more information, see [Activate AI Data Explorer skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/activate-now-ass-explorer.md).
 
 Role required: now\_assist\_explorer\_user, and you must own the exploration or have editing rights to it.
 
@@ -34,9 +34,5 @@ When editing your own text, you also have markup options. You can tag a colleagu
 
 \[Omitted image "nowass-expl-text-options.png"\] Alt text: Markup options after typing a forward slash in the text area.
 
-**Parent Topic:**[[use-now-assist-explorer|Using AI Data Explorer]]
+**Parent Topic:**[Using AI Data Explorer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/use-now-assist-explorer.md)
 
-## Related
-
-- [[activate-now-ass-explorer|Activate AI Data Explorer skills]]
-- [[use-now-assist-explorer|Using AI Data Explorer]]

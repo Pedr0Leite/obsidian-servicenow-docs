@@ -15,7 +15,7 @@ breadcrumb: [Configurations, AI Control Tower dashboard, Explore, AI Control Tow
 
 # Playbooks
 
-The Playbook templates list has a record of Approval Playbook for [[platform-now-assist-landing|Now Assist]] [[approvals|approvals]] and Asset lifecycle playbook templates.
+The Playbook templates list has a record of Approval Playbook for Now Assist approvals and Asset lifecycle playbook templates.
 
 The Now Assist approval is a workflow that facilitates the AI asset approval process.
 
@@ -30,23 +30,15 @@ You can create your own playbook workflow by customizing the number of steps or 
 
 **Note:** To retire an asset, offboarding process is initiated.
 
-For information about [[ai-asset-lifecycle|AI asset lifecycle]] process, see [AI asset lifecycle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/ai-asset-lifecycle.md)
+For information about AI asset lifecycle process, see [AI asset lifecycle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/ai-asset-lifecycle.md)
 
-To view [[ai-assets|AI assets]] by lifecycle stages, see [View AI assets by life-cycle stage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/view-ai-assets-lifecycle-stage.md)
+To view AI assets by lifecycle stages, see [View AI assets by life-cycle stage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/view-ai-assets-lifecycle-stage.md)
 
 For information about offboarding and creating offboard requests for AI assets, see [Create offboarding requests for AI assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/create-ai-asset-offboarding-request.md)
 
-\[Omitted image "aict-config-playbooks.png"\] Alt text: Playbooks on [[exploring-ai-governance|Configurations]] screen.
+\[Omitted image "aict-config-playbooks.png"\] Alt text: Playbooks on Configurations screen.
 
-For information on creating a [[ai-control-tower-landing|AI Control Tower]] playbook workflow for Now Assist approvals, see [Create an AI Control Tower Playbook workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/create-a-playbook-workflow-for-now-assist-approvals.md).
+For information on creating a AI Control Tower playbook workflow for Now Assist approvals, see [Create an AI Control Tower Playbook workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/create-a-playbook-workflow-for-now-assist-approvals.md).
 
 To view the Asset lifecycle stage, see [View AI assets by life-cycle stage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/view-ai-assets-lifecycle-stage.md) and to view the completing of the Asset lifecycle stage, see [Complete AI asset lifecycle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/complete-ai-asset-lifecycle.md)
 
-## Related
-
-- [[platform-now-assist-landing|Now Assist]]
-- [[approvals|Approvals]]
-- [[ai-asset-lifecycle|AI asset lifecycle]]
-- [[ai-assets|AI assets]]
-- [[exploring-ai-governance|Configurations]]
-- [[ai-control-tower-landing|AI Control Tower]]

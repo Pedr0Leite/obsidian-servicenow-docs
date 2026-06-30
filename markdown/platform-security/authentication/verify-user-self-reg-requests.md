@@ -14,7 +14,7 @@ breadcrumb: [Self-register to ServiceNow instance, Authentication, Access Manage
 
 # Verify user self-registration requests
 
-After a user registers from the Service Portal , a user record is added to the Registration Requests module. You can view the list of registered [[users|users]] who have successfully registered in the Service Portal .
+After a user registers from the Service Portal , a user record is added to the Registration Requests module. You can view the list of registered users who have successfully registered in the Service Portal .
 
 ## Before you begin
 
@@ -30,6 +30,4 @@ Role required: external\_user\_self\_registration\_admin
 
     For example, you can change the status of a user record form **Pending** to **Processed**.
 
-## Related
 
-- [[users|Users]]

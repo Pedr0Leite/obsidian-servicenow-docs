@@ -13,7 +13,7 @@ breadcrumb: [CBS Analytics overview, View Core Business Suite Analytics, Use, Co
 
 # Health &amp; Safety analytics on the CBS dashboard
 
-The **Health &amp; Safety** tab on the [[cbs-landing|Core Business Suite]] Analytics dashboard tracks open case volume and resolution trends for health and safety requests, helping managers monitor incident activity and staffing coverage.
+The **Health &amp; Safety** tab on the Core Business Suite Analytics dashboard tracks open case volume and resolution trends for health and safety requests, helping managers monitor incident activity and staffing coverage.
 
 ## Today's snapshot
 
@@ -39,9 +39,5 @@ The Performance trends section tracks case volume, resolution rates, and self-se
 |Mean time to resolve|Average number of days to resolve a health and safety case over the selected period. Example value: 5.3 days \(average for April 27 – May 26\).|
 |Total cases created by case type|A chart showing case volume broken down by health and safety case type. Case types include: Health and safety procedures, Training, Equipment, General inquiry, and Injury / incident related leave.|
 
-**Parent Topic:**[[cbs-analytics-overview|Core Business Suite Analytics overview]]
+**Parent Topic:**[Core Business Suite Analytics overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/cbs-analytics-overview.md)
 
-## Related
-
-- [[cbs-analytics-overview|Core Business Suite Analytics overview]]
-- [[cbs-landing|Core Business Suite]]

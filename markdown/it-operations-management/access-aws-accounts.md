@@ -12,7 +12,7 @@ breadcrumb: [Setting up AWS service accounts, Set up a cloud service account, Ac
 
 # Access setup for AWS service accounts
 
-Cloud [[r-discovery|Discovery]] and [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] need access to resources in the Amazon Web Services \(AWS\) service accounts. Learn about different methods of configuring such access.
+Cloud Discovery and Cloud Provisioning and Governance need access to resources in the Amazon Web Services \(AWS\) service accounts. Learn about different methods of configuring such access.
 
 Cloud Discovery and Cloud Provisioning and Governance access resources in AWS service accounts through MID Servers. You must authorize inbound traffic to Amazon EC2 instances from the MID Server for setting up initial communication. For more information, see [Configure security group inbound rules using the AWS Management Console](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DAX.create-cluster.console.configure-inbound-rules.html).
 
@@ -57,15 +57,15 @@ For the purposes of configuring access for AWS accounts, the following terms are
 Typically, you set up access to the AWS accounts in your organization using the following methods:
 
 -   **Configuring access for a single account**
-    -   Configure AWS credentials on the ServiceNow AI Platform to avoid the complexity of creating and setting up IAM roles. For more information, see [[aws-create-creds-cloud-mgt|Configure access to the AWS accounts using permanent AWS credentials]].
-    -   Create an AWS service account on the ServiceNow AI Platform. For more information, see [[create-aws-service-accounts|Create AWS service accounts]].
+    -   Configure AWS credentials on the ServiceNow AI Platform to avoid the complexity of creating and setting up IAM roles. For more information, see [Configure access to the AWS accounts using permanent AWS credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/aws-create-creds-cloud-mgt.md).
+    -   Create an AWS service account on the ServiceNow AI Platform. For more information, see [Create AWS service accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/create-aws-service-accounts.md).
 -   **Configuring access for an account that trusts an accessor account with AWS credentials**
 
     \[Omitted image "aws-any-account-trusted-with-credentials.png"\] Alt text: Set up the IAM role of the trusting AWS account to trust the user of the trusted AWS account for access
 
     -   Configure any type of account—discrete \(independent\), management, or member—to rely on a trusted account with AWS credentials for access.
     -   Configuring an IAM role belonging to the trusting accounts to trust the user of the trusted account enables using only one set of AWS credentials for providing access to multiple AWS accounts.
-    For more information, see [[configure-iam-role-aws-account|Configure temporary credential access for trusted AWS accounts]].
+    For more information, see [Configure temporary credential access for trusted AWS accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/configure-iam-role-aws-account.md).
 
 -   **Configuring access for an account that trusts an accessor account without AWS credentials**
 
@@ -74,13 +74,13 @@ Typically, you set up access to the AWS accounts in your organization using the 
     -   Configure any type of account—discrete \(independent\), management, or member—to rely on a trusted account without AWS credentials for access.
     -   Configure an account without AWS credentials using an IAM role and permissions to access the trusting service account.
     -   Set up the IAM role of the trusting account to grant access to the IAM role of the trusted account.
-    For more information, see [[aws-trusted-credential-less|Configure credential-less access using trusted AWS accounts]].
+    For more information, see [Configure credential-less access using trusted AWS accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/aws-trusted-credential-less.md).
 
 -   **Configuring access for AWS member accounts by using a trust chain from the accessor through the management account.**
 
     \[Omitted image "aws-member-account-trusted-with-credentials.png"\] Alt text: Set up the IAM role of the trusting member accounts to trust their management account
 
-    -   Configure the IAM roles of the member accounts to trust the IAM role of their management account. For more information, see [[configure-iam-role-aws-member|Configure access for trusting AWS member accounts in trust chain]].
+    -   Configure the IAM roles of the member accounts to trust the IAM role of their management account. For more information, see [Configure access for trusting AWS member accounts in trust chain](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/configure-iam-role-aws-member.md).
     -   Configure the management accounts to trust the accessor accounts with or without AWS credentials. For more information, see:
         -   [Configure temporary credential access for trusted AWS accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/configure-iam-role-aws-account.md).
         -   [Configure credential-less access using trusted AWS accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/aws-trusted-credential-less.md).
@@ -99,23 +99,12 @@ Typically, you set up access to the AWS accounts in your organization using the 
     1.  If permanent credentials are defined for the member or management account in the Cloud Service Account \[cmdb\_ci\_cloud\_service\_account\] table, Discovery uses those credentials. The Cloud Service Accounts \[cmdb\_ci\_cloud\_service\_account\] table contains the information on the service account types, like management or member, and their credentials.
     2.  If no permanent credentials are defined for the account, Discovery checks the Cloud Service Account AWS Cross Assume Role Params \[cloud\_service\_account\_aws\_cross\_assume\_role\_params\] table for any special parameters associated with the account. If parameters exist in that table, Discovery uses the temporary credentials acquired from specifying a role and its parameters in the AWS Security Token Service API AssumeRole action.
 
-**Parent Topic:**[[setup-aws-service-accounts|Setting up AWS service accounts]]
+**Parent Topic:**[Setting up AWS service accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/setup-aws-service-accounts.md)
 
 **Related topics**  
 
 
 [Step-by-Step Guide to Configure AWS Cloud Discovery in ServiceNow Using Patterns \[KB2184482\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2184482)
 
-[AWS Cloud [[discovery-setup|Discovery Setup]] – Use Case Guide with CloudFormation Templates \[KB2221157\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2221157)
+[AWS Cloud Discovery Setup – Use Case Guide with CloudFormation Templates \[KB2221157\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2221157)
 
-## Related
-
-- [[aws-create-creds-cloud-mgt|Configure access to the AWS accounts using permanent AWS credentials]]
-- [[create-aws-service-accounts|Create AWS service accounts]]
-- [[configure-iam-role-aws-account|Configure temporary credential access for trusted AWS accounts]]
-- [[aws-trusted-credential-less|Configure credential-less access using trusted AWS accounts]]
-- [[configure-iam-role-aws-member|Configure access for trusting AWS member accounts in trust chain]]
-- [[setup-aws-service-accounts|Setting up AWS service accounts]]
-- [[r-discovery|Discovery]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[discovery-setup|Discovery setup]]

@@ -15,7 +15,7 @@ breadcrumb: [Install Kubernetes Visibility Agent \(KVA\) Informer, Configuring K
 
 # Configure the memory limit of the Informer pod
 
-Set the memory limit of the [[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]] Informer pod.
+Set the memory limit of the Kubernetes Visibility Agent Informer pod.
 
 ## Before you begin
 
@@ -83,6 +83,3 @@ Minimum memory limit
 
 **Parent Topic:**[Install Kubernetes Visibility Agent \(KVA\) Informer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cnov-deploy-install.md)
 
-## Related
-
-- [[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]]

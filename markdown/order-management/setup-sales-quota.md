@@ -26,7 +26,7 @@ Role required: sn\_quota\_core.quota\_admin
 
 2.  Select **New**.
 
-3.  On the form, fill in the [[fields|fields]].
+3.  On the form, fill in the fields.
 
 <table id="table_fjd_str_w2c"><thead><tr><th>
 
@@ -125,12 +125,7 @@ Select the **Active** check box to activate this quota.
 **Related topics**  
 
 
-[[using-sales-forecasting|Using Sales Forecasting]]
+[Using Sales Forecasting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-sales-forecasting.md)
 
-[[sales-forecasting|Sales Forecasting]]
+[Sales Forecasting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/sales-forecasting.md)
 
-## Related
-
-- [[using-sales-forecasting|Using Sales Forecasting]]
-- [[sales-forecasting|Sales Forecasting]]
-- [[fields|Fields]]

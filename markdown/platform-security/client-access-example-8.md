@@ -12,21 +12,21 @@ breadcrumb: [Configuring client accessible secrets, Secrets Management, Platform
 
 # Test a Windows Management Instrumentation credential encrypted with Secrets Management
 
-Verify that your Windows Management Instrumentation \(WMI\) credential is encrypted with [[secrets-management|Secrets Management]] and use an Integration Hub workflow to complete end-to-end testing.
+Verify that your Windows Management Instrumentation \(WMI\) credential is encrypted with Secrets Management and use an Integration Hub workflow to complete end-to-end testing.
 
 ## Before you begin
 
 Role required: admin, KMF\_admin, sn\_secrets.secret\_manager, and sn\_kmf.cryptographic\_manager
 
 -   Integration Hub Enterprise must be active on your instance. For details, see [Request an Integration Hub plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/request-integrationhub.md).
--   You must have a configured secrets group on your instance. See steps 1 through 3 listed in [[client-access-secret-landing|Configuring client accessible secrets]].
--   You must have a configured credential encrypted with Secrets Management. See steps 1 through 9 listed in [[client-access-example-4|Create credentials and test credential encryption]].
+-   You must have a configured secrets group on your instance. See steps 1 through 3 listed in [Configuring client accessible secrets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/client-access-secret-landing.md).
+-   You must have a configured credential encrypted with Secrets Management. See steps 1 through 9 listed in [Create credentials and test credential encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/client-access-example-4.md).
 
 ## Procedure
 
 1.  Confirm that the desired MID Server is associated with the Secret Group.
 
-    Open the Secret Group with Criteria \[sn\_sm\_criteria\_secret\_group\] record, and look for your MID Server in the **Secret Group – [[identity-landing|Identity]] Group Members** list. If your MID Server isn’t associated with a group see [[client-access-example-3|Create a secret group with criteria]].
+    Open the Secret Group with Criteria \[sn\_sm\_criteria\_secret\_group\] record, and look for your MID Server in the **Secret Group – Identity Group Members** list. If your MID Server isn’t associated with a group see [Create a secret group with criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/client-access-example-3.md).
 
 2.  Confirm that the credential is encrypted with Secrets Management.
 
@@ -64,7 +64,7 @@ Role required: admin, KMF\_admin, sn\_secrets.secret\_manager, and sn\_kmf.crypt
 
     3.  For the condition, select **Name is**, followed by the name of your MID Server.
 
-    \[Omitted image "test\_flow\_example.png"\] Alt text: Look up Record step [[sc-configuration|configuration]]
+    \[Omitted image "test\_flow\_example.png"\] Alt text: Look up Record step configuration
 
     **Important:** Make sure that the selected MID Server is the same as the one associated with the secret group.
 
@@ -152,7 +152,7 @@ Select **Run on a MID Server or have your script establish a remote session**
     2.  Use the following script, replacing the example path with the path from your test host.
 
         ```
-        Get-Date | Out-File -FilePath C:\[[users|Users]]\<path>\sm_ig_text_file.txt
+        Get-Date | Out-File -FilePath C:\Users\<path>\sm_ig_text_file.txt
         ```
 
         **Note:** You may also run your own script that suits your remote host configuration. It’s important to confirm that a connection was established using the SM-encrypted value.
@@ -163,7 +163,7 @@ Select **Run on a MID Server or have your script establish a remote session**
 
 7.  Select the **Test** button to test your action.
 
-8.  Review the output [[logs|logs]] for any error messages.
+8.  Review the output logs for any error messages.
 
 9.  Verify that a test file has been created on the host server in the file path you provided in the script.
 
@@ -172,13 +172,3 @@ Select **Run on a MID Server or have your script establish a remote session**
 
 **Parent Topic:**[Configuring client accessible secrets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/client-access-secret-landing.md)
 
-## Related
-
-- [[client-access-secret-landing|Configuring client accessible secrets]]
-- [[client-access-example-4|Create credentials and test credential encryption]]
-- [[client-access-example-3|Create a secret group with criteria]]
-- [[secrets-management|Secrets Management]]
-- [[identity-landing|Identity]]
-- [[sc-configuration|Configuration]]
-- [[users|Users]]
-- [[logs|Logs]]

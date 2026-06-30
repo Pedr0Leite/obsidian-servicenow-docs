@@ -22,7 +22,7 @@ Role required: resource\_user
 
 ## About this task
 
-You can change the [[c_ResourcePlans|resource plans]] that are in the Requested or Confirmed state. To change the form fields of the plan, you first must request a change to the resource plan. However, you can adjust the requested allocations directly on the plan without requesting for a change. These adjustments are rolled-up to the resource plan.
+You can change the resource plans that are in the Requested or Confirmed state. To change the form fields of the plan, you first must request a change to the resource plan. However, you can adjust the requested allocations directly on the plan without requesting for a change. These adjustments are rolled-up to the resource plan.
 
 ## Procedure
 
@@ -74,6 +74,3 @@ The resource plan moves back to the Planning state and has the form fields enabl
 
 [Associate a time card with a resource plan]()
 
-## Related
-
-- [[c_ResourcePlans|Resource plans]]

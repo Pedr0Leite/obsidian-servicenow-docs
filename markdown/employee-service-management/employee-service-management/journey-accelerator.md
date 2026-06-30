@@ -10,7 +10,7 @@ reading_time_minutes: 1
 
 # Journey Accelerator
 
-Administrators can use the ServiceNow® [[journey-accelerator-1|Journey Accelerator]] application to create templates for plans and to-do tasks. Managers then use the templates to create and publish customized plans for key employee transitions. Managers, employees, and mentors can access the plans from the [[employee-center-landing-page|Employee Center]] \(EC\).
+Administrators can use the ServiceNow® Journey Accelerator application to create templates for plans and to-do tasks. Managers then use the templates to create and publish customized plans for key employee transitions. Managers, employees, and mentors can access the plans from the Employee Center \(EC\).
 
 ## Request apps on the Store
 
@@ -49,7 +49,3 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[journey-accelerator-1|Journey Accelerator]]
-- [[employee-center-landing-page|Employee Center]]

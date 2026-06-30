@@ -24,7 +24,7 @@ Update and close the tasks of the claim case.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Open the claim case and task one of the following ways.
 
@@ -151,7 +151,3 @@ In the case playbook, select **Close** to close the claim.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[fso-overview|Financial Services]]

@@ -12,14 +12,14 @@ breadcrumb: [Configuring synthetic monitoring, Synthetic monitoring, ITOM AIOps,
 
 # Create synthetic monitoring locations
 
-Create a [[synthetic-monitoring-landing-page|synthetic monitoring]] location to run a synthetic monitor. If you plan to run monitors from a ServiceNow hosted location, you can skip this procedure.
+Create a synthetic monitoring location to run a synthetic monitor. If you plan to run monitors from a ServiceNow hosted location, you can skip this procedure.
 
 ## Before you begin
 
 You need at least one of the following:
 
 -   A MID Server
--   One or more [[acc-landing-page|Agent Client Collector]] \(ACC\) agent that monitors the health and performance of the HTTP endpoints to be monitored using synthetic monitoring. If you plan to run tests only from the ServiceNow hosted location, you don't need to set up a location.
+-   One or more Agent Client Collector \(ACC\) agent that monitors the health and performance of the HTTP endpoints to be monitored using synthetic monitoring. If you plan to run tests only from the ServiceNow hosted location, you don't need to set up a location.
 
     **Note:**
 
@@ -40,7 +40,7 @@ You can create as many locations as needed, but you must have at least one locat
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]** &gt; **Configurations**.
+1.  Navigate to **All** &gt; **Service Operations Workspace** &gt; **Configurations**.
 
 2.  Navigate to **Synthetic monitoring setup** &gt; **Manage Locations**.
 
@@ -56,19 +56,12 @@ You can create as many locations as needed, but you must have at least one locat
 
 7.  Select **Save**.
 
-    **Note:** You can delete locations from the Synthetic Locations menu, which you can navigate to by selecting **All** &gt; **Synthetic Monitoring** &gt; **Synthetic Locations**. However, you must first remove any monitors running on that location, either by editing the monitors to use a different location or deleting the monitors. See [[create-synthetic-monitor|Create and edit a synthetic monitor]] for more information.
+    **Note:** You can delete locations from the Synthetic Locations menu, which you can navigate to by selecting **All** &gt; **Synthetic Monitoring** &gt; **Synthetic Locations**. However, you must first remove any monitors running on that location, either by editing the monitors to use a different location or deleting the monitors. See [Create and edit a synthetic monitor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/create-synthetic-monitor.md) for more information.
 
 
 ## What to do next
 
 [Create and edit a synthetic monitor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/create-synthetic-monitor.md)
 
-**Parent Topic:**[[configuring-synthetic-monitoring|Configuring synthetic monitoring]]
+**Parent Topic:**[Configuring synthetic monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/configuring-synthetic-monitoring.md)
 
-## Related
-
-- [[create-synthetic-monitor|Create and edit a synthetic monitor]]
-- [[configuring-synthetic-monitoring|Configuring synthetic monitoring]]
-- [[synthetic-monitoring-landing-page|Synthetic monitoring]]
-- [[acc-landing-page|Agent Client Collector]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

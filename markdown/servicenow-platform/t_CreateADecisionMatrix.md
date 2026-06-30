@@ -20,7 +20,7 @@ Role required: assessment\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[r_Assessments|Assessments]]** &gt; **Admin** &gt; **Decision Matrixes**.
+1.  Navigate to **All** &gt; **Assessments** &gt; **Admin** &gt; **Decision Matrixes**.
 
 2.  Click **New**.
 
@@ -40,7 +40,7 @@ Role required: assessment\_admin or admin
 
     \[Omitted image "DecisionMatrixForm.png"\] Alt text: Decision Matrix form
 
-    **Note:** For color fields, either [[html|HTML]] color names or hexidecimal \(hex\) values are acceptable. For hex values, the \# character is optional. Values are not case-sensitive. For example, all of the following values are valid: LightGray, lightgray, \#D3D3D3, d3d3d3.
+    **Note:** For color fields, either HTML color names or hexidecimal \(hex\) values are acceptable. For hex values, the \# character is optional. Values are not case-sensitive. For example, all of the following values are valid: LightGray, lightgray, \#D3D3D3, d3d3d3.
 
 <table id="table_d1w_jkm_q4"><thead><tr><th>
 
@@ -64,7 +64,7 @@ Type
 
 </td><td>
 
-Metric type associated with this decision matrix. Only results for [[c_assessable-records|assessable records]] of the selected metric type are plotted on the decision matrix.
+Metric type associated with this decision matrix. Only results for assessable records of the selected metric type are plotted on the decision matrix.
 
 </td></tr><tr><td>
 
@@ -72,7 +72,7 @@ Default
 
 </td><td>
 
-Determines whether or not this is the default decision matrix. The default decision matrix opens when you click **View Matrix** on a scorecard. Select the [[check-box|check box]] to set the matrix as the default decision matrix.The system prevents you from creating more than one default decision matrix per metric type. If there is already a default decision matrix for the type and you try to save a different matrix with the check box selected, an error message appears. The maximum values for the default decision matrix are controlled by the **Maximum number of items to show for a decision matrix field filter** property **\(com.snc.assessment.decision\_matrix\_filter\_max\_entries\)**, which has a default value of 1000.
+Determines whether or not this is the default decision matrix. The default decision matrix opens when you click **View Matrix** on a scorecard. Select the check box to set the matrix as the default decision matrix.The system prevents you from creating more than one default decision matrix per metric type. If there is already a default decision matrix for the type and you try to save a different matrix with the check box selected, an error message appears. The maximum values for the default decision matrix are controlled by the **Maximum number of items to show for a decision matrix field filter** property **\(com.snc.assessment.decision\_matrix\_filter\_max\_entries\)**, which has a default value of 1000.
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -80,7 +80,7 @@ Quadrant Design Section
 
 </td></tr><tr><td>
 
-Quadrant [[label|label]] color
+Quadrant label color
 
 </td><td>
 
@@ -220,18 +220,8 @@ Lists categories that define the Y-axis of the decision matrix.
 
 </td></tr></tbody>
 </table>
--   **[[r_AdministerDecisionMatrixes|Decision matrixes]]**  
-[[r_AssessmentResults|Assessment results]] obtained by questionnaires and scripted metrics can be mapped to decision matrixes.
+-   **[Decision matrixes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_AdministerDecisionMatrixes.md)**  
+Assessment results obtained by questionnaires and scripted metrics can be mapped to decision matrixes.
 
-**Parent Topic:**[[c_AssessmentProcess|Assessment administrator tasks]]
+**Parent Topic:**[Assessment administrator tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentProcess.md)
 
-## Related
-
-- [[r_AdministerDecisionMatrixes|Decision matrixes]]
-- [[c_AssessmentProcess|Assessment administrator tasks]]
-- [[r_Assessments|Assessments]]
-- [[html|HTML]]
-- [[c_assessable-records|Assessable records]]
-- [[check-box|Check box]]
-- [[label|Label]]
-- [[r_AssessmentResults|Assessment results]]

@@ -12,7 +12,7 @@ breadcrumb: [Set up the Vulnerability Assessment Template, Setting up the Operat
 
 # Assessment metric type form
 
-Use the [[new-assessment-reference|Assessment Metric Type form]] to create an assessment questionnaire template instead of using the default template for [[exploring-op-vul|Operational vulnerability]].
+Use the Assessment Metric Type form to create an assessment questionnaire template instead of using the default template for Operational vulnerability.
 
 ## Assessment metric type form
 
@@ -33,7 +33,3 @@ For a description of the fields, see the following table:
 |Metric categories|All metric categories for this assessment. For more information on the Metric category form, see [Metric Category form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/metric-category-form.md).|
 |Assessable records|All assessable records associated to the metric category. For more information on the Assessable records, see [Assessable records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_assessable-records.md).|
 
-## Related
-
-- [[new-assessment-reference|Assessment Metric Type form]]
-- [[exploring-op-vul|Operational vulnerability]]

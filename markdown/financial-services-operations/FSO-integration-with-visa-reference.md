@@ -14,15 +14,10 @@ breadcrumb: [Visa, Integrate, Financial Services Operations \(FSO\)]
 
 Reference topics provide additional information on the installed components, including plugins,subflows, and system properties, that you use to configure and administer Financial Services Operations Integration with Visa application.
 
--   **[[financial-services-operations-integration-with-visa-reference|Components installed with Financial Services Operations Integration with Visa]]**  
+-   **[Components installed with Financial Services Operations Integration with Visa](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-operations-integration-with-visa-reference.md)**  
 Reference topics provide additional information on the installed components and subflows that you use to configure and administer Financial Services Operations Integration with Visa application.
--   **[[properties-installed-with-fso-integration-with-visa|Properties installed with Financial Services Operations Integration with Visa]]**  
+-   **[Properties installed with Financial Services Operations Integration with Visa](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/properties-installed-with-fso-integration-with-visa.md)**  
 Customize the properties that are available with the Financial Services Operations Integration with Visa application.
 
-**Parent Topic:**[[financial-services-operations-integration-with-visa-landing-page|Financial Services Operations Integration with Visa]]
+**Parent Topic:**[Financial Services Operations Integration with Visa](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-operations-integration-with-visa-landing-page.md)
 
-## Related
-
-- [[financial-services-operations-integration-with-visa-reference|Components installed with Financial Services Operations Integration with Visa]]
-- [[properties-installed-with-fso-integration-with-visa|Properties installed with Financial Services Operations Integration with Visa]]
-- [[financial-services-operations-integration-with-visa-landing-page|Financial Services Operations Integration with Visa]]

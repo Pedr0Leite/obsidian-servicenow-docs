@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[tmt-service-bridge-both-landing-page|Service Exchange]] Consumer** &gt; **Provider [[se-connections-tab|Connections]]**.
+1.  Navigate to **All** &gt; **Service Exchange Consumer** &gt; **Provider Connections**.
 
 2.  On the Provider Connections page, click the **Number** link to open a Provider Connection record.
 
@@ -47,7 +47,3 @@ Role required: admin
 
 The authorized user record syncs to the provider's ServiceNow instance for approval. After it is approved and activated, the user can see the remote record producers with their assigned personas.
 
-## Related
-
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]
-- [[se-connections-tab|Connections]]

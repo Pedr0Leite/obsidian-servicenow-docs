@@ -21,10 +21,7 @@ Users with the admin, pa\_admin, report\_admin, or dashboard\_admin roles have a
 |par\_coreui\_migration\_bridge\_dashboard.list|Dashboard logs|
 |par\_coreui\_migration\_bridge\_sysauto.list|Scheduled export logs|
 |par\_coreui\_migration\_bridge\_widget.list|Migrated dashboard element logs|
-|par\_coreui\_migration\_bridge\_component.list|Logs associated with reports, PA [[widgets|widgets]], and filters when migrated outside of a dashboard|
+|par\_coreui\_migration\_bridge\_component.list|Logs associated with reports, PA widgets, and filters when migrated outside of a dashboard|
 
 **Note:** Logs may be empty as only negative events such as incompatibilities are logged.
 
-## Related
-
-- [[widgets|Widgets]]

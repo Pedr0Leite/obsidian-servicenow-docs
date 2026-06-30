@@ -18,7 +18,7 @@ Enable and configure intent to action workflow to invoke the agentic workflow fr
 
 Role required: sn\_notif\_agents.notification\_ai\_admin
 
-**Important:** If intent to action has been enabled from the Workflow studio flow for [[ia-inbound-email-il|Inbound email]] trigger then do not enable intent to action from inbound actions.
+**Important:** If intent to action has been enabled from the Workflow studio flow for Inbound email trigger then do not enable intent to action from inbound actions.
 
 ## Procedure
 
@@ -37,9 +37,5 @@ Role required: sn\_notif\_agents.notification\_ai\_admin
 
 ## What to do next
 
-[[create-email-intent|Create email intents]]
+[Create email intents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-email-intent.md)
 
-## Related
-
-- [[create-email-intent|Create email intents]]
-- [[ia-inbound-email-il|Inbound email]]

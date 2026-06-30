@@ -35,7 +35,7 @@ The following data types are supported for a context input:
 
 Configuring a context using context inputs includes the following steps:
 
--   Creating a context input. For more information on how to create a context input, see [[ra-csm-create-context-inputs|Create a context input in Recommended Actions]].
+-   Creating a context input. For more information on how to create a context input, see [Create a context input in Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-create-context-inputs.md).
 
     **Note:**
 
@@ -43,12 +43,12 @@ Configuring a context using context inputs includes the following steps:
     -   You can have multiple active context inputs simultaneously.
 -   Mapping the context input to the following according to your requirement:
     -   default search term by adding it in the Contextual AI Search Config section on Context form.
-    -   [[gamification-components-rules|rules]] by using it in the condition builder on Rules form.
+    -   rules by using it in the condition builder on Rules form.
     -   recommendations by adding it in fields of the Action inputs section on Recommendations form.
     -   resource generators by adding it in the fields of Generator inputs section on Resource Generators form.
--   Adding the JSON-format of the context inputs to the [[configure-nba|Recommended Actions]] component for the required record pages in the UI Builder. For more information, see [Configuring Recommended Actions UIB component for context inputs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-dynamic-context-inputs.md).
+-   Adding the JSON-format of the context inputs to the Recommended Actions component for the required record pages in the UI Builder. For more information, see [Configuring Recommended Actions UIB component for context inputs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-dynamic-context-inputs.md).
 
-The context inputs appear along with the context table in the appropriate fields of Rule, Recommendation and Resource generator [[migration-forms|forms]] so that you can include the data other than that of the context table to update the recommendations.
+The context inputs appear along with the context table in the appropriate fields of Rule, Recommendation and Resource generator forms so that you can include the data other than that of the context table to update the recommendations.
 
 ## Configuring Recommended Actions UIB component for context inputs
 
@@ -65,9 +65,3 @@ The limitations for context inputs configuration are as follows:
 -   To define context inputs for a context which has a parent context defined already, delete the parent context in the Parent context field so that the Context inputs related list appears. And in the Context inputs related list, select the New button to create context inputs.
 -   When a context input is defined for a parent context which has a child context associated, then the parent-child context link is broken. In the child context, the inherited rules and recommendations will be removed from the Inherited Rules and Recommendations related list respectively.
 
-## Related
-
-- [[ra-csm-create-context-inputs|Create a context input in Recommended Actions]]
-- [[gamification-components-rules|Rules]]
-- [[configure-nba|Recommended Actions]]
-- [[migration-forms|Forms]]

@@ -36,7 +36,7 @@ For example, if you add the string `Please populate the Reason` field to the Mes
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[system-localization-landing|System Localization]]** &gt; **Messages**.
+1.  Navigate to **All** &gt; **System Localization** &gt; **Messages**.
 
 2.  Select **New**.
 
@@ -54,6 +54,4 @@ For example, if you add the string `Please populate the Reason` field to the Mes
 
     A new record is added to the Message `[sys_ui_message]` table for the localized message key string. For more information about this table, see [Message table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/r_MessageTable.md).
 
-## Related
 
-- [[system-localization-landing|System Localization]]

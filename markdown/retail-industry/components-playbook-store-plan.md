@@ -12,7 +12,7 @@ breadcrumb: [Components installed with plugins, Reference, Retail]
 
 # Components installed with Retail Playbook for Store Plan
 
-Certain roles and dependencies must be considered when using the [[rahi-retail-operations-overview|Retail]] Playbook for Store Plan.
+Certain roles and dependencies must be considered when using the Retail Playbook for Store Plan.
 
 ## Plugins installed with Retail Playbook for Store Plan
 
@@ -108,9 +108,5 @@ A summary view of the all activities configured in a playbook together for users
 |--------|-----------|
 |HQ communication|Allows to create a plan with cases and tasks for multiples stores by a HQ/Regional manager.|
 
-**Parent Topic:**[[rahi-retail-components-installed-with-plugins|Components installed with plugins]]
+**Parent Topic:**[Components installed with plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-components-installed-with-plugins.md)
 
-## Related
-
-- [[rahi-retail-components-installed-with-plugins|Components installed with plugins]]
-- [[rahi-retail-operations-overview|Retail]]

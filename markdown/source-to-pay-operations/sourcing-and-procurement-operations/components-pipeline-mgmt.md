@@ -14,7 +14,7 @@ breadcrumb: [Sourcing Pipeline Management, Explore, Sourcing and Procurement Ope
 
 # Components installed with Sourcing Pipeline Management
 
-Several types of components are installed with activation of the [[spo-sourcing-pipeline-mgmt|Sourcing Pipeline Management]] \(sn\_spend\_pipeline\) plugin, including user roles and tables.
+Several types of components are installed with activation of the Sourcing Pipeline Management \(sn\_spend\_pipeline\) plugin, including user roles and tables.
 
 ## Roles installed
 
@@ -48,7 +48,7 @@ sn\_spend\_pipeline.sourcing\_pipeline\_user
 
 </td><td>
 
-Can view and access the [[pipeline-mgmt-tab|Pipeline management tab]].
+Can view and access the Pipeline management tab.
 
 </td><td>
 
@@ -71,11 +71,11 @@ Contract to Pipeline project Relationships \(sn\_spend\_pipeline\_m2m\_contract\
 
 </td><td>
 
-Stores the many-to-many relationships between [[contracts|contracts]] and pipeline projects.
+Stores the many-to-many relationships between contracts and pipeline projects.
 
 </td></tr><tr><td>
 
-[[purchase-order-table|Purchase order]] to Pipeline project Relationships \(sn\_spend\_pipeline\_m2m\_order\)
+Purchase order to Pipeline project Relationships \(sn\_spend\_pipeline\_m2m\_order\)
 
 </td><td>
 
@@ -83,7 +83,7 @@ Stores the many-to-many relationships between purchase orders and pipeline proje
 
 </td></tr><tr><td>
 
-[[purchase-requisition|Purchase requisition]] to Pipeline project Relationships\(sn\_spend\_pipeline\_m2m\_requisition\)
+Purchase requisition to Pipeline project Relationships\(sn\_spend\_pipeline\_m2m\_requisition\)
 
 </td><td>
 
@@ -91,7 +91,7 @@ Stores the many-to-many relationships between purchase requisitions and pipeline
 
 </td></tr><tr><td>
 
-[[sourcing-request|Sourcing Request]] to Pipeline project Relationships\(sn\_spend\_pipeline\_m2m\_sourcing\_request\)
+Sourcing Request to Pipeline project Relationships\(sn\_spend\_pipeline\_m2m\_sourcing\_request\)
 
 </td><td>
 
@@ -99,7 +99,7 @@ Stores the many-to-many relationships between sourcing requests and pipeline pro
 
 </td></tr><tr><td>
 
-[[supplier|Supplier]] to Pipeline project Relationships\(sn\_spend\_pipeline\_m2m\_supplier\)
+Supplier to Pipeline project Relationships\(sn\_spend\_pipeline\_m2m\_supplier\)
 
 </td><td>
 
@@ -116,12 +116,3 @@ Stores the pipeline projects.Extends the Task \(task\) table.
 </td></tr></tbody>
 </table>**Parent Topic:**[Sourcing Pipeline Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-sourcing-pipeline-mgmt.md)
 
-## Related
-
-- [[spo-sourcing-pipeline-mgmt|Sourcing Pipeline Management]]
-- [[pipeline-mgmt-tab|Pipeline management tab]]
-- [[contracts|Contracts]]
-- [[purchase-order-table|Purchase order]]
-- [[purchase-requisition|Purchase requisition]]
-- [[sourcing-request|Sourcing request]]
-- [[supplier|Supplier]]

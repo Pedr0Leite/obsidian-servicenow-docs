@@ -22,14 +22,14 @@ Role required: srm\_admin or admin
 
 ## About this task
 
-By default, [[itom-mobile-landing|ITOM Mobile Agent]] sends emails about alerts to everyone in a team's group email. You can customize the email recipients as follows:
+By default, ITOM Mobile Agent sends emails about alerts to everyone in a team's group email. You can customize the email recipients as follows:
 
 -   Exclude managers from alert emails, reducing notification overload.
 -   Include individual team members on alert emails, making sure that the right people stay informed.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[sr-landing-page|Service Reliability Management]]** &gt; **Teams**.
+1.  Navigate to **All** &gt; **Service Reliability Management** &gt; **Teams**.
 
 2.  In the list, find the team that you want to customize.
 
@@ -44,7 +44,4 @@ By default, [[itom-mobile-landing|ITOM Mobile Agent]] sends emails about alerts 
 
     Your updates appear in the **Teams** list, and ITOM Mobile Agent sends emails accordingly.
 
-## Related
 
-- [[itom-mobile-landing|ITOM Mobile Agent]]
-- [[sr-landing-page|Service Reliability Management]]

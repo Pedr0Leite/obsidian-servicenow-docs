@@ -14,7 +14,7 @@ breadcrumb: [Time Card management, Project Portfolio Management, Strategic Portf
 
 # Activate Time Card Management
 
-Administrators can activate the [[time-card-management|Time Card Management]] plugin \(com.snc.time\_card\). The plugin also activates the Performance Analytics - Content Pack - Project Portfolio Suite Dashboards plugin \(com.snc.pa.time\_card\). However, you need a Performance Analytics license to use the dashboards.
+Administrators can activate the Time Card Management plugin \(com.snc.time\_card\). The plugin also activates the Performance Analytics - Content Pack - Project Portfolio Suite Dashboards plugin \(com.snc.pa.time\_card\). However, you need a Performance Analytics license to use the dashboards.
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ Role required: admin
 
 **Parent Topic:**[Time Card Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/time-card-management.md)
 
-## Related
-
-- [[time-card-management|Time Card Management]]

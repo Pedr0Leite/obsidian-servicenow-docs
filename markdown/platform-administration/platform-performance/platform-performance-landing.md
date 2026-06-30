@@ -28,7 +28,7 @@ Monitoring and optimizing ServiceNow AI Platform performance is an important par
 
 </td></tr><tr><td>
 
-[Monitor\[Omitted image "bus-discover.svg"\] Alt text:Monitor key [[c_MetricDefinitionSupport|metrics]] and transactions in the ServiceNow AI Platform to track performance trends and identify potential issues.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/monitoring-platform-performance.md)
+[Monitor\[Omitted image "bus-discover.svg"\] Alt text:Monitor key metrics and transactions in the ServiceNow AI Platform to track performance trends and identify potential issues.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/monitoring-platform-performance.md)
 
 </td><td>
 
@@ -44,7 +44,3 @@ Monitoring and optimizing ServiceNow AI Platform performance is an important par
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_MetricDefinitionSupport|Metrics]]

@@ -15,11 +15,11 @@ breadcrumb: [AI Risk and Compliance workspace, Explore, AI Risk and Compliance, 
 
 # Operations tab
 
-The Operations tab on the [[ai-risk-and-compliance-workspace|AI Risk and Compliance workspace]] provides an overview of [[ai-system-airc|AI systems]] by state, along with metrics for assessments, control assurance, issues, policy exceptions, and AI cases.
+The Operations tab on the AI Risk and Compliance workspace provides an overview of AI systems by state, along with metrics for assessments, control assurance, issues, policy exceptions, and AI cases.
 
 The Operations tab displays the widgets that are listed in the following table. You can drill down into the data on each widget.
 
-**Note:** Dashboards in the AI Risk and Compliance Workspace \(Risk and Compliance, Operations, and AI Cases\) display data for **Managed** [[ai-assets-airc|AI assets]] only. AI assets that are marked as **Unmanaged** are excluded from dashboard widgets, metrics, and summary counts, but remain visible in inventory and list views. If you have the AI steward \[sn\_ai\_governance\_ai\_steward\] role, you can mark assets as Managed or Unmanaged. For more information, see [Managed and unmanaged AI assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/assets-list-managing-and-unmanaging-assets.md).
+**Note:** Dashboards in the AI Risk and Compliance Workspace \(Risk and Compliance, Operations, and AI Cases\) display data for **Managed** AI assets only. AI assets that are marked as **Unmanaged** are excluded from dashboard widgets, metrics, and summary counts, but remain visible in inventory and list views. If you have the AI steward \[sn\_ai\_governance\_ai\_steward\] role, you can mark assets as Managed or Unmanaged. For more information, see [Managed and unmanaged AI assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/assets-list-managing-and-unmanaging-assets.md).
 
 <table id="table_nry_11l_bfc"><thead><tr><th>
 
@@ -43,7 +43,7 @@ Submitted/registered for governance and in early intake \(pre-build\) stages.
 
 -   Assess
 
-Governance assessments are in progress or under review \(for example, impact or high-[[risk-assessments|risk assessments]]\).
+Governance assessments are in progress or under review \(for example, impact or high-risk assessments\).
 
 -   Build
 
@@ -134,10 +134,3 @@ View the number of AI cases that are active, overdue, and due in 7 days and also
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[ai-risk-and-compliance-workspace|AI Risk and Compliance workspace]]
-- [[ai-system-airc|AI systems]]
-- [[ai-assets-airc|AI assets]]
-- [[risk-assessments|risk assessments]]

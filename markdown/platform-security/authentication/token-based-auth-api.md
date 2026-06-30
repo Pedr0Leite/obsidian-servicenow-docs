@@ -14,13 +14,9 @@ breadcrumb: [API Authentication, Authentication, Access Management]
 
 # Token-based authentication
 
-Token-based authentication for inbound REST APIs [[sc-configuration|configuration]] using API Key or HMAC.
+Token-based authentication for inbound REST APIs configuration using API Key or HMAC.
 
-Support API tokens for REST API end points so that the ServiceNow® for the user [[c_Authentication|authentication]].
+Support API tokens for REST API end points so that the ServiceNow® for the user authentication.
 
 Token-based authentication for inbound REST APIs configuration can be performed on the ServiceNow® instance with the [API Key or HMAC token](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/api-key-and-hmac-rest-apis.md).
 
-## Related
-
-- [[sc-configuration|Configuration]]
-- [[c_Authentication|Authentication]]

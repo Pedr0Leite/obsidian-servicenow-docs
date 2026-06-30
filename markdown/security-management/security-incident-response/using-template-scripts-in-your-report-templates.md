@@ -32,7 +32,7 @@ Example: `${template_script:msi_collab_cards}`
 
 ## Procedure
 
-1.  Navigate to **[[major-security-incident-management-landing-page|Major Security Incident Management]]** &gt; **MSI Administration** &gt; **Status Report Setup**.
+1.  Navigate to **Major Security Incident Management** &gt; **MSI Administration** &gt; **Status Report Setup**.
 
     The MSI Status Report Setup page displays.
 
@@ -54,7 +54,7 @@ Example: `${template_script:msi_collab_cards}`
     |**si\_associated\_phish\_emails**|Returns the associated phishing emails from the related list in a tabular form.|
     |**si\_associated\_phish\_headers**|Returns the associated phishing headers from the related list in a tabular form.|
     |**si\_business\_criticality**|Returns color-coded business criticality value.|
-    |**si\_malicious\_observables**|Returns the malicious [[c_Observables|observables]] from the related list in a tabular form.|
+    |**si\_malicious\_observables**|Returns the malicious observables from the related list in a tabular form.|
     |**si\_observables**|Returns the observables from the related list in a tabular form.|
     |**si\_priority**|Returns a color-coded priority value.|
     |**si\_response\_tasks**|Returns the response tasks from the related list in a tabular form.|
@@ -66,7 +66,3 @@ Example: `${template_script:msi_collab_cards}`
 
 **Parent Topic:**[Create a Report Template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-report-template.md)
 
-## Related
-
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]
-- [[c_Observables|Observables]]

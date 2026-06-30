@@ -14,7 +14,7 @@ breadcrumb: [Workplace Core, Safe Workplace, Health and Safety, Employee Service
 
 # Providing your workplace data
 
-In the [[workplace-safety-mgmt-hr|Workplace Core]] application, provide data related to your workplace locations so you can efficiently assign shifts to employees and designate workspaces for these shifts.
+In the Workplace Core application, provide data related to your workplace locations so you can efficiently assign shifts to employees and designate workspaces for these shifts.
 
 ## Workspace Record
 
@@ -61,18 +61,13 @@ Create individual records of your workspaces, floors, office buildings, and work
 -   **[Upload a workplace floor plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/upload-workplace-floor-map.md)**  
 Upload Drawing eXchange Format \(.dxf\) files of floor plans that you can configure and use to reserve space for your employees.
 -   **[Update a workplace floor plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/edit-workplace-floor-map.md)**  
-[[edit-workplace-floor-map|Update a workplace floor plan]] by uploading a new plan.
+Update a workplace floor plan by uploading a new plan.
 -   **[Configuring spreadsheets to import workplace data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/importing-workspace-data.md)**  
 Doing a bulk import of the data of all your workspaces into the Workplace Core application through a spreadsheet enables you to avoid manually entering redundant data for each workspace, which saves time and effort.
 -   **[Import your workspaces data from an Excel spreadsheet](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/import-excel-spreadsheet-workspace-data-hr.md)**  
-[[import-excel-spreadsheet-workspace-data-hr|Import your workspaces data from an Excel spreadsheet]] into the Workplace Core application.
+Import your workspaces data from an Excel spreadsheet into the Workplace Core application.
 -   **[Add a space type configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/add-space-type-configurations-hr.md)**  
 Configure the different types of workspaces available in a workplace. You can add spaces based on different space types \(Workspace/Desk\). Space type enables employee to identify the different types of workspace available on a floor
 
 **Parent Topic:**[Workplace Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/workplace-safety-mgmt-hr.md)
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[edit-workplace-floor-map|Update a workplace floor plan]]
-- [[import-excel-spreadsheet-workspace-data-hr|Import your workspaces data from an Excel spreadsheet]]

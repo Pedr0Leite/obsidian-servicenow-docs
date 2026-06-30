@@ -22,9 +22,9 @@ Role required: sn\_sec\_tisc.analyst
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center**.
 
-2.  Select the **[[threat-analyst-workbench|Threat Analyst Workbench]]** icon.
+2.  Select the **Threat Analyst Workbench** icon.
 
 3.  Go to **Case Management** &gt; **All Cases**.
 
@@ -75,7 +75,3 @@ MITRE filters enables you to create and save filters for Tactics, Techniques, an
 
 **Parent Topic:**[Working with Investigation Canvas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-investigation-canvases.md)
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-analyst-workbench|Threat Analyst Workbench]]

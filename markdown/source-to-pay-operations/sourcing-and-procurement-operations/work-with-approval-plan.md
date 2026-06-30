@@ -14,17 +14,17 @@ breadcrumb: [Sourcing and Purchasing Automation, Explore, Sourcing and Procureme
 
 # Monitor an approval plan
 
-During evaluation, the approval engine converts each approval rule into one or multiple approval plans. You can monitor approval plans to understand how the overall approval process is being executed, the routing and decision methods, the list of approvers involved, the status on the approvals, the list of [[purchase-lines|purchase lines]] the approval is planned for, and so on.
+During evaluation, the approval engine converts each approval rule into one or multiple approval plans. You can monitor approval plans to understand how the overall approval process is being executed, the routing and decision methods, the list of approvers involved, the status on the approvals, the list of purchase lines the approval is planned for, and so on.
 
 ## Before you begin
 
-To [[view-approval-plan|monitor an approval plan]], you must have already defined an approval rule. For more information on how to create approval rules, see [Create an approval rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-approval-rule.md). You can review and update the plans if required. Approval plans are not created manually.
+To monitor an approval plan, you must have already defined an approval rule. For more information on how to create approval rules, see [Create an approval rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-approval-rule.md). You can review and update the plans if required. Approval plans are not created manually.
 
 Role required: sn\_shop.procurement\_administrator
 
 ## About this task
 
-You can monitor approval plans to understand how the overall approval process is being executed, from the [[purchase-experience-workflow|Sourcing and Purchasing Automation]] module.
+You can monitor approval plans to understand how the overall approval process is being executed, from the Sourcing and Purchasing Automation module.
 
 ## Procedure
 
@@ -46,21 +46,13 @@ You can monitor approval plans to understand how the overall approval process is
     |Approval|Status of the approval plan request. The options are Not Yet Requested, Requested, Approved, and Rejected.|
     |State|Work status on the requested approval plan. The options are Pending, Open, Work in Progress, Closed Complete, Closed Incomplete, and Closed Skipped.|
     |Purchase requisition line\(s\)|List of the purchase lines that the approval is planned for.|
-    |Primary contact|Business owner of the purchase who can be contacted with questions about the purchase. This field is automatically populated on creation of an approval plan with the referenced business owner of the [[purchase-order-table|purchase order]].|
-    |Short description|Short description of the approval plan. This is a calculated value, in the format: Approve &lt;total amount&gt; purchase for &lt;[[supplier|supplier]] name&gt;.|
+    |Primary contact|Business owner of the purchase who can be contacted with questions about the purchase. This field is automatically populated on creation of an approval plan with the referenced business owner of the purchase order.|
+    |Short description|Short description of the approval plan. This is a calculated value, in the format: Approve &lt;total amount&gt; purchase for &lt;supplier name&gt;.|
 
 
 ## What to do next
 
-Use the related lists of the [[approval-plan-form|approval plan form]] to view the approval plan details and approvers associated with this approval plan.
+Use the related lists of the approval plan form to view the approval plan details and approvers associated with this approval plan.
 
 **Parent Topic:**[Sourcing and Purchasing Automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-experience-workflow.md)
 
-## Related
-
-- [[purchase-lines|Purchase lines]]
-- [[view-approval-plan|Monitor an approval plan]]
-- [[purchase-experience-workflow|Sourcing and Purchasing Automation]]
-- [[purchase-order-table|Purchase order]]
-- [[supplier|Supplier]]
-- [[approval-plan-form|Approval Plan form]]

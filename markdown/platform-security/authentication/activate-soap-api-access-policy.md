@@ -14,7 +14,7 @@ breadcrumb: [SOAP API access policies, API access policy, Authentication, Access
 
 # Activate SOAP API access policy
 
-For SOAP [[api-access-policy|API access policy]], install the SOAP API Access Policy \(`com.glide.soap.policy`\) plugin.
+For SOAP API access policy, install the SOAP API Access Policy \(`com.glide.soap.policy`\) plugin.
 
 ## Before you begin
 
@@ -24,15 +24,15 @@ Role required: admin
 
 The following item is installed with SOAP API Access Policy Plugin: Processor Access Policy \(`com.glide.processor.policy`\)
 
-Dependent Plugin: [[c_Authentication|Authentication]] Profile \(`com.glide.auth.profile`\)
+Dependent Plugin: Authentication Profile \(`com.glide.auth.profile`\)
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
-2.  Find the SOAP API Access Policy plugin \(`com.glide.soap.policy`\) using the [[adaptive-auth-filter-criteria|filter criteria]] and search bar.
+2.  Find the SOAP API Access Policy plugin \(`com.glide.soap.policy`\) using the filter criteria and search bar.
 
-    You can search for the plugin by its name or ID. If you cannot find a plugin, you might have to [[c_requestAPI|request]] it from ServiceNow personnel.
+    You can search for the plugin by its name or ID. If you cannot find a plugin, you might have to request it from ServiceNow personnel.
 
 3.  Select **Install** to start the installation process.
 
@@ -40,9 +40,4 @@ Dependent Plugin: [[c_Authentication|Authentication]] Profile \(`com.glide.auth.
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
-## Related
 
-- [[api-access-policy|API access policy]]
-- [[c_Authentication|Authentication]]
-- [[adaptive-auth-filter-criteria|Filter criteria]]
-- [[c_requestAPI|request]]

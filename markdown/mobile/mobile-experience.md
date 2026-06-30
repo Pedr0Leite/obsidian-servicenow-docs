@@ -27,9 +27,9 @@ This video highlights some of the capabilities of ServiceNow® mobile apps.
 -   **Features of Mobile Agent**
 
     -   Give your agents a mobile interface to triage, address, and resolve requests.
-    -   Use the offline mode of the Mobile Agent app to work in areas without an internet connection. For details see [[mobile-offline-mode|Offline mode]].
-    -   Use the location tracking feature of the Mobile Agent app to keep a record of where an agent last worked on an instance. For more detail, see [[mobile-location-tracking|Location tracking for mobile]].
-**Note:** For more information, see [[base-system-functionality|Base system functionality for ServiceNow mobile]].
+    -   Use the offline mode of the Mobile Agent app to work in areas without an internet connection. For details see [Offline mode](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-offline-mode.md).
+    -   Use the location tracking feature of the Mobile Agent app to keep a record of where an agent last worked on an instance. For more detail, see [Location tracking for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-location-tracking.md).
+**Note:** For more information, see [Base system functionality for ServiceNow mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/base-system-functionality.md).
 
 -   **Download the app**
 
@@ -37,7 +37,7 @@ Download the ServiceNow Mobile Agent for Apple iOS or Google Android from the Ap
 
 -   **Access the demo**
 
-Take a look at the Mobile Agent demo. The demo is a curated experience designed to show how your agents can complete tasks wherever they are. For more information on the app, see [[sg-agent-demo|Mobile Agent app demo]].
+Take a look at the Mobile Agent demo. The demo is a curated experience designed to show how your agents can complete tasks wherever they are. For more information on the app, see [Mobile Agent app demo](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-agent-demo.md).
 
 
 </td></tr></tbody>
@@ -45,9 +45,3 @@ Take a look at the Mobile Agent demo. The demo is a curated experience designed 
 
 A beta version of the ServiceNow Mobile Agent app \(version 17.5\) is available on the [Apple Vision Pro App Store](https://apps.apple.com/us/vision). For more information, contact your ServiceNow representative.
 
-## Related
-
-- [[mobile-offline-mode|Offline mode]]
-- [[mobile-location-tracking|Location tracking for mobile]]
-- [[base-system-functionality|Base system functionality for ServiceNow mobile]]
-- [[sg-agent-demo|Mobile Agent app demo]]

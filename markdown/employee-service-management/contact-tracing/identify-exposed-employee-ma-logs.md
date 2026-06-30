@@ -22,7 +22,7 @@ Role required: sn\_imt\_tracing.wifi\_admin
 
 ## Procedure
 
-1.  Set up the [[contact-tracing|Contact Tracing]] Wi-Fi properties.
+1.  Set up the Contact Tracing Wi-Fi properties.
 
     By default, the asset data is available in the Computer table \[cmdb\_ci\_computer\]. If you are using a different table, specify it using the **sn\_imt\_tracing.wifi\_client\_table** property.
 
@@ -71,6 +71,3 @@ Potentially exposed employees are displayed in the related list of the diagnosti
 
 **Parent Topic:**[Retrieving Wi-Fi access log data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/wifi-access-management.md)
 
-## Related
-
-- [[contact-tracing|Contact Tracing]]

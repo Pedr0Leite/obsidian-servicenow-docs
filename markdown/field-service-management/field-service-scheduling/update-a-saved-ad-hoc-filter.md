@@ -14,7 +14,7 @@ breadcrumb: [Managing ad hoc filters, Using Dispatcher Workspace, Assigning task
 
 # Update a saved ad hoc filter
 
-Update ad hoc filters saved in [[dispatcher-activities|Dispatcher Workspace]].
+Update ad hoc filters saved in Dispatcher Workspace.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ Role required: wm\_dispatcher
 
 The saved filter is updated according to the new parameters.
 
-## Related
-
-- [[dispatcher-activities|Dispatcher Workspace]]

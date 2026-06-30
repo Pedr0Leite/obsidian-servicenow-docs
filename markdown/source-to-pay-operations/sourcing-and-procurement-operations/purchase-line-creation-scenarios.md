@@ -14,19 +14,14 @@ breadcrumb: [Complete your checkout, Using Shopping Hub, Use, Sourcing and Procu
 
 # Purchase line creation scenarios
 
-On completing your checkout, an appropriate number of cart lines are created, which then result in the creation of [[purchase-lines|purchase lines]].
+On completing your checkout, an appropriate number of cart lines are created, which then result in the creation of purchase lines.
 
-For a [[supplier|supplier]] product:
+For a supplier product:
 
 -   Every new delivery location creates a separate purchase line.
 -   Different delivery dates create separate purchase lines.
--   Different payment methods result in an appropriate number of [[cost-allocations|cost allocations]] being created against the purchase line.
+-   Different payment methods result in an appropriate number of cost allocations being created against the purchase line.
 -   Different purchase lines are created for each product listed in a bundled product.
 
 **Parent Topic:**[Complete your checkout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/complete-your-checkout.md)
 
-## Related
-
-- [[purchase-lines|Purchase lines]]
-- [[supplier|Supplier]]
-- [[cost-allocations|Cost allocations]]

@@ -32,7 +32,7 @@ Role required: sn\_cm\_core.contract\_config
 
     A template revision is created with the data related to participants, imported clauses, and template mappings.
 
-4.  Import clauses and template [[field-mappings-sf|field mappings]] from a Microsoft Word document with content controls.
+4.  Import clauses and template field mappings from a Microsoft Word document with content controls.
 
     For more information, see [Add content controls in a Microsoft Word document](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-word-doc-tmplt-contls.md).
 
@@ -74,6 +74,3 @@ Role required: sn\_cm\_core.contract\_config
 
 [Delete a contract template]()
 
-## Related
-
-- [[field-mappings-sf|Field mappings]]

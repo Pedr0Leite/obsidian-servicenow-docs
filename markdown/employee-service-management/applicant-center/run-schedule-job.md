@@ -26,7 +26,7 @@ Role required: admin
 
 2.  Select **MarkApplicantInactive**.
 
-3.  View and download the `HiringDeleteRoles.xml` file from the [[applicant-center-concept|Applicant Center]] application page on ServiceNow Store.
+3.  View and download the `HiringDeleteRoles.xml` file from the Applicant Center application page on ServiceNow Store.
 
 4.  Import the XML file in the Script Include \[sys\_script\_include\] table.
 
@@ -49,6 +49,3 @@ The applicant records are deactivated.
 
 **Parent Topic:**[Configuring Applicant Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/config-applicant-center.md)
 
-## Related
-
-- [[applicant-center-concept|Applicant Center]]

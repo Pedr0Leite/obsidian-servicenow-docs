@@ -14,7 +14,7 @@ breadcrumb: [Use, Payment Operations, Banking applications, Financial Services O
 
 # Financial Services Payment Operations workflow example
 
-The workflows available with [[payment-ops-landing-page|Financial Services Payment Operations]] connect people, departments, and institutions to quickly initiate, research, and resolve the payment errors and missing payments.
+The workflows available with Financial Services Payment Operations connect people, departments, and institutions to quickly initiate, research, and resolve the payment errors and missing payments.
 
 The following workflow example shows how the application facilitates payment inquiries, research, and claims resolution, as well as communications with other financial institutions for external payments.
 
@@ -51,6 +51,3 @@ All the data and timelines are captured in the case, eliminating the need to man
 -   [Managing payment inquiries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-payment-operations/managing-payment-inquiries.md)
 -   [Managing payment claims and debit approvals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-payment-operations/managing-payment-claims.md)
 
-## Related
-
-- [[payment-ops-landing-page|Financial Services Payment Operations]]

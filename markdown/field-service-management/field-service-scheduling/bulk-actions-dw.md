@@ -14,7 +14,7 @@ breadcrumb: [Using Dispatcher Workspace, Assigning tasks from Dispatcher Workspa
 
 # Edit multiple tasks in Dispatcher Workspace
 
-Select and open or bundle multiple tasks with Bulk Actions on [[dispatcher-activities|Dispatcher Workspace]].
+Select and open or bundle multiple tasks with Bulk Actions on Dispatcher Workspace.
 
 ## Select All
 
@@ -34,7 +34,7 @@ When one or more tasks are selected, the **Bulk Open** action appears. Selecting
 
 ## Bulk Auto-assignment
 
-When one or more tasks are selected, the **Auto-assignment** action is enabled. Selecting **Auto-assignment** dynamically schedules all selected tasks. For more information, see [[dynamic-scheduling|Dynamic scheduling]].
+When one or more tasks are selected, the **Auto-assignment** action is enabled. Selecting **Auto-assignment** dynamically schedules all selected tasks. For more information, see [Dynamic scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/dynamic-scheduling.md).
 
 ## Bundle
 
@@ -44,7 +44,3 @@ When two or more tasks are selected, the **Bundle** action appears. Selecting **
 
 .
 
-## Related
-
-- [[dynamic-scheduling|Dynamic scheduling]]
-- [[dispatcher-activities|Dispatcher Workspace]]

@@ -14,7 +14,7 @@ breadcrumb: [Use surveys, Surveys, Assessments and Surveys, Exploring Service Ad
 
 There is a metric result record for each user response to each question on every survey instance. Survey results for each question and category are calculated automatically based on the metric result records.
 
-If you use survey result calculations for results and scorecards, ensure that the [[t_CreateQuestSurveyDesigr|positive indicator]] field for the question is set appropriately, based on the answer options. To have any results, a category must contain scored questions.
+If you use survey result calculations for results and scorecards, ensure that the [positive indicator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateQuestSurveyDesigr.md) field for the question is set appropriately, based on the answer options. To have any results, a category must contain scored questions.
 
 ## Survey responses
 
@@ -24,53 +24,37 @@ Survey responses are stored in the Metric Result \[asmt\_metric\_result\] table 
 
 ## Category results
 
-[[r_CategoryResults|Category results]] are stored in the Assessment Category Result \[asmt\_category\_result\] table and display the overall ratings for each category based on the weighted value for each scored question. To view these results, navigate to **[[r_Assessments|Assessments]]** &gt; **Results** &gt; **Category results** and filter the results using the **\[Type.Evaluation method\] \[is\] \[Survey\]** condition.
+Category results are stored in the Assessment Category Result \[asmt\_category\_result\] table and display the overall ratings for each category based on the weighted value for each scored question. To view these results, navigate to **Assessments** &gt; **Results** &gt; **Category results** and filter the results using the **\[Type.Evaluation method\] \[is\] \[Survey\]** condition.
 
 \[Omitted image "SurveyDesignerCategoryResultsList.png"\] Alt text: Assessment category results
 
 ## Survey scorecards
 
-A scorecard provides a visual breakdown of survey responses, based on the way questions were answered, by category. To access a scorecard, see [[t_ViewAScorecard|View a survey scorecard]].
+A scorecard provides a visual breakdown of survey responses, based on the way questions were answered, by category. To access a scorecard, see [View a survey scorecard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAScorecard.md).
 
--   **[[t_ViewResultsForAllSurveys|View results for all surveys]]**  
+-   **[View results for all surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewResultsForAllSurveys.md)**  
 You can view the survey responses that are stored on the Metric Result \[asmt\_metric\_result\] table.
--   **[[t_ViewResultsForASpecificSurvey|View the results for a survey]]**  
+-   **[View the results for a survey](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewResultsForASpecificSurvey.md)**  
 You can view the responses for one survey definition. Survey results are stored on the Metric Result \[asmt\_metric\_result\] table.
 -   **[View a survey scorecard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAScorecard.md)**  
 A survey scorecard provides a visual breakdown of survey responses by category, based on the way questions were answered.
--   **[[t_ExportAQuizScorecard|Export a quiz scorecard as an image]]**  
+-   **[Export a quiz scorecard as an image](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ExportAQuizScorecard.md)**  
 You can export scorecards as images.
--   **[[request-translations-for-surveys|Request translations for surveys]]**  
-Request translations for surveys to localize them into one or more languages. Localization requested items that are created for the selected [[r_SurveyManagementLandingPage|surveys]] in all the selected languages.
--   **[[edit-translations-for-surveys|Edit translations for surveys]]**  
+-   **[Request translations for surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/request-translations-for-surveys.md)**  
+Request translations for surveys to localize them into one or more languages. Localization requested items that are created for the selected surveys in all the selected languages.
+-   **[Edit translations for surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/edit-translations-for-surveys.md)**  
 Edit the translations for surveys, and after you make the changes, you can publish the translation.
--   **[[survey-result-database-view|Survey responses in a database view]]**  
+-   **[Survey responses in a database view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/survey-result-database-view.md)**  
 You can view survey responses in a database view for reporting purposes. For each survey instance, you can view the instance as a single row and the answers to each survey question \(metric\) in the corresponding columns. Analyze the responses easily and, if you want, export the survey responses.
 
-**Parent Topic:**[[using-surveys|Using surveys]]
+**Parent Topic:**[Using surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/using-surveys.md)
 
 **Related topics**  
 
 
 [View a survey scorecard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAScorecard.md)
 
-[[c_SurveyDesignerElements|Survey designer elements]]
+[Survey designer elements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyDesignerElements.md)
 
-[[t_ConfigCatWeightsForSurvey|Configure category weights for a survey]]
+[Configure category weights for a survey](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ConfigCatWeightsForSurvey.md)
 
-## Related
-
-- [[t_CreateQuestSurveyDesigr|Create a question in the survey designer]]
-- [[t_ViewAScorecard|View a survey scorecard]]
-- [[t_ViewResultsForAllSurveys|View results for all surveys]]
-- [[t_ViewResultsForASpecificSurvey|View the results for a survey]]
-- [[t_ExportAQuizScorecard|Export a quiz scorecard as an image]]
-- [[request-translations-for-surveys|Request translations for surveys]]
-- [[edit-translations-for-surveys|Edit translations for surveys]]
-- [[survey-result-database-view|Survey responses in a database view]]
-- [[using-surveys|Using surveys]]
-- [[c_SurveyDesignerElements|Survey designer elements]]
-- [[t_ConfigCatWeightsForSurvey|Configure category weights for a survey]]
-- [[r_CategoryResults|Category results]]
-- [[r_Assessments|Assessments]]
-- [[r_SurveyManagementLandingPage|Surveys]]

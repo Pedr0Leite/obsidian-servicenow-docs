@@ -15,7 +15,7 @@ breadcrumb: [Use, Accounts Payable Operations, Finance and Supply Chain]
 
 # Universal Request in Accounts Payable Operations
 
-[[universal-request|Universal Request]] provides a centralized entry point for suppliers and invoice owners to submit requests that are converted into invoice cases for processing in [[acc-pay-mgmt-landing-page|Accounts Payable Operations]].
+Universal Request provides a centralized entry point for suppliers and invoice owners to submit requests that are converted into invoice cases for processing in Accounts Payable Operations.
 
 The Universal Request \(UR\) is a key ServiceNow capability that serves as a centralized entry point for both invoice owners and suppliers. The primary purpose of UR is to simplify the process of raising general case requests, thereby removing any uncertainty regarding the appropriate department to contact for assistance.
 
@@ -24,14 +24,14 @@ The Universal Request \(UR\) is a key ServiceNow capability that serves as a cen
 UR can be created by:
 
 -   Invoice owners through Employee center. For more information on ServiceNow Universal Request, see [Exploring Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/explore-universal-request.md)
--   Suppliers submit inquiry case request or issue \(UR\) using the [[supplier-central|Supplier Collaboration portal]]. For more information on UR from [[supplier|supplier]] portal, see [Create Universal Request from Supplier portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-ur-from-supplier-portal.md).
+-   Suppliers submit inquiry case request or issue \(UR\) using the Supplier Collaboration portal. For more information on UR from supplier portal, see [Create Universal Request from Supplier portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-ur-from-supplier-portal.md).
 
 ## How UR works in Accounts Payable Operations
 
 UR seamlessly integrates with the APO system, enabling more efficient management of invoice cases. This integration not only streamlines the overall invoice handling process but also enhances cross-departmental service delivery, confirming that case requests are addressed promptly and accurately across the organization. UR works in APO in the following order:
 
 1.  Request submission- Invoice owners or suppliers initiate a UR via the Employee portal or the Supplier portal. The UR records essential information and uses predefined mappings.
-2.  Routing and case creation- Accounts Payable \(AP\) agents within the Accounts Payable Universal Request group are authorized to review Universal Requests \(URs\) and, based on the provided details, can create an invoice case as the primary ticket. This process can be executed either within the [[purch-order-mgmt-ws|Source-to-Pay workspace]] or directly from the platform.
+2.  Routing and case creation- Accounts Payable \(AP\) agents within the Accounts Payable Universal Request group are authorized to review Universal Requests \(URs\) and, based on the provided details, can create an invoice case as the primary ticket. This process can be executed either within the Source-to-Pay workspace or directly from the platform.
 3.  Processing and automation- The updates are synchronized back to the UR. The invoice owner or supplier tracks progress and receives updates through the UR case in the employee portal or supplier portal.
 
 \[Omitted image "universal-request.png"\] Alt text: Universal Request
@@ -54,7 +54,7 @@ When a Universal Request is transferred to an Accounts Payable inquiry case, the
 |Opened by \(opened\_by\)|Opened by \(opened\_by\)|
 
 -   **[Create invoice case from Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-invoice-case-from-ur.md)**  
-Validate incoming Universal Request items in the Source-to-Pay Workspace and [[create-invoice|create invoice]] cases for further processing.
+Validate incoming Universal Request items in the Source-to-Pay Workspace and create invoice cases for further processing.
 
 **Parent Topic:**[Use Accounts Payable Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/use-acc-pay-mgmt.md)
 
@@ -71,7 +71,7 @@ Validate incoming Universal Request items in the Source-to-Pay Workspace and [[c
 
 [Advanced Work Assignment in Accounts Payable Operations]()
 
-[Configure [[advanced-work-assignment|Advanced Work Assignment]] for Accounts Payable Operations]()
+[Configure Advanced Work Assignment for Accounts Payable Operations]()
 
 [Using Advanced Work Assignment for Accounts Payable Operations]()
 
@@ -89,12 +89,3 @@ Validate incoming Universal Request items in the Source-to-Pay Workspace and [[c
 
 [Create Universal Request from Supplier portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-ur-from-supplier-portal.md)
 
-## Related
-
-- [[universal-request|Universal Request]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[supplier|Supplier]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[create-invoice|create invoice]]
-- [[advanced-work-assignment|advanced work assignment]]

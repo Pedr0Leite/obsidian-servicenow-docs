@@ -14,7 +14,7 @@ breadcrumb: [HR Playbook Experience, Setting up HR Service Delivery Playbook, HR
 
 # Configure HR Playbook activity overrides
 
-Create optional [[activity-lxp|activity]] overrides for the default behavior of activities in your HR playbook.
+Create optional activity overrides for the default behavior of activities in your HR playbook.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_hr\_ws.admin
 
 **Note:** Activity overrides are affected by the system property **sn\_hr\_agent\_ws.use\_uib\_playbook\_card\_config**.
 
-If this system property is true, [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]] Playbook Card Configurations are used, and it's activity overrides will apply. If this system property is false, which is the default value, Classic [[hr-service-delivery|HR Service Delivery]] Agent Workspace Playbook Card Configurations are used, and it's activity overrides will apply.
+If this system property is true, Agent Workspace for HR Case Management Playbook Card Configurations are used, and it's activity overrides will apply. If this system property is false, which is the default value, Classic HR Service Delivery Agent Workspace Playbook Card Configurations are used, and it's activity overrides will apply.
 
 You can also access Playbook Activity Overrides from Playbook Experiences. See [Configure HR Playbook Experiences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/playbook-hr-experiences-config.md).
 
@@ -36,8 +36,4 @@ You can also access Playbook Activity Overrides from Playbook Experiences. See [
 
 3.  After editing or creating, click **Update** or **Submit**.
 
-## Related
 
-- [[activity-lxp|Activity]]
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[hr-service-delivery|HR Service Delivery]]

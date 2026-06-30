@@ -14,7 +14,7 @@ breadcrumb: [Cloud Provisioning and Governance administration guide, Cloud Provi
 
 # Domain separation and Cloud Provisioning and Governance
 
-Domain separation is supported in [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported in Cloud Provisioning and Governance. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic
 
@@ -36,14 +36,14 @@ Domain separation for Cloud Provisioning and Governance supports:
 
 -   **Service Providers \(SPs\) using the application to provide data separation.**
 
-    In this scenario, SPs can provide data separation to multiple customers, where domains are necessary to contain all relevant customer data and processes. For example, an SP provides support to customers who typically use Cloud Provisioning and Governance to manage their IT infrastructure on the cloud. SPs can provide catalogs, template profiles, resource pools, and filter, [[cloud-resource-profiles|resource profiles]], quotas, permissions, IP address management \(IPAM\), lease and business hours scheduling, and a view to billing, as domain-separated offerings to their customers.
+    In this scenario, SPs can provide data separation to multiple customers, where domains are necessary to contain all relevant customer data and processes. For example, an SP provides support to customers who typically use Cloud Provisioning and Governance to manage their IT infrastructure on the cloud. SPs can provide catalogs, template profiles, resource pools, and filter, resource profiles, quotas, permissions, IP address management \(IPAM\), lease and business hours scheduling, and a view to billing, as domain-separated offerings to their customers.
 
 
 ## How domain separation works in Cloud Provisioning and Governance
 
 Domain separation for Cloud Provisioning and Governance aligns one or more companies to a domain. To use domain separation with the application, assign all user accounts to a specific company associated with that domain.
 
-All entities that are related to the company, such as [[cloud-accounts|cloud accounts]] and service accounts, are created in the same domain as the company. When a new company is created, create a domain with a unique name and assign it to the company. All related entities for an account, such as contacts and cases, must reside in the same domain. When you create a related entity for a domain-separated account, the entity is assigned to the company domain.
+All entities that are related to the company, such as cloud accounts and service accounts, are created in the same domain as the company. When a new company is created, create a domain with a unique name and assign it to the company. All related entities for an account, such as contacts and cases, must reside in the same domain. When you create a related entity for a domain-separated account, the entity is assigned to the company domain.
 
 Members of a domain can only view the data that is contained within their domain or child domains that are lower in the domain hierarchy. By default, all users and all records are members of the global domain unless you assign them to a particular domain. Once you assign a user or a record to a domain, the instance compares the user's domain to the record's domain to determine whether the user can view the record.
 
@@ -68,7 +68,7 @@ When you create related entities for an account, the domain for the related enti
 
 ## Domain visibility for cloud administrators and users
 
-Manually assign users with the [[cloudmgt-cloud-user-portal|Cloud User Portal]] \(sn\_cmp.cloud\_service\_user\) roles and [[cloud-admin-portal|Cloud Admin Portal]] \(sn\_cmp.cmp\_root\_admin\) roles for each domain to the **TOP/MSP/Default/Company** or leaf domain. Domain administrators and users in Cloud Provisioning and Governance can only view data in the domain that they are created in, until they are assigned to the TOP domain. The Top domain represents a single common parent domain, which acts as a single parent node, for the Service Provider domains.
+Manually assign users with the Cloud User Portal \(sn\_cmp.cloud\_service\_user\) roles and Cloud Admin Portal \(sn\_cmp.cmp\_root\_admin\) roles for each domain to the **TOP/MSP/Default/Company** or leaf domain. Domain administrators and users in Cloud Provisioning and Governance can only view data in the domain that they are created in, until they are assigned to the TOP domain. The Top domain represents a single common parent domain, which acts as a single parent node, for the Service Provider domains.
 
 ## Next Steps
 
@@ -79,10 +79,3 @@ For more information on creating, implementing, and maintaining domain separatio
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[cloud-resource-profiles|Resource Profiles]]
-- [[cloud-accounts|Cloud accounts]]
-- [[cloudmgt-cloud-user-portal|Cloud User Portal]]
-- [[cloud-admin-portal|Cloud Admin Portal]]

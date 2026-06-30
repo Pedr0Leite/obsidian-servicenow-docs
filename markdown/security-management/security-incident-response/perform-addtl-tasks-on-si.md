@@ -48,11 +48,11 @@ View any workflow associated with this incident.
 
 </td><td>
 
-Adds a list of [[c_Observables|observables]] in comma, new line, tab, or pipe delimited formats.
+Adds a list of observables in comma, new line, tab, or pipe delimited formats.
 
 </td></tr><tr><td id="d217482e97">
 
-**[[case-mgmt|Add to Security Case]]**
+**[Add to Security Case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/case-mgmt.md)**
 
 </td><td>
 
@@ -72,7 +72,7 @@ If a QRadar integration is available, and contains valid CIs, source, and destin
 
 </td><td>
 
-Choose and run a [[security-operations-landing-page|Security Operations]] workflow.
+Choose and run a Security Operations workflow.
 
 </td></tr><tr><td id="d217482e134">
 
@@ -112,7 +112,7 @@ Displays the lists of related incidents, CIs, users, and groups affected by this
 
 </td><td>
 
-Displays the lists of observables, [[indicator|indicators]], [[threat-intelligence-malware|malware]], modes and methods, and security scan requests associated with this incident.
+Displays the lists of observables, indicators, malware, modes and methods, and security scan requests associated with this incident.
 
 </td></tr><tr><td id="d217482e209">
 
@@ -144,17 +144,7 @@ If this security incident was generated from an external application, directly o
 
 </td><td>
 
-If [[vuln-landing-page|Vulnerability Response]] is activated, and you have selected at least one affected CI for the security incident, you can submit a scan request to determine what [[vulnerabilities|vulnerabilities]] exist on the CI.
+If Vulnerability Response is activated, and you have selected at least one affected CI for the security incident, you can submit a scan request to determine what vulnerabilities exist on the CI.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[case-mgmt|Security Case Management]]
-- [[c_Observables|Observables]]
-- [[security-operations-landing-page|Security Operations]]
-- [[indicator|Indicators]]
-- [[threat-intelligence-malware|Malware]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[vulnerabilities|Vulnerabilities]]

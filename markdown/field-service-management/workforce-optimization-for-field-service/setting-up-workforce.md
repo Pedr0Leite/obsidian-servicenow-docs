@@ -14,7 +14,7 @@ breadcrumb: [Configure, Field Service Management]
 
 # Setting up your workforce
 
-Setting up your workforce involves [[configure-users-fsm|configuring users]], locations, territories, and other foundational data.
+Setting up your workforce involves configuring users, locations, territories, and other foundational data.
 
 ## Configuration overview
 
@@ -22,7 +22,7 @@ The steps for setting up your workforce are:
 
 1.  [Configure the Google Maps API keys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/google-maps-api-keys.md)
 
-    Configure the Google Maps API keys to enable users to view maps within the [[fsm-application-landing-page|Field Service Management]] \(FSM\) application.
+    Configure the Google Maps API keys to enable users to view maps within the Field Service Management \(FSM\) application.
 
 2.  [Configure locations and territories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/c_TerritoryManagement.md)
 
@@ -38,7 +38,7 @@ The steps for setting up your workforce are:
 
 5.  \(Optional\) [Configuring Field Service Territory Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/configuring-territory-planning-fsm.md)
 
-    [[territory-planning-fsm|Field Service Territory Planning]] identifies the best matched territory for a work order task based on conditions that you set. You can then assign tasks to the individual agent or group best positioned to execute a service call based on the associated territories.
+    Field Service Territory Planning identifies the best matched territory for a work order task based on conditions that you set. You can then assign tasks to the individual agent or group best positioned to execute a service call based on the associated territories.
 
 6.  [Configure agent calendars](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/configure-agent-calendar.md)
 
@@ -54,21 +54,14 @@ The steps for setting up your workforce are:
 
 9.  \(Optional\) [Configuring Field Service Capacity and Reservations Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/configuring-capacity-management.md)
 
-    Configure Field Service [[capacity-management|Capacity and Reservations Management]] to manage the distribution and assignment of the work [[capacity|capacity]] for work order tasks.
+    Configure Field Service Capacity and Reservations Management to manage the distribution and assignment of the work capacity for work order tasks.
 
 10. \(Optional\) [Configuring Workforce Optimization for Field Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/configuring-wfo-fsm.md)
 
-    Enable [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]] and configure settings to use the Scheduling, Teams, and Coaching applications.
+    Enable Workforce Optimization for Field Service and configure settings to use the Scheduling, Teams, and Coaching applications.
 
 11. \(Optional\) [Configuring denormalized tables in Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/denormailized-tables-fsm.md)
 
     Denormalized databases are enabled by default, they collapse information stored in multiple tables into a single table. This collapsing of relevant data improves Field Service Management load time.
 
-## Related
 
-- [[configure-users-fsm|Configuring users]]
-- [[fsm-application-landing-page|Field Service Management]]
-- [[territory-planning-fsm|Field Service Territory Planning]]
-- [[capacity-management|Capacity and Reservations Management]]
-- [[capacity|Capacity]]
-- [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]]

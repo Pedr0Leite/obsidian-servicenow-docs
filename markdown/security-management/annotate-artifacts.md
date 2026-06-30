@@ -16,7 +16,7 @@ As you are analyzing a case, you can add annotations to any artifact.
 
 ## Before you begin
 
-The [[threat-intel-landing-page|Threat Intelligence]] plugin must be activated to use [[case-mgmt|Security Case Management]].
+The Threat Intelligence plugin must be activated to use Security Case Management.
 
 Role required:
 
@@ -31,7 +31,7 @@ Role required:
 
 3.  Click the tab associated with the artifacts you want to annotate.
 
-    For example, click **[[c_IoCs|Indicators of Compromise]]** to add annotations to IoCs.
+    For example, click **Indicators of Compromise** to add annotations to IoCs.
 
 4.  To add an annotation to one or more artifacts, perform the following steps:
 
@@ -54,7 +54,7 @@ Role required:
 6.  You can also enter a new annotation for the artifact in the **Security Annotation** box, and click **Annotate**.
 
 
-**Parent Topic:**[[sec-artifact-analysis|Security artifact analysis]]
+**Parent Topic:**[Security artifact analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sec-artifact-analysis.md)
 
 **Related topics**  
 
@@ -65,9 +65,3 @@ Role required:
 
 [Search for security artifacts]()
 
-## Related
-
-- [[sec-artifact-analysis|Security artifact analysis]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[case-mgmt|Security Case Management]]
-- [[c_IoCs|Indicators of compromise]]

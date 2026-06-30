@@ -12,7 +12,7 @@ breadcrumb: [Business continuity planning, Explore, Business Continuity Manageme
 
 # Use cases for business continuity planning
 
-This section describes the common use cases that are used for [[bcp-uib|business continuity planning]] in the [[business-continuity-mangmt-overview|Business Continuity Management]] application. You can deploy these use cases individually or you can combine them to meet your specific needs.
+This section describes the common use cases that are used for business continuity planning in the Business Continuity Management application. You can deploy these use cases individually or you can combine them to meet your specific needs.
 
 You can build your business continuity plan based on your recovery strategy, partners, teams, tools, and processes that are needed to implement the plan.
 
@@ -259,8 +259,3 @@ User adds recovery tasks.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[bcp-uib|Business continuity planning]]
-- [[business-continuity-mangmt-overview|Business Continuity Management]]

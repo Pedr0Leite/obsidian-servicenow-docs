@@ -14,7 +14,7 @@ breadcrumb: [Lifecyle events for enterprise, Employee Journey Management, HR Ser
 
 # Understanding Lifecyle events for enterprise
 
-Use [[enterprise-onboarding-transitions-landing-page|Lifecyle events for enterprise]] to automate the fulfillment of employee [[hr-lifecycle-events-landing-page-1|lifecycle events]] such as new hire onboarding, offboarding, relocation, promotion, parental leave, and more. Lifecycle events are a collection of activities organized into [[activity-lxp|activity]] sets to comprise an employee experience.
+Use Lifecyle events for enterprise to automate the fulfillment of employee lifecycle events such as new hire onboarding, offboarding, relocation, promotion, parental leave, and more. Lifecycle events are a collection of activities organized into activity sets to comprise an employee experience.
 
 ## Lifecyle events for enterprise Overview
 
@@ -24,13 +24,13 @@ Lifecyle events for enterprise enables organizations to easily automate employee
 -   Drive action across multiple departments and systems for improved efficiency
 -   Provide end-to-end visibility on each process to ensure that correct actions are taken
 -   Guide employees step-by-step so that they know what to do next
--   Continually optimize the process with insight from [[LifecycleEventsDashboard|lifecycle event dashboards]]
+-   Continually optimize the process with insight from lifecycle event dashboards
 
 The following video provides an overview of the Lifecyle events for enterprise application.
 
 ## Activation information
 
-Beginning in the Orlando release, Lifecyle events for enterprise is comprised of two plugins. Depending on the [[hr-service-delivery|HR Service Delivery]] package you choose, activate one or both of the plugins.
+Beginning in the Orlando release, Lifecyle events for enterprise is comprised of two plugins. Depending on the HR Service Delivery package you choose, activate one or both of the plugins.
 
 <table id="table_hnj_hcp_3jb"><thead><tr><th>
 
@@ -96,10 +96,4 @@ Once the Lifecyle events for enterprise application is configured, users with th
 
     Users with the lifecycle event case reader \[sn\_hr\_le.case\_reader\] role can read any lifecycle event case.
 
-## Related
 
-- [[enterprise-onboarding-transitions-landing-page|Lifecyle events for enterprise]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[activity-lxp|Activity]]
-- [[LifecycleEventsDashboard|Lifecycle event dashboards]]
-- [[hr-service-delivery|HR Service Delivery]]

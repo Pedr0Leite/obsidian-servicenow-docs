@@ -23,7 +23,7 @@ When an employee creates a case requesting an employment verification letter, yo
 
     You can optionally require a user to check an acknowledgment box before the signature is accepted.
 
--   Generate the document - Combine the document template with your signature and create an attachment to the case. If you use [[hr-employee-doc-management|Employee Document Management]], you can move the attachment to your document repository for storage.
+-   Generate the document - Combine the document template with your signature and create an attachment to the case. If you use Employee Document Management, you can move the attachment to your document repository for storage.
 
     **Note:** For more information, see [Configure an e-signature template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configure-e-signature-configuration.md).
 
@@ -38,7 +38,7 @@ Role required: sn\_hr\_core.case\_writer
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **[[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **Agent Workspace for HR Case Management**.
 
 2.  Locate and open an HR case.
 
@@ -56,8 +56,4 @@ Role required: sn\_hr\_core.case\_writer
 
     The generated document is displayed under the Attachments in the contextual side panel. If your company uses Employee Document Management \(EDM\), you can move the document to the EDM repository. For more information on EDM, see .
 
-## Related
 
-- [[hr-employee-doc-management|Employee Document Management]]
-- [[case-management-workspace|Case management]]
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]

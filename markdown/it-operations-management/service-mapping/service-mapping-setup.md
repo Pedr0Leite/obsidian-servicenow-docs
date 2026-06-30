@@ -14,7 +14,7 @@ breadcrumb: [Service Mapping, ITOM Visibility, IT Operations Management]
 
 # Configuring Service Mapping
 
-You get started with [[c_ServiceMappingOverview|Service Mapping]] by configuring roles, credentials, and MID Server connections.
+You get started with Service Mapping by configuring roles, credentials, and MID Server connections.
 
 Setting up Service Mapping is the first stage in the Service Mapping workflow.
 
@@ -28,7 +28,7 @@ Perform the following tasks in the exact order they are listed below:
 
 1.  [Request Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/t_ActivateServiceMappingPlugin.md).
 2.  [Install Service Mapping Plus](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/install-service-mapping-plus.md).
-3.  Install and configure MID Server. MID Servers, which are located in the enterprise private network, facilitate communication between servers on the network and some ServiceNow applications, such as Service Mapping, and [[r-discovery|Discovery]]. For more information, see [MID Server configuration for Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/configure-mid-service-mapping.md).
+3.  Install and configure MID Server. MID Servers, which are located in the enterprise private network, facilitate communication between servers on the network and some ServiceNow applications, such as Service Mapping, and Discovery. For more information, see [MID Server configuration for Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/configure-mid-service-mapping.md).
 4.  Verify that [Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r-discovery.md) is set up and runs horizontal discovery as expected.
 5.  Configure [credentials required for host discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/r_Credentials4HostDiscovery.md).
 6.  Configure credentials required for Service Mapping to access applications inside your organization private network. See [Prerequisites for performing top-down discovery using Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/prerequisites-service-mapping.md).
@@ -51,7 +51,3 @@ Perform the following tasks in the exact order they are listed below:
 
 In addition to the obligatory setup configurations described here, you may need to perform additional configurations after you complete the initial mapping process. For more information, see [Advanced Service Mapping configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/c_ConfigureSM.md).
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]

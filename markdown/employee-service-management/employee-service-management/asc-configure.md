@@ -10,12 +10,12 @@ reading_time_minutes: 2
 
 # Setting up your Alumni Center
 
-Set up your [[alumni-service-center|Alumni Center]] so you can communicate with your former employees or non-employees.
+Set up your Alumni Center so you can communicate with your former employees or non-employees.
 
 The following plugins must be activated prior to activating the Alumni Center \(sn\_asc\) plugin:
 
 -   Human Resources Scoped App: Core \(com.sn\_hr\_core\)
--   [[employee-center-landing-page|Employee Center]] \(sn\_ex\_sp\)
+-   Employee Center \(sn\_ex\_sp\)
 
 For more information on requesting activation of a plugin, see [Request a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_RequestAPlugin.md).
 
@@ -96,7 +96,7 @@ Content Delivery manager \[sn\_cd.content\_manager\]
 
     The base system supports the following task types:
 
-    -   [[employee-form-configuration|Collect Employee Input]]
+    -   Collect Employee Input
     -   Checklist
     -   E-signature \(HR core only\)
     -   Mark when complete
@@ -106,7 +106,7 @@ Content Delivery manager \[sn\_cd.content\_manager\]
     -   View video
 -   **Adding content**
 
-    The Alumni Center uses the same widgets as the [[hr-service-delivery|HR Service Delivery]] Employee Center. For more information, see [Employee Center widget instance options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/emp-center-topic-inst-options.md).
+    The Alumni Center uses the same widgets as the HR Service Delivery Employee Center. For more information, see [Employee Center widget instance options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/emp-center-topic-inst-options.md).
 
     Use Content Publishing to add and display content to your Alumni Center. For more information, see [Content Publishing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-publish-content.md).
 
@@ -129,9 +129,3 @@ Content Delivery manager \[sn\_cd.content\_manager\]
     -   You can edit the loaded users, ensure unique user IDs, or approve if they look valid.
     -   From the list view of Staged Alumni, click **Import All Approved** to start the Import Approved Staged to Alumni scheduled job.
 
-## Related
-
-- [[alumni-service-center|Alumni Center]]
-- [[employee-center-landing-page|Employee Center]]
-- [[employee-form-configuration|Collect employee input]]
-- [[hr-service-delivery|HR Service Delivery]]

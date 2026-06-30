@@ -26,7 +26,7 @@ If your roles allow you to create a global target or threshold, you can delete a
 
 ## Procedure
 
-1.  Navigate to **[[c_performanceAnalyticsAndReporting|Platform Analytics]] Administration** &gt; **Indicators** &gt; **Targets** or **Platform Analytics Administration** &gt; **Indicators** &gt; **Thresholds**.
+1.  Navigate to **Platform Analytics Administration** &gt; **Indicators** &gt; **Targets** or **Platform Analytics Administration** &gt; **Indicators** &gt; **Thresholds**.
 
 2.  Select the targets or thresholds that you want to delete.
 
@@ -41,6 +41,3 @@ If your roles allow you to create a global target or threshold, you can delete a
 
 **Parent Topic:**[Performance Analytics targets and thresholds](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/pa-targets-thresholds.md)
 
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

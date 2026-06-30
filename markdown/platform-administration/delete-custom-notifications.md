@@ -12,7 +12,7 @@ breadcrumb: [Preferences in Next Experience, Notification Preferences, Notificat
 
 # Delete a custom notification
 
-Delete custom [[notifications|notifications]] that you don't need any more.
+Delete custom notifications that you don't need any more.
 
 ## Before you begin
 
@@ -27,9 +27,5 @@ Role required: none
 3.  In the notification entry, select the more actions icon \[Omitted image "delete\_cn.png"\] Alt text: and select **Delete**.
 
 
-**Parent Topic:**[[advanced-notification-prefrences|System and custom notification and delivery channel preferences in Next Experience]]
+**Parent Topic:**[System and custom notification and delivery channel preferences in Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/advanced-notification-prefrences.md)
 
-## Related
-
-- [[advanced-notification-prefrences|System and custom notification and delivery channel preferences in Next Experience]]
-- [[notifications|Notifications]]

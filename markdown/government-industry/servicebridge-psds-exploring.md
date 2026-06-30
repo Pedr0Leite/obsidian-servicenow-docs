@@ -12,7 +12,7 @@ breadcrumb: [Case management, Explore, Public Sector Digital Services \(PSDS\)]
 
 # Service Exchange for Public Sector Digital Services
 
-Connect multiple ServiceNow instances to provide support and service experiences across the Public Sector​ ecosystem, enabling coordination between multiple government service agencies and their constituents using Service Bridge for [[bun-public-sector-landing-page|Public Sector Digital Services \(PSDS\)]].
+Connect multiple ServiceNow instances to provide support and service experiences across the Public Sector​ ecosystem, enabling coordination between multiple government service agencies and their constituents using Service Bridge for Public Sector Digital Services \(PSDS\).
 
 Enable agency to agency communication and coordination across multiple ServiceNow instances using Service Bridge for Public Sector Digital Services \(PSDS\). Agencies can coordinate across the ServiceNow® Public Sector Digital Services ecosystem, facilitating cross-agency case management​, real-time coordination with dynamic task management, secure inter-agency data sharing, and streamlined approval workflows for license and permits, social benefits, and grants funding distribution.
 
@@ -68,6 +68,3 @@ The main capabilities of Service Exchange include:
 -   [Provider Tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-provider-tasks.md): Enable all providers of services using Service Exchange to be transparent and collaborative with their partner agencies who use ServiceNow by syncing relevant tasks like cases, to consumers as Provider Tasks.
 -   [Transform Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-provider-tasks.md): Transform inbound and outbound remote task data for easy process transformation between ServiceNow instances.
 
-## Related
-
-- [[bun-public-sector-landing-page|Public Sector Digital Services \(PSDS\)]]

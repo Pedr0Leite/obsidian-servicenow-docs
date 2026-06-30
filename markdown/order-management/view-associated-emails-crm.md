@@ -16,7 +16,7 @@ View emails that have been linked to CRM records using the Microsoft Outlook dir
 
 ## Before you begin
 
-Email promotion must be configured before you can view the associated emails on the Emails tab of the Lead, Opportunity, Accounts, or Contacts record. For more information, see [[promote-crm-outlook-emails|Make emails associated through the CRM Outlook Add-in visible to agents]].
+Email promotion must be configured before you can view the associated emails on the Emails tab of the Lead, Opportunity, Accounts, or Contacts record. For more information, see [Make emails associated through the CRM Outlook Add-in visible to agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/promote-crm-outlook-emails.md).
 
 The User Mailbox Integration plugin \(com.glide.email.user\_mailbox.integration\) must be installed on your ServiceNow instance to enable agents to send emails from the touchpoint record. For setup instructions, see [Personal corporate mailbox](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/personal-corporate-mailbox.md).
 
@@ -39,18 +39,12 @@ Role required: sn\_crm\_outlook.crm\_outlook\_user
 6.  View email by selecting a timestamp link from the Created column.
 
 
-**Parent Topic:**[[using-activity-management|Using Activity Management]]
+**Parent Topic:**[Using Activity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-activity-management.md)
 
 **Related topics**  
 
 
-[[configuring-activity-management|Configuring Activity Management]]
+[Configuring Activity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configuring-activity-management.md)
 
-[[explore-activity-management|Activity Management]]
+[Activity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-activity-management.md)
 
-## Related
-
-- [[promote-crm-outlook-emails|Make emails associated through the CRM Outlook Add-in visible to agents]]
-- [[using-activity-management|Using Activity Management]]
-- [[configuring-activity-management|Configuring Activity Management]]
-- [[explore-activity-management|Activity Management]]

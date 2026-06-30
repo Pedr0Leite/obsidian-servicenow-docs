@@ -22,9 +22,9 @@ Role required: sn\_grc\_reg\_change.user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[reg-change-mgmt-landing-page|Regulatory Change Management]]** &gt; **Compliance Workspace**.
+1.  Navigate to **All** &gt; **Regulatory Change Management** &gt; **Compliance Workspace**.
 
-2.  Go to **List** &gt; **[[list-view-of-reg-alerts|Regulatory alerts]]** &gt; **All assigned alerts**.
+2.  Go to **List** &gt; **Regulatory alerts** &gt; **All assigned alerts**.
 
 3.  Select and open the required regulatory alert.
 
@@ -51,7 +51,3 @@ Linking action tasks automates task assignment for each impacted area, ensuring 
 
 After the action tasks are created, the tasks appear in the list for the owners. The owner works on the action tasks and closes them.
 
-## Related
-
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]
-- [[list-view-of-reg-alerts|Regulatory alerts]]

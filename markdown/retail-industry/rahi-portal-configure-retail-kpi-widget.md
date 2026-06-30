@@ -12,11 +12,11 @@ breadcrumb: [Set up Retail Portal, Configure, Retail]
 
 # Add and configure the Retail KPI widget
 
-Display report data in card format on your portal. You can display the report data by adding and configuring the [[rahi-retail-operations-overview|Retail]] KPI widget.
+Display report data in card format on your portal. You can display the report data by adding and configuring the Retail KPI widget.
 
 ## Before you begin
 
-The Retail Core \[com.sn\_retail\_core\] plugin must be activated. For more information, see [[rahi-retail-operations-install|Activate Retail Core]].
+The Retail Core \[com.sn\_retail\_core\] plugin must be activated. For more information, see [Activate Retail Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-operations-install.md).
 
 The page to which you want to add the widget must exist. For more information, see [Create a page for Configurable Portal widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-page-configurable-portal-widget.md).
 
@@ -28,7 +28,7 @@ Role required: admin
 
 2.  Select **Designer**.
 
-3.  On the Service Portal Designer page, select a [[rahi-retail-portal|retail portal]] page.
+3.  On the Service Portal Designer page, select a retail portal page.
 
 4.  Select the **Widgets** tab.
 
@@ -178,7 +178,7 @@ Role required: admin
 
     **Note:**
 
-    For more information, see [[retail-kpi-json-parameters|Retail KPI JSON parameters]].
+    For more information, see [Retail KPI JSON parameters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/retail-kpi-json-parameters.md).
 
     Review sys\_report table records to validate configurations in use with the Retail KPI widget.
 
@@ -186,9 +186,4 @@ Role required: admin
 
 13. Select **Save**.
 
-## Related
 
-- [[rahi-retail-operations-install|Activate plugins]]
-- [[retail-kpi-json-parameters|Retail KPI JSON parameters]]
-- [[rahi-retail-operations-overview|Retail]]
-- [[rahi-retail-portal|Retail portal]]

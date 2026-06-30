@@ -22,7 +22,7 @@ Role required: sn\_si.analyst
 
 1.  Navigate to a security incident.
 
-2.  Select the **[[indicator-sightings|Sightings]] Search Data** tab from **Show All Related Lists** Related List group to view the list of sightings searches.
+2.  Select the **Sightings Search Data** tab from **Show All Related Lists** Related List group to view the list of sightings searches.
 
     **Note:** This data can be shared with Trusted Security Circle.
 
@@ -72,7 +72,7 @@ Observable
 
 </td><td>
 
-List of all [[c_Observables|observables]] searched for by query.
+List of all observables searched for by query.
 
 </td></tr><tr><td>
 
@@ -120,10 +120,5 @@ Query to identify the instance. 172.10.0.171 is substitutable and gets substitut
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[[sightings-search-configurations|Create sightings search configuration records]]
+**Parent Topic:**[Create sightings search configuration records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sightings-search-configurations.md)
 
-## Related
-
-- [[sightings-search-configurations|Create sightings search configuration records]]
-- [[indicator-sightings|Sightings]]
-- [[c_Observables|Observables]]

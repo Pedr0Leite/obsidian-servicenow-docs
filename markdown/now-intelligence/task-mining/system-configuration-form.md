@@ -14,9 +14,9 @@ breadcrumb: [Reference, Task Mining, Platform Analytics]
 
 # System configuration form in Task Mining
 
-Modify configuration records to set up [[task-mining|Task Mining]]. Configuration records can be modified but cannot be added.
+Modify configuration records to set up Task Mining. Configuration records can be modified but cannot be added.
 
-For information about [[configuring-task-mining|configuring Task Mining]], see [Configuring Task Mining](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/configuring-task-mining.md).
+For information about configuring Task Mining, see [Configuring Task Mining](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/configuring-task-mining.md).
 
 |Field|Description|
 |-----|-----------|
@@ -27,7 +27,3 @@ For information about [[configuring-task-mining|configuring Task Mining]], see [
 
 **Parent Topic:**[Task Mining Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/reference-task-mining.md)
 
-## Related
-
-- [[task-mining|Task Mining]]
-- [[configuring-task-mining|Configuring Task Mining]]

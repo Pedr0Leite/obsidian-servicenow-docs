@@ -28,7 +28,7 @@ Role required: admin
 
 3.  In the **Client ID** field in the OAuth OIDC entities table, enter `api://INSERT_COMPLETE_INSTANCE_URL_without_http(s)/ APPLICATION (CLIENT) ID`.
 
-4.  Select the [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] icon \[Omitted image "Form\_ReferenceLookupIcon.png"\] Alt text: Reference icon beside the **OAuth OIDC Provider Configuration** field.
+4.  Select the reference icon \[Omitted image "Form\_ReferenceLookupIcon.png"\] Alt text: Reference icon beside the **OAuth OIDC Provider Configuration** field.
 
 5.  Select **Open Record**.
 
@@ -39,6 +39,3 @@ Role required: admin
 
 **Parent Topic:**[Integrating Employee Center with Microsoft Teams for GCC-H or DoD](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-teams-integration-gcch.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

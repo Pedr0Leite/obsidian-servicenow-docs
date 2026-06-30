@@ -32,7 +32,7 @@ For example, link behavior determines which page opens when the link is clicked 
 
 3.  In **Menu Sections** related list, click **Order Things**.
 
-4.  Click the [[onboarding-modals-reference|reference]] icon next to **Detail Page** to open the page.
+4.  Click the reference icon next to **Detail Page** to open the page.
 
 5.  In **Related Links**, click **Edit Page**.
 
@@ -53,6 +53,3 @@ For example, link behavior determines which page opens when the link is clicked 
 
 **Parent Topic:**[Example menu items and content links](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_NavigationMenusAndContentLinks.md)
 
-## Related
-
-- [[onboarding-modals-reference|Reference]]

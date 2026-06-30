@@ -14,7 +14,7 @@ breadcrumb: [CrowdStrike Falcon X Sandbox integration, Security Incident Respons
 
 # Set up Sandbox submission configurations
 
-Set up the Sandbox configuration to define the analysis environment and runtime options for your security incident record submissions for the [[threat-intelligence-malware-analysis|malware analysis]].
+Set up the Sandbox configuration to define the analysis environment and runtime options for your security incident record submissions for the malware analysis.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Before you can submit files or URLs to the CrowdStrike Falcon X Sandbox using th
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **CrowdStrike Falcon X Sandbox** &gt; **[[qradar-ibm-intg-settings|Configuration Settings]]**.
+1.  Navigate to **All** &gt; **CrowdStrike Falcon X Sandbox** &gt; **Configuration Settings**.
 
 2.  Click **New**.
 
@@ -124,7 +124,3 @@ After you configure sandbox submissions, the next step is to [manually submit fi
 
 .
 
-## Related
-
-- [[threat-intelligence-malware-analysis|Malware analysis]]
-- [[qradar-ibm-intg-settings|Configuration settings]]

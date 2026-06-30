@@ -16,13 +16,13 @@ Submit a quote for advanced approval to route it to required approvers before sh
 
 ## Before you begin
 
-[[explore-advanced-approval-for-sales|Advanced Approval Management]] must be installed to submit a quote for advanced approval.
+Advanced Approval Management must be installed to submit a quote for advanced approval.
 
 Role required: sn\_adv\_appr\_mgmt.approval\_request\_writer
 
 ## About this task
 
-When you submit a quote for advanced approval, the system routes it to the required approvers based on configured approval [[rules_101|rules]] and sequencing. You can also add ad-hoc approvers to the approval request when additional review is needed outside of the configured workflow.
+When you submit a quote for advanced approval, the system routes it to the required approvers based on configured approval rules and sequencing. You can also add ad-hoc approvers to the approval request when additional review is needed outside of the configured workflow.
 
 If your administrator has configured reminder schedules, approvers receive automated notifications when their approval steps are pending. If an approval step is escalated, the step card displays the escalated approver so that all parties know who is responsible for the next action. Your administrator configures reminder and escalation settings.
 
@@ -49,10 +49,5 @@ If your administrator has configured reminder schedules, approvers receive autom
 
 The quote is submitted for approval and enters the In Review state. Approval requests are generated based on configured approval rules and sequencing.
 
-**Parent Topic:**[[quote-mgmt-using|Using Quote Management]]
+**Parent Topic:**[Using Quote Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-mgmt-using.md)
 
-## Related
-
-- [[quote-mgmt-using|Using Quote Management]]
-- [[explore-advanced-approval-for-sales|Advanced Approval Management]]
-- [[rules_101|Rules]]

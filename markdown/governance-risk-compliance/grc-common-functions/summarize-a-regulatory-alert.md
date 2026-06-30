@@ -34,7 +34,7 @@ To summarize a regulatory alert, you must specify the fields from which the summ
 -   Effective date
 -   Compliance date
 
-Also, define when the skill must be available: should it be available at all times or should it be available only when a particular condition is met? By default, a regulatory alert in the [[reg-change-mgmt-landing-page|Regulatory Change Management]] application shows the options to create a summary when the alert is in New state. However, you can specify any state or any condition under which the summarization can be done. You can achieve this when you modify the **Define availability** section. After you generate the summary, you can choose to share the summary and populate the **Additional comments** field of the regulatory alert. Doing this helps the regulatory analyst to get a quick glance at the summary. At every stage of the procedure ensure that you save the form.
+Also, define when the skill must be available: should it be available at all times or should it be available only when a particular condition is met? By default, a regulatory alert in the Regulatory Change Management application shows the options to create a summary when the alert is in New state. However, you can specify any state or any condition under which the summarization can be done. You can achieve this when you modify the **Define availability** section. After you generate the summary, you can choose to share the summary and populate the **Additional comments** field of the regulatory alert. Doing this helps the regulatory analyst to get a quick glance at the summary. At every stage of the procedure ensure that you save the form.
 
 ## Procedure
 
@@ -118,7 +118,7 @@ Template used for this skill.
 
     The Base table and Input templates define how data is structured and transmitted to a large language model \(LLM\) for generating responses as part of the Regulatory Alert Summarization skill. These fields are read-only.
 
-    These fields provide essential context to the LLM while preserving data integrity. Two input templates are defined based on the record’s state: one for the Default state and another for the New state. Each template includes rule conditions that determine when it’s applied. To enrich the context further, related tables are included, specifically linking [[list-view-of-reg-alerts|regulatory alerts]] to taxonomy data using fields like taxonomy name and taxonomy category. This setup helps ensure that the LLM receives structured, relevant, and contextual information.
+    These fields provide essential context to the LLM while preserving data integrity. Two input templates are defined based on the record’s state: one for the Default state and another for the New state. Each template includes rule conditions that determine when it’s applied. To enrich the context further, related tables are included, specifically linking regulatory alerts to taxonomy data using fields like taxonomy name and taxonomy category. This setup helps ensure that the LLM receives structured, relevant, and contextual information.
 
     For more information, see [Choose input data form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/input-data-rcm-skill.md).
 
@@ -138,7 +138,4 @@ Template used for this skill.
 
 11. Select **Return to Risk &amp; Sustainability** to return to the page listing all risk and sustainability-related skills or close the dialog box to remain on the same page.
 
-## Related
 
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]
-- [[list-view-of-reg-alerts|Regulatory alerts]]

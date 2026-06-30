@@ -14,7 +14,7 @@ breadcrumb: [Complete your checkout, Using Shopping Hub, Use, Sourcing and Procu
 
 # Configure additional questions for checkout
 
-As an administrator, you can configure additional questions for full checkout to collect more information from a shopper specific to a purchase. This information is first stored in the Requisition Additional Info staging table against the [[purchase-requisition|purchase requisition]] ID that is created on checkout, and then mapped to the Purchase Requisitions table for back-end consumption.
+As an administrator, you can configure additional questions for full checkout to collect more information from a shopper specific to a purchase. This information is first stored in the Requisition Additional Info staging table against the purchase requisition ID that is created on checkout, and then mapped to the Purchase Requisitions table for back-end consumption.
 
 ## Before you begin
 
@@ -41,13 +41,13 @@ A record producer can contain the following question types:
 
 2.  Create and add the same columns in the Purchase Requisitions table.
 
-3.  In Catalog Builder, configure a record producer titled [[shopping-hub-overview|Shopping Hub]] Additional Questions using the **ShoppingHub additional questions for a PR** template.
+3.  In Catalog Builder, configure a record producer titled Shopping Hub Additional Questions using the **ShoppingHub additional questions for a PR** template.
 
     This record producer is used to store more information from a shopper specific to a purchase.
 
     **Note:** For information on how to create a record producer, see [Create a catalog item using a template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/create-item-cat-builder.md).
 
-4.  Navigate to **ShoppingHub** &gt; **Administration** &gt; **[[shoppinghub-configurations|ShoppingHub Configuration]]**.
+4.  Navigate to **ShoppingHub** &gt; **Administration** &gt; **ShoppingHub Configuration**.
 
 5.  Select the **Additional Information for a Purchase Request** configuration name associated with the **Checkout configuration** type.
 
@@ -68,8 +68,3 @@ A record producer can contain the following question types:
 
 **Parent Topic:**[Complete your checkout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/complete-your-checkout.md)
 
-## Related
-
-- [[purchase-requisition|Purchase requisition]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[shoppinghub-configurations|ShoppingHub configuration]]

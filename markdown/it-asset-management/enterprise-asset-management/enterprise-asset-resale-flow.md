@@ -24,7 +24,7 @@ Role required: sn\_eam.enterprise\_asset\_manager
 
 The asset vendor must confirm which assets can be resold and how much they are worth.
 
-Only assets that are in a non-terminal state, which is any state in which the asset can transition into a different state, can be resold through a enterprise resale order. Each asset must also be associated with either an enterprise model or pallet model. You can add simple assets; multi-component assets, which include pre-assembled and user-assembled assets; and [[pallet-assets|pallet assets]] with children to an enterprise resale order.
+Only assets that are in a non-terminal state, which is any state in which the asset can transition into a different state, can be resold through a enterprise resale order. Each asset must also be associated with either an enterprise model or pallet model. You can add simple assets; multi-component assets, which include pre-assembled and user-assembled assets; and pallet assets with children to an enterprise resale order.
 
 **Note:** If you are adding a pallet asset with children to a resale order, any changes that you make to the pallet asset are automatically applied to all child assets.
 
@@ -38,7 +38,7 @@ Only assets that are in a non-terminal state, which is any state in which the as
 
 4.  Add assets and submit the order.
 
-    Once the asset resale request is submitted, you can fulfill the request by navigating to the [[using-eam-workspace|Enterprise Asset Workspace]].
+    Once the asset resale request is submitted, you can fulfill the request by navigating to the Enterprise Asset Workspace.
 
 5.  Navigate to **Inventory** &gt; **Resale orders**.
 
@@ -70,7 +70,4 @@ Only assets that are in a non-terminal state, which is any state in which the as
 
     The stage changes to documentation and a Resale Documentation task is created.
 
-## Related
 
-- [[pallet-assets|Pallet assets]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]

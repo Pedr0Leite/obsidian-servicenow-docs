@@ -24,7 +24,7 @@ Role required: awa\_admin or admin
 
 1.  Navigate to the queue settings through one of the following navigation paths:
 
-    -   **All** &gt; **[[awa-application-landing-page|Advanced Work Assignment]]** &gt; **Home**.
+    -   **All** &gt; **Advanced Work Assignment** &gt; **Home**.
 
         In the Essential settings section, select **Set up queues**.
 
@@ -33,7 +33,7 @@ Role required: awa\_admin or admin
 
 3.  Select the Queue Triggers related list.
 
-    -   To [[skills-example-queue|create a queue]] trigger, select **New**.
+    -   To create a queue trigger, select **New**.
     -   To change a queue trigger, select the queue trigger record to be updated.
 4.  On the form, fill in the fields.
 
@@ -51,7 +51,7 @@ Queue
 
 </td><td>
 
-[[awa-work-items|Work items]] that belong to a service channel.
+Work items that belong to a service channel.
 
 </td></tr><tr><td>
 
@@ -61,7 +61,7 @@ Message
 
 Message that users see because the **Trigger Time** has elapsed.
 
- If the **Trigger Type** field value is **Max Wait**, this field becomes read-only and displays the value entered in the Queue form's **Max wait time message** field. When the **Max wait time message** appears to users, they’re prompted to select a [[virtual-agent-landing-page|Virtual Agent]] topic and if they select a topic, they don’t return to the live agent's queue.
+ If the **Trigger Type** field value is **Max Wait**, this field becomes read-only and displays the value entered in the Queue form's **Max wait time message** field. When the **Max wait time message** appears to users, they’re prompted to select a Virtual Agent topic and if they select a topic, they don’t return to the live agent's queue.
 
 </td></tr><tr><td>
 
@@ -100,9 +100,4 @@ Name of the existing Virtual Agent topic that appears to the users when the max 
 
     The queue triggers are added to or updated in the Queue Triggers related list.
 
-## Related
 
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[skills-example-queue|Create a queue]]
-- [[awa-work-items|Work items]]
-- [[virtual-agent-landing-page|Virtual Agent]]

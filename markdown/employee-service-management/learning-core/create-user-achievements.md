@@ -14,7 +14,7 @@ breadcrumb: [Manage Learning, Using My Learning, Learning, Growth Experiences, H
 
 # Create user achievements
 
-Create user achievements to project the accomplishments of course takers on [[overview-lxp|My Learning]].
+Create user achievements to project the accomplishments of course takers on My Learning.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_lep.achievement\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[achievements-lxp|Achievements]]** &gt; **User Achievements**.
+1.  Navigate to **All** &gt; **Achievements** &gt; **User Achievements**.
 
 2.  Select **New**.
 
@@ -46,7 +46,7 @@ Role required: sn\_lep.achievement\_manager
 
 [Create a content collection]()
 
-[Create internal [[exploring-learning-exp|Learning]] content]()
+[Create internal Learning content]()
 
 [View external Learning content]()
 
@@ -60,8 +60,3 @@ Role required: sn\_lep.achievement\_manager
 
 [Create an achievement rule item]()
 
-## Related
-
-- [[overview-lxp|My Learning]]
-- [[achievements-lxp|Achievements]]
-- [[exploring-learning-exp|Learning]]

@@ -14,7 +14,7 @@ breadcrumb: [Exploring Service Portal, Service Portal, Configure UIs and portals
 
 # Supported features in Service Portal
 
-[[c_ServicePortal|Service Portal]] is an alternative presentation layer for the platform. As such, not all features of the platform are extended to Service Portal. Consider your full application and the abilities of Service Portal before making considerable investments.
+Service Portal is an alternative presentation layer for the platform. As such, not all features of the platform are extended to Service Portal. Consider your full application and the abilities of Service Portal before making considerable investments.
 
 ## Not currently supported
 
@@ -25,7 +25,7 @@ Domain separation at Levels 1-3. However, Service Portal does include support fo
 -   @ Mentions
 -   Click-through/pop-ups
 -   Embedded HTML outside of HTML fields
--   Embedded [[lists-configurable-workspace|lists]]
+-   Embedded lists
 -   UI macros
 -   Formatters
 -   UI actions marked as **Client**
@@ -34,19 +34,11 @@ Domain separation at Levels 1-3. However, Service Portal does include support fo
 -   [OpenFrame](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_OpenFrameOverview.md)
 
 -   **[Service Catalog forms in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sc-forms-in-sp.md)**  
-Service Catalog [[form-configurable-workspace|forms]] are rendered within Service Portal widgets in a two-column layout. Complex forms may not display as expected.
+Service Catalog forms are rendered within Service Portal widgets in a two-column layout. Complex forms may not display as expected.
 -   **[Service Portal and client scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/unsupported_client_scripts.md)**  
-You can use client scripts and catalog client scripts in the Service Portal if the UI Type is set to **Mobile / Service Portal** or **All**. Client scripts and catalog client scripts are used with the [[form-widget|Form widget]] and [[sc-catalog-item-widget|SC Catalog Item widget]], as opposed to a widget client controller.
+You can use client scripts and catalog client scripts in the Service Portal if the UI Type is set to **Mobile / Service Portal** or **All**. Client scripts and catalog client scripts are used with the Form widget and SC Catalog Item widget, as opposed to a widget client controller.
 -   **[Antivirus Scanning in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/av-sp.md)**  
-View the health status of file [[attachments-configurable-workspace|attachments]] in Service Portal. Antivirus Scanning scans files in the Attachments \[sys\_attachments\] table by default. When viewed from a Service Portal page, attachments may not be available for download depending on their health status.
+View the health status of file attachments in Service Portal. Antivirus Scanning scans files in the Attachments \[sys\_attachments\] table by default. When viewed from a Service Portal page, attachments may not be available for download depending on their health status.
 
 **Parent Topic:**[Exploring Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/exploring-service-portal.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[lists-configurable-workspace|Lists]]
-- [[form-configurable-workspace|Forms]]
-- [[form-widget|Form widget]]
-- [[sc-catalog-item-widget|SC Catalog Item widget]]
-- [[attachments-configurable-workspace|Attachments]]

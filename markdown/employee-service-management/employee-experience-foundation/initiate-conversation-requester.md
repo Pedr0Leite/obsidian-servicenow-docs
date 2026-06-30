@@ -23,7 +23,7 @@ You must have the "write" role to use the **Start Microsoft Teams chat** and **I
 |Incident|sn\_incident\_write|ITSM Roles - Incident Management \(com.snc.itsm.roles.incident\_management\) plugin|
 |Change Request|sn\_change\_write|ITSM Roles — Change Management \(com.snc.itsm.roles.change\_management\) plugin|
 |Request|sn\_request\_write|ITSM Roles — Request Management \(com.snc.itsm.roles.request\_management\) plugin|
-|HR Case|sn\_hr\_core.case\_writer|Human Resources Scoped App — [[hr-case-employee-relations|Employee Relations]] \[com.sn\_hr\_employee\_relations\] plugin|
+|HR Case|sn\_hr\_core.case\_writer|Human Resources Scoped App — Employee Relations \[com.sn\_hr\_employee\_relations\] plugin|
 
 -   **[Request-based chat - Start and import chat from field decorator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/initiate-chat-record-field-decorator.md)**  
 Interact with a requester in Microsoft Teams from the chat icon from the workspace to quickly resolve the ticket.
@@ -34,6 +34,3 @@ You can import the conversation with a user from Microsoft Teams and append them
 
 **Parent Topic:**[Agent actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/agent-sn-ms-teams.md)
 
-## Related
-
-- [[hr-case-employee-relations|Employee Relations]]

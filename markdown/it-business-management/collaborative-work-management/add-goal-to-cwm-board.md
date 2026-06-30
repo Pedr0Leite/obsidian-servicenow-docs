@@ -14,7 +14,7 @@ breadcrumb: [Manage work using Boards, Use, Collaborative Work Management, Strat
 
 # Add a goal to CWM Board
 
-Associate a goal to your Board so that you can plan and track all the tasks and activities that contribute to this goal directly from the [[cwm-landing|Collaborative Work Management]] workspace.
+Associate a goal to your Board so that you can plan and track all the tasks and activities that contribute to this goal directly from the Collaborative Work Management workspace.
 
 ## Before you begin
 
@@ -38,7 +38,7 @@ Role required: sn\_cwm.cwm\_user
 ## Result
 
 -   Within CWM workspace: The current Board is associated with the selected goal, and is shown in the Board details page.
--   Within [[alignment-planner-workspace-landing-page|Strategic Planning]] workspace: If the goal that you selected is part of a portfolio plan within Strategic Planning Workspace, you can see that this CWM Board is added to the goal as a planning item.
+-   Within Strategic Planning workspace: If the goal that you selected is part of a portfolio plan within Strategic Planning Workspace, you can see that this CWM Board is added to the goal as a planning item.
 
     \[Omitted image "cwm-goal-board-relation.png"\] Alt text: CWM Board as a planning item for a goal in Strategic Planning Workspace.
 
@@ -47,7 +47,3 @@ Role required: sn\_cwm.cwm\_user
 
 **Parent Topic:**[Managing work using Boards in CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/cwm-boards.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

@@ -30,13 +30,8 @@ Role required: admin
 
 4.  Select **Activate**.
 
-    **Note:** When using [[financial-services-operations-integration-with-visa-landing-page|Financial Services Operations Integration with Visa]] for the first time, you must activate the Visa Queue Scheduler Flow and set the desired frequency. For more information, see [[components-installed-with-the-financial-services-operations-integration-with-visa|Batch queue APIs processing and scheduling]].
+    **Note:** When using Financial Services Operations Integration with Visa for the first time, you must activate the Visa Queue Scheduler Flow and set the desired frequency. For more information, see [Batch queue APIs processing and scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/components-installed-with-the-financial-services-operations-integration-with-visa.md).
 
 
-**Parent Topic:**[[configuring-financial-services-operations-integration-with-visa|Configuring Financial Services Operations Integration with Visa]]
+**Parent Topic:**[Configuring Financial Services Operations Integration with Visa](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configuring-financial-services-operations-integration-with-visa.md)
 
-## Related
-
-- [[components-installed-with-the-financial-services-operations-integration-with-visa|Financial Services Operations Integration with Visa subflows]]
-- [[configuring-financial-services-operations-integration-with-visa|Configuring Financial Services Operations Integration with Visa]]
-- [[financial-services-operations-integration-with-visa-landing-page|Financial Services Operations Integration with Visa]]

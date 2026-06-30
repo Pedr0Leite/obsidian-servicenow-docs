@@ -14,7 +14,7 @@ breadcrumb: [Securing and encrypting MID Server data, MID Server, Manage instanc
 
 # Enable MID Server mutual authentication
 
-Configure the [[mid-server-landing|MID Server]] to use a client certificate for authenticating to the instance. This avoids the need to create a basic authentication credentials in the Key Store for the MID Server's configuration.
+Configure the MID Server to use a client certificate for authenticating to the instance. This avoids the need to create a basic authentication credentials in the Key Store for the MID Server's configuration.
 
 ## Before you begin
 
@@ -96,7 +96,7 @@ In the Quebec release, a MID Server using the Health Log Analytic application ca
 
 10. Attach the original, unsplit PEM certificate to the record.
 
-    \[Omitted image "mid-mtls-user-cert-record.png"\] Alt text: The [[attachment|attachment]] is in the top corner of the record.
+    \[Omitted image "mid-mtls-user-cert-record.png"\] Alt text: The attachment is in the top corner of the record.
 
     **Note:** Ensure that the attached file contains only the certificate.
 
@@ -222,7 +222,3 @@ In the Quebec release, a MID Server using the Health Log Analytic application ca
 
 [MID Server unified key store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-unified-keystore.md)
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[attachment|Attachment]]

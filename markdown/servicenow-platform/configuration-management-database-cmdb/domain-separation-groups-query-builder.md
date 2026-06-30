@@ -14,7 +14,7 @@ breadcrumb: [Reference, CMDB Query Builder, Configuration Management Database \(
 
 # Domain separation and CMDB Query Builder
 
-[[domain-separation-relationship-formatter-editor|Domain separation]] is supported in the [[cmdb-query-builder-landing-page|CMDB Query Builder]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported in the CMDB Query Builder. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## How domain separation works in the CMDB Query Builder
 
@@ -38,7 +38,3 @@ With the CMDB Query Builder you can easily build complex infrastructure and serv
 
 [Domain separation and Configuration Management Database \(CMDB\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/domain-separation-cmdb.md)
 
-## Related
-
-- [[domain-separation-relationship-formatter-editor|Domain separation]]
-- [[cmdb-query-builder-landing-page|CMDB Query Builder]]

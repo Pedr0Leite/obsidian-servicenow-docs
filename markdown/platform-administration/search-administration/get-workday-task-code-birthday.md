@@ -15,7 +15,7 @@ breadcrumb: [Workday external content connector, Configure, External Content Con
 
 # Get Workday task code for My Team's Birthday
 
-Get the task code for the My Team's Birthday task from your Workday tenant. The [[workday-external-content-connector|Workday external content connector]] needs this task code to retrieve team birthday data from the Manager hub.
+Get the task code for the My Team's Birthday task from your Workday tenant. The Workday external content connector needs this task code to retrieve team birthday data from the Manager hub.
 
 ## Before you begin
 
@@ -48,6 +48,3 @@ For details on creating and configuring a Workday external content connector, se
 
 **Parent Topic:**[Workday external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/workday-external-content-connector.md)
 
-## Related
-
-- [[workday-external-content-connector|Workday external content connector]]

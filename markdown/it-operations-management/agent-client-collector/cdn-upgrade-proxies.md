@@ -22,7 +22,7 @@ Role required: agent\_client\_collector\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-landing-page|Agent Client Collector]]** &gt; **Package Download Proxies**.
+1.  Navigate to **All** &gt; **Agent Client Collector** &gt; **Package Download Proxies**.
 
 2.  Select **New** to create a new proxy server.
 
@@ -81,6 +81,4 @@ Select for the URL to be invoked.Clear for the URL to be ignored.
 </td></tr></tbody>
 </table>    If no proxy server is specified, the default of **direct** is invoked, instructing the agent to download the installer directly from the CDN.
 
-## Related
 
-- [[acc-landing-page|Agent Client Collector]]

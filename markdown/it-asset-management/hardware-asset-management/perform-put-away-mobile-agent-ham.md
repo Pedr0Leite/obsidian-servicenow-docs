@@ -23,7 +23,7 @@ Role required: inventory\_user
 
 ## About this task
 
-The inventory user can scan the available assets in the inventory and put them away in the scanned aisle-space in the stockroom. The [[ham-landing-page|Hardware Asset Management]] application checks the existence of an active put away task for the asset and makes the required update in the [[using-ham-workspace|Hardware Asset Workspace]].
+The inventory user can scan the available assets in the inventory and put them away in the scanned aisle-space in the stockroom. The Hardware Asset Management application checks the existence of an active put away task for the asset and makes the required update in the Hardware Asset Workspace.
 
 -   If an active Asset put away task exists, the task is closed when the asset is placed in the designated stockroom location.
 -   If an active Asset put away task doesn't exist for the asset, then a task is created and closed when the asset is placed in the designated stockroom location.
@@ -55,7 +55,3 @@ A confirmation message appears on the mobile screen showing the number of put aw
 
 **Parent Topic:**[Manage asset put away using the ServiceNow Agent application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/manage-hardware-asset-put-away-ham-mobile-agent.md)
 
-## Related
-
-- [[ham-landing-page|Hardware Asset Management]]
-- [[using-ham-workspace|Hardware Asset Workspace]]

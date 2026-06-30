@@ -14,7 +14,7 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 # Configure Service Portal Widgets Table Allow List
 
-Learn how the **glide.service\_portal.widget.table\_allow\_list** property enhances security by listing tables accessible to unauthenticated [[users|users]] through Service Portal widgets, dependent on additional checks and specific glide property settings.
+Learn how the **glide.service\_portal.widget.table\_allow\_list** property enhances security by listing tables accessible to unauthenticated users through Service Portal widgets, dependent on additional checks and specific glide property settings.
 
 The **glide.service\_portal.widget.table\_allow\_list** property contains the list of tables allowed to be accessed by unauthenticated users through Service Portal widgets that make use of the additional security checks provided in the SNCACLWidgetUtil script include. This property is only enforced if the Glide Property The **glide.service\_portal.widget.table\_allow\_list** property is **true**. There may be unauthenticated information disclosure if unnecessary tables are listed in this property. Table ACLs will still be evaluated as previously occurred.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -115,8 +115,3 @@ The **glide.service\_portal.widget.enforce\_public\_check** property must be set
 </td></tr></tbody>
 </table>**Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

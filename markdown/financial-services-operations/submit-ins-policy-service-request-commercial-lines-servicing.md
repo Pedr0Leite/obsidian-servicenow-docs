@@ -18,9 +18,9 @@ Help your customers by submitting a policy service request for them.
 
 Role required: sn\_ins\_policy\_b2b.contributor
 
-**Note:** The applicable universal contributor role can also be assigned to create a case. For more information, see [[fso-core-roles|User roles and FSO Business rules]].
+**Note:** The applicable universal contributor role can also be assigned to create a case. For more information, see [User roles and FSO Business rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-core-roles.md).
 
-**Important:** For the contributor role to work, it must be combined with one of the CSM Contributor users roles. For more information, see [[fso-combine-csm-industry-roles|Roles and Personas]].
+**Important:** For the contributor role to work, it must be combined with one of the CSM Contributor users roles. For more information, see [Roles and Personas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-combine-csm-industry-roles.md).
 
 ## About this task
 
@@ -32,7 +32,7 @@ Customers can submit policy service requests from the Consumer Service Portal or
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -91,11 +91,5 @@ Based on the request type, a policy service case is created in the New state. Th
 -   Click **View Details** to open the policy service case and view its details. You can also add additional information in the **Comments** field that can help the policy processor in resolving the case.
 -   A policy processor can start working on the case and its tasks.
 
-**Parent Topic:**[[using-financial-services-commercial-lines-servicing|Using Commercial Lines Servicing]]
+**Parent Topic:**[Using Commercial Lines Servicing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/using-financial-services-commercial-lines-servicing.md)
 
-## Related
-
-- [[fso-core-roles|User roles and FSO Business rules]]
-- [[fso-combine-csm-industry-roles|Using agent connector and contributor roles in Financial Services Operations]]
-- [[using-financial-services-commercial-lines-servicing|Using Commercial Lines Servicing]]
-- [[fso-overview|Financial Services]]

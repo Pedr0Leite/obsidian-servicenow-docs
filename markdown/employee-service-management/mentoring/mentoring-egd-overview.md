@@ -58,7 +58,7 @@ Employees, both mentees and mentors can view the match insights based on the mat
 
 </td><td>
 
-[Reference\[Omitted image "bus-documentation.svg"\] Alt text:Get details about components like fields and properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/mentoring/mentoring-egd-[[reference-hr-service-delivery-advanced-integration-with-workday|reference]].md)
+[Reference\[Omitted image "bus-documentation.svg"\] Alt text:Get details about components like fields and properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/mentoring/mentoring-egd-reference.md)
 
 </td></tr></tbody>
 </table>## Additional resources
@@ -66,9 +66,5 @@ Employees, both mentees and mentors can view the match insights based on the mat
 -   Log in to your ServiceNow® account and find additional information about implementing and deploying Mentoring features at [Employee Service Management](https://mynow.servicenow.com/now/best-practices/collections/employee-service-management-best-practices).
 -   Access real-time courses, self-paced training, and career resources at [ServiceNow University](https://learning.servicenow.com/lxp/en/pages/servicenow)
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
--   Connect with other [[employee-service-management-overview|Employee Service Management]] users at [Now Community](https://www.servicenow.com/community/).
+-   Connect with other Employee Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[employee-service-management-overview|Employee Service Management]]

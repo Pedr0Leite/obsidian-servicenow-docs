@@ -14,7 +14,7 @@ breadcrumb: [Use, Compliance Case Management, Governance, Risk, and Compliance]
 
 # Add an impacted area to a compliance case
 
-Add an impacted area or object that is affected by the compliance case or event in the GRC: [[compliance-case-management|Compliance Case Management]] application.
+Add an impacted area or object that is affected by the compliance case or event in the GRC: Compliance Case Management application.
 
 ## Before you begin
 
@@ -55,6 +55,3 @@ You can specify the impacted areas or objects, such as the entities, controls, c
 
 **Parent Topic:**[Using Compliance Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/use-compliance-case-management.md)
 
-## Related
-
-- [[compliance-case-management|compliance case management]]

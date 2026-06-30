@@ -30,7 +30,7 @@ Role required: user
 
     The saved view icon changes to a filled status \(\[Omitted image "saved-view-full.png"\] Alt text: Saved view selected icon.\) indicating that the page is bookmarked and available in the Saved items list.
 
-4.  Tap the Saved icon \(\[Omitted image "saved-view-saved.png"\] Alt text: Saved icon.\) in the [[sg-mobile-tab-bar|navigation bar]] to access all your saved views from the Saved items list.
+4.  Tap the Saved icon \(\[Omitted image "saved-view-saved.png"\] Alt text: Saved icon.\) in the navigation bar to access all your saved views from the Saved items list.
 
 5.  Deselect a saved view either from a bookmarked screen or from the Saved items list.
 
@@ -77,6 +77,4 @@ The saved view is no longer listed in the Saved items list and the page is no lo
 
     3.  From the saved items menu, select how to display your saved views, for example, alphabetically or most recent to least recent.
 
-## Related
 
-- [[sg-mobile-tab-bar|Navigation bar]]

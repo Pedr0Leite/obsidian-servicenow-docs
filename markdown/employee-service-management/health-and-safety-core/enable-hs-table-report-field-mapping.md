@@ -14,11 +14,11 @@ breadcrumb: [Configure, Health and Safety Core, Health and Safety, Employee Serv
 
 # Enable a Health and Safety table for configuring report field mapping
 
-Enable a [[health-safety-overview|Health and Safety]] table for report field mapping. You can then configure its mapping with your reporting PDF template, enabling safety agents to generate reports for records in this table.
+Enable a Health and Safety table for report field mapping. You can then configure its mapping with your reporting PDF template, enabling safety agents to generate reports for records in this table.
 
 ## Before you begin
 
-Verify that the application scope is selected as [[hs-core-landing|Health and Safety Core]]. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
+Verify that the application scope is selected as Health and Safety Core. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
 
 Role required: sn\_ohs\_im.admin
 
@@ -64,7 +64,3 @@ To generate a report for this table's records, you must configure its report fie
 
 [Migrate existing safety documents to the Document library]()
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[hs-core-landing|Health and Safety Core]]

@@ -14,7 +14,7 @@ breadcrumb: [Reference, Recruitment Workspace, Hiring Experiences, HR Service De
 
 # Job requisition form
 
-Use the form to request a job opening in your organization, as a [[hiring-tab-concept|hiring]] manager or recruiter.
+Use the form to request a job opening in your organization, as a hiring manager or recruiter.
 
 |Field|Description|
 |-----|-----------|
@@ -55,6 +55,3 @@ Use the form to request a job opening in your organization, as a [[hiring-tab-co
 
 **Parent Topic:**[Recruitment Workspace reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/recruitment-workspace-reference.md)
 
-## Related
-
-- [[hiring-tab-concept|Hiring]]

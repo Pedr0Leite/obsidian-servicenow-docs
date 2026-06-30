@@ -14,7 +14,7 @@ breadcrumb: [Reference, Legal Hold Notification, Legal Service Delivery Practice
 
 # Legal hold notification matter intake form
 
-Use the [[lg-hold-notif-landing-page|Legal hold notification]] intake form to submit the legal hold notification matter.
+Use the Legal hold notification intake form to submit the legal hold notification matter.
 
 <table id="table_isy_y2n_qfc"><thead><tr><th>
 
@@ -111,6 +111,3 @@ Enables the attachment of documents related to the legal hold.
 </td></tr></tbody>
 </table>**Parent Topic:**[Legal Hold Notification reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/lg-hold-notif-ref.md)
 
-## Related
-
-- [[lg-hold-notif-landing-page|Legal Hold Notification]]

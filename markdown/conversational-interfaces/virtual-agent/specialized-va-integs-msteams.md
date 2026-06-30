@@ -21,9 +21,9 @@ The specialized Virtual Agent integrations for Microsoft Teams support different
 -   If both your environments are `.us`, follow the GCC-H or DoD based instructions.
 
 -   **[Integrating multiple ServiceNow instances with a single Microsoft Teams tenant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-integ-single-teams.md)**  
-Enables ServiceNow® [[virtual-agent-landing-page|Virtual Agent]] to allow multiple ServiceNow instances to integrate with single Microsoft Teams tenant.
+Enables ServiceNow® Virtual Agent to allow multiple ServiceNow instances to integrate with single Microsoft Teams tenant.
 -   **[Integrating Virtual Agent with Microsoft Teams using the self-configured bot](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-integ-teams-self-configured-bot.md)**  
-You can [[va-integ-msteams|integrate Virtual Agent with Microsoft Teams]] by configuring your own bots. The self-configured method provides another way for customers to enable the integration without installing the default Now Virtual Agent app that is published on the Microsoft Store. Unlike the pre-published app, the self-configured bot bypasses the collaboration proxy architecture.
+You can integrate Virtual Agent with Microsoft Teams by configuring your own bots. The self-configured method provides another way for customers to enable the integration without installing the default Now Virtual Agent app that is published on the Microsoft Store. Unlike the pre-published app, the self-configured bot bypasses the collaboration proxy architecture.
 -   **[Integrating Virtual Agent with Microsoft Teams for GCC-H or DoD](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-integ-msteams-gcch.md)**  
 You can integrate Virtual Agent with Microsoft Teams for GCC-H \(Government Community Cloud - High\) or DoD \(Department of Defense\)customers by configuring your own bots. The self-configured method provides another way for customers to enable the integration without installing the default Now Virtual Agent app that is published on the Microsoft Store. The self-configured bot bypasses the collaboration proxy architecture.
 -   **[Deactivate streaming for all GCC customers in Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/deactivate-streaming-gcc.md)**  
@@ -31,12 +31,7 @@ Control streaming in Microsoft Teams for any and all Government Community Cloud 
 -   **[Create and integrate a self-configured bot for a single tenant page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-single-tenant-bot-msteams.md)**  
 Create a self-configured single tenant bot with Microsoft Teams for integration with Virtual Agent.
 -   **[Enable Microsoft Teams integration in ServiceNow Protected Platform \(SPP\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/enable-msteams-integ-spp.md)**  
-When installing [[teams-conv-integration|Conversational Integration with Microsoft Teams]], the ServiceNow AI Platform® makes the instance configuration simpler by dynamically determining the bot type for commercial and SPP \(ServiceNow Protected Platform\) environments from the Tokyo release.
+When installing Conversational Integration with Microsoft Teams, the ServiceNow AI Platform® makes the instance configuration simpler by dynamically determining the bot type for commercial and SPP \(ServiceNow Protected Platform\) environments from the Tokyo release.
 
 **Parent Topic:**[Integrate Virtual Agent with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-integ-msteams.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[va-integ-msteams|Integrate Virtual Agent with Microsoft Teams]]
-- [[teams-conv-integration|Conversational Integration with Microsoft Teams]]

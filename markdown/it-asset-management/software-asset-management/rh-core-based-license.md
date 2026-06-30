@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Management for Red Hat Enterprise Linux, Software As
 
 # Red Hat Enterprise Linux core-based licensing
 
-The [[ibm-publisher-pack|Software Asset Management publisher pack for IBM]] supports core-based licensing rules for RHEL products in both physical and virtual environments.
+The Software Asset Management publisher pack for IBM supports core-based licensing rules for RHEL products in both physical and virtual environments.
 
 ## Overview of the Per Core licensing model
 
@@ -85,6 +85,3 @@ Licensing is based on the number of physical cores on which the RHEL core-based 
 </td></tr></tbody>
 </table>**Parent Topic:**[Software Asset Management for Red Hat Enterprise Linux](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/rhel-publisher-pack.md)
 
-## Related
-
-- [[ibm-publisher-pack|Software Asset Management publisher pack for IBM]]

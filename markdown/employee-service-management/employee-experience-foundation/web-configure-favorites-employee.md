@@ -32,7 +32,7 @@ You can see the favorites icon \[Omitted image "myfav-no-selection.jpg"\] Alt te
 -   Cloned catalog page
 -   My applications page
 -   My applications widget
--   [[rfy-ec|Recommended for you]] widget
+-   Recommended for you widget
 
 You can add the frequently used content to your favorites list. Click the favorite icon, and the icon color changes. Click the heart icon again remove the item from your favorites.
 
@@ -65,7 +65,7 @@ You can add the frequently used content to your favorites list. Click the favori
 **Related topics**  
 
 
-[Use the [[employee-center-landing-page|Employee Center]] topic pages]()
+[Use the Employee Center topic pages]()
 
 [Topic managers and contributors for topic page management]()
 
@@ -95,7 +95,3 @@ You can add the frequently used content to your favorites list. Click the favori
 
 [Use Guided Self-Service]()
 
-## Related
-
-- [[rfy-ec|Recommended for you]]
-- [[employee-center-landing-page|Employee Center]]

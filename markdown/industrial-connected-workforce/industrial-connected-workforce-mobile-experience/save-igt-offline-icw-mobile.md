@@ -28,7 +28,7 @@ As an operator, you may need to execute Industrial Guided Tasks in areas with li
 
 ## Procedure
 
-1.  Open the Industrial Guided Task that you are executing on the [[icw-mobile-exp-landing-page|Industrial Connected Workforce Mobile Experience]].
+1.  Open the Industrial Guided Task that you are executing on the Industrial Connected Workforce Mobile Experience.
 
 2.  Complete or partially complete the steps in the guided task:
 
@@ -47,6 +47,3 @@ Your IGT progress is saved to the outbox on your device. A confirmation is displ
 
 **Parent Topic:**[Using the Industrial Connected Workforce Mobile Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/using-icw-mobile-experience.md)
 
-## Related
-
-- [[icw-mobile-exp-landing-page|Industrial Connected Workforce Mobile Experience]]

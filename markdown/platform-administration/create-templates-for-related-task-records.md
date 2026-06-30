@@ -26,12 +26,12 @@ Administrators must understand the parent-child relationships between Task table
 
 ## Procedure
 
-1.  From the parent Task table template, [[configure-form-layout|configure the form layout]] to add these fields.
+1.  From the parent Task table template, [configure the form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md) to add these fields.
 
     -   **Next Related Child Template**
     -   **Next Related Template**
     -   **Link element**
-2.  [[t_CreateATemplateUsingTheTmplForm|Create a template]] for the parent Task table.
+2.  [Create a template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateATemplateUsingTheTmplForm.md) for the parent Task table.
 
     For example, create this template for the Change table.
 
@@ -206,9 +206,9 @@ Change request
 
 ## What to do next
 
-[[t_CreateAModuleForATemplate|Create a module]] for the parent Task table template so that child templates can be applied to related task records. For example, create a module for **Add server to network**.
+[Create a module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAModuleForATemplate.md) for the parent Task table template so that child templates can be applied to related task records. For example, create a module for **Add server to network**.
 
-**Parent Topic:**[[c_Templates|Using form templates]]
+**Parent Topic:**[Using form templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_Templates.md)
 
 **Related topics**  
 
@@ -227,9 +227,3 @@ Change request
 
 [Scripted templates]()
 
-## Related
-
-- [[configure-form-layout|Configuring the form layout]]
-- [[t_CreateATemplateUsingTheTmplForm|Create a template using the Template form]]
-- [[t_CreateAModuleForATemplate|Create a module for a template]]
-- [[c_Templates|Using form templates]]

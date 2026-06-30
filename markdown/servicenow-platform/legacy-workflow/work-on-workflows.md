@@ -14,7 +14,7 @@ breadcrumb: [Workflow management, Classic Workflow, ServiceNow AI Platform Addit
 
 # Work on workflows
 
-To complete a workflow, you add [[c_WorkflowActivities|workflow activities]], validate the workflow, and publish it.
+To complete a workflow, you add workflow activities, validate the workflow, and publish it.
 
 ## Before you begin
 
@@ -49,7 +49,7 @@ For more information, see [Workflow activities](https://raw.githubusercontent.co
 
 ## Validate a workflow
 
-You can manually validate a workflow from the [[workflow-editor|Workflow Editor]]. You can generate a [[c_WorkflowValidation|workflow validation]] report from the Workflow Version form.
+You can manually validate a workflow from the Workflow Editor. You can generate a workflow validation report from the Workflow Version form.
 
 ### Before you begin
 
@@ -63,7 +63,7 @@ Running a workflow on a new node automatically attempts to validate the workflow
 
 1.  Open the workflow to validate in the Workflow Editor.
 
-    When the workflow is loaded, the [[r_WorkflowValidator|workflow validator]] icon appears in the toolbar.
+    When the workflow is loaded, the workflow validator icon appears in the toolbar.
 
     \[Omitted image "ItsaHelp.png"\] Alt text: Workflow validator
 
@@ -73,7 +73,7 @@ Running a workflow on a new node automatically attempts to validate the workflow
 
 3.  Complete the following steps to generate a workflow validation report from the Workflow Version form
 
-    1.  Navigate to **Workflow** &gt; **Administration** &gt; **[[c_WorkflowVersions|Workflow Versions]]**, and select a workflow to validate.
+    1.  Navigate to **Workflow** &gt; **Administration** &gt; **Workflow Versions**, and select a workflow to validate.
 
     2.  Under **Related Links**, click **Validate Workflow**.
 
@@ -183,7 +183,7 @@ Role required: snc\_required\_script\_writer and admin
 
 4.  Navigate to **Workflow** &gt; **Workflow Editor**.
 
-5.  [[t_CreateAWorkflow|Create a workflow]] in the Workflow Editor.
+5.  Create a workflow in the Workflow Editor.
 
     For more details, see [Create a workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/t_CreateAWorkflow.md).
 
@@ -232,11 +232,3 @@ Role required: snc\_required\_script\_writer and admin
 
 A new workflow record is created in the selected application scope and marked as private if designated as one in the Workflow Editor.
 
-## Related
-
-- [[c_WorkflowActivities|Workflow activities]]
-- [[workflow-editor|Workflow editor]]
-- [[c_WorkflowValidation|Workflow validation]]
-- [[r_WorkflowValidator|Workflow validator]]
-- [[c_WorkflowVersions|Workflow versions]]
-- [[t_CreateAWorkflow|Create a workflow]]

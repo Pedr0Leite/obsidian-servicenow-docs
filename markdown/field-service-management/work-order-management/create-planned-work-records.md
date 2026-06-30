@@ -28,7 +28,7 @@ The planned work records are used by the Planned Maintenance Nightly Run schedul
 
 Apply a work plan to the matching records and schedules to create planned work records. If multiple schedules are defined for a work plan, they all take effect on the matching records while creating planned work records. This same functionality exists for the work schedules that are used to apply the specific schedule to the matching records in the associated work plan.
 
-You can also create planned work records through the [[planned-work-management|Planned Work Management]] Workspace. Navigate to **All** &gt; **Planned Work Management** &gt; **Workspace**, and then select the List icon \(\[Omitted image "ListIcon.png"\] Alt text: List icon.\).
+You can also create planned work records through the Planned Work Management Workspace. Navigate to **All** &gt; **Planned Work Management** &gt; **Workspace**, and then select the List icon \(\[Omitted image "ListIcon.png"\] Alt text: List icon.\).
 
 ## Procedure
 
@@ -72,6 +72,3 @@ Do this
 
 The configured work schedule is applied to the matching records of that plan and generates a list of planned work records.
 
-## Related
-
-- [[planned-work-management|Planned Work Management]]

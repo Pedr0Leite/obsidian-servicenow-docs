@@ -12,7 +12,7 @@ breadcrumb: [Overview of Instance Observer metrics, Instance Observer reference,
 
 # Database performance metrics
 
-The metrics provide the database [[instance-observer-performance|performance]] snapshot within the ServiceNow AI Platform®.
+The metrics provide the database performance snapshot within the ServiceNow AI Platform®.
 
 ## SQL Response Time
 
@@ -20,7 +20,7 @@ Reported mean of database response time. This is measured at the application lay
 
 Since this is measured at the application layer, it is therefore inclusive of time spent on the network between application server and database server as well as being susceptible to misleading increases during periods of application layer resource contention \(for example, CPU or JVM memory shortages\).
 
-Most database queries in ServiceNow are extremely fast \(a few milliseconds or less\). When interpreting the mean SQL response time metric this is very important to understand because individual slow queries, that typically cause most ServiceNow performance issues, will likely not have an [[impact-landing-page|impact]] on this graph. Conversely, things that do have an impact on this graph are very not likely to signify actual business impacting issues — particularly things that cause it to jump for very short periods of time or things that cause it to grow slowly over time.
+Most database queries in ServiceNow are extremely fast \(a few milliseconds or less\). When interpreting the mean SQL response time metric this is very important to understand because individual slow queries, that typically cause most ServiceNow performance issues, will likely not have an impact on this graph. Conversely, things that do have an impact on this graph are very not likely to signify actual business impacting issues — particularly things that cause it to jump for very short periods of time or things that cause it to grow slowly over time.
 
 If the SQL response time quickly jumps up multiple times its normal rate and stays elevated for more than 15 minutes this might correlate to a service impacting issue, but must be validated with a primary performance indicator for further troubleshooting.
 
@@ -56,7 +56,7 @@ This metric represents the max time taken by slow queries. Slow queries refer to
 
 This metric represents the duration InnoDB waits to acquire a row lock before timing out, specified in seconds. Adjusting it affects concurrency and performance in database transactions.
 
-**Parent Topic:**[[instance-observer-ovr-metric|Overview of Instance Observer metrics]]
+**Parent Topic:**[Overview of Instance Observer metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/instance-observer-ovr-metric.md)
 
 **Related topics**  
 
@@ -65,7 +65,7 @@ This metric represents the duration InnoDB waits to acquire a row lock before ti
 
 [Anomaly insights]()
 
-[Feature [[io-availability|availability]] based on package]()
+[Feature availability based on package]()
 
 [Auriga Intelligent Alert report]()
 
@@ -101,9 +101,3 @@ This metric represents the duration InnoDB waits to acquire a row lock before ti
 
 [Instance Data Replication]()
 
-## Related
-
-- [[instance-observer-ovr-metric|Overview of Instance Observer metrics]]
-- [[instance-observer-performance|Performance]]
-- [[impact-landing-page|Impact]]
-- [[io-availability|Availability]]

@@ -26,7 +26,7 @@ This agent reviews past disputes with similar transaction values to recommend an
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[fso-overview|Financial Services]] Workspace** and open a card dispute.
+1.  Navigate to **Workspaces** &gt; **Financial Services Workspace** and open a card dispute.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -75,6 +75,3 @@ Based on the response from the dispute agent, the **Final action** field is upda
 
 **Parent Topic:**[Resolve ACH disputes with AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/resolve-ach-disputes-with-ai-agents.md)
 
-## Related
-
-- [[fso-overview|Financial Services]]

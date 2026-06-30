@@ -14,7 +14,7 @@ breadcrumb: [Microsoft outlook add-in for Legal Service Delivery, Microsoft Outl
 
 # Components installed with Microsoft Outlook Add-In for Legal Service Delivery
 
-Several types of components are installed with activation of the [[lsd-outlook-addin-landing|Microsoft Outlook Add-In for Legal Service Delivery]] application, including user roles.
+Several types of components are installed with activation of the Microsoft Outlook Add-In for Legal Service Delivery application, including user roles.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -47,6 +47,3 @@ sn\_outlook\_addin.outlook\_addin\_setup
 </td></tr></tbody>
 </table>**Parent Topic:**[Microsoft Outlook Add-In for Legal Service Delivery reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-outlook-addin-refrence.md)
 
-## Related
-
-- [[lsd-outlook-addin-landing|Microsoft Outlook Add-In for Legal Service Delivery]]

@@ -14,7 +14,7 @@ breadcrumb: [Performing tests and updating the test status, Test Management 1.0,
 
 # Perform tests using the Test Case form
 
-Perform [[c_Tests|tests]] from an assigned test case and record results using the Test Case form.
+Perform tests from an assigned test case and record results using the Test Case form.
 
 ## Before you begin
 
@@ -22,9 +22,9 @@ Role required: tm\_tester
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Test Management** &gt; **Test Execution** &gt; **[[c_TestPlans|Test Plans]]**.
+1.  Navigate to **All** &gt; **Test Management** &gt; **Test Execution** &gt; **Test Plans**.
 
-2.  Click the assigned test case in the **[[c_TestCases|Test Cases]]** related list.
+2.  Click the assigned test case in the **Test Cases** related list.
 
 3.  Set the **Execution Status** field on the Test Case form to **In progress** and click **Save**.
 
@@ -56,8 +56,3 @@ Role required: tm\_tester
 
 **Parent Topic:**[Performing tests and updating the test status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/c_Tester.md)
 
-## Related
-
-- [[c_Tests|Tests]]
-- [[c_TestPlans|Test plans]]
-- [[c_TestCases|Test cases]]

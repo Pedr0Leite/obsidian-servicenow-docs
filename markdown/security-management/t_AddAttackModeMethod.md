@@ -20,7 +20,7 @@ Role required: sn\_ti.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[threat-intel-landing-page|Threat Intelligence]]** &gt; **[[ioc-repository|IoC Repository]]** &gt; **Attack Mode/Method**.
+1.  Navigate to **All** &gt; **Threat Intelligence** &gt; **IoC Repository** &gt; **Attack Mode/Method**.
 
 2.  Click **New**.
 
@@ -40,7 +40,7 @@ Select classification tag
 
 </td><td>
 
-If you set up and activated [[create-class-group-and-tags|classification tags]] to add metadata to the record, you can select one or more tags to specify the degree of sensitivity of the attack mode/method. If you did not set up or activate classification tags, this drop-down list is not displayed.
+If you set up and activated [classification tags](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/create-class-group-and-tags.md) to add metadata to the record, you can select one or more tags to specify the degree of sensitivity of the attack mode/method. If you did not set up or activate classification tags, this drop-down list is not displayed.
 
 </td></tr><tr><td>
 
@@ -52,7 +52,7 @@ Enter a descriptive name for this attack mode/method.
 
 </td></tr><tr><td>
 
-[[threat-intelligence-malware|Malware]] Type
+Malware Type
 
 </td><td>
 
@@ -64,7 +64,7 @@ Source
 
 </td><td>
 
-Select the threat data source for this attack mode/method. Some [[data-sources|data sources]] are included with the base system. You can [[c_GetStartedWithThreatIntel|create new data sources]] as needed.
+Select the threat data source for this attack mode/method. Some data sources are included with the base system. You can [create new data sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/c_GetStartedWithThreatIntel.md) as needed.
 
 </td></tr><tr><td>
 
@@ -92,7 +92,7 @@ This date is retrieved from the vendor server as STIX data.
 
 </td></tr><tr><td>
 
-[[threat-actor|Threat Actor]] Type
+Threat Actor Type
 
 </td><td>
 
@@ -129,12 +129,12 @@ Enter the intended effect of this type of attack.
 
     |Related List|Description|
     |------------|-----------|
-    |Related Indicators|Lists related [[c_IoCs|Indicators of Compromise]] \(IoC\) that have been identified by the threat source.|
+    |Related Indicators|Lists related Indicators of Compromise \(IoC\) that have been identified by the threat source.|
     |Child Attack mode/method|Lists attack modes/methods that are children of the parent attack mode/method.|
     |Associated Tasks|Lists changes associated with the parent attack mode/method.|
 
 
-**Parent Topic:**[[c_AttackModeMethod|Attack modes and methods]]
+**Parent Topic:**[Attack modes and methods](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/c_AttackModeMethod.md)
 
 **Related topics**  
 
@@ -145,14 +145,3 @@ Enter the intended effect of this type of attack.
 
 [Add associated task to an attack mode/method]()
 
-## Related
-
-- [[create-class-group-and-tags|Set up security tag groups and tags]]
-- [[c_GetStartedWithThreatIntel|Set up Threat Intelligence]]
-- [[c_AttackModeMethod|Attack modes and methods]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[ioc-repository|IoC Repository]]
-- [[threat-intelligence-malware|Malware]]
-- [[data-sources|Data Sources]]
-- [[threat-actor|Threat Actor]]
-- [[c_IoCs|Indicators of compromise]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, Process Mining, Platform Analytics]
 
 # Access control
 
-When generating or sharing a project, [[process-mining|Process Mining]] honors the access control rules \(ACLs\) for the table.
+When generating or sharing a project, Process Mining honors the access control rules \(ACLs\) for the table.
 
 When generating a project, Process Mining honors the ACLs on the table that a project reports on, and ignores ACLs on the audit table.
 
@@ -23,14 +23,10 @@ When sharing a project:
 -   All visible data in Analyst workbench is visible to any user who has access to the project.
 -   All mining operations are performed as per the project creator's \[sys\_created\_by\] access. This includes mining performed by roles with higher permission levels, which can result in less data being mined.
 
-[[summary-insights-dashboard|Summary and insights page]]:
+Summary and insights page:
 
 -   KPIs are visible to any user who has the required permission to access related KPIs.
 -   Insights are visible to any user who has access to the project.
 
 **Parent Topic:**[Configuring Process Mining](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/setting-up-process-mining.md)
 
-## Related
-
-- [[process-mining|Process Mining]]
-- [[summary-insights-dashboard|Summary and insights page]]

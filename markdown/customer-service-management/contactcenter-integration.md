@@ -12,7 +12,7 @@ breadcrumb: [Integrate, Customer Service Management]
 
 # Integrating with contact centers
 
-Integrate your contact center platform with the ServiceNow [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) application to unify customer service teams through a single user interface. This integration centralizes routing across departments and channels, and optimizes workforce engagement for more personalized customer experiences and simplified employee experiences.
+Integrate your contact center platform with the ServiceNow Customer Service Management \(CSM\) application to unify customer service teams through a single user interface. This integration centralizes routing across departments and channels, and optimizes workforce engagement for more personalized customer experiences and simplified employee experiences.
 
 ## Contact center integration overview
 
@@ -22,7 +22,7 @@ Additionally, the agent presence state must match between the ServiceNow workspa
 
 Review the following architecture diagram for more insight on the contact center integration flow with ServiceNow.
 
-See [[cti-csm-integration|Integrating with Computer Telephony Integration \(CTI\)]].
+See [Integrating with Computer Telephony Integration \(CTI\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/cti-csm-integration.md).
 
 \[Omitted image "contact-center-integration-flow.png"\] Alt text: Contact center integration with ServiceNow architecture
 
@@ -66,7 +66,3 @@ Agents using the integration can do the following:
 -   Transfer to a queue​
 -   Cancel a transfer to another agent
 
-## Related
-
-- [[cti-csm-integration|Integrating with Computer Telephony Integration \(CTI\)]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

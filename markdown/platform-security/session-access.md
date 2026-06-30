@@ -18,32 +18,25 @@ Zero Trust Access \(ZTA\) is a security model that assumes no user or device is 
 
 [Explore\[Omitted image "bus-explore.svg"\] Alt text: Explore](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/explore-zero-trust-access.md)
 
- [[explore-zero-trust-access|Learn the features and business value of Zero Trust Access.]]
+ [Learn the features and business value of Zero Trust Access.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/explore-zero-trust-access.md)
 
 </td><td>
 
 [Activate\[Omitted image "bus-optimize-manage.svg"\] Alt text:](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/activate-session-access.md)
 
- [[activate-session-access|Understand how to Activate Zero Trust Access.]]
+ [Understand how to Activate Zero Trust Access.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/activate-session-access.md)
 
 </td></tr><tr><td>
 
 [Configure\[Omitted image "bus-sdlc.svg"\] Alt text:](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/configure-session-access-role.md)
 
- [[configure-session-access-role|Configure Zero Trust Access.]]
+ [Configure Zero Trust Access.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/configure-session-access-role.md)
 
 </td><td>
 
 [Reference - Properties\[Omitted image "bus-learn.svg"\] Alt text:](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/session-access-system-properties.md)
 
- [[session-access-system-properties|Know about the properties in Zero Trust Access.]]
+ [Know about the properties in Zero Trust Access.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/session-access-system-properties.md)
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[explore-zero-trust-access|Explore Zero Trust Access]]
-- [[activate-session-access|Activating Zero Trust Access]]
-- [[configure-session-access-role|Configuring Session Access role]]
-- [[session-access-system-properties|Zero Trust Access system properties]]

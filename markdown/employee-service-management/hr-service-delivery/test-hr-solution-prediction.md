@@ -24,9 +24,9 @@ Role required: sn\_hr\_core.admin or sn\_hr\_core.case\_reader
 
 1.  Send an email to the general email address for HR requests.
 
-    **Note:** To verify the general email address for HR requests, navigate to **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **Properties**, and view the **General email address for HR requests** property.
+    **Note:** To verify the general email address for HR requests, navigate to **HR Administration** &gt; **Properties**, and view the **General email address for HR requests** property.
 
-2.  Navigate to **HR [[case-management-workspace|Case Management]]** &gt; **All HR Cases**, and open one of the modules, such as **Assigned to me** or **Open**.
+2.  Navigate to **HR Case Management** &gt; **All HR Cases**, and open one of the modules, such as **Assigned to me** or **Open**.
 
 3.  Open the applicable record.
 
@@ -37,7 +37,3 @@ Role required: sn\_hr\_core.admin or sn\_hr\_core.case\_reader
 
 If you need to retrain and review your predictive model, see [Create and train a solution definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/create-solution-definition.md) and [Review classification solution statistics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/review-solution-statistics.md).
 
-## Related
-
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[case-management-workspace|Case management]]

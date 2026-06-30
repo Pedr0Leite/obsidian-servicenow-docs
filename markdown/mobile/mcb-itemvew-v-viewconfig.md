@@ -12,7 +12,7 @@ breadcrumb: [Mobile Card Builder, Building tools, Building mobile apps, Mobile P
 
 # Understanding mobile cards and legacy cards
 
-Learn the differences between cards and legacy cards, and how to work with each type in [[mobile-card-builder|Mobile Card Builder]].
+Learn the differences between cards and legacy cards, and how to work with each type in Mobile Card Builder.
 
 -   **View configuration-based cards**
 
@@ -29,18 +29,18 @@ Cards take advantage of templates to make creating your mobile cards faster and 
 
 -   **Editing card templates**
 
-    Card templates define the layout of the fields on your mobile card, as well as any display properties that affect how your card looks. To change the look or appearance of your card, you must edit its template rather than the card itself. The options to add or remove elements and select containers are not available when editing cards. For detail on templates, see [[mcb-create-template|Create a card template with Mobile Card Builder]].
+    Card templates define the layout of the fields on your mobile card, as well as any display properties that affect how your card looks. To change the look or appearance of your card, you must edit its template rather than the card itself. The options to add or remove elements and select containers are not available when editing cards. For detail on templates, see [Create a card template with Mobile Card Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mcb-create-template.md).
 
 -   **Editing cards**
 
-    After you have assigned a template to your card, you can edit the card in Mobile Card Builder. Here you define what information to display in the fields laid out in your selected template. For detail on this process, see [[mcb-assign-fields|Assign field values to your mobile card]].
+    After you have assigned a template to your card, you can edit the card in Mobile Card Builder. Here you define what information to display in the fields laid out in your selected template. For detail on this process, see [Assign field values to your mobile card](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mcb-assign-fields.md).
 
 
 .
 
 ## Editing legacy cards
 
-Legacy cards can be edited as described in [[mcb-stage-ui|Mobile Card Builder user interface]], with the following exceptions:
+Legacy cards can be edited as described in [Mobile Card Builder user interface](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mcb-stage-ui.md), with the following exceptions:
 
 -   **Templates are not available**
 
@@ -53,9 +53,3 @@ Legacy cards can be edited as described in [[mcb-stage-ui|Mobile Card Builder us
 
 Legacy cards do not have a separate template to modify. You are able to modify containers, add or remove fields, and make other changes to the card appearance directly in the mobile card rather than in a separate template record.
 
-## Related
-
-- [[mcb-create-template|Create a card template with Mobile Card Builder]]
-- [[mcb-assign-fields|Assign field values to your mobile card]]
-- [[mcb-stage-ui|Mobile Card Builder user interface]]
-- [[mobile-card-builder|Mobile Card Builder]]

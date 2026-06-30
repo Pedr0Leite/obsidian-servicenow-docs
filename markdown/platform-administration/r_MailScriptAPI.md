@@ -14,7 +14,7 @@ breadcrumb: [Scripting for email notifications, Create an email notification, Em
 
 Certain variables are available when processing mail\_script scripts.
 
-For examples of mail scripts, see [[r_ExScptEmlNtfn|Example scripting for email notifications]].
+For examples of mail scripts, see [Example scripting for email notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_ExScptEmlNtfn.md).
 
 <table id="table_psj_g1q_rq"><thead><tr><th>
 
@@ -73,7 +73,7 @@ The email address that is passed by `setFrom` and `setReplyTo` needs to be in a 
  For more information, see [GlideEmailOutbound - Scoped](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/c_GlideEmailOutboundScopedAPI.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[c_ScriptingForEmailNotifications|Scripting for email notifications]]
+</table>**Parent Topic:**[Scripting for email notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ScriptingForEmailNotifications.md)
 
 **Related topics**  
 
@@ -84,7 +84,3 @@ The email address that is passed by `setFrom` and `setReplyTo` needs to be in a 
 
 [Useful attachment scripts]()
 
-## Related
-
-- [[r_ExScptEmlNtfn|Example scripting for email notifications]]
-- [[c_ScriptingForEmailNotifications|Scripting for email notifications]]

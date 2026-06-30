@@ -24,7 +24,7 @@ Role required: sn\_wsd\_case.admin or sn\_wsd\_case.manager
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workplace-central-feat|Workplace Central]]** &gt; **[[case-management-workspace|Case Management]]**.
+1.  Navigate to **Workspaces** &gt; **Workplace Central** &gt; **Case Management**.
 
 2.  Select **Create Smart Assessments**.
 
@@ -36,7 +36,7 @@ Role required: sn\_wsd\_case.admin or sn\_wsd\_case.manager
     |-----|-----------|
     |Template name|Name of the template. If you want to add a separate assessment name, select the \[Omitted image "new\_assessment\_temp.png"\] Alt text: icon and add a name for the assessment.|
     |Description|Description of the template.|
-    |Purpose|The assessment template category for the new template. For example, [[workplace-services|Workplace services]].|
+    |Purpose|The assessment template category for the new template. For example, Workplace services.|
     |Assessment targets|Select the table that assessments will access. For example, Workplace case \[sn\_wsd\_case\_workplace\_case\]. Select only one table from the list.|
 
 5.  Select **Create**.
@@ -63,7 +63,7 @@ Role required: sn\_wsd\_case.admin or sn\_wsd\_case.manager
         -   Select **Save**.
         \[Omitted image "wsd-input-types.png"\] Alt text:
 
-    4.  Select **+ Add assessment [[reference-hr-service-delivery-advanced-integration-with-workday|reference]]** and Add reference data to appear the card details under the Smart Assessments tab in a workplace case.
+    4.  Select **+ Add assessment reference** and Add reference data to appear the card details under the Smart Assessments tab in a workplace case.
 
         -   In the **Card description** field, provide a description for the assessment reference card.
         -   Select the required columns and select **Add**.
@@ -76,9 +76,3 @@ Role required: sn\_wsd\_case.admin or sn\_wsd\_case.manager
 
 **Parent Topic:**[Smart Assessment for Workplace Case and Task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/smart-assessment-for-workplace-case-and-task.md)
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]
-- [[case-management-workspace|Case management]]
-- [[workplace-services|Workplace Services]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

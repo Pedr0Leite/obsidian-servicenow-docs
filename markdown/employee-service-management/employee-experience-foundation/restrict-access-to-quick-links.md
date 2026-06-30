@@ -14,7 +14,7 @@ breadcrumb: [Create a quick link, Quick links, Setup Employee Center browse expe
 
 # Restrict access to a quick link
 
-Restrict access to [[emp-center-quick-link-config|quick links]] by setting the user criteria, which allows access only to specific users, groups, roles, and more.
+Restrict access to quick links by setting the user criteria, which allows access only to specific users, groups, roles, and more.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sp\_admin, taxonomy\_manager or taxonomy\_admin and user\_criteri
 
 1.  Do one of the following:
 
-    -   \(If you have the sp\_admin role\) Navigate to **[[employee-center-landing-page|Employee Center]]** &gt; **Quick Links**.
+    -   \(If you have the sp\_admin role\) Navigate to **Employee Center** &gt; **Quick Links**.
     -   Navigate to **Content Taxonomy** &gt; **Quick Links**.
     The Quick Link module displays the list of existing quick links.
 
@@ -66,7 +66,3 @@ Do this
 </table>
 **Parent Topic:**[Create a quick link](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/create-quick-links.md)
 
-## Related
-
-- [[emp-center-quick-link-config|Quick links]]
-- [[employee-center-landing-page|Employee Center]]

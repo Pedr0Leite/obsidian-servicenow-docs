@@ -14,9 +14,9 @@ breadcrumb: [Contextual search, Search administration, Configure core features, 
 
 # Contextual Search roles
 
-[[c_ContextualSearch|Contextual Search]] is installed with these roles.
+Contextual Search is installed with these roles.
 
-To learn more about managing subscriptions, see [[managing-user-subscriptions-v2|Managing per-user subscriptions in Subscription Management]] and contact your account representative.
+To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/managing-user-subscriptions-v2.md) and contact your account representative.
 
 **Parent Topic:**[Contextual search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/c_ContextualSearch.md)
 
@@ -40,7 +40,3 @@ None.
 
 For details on these tables, see [Feedback information on contextual search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/r_QueryFeedbackInformation.md).
 
-## Related
-
-- [[managing-user-subscriptions-v2|Managing per-user subscriptions in Subscription Management]]
-- [[c_ContextualSearch|Contextual search]]

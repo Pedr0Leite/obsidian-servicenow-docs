@@ -12,11 +12,11 @@ breadcrumb: [Configure, Query Generation, Now Assist in Platform Analytics, Plat
 
 # Enable semantic generation for tables in the semantic layer
 
-Tables can be included in the semantic table configuration but have semantic generation turned off. Enable semantic generation to include that table in [[query-generation|Query Generation]]. Deactivate irrelevant data to improve results.
+Tables can be included in the semantic table configuration but have semantic generation turned off. Enable semantic generation to include that table in Query Generation. Deactivate irrelevant data to improve results.
 
 ## Before you begin
 
-Query Generation must be activated, and the desired table must have a Semantic Table Configuration record. For more information, see [[enable-query-generation|Query Generation skills]] and [[add-table-semantic-layer|Add a table to the semantic data layer]].
+Query Generation must be activated, and the desired table must have a Semantic Table Configuration record. For more information, see [Query Generation skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/enable-query-generation.md) and [Add a table to the semantic data layer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/add-table-semantic-layer.md).
 
 **Important:** If you want to add a database view to the semantic layer, you must be working in the same application scope as the database view.
 
@@ -71,11 +71,5 @@ You can control semantic generation at different levels of granularity depending
 6.  Select **Update**.
 
 
-**Parent Topic:**[[configuring-query-generation|Configuring Query Generation]]
+**Parent Topic:**[Configuring Query Generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configuring-query-generation.md)
 
-## Related
-
-- [[enable-query-generation|Query Generation skills]]
-- [[add-table-semantic-layer|Add a table to the semantic data layer]]
-- [[configuring-query-generation|Configuring Query Generation]]
-- [[query-generation|Query Generation]]

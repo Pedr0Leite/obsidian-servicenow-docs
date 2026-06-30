@@ -113,7 +113,7 @@ Option to automatically update Microsoft Defender Incident Classification based 
  Options include:
 
 -   Default incident classification.
--   Incident classification-SIR close code [[mapping-logrhythm|mapping]].
+-   Incident classification-SIR close code mapping.
 
 
 </td></tr><tr><td>
@@ -161,6 +161,4 @@ Option to update your SIR work notes in the Defender incident comments. The comm
 
     3.  Select **Continue**.
 
-## Related
 
-- [[mapping-logrhythm|Mapping]]

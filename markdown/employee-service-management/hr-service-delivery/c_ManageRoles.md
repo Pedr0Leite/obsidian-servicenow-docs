@@ -16,9 +16,9 @@ breadcrumb: [HR Administration, Configure, Case and Knowledge Management, HR Ser
 
 Roles control access to features and capabilities in modules in the HR application.
 
-The [[hr-service-delivery|HR Service Delivery]] Scoped app can help prevent users outside of the HR organization from accessing HR data.
+The HR Service Delivery Scoped app can help prevent users outside of the HR organization from accessing HR data.
 
-Scoped roles for both HR case workers and HR clients \(employees, contractors, alumni, and others\) grant access to [[hr-service-administration|HR services]]. Users without an HR scoped role typically cannot view HR cases or [[c_HRProfileRecords|HR profile]] information. For information on all the roles installed with [[case-knowledge-management-landing-page|Case and Knowledge Management]] plugin, see [Components installed with Case and Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/components-installed-with-case-and-knowledge-management.md).
+Scoped roles for both HR case workers and HR clients \(employees, contractors, alumni, and others\) grant access to HR services. Users without an HR scoped role typically cannot view HR cases or HR profile information. For information on all the roles installed with Case and Knowledge Management plugin, see [Components installed with Case and Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/components-installed-with-case-and-knowledge-management.md).
 
 Only the HR Administrator \[sn\_hr\_core.admin\] can assign scoped HR roles.
 
@@ -69,18 +69,18 @@ This role can:
 
 -   Assign users any of the HR roles.
 -   View and access the HR Service Portal.
--   View, create, and edit HR cases in **HR [[case-management-workspace|Case Management]]**.
+-   View, create, and edit HR cases in **HR Case Management**.
 -   Access and create HR tasks inside an HR case using the **Add Task** related link.
 -   View, create, and edit HR profiles including sensitive information like salary.
 -   Create HR profiles and generate for multiple users through custom criteria.
 -   Associate any user to HR roles, groups, and skills.
--   View and access **[[c_AdministerHRServiceManagement|HR Administration]]**.
--   View and access **[[c_HRDashboardsReports|HR Dashboards &amp; Reports]]**.
+-   View and access **HR Administration**.
+-   View and access **HR Dashboards &amp; Reports**.
 -   Run **Application View** to manage:
 
 HR objects like HR roles and profiles.
 
-**Note:** When the Human Resources Scoped App: Core \(com.sn\_hr\_core\) and [[hr-lifecycle-events-landing-page-1|Lifecycle Events]] \(com.sn\_hr\_lifecycle\_events\) plugins are active, the Lifecycle Admin \(sn\_hr\_le.admin\) role is part of HR Admin \(sn\_hr\_core.admin\).
+**Note:** When the Human Resources Scoped App: Core \(com.sn\_hr\_core\) and Lifecycle Events \(com.sn\_hr\_lifecycle\_events\) plugins are active, the Lifecycle Admin \(sn\_hr\_le.admin\) role is part of HR Admin \(sn\_hr\_core.admin\).
 
 
 </td></tr><tr><td>
@@ -108,7 +108,7 @@ There are specific HR roles that allow users access to specific areas of the sys
     -   The base system requires a user with the System Administrator role to run scheduled jobs. For details on HR scheduled jobs, see [Components installed with Case and Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/components-installed-with-case-and-knowledge-management.md).
     -   To ensure the scheduled jobs run, change the user in the **Run as** field for each scheduled job to a user that has the HR admin role.
 
-        **Note:** Changing the user allows the scheduled jobs to run, but only a user with the System Admin role can view and [[run-hcm|run a scheduled job]] on demand.
+        **Note:** Changing the user allows the scheduled jobs to run, but only a user with the System Admin role can view and run a scheduled job on demand.
 
     -   Change the scope of the application to Human Resources: Core application. For information on changing the scope, see [Contextual development edit messages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_WarningMessages.md).
     -   Reveal the **Run as** field. For information on revealing hidden fields on a form, see [Configuring the form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md).
@@ -152,19 +152,7 @@ Your organization can define HR skills to establish the qualifications of HR sta
 -   **[Configure escalation rules for HR cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/t_CreateOrModifyEscalationRules.md)**  
 Create escalation rules to automatically route HR cases from one tier to another based on agent skills and workload.
 -   **[Client roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_ClientRoles.md)**  
-You can control what HR functionality that an employee can access using [[c_ClientRoles|Client Roles]]. You can license all employees or provide HR services to users in a specific location or group.
+You can control what HR functionality that an employee can access using Client Roles. You can license all employees or provide HR services to users in a specific location or group.
 
 **Parent Topic:**[HR Administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_AdministerHRServiceManagement.md)
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[hr-service-administration|HR services]]
-- [[c_HRProfileRecords|HR Profile]]
-- [[case-knowledge-management-landing-page|Case and Knowledge Management]]
-- [[case-management-workspace|Case management]]
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[c_HRDashboardsReports|HR Dashboards &amp; Reports]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[run-hcm|Run a scheduled job]]
-- [[c_ClientRoles|Client roles]]

@@ -26,7 +26,7 @@ The approver is selected based on the location entered in the chemical request. 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[health-safety-overview|Health and Safety]]** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
 2.  In the primary navigation, select **Environmental Management** \(\[Omitted image "icon-hs-envt-mgmt.png"\] Alt text: environmental management\) icon.
 
@@ -50,12 +50,7 @@ The approver is selected based on the location entered in the chemical request. 
 ## Result
 
 -   The approver list can be viewed in the **Approvers** tab of the chemical request record.
--   The approver assigned to the chemical request can view this request under **My Tasks** in the [[employee-center-landing-page|Employee Center]] for approval.
+-   The approver assigned to the chemical request can view this request under **My Tasks** in the Employee Center for approval.
 
 **Parent Topic:**[Chemical management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-using-chemical-management.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[employee-center-landing-page|Employee Center]]

@@ -14,7 +14,7 @@ breadcrumb: [Administer CMDB Data Manager, CMDB data management, Configuration M
 
 # Manage exclusion lists for CMDB Data Manager
 
-Create and manage exclusion lists for the various policy types used in CMDB Data Manager, in CMDB Workspaceor in [[sg-workspace|Service Graph Workspace]]. Policies of the specified type won't target CIs and other records in the exclusion list for that policy type.
+Create and manage exclusion lists for the various policy types used in CMDB Data Manager, in CMDB Workspaceor in Service Graph Workspace. Policies of the specified type won't target CIs and other records in the exclusion list for that policy type.
 
 ## Before you begin
 
@@ -64,6 +64,4 @@ Role required: sn\_cmdb\_admin
 
     5.  Review the details of the exclusion on the summary page and then select **Save**.
 
-## Related
 
-- [[sg-workspace|Service Graph Workspace]]

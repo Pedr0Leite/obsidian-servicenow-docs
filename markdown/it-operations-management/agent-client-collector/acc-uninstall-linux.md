@@ -14,7 +14,7 @@ breadcrumb: [ACC installation on a Linux OS system, ACC deployment - servers, Co
 
 # Uninstall Agent Client Collector from a Linux system using a single-line command
 
-Uninstall the [[acc-landing-page|Agent Client Collector]] from a Linux machine by running an efficient single-line command. If the script is not connected to the instance, you might have to uninstall Agent Client Collector manually.
+Uninstall the Agent Client Collector from a Linux machine by running an efficient single-line command. If the script is not connected to the instance, you might have to uninstall Agent Client Collector manually.
 
 ## Before you begin
 
@@ -32,6 +32,3 @@ Uninstall the [[acc-landing-page|Agent Client Collector]] from a Linux machine b
 
 **Parent Topic:**[Agent Client Collector installation on a Linux OS system](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-install-linux-concept.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

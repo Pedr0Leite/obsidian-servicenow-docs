@@ -20,7 +20,7 @@ Learn about the process required For a successful migration of data from Scaled 
 
 ## Guided Setup to migrate data from SAFe to EAP
 
-Guided Setup provides a sequence of tasks to help you complete the required tasks on your ServiceNow instances. Navigate to **All** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]]** &gt; **Enterprise Agile Planning** &gt; **SAFe Migration Guided Setup**.
+Guided Setup provides a sequence of tasks to help you complete the required tasks on your ServiceNow instances. Navigate to **All** &gt; **Strategic Planning** &gt; **Enterprise Agile Planning** &gt; **SAFe Migration Guided Setup**.
 
 The following tasks are included in the guided setup.
 
@@ -30,7 +30,7 @@ The following tasks are included in the guided setup.
 
     Based on your existing SAFe configuration, verify that the right EAP configuration is activated in your instance and ensure that the right work types \(Epic, Feature, and Story\) are allowed for this configuration.
 
-    For example, if you are a user of ServiceNow [[essential-overview|Essential SAFe]] application, you must activate the Essential Configuration in EAP and ensure that EAP Epic and Feature are allowed as work types.
+    For example, if you are a user of ServiceNow Essential SAFe application, you must activate the Essential Configuration in EAP and ensure that EAP Epic and Feature are allowed as work types.
 
 2.  [Verify table, field, and choice mapping between SAFe and EAP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/verify-table-field-and-choice-mapping-between-safe-and-eap.md).
 
@@ -44,7 +44,4 @@ The following tasks are included in the guided setup.
 
     See [Assign a role to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AssignRoleToGroup.md) or [Assign a role to a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AssignARoleToAUser.md).
 
-## Related
 
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[essential-overview|Essential SAFe]]

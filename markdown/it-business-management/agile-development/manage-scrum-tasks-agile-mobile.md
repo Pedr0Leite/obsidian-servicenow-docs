@@ -16,7 +16,7 @@ breadcrumb: [Mobile experience for Agile Development 2.0, Agile Development, Str
 
 View, edit, and update the details of scrum tasks that were created for the stories of the current sprint on your mobile device.
 
-On your mobile device, open the Mobile Agent app and navigate to [[agile-development|Agile Development]] v2. Perform the following actions with the role of scrum\_product\_owner, scrum\_team\_member, or scrum\_master.
+On your mobile device, open the Mobile Agent app and navigate to Agile Development v2. Perform the following actions with the role of scrum\_product\_owner, scrum\_team\_member, or scrum\_master.
 
 **Parent Topic:**[Mobile experience for Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/agile-2-mobile-app-overview.md)
 
@@ -162,6 +162,4 @@ Role required: scrum\_product\_owner, scrum\_team\_member, or scrum\_master
 
         Available options include adding work notes, files, pictures, and so on.
 
-## Related
 
-- [[agile-development|Agile Development]]

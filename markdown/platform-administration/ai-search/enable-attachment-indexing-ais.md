@@ -22,7 +22,7 @@ Role required: ais\_admin
 
 ## About this task
 
-By default, [[ia-ai-search|AI Search]] indexes searchable content and metadata \(such as file size and date\) for attachments found on source table records. Indexing supports the following attachment file formats:
+By default, AI Search indexes searchable content and metadata \(such as file size and date\) for attachments found on source table records. Indexing supports the following attachment file formats:
 
 -   Active Server Page Extended \(`.aspx`\)
 -   Hypertext Markup Language \(`.html`, `.htm`\)
@@ -70,6 +70,3 @@ If you changed the **index\_attachments** attribute's value from **false** to **
 
 **Parent Topic:**[Indexed source attributes for AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/indexed-source-attributes-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]

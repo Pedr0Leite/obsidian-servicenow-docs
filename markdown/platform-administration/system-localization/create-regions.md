@@ -32,7 +32,7 @@ For more information about the language selector in portal headers, see [Enable 
 
 1.  Create regions.
 
-    1.  Navigate to **[[system-localization-landing|System Localization]]** &gt; **Regions**.
+    1.  Navigate to **System Localization** &gt; **Regions**.
 
     2.  Select **New**.
 
@@ -60,6 +60,4 @@ For more information about the language selector in portal headers, see [Enable 
 
     6.  Repeat these steps to assign additional languages to regions.
 
-## Related
 
-- [[system-localization-landing|System Localization]]

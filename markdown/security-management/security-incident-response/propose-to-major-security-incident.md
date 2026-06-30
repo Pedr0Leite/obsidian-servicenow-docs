@@ -22,7 +22,7 @@ Role required: sn\_si.analyst.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sir-workspace-landing-page|Security Incident Response Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Security Incident Response Workspace**.
 
 2.  Open any security incident.
 
@@ -43,6 +43,3 @@ Role required: sn\_si.analyst.
 
 **Parent Topic:**[Working with MSI Records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/working-with-msi-records.md)
 
-## Related
-
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]

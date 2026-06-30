@@ -14,7 +14,7 @@ breadcrumb: [Service Observability reference, Service Observability, ITOM AIOps,
 
 # Service Observability templates
 
-View the templates for your observability vendor to understand the default [[otto-aiops-dashboards|dashboards]] provided by [[service-observability|Service Observability]].
+View the templates for your observability vendor to understand the default dashboards provided by Service Observability.
 
 See [Customize Service Observability dashboard templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/customize-service-observability-dashboard-templates.md) for information about customizing these templates.
 
@@ -45,7 +45,3 @@ Templates used to create Zabbix dashboards in Service Observability. You can edi
 
 **Parent Topic:**[Service Observability reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/service-observability-reference.md)
 
-## Related
-
-- [[otto-aiops-dashboards|Dashboards]]
-- [[service-observability|Service Observability]]

@@ -14,10 +14,10 @@ breadcrumb: [Use, Hardware Asset Management, IT Asset Management]
 
 # Manage your inventory through pallet assets
 
-Manage your inventory effectively using [[pallet-assets|pallet assets]].
+Manage your inventory effectively using pallet assets.
 
 -   **[Create pallet assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-pallet-assets.md)**  
-Create a pallet asset from the [[asset-estate-view-am|Asset estate view]] in the [[using-ham-workspace|Hardware Asset Workspace]] to track and manage assets in the inventory.
+Create a pallet asset from the Asset estate view in the Hardware Asset Workspace to track and manage assets in the inventory.
 -   **[Add assets to a pallet](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/add-assets-to-pallet.md)**  
 Add base, hardware, bundle, consumable, and other pallet assets to an in-stock pallet to track and manage the assets in a stockroom as a group.
 -   **[Remove assets from a pallet](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/remove-assets-from-pallet.md)**  
@@ -36,7 +36,7 @@ You can add a pallet with the assets contained in it to transfer orders and disp
 
 [Work with hardware normalization]()
 
-[Manage [[asset-bundles-concept|asset bundles]] from your inventory]()
+[Manage asset bundles from your inventory]()
 
 [Manage loaner assets]()
 
@@ -56,13 +56,13 @@ You can add a pallet with the assets contained in it to transfer orders and disp
 
 [Request a Hardware Asset Refresh]()
 
-[Manage your expiring [[c_Contracts|contracts]] for leased hardware assets]()
+[Manage your expiring contracts for leased hardware assets]()
 
 [Reclaim hardware assets]()
 
 [View RFID information of assets]()
 
-[Manage the lifecycle of hardware [[c_Models|models]] with calculated lifecycle templates]()
+[Manage the lifecycle of hardware models with calculated lifecycle templates]()
 
 [Create an internal lifecycle in the Hardware Asset Workspace]()
 
@@ -80,7 +80,7 @@ You can add a pallet with the assets contained in it to transfer orders and disp
 
 [Configure the Total Cost of Ownership of assets]()
 
-[Manage [[ham-landing-page|Hardware Asset Management]] subscriptions]()
+[Manage Hardware Asset Management subscriptions]()
 
 [Manage repair of defective assets in your stockroom in the Hardware Asset Workspace]()
 
@@ -96,12 +96,3 @@ You can add a pallet with the assets contained in it to transfer orders and disp
 
 [Update associated Decision tables for HAM flows]()
 
-## Related
-
-- [[pallet-assets|Pallet assets]]
-- [[asset-estate-view-am|Asset estate view]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[asset-bundles-concept|Asset bundles]]
-- [[c_Contracts|Contracts]]
-- [[c_Models|Models]]
-- [[ham-landing-page|Hardware Asset Management]]

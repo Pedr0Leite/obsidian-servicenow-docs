@@ -30,8 +30,5 @@ As sales agents move through the lead workflow and recognize interest from custo
 
 ## What to explore next
 
-To learn about setting up Lead Management, see [[configure-lead-management|Install and configure Lead Management]].
+To learn about setting up Lead Management, see [Install and configure Lead Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-lead-management.md).
 
-## Related
-
-- [[configure-lead-management|Install and configure Lead Management]]

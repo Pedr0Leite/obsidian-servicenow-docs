@@ -15,7 +15,7 @@ breadcrumb: [ACC-VC reference, Agent Client Collector reference, Agent Client Co
 
 # Agent Client Collector File-Based Discovery properties
 
-Configure [[file-based-discovery|File-Based Discovery]] behavior using system properties that control scanning paths, performance throttling, and file filtering options.
+Configure File-Based Discovery behavior using system properties that control scanning paths, performance throttling, and file filtering options.
 
 ## Discovery settings properties
 
@@ -23,7 +23,7 @@ All File-Based Discovery configuration properties are configurable from the Syst
 
 |Property|Description|Platforms|
 |--------|-----------|---------|
-|**glide.[[r-discovery|discovery]].file\_discovery.path.windows**|Directories to scan on Windows endpoints \(pipe-separated\). Supports environment variables \(%PROGRAMFILES%\) and wildcards.|Windows|
+|**glide.discovery.file\_discovery.path.windows**|Directories to scan on Windows endpoints \(pipe-separated\). Supports environment variables \(%PROGRAMFILES%\) and wildcards.|Windows|
 |**glide.discovery.file\_discovery.path.linux**|Directories to scan on Linux/macOS endpoints \(colon-separated\). Supports environment variables \($HOME\) and wildcards.|Linux, macOS|
 |**glide.discovery.file\_discovery.ignore\_path.windows**|Directories to exclude from scanning on Windows \(pipe-separated\).|Windows|
 |**glide.discovery.file\_discovery.ignore\_path.unix**|Directories to exclude from scanning on Linux/macOS \(colon-separated\).|Linux, macOS|
@@ -92,7 +92,7 @@ Colon-separated list of MIME types to scan on Linux \(such as `application/x-pie
 
 </td></tr><tr><td>
 
-[[running-process-based-discovery|Running process-based discovery]] \(**sn\_acc\_vis\_content.file\_discovery.fbd\_process\_scan\_enabled**\)
+Running process-based discovery \(**sn\_acc\_vis\_content.file\_discovery.fbd\_process\_scan\_enabled**\)
 
 </td><td>
 
@@ -121,8 +121,3 @@ Path properties support environment variables and wildcards for flexible directo
 
 **Parent Topic:**[Agent Client Collector for Visibility - Content reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-client-collector-for-visibility-references.md)
 
-## Related
-
-- [[file-based-discovery|File-based Discovery]]
-- [[r-discovery|Discovery]]
-- [[running-process-based-discovery|Running process-based discovery]]

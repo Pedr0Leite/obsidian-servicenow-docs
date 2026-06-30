@@ -24,7 +24,7 @@ Create and manage monetary benefit plans to capture the potential benefits while
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** and select portfolio plan.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** and select portfolio plan.
 
 2.  Select a planning item from the Planning module.
 
@@ -32,13 +32,10 @@ Create and manage monetary benefit plans to capture the potential benefits while
 
     \[Omitted image "fin-slct-non-monetary-benefit-plan-gif.gif"\] Alt text: GIF showing selection of Non-monetary Benefit Plans related link.
 
-4.  On the [[benefit-plan-form-project-management|Benefit Plan form]], fill the fields.
+4.  On the Benefit Plan form, fill the fields.
 
     For a description of the field names, see [Non-monetary benefit plans form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/non-monetary-benefit-plans-form.md).
 
 5.  Select **Save**.
 
-## Related
 
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[benefit-plan-form-project-management|Benefit Plan form]]

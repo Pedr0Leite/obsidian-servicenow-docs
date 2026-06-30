@@ -28,7 +28,7 @@ In the Approval Configurations module, you can configure multiple levels of appr
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[vr-config-compliance-landing|Configuration Compliance]]** &gt; **Administration** &gt; **Approval Rules**.
+1.  Navigate to **All** &gt; **Configuration Compliance** &gt; **Administration** &gt; **Approval Rules**.
 
 2.  Select an approval rule and navigate to the **Approval Configurations** tab.
 
@@ -80,6 +80,3 @@ Script that defines the condition for the test results or remediation tasks.**No
 
 You can define different approval paths for different types of remediation tasks.
 
-## Related
-
-- [[vr-config-compliance-landing|Configuration Compliance]]

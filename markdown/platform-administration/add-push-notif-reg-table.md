@@ -12,7 +12,7 @@ breadcrumb: [Push notification setup with the ServiceNow mobile app, Push notifi
 
 # Add a push notification to the Push Default Registrations table
 
-After you create a new push notification, add it to the Push Default Registration table. [[c_PushNotifications|Push notifications]] registered in this table are listed and automatically enabled in the notification settings of your ServiceNow mobile app users.
+After you create a new push notification, add it to the Push Default Registration table. Push notifications registered in this table are listed and automatically enabled in the notification settings of your ServiceNow mobile app users.
 
 ## Before you begin
 
@@ -30,9 +30,6 @@ Role required: admin
 
 5.  Click **Submit**.
 
-    The next time that users log in to their instance, the new push notification is included in their list of [[notifications|notifications]].
+    The next time that users log in to their instance, the new push notification is included in their list of notifications.
 
-## Related
 
-- [[c_PushNotifications|Push notifications]]
-- [[notifications|Notifications]]

@@ -36,7 +36,7 @@ Role required: none
 
 2.  Sign the PDF document in Service Portal.
 
-    -   To navigate through the Employee Center, navigate to **All** &gt; **[[self-service-landing|Self-Service]]** &gt; **Employee Center**.
+    -   To navigate through the Employee Center, navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
     -   To navigate through My Document Tasks, navigate to**Self-Service** &gt; **My Document Tasks**.
 3.  Select the document task that is assigned to you.
 
@@ -59,6 +59,3 @@ Role required: none
 
 **Parent Topic:**[Digital signature for PDF documents using CAC or PIV smart cards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/digital-signature.md)
 
-## Related
-
-- [[self-service-landing|Self-service]]

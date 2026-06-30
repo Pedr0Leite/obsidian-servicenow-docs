@@ -15,22 +15,22 @@ breadcrumb: [AI Control Tower, Enable AI experiences]
 
 # Exploring AI Control Tower
 
-Explore and learn about the [[ai-control-tower-landing|AI Control Tower]] and its role in managing the [[ai-inventory|AI asset inventory]], overseeing [[exploring-ai-governance|configurations]], integrating with other applications, and handling the asset approval workflow.
+Explore and learn about the AI Control Tower and its role in managing the AI asset inventory, overseeing configurations, integrating with other applications, and handling the asset approval workflow.
 
 ## AI Control Tower overview
 
-AI Control Tower provides enterprises with visibility into their AI footprint, manages the lifecycle of their AI investments, and identifies risks. This AI Control Tower's functionality ensures that their [[ai-models|AI models]], workflows, and agents are governed, optimized, and aligned with business strategy. It focuses on:
+AI Control Tower provides enterprises with visibility into their AI footprint, manages the lifecycle of their AI investments, and identifies risks. This AI Control Tower's functionality ensures that their AI models, workflows, and agents are governed, optimized, and aligned with business strategy. It focuses on:
 
 -   **AI Strategy &amp; Value:** Tracks how AI improves efficiency, revenue, and cost savings.
--   **AI Governance &amp; Compliance:** Ensures that [[ai-system|AI systems]] follow company policies and global regulations, focusing on privacy, data governance, and ethical AI.
--   **Security, Access &amp; Privacy:** Manages AI agent identities, access [[controls|controls]], and sensitive data to ensure security.
--   **Lifecycle Management:** Handles the entire lifecycle of [[ai-assets|AI assets]], including onboarding, offboarding, skill management, and performance monitoring.
+-   **AI Governance &amp; Compliance:** Ensures that AI systems follow company policies and global regulations, focusing on privacy, data governance, and ethical AI.
+-   **Security, Access &amp; Privacy:** Manages AI agent identities, access controls, and sensitive data to ensure security.
+-   **Lifecycle Management:** Handles the entire lifecycle of AI assets, including onboarding, offboarding, skill management, and performance monitoring.
 -   **Health &amp; Performance:** Evaluates how reliably and efficiently AI systems operate.
 -   **Enterprise AI Integrations:** Provides a platform to discover and use AI projects, models, and data from within the company and external partners.
 
 ## AI asset Data Model
 
-The AI asset data model catalogs different AI assets such as AI systems, AI models, [[ai-datasets|datasets]], and [[ai-prompts|prompts]]. It also manages the relationship between different assets that helps manage the AI inventory effectively.
+The AI asset data model catalogs different AI assets such as AI systems, AI models, datasets, and prompts. It also manages the relationship between different assets that helps manage the AI inventory effectively.
 
 ## AI Control Tower benefits
 
@@ -52,14 +52,3 @@ To learn more about AI Control Tower and other applications integrating with its
 -   [Using AI Control Tower](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/using-ai-control-tower.md)
 -   [AI Control Tower reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/aict-references.md)
 
-## Related
-
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[ai-inventory|AI asset inventory]]
-- [[exploring-ai-governance|Configurations]]
-- [[ai-models|AI models]]
-- [[ai-system|AI systems]]
-- [[controls|Controls]]
-- [[ai-assets|AI assets]]
-- [[ai-datasets|Datasets]]
-- [[ai-prompts|Prompts]]

@@ -14,14 +14,9 @@ breadcrumb: [Enhanced address data model for accounts, Configure accounts and co
 
 You can reuse the same addresses between multiple account records.
 
-You can reuse the same address between multiple accounts within the [[c_AccountHierarchy|account hierarchy]] or between non-related accounts. Use the account hierarchy feature to create a parent-child relationship between accounts.
+You can reuse the same address between multiple accounts within the account hierarchy or between non-related accounts. Use the account hierarchy feature to create a parent-child relationship between accounts.
 
-To enable address sharing between accounts in the account hierarchy, see [[address-sharing-account-hierarchy|Address sharing through account hierarchy]].
+To enable address sharing between accounts in the account hierarchy, see [Address sharing through account hierarchy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/address-sharing-account-hierarchy.md).
 
-To share addresses between non-related accounts, see [[address-sharing-non-related-accounts|Share an address through non-related accounts]].
+To share addresses between non-related accounts, see [Share an address through non-related accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/address-sharing-non-related-accounts.md).
 
-## Related
-
-- [[address-sharing-account-hierarchy|Address sharing through account hierarchy]]
-- [[address-sharing-non-related-accounts|Share an address through non-related accounts]]
-- [[c_AccountHierarchy|Account hierarchy]]

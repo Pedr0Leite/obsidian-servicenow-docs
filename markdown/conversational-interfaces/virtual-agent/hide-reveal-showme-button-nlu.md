@@ -14,7 +14,7 @@ breadcrumb: [Configure NLU in Virtual Agent, Configure, Virtual Agent, Conversat
 
 # Hide or reveal the Show me everything button in Natural Language Understanding conversations
 
-Set properties to hide or reveal the **Show me everything** button in [[virtual-agent-landing-page|Virtual Agent]] conversations that use NLU/Keyword \(Natural Language Understanding\) topic discovery.
+Set properties to hide or reveal the **Show me everything** button in Virtual Agent conversations that use NLU/Keyword \(Natural Language Understanding\) topic discovery.
 
 ## Before you begin
 
@@ -37,6 +37,3 @@ The **Show me everything** button is removed from the greeting messages in your 
 
 **Parent Topic:**[Configure Natural Language Understanding in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-nlu-settings.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

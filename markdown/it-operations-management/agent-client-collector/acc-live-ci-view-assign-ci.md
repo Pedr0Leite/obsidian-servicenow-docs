@@ -22,7 +22,7 @@ Role required: itil
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
 2.  Select the Lists icon \(\[Omitted image "lists-icon.png"\] Alt text: Lists icon\) icon.
 
@@ -40,6 +40,4 @@ Role required: itil
 
     The name of the CI appears in the **Primary configuration item** field, and the CI's live data appears on the **Live CI Data** tab.
 
-## Related
 
-- [[workspace-dashboard-use|Service Operations Workspace]]

@@ -13,7 +13,7 @@ breadcrumb: [Building a scenario analysis using simulation, Scenario analysis us
 
 # Create a scenario analysis record using simulation
 
-Create a [[scenario-analysis-ov|Scenario analysis]] record to assess how a critical service performs under adverse conditions using statistical modelling. Use the guided Playbook experience to move through scoping, scenario selection, simulation, results review, and treatment decision.
+Create a Scenario analysis record to assess how a critical service performs under adverse conditions using statistical modelling. Use the guided Playbook experience to move through scoping, scenario selection, simulation, results review, and treatment decision.
 
 ## Before you begin
 
@@ -21,13 +21,13 @@ Role required: sn\_oper\_res.admin, sn\_oper\_res.manager
 
 ## About this task
 
-Users with the sn\_oper\_res.user role can view records and playbook stages in read-only mode. To create, edit, or progress an analysis, the sn\_oper\_res.manager or sn\_oper\_res.admin role is required. Scenario analysis runs only in [[grc-opres-landing-page|Operational Resilience]] Workspace via the **Playbook** tab; there is no alternative form-based flow.
+Users with the sn\_oper\_res.user role can view records and playbook stages in read-only mode. To create, edit, or progress an analysis, the sn\_oper\_res.manager or sn\_oper\_res.admin role is required. Scenario analysis runs only in Operational Resilience Workspace via the **Playbook** tab; there is no alternative form-based flow.
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **Operational Resilience** &gt; **Scenario Analysis** and open the Scenario Analysis record form.
 
-    The Scenario Analyses [[list-view-uib-ws|list view]] in the Operational Resilience Workspace shows records in every state, including Draft and Completed. Default columns are Number, Name, Priority, State, and Owner. Select a record number \(for example, SA0001038\) to open the record detail.
+    The Scenario Analyses list view in the Operational Resilience Workspace shows records in every state, including Draft and Completed. Default columns are Number, Name, Priority, State, and Owner. Select a record number \(for example, SA0001038\) to open the record detail.
 
     \[Omitted image "sca-list-view-all-scenario-analysis.png"\] Alt text: All scenario analysis list view with Number, Name, Priority, State, and Owner columns, showing Draft and Completed records.
 
@@ -60,11 +60,11 @@ Users with the sn\_oper\_res.user role can view records and playbook stages in r
 
     **Statistical Modelling** is selected by default.
 
-    Steps for using the simulation method are described in [[complete-sca-scenario-testing|Start simulation and run scenario testing]]. The manual method is described in [[run-sca-manual-method|Run a scenario analysis using the manual method]].
+    Steps for using the simulation method are described in [Start simulation and run scenario testing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/complete-sca-scenario-testing.md). The manual method is described in [Run a scenario analysis using the manual method](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/run-sca-manual-method.md).
 
 8.  Verify that the **Annual loss model driven by risk events** is shown in the **Statistical model profile** field.
 
-    The Statistical model profile is set by Operational Resilience and it controls how the simulation runs. It links an Annual loss model to the assessment question templates used to collect input parameters. One profile ships with the base system: **Annual loss model driven by risk events**. The profile links a risk-event reference table to the input and output [[airc-assessment-templates|assessment templates]] that the simulation uses.
+    The Statistical model profile is set by Operational Resilience and it controls how the simulation runs. It links an Annual loss model to the assessment question templates used to collect input parameters. One profile ships with the base system: **Annual loss model driven by risk events**. The profile links a risk-event reference table to the input and output assessment templates that the simulation uses.
 
     **Note:** The **Statistical model profile** field is a reference picker, not a drop-down. Only one profile can be selected per analysis.
 
@@ -81,14 +81,5 @@ The scenario analysis record is created and the **Playbook** tab is available to
 
 ## What to do next
 
-For defining the scope of scenario analysis, see [[add-sca-scope-service-dep|Define the scope and dependencies]].
+For defining the scope of scenario analysis, see [Define the scope and dependencies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/add-sca-scope-service-dep.md).
 
-## Related
-
-- [[complete-sca-scenario-testing|Start simulation and run scenario testing]]
-- [[run-sca-manual-method|Run a scenario analysis using the manual method]]
-- [[add-sca-scope-service-dep|Define the scope and dependencies]]
-- [[scenario-analysis-ov|Scenario analysis]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[list-view-uib-ws|List view]]
-- [[airc-assessment-templates|Assessment templates]]

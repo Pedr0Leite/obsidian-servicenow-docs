@@ -14,7 +14,7 @@ breadcrumb: [Configuring Sidebar, Sidebar, Conversational Interfaces]
 
 # Configuring Sidebar member query
 
-Configuring the [[sidebar-landing|Sidebar]] member query pre-populates the participants list on the Start a Sidebar discussion screen.
+Configuring the Sidebar member query pre-populates the participants list on the Start a Sidebar discussion screen.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings**.
 
 2.  From the menu on the CI Admin Experience page, select Sidebar.
 
@@ -94,7 +94,7 @@ Condition Mode
 
 </td><td>
 
-Type of condition for routing [[awa-work-items|work items]] in the query. From the drop-down list, select **Advanced** or **Simple**.
+Type of condition for routing work items in the query. From the drop-down list, select **Advanced** or **Simple**.
 
 -   Simple: Specify a routing condition using the condition builder.
 -   Advanced: Specify a JavaScript scripted condition.
@@ -155,8 +155,4 @@ Displays if you select **Advanced** for the User Query Mode. You can specify a J
 </td></tr></tbody>
 </table>6.  Select **Submit**.
 
-## Related
 
-- [[sidebar-landing|Sidebar]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[awa-work-items|Work items]]

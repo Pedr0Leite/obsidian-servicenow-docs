@@ -14,7 +14,7 @@ breadcrumb: [Use, Operational Technology Knowledge Management, Operational Techn
 
 # Find information in the related knowledge articles for an OT incident
 
-Find information in the related knowledge articles that are attached to an [[operational-technology-overview|Operational Technology]] \(OT\) incident record for any previous resolutions that may be applicable.
+Find information in the related knowledge articles that are attached to an Operational Technology \(OT\) incident record for any previous resolutions that may be applicable.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_ot\_incident\_read
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]]**.
+1.  Navigate to **All** &gt; **Industrial Workspace**.
 
 2.  In the list view under the OT Incident module, open an available list.
 
@@ -45,7 +45,3 @@ Role required: sn\_ot\_incident\_read
 
 **Parent Topic:**[Using Operational Technology Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-knowledge-management/using-operational-technology-knowledge-management.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

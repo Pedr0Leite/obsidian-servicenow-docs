@@ -12,7 +12,7 @@ breadcrumb: [Security Operations Integrations - Get Network Statistics flow, Sec
 
 # Execution Tracking - Begin \(CIs\) Flow Action
 
-The **Execution Tracking - Begin \(CIs\)** flow action starts the auditing process for a [[security-operations-landing-page|Security Operations]] Integration flow that operates on configuration items \(CIs\).
+The **Execution Tracking - Begin \(CIs\)** flow action starts the auditing process for a Security Operations Integration flow that operates on configuration items \(CIs\).
 
 The **Execution Tracking - Begin \(CIs\)** flow action can be used with any CI flow to begin recording the progress of the flow in an audit.
 
@@ -50,7 +50,7 @@ isImpl
 
 </td><td>
 
-Flag that specifies whether auditing is done for an Integration Capability flow or an Integration Capability implementation flow. Possible values are: -   false - denotes auditing on an abstract Integration Capability flow such as [[indicator-sightings|Sightings]] Search. \(default.\)
+Flag that specifies whether auditing is done for an Integration Capability flow or an Integration Capability implementation flow. Possible values are: -   false - denotes auditing on an abstract Integration Capability flow such as Sightings Search. \(default.\)
 -   true - denotes auditing on an Integration Capability implementation flow. For example, Splunk or Elasticsearch.
 
 </td></tr><tr><td>
@@ -112,15 +112,8 @@ The output variables contain data that can be used in subsequent activities.
 
 The flow process actions include:
 
--   [[get-supported-security-capabilities-activity|Get Supported Security Capabilities action]]
--   [[execution-tracking-noimpls-activity|Capability Execution Tracking- No Impls action]]
+-   [Get Supported Security Capabilities action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/get-supported-security-capabilities-activity.md)
+-   [Capability Execution Tracking- No Impls action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/execution-tracking-noimpls-activity.md)
 
-**Parent Topic:**[[secops-integration-get-network-stats-workflow|Security Operations Integrations - Get Network Statistics flow]]
+**Parent Topic:**[Security Operations Integrations - Get Network Statistics flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/secops-integration-get-network-stats-workflow.md)
 
-## Related
-
-- [[get-supported-security-capabilities-activity|Get Supported Security Capabilities action]]
-- [[execution-tracking-noimpls-activity|Capability Execution Tracking- No Impls action]]
-- [[secops-integration-get-network-stats-workflow|Security Operations Integrations - Get Network Statistics flow]]
-- [[security-operations-landing-page|Security Operations]]
-- [[indicator-sightings|Sightings]]

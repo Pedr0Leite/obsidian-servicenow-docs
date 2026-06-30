@@ -22,7 +22,7 @@ Role required: kafka\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hermes-messaging-service|Hermes Messaging Service]]** &gt; **Topics**.
+1.  Navigate to **All** &gt; **Hermes Messaging Service** &gt; **Topics**.
 
 2.  Select **New**.
 
@@ -52,7 +52,7 @@ Application ID
 
 </td><td>
 
-Application associated with the topic. Default is Stream [[c_Connect|Connect]].
+Application associated with the topic. Default is Stream Connect.
 
 </td></tr><tr><td>
 
@@ -64,7 +64,7 @@ Namespace associated with the topic.
 
  You can either select a namespace created by the Kafka namespace administrator or select the Default Namespace if separate namespaces aren't configured for your instance.
 
- In ServiceNow, all Kafka topics link to a namespace. Namespaces are used to organize topics and, on a domain-separated instance, for [[domain-separation-relationship-formatter-editor|domain separation]]. When a namespace is assigned to a particular domain, all the topics created in that namespace have the same domain.
+ In ServiceNow, all Kafka topics link to a namespace. Namespaces are used to organize topics and, on a domain-separated instance, for domain separation. When a namespace is assigned to a particular domain, all the topics created in that namespace have the same domain.
 
 </td></tr><tr><td>
 
@@ -97,8 +97,3 @@ The topic appears in both the Kafka Topics \[sys\_kafka\_topic\] table and in He
 
 **Parent Topic:**[Managing topics in Hermes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/managing-topics-hermes.md)
 
-## Related
-
-- [[hermes-messaging-service|Hermes Messaging Service]]
-- [[c_Connect|Connect]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]

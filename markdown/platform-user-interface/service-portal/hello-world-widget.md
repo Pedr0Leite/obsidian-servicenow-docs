@@ -14,7 +14,7 @@ breadcrumb: [Example widgets, Widget library, Using portal widgets, Configuring 
 
 # Hello World widgets
 
-The Hello World widgets are included with [[c_ServicePortal|Service Portal]] as examples of how to use and create widgets. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
+The Hello World widgets are included with Service Portal as examples of how to use and create widgets. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 
 All three Hello World widgets display the same way. The real difference between them is in their underlying code base. Each version of the widget uses a different method of using the server and client script.
 
@@ -45,6 +45,3 @@ For more information on Service Portal APIs, see the GlideSPSriptable API.
 
 [Clone a widget]()
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]

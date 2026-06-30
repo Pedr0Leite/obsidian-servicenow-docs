@@ -14,7 +14,7 @@ breadcrumb: [Scrum Programs for Agile Development 2.0, Agile Development, Strate
 
 # Create a scrum program
 
-Create a scrum program to [[plan-sprint-activity|plan sprints]] and track the progress of the multiple scrum teams that are working together.
+Create a scrum program to plan sprints and track the progress of the multiple scrum teams that are working together.
 
 ## Before you begin
 
@@ -40,7 +40,7 @@ From the Scrum Programs module
 
 </td><td>
 
-1.  Navigate to **[[agile-development|Agile Development]]** &gt; **Scrum Programs**.
+1.  Navigate to **Agile Development** &gt; **Scrum Programs**.
 2.  Click **New**.
 
 
@@ -131,7 +131,3 @@ Brief description of the program.
 -   [Assign teams to a scrum program](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/add-teams-to-scrum-program.md).
 -   Click the **Scrum Program Board** related link to [plan your scrum program](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/plan-scrum-program.md).
 
-## Related
-
-- [[plan-sprint-activity|Plan sprints]]
-- [[agile-development|Agile Development]]

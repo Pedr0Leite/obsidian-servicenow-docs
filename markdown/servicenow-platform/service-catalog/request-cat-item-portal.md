@@ -30,9 +30,9 @@ For information about the SC Catalog Item widget, see [SC Catalog Item widget](h
 
     The Service Portal homepage is displayed.
 
-2.  Select a catalog item or [[c_RecordProducer|record producer]] from [[service-catalog|Service Catalog]].
+2.  Select a catalog item or record producer from Service Catalog.
 
-3.  Enter the required information in the [[catalog-item-form|catalog item form]].
+3.  Enter the required information in the catalog item form.
 
 4.  Enter the number of items in the **Quantity** field.
 
@@ -67,7 +67,7 @@ To add the catalog item to the wish list, click the Add to Wish List icon \(\[Om
 
     The Order Confirmation window is displayed.
 
-    **Note:** For a record producer, you can edit the [[label|label]] of the **Submit** button by using the widget instance options.
+    **Note:** For a record producer, you can edit the label of the **Submit** button by using the widget instance options.
 
     For example, if you want to change the label to **Request**, press Ctrl+click on the catalog item widget, select **Instance in Page Editor**, and specify the following parameters in the **Additional options, JSON format** field.
 
@@ -105,7 +105,7 @@ To add the catalog item to the wish list, click the Add to Wish List icon \(\[Om
     -   Use the instance options on the Order Status page to display the pre-defined columns.
     -   You can display either the RITM number or the name of the catalog item. By default, the name of the catalog item is displayed.
     -   When a service catalog item is ordered from an existing record, a link is added between the order item request and the parent record.
-10. To [[t_UsingBulkRequests|clone a request]] for other users, perform the following steps.
+10. To clone a request for other users, perform the following steps.
 
     1.  In the **Additional Actions** section, from the **Also request for** list, select the required users and click **Submit**.
 
@@ -116,7 +116,7 @@ To add the catalog item to the wish list, click the Add to Wish List icon \(\[Om
         -   The logged in user should be specified in the **List of roles \(comma-separated\) that can use bulk ordering functionality. Blank means all users** \(**glide.sc.allow.clone.roles**\) property.
         -   You can clone the request for multiple users.
         -   When you clone a request that contains a multi-row variable set, the information that is specified in the multi-row variable set is available in all cloned requests. All UI policies and client scripts on the multi-row variable set are also cloned.
-        -   A separate request is created for each specified user and that user is displayed in the **[[requested-for|Requested For]]** field of the request.
+        -   A separate request is created for each specified user and that user is displayed in the **Requested For** field of the request.
         -   The **Opened By** field of the cloned requests is updated with the logged in user.
         -   Select the **Requests** menu option or the My Requests widget on the catalog homepage to view the cloned request created for the user.
 
@@ -125,7 +125,7 @@ To add the catalog item to the wish list, click the Add to Wish List icon \(\[Om
 **Related topics**  
 
 
-[Access [[c_ServiceCatalogCategories|Service Catalog categories]] in Service Portal]()
+[Access Service Catalog categories in Service Portal]()
 
 [Add an item to the wish list in Service Portal]()
 
@@ -137,12 +137,3 @@ To add the catalog item to the wish list, click the Add to Wish List icon \(\[Om
 
 [Create a variable set and add it to an item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_CreateAVariableSet.md)
 
-## Related
-
-- [[c_RecordProducer|Record Producer]]
-- [[service-catalog|Service Catalog]]
-- [[catalog-item-form|Catalog Item form]]
-- [[label|Label]]
-- [[t_UsingBulkRequests|Clone a request]]
-- [[requested-for|Requested for]]
-- [[c_ServiceCatalogCategories|Service catalog categories]]

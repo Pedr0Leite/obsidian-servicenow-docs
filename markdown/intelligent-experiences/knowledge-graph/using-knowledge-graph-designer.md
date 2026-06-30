@@ -14,7 +14,7 @@ breadcrumb: [Knowledge Graph, Enable AI experiences]
 
 # Using Knowledge Graph Designer
 
-Use [[knowledge-graph-landing|Knowledge Graph]] Designer to create customized Knowledge Graph schemas that consist of nodes and edges.
+Use Knowledge Graph Designer to create customized Knowledge Graph schemas that consist of nodes and edges.
 
 Knowledge Graph schemas are the customized Knowledge graphs that consist of nodes and edges.
 
@@ -28,7 +28,7 @@ With Knowledge Graph Designer, you can create, edit, duplicate, or delete a Know
 
 Apart from ServiceNow tables, you can also create Knowledge Graph schema using WorkFlow Data Fabric tables to retrieve data from different systems in real time without moving it.
 
-There’s an option to [[test-a-knowledge-graph-schema|test a Knowledge Graph schema]] by generating and running a query.
+There’s an option to test a Knowledge Graph schema by generating and running a query.
 
 ## View Knowledge Graph schemas
 
@@ -37,7 +37,3 @@ By default, ServiceNow published Knowledge Graph schemas are available with the 
 1.  User profile schema
 2.  Employee schema
 
-## Related
-
-- [[knowledge-graph-landing|Knowledge Graph]]
-- [[test-a-knowledge-graph-schema|Test a Knowledge Graph schema]]

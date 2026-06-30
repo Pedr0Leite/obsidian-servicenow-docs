@@ -14,7 +14,7 @@ breadcrumb: [Updated hardening settings, Baseline versions, Hardening settings, 
 
 # Updated hardening settings for baseline version 2.0
 
-Some [[security-hardening-settings|hardening settings]] have been updated with the release of [[sec-center-v2|Security Center]] baseline version 2.0.
+Some hardening settings have been updated with the release of Security Center baseline version 2.0.
 
 <table id="table_g2z_bbt_bzb"><thead><tr><th>
 
@@ -48,7 +48,7 @@ Updates
 
 </td><td>
 
--   New short description: [[sc-reset-password-sms-complexity|Maximize Reset Password SMS Complexity]]
+-   New short description: Maximize Reset Password SMS Complexity
 -   Old short description: Reset Password SMS Complexity
 
 </td></tr><tr><td>
@@ -57,7 +57,7 @@ Updates
 
 </td><td>
 
--   New short description: [[sc-high-security-plugin|Enable High Security Plugin]]
+-   New short description: Enable High Security Plugin
 -   Old short description: High Security Plugin
 
 </td></tr><tr><td>
@@ -66,7 +66,7 @@ Updates
 
 </td><td>
 
--   New short description: [[sc-secure-session-cookies|Enforce Strict Security of Session Cookies]]
+-   New short description: Enforce Strict Security of Session Cookies
 -   Old short description: Secure Session Cookies
 
 </td></tr><tr><td>
@@ -75,7 +75,7 @@ Updates
 
 </td><td>
 
--   New short description: [[sc-do-not-use-demo-certificates-active-saml-configurations-plugin|Do Not Use Demo Certificates for Active SAML Configurations]] \(Plugin Applicability: Multiple Provider Single Sign-On\)
+-   New short description: Do Not Use Demo Certificates for Active SAML Configurations \(Plugin Applicability: Multiple Provider Single Sign-On\)
 -   Old short description: Do Not Use Demo Certificates for Active SAML Configurations
 
 </td></tr><tr><td>
@@ -101,7 +101,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-mobile-app-ui-obfuscation|Require Obfuscation of Mobile App UI]]
+-   New short description: Require Obfuscation of Mobile App UI
 -   Old short description: Mobile App UI Obfuscation
 
 </td></tr><tr><td>
@@ -110,7 +110,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-public-access-to-favorites|Disable Public Access to Favorites]]
+-   New short description: Disable Public Access to Favorites
 -   Old short description: Public Access to Favorites
 
 </td></tr><tr><td>
@@ -128,7 +128,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-xframe-options|Set Xframe Options to Prevent Embedding Third-Party Websites]]
+-   New short description: Set Xframe Options to Prevent Embedding Third-Party Websites
 -   Old short description: Xframe Options
 -   New description: If **com.glide.cs.embed.xframe\_options** is not set to the recommended value of DENY or SAMEORIGIN, then content of the web application could be embedded in a third-party site using an ALLOW-FROM uri. Allowing untrusted third-party sites could enable attacks such as clickjacking.
 -   Old description: If **com.glide.cs.embed.xframe\_options** is not set to the recommended value of DENY or SAMEORIGIN, then content of a the web application could be embedded in a third-party site using an ALLOW-FROM uri. Allowing untrusted third-party sites could enable attacks such as clickjacking.
@@ -169,8 +169,8 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-reset-password-request-retry-window|Maximize Reset Password Request Retry Window Duration]]
--   Old short description: Reset Password [[c_requestAPI|Request]] Retry Window
+-   New short description: Maximize Reset Password Request Retry Window Duration
+-   Old short description: Reset Password Request Retry Window
 
 </td></tr><tr><td>
 
@@ -178,7 +178,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-xsd-request-authorization|Require Authorization for XSD Requests]]
+-   New short description: Require Authorization for XSD Requests
 -   Old short description: XSD Request Authorization
 -   New remediation: Ensure the property **glide.basicauth.required.xsd** exists in the sys\_properties table and is set to true.
 -   Old remediation: Ensure the property **glide.basicauth.required.xsd** is set to true.
@@ -218,7 +218,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-require-authorization-for-pdf-requests|Require Authorization for PDF Requests]]
+-   New short description: Require Authorization for PDF Requests
 -   Old short description: PDF Request Authorization
 -   New remediation: Ensure the property **glide.basicauth.required.pdf** exists in the sys\_properties table and is set to true.
 -   Old remediation: Ensure the property **glide.basicauth.required.pdf** is set to true.
@@ -230,7 +230,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-upload-mime-type-restriction|Restrict Uploaded MIME Types]]
+-   New short description: Restrict Uploaded MIME Types
 -   Old short description: Upload MIME Type Restriction
 -   Rule Script: Script has been updated to improve detection accuracy.
 
@@ -240,7 +240,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-legacy-jquery-behavior|Disable Legacy JQuery Behavior]]
+-   New short description: Disable Legacy JQuery Behavior
 -   Old short description: Legacy JQuery Behavior
 
 </td></tr><tr><td>
@@ -249,7 +249,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-reset-password-request-unlock-window|Maximize Reset Password Request Unlock Window Duration]]
+-   New short description: Maximize Reset Password Request Unlock Window Duration
 -   Old short description: Reset Password Request Unlock Window
 
 </td></tr><tr><td>
@@ -258,7 +258,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-disable-multisso-debugging|Disable MultiSSO Debugging]] \(Plugin Applicability: Multiple Provider Single Sign-On\)
+-   New short description: Disable MultiSSO Debugging \(Plugin Applicability: Multiple Provider Single Sign-On\)
 -   Old short description: Disable MultiSSO Debugging
 -   Rule Script: Script has been updated to improve detection accuracy.
 
@@ -268,7 +268,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-production-instance-behavior|Enforce Production Instance Behavior]]
+-   New short description: Enforce Production Instance Behavior
 -   Old short description: Production Instance Behavior
 
 </td></tr><tr><td>
@@ -298,7 +298,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-reset-password-request-success-window|Minimize Reset Password Request Success Window Duration]]
+-   New short description: Minimize Reset Password Request Success Window Duration
 -   Old short description: Reset Password Request Success Window
 
 </td></tr><tr><td>
@@ -307,7 +307,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-soap-request-strict-security|Enforce SOAP Request Strict Security]]
+-   New short description: Enforce SOAP Request Strict Security
 -   Old short description: SOAP Request Strict Security
 
 </td></tr><tr><td>
@@ -316,9 +316,9 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-soap-request-authorization|Require Authorization for SOAP Requests]]
+-   New short description: Require Authorization for SOAP Requests
 -   Old short description: SOAP Request Authorization
--   New description: The glide property **glide.basicauth.required.soap** controls whether [[c_Authentication|authentication]] is required to make a SOAP request to an instance. If **glide.basicauth.required.soap** is not set to the recommended value of true, then authentication is disable for SOAP requests on the instance. It allows unauthenticated access to administrator or maint level operations; thereby negating security controls within the instance.
+-   New description: The glide property **glide.basicauth.required.soap** controls whether authentication is required to make a SOAP request to an instance. If **glide.basicauth.required.soap** is not set to the recommended value of true, then authentication is disable for SOAP requests on the instance. It allows unauthenticated access to administrator or maint level operations; thereby negating security controls within the instance.
 -   Old description: The glide property **glide.basicauth.required.soap** controls whether authentication is required i order to make a SOAP request to an instance. If glide.basicauth.required.soap is not set to the recommended value of true, then authentication is disable for SOAP requests on the instance. It allows unauthenticated access to administrator or maint level operations; thereby negating all security controls within the instance.
 -   New remediation: Ensure the property **glide.basicauth.required.soap** exists in the sys\_properties table and is set to true.
 -   Old remediation: Ensure the property **glide.basicauth.required.soap** is set to true.
@@ -339,11 +339,11 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-apply-domain-separation|Apply Domain Separation on Dot Walked Fields]] \(Plugin Applicability: Domain Separation
+-   New short description: Apply Domain Separation on Dot Walked Fields \(Plugin Applicability: Domain Separation
 -   Old short description: Apply Domain Separation
 -   New description: This property controls whether join queries are given domain separated conditions or not, in order to ensure they apply domain separation functionality for dot walked fields. If **glide.sys.domain.include\_domain\_condition\_on\_join** is not set to the recommended value of true on an instance using domain separation, then sensitive information could be disclosed that is not to be shared with a specific domain.
 -   Old description: This property controls whether join queries are given domain separated conditions or not, in order to ensure they apply domain separation functionality for dot walked fields. If **glide.sys.domain.include\_domain\_condition\_on\_join** is not set to the recommended value of true, then sensitive information could be disclosed that is not to be shared with a specific domain.
--   New remediation: Ensure the property **glide.sys.domain.include\_domain\_condition\_on\_join** is set to true when the [[domain-sep-plugin|Domain Separation plugin]] is active.
+-   New remediation: Ensure the property **glide.sys.domain.include\_domain\_condition\_on\_join** is set to true when the Domain Separation plugin is active.
 -   Old remediation: Ensure the property **glide.sys.domain.include\_domain\_condition\_on\_join** is set to true.
 -   Rule Script: Script has been updated to improve detection accuracy.
 
@@ -364,7 +364,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-reset-password-max-sms-per-day|Minimize Reset Password Max SMS Per Day]]
+-   New short description: Minimize Reset Password Max SMS Per Day
 -   Old short description: Reset Password Max SMS Per Day
 
 </td></tr><tr><td>
@@ -373,9 +373,9 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-reset-password-verification-delay|Maximize Reset Password Verification Delay Duration]]
+-   New short description: Maximize Reset Password Verification Delay Duration
 -   Old short description: Reset Password Verification Delay
--   New description: If **password\_reset.verification.delay** is not set to the recommended value of 1000 or more, then it will lead the login more susceptable to brute force attacks. This number of milliseconds delay limits the ability of a malicious actor to attempt to guess [[users|users]] identification or verification details, by using automation tools \("bots"\).
+-   New description: If **password\_reset.verification.delay** is not set to the recommended value of 1000 or more, then it will lead the login more susceptable to brute force attacks. This number of milliseconds delay limits the ability of a malicious actor to attempt to guess users identification or verification details, by using automation tools \("bots"\).
 -   Old description: If **password\_reset.verification.delay** is not set to the recommended value of 1000 or more, then it will lead the login more susceptable to brute force attacks. This number of milliseconds delay limits the ability of a hacker to attempt to guess users identification or verification details, by using automation tools \("bots"\).
 
 </td></tr><tr><td>
@@ -398,7 +398,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-jsonv2-request-authorization|Require Authorization for JSONv2 Request]]
+-   New short description: Require Authorization for JSONv2 Request
 -   Old short description: JSONv2 Request Authorization
 -   New remediation: Ensure the property **glide.basicauth.required.jsonv2** exists in the sys\_properties table and is set to true.
 -   Old remediation: Ensure the property **glide.basicauth.required.jsonv2** is set to true.
@@ -410,7 +410,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-allow-javascript-tags-in-embedded-html|Disable JavaScript Tags in Embedded HTML]]
+-   New short description: Disable JavaScript Tags in Embedded HTML
 -   Old short description: Allow Javascript tags in Embedded HTML
 -   New remediation: Ensure the property **glide.ui.security.codetag.allow\_script** exists in the sys\_properties table and is set to false.
 -   Old remediation: Ensure the property **glide.ui.security.codetag.allow\_script** is set to false.
@@ -422,7 +422,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-security-jump-start-plugin-acl-rules|Enable Security Jump Start Plugin \(ACL Rules\)]]
+-   New short description: Enable Security Jump Start Plugin \(ACL Rules\)
 -   Old short description: Security Jump Start Plugin \(ACL Rules\)
 
 </td></tr><tr><td>
@@ -431,7 +431,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-set-guest-user-for-soap-requests|Set Guest User for SOAP Requests]]
+-   New short description: Set Guest User for SOAP Requests
 -   Old short description: Guest User for SOAP Requests
 
 </td></tr><tr><td>
@@ -440,7 +440,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-xml-entity-validation-url-allowlist|Restrict XML External Entities]]
+-   New short description: Restrict XML External Entities
 -   Old short description: XML Entity Validation URL Allowlist
 
 </td></tr><tr><td>
@@ -449,7 +449,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-enable-acls-to-control-live-profile-details|Enable ACLs to Control Live Profile Details]]
+-   New short description: Enable ACLs to Control Live Profile Details
 -   Old short description: Enable ACLs to control Live Profile Details
 
 </td></tr><tr><td>
@@ -465,11 +465,11 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Set OTP lifetime for [[c_SelfServicePasswordReset|password reset]] to 1 hour \[Updated in Security Center 2.0\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-set-otp-lifetime-for-password-reset-to-12-hours-or-less.md)
+[Set OTP lifetime for password reset to 1 hour \[Updated in Security Center 2.0\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-set-otp-lifetime-for-password-reset-to-12-hours-or-less.md)
 
 </td><td>
 
--   New description: This property **glide.pwd\_reset.onetime.token.validity** allows the link in the password reset [[email|email]] to expire after the number of hours specified in that **glide.pwd\_reset.onetime.token.validity property**. Validity time of password reset token should be keeped as short as possible in according of normal user experience. Have long validity time for password reset token can help malicious actors to perform account takeover.
+-   New description: This property **glide.pwd\_reset.onetime.token.validity** allows the link in the password reset email to expire after the number of hours specified in that **glide.pwd\_reset.onetime.token.validity property**. Validity time of password reset token should be keeped as short as possible in according of normal user experience. Have long validity time for password reset token can help malicious actors to perform account takeover.
 -   Old description: This property **glide.pwd\_reset.onetime.token.validity** allows the link in the password reset email to expire after the number of hours specified in that **glide.pwd\_reset.onetime.token.validity** property. Validity time of password reset token should be keeped as short as possible in according of normal user experience. Have long validity time for password reset token can help hackers to perform account takeover.
 
 </td></tr><tr><td>
@@ -496,7 +496,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-soap-content-type-checking|Validate SOAP Content Type]]
+-   New short description: Validate SOAP Content Type
 -   Old short description: SOAP Content Type Checking
 -   Rule Script: Script has been updated to improve detection accuracy.
 
@@ -506,7 +506,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-excel-request-authorization|Require Authorization for Excel Requests]]
+-   New short description: Require Authorization for Excel Requests
 -   Old short description: Excel Request Authorization
 -   New remediation: Ensure the property **glide.basicauth.required.excel** exists in the sys\_properties table and is set to true.
 -   Old remediation: Ensure the property **glide.basicauth.required.excel** is set to true.
@@ -518,7 +518,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-api-request-authorization|Require Authorization for API Requests]]
+-   New short description: Require Authorization for API Requests
 -   Old short description: API Request Authorization
 -   New remediation: Ensure the property **glide.basicauth.required.api** exists in the sys\_properties table and is set to true.
 -   Old remediation: Ensure the property **glide.basicauth.required.api** is set to true.
@@ -568,7 +568,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-http-only-cookie-flag|Enable HTTP Only Cookie Flag]]
+-   New short description: Enable HTTP Only Cookie Flag
 -   Old short description: HTTP Only Cookie Flag
 -   Rule Script: Script has been updated to improve detection accuracy.
 
@@ -578,7 +578,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-administer-scoped-admin-application-acls|Enable Scoped Admin Application ACLs]]
+-   New short description: Enable Scoped Admin Application ACLs
 -   Old short description: Administer Scoped Admin Application ACLs
 -   Rule Script: Script has been updated to improve detection accuracy.
 
@@ -597,7 +597,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-xml-request-authorization|Require Authorization for XML Requests]]
+-   New short description: Require Authorization for XML Requests
 -   Old short description: XML Request Authorization
 -   New remediation: Ensure the property **glide.basicauth.required.xml** exists in the sys\_properties table and is set to true.
 -   Old remediation: Ensure the property **glide.basicauth.required.xml** is set to true.
@@ -609,7 +609,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-external-user-registration-link-expiration|Minimize External User Registration Link Expiration Duration]]
+-   New short description: Minimize External User Registration Link Expiration Duration
 -   Old short description: External User Registration Link Expiration
 
 </td></tr><tr><td>
@@ -648,7 +648,7 @@ Enable Updated Version of Multi SSO Plugin \(Plugin Applicability: Multiple Prov
 </td><td>
 
 -   New short description: Disable Raw Database Query Execution
--   Old short description: Operation Level [[sc-access-control|Access Control]] Requirements
+-   Old short description: Operation Level Access Control Requirements
 -   New description: This property allows a user to perform raw SQL queries on the database which can give access to tables and data outside of GlideRecord restrictions. If **glide.db.allow\_unsafe\_dbi\_execute\_sql** is not set to the recommended value of false, then this allows calling dbi.executeStatement\(\) from a Glide Scriptable.
 -   Old description: This property allows a user to perform raw SQL queries on the database which can give access to tables and data out of GlideRecord restrictions. If **glide.db.allow\_unsafe\_dbi\_execute\_sql** is not set to the recommended value of false, then this allows calling dbi.executeStatement\(\) from a Glide Scriptable.
 
@@ -658,7 +658,7 @@ Enable Updated Version of Multi SSO Plugin \(Plugin Applicability: Multiple Prov
 
 </td><td>
 
--   New short description: [[sc-escape-xml|Escape XML Markup]]
+-   New short description: Escape XML Markup
 -   Old short description: Escape XML
 -   New remediation: Ensure the property **glide.ui.escape\_text** exists in the sys\_properties table and is set to true.
 -   Old remediation: Ensure the property **glide.ui.escape\_text** is set to true.
@@ -670,7 +670,7 @@ Enable Updated Version of Multi SSO Plugin \(Plugin Applicability: Multiple Prov
 
 </td><td>
 
--   New short description: [[sc-rss-request-authorization|Require Authorization for RSS Requests]]
+-   New short description: Require Authorization for RSS Requests
 -   Old short description: RSS Request Authorization
 -   New remediation: Ensure the property **glide.basicauth.required.rss** exists in the sys\_properties table and is set to true.
 -   Old remediation: Ensure the property **glide.basicauth.required.rss** is set to true.
@@ -692,7 +692,7 @@ Enable Updated Version of Multi SSO Plugin \(Plugin Applicability: Multiple Prov
 </td><td>
 
 -   New description: The **glide.cms.catalog\_uri\_relative** property enforces relative links from the URI parameter on /ess/catalog.do. If **glide.cms.catalog\_uri\_relative** is not set to the recommended value of true, then the URL will not be sanitized with the enforceRelativeURL\(url\) function. Absolute URLs can pose a security risk when used as a part of parameter or a field value, thus redirecting the source page to an adversary-controlled website.
--   Old description: Use the **glide.cms.catalog\_uri\_relative** property to [[sc-enforce-relative-links|enforce relative links]] from the URI parameter on /ess/catalog.do. If **glide.cms.catalog\_uri\_relative** is not set to the recommended value of true, then it may not sanitize URL with the enforceRelativeURL\(url\) function.
+-   Old description: Use the **glide.cms.catalog\_uri\_relative** property to enforce relative links from the URI parameter on /ess/catalog.do. If **glide.cms.catalog\_uri\_relative** is not set to the recommended value of true, then it may not sanitize URL with the enforceRelativeURL\(url\) function.
 
 </td></tr><tr><td>
 
@@ -700,7 +700,7 @@ Enable Updated Version of Multi SSO Plugin \(Plugin Applicability: Multiple Prov
 
 </td><td>
 
--   New short description: [[sc-sms-code-notification-for-enrollment-and-verification|Enable SMS Code Notification for Enrollment and Verification]]
+-   New short description: Enable SMS Code Notification for Enrollment and Verification
 -   Old short description: SMS Code Notification for Enrollment and Verification
 
 </td></tr><tr><td>
@@ -720,8 +720,8 @@ Enable Updated Version of Multi SSO Plugin \(Plugin Applicability: Multiple Prov
 </td><td>
 
 -   New short description: Deny Internal Access to Explicit External Roles
--   Old short description: Enable [[explicit-roles|Explicit Roles]] Internal Denylist
--   New technical [[sc-configuration|configuration]] name: glide.security.explicit\_roles.enable\_internal\_user\_blacklist,glide.security.explicit\_roles.internal\_user\_blacklist
+-   Old short description: Enable Explicit Roles Internal Denylist
+-   New technical configuration name: glide.security.explicit\_roles.enable\_internal\_user\_blacklist,glide.security.explicit\_roles.internal\_user\_blacklist
 -   Old technical configuration name: glide.security.explicit\_roles.enable\_internal\_user\_blacklist
 -   New description: This prevents external users from being assigned the snc\_internal role. If **glide.security.explicit\_roles.enable\_internal\_user\_blacklist** is not set to the recommended value of true, and the **glide.security.explicit\_roles.internal\_user\_blacklist** property is not set to a list of untrusted user classes, then the specified roles can be assigned the snc\_internal role instead of the snc\_external role. If the list is empty, then all users will be assigned the snc\_internal role by default. The property should contain at least the default roles csm\_consumer\_user,customer\_contact. Misconfiguration of these properties increases the risk that an external user account gains access to internal information.
 -   Old description: This property prevents external users from being assigned the snc\_internal role. If **glide.security.explicit\_roles.enable\_internal\_user\_blacklist** is set to the recommended value of true, then it enables **glide.security.explicit\_roles.internal\_user\_blacklist property** which allows to assign snc\_external role. If the value is set to false, it disables **glide.security.explicit\_roles.internal\_user\_blacklist** property.
@@ -744,7 +744,7 @@ Enable Updated Version of Multi SSO Plugin \(Plugin Applicability: Multiple Prov
 
 </td><td>
 
--   New short description: [[sc-script-request-authorization|Require Authorization for Script Requests]]
+-   New short description: Require Authorization for Script Requests
 -   Old short description: Script Request Authorization
 -   New remediation: Ensure the property **glide.basicauth.required.scriptedprocessor** exists in the sys\_properties table and is set to true.
 -   Old remediation: Ensure the property **glide.basicauth.required.scriptedprocessor** is set to true.
@@ -758,7 +758,7 @@ Enable Updated Version of Multi SSO Plugin \(Plugin Applicability: Multiple Prov
 
 -   New short description: Limit Concurrent Interactive Sessions
 -   Old short description: Glide Authenticate Limit Concurrent Interactive Sessions
--   New description: This property is meant to be used with the [[limit-concurrent-sessions|Limit Concurrent Sessions]] \(**com.glide.limit.concurrent.sessions**\) plugin. When the plugin is active and the property is set to false, a user can have any number of concurrent interactive sessions on an instance. A greater number of open sessions means there is a great possibility for session hijacking to occur.
+-   New description: This property is meant to be used with the Limit Concurrent Sessions \(**com.glide.limit.concurrent.sessions**\) plugin. When the plugin is active and the property is set to false, a user can have any number of concurrent interactive sessions on an instance. A greater number of open sessions means there is a great possibility for session hijacking to occur.
 -   Old description: This propert is meant to be used with the Limit Concurrent Sessions \(**com.glide.limit.concurrent.sessions**\) plugin. When the plugin is active and the property is set to false, a user can have any number of concurrent interactive sessions on an instance. A greater number of open sessions means there is a great possibility for session hijacking to occur.
 
 </td></tr><tr><td>
@@ -778,12 +778,12 @@ Enable Updated Version of Multi SSO Plugin \(Plugin Applicability: Multiple Prov
 
 </td><td>
 
--   New short description: [[sc-session-activity-timeout|Minimize Session Activity Timeout Duration]]
+-   New short description: Minimize Session Activity Timeout Duration
 -   Old short description: Session Activity Timeout
 
 </td></tr><tr><td>
 
-[Enable [[c_HTMLSanitizer|HTML Sanitizer]] \[Updated in Security Center 1.3\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-html-sanitizer.md)
+[Enable HTML Sanitizer \[Updated in Security Center 1.3\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-html-sanitizer.md)
 
 </td><td>
 
@@ -817,7 +817,7 @@ Enable Updated Version of Multi SSO Plugin \(Plugin Applicability: Multiple Prov
 
 </td><td>
 
--   New short description: [[sc-absolute-session-timeout|Minimize Absolute Session Timeout Duration]]
+-   New short description: Minimize Absolute Session Timeout Duration
 -   Old short description: Absolute Session Timeout
 
 </td></tr><tr><td>
@@ -826,7 +826,7 @@ Enable Updated Version of Multi SSO Plugin \(Plugin Applicability: Multiple Prov
 
 </td><td>
 
--   New short description: [[sc-privacy-on-client-callable-script-includes|Require Authentication by Default for Client-Callable Script Includes]]
+-   New short description: Require Authentication by Default for Client-Callable Script Includes
 -   Old short description: Privacy on Client-Callable Script Includes
 
 </td></tr><tr><td>
@@ -835,7 +835,7 @@ Enable Updated Version of Multi SSO Plugin \(Plugin Applicability: Multiple Prov
 
 </td><td>
 
--   New short description: [[sc-access-glidesystemusersession-scriptable-api|Restrict Access to GlideSystemUserSession Scriptable API]]
+-   New short description: Restrict Access to GlideSystemUserSession Scriptable API
 -   Old short description: Access to GlideSystemUserSession scriptable API
 
 </td></tr><tr><td>
@@ -844,7 +844,7 @@ Enable Updated Version of Multi SSO Plugin \(Plugin Applicability: Multiple Prov
 
 </td><td>
 
--   New short description: [[sc-check-unsanitized-html|Enforce HTML Sanitization]]
+-   New short description: Enforce HTML Sanitization
 -   Old short description: Check Unsanitized HTML
 -   Rule Script: Script has been updated to improve detection accuracy.
 
@@ -863,12 +863,12 @@ Enable Updated Version of Multi SSO Plugin \(Plugin Applicability: Multiple Prov
 
 </td><td>
 
--   New short description: [[sc-role-based-multi-factor-authentication|Activate Role Based Multi-Factor Authentication]]
--   Old short description: Role Based [[mfa-landing|Multi-Factor Authentication]]
+-   New short description: Activate Role Based Multi-Factor Authentication
+-   Old short description: Role Based Multi-Factor Authentication
 
 </td></tr><tr><td>
 
-[Minimize [[c_SAML2.0WebBrowserSSOProfile|SAML]] notBefore or notOnOrAfter constraint duration \[Updated in Security Center 1.3 and 1.5\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-saml-notbefore-or-notonorafter-constraint.md)
+[Minimize SAML notBefore or notOnOrAfter constraint duration \[Updated in Security Center 1.3 and 1.5\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-saml-notbefore-or-notonorafter-constraint.md)
 
 </td><td>
 
@@ -893,7 +893,7 @@ Enable Updated Version of Multi SSO Plugin \(Plugin Applicability: Multiple Prov
 
 </td><td>
 
--   New short description: [[sc-reset-password-sms-pause-window|Maximize Reset Password SMS Pause Window Duration]]
+-   New short description: Maximize Reset Password SMS Pause Window Duration
 -   Old short description: Reset Password SMS Pause Window
 -   New remediation: Ensure the property **password\_reset.sms.pause\_window** is set to 2 or greater.
 -   Old remediation: Ensure the property **password\_reset.sms.pause\_window** is set to 2.
@@ -905,7 +905,7 @@ Enable Updated Version of Multi SSO Plugin \(Plugin Applicability: Multiple Prov
 
 </td><td>
 
--   New short description: [[sc-disabling-sslv2-sslv3|Disable Outbound SSLv2/SSLv3 Connections]]
+-   New short description: Disable Outbound SSLv2/SSLv3 Connections
 -   Old short description: Disabling SSLv2/SSLv3
 
 </td></tr><tr><td>
@@ -914,7 +914,7 @@ Enable Updated Version of Multi SSO Plugin \(Plugin Applicability: Multiple Prov
 
 </td><td>
 
--   New short description: [[sc-require-authorization-for-unload-requests|Require Authorization for Unload Requests]]
+-   New short description: Require Authorization for Unload Requests
 -   Old short description: Unload Request Authorization
 -   New remediation: Ensure the property **glide.basicauth.required.unl** exists in the sys\_properties\_table and is set to true.
 -   Old remediation: Ensure the property **glide.basicauth.required.unl** is set to true.
@@ -926,7 +926,7 @@ Enable Updated Version of Multi SSO Plugin \(Plugin Applicability: Multiple Prov
 
 </td><td>
 
--   New short description: [[sc-email-spam-scoring-and-filtering|Enable Email Spam Scoring and Filtering]]
+-   New short description: Enable Email Spam Scoring and Filtering
 -   Old short description: Email Spam Scoring and Filtering
 
 </td></tr><tr><td>
@@ -953,7 +953,7 @@ Enable Updated Version of Multi SSO Plugin \(Plugin Applicability: Multiple Prov
 
 </td><td>
 
--   New short description: [[sc-enabling-ajaxgliderecord-acl-checking|Require AJAXGlideRecord ACL Checking]]
+-   New short description: Require AJAXGlideRecord ACL Checking
 -   Old short description: Enabling AJAXGlideRecord ACL Checking
 
 </td></tr><tr><td>
@@ -978,7 +978,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-enable-captcha-external-user-registration|Enable Captcha for External User Registration]] \(Plugin Applicability: External User Registration\)
+-   New short description: Enable Captcha for External User Registration \(Plugin Applicability: External User Registration\)
 -   Old short description: Enable Captcha for External User Registration
 
 </td></tr><tr><td>
@@ -987,7 +987,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-disabling-sql-error-messages|Disable SQL Error Messages]]
+-   New short description: Disable SQL Error Messages
 -   Old short description: Disabling SQL error messages
 
 </td></tr><tr><td>
@@ -996,7 +996,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-reset-password-request-expiration|Minimize Reset Password Request Expiration Duration]]
+-   New short description: Minimize Reset Password Request Expiration Duration
 -   Old short description: Reset Password Request Expiration
 -   Rule Script: Script has been updated to improve detection accuracy.
 
@@ -1015,7 +1015,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-downloadable-mime-type-denylist|Restrict Downloadable MIME Types]]
+-   New short description: Restrict Downloadable MIME Types
 -   Old short description: Downloadable Mime Type Denylist
 
 </td></tr><tr><td>
@@ -1033,7 +1033,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-contextual-security-plugin|Enable Contextual Security Plugin]]
+-   New short description: Enable Contextual Security Plugin
 -   Old short description: Contextual Security Plugin
 
 </td></tr><tr><td>
@@ -1042,7 +1042,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-account-recovery|Enable Account Recovery]] \(Plugin Applicability: Multiple Provider Single Sign-On\)
+-   New short description: Enable Account Recovery \(Plugin Applicability: Multiple Provider Single Sign-On\)
 -   Old short description: Account Recovery
 -   New description: This property controls the account recovery feature which binds the ability to bypass single sign-on to specifically designated administrators. If**glide.sso.acr.enabled** is not set to the recommended value of true, then the local interactive log-ins \(username or password based\) will be remain enabled when single sign-on is enabled on the instance. Eliminating local interactive log-ins reduces the potential for unauthorized access to the instance.
 -   Old description: This property controls the account recovery feature. If **glide.sso.acr.enabled** is not set to the recommended value of true, then Account recovery by userId will not be possible.
@@ -1056,7 +1056,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-import-request-authorization|Require Authorization for Import Requests]]
+-   New short description: Require Authorization for Import Requests
 -   Old short description: Import Request Authorization
 -   New remediation: Ensure the property **glide.basicauth.required.importprocessor** exists in the sys\_properties table and is set to true.
 -   Old remediation: Ensure the property **glide.basicauth.required.importprocessor** is set to true.
@@ -1068,7 +1068,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-snc-access-control-plugin|Enable SNC Access Control Plugin]]
+-   New short description: Enable SNC Access Control Plugin
 -   Old short description: SNC Access Control Plugin
 
 </td></tr><tr><td>
@@ -1077,7 +1077,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-limit-concurrent-sessions-across-all-nodes|Limit Concurrent Sessions Across All Nodes]]
+-   New short description: Limit Concurrent Sessions Across All Nodes
 -   Old short description: Glide Authenticate Limit Concurrent Sessions Across All Nodes
 
 </td></tr><tr><td>
@@ -1086,7 +1086,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-xml-output-authorization|Require Authorization for XML Output Requests]]
+-   New short description: Require Authorization for XML Output Requests
 -   Old short description: XML Output Authorization
 -   New remediation: Ensure the property **glide.basicauth.required.xmloutputprocessor** exists in the sys\_properties table and is set to true.
 -   Old remediation: Ensure the property **glide.basicauth.required.xmloutputprocessor** is set to true.
@@ -1098,7 +1098,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-escape-scratchpad|Escape Scripts in Scratchpad]]
+-   New short description: Escape Scripts in Scratchpad
 -   Old short description: Escape Scratchpad
 -   New description: The scratchpad is an easy way to set information on the server that can be accessed in the browser. An admin can script anything to be on it, including arbitrary data from arbitrary records. If **glide.ui.escape\_scratchpad** is not set to the recommended value of true, then it is possible to execute malicious script like a cross-site scripting vulnerability.
 -   Old description: The scratchpad is an easy way to set information on the server that can be accessed in the browser. An admin can script anything to be on it, including arbitrary data from arbitrary records.If **glide.ui.escape\_scratchpad** is not set to the recommended value of true, then it is possible to execute malicious script like a cross-site scripting vulnerability.
@@ -1109,7 +1109,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-wsdl-request-authorization|Require Authorization for WSDL Request]]
+-   New short description: Require Authorization for WSDL Request
 -   Old short description: WSDL Request Authorization
 -   New remediation: Ensure the property **glide.basicauth.required.wsdl** exists in the sys\_properties table and is set to true.
 -   Old remediation: Ensure the property **glide.basicauth.required.wsdl** is set to true.
@@ -1121,7 +1121,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-schema-request-authorization|Require Authorization for SCHEMA Requests]]
+-   New short description: Require Authorization for SCHEMA Requests
 -   Old short description: SCHEMA Request Authorization
 -   New remediation: Ensure the property **glide.basicauth.required.schema** exists in the sys\_properties table and is set to true.
 -   Old remediation: Ensure the property **glide.basicauth.required.schema** is set to true.
@@ -1142,7 +1142,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-glide-security-logger-no-loggining-for-sandbox|Disable Logger for Low Privilege Users in Script Sandbox]]
+-   New short description: Disable Logger for Low Privilege Users in Script Sandbox
 -   Old short description: Glide Security Logger No Loggining for Sandbox
 -   Rule Script: Script has been updated to improve detection accuracy.
 
@@ -1162,7 +1162,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-performance-monitoring-acl|Restrict Performance Monitoring Access]]
+-   New short description: Restrict Performance Monitoring Access
 -   Old short description: Performance Monitoring ACL
 
 </td></tr><tr><td>
@@ -1188,7 +1188,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-restrict-emails-by-domain|Disable Creating Users from Incoming Emails]]
+-   New short description: Disable Creating Users from Incoming Emails
 -   Old short description: Restrict Emails by Domain
 -   New description: An administrator can set an email property to automatically create users from incoming emails. If set this property to the insecure value, the instance will automatically create users from incoming email. Each user created will have the same hardcoded default password which makes bypassing authentication through brute force easier.
 -   Old description: An administrator can set an email property to automatically create users from incoming emails. If set this property to the insecure value, the instance will automatically create users from incoming email. Each user created will have the same hardcoded default password which makes bypassing authentication through brute force easier.
@@ -1198,86 +1198,3 @@ Rule Script: Script has been updated to improve detection accuracy.
 </td></tr></tbody>
 </table>**Parent Topic:**[Updated hardening settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/hardening-settings-updated.md)
 
-## Related
-
-- [[security-hardening-settings|Hardening settings]]
-- [[sec-center-v2|Security Center]]
-- [[sc-reset-password-sms-complexity|Maximize reset password SMS complexity]]
-- [[sc-high-security-plugin|Enable High Security Plugin]]
-- [[sc-secure-session-cookies|Enforce strict security of session cookies]]
-- [[sc-do-not-use-demo-certificates-active-saml-configurations-plugin|Do not use demo certificates for active SAML configurations]]
-- [[sc-mobile-app-ui-obfuscation|Require obfuscation of mobile app UI]]
-- [[sc-public-access-to-favorites|Disable public access to favorites]]
-- [[sc-xframe-options|Set Xframe options to prevent embedding third-party websites]]
-- [[sc-reset-password-request-retry-window|Maximize reset password request retry window duration]]
-- [[c_requestAPI|request]]
-- [[sc-xsd-request-authorization|Require Authorization for XSD Requests]]
-- [[sc-require-authorization-for-pdf-requests|Require authorization for PDF requests]]
-- [[sc-upload-mime-type-restriction|Restrict uploaded MIME types]]
-- [[sc-legacy-jquery-behavior|Disable legacy JQuery behavior]]
-- [[sc-reset-password-request-unlock-window|Maximize reset password request unlock window duration]]
-- [[sc-disable-multisso-debugging|Disable MultiSSO Debugging]]
-- [[sc-production-instance-behavior|Enforce production instance behavior]]
-- [[sc-reset-password-request-success-window|Minimize reset password request success window duration]]
-- [[sc-soap-request-strict-security|Enforce SOAP request strict security]]
-- [[sc-soap-request-authorization|Require authorization for SOAP requests]]
-- [[c_Authentication|Authentication]]
-- [[sc-apply-domain-separation|Apply domain separation on dot walked fields]]
-- [[domain-sep-plugin|Domain separation plugin]]
-- [[sc-reset-password-max-sms-per-day|Minimize reset password max SMS per day]]
-- [[sc-reset-password-verification-delay|Maximize reset password verification delay duration]]
-- [[users|Users]]
-- [[sc-jsonv2-request-authorization|Require authorization for JSONv2 request]]
-- [[sc-allow-javascript-tags-in-embedded-html|Disable JavaScript tags in embedded HTML]]
-- [[sc-security-jump-start-plugin-acl-rules|Enable security jump start plugin \(ACL Rules\)]]
-- [[sc-set-guest-user-for-soap-requests|Set guest user for soap requests]]
-- [[sc-xml-entity-validation-url-allowlist|Restrict XML external entities]]
-- [[sc-enable-acls-to-control-live-profile-details|Enable ACLs to Control Live Profile Details]]
-- [[c_SelfServicePasswordReset|Password Reset]]
-- [[email|Email]]
-- [[sc-soap-content-type-checking|Validate SOAP content type]]
-- [[sc-excel-request-authorization|Require authorization for excel requests]]
-- [[sc-api-request-authorization|Require authorization for API requests]]
-- [[sc-http-only-cookie-flag|Enable HTTP Only Cookie Flag]]
-- [[sc-administer-scoped-admin-application-acls|Enable scoped admin application ACLs]]
-- [[sc-xml-request-authorization|Require authorization for XML requests]]
-- [[sc-external-user-registration-link-expiration|Minimize external user registration link expiration duration]]
-- [[sc-access-control|Access control]]
-- [[sc-escape-xml|Escape XML markup]]
-- [[sc-rss-request-authorization|Require authorization for RSS requests]]
-- [[sc-enforce-relative-links|Enforce relative links]]
-- [[sc-sms-code-notification-for-enrollment-and-verification|Enable SMS code notification for enrollment and verification]]
-- [[explicit-roles|Explicit Roles]]
-- [[sc-configuration|Configuration]]
-- [[sc-script-request-authorization|Require authorization for script requests]]
-- [[limit-concurrent-sessions|Limit concurrent sessions]]
-- [[sc-session-activity-timeout|Minimize session activity timeout duration]]
-- [[c_HTMLSanitizer|HTML sanitizer]]
-- [[sc-absolute-session-timeout|Minimize absolute session timeout duration]]
-- [[sc-privacy-on-client-callable-script-includes|Require authentication by default for client-callable script includes]]
-- [[sc-access-glidesystemusersession-scriptable-api|Restrict access to GlideSystemUserSession scriptable API]]
-- [[sc-check-unsanitized-html|Enforce HTML Sanitization]]
-- [[sc-role-based-multi-factor-authentication|Activate role based multi-factor authentication]]
-- [[mfa-landing|Multi-factor authentication]]
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[sc-reset-password-sms-pause-window|Maximize reset password SMS pause window duration]]
-- [[sc-disabling-sslv2-sslv3|Disable outbound SSLv2/SSLv3 connections]]
-- [[sc-require-authorization-for-unload-requests|Require authorization for unload requests]]
-- [[sc-email-spam-scoring-and-filtering|Enable email spam scoring and filtering]]
-- [[sc-enabling-ajaxgliderecord-acl-checking|Require AJAXGlideRecord ACL checking]]
-- [[sc-enable-captcha-external-user-registration|Enable CAPTCHA for External User Registration]]
-- [[sc-disabling-sql-error-messages|Disable SQL error messages]]
-- [[sc-reset-password-request-expiration|Minimize reset password request expiration duration]]
-- [[sc-downloadable-mime-type-denylist|Restrict downloadable MIME types]]
-- [[sc-contextual-security-plugin|Enable contextual security plugin]]
-- [[sc-account-recovery|Enable account recovery]]
-- [[sc-import-request-authorization|Require authorization for import requests]]
-- [[sc-snc-access-control-plugin|Enable SNC access control plugin]]
-- [[sc-limit-concurrent-sessions-across-all-nodes|Limit concurrent sessions across all nodes]]
-- [[sc-xml-output-authorization|Require authorization for XML output requests]]
-- [[sc-escape-scratchpad|Escape scripts in scratchpad]]
-- [[sc-wsdl-request-authorization|Require authorization for WSDL request]]
-- [[sc-schema-request-authorization|Require authorization for SCHEMA requests]]
-- [[sc-glide-security-logger-no-loggining-for-sandbox|Disable logger for low privilege users in script sandbox]]
-- [[sc-performance-monitoring-acl|Restrict performance monitoring access]]
-- [[sc-restrict-emails-by-domain|Disable creating users from incoming emails]]

@@ -28,12 +28,12 @@ The ServiceNow AI Platform stores date and date/time information in records usin
 |Duration|**glide\_duration**|DATETIME|
 |Due date|**due\_date**|DATETIME|
 
-For the full listing of field types, see [[c_IntroductionToFields|Introduction to Fields]].
+For the full listing of field types, see [Introduction to Fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_IntroductionToFields.md).
 
 -   **[Global date and time field format](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/r_FormatDateAndTimeFields.md)**  
-You define default date and time formats globally using [[r_SetArchiveRuleProcessingBehavior|system properties]].
+You define default date and time formats globally using system properties.
 -   **[Configure the date picker for the list editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_ConfigureDatePickerForListEditor.md)**  
-A system property enables you to choose between two date picker [[clone-configurations-tab|configurations]] for the list editor.
+A system property enables you to choose between two date picker configurations for the list editor.
 -   **[Default date and time fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_DefaultDateAndTimeFields.md)**  
 Certain time fields are provided by default to store particular date and time fields.
 -   **[Export date and time formats](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_ExportDateAndTimeInformation.md)**  
@@ -41,8 +41,3 @@ Because some export formats are intended for human consumption and others for da
 
 **Parent Topic:**[Exploring time configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/exploring-time-configuration.md)
 
-## Related
-
-- [[c_IntroductionToFields|Exploring field administration]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]
-- [[clone-configurations-tab|Configurations]]

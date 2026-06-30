@@ -14,14 +14,14 @@ breadcrumb: [Reference, Process Mining, Platform Analytics]
 
 # Domain separation and Process Mining
 
-Domain separation is supported in [[process-mining|Process Mining]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can then control several aspects of this separation, including which users can see and access data.
+Domain separation is supported in Process Mining. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can then control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic
 
 
 
 -   Business logic: Ensure that data goes into the proper domain for the application’s service provider use cases.
--   The application supports domain separation at run time. The domain separation includes separation from the user interface, cache keys, [[reporting-landing-page|reporting]], rollups, and aggregations.
+-   The application supports domain separation at run time. The domain separation includes separation from the user interface, cache keys, reporting, rollups, and aggregations.
 -   The owner of the instance must set up the application to function across multiple tenants.
 
 Sample use case: When a service provider \(SP\) uses chat to respond to a tenant-customer’s message, the customer must be able to see the SP's response.
@@ -44,7 +44,7 @@ A Process Mining scheduled Job can include project definitions within the corres
 
 A project definition launched from Performance Analytics KPI is created in the current user’s domain.
 
-A new CIM initiative added from a [[analyst-workbench-overview|Process Mining workspace]] is created in the project definition’s domain.
+A new CIM initiative added from a Process Mining workspace is created in the project definition’s domain.
 
 ## Use cases
 
@@ -62,8 +62,3 @@ A new CIM initiative added from a [[analyst-workbench-overview|Process Mining wo
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[process-mining|Process Mining]]
-- [[reporting-landing-page|Reporting]]
-- [[analyst-workbench-overview|Process Mining workspace]]

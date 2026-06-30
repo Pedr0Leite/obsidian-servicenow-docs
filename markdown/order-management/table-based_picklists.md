@@ -58,14 +58,10 @@ When duplicate values are returned from a managed table, CPQ displays the label 
 
 If the referenced table returns a row with no data contained in the label or value, the application will ignore the entry, and the record will not be presented to the end-user as a picklist option.
 
-**Note:** Table-based picklists do not support [[cpq-picklist-extensions-ples|picklist extensions]].
+**Note:** Table-based picklists do not support picklist extensions.
 
 **Related topics**  
 
 
-[[cpq-picklists-and-picklist-extensions-in-rules|Picklists and picklist extensions in rules]]
+[Picklists and picklist extensions in rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-picklists-and-picklist-extensions-in-rules.md)
 
-## Related
-
-- [[cpq-picklists-and-picklist-extensions-in-rules|Picklists and picklist extensions in rules]]
-- [[cpq-picklist-extensions-ples|Picklist extensions]]

@@ -14,7 +14,7 @@ breadcrumb: [Securing and encrypting MID Server data, MID Server, Manage instanc
 
 # Attach a script file to a file synchronized MID Server
 
-You can attach a script file to synchronize to a connected [[mid-server-landing|MID Server]].
+You can attach a script file to synchronize to a connected MID Server.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ Role required: **admin**
 
 Use file synchronization to make script files available on a connected MID Server. The files on the instance and the MID Server stay synchronized, so there is no need for the MID Server to download the whole file. File synchronization also helps prevent updates you make in those script files from being overwritten during an instance upgrade.
 
-You can attach multiple files, but the last attached file gets synchronized to the MID Server. If you delete the [[attachment|attachment]], the script file becomes inactive, and the synchronized file is deleted from the MID Server.
+You can attach multiple files, but the last attached file gets synchronized to the MID Server. If you delete the attachment, the script file becomes inactive, and the synchronized file is deleted from the MID Server.
 
 ## Procedure
 
@@ -39,7 +39,7 @@ You can attach multiple files, but the last attached file gets synchronized to t
 
 3.  Select **Use attachment**, and then click the paperclip icon to add the attachment.
 
-    When **Use attachment** is checked, an attached script file overrides the script contained in the **Script** field. If this [[check-box|check box]] is cleared, the script in the **Script** field is used instead of the attachment.
+    When **Use attachment** is checked, an attached script file overrides the script contained in the **Script** field. If this check box is cleared, the script in the **Script** field is used instead of the attachment.
 
     The script file attachment name must match the MID Server script file name, since the record can contain other attachments.
 
@@ -95,8 +95,3 @@ See [Attach a script file to a file synchronized MID Server](https://raw.githubu
 
 **Note:** The MID Server Script File \[ecc\_agent\_script\_file\] table is domain separated. You can create versions of these policies that only a MID Server from the same domain can use. For instructions, see [Set up domain separation for MID servers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/c_MIDServerDomainSeparation.md).
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[attachment|Attachment]]
-- [[check-box|Check box]]

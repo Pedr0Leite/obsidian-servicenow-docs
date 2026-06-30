@@ -14,7 +14,7 @@ breadcrumb: [Creating custom lists on Workplace Central, Use, Workplace Central,
 
 # Create a custom list based on a system table
 
-Create a custom list on [[workplace-central-feat|Workplace Central]] based on a system table.
+Create a custom list on Workplace Central based on a system table.
 
 ## About this task
 
@@ -129,6 +129,3 @@ Select fields that are to sort the results in the custom lists in ascending or d
 
 **Parent Topic:**[Creating custom lists on Workplace Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/creating-custom-lists-wsd.md)
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]

@@ -24,7 +24,7 @@ You must log in to your CCaaS account and ServiceNowConfigurable Workspace to re
 
 ## About this task
 
-The callback interaction is either routed in the customer-first or agent-first method by CCaaS to the agent. The interaction appears like any other voice interaction in a customer-first scenario. The interaction appears with callback actions component and callback context card for an agent-first scenario. For more information on the agent-first and customer-first modes, see [[interaction-controls-component-icc-callback-integration-features|Integrating contact centers with Interaction Controls Component \(ICC\) for callbacks]]. The following procedure is applicable for the agent-first scenario.
+The callback interaction is either routed in the customer-first or agent-first method by CCaaS to the agent. The interaction appears like any other voice interaction in a customer-first scenario. The interaction appears with callback actions component and callback context card for an agent-first scenario. For more information on the agent-first and customer-first modes, see [Integrating contact centers with Interaction Controls Component \(ICC\) for callbacks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/interaction-controls-component-icc-callback-integration-features.md). The following procedure is applicable for the agent-first scenario.
 
 ## Procedure
 
@@ -52,7 +52,7 @@ Description
 
 </td><td>
 
-Select this button to accept the callback interaction request.The voice interaction page opens with the Callback Actions component on the top-left corner of the page. For more details on the callback actions component, see [[csm-native-voice-record-page|Callback actions component]].
+Select this button to accept the callback interaction request.The voice interaction page opens with the Callback Actions component on the top-left corner of the page. For more details on the callback actions component, see [Callback actions component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-native-voice-record-page.md).
 
 </td></tr><tr><td id="d263581e165">
 
@@ -167,13 +167,7 @@ Once the new agent accepts the call, you can select **Merge calls** to merge you
 
 [Integrating contact centers with Interaction Controls Component \(ICC\) for callbacks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/interaction-controls-component-icc-callback-integration-features.md)
 
-[[contact-center-intergration-with-icc-callback|Callback interaction features]]
+[Callback interaction features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/contact-center-intergration-with-icc-callback.md)
 
-[[handle-ccaas-callback-gvc|Manage a CCaaS callback request using Global Voice Control]]
+[Manage a CCaaS callback request using Global Voice Control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/handle-ccaas-callback-gvc.md)
 
-## Related
-
-- [[interaction-controls-component-icc-callback-integration-features|Integrating contact centers with Interaction Controls Component \(ICC\) for callbacks]]
-- [[csm-native-voice-record-page|CSM voice interaction record page]]
-- [[contact-center-intergration-with-icc-callback|Callback interaction features]]
-- [[handle-ccaas-callback-gvc|Manage a CCaaS callback request using Global Voice Control]]

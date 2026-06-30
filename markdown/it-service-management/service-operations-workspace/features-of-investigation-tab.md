@@ -40,7 +40,7 @@ The metrics data includes the following information:
 
         **Note:** You can only use this option when the Agent Client Collector for Investigation \(sn\_acc\_adapter\) adapter is integrated with the Investigation Framework.
 
--   Device health: Select the **Device health** link to launch the [[dex-landing|Digital End-User Experience]] application and [[user-health-card|device health page]] for the selected CI on a separate tab, within the incident view. This tab enables agents to view all the available metrics and the device health for the selected CI, which were collected by DEX. You can also access this feature using the **View device health** option on the CI record in Service Operations Workspace.
+-   Device health: Select the **Device health** link to launch the Digital End-User Experience application and device health page for the selected CI on a separate tab, within the incident view. This tab enables agents to view all the available metrics and the device health for the selected CI, which were collected by DEX. You can also access this feature using the **View device health** option on the CI record in Service Operations Workspace.
 
     **Note:** DEX requires a separate entitlement.
 
@@ -75,9 +75,9 @@ The metrics data includes the following information:
 
 -   Services: List of services \(device or server\) running on the affected CI.
 -   Logged in users: List of the logged-in users in the affected CI.
--   Installed [[dex-workspace-application-tab|applications]]: List of the applications installed on the CI.
+-   Installed applications: List of the applications installed on the CI.
 
-    **Note:** For [[dex-workspace-devices-tab|devices]] with the Windows OS, the Installed applications don't include a list of pre-packed application.
+    **Note:** For devices with the Windows OS, the Installed applications don't include a list of pre-packed application.
 
 
 Use the **View History** button to view the historical metrics data for the CI on a separate tab. You can select the time range from the drop-down options to view the historical data for that time range. For more information, see [Viewing the historical data of CI metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/view-investigate-history-data.md).
@@ -89,9 +89,3 @@ Based on the Configuration Item \(CI\) selected in the **Investigate** tab, the 
 
 **Parent Topic:**[Incident Management in Service Operations Workspace reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/sow-im-reference.md)
 
-## Related
-
-- [[dex-landing|Digital End-User Experience]]
-- [[user-health-card|Device health page]]
-- [[dex-workspace-application-tab|Applications]]
-- [[dex-workspace-devices-tab|Devices]]

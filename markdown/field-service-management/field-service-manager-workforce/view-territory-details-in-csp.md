@@ -22,7 +22,7 @@ Role required: sn\_fsm\_tp.fsm\_territory\_planner, sn\_fsm\_tp.fsm\_territory\_
 
 ## About this task
 
-The contextual side panel provides comprehensive details about territories, markers, shapes, and heatmaps. Administrators can configure the displayed fields to show precisely the information needed. For more information, see [[configure-fields-to-appear-in-contextual-side-panel|Configure territory fields to appear in Territory Planning console]].
+The contextual side panel provides comprehensive details about territories, markers, shapes, and heatmaps. Administrators can configure the displayed fields to show precisely the information needed. For more information, see [Configure territory fields to appear in Territory Planning console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/configure-fields-to-appear-in-contextual-side-panel.md).
 
 In the contextual side panel:
 
@@ -30,7 +30,7 @@ In the contextual side panel:
 -   Clicking on a co-located marker icon representing multiple data items, lists all the associated data items in the contextual side panel. To view specific details for each record, select the individual items.
 -   Use the condition builder to further filter the data items. For example, add a condition to display only active work order tasks.
 
-Territory Key Performance Indicators \(KPIs\) offer valuable insights into the performance of territories. The contextual side panel displays the KPIs for the territory. When your administrator activates the Performance Analytics - Content Pack - [[fsm-application-landing-page|Field Service Management]] plugin. The KPIs configured in the `TerritoryIndicators (sn_fsm_tp.TerritoryIndicators)` extension point appear in the contextual side panel.
+Territory Key Performance Indicators \(KPIs\) offer valuable insights into the performance of territories. The contextual side panel displays the KPIs for the territory. When your administrator activates the Performance Analytics - Content Pack - Field Service Management plugin. The KPIs configured in the `TerritoryIndicators (sn_fsm_tp.TerritoryIndicators)` extension point appear in the contextual side panel.
 
 ## Procedure
 
@@ -75,7 +75,3 @@ Do the following
 
 The following snapshot illustrates how you can view relevant territory information and its KPIs in the contextual side panel, helping you to efficiently manage your territories and resources. \[Omitted image "territory-planning-csp.jpg"\] Alt text: Snapshot displaying the San Diego territory details and Key Performance Indicators in the contextual side panel.
 
-## Related
-
-- [[configure-fields-to-appear-in-contextual-side-panel|Configure territory fields to appear in Territory Planning console]]
-- [[fsm-application-landing-page|Field Service Management]]

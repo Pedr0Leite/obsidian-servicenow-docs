@@ -14,7 +14,7 @@ breadcrumb: [Audit Supervisor Workspace, Audit Workspace Overview, Audit Managem
 
 # Request evidence using Audit Workspace to Assest Audit Response
 
-Request evidence at any stage during an audit using the [[audit-management-overview-ws|Audit Workspace]]. The details about the items for which evidence is requested are also provided to the person responsible for providing the evidence.
+Request evidence at any stage during an audit using the Audit Workspace. The details about the items for which evidence is requested are also provided to the person responsible for providing the evidence.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_grc-advance.evidence-requestor
 
 ## About this task
 
-Selecting **Create a new [[evidence-request|evidence request]] task** in this procedure allows you to create an response directly. This bypasses the need to first create collection details. Typically, a response is created for each collection detail before working on the evidence response — this step is skipped when creating the task directly.
+Selecting **Create a new evidence request task** in this procedure allows you to create an response directly. This bypasses the need to first create collection details. Typically, a response is created for each collection detail before working on the evidence response — this step is skipped when creating the task directly.
 
 ## Procedure
 
@@ -119,10 +119,6 @@ User responsible for providing evidence.
 Instructions for providing evidence. For example, list of supporting documents, files, and so on.
 
 </td></tr></tbody>
-</table>    \[Omitted image "request\_evidence\_itam.png"\] Alt text: [[request-evidence-form-mrm|Request evidence form]].
+</table>    \[Omitted image "request\_evidence\_itam.png"\] Alt text: Request evidence form.
 
-## Related
 
-- [[audit-management-overview-ws|Audit Workspace]]
-- [[evidence-request|Evidence request]]
-- [[request-evidence-form-mrm|Request evidence form]]

@@ -22,7 +22,7 @@ Role required: sn\_customerservice.customer, sn\_customerservice.customer\_admin
 
 You can view all cases and the service status from the last 30 days as well as all active, past, and planned outages. You can also view any active entitlements for the install base. An entitlement is active when its end date isn’t in the past or it has no end date. If it’s linked to a contract, the contract must also be active.
 
-**Note:** When the [[customer-data-model-b2b2c|Customer Data Models for B2B2C]] plugin installed, contacts are able to access the list of [[install-base-item|install base items]] belonging to account consumers.
+**Note:** When the Customer Data Models for B2B2C plugin installed, contacts are able to access the list of install base items belonging to account consumers.
 
 **Note:** You can modify the **Active Entitlements** widget to define your own filters for active entitlements.
 
@@ -38,7 +38,4 @@ You can view all cases and the service status from the last 30 days as well as a
 
 4.  You can also create a case directly from the install base details.
 
-## Related
 
-- [[customer-data-model-b2b2c|Customer data models for B2B2C]]
-- [[install-base-item|Install base items]]

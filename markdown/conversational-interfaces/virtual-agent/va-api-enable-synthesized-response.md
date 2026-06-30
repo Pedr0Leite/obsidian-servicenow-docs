@@ -52,7 +52,7 @@ Value
 
 </td><td>
 
-Property value that controls how [[virtual-agent-api-landing-page|Virtual Agent API]] sends the synthesized text response with citation labels and links.
+Property value that controls how Virtual Agent API sends the synthesized text response with citation labels and links.
 
  If you want to configure the way citations are displayed in the response, then choose any of the following options:
 
@@ -98,6 +98,3 @@ Property value that controls how Virtual Agent API sends the synthesized text re
 
 **Parent Topic:**[Using Virtual Agent API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/use-virtual-agent-api.md)
 
-## Related
-
-- [[virtual-agent-api-landing-page|Virtual Agent API]]

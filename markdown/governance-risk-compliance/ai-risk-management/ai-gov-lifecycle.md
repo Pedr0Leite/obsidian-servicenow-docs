@@ -15,17 +15,17 @@ breadcrumb: [Explore, AI Risk and Compliance, Governance, Risk, and Compliance]
 
 # AI governance life cycle
 
-Learn more about how organizations can govern AI from initial demand through deployment and ongoing governance monitoring by using the AI Control Tower and [[ai-risk-and-compliance|AI Risk and Compliance]] applications together.
+Learn more about how organizations can govern AI from initial demand through deployment and ongoing governance monitoring by using the AI Control Tower and AI Risk and Compliance applications together.
 
 ## AI governance across the life cycle
 
 Governing AI is a continuous process that spans the entire life cycle of an AI asset, from initial demand and intake through deployment, monitoring, and value realization. You can use the AI Control Tower \(AICT\) and AI Risk and Compliance \(AIRC\) applications together to support a coordinated approach to enterprise AI governance.
 
-AICT provides centralized visibility and life cycle state management for AI initiatives across the organization. AIRC delivers risk, regulatory, and ethical governance capabilities that help organizations evaluate whether [[ai-system-airc|AI systems]] are developed and operated responsibly and ethically.
+AICT provides centralized visibility and life cycle state management for AI initiatives across the organization. AIRC delivers risk, regulatory, and ethical governance capabilities that help organizations evaluate whether AI systems are developed and operated responsibly and ethically.
 
 When a new AI system is introduced or an existing system is significantly updated and registered for governance, it enters a governed life cycle. This life cycle spans intake, assessment, build, review, deployment, and monitoring. Governance activities across this life cycle help organizations understand risk, apply appropriate controls, and make informed deployment decisions.
 
-As part of this life cycle, AI systems typically undergo impact and [[risk-assessments|risk assessments]] to evaluate regulatory exposure, ethical considerations, and operational risk. Assessment outcomes inform risk classification, required controls, and review routing. During development, governance focuses on control attestation, issue management, and policy exception handling from a risk and compliance perspective.
+As part of this life cycle, AI systems typically undergo impact and risk assessments to evaluate regulatory exposure, ethical considerations, and operational risk. Assessment outcomes inform risk classification, required controls, and review routing. During development, governance focuses on control attestation, issue management, and policy exception handling from a risk and compliance perspective.
 
 Before deployment, AI systems are reviewed to confirm that required assessments are complete. Open issues and policy exceptions must be resolved or formally accepted, and the system's residual risk posture must be understood. Based on this review, the AI system may be approved for deployment, returned for remediation, or blocked from release.
 
@@ -48,13 +48,13 @@ In summary, you can use each application as follows:
 
 -   Neither application replaces the other; together they support a coordinated governance framework.
 
-**Note:** The AI governance life cycle is supported by a set of life-cycle tasks that are executed across AICT and AIRC. These tasks provide operational checkpoints that help ensure that [[r_WhatIsGRC|governance, risk, and compliance]] requirements are addressed at the appropriate stage of the life cycle.
+**Note:** The AI governance life cycle is supported by a set of life-cycle tasks that are executed across AICT and AIRC. These tasks provide operational checkpoints that help ensure that governance, risk, and compliance requirements are addressed at the appropriate stage of the life cycle.
 
 ## AI governance roles and responsibilities
 
 The AI governance life cycle involves distinct roles with clearly separated responsibilities across AICT and AIRC.
 
-AI asset owners \[sn\_ai\_asset\_mgmt.ai\_asset\_owner\] \(also referred to as product owners\) are accountable for AI systems, models, and [[dataset-airc|datasets]] as [[ai-assets-airc|AI assets]]. They initiate intake and provide business context during assessment.
+AI asset owners \[sn\_ai\_asset\_mgmt.ai\_asset\_owner\] \(also referred to as product owners\) are accountable for AI systems, models, and datasets as AI assets. They initiate intake and provide business context during assessment.
 
 AI asset owners authorize deployment and retirement decisions. These decisions are subject to applicable risk and compliance approval. AI asset owners also own outcomes such as value realization and life cycle closure.
 
@@ -74,7 +74,7 @@ These phases describe AI governance activities at a conceptual level and may spa
 
     The life cycle begins with intake, where new AI use cases, enhancements, and ideas are submitted for governance. Intake establishes a centralized entry point to capture the purpose, scope, intended outcomes, and usage context of an AI system. This phase provides early visibility into AI demand, enabling organizations to identify potential risk, duplication, or misalignment before development begins.
 
-    Any team member with the AI asset owners, AI steward, or AIRC business roles can submit intake-related information with an intake request using the [[employee-center|Employee Center]] to determine whether an AI initiative should enter the governed life cycle based on its intent, scope, and organizational alignment. If you have the AI asset owner or AI steward role, you can review and progress [[airc-intake|intake requests]] using the AI Control Tower Workspace after they are submitted through the Employee Center.
+    Any team member with the AI asset owners, AI steward, or AIRC business roles can submit intake-related information with an intake request using the Employee Center to determine whether an AI initiative should enter the governed life cycle based on its intent, scope, and organizational alignment. If you have the AI asset owner or AI steward role, you can review and progress intake requests using the AI Control Tower Workspace after they are submitted through the Employee Center.
 
     For more information about intake requests in AIRC and AICT, see [Intake requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/airc-intake.md), [Request an AI use case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/request-ai-system.md), [Request an AI model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/request-ai-model.md), and [Request a dataset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/request-dataset.md).
 
@@ -82,7 +82,7 @@ These phases describe AI governance activities at a conceptual level and may spa
 
     AIRC doesn't own AI use-case intake. If you have AIRC, you can participate after intake by contributing risk and compliance governance context, such as impact assessments and regulatory evaluation, once an AI use case has been registered in AICT.
 
-    Use the Employee Center to [[request-ai-system|request an AI use case]] for review, or use AICT to add an AI asset directly as part of approved onboarding by a fulfiller. For more information, see [Create AI system assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/create-ai-system-assets.md), [Create an AI case in the AI Control Tower](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/create-ai-case-in-the-ai-control-tower.md), [Create AI model assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/create-ai-model-assets.md), [Create prompt assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/create-prompt-assets.md), and [Create dataset assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/create-dataset-assets.md).
+    Use the Employee Center to request an AI use case for review, or use AICT to add an AI asset directly as part of approved onboarding by a fulfiller. For more information, see [Create AI system assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/create-ai-system-assets.md), [Create an AI case in the AI Control Tower](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/create-ai-case-in-the-ai-control-tower.md), [Create AI model assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/create-ai-model-assets.md), [Create prompt assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/create-prompt-assets.md), and [Create dataset assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/create-dataset-assets.md).
 
     Enhancement requests, ideas, and feedback can be submitted and managed if Strategic Portfolio Management is installed. Enhancement requests, ideas, and feedback don’t enter the AI governance life cycle through AICT or AIRC. For more information about Strategic Portfolio Management, see [Strategic Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/r_ITBusinessManagement.md).
 
@@ -199,14 +199,3 @@ These phases describe AI governance activities at a conceptual level and may spa
 
 **Note:** Features described in this life cycle may require additional configurations, supporting applications, or content packs. Availability and behavior depend on installed products, assigned roles, and configuration.
 
-## Related
-
-- [[ai-risk-and-compliance|AI Risk and Compliance]]
-- [[ai-system-airc|AI systems]]
-- [[risk-assessments|risk assessments]]
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]
-- [[dataset-airc|Datasets]]
-- [[ai-assets-airc|AI assets]]
-- [[employee-center|employee center]]
-- [[airc-intake|Intake requests]]
-- [[request-ai-system|Request an AI use case]]

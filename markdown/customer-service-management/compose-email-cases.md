@@ -24,7 +24,7 @@ You can compose large emails easily in a full screen view which opens up in a ne
 
 ## Procedure
 
-1.  [[csm-workspaces-open|Open CSM Configurable Workspace]].
+1.  Open CSM Configurable Workspace.
 
 2.  Select and open the case for which you want to compose an email.
 
@@ -42,9 +42,5 @@ You can compose large emails easily in a full screen view which opens up in a ne
 **Related topics**  
 
 
-[[open-email-customer-360|Compose an email from the ribbon component]]
+[Compose an email from the ribbon component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/open-email-customer-360.md)
 
-## Related
-
-- [[open-email-customer-360|Compose an email from the ribbon component]]
-- [[csm-workspaces-open|Open CSM Configurable Workspace]]

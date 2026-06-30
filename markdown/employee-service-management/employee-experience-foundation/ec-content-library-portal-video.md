@@ -14,7 +14,7 @@ breadcrumb: [Portal content, Creating employee communications, Authoring and man
 
 # Create video content
 
-Using the Content Library, you can create video content to appear on the [[employee-center-portal-overview|employee portal]].
+Using the Content Library, you can create video content to appear on the employee portal.
 
 ## Before you begin
 
@@ -98,7 +98,7 @@ The link to the video you want to appear as content.Only YouTube and Vimeo video
 
     -   **Content Governance**
 
-        When [[ec-streamline-content|portal content]] is requested from Content Governance, the **Content Request Items** related list tab appears. Select the content request item to view information about the request. For more information, see [Edit a content request item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-gov-request.md).
+        When portal content is requested from Content Governance, the **Content Request Items** related list tab appears. Select the content request item to view information about the request. For more information, see [Edit a content request item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-gov-request.md).
 
         When the **Content Request Item** has a state of **Work in Progress**, the **Send for Review** button appears.
 
@@ -112,7 +112,3 @@ The link to the video you want to appear as content.Only YouTube and Vimeo video
 
 [Embed videos in the HTML editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_EmbeddingVideoInHTMLFields.md)
 
-## Related
-
-- [[employee-center-portal-overview|Employee portal]]
-- [[ec-streamline-content|Portal content]]

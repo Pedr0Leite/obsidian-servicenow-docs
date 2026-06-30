@@ -15,7 +15,7 @@ breadcrumb: [Using multiple active conversations in Virtual Agent, Configure, Vi
 
 # Activate multiple active conversations in Virtual Agent
 
-Use the multiple active conversations system, in combination with defined context values and a default portal, to handle concurrent conversations with [[virtual-agent-landing-page|Virtual Agent]].
+Use the multiple active conversations system, in combination with defined context values and a default portal, to handle concurrent conversations with Virtual Agent.
 
 ## Before you begin
 
@@ -31,7 +31,7 @@ The multiple active conversations feature is inactive by default in Virtual Agen
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings** &gt; **Virtual Agent**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings** &gt; **Virtual Agent**.
 
 2.  Under **multiple active conversations**, select **Manage settings**.
 
@@ -46,7 +46,3 @@ With multiple active conversations activated, you can also send notifications fr
 
 **Parent Topic:**[Using multiple active conversations in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/c_multiple-active-conversations-va.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]

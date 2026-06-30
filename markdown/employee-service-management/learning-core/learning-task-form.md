@@ -14,7 +14,7 @@ breadcrumb: [Learning Core Reference, Learning Core, HR Service Delivery, Employ
 
 # Learning task form
 
-Assign a [[exploring-learning-exp|learning]] task to an employee that can be completed from the To-dos page in [[employee-center-landing-page|Employee Center]].
+Assign a learning task to an employee that can be completed from the To-dos page in Employee Center.
 
 |Field|Description|
 |-----|-----------|
@@ -47,7 +47,3 @@ Assign a [[exploring-learning-exp|learning]] task to an employee that can be com
 
 [Collection form]()
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[employee-center-landing-page|Employee Center]]

@@ -14,7 +14,7 @@ breadcrumb: [Working with playbooks, Use, Sourcing and Procurement Operations, F
 
 # Process an edit receipt request in playbook
 
-You can revise previously approved [[receipts|receipts]] to correct any discrepancies, ensuring the delivery receipt accurately reflects the quantities received for a specific [[purchase-order-table|purchase order]].
+You can revise previously approved receipts to correct any discrepancies, ensuring the delivery receipt accurately reflects the quantities received for a specific purchase order.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ As a fulfiller, you can review the details of the Edit Receipt request and choos
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[psd-overview|Procurement Case Management]]** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Procurement Case Management** &gt; **Source-to-Pay Workspace**.
 
 2.  Select the List icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon.\) and select **All work** &gt; **Cases**.
 
@@ -127,7 +127,7 @@ Notify the requester
 
 </td><td>
 
-Use this activity to email the business owner confirming that lines from their [[purchase-requisition|purchase requisition]] have been successfully edited.
+Use this activity to email the business owner confirming that lines from their purchase requisition have been successfully edited.
 
  A draft email appears with pre-populated data in the **Subject** field. The email body is pre-populated with the relevant text.
 
@@ -173,13 +173,5 @@ Updates the case to Closed Completed.
 
 [Sourcing intake guided experience with playbooks]()
 
-[Streamlining the [[supplier|supplier]] risk assessment workflow]()
+[Streamlining the supplier risk assessment workflow]()
 
-## Related
-
-- [[receipts|Receipts]]
-- [[purchase-order-table|Purchase order]]
-- [[psd-overview|Procurement Case Management]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[purchase-requisition|Purchase requisition]]
-- [[supplier|Supplier]]

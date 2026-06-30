@@ -14,15 +14,15 @@ breadcrumb: [Security Center, Platform Security]
 
 # Access Management
 
-Use the tools in the [[access-management-landing|Access Management]] section verify that your data is only accessible to the [[users|users]] and processes that need it.
+Use the tools in the Access Management section verify that your data is only accessible to the users and processes that need it.
 
-\[Omitted image "iam1.png"\] Alt text: [[identity-landing|Identity]] and Access Management in [[sec-center-v2|Security Center]]
+\[Omitted image "iam1.png"\] Alt text: Identity and Access Management in Security Center
 
 IAM consists of three tools you can use to manage access to the data on your instance. You can also select **Go to Console** to view these and other tools within the [Access management console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/access-management-console.md).
 
 -   **[Access findings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/access-findings.md)**
 
-    [[access-findings|Access findings]] feature displays the potential vulnerabilities that are discovered the last time access checks were ran on your ServiceNow AI Platform.
+    Access findings feature displays the potential vulnerabilities that are discovered the last time access checks were ran on your ServiceNow AI Platform.
 
 -   **[Access Analyzer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/access-analyzer.md)**
 
@@ -30,18 +30,10 @@ IAM consists of three tools you can use to manage access to the data on your ins
 
 -   **[Scripting Governance for default group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/scripting-governance.md)**
 
-    Use the [[scripting-governance|Scripting Governance Tool]] to configure preferences for the Conditional Script Writer group. Users in this group are assigned the **snc\_required\_script\_writer\_permission** role, which allows users to access scripts and script-like fields across the platform.
+    Use the Scripting Governance Tool to configure preferences for the Conditional Script Writer group. Users in this group are assigned the **snc\_required\_script\_writer\_permission** role, which allows users to access scripts and script-like fields across the platform.
 
     With the settings on this console you can turn auto-assignment of this role on or off, as well manually assign users to the group. You can also see information on who is assigned, and scan your instance to find users who have scripted in a specific time frame.
 
 
 **Parent Topic:**[Security Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sec-center-v2.md)
 
-## Related
-
-- [[access-management-landing|Access Management]]
-- [[users|Users]]
-- [[identity-landing|Identity]]
-- [[sec-center-v2|Security Center]]
-- [[access-findings|Access findings]]
-- [[scripting-governance|Scripting Governance Tool]]

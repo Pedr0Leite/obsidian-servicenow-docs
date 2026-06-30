@@ -26,7 +26,7 @@ The product hierarchy created using Included products helps you see relationship
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[dpr-workspace|Digital Product Release Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Digital Product Release Workspace**.
 
 2.  Select the products and services icon \(\[Omitted image "dpr-icon-products.png"\] Alt text: Products and services icon.\).
 
@@ -54,6 +54,3 @@ The product hierarchy created using Included products helps you see relationship
 
 [Work on a stage-oriented release for multiple products](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-work-release-stage-multi.md)
 
-## Related
-
-- [[dpr-workspace|Digital Product Release Workspace]]

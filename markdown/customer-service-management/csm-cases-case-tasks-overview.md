@@ -16,7 +16,7 @@ Customer service cases store information about customers, their questions and is
 
 ## Cases
 
-A case record is the main type of record used by the [[c_CustomerServiceManagement|Customer Service Management]] application. Case records include detailed information about customers, their reported questions or issues, and the work performed to answer questions and resolve issues. The system stores case records in the Case \[sn\_customerservice\_case\] table.
+A case record is the main type of record used by the Customer Service Management application. Case records include detailed information about customers, their reported questions or issues, and the work performed to answer questions and resolve issues. The system stores case records in the Case \[sn\_customerservice\_case\] table.
 
 Customer service agents create cases to identify questions or issues, gather information, and track the activities related to resolution. Agents also use cases to communicate with customers and other users.
 
@@ -69,9 +69,9 @@ Information that is gathered as part of resolving a case can be included in the 
 </td></tr></tbody>
 </table>For more information about cases and case records, see the following topics:
 
--   [[t_CreateACaseFromCustServApp|Create a customer service case]]
--   [[create-case-of-specific-case-type|Create a customer service case of a specific type]]
--   [[r_CustomerServiceCaseForm|Customer service case form]]
+-   [Create a customer service case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/t_CreateACaseFromCustServApp.md)
+-   [Create a customer service case of a specific type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-case-of-specific-case-type.md)
+-   [Customer service case form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_CustomerServiceCaseForm.md)
 
 ## Case tasks
 
@@ -83,7 +83,7 @@ Case tasks can be manually created from cases or automatically from case playboo
 
 If the value in the **Parent case** or **Parent** fields is updated, the customer information in the **Account**, **Contact**, or **Consumer** fields is also updated.
 
-Depending on a user's assigned roles, case tasks appear in a number of different Case Task list in the application navigator in [[csm-workspaces-configure|CSM Configurable Workspace]], including:
+Depending on a user's assigned roles, case tasks appear in a number of different Case Task list in the application navigator in CSM Configurable Workspace, including:
 
 -   My Case Task
 -   My Open
@@ -94,12 +94,12 @@ Depending on a user's assigned roles, case tasks appear in a number of different
 
 For more information about case tasks and case task records, see the following topics:
 
--   [[create-task-for-cust-service-case|Create a task for a customer service case]]
--   [[csm-case-task-form|Case task form]]
+-   [Create a task for a customer service case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-task-for-cust-service-case.md)
+-   [Case task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-case-task-form.md)
 
 ## Cases, case tasks and related parties
 
-The Customer Service Management application enables you to support multiple contacts and consumers on cases and [[sold-product|sold products]] and provide these contacts with varying levels of case access. These additional contacts and consumers are called related parties. Related parties are added to the Related Parties related list on the case record.
+The Customer Service Management application enables you to support multiple contacts and consumers on cases and sold products and provide these contacts with varying levels of case access. These additional contacts and consumers are called related parties. Related parties are added to the Related Parties related list on the case record.
 
 Customer service agents can also add related parties to case tasks. Customers that can be added to a case task are limited to the following:
 
@@ -109,11 +109,11 @@ Customer service agents can also add related parties to case tasks. Customers th
 Users with the admin role can remove related parties from cases. When an admin attempts to remove a related party from a case, the system checks to see if that related party is associated with any open case tasks.
 
 -   If no, the related party is removed from the case.
--   If yes, the related party isn’t removed from the case and the system displays a message that [[migration-lists|lists]] the associated case tasks.
+-   If yes, the related party isn’t removed from the case and the system displays a message that lists the associated case tasks.
 
 ## Case task integration with Service Definitions
 
-The [[csm-service-definitions|service definitions]] feature enables you to create connections between products, services, and case types.
+The [service definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-service-definitions.md) feature enables you to create connections between products, services, and case types.
 
 -   Agents can use configured service definitions to quickly create cases of the right type based on the selected product or service.
 -   Customers can use configured service definitions to quickly discover and request the services they need.
@@ -275,7 +275,7 @@ Can view the **Account**, **Contact** and **Consumer** fields for the case tasks
 -   Update the status of case tasks.
 -   Perform additional actions from case tasks such as sending email.
 
-**Note:** Available with the [[customer-data-model-b2b2c|Customer Data Models for B2B2C]] plugin \(com.sn\_csm\_b2b\_consumers\).
+**Note:** Available with the Customer Data Models for B2B2C plugin \(com.sn\_csm\_b2b\_consumers\).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -352,7 +352,7 @@ End users and requesters can view and update case tasks and the fields that they
 -   sn\_customerservice.partner
 -   sn\_customerservice.consumer
 
-The users can see the following fields on the Case Task lists and [[migration-forms|forms]]: **Account**, **Contact** and **Consumer**. If an end user is viewing a case task from a list of case tasks, the Case Task form also displays the **Parent case** field.
+The users can see the following fields on the Case Task lists and forms: **Account**, **Contact** and **Consumer**. If an end user is viewing a case task from a list of case tasks, the Case Task form also displays the **Parent case** field.
 
 ## Scheduled job for case tasks
 
@@ -371,17 +371,3 @@ To run this scheduled job:
 2.  Select **Update case task fields** in the **Name** field.
 3.  Select **Execute Now**.
 
-## Related
-
-- [[t_CreateACaseFromCustServApp|Create a customer service case]]
-- [[create-case-of-specific-case-type|Create a customer service case of a specific type]]
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[create-task-for-cust-service-case|Create a task for a customer service case]]
-- [[csm-case-task-form|Case task form]]
-- [[csm-service-definitions|Service definitions]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[sold-product|Sold products]]
-- [[migration-lists|Lists]]
-- [[customer-data-model-b2b2c|Customer data models for B2B2C]]
-- [[migration-forms|Forms]]

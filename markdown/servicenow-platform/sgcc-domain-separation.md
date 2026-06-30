@@ -12,7 +12,7 @@ breadcrumb: [SGC Central reference, SGC Central, Integrating third-party data in
 
 # Domain separation and SGC Central
 
-[[domain-separation-relationship-formatter-editor|Domain separation]] is unsupported for [[sgcc-landing|SGC Central]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is unsupported for SGC Central. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: No support
 
@@ -21,15 +21,10 @@ breadcrumb: [SGC Central reference, SGC Central, Integrating third-party data in
 
 For more information on support levels, see [Application support for domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-separated-apps.md).
 
-**Parent Topic:**[[sgcc-reference|SGC Central reference]]
+**Parent Topic:**[SGC Central reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-reference.md)
 
 **Related topics**  
 
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[sgcc-reference|SGC Central reference]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]
-- [[sgcc-landing|SGC Central]]

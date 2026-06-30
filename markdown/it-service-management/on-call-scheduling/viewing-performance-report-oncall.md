@@ -16,14 +16,14 @@ breadcrumb: [Viewing On-Call Scheduling reports, On-Call Scheduling, IT Service 
 
 The Performance reports enable detailed review of how well escalations are being processed. You have precise control of the data that describes escalation progress using filters like group, priority, level, or escalation category.
 
-**Important:** Starting in Xanadu release, the On-Call dashboard is deprecated. Users can use [[oncall-scheduling|On-call dashboard]] to view, maintain, and track the performance reports.
+**Important:** Starting in Xanadu release, the On-Call dashboard is deprecated. Users can use [On-call dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/oncall-scheduling.md) to view, maintain, and track the performance reports.
 
 ## Opening the reports
 
 You must have the Premium Dashboard user \[rota\_prem\_dashboard\_user\] role to view the Performance reports. Use one of the following methods to open the reports:
 
 -   Click **Self-Service** &gt; **Dashboards** and select **On-Call Overview - Premium**.
--   Click **[[c_OnCallScheduling|On-Call Scheduling]]** &gt; **Reports** &gt; **Overview**.
+-   Click **On-Call Scheduling** &gt; **Reports** &gt; **Overview**.
 
 Click the **Performance** tab and then select the date of interest. The time line shows the time of day at which escalations happen. Use the tabs to control the type of data to view:
 
@@ -72,7 +72,3 @@ Unacknowledged escalations have one of the following values for each member of a
 
 **Parent Topic:**[Viewing On-Call Scheduling reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/viewing-reports.md)
 
-## Related
-
-- [[oncall-scheduling|On-call dashboard]]
-- [[c_OnCallScheduling|On-Call Scheduling]]

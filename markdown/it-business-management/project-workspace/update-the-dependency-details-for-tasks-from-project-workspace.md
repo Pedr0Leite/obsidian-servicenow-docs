@@ -14,7 +14,7 @@ breadcrumb: [Add internal project task dependencies from Project Workspace, Mana
 
 # Update the dependency details for tasks from Project Workspace
 
-Update the details of the dependency including its type and lag time from [[project-workspace-landing-page|Project Workspace]].
+Update the details of the dependency including its type and lag time from Project Workspace.
 
 ## Before you begin
 
@@ -40,6 +40,3 @@ Role required: it\_project\_manager
 
 **Parent Topic:**[Add internal project task dependencies from Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/create-dependencies-for-project-tasks-from-project-workspace.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]

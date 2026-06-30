@@ -39,7 +39,7 @@ It's required that you review your contracts and third parties annually. You can
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[grc-opres-landing-page|Operational Resilience]] Workspace** &gt; **Digital resilience third-party registers** &gt; **Contracts** and select the desired contract.
+1.  Navigate to **Workspaces** &gt; **Operational Resilience Workspace** &gt; **Digital resilience third-party registers** &gt; **Contracts** and select the desired contract.
 
 2.  In the **Assessments of the ICT services** tab on the Contract form, select **New**.
 
@@ -49,7 +49,7 @@ It's required that you review your contracts and third parties annually. You can
 
 4.  Set up the digital resilience information for the assessments on the form.
 
-    For more information, see [[create-new-asmt-ict-service|Create New Assessment of the ICT service]].
+    For more information, see [Create New Assessment of the ICT service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-new-asmt-ict-service.md).
 
 5.  Select **Save**.
 
@@ -114,10 +114,5 @@ Once all details are captured, you can perform the following tasks:
 -   **[Create New Assessment of the ICT service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-new-asmt-ict-service.md)**  
 On the Create New Assessment of the ICT service form, fill in the fields.
 
-**Parent Topic:**[[using-dg-registers|Using Digital resilience third-party registers]]
+**Parent Topic:**[Using Digital resilience third-party registers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/using-dg-registers.md)
 
-## Related
-
-- [[create-new-asmt-ict-service|Create New Assessment of the ICT service]]
-- [[using-dg-registers|Using Digital resilience third-party registers]]
-- [[grc-opres-landing-page|Operational Resilience]]

@@ -14,7 +14,7 @@ breadcrumb: [Using Design &amp; Assign Network, Use, Telecommunications Network 
 
 # Create a cable record by using design and assign
 
-Create a cable record using the [[using-playbooks-design-assign-inventory-record|design and assign function]] in the [[telecom-network-inventory|Telecommunications Network Inventory]] application. By creating the cable and related strand records, you can fulfill an order request for a fiber optical cable record.
+Create a cable record using the design and assign function in the Telecommunications Network Inventory application. By creating the cable and related strand records, you can fulfill an order request for a fiber optical cable record.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 ## About this task
 
-When you instantiate a cable template, it creates the corresponding configuration item \(CI\) records in the Fiber Optical Cable \[cmdb\_ci\_fiber\_optical\_cable\] and Fiber Strand \[cmdb\_ci\_fiber\_strand\] tables. To learn more about the cable [[uses-for-network-inventory-data|data model]], see [Data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/uses-for-network-inventory-data.md).
+When you instantiate a cable template, it creates the corresponding configuration item \(CI\) records in the Fiber Optical Cable \[cmdb\_ci\_fiber\_optical\_cable\] and Fiber Strand \[cmdb\_ci\_fiber\_strand\] tables. To learn more about the cable data model, see [Data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/uses-for-network-inventory-data.md).
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon\), and then go to **Changes** &gt; **All**.
 
@@ -70,9 +70,3 @@ The cable and related strand records are created.
 
 [Create a cable model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-a-cable-model.md)
 
-## Related
-
-- [[using-playbooks-design-assign-inventory-record|Design and Assign function]]
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[uses-for-network-inventory-data|Data model]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]

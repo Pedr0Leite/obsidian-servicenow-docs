@@ -12,7 +12,7 @@ breadcrumb: [View a metric result, Assessment administrator tasks, Using assessm
 
 # Assessment Overview dashboard
 
-The Assessment Overview dashboard displays various assessment reports, such as [[c_assessable-records|Assessable Records]] by Type, Total Metrics by Metric Type, and [[r_Assessments|Assessments]] by State.
+The Assessment Overview dashboard displays various assessment reports, such as Assessable Records by Type, Total Metrics by Metric Type, and Assessments by State.
 
 The dashboard might not show all these reports. If you want to view a particular report, you can add that report to the dashboard.
 
@@ -22,7 +22,7 @@ The dashboard might not show all these reports. If you want to view a particular
 |Assessment Instances by Assessment Group|Assessment Instances \[asmt\_assessment\_instance\]|
 |Assessments by State|Assessment Instances \[asmt\_assessment\_instance\]|
 |Answered Questions by Assigned User|Assessment Instance Questions \[asmt\_assessment\_instance\_question\]|
-|Average Rating by Type|Assessment [[r_CategoryResults|Category Results]] \[asmt\_category\_result\]|
+|Average Rating by Type|Assessment Category Results \[asmt\_category\_result\]|
 |Category Result Ratings by Category|Assessment Category Results \[asmt\_category\_result\]|
 |Metrics by Data Type|Assessment Metrics \[asmt\_metric\]|
 |Stakeholders per Category|Assessment Stakeholders \[asmt\_m2m\_stakeholder\]|
@@ -32,11 +32,5 @@ The dashboard might not show all these reports. If you want to view a particular
 
 \[Omitted image "AssessmentOverviewPage.png"\] Alt text: Various assessment reports that appear on the Assessment Overview dashboard.
 
-**Parent Topic:**[[t_ViewAMetricResult|View a metric result]]
+**Parent Topic:**[View a metric result](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAMetricResult.md)
 
-## Related
-
-- [[t_ViewAMetricResult|View a metric result]]
-- [[c_assessable-records|Assessable records]]
-- [[r_Assessments|Assessments]]
-- [[r_CategoryResults|Category results]]

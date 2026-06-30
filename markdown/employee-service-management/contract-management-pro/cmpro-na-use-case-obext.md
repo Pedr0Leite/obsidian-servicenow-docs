@@ -45,7 +45,7 @@ The CM Pro - Contract Obligation Extraction use case is available with the in ba
 
 3.  Select **Activate skill** on the skill you want to activate.
 
-    \[Omitted image "cmpro-NA-skills.png"\] Alt text: Now Assist skills available for [[cncore-cmpro-landing-page|Contract Management Pro]].
+    \[Omitted image "cmpro-NA-skills.png"\] Alt text: Now Assist skills available for Contract Management Pro.
 
 4.  On the General details page, view the skill details and select **Save and continue**.
 
@@ -215,6 +215,3 @@ The use case is created for the contract obligation extraction skill. The LLM us
 
 [Map a use case for contract obligation extraction]()
 
-## Related
-
-- [[cncore-cmpro-landing-page|Contract Management Pro]]

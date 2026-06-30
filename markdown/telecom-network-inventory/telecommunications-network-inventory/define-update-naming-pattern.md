@@ -22,9 +22,9 @@ Role required: Inventory Template Manager.
 
 ## Procedure
 
-1.  Navigate to the SOW workspace or the [[exploring-network-inventory-workspace|Network Inventory workspace]].
+1.  Navigate to the SOW workspace or the Network Inventory workspace.
 
-    Go to **List** &gt; **[[using-templates-tni|Network Inventory Templates]]** &gt; **Inventory Templates** and select the inventory template that contains the related template you want to update.
+    Go to **List** &gt; **Network Inventory Templates** &gt; **Inventory Templates** and select the inventory template that contains the related template you want to update.
 
 2.  Open the related template record.
 
@@ -97,7 +97,3 @@ To verify the new pattern produces the expected resolved name across the templat
 
 [Naming pattern validation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/naming-pattern-validation.md)
 
-## Related
-
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[using-templates-tni|Network inventory templates]]

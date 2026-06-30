@@ -14,7 +14,7 @@ breadcrumb: [Configure, Coaching, IT Service Management]
 
 # Setting up Coaching and surveys
 
-To take full advantage of [[cf-coaching-landing|Coaching]], configure the Coaching application and set up surveys.
+To take full advantage of Coaching, configure the Coaching application and set up surveys.
 
 ## Setting up Coaching
 
@@ -42,6 +42,3 @@ Create a survey for coaches or trainees to assess the training quality. Add a qu
 
 **Parent Topic:**[Configuring Coaching](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-configuring-coaching.md)
 
-## Related
-
-- [[cf-coaching-landing|Coaching]]

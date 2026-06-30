@@ -15,7 +15,7 @@ breadcrumb: [Viewing system features and health alerts, Health Log Analytics, IT
 
 # View the settings of Health Log Analytics system features
 
-View the settings for all [[hla-landing-page|Health Log Analytics]] system features. These features configure many operations that affect your work. The admin can enable or disable features for you.
+View the settings for all Health Log Analytics system features. These features configure many operations that affect your work. The admin can enable or disable features for you.
 
 ## Before you begin
 
@@ -33,6 +33,4 @@ Role required: evt\_mgmt\_operator or evt\_mgmt\_admin
 
 2.  Ask your admin to activate or deactivate a feature by updating the **State** setting.
 
-## Related
 
-- [[hla-landing-page|Health Log Analytics]]

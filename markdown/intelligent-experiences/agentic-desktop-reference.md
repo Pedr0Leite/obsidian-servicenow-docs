@@ -15,18 +15,12 @@ breadcrumb: [AI Desktop Actions, Enable AI experiences]
 
 Reference topics provide additional information about the roles and tables that are installed with the AI Desktop Actions application.
 
--   **[[components-installed-with-agentic-desktop|Components installed with AI Desktop Actions]]**  
+-   **[Components installed with AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/components-installed-with-agentic-desktop.md)**  
 Several types of components are installed with activation of the sn\_desktop\_agents plugin, including user roles and tables.
--   **[[sys-req-limitations-ad|System requirements and limitations in AI Desktop Actions]]**  
+-   **[System requirements and limitations in AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/sys-req-limitations-ad.md)**  
 Be aware of system requirements and a few limitations when you’re using the AI Desktop Actions application for defined desktop actions.
--   **[[agentic-desktop-glossary|AI Desktop Actions glossary]]**  
+-   **[AI Desktop Actions glossary](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/agentic-desktop-glossary.md)**  
 Learn about the terms and concepts that are unique to AI Desktop Actions.
 
-**Parent Topic:**[[agentic-desktop-landing-page|AI Desktop Actions]]
+**Parent Topic:**[AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/agentic-desktop-landing-page.md)
 
-## Related
-
-- [[components-installed-with-agentic-desktop|Components installed with AI Desktop Actions]]
-- [[sys-req-limitations-ad|System requirements and limitations in AI Desktop Actions]]
-- [[agentic-desktop-glossary|AI Desktop Actions glossary]]
-- [[agentic-desktop-landing-page|AI Desktop Actions]]

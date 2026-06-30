@@ -15,7 +15,7 @@ breadcrumb: [Review, External Content Connectors, Search administration, Configu
 
 # Review crawl history for an external content connector
 
-View crawl history records for an external content connector. Drill into a crawl history record to see [[c_MetricDefinitionSupport|metrics]] and alerts for the crawl in question.
+View crawl history records for an external content connector. Drill into a crawl history record to see metrics and alerts for the crawl in question.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ You can select an individual crawl history record to examine a crawl in more det
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ext-cont-connectors-landing-page|External Content Connectors]]** &gt; **External Content Admin Home**.
+1.  Navigate to **All** &gt; **External Content Connectors** &gt; **External Content Admin Home**.
 
 2.  In the Connectors list, select the record for the external content connector that you want to review crawl history for.
 
@@ -90,7 +90,3 @@ You can select an individual crawl history record to examine a crawl in more det
 
 **Parent Topic:**[Reviewing external content connector crawl results and analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/reviewing-external-content-connector-results-and-analytics.md)
 
-## Related
-
-- [[c_MetricDefinitionSupport|Metrics]]
-- [[ext-cont-connectors-landing-page|External Content Connectors]]

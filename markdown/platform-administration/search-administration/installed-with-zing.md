@@ -38,7 +38,7 @@ Index Stop Word \[ts\_index\_stop\]
 
 </td><td>
 
-Stores the [[stop-words-ais|stop words]] for a specific table.
+Stores the stop words for a specific table.
 
 </td></tr><tr><td>
 
@@ -106,7 +106,7 @@ Zing is installed with these roles.
 
 [Global search finds records from multiple tables]()
 
-[Zing generates search [[hs-results|results]] in four phases]()
+[Zing generates search results in four phases]()
 
 [Zing filters search results with access controls]()
 
@@ -122,10 +122,5 @@ Zing is installed with these roles.
 
 [Zing can expand search results with synonyms]()
 
-[Zing displays [[search-suggestions-overview|search suggestions]] as users enter search terms]()
+[Zing displays search suggestions as users enter search terms]()
 
-## Related
-
-- [[stop-words-ais|Stop words]]
-- [[hs-results|Results]]
-- [[search-suggestions-overview|Search Suggestions]]

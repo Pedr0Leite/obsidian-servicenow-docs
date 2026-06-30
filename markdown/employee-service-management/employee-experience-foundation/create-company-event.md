@@ -14,7 +14,7 @@ breadcrumb: [Company events, Creating employee communications, Authoring and man
 
 # Create a company event
 
-Use [[ec-company-events|company events]] to configure a live-streamed event.
+Use company events to configure a live-streamed event.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Use [[ec-company-events|company events]] to configure a live-streamed event.
 
 ## About this task
 
-The company event content type is built using the Rich Content Editor and published to the [[employee-center-portal-overview|employee portal]] via widgets. For an overview, see [Company events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-company-events.md).
+The company event content type is built using the Rich Content Editor and published to the employee portal via widgets. For an overview, see [Company events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-company-events.md).
 
 ## Procedure
 
@@ -116,7 +116,7 @@ Featured image
 
 </td><td>
 
-The image that will appear in the company event and as a thumbnail in the News feed widget in the [[employee-center-pro-landing|Employee Center Pro]].We recommend a 4:3 ratio for images.
+The image that will appear in the company event and as a thumbnail in the News feed widget in the Employee Center Pro.We recommend a 4:3 ratio for images.
 
 </td></tr><tr><td>
 
@@ -168,8 +168,3 @@ If the Content Admin enabled social engagement, the following settings appear in
 
 **Parent Topic:**[Company events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-company-events.md)
 
-## Related
-
-- [[ec-company-events|Company events]]
-- [[employee-center-portal-overview|Employee portal]]
-- [[employee-center-pro-landing|Employee Center Pro]]

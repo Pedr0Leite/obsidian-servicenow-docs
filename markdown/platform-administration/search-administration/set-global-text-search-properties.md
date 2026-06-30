@@ -14,7 +14,7 @@ breadcrumb: [Global search finds records from multiple tables, Zing text indexin
 
 # Set global text search properties
 
-Administrators can control how global text search behaves with [[r_SetArchiveRuleProcessingBehavior|system properties]].
+Administrators can control how global text search behaves with system properties.
 
 ## Before you begin
 
@@ -73,9 +73,9 @@ Comma-separated list of tables that don't appear as options when defining text s
 
 </td><td>
 
-Maximum number of matching records previewed for each table on the global text search [[hs-results|results]] page. Users can select a table to see all matching results for that table.-   Type: Integer
+Maximum number of matching records previewed for each table on the global text search results page. Users can select a table to see all matching results for that table.-   Type: Integer
 -   Default value: 10
-**Note:** This system property only controls the global text search preview limit in Core UI. In Next Experience UI, you can set the global search preview limit by editing the **Now Experience Search Configuration** record in the Workspace Global Search [[clone-configurations-tab|Configurations]] \[sys\_aw\_global\_search\_config\] table.
+**Note:** This system property only controls the global text search preview limit in Core UI. In Next Experience UI, you can set the global search preview limit by editing the **Now Experience Search Configuration** record in the Workspace Global Search Configurations \[sys\_aw\_global\_search\_config\] table.
 
 </td></tr><tr><td>
 
@@ -181,7 +181,7 @@ Number of concurrent threads global text search uses when searching multiple sea
 
 4.  To set the maximum number of matches to display for a wildcard search term, follow these steps.
 
-    1.  [[t_AddAPropertyUsingSysPropsList|Open the System Properties table]] and search for the property **glide.ts.max\_wildcard\_expansion**.
+    1.  [Open the System Properties table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddAPropertyUsingSysPropsList.md) and search for the property **glide.ts.max\_wildcard\_expansion**.
 
         |Field|Description|
         |-----|-----------|
@@ -379,9 +379,3 @@ Disable the dynamic global search UI to preserve customizations you made to the 
 
 [Global text search suggestions]()
 
-## Related
-
-- [[t_AddAPropertyUsingSysPropsList|Add a system property]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]
-- [[hs-results|Results]]
-- [[clone-configurations-tab|Configurations]]

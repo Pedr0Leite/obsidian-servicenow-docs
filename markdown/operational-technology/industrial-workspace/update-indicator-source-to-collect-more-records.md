@@ -14,7 +14,7 @@ breadcrumb: [Setting up the Operational Technology Vulnerability Response \(PA\)
 
 # Review the indicator sources for a larger number of records
 
-Review and update an indicator source to override the expected record count if you expect more than 1 million records to be collected from the indicator sources. This action helps to avoid system performance issues when collecting data for the [[industrial-workspace-for-operational-technology|Industrial Workspace]].
+Review and update an indicator source to override the expected record count if you expect more than 1 million records to be collected from the indicator sources. This action helps to avoid system performance issues when collecting data for the Industrial Workspace.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ Role required: admin or pa\_admin
 
 **Parent Topic:**[Setting up the Operational Technology Vulnerability Response \(PA\) dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/setting-up-the-otvr-pa-dashboard.md)
 
-## Related
-
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

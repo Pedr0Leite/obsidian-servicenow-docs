@@ -22,7 +22,7 @@ Role required: sn\_imt\_checkin.checkin\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[emergency-outreach|Emergency Outreach]]** &gt; **View Outreaches**.
+1.  Navigate to **All** &gt; **Emergency Outreach** &gt; **View Outreaches**.
 
 2.  Open the Daily Health Verification outreach notification.
 
@@ -37,6 +37,3 @@ Role required: sn\_imt\_checkin.checkin\_admin or admin
 
 **Parent Topic:**[Emergency Outreach](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/emergency-outreach.md)
 
-## Related
-
-- [[emergency-outreach|Emergency Outreach]]

@@ -82,8 +82,5 @@ You can view the actual start and end dates in the Gantt chart. To view the date
 
 You can toggle between viewing planned dates and actual dates using the switch button, enabling for easy comparison and tracking the progress of the project.
 
-**Parent Topic:**[[performing-tasks-to-manage-exercise-events|Structured workflows for Exercises]]
+**Parent Topic:**[Structured workflows for Exercises](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/performing-tasks-to-manage-exercise-events.md)
 
-## Related
-
-- [[performing-tasks-to-manage-exercise-events|Structured workflows for Exercises]]

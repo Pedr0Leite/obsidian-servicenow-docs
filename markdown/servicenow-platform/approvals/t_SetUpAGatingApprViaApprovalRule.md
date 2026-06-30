@@ -16,7 +16,7 @@ breadcrumb: [Gating approvals, Approval rules, Classic approvals, Exploring Serv
 
 You can set up a gating approval via an approval rule.
 
-**Important:** Classic [[c_ApprovalRules|approval rules]] have been replaced by the Workflow Studio [Ask for Approval action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/ask-approval-flow-designer.md). Use Workflow Studio to create workflow-driven approval logic that is easier to maintain and provides better reporting information.
+**Important:** Classic approval rules have been replaced by the Workflow Studio [Ask for Approval action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/ask-approval-flow-designer.md). Use Workflow Studio to create workflow-driven approval logic that is easier to maintain and provides better reporting information.
 
 ## Before you begin
 
@@ -52,7 +52,7 @@ Table
 
 </td><td>
 
-Task table to which this rule applies. For most [[service-catalog|service catalog]] approvals, select **Request**.
+Task table to which this rule applies. For most service catalog approvals, select **Request**.
 
 **Note:** The list shows only tables and database views that are [Application scope](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationScope.md) as the approval rule.
 
@@ -70,7 +70,7 @@ Run Rule Before
 
 </td><td>
 
-Indicator of whether the rule runs before or after the request record is saved. For most approvals, select this [[check-box|check box]].
+Indicator of whether the rule runs before or after the request record is saved. For most approvals, select this check box.
 
 </td></tr><tr><td>
 
@@ -110,7 +110,7 @@ Script
 
 </td><td>
 
-An optional server script to programmatically specify who the approver should be. For example, for the one-line script `current.requested_for.manager`, ServiceNow checks the requested\_for [[reference|reference]] field on the current record. It then locates the manager field on the referenced record and assigns that person as the approver. For other examples, see the Script field on approval rules provided by ServiceNow.
+An optional server script to programmatically specify who the approver should be. For example, for the one-line script `current.requested_for.manager`, ServiceNow checks the requested\_for reference field on the current record. It then locates the manager field on the referenced record and assigns that person as the approver. For other examples, see the Script field on approval rules provided by ServiceNow.
 
 </td></tr></tbody>
 </table>    Notes and limitations:
@@ -121,9 +121,3 @@ An optional server script to programmatically specify who the approver should be
 
 **Parent Topic:**[Gating approvals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/c_GatingApprovals.md)
 
-## Related
-
-- [[c_ApprovalRules|Approval rules]]
-- [[service-catalog|Service Catalog]]
-- [[check-box|Check box]]
-- [[reference|Reference]]

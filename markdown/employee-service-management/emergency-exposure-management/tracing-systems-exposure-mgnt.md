@@ -14,15 +14,15 @@ breadcrumb: [Set up Emergency Exposure Management, Emergency Exposure Management
 
 # Tracing systems in Emergency Exposure Management
 
-A tracing system configured for a [[contact-tracing|contact tracing]] data source enables you to identify potentially exposed employees by running a diagnostic request.
+A tracing system configured for a contact tracing data source enables you to identify potentially exposed employees by running a diagnostic request.
 
 The diagnostic request for an affected employee queries the contact tracing data to identify people who might have interacted with the affected employee. You can select multiple tracing systems in a diagnostic request to use multiple data sources to broaden the coverage used to find potential exposure.
 
 A tracing system can be a group of other tracing systems with a similar type of input data source. For example, say you have Wi-Fi access data integration with multiple systems such as Cisco DNA Spaces and Mist Systems. You could have a tracing system called Wi-Fi access log and make it the parent tracing system of other tracing systems using the Wi-Fi input data sources.
 
-You can customize the tracing systems for data sources available in [[emergency-exposure-management|Emergency Exposure Management]] or set up a new tracing system. For more information, see [Set up a tracing system for an exposure data source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-exposure-management/set-up-tracing-system.md).
+You can customize the tracing systems for data sources available in Emergency Exposure Management or set up a new tracing system. For more information, see [Set up a tracing system for an exposure data source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-exposure-management/set-up-tracing-system.md).
 
-For some tracing systems to be available in Emergency Exposure Management, you must install other [[safe-workplace|Safe Workplace]] suite and Emergency Response Operations applications.
+For some tracing systems to be available in Emergency Exposure Management, you must install other Safe Workplace suite and Emergency Response Operations applications.
 
 ## Tracing systems installed with Emergency Exposure Management
 
@@ -53,7 +53,7 @@ Employees co-located with the affected employee, for example, on the same floor 
 Employees who accepted the same meetings as the affected employee during the specified time period.
 
 </td></tr></tbody>
-</table>## Tracing system installed with [[workplace-safety-mgmt-hr|Workplace Core]]
+</table>## Tracing system installed with Workplace Core
 
 This tracing system is not active by default. To use this tracing system for identifying potentially exposed employees, activate it and also configure the corresponding data source in Workplace Core.
 
@@ -99,7 +99,7 @@ Queries the Daily Contact Logs \[sn\_imt\_tracing\_daily\_contact\_log\] table t
 
 </td><td>
 
-Queries the Visitor Request For Entry \[sn\_imt\_monitoring\_visitor\_request\_for\_entry\] table to fetch visitors who interacted with the affected employee during the specified time period. Visitors who visited the workplace on invitation from the affected employee and have been screened through and let in are queried.Ensure that you have installed [[employee-health-screening|Employee Health Screening]] to use this tracing system.
+Queries the Visitor Request For Entry \[sn\_imt\_monitoring\_visitor\_request\_for\_entry\] table to fetch visitors who interacted with the affected employee during the specified time period. Visitors who visited the workplace on invitation from the affected employee and have been screened through and let in are queried.Ensure that you have installed Employee Health Screening to use this tracing system.
 
 </td></tr><tr><td>
 
@@ -130,7 +130,7 @@ Queries the Wearable Access Register \[sn\_imt\_tracing\_wearable\_access\_regis
 
 </td><td>
 
-Uses an integration with the KINEXON SafeZone API to [[use-emergency-exposure-mgnt|identify potentially exposed users]] with KINEXON wearable devices who were in close proximity with the affected KINEXON user during the specified dates.For more information, see [Configure KINEXON integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/configure-kinexon-integration.md).
+Uses an integration with the KINEXON SafeZone API to identify potentially exposed users with KINEXON wearable devices who were in close proximity with the affected KINEXON user during the specified dates.For more information, see [Configure KINEXON integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/configure-kinexon-integration.md).
 
 </td></tr></tbody>
 </table>## Tracing system installed with Field Service Management
@@ -143,11 +143,3 @@ For more information, see [Emergency Exposure Management for field service agent
 |--------------|-----|
 |**Field service**|Customers attended by an affected field agent during the specified time period. Also queries other field agents who interacted with the affected agent or visited the same customer as the affected agent during the specified time period.|
 
-## Related
-
-- [[contact-tracing|Contact Tracing]]
-- [[emergency-exposure-management|Emergency Exposure Management]]
-- [[safe-workplace|Safe Workplace]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[employee-health-screening|Employee Health Screening]]
-- [[use-emergency-exposure-mgnt|Identify potentially exposed users]]

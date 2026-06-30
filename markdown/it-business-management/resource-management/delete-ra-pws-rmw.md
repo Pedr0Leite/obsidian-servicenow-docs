@@ -14,7 +14,7 @@ breadcrumb: [Manage resource assignments from Project Workspace, Use, Resource M
 
 # Delete a resource assignment using Project Workspace
 
-[[delete-resource-assignment-pw|Delete a resource assignment from Project Workspace]]. Deleting an assignment also deletes all associated resource allocations.
+Delete a resource assignment from Project Workspace. Deleting an assignment also deletes all associated resource allocations.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: it\_project\_manager
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[project-workspace-landing-page|Project Workspace]]** and open a project.
+1.  Navigate to **Workspaces** &gt; **Project Workspace** and open a project.
 
 2.  Enable the **Resource assignments** toggle to view the resource assignment pane.
 
@@ -31,7 +31,3 @@ Role required: it\_project\_manager
 
 **Parent Topic:**[Manage resource assignments from Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/use-ra-rmw.md)
 
-## Related
-
-- [[delete-resource-assignment-pw|Delete a resource assignment from Project Workspace]]
-- [[project-workspace-landing-page|Project Workspace]]

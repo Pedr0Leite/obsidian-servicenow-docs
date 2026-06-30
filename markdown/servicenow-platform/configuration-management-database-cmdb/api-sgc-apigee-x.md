@@ -14,7 +14,7 @@ breadcrumb: [API Service Graph Connectors, Integrating third-party data into CMD
 
 # API Service Graph Connector for Apigee X
 
-Use the ServiceNow® API Service Graph Connector for Apigee X to import API proxy details from an Apigee X application into the [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]].
+Use the ServiceNow® API Service Graph Connector for Apigee X to import API proxy details from an Apigee X application into the Configuration Management Database \(CMDB\).
 
 ## Request apps on the Store
 
@@ -24,7 +24,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 Import data into a normalized data model for consistency across other technologies.
 
-The [[api-insights|API Insights]] workspace provides a centralized interface where you can analyze and interact with API data, without needing direct access to Apigee X, enhancing visibility, governance, and collaboration across the API estate. To learn more, see [API Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights.md).
+The API Insights workspace provides a centralized interface where you can analyze and interact with API data, without needing direct access to Apigee X, enhancing visibility, governance, and collaboration across the API estate. To learn more, see [API Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights.md).
 
 ## Supported ServiceNow versions
 
@@ -46,11 +46,11 @@ If you’re an existing customer using production instances, reach out to Now Su
 
 ## Configuring a connection for the connector
 
-You can configure a connection for the connector by using the [[sgcc-landing|SGC Central]] view in the CMDB Workspace. The view enables you to discover and install connectors, and then effectively manage the full life cycle of creating, editing, monitoring, and debugging connections. To configure the connector using SGC Central, see [Configure API Service Graph Connector for Apigee X using SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/sgcc-configure-apigee-x.md).
+You can configure a connection for the connector by using the SGC Central view in the CMDB Workspace. The view enables you to discover and install connectors, and then effectively manage the full life cycle of creating, editing, monitoring, and debugging connections. To configure the connector using SGC Central, see [Configure API Service Graph Connector for Apigee X using SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/sgcc-configure-apigee-x.md).
 
 ## Data mapping
 
-Data from the Apigee X data sources is mapped and transformed into the CMDB Configuration Item \(CI\) class definitions using the Robust Transform Engine \(RTE\). Data is inserted into the CMDB using the [[ire|Identification and Reconciliation Engine \(IRE\)]].
+Data from the Apigee X data sources is mapped and transformed into the CMDB Configuration Item \(CI\) class definitions using the Robust Transform Engine \(RTE\). Data is inserted into the CMDB using the Identification and Reconciliation Engine \(IRE\).
 
 When you complete setting up the connection, you can configure the integration to periodically pull data from an Apigee X application.
 
@@ -193,16 +193,9 @@ SGA Apigee X Project \[sn\_apigee\_x\_sga\_apigee\_x\_project\]
 </td></tr></tbody>
 </table>For more information on where data is saved when pulling data from an Apigee X application, see [Target tables for storing API Service Graph Connector for Apigee X data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/api-sgc-apigee-x-tables.md).
 
-You can use the [[integrationhub-etl|IntegrationHub ETL]] app to view the data maps. See [IntegrationHub ETL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/integration-hub-etl/integrationhub-etl.md) for more information.
+You can use the IntegrationHub ETL app to view the data maps. See [IntegrationHub ETL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/integration-hub-etl/integrationhub-etl.md) for more information.
 
 ## Record removal process
 
 The connector supports soft deletion for CMDB CI classes only, meaning records aren’t permanently removed from the system. Instead, any CMDB CI records not discovered during the last scheduled job run are marked as **Non-Operational**.
 
-## Related
-
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[api-insights|API Insights]]
-- [[sgcc-landing|SGC Central]]
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]
-- [[integrationhub-etl|IntegrationHub ETL]]

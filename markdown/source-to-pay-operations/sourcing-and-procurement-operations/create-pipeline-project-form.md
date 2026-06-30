@@ -62,10 +62,10 @@ Project type
 
 </td><td>
 
-Specifies the type of project based on the sourcing objective. Available values:-   [[supplier|Supplier]] Optimization – Consolidating suppliers to reduce spend
+Specifies the type of project based on the sourcing objective. Available values:-   Supplier Optimization – Consolidating suppliers to reduce spend
 -   Contract Optimization - Renegotiating an existing contract
 -   Savings Potential – Using market intelligence to potentially lower spend
--   Spend Optimization – Use [[negotiation-events|sourcing events]] \(RFI, RFQ, RFP\) to lower spend
+-   Spend Optimization – Use sourcing events \(RFI, RFQ, RFP\) to lower spend
 -   Risk Reduction – Supplier issues or backup for an existing supplier
 
 </td></tr><tr><td>
@@ -105,7 +105,7 @@ Opportunity source
 The source of the pipeline project.This field takes its value based on where the pipeline is created.
 
 -   Intake Request: When the pipeline project is created from the Employee Center intake request.
--   Adhoc: When the Sourcing Manager or Procurement Specialist manually create the from the list view in [[purch-order-mgmt-ws|Source-to-Pay Workspace]].
+-   Adhoc: When the Sourcing Manager or Procurement Specialist manually create the from the list view in Source-to-Pay Workspace.
 -   System-generated: When the pipeline project is created by AI.
 
 </td></tr><tr><td>
@@ -146,7 +146,7 @@ Estimated end date
 
 </td><td>
 
-The projected completion date for the pipeline project. This field reflects the due date specified in the [[sourcing-request|sourcing request]]. If the pipeline project is associated with multiple sourcing requests, the earliest due date among them is used.
+The projected completion date for the pipeline project. This field reflects the due date specified in the sourcing request. If the pipeline project is associated with multiple sourcing requests, the earliest due date among them is used.
 
 </td></tr><tr><td>
 
@@ -272,7 +272,7 @@ The unique identifier of the previous related project or sourcing record, used f
 
 [Savings opportunity fields]()
 
-[Purchase requisition, [[purchase-order-table|purchase order]], and sourcing request states]()
+[Purchase requisition, purchase order, and sourcing request states]()
 
 [SPO and ITAM data model mappings]()
 
@@ -280,10 +280,3 @@ The unique identifier of the previous related project or sourcing record, used f
 
 [Sourcing and Procurement Operations glossary]()
 
-## Related
-
-- [[supplier|Supplier]]
-- [[negotiation-events|Sourcing events]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[sourcing-request|Sourcing request]]
-- [[purchase-order-table|Purchase order]]

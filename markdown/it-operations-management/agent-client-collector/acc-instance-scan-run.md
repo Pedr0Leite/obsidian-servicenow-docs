@@ -14,7 +14,7 @@ breadcrumb: [ACC health instance scan suite, ACC deployment - shared between ser
 
 # Run the Agent Client Collector \(ACC\) health instance scan as a scheduled job
 
-Run the **Run \(ACC\) health instance scan** scheduled job to monitor the overall health of the instance receiving data from the [[acc-landing-page|Agent Client Collector]].
+Run the **Run \(ACC\) health instance scan** scheduled job to monitor the overall health of the instance receiving data from the Agent Client Collector.
 
 ## Before you begin
 
@@ -51,6 +51,3 @@ For details on the ACC health instance scan suite checks, see [Agent Client Coll
 
 **Parent Topic:**[Agent Client Collector health instance scan suite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-instance-scan-suite.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

@@ -24,7 +24,7 @@ Role required: sn\_badge.badge\_admin
 
 Using the **Badge Event Handlers** module you can map badge event handlers to multiple badge readers. For example, you may have a badge reader at your San Diego, CA walk-up location and another badge reader at your Santa Clara, CA location. Both of these badge readers can be mapped to the same Walk-up Badge Reader event.
 
-Badge Event Handler records are delivered as part of the [[walkup-experience-landing-page|Walk-up Experience]] application-specific badge reader integrations.
+Badge Event Handler records are delivered as part of the Walk-up Experience application-specific badge reader integrations.
 
 **Note:**
 
@@ -59,6 +59,3 @@ The code entered in the **Script** field of the Badge Event Handler form is exec
 
 **Parent Topic:**[Walk-up Experience Badge Reader Integration setup and configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walkup-badge-read-integ-config.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]

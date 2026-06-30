@@ -16,7 +16,7 @@ breadcrumb: [Create a work order for the planned work, Manage work orders, Prepa
 
 Planned Work Management Home page enables you to monitor your work plans, schedules, and work orders.
 
-\[Omitted image "pwm-home-page.png"\] Alt text: [[planned-work-management|Planned Work Management]] dashboard displaying work plans, work schedules, and planned work orders represented by tiles and graphs.
+\[Omitted image "pwm-home-page.png"\] Alt text: Planned Work Management dashboard displaying work plans, work schedules, and planned work orders represented by tiles and graphs.
 
 ## End user and roles
 
@@ -31,7 +31,7 @@ Required role
 </th></tr></thead><tbody><tr><td>
 
 As a planned work admin, you can:-   Analyze the work plans and work order the most important items to work on.
--   Track work orders and [[c_PartRequirements|part requirements]] for all plans
+-   Track work orders and part requirements for all plans
 
 </td><td>
 
@@ -195,8 +195,3 @@ Display the number of work orders that are not compliant with the corresponding 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[planned-work-management|Planned Work Management]]
-- [[c_PartRequirements|Part requirements]]

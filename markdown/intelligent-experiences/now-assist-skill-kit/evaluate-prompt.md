@@ -14,7 +14,7 @@ breadcrumb: [Using Now Assist Skill Kit, Now Assist Skill Kit, Enable AI experie
 
 # Evaluate a prompt
 
-Use the [[now-assist-skill-kit-landing|Now Assist Skill Kit]] evaluation tools to evaluate the effectiveness of your skill [[ai-prompts|prompts]].
+Use the Now Assist Skill Kit evaluation tools to evaluate the effectiveness of your skill prompts.
 
 ## Before you begin
 
@@ -64,7 +64,7 @@ Create a dataset from a data collection
 
 1.  Give the dataset a name and description.
 2.  Select Data Collection.
-3.  Select a data collection that you created in [[now-assist-data-kit-landing|Now Assist Data Kit]].
+3.  Select a data collection that you created in Now Assist Data Kit.
 4.  Select **Generate Preview**.
 5.  Select the mappings.
 6.  Select **Create**.
@@ -132,8 +132,3 @@ Create a dataset from a data collection
 
 [Call a custom skill from a script]()
 
-## Related
-
-- [[now-assist-skill-kit-landing|Now Assist Skill Kit]]
-- [[ai-prompts|Prompts]]
-- [[now-assist-data-kit-landing|Now Assist Data Kit]]

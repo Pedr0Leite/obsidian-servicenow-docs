@@ -14,7 +14,7 @@ breadcrumb: [High-level planning configuration in Strategic Planning, Configure,
 
 # Create rank configuration for high-level planning
 
-To enable high-level planning on a table that is not a planning item in [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace, create a rank configuration for the global rank column of the table.
+To enable high-level planning on a table that is not a planning item in Strategic Planning Workspace, create a rank configuration for the global rank column of the table.
 
 ## Before you begin
 
@@ -68,9 +68,5 @@ Global rank column of your table.
 
 ## What to do next
 
-[[create-portfolio-plan-in-portfolio-planning-workspace|Create a portfolio plan]] configuration for your high-level planning table. See [Create portfolio plan configuration for high-level planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-portfolio-plan-configuration-for-high-level-planning.md).
+Create a portfolio plan configuration for your high-level planning table. See [Create portfolio plan configuration for high-level planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-portfolio-plan-configuration-for-high-level-planning.md).
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[create-portfolio-plan-in-portfolio-planning-workspace|Create a portfolio plan]]

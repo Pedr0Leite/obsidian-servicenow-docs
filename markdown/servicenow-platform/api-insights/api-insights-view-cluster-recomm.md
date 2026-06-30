@@ -16,7 +16,7 @@ breadcrumb: [Optimize clustering recommendations, API Insights, Configuration Ma
 
 Use machine learning-based suggestions to group related API components, improving the organization and mapping of APIs within the system.
 
-The Proposed API clustering tab of the Data recommendations page in the [[api-insights|API Insights]] workspace provides machine learning-generated recommendations for API clustering.
+The Proposed API clustering tab of the Data recommendations page in the API Insights workspace provides machine learning-generated recommendations for API clustering.
 
 \[Omitted image "api-insights-cluster.png"\] Alt text: AProposed API clustering tab to view machine learning-generated recommendations for API clustering
 
@@ -46,6 +46,4 @@ By default, the page displays the following data:
 
     Displays the most recent timestamp when the cluster was updated, enabling tracking the recency of the machine learning recommendations and any changes to the clusters.
 
-## Related
 
-- [[api-insights|API Insights]]

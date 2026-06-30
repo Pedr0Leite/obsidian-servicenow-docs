@@ -14,7 +14,7 @@ breadcrumb: [Configuring Service Portal, Service Portal, Configure UIs and porta
 
 # Configure Service Portal Approval Configuration record
 
-[[configure-onboarding-modals|Configure]] the [[c_ServicePortal|Service Portal]] Approval Configuration record to make the Approval assistance AI agent and [[approval-info-record-widget|Approval Info Record widget]] work better for your specific use case.
+Configure the Service Portal Approval Configuration record to make the Approval assistance AI agent and Approval Info Record widget work better for your specific use case.
 
 ## Before you begin
 
@@ -107,7 +107,7 @@ Tab
 
 </td><td>
 
-This tab controls what information is shown to the approver, and in what order. The configuration applies to the Approval Assistance AI agent and the Approval Info Record widget. Select the fields from the configured table that you want visible to the approver. For example: Short description, Opened by, Requested for. Move fields between the **Available** and **Selected** [[lists-configurable-workspace|lists]], then use the arrows to set their display order.**Note:** The order you set here is also reflected in the Approval Info Record widget. Arrange fields in the priority order that makes most sense for your approvers.
+This tab controls what information is shown to the approver, and in what order. The configuration applies to the Approval Assistance AI agent and the Approval Info Record widget. Select the fields from the configured table that you want visible to the approver. For example: Short description, Opened by, Requested for. Move fields between the **Available** and **Selected** lists, then use the arrows to set their display order.**Note:** The order you set here is also reflected in the Approval Info Record widget. Arrange fields in the priority order that makes most sense for your approvers.
 
 </td></tr><tr><td>
 
@@ -186,9 +186,3 @@ Configure fields and AI behavior for a table that goes through the approval work
 
 **Parent Topic:**[Configuring Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/configuring-service-portal.md)
 
-## Related
-
-- [[configure-onboarding-modals|Configure]]
-- [[c_ServicePortal|Service Portal]]
-- [[approval-info-record-widget|Approval Info Record widget]]
-- [[lists-configurable-workspace|Lists]]

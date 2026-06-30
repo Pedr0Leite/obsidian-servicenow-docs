@@ -16,7 +16,7 @@ breadcrumb: [Running discoveries in your network, Using Discovery, Discovery, IT
 
 Network Discovery discovers the internal IP networks and subnets within your organization.
 
-**Note:** If you already know the IP address ranges in your network, it's not necessary to run Network Discovery. It's intended for organizations that don't have complete knowledge of the IP addresses available for [[r-discovery|Discovery]] in their networks.
+**Note:** If you already know the IP address ranges in your network, it's not necessary to run Network Discovery. It's intended for organizations that don't have complete knowledge of the IP addresses available for Discovery in their networks.
 
 ## How network discovery works
 
@@ -44,7 +44,7 @@ glide.discovery.bgp\_router\_disable
 
 BGP router exploration disable: Disables running the SNMP – Routing probe or pattern when discovering a router running the BGP protocol. Normally such exploration IS inactive because of the huge size of BGP routing tables, and because generally such routers are only operating at the edge of large networks where further network discovery would be irrelevant. This value could be set to false if your organization only uses BGP routers as edge routers between relatively small networks \(such as between buildings on a single campus\).
 
- If you must populate the \[discovery\_device\_neighbors\] table during horizontal [[c_Layer2Discovery|layer 2 discovery]] of the bgp-enabled devices, set the **BGP router exploration disable** property to **No**. Notice that enabling this property can cause performance issues including out-of-memory issues on the MID Server.
+ If you must populate the \[discovery\_device\_neighbors\] table during horizontal layer 2 discovery of the bgp-enabled devices, set the **BGP router exploration disable** property to **No**. Notice that enabling this property can cause performance issues including out-of-memory issues on the MID Server.
 
  -   Type: true \| false
 -   Default value: true
@@ -218,7 +218,4 @@ Role required: agent\_admin or admin
 
 5.  Right-click the header, and then click **Save**.
 
-## Related
 
-- [[r-discovery|Discovery]]
-- [[c_Layer2Discovery|Layer 2 discovery]]

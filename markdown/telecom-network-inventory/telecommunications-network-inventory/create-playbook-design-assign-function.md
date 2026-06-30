@@ -14,7 +14,7 @@ breadcrumb: [Configure Design and Assign function, Configure, Telecommunications
 
 # Create a playbook for the Design and Assign function
 
-Create a playbook for the Design and Assign function in the Workflow Studio. You can use the playbook to [[telecommunications-circuit-design-resource-assignment|design and assign]] a network service in the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+Create a playbook for the Design and Assign function in the Workflow Studio. You can use the playbook to design and assign a network service in the Telecommunications Network Inventory application.
 
 ## Before you begin
 
@@ -62,7 +62,7 @@ Role required: admin, playbook.admin
         |Field|Description|
         |-----|-----------|
         |Define your own conditions for when your process runs|Select the trigger type from the list. You can select **Record Create**.|
-        |Table|Select a table to trigger your playbook to run. For [[using-playbooks-design-assign-inventory-record|Design and Assign function]], select **Change Request**. When you create a change request, the playbook gets triggered.|
+        |Table|Select a table to trigger your playbook to run. For Design and Assign function, select **Change Request**. When you create a change request, the playbook gets triggered.|
         |Trigger condition|The conditions that cause your playbook to run. Select your Change model as Trigger condition.|
         |Run my trigger|Select an option to run your trigger. You can select **Once** so that only one playbook process instance is created for design and assign.|
 
@@ -170,8 +170,3 @@ Update the system property to add the playbook in the Design and Assign home pag
 
 [Configure a Design and Assign function example](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/configure-design-assign-playbook-use-case.md)
 
-## Related
-
-- [[telecommunications-circuit-design-resource-assignment|Design and assign]]
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[using-playbooks-design-assign-inventory-record|Design and Assign function]]

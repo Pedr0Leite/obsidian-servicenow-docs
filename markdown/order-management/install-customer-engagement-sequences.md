@@ -28,7 +28,7 @@ The following items are installed with Customer Engagement Sequences:
 -   Roles
 -   Tables
 
-For more information, see [[components-installed-customer-engagement-sequences|Components installed with Customer Engagement Sequences]].
+For more information, see [Components installed with Customer Engagement Sequences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/components-installed-customer-engagement-sequences.md).
 
 ## Procedure
 
@@ -52,12 +52,7 @@ For more information, see [[components-installed-customer-engagement-sequences|C
 **Related topics**  
 
 
-[[using-customer-engagement-sequences|Using Customer Engagement Sequences]]
+[Using Customer Engagement Sequences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-customer-engagement-sequences.md)
 
-[[explore-customer-engagement-sequences|Customer Engagement Sequences]]
+[Customer Engagement Sequences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-customer-engagement-sequences.md)
 
-## Related
-
-- [[components-installed-customer-engagement-sequences|Components installed with Customer Engagement Sequences]]
-- [[using-customer-engagement-sequences|Using Customer Engagement Sequences]]
-- [[explore-customer-engagement-sequences|Customer Engagement Sequences]]

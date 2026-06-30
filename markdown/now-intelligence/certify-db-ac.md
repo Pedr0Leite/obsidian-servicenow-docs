@@ -20,7 +20,7 @@ Role required: admin or dashboard\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Dashboards**
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Dashboards**
 
 2.  Select the dashboard you want to certify.
 
@@ -39,6 +39,3 @@ In the Dashboards library, the dashboard's entry is marked **Certified** in the 
 
 \[Omitted image "certified-db-ac.png"\] Alt text: Certified dashboard example
 
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

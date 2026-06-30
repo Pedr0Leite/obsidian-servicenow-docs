@@ -22,7 +22,7 @@ Identify the rate table and data source to use for currency conversions for the 
 
 2.  In the **Conversion Rate Table** field, select the rate table used for conversions of currency values in the FX Currency field:
 
-    -   To use the default system rate table you defined in the **glide.currency2.system\_rate\_table** property in **[[system-localization-landing|System Localization]]** &gt; **All Properties.**, select **System Currency Conversion Rate**. This table stores daily [[reference-email-admin|reference]] rates retrieved from the European Central Bank.
+    -   To use the default system rate table you defined in the **glide.currency2.system\_rate\_table** property in **System Localization** &gt; **All Properties.**, select **System Currency Conversion Rate**. This table stores daily reference rates retrieved from the European Central Bank.
 
         To learn more about the system rate table, see [Default currency conversions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/currency-conversions.md).
 
@@ -46,7 +46,3 @@ Identify the rate table and data source to use for currency conversions for the 
 
 [Add conversion rates using a custom rate table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/custom-rate-table.md)
 
-## Related
-
-- [[system-localization-landing|System Localization]]
-- [[reference-email-admin|Reference]]

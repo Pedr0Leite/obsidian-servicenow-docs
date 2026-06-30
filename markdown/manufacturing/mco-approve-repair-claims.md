@@ -16,7 +16,7 @@ Agents portal or workspace enables you to review and approve the claims submitte
 
 1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace** &gt; **Lists** &gt; **Repair**.
 
-    **Note:** To create and navigate to the Review &amp; approve form, see [[mco-create-repair-claim|Create a repair claim manually]].
+    **Note:** To create and navigate to the Review &amp; approve form, see [Create a repair claim manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-create-repair-claim.md).
 
 2.  From **Activities**, select **Review &amp; approve**
 3.  Select the required action from the following table.
@@ -62,9 +62,5 @@ Send back
 Select **Send back**. The claim is returned to the dealer for additional information.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[mco-use-repair-claim|Repair claim]]
+</table>**Parent Topic:**[Repair claim](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-use-repair-claim.md)
 
-## Related
-
-- [[mco-create-repair-claim|Create a repair claim manually]]
-- [[mco-use-repair-claim|Repair claim]]

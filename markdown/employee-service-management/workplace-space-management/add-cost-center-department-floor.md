@@ -18,7 +18,7 @@ Assign either a cost center, department, or workplace entity to a workplace loca
 
 ## Before you begin
 
-**Important:** Starting from [[workplace-safety-mgmt-hr|Workplace Core]] version 2.16.1, the allocation type **Department and cost center** is no longer available. A new allocation type **Workplace entity** is introduced that provides more advantages.
+**Important:** Starting from Workplace Core version 2.16.1, the allocation type **Department and cost center** is no longer available. A new allocation type **Workplace entity** is introduced that provides more advantages.
 
 Role required: sn\_wsd\_spcmgmt.manager
 
@@ -179,7 +179,7 @@ You can assign the allocation to the child locations such as areas, rooms, and s
 
 [Create a Space Recommender rule]()
 
-[Raise a [[space-assistance|space assistance]] request]()
+[Raise a space assistance request]()
 
 [Create a view-by configuration]()
 
@@ -187,7 +187,3 @@ You can assign the allocation to the child locations such as areas, rooms, and s
 
 [Reviewing allocation changes]()
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[space-assistance|Space assistance]]

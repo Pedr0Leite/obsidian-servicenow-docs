@@ -32,7 +32,7 @@ Role required: order\_approver, order\_viewer, sn\_ind\_tmt\_orm.order\_fulfillm
 
 6.  Select the **External product inventories** tab.
 
-7.  On the form, review the [[fields|fields]] values.
+7.  On the form, review the fields values.
 
     **Note:** To create a new external product inventory table, select **New**. On the Create New External product inventory form, fill in the fields.
 
@@ -82,7 +82,7 @@ When the order was closed, the state of the external product inventory ID was up
 
 During the inflight order changes, the state of the external product inventory ID was updated to Invalid.
 
-**Note:** The state of the external inventory ID is updated after the [[reviewing-orchestration-plans-order-fulfillment|order fulfillment]] is complete \(the order state is Closed Complete\).
+**Note:** The state of the external inventory ID is updated after the order fulfillment is complete \(the order state is Closed Complete\).
 
 </td></tr></tbody>
 </table>8.  Save or delete the product inventory details.
@@ -93,19 +93,12 @@ During the inflight order changes, the state of the external product inventory I
     |**Delete the external product inventory details**|Select the options icon \[Omitted image "more-options.png"\] Alt text: next to the **Save** button, and then select **Delete**.|
 
 
-**Parent Topic:**[[ext-inventory-id|External product inventory ID]]
+**Parent Topic:**[External product inventory ID](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/ext-inventory-id.md)
 
 **Related topics**  
 
 
-[[order-mgt-configuring|Configuring Order Management]]
+[Configuring Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-configuring.md)
 
-[[explore-order-management|Order management]]
+[Order management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-order-management.md)
 
-## Related
-
-- [[ext-inventory-id|External product inventory ID]]
-- [[order-mgt-configuring|Configuring Order Management]]
-- [[explore-order-management|Order management]]
-- [[fields|Fields]]
-- [[reviewing-orchestration-plans-order-fulfillment|Order fulfillment]]

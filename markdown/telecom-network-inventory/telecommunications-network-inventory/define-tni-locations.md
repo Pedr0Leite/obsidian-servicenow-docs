@@ -14,7 +14,7 @@ breadcrumb: [Configure, Telecommunications Network Inventory]
 
 # Define a location hierarchy
 
-Define a location hierarchy for your [[telecom-network-inventory|Telecommunications Network Inventory]] forms so that you can track and manage your network assets. By defining a location hierarchy, you can see where all your network equipment is located.
+Define a location hierarchy for your Telecommunications Network Inventory forms so that you can track and manage your network assets. By defining a location hierarchy, you can see where all your network equipment is located.
 
 ## Before you begin
 
@@ -33,7 +33,7 @@ A location record must contain at least one of the following properties or sets 
 -   Region
 -   Latitude and Longitude
 
-By using this form, you can construct a location hierarchy. For example, the following example shows a typical location hierarchy that appears when you search for a location in the **Location** field in the [[tni-network-site-form|Network Site form]].
+By using this form, you can construct a location hierarchy. For example, the following example shows a typical location hierarchy that appears when you search for a location in the **Location** field in the Network Site form.
 
 \[Omitted image "locations-hierarchy.png"\] Alt text: Locations hierarchy view with the list of locations.
 
@@ -52,7 +52,3 @@ By using this form, you can construct a location hierarchy. For example, the fol
 
 **Parent Topic:**[Configuring Telecommunications Network Inventory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/configuring-telecom-network-inventory.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[tni-network-site-form|Network site form]]

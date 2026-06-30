@@ -14,13 +14,13 @@ breadcrumb: [Workplace Reservation Management, Workplace Service Delivery, Emplo
 
 # Manage Workplace Reservations for Microsoft Outlook Add-in
 
-Employees can create reservations using the Microsoft Outlook Add-in. They can calendar events or meetings to the [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] 3.0.2 manifest add-in file.
+Employees can create reservations using the Microsoft Outlook Add-in. They can calendar events or meetings to the Workplace Reservation Management 3.0.2 manifest add-in file.
 
-As of Workplace Reservation Management version 3.0.2, you’re no longer required to install the Microsoft Outlook Add-in plugin. The advanced search widget in the Workplace Reservation Management 3.0.2 version is used for Outlook Add-in reservations. The advanced search widget in the Workplace Reservation Management 3.0.2 version is used for Microsoft Outlook Add-in reservations. To use Microsoft Outlook Add-in, install and [[configure-rsv-sync|configure Workplace Calendar Synchronization]]. Administrators can configure the manifest add-in file to complement integration with [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]].
+As of Workplace Reservation Management version 3.0.2, you’re no longer required to install the Microsoft Outlook Add-in plugin. The advanced search widget in the Workplace Reservation Management 3.0.2 version is used for Outlook Add-in reservations. The advanced search widget in the Workplace Reservation Management 3.0.2 version is used for Microsoft Outlook Add-in reservations. To use Microsoft Outlook Add-in, install and configure Workplace Calendar Synchronization. Administrators can configure the manifest add-in file to complement integration with Workplace Calendar Synchronization.
 
-Employees can enable advanced search to filter spaces, work with a reservable module, and make multi-building space selection. Employees can search for a space using the **Map** or **Card** options while making reservations. Employees can update current or existing reservations quickly by updating date, time, location, or [[workplace-services|workplace services]].
+Employees can enable advanced search to filter spaces, work with a reservable module, and make multi-building space selection. Employees can search for a space using the **Map** or **Card** options while making reservations. Employees can update current or existing reservations quickly by updating date, time, location, or workplace services.
 
-When a meeting is created in Microsoft Outlook, the meeting event on the resource is synchronized with Workplace Reservation Management to [[create-reservation-request-1|create a reservation]].
+When a meeting is created in Microsoft Outlook, the meeting event on the resource is synchronized with Workplace Reservation Management to create a reservation.
 
 Workplace Reservation Management administrators can enable the Reservable module configuration for Microsoft Outlook Add-in. They can migrate or update existing Microsoft Outlook add-in version 1.12.2 or earlier versions to the latest Workplace Reservation Management 3.0.2 For more information, see [Configure Reservable Module for Microsoft Outlook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/config-rsv-module-outlook.md).
 
@@ -40,10 +40,3 @@ Employees can perform the following using Workplace Reservation Management 3.0.2
 
 Workplace calendar synchronization allows employees to use Calendar Providers \(MS Outlook or Google\) to create reservation records in Workplace Reservation Management. For more information, see [Microsoft Exchange Online - Calendar synchronization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/ms-exchange-reservation-synchronization.md).
 
-## Related
-
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[configure-rsv-sync|Configure Workplace Calendar Synchronization]]
-- [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]
-- [[workplace-services|Workplace Services]]
-- [[create-reservation-request-1|Create a reservation]]

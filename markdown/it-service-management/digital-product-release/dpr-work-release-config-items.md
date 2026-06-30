@@ -26,7 +26,7 @@ You can add a specific configuration item to a phase only once, although it can 
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[dpr-workspace|Digital Product Release Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Digital Product Release Workspace**.
 
 2.  Select the releases icon \(\[Omitted image "dpr-icon-release.png"\] Alt text: Releases icon.\).
 
@@ -54,7 +54,7 @@ Steps
 
 1.  Select **Add**.
 
-When product-level release [[settings-mobile|settings]] are configured, only the configuration items of CI classes defined in the release settings are available for selection. If no CI classes are configured in the product settings, all CI classes are available. For more information, see [Configure product-level release settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-config-product-release-setting.md).
+When product-level release settings are configured, only the configuration items of CI classes defined in the release settings are available for selection. If no CI classes are configured in the product settings, all CI classes are available. For more information, see [Configure product-level release settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-config-product-release-setting.md).
 
 Additionally, CIs are filtered by lifecycle stage or operational status based on the value defined in the `sn_dpr.ci_default_query` system property. To control which CIs are available for selection, modify this property. For more information, see [Digital Product Release properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/digital-product-release-properties.md).
 
@@ -76,7 +76,3 @@ Additionally, CIs are filtered by lifecycle stage or operational status based on
 </table>
 **Parent Topic:**[Manage releases for digital products and services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-manage-releases.md)
 
-## Related
-
-- [[dpr-workspace|Digital Product Release Workspace]]
-- [[settings-mobile|Settings]]

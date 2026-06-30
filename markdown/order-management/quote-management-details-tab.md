@@ -30,19 +30,14 @@ Use the Details tab to add more information about your quote, such as addresses 
 
 3.  Fill in the information on the Details tab.
 
-    For more information, see [[quote-detail-form-fields|Quote details forms]].
+    For more information, see [Quote details forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-detail-form-fields.md).
 
 4.  Select **Save**.
 
 
 ## What to do next
 
-[[quote-management-catalog-tab|Add products to a quote]].
+[Add products to a quote](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-management-catalog-tab.md).
 
-**Parent Topic:**[[quote-mgmt-using|Using Quote Management]]
+**Parent Topic:**[Using Quote Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-mgmt-using.md)
 
-## Related
-
-- [[quote-detail-form-fields|Quote details forms]]
-- [[quote-management-catalog-tab|Add products to a quote]]
-- [[quote-mgmt-using|Using Quote Management]]

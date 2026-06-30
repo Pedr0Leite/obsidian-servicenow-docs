@@ -14,7 +14,7 @@ breadcrumb: [Using the Service Graph Connector for Microsoft Excel through impor
 
 # Create an import task
 
-Create an import task for the [[service-graph-connector-for-OT-excel|Service Graph Connector for Microsoft Excel]] to handle the import of [[operational-technology-overview|Operational Technology]] \(OT\) device data from your Microsoft Excel spreadsheet.
+Create an import task for the Service Graph Connector for Microsoft Excel to handle the import of Operational Technology \(OT\) device data from your Microsoft Excel spreadsheet.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: ot\_excel\_import\_user
 
 ## About this task
 
-Watch this short video to learn how to create an import task in the [[industrial-workspace-for-operational-technology|Industrial Workspace]].
+Watch this short video to learn how to create an import task in the Industrial Workspace.
 
 \[Omitted video\] Description: Create an import task in the Industrial Workspace
 
@@ -80,8 +80,3 @@ Prepare your spreadsheet by positioning your existing data in the correct column
 
 **Parent Topic:**[Using the Service Graph Connector for Microsoft Excel through import tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/use-excel-sgc-through-import-tasks.md)
 
-## Related
-
-- [[service-graph-connector-for-OT-excel|Service Graph Connector for Microsoft Excel]]
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

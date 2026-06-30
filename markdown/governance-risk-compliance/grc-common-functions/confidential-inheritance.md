@@ -24,7 +24,7 @@ When an issue's confidentiality is unmarked, the corresponding confidentiality o
 
 As shown in the example dialog box, if **Include downstream records** was selected, then the confidentiality is unmarked for all the downstream records. If **Only this record** was selected, the confidentiality is unmarked for that single record only.
 
-If you have access to the related [[confidential-records|confidential records]] and remove the confidentiality for a parent record, then the related records are also non-confidential.
+If you have access to the related confidential records and remove the confidentiality for a parent record, then the related records are also non-confidential.
 
 **Note:** An inheritance configuration should exist between the parent and inherited tables.
 
@@ -39,6 +39,3 @@ For more information about the confidentiality inheritance configuration, see [K
 
 **Parent Topic:**[Confidential records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/confidential-records.md)
 
-## Related
-
-- [[confidential-records|Confidential records]]

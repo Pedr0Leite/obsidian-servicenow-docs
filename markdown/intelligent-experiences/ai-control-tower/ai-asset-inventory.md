@@ -14,13 +14,13 @@ breadcrumb: [AI Control Tower Home, AI Control Tower dashboard, Explore, AI Cont
 
 # AI asset inventory tab in AI Control Tower
 
-The [[ai-inventory|AI asset inventory]] includes all the AI-related assets used by an organization, including [[ai-models|AI models]], [[ai-prompts|prompts]], systems, and databases.
+The AI asset inventory includes all the AI-related assets used by an organization, including AI models, prompts, systems, and databases.
 
 ## Explore AI asset inventory
 
 The **AI asset inventory** tab displays the following widgets. You can view the data in detail on each widget.
 
--   **[[ai-system|AI systems]] by provider**
+-   **AI systems by provider**
 
     This section displays the number of AI systems, categorized by the providers using a donut chart.
 
@@ -39,14 +39,7 @@ The **AI asset inventory** tab displays the following widgets. You can view the 
     This section displays the number of AI systems classified in the **Providers** and **Components** using bar graph.
 
 
-The following image shows the **AI asset inventory** tab on the [[ai-control-tower-landing|AI Control Tower]].
+The following image shows the **AI asset inventory** tab on the AI Control Tower.
 
 \[Omitted image "aict-ai-asset-inventory.png"\] Alt text: AI asset inventory tab that displays all the metric types for AI systems.
 
-## Related
-
-- [[ai-inventory|AI asset inventory]]
-- [[ai-models|AI models]]
-- [[ai-prompts|Prompts]]
-- [[ai-system|AI systems]]
-- [[ai-control-tower-landing|AI Control Tower]]

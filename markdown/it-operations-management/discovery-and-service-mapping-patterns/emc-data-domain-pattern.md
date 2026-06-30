@@ -14,7 +14,7 @@ breadcrumb: [Available on-premise discovery patterns, Discovery patterns used by
 
 # Dell Data Domain storage discovery using Patterns
 
-[[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] use the **Dell EMC Data Domain** serverless pattern to find the Data Domain storage systems registered in the Data Domain Management Center \(DDMC\). Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
+Discovery and Service Mapping use the **Dell EMC Data Domain** serverless pattern to find the Data Domain storage systems registered in the Data Domain Management Center \(DDMC\). Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 ## Request apps on the Store
 
@@ -68,7 +68,7 @@ To learn about Data Domain components and their versions that you can discover, 
 
     5.  Select **Submit**.
 
--   **Verify the configuration of a [[serverless-discovery|Serverless Discovery]] schedule**
+-   **Verify the configuration of a Serverless Discovery schedule**
 
     role: Discovery\_admin.
 
@@ -532,8 +532,3 @@ cmdb\_ci\_ip \_address
 </td></tr></tbody>
 </table>**Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/available-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[serverless-discovery|Serverless Discovery]]

@@ -14,7 +14,7 @@ breadcrumb: [Use, Operational Technology Incident Management, Operational Techno
 
 # Visibility of incidents across sites
 
-With the [[operational-technology-overview|Operational Technology]] \(OT\) incident fulfiller role \(sn\_ot\_incident\_write\), you can view, create, or edit the incidents that belong to your site. You can also view the incidents that belong to other sites to help resolve similar incidents at your site.
+With the Operational Technology \(OT\) incident fulfiller role \(sn\_ot\_incident\_write\), you can view, create, or edit the incidents that belong to your site. You can also view the incidents that belong to other sites to help resolve similar incidents at your site.
 
 ## OT incident visibility overview
 
@@ -32,7 +32,7 @@ The main benefit of being an OT incident fulfiller is that you have read-only vi
 
 ## Where to view or edit incidents
 
-The following OT incident lists are available in the Lists module on the [[industrial-workspace-for-operational-technology|Industrial Workspace]]:
+The following OT incident lists are available in the Lists module on the Industrial Workspace:
 
 -   Assigned to me: View and edit your assigned incident records by navigating to **OT Incidents** &gt; **Assigned to me**.
 -   Belong to my sites: View and edit the incident records that belong to your sites by navigating to **OT Incidents** &gt; **Belong to my sites**.
@@ -40,7 +40,3 @@ The following OT incident lists are available in the Lists module on the [[indus
 
 **Parent Topic:**[Using Operational Technology Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/using-operational-technology-incident-mgt.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

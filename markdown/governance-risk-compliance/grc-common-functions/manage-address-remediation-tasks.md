@@ -20,7 +20,7 @@ Review all remediation tasks stemming from controls and risks with NIST 800-53.r
 
 Role required: none.
 
-**Note:** Starting with version 10.1.0, the [[grc-and-nistrmf-usecase-accelerator|NIST RMF Use Case Accelerator]] will be supported only for customers who currently use the product. New and existing customers should consider using the GRC: Continuous Authorization Monitoring application. For details, [Continuous Authorization and Monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/grc-cam-landing-page.md).
+**Note:** Starting with version 10.1.0, the NIST RMF Use Case Accelerator will be supported only for customers who currently use the product. New and existing customers should consider using the GRC: Continuous Authorization Monitoring application. For details, [Continuous Authorization and Monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/grc-cam-landing-page.md).
 
 NIST RMF
 
@@ -37,6 +37,3 @@ sn\_irm\_nist\_rmf.security\_officer or sn\_irm\_nist\_rmf.risk\_executive.
 
 **Parent Topic:**[Assess controls, risks, issues, and remediation tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/rmf-assess.md)
 
-## Related
-
-- [[grc-and-nistrmf-usecase-accelerator|NIST RMF Use Case Accelerator]]

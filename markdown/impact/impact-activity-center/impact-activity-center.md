@@ -14,13 +14,13 @@ breadcrumb: [Impact reference, Impact]
 
 # Activity Center
 
-The Activity Center provides a comprehensive view of all the activities supporting your day to day journey with [[impact-landing-page|Impact]].
+The Activity Center provides a comprehensive view of all the activities supporting your day to day journey with Impact.
 
 Review outstanding notifications for your key Impact activities and deliverables that need your attention, such as tasks, recommendations, and communications. You can go directly to the record and take action. Sort by upcoming activities or view a report, such as a capability map or HealthScan report. Access your Value Journey snapshot, view your overview of Impact feature usage, and your learning credit balance.
 
 |Section|Use|
 |-------|---|
-|Conversations|Scan all conversations you are included in. [[start-conversation-store|Start a conversation]] any time to ask a question or get advice from your [[impact-squad|Impact squad]].|
+|Conversations|Scan all conversations you are included in. Start a conversation any time to ask a question or get advice from your Impact squad.|
 |All recommendations|View recommendations from your Squad. See [Activity Center All Recommendations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/impact-activity-center/recommendations-value-journey.md) for additional information.|
 |Tasks|See and manage work items you are responsible for. Also create tasks and assign them to others.|
 |Calendar|See upcoming Impact related events, such as meetings, assessments, and goals.|
@@ -34,11 +34,5 @@ Scan all conversations you are included in. Start a conversation any time to ask
 -   **[Activity Center All Recommendations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/impact-activity-center/recommendations-value-journey.md)**  
 View AI driven and expert suggested recommendations for training, content, and experts-on-demand offerings.
 
-**Parent Topic:**[[impact-reference|Impact reference]]
+**Parent Topic:**[Impact reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/impact-reference.md)
 
-## Related
-
-- [[impact-reference|Impact reference]]
-- [[impact-landing-page|Impact]]
-- [[start-conversation-store|Start a conversation]]
-- [[impact-squad|Impact Squad]]

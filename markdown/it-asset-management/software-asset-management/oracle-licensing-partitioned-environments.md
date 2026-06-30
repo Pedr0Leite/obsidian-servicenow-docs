@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Management publisher pack for Oracle, Supported soft
 
 # Oracle Database and WebLogic Server licensing in partitioned environments
 
-The [[c_SoftwareAssetMgmt|Software Asset Management]] application supports Oracle licensing rules for Oracle Database and WebLogic Server in both soft- and hard-partitioned environments. You can use partitioning to help reduce the number of licenses that are required for your installations.
+The Software Asset Management application supports Oracle licensing rules for Oracle Database and WebLogic Server in both soft- and hard-partitioned environments. You can use partitioning to help reduce the number of licenses that are required for your installations.
 
 -   **[Oracle Database and WebLogic Server licensing in soft-partitioned environments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/oracle-licensing-soft-partitioned-environments.md)**  
 The Software Asset Management application supports Oracle Database and WebLogic Server licensing rules in soft-partitioned environments, such as VMware and Nutanix virtualization technology.
@@ -23,6 +23,3 @@ The Software Asset Management application supports Oracle hard-partitioning lice
 
 **Parent Topic:**[Software Asset Management publisher pack for Oracle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/oracle-publisher-pack.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

@@ -21,7 +21,7 @@ Use the Change request planning AI agent team to monitor similar change requests
 
 Generate the desired change plans using a team of AI agents in the Generate change request plans agentic workflow.
 
-To modify the Generate change request plans agentic workflow, [duplicate it](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/clone-aia-usecase.md), and adjust the [[settings-mobile|settings]] according to your requirements.
+To modify the Generate change request plans agentic workflow, [duplicate it](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/clone-aia-usecase.md), and adjust the settings according to your requirements.
 
 **Important:** In the Edit trigger form, make sure that the **Active** button is turned on to enable the AI agent to trigger autonomously.
 
@@ -64,6 +64,3 @@ In the use agentic workflow:
 
 In the AI Agent Studio, the human agent gets notified as soon as the report gets generated so that they can follow the on-screen instructions and complete the task. For more information, see [Request the generative AI capabilities in ITSM by using the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/request-gen-ai-capabilities-itsm-now-assist-panel.md).
 
-## Related
-
-- [[settings-mobile|Settings]]

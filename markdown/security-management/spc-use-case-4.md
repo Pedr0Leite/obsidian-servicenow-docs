@@ -23,8 +23,5 @@ Depending on your use case, you can choose to activate only the required connect
     3.  Vulnerability Assessment: Qualys, Rapid7, or Tenable.
     4.  Configuration and Patch Management: Microsoft SCCM or IBM Bigfix.
 
-After you verify you have met these prerequisites, you must activate the following policy, Assets missing endpoint management solution. For more information on policies, please refer to [[spc-policies-overview|Policies for Security Posture Control]].
+After you verify you have met these prerequisites, you must activate the following policy, Assets missing endpoint management solution. For more information on policies, please refer to [Policies for Security Posture Control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-policies-overview.md).
 
-## Related
-
-- [[spc-policies-overview|Policies for Security Posture Control]]

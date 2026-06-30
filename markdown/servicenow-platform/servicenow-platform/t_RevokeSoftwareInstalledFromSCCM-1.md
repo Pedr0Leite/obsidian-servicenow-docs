@@ -23,7 +23,7 @@ A workflow called [Revoke SCCM Application](https://raw.githubusercontent.com/Se
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ClientSoftwareDistribution|Client Software Distribution]]** &gt; **Reports** &gt; **Requested Software**.
+1.  Navigate to **All** &gt; **Client Software Distribution** &gt; **Reports** &gt; **Requested Software**.
 
 2.  Open the record for the SCCM software package you want to revoke.
 
@@ -33,6 +33,4 @@ A workflow called [Revoke SCCM Application](https://raw.githubusercontent.com/Se
 
     This action runs the Revoke Client Software workflow, which triggers the Revoke SCCM Application subflow that moves the user or device from the install collection to the uninstall collection. When SCCM performs an internal policy check and finds the user or device in the uninstall collection, SCCM removes the related software package from the client computer.
 
-## Related
 
-- [[c_ClientSoftwareDistribution|Client Software Distribution]]

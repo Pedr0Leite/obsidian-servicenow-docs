@@ -17,7 +17,7 @@ breadcrumb: [Legal Service Delivery, Legal and Contract Operations, Employee Ser
 The ServiceNow® Legal Matter Management application enables you to complete legal requests that need cross-departmental tasking and a workflow with a mechanism to store supporting documents and track important milestones.
 
 -   With its embedded record-level security, maintain the confidential and sensitive information of each record. Define a standardized process and workflow for various matter types using matter templates.
--   With [[lmm-acp-landing|attorney client privilege]] workflow, you can mark matter as privileged and confidential to protect sensitive legal communications and comply with [[lsd-acp-landing|attorney-client privilege]] requirements.
+-   With attorney client privilege workflow, you can mark matter as privileged and confidential to protect sensitive legal communications and comply with attorney-client privilege requirements.
 -   With the outside counsel engagement workflow, resolve legal matters using the expertise and services of an outside counsel.
 
 ## Get started
@@ -28,7 +28,7 @@ The ServiceNow® Legal Matter Management application enables you to complete leg
 
 </td><td>
 
-[Set up \[Omitted image "bus-sdlc.svg"\] Alt text: Set up [[legal-matter-administration|legal matter templates]] and complete other configurations.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/setting-up-legal-matter-managemment.md)
+[Set up \[Omitted image "bus-sdlc.svg"\] Alt text: Set up legal matter templates and complete other configurations.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/setting-up-legal-matter-managemment.md)
 
 </td><td>
 
@@ -44,14 +44,7 @@ The ServiceNow® Legal Matter Management application enables you to complete leg
 
 </td><td>
 
-[Reference \[Omitted image "bus-learn.svg"\] Alt text: Get details about components such as roles, tables, plugins, and store applications that are installed.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/legal-matter-management-[[reference-hr-service-delivery-advanced-integration-with-workday|reference]].md)
+[Reference \[Omitted image "bus-learn.svg"\] Alt text: Get details about components such as roles, tables, plugins, and store applications that are installed.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/legal-matter-management-reference.md)
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[lmm-acp-landing|Attorney Client Privilege]]
-- [[lsd-acp-landing|Attorney-Client Privilege]]
-- [[legal-matter-administration|Legal matter templates]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

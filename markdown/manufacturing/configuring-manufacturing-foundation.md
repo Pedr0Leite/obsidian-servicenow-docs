@@ -12,13 +12,13 @@ breadcrumb: [Manufacturing Commercial Operations]
 
 # Configure Manufacturing Commercial Operations
 
-[[mco-setup|Set up Manufacturing Commercial Operations]] to enable manufacturers to manage the end-to-end life-cycle of your manufacturing products.
+Set up Manufacturing Commercial Operations to enable manufacturers to manage the end-to-end life-cycle of your manufacturing products.
 
 ## Installing and configuring Manufacturing Commercial Operations applications
 
-With admin role, when you activate the [[manufacturing-overview|Manufacturing Commercial Operations]] application \[sn\_dealer\_mgmt\], the [[manufacturing-commercial-operations-plugins|Plugins installed with Manufacturing Commercial Operations]] plugins are automatically installed.
+With admin role, when you activate the Manufacturing Commercial Operations application \[sn\_dealer\_mgmt\], the [Plugins installed with Manufacturing Commercial Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/manufacturing-commercial-operations-plugins.md) plugins are automatically installed.
 
-To learn how to install and configure Manufacturing Commercial Operations applications plugins, see [[getting-started-mco|Getting started with Manufacturing Commercial Operations]].
+To learn how to install and configure Manufacturing Commercial Operations applications plugins, see [Getting started with Manufacturing Commercial Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/getting-started-mco.md).
 
 As a user with the admin role, complete the following main configuration tasks to set up your Manufacturing Commercial Operations application.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[mco-install-cust-ser-mgmt|Install Customer Service Management for Manufacturing Commercial Operations]]\(Mandatory\)
+[Install Customer Service Management for Manufacturing Commercial Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-install-cust-ser-mgmt.md)\(Mandatory\)
 
 </td><td>
 
@@ -40,7 +40,7 @@ Install the Customer Service Management application from the ServiceNow Store st
 
 </td></tr><tr><td>
 
-[[mco-install-som|Install Order Management for Manufacturing Commercial Operations]]\(Mandatory\)
+[Install Order Management for Manufacturing Commercial Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-install-som.md)\(Mandatory\)
 
 </td><td>
 
@@ -52,7 +52,7 @@ Install the Order to cash operations application from the ServiceNow Store. This
 
 </td><td>
 
-Install the [[mco-som-using|Order Management]] application from the ServiceNow Store.
+Install the Order Management application from the ServiceNow Store.
 
 </td></tr><tr><td>
 
@@ -72,7 +72,7 @@ Install the Install Base Management application from the ServiceNow Store store.
 
 </td></tr><tr><td>
 
-[[mco-install-configure-sb-providers|Install Service Exchange for Providers and Consumers for Manufacturing Commercial Operations]]\(Optional\)
+[Install Service Exchange for Providers and Consumers for Manufacturing Commercial Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-install-configure-sb-providers.md)\(Optional\)
 
 </td><td>
 
@@ -82,13 +82,3 @@ See [Install Service Exchange for Providers](https://raw.githubusercontent.com/S
 </table>-   Work with an implementation specialist to streamline your manufacturing setup process. To learn more, see the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Join the ServiceNow® [Manufacturing Community](https://community.servicenow.com/community?id=community_forum&sys_id=ad8ccc43db25bc90aa66a9fb13961913) to share knowledge, collaborate, and network with peers around the globe who are addressing the same industry challenges and opportunities.
 
-## Related
-
-- [[manufacturing-commercial-operations-plugins|Plugins installed with Manufacturing Commercial Operations]]
-- [[getting-started-mco|Getting started with Manufacturing Commercial Operations]]
-- [[mco-install-cust-ser-mgmt|Install Customer Service Management for Manufacturing Commercial Operations]]
-- [[mco-install-som|Install Order Management for Manufacturing Commercial Operations]]
-- [[mco-install-configure-sb-providers|Install Service Exchange for Providers and Consumers for Manufacturing Commercial Operations]]
-- [[mco-setup|Set up Manufacturing Commercial Operations]]
-- [[manufacturing-overview|Manufacturing Commercial Operations]]
-- [[mco-som-using|Order Management]]

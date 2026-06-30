@@ -15,7 +15,7 @@ breadcrumb: [Configurations, AI Control Tower dashboard, Explore, AI Control Tow
 
 # Multi-instance Setup
 
-The multi-instance setup enables a prod \(manager\) instance to control, manage, and communicate with multiple sub-prod \(managed\) instances for [[ai-control-tower-landing|AI Control Tower]].
+The multi-instance setup enables a prod \(manager\) instance to control, manage, and communicate with multiple sub-prod \(managed\) instances for AI Control Tower.
 
 ## AI asset Synchronization
 
@@ -31,7 +31,7 @@ If there’s any upgrade to version 6.2.4 in a sub-prod, then it’s advisable t
 
     You can include the sub-prod instances that you want to synchronize with the prod instance. This synchronizes AI inventory information between the instances.
 
-    When configured, the scheduled job starts synchronizing [[ai-system|AI systems]], [[ai-models|AI models]], [[ai-prompts|prompts]], and [[ai-datasets|datasets]]. From the September \(2025\) release, the job has been enhanced to include synchronizing AI agents as well.
+    When configured, the scheduled job starts synchronizing AI systems, AI models, prompts, and datasets. From the September \(2025\) release, the job has been enhanced to include synchronizing AI agents as well.
 
     **Note:** State of the assets while configuring Multi-instance management.
 
@@ -56,10 +56,3 @@ For information about configuring Multi-instance management for AI Control Tower
 
 For information about Data section, see [Data sharing, Data overflow processing, and Security &amp; privacy in AI Control Tower](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/data.md)
 
-## Related
-
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[ai-system|AI systems]]
-- [[ai-models|AI models]]
-- [[ai-prompts|Prompts]]
-- [[ai-datasets|Datasets]]

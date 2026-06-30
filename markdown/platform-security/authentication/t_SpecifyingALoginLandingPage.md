@@ -14,7 +14,7 @@ breadcrumb: [Define login scenarios, Local authentication, Authentication, Acces
 
 # Specify a login landing page
 
-By default, [[users|users]] see their homepage upon login. You can specify a different login landing page by using a system property or the content management system.
+By default, users see their homepage upon login. You can specify a different login landing page by using a system property or the content management system.
 
 ## Before you begin
 
@@ -44,6 +44,4 @@ To specify a login landing page for all users, change the property value on the 
 
     You can also specify a login landing page with the content management system.
 
-## Related
 
-- [[users|Users]]

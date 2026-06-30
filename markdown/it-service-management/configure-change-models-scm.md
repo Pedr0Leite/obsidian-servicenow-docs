@@ -13,7 +13,7 @@ breadcrumb: [Configuring Simplified Change Management, Configuring the fulfiller
 
 # Configure change models for Simplified Change Management
 
-Configure the change [[c_Models|models]] that control how Normal, Standard, Emergency, and Change Registration changes are processed in Simplified [[c_ITILChangeManagement|Change Management]].
+Configure the change models that control how Normal, Standard, Emergency, and Change Registration changes are processed in Simplified Change Management.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ Simplified Change Management includes four configurable change models. Each mode
 
 -   **Normal**
 
-    CAB-governed workflow for planned changes that require [[c_RskAsmtCalc|risk assessment]], approvals, and post-implementation review.
+    CAB-governed workflow for planned changes that require risk assessment, approvals, and post-implementation review.
 
 -   **Standard**
 
@@ -42,13 +42,13 @@ Simplified Change Management includes four configurable change models. Each mode
     Records changes implemented outside the standard workflow. Restricts who can register and notifies stakeholders on creation.
 
 
-When you activate the ITSM Change Management Admin Experience plugin \(sn\_itsm\_chg\_admin\), the simplified change models become the active defaults and the classic global models are deactivated. For more information, see [[change-model-defaults-for-simplified-change-management|Change model defaults for Simplified Change Management]].
+When you activate the ITSM Change Management Admin Experience plugin \(sn\_itsm\_chg\_admin\), the simplified change models become the active defaults and the classic global models are deactivated. For more information, see [Change model defaults for Simplified Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-model-defaults-for-simplified-change-management.md).
 
 ## Procedure
 
 1.  Navigate to **Admin** &gt; **Admin Home**.
 
-2.  From the **Manage your products** section, select **View product overview** for [[r_ITServiceManagement|IT Service Management]].
+2.  From the **Manage your products** section, select **View product overview** for IT Service Management.
 
 3.  On the Product Hub page for IT Service Management, from the **Configure your product** section, select **Configure**.
 
@@ -58,12 +58,12 @@ When you activate the ITSM Change Management Admin Experience plugin \(sn\_itsm\
 
     |Model|What to configure|How to configure|
     |-----|-----------------|----------------|
-    |**Normal**|Adjust availability, risk-based approvals for the Assess and Authorize states, templates, and automatic change task creation.|[[configure-normal-change-model-scm|Configure the Normal change model]]|
-    |**Standard**|Manage pre-approved templates. Availability, approval, and task [[settings-mobile|settings]] don't apply to Standard changes.|[[configure-standard-change-model-scm|Configure the Standard change model]]|
-    |**Emergency**|Restrict submitter access, configure Authorize approvals, set up stakeholder notifications, and control automatic task creation.|[[configure-emergency-change-model-scm|Configure the Emergency change model]]|
-    |**Change Registration**|Restrict who can register external changes and configure notification recipients.|[[configure-change-registration-model-scm|Configure the Change Registration change model]]|
+    |**Normal**|Adjust availability, risk-based approvals for the Assess and Authorize states, templates, and automatic change task creation.|[Configure the Normal change model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/configure-normal-change-model-scm.md)|
+    |**Standard**|Manage pre-approved templates. Availability, approval, and task settings don't apply to Standard changes.|[Configure the Standard change model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/configure-standard-change-model-scm.md)|
+    |**Emergency**|Restrict submitter access, configure Authorize approvals, set up stakeholder notifications, and control automatic task creation.|[Configure the Emergency change model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/configure-emergency-change-model-scm.md)|
+    |**Change Registration**|Restrict who can register external changes and configure notification recipients.|[Configure the Change Registration change model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/configure-change-registration-model-scm.md)|
 
-6.  Expand the **[[dex-advanced-configuration|Advanced configuration]]** section to access and adjust additional settings.
+6.  Expand the **Advanced configuration** section to access and adjust additional settings.
 
 7.  After you configure all required change models, select **Mark as configured** to complete the change model configuration.
 
@@ -79,19 +79,5 @@ Configure the Change Registration change model to define who can register extern
 -   **[Change model defaults for Simplified Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-model-defaults-for-simplified-change-management.md)**  
 When you activate the ITSM Change Management Admin Experience plugin \(sn\_itsm\_chg\_admin\), the simplified change models become the active defaults and the classic global models are deactivated.
 
-**Parent Topic:**[[configuring-change-management-experience-in-it-service-management|Configuring Simplified Change Management]]
+**Parent Topic:**[Configuring Simplified Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/configuring-change-management-experience-in-it-service-management.md)
 
-## Related
-
-- [[change-model-defaults-for-simplified-change-management|Change model defaults for Simplified Change Management]]
-- [[configure-normal-change-model-scm|Configure the Normal change model]]
-- [[configure-standard-change-model-scm|Configure the Standard change model]]
-- [[configure-emergency-change-model-scm|Configure the Emergency change model]]
-- [[configure-change-registration-model-scm|Configure the Change Registration change model]]
-- [[configuring-change-management-experience-in-it-service-management|Configuring Simplified Change Management]]
-- [[c_Models|Models]]
-- [[c_ITILChangeManagement|Change Management]]
-- [[c_RskAsmtCalc|Risk assessment]]
-- [[r_ITServiceManagement|IT Service Management]]
-- [[settings-mobile|Settings]]
-- [[dex-advanced-configuration|Advanced configuration]]

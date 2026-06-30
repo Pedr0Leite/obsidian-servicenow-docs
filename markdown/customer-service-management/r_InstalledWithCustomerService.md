@@ -14,28 +14,18 @@ breadcrumb: [Reference, Customer Service Management]
 
 Several types of components are installed with the Customer Service Management application.
 
--   **[[r_TIWCustomerService|Tables installed with Customer Service Management]]**  
+-   **[Tables installed with Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_TIWCustomerService.md)**  
 Tables are added to your instance with the activation of the Customer Service Management \(CSM\) application.
--   **[[r_PropInstallWcustServ|Properties installed with Customer Service Management]]**  
+-   **[Properties installed with Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_PropInstallWcustServ.md)**  
 Properties are added with the activation of the Customer Service Management application.
--   **[[r_RolesInstalledWithCustomerService|Roles installed with Customer Service Management]]**  
+-   **[Roles installed with Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_RolesInstalledWithCustomerService.md)**  
 The Customer Service Management application uses roles to provide access to information, identify internal and external users, maintain data security, and establish different types of relationships between users.
--   **[[r_ScrIncInstallWCustServ|Script includes installed with Customer Service Management]]**  
+-   **[Script includes installed with Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_ScrIncInstallWCustServ.md)**  
 Script includes are added with activation of Customer Service Management.
--   **[[r_ClientScriptInsWCustServ|Client scripts installed with Customer Service Management]]**  
+-   **[Client scripts installed with Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_ClientScriptInsWCustServ.md)**  
 Client scripts are added with activation of Customer Service Management.
--   **[[r_BRIWCustomerService|Business rules installed with Customer Service Management]]**  
-Business [[gamification-components-rules|rules]] are added with activation of Customer Service Management.
+-   **[Business rules installed with Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_BRIWCustomerService.md)**  
+Business rules are added with activation of Customer Service Management.
 
-**Parent Topic:**[[c_CustomerServiceManagement|Customer Service Management]]
+**Parent Topic:**[Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_CustomerServiceManagement.md)
 
-## Related
-
-- [[r_TIWCustomerService|Tables installed with Customer Service Management]]
-- [[r_PropInstallWcustServ|Properties installed with Customer Service Management]]
-- [[r_RolesInstalledWithCustomerService|Roles installed with Customer Service Management]]
-- [[r_ScrIncInstallWCustServ|Script includes installed with Customer Service Management]]
-- [[r_ClientScriptInsWCustServ|Client scripts installed with Customer Service Management]]
-- [[r_BRIWCustomerService|Business rules installed with Customer Service Management]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[gamification-components-rules|Rules]]

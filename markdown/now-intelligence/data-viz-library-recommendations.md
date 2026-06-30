@@ -29,8 +29,5 @@ The following types of recommendations are currently available:
 |n Unused data visualizations|Number of data visualizations that are not used in any dashboards|
 |n No active owner|Number of data visualizations without an active owner|
 
-**Parent Topic:**[[pa-library-recommendations|Platform Analytics library recommendations]]
+**Parent Topic:**[Platform Analytics library recommendations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/pa-library-recommendations.md)
 
-## Related
-
-- [[pa-library-recommendations|Platform Analytics library recommendations]]

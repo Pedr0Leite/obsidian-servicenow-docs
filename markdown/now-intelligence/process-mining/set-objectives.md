@@ -26,7 +26,7 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
 2.  Provide the following details.
 
-    **Note:** If you want to [[project-agentic-ai|create a project using Agentic AI]] data, see [Create a project using Agentic AI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/project-agentic-ai.md). If you want to [[playbook-project|create a project using Playbook data]], see [Create a project using Playbook data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/playbook-project.md).
+    **Note:** If you want to create a project using Agentic AI data, see [Create a project using Agentic AI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/project-agentic-ai.md). If you want to create a project using Playbook data, see [Create a project using Playbook data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/playbook-project.md).
 
 <table id="choicetable_j24_f5k_nzb"><thead><tr><th align="left" id="d94918e104">
 
@@ -42,7 +42,7 @@ Description
 
 </td><td>
 
-Choose whether you want to [[create-project|create a project]] or a template.
+Choose whether you want to create a project or a template.
 
 </td></tr><tr><td id="d94918e122">
 
@@ -148,8 +148,3 @@ Select the check box if you want to add a KPI dashboard. You must then select a 
 
 **Parent Topic:**[Create a project or template using Project Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/define-workflow-model.md)
 
-## Related
-
-- [[project-agentic-ai|Create a project using Agentic AI]]
-- [[playbook-project|Create a project using Playbook data]]
-- [[create-project|Create a project]]

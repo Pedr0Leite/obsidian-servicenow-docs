@@ -12,9 +12,9 @@ breadcrumb: [Input forms in offline, Offline mode setup options, Offline mode, B
 
 # Reference field attributes for input form screens in offline mode
 
-Configure the fields that you want to use and the data you want to display in [[mobile-offline-mode|offline mode]] by using various input attributes.
+Configure the fields that you want to use and the data you want to display in offline mode by using various input attributes.
 
-**Note:** You must create an [[parameter-input-screen|input form screen]] before you create variables and attributes. For information about creating an input form screen, see [[parameter-screen-config|Configure an input form screen]].
+**Note:** You must create an input form screen before you create variables and attributes. For information about creating an input form screen, see [Configure an input form screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/parameter-screen-config.md).
 
 ## Reference inputs
 
@@ -137,11 +137,5 @@ This example shows how the system dynamically retrieves users who share the logg
     ```
 
 
-**Parent Topic:**[[offline-input-form|Input forms in offline]]
+**Parent Topic:**[Input forms in offline](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/offline-input-form.md)
 
-## Related
-
-- [[parameter-screen-config|Configure an input form screen]]
-- [[offline-input-form|Input forms in offline]]
-- [[mobile-offline-mode|Offline mode]]
-- [[parameter-input-screen|Input form screen]]

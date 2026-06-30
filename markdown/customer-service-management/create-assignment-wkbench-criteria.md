@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-The assignment workbench uses configurable matching criteria, such as skills and availability, to evaluate agents in a selected group and provide an overall ranking. The Matching Criteria \[matching\_dimension\] table stores the individual criterion that can be added to a matching rule to [[create-assignment-wkbench-config|create an assignment workbench configuration]].
+The assignment workbench uses configurable matching criteria, such as skills and availability, to evaluate agents in a selected group and provide an overall ranking. The Matching Criteria \[matching\_dimension\] table stores the individual criterion that can be added to a matching rule to create an assignment workbench configuration.
 
 ## Procedure
 
@@ -128,9 +128,5 @@ The field from the selected task table to be displayed for the task records that
 **Related topics**  
 
 
-[[case-assignment-matching-criteria|Matching criteria for case assignment]]
+[Matching criteria for case assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-assignment-matching-criteria.md)
 
-## Related
-
-- [[case-assignment-matching-criteria|Matching criteria for case assignment]]
-- [[create-assignment-wkbench-config|Create an assignment workbench configuration]]

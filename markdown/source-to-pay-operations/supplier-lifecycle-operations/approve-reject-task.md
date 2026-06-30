@@ -22,7 +22,7 @@ Role required: sn\_slm.contact or sn\_slm.admin
 
 ## Procedure
 
-1.  Navigate to the [[supplier-central|Supplier Collaboration Portal]] home page by accessing your instance URL and adding a /supplier suffix.
+1.  Navigate to the Supplier Collaboration Portal home page by accessing your instance URL and adding a /supplier suffix.
 
     For example, `https://example.com/supplier`.
 
@@ -42,6 +42,3 @@ Role required: sn\_slm.contact or sn\_slm.admin
 
 [Viewing supplier contact tasks from the Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/my-to-dos.md)
 
-## Related
-
-- [[supplier-central|Supplier Collaboration Portal]]

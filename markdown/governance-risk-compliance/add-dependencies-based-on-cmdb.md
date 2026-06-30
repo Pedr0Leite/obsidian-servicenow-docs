@@ -12,7 +12,7 @@ breadcrumb: [Identify critical dependencies, Assess impact categories and depend
 
 # Add dependencies based on CI relationships in CMDB
 
-Add an item by referencing its CI relationship to drill down to the item that is related directly to the dependency group. You can map the item's relationship with the dependency group while assessing the [[bia-uib|business impact analysis]] of an asset that is at risk.
+Add an item by referencing its CI relationship to drill down to the item that is related directly to the dependency group. You can map the item's relationship with the dependency group while assessing the business impact analysis of an asset that is at risk.
 
 ## Before you begin
 
@@ -64,6 +64,4 @@ For example, your business function, Accounts Receivable, may depend on the busi
 
     The dependency details of the item that your business function depends on opens in a new tab. You can update the required recovery timeframe, required data backup, and the description of its use in the business function, and save the details.
 
-## Related
 
-- [[bia-uib|Business impact analysis]]

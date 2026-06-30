@@ -32,7 +32,7 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
     \[Omitted image "ADFSEditFSProperties02.png"\] Alt text: Edit properties.
 
-4.  Browse to the [[c_Certificates|certificates]] and [[export|export]] the Token-Signing certificate.
+4.  Browse to the certificates and export the Token-Signing certificate.
 
     1.  Right-click the certificate and select **View Certificate**.
 
@@ -56,7 +56,4 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
 5.  Use the DER/Binary certificate that you just created, and export it in Standard PEM format.
 
-## Related
 
-- [[c_Certificates|Certificates]]
-- [[export|Export]]

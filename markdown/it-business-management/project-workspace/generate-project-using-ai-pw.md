@@ -20,7 +20,7 @@ Use Project plan generation skill to generate a project plan from natural langua
 
 Role required: it\_project\_manager
 
--   Install [[now-assist-spm|Now Assist for Strategic Portfolio Management \(SPM\)]] plugin.
+-   Install Now Assist for Strategic Portfolio Management \(SPM\) plugin.
 -   To use attachments to generate a project, activate the document intelligence skill. The default LLM is Azure OpenAI. Switching to a different model may affect accuracy.
 
 -   The project plan generation skill is activated by default. For more information on how to activate the skill if it isn't automatically activated or if you want to change the skill configuration, see [Configure Now Assist Admin features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/configuring-na-spm.md).
@@ -34,7 +34,7 @@ For project and task supported column configurations, see [Supported columns for
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[project-workspace-landing-page|Project Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Project Workspace**.
 
 2.  Select **Generate project** to use Now Assist to generate a project.
 
@@ -67,7 +67,3 @@ The project is created with the generated tasks, including task hierarchy and da
 
 **Parent Topic:**[Managing projects with Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/use-projects-pw.md)
 
-## Related
-
-- [[now-assist-spm|Now Assist for Strategic Portfolio Management \(SPM\)]]
-- [[project-workspace-landing-page|Project Workspace]]

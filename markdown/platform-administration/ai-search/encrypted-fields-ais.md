@@ -14,7 +14,7 @@ breadcrumb: [Administer, AI Search, Search administration, Configure core featur
 
 # Encrypted fields in AI Search
 
-[[ia-ai-search|AI Search]] excludes source record fields encrypted with Encryption Support or Edge Encryption.
+AI Search excludes source record fields encrypted with Encryption Support or Edge Encryption.
 
 When dealing with an encrypted source record field, AI Search has the following limitations:
 
@@ -26,6 +26,3 @@ For detailed descriptions of the encryption options available for source records
 
 **Parent Topic:**[Administering AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/administer-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]

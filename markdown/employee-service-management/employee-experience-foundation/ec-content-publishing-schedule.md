@@ -14,7 +14,7 @@ breadcrumb: [Creating employee communications, Authoring and managing employee c
 
 # Publishing content
 
-Use Content Publishing to create, schedule, and deliver your [[ec-streamline-content|portal content]] to your employees.
+Use Content Publishing to create, schedule, and deliver your portal content to your employees.
 
 ## Options for publishing
 
@@ -44,7 +44,7 @@ When you are configuring a content schedule or publish plan, you must define the
 
 -   **Location**
 
-    For most content types, **Service Portal** is the only option. Some content types, such as [[ec-news-articles|news articles]], enable you to specify a publish plan for the [[mobile-employee-experience|Now Mobile app]]. For more information, see [Publishing news articles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-publish-news-articles.md).
+    For most content types, **Service Portal** is the only option. Some content types, such as news articles, enable you to specify a publish plan for the Now Mobile app. For more information, see [Publishing news articles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-publish-news-articles.md).
 
 -   **Page**
 
@@ -89,7 +89,7 @@ Schedule content includes setting:
 -   Location: Where your content appears \(Service Portal or Workspace\).
 -   Page: The page your content appears on the Service Portal.
 -   Widget instance: The widget on the page your content appears.
--   [[ecpro-audience|Audiences]]: Who the content is for.
+-   Audiences: Who the content is for.
 -   Taxonomy: Groups common topics.
 -   Topic: Topic heading that your content appears under.
 
@@ -99,11 +99,11 @@ You can also schedule content to widgets within topic pages by selecting a taxon
 
 ## Publishing schedule content
 
-You can schedule your content to appear in [[employee-center-landing-page|Employee Center]] and Workspace. The Schedule content form changes depending on where you want your content to appear. To better understand scheduling content, the information on the form can be divided in the following way:
+You can schedule your content to appear in Employee Center and Workspace. The Schedule content form changes depending on where you want your content to appear. To better understand scheduling content, the information on the form can be divided in the following way:
 
 -   Meta data: Provides the basic information required to schedule your content and includes:
     -   Title: An identifiable name for your schedule content record. It defaults to the name of the content you are scheduling.
-    -   Approvers: You can optionally [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] names of people that are required to approve of the content before it can be scheduled for access.
+    -   Approvers: You can optionally reference names of people that are required to approve of the content before it can be scheduled for access.
     -   Active: You can schedule your content for access by date, but won't be available unless you activate the schedule content record.
     -   State: The current state of your schedule content record.
 -   Content:
@@ -120,11 +120,3 @@ You can schedule your content to appear in [[employee-center-landing-page|Employ
         -   The audience the content is directed to or you can add specific users you want your content directed to.
         -   The start and end dates your content is available.
 
-## Related
-
-- [[ec-streamline-content|Portal content]]
-- [[ec-news-articles|News articles]]
-- [[mobile-employee-experience|Now Mobile app]]
-- [[ecpro-audience|Audiences]]
-- [[employee-center-landing-page|Employee Center]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

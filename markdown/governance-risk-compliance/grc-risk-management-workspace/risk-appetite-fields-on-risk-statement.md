@@ -18,7 +18,7 @@ Learn about the risk appetite fields on the Risk Statement form. Use these field
 
 See the following table for a description of the field values.
 
-**Note:** The risk appetite fields that appear on the entity form depends on the [[advanced-risk-assessment|advanced risk assessment]] properties that are set by the risk administrator.
+**Note:** The risk appetite fields that appear on the entity form depends on the advanced risk assessment properties that are set by the risk administrator.
 
 <table id="table_g2y_bgb_pvb"><thead><tr><th>
 
@@ -114,7 +114,7 @@ Methodology for status calculation
 
 </td><td>
 
-[[risk-assessment-methodology-prm|Risk assessment methodology \(RAM\)]] whose aggregated results are used to calculate the risk appetite status of the risk statement.
+Risk assessment methodology \(RAM\) whose aggregated results are used to calculate the risk appetite status of the risk statement.
 
 </td></tr><tr><td>
 
@@ -155,7 +155,3 @@ Overall appetite status. The overall appetite status considers the worst-case sc
 </td></tr></tbody>
 </table>**Parent Topic:**[Define the risk appetite for a risk statement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/define-risk-appetite-on-risk-statement.md)
 
-## Related
-
-- [[advanced-risk-assessment|advanced risk assessment]]
-- [[risk-assessment-methodology-prm|Risk Assessment Methodology \(RAM\)]]

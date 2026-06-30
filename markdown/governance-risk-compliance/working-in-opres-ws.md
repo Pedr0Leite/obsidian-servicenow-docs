@@ -12,7 +12,7 @@ breadcrumb: [Operational Resilience, Governance, Risk, and Compliance]
 
 # Managing Operational Resilience
 
-Starting with GRC version 16.x.x, a new workspace has been introduced for the GRC: [[grc-opres-landing-page|Operational Resilience]] application. You can use Operational Resilience Workspace for managing your resilience tasks and monitoring the [[opres-ws-homepage-overview|resilience metrics]] from a single dashboard.
+Starting with GRC version 16.x.x, a new workspace has been introduced for the GRC: Operational Resilience application. You can use Operational Resilience Workspace for managing your resilience tasks and monitoring the resilience metrics from a single dashboard.
 
 ## Overview of Operational Resilience Workspace
 
@@ -27,7 +27,7 @@ You can view the data visualization components of the resilience metrics on the 
 
 -   Home page: The Home page displays the status of the services and the pillars on the dashboard.
 -   Tasks page: The Tasks page displays your individual tasks and your team's tasks on the dashboard.
--   List page: The List page displays the configurable resilience tasks, such as the importance and impact tolerance assessment or a [[scenario-analysis-ov|scenario analysis]] in the list format.
+-   List page: The List page displays the configurable resilience tasks, such as the importance and impact tolerance assessment or a scenario analysis in the list format.
 
 The Home page, Tasks page, and List page are displayed in the following examples.
 
@@ -45,7 +45,7 @@ You can access Operational Resilience Workspace with the following user roles:
 -   Operational Resilience manager \[sn\_oper\_res.manager\]
 -   Operational Resilience user \[sn\_oper\_res.user\]
 
-**Note:** For information on the administrative tasks, see [[admin-module-tasks|Completing general administrative tasks]].
+**Note:** For information on the administrative tasks, see [Completing general administrative tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/admin-module-tasks.md).
 
 ## Configurable features in Operational Resilience Workspace
 
@@ -55,12 +55,5 @@ You can configure the following Operational Resilience features in Operational R
 -   Scenario analyses
 -   Self-attestations
 -   Business services
--   [[exploring-op-vul|Operational vulnerability]]
+-   Operational vulnerability
 
-## Related
-
-- [[admin-module-tasks|Completing general administrative tasks]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[opres-ws-homepage-overview|Resilience metrics]]
-- [[scenario-analysis-ov|Scenario analysis]]
-- [[exploring-op-vul|Operational vulnerability]]

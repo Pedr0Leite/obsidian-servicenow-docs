@@ -14,7 +14,7 @@ breadcrumb: [Demand Management, Project Portfolio Management, Strategic Portfoli
 
 # Configuring Demand Management
 
-Configure your [[c_DemandManagement|Demand Management]] application to assess and promote demands to projects, enhancements, changes, defects, or Enterprise Agile Planning \(EAP\) entities.
+Configure your Demand Management application to assess and promote demands to projects, enhancements, changes, defects, or Enterprise Agile Planning \(EAP\) entities.
 
 ## Configuration overview
 
@@ -24,7 +24,7 @@ Demands are available in the Next Experience for Demand Management. For more inf
 
 The workspace provides additional value beyond the legacy experience, including Playbook, Docs, and the ability to define different governance processes using playbooks.
 
-If you have [[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace or [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace, you can use the Next Experience for Demand Management to create and manage your demands.
+If you have Portfolio Planning Workspace or Strategic Planning Workspace, you can use the Next Experience for Demand Management to create and manage your demands.
 
 -   New customers: Use Next Experience for Demand Management to create and manage your demands.
 -   Existing customers: If you already have demands in the classic UI, you can continue using it. However, we recommend moving to the Next Experience for Demand Management, as your existing demands are automatically available there.
@@ -32,13 +32,7 @@ If you have [[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace
 -   **[Multicurrency in Demand Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/multicurrency-demand.md)**  
 Manage and track the financials of your demands in the corporate currency, regional currency, or the same currency that you want to use for managing the project using the multicurrency feature. The corporate policy typically governs the choice of this preference.
 -   **[Set up Demand Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/c_SettingUpDemandManagement.md)**  
-Perform these tasks to [[c_SettingUpDemandManagement|set up Demand Management]].
+Perform these tasks to set up Demand Management.
 
 **Parent Topic:**[Demand Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/c_DemandManagement.md)
 
-## Related
-
-- [[c_DemandManagement|Demand Management]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[c_SettingUpDemandManagement|Set up Demand Management]]

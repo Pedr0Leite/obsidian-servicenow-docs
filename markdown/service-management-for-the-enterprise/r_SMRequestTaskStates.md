@@ -97,8 +97,5 @@ Request task was canceled.
 
 **Note:** If the **State flows are enabled** option in the configuration screen is not selected, the process flow formatter is removed.
 
-**Parent Topic:**[[c_RequestTasksMgmt|Request task management]]
+**Parent Topic:**[Request task management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_RequestTasksMgmt.md)
 
-## Related
-
-- [[c_RequestTasksMgmt|Request task management]]

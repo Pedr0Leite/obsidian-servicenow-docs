@@ -14,7 +14,7 @@ breadcrumb: [Design and Assign function, Use, Telecommunications Network Invento
 
 # Create a logical connection record using the Design and Assign function
 
-Use the [[using-playbooks-design-assign-inventory-record|Design and Assign function]] to create a logical connection in the [[telecom-network-inventory|Telecommunications Network Inventory]] application. By creating a logical connection, you can fulfill the design request for a network service.
+Use the Design and Assign function to create a logical connection in the Telecommunications Network Inventory application. By creating a logical connection, you can fulfill the design request for a network service.
 
 ## Before you begin
 
@@ -24,13 +24,13 @@ Role required: sn\_ni\_core.inventory\_agent, sn\_ni\_core.network\_planning\_ma
 
 ## About this task
 
-The [[telecommunications-circuit-design-resource-assignment|Design and Assign]] home page lists the change requests that are in the Design in progress state. You can either select a change request from the list or create a change request to design a logical connection depending on your requirement. Completion of each activity in the playbook for the Design and Assign function creates a change task for the next activity.
+The Design and Assign home page lists the change requests that are in the Design in progress state. You can either select a change request from the list or create a change request to design a logical connection depending on your requirement. Completion of each activity in the playbook for the Design and Assign function creates a change task for the next activity.
 
-After you complete each activity, the [[using-network-diagram|network diagram]] updates and displays the data. You can review the network diagram for any incompleteness and update the activities accordingly.
+After you complete each activity, the network diagram updates and displays the data. You can review the network diagram for any incompleteness and update the activities accordingly.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the design and assign icon \(\[Omitted image "icon-design-assign.png"\] Alt text: Design and Assign Icon\).
 
@@ -431,10 +431,3 @@ The change tasks are created and executed for each activity. The logical connect
 
 [Logical connections](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/design-logical-connection-design-assign-playbook.md)
 
-## Related
-
-- [[using-playbooks-design-assign-inventory-record|Design and Assign function]]
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[telecommunications-circuit-design-resource-assignment|Design and assign]]
-- [[using-network-diagram|Network diagram]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]

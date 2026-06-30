@@ -22,11 +22,11 @@ This example illustrates a typical third-party onboarding flow in the TPRM appli
 
 -   **Request process**
 
-    An employee initiates onboarding by submitting a third-party due diligence request in the [[employee-center|Employee Center]].
+    An employee initiates onboarding by submitting a third-party due diligence request in the Employee Center.
 
     A Third-party Risk \(TPR\) manager opens the request record from the Requests list and selects **Approve**.
 
-    After approval, the TPR manager selects **Start due diligence** to move the request into the [[tprm-workflow-in-workspace|due diligence workflow]].
+    After approval, the TPR manager selects **Start due diligence** to move the request into the due diligence workflow.
 
     For more information, see [Requesting third-party risk due diligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-requesting-tpr-due-diligence.md) and [Request due diligence for a third-party engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-ws-request-dd-for-engagement.md).
 
@@ -50,7 +50,7 @@ This example illustrates a typical third-party onboarding flow in the TPRM appli
 
     For more information, see [Assessing your third-party risk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-assessing-tpr.md), [Create an external assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-create-assessment.md), [Respond to a questionnaire for a third party or engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-respond-for-tp.md), and [Review responses to external questionnaires](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-ws-assessment-rvw-response.md).
 
-    **Note:** To streamline this step, Acme uses [[airc-assessment-templates|assessment templates]], which group predefined questionnaire and document request templates for reuse.
+    **Note:** To streamline this step, Acme uses assessment templates, which group predefined questionnaire and document request templates for reuse.
 
     Acme reviews the submitted responses and uploaded documents from the assessment record to verify regulatory, compliance, and security requirements.
 
@@ -70,8 +70,4 @@ This example illustrates a typical third-party onboarding flow in the TPRM appli
 
     For more information, see [Monitoring your third-party risk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-monitoring-tpr.md).
 
-## Related
 
-- [[employee-center|employee center]]
-- [[tprm-workflow-in-workspace|Due diligence workflow]]
-- [[airc-assessment-templates|Assessment templates]]

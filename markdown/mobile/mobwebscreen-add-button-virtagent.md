@@ -30,7 +30,7 @@ To add a button to your mobile web screen, you must use UI Builder. For more inf
 
 3.  In your mobile web screen UXF page, under **Data and scripts**, select **Add data resource**.
 
-4.  In the Select a data resource dialog box, search for `[[mobile-playbooks|Mobile app bridge]]`, select it, and then select **Add**.
+4.  In the Select a data resource dialog box, search for `Mobile app bridge`, select it, and then select **Add**.
 
 5.  In the region of the mobile web screen where you want to add the button that launches Virtual Agent, select the plus sign to add a component.
 
@@ -56,9 +56,5 @@ To add a button to your mobile web screen, you must use UI Builder. For more inf
 
 In your mobile web screen on your device, refresh the mobile app to display the button you added for Virtual Agent.
 
-**Parent Topic:**[[url-screen|Mobile web screen]]
+**Parent Topic:**[Mobile web screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/url-screen.md)
 
-## Related
-
-- [[url-screen|Mobile web screen]]
-- [[mobile-playbooks|Mobile App Bridge]]

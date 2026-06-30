@@ -14,7 +14,7 @@ breadcrumb: [Configure outbound FDS as providers, Configure for providers, Servi
 
 # Acknowledge foundation data sync offering request
 
-Acknowledge a [[service-bridge-v2-explore-foundation-data-sync|foundation data sync]] \(FDS\) offering request and send a sample payload to help your consumer understand the type of data they’ll receive.
+Acknowledge a foundation data sync \(FDS\) offering request and send a sample payload to help your consumer understand the type of data they’ll receive.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-After a consumer requests an FDS offering, the system generates an FDS request and corresponding FDS subscriptions in your [[tmt-service-bridge-both-landing-page|Service Exchange]] instance.
+After a consumer requests an FDS offering, the system generates an FDS request and corresponding FDS subscriptions in your Service Exchange instance.
 
 If **Auto acknowledge FDS Requests** option isn't selected, you must manually acknowledge the consumer's FDS request to inform them that you’re working on the request. Then, send a sample payload to help them understand the type of data they’ll receive.
 
@@ -55,10 +55,5 @@ A sample payload for each subscription is sent to the consumer as sample data. C
 
 ## What to do next
 
-[[service-bridge-v2-publish-fds-subscription|Publish a foundation data subscription]].
+[Publish a foundation data subscription](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-publish-fds-subscription.md).
 
-## Related
-
-- [[service-bridge-v2-publish-fds-subscription|Publish a foundation data subscription]]
-- [[service-bridge-v2-explore-foundation-data-sync|Foundation data sync]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]

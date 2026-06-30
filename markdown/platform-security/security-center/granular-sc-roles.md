@@ -14,7 +14,7 @@ breadcrumb: [Security Center, Platform Security]
 
 # Granular roles for Security Center
 
-Use the new [[sec-center-v2|Security Center]] admin role to grant [[users|users]] security center administrative capability without using the admin role.
+Use the new Security Center admin role to grant users security center administrative capability without using the admin role.
 
 Beginning with the Security Center 3.2 update available in the ServiceNow Store, the Security Center Admin \(sn\_vsc.security\_center\_admin\) role is available. This role allows users to manage Security Center configurations and access controls while enhancing security through least-privileged access.
 
@@ -32,14 +32,14 @@ sn\_vsc.security\_center\_admin
 
 </td><td>
 
-Provides admin level access to Security Center consoles and tools. Users with this role can also create and manage [[security-task-manager|security tasks]].
+Provides admin level access to Security Center consoles and tools. Users with this role can also create and manage security tasks.
 
 This role contains the following roles:-   mi\_admin
 -   access\_analyzer\_admin
 -   pa\_admin
 -   scan\_user data\_classification\_auditor
 -   sn\_ace.ace\_user
--   [[antivirus|antivirus]]\_viewer
+-   antivirus\_viewer
 -   sn\_vsc.task\_manager
 -   sn\_mif.mif\_read
 -   sn\_cicd.sys\_ci\_automation
@@ -47,9 +47,3 @@ This role contains the following roles:-   mi\_admin
 </td></tr></tbody>
 </table>**Parent Topic:**[Security Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sec-center-v2.md)
 
-## Related
-
-- [[sec-center-v2|Security Center]]
-- [[users|Users]]
-- [[security-task-manager|Security Tasks]]
-- [[antivirus|Antivirus]]

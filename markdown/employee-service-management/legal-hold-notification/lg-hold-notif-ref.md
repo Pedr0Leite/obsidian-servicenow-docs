@@ -14,7 +14,7 @@ breadcrumb: [Legal Hold Notification, Legal Service Delivery Practice Applicatio
 
 # Legal Hold Notification reference
 
-[[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] topics provide additional information about the components used in [[lg-hold-notif-landing-page|Legal Hold Notification]].
+Reference topics provide additional information about the components used in Legal Hold Notification.
 
 -   **[Components installed with Legal Hold Notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/comp-inst-lg-hold-notif.md)**  
 Various components are installed with Legal Hold Notification.
@@ -23,7 +23,3 @@ Use the Legal hold notification intake form to submit the legal hold notificatio
 
 **Parent Topic:**[Legal Hold Notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/lg-hold-notif-landing-page.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[lg-hold-notif-landing-page|Legal Hold Notification]]

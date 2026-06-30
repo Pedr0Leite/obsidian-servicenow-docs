@@ -14,7 +14,7 @@ breadcrumb: [E-signature for Multi-Provider SSO, Multi-Provider SSO configuratio
 
 # Use Multi-Provider SSO to set up an SSO approval for an OIDC authentication
 
-An SSO approval with e-signature requires [[sc-configuration|configuration]] on the [[c_SAML2.0WebBrowserSSOProfile|SAML]] IdP and the ServiceNow instance.
+An SSO approval with e-signature requires configuration on the SAML IdP and the ServiceNow instance.
 
 ## Before you begin
 
@@ -22,13 +22,13 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
 ## About this task
 
-The SAML IdP must support and honor the forceAuthn attribute in SAML assertion requests. E-signature doesn’t function without this IdP setting. Set up an approval with e-signature using credentials from a SAML 2.0 [[c_Authentication|authentication]].
+The SAML IdP must support and honor the forceAuthn attribute in SAML assertion requests. E-signature doesn’t function without this IdP setting. Set up an approval with e-signature using credentials from a SAML 2.0 authentication.
 
 ## Procedure
 
 1.  Activate the [Approval with E-Signature plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/activate-approval-esignature.md).
 
-2.  Navigate to **Multi-Provider SSO** &gt; **[[identity-landing|Identity]] Providers** and verify your OIDC provider configurations
+2.  Navigate to **Multi-Provider SSO** &gt; **Identity Providers** and verify your OIDC provider configurations
 
 3.  On the eSignature Approval tab, enter the following e-signature SAML properties.
 
@@ -46,7 +46,7 @@ This property defaults to the appropriate URL. To configure this property, selec
 
 </td><td>
 
-When a user approves a [[c_requestAPI|request]] using eSignature, a dialog opens and a user can enter credentials. This setting controls the width of that dialog box. The default is 800.
+When a user approves a request using eSignature, a dialog opens and a user can enter credentials. This setting controls the width of that dialog box. The default is 800.
 
 </td></tr><tr><td id="d207144e109">
 
@@ -61,10 +61,4 @@ When a user approves a request using eSignature, a dialog opens and a user can e
 
 4.  Select **Submit** if you are configuring the E-signature during the initial OIDC setup or **Update** if you want to update the details in the E-signature.
 
-## Related
 
-- [[sc-configuration|Configuration]]
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[c_Authentication|Authentication]]
-- [[identity-landing|Identity]]
-- [[c_requestAPI|request]]

@@ -14,7 +14,7 @@ breadcrumb: [Content templates, Setup employee communications, Configuring Emplo
 
 # Create a Content template
 
-A content template is pre-defined publishing plan for [[ec-news-articles|news articles]]. Create a content template to enable content authors to create and publish higher volumes of news article content.
+A content template is pre-defined publishing plan for news articles. Create a content template to enable content authors to create and publish higher volumes of news article content.
 
 ## Before you begin
 
@@ -32,11 +32,11 @@ Role required: sn\_cd.content\_admin or sn\_cd.content\_template\_owner
 -   Define the audience. See [Create an audience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-audiences.md).
 -   Define content categories to tag the news articles, such as company news, pay and benefits, or industry news. See [Create a content category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-cat.md).
 -   Define the article layout with a reusable article template. See [Create a news article template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-create-news-template.md).
--   Enable and configure [[ec-content-engagement|Content engagement]] features. See [Content engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-engagement.md).
+-   Enable and configure Content engagement features. See [Content engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-engagement.md).
 
 ## About this task
 
-The steps below guide you in creating a content template based on the form that appears when you navigate to **All** &gt; **Content Publishing** &gt; **[[ec-content-templates|Content Templates]]** &gt; **Create New**.
+The steps below guide you in creating a content template based on the form that appears when you navigate to **All** &gt; **Content Publishing** &gt; **Content Templates** &gt; **Create New**.
 
 If you instead navigate to **All** &gt; **Content Publishing** &gt; **Content Templates** &gt; **View All** then click **New**, the form has the same fields but with different field names. Also, that form does not provide the ability to add a content destination, audience, or content categories to the template. Instead, you define a Content template record, then open the Content template to add the content destination, audience, or content categories.
 
@@ -97,7 +97,7 @@ Duration
 The period of time for which to make the news article available.**Note:** This duration setting only applies to content destinations that do not have a set duration.
 
 </td></tr></tbody>
-</table>3.  If you do not see the form fields for content destinations, [[ecpro-audience|audiences]], or categories, click **Submit**. You will be redirected to the All Content Templates list, where you can reopen the Content template to edit it. For each tab, click **Edit** to select the options.
+</table>3.  If you do not see the form fields for content destinations, audiences, or categories, click **Submit**. You will be redirected to the All Content Templates list, where you can reopen the Content template to edit it. For each tab, click **Edit** to select the options.
 4.  Use the arrows to add one or more content destinations to the template.
 
 5.  Use the arrows to add one or more audiences to the template.
@@ -110,9 +110,4 @@ The period of time for which to make the news article available.**Note:** This d
 
 9.  Click **Submit**.
 
-## Related
 
-- [[ec-news-articles|News articles]]
-- [[ec-content-engagement|Content engagement]]
-- [[ec-content-templates|Content templates]]
-- [[ecpro-audience|Audiences]]

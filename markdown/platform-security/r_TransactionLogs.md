@@ -16,7 +16,7 @@ The transaction log records browser activity for an instance. To aid in debuggin
 
 **Note:** Background and scheduler transactions are logged only when their execution time exceeds 1000ms. For a complete list of logged transactions, see [KB0778299](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0778299).
 
-Access the transaction logs by navigating to **All** &gt; **[[system-logs|System Logs]]** &gt; **Transactions**. The transaction log provides the following information for all activities.
+Access the transaction logs by navigating to **All** &gt; **System Logs** &gt; **Transactions**. The transaction log provides the following information for all activities.
 
 |Field|Description|
 |-----|-----------|
@@ -24,7 +24,7 @@ Access the transaction logs by navigating to **All** &gt; **[[system-logs|System
 |Type|Type of recorded transaction.|
 |Created by|User who created this activity.|
 |Origin application|Application scope the transaction originated in. Global appears if the transaction originated in the global scope.|
-|Response time|Round trip response time for the application [[c_requestAPI|request]], in milliseconds.|
+|Response time|Round trip response time for the application request, in milliseconds.|
 |Network time|Latency time of the network response after the application request is made, in milliseconds.|
 |Output length|Size of the output string sent by the instance to the application, in bytes.|
 |SQL count|Number of SQL server commands executed for this activity.|
@@ -37,7 +37,3 @@ Access the transaction logs by navigating to **All** &gt; **[[system-logs|System
 |Protocol|HTTP protocol used by the application for this instance.|
 |HTTP Response Code|Status code returned by the server indicating the result of the HTTP request.|
 
-## Related
-
-- [[system-logs|System logs]]
-- [[c_requestAPI|request]]

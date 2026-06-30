@@ -14,7 +14,7 @@ breadcrumb: [Unified Employee Experience, Employee Service Management]
 
 # Employee Center Integrations
 
-Access [[employee-center-landing-page|Employee Center]] capabilities beyond the portal to further enhance the employee experience.
+Access Employee Center capabilities beyond the portal to further enhance the employee experience.
 
 <table id="table_b4h_hzv_sdc" class="nav-card presentation"><tbody><tr><td>
 
@@ -34,7 +34,7 @@ Access [[employee-center-landing-page|Employee Center]] capabilities beyond the 
 
 </td></tr><tr><td>
 
-[Employee profile integration with for Microsoft Teams\[Omitted image "bus-customer-and-contract-management.svg"\] Alt text:Show the current statuses of employees on their respective [[emp-slate-employee-profile|Employee Profile]] pages.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/employee-profile-integration-with-microsoft-teams.md)
+[Employee profile integration with for Microsoft Teams\[Omitted image "bus-customer-and-contract-management.svg"\] Alt text:Show the current statuses of employees on their respective Employee Profile pages.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/employee-profile-integration-with-microsoft-teams.md)
 
 </td><td>
 
@@ -49,7 +49,3 @@ Access [[employee-center-landing-page|Employee Center]] capabilities beyond the 
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[emp-slate-employee-profile|Employee profile]]

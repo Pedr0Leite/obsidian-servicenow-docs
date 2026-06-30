@@ -46,7 +46,7 @@ Steps
 
 </td></tr><tr><td id="d222448e126">
 
-**[[dex-workspace-application-tab|Applications]] module**
+**Applications module**
 
 </td><td>
 
@@ -113,11 +113,7 @@ Steps
 
 ## Result
 
-You’ve successfully onboarded your SonarQube tool to [[devops-landing-page-new|DevOps Change Velocity]].
+You’ve successfully onboarded your SonarQube tool to DevOps Change Velocity.
 
 **Parent Topic:**[SonarQube integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/sonarqube-devops-integration-devops.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[devops-landing-page-new|DevOps Change Velocity]]

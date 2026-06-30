@@ -380,7 +380,7 @@ Yes
 
 </td><td id="entry_CurrencyField">
 
-Decimal field with four digits after the decimal point.When displayed on a form, a **Currency** field also includes an additional list of choices for selecting the currency type. If there isn't a default value for the field, then empty **Currency** fields use the [[reference-email-admin|reference]] currency. Adding a value causes the field to use the session currency of the active user. See [Change default currency decimal places](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/change-currency-fraction-digits.md) for how to use two fraction digits.
+Decimal field with four digits after the decimal point.When displayed on a form, a **Currency** field also includes an additional list of choices for selecting the currency type. If there isn't a default value for the field, then empty **Currency** fields use the reference currency. Adding a value causes the field to use the session currency of the active user. See [Change default currency decimal places](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/change-currency-fraction-digits.md) for how to use two fraction digits.
 
 **Note:** After you assign this field type to a field, you can’t change it to the **FX Currency** field type.
 
@@ -547,7 +547,7 @@ Yes
 
 </td><td id="DocumentID">
 
-[[t_CreatingADocumentIDField|Document ID field]] that references a record on a table.
+Document ID field that references a record on a table.
 
 </td></tr><tr><td>
 
@@ -595,7 +595,7 @@ Yes
 
 </td><td>
 
-String field that contains a domain path, which is a series of three-character codes separated by a slash delimiter that uniquely identifies a domain. For more information on domain paths, see [Domain Separation- Advanced Concepts and [[clone-configurations-tab|Configurations]] \[KB0716268\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0716268) article in the Now Support Knowledge Base.
+String field that contains a domain path, which is a series of three-character codes separated by a slash delimiter that uniquely identifies a domain. For more information on domain paths, see [Domain Separation- Advanced Concepts and Configurations \[KB0716268\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0716268) article in the Now Support Knowledge Base.
 
 </td></tr><tr><td>
 
@@ -643,7 +643,7 @@ Yes
 
 </td><td>
 
-Field used to create dynamic [[c_EmailTemplates|email templates]]. It provides the ability to use field name notation `(${fieldname})` to represent the dynamic value of variable. This field is a combination of text area and variable picker.
+Field used to create dynamic email templates. It provides the ability to use field name notation `(${fieldname})` to represent the dynamic value of variable. This field is a combination of text area and variable picker.
 
 </td></tr><tr><td>
 
@@ -1140,7 +1140,7 @@ Yes
 </td><td>
 
 Field used to store time values, similar to glide\_time, but with a few key differences:-   The glide\_time field stores the time as a fully formatted string \(e.g., 1970-01-01 16:04:32\), whereas the integer\_time field stores it as a 6-digit string in a 24-hour format \(e.g., 160432\).
--   glide\_time supports [[r_TimeZones|time zones]], meaning the displayed value changes based on the user's time zone settings. In contrast, integer\_time does not support time zone adjustments and always displays the same time regardless of the user's location.
+-   glide\_time supports time zones, meaning the displayed value changes based on the user's time zone settings. In contrast, integer\_time does not support time zone adjustments and always displays the same time regardless of the user's location.
 
 </td></tr><tr><td>
 
@@ -1188,7 +1188,7 @@ Yes
 
 </td><td>
 
-Variable character field that stores IPv4 and IPv6 addresses. See [[r-IPAddressFieldType|IP address field type]] for more information.
+Variable character field that stores IPv4 and IPv6 addresses. See [IP address field type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r-IPAddressFieldType.md) for more information.
 
 </td></tr><tr><td>
 
@@ -1236,7 +1236,7 @@ No
 
 </td><td>
 
-Journal list field that displays the contents of [[r_JournalFields|journal fields]]. You must specify the journal fields as the [[c_SpecifyDependentFields|dependent fields]]. If a journal list field depends on more than one journal field, the entries are displayed chronologically.
+Journal list field that displays the contents of journal fields. You must specify the journal fields as the dependent fields. If a journal list field depends on more than one journal field, the entries are displayed chronologically.
 
 </td></tr><tr><td>
 
@@ -1476,7 +1476,7 @@ No
 
 </td><td id="NameValue">
 
-Name-value pairs field that maps text values. Each mapping is one-to-one, but a single **Name-Value Pairs** field can contain multiple mappings. Each mapping must use a unique name, and the name can’t be empty.For example, you can use a **Name-Value Pairs** field to hold header information for a web service request. In this example, the name of each mapping is the header such as `Content-Type` and the value is the header value, such as `Application/json`. For information on scripting **Name-Value Pairs** fields, see [[name-value-pair-scripting|Name-value pairs field type]].
+Name-value pairs field that maps text values. Each mapping is one-to-one, but a single **Name-Value Pairs** field can contain multiple mappings. Each mapping must use a unique name, and the name can’t be empty.For example, you can use a **Name-Value Pairs** field to hold header information for a web service request. In this example, the name of each mapping is the header such as `Content-Type` and the value is the header value, such as `Application/json`. For information on scripting **Name-Value Pairs** fields, see [Name-value pairs field type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/name-value-pair-scripting.md).
 
 </td></tr><tr><td>
 
@@ -2036,7 +2036,7 @@ Yes
 
 </td><td id="StringField">
 
-String field that holds a string of characters. Strings of up to 255 characters appear in a single-line text box. Anything 256 characters or over appears as a multi-line text box.**Note:** The database may translate the value that you provide in the **Max length** field to the closest matching [[r_DatabaseFieldTypes|database field type]]. For example, a max string length of 80 maps to the nearest database field type of VARCHAR\(100\).
+String field that holds a string of characters. Strings of up to 255 characters appear in a single-line text box. Anything 256 characters or over appears as a multi-line text box.**Note:** The database may translate the value that you provide in the **Max length** field to the closest matching database field type. For example, a max string length of 80 maps to the nearest database field type of VARCHAR\(100\).
 
 For Oracle instances, users aren't able to increase the max length of a string field to a value greater than 4000 through the application UI. Changes greater than 4000 require the CLOB data type in Oracle. If you require a field to be larger than 4000 characters, log an incident to request the change.
 
@@ -2570,16 +2570,3 @@ Yes
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[r-IPAddressFieldType|IP address field type]]
-- [[name-value-pair-scripting|Name-value pairs field type]]
-- [[reference-email-admin|Reference]]
-- [[t_CreatingADocumentIDField|Document ID field]]
-- [[clone-configurations-tab|Configurations]]
-- [[c_EmailTemplates|Email templates]]
-- [[r_TimeZones|Time zones]]
-- [[r_JournalFields|Journal fields]]
-- [[c_SpecifyDependentFields|Dependent fields]]
-- [[r_DatabaseFieldTypes|Database field type]]

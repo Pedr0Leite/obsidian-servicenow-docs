@@ -14,7 +14,7 @@ breadcrumb: [Employee Center Integrations, Unified Employee Experience, Employee
 
 # Employee Center for Zoom
 
-Integrate [[employee-center-landing-page|Employee Center]] with a Zoom account for your organization employees so they can use Employee Center capabilities from within the Zoom client application.
+Integrate Employee Center with a Zoom account for your organization employees so they can use Employee Center capabilities from within the Zoom client application.
 
 ## Before you begin
 
@@ -93,6 +93,3 @@ Change your existing Zoom account connection in your ServiceNow® instance.
 
 [Use Employee Center from Zoom](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/zoom-create-email-notification.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

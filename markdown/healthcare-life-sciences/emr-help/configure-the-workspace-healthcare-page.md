@@ -20,7 +20,7 @@ Configure the healthcare record page in Workspace to include your custom case ty
 
 Role required: admin
 
-Set your scope to [[hcls-core-app|Healthcare and Life Sciences Service Management Core]].
+Set your scope to Healthcare and Life Sciences Service Management Core.
 
 ## About this task
 
@@ -53,6 +53,3 @@ Set your scope to [[hcls-core-app|Healthcare and Life Sciences Service Managemen
 
 You have now configured Workspace to include your custom healthcare case type.
 
-## Related
-
-- [[hcls-core-app|Healthcare and Life Sciences Service Management Core]]

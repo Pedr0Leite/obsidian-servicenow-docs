@@ -26,7 +26,7 @@ Allocate budget for demands at each fiscal period instead of the entire fiscal y
 
 ## Procedure
 
-1.  Open a demand from the home page of Next Experience for [[c_DemandManagement|Demand Management]].
+1.  Open a demand from the home page of Next Experience for Demand Management.
 
     For more information, see [Access demands](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/access-demand-workspace.md).
 
@@ -40,7 +40,7 @@ Allocate budget for demands at each fiscal period instead of the entire fiscal y
 
     -   To add an investment budget record, select **New**.
     -   To update the details of an investment budget record, select the record.
-5.  On the Create New [[investment-budget-form|Investment Budget form]], fill in the fields.
+5.  On the Create New Investment Budget form, fill in the fields.
 
 <table id="table_kwl_fkp_2dc"><thead><tr><th>
 
@@ -93,7 +93,4 @@ Type of the expense.-   **Capex** - Budget for capital expenses.
     -   Select **Delete** from the More Actions option in the investment budget record form.
     After completing your work on the demand budget record, use the breadcrumb navigation to return to the **Investment Budget** tab.
 
-## Related
 
-- [[c_DemandManagement|Demand Management]]
-- [[investment-budget-form|Investment Budget form]]

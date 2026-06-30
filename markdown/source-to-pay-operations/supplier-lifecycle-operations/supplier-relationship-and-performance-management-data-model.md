@@ -16,13 +16,9 @@ breadcrumb: [Supplier Relationship and Performance Management reference, Referen
 
 The following diagram shows the tables and their relationships that comprise the Supplier Relationship and Performance Management data model.
 
-**Important:** Check your entitlements to determine whether you have access to [[supplier-performance-management-overview|Supplier Relationship and Performance Management]].
+**Important:** Check your entitlements to determine whether you have access to Supplier Relationship and Performance Management.
 
-\[Omitted image "performance-data-model.png"\] Alt text: [[supplier|Supplier]] performance management data model
+\[Omitted image "performance-data-model.png"\] Alt text: Supplier performance management data model
 
 **Parent Topic:**[Supplier Relationship and Performance Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supplier-relationship-and-performance-management-reference.md)
 
-## Related
-
-- [[supplier-performance-management-overview|Supplier Relationship and Performance Management]]
-- [[supplier|Supplier]]

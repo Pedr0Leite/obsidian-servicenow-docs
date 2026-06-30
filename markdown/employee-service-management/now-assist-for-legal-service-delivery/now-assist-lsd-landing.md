@@ -33,11 +33,11 @@ The Advance AI and Data Products and services do not and are not intended to con
 
 </td></tr><tr><td>
 
-[Use\[Omitted image "bus-supervised-machine-[[exploring-learning-exp|learning]].svg"\] Alt text:Use generative AI capabilities offered by Now Assist for LSD](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/now-assist-lsd-using.md)
+[Use\[Omitted image "bus-supervised-machine-learning.svg"\] Alt text:Use generative AI capabilities offered by Now Assist for LSD](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/now-assist-lsd-using.md)
 
 </td><td>
 
-[Use agentic workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/agentic-ai-now-assist-lsd.md)\[Omitted image "bus-ai-sparkle.svg"\] Alt text:Use the agentic workflows in Now Assist for [[legal-management-overview|Legal Service Delivery]]
+[Use agentic workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/agentic-ai-now-assist-lsd.md)\[Omitted image "bus-ai-sparkle.svg"\] Alt text:Use the agentic workflows in Now Assist for Legal Service Delivery
 
 </td></tr></tbody>
 </table>**Important:**
@@ -63,13 +63,7 @@ This application requires data to be transferred from ServiceNow customers' indi
 
 ## Data collection
 
-ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. In addition, this application will collect information about the Legal Request and/or Legal Matter \(including related field information, comments and work notes\), and information about search requests \(including search prompts and results\) from Knowledge articles in [[legal-counsel-center-landing|Legal Counsel Center]] and [[employee-center-landing-page|Employee Center]]. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/opt-out-of-data-sharing-for-now-assist.md).
+ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. In addition, this application will collect information about the Legal Request and/or Legal Matter \(including related field information, comments and work notes\), and information about search requests \(including search prompts and results\) from Knowledge articles in Legal Counsel Center and Employee Center. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/opt-out-of-data-sharing-for-now-assist.md).
 
 For more information, see the [Now Assist documentation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-now-assist-landing.md).
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[legal-management-overview|Legal Service Delivery]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[employee-center-landing-page|Employee Center]]

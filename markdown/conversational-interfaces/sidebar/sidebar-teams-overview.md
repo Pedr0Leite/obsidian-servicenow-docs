@@ -15,7 +15,7 @@ breadcrumb: [Configuring Sidebar, Sidebar, Conversational Interfaces]
 
 # Sidebar and Microsoft Teams
 
-[[sidebar-landing|Sidebar]]'s integration with Microsoft Teams enables Sidebar users and Microsoft Teams users to communicate with each other from their respective platforms.
+Sidebar's integration with Microsoft Teams enables Sidebar users and Microsoft Teams users to communicate with each other from their respective platforms.
 
 ## Monetization by Microsoft
 
@@ -103,6 +103,3 @@ Synchronizing example:
 
 If Sidebar is integrated with Microsoft Teams, domain separation is not supported on the Microsoft Teams instance. As a result, the **Set up** button for Microsoft Teams is disabled on the Settings page. For example, if you’ve configured two domains on ServiceNow but use only one Microsoft Teams instance, you can't partition the Microsoft Teams instance to have part of it point to one domain and the other part to another domain.
 
-## Related
-
-- [[sidebar-landing|Sidebar]]

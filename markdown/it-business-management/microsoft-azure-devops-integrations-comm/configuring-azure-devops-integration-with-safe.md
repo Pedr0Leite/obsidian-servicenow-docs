@@ -22,12 +22,9 @@ Understand how to set up Microsoft Azure DevOps integration with SAFe in your Se
 
     If the Process Mappings related list is empty, [discover Azure DevOps projects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/microsoft-azure-devops-integrations-comm/discover-import-azure-projects.md) and try again.
 
-2.  Update the map configuration to import [[key-entities-SAFe|SAFe entities]].
+2.  Update the map configuration to import SAFe entities.
 
     For information on how to create a table, field, and workflow state mapping for SAFe entities, see [Customizing your map configuration for Azure DevOps integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/microsoft-azure-devops-integrations-comm/customizing-map-config-agile-azure.md).
 
 3.  See [Configuring Azure DevOps projects for SAFe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/microsoft-azure-devops-integrations-comm/configuring-azure-devops-projects-for-safe.md).
 
-## Related
-
-- [[key-entities-SAFe|SAFe entities]]

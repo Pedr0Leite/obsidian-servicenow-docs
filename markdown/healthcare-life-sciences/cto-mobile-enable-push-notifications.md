@@ -12,7 +12,7 @@ breadcrumb: [Configure Care Team Mobile, Care Team Mobile, Healthcare Operations
 
 # Enable Push Notifications for Care Team Mobile
 
-Push notifications for [[care-team-mobile-landing|Care Team Mobile]] must be enabled manually.
+Push notifications for Care Team Mobile must be enabled manually.
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ Role required: admin
 
 Push notifications are enabled in Care Team Mobile for all specified case types.
 
-## Related
-
-- [[care-team-mobile-landing|Care Team Mobile]]

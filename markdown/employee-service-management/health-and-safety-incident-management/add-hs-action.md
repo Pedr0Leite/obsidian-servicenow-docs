@@ -22,11 +22,11 @@ Role required: sn\_ohs\_im.manager, sn\_ohs\_im.agent, or sn\_ohs\_im.action\_wr
 
 ## About this task
 
-You can add actions from the Actions tab on a [[health-safety-overview|Health and Safety]] record or by using the Action planner in the contextual sidebar. For more information on Action planner, see [Create and manage a safety action in the Action planner](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/hs-create-action-in-action-planner.md).
+You can add actions from the Actions tab on a Health and Safety record or by using the Action planner in the contextual sidebar. For more information on Action planner, see [Create and manage a safety action in the Action planner](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/hs-create-action-in-action-planner.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Health and Safety** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
 2.  In the **Lists** tab under **Incident Management**, open the safety incident or observation list.
 
@@ -48,7 +48,7 @@ You can add actions from the Actions tab on a [[health-safety-overview|Health an
 ## Result
 
 -   The action appears in the list of actions in the **Health and Safety actions** tab of the incident or observation. It is also listed in the **Actions** list on Health and Safety Workspace.
--   The action appears in the assigned user's **My Tasks** list on both the [[employee-center-landing-page|Employee Center]] and the [[mobile-employee-experience|Now Mobile app]]. From either location, the user can respond to the action and update its status.
+-   The action appears in the assigned user's **My Tasks** list on both the Employee Center and the Now Mobile app. From either location, the user can respond to the action and update its status.
 
 ## What to do next
 
@@ -57,9 +57,3 @@ You can add actions from the Actions tab on a [[health-safety-overview|Health an
 
 **Parent Topic:**[Managing Health and Safety incidents and observations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/managing-hs-incidents-obs.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[employee-center-landing-page|Employee Center]]
-- [[mobile-employee-experience|Now Mobile app]]

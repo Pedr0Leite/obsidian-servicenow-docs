@@ -14,17 +14,17 @@ breadcrumb: [Manage supplier contacts, Using Source-to-Pay Workspace, Use, Suppl
 
 # Restrict the primary contact role for a contact from the Source-to-Pay Workspace
 
-Remove the primary contact role for a contact to prevent them from accessing all the contacts and tasks in the [[supplier-central|Supplier Collaboration Portal]].
+Remove the primary contact role for a contact to prevent them from accessing all the contacts and tasks in the Supplier Collaboration Portal.
 
 ## Before you begin
 
 Role required: sn\_slm.owner, sn\_slm.manager, sn\_slm.admin
 
-**Note:** Users with the sn\_slm.owner role can restrict access only for the contacts of the suppliers they own. Users with sn\_slm.manager and sn\_slm.admin roles can restrict access for any [[supplier|supplier]].
+**Note:** Users with the sn\_slm.owner role can restrict access only for the contacts of the suppliers they own. Users with sn\_slm.manager and sn\_slm.admin roles can restrict access for any supplier.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
 2.  Under **Quick Actions**, select **Manage my suppliers**.
 
@@ -34,7 +34,7 @@ Role required: sn\_slm.owner, sn\_slm.manager, sn\_slm.admin
 
 5.  Select **Supplier contacts**.
 
-6.  Select the [[supplier-contact|supplier contact]] that you want to restrict.
+6.  Select the supplier contact that you want to restrict.
 
 7.  Select **Restrict access**.
 
@@ -54,10 +54,3 @@ The Primary contact column is set to **false** for this contact on the new table
 
 [Elevate a contact to the primary contact role from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/elevate-contact-ws.md)
 
-## Related
-
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[supplier|Supplier]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supplier-contact|Supplier contact]]

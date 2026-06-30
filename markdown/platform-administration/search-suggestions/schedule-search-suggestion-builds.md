@@ -14,7 +14,7 @@ breadcrumb: [Configuring Search Suggestions, Search Suggestions, Search administ
 
 # Schedule the Build Search Suggestions script
 
-Specify when to run the script that builds auto-complete suggestions and [[search-suggestions-overview|search suggestions]] from user search strings.
+Specify when to run the script that builds auto-complete suggestions and search suggestions from user search strings.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ By default, this script runs daily. You can customize how often and at what time
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Definition** &gt; **[[c_ScheduledJobs|Scheduled Jobs]]** and select **Build Search Suggestions**.
+1.  Navigate to **All** &gt; **System Definition** &gt; **Scheduled Jobs** and select **Build Search Suggestions**.
 
 2.  In the Scheduled Search Execution form, edit how often the script runs in the **Run** field.
 
@@ -38,7 +38,4 @@ By default, this script runs daily. You can customize how often and at what time
 
 5.  Select **Execute Now** to run the script immediately.
 
-## Related
 
-- [[search-suggestions-overview|Search Suggestions]]
-- [[c_ScheduledJobs|Scheduled jobs]]

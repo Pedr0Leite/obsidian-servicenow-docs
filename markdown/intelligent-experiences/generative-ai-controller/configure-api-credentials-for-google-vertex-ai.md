@@ -24,7 +24,7 @@ Role required: admin
 
 ## About this task
 
-In order to use Google Vertex AI as your LLM provider for [[generative-ai-controller|Generative AI Controller]] capabilities, you must have an active connection configured.
+In order to use Google Vertex AI as your LLM provider for Generative AI Controller capabilities, you must have an active connection configured.
 
 ## Procedure
 
@@ -104,6 +104,3 @@ You can now use Completions – Vertex AI and Chat Completions – Vertex AI in 
 
 Use your LLM provider to create flows with Flow Designer, topics with Virtual Agent Designer, or scripts to provide the benefits of generative AI to your users.
 
-## Related
-
-- [[generative-ai-controller|Generative AI Controller]]

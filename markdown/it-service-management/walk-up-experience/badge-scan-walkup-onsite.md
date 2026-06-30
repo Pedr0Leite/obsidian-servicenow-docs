@@ -14,7 +14,7 @@ breadcrumb: [Configure, Walk-up Experience, IT Service Management]
 
 # Badge Reader Integration for Walk-up Experience
 
-Improve [[walkup-experience-landing-page|Walk-up Experience]] user satisfaction by using the Badge Reader Integration application at your on-site walk-up queue locations. Walk-up Experience users can scan an employee badge to check in to a queue, rather than entering credentials.
+Improve Walk-up Experience user satisfaction by using the Badge Reader Integration application at your on-site walk-up queue locations. Walk-up Experience users can scan an employee badge to check in to a queue, rather than entering credentials.
 
 ## Badge Reader Integration for Walk-up Experience on-site queue locations
 
@@ -22,7 +22,7 @@ Badge Reader Integration is a pre-built, domain-separated, base-system applicati
 
 By providing an enhanced, easier, and faster Walk-up Experience check-in process, the use of on-site walk-up location queues can increase and overall user satisfaction can improve. Users receive an on-screen confirmation and an audio alert after a successful check-in to a walk-up queue.
 
-The Badge scanning integration requires activation of the Badge Reader Integration plugin \(com.snc.badge\_reader\). The plugin enables [[dex-workspace-application-tab|applications]], such as Walk-up Experience, to integrate with badge reader hardware. Badge Reader Integration administration requires the Badge Admin role \(sn\_badge.badge\_admin\).
+The Badge scanning integration requires activation of the Badge Reader Integration plugin \(com.snc.badge\_reader\). The plugin enables applications, such as Walk-up Experience, to integrate with badge reader hardware. Badge Reader Integration administration requires the Badge Admin role \(sn\_badge.badge\_admin\).
 
 **Note:** Badge Reader Integration is not an authentication mechanism.
 
@@ -38,7 +38,7 @@ The following are important associated components.
 |---------|-----------|
 |Badge number|Employee badge number.|
 |Facility code|Unique facility or site code encoded into each card that identifies the organization.|
-|Human Interface Device \(HID\)|Protocol for interfacing with user interface [[dex-workspace-devices-tab|devices]] via USB.|
+|Human Interface Device \(HID\)|Protocol for interfacing with user interface devices via USB.|
 |Physical Access Control Services \(PACS\)|Method used to protect the security of a physical environment by setting authorization and authentication rules.|
 |Badge reader client|Client for the badge reader. Acceptable platforms include macOS and Linux.|
 |Badge reader plugin|The Badge Reader Integration plugin \(com.snc.badge\_reader\) is at no additional cost.|
@@ -125,8 +125,3 @@ Badge Reader Integration set up and configuration enables your on-site Walk-up E
 
 **Parent Topic:**[Configuring Walk-up Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walkup-experience-configuration.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]
-- [[dex-workspace-application-tab|Applications]]
-- [[dex-workspace-devices-tab|Devices]]

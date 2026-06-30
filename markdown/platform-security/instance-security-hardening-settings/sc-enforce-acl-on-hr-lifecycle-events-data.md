@@ -16,7 +16,7 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 Learn how to prevent unauthorized access to data in the Human Resources Lifecycle Events application by verifying that the **glide.enforce\_security\_scope.sn\_hr\_le property** is set to the secured value.
 
-The **glide.enforce\_security\_scope.sn\_hr\_le** property limits the [[sc-access-control|access control]] lists \(ACLs\) of several HR tables so that only the "sn\_hr\_le" scope is considered. If **glide.enforce\_security\_scope.sn\_hr\_le** isn’t set to the recommended value of true, then the data from the Human Resources: Lifecycle Events application will be exposed to ACLs from all other scopes which could lead to unauthorized [[users|users]] accessing sensitive data. For example, an IT administrator gaining access to HR data.
+The **glide.enforce\_security\_scope.sn\_hr\_le** property limits the access control lists \(ACLs\) of several HR tables so that only the "sn\_hr\_le" scope is considered. If **glide.enforce\_security\_scope.sn\_hr\_le** isn’t set to the recommended value of true, then the data from the Human Resources: Lifecycle Events application will be exposed to ACLs from all other scopes which could lead to unauthorized users accessing sensitive data. For example, an IT administrator gaining access to HR data.
 
 **Warning:** This is a safe harbor property, meaning the value can't be altered once it's changed. It is non-revertible.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -99,9 +99,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[sc-access-control|Access control]]
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

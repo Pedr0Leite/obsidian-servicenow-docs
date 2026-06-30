@@ -12,7 +12,7 @@ breadcrumb: [Manage email tasks, Using CSM Configurable Workspace in Customer Se
 
 # Compose an email from the ribbon component
 
-As an agent you can compose emails directly from cases within [[csm-workspaces-configure|CSM Configurable Workspace]] without having to use an external email client. This capability helps you view and send emails to two different customers simultaneously which saves time and effort instead of having to address and send a separate email message.
+As an agent you can compose emails directly from cases within CSM Configurable Workspace without having to use an external email client. This capability helps you view and send emails to two different customers simultaneously which saves time and effort instead of having to address and send a separate email message.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ You can compose large emails easily in a full screen view which opens up in a ne
 
 ## Procedure
 
-1.  [[csm-workspaces-open|Open CSM Configurable Workspace]].
+1.  Open CSM Configurable Workspace.
 
 2.  Select and open the case for which you want to compose an email.
 
@@ -42,10 +42,5 @@ You can compose large emails easily in a full screen view which opens up in a ne
 **Related topics**  
 
 
-[[compose-email-cases|Compose an email from a case]]
+[Compose an email from a case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/compose-email-cases.md)
 
-## Related
-
-- [[compose-email-cases|Compose an email from a case]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[csm-workspaces-open|Open CSM Configurable Workspace]]

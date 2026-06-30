@@ -40,7 +40,7 @@ Decision Tree Node\[ga\_decision\_tree\_node\]
 
 </td><td>
 
-Stores details of all [[guided-decision-tree-node-types|decision tree nodes]] in each decision tree.
+Stores details of all decision tree nodes in each decision tree.
 
 </td></tr><tr><td>
 
@@ -61,7 +61,7 @@ Stores decision tree versions with states.
 </td></tr></tbody>
 </table>## Roles
 
-The following roles are added to your instance with the activation of the Guided Decisions, Guided Decisions Experience, and [[configure-nba|Recommended Actions]] plugins.
+The following roles are added to your instance with the activation of the Guided Decisions, Guided Decisions Experience, and Recommended Actions plugins.
 
 <table id="table_zn2_xrd_ywb"><thead><tr><th>
 
@@ -221,15 +221,15 @@ Create case task
 
 </td><td>
 
-Enables agents to [[osp-create-case-task|create a case task]] for the current case by clicking a **Create** button on a card, which opens the guidance in the side panel where the agent can enter a subject for a new case task and submit it.
+Enables agents to create a case task for the current case by clicking a **Create** button on a card, which opens the guidance in the side panel where the agent can enter a subject for a new case task and submit it.
 
 </td></tr><tr><td>
 
-[[osp-create-work-order|Create Work Order]]
+Create Work Order
 
 </td><td>
 
-Enables agents to [[create-work-orders|create a work order]] for a case by clicking a **Create** button on a card. Creates a work order task and opens the task in a subtab.
+Enables agents to create a work order for a case by clicking a **Create** button on a card. Creates a work order task and opens the task in a subtab.
 
 </td></tr><tr><td>
 
@@ -296,11 +296,3 @@ Enables agents to review a recommended knowledge article in the contextual side 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[guided-decision-tree-node-types|Decision tree nodes]]
-- [[configure-nba|Recommended Actions]]
-- [[osp-create-case-task|Create a case task]]
-- [[osp-create-work-order|Create work order]]
-- [[create-work-orders|Create a work order]]

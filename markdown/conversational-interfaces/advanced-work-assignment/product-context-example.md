@@ -14,7 +14,7 @@ breadcrumb: [Tutorial: Route interactions by context, Configure reasons for reje
 
 # Create a queue for product issues
 
-[[skills-example-queue|Create a queue]] for the Chat service channel that routes product issues.
+Create a queue for the Chat service channel that routes product issues.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: awa\_admin or admin
 
 1.  Navigate to the queue settings through one of the following navigation paths:
 
-    -   **All** &gt; **[[awa-application-landing-page|Advanced Work Assignment]]** &gt; **Home**.
+    -   **All** &gt; **Advanced Work Assignment** &gt; **Home**.
 
         In the Essential settings section, select **Set up queues**.
 
@@ -56,7 +56,4 @@ Role required: awa\_admin or admin
 
 5.  Click **Submit**.
 
-## Related
 
-- [[skills-example-queue|Create a queue]]
-- [[awa-application-landing-page|Advanced Work Assignment]]

@@ -14,7 +14,7 @@ breadcrumb: [Setting up Contact Tracing, Contact Tracing, Safe Workplace, Health
 
 # Configure Contact Tracing data retention settings
 
-Configure the data retention settings for the data collected for [[contact-tracing|contact tracing]] such as badge swipe data, employee daily contact logs, and cases.
+Configure the data retention settings for the data collected for contact tracing such as badge swipe data, employee daily contact logs, and cases.
 
 ## Before you begin
 
@@ -96,6 +96,3 @@ A system property and scheduled jobs control the data retention policy for conta
 
 **Parent Topic:**[Setting up Contact Tracing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/set-up-contact-tracing.md)
 
-## Related
-
-- [[contact-tracing|Contact Tracing]]

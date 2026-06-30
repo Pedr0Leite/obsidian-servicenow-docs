@@ -53,7 +53,7 @@ You receive an email when the request has been processed.
 
 After the request has been processed, view on-premise licensing requests to download the data.
 
-**Parent Topic:**[[configuring-subscription-management-v2|Configuring Subscription Management]]
+**Parent Topic:**[Configuring Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configuring-subscription-management-v2.md)
 
 ## View on-premise licensing information requests
 
@@ -86,7 +86,7 @@ Role required: adminsn\_sub\_man.admin, or usage\_admin
 
 ### Procedure
 
-1.  From the instance whose data you downloaded, navigate to **All** &gt; **[[subscription-management-landing-page-v2|Subscription Management]]** &gt; **Import Entitlement Data**.
+1.  From the instance whose data you downloaded, navigate to **All** &gt; **Subscription Management** &gt; **Import Entitlement Data**.
 
 2.  Upload the zip file as an attachment.
 
@@ -97,10 +97,5 @@ Role required: adminsn\_sub\_man.admin, or usage\_admin
 
 ### Result
 
-A few minutes after the state changes to "Processed," the data in the Subscription Management dashboard can be refreshed. If there are [[c_ScheduledJobs|scheduled jobs]] running or queued, it might take longer for the Subscription Management dashboard to refresh.
+A few minutes after the state changes to "Processed," the data in the Subscription Management dashboard can be refreshed. If there are scheduled jobs running or queued, it might take longer for the Subscription Management dashboard to refresh.
 
-## Related
-
-- [[configuring-subscription-management-v2|Configuring Subscription Management]]
-- [[subscription-management-landing-page-v2|Subscription Management]]
-- [[c_ScheduledJobs|Scheduled jobs]]

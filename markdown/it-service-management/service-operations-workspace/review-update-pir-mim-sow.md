@@ -209,7 +209,7 @@ Time duration that groups events if the events occur within this value.
 
 </td></tr><tr><td colspan="2">
 
-Visibility [[settings-mobile|settings]]
+Visibility settings
 
 </td></tr><tr><td>
 
@@ -282,6 +282,3 @@ The post incident report is downloaded to your system in PDF format. You can sen
 
 **Parent Topic:**[Managing a major incident record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/managing-major-incident-sow.md)
 
-## Related
-
-- [[settings-mobile|Settings]]

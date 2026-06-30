@@ -16,7 +16,7 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 Use the **glide.knowman.show\_user\_feedback** property to control whether feedback comments are visible.
 
-When the **glide.knowman.show\_user\_feedback** system property isn't set to `never`, feedback comments will be visible on knowledge articles to [[users|users]] with the roles defined in the **glide.knowman.show\_user\_feedback.roles** property. Due to the potentially sensitive information in a feedback comment, an instance admin may not want the feedback to be visible.
+When the **glide.knowman.show\_user\_feedback** system property isn't set to `never`, feedback comments will be visible on knowledge articles to users with the roles defined in the **glide.knowman.show\_user\_feedback.roles** property. Due to the potentially sensitive information in a feedback comment, an instance admin may not want the feedback to be visible.
 
 Set the property **glide.knowman.show\_user\_feedback.roles** to `never`.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -115,8 +115,3 @@ Shows user comments on KB articles based on choices mentioned in the configurati
 </td></tr></tbody>
 </table>**Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

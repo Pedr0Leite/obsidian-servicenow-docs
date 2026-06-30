@@ -14,11 +14,11 @@ breadcrumb: [Create and configure profile, Microsoft Defender for Endpoint integ
 
 # Perform an automatic observable enrichment in Microsoft Defender for Endpoint
 
-Perform an automatic observable enrichment in Microsoft Defender for Endpoint to enrich [[c_Observables|observables]] with additional information from various sources.
+Perform an automatic observable enrichment in Microsoft Defender for Endpoint to enrich observables with additional information from various sources.
 
 ## Before you begin
 
-Verify that you have enabled the **[[sir-landing-page|Security Incident Response]]** system property. This option triggers the [[tisc-observable-enrichment|observable enrichment]] capability in SIR, whenever an observable is associated to a Security Incident.
+Verify that you have enabled the **Security Incident Response** system property. This option triggers the observable enrichment capability in SIR, whenever an observable is associated to a Security Incident.
 
 Role required: sn\_si.admin, sn\_si.analyst
 
@@ -34,7 +34,7 @@ You can use this capability during incident response investigations to contain a
 
 3.  Validate the automation activity once the new observables have been associated with the security incident.
 
-4.  View the results the enrichment results in the [[indicator|Indicators]] related list of the security incident.
+4.  View the results the enrichment results in the Indicators related list of the security incident.
 
     You can use the following table for more information on the observable enrichment.
 
@@ -50,9 +50,4 @@ You can use this capability during incident response investigations to contain a
     |Expiration Date|Expiration time for the indicator.|
     |Retrieval Date|Date when the enrichment record is created.|
 
-## Related
 
-- [[c_Observables|Observables]]
-- [[sir-landing-page|Security Incident Response]]
-- [[tisc-observable-enrichment|Observable Enrichment]]
-- [[indicator|Indicators]]

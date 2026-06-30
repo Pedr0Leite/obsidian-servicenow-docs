@@ -14,8 +14,5 @@ breadcrumb: [Employee Goals, Growth Experiences, HR Service Delivery, Employee S
 
 # Using Employee Goals
 
-Use the [[egd-goals-landing|Employee Goals]] app to access goal management data across several applications in the Talent Development suite.
+Use the Employee Goals app to access goal management data across several applications in the Talent Development suite.
 
-## Related
-
-- [[egd-goals-landing|Employee Goals]]

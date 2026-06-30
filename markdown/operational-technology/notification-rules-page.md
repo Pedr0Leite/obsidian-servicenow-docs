@@ -12,13 +12,9 @@ breadcrumb: [Use the Console pages, Discovery Console for Operational Technology
 
 # Notification Rules page
 
-The Notification Rules page shows the notification rules that the system uses the sensor notifications on the [[notifications-page|Notifications page]].
+The Notification Rules page shows the notification rules that the system uses the sensor notifications on the Notifications page.
 
 \[Omitted image "notification-rules-page-smaller.png"\] Alt text: Notification Rules page
 
-See [[adding-notification-rule|Add a Notification rule]] for more information.
+See [Add a Notification rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/adding-notification-rule.md) for more information.
 
-## Related
-
-- [[adding-notification-rule|Add a Notification rule]]
-- [[notifications-page|Notifications page]]

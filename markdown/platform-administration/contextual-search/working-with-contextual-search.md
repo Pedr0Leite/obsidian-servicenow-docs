@@ -14,7 +14,7 @@ breadcrumb: [Contextual search, Search administration, Configure core features, 
 
 # Managing contextual search
 
-[[c_ContextualSearch|Contextual search]] provides a way to display [[hs-results|results]] that can be relevant to the issue for which you are creating an incident or requesting a service.
+Contextual search provides a way to display results that can be relevant to the issue for which you are creating an incident or requesting a service.
 
 The section covers topics that help you to:
 
@@ -44,20 +44,13 @@ Enable the search as functionality when you want the ability to view search resu
 -   **[Define contextual search for record producer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/t_CntxtSearchRP.md)**  
 Define a record producer to trigger a search based on the text that you enter in a variable field. Search results appear at the bottom of the record producer form.
 -   **[Define email configuration for contextual search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/define-email-configuration-for-cxs.md)**  
-Define email [[clone-configurations-tab|configurations]] to allow the system to include search results with an email [[notifications|notifications]].
+Define email configurations to allow the system to include search results with an email notifications.
 -   **[Edit an email notification for the search results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/t_ConfigureAnEmailNotification.md)**  
 Include search results in an email notification sent to users.
 -   **[Attach a Knowledge article](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/t_AttachAnArticle.md)**  
-[[t_AttachAnArticle|Attach a Knowledge article]] to an incident to solve issues quickly by going through the in-depth troubleshooting steps and other detailed information in the article.
+Attach a Knowledge article to an incident to solve issues quickly by going through the in-depth troubleshooting steps and other detailed information in the article.
 -   **[Feedback information on contextual search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/r_QueryFeedbackInformation.md)**  
 When a user clicks any of the action buttons such as **This helped**, **Order**, or **Attached**, the feedback information is stored in specific tables. The information helps you to understand the effectiveness of the searches. You can also create custom reports by querying these tables.
 
 **Parent Topic:**[Contextual search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/c_ContextualSearch.md)
 
-## Related
-
-- [[c_ContextualSearch|Contextual search]]
-- [[hs-results|Results]]
-- [[clone-configurations-tab|Configurations]]
-- [[notifications|Notifications]]
-- [[t_AttachAnArticle|Attach a Knowledge article]]

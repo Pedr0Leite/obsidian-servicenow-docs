@@ -23,7 +23,7 @@ Key duties include:
 -   Installing plugins and assigning the admin roles to configuration owners
 -   Defining verticals and business questions \(for example, Value, Operations, Security\)
 -   Selecting and tuning KPIs/KRIs, setting thresholds, and mapping data sources
--   Creating and validating [[c_performanceAnalyticsAndReporting|Platform Analytics]] indicators, breakdowns, and data-collection jobs
+-   Creating and validating Platform Analytics indicators, breakdowns, and data-collection jobs
 -   Managing translations, plugin upgrades, and best-practice templates to ensure consistency
 
 ## Business user
@@ -38,6 +38,3 @@ Typical activities:
 -   Subscribing to alerts and notifications when metrics cross defined thresholds
 -   Providing feedback on dashboard usability and data relevance to the admin team
 
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

@@ -14,7 +14,7 @@ breadcrumb: [Configuring Omnichannel Callback, Omnichannel Callback, Manage peop
 
 # Install Omnichannel Callback
 
-You can install the [[omnichannel-callback|Omnichannel Callback]] application \(sn\_omni\_callback\) if you have the admin role.The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Omnichannel Callback application \(sn\_omni\_callback\) if you have the admin role.The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -55,6 +55,4 @@ For more information, see [Components installed with Omnichannel Callback](https
 
 6.  Select **Install**.
 
-## Related
 
-- [[omnichannel-callback|Omnichannel Callback]]

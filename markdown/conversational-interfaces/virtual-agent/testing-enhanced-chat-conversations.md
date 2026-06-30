@@ -19,7 +19,7 @@ Simulate and test assistant conversations from Asset library.
 
 You can test assistants directly from the Asset library.
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **[[assistant-designer|Assistant Designer]]**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Assistant Designer**.
 2.  Select the **Asset library** tab.
 3.  Select the **LLM** option.
 4.  From the Assistant list, select the assistant that you want to test. The assets available to the selected assistant is shown under All assets.
@@ -28,15 +28,15 @@ You can test assistants directly from the Asset library.
     **Note:** You can test both active and inactive assistants.
 
 
-\[Omitted image "full-page-VAD-home-page-test-2.png"\] Alt text: Test options shown in the [[vad-topics-page|Assistant Designer Asset library]]'s Test assistant drop-down menu.
+\[Omitted image "full-page-VAD-home-page-test-2.png"\] Alt text: Test options shown in the Assistant Designer Asset library's Test assistant drop-down menu.
 
 Depending on the chat experience set up for the assistant, you can test using [Standard chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/nava-standard-chat.md) experience or [Enhanced chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/nava-enhanced-chat.md) experience. For more information about setting up the chat experience for an assistant, see [Manage an assistant chat experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/manage-assistant-chat-experience.md).
 
 **Note:** The Now Assist Panel - Platform \(default\) assistant can also use the [Premium chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/nava-integrated-chat.md) experience. The premium experience is configured by default.
 
-**Note:** [[nava-enhanced-chat|Enhanced chat]] experience is the default for Assistant Designer test panels. To change the default experience to [[nava-standard-chat|standard chat]], set the value of the system property **sn\_nowassist\_va.standard\_chat\_enabled** to true.
+**Note:** Enhanced chat experience is the default for Assistant Designer test panels. To change the default experience to standard chat, set the value of the system property **sn\_nowassist\_va.standard\_chat\_enabled** to true.
 
-For all the Now Assist for [[virtual-agent-landing-page|Virtual Agent]] assistants and the Now Assist Panel - Platform Assistant, when testing the assistant:
+For all the Now Assist for Virtual Agent assistants and the Now Assist Panel - Platform Assistant, when testing the assistant:
 
 -   If the assistant has the Standard Chat experience configured for any display location, you can choose between Standard Chat, Enhanced Chat, or Integrated Chat.
 -   If the assistant only has the Enhanced Chat or Integrated Chat experience configured across all display locations, when you select **Test Assistant**, you can choose between those options.
@@ -50,11 +50,3 @@ For the Now Assist Panel - Developer Assistant, when testing the assistant by se
 
 [Test details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/test-llm-details.md)
 
-## Related
-
-- [[convint-landing-page|Conversational Interfaces]]
-- [[assistant-designer|Assistant Designer]]
-- [[vad-topics-page|Assistant Designer Asset library]]
-- [[nava-enhanced-chat|Enhanced chat]]
-- [[nava-standard-chat|Standard chat]]
-- [[virtual-agent-landing-page|Virtual Agent]]

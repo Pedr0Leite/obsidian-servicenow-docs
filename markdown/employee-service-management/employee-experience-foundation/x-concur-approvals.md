@@ -14,7 +14,7 @@ breadcrumb: [Approvals hub integration with SAP Concur, Approval hub integration
 
 # Manage approvals from SAP Concur
 
-As an administrator, you can sync, view, track, and fulfill the requests from other business applications such as SAP Concur from a unified [[employee-center-pro-landing|Employee Center Pro]] location.
+As an administrator, you can sync, view, track, and fulfill the requests from other business applications such as SAP Concur from a unified Employee Center Pro location.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ View expense reports, itemizations, and receipts of the SAP Concur account from 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Concur Configuration** \(sn\_ex\_cnc\_concur\_configuration\).
+1.  Navigate to **All** &gt; **Employee Center** &gt; **Concur Configuration** \(sn\_ex\_cnc\_concur\_configuration\).
 
 2.  Click **New** or update the existing configuration.
 
@@ -50,7 +50,3 @@ Base URL and relative path help display the fetched reports and expenses metadat
 
 **Parent Topic:**[Approvals hub integration with SAP Concur](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/x-concur-sa-integration.md)
 
-## Related
-
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[employee-center-landing-page|Employee Center]]

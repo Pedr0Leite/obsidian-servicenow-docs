@@ -14,7 +14,7 @@ breadcrumb: [Reference, Threat Intelligence Security Center, Security Operations
 
 # Domain separation and Threat Intelligence Security Center
 
-Domain separation is supported for [[tisc-landing-page|Threat Intelligence Security Center]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported for Threat Intelligence Security Center. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Standard
 
@@ -33,7 +33,7 @@ Domain separation is enabled for all the features of Threat Intelligence Securit
 
 ## How domain separation works in Threat Intelligence Security Center
 
--   All the configuration related records that are provisioned in the base system are shipped in the global domain. In case the instance is domain separated, users would see an explicit button **Setup TISC** under the **Administration** module of the [[view-threat-intelligence-security-center-homepage|TISC workspace]]. Click on this button to clone the base system provisioned global domain configurations into the respective domains.
+-   All the configuration related records that are provisioned in the base system are shipped in the global domain. In case the instance is domain separated, users would see an explicit button **Setup TISC** under the **Administration** module of the TISC workspace. Click on this button to clone the base system provisioned global domain configurations into the respective domains.
 
     \[Omitted image "tisc-domain-separation.png"\] Alt text: TISC Domain Separation
 
@@ -50,7 +50,7 @@ Domain separation is enabled for all the features of Threat Intelligence Securit
 -   The business logic and processes that can be domain-separated by instance owner is same as what Platform supports.
 -   The business logic and processes that can be administered by tenant domain is same as what platform supports.
 -   You can access the Setup page from the Administration section. Click on the link provided under the Administration section to view the domain separation view.
--   To support the domain separation for the widgets using Performance Analytics \(PA\) [[indicator|indicators]] in the TISC Home dashboard, refer to the KB article [KB1647990](https://support.servicenow.com/kb?id=kb_article_view&sys_kb_id=5a53149d97070654f03d739c1253afbb) for detailed procedure.
+-   To support the domain separation for the widgets using Performance Analytics \(PA\) indicators in the TISC Home dashboard, refer to the KB article [KB1647990](https://support.servicenow.com/kb?id=kb_article_view&sys_kb_id=5a53149d97070654f03d739c1253afbb) for detailed procedure.
 
 ## Domain Separated tables
 
@@ -65,8 +65,3 @@ All features of this application are domain separated.
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[view-threat-intelligence-security-center-homepage|TISC Workspace]]
-- [[indicator|Indicators]]

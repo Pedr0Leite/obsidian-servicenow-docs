@@ -15,15 +15,15 @@ breadcrumb: [Getting started with Virtual Agent Designer, Build and deploy, Virt
 
 # Testing LLM topics
 
-Preview, test, and debug topics that use large language models \(LLMs\) in the [[assistant-designer|Assistant Designer]] chat window.
+Preview, test, and debug topics that use large language models \(LLMs\) in the Assistant Designer chat window.
 
-**Note:** An updated [[vad-topics-page|Assistant Designer Asset library]] user interface is available when you install [[now-assist-in-va-landing|Now Assist in Virtual Agent]] and turn on the Now Assist Topics skill. This content assumes that you have activated this skill and can see the list view. If this skill is not activated, you see the legacy UI and topics page. For more information, see [Virtual Agent Designer legacy topics page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/vad-prev-topics-page.md).
+**Note:** An updated Assistant Designer Asset library user interface is available when you install Now Assist in Virtual Agent and turn on the Now Assist Topics skill. This content assumes that you have activated this skill and can see the list view. If this skill is not activated, you see the legacy UI and topics page. For more information, see [Virtual Agent Designer legacy topics page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/vad-prev-topics-page.md).
 
 ## About testing LLM topics
 
 You can test your topic's functions by running your conversation in a chat test window as you work. The web \(Service Portal\) chat client is the default test window.
 
-If you're using the [Virtual Agent integrations with third-party messaging apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-integration-messaging-apps.md), elements in your conversation might appear differently in third-party messaging applications. Test your conversations in any third-party applications where you want to deploy [[virtual-agent-landing-page|Virtual Agent]].
+If you're using the [Virtual Agent integrations with third-party messaging apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-integration-messaging-apps.md), elements in your conversation might appear differently in third-party messaging applications. Test your conversations in any third-party applications where you want to deploy Virtual Agent.
 
 **Note:** If the Now Assist panel, Microsoft Teams application, or Slack application is configured for your environment, preview options for those channels are displayed in the Test button list. Select **Preview in Now Assist panel** or **Preview in Microsoft Teams** in the list to test your topic in those environments.
 
@@ -31,7 +31,7 @@ If you're using the [Virtual Agent integrations with third-party messaging apps]
 
 You can find LLM testing option on the Virtual Agent Designer canvas.
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Assistant Designer**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Assistant Designer**.
 2.  Select the **Asset library** tab.
 3.  Select the **LLM** option.
 4.  Select the topic that you want to test.
@@ -44,9 +44,9 @@ The chat test window opens in the Now Assist in Virtual Agent chat widget.
 
 \[Omitted image "test-llm-widget.png"\] Alt text:
 
-If the topic is associated with multiple [[llm-assistants|LLM assistants]], select the **Test skill discovery** check box, then open the Assistant drop-down list to select which assistant you want to test. For more information about LLM assistants, see [LLM assistants](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/llm-assistants.md).
+If the topic is associated with multiple LLM assistants, select the **Test skill discovery** check box, then open the Assistant drop-down list to select which assistant you want to test. For more information about LLM assistants, see [LLM assistants](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/llm-assistants.md).
 
-**Note:** The **Test in [[nava-enhanced-chat|enhanced chat]]** option is available only from the Asset library list view. The **Test** button in the topic canvas adds options in a drop-down box if you configure Microsoft Teams or Slack for Virtual Agent.
+**Note:** The **Test in enhanced chat** option is available only from the Asset library list view. The **Test** button in the topic canvas adds options in a drop-down box if you configure Microsoft Teams or Slack for Virtual Agent.
 
 \[Omitted image "va-llm-test-window-assistants.png"\] Alt text: Add assistants in the Properties tab, followed by the Test skill discovery check box in the topic testing window, to select an assistant in the drop-down window.
 
@@ -69,12 +69,3 @@ The chat test window displays adjoining tabs that provide details about your top
 
 **Parent Topic:**[Getting started with Virtual Agent Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/conversation-designer-virtual-agent.md)
 
-## Related
-
-- [[assistant-designer|Assistant Designer]]
-- [[vad-topics-page|Assistant Designer Asset library]]
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[llm-assistants|LLM assistants]]
-- [[nava-enhanced-chat|Enhanced chat]]

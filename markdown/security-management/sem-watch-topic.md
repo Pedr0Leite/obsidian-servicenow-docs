@@ -12,7 +12,7 @@ breadcrumb: [Security Exposure Management Workspace, Explore, Unified Security E
 
 # Security Exposure Management Workspace Watch Topics
 
-The Watch topics page in the [[sem-workspace-user-interface|Security Exposure Management Workspace]] enables you to create and edit a watch topic. A Watch topic is a set of data visualizations which enables you to monitor a filtered set of records findings \(VITs, AVITs, CVITs and CTRs\) over time on a dashboard that might be of a particular interest or priority to your organization.
+The Watch topics page in the Security Exposure Management Workspace enables you to create and edit a watch topic. A Watch topic is a set of data visualizations which enables you to monitor a filtered set of records findings \(VITs, AVITs, CVITs and CTRs\) over time on a dashboard that might be of a particular interest or priority to your organization.
 
 Role required:
 
@@ -21,7 +21,7 @@ Role required:
 -   sn\_vul\_container.vulnerability\_analyst or sn\_vul\_container.vulnerability\_admin for container vulnerable items \(CVITs\)
 -   sn\_vulc.admin for configuration test results \(CTRs\)
 
-The data displayed on the data visualizations on the watch topics are dynamically updated as vulnerability data changes upon import. Use the dashboards to monitor the trends, scope, and types of [[vulnerabilities|vulnerabilities]] and your configuration items for the selected watch topic. This information helps you determine how the vulnerabilities in each watch topic impact your environment. The Watch Topics page consists of four modules - Host Vulnerabilities, Container Vulnerabilities, Application Vulnerabilities, Configuration Test Results, and Inactive. For more information on the related items tabs and their visualizations in a watch topic, see [Related items list and visualizations in a watch topic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-manager-workspace/vr-ws-wtopic-related-items-v18.md).
+The data displayed on the data visualizations on the watch topics are dynamically updated as vulnerability data changes upon import. Use the dashboards to monitor the trends, scope, and types of vulnerabilities and your configuration items for the selected watch topic. This information helps you determine how the vulnerabilities in each watch topic impact your environment. The Watch Topics page consists of four modules - Host Vulnerabilities, Container Vulnerabilities, Application Vulnerabilities, Configuration Test Results, and Inactive. For more information on the related items tabs and their visualizations in a watch topic, see [Related items list and visualizations in a watch topic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-manager-workspace/vr-ws-wtopic-related-items-v18.md).
 
 The following watch topics are provided with the base system in the Host Vulnerabilities module on the Watch Topics page:
 
@@ -49,7 +49,3 @@ To start the remediation or when a critical need arises for the records that are
 
 [Deactivate or activate a watch topic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-manager-workspace/activate-deactivate-watch-topic.md)
 
-## Related
-
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]
-- [[vulnerabilities|Vulnerabilities]]

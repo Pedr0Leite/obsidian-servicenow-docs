@@ -23,7 +23,7 @@ Role required: admin or va\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings** &gt; **[[virtual-agent-landing-page|Virtual Agent]]**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings** &gt; **Virtual Agent**.
 
 2.  In **Virtual Agent settings** under **Custom greetings and setup**, select **View All**.
 
@@ -154,7 +154,3 @@ In you have not configured the promoted topics for Microsoft Teams, then the pro
 
 **Parent Topic:**[Configure Virtual Agent for Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-va-msteams-settings.md)
 
-## Related
-
-- [[convint-landing-page|Conversational Interfaces]]
-- [[virtual-agent-landing-page|Virtual Agent]]

@@ -18,7 +18,7 @@ Employees can submit requests for service and product offerings using catalog it
 
 ServiceNow® Employee Center provides a single and unified portal experience for employees to find information and request services across various departments, including HR, IT, Legal, Workplace, and Procurement. Using the Content Taxonomy framework, you can modify the default IT taxonomy to include your catalog items as content in the topics or child topics.
 
-To enable [[service-catalog|Service Catalog]] on the Employee Center portal, ensure you've the following ServiceNow applications and plugins installed:
+To enable Service Catalog on the Employee Center portal, ensure you've the following ServiceNow applications and plugins installed:
 
 -   [Employee Center plugin \(sn\_ex\_sp\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/activate-ec.md)
 -   [Employee Experience Taxonomy plugin \(sn\_ect\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/config-taxonomy.md)
@@ -39,18 +39,13 @@ Modify the Main Menu configuration of the Employee Center to provide the Shoppin
 -   **[Add an item to the wish list in Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/add-to-wishlist-ec.md)**  
 Add catalog items or record producers to the wish list to review them when required.
 -   **[Add a catalog item to the shopping cart in Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/add-to-cart-ec.md)**  
-[[t_AssignItemToAddlCatalogsCategory|Add a catalog item]] or order guide to the shopping cart to store at one place and checkout.
+Add a catalog item or order guide to the shopping cart to store at one place and checkout.
 -   **[Request a catalog item from Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/request-cat-item-ec.md)**  
 Use the SC Catalog Item widget in Employee Center to request a catalog item.
 -   **[Request an order guide from Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/request-order-guide-ec.md)**  
 Request multiple catalog items together as an order guide from the Employee Center for a specific purpose.
 -   **[Save a draft of a catalog item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/save-draft-catalog-item.md)**  
-[[save-draft-catalog-item|Save a draft of a catalog item]] while requesting it on the Employee Center, Service Portal, and Now Mobile.
+Save a draft of a catalog item while requesting it on the Employee Center, Service Portal, and Now Mobile.
 
 **Parent Topic:**[Integrating Service Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/integrating-service-catalog.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[t_AssignItemToAddlCatalogsCategory|Add a catalog item]]
-- [[save-draft-catalog-item|Save a draft of a catalog item]]

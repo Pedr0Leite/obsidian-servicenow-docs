@@ -27,7 +27,7 @@ Role required:
 
 ## Procedure
 
-1.  Use the [[ci-class-manager-landing-page|CI Class Manager]] \(Role required: sn\_cmdb\_admin or itil\_admin\):
+1.  Use the CI Class Manager \(Role required: sn\_cmdb\_admin or itil\_admin\):
 
     1.  Navigate to **All** &gt; **Configuration** &gt; **CI Class Manager**.
 
@@ -65,7 +65,7 @@ Role required:
 
 ## What to do next
 
-You may need to delete a suggested relationship, for example, to limit the choice of available relationships in the [[c_RelationshipEditor|CI relationship editor]]. Removing a suggested relationship does not affect relationships that are created or updated by Discovery.
+You may need to delete a suggested relationship, for example, to limit the choice of available relationships in the CI relationship editor. Removing a suggested relationship does not affect relationships that are created or updated by Discovery.
 
 **Parent Topic:**[CI relationships in the CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CIRelationships.md)
 
@@ -86,7 +86,3 @@ You may need to delete a suggested relationship, for example, to limit the choic
 
 [Create a CI relation rollup]()
 
-## Related
-
-- [[ci-class-manager-landing-page|CI Class Manager]]
-- [[c_RelationshipEditor|CI relationship editor]]

@@ -18,7 +18,7 @@ Guidance on effective role alignment
 
 ## Accelerator Overview
 
-[[staffing-and-roles-review|Staffing and Roles Review]] provides [[impact-landing-page|Impact]] Customers with leading practices content and prescriptive guidance to assist Customers in their analysis of roles, responsibilities, and potential skills gaps that currently exist in their ServiceNow program team to inform hiring, partnering, and outsourcing needs in support of their ServiceNow strategy. It aims to guide Customers on building an effective team to assist in execution on their ServiceNow [[vision-and-strategy|vision and strategy]], appropriate staffing to support the business, and approaches to reduce attrition.
+Staffing and Roles Review provides Impact Customers with leading practices content and prescriptive guidance to assist Customers in their analysis of roles, responsibilities, and potential skills gaps that currently exist in their ServiceNow program team to inform hiring, partnering, and outsourcing needs in support of their ServiceNow strategy. It aims to guide Customers on building an effective team to assist in execution on their ServiceNow vision and strategy, appropriate staffing to support the business, and approaches to reduce attrition.
 
 ServiceNow encourages Customer to request this Accelerator in conjunction with the CoEI Design Accelerator.
 
@@ -60,8 +60,3 @@ ServiceNow encourages Customer to request this Accelerator in conjunction with t
 
 ServiceNow will not be involved in resource selection processes.
 
-## Related
-
-- [[staffing-and-roles-review|Staffing and Roles Review]]
-- [[impact-landing-page|Impact]]
-- [[vision-and-strategy|Vision and Strategy]]

@@ -14,7 +14,7 @@ breadcrumb: [Configuring Event Management, Event Management, ITOM AIOps, IT Oper
 
 # Request Event Management
 
-AIOps Experience plugin \(`sn_sow_aiops`\) requires a separate subscription and must be activated by ServiceNow personnel. This plugin includes the required [[c_EM|Event Management]] components.
+AIOps Experience plugin \(`sn_sow_aiops`\) requires a separate subscription and must be activated by ServiceNow personnel. This plugin includes the required Event Management components.
 
 ## Before you begin
 
@@ -75,6 +75,4 @@ Select the date and time to activate the plugin.
 
     After the maintenance window, the system installs the plugin on your instance. To confirm the installation, go to the Installed tab in the Application Manager.
 
-## Related
 
-- [[c_EM|Event Management]]

@@ -15,9 +15,9 @@ breadcrumb: [Reference, AI Risk and Compliance, Governance, Risk, and Compliance
 
 # Advanced Risk properties reference
 
-Reference for the Advanced Risk system properties available in the [[ai-risk-and-compliance|AI Risk and Compliance]] application, including the properties that control risk assessment methodology behavior, risk score roll-up, and risk appetite configuration.
+Reference for the Advanced Risk system properties available in the AI Risk and Compliance application, including the properties that control risk assessment methodology behavior, risk score roll-up, and risk appetite configuration.
 
-The following table describes the [[advanced-risk-properties|Advanced Risk properties]] available in AI Risk and Compliance. These properties are configured by navigating to **All** &gt; **AI Risk and Compliance** &gt; **[[risk-assessments|Risk Assessments]]** &gt; **Properties**. For the procedure to enable Advanced Risk Assessments, see [Set up Advanced Risk assessments properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/advanced-risk-assessments-properties-airc.md).
+The following table describes the Advanced Risk properties available in AI Risk and Compliance. These properties are configured by navigating to **All** &gt; **AI Risk and Compliance** &gt; **Risk Assessments** &gt; **Properties**. For the procedure to enable Advanced Risk Assessments, see [Set up Advanced Risk assessments properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/advanced-risk-assessments-properties-airc.md).
 
 **Important:** The **Migrate to Advanced Risk Assessments** property is a one-way configuration change. After it is set to **Yes**, it cannot be reverted to legacy risk calculation.
 
@@ -37,7 +37,7 @@ Migrate to Advanced Risk Assessments
 
 </td><td>
 
-Enables the [[advanced-risk-assessment|Advanced Risk Assessment]] \(ARA\) framework in the instance. When enabled, all risk assessments use [[airc-rams|Risk Assessment Methodologies]] \(RAMs\), advanced scoring, and roll-ups. This is a one-way change and cannot be reverted.
+Enables the Advanced Risk Assessment \(ARA\) framework in the instance. When enabled, all risk assessments use Risk Assessment Methodologies \(RAMs\), advanced scoring, and roll-ups. This is a one-way change and cannot be reverted.
 
 </td></tr><tr><td>
 
@@ -71,7 +71,7 @@ Defines advance notification timing for risk appetite reviews. Sets the number o
 
 </td></tr><tr><td>
 
-Field from the risk table that will be displayed as the header for each risk in the focus mode of the [[risk-assessment-project|risk assessment project]]
+Field from the risk table that will be displayed as the header for each risk in the focus mode of the risk assessment project
 
  \[sn\_risk\_advanced.assessment\_heading\_risk\_field\_name\]
 
@@ -97,11 +97,3 @@ Defines the default columns shown when assessing individual controls in the grid
 
 [Set up Advanced Risk assessments properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/advanced-risk-assessments-properties-airc.md)
 
-## Related
-
-- [[ai-risk-and-compliance|AI Risk and Compliance]]
-- [[advanced-risk-properties|advanced risk properties]]
-- [[risk-assessments|risk assessments]]
-- [[advanced-risk-assessment|advanced risk assessment]]
-- [[airc-rams|Risk assessment methodologies]]
-- [[risk-assessment-project|risk assessment project]]

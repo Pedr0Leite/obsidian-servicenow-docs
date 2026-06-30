@@ -14,7 +14,7 @@ breadcrumb: [Reporting solutions for Universal Request, Universal Request, Emplo
 
 # Universal Request Process Overview dashboard
 
-Analyze the behavior of universal requests in your organization and track transfers. As a process owner, use this dashboard to measure efficiency and to determine necessary improvements in the overall implementation of [[ur-landing-limitedaccess|Universal Request]].
+Analyze the behavior of universal requests in your organization and track transfers. As a process owner, use this dashboard to measure efficiency and to determine necessary improvements in the overall implementation of Universal Request.
 
 To view the Universal Request Process Overview dashboard, navigate to **Universal Request** &gt; **Process Overview**. The reports are based on closed universal requests. You can select the time period for the reports using the date filter. Click and open each indicator for more details.
 
@@ -22,9 +22,9 @@ You can view the dashboard in the Next Experience UI Framework. Select any indic
 
 Use the **Edit** button to modify the dashboard and the widgets with the in-line editor. For more information, see [Edit Platform Analytics dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/edit-db-in-ac.md).
 
-\[Omitted image "ur-process-overview.png"\] Alt text: Universal Request Reporting Process [[overview-lxp-widgets|overview tab]].
+\[Omitted image "ur-process-overview.png"\] Alt text: Universal Request Reporting Process overview tab.
 
-The **SLA Trends** tab displays dynamic Performance Analytics reports for Universal Request. To view this tab, activate the Performance [[eslate-analytics-reporting|Analytics and Reporting]] for Universal Request plugin \(com.snc.universal\_request.pa\). The **SLA trends** tab displays reports based on closed universal requests. By default, the monthly data is displayed. To collect daily data for this tab, run the **\[PA Universal Request\] Daily Data Collection** job. To collect data for the past three months, run the **\[PA Universal Request\] Historical Data Collection** job.
+The **SLA Trends** tab displays dynamic Performance Analytics reports for Universal Request. To view this tab, activate the Performance Analytics and Reporting for Universal Request plugin \(com.snc.universal\_request.pa\). The **SLA trends** tab displays reports based on closed universal requests. By default, the monthly data is displayed. To collect daily data for this tab, run the **\[PA Universal Request\] Daily Data Collection** job. To collect data for the past three months, run the **\[PA Universal Request\] Historical Data Collection** job.
 
 \[Omitted image "ur-process-ovrv-sla-trends.png"\] Alt text: SLA Trends tab in the Universal Request Process overview.
 
@@ -255,8 +255,3 @@ The date filter is available for the **Overview** tab.
 
 **Parent Topic:**[Reporting solutions for Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/reporting-soln-for-ur.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[overview-lxp-widgets|Overview tab]]
-- [[eslate-analytics-reporting|Analytics and reporting]]

@@ -14,7 +14,7 @@ breadcrumb: [Monitor, Digital End-User Experience, IT Service Management]
 
 # MCM monitoring overview
 
-Microsoft Configuration Manager \(MCM\) monitoring provides estate-level visibility into MCM client health across all managed [[dex-workspace-devices-tab|devices]].
+Microsoft Configuration Manager \(MCM\) monitoring provides estate-level visibility into MCM client health across all managed devices.
 
 ## Watch: MCM overview video
 
@@ -32,6 +32,3 @@ MCM monitoring by DEX provides the following benefits:
 
 To view client health, see [View client health with MCM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/view-client-health-with-mcm.md).
 
-## Related
-
-- [[dex-workspace-devices-tab|Devices]]

@@ -14,7 +14,7 @@ breadcrumb: [Use the risk assessment playbook, Create a supplier, Using Source-t
 
 # Risk assessment flow when only Vendor Risk Management is installed
 
-If you have installed only the Risk Assessments Integration for [[supp-mgmt-landing-page|Supplier Lifecycle Operations]] \[com.snc.sn\_supplier\_tprm\] plugin, the Perform risk assessment playbook triggers the flow that includes activities to verify the eligibility of the [[supplier|supplier]] by creating risk assessments.
+If you have installed only the Risk Assessments Integration for Supplier Lifecycle Operations \[com.snc.sn\_supplier\_tprm\] plugin, the Perform risk assessment playbook triggers the flow that includes activities to verify the eligibility of the supplier by creating risk assessments.
 
 The Risk Assessments Integration for Supplier Lifecycle Operations \[com.snc.sn\_supplier\_tprm\] plugin automatically installs the Vendor Risk Management \[sn\_vdr\_risk\_asmt\] plugin.
 
@@ -24,8 +24,8 @@ In this flow, the following occurs:
 2.  The supplier manager uses the onboarding playbook, which provides a streamlined and guided process to onboard suppliers. For more information, see [Use the supplier onboarding playbook to onboard suppliers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/use-playbooks-onboard-supp.md).
 3.  During the onboarding process, the playbook automatically creates the risk and tiering assessments. The assessment records are listed in the **Risk Assessments** and **Tiering Assessments** tabs.
 4.  The supplier manager assigns the risk and tiering assessments to the third-party risk assessor.
-5.  The TPR assessor assigns the assessments to the [[supplier-contact|supplier contact]].
-6.  The supplier contact logs in to the [[supplier-central|Supplier Collaboration Portal]] and completes the risk and tiering assessments. For more information, see [Complete a risk assessment from the Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/complete-risk-assessments.md).
+5.  The TPR assessor assigns the assessments to the supplier contact.
+6.  The supplier contact logs in to the Supplier Collaboration Portal and completes the risk and tiering assessments. For more information, see [Complete a risk assessment from the Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/complete-risk-assessments.md).
 7.  After the risk assessment has been completed, the supplier manager evaluates the risk information in combination with any other data and determines whether to continue or cancel the onboarding process.
 
     After the assessments are completed, you can continue with completing the activities in the Activation stage.
@@ -34,17 +34,10 @@ In this flow, the following occurs:
 -   **[Playbook stages and activities when only Vendor Risk Management is installed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/risk-flow-vrm-stages.md)**  
 The following table lists the Perform risk assessment playbook stages and activities when only Vendor Risk Management \(VRM\) is installed.
 
-**Parent Topic:**[[perform-risk-playbook|Perform risk assessment playbook]]
+**Parent Topic:**[Perform risk assessment playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/perform-risk-playbook.md)
 
 **Related topics**  
 
 
 [Playbook stages and activities when only Vendor Risk Management is installed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/risk-flow-vrm-stages.md)
 
-## Related
-
-- [[perform-risk-playbook|Perform risk assessment playbook]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[supplier|Supplier]]
-- [[supplier-contact|Supplier contact]]
-- [[supplier-central|Supplier Collaboration Portal]]

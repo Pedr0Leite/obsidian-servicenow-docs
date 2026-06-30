@@ -14,7 +14,7 @@ breadcrumb: [AWS discovery, Available cloud discovery patterns, Discovery patter
 
 # Amazon Simple Storage Service \(Amazon S3\) discovery with Patterns
 
-The ServiceNow [[r-discovery|Discovery]] application uses the Amazon AWS S3 pattern to find public and non-public storage buckets of Amazon Simple Storage Service. The pattern uses a set of REST API calls to find these resources. Discovering some of these resources may require updating to the latest version of the Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns application from the ServiceNow Store.
+The ServiceNow Discovery application uses the Amazon AWS S3 pattern to find public and non-public storage buckets of Amazon Simple Storage Service. The pattern uses a set of REST API calls to find these resources. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 In addition to the discovery schedule, the ServiceNow instance triggers the Amazon AWS S3 pattern when AWS Config sends an event to the ServiceNow instance. Config is a service that continuously monitors AWS resources and sends events to the ServiceNow every time it senses that a resource configuration has changed.
 
@@ -28,7 +28,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 ## Prerequisites
 
--   If you use Identity and Access Management \(IAM\) to manage users in Amazon Web Services \(AWS\) platform, ensure that you created a user policy for the AWS user. For more information, refer to Create an IAM user policy for [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] in the ServiceNow Cloud Provisioning and Governance documentation.
+-   If you use Identity and Access Management \(IAM\) to manage users in Amazon Web Services \(AWS\) platform, ensure that you created a user policy for the AWS user. For more information, refer to Create an IAM user policy for Cloud Provisioning and Governance in the ServiceNow Cloud Provisioning and Governance documentation.
 -   Configure the AWS service account.
 -   Configure AWS credentials, using a secret key and an access key.
 -   AmazonS3ReadOnlyAccess policy user permissions.
@@ -145,7 +145,7 @@ Bucket ARN of the Replication Destination bucket.
 </td></tr></tbody>
 </table>**Note:** In Discovery and Service Mapping Patterns versions before 1.30.2, the Owner field displays the bucket owner's name.
 
-On the [[dependency-views-map|Dependency Views map]] you can see all discovered S3 buckets in your organization, including S3 buckets that you configured as replicas. In this example, Cloud Object Storage 1, Cloud Object Storage 2, and Cloud Object Storage 3 replicate Cloud Object Storage 2. In its turn, Cloud Object Storage 2 replicates Cloud Object Storage 1.
+On the Dependency Views map you can see all discovered S3 buckets in your organization, including S3 buckets that you configured as replicas. In this example, Cloud Object Storage 1, Cloud Object Storage 2, and Cloud Object Storage 3 replicate Cloud Object Storage 2. In its turn, Cloud Object Storage 2 replicates Cloud Object Storage 1.
 
 \[Omitted image "AWS-S3-dependency-views.png"\] Alt text: Result of horizontal discovery of AWS S3 as appears in Dependency Views
 
@@ -209,9 +209,3 @@ By default, the **sa.debugger.max\_timeout**parameter is set to 240 seconds.Incr
 </td></tr></tbody>
 </table>**Parent Topic:**[AWS discovery using patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/data-discovered-aws-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[dependency-views-map|Dependency Views map]]

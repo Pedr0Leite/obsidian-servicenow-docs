@@ -14,9 +14,9 @@ breadcrumb: [Reference, CMDB success advisor, Configuration Management Database 
 
 # Key CMDB success advisor concepts
 
-Familiarize yourself with the key terms and concepts to work with [[cmdb-sa|CMDB success advisor]].
+Familiarize yourself with the key terms and concepts to work with CMDB success advisor.
 
--   **[[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]**
+-   **Configuration Management Database \(CMDB\)**
 
     The central database that stores information about IT assets \(CIs\) and their relationships.
 
@@ -36,7 +36,7 @@ Familiarize yourself with the key terms and concepts to work with [[cmdb-sa|CMDB
 
     A hardware classification used as the scope unit for HAM such as Computers, Servers, Printers.
 
--   **[[cmdb-sgc-available|Service Graph Connectors]]**
+-   **Service Graph Connectors**
 
     A pre-built integration that imports data from an external system into the CMDB.
 
@@ -46,7 +46,7 @@ Familiarize yourself with the key terms and concepts to work with [[cmdb-sa|CMDB
 
 -   **Key Performance Indicator \(KPI\)**
 
-    A measurable metric showing [[c_CMDBHealth|CMDB health]] in a specific area including completeness, correctness, and compliance.
+    A measurable metric showing CMDB health in a specific area including completeness, correctness, and compliance.
 
 -   **Remediation actions**
 
@@ -63,9 +63,3 @@ Familiarize yourself with the key terms and concepts to work with [[cmdb-sa|CMDB
 
 **Parent Topic:**[CMDB success advisor reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sa-reference.md)
 
-## Related
-
-- [[cmdb-sa|CMDB success advisor]]
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[c_CMDBHealth|CMDB Health]]

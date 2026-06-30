@@ -61,11 +61,7 @@ The integration user account exists in all required instances with the `sn_se.in
 
 ## What to do next
 
-Proceed to [[register-your-instance|Register your instance]]
+Proceed to [Register your instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/register-your-instance.md)
 
-**Parent Topic:**[[instance-integration-scan-engine|Scan Engine integrations]]
+**Parent Topic:**[Scan Engine integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/instance-integration-scan-engine.md)
 
-## Related
-
-- [[register-your-instance|Register your instance]]
-- [[instance-integration-scan-engine|Scan Engine integrations]]

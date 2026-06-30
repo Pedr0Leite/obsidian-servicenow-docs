@@ -12,7 +12,7 @@ breadcrumb: [Integrate with IT Service Management, Integrate, Customer Service M
 
 # Setting up CSM integration with IT Service Management
 
-Integrate [[c_CustomerServiceManagement|Customer Service Management]] with IT Service Management that includes the Request, Incident, Problem, and Change Management applications. With this integration, users can create request, incident, problem, and change records from customer service cases. External users can view these records from the Customer and Consumer Service Portals.
+Integrate Customer Service Management with IT Service Management that includes the Request, Incident, Problem, and Change Management applications. With this integration, users can create request, incident, problem, and change records from customer service cases. External users can view these records from the Customer and Consumer Service Portals.
 
 <table id="table_sqn_y5f_nlb"><thead><tr><th>
 
@@ -24,7 +24,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[configure-csm-sm-integration|Integrate with IT Service Management using Guided Setup]]
+[Integrate with IT Service Management using Guided Setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-csm-sm-integration.md)
 
 </td><td>
 
@@ -32,7 +32,7 @@ Use the Guided Setup to integrate CSM with IT Service Management.
 
 </td></tr><tr><td>
 
-[[install-csm-with-service-management|Install Customer Service Management with Service Management]]
+[Install Customer Service Management with Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/install-csm-with-service-management.md)
 
 </td><td>
 
@@ -44,7 +44,7 @@ Activate the CSM with Service Management plugin \(com.sn\_cs\_sm\) to enable the
 
 </td></tr><tr><td>
 
-[[install-csm-with-request-management|Install Customer Service Management with Request Management]]
+[Install Customer Service Management with Request Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/install-csm-with-request-management.md)
 
 </td><td>
 
@@ -52,7 +52,7 @@ Activate the CSM with Request Management plugin \(com.sn\_cs\_sm\_request\) to u
 
 </td></tr><tr><td>
 
-[[assign-csm-itsm-integration-roles|Assigning CSM/ITSM integration roles]]
+[Assigning CSM/ITSM integration roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/assign-csm-itsm-integration-roles.md)
 
 </td><td>
 
@@ -60,7 +60,7 @@ Assign the required roles to the customer service agents and managers who will b
 
 </td></tr><tr><td>
 
-[[csm-itsm-integration-view-request|Enable external customers to access problem, change, and request records]]
+[Enable external customers to access problem, change, and request records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-itsm-integration-view-request.md)
 
 </td><td>
 
@@ -68,15 +68,15 @@ Assign access controls \(ACLs\) to the external user roles to provide visibility
 
 </td></tr><tr><td>
 
-[[enable-customer-request-from-portal|Enable external customers to create requests]]
+[Enable external customers to create requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/enable-customer-request-from-portal.md)
 
 </td><td>
 
-[[configure-data-model-roles|Assign roles]] to external customers which enable them to create requests.
+Assign roles to external customers which enable them to create requests.
 
 </td></tr><tr><td>
 
-[[enable-customer-request-approval|Enable external customers to approve requests and changes]]
+[Enable external customers to approve requests and changes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/enable-customer-request-approval.md)
 
 </td><td>
 
@@ -88,7 +88,7 @@ Enable external customers to approve changes and requests:-   Add external users
 
 </td></tr><tr><td>
 
-[[enable-create-request-case-type|Enable the Create Request UI action for case types]]
+[Enable the Create Request UI action for case types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/enable-create-request-case-type.md)
 
 </td><td>
 
@@ -96,16 +96,3 @@ Enable the **Create Request** UI action for case type tables that extend the Cas
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[configure-csm-sm-integration|Integrate with IT Service Management using Guided Setup]]
-- [[install-csm-with-service-management|Install Customer Service Management with Service Management]]
-- [[install-csm-with-request-management|Install Customer Service Management with Request Management]]
-- [[assign-csm-itsm-integration-roles|Assigning CSM/ITSM integration roles]]
-- [[csm-itsm-integration-view-request|Enable external customers to access problem, change, and request records]]
-- [[enable-customer-request-from-portal|Enable external customers to create requests]]
-- [[enable-customer-request-approval|Enable external customers to approve requests and changes]]
-- [[enable-create-request-case-type|Enable the Create Request UI action for case types]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[configure-data-model-roles|Assign roles]]

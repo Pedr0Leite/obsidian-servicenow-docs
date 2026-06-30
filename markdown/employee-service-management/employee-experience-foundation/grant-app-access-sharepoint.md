@@ -22,7 +22,7 @@ Role required: SharePoint administrator
 
 ## About this task
 
-The Microsoft Viva card provides users with a quick view of all tasks assigned to them in both Microsoft SharePoint and Microsoft Teams. It also enables users to quickly navigate to [[employee-center-landing-page|Employee Center]] to view detailed tasks there.
+The Microsoft Viva card provides users with a quick view of all tasks assigned to them in both Microsoft SharePoint and Microsoft Teams. It also enables users to quickly navigate to Employee Center to view detailed tasks there.
 
 First grant app access in Microsoft SharePoint and then publish the card.
 
@@ -61,6 +61,3 @@ First grant app access in Microsoft SharePoint and then publish the card.
 
 **Parent Topic:**[Managing Employee Center for Microsoft Viva Connections](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/manage-viva.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

@@ -16,9 +16,9 @@ Several types of components are installed with installation of the Personal Line
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
-The Personal Lines Underwriting plugin \(sn\_ins\_underwrite\) is automatically installed with the [[fso-ins-personal-policy-ops-landing-page|Personal Lines Servicing]] plugin.
+The Personal Lines Underwriting plugin \(sn\_ins\_underwrite\) is automatically installed with the Personal Lines Servicing plugin.
 
-Personal Lines Underwriting manages the underwriting tasks that are used in workflows across [[fso-overview|Financial Services]] Operations applications.
+Personal Lines Underwriting manages the underwriting tasks that are used in workflows across Financial Services Operations applications.
 
 ## Roles installed
 
@@ -95,10 +95,5 @@ Underwriting Service Task \(Personal\)\[sn\_ins\_underwrite\_b2c\_task\]
 Stores all underwriting tasks for personal policy service requests for all Financial Services Operations applications. This table extends the Financial Task \[sn\_bom\_task\] table.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[ins-policy-ops-reference|Personal Lines Servicing reference]]
+</table>**Parent Topic:**[Personal Lines Servicing reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/ins-policy-ops-reference.md)
 
-## Related
-
-- [[ins-policy-ops-reference|Personal Lines Servicing reference]]
-- [[fso-ins-personal-policy-ops-landing-page|Personal Lines Servicing]]
-- [[fso-overview|Financial Services]]

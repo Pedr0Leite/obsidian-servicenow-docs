@@ -14,7 +14,7 @@ breadcrumb: [Payment Operations, Banking applications, Financial Services Operat
 
 # Using Financial Services Payment Operations
 
-Learn how branch workers and agents use the [[payment-ops-landing-page|Financial Services Payment Operations]] application to submit and manage payment inquiry requests, claims and debit approvals.
+Learn how branch workers and agents use the Financial Services Payment Operations application to submit and manage payment inquiry requests, claims and debit approvals.
 
 ## Workspace
 
@@ -24,7 +24,7 @@ Contributors and back-office agents use personalized Workspace to work on all as
 -   Focus on high-priority items
 -   Easily navigate across tasks
 
-For more information, see [[fso-workspace|Workspaces]].
+For more information, see [Workspaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-workspace.md).
 
 <table id="table_qy1_452_wrb"><thead><tr><th>
 
@@ -80,7 +80,7 @@ Payment admin
 
 </td><td>
 
-Configures the payment workspace as per business requirements. For more information, see [[configure-csm-workspace-fso-apps|Configure CSM Configurable Workspace]].
+Configures the payment workspace as per business requirements. For more information, see [Configure CSM Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-csm-workspace-fso-apps.md).
 
 </td></tr></tbody>
 </table>## Automated workflows
@@ -99,8 +99,3 @@ Using the case playbook, payment contributor and agents review and work on their
 
 Performance Analytics give business owners an insight into how the team and business is performing. A dashboard with pre-configured reports and customizable views is available with the application.
 
-## Related
-
-- [[fso-workspace|Workspaces in Financial Services Operations]]
-- [[configure-csm-workspace-fso-apps|Configure CSM Configurable Workspace]]
-- [[payment-ops-landing-page|Financial Services Payment Operations]]

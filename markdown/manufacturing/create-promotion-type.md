@@ -12,7 +12,7 @@ breadcrumb: [Set up sales promotion, Configure, Manufacturing Commercial Operati
 
 # Create promotion type
 
-As a OEM or manufacturer, create a [[mco-sales-promotion|sales promotion]] type that is applicable to a specific set of promotions.
+As a OEM or manufacturer, create a sales promotion type that is applicable to a specific set of promotions.
 
 ## Before you begin
 
@@ -48,7 +48,7 @@ Input set
 
 </td><td>
 
-MCO input set. This field contains a set of questionnaires. To create an input set, see [[mco-create-input-set|Create promotion questionnaire]].
+MCO input set. This field contains a set of questionnaires. To create an input set, see [Create promotion questionnaire](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-create-input-set.md).
 
 </td></tr><tr><td>
 
@@ -61,7 +61,4 @@ Short description of the sales promotion type.
 </td></tr></tbody>
 </table>4.  Select **Save**.
 
-## Related
 
-- [[mco-create-input-set|Create promotion questionnaire]]
-- [[mco-sales-promotion|Sales promotion]]

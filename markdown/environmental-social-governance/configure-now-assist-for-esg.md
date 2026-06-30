@@ -19,7 +19,7 @@ If you have the admin role, you can configure the Now Assist for Operational Sus
 
 Use the Now Assist Admin console to configure Now Assist for Operational Sustainability. This console contains everything that you must install the plugins and configure the generative AI skills. For additional information, see [Now Assist Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configuring-now-assist.md).
 
-You can access the **[[ai-driven-document-intelligence-for-utility-invoices|Document Intelligence for Utility Invoices]]** skill from the Now Assist Admin console.
+You can access the **Document Intelligence for Utility Invoices** skill from the Now Assist Admin console.
 
 **Note:** Now LLM Service is the only provider for this Now Assist application's skills.
 
@@ -36,16 +36,10 @@ For information about the installation process, see [Install Now Assist plugins]
 
 **Note:** For more information on Retrieval Augmented Generation \(RAG\) and Retention policies, see [Indexed sources in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/indexed-sources-ais.md) and [User data usage policy for Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/user-data-usage-policy-now-assist.md).
 
--   **[[activate-the-document-intelligence-for-utility-invoices-skill|Activate the document intelligence for utility invoices skill]]**  
+-   **[Activate the document intelligence for utility invoices skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/activate-the-document-intelligence-for-utility-invoices-skill.md)**  
 Activate and then configure document intelligence for utility invoices skill from Now Assist to automate the extraction of metrics data from utility invoices. Once activated, map the extracted data to the correct metric definitions and entities.
--   **[[activate-carbon-calculations-agentic-workflow|Activate carbon calculations agentic workflow]]**  
+-   **[Activate carbon calculations agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/activate-carbon-calculations-agentic-workflow.md)**  
 Configure and activate the carbon calculation workflow that uses AI agents and tools. It automates the creation of calculated metric definition \(CMD\) records and formulas for Scope 3 carbon emissions.
 
-**Parent Topic:**[[now-assist-for-esg|Now Assist for Operational Sustainability \(formerly ESG\)]]
+**Parent Topic:**[Now Assist for Operational Sustainability \(formerly ESG\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/now-assist-for-esg.md)
 
-## Related
-
-- [[activate-the-document-intelligence-for-utility-invoices-skill|Activate the document intelligence for utility invoices skill]]
-- [[activate-carbon-calculations-agentic-workflow|Activate carbon calculations agentic workflow]]
-- [[now-assist-for-esg|Now Assist for Operational Sustainability \(formerly ESG\)]]
-- [[ai-driven-document-intelligence-for-utility-invoices|Document intelligence for utility invoices]]

@@ -14,7 +14,7 @@ breadcrumb: [Telecommunications Network Inventory]
 
 # Exploring Telecommunications Network Inventory
 
-Learn how the [[telecom-network-inventory|Telecommunications Network Inventory]] application can help your organization to create a digital representation of your physical and logical networks in the ServiceNow AI Platform.
+Learn how the Telecommunications Network Inventory application can help your organization to create a digital representation of your physical and logical networks in the ServiceNow AI Platform.
 
 ## Introduction to Telecommunications Network Inventory
 
@@ -24,7 +24,7 @@ The ServiceNow Configuration Management Database \(CMDB\) stores the network inv
 
 The following example shows the common uses of the Telecommunications Network Inventory application.
 
-\[Omitted image "source-of-truth-tni.png"\] Alt text: Infographic showing the key uses of Telecommunication Network inventory, such as the asset lifecycle management, service assurance, and [[telecommunications-circuit-design-resource-assignment|design and assign]].
+\[Omitted image "source-of-truth-tni.png"\] Alt text: Infographic showing the key uses of Telecommunication Network inventory, such as the asset lifecycle management, service assurance, and design and assign.
 
 Key uses of the Telecommunications Network Inventory application include:
 
@@ -151,7 +151,7 @@ Calculate the capacity of physical entities in your network to plan, monitor, an
 
 </td></tr><tr><td>
 
-Revise and [[operationalize-a-configuration-item|operationalize a Configuration Item]]
+Revise and operationalize a Configuration Item
 
 </td><td>
 
@@ -183,9 +183,3 @@ Get a converged experience for agents to view both incident/alert details and Ne
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[telecommunications-circuit-design-resource-assignment|Design and assign]]
-- [[operationalize-a-configuration-item|Operationalize a configuration item]]

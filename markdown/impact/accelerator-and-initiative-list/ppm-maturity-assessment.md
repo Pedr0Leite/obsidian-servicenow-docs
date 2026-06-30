@@ -18,7 +18,7 @@ This accelerator assesses your current Project Portfolio Management \(PPM\) proc
 
 ## Accelerator Overview
 
-Project Portfolio Management \(PPM\) Maturity Assessment provides [[impact-landing-page|Impact]] customers with prescriptive recommendations based on a structured assessment conducted by key stakeholders within the customer’s business. By offering customers a snapshot of their current process maturity and targeted next-step recommendations, this accelerator helps maximize the value of their ServiceNow investment.
+Project Portfolio Management \(PPM\) Maturity Assessment provides Impact customers with prescriptive recommendations based on a structured assessment conducted by key stakeholders within the customer’s business. By offering customers a snapshot of their current process maturity and targeted next-step recommendations, this accelerator helps maximize the value of their ServiceNow investment.
 
 ## Package Availability
 
@@ -34,13 +34,13 @@ Project Portfolio Management \(PPM\) Maturity Assessment provides [[impact-landi
 
     Your assessment participants will each be asked to independently fill out a pre-built PPM Maturity Assessment Questionnaire that asks them to grade targeted statements to assess gaps and opportunities with your PPM product.
 
--   **Questionnaire Results Analysis \(time determined by [[impact-squad|Impact Squad]], as needed\)**
+-   **Questionnaire Results Analysis \(time determined by Impact Squad, as needed\)**
 
     Your Impact Squad will:
 
     -   Review and analyze the questionnaire scores
     -   Compile tailored recommendations and leading practices
-    -   Provide guidance that will [[io-help|help]] you understand how to best maximize your PPM product investment
+    -   Provide guidance that will help you understand how to best maximize your PPM product investment
 -   **PPM Maturity Assessment report**
 
     The assessment report is a result of the questionnaire and input from our PPM leaders and includes the following:
@@ -139,8 +139,4 @@ We request that the PPM Maturity questionnaire is completed by the customer virt
 
 -   ServiceNow is not responsible for implementing the recommendations made based on the PPM Maturity Assessment.
 
-## Related
 
-- [[impact-landing-page|Impact]]
-- [[impact-squad|Impact Squad]]
-- [[io-help|Help]]

@@ -12,7 +12,7 @@ breadcrumb: [Use SIR Integration Builder, LLM-powered SIR integration builder, S
 
 # Use capabilities in SIR Workspace
 
-Use the capabilities created using [[now-assist-security-incident-landing|Now Assist for Security Incident Response]] integrations in the SIR Workspace.
+Use the capabilities created using Now Assist for Security Incident Response integrations in the SIR Workspace.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_si\_int\_kit.integration\_creator or sn\_si.analyst
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sir-workspace-landing-page|Security Incident Response Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Security Incident Response Workspace**.
 
 2.  From the list view, select any security incident record.
 
@@ -28,7 +28,7 @@ Role required: sn\_si\_int\_kit.integration\_creator or sn\_si.analyst
 
 4.  Select **Associated Observable** or **Configuration Items**.
 
-    The capabilities applicable to [[c_Observables|observables]] are available under the **Associated Observable** section. The capabilities applicable to configuration items are available under the **Configuration Items** section.
+    The capabilities applicable to observables are available under the **Associated Observable** section. The capabilities applicable to configuration items are available under the **Configuration Items** section.
 
 5.  Select the observables on which you want to execute the capabilities.
 
@@ -42,8 +42,4 @@ Role required: sn\_si\_int\_kit.integration\_creator or sn\_si.analyst
 
     The run\(\) method is called from the SIR Workspace.
 
-## Related
 
-- [[now-assist-security-incident-landing|Now Assist for Security Incident Response]]
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[c_Observables|Observables]]

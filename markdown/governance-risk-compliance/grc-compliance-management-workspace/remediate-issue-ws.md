@@ -20,9 +20,9 @@ After an issue has been identified, triaged, and investigated using the Complian
 
 Role required: \(per product\)
 
--   In [[r_PolicyComplianceMgmt|Policy and Compliance Management]]: compliance\_admin, compliance\_manager, or sn\_compliance.user
+-   In Policy and Compliance Management: compliance\_admin, compliance\_manager, or sn\_compliance.user
 -   In Risk Management: risk\_admin, risk\_manager, or sn\_risk.user
--   In [[c_GRCAudits|Audit Management]]: audit\_admin, audit\_manager, audit\_admin, or sn\_audit.user
+-   In Audit Management: audit\_admin, audit\_manager, audit\_admin, or sn\_audit.user
 
 ## About this task
 
@@ -64,7 +64,4 @@ Remediating an issue marks an intention to fix the underlying issue causing the 
 
 4.  Click **Submit**.
 
-## Related
 
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[c_GRCAudits|Audit Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Normalizing enterprise models, Managing enterprise models and asset
 
 # Import and export content data for Enterprise Asset Management
 
-[[import-export-ham|Import and export content data]] to the ServiceNow [[enterprise-asset-management|Enterprise Asset Management]] Content Service to improve the normalization process. On-premise users can use the Manage Enterprise Library module to import or export data via a zip file.
+Import and export content data to the ServiceNow Enterprise Asset Management Content Service to improve the normalization process. On-premise users can use the Manage Enterprise Library module to import or export data via a zip file.
 
 ## Before you begin
 
@@ -40,7 +40,7 @@ Role required: sn\_eam.enterprise\_admin
 
         After the data is imported, the content update schedule job,**EAM - Apply latest content changes**, is triggered to process the content updates.
 
-6.  Export content to send the custom data or any enterprise [[c_Models|models]] that are not fully normalized to the ServiceNow content service team.
+6.  Export content to send the custom data or any enterprise models that are not fully normalized to the ServiceNow content service team.
 
     1.  Select **Content Service Opt-in: Export Enterprise Normalization Content**.
 
@@ -56,8 +56,4 @@ Role required: sn\_eam.enterprise\_admin
 
     5.  Download and send this zip file to the ServiceNow content service team.
 
-## Related
 
-- [[import-export-ham|Import and export content data]]
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[c_Models|Models]]

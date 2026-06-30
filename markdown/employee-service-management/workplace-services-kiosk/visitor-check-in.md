@@ -18,7 +18,7 @@ Check in as a visitor by using an invite from an employee. If visitors have an e
 
 ## Before you begin
 
-**Note:** Visitor authentication options can be configured in [[workplace-visitor-mgmt-feat|Workplace Visitor Management]]. Navigate to Administration from the context menu, and select **[[page-configurations|Page Configurations]]** to configure visitor authentication options.
+**Note:** Visitor authentication options can be configured in Workplace Visitor Management. Navigate to Administration from the context menu, and select **Page Configurations** to configure visitor authentication options.
 
 Role required: sn\_wsd\_kiosk.viewer
 
@@ -66,7 +66,3 @@ Role required: sn\_wsd\_kiosk.viewer
 
 **Parent Topic:**[Using Workplace Services Kiosk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/use-workplace-services-kiosk.md)
 
-## Related
-
-- [[workplace-visitor-mgmt-feat|Workplace Visitor Management]]
-- [[page-configurations|Page configurations]]

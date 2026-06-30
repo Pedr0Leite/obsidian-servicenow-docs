@@ -18,13 +18,13 @@ You can create one or more customized alert list views that show only the inform
 
 ## Before you begin
 
-**Note:** The Operator Workspace interface is available only to customers who have upgraded from a release prior to the Utah release. New customers as of the Utah release can use the [[sow-landing-page-itom|Service Operations Workspace for ITOM]], which offers an enhanced UI for managing alerts.
+**Note:** The Operator Workspace interface is available only to customers who have upgraded from a release prior to the Utah release. New customers as of the Utah release can use the Service Operations Workspace for ITOM, which offers an enhanced UI for managing alerts.
 
 Role required: evt\_mgmt\_operator
 
 ## Procedure
 
-1.  Navigate to **[[c_EM|Event Management]]** &gt; **Operators Workspace**.
+1.  Navigate to **Event Management** &gt; **Operators Workspace**.
 
 2.  On the **Lists** tab, click **My Lists**.
 
@@ -41,7 +41,3 @@ Role required: evt\_mgmt\_operator
 
 **Parent Topic:**[Advanced tasks for the Event Management operator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-advanced-tasks.md)
 
-## Related
-
-- [[sow-landing-page-itom|Service Operations Workspace for ITOM]]
-- [[c_EM|Event Management]]

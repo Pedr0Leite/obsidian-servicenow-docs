@@ -34,7 +34,7 @@ You can use these tabs proactively without waiting to be contacted, for example,
 
 4.  Select a case for which you want to provide information.
 
-    For a description of the field values, see [[invoice-case-header-list-view|Invoice case details on the Business Portal]].
+    For a description of the field values, see [Invoice case details on the Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/invoice-case-header-list-view.md).
 
 5.  View the case history and add comments from the **Activity** tab.
 
@@ -46,12 +46,7 @@ You can use these tabs proactively without waiting to be contacted, for example,
 **Related topics**  
 
 
-[[order-management-configure-business-portal|Configuring the Business Portal]]
+[Configuring the Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-management-configure-business-portal.md)
 
-[[som-self-service-business-portal|Customer self-service for Sales Customer Relationship Management]]
+[Customer self-service for Sales Customer Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-self-service-business-portal.md)
 
-## Related
-
-- [[invoice-case-header-list-view|Invoice case details on the Business Portal]]
-- [[order-management-configure-business-portal|Configuring the Business Portal]]
-- [[som-self-service-business-portal|Customer self-service for Sales Customer Relationship Management]]

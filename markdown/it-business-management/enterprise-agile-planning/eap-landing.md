@@ -18,7 +18,7 @@ ServiceNow® Enterprise Agile Planning helps streamline communication and collab
 
 \[Omitted video\] Description: Enterprise Agile Planning overview. Approximately five minutes long.
 
-Enterprise Agile Planning \(EAP\) is available when you install the [[alignment-planner-workspace-landing-page|Strategic Planning]] application from ServiceNow Store using the SPM Pro license.
+Enterprise Agile Planning \(EAP\) is available when you install the Strategic Planning application from ServiceNow Store using the SPM Pro license.
 
 ## Get started
 
@@ -36,7 +36,7 @@ Enterprise Agile Planning \(EAP\) is available when you install the [[alignment-
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about EAP components like roles, tables, properties, [[form-field-information-for-dw|forms]], and lists.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/eap-reference.md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about EAP components like roles, tables, properties, forms, and lists.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/eap-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -45,7 +45,3 @@ Enterprise Agile Planning \(EAP\) is available when you install the [[alignment-
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[form-field-information-for-dw|Forms]]

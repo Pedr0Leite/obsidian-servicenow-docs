@@ -16,7 +16,7 @@ breadcrumb: [Create a case from a discussion, Configuring communities, Communiti
 
 Configure parameters for the case generated from the community discussion so that it can be routed accordingly.
 
-Creating a case from a discussion requires a configuration that maps information from the question in the community to fields on the [[r_CustomerServiceCaseForm|Case form]]. The **Create Case** configuration is included with the feature. This configuration defines the source and destination tables and maps source fields to destination fields. This configuration is stored in the CSM Table Map table \[csm\_table\_map\]. The system administrator can modify this configuration as needed.
+Creating a case from a discussion requires a configuration that maps information from the question in the community to fields on the Case form. The **Create Case** configuration is included with the feature. This configuration defines the source and destination tables and maps source fields to destination fields. This configuration is stored in the CSM Table Map table \[csm\_table\_map\]. The system administrator can modify this configuration as needed.
 
 The **Create Case** configuration uses the Social Q&amp;A Question table \[kb\_social\_qa\_question\] as the source table and the Case table \[sn\_customerservice\_case\] as the destination table. It includes the following mapping information.
 
@@ -33,6 +33,3 @@ To create additional mapping between these tables, add the additional fields to 
 
 **Parent Topic:**[Create a case from a discussion](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/case-management-integration.md)
 
-## Related
-
-- [[r_CustomerServiceCaseForm|Case form]]

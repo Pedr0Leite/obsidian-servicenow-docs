@@ -18,7 +18,7 @@ Provide your consent by signing a document, directly from Employee Center. This 
 
 ## Before you begin
 
-Role required: sn\_shop.shopper, [[supplier|supplier]]
+Role required: sn\_shop.shopper, supplier
 
 ## Procedure
 
@@ -43,6 +43,3 @@ You can view the completed task in the **Completed** tab.
 
 **Parent Topic:**[Sourcing and Procurement Operations integration with Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/employee-center-integration-psm.md)
 
-## Related
-
-- [[supplier|Supplier]]

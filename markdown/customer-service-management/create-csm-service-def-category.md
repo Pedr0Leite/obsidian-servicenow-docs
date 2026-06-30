@@ -12,7 +12,7 @@ breadcrumb: [Configuring service definitions, Service definitions, Case manageme
 
 # Create a service definition category
 
-Create a service definition category record in the [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) application. Then use the category to create logical groupings of [[csm-service-definitions|service definitions]].
+Create a service definition category record in the Customer Service Management \(CSM\) application. Then use the category to create logical groupings of service definitions.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_csm\_case\_types.service\_definition\_manager, sn\_csm\_case\
 
 A category can have one or more associated service definitions and a service definition can belong to multiple categories.
 
-When an agent is using the [[csm-case-type-select-modals|case type selector]] to create a case, they can select a category before selecting a service. The category acts as a filtering mechanism and reduces the number of available services.
+When an agent is using the case type selector to create a case, they can select a category before selecting a service. The category acts as a filtering mechanism and reduces the number of available services.
 
 ## Procedure
 
@@ -40,7 +40,7 @@ When an agent is using the [[csm-case-type-select-modals|case type selector]] to
 
 5.  In the **Order** field, add an order number for the category.
 
-    The order value determines the order in which the categories are displayed in the case type selector and [[csm-case-task-type-select-modal|case task type selector]]. The category with the lowest value is displayed first.
+    The order value determines the order in which the categories are displayed in the case type selector and case task type selector. The category with the lowest value is displayed first.
 
     The default value is 100. You do not have to set an order value for a category. If a category does not have a value, the system displays the category in the case type selector in alphabetical order.
 
@@ -57,12 +57,5 @@ When an agent is using the [[csm-case-type-select-modals|case type selector]] to
 
 ## Result
 
-After creating a service definition category, you can [[service-def-category-associate-service|associate service definitions with the category]]. These associated service definitions are stored in the Service Definition Category Relationships related list.
+After creating a service definition category, you can [associate service definitions with the category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/service-def-category-associate-service.md). These associated service definitions are stored in the Service Definition Category Relationships related list.
 
-## Related
-
-- [[service-def-category-associate-service|Associate a service definition with a service definition category]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[csm-service-definitions|Service definitions]]
-- [[csm-case-type-select-modals|Case type selector]]
-- [[csm-case-task-type-select-modal|Case task type selector]]

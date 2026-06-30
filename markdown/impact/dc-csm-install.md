@@ -16,9 +16,9 @@ To enable the Data Collection Pack, you must install dependent plugins and activ
 
 ## Before you begin
 
-The CSM Success Metric Definitions in this application rely on another application.Ensure that the required plugins are installed if they are not already installed. For more information, see [[dc-install-plugins|Install Impact Value Management Data Collection Content Pack Apps dependent plugins]].
+The CSM Success Metric Definitions in this application rely on another application.Ensure that the required plugins are installed if they are not already installed. For more information, see [Install Impact Value Management Data Collection Content Pack Apps dependent plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-install-plugins.md).
 
-Role required: [[impact-landing-page|Impact]] user
+Role required: Impact user
 
 ## Procedure
 
@@ -36,7 +36,4 @@ Role required: [[impact-landing-page|Impact]] user
 
     See [Install Impact Value Management Data Collection Content Pack Apps dependent plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-install-plugins.md).
 
-## Related
 
-- [[dc-install-plugins|Install Impact Value Management Data Collection Content Pack Apps dependent plugins]]
-- [[impact-landing-page|Impact]]

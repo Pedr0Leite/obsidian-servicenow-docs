@@ -22,7 +22,7 @@ Role required: sn\_eam.enterprise\_admin or sn\_eam.enterprise\_asset\_manager
 
 ## Procedure
 
-1.  From the [[using-eam-workspace|Enterprise Asset Workspace]], open the Enterprise [[asset-estate-view-am|asset estate view]].
+1.  From the Enterprise Asset Workspace, open the Enterprise asset estate view.
 
 2.  Select either the **All enterprise** tab or the tab for a specific enterprise asset category, such as **Facility assets**.
 
@@ -52,7 +52,3 @@ Role required: sn\_eam.enterprise\_admin or sn\_eam.enterprise\_asset\_manager
 
 **Parent Topic:**[Create and manage enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-manage-enterprise-assets.md)
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[asset-estate-view-am|Asset estate view]]

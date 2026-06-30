@@ -14,7 +14,7 @@ breadcrumb: [Reference, Talent Profile, Hiring Experiences, HR Service Delivery,
 
 # Talent pool form
 
-The field descriptions provided are required to create a [[talent-pool-overview|talent pool]].
+The field descriptions provided are required to create a talent pool.
 
 |Field|Description|
 |-----|-----------|
@@ -27,6 +27,3 @@ The field descriptions provided are required to create a [[talent-pool-overview|
 |Description|Detailed description of the requirement of the talent pool.|
 |Attachments|Section to attach relevant documents or use or create different templates.|
 
-## Related
-
-- [[talent-pool-overview|Talent pool]]

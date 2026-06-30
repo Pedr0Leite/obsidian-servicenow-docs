@@ -14,7 +14,7 @@ breadcrumb: [Monitor connections, Manage API data connections, API Insights, Con
 
 # Create an API data connection for a Service Graph Connector within API Insights
 
-Create an API data connection added for a Service Graph Connector within [[api-insights|API Insights]].
+Create an API data connection added for a Service Graph Connector within API Insights.
 
 ## Before you begin
 
@@ -30,6 +30,4 @@ Role required: sn\_cmdb\_admin and cmdb\_inst\_admin
 
 4.  On the Create connection window, select a connector type for importing API data and then follow the playbook instructions to create a connection.
 
-## Related
 
-- [[api-insights|API Insights]]

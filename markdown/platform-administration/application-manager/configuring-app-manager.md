@@ -15,22 +15,16 @@ breadcrumb: [Application Manager, Administering applications, Get started, Admin
 
 # Configuring Application Manager
 
-Set up and configure [[application-manager|Application Manager]].
+Set up and configure Application Manager.
 
 ## Configuration overview
 
-Application Manager is a ServiceNow AI Platform feature that is active by default. You don't need to [[t_ActivateAPlugin|activate a plugin]].
+Application Manager is a ServiceNow AI Platform feature that is active by default. You don't need to activate a plugin.
 
-By default, the Available for you page of the Application Manager automatically synchronizes with the [[servicenow-store|ServiceNow Store]] every 24 hours. For information about deactivating auto sync with the ServiceNow Store, see [Deactivating automatic synchronization with the ServiceNow Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/turning-autosync-off-app-mgr.md).
+By default, the Available for you page of the Application Manager automatically synchronizes with the ServiceNow Store every 24 hours. For information about deactivating auto sync with the ServiceNow Store, see [Deactivating automatic synchronization with the ServiceNow Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/turning-autosync-off-app-mgr.md).
 
 -   **[Deactivating automatic synchronization with the ServiceNow Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/turning-autosync-off-app-mgr.md)**  
 By default, the Application Manager in hosted ServiceNow AI Platform instances syncs automatically with available applications and updates from the ServiceNow Store. Automatic synchronization can be deactivated so you can receive updates only when you choose to.
 
-**Parent Topic:**[[administering-applications|Administering applications]]
+**Parent Topic:**[Administering applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/administering-applications.md)
 
-## Related
-
-- [[administering-applications|Administering applications]]
-- [[application-manager|Application Manager]]
-- [[t_ActivateAPlugin|Activate a plugin]]
-- [[servicenow-store|ServiceNow Store]]

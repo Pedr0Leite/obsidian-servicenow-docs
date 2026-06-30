@@ -14,11 +14,11 @@ breadcrumb: [Configuring Cloud Services Catalog Terraform Connector, Cloud Servi
 
 # Create a Terraform Enterprise or Terraform Cloud config provider
 
-Create Terraform Enterprise or Terraform Cloud config provider in [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]. The config provider enables Cloud Provisioning and Governance to discover the workspaces and Version Control System \(VCS\) repositories attached to the Terraform organization.
+Create Terraform Enterprise or Terraform Cloud config provider in Cloud Provisioning and Governance. The config provider enables Cloud Provisioning and Governance to discover the workspaces and Version Control System \(VCS\) repositories attached to the Terraform organization.
 
 ## Before you begin
 
--   Ensure that a supported Terraform Enterprise or Terraform Cloud version is in use. [[cpg-terraform-connector-landing-page|Cloud Services Catalog Terraform Connector]] supports the following Terraform versions:
+-   Ensure that a supported Terraform Enterprise or Terraform Cloud version is in use. Cloud Services Catalog Terraform Connector supports the following Terraform versions:
     -   Terraform Enterprise versions 1.1.9 and 1.2.0 or higher
     -   Terraform Cloud versions 1.1.9 and 1.2.0 or higher
 -   To use a minor or patch version of the Terraform Enterprise or Terraform Cloud, ensure that the minor or patch version is added to the workload config provider. For more information, see [Add support for minor or patch versions of the Terraform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/terraform-use-minor-patch-version-cli.md).
@@ -43,7 +43,7 @@ Role required: admin
 
 2.  Create a config provider for Terraform Enterprise or Terraform Cloud.
 
-    1.  On the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Manage** &gt; **Config Management**.
+    1.  On the Cloud Admin Portal, navigate to **Manage** &gt; **Config Management**.
 
     2.  Select **New**.
 
@@ -58,8 +58,3 @@ Role required: admin
 
 Discover the workspaces and Version Control System \(VCS\) repositories attached to the Terraform organization specified in the config provider. For more information, see [Run the IaC Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/discover-terraform-config-installables-vcs-workspaces.md).
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[cpg-terraform-connector-landing-page|Cloud Services Catalog Terraform Connector]]
-- [[cloud-admin-portal|Cloud Admin Portal]]

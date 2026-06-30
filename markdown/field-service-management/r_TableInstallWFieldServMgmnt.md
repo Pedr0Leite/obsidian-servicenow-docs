@@ -12,7 +12,7 @@ breadcrumb: [Components installed, Reference, Field Service Management]
 
 # Tables installed with Field Service Management
 
-Tables are provided with the [[fsm-application-landing-page|Field Service Management]] application.
+Tables are provided with the Field Service Management application.
 
 <table id="table_FieldServiceManagement"><thead><tr><th>
 
@@ -102,7 +102,7 @@ Work Order Task Potential Assignment Groups\[wm\_work\_order\_task\_potential\_a
 
 Calculates and stores the potential assignment group if there are multiple assignment groups that can be serviced for a work order task. **Note:** This is applicable only when:
 
--   The **sn\_fsm.update\_potential\_assignment\_groups** [[r_PropInstallWFieldServMgmnt|system property]] is set to true.
+-   The **sn\_fsm.update\_potential\_assignment\_groups** [system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/r_PropInstallWFieldServMgmnt.md) is set to true.
 -   More than one assignment group is found for the location.
 -   Territory model is inactive.
 
@@ -131,10 +131,5 @@ Resource Schedule Attributes\[wm\_agent\_schedule\_attribute\_plan\]
 Stores the attributes like start date, end date, start location, end location, shift hours etc of agents.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[r_InstalledWithFSM|Components installed with Field Service Management]]
+</table>**Parent Topic:**[Components installed with Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/r_InstalledWithFSM.md)
 
-## Related
-
-- [[r_PropInstallWFieldServMgmnt|Properties installed with Field Service Management]]
-- [[r_InstalledWithFSM|Components installed with Field Service Management]]
-- [[fsm-application-landing-page|Field Service Management]]

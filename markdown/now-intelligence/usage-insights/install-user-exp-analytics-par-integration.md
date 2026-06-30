@@ -14,7 +14,7 @@ breadcrumb: [Exploring Usage Insights, Usage Insights, Platform Analytics]
 
 # View Usage Insights data in custom data visualizations
 
-You can graphically represent [[user-exp-analytics-landing|Usage Insights]] data in your custom Next Experience pages and inline dashboards once you install the Usage Insights Performance Analytics Integration  plugin from the  ServiceNow Store.
+You can graphically represent Usage Insights data in your custom Next Experience pages and inline dashboards once you install the Usage Insights Performance Analytics Integration  plugin from the  ServiceNow Store.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin
 
 Usage Insights data can be selected as a data source in your  Performance Analytics dashboards.
 
-To learn more about the available data sources and visualizations, see [[uxa-data-sources|Usage Insights data sources for data visualizations]].
+To learn more about the available data sources and visualizations, see [Usage Insights data sources for data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/uxa-data-sources.md).
 
 ## Procedure
 
@@ -39,7 +39,3 @@ To learn more about the available data sources and visualizations, see [[uxa-dat
 
 **Parent Topic:**[Exploring Usage Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/exploring-user-exp-analytics.md)
 
-## Related
-
-- [[uxa-data-sources|Usage Insights data sources for data visualizations]]
-- [[user-exp-analytics-landing|Usage Insights]]

@@ -14,7 +14,7 @@ breadcrumb: [Advanced AI Search Management Tools, Search administration, Configu
 
 # AI Search Profile dashboard
 
-The AI Search Profile dashboard summarizes indexed record counts and search query traffic associated with a search profile defined in [[ia-ai-search|AI Search]]. Interactive filters enable users to choose a search profile and select the time frame for analysis of search query traffic.
+The AI Search Profile dashboard summarizes indexed record counts and search query traffic associated with a search profile defined in AI Search. Interactive filters enable users to choose a search profile and select the time frame for analysis of search query traffic.
 
 \[Omitted image "adv-ais-mgmt-dashboard-profile.png"\] Alt text: AI Search Profile dashboard.
 
@@ -45,6 +45,3 @@ For examples of how different people in your organization would use this dashboa
 |Queries by Application|Bar \[Omitted image "column-icon.png"\] Alt text:|sys\_search\_event|Shows the number of search queries that used the selected search profile in the selected query time frame, grouped by search application.|
 |Queries Run Against This Profile|Line \[Omitted image "line-icon.png"\] Alt text:|sys\_search\_event|Shows the number of search queries that used the selected search profile in the selected query time frame, grouped by month.|
 
-## Related
-
-- [[ia-ai-search|AI Search]]

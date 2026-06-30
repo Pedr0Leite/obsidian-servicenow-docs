@@ -63,7 +63,7 @@ Based on the scan results on various stages of pipeline's execution, the results
 
 **Note:**
 
-Navigate to the pipeline UI to view the scan details under the **Quality** &gt; **[[dev-ops-software-quality-results|Software Quality Results]]**.
+Navigate to the pipeline UI to view the scan details under the **Quality** &gt; **Software Quality Results**.
 
 -   View scan details as part of Task Executions. View details of all the Sonar scans that are part of the task execution mapped to a build or release pipeline execution step.
 
@@ -79,6 +79,4 @@ Navigate to the pipeline UI to view the scan details under the **Quality** &gt; 
     3.  Click a relevant Scan ID record.
     The Software Quality Scan Summary and Scan Details are displayed.
 
-## Related
 
-- [[dev-ops-software-quality-results|Software Quality Results]]

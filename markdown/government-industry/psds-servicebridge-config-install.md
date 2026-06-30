@@ -12,7 +12,7 @@ breadcrumb: [Service Exchange, Case Management, Configure agent workspaces, Conf
 
 # Configure Service Exchange for Public Sector Digital Services
 
-To set up and configure the [[servicebridge-psds-exploring|Service Exchange for Public Sector Digital Services]] application, follow these steps.
+To set up and configure the Service Exchange for Public Sector Digital Services application, follow these steps.
 
 <table id="table_xkj_nxd_yxb"><thead><tr><th>
 
@@ -28,15 +28,15 @@ Install the Service Exchange for Public Sector Digital Services application.
 
 </td><td>
 
-See [[psds-servicebridge-config-install-prov|Install Service Exchange for Public Sector Digital Services]].
+See [Install Service Exchange for Public Sector Digital Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-servicebridge-config-install-prov.md).
 
 </td></tr><tr><td>
 
-Set up the [[gsp-overview-public-sector|Government Service Portal]], the consumer-facing portal for Public Sector Digital Services.
+Set up the Government Service Portal, the consumer-facing portal for Public Sector Digital Services.
 
 </td><td>
 
-See [[customize-government-service-portal|Customize the Government Service Portal]].
+See [Customize the Government Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/customize-government-service-portal.md).
 
 </td></tr><tr><td>
 
@@ -68,7 +68,7 @@ Set up a Service Bridge connection between a Provider and a Consumer.
 
 </td><td>
 
-See [[psds-servicebridge-config-connect-prov-consu|Connect a provider instance to a consumer instance]].
+See [Connect a provider instance to a consumer instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-servicebridge-config-connect-prov-consu.md).
 
 </td></tr><tr><td>
 
@@ -128,11 +128,3 @@ See [Update settings for authorized users](https://raw.githubusercontent.com/Ser
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[psds-servicebridge-config-install-prov|Install Service Exchange for Public Sector Digital Services]]
-- [[customize-government-service-portal|Customize the Government Service Portal]]
-- [[psds-servicebridge-config-connect-prov-consu|Set up a Service Exchange connection between a Provider and a Consumer]]
-- [[servicebridge-psds-exploring|Service Exchange for Public Sector Digital Services]]
-- [[gsp-overview-public-sector|Government Service Portal]]

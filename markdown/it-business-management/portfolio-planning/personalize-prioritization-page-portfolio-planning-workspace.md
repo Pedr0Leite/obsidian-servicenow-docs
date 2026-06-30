@@ -25,9 +25,9 @@ Role required: sn\_align\_core.apw\_user
 
 ## About this task
 
-This task provides guidance on different options to [[personalize-backlog-in-alignment-planner-workspace|personalize the Prioritization view]] of the Planning page.
+This task provides guidance on different options to personalize the Prioritization view of the Planning page.
 
-Personalization preferences are saved as the portfolio plan's settings in [[portfolio-planning-app-landing-page|Portfolio Planning]]. So, these settings are applied to all the users or user groups that the portfolio plan is shared with.
+Personalization preferences are saved as the portfolio plan's settings in Portfolio Planning. So, these settings are applied to all the users or user groups that the portfolio plan is shared with.
 
 ## Procedure
 
@@ -120,7 +120,4 @@ Select the Column actions icon \(\[Omitted image "icon-column-actions.png"\] Alt
 
 10. [Apply quick filters for Prioritization and Roadmap data in Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/quick-fiters-prioitization-roadmap-ppw.md)
 
-## Related
 
-- [[personalize-backlog-in-alignment-planner-workspace|Personalize the Prioritization view]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

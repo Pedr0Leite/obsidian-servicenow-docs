@@ -14,7 +14,7 @@ breadcrumb: [Create workflow state, Configure, Compliance Case Management, Gover
 
 # Workflow State form
 
-Use the Workflow State form to define the workflow states in the GRC: [[compliance-case-management|Compliance Case Management]] application.
+Use the Workflow State form to define the workflow states in the GRC: Compliance Case Management application.
 
 See the following table for a description of the field values.
 
@@ -105,6 +105,3 @@ Parent state for the sub-level state. This field appears only when **As sub-leve
 </td></tr></tbody>
 </table>**Parent Topic:**[Create a workflow state for a compliance case or request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/create-workflow-state.md)
 
-## Related
-
-- [[compliance-case-management|compliance case management]]

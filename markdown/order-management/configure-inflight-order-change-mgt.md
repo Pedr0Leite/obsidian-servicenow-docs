@@ -14,31 +14,23 @@ breadcrumb: [Order management, Configure, Sales Customer Relationship Management
 
 You can use inflight change order management to manage the receipt of changes for customer or service orders that are still in the process of being orchestrated and fulfilled.
 
-Inflight change order management handles modifications to orders that are already in progress after submission but before fulfillment is complete. This capability is essential for real-world scenarios where customers need to adjust quantities, swap products, change configurations, or [[cancel|cancel]] portions of an order while fulfillment activities are already underway.
+Inflight change order management handles modifications to orders that are already in progress after submission but before fulfillment is complete. This capability is essential for real-world scenarios where customers need to adjust quantities, swap products, change configurations, or cancel portions of an order while fulfillment activities are already underway.
 
 Inflight change order management enables you to decide when you permit such changes to ongoing orders, assesses the impact of the requested changes for an order, and automatically generates a compensation plan for them.
 
-**Note:** Characteristic, Contact, Quantity, or Price inflight revision types are standard in the ServiceNow AI Platform but you can define additional ones as per the requirements of your enterprise. To learn more, see the "Types of Inflight order changes" section in the [[inflight-order-change-mgt-overview|Managing inflight order changes and cancellation requests]].
+**Note:** Characteristic, Contact, Quantity, or Price inflight revision types are standard in the ServiceNow AI Platform but you can define additional ones as per the requirements of your enterprise. To learn more, see the "Types of Inflight order changes" section in the [Managing inflight order changes and cancellation requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/inflight-order-change-mgt-overview.md).
 
--   **[[define-inflight-order-change-types|Create additional inflight order change types]]**  
+-   **[Create additional inflight order change types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/define-inflight-order-change-types.md)**  
 Define your own enterprise-specific inflight order change types that are used to categorize revisions or requests for cancellations, product orders, service orders, and their related line items.
--   **[[configuring-order-tasks-respond-to-inflight-revision-cancellation-requests|Configuring order tasks to respond to inflight revision and cancellation requests]]**  
+-   **[Configuring order tasks to respond to inflight revision and cancellation requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configuring-order-tasks-respond-to-inflight-revision-cancellation-requests.md)**  
 Configure your order task records to respond to inflight order changes and cancellation requests using Workflow Studio.
 
-**Parent Topic:**[[order-mgt-configuring|Configuring Order Management]]
+**Parent Topic:**[Configuring Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-configuring.md)
 
 **Related topics**  
 
 
-[[explore-order-management|Order management]]
+[Order management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-order-management.md)
 
 [Managing inflight order changes and cancellation requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/inflight-order-change-mgt-overview.md)
 
-## Related
-
-- [[inflight-order-change-mgt-overview|Managing inflight order changes and cancellation requests]]
-- [[define-inflight-order-change-types|Create additional inflight order change types]]
-- [[configuring-order-tasks-respond-to-inflight-revision-cancellation-requests|Configuring order tasks to respond to inflight revision and cancellation requests]]
-- [[order-mgt-configuring|Configuring Order Management]]
-- [[explore-order-management|Order management]]
-- [[cancel|Cancel]]

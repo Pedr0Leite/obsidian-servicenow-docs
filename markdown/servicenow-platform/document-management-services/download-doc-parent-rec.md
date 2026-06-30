@@ -22,7 +22,7 @@ Role required: none
 
 ## About this task
 
-**Note:** To [[downloading-a-document|download a document]], the version file type must be an [[attachment|attachment]] and not a URL.
+**Note:** To download a document, the version file type must be an attachment and not a URL.
 
 ## Procedure
 
@@ -37,7 +37,3 @@ Role required: none
 
 **Parent Topic:**[Linking documents to a parent record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/doc-linked-parent-rec.md)
 
-## Related
-
-- [[downloading-a-document|Download a document]]
-- [[attachment|Attachment]]

@@ -14,11 +14,11 @@ breadcrumb: [Alert management rules for resolving alerts, Manage and monitor ale
 
 # Event Management subflows in the base system
 
-The subflows provided with the base system appear in the [[ccg-remediation|Remediation]] Subflows area of alert management rules.
+The subflows provided with the base system appear in the Remediation Subflows area of alert management rules.
 
 ## Accessing the subflows
 
-Navigate to **[[c_EM|Event Management]]** &gt; **Rules** &gt; **Alert Management Rules** and click **New**. Click the **Actions** tab. In the Remediation Subflows area, double-click the **Insert a new row** field.
+Navigate to **Event Management** &gt; **Rules** &gt; **Alert Management Rules** and click **New**. Click the **Actions** tab. In the Remediation Subflows area, double-click the **Insert a new row** field.
 
 \[Omitted image "new-subflow.png"\] Alt text: Specify subflow
 
@@ -76,7 +76,7 @@ Subflow to create an incident. Fields from the alert are used to populate the ma
 
 -   If there is an existing incident that is attached to the alert, this subflow is not activated.
 -   If the alert is in Maintenance, an incident is not created.
--   The alert management job runs even if the [[c_ServiceAnalyticsOverview|alert grouping]] job is not complete, if a specified time frame has passed. When this occurs, you can enable the **Avoid INTs on secondary alerts** rule to prevent incidents from being created for secondary alerts \(when the **evt\_mgmt.avoid\_int\_enabled** property is enabled\), since an incident already exists for the primary alert.
+-   The alert management job runs even if the alert grouping job is not complete, if a specified time frame has passed. When this occurs, you can enable the **Avoid INTs on secondary alerts** rule to prevent incidents from being created for secondary alerts \(when the **evt\_mgmt.avoid\_int\_enabled** property is enabled\), since an incident already exists for the primary alert.
 
 </td></tr><tr><td>
 
@@ -154,13 +154,7 @@ This subflow applies the alert template.This subflow is provided for instances t
     .
 
 
-To automate alert responses with an easier interface, you can also create a respond automation in [[workspace-dashboard-use|Service Operations Workspace]]. For more information, see [Create Respond automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/respond-alert-sow-itom.md).
+To automate alert responses with an easier interface, you can also create a respond automation in Service Operations Workspace. For more information, see [Create Respond automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/respond-alert-sow-itom.md).
 
 **Parent Topic:**[Alert management rules for resolving alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/alert-management-rule.md)
 
-## Related
-
-- [[ccg-remediation|Remediation]]
-- [[c_EM|Event Management]]
-- [[c_ServiceAnalyticsOverview|Alert grouping]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

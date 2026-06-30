@@ -14,7 +14,7 @@ breadcrumb: [Shodan integration, Security Incident Response integrations, Securi
 
 # Verify expected results for Shodan
 
-[[c_Observables|Observables]] are generated automatically by a security incident and scanned by the application. Enrichment results are displayed on the **[[tisc-observable-enrichment|Observable Enrichment]] Results** and **Network Banners** tabs.
+Observables are generated automatically by a security incident and scanned by the application. Enrichment results are displayed on the **Observable Enrichment Results** and **Network Banners** tabs.
 
 ## Before you begin
 
@@ -45,7 +45,3 @@ If you don't see results under the **Observable Enrichment Results** and **Netwo
 
 **Next topic:**[\(Optional\) Manually attach an observable for Shodan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/manually-attach-an-observable-shodan.md)
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[tisc-observable-enrichment|Observable Enrichment]]

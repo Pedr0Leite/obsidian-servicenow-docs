@@ -14,7 +14,7 @@ breadcrumb: [Risk assessment, Analyze change request risk and impact, Reference,
 
 # Perform risk assessment
 
-You can perform risk assessment of existing change requests after the [[c_RskAsmtCalc|risk assessment]] criteria are defined. After assessing the risk, you can view the risk assessment responses in the change request.
+You can perform risk assessment of existing change requests after the risk assessment criteria are defined. After assessing the risk, you can view the risk assessment responses in the change request.
 
 ## Before you begin
 
@@ -57,6 +57,3 @@ The **Risk Assessment** related link is available only when the change request m
 
 [Risk assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/c_RskAsmtCalc.md)
 
-## Related
-
-- [[c_RskAsmtCalc|Risk assessment]]

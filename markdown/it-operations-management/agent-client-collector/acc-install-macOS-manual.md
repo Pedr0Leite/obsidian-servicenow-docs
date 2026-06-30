@@ -14,7 +14,7 @@ breadcrumb: [ACC installation on a macOS system, ACC deployment - endpoints, Con
 
 # Manually install Agent Client Collector on macOS
 
-Install [[acc-landing-page|Agent Client Collector]] manually on a machine that uses macOS when the agent is not connected to the instance or you want enhanced customization options.
+Install Agent Client Collector manually on a machine that uses macOS when the agent is not connected to the instance or you want enhanced customization options.
 
 ## Before you begin
 
@@ -96,6 +96,3 @@ Role required: agent\_client\_collector\_admin
 
 **Parent Topic:**[Agent Client Collector installation on a macOS system](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-install-mac-os.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

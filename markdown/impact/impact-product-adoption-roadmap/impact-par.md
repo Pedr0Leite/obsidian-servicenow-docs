@@ -18,11 +18,11 @@ Product adoption roadmaps enable you to view a recommended implementation sequen
 
 ## PAR overview
 
-The [[product-adoption|product adoption]] roadmap was initially only available to [[impact-landing-page|Impact]] Advanced, and Total customers. In the Yokohama release, the product adoption roadmap feature is also available to Impact-Guided customers.
+The product adoption roadmap was initially only available to Impact Advanced, and Total customers. In the Yokohama release, the product adoption roadmap feature is also available to Impact-Guided customers.
 
 You can create a product adoption roadmap using pre-defined templates aligned to your business needs and products.
 
-As an Advanced or Total customer, your [[impact-squad|Impact squad]] collaborates with you to determine the optimal implementation sequence tailored to your unique business needs. As soon as your Impact squad creates your PAR, you receive a notification.
+As an Advanced or Total customer, your Impact squad collaborates with you to determine the optimal implementation sequence tailored to your unique business needs. As soon as your Impact squad creates your PAR, you receive a notification.
 
 While multiple users can view the Product Adoption Roadmap simultaneously, only one user can make edits at a time. When the roadmap is being edited, it is locked for others. When the product adoption roadmap is in locked status, you can see who is currently editing it and reach out to them to collaborate or request them to exit the roadmap.
 
@@ -39,8 +39,3 @@ You can explore your roadmap further and edit in the following ways:
 -   Manage capabilities for each phase.
 -   Connect capabilities to objectives.
 
-## Related
-
-- [[product-adoption|Product Adoption]]
-- [[impact-landing-page|Impact]]
-- [[impact-squad|Impact Squad]]

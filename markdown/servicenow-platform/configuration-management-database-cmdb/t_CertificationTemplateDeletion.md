@@ -14,7 +14,7 @@ breadcrumb: [Certification templates, CMDB Compliance, Configuration Management 
 
 # Delete a Certification template
 
-[[c_CertificationTemplates|Certification templates]] can be deleted.
+Certification templates can be deleted.
 
 ## About this task
 
@@ -34,6 +34,4 @@ Only users with the certification\_admin or admin role can delete template versi
 
     The system deletes only template versions that are not used in an audit. All protected versions are named in a message that appears in the header bar.
 
-## Related
 
-- [[c_CertificationTemplates|Certification templates]]

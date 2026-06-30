@@ -34,7 +34,7 @@ As an ESG administrator and ESG program manager, you must begin by setting up th
 
 ## Defining metrics
 
-As an [[esg-metrics|ESG metrics]] administrator, establish a comprehensive data collection process to gather relevant sustainability data across all operations. The data can be collected using metric definitions. The three types of metric definitions are [[types-of-metric-definitions|manual, calculated, and automated]]. Identify the key operational sustainability metrics aligned with industry best practices, such as carbon emissions, energy consumption, waste management, employee diversity, workplace safety, supply chain sustainability, and corporate governance. Ensure data accuracy by implementing appropriate tracking systems and engaging relevant stakeholders such as data providers for manual metrics.
+As an ESG metrics administrator, establish a comprehensive data collection process to gather relevant sustainability data across all operations. The data can be collected using metric definitions. The three types of metric definitions are [manual, calculated, and automated](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/types-of-metric-definitions.md). Identify the key operational sustainability metrics aligned with industry best practices, such as carbon emissions, energy consumption, waste management, employee diversity, workplace safety, supply chain sustainability, and corporate governance. Ensure data accuracy by implementing appropriate tracking systems and engaging relevant stakeholders such as data providers for manual metrics.
 
 ## Measurement reporting
 
@@ -48,10 +48,5 @@ As an ESG program manager, develop an operational sustainability reporting frame
 
 As an ESG disclosure manager, using the collected data, generate an annual sustainability report. The report provides a comprehensive overview of the company's sustainability performance, including quantitative and qualitative data. Highlight the achievements, challenges, goals, and future initiatives related to environmental impact, social responsibility, and corporate governance.
 
-**Parent Topic:**[[esg-new-explore|Exploring Operational Sustainability Management \(formerly ESG Management\)]]
+**Parent Topic:**[Exploring Operational Sustainability Management \(formerly ESG Management\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/esg-new-explore.md)
 
-## Related
-
-- [[types-of-metric-definitions|Types of metric definitions]]
-- [[esg-new-explore|Exploring Operational Sustainability Management \(formerly ESG Management\)]]
-- [[esg-metrics|esg metrics]]

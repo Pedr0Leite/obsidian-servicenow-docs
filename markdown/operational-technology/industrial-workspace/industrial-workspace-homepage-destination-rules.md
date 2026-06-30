@@ -14,11 +14,11 @@ breadcrumb: [Use, Industrial Workspace, Operational Technology]
 
 # Industrial Workspace homepage destination rules
 
-Depending on your assigned roles, you're redirected to different pages in the [[industrial-workspace-for-operational-technology|Industrial Workspace]] with homepage destination rules. This helps you access the data that you need more quickly and efficiently.
+Depending on your assigned roles, you're redirected to different pages in the Industrial Workspace with homepage destination rules. This helps you access the data that you need more quickly and efficiently.
 
 ## Homepage destination rules overview
 
-Each destination rule redirects different OT users to different pages on the Industrial Workspace based on their assigned role or roles. Some roles may not have access to the data on one page, so redirecting users to a page where data is available to view helps them better navigate the Industrial Workspace. For example, users with only the [[operational-technology-overview|Operational Technology]] Editor \[cmdb\_ot\_editor\] role can't view data on the OT Action-Oriented Landing Page, so they only see the an empty landing page. Instead, they're redirected to the Industrial Workspace Lists, where they can view the applicable OT device data.
+Each destination rule redirects different OT users to different pages on the Industrial Workspace based on their assigned role or roles. Some roles may not have access to the data on one page, so redirecting users to a page where data is available to view helps them better navigate the Industrial Workspace. For example, users with only the Operational Technology Editor \[cmdb\_ot\_editor\] role can't view data on the OT Action-Oriented Landing Page, so they only see the an empty landing page. Instead, they're redirected to the Industrial Workspace Lists, where they can view the applicable OT device data.
 
 ## Industrial Workspace homepage destination rule descriptions
 
@@ -58,7 +58,7 @@ The OT Progress Scorecard rule takes users with the roles described in the rule 
 
 </td></tr><tr><td>
 
-Industrial Workspace [[home-page|Home Page]]
+Industrial Workspace Home Page
 
 </td><td>
 
@@ -88,7 +88,7 @@ cmdb\_ot\_viewer + cmdb\_ot\_isa\_viewer
 
 </td><td>
 
-The OT Dashboard Library Page rule takes users with the roles described in the rule directly to the OT Visibility dashboard when they log in.**Note:** The OT Dashboard Library Page rule only displays if [[operational-technology-manager|Operational Technology Manager]] is installed.
+The OT Dashboard Library Page rule takes users with the roles described in the rule directly to the OT Visibility dashboard when they log in.**Note:** The OT Dashboard Library Page rule only displays if Operational Technology Manager is installed.
 
 </td></tr><tr><td>
 
@@ -104,7 +104,7 @@ cmdb\_ot\_isa\_viewer
 
 </td><td>
 
-The ISA Equipment Model Page rule takes users with the roles described in the rule directly to the Equipment Model Manager when they log in.**Note:** The ISA Equipment Model Page rule only displays if [[industrial-process-manager-overview|Industrial Process Manager]] is installed.
+The ISA Equipment Model Page rule takes users with the roles described in the rule directly to the Equipment Model Manager when they log in.**Note:** The ISA Equipment Model Page rule only displays if Industrial Process Manager is installed.
 
 </td></tr><tr><td>
 
@@ -125,10 +125,3 @@ The Industrial Workspace List Page rule takes users with the roles described in 
 </td></tr></tbody>
 </table>**Parent Topic:**[Using the Industrial Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/using-industrial-workspace.md)
 
-## Related
-
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[operational-technology-overview|Operational Technology]]
-- [[home-page|Home page]]
-- [[operational-technology-manager|Operational Technology Manager]]
-- [[industrial-process-manager-overview|Industrial Process Manager]]

@@ -24,7 +24,7 @@ Role required: sn\_cmdb\_admin
 
 ## About this task
 
-These workspace-specific configuration settings affect all users of the CMDB [[cmdb-workspace-unified-map|Unified Map]] page. The settings don't affect other copies of the Unified Map template. Non-admin users can customize some aspects of their personal experience with Unified Map, but can't configure instance-wide workspace-specific settings.
+These workspace-specific configuration settings affect all users of the CMDB Unified Map page. The settings don't affect other copies of the Unified Map template. Non-admin users can customize some aspects of their personal experience with Unified Map, but can't configure instance-wide workspace-specific settings.
 
 Class profiles let you configure the **Layers** filter. Several common classes such as the mapped application service \(service instance\) \[cmdb\_ci\_service\_discovered\] class are preconfigured with class profiles.
 
@@ -117,6 +117,3 @@ Option to set the profile as available for use.
 
 [Create or manage a user preset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/unified-map-manage-preset-filter.md)
 
-## Related
-
-- [[cmdb-workspace-unified-map|Unified Map]]

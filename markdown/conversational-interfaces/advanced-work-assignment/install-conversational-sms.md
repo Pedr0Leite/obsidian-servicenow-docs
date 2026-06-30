@@ -14,7 +14,7 @@ breadcrumb: [Configure, Advanced Work Assignment, Manage people and work, Conver
 
 # Install Conversational SMS service channel
 
-You can install the [[conversation-sms-service-channel-store-app|Conversational SMS service channel]] application \(sn\_awa\_sms\_int\) if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Conversational SMS service channel application \(sn\_awa\_sms\_int\) if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -28,11 +28,11 @@ Role required: admin
 
 ## About this task
 
-**Note:** The Conversational SMS service channel is automatically installed with an application that implements an SMS provider, such as the [[sms-twilio-store-app|Conversational SMS Integration with Twilio]] \(sn\_va\_sms\_twilio\) application. For more information, see [Install Conversational SMS Integration with Twilio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/install-sms-twilio.md).
+**Note:** The Conversational SMS service channel is automatically installed with an application that implements an SMS provider, such as the Conversational SMS Integration with Twilio \(sn\_va\_sms\_twilio\) application. For more information, see [Install Conversational SMS Integration with Twilio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/install-sms-twilio.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[awa-application-landing-page|Advanced Work Assignment]]** &gt; **Home**.
+1.  Navigate to **All** &gt; **Advanced Work Assignment** &gt; **Home**.
 
 2.  In the Available Plugins section, select **Conversational SMS**.
 
@@ -45,8 +45,3 @@ Role required: admin
 
 [Set up the Conversational SMS service channel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/configure-conversational-sms.md)
 
-## Related
-
-- [[conversation-sms-service-channel-store-app|Conversational SMS service channel]]
-- [[sms-twilio-store-app|Conversational SMS Integration with Twilio]]
-- [[awa-application-landing-page|Advanced Work Assignment]]

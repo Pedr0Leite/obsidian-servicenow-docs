@@ -12,7 +12,7 @@ breadcrumb: [Configure Now Assist for CSM Major Issue Management, Configure case
 
 # Install Now Assist for CSM Major Issue Management
 
-You can install the [[na-for-csm-major-issue-management|Now Assist for CSM Major Issue Management]] application \(sn\_csm\_mim\_gen\_ai\) if you have the admin role.The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Now Assist for CSM Major Issue Management application \(sn\_csm\_mim\_gen\_ai\) if you have the admin role.The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -47,6 +47,4 @@ Role required: admin
 
 6.  Select **Install**.
 
-## Related
 
-- [[na-for-csm-major-issue-management|Now Assist for CSM Major Issue Management]]

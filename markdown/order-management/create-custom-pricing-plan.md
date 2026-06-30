@@ -12,7 +12,7 @@ breadcrumb: [Configurable pricing plans, Product pricing, Configure, price, quot
 
 # Create a configurable pricing plan
 
-Create a configurable pricing plan by copying the default pricing plan provided in [[pricing-management|Pricing Management]].
+Create a configurable pricing plan by copying the default pricing plan provided in Pricing Management.
 
 ## Before you begin
 
@@ -45,9 +45,5 @@ Role required: sn\_csm\_pricing\_pricelist\_administrator, sn\_csm\_pricing\_pri
 
 ## What to do next
 
-[[add-pricing-step|Add or change a pricing plan step]].
+[Add or change a pricing plan step](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/add-pricing-step.md).
 
-## Related
-
-- [[add-pricing-step|Add or change a pricing plan step]]
-- [[pricing-management|Pricing Management]]

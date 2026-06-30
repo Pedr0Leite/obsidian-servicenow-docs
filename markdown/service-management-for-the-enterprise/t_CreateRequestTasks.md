@@ -140,8 +140,5 @@ Information about the task as it progresses through each state. Work notes are n
 </table>    **Note:** The workflow appears at the top of the form, with the completed states shown in green.
 
 
-**Parent Topic:**[[c_RequestTasksMgmt|Request task management]]
+**Parent Topic:**[Request task management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_RequestTasksMgmt.md)
 
-## Related
-
-- [[c_RequestTasksMgmt|Request task management]]

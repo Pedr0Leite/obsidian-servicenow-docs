@@ -45,7 +45,7 @@ $navpage-button-color-hover: #82C9B8
     
 ```
 
-**Parent Topic:**[[c_CSSThemeSupport|CSS theme support]]
+**Parent Topic:**[CSS theme support](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_CSSThemeSupport.md)
 
 **Related topics**  
 
@@ -54,6 +54,3 @@ $navpage-button-color-hover: #82C9B8
 
 [Create or customize a theme]()
 
-## Related
-
-- [[c_CSSThemeSupport|CSS theme support]]

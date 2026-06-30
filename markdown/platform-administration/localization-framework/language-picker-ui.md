@@ -14,11 +14,11 @@ breadcrumb: [Request translations, Localization Framework, Translation and local
 
 # Request translations
 
-The [[localization-framework-landing|Localization Framework]] enables you to select one or more activated languages while requesting translations for artifacts.
+The Localization Framework enables you to select one or more activated languages while requesting translations for artifacts.
 
 ## Request translations in the Localization Framework
 
--   Define [[ia-localization-il|localization]] preferences for the languages available in the instance to request translations.
+-   Define localization preferences for the languages available in the instance to request translations.
 -   Lists only the activated languages in the instance to choose for localization of the content.
 
     **Note:** Before you request for translations, ensure to activate all the required languages in the instance. For more information, see [Activate a language](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/t_ActivateALanguage.md).
@@ -46,7 +46,3 @@ Request adhoc translations for Service Catalog items to localize them from Engli
 
 [Approve a localization task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/approve-localization-task.md)
 
-## Related
-
-- [[localization-framework-landing|Localization Framework]]
-- [[ia-localization-il|Localization]]

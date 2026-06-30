@@ -22,7 +22,7 @@ Role required: none.
 
 ## Starting a Sidebar discussion
 
-Follow this procedure to start a [[sidebar-landing|Sidebar]] discussion:
+Follow this procedure to start a Sidebar discussion:
 
 ## Procedure
 
@@ -95,6 +95,4 @@ Select the More options icon \[Omitted image "ci\_more\_options\_icon.png"\] Alt
     -   If the user selects the message preview card, the corresponding message displays with the exact message containing the @mention highlighted.
 7.  To close the discussion dialog \(but not exit the discussion\), select the Close icon \[Omitted image "sidebar-x-icon.png"\] Alt text: Close icon..
 
-## Related
 
-- [[sidebar-landing|Sidebar]]

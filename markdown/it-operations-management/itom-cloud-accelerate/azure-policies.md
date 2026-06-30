@@ -14,7 +14,7 @@ breadcrumb: [Cloud Configuration Governance reference, Cloud Configuration Gover
 
 # Azure policies
 
-The [[cloud-configuration-governance|Cloud Configuration Governance]] [[aws-policies|AWS policies]] are listed for your reference.
+The Cloud Configuration Governance AWS policies are listed for your reference.
 
 <table id="table_ify_b3v_t2c"><thead><tr><th>
 
@@ -425,7 +425,3 @@ The TLS\(Transport Layer Security\) protocol secures transmission of data over t
 </td></tr></tbody>
 </table>**Parent Topic:**[Cloud Configuration Governance reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/ccg-reference.md)
 
-## Related
-
-- [[cloud-configuration-governance|Cloud Configuration Governance]]
-- [[aws-policies|AWS policies]]

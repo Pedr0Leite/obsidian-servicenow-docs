@@ -22,7 +22,7 @@ Role required: sn\_cwm.cwm\_user
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[cwm-landing|Collaborative Work Management]]**.
+1.  Navigate to **Workspaces** &gt; **Collaborative Work Management**.
 
 2.  From a Space, select the Board that you want to manage the connected work item types for.
 
@@ -57,6 +57,3 @@ The Board is refreshed to load the work items based on your changes.
 
 **Parent Topic:**[Connected work in CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/unified-boards-for-connected-work-in-cwm.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

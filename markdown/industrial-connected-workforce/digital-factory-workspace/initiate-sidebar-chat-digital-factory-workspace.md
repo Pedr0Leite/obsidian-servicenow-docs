@@ -22,7 +22,7 @@ Role required: sn\_icw.user
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Digital Factory Workspace**.
 
 2.  Open the task or standard for which you want to initiate a sidebar discussion.
 
@@ -39,6 +39,3 @@ Added participants are notified. They can join the discussion by selecting the *
 
 **Parent Topic:**[Using Digital Factory Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/using-digital-factory-workspace.md)
 
-## Related
-
-- [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]

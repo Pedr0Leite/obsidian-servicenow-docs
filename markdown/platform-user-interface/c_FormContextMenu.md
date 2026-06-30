@@ -25,27 +25,21 @@ The form context menu includes the following options.
 |Save|Saves changes without leaving the form view.|
 |Related actions|Provides standard actions in the form context menu for some tables, such as **Add to Visual Task Board** or **Create Change** in incident.|
 |Insert|Saves the data as a new record and returns to the previously viewed page.|
-|Insert and Stay|Saves and displays the new record. For more information about inserting records, see [[t_EditingInForms|Edit a form]].|
-|Configure|Provides administrative functions, such as configuring [[form-configurable-workspace|forms]].|
+|Insert and Stay|Saves and displays the new record. For more information about inserting records, see [Edit a form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_EditingInForms.md).|
+|Configure|Provides administrative functions, such as configuring forms.|
 |Export|Exports data to PDF. Administrators can also export to XML. For more information, see [Export data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ExportData.md).|
 |View|Changes fields to a predefined layout. Switching views submits the form, which saves all changes. Administrators can customize views.|
-|Create Favorite|\([[c_UI16|Core UI]] only\) Adds the current record to your favorites list, represented by a star icon on the tab.|
+|Create Favorite|\(Core UI only\) Adds the current record to your favorites list, represented by a star icon on the tab.|
 |Copy URL|Copies to the clipboard the URL for the form view of the record. Follow browser instructions if browser security measures restrict this function.|
 |Copy sys\_id|Administrators only. Copies to the clipboard the sys\_id of the record. Follow browser instructions if browser security measures restrict this function.|
 |Show XML|Administrators only. Displays record data in XML format.|
 |History|Administrators only. Displays audit history for the record, which must be enabled for the table. For more information, see [Enable auditing for a table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_EnableAuditingForATable.md).|
 |Reload Form|Reloads information from the database to refresh the form view.|
 
-**Parent Topic:**[[c_UsingForms|Forms in the classic environment]]
+**Parent Topic:**[Forms in the classic environment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_UsingForms.md)
 
 **Related topics**  
 
 
 [UI actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_UIActions.md)
 
-## Related
-
-- [[t_EditingInForms|Edit a form]]
-- [[c_UsingForms|Forms in the classic environment]]
-- [[form-configurable-workspace|Forms]]
-- [[c_UI16|Core UI]]

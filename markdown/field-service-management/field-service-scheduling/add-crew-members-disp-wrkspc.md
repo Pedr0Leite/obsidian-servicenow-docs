@@ -14,7 +14,7 @@ breadcrumb: [Crew operations, Using Dispatcher Workspace, Assigning tasks from D
 
 # Add Field Service crew members in Dispatcher Workspace
 
-Add agents to the Field Service crew as needed in [[dispatcher-activities|Dispatcher Workspace]].
+Add agents to the Field Service crew as needed in Dispatcher Workspace.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ You can add crew members on the run for undersized crew tasks, such as agent is 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fsm-application-landing-page|Field Service Management]]** &gt; **Dispatching** &gt; **Dispatcher Workspace**.
+1.  Navigate to **All** &gt; **Field Service Management** &gt; **Dispatching** &gt; **Dispatcher Workspace**.
 
 2.  Click **Dispatcher Workspace**.
 
@@ -58,7 +58,3 @@ You can add crew members on the run for undersized crew tasks, such as agent is 
 
 The members are added to the crew.
 
-## Related
-
-- [[dispatcher-activities|Dispatcher Workspace]]
-- [[fsm-application-landing-page|Field Service Management]]

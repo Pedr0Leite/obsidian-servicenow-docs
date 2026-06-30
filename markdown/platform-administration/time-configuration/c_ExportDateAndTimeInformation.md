@@ -18,9 +18,9 @@ Because some export formats are intended for human consumption and others for da
 
 ## Excel
 
-Date, Date-Time, and Time fields are all exported as their [[c_DisplayValues|display values]], and appear in a custom format, instead of the system date format. However, duration fields, export as the value stored in the database, which is an integer value of seconds.
+Date, Date-Time, and Time fields are all exported as their display values, and appear in a custom format, instead of the system date format. However, duration fields, export as the value stored in the database, which is an integer value of seconds.
 
-**Note:** If the date and time format is `hh:mm:ss` in the **glide.sys.date\_format** [[r_SetArchiveRuleProcessingBehavior|System Properties]] setting, and you export time values to Excel, they appear in 24-hour military time.
+**Note:** If the date and time format is `hh:mm:ss` in the **glide.sys.date\_format** System Properties setting, and you export time values to Excel, they appear in 24-hour military time.
 
 To display the exported values in standard 12-hour am/pm time formats, select the `1:30PM time` format in **Format Cells** &gt; **Time** in Excel.
 
@@ -38,7 +38,3 @@ All Date and Time fields export as the value stored in the database.
 
 **Parent Topic:**[Date and Date/Time fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/r_UseDateAndTimeFields.md)
 
-## Related
-
-- [[c_DisplayValues|Display values]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

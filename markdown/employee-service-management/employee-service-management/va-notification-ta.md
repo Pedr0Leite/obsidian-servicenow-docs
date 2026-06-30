@@ -10,7 +10,7 @@ reading_time_minutes: 1
 
 # Virtual Agent notifications
 
-Virtual Agent notifications help the [[hiring-tab-concept|hiring]] manager and the recruiter remain updated about the recent changes in their requisitions and corresponding applications keeping the communication channel smooth.
+Virtual Agent notifications help the hiring manager and the recruiter remain updated about the recent changes in their requisitions and corresponding applications keeping the communication channel smooth.
 
 ## Virtual Agent for the hiring manager
 
@@ -18,7 +18,7 @@ Virtual Agent notifications help the [[hiring-tab-concept|hiring]] manager and t
 
     When a recruiter is assigned to a requisition.
 
-    When a field in a [[new-job-form|job requisition form]] is updated.
+    When a field in a job requisition form is updated.
 
     When the state of the job requisition changes.
 
@@ -33,13 +33,13 @@ You can:
 
 -   **For job requisitions you receive notifications**
 
-    When a hiring manager leaves a message for the recruiter from the [[activity-lxp|activity]] stream of the [[hiring-dashboard|Hiring tab]].
+    When a hiring manager leaves a message for the recruiter from the activity stream of the Hiring tab.
 
     When the State of the job requisition changes. The recruiter receives a notification for self-made changes too.
 
 -   **For job applications you receive notifications**
 
-    when an applicant leaves a message from the [[applicant-center-concept|Applicant Center]].
+    when an applicant leaves a message from the Applicant Center.
 
 
 You can:
@@ -59,10 +59,3 @@ For more information on setting up Virtual Agent with Microsoft Teams, see [Conf
 
 **Parent Topic:**[Notifications in Hiring Experiences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/notifications-ta.md)
 
-## Related
-
-- [[hiring-tab-concept|Hiring]]
-- [[new-job-form|Job requisition form]]
-- [[activity-lxp|Activity]]
-- [[hiring-dashboard|Hiring tab]]
-- [[applicant-center-concept|Applicant Center]]

@@ -17,13 +17,13 @@ AI Security Exposure Management is a part of the Unified Security Exposure Manag
 
 ## AI Security Exposure Management overview
 
-With the rapid growth and adoption of AI in enterprises, a new attack surface emerging in the form of AI security exposures, that includes open source AI model [[vulnerabilities|vulnerabilities]] and AI model behavioral risks with harmful prompts that could result in security breaches and data loss during runtime. In addition, AI [[threat-intelligence-infrastructure|infrastructure]] configuration issues might exist in AI agents, data sets, or any other type of AI assets in your environment.
+With the rapid growth and adoption of AI in enterprises, a new attack surface emerging in the form of AI security exposures, that includes open source AI model vulnerabilities and AI model behavioral risks with harmful prompts that could result in security breaches and data loss during runtime. In addition, AI infrastructure configuration issues might exist in AI agents, data sets, or any other type of AI assets in your environment.
 
 AI Security Exposure Management can help your organization efficiently manage AI security exposures such as AI model vulnerabilities, harmful AI model behavior, and AI infrastructure configuration issues.
 
-Use the [[ai-security-exposure-skill-agent|Guardrails Detector skill]] to identify existing guardrails that can mitigate some of the AI validation findings that indicate risky behavior of the AI application or model.
+Use the [Guardrails Detector skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/ai-security-exposure-skill-agent.md) to identify existing guardrails that can mitigate some of the AI validation findings that indicate risky behavior of the AI application or model.
 
-Use an [[ai-security-exposure-use-agent|agentic workflow]]AI to automate the deferral of findings that have mitigations or guardrails and create exception rules to auto-defer future findings.
+Use an [agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/ai-security-exposure-use-agent.md)AI to automate the deferral of findings that have mitigations or guardrails and create exception rules to auto-defer future findings.
 
 With AI Security Exposure Management, vulnerability managers can prioritize high risk exposures and defer low risk exposures that might have mitigations or guardrails already in place. This prioritization ultimately helps vulnerability management teams optimize remediation workflows to help them reduce the meantime to remediate their high risk exposures.
 
@@ -42,11 +42,11 @@ Navigate to **Workspaces** &gt; **Security Exposure Management** &gt; **AI Expos
     -   AI Posture Finding \(AIPF\)
 -   **AI validation findings**
 
-    Findings from third-party automated [[pen_test_overview_avm|penetration testing]] or automated red teaming done to verify the behavior of AI applications or models by validating them against their prompt libraries. For example, third-party vendors test AI applications for issues like Personally Identifiable Information \(PII\) leakage.
+    Findings from third-party automated penetration testing or automated red teaming done to verify the behavior of AI applications or models by validating them against their prompt libraries. For example, third-party vendors test AI applications for issues like Personally Identifiable Information \(PII\) leakage.
 
 -   **AI posture findings**
 
-    Configuration issues in AI agents, [[tools|tools]], prompts, MCP servers that are detected by third-party AI security tools in various platforms such as Microsoft Copilot Studio, AWS, and others.
+    Configuration issues in AI agents, tools, prompts, MCP servers that are detected by third-party AI security tools in various platforms such as Microsoft Copilot Studio, AWS, and others.
 
 -   **Service Graph Connector**
 
@@ -85,23 +85,12 @@ As an example, consider a vulnerability analyst and a vulnerability team that is
 
 To learn more about configuring and using AI Security Exposure Management, see:
 
--   [[ai-security-exposure-home|Viewing AI Exposures]]
--   [[ai-security-exposure-install-config|Install and configure AI Security Exposure Management]]
+-   [Viewing AI Exposures](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/ai-security-exposure-home.md)
+-   [Install and configure AI Security Exposure Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/ai-security-exposure-install-config.md)
 -   [Using the AI guardrails helper skill and agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/ai-security-exposure-skill-agent.md)
 
 -   **[Using the AI guardrails helper skill and agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/ai-security-exposure-skill-agent.md)**  
 You have the option to use a generative AI skill and agentic workflow to help you understand what type of findings you have, understand the guardrails associated with findings, and see why the skill to mapped guardrails to particular findings.
 
-**Parent Topic:**[[using-unified-security-exposure-management|Using Unified Security Exposure Management]]
+**Parent Topic:**[Using Unified Security Exposure Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/using-unified-security-exposure-management.md)
 
-## Related
-
-- [[ai-security-exposure-skill-agent|Using the AI guardrails helper skill and agentic workflow]]
-- [[ai-security-exposure-use-agent|Use the AI guardrails helper agentic workflow]]
-- [[ai-security-exposure-home|Viewing AI Exposures]]
-- [[ai-security-exposure-install-config|Install and configure AI Security Exposure Management]]
-- [[using-unified-security-exposure-management|Using Unified Security Exposure Management]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[threat-intelligence-infrastructure|Infrastructure]]
-- [[pen_test_overview_avm|Penetration testing]]
-- [[tools|Tools]]

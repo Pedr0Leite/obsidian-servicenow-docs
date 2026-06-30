@@ -14,13 +14,13 @@ breadcrumb: [Microsoft Defender for Endpoint, Service Graph Connectors, Integrat
 
 # Configure Service Graph Connector for Microsoft Defender Endpoint using SGC Central
 
-Set up scheduled import jobs to pull in Microsoft Defender for Endpoint data into your [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]].
+Set up scheduled import jobs to pull in Microsoft Defender for Endpoint data into your Configuration Management Database \(CMDB\).
 
 ## Before you begin
 
 Complete the following tasks:
 
--   Install [[sgc-cmdb-integration-msdefender|Service Graph Connector for Microsoft Defender Endpoint]] version 1.1.0 or later from the ServiceNow Store. For ServiceNow Store installation steps, see [Install a ServiceNow Store application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/installing-applications-in-application-manager.md).
+-   Install Service Graph Connector for Microsoft Defender Endpoint version 1.1.0 or later from the ServiceNow Store. For ServiceNow Store installation steps, see [Install a ServiceNow Store application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/installing-applications-in-application-manager.md).
 -   Verify that you have an active subscription to Microsoft Defender for Endpoint.
 -   Verify that you have created an Azure application to get programmatic access to Microsoft Defender for Endpoint. See [Create an app to access Microsoft Defender for Endpoint without a user](https://learn.microsoft.com/en-us/defender-endpoint/api/exposed-apis-create-app-webapp?view=o365-worldwide) in the Microsoft 365 documentation.
 -   Obtain the tenant ID, client ID, and client secret details for the Microsoft Defender for Endpoint administrator account.
@@ -33,11 +33,11 @@ Role required: The following table shows the roles required for each stage of th
 |Prerequisites|admin|
 |Setup|SGC-Admin \(sn\_cmdb\_int\_util.sgc\_admin\) or admin|
 
-**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for [[cmdb-sgc-available|Service Graph Connectors]], see [Service Graph Connector user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md).
+**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md).
 
 ## About this task
 
-The playbook experience for onboarding connectors is activated with [[sgcc-landing|SGC Central]] in the [[sg-workspace|Service Graph Workspace]] or CMDB Workspace. To configure the SGC Central application, see [[sgcc-configuring|Configuring SGC Central]] and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/playbook-ui.md).
+The playbook experience for onboarding connectors is activated with SGC Central in the Service Graph Workspace or CMDB Workspace. To configure the SGC Central application, see [Configuring SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-configuring.md) and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/playbook-ui.md).
 
 ## Procedure
 
@@ -55,7 +55,7 @@ The playbook experience for onboarding connectors is activated with [[sgcc-landi
 
 4.  Complete the initial prerequisites when setting up a connection for the first time using a connector.
 
-    **Note:** This step is required only during the first-time setup. See [[sgcc-first-time-setup|Perform initial setup tasks when creating a connection in SGC Central]].
+    **Note:** This step is required only during the first-time setup. See [Perform initial setup tasks when creating a connection in SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-first-time-setup.md).
 
 5.  Enter connection details and test the API connection for importing Microsoft Defender for Endpoint data.
 
@@ -111,7 +111,7 @@ Where *&lt;tenantid&gt;* is the tenant ID of your Microsoft Defender for Endpoin
 
 </td></tr><tr><td>
 
-Use [[mid-server-landing|MID Server]]
+Use MID Server
 
 </td><td>
 
@@ -123,7 +123,7 @@ Mid Selection
 
 </td><td>
 
-Name of the MID Server used by the connector.This field appears only when the **Use MID Server** [[check-box|check box]] is selected.
+Name of the MID Server used by the connector.This field appears only when the **Use MID Server** check box is selected.
 
 </td></tr></tbody>
 </table>    3.  Select **Update and test connection**.
@@ -164,14 +164,3 @@ Select **View all connections** to review the connection details. The configured
 
 [Accessing the connection details of Service Graph Connector for Microsoft Defender Endpoint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-msdefender-conn.md)
 
-## Related
-
-- [[sgcc-configuring|Configuring SGC Central]]
-- [[sgcc-first-time-setup|Perform initial setup tasks when creating a connection in SGC Central]]
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[sgc-cmdb-integration-msdefender|Service Graph Connector for Microsoft Defender Endpoint]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[sgcc-landing|SGC Central]]
-- [[sg-workspace|Service Graph Workspace]]
-- [[mid-server-landing|MID Server]]
-- [[check-box|Check box]]

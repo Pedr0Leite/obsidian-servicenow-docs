@@ -18,19 +18,19 @@ Add an approval definition so that you can implement an approval process that is
 
 ## Before you begin
 
-**Important:** Starting with [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] version 2.1.2, the approval options function as follows:
+**Important:** Starting with Workplace Reservation Management version 2.1.2, the approval options function as follows:
 
 -   For existing customers, it was possible to configure approval functionality on the Reservable module to approve reservations. After the upgrade, this possibility remains the same until a new approval definition is configured using the following procedure. After you configure a new approval definition, the approval process will run based on the upgrade.
 
     After the upgrade, disable the **WSD Reservation Approval Flow** in the **Flow designer**.
 
--   For new customers, the following procedure explains how to [[configure-approval-to-fulfill-hr-service|configure an approval]] definition to [[approve-or-reject-reservation|approve a reservation]].
+-   For new customers, the following procedure explains how to configure an approval definition to approve a reservation.
 
 Role required: sn\_wsd\_core.admin
 
 ## Procedure
 
-1.  Navigate to **[[workplace-safety-mgmt-hr|Workplace Core]]** &gt; **Administration** &gt; **Approval Definitions**.
+1.  Navigate to **Workplace Core** &gt; **Administration** &gt; **Approval Definitions**.
 
 2.  Click **New**.
 
@@ -106,9 +106,3 @@ Add approvers to approve the reservations that match the approval definition. Fo
 
 **Parent Topic:**[Create a workplace performer criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/create-workplace-performer-criteria.md)
 
-## Related
-
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[configure-approval-to-fulfill-hr-service|Configure an approval]]
-- [[approve-or-reject-reservation|Approve a reservation]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]

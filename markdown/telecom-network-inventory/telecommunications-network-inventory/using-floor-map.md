@@ -14,7 +14,7 @@ breadcrumb: [Network visualization view, Use, Telecommunications Network Invento
 
 # Floor map
 
-Use the floor map in the [[telecom-network-inventory|Telecommunications Network Inventory]] application to view the datacenters floor details and monitor the operational data.
+Use the floor map in the Telecommunications Network Inventory application to view the datacenters floor details and monitor the operational data.
 
 -   **[Upload and manage floor map for your datacenter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-floor-map-data-center.md)**  
 Create, manage, and update your datacenter map objects in the Indoor Mapping Map Studio interface. You can view the datacenter's network infrastructure in Telecommunications Network Inventory application.
@@ -27,11 +27,7 @@ Use the floor map in the Telecommunications Network Inventory application to vie
 -   **[Print a floor map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/print-floor-map.md)**  
 Print the entire canvas of the floor map based on your map selection in the Telecommunications Network Inventory application. You can use it as a reference to view the floor map details.
 -   **[Open floor map from an incident or alert](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/open-floor-map-incident-alert.md)**  
-Open datacenter floor map from an incident or alert in [[service-operations-workspace-network-inventory|Service Operations Workspace for Telecommunications Network Inventory]]. You can view the affected hardware details in the floor map.
+Open datacenter floor map from an incident or alert in Service Operations Workspace for Telecommunications Network Inventory. You can view the affected hardware details in the floor map.
 
 **Parent Topic:**[Network visualization view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/using-network-visualization.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[service-operations-workspace-network-inventory|Service Operations Workspace for Telecommunications Network Inventory]]

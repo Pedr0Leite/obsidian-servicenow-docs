@@ -18,7 +18,7 @@ Create XML sitemaps for web crawlers to index your public portal pages and impro
 
 ## Before you begin
 
-Add SEO information to portal pages, such as meta [[c_Tags|tags]] that improve the searchability of [[c_ServicePortal|Service Portal]] pages. For more information, see [Improving search engine optimization for portals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/seo-sp.md).
+Add SEO information to portal pages, such as meta tags that improve the searchability of Service Portal pages. For more information, see [Improving search engine optimization for portals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/seo-sp.md).
 
 Review the "Sitemap requirements" section of the [Sitemap Generator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/sitemap-generator/sitemap-generator.md) documentation topic to determine what content should be in the sitemap.
 
@@ -26,7 +26,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[sitemap-generator|Sitemap Generator]]** &gt; **Sitemap Configuration**.
+1.  Navigate to **All** &gt; **Sitemap Generator** &gt; **Sitemap Configuration**.
 
 2.  In the UX Sitemap Configurations \[sys\_ux\_seo\_sitemap\_config\] table, select **New**.
 
@@ -38,7 +38,7 @@ Role required: admin
     |Description|A description of the sitemap contents.|
     |Active|Option for whether the sitemap is automatically generated.|
 
-4.  From the [[c_FormContextMenu|form context menu]], select **Save**.
+4.  From the form context menu, select **Save**.
 
 5.  From the **Sitemap Config Definition** tab, select **New**.
 
@@ -95,7 +95,7 @@ The approximate frequency at which the page is updated.
 
     You can create multiple sitemap definitions with any combination of types that combine to create the sitemap. For example, you could include both static XML and dynamic content from a script or you could include content from multiple scripts.
 
-9.  [[configure-onboarding-modals|Configure]] the number of URL elements to include per sitemap page to control how many pages are in your sitemap.
+9.  Configure the number of URL elements to include per sitemap page to control how many pages are in your sitemap.
 
     By default, 750 URLs are included per sitemap page. For URLs with **hreflang** tags, you should limit the number of URLs per page to the default value of 750 URLs.
 
@@ -121,7 +121,7 @@ The approximate frequency at which the page is updated.
 
     1.  Navigate to **All** &gt; **System Logs** &gt; **System Log** &gt; **Application Logs**.
 
-    2.  In the [[c_ConditionBuilder|condition builder]], enter the filter **\[App Scope\] \[is\] \[Sitemap Generator\] AND \[Message\] \[starts with\] \[The given URL\]**.
+    2.  In the condition builder, enter the filter **\[App Scope\] \[is\] \[Sitemap Generator\] AND \[Message\] \[starts with\] \[The given URL\]**.
 
         The **Message** field includes the excluded URLs. For example, "The given URL `https://<instance>/kb?id=kb_article_view` is not public".
 
@@ -132,11 +132,3 @@ All active sitemaps automatically regenerate once a day and include content from
 
 **Parent Topic:**[Sitemap Generator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/sitemap-generator/sitemap-generator.md)
 
-## Related
-
-- [[c_Tags|Tags]]
-- [[c_ServicePortal|Service Portal]]
-- [[sitemap-generator|Sitemap Generator]]
-- [[c_FormContextMenu|Form context menu]]
-- [[configure-onboarding-modals|Configure]]
-- [[c_ConditionBuilder|Condition builder]]

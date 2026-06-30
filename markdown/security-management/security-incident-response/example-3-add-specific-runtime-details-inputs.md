@@ -16,7 +16,7 @@ breadcrumb: [Examples, Unified experience framework, SIR Workspace Orchestration
 
 Add specific runtime details inputs to an implementation, Run Additional Actions.
 
-You can perform **Run Additional Actions** related [[integration-capabilities|integration capabilities]] action using the **Investigation** tab from the SIR Workspace.
+You can perform **Run Additional Actions** related integration capabilities action using the **Investigation** tab from the SIR Workspace.
 
 1.  On the **Investigation** tab, navigate to the **Entry Points Lists** section displayed on the left side of the page.
 2.  Select the respective entry point and run the integration capability action.
@@ -29,9 +29,9 @@ You can perform **Run Additional Actions** related [[integration-capabilities|in
 **Related topics**  
 
 
-[Example 1: [[implementation-selection|Select implementations]]: Threat Lookup]()
+[Example 1: Select implementations: Threat Lookup]()
 
-[Example 2: [[common-inputs|Common Inputs]]: Sighting Search]()
+[Example 2: Common Inputs: Sighting Search]()
 
 ## Add specific inputs to an implementation
 
@@ -45,7 +45,7 @@ The available implementations are listed. Select the implementation\(s\), after 
 
 ### Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sir-workspace-landing-page|Security Incident Response Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Security Incident Response Workspace**.
 
 2.  Open any security incident.
 
@@ -96,9 +96,4 @@ The available implementations are listed. Select the implementation\(s\), after 
 
 12. View the results from the EDR related list section.
 
-## Related
 
-- [[integration-capabilities|Integration capabilities]]
-- [[implementation-selection|Select implementations]]
-- [[common-inputs|common inputs]]
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]

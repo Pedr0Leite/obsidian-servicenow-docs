@@ -14,11 +14,11 @@ breadcrumb: [Integrate, Supplier Lifecycle Operations, Finance and Supply Chain]
 
 # Relish Integration for Supplier Lifecycle Operations
 
-The SLO Connector for Relish Data Assure plugin \(x\_reliq\_slo\_connec\) provides an integration between Relish and the [[supplier-case-management|Supplier Case Management]] plugin.
+The SLO Connector for Relish Data Assure plugin \(x\_reliq\_slo\_connec\) provides an integration between Relish and the Supplier Case Management plugin.
 
 **Important:** Check your entitlements to determine whether you have access to Relish Integration for Supplier Lifecycle Operations.
 
-Relish is a third-party [[supplier|supplier]] intelligence platform that helps in validating supplier data while working on supplier cases \(for banking information change requests, supplier location change requests, and conducting sanction screening\). For more information, see [Review supplier information using Relish](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/review-supp-info-relish.md).
+Relish is a third-party supplier intelligence platform that helps in validating supplier data while working on supplier cases \(for banking information change requests, supplier location change requests, and conducting sanction screening\). For more information, see [Review supplier information using Relish](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/review-supp-info-relish.md).
 
 To install SLO Connector for Relish Data Assure, the following plugins must be installed:
 
@@ -26,8 +26,8 @@ To install SLO Connector for Relish Data Assure, the following plugins must be i
     -   SLO Connector for Relish Data Assure plugin \(x\_reliq\_slo\_connec\)
     -   Relish Data Assure \(x\_reliq\_relish\_dat\)
 -   **Dependent plugins**:
-    -   [[source-to-pay-integration-framework|Source-to-Pay integration framework]] \(sn\_spend\_intg\)
-    -   [[supplier-operations|Supplier Operations]] \(com.snc.sn\_so\)
+    -   Source-to-Pay integration framework \(sn\_spend\_intg\)
+    -   Supplier Operations \(com.snc.sn\_so\)
 
 After SLO Connector for Relish Data Assure is installed, Relish shares the client ID and password. A basic authentication profile must be created using the client ID and password. For more information, see [Set up authentication profile using Relish credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/auth-profile-using-relish.md).
 
@@ -47,9 +47,3 @@ Create a basic authentication profile that can be used for web service integrati
 
 [Set up authentication profile using Relish credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/auth-profile-using-relish.md)
 
-## Related
-
-- [[supplier-case-management|Supplier Case Management]]
-- [[supplier|Supplier]]
-- [[source-to-pay-integration-framework|Source-to-Pay integration framework]]
-- [[supplier-operations|Supplier Operations]]

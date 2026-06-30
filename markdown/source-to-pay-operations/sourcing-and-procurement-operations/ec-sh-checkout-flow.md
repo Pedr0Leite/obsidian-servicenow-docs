@@ -14,10 +14,7 @@ breadcrumb: [Purchasing punchout third-party suppliers, Using Shopping Hub, Use,
 
 # Shopper checkout experiences based on installed applications
 
-The following figure illustrates the checkout experiences for shoppers based on whether they have installed Employee Center, [[shopping-hub-overview|Shopping Hub]], or both.
+The following figure illustrates the checkout experiences for shoppers based on whether they have installed Employee Center, Shopping Hub, or both.
 
 \[Omitted image "ec-sh-checkout-exp.png"\] Alt text: This figure illustrates the shopper's checkout experiences based on installed applications
 
-## Related
-
-- [[shopping-hub-overview|Shopping Hub]]

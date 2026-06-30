@@ -13,7 +13,7 @@ breadcrumb: [Engage via email interactions, Using Email Interaction for CSM, Cus
 
 # Close an email interaction
 
-Close the [[email-as-an-interaction|email interaction]] after the customer accepts the resolution. The email interaction also automatically closes due to customer inactivity.
+Close the email interaction after the customer accepts the resolution. The email interaction also automatically closes due to customer inactivity.
 
 **Note:** After an email interaction is closed, sending emails or composing worknotes within that interaction is no longer available.
 
@@ -46,11 +46,7 @@ The email interaction is closed and marked as Closed Complete.
 
 An email interaction gets closed automatically when there’s no response from the customer within a certain period. By default, the period of inactivity is set to a value of five days.
 
-If a consumer, contact, or guest user doesn’t respond within five days, the email interaction automatically closes. Any subsequent email from the customer creates an email interaction. For more information on configuring the inactivity period property, see [[system-properties-for-configuring-email-as-an-interaction|System properties for configuring Email Interaction]].
+If a consumer, contact, or guest user doesn’t respond within five days, the email interaction automatically closes. Any subsequent email from the customer creates an email interaction. For more information on configuring the inactivity period property, see [System properties for configuring Email Interaction](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/system-properties-for-configuring-email-as-an-interaction.md).
 
 When a customer replies on top of a closed email interaction, a new email interaction is created and linked to the closed interaction.
 
-## Related
-
-- [[system-properties-for-configuring-email-as-an-interaction|System properties for configuring Email Interaction]]
-- [[email-as-an-interaction|Email Interaction]]

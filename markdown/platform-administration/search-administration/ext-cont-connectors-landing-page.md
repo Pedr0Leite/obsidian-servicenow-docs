@@ -15,7 +15,7 @@ breadcrumb: [Search administration, Configure core features, Administer the Serv
 
 # External Content Connectors
 
-The External Content Connectors ServiceNow® Store application enables [[ia-ai-search|AI Search]] applications to search content and metadata from supported external source systems, such as Atlassian Confluence Cloud and Microsoft SharePoint Online.
+The External Content Connectors ServiceNow® Store application enables AI Search applications to search content and metadata from supported external source systems, such as Atlassian Confluence Cloud and Microsoft SharePoint Online.
 
 ## Get started
 
@@ -37,17 +37,11 @@ The External Content Connectors ServiceNow® Store application enables [[ia-ai-s
 
 </td><td>
 
-[Review\[Omitted image "bus-log-store.svg"\] Alt text:Review crawl histories, analytics, and user permissions for your external content connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/reviewing-external-content-connector-[[hs-results|results]]-and-analytics.md)
+[Review\[Omitted image "bus-log-store.svg"\] Alt text:Review crawl histories, analytics, and user permissions for your external content connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/reviewing-external-content-connector-results-and-analytics.md)
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:View [[installed-with-ext-content-connectors|components installed with External Content Connectors]] and supported file extensions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/reference-ext-cont-connectors.md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:View components installed with External Content Connectors and supported file extensions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/reference-ext-cont-connectors.md)
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]
-- [[installed-with-ext-content-connectors|Components installed with External Content Connectors]]

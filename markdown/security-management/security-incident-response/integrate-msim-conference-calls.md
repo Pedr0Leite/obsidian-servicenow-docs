@@ -14,9 +14,9 @@ breadcrumb: [Integrate, Major Security Incident Management, Security Incident Re
 
 # Major Security Incident Management Conference Call Integration
 
-With [[major-security-incident-management-landing-page|Major Security Incident Management]] conference calls integration, you can collaborate with your customers and peer agents to resolve customer issues using the video and screen sharing options in Microsoft Teams, Cisco Webex, or Zoom from the MSIM application.
+With Major Security Incident Management conference calls integration, you can collaborate with your customers and peer agents to resolve customer issues using the video and screen sharing options in Microsoft Teams, Cisco Webex, or Zoom from the MSIM application.
 
-The Major Security Incident Management Conference Call integration enables you to [[integrating-threat-intelligence-security-center|integrate]] the conference communication channel with the Notify communication channel by managing and initiating a Microsoft Teams, Cisco Webex, or Zoom meeting directly from the Major Security Incident Management application.
+The Major Security Incident Management Conference Call integration enables you to integrate the conference communication channel with the Notify communication channel by managing and initiating a Microsoft Teams, Cisco Webex, or Zoom meeting directly from the Major Security Incident Management application.
 
 As an MSI Manager, you can use the MSIM Conference Call integration to initiate Microsoft Teams, Cisco Webex or Zoom meetings. Integrate the Major Security Incident Management Conference Call with the third-party service providers as a communication channel to meet with the stakeholders to resolve the major security incidents.
 
@@ -30,9 +30,9 @@ The Major Security Incident Management Conference Call integration provides the 
 -   Sends invites to participants through emails and Microsoft Teams chat.
 
 -   **[Start a conference call](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/start-conference-call.md)**  
-[[start-conference-call|Start a conference call]] from a task or a major security by inviting one or more users to join a conference call. The conference call would start only when at least two participants join.
+Start a conference call from a task or a major security by inviting one or more users to join a conference call. The conference call would start only when at least two participants join.
 -   **[Add participants to a conference call](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/add-participants-conference-call.md)**  
-[[add-participants-conference-call|Add participants to a conference call]] using the search option on the **Start conference call** pop-up to find and add the required participants. You can also add participants by selecting the participants from the Recommendations list, which provides participant recommendations to add to the conference call.
+Add participants to a conference call using the search option on the **Start conference call** pop-up to find and add the required participants. You can also add participants by selecting the participants from the Recommendations list, which provides participant recommendations to add to the conference call.
 -   **[Mute participants in a conference call](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mute-unmute-participants.md)**  
 As an MSI manager or a conference call host, you have the option to mute a particular participant or all the participants on the conference call.
 -   **[View conference call details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/view-conference-call-details.md)**  
@@ -55,9 +55,3 @@ The MSIM Conference Call Cisco Webex integration enables you to manage and initi
 
 [Establish MS Teams Graph connection on ServiceNow AI Platform]()
 
-## Related
-
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]
-- [[integrating-threat-intelligence-security-center|Integrate]]
-- [[start-conference-call|Start a conference call]]
-- [[add-participants-conference-call|Add participants to a conference call]]

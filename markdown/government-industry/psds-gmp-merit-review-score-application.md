@@ -12,7 +12,7 @@ breadcrumb: [Reviewer Service Portal, Portals, Use, Public Sector Digital Servic
 
 # Review and score a grant proposal using the Reviewer Service Portal
 
-As a Merit Reviewer, you can review grant proposals for feasibility, impact, and alignment with the grant program's goals. Reviewers can then score proposals as part of the evaluation stage of the Public Sector Digital Services Grants Management [[psds-gmp-using-merit-review-portal-agent|using the Reviewer Service portal]].
+As a Merit Reviewer, you can review grant proposals for feasibility, impact, and alignment with the grant program's goals. Reviewers can then score proposals as part of the evaluation stage of the Public Sector Digital Services Grants Management using the Reviewer Service portal.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ When you select Decline Review, a modal pops up where you can decline specific M
 
 ## Procedure
 
-1.  Log in to the [[psds-rsp-overview|Reviewer Service Portal]].
+1.  Log in to the Reviewer Service Portal.
 
     All review tasks appear under **My review tasks** along with the state of the task, score, and the last updated date.
 
@@ -53,7 +53,3 @@ When you select Decline Review, a modal pops up where you can decline specific M
 
 The proposal is now routed to the grants program manager for further evaluation, and they are able to approve or decline the proposal.
 
-## Related
-
-- [[psds-gmp-using-merit-review-portal-agent|Using the Reviewer Service Portal]]
-- [[psds-rsp-overview|Reviewer Service Portal]]

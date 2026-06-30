@@ -22,7 +22,7 @@ Role required: sn\_lg\_ops.legal\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self Service** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Self Service** &gt; **Employee Center**.
 
 2.  Open your submitted legal request from the **My Requests** option on the header menu.
 
@@ -59,7 +59,7 @@ The gifts and entertainment disclosure request is updated with the new informati
 1.  From the Actions menu, select **Cancel Request**.
 2.  In the Confirm request cancellation dialog box, provide the reason for the cancellation in the **Comments** field and click **Confirm Cancellation**.
 
-The request is canceled and the cancellation comments appear in the [[activity-lxp|Activity]] tab of the request.
+The request is canceled and the cancellation comments appear in the Activity tab of the request.
 
 Any associated active flows are terminated. Any pending approval record is also canceled and a comment is posted in the Activity tab of the approval record.
 
@@ -104,7 +104,3 @@ A link to the document is listed in the **External URL** column of the documents
 </table>
 **Parent Topic:**[Managing gifts and entertainment disclosure requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-gifts-and-entertainment/lsd-manage-ge-request.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[activity-lxp|Activity]]

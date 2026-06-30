@@ -14,7 +14,7 @@ breadcrumb: [Architecture Accelerators, Accelerator catalog, View the Initiative
 
 # UX: Build a Foundation for Better Experiences
 
-This accelerator takes examples directly from the [[impact-landing-page|Impact]] customer’s instance to develop their understanding of [[user-experience-insights|User Experience]] \(UX\) and demonstrate how investing in UX directly influences the success of their ServiceNow investment.
+This accelerator takes examples directly from the Impact customer’s instance to develop their understanding of User Experience \(UX\) and demonstrate how investing in UX directly influences the success of their ServiceNow investment.
 
 ## Accelerator overview
 
@@ -66,7 +66,3 @@ One or more customer resources are requested. The specific number of resources p
 
 **Note:** Additional details on supplemental legal terms, prerequisites, specifications, requirements, and exclusions can be found in the [Impact Accelerator Terms Matrix](https://www.servicenow.com/legal/servicenow-impact.html).
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[user-experience-insights|User Experience]]

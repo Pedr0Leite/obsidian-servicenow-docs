@@ -14,7 +14,7 @@ breadcrumb: [Agent Client Collector Monitoring default checks and policies, ACC-
 
 # Network ping default checks and policies
 
-[[acc-landing-page|Agent Client Collector]] provides the following default [[checks-policies|checks and policies]] for Network ping monitoring. Policies and checks are available for both Windows and Linux.
+Agent Client Collector provides the following default checks and policies for Network ping monitoring. Policies and checks are available for both Windows and Linux.
 
 <table id="table_gqp_y3h_mxb"><thead><tr><th>
 
@@ -79,7 +79,3 @@ c7inc0047383.ping.packets_transmitted 5 1675923886
 </td></tr></tbody>
 </table>**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-policies-checks.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[checks-policies|Checks and policies]]

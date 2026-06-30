@@ -12,40 +12,32 @@ breadcrumb: [Care Team Work Management, Healthcare Operations, Healthcare and Li
 
 # Configuring Care Team Work Management
 
-Set up the [[ctwm-landing|Care Team Work Management]] application.
+Set up the Care Team Work Management application.
 
 ## Configuration overview
 
-1.  [[ctwm-activate|Activate Care Team Work Management]]
+1.  [Activate Care Team Work Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/ctwm-activate.md)
 
     Activate the Care Team Work Management application \[com.sn\_cto\] if you have the admin role.
 
-2.  [[ctwm-understanding-roles-responsibilities|Setting up roles and responsibilities in Care Team Work Management]]
+2.  [Setting up roles and responsibilities in Care Team Work Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/ctwm-understanding-roles-responsibilities.md)
 
-    To manage access effectively in Care Team Work Management, first understand how roles and responsibilities work together. These concepts build on the Service Model Foundation \(SMF\) but are adapted for [[healthcare-operations-overview|Healthcare Operations]]-specific use cases.
+    To manage access effectively in Care Team Work Management, first understand how roles and responsibilities work together. These concepts build on the Service Model Foundation \(SMF\) but are adapted for Healthcare Operations-specific use cases.
 
 3.  [Setting up healthcare locations and healthcare organizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/understanding-healthcare-locations-and-healthcare-organizations.md)
 
     Understand how healthcare locations and healthcare organizations function and should be organized to set up your care teams and the physical locations they operate in correctly.
 
-4.  [[ctwm-create-assignment-groups|Create assignment groups for Care Team Work Management]]
+4.  [Create assignment groups for Care Team Work Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/ctwm-create-assignment-groups.md)
 
-    Associate assignment groups within your care team units so [[ctwm-care-team-case|care team cases and tasks]] can be fulfilled.
+    Associate assignment groups within your care team units so care team cases and tasks can be fulfilled.
 
 5.  [Add or remove members in Healthcare Operations Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-operations-core/hcls-cto-edit-members-admin.md)
 
     Add or remove members from your healthcare organizations.
 
-6.  [[ctwm-task-plan-templates-understand|Task Plan Templates in Care Team Work Management]]
+6.  [Task Plan Templates in Care Team Work Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/ctwm-task-plan-templates-understand.md)
 
     Understand how task plan templates can be leveraged from Customer Service Management in Care Team Work Management.
 
-## Related
 
-- [[ctwm-activate|Activate Care Team Work Management]]
-- [[ctwm-understanding-roles-responsibilities|Setting up roles and responsibilities in Care Team Work Management]]
-- [[ctwm-create-assignment-groups|Create assignment groups for Care Team Work Management]]
-- [[ctwm-task-plan-templates-understand|Task Plan Templates in Care Team Work Management]]
-- [[ctwm-landing|Care Team Work Management]]
-- [[healthcare-operations-overview|Healthcare Operations]]
-- [[ctwm-care-team-case|Care team cases and tasks]]

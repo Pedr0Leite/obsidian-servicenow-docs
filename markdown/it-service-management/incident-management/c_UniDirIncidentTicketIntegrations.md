@@ -16,7 +16,7 @@ breadcrumb: [Incident ticketing integrations, Configuring Incident Management, I
 
 Consider the requirements for an external, third-party system to create tickets. Define the data that must be sent to create a ticket, and what validation is required.
 
-In this way, a standard web service interface can be created and published. This integration responds with a ticket number on success, or with a structured error message for validation failures and processing issues. An advantage of this implementation is that you can publish once and reuse for multiple [[dex-workspace-application-tab|applications]], provided the additional integrations follow the integration specifications. A good practice is to create a dedicated account for each interface. Accounts provide accountability and report user statistics, and use a simple connectivity Point of Contact \(POC\).
+In this way, a standard web service interface can be created and published. This integration responds with a ticket number on success, or with a structured error message for validation failures and processing issues. An advantage of this implementation is that you can publish once and reuse for multiple applications, provided the additional integrations follow the integration specifications. A good practice is to create a dedicated account for each interface. Accounts provide accountability and report user statistics, and use a simple connectivity Point of Contact \(POC\).
 
 ## Integration plan contents
 
@@ -36,6 +36,3 @@ An implementation variation for the inbound path would be to use the Import Set 
 
 **Parent Topic:**[Incident ticketing integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/c_IncidentTicketingIntegrations.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]

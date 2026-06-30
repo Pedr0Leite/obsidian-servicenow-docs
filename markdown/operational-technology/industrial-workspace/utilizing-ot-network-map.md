@@ -14,7 +14,7 @@ breadcrumb: [Explore, Industrial Workspace, Operational Technology]
 
 # Operational Technology Network Map
 
-The [[operational-technology-overview|Operational Technology]] \(OT\) Network Map is an interactive map that visualizes your OT network through connected nodes.
+The Operational Technology \(OT\) Network Map is an interactive map that visualizes your OT network through connected nodes.
 
 ## OT Network Map overview
 
@@ -22,7 +22,7 @@ The OT Network Map provides a real‑time and accurate representation of your OT
 
 With this visibility, you can analyze the impact of network changes, identify connectivity risks, and make informed operational and security decisions. It enables faster troubleshooting, improves risk awareness, and provides better visibility into complex OT network relationships. It helps you move from reactive troubleshooting to proactive decision‑making across your industrial environment.
 
-You can access the OT Network Map by navigating to Equipment Model Manager in the [[industrial-workspace-for-operational-technology|Industrial Workspace]] and selecting a site.
+You can access the OT Network Map by navigating to Equipment Model Manager in the Industrial Workspace and selecting a site.
 
 The following image is an example of the network map in its default state.\[Omitted image "ot-network-map.png"\] Alt text: OT Network Map filtered by subnet
 
@@ -99,7 +99,3 @@ The following list contains the limitations of the network map.
 
 **Parent Topic:**[Exploring the Industrial Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/exploring-industrial-workspace.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

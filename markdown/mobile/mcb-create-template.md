@@ -12,7 +12,7 @@ breadcrumb: [Mobile Card Builder, Building tools, Building mobile apps, Mobile P
 
 # Create a card template with Mobile Card Builder
 
-Use [[mobile-card-builder|Mobile Card Builder]] to create a card template to use for cards in your [[mobile-screens-landing|mobile screens]].
+Use Mobile Card Builder to create a card template to use for cards in your mobile screens.
 
 ## Before you begin
 
@@ -46,7 +46,7 @@ For more information about the delegated developer role, see [Delegated developm
 
 6.  Add elements to your card template using the card builder interface.
 
-    For details on using the card builder UI, see [[mcb-stage-ui|Mobile Card Builder user interface]]
+    For details on using the card builder UI, see [Mobile Card Builder user interface](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mcb-stage-ui.md)
 
 7.  Open the screen where you want to apply your card template by using the following methods.
 
@@ -57,13 +57,8 @@ For more information about the delegated developer role, see [Delegated developm
 
 9.  If you want to assign field values to your card, you can do that at this point.
 
-    For details on that process, see [[mcb-assign-fields|Assign field values to your mobile card]].
+    For details on that process, see [Assign field values to your mobile card](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mcb-assign-fields.md).
 
 10. Select **Save**.
 
-## Related
 
-- [[mcb-stage-ui|Mobile Card Builder user interface]]
-- [[mcb-assign-fields|Assign field values to your mobile card]]
-- [[mobile-card-builder|Mobile Card Builder]]
-- [[mobile-screens-landing|Mobile screens]]

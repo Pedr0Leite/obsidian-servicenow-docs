@@ -10,7 +10,7 @@ reading_time_minutes: 1
 
 # System notifications for Alumni Center
 
-The [[alumni-service-center|Alumni Center]] uses system notifications to alert alumni with an email providing their user ID and a separate email with a password.
+The Alumni Center uses system notifications to alert alumni with an email providing their user ID and a separate email with a password.
 
 When an alumnus logs in for the first time, they are prompted to change the password provided.
 
@@ -23,6 +23,3 @@ You can customize the message to suite your company's requirements.
 
 For more information, refer to [Email and SMS notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailNotifications.md).
 
-## Related
-
-- [[alumni-service-center|Alumni Center]]

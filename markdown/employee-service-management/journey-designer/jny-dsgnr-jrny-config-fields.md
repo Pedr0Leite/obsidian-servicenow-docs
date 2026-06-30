@@ -34,7 +34,7 @@ Description
 
 </td><td>
 
-Provide a name for the Journey that helps managers identify the intended use case so they can customize the Journey with [[activity-lxp|activity]] sets or stages.
+Provide a name for the Journey that helps managers identify the intended use case so they can customize the Journey with activity sets or stages.
 
 </td></tr><tr><td>
 
@@ -42,7 +42,7 @@ Provide a name for the Journey that helps managers identify the intended use cas
 
 </td><td>
 
-A Journey type is a category used to identify the intention of the journey, such as onboarding, leave of absence, or career growth.**Note:** This value is used for reporting and categorization. If using [[journey-accelerator-1|Journey Accelerator]], keeping the **Plan type** and the **Journey type** consistent is helpful.
+A Journey type is a category used to identify the intention of the journey, such as onboarding, leave of absence, or career growth.**Note:** This value is used for reporting and categorization. If using Journey Accelerator, keeping the **Plan type** and the **Journey type** consistent is helpful.
 
 </td></tr><tr><td>
 
@@ -50,8 +50,8 @@ A Journey type is a category used to identify the intention of the journey, such
 
 </td><td>
 
--   **[[hr-lifecycle-events-landing-page-1|Lifecycle Events]]**: Use Lifecycle Events to facilitate cross-department tasks, such as approvals.
--   **Journey Accelerator**: Use Journey Accelerator modules to create templates for different [[ecpro-audience|audiences]], such as a department-specific onboarding process.
+-   **Lifecycle Events**: Use Lifecycle Events to facilitate cross-department tasks, such as approvals.
+-   **Journey Accelerator**: Use Journey Accelerator modules to create templates for different audiences, such as a department-specific onboarding process.
 -   **Lifecycle Events and Journey Accelerator**: The Journey will contain both a Lifecycle Event and Journey Accelerator plan.
 
 </td></tr><tr><td>
@@ -76,7 +76,7 @@ Journey Accelerator plan types are configured by an administrator. Plan types in
 
 </td><td>
 
-Indicates whether the Journey configuration is available \(active\) for use in [[jny-dsgnr-landing-page-1|Journey designer]].
+Indicates whether the Journey configuration is available \(active\) for use in Journey designer.
 
 </td></tr><tr><td>
 
@@ -163,7 +163,7 @@ Enables journey owners to see the pulse survey results tied to this journey.**No
 
 </td></tr><tr><td>
 
-**Can add recommended [[exploring-learning-exp|learning]]**
+**Can add recommended learning**
 
 </td><td>
 
@@ -171,11 +171,11 @@ Enables journey owners to add courses that are related to training or learning. 
 
 </td></tr><tr><td>
 
-**Can add [[emp-center-quick-link-config|quick links]]**
+**Can add quick links**
 
 </td><td>
 
-Enables journey owners to add quick links to a journey. The quick links module in the [[employee-center-landing-page|Employee Center]] enables access to internal and external resources, such as knowledge bases, catalog items, pages, and links.
+Enables journey owners to add quick links to a journey. The quick links module in the Employee Center enables access to internal and external resources, such as knowledge bases, catalog items, pages, and links.
 
 </td></tr><tr><td>
 
@@ -201,13 +201,3 @@ Mentor permissions determine how much control that a mentor has in the journey p
 
 **Parent Topic:**[Journey designer reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsnr-reference.md)
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[journey-accelerator-1|Journey Accelerator]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[ecpro-audience|Audiences]]
-- [[jny-dsgnr-landing-page-1|Journey designer]]
-- [[exploring-learning-exp|Learning]]
-- [[emp-center-quick-link-config|Quick links]]
-- [[employee-center-landing-page|Employee Center]]

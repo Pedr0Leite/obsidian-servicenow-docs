@@ -18,7 +18,7 @@ As a communications manager or a conference call host, mute/unmute all the confe
 
 ## Before you begin
 
-Role required: [[notify-landing-page|notify]]\_view, notify\_admin, major\_incident\_manager, or communications\_manager
+Role required: notify\_view, notify\_admin, major\_incident\_manager, or communications\_manager
 
 Before starting this procedure, ensure there is an active conference call with one or more participants.
 
@@ -60,6 +60,3 @@ Click this button to unmute all the participants in the conference
 
 **Parent Topic:**[Using Notify for making conference calls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/c_NotifyConferenceCalls.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]

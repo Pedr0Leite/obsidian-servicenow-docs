@@ -14,7 +14,7 @@ breadcrumb: [Employee Profile integration with Microsoft Teams, Employee Center 
 
 # Disable Microsoft Teams status view
 
-You can disable the status view of Microsoft Teams on your [[emp-slate-employee-profile|Employee Profile]] page.
+You can disable the status view of Microsoft Teams on your Employee Profile page.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ For non-employees, follow this procedure:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Profile**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **Profile**.
 
 2.  Right-click and choose **Instance Options** from the list.
 
@@ -43,7 +43,3 @@ Customize your employee profile page as per your business requirement, by adding
 
 **Parent Topic:**[Employee Profile integration with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/employee-profile-integration-with-microsoft-teams.md)
 
-## Related
-
-- [[emp-slate-employee-profile|Employee profile]]
-- [[employee-center-landing-page|Employee Center]]

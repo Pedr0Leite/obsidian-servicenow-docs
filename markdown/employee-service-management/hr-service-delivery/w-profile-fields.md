@@ -14,13 +14,10 @@ breadcrumb: [Synchronize worker profiles, Configure, HR Service Delivery Integra
 
 # Mapping worker profile fields
 
-The Run Workday Integration Flow schedule flow maps Worker profile fields from Workday to the [[c_HRProfileRecords|HR profile]] fields in ServiceNow.
+The Run Workday Integration Flow schedule flow maps Worker profile fields from Workday to the HR profile fields in ServiceNow.
 
 **Important:**
 
 -   For details on fields that are mapped, refer to this [KB article](https://support.servicenow.com/nav_to.do?uri=%2Fkb%3Fid%3Dkb_article_view%26sys_kb_id%3D9a7ce76cdb94fcd0981a0b55ca96192a).
 -   Create an index on the first\_name, last\_name columns of HR profile to improve performance.
 
-## Related
-
-- [[c_HRProfileRecords|HR Profile]]

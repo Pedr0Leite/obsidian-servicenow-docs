@@ -14,7 +14,7 @@ breadcrumb: [Managing contextual search, Contextual search, Search administratio
 
 # Enable viewing of search results for the current and another selected user
 
-Enable the search as functionality when you want the ability to view search [[hs-results|results]] common to the current user and another user that you specify.
+Enable the search as functionality when you want the ability to view search results common to the current user and another user that you specify.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ For example, an HR administrator may have some confidential information. A user 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ContextualSearch|Contextual Search]]** &gt; **Table Configuration**.
+1.  Navigate to **All** &gt; **Contextual Search** &gt; **Table Configuration**.
 
 2.  Edit a table configuration record.
 
@@ -92,7 +92,3 @@ The **My Results** tab displays search results for the currently logged-in user.
 
 **Parent Topic:**[Managing contextual search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/working-with-contextual-search.md)
 
-## Related
-
-- [[hs-results|Results]]
-- [[c_ContextualSearch|Contextual search]]

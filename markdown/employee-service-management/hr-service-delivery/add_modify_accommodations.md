@@ -14,7 +14,7 @@ breadcrumb: [HR Profile, Case and Knowledge Management, HR Service Delivery, Emp
 
 # Add or modify accommodations
 
-You can add, modify, or view accommodation requests for an [[c_HRProfileRecords|HR profile]]. Accommodations are requests from your employees related to their work situation.
+You can add, modify, or view accommodation requests for an HR profile. Accommodations are requests from your employees related to their work situation.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ Role required: sn\_hr\_er.case\_writer
 
 **Parent Topic:**[HR Profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_HRProfileRecords.md)
 
-## Related
-
-- [[c_HRProfileRecords|HR Profile]]

@@ -14,7 +14,7 @@ breadcrumb: [Optimizing Metric Intelligence, Metric Intelligence, IT Operations 
 
 # View metric values in the Insights Explorer
 
-[[operational-metrics|Metric Intelligence]] calculates statistics for CI metric data. Insights Explorer displays these metric values as metric charts for the CIs in the CMDB. Insights Explorer lets you overlap any metrics for any CIs in a single chart to create a multi-layered view of metric values across a time range.
+Metric Intelligence calculates statistics for CI metric data. Insights Explorer displays these metric values as metric charts for the CIs in the CMDB. Insights Explorer lets you overlap any metrics for any CIs in a single chart to create a multi-layered view of metric values across a time range.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ You can also access the Insights Explorer from the business service map. For det
 
 \[Omitted image "InsightsExplorerLondon.png"\] Alt text: Dashboard for Metric Intelligence metrics, where you can display charts for selected CI metrics.
 
-If the host name of the CI is available, it appears underneath the CI name. Host name is populated by retrieving the node information from the generated binding event as part of [[metric-binding|metric binding]].
+If the host name of the CI is available, it appears underneath the CI name. Host name is populated by retrieving the node information from the generated binding event as part of metric binding.
 
 To navigate to a CI for which to display metrics:
 
@@ -80,7 +80,7 @@ Modifications in the Insights Explorer remain during the session, and once the I
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Metrics** &gt; **Insights Explorer**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Metrics** &gt; **Insights Explorer**.
 
 2.  Click a CI to drill down to its associated list of metrics, ordered by their most recent anomaly scores.
 
@@ -214,8 +214,3 @@ Displays the raw, unaggregated metric values. These values are kept only for the
 
 [Create an Insights Explorer view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/create-metric-explorer-view.md)
 
-## Related
-
-- [[operational-metrics|Metric Intelligence]]
-- [[metric-binding|Metric binding]]
-- [[c_EM|Event Management]]

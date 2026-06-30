@@ -14,7 +14,7 @@ breadcrumb: [Configure, Retail Task Management, Retail]
 
 # Install Retail Task Management Core
 
-If you have the admin role, you can install the [[rahi-retail-task-management-overview|Retail Task Management]] Core application.
+If you have the admin role, you can install the Retail Task Management Core application.
 
 ## Before you begin
 
@@ -46,6 +46,4 @@ For more information, see [Components installed with Retail Task Management](htt
 
 4.  Select **Install**.
 
-## Related
 
-- [[rahi-retail-task-management-overview|Retail Task Management]]

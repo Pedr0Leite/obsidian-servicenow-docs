@@ -29,7 +29,7 @@ The following items are installed with the Sales Cart plugin \(sn\_sales\_cart\)
 -   Scheduled jobs
 -   Tables
 
-For more information, see [[components-installed-with-sales-cart-plugin|Components installed with Sales Cart]].
+For more information, see [Components installed with Sales Cart](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/components-installed-with-sales-cart-plugin.md).
 
 ## Procedure
 
@@ -49,26 +49,19 @@ For more information, see [[components-installed-with-sales-cart-plugin|Componen
 
 5.  If demo data is available and you want to install it, select the **Load demo data** check box.
 
-    Demo data are the sample records that describe application features for common [[use-cases|use cases]]. Load the demo data when you first install the application on a development or test instance.
+    Demo data are the sample records that describe application features for common use cases. Load the demo data when you first install the application on a development or test instance.
 
 6.  Select **Install**.
 
 
 ## What to do next
 
-A sample logo is applied to the sales cart PDF by default. To customize and add your logo, see [[add-logo-sales-cart-pdf|Add a logo to the sales cart PDF]].
+A sample logo is applied to the sales cart PDF by default. To customize and add your logo, see [Add a logo to the sales cart PDF](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/add-logo-sales-cart-pdf.md).
 
 **Related topics**  
 
 
-[[som-self-service-business-portal|Customer self-service for Sales Customer Relationship Management]]
+[Customer self-service for Sales Customer Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-self-service-business-portal.md)
 
-[[order-mgt-business-portal|Customer self-service using the Business Portal]]
+[Customer self-service using the Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-business-portal.md)
 
-## Related
-
-- [[components-installed-with-sales-cart-plugin|Components installed with Sales Cart]]
-- [[add-logo-sales-cart-pdf|Add a logo to the sales cart PDF]]
-- [[som-self-service-business-portal|Customer self-service for Sales Customer Relationship Management]]
-- [[order-mgt-business-portal|Customer self-service using the Business Portal]]
-- [[use-cases|Use cases]]

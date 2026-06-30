@@ -14,7 +14,7 @@ breadcrumb: [Configure, Now Assist for Configuration Management Database \(CMDB\
 
 # Configure the CI summarization skill
 
-Review and configure the settings of the [[now-assist-landing-cmdb|Now Assist for Configuration Management Database \(CMDB\)]] CI summarization skill to restrict the availability of the skill to certain users or conditions.
+Review and configure the settings of the Now Assist for Configuration Management Database \(CMDB\) CI summarization skill to restrict the availability of the skill to certain users or conditions.
 
 ## Before you begin
 
@@ -40,7 +40,7 @@ Discovery
 
 The CI summarization skill extracts details from the **Discovery source** and **Most recent discovery** CI attributes.
 
- If [[multisource-cmdb|CMDB 360]] is enabled, the summary can show additional discovery sources for the CI. For more information, see [CMDB 360](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/multisource-cmdb.md).
+ If CMDB 360 is enabled, the summary can show additional discovery sources for the CI. For more information, see [CMDB 360](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/multisource-cmdb.md).
 
 </td></tr><tr><td>
 
@@ -70,7 +70,7 @@ The CI summarization skill determines the CI ownership based on the attribute th
 
 </td></tr><tr><td>
 
-Data on the [[c_CMDBHealth|CMDB Health]] Dashboard
+Data on the CMDB Health Dashboard
 
 </td><td>
 
@@ -89,7 +89,7 @@ The Correctness Score Calculation scheduled job improves the accuracy of the sum
 
     3.  On the Now Assist Skills for CMDB page, review the skills and then select **View details**.
 
-    4.  On the **Active skills** card on the [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]] page, select the context menu for the CI summarization skill and then select **Edit**.
+    4.  On the **Active skills** card on the Configuration Management Database \(CMDB\) page, select the context menu for the CI summarization skill and then select **Edit**.
 
 2.  Review and configure the settings.
 
@@ -160,9 +160,3 @@ Review the summary of settings for the skill \(each card displays a different ca
 
 **Parent Topic:**[Configuring Now Assist for CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/now-assist-cmdb-configuring.md)
 
-## Related
-
-- [[now-assist-landing-cmdb|Now Assist for Configuration Management Database \(CMDB\)]]
-- [[multisource-cmdb|CMDB 360]]
-- [[c_CMDBHealth|CMDB Health]]
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]

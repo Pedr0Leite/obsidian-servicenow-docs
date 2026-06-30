@@ -25,9 +25,9 @@ Two types of chat transcripts are generated from the conversation: internal and 
 Internal chat transcripts:
 
 -   Are available only to the agent and chat supervisor.
--   Include any conversations between the requester and [[virtual-agent-landing-page|virtual agent]].
--   Include any conversations between the agent and chat supervisor that occurred through [[ci-agent-whisper|Agent Whisper]].
--   Include customer sentiments \(if [[ci-use-agent-chat|Agent Chat]] is configured to display customer sentiments\).
+-   Include any conversations between the requester and virtual agent.
+-   Include any conversations between the agent and chat supervisor that occurred through Agent Whisper.
+-   Include customer sentiments \(if Agent Chat is configured to display customer sentiments\).
 
 The internal transcript field in the interaction table contains all private and public messages and is populated as soon as the chat is close completed.
 
@@ -37,8 +37,3 @@ External chat transcripts:
 -   Include only conversations between the requester and the live agent.
 -   Do not include pre- or post-chat survey information.
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[ci-agent-whisper|Agent Whisper]]
-- [[ci-use-agent-chat|Agent Chat]]

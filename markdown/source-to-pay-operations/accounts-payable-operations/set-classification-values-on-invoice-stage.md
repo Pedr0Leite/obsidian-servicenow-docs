@@ -20,14 +20,14 @@ Configure the classification values within the invoice stage flow using the flow
 
 Role required: admin
 
-Scope: [[apo-docintel-integration|Accounts Payable Operations integration with Document Intelligence]].
+Scope: Accounts Payable Operations integration with Document Intelligence.
 
 Plugins required:
 
 -   Now assist in Document Intelligence
 -   Account Payable Invoice Processing
 -   Now assist for Account Payable Operations
--   Document Intelligence for [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] Content Pack
+-   Document Intelligence for Accounts Payable Operations Content Pack
 
 ## Procedure
 
@@ -45,7 +45,4 @@ Plugins required:
 
     The flow is activated and the classification results are inserted the invoice record for subsequent processing.
 
-## Related
 
-- [[apo-docintel-integration|Accounts Payable Operations integration with Document Intelligence]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]

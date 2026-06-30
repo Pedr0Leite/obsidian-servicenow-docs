@@ -23,7 +23,7 @@ Role required: admin
 
 ## About this task
 
-ESXi resource pools must be configured so [[r-discovery|Discovery]] can identify virtual machines and their relationships correctly. Resource levels are dynamically generated from shares of the total resources allocated to virtual machines on the ESXi server. For details about how these resources are calculated, review the VMware knowledge base [https://www.vmware.com/](https://www.vmware.com/). ServiceNow Discovery finds this default resource pool and adds a record to the ESXi Resource Pools module automatically.
+ESXi resource pools must be configured so Discovery can identify virtual machines and their relationships correctly. Resource levels are dynamically generated from shares of the total resources allocated to virtual machines on the ESXi server. For details about how these resources are calculated, review the VMware knowledge base [https://www.vmware.com/](https://www.vmware.com/). ServiceNow Discovery finds this default resource pool and adds a record to the ESXi Resource Pools module automatically.
 
 If Discovery isn't running on the ServiceNow instance, create a record for the **Resources** pool. Verify that the **Owner** field is correct and leave the resource fields empty. If a provisioner selects the **Resources** pool when provisioning a virtual server, the ESXi server creates a virtual machine for use under a normal load.
 
@@ -43,6 +43,4 @@ If Discovery isn't running on the ServiceNow instance, create a record for the *
 
     \[Omitted image "ESXResourcePool.png"\] Alt text: ESX Resource Pool form
 
-## Related
 
-- [[r-discovery|Discovery]]

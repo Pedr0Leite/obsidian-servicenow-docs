@@ -12,7 +12,7 @@ breadcrumb: [Preferences in Next Experience, Notification Preferences, Notificat
 
 # Customize system notifications
 
-Create custom [[notifications|notifications]], which are subscriptions to notifications of importance to you, and apply conditions that control specific content included in your custom notification. You can also enable or disable the channels for delivery.
+Create custom notifications, which are subscriptions to notifications of importance to you, and apply conditions that control specific content included in your custom notification. You can also enable or disable the channels for delivery.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: none
 
 ## About this task
 
-**Note:** Custom notifications for Next Experience do not support the setting for the affected record the notification is based on. For notifications that require an associated affected record, see [[create-personal-notifications|Create personal notifications]].
+**Note:** Custom notifications for Next Experience do not support the setting for the affected record the notification is based on. For notifications that require an associated affected record, see [Create personal notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-personal-notifications.md).
 
 ## Procedure
 
@@ -55,10 +55,5 @@ Role required: none
 8.  Select **Save**.
 
 
-**Parent Topic:**[[advanced-notification-prefrences|System and custom notification and delivery channel preferences in Next Experience]]
+**Parent Topic:**[System and custom notification and delivery channel preferences in Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/advanced-notification-prefrences.md)
 
-## Related
-
-- [[create-personal-notifications|Create personal notifications]]
-- [[advanced-notification-prefrences|System and custom notification and delivery channel preferences in Next Experience]]
-- [[notifications|Notifications]]

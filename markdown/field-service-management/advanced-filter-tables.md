@@ -69,8 +69,5 @@ Territory crew configuration \(terr\_crew\_filter\_config\_view\)
 -   wm\_crew\_skill
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[fsm-reference|Field Service Management reference]]
+</table>**Parent Topic:**[Field Service Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/fsm-reference.md)
 
-## Related
-
-- [[fsm-reference|Field Service Management reference]]

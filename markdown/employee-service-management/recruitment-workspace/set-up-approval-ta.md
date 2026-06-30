@@ -22,13 +22,13 @@ Role required: admin
 
 ## About this task
 
-[[hiring-experiences-landing|Hiring Experiences]] provides an approval flow, where the approval request goes to the manager of the [[hiring-tab-concept|hiring]] manager, as part of the base system configuration. You can customize the approval flow, to add a different role for the approval, or add more conditions to it, with the following procedure.
+Hiring Experiences provides an approval flow, where the approval request goes to the manager of the hiring manager, as part of the base system configuration. You can customize the approval flow, to add a different role for the approval, or add more conditions to it, with the following procedure.
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **Process Automation** &gt; **Workflow Studio**.
 
-2.  Select the **[[flows-ukg|Subflows]]** tab.
+2.  Select the **Subflows** tab.
 
 3.  Locate and select **Submit for approval subflow**.
 
@@ -43,8 +43,3 @@ Role required: admin
 
 **Parent Topic:**[Configuring Recruitment Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/config-recruitment.md)
 
-## Related
-
-- [[hiring-experiences-landing|Hiring Experiences]]
-- [[hiring-tab-concept|Hiring]]
-- [[flows-ukg|Subflows]]

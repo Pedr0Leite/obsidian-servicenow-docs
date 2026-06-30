@@ -30,20 +30,20 @@ By default, dispatchers can create advanced filters based off of:
     **Note:** In the **Contractor** tab the field that you select to filter a contractor is labeled Assignment Group, even though you are filtering on contractors.
 
 
-You can also extend any table related to users or crews and use the fields from those tables to create resource filters. For more information, see [[configure-advanced-filter|Configuring advanced resource filters for Dispatcher Workspace]].
+You can also extend any table related to users or crews and use the fields from those tables to create resource filters. For more information, see [Configuring advanced resource filters for Dispatcher Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/configure-advanced-filter.md).
 
 ## Procedure
 
 1.  Choose one of the following:
 
-    -   Navigate to **All** &gt; **Field Service** &gt; **Dispatching** &gt; **[[dispatcher-activities|Dispatcher Workspace]] Configuration** &gt; **Agent Filter Configuration**.
+    -   Navigate to **All** &gt; **Field Service** &gt; **Dispatching** &gt; **Dispatcher Workspace Configuration** &gt; **Agent Filter Configuration**.
     -   Navigate to **All** &gt; **Field Service** &gt; **Dispatching** &gt; **Dispatcher Workspace Configuration** &gt; **Crew Filter Configuration**.
     -   Navigate to **All** &gt; **Field Service** &gt; **Dispatching** &gt; **Dispatcher Workspace Configuration** &gt; **Equipment Filter Configuration**.
     -   Navigate to **All** &gt; **Field Service** &gt; **Dispatching** &gt; **Dispatcher Workspace Configuration** &gt; **Contractor Filter Configuration**.
     -   If you extended a table, navigate to **All** &gt; **Field Service** &gt; **Dispatching** &gt; **Dispatcher Workspace Configuration** and then select the table you extended.
 2.  Select one of the tables.
 
-    For a list of tables, see [[advanced-filter-tables|Advanced resource filter tables]].
+    For a list of tables, see [Advanced resource filter tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/advanced-filter-tables.md).
 
 3.  Select **New**.
 
@@ -53,8 +53,4 @@ You can also extend any table related to users or crews and use the fields from 
 
     Dispatchers can now create advanced resource filters using the value you chose in step 4.
 
-## Related
 
-- [[configure-advanced-filter|Configuring advanced resource filters for Dispatcher Workspace]]
-- [[advanced-filter-tables|Advanced resource filter tables]]
-- [[dispatcher-activities|Dispatcher Workspace]]

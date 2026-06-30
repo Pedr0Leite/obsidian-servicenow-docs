@@ -14,12 +14,12 @@ breadcrumb: [Use, Next Experience for Demand Management in Strategic Planning, S
 
 # Managing financials for demands
 
-Manage budget, cost plans as forecasts, actual expenses as expense lines, [[generate-labor-cost-demand|generate labor costs]], and [[create-financial-baselines-ppw|create financial baselines]] at a required cadence in Next Experience for [[c_DemandManagement|Demand Management]].
+Manage budget, cost plans as forecasts, actual expenses as expense lines, generate labor costs, and create financial baselines at a required cadence in Next Experience for Demand Management.
 
 The following features help you to manage your financials.
 
 -   Manage cost plans for your demands. For more information, see [Add, edit, or delete demand cost plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/add-edit-or-delete-demand-cost-plans.md).
--   [[add-or-edit-expense-lines-demand-ppw|Add or edit expense lines]] for your demands to record any planned or unplanned expenses. For more information, see [Add or edit expense lines](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/add-or-edit-expense-lines-dw.md).
+-   Add or edit expense lines for your demands to record any planned or unplanned expenses. For more information, see [Add or edit expense lines](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/add-or-edit-expense-lines-dw.md).
 -   Generate labor costs for the fiscal period. For more information, see [Generate labor costs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/generate-labor-costs-dw.md).
 -   Create baselines to capture the financial snapshot of your demands. For more information, see [Create financial baselines](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/create-compare-financial-baselines-dw.md).
 
@@ -52,12 +52,5 @@ Portfolio managers can manage and approve the budget for demands. The approved b
 
 ## Benefit plans
 
-Monetary benefit plans capture potential benefits accrued while executing a demand. Non-monetary benefit plans capture the potential non-financial benefits accrued while executing a demand. You can create and manage [[monetary-non-monetary-benefit-plans|monetary and non-monetary benefit plans]] and to capture the potential benefits of your planning items. For more information, see [Create and manage benefit plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/create-monetary-benefit-plan-for-dw.md).
+Monetary benefit plans capture potential benefits accrued while executing a demand. Non-monetary benefit plans capture the potential non-financial benefits accrued while executing a demand. You can create and manage monetary and non-monetary benefit plans and to capture the potential benefits of your planning items. For more information, see [Create and manage benefit plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/create-monetary-benefit-plan-for-dw.md).
 
-## Related
-
-- [[generate-labor-cost-demand|Generate labor costs]]
-- [[create-financial-baselines-ppw|Create financial baselines]]
-- [[c_DemandManagement|Demand Management]]
-- [[add-or-edit-expense-lines-demand-ppw|Add or edit expense lines]]
-- [[monetary-non-monetary-benefit-plans|Monetary and non-monetary benefit plans]]

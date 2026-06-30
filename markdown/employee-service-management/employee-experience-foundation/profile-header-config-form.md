@@ -66,7 +66,7 @@ Format in which the primary user information is to be displayed. Available optio
 
 [Connected Content form]()
 
-[Default [[emp-slate-employee-profile|Employee Profile]] Header Configuration record]()
+[Default Employee Profile Header Configuration record]()
 
 [Employee Center widgets]()
 
@@ -94,7 +94,7 @@ Format in which the primary user information is to be displayed. Available optio
 
 [Portal notification configuration form]()
 
-[Portal [[ec-notification-content|notification content]] form]()
+[Portal notification content form]()
 
 [Trigger conditions form]()
 
@@ -116,7 +116,3 @@ Format in which the primary user information is to be displayed. Available optio
 
 [Website configuration form]()
 
-## Related
-
-- [[emp-slate-employee-profile|Employee profile]]
-- [[ec-notification-content|Notification content]]

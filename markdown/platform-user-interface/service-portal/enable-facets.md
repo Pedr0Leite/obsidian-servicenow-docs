@@ -22,11 +22,11 @@ Role required: admin or sp\_admin
 
 ## About this task
 
-Search facets render in the [[faceted-search|Faceted Search widget]] on the sp\_search page. To enable search facets after upgrade, activate the page route map record to route your search results to render in the sp\_search page.
+Search facets render in the Faceted Search widget on the sp\_search page. To enable search facets after upgrade, activate the page route map record to route your search results to render in the sp\_search page.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ServicePortal|Service Portal]]** &gt; **Page Route Maps**.
+1.  Navigate to **All** &gt; **Service Portal** &gt; **Page Route Maps**.
 
 2.  Locate the Search record in the list.
 
@@ -41,7 +41,3 @@ When using search in Service Portal, results render in the sp\_search page. Add 
 
 **Parent Topic:**[Zing search in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/zing-search-service-portal.md)
 
-## Related
-
-- [[faceted-search|Faceted Search widget]]
-- [[c_ServicePortal|Service Portal]]

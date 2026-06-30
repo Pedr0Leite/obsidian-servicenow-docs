@@ -21,12 +21,12 @@ Simulate the cost of moving your on-premise resources to the cloud environment b
 The following plugins are required for supporting cloud cost stimulator recommendations:
 
 -   Cloud Insights application plugin \(sn\_clin\_billing\): for cloud infrastructure details and cost.
--   [[ham-landing-page|Hardware Asset Management]] \(sn\_hamp\): for end of life cycle for hardware.
+-   Hardware Asset Management \(sn\_hamp\): for end of life cycle for hardware.
 -   Cloud Migration Assessment application \(com.sn\_cloud\_migration\): for resource utilization.
 
 ## Overview of cloud cost simulation
 
-The sam\_manager role specifies the criteria for migrating the resources to the cloud. For example, you may need all virtual machines installed with SQL Server or all virtual machines having end of life software. In addition the [[c_SoftwareAssetMgmt|Software Asset Management]] application automatically provides recommendations based on End of Life software and hardware and resource utilization.
+The sam\_manager role specifies the criteria for migrating the resources to the cloud. For example, you may need all virtual machines installed with SQL Server or all virtual machines having end of life software. In addition the Software Asset Management application automatically provides recommendations based on End of Life software and hardware and resource utilization.
 
 Based on the criteria or recommendation, the Software Asset Management application automatically selects the virtual machines that match your criteria. Once all the on-premise virtual machine have been identified, the Software Asset Management application matches those virtual machines with the virtual machines on the cloud: AWS or Azure.
 
@@ -55,7 +55,3 @@ A sam\_manager role can receive recommendations for migrating on-premise resourc
 
 **Parent Topic:**[Exploring Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/explore-sam-workspace.md)
 
-## Related
-
-- [[ham-landing-page|Hardware Asset Management]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

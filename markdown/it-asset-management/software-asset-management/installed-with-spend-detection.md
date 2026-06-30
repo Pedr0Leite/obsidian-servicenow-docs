@@ -14,13 +14,13 @@ breadcrumb: [Software Spend Detection, Software Asset Management, IT Asset Manag
 
 # Installed with Software Spend Detection
 
-User roles and tables are installed with Software Spend Detection. Demo data is available for [[software-spend-detection|Software Spend Detection]].
+User roles and tables are installed with Software Spend Detection. Demo data is available for Software Spend Detection.
 
 ## User roles
 
 |Role|Description|
 |----|-----------|
-|sam\_spend\_import|Role required to import financial transaction data into Software Spend Detection. Users with this role can view all modules in Software Spend Detection except **Content Service Setup**. Users with this role cannot view [[c_SoftwareAssetMgmt|Software Asset Management]].|
+|sam\_spend\_import|Role required to import financial transaction data into Software Spend Detection. Users with this role can view all modules in Software Spend Detection except **Content Service Setup**. Users with this role cannot view Software Asset Management.|
 
 ## Tables
 
@@ -34,7 +34,3 @@ User roles and tables are installed with Software Spend Detection. Demo data is 
 
 **Parent Topic:**[Software Spend Detection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/software-spend-detection.md)
 
-## Related
-
-- [[software-spend-detection|Software Spend Detection]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

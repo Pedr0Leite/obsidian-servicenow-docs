@@ -14,11 +14,11 @@ breadcrumb: [Digital Factory Workspace, Industrial Connected Workforce]
 
 # Exploring Digital Factory Workspace
 
-The [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]] is a workspace that enables the [[industrial-connected-workforce-overview|Industrial Connected Workforce]] \(ICW\) users to manage their shop floor processes.
+The Digital Factory Workspace is a workspace that enables the Industrial Connected Workforce \(ICW\) users to manage their shop floor processes.
 
 ## Digital Factory Workspace overview
 
-Learn about features of the Digital Factory Workspace to run and standardize shop-floor operations across Industrial Connected Workforce \(ICW\). Digital Factory Workspace brings together list views, Standards hub, and [[industrial-data-models|industrial data models]] so operators and owners can find, execute, and govern work in one place.
+Learn about features of the Digital Factory Workspace to run and standardize shop-floor operations across Industrial Connected Workforce \(ICW\). Digital Factory Workspace brings together list views, Standards hub, and industrial data models so operators and owners can find, execute, and govern work in one place.
 
 The following image shows an example of the icons available in the Digital Factory Workspace.
 
@@ -171,7 +171,7 @@ Industrial Standards enable you to manage consistency and control across your ma
 -   **[Exploring Industrial Guided Tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/exploring-industrial-guided-tasks.md)**  
 Manage your industrial guided task \(IGT\) standards with Industrial Guided Tasks.
 -   **[Task lists in the Digital Factory Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/task-lists-digital-factory-workspace.md)**  
-Use the [[task-lists-digital-factory-workspace|task lists in the Digital Factory Workspace]] to access and manage all types of tasks for your organization.
+Use the task lists in the Digital Factory Workspace to access and manage all types of tasks for your organization.
 -   **[Reporting and metrics for industrial task flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/reporting-metrics-industrial-task-flows.md)**  
 Use the fields available to distinguish workflows and produce reliable metrics.
 -   **[AI Search in Digital Factory Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/ai-search-digital-factory-workspace.md)**  
@@ -183,9 +183,3 @@ The ServiceNow Health and Safety Incident Management connects with the Industria
 
 **Parent Topic:**[Digital Factory Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/icw-digital-factory-workspace-landing-page.md)
 
-## Related
-
-- [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]
-- [[industrial-connected-workforce-overview|Industrial Connected Workforce]]
-- [[industrial-data-models|Industrial Data Models]]
-- [[task-lists-digital-factory-workspace|Task lists in the Digital Factory Workspace]]

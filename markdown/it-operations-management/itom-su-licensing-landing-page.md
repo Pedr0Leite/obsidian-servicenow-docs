@@ -12,11 +12,11 @@ breadcrumb: [IT Operations Management]
 
 # ITOM/OT SU Licensing and subscriptions
 
-ServiceNow® [[r_ITOMApplications|IT Operations Management]] \(ITOM\) licensing calculates and displays the usage of ITOM subscriptions based on subscription units.
+ServiceNow® IT Operations Management \(ITOM\) licensing calculates and displays the usage of ITOM subscriptions based on subscription units.
 
 ## Unified statistics for all ITOM products
 
-Use the ITOM licensing module to view subscription-related information for all ITOM products: ServiceNow® [[itom-visibility-landing-page|ITOM Visibility]], ServiceNow® ITOM [[r-discovery|Discovery]], ServiceNow® [[itom-health-landing-page|ITOM AIOps]], ServiceNow® [[hla-landing-page|Health Log Analytics]], ServiceNow® [[itom-optimization-landing-page|ITOM Optimization]], ServiceNow® [[itom-cloud-accelerate-landing-page|ITOM Cloud Accelerate]], ServiceNow® Digital End-User Experience \(DEX\), and ServiceNow® [[service-observability|Service Observability]].
+Use the ITOM licensing module to view subscription-related information for all ITOM products: ServiceNow® ITOM Visibility, ServiceNow® ITOM Discovery, ServiceNow® ITOM AIOps, ServiceNow® Health Log Analytics, ServiceNow® ITOM Optimization, ServiceNow® ITOM Cloud Accelerate, ServiceNow® Digital End-User Experience \(DEX\), and ServiceNow® Service Observability.
 
 The ServiceNow Product Documentation doesn't provide information on prices, packaging, or other details determined by your organization customer contract.
 
@@ -39,13 +39,3 @@ Easily see how many subscriptions for IT Operations Management applications your
 </td></tr></tbody>
 </table>To know about Operational Technology Management \(OTM\) licensing and subscriptions, see [Subscriptions form for the OTM products](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/otm-subscriptions-form.md).
 
-## Related
-
-- [[r_ITOMApplications|IT Operations Management]]
-- [[itom-visibility-landing-page|ITOM Visibility]]
-- [[r-discovery|Discovery]]
-- [[itom-health-landing-page|ITOM AIOps]]
-- [[hla-landing-page|Health Log Analytics]]
-- [[itom-optimization-landing-page|ITOM Optimization]]
-- [[itom-cloud-accelerate-landing-page|ITOM Cloud Accelerate]]
-- [[service-observability|Service Observability]]

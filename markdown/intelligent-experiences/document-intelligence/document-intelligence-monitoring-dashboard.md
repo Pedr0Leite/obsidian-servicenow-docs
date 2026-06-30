@@ -14,9 +14,9 @@ breadcrumb: [Monitor, Document Intelligence, Enable AI experiences]
 
 # Document Intelligence monitoring dashboard
 
-Monitor the overall performance of [[document-intelligence-landing|Document Intelligence]] over time in the Document Intelligence monitoring dashboard.
+Monitor the overall performance of Document Intelligence over time in the Document Intelligence monitoring dashboard.
 
-**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the [[docintel-nowassist-landing|Now Assist in Document Intelligence]] application. For more information, see [Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/docintel-nowassist-landing.md).
+**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the Now Assist in Document Intelligence application. For more information, see [Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/docintel-nowassist-landing.md).
 
 ## Overview of the Document Intelligence monitoring dashboard
 
@@ -26,7 +26,7 @@ The Document Intelligence monitoring dashboard provides a high-level overview of
 
 The data visualizations show document extraction activity in your instance. For example:
 
--   Active use [[cases|cases]]
+-   Active use cases
 -   Active document tasks
 -   Processed pages
 -   Processed document tasks
@@ -83,8 +83,3 @@ The following table describes the data visualizations shown on the Monitoring sc
 |Average accuracy per use case|The percentage of times that the top recommendation from DocIntel is the correct field value, based on the tasks completed for a use case.|
 |Document tasks per use case|The number of DocIntel document tasks for each use case, grouped by status.|
 
-## Related
-
-- [[document-intelligence-landing|Document Intelligence]]
-- [[docintel-nowassist-landing|Now Assist in Document Intelligence]]
-- [[cases|Cases]]

@@ -29,7 +29,7 @@ After the consumer sends the sample, the system creates a subscription for each 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[tmt-service-bridge-both-landing-page|Service Exchange]] Provider** &gt; **Open Records** &gt; **FDS Requests**.
+1.  Navigate to **All** &gt; **Service Exchange Provider** &gt; **Open Records** &gt; **FDS Requests**.
 
 2.  From the **Type: Inbound**, select the request.
 
@@ -130,21 +130,14 @@ After you complete the configuration, the state of the subscription item and of 
 
 ## What to do next
 
-[[service-bridge-v2-fds-accept-sups-provider|Accept the subscription.]]
+[Accept the subscription.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-fds-accept-sups-provider.md)
 
 **Related topics**  
 
 
-[[service-bridge-v2-explore-foundation-data-sync|Foundation data sync]]
+[Foundation data sync](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-explore-foundation-data-sync.md)
 
-[[service-bridge-v2-configure-inboun-fds-providers|Configuring inbound foundation data sync as providers]]
+[Configuring inbound foundation data sync as providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-configure-inboun-fds-providers.md)
 
-[[using-provider-bound-fds-consumer|Configure outbound foundation data sync as consumers]]
+[Configure outbound foundation data sync as consumers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/using-provider-bound-fds-consumer.md)
 
-## Related
-
-- [[service-bridge-v2-fds-accept-sups-provider|Accept a foundation data sync subscription as a provider]]
-- [[service-bridge-v2-explore-foundation-data-sync|Foundation data sync]]
-- [[service-bridge-v2-configure-inboun-fds-providers|Configuring inbound foundation data sync as providers]]
-- [[using-provider-bound-fds-consumer|Configure outbound foundation data sync as consumers]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]

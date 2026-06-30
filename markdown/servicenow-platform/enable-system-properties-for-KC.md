@@ -12,7 +12,7 @@ breadcrumb: [Configuring Knowledge Center, Knowledge Center, Manage content capa
 
 # Enable system properties for Knowledge Center
 
-To use the [[knowledge-center|Knowledge Center]] plugin, you must enable the system properties before you configure the space.
+To use the Knowledge Center plugin, you must enable the system properties before you configure the space.
 
 ## Before you begin
 
@@ -39,6 +39,4 @@ Role required: admin
     |**__sn\_km\_center.glide.knowman.ece.enable__**|Governs access to the Knowledge Center Article Editor. If set to true, you get access to the enhanced editor capabilities. If set to false, the legacy TinyMCE editor remains available. As there are compatibility gaps between Article Editor and TinyMCE, you can choose based on your training and workflow requirements. Disabling this property also restricts access to article optimization features.|
     |**__sn\_km\_center.glide.knowman.redirect.enable__**|Controls how links to the Knowledge Center behave. If set to true, you will experience all the KC features in the new interface. If set to false, you will be redirected to the Core UI interface, which may be necessary for those with customizations incompatible with the new system. It allows you to use the KC features, while retaining access to legacy forms for compatibility.|
 
-## Related
 
-- [[knowledge-center|Knowledge Center]]

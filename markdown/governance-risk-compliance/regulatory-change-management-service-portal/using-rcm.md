@@ -14,9 +14,9 @@ breadcrumb: [Regulatory Change Management, Governance, Risk, and Compliance]
 
 # Using Regulatory Change Management
 
-You can use the classic environment to perform all [[reg-change-mgmt-landing-page|Regulatory Change Management]] application activities.
+You can use the classic environment to perform all Regulatory Change Management application activities.
 
-As an RCM manager with the sn\_grc\_reg\_change.manager role, you can capture any problems or exceptions that are observed during the workflow by assigning [[list-view-of-reg-alerts|regulatory alerts]] or creating an action task or issue that is related to the [[reg-change-task|regulatory change tasks]] and source document tasks. You can also monitor the regulatory change tasks and action tasks.
+As an RCM manager with the sn\_grc\_reg\_change.manager role, you can capture any problems or exceptions that are observed during the workflow by assigning regulatory alerts or creating an action task or issue that is related to the regulatory change tasks and source document tasks. You can also monitor the regulatory change tasks and action tasks.
 
 You can also use a [setup checklist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/rcm-impl-checklist.md) that can help you to get your base system ready for operation.
 
@@ -78,8 +78,3 @@ Configure a Regulatory Change Management RCM playbook for your organization or b
     1.  Revise the playbook based on the lessons learned and evolving usage guidelines.
     2.  Incorporate the feedback to enhance the monitoring and management processes.
 
-## Related
-
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]
-- [[list-view-of-reg-alerts|Regulatory alerts]]
-- [[reg-change-task|Regulatory change tasks]]

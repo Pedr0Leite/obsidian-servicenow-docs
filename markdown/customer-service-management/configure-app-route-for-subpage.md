@@ -40,7 +40,7 @@ Configuring an app route enables you to utilize an existing page in a page colle
 
 7.  Enter a name In the **Name** field, a route in the **Route** field, and then select the **Screen Collection** that you want to reuse.
 
-    The route is the path that the system uses to reach the page collection. For example, some common routes in [[csm-workspaces-configure|CSM Configurable Workspace]] include record, list, and create\_case\_type for the Create Case modal.
+    The route is the path that the system uses to reach the page collection. For example, some common routes in CSM Configurable Workspace include record, list, and create\_case\_type for the Create Case modal.
 
     You can also create a screen collection by selecting **New** on the UX Screen Collections pop-up window and entering the name, route, and screen collection.
 
@@ -53,6 +53,3 @@ Configuring an app route enables you to utilize an existing page in a page colle
 
 The system adds the subpage to the page collection.
 
-## Related
-
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

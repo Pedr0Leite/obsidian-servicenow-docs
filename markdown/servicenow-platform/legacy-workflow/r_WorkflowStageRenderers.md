@@ -27,7 +27,7 @@ Use the workflow-driven renderer as much as possible. This renderer displays ico
 The **Stage order** field on the **Stages** tab has two options:
 
 -   **Computed** uses the actual workflow path in order
--   **User-specified** uses the order specified in the **Order** column on the [[c_WorkflowStages|Workflow Stages]] record
+-   **User-specified** uses the order specified in the **Order** column on the Workflow Stages record
 
 **Note:** If the workflow context for a request item has been deleted, the stages for that request item can no longer be rendered. This stage history is stored on the workflow context.
 
@@ -46,7 +46,7 @@ Linear rendering displays all stage icons from the main workflow and all subflow
 
 Use this renderer when the workflow stages must display in a consistent order and the actual details of how the workflow runs are less important. For example, a workflow may revisit or revert to previous stages based on one or more [Condition Workflow activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/r_ConditionActivites.md). Displaying these loops in the stage field does not provide useful information to the user. In this scenario, using the linear renderer leads to the best user experience. The stage field displays the predefined process, including stages from subflows, in a consistent order.
 
-For example, you can create a [[service-catalog|service catalog]] workflow that uses a subflow to complete delivery of the requested item. The following images illustrate the main flow and subflow for ordering corporate-branded supplies.
+For example, you can create a service catalog workflow that uses a subflow to complete delivery of the requested item. The following images illustrate the main flow and subflow for ordering corporate-branded supplies.
 
 \[Omitted image "600pxLinearMainflow.png"\] Alt text:
 
@@ -71,7 +71,7 @@ The **Stage order** field on the **Stages** tab has two options:
 
 The legacy renderer displays stages in the same way as releases prior to Dublin. When an instance is upgraded from a release prior to Dublin, all existing workflows are set to use the legacy renderer. Whenever possible, use a different stage renderer instead. If you want your workflow to maintain pre-Dublin behavior, use the Legacy option. The legacy renderer sometimes assigns incorrect data to and/or reports incorrect data from the workflow stage field. If possible, we recommend all workflows use the Workflow-driven renderer.
 
-With the legacy renderer, you can create and [[reference|reference]] a custom workflow field icon set by setting the icons attribute to a new script include. For example, to use the WorkflowIconsSCR script include to define which icons to use, add the attribute **icons=WorkflowIconsSCR** to the **Attributes** field of the dictionary entry for the workflow field. To use the default icon display behavior, use the attribute **icons=WorkflowIconsStages**.
+With the legacy renderer, you can create and reference a custom workflow field icon set by setting the icons attribute to a new script include. For example, to use the WorkflowIconsSCR script include to define which icons to use, add the attribute **icons=WorkflowIconsSCR** to the **Attributes** field of the dictionary entry for the workflow field. To use the default icon display behavior, use the attribute **icons=WorkflowIconsStages**.
 
 The legacy renderer works with all tables except the Requested item \[sc\_req\_item\] table. In this case, use the requested item renderer instead.
 
@@ -130,7 +130,7 @@ Progress bar
 
 </td><td>
 
--   The [[r_WorkflowProperties|workflow properties]] must have a **Stage ordering** value of **User-defined**
+-   The workflow properties must have a **Stage ordering** value of **User-defined**
 -   There must be workflow stages within the workflow.
 -   Because stage names do not appear in a workflow field when using the progress bar renderer, you can simplify stage names to represent a percentage of the workflow. For example, if a process has four main steps, name the workflow stages as 25%, 50%, 75%, and 100%. Enter the numerical value of each stage, such as 25, in the **Value** and **Order** fields.
 
@@ -141,7 +141,7 @@ To select a stage renderer:
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **Workflow** &gt; **[[workflow-editor|Workflow Editor]]**.
+1.  Navigate to **All** &gt; **Workflow** &gt; **Workflow Editor**.
 
 2.  Open and check out the workflow.
 
@@ -155,10 +155,4 @@ To select a stage renderer:
     -   If you want to use the linear renderer, make sure you select **Linear** in the properties for the parent workflow and all subflows.
 6.  Click **Update**.
 
-## Related
 
-- [[c_WorkflowStages|Workflow stages]]
-- [[service-catalog|Service Catalog]]
-- [[reference|Reference]]
-- [[r_WorkflowProperties|Workflow properties]]
-- [[workflow-editor|Workflow editor]]

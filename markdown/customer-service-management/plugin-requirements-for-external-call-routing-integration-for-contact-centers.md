@@ -13,7 +13,7 @@ breadcrumb: [Enable ICC for CCaaS calls and callbacks, Phone channel, Enable com
 
 # Plugin requirements for voiceand callbackintegrations with contact centers
 
-For the [[interaction-controls-component-icc-call-interaction-features|Interaction Controls Component \(ICC\) call features]] to work, you must have a combination of plugins that can be downloaded from the ServiceNow® Store and CCaaS providers.
+For the Interaction Controls Component \(ICC\) call features to work, you must have a combination of plugins that can be downloaded from the ServiceNow® Store and CCaaS providers.
 
 The CCaaS providers must integrate with the ServiceNow platform. Additionally, they must submit their plugin for certification, to be made available for use from the ServiceNow® Store.
 
@@ -44,8 +44,8 @@ The following plugins are required to deploy the call control integration with t
 
     The [External Routing Support](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/enable-awa-external-routing.md) plugin is required for callback integration with contact centers.
 
--   [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\)
--   Agent Workspace, as well as any workspace that works with Agent Chat, [[email-as-an-interaction|Email Interaction]], or Messages.
+-   Customer Service Management \(CSM\)
+-   Agent Workspace, as well as any workspace that works with Agent Chat, Email Interaction, or Messages.
 -   Products with [Contact Center Integration Core](https://store.servicenow.com/sn_appstore_store.do#!/store/application/31e69bd1934f4210d72e39797bba10ac/1.1.0?referer=%2Fstore%2Fsearch%3Flistingtype%3Dallintegrations%25253Bancillary_app%25253Bcertified_apps%25253Bcontent%25253Bindustry_solution%25253Boem%25253Butility%25253Btemplate%25253Bgenerative_ai%25253Bsnow_solution%26q%3Dcontact%2520center&sl=sh) Plugin
 
     -   [Application Spoke Selector](https://store.servicenow.com/sn_appstore_store.do#!/store/search?listingtype=allintegrations%253Bancillary_app%253Bcertified_apps%253Bcontent%253Bindustry_solution%253Boem%253Butility%253Btemplate%253Bgenerative_ai%253Bsnow_solution&q=application%20spoke%20selector)
@@ -53,11 +53,5 @@ The following plugins are required to deploy the call control integration with t
     **Note:** Address the Contact Center Integration Core plugin dependencies prior to downloading the plugin.
 
 
-In addition to the preceding requirements, [[install-csm-omni-callback-app|Install Omnichannel Callback for Customer Service Management]] for callback integration with contact centers.
+In addition to the preceding requirements, [Install Omnichannel Callback for Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/install-csm-omni-callback-app.md) for callback integration with contact centers.
 
-## Related
-
-- [[install-csm-omni-callback-app|Install Omnichannel Callback for Customer Service Management]]
-- [[interaction-controls-component-icc-call-interaction-features|Interaction Controls Component \(ICC\) call features]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[email-as-an-interaction|Email Interaction]]

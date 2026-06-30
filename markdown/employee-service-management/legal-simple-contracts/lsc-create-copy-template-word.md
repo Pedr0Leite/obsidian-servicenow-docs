@@ -30,7 +30,7 @@ Role required: sn\_lg\_contracts.contracts\_config
 
     A template revision is created with the data related to participants and template mappings.
 
-4.  Import template [[field-mappings-sf|field mappings]] from a Microsoft Word document with content controls.
+4.  Import template field mappings from a Microsoft Word document with content controls.
 
     For more information, see [Add content controls in a Microsoft Word document](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/lsc-cont-contr-word-tmplt.md).
 
@@ -53,6 +53,3 @@ Role required: sn\_lg\_contracts.contracts\_config
 
 Map any new meta data found during parsing. For more information, see [Update contract template mappings for legal contract template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/lsc-template-map-msword.md).
 
-## Related
-
-- [[field-mappings-sf|Field mappings]]

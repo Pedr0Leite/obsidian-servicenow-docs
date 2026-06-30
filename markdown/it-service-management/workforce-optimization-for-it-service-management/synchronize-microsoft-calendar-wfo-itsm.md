@@ -38,13 +38,10 @@ Role required: admin
 
 3.  Add the email IDs of the users that you want to synchronize to the User \[sys\_user\] table.
 
-    Your agents' [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]] calendar is now synchronized with their Microsoft Outlook calendar.
+    Your agents' Workforce Optimization for ITSM calendar is now synchronized with their Microsoft Outlook calendar.
 
     **Important:** If the swapped shifts don't appear in the Microsoft Outlook calendar, verify that you've followed all steps in this procedure to make sure that the schedule for the shifts have been synchronized with Microsoft Outlook.
 
 
 **Parent Topic:**[Synchronize agent calendar in Workforce Optimization for ITSM with the Microsoft Outlook calendar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/synchronize-microsoft-outlook-wfo-itsm.md)
 
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]

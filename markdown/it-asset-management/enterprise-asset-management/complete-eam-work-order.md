@@ -26,7 +26,7 @@ When working on an enterprise asset, you can choose to deploy, swap, or remove a
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Work management**.
+1.  Navigate to **Workspaces** &gt; **Enterprise Asset Workspace** &gt; **Work management**.
 
 2.  On the **Work order tasks** tab, select the work order task for the work order that you want to complete and close.
 
@@ -97,7 +97,7 @@ Option to swap an asset or part. You can also swap a discrete asset associated w
 If the asset or part is associated with a multi-component enterprise model that has hot-swappable model components, this field can also be set to **In use**.
 
     -   The asset or part is either displayed on the **Asset Usages** tab or located in your personal stockroom.
-    -   The asset or part is associated with either the same enterprise model as the existing asset or part or a substitute enterprise model that is supported by the existing asset or part. For more information on substitute enterprise [[c_Models|models]], see [Add a substitute model for an enterprise model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/add-enterprise-model-substitute.md).
+    -   The asset or part is associated with either the same enterprise model as the existing asset or part or a substitute enterprise model that is supported by the existing asset or part. For more information on substitute enterprise models, see [Add a substitute model for an enterprise model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/add-enterprise-model-substitute.md).
 3.  Select **OK**.
 -   **Result**
 
@@ -171,7 +171,7 @@ Option to deploy an asset or part. You can also deploy a discrete asset to a lin
 
         6.  In the work area of the Calibration lines lane, select the calibration line that you want to complete or skip.
 
-            Each calibration line corresponds with a calibration attribute on the associated enterprise asset. If any calibration attribute contains multiple points at which you can measure accuracy, the [[enterprise-asset-management|Enterprise Asset Management]] application creates a separate calibration line for each point. You can choose to complete or skip each calibration line as needed. For more details on calibration attributes, see [Add calibration attributes to an enterprise asset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/add-calibration-attributes-enterprise-asset.md) or [Add calibration attributes to an enterprise model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/add-calibration-attributes-enterprise-model.md).
+            Each calibration line corresponds with a calibration attribute on the associated enterprise asset. If any calibration attribute contains multiple points at which you can measure accuracy, the Enterprise Asset Management application creates a separate calibration line for each point. You can choose to complete or skip each calibration line as needed. For more details on calibration attributes, see [Add calibration attributes to an enterprise asset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/add-calibration-attributes-enterprise-asset.md) or [Add calibration attributes to an enterprise model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/add-calibration-attributes-enterprise-model.md).
 
         7.  On the calibration line record, use one of the following options to complete or skip the calibration line:
 
@@ -261,8 +261,3 @@ Additional comments about the calibration.
 
 **Parent Topic:**[Managing work for your enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/managing-work-enterprise-assets.md)
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[c_Models|Models]]
-- [[enterprise-asset-management|Enterprise Asset Management]]

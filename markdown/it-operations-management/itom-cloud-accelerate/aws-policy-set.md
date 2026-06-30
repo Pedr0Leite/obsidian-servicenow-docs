@@ -14,7 +14,7 @@ breadcrumb: [Cloud Configuration Governance reference, Cloud Configuration Gover
 
 # Policy sets
 
-The [[cloud-configuration-governance|Cloud Configuration Governance]] policy sets and its policies are listed for your reference.
+The Cloud Configuration Governance policy sets and its policies are listed for your reference.
 
 <table id="table_lfb_w5s_52c"><thead><tr><th>
 
@@ -123,6 +123,3 @@ Microsoft Azure Foundations Benchmark v1.4.0 - 11-26-2021
 </td></tr></tbody>
 </table>**Parent Topic:**[Cloud Configuration Governance reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/ccg-reference.md)
 
-## Related
-
-- [[cloud-configuration-governance|Cloud Configuration Governance]]

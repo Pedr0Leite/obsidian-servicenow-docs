@@ -14,7 +14,7 @@ breadcrumb: [Real time protection, Data privacy, Data Privacy, Platform Privacy]
 
 # Attachment quarantine policies
 
-Manage [[ca-policies|policies]] that automatically isolate suspicious attachments for security review and analysis.
+Manage policies that automatically isolate suspicious attachments for security review and analysis.
 
 ## About this task
 
@@ -24,9 +24,9 @@ To create attachment quarantine policies, perform the following procedure:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Security** &gt; **[[data-privacy-landing|Data privacy]]** &gt; **[[real-time-protection|Real time protection]]** &gt; **Attachment quarantine policies**.
+1.  Navigate to **All** &gt; **System Security** &gt; **Data privacy** &gt; **Real time protection** &gt; **Attachment quarantine policies**.
 
-2.  Select **[[dds-new-policy|Create new policy]]**.
+2.  Select **Create new policy**.
 
 3.  Enter a Policy Name for the policy.
 
@@ -38,7 +38,7 @@ To create attachment quarantine policies, perform the following procedure:
 
 7.  Specify which data patterns you want to monitor for sensitive content in attachments.
 
-    **Important:** Attachments matching the patterns you define here will be automatically quarantined. [[users|Users]] will receive an **Attachment Quarantined** message indicating the attachment was quarantined due to sensitive data detection, information on the scan result, and instructions for getting their attachment released.
+    **Important:** Attachments matching the patterns you define here will be automatically quarantined. Users will receive an **Attachment Quarantined** message indicating the attachment was quarantined due to sensitive data detection, information on the scan result, and instructions for getting their attachment released.
 
 8.  Select **Save** to set the table definitions as part of the policy.
 
@@ -63,7 +63,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-View [[scan-findings|scan findings]]
+View scan findings
 
 </td><td>
 
@@ -75,17 +75,7 @@ View policy details
 
 </td><td>
 
-View the [[sc-configuration|configuration]] of the attachment quarantine policy. You can also toggle the **Active** button to turn the policy on or off.
+View the configuration of the attachment quarantine policy. You can also toggle the **Active** button to turn the policy on or off.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[ca-policies|Policies]]
-- [[data-privacy-landing|Data Privacy]]
-- [[real-time-protection|Real time protection]]
-- [[dds-new-policy|Create new policy]]
-- [[users|Users]]
-- [[scan-findings|Scan findings]]
-- [[sc-configuration|Configuration]]

@@ -14,7 +14,7 @@ breadcrumb: [Risk assessment flow with Third-party Risk Due Diligence, Use the r
 
 # Playbook stages and activities when Third-party Risk Due Diligence is installed
 
-The following table lists the [[perform-risk-playbook|Perform risk assessment playbook]] stages and activities when Third-party risk Due Diligence is installed.
+The following table lists the Perform risk assessment playbook stages and activities when Third-party risk Due Diligence is installed.
 
 <table><thead><tr><th>
 
@@ -38,7 +38,7 @@ Assign case
 
 </td><td>
 
-As a [[supplier|supplier]] manager or fulfiller, you can use this activity to assign the case to a different person or keep the case assigned to you.You can do the following:
+As a supplier manager or fulfiller, you can use this activity to assign the case to a different person or keep the case assigned to you.You can do the following:
 
  -   In the **Assigned to** search field, search for and select the person that you want to assign the case to.
 -   In the **Short description** field, update the description for the case.
@@ -178,7 +178,3 @@ The state of the due diligence case is updated to Closed completed.
 
 [Risk assessment flow when Third-party Risk Due Diligence is installed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/risk-flow-slo-tprm.md)
 
-## Related
-
-- [[perform-risk-playbook|Perform risk assessment playbook]]
-- [[supplier|Supplier]]

@@ -24,7 +24,7 @@ Role required: sn\_shop.shopping\_hub\_admin or sn\_shop.procurement\_administra
 
 The conditions that you set determine when to merge the purchase requisitions.
 
-**Note:** The existing default scenarios for merging purchase requisitions and [[purchase-lines|purchase lines]] remain valid and function as they did previously. For more information, see [Purchase requisition merging](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-requisition-merging.md).
+**Note:** The existing default scenarios for merging purchase requisitions and purchase lines remain valid and function as they did previously. For more information, see [Purchase requisition merging](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-requisition-merging.md).
 
 You cannot merge the PRs that are in any of the following states:
 
@@ -34,17 +34,17 @@ You cannot merge the PRs that are in any of the following states:
 -   Pending Submission
 -   Pending Cancellation
 -   Pending Revision
--   Pending [[supplier|Supplier]] Confirmation
+-   Pending Supplier Confirmation
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **ShoppingHub** &gt; **Administration** &gt; **[[shoppinghub-configurations|ShoppingHub Configuration]]**.
+1.  Navigate to **All** &gt; **ShoppingHub** &gt; **Administration** &gt; **ShoppingHub Configuration**.
 
 2.  In the Configuration type column, select **Merge configuration**.
 
     The **Configuration type** field is set to **Merge configuration** by default.
 
-    \[Omitted image "pr-merge.png"\] Alt text: [[purchase-requisition|Purchase requisition]] merge conditions.
+    \[Omitted image "pr-merge.png"\] Alt text: Purchase requisition merge conditions.
 
 3.  The **Active** check box is selected by default.
 
@@ -94,7 +94,7 @@ Matching conditions
 
 Include custom fields that you want as part of the condition builder.Move the required fields from the Available list to the Selected list.
 
-Let’s consider a scenario with two PRs, PR1 and PR2. For these PRs to be merged, the values in the fields defined in the matching conditions must be identical in both PRs. For example, if the matching conditions contain the [[cost-center|Cost center]] and [[legal-entity|Legal entity]] fields, PR1's cost center must match PR2's cost center, and the same goes for their legal entity values.
+Let’s consider a scenario with two PRs, PR1 and PR2. For these PRs to be merged, the values in the fields defined in the matching conditions must be identical in both PRs. For example, if the matching conditions contain the Cost center and Legal entity fields, PR1's cost center must match PR2's cost center, and the same goes for their legal entity values.
 
 </td></tr><tr><td>
 
@@ -139,14 +139,5 @@ Allows you to define conditions to manually merge PRs, based on any of the field
 
 [Advanced Work Assignment for Source-to-Pay Operations]()
 
-[Install [[universal-request|Universal Request]] for Sourcing and Procurement Operations]()
+[Install Universal Request for Sourcing and Procurement Operations]()
 
-## Related
-
-- [[purchase-lines|Purchase lines]]
-- [[supplier|Supplier]]
-- [[shoppinghub-configurations|ShoppingHub configuration]]
-- [[purchase-requisition|Purchase requisition]]
-- [[cost-center|Cost center]]
-- [[legal-entity|Legal entity]]
-- [[universal-request|Universal Request]]

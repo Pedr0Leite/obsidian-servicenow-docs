@@ -26,7 +26,7 @@ Role required: sn\_lg\_matter.matter\_config, sn\_lg\_matter.matter\_fulfiller
 
 ## About this task
 
-To create a matter in Legal Tracker, the information related to an outside firm and its outside counsels should be present in both Legal Tracker and [[legal-matter-management-landing-page|Legal Matter Management]].
+To create a matter in Legal Tracker, the information related to an outside firm and its outside counsels should be present in both Legal Tracker and Legal Matter Management.
 
 The scheduled job **Fetch Firms Data** pulls the data for outside firms from Legal Tracker into Legal Matter Management, but there is no scheduled job to pull the name and email of the outside counsels. For enabling matter creation, manually add the outside counsel name and email for the outside firm in Legal Matter Management.
 
@@ -54,7 +54,7 @@ Navigate to **All** &gt; **Legal Matter** &gt; **Outside Counsel Setup** &gt; **
 
 </td></tr><tr><td id="d159771e145">
 
-**From [[legal-counsel-center-landing|Legal Counsel Center]]**
+**From Legal Counsel Center**
 
 </td><td>
 
@@ -81,7 +81,3 @@ Navigate to **All** &gt; **Legal Matter** &gt; **Outside Counsel Setup** &gt; **
 
 **Parent Topic:**[Configure data to enable matter creation in Legal Tracker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/lmm-config-data-mtemplates.md)
 
-## Related
-
-- [[legal-matter-management-landing-page|Legal Matter Management]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]

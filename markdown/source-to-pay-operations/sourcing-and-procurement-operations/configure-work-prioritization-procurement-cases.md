@@ -19,10 +19,10 @@ Configure the **Priority defaulting for procurement cases** decision table to au
 
 ## Before you begin
 
-Before [[configuring-work-prioritization|configuring work prioritization]] for procurement cases, confirm the following:
+Before configuring work prioritization for procurement cases, confirm the following:
 
--   The [[psd-overview|Procurement Case Management]] application \(`sn_spend_psd`\) is installed and active on the instance.
--   The [[shopping-hub-overview|Shopping Hub]] application \(`sn_shop`\) is installed and active — it provides shared priority utilities used by all three record types.
+-   The Procurement Case Management application \(`sn_spend_psd`\) is installed and active on the instance.
+-   The Shopping Hub application \(`sn_shop`\) is installed and active — it provides shared priority utilities used by all three record types.
 -   The following priority levels exist and are active in the instance's priority choice list: Critical, High, Moderate, Low, and Planning.
 -   Your organization has agreed on the business criteria for prioritizing procurement cases before you open the decision table. The table ships with no rules — all conditions must be defined from scratch.
 
@@ -30,15 +30,15 @@ Role required: sn\_spend\_psd.psd\_admin
 
 ## About this task
 
-The **Priority defaulting for procurement cases** decision table contains the rules that determine how priority is assigned to procurement cases. Unlike the [[purchase-requisition|purchase requisition]] and [[sourcing-request|sourcing request]] tables, this table ships with no pre-built rules. Administrators define all conditions from scratch based on the criteria most relevant to their organization.
+The **Priority defaulting for procurement cases** decision table contains the rules that determine how priority is assigned to procurement cases. Unlike the purchase requisition and sourcing request tables, this table ships with no pre-built rules. Administrators define all conditions from scratch based on the criteria most relevant to their organization.
 
-Any field on the procurement case or case line record can be used as a condition input. For example, case type, modification type, spend category, [[supplier|supplier]] tier, or contract value. There are no prescribed evaluation dimensions.
+Any field on the procurement case or case line record can be used as a condition input. For example, case type, modification type, spend category, supplier tier, or contract value. There are no prescribed evaluation dimensions.
 
 This table belongs to the Procurement Case Management application, which is a separate package from the ShoppingHub application that contains the purchase requisition and sourcing request decision tables. If the table does not appear in the decision tables list, confirm that the Procurement Case Management application is installed and that your role includes access to that application scope.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[purchase-experience-workflow|Sourcing and Purchasing Automation]]** &gt; **Decision Tables**.
+1.  Navigate to **All** &gt; **Sourcing and Purchasing Automation** &gt; **Decision Tables**.
 
 2.  In the decision tables list, select **Priority defaulting for procurement cases**.
 
@@ -79,12 +79,3 @@ Procurement cases are automatically assigned a priority level when they are crea
 
 **Parent Topic:**[Configuring work prioritization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/configuring-work-prioritization.md)
 
-## Related
-
-- [[configuring-work-prioritization|Configuring work prioritization]]
-- [[psd-overview|Procurement Case Management]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[purchase-requisition|Purchase requisition]]
-- [[sourcing-request|Sourcing request]]
-- [[supplier|Supplier]]
-- [[purchase-experience-workflow|Sourcing and Purchasing Automation]]

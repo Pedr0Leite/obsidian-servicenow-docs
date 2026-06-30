@@ -14,7 +14,7 @@ breadcrumb: [Access management console, Access Management]
 
 # Use Access management console
 
-Use the [[access-management-console|Access management console]] to ensure that the right individuals have the appropriate permissions to the right resources at the right time.
+Use the Access management console to ensure that the right individuals have the appropriate permissions to the right resources at the right time.
 
 ## Before you begin
 
@@ -22,15 +22,10 @@ Role required: access\_analyzer\_admin, user\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[sec-center-v2|Security Center]]** &gt; **[[access-management-landing|Access Management]]** &gt; **Access Management Console**.
+1.  Navigate to **All** &gt; **Security Center** &gt; **Access Management** &gt; **Access Management Console**.
 
 2.  Use the following features:
 
     -   [Access analyzer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/access-analyzer.md)
     -   [Access findings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/access-findings.md)
 
-## Related
-
-- [[access-management-console|Access management console]]
-- [[sec-center-v2|Security Center]]
-- [[access-management-landing|Access Management]]

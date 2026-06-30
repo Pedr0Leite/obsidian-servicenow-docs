@@ -145,12 +145,9 @@ Previous parent of the workplace entity.This field is applicable for workplace e
 
 [Create a Space Recommender rule]()
 
-[Raise a [[space-assistance|space assistance]] request]()
+[Raise a space assistance request]()
 
 [Create a view-by configuration]()
 
 [Create a KPI Configuration]()
 
-## Related
-
-- [[space-assistance|Space assistance]]

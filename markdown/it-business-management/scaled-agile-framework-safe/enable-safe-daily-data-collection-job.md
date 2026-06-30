@@ -14,7 +14,7 @@ breadcrumb: [Performance Analytics Content Pack for Essential SAFe, Scaled Agile
 
 # Enable daily data collection for Essential SAFe dashboards
 
-Enable scheduled data collection to begin collecting scores on new data automatically for [[essential-overview|Essential SAFe]] dashboards. Data collection jobs automatically collect scores for automated indicators and breakdowns.
+Enable scheduled data collection to begin collecting scores on new data automatically for Essential SAFe dashboards. Data collection jobs automatically collect scores for automated indicators and breakdowns.
 
 ## Before you begin
 
@@ -49,6 +49,3 @@ Role required: pa\_admin or admin
 
 **Parent Topic:**[Performance Analytics Content Pack for Essential SAFe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/pa-content-pack-essential-safe.md)
 
-## Related
-
-- [[essential-overview|Essential SAFe]]

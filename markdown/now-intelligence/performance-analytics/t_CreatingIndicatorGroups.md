@@ -24,8 +24,8 @@ Role required: pa\_admin, pa\_power\_user, or admin
 
 By creating indicator groups, you can organize indicators along whatever themes are most useful to you. The indicators do not have to be of the same type or share an indicator source or data collector job. Indicator groups save you the trouble of specifying multiple individual indicators when you configure the following objects:
 
--   [[list-widgets|List widgets]]
--   [[time-series-widgets|Time series widgets]] with the relative compare visualization
+-   List widgets
+-   Time series widgets with the relative compare visualization
 -   Email notifications about indicators
 -   Security Incident Analytics treemaps
 
@@ -33,7 +33,7 @@ After you create an indicator group, you can add indicators to the group or remo
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]] Administration** &gt; **Indicators** &gt; **Indicator Groups**.
+1.  Navigate to **All** &gt; **Platform Analytics Administration** &gt; **Indicators** &gt; **Indicator Groups**.
 
 2.  Select **New**.
 
@@ -81,8 +81,3 @@ In this example, create an indicator group with all the indicators that refer to
 
 [bundle-security.t_DfnSvcImpctTmapDmn]
 
-## Related
-
-- [[list-widgets|List widgets]]
-- [[time-series-widgets|Time series widgets]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

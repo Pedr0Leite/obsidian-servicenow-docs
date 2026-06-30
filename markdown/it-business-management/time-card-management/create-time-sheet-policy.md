@@ -14,7 +14,7 @@ breadcrumb: [Time sheet policies, Time Card management, Project Portfolio Manage
 
 # Create a time sheet policy
 
-As a time card administrator, you can create a time sheet policy to define the requirements for time card users to record their time worked. The time card approvers must review and process [[time-sheets|time sheets]] under the applicable time sheet policy.
+As a time card administrator, you can create a time sheet policy to define the requirements for time card users to record their time worked. The time card approvers must review and process time sheets under the applicable time sheet policy.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: timecard\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Time Sheets** &gt; **Administration** &gt; **[[time-sheet-policies|Time Sheet Policies]]**.
+1.  Navigate to **All** &gt; **Time Sheets** &gt; **Administration** &gt; **Time Sheet Policies**.
 
 2.  Click **New**.
 
@@ -46,7 +46,7 @@ Unique name of the policy.
 
 </td></tr><tr><td>
 
-Allow blank [[c_TimeCards|time cards]]
+Allow blank time cards
 
 </td><td>
 
@@ -60,7 +60,7 @@ Auto create time card on planned task update
 
 </td><td>
 
-Option to [[t_CreateATimeCard|create a time card]] automatically when you update a planned task, if the following conditions are true:
+Option to create a time card automatically when you update a planned task, if the following conditions are true:
 
  -   You are a time card user
 -   You are assigned to the task through **Assigned to** or **Additional assignee list** field
@@ -87,7 +87,7 @@ Auto create time cards every week
 
 </td><td>
 
-Option to [generate time cards automatically](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/auto-generate-time-cards.md) every week through a scheduled job for all users assigned to the time sheet policy. The time cards are generated based on the planned task assignments and hard-allocated [[c_ResourcePlans|resource plans]] of the users.
+Option to [generate time cards automatically](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/auto-generate-time-cards.md) every week through a scheduled job for all users assigned to the time sheet policy. The time cards are generated based on the planned task assignments and hard-allocated resource plans of the users.
 
  By default, this option is selected.
 
@@ -177,7 +177,7 @@ Non-project time approver
 
 </td><td>
 
-Type of approval required when you [[submit-time-card|submit a time card]] that has a non-project task assigned.
+Type of approval required when you submit a time card that has a non-project task assigned.
 
  -   **Auto**: Time card is auto-approved when submitted.
 -   **User Manager**: Time card is routed to the user manager for approval when submitted.
@@ -253,11 +253,3 @@ Option to set the time sheet policy as the default. The default policy is a glob
 
 **Parent Topic:**[Time sheet policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/time-sheet-policies.md)
 
-## Related
-
-- [[time-sheets|Time Sheets]]
-- [[time-sheet-policies|Time sheet policies]]
-- [[c_TimeCards|Time cards]]
-- [[t_CreateATimeCard|Create a time card]]
-- [[c_ResourcePlans|Resource plans]]
-- [[submit-time-card|Submit a time card]]

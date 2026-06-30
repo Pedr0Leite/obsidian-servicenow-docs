@@ -14,7 +14,7 @@ breadcrumb: [Employee Profile table, HR Administration, Configure, Case and Know
 
 # Activate Employee Profile
 
-You can activate the [[emp-slate-employee-profile|Employee Profile]] plugin \[sn\_employee\] if you have the admin role.
+You can activate the Employee Profile plugin \[sn\_employee\] if you have the admin role.
 
 ## Before you begin
 
@@ -40,6 +40,3 @@ Several types of components are installed with activation of the Employee Profil
 
 **Parent Topic:**[Employee Profile table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/employee-profile.md)
 
-## Related
-
-- [[emp-slate-employee-profile|Employee profile]]

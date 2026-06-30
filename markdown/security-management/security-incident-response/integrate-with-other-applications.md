@@ -14,12 +14,12 @@ breadcrumb: [Major Security Incident Management, Security Incident Response, Ent
 
 # Integrating Major Security Incident Management
 
-Extend the capabilities of [[major-security-incident-management-landing-page|Major Security Incident Management]] and connect with ServiceNow AI Platform instance by integrating with Microsoft applications.
+Extend the capabilities of Major Security Incident Management and connect with ServiceNow AI Platform instance by integrating with Microsoft applications.
 
 **Important:** An update set \([KB1289784](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1289784)\) is available within the Major Security Incident Management Quick Start Guide to help users with an easy configuration set up, you need to import the update set after you complete the application installation. Follow the procedure detailed in the Quick Start Guide \(Step 2\) under the Supporting documents section within the MSIM application, which is on ServiceNow Store.
 
 -   **[Integrate Major Security Incident Management with Microsoft SharePoint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/integrate-msim-sharepoint.md)**  
-[[integrating-threat-intelligence-security-center|Integrate]] your Microsoft SharePoint with Major Security Incident Management.
+Integrate your Microsoft SharePoint with Major Security Incident Management.
 -   **[Integrate Major Security Incident Management with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/integrate-teams-msim.md)**  
 Integrate your Microsoft Teams with Major Security Incident Management.
 -   **[Establish MS Teams Graph connection on ServiceNow AI Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/msim-micorsoft-team-requirements.md)**  
@@ -29,7 +29,3 @@ With Major Security Incident Management conference calls integration, you can co
 
 **Parent Topic:**[Major Security Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/major-security-incident-management-landing-page.md)
 
-## Related
-
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]
-- [[integrating-threat-intelligence-security-center|Integrate]]

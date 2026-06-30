@@ -31,7 +31,7 @@ When you create demand forecast configurations, the application creates metrics:
 
 Watch this video to see how you can model demand scenarios and view updated demand on the calendar.
 
-As a manager with the forecast admin role, you can create forecast parameters in the [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]] Manager Workspace. [Modify forecast parameters to visualize forecast data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/modify-forecast-parameters-configurable-wfo-itsm.md) and preview time-series data before publishing it. You can create any number of forecasts to preview the time-series data in real time.
+As a manager with the forecast admin role, you can create forecast parameters in the Workforce Optimization for ITSM Manager Workspace. [Modify forecast parameters to visualize forecast data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/modify-forecast-parameters-configurable-wfo-itsm.md) and preview time-series data before publishing it. You can create any number of forecasts to preview the time-series data in real time.
 
 You can also make manual adjustments to tweak the forecast and analyze the forecast pattern. You can overlay the manual adjustments on the visualized forecast data and view the time-series data to analyze the forecast model. For example, if you have a specific pattern for the upcoming week but you know that a national holiday falls in the middle of the week where you need more agents because you expect the sales to go up, you can manually tweak the forecast to increase it by 10% and analyze that data.
 
@@ -88,6 +88,3 @@ The data collected by the Agent Forecast metric in MetricBase is used to forecas
 
 [Set up Demand Forecast](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/configure-data-collection-configurable-wfo-itsm.md)
 
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]

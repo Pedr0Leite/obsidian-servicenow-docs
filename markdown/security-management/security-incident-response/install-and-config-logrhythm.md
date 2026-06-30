@@ -14,7 +14,7 @@ breadcrumb: [LogRhythm Overview, Security Incident Response integrations, Securi
 
 # Install the plugin and configure LogRhythm
 
-Before you run the integration on your instance, complete the installation and configuration steps so the application properly integrates with [[security-operations-landing-page|Security Operations]] on the ServiceNow AI Platform®.
+Before you run the integration on your instance, complete the installation and configuration steps so the application properly integrates with Security Operations on the ServiceNow AI Platform®.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Verify that you have assigned the required ServiceNow AI Platform® and [[sir-landing-page|Security Incident Response]] \(SIR\) roles.
+Verify that you have assigned the required ServiceNow AI Platform® and Security Incident Response \(SIR\) roles.
 
 </td><td>
 
@@ -81,14 +81,14 @@ For the Rome release and later family releases, the Security Incident Response D
 3.  Security Support Common
 4.  Security Support Orchestration
 
- For more information on setting up your ServiceNow AI Platform instance for the integration, see [[entitle-secops-product|Get entitlement for a Security Operations product or application]] and [[activate-entitled-store-app|Activate a ServiceNow Store application]].
+ For more information on setting up your ServiceNow AI Platform instance for the integration, see [Get entitlement for a Security Operations product or application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/entitle-secops-product.md) and [Activate a ServiceNow Store application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/activate-entitled-store-app.md).
 
 </td></tr></tbody>
 </table>**Important:** If you have any connectivity issues to the LogRhythm client console, refer to the [Verify connectivity for LogRhythm](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/verify-connectivity.md).
 
 ## Procedure
 
-1.  If you have not installed the application for the integration, see [[install-non-core-apps|Install a Security Operations integration]] and follow the steps to install it.
+1.  If you have not installed the application for the integration, see [Install a Security Operations integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/install-non-core-apps.md) and follow the steps to install it.
 
 2.  Once the installation completes, navigate to **Integrations** &gt; **Integrations Configurations** and locate the LogRhythm tile.
 
@@ -170,10 +170,3 @@ After you successfully complete the validation, the next step is to [Creating an
 
 **Next topic:**[Creating an alarm profile for LogRhythm](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-alarm-profile-logrhythm.md)
 
-## Related
-
-- [[entitle-secops-product|Get entitlement for a Security Operations product or application]]
-- [[activate-entitled-store-app|Activate a ServiceNow Store application]]
-- [[install-non-core-apps|Install a Security Operations integration]]
-- [[security-operations-landing-page|Security Operations]]
-- [[sir-landing-page|Security Incident Response]]

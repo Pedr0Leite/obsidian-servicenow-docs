@@ -14,7 +14,7 @@ breadcrumb: [New Benchmarks Dashboard, Use, Benchmarks, IT Service Management]
 
 # View benchmark KPI data
 
-[[benchmarks-landing|Benchmarks]] KPI data is shown in Benchmarks dashboard built in Next Experience UI. Data includes values for your company instance, and for global data.
+Benchmarks KPI data is shown in Benchmarks dashboard built in Next Experience UI. Data includes values for your company instance, and for global data.
 
 ## Before you begin
 
@@ -47,6 +47,3 @@ Role required: sn\_bm\_client.benchmark\_data\_viewer
 
 Click a KPI to view .
 
-## Related
-
-- [[benchmarks-landing|Benchmarks]]

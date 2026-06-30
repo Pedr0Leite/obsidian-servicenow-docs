@@ -16,7 +16,7 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 Use the **glide.security.use\_csrf\_token** property to ensure the use of a secure token to identify and validates incoming requests, which in turn are used to prevent these attacks.
 
-Cross-Site [[c_requestAPI|Request]] Forgery \(CSRF\) is an attack that forces authenticated [[users|users]] to submit a request to a Web application against which they are currently authenticated. CSRF attacks exploit the trust a Web application has in an authenticated user.This property enables usage of a secure token to identify and validate incoming requests. This token is used to prevent cross site request forgery attacks. If **glide.security.use\_csrf\_token**is not set to the recommended value of true, then CSRF is possible.
+Cross-Site Request Forgery \(CSRF\) is an attack that forces authenticated users to submit a request to a Web application against which they are currently authenticated. CSRF attacks exploit the trust a Web application has in an authenticated user.This property enables usage of a secure token to identify and validate incoming requests. This token is used to prevent cross site request forgery attacks. If **glide.security.use\_csrf\_token**is not set to the recommended value of true, then CSRF is possible.
 
 ## More information
 
@@ -38,11 +38,11 @@ Property name
 
 </td></tr><tr><td>
 
-[[sc-configuration|Configuration]] type
+Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -105,9 +105,3 @@ Security risk
 
 **Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[c_requestAPI|request]]
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

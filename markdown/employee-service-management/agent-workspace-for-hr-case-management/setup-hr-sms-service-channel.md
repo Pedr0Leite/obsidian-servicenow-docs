@@ -14,7 +14,7 @@ breadcrumb: [SMS conversations in HR Service Delivery Agent Workspace, Using Age
 
 # Set up HR Service Delivery Conversational SMS service channel
 
-Configure the Conversational SMS service channel store app for [[hr-service-delivery|HR Service Delivery]].
+Configure the Conversational SMS service channel store app for HR Service Delivery.
 
 ## Before you begin
 
@@ -64,6 +64,4 @@ The HR Service Delivery base system includes the **HR SMS** service channel queu
 
     **Note:** For complete information regarding Conversational SMS service channels and setup guidance, refer to [Conversational SMS service channel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/conversation-sms-service-channel-store-app.md).
 
-## Related
 
-- [[hr-service-delivery|HR Service Delivery]]

@@ -14,7 +14,7 @@ breadcrumb: [Available on-premise discovery patterns, Discovery patterns used by
 
 # Dell EMC XtremIO storage array discovery
 
-ServiceNow [[r-discovery|Discovery]] uses the Dell EMC XtremIO storage array pattern to find Dell EMC XtremIO storage array components. Discovering some of these resources may require updating to the latest version of the Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns application from the ServiceNow Store.
+ServiceNow Discovery uses the Dell EMC XtremIO storage array pattern to find Dell EMC XtremIO storage array components. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 ## Request apps on the Store
 
@@ -640,7 +640,3 @@ cmdb\_ci\_fc\_disk
 
 [Detailed information on products discovered by ITOM Visibility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_SupportedApplications.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

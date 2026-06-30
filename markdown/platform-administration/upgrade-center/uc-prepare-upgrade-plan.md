@@ -28,7 +28,7 @@ Role required: admin
 
 2.  Select the upgrade plan.
 
-    The upgrade plan form view shows up with all its [[clone-configurations-tab|configurations]].
+    The upgrade plan form view shows up with all its configurations.
 
 3.  To ensure that all the applications and plugins are ready to be implemented in the upgrade, select **Refresh** in the context menu of the Upgrade Plan.
 
@@ -69,6 +69,3 @@ Preview your upgrade plan before being implemented in the upgrades. Once the upg
 
 [Apply Upgrade Plan on your upgrade]()
 
-## Related
-
-- [[clone-configurations-tab|Configurations]]

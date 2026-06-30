@@ -14,7 +14,7 @@ breadcrumb: [Audit Workspace Overview, Audit Management, Governance, Risk, and C
 
 # Audit Workspace limited
 
-The Lite [[audit-management-overview-ws|Audit workspace]] is a simplified version of the [[c_GRCAudits|Audit Management]] workspace. In this workspace, you can access engagements, add existing entities to an engagement, and create activities. If the advanced core store app is installed, evidence\(s\) can also be associated with the engagement.
+The Lite Audit workspace is a simplified version of the Audit Management workspace. In this workspace, you can access engagements, add existing entities to an engagement, and create activities. If the advanced core store app is installed, evidence\(s\) can also be associated with the engagement.
 
 The Lite Audit Workspace comes with the following roles:
 
@@ -66,7 +66,3 @@ Audit activities involve collecting and documenting evidence to show that the or
 
 Audit evidence refers to all information used by auditors to form their audit opinion. This includes data from accounting records, financial statements, and other relevant sources. Evidence is cumulative and may come from current audit procedures as well as prior audits. For more information, see [Request evidence for audit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/request-evidence.md).
 
-## Related
-
-- [[audit-management-overview-ws|Audit Workspace]]
-- [[c_GRCAudits|Audit Management]]

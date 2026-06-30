@@ -22,7 +22,7 @@ Role required: admin and sn\_msi.workspace\_admin.
 
 **Procedure**
 
-1.  Navigate to **[[major-security-incident-management-landing-page|Major Security Incident Management]]** &gt; **Linked Record Configurations**.
+1.  Navigate to **Major Security Incident Management** &gt; **Linked Record Configurations**.
 
     The Linked Record Configuration page displays.
 
@@ -80,12 +80,12 @@ Select this check box to confirm whether the record is a primary record. Below i
 
 -   you can directly propose and promote a source record to Major Security Incident using the classic environment actions with additional configurations.
 -   you can link source records to major security incidents both from the classic environment and MSIM workspace.
--   [[msim-workspace|Major Security Incident Management workspace]] linked record page displays the linked source table records.
+-   Major Security Incident Management workspace linked record page displays the linked source table records.
  **Note:** If a record can be directly proposed/promoted as a Major Security Incident, then that record is a primary record. For example, in the Security Response task table configuration, the value of **Can Promote to MSI** is false as you can't directly promote Security Response task to Major Security Incident. Hence, it does not show up in the MSIM workspace linked record tab drop-down list.
 
 </td></tr><tr><td>
 
-MSI Field [[mapping-logrhythm|Mapping]]
+MSI Field Mapping
 
 </td><td>
 
@@ -110,8 +110,3 @@ Write a script to map the source record fields to a newly created major security
 
 [Perform on demand atomic rollup]()
 
-## Related
-
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]
-- [[msim-workspace|Major Security Incident Management workspace]]
-- [[mapping-logrhythm|Mapping]]

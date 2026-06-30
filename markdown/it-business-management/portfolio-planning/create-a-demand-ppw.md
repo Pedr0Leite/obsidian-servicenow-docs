@@ -22,9 +22,9 @@ Role required: it\_demand\_manager, it\_demand\_user
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace** &gt; **Demands** &gt; **New**.\[Omitted image "demand-creation-form.png"\] Alt text: Demand creation form.
+1.  Navigate to **Workspaces** &gt; **Portfolio Planning Workspace** &gt; **Demands** &gt; **New**.\[Omitted image "demand-creation-form.png"\] Alt text: Demand creation form.
 
-2.  On the [[demand-form|Demand form]], fill in the fields.
+2.  On the Demand form, fill in the fields.
 
 <table id="table_z3j_l11_h3c"><thead><tr><th>
 
@@ -48,7 +48,7 @@ Start date
 
 </td><td>
 
-The preliminary or estimated date when the work is initially planned to begin. This date helps outline the intended timing for early demand planning and prioritization. You can set this date during initial demand creation or anytime in the planning phase when a rough idea [[form-field-information-for-dw|forms]]. This date can be updated until the demand is officially approved. For example, you’re planning for a database upgrade to start on 2025-11-01.
+The preliminary or estimated date when the work is initially planned to begin. This date helps outline the intended timing for early demand planning and prioritization. You can set this date during initial demand creation or anytime in the planning phase when a rough idea forms. This date can be updated until the demand is officially approved. For example, you’re planning for a database upgrade to start on 2025-11-01.
 
 This date is changed to **Planned start date** when the demand is converted to a project.**Note:**
 
@@ -88,8 +88,3 @@ The preliminary or estimated date when the planned work is expected to be comple
 
 [Update the demand details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/update-the-demand-details-ppw.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[demand-form|Demand form]]
-- [[form-field-information-for-dw|Forms]]

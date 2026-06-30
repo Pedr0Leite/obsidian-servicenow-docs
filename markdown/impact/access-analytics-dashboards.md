@@ -12,7 +12,7 @@ breadcrumb: [Track Platform Health trends, Platform Health, Using Impact, Impact
 
 # Accessing Analytics Dashboards
 
-Access the [[io-analytics|Analytics]] Dashboards to view detailed information relating to Scan Engine findings, both pending and resolved.
+Access the Analytics Dashboards to view detailed information relating to Scan Engine findings, both pending and resolved.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: Executive, Platform Owner, Team Lead, or Developer.
 
 ## Procedure
 
-1.  Navigate to **ALL** &gt; **[[impact-landing-page|Impact]]** &gt; **[[platform-health-idi|Platform Health]]** &gt; **Analytics Dashboard**.
+1.  Navigate to **ALL** &gt; **Impact** &gt; **Platform Health** &gt; **Analytics Dashboard**.
 
     Your assigned role is listed at the top left, which determines which dashboard view you can access.
 
@@ -40,7 +40,7 @@ Role required: Executive, Platform Owner, Team Lead, or Developer.
 
     -   **Cost**: Cost is calculated by multiplying the Average development rate \(configured in the Scan Engine properties\) by the estimated time to resolve the finding \(as set in the finding’s associated definition\).
     -   **Count**: The total number of findings.
-    -   **Time**: Each definition includes an estimated time to resolve based on expert-driven recommendations. These estimates serve as practical guidelines to [[io-help|help]] teams estimate how long an issue should take to fix on average, promoting better planning and prioritization.
+    -   **Time**: Each definition includes an estimated time to resolve based on expert-driven recommendations. These estimates serve as practical guidelines to help teams estimate how long an issue should take to fix on average, promoting better planning and prioritization.
 5.  On Executive  and  Team Lead  dashboards, select a date range for trend chart data:
 
     -   Predefined range
@@ -51,9 +51,4 @@ Role required: Executive, Platform Owner, Team Lead, or Developer.
 
     Blue text within table cells are hyperlinks to other modals or new tabs. Blue table column headers are sortable \(select the header to sort\). In sorted tables, the sorted column will have a small caret next to its name.
 
-## Related
 
-- [[io-analytics|Analytics]]
-- [[impact-landing-page|Impact]]
-- [[platform-health-idi|Platform Health]]
-- [[io-help|Help]]

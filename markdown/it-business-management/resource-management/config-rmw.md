@@ -14,7 +14,7 @@ breadcrumb: [Configure, Resource Management Workspace, Project Portfolio Managem
 
 # Install Resource Management Workspace
 
-Install the [[rsrc-mgmt-wrkspc|Resource Management Workspace]] application from the ServiceNow Store.
+Install the Resource Management Workspace application from the ServiceNow Store.
 
 ## Before you begin
 
@@ -49,6 +49,3 @@ The Resource Management Workspace application is installed in your instance.
 
 **Parent Topic:**[Configure Resource Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/configure-rmw.md)
 
-## Related
-
-- [[rsrc-mgmt-wrkspc|Resource Management Workspace]]

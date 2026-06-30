@@ -14,7 +14,7 @@ breadcrumb: [Record producers, Configure, Financial Services Operations \(FSO\)]
 
 A record producer enables your users to submit banking requests from the Banking Service catalog and Consumer Service portal and stores the requested information as a record in the associated table.
 
-The following table lists the record producers that are available with [[fso-overview|Financial Services]] Operations applications. The record producers are available in the Record Producer \[sc\_cat\_item\_producer\] table.
+The following table lists the record producers that are available with Financial Services Operations applications. The record producers are available in the Record Producer \[sc\_cat\_item\_producer\] table.
 
 <table id="table_nsl_nfd_jmb"><thead><tr><th>
 
@@ -30,7 +30,7 @@ Associated Table name
 
 </th></tr></thead><tbody><tr><td rowspan="4">
 
-[[payment-ops-landing-page|Financial Services Payment Operations]]
+Financial Services Payment Operations
 
 </td><td>
 
@@ -66,7 +66,7 @@ Claim \[sn\_bom\_payment\_claim\]
 
 </td></tr><tr><td rowspan="7">
 
-[[card-ops-landing-page|Financial Services Card Operations]]
+Financial Services Card Operations
 
 </td><td>
 
@@ -126,9 +126,3 @@ Credit Card Service \[sn\_bom\_credit\_card\_service\]
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[fso-overview|Financial Services]]
-- [[payment-ops-landing-page|Financial Services Payment Operations]]
-- [[card-ops-landing-page|Financial Services Card Operations]]

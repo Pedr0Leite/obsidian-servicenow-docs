@@ -42,7 +42,7 @@ Organizations can define who the topic page is **Available for** and **Not Avail
 
 2.  Click **New**.
 
-3.  Configure the [[topic-form|topic form]], see [Topic form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/topic-form.md).
+3.  Configure the topic form, see [Topic form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/topic-form.md).
 
 4.  Select **Enable user criteria check** to set user criteria at topic-level.
 
@@ -51,7 +51,7 @@ Organizations can define who the topic page is **Available for** and **Not Avail
     Understand how it works from the message.
 
     ```
-    Enable user criteria check to determine visibility of the current topic and its child topics in navigation and [[config-popular-topics|popular topics widget]]. The criteria set also applies to child topics. Criteria in connected content still govern content visibility on topic pages
+    Enable user criteria check to determine visibility of the current topic and its child topics in navigation and popular topics widget. The criteria set also applies to child topics. Criteria in connected content still govern content visibility on topic pages
     ```
 
     and proceed to add criteria for the following options:
@@ -87,7 +87,7 @@ Organizations can define who the topic page is **Available for** and **Not Avail
 
 ## Result
 
-User criteria changes are available only after relogging. Proceed to check the topics visibility from the [[employee-center-landing-page|Employee Center]] portal.
+User criteria changes are available only after relogging. Proceed to check the topics visibility from the Employee Center portal.
 
 ## What to do next
 
@@ -95,8 +95,3 @@ Create child topics for the parent topic. For more information, see [Create a ch
 
 **Note:** When you clone or move a topic, the associated guided self-service also is cloned or moved accordingly.
 
-## Related
-
-- [[topic-form|Topic form]]
-- [[config-popular-topics|Popular topics widget]]
-- [[employee-center-landing-page|Employee Center]]

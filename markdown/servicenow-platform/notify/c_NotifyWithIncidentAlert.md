@@ -14,7 +14,7 @@ breadcrumb: [Using Notify, Notify, Manage service capabilities, Extend ServiceNo
 
 # Using Notify with Incident Communications Management
 
-Use [[notify-landing-page|Notify]] with incident communication plan to send SMS messages or start conference calls.
+Use Notify with incident communication plan to send SMS messages or start conference calls.
 
 Certain configuration steps are required to use Notify with an incident communication plan.
 
@@ -43,6 +43,3 @@ Update users on the latest communication on an incident through selected communi
 
 [Using Notify for making conference calls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/c_NotifyConferenceCalls.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]

@@ -18,7 +18,7 @@ To upload and distribute custom applications on the ServiceNow Store, you need t
 
 All applications have an application scope that determines which of its resources are available to other parts of the system. Application scoping ensures that one application does not impact another application. You specify what parts of an application other applications can access by setting application access controls.
 
-For example, if you create a conference room booking application in its own application scope, by default, the application can access and change its own tables and business logic, but other applications such as Incident [[management|Management]] cannot make changes to it without explicit permission.
+For example, if you create a conference room booking application in its own application scope, by default, the application can access and change its own tables and business logic, but other applications such as Incident Management cannot make changes to it without explicit permission.
 
 An application scope ensures that:
 
@@ -27,6 +27,3 @@ An application scope ensures that:
 
 Application scope is available for new and upgraded instances starting with the Fuji release.
 
-## Related
-
-- [[management|Management]]

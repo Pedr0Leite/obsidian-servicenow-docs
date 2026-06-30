@@ -14,13 +14,13 @@ breadcrumb: [Interactive Analysis, Reporting, dashboards, and Performance Analyt
 
 # Interactive Analysis aggregations
 
-When you work with [[interactive-analysis|Interactive Analysis]], you can view data from the perspectives of record counts, sums, averages, and distinct counts.
+When you work with Interactive Analysis, you can view data from the perspectives of record counts, sums, averages, and distinct counts.
 
 ## Aggregation types
 
 -   **Count**
 
-    Count is the default aggregation and shows when you [[launch-interactive-analysis-pa|launch Interactive Analysis]]. The Count aggregation shows the number of records selected. For example, an analysis of incidents grouped by state, stacked by priority, and aggregated by count shows the number of incidents in each category in hints and in the cells of multidimensional reports.
+    Count is the default aggregation and shows when you launch Interactive Analysis. The Count aggregation shows the number of records selected. For example, an analysis of incidents grouped by state, stacked by priority, and aggregated by count shows the number of incidents in each category in hints and in the cells of multidimensional reports.
 
     \[Omitted image "ia-aggregation-count.png"\] Alt text: Interactive analysis with count aggregation and hints.
 
@@ -37,7 +37,3 @@ When you work with [[interactive-analysis|Interactive Analysis]], you can view d
 
 **Parent Topic:**[Interactive Analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/interactive-analysis.md)
 
-## Related
-
-- [[interactive-analysis|Interactive Analysis]]
-- [[launch-interactive-analysis-pa|Launch Interactive Analysis]]

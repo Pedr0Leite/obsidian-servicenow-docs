@@ -14,7 +14,7 @@ breadcrumb: [Account recovery \(ACR\), Multi-Provider SSO configurations, Multi-
 
 # Account recovery properties
 
-Use [[ca-system-properties|system properties]] to configure [[sso-acct-recovery|Account Recovery \(ACR\)]] on your instance.
+Use system properties to configure Account Recovery \(ACR\) on your instance.
 
 Access the account recovery properties on your instance by navigating to **Multi-Provider SSO** &gt; **Account Recovery** &gt; **Properties**.
 
@@ -24,7 +24,3 @@ Access the account recovery properties on your instance by navigating to **Multi
 |Enable debug logging for account recovery \[glide.sso.acr.debug.log.enabled\]|Whether your instance includes account recovery information in debug logging. This property is disabled by default.|
 |ACR user session timeout \(in minutes\) \[glide.sso.acr.ui.session.timeout\]|Minutes of inactivity before your instance terminates an account recovery user session. This property has a default value of 30.|
 
-## Related
-
-- [[ca-system-properties|System properties]]
-- [[sso-acct-recovery|Account recovery \(ACR\)]]

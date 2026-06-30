@@ -23,7 +23,7 @@ Role required: none
 
 ## About this task
 
-This procedure describes the standard [[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]] upgrade process. Typically, you would use a Helm chart to perform the upgrade. Alternatively, you can upgrade Kubernetes Visibility Agent by configuring and running the Kubernetes YAML file provided by ServiceNow. In both cases, there is no need to uninstall before upgrading.
+This procedure describes the standard Kubernetes Visibility Agent upgrade process. Typically, you would use a Helm chart to perform the upgrade. Alternatively, you can upgrade Kubernetes Visibility Agent by configuring and running the Kubernetes YAML file provided by ServiceNow. In both cases, there is no need to uninstall before upgrading.
 
 You can also upgrade Kubernetes Visibility Agent Informer pods in Kubernetes clusters remotely from the ServiceNow Instance. For more information, see [Upgrade Kubernetes Visibility Agent Informers remotely](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cnov-informer-upgrade-remote.md).
 
@@ -89,6 +89,3 @@ For information about Kubernetes Visibility Agent administration and troubleshoo
 
 **Parent Topic:**[Configuring Kubernetes Visibility Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cnov-configuring.md)
 
-## Related
-
-- [[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]]

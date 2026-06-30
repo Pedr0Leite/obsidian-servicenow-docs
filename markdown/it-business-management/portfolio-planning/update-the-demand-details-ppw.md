@@ -14,7 +14,7 @@ breadcrumb: [Manage demands, Next Experience for Demand Management in Portfolio 
 
 # Update the demand details
 
-Update the details of a demand record in Next Experience for [[c_DemandManagement|Demand Management]] to reflect any changes in scope, priority, or capacity.
+Update the details of a demand record in Next Experience for Demand Management to reflect any changes in scope, priority, or capacity.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: it\_demand\_user, it\_demand\_manager
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace** &gt; **Demands**.
+1.  Navigate to **Workspaces** &gt; **Portfolio Planning Workspace** &gt; **Demands**.
 
 2.  Update the demand record details in any of the following ways.
 
@@ -81,7 +81,3 @@ Process
 
 [Demand default playbook stages and activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/demand-default-playbook-stages-activities-ppw.md)
 
-## Related
-
-- [[c_DemandManagement|Demand Management]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

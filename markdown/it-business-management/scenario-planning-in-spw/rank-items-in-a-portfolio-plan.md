@@ -22,7 +22,7 @@ Role required: sn\_align\_core.apw\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]]** &gt; **Strategic Planning Workspace**.
+1.  Navigate to **All** &gt; **Strategic Planning** &gt; **Strategic Planning Workspace**.
 
 2.  Select to open the portfolio plan for which you want to start ranking of items.
 
@@ -45,6 +45,3 @@ The items in your portfolio plan are ranked based on your ranked attribute.
 
 **Parent Topic:**[Scoring planning items in Strategic Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/using-scoring-frameworks-in-startegic-planning-workspace.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

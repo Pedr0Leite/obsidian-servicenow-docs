@@ -16,7 +16,7 @@ You can use widget instances to configure the location, properties, and CSS spec
 
 ## Before you begin
 
-A page must already be created with widgets added to it. For information on how to create or edit a portal page and add widgets, see [[psds-config-govuk-dev-tk-portal-pages|Configure the GOV.UK Design System Service Portal Pages]]. You can also configure the existing widget instances on a base system page. For more information on the base system pages that come with the GOV.UK Developer Toolkit, see [Configure the GOV.UK Design System Service Portal Pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-govuk-dev-tk-portal-pages.md).
+A page must already be created with widgets added to it. For information on how to create or edit a portal page and add widgets, see [Configure the GOV.UK Design System Service Portal Pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-govuk-dev-tk-portal-pages.md). You can also configure the existing widget instances on a base system page. For more information on the base system pages that come with the GOV.UK Developer Toolkit, see [Configure the GOV.UK Design System Service Portal Pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-govuk-dev-tk-portal-pages.md).
 
 Role required: admin, sp\_admin
 
@@ -40,7 +40,7 @@ You can use widget instances to configure the location, properties, and CSS spec
 
 For more information on configuring widget instances, see [Configure Widgets Instances for GDS Service Portal pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-govuk-dev-tk-portal-widgets-instances.md).
 
-For information on how to clone and edit a default GDS Service Portal widget, see [[psds-config-govuk-dev-tk-portal-widgets-edit|Customize Widgets for GOV.UK Design System Service Portal pages]].
+For information on how to clone and edit a default GDS Service Portal widget, see [Customize Widgets for GOV.UK Design System Service Portal pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-govuk-dev-tk-portal-widgets-edit.md).
 
 ## Procedure
 
@@ -57,10 +57,5 @@ For information on how to clone and edit a default GDS Service Portal widget, se
 6.  Select **Save**.
 
 
-**Parent Topic:**[[psds-config-govuk-dev-tk-portal-widgets|Configure the GOV.UK Design System Service Portal Widgets]]
+**Parent Topic:**[Configure the GOV.UK Design System Service Portal Widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-govuk-dev-tk-portal-widgets.md)
 
-## Related
-
-- [[psds-config-govuk-dev-tk-portal-pages|Configure the GOV.UK Design System Service Portal Pages]]
-- [[psds-config-govuk-dev-tk-portal-widgets-edit|Customize Widgets for GOV.UK Design System Service Portal pages]]
-- [[psds-config-govuk-dev-tk-portal-widgets|Configure the GOV.UK Design System Service Portal Widgets]]

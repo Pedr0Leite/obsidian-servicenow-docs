@@ -26,13 +26,13 @@ Boards can be configured in three ways:
 
 -   Strategy-based board: Tracks strategic plans or strategic priorities to align high-level direction with team execution.
 -   Goal or target-based board: Tracks goals, targets, or a combination, with filtering by entity type and entity to focus on the most relevant goals.
--   A combined [[strategy-goals-landing-page|strategy and goals]]-based board: Tracks both strategy \(strategic plans and strategic priorities\) and goals or targets together.
+-   A combined strategy and goals-based board: Tracks both strategy \(strategic plans and strategic priorities\) and goals or targets together.
 
 **Note:** By default, only records with the Active field set to true are displayed.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** &gt; **Strategy and Goals**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Strategy and Goals**.
 
 2.  On the Strategy and Goals page, select **New board**.
 
@@ -138,7 +138,3 @@ The board is created and displays the Strategy page, Goals page, or both, depend
 
 [Share a board](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/share-board-strategy.md)
 
-## Related
-
-- [[strategy-goals-landing-page|Strategy and Goals]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

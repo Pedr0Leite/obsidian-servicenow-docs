@@ -14,9 +14,9 @@ breadcrumb: [Visual Task Boards, Configure UIs and portals, Configure user exper
 
 # Using Visual Task Boards
 
-Create, view, and edit freeform, flexible, and guided [[c_VisualTaskBoards|Visual Task Boards]], and add users to these boards as members.
+Create, view, and edit freeform, flexible, and guided Visual Task Boards, and add users to these boards as members.
 
-As a member of a Visual Task Board, you can view and share the board, customize card views, assign and move cards, and create [[c_Checklists|checklists]].
+As a member of a Visual Task Board, you can view and share the board, customize card views, assign and move cards, and create checklists.
 
 ## Getting started with Visual Task Boards
 
@@ -35,10 +35,5 @@ Visual Task Board task cards can represent a personal task or a record on a tabl
 -   **[Visual Task Board checklists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/c_VisualTaskBoardChecklists.md)**  
 Checklists help you track the progress of tasks on your Visual Task Board.
 
-**Parent Topic:**[[configure-uis-and-portals|Configure UIs and portals]]
+**Parent Topic:**[Configure UIs and portals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-uis-and-portals.md)
 
-## Related
-
-- [[configure-uis-and-portals|Configure UIs and portals]]
-- [[c_VisualTaskBoards|Visual Task Boards]]
-- [[c_Checklists|Checklists]]

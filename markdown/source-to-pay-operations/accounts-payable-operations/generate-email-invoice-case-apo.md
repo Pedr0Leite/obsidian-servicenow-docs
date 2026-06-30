@@ -22,17 +22,17 @@ Role required: ap\_agent or ap\_specialist
 
 ## About this task
 
-The Email response for invoice case skill uses invoice case details such as case type, short description, description, work notes, [[activity-stream|activity stream]], additional comments, related records, and relevant knowledge base articles to compose an email response. You can also use this skill to elaborate, shorten, or change the tone of your email draft.
+The Email response for invoice case skill uses invoice case details such as case type, short description, description, work notes, activity stream, additional comments, related records, and relevant knowledge base articles to compose an email response. You can also use this skill to elaborate, shorten, or change the tone of your email draft.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Source-to-Pay Workspace**.
 
 2.  Select the list icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon\).
 
     A list of options within the workspace is displayed.
 
-3.  Select **[[invoices|Invoices]] &gt;****All invoices.**
+3.  Select **Invoices &gt;****All invoices.**
 
 4.  Select an invoice case.
 
@@ -50,8 +50,4 @@ The Email response for invoice case skill uses invoice case details such as case
 
     The email response is generated for the invoice case.
 
-## Related
 
-- [[activity-stream|Activity stream]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[invoices|Invoices]]

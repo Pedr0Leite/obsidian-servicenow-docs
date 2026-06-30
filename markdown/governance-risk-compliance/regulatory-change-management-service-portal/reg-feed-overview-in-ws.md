@@ -14,7 +14,7 @@ breadcrumb: [Manage regulatory tasks, Regulatory Change Management, Governance, 
 
 # Regulatory event alerts view
 
-When you select a regulatory event alert in the [[list-view-uib-ws|List view]] in the Compliance Workspace, it displays the details of the alert on a new page. The details include the title of the alert, provider of the alert, its state, and other important information in the Overview tab and Details tab.
+When you select a regulatory event alert in the List view in the Compliance Workspace, it displays the details of the alert on a new page. The details include the title of the alert, provider of the alert, its state, and other important information in the Overview tab and Details tab.
 
 The regulatory event alerts page also displays the following tabs and related lists associated with the alert:
 
@@ -77,6 +77,3 @@ Taxonomy side-panel: The taxonomy side-panel displays the following taxonomy cla
 
 **Note:** The taxonomy classes are displayed only if the records have any values associated with them. For example, if the regulatory alert does not have any values for the taxonomy class Jurisdictions, the taxonomy category Jurisdictions is not displayed in the taxonomy side panel.
 
-## Related
-
-- [[list-view-uib-ws|List view]]

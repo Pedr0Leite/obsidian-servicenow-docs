@@ -15,7 +15,7 @@ breadcrumb: [Change Management, Use agentic AI in IT Service Management, Now Ass
 
 # IT Service Management AI agent collection assess conflicts for a change request agentic workflow
 
-Use the assess conflicts for a change request agentic workflow to run [[c_ConflictDetection|conflict detection]] for change requests and assess conflicts, and identify affected configuration items \(CIs\) and impacted services.
+Use the assess conflicts for a change request agentic workflow to run conflict detection for change requests and assess conflicts, and identify affected configuration items \(CIs\) and impacted services.
 
 ## Assess conflicts for a change request agentic workflow overview
 
@@ -31,7 +31,7 @@ You can also use the workflow to rerun conflict detection.
 
 **Note:** The assess conflicts for a change request agentic workflow doesn’t have a trigger and is invoked manually.
 
-To modify the assess conflicts for a change request agentic workflow, [duplicate it](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/clone-aia-usecase.md), and adjust the [[settings-mobile|settings]] according to your requirements.
+To modify the assess conflicts for a change request agentic workflow, [duplicate it](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/clone-aia-usecase.md), and adjust the settings according to your requirements.
 
 **Important:** When you modify an agentic workflow, AI agent, or tool, make sure that you update all instructions accordingly.
 
@@ -74,7 +74,3 @@ For the query instruction, follow the steps specified in the **List of steps** f
 
 In the AI Agent Studio, the human agent gets notified as soon as a text message is generated so that they can follow the on-screen instructions and complete the task. For more information, see [Request the generative AI capabilities in ITSM by using the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/request-gen-ai-capabilities-itsm-now-assist-panel.md).
 
-## Related
-
-- [[c_ConflictDetection|Conflict detection]]
-- [[settings-mobile|Settings]]

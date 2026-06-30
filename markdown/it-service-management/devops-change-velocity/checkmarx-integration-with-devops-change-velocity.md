@@ -14,11 +14,11 @@ breadcrumb: [Integrate, DevOps Change Velocity, IT Service Management]
 
 # Checkmarx integration with DevOps Change Velocity
 
-Connect to your Checkmarx instance that is integrated with your CI/CD pipelines to retrieve [[security-tool-framework|security scan results]]. This helps you determine how vulnerable your code is.
+Connect to your Checkmarx instance that is integrated with your CI/CD pipelines to retrieve security scan results. This helps you determine how vulnerable your code is.
 
 ## Checkmarx integration overview
 
-Checkmarx scans that are configured on GitHub Actions, Jenkins, Azure DevOps, GitLab, and Harness pipelines are supported in [[devops-landing-page-new|DevOps Change Velocity]].
+Checkmarx scans that are configured on GitHub Actions, Jenkins, Azure DevOps, GitLab, and Harness pipelines are supported in DevOps Change Velocity.
 
 Two Checkmarx tools can be integrated with DevOps Change Velocity, which are Checkmarx One and Checkmarx SAST. For more information, see [Checkmarx One](https://checkmarx.com/resource/documents/en/34965-68518-introduction.html) and [Checkmarx SAST](https://checkmarx.com/resource/documents/en/34965-46311-checkmarx-sast-overview.html) documentation.
 
@@ -53,7 +53,3 @@ Connect to your Checkmarx instance to retrieve scan results.
 
 **Parent Topic:**[Integrating DevOps Change Velocity with third party tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/integrating-devops-change-with-third-party-tools.md)
 
-## Related
-
-- [[security-tool-framework|Security scan results]]
-- [[devops-landing-page-new|DevOps Change Velocity]]

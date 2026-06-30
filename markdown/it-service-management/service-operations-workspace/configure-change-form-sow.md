@@ -24,7 +24,7 @@ Role required: workspace\_admin, ui\_builder\_admin, or admin
 
 1.  Navigate to **All** &gt; **Service Operations Workspace Admin Center** &gt; **Overview**.
 
-2.  On the **Configurations** tab, select the **[[c_ITILChangeManagement|Change Management]]** option.
+2.  On the **Configurations** tab, select the **Change Management** option.
 
 3.  Select **Change record** and then select **Configure** to configure any of the following tabs.
 
@@ -37,6 +37,3 @@ Role required: workspace\_admin, ui\_builder\_admin, or admin
 
 **Parent Topic:**[Record page configurations in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/record-page-configurations-sow-itsm.md)
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]

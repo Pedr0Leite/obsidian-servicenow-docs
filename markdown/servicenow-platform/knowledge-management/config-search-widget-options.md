@@ -14,7 +14,7 @@ breadcrumb: [Knowledge Management Service Portal widgets, Configure the Knowledg
 
 # Configure search widget instance options
 
-Configure widget instance options for the search widgets on the [[knowledge-management|Knowledge Management]] Service Portal homepage and search results page.
+Configure widget instance options for the search widgets on the Knowledge Management Service Portal homepage and search results page.
 
 ## Before you begin
 
@@ -54,6 +54,3 @@ The homepage uses the Knowledge Homepage Search widget and the search results pa
 
 **Parent Topic:**[Knowledge Management Service Portal widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/km-service-portal-widget-instances.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]

@@ -72,12 +72,7 @@ Anyone with whom the exploration is shared either without editing rights or with
 
 To learn more about configuring and using AI Data Explorer, see:
 
--   [[activate-now-ass-explorer|Activate AI Data Explorer skills]]
--   [[use-now-assist-explorer|Using AI Data Explorer]]
--   [[now-assist-explorer-reference|AI Data Explorer reference]]
+-   [Activate AI Data Explorer skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/activate-now-ass-explorer.md)
+-   [Using AI Data Explorer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/use-now-assist-explorer.md)
+-   [AI Data Explorer reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/now-assist-explorer-reference.md)
 
-## Related
-
-- [[activate-now-ass-explorer|Activate AI Data Explorer skills]]
-- [[use-now-assist-explorer|Using AI Data Explorer]]
-- [[now-assist-explorer-reference|AI Data Explorer reference]]

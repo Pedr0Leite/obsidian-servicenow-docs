@@ -35,12 +35,12 @@ Role required: sn\_crm\_outlook.crm\_outlook\_user
 
     |Record type|Description|
     |-----------|-----------|
-    |**Lead**|New lead record for a potential customer who has shown interest but is not yet qualified. For a description of the field values, see [[lead-fields-outlook|Lead form in the ServiceNow CRM for Outlook add-in]].|
-    |**Contact**|New contact record for an individual associated with an existing or new account. For a description of the field values, see [[contact-fields-outlook|Contact form in the ServiceNow CRM for Outlook add-in]].|
+    |**Lead**|New lead record for a potential customer who has shown interest but is not yet qualified. For a description of the field values, see [Lead form in the ServiceNow CRM for Outlook add-in](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-fields-outlook.md).|
+    |**Contact**|New contact record for an individual associated with an existing or new account. For a description of the field values, see [Contact form in the ServiceNow CRM for Outlook add-in](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/contact-fields-outlook.md).|
 
-    When you [[create-new-lead|create a Lead]] or Contact from a sent email, the form populates with the first recipient's first name, last name, and domain. For received emails, the form is populated with the sender’s details.
+    When you create a Lead or Contact from a sent email, the form populates with the first recipient's first name, last name, and domain. For received emails, the form is populated with the sender’s details.
 
-5.  Complete the required [[fields|fields]] and any optional fields relevant to your workflow.
+5.  Complete the required fields and any optional fields relevant to your workflow.
 
 6.  Select **Create and associate**.
 
@@ -51,24 +51,14 @@ The CRM record is created and the email association is logged, enabling you to c
 
 ## What to do next
 
-You can view the associated emails from the respective entity record's Emails tab. For more information, see [[view-associated-emails-crm|Track emails linked from Microsoft Outlook]].
+You can view the associated emails from the respective entity record's Emails tab. For more information, see [Track emails linked from Microsoft Outlook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/view-associated-emails-crm.md).
 
-**Parent Topic:**[[using-activity-management|Using Activity Management]]
+**Parent Topic:**[Using Activity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-activity-management.md)
 
 **Related topics**  
 
 
-[[configuring-activity-management|Configuring Activity Management]]
+[Configuring Activity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configuring-activity-management.md)
 
-[[explore-activity-management|Activity Management]]
+[Activity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-activity-management.md)
 
-## Related
-
-- [[lead-fields-outlook|Lead form in the ServiceNow CRM for Outlook add-in]]
-- [[contact-fields-outlook|Contact form in the ServiceNow CRM for Outlook add-in]]
-- [[view-associated-emails-crm|Track emails linked from Microsoft Outlook]]
-- [[using-activity-management|Using Activity Management]]
-- [[configuring-activity-management|Configuring Activity Management]]
-- [[explore-activity-management|Activity Management]]
-- [[create-new-lead|Create a lead]]
-- [[fields|Fields]]

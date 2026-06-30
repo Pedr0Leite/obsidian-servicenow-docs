@@ -14,7 +14,7 @@ breadcrumb: [Integration with Universal Request, Workplace Case Management, Work
 
 # Configure a workplace service record producer as a Universal Request
 
-Enable an employee to submit a [[ur-landing-limitedaccess|universal request]] using a workplace service record producer from the [[workplace-services-portal-hr|Workplace Service Portal]]. Configure a workplace service to [[ur-create-universal-request-record|create Universal Request]] whenever an employee makes a selection.
+Enable an employee to submit a universal request using a workplace service record producer from the Workplace Service Portal. Configure a workplace service to create Universal Request whenever an employee makes a selection.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ Role required: sn\_wsd\_case.admin or sn\_wsd\_case.manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-case-mgmt-feat|Workplace Case Management]]** &gt; **Workplace Case Management - Setup** &gt; **Record producers**.
+1.  Navigate to **All** &gt; **Workplace Case Management** &gt; **Workplace Case Management - Setup** &gt; **Record producers**.
 
 2.  Select the record producer that you want to configure as a universal request.
 
@@ -46,7 +46,7 @@ Role required: sn\_wsd\_case.admin or sn\_wsd\_case.manager
 
 The workplace service record producer is configured as a universal request.
 
-When an employee submits an inquiry using this workplace service, a universal request is created. The request is automatically assigned to the [[workplace-services|Workplace services]] assignment group.
+When an employee submits an inquiry using this workplace service, a universal request is created. The request is automatically assigned to the Workplace services assignment group.
 
 **Parent Topic:**[Workplace Service Delivery integration with Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/wsd-intergration-with-universal-request.md)
 
@@ -59,10 +59,3 @@ When an employee submits an inquiry using this workplace service, a universal re
 
 [Transfer a workplace case created from a universal request]()
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[workplace-services-portal-hr|Workplace Service Portal]]
-- [[ur-create-universal-request-record|Create Universal Request]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[workplace-services|Workplace Services]]

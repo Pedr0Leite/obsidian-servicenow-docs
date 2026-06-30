@@ -20,8 +20,8 @@ The Source-to-Pay integration with Oracle Financial Cloud enables you to manage 
 
 With this application, you can perform the following:
 
--   Look up Currencies, General Ledger \(GL\) accounts, Legal entities, [[payment-terms|Payment terms]] details, Plant Address, [[cost-center|Cost Center]], Purchasing Orgs, and Purchasing Groups from Oracle Financial Cloud.
--   Create or update [[supplier|Supplier]] locations in Oracle Financial Cloud
+-   Look up Currencies, General Ledger \(GL\) accounts, Legal entities, Payment terms details, Plant Address, Cost Center, Purchasing Orgs, and Purchasing Groups from Oracle Financial Cloud.
+-   Create or update Supplier locations in Oracle Financial Cloud
 -   Create or update Supplier payment details in Oracle Financial Cloud
 -   Create, update, or deactivate Suppliers in Oracle Financial Cloud
 
@@ -43,8 +43,3 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 The subflows enable a plug-and-play experience for the integration scenarios. Integration Hub Actions provide the building blocks for Source-to-Pay subflows and connects to the Oracle Financial Cloud system through REST APIs.
 
-## Related
-
-- [[payment-terms|Payment terms]]
-- [[cost-center|Cost center]]
-- [[supplier|Supplier]]

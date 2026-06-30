@@ -16,7 +16,7 @@ breadcrumb: [Configuring Incident Management, Incident Management, IT Service Ma
 
 Categorization of incidents helps in routing to the right team and saves a lot of time in troubleshooting and bringing the service to normalcy.
 
-One of the KPIs \(Key Performance Indicators\) of the [[c_IncidentManagement|Incident Management]] process is to identify how many times the Incident is sent to different teams. It also helps in analyzing incidents based on the classification to do proactive [[c_ProblemManagement|Problem Management]] which, in turn, helps to reduce Incidents. Proper incident classification is very important to identify and prioritize on which Incidents to work on first.
+One of the KPIs \(Key Performance Indicators\) of the Incident Management process is to identify how many times the Incident is sent to different teams. It also helps in analyzing incidents based on the classification to do proactive Problem Management which, in turn, helps to reduce Incidents. Proper incident classification is very important to identify and prioritize on which Incidents to work on first.
 
 Using categories and subcategories also improves the clarity and granularity of report data. The following categories and associated subcategories are in the base system. An administrator can add additional categories and subcategories, and use them in assignment rules and notifications.
 
@@ -92,7 +92,3 @@ Delete a category or subcategory if your organization no longer uses the categor
 
 **Parent Topic:**[Configuring Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/incident-configuration.md)
 
-## Related
-
-- [[c_IncidentManagement|Incident Management]]
-- [[c_ProblemManagement|Problem Management]]

@@ -17,7 +17,7 @@ The My Store Activity page lets you view important information related to apps a
 
 ## My Store Activity page
 
-You can access the My Store Activity page from your user profile menu after logging in to the [[servicenow-store|ServiceNow Store]]. From the My Store Activity page, you can select the **In Process**, **Store Applications**, or **ServiceNow Products** tabs to view the following information:
+You can access the My Store Activity page from your user profile menu after logging in to the ServiceNow Store. From the My Store Activity page, you can select the **In Process**, **Store Applications**, or **ServiceNow Products** tabs to view the following information:
 
 <table id="table_x21_wt2_wcc"><thead><tr><th>
 
@@ -62,9 +62,5 @@ ServiceNow Products
 A searchable list that provides details of all products that your organization has procured.
 
 </td></tr></tbody>
-</table>For more information about apps and products, see [[plugins-apps-products-integrations|Plugins, apps, integrations, and products]].
+</table>For more information about apps and products, see [Plugins, apps, integrations, and products](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/plugins-apps-products-integrations.md).
 
-## Related
-
-- [[plugins-apps-products-integrations|Plugins, apps, integrations, and products]]
-- [[servicenow-store|ServiceNow Store]]

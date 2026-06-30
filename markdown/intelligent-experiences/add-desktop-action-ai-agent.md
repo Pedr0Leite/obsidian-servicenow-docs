@@ -12,17 +12,17 @@ breadcrumb: [Add tools and information, Create an AI agent, Now Assist AI agents
 
 # Add a defined desktop action tool to an AI agent for desktop and web-based task
 
-Add a desktop action as a tool to an AI agent in [[ai-agent-studio|AI Agent Studio]] so that AI agents can execute defined path desktop actions for repetitive tasks in desktop and web environment.
+Add a desktop action as a tool to an AI agent in AI Agent Studio so that AI agents can execute defined path desktop actions for repetitive tasks in desktop and web environment.
 
 ## Before you begin
 
-Familiarize yourself with defined path desktop actions. For more information, see [[desktop-actions|Defined desktop actions for desktop and web-based tasks]] and [[desktop-actions-designer-workspace-ad|Defined path desktop actions in AI Desktop Actions]].
+Familiarize yourself with defined path desktop actions. For more information, see [Defined desktop actions for desktop and web-based tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/desktop-actions.md) and [Defined path desktop actions in AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/desktop-actions-designer-workspace-ad.md).
 
 Role required: sn\_aia.admin
 
 ## About this task
 
-Desktop actions are tools that AI agents use to interact with web and desktop applications. When you configure an AI agent and select desktop action as a tool, you define whether the AI agent follows a defined path \(fixed steps designed in [[agentic-desktop-landing-page|AI Desktop Actions]]\) or an adaptive path \(high-level goal described in the tool configuration\). Unlike adaptive path desktop actions that dynamically plan execution, defined path desktop actions enable AI agents to execute preconfigured workflows through a fixed sequence of steps.
+Desktop actions are tools that AI agents use to interact with web and desktop applications. When you configure an AI agent and select desktop action as a tool, you define whether the AI agent follows a defined path \(fixed steps designed in AI Desktop Actions\) or an adaptive path \(high-level goal described in the tool configuration\). Unlike adaptive path desktop actions that dynamically plan execution, defined path desktop actions enable AI agents to execute preconfigured workflows through a fixed sequence of steps.
 
 Defined desktop actions are further categorized into on-screen tasks and background tasks.
 
@@ -35,7 +35,7 @@ Defined desktop actions are further categorized into on-screen tasks and backgro
 
 2.  Open the AI agent that you want to add a desktop action to.
 
-    For creating an AI agent, see [[configure-next-best-action-agent|Create an AI agent]].
+    For creating an AI agent, see [Create an AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-next-best-action-agent.md).
 
 3.  Navigate to the Add tools and information step.
 
@@ -208,9 +208,9 @@ Display output
 
 </td><td>
 
-Permission to display the output of the execution in the [[now-assist-center-now-assist-panel|Now Assist panel]] or in Virtual Agent:-   **Yes**
+Permission to display the output of the execution in the Now Assist panel or in Virtual Agent:-   **Yes**
 -   **No**
-If you want the AI agent to work in Off Glide architecture with [[now-assist-panel-premium|Premium Chat]] experience, you must turn-on the **Display output** toggle. When the toggle is turned-on, you can add widgets that can be used in assistants built with Premium Chat experiences. The widget configuration includes:
+If you want the AI agent to work in Off Glide architecture with Premium Chat experience, you must turn-on the **Display output** toggle. When the toggle is turned-on, you can add widgets that can be used in assistants built with Premium Chat experiences. The widget configuration includes:
 
 -   **Widget**: Defines the display output to render the content in a better user experience. You can select the widget from the drop-down.
 -   **Require widget transformation**: An additional LLM call is required to transform the raw tool. If you choose to skip this transformation step, the tool output will be directly mapped to the widget.
@@ -256,15 +256,5 @@ Message to display to users during tool execution.-   In-progress message: Write
 
 ## What to do next
 
-For more information about executing desktop actions, see [[use-agentic-desktop|Examples of executing desktop actions using AI agents]].
+For more information about executing desktop actions, see [Examples of executing desktop actions using AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/use-agentic-desktop.md).
 
-## Related
-
-- [[desktop-actions|Defined desktop actions for desktop and web-based tasks]]
-- [[desktop-actions-designer-workspace-ad|Defined path desktop actions in AI Desktop Actions]]
-- [[configure-next-best-action-agent|Create an AI agent]]
-- [[use-agentic-desktop|Examples of executing desktop actions using AI agents]]
-- [[ai-agent-studio|AI Agent Studio]]
-- [[agentic-desktop-landing-page|AI Desktop Actions]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[now-assist-panel-premium|Premium chat]]

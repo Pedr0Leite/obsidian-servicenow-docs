@@ -13,7 +13,7 @@ breadcrumb: [Granular admin roles]
 
 # Platform security granular admin roles
 
-Use granular admin roles to verify [[access-management-landing|access management]] by assigning roles that define user permissions and responsibilities.
+Use granular admin roles to verify access management by assigning roles that define user permissions and responsibilities.
 
 **Tip:** Use the search field to filter the granular admin role by entering keywords related to the role name or product.
 
@@ -31,7 +31,7 @@ Role description
 
 </th></tr></thead><tbody><tr><td>
 
-[[access-analyzer|Access Analyzer]]
+Access Analyzer
 
 </td><td>
 
@@ -39,11 +39,11 @@ access\_analyzer\_admin
 
 </td><td>
 
-Role required to access the Access analyzer to compare user records and access, simulate user access, and view [[access-insights|access insights]]. To learn more, see [Access Analyzer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/access-analyzer.md).
+Role required to access the Access analyzer to compare user records and access, simulate user access, and view access insights. To learn more, see [Access Analyzer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/access-analyzer.md).
 
 </td></tr><tr><td>
 
-[[adaptive-authentication|Adaptive Authentication]]
+Adaptive Authentication
 
 </td><td>
 
@@ -51,11 +51,11 @@ adaptive\_auth\_admin
 
 </td><td>
 
-Role required to configure adaptive authentication [[ca-policies|policies]]. To learn more, see [Adaptive authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/adaptive-authentication.md).
+Role required to configure adaptive authentication policies. To learn more, see [Adaptive authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/adaptive-authentication.md).
 
 </td></tr><tr><td>
 
-[[authentication-factors|Authentication Factors]]
+Authentication Factors
 
 </td><td>
 
@@ -63,7 +63,7 @@ auth\_factors\_admin
 
 </td><td>
 
-Role required to configure [[c_Authentication|authentication]] for voice agent environments, with the factors that first identify the caller, then authenticate them before granting access.
+Role required to configure authentication for voice agent environments, with the factors that first identify the caller, then authenticate them before granting access.
 
 </td></tr><tr><td>
 
@@ -76,7 +76,7 @@ API Access Policies, API Auth Scopes, Processor Access Policies
 
 </td><td>
 
-Role required to enable [[users|users]] to configure non-[[oauth-inbound-and-outbound|oauth]] related functionality like REST or SOAP policies, inbound authentication profiles, token based auth, processors.
+Role required to enable users to configure non-oauth related functionality like REST or SOAP policies, inbound authentication profiles, token based auth, processors.
 
 </td></tr><tr><td>
 
@@ -102,11 +102,11 @@ E-signature with SSO
 
 </td><td>
 
-Role required to configure E-signature with SSO \([[c_SAML2.0WebBrowserSSOProfile|SAML]] or OIDC\) only and not required if using local database login. To learn more, see [E-signature for Multi-Provider SSO](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/e-signature-for-multi-provider-sso.md).
+Role required to configure E-signature with SSO \(SAML or OIDC\) only and not required if using local database login. To learn more, see [E-signature for Multi-Provider SSO](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/e-signature-for-multi-provider-sso.md).
 
 </td></tr><tr><td>
 
-[[encryption-landing|Encryption]]
+Encryption
 
 </td><td>
 
@@ -166,7 +166,7 @@ Role required to manage the Federated ID and read or write Federated ID related 
 
 </td></tr><tr><td>
 
-[[identity-landing|Identity]] AI Agent
+Identity AI Agent
 
 </td><td>
 
@@ -202,7 +202,7 @@ Role required to view existing records on the Agent Access Role Configurations t
 
 </td></tr><tr><td>
 
-[[identity-audit|Identity and Access audit]]
+Identity and Access audit
 
 </td><td>
 
@@ -213,7 +213,7 @@ identity\_access\_audit\_viewer It contains:
 
 </td><td>
 
-Role required to view the [[user-trails|User Trails]], [[group-trails|Group Trails]], [[role-trails|Role Trails]], [[acl-trails|ACL Trails]] and Audit results.
+Role required to view the User Trails, Group Trails, Role Trails, ACL Trails and Audit results.
 
 </td></tr><tr><td>
 
@@ -230,7 +230,7 @@ Role required to:-   Configure Retention Period, Configure Tables &amp; Fields.
 
 </td></tr><tr><td>
 
-[[identity-center|Identity Center]]
+Identity Center
 
 </td><td>
 
@@ -281,7 +281,7 @@ Role required to manage perform specific role related operations and know about 
 
 </td></tr><tr><td>
 
-[[machine-identity-console|Machine Identity Console]]
+Machine Identity Console
 
 </td><td>
 
@@ -352,11 +352,11 @@ scim\_config\_admin
 
 </td><td>
 
-Role required to configure SCIM custom schema and [[ca-system-properties|system properties]]. To learn more, see [SCIM customization properties and schemas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/identity/scim-customization-properties-and-schemas.md).
+Role required to configure SCIM custom schema and system properties. To learn more, see [SCIM customization properties and schemas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/identity/scim-customization-properties-and-schemas.md).
 
 </td></tr><tr><td>
 
-[[scim-client-app|SCIM Client]]
+SCIM Client
 
 </td><td>
 
@@ -368,7 +368,7 @@ Role required to configure SCIM Client. To learn more, see [SCIM Client](https:/
 
 </td></tr><tr><td>
 
-[[scim-provider|SCIM Provider]]
+SCIM Provider
 
 </td><td>
 
@@ -380,7 +380,7 @@ Role required to configure SCIM Provider. To learn more, see [SCIM Provider](htt
 
 </td></tr><tr><td>
 
-[[external-user-self-registration|Self-Register to ServiceNow instance]]
+Self-Register to ServiceNow instance
 
 </td><td>
 
@@ -392,7 +392,7 @@ Role required to on-board a large volume of external users to your instance. To 
 
 </td></tr><tr><td>
 
-[[servicenow-vault-landing|ServiceNow Vault]]
+ServiceNow Vault
 
 </td><td>
 
@@ -400,7 +400,7 @@ sn\_vault\_console.vault\_console\_admin
 
 </td><td>
 
-Role required to have a collection of [[data-classification|Data Classification]] admin, [[data-privacy-landing|Data Privacy]] admin, and CA Admin roles to execute a template flow and monitor sensitive data. To learn more, see [[configuring-servicenow-vault|Configuring ServiceNow Vault]]
+Role required to have a collection of Data Classification admin, Data Privacy admin, and CA Admin roles to execute a template flow and monitor sensitive data. To learn more, see [Configuring ServiceNow Vault](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/configuring-servicenow-vault.md)
 
 </td></tr><tr><td>
 
@@ -412,7 +412,7 @@ sn\_vault\_console.vault\_console\_auditor
 
 </td><td>
 
-Role required to have a collection of [[data-discovery-landing|Data Discovery]] Auditor, Data Classification Auditor, Data Privacy Auditor, and Continuous Auth Auditor roles to view the policies and [[ca-metrics|metrics]] related to ServiceNow Vault.
+Role required to have a collection of Data Discovery Auditor, Data Classification Auditor, Data Privacy Auditor, and Continuous Auth Auditor roles to view the policies and metrics related to ServiceNow Vault.
 
 </td></tr><tr><td>
 
@@ -426,7 +426,7 @@ SSO \(SAML and OIDC\)
 
 </td><td>
 
-Role required to configure SSO [[sc-configuration|configuration]] \(SAML or OIDC\). To learn more, see [Multi-Provider single sign-on \(SSO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/c_MultipleProviderSingleSignOn.md).
+Role required to configure SSO configuration \(SAML or OIDC\). To learn more, see [Multi-Provider single sign-on \(SSO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/c_MultipleProviderSingleSignOn.md).
 
 </td></tr><tr><td>
 
@@ -469,7 +469,7 @@ Role required to see the user impersonation history table.
 
 </td></tr><tr><td>
 
-[[sec-center-v2|Security Center]]
+Security Center
 
 </td><td>
 
@@ -477,43 +477,8 @@ sn\_vsc.security\_center\_admin
 
 </td><td>
 
-Role required to access Security Center consoles and tools. Users with this role can also create and manage [[security-task-manager|security tasks]].
+Role required to access Security Center consoles and tools. Users with this role can also create and manage security tasks.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[granular-admin-roles|Granular admin roles]]
+</table>**Parent Topic:**[Granular admin roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/granular-admin-roles.md)
 
-## Related
-
-- [[configuring-servicenow-vault|Configuring ServiceNow Vault]]
-- [[granular-admin-roles|Granular admin roles]]
-- [[access-management-landing|Access Management]]
-- [[access-analyzer|Access Analyzer]]
-- [[access-insights|Access Insights]]
-- [[adaptive-authentication|Adaptive authentication]]
-- [[ca-policies|Policies]]
-- [[authentication-factors|Authentication factors]]
-- [[c_Authentication|Authentication]]
-- [[users|Users]]
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[encryption-landing|Encryption]]
-- [[identity-landing|Identity]]
-- [[identity-audit|Identity and Access Audit]]
-- [[user-trails|User Trails]]
-- [[group-trails|Group Trails]]
-- [[role-trails|Role Trails]]
-- [[acl-trails|ACL Trails]]
-- [[identity-center|Identity Center]]
-- [[machine-identity-console|Machine Identity Console]]
-- [[ca-system-properties|System properties]]
-- [[scim-client-app|SCIM Client]]
-- [[scim-provider|SCIM Provider]]
-- [[external-user-self-registration|Self-register to ServiceNow instance]]
-- [[servicenow-vault-landing|ServiceNow Vault]]
-- [[data-classification|Data Classification]]
-- [[data-privacy-landing|Data Privacy]]
-- [[data-discovery-landing|Data Discovery]]
-- [[ca-metrics|Metrics]]
-- [[sc-configuration|Configuration]]
-- [[sec-center-v2|Security Center]]
-- [[security-task-manager|Security Tasks]]

@@ -14,7 +14,7 @@ breadcrumb: [Feedback information on contextual search, Managing contextual sear
 
 # Run a report on contextual search usage
 
-Run a report on usage such as how many times a knowledge article is attached to a record to know the effectiveness of the [[c_ContextualSearch|contextual search]] [[hs-results|results]].
+Run a report on usage such as how many times a knowledge article is attached to a record to know the effectiveness of the contextual search results.
 
 ## Before you begin
 
@@ -55,7 +55,3 @@ A service desk manager can generate a report on user issues that were resolved w
 
 **Parent Topic:**[Feedback information on contextual search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/r_QueryFeedbackInformation.md)
 
-## Related
-
-- [[c_ContextualSearch|Contextual search]]
-- [[hs-results|Results]]

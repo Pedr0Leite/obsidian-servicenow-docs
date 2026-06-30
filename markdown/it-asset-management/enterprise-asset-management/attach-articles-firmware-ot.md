@@ -14,11 +14,11 @@ breadcrumb: [Normalizing firmware for OT assets, Managing enterprise models and 
 
 # Create knowledge articles for firmware models
 
-Attach helpful and relevant knowledge articles to the firmware model in the [[ot-asset-ws-otam|OT Asset Workspace]].
+Attach helpful and relevant knowledge articles to the firmware model in the OT Asset Workspace.
 
 ## Before you begin
 
-**Important:** The [[ot-asset-management|OT Asset Management]] application must be activated to access the OT Asset Workspace. For details, see [Install OT Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/install-otam.md).
+**Important:** The OT Asset Management application must be activated to access the OT Asset Workspace. For details, see [Install OT Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/install-otam.md).
 
 Role required: sn\_otam.ot\_asset\_manager
 
@@ -46,7 +46,3 @@ Role required: sn\_otam.ot\_asset\_manager
 
 [Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management.md)
 
-## Related
-
-- [[ot-asset-ws-otam|OT Asset Workspace]]
-- [[ot-asset-management|OT Asset Management]]

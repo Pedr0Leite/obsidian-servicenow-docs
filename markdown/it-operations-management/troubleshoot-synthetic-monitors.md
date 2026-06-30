@@ -12,24 +12,16 @@ breadcrumb: [Synthetic monitoring reference, Synthetic monitoring, ITOM AIOps, I
 
 # Troubleshoot synthetic monitors
 
-Read these topics to understand how to fix common issues in [[synthetic-monitoring-landing-page|synthetic monitoring]].
+Read these topics to understand how to fix common issues in synthetic monitoring.
 
--   **[[troubleshoot-sm-mid|Upgrade issues]]**  
+-   **[Upgrade issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/troubleshoot-sm-mid.md)**  
 What to do when monitors don't work after upgrading synthetic monitoring.
--   **[[troubleshoot-oauth|OAuth issues]]**  
+-   **[OAuth issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/troubleshoot-oauth.md)**  
 Learn how to fix OAuth token refresh issues.
--   **[[troubleshoot-related-services|Impacted Service not appearing in alerts]]**  
+-   **[Impacted Service not appearing in alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/troubleshoot-related-services.md)**  
 When a test fails for a monitor and you have configured an alert to trigger, the alert record should show the impacted service. There are a few reasons why this field might not be populated.
--   **[[bulk-monitor-import-issues|Bulk monitor import issues]]**  
+-   **[Bulk monitor import issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/bulk-monitor-import-issues.md)**  
 Learn to fix issues that might occur when you create monitors in bulk.
 
-**Parent Topic:**[[synthetic-monitoring-reference|Synthetic monitoring reference]]
+**Parent Topic:**[Synthetic monitoring reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/synthetic-monitoring-reference.md)
 
-## Related
-
-- [[troubleshoot-sm-mid|Upgrade issues]]
-- [[troubleshoot-oauth|OAuth issues]]
-- [[troubleshoot-related-services|Impacted Service not appearing in alerts]]
-- [[bulk-monitor-import-issues|Bulk monitor import issues]]
-- [[synthetic-monitoring-reference|Synthetic monitoring reference]]
-- [[synthetic-monitoring-landing-page|Synthetic monitoring]]

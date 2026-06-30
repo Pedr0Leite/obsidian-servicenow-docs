@@ -18,7 +18,7 @@ Shift managers and members can use the **Schedules** tabs to view and update the
 
 ## Opening the Schedules page
 
-To open and start working on a schedule, navigate to **[[c_OnCallScheduling|On-Call Scheduling]]** &gt; **On-Call Schedules** and then click the card for the group.
+To open and start working on a schedule, navigate to **On-Call Scheduling** &gt; **On-Call Schedules** and then click the card for the group.
 
 ## Overview tab
 
@@ -30,7 +30,7 @@ This tab gives an overview of the current shift. The following sections are avai
         -   Roster: Displays a list of all rosters along with its active on-call member. Information of the on-call member such as the contact number, email address, group, and the shift to which the user belongs to is also available.
         -   Escalation Path: Displays the escalation path defined for the shift.
         -   Profile: Displays the user profile of the primary on-call member. You can send a direct message to the on-call member by clicking **Send a direct message** or call the member if Notify WebRTC for on-call is set up. For more information on real-time messaging, see [Connect](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_Connect.md). For information on Notify webrtc, see [Forward to notify client workflow activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_WflowActivConnNotifClient.md). For information on the **Specify a valid Notify Number with voice capability** property that enables the Notify WebRTC for on-call, see [System properties for On-Call Scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/on-call-properties.md).
-        -   Contact Preferences: The contact preferences set for the primary on-call member. \[Omitted image "roster-escalation-[[settings-mobile|settings]].png"\] Alt text: On-Call Scheduling roster and escalation settings
+        -   Contact Preferences: The contact preferences set for the primary on-call member. \[Omitted image "roster-escalation-settings.png"\] Alt text: On-Call Scheduling roster and escalation settings
 -   **Pending Actions**: Displays the pending actions for the group’s on-call schedule. You can review gaps, conflicts, and time-off requests to find a replacement and ensure proper support coverage. For information on resolving the pending actions, see [Resolve gaps, conflicts, and time-off requests in a shift](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/resolv-gap-conflct-timeoff-oncall.md) and [Resolve gaps, conflicts, and time-off requests in a shift](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/resolv-gap-conflct-timeoff-oncall.md).
 
     **Note:** This section is displayed only for a shift manager.
@@ -59,7 +59,3 @@ To view on-call properties, click **View Global Settings**.
 
 **Parent Topic:**[Configure or update an On-Call schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/create-update-schedule-oncall.md)
 
-## Related
-
-- [[c_OnCallScheduling|On-Call Scheduling]]
-- [[settings-mobile|Settings]]

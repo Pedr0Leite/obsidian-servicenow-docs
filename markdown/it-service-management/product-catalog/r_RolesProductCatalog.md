@@ -14,7 +14,7 @@ breadcrumb: [Components installed with Product Catalog, Product Catalog, Asset M
 
 # Roles installed with Product Catalog
 
-[[c_ProductCatalog|Product Catalog]] plugin adds the following roles.
+Product Catalog plugin adds the following roles.
 
 <table id="table_zgd_3vv_dp"><thead><tr><th>
 
@@ -34,7 +34,7 @@ model\_manager
 
 </td><td>
 
-Can create CMDB [[c_Models|models]].
+Can create CMDB models.
 
 </td><td>
 
@@ -46,7 +46,7 @@ category\_manager
 
 </td><td>
 
-Can do everything that model managers can do and can administer [[c_ModelCategories|model categories]].
+Can do everything that model managers can do and can administer model categories.
 
 </td><td>
 
@@ -55,8 +55,3 @@ model\_manager
 </td></tr></tbody>
 </table>**Parent Topic:**[Components installed with Product Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/r_InstalledWithProductCatalog.md)
 
-## Related
-
-- [[c_ProductCatalog|Product Catalog]]
-- [[c_Models|Models]]
-- [[c_ModelCategories|Model categories]]

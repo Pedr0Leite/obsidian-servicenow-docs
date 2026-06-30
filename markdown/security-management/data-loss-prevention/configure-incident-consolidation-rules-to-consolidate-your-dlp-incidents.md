@@ -146,7 +146,7 @@ Select DLP incident field to consolidate the incidents when having the same valu
 
 [Create email templates]()
 
-[Create a [[dlp-landing|Data Loss Prevention Incident Response]] SLA trigger]()
+[Create a Data Loss Prevention Incident Response SLA trigger]()
 
 [Create a Data Loss Prevention Incident Response SLA definition]()
 
@@ -174,6 +174,3 @@ Select DLP incident field to consolidate the incidents when having the same valu
 
 [DLP Incidents Archival]()
 
-## Related
-
-- [[dlp-landing|Data Loss Prevention Incident Response]]

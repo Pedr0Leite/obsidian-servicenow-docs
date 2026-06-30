@@ -14,9 +14,9 @@ breadcrumb: [Setup Hub \(SPM\), Strategic Portfolio Management]
 
 # Modules in Setup Hub \(SPM\)
 
-Module-by-module listing of the setup items that [[spm-config-console-landing|Setup Hub \(SPM\)]] surfaces, with cross-references to the per-application configuration topic each item launches.
+Module-by-module listing of the setup items that Setup Hub \(SPM\) surfaces, with cross-references to the per-application configuration topic each item launches.
 
-The console groups setup items into the modules listed in this topic. The modules that a system administrator sees depend on the [[r_ITBusinessManagement|Strategic Portfolio Management]] \(SPM\) applications licensed for the instance. The order of modules shown here matches the order in which the console displays them.
+The console groups setup items into the modules listed in this topic. The modules that a system administrator sees depend on the Strategic Portfolio Management \(SPM\) applications licensed for the instance. The order of modules shown here matches the order in which the console displays them.
 
 ## Common setup
 
@@ -24,13 +24,13 @@ Items shared across SPM applications, including organization structure data and 
 
 |Module|Configuration item|Description|
 |------|------------------|-----------|
-|Define organization structure|Set up business units|Define the top level of your organization structure with [[c_BusinessUnits|business units]]. SPM tables reference business units to filter and segment data automatically, drive hierarchy-based workflows and approvals, generate aligned reports, and simplify access control.|
+|Define organization structure|Set up business units|Define the top level of your organization structure with business units. SPM tables reference business units to filter and segment data automatically, drive hierarchy-based workflows and approvals, generate aligned reports, and simplify access control.|
 |Define organization structure|Set up departments|Define organizational subdivisions within your business units. SPM tables reference departments alongside business units to filter data, drive workflows, generate aligned reports, and simplify access control.|
-|Reporting setup|Activate performance analytics jobs|Activate the Performance Analytics scheduled job that powers [[c_ProjectPortfolioSuite|Project Portfolio Management]] \(PPM\) dashboards and indicators.|
+|Reporting setup|Activate performance analytics jobs|Activate the Performance Analytics scheduled job that powers Project Portfolio Management \(PPM\) dashboards and indicators.|
 
 ## Demand Management
 
-Items that configure [[c_DemandManagement|demand management]] user roles, intake channels, and the [[demand-form|demand form]]. Sub-modules group related items under the **Demand Management** module.
+Items that configure demand management user roles, intake channels, and the demand form. Sub-modules group related items under the **Demand Management** module.
 
 |Module|Configuration item|Description|
 |------|------------------|-----------|
@@ -43,20 +43,20 @@ Items that configure [[c_DemandManagement|demand management]] user roles, intake
 
 ## Project Management
 
-Items that configure [[c_ProjectApplicationOverview|project management]], including user roles, project types, templates, schedules, and advanced settings. Sub-modules group related items under the **Project Management** module.
+Items that configure project management, including user roles, project types, templates, schedules, and advanced settings. Sub-modules group related items under the **Project Management** module.
 
 |Module|Configuration item|Description|
 |------|------------------|-----------|
 |Setup user roles|Users|Manage users that have access to project management. For more information, see [Project Management user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/exploring-project-management.md).|
 |Setup user roles|Groups|Manage groups that have access to project management. For more information, see [Project Management user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/exploring-project-management.md).|
 |Setup project types|Setup dynamic categories|Define dynamic categories and attributes in the Default SPM Dynamic Namespace to add custom fields, such as Boolean, Date, or Integer, to projects and other planning items. For more information, see [Working with Dynamic Schema](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/working-with-dynamic-schema.md).|
-|Setup project types|Setup form views|Customize the [[create-a-project-form|project form]] used by project managers and project users. Use Form Builder to add or remove fields and adjust the layout. For more information, see [Configuring forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/basic-form-administration.md).|
+|Setup project types|Setup form views|Customize the project form used by project managers and project users. Use Form Builder to add or remove fields and adjust the layout. For more information, see [Configuring forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/basic-form-administration.md).|
 |Setup project types|Project types|Define project types to apply distinct workflows, approval flows, and field requirements to different categories of projects. Assign project types to specific projects, portfolios, or departments.|
 |Project Management|Configure Project Playbooks|Review the default project playbooks \(Project default and Stage gate default\) and customize them in Workflow Studio to match your project management methodology. For more information, see [Use Playbooks in Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/use-playbooks-pw.md).|
 |Project Management|Setup project templates|Create reusable project templates as starting points for new projects to ensure consistency and reduce setup time. For more information, see [Project templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_ProjectTemplates.md).|
 |Project Management|Setup status report templates|Define status report templates that project managers use to communicate project progress. For more information, see[Status reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/create-a-status-report-in-project-workspace.md).|
 |Project Management|Setup project schedules|Define working days and hours used to estimate project timelines. The default Project Management Schedule applies to all projects and does not include holidays; create custom schedules to add holidays or different working calendars. For more information, see [Project Schedules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_UseAProjectSchedule.md).|
-|Project Management|Advanced settings|Access advanced project management settings such as budgets, forecasts, widgets, diagnostics, planning attributes, [[time-sheet-policies|time sheet policies]], and risk value matrixes. For more information, see [Project Diagnostics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/project-diagnostics-overview.md).|
+|Project Management|Advanced settings|Access advanced project management settings such as budgets, forecasts, widgets, diagnostics, planning attributes, time sheet policies, and risk value matrixes. For more information, see [Project Diagnostics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/project-diagnostics-overview.md).|
 
 ## Resource Management
 
@@ -79,7 +79,7 @@ Items related to system currency, fiscal calendar setup, and cost type definitio
 
 ## Strategic Planning and Portfolio Planning
 
-Items that configure [[alignment-planner-workspace-landing-page|Strategic Planning]] and [[portfolio-planning-app-landing-page|Portfolio Planning]] capabilities, including the guided setup wizard and demand playbooks.
+Items that configure Strategic Planning and Portfolio Planning capabilities, including the guided setup wizard and demand playbooks.
 
 |Module|Configuration item|Description|
 |------|------------------|-----------|
@@ -91,19 +91,5 @@ Items that govern multi-partition deployment of Strategic Portfolio Management \
 
 |Module|Configuration item|Description|
 |------|------------------|-----------|
-|Partitions|Set up partitions|Define data visibility boundaries for teams on the same instance. Create a partition for each function such as team, business unit, or department that requires separate access to project, demand, program, or portfolio records. For more information, see [[create-partition-ewd|Create and configure a partition]].|
+|Partitions|Set up partitions|Define data visibility boundaries for teams on the same instance. Create a partition for each function such as team, business unit, or department that requires separate access to project, demand, program, or portfolio records. For more information, see [Create and configure a partition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/create-partition-ewd.md).|
 
-## Related
-
-- [[create-partition-ewd|Create and configure a partition]]
-- [[spm-config-console-landing|Setup Hub \(SPM\)]]
-- [[r_ITBusinessManagement|Strategic Portfolio Management]]
-- [[c_BusinessUnits|Business units]]
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]
-- [[c_DemandManagement|Demand Management]]
-- [[demand-form|Demand form]]
-- [[c_ProjectApplicationOverview|Project Management]]
-- [[create-a-project-form|Project form]]
-- [[time-sheet-policies|Time sheet policies]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

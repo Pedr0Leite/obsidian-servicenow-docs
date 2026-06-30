@@ -14,7 +14,7 @@ breadcrumb: [Reference, Card Operations, Banking applications, Financial Service
 
 # Properties installed with Financial Services Card Operations
 
-Customize the properties that are available with the [[card-ops-landing-page|Financial Services Card Operations]] application.
+Customize the properties that are available with the Financial Services Card Operations application.
 
 **Note:** To open the System Properties \[sys\_properties\] table, enter `sys_properties.list` in the navigation filter.
 
@@ -34,7 +34,7 @@ Enable Mastercard integration
 
 </td><td>
 
-Enables or disables the integration of Mastercard's Mastercom APIs into the [[dispute-management|Dispute Management]] workflow.-   **Type**: true \| false
+Enables or disables the integration of Mastercard's Mastercom APIs into the Dispute Management workflow.-   **Type**: true \| false
 -   **Default value**: True
 -   **Location**: **All** &gt; **Card Operations** &gt; **Administration** &gt; **Properties**
 -   Learn more: [Managing disputes integrated with Mastercard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/work-on-disputes-integrated-with-mc.md)
@@ -64,7 +64,3 @@ For a temporary increase credit limit request, the system automatically creates 
 </td></tr></tbody>
 </table>**Parent Topic:**[Financial Services Card Operations reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-card-operations/card-operations-reference.md)
 
-## Related
-
-- [[card-ops-landing-page|Financial Services Card Operations]]
-- [[dispute-management|Dispute Management]]

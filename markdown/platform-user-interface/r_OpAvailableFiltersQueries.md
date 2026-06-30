@@ -12,7 +12,7 @@ breadcrumb: [Create a condition statement using the condition builder, Common UI
 
 # Operators available for filters and queries
 
-The system provides a set of operators for use with [[c_Filters|filters]], condition builders, and encoded queries. The data type of a field determines what operators are available for it.
+The system provides a set of operators for use with filters, condition builders, and encoded queries. The data type of a field determines what operators are available for it.
 
 ## Operators available for condition builders
 
@@ -438,7 +438,7 @@ short\_descriptionNSAMEASdescription
 All records in which there exist differing values for the **Short description** and **Description** fields.
 
 </td></tr></tbody>
-</table>## Operators available for [[onboarding-modals-reference|reference]] fields
+</table>## Operators available for reference fields
 
 <table id="table_cz1_q2y_dt"><thead><tr><th>
 
@@ -1329,7 +1329,7 @@ impactNSAMEASurgency
 All records in which there exist differing values for the **Impact** and **Urgency** fields.
 
 </td></tr></tbody>
-</table>**Note:** The operators ‘less than or is’ and ‘greater than or is’ are not supported for integer fields in the [[c_ConditionBuilder|condition builder]]. Use a scripted condition instead.
+</table>**Note:** The operators ‘less than or is’ and ‘greater than or is’ are not supported for integer fields in the condition builder. Use a scripted condition instead.
 
 ## Operators available for date-time fields
 
@@ -2309,16 +2309,10 @@ All records in which there are differing values for the **Active** and **Made SL
 |does not have|\[Tag\]\[does not have\]\[Most Active\]|DOESNOTHAVE|sys\_tags.6c361e12471331007f47563dbb9a7135DOESNOTHAVE6c361e12471331007f47563dbb9a7135|Any records that has a **Tag** except for the tag mentioned in the value field.|
 |excluding|\[Tag\]\[excluding\]\[Most Active\]|EXCLUDING|sys\_tags.6c361e12471331007f47563dbb9a7135EXCLUDING6c361e12471331007f47563dbb9a7135|All records with and without the **Tag** except for the tag mentioned in the value field.|
 
-**Parent Topic:**[[create-cond-state-using-cond-build|Create a condition statement using the condition builder]]
+**Parent Topic:**[Create a condition statement using the condition builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/create-cond-state-using-cond-build.md)
 
 **Related topics**  
 
 
 [Condition builder]()
 
-## Related
-
-- [[create-cond-state-using-cond-build|Create a condition statement using the condition builder]]
-- [[c_Filters|Filters]]
-- [[onboarding-modals-reference|Reference]]
-- [[c_ConditionBuilder|Condition builder]]

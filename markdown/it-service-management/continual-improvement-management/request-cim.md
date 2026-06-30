@@ -14,7 +14,7 @@ breadcrumb: [Continual Improvement Management, IT Service Management]
 
 # Install Continual Improvement Management
 
-Install the [[cim-landing-page|Continual Improvement Management]] plugin from ServiceNow Application Manager after purchasing a subscription.
+Install the Continual Improvement Management plugin from ServiceNow Application Manager after purchasing a subscription.
 
 ## Before you begin
 
@@ -31,7 +31,7 @@ If you don't have an account manager, decide to delay activation after purchasin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System [[dex-workspace-application-tab|Applications]]** &gt; **All Available Applications** &gt; **All**.
+1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
 2.  On the Application Manager page, search for **Continual Improvement Management**.
 
@@ -71,7 +71,3 @@ If you don't have an account manager, decide to delay activation after purchasin
 
 [List of plugins \(Australia\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-## Related
-
-- [[cim-landing-page|Continual Improvement Management]]
-- [[dex-workspace-application-tab|Applications]]

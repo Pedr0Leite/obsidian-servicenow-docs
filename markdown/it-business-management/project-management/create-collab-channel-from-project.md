@@ -37,8 +37,8 @@ Role required: it\_project\_manager
 
 ## Result
 
--   A channel in Slack is created for this project. You can see the channel's name in the success message on your [[create-a-project-form|project form]]. You can also view a link in the project form to access your Slack channel, selecting on the link will navigate you to the Slack channel for your project.
--   You and any existing assignees and additional assignees of active [[t_CreateAProjectTask|project tasks]] for this project are added as members to this channel.
+-   A channel in Slack is created for this project. You can see the channel's name in the success message on your project form. You can also view a link in the project form to access your Slack channel, selecting on the link will navigate you to the Slack channel for your project.
+-   You and any existing assignees and additional assignees of active project tasks for this project are added as members to this channel.
 
     Assignees and additional assignees of project tasks that you create later will be automatically added as members to this channel if you enable the Add Assigned Users To Channel flow. However, new or existing stakeholders added to the project are not added as members to this channel.
 
@@ -55,7 +55,3 @@ If you are unable to create a channel, retry the procedure after sometime. If th
 
 [Collaborate with your project teams using PPM Collaboration application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/ppm-collab-overview.md)
 
-## Related
-
-- [[create-a-project-form|Project form]]
-- [[t_CreateAProjectTask|Project tasks]]

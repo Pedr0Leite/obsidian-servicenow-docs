@@ -14,7 +14,7 @@ breadcrumb: [Track shipments using the integration framework, Use, Hardware Asse
 
 # View hardware asset shipment details
 
-View all hardware asset shipment details in a single place in the [[using-ham-workspace|Hardware Asset Workspace]].
+View all hardware asset shipment details in a single place in the Hardware Asset Workspace.
 
 ## Before you begin
 
@@ -203,6 +203,3 @@ Option that indicates whether the shipment record is stale. This option is read-
 
 [Track a hardware asset shipment]()
 
-## Related
-
-- [[using-ham-workspace|Hardware Asset Workspace]]

@@ -14,7 +14,7 @@ breadcrumb: [Tutorial: Configure SCIM for user provisioning with a Provider, SCI
 
 # Provisioning user using OAuth
 
-Configure the provider for SCIM automatically provisions and de-provisioning of [[users|users]] and groups to ServiceNow by using the providers provisioning service with [[oauth-inbound-and-outbound|OAuth]].
+Configure the provider for SCIM automatically provisions and de-provisioning of users and groups to ServiceNow by using the providers provisioning service with OAuth.
 
 ## Before you begin
 
@@ -34,11 +34,11 @@ You must activate the SCIM plugin.
 
     These details should be provided while configuring the ServiceNow application on Azure AD.
 
-4.  Navigate to **All** &gt; **System Web Services** &gt; **[[inbound-authentication-profile|REST API Access Policies]]** to check the details on the REST API Access Policies.
+4.  Navigate to **All** &gt; **System Web Services** &gt; **REST API Access Policies** to check the details on the REST API Access Policies.
 
-5.  In the [[api-access-policy|API Access Policy]] page, click the **SCIM API Policy** record.
+5.  In the API Access Policy page, click the **SCIM API Policy** record.
 
-6.  Verify the **SCIMAPIOAuthOnly** record is available in the [[c_Authentication|Authentication]] Profiles sections.
+6.  Verify the **SCIMAPIOAuthOnly** record is available in the Authentication Profiles sections.
 
 7.  Check if the **OAuth Entity** field is specified with **SCIM API** record that was earlier configured or verified as application registry.
 
@@ -48,10 +48,4 @@ You must activate the SCIM plugin.
 
     **Note:** If the connection fails, ensure that your ServiceNow account has admin permissions and try again.
 
-## Related
 
-- [[users|Users]]
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[inbound-authentication-profile|REST API access policies]]
-- [[api-access-policy|API access policy]]
-- [[c_Authentication|Authentication]]

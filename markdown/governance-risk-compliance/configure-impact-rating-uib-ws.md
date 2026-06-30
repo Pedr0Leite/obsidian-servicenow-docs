@@ -12,7 +12,7 @@ breadcrumb: [General administration setup for BCM, Configure, Business Continuit
 
 # Configure impact ratings
 
-[[configure-impact-rating-bcp|Configure an impact rating to assess an impact category]] as low, moderate, high, or critical. Use the **Impact Ratings** module in the [[business-continuity-mangmt-overview|Business Continuity Management]] application navigator to help you measure the intensity of the loss when a business downtime occurs.
+Configure an impact rating to assess an impact category as low, moderate, high, or critical. Use the **Impact Ratings** module in the Business Continuity Management application navigator to help you measure the intensity of the loss when a business downtime occurs.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_bcm.admin
 
 ## Procedure
 
-1.  Navigate to **Business Continuity** &gt; **General [[Administration|Administration]]** &gt; **Impact Ratings**.
+1.  Navigate to **Business Continuity** &gt; **General Administration** &gt; **Impact Ratings**.
 
 2.  Select **New**.
 
@@ -30,7 +30,7 @@ Role required: sn\_bcm.admin
 
 3.  On the form, fill in the fields.
 
-    For more information on the fields in the form, see [[impact-rating-new-record-form|Impact Rating record form]].
+    For more information on the fields in the form, see [Impact Rating record form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/impact-rating-new-record-form.md).
 
     The example shows an impact rating from the demo data.
 
@@ -42,12 +42,5 @@ Role required: sn\_bcm.admin
 -   **[Impact Rating record form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/impact-rating-new-record-form.md)**  
 Use the Impact Rating record form to assess an impact category such as low, moderate, high, or critical by using BCM UIB Workspace.
 
-**Parent Topic:**[[set-up-bcm-bcmadmin-tasks|General administration setup for BCM]]
+**Parent Topic:**[General administration setup for BCM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/set-up-bcm-bcmadmin-tasks.md)
 
-## Related
-
-- [[impact-rating-new-record-form|Impact Rating record form]]
-- [[set-up-bcm-bcmadmin-tasks|General administration setup for BCM]]
-- [[configure-impact-rating-bcp|Configure an impact rating to assess an impact category]]
-- [[business-continuity-mangmt-overview|Business Continuity Management]]
-- [[Administration|Administration]]

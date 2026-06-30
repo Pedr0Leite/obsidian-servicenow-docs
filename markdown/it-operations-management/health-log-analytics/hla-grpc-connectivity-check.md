@@ -15,7 +15,7 @@ breadcrumb: [Set up HLA on your instance, Configuring, Health Log Analytics, ITO
 
 # Check gRPC and network connectivity for Health Log Analytics on the MID Server
 
-Verify that [[hla-landing-page|Health Log Analytics]] can function properly by performing diagnostic tests on the MID Server to check gRPC and network connectivity.
+Verify that Health Log Analytics can function properly by performing diagnostic tests on the MID Server to check gRPC and network connectivity.
 
 ## Before you begin
 
@@ -44,6 +44,3 @@ Your organization's network and security configuration may be keeping Health Log
 
 **Parent Topic:**[Set up Health Log Analytics on your ServiceNow instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-implement.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

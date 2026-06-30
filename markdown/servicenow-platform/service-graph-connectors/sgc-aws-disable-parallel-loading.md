@@ -14,7 +14,7 @@ breadcrumb: [Additional features, AWS, Service Graph Connectors, Integrating thi
 
 # Disable parallel loading for Service Graph Connector for AWS data sources
 
-You can disable parallel loading for specific data sources in the [[cmdb-integration-aws-sg|Service Graph Connector for AWS]].
+You can disable parallel loading for specific data sources in the Service Graph Connector for AWS.
 
 ## Before you begin
 
@@ -24,16 +24,12 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[cmdb-sgc-available|Service Graph Connectors]]** &gt; **AWS** &gt; **Data sources**.
+1.  Navigate to **All** &gt; **Service Graph Connectors** &gt; **AWS** &gt; **Data sources**.
 
 2.  From the list of data sources, open the data source for which you want to disable parallel loading.
 
-3.  Clear the **Enable parallel loading** [[check-box|check box]].
+3.  Clear the **Enable parallel loading** check box.
 
 4.  Select **Update**.
 
-## Related
 
-- [[cmdb-integration-aws-sg|Service Graph Connector for AWS]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[check-box|Check box]]

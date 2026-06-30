@@ -14,15 +14,15 @@ breadcrumb: [Reporting, Reporting, dashboards, and Performance Analytics in the 
 
 # Exploring reporting
 
-[[reporting-landing-page|Reporting]] functionality is available by default for all tables, except for system tables.
+Reporting functionality is available by default for all tables, except for system tables.
 
 ## Reporting overview
 
-**Note:** On net new Australia instances and instances migrated to [[par-workspace|Platform Analytics experience]], Reporting functionality is replaced with Data Visualizations. For more information, see [[analytics-center-data-visualizations|Data visualizations in Platform Analytics]].
+**Note:** On net new Australia instances and instances migrated to Platform Analytics experience, Reporting functionality is replaced with Data Visualizations. For more information, see [Data visualizations in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-data-visualizations.md).
 
 Core UI Reporting functionality is in maintenance mode and is no longer being augmented or changed. Only security fixes to this feature will be addressed.
 
-ServiceNow® enables you to create and [[c_DistributeReports|distribute reports]] that show the current state of instance data, such as the number of open incidents of each priority.
+ServiceNow® enables you to create and distribute reports that show the current state of instance data, such as the number of open incidents of each priority.
 
 ## Reporting workflow
 
@@ -39,9 +39,3 @@ ServiceNow reports are visualizations of your data that you can share with users
 |Delete reports that are no longer used.|[Delete a report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/delete-report.md)|creator, an administrator, or have a managing role of a report to delete|
 |Keyboard shortcuts enable you to perform certain functions in the Report Designer without using your mouse.|[Report Designer keyboard shortcuts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/keyboard-shortcuts.md)| |
 
-## Related
-
-- [[analytics-center-data-visualizations|Data visualizations in Platform Analytics]]
-- [[reporting-landing-page|Reporting]]
-- [[par-workspace|Platform Analytics experience]]
-- [[c_DistributeReports|Distribute reports]]

@@ -14,7 +14,7 @@ breadcrumb: [Quality Management, Set up work orders and tasks, Configure, Field 
 
 # Activate Field Service Quality Management
 
-You can activate the Field Service Quality Management plugin \(com.sn\_fsm\_quality\) for [[fsm-application-landing-page|Field Service Management]] if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can activate the Field Service Quality Management plugin \(com.sn\_fsm\_quality\) for Field Service Management if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -36,7 +36,7 @@ The following items are installed with Field Service Quality Management:
 -   Substates
 -   Roles
 
-For more information, see [[quality-mgmt-components|Field Service Quality Management components]].
+For more information, see [Field Service Quality Management components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/quality-mgmt-components.md).
 
 ## Procedure
 
@@ -62,7 +62,3 @@ For more information, see [[quality-mgmt-components|Field Service Quality Manage
 
 [Field Service Quality Management components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/quality-mgmt-components.md)
 
-## Related
-
-- [[quality-mgmt-components|Field Service Quality Management components]]
-- [[fsm-application-landing-page|Field Service Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Automated Mapping Across Zone-based IP Network Groups, Managing equ
 
 # Workflow for the automated mapping feature
 
-The [[industrial-process-manager-overview|Industrial Process Manager]] includes an automated flow for the automated mapping feature.
+The Industrial Process Manager includes an automated flow for the automated mapping feature.
 
 A predefined flows is included with this feature that you can use to schedule the assignment of OT devices to equipment model entities.
 
@@ -22,11 +22,11 @@ By using [Flow Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNow
 
 ## Flow available for this feature
 
-The following table lists the predefined flow that is available with the Industrial Process Manager when installed with [[operational-technology-manager|Operational Technology Manager]].
+The following table lists the predefined flow that is available with the Industrial Process Manager when installed with Operational Technology Manager.
 
 |Application|Flow|
 |-----------|----|
-|Industrial Process Manager when installed with [[operational-technology-overview|Operational Technology]] Manager|OT device mapping flow|
+|Industrial Process Manager when installed with Operational Technology Manager|OT device mapping flow|
 
 ## General use cases for the automated mapping feature
 
@@ -44,8 +44,3 @@ The following is a typical workflow for the automated mapping feature.
 
 **Parent Topic:**[Automated Mapping Across Zone-based IP Network Groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/automate-mappings-between-ot-assets-and-equipment-model-entity.md)
 
-## Related
-
-- [[industrial-process-manager-overview|Industrial Process Manager]]
-- [[operational-technology-manager|Operational Technology Manager]]
-- [[operational-technology-overview|Operational Technology]]

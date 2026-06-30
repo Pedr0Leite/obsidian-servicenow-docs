@@ -14,7 +14,7 @@ breadcrumb: [Portal FAQ widget, Configurable Portal widgets, Set up self-service
 
 # Add and configure the Portal FAQ widget
 
-Add the [[portal-faq-widget|Portal FAQ widget]] to your portal and modify its data, presentation, and behavior. You can use the Portal FAQ widget to display a frequently asked questions list \(FAQ\) from a knowledge table on the portal.
+Add the Portal FAQ widget to your portal and modify its data, presentation, and behavior. You can use the Portal FAQ widget to display a frequently asked questions list \(FAQ\) from a knowledge table on the portal.
 
 ## Before you begin
 
@@ -48,11 +48,8 @@ Role required: sp\_admin
 
 11. On the Instance form, fill in the fields.
 
-    For a description of the fields values, see [[r-port-faq-inst-options|Portal FAQ widget instance options form]]
+    For a description of the fields values, see [Portal FAQ widget instance options form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r-port-faq-inst-options.md)
 
 12. Select **Save**.
 
-## Related
 
-- [[r-port-faq-inst-options|Portal FAQ widget instance options form]]
-- [[portal-faq-widget|Portal FAQ widget]]

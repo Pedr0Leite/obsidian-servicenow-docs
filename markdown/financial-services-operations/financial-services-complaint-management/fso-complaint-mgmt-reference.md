@@ -14,8 +14,5 @@ breadcrumb: [Complaint Management, Common applications, Financial Services Opera
 
 # Financial Services Complaint Management reference
 
-Learn about the components, such as the roles, tables, plugins, and store applications, that are installed when you install the [[fso-complaint-mgmt-landing-page|Financial Services Complaint Management]] application.
+Learn about the components, such as the roles, tables, plugins, and store applications, that are installed when you install the Financial Services Complaint Management application.
 
-## Related
-
-- [[fso-complaint-mgmt-landing-page|Financial Services Complaint Management]]

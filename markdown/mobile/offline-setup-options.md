@@ -19,7 +19,7 @@ Review the setup options to determine which configurations apply to your offline
 A large offline setup increases download time and bandwidth consumption, which can slow cache load for users. Keeping the offline setup minimal allows for quicker setup and faster access to data. When configuring cache refresh timing, consider the following parameters.
 
 -   Payload generation time limit: Define the time limit between 0 to 20 minutes using the parameter `glide.sg.offline.job.maxRuntime`. The default is 10 minutes.
--   Payload size limit: Payload size is unlimited, except for a maximum total size limit on attachments. For more information, see [[offline-attachment-behavior|Attachment behavior in offline mode]].
+-   Payload size limit: Payload size is unlimited, except for a maximum total size limit on attachments. For more information, see [Attachment behavior in offline mode](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/offline-attachment-behavior.md).
 -   Download time limit: Download time is not controlled by the application but is governed by standard OS and network HTTP timeouts at the device, browser, or infrastructure level.
 
 -   **Device efficiency**
@@ -41,23 +41,23 @@ When planning your offline mode strategy, review these setup options to learn ab
 
 -   **1. Install and enable offline capabilities**
 
-    For more information, see [[enable-offline|Install and enable offline capabilities]].
+    For more information, see [Install and enable offline capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/enable-offline.md).
 
 -   **2. Set up and align the app, screen, and function hierarchy**
 
-    For more information, see [[align-app-screen-function|Set up and align the app, screen, and function hierarchy for offline mode]].
+    For more information, see [Set up and align the app, screen, and function hierarchy for offline mode](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/align-app-screen-function.md).
 
 -   **3. Configure action items and action item steps, to create, edit, and delete records while working offline**
 
-    For more information, see [[offline-action-item-steps|Using action items and action item steps in ofﬂine mode]].
+    For more information, see [Using action items and action item steps in ofﬂine mode](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/offline-action-item-steps.md).
 
 -   **4. Configure the offline cache refresh timing on user’s device**
 
-    For more information, see [[offline-cache|Configure offline cache downloads to user devices]].
+    For more information, see [Configure offline cache downloads to user devices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/offline-cache.md).
 
 -   **5. Understand and configure mobile input forms for offline use**
 
-    For more information, see [[offline-input-form|Input forms in offline]].
+    For more information, see [Input forms in offline](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/offline-input-form.md).
 
 -   **6. Manage attachment storage to optimize offline device space**
 
@@ -65,7 +65,7 @@ When planning your offline mode strategy, review these setup options to learn ab
 
 -   **7. Configure offline security rules to match your organization's data policies**
 
-    For more information, see [[security-offline|Security and compliance in offline mode]].
+    For more information, see [Security and compliance in offline mode](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/security-offline.md).
 
 
 -   **[Install and enable offline capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/enable-offline.md)**  
@@ -83,15 +83,5 @@ Learn about the size and type limits applied to attachments in the offline cache
 -   **[Security and compliance in offline mode](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/security-offline.md)**  
 Learn how to manage offline mode access and determine which users can use it, helping to secure sensitive data.
 
-**Parent Topic:**[[mobile-offline-mode|Offline mode]]
+**Parent Topic:**[Offline mode](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-offline-mode.md)
 
-## Related
-
-- [[offline-attachment-behavior|Attachment behavior in offline mode]]
-- [[enable-offline|Install and enable offline capabilities]]
-- [[align-app-screen-function|Set up and align the app, screen, and function hierarchy for offline mode]]
-- [[offline-action-item-steps|Using action items and action item steps in ofﬂine mode]]
-- [[offline-cache|Configure offline cache downloads to user devices]]
-- [[offline-input-form|Input forms in offline]]
-- [[security-offline|Security and compliance in offline mode]]
-- [[mobile-offline-mode|Offline mode]]

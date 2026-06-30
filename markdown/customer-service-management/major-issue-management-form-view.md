@@ -66,7 +66,7 @@ The recipients list selected for the major case. Child cases are created for the
 </td></tr></tbody>
 </table>Customer service agents can update the **Business impact** and **Probable cause** fields as well as add **work notes**. Major issue managers can update the **Business Impact** and **Probable Cause** fields and attach a recipients list. The **Affected Customers** field is only visible when the major case state is Accepted.
 
-The **Work notes** field on the major [[r_CustomerServiceCaseForm|case form]] is updated when a major case is proposed or a candidate case is created manually. The **Work notes** field on associated child cases is updated when a major case is accepted.
+The **Work notes** field on the major case form is updated when a major case is proposed or a candidate case is created manually. The **Work notes** field on associated child cases is updated when a major case is accepted.
 
 When a major issue manager rejects a candidate case, the **Major Case State** field is set to Rejected and the **Work notes** field is updated with the case state. The candidate case reverts to a regular case.
 
@@ -74,6 +74,3 @@ When a major issue manager rejects a candidate case, the **Major Case State** fi
 
 Major issue management adds the **Child Cases** related list to the Customer Service Case form. All child cases associated with a major case are added to this list. Child cases are created automatically from the recipients list and can also be added or removed manually.
 
-## Related
-
-- [[r_CustomerServiceCaseForm|Case form]]

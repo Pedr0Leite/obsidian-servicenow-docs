@@ -32,7 +32,7 @@ The default definitions are:
 
 -   Duration—Time from the start of a conversation session until the last message is sent, rather than when the conversation session closes. You cannot replace the supplied script for Duration. You can only turn it on or off. If you deselect the **Active** check box, the duration is calculated until the end of the session. If you select the **Active** check box, the duration is calculated to the last message sent.
 -   Self-solve rate—Number of conversations that did not have negative feedback, contained a topic that went through to the last node, and did not escalate to a live agent. The dashboard divides that number by the number of all conversations to get the rate.
--   Feedback—Defined as positive, neutral, and negative. For example, to override this behavior, first, use [[virtual-agent-landing-page|Virtual Agent]] \(VA\) Designer to create a ranking from 1 to 10. Then, you can use a script to override the dashboard's default behavior by grouping 1–4 as negative, 5–7 as neutral, and 8–10 as positive.
+-   Feedback—Defined as positive, neutral, and negative. For example, to override this behavior, first, use Virtual Agent \(VA\) Designer to create a ranking from 1 to 10. Then, you can use a script to override the dashboard's default behavior by grouping 1–4 as negative, 5–7 as neutral, and 8–10 as positive.
 -   End state—Defined by default in 12 ways. For more information, see [Formula override examples](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/formula-override-examples-pae.md).
 -   Valid conversation—Defined as a conversation record that is included in the dashboard results for satisfying at least one of the following criteria.
     -   Non-actionable notification conversations, which do not require validation from the user, are counted as active conversations.
@@ -83,11 +83,7 @@ The default definitions are:
 
 
 -   **[Formula override example](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/formula-override-examples-pae.md)**  
-Use the following [[formula-override-examples-pae|formula override example]] to craft your own formula overrides.
+Use the following formula override example to craft your own formula overrides.
 
 **Parent Topic:**[Setting up the Conversational Analytics dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/setting-up-va-dashboard-overview1-pae.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[formula-override-examples-pae|Formula override example]]

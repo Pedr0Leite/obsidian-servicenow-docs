@@ -23,10 +23,10 @@ You can filter your to-dos by:
 -   **Open**: This option is **Default**. All tasks with the following conditions:
     -   Purchasing tasks that are in the Open state.
     -   Sourcing tasks with subtype Ask a question, that are in the Work in Progress state, with sub-state as Answer Pending.
-    -   Sourcing tasks with subtype Select a [[supplier|Supplier]], that are in the Work in Progress state.
-    -   Approval tasks, for purchase requests or approvals for [[invoices|invoices]], that are in the Requested state.
-    -   [[receipt-tasks|Receipt tasks]] that are in the Open, Shipped, or Partially Complete state.
-    -   [[milestones|Milestones]] that are in the Confirmation Required state.
+    -   Sourcing tasks with subtype Select a Supplier, that are in the Work in Progress state.
+    -   Approval tasks, for purchase requests or approvals for invoices, that are in the Requested state.
+    -   Receipt tasks that are in the Open, Shipped, or Partially Complete state.
+    -   Milestones that are in the Confirmation Required state.
 -   **Due this week**: All tasks that are due in the next seven days.
 -   **Overdue**: All tasks that are past their due date.
 
@@ -54,9 +54,3 @@ You can select the associated cards, view the details, and perform available act
 
 **Parent Topic:**[Shopper to-dos](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shopper-todos.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[invoices|Invoices]]
-- [[receipt-tasks|Receipt tasks]]
-- [[milestones|Milestones]]

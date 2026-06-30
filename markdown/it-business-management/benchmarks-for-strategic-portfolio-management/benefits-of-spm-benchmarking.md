@@ -14,7 +14,7 @@ breadcrumb: [Exploring SPM Benchmarks, SPM Benchmarks, Strategic Portfolio Manag
 
 # Benefits of SPM Benchmarks
 
-The [[benchmarks-for-spm|SPM Benchmarks]] application provides you with an overall understanding of your performance compared to your peers.
+The SPM Benchmarks application provides you with an overall understanding of your performance compared to your peers.
 
 -   **Global anonymity**
 
@@ -22,7 +22,7 @@ The [[benchmarks-for-spm|SPM Benchmarks]] application provides you with an overa
 
 -   **Industry comparison**
 
-    Using the Compare with drop-down list on the [[spm-benchmarking-dashboard|SPM Benchmarks dashboard]], filter the benchmarks results by industry, ServiceNow user size, or geographical region to make the results more relevant to your organization.
+    Using the Compare with drop-down list on the SPM Benchmarks dashboard, filter the benchmarks results by industry, ServiceNow user size, or geographical region to make the results more relevant to your organization.
 
     -   Industry is determined based on the standard industry code in the account record for the company.
     -   Number of users is determined by the number of ServiceNow active users within the company. You can compare your company to similar-sized ServiceNow implementations to gain an understanding about your company.
@@ -42,7 +42,3 @@ The [[benchmarks-for-spm|SPM Benchmarks]] application provides you with an overa
 
 **Parent Topic:**[Exploring SPM Benchmarks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/benchmarks-for-strategic-portfolio-management/exploring-benchmarks.md)
 
-## Related
-
-- [[benchmarks-for-spm|SPM Benchmarks]]
-- [[spm-benchmarking-dashboard|SPM Benchmarks dashboard]]

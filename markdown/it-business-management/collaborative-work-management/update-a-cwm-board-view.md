@@ -14,7 +14,7 @@ breadcrumb: [Board views in CWM, Manage work using Boards, Use, Collaborative Wo
 
 # Update a CWM Board view
 
-Modify the display preferences of your [[cwm-landing|Collaborative Work Management]] \(CWM\)Boards and update the existing personal or shared views.
+Modify the display preferences of your Collaborative Work Management \(CWM\)Boards and update the existing personal or shared views.
 
 ## Before you begin
 
@@ -51,6 +51,3 @@ The current view is updated with the changes that you made.
 
 **Parent Topic:**[Board views in CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/board-views-in-cwm.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

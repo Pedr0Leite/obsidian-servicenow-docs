@@ -14,24 +14,24 @@ breadcrumb: [Working with Space Optimization, Use, Workplace Central, Workplace 
 
 # View or edit space allocations of a building
 
-The [[space-optimization|Space optimization]] also enables you to view space allocations and make any space-related changes on a building directly. You can view a building stack plan and floor map same as scenarios.
+The Space optimization also enables you to view space allocations and make any space-related changes on a building directly. You can view a building stack plan and floor map same as scenarios.
 
 ## Before you begin
 
 Ensure that the following plugins are installed:
 
--   [[workplace-central-feat|Workplace Central]]
+-   Workplace Central
 -   Workplace Stack Plan
--   [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] Components
--   [[workplace-case-mgmt-feat|Workplace Case Management]]
--   [[workplace-space-mgmt-ovw|Workplace Space Management]]
--   For Floor map view, the floor maps must be created using Workplace [[Indoor-mapping|Indoor Mapping]] Map studio.
+-   Workplace Service Delivery Components
+-   Workplace Case Management
+-   Workplace Space Management
+-   For Floor map view, the floor maps must be created using Workplace Indoor Mapping Map studio.
 
 Role required: sn\_wsd\_spcmgmt.space\_planner, sn\_wsd\_spcmgmt.scenario\_reader \(read-only; to view a building\)
 
 ## About this task
 
-You can perform several actions on a building directly instead of working them through [[scenario-planning|scenario planning]]. The building view enables you to perform the following:
+You can perform several actions on a building directly instead of working them through scenario planning. The building view enables you to perform the following:
 
 -   View space allocations on each floor based on different view options. For more information on the different view by options that are available, refer to [Scenario and Building - Views, states, settings, and key features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/scenario-planning-views-actions-keyfeatures-.md).
 -   Get space details of each allocation on the stack plan same as in scenarios.
@@ -45,9 +45,9 @@ You can perform several actions on a building directly instead of working them t
 
     -   **All** &gt; **Workplace Central** &gt; **Workplace Central**.
     -   **All** &gt; **Scenario Planning** &gt; **My Scenario Plans**
-    You can also open Workplace Central from the [[employee-center-landing-page|Employee Center]] directly. Navigate to **Workspaces** &gt; **Workplace Central**.
+    You can also open Workplace Central from the Employee Center directly. Navigate to **Workspaces** &gt; **Workplace Central**.
 
-    The [[workplace-analytics|Workplace Analytics]] dashboard opens.
+    The Workplace Analytics dashboard opens.
 
 2.  On the left pane, select **Space Optimization** icon \(\[Omitted image "space-optimization-icon.png"\] Alt text: Space optimization icon.\).
 
@@ -153,14 +153,3 @@ View the spaces in a building based on their entity types. On the floor map, dir
 
 [Map based space administration]()
 
-## Related
-
-- [[space-optimization|Space Optimization]]
-- [[workplace-central-feat|Workplace Central]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[workplace-space-mgmt-ovw|Workplace Space Management]]
-- [[Indoor-mapping|Indoor Mapping]]
-- [[scenario-planning|Scenario Planning]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-analytics|Workplace Analytics]]

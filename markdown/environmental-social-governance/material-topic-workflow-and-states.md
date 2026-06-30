@@ -59,20 +59,14 @@ Material topics imported from Socialsuite progress through the following states 
 
 ## Fields for Socialsuite material topics
 
-Material topics imported from Socialsuite include additional fields that store materiality assessment data. These fields are visible and read-only for topics imported from Socialsuite. All data for these fields is managed through Socialsuite. For a complete list of fields, see [[socialsuite-material-topic-fields|Socialsuite material topic fields]].
+Material topics imported from Socialsuite include additional fields that store materiality assessment data. These fields are visible and read-only for topics imported from Socialsuite. All data for these fields is managed through Socialsuite. For a complete list of fields, see [Socialsuite material topic fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/socialsuite-material-topic-fields.md).
 
-**Parent Topic:**[[esg-new-explore|Exploring Operational Sustainability Management \(formerly ESG Management\)]]
+**Parent Topic:**[Exploring Operational Sustainability Management \(formerly ESG Management\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/esg-new-explore.md)
 
 **Related topics**  
 
 
-[[integrate-esg|Integrating Operational Sustainability Management \(formerly ESG\) with other applications]]
+[Integrating Operational Sustainability Management \(formerly ESG\) with other applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/integrate-esg.md)
 
-[[set-material-topic-selection-system-property|Set Material topic selection system property]]
+[Set Material topic selection system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/set-material-topic-selection-system-property.md)
 
-## Related
-
-- [[socialsuite-material-topic-fields|Socialsuite material topic fields]]
-- [[esg-new-explore|Exploring Operational Sustainability Management \(formerly ESG Management\)]]
-- [[integrate-esg|Integrating Operational Sustainability Management \(formerly ESG\) with other applications]]
-- [[set-material-topic-selection-system-property|Set Material topic selection system property]]

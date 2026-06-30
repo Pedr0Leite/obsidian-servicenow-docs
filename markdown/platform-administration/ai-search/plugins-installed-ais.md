@@ -14,7 +14,7 @@ breadcrumb: [Reference, AI Search, Search administration, Configure core feature
 
 # Plugins installed with AI Search
 
-[[ia-ai-search|AI Search]] adds the following plugin.
+AI Search adds the following plugin.
 
 <table id="ais-plugins-table"><thead><tr><th>
 
@@ -35,6 +35,3 @@ Enables core functionality for AI Search. Installed in the base system.**Note:**
 </td></tr></tbody>
 </table>**Parent Topic:**[AI Search reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/reference-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]

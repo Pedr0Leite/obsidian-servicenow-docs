@@ -15,7 +15,7 @@ breadcrumb: [Cornerstone external content connector, Configure, External Content
 
 # Configure Cornerstone for external content indexing
 
-Create and authorize an OAuth 2.0 application in the Cornerstone  to allow the [[cornerstone-external-content-connector|Cornerstone external content connector]] to access your Cornerstone source system.
+Create and authorize an OAuth 2.0 application in the Cornerstone  to allow the Cornerstone external content connector to access your Cornerstone source system.
 
 ## Before you begin
 
@@ -88,6 +88,3 @@ For details on creating and configuring a Cornerstone external content connector
 
 **Parent Topic:**[Cornerstone external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/cornerstone-external-content-connector.md)
 
-## Related
-
-- [[cornerstone-external-content-connector|Cornerstone external content connector]]

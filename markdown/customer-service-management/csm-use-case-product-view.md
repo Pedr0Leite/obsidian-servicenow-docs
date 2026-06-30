@@ -16,16 +16,16 @@ CSM enables you to provide service and support for your external customers throu
 
 ## CSM use case
 
-CSM provides proactive customer service, decreases cost of service, and provides end-to-end visibility to both customer service and service delivery groups. For more information, see [[csm-spm-integration|Integrating with Service Portfolio Management]].
+CSM provides proactive customer service, decreases cost of service, and provides end-to-end visibility to both customer service and service delivery groups. For more information, see [Integrating with Service Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-spm-integration.md).
 
-For information on setting up the data, see [[configure-csm-foundation-data|Configure foundation data]].
+For information on setting up the data, see [Configure foundation data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-csm-foundation-data.md).
 
 ## Results of the CSM use case
 
 Understand the tables within the CSDM framework that are needed to support the following CSM functionality:
 
 -   Service-aware Install Base
--   [[proactive-service-operations|Proactive Customer Service Operations]]
+-   Proactive Customer Service Operations
 -   Real Time Service Health and Outage Tracking
 -   Contextual Service Catalog
 
@@ -43,15 +43,8 @@ CSM uses the following key entities to resolve complex end-to-end issues.
 -   The **contact** is an employee of an account. A contact record stores information about a contact, such as the name, phone number, and email address. A contact can also have a user ID and can log in to the customer portal.
 -   A **consumer** is a customer in the business-to-consumer \(B2C\) business model.
 -   Household defines the consumers who constitute a household, and the relationships between household members.
--   Sold Product [[gamification-components-tracks|tracks]] the products or services sold to an account or consumer.
--   [[install-base-item|Install Base Items]] represent the instance of the product that has been configured for a customer.
+-   Sold Product tracks the products or services sold to an account or consumer.
+-   Install Base Items represent the instance of the product that has been configured for a customer.
 -   Service Contract defines the type of support that customers receive. A contract can include an account and contact or a consumer and the specific assets that are covered. A contract can also include multiple service entitlements and SLAs.
 -   Entitlement specifies the type of support that a customer receives as well as the supported communication channels.
 
-## Related
-
-- [[csm-spm-integration|Integrating with Service Portfolio Management]]
-- [[configure-csm-foundation-data|Configure foundation data]]
-- [[proactive-service-operations|Proactive Customer Service Operations]]
-- [[gamification-components-tracks|Tracks]]
-- [[install-base-item|Install base items]]

@@ -154,7 +154,7 @@ The application scope on which the functionality runs.
 
 [Connected Content form]()
 
-[Default [[emp-slate-employee-profile|Employee Profile]] Header Configuration record]()
+[Default Employee Profile Header Configuration record]()
 
 [Employee Center widgets]()
 
@@ -184,7 +184,7 @@ The application scope on which the functionality runs.
 
 [Portal notification configuration form]()
 
-[Portal [[ec-notification-content|notification content]] form]()
+[Portal notification content form]()
 
 [Trigger conditions form]()
 
@@ -206,7 +206,3 @@ The application scope on which the functionality runs.
 
 [Create a quick link](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/create-quick-links.md)
 
-## Related
-
-- [[emp-slate-employee-profile|Employee profile]]
-- [[ec-notification-content|Notification content]]

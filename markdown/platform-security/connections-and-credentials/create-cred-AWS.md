@@ -24,7 +24,7 @@ Role required: admin
 
 Store the credentials as an Account on the CyberArk vault. When you configure access to the vault on your instance, the name you give to the Account must also be used as the credential ID.
 
-**Note:** The procedure that follows references CyberArk Password Vault v14.2.1. If you are using a different version, set up [[sc-configuration|configuration]] as per official CyberArk Password Vault documentation.
+**Note:** The procedure that follows references CyberArk Password Vault v14.2.1. If you are using a different version, set up configuration as per official CyberArk Password Vault documentation.
 
 ## Procedure
 
@@ -93,6 +93,3 @@ CyberArk Password Vault v14.2.1 includes both Accounts View and Accounts View \(
 
 If you have not done so already, create a credential identifier on your instance to configure access to the CyberArk vault. For more details, see [Configure access to external credential storage for AWS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/external_cred_storage_configuration.md).
 
-## Related
-
-- [[sc-configuration|Configuration]]

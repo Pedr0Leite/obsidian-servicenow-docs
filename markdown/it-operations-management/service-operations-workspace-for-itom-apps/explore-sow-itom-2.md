@@ -15,7 +15,7 @@ breadcrumb: [Exploring SOW for ITOM, Service Operations Workspace for ITOM, ITOM
 
 # Exploring Service Operations Workspace for ITOM 2
 
-Discover how operators use [[sow-landing-page-itom|Service Operations Workspace for ITOM]] in daily workflows and how administrators configure the workspace to support efficient alert management and operational processes.
+Discover how operators use Service Operations Workspace for ITOM in daily workflows and how administrators configure the workspace to support efficient alert management and operational processes.
 
 ## Overview of operational usage and configuration
 
@@ -23,31 +23,31 @@ Service Operations Workspace for ITOM serves as a centralized platform where ope
 
 Administrators establish the foundation by configuring workspace layouts, alert automation rules, and integration settings. Operators then leverage these configurations to efficiently triage alerts, investigate issues, and coordinate responses. This collaborative approach ensures that the workspace adapts to organizational needs while maintaining operational consistency.
 
-The workspace integrates capabilities from [[c_EM|Event Management]], [[hla-landing-page|Health Log Analytics]], [[now-assist-itom|Now Assist for ITOM]], and other AIOps applications to provide unified operational intelligence. This integration enables proactive issue detection, intelligent alert correlation, and AI-powered insights that transform reactive operations into predictive service management.
+The workspace integrates capabilities from Event Management, Health Log Analytics, Now Assist for ITOM, and other AIOps applications to provide unified operational intelligence. This integration enables proactive issue detection, intelligent alert correlation, and AI-powered insights that transform reactive operations into predictive service management.
 
 ## Administrator configuration workflows
 
-Administrators play a crucial role in establishing and maintaining the [[workspace-dashboard-use|Service Operations Workspace]] environment. Their configuration activities directly impact operator efficiency and organizational alert management capabilities.
+Administrators play a crucial role in establishing and maintaining the Service Operations Workspace environment. Their configuration activities directly impact operator efficiency and organizational alert management capabilities.
 
 -   **Workspace layout configuration**
 
-    Administrators customize dashboard layouts, configure widget arrangements, and establish default views that align with operational priorities. This includes setting up service [[otto-aiops-dashboards|dashboards]], alert lists, and integration panels to match team workflows.
+    Administrators customize dashboard layouts, configure widget arrangements, and establish default views that align with operational priorities. This includes setting up service dashboards, alert lists, and integration panels to match team workflows.
 
 -   **Alert automation setup**
 
-    Configure automated alert processing rules, including [[c_ServiceAnalyticsOverview|alert grouping]] criteria, escalation policies, and response automation. Administrators establish thresholds and conditions that determine how alerts are categorized and routed to appropriate teams.
+    Configure automated alert processing rules, including alert grouping criteria, escalation policies, and response automation. Administrators establish thresholds and conditions that determine how alerts are categorized and routed to appropriate teams.
 
 -   **Integration management**
 
-    Set up and maintain connections to external monitoring tools, configure data ingestion pipelines, and establish integration mappings. This includes [[agent-client-collector-configuring|configuring Agent Client Collector]] for infrastructure monitoring, [[service-observability|Service Observability]] for application performance data, and various third-party integrations through the Integrations Launchpad. These configurations promote that alert data flows seamlessly from various sources into the unified workspace.
+    Set up and maintain connections to external monitoring tools, configure data ingestion pipelines, and establish integration mappings. This includes configuring Agent Client Collector for infrastructure monitoring, Service Observability for application performance data, and various third-party integrations through the Integrations Launchpad. These configurations promote that alert data flows seamlessly from various sources into the unified workspace.
 
 -   **AI and automation configuration**
 
-    [[now-assist-itom-configure|Configure Now Assist for ITOM]] capabilities including alert summarization, incident analysis, and automated response workflows. Administrators set up AI agent configurations, define automation triggers, and establish approval workflows for AI-recommended actions. This includes configuring agentic workflows for alert triage and autonomous operator assistance.
+    Configure Now Assist for ITOM capabilities including alert summarization, incident analysis, and automated response workflows. Administrators set up AI agent configurations, define automation triggers, and establish approval workflows for AI-recommended actions. This includes configuring agentic workflows for alert triage and autonomous operator assistance.
 
 -   **Role and permission configuration**
 
-    Define user roles, establish access controls, and configure permission levels that align with organizational security policies. Administrators promote that operators have appropriate access to Health Log Analytics, [[sr-landing-page|Service Reliability Management]], and other integrated tools needed for their responsibilities.
+    Define user roles, establish access controls, and configure permission levels that align with organizational security policies. Administrators promote that operators have appropriate access to Health Log Analytics, Service Reliability Management, and other integrated tools needed for their responsibilities.
 
 -   **Performance optimization**
 
@@ -61,7 +61,7 @@ Operators use the configured Service Operations Workspace environment to manage 
 1.  **Morning briefing and prioritization:** Operators begin their shift by reviewing the workspace dashboard to understand current alert status, identify high-priority issues, and assess overall system health based on configured metrics and thresholds. The unified dashboard consolidates alert prioritization, service health overviews, trending anomalies, and predicted issues into a single view, eliminating the need to check multiple monitoring tools.
 2.  **Alert triage and investigation:** Using the configured alert lists and filtering options, operators systematically review new alerts, apply established triage criteria, and initiate investigations using integrated tools and historical data. Now Assist for ITOM provides AI-powered alert analysis, summarization, and recommended actions to accelerate triage decisions.
 3.  **Collaborative problem-solving:** Operators leverage workspace collaboration features to communicate with team members, share findings, and coordinate response efforts directly within the alert context. Integration with Service Reliability Management enables structured incident response workflows and automated escalation procedures.
-4.  **Response execution:** Following established procedures and using configured automation tools, operators execute response actions, apply fixes, and monitor resolution progress through the workspace interface. Agentic workflows can autonomously execute approved [[ccg-remediation|remediation]] actions while maintaining human oversight for complex scenarios.
+4.  **Response execution:** Following established procedures and using configured automation tools, operators execute response actions, apply fixes, and monitor resolution progress through the workspace interface. Agentic workflows can autonomously execute approved remediation actions while maintaining human oversight for complex scenarios.
 5.  **Documentation and handoff:** Operators document their actions, update alert status, and prepare handoff information for subsequent shifts, ensuring continuity of operations.
 6.  **Continuous monitoring:** Throughout their shift, operators monitor workspace notifications, respond to new alerts, and maintain situational awareness using configured dashboards and real time updates.
 
@@ -128,17 +128,3 @@ Manages the lifecycle of alerts, including performing basic operations such as v
 
 [List of workspaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/list-of-workspaces.md)
 
-## Related
-
-- [[sow-landing-page-itom|Service Operations Workspace for ITOM]]
-- [[c_EM|Event Management]]
-- [[hla-landing-page|Health Log Analytics]]
-- [[now-assist-itom|Now Assist for ITOM]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[otto-aiops-dashboards|Dashboards]]
-- [[c_ServiceAnalyticsOverview|Alert grouping]]
-- [[agent-client-collector-configuring|Configuring Agent Client Collector]]
-- [[service-observability|Service Observability]]
-- [[now-assist-itom-configure|Configure Now Assist for ITOM]]
-- [[sr-landing-page|Service Reliability Management]]
-- [[ccg-remediation|Remediation]]

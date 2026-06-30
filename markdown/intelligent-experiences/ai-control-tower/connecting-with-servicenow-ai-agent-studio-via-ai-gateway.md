@@ -20,7 +20,7 @@ Connecting with AI Agent Studio via AI Gateway.
 
 Role required: an\_aia.admin
 
-**Note:** Product Owners can be restricted to use only approved MCP Servers on [[ai-agent-studio|AI Agent Studio]]
+**Note:** Product Owners can be restricted to use only approved MCP Servers on AI Agent Studio
 
 ## Procedure
 
@@ -32,7 +32,7 @@ Role required: an\_aia.admin
 
 4.  Select **Tools**.
 
-5.  Select **+[[add-a-tool|Add a tool]]**.
+5.  Select **+Add a tool**.
 
 6.  Select **+ New tool**.
 
@@ -40,7 +40,7 @@ Role required: an\_aia.admin
 
 8.  Select the MCP server from the drop-down.
 
-    **Note:** In AWH for [[ai-control-tower-landing|AI Control Tower]] \(2.0.0\), unapproved MCP Servers appear in the list but tools cannot be fetched until the server is approved in AI Control Tower.
+    **Note:** In AWH for AI Control Tower \(2.0.0\), unapproved MCP Servers appear in the list but tools cannot be fetched until the server is approved in AI Control Tower.
 
 9.  Select the specific tools from the MCP server that the agent should use.
 
@@ -49,11 +49,5 @@ Role required: an\_aia.admin
 
 ## Result
 
-The agent is configured to use the MCP Server through [[ai-gateway-overview|AI Gateway]]. All requests from the agent to the MCP Server are routed through AI Gateway for governance, security, and observability.
+The agent is configured to use the MCP Server through AI Gateway. All requests from the agent to the MCP Server are routed through AI Gateway for governance, security, and observability.
 
-## Related
-
-- [[ai-agent-studio|AI Agent Studio]]
-- [[add-a-tool|Add a tool]]
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[ai-gateway-overview|AI Gateway]]

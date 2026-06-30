@@ -27,7 +27,7 @@ Role required: sn\_si.analyst or sn\_si.manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Security Incident** &gt; **[[sir-workspace-landing-page|Security Incident Response Workspace]]**.
+1.  Navigate to **All** &gt; **Security Incident** &gt; **Security Incident Response Workspace**.
 
 2.  Open the security incident that you want to close by using the AI agent.
 
@@ -83,7 +83,3 @@ The AI agent closes the security incident. It also updates the Close notes as `C
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]

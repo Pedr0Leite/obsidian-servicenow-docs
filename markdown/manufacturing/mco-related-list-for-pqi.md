@@ -16,13 +16,13 @@ In the workspace, you can use the product quality issues related list to log the
 
 |Related list|Description|
 |------------|-----------|
-|[[mco-product-quality-investigation-task|Create a product quality investigation]]|Create the [[mco-PQI-use|product quality investigation]] task case.|
-|[[mco-stakeholders|Create a stakeholder]]|Create a list if stakeholders.|
-|[[mco-containment-actions|Create a containment action]]|Create containment actions.|
-|[[mco-root-cause-analysis-task|Create a root cause analysis]]|Create root cause analysis of the case.|
-|[[mco-corrective-action|Create a corrective action]]|Create [[mco-corrective-actions|corrective actions]].|
-|[[mco-preventive-action|Create a preventive action]]|Create preventive action.|
-|[[mco-view-a-product-non-conformance|View a product non-conformance]]|View the [[mco-product-non-conformances|product non-conformance]] case details.|
+|[Create a product quality investigation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-product-quality-investigation-task.md)|Create the product quality investigation task case.|
+|[Create a stakeholder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-stakeholders.md)|Create a list if stakeholders.|
+|[Create a containment action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-containment-actions.md)|Create containment actions.|
+|[Create a root cause analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-root-cause-analysis-task.md)|Create root cause analysis of the case.|
+|[Create a corrective action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-corrective-action.md)|Create corrective actions.|
+|[Create a preventive action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-preventive-action.md)|Create preventive action.|
+|[View a product non-conformance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-view-a-product-non-conformance.md)|View the product non-conformance case details.|
 
 -   **[Create a product quality investigation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-product-quality-investigation-task.md)**  
 Create a non-conformance case task report for products that had an issue.
@@ -33,18 +33,5 @@ Create a corrective action for the quality investigation case.
 -   **[Create a preventive action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-preventive-action.md)**  
 Create a preventive action for product quality issue case.
 
-**Parent Topic:**[[mco-create-product-quality-investigation|Create a product quality investigation]]
+**Parent Topic:**[Create a product quality investigation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-create-product-quality-investigation.md)
 
-## Related
-
-- [[mco-product-quality-investigation-task|Create a product quality investigation]]
-- [[mco-stakeholders|Create a stakeholder]]
-- [[mco-containment-actions|Create a containment action]]
-- [[mco-root-cause-analysis-task|Create a root cause analysis]]
-- [[mco-corrective-action|Create a corrective action]]
-- [[mco-preventive-action|Create a preventive action]]
-- [[mco-view-a-product-non-conformance|View a product non-conformance]]
-- [[mco-create-product-quality-investigation|Create a product quality investigation]]
-- [[mco-PQI-use|Product quality investigation]]
-- [[mco-corrective-actions|Corrective actions]]
-- [[mco-product-non-conformances|Product non-conformance]]

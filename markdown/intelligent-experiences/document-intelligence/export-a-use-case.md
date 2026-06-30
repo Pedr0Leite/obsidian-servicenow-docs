@@ -16,11 +16,11 @@ breadcrumb: [Manage document extraction use cases, Configure, Document Intellige
 
 Export a document extraction use case for use in another ServiceNow instance by adding it to an update set.
 
-**Important:** Starting with the Zurich release, [[document-intelligence-landing|Document Intelligence]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the [[docintel-nowassist-landing|Now Assist in Document Intelligence]] application. For more information, see [Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/docintel-nowassist-landing.md).
+**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the Now Assist in Document Intelligence application. For more information, see [Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/docintel-nowassist-landing.md).
 
 ## Before you begin
 
--   Ensure both instances have the same family release and the same version of Document Intelligence installed when exporting and importing use [[cases|cases]].
+-   Ensure both instances have the same family release and the same version of Document Intelligence installed when exporting and importing use cases.
 -   Role required: sn\_docintel.manager
 
 ## About this task
@@ -61,8 +61,3 @@ For more information, see [System update sets](https://raw.githubusercontent.com
 
 [Delete a document extraction use case]()
 
-## Related
-
-- [[document-intelligence-landing|Document Intelligence]]
-- [[docintel-nowassist-landing|Now Assist in Document Intelligence]]
-- [[cases|Cases]]

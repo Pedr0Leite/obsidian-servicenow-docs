@@ -12,7 +12,7 @@ breadcrumb: [Web Embeddables component properties, Web Embeddables reference, Re
 
 # Component properties for the Catalog browse
 
-Component property enables you to configure the behavior of the [[we-catalog-browse-comp|Catalog browse component]] on the third-party website.
+Component property enables you to configure the behavior of the Catalog browse component on the third-party website.
 
 <table id="table_csm_base_entities"><thead><tr><th>
 
@@ -96,11 +96,7 @@ Option to show or hide the **Recently requested by you** quick action.
 
 [Embed the Catalog browse component on the third-party website](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/we-embed-catalog-browse-on-third-party-web.md)
 
-[[we-event-handlers-catalog-browse|Event handlers in the Catalog browse component]]
+[Event handlers in the Catalog browse component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/we-event-handlers-catalog-browse.md)
 
 [Sample code for the Catalog browse component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/we-catalog-browse-samp-code.md)
 
-## Related
-
-- [[we-event-handlers-catalog-browse|Event handlers in the Catalog browse component]]
-- [[we-catalog-browse-comp|Catalog browse component]]

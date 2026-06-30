@@ -44,16 +44,12 @@ Create a consumer user to associate it with a new or existing contact.
 
 5.  On the form, fill in the fields.
 
-    For a description of the field values, see [[contact-form-eaai|Contact form for Email Interaction for CSM]].
+    For a description of the field values, see [Contact form for Email Interaction for CSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/contact-form-eaai.md).
 
 6.  Select **Submit**.
 
 
 ## What to do next
 
-[[associate-an-existing-contact-user-with-a-consumer-record|Associate an existing contact user with a consumer record]]
+[Associate an existing contact user with a consumer record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/associate-an-existing-contact-user-with-a-consumer-record.md)
 
-## Related
-
-- [[contact-form-eaai|Contact form for Email Interaction for CSM]]
-- [[associate-an-existing-contact-user-with-a-consumer-record|Associate an existing contact user with a consumer record]]

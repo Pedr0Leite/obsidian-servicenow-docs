@@ -22,7 +22,7 @@ Role required: password\_reset\_admin
 
 ## About this task
 
-\[Omitted image "header-footer-enduser-pages.png"\] Alt text: Example custom header and footer on the [[password-reset-landing-page|password reset]] pages
+\[Omitted image "header-footer-enduser-pages.png"\] Alt text: Example custom header and footer on the password reset pages
 
 ## Procedure
 
@@ -34,7 +34,7 @@ Role required: password\_reset\_admin
 
     \[Omitted image "header-footer-macro-DOC45847.png"\] Alt text: XML macro code for a custom footer
 
-3.  Select the **Active** [[check-box|check box]] and then click **Submit**.
+3.  Select the **Active** check box and then click **Submit**.
 
 4.  Navigate to **Password Reset** &gt; **Processes** and select the process to update.
 
@@ -64,7 +64,3 @@ Log in as an end user and request password reset.
 </table>
 **Parent Topic:**[Customizing Password Reset processes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/customizing-password-reset.md)
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]
-- [[check-box|Check box]]

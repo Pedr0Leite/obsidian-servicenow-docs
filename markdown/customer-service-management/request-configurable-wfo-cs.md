@@ -12,7 +12,7 @@ breadcrumb: [Optimize workforce operations, Extend capabilities, Configure, Cust
 
 # Activate Workforce Optimization for Customer Service
 
-[[configurable-wfo-cs|Workforce Optimization for Customer Service]] solution is highly modular, offering a wide range of capabilities such as Channel Management, Scheduling, Coaching, and Teams applications in CSM Manager Workspace. The Workforce [[optimization|Optimization]] for [[csm-workspaces-configure|CSM Configurable Workspace]] \(sn\_csm\_wfo\_workspa\) plugin activates all other dependent plugins to enable users to the Channel Management, Scheduling, Coaching, and Teams applications in Workforce Optimization for Customer Service.
+Workforce Optimization for Customer Service solution is highly modular, offering a wide range of capabilities such as Channel Management, Scheduling, Coaching, and Teams applications in CSM Manager Workspace. The Workforce Optimization for CSM Configurable Workspace \(sn\_csm\_wfo\_workspa\) plugin activates all other dependent plugins to enable users to the Channel Management, Scheduling, Coaching, and Teams applications in Workforce Optimization for Customer Service.
 
 ## Before you begin
 
@@ -35,11 +35,5 @@ Role required: admin
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
 
-**Parent Topic:**[[setup-configurable-wfo-cs|Optimize workforce operations]]
+**Parent Topic:**[Optimize workforce operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/setup-configurable-wfo-cs.md)
 
-## Related
-
-- [[setup-configurable-wfo-cs|Optimize workforce operations]]
-- [[configurable-wfo-cs|Workforce Optimization for Customer Service]]
-- [[optimization|Optimization]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

@@ -31,8 +31,8 @@ Bias is the ratio of total metric weight in the category and the sum of valid me
     -   String
     -   Date
     -   Date/Time
-    -   [[reference|Reference]]
-    -   [[attachment|Attachment]]
+    -   Reference
+    -   Attachment
     -   Ranking
 
 For example, consider the following scenario.
@@ -78,7 +78,7 @@ Number of metrics in the metric category
 </td><td>
 
 6-   4 of type=number
--   1 of type=[[yes-no|yes/no]]
+-   1 of type=yes/no
 -   1 of type=string \(invalid data type; value cannot be calculated\)
 
 </td></tr><tr><td>
@@ -199,11 +199,5 @@ For a risk assessment, the weighted value from metric results table is calculate
 
 `weighted_value = metric.weight * result.actual_value`
 
-**Parent Topic:**[[r_MetricResultFieldNames|Metric Result form]]
+**Parent Topic:**[Metric Result form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_MetricResultFieldNames.md)
 
-## Related
-
-- [[r_MetricResultFieldNames|Metric Result form]]
-- [[reference|Reference]]
-- [[attachment|Attachment]]
-- [[yes-no|Yes/No]]

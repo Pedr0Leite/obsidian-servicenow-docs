@@ -22,7 +22,7 @@ Role required: sn\_publications.author or sn\_publications.admin
 
 1.  Navigate to one of the following modules:
 
-    -   **[[c_TargetedCommunications|Targeted Communications]]** &gt; **Active Publications**
+    -   **Targeted Communications** &gt; **Active Publications**
     -   **Targeted Communications** &gt; **Draft Publications**
 2.  Select a publication in the **Author** stage.
 
@@ -32,6 +32,4 @@ Role required: sn\_publications.author or sn\_publications.admin
 
     Approvers can navigate to **Self-Service** &gt; **My Approvals** to see a list of review requests.
 
-## Related
 
-- [[c_TargetedCommunications|Targeted communications]]

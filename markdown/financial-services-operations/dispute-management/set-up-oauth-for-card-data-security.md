@@ -19,7 +19,7 @@ After you configure your tokenizer service, follow these steps to set up OAuth c
 
 ## Token Authentication in Card Data Security
 
-[[card-data-security|Card Data Security]] uses JSON Web Tokens \(JWT\) for authentication. It uses the following token types for authentication:
+Card Data Security uses JSON Web Tokens \(JWT\) for authentication. It uses the following token types for authentication:
 
 -   Regular tokens—used for authentication in backend connections.
 -   Context-aware tokens—required for user interactions in the UI, such as viewing documents in the data vault.
@@ -83,7 +83,7 @@ Required for context-aware authorization. Signs data tokens that are used to mak
 
 2.  [Create an X.509 Certificate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/create-an-x-509-certificate.md)
 
-    [[create-an-x-509-certificate|Create an X.509 certificate]] record by uploading a JKS file and configuring the certificate settings.
+    Create an X.509 certificate record by uploading a JKS file and configuring the certificate settings.
 
 3.  [Set up a JWT key](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/set-up-a-jwt-key.md)
 
@@ -109,7 +109,4 @@ Required for context-aware authorization. Signs data tokens that are used to mak
 
     Configure the Data Security Vault API REST message with the correct endpoint URL and OAuth authentication profile.
 
-## Related
 
-- [[card-data-security|Card Data Security]]
-- [[create-an-x-509-certificate|Create an X.509 Certificate]]

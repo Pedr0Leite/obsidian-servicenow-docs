@@ -49,8 +49,5 @@ Provide the ability to  view, filter, and close cases , and access cases con
 9.  Open a Store Task record from the **Store Tasks** related list to view task details.
 
 
-**Parent Topic:**[[track-monitor-store-plans|Track and monitor store plans]]
+**Parent Topic:**[Track and monitor store plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/track-monitor-store-plans.md)
 
-## Related
-
-- [[track-monitor-store-plans|Track and monitor store plans]]

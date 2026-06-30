@@ -14,7 +14,7 @@ breadcrumb: [Software contracts for the legacy Software Asset Management plugin,
 
 # Create software contracts for the legacy Software Asset Management plugin
 
-You can create binding agreements that enable buyers to legally use software that is tracked and managed through the legacy Software [[c_AssetManagement|Asset Management]] \(com.snc.software\_asset\_management\) plugin.
+You can create binding agreements that enable buyers to legally use software that is tracked and managed through the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Role required: contract\_manager
 
 4.  Add the software license to the contract.
 
-    Be sure to use the **Software License** option. The **License Bundle** and **Software License [[c_Contracts|Contracts]]** options are deprecated.
+    Be sure to use the **Software License** option. The **License Bundle** and **Software License Contracts** options are deprecated.
 
 
 **Parent Topic:**[Software contracts for the legacy Software Asset Management plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_SoftwareContracts.md)
@@ -40,7 +40,3 @@ Role required: contract\_manager
 
 [Contract Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/contract-management/c_ContractManagement.md)
 
-## Related
-
-- [[c_AssetManagement|Asset Management]]
-- [[c_Contracts|Contracts]]

@@ -14,13 +14,13 @@ breadcrumb: [Major incident workbench, Managing major incidents, Incident Manage
 
 # Access on-call escalation path from major incident workbench
 
-Access on-call roster and escalation details from [[major-incident-workbench|major incident workbench]] to reach out to a support group.
+Access on-call roster and escalation details from major incident workbench to reach out to a support group.
 
 ## Before you begin
 
 Role required: itil, sn\_incident\_read, sn\_incident\_write, major\_incident\_manager, communication\_manager, incident\_manager, or admin
 
-Activate the [[c_OnCallScheduling|On-Call Scheduling]] plugin \(com.snc.on\_call\_rotation\).
+Activate the On-Call Scheduling plugin \(com.snc.on\_call\_rotation\).
 
 ## Procedure
 
@@ -45,7 +45,3 @@ You can access the on-call escalation information.
 
 **Parent Topic:**[Major incident workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/major-incident-workbench.md)
 
-## Related
-
-- [[major-incident-workbench|Major incident workbench]]
-- [[c_OnCallScheduling|On-Call Scheduling]]

@@ -18,7 +18,7 @@ Quick start test for Firewall Audits and Reporting to validate configuration ite
 
 |Test|Description|
 |----|-----------|
-|Firewall Discovery|Firewall [[r-discovery|Discovery]] is performed on a firewall endpoint. Discovery brings the firewall manager, policies and devices, and persists them to the cmdb\_ci tables. This test validates the firewall manager, policies, and devices data in the cmdb\_ci tables and output and discovery errors during the discovery run.|
+|Firewall Discovery|Firewall Discovery is performed on a firewall endpoint. Discovery brings the firewall manager, policies and devices, and persists them to the cmdb\_ci tables. This test validates the firewall manager, policies, and devices data in the cmdb\_ci tables and output and discovery errors during the discovery run.|
 
 To learn more, see [Firewall Audits and Reporting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/firewall-audit-reporting.md).
 
@@ -29,6 +29,3 @@ To learn more, see [Firewall Audits and Reporting](https://raw.githubusercontent
 
 [Quick start tests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/quick-start-tests.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

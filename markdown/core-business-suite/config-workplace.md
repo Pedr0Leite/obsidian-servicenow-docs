@@ -22,7 +22,7 @@ Role required: admin, sn\_cbs.admin
 
 1.  Navigate to **Admin** &gt; **Admin Home**.
 
-2.  On the [[cbs-landing|Core Business Suite]] Foundation card, select **View product overview**.
+2.  On the Core Business Suite Foundation card, select **View product overview**.
 
 3.  In the configuration insights section, select **Configure**.
 
@@ -125,7 +125,7 @@ Role required: admin, sn\_cbs.admin
         4.  On the manage your work spaces page, select **Mark as configured**.
         **Note:** To add multiple spaces, select **+ New Space** and repeat the steps.
 
-    -   [[manage-bulk-upload-using-na|Bulk upload]]:
+    -   Bulk upload:
 
         1.  Select **Upload spaces**.
         2.  Download the space template.
@@ -136,7 +136,7 @@ Role required: admin, sn\_cbs.admin
         7.  On the manage your work spaces page, select **Mark as configured**.
         **Note:** Verify that all required fields are completed and the file size doesn’t exceed 50 MB.
 
-    -   [[manage-bulk-edit-using-na|Bulk edit]]:
+    -   Bulk edit:
         1.  From the more options menu \(three dots\), select **Bulk edit spaces**.
         2.  Download the file and update the space details.
         3.  Save the file in .xlsx or .xls format.
@@ -151,11 +151,5 @@ Role required: admin, sn\_cbs.admin
     -   To create Portal or Workspace notification, see [Trigger conditions form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/notif-trigger-form.md).
     -   After configuring notifications, select **Mark as configured**.
 
-**Parent Topic:**[[config-cbs-using-guided-setup|Configure Core Business Suite using guided setup]]
+**Parent Topic:**[Configure Core Business Suite using guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/config-cbs-using-guided-setup.md)
 
-## Related
-
-- [[config-cbs-using-guided-setup|Configure Core Business Suite using guided setup]]
-- [[cbs-landing|Core Business Suite]]
-- [[manage-bulk-upload-using-na|Bulk upload]]
-- [[manage-bulk-edit-using-na|Bulk edit]]

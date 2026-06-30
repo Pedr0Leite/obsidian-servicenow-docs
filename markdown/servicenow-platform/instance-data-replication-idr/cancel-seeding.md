@@ -22,11 +22,11 @@ Role required: admin
 
 ## About this task
 
-Once set, you can't disable [[scheduled-replication|scheduled replication]] on a producer replication set; the option becomes read-only. You can either deactivate the set or delete and recreate it.
+Once set, you can't disable scheduled replication on a producer replication set; the option becomes read-only. You can either deactivate the set or delete and recreate it.
 
 ## Procedure
 
-1.  Navigate to **[[instance-data-replication|Instance Data Replication]]** &gt; **Producer Replication Sets**.
+1.  Navigate to **Instance Data Replication** &gt; **Producer Replication Sets**.
 
 2.  Select the producer replication set for which you want to stop scheduled replication.
 
@@ -45,7 +45,3 @@ If you intend to resume scheduled replication, you can sync records that weren't
 
 **Parent Topic:**[Set up scheduled replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/set-up-scheduled-replication-idr.md)
 
-## Related
-
-- [[scheduled-replication|Scheduled replication]]
-- [[instance-data-replication|Instance Data Replication]]

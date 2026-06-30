@@ -14,7 +14,7 @@ breadcrumb: [Upgrading legacy sets, Configure, Instance Data Replication, Manage
 
 # Upgrade legacy replication sets in Instance Data Replication
 
-Replicate high volumes of data faster and more reliably by upgrading your [[instance-data-replication|Instance Data Replication]] \(IDR\) legacy producer and consumer replication sets to V2.
+Replicate high volumes of data faster and more reliably by upgrading your Instance Data Replication \(IDR\) legacy producer and consumer replication sets to V2.
 
 ## Before you begin
 
@@ -60,7 +60,7 @@ Role required: admin
 
     3.  Select the new V2 producer replication set.
 
-    4.  Select the [[check-box|check box]] next to the consumer subscription in the Consumer Subscriptions related list.
+    4.  Select the check box next to the consumer subscription in the Consumer Subscriptions related list.
 
     5.  Select the **Actions on selected rows** list.
 
@@ -68,7 +68,7 @@ Role required: admin
 
     The V2 consumer replication set is created, and the producer instance sends metadata replication entries to the consumer instance. After all the entries are received, the **Start dry run** button appears on the Consumer Replication Set form.
 
-8.  Confirm that the consumer instance can [[c_Connect|connect]] to the [[hermes-messaging-service|Hermes Messaging Service]] and that replication succeeds by selecting **Start dry run**.
+8.  Confirm that the consumer instance can connect to the Hermes Messaging Service and that replication succeeds by selecting **Start dry run**.
 
     Data is consumed from the Kafka topic by the consumer instance but not persisted in the database yet.
 
@@ -105,9 +105,3 @@ The legacy producer and consumer replication sets are upgraded to V2 and the upg
 
 **Parent Topic:**[Upgrading legacy replication sets to V2 in Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/upgrading-legacy-replication-sets-v2.md)
 
-## Related
-
-- [[instance-data-replication|Instance Data Replication]]
-- [[check-box|Check box]]
-- [[c_Connect|Connect]]
-- [[hermes-messaging-service|Hermes Messaging Service]]

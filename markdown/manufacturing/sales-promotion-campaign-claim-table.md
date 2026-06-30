@@ -12,7 +12,7 @@ breadcrumb: [Sales promotion campaign data model, Data model, Reference, Manufac
 
 # Sales Promotion Campaign Claim tables
 
-This section explains the [[mco-sales-promotion|sales promotion]] campaign claims tables in [[manufacturing-overview|Manufacturing Commercial Operations]].
+This section explains the sales promotion campaign claims tables in Manufacturing Commercial Operations.
 
 ## Sales Promotion plugin
 
@@ -143,10 +143,5 @@ Stores the case line item records.
 </td></tr></tbody>
 </table>To learn more about the Case and Case Line, see .
 
-**Parent Topic:**[[sales-promotion-campaign-claims|Sales promotion campaign data model]]
+**Parent Topic:**[Sales promotion campaign data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/sales-promotion-campaign-claims.md)
 
-## Related
-
-- [[sales-promotion-campaign-claims|Sales promotion campaign data model]]
-- [[mco-sales-promotion|Sales promotion]]
-- [[manufacturing-overview|Manufacturing Commercial Operations]]

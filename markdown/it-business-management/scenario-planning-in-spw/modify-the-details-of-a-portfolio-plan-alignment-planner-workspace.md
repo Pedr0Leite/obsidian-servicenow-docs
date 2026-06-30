@@ -15,7 +15,7 @@ breadcrumb: [Manage portfolio plans, Portfolio Planning in Strategic Planning Wo
 
 # Modify a portfolio plan
 
-Update the details of a portfolio plan in [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace or delete it, to reflect the changes in your planning priorities.
+Update the details of a portfolio plan in Strategic Planning Workspace or delete it, to reflect the changes in your planning priorities.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ Role required: sn\_align\_core.apw\_user or business\_stakeholder
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]]**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Portfolio Planning**.
 
 2.  From the list of portfolio plans, select one.
 
@@ -81,7 +81,3 @@ Action
 
 [Show or hide the features for a portfolio plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/show-or-hide-the-features-for-your-portfolio-plan-spw.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

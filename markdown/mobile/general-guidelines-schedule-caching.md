@@ -63,8 +63,5 @@ When scheduling offline caches keep these general guidelines in mind for usabili
     Use this property to balance data currency with bandwidth, where shorter intervals provide more current data and longer intervals reduce network usage.
 
 
-**Parent Topic:**[[scheduled-offline-caching|Configure scheduled offline caching]]
+**Parent Topic:**[Configure scheduled offline caching](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/scheduled-offline-caching.md)
 
-## Related
-
-- [[scheduled-offline-caching|Configure scheduled offline caching]]

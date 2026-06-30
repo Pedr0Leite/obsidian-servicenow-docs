@@ -14,7 +14,7 @@ breadcrumb: [Providing your workplace data, Workplace Core, Safe Workplace, Heal
 
 # Import your workspaces data from an Excel spreadsheet
 
-Import your workspaces data from an Excel spreadsheet into the [[workplace-safety-mgmt-hr|Workplace Core]] application.
+Import your workspaces data from an Excel spreadsheet into the Workplace Core application.
 
 ## Before you begin
 
@@ -58,6 +58,3 @@ Role required: sn\_wsd\_core.admin
 
 [Create a transform map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/t_CreateATransformMap.md)
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]

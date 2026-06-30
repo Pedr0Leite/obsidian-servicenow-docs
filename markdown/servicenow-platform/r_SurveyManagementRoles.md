@@ -16,13 +16,13 @@ The Survey application uses the following roles.
 
 To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/managing-user-subscriptions-v2.md) and contact your account representative.
 
-No role is required to take assigned [[c_SurveyQuestionnairesForUsers|survey questionnaires]].
+No role is required to take assigned survey questionnaires.
 
-**Parent Topic:**[[survey-reference|Surveys reference]]
+**Parent Topic:**[Surveys reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/survey-reference.md)
 
 ## Survey administrator \[survey\_admin\]
 
-Create and administer [[r_SurveyManagementLandingPage|surveys]]. Survey administrators know what types of surveys are necessary, when to send a survey, and to whom. Survey administrators can use all modules in the Survey application menu.
+Create and administer surveys. Survey administrators know what types of surveys are necessary, when to send a survey, and to whom. Survey administrators can use all modules in the Survey application menu.
 
 ### Contains Roles
 
@@ -63,7 +63,7 @@ None.
 
 ## Survey creator \[survey\_creator\]
 
-Create a survey and assign it to the user who can take the survey and submit it. A survey creator can also create [[r_Assessments|assessments]].
+Create a survey and assign it to the user who can take the survey and submit it. A survey creator can also create assessments.
 
 ### Contains Roles
 
@@ -81,9 +81,3 @@ None.
 
 None.
 
-## Related
-
-- [[survey-reference|Surveys reference]]
-- [[c_SurveyQuestionnairesForUsers|Survey questionnaires]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[r_Assessments|Assessments]]

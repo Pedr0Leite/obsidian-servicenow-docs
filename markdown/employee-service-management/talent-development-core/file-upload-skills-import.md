@@ -14,7 +14,7 @@ breadcrumb: [Skills import, Skills Workspace, Exploring Skills Foundation, Skill
 
 # Import skills through file upload
 
-Import your industry specific skills data to your [[skills-intelligence|Skills Foundation]] application using a predefined skills import template so you can import your data in the required format.
+Import your industry specific skills data to your Skills Foundation application using a predefined skills import template so you can import your data in the required format.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_skills\_int.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[skills-intelligence-workspace|Skills Workspace]]**.
+1.  Navigate to **All** &gt; **Skills Workspace**.
 
 2.  Select the Lists icon \(\[Omitted image "icon-list.png"\] Alt text: Lists icon\).
 
@@ -49,7 +49,4 @@ Role required: sn\_skills\_int.admin
 
     **Note:** After the file is attached, you’ll have the options to download, rename the file, or delete the attached file.
 
-## Related
 
-- [[skills-intelligence|Skills Foundation]]
-- [[skills-intelligence-workspace|Skills Workspace]]

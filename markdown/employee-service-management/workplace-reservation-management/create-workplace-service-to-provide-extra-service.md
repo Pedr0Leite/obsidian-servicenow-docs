@@ -14,7 +14,7 @@ breadcrumb: [Configure, Workplace Reservation Management, Workplace Service Deli
 
 # Create a workplace service to provide an extra service for a reservation
 
-[[create-workplace-service|Create a workplace service]] and provide it as an extra service to employees while making a reservation. Use the [[workplace-case-mgmt-feat|Workplace Case Management]] application to create the workplace service.
+Create a workplace service and provide it as an extra service to employees while making a reservation. Use the Workplace Case Management application to create the workplace service.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ Role required: sn\_wsd\_case.admin or sn\_wsd\_case.manager
 
 ## About this task
 
-To understand [[workplace-services|workplace services]] and the workplace service-related options, refer to [Workplace Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/workplace-services.md).
+To understand workplace services and the workplace service-related options, refer to [Workplace Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/workplace-services.md).
 
 ## Procedure
 
@@ -62,7 +62,7 @@ When an employee requests an extra service, a workplace case is created in the W
 
         In the **Reservation view**, you can view details such as the reservation and comments added by the employee while requesting an extra service.
 
--   You can also view the extra service cases and tasks in the [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] application.
+-   You can also view the extra service cases and tasks in the Workplace Reservation Management application.
     -   To view the cases, navigate to **Workplace Reservation Management** &gt; **Reservation Overview** &gt; **Extra Service Cases**.
     -   To view the tasks created for the cases, navigate to **Workplace Reservation Management** &gt; **Reservation Overview** &gt; **Extra Service Tasks**.
 
@@ -111,9 +111,3 @@ When an employee requests an extra service, a workplace case is created in the W
 
 [Configure reservation multi-day settings in Reservable Module]()
 
-## Related
-
-- [[create-workplace-service|Create a Workplace service]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[workplace-services|Workplace Services]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]

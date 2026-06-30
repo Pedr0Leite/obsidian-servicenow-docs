@@ -26,11 +26,11 @@ Generate the Amazon Signature based data needed to authenticate to a web service
 
 ## About this task
 
-Use a connection and credential alias and Amazon Signature Version 4 based algorithm for [[c_Authentication|authentication]].
+Use a connection and credential alias and Amazon Signature Version 4 based algorithm for authentication.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Credentials &amp; Connections** &gt; **[[authentication-algorithms|Authentication Algorithms]]**, and click **New**.
+1.  Navigate to **All** &gt; **Credentials &amp; Connections** &gt; **Authentication Algorithms**, and click **New**.
 
 2.  On the form, fill in the fields.
 
@@ -58,7 +58,7 @@ Algorithm
 
 </td><td>
 
-Outbound [[c_requestAPI|request]] type. Select **Amazon Signature Version 4**.
+Outbound request type. Select **Amazon Signature Version 4**.
 
 </td></tr><tr><td>
 
@@ -149,8 +149,3 @@ You can test the action, the associated regions are displayed. The response body
 
 Amazon V4 is defined with standard set of algorithm that supports authentication mechanism. This algorithm when used adds the signature as authorization header for authentication \(HTTP request\) using REST step.
 
-## Related
-
-- [[c_Authentication|Authentication]]
-- [[authentication-algorithms|Authentication Algorithms]]
-- [[c_requestAPI|request]]

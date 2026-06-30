@@ -16,13 +16,13 @@ breadcrumb: [Running discoveries in your network, Using Discovery, Discovery, IT
 
 Use the Discovery Configuration Console to manage what kind of configuration items \(CIs\) and CI information you want to discover.
 
-By default, [[r-discovery|Discovery]] finds all the information on your network that is specified in probes and patterns. Use the controls in this console to select the data Discovery adds to the Configuration Management Database \(CMDB\) that your organization needs. You can control these aspects of Discovery:
+By default, Discovery finds all the information on your network that is specified in probes and patterns. Use the controls in this console to select the data Discovery adds to the Configuration Management Database \(CMDB\) that your organization needs. You can control these aspects of Discovery:
 
 -   The discovery of entire CI types, such as Windows servers.
 -   The discovery of specific CI details, such as OS information on Windows servers.
 -   The discovery of ARP data for Networks, UNIX, and Windows devices.
 -   The discovery of software packages containing keyword terms that you add, such as Hotfix or Security Update.
--   [[file-based-discovery|File-based Discovery]] of software on UNIX and Windows by particular extension or folder, such as .cert or .ext.
+-   File-based Discovery of software on UNIX and Windows by particular extension or folder, such as .cert or .ext.
 
 **Note:** Discovery returns all data from the target to the instance before applying console settings. The instance ignores any excluded data when it updates the CMDB.
 
@@ -45,7 +45,7 @@ The console is divided into these sections. Use the toggle buttons to enable var
 
 ## Device Discovery
 
-Disabling the discovery of device data at the top level disables the related [[r_PortProbes|port probes]] and pattern libraries. For example, blocking Network Devices disables the SNMP port probe. Blocking devices at the second level of the hierarchy has the following effects:
+Disabling the discovery of device data at the top level disables the related port probes and pattern libraries. For example, blocking Network Devices disables the SNMP port probe. Blocking devices at the second level of the hierarchy has the following effects:
 
 -   Device class categories disable classifiers.
 -   Device info categories disable probes and pattern libraries.
@@ -54,7 +54,7 @@ You can enable or disable discover ARP data. This option is turned off by defaul
 
 Potential impacts include the following:
 
--   Without ARP data, the network path might not be explored if you're [[using-service-mapping|using Service Mapping]] with L2 or L3 Discovery.
+-   Without ARP data, the network path might not be explored if you're using Service Mapping with L2 or L3 Discovery.
 -   After upgrading and rerunning Discovery, ARP data does not populate for existing customers. Old data is auto-flushed per the deletion strategy of the out-of-the box \(OOB\) behavior. This is a one-time activity unless you change the OOB configuration. Therefore, you must run your Discovery schedule based on the device volume.
 -   If you have turned off the Network Device Exploration for network devices, you should also keep ARP turned off to retain the old behavior before upgrading.
 
@@ -384,9 +384,3 @@ Role required: system\_admin
 
 The Basic Auth credentials for use with the server instance are created.
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[file-based-discovery|File-based Discovery]]
-- [[r_PortProbes|Port probes]]
-- [[using-service-mapping|Using Service Mapping]]

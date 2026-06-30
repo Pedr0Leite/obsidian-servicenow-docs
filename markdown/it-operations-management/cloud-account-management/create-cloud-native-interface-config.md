@@ -14,7 +14,7 @@ breadcrumb: [Creating configurations, Configuring Cloud Account Management, Clou
 
 # Create a cloud native interface account configuration
 
-Configure [[cloud-accounts|cloud accounts]] using the native interface of supported cloud providers like AWS AWS or Azure to enable seamless provisioning and integration.
+Configure cloud accounts using the native interface of supported cloud providers like AWS AWS or Azure to enable seamless provisioning and integration.
 
 ## Before you begin
 
@@ -37,6 +37,3 @@ Role required: sn\_itom\_cam.cw\_admin
 
 [Review default Cloud Account Management certification policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/policy-setup.md)
 
-## Related
-
-- [[cloud-accounts|Cloud accounts]]

@@ -14,7 +14,7 @@ breadcrumb: [Talent Development Core application reference, Talent Development C
 
 # Talent Activity Template Recommendation form
 
-Administrators create [[activity-lxp|activity]] template recommendation templates that employees and managers use to create career growth plans.
+Administrators create activity template recommendation templates that employees and managers use to create career growth plans.
 
 <table id="table_yfs_stj_twb"><thead><tr><th>
 
@@ -86,6 +86,3 @@ Select the criteria that must meet to have access to this talking point.
 </td></tr></tbody>
 </table>**Parent Topic:**[Talent Development Core application reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-reference.md)
 
-## Related
-
-- [[activity-lxp|Activity]]

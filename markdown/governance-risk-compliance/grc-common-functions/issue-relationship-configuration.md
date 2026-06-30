@@ -18,7 +18,7 @@ If an issue isn't reusable and you know that multiple similar issues were create
 
 You can avoid duplicating issues by reusing the same issue. All you have to do is add it to different objects. When an issue is linked to a control or risk, it’s automatically linked to the entity, control objective, or risk statement of that control or risk.
 
-By using the **Issue Relationship Configuration** tab under the GRC [[manage-admin-portal|Administration module]], you can add an issue to different objects.
+By using the **Issue Relationship Configuration** tab under the GRC Administration module, you can add an issue to different objects.
 
 **Note:** This module is visible only if you have the workspaces installed.
 
@@ -29,6 +29,3 @@ Enable or disable an issue relationship configuration record so that you can aut
 
 **Parent Topic:**[Issues in the Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/issues-in-workspace.md)
 
-## Related
-
-- [[manage-admin-portal|Administration module]]

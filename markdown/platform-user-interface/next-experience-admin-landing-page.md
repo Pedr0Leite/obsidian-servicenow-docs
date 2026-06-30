@@ -19,23 +19,18 @@ As an admin, a variant of the landing page for admins displays for you. Admin la
 -   Number of installed apps that have updated versions available
 -   Number of entitled but not activated or not installed apps
 -   Real-time security notifications
--   [[lists-configurable-workspace|Lists]] and visualizations of your assignments
+-   Lists and visualizations of your assignments
 -   More resources to learn about features
 
 \[Omitted image "Admin\_Landing\_Page.png"\] Alt text: Default admin landing page.
 
 ## New Customers
 
-New customers launching on San Diego or customers that have performed a zBoot on their instance will have the [[next-experience-landing-page|Next Experience UI]] automatically enabled on their instance. These customers also have the Default landing page that ships with the Next Experience UI automatically enabled.
+New customers launching on San Diego or customers that have performed a zBoot on their instance will have the Next Experience UI automatically enabled on their instance. These customers also have the Default landing page that ships with the Next Experience UI automatically enabled.
 
 ## Existing Customers
 
 Existing customers upgrading from a previous release will not see the default landing page upon activating the Next Experience UI. Existing customers will continue to see their existing start page \(Homepage or Dashboard\). By utilizing existing start pages, this provides administrators the ability to turn on the Next Experience UI and allow for users to begin using the new user interface, and provides administrators the time to create organization specific landing pages. Existing customers can use the Default Landing Page by modifying the **glide.login.home** system property, though it is recommended to perform testing on the Default Landing Page in a sub-product instance to verify it meets current user needs.
 
-**Parent Topic:**[[next-experience-landing-pages|Next Experience landing pages]]
+**Parent Topic:**[Next Experience landing pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-landing-pages.md)
 
-## Related
-
-- [[next-experience-landing-pages|Next Experience landing pages]]
-- [[lists-configurable-workspace|Lists]]
-- [[next-experience-landing-page|Next Experience UI]]

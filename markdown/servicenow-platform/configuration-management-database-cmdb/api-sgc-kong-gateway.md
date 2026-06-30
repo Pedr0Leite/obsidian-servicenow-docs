@@ -14,7 +14,7 @@ breadcrumb: [API Service Graph Connectors, Integrating third-party data into CMD
 
 # API Service Graph Connector for Kong Gateway
 
-Use the ServiceNow® API Service Graph Connector for Kong Gateway to import API details from a Kong Gateway application into the [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]].
+Use the ServiceNow® API Service Graph Connector for Kong Gateway to import API details from a Kong Gateway application into the Configuration Management Database \(CMDB\).
 
 ## Request apps on the Store
 
@@ -24,7 +24,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 Import data into a normalized data model for consistency across other technologies.
 
-The [[api-insights|API Insights]] workspace provides a centralized interface where you can analyze and interact with API data, without needing direct access to Kong Gateway, enhancing visibility, governance, and collaboration across the API estate. To learn more, see [API Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights.md).
+The API Insights workspace provides a centralized interface where you can analyze and interact with API data, without needing direct access to Kong Gateway, enhancing visibility, governance, and collaboration across the API estate. To learn more, see [API Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights.md).
 
 ## Supported ServiceNow versions
 
@@ -42,13 +42,13 @@ You can use the API Service Graph Connector for Kong Gateway to:
 
 ## Configuring a connection for the connector
 
-You can configure a connection for the connector by using the [[sgcc-landing|SGC Central]] view in the CMDB Workspace. The SGC Central view enables you to discover and install connectors, and then effectively manage the full life cycle of creating, editing, monitoring, and debugging connections. To configure the connector using SGC Central, see [Configure API Service Graph Connector for Kong Gateway using SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/sgcc-configure-kong-gateway.md).
+You can configure a connection for the connector by using the SGC Central view in the CMDB Workspace. The SGC Central view enables you to discover and install connectors, and then effectively manage the full life cycle of creating, editing, monitoring, and debugging connections. To configure the connector using SGC Central, see [Configure API Service Graph Connector for Kong Gateway using SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/sgcc-configure-kong-gateway.md).
 
 **Note:** You can also include a Prometheus connection and map it to the Kong Gateway connection during setup for importing Kong Gateway metrics data using the Prometheus plugin. To learn more about the Prometheus plugin, see [Prometheus](https://developer.konghq.com/plugins/prometheus) on the Kong Developer documentation site.
 
 ## Data mapping
 
-Data from the Kong Gateway data sources is mapped and transformed into the CMDB Configuration Item \(CI\) class definitions using the Robust Transform Engine \(RTE\). Data is inserted into the CMDB using the [[ire|Identification and Reconciliation Engine \(IRE\)]].
+Data from the Kong Gateway data sources is mapped and transformed into the CMDB Configuration Item \(CI\) class definitions using the Robust Transform Engine \(RTE\). Data is inserted into the CMDB using the Identification and Reconciliation Engine \(IRE\).
 
 When you complete setting up the connection, you can configure the integration to periodically pull data from a Kong Gateway application.
 
@@ -167,12 +167,5 @@ SG-Kong Plugins \[sn\_kong\_integ\_sg\_kong\_plugins\]
 </td></tr></tbody>
 </table>For more information on where data is saved when pulling data from a Kong Gateway application, see [Target tables for storing API Service Graph Connector for Kong Gateway data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/api-sgc-kong-gateway-tables.md).
 
-You can use the [[integrationhub-etl|IntegrationHub ETL]] app to view the data maps. See [IntegrationHub ETL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/integration-hub-etl/integrationhub-etl.md) for more information.
+You can use the IntegrationHub ETL app to view the data maps. See [IntegrationHub ETL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/integration-hub-etl/integrationhub-etl.md) for more information.
 
-## Related
-
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[api-insights|API Insights]]
-- [[sgcc-landing|SGC Central]]
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]
-- [[integrationhub-etl|IntegrationHub ETL]]

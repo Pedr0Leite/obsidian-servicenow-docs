@@ -14,7 +14,7 @@ breadcrumb: [Knowledge article creation from an incident, Using Knowledge Manage
 
 # Add a property to enable creating knowledge article from incidents
 
-Add a property, which is required to allow users to [[create-knowledge-article|create a knowledge article]] from an incident.
+Add a property, which is required to allow users to create a knowledge article from an incident.
 
 ## Before you begin
 
@@ -40,6 +40,3 @@ Role required: admin
 
 **Parent Topic:**[Knowledge article creation from an incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/article-from-incident.md)
 
-## Related
-
-- [[create-knowledge-article|Create a knowledge article]]

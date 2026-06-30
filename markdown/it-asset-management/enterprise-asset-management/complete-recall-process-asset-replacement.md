@@ -24,7 +24,7 @@ Role required: sn\_eam.enterprise\_asset\_manager or enterprise\_asset\_technici
 
 ## Procedure
 
-1.  From the [[using-eam-workspace|Enterprise Asset Workspace]], open the [[inventory-view-am|Inventory view]].
+1.  From the Enterprise Asset Workspace, open the Inventory view.
 
 2.  Select the **Recall orders** tab.
 
@@ -150,7 +150,7 @@ Role required: sn\_eam.enterprise\_asset\_manager or enterprise\_asset\_technici
 
 ## Result
 
-The recalled asset record moves to the Completed stage. The [[enterprise-asset-management|Enterprise Asset Management]] application then automatically retires the recalled enterprise asset, triggering the state and substate fields to change to Retired and Vendor credit in the corresponding asset record.
+The recalled asset record moves to the Completed stage. The Enterprise Asset Management application then automatically retires the recalled enterprise asset, triggering the state and substate fields to change to Retired and Vendor credit in the corresponding asset record.
 
 ## What to do next
 
@@ -158,8 +158,3 @@ Complete the recall process for all remaining enterprise assets that are include
 
 **Parent Topic:**[Completing a recall order for your enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/completing-recall-order-enterprise-assets.md)
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[inventory-view-am|Inventory view]]
-- [[enterprise-asset-management|Enterprise Asset Management]]

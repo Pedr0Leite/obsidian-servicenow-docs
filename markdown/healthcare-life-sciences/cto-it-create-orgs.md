@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[healthcare-operations-overview|Healthcare Operations]]** &gt; **Healthcare Organizations** &gt; **Hospital Departments**.
+1.  Navigate to **All** &gt; **Healthcare Operations** &gt; **Healthcare Organizations** &gt; **Hospital Departments**.
 
 2.  Select **New**.
 
@@ -37,6 +37,3 @@ Role required: admin
 
 Assign members to your newly created healthcare IT support organization.
 
-## Related
-
-- [[healthcare-operations-overview|Healthcare Operations]]

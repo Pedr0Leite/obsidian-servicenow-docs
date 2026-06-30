@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Strategic Planning, Reference, Portfolio
 
 # Target Source form
 
-Use the [[target-source-form|Target Source form]] to create and configure a source for your targets so that the actual value of the target is auto-updated.
+Use the Target Source form to create and configure a source for your targets so that the actual value of the target is auto-updated.
 
 <table id="table_demand_benefit_plan_form"><thead><tr><th>
 
@@ -111,6 +111,3 @@ Custom script to fetch the required data from any ServiceNow AI Platform table f
 </td></tr></tbody>
 </table>**Parent Topic:**[Form field information for Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/form-field-information-for-strategic-planning.md)
 
-## Related
-
-- [[target-source-form|Target Source form]]

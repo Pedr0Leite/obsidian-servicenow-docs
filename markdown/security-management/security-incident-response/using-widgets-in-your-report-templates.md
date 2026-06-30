@@ -22,7 +22,7 @@ Role required: sn\_msi.workspace\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[major-security-incident-management-landing-page|Major Security Incident Management]]** &gt; **MSI Administration** &gt; **Status Report Setup**.
+1.  Navigate to **All** &gt; **Major Security Incident Management** &gt; **MSI Administration** &gt; **Status Report Setup**.
 
     The MSI Status Report Setup page displays.
 
@@ -36,7 +36,7 @@ Role required: sn\_msi.workspace\_manager
     |-----------|-----------|
     |**Active Team**|Displays the list of active teams involved in resolving the MSI.|
     |**Affected Assets**|Displays the list of affected assets.|
-    |**Affected [[threat-intelligence-locations|Locations]]**|Displays the list of affected locations.|
+    |**Affected Locations**|Displays the list of affected locations.|
     |**Affected Users**|Displays the list of affected users.|
     |**Collaboration Pie Graph**|Includes the collaboration activities in the Pie graph.|
     |**Collaboration Trend Graph**|Displays the collaboration activities as a trend graph.|
@@ -59,7 +59,3 @@ Role required: sn\_msi.workspace\_manager
 
 [Create a Visualization Type Element](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-visualization-type-element.md)
 
-## Related
-
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]
-- [[threat-intelligence-locations|Locations]]

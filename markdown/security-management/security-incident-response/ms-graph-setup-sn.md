@@ -34,7 +34,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Verify that you have assigned the required ServiceNow AI Platform® and [[sir-landing-page|Security Incident Response]] roles.
+Verify that you have assigned the required ServiceNow AI Platform® and Security Incident Response roles.
 
 </td><td>
 
@@ -66,7 +66,7 @@ Verify that the ServiceNow core applications that are required to support the in
 
 </td><td>
 
-Verify that the following [[security-operations-landing-page|Security Operations]] applications are installed and activated from the ServiceNow Store. If not installed, install and activate one application at a time in the following order to ensure a smooth installation.
+Verify that the following Security Operations applications are installed and activated from the ServiceNow Store. If not installed, install and activate one application at a time in the following order to ensure a smooth installation.
 
  1.  Security Incident Response
 2.  Event and Alert Ingestion for Security Operations: This application requires:
@@ -76,14 +76,7 @@ Verify that the following [[security-operations-landing-page|Security Operations
 **Note:** The Integration Hub components are installed along with the Event and Alert Ingestion plugin. If these are not installed, contact Customer Support for assistance.
 
 
- For more information about installing the Security Operations core applications, see [[entitle-secops-product|Get entitlement for a Security Operations product or application]] and [[activate-entitled-store-app|Activate a ServiceNow Store application]].
+ For more information about installing the Security Operations core applications, see [Get entitlement for a Security Operations product or application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/entitle-secops-product.md) and [Activate a ServiceNow Store application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/activate-entitled-store-app.md).
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[entitle-secops-product|Get entitlement for a Security Operations product or application]]
-- [[activate-entitled-store-app|Activate a ServiceNow Store application]]
-- [[sir-landing-page|Security Incident Response]]
-- [[security-operations-landing-page|Security Operations]]

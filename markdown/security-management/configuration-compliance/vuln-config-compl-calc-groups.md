@@ -14,7 +14,7 @@ breadcrumb: [Configure, Configuration Compliance, Unified Security Exposure Mana
 
 # Configuration Compliance calculator groups
 
-[[vr-config-compliance-landing|Configuration Compliance]] calculators are used to update record values when pre-defined conditions are met. The calculators are grouped based on the criteria used to determine how the records are updated.
+Configuration Compliance calculators are used to update record values when pre-defined conditions are met. The calculators are grouped based on the criteria used to determine how the records are updated.
 
 **Note:** Starting with v14.9 of Configuration Compliance, the following terms have been renamed:
 
@@ -51,7 +51,7 @@ For more information, review the following key terms for Configuration Complianc
 
 -   **Remediation task**
 
-    Test results are grouped together at the time of data import based on the pre-defined remediation task rules. These remediation tasks are similar to vulnerability groups in [[vuln-landing-page|Vulnerability Response]]. Remediation Tasks organize test results into groups for bulk analysis and represent a set of items to remediate.
+    Test results are grouped together at the time of data import based on the pre-defined remediation task rules. These remediation tasks are similar to vulnerability groups in Vulnerability Response. Remediation Tasks organize test results into groups for bulk analysis and represent a set of items to remediate.
 
 -   **Risk score in a test result**
 
@@ -94,10 +94,5 @@ For more information, review the following key terms for Configuration Complianc
 
 Scores are calculated whenever the risk score changes or when test results are added or removed from a remediation task.
 
-**Note:** To work properly, this script requires the Service [[mapping-logrhythm|Mapping]] plugin. Service Mapping is available as a separate subscription and requires activation by ServiceNow personnel.
+**Note:** To work properly, this script requires the Service Mapping plugin. Service Mapping is available as a separate subscription and requires activation by ServiceNow personnel.
 
-## Related
-
-- [[vr-config-compliance-landing|Configuration Compliance]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[mapping-logrhythm|Mapping]]

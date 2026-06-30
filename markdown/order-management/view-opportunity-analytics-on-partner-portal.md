@@ -33,28 +33,20 @@ Role required: sn\_prm\_opptym.oppty.parnter\_ui
     |Opportunities past estimated closed date|The number of opportunities that are past the estimated closed date.|
     |Active opportunities|Number of active opportunities that are not yet closed or lost.|
     |Stalled opportunities|Opportunities with no significant activity or progress for a defined period, indicating potential risk.|
-    |Opportunities created from deal registrations|Number of opportunities that are converted from a [[deal-registration-management|deal registration]].|
+    |Opportunities created from deal registrations|Number of opportunities that are converted from a deal registration.|
     |5 highest-value active opportunities|The top 5 opportunities filtered by highest amount value.|
 
-    To learn more about the [[fields|fields]] on the Opportunity list, see [[opportunity-management-details-tab|Add and view the details of an opportunity]].
+    To learn more about the fields on the Opportunity list, see [Add and view the details of an opportunity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management-details-tab.md).
 
 4.  View all the opportunities that the user has access to from the **All opportunities** tab.
 
 
-**Parent Topic:**[[using-partner-relationship-management|Using Partner Relationship Management]]
+**Parent Topic:**[Using Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-partner-relationship-management.md)
 
 **Related topics**  
 
 
-[[configure-partner-relationship-management|Configure Partner Relationship Management]]
+[Configure Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-partner-relationship-management.md)
 
-[[partner-relationship-management|Partner Relationship Management]]
+[Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/partner-relationship-management.md)
 
-## Related
-
-- [[opportunity-management-details-tab|Add and view the details of an opportunity]]
-- [[using-partner-relationship-management|Using Partner Relationship Management]]
-- [[configure-partner-relationship-management|Configure Partner Relationship Management]]
-- [[partner-relationship-management|Partner Relationship Management]]
-- [[deal-registration-management|Deal Registration]]
-- [[fields|Fields]]

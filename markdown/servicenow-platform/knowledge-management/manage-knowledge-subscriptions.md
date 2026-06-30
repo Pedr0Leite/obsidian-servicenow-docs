@@ -22,7 +22,7 @@ Role required: knowledge
 
 ## About this task
 
-Users can manage knowledge subscriptions from the Knowledge application or from the [[knowledge-management|Knowledge Management]] Service Portal.
+Users can manage knowledge subscriptions from the Knowledge application or from the Knowledge Management Service Portal.
 
 ## Procedure
 
@@ -57,14 +57,10 @@ Click the user name in the portal header and then click **Notification Settings*
 
 3.  Click **Knowledge Base** or **Knowledge Articles** to see a list of current subscriptions.
 
-4.  To [[unsubscribe-from-knowledge-base|unsubscribe from a knowledge base]] or knowledge article, click **Subscribed**.
+4.  To unsubscribe from a knowledge base or knowledge article, click **Subscribed**.
 
     The link toggles to **Unsubscribed**.
 
 
 **Parent Topic:**[Use knowledge subscriptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/use-knowledge-subscriptions.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]
-- [[unsubscribe-from-knowledge-base|Unsubscribe from a knowledge base]]

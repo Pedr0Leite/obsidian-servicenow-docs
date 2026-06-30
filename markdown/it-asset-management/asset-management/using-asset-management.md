@@ -14,7 +14,7 @@ breadcrumb: [Asset Management, IT Asset Management]
 
 # Using Asset Management
 
-Use the [[am-landing-page|Asset Management]] application to manage your assets efficiently.
+Use the Asset Management application to manage your assets efficiently.
 
 -   **[Mobile app for Hardware Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/mobile-my-asset.md)**  
 Use the ServiceNow Mobile and ServiceNow Agent apps to manage your assets.
@@ -27,9 +27,9 @@ Fixed assets are containers that can hold multiple assets. Fixed assets are comm
 -   **[Consumables life cycle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/c_FollowLifeCycleConsumbl.md)**  
 Consumables are assets that are not tracked individually, but as a group of the same model.
 -   **[Stockrooms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/c_Stockrooms.md)**  
-[[c_Stockrooms|Stockrooms]] are places to which assets are assigned.
+Stockrooms are places to which assets are assigned.
 -   **[Manage pre-allocated assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/manage-preallocated-asset.md)**  
-[[manage-preallocated-asset|Manage pre-allocated assets]], which are the assets that the vendor still owns, but has agreed to store in a customer stockroom for just-in-time [[c_Procurement|procurement]].
+Manage pre-allocated assets, which are the assets that the vendor still owns, but has agreed to store in a customer stockroom for just-in-time procurement.
 -   **[Manage transfer order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/manage-transfer-orders.md)**  
 Manage the asset movement from one stockroom to the other using transfer order.
 -   **[Use Organization Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/org-mgmt.md)**  
@@ -37,9 +37,3 @@ The Organization Management application provides an easy way to perform such ass
 
 **Parent Topic:**[Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/am-landing-page.md)
 
-## Related
-
-- [[am-landing-page|Asset Management]]
-- [[c_Stockrooms|Stockrooms]]
-- [[manage-preallocated-asset|Manage pre-allocated assets]]
-- [[c_Procurement|Procurement]]

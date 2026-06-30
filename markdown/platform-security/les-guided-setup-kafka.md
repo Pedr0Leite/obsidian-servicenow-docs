@@ -16,9 +16,9 @@ Implement the following steps for a complete guided setup for Kafka consumers.
 
 ## Before you begin
 
-Navigate to **[[les-intro|Log Export Service \(LES\)]]** &gt; **Kafka Consumer** &gt; **Guided Setup**. Select the type of setup you wish to configure and select **Continue**.
+Navigate to **Log Export Service \(LES\)** &gt; **Kafka Consumer** &gt; **Guided Setup**. Select the type of setup you wish to configure and select **Continue**.
 
-**Note:** During the Log [[export|Export]] Service application installation, ServiceNow will provision the underlying Hermes Messaging Service infrastructure. Be aware that this process can take up to a couple of hours to complete from the time you [[c_requestAPI|request]] the Log Export Service application installation.
+**Note:** During the Log Export Service application installation, ServiceNow will provision the underlying Hermes Messaging Service infrastructure. Be aware that this process can take up to a couple of hours to complete from the time you request the Log Export Service application installation.
 
 Role required: admin
 
@@ -38,15 +38,15 @@ Role required: admin
     -   View Topics: Select the listed topic to retrieve the timestamp of the last known message.
     **Note:** You can access Hermes Diagnostics in the future to troubleshoot potential connectivity issues by returning to this step of the guided setup or by navigating to **All** &gt; **Hermes Messaging Service** &gt; **Diagnostics**.
 
-2.  Generate [[c_Certificates|certificates]] for a secure connection to Hermes Messaging Service and pull log events from it.
+2.  Generate certificates for a secure connection to Hermes Messaging Service and pull log events from it.
 
     You are going to use these certificates when connecting your external system.
 
-    Setup secure connection to Hermes Messaging Service. See [[les-hermes-cert|Set up a secure connection to the Hermes Messaging Service for LES]] for more information. You will need these certificates for [[c_Authentication|authentication]] and authorization in the client which will pull the [[logs|logs]] from Hermes.
+    Setup secure connection to Hermes Messaging Service. See [Set up a secure connection to the Hermes Messaging Service for LES](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/les-hermes-cert.md) for more information. You will need these certificates for authentication and authorization in the client which will pull the logs from Hermes.
 
     **Note:** admin or Hermes\_admin roles are required for this step.
 
-3.  Configure Log Producer: Choose [[les-log-sources-export|log sources]] to export and configure their filters.
+3.  Configure Log Producer: Choose log sources to export and configure their filters.
 
     Complete the following tasks to configure the Log Producer.
 
@@ -105,16 +105,5 @@ Role required: admin
         -   If your consumers require it, specify the Kafka JSON Converters properties to disable schemas: “key.converter.schemas.enable=false”, “value.converter.schemas.enable=false”
     -   Verify Kafka consumer pulling logs from Hermes: Verify in your chosen Kakfa consumer that you can pull log events from the Hermes Messaging Service.
 
-**Parent Topic:**[[les-kafka-consumer|Kafka consumer]]
+**Parent Topic:**[Kafka consumer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/les-kafka-consumer.md)
 
-## Related
-
-- [[les-hermes-cert|Set up a secure connection to the Hermes Messaging Service for LES]]
-- [[les-kafka-consumer|Kafka consumer]]
-- [[les-intro|Log Export Service \(LES\)]]
-- [[export|Export]]
-- [[c_requestAPI|request]]
-- [[c_Certificates|Certificates]]
-- [[c_Authentication|Authentication]]
-- [[logs|Logs]]
-- [[les-log-sources-export|Log sources]]

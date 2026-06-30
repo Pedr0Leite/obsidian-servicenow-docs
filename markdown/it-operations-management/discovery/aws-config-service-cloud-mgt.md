@@ -18,7 +18,7 @@ Configure the Amazon Web Services \(AWS\) Config service to send event notificat
 
 ## Before you begin
 
--   Ensure that the [[r-discovery|Discovery]] \(com.snc.discovery\) plugin is installed and activated in the instance.
+-   Ensure that the Discovery \(com.snc.discovery\) plugin is installed and activated in the instance.
 -   Ensure that you have valid AWS subscriptions \(service accounts\) and its associated logical datacenters are discovered.
 -   Ensure that the user account password used to subscribe the instance to the Simple Notification Service \(SNS\) does not contain the @ or \# characters.
 
@@ -166,6 +166,3 @@ https://<username>:<user_password>@<instance_URL>/api/now/cloud_event?sysparm_re
 
 After some events are generated, navigate to the [Cloud User Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloudmgt-view-cloud-events.md) to view the events.
 
-## Related
-
-- [[r-discovery|Discovery]]

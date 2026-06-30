@@ -14,23 +14,14 @@ breadcrumb: [Playbooks and Solutions, Configure agent workspaces, Configure, Pub
 
 Install the Service Request Playbook application, which enables public sector users to submit and track non-emergency service requests, and provides government agents with a process for handling these requests. You can then configure the features available for submitting requests and routing requests to agents.
 
-As a user with the admin role, complete the following configuration tasks to set up the Service Request Playbook, after you install the [[install-public-sector-digital-services-core|Public Sector Digital Services Core]] application.
+As a user with the admin role, complete the following configuration tasks to set up the Service Request Playbook, after you install the [Public Sector Digital Services Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/install-public-sector-digital-services-core.md) application.
 
 |Task|Description|
 |----|-----------|
-|[[install-psds-service-request-playbook|Install Service Request Playbook application]]|Install Service Request Playbook \(com.sn\_public\_sector\_digital\_services\_core\) from the ServiceNow® Store.|
-|[[awa-psds-overview|Automatically route service requests using Advanced Work Assignment]]|Use the ServiceNow Advanced Work Assignment \(AWA\) application to route and assign public sector service requests to designated agents.|
-|[[psds-configure-engagement-messenger|Configure Engagement Messenger for Playbooks]]|Configure certain Engagement Messenger settings that enable public sector end users to create and track non-emergency service requests from Engagement Messenger.|
-|[[psds-configuring-va|Enable public sector end users to create a service request using Virtual Agent]]|Use Virtual Agent Designer to [publish](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/publish-virtual-agent-topic.md) the prebuilt conversation topic, **Create a Service Request**, which enables end users to submit a service request using the Virtual Agent chatbot.|
-|[[psds-srp-configure-similar-records|Configure the Similar Records Activity UI in Service Request Playbook]]|View a list of similar requests by location, without having to search for the requests or leave the playbook.|
-|[[psds-config-mobile-agent|Configure Mobile Agent for Service Request Playbook]]|\(Optional\) Install the Customer Service Mobile and Service Request Playbook plugins to enable government service agents to track non-emergency service requests on the Mobile Agent.|
+|[Install Service Request Playbook application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/install-psds-service-request-playbook.md)|Install Service Request Playbook \(com.sn\_public\_sector\_digital\_services\_core\) from the ServiceNow® Store.|
+|[Automatically route service requests using Advanced Work Assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/awa-psds-overview.md)|Use the ServiceNow Advanced Work Assignment \(AWA\) application to route and assign public sector service requests to designated agents.|
+|[Configure Engagement Messenger for Playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-configure-engagement-messenger.md)|Configure certain Engagement Messenger settings that enable public sector end users to create and track non-emergency service requests from Engagement Messenger.|
+|[Enable public sector end users to create a service request using Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-configuring-va.md)|Use Virtual Agent Designer to [publish](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/publish-virtual-agent-topic.md) the prebuilt conversation topic, **Create a Service Request**, which enables end users to submit a service request using the Virtual Agent chatbot.|
+|[Configure the Similar Records Activity UI in Service Request Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-srp-configure-similar-records.md)|View a list of similar requests by location, without having to search for the requests or leave the playbook.|
+|[Configure Mobile Agent for Service Request Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-mobile-agent.md)|\(Optional\) Install the Customer Service Mobile and Service Request Playbook plugins to enable government service agents to track non-emergency service requests on the Mobile Agent.|
 
-## Related
-
-- [[install-public-sector-digital-services-core|Install Public Sector Digital Services Core]]
-- [[install-psds-service-request-playbook|Install Service Request Playbook for Public Sector Digital Services]]
-- [[awa-psds-overview|Configure Advanced Work Assignment for Public Sector Digital Services]]
-- [[psds-configure-engagement-messenger|Configure Engagement Messenger for Playbooks]]
-- [[psds-configuring-va|Configure Virtual Agent for Public Sector Digital Services]]
-- [[psds-srp-configure-similar-records|Configure the Similar Records Activity UI in Service Request Playbook]]
-- [[psds-config-mobile-agent|Configure Mobile Agent for Public Sector Digital Services]]

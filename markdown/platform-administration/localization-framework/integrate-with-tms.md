@@ -18,11 +18,11 @@ Integrate with any translation management system of your choice to localize the 
 
 ## Before you begin
 
-Role required: [[ia-localization-il|localization]]\_admin
+Role required: localization\_admin
 
 ## Procedure
 
-1.  Create subflows to [[language-picker-ui|request translations]] and to retrieve the translated content using Integration Hub subflows, actions, and connections and credentials.
+1.  Create subflows to request translations and to retrieve the translated content using Integration Hub subflows, actions, and connections and credentials.
 
     1.  Ensure that the error messages and codes from the TMS provider are mapped correctly with the error messages and codes supported the ServiceNow platform.
 
@@ -260,13 +260,8 @@ String
 
     See [Create a custom translation management system](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/create-custom-tms.md).
 
-    **Note:** [[localization-framework-landing|Localization Framework]] depends on Integration Hub to build integrations with third-party systems.
+    **Note:** Localization Framework depends on Integration Hub to build integrations with third-party systems.
 
 
 **Parent Topic:**[Translation Management System configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/tms-configuration.md)
 
-## Related
-
-- [[ia-localization-il|Localization]]
-- [[language-picker-ui|Request translations]]
-- [[localization-framework-landing|Localization Framework]]

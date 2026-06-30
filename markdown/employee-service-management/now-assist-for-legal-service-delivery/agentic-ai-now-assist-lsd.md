@@ -15,7 +15,7 @@ breadcrumb: [Now Assist for Legal Service Delivery \(LSD\), Legal Service Delive
 
 # Using agentic workflow in Now Assist for Legal Service Delivery \(LSD\)
 
-Use agentic workflows for [[legal-management-overview|Legal Service Delivery]] to analyze general legal requests, predict the appropriate legal category, and initiate a transfer after confirmation from the legal fulfiller or group manager.
+Use agentic workflows for Legal Service Delivery to analyze general legal requests, predict the appropriate legal category, and initiate a transfer after confirmation from the legal fulfiller or group manager.
 
 <table id="table_bqn_lt4_x2c"><thead><tr><th>
 
@@ -61,11 +61,7 @@ To modify an agentic workflow, you must first duplicate it, and then update it. 
 There might be AI agents installed with the Now Assist application that are not used in agentic workflows. To learn how to see all agents that are available to you, see [Find AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/find-ai-agents.md).
 
 -   **[Triage legal requests agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/trans-legal-request-agent.md)**  
-Use the [[trans-legal-request-agent|Triage legal requests agentic workflow]] to predict the appropriate legal category and to initiate a transfer after a confirmation from the legal fulfiller or group manager.
+Use the Triage legal requests agentic workflow to predict the appropriate legal category and to initiate a transfer after a confirmation from the legal fulfiller or group manager.
 
 **Parent Topic:**[Now Assist for Legal Service Delivery \(LSD\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/now-assist-lsd-landing.md)
 
-## Related
-
-- [[legal-management-overview|Legal Service Delivery]]
-- [[trans-legal-request-agent|Triage legal requests agentic workflow]]

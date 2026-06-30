@@ -20,7 +20,7 @@ The AgentCard is the A2A discovery manifest that identifies the agent to any con
 
 ```
 AgentCard(
-   name            = "[[cpq-config-converse|Config Converse]] A2A Middleware",
+   name            = "Config Converse A2A Middleware",
    description     = "Middleware service that bridges other agents with Config
                      Converse using A2A protocol to configure products based on
                      context provided by other agents. Provides industry-standard
@@ -63,6 +63,3 @@ AgentCard(
 |security\_schemes|object|Declares the bearer scheme. Key must match the entry in the security list.|
 |security|list\[object\]|Enforces bearer auth on all agent interactions.|
 
-## Related
-
-- [[cpq-config-converse|Config Converse]]

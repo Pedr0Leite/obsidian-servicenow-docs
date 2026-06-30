@@ -14,7 +14,7 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 # Disable public access to favorites \[Updated in Security Center 1.3 and 2.0\]
 
-Use the **glide.ui.magellan.favorites.allow\_public** to specify whether unauthenticated [[users|users]] are allowed to see **Favorites** in the navigator.
+Use the **glide.ui.magellan.favorites.allow\_public** to specify whether unauthenticated users are allowed to see **Favorites** in the navigator.
 
 Public Access to Favorites is compliant when **glide.ui.magellan.favorites.allow\_public** is set to **false**.
 
@@ -35,6 +35,3 @@ Public Access to Favorites is compliant when **glide.ui.magellan.favorites.allow
 
 **Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[users|Users]]

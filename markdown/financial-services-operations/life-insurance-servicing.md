@@ -16,10 +16,6 @@ Life Insurance Servicing policy service requests are supported through individua
 
 Individual and group life insurance policy service requests are supported through the following applications:
 
--   [[individual-life-servicing|Individual Life Servicing]]
--   [[group-life-servicing|Group Life Servicing]]
+-   [Individual Life Servicing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/individual-life-servicing.md)
+-   [Group Life Servicing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/group-life-servicing.md)
 
-## Related
-
-- [[individual-life-servicing|Individual Life Servicing]]
-- [[group-life-servicing|Group Life Servicing]]

@@ -14,13 +14,13 @@ breadcrumb: [Analyze change request risk and impact, Reference, Change Managemen
 
 # Migrate to legacy change risk assessments
 
-Users can migrate legacy change risk assessments to versions compatible with the new Change [[c_RskAsmtCalc|Risk Assessment]] table schema and logic.
+Users can migrate legacy change risk assessments to versions compatible with the new Change Risk Assessment table schema and logic.
 
 ## Before you begin
 
 Few points to remember:
 
--   Customers with [[c_ITILChangeManagement|Change Management]] - Risk Assessment \[Legacy\] \(**com.snc.change.risk\_assessment**\) plugin already installed on their instances should only follow this task.
+-   Customers with Change Management - Risk Assessment \[Legacy\] \(**com.snc.change.risk\_assessment**\) plugin already installed on their instances should only follow this task.
 -   The Change Management - Risk Assessment \[Legacy\] \(**com.snc.change.risk\_assessment**\) plugin cannot be installed for customers who are on Kingston and later releases.
 -   Migration guidance and best practice suggests that the migration should be performed on a development instance and not on a production instance.
 -   The development instance must have the new Change Management - Risk Assessment \[com.snc.change\_management.risk\_assessment\] plugin installed.
@@ -30,7 +30,7 @@ Role required: itil\_admin
 
 ## About this task
 
-The following legacy risk assessment components are [[migrated-records|migrated]]:
+The following legacy risk assessment components are migrated:
 
 -   Risk assessment definition, questions, and question choices.
 -   For multiple assessment conditions, the migration might result in the following one or more than one risk assessment records:
@@ -71,8 +71,3 @@ When you migrate a change risk assessment, the system maps records from legacy r
 
 **Parent Topic:**[Analyze change request risk and impact](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/change-risk-conflict-analysis.md)
 
-## Related
-
-- [[c_RskAsmtCalc|Risk assessment]]
-- [[c_ITILChangeManagement|Change Management]]
-- [[migrated-records|Migrated]]

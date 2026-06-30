@@ -20,7 +20,7 @@ Assign roles to members of your grants organization Grants Management applicatio
 
 There are a few guidelines when assigning roles to users:
 
--   Determine the roles who would be working on the grant cases for the agency, and what user would do what. For more information on the roles available in Grants Management and to determine which makes sense for each user, see [[roles-installed-with-public-sector-digital-services|Grants Management roles]] and [[psds-config-gmp-personas|Grants Management Personas]]
+-   Determine the roles who would be working on the grant cases for the agency, and what user would do what. For more information on the roles available in Grants Management and to determine which makes sense for each user, see [Grants Management roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/roles-installed-with-public-sector-digital-services.md) and [Grants Management Personas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-personas.md)
 -   Create as many users as needed in your organization.
 
 Role required: admin
@@ -42,7 +42,7 @@ There are a few guidelines for creating groups:
 -   Create one group for administrators and assign the admin role to this group only.
 -   Create as many groups as needed in your organization. Assign the necessary users to those groups, and then assign the necessary role to those groups if you haven't already. You can create groups first, assign a role to the group, and add users, or you can add user roles individually and then add them to the group. All users in a group will inherit the group role.
 
-To delegate access to grants programs and create organizational teams, you can create assignment groups. This is different from creating internal program teams within a grant program in Grants Management. These are responsibilities that are assigned at the grant program level within the playbook, and adding a user to either of these grant program-level groups do not affect roles at the user and agency level. For information on how to create an internal program team and external reviewer group, see [[psds-gmp-using-add-members-internal-program-team|Add members to a Grant Program internal program team]] and [[psds-config-gmp-reviewer-team|Add external reviewer groups in Grants Management]].
+To delegate access to grants programs and create organizational teams, you can create assignment groups. This is different from creating internal program teams within a grant program in Grants Management. These are responsibilities that are assigned at the grant program level within the playbook, and adding a user to either of these grant program-level groups do not affect roles at the user and agency level. For information on how to create an internal program team and external reviewer group, see [Add members to a Grant Program internal program team](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-gmp-using-add-members-internal-program-team.md) and [Add external reviewer groups in Grants Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-reviewer-team.md).
 
 To create a user assignment group:
 
@@ -74,21 +74,12 @@ The following is a list of all internal program team responsibilities that are p
 
 -   **[Grants Management Personas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-personas.md)**  
 Understand the key personas involved in Grants Management and their responsibilities in supporting grants.
--   **[[psds-config-gmp-internal-team-default-roles|Configure read/write access roles for the Grants Management internal program team]]**  
+-   **[Configure read/write access roles for the Grants Management internal program team](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-internal-team-default-roles.md)**  
 In a Grant Program, certain access is granted to each Internal Program Team user on a case-by-case basis. As an admin, you can delegate read/write access to users within internal teams by mapping specific roles to read/write access.
 
-**Parent Topic:**[[psds-config-gmp-foundation|Configure Grants Management]]
+**Parent Topic:**[Configure Grants Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-foundation.md)
 
-**Previous topic:**[[psds-config-gmp-fdtn-doc-template-rca|Configure Restricted Caller Access \(RCA\) for Document Templates]]
+**Previous topic:**[Configure Restricted Caller Access \(RCA\) for Document Templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-fdtn-doc-template-rca.md)
 
 **Next topic:**[Grants Management Personas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-personas.md)
 
-## Related
-
-- [[roles-installed-with-public-sector-digital-services|Roles installed with Public Sector Digital Services]]
-- [[psds-config-gmp-personas|Grants Management Personas]]
-- [[psds-gmp-using-add-members-internal-program-team|Add members to a Grant Program internal program team]]
-- [[psds-config-gmp-reviewer-team|Add external reviewer groups in Grants Management]]
-- [[psds-config-gmp-internal-team-default-roles|Configure read/write access roles for the Grants Management internal program team]]
-- [[psds-config-gmp-foundation|Configure Grants Management]]
-- [[psds-config-gmp-fdtn-doc-template-rca|Configure Restricted Caller Access \(RCA\) for Document Templates]]

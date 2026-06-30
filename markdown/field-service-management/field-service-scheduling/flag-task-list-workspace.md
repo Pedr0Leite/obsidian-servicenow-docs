@@ -14,7 +14,7 @@ breadcrumb: [Using Dispatcher Workspace, Assigning tasks from Dispatcher Workspa
 
 # Flag or unflag tasks from the list
 
-Flag tasks from the list to track their progress. Flagged tasks appear in [[dispatcher-activities|Dispatcher Workspace]].
+Flag tasks from the list to track their progress. Flagged tasks appear in Dispatcher Workspace.
 
 ## Before you begin
 
@@ -39,6 +39,4 @@ Role required: wm\_dispatcher
 
     The tasks appear as flagged or unflagged in both the list and Dispatcher Workspace.
 
-## Related
 
-- [[dispatcher-activities|Dispatcher Workspace]]

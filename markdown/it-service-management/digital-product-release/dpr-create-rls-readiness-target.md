@@ -29,7 +29,7 @@ Role required: sn\_dpr\_model.release\_calendar\_admin orsn\_dpr\_model.release\
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[dpr-workspace|Digital Product Release Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Digital Product Release Workspace**.
 
 2.  Select the release calendar icon \(\[Omitted image "dpr-icon-rls-target.png"\] Alt text: Release calendar icon.\).
 
@@ -58,6 +58,3 @@ Role required: sn\_dpr\_model.release\_calendar\_admin orsn\_dpr\_model.release\
 
 Release readiness targets are created and displayed on the selected calendar. Release targets that overlap with dates in the exclusion scheduleare created only for the dates for which you selected to opt in to.
 
-## Related
-
-- [[dpr-workspace|Digital Product Release Workspace]]

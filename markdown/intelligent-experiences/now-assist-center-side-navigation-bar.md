@@ -13,9 +13,9 @@ breadcrumb: [Now Assist Center workspace, Explore, Now Assist Center, Enable AI 
 
 # Side navigation bar
 
-The side navigation bar provides access to [[platform-now-assist-landing|Now Assist]] applications and features integrated with [[now-assist-center-landing-page|Now Assist Center]].
+The side navigation bar provides access to Now Assist applications and features integrated with Now Assist Center.
 
-Select an item in the [[now-assist-global-navigation|navigation]] bar to open it in a workspace tab.
+Select an item in the navigation bar to open it in a workspace tab.
 
 \[Omitted image "now-assist-center-navigation-bar-select-2.png"\] Alt text: Selection from the side navigation bar in Now Assist Center.
 
@@ -43,7 +43,7 @@ Home
 
 </td><td>
 
-The [[now-assist-center-home-page|home page]] provides Now Assist setup, administration, and monitoring features tailored to suit your instance.
+The home page provides Now Assist setup, administration, and monitoring features tailored to suit your instance.
 
 </td></tr><tr><td>
 
@@ -55,7 +55,7 @@ Asset inventory
 
 </td><td>
 
-The asset inventory shows you all the [[ai-assets|AI assets]] in your instance.
+The asset inventory shows you all the AI assets in your instance.
 
  Each tab in the series provides a list for that asset type. You can view a list of all assets in the Overview tab.
 
@@ -69,7 +69,7 @@ Data
 
 </td><td>
 
-The data page allows you to use [[now-assist-data-kit-landing|Now Assist Data Kit]] in the Now Assist Center workspace.
+The data page allows you to use Now Assist Data Kit in the Now Assist Center workspace.
 
 </td></tr><tr><td>
 
@@ -110,17 +110,7 @@ Monitor
 The monitor page shows usage, performance, and adoption metrics for your AI solutions.
 
 </td></tr></tbody>
-</table>For more information, see [[now-assist-center-using-other-applications|Using other Now Assist applications and features from Now Assist Center]].
+</table>For more information, see [Using other Now Assist applications and features from Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-using-other-applications.md).
 
-**Parent Topic:**[[now-assist-center-workspace|Now Assist Center workspace]]
+**Parent Topic:**[Now Assist Center workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-workspace.md)
 
-## Related
-
-- [[now-assist-center-using-other-applications|Using other Now Assist applications and features from Now Assist Center]]
-- [[now-assist-center-workspace|Now Assist Center workspace]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-center-landing-page|Now Assist Center]]
-- [[now-assist-global-navigation|Navigation]]
-- [[now-assist-center-home-page|Home page]]
-- [[ai-assets|AI assets]]
-- [[now-assist-data-kit-landing|Now Assist Data Kit]]

@@ -24,7 +24,7 @@ Role required: sn\_shop.shopper
 
 1.  Navigate to **All** &gt; **ShoppingHub** &gt; **ShoppingHub Home**.
 
-2.  Select the [[shopping-cart|shopping cart]] icon.
+2.  Select the shopping cart icon.
 
 3.  Do one of the following actions:
 
@@ -46,6 +46,3 @@ When you’re done reviewing your cart, you can proceed with the final checkout.
 
 **Parent Topic:**[Shopping cart](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shopping-cart.md)
 
-## Related
-
-- [[shopping-cart|Shopping cart]]

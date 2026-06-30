@@ -14,7 +14,7 @@ breadcrumb: [3E Protect, 3E, Integration with third-party services, Health and S
 
 # Configure the application registry for the 3E service provider
 
-Configure 3E integration with [[hs-environmental-management-landing-page|Health and Safety Environmental Management]] to retrieve current chemical data.
+Configure 3E integration with Health and Safety Environmental Management to retrieve current chemical data.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin
 
 ## About this task
 
-For more information about [[hs-3e-protect|3E Protect]] and its subscription requirements, see [3E Protect](https://www.3eco.com/3e-solutions/product-stewardship/3e-regulatory-intelligence-api/#cta-form-block) on the 3E website.
+For more information about 3E Protect and its subscription requirements, see [3E Protect](https://www.3eco.com/3e-solutions/product-stewardship/3e-regulatory-intelligence-api/#cta-form-block) on the 3E website.
 
 ## Procedure
 
@@ -43,7 +43,3 @@ For more information about [[hs-3e-protect|3E Protect]] and its subscription req
 
 **Parent Topic:**[3E Protect](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-3e-protect.md)
 
-## Related
-
-- [[hs-environmental-management-landing-page|Health and Safety Environmental Management]]
-- [[hs-3e-protect|3E Protect]]

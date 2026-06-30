@@ -15,7 +15,7 @@ breadcrumb: [Start processing Invoices from third-party apps, Accounts Payable S
 
 # Activate the Start Invoice Processing for Orphan Invoices flow
 
-Activate the **Start Invoice Processing for Orphan [[invoices|Invoices]]** flow to process invoices that don’t have an associated invoice case.
+Activate the **Start Invoice Processing for Orphan Invoices** flow to process invoices that don’t have an associated invoice case.
 
 ## Before you begin
 
@@ -37,7 +37,7 @@ This flow creates an invoice processing case, associates the invoice with that c
 
 4.  In the **New flow name** field, enter a name for the copied flow.
 
-5.  In the **Application** field, select **[[acc-pay-mgmt-landing-page|Accounts Payable Operations]]**.
+5.  In the **Application** field, select **Accounts Payable Operations**.
 
 6.  Select **Copy**.
 
@@ -52,7 +52,3 @@ This flow creates an invoice processing case, associates the invoice with that c
 
 **Parent Topic:**[Start the processing for an invoice imported via integration with third-party applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/start-invoice-processing.md)
 
-## Related
-
-- [[invoices|Invoices]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]

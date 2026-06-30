@@ -12,7 +12,7 @@ breadcrumb: [Create an email notification, Email and SMS notifications, System n
 
 # Advanced conditions for email notifications
 
-Use an advanced condition to send a notification based on the current email record, changing field values, or [[r_SetArchiveRuleProcessingBehavior|system properties]].
+Use an advanced condition to send a notification based on the current email record, changing field values, or system properties.
 
 To send a notification using an advanced condition, you can:
 
@@ -51,14 +51,10 @@ The advanced condition script uses the following business rule global variables:
 
 **Note:** The **Advanced condition** field is evaluated in addition to other conditions you set on the notification. Both the **Condition** and **Advanced condition** must evaluate to true in order to send the notification.
 
-**Parent Topic:**[[t_CreateANotification|Create an email notification]]
+**Parent Topic:**[Create an email notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateANotification.md)
 
 **Related topics**  
 
 
 [Create an email notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateANotification.md)
 
-## Related
-
-- [[t_CreateANotification|Create an email notification]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

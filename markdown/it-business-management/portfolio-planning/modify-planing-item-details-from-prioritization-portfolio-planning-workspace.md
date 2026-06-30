@@ -15,7 +15,7 @@ breadcrumb: [Prioritize portfolio plan work, Portfolio Planning, Strategic Portf
 
 # Update planning item details from Prioritization view
 
-Update the details of your planning items or delete them so that the Prioritization page in [[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace reflects the latest work pipeline.
+Update the details of your planning items or delete them so that the Prioritization page in Portfolio Planning Workspace reflects the latest work pipeline.
 
 ## Before you begin
 
@@ -83,6 +83,4 @@ From the full details page:
 
     If you group the Prioritization items list by any attribute, you can’t edit the short description of the items directly from the grid view.
 
-## Related
 
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

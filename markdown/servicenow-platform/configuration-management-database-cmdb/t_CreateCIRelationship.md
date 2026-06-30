@@ -14,11 +14,11 @@ breadcrumb: [CI relationship editor, CI relationships in the CMDB, Configuration
 
 # Create or edit a CI relationship
 
-Use the relationship editor to view, create, or modify CI relationships. You can open the relationship editor from the [[c_CIRelationsFormatterNG|CI Relations formatter]].
+Use the relationship editor to view, create, or modify CI relationships. You can open the relationship editor from the CI Relations formatter.
 
 ## About this task
 
-As an alternative to the [[c_RelationshipEditor|CI relationship editor]], [Unified Map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/cmdb-workspace-unified-map.md) in the [CMDB Workspace store app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-workspace.md)or in [Service Graph Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/sg-workspace.md) provides the latest functionality for editing CI relationships. For more information, see [Edit relationships in Unified Map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/unified-map-edit-connection.md).
+As an alternative to the CI relationship editor, [Unified Map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/cmdb-workspace-unified-map.md) in the [CMDB Workspace store app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-workspace.md)or in [Service Graph Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/sg-workspace.md) provides the latest functionality for editing CI relationships. For more information, see [Edit relationships in Unified Map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/unified-map-edit-connection.md).
 
 ## Before you begin
 
@@ -44,7 +44,7 @@ The relationship editor operates differently, depending on whether you check the
 
         For example:
 
-        1.  Navigate to **All** &gt; **Configuration** &gt; **[[ci-class-manager-landing-page|CI Class Manager]]**.
+        1.  Navigate to **All** &gt; **Configuration** &gt; **CI Class Manager**.
         2.  On the CI Class Manager page, select **Open Hierarchy**.
         3.  On the CI Class panel search and select the class of the CI for which you want to create or edit relationships.
         4.  Select **CI List** in the left-side panel and then in the list view, select the CI.
@@ -112,8 +112,3 @@ The relationship editor operates differently, depending on whether you check the
 
 [CI relationship security](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CIRelationshipSecurity.md)
 
-## Related
-
-- [[c_CIRelationsFormatterNG|CI relations formatter]]
-- [[c_RelationshipEditor|CI relationship editor]]
-- [[ci-class-manager-landing-page|CI Class Manager]]

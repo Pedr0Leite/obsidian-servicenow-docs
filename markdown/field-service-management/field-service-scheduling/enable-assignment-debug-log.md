@@ -14,7 +14,7 @@ breadcrumb: [Assigning tasks using Dynamic Scheduling, Scheduling and dispatchin
 
 # Display the task assignment debug log
 
-Display information from the task assignment debug log in the [[dynamic-sched-confirm-assignment|Confirm Assignment pop-up window]].
+Display information from the task assignment debug log in the Confirm Assignment pop-up window.
 
 ## Before you begin
 
@@ -38,6 +38,4 @@ The task assignment debug log information is stored in the Log \[syslog\] table.
 
     The Confirm Assignment pop-up window displays the debug logs for each of the selected tasks. Click the task to collapse or expand this information.
 
-## Related
 
-- [[dynamic-sched-confirm-assignment|Confirm Assignment pop-up window]]

@@ -22,7 +22,7 @@ Role required: it\_demand\_manager
 
 ## About this task
 
-The application automatically creates [[cost-plan-breakdown|cost plan breakdown]] records when you save the cost plan. The cost plan breakdowns are records that specify the estimated and actual costs and the budget at a granular level for specific fiscal periods, such as FY16: M04 and FY16: M05. The demand cost plans are added to the parent program and portfolio.
+The application automatically creates cost plan breakdown records when you save the cost plan. The cost plan breakdowns are records that specify the estimated and actual costs and the budget at a granular level for specific fiscal periods, such as FY16: M04 and FY16: M05. The demand cost plans are added to the parent program and portfolio.
 
 If you want to use multiple currencies, create a cost plan for another currency.
 
@@ -32,7 +32,7 @@ If you’re creating a cost plan for a demand with the PPM Standard Multicurrenc
 
 ## Procedure
 
-1.  Open a demand from the home page of Next Experience for [[c_DemandManagement|Demand Management]].
+1.  Open a demand from the home page of Next Experience for Demand Management.
 
     For more information, see [Access demands](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/access-demands-ppw.md).
 
@@ -57,7 +57,7 @@ Description
 </td><td>
 
 1.  Select **New**.
-2.  On the Create New [[demand-plan-form|Cost Plan form]], fill the fields.
+2.  On the Create New Cost Plan form, fill the fields.
 
 For a description of the field names, see [Create cost plan form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/create-cost-plan-form-ppw.md).
 
@@ -126,8 +126,3 @@ Delete a cost plan in one of the following ways:-   Select a record from the **C
 
 [Create cost plan breakdown form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/create-cost-plan-breakdown-form-ppw.md)
 
-## Related
-
-- [[cost-plan-breakdown|Cost plan breakdown]]
-- [[c_DemandManagement|Demand Management]]
-- [[demand-plan-form|Cost plan form]]

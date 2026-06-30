@@ -24,7 +24,7 @@ Role required: service\_mapping\_admin
 
 ## About this task
 
-Remap existing tag-based services after you have manually modified tag definitions. If your organization uses new tag keys or tag values, you may also want to remap existing services. In both cases, [[c_ServiceMappingOverview|Service Mapping]] does not automatically update existing services to reflect tag changes.
+Remap existing tag-based services after you have manually modified tag definitions. If your organization uses new tag keys or tag values, you may also want to remap existing services. In both cases, Service Mapping does not automatically update existing services to reflect tag changes.
 
 ## Procedure
 
@@ -57,8 +57,8 @@ You have mapped the application service based on the latest tag definitions.
 
 Make sure that the service instances aren't too large:
 
--   Service Mapping doesn't offer to [[view-ci-list|view CI list]] instead of a map for a service instance.
--   There is no [[r-discovery|discovery]] message indicating that the service instance is too large: **The map does not display the entire service, because it is too large. The number of CI connections exceeded the allowed maximum.**
+-   Service Mapping doesn't offer to view CI list instead of a map for a service instance.
+-   There is no discovery message indicating that the service instance is too large: **The map does not display the entire service, because it is too large. The number of CI connections exceeded the allowed maximum.**
 
 If the service is too large, perform the following actions:
 
@@ -67,8 +67,3 @@ If the service is too large, perform the following actions:
 
 **Parent Topic:**[Application service mapping using classic Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/c_DefineMapBusinessServices.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[view-ci-list|view ci list]]
-- [[r-discovery|Discovery]]

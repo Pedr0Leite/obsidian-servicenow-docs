@@ -18,14 +18,14 @@ Operational changes are made in item generation mainly because item generation e
 
 ## Creation of controls
 
-If the existing controls in your system can be used for testing entities, then you can take advantage of the existing data and avoid creating controls. Having many controls can lead to control explosion. If that is not feasible, then you can associate a primary entity with a common control, test the common control, and implement the test results on the reliant entities of the common control. If both these options don’t work, then you can [[t_CreateAControl|create a control]].
+If the existing controls in your system can be used for testing entities, then you can take advantage of the existing data and avoid creating controls. Having many controls can lead to control explosion. If that is not feasible, then you can associate a primary entity with a common control, test the common control, and implement the test results on the reliant entities of the common control. If both these options don’t work, then you can create a control.
 
 To create a common control, select **Common** in the **Function** field of the Control form. Select the **Convert to common** list UI action. A common control is created upon validation. It’s mandatory that you select a control objective before you convert a standard control to common control.
 
 ## Association of reliant entities to common control
 
 1.  Use the Reliant entities related list in the Control form to add individual entities to the common control. You can also remove the reliant entities using the **Remove** button.
-2.  Use Reliant [[entity-type-in-risk-ws|entity types]] related list in the Control form to add entity types to the common control. You can also remove the reliant entity types using the **Remove** button.
+2.  Use Reliant entity types related list in the Control form to add entity types to the common control. You can also remove the reliant entity types using the **Remove** button.
 3.  Use the **Inherit common controls** UI action in the Controls related list of the Risk form to select common controls grouped by control objectives.
 
 **Note:** For more information on reliant entity associations for a common control, see [Create a control using the Compliance Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/create-control-ws.md) and [Convert standard control to common control and add reliant entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/convert-standard-control-common.md).
@@ -80,7 +80,7 @@ Remove entity from item
 </td><td>
 
 -   If Risk Management is installed, based on the risk statement associated to the control objective, risk to common control m2m records are deleted in consideration of the reliant entities.
--   If [[privacy-management|Privacy Management]] is installed, then the Processing Activity to common control m2m association based on its reliant entity and also the Processing Activity to control objective m2m association are removed.
+-   If Privacy Management is installed, then the Processing Activity to common control m2m association based on its reliant entity and also the Processing Activity to control objective m2m association are removed.
 
 </td></tr><tr><td>
 
@@ -111,7 +111,7 @@ A common item is added:1.  When no standard control exists with the same name, c
 
  A standard item is added:
 
-1.  Risk Management and [[r_PolicyComplianceMgmt|Policy and Compliance Management]] plugins are installed
+1.  Risk Management and Policy and Compliance Management plugins are installed
 2.  Based on the risk statement and control objective association, risks are associated to controls.
 
 </td></tr><tr><td>
@@ -126,9 +126,3 @@ Deactivate item
 </td></tr></tbody>
 </table>**Parent Topic:**[Using the item generation process to generate controls and risks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/item-generation-process.md)
 
-## Related
-
-- [[t_CreateAControl|Create a control]]
-- [[entity-type-in-risk-ws|Entity types]]
-- [[privacy-management|privacy management]]
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

@@ -14,7 +14,7 @@ breadcrumb: [OAuth Outbound, OAuth authentication, Authentication, Access Manage
 
 # Private Key JWT Support for OAuth 2.0 Client Authentication
 
-Support JWT Support for [[c_OAuthApplications|OAuth 2.0]] Client [[c_Authentication|Authentication]].
+Support JWT Support for OAuth 2.0 Client Authentication.
 
 Private Key JWT Client Authentication is an authentication method that can be used by clients to authenticate to the authorization server when using the token endpoint.
 
@@ -22,7 +22,7 @@ In this authentication mechanism, only the clients that have registered a public
 
 The JWT must contain REQUIRED claim values and may contain OPTIONAL claim values. To know more about the claim values needed for the JWT for `private_key_jwt` authentication, refer the Client Authentication section in the [OpenID Connect core](https://openid.net/specs/openid-connect-core-1_0.html#ClientAuthentication) documentation.
 
-**Note:** The authentication token must be sent as the value of the client\_assertion parameter. The value of the  **client\_assertion\_type ** parameter must be  `urn:ietf:params:[[oauth-inbound-and-outbound|oauth]]:client-assertion-type:jwt-bearer`.
+**Note:** The authentication token must be sent as the value of the client\_assertion parameter. The value of the  **client\_assertion\_type ** parameter must be  `urn:ietf:params:oauth:client-assertion-type:jwt-bearer`.
 
 Plugins required for OAuth 2.0 Client Authentication using JWT token:
 
@@ -34,8 +34,3 @@ You can use the OAuth 2.0 Client Authentication using Private Key JWT for the fo
 -   [OIDC based single sign-on](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/config-private-key-jwt-oidc-sso.md)
 -   [Outbound OAuth integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/config-private-key-jwt-outbound-oauth.md)
 
-## Related
-
-- [[c_OAuthApplications|OAuth 2.0]]
-- [[c_Authentication|Authentication]]
-- [[oauth-inbound-and-outbound|OAuth]]

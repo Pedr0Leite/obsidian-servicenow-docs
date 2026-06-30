@@ -42,7 +42,7 @@ Currency Option
 
 </td><td>
 
-Select the **Follow functional currency** option to manage your demands using the functional currency of your organization. The project currency is carried over to the [[create-a-project-form|Project form]] when you create a project from the demand in the future. ​You can change the project currency for managing your projects later.For example, if the functional currency of your organization is USD, then USD is set as the currency for both demands and projects.
+Select the **Follow functional currency** option to manage your demands using the functional currency of your organization. The project currency is carried over to the Project form when you create a project from the demand in the future. ​You can change the project currency for managing your projects later.For example, if the functional currency of your organization is USD, then USD is set as the currency for both demands and projects.
 
 </td></tr><tr><td id="d158546e106">
 
@@ -50,7 +50,7 @@ Select the **Follow functional currency** option to manage your demands using th
 
 </td><td>
 
-Select the **Drive project currency** option to manage your demands and projects using the same currency. This currency can be your functional currency or any other currency. For example, if you want to manage your demand and project in a local currency, say GBP, then you would select this option and specify GBP as your demand currency​. The **Project Currency** field in the [[demand-form|demand form]] is automatically populated with GBP as your project currency on saving the form.
+Select the **Drive project currency** option to manage your demands and projects using the same currency. This currency can be your functional currency or any other currency. For example, if you want to manage your demand and project in a local currency, say GBP, then you would select this option and specify GBP as your demand currency​. The **Project Currency** field in the demand form is automatically populated with GBP as your project currency on saving the form.
 
 </td></tr><tr><td id="d158546e124">
 
@@ -66,12 +66,7 @@ Select **Flexi option** to manage your demands and projects, created from the de
 
 ## What to do next
 
-Enable the multicurrency view in the Demand and other demand-related [[form-field-information-for-dw|forms]]. For more information, see [Enable demand currency view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/enable-multicurrency-demand.md).
+Enable the multicurrency view in the Demand and other demand-related forms. For more information, see [Enable demand currency view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/enable-multicurrency-demand.md).
 
 **Parent Topic:**[Multicurrency in Demand Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/multicurrency-demand.md)
 
-## Related
-
-- [[create-a-project-form|Project form]]
-- [[demand-form|Demand form]]
-- [[form-field-information-for-dw|Forms]]

@@ -14,7 +14,7 @@ breadcrumb: [General chat settings, Configuring Conversational Interfaces, Conve
 
 # Enable public access to the chat widget
 
-Enable public access to the [[virtual-agent-landing-page|Virtual Agent]] chat widget for portals.
+Enable public access to the Virtual Agent chat widget for portals.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ Public access to the Virtual Agent chat widget defaults to off. Use the followin
 
     **Tip:** You must be in the **Virtual Agent Web Client** scope to enable public access.
 
-3.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings** &gt; **General**.
+3.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings** &gt; **General**.
 
 4.  Under **Display options**, enable **Public access**.
 
@@ -41,10 +41,5 @@ Public access to the Virtual Agent chat widget defaults to off. Use the followin
     A message displays confirming that the setting has been saved.
 
 
-**Parent Topic:**[[ci-configuring-chat-features|General chat settings]]
+**Parent Topic:**[General chat settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ci-configuring-chat-features.md)
 
-## Related
-
-- [[ci-configuring-chat-features|General chat settings]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]

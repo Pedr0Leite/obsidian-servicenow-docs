@@ -18,7 +18,7 @@ Engage with outside counsel to benefit from their expertise for resolving legal 
 
 The following options are available for outside counsel engagement.
 
--   [[use-legal-invention-disclosure|Using the Legal Invention Disclosure]] workflow, you can enable inventors to disclose their inventions in a structured manner. For more information, see [Legal Invention Disclosure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/legal-invention-disclosure-landing.md).
+-   Using the Legal Invention Disclosure workflow, you can enable inventors to disclose their inventions in a structured manner. For more information, see [Legal Invention Disclosure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/legal-invention-disclosure-landing.md).
 -   Using integration with Legal Tracker, you can engage with outside counsel, by automatically creating matters in Legal Tracker to track updates and spends on outside counsel engagement.
 
 ## Sample workflow for outside counsel engagement using Legal Tracker
@@ -33,10 +33,10 @@ The following options are available for outside counsel engagement.
     1.  If the Legal Tracker details are already filled, an integration with Legal Tracker is automatically initiated.
     2.  In cases where a task is created to fill the Legal Tracker details, the task fulfiller should initiate the integration manually after filling the details.
 8.  On successful integration, matter is created in Legal Tracker.
-9.  Matter details are synced to [[legal-matter-management-landing-page|Legal Matter Management]] and can be viewed in external matter related list.
+9.  Matter details are synced to Legal Matter Management and can be viewed in external matter related list.
 10. Outside counsel can access and update the matter in Legal Tracker.
 
-    When outside counsel reopens or closes an external matter in the legal tracker, the matter status field is automatically updated with a comment in the [[activity-lxp|activity]] stream in the [[legal-counsel-center-landing|Legal Counsel Center]].
+    When outside counsel reopens or closes an external matter in the legal tracker, the matter status field is automatically updated with a comment in the activity stream in the Legal Counsel Center.
 
 
 -   **[Request Outside Counsel engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/create-lt-outside-counsel-engagement.md)**  
@@ -50,14 +50,7 @@ In the Legal Tracker, a matter is created after outside counsel engagement reque
 -   **[View external matter details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/lmm-lt-view-em-details.md)**  
 As a legal fulfiller, view the external matter details fetched from in the legal matter.
 -   **[Delete outside counsel engagement request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/lmm-lt-delete-ocer.md)**  
-As a legal fulfiller, you can [[lmm-lt-delete-ocer|delete outside counsel engagement request]] that is no longer required.
+As a legal fulfiller, you can delete outside counsel engagement request that is no longer required.
 
 **Parent Topic:**[Work on a legal matter]()
 
-## Related
-
-- [[use-legal-invention-disclosure|Using the Legal Invention Disclosure]]
-- [[legal-matter-management-landing-page|Legal Matter Management]]
-- [[activity-lxp|Activity]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[lmm-lt-delete-ocer|Delete outside counsel engagement request]]

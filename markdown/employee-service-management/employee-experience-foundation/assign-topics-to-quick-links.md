@@ -14,7 +14,7 @@ breadcrumb: [Create a quick link, Quick links, Setup Employee Center browse expe
 
 # Assign topics to a quick link
 
-After you [[create-quick-links|create a quick link]], you can assign topics to the quick link. The quick link content is then displayed in the assigned topic in the [[employee-center-landing-page|Employee Center]] and [[employee-center-pro-landing|Employee Center Pro]].
+After you create a quick link, you can assign topics to the quick link. The quick link content is then displayed in the assigned topic in the Employee Center and Employee Center Pro.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sp\_admin, taxonomy\_manager, or taxonomy\_admin
 
 1.  Do one of the following:
 
-    -   \(If you have the sp\_admin role\) Navigate to **Employee Center** &gt; **[[emp-center-quick-link-config|Quick Links]]**.
+    -   \(If you have the sp\_admin role\) Navigate to **Employee Center** &gt; **Quick Links**.
     -   Navigate to **Content Taxonomy** &gt; **Quick Links**.
     The Quick Link module displays the list of existing quick links.
 
@@ -48,7 +48,7 @@ Role required: sp\_admin, taxonomy\_manager, or taxonomy\_admin
 
     \[Omitted image "assign-topics.png"\] Alt text: Assign topics and related list
 
-6.  Click the **Navigation** tab to see the associated **[[adv-portal-navigation-overview|Advanced portal navigation]]** and **Menu item**.
+6.  Click the **Navigation** tab to see the associated **Advanced portal navigation** and **Menu item**.
 
 7.  Click **Update**.
 
@@ -66,10 +66,3 @@ Ensure you relog in to make the new quick links visible.
 
 [Guided Self-Service in Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/gss-guided-self-service-overview.md)
 
-## Related
-
-- [[create-quick-links|Create a quick link]]
-- [[employee-center-landing-page|Employee Center]]
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[emp-center-quick-link-config|Quick links]]
-- [[adv-portal-navigation-overview|Advanced Portal Navigation]]

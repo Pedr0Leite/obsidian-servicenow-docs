@@ -14,7 +14,7 @@ breadcrumb: [Test Board in Test Management 2.0, Testing using Test Management 2.
 
 # Add and modify test cycles and test execution suites in Test Management 2.0
 
-Add and modify test cycles and test execution suites from a single user interface without having to switch between multiple user interfaces and [[form-field-information-for-dw|forms]].
+Add and modify test cycles and test execution suites from a single user interface without having to switch between multiple user interfaces and forms.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_test\_management.test\_manager
 
 ## About this task
 
-In [[test-management2-landing-page|Test Management 2.0]], a test plan is broken into test cycles, and test cycles are broken into test execution suites. A test cycle represents a phase or iteration of testing within a test plan, such as regression testing or smoke testing. A test execution suite is the smallest unit of organization, containing the individual test assignments for testers.
+In Test Management 2.0, a test plan is broken into test cycles, and test cycles are broken into test execution suites. A test cycle represents a phase or iteration of testing within a test plan, such as regression testing or smoke testing. A test execution suite is the smallest unit of organization, containing the individual test assignments for testers.
 
 Use the **Planning** tab to manage this hierarchy from a single view. For more information about key terms, see [Test Management 2.0 overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/overview-test-management2.md).
 
@@ -34,7 +34,7 @@ Use the **Planning** tab to manage this hierarchy from a single view. For more i
 
 3.  Select the **Planning** tab.
 
-4.  Add or modify [[c_TestPlans|test plans]] and test execution suites in the Test plan work item hierarchy.
+4.  Add or modify test plans and test execution suites in the Test plan work item hierarchy.
 
 <table id="choicetable_lwp_mjz_sfb"><thead><tr><th align="left" id="d296730e111">
 
@@ -96,7 +96,7 @@ Description
 
 </td></tr><tr><td id="d296730e238">
 
-**To add [[c_Tests|tests]] to a test execution suite**
+**To add tests to a test execution suite**
 
 </td><td>
 
@@ -125,7 +125,7 @@ Description
 
 
 </td></tr></tbody>
-</table>5.  View the summary or adjust the duration of a task in the [[c_GanttChart|Gantt chart]].
+</table>5.  View the summary or adjust the duration of a task in the Gantt chart.
 
 <table id="choicetable_kbs_3kz_sfb"><thead><tr><th align="left" id="d296730e313">
 
@@ -173,10 +173,3 @@ When the zoom level in calender is selected as **Auto Fit**, the Gantt view fits
 </table>
 **Parent Topic:**[Test Board in Test Management 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/test-board.md)
 
-## Related
-
-- [[form-field-information-for-dw|Forms]]
-- [[test-management2-landing-page|Test Management 2.0]]
-- [[c_TestPlans|Test plans]]
-- [[c_Tests|Tests]]
-- [[c_GanttChart|Gantt chart]]

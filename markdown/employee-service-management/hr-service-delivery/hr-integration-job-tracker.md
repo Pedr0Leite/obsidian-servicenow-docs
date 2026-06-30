@@ -125,7 +125,7 @@ Flow Execution ID
 
 </td><td>
 
-Unique identifier of the flow that is executed for integration service.**Note:** The reporting feature is turned off for the flows \(used for large integrations\) that are created for [[hr-integrations-framework|Enterprise Service Management Integrations Framework]].
+Unique identifier of the flow that is executed for integration service.**Note:** The reporting feature is turned off for the flows \(used for large integrations\) that are created for Enterprise Service Management Integrations Framework.
 
 </td></tr><tr><td>
 
@@ -137,7 +137,3 @@ Stores token returned by APIs for certain integration services.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[hr-integrations-framework|Enterprise Service Management Integrations Framework]]

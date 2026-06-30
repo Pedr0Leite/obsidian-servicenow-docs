@@ -22,7 +22,7 @@ Role required: sn\_eam.enterprise\_asset\_manager
 
 ## Procedure
 
-1.  Navigate to **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Admin center** &gt; **Model classifications** &gt; **Import**.
+1.  Navigate to **Enterprise Asset Workspace** &gt; **Admin center** &gt; **Model classifications** &gt; **Import**.
 
 2.  Select **New**.
 
@@ -32,7 +32,7 @@ Role required: sn\_eam.enterprise\_asset\_manager
 
 5.  Enter the details in the spreadsheet.
 
-    Ensure that you fill out either the Code or the Description column in the spreadsheet. Use commas to specify more than one model category in the [[model-hierarchy|Model categories]] column.
+    Ensure that you fill out either the Code or the Description column in the spreadsheet. Use commas to specify more than one model category in the Model categories column.
 
 6.  Select **Attach File** to upload the spreadsheet \(.xlsx\).
 
@@ -46,7 +46,4 @@ Role required: sn\_eam.enterprise\_asset\_manager
 
 10. Fix the error, upload the spreadsheet, and import the record again.
 
-## Related
 
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[model-hierarchy|Model categories]]

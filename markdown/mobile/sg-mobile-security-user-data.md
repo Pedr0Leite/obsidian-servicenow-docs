@@ -20,8 +20,5 @@ Any user transactions or usage within an app is tracked on the ServiceNow instan
 -   Access to camera
 -   Notifications
 
-**Parent Topic:**[[sg-mobile-security-practices|Mobile security practices]]
+**Parent Topic:**[Mobile security practices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-security-practices.md)
 
-## Related
-
-- [[sg-mobile-security-practices|Mobile security practices]]

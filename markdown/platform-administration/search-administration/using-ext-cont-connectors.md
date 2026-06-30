@@ -15,7 +15,7 @@ breadcrumb: [External Content Connectors, Search administration, Configure core 
 
 # Crawling content with External Content Connectors
 
-Search administrators can use the [[ext-cont-connectors-landing-page|External Content Connectors]] application to run one-time document and user permission crawls on demand. They can review connector-specific crawl history and analytics and details of user and group mappings retrieved from external data sources.
+Search administrators can use the External Content Connectors application to run one-time document and user permission crawls on demand. They can review connector-specific crawl history and analytics and details of user and group mappings retrieved from external data sources.
 
 To access the External Content Connectors application, navigate to **All** &gt; **External Content Connectors** &gt; **External Content Admin Home**.
 
@@ -28,13 +28,9 @@ Retrieve searchable content and metadata from your source system with a content 
 -   **[Create a user permission crawl for an external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/create-user-mapping-crawl-external-content-connector.md)**  
 Retrieve security principals from your source system with a user permission crawl. Run the crawl as a one-time task or schedule it to run on a recurring basis.
 -   **[Cancel a running external content connector crawl](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/cancel-ext-cont-connector-crawl.md)**  
-Cancel a running crawl for an external content connector to prevent the connector from retrieving and feeding additional documents or access permissions to [[ia-ai-search|AI Search]] for indexing.
+Cancel a running crawl for an external content connector to prevent the connector from retrieving and feeding additional documents or access permissions to AI Search for indexing.
 -   **[Refresh content for an external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/refresh-content-external-content-connector.md)**  
 Refresh searchable content and metadata, including unchanged items, for an external content connector by running a one-time full or partial content crawl.
 
 **Parent Topic:**[External Content Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/ext-cont-connectors-landing-page.md)
 
-## Related
-
-- [[ext-cont-connectors-landing-page|External Content Connectors]]
-- [[ia-ai-search|AI Search]]

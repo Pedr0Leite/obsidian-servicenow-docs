@@ -14,7 +14,7 @@ breadcrumb: [Floor map, Network visualization view, Use, Telecommunications Netw
 
 # Upload and manage floor map for your datacenter
 
-Create, manage, and update your datacenter map objects in the Indoor Mapping Map Studio interface. You can view the datacenter's network infrastructure in [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+Create, manage, and update your datacenter map objects in the Indoor Mapping Map Studio interface. You can view the datacenter's network infrastructure in Telecommunications Network Inventory application.
 
 ## Before you begin
 
@@ -66,7 +66,7 @@ A Indoor Mapping campus record is created with building and floor details.
 
 ## What to do next
 
-After you create your Indoor Mapping campus record, do the following to view the datacenter infrastructure in [[using-floor-map|floor map]].
+After you create your Indoor Mapping campus record, do the following to view the datacenter infrastructure in floor map.
 
 1.  [Map Indoor Mapping campus to a datacenter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/map-campus-data-center.md)
 2.  [Map a Configuration Item to a floor map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/map-ci-floor-map-location.md)
@@ -81,7 +81,3 @@ After you create your Indoor Mapping campus record, do the following to view the
 
 [bundle-emplsm.Indoor-mapping]
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[using-floor-map|Floor map]]

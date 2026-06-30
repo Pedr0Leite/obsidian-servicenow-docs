@@ -14,7 +14,7 @@ breadcrumb: [Configure, Now Assist for HR Service Delivery \(HRSD\), HR Service 
 
 # Configure manager insights for Now Assist for HRSD
 
-Configure the manager insights skill in Now Assist for HRSD to generate a summary of team data in [[manager-hub-overview|Manager Hub]].
+Configure the manager insights skill in Now Assist for HRSD to generate a summary of team data in Manager Hub.
 
 ## Before you begin
 
@@ -37,6 +37,3 @@ Role required: sn\_hr\_gen\_ai.admin
 
 **Parent Topic:**[Configure Now Assist for HR Service Delivery \(HRSD\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/configure-now-assist-hr.md)
 
-## Related
-
-- [[manager-hub-overview|Manager Hub]]

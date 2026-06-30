@@ -26,9 +26,9 @@ You can use the Microsoft Windows and SQL Server infrastructure details reports 
 
 You can use the Azure BYOL Realized Savings report to gain visibility into the potential and actual cost savings for your Microsoft SQL Server and Microsoft Windows Server deployments on Microsoft Azure when using Azure Hybrid Benefit, which is the bring your own license \(BYOL\) licensing model for Microsoft Azure.
 
-The Azure BYOL Realized Savings report is generated only if you have requested and installed the ServiceNow® [[cloud-insights-landing-page|Cloud Cost Management]] application from the ServiceNow Store. See [Cloud Cost Management application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/cloud-insights-landing-page.md) for more information on Cloud Cost Management.
+The Azure BYOL Realized Savings report is generated only if you have requested and installed the ServiceNow® Cloud Cost Management application from the ServiceNow Store. See [Cloud Cost Management application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/cloud-insights-landing-page.md) for more information on Cloud Cost Management.
 
-**Note:** This report is available only in the [[sam-workspace|Software Asset Workspace]]. This report isn’t available in the [[c_SoftwareAssetMgmt|Software Asset Management]] classic application.
+**Note:** This report is available only in the Software Asset Workspace. This report isn’t available in the Software Asset Management classic application.
 
 To view this report, launch the Software Asset Workspace by navigating to **Software Asset** &gt; **Software Asset Workspace** on your ServiceNow instance. From the Software Asset Workspace, navigate to **License usage** &gt; **Reports** &gt; **Azure BYOL Realized Savings Report**.
 
@@ -52,8 +52,3 @@ To view this report, launch the Software Asset Workspace by navigating to **Soft
 
 **Parent Topic:**[Bring your own license or subscription to the public cloud](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/byol-concepts.md)
 
-## Related
-
-- [[cloud-insights-landing-page|Cloud Cost Management]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

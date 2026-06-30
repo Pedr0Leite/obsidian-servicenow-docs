@@ -28,8 +28,6 @@ Role required: sn\_cmp.cloud\_service\_user
 
     In this example, only **Stacks** that include the search text `s` appear in the **Search results** list:
 
-    \[Omitted image "search-results.png"\] Alt text: Search results in the [[cloudmgt-cloud-user-portal|Cloud User Portal]]
+    \[Omitted image "search-results.png"\] Alt text: Search results in the Cloud User Portal
 
-## Related
 
-- [[cloudmgt-cloud-user-portal|Cloud User Portal]]

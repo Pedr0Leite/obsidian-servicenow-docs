@@ -34,11 +34,11 @@ The default input fields considered for analysis are the following:
 -   Subcategory
 -   Category
 
-You can con figure additional input fields using a [[platform-now-assist-landing|Now Assist]] Skill Config Var Set \[sn\_nowassist\_skill\_config\_var\_set\]. See the Additional configuration section for more information.
+You can con figure additional input fields using a Now Assist Skill Config Var Set \[sn\_nowassist\_skill\_config\_var\_set\]. See the Additional configuration section for more information.
 
-The agents, tools, and triggers associated with the Analyze task trends agentic workflow are provided by Now Assist applications. You can [[activate-aia-use-case|activate the agentic workflow template]] by making triggers active and setting the display settings to include the [[now-assist-center-now-assist-panel|Now Assist panel]]. If you want to change this agentic workflow's instructions, you must [[clone-aia-usecase|duplicate it]], adjust the settings to suit your specific needs, and activate the duplicated version instead.
+The agents, tools, and triggers associated with the Analyze task trends agentic workflow are provided by Now Assist applications. You can [activate the agentic workflow template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-aia-use-case.md) by making triggers active and setting the display settings to include the Now Assist panel. If you want to change this agentic workflow's instructions, you must [duplicate it](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/clone-aia-usecase.md), adjust the settings to suit your specific needs, and activate the duplicated version instead.
 
-**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [[ai-native-sku-overview|ServiceNow product tiers]].
+**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 
 ## Prerequisites and setup
 
@@ -46,7 +46,7 @@ To access this workflow, you must have Now Assist for Platform installed on your
 
 For this agentic workflow to behave as expected, you should have at least 500 records on your task table.
 
-You must also configure Group Action Framework \(GAF\). See [[group-action-framework|Group Action Framework]] for more information on what GAF is and how to set it up. The Incident, Case and HR Case tables use the default GAF records, but you can configure GAF for other task tables.
+You must also configure Group Action Framework \(GAF\). See [Group Action Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/group-action-framework.md) for more information on what GAF is and how to set it up. The Incident, Case and HR Case tables use the default GAF records, but you can configure GAF for other task tables.
 
 GAF is set up for certain Now Assist applications for you. If you want the agentic workflow to have its own system of categorization different from the main application, you can clone an existing action strategy skill and use the clone in the var set described below. This enables you to train the groupings differently for different agentic resources.
 
@@ -56,13 +56,13 @@ GAF is set up for certain Now Assist applications for you. If you want the agent
 
 Required role: sn\_uxc\_gen\_ai.platform\_ai\_analyze\_trnds.
 
-Agentic workflows and their AI agents use [[aia-role-masking|role masking]] to determine which users can access them. Ones installed with Now Assist applications have specific roles that come included with the application. If you select **Users with specific roles** for user access, you must configure the security [[controls|controls]] to include these roles. For the instructions to change the security controls, see [[define-sec-controls-aw|Define security controls for an agentic workflow]].
+Agentic workflows and their AI agents use [role masking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-role-masking.md) to determine which users can access them. Ones installed with Now Assist applications have specific roles that come included with the application. If you select **Users with specific roles** for user access, you must configure the security controls to include these roles. For the instructions to change the security controls, see [Define security controls for an agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/define-sec-controls-aw.md).
 
 In the data access settings, you must also add the necessary roles to enable reading of the tables for the records you want to access for trend analysis. For example, you can add the itil role to the agentic workflow's list of approved roles so that it can access Incident records.
 
 ## Additional configuration
 
-You can change different settings related to the agentic workflow by changing values for the Now Assist Skill Config Var Set. To access the variable set and make changes, do the following while in the [[platform-ai-agents|Platform AI Agents]] and Skills scope:
+You can change different settings related to the agentic workflow by changing values for the Now Assist Skill Config Var Set. To access the variable set and make changes, do the following while in the Platform AI Agents and Skills scope:
 
 -   Go to the Now Assist Skill Config \[sn\_nowassist\_skill\_config\] table.
 -   Open the record named **Analyze Task Trends**.
@@ -221,30 +221,30 @@ No default
 
 To access the agentic workflow:
 
-1.  Navigate to **All** &gt; **[[ai-agent-studio|AI Agent Studio]]** &gt; **Create and manage**.
+1.  Navigate to **All** &gt; **AI Agent Studio** &gt; **Create and manage**.
 2.  Select **Analyze task trends**.
 
 The first step of the guided setup includes a complete list of included AI agents. Selecting the name of an AI agent opens it in a new browser tab, where you can see the full description, role, list of steps, and tools. Tools are displayed in the second step of the AI agent guided setup, Add tools and information.
 
 ## In-product agentic AI and UI actions
 
-Agentic workflows can be accessed in the Core UI and in workspaces in the AI Activity panel. From there, you can track their progress, provide or review input, and see the results of the work performed. For more information, see [[in-product-agentic-ai|In-product agentic AI]] for more details about the AI Activity panel.
+Agentic workflows can be accessed in the Core UI and in workspaces in the AI Activity panel. From there, you can track their progress, provide or review input, and see the results of the work performed. For more information, see [In-product agentic AI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/in-product-agentic-ai.md) for more details about the AI Activity panel.
 
 To enable users to access agentic workflows with UI actions, you can open the agentic workflow in AI Agent Studio and navigate to the **Select channels and access** step. You can select a UI action as a possible way to access the workflow
 
-If you don't see your UI actions after configuring it in AI Agent Studio, ensure that the property **com.glide.agentic\_processes\_view.enabled** is set to `true`. See [[enable-inproduct-aia|Enable the in-product experience for agentic workflows]].
+If you don't see your UI actions after configuring it in AI Agent Studio, ensure that the property **com.glide.agentic\_processes\_view.enabled** is set to `true`. See [Enable the in-product experience for agentic workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/enable-inproduct-aia.md).
 
 ## Testing the Analyze task trends agentic workflow
 
-You can manually test an agentic workflow execution or access on the Testing page of AI Agent Studio if you have the sn.aia\_admin role and all other roles configured [in the security controls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/define-sec-controls-aw.md). Start a manual test, select a test type and the name of the workflow, and use utterances in the Task field like the following samples. See [[test-aia-use-case|Test an agentic workflow execution]].
+You can manually test an agentic workflow execution or access on the Testing page of AI Agent Studio if you have the sn.aia\_admin role and all other roles configured [in the security controls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/define-sec-controls-aw.md). Start a manual test, select a test type and the name of the workflow, and use utterances in the Task field like the following samples. See [Test an agentic workflow execution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/test-aia-use-case.md).
 
-If you want to evaluate the agentic workflow over many different execution logs, run an [[execute-aia-eval|automated evaluation]].
+If you want to evaluate the agentic workflow over many different execution logs, run an [automated evaluation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/execute-aia-eval.md).
 
 ## Sample utterance
 
 After the workflow has been activated in AI Agent Studio, use similar queries to the following to run the agentic workflow in the Now Assist panel. You can also run this workflow on the Testing page of AI Agent Studio with the same utterance in the Task field if you have the sn.aia\_admin role.
 
-Each utterance must include the name of the table and the time frame to analyze. If the utterance doesn't include these things, the agentic workflow [[ai-prompts|prompts]] you for more information.
+Each utterance must include the name of the table and the time frame to analyze. If the utterance doesn't include these things, the agentic workflow prompts you for more information.
 
 The time frame specified by the user can't exceed the maximum value set by the Analysis time frame configuration.
 
@@ -257,7 +257,7 @@ When invoking the agentic workflow, if you want to use additional filters, such 
 
 ## Troubleshooting
 
-When running this agentic workflow, it's possible to see an error that states "I couldn't analyze as I didn't have the required resources." This error occurs when GAF isn't configured for the table you want to analyze. See [[configure-gaf|Configure Group Action Framework]] for steps to configure GAF for the table. If you're still having issues after GAF is configured, reach out to Now Support.
+When running this agentic workflow, it's possible to see an error that states "I couldn't analyze as I didn't have the required resources." This error occurs when GAF isn't configured for the table you want to analyze. See [Configure Group Action Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-gaf.md) for steps to configure GAF for the table. If you're still having issues after GAF is configured, reach out to Now Support.
 
 ## AI agents used in the Analyze task trends agentic workflow
 
@@ -271,25 +271,5 @@ The following table lists the agents that are used in the Analyze task trends ag
 
 ## Other Platform agentic workflows
 
-For more information on other agentic workflows that are associated with the Platform workflow, see [[platform-use-cases|Platform agentic workflows]].
+For more information on other agentic workflows that are associated with the Platform workflow, see [Platform agentic workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-use-cases.md).
 
-## Related
-
-- [[activate-aia-use-case|Activate an agentic workflow template]]
-- [[clone-aia-usecase|Duplicate an agentic workflow]]
-- [[ai-native-sku-overview|ServiceNow product tiers]]
-- [[group-action-framework|Group Action Framework]]
-- [[aia-role-masking|Role masking in Now Assist AI agents]]
-- [[define-sec-controls-aw|Define security controls for an agentic workflow]]
-- [[in-product-agentic-ai|In-product experience for agentic workflows]]
-- [[enable-inproduct-aia|Enable the in-product experience for agentic workflows]]
-- [[test-aia-use-case|Manually test the execution of an agentic workflow]]
-- [[execute-aia-eval|Execute an agentic evaluation run]]
-- [[configure-gaf|Configure Group Action Framework]]
-- [[platform-use-cases|Platform agentic workflows]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[controls|Controls]]
-- [[platform-ai-agents|Platform AI agents]]
-- [[ai-agent-studio|AI Agent Studio]]
-- [[ai-prompts|Prompts]]

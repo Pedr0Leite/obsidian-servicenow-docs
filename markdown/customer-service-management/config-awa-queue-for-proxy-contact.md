@@ -12,7 +12,7 @@ breadcrumb: [AWA for CSM, Case routing and assignment, Organize agent workspaces
 
 # Configure AWA queues for the proxy contact role
 
-Modify the Advanced Work Assignment queues and add routing conditions that support the proxy contact role and the **Internal contact** field on the [[r_CustomerServiceCaseForm|Case form]].
+Modify the Advanced Work Assignment queues and add routing conditions that support the proxy contact role and the **Internal contact** field on the Case form.
 
 ## Before you begin
 
@@ -41,6 +41,4 @@ Modify the following AWA queues:
 
 7.  Click **Update**.
 
-## Related
 
-- [[r_CustomerServiceCaseForm|Case form]]

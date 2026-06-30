@@ -14,7 +14,7 @@ breadcrumb: [Install Sourcing and Procurement Operations, Configure, Sourcing an
 
 # Application plugin installation sequence in Sourcing and Procurement Operations
 
-The following table lists the [[psm-overview|Sourcing and Procurement Operations]] \(SPO\) plugins, their installation sequence, high-level descriptions, and dependencies.
+The following table lists the Sourcing and Procurement Operations \(SPO\) plugins, their installation sequence, high-level descriptions, and dependencies.
 
 **Important:** Before installing a plugin listed in the Plugin name column, ensure that you install all corresponding dependencies listed in the Plugin dependencies column from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
 
@@ -60,7 +60,7 @@ Maintains primary data such as Enterprise Resource Planning \(ERP\) sources, leg
 
 </td><td>
 
-[[erp-integration-framework|ERP Integration Framework]] \[sn\_fcms\_intg\]
+ERP Integration Framework \[sn\_fcms\_intg\]
 
 </td><td>
 
@@ -81,7 +81,7 @@ Common Service Delivery \[sn\_spend\_sdc\]
 
 </td><td>
 
-Contains Finance Case, Finance Case Line, Finance Task, and Playbook status tables, as well as other infrastructure that forms the basis of [[finance-supply-chain-workflows|Finance and Supply Chain workflows]] products.
+Contains Finance Case, Finance Case Line, Finance Task, and Playbook status tables, as well as other infrastructure that forms the basis of Finance and Supply Chain workflows products.
 
 </td><td>
 
@@ -95,11 +95,11 @@ Contains Finance Case, Finance Case Line, Finance Task, and Playbook status tabl
 
 </td><td>
 
-[[purch-order-mgmt-ws|Source-to-Pay Workspace]] \[sn\_spend\_workspace\]
+Source-to-Pay Workspace \[sn\_spend\_workspace\]
 
 </td><td>
 
-Provides a single environment for Procurement Specialists to work on purchase requisitions, sourcing requests, [[negotiations|negotiations]], procurement requests, and more.
+Provides a single environment for Procurement Specialists to work on purchase requisitions, sourcing requests, negotiations, procurement requests, and more.
 
 </td><td>
 
@@ -111,7 +111,7 @@ None
 
 </td><td>
 
-[[psd-overview|Procurement Case Management]] \[sn\_spend\_psd\]
+Procurement Case Management \[sn\_spend\_psd\]
 
 </td><td>
 
@@ -128,7 +128,7 @@ Enables all employees to request services from the procurement team, and the pro
 
 </td><td>
 
-[[universal-request|Universal Request]] for [[source-to-pay-operations-overview|Source-to-Pay Operations]] \[sn\_fsc\_ur\_common\]
+Universal Request for Source-to-Pay Operations \[sn\_fsc\_ur\_common\]
 
 </td><td>
 
@@ -167,7 +167,7 @@ Provides an architecture to store purchase orders, requisitions, sourcing reques
 
 </td><td>
 
-[[purchase-experience-workflow|Sourcing and Purchasing Automation]] \[sn\_pr\]
+Sourcing and Purchasing Automation \[sn\_pr\]
 
 </td><td>
 
@@ -176,7 +176,7 @@ Provides workflows and automation for sourcing requests, negotiations, and purch
 </td><td>
 
 -   Source-to-Pay Common Architecture
--   [[supplier-common|Supplier Common Architecture]]
+-   Supplier Common Architecture
 
 </td></tr><tr><td>
 
@@ -184,7 +184,7 @@ Provides workflows and automation for sourcing requests, negotiations, and purch
 
 </td><td>
 
-[[spo-spend-mgmt|Spend and Savings Management]] \[sn\_spend\_mgmt\]
+Spend and Savings Management \[sn\_spend\_mgmt\]
 
 </td><td>
 
@@ -200,7 +200,7 @@ Sourcing and Purchasing Automation
 
 </td><td>
 
-[[spo-sourcing-pipeline-mgmt|Sourcing Pipeline Management]] \[sn\_spend\_pipeline\]
+Sourcing Pipeline Management \[sn\_spend\_pipeline\]
 
 </td><td>
 
@@ -216,11 +216,11 @@ Spend and Savings Management
 
 </td><td>
 
-[[purchase-order-mgmt-landing-page|Purchase Order Management]] \[sn\_poem\_core\]
+Purchase Order Management \[sn\_poem\_core\]
 
 </td><td>
 
-Enables operational buyers and suppliers to flag [[purchase-order-table|purchase order]] issues and resolve them efficiently.
+Enables operational buyers and suppliers to flag purchase order issues and resolve them efficiently.
 
 </td><td>
 
@@ -232,7 +232,7 @@ Sourcing and Purchasing Automation
 
 </td><td>
 
-[[shopping-hub-overview|Shopping Hub]] \[sn\_spend\_uib\]
+Shopping Hub \[sn\_spend\_uib\]
 
 </td><td>
 
@@ -249,7 +249,7 @@ Provides a streamlined, e-commerce like experience for employees to self-service
 
 </td><td>
 
-[[shoppinghub-mobile|Shopping Hub Mobile]] \[sn\_shop\_mobile\]
+Shopping Hub Mobile \[sn\_shop\_mobile\]
 
 </td><td>
 
@@ -284,7 +284,7 @@ Provides a set of prebuilt playbooks, workflows, and experiences for employees, 
 
 </td><td>
 
-[[virtual-agent-for-psm|Virtual Agent for Sourcing and Procurement Operations]] \[sn\_shop\_va\]
+Virtual Agent for Sourcing and Procurement Operations \[sn\_shop\_va\]
 
 </td><td>
 
@@ -319,7 +319,7 @@ Provides Natural Language Understanding \(NLU\) models to enhance the virtual ag
 
 </td><td>
 
-[[source-to-pay-integration-framework|Source-to-Pay Integration Framework]] \[sn\_spend\_intg\]
+Source-to-Pay Integration Framework \[sn\_spend\_intg\]
 
 </td><td>
 
@@ -335,7 +335,7 @@ Source-to-Pay Common Architecture
 
 </td><td>
 
-[[procurement-file-transfer-framework|Procurement File Transfer Framework]] \[sn\_spend\_ftp\_intg\]
+Procurement File Transfer Framework \[sn\_spend\_ftp\_intg\]
 
 </td><td>
 
@@ -354,7 +354,7 @@ Extends the Source-to-Pay Integration Framework with Secure File Transfer Protoc
 
 </td><td>
 
-[[performance-analytics-for-spo|Performance Analytics for Sourcing and Procurement Operations]] \[sn\_spend\_pa\]
+Performance Analytics for Sourcing and Procurement Operations \[sn\_spend\_pa\]
 
 </td><td>
 
@@ -375,7 +375,7 @@ Risk Assessments Integration for Sourcing and Procurement Operations \[sn\_spend
 
 </td><td>
 
-Provides a set of capabilities to trigger risk assessments on a [[supplier|supplier]] during the sourcing or [[purchase-requisition|purchase requisition]] workflow using Third-party Risk Management.
+Provides a set of capabilities to trigger risk assessments on a supplier during the sourcing or purchase requisition workflow using Third-party Risk Management.
 
 </td><td>
 
@@ -414,7 +414,7 @@ Provides streamlined cross-team collaboration and enables legal professionals to
 </td><td>
 
 -   Sourcing and Purchasing Automation
--   ServiceNow [[contracts|Contracts]]
+-   ServiceNow Contracts
 
 </td></tr><tr><td>
 
@@ -455,7 +455,7 @@ Supports purchase order management tasks, such as converting unstructured suppli
 
 </td><td>
 
-[[now-assist-spo|Now Assist for Sourcing and Procurement Operations \(SPO\)]] \[sn\_spend\_gen\_ai\]
+Now Assist for Sourcing and Procurement Operations \(SPO\) \[sn\_spend\_gen\_ai\]
 
 </td><td>
 
@@ -473,7 +473,7 @@ Guides requesters through a conversational experience for their procurement need
 
 </td><td>
 
-[[awa-spo|Advanced Work Assignment for Source-to-Pay Operations]] \[sn\_spend\_awa\]
+Advanced Work Assignment for Source-to-Pay Operations \[sn\_spend\_awa\]
 
 </td><td>
 
@@ -482,7 +482,7 @@ Provides configurations to support automatic routing, queuing, and assignment of
 </td><td>
 
 -   Procurement Case Management
--   [[advanced-work-assignment|Advanced Work Assignment]]
+-   Advanced Work Assignment
 -   Agent Chat
 
 </td></tr><tr><td>
@@ -507,11 +507,11 @@ Source-to-Pay Common Architecture
 
 </td><td>
 
-[[master-data-integration|Primary Data Integration]] with SAP \[sn\_sap\_data\_int\]
+Primary Data Integration with SAP \[sn\_sap\_data\_int\]
 
 </td><td>
 
-Provides the ability to fetch entity data like [[legal-entity|legal entity]], [[cost-center|cost center]], material, supplier, and so on, from SAP ECC and SAP HANA into ServiceNow.
+Provides the ability to fetch entity data like legal entity, cost center, material, supplier, and so on, from SAP ECC and SAP HANA into ServiceNow.
 
 </td><td>
 
@@ -534,7 +534,7 @@ Sourcing and Procurement Operations Integration with SAP \[sn\_psm\_sap\_int\]
 
 </td><td>
 
-Provides the ability to send purchase orders, [[receipts|receipts]], and returns created in Sourcing and Procurement Operations to SAP ECC and SAP S4 HANA.
+Provides the ability to send purchase orders, receipts, and returns created in Sourcing and Procurement Operations to SAP ECC and SAP S4 HANA.
 
 </td><td>
 
@@ -578,35 +578,3 @@ Provides an integration with the Field Service Management application. With this
 
 [Properties installed with Finance Common Architecture](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/properties-for-finance-common.md)
 
-## Related
-
-- [[psm-overview|Sourcing and Procurement Operations]]
-- [[erp-integration-framework|ERP Integration Framework]]
-- [[finance-supply-chain-workflows|Finance and Supply Chain workflows]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[negotiations|Negotiations]]
-- [[psd-overview|Procurement Case Management]]
-- [[universal-request|Universal Request]]
-- [[source-to-pay-operations-overview|Source-to-Pay Operations]]
-- [[purchase-experience-workflow|Sourcing and Purchasing Automation]]
-- [[supplier-common|Supplier Common Architecture]]
-- [[spo-spend-mgmt|Spend and Savings Management]]
-- [[spo-sourcing-pipeline-mgmt|Sourcing Pipeline Management]]
-- [[purchase-order-mgmt-landing-page|Purchase Order Management]]
-- [[purchase-order-table|Purchase order]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[shoppinghub-mobile|Shopping Hub Mobile]]
-- [[virtual-agent-for-psm|Virtual Agent for Sourcing and Procurement Operations]]
-- [[source-to-pay-integration-framework|Source-to-Pay integration framework]]
-- [[procurement-file-transfer-framework|Procurement File Transfer Framework]]
-- [[performance-analytics-for-spo|Performance Analytics for Sourcing and Procurement Operations]]
-- [[supplier|Supplier]]
-- [[purchase-requisition|Purchase requisition]]
-- [[contracts|Contracts]]
-- [[now-assist-spo|Now Assist for Sourcing and Procurement Operations \(SPO\)]]
-- [[awa-spo|Advanced Work Assignment for Source-to-Pay Operations]]
-- [[advanced-work-assignment|advanced work assignment]]
-- [[master-data-integration|Primary data integration]]
-- [[legal-entity|Legal entity]]
-- [[cost-center|Cost center]]
-- [[receipts|Receipts]]

@@ -14,7 +14,7 @@ breadcrumb: [Palo Alto Networks integration, Firewall integration, TISC Security
 
 # Remove Observables from EDL
 
-Remove [[c_Observables|observables]] from an External Dynamic List \(EDL\) to stop blocking or monitoring specific observables. Use this when observables are no longer relevant or incorrectly categorized.
+Remove observables from an External Dynamic List \(EDL\) to stop blocking or monitoring specific observables. Use this when observables are no longer relevant or incorrectly categorized.
 
 ## Before you begin
 
@@ -22,9 +22,9 @@ Role required: sn\_sec\_tisc.analyst
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center**.
 
-2.  Select the **[[threat-analyst-workbench|Threat Analyst Workbench]]**.
+2.  Select the **Threat Analyst Workbench**.
 
 3.  Navigate to **Observables** &gt; **All Observables**.
 
@@ -42,8 +42,3 @@ Role required: sn\_sec\_tisc.analyst
 
 [Approve EDL entries for Palo Alto Networks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-approve-edl-entries.md)
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-analyst-workbench|Threat Analyst Workbench]]

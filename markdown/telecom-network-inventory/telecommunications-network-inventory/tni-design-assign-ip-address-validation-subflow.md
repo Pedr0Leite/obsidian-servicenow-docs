@@ -14,7 +14,7 @@ breadcrumb: [Subflows, Reference, Telecommunications Network Inventory]
 
 # Design Assign IP Address Validation subflow
 
-The TNI Design Assign IP Address Validation subflow enables you to validate the IP address records in the [[telecom-network-inventory|Telecommunications Network Inventory]] application. You can use this flow action to configure the activities in a [[telecommunications-circuit-design-resource-assignment|Design and Assign]] playbook for logical connection.
+The TNI Design Assign IP Address Validation subflow enables you to validate the IP address records in the Telecommunications Network Inventory application. You can use this flow action to configure the activities in a Design and Assign playbook for logical connection.
 
 The TNI Design Assign IP Address Validation subflow validates whether the IP address records required for the Define IP address activity have already been used or not. If the IP addresses are already used, the subflow passes the information.
 
@@ -66,7 +66,3 @@ If the IP address is already used, then the subflow passes the following message
 
 [Design Assign Number Element Validation subflow]()
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[telecommunications-circuit-design-resource-assignment|Design and assign]]

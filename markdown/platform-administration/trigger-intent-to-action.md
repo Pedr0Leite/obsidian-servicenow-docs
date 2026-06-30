@@ -18,7 +18,7 @@ Enable and configure intent to action workflow to invoke this agentic workflow f
 
 Role required: sn\_notif\_agents.notification\_ai\_admin
 
-**Important:** If intent to action has been enabled from [[actions-inbound-email|Inbound email actions]] then do not enable intent to action from triggers.
+**Important:** If intent to action has been enabled from Inbound email actions then do not enable intent to action from triggers.
 
 ## Procedure
 
@@ -42,7 +42,7 @@ Role required: sn\_notif\_agents.notification\_ai\_admin
 
     4.  Select the **Edit** button to edit the trigger.
 
-    5.  Select **[[ia-inbound-email-il|Inbound Email]]** trigger and set the desired email conditions that need to be met to run the flow.
+    5.  Select **Inbound Email** trigger and set the desired email conditions that need to be met to run the flow.
 
     6.  Select **Activate**.
 
@@ -51,10 +51,5 @@ Role required: sn\_notif\_agents.notification\_ai\_admin
 
 ## What to do next
 
-[[create-email-intent|Create email intents]]
+[Create email intents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-email-intent.md)
 
-## Related
-
-- [[create-email-intent|Create email intents]]
-- [[actions-inbound-email|Inbound email actions]]
-- [[ia-inbound-email-il|Inbound email]]

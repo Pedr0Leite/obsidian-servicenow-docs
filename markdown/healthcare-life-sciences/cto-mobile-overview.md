@@ -12,7 +12,7 @@ breadcrumb: [Explore, Care Team Mobile, Healthcare Operations, Healthcare and Li
 
 # Care Team Mobile overview
 
-The [[care-team-mobile-landing|Care Team Mobile]] landing page offers users a list of quick actions, recent updates on requests, and request tracking information.
+The Care Team Mobile landing page offers users a list of quick actions, recent updates on requests, and request tracking information.
 
 \[Omitted image "hcls-cto-mobile-overview.png"\] Alt text: Care Team Mobile overview screen.
 
@@ -48,6 +48,3 @@ The following quick actions are available directly from the Care Team landing pa
 
 **Settings** displays all setting configurations for the Care Team Mobile user experience.
 
-## Related
-
-- [[care-team-mobile-landing|Care Team Mobile]]

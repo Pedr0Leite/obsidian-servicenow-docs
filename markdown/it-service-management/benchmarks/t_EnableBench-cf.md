@@ -14,7 +14,7 @@ breadcrumb: [Configure, Benchmarks, IT Service Management]
 
 # Enable Benchmarks
 
-Enable Benchmarks by opting in to participate in [[benchmarks-landing|Benchmarks]] data collection. With Benchmarks you can compare your organization's performance with that of the recognized industry standards.
+Enable Benchmarks by opting in to participate in Benchmarks data collection. With Benchmarks you can compare your organization's performance with that of the recognized industry standards.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_bm\_client.benchmark\_admin
 
 ## About this task
 
-**Note:** You must install the [Success Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/install-success-dashboard.md) and [Strategic Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/it-business-management-bu-level.md) [[dex-workspace-application-tab|applications]] to access the respective Benchmarks KPIs. For information on these KPIs, see [[c_BenchKPIConfig-cf|Benchmark KPIs]].
+**Note:** You must install the [Success Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/install-success-dashboard.md) and [Strategic Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/it-business-management-bu-level.md) applications to access the respective Benchmarks KPIs. For information on these KPIs, see Benchmark KPIs.
 
 Once you have manually opted into Benchmarks, enable and configure benchmark KPIs. From the Benchmarks dashboard, you can view the Benchmarks KPI data, performance trends, and indicator scorecards.
 
@@ -78,8 +78,3 @@ Go to **Benchmarks** &gt; **Setup**.
 
 Enable and configure your KPIs.
 
-## Related
-
-- [[benchmarks-landing|Benchmarks]]
-- [[dex-workspace-application-tab|Applications]]
-- [[c_BenchKPIConfig-cf|Benchmark KPIs]]

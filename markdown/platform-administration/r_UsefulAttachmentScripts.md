@@ -90,7 +90,7 @@ function hasAttachment(answer){
   if(task.next()){
     task.u_has_attachment= answer;
     task.autoSysFields(false);  //Don't set the lastUpdatedTime or the Simultaneous Update Alert will likely get triggered
-    task.setWorkflow(false);  //Don't allow other business rules to run, otherwise multiple [[notifications|notifications]] will likely be sent
+    task.setWorkflow(false);  //Don't allow other business rules to run, otherwise multiple notifications will likely be sent
     task.update();
   }
 }
@@ -120,12 +120,12 @@ function printattachments(){
 
 ## Attachment Logging
 
-Whenever a user downloads an attachment, the action writes an attachment.read event record to the event log. If desired, you can process these events with a Script Action or an Email Notification. This can be useful if you want to do something when an attachment is read. For example, you can record when and by whom certain attachments are downloaded. For this functionality, the current variable must point to a sys\_attachment record, and the event record must use the following [[r_DirectJDBCProbeParameters|parameters]]:
+Whenever a user downloads an attachment, the action writes an attachment.read event record to the event log. If desired, you can process these events with a Script Action or an Email Notification. This can be useful if you want to do something when an attachment is read. For example, you can record when and by whom certain attachments are downloaded. For this functionality, the current variable must point to a sys\_attachment record, and the event record must use the following parameters:
 
 -   parm1: File name
 -   parm2: Table name
 
-**Parent Topic:**[[c_ScriptingForEmailNotifications|Scripting for email notifications]]
+**Parent Topic:**[Scripting for email notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ScriptingForEmailNotifications.md)
 
 **Related topics**  
 
@@ -136,8 +136,3 @@ Whenever a user downloads an attachment, the action writes an attachment.read ev
 
 [Example scripting for email notifications]()
 
-## Related
-
-- [[c_ScriptingForEmailNotifications|Scripting for email notifications]]
-- [[notifications|Notifications]]
-- [[r_DirectJDBCProbeParameters|Parameters]]

@@ -14,7 +14,7 @@ breadcrumb: [Set up a NameID policy for SAML, Service Provider \(SP\) system pro
 
 # Determine what User table field matches the NameID token
 
-[[identity-landing|Identity]] providers specify what format the `NameID` token has.
+Identity providers specify what format the `NameID` token has.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
 ## About this task
 
-Setting up [[c_SAML2.0WebBrowserSSOProfile|SAML]] 2.0 requires selecting a field from the User table that matches the format of the `NameID` token. Typically, IdPs offer the option to use an [[email|email]] address as the `NameID` token. Since the User table contains an email field, this field is a logical choice for use as a `NameID` token. To use another field from the User table as the `NameID` token, first verify that the IdP offers a `NameID` format that matches the value of a User table field. This may require adding the field to the User table.
+Setting up SAML 2.0 requires selecting a field from the User table that matches the format of the `NameID` token. Typically, IdPs offer the option to use an email address as the `NameID` token. Since the User table contains an email field, this field is a logical choice for use as a `NameID` token. To use another field from the User table as the `NameID` token, first verify that the IdP offers a `NameID` format that matches the value of a User table field. This may require adding the field to the User table.
 
 ## Procedure
 
@@ -34,8 +34,4 @@ Setting up [[c_SAML2.0WebBrowserSSOProfile|SAML]] 2.0 requires selecting a field
 
     By default, the integration uses the email field.
 
-## Related
 
-- [[identity-landing|Identity]]
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[email|Email]]

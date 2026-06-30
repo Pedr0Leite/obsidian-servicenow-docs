@@ -14,7 +14,7 @@ breadcrumb: [Example widgets, Widget library, Using portal widgets, Configuring 
 
 # Form widget
 
-The form widget is a platform form within the [[c_ServicePortal|Service Portal]] UI with a few differences. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
+The form widget is a platform form within the Service Portal UI with a few differences. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 
 \[Omitted image "WidgetForm.png"\] Alt text: Form widget in the shape of the portal form
 
@@ -63,7 +63,7 @@ View used to display the record.
 
 ## Scripting
 
-Not all client scripts are supported in the Service Portal. To understand how client scripts interact with [[form-configurable-workspace|forms]] in the Service Portal, see [Service Portal and client scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/unsupported_client_scripts.md) and [Supported client script types and APIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/client-script-reference.md).
+Not all client scripts are supported in the Service Portal. To understand how client scripts interact with forms in the Service Portal, see [Service Portal and client scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/unsupported_client_scripts.md) and [Supported client script types and APIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/client-script-reference.md).
 
 **Parent Topic:**[Example widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sp-example-widgets.md)
 
@@ -76,7 +76,3 @@ Not all client scripts are supported in the Service Portal. To understand how cl
 
 [Clone a widget]()
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[form-configurable-workspace|Forms]]

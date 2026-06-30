@@ -14,7 +14,7 @@ breadcrumb: [Configure, Manager Hub, HR Service Delivery, Employee Service Manag
 
 # RCA approvals for Manager Hub
 
-After you install [[manager-hub-overview|Manager Hub]], you might encounter Restricted Caller Access \(RCA\) approval messages requesting for an update in the access request.
+After you install Manager Hub, you might encounter Restricted Caller Access \(RCA\) approval messages requesting for an update in the access request.
 
 ## Before you begin
 
@@ -36,7 +36,7 @@ After you install [[manager-hub-overview|Manager Hub]], you might encounter Rest
 
 5.  Click **Run Script** to allow all the requested RCAs.
 
-    **Note:** The fix script can approve the RCAs that exist at the time of execution. After running the RCA script, if you install new plugins, such as Human Resources Scoped App \[com.sn\_hr\_core\], Human Resources: Integrations \[sb\_hr\_integration\], [[journey-accelerator-1|Journey Accelerator]] \[sn\_ja\], [[jny-dsgnr-landing-page-1|Journey Designer]] \[sn\_jny\], and Document Template \[sn\_doc\], rerun the RCA script to approve the new RCAs.
+    **Note:** The fix script can approve the RCAs that exist at the time of execution. After running the RCA script, if you install new plugins, such as Human Resources Scoped App \[com.sn\_hr\_core\], Human Resources: Integrations \[sb\_hr\_integration\], Journey Accelerator \[sn\_ja\], Journey Designer \[sn\_jny\], and Document Template \[sn\_doc\], rerun the RCA script to approve the new RCAs.
 
 
 **Parent Topic:**[Configure Manager Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/set-up-managerhub.md)
@@ -64,8 +64,3 @@ After you install [[manager-hub-overview|Manager Hub]], you might encounter Rest
 
 [Configure widgets]()
 
-## Related
-
-- [[manager-hub-overview|Manager Hub]]
-- [[journey-accelerator-1|Journey Accelerator]]
-- [[jny-dsgnr-landing-page-1|Journey designer]]

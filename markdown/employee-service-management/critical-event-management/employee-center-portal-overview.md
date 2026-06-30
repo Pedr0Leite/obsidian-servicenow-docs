@@ -14,9 +14,9 @@ breadcrumb: [Exploring, Critical Event Management, Health and Safety, Employee S
 
 # Employee portal
 
-All employees in an organization can access the Employee portal using the [[critical-event-management|Critical Event Management]] application.
+All employees in an organization can access the Employee portal using the Critical Event Management application.
 
-To access the employee portal, log in to the [[employee-center-landing-page|employee center]] and navigate to **[[health-safety-overview|Health and Safety]]** &gt; **Workplace Emergency**. All employees are assigned the sn\_critical.user role automatically. This role enables the employee to report an emergency and [[view-emergency-procedures-steps|view emergency procedures]].
+To access the employee portal, log in to the employee center and navigate to **Health and Safety** &gt; **Workplace Emergency**. All employees are assigned the sn\_critical.user role automatically. This role enables the employee to report an emergency and view emergency procedures.
 
 To learn about reporting an emergency as an employee, see [Report a critical event as an employee](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/report-a-critical-event-as-an-employee.md).
 
@@ -38,9 +38,4 @@ The Policies and Procedures page includes the following sections:
 
     Guidelines on when and how to submit an emergency request based on the organization's criteria.
 
-## Related
 
-- [[critical-event-management|Critical Event Management]]
-- [[employee-center-landing-page|Employee Center]]
-- [[health-safety-overview|Health and Safety]]
-- [[view-emergency-procedures-steps|View emergency procedures]]

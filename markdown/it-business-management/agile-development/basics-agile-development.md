@@ -14,7 +14,7 @@ breadcrumb: [Exploring Agile Development 2.0, Agile Development 2.0, Agile Devel
 
 # Basics of Agile Development
 
-Scrum is one of the popular methodologies of [[agile-development|Agile Development]], which includes a fixed sprint schedule and regular requirements testing. These activities are performed by common roles such as product owner, scrum master, and group members. Learn about the basics of Agile Development process.
+Scrum is one of the popular methodologies of Agile Development, which includes a fixed sprint schedule and regular requirements testing. These activities are performed by common roles such as product owner, scrum master, and group members. Learn about the basics of Agile Development process.
 
 ## Scrum framework
 
@@ -22,7 +22,7 @@ Familiarize yourself with the terminology and artifacts used in Agile Developmen
 
 -   **Assignment group or Agile team**
 
-    Group of users who are involved in working on and completing the development for an Agile product. In [[agile-landing-page|Agile Development 2.0]], this team is called as an assignment group.
+    Group of users who are involved in working on and completing the development for an Agile product. In Agile Development 2.0, this team is called as an assignment group.
 
     In an assignment group, a user is designated as the scrum master, who is responsible to ensure that all the scrum activities are properly performed for a release. For more information, see [Assignment groups in Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/manage-groups-agile-dev.md).
 
@@ -78,7 +78,7 @@ Familiarize yourself with the terminology and artifacts used in Agile Developmen
 
     Defects can be used to report and track the resolution of issues that are noticed during the development of a new feature, or as a feedback for existing features. Product owners then review these defects and decides on creating stories for them, which are assigned to the relevant assignment groups.
 
-    Using the [[unified-backlog|Agile Development — Unified Backlog]], you can set up a triage board to maintain a centralized backlog for records of different task types, such as defects, stories, and enhancements. For more information, see [Agile Development — Unified Backlog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/unified-backlog.md).
+    Using the Agile Development — Unified Backlog, you can set up a triage board to maintain a centralized backlog for records of different task types, such as defects, stories, and enhancements. For more information, see [Agile Development — Unified Backlog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/unified-backlog.md).
 
 -   **[Enhancements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/enhancement-requests.md)**
 
@@ -114,15 +114,9 @@ The Scrum process usually consists of the following activities.
 
 ## Scrum reports
 
-Scrum reports help you analyze the performance and progress of your agile team. These reports can be related to an epic, sprint or release, and provide historical data of your team's work velocity. [[pa-content-pack-for-agile-2.0|Performance Analytics Content Pack for Agile 2.0]] provides pre-configured dashboards with data visualizations to help you improve your Agile practices.
+Scrum reports help you analyze the performance and progress of your agile team. These reports can be related to an epic, sprint or release, and provide historical data of your team's work velocity. Performance Analytics Content Pack for Agile 2.0 provides pre-configured dashboards with data visualizations to help you improve your Agile practices.
 
 For more information, see [Performance Analytics Content Pack for Agile 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/pa-content-pack-for-agile-2.0.md).
 
 **Parent Topic:**[Exploring Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/exploring-agile-development-2.md)
 
-## Related
-
-- [[agile-development|Agile Development]]
-- [[agile-landing-page|Agile Development 2.0]]
-- [[unified-backlog|Agile Development — Unified Backlog]]
-- [[pa-content-pack-for-agile-2.0|Performance Analytics Content Pack for Agile 2.0]]

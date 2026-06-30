@@ -22,11 +22,11 @@ As a product catalog admin or manager, you can create a bundle offer for the fol
 -   A top-level offer with several offers in multiple levels that can have a product specification reference at any level.
 -   A top-level offer with two or three levels of nesting, where the leaf-level product offer references a specification hierarchy.
 
-When offer bundles that have a specification reference at different levels are added to a quote or an order, the appropriate transaction lines are generated with specification references and product offer references. If fulfillment is done in ServiceNow [[explore-order-management|Order Management]], the applicable domain orders are generated and records for sold products and product inventory are created or updated.
+When offer bundles that have a specification reference at different levels are added to a quote or an order, the appropriate transaction lines are generated with specification references and product offer references. If fulfillment is done in ServiceNow Order Management, the applicable domain orders are generated and records for sold products and product inventory are created or updated.
 
 ## Characteristics inherited from product specifications
 
-When you [[som-create-product-offering|create a product offering]] and reference a product specification hierarchy, you can select an option called **Copy child specification characteristics**. When you select this option, the product offer inherits all the characteristics from the specification or specification hierarchy. For example, if a product offer has an associated product specification, the characteristics are inherited from the child specifications in addition to the parent specification. The attributes from parent specification are always inherited by the product offer.
+When you [create a product offering](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-create-product-offering.md) and reference a product specification hierarchy, you can select an option called **Copy child specification characteristics**. When you select this option, the product offer inherits all the characteristics from the specification or specification hierarchy. For example, if a product offer has an associated product specification, the characteristics are inherited from the child specifications in addition to the parent specification. The attributes from parent specification are always inherited by the product offer.
 
 You can also do the following when you create a bundle product offering:
 
@@ -38,13 +38,7 @@ To learn more about product offerings, see [Create product offerings](https://ra
 **Related topics**  
 
 
-[[using-product-catalog|Using product catalogs]]
+[Using product catalogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-product-catalog.md)
 
-[[product-catalog-managment|Product Catalog Management]]
+[Product Catalog Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/product-catalog-managment.md)
 
-## Related
-
-- [[som-create-product-offering|Create product offerings]]
-- [[using-product-catalog|Using product catalogs]]
-- [[product-catalog-managment|Product Catalog Management]]
-- [[explore-order-management|Order management]]

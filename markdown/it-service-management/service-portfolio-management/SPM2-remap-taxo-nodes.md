@@ -36,7 +36,7 @@ When you move taxonomy nodes from one portfolio to another, all its associated c
     -   Refresh the Taxonomy Node list to see the updated portfolio display in the Service portfolio column.
 3.  Verify the change in the DPM Workspace.
 
-    -   Navigate to the [[dpm-enterprise-portfolios|Enterprise portfolios]] in the DPM Workspace.
+    -   Navigate to the Enterprise portfolios in the DPM Workspace.
     -   Find the portfolio that you added the taxonomy nodes to.
     -   Verify that the taxonomy nodes were added as well as their child nodes, services, and service offerings.
     **Important:** Service portfolios contain the Performance snapshot key performance indicator \(KPI\) values. If the KPI data is set to "latest score," the new node takes a day to reflect the updated KPI data. For more information, see [KPI groups in Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-configure-kpi.md).
@@ -44,6 +44,3 @@ When you move taxonomy nodes from one portfolio to another, all its associated c
 
 **Parent Topic:**[Edit and manage service portfolios in Service Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-edit-manage-portfolios.md)
 
-## Related
-
-- [[dpm-enterprise-portfolios|Enterprise portfolios]]

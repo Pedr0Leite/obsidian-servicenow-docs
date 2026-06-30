@@ -14,7 +14,7 @@ breadcrumb: [Developing custom widgets, Service Portal, Configure UIs and portal
 
 # Replace a Service Catalog form script with a widget
 
-You can use widgets in [[c_ServicePortal|Service Portal]] to replace UI Macros. If your Service Catalog form includes a UI Macro that references other fields or variables on the form, you can create a widget to hold reusable code and embed it within the Service Catalog form. Use special syntax to access any variable fields on the form.
+You can use widgets in Service Portal to replace UI Macros. If your Service Catalog form includes a UI Macro that references other fields or variables on the form, you can create a widget to hold reusable code and embed it within the Service Catalog form. Use special syntax to access any variable fields on the form.
 
 ## Before you begin
 
@@ -22,15 +22,15 @@ Role required: admin or sp\_admin
 
 ## Procedure
 
-1.  Create a widget that performs the action you would like to use in catalog item [[form-configurable-workspace|forms]].
+1.  Create a widget that performs the action you would like to use in catalog item forms.
 
     See step 7 for a simple example widget that accesses another variable on the form.
 
 2.  Open a catalog item that previously used a UI Macro or other reusable component not supported in Service Portal.
 
-3.  In [[c_RelatedLists|related lists]], add a new variable to the catalog item.
+3.  In related lists, add a new variable to the catalog item.
 
-4.  [[configure-onboarding-modals|Configure]] the variable form to add the **Widget** field.
+4.  Configure the variable form to add the **Widget** field.
 
 5.  In the **Type** field, select **Macro**.
 
@@ -76,9 +76,3 @@ Role required: admin or sp\_admin
 
 **Parent Topic:**[Developing custom widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/widget-dev-guide.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[form-configurable-workspace|Forms]]
-- [[c_RelatedLists|Related lists]]
-- [[configure-onboarding-modals|Configure]]

@@ -28,7 +28,7 @@ Role required: sn\_lg\_ops.request\_fulfiller
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Legal Request** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
 2.  Select the List icon \(\[Omitted image "lsd-lcc-list-icon.png"\] Alt text: List icon\).
 
@@ -111,6 +111,3 @@ Any comments that would be helpful in relation to the transfer of the legal requ
 
 **Parent Topic:**[Work on a legal request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/work-on-legal-request.md)
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]

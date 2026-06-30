@@ -32,7 +32,7 @@ To create a new data source:
 
 2.  Select the LDAP server to configure.
 
-3.  In the **LDAP OU Definitions** related list, select an item, such as **Groups** or **[[users|Users]]**.
+3.  In the **LDAP OU Definitions** related list, select an item, such as **Groups** or **Users**.
 
 4.  In the **Data Sources** related list, click **New**.
 
@@ -49,6 +49,4 @@ To create a new data source:
     |Type|Select **LDAP** to indicate the imported data is LDAP data. After you select the type **LDAP**, the form displays the **LDAP target** field.|
     |LDAP target|Select the LDAP OU definition associated with this data source.|
 
-## Related
 
-- [[users|Users]]

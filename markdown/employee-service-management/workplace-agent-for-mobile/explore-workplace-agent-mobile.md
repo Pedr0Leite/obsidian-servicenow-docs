@@ -14,9 +14,9 @@ breadcrumb: [Workplace Agent for mobile, Workplace Service Delivery, Employee Se
 
 # Explore Workplace Agent for mobile
 
-Manage all your workplace cases and tasks on the go using the Agent [[workplace-services|Workplace Services]] for Mobile application on the ServiceNow Agent mobile application. As a workplace agent, the application enables you to view, manage, and create workplace cases using your mobile device instead of a desktop or a laptop.
+Manage all your workplace cases and tasks on the go using the Agent Workplace Services for Mobile application on the ServiceNow Agent mobile application. As a workplace agent, the application enables you to view, manage, and create workplace cases using your mobile device instead of a desktop or a laptop.
 
-The [[workplace-agent-mobile-feat|Workplace Agent for mobile]] application on the ServiceNow Agent mobile application enables you to work on the workplace cases created in the [[workplace-service-delivery-apps|Workplace Service Delivery applications]]. You can manage and create workplace cases, case tasks, move tasks, and maintenance tasks using the application.
+The Workplace Agent for mobile application on the ServiceNow Agent mobile application enables you to work on the workplace cases created in the Workplace Service Delivery applications. You can manage and create workplace cases, case tasks, move tasks, and maintenance tasks using the application.
 
 \[Omitted image "wsdagentmob-home.png"\] Alt text: My Work view.
 
@@ -40,8 +40,3 @@ As a workplace agent, the application enables you to perform the following actio
 
 For more information about the Workplace Agent for mobile application features, refer to [Workplace Agent for mobile - Key features, actions, and case details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/workplace-agent-mob-key-features-workstats-casedetailspage.md)
 
-## Related
-
-- [[workplace-services|Workplace Services]]
-- [[workplace-agent-mobile-feat|Workplace Agent for mobile]]
-- [[workplace-service-delivery-apps|Workplace Service Delivery applications]]

@@ -15,13 +15,13 @@ breadcrumb: [Use agentic AI in IT Service Management, Now Assist for IT Service 
 
 # Agentic AI in the Change Management application
 
-Use the ITSM [[c_ITILChangeManagement|change management]] agentic workflows to manage and complete tasks autonomously in the Change Management application.
+Use the ITSM change management agentic workflows to manage and complete tasks autonomously in the Change Management application.
 
 **Important:**
 
-To access the change request agentic workflows, make sure that you install the following [[dex-workspace-application-tab|applications]]:
+To access the change request agentic workflows, make sure that you install the following applications:
 
-1.  [[now-assist-itsm|Now Assist for IT Service Management \(ITSM\)]] \(sn\_itsm\_gen\_ai\) plugin.
+1.  Now Assist for IT Service Management \(ITSM\) \(sn\_itsm\_gen\_ai\) plugin.
 2.  Change Management application. For more information, see [Configuring Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/configure-change-management.md).
 
 **Note:**
@@ -33,7 +33,7 @@ To access the change request agentic workflows, make sure that you install the f
 
 |Agentic workflow name|Description|Available AI agents|
 |---------------------|-----------|-------------------|
-|Assess conflicts for a change request|Runs [[c_ConflictDetection|conflict detection]] for change requests and assesses conflicts, identifies affected CIs and impacted services|Change conflict assessor AI agent|
+|Assess conflicts for a change request|Runs conflict detection for change requests and assesses conflicts, identifies affected CIs and impacted services|Change conflict assessor AI agent|
 |Assess quality of a Change Request|Assesses information quality for new change requests by analyzing closed change requests with matching descriptions.|Change quality assessor AI agent|
 |Explain SLA|Provides insight into priority SLAs, task assignment, and frequency of pause and resume events of SLA for an incident, problem, case, or change request.|Explain SLA|
 |Schedule a change|Schedule change requests by identifying the available schedule slots.|Schedule Change Request AI agent|
@@ -42,9 +42,3 @@ To access the change request agentic workflows, make sure that you install the f
 |Create standard change request|Creates a standard, normal, or emergency change request in a conversational way.|Standard change template recommender AI agent|
 |Create standard change template proposal|Creates a change template proposal record based on similar change requests.|Standard change template proposal AI agent|
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]
-- [[dex-workspace-application-tab|Applications]]
-- [[now-assist-itsm|Now Assist for IT Service Management \(ITSM\)]]
-- [[c_ConflictDetection|Conflict detection]]

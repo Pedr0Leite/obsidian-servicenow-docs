@@ -16,9 +16,9 @@ breadcrumb: [Additional features, AWS, Service Graph Connectors, Integrating thi
 
 Manage the data source failure when importing resources from AWS.
 
-When importing large AWS resources, the data sources in the [[cmdb-integration-aws-sg|Service Graph Connector for AWS]] might fail because of a Direct REST response exceeding the 1024-MB limit. For more information, see [REST step](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/rest-request-action-designer.md).
+When importing large AWS resources, the data sources in the Service Graph Connector for AWS might fail because of a Direct REST response exceeding the 1024-MB limit. For more information, see [REST step](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/rest-request-action-designer.md).
 
-You can save the response as an [[attachment|attachment]] to handle the REST response size limitation error in the Service Graph Connector for AWS.
+You can save the response as an attachment to handle the REST response size limitation error in the Service Graph Connector for AWS.
 
 ## Save the response as an attachment
 
@@ -26,7 +26,3 @@ With the save response as an attachment feature, the response of each data sourc
 
 As a user with the admin role, you can deactivate the save response as an attachment feature by setting the **sn\_aws\_integ.save\_payload\_as\_attachment** property to `false`. When the feature is deactivated and the response size is within the limit, the data sources run normally.
 
-## Related
-
-- [[cmdb-integration-aws-sg|Service Graph Connector for AWS]]
-- [[attachment|Attachment]]

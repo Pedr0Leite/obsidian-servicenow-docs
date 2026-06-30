@@ -14,7 +14,7 @@ breadcrumb: [Event Management Operator Tutorial, Using Event Management, Event M
 
 # Application services for Event Management operators
 
-As an [[c_EM|Event Management]] operator, you need to understand what application services are.
+As an Event Management operator, you need to understand what application services are.
 
 This is the second lesson in the Event Management tutorial.
 
@@ -80,7 +80,7 @@ In this example, you can see a Web Portal application service with these CIs:
 -   **PS ORA01**: A database server that both Linux servers need to access.
 -   **Storage Area Network 001**: A mass storage device on which the other CIs depend.
 
-You can see service maps like this on the [[workspace-dashboard-use|Service Operations Workspace]] dashboard. Later in this tutorial, you will learn about the dashboard and what an application service looks like when an alert is associated with a CI.
+You can see service maps like this on the Service Operations Workspace dashboard. Later in this tutorial, you will learn about the dashboard and what an application service looks like when an alert is associated with a CI.
 
 ## Types of application services
 
@@ -115,7 +115,3 @@ Proceed to the next lesson: [Event Management operator environment](https://raw.
 
 **Parent Topic:**[Event Management Operator Tutorial](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-guide-em.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

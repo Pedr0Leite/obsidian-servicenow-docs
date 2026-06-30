@@ -20,9 +20,9 @@ This video provides an alternative way of troubleshooting pattern-related errors
 
 ## Before you begin
 
-Verify that the mapping error is caused by an inaccurate pattern by checking the [[r-discovery|discovery]] message. If the message says "Failed to recognize application", the error is pattern-related.
+Verify that the mapping error is caused by an inaccurate pattern by checking the discovery message. If the message says "Failed to recognize application", the error is pattern-related.
 
-You need to be familiar with the Pattern Designer module of [[c_ServiceMappingOverview|Service Mapping]].
+You need to be familiar with the Pattern Designer module of Service Mapping.
 
 Role required: admin and service\_mapping\_admin
 
@@ -90,12 +90,7 @@ You can identify problematic steps in your pattern and fix them without reviewin
 **Related topics**  
 
 
-[Fix errors in individual application services [[using-discovery|using discovery]] messages]()
+[Fix errors in individual application services using discovery messages]()
 
 [Skip errors to continue discovering an application service]()
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[using-discovery|Using Discovery]]

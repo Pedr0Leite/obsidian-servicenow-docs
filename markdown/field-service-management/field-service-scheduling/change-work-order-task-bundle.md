@@ -22,7 +22,7 @@ Role required: wm\_dispatcher
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Field Service** &gt; **Dispatching** &gt; **[[dispatcher-activities|Dispatcher Workspace]]**.
+1.  Navigate to **All** &gt; **Field Service** &gt; **Dispatching** &gt; **Dispatcher Workspace**.
 
 2.  In the left panel, select the **List** icon \(\[Omitted image "lists\_icon.png"\] Alt text: List icon.\).
 
@@ -32,11 +32,8 @@ Role required: wm\_dispatcher
 
 5.  Make your desired changes.
 
-    See [[work-order-task-bundling-fields|Field Service Task Bundling fields]] for information on the fields that you can change.
+    See [Field Service Task Bundling fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-task-bundling-fields.md) for information on the fields that you can change.
 
 6.  Select **Save**.
 
-## Related
 
-- [[work-order-task-bundling-fields|Field Service Task Bundling fields]]
-- [[dispatcher-activities|Dispatcher Workspace]]

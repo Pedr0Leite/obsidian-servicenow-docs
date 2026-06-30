@@ -32,7 +32,7 @@ The ServiceNow® Incident Communications Management application enables organiza
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about Incident Communications Management components such as roles and dependent [[dex-workspace-application-tab|applications]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/reference-section-for-incident-management.md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about Incident Communications Management components such as roles and dependent applications.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/reference-section-for-incident-management.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -41,6 +41,3 @@ The ServiceNow® Incident Communications Management application enables organiza
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]

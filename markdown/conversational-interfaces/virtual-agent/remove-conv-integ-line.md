@@ -14,7 +14,7 @@ breadcrumb: [Configure, Conversational Integration with LINE, Integrate VA with 
 
 # Remove Conversational Integration with LINE
 
-Users can remove the [[messg-line|Conversational Integration with LINE]] application when the app is no longer needed.
+Users can remove the Conversational Integration with LINE application when the app is no longer needed.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Go to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Channels and Integrations**.
+1.  Go to **All** &gt; **Conversational Interfaces** &gt; **Channels and Integrations**.
 
 2.  On the LINE integration section, click **Manage**.
 
@@ -36,7 +36,4 @@ Role required: admin
 
     The Facebook Messenger application and all of its data is removed.
 
-## Related
 
-- [[messg-line|Conversational Integration with LINE]]
-- [[convint-landing-page|Conversational Interfaces]]

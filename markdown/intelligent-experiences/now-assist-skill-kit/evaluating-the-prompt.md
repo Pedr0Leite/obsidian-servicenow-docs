@@ -18,7 +18,7 @@ Evaluating the prompt is an ongoing process that occurs during and after prompt 
 
 ## Prompt evaluation overview
 
-To determine the effectiveness of your prompt, you should evaluate batches of test data. You should copy the model-generated responses and perform evaluations outside of [[now-assist-skill-kit-landing|Now Assist Skill Kit]].
+To determine the effectiveness of your prompt, you should evaluate batches of test data. You should copy the model-generated responses and perform evaluations outside of Now Assist Skill Kit.
 
 ## During prompt development
 
@@ -36,7 +36,7 @@ Selecting the right metrics for evaluation is an important consideration. The fo
 
 -   Classification-based assessment of short generations
 
-    This approach requires labeled records, and it works best when the labels are short, well-defined “right answers,” for example, true or false, multiple-choice, or category selection. In these [[cases|cases]], the model outputs can usually be parsed and formatted, then metrics like precision, recall, F1 scores, and so on can be directly calculated.
+    This approach requires labeled records, and it works best when the labels are short, well-defined “right answers,” for example, true or false, multiple-choice, or category selection. In these cases, the model outputs can usually be parsed and formatted, then metrics like precision, recall, F1 scores, and so on can be directly calculated.
 
 -   Assessment of longer generations
 
@@ -60,7 +60,4 @@ Selecting the right metrics for evaluation is an important consideration. The fo
 
     **Note:** It’s useful to score these properties on a scale, like 1-5, rather than with yes or no.
 
-## Related
 
-- [[now-assist-skill-kit-landing|Now Assist Skill Kit]]
-- [[cases|Cases]]

@@ -15,11 +15,11 @@ breadcrumb: [Configure agentic workflow, Configure, Now Assist for Legal Service
 
 # Add fields to the semantic index for legal records
 
-Add the description, short description, and legal category field to the semantic index record to be indexed for a semantic search in the [[now-assist-lsd-landing|Now Assist for Legal Service Delivery \(LSD\)]] application. During AI Search, the legal records are retrieved based on the description, short description, and legal category fields that are added in the semantic index.
+Add the description, short description, and legal category field to the semantic index record to be indexed for a semantic search in the Now Assist for Legal Service Delivery \(LSD\) application. During AI Search, the legal records are retrieved based on the description, short description, and legal category fields that are added in the semantic index.
 
 ## Before you begin
 
-Set the application scope to **[[legal-counsel-center-landing|Legal Counsel Center]]** in the application picker. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
+Set the application scope to **Legal Counsel Center** in the application picker. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
 
 Role required: admin
 
@@ -41,7 +41,7 @@ These semantic index settings specify how AI Search indexes the content from the
 
 6.  Select **New**.
 
-7.  In the application picker, set the application scope to **[[legal-request-management-landing-page|Legal Request Management]]**.
+7.  In the application picker, set the application scope to **Legal Request Management**.
 
 8.  On the form, fill in the fields.
 
@@ -117,8 +117,3 @@ The description, short description, and legal category fields are indexed for th
 
 \[Omitted image "adding-fields-semantic-index-record.png"\] Alt text: Add the description, short description, and legal category field for the semantic search.
 
-## Related
-
-- [[now-assist-lsd-landing|Now Assist for Legal Service Delivery \(LSD\)]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[legal-request-management-landing-page|Legal Request Management]]

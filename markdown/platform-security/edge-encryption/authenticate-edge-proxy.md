@@ -14,7 +14,7 @@ breadcrumb: [Installing Edge Encryption, Edge Encryption, Encryption]
 
 # Authenticate an Edge Encryption proxy server
 
-Specify that a proxy server is a trusted source so that [[edge-encryption|Edge Encryption]] can process requests coming from that proxy server.
+Specify that a proxy server is a trusted source so that Edge Encryption can process requests coming from that proxy server.
 
 ## Before you begin
 
@@ -27,13 +27,13 @@ Please navigate to the matching Proxy record on your ServiceNow instance and aut
 
 If you attempt to access the proxy, you receive the following message: `This site can't be reached`.
 
-To maintain the proxy in an operational state during the upgrade process, [[c_Authentication|authentication]] is not required until after the proxy update is successful.
+To maintain the proxy in an operational state during the upgrade process, authentication is not required until after the proxy update is successful.
 
 Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Edge Encryption [[sc-configuration|Configuration]]** &gt; **Proxies**.
+1.  Navigate to **All** &gt; **Edge Encryption Configuration** &gt; **Proxies**.
 
 2.  Select the proxy and click **Authenticate**.
 
@@ -46,8 +46,3 @@ The proxy moves from **Unauthenticated** to **Pending** to **Authenticated**. Th
 
 **Parent Topic:**[Installing Edge Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/c_InstallEdgeEncryptionProxy.md)
 
-## Related
-
-- [[edge-encryption|Edge Encryption]]
-- [[c_Authentication|Authentication]]
-- [[sc-configuration|Configuration]]

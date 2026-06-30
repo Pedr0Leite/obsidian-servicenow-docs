@@ -15,13 +15,13 @@ breadcrumb: [Build and deploy, Virtual Agent, Conversational Interfaces]
 
 # Exploring other Virtual Agent features
 
-After creating topics with the basic [[virtual-agent-landing-page|Virtual Agent]] Designer controls and scripting, you can also enhance conversation functionality and topic maintenance by using additional Virtual Agent features.
+After creating topics with the basic Virtual Agent Designer controls and scripting, you can also enhance conversation functionality and topic maintenance by using additional Virtual Agent features.
 
 After learning the basics, here are some other Virtual Agent features that may help you improve your authoring and end-user experience.
 
 -   **[Deploy Virtual Agent in other channels](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-integrations.md)**
 
-    By default, Virtual Agent runs in a chat widget, but you can also run it in other channels. While some features may not be available in certain channels \(such as the [[va-carousel-input|carousel user input control]]\), you can customize your conversation flow to accommodate these differences.
+    By default, Virtual Agent runs in a chat widget, but you can also run it in other channels. While some features may not be available in certain channels \(such as the carousel user input control\), you can customize your conversation flow to accommodate these differences.
 
 -   **[Use link unfurling in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-link-unfurling.md)**
 
@@ -86,7 +86,3 @@ The workflows of ServiceNow® Workflow Studio can be integrated within ServiceNo
 
 **Parent Topic:**[Building and deploying Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/using-virtual-agent.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[va-carousel-input|Carousel user input control]]

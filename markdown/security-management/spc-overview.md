@@ -12,11 +12,11 @@ breadcrumb: [Security Posture Control, Security Operations]
 
 # Exploring Security Posture Control
 
-[[spc-landing|Security Posture Control]] enables cybersecurity teams to get visibility into their complete enterprise asset inventory and determine their overall security posture.
+Security Posture Control enables cybersecurity teams to get visibility into their complete enterprise asset inventory and determine their overall security posture.
 
-Security analysts gain insights into how well security [[tools|tools]] are deployed and covering their assets based on their asset inventory and imported data from service graph connectors and ServiceNow products such as Hardware Asset Management \(HAM\) and ITOM Discovery.
+Security analysts gain insights into how well security tools are deployed and covering their assets based on their asset inventory and imported data from service graph connectors and ServiceNow products such as Hardware Asset Management \(HAM\) and ITOM Discovery.
 
-Security analysts can also create custom policies and configure insights to monitor the compliance of assets with internal security standards. Vulnerability managers can use insights from Security Posture Control \(SPC\) to prioritize remediation of [[vulnerabilities|vulnerabilities]] on high-risk assets.
+Security analysts can also create custom policies and configure insights to monitor the compliance of assets with internal security standards. Vulnerability managers can use insights from Security Posture Control \(SPC\) to prioritize remediation of vulnerabilities on high-risk assets.
 
 The SPC product is based on Cloud Security Posture Management \(CSPM\) and Cyber Asset Hygiene Management \(CAHM\). Security Posture Control consists of two applications that are available by separate subscription from the ServiceNow® Store.
 
@@ -59,9 +59,9 @@ With the SPC product, Info-Sec teams can perform the following tasks:
 
 -   View security posture insights for your on-premise and cloud assets. SPC helps your Info-Sec teams identify assets that are missing endpoint protection, unmanaged assets, assets exposed to the internet, and any high-risk combinations involving vulnerabilities.
 -   Monitor your assets for their compliance with internal security tool configuration standards. For example, ensure that the latest version of an endpoint protection product is being used.
--   Automate your remediation workflow for the security posture gaps you find with the ServiceNow [[vr-config-compliance-landing|Configuration Compliance]] application.
+-   Automate your remediation workflow for the security posture gaps you find with the ServiceNow Configuration Compliance application.
 -   Create custom policies and insights based on asset metadata, security tool coverage data, and vulnerability data.
--   Gain insight into which threats to your assets are mitigated by available mitigation controls based on how various security tools are configured with [[spc-mitigation-exploring|Mitigation Controls Monitoring]].
+-   Gain insight into which threats to your assets are mitigated by available mitigation controls based on how various security tools are configured with [Mitigation Controls Monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-mitigation-exploring.md).
 
 ## How Asset Security Posture Management works
 
@@ -71,7 +71,7 @@ Asset Security Posture Management \(ASPM\) identifies security tool coverage gap
 
 ASPM relies on data populated in your CMDB about your assets. The asset data is imported by various categories of monitoring tools and compared to identify any potential security gaps.
 
-For example, say there is asset data populated in the CMDB that is reported by tools that cover [[threat-intelligence-infrastructure|infrastructure]] monitoring and networking tools. However, this data for those same assets is not populated or reported by endpoint protection tools. If you compare the asset data reported by these different tools you can see that there are assets missing an endpoint protection agent.
+For example, say there is asset data populated in the CMDB that is reported by tools that cover infrastructure monitoring and networking tools. However, this data for those same assets is not populated or reported by endpoint protection tools. If you compare the asset data reported by these different tools you can see that there are assets missing an endpoint protection agent.
 
 Asset Security Posture Management identifies security tool coverage gaps in assets by using API integrations with various tools \(Service Graph Connectors\) and ServiceNow products. Categories include but are not limited to the following:
 
@@ -105,18 +105,9 @@ Identifying security tool gaps involves the following steps:
 
 With Asset Security Posture Management, you can also identify assets that have high-risk combinations. An example of a high-risk combination might show assets that are missing security tools, have critical vulnerabilities, and are exposed to the internet.
 
-Some of the policies shipped with the Security Posture Control application look for these high-risk combinations of critical vulnerabilities and security tool coverage gaps. However, for these combination policies to work, you must have the [[vuln-landing-page|Vulnerability Response]] application and at least one vulnerability scanner integration product such as Qualys, Rapid7, or the Tenable Vulnerability Integration application installed. These applications are available with separate subscriptions from the ServiceNow Store.
+Some of the policies shipped with the Security Posture Control application look for these high-risk combinations of critical vulnerabilities and security tool coverage gaps. However, for these combination policies to work, you must have the Vulnerability Response application and at least one vulnerability scanner integration product such as Qualys, Rapid7, or the Tenable Vulnerability Integration application installed. These applications are available with separate subscriptions from the ServiceNow Store.
 
 ## Mitigation Controls Monitoring
 
 From within in the Security Posture Control \(SPC\) Workspace, gain insight into which threats to your assets are mitigated by available mitigation controls based on how various security tools are configured. See [Mitigation Controls Monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-mitigation-exploring.md) for more information.
 
-## Related
-
-- [[spc-mitigation-exploring|Using mitigation controls monitoring with Security Posture Control]]
-- [[spc-landing|Security Posture Control]]
-- [[tools|Tools]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[vr-config-compliance-landing|Configuration Compliance]]
-- [[threat-intelligence-infrastructure|Infrastructure]]
-- [[vuln-landing-page|Vulnerability Response]]

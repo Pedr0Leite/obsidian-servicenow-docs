@@ -14,7 +14,7 @@ breadcrumb: [Tutorial: Use Location Filter criteria, Location Filter, Filter cri
 
 # Use Location Filter in Pre Authentication Context
 
-Use the [[location-filter|location filter]] criteria created in the [[pre-auth-context|Pre Authentication Context]].
+Use the location filter criteria created in the Pre Authentication Context.
 
 ## Before you begin
 
@@ -22,13 +22,13 @@ Role required: adaptive\_auth\_admin
 
 Plugin required: **Zero Trust - Location Based Access** \(`com.snc.zero_trust_location_access`\).
 
-Create a Location Filter with the countries that you want restrict access to the [[users|users]] based on the location. For more information, see [Create Location filter criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/create-location-filter-criteria.md).
+Create a Location Filter with the countries that you want restrict access to the users based on the location. For more information, see [Create Location filter criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/create-location-filter-criteria.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[adaptive-authentication|Adaptive Authentication]]** &gt; **Auth Policy Context** &gt; **Pre Authentication Context**.
+1.  Navigate to **All** &gt; **Adaptive Authentication** &gt; **Auth Policy Context** &gt; **Pre Authentication Context**.
 
-    When a policy is chosen in the pre [[c_Authentication|authentication]] policy context:
+    When a policy is chosen in the pre authentication policy context:
 
     -   Selecting the Deny access policy as the default policy allows the access to all users by default and only denies access when the policy conditions defined in the deny access policy evaluate to true.
     -   Selecting the Allow access policy as the default policy denies the access to all users by default and only allows access when the policy conditions defined in the allow access policy evaluates to true.
@@ -66,10 +66,4 @@ Create a Location Filter with the countries that you want restrict access to the
 
     The users selecting the instance link and logging from the configured countries will be displayed an error message about the access denial \(error message configured by their administrators on the policy properties page\).
 
-## Related
 
-- [[location-filter|Location Filter]]
-- [[pre-auth-context|Pre authentication context]]
-- [[users|Users]]
-- [[adaptive-authentication|Adaptive authentication]]
-- [[c_Authentication|Authentication]]

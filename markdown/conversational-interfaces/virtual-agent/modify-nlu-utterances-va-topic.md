@@ -15,7 +15,7 @@ breadcrumb: [Creating a Virtual Agent topic, Getting started with Virtual Agent 
 
 # Modify NLU utterances and entities for a Virtual Agent topic
 
-View, test, and modify NLU utterances for a [[virtual-agent-landing-page|Virtual Agent]] topic on the **NLU Intent** tab in Virtual Agent Designer.
+View, test, and modify NLU utterances for a Virtual Agent topic on the **NLU Intent** tab in Virtual Agent Designer.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Role required: virtual\_agent\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Virtual Agent** &gt; **Designer**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Designer**.
 
 2.  Set the topic discovery type toggle switch to **NLU/Keyword**.
 
@@ -51,7 +51,3 @@ After making changes, you can [train, test, and publish the model](https://raw.g
 
 **Parent Topic:**[Creating a Virtual Agent topic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-virtual-agent-topic.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]

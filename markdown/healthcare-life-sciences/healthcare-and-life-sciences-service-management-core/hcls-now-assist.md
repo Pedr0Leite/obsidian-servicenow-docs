@@ -16,7 +16,7 @@ breadcrumb: [Manage healthcare requests in Workspace, Healthcare and Life Scienc
 
 Generate a case summary and quickly understand the case context by using the case summarization skill in Now Assist.
 
-The [[hcls-core-app|Healthcare and Life Sciences Service Management Core]] application leverages the generative AI capabilities of Now Assist from Customer Service Management to provide case summarization within Workspace.
+The Healthcare and Life Sciences Service Management Core application leverages the generative AI capabilities of Now Assist from Customer Service Management to provide case summarization within Workspace.
 
 Case summarization provides you with a concise summary of any type of HCLS case which includes the case issue, actions taken, and resolution details. This skill allows you to do the following:
 
@@ -53,6 +53,3 @@ For more information on using this capability, see [Summarize a case by using No
 
 For information on how to configure Now Assist to use the case summarixation skill, see [Configuring Now Assist for Customer Service Management \(CSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-csm-configuring.md).
 
-## Related
-
-- [[hcls-core-app|Healthcare and Life Sciences Service Management Core]]

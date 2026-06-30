@@ -24,13 +24,13 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
 1.  Log in to the instance as a user with the admin role.
 
-2.  Navigate to **[[c_SAML2.0WebBrowserSSOProfile|SAML]] 2 Single Sign-on** &gt; **Properties**.
+2.  Navigate to **SAML 2 Single Sign-on** &gt; **Properties**.
 
-3.  In the property Enable external [[c_Authentication|authentication]], select **Yes**.
+3.  In the property Enable external authentication, select **Yes**.
 
     **Note:**
 
-    Enabling external authentication requires all [[users|users]] to use SAML 2.0 single sign-on. If anyone tries to access the application in an unauthenticated state, the instance automatically sends an authentication [[c_requestAPI|request]] to the \(IdP\) and redirects the user to the SAML IdP Authentication page.
+    Enabling external authentication requires all users to use SAML 2.0 single sign-on. If anyone tries to access the application in an unauthenticated state, the instance automatically sends an authentication request to the \(IdP\) and redirects the user to the SAML IdP Authentication page.
 
 4.  Click **Save**.
 
@@ -46,9 +46,3 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
 [Multi-SSO \(SAML 2.0\) errors and fixes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/saml-errors.md)
 
-## Related
-
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[c_Authentication|Authentication]]
-- [[users|Users]]
-- [[c_requestAPI|request]]

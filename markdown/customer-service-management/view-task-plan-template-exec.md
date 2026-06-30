@@ -12,7 +12,7 @@ breadcrumb: [Task Plan Templates, Case management, Organize agent workspaces, Co
 
 # View task plan template executions
 
-View tracking and diagnostic information for every execution of [[task-plan-templates|task plan templates]] in the Task Plan Template Executions table. The information available includes success, failure, and skipped details, along with references for traceability.
+View tracking and diagnostic information for every execution of task plan templates in the Task Plan Template Executions table. The information available includes success, failure, and skipped details, along with references for traceability.
 
 ## Before you begin
 
@@ -112,7 +112,7 @@ RequestNumber: TPEX00001
 
  The `ParentRecord` key represents the top-level parent record\(s\) within the newly created hierarchy. It may either represent a singular Glide Record \(record existing in the database\) that was provided, or an array holding the first level of records created from ROOT template items. Root template items are template items without any parent \(top-level\).
 
- The `RequestNumber` key [[gamification-components-points|points]] back to the `Number` of the Task Plan Template Execution record.
+ The `RequestNumber` key points back to the `Number` of the Task Plan Template Execution record.
 
  If there are skipped records or errored records, then the Template Item number of the skipped/errored item is provided. The following is an example where both 'Skipped' and 'Errored' template items were encountered during task plan execution:
 
@@ -128,8 +128,3 @@ Errors: ['TP0008']
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[task-plan-templates|Task Plan Templates]]
-- [[gamification-components-points|Points]]

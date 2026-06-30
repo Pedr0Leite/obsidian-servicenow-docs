@@ -14,7 +14,7 @@ breadcrumb: [Configure, Industrial Process Manager, Operational Technology]
 
 # View and edit OT system properties
 
-View and edit all of the [[operational-technology-overview|Operational Technology]] \(OT\) related system properties for different applications.
+View and edit all of the Operational Technology \(OT\) related system properties for different applications.
 
 ## Before you begin
 
@@ -25,13 +25,13 @@ Role required: admin or cmdb\_ot\_isa\_admin
 You can modify the system properties for the following OT applications from **All OT Properties** module on the ServiceNow AI Platform.
 
 -   IT Discovery for OT Networks
--   [[industrial-process-manager-overview|Industrial Process Manager]]
+-   Industrial Process Manager
 -   ISA Equipment Model
--   [[operational-technology-manager|Operational Technology Manager]]
--   [[operational-technology-incident-management-landing-page|Operational Technology Incident Management]]
--   [[operational-technology-knowledge-management-landing-page|Operational Technology Knowledge Management]]
--   [[operational-technology-change-management-landing-page|Operational Technology Change Management]]
--   [[industrial-workspace-for-operational-technology|Industrial Workspace]] Common
+-   Operational Technology Manager
+-   Operational Technology Incident Management
+-   Operational Technology Knowledge Management
+-   Operational Technology Change Management
+-   Industrial Workspace Common
 
 ## Procedure
 
@@ -46,12 +46,3 @@ You can modify the system properties for the following OT applications from **Al
 
 **Parent Topic:**[Configuring the Industrial Process Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/configuring-manufacturing-process-mgr.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-process-manager-overview|Industrial Process Manager]]
-- [[operational-technology-manager|Operational Technology Manager]]
-- [[operational-technology-incident-management-landing-page|Operational Technology Incident Management]]
-- [[operational-technology-knowledge-management-landing-page|Operational Technology Knowledge Management]]
-- [[operational-technology-change-management-landing-page|Operational Technology Change Management]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

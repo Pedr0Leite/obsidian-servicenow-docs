@@ -14,7 +14,7 @@ breadcrumb: [Hiring tasks, Use, Recruitment Workspace, Hiring Experiences, HR Se
 
 # Create tasks
 
-Create tasks for your applicants or internal stakeholders within the [[recruitment-workspace-concept|Recruitment workspace]] and assign it to the respective personas.
+Create tasks for your applicants or internal stakeholders within the Recruitment workspace and assign it to the respective personas.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
     For more information on mapping task types with different tasks, see [Map task types in Recruitment workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/config-task-mapping.md).
 
-5.  On the [[applicant-task-form|Applicant task form]], fill in the fields.
+5.  On the Applicant task form, fill in the fields.
 
     For a description of the field values, see [Applicant task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/applicant-task-form.md).
 
@@ -47,7 +47,3 @@ View the new task from the **Lists** view of an application page in a job requis
 
 **Parent Topic:**[Hiring tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/applicant-tasks-recruitr.md)
 
-## Related
-
-- [[recruitment-workspace-concept|Recruitment workspace]]
-- [[applicant-task-form|Applicant task form]]

@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Project Workspace, Project Workspace ref
 
 # Create new document template form
 
-Learn about the fields on the Create new document template form of the [[project-workspace-landing-page|Project Workspace]]. Use this form to create a new status report template according to your requirement.
+Learn about the fields on the Create new document template form of the Project Workspace. Use this form to create a new status report template according to your requirement.
 
 |Field|Description|
 |-----|-----------|
@@ -34,6 +34,3 @@ Learn about the fields on the Create new document template form of the [[project
 
 [Create a status report template in Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/create-a-status-report-template-project-workspace.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]

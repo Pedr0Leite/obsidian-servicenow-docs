@@ -18,9 +18,9 @@ Push message content specifies additional JSON content in the push notification 
 
 Complete the following:
 
-1.  [[t_ActivatePushNotifications|Activate push notifications]]
-2.  \(iOS only\) [[upload-push-cert|Upload a push certificate to your instance]]
-3.  [[t_CreateAMobileApplication|Create a push application record for your custom app]]
+1.  [Activate push notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivatePushNotifications.md)
+2.  \(iOS only\) [Upload a push certificate to your instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upload-push-cert.md)
+3.  [Create a push application record for your custom app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAMobileApplication.md)
 
 You must know how to use JSON with push messages.
 
@@ -34,7 +34,7 @@ Push message content defines the style of push notification that can be sent out
 
 -   `current`: properties of the current record.
 -   `message`: push message sent as the body of the entire push content.
--   `attributes`: object of the push message [[t_CreateAPushMessageAttribute|attributes that you define]].
+-   `attributes`: object of the push message [attributes that you define](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAPushMessageAttribute.md).
 
 ## Procedure
 
@@ -42,7 +42,7 @@ Push message content defines the style of push notification that can be sent out
 
 2.  In the Push Notification Message Contents table, click **New**.
 
-3.  Fill out the fields on the [[c_PushNotifications|Push Notifications]] Message Content form \(see table\).
+3.  Fill out the fields on the Push Notifications Message Content form \(see table\).
 
 4.  Click **Submit**.
 
@@ -54,7 +54,7 @@ Push message content defines the style of push notification that can be sent out
     |Push app|The push application the content can be used with.|
     |Push Message Generation|Enter a script that determines the message content. See the example scripts.|
     |Related list|
-    |Push Message Attribute Definitions|Select the attributes that apply to this notification. Attributes can be a value or an action. These attributes are used as default values for the content items you create in the content script. However, any attributes you create with the [[t_CreateAPushMessage|push message]] can override these attributes. See [Create a push message attribute definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAPushMessageAttribute.md) for information on creating attributes.|
+    |Push Message Attribute Definitions|Select the attributes that apply to this notification. Attributes can be a value or an action. These attributes are used as default values for the content items you create in the content script. However, any attributes you create with the [push message](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAPushMessage.md) can override these attributes. See [Create a push message attribute definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAPushMessageAttribute.md) for information on creating attributes.|
 
 
 ## Example
@@ -71,7 +71,7 @@ var json = {
     "button1" : { 
       "title" : "Approve", 
       "action" : attributes.button_action, 
-      "[[r_DirectJDBCProbeParameters|parameters]]" : { 
+      "parameters" : { 
         "response" : "approve" 
        } 
      }, 
@@ -90,12 +90,3 @@ json;
 
 [Define a push message attribute](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAPushMessageAttribute.md) to specify a default push action script or string that you can use in the push message content.
 
-## Related
-
-- [[t_ActivatePushNotifications|Activate push notifications]]
-- [[upload-push-cert|Upload a push certificate to your instance]]
-- [[t_CreateAMobileApplication|Create a push application record for your custom app]]
-- [[t_CreateAPushMessageAttribute|Create a push message attribute definition]]
-- [[t_CreateAPushMessage|Create a push message]]
-- [[c_PushNotifications|Push notifications]]
-- [[r_DirectJDBCProbeParameters|Parameters]]

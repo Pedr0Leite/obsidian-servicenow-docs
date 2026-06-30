@@ -14,7 +14,7 @@ breadcrumb: [Form field information, Reference, Next Experience for Demand Manag
 
 # Create action form
 
-The [[action-form|action form]] information is used to create an action for a demand.
+The action form information is used to create an action for a demand.
 
 <table id="table_irz_1dp_c3c"><thead><tr><th>
 
@@ -132,7 +132,3 @@ Information about the action. Add work notes to communicate about the status of 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[action-form|Action form]]

@@ -13,7 +13,7 @@ breadcrumb: [Using the asset inventory, Use, Now Assist Center, Enable AI experi
 
 # Create an AI asset in the asset inventory
 
-Use the asset library to create [[ai-assets|AI assets]] in your instance.
+Use the asset library to create AI assets in your instance.
 
 ## Before you begin
 
@@ -27,17 +27,17 @@ From the asset inventory, asset types are created by opening their respective ap
 
 -   Create agents and agentic workflows with AI Agent Studio.
 
-    For more information, see [[ai-agent-studio|AI Agent Studio]].
+    For more information, see [AI Agent Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-agent-studio.md).
 
 -   Create Virtual Agent assets with Virtual Agent Assistant Designer, including topics, virtual assistants, subflows, and actions.
 
     For more information, see .
 
--   Create custom skills with [[now-assist-skill-kit-landing|Now Assist Skill Kit]].
+-   Create custom skills with Now Assist Skill Kit.
 
     For more information, see [Now Assist Skill Kit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/now-assist-skill-kit-landing.md).
 
--   Create [[ai-datasets|datasets]] with [[now-assist-data-kit-landing|Now Assist Data Kit]].
+-   Create datasets with Now Assist Data Kit.
 
     For more information, see [Now Assist Data Kit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-data-kit/now-assist-data-kit-landing.md).
 
@@ -45,16 +45,16 @@ From the asset inventory, asset types are created by opening their respective ap
 
     For more information, see [Catalog Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/catalog-builder.md).
 
--   Create knowledge graphs with [[knowledge-graph-landing|Knowledge Graph]] Designer.
+-   Create knowledge graphs with Knowledge Graph Designer.
 
     For more information, see [Knowledge Graph](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/knowledge-graph-landing.md).
 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[now-assist-center-landing-page|Now Assist Center]]** or **Workspaces** &gt; **Now Assist Center**.
+1.  Navigate to **All** &gt; **Now Assist Center** or **Workspaces** &gt; **Now Assist Center**.
 
-2.  Select **Asset inventory** \(\[Omitted image "icon-now-assist-center-nav-assets.png"\] Alt text: Asset inventory icon.\) in the [[now-assist-center-side-navigation-bar|side navigation bar]].
+2.  Select **Asset inventory** \(\[Omitted image "icon-now-assist-center-nav-assets.png"\] Alt text: Asset inventory icon.\) in the side navigation bar.
 
     The Asset inventory tab opens.
 
@@ -82,7 +82,7 @@ Opens the New AI Agent form in AI Agent Studio.
 
  An AI agent is an autonomous digital worker that uses LLMs, tools, and workflows to complete tasks on behalf of users. They can reason, plan, and act independently or collaboratively.
 
- For more information on creating an AI agent in AI Agent Studio, see [[configure-next-best-action-agent|Create an AI agent]].
+ For more information on creating an AI agent in AI Agent Studio, see [Create an AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-next-best-action-agent.md).
 
 </td></tr><tr><td>
 
@@ -94,7 +94,7 @@ Opens the New agentic workflow form in AI Agent Studio.
 
  An agentic workflow is a structured sequence of tasks executed by one or more AI agents with minimal human intervention to fulfill a business objective.
 
- For more information on AI Agent Studio, see [[configure-use-case-ai-agents|Create an agentic workflow]].
+ For more information on AI Agent Studio, see [Create an agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-use-case-ai-agents.md).
 
 </td></tr><tr><td>
 
@@ -102,7 +102,7 @@ Custom skill
 
 </td><td>
 
-Opens the Now Assist Skill Kit [[now-assist-center-home-page|home page]].
+Opens the Now Assist Skill Kit home page.
 
  A skill is a self-contained unit of generative AI functionality that runs a prompt against a large language model \(LLM\) and returns a response.
 
@@ -182,7 +182,7 @@ Opens a **Create data asset** box.
 
 Opens the Create dataset form in Now Assist Data Kit.
 
--   **[[na-data-kit-generate-data|Generate synthetic data]]**
+-   **Generate synthetic data**
 
 Opens the Now Assist Data Kit home page.
 
@@ -214,25 +214,10 @@ Opens Knowledge Graph Designer home page.
 
 An asset is created and can be seen in the related asset inventory list.
 
-**Parent Topic:**[[now-assist-center-using-asset-inventory|Using the asset inventory in Now Assist Center]]
+**Parent Topic:**[Using the asset inventory in Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-using-asset-inventory.md)
 
 **Related topics**  
 
 
 [View your AI assets in the asset inventory]()
 
-## Related
-
-- [[ai-agent-studio|AI Agent Studio]]
-- [[configure-next-best-action-agent|Create an AI agent]]
-- [[configure-use-case-ai-agents|Create an agentic workflow]]
-- [[now-assist-center-using-asset-inventory|Using the asset inventory in Now Assist Center]]
-- [[ai-assets|AI assets]]
-- [[now-assist-skill-kit-landing|Now Assist Skill Kit]]
-- [[ai-datasets|Datasets]]
-- [[now-assist-data-kit-landing|Now Assist Data Kit]]
-- [[knowledge-graph-landing|Knowledge Graph]]
-- [[now-assist-center-landing-page|Now Assist Center]]
-- [[now-assist-center-side-navigation-bar|Side navigation bar]]
-- [[now-assist-center-home-page|Home page]]
-- [[na-data-kit-generate-data|Generate synthetic data]]

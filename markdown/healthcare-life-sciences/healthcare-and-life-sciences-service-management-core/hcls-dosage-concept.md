@@ -36,7 +36,7 @@ A dosage characteristic defines the attributes of a dosage specification.
 
 A dosage characteristic has the following features:
 
--   Is included in the **Dosage characteristics** characteristic group and a characteristic group mapped to a field in the Dosage details section of a [[hcls-med-prescription-form|medication prescription form]].
+-   Is included in the **Dosage characteristics** characteristic group and a characteristic group mapped to a field in the Dosage details section of a medication prescription form.
 -   Can include a characteristic option to restrict the characteristic value. For example, to restrict the quantity of dosage. Else, when a characteristic option isn't specified for a dosage characteristic, a healthcare representative can later fill the corresponding field value in the Dosage details section of the Medication Prescription form.
 -   Is unique for a characteristic group when multiple entries for a characteristic are created. For example, when a dosage specification includes quantity characteristic as quantity per month supply, you can't add another characteristic for the quantity per week supply.
 -   Similar dosage characteristics are stored in the Characteristic Group \[sn\_prd\_pm\_configuration\] table.
@@ -54,13 +54,9 @@ A dosage characteristic group comprises the similar characteristics of a dosage 
 
 You map a dosage characteristic group with a field in the Dosage details section of the Medication Prescription form. You can use the `DosageCharacteristicsMapper` extension point to configure the mapping between a characteristic group and a field in the Dosage details section of the Medication Prescription form. For more information, see [Configure the mapping between a dosage characteristic and a dosage details field](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-ext-point-dosage-char-map.md).
 
-By default, the application provides a few sample characteristics and characteristic groups for the [[hcls-overview|Healthcare and Life Sciences]] workflows that you can as a reference when creating a dosage specification.
+By default, the application provides a few sample characteristics and characteristic groups for the Healthcare and Life Sciences workflows that you can as a reference when creating a dosage specification.
 
 The following figure illustrates the default mapping between characteristics and characteristic groups of a dosage specification, and the mapping between characteristic group of a dosage specification and dosage details fields of a medication prescription.
 
 \[Omitted image "hcls-characteristics.png"\] Alt text: Infographic displaying default mapping of characteristics, characteristic groups, and the dosage details of a medication prescription.
 
-## Related
-
-- [[hcls-med-prescription-form|Medication Prescription form]]
-- [[hcls-overview|Healthcare and Life Sciences]]

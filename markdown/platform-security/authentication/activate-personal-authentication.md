@@ -14,7 +14,7 @@ breadcrumb: [Personal authentication, Authentication, Access Management]
 
 # Activate Personal Authentication Dashboard
 
-You can activate the [[personal-authentication|Personal Authentication]] plugin \(com.snc.sn\_ihub\_personal\_auth\) for Integration Hub if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can activate the Personal Authentication plugin \(com.snc.sn\_ihub\_personal\_auth\) for Integration Hub if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -36,9 +36,9 @@ The following items are installed with Integration Hub:
 
 1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
-2.  Find the Personal Authentication plugin \(com.snc.sn\_ihub\_personal\_auth\) using the [[adaptive-auth-filter-criteria|filter criteria]] and search bar.
+2.  Find the Personal Authentication plugin \(com.snc.sn\_ihub\_personal\_auth\) using the filter criteria and search bar.
 
-    You can search for the plugin by its name or ID. If you cannot find a plugin, you might have to [[c_requestAPI|request]] it from ServiceNow personnel.
+    You can search for the plugin by its name or ID. If you cannot find a plugin, you might have to request it from ServiceNow personnel.
 
 3.  Select **Install** to start the installation process.
 
@@ -46,8 +46,4 @@ The following items are installed with Integration Hub:
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
-## Related
 
-- [[personal-authentication|Personal Authentication]]
-- [[adaptive-auth-filter-criteria|Filter criteria]]
-- [[c_requestAPI|request]]

@@ -14,7 +14,7 @@ breadcrumb: [Managing mobile experience for GRC Policy and Compliance, Policy an
 
 # Assign Policy and Compliance Management indicator tasks with the GRC Mobile application
 
-Assign unassigned [[r_PolicyComplianceMgmt|Policy and Compliance Management]] indicator tasks to a member of your assignment group. An indicator task is related to a Control record that is assigned to your compliance group.
+Assign unassigned Policy and Compliance Management indicator tasks to a member of your assignment group. An indicator task is related to a Control record that is assigned to your compliance group.
 
 ## Before you begin
 
@@ -107,6 +107,3 @@ On the bottom of the screen, choose one to continue.-   Tap the Policy and Compl
 </table>
 **Parent Topic:**[Managing mobile experience for GRC Policy and Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/mobile-policy_compliance-ovrvw.md)
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

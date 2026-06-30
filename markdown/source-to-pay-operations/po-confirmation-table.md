@@ -12,7 +12,7 @@ breadcrumb: [Master data tables for Purchase Order Management, Reference, Purcha
 
 # Purchase Order Confirmation table
 
-[[purchase-order-table|Purchase order]] confirmations are [[supplier|supplier]]-generated transactions that acknowledge a buyer's order and communicate the supplier's ability to fulfill it as specified.
+Purchase order confirmations are supplier-generated transactions that acknowledge a buyer's order and communicate the supplier's ability to fulfill it as specified.
 
 ## sn\_poem\_po\_confirmation table
 
@@ -20,7 +20,7 @@ The Purchase Order Confirmation \[sn\_poem\_po\_confirmation\] table contains th
 
 |Field|Data type|Description|
 |-----|---------|-----------|
-|Created by|String|The [[supplier-contact|supplier contact]] who created this purchase order confirmation record.|
+|Created by|String|The supplier contact who created this purchase order confirmation record.|
 |Purchase order|Reference|Reference to the purchase order associated with this confirmation.|
 |Confirmation source|Choice|Indicates how the confirmation was received, such as manually entered, imported from an ERP, or submitted by the supplier.|
 |Number|String|Auto-generated unique identifier for this PO confirmation record.|
@@ -34,11 +34,5 @@ The Purchase Order Confirmation \[sn\_poem\_po\_confirmation\] table contains th
 |Updated|Date/Time|Date and time when this record was last modified.|
 |Status|Choice|Indicates the current stage of the confirmation record. Possible values are Draft or Submitted.|
 
-**Parent Topic:**[[master-data-tables-for-pom|Master data tables for Purchase Order Management]]
+**Parent Topic:**[Master data tables for Purchase Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/master-data-tables-for-pom.md)
 
-## Related
-
-- [[master-data-tables-for-pom|Master data tables for Purchase Order Management]]
-- [[purchase-order-table|Purchase order]]
-- [[supplier|Supplier]]
-- [[supplier-contact|Supplier contact]]

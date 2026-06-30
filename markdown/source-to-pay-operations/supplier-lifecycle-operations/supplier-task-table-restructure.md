@@ -14,7 +14,7 @@ breadcrumb: [Supplier Relationship and Performance Management reference, Referen
 
 # Restructured Supplier Task table
 
-The [[supplier|Supplier]] Task table architecture has been restructured in the Washington DC and Yokohama releases.
+The Supplier Task table architecture has been restructured in the Washington DC and Yokohama releases.
 
 In releases before the Washington DC release, the Supplier Task \[sn\_slm\_task\] table extended the Task \[task\] table.
 
@@ -37,6 +37,3 @@ After you upgrade to the Yokohama release, a new field **KPI Instruction** is ad
 
 [Enable deprecated case types after upgrade](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/enable-deprecated-case-types.md)
 
-## Related
-
-- [[supplier|Supplier]]

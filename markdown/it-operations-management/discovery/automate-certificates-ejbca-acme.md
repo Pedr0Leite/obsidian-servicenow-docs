@@ -14,7 +14,7 @@ breadcrumb: [Automated Certificate Management Environment, Certificate Inventory
 
 # ACME integration with KeyFactor EJBCA for automated flows
 
-Automate the flow of requesting, renewing, and revoking your certificates by integrating Keyfactor EJBCA with the [[automated-certificate-management-environment_0|Automated Certificate Management Environment]] \(ACME\).
+Automate the flow of requesting, renewing, and revoking your certificates by integrating Keyfactor EJBCA with the Automated Certificate Management Environment \(ACME\).
 
 Keyfactor EJBCA is a certificate authority that issues your certificates. ACME are a set of protocols and rules that give you a secure environment to use an automated flow of managing certificates.
 
@@ -34,6 +34,3 @@ Perform the following task to use EJBCA ACME to automate your certificate life c
 2.  [Configure your base API URL for EJBCA ACME](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/configure-base-api-url-for-ejbca-acme.md)
 3.  [Validate your EJBCA ACME base API URL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/validate-ejbca-acme-base-api-url.md)
 
-## Related
-
-- [[automated-certificate-management-environment_0|Automated Certificate Management Environment]]

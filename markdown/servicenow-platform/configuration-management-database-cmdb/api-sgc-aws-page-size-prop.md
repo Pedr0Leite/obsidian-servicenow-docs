@@ -19,7 +19,7 @@ When retrieving data from an AWS API Gateway service, you can control the number
 
 ## Before you begin
 
-Set the application scope to [[api-sgc-aws-gateway|API Service Graph Connector for AWS API Gateway]] using the application picker. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
+Set the application scope to API Service Graph Connector for AWS API Gateway using the application picker. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
 
 Role required: admin
 
@@ -33,7 +33,7 @@ Example: If you set the **PageSize** property to `50` and there are `200` REST A
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[cmdb-sgc-available|Service Graph Connectors]]** &gt; **AWS API Gateway** &gt; **Connections**.
+1.  Navigate to **All** &gt; **Service Graph Connectors** &gt; **AWS API Gateway** &gt; **Connections**.
 
 2.  From the **Name** column of the Service Graph Connections list, select a connection.
 
@@ -48,7 +48,4 @@ Example: If you set the **PageSize** property to `50` and there are `200` REST A
 
 5.  Select **Update**.
 
-## Related
 
-- [[api-sgc-aws-gateway|API Service Graph Connector for AWS API Gateway]]
-- [[cmdb-sgc-available|Service Graph Connectors]]

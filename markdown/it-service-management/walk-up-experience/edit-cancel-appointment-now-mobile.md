@@ -14,7 +14,7 @@ breadcrumb: [Walk-up Experience on Now Mobile, Walk-up Experience, IT Service Ma
 
 # Modify an appointment at the Walk-up Experience Tech Lounge
 
-Edit or cancel an appointment at a ServiceNow [[walkup-experience-landing-page|Walk-up Experience]] Tech Lounge by using the Now® Mobile app on your mobile device.
+Edit or cancel an appointment at a ServiceNow Walk-up Experience Tech Lounge by using the Now® Mobile app on your mobile device.
 
 ## Before you begin
 
@@ -50,6 +50,3 @@ The time limit for modifying an appointment may vary across tech Lounges. You ca
 
 **Parent Topic:**[Walk-up Experience on Now Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walk-up-experience-now-mobile.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]

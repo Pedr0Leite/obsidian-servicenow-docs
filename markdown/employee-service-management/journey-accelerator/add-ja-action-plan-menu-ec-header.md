@@ -14,7 +14,7 @@ breadcrumb: [Configure action plan access in the Employee Center, Configure, Jou
 
 # Add a Journey Accelerator action plan menu to the Employee Center
 
-Add a list item for [[journey-accelerator-1|Journey Accelerator]] action plans to the **My active items** list in the [[employee-center-landing-page|Employee Center]].
+Add a list item for Journey Accelerator action plans to the **My active items** list in the Employee Center.
 
 ## Before you begin
 
@@ -43,7 +43,4 @@ Role required: admin
 
 5.  Click **Submit**.
 
-## Related
 
-- [[journey-accelerator-1|Journey Accelerator]]
-- [[employee-center-landing-page|Employee Center]]

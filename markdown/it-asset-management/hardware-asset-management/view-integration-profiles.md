@@ -22,11 +22,11 @@ Role required: admin, domain\_admin, asset, inventory\_admin, or sn\_hamp.ham\_s
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Asset operations**.
+1.  Navigate to **All** &gt; **Hardware Asset Workspace** &gt; **Asset operations**.
 
 2.  From the **Shipment** list, select **Carrier integration profiles**.
 
-    The third-party carrier application automatically inserts records into the Carrier integration profiles list. You can also [[create-carrier-integration-profile|create a carrier integration profile]].
+    The third-party carrier application automatically inserts records into the Carrier integration profiles list. You can also create a carrier integration profile.
 
 3.  Select the carrier integration profile of your carrier.
 
@@ -103,7 +103,3 @@ Option that indicates the status of the integration profile.**Note:** Only users
 
 [Track a hardware asset shipment]()
 
-## Related
-
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[create-carrier-integration-profile|Create a carrier integration profile]]

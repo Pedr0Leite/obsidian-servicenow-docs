@@ -14,7 +14,7 @@ breadcrumb: [Configuring Edge Encryption, Edge Encryption, Encryption]
 
 # Data integration with Edge Encryption
 
-To integrate third-party data with an instance using [[edge-encryption|Edge Encryption]], you must route the data through the Edge Encryption proxy server using supported integrations. Supported integrations use base system [[encryption-landing|encryption]] rules that map data in each payload to fields in a table.
+To integrate third-party data with an instance using Edge Encryption, you must route the data through the Edge Encryption proxy server using supported integrations. Supported integrations use base system encryption rules that map data in each payload to fields in a table.
 
 ## Upload data to fields marked for encryption
 
@@ -60,7 +60,3 @@ Configure the MID Server to route data through an Edge Encryption proxy server.
 
 **Parent Topic:**[Configuring Edge Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/edge-config.md)
 
-## Related
-
-- [[edge-encryption|Edge Encryption]]
-- [[encryption-landing|Encryption]]

@@ -14,14 +14,14 @@ breadcrumb: [Survey administration, Use surveys, Surveys, Assessments and Survey
 
 Outlook actionable messages plugin enables users to respond to the survey from within the Microsoft Outlook application.
 
--   **[[install-outlook-actionable-messages-plugin|Install Outlook Actionable Messages plugin]]**  
+-   **[Install Outlook Actionable Messages plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/install-outlook-actionable-messages-plugin.md)**  
 Install Outlook Actionable Messages\(sn\_ms\_oam\) plugin to configure actionable messages.
--   **[[customize-approval-message|Customize fields for the approval message]]**  
+-   **[Customize fields for the approval message](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/customize-approval-message.md)**  
 Customize the body message for a request, change, and request item approval sent in Microsoft Outlook.
--   **[[enable-advanced-view-oam|Enable Advanced view for Outlook Actionable Message definition]]**  
+-   **[Enable Advanced view for Outlook Actionable Message definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/enable-advanced-view-oam.md)**  
 Enable the advanced view to customize the actionable message as per the requirement for Microsoft Outlook.
 
-**Parent Topic:**[[r_SurveyAdminTasks|Survey administration]]
+**Parent Topic:**[Survey administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_SurveyAdminTasks.md)
 
 **Related topics**  
 
@@ -42,7 +42,7 @@ Enable the advanced view to customize the actionable message as per the requirem
 
 [Survey definitions]()
 
-[Create a [[c_SurveyDesigner|survey designer]] template question]()
+[Create a survey designer template question]()
 
 [Survey questions]()
 
@@ -58,10 +58,3 @@ Enable the advanced view to customize the actionable message as per the requirem
 
 [Legacy survey migration]()
 
-## Related
-
-- [[install-outlook-actionable-messages-plugin|Install Outlook Actionable Messages plugin]]
-- [[customize-approval-message|Customize fields for the approval message]]
-- [[enable-advanced-view-oam|Enable Advanced view for Outlook Actionable Message definition]]
-- [[r_SurveyAdminTasks|Survey administration]]
-- [[c_SurveyDesigner|Survey designer]]

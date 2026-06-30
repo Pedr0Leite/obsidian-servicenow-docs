@@ -14,7 +14,7 @@ breadcrumb: [Configure, Advanced Work Assignment, Manage people and work, Conver
 
 # Get started with Advanced Work Assignment
 
-To implement [[awa-application-landing-page|Advanced Work Assignment]], complete these initial configuration and setup steps.
+To implement Advanced Work Assignment, complete these initial configuration and setup steps.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ Role required: awa\_admin and admin
 
     The AWA home page experience refreshes and the Get targeted routing capabilities section appears.
 
-5.  Select **Get plugin** to activate org-specific IT Service [[management|Management]] \(ITSM\), Customer Service Management, and HR Service Delivery \(HRSD\) plugins.
+5.  Select **Get plugin** to activate org-specific IT Service Management \(ITSM\), Customer Service Management, and HR Service Delivery \(HRSD\) plugins.
 
     The All Applications page opens in a new window or tab.
 
@@ -58,15 +58,15 @@ Role required: awa\_admin and admin
 
     The AWA home page experience refreshes and either the Get the most popular plugins section refreshes with the installed plugin or the plugin appears under the Installed Plugins section.
 
-11. In the Essential settings section, select **Set up [[awa-service-channels|service channels]]** to configure the service channels that you activated.
+11. In the Essential settings section, select **Set up service channels** to configure the service channels that you activated.
 
-    1.  [[awa-modify-inbox-layout|Create or change an inbox layout]].
+    1.  Create or change an inbox layout.
 
     2.  Override agent capacity, as needed.
 
-12. In the Essential settings section, select **Set up queues** to create [[awa-queues|work item queues]] for your service channels.
+12. In the Essential settings section, select **Set up queues** to create work item queues for your service channels.
 
-    Set the sort order for [[awa-work-items|work items]] in the queue.
+    Set the sort order for work items in the queue.
 
 13. In the Essential settings section, select **Set up assignment rules** to configure the work assignment rules used to push work to the appropriate agents.
 
@@ -74,7 +74,7 @@ Role required: awa\_admin and admin
 
     1.  Select **Set up presence states** to configure availability states that agents use to indicate whether they can receive work or are offline or away.
 
-    2.  Select **Set up reject reasons** to define the reasons that agents can use to decline [[awa-assignment|work assignments]] that they receive in their Agent Workspace inbox.
+    2.  Select **Set up reject reasons** to define the reasons that agents can use to decline work assignments that they receive in their Agent Workspace inbox.
 
     3.  Select **Set up universal capacity** to configure your team's maximum universal capacity to prevent an agent from being assigned too many work items.
 
@@ -88,12 +88,4 @@ Role required: awa\_admin and admin
 
     2.  Select **Set up Shift-based Assignment** to assign work items to agents based on shifts.
 
-## Related
 
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[management|Management]]
-- [[awa-service-channels|Service channels]]
-- [[awa-modify-inbox-layout|Create or change an inbox layout]]
-- [[awa-queues|Work item queues]]
-- [[awa-work-items|Work items]]
-- [[awa-assignment|Work assignments]]

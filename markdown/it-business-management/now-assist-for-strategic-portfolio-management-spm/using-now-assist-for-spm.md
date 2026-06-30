@@ -14,22 +14,22 @@ breadcrumb: [Now Assist for Strategic Portfolio Management \(SPM\), Strategic Po
 
 # Using Now Assist for Strategic Portfolio Management \(SPM\)
 
-With the [[now-assist-spm|Now Assist for Strategic Portfolio Management \(SPM\)]] application, you can summarize feedback, create demands, generate document summaries, and refine planning item descriptions for clarity and alignment. You can also quickly produce and share project insights via email and use the AI agents to monitor [[t_CreateAProjectTask|project tasks]] autonomously.
+With the Now Assist for Strategic Portfolio Management \(SPM\) application, you can summarize feedback, create demands, generate document summaries, and refine planning item descriptions for clarity and alignment. You can also quickly produce and share project insights via email and use the AI agents to monitor project tasks autonomously.
 
 -   **[Summarize the feedback by using Now Assist for Strategic Portfolio Management \(SPM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/feedback-summary-sentiment-topics.md)**  
 Generate a summary from the name and description of the feedback records so that you can analyze a large volume of feedback quickly without reading each feedback record manually. You can do this task by using the multi feedback summarization skill in the Now Assist for Strategic Portfolio Management \(SPM\) application.
 -   **[Create demands by using the conversational experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/demand-creation-using-now-assist.md)**  
-Use the conversational experience of Now Assist in Virtual Agent to [[t_CreatingDemands|create a demand]] from any application that supports Virtual Agent.
+Use the conversational experience of Now Assist in Virtual Agent to create a demand from any application that supports Virtual Agent.
 -   **[Identify similar records using Now Assist for Strategic Portfolio Management \(SPM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/identify-similar-demand-records.md)**  
 Detect similar demand records using the identify similar records Now Assist skill. The skill detects similar demand records based on contextual similarity in the name, description, and business case content.
 -   **[Summarize demands with the demand summarization skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/demand-summarization-skill.md)**  
 Summarize demand records using the demand summarization skill. The skill reviews the demand fields and related lists and helps create a clear summary of the demand.
 -   **[Generate targets for a goal in Strategic Planning Workspace using Now Assist for SPM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/generate-targets-for-goal.md)**  
-Generate measurable targets for your [[goal-management-in-alignment-planner-workspace|goals in Strategic Planning]] Workspace using Now Assist for SPM.
+Generate measurable targets for your goals in Strategic Planning Workspace using Now Assist for SPM.
 -   **[Generate insights for a goal in Strategic Planning Workspace using Now Assist for SPM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/generate-insights-for-goal.md)**  
 Review AI-generated insights to identify at-risk goals, assess forecasted statuses, and act on recommendations before goals fall off track.
 -   **[View insights for a portfolio plan in Strategic Planning Workspace or Portfolio Planning Workspace using Now Assist for SPM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/view-portfolio-insights.md)**  
-View AI-generated insights for a portfolio plan in [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace or [[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace to identify planning items at risk of schedule delays, monitor active projects showing early risk indicators,analyze root causes, and review recommended actions.
+View AI-generated insights for a portfolio plan in Strategic Planning Workspace or Portfolio Planning Workspace to identify planning items at risk of schedule delays, monitor active projects showing early risk indicators,analyze root causes, and review recommended actions.
 -   **[Assess the status of an epic using Now Assist for Strategic Portfolio Management \(SPM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/assess-epic-status-now-assist-eap.md)**  
 Use the Epic status assessment skill to evaluate epic health across six risk dimensions in Enterprise Agile Planning \(EAP\). Now Assist returns a red, yellow, or green health status with plain-English reasoning, giving portfolio managers a consolidated view of epic risks.
 -   **[Generate multiple stories at once in EAP using Now Assist for SPM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/generate-stories-from-epics-now-assist-eap.md)**  
@@ -37,7 +37,7 @@ Breakdown epics and features into stories using the Now Assist panel in the Ente
 -   **[Generate a story from an epic using Now Assist for SPM in EAP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/generate-stories-quickly-for-eap-and-agile-2-0.md)**  
 Generate a complete user story directly from an epic using Quick story generation feature in EAP. Provide brief context, and Now Assist generates a story title, description, and acceptance criteria that you can review and edit before saving.
 -   **[Generate a story from an epic using Now Assist for SPM in Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/generate-story-quickly-epic-now-assist-agile-2-0.md)**  
-Generate a complete user story directly from an epic using the Quick story generation feature in [[agile-landing-page|Agile Development 2.0]]. Provide brief context, and Now Assist generates a story title, description, and acceptance criteria that you can review and edit before saving.
+Generate a complete user story directly from an epic using the Quick story generation feature in Agile Development 2.0. Provide brief context, and Now Assist generates a story title, description, and acceptance criteria that you can review and edit before saving.
 -   **[Generate acceptance criteria for EAP stories using Now Assist for Strategic Portfolio Management \(SPM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/eap-generate-acceptance-criteria-for-stories.md)**  
 Create clear, comprehensive, and testable acceptance criteria for user stories without writing them manually in Enterprise Agile Planning \(EAP\). Review and refine suggested options to ensure they meet your requirements.
 -   **[Generate acceptance criteria for stories in Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/generate-acc-criteria-agile-stories-now-assist.md)**  
@@ -49,13 +49,13 @@ Use Now Assist capabilities to elaborate, shorten, and summarize selected conten
 -   **[Generate the summary for selected or complete content with Planning item doc generation and insights skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/summarize-documents-genai-skill-spw.md)**  
 Quickly learn the details of the documents from the summary that is generated by Now Assist in Strategic Planning.
 -   **[Generate the summary for selected or complete content with Project doc generation and insights skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/summarize-doc-content-genai-skill-pw.md)**  
-Quickly learn the details of the documents from the summary that is generated by in [[project-workspace-landing-page|Project Workspace]].
+Quickly learn the details of the documents from the summary that is generated by in Project Workspace.
 -   **[Schedule the project insights email](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/email-project-summary-skill-pw.md)**  
-[[email-project-summary-skill-pw|Schedule the project insights email]] to prioritize and track the most important changes in the project in Project Workspace.
+Schedule the project insights email to prioritize and track the most important changes in the project in Project Workspace.
 -   **[Generate a project status report with Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/generate-ai-status-report-na.md)**  
 Generate an AI‑assisted project status report with predicted health indicators. Now assist pre-populates project health, an executive summary, and supporting rationale based on weekly project data.
 -   **[Improve efficiency and quality using refine records skill with Now Assist Context Menu \(NACM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/refine-text-with-write-planning-item-skill.md)**  
-Improve record quality by enabling AI-assisted text refinement in the text fields of Product idea, Demands, Epic, Projects, Capability, Features, Stories, Project tasks, Risks, Strategic priorities, Goals, Targets, Initiatives, Feedback, Milestones, and Story [[form-field-information-for-dw|forms]].
+Improve record quality by enabling AI-assisted text refinement in the text fields of Product idea, Demands, Epic, Projects, Capability, Features, Stories, Project tasks, Risks, Strategic priorities, Goals, Targets, Initiatives, Feedback, Milestones, and Story forms.
 -   **[Generate and track project details from AI insights page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/track-project-ai-insights-page.md)**  
 Generate and monitor project insights directly from AI insights page in Project Workspace.
 -   **[Generate a project plan using project plan generation skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/generate-projects-using-nowassist.md)**  
@@ -76,15 +76,3 @@ Use Ask Now Assist to open the Now Assist panel and get real-time answers about 
 
 [Use AI agent or agentic workflows in Now Assist for Strategic Portfolio Management \(SPM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/using-na-spm-ai-agents.md)
 
-## Related
-
-- [[now-assist-spm|Now Assist for Strategic Portfolio Management \(SPM\)]]
-- [[t_CreateAProjectTask|Project tasks]]
-- [[t_CreatingDemands|Create a demand]]
-- [[goal-management-in-alignment-planner-workspace|Goals in Strategic Planning]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[agile-landing-page|Agile Development 2.0]]
-- [[project-workspace-landing-page|Project Workspace]]
-- [[email-project-summary-skill-pw|Schedule the project insights email]]
-- [[form-field-information-for-dw|Forms]]

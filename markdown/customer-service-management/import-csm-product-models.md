@@ -12,7 +12,7 @@ breadcrumb: [Product models, Configure product data, Product data, Set up your e
 
 # Import product models with guided setup
 
-A product is a type of good or service that your company sells and supports. [[product-models|Product models]] identify different types of products, such as service, hardware, software, or consumables.
+A product is a type of good or service that your company sells and supports. Product models identify different types of products, such as service, hardware, software, or consumables.
 
 ## Before you begin
 
@@ -38,6 +38,4 @@ Information for each type of product model is stored in a different table. For e
 
 6.  Verify that the data records are imported into the target table.
 
-## Related
 
-- [[product-models|Product models]]

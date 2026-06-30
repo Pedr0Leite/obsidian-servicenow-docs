@@ -14,7 +14,7 @@ breadcrumb: [CMDB Health, Configuration Management Database \(CMDB\), Configurat
 
 # CMDB Health process tracking and troubleshooting
 
-Use the following information to track and resolve issues with the [[c_CMDBHealth|CMDB Health]] processes.
+Use the following information to track and resolve issues with the CMDB Health processes.
 
 ## Logging
 
@@ -75,9 +75,9 @@ Orphan test results provide the details of where exactly the hierarchy is broken
 An error message is logged if the results from a scripted audit are not included in the compliance KPI. The reason can be that the script in the audit was not updated to populate its **Last ran date** field. Without a **Last ran date** value, CMDB Health is unable to identify these run results as part of a recent complete audit run, and skips those results.
 
 -   **[CMDB Health process status: failure threshold reached](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/failure-threshold-reached.md)**  
-The CMDB Health Dashboard shows the string ‘[[failure-threshold-reached|failure threshold reached]]' when the number of CIs that are failing the metric tests, reaches the failure threshold set for the metric.
+The CMDB Health Dashboard shows the string ‘failure threshold reached' when the number of CIs that are failing the metric tests, reaches the failure threshold set for the metric.
 -   **[CMDB Health process status: incomplete score](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/incomplete-score.md)**  
-The CMDB Health Dashboard shows the string '[[incomplete-score|incomplete score]]' for a metric when it fails to calculate the score for the metric.
+The CMDB Health Dashboard shows the string 'incomplete score' for a metric when it fails to calculate the score for the metric.
 
 **Parent Topic:**[CMDB Health](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CMDBHealth.md)
 
@@ -98,8 +98,3 @@ The CMDB Health Dashboard shows the string '[[incomplete-score|incomplete score]
 
 [CMDB Health reference]()
 
-## Related
-
-- [[c_CMDBHealth|CMDB Health]]
-- [[failure-threshold-reached|failure threshold reached]]
-- [[incomplete-score|incomplete score]]

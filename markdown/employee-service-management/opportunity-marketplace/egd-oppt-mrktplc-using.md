@@ -14,9 +14,9 @@ breadcrumb: [Opportunity Marketplace, Hiring Experiences, HR Service Delivery, E
 
 # Use Opportunity Marketplace
 
-Employees in your company use Opportunity Marketplace to find opportunities, apply for roles in the opportunity, and track the application process. Some employees create and publish opportunities to gather and evaluate resources for gigs, projects, and [[egd-oppt-mrktplc-volunteer|volunteer opportunities]].
+Employees in your company use Opportunity Marketplace to find opportunities, apply for roles in the opportunity, and track the application process. Some employees create and publish opportunities to gather and evaluate resources for gigs, projects, and volunteer opportunities.
 
-To access and use Opportunity Marketplace, you must be a licensed [[egd-oppt-mrktplc-landing|Opportunity Marketplace]] user. For more information, see [License Talent Development Core users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-employee-profile-licensing.md).
+To access and use Opportunity Marketplace, you must be a licensed Opportunity Marketplace user. For more information, see [License Talent Development Core users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-employee-profile-licensing.md).
 
 Access to opportunities is controlled by user criteria defined in the opportunity. Only opportunities for which you match the user criteria are visible.
 
@@ -25,7 +25,7 @@ Share internal job opportunities with your coworkers.
 -   **[Update Job Preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/opportunity-marketplace/egd-job-preferences.md)**  
 Make updates to your job preferences to help you apply for opportunities. Your job preferences are used by Opportunity Marketplace to do a match analysis with roles.
 -   **[Create opportunities in Opportunity Marketplace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/opportunity-marketplace/egd-create-other-opportunities.md)**  
-Opportunity owners create gigs, projects, and volunteer opportunities. Opportunity details for Project type opportunities can be imported from projects in the ServiceNow Project Workspace. These opportunities are different from [[egd-oppt-mrktplc-internal-job|internal jobs]]. OPM enables you to manage any opportunities you create and track applications. The ability to create opportunities is based on user criteria.
+Opportunity owners create gigs, projects, and volunteer opportunities. Opportunity details for Project type opportunities can be imported from projects in the ServiceNow Project Workspace. These opportunities are different from internal jobs. OPM enables you to manage any opportunities you create and track applications. The ability to create opportunities is based on user criteria.
 -   **[Create opportunities in Opportunity Marketplace by importing projects from Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/opportunity-marketplace/egd-oppt-mrktplc-create-oppt-from-spm-project.md)**  
 Import details from a Project Workspace project file to create a related opportunity in Opportunity Marketplace.
 -   **[Set opportunity preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/opportunity-marketplace/egd-oppt-mrktplc-set-oppt-prefs.md)**  
@@ -41,8 +41,3 @@ Job postings forms can be viewed from the Job Posting \[sn\_ta\_hiring\_core\_jo
 
 **Parent Topic:**[Hiring Experiences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hiring-experiences-landing.md)
 
-## Related
-
-- [[egd-oppt-mrktplc-volunteer|Volunteer opportunities]]
-- [[egd-oppt-mrktplc-landing|Opportunity Marketplace]]
-- [[egd-oppt-mrktplc-internal-job|Internal jobs]]

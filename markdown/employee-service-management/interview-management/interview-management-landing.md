@@ -14,7 +14,7 @@ breadcrumb: [Hiring Experiences, HR Service Delivery, Employee Service Managemen
 
 # Interview Management
 
-The Interview management application simplifies and optimizes the interview process through structured workflows, flexible scheduling options, automated reminders, and streamlined feedback collection, enabling faster and more collaborative [[hiring-tab-concept|hiring]].
+The Interview management application simplifies and optimizes the interview process through structured workflows, flexible scheduling options, automated reminders, and streamlined feedback collection, enabling faster and more collaborative hiring.
 
 ## Get started
 
@@ -32,7 +32,7 @@ The Interview management application simplifies and optimizes the interview proc
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Important [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] information about Interview management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/interview-management-reference.md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Important reference information about Interview management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/interview-management-reference.md)
 
 </td></tr></tbody>
 </table>## Additional resources
@@ -43,7 +43,3 @@ The Interview management application simplifies and optimizes the interview proc
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[hiring-tab-concept|Hiring]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

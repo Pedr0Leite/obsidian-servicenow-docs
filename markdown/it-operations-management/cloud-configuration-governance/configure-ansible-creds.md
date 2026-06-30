@@ -28,7 +28,7 @@ Role required: sn\_cmp.cloud\_service\_designer
 
 3.  Fill out the form fields \(see table\):
 
-    To integrate [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] with the Ansible configuration management account, you must configure the user name and password for the administrator account in Ansible.
+    To integrate Cloud Provisioning and Governance with the Ansible configuration management account, you must configure the user name and password for the administrator account in Ansible.
 
     |Field|Description|
     |-----|-----------|
@@ -37,6 +37,4 @@ Role required: sn\_cmp.cloud\_service\_designer
 
     **Note:** You do not need to configure the other fields.
 
-## Related
 
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]

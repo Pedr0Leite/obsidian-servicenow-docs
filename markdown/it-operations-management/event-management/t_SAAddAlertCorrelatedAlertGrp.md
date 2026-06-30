@@ -22,7 +22,7 @@ Role required: evt\_mgmt\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **All Alerts**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **All Alerts**.
 
 2.  Select the alert number to open the alert.
 
@@ -45,6 +45,3 @@ Role required: evt\_mgmt\_admin
 
 **Parent Topic:**[Manual alert grouping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/manual-alert-grouping.md)
 
-## Related
-
-- [[c_EM|Event Management]]

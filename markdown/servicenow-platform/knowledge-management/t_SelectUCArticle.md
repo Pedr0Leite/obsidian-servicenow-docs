@@ -24,7 +24,7 @@ Role required: knowledge\_manager, knowledge\_admin
 
 ## About this task
 
-Try to use only user criteria, which were introduced in [[knowledge-management|Knowledge Management]] v3, to control access to knowledge articles. Roles were used for this purpose in Knowledge Management v2. For more information, see [Managing access to knowledge bases and knowledge articles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/user-access-knowledge.md).
+Try to use only user criteria, which were introduced in Knowledge Management v3, to control access to knowledge articles. Roles were used for this purpose in Knowledge Management v2. For more information, see [Managing access to knowledge bases and knowledge articles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/user-access-knowledge.md).
 
 **Note:**
 
@@ -94,6 +94,3 @@ After you add user criteria, you can use the user criteria diagnostics feature t
 
 [Control access at the knowledge base level through user criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/t_SelectUserCriteria.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]

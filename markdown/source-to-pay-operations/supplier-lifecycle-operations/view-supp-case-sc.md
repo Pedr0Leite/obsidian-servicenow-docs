@@ -22,11 +22,11 @@ Role required: sn\_slm.contact
 
 ## About this task
 
-The [[my-requests|My Requests]] page displays all the requests that you've raised. For more information about raising requests, see [Raising requests from the Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supp-catalog-req.md).
+The My Requests page displays all the requests that you've raised. For more information about raising requests, see [Raising requests from the Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supp-catalog-req.md).
 
 ## Procedure
 
-1.  Navigate to the [[supplier-central|Supplier Collaboration Portal]] home page by accessing your instance URL and adding a /supplier suffix.
+1.  Navigate to the Supplier Collaboration Portal home page by accessing your instance URL and adding a /supplier suffix.
 
     For example, `https://example.com/supplier`.
 
@@ -38,7 +38,7 @@ The [[my-requests|My Requests]] page displays all the requests that you've raise
 
     \[Omitted image "supp-cases-sc.png"\] Alt text: My Requests page.
 
-    **Note:** You can see all requests from all the suppliers linked with your profile if M2M mapping between [[supplier-contact|supplier contact]] and suppliers is enabled \(available from Xanadu December 2024 release onwards\).
+    **Note:** You can see all requests from all the suppliers linked with your profile if M2M mapping between supplier contact and suppliers is enabled \(available from Xanadu December 2024 release onwards\).
 
 3.  Do one of the following:
 
@@ -50,7 +50,7 @@ The [[my-requests|My Requests]] page displays all the requests that you've raise
 
     \[Omitted image "supp-case-details-sc2.png"\] Alt text: Request details page.
 
-    The [[supplier|Supplier]] Ticker page shows details about the request, such as request title, name of the person who opened the request, name of the person to whom the request is assigned, and a case progress bar.
+    The Supplier Ticker page shows details about the request, such as request title, name of the person who opened the request, name of the person to whom the request is assigned, and a case progress bar.
 
     **Note:** Any request that you raise automatically creates a case.
 
@@ -102,16 +102,9 @@ The [[my-requests|My Requests]] page displays all the requests that you've raise
 
 [Complete a risk assessment from the Supplier Collaboration Portal]()
 
-[Create a [[universal-request|Universal Request]] from the Supplier Collaboration Portal]()
+[Create a Universal Request from the Supplier Collaboration Portal]()
 
 [Raising requests from the Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supp-catalog-req.md)
 
 [View or update your user profile from the Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/view-update-supp-profile.md)
 
-## Related
-
-- [[my-requests|My requests]]
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[supplier-contact|Supplier contact]]
-- [[supplier|Supplier]]
-- [[universal-request|Universal Request]]

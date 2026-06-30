@@ -12,7 +12,7 @@ breadcrumb: [Reference, Customer Service Management]
 
 # CSM Query Rules
 
-Query [[gamification-components-rules|rules]] are used to filter the records in CSM-related tables that are accessible by users with CSM roles. These filters, which are applied in query business rules and READ ACLs on CSM-related tables, are stored in a metadata table.
+Query rules are used to filter the records in CSM-related tables that are accessible by users with CSM roles. These filters, which are applied in query business rules and READ ACLs on CSM-related tables, are stored in a metadata table.
 
 Starting with the London release, query rules and filters were defined in the CSQueryBRUtilOOBConstants script include. In the Quebec release, these filters have been moved to the Query Rule \(sn\_query\_rule\) table.
 
@@ -37,9 +37,9 @@ The Query Rule \(sn\_query\_rule\) table extends the sys\_metadata table and sto
 
 -   Case \(sn\_customerservice\_case\)
 -   Affected Install Bases \(sn\_install\_base\_m2m\_affected\_install\_base\)
--   [[install-base-item|Install Base Items]] \(sn\_install\_base\_item\)
--   [[installed-products|Installed Products]] \(sn\_install\_base\_m2m\_installed\_product\)
--   [[sold-product|Sold Products]] \(sn\_install\_base\_sold\_product\)
+-   Install Base Items \(sn\_install\_base\_item\)
+-   Installed Products \(sn\_install\_base\_m2m\_installed\_product\)
+-   Sold Products \(sn\_install\_base\_sold\_product\)
 -   Order Case \(csm\_order\_case\)
 -   Sold Product Covered \(sn\_install\_base\_m2m\_contract\_sold\_product\)
 -   Orders \(csm\_order\)
@@ -50,9 +50,3 @@ The Query Rule \(sn\_query\_rule\) table extends the sys\_metadata table and sto
 -   Contact \(customer\_contact\)
 -   Contract \(ast\_contract\)
 
-## Related
-
-- [[gamification-components-rules|Rules]]
-- [[install-base-item|Install base items]]
-- [[installed-products|Installed products]]
-- [[sold-product|Sold products]]

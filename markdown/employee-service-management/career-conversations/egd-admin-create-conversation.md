@@ -14,7 +14,7 @@ breadcrumb: [Install and configure Career Conversations, Career Conversations, G
 
 # Add Conversations
 
-As an [[egd-activities-conversations-module|Career Conversations]] admin you can add or manage conversations that are assigned to employees on behalf of managers.
+As an Career Conversations admin you can add or manage conversations that are assigned to employees on behalf of managers.
 
 ## Before you begin
 
@@ -33,6 +33,3 @@ Role required: sn\_egd\_act.admin
 
 **Parent Topic:**[Install and configure Career Conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/egd-activities-install-config.md)
 
-## Related
-
-- [[egd-activities-conversations-module|Career Conversations]]

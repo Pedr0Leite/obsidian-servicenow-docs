@@ -14,7 +14,7 @@ breadcrumb: [Entity classes, Explore entities, Common GRC features, Governance, 
 
 # Create an entity class
 
-Create an entity class that is associated with an entity. [[entity-class-in-risk-ws|Entity classes]] are used to add a conceptual information about the entity and classify the entities. They represent a collection of entities that have the same attributes such as Department, Business Unit, or Business Service. You can gather data about the entities based on the [[entity-class|entity class]].
+Create an entity class that is associated with an entity. Entity classes are used to add a conceptual information about the entity and classify the entities. They represent a collection of entities that have the same attributes such as Department, Business Unit, or Business Service. You can gather data about the entities based on the entity class.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Entity classes are used to classify and tag your entities. After tagging the ent
 
 ## Procedure
 
-1.  Navigate to the desired workspace, go to the [[list-view-uib-ws|List view]], and select **Entity classes**.
+1.  Navigate to the desired workspace, go to the List view, and select **Entity classes**.
 
 2.  To create a entity class, select **New**.
 
@@ -150,8 +150,3 @@ Attachments associated with the entity class that is displayed in the side panel
 
 **Parent Topic:**[Entity classes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/entity-class-in-risk-ws.md)
 
-## Related
-
-- [[entity-class-in-risk-ws|Entity classes]]
-- [[entity-class|entity class]]
-- [[list-view-uib-ws|List view]]

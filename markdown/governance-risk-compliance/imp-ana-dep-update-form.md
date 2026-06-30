@@ -35,8 +35,5 @@ For the description of the field values, see the table.
 |Send notification|Option to notify the users or user groups on the updates.|
 |Users/groups in fields|Option to select the users or groups fields in sn\_bia\_analysis who should receive a notification about the updates. For example, you can select the BIA owner and BCM lead to receive the updates.|
 
-**Parent Topic:**[[configure-imp-ana-dep-update-module|Set up Impact analysis dependency update configuration]]
+**Parent Topic:**[Set up Impact analysis dependency update configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-imp-ana-dep-update-module.md)
 
-## Related
-
-- [[configure-imp-ana-dep-update-module|Set up Impact analysis dependency update configuration]]

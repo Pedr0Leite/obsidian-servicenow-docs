@@ -14,18 +14,18 @@ breadcrumb: [NLU vocabulary, Build and train your model, Model management, Natur
 
 # Create a table vocabulary source
 
-Use the values from a ServiceNow table as a vocabulary source. Your [[nlu-landing|Natural Language Understanding]] \(NLU\) models use your provided synonym to interpret utterances that contain values from the chosen source fields of the table.
+Use the values from a ServiceNow table as a vocabulary source. Your Natural Language Understanding \(NLU\) models use your provided synonym to interpret utterances that contain values from the chosen source fields of the table.
 
 ## Before you begin
 
--   Make sure that the NLU Workbench plugin, NLU Workbench - Core plugin, NLU Common Model plugin, and [[predictive-intelligence-landing|Predictive Intelligence]] plugin are all installed and activated on your instance.
+-   Make sure that the NLU Workbench plugin, NLU Workbench - Core plugin, NLU Common Model plugin, and Predictive Intelligence plugin are all installed and activated on your instance.
 -   Role required: admin or nlu\_admin
 
 ## About this task
 
 Add a ServiceNow table to be used as a vocabulary source. Select one or more source fields of the table. Then, provide a synonym to be used by the model when interpreting utterances that contain values from the table. Note that the **Reference** field is not supported as a source field.
 
-When you create and [[sync-table-vocabulary-source|sync a table vocabulary source]], the values from the table in your instance are extracted, and a vocabulary source is created in the NLU Service. For more information on the NLU Service, see [NLU Service Updates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/nlu-service-updates.md).
+When you create and sync a table vocabulary source, the values from the table in your instance are extracted, and a vocabulary source is created in the NLU Service. For more information on the NLU Service, see [NLU Service Updates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/nlu-service-updates.md).
 
 **Note:** You should not create multiple vocabulary sources that reference the same table and fields. Create only one vocabulary source \(and provide a synonym\) for the particular table and fields you want to reference in the model. Otherwise, it would cause confusion in the model and interfere with prediction quality.
 
@@ -43,7 +43,7 @@ In this example procedure, you want your models to be able to interpret utteranc
 
     1.  Select the table, handle, and synonym for the table.
 
-        In this example, use the following [[exploring-ai-governance|configurations]]:
+        In this example, use the following configurations:
 
         -   **Table**: Select **Location \(cmn\_location\)**.
         -   **Handle**: Use the system-generated handle, @Location.
@@ -71,7 +71,7 @@ In this example procedure, you want your models to be able to interpret utteranc
         -   **Language**: Select **English - en**.
         -   **Filter by**: You can use the condition builder to filter the values in the source table for the vocabulary source. Leave empty for this scenario.
         -   **Refresh**: Select **Every 7 days**. By selecting this, you set the system to get new values from the table every seven days. There are different refresh options you can choose based on how often the source table is updated.
-        -   **Enable Fuzzy matching**: Checking this box make it so a record can be matched even if an utterance contains a slightly misspelled word or part of a word. For example, when searching for a city such as Kansas City, you might enter Kansas City or just Kansas, and the system will still be able to match with the correct location record. Fuzzy matching may return false matches in some [[cases|cases]]. Use fuzzy matching sparingly and test out your model before using it.
+        -   **Enable Fuzzy matching**: Checking this box make it so a record can be matched even if an utterance contains a slightly misspelled word or part of a word. For example, when searching for a city such as Kansas City, you might enter Kansas City or just Kansas, and the system will still be able to match with the correct location record. Fuzzy matching may return false matches in some cases. Use fuzzy matching sparingly and test out your model before using it.
         -   **Make case sensitive**: If you don't enable fuzzy matching, you can check this box to make the values in the source table case sensitive. If an utterance doesn't use the correct cases, the model doesn't predict the intent.
         \[Omitted image "create-vocab-table3.png"\] Alt text: Advanced Options section of the Add a table to refer to page. Select a language, refresh time and any filters.
 
@@ -88,10 +88,3 @@ In this example procedure, you want your models to be able to interpret utteranc
 
 Add a vocabulary source to a model by annotating an utterance. Use the @ symbol when adding an example utterance to an intent.
 
-## Related
-
-- [[nlu-landing|Natural Language Understanding]]
-- [[predictive-intelligence-landing|Predictive Intelligence]]
-- [[sync-table-vocabulary-source|Sync a table vocabulary source]]
-- [[exploring-ai-governance|Configurations]]
-- [[cases|Cases]]

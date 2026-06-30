@@ -20,7 +20,7 @@ Role required: sn\_sec\_spc\_core.developer
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[spc-landing|Security Posture Control]]** &gt; **Connector builder**.
+1.  Navigate to **Workspaces** &gt; **Security Posture Control** &gt; **Connector builder**.
 
     The Custom API connectors are displayed.
 
@@ -77,6 +77,4 @@ A unique description for this API connector to help you easy identify its data i
 
     You must save your changes before you can continue.
 
-## Related
 
-- [[spc-landing|Security Posture Control]]

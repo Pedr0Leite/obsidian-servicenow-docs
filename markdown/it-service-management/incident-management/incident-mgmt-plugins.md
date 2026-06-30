@@ -17,7 +17,7 @@ breadcrumb: [Reference, Incident Management, IT Service Management]
 Many of the Incident Management plugins are activated in the base system. Others, you can activate when you are ready to use them. Some plugins include demo data.
 
 -   **[Incident Management Best Practice – San Diego](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/inc-mgmt-best-prac-plugin-sd.md)**  
-The [[c_IncidentManagement|Incident management]] best practice -San Diego plugin \(com.snc.best\_practice.incident.sandiego\) enhances the integration and workflows for incidents and problems. This plugin enables you to update the progress of the reported incident and problem to the agent and caller.
+The Incident management best practice -San Diego plugin \(com.snc.best\_practice.incident.sandiego\) enhances the integration and workflows for incidents and problems. This plugin enables you to update the progress of the reported incident and problem to the agent and caller.
 -   **[Activate Incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/activate-incident-plugin.md)**  
 You can activate the Incident plugin \(com.snc.incident\) if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
 -   **[Request Incident Management — Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/activate-incident-management-core-plugin.md)**  
@@ -37,6 +37,3 @@ You can activate the Incident Management — ATF Tests plugin \(com.snc.incident
 
 **Parent Topic:**[Reference section for Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/reference-section-for-incident-management.md)
 
-## Related
-
-- [[c_IncidentManagement|Incident Management]]

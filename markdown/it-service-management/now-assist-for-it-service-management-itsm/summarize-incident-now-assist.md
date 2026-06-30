@@ -15,7 +15,7 @@ breadcrumb: [Use generative AI skills, Now Assist for IT Service Management \(IT
 
 # Summarize an incident by using Now Assist for IT Service Management \(ITSM\)
 
-Quickly understand the incident context and respond to a requester’s inquiries by using the incident summarization skill in the [[now-assist-itsm|Now Assist for IT Service Management \(ITSM\)]] application.
+Quickly understand the incident context and respond to a requester’s inquiries by using the incident summarization skill in the Now Assist for IT Service Management \(ITSM\) application.
 
 ## Before you begin
 
@@ -37,7 +37,7 @@ An incident summary provides you with a concise summary of an incident. The summ
 
 For information about the incident states, see [Life cycle of an Incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/c_IncidentManagementStateModel.md).
 
-You can summarize an incident in Core UI and [[sow-landing-page|Service Operations Workspace for ITSM]].
+You can summarize an incident in Core UI and Service Operations Workspace for ITSM.
 
 ## Procedure
 
@@ -118,8 +118,3 @@ If you want to check some details about the summary, select the more info icon \
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[now-assist-itsm|Now Assist for IT Service Management \(ITSM\)]]
-- [[sow-landing-page|Service Operations Workspace for ITSM]]

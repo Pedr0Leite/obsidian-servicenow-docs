@@ -14,7 +14,7 @@ breadcrumb: [Request Management in Service Operations Workspace, Operating IT se
 
 # Create a catalog request in Service Operations Workspace
 
-Create a catalog request in Service Operations Workspace to initiate a catalog request flow from a different [[r_ITServiceManagement|IT Service Management]] flow. For example, from an incident flow, you can create a request and associate the request with the incident to help track requests associated with an incident and vice versa.
+Create a catalog request in Service Operations Workspace to initiate a catalog request flow from a different IT Service Management flow. For example, from an incident flow, you can create a request and associate the request with the incident to help track requests associated with an incident and vice versa.
 
 ## Before you begin
 
@@ -94,6 +94,3 @@ Steps
 
 **Parent Topic:**[Request Management in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/request-sow.md)
 
-## Related
-
-- [[r_ITServiceManagement|IT Service Management]]

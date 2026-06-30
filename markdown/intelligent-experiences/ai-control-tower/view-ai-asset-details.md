@@ -23,11 +23,11 @@ Role required: AI steward \[sn\_ai\_governance.ai\_steward\]
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[ai-control-tower-landing|AI Control Tower]]**.
+1.  Navigate to **Workspaces** &gt; **AI Control Tower**.
 
-2.  From the AI Control Tower, open the [[ai-assets|AI assets]] view.
+2.  From the AI Control Tower, open the AI assets view.
 
-3.  From the [[now-assist-global-navigation|navigation]] menu of the AI assets view, under [[ai-inventory|AI asset inventory]], select an AI asset.
+3.  From the navigation menu of the AI assets view, under AI asset inventory, select an AI asset.
 
     AI asset details page is displayed.
 
@@ -60,8 +60,8 @@ Type of assets:-   Generative AI
 -   Classical AI
 -   AI model
 -   AI system
--   AI [[ai-prompts|prompts]]
--   AI [[ai-datasets|datasets]]
+-   AI prompts
+-   AI datasets
 
 
 </td></tr><tr><td id="d119078e141">
@@ -183,12 +183,3 @@ Updated date
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[ai-assets|AI assets]]
-- [[now-assist-global-navigation|Navigation]]
-- [[ai-inventory|AI asset inventory]]
-- [[ai-prompts|Prompts]]
-- [[ai-datasets|Datasets]]

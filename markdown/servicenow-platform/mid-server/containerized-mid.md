@@ -14,7 +14,7 @@ breadcrumb: [Configuring MID Servers, Configuring MID Server, MID Server, Manage
 
 # Containerized MID Server
 
-Containerized MID Server uses a Docker image of the [[mid-server-landing|MID Server]] that allows you to quickly deploy MID Servers at scale. MID Servers are deployed using orchestration tools like OpenShift or Kubernetes. Orchestration tools can automate their deployment and maintenance and add new containers on demand or replace failed containers automatically.
+Containerized MID Server uses a Docker image of the MID Server that allows you to quickly deploy MID Servers at scale. MID Servers are deployed using orchestration tools like OpenShift or Kubernetes. Orchestration tools can automate their deployment and maintenance and add new containers on demand or replace failed containers automatically.
 
 <table id="table_p53_ms4_nhb"><tbody><tr><td>
 
@@ -79,6 +79,3 @@ Basic operations are supported on container side. For example, you can stop, sta
 
 With the [deployment and auto-configuration feature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/containerized-mid-deployment.md), an agent admin can enter all required MID Server  settings in a MID Server Profile on the instance and then submit a deployment request to K8s cluster. After the request is  processed, the new MID servers are automatically created and auto-configured. They are ready  to use in seconds.  If the MID Server profile is changed, the related Containerized MID Servers can also be updated on demand.
 
-## Related
-
-- [[mid-server-landing|MID Server]]

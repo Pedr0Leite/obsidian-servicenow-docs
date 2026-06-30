@@ -95,8 +95,5 @@ Do this
     If you have used the Customer Contracts menu to record the usage, then select **Update** to save the contract line and then the customer contract.
 
 
-**Parent Topic:**[[using-post-sales-support|Using Customer Contracts and Entitlements]]
+**Parent Topic:**[Using Customer Contracts and Entitlements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-post-sales-support.md)
 
-## Related
-
-- [[using-post-sales-support|Using Customer Contracts and Entitlements]]

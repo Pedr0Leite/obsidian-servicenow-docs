@@ -28,13 +28,10 @@ Contract Management Pro for Legal Service Delivery enables you to submit, review
 ## Benefits
 
 -   Legal support for reviewing and finalizing non-disclosure agreements, third-party legal requestsand amendment requests.
--   Ability to track, prioritize, and work on multiple requests concurrently with the [[legal-counsel-center-landing|Legal Counsel Center]].
+-   Ability to track, prioritize, and work on multiple requests concurrently with the Legal Counsel Center.
 -   Contract templates for uniformity across legal contracts and reduced rework.
 -   Automatic notifications to monitor contracts and take timely action.
 -   Multiple document support for third-party contract review enables reviewing and finalizing multiple contract documents from single request.
 
 **Parent Topic:**[Explore Contract Management Pro for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-expl-sn-legal-contracts.md)
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]

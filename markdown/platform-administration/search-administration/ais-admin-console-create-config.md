@@ -15,7 +15,7 @@ breadcrumb: [AI Search Admin console reference, AI Search Admin console, Search 
 
 # Create an AI Search configuration
 
-Create search profiles, search sources, and other [[clone-configurations-tab|configurations]] for any of your applications that use [[ia-ai-search|AI Search]].
+Create search profiles, search sources, and other configurations for any of your applications that use AI Search.
 
 ## Before you begin
 
@@ -39,15 +39,10 @@ Role required: admin or ais\_admin
     |**Search sources**|[Search Source form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/search-source-form-ais.md)|
     |**Search indexes**|[Indexed Source form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/indexed-source-form-ais.md)|
     |**Dictionaries**|[Dictionary form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/dictionary-form-ais.md)|
-    |**[[genius-results-ais|Genius Results]]**|[AI Search Genius Result Configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/genius-result-cfg-form-ais.md)|
-    |**[[defining-search-app-cfgs-ais|Search application configurations]]**|[Search Application Configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/search-app-config-form-ais.md)|
+    |**Genius Results**|[AI Search Genius Result Configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/genius-result-cfg-form-ais.md)|
+    |**Search application configurations**|[Search Application Configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/search-app-config-form-ais.md)|
     |**Result-card interfaces**|[Create an EVAM definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/define-composite-dataset.md)|
 
 6.  Select **Save**.
 
-## Related
 
-- [[clone-configurations-tab|Configurations]]
-- [[ia-ai-search|AI Search]]
-- [[genius-results-ais|Genius Results]]
-- [[defining-search-app-cfgs-ais|Search application configurations]]

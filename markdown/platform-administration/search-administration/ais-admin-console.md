@@ -15,15 +15,15 @@ breadcrumb: [Search administration, Configure core features, Administer the Serv
 
 # AI Search Admin console
 
-The AI Search Admin console application provides [[ia-ai-search|AI Search]] administrators with a no-code management tool to configure, test, and activate AI Search solutions across different types of search applications.
+The AI Search Admin console application provides AI Search administrators with a no-code management tool to configure, test, and activate AI Search solutions across different types of search applications.
 
 \[Omitted video\] Description: AI Search Admin Console.
 
 ## AI Search Admin console overview
 
-The AI Search Admin console is a central hub for managing and monitoring AI Search capabilities across search applications. It provides a streamlined experience for setting up, tracking, and enhancing AI Search [[clone-configurations-tab|configurations]]. This console supports both AI Search and [[now-assist-ais|Now Assist in AI Search]], which makes it easy to integrate advanced AI Search features.
+The AI Search Admin console is a central hub for managing and monitoring AI Search capabilities across search applications. It provides a streamlined experience for setting up, tracking, and enhancing AI Search configurations. This console supports both AI Search and Now Assist in AI Search, which makes it easy to integrate advanced AI Search features.
 
-The following example shows the [[ais-admin-console-home|AI Search Admin console home page]].
+The following example shows the AI Search Admin console home page.
 
 \[Omitted image "ais-admin-console-overview.png"\] Alt text: AI Search Admin console home page. For the text description, refer to the following text.
 
@@ -35,11 +35,11 @@ The home page has the following sections that help search administrators underst
 
 -   **Manage your search data**
 
-    Create, view, or edit index sources to define which data is included in the search indexes. This helps to decide which content appears in search [[hs-results|results]].
+    Create, view, or edit index sources to define which data is included in the search indexes. This helps to decide which content appears in search results.
 
 -   **Track AI Search activity**
 
-    Monitor key [[c_MetricDefinitionSupport|metrics]], such as indexed documents and search queries. Refresh views or access the full dashboard for deeper insights.
+    Monitor key metrics, such as indexed documents and search queries. Refresh views or access the full dashboard for deeper insights.
 
 -   **AI Search with additional features**
 
@@ -51,16 +51,7 @@ For more information about the home page and its controls, see [AI Search Admin 
 ## AI Search Admin console benefits
 
 -   Prebuilt AI Search configurations for Service Portal, Now Mobile, Virtual Agent, and other applications that support AI Search.
--   Step-by-step assistance to activate Now Assist [[genius-results-ais|Genius Results]].
+-   Step-by-step assistance to activate Now Assist Genius Results.
 -   Easy access to pages that have various configuration settings.
 -   Performance Analytics indicators to track and monitor the search applications.
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[clone-configurations-tab|Configurations]]
-- [[now-assist-ais|Now Assist in AI Search]]
-- [[ais-admin-console-home|AI Search Admin console Home page]]
-- [[hs-results|Results]]
-- [[c_MetricDefinitionSupport|Metrics]]
-- [[genius-results-ais|Genius Results]]

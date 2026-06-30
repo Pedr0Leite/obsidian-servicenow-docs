@@ -28,17 +28,17 @@ Enable cost allocation for each Kubernetes cluster before you run an AWS Billing
 
 During billing download, all the resources are pulled into the system. AWS Redshift resources are placed in the \[cmdb\_ci\_cloud\_database\] table. After the 4.0 upgrade, make sure that the billing download is executed with reimport true.
 
-**Note:** From [[cloud-insights-landing-page|Cloud Cost Management]] version 8.1 onwards, the default time for billing download jobs has changed from 12:00 to 01:00 \(UTC\). Also, schedule or run Cloud Cost Management jobs only during off-[[bh-cloudin|business hours]] and when there's no other heavy operations or jobs running on the ServiceNow instance.
+**Note:** From Cloud Cost Management version 8.1 onwards, the default time for billing download jobs has changed from 12:00 to 01:00 \(UTC\). Also, schedule or run Cloud Cost Management jobs only during off-business hours and when there's no other heavy operations or jobs running on the ServiceNow instance.
 
-If you have installed the [[ccm-infra-stack|Cloud Cost Management Infra Stack]] application, then toward the end of a job, significant database update, and insert operations are performed based on your Cloud CIs and spend data volume. Thus, any other job that impacts database performance shouldn't be run during this time alongside Cloud Cost Management jobs.
+If you have installed the Cloud Cost Management Infra Stack application, then toward the end of a job, significant database update, and insert operations are performed based on your Cloud CIs and spend data volume. Thus, any other job that impacts database performance shouldn't be run during this time alongside Cloud Cost Management jobs.
 
 -   Billing Download jobs can't be in the Global scope.
 -   If the Cloud Provisioning and Governance application is installed on your instance: Both Cloud Provisioning and Governance and Cloud Cost Management download billing data. The two download jobs are separate processes and they don't interfere with each other.
 -   You can create only one Billing Download job for each account \(enrollment\).
 -   Configure AWS Billing download for the main account otherwise the spend doesn't generate.
 -   To ensure accurate reporting and recommendations for some providers, make sure that the Discovery application runs before the scheduled execution.
--   Each successful execution of a Billing Download job triggers the Budget Forecast, Business hours, Reservation/saving plans, Rightsizing, and [[um-cloudin|Unused resources]] jobs to analyze spend and usage data and to update the actionable recommendations in reports.
--   Each successful execution of a Billing Download job updates tagged costs. Recent updates that you make to tag category definitions \(for example, adding a tag name to a category\) might not be reflected in cost reports. You should map tag values to tag categories after the first run because populating tag values needs at least one successful run. You can apply the latest tag category definitions to cost data without running a Billing Download job, by selecting **[[ci-workspace|Cloud Cost Management Workspace]]** &gt; **Operations** &gt; **Cost usage tags** &gt; **Tag categories** and then selecting **Re-Apply Categories**.
+-   Each successful execution of a Billing Download job triggers the Budget Forecast, Business hours, Reservation/saving plans, Rightsizing, and Unused resources jobs to analyze spend and usage data and to update the actionable recommendations in reports.
+-   Each successful execution of a Billing Download job updates tagged costs. Recent updates that you make to tag category definitions \(for example, adding a tag name to a category\) might not be reflected in cost reports. You should map tag values to tag categories after the first run because populating tag values needs at least one successful run. You can apply the latest tag category definitions to cost data without running a Billing Download job, by selecting **Cloud Cost Management Workspace** &gt; **Operations** &gt; **Cost usage tags** &gt; **Tag categories** and then selecting **Re-Apply Categories**.
 -   When the scheduled time arrives, job execution happens in multiple stages \(for example, connect to the provider, download the data, perform the post-import sort, and so on\). The system logs status and results on the Price Sheet Executions page for each stage.
 -   All user-defined tags for cost allocation are assigned the prefix `user:` from AWS while all AWS-generated tag names are automatically assigned the prefix `aws:`. For example, if the tag name is `owner`, in the billing data it is displayed as `user:owner`.
 -   Cost categories are updated with new cost tag values each time billing data is downloaded. \(You define cost tags in the provider portal to associate usage data with a particular business entity. For example, the Cost Center category might include the tags `development`, `testing`, and `QA`. The User category might include the names of your users.\)
@@ -281,10 +281,3 @@ The following events happen when the job executes:
 -   While downloading the data, Cloud Cost Management updates the billing node data table \[sn\_cld\_intg\_&lt;provider&gt;\_cost\_usage\] with the CIs in the CMDB that correspond to each resource ID. If a CI doesn’t exist, the system generates a placeholder CI. On subsequent discovery, the system reconciles the placeholder CI.
 -   Cloud Cost Management generates a log entry for each stage of the execution on the Billing Download Executions page.
 
-## Related
-
-- [[cloud-insights-landing-page|Cloud Cost Management]]
-- [[bh-cloudin|Business hours]]
-- [[ccm-infra-stack|Cloud Cost Management Infra Stack]]
-- [[um-cloudin|Unused resources]]
-- [[ci-workspace|Cloud Cost Management Workspace]]

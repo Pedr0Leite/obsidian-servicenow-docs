@@ -12,7 +12,7 @@ breadcrumb: [Supported integration interfaces, Integration options, Integration 
 
 # JDBCProbe
 
-A JDBC probe runs on the MID Server to query an external database via JDBC and returns [[hs-results|results]] to ServiceNow.
+A JDBC probe runs on the MID Server to query an external database via JDBC and returns results to ServiceNow.
 
 ## Before you begin
 
@@ -39,25 +39,16 @@ Contact Customer Service and Support to activate the **Integration - JDBC** \(co
 4.  Select **Activate**.
 
 
--   **[[c_DirectJDBCProbe|Direct JDBC Probe]]**  
+-   **[Direct JDBC Probe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_DirectJDBCProbe.md)**  
 A direct JDBC probe specifies all the parameters necessary in the outbound ECC Queue XML payload.
--   **[[c_JDBCProbesViaDataSource|JDBC Probes via Data Source]]**  
+-   **[JDBC Probes via Data Source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_JDBCProbesViaDataSource.md)**  
 JDBC probes are executed via a JDBC data source when an import is running against the data source.
--   **[[c_SelectJDBCProbeShortCut|Select \* JDBC Probe short cut]]**  
+-   **[Select \* JDBC Probe short cut](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_SelectJDBCProbeShortCut.md)**  
 Alternatively, you may specify a **table\_name** parameter instead of a work element and the following query could be executed.
--   **[[r_DirectJDBCProbeParameters|Parameters]]**  
+-   **[Parameters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_DirectJDBCProbeParameters.md)**  
 The following parameters are available in a direct JDBC probe.
--   **[[c_UsingTheWorkElement|Using the Work Element]]**  
+-   **[Using the Work Element](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_UsingTheWorkElement.md)**  
 The work element encodes SQL statements to be executed by the probe.
 
-**Parent Topic:**[[r_SupportedIntegrationInterfaces|Supported integration interfaces]]
+**Parent Topic:**[Supported integration interfaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_SupportedIntegrationInterfaces.md)
 
-## Related
-
-- [[c_DirectJDBCProbe|Direct JDBC Probe]]
-- [[c_JDBCProbesViaDataSource|JDBC Probes via Data Source]]
-- [[c_SelectJDBCProbeShortCut|Select \* JDBC Probe short cut]]
-- [[r_DirectJDBCProbeParameters|Parameters]]
-- [[c_UsingTheWorkElement|Using the Work Element]]
-- [[r_SupportedIntegrationInterfaces|Supported integration interfaces]]
-- [[hs-results|Results]]

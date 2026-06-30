@@ -22,7 +22,7 @@ Role required: sn\_vulc.admin
 
 ## About this task
 
-The base system ships with one [[vr-config-compliance-landing|Configuration Compliance]] assignment rule, **Assign to CI support group**, which assigns test results to the same assignment group as the CI support group. This rule is inactive by default. You can modify using filter conditions. With assignment rules, you define one or more conditions of assignment and the order of execution. Once a test result matches a rule condition, the assignment lookup stops.
+The base system ships with one Configuration Compliance assignment rule, **Assign to CI support group**, which assigns test results to the same assignment group as the CI support group. This rule is inactive by default. You can modify using filter conditions. With assignment rules, you define one or more conditions of assignment and the order of execution. Once a test result matches a rule condition, the assignment lookup stops.
 
 **Note:** New or updated rules are automatically evaluated on the next import or manually using the **Apply Changes** button on the Assignment Rules list.
 
@@ -121,6 +121,4 @@ Select the user group responsible for remediating tests that match the condition
 </td></tr></tbody>
 </table>4.  Click **Submit**.
 
-## Related
 
-- [[vr-config-compliance-landing|Configuration Compliance]]

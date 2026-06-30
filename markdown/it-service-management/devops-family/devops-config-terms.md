@@ -16,7 +16,7 @@ breadcrumb: [Exploring DevOps Config, DevOps Config, IT Service Management]
 
 These are some of the common DevOps Config terms.
 
-**Important:** Starting with the Washington D.C. release, [[devops-config-landing-page|DevOps Config]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+**Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 -   **Application**
 
@@ -56,12 +56,8 @@ These are some of the common DevOps Config terms.
 
     Variable configuration data that can be used to roll up configuration values that are used multiple times throughout different sections in the data model.
 
-    Vars created at the component level can be reused anywhere further down, like in a collection and/or deployable. However, vars defined in a particular deployable are intended to be used only in that context \(for example, environment-specific creds, memory [[settings-mobile|settings]], etc.\).
+    Vars created at the component level can be reused anywhere further down, like in a collection and/or deployable. However, vars defined in a particular deployable are intended to be used only in that context \(for example, environment-specific creds, memory settings, etc.\).
 
 
 **Parent Topic:**[Exploring DevOps Config](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-family/devops-config-getting-started.md)
 
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]
-- [[settings-mobile|Settings]]

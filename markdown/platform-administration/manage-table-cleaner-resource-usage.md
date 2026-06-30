@@ -12,7 +12,7 @@ breadcrumb: [Deleting older or unwanted records in Core UI, Manage data growth i
 
 # Manage table cleaner resource usage
 
-Control the system resources used [[table-cleaner|table cleaner]] by updating the table cleaner job.
+Control the system resources used table cleaner by updating the table cleaner job.
 
 ## Before you begin
 
@@ -45,9 +45,5 @@ Table cleaner begins the next run using the updated DMTableCleaner job configura
 
 Check the status of the next table cleaner run by checking the values in the Chunks Errored column in the DMJob Runs \[sys\_dm\_run\] table. If a problem occurs, determine whether the issue occurred in all chunks or a single chunk. View the status of the individual chunks in the DMJob Chunks \[sys\_dm\_chunk\] table by checking the values in the Message and State columns.
 
-**Parent Topic:**[[deleting-older-records|Deleting older or unwanted records in Core UI]]
+**Parent Topic:**[Deleting older or unwanted records in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/deleting-older-records.md)
 
-## Related
-
-- [[deleting-older-records|Deleting older or unwanted records in Core UI]]
-- [[table-cleaner|Table cleaner]]

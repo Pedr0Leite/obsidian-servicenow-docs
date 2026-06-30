@@ -12,25 +12,20 @@ breadcrumb: [Care Team Mobile, Healthcare Operations, Healthcare and Life Scienc
 
 # Configure Care Team Mobile
 
-Set up the [[care-team-mobile-landing|Care Team Mobile]] application.
+Set up the Care Team Mobile application.
 
 ## Configuration overview
 
-1.  [[cto-mobile-install|Activate Care Team Mobile]]
+1.  [Activate Care Team Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/cto-mobile-install.md)
 
     Activate the Care Team Mobile plugin \[com.sn\_cto\_mobile\] if you have the admin role. This plugin includes demo data and activates related plugins if they aren’t already active.
 
-2.  [[cto-mobile-assign-roles|Assign roles for Care Team Mobile users]]
+2.  [Assign roles for Care Team Mobile users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/cto-mobile-assign-roles.md)
 
     User access for Care Team Mobile is based on whether users have been assigned the Team Member or Team Manager role.
 
-3.  [[cto-mobile-enable-push-notifications|Enable Push Notifications for Care Team Mobile]]
+3.  [Enable Push Notifications for Care Team Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/cto-mobile-enable-push-notifications.md)
 
     Push notifications for Care Team Mobile must be enabled manually.
 
-## Related
 
-- [[cto-mobile-install|Activate Care Team Mobile]]
-- [[cto-mobile-assign-roles|Assign roles for Care Team Mobile users]]
-- [[cto-mobile-enable-push-notifications|Enable Push Notifications for Care Team Mobile]]
-- [[care-team-mobile-landing|Care Team Mobile]]

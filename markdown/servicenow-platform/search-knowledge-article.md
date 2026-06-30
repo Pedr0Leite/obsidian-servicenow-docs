@@ -26,7 +26,7 @@ Searching for knowledge articles is essential because users often struggle to fi
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Knowledge** &gt; **[[knowledge-center|Knowledge center]]**.
+1.  Navigate to **All** &gt; **Knowledge** &gt; **Knowledge center**.
 
     You can also access Knowledge Center through **Workspaces** &gt; **Knowledge center**
 
@@ -43,6 +43,3 @@ Searching for knowledge articles is essential because users often struggle to fi
 
 The detailed results are displayed in a list format.
 
-## Related
-
-- [[knowledge-center|Knowledge Center]]

@@ -14,7 +14,7 @@ breadcrumb: [Create a project task from a project, Starting a project, Using Pro
 
 # Link change requests to a project task
 
-Link change requests to tasks on the [[project-task-form|Project Task form]]. You can link change requests only to [[t_CreateAProjectTask|project tasks]] that have no child tasks.
+Link change requests to tasks on the Project Task form. You can link change requests only to project tasks that have no child tasks.
 
 ## Before you begin
 
@@ -57,7 +57,3 @@ On the Project Task form, a notification appears at the top specifying that the 
 
 [Change requests and project tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_ChangeRequestsAndProjectTasks.md)
 
-## Related
-
-- [[project-task-form|Project task form]]
-- [[t_CreateAProjectTask|Project tasks]]

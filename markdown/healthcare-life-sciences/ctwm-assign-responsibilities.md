@@ -12,7 +12,7 @@ breadcrumb: [Setting up roles and responsibilities, Configure, Care Team Work Ma
 
 # Assign responsibilities for Care Team Work Management
 
-Assign responsibilities to users in [[ctwm-landing|Care Team Work Management]] to dictate which specific records users are authorized to view or modify.
+Assign responsibilities to users in Care Team Work Management to dictate which specific records users are authorized to view or modify.
 
 ## Before you begin
 
@@ -33,7 +33,7 @@ In order to access care team case and task information, all operational leaders 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[healthcare-operations-overview|Healthcare Operations]]** &gt; **Healthcare Organizations** &gt; **All**.
+1.  Navigate to **All** &gt; **Healthcare Operations** &gt; **Healthcare Organizations** &gt; **All**.
 
 2.  Select the parent organization.
 
@@ -53,7 +53,4 @@ In order to access care team case and task information, all operational leaders 
 
 7.  Select **Save**.
 
-## Related
 
-- [[ctwm-landing|Care Team Work Management]]
-- [[healthcare-operations-overview|Healthcare Operations]]

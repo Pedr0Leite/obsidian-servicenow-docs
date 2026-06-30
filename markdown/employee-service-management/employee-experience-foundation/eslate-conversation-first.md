@@ -15,7 +15,7 @@ breadcrumb: [Employee Slate introduction, Employee Slate, Unified Employee Exper
 
 # Conversation-first experience
 
-[[employee-slate-landing-page|Employee Slate]] places a conversational AI assistant at the center of the employee experience. Employees ask questions, request services, and complete tasks in natural language from every page.
+Employee Slate places a conversational AI assistant at the center of the employee experience. Employees ask questions, request services, and complete tasks in natural language from every page.
 
 Employee Slate replaces menu-driven navigation with a chat-first interface. Employees describe what they need in plain language. The AI assistant interprets the intent, runs the action, and surfaces the right content from any page in the portal.
 
@@ -34,8 +34,8 @@ The split view opens content alongside the chat panel. Employees review, act on,
 Employees work with the following content types in the split view:
 
 -   Catalog forms: Request forms that employees fill out and submit in the panel.
--   Knowledge articles: Policies and [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] documents that open in full.
--   [[emp-slate-inbox|Tasks and requests]]: Active work items such as approvals or support tickets.
+-   Knowledge articles: Policies and reference documents that open in full.
+-   Tasks and requests: Active work items such as approvals or support tickets.
 -   Canvas pages: Personalized dashboard views with widgets for the employee.
 
 ## Full-page search
@@ -52,8 +52,3 @@ The chat assistant retains conversation context across turns. Employees ask foll
 
 **Note:** Mobile responsiveness is supported through browser responsiveness. However, mobile browser responsiveness for the conversational experiences like full-page chat and bi-directional pages is limited.
 
-## Related
-
-- [[employee-slate-landing-page|Employee Slate]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[emp-slate-inbox|Tasks and requests]]

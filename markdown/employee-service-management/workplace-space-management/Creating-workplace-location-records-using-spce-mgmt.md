@@ -14,7 +14,7 @@ breadcrumb: [Workplace Space Management, Workplace Service Delivery, Employee Se
 
 # Managing workplace locations
 
-Apart from the space administration features provided by [[workplace-safety-mgmt-hr|Workplace Core]], the [[workplace-space-mgmt-ovw|Workplace Space Management]] application enables you to configure exclusive space-related settings.
+Apart from the space administration features provided by Workplace Core, the Workplace Space Management application enables you to configure exclusive space-related settings.
 
 To create workplace location records for buildings, floors, areas, and spaces you can use Workplace Core or Workplace Space Management. To add a workplace records using Workplace Core, see [Create records for your workplace data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/create-records-of-workplace-data-wsd.md).
 
@@ -52,7 +52,7 @@ The following features are available in the Space Management view on the workpla
 
 
 -   **[Add a campus](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/add-a-campus.md)**  
-A [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] campus contains buildings, floors, areas, or spaces.
+A Workplace Service Delivery campus contains buildings, floors, areas, or spaces.
 -   **[Add a building using Workplace Space Management]()**  
 Create a record for every building that is part of your organization. Specify to which region, site, and time zone does the building belong to.
 -   **[Add a floor using Workplace Space Management]()**  
@@ -76,24 +76,15 @@ Define a BOMA type using which you can classify a space based on its BOMA standa
 -   **[Map a space type with BOMA type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/map-a-space-type-with-boma-type.md)**  
 Using Workplace Space Management, map a space type that you created using Workplace Core with a BOMA type.
 -   **[Create a Space Recommender rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/create-a-space-recommender-rule.md)**  
-Define a space recommender rule using which the qualifying spaces must be calculated when a user raises a [[space-assistance|space assistance]] request using [[workplace-services-portal-hr|Workplace Service Portal]]. You must have [[workplace-central-feat|Workplace Central]] plugin.
+Define a space recommender rule using which the qualifying spaces must be calculated when a user raises a space assistance request using Workplace Service Portal. You must have Workplace Central plugin.
 -   **[Raise a space assistance request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/raise-a-space-recommendation-request.md)**  
 Submit a workplace service request to get space allocation recommendations using the Workplace Service Portal. The Workplace Service Delivery space assistance provides you with the best space allocation plan options based on the space quantity and the department that you specify. You can select the most suitable allocation or none. Depending on your selection, the Space planner deploys the plan to use.
 -   **[Create a view-by configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/create-view-by-config.md)**  
 Create a configuration to filter the view of the scenario planner or building overview.
 -   **[Create a KPI Configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/create-kpi-configuration.md)**  
-Create a key performance indicator \(KPI\) that aggregates values from the Space table for use in the [[space-planning|Space Planning]] module.
+Create a key performance indicator \(KPI\) that aggregates values from the Space table for use in the Space Planning module.
 -   **[Reviewing allocation changes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/reviewing-allocation-changes.md)**  
 Review allocation changes in the Space Allocation Type Change Tracker table to plan changes for your scenarios.
 
 **Parent Topic:**[Workplace Space Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/workplace-space-mgmt-ovw.md)
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-space-mgmt-ovw|Workplace Space Management]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[space-assistance|Space assistance]]
-- [[workplace-services-portal-hr|Workplace Service Portal]]
-- [[workplace-central-feat|Workplace Central]]
-- [[space-planning|Space Planning]]

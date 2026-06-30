@@ -14,7 +14,7 @@ breadcrumb: [HR Service Delivery for mobile, HR Service Delivery, Employee Servi
 
 # Hiring manager experience for new hire onboarding
 
-If you're using the [[mobile-employee-experience|Now Mobile app]] with the [[hr-lifecycle-events-landing-page-1|Lifecycle Events]] for Enterprise \[com.sn\_hr\_lifecycle\_ent\] plugin, [[hiring-tab-concept|hiring]] managers can track the onboarding progress of their new hires in a single and consolidated section.
+If you're using the Now Mobile app with the Lifecycle Events for Enterprise \[com.sn\_hr\_lifecycle\_ent\] plugin, hiring managers can track the onboarding progress of their new hires in a single and consolidated section.
 
 The hiring manager experience provides a consolidated view of all of the active onboarding cases of that manager's reports. The manager can drill down into each case form to view and complete their tasks, as well as track tasks that are overdue, view the timeline, and check for any case updates.
 
@@ -29,8 +29,3 @@ To learn more about new hire onboarding and lifecycle events, see [Lifecyle even
 
 **Parent Topic:**[HR Service Delivery for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-mobile/mobile-employee-experience-for-hr-service-delivery.md)
 
-## Related
-
-- [[mobile-employee-experience|Now Mobile app]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[hiring-tab-concept|Hiring]]

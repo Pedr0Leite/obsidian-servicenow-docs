@@ -16,7 +16,7 @@ Configure personal corporate mailboxes in the ServiceNow platform to enable user
 
 ## Before you begin
 
-The email account should be created and connected. For more information, see [[t_ConfigureAnEmailAccount|Create an email account]].
+The email account should be created and connected. For more information, see [Create an email account](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ConfigureAnEmailAccount.md).
 
 The User Mailbox Integration \(com.glide.email.user\_mailbox.integration\) plugin must be installed.
 
@@ -26,7 +26,7 @@ Role required: admin
 
 1.  Create an email client template.
 
-    To configure an [[c_EnableTheEmailClient|email client]] template, see [[t_CreateAnEmailClientTemplate|Create an email client template]].
+    To configure an email client template, see [Create an email client template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAnEmailClientTemplate.md).
 
     1.  On the **Sender Configuration** tab, for the **From Generation Type** select **User Email Addresses**.
 
@@ -163,18 +163,11 @@ OAuth application registry record for this account.
 
 </td><td>
 
-Enter a domain name to identify your [[email-service|email service]] \(for example gmail.com\).
+Enter a domain name to identify your email service \(for example gmail.com\).
 
 </td></tr></tbody>
 </table>10. Select **Submit**.
 
 
-**Parent Topic:**[[personal-corporate-mailbox|Personal corporate mailbox]]
+**Parent Topic:**[Personal corporate mailbox](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/personal-corporate-mailbox.md)
 
-## Related
-
-- [[t_ConfigureAnEmailAccount|Create an email account]]
-- [[t_CreateAnEmailClientTemplate|Create an email client template]]
-- [[personal-corporate-mailbox|Personal corporate mailbox]]
-- [[c_EnableTheEmailClient|Email client]]
-- [[email-service|Email service]]

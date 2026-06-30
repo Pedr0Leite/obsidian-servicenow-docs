@@ -14,7 +14,7 @@ breadcrumb: [Configuring Employee Center for Microsoft Viva Connections, Employe
 
 # Authorize Employee Center for Microsoft Viva Connections
 
-Authorize the [[sn-ms-viva-integrations|Employee Center for Microsoft Viva Connections]] application to enable the display of the ServiceNow card in the Microsoft Viva dashboard.
+Authorize the Employee Center for Microsoft Viva Connections application to enable the display of the ServiceNow card in the Microsoft Viva dashboard.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ The administrator role in Microsoft Azure can be as follows:
 
 1.  Navigate to **All** &gt; **ServiceNow for Microsoft 365** &gt; **Install Azure apps**.
 
-2.  Select the **Authorize** button in the **[[employee-center-landing-page|Employee Center]] for Viva Connections** entry.
+2.  Select the **Authorize** button in the **Employee Center for Viva Connections** entry.
 
 3.  Select **Accept** to provide admin consent.
 
@@ -45,7 +45,3 @@ On successful authorization, the app is installed in the instance.
 
 **Parent Topic:**[Configuring Employee Center for Microsoft Viva Connections](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/configure-viva.md)
 
-## Related
-
-- [[sn-ms-viva-integrations|Employee Center for Microsoft Viva Connections]]
-- [[employee-center-landing-page|Employee Center]]

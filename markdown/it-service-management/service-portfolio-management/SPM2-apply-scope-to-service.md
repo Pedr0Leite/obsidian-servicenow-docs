@@ -28,7 +28,7 @@ To view the list of scope entries in your system, enter `service_scope.list` in 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[SPM2-landing-page|Service Portfolio Management]]** &gt; **Services**.
+1.  Navigate to **All** &gt; **Service Portfolio Management** &gt; **Services**.
 
 2.  Select the name of a service for which you want to define scope.
 
@@ -45,6 +45,3 @@ To view the list of scope entries in your system, enter `service_scope.list` in 
 
 **Parent Topic:**[Using Service Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-using.md)
 
-## Related
-
-- [[SPM2-landing-page|Service Portfolio Management]]

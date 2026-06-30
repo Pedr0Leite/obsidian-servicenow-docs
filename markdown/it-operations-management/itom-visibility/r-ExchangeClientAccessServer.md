@@ -14,7 +14,7 @@ breadcrumb: [Software discovery, Data collected by ITOM Visibility, ITOM Visibil
 
 # Microsoft Exchange Client Access Server discovery
 
-[[r-discovery|Discovery]] creates or updates a CMDB record when it detects a running instance of Microsoft Exchange Client Access Server \(Microsoft Exchange CAS\).
+Discovery creates or updates a CMDB record when it detects a running instance of Microsoft Exchange Client Access Server \(Microsoft Exchange CAS\).
 
 By default, Discovery uses the **CAS On Windows** pattern to discover the Exchange Client Access Server.
 
@@ -36,6 +36,3 @@ The following data is collected on the Exchange Client Access Server `[cmdb_ci_e
 
 **Parent Topic:**[Software discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_Software.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

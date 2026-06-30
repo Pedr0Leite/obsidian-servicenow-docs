@@ -14,7 +14,7 @@ breadcrumb: [Use, IT Remediation Workspace, Vulnerability Response Workspaces, U
 
 # Request an exception using GRC: Policy and Compliance Management in the IT Remediation Workspace
 
-Request a policy exception for the host vulnerable item \(VIT\), application vulnerable item \(AVIT\), container vulnerable item \(CVIT\) or remediation task \(VUL, AVUL, CVUL, or CRG\) from the [[it-remediation-workspace-landing-page|IT Remediation Workspace]].
+Request a policy exception for the host vulnerable item \(VIT\), application vulnerable item \(AVIT\), container vulnerable item \(CVIT\) or remediation task \(VUL, AVUL, CVUL, or CRG\) from the IT Remediation Workspace.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ Role required:
 
 ## About this task
 
-**Note:** Starting with v19.0 of [[vuln-landing-page|Vulnerability Response]], the following terms have been renamed:
+**Note:** Starting with v19.0 of Vulnerability Response, the following terms have been renamed:
 
 |Terminology prior to v19.0|Terminology v19.0 onwards|
 |--------------------------|-------------------------|
@@ -61,7 +61,4 @@ Role required:
 
     For more information on the Policy Exception Integration and the hand-off between the remediation owner and the compliance manager, see [Policy and Compliance Management optional setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-compliance-optional-steps.md).
 
-## Related
 
-- [[it-remediation-workspace-landing-page|IT Remediation Workspace]]
-- [[vuln-landing-page|Vulnerability Response]]

@@ -26,17 +26,14 @@ Role required: admin
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  In the primary navigation pane, select the [[dex-workspace-administration-tab|DEX Administration]] icon \(\[Omitted image "icon-administration.png"\] Alt text: The DEX Administration icon.\).
+2.  In the primary navigation pane, select the DEX Administration icon \(\[Omitted image "icon-administration.png"\] Alt text: The DEX Administration icon.\).
 
 3.  Under Desktop Assistant, select **Usage metrics**.
 
     You can view the Desktop Assistant users who are logged in, their connection status, and the Desktop Assistant versions.
 
-    \[Omitted image "desktop-exp-dashboard.png"\] Alt text: [[dex-desktop-exp-dashboard|Desktop Assistant usage metrics]] page
+    \[Omitted image "desktop-exp-dashboard.png"\] Alt text: Desktop Assistant usage metrics page
 
     For more details on the usage metrics, see [Desktop Assistant usage metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-desktop-exp-dashboard.md).
 
-## Related
 
-- [[dex-workspace-administration-tab|DEX Administration]]
-- [[dex-desktop-exp-dashboard|Desktop Assistant usage metrics]]

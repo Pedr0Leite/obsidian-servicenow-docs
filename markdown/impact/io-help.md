@@ -21,8 +21,5 @@ There are four menu options in the Help Center:
 -   Release Notes: Contains information regarding each Instance Observer release.
 -   How to Docs: Access documentation directly related to Instance Observer functionality.
 
-**Parent Topic:**[[io-overview|Monitoring instance health with Instance Observer]]
+**Parent Topic:**[Monitoring instance health with Instance Observer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-overview.md)
 
-## Related
-
-- [[io-overview|Monitoring instance health with Instance Observer]]

@@ -14,7 +14,7 @@ breadcrumb: [Activate HR Predictive Intelligence Workbench, HR Predictive Intell
 
 # Components installed with HR Predictive Intelligence Workbench
 
-Several types of components are installed with activation of the [[hr-predictive-intelligence-wb|HR Predictive Intelligence Workbench]] HRSD content plugin \[com.sn\_piwb\_hrsd\_content\] plugin, including user roles.
+Several types of components are installed with activation of the HR Predictive Intelligence Workbench HRSD content plugin \[com.sn\_piwb\_hrsd\_content\] plugin, including user roles.
 
 ## Roles installed
 
@@ -48,6 +48,3 @@ With this role, you can:-   Configure Predictive Intelligence Workbench property
 </td></tr></tbody>
 </table>**Parent Topic:**[Activate HR Predictive Intelligence Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/activate-HRSD-WB.md)
 
-## Related
-
-- [[hr-predictive-intelligence-wb|HR Predictive Intelligence Workbench]]

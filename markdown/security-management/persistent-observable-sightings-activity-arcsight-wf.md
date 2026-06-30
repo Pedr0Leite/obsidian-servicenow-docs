@@ -12,7 +12,7 @@ breadcrumb: [Security Operations Integration - Sightings Search Flow, Create sig
 
 # Persistent Observable Sightings activity
 
-The **Persistent Observable [[indicator-sightings|Sightings]]** workflow activity retrieves [[c_Observables|observables]] from the third-party integration.
+The **Persistent Observable Sightings** workflow activity retrieves observables from the third-party integration.
 
 The **Persistent Observable Sightings** activity can be used with any workflow to record observables found in the third-party integration.
 
@@ -42,10 +42,5 @@ The output variables contain data that can be used in subsequent activities.
 |--------|-----------|
 |response| |
 
-**Parent Topic:**[[secops-integration-sightings-search-workflow|Security Operations Integration - Sightings Search Flow]]
+**Parent Topic:**[Security Operations Integration - Sightings Search Flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/secops-integration-sightings-search-workflow.md)
 
-## Related
-
-- [[secops-integration-sightings-search-workflow|Security Operations Integration - Sightings Search Flow]]
-- [[indicator-sightings|Sightings]]
-- [[c_Observables|Observables]]

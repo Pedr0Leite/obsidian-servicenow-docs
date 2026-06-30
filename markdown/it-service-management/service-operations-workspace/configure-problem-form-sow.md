@@ -14,7 +14,7 @@ breadcrumb: [Configuring Problem Management in Service Operations Workspace, Get
 
 # Configure the problem form layout in Service Operations Workspace
 
-[[problem-configure-forms|Configure the problem form]] so that the information it collects is relevant to your organization's processes. You can easily modify the form to show only the fields, related lists, and other elements that you need.
+Configure the problem form so that the information it collects is relevant to your organization's processes. You can easily modify the form to show only the fields, related lists, and other elements that you need.
 
 ## Before you begin
 
@@ -32,6 +32,4 @@ Role required: admin or personalize\_form
     -   To customize the layouts of new problem forms, select **Service Operations Workspace New Record**.
 4.  If the form is in a different application scope, select **Edit in original scope** before you start editing.
 
-## Related
 
-- [[problem-configure-forms|Configure the problem form]]

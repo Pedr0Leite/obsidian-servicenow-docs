@@ -22,7 +22,7 @@ Role required: sn\_process\_mining\_power\_user or sn\_process\_mining\_admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[analyst-workbench-overview|Process Mining Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Process Mining Workspace**.
 
 2.  On the side of the page, select the Process configurations icon \(\[Omitted image "icon-process-config.png"\] Alt text: Process configuration builder\).
 
@@ -53,7 +53,7 @@ Role required: sn\_process\_mining\_power\_user or sn\_process\_mining\_admin
 
     \[Omitted image "proces-det-2.png"\] Alt text: Breakdown fields in process configuration
 
-    Breakdown fields are used to segment the process, enabling the analysis of specific subsets of the process data. Configuring breakdown fields enables analysis of process subsets. It provides you with recommendations for the most suitable breakdown in your projects, and surfaces recommendations for [[auto-rca|automated root cause analysis]] fields in this process configuration.
+    Breakdown fields are used to segment the process, enabling the analysis of specific subsets of the process data. Configuring breakdown fields enables analysis of process subsets. It provides you with recommendations for the most suitable breakdown in your projects, and surfaces recommendations for automated root cause analysis fields in this process configuration.
 
     **Note:**
 
@@ -128,7 +128,3 @@ Priority
 
 **Parent Topic:**[Create process configuration using Process Configuration Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/process-config-builder.md)
 
-## Related
-
-- [[analyst-workbench-overview|Process Mining workspace]]
-- [[auto-rca|Automated root cause analysis]]

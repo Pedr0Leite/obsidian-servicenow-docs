@@ -14,13 +14,13 @@ breadcrumb: [Configuring target source for target automation, Configuring goals 
 
 # Context variable in target source
 
-The context variable is an additional configuration for the target source that can be used on the [[target-form|Target form]] to fetch the required data and auto-update the **Actual value** field on the Target form. A context variable is required for target source types Assessment/Survey and PA Indicator.
+The context variable is an additional configuration for the target source that can be used on the Target form to fetch the required data and auto-update the **Actual value** field on the Target form. A context variable is required for target source types Assessment/Survey and PA Indicator.
 
-The context variable is automatically created \(with the **Mandatory** field set to **true** on the [[context-variable-form|context variable form]]\) for the target source \(of type Assessment/Survey and PA Indicator\) when the Goal Framework for SPM scope is selected before creating a target source. The context variables created automatically are also known as mandatory context variables.
+The context variable is automatically created \(with the **Mandatory** field set to **true** on the context variable form\) for the target source \(of type Assessment/Survey and PA Indicator\) when the Goal Framework for SPM scope is selected before creating a target source. The context variables created automatically are also known as mandatory context variables.
 
 The mandatory context variables are created when you've selected the Goal Framework for SPM scope and you've met one of the following conditions:
 
--   \(For target source type, Assessment/Survey\) On the [[target-source-form|Target Source form]], the **Type** field is set to **Assessment/Survey** and the **Assessment Metric Types** field is populated with a metric type of **Evaluation method = Assessment**.
+-   \(For target source type, Assessment/Survey\) On the Target Source form, the **Type** field is set to **Assessment/Survey** and the **Assessment Metric Types** field is populated with a metric type of **Evaluation method = Assessment**.
 
     \[Omitted image "goals-assessment-metric-type-apw.png"\] Alt text: Assessment metric type.
 
@@ -35,8 +35,3 @@ You can also create context variables manually for a target source and use them 
 
 **Parent Topic:**[Configuring target source for target automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/setting-targets-for-a-goal-and-automating-the-actual-value-using-agf-apw.md)
 
-## Related
-
-- [[target-form|Target form]]
-- [[context-variable-form|Context Variable form]]
-- [[target-source-form|Target Source form]]

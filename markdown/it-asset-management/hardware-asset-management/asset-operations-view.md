@@ -14,12 +14,12 @@ breadcrumb: [Hardware Asset Workspace, Explore, Hardware Asset Management, IT As
 
 # Asset operations view
 
-Use the Asset operations view in the [[using-ham-workspace|Hardware Asset Workspace]] to view the asset operations-related functions such as [[c_StockRules|stock rules]], stock orders, [[c_Procurement|procurement]] sourcing requests, all contract renewal requests, contract renewal line items, custom products, custom [[c_Models|models]], and take appropriate actions.
+Use the Asset operations view in the Hardware Asset Workspace to view the asset operations-related functions such as stock rules, stock orders, procurement sourcing requests, all contract renewal requests, contract renewal line items, custom products, custom models, and take appropriate actions.
 
 The Asset operations view includes the following list:
 
 -   Inventory
-    -   [[r_StockroomTypes|Stockroom types]]: View types of [[c_Stockrooms|stockrooms]]. For more information, see [Create a new stockroom type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/t_CreateANewStockroomType.md).
+    -   Stockroom types: View types of stockrooms. For more information, see [Create a new stockroom type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/t_CreateANewStockroomType.md).
     -   Stock rules: View stock rules associated with the stockroom. For more details, see [Create a stock rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/t_CreateAStockRule.md).
     -   Stock orders: View stock orders associated with the inventory.
 -   Shipment
@@ -29,7 +29,7 @@ The Asset operations view includes the following list:
     -   Carrier integration profiles: View the list of carrier integration profiles associated with the shipping carriers. For more information, see [View the carrier integration profile details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/view-integration-profiles.md).
 -   Procurement-Requests: View and track procurement requests. For more information, see [Sourcing items in a service catalog request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/procurement/c_SourcingRequestItems.md).
 -   Hardware asset normalization
-    -   Custom products: View details of custom products that aren't represented in the [[am-landing-page|Asset Management]] Content Service. For more information, see [Add a custom product](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/add-custom-hardware-model.md).
+    -   Custom products: View details of custom products that aren't represented in the Asset Management Content Service. For more information, see [Add a custom product](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/add-custom-hardware-model.md).
     -   Custom models: View details of custom models. For more information, see [Create a hardware or consumable model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-hardware-consumable-model.md).
     -   Calculated lifecyle templates: View and create life cycle templates and formulas that can be applied on hardware and consumable models. For more information, see [Manage the lifecycle of hardware models with calculated lifecycle templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/manage-ham-lifecycle-temp.md).
 -   Contract Renewal
@@ -39,31 +39,31 @@ The Asset operations view includes the following list:
     For more information, see [Contract renewal workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/cont-renew-wf.md).
 
 -   KPI configuration
-    -   KPI opt in: Enable the asset performance tracking by opting in to the [[model-hierarchy|model categories]] of the assets. For details, see [Opt in to model categories to track performance KPIs for hardware assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/opt-in-kpi-tracking-ham.md).
+    -   KPI opt in: Enable the asset performance tracking by opting in to the model categories of the assets. For details, see [Opt in to model categories to track performance KPIs for hardware assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/opt-in-kpi-tracking-ham.md).
     -   Operational schedules: Create and view operational schedules for hardware assets. For details, see [Create an operational schedule for hardware assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-operational-schedule-ham.md)
     -   Asset schedules: Link hardware assets to their respective operational schedules and align KPI records accordingly. For details, see [Map hardware assets to an operational schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-asset-schedule-ham.md)
 -   TCO configuration
     -   Task rate card: Define the type of task and the method of calculating the associated costs, and view the details of the created task rate cards. For more information, see [Create a task rate card in Hardware Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-ham-task-rate-card.md).
     -   Labor rate card: Record the time worked on a task and associate a rate to the task, and view the details of the created labor rate cards. For more information, see [Create a labor rate card in Hardware Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-ham-labor-task.md).
 -   Zero touch
-    -   Asset requests: View the list of hardware asset requests of your employees submitted through the [[zero-touch-request|Zero Touch request flow]]. For more information, see [Manage hardware asset requests using the Zero Touch request flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/managing-standard-hw-req-ztr.md).
-    -   Provider integration profiles: [[create-int-profile-ztr-ham|Create a provider integration profile]] to transform the Scratchpad updates from your provider into a format required for the Zero Touch request flow. For more information, see [Create a provider integration profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-int-profile-ztr-ham.md).
--   [[zero-touch-asset-refresh|Zero touch refresh]]
+    -   Asset requests: View the list of hardware asset requests of your employees submitted through the Zero Touch request flow. For more information, see [Manage hardware asset requests using the Zero Touch request flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/managing-standard-hw-req-ztr.md).
+    -   Provider integration profiles: Create a provider integration profile to transform the Scratchpad updates from your provider into a format required for the Zero Touch request flow. For more information, see [Create a provider integration profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-int-profile-ztr-ham.md).
+-   Zero touch refresh
     -   Requests: View the list of Zero Touch Refresh requests of your employees. For more information, see [Process a Zero Touch Refresh request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/process-zero-touch-asset-request.md).
     -   Refresh models: Create and view the list of refresh models with the configured replacement models. For more information, see [Configure replacement models for a refresh model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-replacement-model.md).
 -   Attestation
-    -   Attestations: View the list of [[asset-attestation-ham|asset attestation]] requests. For more information, see [Create an asset attestation in the Inventory view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-attestation-req-ham.md).
+    -   Attestations: View the list of asset attestation requests. For more information, see [Create an asset attestation in the Inventory view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-attestation-req-ham.md).
     -   Schedules: View the list of attestation schedules that create recurring attestation requests. For more information, see [Cancel an attestation schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/cancel-attestation-schedule-ham.md).
 -   Hardware asset success
-    -   Success goals: Create success goals and view the list of created success goals for [[ham-landing-page|Hardware Asset Management]]. For more information, see [Create a success goal for Hardware Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-suc-goal.md).
+    -   Success goals: Create success goals and view the list of created success goals for Hardware Asset Management. For more information, see [Create a success goal for Hardware Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-suc-goal.md).
     -   Success activities: Create success activities and view the list of created success activities for Hardware Asset Management. For more information, see [Create success activities for HAM success goals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-suc-act-hw.md).
     -   Success categories: Create a category for a success goal and view the list of categories. For more information, see [Create a success goal category for hardware assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-ham-suc-cat.md).
     -   Hardware maturity: View items that help you drive the success of your hardware assets. For more information, see [View all maturity items for Hardware Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/view-ham-maturity-items.md).
--   Asset audits: [[view-deprecated-audit-records|View deprecated audit records]] created in the Asset Audits \[sn\_hamp\_asset\_audit\] table before upgrading to the audit enhancements introduced in Hardware Asset Management version 15.0.0. For more information, see [View deprecated audit records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/view-deprecated-audit-records.md).
+-   Asset audits: View deprecated audit records created in the Asset Audits \[sn\_hamp\_asset\_audit\] table before upgrading to the audit enhancements introduced in Hardware Asset Management version 15.0.0. For more information, see [View deprecated audit records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/view-deprecated-audit-records.md).
 
     **Important:**
 
-    If you have enabled the audit enhancements and switched to the common audit table, new asset audit records are now stored in the Asset Audits \[sn\_itam\_common\_asset\_audit\] table. After the switch, you can't view deprecated audit records \(created before switching to common table and stored in the Asset Audits \[sn\_hamp\_asset\_audit\] table\) in the **Asset audits** tab from the [[inventory-view-am|Inventory view]].
+    If you have enabled the audit enhancements and switched to the common audit table, new asset audit records are now stored in the Asset Audits \[sn\_itam\_common\_asset\_audit\] table. After the switch, you can't view deprecated audit records \(created before switching to common table and stored in the Asset Audits \[sn\_hamp\_asset\_audit\] table\) in the **Asset audits** tab from the Inventory view.
 
     You can view the deprecated audit records from the Asset Operations view, when the **migrate\_hamaudit** system property to **true**.
 
@@ -82,20 +82,3 @@ You can also create and easily access your custom list views from the **My Lists
 
 [Work with hardware normalization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/Work-with-hardware-normalization.md)
 
-## Related
-
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[c_StockRules|Stock rules]]
-- [[c_Procurement|Procurement]]
-- [[c_Models|Models]]
-- [[r_StockroomTypes|Stockroom types]]
-- [[c_Stockrooms|Stockrooms]]
-- [[am-landing-page|Asset Management]]
-- [[model-hierarchy|Model categories]]
-- [[zero-touch-request|Zero Touch request flow]]
-- [[create-int-profile-ztr-ham|Create a provider integration profile]]
-- [[zero-touch-asset-refresh|Zero Touch Refresh]]
-- [[asset-attestation-ham|Asset Attestation]]
-- [[ham-landing-page|Hardware Asset Management]]
-- [[view-deprecated-audit-records|View deprecated audit records]]
-- [[inventory-view-am|Inventory view]]

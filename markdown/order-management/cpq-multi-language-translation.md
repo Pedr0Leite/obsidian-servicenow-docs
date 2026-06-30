@@ -20,7 +20,7 @@ CPQ can be set up to display configuration experiences in a user's preferred lan
 
 CPQ multi-language capability is available on end-user user interfaces \(buyside\). The administration platform displays English only.
 
-CPQ supports all left-to-right languages, including those with multi-byte character [[cpq-sets|sets]] \(e.g., Japanese, Korean\).
+CPQ supports all left-to-right languages, including those with multi-byte character sets \(e.g., Japanese, Korean\).
 
 **Note:** Right-to-left languages such as Arabic and Hebrew are not currently supported. If your implementation expects to require translation into a right-to-left language, please log a support case and we will follow up with you. To log a support case, use the [ServiceNow Support portal](https://support.servicenow.com). For step-by-step instructions, see [Create a case on Now Support for CPQ \(Logik.ai\) Customers](https://support.servicenow.com/kb?sys_kb_id=d67d3e71475d7a90f64de825126d4326&id=kb_article_view).
 
@@ -34,7 +34,7 @@ Static strings: Text CPQ displays to the user that is defined by the application
 
 Custom strings: Field labels, field option labels, product name and description, layout tier headings, custom messages and similar strings defined by an administrator are "custom".
 
-Base language: the foundational language in a CPQ environment. Choosing your base language is an important decision, as \(1.\) all configuration elements—including [[fields|fields]], field options, layout elements, and custom message text—must be defined in the base language; and \(2.\) all translations of custom strings key off of the base language. A CPQ environment can only have one base language. All environments in your dev stack need to have the same base language, to enable environment-to-environment migration.
+Base language: the foundational language in a CPQ environment. Choosing your base language is an important decision, as \(1.\) all configuration elements—including fields, field options, layout elements, and custom message text—must be defined in the base language; and \(2.\) all translations of custom strings key off of the base language. A CPQ environment can only have one base language. All environments in your dev stack need to have the same base language, to enable environment-to-environment migration.
 
 Enabled languages: in addition to the base language, these are the languages you want to support for your end-users coming to CPQ.
 
@@ -45,7 +45,7 @@ Enabled languages: in addition to the base language, these are the languages you
 
     -   Select a picklist field displayed on the end-user layout. Example: In Blueprint1, we will translate Paint Color \[paintColor\]. paintColor has label "Paint Color" and options "Blue", "Yellow", "Green".
     -   For the purposes of this experiment, assume we enabled Spanish \[es\] in step \#1. You can customize this experiment for one of the languages you enabled in step \#1. In a CSV file, define Spanish \[es\] translations for the field label and the picklist field options:\[Omitted image "cpq-spanish-translation-csv.png"\] Alt text: CSVfile
-    The graphic above is a sample translation upload file. You can find another example on the [[matrix_loader_table_of_contents|Matrix Loader]] page.
+    The graphic above is a sample translation upload file. You can find another example on the Matrix Loader page.
 
     \[Omitted image "cpq-matrix-loader-translations.png"\] Alt text: Matrix loader
 
@@ -55,7 +55,7 @@ Enabled languages: in addition to the base language, these are the languages you
 
 4.  Deploy the blueprint.
 
-To test the [[buyside-user-interface|buyside user interface]], we recommend using the Chrome browser with the [https://chromewebstore.google.com/detail/locale-switcher/kngfjpghaokedippaapkfihdlmmlafcc?hl=en-US](https://chromewebstore.google.com/detail/locale-switcher/kngfjpghaokedippaapkfihdlmmlafcc?hl=en-US) extension installed. This extension allows you to quickly switch the browser locale to test localization. Set Locale Switcher to Spanish \[es\] and open the Blueprint1 configuration. The paintColor field label and contents should be displayed using the custom translated strings in \#2.
+To test the buyside user interface, we recommend using the Chrome browser with the [https://chromewebstore.google.com/detail/locale-switcher/kngfjpghaokedippaapkfihdlmmlafcc?hl=en-US](https://chromewebstore.google.com/detail/locale-switcher/kngfjpghaokedippaapkfihdlmmlafcc?hl=en-US) extension installed. This extension allows you to quickly switch the browser locale to test localization. Set Locale Switcher to Spanish \[es\] and open the Blueprint1 configuration. The paintColor field label and contents should be displayed using the custom translated strings in \#2.
 
 The following graphic shows the English version of the picklist on the buyside UI:
 
@@ -65,16 +65,16 @@ The following graphic shows the Spanish version of the picklist on the buyside U
 
 \[Omitted image "cpq-picklist-buyside-ui-spanish.png"\] Alt text: Select color
 
-The following experiment demonstrates how various custom strings, including those defined in field options and [[layouts|layouts]], are translated, uploaded, and deployed to accomplish an English-to-Spanish translation.
+The following experiment demonstrates how various custom strings, including those defined in field options and layouts, are translated, uploaded, and deployed to accomplish an English-to-Spanish translation.
 
 1.  Compile a list of custom strings that require translation.
 2.  Export the following CSV files from CPQ administration:
     -   Field Options: every field option label requires translation. In the Field Option CSV file, these are the strings defined in the name column
-    -   [[cpq-picklist-extensions-ples|Picklist extensions]]: for each picklist extension that has Extended Information defined, export the Extension Data CSV file. A translation should be provided for every string in columns B and greater.
-    -   [[product_picker_overview|Product Pickers]]: strings defined in Determination-type Bulk Actions should be translated into the target language.
-    -   [[rules_101|Rules]]:
+    -   Picklist extensions: for each picklist extension that has Extended Information defined, export the Extension Data CSV file. A translation should be provided for every string in columns B and greater.
+    -   Product Pickers: strings defined in Determination-type Bulk Actions should be translated into the target language.
+    -   Rules:
         -   When action\_type = message, action\_value requires translation
-        -   When action\_type = determination and the action affects a text field, many [[use-cases|use cases]] require translation of the string in action\_value
+        -   When action\_type = determination and the action affects a text field, many use cases require translation of the string in action\_value
     -   Layout: Translations are needed for:
         -   Tier headings
         -   Columnset headings
@@ -86,7 +86,7 @@ The following experiment demonstrates how various custom strings, including thos
     -   XLIFF: [SampleTranslationUploadFormat\_en\_to\_fr.xlf](https://drive.google.com/file/d/1z1bfkhiS3mMuK38ywujTFSPha98CNuCq/view?usp=drive_link)
 4.  For each string identified in step 1, add an entry to your translation file.
 5.  Upload your file in the Matrix Loader.
-6.  Deploy the corresponding [[blueprints|blueprints]].
+6.  Deploy the corresponding blueprints.
 
 ## Downloading translated strings
 
@@ -98,15 +98,3 @@ where \{fileType\} is either `csv` or `xml`, and \{codes\} is a comma-delimited 
 
 **Note:** Some characters in the rendered translated string may include diacritic marks \(accents, etc.\), and if the wrong character set is used these will appear as a replacement symbol for unknown character \(square with a question mark\). To avoid this problem, export CSV files using the UTF-8 format.
 
-## Related
-
-- [[cpq-sets|Sets]]
-- [[fields|Fields]]
-- [[matrix_loader_table_of_contents|Matrix Loader]]
-- [[buyside-user-interface|Buyside user interface]]
-- [[layouts|Layouts]]
-- [[cpq-picklist-extensions-ples|Picklist extensions]]
-- [[product_picker_overview|Product pickers]]
-- [[rules_101|Rules]]
-- [[use-cases|Use cases]]
-- [[blueprints|Blueprints]]

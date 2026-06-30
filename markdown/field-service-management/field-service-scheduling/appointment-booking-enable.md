@@ -14,7 +14,7 @@ breadcrumb: [Configure Appointment Booking, Configuring Appointment Booking, Add
 
 # Enable or disable appointment booking
 
-Turn the [[appointment-booking|Appointment Booking]] feature on or off for an application and its individual services.
+Turn the Appointment Booking feature on or off for an application and its individual services.
 
 ## Before you begin
 
@@ -49,6 +49,3 @@ Appointment booking is enabled or disabled based on your configuration settings.
 
 [Create or modify an application configuration for Appointment Booking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/appt-booking-create-app-config.md)
 
-## Related
-
-- [[appointment-booking|Appointment booking]]

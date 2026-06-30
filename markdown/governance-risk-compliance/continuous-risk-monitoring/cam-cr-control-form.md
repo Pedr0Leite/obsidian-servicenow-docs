@@ -18,7 +18,7 @@ The CAM view of the Control form has fields that have been added to capture the 
 
 To accommodate the control requirement details in the CAM view of a Control objective form a Control objective requirements related list is added.
 
-**Note:** The views of the Control objective form and Control form in the CAM view are almost the same as the Control objective and Control forms used in [[r_PolicyComplianceMgmt|Policy and Compliance Management]]. However, some fields have been removed and some added in the forms to capture the control requirement details.
+**Note:** The views of the Control objective form and Control form in the CAM view are almost the same as the Control objective and Control forms used in Policy and Compliance Management. However, some fields have been removed and some added in the forms to capture the control requirement details.
 
 ## CAM view of a Control objective form
 
@@ -511,6 +511,3 @@ Message logs of control requirement's state change.
 </td></tr></tbody>
 </table>**Parent Topic:**[CAM reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/reference-grc-cam.md)
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

@@ -20,7 +20,7 @@ The ITAM: Process integration profiles and stale shipment job runs daily to chec
 
 The tracking number of the shipment record that is marked stale isn’t sent to the carrier for further tracking. If you know the reason that a shipment is late, you can decide to continue tracking it. For more information, see [Continue to track delayed shipments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/track-delayed-shipments.md).
 
-**Note:** You can view the list of shipments that weren’t updated with the tracking information from the integrated carrier through the Stale shipments important actions card in the [[inventory-view-am|Inventory view]]. For more information, see [Inventory view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/inventory-view.md).
+**Note:** You can view the list of shipments that weren’t updated with the tracking information from the integrated carrier through the Stale shipments important actions card in the Inventory view. For more information, see [Inventory view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/inventory-view.md).
 
 -   **[Continue to track delayed shipments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/track-delayed-shipments.md)**  
 Continue to track a stale hardware asset shipment that is delayed if the reason for the delay is known.
@@ -48,6 +48,3 @@ Continue to track a stale hardware asset shipment that is delayed if the reason 
 
 [Track a hardware asset shipment]()
 
-## Related
-
-- [[inventory-view-am|Inventory view]]

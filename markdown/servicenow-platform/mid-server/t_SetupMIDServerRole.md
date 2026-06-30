@@ -14,7 +14,7 @@ breadcrumb: [Installing the MID Server, Configuring MID Server, MID Server, Mana
 
 # Create the MID Server user and grant the role
 
-To communicate with the instance, MID Servers need a user ID and the appropriate role. Create the user ID for a [[mid-server-landing|MID Server]] and grant the ID the **mid\_server** role. To prevent MID Server validation failure, the system runs business rules to monitor the settings selected for MID Server users.
+To communicate with the instance, MID Servers need a user ID and the appropriate role. Create the user ID for a MID Server and grant the ID the **mid\_server** role. To prevent MID Server validation failure, the system runs business rules to monitor the settings selected for MID Server users.
 
 ## Before you begin
 
@@ -100,7 +100,7 @@ Password for the MID Server user. This password is specified in the **mid.instan
 
     2.  Use your new MID Server user credentials to log in.
 
-        If the login is successful, then any MID Servers you install on that host will be able to [[c_Connect|connect]] to the instance.
+        If the login is successful, then any MID Servers you install on that host will be able to connect to the instance.
 
 
 ## MID Server role validation
@@ -134,7 +134,3 @@ The User Role \[sys\_user\_has\_role\] table creates the relationship between th
 
 [Download](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/t_DownloadMIDServerFiles.md) the MID Server files for your operating system.
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[c_Connect|Connect]]

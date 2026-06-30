@@ -14,7 +14,7 @@ breadcrumb: [Configuring DevOps Config, DevOps Config, IT Service Management]
 
 # Configure your pipeline in DevOps Config
 
-Configure your Argo CD, Azure DevOps, or Jenkins pipeline with [[devops-config-landing-page|DevOps Config]] to interact with your data model.
+Configure your Argo CD, Azure DevOps, or Jenkins pipeline with DevOps Config to interact with your data model.
 
 **Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
@@ -38,6 +38,4 @@ These orchestration tool integrations are included with the DevOps Config base s
 
     Visit the Ancillary Software section on the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) website to download the Jenkins plugin for ServiceNow DevOps to integrate your Jenkins pipeline with the ServiceNow DevOps Config application.
 
-## Related
 
-- [[devops-config-landing-page|DevOps Config]]

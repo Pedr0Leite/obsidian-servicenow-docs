@@ -14,7 +14,7 @@ breadcrumb: [Define inventory records, Use, Telecommunications Network Inventory
 
 # Manage your network functions
 
-Create application services, business applications, and network interfaces to manage all type of network functions. Here you can create, review, update, and delete application services, and business applications using the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+Create application services, business applications, and network interfaces to manage all type of network functions. Here you can create, review, update, and delete application services, and business applications using the Telecommunications Network Inventory application.
 
 To model your 5G network, perform the following:
 
@@ -31,6 +31,3 @@ Review, update, or delete a service record by using the Telecommunications Netwo
 
 **Parent Topic:**[Reviewing and updating your network inventory with the Network Inventory Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/tni-workspace.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]

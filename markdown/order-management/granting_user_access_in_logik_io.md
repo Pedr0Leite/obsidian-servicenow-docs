@@ -22,10 +22,10 @@ To add users, in Salesforce Admin, go to Setup, go to Manage Connected Apps, and
 
 -   In the OAuth Policies section, confirm that Permitted Users input is set to **Admin approved users are pre-authorized**.
 -   In the Profiles section, click **Manage Profiles**. Select the checkboxes that correspond to the profiles you want to enable, and save.
--   To assign specific permission [[cpq-sets|sets]] access to the Logik Connected App, click **Manage Permission Sets**. Select the check boxes that correspond to the permission sets to enable, and save.
--   New admin users must first access the CPQ Admin. Their admin access can then be toggled on by another admin user in the [[please_share_your_feedback_on_admin_assist_responses|User Access]] section of [[cpq-utilities|Utilities]]. For more information, see [User access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
+-   To assign specific permission sets access to the Logik Connected App, click **Manage Permission Sets**. Select the check boxes that correspond to the permission sets to enable, and save.
+-   New admin users must first access the CPQ Admin. Their admin access can then be toggled on by another admin user in the User Access section of Utilities. For more information, see [User access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-To limit prevent certain profiles from accessing CPQ Admin, in Salesforce Admin, go to Setup, go to Object Manager, Product, and then [[fields|Fields]] &amp; Relationships. Click the **View Logik Setup \(LGK\_\_ViewConfigurationSetup\_\_c\)** field, and then click **Set Field-Level Security**.
+To limit prevent certain profiles from accessing CPQ Admin, in Salesforce Admin, go to Setup, go to Object Manager, Product, and then Fields &amp; Relationships. Click the **View Logik Setup \(LGK\_\_ViewConfigurationSetup\_\_c\)** field, and then click **Set Field-Level Security**.
 
 -   Deselect the check boxes for the profiles you do not wish to enter.
 -   Admin users can also toggle user access in the CPQ Admin, in the User Access section of Utilities. Any sales users can have their admin access toggled off by selecting their name and clicking **Toggle Admin Access** in the upper right. If users have only END\_USER assigned to their user, they cannot access the CPQ Admin.
@@ -38,20 +38,12 @@ When using a custom UI \(such as React\) that calls CPQ APIs, CPQ leverages your
 
 ## Additional permissions to check
 
-[[non-admin_user_permissions_for_logik_in_salesforce|Assigning non-Admin user permissions for CPQ in Salesforce]]
+[Assigning non-Admin user permissions for CPQ in Salesforce](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/non-admin_user_permissions_for_logik_in_salesforce.md)
 
 [What to do if receiving and Insufficient Privileges or blank screen when launching a CPQ configuration](https://logikio.atlassian.net/wiki/spaces/CS/pages/1616314402/What+to+do+if+receiving+and+Insufficient+Privileges+or+blank+screen+when+launching+a+Logik+configuration#reverse_twin_productlist.extended_data_to_quoteline/bookmark4)
 
 **Related topics**  
 
 
-[[logik_admin_user_access_control|CPQ: User Access Control]]
+[CPQ: User Access Control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/logik_admin_user_access_control.md)
 
-## Related
-
-- [[non-admin_user_permissions_for_logik_in_salesforce|Assigning non-Admin user permissions for CPQ in Salesforce]]
-- [[logik_admin_user_access_control|logik_admin_user_access_control]]
-- [[cpq-sets|Sets]]
-- [[please_share_your_feedback_on_admin_assist_responses|User access]]
-- [[cpq-utilities|Utilities]]
-- [[fields|Fields]]

@@ -12,7 +12,7 @@ breadcrumb: [Explore, Field Service Management]
 
 # Mobile experience for Field Service Management
 
-Manage your field service tasks from anywhere using the [[fsm-application-landing-page|Field Service Management]] mobile application. When not connected to the internet, you can still plan, work on, and complete tasks. Your mobile device will sync with the information when it next connects.
+Manage your field service tasks from anywhere using the Field Service Management mobile application. When not connected to the internet, you can still plan, work on, and complete tasks. Your mobile device will sync with the information when it next connects.
 
 The Field Service Management mobile application runs on the ServiceNow mobile platform.
 
@@ -25,8 +25,8 @@ The Field Service Management mobile application runs on the ServiceNow mobile pl
 </td><td align="left">
 
 [Prioritizing on ServiceNow Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/manage-field-service-tasks-mobile.md) -   Plan your tasks
--   [[view-task-location-schedule-mobile|Plan your schedule]]
--   [[t_StartWork|Start work]]
+-   Plan your schedule
+-   Start work
 
 </td></tr><tr><td align="left">
 
@@ -84,11 +84,11 @@ From their supported smartphones and tablets, field service technicians can do v
 
 The mobile app also supports offline mode, enabling technicians to work without internet connectivity.
 
-Use and customize reports available with your application to get insights into task metrics, such as mean time for resolving work order tasks. Get real-time understanding of utilization, [[capacity|capacity]], customers, locations requesting work, and other metrics using the dashboard. Managers can easily customize reports and dashboards to gain real-time insight into technician utilization and capacity. Managers can better understand customer and employee work requests and locations to identify improvement opportunities.
+Use and customize reports available with your application to get insights into task metrics, such as mean time for resolving work order tasks. Get real-time understanding of utilization, capacity, customers, locations requesting work, and other metrics using the dashboard. Managers can easily customize reports and dashboards to gain real-time insight into technician utilization and capacity. Managers can better understand customer and employee work requests and locations to identify improvement opportunities.
 
 ## Empower managers with Field Service Manager Mobile
 
-[[manager-mobile-app|Field Service Manager Mobile]] gives Field Service managers the ability to manage their team, create work order tasks, view agents, and see SLAs from their mobile device. Field Service Manager Mobile empowers managers in the field to stay on top of their work without having to bring their laptop.
+Field Service Manager Mobile gives Field Service managers the ability to manage their team, create work order tasks, view agents, and see SLAs from their mobile device. Field Service Manager Mobile empowers managers in the field to stay on top of their work without having to bring their laptop.
 
 **Related topics**  
 
@@ -101,10 +101,3 @@ Use and customize reports available with your application to get insights into t
 
 [Field Service Manager Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/manager-mobile-app.md)
 
-## Related
-
-- [[fsm-application-landing-page|Field Service Management]]
-- [[view-task-location-schedule-mobile|Plan your schedule]]
-- [[t_StartWork|Start work]]
-- [[capacity|Capacity]]
-- [[manager-mobile-app|Field Service Manager Mobile]]

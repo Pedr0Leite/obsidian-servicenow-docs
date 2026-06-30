@@ -12,7 +12,7 @@ breadcrumb: [Customer Service forms, Reference, Customer Service Management]
 
 # Queue registration form for recommendation process
 
-The [[configure-nba|Recommended Actions]] use the queue registration form to create queues for recommendation process.
+The Recommended Actions use the queue registration form to create queues for recommendation process.
 
 <table id="table_cqx_1sf_cfc"><thead><tr><th>
 
@@ -107,7 +107,3 @@ Additional details about the queue.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[configure-nba|Recommended Actions]]

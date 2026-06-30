@@ -25,7 +25,7 @@ The order of execution is as follows:
     -   Approval engine \(for task and sys\_approval\_approver tables\)
     -   Assignment rules engine \(for task tables\)
     -   Escalation engine
-    -   [[c_DataPolicy|Data policy]] engine
+    -   Data policy engine
     -   Field normalization engine
     -   Role engine - keeps role changes in sync with sys\_user\_has\_role table \(for sys\_user, sys\_user\_group, sys\_user\_grmember, and sys\_user\_role tables\)
     -   Execution plan engine \(for task tables\)
@@ -38,7 +38,7 @@ The order of execution is as follows:
 6.  After engines. The following are not executed in any specific order:
     -   Label engine
     -   Listener engine
-    -   Table [[notifications|notifications]] engine
+    -   Table notifications engine
     -   Role engine - keeps role changes in sync with sys\_user\_has\_role table \(for sys\_user, sys\_user\_group, sys\_user\_grmember and sys\_user\_role tables\)
     -   Text indexing engine
     -   Update sync engine
@@ -70,7 +70,3 @@ The order of execution is as follows:
 
 [Business rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/c_BusinessRules.md)
 
-## Related
-
-- [[c_DataPolicy|Data policy]]
-- [[notifications|Notifications]]

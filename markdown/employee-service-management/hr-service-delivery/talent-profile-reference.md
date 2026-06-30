@@ -14,9 +14,5 @@ breadcrumb: [Talent Profile, Hiring Experiences, HR Service Delivery, Employee S
 
 # Talent Profile reference
 
-[[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] topics provide additional information about the forms, properties, and components in [[talent-profile-landing|Talent profile]].
+Reference topics provide additional information about the forms, properties, and components in Talent profile.
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[talent-profile-landing|Talent Profile]]

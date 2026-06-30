@@ -12,7 +12,7 @@ breadcrumb: [Now Assist in Platform Analytics, Platform Analytics]
 
 # Use AI to explore dashboards with Dashboard Summary
 
-The Dashboard Summary is your AI companion for instant insight into [[c_performanceAnalyticsAndReporting|Platform Analytics]] dashboard content to help users understand their data and uncover meaningful patters for decision making. The Dashboard summary is available with any Now Assist application.
+The Dashboard Summary is your AI companion for instant insight into Platform Analytics dashboard content to help users understand their data and uncover meaningful patters for decision making. The Dashboard summary is available with any Now Assist application.
 
 ## Get started
 
@@ -20,7 +20,7 @@ Requirements;
 
 -   Australia Patch 3
 -   Any Now Assist application
--   [[par-workspace|Platform Analytics experience]] Bundle v8.4 store application.
+-   Platform Analytics experience Bundle v8.4 store application.
 
 <table id="table_crq_v4l_w2c" class="nav-card presentation"><tbody><tr><td>
 
@@ -60,7 +60,3 @@ ServiceNow collects and uses the inputs, outputs, and edits to outputs of this a
 
 For more information, see the [Now Assist documentation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-now-assist-landing.md).
 
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[par-workspace|Platform Analytics experience]]

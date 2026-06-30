@@ -14,11 +14,11 @@ breadcrumb: [Threat Entities, TISC Library Repository, Threat Intelligence Secur
 
 # Observed Data
 
-[[threat-intelligence-observed-data|Observed Data]] conveys information about cyber security-related entities such as files, systems, and networks using the STIX Cyber-observable Objects \(SCOs\). Observed data applies for STIX 2.x.
+Observed Data conveys information about cyber security-related entities such as files, systems, and networks using the STIX Cyber-observable Objects \(SCOs\). Observed data applies for STIX 2.x.
 
 Observed Data captures both a single observation of a single entity \(file, network connection\) as well as the aggregation of multiple observations of an entity.
 
-You can use Observed Data by itself \(without [[stix-relationships|relationships]]\) to convey raw data collected from any source. Sources include analyst reports, sandboxes, and network and host-based detection [[tools|tools]].
+You can use Observed Data by itself \(without relationships\) to convey raw data collected from any source. Sources include analyst reports, sandboxes, and network and host-based detection tools.
 
 For example, Observed Data can capture information about an IP address, a network connection, a file, or a registry key. Observed Data is not an intelligence assertion, it is simply the raw information without any context for what it means.
 
@@ -27,8 +27,3 @@ Conveys information about cyber security related entities such as files, systems
 
 **Parent Topic:**[Threat Entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-threat-entities.md)
 
-## Related
-
-- [[threat-intelligence-observed-data|Observed data]]
-- [[stix-relationships|Relationships]]
-- [[tools|Tools]]

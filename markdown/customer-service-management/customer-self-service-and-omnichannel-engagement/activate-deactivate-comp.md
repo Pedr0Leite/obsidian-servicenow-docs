@@ -14,7 +14,7 @@ breadcrumb: [Update or create web components, Web Embeddables, Set up self-servi
 
 # Activate or deactivate a component
 
-Activate or deactivate a component to show or hide every instance of the components across third-party websites. By default, the [[servicenow-web-components-overview|ServiceNow components]] are active.
+Activate or deactivate a component to show or hide every instance of the components across third-party websites. By default, the ServiceNow components are active.
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ Role required: sn\_embeddable\_core.emb\_admin
 
 Any existing component and its instances are hidden on your website.
 
-## Related
-
-- [[servicenow-web-components-overview|ServiceNow components]]

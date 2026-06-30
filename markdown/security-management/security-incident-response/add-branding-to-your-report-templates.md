@@ -31,7 +31,7 @@ The key considerations while adding branding to your report templates are as fol
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[major-security-incident-management-landing-page|Major Security Incident Management]]** &gt; **MSI Administration** &gt; **Status Report Setup**.
+1.  Navigate to **All** &gt; **Major Security Incident Management** &gt; **MSI Administration** &gt; **Status Report Setup**.
 
 2.  Drill down to **Report Template** &gt; **Branding**.
 
@@ -135,6 +135,3 @@ Select a footer text position for the branding template. You can choose **Top le
 
 **Parent Topic:**[Create a Report Template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-report-template.md)
 
-## Related
-
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]

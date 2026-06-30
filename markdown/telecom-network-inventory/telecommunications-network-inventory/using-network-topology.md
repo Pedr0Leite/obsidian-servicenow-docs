@@ -14,9 +14,9 @@ breadcrumb: [Network visualization view, Use, Telecommunications Network Invento
 
 # Network topology
 
-Use the network topology in the [[telecom-network-inventory|Telecommunications Network Inventory]] application to view how the different elements in a network are organized and connected to one another.
+Use the network topology in the Telecommunications Network Inventory application to view how the different elements in a network are organized and connected to one another.
 
-To view the network topology, you must create the topology record either manually or using a "[[telecommunications-circuit-design-resource-assignment|design and assign]]" function. To learn more, see:
+To view the network topology, you must create the topology record either manually or using a "design and assign" function. To learn more, see:
 
 -   [Manually create a network topology](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-netowrk-topology.md).
 -   [Create a network topology record by using design and assign](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/instantiate-network-topology-design-assign.md).
@@ -31,7 +31,3 @@ View the details of a network topology and visualize how the network elements ar
 
 [Network topology](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/visualization-of-topology.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[telecommunications-circuit-design-resource-assignment|Design and assign]]

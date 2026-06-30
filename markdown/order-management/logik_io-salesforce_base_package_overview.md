@@ -16,10 +16,10 @@ The CPQ and Salesforce base package lets the user use Salesforce Product2 record
 
 The base package provides the minimum components and configuration for CPQ interacting with Salesforce. This package allows the user to:
 
--   Enable Salesforce Product2 records to be a CPQ configurable product through custom [[fields|fields]] added to the Product2 record. For detailed steps, see [[configurable-products-explore|Configurable products]].
+-   Enable Salesforce Product2 records to be a CPQ configurable product through custom fields added to the Product2 record. For detailed steps, see [Configurable products](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configurable-products-explore.md).
 -   Launch the CPQ Admin from Salesforce, from enabled Product2 records
--   Embed the CPQ configuration UI in other Salesforce pages or applications outside CPQ using Visualforce. See [[use_case_embed_logik_io_ui_in_salesforce_visualforce_page|Use case: Embed CPQ UI in a Salesforce VisualForce page]].
--   Access CPQ admin APIs using Salesforce tokens. For detailed steps, see [[admin-apis-authentication-via-salesforce-connected-app|Admin APIs: Authentication using a Salesforce-connected app]].
+-   Embed the CPQ configuration UI in other Salesforce pages or applications outside CPQ using Visualforce. See [Use case: Embed CPQ UI in a Salesforce VisualForce page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/use_case_embed_logik_io_ui_in_salesforce_visualforce_page.md).
+-   Access CPQ admin APIs using Salesforce tokens. For detailed steps, see [Admin APIs: Authentication using a Salesforce-connected app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/admin-apis-authentication-via-salesforce-connected-app.md).
 
 ## Product2 integration
 
@@ -69,9 +69,3 @@ A single record for org-wide defaults should be created and populated with the A
 
 For security reasons, the Runtime Client Token field is deprecated. The Skip CPQ Post Install Script checkbox disables product updates that run while installing CPQ's CPQ extension package.
 
-## Related
-
-- [[configurable-products-explore|Configurable products]]
-- [[use_case_embed_logik_io_ui_in_salesforce_visualforce_page|use_case_embed_logik_io_ui_in_salesforce_visualforce_page]]
-- [[admin-apis-authentication-via-salesforce-connected-app|admin apis authentication via salesforce connected app]]
-- [[fields|Fields]]

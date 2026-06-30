@@ -14,11 +14,11 @@ breadcrumb: [Normalizing firmware for OT assets, Managing enterprise models and 
 
 # Create a custom firmware product for your operational technology \(OT\) assets
 
-If the firmware product that is embedded into your OT assets isn't already represented in the [[enterprise-asset-management|Enterprise Asset Management]] Content Service, create a custom firmware product.
+If the firmware product that is embedded into your OT assets isn't already represented in the Enterprise Asset Management Content Service, create a custom firmware product.
 
 ## Before you begin
 
-**Important:** You can create custom firmware products only using the [[ot-asset-ws-otam|OT Asset Workspace]]. To use the OT Asset Workspace, install the [[ot-asset-management|OT Asset Management]] application on your ServiceNow instance. See [Install OT Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/install-otam.md) for detailed instructions.
+**Important:** You can create custom firmware products only using the OT Asset Workspace. To use the OT Asset Workspace, install the OT Asset Management application on your ServiceNow instance. See [Install OT Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/install-otam.md) for detailed instructions.
 
 Role required: sn\_eam.enterprise\_admin
 
@@ -48,8 +48,3 @@ Role required: sn\_eam.enterprise\_admin
 
 The custom firmware product is created. If any existing firmware publisher uses the same manufacturer as the custom firmware product, the Enterprise Asset Management application automatically associates that firmware publisher with the custom firmware product. Otherwise, the Enterprise Asset Management application creates a custom firmware publisher to associate with the custom firmware product.
 
-## Related
-
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[ot-asset-ws-otam|OT Asset Workspace]]
-- [[ot-asset-management|OT Asset Management]]

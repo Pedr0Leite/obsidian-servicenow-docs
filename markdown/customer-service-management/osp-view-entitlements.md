@@ -20,7 +20,7 @@ Role required: sn\_csm\_ocs.ext\_manager or sn\_csm\_ocs.ext\_agent
 
 ## Procedure
 
-1.  Navigate to **[[outsourced-service-provider|Outsourced Customer Service]]** &gt; **Cases** &gt; **All**.
+1.  Navigate to **Outsourced Customer Service** &gt; **Cases** &gt; **All**.
 
 2.  Open a case and click the preview icon next to the **Account** field.
 
@@ -30,6 +30,4 @@ Role required: sn\_csm\_ocs.ext\_manager or sn\_csm\_ocs.ext\_agent
 
 4.  Open an entitlement and view the asset details to fulfill a case.
 
-## Related
 
-- [[outsourced-service-provider|Outsourced Customer Service]]

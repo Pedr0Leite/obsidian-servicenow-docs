@@ -12,7 +12,7 @@ breadcrumb: [Using ITOM/OT SU Licensing, ITOM/OT SU Licensing and subscriptions,
 
 # Check which CI types require an ITOM subscription
 
-View the list of configuration item \(CI\) types that require [[r_ITOMApplications|IT Operations Management]] subscription units.
+View the list of configuration item \(CI\) types that require IT Operations Management subscription units.
 
 ## Before you begin
 
@@ -51,7 +51,7 @@ Containers are only counted toward SU consumption if they don't have a relations
 
     2.  Select the relevant ITOM subscription.
 
-        For example, **[[itom-visibility-landing-page|ITOM Visibility]]**.
+        For example, **ITOM Visibility**.
 
     3.  Scroll down and select the **ITOM CI subscription unit ratio** tab.
 
@@ -75,7 +75,4 @@ Containers are only counted toward SU consumption if they don't have a relations
 
     The CI types listed under CI categories require ITOM subscription units for access.
 
-## Related
 
-- [[r_ITOMApplications|IT Operations Management]]
-- [[itom-visibility-landing-page|ITOM Visibility]]

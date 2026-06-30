@@ -24,7 +24,7 @@ Learn about the various SAFe entities that are used to successfully plan, track,
 
 -   **Feature**
 
-    A SAFe feature is equivalent to an epic in [[agile-development|Agile Development]]. It must be small enough for completion within a program increment cycle. It is prioritized and sequenced in an ART backlog based on its global ranking. A feature is further decomposed into user stories for implementation and delivery by SAFe teams.
+    A SAFe feature is equivalent to an epic in Agile Development. It must be small enough for completion within a program increment cycle. It is prioritized and sequenced in an ART backlog based on its global ranking. A feature is further decomposed into user stories for implementation and delivery by SAFe teams.
 
 -   **Story**
 
@@ -67,7 +67,7 @@ Create a feature in SAFe and break it down into smaller user stories for impleme
 -   **[Define a story in SAFe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/create-SAFestory.md)**  
 Create high-level definitions of your requirements in the form of stories in SAFe.
 -   **[Define an Agile Release Train](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/create-SAFeprogram.md)**  
-From SAFe, [[create-SAFeprogram|define an Agile Release Train]] \(ART\) which is a group of agile teams working towards a single solution.
+From SAFe, define an Agile Release Train \(ART\) which is a group of agile teams working towards a single solution.
 -   **[Define a program increment in SAFe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/create-SAFeprogramincrement.md)**  
 With SAFe, define a program increment \(PI\). A program increment is typically 8–12 weeks long, during which an ART delivers incremental value in the form of working, tested software and systems.
 -   **[Define a SAFe team](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/create-SAFeteams.md)**  
@@ -80,7 +80,7 @@ From SAFe, create an agile team and associate it to an ART.
 
 [Components installed with Essential SAFe]()
 
-[Quick start [[c_Tests|tests]] for Essential SAFe]()
+[Quick start tests for Essential SAFe]()
 
 [SAFe PI objectives]()
 
@@ -88,8 +88,3 @@ From SAFe, create an agile team and associate it to an ART.
 
 [SAFe Board — Team level]()
 
-## Related
-
-- [[agile-development|Agile Development]]
-- [[create-SAFeprogram|Define an Agile Release Train]]
-- [[c_Tests|Tests]]

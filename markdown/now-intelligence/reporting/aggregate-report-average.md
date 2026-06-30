@@ -14,7 +14,7 @@ breadcrumb: [Aggregation in reporting, Reporting reference, Reporting, Reporting
 
 # Aggregate a report on averages
 
-When you [[t_CreateYourOwnReport|create a report]], you can aggregate the data on several calculations including the number of records, averages, and standard deviation. The sum aggregation shows the sum of the field you aggregate on.
+When you create a report, you can aggregate the data on several calculations including the number of records, averages, and standard deviation. The sum aggregation shows the sum of the field you aggregate on.
 
 ## Before you begin
 
@@ -58,6 +58,3 @@ When you choose the average aggregation, you can also specify the **Percentage c
 
 The sections of the visualization are grouped by the average of the selected records.
 
-## Related
-
-- [[t_CreateYourOwnReport|Create a report]]

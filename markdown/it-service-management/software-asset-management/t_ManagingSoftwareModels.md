@@ -14,7 +14,7 @@ breadcrumb: [Legacy Software Asset Management plugin, ITSM Software Asset Manage
 
 # Manage software models using the legacy Software Asset Management plugin
 
-The legacy Software [[c_AssetManagement|Asset Management]] \(com.snc.software\_asset\_management\) plugin uses [[c_CreatingSoftwareModels|software models]] to manage licenses, specifically in software counters and license restrictions, and to track upgrade and downgrade licenses.
+The legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin uses software models to manage licenses, specifically in software counters and license restrictions, and to track upgrade and downgrade licenses.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Create software models for all of the software your organization wants to monito
 
 1.  Navigate to **All** &gt; **Software Asset** &gt; **Software Models**.
 
-    Users with the model\_manager role can navigate to **[[c_ProductCatalog|Product Catalog]]** &gt; **Product Model** &gt; **Software Models**, but cannot administer all aspects of software models.
+    Users with the model\_manager role can navigate to **Product Catalog** &gt; **Product Model** &gt; **Software Models**, but cannot administer all aspects of software models.
 
 2.  Click **New**.
 
@@ -90,7 +90,7 @@ A brief description of the model.
 
 </td></tr><tr><td>
 
-[[c_ModelCategories|Model categories]]
+Model categories
 
 </td><td>
 
@@ -421,7 +421,7 @@ Software uses the concept of suites instead of bundles.
 
 [License calculations with the legacy Software Asset Management plugin]()
 
-[Software discovery [[c_Models|models]] in the legacy Software Asset Management plugin]()
+[Software discovery models in the legacy Software Asset Management plugin]()
 
 [Legacy Software License Compliance Checker]()
 
@@ -429,15 +429,7 @@ Software uses the concept of suites instead of bundles.
 
 [Legacy IBM PVU Process Pack]()
 
-[Software [[c_Contracts|contracts]] for the legacy Software Asset Management plugin]()
+[Software contracts for the legacy Software Asset Management plugin]()
 
 [Legacy Oracle process pack]()
 
-## Related
-
-- [[c_AssetManagement|Asset Management]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[c_ProductCatalog|Product Catalog]]
-- [[c_ModelCategories|Model categories]]
-- [[c_Models|Models]]
-- [[c_Contracts|Contracts]]

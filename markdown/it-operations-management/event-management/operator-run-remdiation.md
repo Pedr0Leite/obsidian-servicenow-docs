@@ -14,11 +14,11 @@ breadcrumb: [Operator phase 2: Triage an alert, Operator responsibilities, Event
 
 # Run a remediation workflow on an alert
 
-As an [[c_EM|Event Management]] operator, you can also run a workflow on your ServiceNow instance that helps remediate the alert. For example, you might run a workflow that automatically restarts a server on your network, which might resolve an alert about CPU usage.
+As an Event Management operator, you can also run a workflow on your ServiceNow instance that helps remediate the alert. For example, you might run a workflow that automatically restarts a server on your network, which might resolve an alert about CPU usage.
 
 ## Before you begin
 
-**Note:** The Operator Workspace interface is available only to customers who have upgraded from a release prior to the Utah release. New customers as of the Utah release can use the [[sow-landing-page-itom|Service Operations Workspace for ITOM]], which offers an enhanced UI for managing alerts.
+**Note:** The Operator Workspace interface is available only to customers who have upgraded from a release prior to the Utah release. New customers as of the Utah release can use the Service Operations Workspace for ITOM, which offers an enhanced UI for managing alerts.
 
 <table id="table_pw3_vg3_3db"><tbody><tr><td>
 
@@ -57,19 +57,19 @@ Phase 3
 [Close an alert](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-close-alert.md)
 
 </td></tr></tbody>
-</table>**Note:** You can run a [[ccg-remediation|remediation]] workflow if your administrator already set up workflows for you to choose from. You should be familiar with your organization’s policies regarding triaging of alerts.
+</table>**Note:** You can run a remediation workflow if your administrator already set up workflows for you to choose from. You should be familiar with your organization’s policies regarding triaging of alerts.
 
 Role required: evt\_mgmt\_operator
 
 ## Procedure
 
-1.  From the [[workspace-dashboard-use|Service Operations Workspace]] dashboard, open the alert that you acknowledged in Phase 1: Analyze and acknowledge an alert.
+1.  From the Service Operations Workspace dashboard, open the alert that you acknowledged in Phase 1: Analyze and acknowledge an alert.
 
 2.  On the Alert form, click **Quick Response**.
 
     \[Omitted image "quick-response.png"\] Alt text: Quick response
 
-3.  In the Quick Response window, click the name of the remediation under **[[ccg-run-remediation|Run Remediation]]**.
+3.  In the Quick Response window, click the name of the remediation under **Run Remediation**.
 
     \[Omitted image "run-remediation.png"\] Alt text: Running a remediation
 
@@ -86,10 +86,3 @@ If you do not need to perform any other triage actions, proceed to [Phase 3: Clo
 
 **Parent Topic:**[Operator phase 2: Triage an alert](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-phase-triage-incident.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[sow-landing-page-itom|Service Operations Workspace for ITOM]]
-- [[ccg-remediation|Remediation]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[ccg-run-remediation|Run remediation]]

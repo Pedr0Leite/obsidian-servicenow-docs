@@ -12,11 +12,11 @@ breadcrumb: [Security Operations common functionality, Security Operations]
 
 # Components installed with Security Support Common
 
-Several types of components are installed with Security Support Common. They provide common functionality for use across the various security applications, such as [[sir-landing-page|Security Incident Response]].
+Several types of components are installed with Security Support Common. They provide common functionality for use across the various security applications, such as Security Incident Response.
 
 ## Locating and viewing installed components
 
-See [[installed-with-secops-common-NEW|View components installed with Security Support Common]] more information about locating and viewing installed components.
+See [View components installed with Security Support Common](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/installed-with-secops-common-NEW.md) more information about locating and viewing installed components.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -34,10 +34,5 @@ The results for the class you selected are displayed in a filtered list.
 -   **[View components installed with Security Support Common](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/installed-with-secops-common-NEW.md)**  
 Several types of components are installed when you activate the Security Support Common plugin including but not limited to tables, user roles, and modules.
 
-**Parent Topic:**[[sec-ops-common-functionality|Security Operations common functionality]]
+**Parent Topic:**[Security Operations common functionality](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sec-ops-common-functionality.md)
 
-## Related
-
-- [[installed-with-secops-common-NEW|View components installed with Security Support Common]]
-- [[sec-ops-common-functionality|Security Operations common functionality]]
-- [[sir-landing-page|Security Incident Response]]

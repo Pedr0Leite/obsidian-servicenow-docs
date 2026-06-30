@@ -18,11 +18,11 @@ As a store manager, Joe was unhappy with the quality of IT support and field ser
 
 After implementing ServiceNow, Joe's experience improved.
 
-IT Support and Field Service administrators can create processes to share information and maintenance schedules. Joe can scan equipment to automatically open an incident with IT Support. If a field agent is needed, the IT support rep creates a work order with the necessary details, and [[fsm-application-landing-page|Field Service Management]] routes it to the closest, skilled field agent. Joe receives a notification with the estimated arrival time.
+IT Support and Field Service administrators can create processes to share information and maintenance schedules. Joe can scan equipment to automatically open an incident with IT Support. If a field agent is needed, the IT support rep creates a work order with the necessary details, and Field Service Management routes it to the closest, skilled field agent. Joe receives a notification with the estimated arrival time.
 
 Field agents use the Mobile Agent to review issue details, solutions, and maintenance tasks. They can digitally document and close the work order after completing the tasks.
 
-Field Service Management tracks parts used, expenses, and completion times on a shared platform. Increased visibility of assets, field [[c_AgentLocation|agent location]], and status improved performance and productivity. Reducing documentation time and meeting customer expectations with quicker resolutions helped prevent costly downtime. Better system performance led to increased sales revenue and happier customers for Joe's store.
+Field Service Management tracks parts used, expenses, and completion times on a shared platform. Increased visibility of assets, field agent location, and status improved performance and productivity. Reducing documentation time and meeting customer expectations with quicker resolutions helped prevent costly downtime. Better system performance led to increased sales revenue and happier customers for Joe's store.
 
 ## Field Service IT workflow diagram
 
@@ -41,10 +41,5 @@ The following table provides the steps for the IT Field Service workflow.
 |5. Complete work order|Once the technician completes the work, they document their work effort, make any notes, and close the work order. The store manager then digitally signs and confirms the work order is complete. This submission automatically updates the incident.|
 |6. Track and provide audit trail|A PDF summary of all the completed tasks, parts used and returned, incidental expenses, and time taken to do the work is automatically created and attached to the work order. All data is tracked in one single platform for future trend analysis, reports, and audits.|
 
-**Parent Topic:**[[fsm-use-cases|Field Service Management workflow examples]]
+**Parent Topic:**[Field Service Management workflow examples](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/fsm-use-cases.md)
 
-## Related
-
-- [[fsm-use-cases|Field Service Management workflow examples]]
-- [[fsm-application-landing-page|Field Service Management]]
-- [[c_AgentLocation|Agent location]]

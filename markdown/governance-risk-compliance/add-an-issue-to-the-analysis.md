@@ -12,7 +12,7 @@ breadcrumb: [Enable the legacy scenario analysis flow, Legacy scenario analysis,
 
 # Link issues and operational vulnerabilities
 
-Link an issue to your [[scenario-analysis-ov|scenario analysis]] by either creating a new issue or adding an existing one. You can also include operational vulnerabilities in the analysis to identify resilience gaps and create a plan to mitigate them.
+Link an issue to your scenario analysis by either creating a new issue or adding an existing one. You can also include operational vulnerabilities in the analysis to identify resilience gaps and create a plan to mitigate them.
 
 ## Before you begin
 
@@ -20,13 +20,13 @@ Role required: sn\_oper\_res.manager
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[grc-opres-landing-page|Operational Resilience]] Workspace** &gt; **All scenario analysis** and select the scenario analysis that you’re working on.
+1.  Navigate to **Workspaces** &gt; **Operational Resilience Workspace** &gt; **All scenario analysis** and select the scenario analysis that you’re working on.
 
 2.  In the scenario analysis form, navigate to the **Issues** tab.
 
     You can add an existing issue to the analysis or create an issue that you can add to the analysis.
 
-    **Note:** If you’ve associated an open issue with your scenario analysis, you can still [[submit-vul-for-approval|request an approval]] for the scenario analysis. It isn’t required to close the open issues for requesting an approval for the scenario analysis.
+    **Note:** If you’ve associated an open issue with your scenario analysis, you can still request an approval for the scenario analysis. It isn’t required to close the open issues for requesting an approval for the scenario analysis.
 
 <table id="choicetable_am1_gr2_bwb"><thead><tr><th align="left" id="d397878e89">
 
@@ -52,10 +52,10 @@ Add an existing issue to the analysis. The following example shows how to add an
 
 Create an issue that you can add to the scenario analysis. The following example shows how to create an issue that you can add to the scenario analysis.\[Omitted image "create-new-issue-opres.png"\] Alt text: Create an issue that you can add to the scenario analysis.
 
- For the descriptions of the field values on the Create New Issue form, see [[create-new-issue-opres-ws|Create New Issue form]].
+ For the descriptions of the field values on the Create New Issue form, see [Create New Issue form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-new-issue-opres-ws.md).
 
 </td></tr></tbody>
-</table>3.  In the Operational vulnerabilities tab, add an [[exploring-op-vul|operational vulnerability]] to the scenario analysis.
+</table>3.  In the Operational vulnerabilities tab, add an operational vulnerability to the scenario analysis.
 
     1.  Select **New**.
 
@@ -63,21 +63,12 @@ Create an issue that you can add to the scenario analysis. The following example
 
     2.  On the form, fill in the fields.
 
-        For more information on the fields, see [[create-new-op-vul-form|Create Operational vulnerability form]].
+        For more information on the fields, see [Create Operational vulnerability form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-new-op-vul-form.md).
 
 4.  Select **Save**.
 
 
 ## What to do next
 
-Request the scenario analysis approval and as the analysis approver, approve the scenario analysis. For information, see [[request-plan-approval-for-scenario-analysis|Submit the scenario analysis and receive an approval]].
+Request the scenario analysis approval and as the analysis approver, approve the scenario analysis. For information, see [Submit the scenario analysis and receive an approval](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/request-plan-approval-for-scenario-analysis.md).
 
-## Related
-
-- [[create-new-issue-opres-ws|Create New Issue form]]
-- [[create-new-op-vul-form|Create Operational vulnerability form]]
-- [[request-plan-approval-for-scenario-analysis|Submit the scenario analysis and receive an approval]]
-- [[scenario-analysis-ov|Scenario analysis]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[submit-vul-for-approval|Request an approval]]
-- [[exploring-op-vul|Operational vulnerability]]

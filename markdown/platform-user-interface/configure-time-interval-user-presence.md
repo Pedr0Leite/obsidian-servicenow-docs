@@ -25,7 +25,7 @@ These properties control how often the system checks for updates or caches user 
 -   glide.ui.presence.cache\_seconds
 -   glide.ui.presence.time\_back\_minutes
 
-You can [[configure-onboarding-modals|configure]] each property to check more or less frequently. Checking more frequently might slow performance.
+You can configure each property to check more or less frequently. Checking more frequently might slow performance.
 
 ## Procedure
 
@@ -54,9 +54,5 @@ You can [[configure-onboarding-modals|configure]] each property to check more or
 6.  Click **Submit**.
 
 
-**Parent Topic:**[[c_UserPresence|User presence]]
+**Parent Topic:**[User presence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_UserPresence.md)
 
-## Related
-
-- [[c_UserPresence|User presence]]
-- [[configure-onboarding-modals|Configure]]

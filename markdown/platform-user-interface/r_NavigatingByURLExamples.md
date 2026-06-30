@@ -50,7 +50,7 @@ Schema: `https://<baseURL>/nav_to.do?uri=<table name>_list.do`
 
 |Description|Example|
 |-----------|-------|
-|Opens the [[attachments-configurable-workspace|Attachments]] table in list view.|`https://<instance name>.service-now.com/sys_attachment_list.do`|
+|Opens the Attachments table in list view.|`https://<instance name>.service-now.com/sys_attachment_list.do`|
 
 ## View a filtered list
 
@@ -68,9 +68,5 @@ Schema: `https://<baseURL>/nav_to.do?uri=<table name>_list.do?sysparm_<sysparmTy
 |-----------|-------|
 |Returns a comma-separated value file of records in the Incident table that meet the query conditions.|`https://<instance name>.service-now.com/nav_to.do?uri=incident_list.do?sysparm_query=active=false&CSV`|
 
-**Parent Topic:**[[navigate-using-url|Navigate to a record or module using a URL]]
+**Parent Topic:**[Navigate to a record or module using a URL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/navigate-using-url.md)
 
-## Related
-
-- [[navigate-using-url|Navigate to a record or module using a URL]]
-- [[attachments-configurable-workspace|Attachments]]

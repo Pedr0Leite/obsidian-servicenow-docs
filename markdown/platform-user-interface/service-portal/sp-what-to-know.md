@@ -14,19 +14,19 @@ breadcrumb: [Exploring Service Portal, Service Portal, Configure UIs and portals
 
 # Understanding Service Portal
 
-[[c_ServicePortal|Service Portal]] provides a modular user interface framework for quick and easy building of application portals and dashboards for the platform. It helps developers and non‑technical administrators create attractive and engaging user experiences that drive employee adoption of critical enterprise applications.
+Service Portal provides a modular user interface framework for quick and easy building of application portals and dashboards for the platform. It helps developers and non‑technical administrators create attractive and engaging user experiences that drive employee adoption of critical enterprise applications.
 
 ## How to use Service Portal
 
 Service Portal is an application included in the platform UI, however it includes a visual layer for you to do most of your configuration. In the application navigator, navigate to **Service Portal** &gt; **Service Portal Configuration** to view the configuration page.
 
-The [[service-portal-configuration-page|Service Portal configuration page]] provides a unique, intuitive way of viewing all the pieces of your portal. You can see how they interact with one another. The configuration page allows you to take advantage of a real-time preview, while configuring portal settings. Use each of the tiles on the configuration homepage to assemble the different components of your portal.
+The Service Portal configuration page provides a unique, intuitive way of viewing all the pieces of your portal. You can see how they interact with one another. The configuration page allows you to take advantage of a real-time preview, while configuring portal settings. Use each of the tiles on the configuration homepage to assemble the different components of your portal.
 
-If you prefer the platform layout for [[configuring-service-portal|configuring Service Portal]], you still have the option of creating your portal components within the platform UI. The two options are not separate. Everything you create in the Service Portal configuration page also appears in a table in the platform UI.
+If you prefer the platform layout for configuring Service Portal, you still have the option of creating your portal components within the platform UI. The two options are not separate. Everything you create in the Service Portal configuration page also appears in a table in the platform UI.
 
 ## Who can use Service Portal
 
-Several different kinds of users can [[configure-onboarding-modals|configure]] a portal.
+Several different kinds of users can configure a portal.
 
 -   Limited coding: Service Portal was designed so that even users with limited coding ability or knowledge of the platform UI could set up a portal.
 -   ServiceNow Experts: Users with a knowledge of the ServiceNow platform can create portals, set up URL redirects, and view all the components of the portal in a table. Most portal configuration takes place in the Service Portal configuration page, but in specific circumstances, Service Portal administrators may need to perform additional configuration directly within the platform.
@@ -76,15 +76,7 @@ Most Service Portal configuration is accessible through the Service Portal confi
 -   **[Page navigation in Service Portal by URL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/navigate-by-portal-url.md)**  
 You can navigate to a portal or a page in Service Portal using a URL.
 -   **[Content Management and Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_CMSAndSP.md)**  
-Service Portal is a compelling alternative to the [[c_ContentManagementSystem|Content Management System]] \(CMS\) with a refined user experience. It does not duplicate CMS or platform UI functionality. Users who have sophisticated experiences delivered through CMS may need to invest time into transitioning to Service Portal, especially if the CMS implementation includes complex and customized Service Catalog [[form-configurable-workspace|forms]].
+Service Portal is a compelling alternative to the Content Management System \(CMS\) with a refined user experience. It does not duplicate CMS or platform UI functionality. Users who have sophisticated experiences delivered through CMS may need to invest time into transitioning to Service Portal, especially if the CMS implementation includes complex and customized Service Catalog forms.
 
 **Parent Topic:**[Exploring Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/exploring-service-portal.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[service-portal-configuration-page|Service Portal configuration page]]
-- [[configuring-service-portal|Configuring Service Portal]]
-- [[configure-onboarding-modals|Configure]]
-- [[c_ContentManagementSystem|Content Management System]]
-- [[form-configurable-workspace|Forms]]

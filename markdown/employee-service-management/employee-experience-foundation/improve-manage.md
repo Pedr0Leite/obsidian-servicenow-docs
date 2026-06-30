@@ -14,7 +14,7 @@ breadcrumb: [Configuring Employee Center Pro, Employee Center Pro, Unified Emplo
 
 # Managing portal performance
 
-[[discover-lxp|Discover]] ways to reduce portal loading time and enhance portal display.
+Discover ways to reduce portal loading time and enhance portal display.
 
 ## Review widget performance metrics
 
@@ -27,9 +27,9 @@ By default, widgets try to load and display data simultaneously. This can cause 
 The following widgets support asynchronous loading:
 
 -   Content experience
--   [[rfy-ec|Recommended for you]]
+-   Recommended for you
 -   Popular topics
--   [[emp-center-quick-link-config|Quick Links]]
+-   Quick Links
 -   My applications
 -   My active items
 
@@ -48,7 +48,7 @@ Learn more about the heavy-load and high-traffic scenarios and ways to optimize 
 -   **[Improve portal load time with asynchronous loading](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/optimize-performance-of-employee-center-home-page.md)**  
 Reduce the time employees spend waiting for the portal to load by enabling widgets to load data asynchronously. This allows widgets to display information as it becomes available, improving overall portal performance.
 -   **[Improve the image load time on Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/optimize-image-loading.md)**  
-Use CDN URLs to reduce the load time of the banner images, background images, and app icons on the [[employee-center-landing-page|Employee Center]] portal.
+Use CDN URLs to reduce the load time of the banner images, background images, and app icons on the Employee Center portal.
 -   **[View widget performance metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/view-widget-performance-metrics.md)**  
 View the metrics provided by the performance window to identify which widgets take the longest to load data.
 -   **[Add hotspots to track custom widget performance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/add-hotspots-track-custom-widget-performance.md)**  
@@ -56,9 +56,3 @@ Hotspots help capture and log widget load times, which enables better debugging 
 
 **Parent Topic:**[Configuring Employee Center Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/configuring-employee-center-pro.md)
 
-## Related
-
-- [[discover-lxp|Discover]]
-- [[rfy-ec|Recommended for you]]
-- [[emp-center-quick-link-config|Quick links]]
-- [[employee-center-landing-page|Employee Center]]

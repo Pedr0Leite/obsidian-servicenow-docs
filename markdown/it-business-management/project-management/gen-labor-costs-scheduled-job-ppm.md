@@ -24,9 +24,9 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **System Definition** &gt; **Scheduled Jobs**.
 
-2.  Open the **[[generate-labor-cost-demand|Generate labor costs]] for demands and projects** scheduled job.
+2.  Open the **Generate labor costs for demands and projects** scheduled job.
 
-3.  Select **Active** and on the [[scheduled-script-execution-form-gf|Scheduled Script Execution form]], fill the fields.
+3.  Select **Active** and on the Scheduled Script Execution form, fill the fields.
 
     For a description of the field names, see [Scheduled Script Execution Form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/scheduled-script-execution-form.md).
 
@@ -42,7 +42,3 @@ Role required: admin
 
 [Generate labor costs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/gen-cost-pln-prj-wrkspc.md)
 
-## Related
-
-- [[generate-labor-cost-demand|Generate labor costs]]
-- [[scheduled-script-execution-form-gf|Scheduled Script Execution form]]

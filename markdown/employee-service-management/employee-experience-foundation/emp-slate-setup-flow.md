@@ -14,16 +14,16 @@ breadcrumb: [Employee Slate, Unified Employee Experience, Employee Service Manag
 
 # Employee Slate setup flow
 
-Setting up [[employee-slate-landing-page|Employee Slate]] requires configuration steps in two systems: The ServiceNow Product Configuration console and the Moveworks setup experience.
+Setting up Employee Slate requires configuration steps in two systems: The ServiceNow Product Configuration console and the Moveworks setup experience.
 
 You can install one of the following sets of plugins.
 
--   [[employee-slate-moveworks|Employee Slate for Moveworks]] and [[employee-slate-advanced|Employee Slate Advanced]]
--   [[employee-slate-nowassist|Employee Slate for Now Assist]] and Employee Slate Advanced
+-   Employee Slate for Moveworks and Employee Slate Advanced
+-   Employee Slate for Now Assist and Employee Slate Advanced
 
 **Note:** Employee Slate Advanced is an add-on application and requires either Employee Slate for Moveworks or Employee Slate for Now Assist to be separately downloaded.
 
-Follow the guidance to [[eslate-getting-started-employee-slate|get started with Employee Slate]].
+Follow the guidance to get started with Employee Slate.
 
 -   Review the prerequisites from [Before you start with Employee Slate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/eslate-prereqs-useful-info.md).
 -   Understand the complete setup flow as explained in [Get started with Employee Slate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/eslate-getting-started-employee-slate.md).
@@ -39,10 +39,3 @@ Follow the guidance to [[eslate-getting-started-employee-slate|get started with 
 
 [Employee Slate Advanced](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/employee-slate-advanced.md)
 
-## Related
-
-- [[employee-slate-landing-page|Employee Slate]]
-- [[employee-slate-moveworks|Employee Slate for Moveworks]]
-- [[employee-slate-advanced|Employee Slate Advanced]]
-- [[employee-slate-nowassist|Employee Slate for Now Assist]]
-- [[eslate-getting-started-employee-slate|Get started with Employee Slate]]

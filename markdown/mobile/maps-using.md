@@ -12,7 +12,7 @@ breadcrumb: [Using the mobile apps, Mobile Platform]
 
 # Using the map screen
 
-Use the [[map-screen|map screen]] to see highlighted locations associated with records. You can switch between the map view and list view to help you understand the information displayed within a map.
+Use the map screen to see highlighted locations associated with records. You can switch between the map view and list view to help you understand the information displayed within a map.
 
 \[Omitted image "map-screen-3-interfaces.png"\] Alt text: Map screen with a map view display and a list view display.
 
@@ -107,6 +107,3 @@ Map button displayed in the list view. Tap to display the map view. This button 
 </td></tr></tbody>
 </table>\[Omitted image "maps-aggregated-points-of-interest.png"\] Alt text: Maps showing aggregated points of interest
 
-## Related
-
-- [[map-screen|Map screen]]

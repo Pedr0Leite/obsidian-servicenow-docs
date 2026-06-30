@@ -52,14 +52,10 @@ Emission activity sources provide data and methodologies to estimate greenhouse 
 -   Environmentally extended input-output models \(EEIO\)
 -   Emissions and generation resource integrated database \(eGRID\)
 
-**Parent Topic:**[[esg-new-explore|Exploring Operational Sustainability Management \(formerly ESG Management\)]]
+**Parent Topic:**[Exploring Operational Sustainability Management \(formerly ESG Management\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/esg-new-explore.md)
 
 **Related topics**  
 
 
-[[set-up-the-emission-factor-library|Set up the emission factor library]]
+[Set up the emission factor library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/set-up-the-emission-factor-library.md)
 
-## Related
-
-- [[esg-new-explore|Exploring Operational Sustainability Management \(formerly ESG Management\)]]
-- [[set-up-the-emission-factor-library|Set up the emission factor library]]

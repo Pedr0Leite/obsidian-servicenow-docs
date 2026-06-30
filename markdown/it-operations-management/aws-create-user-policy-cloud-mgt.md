@@ -12,7 +12,7 @@ breadcrumb: [Setting up AWS service accounts, Set up a cloud service account, Ac
 
 # Control AWS access and permissions using policies
 
-Configure policies with the necessary level of permissions to provide access to the AWS resources for Cloud [[r-discovery|Discovery]] and [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]].
+Configure policies with the necessary level of permissions to provide access to the AWS resources for Cloud Discovery and Cloud Provisioning and Governance.
 
 ## Before you begin
 
@@ -221,7 +221,7 @@ The policy you configure defines the AWS permissions that you can assign to a us
         ```
 
 
-**Parent Topic:**[[setup-aws-service-accounts|Setting up AWS service accounts]]
+**Parent Topic:**[Setting up AWS service accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/setup-aws-service-accounts.md)
 
 **Related topics**  
 
@@ -230,8 +230,3 @@ The policy you configure defines the AWS permissions that you can assign to a us
 
 [https://docs.aws.amazon.com/IAM/latest/UserGuide/access\_policies\_understand-service-summary.html](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_understand-service-summary.html)
 
-## Related
-
-- [[setup-aws-service-accounts|Setting up AWS service accounts]]
-- [[r-discovery|Discovery]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]

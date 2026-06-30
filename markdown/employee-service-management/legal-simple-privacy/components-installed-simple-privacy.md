@@ -14,7 +14,7 @@ breadcrumb: [Reference, Legal Simple Privacy, Legal Service Delivery Practice Ap
 
 # Components installed with Legal Simple Privacy
 
-Several types of components are installed with activation of the [[legal-simple-privacy-landing-page|Legal Simple Privacy]] application, including user roles.
+Several types of components are installed with activation of the Legal Simple Privacy application, including user roles.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -99,6 +99,3 @@ Stores the details of any legal matters created.
 </td></tr></tbody>
 </table>**Parent Topic:**[Legal Simple Privacy Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-privacy/legal-simple-privacy-reference.md)
 
-## Related
-
-- [[legal-simple-privacy-landing-page|Legal Simple Privacy]]

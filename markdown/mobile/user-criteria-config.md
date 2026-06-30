@@ -16,7 +16,7 @@ Apply user criteria permissions to segment your users into different groups, suc
 
 ## About this task
 
-You can apply user criteria permissions to certain components of your mobile apps. For a complete list, see [[components-roles-criteria|Mobile components where user roles and user criteria permissions apply]]. The instructions in this topic demonstrate how to apply user criteria to any one of the supported components. Some components can have either user criteria or user roles associated with them, in such a situation you must select whether this component is to be assigned a user criteria or a user role.
+You can apply user criteria permissions to certain components of your mobile apps. For a complete list, see [Mobile components where user roles and user criteria permissions apply](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/components-roles-criteria.md). The instructions in this topic demonstrate how to apply user criteria to any one of the supported components. Some components can have either user criteria or user roles associated with them, in such a situation you must select whether this component is to be assigned a user criteria or a user role.
 
 **Note:** If you don't add user criteria to any of the components, all users who have access to the mobile app can see those components. There may be a situation where users may still not see certain components as user role permissions may be implemented.
 
@@ -24,7 +24,7 @@ You can apply user criteria permissions to certain components of your mobile app
 
 Role required: admin
 
-When working with user criteria in the [[mab-concept|Mobile App Builder]], you assign existing user criteria permissions and then map them to a mobile component. To create additional user criteria permissions, you must create a record in the User Criteria \[user\_criteria\] table, by doing the following:
+When working with user criteria in the Mobile App Builder, you assign existing user criteria permissions and then map them to a mobile component. To create additional user criteria permissions, you must create a record in the User Criteria \[user\_criteria\] table, by doing the following:
 
 1.  Navigate to **All**.
 2.  In the **Filter navigator** field, enter `user_criteria.list`.
@@ -44,7 +44,7 @@ When working with user criteria in the [[mab-concept|Mobile App Builder]], you a
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select **All mobile records** from the menu.
 
@@ -67,14 +67,7 @@ When working with user criteria in the [[mab-concept|Mobile App Builder]], you a
 
 ## What to do next
 
-By default, when you apply a user criteria to a component the user criteria is in an active state. To change the state from active to inactive, see [[user-criteria-active-inactive|Define user criteria status as active or inactive]].
+By default, when you apply a user criteria to a component the user criteria is in an active state. To change the state from active to inactive, see [Define user criteria status as active or inactive](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/user-criteria-active-inactive.md).
 
-**Parent Topic:**[[user-criteria-permissions|User criteria permissions in mobile apps]]
+**Parent Topic:**[User criteria permissions in mobile apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/user-criteria-permissions.md)
 
-## Related
-
-- [[components-roles-criteria|Mobile components where user roles and user criteria permissions apply]]
-- [[user-criteria-active-inactive|Define user criteria status as active or inactive]]
-- [[user-criteria-permissions|User criteria permissions in mobile apps]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]

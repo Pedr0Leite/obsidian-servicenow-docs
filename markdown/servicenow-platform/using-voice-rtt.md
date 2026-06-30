@@ -25,7 +25,7 @@ Personas:
 
 Example Customer Flow for inbound calls.
 
-1.  Customer dials an Amazon [[c_Connect|Connect]] customer service number.
+1.  Customer dials an Amazon Connect customer service number.
 2.  Confirm the approval for recording \(press 1\#\).
 3.  Give instruction: “Speak to a live agent”.
 4.  Provide a subject for the customer service agent: “Router Issue”.
@@ -51,9 +51,5 @@ Persona: Customer Service Agent.
 
 An interaction is created with the subject “outbound call to `<customer name>`”, and a chat panel opens with the transcript.
 
-**Parent Topic:**[[integrating-ccc-csm|Integrating ServiceNow Voice with CSM]]
+**Parent Topic:**[Integrating ServiceNow Voice with CSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/integrating-ccc-csm.md)
 
-## Related
-
-- [[integrating-ccc-csm|Integrating ServiceNow Voice with CSM]]
-- [[c_Connect|Connect]]

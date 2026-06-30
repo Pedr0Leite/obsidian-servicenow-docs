@@ -14,7 +14,7 @@ breadcrumb: [IP address management, Inventory number allocation, Explore, Teleco
 
 # IP address inventory management data model
 
-By using the [[data_model_of_ip_address_inventory_management|IP address inventory management data model]], you can understand how the tables used for IP Address Blocks, IP Subnetworks, allocated IP addresses, and IP addresses relate to each other. The [[uses-for-network-inventory-data|data model]] supports both IPv4 and IPv6, and supports nesting subnetworks to any depth within a parent.
+By using the IP address inventory management data model, you can understand how the tables used for IP Address Blocks, IP Subnetworks, allocated IP addresses, and IP addresses relate to each other. The data model supports both IPv4 and IPv6, and supports nesting subnetworks to any depth within a parent.
 
 ## Data model
 
@@ -53,7 +53,3 @@ The two methods are mutually exclusive within a subnetwork. To learn more about 
 
 [Create an IP Subnetwork record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-an-ip-subnetwork-record.md)
 
-## Related
-
-- [[data_model_of_ip_address_inventory_management|IP address inventory management data model]]
-- [[uses-for-network-inventory-data|Data model]]

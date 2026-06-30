@@ -14,7 +14,7 @@ breadcrumb: [Cloud accounts, Cloud Provisioning and Governance administration gu
 
 # Service categories discovered in AWS
 
-The [[r-discovery|Discovery]] process discovers AWS services.
+The Discovery process discovers AWS services.
 
 ## Services categories discovered in AWS
 
@@ -43,6 +43,3 @@ The [[r-discovery|Discovery]] process discovers AWS services.
 
 **Parent Topic:**[Cloud accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-accounts.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

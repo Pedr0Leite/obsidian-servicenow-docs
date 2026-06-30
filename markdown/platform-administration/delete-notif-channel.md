@@ -12,7 +12,7 @@ breadcrumb: [Preferences in Core UI, Notification Preferences, Notifications, Co
 
 # Delete a notification channel
 
-Delete a notification channel so that you no longer receive [[notifications|notifications]] through the channel.
+Delete a notification channel so that you no longer receive notifications through the channel.
 
 ## Before you begin
 
@@ -31,9 +31,5 @@ Role required: admin
 
 The system deletes the channel from the list of notification channels and no longer delivers notifications to that channel.
 
-**Parent Topic:**[[user-notification-preferences|Setting notification preferences in Core UI]]
+**Parent Topic:**[Setting notification preferences in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-notification-preferences.md)
 
-## Related
-
-- [[user-notification-preferences|Setting notification preferences in Core UI]]
-- [[notifications|Notifications]]

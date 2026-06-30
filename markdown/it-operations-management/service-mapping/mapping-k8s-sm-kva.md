@@ -15,9 +15,9 @@ breadcrumb: [Choose method for discovering and mapping services, Exploring Servi
 
 # Service Mapping for containerized environments using KVA
 
-[[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]] \(KVA\) and [[c_ServiceMappingOverview|Service Mapping]] discover and visualize application dependencies across Kubernetes clusters and related resources, providing complete visibility into containerized environments.
+Kubernetes Visibility Agent \(KVA\) and Service Mapping discover and visualize application dependencies across Kubernetes clusters and related resources, providing complete visibility into containerized environments.
 
-Service Mapping for containerized environments provides automated [[r-discovery|discovery]] and visualization of application dependencies across your entire technology stack. Whether your applications run entirely within Kubernetes clusters or span multiple environments including cloud databases, API gateways, and traditional servers, Service Mapping creates comprehensive topology maps that show how services connect and depend on each other.
+Service Mapping for containerized environments provides automated discovery and visualization of application dependencies across your entire technology stack. Whether your applications run entirely within Kubernetes clusters or span multiple environments including cloud databases, API gateways, and traditional servers, Service Mapping creates comprehensive topology maps that show how services connect and depend on each other.
 
 Service Mapping and KVA combined capabilities transform complex architectures into clear, actionable service maps that help teams troubleshoot faster, assess change impact more accurately, and optimize application performance across environments.
 
@@ -74,8 +74,3 @@ To begin discovering and mapping Kubernetes services, install Kubernetes Visibil
 
 Enter an application entry point into Service Mapping. KVA automatically identifies whether this entry point connects to Kubernetes resources and initiates comprehensive topology discovery.
 
-## Related
-
-- [[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]

@@ -16,13 +16,13 @@ Configure the update set integration to automatically synchronize update set sca
 
 ## Before you begin
 
-My SN Instances registration and authentication must be complete. See [[register-your-instance|Register your instance]].
+My SN Instances registration and authentication must be complete. See [Register your instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/register-your-instance.md).
 
 Role required: admin
 
 ## Procedure
 
-1.  Navigate to **ALL** &gt; **[[impact-landing-page|Impact]]** &gt; **Configuration** &gt; **Scan Engine Properties**.
+1.  Navigate to **ALL** &gt; **Impact** &gt; **Configuration** &gt; **Scan Engine Properties**.
 
 2.  Select the **Update set scanning** properties tab.
 
@@ -35,15 +35,10 @@ Role required: admin
 
 Update set scans completed on developer instances sync automatically to the Production instance.
 
-**Parent Topic:**[[deployment-sync-integrations|Deployment and synchronization integrations]]
+**Parent Topic:**[Deployment and synchronization integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/deployment-sync-integrations.md)
 
 **Related topics**  
 
 
 [Configure AES/AEMC integration properties]()
 
-## Related
-
-- [[register-your-instance|Register your instance]]
-- [[deployment-sync-integrations|Deployment and synchronization integrations]]
-- [[impact-landing-page|Impact]]

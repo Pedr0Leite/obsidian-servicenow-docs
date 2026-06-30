@@ -32,7 +32,7 @@ For more information, see [KB1497382](https://support.servicenow.com/kb?id=kb_ar
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **GRC [[Administration|Administration]]** &gt; **Confidentiality Configuration** and select **New**.
+1.  Navigate to **All** &gt; **GRC Administration** &gt; **Confidentiality Configuration** and select **New**.
 
 2.  In the new confidential configuration form, fill in the fields that are required for enabling confidentiality for the GRC tables.
 
@@ -48,12 +48,7 @@ For more information, see [KB1497382](https://support.servicenow.com/kb?id=kb_ar
 Confidentiality is enabled for the GRC table that you selected.
 
 -   **[Confidentiality configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/confidentiality-configuration-form.md)**  
-The [[confidentiality-configuration-form|Confidentiality configuration form]] is used for the configuration of the [[confidential-records|confidential records]] for your GRC tables.
+The Confidentiality configuration form is used for the configuration of the confidential records for your GRC tables.
 
 **Parent Topic:**[Confidential records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/confidential-records.md)
 
-## Related
-
-- [[Administration|Administration]]
-- [[confidentiality-configuration-form|Confidentiality configuration form]]
-- [[confidential-records|Confidential records]]

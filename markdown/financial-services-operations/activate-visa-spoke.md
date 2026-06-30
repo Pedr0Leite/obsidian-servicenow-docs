@@ -27,8 +27,5 @@ Role required: admin
     For more information on how to update the connection configuration, see [Visa Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/visa-spoke.md).
 
 
-**Parent Topic:**[[configuring-financial-services-operations-integration-with-visa|Configuring Financial Services Operations Integration with Visa]]
+**Parent Topic:**[Configuring Financial Services Operations Integration with Visa](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configuring-financial-services-operations-integration-with-visa.md)
 
-## Related
-
-- [[configuring-financial-services-operations-integration-with-visa|Configuring Financial Services Operations Integration with Visa]]

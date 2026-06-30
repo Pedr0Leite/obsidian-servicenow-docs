@@ -21,7 +21,7 @@ Role required: viz\_creator
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Dashboards**
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Dashboards**
 
 2.  Select the dashboard with the visualization that you want to duplicate.
 
@@ -48,9 +48,5 @@ The visualization is copied with the new information.
 
 **Important:** The new copy of the visualization is automatically saved.
 
-**Parent Topic:**[[duplicate-dv-ac|Duplicate a visualization in the Visualization Designer]]
+**Parent Topic:**[Duplicate a visualization in the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/duplicate-dv-ac.md)
 
-## Related
-
-- [[duplicate-dv-ac|Duplicate a visualization in the Visualization Designer]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

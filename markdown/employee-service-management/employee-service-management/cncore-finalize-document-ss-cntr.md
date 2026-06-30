@@ -22,7 +22,7 @@ Role required: sn\_cm\_core.contract\_fulfiller
 
 2.  Select the contract request for which the change request has been submitted.
 
-    The details of the change request are included in the **[[activity-lxp|Activity]]** stream and the notification email.
+    The details of the change request are included in the **Activity** stream and the notification email.
 
 3.  If the contract request is not already assigned to you, select **Assign to me**.
 
@@ -109,6 +109,3 @@ The document is automatically saved in the external storage.
 
 The document is sent back to the user and the Contract status updates to Document ready to indicate that the contract document has addressed the change request.
 
-## Related
-
-- [[activity-lxp|Activity]]

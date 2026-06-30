@@ -15,7 +15,7 @@ breadcrumb: [Assistant Designer bot responses, Assistant Designer interface refe
 
 # Text bot response control
 
-Use the Text bot response control in a [[virtual-agent-landing-page|Virtual Agent]] topic to display a bot response as text. You can format the Text bot responses using the text editor controls. For example, you can bold or italicize the text, as well as include links, bulleted lists, and emojis.
+Use the Text bot response control in a Virtual Agent topic to display a bot response as text. You can format the Text bot responses using the text editor controls. For example, you can bold or italicize the text, as well as include links, bulleted lists, and emojis.
 
 ## Text bot response properties
 
@@ -167,7 +167,7 @@ In this example, the script returns links to three instances in the response. Us
 
 ## Example Text bot response control
 
-**Note:** [[virtual-agent-controls|Assistant Designer controls]] may display and function differently in other channels.
+**Note:** Assistant Designer controls may display and function differently in other channels.
 
 <table id="table_f1f_v2p_xdb"><thead><tr><th>
 
@@ -188,7 +188,3 @@ Text bot response output
 </td></tr></tbody>
 </table>**Parent Topic:**[Assistant Designer bot responses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-bot-responses.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[virtual-agent-controls|Assistant Designer controls]]

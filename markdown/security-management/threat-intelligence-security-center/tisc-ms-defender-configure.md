@@ -14,13 +14,13 @@ breadcrumb: [Microsoft Defender for EDR integration, TISC Security Tools integra
 
 # Install and configure Microsoft Defender for EDR Integration
 
-[[configure-cortex-xsiam-siem|Install and configure]] the [[tisc-ms-defender-integration|Microsoft Defender for EDR integration]] from the ServiceNow Store.
+Install and configure the Microsoft Defender for EDR integration from the ServiceNow Store.
 
 ## Before you begin
 
 Role required: sn\_sec\_tisc.admin
 
--   [[tisc-landing-page|Threat Intelligence Security Center]] application must be installed and activated from ServiceNow store.
+-   Threat Intelligence Security Center application must be installed and activated from ServiceNow store.
 -   Obtain the API Tenant ID, Client ID, and Client Secret from Microsoft Defender for EDR console.
 
 ## Procedure
@@ -29,9 +29,9 @@ Role required: sn\_sec\_tisc.admin
 
 2.  Using your instance, access **Threat Intelligence Security Center**.
 
-3.  [[download-app-first-time|Download the integration from the ServiceNow Store]].
+3.  [Download the integration from the ServiceNow Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/download-app-first-time.md).
 
-4.  Select **Integrations** &gt; **Security [[tools|Tools]]** &gt; **EDR**.
+4.  Select **Integrations** &gt; **Security Tools** &gt; **EDR**.
 
 5.  Click **Configure new source tool integration**.
 
@@ -131,7 +131,7 @@ Prefilled title\(used during submission\)
 
 </td><td>
 
-The prefilled title defines the default title used during submission of [[c_Observables|observables]] to Microsoft Defender.These details are displayed by default, so you don’t need to re-enter them each time you during submission to EDR.
+The prefilled title defines the default title used during submission of observables to Microsoft Defender.These details are displayed by default, so you don’t need to re-enter them each time you during submission to EDR.
 
 </td></tr><tr><td>
 
@@ -183,16 +183,7 @@ The expiry period in days that are applied for the Hash type of observable when 
 
 ## Result
 
-After the integration is configured, you can select any type of observable that supports Microsoft Defender EDR from Threat Intel Library, you can then [[send-to-edr|send observables to EDR]]. For more information, see [Send observables to EDR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-ms-defend-edr.md).
+After the integration is configured, you can select any type of observable that supports Microsoft Defender EDR from Threat Intel Library, you can then send observables to EDR. For more information, see [Send observables to EDR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-ms-defend-edr.md).
 
 **Parent Topic:**[Microsoft Defender for EDR integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-ms-defender-integration.md)
 
-## Related
-
-- [[download-app-first-time|Download an application from the ServiceNow Store for the first time]]
-- [[configure-cortex-xsiam-siem|Install and Configure]]
-- [[tisc-ms-defender-integration|Microsoft Defender for EDR integration]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[tools|Tools]]
-- [[c_Observables|Observables]]
-- [[send-to-edr|Send observables to EDR]]

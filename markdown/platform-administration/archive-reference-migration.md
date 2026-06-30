@@ -12,7 +12,7 @@ breadcrumb: [Manage data growth in Core UI, Data Management, Tables and data, Co
 
 # Migrating non-reference fields to reference fields
 
-Manually preserve sys\_ids in [[reference-email-admin|reference]] fields instead of storing the display name as a string.
+Manually preserve sys\_ids in reference fields instead of storing the display name as a string.
 
 ## Determining tables to migrate
 
@@ -89,9 +89,5 @@ trigger.setValue('trigger_class', 'com.glide.db.auxiliary.job.ArchiveRefJob');
 trigger.insert();
 ```
 
-**Parent Topic:**[[data-management-policies|Managing data growth in Core UI]]
+**Parent Topic:**[Managing data growth in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/data-management-policies.md)
 
-## Related
-
-- [[data-management-policies|Managing data growth in Core UI]]
-- [[reference-email-admin|Reference]]

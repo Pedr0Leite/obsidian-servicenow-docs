@@ -13,7 +13,7 @@ breadcrumb: [Use, Core Business Suite]
 
 # View Core Business Suite Analytics
 
-Access all [[cbs-landing|Core Business Suite]] \(CBS\) analytics in one place to monitor and review request activity across departments.
+Access all Core Business Suite \(CBS\) analytics in one place to monitor and review request activity across departments.
 
 ## Before you begin
 
@@ -30,13 +30,8 @@ Role required: sn\_cbs\_analytics.dashboard\_viewer
 
 The CBS analytics dashboard displays request activity and metrics across all departments.
 
--   **[[cbs-analytics-overview|Core Business Suite Analytics overview]]**  
+-   **[Core Business Suite Analytics overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/cbs-analytics-overview.md)**  
 The Core Business Suite \(CBS\) Analytics dashboard provides a unified view of performance metrics and resolution trends across all Business Units in your organization.
 
-**Parent Topic:**[[cbs-using-parent|Using Core Business Suite]]
+**Parent Topic:**[Using Core Business Suite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/cbs-using-parent.md)
 
-## Related
-
-- [[cbs-analytics-overview|Core Business Suite Analytics overview]]
-- [[cbs-using-parent|Using Core Business Suite]]
-- [[cbs-landing|Core Business Suite]]

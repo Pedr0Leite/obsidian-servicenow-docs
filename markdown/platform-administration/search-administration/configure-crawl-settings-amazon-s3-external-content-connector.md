@@ -15,7 +15,7 @@ breadcrumb: [Amazon S3 external content connector, Configure, External Content C
 
 # Configure crawl settings for an Amazon S3 external content connector
 
-Define inclusion and exclusion filters to specify the buckets and file types you want your [[amazon-s3-external-content-connector|Amazon S3 external content connector]] to retrieve when running content crawls.
+Define inclusion and exclusion filters to specify the buckets and file types you want your Amazon S3 external content connector to retrieve when running content crawls.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Role required: sn\_ext\_conn.xcc\_admin
 
 ## About this task
 
-This task is optional. By default, the Amazon S3 external content connector crawls all buckets and file types from its specified source system and sends files with all supported extensions to [[ia-ai-search|AI Search]] for indexing. Only perform this task if you want the connector to use any of the following non-default settings:
+This task is optional. By default, the Amazon S3 external content connector crawls all buckets and file types from its specified source system and sends files with all supported extensions to AI Search for indexing. Only perform this task if you want the connector to use any of the following non-default settings:
 
 -   Inclusion or exclusion filters for the buckets to crawl when running content crawls
 -   Inclusion or exclusion filters for the file extensions to retrieve when running content crawls
@@ -38,7 +38,7 @@ By default, each external content connector can index up to one million \(1,000,
 
 When a connector's indexed content item count exceeds 800,000, a warning message appears in the connector's UI to indicate that it's approaching the indexing limit. If the connector reaches the indexing limit, an error message appears in its UI.
 
-[[ext-cont-connectors-landing-page|External content connectors]] that support user permissions crawls can handle permissions for up to five hundred thousand \(500,000\) users and their groups. If a connector retrieves users in excess of this limit, user and group permissions may not be correctly applied to the connector's retrieved content. As a result, the content may not be searchable.
+External content connectors that support user permissions crawls can handle permissions for up to five hundred thousand \(500,000\) users and their groups. If a connector retrieves users in excess of this limit, user and group permissions may not be correctly applied to the connector's retrieved content. As a result, the content may not be searchable.
 
 If one of your connectors reaches the content indexing limit, you can update its crawl settings and file inclusion/exclusion filters to reduce the number of content items it retrieves. Alternatively, if you need a connector to index more than 1,000,000 content items, you can create a Customer Service and Support case at [https://support.servicenow.com/now](https://support.servicenow.com/now) to request a limit increase for the connector.
 
@@ -97,8 +97,3 @@ To retrieve content from your Amazon S3 source system using your modified crawl 
 
 **Parent Topic:**[Amazon S3 external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/amazon-s3-external-content-connector.md)
 
-## Related
-
-- [[amazon-s3-external-content-connector|Amazon S3 external content connector]]
-- [[ia-ai-search|AI Search]]
-- [[ext-cont-connectors-landing-page|External Content Connectors]]

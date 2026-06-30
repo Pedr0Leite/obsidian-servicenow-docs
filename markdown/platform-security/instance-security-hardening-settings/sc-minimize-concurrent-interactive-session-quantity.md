@@ -14,7 +14,7 @@ breadcrumb: [Session management, Hardening settings, Platform Security]
 
 # Minimize concurrent interactive session quantity \[Updated in Security Center 1.3\]
 
-Use this property with the [[limit-concurrent-sessions|Limit Concurrent Sessions]] plugin to control the number of [[sc-active-sessions|active sessions]] that can be opened by a user.
+Use this property with the Limit Concurrent Sessions plugin to control the number of active sessions that can be opened by a user.
 
 Use the **Glide Authenticate Max Concurrent Interactive Sessions** property with the **Limit Concurrent Session** \(**com.glide.limit.concurrent.sessions**\) plugin to control the number of active sessions opened for a user. The recommended value is **1**, which reduces the number of sessions opened \(a greater number increases the likelihood that a session could be hijacked\).
 
@@ -30,7 +30,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -42,7 +42,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -105,9 +105,3 @@ References
 </td></tr></tbody>
 </table>**Parent Topic:**[Session management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-session-management.md)
 
-## Related
-
-- [[limit-concurrent-sessions|Limit concurrent sessions]]
-- [[sc-active-sessions|Active Sessions]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

@@ -41,7 +41,7 @@ mid.distributed.cluster.log.level
 
 </td><td>
 
-Logging level for MID Server distributed cluster, which can help troubleshooting. However, logging impacts the performance of [[operational-metrics|Metric Intelligence]].
+Logging level for MID Server distributed cluster, which can help troubleshooting. However, logging impacts the performance of Metric Intelligence.
 
  An empty value designates no logging.
 
@@ -75,6 +75,3 @@ The amount of off heap memory used by Metric Intelligence to process data series
 </td></tr></tbody>
 </table>**Parent Topic:**[Agent Client Collector Monitoring reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-monitoring-reference.md)
 
-## Related
-
-- [[operational-metrics|Metric Intelligence]]

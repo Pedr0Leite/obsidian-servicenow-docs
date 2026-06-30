@@ -21,11 +21,7 @@ Help pages generated with the user guide can be displayed to end users from conf
 |$h.do|Processor that renders the banner frame at the top of the page.|
 |$sys\_product\_help.do|Displays a page containing links to all the help in the user guide. This includes the basic help system and any custom help pages you have created. An example URL would be `https://myinstance.service-now.com/$sys_product_help.do`.|
 |$h.do?sysparm\_id=basics|Displays the basic help page included with the system. To create a target for a custom user guide, replace **id=basic** with the ID for your custom page, such as **id=surveys**. An example of this would be `https://myinstance.service-now.com/$h.do?sysparm_id=surveys`.|
-|$h.do?sysparm\_doc=&lt;document number&gt;|Displays help for a specific document. This URL displays the help document in the basic page that provides instructions for using ServiceNow [[form-configurable-workspace|forms]]: `https://myinstance.service-now.com/$h.do?sysparm_doc=DOC0010005`.|
+|$h.do?sysparm\_doc=&lt;document number&gt;|Displays help for a specific document. This URL displays the help document in the basic page that provides instructions for using ServiceNow forms: `https://myinstance.service-now.com/$h.do?sysparm_doc=DOC0010005`.|
 
-**Parent Topic:**[[c_SystemUserGuide|System user guide]]
+**Parent Topic:**[System user guide](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_SystemUserGuide.md)
 
-## Related
-
-- [[c_SystemUserGuide|System user guide]]
-- [[form-configurable-workspace|Forms]]

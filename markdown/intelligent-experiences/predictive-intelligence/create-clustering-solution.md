@@ -30,7 +30,7 @@ For information on using encrypted training data, see [Data Encryption in Predic
 
 ## Procedure
 
-1.  Ensure that you are in the application scope that you want for your solution definition, then navigate to **All** &gt; **[[predictive-intelligence-landing|Predictive Intelligence]]** &gt; **Clustering** &gt; **Solution Definitions**.
+1.  Ensure that you are in the application scope that you want for your solution definition, then navigate to **All** &gt; **Predictive Intelligence** &gt; **Clustering** &gt; **Solution Definitions**.
 
 2.  On the Clustering Definitions list, select **New**.
 
@@ -130,7 +130,7 @@ Processing Language
 
 </td><td>
 
-Select the dominant language of the dataset you're training on the solution definition. If the dataset language is Italian, choose **Italian**. Also, English processing is applied to all [[ai-datasets|datasets]] by default. For example, if you select Italian, the system processes the data in both English and Italian.**Note:** The term processing indicates some of the language-specific steps used as part of training a solution. For example, tokenizing words, removing stop words, and stemming.
+Select the dominant language of the dataset you're training on the solution definition. If the dataset language is Italian, choose **Italian**. Also, English processing is applied to all datasets by default. For example, if you select Italian, the system processes the data in both English and Italian.**Note:** The term processing indicates some of the language-specific steps used as part of training a solution. For example, tokenizing words, removing stop words, and stemming.
 
 </td></tr><tr><td>
 
@@ -138,7 +138,7 @@ Stopwords
 
 </td><td>
 
-When you select your processing language, the system automatically adds a Stopwords list in that language. For example, if your processing language is Italian, the **Default Italian Stopwords** list appears. The **Default English Stopwords** list is also included. If you [[create-custom-stopwords-list|create a custom stopwords list]], you can select it from the Stopwords field to add to your solution.
+When you select your processing language, the system automatically adds a Stopwords list in that language. For example, if your processing language is Italian, the **Default Italian Stopwords** list appears. The **Default English Stopwords** list is also included. If you create a custom stopwords list, you can select it from the Stopwords field to add to your solution.
 
 </td></tr><tr><td>
 
@@ -217,8 +217,4 @@ When you click a cluster node, its ML cluster details appear in a list view form
 
     \[Omitted image "predict-intel-clustering-treemap6.png"\] Alt text: The Cluster Updates tab shows records assigned to other clusters, newly created, and how many records have been assigned to new clusters, and the total number of records clustered.
 
-## Related
 
-- [[predictive-intelligence-landing|Predictive Intelligence]]
-- [[ai-datasets|Datasets]]
-- [[create-custom-stopwords-list|Create a custom stopwords list]]

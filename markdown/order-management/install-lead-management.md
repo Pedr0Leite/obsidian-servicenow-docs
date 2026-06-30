@@ -18,7 +18,7 @@ If you have the admin role, you can install the Lead Management application. The
 
 -   Ensure that the application and all of its associated ServiceNow Store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
 
-Depending on your entitlements, you may have to install demo data after installation. Demo data comprises the sample records that describe application features for the common [[use-cases|use cases]].
+Depending on your entitlements, you may have to install demo data after installation. Demo data comprises the sample records that describe application features for the common use cases.
 
 Role required: admin
 
@@ -73,7 +73,7 @@ Description
 
 </td><td>
 
-Load the demo data after installing [[opportunity-management|Opportunity Management]].1.  Install Lead Management.
+Load the demo data after installing [Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management.md).1.  Install Lead Management.
 2.  Navigate to the **All** and in the Filter, type `v_plugin.list`.
 3.  In the **System Plugin** list, search for Lead Management data model \(sn\_l2c\_lead\_mgmt\_data\_model\) plugin.
 4.  In the System **Plugin Lead Management data model** window, under Related Links, select **Install Demo Data Only**.
@@ -84,13 +84,7 @@ Load the demo data after installing [[opportunity-management|Opportunity Managem
 **Related topics**  
 
 
-[[lead-management-using|Using Lead Management]]
+[Using Lead Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management-using.md)
 
-[[lead-management|Lead Management]]
+[Lead Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management.md)
 
-## Related
-
-- [[opportunity-management|Opportunity Management]]
-- [[lead-management-using|Using Lead Management]]
-- [[lead-management|Lead Management]]
-- [[use-cases|Use cases]]

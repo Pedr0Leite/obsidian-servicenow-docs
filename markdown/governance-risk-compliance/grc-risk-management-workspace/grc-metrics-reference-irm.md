@@ -19,8 +19,5 @@ Several properties, tables, and roles are installed with the GRC: Metrics applic
 -   **[Components installed with the GRC: Metrics application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/roles-installed-with-grc-metrics-irm.md)**  
 The GRC: Metrics application adds roles that are listed here.
 
-**Parent Topic:**[[r_WhatIsGRC|Governance, Risk, and Compliance]]
+**Parent Topic:**[Governance, Risk, and Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/r_WhatIsGRC.md)
 
-## Related
-
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]

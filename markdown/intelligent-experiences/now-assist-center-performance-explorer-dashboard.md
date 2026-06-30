@@ -115,8 +115,5 @@ The **Agents** tab displays a list of individual AI agent executions. Use the **
     The inferred customer satisfaction score for the execution, calculated based on interaction signals. See [Exploring Conversation Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/conversational-intelligence/exploring-conversation-insights.md) for more information.
 
 
-**Parent Topic:**[[now-assist-center-view-ai-usage|View AI assets usage and performance in Now Assist Center]]
+**Parent Topic:**[View AI assets usage and performance in Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-view-ai-usage.md)
 
-## Related
-
-- [[now-assist-center-view-ai-usage|View AI assets usage and performance in Now Assist Center]]

@@ -99,7 +99,7 @@ Role required: admin
 
     3.  Select **Submit**.
 
-8.  Assign the created filter with a Boolean field, to either a [[list-screen|list screen]] or a [[map-screen|map screen]].
+8.  Assign the created filter with a Boolean field, to either a list screen or a map screen.
 
     1.  In the filter navigator, enter either `sys_sg_list_screen.list` or `sys_sg_map_screen.list`.
 
@@ -111,7 +111,4 @@ Role required: admin
         2.  Make sure that the **Hide filter and sorting field are** cleared.
     4.  Select **Update**.
 
-## Related
 
-- [[list-screen|List screen]]
-- [[map-screen|Map screen]]

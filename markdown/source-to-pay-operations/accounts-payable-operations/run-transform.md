@@ -15,7 +15,7 @@ breadcrumb: [Load invoice data, Import data into invoice, Accounts Payable Opera
 
 # Run transform to update invoice data
 
-Use a transform map and run the transform to map invoice fields from the import set into target tables in [[acc-pay-mgmt-landing-page|Accounts Payable Operations]].
+Use a transform map and run the transform to map invoice fields from the import set into target tables in Accounts Payable Operations.
 
 ## Before you begin
 
@@ -34,6 +34,3 @@ Role required: admin
 
 The invoice fields from the import set is mapped to `sn_shop_invoice` table.
 
-## Related
-
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]

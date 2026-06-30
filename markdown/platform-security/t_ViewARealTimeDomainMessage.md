@@ -12,7 +12,7 @@ breadcrumb: [Enable logging and debug messages, Setup and administration, Domain
 
 # View a real-time domain message
 
-You can view real-time domain messages from the [[system-logs|system logs]].
+You can view real-time domain messages from the system logs.
 
 ## Before you begin
 
@@ -20,13 +20,13 @@ Role required: admin
 
 ## Procedure
 
-1.  Enable verbose domain logging: Navigate to **All** &gt; **Domain Admin** &gt; **[[domain-separation-center|Domain Separation Center]]** &gt; **Configure Domain Center** &gt; **Enables detail domain logging** &gt; **Yes** \(or set property `glide.sys.domain.verbose` to **True**\).
+1.  Enable verbose domain logging: Navigate to **All** &gt; **Domain Admin** &gt; **Domain Separation Center** &gt; **Configure Domain Center** &gt; **Enables detail domain logging** &gt; **Yes** \(or set property `glide.sys.domain.verbose` to **True**\).
 
 2.  Navigate to **System Diagnostics** &gt; **Session Debug** &gt; **Enable All**.
 
     Because this is a real time review, there is no need to let the debug session run prior to checking the log files.
 
-3.  Navigate to the session debug console to view the detailed system domain [[logs|logs]].
+3.  Navigate to the session debug console to view the detailed system domain logs.
 
 4.  Search for the text Query against table.
 
@@ -40,8 +40,4 @@ Role required: admin
 
     In this example, the user viewing the Incident table only saw records that matched the Database Atlanta, Database, Database San Diego, global, and NY DB domains.
 
-## Related
 
-- [[system-logs|System logs]]
-- [[domain-separation-center|Domain Separation Center]]
-- [[logs|Logs]]

@@ -14,7 +14,7 @@ breadcrumb: [Extend ServiceNow AI Platform capabilities]
 
 # Configuration Management
 
-The [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]] application is a centralized source that gives you full visibility into your IT environment. By storing information about your organization's infrastructure and how it is configured, this system allows you to monitor your network and ensure stability and best performance. Other ServiceNow® applications enhance the effectiveness of the CMDB application or closely overlap to enable needed business goals.
+The Configuration Management Database \(CMDB\) application is a centralized source that gives you full visibility into your IT environment. By storing information about your organization's infrastructure and how it is configured, this system allows you to monitor your network and ensure stability and best performance. Other ServiceNow® applications enhance the effectiveness of the CMDB application or closely overlap to enable needed business goals.
 
 ## Overview of CMDB
 
@@ -55,11 +55,11 @@ Ensure your data is consistent across every database and ready for every Service
 
 ## Application services
 
-Use application services to represent and manage operations of various ServiceNow business units and products. An application service is a set of interconnected applications and hosts which are configured to offer a service to the organization such as an organization's internal [[email|email]] system. The various CIs and the relationships between them comprise an application service and are stored in the CMDB.
+Use application services to represent and manage operations of various ServiceNow business units and products. An application service is a set of interconnected applications and hosts which are configured to offer a service to the organization such as an organization's internal email system. The various CIs and the relationships between them comprise an application service and are stored in the CMDB.
 
 ## Data integration
 
-Populate the CMDB by importing and integrating third-party data into the CMDB, in bulk. Use [[cmdb-sgc-available|Service Graph connectors]] to specify process parameters and any needed conversions to be applied to the imported data. Such integrations utilize robust CMDB processes, such as Identification and Reconciliation, to ensure the integrity of the CMDB after third-party data integrations.
+Populate the CMDB by importing and integrating third-party data into the CMDB, in bulk. Use Service Graph connectors to specify process parameters and any needed conversions to be applied to the imported data. Such integrations utilize robust CMDB processes, such as Identification and Reconciliation, to ensure the integrity of the CMDB after third-party data integrations.
 
 ## Troubleshoot and get help
 
@@ -72,8 +72,3 @@ Populate the CMDB by importing and integrating third-party data into the CMDB, i
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[email|Email]]
-- [[cmdb-sgc-available|Service Graph Connectors]]

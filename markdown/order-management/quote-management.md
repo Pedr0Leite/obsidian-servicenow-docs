@@ -12,9 +12,9 @@ breadcrumb: [Configure, price, quote, Explore, Sales Customer Relationship Manag
 
 # Quote Management
 
-Quote Management is an application used to create and manage product and service quotes. Quote Management can be a separate application or part of the [[order-mgt-overview|Sales Customer Relationship Management]] \(Sales CRM\) application.
+Quote Management is an application used to create and manage product and service quotes. Quote Management can be a separate application or part of the Sales Customer Relationship Management \(Sales CRM\) application.
 
-A quote is a formal offer for products and services, proposed at specific prices and related payment terms, which is sent to a prospective customer or consumer. In the context of Sales Customer Relationship Management, quotes can be created from the [[opportunity-management|Opportunity Management]] application or quotes can be created separately, depending on your configuration.
+A quote is a formal offer for products and services, proposed at specific prices and related payment terms, which is sent to a prospective customer or consumer. In the context of Sales Customer Relationship Management, quotes can be created from the Opportunity Management application or quotes can be created separately, depending on your configuration.
 
 ## Quote Management user interface
 
@@ -30,7 +30,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[quote-management-details-tab|Details tab]]
+[Details tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-management-details-tab.md)
 
 </td><td>
 
@@ -38,7 +38,7 @@ Add basic information for the quote.
 
 </td></tr><tr><td>
 
-[[quote-management-catalog-tab|Catalog tab]]
+[Catalog tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-management-catalog-tab.md)
 
 </td><td>
 
@@ -46,7 +46,7 @@ Search for and add products to your quote using the product configurator. Pricin
 
 </td></tr><tr><td>
 
-[[quote-management-line-items-tab|Line Items tab]]
+[Line Items tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-management-line-items-tab.md)
 
 </td><td>
 
@@ -54,7 +54,7 @@ Add different line items to a quote. In each quote line item, you can update pro
 
 </td></tr><tr><td>
 
-[[quote-management-revisions-tab|Revisions tab]]
+[Revisions tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-management-revisions-tab.md)
 
 </td><td>
 
@@ -62,7 +62,7 @@ Create multiple versions of a quote.
 
 </td></tr><tr><td>
 
-[[quote-management-customer-orders-tab|Customer Orders tab]]
+[Customer Orders tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-management-customer-orders-tab.md)
 
 </td><td>
 
@@ -70,7 +70,7 @@ Turn your quote into a customer order.
 
 </td></tr><tr><td>
 
-[[quote-management-pricing-adjustments-tab|Pricing Adjustment tab]]
+[Pricing Adjustment tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-management-pricing-adjustments-tab.md)
 
 </td><td>
 
@@ -78,7 +78,7 @@ View and update pricing adjustments.
 
 </td></tr><tr><td>
 
-[[quote-create-sales-agreement|Enable a sales agreement in a quote]]
+[Enable a sales agreement in a quote](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-create-sales-agreement.md)
 
 </td><td>
 
@@ -86,7 +86,7 @@ When the sales agreement is enabled, the quote workflow changes and enables agen
 
 </td></tr><tr><td>
 
-[[quote-create-pdf-document|Create a quote PDF document]]
+[Create a quote PDF document](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-create-pdf-document.md)
 
 </td><td>
 
@@ -108,13 +108,13 @@ Channel partners with multiple locations can create and manage the quote related
 
 Multiple sellers or partners can be added to the quote line item for some business orders. There are two types of quote-related parties:
 
--   Authorized organization: This type of organization partners have full permissions to access, view, edit, or [[Modify|modify]] quote details
+-   Authorized organization: This type of organization partners have full permissions to access, view, edit, or modify quote details
 -   Listed organization: This type of organization partners are added solely for tracking purposes and does not have any permissions to view, access, edit, or delete quote details.
 
 </td></tr></tbody>
 </table>## Integrate Quote Management with product offering catalogs
 
-Quote Management is integrated with the product catalog and pricing to make adding products to your quote easier and convenient. Agents use the catalog to browse product offerings and the product configurator to add options and pricing to your products. Then they simply add them to the quote. Pricing adjustments that are fetched based on pricing matrices [[rules_101|rules]] are automatically added and presented in the quote.
+Quote Management is integrated with the product catalog and pricing to make adding products to your quote easier and convenient. Agents use the catalog to browse product offerings and the product configurator to add options and pricing to your products. Then they simply add them to the quote. Pricing adjustments that are fetched based on pricing matrices rules are automatically added and presented in the quote.
 
 ## Use the product configurator
 
@@ -155,11 +155,11 @@ A cost book contains the unit costs for product offerings. Cost books provide yo
 -   Discount management: Apply discounts to quotes based on cost prices to incentivize bulk purchases or long-term commitments for flexible pricing strategies while maintaining profitability and competitive incentives to your customers.​
 -   Negotiation support: Use cost prices as a reference during negotiations with your customers or suppliers. It provides a transparent basis for discussions, helping you build trust and facilitating fair and mutually beneficial agreements.​
 
-To learn more about cost books and their configuration, see [[pricing-management|Pricing Management]], [[create-cost-books|Create and publish a cost book]], [[create-cost-book-lines|Create a cost book line]], and [[configure-quote-management|Configuring Quote Management]].
+To learn more about cost books and their configuration, see [Pricing Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/pricing-management.md), [Create and publish a cost book](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-cost-books.md), [Create a cost book line](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-cost-book-lines.md), and [Configuring Quote Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-quote-management.md).
 
 ## Enable a sales agreement in Quote Management
 
-Enabling a sales agreement in Quote Management changes the quote to a sales agreement workflow that [[cpq-sets|sets]] the products and services according to the sales agreement. Agents can add simple products or [[configurable-products-explore|configurable products]] including product bundles to a sales agreement.
+Enabling a sales agreement in Quote Management changes the quote to a sales agreement workflow that sets the products and services according to the sales agreement. Agents can add simple products or configurable products including product bundles to a sales agreement.
 
 -   Configurable bundles with the ability to choose from all available child offers and optional products.
 -   Category level discounting
@@ -180,30 +180,9 @@ Sales agents can create a PDF document for a quote that can be sent to customers
 -   Quote PDF document templates can be created that reflect customer branding and logos.
 -   Quotes PDF documents that can be sent to customers for review and approvals.
 
-See [[quote-management-configure-pdf-documents|Configure quote PDF documents]] and [Create a quote PDF document](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-create-pdf-document.md) for more information about creating PDF documents for quotes.
+See [Configure quote PDF documents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-management-configure-pdf-documents.md) and [Create a quote PDF document](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-create-pdf-document.md) for more information about creating PDF documents for quotes.
 
 ## What to do next
 
 To learn about setting up Quote Management, see [Configuring Quote Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-quote-management.md).
 
-## Related
-
-- [[quote-management-details-tab|Add and view details of a quote]]
-- [[quote-management-catalog-tab|Add products to a quote]]
-- [[quote-management-line-items-tab|View and update products using the line items tab]]
-- [[quote-management-revisions-tab|Create quote versions]]
-- [[quote-management-customer-orders-tab|Convert quotes into orders]]
-- [[quote-management-pricing-adjustments-tab|View and update manual pricing adjustments in quotes]]
-- [[quote-create-sales-agreement|Enable a sales agreement in a quote]]
-- [[quote-create-pdf-document|Create a quote PDF document]]
-- [[pricing-management|Pricing Management]]
-- [[create-cost-books|Create and publish a cost book]]
-- [[create-cost-book-lines|Create a cost book line]]
-- [[configure-quote-management|Configuring Quote Management]]
-- [[quote-management-configure-pdf-documents|Configure quote PDF documents]]
-- [[order-mgt-overview|Sales Customer Relationship Management]]
-- [[opportunity-management|Opportunity Management]]
-- [[Modify|Modify]]
-- [[rules_101|Rules]]
-- [[cpq-sets|Sets]]
-- [[configurable-products-explore|Configurable products]]

@@ -15,7 +15,7 @@ breadcrumb: [Use generative AI skills, Now Assist for IT Service Management \(IT
 
 # Analyze sentiments in Now Assist for IT Service Management \(ITSM\)
 
-Make informed decisions on incidents based on requester's sentiment and the reasoning behind it in the [[now-assist-itsm|Now Assist for IT Service Management \(ITSM\)]] application.
+Make informed decisions on incidents based on requester's sentiment and the reasoning behind it in the Now Assist for IT Service Management \(ITSM\) application.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Role required: itil
 
 ## Procedure
 
-1.  Navigate to the incident list or incident form in the Core UI or in [[sow-landing-page|Service Operations Workspace for ITSM]].
+1.  Navigate to the incident list or incident form in the Core UI or in Service Operations Workspace for ITSM.
 
 <table id="choicetable_svt_mlg_w2c"><thead><tr><th align="left" id="d380165e88">
 
@@ -86,7 +86,3 @@ The Service Operations Workspace for ITSM form view appears.
     2.  In the Service Operations Workspace for ITSM interface, a red dot appears on the information icon \(\[Omitted image "icon-information.png"\] Alt text: Information icon\) next to the sentiment.
     3.  Select the information icon \(\[Omitted image "icon-information.png"\] Alt text: Information icon\) and then select the refresh icon \(\[Omitted image "icon-refresh.png"\] Alt text: Refresh icon\) to see the updated sentiment and sentiment trend.
 
-## Related
-
-- [[now-assist-itsm|Now Assist for IT Service Management \(ITSM\)]]
-- [[sow-landing-page|Service Operations Workspace for ITSM]]

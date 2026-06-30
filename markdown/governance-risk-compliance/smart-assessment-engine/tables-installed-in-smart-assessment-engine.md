@@ -14,7 +14,7 @@ breadcrumb: [Components installed with Smart Assessment Engine, Reference, Smart
 
 # Tables installed in Smart Assessment Engine
 
-Tables are added with activation of GRC: [[smart-asmnt-engine-landing-page|Smart Assessment Engine]].
+Tables are added with activation of GRC: Smart Assessment Engine.
 
 ## Tables installed with Smart Assessment Core
 
@@ -40,7 +40,7 @@ Assessment Template Category\[sn\_smart\_asmt\_template\_category\]
 
 </td><td>
 
-Extends the sys\_metadata table and stores categories that classify [[airc-assessment-templates|assessment templates]] by purpose. Controls access via associated roles and defines assessment handling on version retirement.
+Extends the sys\_metadata table and stores categories that classify assessment templates by purpose. Controls access via associated roles and defines assessment handling on version retirement.
 
 </td></tr><tr><td>
 
@@ -587,8 +587,3 @@ Stores migration records for converting legacy metric definitions and template d
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]
-- [[airc-assessment-templates|Assessment templates]]

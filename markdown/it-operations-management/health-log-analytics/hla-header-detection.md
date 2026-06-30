@@ -15,7 +15,7 @@ breadcrumb: [Log data auto-mapping and mapping, Set up HLA on your instance, Con
 
 # Header properties detection in Health Log Analytics
 
-In [[hla-landing-page|Health Log Analytics]], automatic header properties detection separates the transport header from the inner log message and forwards only the inner log message to the source type structure. The inner message contains the actual log data without including shipping information.
+In Health Log Analytics, automatic header properties detection separates the transport header from the inner log message and forwards only the inner log message to the source type structure. The inner message contains the actual log data without including shipping information.
 
 The Health Log Analytics application supports header properties detection for Fluentd, Beats, and Syslog \(RFC 3164, RFC 5424\).
 
@@ -31,6 +31,3 @@ For the procedure to disable header properties detection, see [Map raw log data 
 
 **Parent Topic:**[Log data auto-mapping and mapping in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-input-automapping.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

@@ -14,7 +14,7 @@ breadcrumb: [Software discovery, Data collected by ITOM Visibility, ITOM Visibil
 
 # Microsoft IIS server discovery
 
-[[r-discovery|Discovery]] identifies and classifies information about Microsoft IIS servers.
+Discovery identifies and classifies information about Microsoft IIS servers.
 
 ## Prerequisites
 
@@ -61,7 +61,7 @@ IIS
 </td></tr></tbody>
 </table>\*Probes inactive on new instances.
 
-To use patterns, verify that the correct pattern is specified in the [[r-HorizontalPatternProbe|horizontal pattern probe]] on the classifier. See [Add the Horizontal Pattern probe to a classifier](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c-UsingPatternsForHorizontalDiscovery.md) for instructions.
+To use patterns, verify that the correct pattern is specified in the horizontal pattern probe on the classifier. See [Add the Horizontal Pattern probe to a classifier](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c-UsingPatternsForHorizontalDiscovery.md) for instructions.
 
 ## Data collected by Discovery for IIS Web Server
 
@@ -86,7 +86,3 @@ The following data is collected in the Web site \[cmdb\_ci\_web\_site\] table:
 
 **Parent Topic:**[Software discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_Software.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[r-HorizontalPatternProbe|Horizontal Pattern probe]]

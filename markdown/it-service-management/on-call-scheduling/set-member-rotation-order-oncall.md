@@ -22,7 +22,7 @@ Role required: rota\_admin, rota\_manager, or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_OnCallScheduling|On-Call Scheduling]]** &gt; **My Group Schedules**.
+1.  Navigate to **All** &gt; **On-Call Scheduling** &gt; **My Group Schedules**.
 
 2.  Open the required shift form.
 
@@ -108,6 +108,3 @@ Rosters affected after modifying the order of a member. This field is auto-popul
 
 **Parent Topic:**[Managing roster members](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/managing-roster-members.md)
 
-## Related
-
-- [[c_OnCallScheduling|On-Call Scheduling]]

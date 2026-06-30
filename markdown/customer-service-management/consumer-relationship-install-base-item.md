@@ -12,11 +12,11 @@ breadcrumb: [Create relationships, Configure Service Model Foundation, Data mode
 
 # Consumer relationship for an install base item
 
-Your customer service managers can set up a relationship between two consumers, even if the consumers belong to different households. This relationship can be set up with the [[c_CustomerServiceManagement|Customer Service Management]] application. An authorized representative can access all the consumer [[install-base-item|install base items]] that don't belong to any particular household.
+Your customer service managers can set up a relationship between two consumers, even if the consumers belong to different households. This relationship can be set up with the Customer Service Management application. An authorized representative can access all the consumer install base items that don't belong to any particular household.
 
-A relationship can be established between two consumers by using the Consumer relationship table \[sn\_customer\_rel\_consumer\_to\_consumer\]. To create a relationship, see [[create-user-consumer-relationship|Create a relationship between two consumers]].
+A relationship can be established between two consumers by using the Consumer relationship table \[sn\_customer\_rel\_consumer\_to\_consumer\]. To create a relationship, see [Create a relationship between two consumers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-user-consumer-relationship.md).
 
-Authorized contacts, consumers, accounts, and members all have the Authorized Representative responsibility and can access all the details associated with an install base item. For information on authorized [[personas-roles-and-tables-post-integration-oppMgmt|roles and responsibilities]], see [[adding-related-party-config-to-case|Create related party configurations]].
+Authorized contacts, consumers, accounts, and members all have the Authorized Representative responsibility and can access all the details associated with an install base item. For information on authorized roles and responsibilities, see [Create related party configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/adding-related-party-config-to-case.md).
 
 After a relationship is created, all the install base items with a consumer-to-consumer relationship are visible to the consumer on the Consumer Service Portal. This relationship between the two consumers restricts all access to the household install base items to only those two consumers. This relationship also gives consumers additional access to edit and update the information that is related to an install base item.
 
@@ -25,10 +25,3 @@ After a relationship is created, all the install base items with a consumer-to-c
 
 [Create related party configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/adding-related-party-config-to-case.md)
 
-## Related
-
-- [[create-user-consumer-relationship|Create a relationship between two consumers]]
-- [[adding-related-party-config-to-case|Create related party configurations]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[install-base-item|Install base items]]
-- [[personas-roles-and-tables-post-integration-oppMgmt|Roles and responsibilities]]

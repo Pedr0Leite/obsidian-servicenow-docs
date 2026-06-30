@@ -16,7 +16,7 @@ breadcrumb: [Software Asset Management publisher pack for Microsoft, Supported s
 
 View license usage information related to Microsoft in the publisher overview for Microsoft in the Software Asset Workspace.
 
-From the [[sam-workspace|Software Asset Workspace]], access the Microsoft publisher overview by navigating to **License usage** &gt; **Publishers** and then selecting **Microsoft** from the list of available software publishers.
+From the Software Asset Workspace, access the Microsoft publisher overview by navigating to **License usage** &gt; **Publishers** and then selecting **Microsoft** from the list of available software publishers.
 
 Results are updated whenever a new reconciliation result is available.
 
@@ -85,6 +85,3 @@ Summary of your license compliance progress.This summary includes the following 
 
 **Parent Topic:**[Software Asset Management publisher pack for Microsoft](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/microsoft-publisher-pack.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]

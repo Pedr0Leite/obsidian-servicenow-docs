@@ -31,11 +31,11 @@ HR case creation has multiple steps:
 
 Using the **Case Creation Configuration** form you can control the information returned from a search and the required fields when creating an initial HR case.
 
-**Note:** Zing text search is used to search on indexed fields in the User \[sys\_user\], [[c_HRProfileRecords|HR Profile]] \[sn\_hr\_core\_profile\], and HR Case \[sn\_hr\_core\_case\] tables. Refer to [Zing text indexing and search engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ZingTextSearch.md).
+**Note:** Zing text search is used to search on indexed fields in the User \[sys\_user\], HR Profile \[sn\_hr\_core\_profile\], and HR Case \[sn\_hr\_core\_case\] tables. Refer to [Zing text indexing and search engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ZingTextSearch.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **Case Creation Configuration**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **Case Creation Configuration**.
 
 2.  On the form, modify the fields as appropriate.
 
@@ -174,7 +174,7 @@ Limit services
 
 </td><td>
 
-Option for creating service conditions that determine the [[hr-service-administration|HR services]] that are available for specific employees. For example, you may not want to offer 401\(k\) benefits to employees outside of the United States.**Note:** HR services work with [[hr-criteria|HR criteria]] to select the correct HR service for the subject person on the HR case. When a subject person is selected for an HR case, these fields determine the HR services available. When no subject person is selected, only services with no criteria are shown.
+Option for creating service conditions that determine the HR services that are available for specific employees. For example, you may not want to offer 401\(k\) benefits to employees outside of the United States.**Note:** HR services work with HR criteria to select the correct HR service for the subject person on the HR case. When a subject person is selected for an HR case, these fields determine the HR services available. When no subject person is selected, only services with no criteria are shown.
 
 </td></tr><tr><td>
 
@@ -232,9 +232,3 @@ Determines the fields that appear on the bottom of the CDS. The base system conf
 
 **Parent Topic:**[HR Administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_AdministerHRServiceManagement.md)
 
-## Related
-
-- [[c_HRProfileRecords|HR Profile]]
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[hr-service-administration|HR services]]
-- [[hr-criteria|HR criteria]]

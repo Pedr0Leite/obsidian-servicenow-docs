@@ -14,7 +14,7 @@ breadcrumb: [Customizing Desktop Assistant notifications using API parameters, S
 
 # Troubleshoot Desktop Assistant notification delivery
 
-Check notification records, queue processing, event handling, logs, and the endpoint client to identify why [[da-push-notifications|Desktop Assistant notifications]] aren't delivered.
+Check notification records, queue processing, event handling, logs, and the endpoint client to identify why Desktop Assistant notifications aren't delivered.
 
 ## Before you begin
 
@@ -94,6 +94,3 @@ Role required: admin
         -   If the expiry date is earlier than the current date and time, the notification has expired and is no longer delivered to the Desktop Assistant client.
         -   If the expiry date is in the future, the notification is still eligible for delivery.
 
-## Related
-
-- [[da-push-notifications|Desktop Assistant notifications]]

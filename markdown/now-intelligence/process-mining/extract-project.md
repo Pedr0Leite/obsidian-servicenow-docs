@@ -22,7 +22,7 @@ Role required: none
 
 ## Procedure
 
-1.  From the application navigator, navigate to **All** &gt; **[[process-mining|Process Mining]]** &gt; **[[analyst-workbench-overview|Process Mining Workspace]]**.
+1.  From the application navigator, navigate to **All** &gt; **Process Mining** &gt; **Process Mining Workspace**.
 
 2.  Select the context menu \[Omitted image "workbench-project-menu-icon.png"\] Alt text: Context menu on the project you want to refresh the data for.
 
@@ -41,7 +41,3 @@ Role required: none
 
 **Parent Topic:**[Using Process Mining](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/use-process-mining.md)
 
-## Related
-
-- [[process-mining|Process Mining]]
-- [[analyst-workbench-overview|Process Mining workspace]]

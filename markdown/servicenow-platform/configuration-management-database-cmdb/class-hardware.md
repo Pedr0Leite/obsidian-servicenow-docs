@@ -18,9 +18,9 @@ Attributes, identification rule, and other important schema structures for the C
 
 For descriptions of common CMDB tables in a base system, see [CMDB tables descriptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-tables-details.md).
 
-\[Omitted image "schema-hw-computer-server.png"\] Alt text: Relationships and [[reference-document-management|references]] between the Hardware, Computer, and Server classes.
+\[Omitted image "schema-hw-computer-server.png"\] Alt text: Relationships and references between the Hardware, Computer, and Server classes.
 
-**Note:** cmdb\_sw\_instance noted in the diagram, is a [[reference|reference]] to the cmdb\_software\_instance class, and Supported\_Group is a reference to Support\_Group.
+**Note:** cmdb\_sw\_instance noted in the diagram, is a reference to the cmdb\_software\_instance class, and Supported\_Group is a reference to Support\_Group.
 
 ## Attributes
 
@@ -36,7 +36,7 @@ The Hardware class adds the following unique attributes:
 
 Use the following key relationships as important guidelines when creating Hardware, Computer, or Server CIs:
 
--   Serial number: During CI identification, [[ire|Identification and Reconciliation Engine \(IRE\)]] processes search for a serial number in two locations. One is the CI serial number attribute, and the second one is the Serial Number \[cmdb\_serial\_number\] table, with reference back to the Hardware \[cmdb\_ci\_hardware\] table.
+-   Serial number: During CI identification, Identification and Reconciliation Engine \(IRE\) processes search for a serial number in two locations. One is the CI serial number attribute, and the second one is the Serial Number \[cmdb\_serial\_number\] table, with reference back to the Hardware \[cmdb\_ci\_hardware\] table.
 
     -   Store any serial number of any type other than System, only in the Serial Number table \(and not in the server CI attribute\).​
     -   If the system serial number is available, store it in both the **Serial Number** attribute of the CI and in the Serial Number table.
@@ -56,7 +56,7 @@ Use the following key relationships as important guidelines when creating Hardwa
         For example: 'f8:f2:1e:00:d4:66'
 
     -   In the CI Relationship \[cmdb\_rel\_ci\] table, create an **Owned By::Owns** relationship to the associated Hardware CI. Specify a reference from the Network Adapter \[cmdb\_ci\_network\_adapter\] table using the CI with a reference to the associated Hardware CI.
--   [[ip-address|IP address]]:
+-   IP address:
 
     -   Use the IP Address \[cmdb\_ci\_ip\_address\] class to store IP addresses.
     -   Store an IP address value in the **IP Address** attribute, and in the **Name** attribute \(to avoid empty **Name** attributes\).
@@ -65,12 +65,12 @@ Use the following key relationships as important guidelines when creating Hardwa
     -   Set the **Netmask** attribute to the IP address.
     -   In the CI Relationship \[cmdb\_rel\_ci\] table, create an **Owned By::Owns** relationship to the associated Hardware CI.
     -   Specify for the IP address a reference to the Network Adapter \[cmdb\_ci\_network\_adapter\] table using the Configuration Item with a reference to the associated Hardware CI.
-    -   To ensure that base system [[c_IdentificationRules|identification rules]] work properly, also store the IP address in the associated Network Adapter class.
+    -   To ensure that base system identification rules work properly, also store the IP address in the associated Network Adapter class.
 -   Network adapter and IP address:
 
     -   Store the MAC address of the network adapter installed on a server, in the Network Adapter \[cmdb\_ci\_network\_adapter\] class.
     -   Store the IP address in the IP Address \[cmdb\_ci\_ip\_address\] class.
-    -   Do not store the MAC address or the IP address in the [[class-server|Server \[cmdb\_ci\_server\] class]].​
+    -   Do not store the MAC address or the IP address in the Server \[cmdb\_ci\_server\] class.​
 
 ## Key reference structures
 
@@ -101,11 +101,3 @@ The base system contains pre-defined identification rules for the Hardware, Comp
 
 For more information, see [CMDB Identification and Reconciliation \(IRE\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CMDBIdentifyandReconcile.md).
 
-## Related
-
-- [[reference-document-management|References]]
-- [[reference|Reference]]
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]
-- [[ip-address|IP Address]]
-- [[c_IdentificationRules|Identification rules]]
-- [[class-server|Server \[cmdb\_ci\_server\] class]]

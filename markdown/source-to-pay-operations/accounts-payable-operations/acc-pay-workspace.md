@@ -15,7 +15,7 @@ breadcrumb: [Explore, Accounts Payable Operations, Finance and Supply Chain]
 
 # Source-to-Pay Workspace
 
-Use the [[purch-order-mgmt-ws|Source-to-Pay Workspace]] to manage cases and tasks related to [[invoices|invoices]] and [[work-with-invoice-exceptions|invoice exceptions]].
+Use the Source-to-Pay Workspace to manage cases and tasks related to invoices and invoice exceptions.
 
 The Source-to-Pay Workspace provides a dashboard and tools that enable you to do the following:
 
@@ -29,15 +29,15 @@ The Source-to-Pay Workspace supports global search, which enables you to search 
 
 The Source-to-Pay Workspace is automatically installed if any of the following applications are installed:
 
--   [[acc-pay-invoice-processing|Accounts Payable Invoice Processing]] \(com.sn\_ap\_apm\)
--   [[acc-pay-case-mgmt-overview|Invoice Case Management]] \(com.sn\_ap\_cm\)
+-   Accounts Payable Invoice Processing \(com.sn\_ap\_apm\)
+-   Invoice Case Management \(com.sn\_ap\_cm\)
 
 ## End user and roles
 
 |End user and goal|Required role|
 |-----------------|-------------|
-|Accounts Payable Specialist: View and manage [[working-with-ingestion-cases|invoice processing cases]] and tasks.|sn\_ap\_apm.accounts\_payable\_specialist|
-|Agent: View and manage [[work-with-inquiry-cases|invoice inquiry cases]] and tasks.|sn\_ap\_cm.agent|
+|Accounts Payable Specialist: View and manage invoice processing cases and tasks.|sn\_ap\_apm.accounts\_payable\_specialist|
+|Agent: View and manage invoice inquiry cases and tasks.|sn\_ap\_cm.agent|
 
 **Parent Topic:**[Explore Accounts Payable Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/explore-acc-pay-mgmt.md)
 
@@ -50,12 +50,3 @@ The Source-to-Pay Workspace is automatically installed if any of the following a
 
 [Accounts Payable Operations integration with Document Intelligence]()
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[invoices|Invoices]]
-- [[work-with-invoice-exceptions|Invoice exceptions]]
-- [[acc-pay-invoice-processing|Accounts Payable Invoice Processing]]
-- [[acc-pay-case-mgmt-overview|Invoice Case Management]]
-- [[working-with-ingestion-cases|Invoice processing cases]]
-- [[work-with-inquiry-cases|Invoice inquiry cases]]

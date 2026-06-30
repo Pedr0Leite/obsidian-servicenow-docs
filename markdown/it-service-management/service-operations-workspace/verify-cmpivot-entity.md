@@ -28,7 +28,7 @@ Role required: admin
 
 2.  On the Microsoft Endpoint Configuration Manager, select **Assets and Compliance**.
 
-3.  On the Assets and Compliance section, select **[[dex-workspace-devices-tab|Devices]]**.
+3.  On the Assets and Compliance section, select **Devices**.
 
     The list of devices are displayed on the right pane of the window.
 
@@ -51,6 +51,3 @@ Role required: admin
 
 **Parent Topic:**[Configuring CI metrics for Microsoft Endpoint Configuration Manager for Investigation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/config-ci-metrics-mecm-adapter.md)
 
-## Related
-
-- [[dex-workspace-devices-tab|Devices]]

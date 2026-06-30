@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings** and select **[[virtual-agent-landing-page|Virtual Agent]]** from the Chat Settings tab.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings** and select **Virtual Agent** from the Chat Settings tab.
 
 2.  On the Virtual Agent Settings page, navigate to the Configure your interactive voice response \(IVR\) section and click **Configure IVR** under Configure pre-built adapter.
 
@@ -43,7 +43,3 @@ Role required: admin
 
 **Parent Topic:**[Configure Conversational IVR with Amazon Connect](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-va-ivr.md)
 
-## Related
-
-- [[convint-landing-page|Conversational Interfaces]]
-- [[virtual-agent-landing-page|Virtual Agent]]

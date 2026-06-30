@@ -74,7 +74,7 @@ Option to opt-in or out to save the confirmation SMS message in notify\_message 
 
 </td></tr><tr><td>
 
-Enable Notify integration for [[c_IncidentAlertManagement|Incident Communications Management]]. Entering phone number in 'com.snc.iam.notify\_number' property is equivalent to setting this to true.
+Enable Notify integration for Incident Communications Management. Entering phone number in 'com.snc.iam.notify\_number' property is equivalent to setting this to true.
 
 </td><td>
 
@@ -100,7 +100,7 @@ Option to provide the phone number to be used for sending SMS and making confere
 
 </td></tr><tr><td>
 
-Specify a valid Notify Number with voice capability. This will enable a specific Major [[c_IncidentManagement|Incident Management]] integration with Notify which allows Workbench users to directly call people from the browser.
+Specify a valid Notify Number with voice capability. This will enable a specific Major Incident Management integration with Notify which allows Workbench users to directly call people from the browser.
 
 </td><td>
 
@@ -120,7 +120,3 @@ Maximum SMS message length
 
 **Parent Topic:**[Configuring Notify in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configure-notify-sow.md)
 
-## Related
-
-- [[c_IncidentAlertManagement|Incident Communications Management]]
-- [[c_IncidentManagement|Incident Management]]

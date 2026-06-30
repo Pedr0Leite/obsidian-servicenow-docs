@@ -22,7 +22,7 @@ An ELP report groups your data on the latest reconciliation results, and shows t
 
 The ELP report creates a record every time the report is run for every combination of publisher, product, group, subgroup, version, and edition. For each combination, the report calculates the average cost and totals the number of required licenses. The results are presented in a structured, list view for easy analysis and reporting.
 
-All the ELP data reports you have generated can be found in the ELP Grouping subtab, in the [[sam-workspace-workbench|License Usage view]].
+All the ELP data reports you have generated can be found in the ELP Grouping subtab, in the License Usage view.
 
 A grouping result is only deleted if you rerun the reconciliation process with grouping for the same publisher and product.
 
@@ -36,13 +36,9 @@ Organization, SampleXYZ, runs the ELP report with the following parameters:
 -   Product: Office
 -   Group: Cost Center
 
-Once the report is generated, a record is created for a unique combination of publisher, product, edition, version, license metric, group, and optional subgroup. Open the record to view the cost breakdown for each company group along with a detailed breakdown of the costs for each license metric, edition, and version of [[c_CreatingSoftwareModels|software models]].
+Once the report is generated, a record is created for a unique combination of publisher, product, edition, version, license metric, group, and optional subgroup. Open the record to view the cost breakdown for each company group along with a detailed breakdown of the costs for each license metric, edition, and version of software models.
 
 \[Omitted image "elpgrouping-report.png"\] Alt text: ELP grouping report
 
 **Parent Topic:**[Software reconciliation for compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_SAMReconciliation.md)
 
-## Related
-
-- [[sam-workspace-workbench|License usage view]]
-- [[c_CreatingSoftwareModels|Software models]]

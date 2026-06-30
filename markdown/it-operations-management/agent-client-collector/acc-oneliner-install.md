@@ -14,7 +14,7 @@ breadcrumb: [ACC installation on a Linux OS system, ACC deployment - servers, Co
 
 # Perform a single-line Agent Client Collector installation on Linux
 
-Use an efficient single-line command script to install [[acc-landing-page|Agent Client Collector]] on a machine that uses a Linux operating system. If a script is not connected to the instance or you want to use enhanced customization options, you might have to install Agent Client Collector manually.
+Use an efficient single-line command script to install Agent Client Collector on a machine that uses a Linux operating system. If a script is not connected to the instance or you want to use enhanced customization options, you might have to install Agent Client Collector manually.
 
 ## Before you begin
 
@@ -87,6 +87,3 @@ The URL of the MID Server websocket.If you are specifying multiple MID Servers, 
 
 **Parent Topic:**[Agent Client Collector installation on a Linux OS system](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-install-linux-concept.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

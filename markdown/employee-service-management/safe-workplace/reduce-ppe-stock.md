@@ -24,7 +24,7 @@ Role required: sn\_imt\_ppe.ppe\_admin
 
 1.  Navigate to **All** &gt; **PPE Inventory Management** &gt; **Inventory** and select **Reduce consumable stock** or **Reduce hardware stock**.
 
-    **Note:** To reduce PPE stock in the [[mobile-employee-experience|Now Mobile app]], navigate to **More** &gt; **PPE Stock** and select **Reduce Consumable Stock** or **Reduce Hardware Stock**.
+    **Note:** To reduce PPE stock in the Now Mobile app, navigate to **More** &gt; **PPE Stock** and select **Reduce Consumable Stock** or **Reduce Hardware Stock**.
 
 2.  On the form, fill in the fields.
 
@@ -106,6 +106,3 @@ The reason that you're reducing stock.
 
 **Next topic:**[Create stock rules for PPE](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/create-ppe-stock-rule.md)
 
-## Related
-
-- [[mobile-employee-experience|Now Mobile app]]

@@ -14,11 +14,11 @@ breadcrumb: [AI Search for Next Experience reference, AI Search for Next Experie
 
 # AI Search for Next Experience properties
 
-A system property allows you to control whether facets are shown when no source is selected in global search and workspace search [[hs-results|results]] pages.
+A system property allows you to control whether facets are shown when no source is selected in global search and workspace search results pages.
 
-This property is available for [[ais-next-experience-app|AI Search for Next Experience]].
+This property is available for AI Search for Next Experience.
 
-**Note:** To open the [[r_SetArchiveRuleProcessingBehavior|System Properties]] \[sys\_properties\] table, enter `sys_properties.list` in the navigation filter.
+**Note:** To open the System Properties \[sys\_properties\] table, enter `sys_properties.list` in the navigation filter.
 
 <table id="table_ctw_npp_vfc"><thead><tr><th>
 
@@ -44,8 +44,3 @@ glide.ui.ais.show\_all\_facets
 </td></tr></tbody>
 </table>**Parent Topic:**[AI Search for Next Experience reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/reference-ais-next-experience-app.md)
 
-## Related
-
-- [[hs-results|Results]]
-- [[ais-next-experience-app|AI Search for Next Experience]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

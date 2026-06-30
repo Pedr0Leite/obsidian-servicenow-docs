@@ -14,7 +14,7 @@ breadcrumb: [Configure your Password Reset process, Configuring Password Reset, 
 
 # Configure password expiration reminder
 
-You can configure the [[password-reset-landing-page|password reset]] expiration reminder feature to send notifications to change or reset a user’s password whenever it is going to expire.
+You can configure the password reset expiration reminder feature to send notifications to change or reset a user’s password whenever it is going to expire.
 
 ## Before you begin
 
@@ -42,7 +42,7 @@ After configuring password expiration reminder, notifications are sent to users 
 
 5.  On the form, fill in the fields.
 
-    For information about the fields on the [[password-expiration-configuration-form|Password Expiration Configuration form]], see [Password Expiration Configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/password-expiration-configuration-form.md).
+    For information about the fields on the Password Expiration Configuration form, see [Password Expiration Configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/password-expiration-configuration-form.md).
 
 6.  Save the form.
 
@@ -54,9 +54,9 @@ After configuring password expiration reminder, notifications are sent to users 
 
 
 -   **[View scheduled jobs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/view-scheduled-jobs.md)**  
-You can [[view-scheduled-jobs|view scheduled jobs]] for the process that you configured password expiration for. When you configure password expiration for a process, two scheduled jobs are created automatically.
+You can view scheduled jobs for the process that you configured password expiration for. When you configure password expiration for a process, two scheduled jobs are created automatically.
 -   **[View a password expiration table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/view-pwd-exp-table.md)**  
-You can [[view-pwd-exp-table|view a password expiration table]] and validate whether a record is created in it.
+You can view a password expiration table and validate whether a record is created in it.
 
 **Parent Topic:**[Configure your Password Reset process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/t_CreateAPasswordResetProcess.md)
 
@@ -75,7 +75,7 @@ You can [[view-pwd-exp-table|view a password expiration table]] and validate whe
 
 [Configure Password Reset properties]()
 
-[Send [[email|email]] to remind users to enroll for Password Reset]()
+[Send email to remind users to enroll for Password Reset]()
 
 [Configure the required strength for passwords]()
 
@@ -85,10 +85,3 @@ You can [[view-pwd-exp-table|view a password expiration table]] and validate whe
 
 [System properties for password expiration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/password-expiration-system-properties.md)
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]
-- [[password-expiration-configuration-form|Password Expiration Configuration form]]
-- [[view-scheduled-jobs|View scheduled jobs]]
-- [[view-pwd-exp-table|View a password expiration table]]
-- [[email|Email]]

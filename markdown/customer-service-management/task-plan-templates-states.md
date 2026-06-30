@@ -54,7 +54,7 @@ Delete
 
 </td><td>
 
-Select one or more [[task-plan-templates|task plan templates]] in the list and then select **Delete**. Only task plan templates in the Draft state can be deleted.Deleting a task plan template requires the sn\_task\_plan.delete role.
+Select one or more task plan templates in the list and then select **Delete**. Only task plan templates in the Draft state can be deleted.Deleting a task plan template requires the sn\_task\_plan.delete role.
 
 **Note:** The system displays a confirmation message when deleting a template. When the user confirms the action, the system deletes the task plan template.
 
@@ -64,7 +64,7 @@ Publish
 
 </td><td>
 
-Selecting **Publish** moves an active task plan template from the Draft state to Published. When a task plan template is in the Published state, the fields on the [[task-plan-template-form|Task Plan Template form]] are read-only.Publishing a task plan requires the sn\_task\_plan\_template.writer role.
+Selecting **Publish** moves an active task plan template from the Draft state to Published. When a task plan template is in the Published state, the fields on the Task Plan Template form are read-only.Publishing a task plan requires the sn\_task\_plan\_template.writer role.
 
 **Note:** The system displays a confirmation message when publishing a task plan template. When the user confirms the action, the system publishes the task plan template.
 
@@ -107,8 +107,3 @@ Select the task plan template in the list and then select **Deactivate** to disa
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[task-plan-templates|Task Plan Templates]]
-- [[task-plan-template-form|Task Plan Template form]]

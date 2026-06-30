@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -94,7 +94,7 @@ Security risk
 
 -   Severity score: High
 -   CVSS score: 7.5
--   Security risk details: If the property is set to **true**, there is a potential risk of sensitive data to unauthenticated [[users|users]].
+-   Security risk details: If the property is set to **true**, there is a potential risk of sensitive data to unauthenticated users.
 
 </td></tr><tr><td>
 
@@ -115,8 +115,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]
-- [[users|Users]]

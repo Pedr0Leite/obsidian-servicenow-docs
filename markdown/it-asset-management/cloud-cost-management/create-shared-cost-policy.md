@@ -26,14 +26,14 @@ Role required: insights\_admin \[sn\_clin\_core.insights\_admin\] or insights\_o
 
 ## About this task
 
--   You must select one of the [[cloud-insights-landing-page|Cloud Cost Management]] application scopes to create or update a shared cost allocation policy.
+-   You must select one of the Cloud Cost Management application scopes to create or update a shared cost allocation policy.
 -   You can create as many policies as needed.
 -   If Kubernetes Service is selected as Service Category, you can't edit the Service Category, Resource Type, Kubernetes Cluster fields while editing a policy.
 -   When you deactivate a shared cost allocation policy, allocations get updated with the latest policy match.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[ci-workspace|Cloud Cost Management Workspace]]** &gt; **Operations** &gt; **Administration**.
+1.  Navigate to **Workspaces** &gt; **Cloud Cost Management Workspace** &gt; **Operations** &gt; **Administration**.
 
 2.  Select **Shared cost allocation policies**.
 
@@ -58,7 +58,3 @@ After you create or update a shared cost allocation policy, select **Reapply pol
 
 **Parent Topic:**[Using Cloud Cost Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/using-cloud-insights.md)
 
-## Related
-
-- [[cloud-insights-landing-page|Cloud Cost Management]]
-- [[ci-workspace|Cloud Cost Management Workspace]]

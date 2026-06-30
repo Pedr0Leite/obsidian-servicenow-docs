@@ -15,8 +15,5 @@ breadcrumb: [Now Assist for APO, Accounts Payable Operations, Finance and Supply
 
 # Using Now Assist for Accounts Payable Operations \(APO\)
 
-If you've the sn\_ap\_apm.accounts\_payable\_specialist or sn\_ap\_cm.agent role, you can summarize the details of an invoice case, completed actions, or pending tasks with the [[now-assist-apo|Now Assist for Accounts Payable Operations \(APO\)]] application.
+If you've the sn\_ap\_apm.accounts\_payable\_specialist or sn\_ap\_cm.agent role, you can summarize the details of an invoice case, completed actions, or pending tasks with the Now Assist for Accounts Payable Operations \(APO\) application.
 
-## Related
-
-- [[now-assist-apo|Now Assist for Accounts Payable Operations \(APO\)]]

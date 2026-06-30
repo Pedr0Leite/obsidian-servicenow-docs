@@ -16,7 +16,7 @@ As customer service agents, create incident, problem, change, and request record
 
 ## Create an incident record from a case
 
-As a customer service agent, create an incident record from a case or associate an existing incident with a case in [[csm-workspaces-configure|CSM Configurable Workspace]].
+As a customer service agent, create an incident record from a case or associate an existing incident with a case in CSM Configurable Workspace.
 
 ### Before you begin
 
@@ -46,7 +46,7 @@ Role required: sn\_customerservice\_agent, sn\_customerservice.consumer\_agent
 Information about the incident is added as follows:
 
 -   An update with the incident number is added to the case work notes.
--   The incident is added to the **Incident** field in the **Related Records** form section on the [[r_CustomerServiceCaseForm|case form]].
+-   The incident is added to the **Incident** field in the **Related Records** form section on the case form.
 -   The case number is added to the Customer Cases related list on the Incident record.
 -   If the case has an associated Problem, Change Request, or Caused by Change record, this information is also copied to the incident record.
 -   The domain of the incident is mapped to the domain of the case.
@@ -247,7 +247,3 @@ Information about the incident is added as follows:
 -   The case number is added to the Customer Cases related list on the request record.
 -   The domain of the request is mapped to the domain of the case.
 
-## Related
-
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[r_CustomerServiceCaseForm|Case form]]

@@ -13,7 +13,7 @@ breadcrumb: [Email Interaction, Email channel, Enable communication channels, Co
 
 # Customize the email interaction experience
 
-Customize the [[csm-email-interaction-record-page|Email Interaction record page]] in UI Builder for agents.
+Customize the Email Interaction record page in UI Builder for agents.
 
 ## Before you begin
 
@@ -31,7 +31,7 @@ For more information on UI Builder, see [UI Builder](https://raw.githubuserconte
 
 3.  On the Experiences page, search and select **CSM/FSM Configurable Workspace**.
 
-4.  Navigate to **Pages and variants** &gt; **Record** &gt; **[[email-as-an-interaction|Email Interaction]] Page**.
+4.  Navigate to **Pages and variants** &gt; **Record** &gt; **Email Interaction Page**.
 
 5.  Select the Open menu icon \(\[Omitted image "Open\_menu\_icon\_EaaI.png"\] Alt text: Open menu icon\).
 
@@ -60,7 +60,3 @@ For more information on UI Builder, see [UI Builder](https://raw.githubuserconte
 
 You can customize the page in the UI builder.
 
-## Related
-
-- [[csm-email-interaction-record-page|Email Interaction record page]]
-- [[email-as-an-interaction|Email Interaction]]

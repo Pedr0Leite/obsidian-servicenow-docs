@@ -15,7 +15,7 @@ breadcrumb: [Dynamic Guidance, Adoption services, Configure user experiences]
 
 # Using Dynamic Guidance
 
-Learn how to invoke [[dynamic-guidance|Dynamic Guidance]] and use it effectively to enhance your experience.
+Learn how to invoke Dynamic Guidance and use it effectively to enhance your experience.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ Google must be turned on in AI control tower for Dynamic Guidance to work.
 
 1.  Go to an instance you want help on.
 
-2.  Choose from Now Assist panel or [[help-center|Help Center]] as one of the options to launch Dynamic Guidance from.
+2.  Choose from Now Assist panel or Help Center as one of the options to launch Dynamic Guidance from.
 
 3.  Follow these steps to invoke Dynamic Guidance via Help Center:
 
@@ -73,7 +73,4 @@ Google must be turned on in AI control tower for Dynamic Guidance to work.
 
 11. Select **Submit** to save your response.
 
-## Related
 
-- [[dynamic-guidance|Dynamic Guidance]]
-- [[help-center|Help Center]]

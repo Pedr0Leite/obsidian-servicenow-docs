@@ -14,11 +14,11 @@ breadcrumb: [Certificate Inventory and Management, ITOM Visibility, IT Operation
 
 # Configuring Certificate Inventory and Management
 
-Establish a streamlined process for gaining insights into Certificate Inventory Management, covering key aspects like certificate [[r-discovery|discovery]], bulk upload functionality, maintenance of certificate chain relationships, configuration of Credential Identifiers, customization of the system, creation of new/renewal requests, archiving tasks, automation of TLS certificate management, integration with [[c_EM|Event Management]], Slack notifications for alerts, and leveraging cert-Manager for efficient certificate generation.
+Establish a streamlined process for gaining insights into Certificate Inventory Management, covering key aspects like certificate discovery, bulk upload functionality, maintenance of certificate chain relationships, configuration of Credential Identifiers, customization of the system, creation of new/renewal requests, archiving tasks, automation of TLS certificate management, integration with Event Management, Slack notifications for alerts, and leveraging cert-Manager for efficient certificate generation.
 
 ## Configuration overview
 
-Before using [[cert-inventory-mgmt|Certificate Inventory and Management]], it's crucial to set up the necessary plugins, ensure activation, upgrade your instance to the latest version, and download the Certificate Inventory and Management application from ServiceNow Store. For additional details, see [Get started with Certificate Inventory and Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/get-started-cert-inventory-mgmt.md).
+Before using Certificate Inventory and Management, it's crucial to set up the necessary plugins, ensure activation, upgrade your instance to the latest version, and download the Certificate Inventory and Management application from ServiceNow Store. For additional details, see [Get started with Certificate Inventory and Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/get-started-cert-inventory-mgmt.md).
 
 After the prerequisites are met, you can proceed with the following tasks.
 
@@ -30,8 +30,3 @@ After the prerequisites are met, you can proceed with the following tasks.
 |[Certificate alerts and notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cert-inventory-mgmt-workflow.md)|Establish integration between Event Management systems and Certificate Inventory Management for real-time monitoring and response to certificate-related events. Configure notifications to be sent to Slack channels, keeping stakeholders informed about critical certificate events and changes.|
 |[Certificate generation through Cert-Manager Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cert-mngr-integration.md)|Utilize Cert-Manager or a similar tool to automate the certificate generation process, ensuring efficient and secure issuance based on predefined policies.|
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_EM|Event Management]]
-- [[cert-inventory-mgmt|Certificate Inventory and Management]]

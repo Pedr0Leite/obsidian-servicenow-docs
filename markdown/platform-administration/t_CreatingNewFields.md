@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-**Note:** Certain ServiceNow AI Platform subscriptions include custom table entitlements. You can create [[custom-tables|custom tables]] for any purpose, up to the entitlement limit in the subscription. To learn more about how your usage administrator maps the custom tables that you create to subscriptions, see [[allocate-custom-table-subsc-app-v2|Map custom tables to a product subscription in Subscription Management]].
+**Note:** Certain ServiceNow AI Platform subscriptions include custom table entitlements. You can create custom tables for any purpose, up to the entitlement limit in the subscription. To learn more about how your usage administrator maps the custom tables that you create to subscriptions, see [Map custom tables to a product subscription in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/allocate-custom-table-subsc-app-v2.md).
 
 Be aware of these database limitations:
 
@@ -73,10 +73,5 @@ Select a field length. This field is visible only for certain field types.
     The field now appears on the form in the designated location.
 
 
-**Parent Topic:**[[customize-fields-now-platform-landing|Customizing fields on the ServiceNow AI Platform]]
+**Parent Topic:**[Customizing fields on the ServiceNow AI Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/customize-fields-now-platform-landing.md)
 
-## Related
-
-- [[allocate-custom-table-subsc-app-v2|Map custom tables to a product subscription in Subscription Management]]
-- [[customize-fields-now-platform-landing|Customizing fields on the ServiceNow AI Platform]]
-- [[custom-tables|Custom tables]]

@@ -12,7 +12,7 @@ breadcrumb: [Fix code in real-time with Now Assist, Prevent and resolve technica
 
 # Configure Fix code in real-time for Platform Health
 
-Follow these steps to configure Fix code in real-time for [[impact-landing-page|Impact]] [[platform-health-idi|Platform Health]].
+Follow these steps to configure Fix code in real-time for Impact Platform Health.
 
 ## Before you begin
 
@@ -22,9 +22,9 @@ Role required: Scan Engine Admin \(sn\_se.scan\_engine\_admin\)
 
 The following are minimum prerequisites:
 
--   Install and configure the Impact Store App. See [[configuring-impact-platform|Configure the Impact Store Application]] for details.
--   Scan Engine configured: See [[configure-initial-scan-engine-settings|Activate Scan Engine and review settings]] for details.
--   Now Assist for Impact, version 3.03: See [[activate-now-assist-skills-in-now-assist-for-impact|Activate Now Assist skills in Now Assist for Impact]] for details.
+-   Install and configure the Impact Store App. See [Configure the Impact Store Application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configuring-impact-platform.md) for details.
+-   Scan Engine configured: See [Activate Scan Engine and review settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configure-initial-scan-engine-settings.md) for details.
+-   Now Assist for Impact, version 3.03: See [Activate Now Assist skills in Now Assist for Impact](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/activate-now-assist-skills-in-now-assist-for-impact.md) for details.
 -   Now Assist for Platform, version 11.01
 
 ## Procedure
@@ -64,10 +64,4 @@ The following are minimum prerequisites:
 
 14. Assign the `sn_impact_gen_ai_.ai_fix_user` role to any users or groups to use the Gen AI feature.
 
-## Related
 
-- [[configuring-impact-platform|Configure the Impact Store Application]]
-- [[configure-initial-scan-engine-settings|Activate Scan Engine and review settings]]
-- [[activate-now-assist-skills-in-now-assist-for-impact|Activate Now Assist skills in Now Assist for Impact]]
-- [[impact-landing-page|Impact]]
-- [[platform-health-idi|Platform Health]]

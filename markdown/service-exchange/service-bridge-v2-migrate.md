@@ -14,10 +14,7 @@ breadcrumb: [Configure for providers, Service Exchange for Providers, Service Ex
 
 # Migrate from Service Exchange \(legacy\)
 
-This section describes the process to migrate from the [[tmt-service-bridge-both-landing-page|Service Exchange]] \(legacy\) version.
+This section describes the process to migrate from the Service Exchange \(legacy\) version.
 
 To migrate from the legacy version, follow the steps listed in [Service Exchange for Providers \(Legacy\) - Migration Utility \(KB1499823\)](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1499823).
 
-## Related
-
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]

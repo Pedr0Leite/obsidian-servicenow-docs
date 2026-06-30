@@ -14,7 +14,7 @@ breadcrumb: [Agile Development 2.0 reference, Agile Development 2.0, Agile Devel
 
 # Test version form in Agile Development 2.0
 
-Learn about the fields of the Test version form. Use this form to create and [[run-test-plan-within-agile|run tests for a story in Agile Development 2.0]].
+Learn about the fields of the Test version form. Use this form to create and run tests for a story in Agile Development 2.0.
 
 <table id="table_mty_wfd_scb"><thead><tr><th>
 
@@ -146,6 +146,3 @@ Option to delete a test step.
 
 [Track sprint progress in Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/sprint-tracking-list.md)
 
-## Related
-
-- [[run-test-plan-within-agile|Run tests for a story in Agile Development 2.0]]

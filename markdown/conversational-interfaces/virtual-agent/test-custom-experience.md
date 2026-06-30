@@ -14,7 +14,7 @@ breadcrumb: [Customizing a chat experience, Configure, Virtual Agent, Conversati
 
 # Test chat experiences
 
-After you create or modify a [[virtual-agent-landing-page|Virtual Agent]] chat experience, you can test \(simulate\) it to verify that it works as expected.
+After you create or modify a Virtual Agent chat experience, you can test \(simulate\) it to verify that it works as expected.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: virtual\_agent\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings**, and select the **Virtual Agent** tab.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings**, and select the **Virtual Agent** tab.
 
 2.  Under **Custom greetings and setup**, select **View All**.
 
@@ -53,7 +53,3 @@ Role required: virtual\_agent\_admin or admin
 
 **Parent Topic:**[Customizing a Virtual Agent chat experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-conversation-settings.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]

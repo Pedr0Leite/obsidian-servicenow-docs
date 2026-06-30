@@ -12,7 +12,7 @@ breadcrumb: [Reference, Conversation Improvement Themes, Enable AI experiences]
 
 # Components installed with Conversation Improvement Themes
 
-Several types of components are part of [[conv-impr-themes-landing|Conversation Improvement Themes]], including scheduled jobs, tables, system properties, and flows.
+Several types of components are part of Conversation Improvement Themes, including scheduled jobs, tables, system properties, and flows.
 
 ## Roles added
 
@@ -67,7 +67,7 @@ Name
 
 </th></tr></thead><tbody><tr><td>
 
-Themes [[exploring-ai-governance|Configurations]] \[sn\_na\_thematic\_themes\_configuration\]
+Themes Configurations \[sn\_na\_thematic\_themes\_configuration\]
 
 </td><td>
 
@@ -155,10 +155,5 @@ If any of the theme skills are not part of the Azure Open AI provider, the fallb
 |---------------|-----------|
 |themesUtil|Primary utility function for Conversation Evaluator.|
 
-**Parent Topic:**[[conv-impr-themes-reference|Reference for Conversation Improvement Themes]]
+**Parent Topic:**[Reference for Conversation Improvement Themes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/conv-impr-themes-reference.md)
 
-## Related
-
-- [[conv-impr-themes-reference|Reference for Conversation Improvement Themes]]
-- [[conv-impr-themes-landing|Conversation Improvement Themes]]
-- [[exploring-ai-governance|Configurations]]

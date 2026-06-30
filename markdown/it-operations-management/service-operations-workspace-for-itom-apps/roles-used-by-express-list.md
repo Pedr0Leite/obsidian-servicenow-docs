@@ -15,7 +15,7 @@ breadcrumb: [Express List in SOW for ITOM, Using SOW for ITOM, Service Operation
 
 # Roles used by Express List
 
-Detailed information on all roles that can access the Express List feature on the [[workspace-dashboard-use|Service Operations Workspace]].
+Detailed information on all roles that can access the Express List feature on the Service Operations Workspace.
 
 <table id="table_jtn_5wp_12c"><thead><tr><th>
 
@@ -31,7 +31,7 @@ Contains roles
 
 </th></tr></thead><tbody><tr><td>
 
-[[c_EM|Event Management]] Administrator\[evt\_mgmt\_admin\]
+Event Management Administrator\[evt\_mgmt\_admin\]
 
 </td><td>
 
@@ -92,8 +92,3 @@ Has create access to the Event \[em\_event\] and Registered Nodes \[em\_register
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[c_EM|Event Management]]

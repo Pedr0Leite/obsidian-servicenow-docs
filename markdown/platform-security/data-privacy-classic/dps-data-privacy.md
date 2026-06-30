@@ -14,7 +14,7 @@ breadcrumb: [Data Privacy, Platform Privacy]
 
 # Data privacy
 
-The [[data-privacy-landing|data privacy]] store app is a Next Experience refresh for [[data-classification|data classification]] and data privacy with modern look, feel, and usability. Data privacy store app is supported in Utah and above.
+The data privacy store app is a Next Experience refresh for data classification and data privacy with modern look, feel, and usability. Data privacy store app is supported in Utah and above.
 
 Data privacy is comprised of several components, Overview, Classification, and Anonymization.
 
@@ -24,10 +24,5 @@ Use the Overview section as a starting point to manage your data and data privac
 
 ## Classification
 
-Data classification is the process of organizing data into categories that make it easy to retrieve, sort, and store for future use. Using a classification system helps to focus on confidentiality and security policy requirements. [[dps-classify-data|Classify data]] to be used for anonymization. For information on data classes and classification, see [Data classification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/dps-data-classification.md).
+Data classification is the process of organizing data into categories that make it easy to retrieve, sort, and store for future use. Using a classification system helps to focus on confidentiality and security policy requirements. Classify data to be used for anonymization. For information on data classes and classification, see [Data classification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/dps-data-classification.md).
 
-## Related
-
-- [[data-privacy-landing|Data Privacy]]
-- [[data-classification|Data Classification]]
-- [[dps-classify-data|Classify data]]

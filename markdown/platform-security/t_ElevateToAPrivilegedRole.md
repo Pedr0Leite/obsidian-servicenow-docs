@@ -12,13 +12,13 @@ breadcrumb: [Elevated privilege roles, Security Roles, Access Management]
 
 # Elevate to a privileged role
 
-The base system admin can elevate to a privileged role to have access to the features of [[c_HighSecuritySettings|High Security Settings]].
+The base system admin can elevate to a privileged role to have access to the features of High Security Settings.
 
 ## Before you begin
 
 Role required: admin
 
-**Note:** If you grant additional [[users|users]] the admin role, they cannot elevate to a privileged role. Only the base system admin can elevate.
+**Note:** If you grant additional users the admin role, they cannot elevate to a privileged role. Only the base system admin can elevate.
 
 ## Procedure
 
@@ -30,12 +30,12 @@ Role required: admin
 
 3.  Select the elevated roles to be assigned and click **OK**.
 
-    This role grants the user elevated privileges to all resources controlled by the role for the remainder of the session. When the user [[logs|logs]] out, the elevated privileges are terminated with the session but may be reestablished at the next login.
+    This role grants the user elevated privileges to all resources controlled by the role for the remainder of the session. When the user logs out, the elevated privileges are terminated with the session but may be reestablished at the next login.
 
 4.  End role elevation by returning to the dialog box in step 2, and deselecting the role.
 
 
-**Parent Topic:**[[c_ElevatedPrivilege|Elevated privilege roles]]
+**Parent Topic:**[Elevated privilege roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_ElevatedPrivilege.md)
 
 **Related topics**  
 
@@ -44,9 +44,3 @@ Role required: admin
 
 [Force administrators to manually elevate]()
 
-## Related
-
-- [[c_ElevatedPrivilege|Elevated privilege roles]]
-- [[c_HighSecuritySettings|High Security Settings]]
-- [[users|Users]]
-- [[logs|Logs]]

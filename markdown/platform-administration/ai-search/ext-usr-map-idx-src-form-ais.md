@@ -14,7 +14,7 @@ breadcrumb: [Reference, AI Search, Search administration, Configure core feature
 
 # AI Search External Search User Mapping Table Data Source Relationship form
 
-The AI Search External Search User Mapping Table Data Source Relationship form contains enables you to link a user mapping table to an indexed source for external content in [[ia-ai-search|AI Search]].
+The AI Search External Search User Mapping Table Data Source Relationship form contains enables you to link a user mapping table to an indexed source for external content in AI Search.
 
 For details on linking a user mapping table to an indexed source for external content, see [Mapping external users and groups to ServiceNow AI Platform users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/user-mappings-ais.md).
 
@@ -25,6 +25,3 @@ For details on linking a user mapping table to an indexed source for external co
 
 **Parent Topic:**[AI Search reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/reference-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]

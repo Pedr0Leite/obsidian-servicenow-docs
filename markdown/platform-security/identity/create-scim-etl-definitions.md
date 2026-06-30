@@ -20,7 +20,7 @@ Use the SCIM ETL definitions to map the custom attributes with the sys\_user or 
 
 Role required: scim\_config\_admin
 
-**Warning:** Grant this role carefully. The scim\_config\_admin role is equivalent to giving the user the admin role, where the scim\_config\_admin role can insert new records into the tables that can bypass [[sc-business-logic|business logic]] or ACL protection.
+**Warning:** Grant this role carefully. The scim\_config\_admin role is equivalent to giving the user the admin role, where the scim\_config\_admin role can insert new records into the tables that can bypass business logic or ACL protection.
 
 **Note:**
 
@@ -35,7 +35,7 @@ Role required: scim\_config\_admin
 
 3.  In the ETL Entities section, create an entity by clicking **New**.
 
-    You have to create entities for the following [[users|users]]:
+    You have to create entities for the following users:
 
     -   scim-user: For the fields that are from SCIM.
     -   user \(sys\_user\) or group \(sys\_user\_group\) table: For the fields that you want to map from the database table with SCIM. For example, for customization of user details through SCIM, you can use the sys\_user table.
@@ -149,7 +149,7 @@ Option to query the existing records.
 
         \[Omitted image "user-etl-definitions.png"\] Alt text: User entities
 
-        **Note:** To add a filter in the incoming SCIM fields, use an underscore \(`_`\). This underscore translates to an EQ filter. For example, the attribute **[[email|email]].type\_work.value** applies the SCIM filter of email **\[type eq “work”\].value**.
+        **Note:** To add a filter in the incoming SCIM fields, use an underscore \(`_`\). This underscore translates to an EQ filter. For example, the attribute **email.type\_work.value** applies the SCIM filter of email **\[type eq “work”\].value**.
 
         After the fields are created in both the scim-user and user ETL Entity records, you have to create an RTE Entity mapping record. You must then specify the source and target definition to map both the fields.
 
@@ -215,8 +215,3 @@ These ETL definitions and mappings enable you to extract data from a source tabl
 
 [Create Extract Transform Load \(ETL\) definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/create-etl-definitions.md)
 
-## Related
-
-- [[sc-business-logic|Business Logic]]
-- [[users|Users]]
-- [[email|Email]]

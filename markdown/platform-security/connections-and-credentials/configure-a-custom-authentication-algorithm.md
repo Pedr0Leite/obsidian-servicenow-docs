@@ -26,11 +26,11 @@ Generate the custom data needed to authenticate to a web service by running scri
 
 ## About this task
 
-Use a connection and credential alias and custom [[c_Authentication|authentication]] based algorithm for authentication.
+Use a connection and credential alias and custom authentication based algorithm for authentication.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Credentials &amp; Connections** &gt; **[[authentication-algorithms|Authentication Algorithms]]**, and click **New**.
+1.  Navigate to **All** &gt; **Credentials &amp; Connections** &gt; **Authentication Algorithms**, and click **New**.
 
 2.  On the form, fill in the fields.
 
@@ -58,7 +58,7 @@ Algorithm
 
 </td><td>
 
-Outbound [[c_requestAPI|request]] type. Select **Custom Authentication**.
+Outbound request type. Select **Custom Authentication**.
 
 </td></tr><tr><td>
 
@@ -89,7 +89,7 @@ Script that you select from the Script Includes table. The scripts available are
  **Note:**
 
 -   To know more about the script click the information icon next to the field. The details of the script such as Name, API Name, Application, Accessible from, Script, and so on is displayed.
--   In case of custom authentication with Twitter, you can choose **RequestAuthTwitterSigner**, since it uses an [[oauth-inbound-and-outbound|OAuth]] 1.0a method of authentication. This requires informations such as **API key and secret** and **Access token and secret** that can be used to create signatures to pass in an authorization header. For more information, see [Authentication in Twitter](https://developer.twitter.com/en/docs/authentication/oauth-1-0a).
+-   In case of custom authentication with Twitter, you can choose **RequestAuthTwitterSigner**, since it uses an OAuth 1.0a method of authentication. This requires informations such as **API key and secret** and **Access token and secret** that can be used to create signatures to pass in an authorization header. For more information, see [Authentication in Twitter](https://developer.twitter.com/en/docs/authentication/oauth-1-0a).
 
 
 </td></tr><tr><td>
@@ -157,9 +157,3 @@ Input REST step with Twitter as follows:
 
 You can test the action. The tweet is posted on the Twitter page.
 
-## Related
-
-- [[c_Authentication|Authentication]]
-- [[authentication-algorithms|Authentication Algorithms]]
-- [[c_requestAPI|request]]
-- [[oauth-inbound-and-outbound|OAuth]]

@@ -14,7 +14,7 @@ breadcrumb: [Creating change approval policies, Use, Change Management, IT Servi
 
 # Use the Apply Change Approval Policy flow action
 
-Apply your change approval policy in the [[c_ITILChangeManagement|Change Management]] Workflow Studio action to control the approval process for a change request. You can create user and group approvals according to a change approval policy record.
+Apply your change approval policy in the Change Management Workflow Studio action to control the approval process for a change request. You can create user and group approvals according to a change approval policy record.
 
 ## Before you begin
 
@@ -86,6 +86,3 @@ Due date for the approval policy. Select one of the following options:-   **None
 
 **Parent Topic:**[Creating change approval policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/using-change-approval-policies-cf.md)
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]

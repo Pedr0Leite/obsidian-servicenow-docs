@@ -14,7 +14,7 @@ breadcrumb: [Maintaining user data privacy in Contact Tracing, Contact Tracing, 
 
 # Respond to a request for privacy consent in Contact Tracing
 
-When you receive an email or mobile notification for privacy consent, read the privacy policy statement and submit a response indicating whether you agree to the usage of your data for [[contact-tracing|contact tracing]].
+When you receive an email or mobile notification for privacy consent, read the privacy policy statement and submit a response indicating whether you agree to the usage of your data for contact tracing.
 
 ## Before you begin
 
@@ -45,7 +45,7 @@ Your current privacy consent decision is updated.
 
 The status of the notification updates to Acknowledged.
 
-If you have the [Employee Readiness Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-readiness-core/employee-readiness-core.md) application installed and a [[health-safety-overview|health and safety]] requirement for the privacy consent activated, a record is created with the requirement status:
+If you have the [Employee Readiness Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-readiness-core/employee-readiness-core.md) application installed and a health and safety requirement for the privacy consent activated, a record is created with the requirement status:
 
 -   If you agreed to the privacy policy and use of your data, the requirement status updates to Cleared.
 -   If you disagreed or withdrew your consent, the requirement status updates to Not Cleared.
@@ -90,7 +90,3 @@ If you have the [Employee Readiness Core](https://raw.githubusercontent.com/Serv
 -   If you agreed to the privacy policy and use of your data, the requirement status updates to Cleared.
 -   If you disagreed or withdrew your consent, the requirement status updates to Not Cleared.
 
-## Related
-
-- [[contact-tracing|Contact Tracing]]
-- [[health-safety-overview|Health and Safety]]

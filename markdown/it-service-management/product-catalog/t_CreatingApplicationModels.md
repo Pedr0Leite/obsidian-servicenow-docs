@@ -22,7 +22,7 @@ Role required: model\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ProductCatalog|Product Catalog]]** &gt; **Product Model** &gt; **Application [[c_Models|Models]]**.
+1.  Navigate to **All** &gt; **Product Catalog** &gt; **Product Model** &gt; **Application Models**.
 
 2.  Click **New**.
 
@@ -40,7 +40,3 @@ Role required: model\_manager
 
 [Agile Development](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development.md)
 
-## Related
-
-- [[c_ProductCatalog|Product Catalog]]
-- [[c_Models|Models]]

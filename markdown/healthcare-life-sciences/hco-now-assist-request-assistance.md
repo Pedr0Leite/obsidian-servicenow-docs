@@ -26,14 +26,14 @@ This agentic workflow creates support requests of varying case types that are th
 
 The following Care Team Operations plugins contain the case types for this agentic workflow:
 
--   [[care-team-operations-for-biomed|Care Team Operations for Biomed]]
--   [[cto-evs-landing|Care Team Operations for Environmental Services]]
--   [[cto-facilities-landing|Care Team Operations for Facilities]]
--   [[hcls-cto-it-app|Care Team Operations for Healthcare IT]]
+-   Care Team Operations for Biomed
+-   Care Team Operations for Environmental Services
+-   Care Team Operations for Facilities
+-   Care Team Operations for Healthcare IT
 
 ## Procedure
 
-1.  In [[care-team-portal-landing|Care Team Portal]] or [[care-team-mobile-landing|Care Team Mobile]], select the chat widget button to open **Now Assist** in Virtual Agent.
+1.  In Care Team Portal or Care Team Mobile, select the chat widget button to open **Now Assist** in Virtual Agent.
 
 2.  Select **Request care team assistance**.
 
@@ -50,16 +50,7 @@ The following Care Team Operations plugins contain the case types for this agent
 
 After confirming all request details are correct, the Care team operations case creation AI agent creates one or more cases for supporting service departments as needed. Case information will display in card form and you can select the case number to navigate directly to the case within Care Team Portal.
 
-Cases created are fulfilled by users with the Support Agent role in the [[healthcare-operations-overview|Healthcare Operations]] Workspace.
+Cases created are fulfilled by users with the Support Agent role in the Healthcare Operations Workspace.
 
 **Note:** Upon conclusion of conversation, Virtual Agent creates an interaction record, which can be viewed within your instance at any time.
 
-## Related
-
-- [[care-team-operations-for-biomed|Care Team Operations for Biomed]]
-- [[cto-evs-landing|Care Team Operations for Environmental Services]]
-- [[cto-facilities-landing|Care Team Operations for Facilities]]
-- [[hcls-cto-it-app|Care Team Operations for Healthcare IT]]
-- [[care-team-portal-landing|Care Team Portal]]
-- [[care-team-mobile-landing|Care Team Mobile]]
-- [[healthcare-operations-overview|Healthcare Operations]]

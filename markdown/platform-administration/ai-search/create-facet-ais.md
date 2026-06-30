@@ -14,7 +14,7 @@ breadcrumb: [Search application configurations, Configuring AI Search, AI Search
 
 # Create a facet in an AI Search application configuration
 
-Define facets to refine your searches using categories dynamically generated from the current search [[hs-results|results]].
+Define facets to refine your searches using categories dynamically generated from the current search results.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: search\_application\_admin
 
 Create a facet to populate a refinement filter for search results based on indexed source field values. The facet initially displays filter options for all field values found in the current search result set. Selecting a field value refines the search result set, displaying only those results that satisfy the filter logic for the facet.
 
-**Note:** If [[ia-ai-search|AI Search]] applies late binding security to any results from an indexed source used by a facet, the list of available filter selections for the facet changes. When this happens, the facet only displays field values found in the current page of search results. For more information on late binding security, see [Content security in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/content-security-ais.md).
+**Note:** If AI Search applies late binding security to any results from an indexed source used by a facet, the list of available filter selections for the facet changes. When this happens, the facet only displays field values found in the current page of search results. For more information on late binding security, see [Content security in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/content-security-ais.md).
 
 Facets can have any one of the following types. Each facet type has its own filter logic.
 
@@ -55,12 +55,12 @@ Facets can have any one of the following types. Each facet type has its own filt
     As an example, suppose you have a Multi Select Or facet for a custom **Color** field with blue, green, and red field values. If your search returns only green and red results, the **Color** facet only displays **green** and **red** field values. When you select the **red** field value, AI Search keeps the **green** field value available for selection because it was available before you made any **Color** selection.
 
 
-**Warning:** Applying multiple filters from a Multi Select And or Multi Select Or facet makes your search query URL longer. Test your multi-select facet [[clone-configurations-tab|configurations]] to ensure that search query URLs with facet filters don't exceed the maximum URL length limit for your web browser. \(Different web browsers have different URL length limits.\)
+**Warning:** Applying multiple filters from a Multi Select And or Multi Select Or facet makes your search query URL longer. Test your multi-select facet configurations to ensure that search query URLs with facet filters don't exceed the maximum URL length limit for your web browser. \(Different web browsers have different URL length limits.\)
 
 Facets work best when created from fields of the following types with relatively few unique values:
 
 -   Choice
--   [[reference-email-admin|Reference]]
+-   Reference
 -   String
 -   String \(Full UTF-8\)
 -   True/False
@@ -77,7 +77,7 @@ For tables other than Knowledge \[kb\_knowledge\], facets display appropriate fi
 
 3.  In the Facets related list, select **New**.
 
-4.  On the [[facet-form-ais|Facet form]], fill in the fields.
+4.  On the Facet form, fill in the fields.
 
     For a description of the field values, see [Facet form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/facet-form-ais.md).
 
@@ -90,10 +90,3 @@ The new facet appears in the Facets related list.
 
 **Parent Topic:**[Search application configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/defining-search-app-cfgs-ais.md)
 
-## Related
-
-- [[hs-results|Results]]
-- [[ia-ai-search|AI Search]]
-- [[clone-configurations-tab|Configurations]]
-- [[reference-email-admin|Reference]]
-- [[facet-form-ais|Facet form]]

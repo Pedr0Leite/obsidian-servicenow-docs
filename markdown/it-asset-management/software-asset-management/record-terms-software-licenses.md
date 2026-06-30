@@ -22,13 +22,13 @@ Role required: sam\_user or model\_manager
 
 ## About this task
 
-You can manually create a software model. However, you can leverage the [[c_SAMContentService|Software Asset Management Content Service]] Library to automate the creation of [[c_CreatingSoftwareModels|software models]] through their relationship to software entitlements. While creating or importing a software entitlement, specifying a publisher part number automatically creates a software model \(if needed\) or links to an existing software model. You need to manually create a software model if a publisher part number is not available, a publisher part number does not exist in the Content Service Library, or if you are creating a software model for a custom product.
+You can manually create a software model. However, you can leverage the Software Asset Management Content Service Library to automate the creation of software models through their relationship to software entitlements. While creating or importing a software entitlement, specifying a publisher part number automatically creates a software model \(if needed\) or links to an existing software model. You need to manually create a software model if a publisher part number is not available, a publisher part number does not exist in the Content Service Library, or if you are creating a software model for a custom product.
 
-**Note:** If you have the model\_manager role, you can navigate to **[[c_ProductCatalog|Product Catalog]]** &gt; **Product [[c_Models|Models]]** &gt; **Software Models** but cannot administer all aspects of software models.
+**Note:** If you have the model\_manager role, you can navigate to **Product Catalog** &gt; **Product Models** &gt; **Software Models** but cannot administer all aspects of software models.
 
-View and track life cycle information of your product versions \(licensable, minor or build\) via [[calculated-lifecycles|product life cycles]]. Product life cycles are associated to software models. Product life cycles are based on attributes such as publisher, product, edition, edition condition, version, and version condition. The life cycle information is maintained in the Product Lifecycle \[sam\_sw\_product\_lifecycle\] and Custom Product Lifecycle \[sam\_custom\_sw\_product\_lifecycle\] tables.
+View and track life cycle information of your product versions \(licensable, minor or build\) via product life cycles. Product life cycles are associated to software models. Product life cycles are based on attributes such as publisher, product, edition, edition condition, version, and version condition. The life cycle information is maintained in the Product Lifecycle \[sam\_sw\_product\_lifecycle\] and Custom Product Lifecycle \[sam\_custom\_sw\_product\_lifecycle\] tables.
 
-You can view a detailed product life cycle report in the [[c_SAMDashSAA|Software Asset Analytics dashboard]] and drill-down to the software installations. You can also manually create product life cycles and view product life cycles associated to a software model in the [Software Product Lifecycle related list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/software-model-fields.md) in the Software Model form layout.
+You can view a detailed product life cycle report in the Software Asset Analytics dashboard and drill-down to the software installations. You can also manually create product life cycles and view product life cycles associated to a software model in the [Software Product Lifecycle related list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/software-model-fields.md) in the Software Model form layout.
 
 **Note:** Duplicate product life cycles can be created but in different domains.
 
@@ -76,7 +76,7 @@ If you've installed the SAP publisher pack, see [Record publisher details for SA
 
 11. To specify the number of devices or users that are accessing the software, select the [Client Access related list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/software-model-fields.md) and complete the form.
 
-12. To create a new record for the software [[downgrade-rights|downgrade rights]], select the [Downgrade Rights related list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/software-model-fields.md) and complete the form.
+12. To create a new record for the software downgrade rights, select the [Downgrade Rights related list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/software-model-fields.md) and complete the form.
 
     **Note:** If your software model has a discovery map associated with it and the discovery map has downgrade rights, the downgrade rights are populated automatically. Downgraded versions of the software appear in a hierarchical list. For more information, see [Downgrade Rights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/downgrade-rights.md).
 
@@ -94,12 +94,3 @@ If you've installed the SAP publisher pack, see [Record publisher details for SA
 
 [Software model fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/software-model-fields.md)
 
-## Related
-
-- [[c_SAMContentService|Software Asset Management Content Service]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[c_ProductCatalog|Product Catalog]]
-- [[c_Models|Models]]
-- [[calculated-lifecycles|Product life cycles]]
-- [[c_SAMDashSAA|Software Asset Analytics dashboard]]
-- [[downgrade-rights|Downgrade Rights]]

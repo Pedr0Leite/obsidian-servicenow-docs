@@ -14,7 +14,7 @@ breadcrumb: [Setting up communication templates and plans in Major Incident Mana
 
 # Configure a communication template for email in Major Incident Management
 
-Configure a communication templates for email in Major [[c_IncidentManagement|Incident Management]] to help reduce the efforts and time spent in creating and composing communication emails.
+Configure a communication templates for email in Major Incident Management to help reduce the efforts and time spent in creating and composing communication emails.
 
 ## Before you begin
 
@@ -70,7 +70,7 @@ Application
 
 </td><td>
 
-Application scope of the email template. The email template is available for all [[dex-workspace-application-tab|applications]] or for scoped applications.
+Application scope of the email template. The email template is available for all applications or for scoped applications.
 
 </td></tr><tr><td>
 
@@ -206,7 +206,4 @@ Name or user that is displayed on the **From** section of the email.
 </td></tr></tbody>
 </table>6.  Select **Submit**.
 
-## Related
 
-- [[c_IncidentManagement|Incident Management]]
-- [[dex-workspace-application-tab|Applications]]

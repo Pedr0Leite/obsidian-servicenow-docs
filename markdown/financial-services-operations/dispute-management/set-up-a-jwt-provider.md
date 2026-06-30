@@ -15,7 +15,7 @@ breadcrumb: [Set up OAuth for Card Data Security, Configure, Card Data Security,
 
 # Set up a JWT Provider
 
-Configure a JWT Provider to enable secure token-based authentication for [[card-data-security|Card Data Security]] by setting up signing configurations and claim values. This provider generates JSON Web Tokens that authenticate requests to the tokenizer service using credentials from your tokenizer service JSON file.
+Configure a JWT Provider to enable secure token-based authentication for Card Data Security by setting up signing configurations and claim values. This provider generates JSON Web Tokens that authenticate requests to the tokenizer service using credentials from your tokenizer service JSON file.
 
 ## Before you begin
 
@@ -71,6 +71,3 @@ A JWT provider record is created with updated claim values.
 
 [Set up an OAuth Provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/set-up-an-oauth-provider.md).
 
-## Related
-
-- [[card-data-security|Card Data Security]]

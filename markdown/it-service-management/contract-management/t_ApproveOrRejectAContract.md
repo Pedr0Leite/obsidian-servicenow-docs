@@ -25,7 +25,7 @@ Role required: admin, contract\_manager\(core UI and Hardware Asset Workspace on
 1.  Open the list of contract and contract renewal requests.
 
     -   If you are using the core UI, navigate to **All** &gt; **Contract** &gt; **My Approvals**.
-    -   If you are using the Hardware Asset Workspace, open the [[c_ContractManagement|Contract management]] view and then select the **My approvals** tab.
+    -   If you are using the Hardware Asset Workspace, open the Contract management view and then select the **My approvals** tab.
     -   If you are using the Enterprise Asset Workspace, open the Contract and lease management view and then select the **My contract approvals** tab.
 2.  Select a contract in the **Requested** state.
 
@@ -49,6 +49,3 @@ Role required: admin, contract\_manager\(core UI and Hardware Asset Workspace on
 
 [Contract approval flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/contract-management/contract-approval-workflow.md)
 
-## Related
-
-- [[c_ContractManagement|Contract Management]]

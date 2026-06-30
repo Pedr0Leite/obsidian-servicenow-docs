@@ -14,10 +14,10 @@ breadcrumb: [Configure, Contract Management Pro, Legal and Contract Operations, 
 
 # Add and configure contract request functionality into your workspace
 
-As contract administrator, configure your workspace to use the [[cncore-cmpro-landing-page|Contract Management Pro]] functionality.
+As contract administrator, configure your workspace to use the Contract Management Pro functionality.
 
 -   **[Configure non-task tables for contract templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-config-non-tsk-tbl-cn-tmplt.md)**  
-Add non-task tables in the script of an extension point implementation so you can select them while creating contract templates. A non-task table does not extend task tables, and stores records, [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] data, or configuration information used across the platform.
+Add non-task tables in the script of an extension point implementation so you can select them while creating contract templates. A non-task table does not extend task tables, and stores records, reference data, or configuration information used across the platform.
 -   **[Add a workspace action button for initiating a contract request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-config-initiate-cont.md)**  
 Define an action button in your workspace and map it to the built-in action that initiates a contract request.
 -   **[Add Contract requests tab to the contract request record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-add-relatedlist-conreq.md)**  
@@ -43,7 +43,3 @@ Configure the visibility of the Playbook tab on contract repository records so c
 
 **Parent Topic:**[Configuring Contract Management Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-config-cmpro.md)
 
-## Related
-
-- [[cncore-cmpro-landing-page|Contract Management Pro]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

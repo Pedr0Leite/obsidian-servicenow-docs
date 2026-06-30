@@ -53,8 +53,5 @@ Role required: admin, sn\_gd\_core.decision\_tree\_author
 
 ## What to do next
 
-[[configure-path-for-200-failure-code|Configure a path]] for each failure code the customer can receive after a failed credit card transaction.
+[Configure a path](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-path-for-200-failure-code.md) for each failure code the customer can receive after a failed credit card transaction.
 
-## Related
-
-- [[configure-path-for-200-failure-code|Configure paths for different failure code conditions]]

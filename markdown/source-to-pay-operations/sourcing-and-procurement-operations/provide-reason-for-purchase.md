@@ -14,7 +14,7 @@ breadcrumb: [Complete your checkout, Using Shopping Hub, Use, Sourcing and Procu
 
 # Provide a reason for your purchase
 
-You must provide a reason for making your purchase. This is mandatory and allows you to [[complete-your-checkout|complete your checkout]].
+You must provide a reason for making your purchase. This is mandatory and allows you to complete your checkout.
 
 ## Before you begin
 
@@ -44,6 +44,3 @@ You can add one or more users to the watchlist of the purchase request. The user
 
 **Parent Topic:**[Complete your checkout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/complete-your-checkout.md)
 
-## Related
-
-- [[complete-your-checkout|Complete your checkout]]

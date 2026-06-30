@@ -22,7 +22,7 @@ Role required: sn\_apw\_advanced.eap\_user
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** &gt; **Enterprise Agile Planning**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Enterprise Agile Planning**.
 
 2.  Navigate to your Doc.
 
@@ -76,6 +76,4 @@ Actions
 
 5.  To delete a page or a subpage, select the **Page Actions** menu \(\[Omitted image "eap-doc-page-actions-icon.png"\] Alt text: Page Actions icon.\) and select **Delete**.
 
-## Related
 
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

@@ -14,7 +14,7 @@ breadcrumb: [Explore, Major Security Incident Management, Security Incident Resp
 
 # Get started with MSIM
 
-Review the following information before you start working with [[major-security-incident-management-landing-page|Major Security Incident Management]].
+Review the following information before you start working with Major Security Incident Management.
 
 Role required: sn\_msi.workspace\_admin.
 
@@ -64,6 +64,3 @@ Before you install Microsoft SharePoint Spoke and Microsoft Teams Graph Spoke, m
 
 [Major Security Incident Management roles]()
 
-## Related
-
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]

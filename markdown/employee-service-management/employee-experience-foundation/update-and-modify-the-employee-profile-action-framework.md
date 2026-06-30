@@ -14,7 +14,7 @@ breadcrumb: [Action framework, Setup task management, Configuring Employee Cente
 
 # Modify the Employee Profile action group
 
-The [[emp-slate-employee-profile|Employee Profile]] actions include some frequently used action items in a framework for quick access.
+The Employee Profile actions include some frequently used action items in a framework for quick access.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: sp\_admin or sn\_hr\_sp.esc\_admin
 
 ## About this task
 
-The Employee Profile [[action-group-framework|action framework]] provides quick access to frequently used action items, like, viewing org chart, using email directly from the Employee Profile page or calls. You can edit the actions beyond the default behaviors to match your requirements.
+The Employee Profile action framework provides quick access to frequently used action items, like, viewing org chart, using email directly from the Employee Profile page or calls. You can edit the actions beyond the default behaviors to match your requirements.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Action Groups**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **Action Groups**.
 
     The default Action Group items available are:
 
@@ -55,8 +55,3 @@ Use and customize the action framework according to your priority to provide bet
 
 [Action framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/action-group-framework.md)
 
-## Related
-
-- [[emp-slate-employee-profile|Employee profile]]
-- [[action-group-framework|Action framework]]
-- [[employee-center-landing-page|Employee Center]]

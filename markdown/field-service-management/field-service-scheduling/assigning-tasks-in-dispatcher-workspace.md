@@ -18,12 +18,10 @@ Assigning work order tasks to agents from Dispatcher Workspace.
 
 -   [Using Dispatcher Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/using-dispatcher-workspace.md)
 
-    [[dispatcher-activities|Dispatcher Workspace]] is the command center for dispatchers to schedule tasks, view schedules, check on technicians’ locations and much more.
+    Dispatcher Workspace is the command center for dispatchers to schedule tasks, view schedules, check on technicians’ locations and much more.
 
 -   [Bundling work order tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/task-bundling-fsm.md)
 
     Logically group similar tasks into a bundle enables agents to track, start, and complete related tasks at once instead of individually.
 
-## Related
 
-- [[dispatcher-activities|Dispatcher Workspace]]

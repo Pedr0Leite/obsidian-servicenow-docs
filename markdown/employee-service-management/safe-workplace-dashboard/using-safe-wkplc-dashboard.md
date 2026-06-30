@@ -16,9 +16,9 @@ breadcrumb: [Safe Workplace Dashboard, Safe Workplace, Health and Safety, Employ
 
 By using a map, you can review your organization's status regarding personnel and facility readiness to reopen.
 
-Focus on alert information regarding user readiness, personal protective equipment \(PPE\) inventory levels, health monitoring results, and active [[contact-tracing|contact tracing]] cases created for affected users. View status data, by facility, to prepare the reopening of the facility and send invitations to users to return.
+Focus on alert information regarding user readiness, personal protective equipment \(PPE\) inventory levels, health monitoring results, and active contact tracing cases created for affected users. View status data, by facility, to prepare the reopening of the facility and send invitations to users to return.
 
-The [[safe-workplace-dashboard|Safe Workplace Dashboard]] presents data when the correlated [[safe-workplace|Safe Workplace]] suite , ServiceNow® Contact Tracing, and ServiceNow® [[emergency-response-management|Emergency Response Management]] applications are installed. Verify that configuration is complete so that the application data is included when the ServiceNow® Performance Analytics data collection job runs.
+The Safe Workplace Dashboard presents data when the correlated Safe Workplace suite , ServiceNow® Contact Tracing, and ServiceNow® Emergency Response Management applications are installed. Verify that configuration is complete so that the application data is included when the ServiceNow® Performance Analytics data collection job runs.
 
 **Note:** Assign Safe Workplace Dashboard users the pa\_viewer role. This role is required to view the dashboard content.
 
@@ -43,9 +43,9 @@ Navigate to **Safe Workplace Dashboard** &gt; **Safe Workplace Dashboard** to op
 
 Locations with alerts are listed on the left. Click the arrow on the card or the location icon to zoom in to the location and its alerts. Use the Region and Site lists at the top left to select specific regions and sites to review.
 
-To add a favorite location, click **[[web-configure-favorites-employee|Manage Favorites]]** and search for the location. After you select it, the location name appears in the header \(**R1 S1** in the example image\). Click the location to open it directly. To remove a location from favorites, click **Manage Favorites** again and click the **\(x\)** on the location you want to remove.
+To add a favorite location, click **Manage Favorites** and search for the location. After you select it, the location name appears in the header \(**R1 S1** in the example image\). Click the location to open it directly. To remove a location from favorites, click **Manage Favorites** again and click the **\(x\)** on the location you want to remove.
 
-**Note:** The Safe Workplace Dashboard shows only PPE inventory and health screening data associated with a [[workplace-safety-mgmt-hr|Workplace Core]] campus or building. PPE stockrooms and health screenings must have a Workplace Core campus or building selected in the **Location** field to be displayed on the dashboard. For information about creating Workplace Core campuses and buildings, see [Providing your workplace data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/providing-your-workplace-data.md).
+**Note:** The Safe Workplace Dashboard shows only PPE inventory and health screening data associated with a Workplace Core campus or building. PPE stockrooms and health screenings must have a Workplace Core campus or building selected in the **Location** field to be displayed on the dashboard. For information about creating Workplace Core campuses and buildings, see [Providing your workplace data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/providing-your-workplace-data.md).
 
 \[Omitted image "swd-alerts-icons-popover-28.png"\] Alt text: Initial view of the Safe Workplace Dashboard pointing to one location that displays the pop-up details.
 
@@ -87,7 +87,7 @@ You can determine your own criteria for what constitutes a check-in. Navigate to
 
 ## Review COVID-19 vaccination metrics in the Safe Workplace Dashboard
 
-Organizations with the [[vaccination-status|Vaccination Status]] application can use data from the application and public data from the COVID-19 Global Health Data Set to review COVID-19 vaccination metrics across the United States and worldwide. Organizations can then compare their vaccination numbers to public numbers to gain a better understanding of their organization's vaccination efforts.
+Organizations with the Vaccination Status application can use data from the application and public data from the COVID-19 Global Health Data Set to review COVID-19 vaccination metrics across the United States and worldwide. Organizations can then compare their vaccination numbers to public numbers to gain a better understanding of their organization's vaccination efforts.
 
 This data is made available through the Safe Workplace Dashboard Vaccination Widget. The following metrics are available in the Safe Workplace Dashboard Vaccination Widget:
 
@@ -110,12 +110,3 @@ As an admin, add the Safe Workplace Dashboard Vaccination widget to the Safe Wor
 
 **Parent Topic:**[Safe Workplace Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace-dashboard/safe-workplace-dashboard.md)
 
-## Related
-
-- [[contact-tracing|Contact Tracing]]
-- [[safe-workplace-dashboard|Safe Workplace Dashboard]]
-- [[safe-workplace|Safe Workplace]]
-- [[emergency-response-management|Emergency Response Management]]
-- [[web-configure-favorites-employee|Manage favorites]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[vaccination-status|Vaccination Status]]

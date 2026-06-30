@@ -26,7 +26,7 @@ If you're among the employees who have returned to the workplace, you receive mo
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[contact-tracing|Contact Tracing]]** &gt; **Daily Contact Log** &gt; **My Daily Contacts**.
+1.  Navigate to **All** &gt; **Contact Tracing** &gt; **Daily Contact Log** &gt; **My Daily Contacts**.
 
 2.  In the **List of individuals** field, search for and select the employees that you interacted with.
 
@@ -82,6 +82,3 @@ Role required: sn\_imt\_checkin.dailylog\_user
 
 After you reply to the notification, a record for your response is updated. Your personal information is secure. Only the staff managing the daily contact logs has access to your response.
 
-## Related
-
-- [[contact-tracing|Contact Tracing]]

@@ -13,11 +13,11 @@ breadcrumb: [Reporting delivery plan issues, Use, Purchase Order Management, Sou
 
 # Raise a delivery plan change request
 
-Submit a request in the [[supplier-central|Supplier Collaboration Portal]] header to create a [[purchase-order-exception-table|purchase order exception]].
+Submit a request in the Supplier Collaboration Portal header to create a purchase order exception.
 
 ## Before you begin
 
-Verify that the [[supplier|supplier]] is also present in the [[supplier-contact|Supplier Contact]] \[sn\_slm\_contact\_m2m\_supplier\] table. This table stores information about supplier contacts and suppliers linked to them.
+Verify that the supplier is also present in the Supplier Contact \[sn\_slm\_contact\_m2m\_supplier\] table. This table stores information about supplier contacts and suppliers linked to them.
 
 Role required: sn\_slm.contact
 
@@ -35,7 +35,7 @@ Role required: sn\_slm.contact
 
 5.  On the Delivery plan change form, fill in the fields.
 
-    For a description of the field values, see [[create-delivery-plan-change|Delivery plan change form]].
+    For a description of the field values, see [Delivery plan change form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/create-delivery-plan-change.md).
 
 6.  Select **Submit**.
 
@@ -44,13 +44,5 @@ Role required: sn\_slm.contact
 
 The application creates an exception and assigns it to the operational buyer.
 
-**Parent Topic:**[[reporting-delivery-plan-issues|Reporting delivery plan issues]]
+**Parent Topic:**[Reporting delivery plan issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/reporting-delivery-plan-issues.md)
 
-## Related
-
-- [[create-delivery-plan-change|Delivery plan change form]]
-- [[reporting-delivery-plan-issues|Reporting delivery plan issues]]
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[purchase-order-exception-table|Purchase Order Exception]]
-- [[supplier|Supplier]]
-- [[supplier-contact|Supplier contact]]

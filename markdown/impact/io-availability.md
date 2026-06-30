@@ -16,7 +16,7 @@ The Availability section shows instance level availability on a geographic map a
 
 ## Instance Availability
 
-1.  Navigate to **[[impact-landing-page|Impact]]** &gt; **[[platform-health-idi|Platform Health]]** &gt; **Monitor** &gt; **Go to Instance Observer**.
+1.  Navigate to **Impact** &gt; **Platform Health** &gt; **Monitor** &gt; **Go to Instance Observer**.
 2.  Select **Availability** tab and click **Instance Availability** value.
 3.  Select an instance in the **Instance** field and click **Get Snapshot** to view the instance availability in a geographical map.
 
@@ -38,14 +38,8 @@ The Availability section shows instance level availability on a geographic map a
 
 A problem or defect of an instance that requires proactive mitigation is listed in the **Known Issues** tab of the **Availability** section.
 
--   **[[cloud-availability|Cloud availability]]**  
+-   **[Cloud availability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/cloud-availability.md)**  
 Check specific ServiceNow data center availability, service degradation, or for interruption.
 
-**Parent Topic:**[[io-overview|Monitoring instance health with Instance Observer]]
+**Parent Topic:**[Monitoring instance health with Instance Observer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-overview.md)
 
-## Related
-
-- [[cloud-availability|Cloud availability]]
-- [[io-overview|Monitoring instance health with Instance Observer]]
-- [[impact-landing-page|Impact]]
-- [[platform-health-idi|Platform Health]]

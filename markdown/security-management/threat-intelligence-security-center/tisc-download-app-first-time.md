@@ -14,7 +14,7 @@ breadcrumb: [Configure, Threat Intelligence Security Center, Security Operations
 
 # Download TISC application from ServiceNow Store
 
-Download and install the [[tisc-landing-page|Threat Intelligence Security Center]] application to enable [[threat-intel-landing-page|threat intelligence]] capabilities in your ServiceNow instance.
+Download and install the Threat Intelligence Security Center application to enable threat intelligence capabilities in your ServiceNow instance.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_sec\_tisc.admin
 
 ## Procedure
 
-1.  Follow the instructions for [[download-app-first-time|installing an application from the ServiceNow Store]] and install the **Threat Intelligence Security Center [[security-operations-landing-page|Security Operations]]** application.
+1.  Follow the instructions for [installing an application from the ServiceNow Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/download-app-first-time.md) and install the **Threat Intelligence Security Center Security Operations** application.
 
 2.  After installation completes, you can open the Threat Intelligence Security Center Workspace by navigating to **Workspaces** &gt; **Threat Intelligence Security Center**
 
@@ -33,9 +33,3 @@ Role required: sn\_sec\_tisc.admin
 
 After you successfully install the application, verify that you complete all the tasks in [Set up Threat Intelligence Security Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/set-up-threat-intelligence-security-center.md) for a smooth integration.
 
-## Related
-
-- [[download-app-first-time|Download an application from the ServiceNow Store for the first time]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[security-operations-landing-page|Security Operations]]

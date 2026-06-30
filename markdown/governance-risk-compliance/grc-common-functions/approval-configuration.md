@@ -18,7 +18,7 @@ The GRC: Approver Configurator application provides you with capabilities to def
 
 To set up multiple levels of approvals in your application, you must complete the following setup steps:
 
-1.  [[set-up-approval-configurator|Set up an approval configuration record]]. For more information, see [Set up an approval configuration record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/set-up-approval-configurator.md).
+1.  Set up an approval configuration record. For more information, see [Set up an approval configuration record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/set-up-approval-configurator.md).
 2.  Set up the approval levels. For more information, see [Assign an approval level for the approval configuration record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/set-up-approval-levels.md).
 3.  Set up assignment configurations. For more information, see [Auto-assign configuration for regulatory alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/set-up-assignment-configuration.md).
 4.  Set up the approval rules. For more information, see [Set up an approval rule for the approval level](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/set-up-approval-rules.md).
@@ -30,9 +30,9 @@ For more information on the roles in the GRC: Approver Configurator application,
 -   **[Set up an approval configuration record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/set-up-approval-configurator.md)**  
 Set up an approval configuration record to enable multiple levels of approvals and select approvers for each level based on approval rules.
 -   **[Assign an approval level for the approval configuration record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/set-up-approval-levels.md)**  
-Assign one or more approval levels for the [[bcm-approval-configuration|approval configuration]] record to support each step of approval.
+Assign one or more approval levels for the approval configuration record to support each step of approval.
 -   **[Set up an approval rule for the approval level](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/set-up-approval-rules.md)**  
-[[set-up-approval-rules|Set up an approval rule for the approval level]]. You can define the source, filter conditions on the source table to which the approval rule is applied, approver type, and approvers in the record.
+Set up an approval rule for the approval level. You can define the source, filter conditions on the source table to which the approval rule is applied, approver type, and approvers in the record.
 -   **[Base system tables configured with GRC: Approver Configurator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/oob-tables-configured-with-approver-configurator.md)**  
 GRC: Approver Configurator enables you to configure approvals for any record that exists in specific tables.
 -   **[Roles installed with GRC: Approver Configurator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/roles-installed-with-approver-configurator.md)**  
@@ -40,8 +40,3 @@ Various roles are installed with the activation of the GRC: Approver Configurato
 
 **Parent Topic:**[Common Governance, Risk, and Compliance features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/common-grc-features.md)
 
-## Related
-
-- [[set-up-approval-configurator|Set up an approval configuration record]]
-- [[bcm-approval-configuration|Approval configuration]]
-- [[set-up-approval-rules|Set up an approval rule for the approval level]]

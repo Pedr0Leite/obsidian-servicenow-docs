@@ -14,7 +14,7 @@ breadcrumb: [Security Incident Response, Enterprise security case management app
 
 # Playbook Resources
 
-[[sir-landing-page|Security Incident Response]] provides a rich set of playbook resources that include a comprehensive library of [[tisc-playbooks-admin|playbooks]], subflows, and actions. You can create or configure playbooks quickly and easily without writing complicated code. You can use these playbooks to resolve security threats in a step-by-step manner.
+Security Incident Response provides a rich set of playbook resources that include a comprehensive library of playbooks, subflows, and actions. You can create or configure playbooks quickly and easily without writing complicated code. You can use these playbooks to resolve security threats in a step-by-step manner.
 
 Playbook resources include the following:
 
@@ -38,8 +38,3 @@ Complex actions that are critical for building playbooks are available as **Acti
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[tisc-playbooks-admin|Playbooks]]

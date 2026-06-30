@@ -12,7 +12,7 @@ breadcrumb: [SGC Central, Integrating third-party data into CMDB, Configuration 
 
 # Managing connections added for Service Graph Connectors in SGC Central
 
-You can create and update connections added for [[cmdb-sgc-available|Service Graph Connectors]] within the [[sgcc-landing|SGC Central]] view of the [[sg-workspace|Service Graph Workspace]] or CMDB Workspace to ingest data into [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]] from third-party sources.
+You can create and update connections added for Service Graph Connectors within the SGC Central view of the Service Graph Workspace or CMDB Workspace to ingest data into Configuration Management Database \(CMDB\) from third-party sources.
 
 You can create and manage the connections for the following connectors:
 
@@ -44,35 +44,24 @@ You can create and manage the connections for the following connectors:
 
 ## What to do next
 
--   [[sgcc-create-connection|Create a connection]].
+-   [Create a connection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-create-connection.md).
 
     Create a connection added for a Service Graph Connector within SGC Central.
 
--   [[sgcc-update-connection|Update a connection]].
+-   [Update a connection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-update-connection.md).
 
     Update a connection using a Service Graph Connector within SGC Central.
 
--   [[sgcc-viewing-installed-connection|View a connection]].
+-   [View a connection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-viewing-installed-connection.md).
 
     View installed and draft connections that were added using Service Graph Connectors within SGC Central.
 
--   [[sgcc-overview-page-features|Monitor and analyze connections]].
+-   [Monitor and analyze connections](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-overview-page-features.md).
 
     Monitor the installation, performance, and error handling of Service Graph Connectors from the Overview page in the Service Graph Connector Central view of the Service Graph Workspace or CMDB Workspace.
 
--   [[sgcc-access-ihetl|Access IntegrationHub ETL to create and manage ETL transform maps]].
+-   [Access IntegrationHub ETL to create and manage ETL transform maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-access-ihetl.md).
 
-    Access the [[integrationhub-etl|IntegrationHub ETL]] dashboard within SGC Central to manage ETL transform maps.
+    Access the IntegrationHub ETL dashboard within SGC Central to manage ETL transform maps.
 
-## Related
 
-- [[sgcc-create-connection|Create a connection for a Service Graph Connector in SGC Central]]
-- [[sgcc-update-connection|Update a connection for a Service Graph Connector in SGC Central]]
-- [[sgcc-viewing-installed-connection|Viewing connections for a Service Graph Connector in SGC Central]]
-- [[sgcc-overview-page-features|Monitoring and analyzing connections added for Service Graph Connectors in SGC Central]]
-- [[sgcc-access-ihetl|Accessing the IntegrationHub ETL dashboard in SGC Central]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[sgcc-landing|SGC Central]]
-- [[sg-workspace|Service Graph Workspace]]
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[integrationhub-etl|IntegrationHub ETL]]

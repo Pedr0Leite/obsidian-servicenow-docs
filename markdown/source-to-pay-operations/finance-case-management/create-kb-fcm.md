@@ -36,7 +36,7 @@ Role required: sn\_fin\_ops.admin, sn\_fin\_ops.specialist
 
 5.  In the Create article dialog box, do the following:
 
-    -   From the **Knowledge Base** field, select **[[fin-case-mgmt-landing-page|Finance Case Management]] Knowledge Base**
+    -   From the **Knowledge Base** field, select **Finance Case Management Knowledge Base**
     -   From the **Article Template** field, select **Standard**.
     -   Select **Create Article.**
 6.  On the Create New Knowledge form, fill in the fields.
@@ -52,6 +52,3 @@ Publish the knowledge article. For information, see [Publish a knowledge base ar
 
 **Parent Topic:**[Using the Finance Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/using-fin-case-mgmt-workspace.md)
 
-## Related
-
-- [[fin-case-mgmt-landing-page|Finance Case Management]]

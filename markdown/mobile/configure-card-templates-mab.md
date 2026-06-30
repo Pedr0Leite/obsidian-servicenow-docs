@@ -20,13 +20,13 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you’re working in and then select the name of the application screen.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select **Cards &amp; icons** in the menu, and then select **New**.
 
@@ -43,7 +43,7 @@ Role required: admin
 
 6.  Select **Save**.
 
-7.  Select **Open in [[mobile-card-builder|Mobile Card Builder]]** to open the Mobile Card Builder view.
+7.  Select **Open in Mobile Card Builder** to open the Mobile Card Builder view.
 
     The Mobile Card Builder view displays.
 
@@ -51,8 +51,4 @@ Role required: admin
 
 9.  Close the Mobile Card Builder view to return to your Mobile App Builder screen.
 
-## Related
 
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]
-- [[mobile-card-builder|Mobile Card Builder]]

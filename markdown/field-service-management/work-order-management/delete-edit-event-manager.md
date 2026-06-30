@@ -24,7 +24,7 @@ Role required: wm\_manager, sn\_fsm\_tp.fsm\_territory\_resource\_manager
 
 1.  From the **Home** Tab, tap **Teams**.
 
-2.  Tap the territory or assignment group that the agent you want to [[creating-an-event|create a personal event]] for is a member of.
+2.  Tap the territory or assignment group that the agent you want to create a personal event for is a member of.
 
 3.  Tap the more actions icon \(\[Omitted image "more-action-manager.png"\] Alt text: more actions\) next to the agent who has an event you want to update.
 
@@ -66,7 +66,3 @@ Action
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[creating-an-event|Create a personal event]]

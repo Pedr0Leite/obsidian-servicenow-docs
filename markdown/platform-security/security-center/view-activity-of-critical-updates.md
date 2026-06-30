@@ -14,7 +14,7 @@ breadcrumb: [Customer Actions, Security configuration console, Security Center, 
 
 # View Customer Actions
 
-See details of all of the activity related to your [[critical-updates|Customer Actions]].
+See details of all of the activity related to your Customer Actions.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ The activities will be listed from newest to oldest so that you can analyze the 
 
 ## Procedure
 
-1.  Navigate to the **Customer Actions** app within [[sec-center-v2|Security Center]].
+1.  Navigate to the **Customer Actions** app within Security Center.
 
 2.  Navigate to the **Updates** label of Customer Actions.
 
@@ -45,7 +45,3 @@ The activities will be listed from newest to oldest so that you can analyze the 
 
 **Parent Topic:**[Customer Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/critical-updates.md)
 
-## Related
-
-- [[critical-updates|Customer Actions]]
-- [[sec-center-v2|Security Center]]

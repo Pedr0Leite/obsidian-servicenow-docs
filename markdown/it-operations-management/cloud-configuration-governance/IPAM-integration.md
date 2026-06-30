@@ -18,7 +18,7 @@ Use an IP address management \(IPAM\) tool like Infoblox to manage cloud IP addr
 
 ## Infoblox integration
 
-By default, [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] supports Infoblox integration. You can create Infoblox credentials and then set up an Infoblox instance record. See [Register an Infoblox server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-infoblox.md) for instructions.
+By default, Cloud Provisioning and Governance supports Infoblox integration. You can create Infoblox credentials and then set up an Infoblox instance record. See [Register an Infoblox server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-infoblox.md) for instructions.
 
 **Note:** IPAM integration is not supported with template based cloud catalog items.
 
@@ -26,11 +26,7 @@ By default, [[cloud-management-v2-landing-page|Cloud Provisioning and Governance
 
 ## Subnets
 
-If you have subnets in your AWS and Azure clouds, Cloud Provisioning and Governance finds them when [[r-discovery|Discovery]] runs on a service or cloud account.
+If you have subnets in your AWS and Azure clouds, Cloud Provisioning and Governance finds them when Discovery runs on a service or cloud account.
 
 **Note:** If you have networks and subnets in a VMware vSphere platform, Discovery does not create subnet records in the CMDB and cannot map the subnet to the appropriate network. You must create the records manually.
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[r-discovery|Discovery]]

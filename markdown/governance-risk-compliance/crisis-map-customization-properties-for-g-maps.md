@@ -18,14 +18,10 @@ When you select the **Google Maps Properties** module in the Crisis map applicat
 
 \[Omitted image "cust-prop-f-g-maps-in-crisis-map.png"\] Alt text: Customization properties module.
 
-For information on the properties, see [[crisis-map-customization-prop-table-f-g-maps|Customization properties table for Google Maps]].
+For information on the properties, see [Customization properties table for Google Maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/crisis-map-customization-prop-table-f-g-maps.md).
 
 -   **[Customization properties table for Google Maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/crisis-map-customization-prop-table-f-g-maps.md)**  
 Customization properties for Google Maps are explained in the Google Maps Properties table.
 
-**Parent Topic:**[[crisis-map-admin-tasks|Setup for Crisis map]]
+**Parent Topic:**[Setup for Crisis map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/crisis-map-admin-tasks.md)
 
-## Related
-
-- [[crisis-map-customization-prop-table-f-g-maps|Customization properties table for Google Maps]]
-- [[crisis-map-admin-tasks|Setup for Crisis map]]

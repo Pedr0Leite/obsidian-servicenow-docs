@@ -12,7 +12,7 @@ breadcrumb: [Using Proactive Customer Service Operations, Automate and optimize,
 
 # Create an outage from a major case
 
-Create an outage from a major case to keep customers informed about any issues affecting their [[install-base-item|install base items]].
+Create an outage from a major case to keep customers informed about any issues affecting their install base items.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ If no outages exist, you can also create outages directly from a major case to i
 
 2.  Navigate to **Major Issue Management**.
 
-3.  [[create-major-case|Create a major case]] or select an existing major case with no outages associated with it.
+3.  Create a major case or select an existing major case with no outages associated with it.
 
 4.  Select **Create Outage**.
 
@@ -40,7 +40,4 @@ If no outages exist, you can also create outages directly from a major case to i
 
     All services \(CIs\) associated with the install base items in the case are associated with the outage as **Affected CIs**.
 
-## Related
 
-- [[install-base-item|Install base items]]
-- [[create-major-case|Create a major case]]

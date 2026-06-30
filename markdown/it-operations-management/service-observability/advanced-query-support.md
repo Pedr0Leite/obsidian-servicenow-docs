@@ -14,7 +14,7 @@ breadcrumb: [Service Observability reference, Service Observability, ITOM AIOps,
 
 # Advanced query support for AWS and Azure
 
-Understand how to create advanced queries for [[service-observability|Service Observability]] dashboard charts.
+Understand how to create advanced queries for Service Observability dashboard charts.
 
 Advanced queries in Service Observability support most vendor-specific query languages. Simply copy a query from the observability chart and paste it into the Advanced query field in Service Observability. However, queries to AWS and Azure must be JSON-formatted and follow the guidelines outlined in this topic.
 
@@ -157,6 +157,3 @@ To copy the source:
 
 **Parent Topic:**[Service Observability reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/service-observability-reference.md)
 
-## Related
-
-- [[service-observability|Service Observability]]

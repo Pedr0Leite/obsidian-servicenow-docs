@@ -15,7 +15,7 @@ breadcrumb: [Analyzing and resolving alerts, Health Log Analytics, ITOM AIOps, I
 
 # Use Case: Proactive monitoring of your ServiceNow instance in Health Log Analytics
 
-Use [[hla-landing-page|Health Log Analytics]] to detect and resolve emerging issues in your organization's ServiceNow instance before they negatively impact users.
+Use Health Log Analytics to detect and resolve emerging issues in your organization's ServiceNow instance before they negatively impact users.
 
 ## Using the ServiceNow System Logs Retriever integration to detect platform issues automatically
 
@@ -33,6 +33,3 @@ As an operator, you navigate to the [Express List](https://raw.githubusercontent
 
 By drilling down into the alert and MID Server logs, you can quickly identify the issue and resolve it before it affects your platform users.
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

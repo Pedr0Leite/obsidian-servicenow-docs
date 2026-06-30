@@ -24,11 +24,11 @@ Role required: sn\_eam.enterprise\_asset\_manager
 
 Work order templates are added to the Field Service Catalog, which is part of the ServiceNow® Field Service Management application. You can access the Field Service Catalog by navigating to **All** &gt; **Field Service** &gt; **Catalog and Knowledge**. See [Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/fsm-application-landing-page.md) for more information on the Field Service Management application.
 
-**Note:** The Field Service Management application is automatically activated when you request and install the [[enterprise-asset-management|Enterprise Asset Management]] application from the ServiceNow Store.
+**Note:** The Field Service Management application is automatically activated when you request and install the Enterprise Asset Management application from the ServiceNow Store.
 
 ## Procedure
 
-1.  From the [[using-eam-workspace|Enterprise Asset Workspace]], open the Work management view.
+1.  From the Enterprise Asset Workspace, open the Work management view.
 
 2.  On the **Work order templates** tab, select **New**.
 
@@ -196,7 +196,3 @@ Type of work that an agent must perform to complete the task. The options includ
 
 The work order template is added to the Field Service Catalog.
 
-## Related
-
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]

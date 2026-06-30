@@ -24,7 +24,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-connectors-landing-page|Workplace Connectors]]** &gt; **Administration** &gt; **[[provider-configuration-ovw|Provider Connector Configuration]]**.
+1.  Navigate to **All** &gt; **Workplace Connectors** &gt; **Administration** &gt; **Provider Connector Configuration**.
 
     \[Omitted image "wsd-provider-connector-configuration.png"\] Alt text: Provider connector configuration.
 
@@ -106,7 +106,3 @@ For example, if a floor or a space is added to a location, then they're automati
 
 **Next topic:**[Provider Space Type Mappings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/provider-space-type-mapping.md)
 
-## Related
-
-- [[workplace-connectors-landing-page|Workplace Connectors]]
-- [[provider-configuration-ovw|Provider connector configuration]]

@@ -14,7 +14,7 @@ breadcrumb: [Document Viewer, Document Services, Manage content capabilities, Ex
 
 # Enable accessibility features for DOCX to PDF conversion
 
-Enable the **com.snc.document.conversion.accessibility\_enabled** system property to enable accessibility features for DOCX to PDF conversion. If the DOCX files have accessibility support, then accessibility support is retained in the [[Documentviewer|Document Viewer]] while viewing the files.
+Enable the **com.snc.document.conversion.accessibility\_enabled** system property to enable accessibility features for DOCX to PDF conversion. If the DOCX files have accessibility support, then accessibility support is retained in the Document Viewer while viewing the files.
 
 ## Before you begin
 
@@ -30,6 +30,4 @@ Role required: admin
 
 4.  Select **Update**.
 
-## Related
 
-- [[Documentviewer|Document Viewer]]

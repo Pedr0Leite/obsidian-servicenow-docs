@@ -16,7 +16,7 @@ breadcrumb: [Advanced Discovery configuration, Configuring Discovery, Discovery,
 
 Application Dependency Mapping \(ADM\) discovers CIs by detecting TCP connections between devices.
 
-When ADM [[r-discovery|discovery]] is enabled, Discovery always runs the ADM probes during the exploration stage to find the TCP traffic on your network. Using these TCP connections, Discovery can find additional CIs and create relationships between them.
+When ADM discovery is enabled, Discovery always runs the ADM probes during the exploration stage to find the TCP traffic on your network. Using these TCP connections, Discovery can find additional CIs and create relationships between them.
 
 IPv6 Is supported for ADM.
 
@@ -37,7 +37,7 @@ IPv6 Is supported for ADM.
     ADME discovery is not enabled by default.
 
 
-[[c_ServiceMappingOverview|Service Mapping]] uses the ADM probes for traffic-based discovery. See [Discovery based on Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/predictive-intelligence-discovery.md) for more information.
+Service Mapping uses the ADM probes for traffic-based discovery. See [Discovery based on Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/predictive-intelligence-discovery.md) for more information.
 
 ## Requirements
 
@@ -299,7 +299,4 @@ ADME - Max total samples: The limit of samples being taken by the script. The sc
 </td></tr></tbody>
 </table>4.  Click **Save**.
 
-## Related
 
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

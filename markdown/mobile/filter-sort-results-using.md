@@ -82,8 +82,6 @@ Select **Apply**, after you define your filtering and sorting options.
 \[Omitted image "mobile-filters-5.png"\] Alt text: Filter with selected conditions
 
 </td></tr></tbody>
-</table>3.  Bookmark your filter and sorting selections for easy access. See, [[saved-views-mobile|Mobile saved views]].
+</table>3.  Bookmark your filter and sorting selections for easy access. See, [Mobile saved views](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/saved-views-mobile.md).
 
-## Related
 
-- [[saved-views-mobile|Mobile saved views]]

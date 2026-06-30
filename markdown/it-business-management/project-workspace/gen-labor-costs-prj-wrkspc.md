@@ -14,7 +14,7 @@ breadcrumb: [Manage financials, Project Workspace, Project Portfolio Management,
 
 # Generate labor costs
 
-[[generate-labor-cost-demand|Generate labor costs]] in the Financials view for attribute-based resource assignments based on the financial attributes configured in the planning attributes page.
+Generate labor costs in the Financials view for attribute-based resource assignments based on the financial attributes configured in the planning attributes page.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: it\_project\_manager
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[project-workspace-landing-page|Project Workspace]]** and open a project.
+1.  Navigate to **Workspaces** &gt; **Project Workspace** and open a project.
 
 2.  Select **Financials** from the left menu.
 
@@ -37,7 +37,3 @@ Role required: it\_project\_manager
 
 **Parent Topic:**[Managing financials for your projects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/using-financials-prj-wrkspc.md)
 
-## Related
-
-- [[generate-labor-cost-demand|Generate labor costs]]
-- [[project-workspace-landing-page|Project Workspace]]

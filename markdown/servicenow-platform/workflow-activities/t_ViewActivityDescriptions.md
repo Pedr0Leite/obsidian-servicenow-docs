@@ -14,7 +14,7 @@ breadcrumb: [Workflow activities, Classic Workflow, ServiceNow AI Platform Addit
 
 # View workflow activity descriptions
 
-Tooltips are available for [[c_WorkflowActivities|workflow activities]] to help you understand how to use each activity.
+Tooltips are available for workflow activities to help you understand how to use each activity.
 
 ## Before you begin
 
@@ -69,7 +69,7 @@ Input variables
 
 </td><td>
 
-Values that control the behavior of the activity. Fields to set these values appear on the Activity [[properties-form-survey-designer|Properties form]] when a new activity is added to a workflow. See [Activity variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/c_UsingVariablesInAWorkflow.md) for more information.
+Values that control the behavior of the activity. Fields to set these values appear on the Activity Properties form when a new activity is added to a workflow. See [Activity variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/c_UsingVariablesInAWorkflow.md) for more information.
 
 </td></tr><tr><td>
 
@@ -89,8 +89,3 @@ Determines how the workflow handles the record being executed.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_WorkflowActivities|Workflow activities]]
-- [[properties-form-survey-designer|Properties form]]

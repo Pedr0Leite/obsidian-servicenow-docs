@@ -16,19 +16,12 @@ Use Microsoft Graph API to retrieve emails from Microsoft Exchange Online and sa
 
 In the **Email Account** form, select, **Microsoft Graph \(Receive\)** in the **Type** field.
 
--   **[[microsoft-graph|Configure an OAuth profile to use a client ID and secret for token generation]]**  
-Configure an OAuth profile using a client ID and client secret to [[t_ConfigureAnEmailAccount|create an email account]] for using Microsoft Graph \(receive\) in your email account type.
--   **[[configure-oauth-profile-using-certificates|Configure an OAuth profile to use certificates for authentication with Microsoft Azure]]**  
+-   **[Configure an OAuth profile to use a client ID and secret for token generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/microsoft-graph.md)**  
+Configure an OAuth profile using a client ID and client secret to create an email account for using Microsoft Graph \(receive\) in your email account type.
+-   **[Configure an OAuth profile to use certificates for authentication with Microsoft Azure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-oauth-profile-using-certificates.md)**  
 Configure an OAuth application profile to authenticate using certificates.
--   **[[create-email-account-ms-graph|Create an email account for Microsoft Graph \(receive\)]]**  
+-   **[Create an email account for Microsoft Graph \(receive\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-email-account-ms-graph.md)**  
 Create an email account for reading emails from Microsoft Exchange Online using Microsoft Graph Endpoints.
 
-**Parent Topic:**[[read-send-emails-ms-graph|Read or send emails using Microsoft Graph]]
+**Parent Topic:**[Read or send emails using Microsoft Graph](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/read-send-emails-ms-graph.md)
 
-## Related
-
-- [[microsoft-graph|Configure an OAuth profile to use a client ID and secret for token generation]]
-- [[configure-oauth-profile-using-certificates|Configure an OAuth profile to use certificates for authentication with Microsoft Azure]]
-- [[create-email-account-ms-graph|Create an email account for Microsoft Graph \(receive\)]]
-- [[read-send-emails-ms-graph|Read or send emails using Microsoft Graph]]
-- [[t_ConfigureAnEmailAccount|Create an email account]]

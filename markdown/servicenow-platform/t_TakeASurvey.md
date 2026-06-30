@@ -26,9 +26,9 @@ Each assessment or survey appears as a clickable card in the queue, which can be
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[self-service-landing|Self-Service]]** &gt; **My [[r_Assessments|Assessments]] &amp; [[r_SurveyManagementLandingPage|Surveys]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **My Assessments &amp; Surveys**.
 
-    Users with the assessment\_admin role, including survey administrators, can display other users' [[assessments-surveys-landing-page|assessments and surveys]] in addition to their own. Use the **Show all** and **Show assigned to me** related links at the bottom of the queue to show and hide assessments and surveys. Click a card assigned to another user to open the associated metric type or survey definition.
+    Users with the assessment\_admin role, including survey administrators, can display other users' assessments and surveys in addition to their own. Use the **Show all** and **Show assigned to me** related links at the bottom of the queue to show and hide assessments and surveys. Click a card assigned to another user to open the associated metric type or survey definition.
 
 2.  Click the survey card to open the questionnaire.
 
@@ -58,12 +58,5 @@ Click **Submit**. You can't return to the questionnaire after submitting. **Note
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[[c_SurveyQuestionnairesForUsers|Survey questionnaires]]
+**Parent Topic:**[Survey questionnaires](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyQuestionnairesForUsers.md)
 
-## Related
-
-- [[c_SurveyQuestionnairesForUsers|Survey questionnaires]]
-- [[self-service-landing|Self-service]]
-- [[r_Assessments|Assessments]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[assessments-surveys-landing-page|Assessments and Surveys]]

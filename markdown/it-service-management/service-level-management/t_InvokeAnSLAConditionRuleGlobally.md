@@ -14,7 +14,7 @@ breadcrumb: [Extend SLA condition rules, Configuring Service Level Management, S
 
 # Invoke an SLA condition rule globally
 
-You can globally change the default set of [[c_SLAConditionRules|SLA condition rules]].
+You can globally change the default set of SLA condition rules.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ By default, the SLAConditionBase is used for the SLA condition rules. This can b
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[service-level-mgmt-landing-page|Service Level Management]]** &gt; **SLA Properties**.
+1.  Navigate to **All** &gt; **Service Level Management** &gt; **SLA Properties**.
 
 2.  Change the value of the **com.snc.sla.default\_conditionclass** [SLA property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/t_ConfigureSLAProperties.md) to the new condition rule name:
 
@@ -42,7 +42,3 @@ By default, the SLAConditionBase is used for the SLA condition rules. This can b
 
 [SLA condition rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/c_SLAConditionRules.md)
 
-## Related
-
-- [[c_SLAConditionRules|SLA condition rules]]
-- [[service-level-mgmt-landing-page|Service Level Management]]

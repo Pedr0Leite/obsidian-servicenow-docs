@@ -15,7 +15,7 @@ breadcrumb: [Use, Features, Now Assist Finance Supply Chain, Finance and Supply 
 
 # Categorize inquiry cases
 
-Categorize [[work-with-inquiry-cases|invoice inquiry cases]] into sub-categories, based on case descriptions, using the Inquiry Classifier skill in Now Assist to route cases accurately and improve resolution speed.
+Categorize invoice inquiry cases into sub-categories, based on case descriptions, using the Inquiry Classifier skill in Now Assist to route cases accurately and improve resolution speed.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Incoming invoice inquiry case.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-pay-mgmt-landing-page|Accounts Payable Operations]]** &gt; **Accounts Payable Workspace**.
+1.  Navigate to **All** &gt; **Accounts Payable Operations** &gt; **Accounts Payable Workspace**.
 
 2.  Create an invoice inquiry case.
 
@@ -41,11 +41,5 @@ The invoice inquiry case is auto-populated with sub-category without any manual 
 **Related topics**  
 
 
-[Summarize a [[purchase-order-table|purchase order]] by [[now-assist-fsc-using|using Now Assist for Common Finance and Supply Chain features]] in Source-to-Pay Workspace]()
+[Summarize a purchase order by using Now Assist for Common Finance and Supply Chain features in Source-to-Pay Workspace]()
 
-## Related
-
-- [[work-with-inquiry-cases|Invoice inquiry cases]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[purchase-order-table|Purchase order]]
-- [[now-assist-fsc-using|Using Now Assist for Common Finance and Supply Chain features]]

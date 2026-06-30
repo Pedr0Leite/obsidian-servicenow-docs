@@ -14,7 +14,7 @@ breadcrumb: [McAfee ESM - Incident Enrichment Integration, Security Incident Res
 
 # Get started with the McAfee ESM- incident Enrichment integration
 
-McAfee ESM protects endpoints against viruses, spyware, Trojan horses, and other [[threat-intelligence-malware|malware]] threats and integrates easily with [[security-operations-landing-page|Security Operations]]. Before you can use the [[mcafee-esm-landing-page|McAfee ESM - Incident Enrichment integration]], you must download it from the ServiceNow Store and add the appropriate API Base URL and login credentials.
+McAfee ESM protects endpoints against viruses, spyware, Trojan horses, and other malware threats and integrates easily with Security Operations. Before you can use the McAfee ESM - Incident Enrichment integration, you must download it from the ServiceNow Store and add the appropriate API Base URL and login credentials.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_si\_admin
 
 ## Procedure
 
-1.  [[download-app-first-time|Download the integration from the ServiceNow Store]].
+1.  [Download the integration from the ServiceNow Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/download-app-first-time.md).
 
 2.  When the installation is complete, navigate to **Security Operations** &gt; **Integrations** &gt; **Integration Configuration**.
 
@@ -102,7 +102,7 @@ Include raw data samples in search results
 
 </td><td>
 
-Select this to include samples of raw data in your [[indicator-sightings|sightings]] search results. The amount of data returned depends on your setting in the **number of rows of raw data** property in [Security Incident Response properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/installed-with-sir.md).
+Select this to include samples of raw data in your sightings search results. The amount of data returned depends on your setting in the **number of rows of raw data** property in [Security Incident Response properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/installed-with-sir.md).
 
 </td></tr><tr><td>
 
@@ -123,10 +123,4 @@ Select **Any** to use any active MID Server, or select a specific MID Server nam
 
 7.  To return to the original list of integration configuration cards, select **No** from the **Show Configurations** drop-down list.
 
-## Related
 
-- [[download-app-first-time|Download an application from the ServiceNow Store for the first time]]
-- [[threat-intelligence-malware|Malware]]
-- [[security-operations-landing-page|Security Operations]]
-- [[mcafee-esm-landing-page|McAfee ESM - Incident Enrichment Integration]]
-- [[indicator-sightings|Sightings]]

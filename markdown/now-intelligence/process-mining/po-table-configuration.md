@@ -84,17 +84,13 @@ Select **Preview** to see the number of records available for the set filter.
 </td></tr></tbody>
 </table>5.  Select **Submit** to save the table configuration.
 
-    You are taken to the Table Configuration page displaying the table configuration that you have created. [[configure-activity|Configure an activity definition]] for the table configuration. For more information, see [Configure an activity definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/configure-activity.md)
+    You are taken to the Table Configuration page displaying the table configuration that you have created. Configure an activity definition for the table configuration. For more information, see [Configure an activity definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/configure-activity.md)
 
 
 -   **[Configure multi-dimensional mining](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/configure-multidimensional-mining.md)**  
 Use multi-dimensional mining to identify inefficiencies and improve performance by evaluating data from multiple related tables.
 -   **[Configure advanced conditions: crop process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/po-advanced-conditions.md)**  
-Configure custom start and end conditions for your table configuration to define which part of the process should be included in the [[process-mining|Process Mining]] project and made available for analysis.
+Configure custom start and end conditions for your table configuration to define which part of the process should be included in the Process Mining project and made available for analysis.
 
 **Parent Topic:**[Create a project using Classic view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/create-proj.md)
 
-## Related
-
-- [[configure-activity|Configure an activity definition]]
-- [[process-mining|Process Mining]]

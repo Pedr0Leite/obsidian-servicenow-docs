@@ -14,7 +14,7 @@ breadcrumb: [Reference, Digital End-user Experience Self-service, Digital End-Us
 
 # DEX Self-service device action form
 
-The DEX Self-service [[device-actions|device actions]] form presents elaborate data on the form's fields and their corresponding descriptions.
+The DEX Self-service device actions form presents elaborate data on the form's fields and their corresponding descriptions.
 
 <table id="table_sqc_n5b_y2c"><thead><tr><th>
 
@@ -30,7 +30,7 @@ DEX Self-service issue config
 
 </td><td>
 
-The issue configuration associated with the device action. The issue configuration defines the device problem the action addresses, the [[dex-workspace-devices-tab|devices]] it applies to, and the interfaces it appears on.
+The issue configuration associated with the device action. The issue configuration defines the device problem the action addresses, the devices it applies to, and the interfaces it appears on.
 
 </td></tr><tr><td>
 
@@ -54,13 +54,7 @@ Active
 
 </td><td>
 
-Indicates whether the device action is available to users. When the check box is cleared, the action is not visible on any interface regardless of the issue configuration [[settings-mobile|settings]].
+Indicates whether the device action is available to users. When the check box is cleared, the action is not visible on any interface regardless of the issue configuration settings.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[device-actions|Device actions]]
-- [[dex-workspace-devices-tab|Devices]]
-- [[settings-mobile|Settings]]

@@ -22,11 +22,11 @@ Role required: evt\_mgmt\_admin, evt\_mgmt\_operator, or evt\_mgmt\_user
 
 ## About this task
 
-The discovered services history appears only when there are multiple discovered services that occur over a period. A discovered service is a service that is discovered by [[c_ServiceMappingOverview|Service Mapping]]. The discovered services history is not available for application services. If no discovered services are generated for a particular service, the discovered services history is hidden.
+The discovered services history appears only when there are multiple discovered services that occur over a period. A discovered service is a service that is discovered by Service Mapping. The discovered services history is not available for application services. If no discovered services are generated for a particular service, the discovered services history is hidden.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Service Operations Workspace**.
 
 2.  Click a service tile and click **Service Map**.
 
@@ -63,8 +63,3 @@ The discovered services history appears only when there are multiple discovered 
 
 **Parent Topic:**[Monitor service health](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMViewDashboard.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[c_EM|Event Management]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

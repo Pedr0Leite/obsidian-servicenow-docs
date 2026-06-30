@@ -15,7 +15,7 @@ breadcrumb: [Configure, Now Assist Readiness Evaluation, Enable AI experiences]
 
 # Configure the Now Assist Readiness Evaluation guided setup
 
-Before you can review the [[platform-now-assist-landing|Now Assist]] assessments in **Workspaces** &gt; **[[now-assist-readiness-evaluation-landing-page|Now Assist Readiness Evaluation]]**, you must first complete the configuration for the five Now Assist jobs.
+Before you can review the Now Assist assessments in **Workspaces** &gt; **Now Assist Readiness Evaluation**, you must first complete the configuration for the five Now Assist jobs.
 
 ## Before you begin
 
@@ -86,7 +86,3 @@ You have completed configuration for the Now Assist assessments.
 
 You can navigate to **Workspaces** &gt; **Now Assist Readiness Evaluation** to review your assessment results.
 
-## Related
-
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-readiness-evaluation-landing-page|Now Assist Readiness Evaluation]]

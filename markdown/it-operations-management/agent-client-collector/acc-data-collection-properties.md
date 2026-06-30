@@ -14,7 +14,7 @@ breadcrumb: [ACC-F reference, Agent Client Collector reference, Agent Client Col
 
 # Agent Client Collector data collection properties
 
-Description of the properties that determine the behavior of [[acc-landing-page|Agent Client Collector]] data collection.
+Description of the properties that determine the behavior of Agent Client Collector data collection.
 
 <table id="table_pxw_szk_xyb"><thead><tr><th>
 
@@ -38,7 +38,7 @@ The amount of time \(in seconds\) between agent data collections on the host. Ap
 
 </td><td>
 
-The minimum number of minutes since the last endpoint [[r-discovery|Discovery]] on a given IP before Discovery can be triggered again. This property prevents running endpoint Discovery too often, such as in cases where a network intermittently has a break or a laptop is repeatedly rebooted.Default: 60
+The minimum number of minutes since the last endpoint Discovery on a given IP before Discovery can be triggered again. This property prevents running endpoint Discovery too often, such as in cases where a network intermittently has a break or a laptop is repeatedly rebooted.Default: 60
 
 </td></tr><tr><td>
 
@@ -91,7 +91,3 @@ When set to **true**, indicates that data collection is disabled for containeriz
 </td></tr></tbody>
 </table>**Parent Topic:**[Agent Client Collector Framework reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-client-collector-reference.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[r-discovery|Discovery]]

@@ -28,7 +28,7 @@ When a UI action is defined for the Task table, it applies to all tasks, includi
 
 1.  Complete the following steps to override a UI action on the Task table for just the Incident table.
 
-    1.  [[t_EditingAUIAction|Create a UI action]] on the Incident table with the same **Action name**.
+    1.  Create a UI action on the Incident table with the same **Action name**.
 
         If the **Action name** is not defined, update both the new UI action and the UI action to be overridden with the same **Action name**.
 
@@ -41,9 +41,5 @@ When a UI action is defined for the Task table, it applies to all tasks, includi
     2.  Add the condition **current.getRecordClassName\(\) !='incident'**.
 
 
-**Parent Topic:**[[c_UIActions|Defining UI actions]]
+**Parent Topic:**[Defining UI actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_UIActions.md)
 
-## Related
-
-- [[c_UIActions|Defining UI actions]]
-- [[t_EditingAUIAction|Create a UI action]]

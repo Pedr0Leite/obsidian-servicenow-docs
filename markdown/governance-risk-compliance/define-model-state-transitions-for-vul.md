@@ -28,7 +28,7 @@ The workflow states set up within the state model are shown on the stepper compo
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[exploring-op-vul|Operational Vulnerability]]** &gt; **State Models**.
+1.  Navigate to **All** &gt; **Operational Vulnerability** &gt; **State Models**.
 
 2.  To add a new workflow state, select **New** in the State label column.
 
@@ -115,6 +115,4 @@ Option to select the state as optional. This field appears only when **As node**
 
     The newly added Model State Transition is displayed in Model State Transitions related list.
 
-## Related
 
-- [[exploring-op-vul|Operational vulnerability]]

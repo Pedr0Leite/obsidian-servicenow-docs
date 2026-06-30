@@ -24,7 +24,7 @@ Role required: admin
 
 ## About this task
 
-You configure the duration of processing the deflection configuration for a user entity. This configuration is optional for consumers and customer contacts. The scheduled job captures data for [[self-service-analytics|Self-Service Analytics]] and stores the generated data in the Deflection Metric \[ssa\_deflection\_metric\] table.
+You configure the duration of processing the deflection configuration for a user entity. This configuration is optional for consumers and customer contacts. The scheduled job captures data for Self-Service Analytics and stores the generated data in the Deflection Metric \[ssa\_deflection\_metric\] table.
 
 ## Procedure
 
@@ -130,7 +130,7 @@ Condition
 
 </td><td>
 
-Conditional script that determines whether a scheduled job must run. The last expression of the script should evaluate to a Boolean \(true or false\) value. This field appears only when the **Condition** [[check-box|check box]] is selected.
+Conditional script that determines whether a scheduled job must run. The last expression of the script should evaluate to a Boolean \(true or false\) value. This field appears only when the **Condition** check box is selected.
 
 </td></tr><tr><td>
 
@@ -146,7 +146,3 @@ Script to run at the scheduled date and time.For a new scheduled script, copy th
 
 **Parent Topic:**[Configure Self-Service Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/config-ssa.md)
 
-## Related
-
-- [[self-service-analytics|Self-Service Analytics]]
-- [[check-box|Check box]]

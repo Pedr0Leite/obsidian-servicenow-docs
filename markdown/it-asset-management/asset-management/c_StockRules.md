@@ -25,7 +25,7 @@ There are two restocking options:
     -   **When to send**: Set the conditions under which the email should be triggered.
     -   **Who will receive**: Specify the recipients of the email.
     -   **What it will contain**: Define the content and information included in the email.
-    A task is automatically created for the stockroom manager or, if [[c_Procurement|Procurement]] is active, a purchase order and a purchase order line item are created.
+    A task is automatically created for the stockroom manager or, if Procurement is active, a purchase order and a purchase order line item are created.
 
 -   A transfer order can be generated automatically to restock the item from another stockroom.
 
@@ -50,7 +50,7 @@ Based on the Stock rule type and the plugin activated on your ServiceNow instanc
 
 **Important:**
 
-If the Procurement plugin and the [[ham-landing-page|Hardware Asset Management]] application aren't activated, the Stock Rule Runner job creates a task instead of a purchase order or a Service Catalog request. This task prompts the stockroom manager to take the necessary actions to replenish the inventory.
+If the Procurement plugin and the Hardware Asset Management application aren't activated, the Stock Rule Runner job creates a task instead of a purchase order or a Service Catalog request. This task prompts the stockroom manager to take the necessary actions to replenish the inventory.
 
 <table id="table_xsx_532_d2c"><thead><tr><th>
 
@@ -98,7 +98,3 @@ When the Hardware Asset Management application is installed and the stock rule i
 
 [Create a stock rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/t_CreateAStockRule.md)
 
-## Related
-
-- [[c_Procurement|Procurement]]
-- [[ham-landing-page|Hardware Asset Management]]

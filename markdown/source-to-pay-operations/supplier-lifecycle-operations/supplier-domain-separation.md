@@ -14,7 +14,7 @@ breadcrumb: [Reference, Supplier Lifecycle Operations, Finance and Supply Chain]
 
 # Domain separation and Supplier Lifecycle Operations
 
-Domain separation is unsupported for [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is unsupported for Supplier Lifecycle Operations. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: No support
 
@@ -28,7 +28,7 @@ For more information on support levels, see [Application support for domain sepa
 **Related topics**  
 
 
-[Create New [[supplier|Supplier]] Case form]()
+[Create New Supplier Case form]()
 
 [Create new task form]()
 
@@ -54,7 +54,3 @@ For more information on support levels, see [Application support for domain sepa
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[supplier|Supplier]]

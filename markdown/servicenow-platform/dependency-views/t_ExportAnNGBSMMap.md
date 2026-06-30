@@ -22,7 +22,7 @@ Role required: sn\_cmdb\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_BusinesssServiceManagementMaps|Dependency Views]]** &gt; **View Map**.
+1.  Navigate to **All** &gt; **Dependency Views** &gt; **View Map**.
 
 2.  Configure the map view as you want the image to appear.
 
@@ -34,7 +34,7 @@ Role required: sn\_cmdb\_admin or admin
 
 5.  Right-click the image and select **Save Image As**, **Print**, or any other menu option.
 
-    **Note:** You can't export images from a [[c_NextGenBSMMaps|Dependency Views map]] using Internet Explorer as your browser.
+    **Note:** You can't export images from a Dependency Views map using Internet Explorer as your browser.
 
 6.  Click the "X" button to close the **Export Image** window.
 
@@ -58,7 +58,3 @@ Role required: sn\_cmdb\_admin or admin
 
 [View collapsed nodes in a Dependency Views map]()
 
-## Related
-
-- [[c_BusinesssServiceManagementMaps|Dependency Views]]
-- [[c_NextGenBSMMaps|Dependency Views map]]

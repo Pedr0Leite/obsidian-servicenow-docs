@@ -16,7 +16,7 @@ To enable the Service Management integration features, assign the CSM/ITSM integ
 
 The Service Management integration plugins do not add any roles to the customer service agent role \(sn\_customerservice\_agent\). To enable the Service Management integration features, you must assign the CSM/ITSM integration roles included with the Incident Management application.
 
--   [[configure-data-model-roles|Assign roles]] to agents using guided setup. For more information, see [[configure-csm-sm-integration|Integrate with IT Service Management using Guided Setup]].
+-   Assign roles to agents using guided setup. For more information, see [Integrate with IT Service Management using Guided Setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-csm-sm-integration.md).
 -   Assign roles to agents using the ServiceNow AI Platform user administration feature. For more information, see [Assign a role to a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AssignARoleToAUser.md).
 
 ## CSM/ITSM integration roles
@@ -204,7 +204,7 @@ Partner\[sn\_customerservice.partner\]
 Users with this role can:-   Browse the service catalog and catalog items and make a selection.
 -   Create requests for themselves \(if they also have the customer role\).
 -   Create requests on behalf of the accounts with which they have established relationships.
--   [[osp-view-cases|View cases]] and requests.
+-   View cases and requests.
 
 </td></tr><tr><td>
 
@@ -238,9 +238,3 @@ Users with this role can:-   Browse the service catalog and catalog items and ma
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[configure-csm-sm-integration|Integrate with IT Service Management using Guided Setup]]
-- [[configure-data-model-roles|Assign roles]]
-- [[osp-view-cases|View cases]]

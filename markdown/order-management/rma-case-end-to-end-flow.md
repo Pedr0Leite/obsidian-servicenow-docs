@@ -12,7 +12,7 @@ breadcrumb: [Return Merchandise Authorization, Order operations, Explore, Sales 
 
 # Return Merchandise Authorization case end-to-end workflow
 
-The [[return-merchandise-authorization|Return Merchandise Authorization]] \(RMA\) end-to-end process is structured into a four-stage playbook that provides structured guidance and oversight throughout each phase. The RMA case workflow initiates when a customer logs an issue for their products.
+The Return Merchandise Authorization \(RMA\) end-to-end process is structured into a four-stage playbook that provides structured guidance and oversight throughout each phase. The RMA case workflow initiates when a customer logs an issue for their products.
 
 The following are the different phase involved in RMA case end-to-end workflow.
 
@@ -21,7 +21,7 @@ The following are the different phase involved in RMA case end-to-end workflow.
 -   Agent action: Navigate to the RMA Case list and select **New** to open the RMA Case form.
 -   System action:
     -   The playbook record generator renders the RMA Case form.
-    -   And once the RMA Case form is rendered, Agent fills the customer details and **Request Source** [[fields|fields]], and select **Save**.
+    -   And once the RMA Case form is rendered, Agent fills the customer details and **Request Source** fields, and select **Save**.
     -   The system creates the RMA Case in the Draft State.
 -   Agent action: Add defective install base items as RMA Case Lines.
 -   System action: Create RMA Case Lines for each selected item.
@@ -53,12 +53,6 @@ Agent action:
 
 ## What to explore next
 
--   [[activate-return-merchandise-authorization-plugin|Activate the Return Merchandise Authorization plugin]]
--   [[return-merchandise-authorization-case-management-reference|Return Merchandise Authorization Case Management]]
+-   [Activate the Return Merchandise Authorization plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/activate-return-merchandise-authorization-plugin.md)
+-   [Return Merchandise Authorization Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/return-merchandise-authorization-case-management-reference.md)
 
-## Related
-
-- [[activate-return-merchandise-authorization-plugin|Activate the Return Merchandise Authorization plugin]]
-- [[return-merchandise-authorization-case-management-reference|Return Merchandise Authorization Case Management]]
-- [[return-merchandise-authorization|Return Merchandise Authorization]]
-- [[fields|Fields]]

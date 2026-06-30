@@ -14,7 +14,7 @@ breadcrumb: [Tutorial: Use Location Filter criteria, Location Filter, Filter cri
 
 # Use Location Filter Post Authentication Context
 
-Use the [[location-filter|location filter]] criteria created in the Post [[c_Authentication|Authentication]] Context.
+Use the location filter criteria created in the Post Authentication Context.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: adaptive\_auth\_admin
 
 Plugin required: **Zero Trust - Location Based Access** \(`com.snc.zero_trust_location_access`\).
 
-Create a Location Filter with the countries that you want restrict access to the [[users|users]] based on the location. For more information, see [Create Location filter criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/create-location-filter-criteria.md).
+Create a Location Filter with the countries that you want restrict access to the users based on the location. For more information, see [Create Location filter criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/create-location-filter-criteria.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[adaptive-authentication|Adaptive Authentication]]** &gt; **Auth Policy Context** &gt; **Post Authentication Context**.
+1.  Navigate to **All** &gt; **Adaptive Authentication** &gt; **Auth Policy Context** &gt; **Post Authentication Context**.
 
     When a policy is chosen in the post authentication policy context:
 
@@ -44,13 +44,13 @@ Create a Location Filter with the countries that you want restrict access to the
 
     \[Omitted image "edit-post-auth.png"\] Alt text: Add Post auth
 
-4.  Add the [[role-filter|Role Filter]] criteria and Location Filter criteria.
+4.  Add the Role Filter criteria and Location Filter criteria.
 
     1.  Adding Role Filter criteria:
 
         -   Create Role Filter Input as `itil`.\[Omitted image "itil-post-auth.png"\] Alt text: Itil Post Auth
         -   Create Role Filter Condition and set it to `true`.\[Omitted image "itil-post-auth-condition.png"\] Alt text: Role condition
-        For more information on how to [[create-role-filter-criteria|create role filter criteria]], see [Create role filter criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/create-role-filter-criteria.md).
+        For more information on how to create role filter criteria, see [Create role filter criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/create-role-filter-criteria.md).
 
     2.  Adding Location Filter criteria:
 
@@ -72,11 +72,4 @@ Create a Location Filter with the countries that you want restrict access to the
 
     The `itil` users selecting the instance link, specifying their credential and then logging outside the configured country \(US\) is displayed an error message about the access denial \(error message configured by their administrators on the policy properties page\).
 
-## Related
 
-- [[location-filter|Location Filter]]
-- [[c_Authentication|Authentication]]
-- [[users|Users]]
-- [[adaptive-authentication|Adaptive authentication]]
-- [[role-filter|Role Filter]]
-- [[create-role-filter-criteria|Create role filter criteria]]

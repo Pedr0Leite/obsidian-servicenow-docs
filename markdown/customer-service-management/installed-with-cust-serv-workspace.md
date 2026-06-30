@@ -20,11 +20,11 @@ The agent workspace user role \(agent\_workspace\_user\) is added to the Service
 
 ## Form views
 
-Customer service agents see [[migration-forms|forms]] in the CSM Workspace form view \(workspace\_csm\), if they exist for certain record types. Otherwise, agents see forms in the Workspace form view.
+Customer service agents see forms in the CSM Workspace form view \(workspace\_csm\), if they exist for certain record types. Otherwise, agents see forms in the Workspace form view.
 
 ## Tables
 
-In CSM workspaces, a number of [[c_CustomerServiceManagement|Customer Service Management]] tables are provided with the Workspace and CSM Workspace view layouts.
+In CSM workspaces, a number of Customer Service Management tables are provided with the Workspace and CSM Workspace view layouts.
 
 -   **Tables in Workspace view**
 
@@ -45,7 +45,7 @@ In CSM workspaces, a number of [[c_CustomerServiceManagement|Customer Service Ma
     -   Escalation \(sn\_customerservice\_escalation\)
     -   Order \(csm\_order\)
     -   Order Case \(csm\_order\_case\)
-    -   [[c_OnScreenAlerts|Special Handling Notes]] \(sn\_shn\_notes\)
+    -   Special Handling Notes \(sn\_shn\_notes\)
     -   Order Line Item \(csm\_order\_line\_item\)
     -   Asset Contact \(sn\_customerservice\_m2m\_asset\_contact\)
     -   Account Team Member \(sn\_customerservice\_team\_member\)
@@ -63,7 +63,7 @@ In CSM workspaces, a number of [[c_CustomerServiceManagement|Customer Service Ma
 
 ## Lists
 
-The list categories and filtered [[migration-lists|lists]] that have been configured for customer service agents in CSM workspaces.
+The list categories and filtered lists that have been configured for customer service agents in CSM workspaces.
 
 <table id="table_kbv_c1t_rdb"><thead><tr><th>
 
@@ -224,9 +224,3 @@ Catalog tasks assigned to the current agent's groups.
 </td></tr></tbody>
 </table>**Note:** Additional filtered lists appear in the list panel when a customer service agent also has the itil role.
 
-## Related
-
-- [[migration-forms|Forms]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[c_OnScreenAlerts|Special handling notes]]
-- [[migration-lists|Lists]]

@@ -25,7 +25,7 @@ Platform Analytics dashboards are displayed in the Business Continuity Workspace
 
     The Business Continuity Workspace home page displays a Platform Analytics dashboard as the default landing page. The base system dashboard is personalized for each user and shows the following sections:
 
-    -   My items — Lists the [[bia-uib|Business impact analysis]], Plans, [[exercise-management-uib|Exercises]], and [[crisis-management-uib|Crisis events]] assigned to the signed-in user.
+    -   My items — Lists the Business impact analysis, Plans, Exercises, and Crisis events assigned to the signed-in user.
     -   My actions — Lists the Event tasks, Action items, Pending reviews, and Pending approvals assigned to the user as shown in the following example.
     \[Omitted image "custom-manager-dashboard.jpg"\] Alt text: Manager dashboard in edit mode showing the base system My items and My actions cards, alongside a new pie chart that groups all exercises by Event type.
 
@@ -35,7 +35,7 @@ Platform Analytics dashboards are displayed in the Business Continuity Workspace
 
     The dashboard is personalized for each signed-in BCM user; When you create a dashboard from the drop-down menu, it is visible only to you.
 
-    \[Omitted image "bcm-manager-homepage-dashboard.jpg"\] Alt text: [[business-continuity-mangmt-overview|Business continuity management]] dashboard shown as the home page for a BCM Manager, with My items and My actions sections.
+    \[Omitted image "bcm-manager-homepage-dashboard.jpg"\] Alt text: Business continuity management dashboard shown as the home page for a BCM Manager, with My items and My actions sections.
 
 -   **Record overview pages**
 
@@ -54,15 +54,7 @@ Platform Analytics dashboards are displayed in the Business Continuity Workspace
 **Related topics**  
 
 
-[[create-inline-editor-dashboard|Create an inline-editor dashboard]]
+[Create an inline-editor dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-inline-editor-dashboard.md)
 
-[[conf-record-ov-db|Configure a record overview dashboard]]
+[Configure a record overview dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/conf-record-ov-db.md)
 
-## Related
-
-- [[create-inline-editor-dashboard|Create an inline-editor dashboard]]
-- [[conf-record-ov-db|Configure a record overview dashboard]]
-- [[bia-uib|Business impact analysis]]
-- [[exercise-management-uib|Exercises]]
-- [[crisis-management-uib|Crisis events]]
-- [[business-continuity-mangmt-overview|Business Continuity Management]]

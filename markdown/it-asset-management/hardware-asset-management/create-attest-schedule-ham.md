@@ -22,11 +22,11 @@ Role required: asset or inventory\_admin
 
 ## About this task
 
-The **ITAM Common- [[asset-attestation-ham|Asset attestation]]** daily job runs daily to check through all the attestation schedules that are created. Based on the frequency specified in the attestation schedule, the job creates an asset attestation.
+The **ITAM Common- Asset attestation** daily job runs daily to check through all the attestation schedules that are created. Based on the frequency specified in the attestation schedule, the job creates an asset attestation.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Inventory**.
+1.  Navigate to **Workspaces** &gt; **Hardware Asset Workspace** &gt; **Inventory**.
 
 2.  Select the **Asset attestations** tab.
 
@@ -120,7 +120,7 @@ Date on which the attestation schedule is planned to be run the next time.This f
 
 </td></tr><tr><td>
 
-[[model-hierarchy|Model categories]]
+Model categories
 
 </td><td>
 
@@ -172,8 +172,3 @@ Comments related to the asset attestation schedule.
 
 **Parent Topic:**[Audit your hardware assets by using Asset Attestation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/audit-hardware-assets-attestation.md)
 
-## Related
-
-- [[asset-attestation-ham|Asset Attestation]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[model-hierarchy|Model categories]]

@@ -14,7 +14,7 @@ breadcrumb: [Demand Management, Project Portfolio Management, Strategic Portfoli
 
 # Use Demand Management
 
-Users with the demand manager role can create, view, and modify demands using the [[c_DemandManagement|Demand Management]] application.
+Users with the demand manager role can create, view, and modify demands using the Demand Management application.
 
 **Important:**
 
@@ -22,12 +22,12 @@ Demands are available in the Next Experience for Demand Management. For more inf
 
 The workspace provides additional value beyond the legacy experience, including Playbook, Docs, and the ability to define different governance processes using playbooks.
 
-If you have [[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace or [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace, you can use the Next Experience for Demand Management to create and manage your demands.
+If you have Portfolio Planning Workspace or Strategic Planning Workspace, you can use the Next Experience for Demand Management to create and manage your demands.
 
 -   New customers: Use Next Experience for Demand Management to create and manage your demands.
 -   Existing customers: If you already have demands in the classic UI, you can continue using it. However, we recommend moving to the Next Experience for Demand Management, as your existing demands are automatically available there.
 
-You can also [[approve-demands-ppw|approve demands]] and create the following artifacts from the approved demands:
+You can also approve demands and create the following artifacts from the approved demands:
 
 -   Project
 -   Change
@@ -35,7 +35,7 @@ You can also [[approve-demands-ppw|approve demands]] and create the following ar
 -   Defect
 -   Enterprise Agile Planning \(EAP\) entities \(epic, feature, and capability\)
 
-The type of artifact created from a demand depends on the selections in the **Category** and **Type** fields on the [[demand-form|Demand form]].
+The type of artifact created from a demand depends on the selections in the **Category** and **Type** fields on the Demand form.
 
 **Note:**
 
@@ -52,7 +52,7 @@ The demand management life cycle can be simplified as follows:
 -   [Assessing a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/c_AssessingDemands.md):
     -   The demand manager can screen the demand and send surveys to stakeholders to complete assessments.
     -   The demand manager can set the state of the demand to qualify, defer, or incomplete.
-    -   Demands can be analyzed and approved using the [[c_DemandWorkbench|demand workbench]].
+    -   Demands can be analyzed and approved using the demand workbench.
 -   Creating an artifact: The demand manager creates a project, enhancement, change, defect, or EAP entities.
 
 The demand management application uses the following simplified demand states.
@@ -193,11 +193,3 @@ Add and manage AI system associations directly from the **AI Associations** tab 
 
 **Parent Topic:**[Demand Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/c_DemandManagement.md)
 
-## Related
-
-- [[c_DemandManagement|Demand Management]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[approve-demands-ppw|Approve demands]]
-- [[demand-form|Demand form]]
-- [[c_DemandWorkbench|Demand workbench]]

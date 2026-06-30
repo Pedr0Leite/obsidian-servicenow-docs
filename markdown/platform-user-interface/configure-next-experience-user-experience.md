@@ -13,7 +13,7 @@ breadcrumb: [Preferences, Use, Next Experience UI, Configure UIs and portals, Co
 
 # Configure Next Experience user experience preferences
 
-[[configure-onboarding-modals|Configure]] your user experience preferences for your Next Experience instance.
+Configure your user experience preferences for your Next Experience instance.
 
 ## Before you begin
 
@@ -41,7 +41,7 @@ Description
 
 </td><td>
 
-Start page that appears when users log in to their Next Experience instances. For more information on start page options, see [[configure-user-selected-start-page-preference|Configure a user-selected start page]].
+Start page that appears when users log in to their Next Experience instances. For more information on start page options, see [Configure a user-selected start page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-user-selected-start-page-preference.md).
 
 </td></tr><tr><td>
 
@@ -57,14 +57,7 @@ Option that lets you turn on or off usage analytics tracking on your Next Experi
 
 </td><td>
 
-Option that lets you turn off the [[next-experience-landing-page|Next Experience UI]] on your instance. The [[c_UI16|Core UI]] appears when you turn off the Next Experience UI on your instance.**Note:** Administrators can enable this option by setting the **glide.ui.polaris.on\_off\_user\_pref\_enabled** to **true**.
+Option that lets you turn off the Next Experience UI on your instance. The Core UI appears when you turn off the Next Experience UI on your instance.**Note:** Administrators can enable this option by setting the **glide.ui.polaris.on\_off\_user\_pref\_enabled** to **true**.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[configure-user-selected-start-page-preference|Configure a user-selected start page]]
-- [[configure-onboarding-modals|Configure]]
-- [[next-experience-landing-page|Next Experience UI]]
-- [[c_UI16|Core UI]]

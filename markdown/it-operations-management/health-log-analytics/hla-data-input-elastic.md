@@ -23,7 +23,7 @@ Set up a data input for streaming log data from Elasticsearch indices to your Se
 
     \[Omitted image "hla-mid-log-ingestion.png"\] Alt text: MID Server configuration with Log Ingestion capability enabled.
 
-    **Important:** [[hla-landing-page|Health Log Analytics]] does not support IPv6. To work with the application, configure the MID Server to IPv4.
+    **Important:** Health Log Analytics does not support IPv6. To work with the application, configure the MID Server to IPv4.
 
 -   Unless the MID Server and external clients are on the same network, the MID Server must have a public IP address. This is required when its IP is exposed through network address translation \(NAT\), a load balancer, or a similar device. The public IP address enables external clients, such as Filebeat agents located outside its network, to reach the MID Server. Private IP addresses are not routable over the internet. Without a public IP, external clients cannot connect to the MID Server even if they are configured with its address. In the MID Server properties, add a property named **mid.public\_ip** with the public IP address as the value. For more information, see [Create a MID Server property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_MIDServerProperties.md). If the MID Server and external clients are on the same network, connections can be made using the private IP address.
 
@@ -100,6 +100,3 @@ For more information about streaming logs using the Elasticsearch data input, se
 
 [Configure advanced settings for Elasticsearch data inputs in Health Log Analytics manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-input-adv-elastic.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

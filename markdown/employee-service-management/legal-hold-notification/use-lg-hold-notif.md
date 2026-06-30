@@ -14,14 +14,14 @@ breadcrumb: [Legal Hold Notification, Legal Service Delivery Practice Applicatio
 
 # Using Legal Hold Notification
 
-The [[lg-hold-notif-landing-page|Legal Hold Notification]] application enables organizations to issue, track, and manage legal hold notices efficiently.
+The Legal Hold Notification application enables organizations to issue, track, and manage legal hold notices efficiently.
 
-If the [[legal-counsel-center-landing|Legal Counsel Center]] application hasn’t been previously installed, you must install it to start using Legal Hold Notification. For more information, see [Install Legal Counsel Center Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/install-legal-counsel-center-workspace.md).
+If the Legal Counsel Center application hasn’t been previously installed, you must install it to start using Legal Hold Notification. For more information, see [Install Legal Counsel Center Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/install-legal-counsel-center-workspace.md).
 
 -   **[Submit a Legal Hold Notification matter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/submit-lg-hold-notif-matter.md)**  
 Create a Legal Hold Notification matter to initiate the process of preserving the data related to the legal hold when the legal hold is issued.
 -   **[Assign a matter owner](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/assign-matter-owner.md)**  
-[[assign-matter-owner|Assign a matter owner]] \(fulfiller\) for the legal hold matter to be responsible for managing it.
+Assign a matter owner \(fulfiller\) for the legal hold matter to be responsible for managing it.
 -   **[Issue a legal hold notice](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/issue-lg-hold-notif-matter.md)**  
 Issue the legal hold notice to the custodian to ensure timely preservation of relevant data.
 -   **[Add a new custodian to an existing legal hold matter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/add-new-custodian-lg-hold-notif.md)**  
@@ -31,15 +31,9 @@ As a custodian, acknowledge that you have received the legal hold notice, confir
 -   **[Send a reminder to custodians for acknowledgment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/send-reminder-for-acknowledgment.md)**  
 Send a reminder to custodians for them to acknowledge their role in ensuring that the data related to the legal hold is preserved.
 -   **[Close a legal hold matter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/close-lg-hold-notif-matter.md)**  
-[[close-lg-hold-notif-matter|Close a legal hold matter]] once the legal hold is officially lifted.
+Close a legal hold matter once the legal hold is officially lifted.
 -   **[Reopen a legal hold matter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/reopen-lg-hold-notifi-matter.md)**  
 Reopen a closed legal hold matter when a legal hold is either revoked or newly issued in relation to the same closed legal matter.
 
 **Parent Topic:**[Legal Hold Notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/lg-hold-notif-landing-page.md)
 
-## Related
-
-- [[lg-hold-notif-landing-page|Legal Hold Notification]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[assign-matter-owner|Assign a matter owner]]
-- [[close-lg-hold-notif-matter|Close a legal hold matter]]

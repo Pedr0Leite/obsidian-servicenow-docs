@@ -26,7 +26,7 @@ Role required: admin
 
     \[Omitted image "jm-order-task-duration-assignment.png"\] Alt text: The image shows the Order Task Duration Assignment policy window in Workflow Studio.
 
-3.  On the Order Task Duration Assignment Policy decision table, fill in the [[fields|fields]].
+3.  On the Order Task Duration Assignment Policy decision table, fill in the fields.
 
 <table id="table_wfc_vbj_1yb"><thead><tr><th>
 
@@ -71,12 +71,7 @@ The next step is to configure SLA definitions for Jeopardy Management. For more 
 **Related topics**  
 
 
-[[jeopardy-management|Jeopardy Management]]
+[Jeopardy Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/jeopardy-management.md)
 
-[[monitoring-jeopardy-management|Monitoring order jeopardy]]
+[Monitoring order jeopardy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/monitoring-jeopardy-management.md)
 
-## Related
-
-- [[jeopardy-management|Jeopardy Management]]
-- [[monitoring-jeopardy-management|Monitoring order jeopardy]]
-- [[fields|Fields]]

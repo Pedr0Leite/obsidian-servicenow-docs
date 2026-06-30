@@ -14,7 +14,7 @@ breadcrumb: [Working with automated flows, Administer, Threat Intelligence Secur
 
 # Create vulnerability assessment for zero day
 
-Create a vulnerability assessment to evaluate and document security risks from zero day [[vulnerabilities|vulnerabilities]] in your environment. Use this when you want to assess the potential impact of newly discovered vulnerabilities that lack available patches.
+Create a vulnerability assessment to evaluate and document security risks from zero day vulnerabilities in your environment. Use this when you want to assess the potential impact of newly discovered vulnerabilities that lack available patches.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Role required:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Administration**.
+1.  Navigate to **All** &gt; **Threat Intelligence Security Center** &gt; **Administration**.
 
 2.  Select **Automated Flows**.
 
@@ -53,7 +53,7 @@ Role required:
 
 [Automated sharing of high-risk IOC's with trusted partners]()
 
-[Automatically add [[threat-intel-landing-page|threat intelligence]] to a TAXII collection]()
+[Automatically add threat intelligence to a TAXII collection]()
 
 [Analyze, assess, and disseminate observables]()
 
@@ -63,13 +63,7 @@ Role required:
 
 [Zero-day vulnerability tracking]()
 
-[Automatic [[threat-actor|Threat Actor]] priority tagging]()
+[Automatic Threat Actor priority tagging]()
 
 [Automated flows tables]()
 
-## Related
-
-- [[vulnerabilities|Vulnerabilities]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[threat-actor|Threat Actor]]

@@ -62,7 +62,7 @@ Document
 
 </td><td>
 
-Click the [[onboarding-modals-reference|reference]] lookup icon \(\[Omitted image "IconReferencelookup.png"\] Alt text: Reference lookup icon\) to open the document selection dialog box \(pictured\). Select the table and document \(record\) for this help context.
+Click the reference lookup icon \(\[Omitted image "IconReferencelookup.png"\] Alt text: Reference lookup icon\) to open the document selection dialog box \(pictured\). Select the table and document \(record\) for this help context.
 
  This field is only visible if you have selected **Record** as the **Type**.
 
@@ -98,7 +98,7 @@ URL or page name
 
 </td><td>
 
-Identifies the topic to display when a user clicks the help icon while viewing a form, list, or record. You can enter the complete URL of the help page or just the target file name if you set a [[c_ContextSensitiveHelp|base URL]] in the **help.base.default** system property.
+Identifies the topic to display when a user clicks the help icon while viewing a form, list, or record. You can enter the complete URL of the help page or just the target file name if you set a [base URL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_ContextSensitiveHelp.md) in the **help.base.default** system property.
 
 </td></tr></tbody>
 </table>    **Note:** If you reconfigure the fields on the form, you see the available fields **Plugin ID** and **System Property Base URL**. Do not use these fields. They are for internal use only.
@@ -115,7 +115,3 @@ Identifies the topic to display when a user clicks the help icon while viewing a
 
 [Context-sensitive help](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_ContextSensitiveHelp.md)
 
-## Related
-
-- [[c_ContextSensitiveHelp|Context-sensitive help]]
-- [[onboarding-modals-reference|Reference]]

@@ -18,7 +18,7 @@ You can install ServiceNow Voice for HR if you have the admin role. The applicat
 
 -   Ensure that the application and all of its associated ServiceNow® Store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
 -   Your organization must have purchased the Agent Workspace for HR Case Management \(sn\_hr\_agent\_ws\) subscription.
--   Ensure that Amazon [[c_Connect|Connect]] Integration with [[cloud-call-center-overview|ServiceNow Voice]] \(sn\_cti\_amzn\_cct\) is installed. For more information, see [[install-ccc-apps|Install ServiceNow Voice applications]].
+-   Ensure that Amazon Connect Integration with ServiceNow Voice \(sn\_cti\_amzn\_cct\) is installed. For more information, see [Install ServiceNow Voice applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/install-ccc-apps.md).
 
 Role required: admin
 
@@ -31,7 +31,7 @@ The following items are installed with ServiceNow Voice for HR:
 -   Contact flows
 -   Operation handlers
 
-For more information, see [[instld-with-hr-agent|Components installed with ServiceNow Voice for HR Agent Workspace]].
+For more information, see [Components installed with ServiceNow Voice for HR Agent Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instld-with-hr-agent.md).
 
 ## Procedure
 
@@ -47,7 +47,7 @@ For more information, see [[instld-with-hr-agent|Components installed with Servi
 
     Dependent plugins and applications are listed if they will be installed, are currently installed, or need to be installed.
 
-4.  If demo data is available and you want to install it, select the **Load demo data** [[check-box|check box]].
+4.  If demo data is available and you want to install it, select the **Load demo data** check box.
 
     Demo data are the sample records that describe application features for common use cases. Load the demo data when you first install the application on a development or test instance.
 
@@ -56,16 +56,7 @@ For more information, see [[instld-with-hr-agent|Components installed with Servi
 
 ## What to do next
 
-Follow these steps to [[integrate-ccc-amazonconnect|Integrate ServiceNow Voice with Amazon Connect]].
+Follow these steps to [Integrate ServiceNow Voice with Amazon Connect](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/integrate-ccc-amazonconnect.md).
 
-**Parent Topic:**[[integrate-voice-hr-agent|Integrating ServiceNow Voice for HR]]
+**Parent Topic:**[Integrating ServiceNow Voice for HR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/integrate-voice-hr-agent.md)
 
-## Related
-
-- [[install-ccc-apps|Install ServiceNow Voice applications]]
-- [[instld-with-hr-agent|Components installed with ServiceNow Voice for HR Agent Workspace]]
-- [[integrate-ccc-amazonconnect|Integrate ServiceNow Voice with Amazon Connect]]
-- [[integrate-voice-hr-agent|Integrating ServiceNow Voice for HR]]
-- [[c_Connect|Connect]]
-- [[cloud-call-center-overview|ServiceNow Voice]]
-- [[check-box|Check box]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure Walk-up Experience appointment booking, Walk-up Experienc
 
 # Configure daily schedules for Walk-up Experience appointment booking
 
-Define hours of operation and daily schedules for booking an appointment at your [[walkup-experience-landing-page|Walk-up Experience]] location.
+Define hours of operation and daily schedules for booking an appointment at your Walk-up Experience location.
 
 ## Before you begin
 
@@ -68,6 +68,3 @@ Create a unique appointment booking schedule for each day of the week or for spe
 
 **Parent Topic:**[Configure Walk-up Experience appointment booking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walkup-appointment-booking-config.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]

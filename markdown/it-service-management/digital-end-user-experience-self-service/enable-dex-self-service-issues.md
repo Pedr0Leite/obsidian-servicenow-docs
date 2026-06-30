@@ -34,11 +34,11 @@ Role required: sn\_dex.admin
 
 4.  Select the **Enabled in DEX Now Assist topic** check box to enable the issue in Now Assist for ITSM.
 
-    The [[itsm-virtual-agent|ITSM Virtual Agent]] enables you to check your device's health using prebuilt LLM topic conversation. For more information, see [ITSM Virtual Agent pre-built LLM topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/itsm-va-prebuilt-topics.md).
+    The ITSM Virtual Agent enables you to check your device's health using prebuilt LLM topic conversation. For more information, see [ITSM Virtual Agent pre-built LLM topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/itsm-va-prebuilt-topics.md).
 
 5.  Verify that the issue code in the **Resolution** field is active.
 
-    1.  Select the [[reference-for-itsm-mobile-agent|reference]] icon near the **Resolution** field.
+    1.  Select the reference icon near the **Resolution** field.
 
     2.  On the Issue Registry preview pop-up, confirm that the **Active** check box is selected.
 
@@ -48,7 +48,4 @@ Role required: sn\_dex.admin
 
 6.  Select **Update**.
 
-## Related
 
-- [[itsm-virtual-agent|ITSM Virtual Agent]]
-- [[reference-for-itsm-mobile-agent|Reference]]

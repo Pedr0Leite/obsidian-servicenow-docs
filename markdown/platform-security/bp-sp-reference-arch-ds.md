@@ -18,7 +18,7 @@ Your customers can access service provider \(SP\) services by using a portal tha
 
 -   You do not assign fulfillers to a domain. Instead, you share them across domains. This makes it harder to audit how many fulfillers you have per domain.
 -   You can share and leverage domain administration. This means that there is no overhead and you can optimize licenses.
--   The number of [[users|users]] on the instance can change when you get a new customer. A new customer can result in tens or even hundreds of thousands of new users on the system. The number of total users is virtually unlimited in one shared environment.
+-   The number of users on the instance can change when you get a new customer. A new customer can result in tens or even hundreds of thousands of new users on the system. The number of total users is virtually unlimited in one shared environment.
 
 \[Omitted image "bp-sp-reference-architecture-ds.png"\] Alt text: Reference architecture
 
@@ -30,16 +30,16 @@ The portal for SP services is dedicated or shared to the SP shared instance. Ser
 
 \[Omitted image "bp-dedicated-ds-hybrid-siam.png"\] Alt text: Reference hierarchy comparison
 
--   **[[bp-ded-instance-decision-tree|Service provider reference architecture decision trees]]**  
+-   **[Service provider reference architecture decision trees](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-ded-instance-decision-tree.md)**  
 You can use decision trees and a comparison chart to determine if a new customer should be added to a shared instance or to their own dedicated instance.
--   **[[bp-sp-reference-arch-dedicated|Service provider reference architecture for dedicated instances]]**  
+-   **[Service provider reference architecture for dedicated instances](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-sp-reference-arch-dedicated.md)**  
 Service provider \(SP\) customers can access SP services by using a portal to a dedicated instance. SPs use these dedicated instances to manage their service delivery.
--   **[[bp-sp-reference-arch-hybrid|Service provider reference architecture for hybrid]]**  
+-   **[Service provider reference architecture for hybrid](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-sp-reference-arch-hybrid.md)**  
 Use the hybrid service provider \(SP\) reference architecture for a customized solution. Your customers require a dedicated instance for a specific service. They can still use the shared SP instance for other services, but it requires integration of each instance.
--   **[[bp-sp-reference-arch-siam|Service provider reference architecture for Service Integration Management \(SIAM\)]]**  
+-   **[Service provider reference architecture for Service Integration Management \(SIAM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-sp-reference-arch-siam.md)**  
 The Service Integration Management Service Integration and Management \(SIAM\) for service provider \(SP\) architecture integrates services for a unified customer experience.
 
-**Parent Topic:**[[bp-domain-sep-recommended|Domain separation recommended practices for service providers]]
+**Parent Topic:**[Domain separation recommended practices for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-domain-sep-recommended.md)
 
 **Related topics**  
 
@@ -76,7 +76,7 @@ The Service Integration Management Service Integration and Management \(SIAM\) f
 
 [Setting up domain hierarchies]()
 
-[Checking domain [[logs|logs]] for errors and warnings]()
+[Checking domain logs for errors and warnings]()
 
 [Importance of the Default domain]()
 
@@ -94,12 +94,3 @@ The Service Integration Management Service Integration and Management \(SIAM\) f
 
 [Domain separation and the Customer Service Management \(CSM\) plugin]()
 
-## Related
-
-- [[bp-ded-instance-decision-tree|Service provider reference architecture decision trees]]
-- [[bp-sp-reference-arch-dedicated|Service provider reference architecture for dedicated instances]]
-- [[bp-sp-reference-arch-hybrid|Service provider reference architecture for hybrid]]
-- [[bp-sp-reference-arch-siam|Service provider reference architecture for Service Integration Management \(SIAM\)]]
-- [[bp-domain-sep-recommended|Domain separation recommended practices for service providers]]
-- [[users|Users]]
-- [[logs|Logs]]

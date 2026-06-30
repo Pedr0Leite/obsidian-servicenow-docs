@@ -22,7 +22,7 @@ While only Scan Engine admins can modify definitions, any user with the Scan Eng
 
 ## Procedure
 
-1.  Navigate to **ALL** &gt; **[[impact-landing-page|Impact]]** &gt; **[[platform-health-idi|Platform Health]]** &gt; **Definitions**.
+1.  Navigate to **ALL** &gt; **Impact** &gt; **Platform Health** &gt; **Definitions**.
 
 2.  Select a definition number to open its details.
 
@@ -32,7 +32,7 @@ While only Scan Engine admins can modify definitions, any user with the Scan Eng
 
 4.  Modify the required and optional fields.
 
-    -   Refer to [[create-scan-engine-definitions|Create custom Scan Engine definitions]] for details.
+    -   Refer to [Create custom Scan Engine definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/create-scan-engine-definitions.md) for details.
     -   In addition to those fields, when viewing an existing definition, you will also see **Override**. To modify a base system definition, use the override field to disable it and create a new custom definition.
     The definition is overridden to create the current definition.
 
@@ -89,7 +89,7 @@ Shows findings that were resolved for this definition.
 
 </td><td>
 
-Displays all suites assigned to the definition, which allows for scanning entire suites of definitions. Suites are also used in reporting within the [[io-analytics|Analytics]] Dashboard. For more information, see [[create-scan-engine-definition-suites|Customize Scan Engine definition suites]]. To assign suites to a definition:
+Displays all suites assigned to the definition, which allows for scanning entire suites of definitions. Suites are also used in reporting within the Analytics Dashboard. For more information, see [Customize Scan Engine definition suites](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/create-scan-engine-definition-suites.md). To assign suites to a definition:
 
 1.  Select **Edit**.
 2.  In the **Edit Members** form, assign one or more suites to a definition:
@@ -99,11 +99,3 @@ Displays all suites assigned to the definition, which allows for scanning entire
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[create-scan-engine-definitions|Create custom Scan Engine definitions]]
-- [[create-scan-engine-definition-suites|Customize Scan Engine definition suites]]
-- [[impact-landing-page|Impact]]
-- [[platform-health-idi|Platform Health]]
-- [[io-analytics|Analytics]]

@@ -38,7 +38,7 @@ A new Updates available order attribute tracks for any updates in the service or
 
     -   Don't trigger this action by selecting **Cancel**.
     -   Initiate this template by selecting **OK**.
-    The revised order details are generated and sent to the external systems through the configured integration. To learn more, see [[order-mgt-integrate-southbound|Integrating Order Management with southbound external systems]].
+    The revised order details are generated and sent to the external systems through the configured integration. To learn more, see [Integrating Order Management with southbound external systems](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/order-mgt-integrate-southbound.md).
 
 
 **Related topics**  
@@ -48,6 +48,3 @@ A new Updates available order attribute tracks for any updates in the service or
 
 [Order management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-order-management.md)
 
-## Related
-
-- [[order-mgt-integrate-southbound|Integrating Order Management with southbound external systems]]

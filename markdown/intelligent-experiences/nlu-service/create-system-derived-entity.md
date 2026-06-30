@@ -57,7 +57,7 @@ In this example procedure, you create two system-derived entities to gather the 
 
 7.  In the Create a new entity screen, configure the fields.
 
-    For this example, use these [[exploring-ai-governance|configurations]].
+    For this example, use these configurations.
 
     -   **Entity Name**: Enter `FromLocation`
     -   **Type**: Select **System-derived**
@@ -94,7 +94,7 @@ In this example procedure, you create two system-derived entities to gather the 
 
 Train your model to save the entities. You can try your model to see if it recognizes and interprets variations of the entities that you created.
 
-For this example, you can [[test-your-model|test your model]] with a different departure and arrival location.
+For this example, you can test your model with a different departure and arrival location.
 
 1.  Select **Try model**.
 2.  Enter `book a flight from Dallas to San Jose`.
@@ -104,7 +104,3 @@ For this example, you can [[test-your-model|test your model]] with a different d
 
 The model predicts the intent, showing the entities it used to determine the values. Notice how it uses both the system entity and system-derived entity when predicting.
 
-## Related
-
-- [[exploring-ai-governance|Configurations]]
-- [[test-your-model|Test your model]]

@@ -20,12 +20,7 @@ With Customer access management, you can add multiple related parties and provid
 
 |Task|Description|
 |----|-----------|
-|[[adding-additional-consumers-soldproduct|Add additional consumers for the sold product]]|Add additional consumers for sold product and the related entities by defining the type and responsibility of additional consumers.|
-|[[adding-additional-contacts-soldproduct|Add additional contacts for the sold product]]|Add additional contacts for sold product and the related entities by defining the type and responsibility of additional contacts.|
-|[[add-additional-accounts-for-sp-relatedparties|Add additional accounts for the sold product]]|Add additional contacts for sold product and the related entities by defining the type and responsibility of additional accounts or contacts.|
+|[Add additional consumers for the sold product](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/adding-additional-consumers-soldproduct.md)|Add additional consumers for sold product and the related entities by defining the type and responsibility of additional consumers.|
+|[Add additional contacts for the sold product](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/adding-additional-contacts-soldproduct.md)|Add additional contacts for sold product and the related entities by defining the type and responsibility of additional contacts.|
+|[Add additional accounts for the sold product](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/add-additional-accounts-for-sp-relatedparties.md)|Add additional contacts for sold product and the related entities by defining the type and responsibility of additional accounts or contacts.|
 
-## Related
-
-- [[adding-additional-consumers-soldproduct|Add additional consumers for the sold product]]
-- [[adding-additional-contacts-soldproduct|Add additional contacts for the sold product]]
-- [[add-additional-accounts-for-sp-relatedparties|Add additional accounts for the sold product]]

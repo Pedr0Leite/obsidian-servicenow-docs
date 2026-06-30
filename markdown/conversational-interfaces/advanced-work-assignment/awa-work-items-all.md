@@ -14,7 +14,7 @@ breadcrumb: [Use, Advanced Work Assignment, Manage people and work, Conversation
 
 # Check work items and AWA events
 
-View a list of [[awa-work-items|work items]] and AWA events.
+View a list of work items and AWA events.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: awa\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **[[awa-application-landing-page|Advanced Work Assignment]]** &gt; **Work Item** &gt; **All**.
+1.  Navigate to **Advanced Work Assignment** &gt; **Work Item** &gt; **All**.
 
     A list of the work items appears.
 
@@ -327,7 +327,4 @@ Event summary.
 </td></tr></tbody>
 </table>    The AWA Event form appears.
 
-## Related
 
-- [[awa-work-items|Work items]]
-- [[awa-application-landing-page|Advanced Work Assignment]]

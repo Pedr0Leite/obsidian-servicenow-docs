@@ -21,21 +21,21 @@ Set up a custom service channel to expand the type and scope of work that is rou
 -   Select the table that you want to use to route work to agents automatically. Only Task \[task\] and Interaction \[interaction\] tables are supported.
 -   Ensure that the form layout for the selected table is configured for the workspace view. Record types without a workspace view appear as read-only in Agent Workspace. .
 -   If you want to open a record in AWA for a table that extends another table that has a service channel defined, ensure that the workspace view for that table has already been defined.
--   Assign the awa\_agent and workspace\_agent roles to whichever agents are receiving [[awa-work-items|work items]] in Agent Workspace from your custom service channel.
+-   Assign the awa\_agent and workspace\_agent roles to whichever agents are receiving work items in Agent Workspace from your custom service channel.
 
 Role required: awa\_admin or admin
 
 ## About this task
 
-You can create a service channel record from the Service Channel module, but you must [[awa-create-queue|create a work item queue]], assignment rule, and eligible assignment pool to route work through the service channel. You also must configure the custom service channel to make it available in an agent's inbox in Agent Workspace.
+You can create a service channel record from the Service Channel module, but you must create a work item queue, assignment rule, and eligible assignment pool to route work through the service channel. You also must configure the custom service channel to make it available in an agent's inbox in Agent Workspace.
 
 ## Procedure
 
 1.  Navigate to the service channel settings through one of the following navigation paths:
 
-    -   **All** &gt; **[[awa-application-landing-page|Advanced Work Assignment]]** &gt; **Home**.
+    -   **All** &gt; **Advanced Work Assignment** &gt; **Home**.
 
-        In the Essential settings section, select **Set up [[awa-service-channels|service channels]]**.
+        In the Essential settings section, select **Set up service channels**.
 
     -   **All** &gt; **Advanced Work Assignment** &gt; **Service Channels**.
 2.  Select **New**.
@@ -58,7 +58,7 @@ You can create a service channel record from the Service Channel module, but you
 
     For more information, see [Define agent pools eligible for assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-specify-assignment-eligibility.md).
 
-7.  [[presence-state-example|Make your service channel available in Agent Workspace]].
+7.  Make your service channel available in Agent Workspace.
 
     1.  Navigate to **All** &gt; **Advanced Work Assignment** &gt; **Home**.
 
@@ -79,10 +79,3 @@ You can create a service channel record from the Service Channel module, but you
 
 Your custom service channel routes work to agents. In Agent Workspace, the service channel appears as an available service channel in the agent inbox.
 
-## Related
-
-- [[awa-work-items|Work items]]
-- [[awa-create-queue|Create a work item queue]]
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[awa-service-channels|Service channels]]
-- [[presence-state-example|Make your service channel available in Agent Workspace]]

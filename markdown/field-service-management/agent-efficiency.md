@@ -23,9 +23,9 @@ Field Service Agent Efficiency provides the following benefits:
 -   Field Service Agent Efficiency metrics help to more accurately calculate the estimated work duration for a work order task so you can optimize scheduling and dispatching of work order tasks.
 -   Field Service Agent Efficiency metrics assist in aligning tasks with the most appropriate agents by taking into account their efficiency ratings and travel time.
 -   Efficient agents can be deployed where they’re most needed, optimizing workforce utilization.
--   Integrating Field Service Agent Efficiency with [[dynamic-scheduling|Dynamic Scheduling]] ensures that the agent with the appropriate efficiency is auto-assigned to the work order task.
--   Incorporating Field Service Agent Efficiency with [[fsm-task-recommendation|Intelligent Task Recommendation]] helps dispatchers to improve agent utilization by recommending the appropriate tasks for agents based on their efficiency.
--   Leveraging Field Service Agent Efficiency with [[schedule-optimization|Schedule Optimization]] helps to identify, schedule, and assign tasks to the most appropriate agent based on the agent efficiency and an accurate estimated duration.
+-   Integrating Field Service Agent Efficiency with Dynamic Scheduling ensures that the agent with the appropriate efficiency is auto-assigned to the work order task.
+-   Incorporating Field Service Agent Efficiency with Intelligent Task Recommendation helps dispatchers to improve agent utilization by recommending the appropriate tasks for agents based on their efficiency.
+-   Leveraging Field Service Agent Efficiency with Schedule Optimization helps to identify, schedule, and assign tasks to the most appropriate agent based on the agent efficiency and an accurate estimated duration.
 
 
 **Related topics**  
@@ -33,11 +33,5 @@ Field Service Agent Efficiency provides the following benefits:
 
 [Configuring Field Service Agent Efficiency](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/configuring-agent-efficiency.md)
 
-[[field-service-agent-efficiency-components|Field Service Agent Efficiency components]]
+[Field Service Agent Efficiency components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-agent-efficiency-components.md)
 
-## Related
-
-- [[field-service-agent-efficiency-components|Field Service Agent Efficiency components]]
-- [[dynamic-scheduling|Dynamic scheduling]]
-- [[fsm-task-recommendation|Intelligent Task Recommendation]]
-- [[schedule-optimization|Schedule Optimization]]

@@ -34,7 +34,7 @@ Role required: it\_demand\_manager
 
 ## Procedure
 
-1.  Open a demand from the home page of Next Experience for [[c_DemandManagement|Demand Management]].
+1.  Open a demand from the home page of Next Experience for Demand Management.
 
     For more information, see [Access demands](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/access-demands-ppw.md).
 
@@ -54,7 +54,7 @@ Role required: it\_demand\_manager
     |------|-----------|
     |**Create Project**|This option appears if the **Category** field is set to **Strategic** and the **Type** field is set to **Project**. Creates a project that is associated with this demand. The number of the project record is displayed in the **Project** field. For more information, see [Data migrated from a demand to a created project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/data-migrated-from-demand-project-dw.md).|
     |**Create Enhancement**|This option appears if the **Category** field is set to **Strategic** and the **Type** field is set to **Enhancement**. Creates an enhancement associated with this demand. Use enhancements to request improvements or new capabilities for existing features or services, for example, a request to add new UI elements. The number of the enhancement record is displayed in the **Enhancement** field.|
-    |**Create Epic**|This option appears if the **Category** field is set to **Strategic** and the **Type** field is set to **Epic**. Creates an [[agile-landing-page|Agile Development 2.0]] epic that is associated with this demand. A **Demand** reference field is created in the Agile Development 2.0 Epic form.|
+    |**Create Epic**|This option appears if the **Category** field is set to **Strategic** and the **Type** field is set to **Epic**. Creates an Agile Development 2.0 epic that is associated with this demand. A **Demand** reference field is created in the Agile Development 2.0 Epic form.|
     |**Create Story**|This option appears if the **Category** field is set to **Strategic** and the **Type** field is set to **Story**. Creates an Agile Development 2.0 story that is associated with this demand. A **Demand** reference field is created in the Agile Development 2.0 Story form.|
     |**Create EAP Epic**|This option appears if the **Category** field is set to **Strategic** and the **Type** field is set to **EAP Epic**. Creates an Enterprise Agile Planning \(EAP\) epic that is associated with this demand. A **Converted from** reference field is created in the EAP epic form.|
     |**Create EAP Feature**|This option appears if the **Category** field is set to **Strategic** and the **Type** field is set to **EAP Feature**. Creates an EAP feature that is associated with this demand. A **Converted from** reference field is created in the EAP feature form.|
@@ -64,7 +64,7 @@ Role required: it\_demand\_manager
 
     **Note:**
 
-    -   For EAP entities, select the team that you want the EAP entity to be assigned to, in the **Team** field in the **EAP Details** section in the [[demand-form|demand form]]. This field becomes read-only once the entity is created.
+    -   For EAP entities, select the team that you want the EAP entity to be assigned to, in the **Team** field in the **EAP Details** section in the demand form. This field becomes read-only once the entity is created.
     -   Alternatively, you can create an entity using the **Confirm details and convert to selected entity** playbook activity. For more information, see [Use Playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/use-playbooks-in-ppw.md).
 
 **Related topics**  
@@ -74,8 +74,3 @@ Role required: it\_demand\_manager
 
 [Demand default playbook stages and activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/demand-default-playbook-stages-activities-ppw.md)
 
-## Related
-
-- [[c_DemandManagement|Demand Management]]
-- [[agile-landing-page|Agile Development 2.0]]
-- [[demand-form|Demand form]]

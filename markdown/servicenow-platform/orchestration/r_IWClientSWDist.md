@@ -20,7 +20,7 @@ Several types of components are installed with client software distribution \(CS
 
 ## Tables installed with client software distribution
 
-These tables are installed with the Orchestration - [[c_ClientSoftwareDistribution|Client Software Distribution]] plugin \(com.snc.orchestration.client\_sf\_distribution\).
+These tables are installed with the Orchestration - Client Software Distribution plugin \(com.snc.orchestration.client\_sf\_distribution\).
 
 |Table|Description|
 |-----|-----------|
@@ -66,7 +66,7 @@ Orchestration - Asset Lease Management \[com.snc.orchestration.asset\_lease\_man
 
 </td><td>
 
-Installs the [lease functionality](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateLicsAndCountsForDistSW.md) for software distributed through the [[service-catalog|Service Catalog]]. This includes starting, stopping, and extending leases.
+Installs the [lease functionality](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateLicsAndCountsForDistSW.md) for software distributed through the Service Catalog. This includes starting, stopping, and extending leases.
 
 </td></tr><tr><td>
 
@@ -155,7 +155,7 @@ RefQualsCSD
 
 </td><td>
 
-[[reference|Reference]] qualifier filter. This script provides the filter functrions for the CSD providers, devices, SCCM application, install collections, and uninstall collections.
+Reference qualifier filter. This script provides the filter functrions for the CSD providers, devices, SCCM application, install collections, and uninstall collections.
 
 </td></tr><tr><td>
 
@@ -277,7 +277,7 @@ Interval in which the CSD Lease Schedule scheduled job checks for requested soft
 
 </td></tr><tr><td>
 
-Set time prior to lease end to [[notify-landing-page|notify]] requester \(days\)
+Set time prior to lease end to notify requester \(days\)
 
 </td><td>
 
@@ -312,9 +312,3 @@ These workflows are installed with the Orchestration - Client Software Distribut
 
 [Using client extension points in client-side UI scripting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/client-extension-points.md)
 
-## Related
-
-- [[c_ClientSoftwareDistribution|Client Software Distribution]]
-- [[service-catalog|Service Catalog]]
-- [[reference|Reference]]
-- [[notify-landing-page|Notify]]

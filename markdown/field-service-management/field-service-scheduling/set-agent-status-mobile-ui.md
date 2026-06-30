@@ -33,8 +33,6 @@ Role required: wm\_agent
     -   Ahead of schedule
 3.  Click **Save**.
 
-    The status is updated on the agent's form. The dispatcher can see this status update in [[dispatcher-activities|Dispatcher Workspace]].
+    The status is updated on the agent's form. The dispatcher can see this status update in Dispatcher Workspace.
 
-## Related
 
-- [[dispatcher-activities|Dispatcher Workspace]]

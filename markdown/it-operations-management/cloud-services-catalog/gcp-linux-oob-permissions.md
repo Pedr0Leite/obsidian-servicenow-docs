@@ -14,7 +14,7 @@ breadcrumb: [Google Cloud Platform Linux Out Of Box Catalog items, Out Of Box Ca
 
 # Google Cloud Platform Linux Out Of Box permissions
 
-[[google-cloud-platform-linux-out-of-box-catalog-items|Google Cloud Platform Linux Out Of Box catalog items]] permissions
+Google Cloud Platform Linux Out Of Box catalog items permissions
 
 <table id="table_ug3_wqz_dbc"><thead><tr><th>
 
@@ -51,7 +51,7 @@ Provision
 
 </td></tr><tr><td>
 
-Pointed [[r-discovery|discovery]]
+Pointed discovery
 
 </td><td>
 
@@ -245,7 +245,3 @@ Stack Deprovision
 </td></tr></tbody>
 </table>**Parent Topic:**[Google Cloud Platform Linux Out Of Box Catalog items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/google-cloud-platform-linux-out-of-box-catalog-items.md)
 
-## Related
-
-- [[google-cloud-platform-linux-out-of-box-catalog-items|Google Cloud Platform Linux Out Of Box Catalog items]]
-- [[r-discovery|Discovery]]

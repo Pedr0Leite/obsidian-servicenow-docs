@@ -14,7 +14,7 @@ breadcrumb: [Personal authentication, Authentication, Access Management]
 
 # Get Personal OAuth Token \(using GlideOAuthClient\)
 
-Check whether the user has a personal [[oauth-inbound-and-outbound|OAuth]] token. Use it to confirm valid access before running REST steps or integrations that require personal OAuth credentials.
+Check whether the user has a personal OAuth token. Use it to confirm valid access before running REST steps or integrations that require personal OAuth credentials.
 
 ## Before you begin
 
@@ -50,6 +50,4 @@ Use the `GlideOAuthClient` API to check if a personal OAuth token exists for the
 
     **Note:** For more information on the methods for requesting and revoking OAuth refresh and access tokens, see: [Glide OAuth Client API Documentation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/c_GlideOAuthClient.md).
 
-## Related
 
-- [[oauth-inbound-and-outbound|OAuth]]

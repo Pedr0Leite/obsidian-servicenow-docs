@@ -24,7 +24,7 @@ Role required: user must have contributor access to the knowledge base.
 
 1.  Navigate to **All** &gt; **Knowledge** &gt; **Articles**, and open one of the modules, such as **Unpublished** or **Published**.
 
-2.  Open the knowledge article with [[knowledge-blocks|knowledge blocks]].
+2.  Open the knowledge article with knowledge blocks.
 
 3.  In the **Related Links** section, click **Preview Article with Blocks**.
 
@@ -62,6 +62,3 @@ Preview the article by user and date:-   In the **View As** field, you can searc
 </table>
 **Parent Topic:**[Using knowledge blocks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/using-knowlege-blocks.md)
 
-## Related
-
-- [[knowledge-blocks|Knowledge blocks]]

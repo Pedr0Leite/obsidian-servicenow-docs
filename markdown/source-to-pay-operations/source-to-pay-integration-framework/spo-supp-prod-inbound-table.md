@@ -14,7 +14,7 @@ breadcrumb: [Inbound staging tables Sourcing Procurement, Inbound staging tables
 
 # Supplier Product Stage inbound staging table
 
-The [[supplier|Supplier]] Product Stage inbound \[sn\_spend\_intg\_supplier\_product\_stage\] staging table temporarily stores important data about supplier products before this data is sent to the primary table.
+The Supplier Product Stage inbound \[sn\_spend\_intg\_supplier\_product\_stage\] staging table temporarily stores important data about supplier products before this data is sent to the primary table.
 
 The following table lists the mandatory fields for the Supplier Product Stage inbound \[sn\_spend\_intg\_supplier\_product\_stage\] staging table.
 
@@ -40,7 +40,7 @@ String
 
 </td><td>
 
-General [[ledger-account|ledger account]] where capital expenses are posted on purchase.
+General ledger account where capital expenses are posted on purchase.
 
 </td></tr><tr><td>
 
@@ -68,7 +68,7 @@ Detailed description of the product for the buyer.
 
 </td></tr><tr><td>
 
-[[erp-source|ERP source]]
+ERP source
 
 </td><td>
 
@@ -220,7 +220,7 @@ String
 
 </td><td>
 
-Estimated number of days to process the [[sourcing-request|sourcing request]].
+Estimated number of days to process the sourcing request.
 
 </td></tr><tr><td>
 
@@ -361,9 +361,3 @@ Unit or rate in which the product is sold by the supplier.
 
 [Unit of Measure inbound staging table]()
 
-## Related
-
-- [[supplier|Supplier]]
-- [[ledger-account|Ledger account]]
-- [[erp-source|ERP source]]
-- [[sourcing-request|Sourcing request]]

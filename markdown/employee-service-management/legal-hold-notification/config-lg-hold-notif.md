@@ -14,24 +14,18 @@ breadcrumb: [Legal Hold Notification, Legal Service Delivery Practice Applicatio
 
 # Configure Legal Hold Notification
 
-Install and configure the [[lg-hold-notif-landing-page|Legal Hold Notification]] application for creating and managing legal hold notification matter.
+Install and configure the Legal Hold Notification application for creating and managing legal hold notification matter.
 
 -   **[Install Legal Hold Notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/inst-lg-hold-notif.md)**  
 Install the Legal Hold Notification plugin to be able to create a legal hold notification matter, add custodians, issue the legal hold notice, and close the legal hold notification matter.
 -   **[Assign the legal user role to a custodian](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/assign-user-lg-hold-cust.md)**  
-[[assign-user-lg-hold-cust|Assign the legal user role to a custodian]] who is responsible for preserving data related to a legal hold.
+Assign the legal user role to a custodian who is responsible for preserving data related to a legal hold.
 -   **[Customize an existing legal hold notice template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/custom-existing-lg-hold-notice-temp.md)**  
 Customize the legal hold notice template available in the base system to align with your organizational requirements.
 -   **[Configure a new legal hold notice template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/config-lg-hold-temp.md)**  
 Configure a legal hold notice template to align with your organizational requirements.
 -   **[Configure a restricted caller access privilege](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/config-rca-privilege.md)**  
-[[config-rca-privilege|Configure a restricted caller access privilege]] for the [[document-templates-overview|document templates]] application with a global scope to allow the legal matter application to perform read operations.
+Configure a restricted caller access privilege for the document templates application with a global scope to allow the legal matter application to perform read operations.
 
 **Parent Topic:**[Legal Hold Notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/lg-hold-notif-landing-page.md)
 
-## Related
-
-- [[lg-hold-notif-landing-page|Legal Hold Notification]]
-- [[assign-user-lg-hold-cust|Assign the legal user role to a custodian]]
-- [[config-rca-privilege|Configure a restricted caller access privilege]]
-- [[document-templates-overview|Document Templates]]

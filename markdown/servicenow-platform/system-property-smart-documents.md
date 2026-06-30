@@ -22,8 +22,5 @@ Role required: Admin
 
 |System Property|Description|
 |---------------|-----------|
-|**glide.ui.seismic.[[attachment|attachment]].dialog.renderInAppShell**|Set the value to `True` to use Smart documents skill.|
+|**glide.ui.seismic.attachment.dialog.renderInAppShell**|Set the value to `True` to use Smart documents skill.|
 
-## Related
-
-- [[attachment|Attachment]]

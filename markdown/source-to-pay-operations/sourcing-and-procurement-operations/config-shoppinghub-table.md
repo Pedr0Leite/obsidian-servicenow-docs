@@ -14,7 +14,7 @@ breadcrumb: [ShoppingHub configuration, Setting up primary data Shopping, Config
 
 # Configure sourcing checkout details
 
-Manage the [[shopping-hub-overview|Shopping Hub]] configuration to standardize the request fulfillment at the checkout. You can ensure the accuracy and availability of the required items in the procurement catalogs.
+Manage the Shopping Hub configuration to standardize the request fulfillment at the checkout. You can ensure the accuracy and availability of the required items in the procurement catalogs.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_spend\_psd.psd\_admin, sn\_shop.procurement\_administrator
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **ShoppingHub** &gt; **Administration** &gt; **[[shoppinghub-configurations|ShoppingHub Configuration]]**.
+1.  Navigate to **All** &gt; **ShoppingHub** &gt; **Administration** &gt; **ShoppingHub Configuration**.
 
 2.  Select **New**.
 
@@ -90,7 +90,7 @@ Record producer used for checkout
 
 </td><td>
 
-Select the record producer.The following record producers are used for [[sourcing-checkout|sourcing checkout]]:
+Select the record producer.The following record producers are used for sourcing checkout:
 
 -   **ShoppingHub: sourcing a good checkout**
 -   **ShoppingHub: sourcing a service checkout**
@@ -111,8 +111,3 @@ Select the record producer.The following record producers are used for [[sourcin
 
 [Configure sourcing checkout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/configure-sourcing-checkout.md)
 
-## Related
-
-- [[shopping-hub-overview|Shopping Hub]]
-- [[shoppinghub-configurations|ShoppingHub configuration]]
-- [[sourcing-checkout|Sourcing checkout]]

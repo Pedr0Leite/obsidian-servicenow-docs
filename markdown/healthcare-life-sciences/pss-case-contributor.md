@@ -16,7 +16,7 @@ Set up the process for users with the contributor roles in CSM to create enrollm
 
 **Important:**
 
-Starting with the Yokohama release, [[pss-app|Patient Support Services]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+Starting with the Yokohama release, Patient Support Services is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base.
 
@@ -26,6 +26,3 @@ As an administrator, you can include the record producer for creating enrollment
 
 For more information, see [Record Producer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_RecordProducer.md) and [Set up a service catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_SetUpAServiceCatalog.md) . 
 
-## Related
-
-- [[pss-app|Patient Support Services]]

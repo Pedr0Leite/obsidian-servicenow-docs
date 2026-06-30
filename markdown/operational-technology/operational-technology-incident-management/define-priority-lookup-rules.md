@@ -14,7 +14,7 @@ breadcrumb: [Configure, Operational Technology Incident Management, Operational 
 
 # Define a priority lookup rule for incidents
 
-Define the impact and urgency of an [[operational-technology-overview|Operational Technology]] incident to calculate its priority. You can then use the priority calculation to prioritize your work and to drive service level agreements \(SLAs\) in your organization.
+Define the impact and urgency of an Operational Technology incident to calculate its priority. You can then use the priority calculation to prioritize your work and to drive service level agreements \(SLAs\) in your organization.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: ot\_incident\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]] Admin** &gt; **[[operational-technology-incident-management-landing-page|Operational Technology Incident Management]]** &gt; **Priority Lookup Rules**.
+1.  Navigate to **All** &gt; **Industrial Workspace Admin** &gt; **Operational Technology Incident Management** &gt; **Priority Lookup Rules**.
 
 2.  Select **New**.
 
@@ -60,8 +60,3 @@ Role required: ot\_incident\_admin
 
 **Parent Topic:**[Configuring Operational Technology Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/configuring-operational-technology-incident-mgt.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[operational-technology-incident-management-landing-page|Operational Technology Incident Management]]

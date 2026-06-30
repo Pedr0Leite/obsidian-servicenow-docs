@@ -14,7 +14,7 @@ breadcrumb: [Exploring Machine Identity Console, Machine Identity Console, Ident
 
 # Security findings
 
-Provides Machine [[identity-landing|Identity]] security score and findings.
+Provides Machine Identity security score and findings.
 
 ## Machine identity security score and findings
 
@@ -25,7 +25,7 @@ The security score is displayed for following security findings. You can select 
 |Findings|Description|
 |--------|-----------|
 |Accounts with no login for 100 days|Findings about the accounts that have not accessed any API in 100 days.|
-|Accounts using Basic Authentication|Findings about the accounts that are using username and password for [[c_Authentication|authentication]].|
+|Accounts using Basic Authentication|Findings about the accounts that are using username and password for authentication.|
 |Integration accounts with Web Service Access disabled|Findings about all the accounts that have WSA disabled.|
 |Accounts performing both UI and API logins|Findings about the accounts that are used for both interactive \(UI\) and machine \(API\) logins.|
 
@@ -33,7 +33,3 @@ The security score is displayed for following security findings. You can select 
 
 The security score is based on the usage and method of machine identities. A lower score indicates a higher risk. You can view the recommendations to take preventive actions for these identities.
 
-## Related
-
-- [[identity-landing|Identity]]
-- [[c_Authentication|Authentication]]

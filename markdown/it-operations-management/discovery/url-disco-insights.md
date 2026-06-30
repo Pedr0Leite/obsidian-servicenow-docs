@@ -15,9 +15,9 @@ breadcrumb: [Discovery Admin Workspace Insights, Discovery Admin Workspace, Expl
 
 # URL Discovery Insights dashboard
 
-The [[discovery-admin-workspace|Discovery Admin Workspace]] URL Discovery Insights dashboard displays captured data and analytics for web domains accessed on managed Windows and macOS devices.
+The Discovery Admin Workspace URL Discovery Insights dashboard displays captured data and analytics for web domains accessed on managed Windows and macOS devices.
 
-To access the dashboard, navigate to **Workspaces** &gt; **Discovery Admin Workspace** &gt; **Insights** &gt; **URL [[r-discovery|Discovery]] Insights**.
+To access the dashboard, navigate to **Workspaces** &gt; **Discovery Admin Workspace** &gt; **Insights** &gt; **URL Discovery Insights**.
 
 \[Omitted image "url-disco-insights-dash.png"\] Alt text: URL Discovery insights dashboard
 
@@ -26,7 +26,7 @@ To access the dashboard, navigate to **Workspaces** &gt; **Discovery Admin Works
 -   **Verify that you have the required setup**
     -   Australia, Zurich, or YP6 or later version of the ServiceNow AI Platform
     -   Software Asset Management Professional plugin \(com.snc.samp\)
-    -   [[acc-landing-page|Agent Client Collector]] for Visibility - Content \(ACC-VC\) v1.8.0 or later
+    -   Agent Client Collector for Visibility - Content \(ACC-VC\) v1.8.0 or later
     -   ITOM URL Discovery v1.1.0 or later
     -   Discovery Admin Workspace v1.14.0 or later
 -   **Enable the data collection**
@@ -124,8 +124,3 @@ Select the filter icon \(\[Omitted image "filter-icon-daw.png"\] Alt text: filte
 
 **Note:** Mapping a SAM product to a URL requires the sam\_user role.
 
-## Related
-
-- [[discovery-admin-workspace|Discovery Admin Workspace]]
-- [[r-discovery|Discovery]]
-- [[acc-landing-page|Agent Client Collector]]

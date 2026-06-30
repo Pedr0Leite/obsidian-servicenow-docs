@@ -22,13 +22,13 @@ Role required: sn\_eam.enterprise\_admin or sn\_eam.enterprise\_asset\_manager
 
 ## About this task
 
-You can add calibration attributes at the individual enterprise asset level or at the enterprise model level. Alternatively, you can create common calibration attributes that are not associated with any enterprise assets or enterprise [[c_Models|models]]. For details on how to [[add-calibration-attributes-enterprise-model|add calibration attributes to an enterprise model]], see [Add calibration attributes to an enterprise model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/add-calibration-attributes-enterprise-model.md). For details on how to create common calibration attributes, see [Create a calibration attribute library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-eam-calibration-attribute-library.md).
+You can add calibration attributes at the individual enterprise asset level or at the enterprise model level. Alternatively, you can create common calibration attributes that are not associated with any enterprise assets or enterprise models. For details on how to add calibration attributes to an enterprise model, see [Add calibration attributes to an enterprise model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/add-calibration-attributes-enterprise-model.md). For details on how to create common calibration attributes, see [Create a calibration attribute library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-eam-calibration-attribute-library.md).
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-eam-workspace|Enterprise Asset Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Enterprise Asset Workspace**.
 
-2.  From the Enterprise Asset Workspace, open the Enterprise [[asset-estate-view-am|asset estate view]].
+2.  From the Enterprise Asset Workspace, open the Enterprise asset estate view.
 
 3.  Select either the **All enterprise** tab or the tab for a specific enterprise asset category, such as **Facility assets**.
 
@@ -88,7 +88,7 @@ Category
 
 </td><td>
 
-Type of calibration.**Note:** The [[enterprise-asset-management|Enterprise Asset Management]] application includes default calibration categories such as Electrical, Flow, Humidity, and Pressure. You can create additional calibration categories for any calibrations that do not fall under the default categories. For detailed instructions, see [Create a calibration category for your enterprise asset calibrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-eam-calibration-categories.md).
+Type of calibration.**Note:** The Enterprise Asset Management application includes default calibration categories such as Electrical, Flow, Humidity, and Pressure. You can create additional calibration categories for any calibrations that do not fall under the default categories. For detailed instructions, see [Create a calibration category for your enterprise asset calibrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-eam-calibration-categories.md).
 
 </td></tr><tr><td>
 
@@ -311,10 +311,3 @@ Create work orders to track the calibrations that are made to your enterprise as
 
 **Parent Topic:**[Create and manage enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-manage-enterprise-assets.md)
 
-## Related
-
-- [[c_Models|Models]]
-- [[add-calibration-attributes-enterprise-model|Add calibration attributes to an enterprise model]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[asset-estate-view-am|Asset estate view]]
-- [[enterprise-asset-management|Enterprise Asset Management]]

@@ -28,7 +28,7 @@ Role required: rota\_admin, admin, or rota\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_OnCallScheduling|On-Call Scheduling]]** &gt; **Administration** &gt; **Trigger Rules**.
+1.  Navigate to **All** &gt; **On-Call Scheduling** &gt; **Administration** &gt; **Trigger Rules**.
 
 2.  Click **New**.
 
@@ -213,6 +213,3 @@ Script \(server-side JavaScript\) to run. Available only if the **Trigger action
 
 **Parent Topic:**[Designing an escalation process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/designing-escalation-process-oncall.md)
 
-## Related
-
-- [[c_OnCallScheduling|On-Call Scheduling]]

@@ -14,7 +14,7 @@ breadcrumb: [Reference, Privacy Management, Governance, Risk, and Compliance]
 
 # Tables installed with Privacy Management
 
-Tables are added with activation of GRC: [[privacy-management|Privacy Management]].
+Tables are added with activation of GRC: Privacy Management.
 
 <table id="table_kf4_nqk_qjb"><thead><tr><th>
 
@@ -72,7 +72,7 @@ Information object to processing activity
 
 </td><td>
 
-Each processing activity can be associated to applicable [[information-objects|Information objects]]. This table enables tracking the processing activity to IO relationships.
+Each processing activity can be associated to applicable Information objects. This table enables tracking the processing activity to IO relationships.
 
 </td></tr><tr><td>
 
@@ -92,7 +92,7 @@ Processing activity
 
 </td><td>
 
-Extends task table \[sn\_grc\_item\] and stores [[ropa-record|processing activities]].
+Extends task table \[sn\_grc\_item\] and stores processing activities.
 
 </td></tr><tr><td>
 
@@ -107,8 +107,3 @@ Personal data can be moved from one processing activity to another processing ac
 </td></tr></tbody>
 </table>**Parent Topic:**[Privacy Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/privacy-mgmt-reference.md)
 
-## Related
-
-- [[privacy-management|privacy management]]
-- [[information-objects|information objects]]
-- [[ropa-record|Processing activities]]

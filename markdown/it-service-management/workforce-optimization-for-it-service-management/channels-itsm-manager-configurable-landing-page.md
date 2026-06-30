@@ -14,7 +14,7 @@ breadcrumb: [Landing pages, Advanced configurations, Workforce Optimization for 
 
 # Workforce Optimization for ITSM Channels landing page
 
-Manage queues and analyze the status of incidents and chats using the Channels [[dex-workspace-dashboard-tab|landing page]]. You can also monitor team performance and work assignments from one location.
+Manage queues and analyze the status of incidents and chats using the Channels landing page. You can also monitor team performance and work assignments from one location.
 
 \[Omitted image "channels-landing-page1.png"\] Alt text: Channels Landing Page
 
@@ -33,7 +33,7 @@ Required role
 </th></tr></thead><tbody><tr><td>
 
 As a channel manager, you can:-   Analyze real-time data such as:
-    -   The number of incidents with critical priority, breached SLAs, escalated or [[process-unassigned-incident|unassigned incidents]].
+    -   The number of incidents with critical priority, breached SLAs, escalated or unassigned incidents.
     -   The number of chats that are in progress or with requests for help.
     -   Agent distribution across work assignments, work items awaiting to be assigned, and number of agents available.
     -   The performance of your team.
@@ -76,7 +76,3 @@ As a channel manager, you can monitor key information such as the number of SLAs
 
 **Parent Topic:**[Workforce Optimization for ITSM landing pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/configurable-wfo-itsm-landing-pages.md)
 
-## Related
-
-- [[dex-workspace-dashboard-tab|Landing page]]
-- [[process-unassigned-incident|Unassigned incidents]]

@@ -12,14 +12,14 @@ breadcrumb: [CPQ app, Configure, price, quote apps, Configure, Sales Customer Re
 
 # Configure picklist extensions
 
-Learn how to create and configure picklist extensions \([[cpq-picklist-extensions-ples|Picklist extensions]]\) in CPQ. Add extended option details, apply filters, and map products and quantities to display enriched picklist data in [[layouts|layouts]] for more dynamic and efficient configurations.
+Learn how to create and configure picklist extensions \(Picklist extensions\) in CPQ. Add extended option details, apply filters, and map products and quantities to display enriched picklist data in layouts for more dynamic and efficient configurations.
 
 ## Before you begin
 
 1.  Create a single-select or multi-select picklist field for your picklist extension \(example: dogBreed\).
 2.  Create a single-select picklist field that you want to use to filter your picklist extension \(example: dogBarking\).
 
-    **Tip:** For prerequisite steps 1 and 2, use [[matrix_loader_table_of_contents|Matrix Loader]] to upload the following two CSV files:
+    **Tip:** For prerequisite steps 1 and 2, use Matrix Loader to upload the following two CSV files:
 
     [dogBreed Fields CSV](https://drive.google.com/file/d/1KtM5z-x50p5r0J8Fl0lLzQKNRzqRVE15/view?usp=sharing)
 
@@ -41,7 +41,7 @@ Role required: Admin
 
     Examples: size, shedding, exerciseReq, biddability, drive, activities.
 
-4.  Filter Options: choose the [[fields|fields]] with which you will filter picklist extension.
+4.  Filter Options: choose the fields with which you will filter picklist extension.
 
     Example: Barking/Voice
 
@@ -89,7 +89,7 @@ Role required: Admin
 
 19. Add the picklist extension field to the layout via the Logik Admin UI or by CSV upload, and deploy.
 
-    For more information, see [[csv_layouts_how_do_i_display_a_picklist_extension|Displaying a picklist extension on a layout]].\[Omitted image "cpq-picklist-extensions-ples-5.png"\] Alt text: Picklist extensions
+    For more information, see [Displaying a picklist extension on a layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/csv_layouts_how_do_i_display_a_picklist_extension.md).\[Omitted image "cpq-picklist-extensions-ples-5.png"\] Alt text: Picklist extensions
 
 
 **Related topics**  
@@ -97,13 +97,5 @@ Role required: Admin
 
 [Displaying a picklist extension on a layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/csv_layouts_how_do_i_display_a_picklist_extension.md)
 
-[[cpq-picklists-and-picklist-extensions-in-rules|Picklists and picklist extensions in rules]]
+[Picklists and picklist extensions in rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-picklists-and-picklist-extensions-in-rules.md)
 
-## Related
-
-- [[csv_layouts_how_do_i_display_a_picklist_extension|Displaying a picklist extension on a layout]]
-- [[cpq-picklists-and-picklist-extensions-in-rules|Picklists and picklist extensions in rules]]
-- [[cpq-picklist-extensions-ples|Picklist extensions]]
-- [[layouts|Layouts]]
-- [[matrix_loader_table_of_contents|Matrix Loader]]
-- [[fields|Fields]]

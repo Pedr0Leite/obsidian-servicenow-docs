@@ -16,7 +16,7 @@ breadcrumb: [SFTP File Transfer activity pack, Orchestration activity packs, Cla
 
 The Set File Attributes activity sets common file attributes, such as timestamps, size, permissions, and UID/GID, for a file or directory on an SFTP server.
 
-A good practice is to use the [[r_GetFileListActivity|Get File List activity]] to return a list of files and their attributes first. Then, when you moved a file from a source host to a target host, use the Set File Attributes activity to set the source file attributes on the target file. This is demonstrated in the [SFTP File Transfer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_SFTPWorkflow.md)workflow.
+A good practice is to use the Get File List activity to return a list of files and their attributes first. Then, when you moved a file from a source host to a target host, use the Set File Attributes activity to set the source file attributes on the target file. This is demonstrated in the [SFTP File Transfer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_SFTPWorkflow.md)workflow.
 
 ## Input variables
 
@@ -34,7 +34,7 @@ sourceHost
 
 </td><td>
 
-Name or [[ip-address|IP address]] of the server containing the file or directory whose attributes you want to change.
+Name or IP address of the server containing the file or directory whose attributes you want to change.
 
 </td></tr><tr><td>
 
@@ -125,7 +125,3 @@ Specific [Credential aliases for Orchestration activities](https://raw.githubuse
 
 **Parent Topic:**[SFTP File Transfer activity pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchestrationSFTPActivityPack.md)
 
-## Related
-
-- [[r_GetFileListActivity|Get File List activity]]
-- [[ip-address|IP Address]]

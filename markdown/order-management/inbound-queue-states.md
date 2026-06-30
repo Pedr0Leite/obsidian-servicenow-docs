@@ -12,7 +12,7 @@ breadcrumb: [Order Management reference, Reference, Sales Customer Relationship 
 
 # Inbound request states
 
-An [[som_request_tracker|inbound request]] transitions through a series of states as ServiceNow AI Platform processes the asynchronous order received via an API.
+An inbound request transitions through a series of states as ServiceNow AI Platform processes the asynchronous order received via an API.
 
 |Field|Description|
 |-----|-----------|
@@ -22,15 +22,10 @@ An [[som_request_tracker|inbound request]] transitions through a series of state
 |Error|An error occurred while creating the order. The inbound request exits the processing cycle.|
 |Pending|The inbound request is waiting for a condition to be met before processing can continue.|
 
-**Parent Topic:**[[order-mgt-reference|Order Management reference]]
+**Parent Topic:**[Order Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-reference.md)
 
 **Related topics**  
 
 
-[[asynchronous-order-processing|Asynchronous order processing for large customer and consumer orders]]
+[Asynchronous order processing for large customer and consumer orders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/asynchronous-order-processing.md)
 
-## Related
-
-- [[order-mgt-reference|Order Management reference]]
-- [[asynchronous-order-processing|Asynchronous order processing for large customer and consumer orders]]
-- [[som_request_tracker|Inbound Request]]

@@ -14,11 +14,11 @@ breadcrumb: [Kong Gateway, API Service Graph Connectors, Integrating third-party
 
 # Configure API Service Graph Connector for Kong Gateway using SGC Central
 
-Set up scheduled import jobs to pull in Kong Gateway data into your [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]].
+Set up scheduled import jobs to pull in Kong Gateway data into your Configuration Management Database \(CMDB\).
 
 ## Before you begin
 
-Install [[api-sgc-kong-gateway|API Service Graph Connector for Kong Gateway]] version 2.0.0 or later from the ServiceNow Store. For ServiceNow Store installation steps, see [Install a ServiceNow Store application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/installing-applications-in-application-manager.md).
+Install API Service Graph Connector for Kong Gateway version 2.0.0 or later from the ServiceNow Store. For ServiceNow Store installation steps, see [Install a ServiceNow Store application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/installing-applications-in-application-manager.md).
 
 If setting up the Prometheus connection, enable the Prometheus plugin on Kong Gateway and verify that any required credentials are available. To learn more about the Prometheus plugin, see [Prometheus](https://developer.konghq.com/plugins/prometheus) on the Kong Developer documentation site.
 
@@ -29,13 +29,13 @@ Role required: The following table shows the roles required for each stage of th
 |Prerequisites|admin|
 |Setup|SGC-Admin \(sn\_cmdb\_int\_util.sgc\_admin\) or admin|
 
-**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for [[cmdb-sgc-available|Service Graph Connectors]], see [Service Graph Connector user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md).
+**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md).
 
 ## About this task
 
-The playbook experience for onboarding connectors is activated with [[sgcc-landing|SGC Central]] in the CMDB Workspace. To configure the SGC Central application, see [[sgcc-configuring|Configuring SGC Central]] and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/playbook-ui.md).
+The playbook experience for onboarding connectors is activated with SGC Central in the CMDB Workspace. To configure the SGC Central application, see [Configuring SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-configuring.md) and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/playbook-ui.md).
 
-**Note:** Alternatively, you can configure a default connection already available from the installed or draft connections in SGC Central. Go to **All** &gt; **Service Graph Connectors**, then select **Setup** for the connector from the menu. To learn about installed and draft connections, see [[sgcc-managing-connection|Managing connections added for Service Graph Connectors in SGC Central]].
+**Note:** Alternatively, you can configure a default connection already available from the installed or draft connections in SGC Central. Go to **All** &gt; **Service Graph Connectors**, then select **Setup** for the connector from the menu. To learn about installed and draft connections, see [Managing connections added for Service Graph Connectors in SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-managing-connection.md).
 
 ## Procedure
 
@@ -51,7 +51,7 @@ The playbook experience for onboarding connectors is activated with [[sgcc-landi
 
 5.  Complete the initial prerequisites when setting up a connection for the first time using a connector.
 
-    **Note:** This step is required only during the first-time setup. See [[sgcc-first-time-setup|Perform initial setup tasks when creating a connection in SGC Central]].
+    **Note:** This step is required only during the first-time setup. See [Perform initial setup tasks when creating a connection in SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-first-time-setup.md).
 
 6.  Select a template for the authentication type to create a connection.
 
@@ -73,7 +73,7 @@ The playbook experience for onboarding connectors is activated with [[sgcc-landi
         |Host Name|Admin URL address of the Kong Admin API server.|
         |Protocol|Protocol used for the connection ensuring secured communication between the client and the Kong server.|
         |Override default port|Port used by the Kong Admin API.|
-        |API Key|Authentication secret to [[c_Connect|connect]] to the Kong Gateway service. This field appears only when **Kong RBAC Authentication** is selected in the **Select alias template** activity.|
+        |API Key|Authentication secret to connect to the Kong Gateway service. This field appears only when **Kong RBAC Authentication** is selected in the **Select alias template** activity.|
         |User Name|User name required for authenticating requests to the Kong Gateway Admin API. This field appears only when **Kong Basic Authentication** is selected in the **Select alias template** activity.|
         |Password|Password associated with the user name required for authenticating requests. This field appears only when **Kong Basic Authentication** is selected in the **Select alias template** activity.|
 
@@ -93,7 +93,7 @@ The playbook experience for onboarding connectors is activated with [[sgcc-landi
 
         For multiple workspaces, separate them with commas. For example: `workspace1,workspace2`. If you leave this field empty, the data sources within the connector import data from all the workspaces.
 
-    4.  Select the **Import tags** [[check-box|check box]] available in the tag settings section, to ingest tags from the Kong Gateway service.
+    4.  Select the **Import tags** check box available in the tag settings section, to ingest tags from the Kong Gateway service.
 
         When selected, specify the key-value pair separator for tags in the **Tags value separator** field. If not selected, tags won't be fetched.
 
@@ -140,7 +140,7 @@ The playbook experience for onboarding connectors is activated with [[sgcc-landi
 
     3.  Select **Submit**.
 
-    A Prometheus connection can be associated with multiple Kong Gateway connections. You can update the Prometheus mapping in the Kong Gateway connection from the SGC Central view at any time. See [[sgcc-update-connection|Update a connection for a Service Graph Connector in SGC Central]].
+    A Prometheus connection can be associated with multiple Kong Gateway connections. You can update the Prometheus mapping in the Kong Gateway connection from the SGC Central view at any time. See [Update a connection for a Service Graph Connector in SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-update-connection.md).
 
 11. Configure the import schedule to import data at regular intervals.
 
@@ -178,15 +178,3 @@ You can then manage connections from the SGC Central view of the CMDB Workspace.
 
 [Target tables for storing API Service Graph Connector for Kong Gateway data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/api-sgc-kong-gateway-tables.md)
 
-## Related
-
-- [[sgcc-configuring|Configuring SGC Central]]
-- [[sgcc-managing-connection|Managing connections added for Service Graph Connectors in SGC Central]]
-- [[sgcc-first-time-setup|Perform initial setup tasks when creating a connection in SGC Central]]
-- [[sgcc-update-connection|Update a connection for a Service Graph Connector in SGC Central]]
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[api-sgc-kong-gateway|API Service Graph Connector for Kong Gateway]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[sgcc-landing|SGC Central]]
-- [[c_Connect|Connect]]
-- [[check-box|Check box]]

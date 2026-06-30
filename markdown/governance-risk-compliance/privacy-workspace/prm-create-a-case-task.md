@@ -26,9 +26,9 @@ After a case is reported to the privacy teams, a privacy case analyst can create
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[privacy-management|Privacy Management]]** &gt; **Privacy Workspace** &gt; **Lists** &gt; **Cases** &gt; **All cases**.
+1.  Navigate to **All** &gt; **Privacy Management** &gt; **Privacy Workspace** &gt; **Lists** &gt; **Cases** &gt; **All cases**.
 
-2.  Open the case for which you want to [[create-a-case-task|create a case task]].
+2.  Open the case for which you want to create a case task.
 
 3.  Select the Case task related list.
 
@@ -58,12 +58,7 @@ After a case is reported to the privacy teams, a privacy case analyst can create
 
 
 -   **[Case task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/prm-case-task-form.md)**  
-On the new [[case-task-form|case task form]], fill in the fields.
+On the new case task form, fill in the fields.
 
 **Parent Topic:**[Case task workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/case-task-workflow.md)
 
-## Related
-
-- [[privacy-management|privacy management]]
-- [[create-a-case-task|create a case task]]
-- [[case-task-form|case task form]]

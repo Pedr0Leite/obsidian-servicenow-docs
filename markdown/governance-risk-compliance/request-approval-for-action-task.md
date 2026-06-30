@@ -12,7 +12,7 @@ breadcrumb: [Creating an action task for the operational vulnerability, Managing
 
 # Request an approval for the action task
 
-Complete the work on the assessment-type or the investigation-type action task and then [[submit-vul-for-approval|request an approval]] from the approvers of the [[exploring-op-vul|Operational vulnerability]] record.
+Complete the work on the assessment-type or the investigation-type action task and then request an approval from the approvers of the Operational vulnerability record.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_oper\_res.manager, Action task owner
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[grc-opres-landing-page|Operational Resilience]] Workspace** &gt; **All Operational Vulnerabilities**.
+1.  Navigate to **Workspaces** &gt; **Operational Resilience Workspace** &gt; **All Operational Vulnerabilities**.
 
 2.  Review the email notification and open the action task record from the email.
 
@@ -45,11 +45,5 @@ Role required: sn\_oper\_res.manager, Action task owner
 
 ## What to do next
 
-Devise a course of treatment plan and perform root cause analysis. For more information, see [[deciding-treatment-analysis|Decide the treatment and perform a root cause analysis]].
+Devise a course of treatment plan and perform root cause analysis. For more information, see [Decide the treatment and perform a root cause analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/deciding-treatment-analysis.md).
 
-## Related
-
-- [[deciding-treatment-analysis|Decide the treatment and perform a root cause analysis]]
-- [[submit-vul-for-approval|Request an approval]]
-- [[exploring-op-vul|Operational vulnerability]]
-- [[grc-opres-landing-page|Operational Resilience]]

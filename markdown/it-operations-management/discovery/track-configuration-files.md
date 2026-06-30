@@ -14,7 +14,7 @@ breadcrumb: [Configuration file tracking, Advanced Discovery configuration, Conf
 
 # Modify tracking changes in configuration files
 
-Configure the system to collect information about changes in configuration files belonging to a configuration item \(CI\). [[c_ServiceMappingOverview|Service Mapping]] uses this information to notify users that CI configuration files changed and to view actual changes to configuration files directly in the service instance maps.
+Configure the system to collect information about changes in configuration files belonging to a configuration item \(CI\). Service Mapping uses this information to notify users that CI configuration files changed and to view actual changes to configuration files directly in the service instance maps.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ Role required: cloud\_admin, service\_mapping\_admin, or admin
 
 ## About this task
 
-The system tracks configuration files as part of horizontal [[r-discovery|discovery]] process of a CI to which these files belong. Configuration files contain CI settings and parameters. Service Mapping uses this information to notify users that CI configuration files changed and to view actual changes to configuration files directly in the service instance maps. To learn about how the system tracks configuration files, stores and updates information about these files, see [Configuration file tracking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/tracked-config-files.md).
+The system tracks configuration files as part of horizontal discovery process of a CI to which these files belong. Configuration files contain CI settings and parameters. Service Mapping uses this information to notify users that CI configuration files changed and to view actual changes to configuration files directly in the service instance maps. To learn about how the system tracks configuration files, stores and updates information about these files, see [Configuration file tracking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/tracked-config-files.md).
 
 The system tracks configuration files for CI types with process classifiers that trigger patterns. The patterns contain tracked file definitions, which specify the CI type that the application belongs to and the path of the configuration file. Several patterns, such as the IIS pattern, provide tracked file definitions by default. You can use these default definitions or create your own for any pattern a process classifier triggers.
 
@@ -39,7 +39,7 @@ The system tracks configuration files for CI types with process classifiers that
 
 2.  Click the pattern for the relevant CI.
 
-    **Important:** Enabling [[tracked-config-files|configuration file tracking]] does not modify the contents of a pattern.
+    **Important:** Enabling configuration file tracking does not modify the contents of a pattern.
 
 3.  Click the **Tracked Files** tab.
 
@@ -67,14 +67,8 @@ The system tracks configuration files for CI types with process classifiers that
 
 Run discovery on the hosts that are running the applications you want to discover with patterns, open the application CI record, and check the Tracked Configuration Files related list.
 
-If you are [[using-service-mapping|using Service Mapping]], verify that it started collecting information about changes to configuration files:
+If you are using Service Mapping, verify that it started collecting information about changes to configuration files:
 
 1.  Navigate to the service instance map containing the CIs.
 2.  On the Changes tab, check that the list includes a record of the change you made. For example, that the configuration file was added, modified or deleted.
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]
-- [[tracked-config-files|Configuration file tracking]]
-- [[using-service-mapping|Using Service Mapping]]

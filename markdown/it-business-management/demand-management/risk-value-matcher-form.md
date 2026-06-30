@@ -60,7 +60,7 @@ Risk Value
 
 The value for the specified risk impact and probability combination.The options are: High, Medium, and Low.
 
- This value is displayed in the **Risk value** field of the [[risk-form|Risk form]].
+ This value is displayed in the **Risk value** field of the Risk form.
 
 </td></tr><tr><td>
 
@@ -88,6 +88,3 @@ Numerical value to indicate the probability. This value is multiplied by the val
 </td></tr></tbody>
 </table>**Parent Topic:**[Demand Management forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/demand-management-forms.md)
 
-## Related
-
-- [[risk-form|Risk form]]

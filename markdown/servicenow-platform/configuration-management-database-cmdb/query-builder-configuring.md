@@ -14,7 +14,7 @@ breadcrumb: [CMDB Query Builder, Configuration Management Database \(CMDB\), Con
 
 # Configuring CMDB Query Builder
 
-You can configure settings that affect some functionality of the [[cmdb-query-builder-landing-page|CMDB Query Builder]].
+You can configure settings that affect some functionality of the CMDB Query Builder.
 
 ## Configuration overview
 
@@ -34,6 +34,4 @@ You can configure settings that affect some functionality of the [[cmdb-query-bu
 
     Set the query execution mode for running a query, to use either the legacy engine or an performance-enhancing engine.
 
-## Related
 
-- [[cmdb-query-builder-landing-page|CMDB Query Builder]]

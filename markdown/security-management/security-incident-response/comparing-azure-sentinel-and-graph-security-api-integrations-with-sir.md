@@ -20,11 +20,11 @@ You can view the differences between Microsoft Azure Sentinel and Microsoft Grap
 
 Microsoft has extended the deprecation of the Azure Sentinel experience in the Azure portal from March 2026 to March 2027.
 
-If you are currently using the Azure Sentinel integration with [[sir-landing-page|Security Incident Response]] \(SIR\), we strongly recommend migrating to the new Defender portal integration as soon as possible. The Defender integration includes a built-in migration utility that automatically converts your existing Sentinel profiles into Defender profiles, while ensuring continuity of incidents created through Sentinel after the transition. For more information, see [Microsoft Sentinel to Defender Migration Guide](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2795226).
+If you are currently using the Azure Sentinel integration with Security Incident Response \(SIR\), we strongly recommend migrating to the new Defender portal integration as soon as possible. The Defender integration includes a built-in migration utility that automatically converts your existing Sentinel profiles into Defender profiles, while ensuring continuity of incidents created through Sentinel after the transition. For more information, see [Microsoft Sentinel to Defender Migration Guide](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2795226).
 
 ## Microsoft Azure Sentinel - Incident Ingestion overview
 
-Microsoft Azure Sentinel is a cloud-based security information event management \(SIEM\) and security orchestration automated response \(SOAR\) solution. Microsoft Azure Sentinel delivers intelligent security analytics and [[threat-intel-landing-page|threat intelligence]] across the enterprise. It provides a single solution for alert detection, threat visibility, proactive hunting, and threat response.
+Microsoft Azure Sentinel is a cloud-based security information event management \(SIEM\) and security orchestration automated response \(SOAR\) solution. Microsoft Azure Sentinel delivers intelligent security analytics and threat intelligence across the enterprise. It provides a single solution for alert detection, threat visibility, proactive hunting, and threat response.
 
 ## Microsoft Graph Security API overview
 
@@ -46,7 +46,7 @@ Microsoft Graph Security API
 
 </th></tr></thead><tbody><tr><td>
 
-Ingests Microsoft Azure Sentinel incidents along with entity information \(when available\) and automates [[si-creation|security incident creation]] in SIR.
+Ingests Microsoft Azure Sentinel incidents along with entity information \(when available\) and automates security incident creation in SIR.
 
 </td><td>
 
@@ -54,7 +54,7 @@ Ingests alerts from multiple Security providers \(including Azure Sentinel\) in 
 
 </td></tr><tr><td>
 
-Automates Microsoft Azure Sentinel incident status updates for Security Incident Response so that you can create and [[t_ClosingSecIncidents|close security incidents]].**Note:** ServiceNow updates the status of Microsoft Azure Sentinel incidents based on the security incident creation or closure.
+Automates Microsoft Azure Sentinel incident status updates for Security Incident Response so that you can create and close security incidents.**Note:** ServiceNow updates the status of Microsoft Azure Sentinel incidents based on the security incident creation or closure.
 
 </td><td>
 
@@ -89,10 +89,3 @@ You cannot update alerts in Microsoft Azure Sentinel using this integration.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[si-creation|Security incident creation]]
-- [[t_ClosingSecIncidents|Close security incidents]]

@@ -16,7 +16,7 @@ Configure when a push notification event is triggered and sends a mobile push no
 
 ## Before you begin
 
-To create a push notification event and complete the mobile push notification, a push notification message is required. For more information, see [[configure-push-notification-message|Configure a push notification message]].
+To create a push notification event and complete the mobile push notification, a push notification message is required. For more information, see [Configure a push notification message](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/configure-push-notification-message.md).
 
 Role required: admin
 
@@ -113,12 +113,7 @@ A push notification event is configured and paired with the push notification me
 
 ## What to do next
 
-You can add a push registration so that mobile users can receive this notification without requiring them to opt in. For more information, see [[sg-mobile-notif-register|Register the standard push notification]].
+You can add a push registration so that mobile users can receive this notification without requiring them to opt in. For more information, see [Register the standard push notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-notif-register.md).
 
-**Parent Topic:**[[configure-mobile-push-notifications|Mobile push notification components]]
+**Parent Topic:**[Mobile push notification components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/configure-mobile-push-notifications.md)
 
-## Related
-
-- [[configure-push-notification-message|Configure a push notification message]]
-- [[sg-mobile-notif-register|Register the standard push notification]]
-- [[configure-mobile-push-notifications|Mobile push notification components]]

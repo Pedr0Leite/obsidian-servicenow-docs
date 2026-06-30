@@ -14,7 +14,7 @@ breadcrumb: [Work Configurations, Set up work orders and tasks, Configure, Field
 
 # Set up work configurations
 
-Use the [[fsm-application-landing-page|Field Service Management]] application to handle different types of field service work. A work configuration identifies the configurations and the data required for specific field service work.
+Use the Field Service Management application to handle different types of field service work. A work configuration identifies the configurations and the data required for specific field service work.
 
 ## Before you begin
 
@@ -147,6 +147,4 @@ Enables the customer to setup different work configurations for field service wo
 
     This button opens the page in your instance where the configuration is completed.
 
-## Related
 
-- [[fsm-application-landing-page|Field Service Management]]

@@ -23,13 +23,13 @@ Role required: Accounts Payable admin, Accounts Payable specialist
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-pay-mgmt-landing-page|Accounts Payable Operations]]** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Accounts Payable Operations** &gt; **Source-to-Pay Workspace**.
 
 2.  Select the list icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon\).
 
     A list of options within the workspace is displayed.
 
-3.  Select **[[invoices|Invoices]] &gt;****All invoices.**
+3.  Select **Invoices &gt;****All invoices.**
 
     You can create an invoice manually. For more information on invoices, see [Work with invoices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/work-with-invoices.md).
 
@@ -56,8 +56,3 @@ Role required: Accounts Payable admin, Accounts Payable specialist
 
 **Parent Topic:**[Document Intelligence processing with playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/use-di-with-playbook.md)
 
-## Related
-
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[invoices|Invoices]]

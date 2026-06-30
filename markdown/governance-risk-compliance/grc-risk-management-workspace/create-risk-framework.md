@@ -22,7 +22,7 @@ Role required: sn\_risk.manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Risk** &gt; **[[risk-workspace|Risk Workspace]]** &gt; **Library** &gt; **Risk frameworks**.
+1.  Navigate to **All** &gt; **Risk** &gt; **Risk Workspace** &gt; **Library** &gt; **Risk frameworks**.
 
 2.  Click **New**.
 
@@ -79,7 +79,7 @@ Additional information for this risk framework.
 </td></tr></tbody>
 </table>4.  Click **Save**.
 
-5.  To add entities from [[entity-type-in-risk-ws|entity types]], click the Entity types related list.
+5.  To add entities from entity types, click the Entity types related list.
 
     1.  Click **Add**.
 
@@ -133,7 +133,3 @@ Create risk statements to group risks into manageable categories.
 
 **Parent Topic:**[Using the Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/using-risk-workspace.md)
 
-## Related
-
-- [[risk-workspace|risk workspace]]
-- [[entity-type-in-risk-ws|Entity types]]

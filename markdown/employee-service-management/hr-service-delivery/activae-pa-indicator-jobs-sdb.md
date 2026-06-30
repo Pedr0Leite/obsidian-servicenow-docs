@@ -14,7 +14,7 @@ breadcrumb: [Configure HR Success Dashboard indicators, HR Success Dashboard ind
 
 # Activate Performance Analytics jobs
 
-Activate the Performance Analytics \(PA\) jobs for the [[success-dashboard-landing|HR Success Dashboard indicators]] to collect daily and historical data.
+Activate the Performance Analytics \(PA\) jobs for the HR Success Dashboard indicators to collect daily and historical data.
 
 ## Before you begin
 
@@ -40,6 +40,4 @@ Role required: admin
 
     2.  Select **Execute Now** to see the past 60 days data in the dashboard.
 
-## Related
 
-- [[success-dashboard-landing|HR Success Dashboard indicators]]

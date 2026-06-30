@@ -22,17 +22,14 @@ Role required: admin
 
 ## About this task
 
-When enabled, the Audit Roles \[sys\_audit\_role\] table maintains changes to user records. For more information about role audits, see [Audit user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/audit-user-roles.md). If the Contextual Security: Role Management V2 \[com.glide.role\_management.inh\_count\] plugin is installed, you must set a system property to **true** to enable role [[c_AuditedTables|auditing]].
+When enabled, the Audit Roles \[sys\_audit\_role\] table maintains changes to user records. For more information about role audits, see [Audit user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/audit-user-roles.md). If the Contextual Security: Role Management V2 \[com.glide.role\_management.inh\_count\] plugin is installed, you must set a system property to **true** to enable role auditing.
 
 ## Procedure
 
-1.  Navigate to the [[ca-system-properties|System Properties]] \[sys\_properties\] table.
+1.  Navigate to the System Properties \[sys\_properties\] table.
 
 2.  Add the **glide.role\_management.v2.audit\_roles** system property and set it to **true**.
 
     If the Contextual Security: Role Management V2 \[com.glide.role\_management.inh\_count\] plugin is installed, setting this property to **true** enables the Audit Roles \[sys\_audit\_role\] table to create records when user roles change. The table records role changes that occur after the property is set. Existing role assignments are not backfilled.
 
-## Related
 
-- [[c_AuditedTables|Auditing]]
-- [[ca-system-properties|System properties]]

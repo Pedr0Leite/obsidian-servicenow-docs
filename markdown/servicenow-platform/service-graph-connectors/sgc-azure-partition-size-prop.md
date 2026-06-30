@@ -19,7 +19,7 @@ Optimize the performance of data sources by setting the partition size in the **
 
 ## Before you begin
 
-Set the application scope to [[cmdb-integration-azure|Service Graph Connector for Microsoft Azure]] using the application picker. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
+Set the application scope to Service Graph Connector for Microsoft Azure using the application picker. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
 
 Role required: admin
 
@@ -36,7 +36,7 @@ The parallel loading feature is available for the following data sources:
     -   SG-Azure Kubernetes Cluster
     -   SG-Azure Load Balancers
     -   SG-Azure Network Interface
-    -   SG-Azure Public [[ip-address|IP Address]]
+    -   SG-Azure Public IP Address
     -   SG-Azure Run Command
     -   SG-Azure Scale Sets VMs
 -   Starting with the Service Graph Connector for Microsoft Azure 1.11.0 version:
@@ -46,11 +46,11 @@ The parallel loading feature is available for the following data sources:
 
 For a full data pull, the **azure\_full\_pull\_partition\_size** property determines the number of Azure subscriptions that can be executed as parallel jobs to retrieve configuration item \(CI\) data. Partition size determines how many Azure subscriptions a single parallel-thread evaluates for data retrieval. If you set the **azure\_full\_pull\_partition\_size** property to `100`, the partition size is 100 subscriptions.
 
-**Note:** If the **azure\_full\_pull\_partition\_size** property isn't configured, the partition size computation feature of the [[integration-commons-for-cmdb|Integration Commons for CMDB]] application automatically determines the partition size for parallel loading at runtime. See [Partition size computation for parallel loading in Integration Commons for CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-integration-commons/integration-commons-part-size.md).
+**Note:** If the **azure\_full\_pull\_partition\_size** property isn't configured, the partition size computation feature of the Integration Commons for CMDB application automatically determines the partition size for parallel loading at runtime. See [Partition size computation for parallel loading in Integration Commons for CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-integration-commons/integration-commons-part-size.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[cmdb-sgc-available|Service Graph Connectors]]** &gt; **Azure** &gt; **Connections**.
+1.  Navigate to **All** &gt; **Service Graph Connectors** &gt; **Azure** &gt; **Connections**.
 
 2.  From the **Name** column of the Service Graph Connections list, select a connection.
 
@@ -64,9 +64,4 @@ For a full data pull, the **azure\_full\_pull\_partition\_size** property determ
 
     **Note:** After you enable parallel data loading for a data source, the **Test Load 20 Records** and **Load All Records** options don't work for executing the data source. You must select **Execute Now** from **Scheduled Data Import** to execute the data source for which parallel loading is enabled.
 
-## Related
 
-- [[cmdb-integration-azure|Service Graph Connector for Microsoft Azure]]
-- [[ip-address|IP Address]]
-- [[integration-commons-for-cmdb|Integration Commons for CMDB]]
-- [[cmdb-sgc-available|Service Graph Connectors]]

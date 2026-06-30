@@ -14,20 +14,20 @@ breadcrumb: [Configuration Management Database \(CMDB\), Configuration Managemen
 
 # Intelligent Search for CMDB
 
-Use everyday natural language query \(NLQ\) in a search string to query for a set of CIs in the CMDB. Intelligent Search for CMDB, parses, resolves ambiguities, and converts your search string into a valid CMDB query. Complex search strings open fully constructed on a canvas of [[cmdb-query-builder-landing-page|CMDB Query Builder]] where you can continue and refine, or run.
+Use everyday natural language query \(NLQ\) in a search string to query for a set of CIs in the CMDB. Intelligent Search for CMDB, parses, resolves ambiguities, and converts your search string into a valid CMDB query. Complex search strings open fully constructed on a canvas of CMDB Query Builder where you can continue and refine, or run.
 
 Intelligent Search for CMDB is supported only on English language instances and isn't supported when the instance preferred language is set to a language other than English.
 
 ## Integration with CMDB Workspace
 
-Intelligent Search for CMDB is integrated into the Home view in the [[cmdb-workspace|CMDB Workspace store app]]. For more information, see:
+Intelligent Search for CMDB is integrated into the Home view in the CMDB Workspace store app. For more information, see:
 
 -   [Home view in CMDB Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-workspace-home-view.md) \(Intelligent Search section\) for details about how to use Intelligent Search, sample search strings, and helpful tips.
 -   [CMDB Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-workspace.md) for additional details about CMDB Workspace.
 
 ## Integration with Service Graph Workspace
 
-Intelligent Search for CMDB is integrated into the Search and Explore view in the [[sg-workspace|Service Graph Workspace]] store app. For more information, see:
+Intelligent Search for CMDB is integrated into the Search and Explore view in the Service Graph Workspace store app. For more information, see:
 
 -   [Explore and Search view in Service Graph Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/sg-workspace-search-explore-view.md), Search tab for details about how to use Intelligent Search, sample search strings, and helpful tips.
 -   [Service Graph Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/sg-workspace.md) for additional details about Service Graph Workspace.
@@ -92,8 +92,3 @@ Implicit relationships are stored in the NLQ CMDB Implicit Relationship \[nlq\_c
 
 For more information about NLQ in the ServiceNow AI Platform, see [Natural Language Query \(NLQ\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/natural-language-query.md).
 
-## Related
-
-- [[cmdb-query-builder-landing-page|CMDB Query Builder]]
-- [[cmdb-workspace|CMDB Workspace store app]]
-- [[sg-workspace|Service Graph Workspace]]

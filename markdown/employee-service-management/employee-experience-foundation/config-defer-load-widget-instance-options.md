@@ -14,7 +14,7 @@ breadcrumb: [High-traffic experience, Portal performance optimization, Admin con
 
 # Modify homepage banner instance for high-traffic
 
-You can configure the instance options to control the display of widgets and improve the homepage banner instance for [[ec-load-high-traffic|high-traffic experience]].
+You can configure the instance options to control the display of widgets and improve the homepage banner instance for high-traffic experience.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sp\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **Self-Service** &gt; **Employee Center**.
 
     The Employee Center home page is displayed.
 
@@ -100,7 +100,3 @@ You can find a similar experience for the following widgets:
 
 [Defer load in Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-load-expe-defer-load.md)
 
-## Related
-
-- [[ec-load-high-traffic|High-traffic experience]]
-- [[employee-center-landing-page|Employee Center]]

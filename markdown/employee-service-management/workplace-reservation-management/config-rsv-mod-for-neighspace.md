@@ -38,7 +38,7 @@ An employee can view all the spaces of an area in a single module.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-rsv-mgmt-feat|Workplace Reservation Management]]** &gt; **Administration** &gt; **Reservable Module**.
+1.  Navigate to **All** &gt; **Workplace Reservation Management** &gt; **Administration** &gt; **Reservable Module**.
 
 2.  Click **New**.
 
@@ -207,7 +207,7 @@ Requires subject
 
 </td><td>
 
-Option to [[reservation-portal|make a reservation]] subject required before making a reservation.
+Option to make a reservation subject required before making a reservation.
 
 </td></tr><tr><td>
 
@@ -223,7 +223,7 @@ Apply to shift
 
 </td><td>
 
-Option to [[enable-shift-based-reservation|enable shift-based reservation]] on the module.
+Option to enable shift-based reservation on the module.
 
 </td></tr><tr><td>
 
@@ -267,8 +267,3 @@ The reservable module is added to the application. On the Reservation portal, em
 
 **Parent Topic:**[Configure a reservable module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/config-reservable-module.md)
 
-## Related
-
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[reservation-portal|Make a reservation]]
-- [[enable-shift-based-reservation|Enable shift-based reservation]]

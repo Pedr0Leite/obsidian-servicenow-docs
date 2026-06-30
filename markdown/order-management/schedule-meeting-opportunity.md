@@ -16,7 +16,7 @@ Schedule a client meeting directly from an opportunity record to associate it wi
 
 ## Before you begin
 
--   The Meetings plugin \(sn\_meeting\_mgmt\) must be installed. This plugin is installed automatically as a dependency of the [[opportunity-management|Opportunity Management]] data model plugin.
+-   The Meetings plugin \(sn\_meeting\_mgmt\) must be installed. This plugin is installed automatically as a dependency of the Opportunity Management data model plugin.
 -   The opportunity must be in a non-closed state.
 
 Role required: sn\_meeting\_mgmt.meeting\_creator
@@ -54,9 +54,5 @@ To view all meetings for the opportunity, select the **Meetings** tab.
 
 **Note:** The **Meetings** tab displays both meetings linked directly to the opportunity and meetings linked to the opportunity's touchpoints.
 
-**Parent Topic:**[[opportunity-mgmt-using|Using Opportunity Management]]
+**Parent Topic:**[Using Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-mgmt-using.md)
 
-## Related
-
-- [[opportunity-mgmt-using|Using Opportunity Management]]
-- [[opportunity-management|Opportunity Management]]

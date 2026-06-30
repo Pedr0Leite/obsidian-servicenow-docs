@@ -20,13 +20,13 @@ Role required: mobile\_admin, admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select **Functions** from the menu and then select the function to which you want to add this behavior.
 
@@ -75,10 +75,5 @@ Enter one of the following values:-   Enter `true` to enable the offline cache d
 </table>7.  Select **Save**.
 
 
-**Parent Topic:**[[cache-update-user-action|Cache updates triggered by user actions]]
+**Parent Topic:**[Cache updates triggered by user actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/cache-update-user-action.md)
 
-## Related
-
-- [[cache-update-user-action|Cache updates triggered by user actions]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]

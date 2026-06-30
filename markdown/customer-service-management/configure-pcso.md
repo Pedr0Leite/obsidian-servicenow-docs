@@ -12,7 +12,7 @@ breadcrumb: [Extend capabilities, Configure, Customer Service Management]
 
 # Configure Proactive Customer Service Operations
 
-Configure various aspects of [[proactive-service-operations|Proactive Customer Service Operations]] based on the specific requirements of your organization.
+Configure various aspects of Proactive Customer Service Operations based on the specific requirements of your organization.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: csm\_guided\_setup\_user or admin
 
 There are a sequence of tasks that enable you to configure Proactive Customer Service Operations. You can perform these tasks based on which plugin or application you have installed. This is noted at the top of each task.
 
-**Note:** To use [[pcso-event-management|integration with Event Management]], install the Proactive Customer Service Operations with Event Management plugin and the Event Management application from the ServiceNow store.
+**Note:** To use integration with Event Management, install the Proactive Customer Service Operations with Event Management plugin and the Event Management application from the ServiceNow store.
 
 Event Management integration is only available if you are using the CSM Agent Workspace or the ServiceNow AI Platform interface.
 
@@ -46,7 +46,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[activate-proactive-op-man|Activate Proactive Customer Service Operations]] plugin \(com.snc.proactive\_cs\_ops\).**Note:** This is a ServiceNow Store plugin. You must install this plugin separately from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
+Activate Proactive Customer Service Operations plugin \(com.snc.proactive\_cs\_ops\).**Note:** This is a ServiceNow Store plugin. You must install this plugin separately from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
 
 </td><td>
 
@@ -54,7 +54,7 @@ Activate the Proactive Customer Service plugin to use Proactive Customer Service
 
 </td></tr><tr><td>
 
-[[activate-proactive-EM|Activate Proactive Customer Service Operations with Event Management]] plugin \(com.snc.proactive\_cs\_itom\).**Note:** This is a ServiceNow Store plugin. You must install this plugin separately from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
+Activate Proactive Customer Service Operations with Event Management plugin \(com.snc.proactive\_cs\_itom\).**Note:** This is a ServiceNow Store plugin. You must install this plugin separately from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
 
 </td><td>
 
@@ -74,19 +74,19 @@ Configure form views
 
 </td><td>
 
-Configure the form layout and related [[migration-lists|lists]] for the different views of the Case, Install Base Item, and Account [[migration-forms|forms]] to display the fields you require.
+Configure the form layout and related lists for the different views of the Case, Install Base Item, and Account forms to display the fields you require.
 
 </td></tr><tr><td>
 
-[[automate-case-creation-alert|Activate an alert rule to automatically create a proactive case from an alert]]
+Activate an alert rule to automatically create a proactive case from an alert
 
 </td><td>
 
-Configure an alert rule to automatically create a proactive case when an incident is created from an alert that has one or more affected [[install-base-item|install base items]].**Note:** This task is only applicable if you are using the integration with Event Management.
+Configure an alert rule to automatically create a proactive case when an incident is created from an alert that has one or more affected install base items.**Note:** This task is only applicable if you are using the integration with Event Management.
 
 </td></tr><tr><td>
 
-[[configure-flow-designer|Configure proactive case flows]]
+Configure proactive case flows
 
 </td><td>
 
@@ -101,29 +101,13 @@ Automate workflows for proactive case creation to improve your operational effic
 **Related topics**  
 
 
-[[use-pcso|Using Proactive Customer Service Operations]]
+[Using Proactive Customer Service Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/use-pcso.md)
 
-[[view-install-base-info|View install base information from the Customer Service Portal]]
+[View install base information from the Customer Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/view-install-base-info.md)
 
-[[create-case-install-base|Create a case for install base from the Customer Service homepage]]
+[Create a case for install base from the Customer Service homepage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-case-install-base.md)
 
-[[install-base-aw-csm|View the install base in CSM Configurable Workspace]]
+[View the install base in CSM Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/install-base-aw-csm.md)
 
-[[view-sold-product-info-workspace|View sold product information in CSM Configurable Workspace]]
+[View sold product information in CSM Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/view-sold-product-info-workspace.md)
 
-## Related
-
-- [[use-pcso|Using Proactive Customer Service Operations]]
-- [[view-install-base-info|View install base information from the Customer Service Portal]]
-- [[create-case-install-base|Create a case for install base from the Customer Service homepage]]
-- [[install-base-aw-csm|View the install base in CSM Configurable Workspace]]
-- [[view-sold-product-info-workspace|View sold product information in CSM Configurable Workspace]]
-- [[proactive-service-operations|Proactive Customer Service Operations]]
-- [[pcso-event-management|Integration with Event Management]]
-- [[activate-proactive-op-man|Activate Proactive Customer Service Operations]]
-- [[activate-proactive-EM|Activate Proactive Customer Service Operations with Event Management]]
-- [[migration-lists|Lists]]
-- [[migration-forms|Forms]]
-- [[automate-case-creation-alert|Activate an alert rule to automatically create a proactive case from an alert]]
-- [[install-base-item|Install base items]]
-- [[configure-flow-designer|Configure proactive case flows]]

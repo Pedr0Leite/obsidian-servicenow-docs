@@ -14,18 +14,18 @@ breadcrumb: [HR Service Delivery for Healthcare, HR Service Delivery, Employee S
 
 # Explore HR Service Delivery for Healthcare
 
-Learn more about [[healthcare-hr|HR Service Delivery for Healthcare]] with a sample workflow and reviewing the benefits it provides to users in your healthcare organization.
+Learn more about HR Service Delivery for Healthcare with a sample workflow and reviewing the benefits it provides to users in your healthcare organization.
 
 ## HR Service Delivery for Healthcare overview
 
 HR Service Delivery for Healthcare enables you:
 
--   securely access, update, and manage the data of a healthcare professional via the [[hr-hc-profile|Healthcare Professional data model]].
+-   securely access, update, and manage the data of a healthcare professional via the Healthcare Professional data model.
 -   set up and auto-create necessary tasks to onboard a healthcare professional smoothly into your organization.
 
 ## HR Service Delivery for Healthcare workflow
 
-The following infographic provides you with an end to end explanation of how to use the HR Service Delivery for Healthcare application along with [[jny-dsgnr-landing-page-1|Journey designer]] and [[employee-center-landing-page|Employee Center]].
+The following infographic provides you with an end to end explanation of how to use the HR Service Delivery for Healthcare application along with Journey designer and Employee Center.
 
 \[Omitted image "mmasset0020433.png"\] Alt text: The infographic provides you with an end to end explanation of how to use the HR Service Delivery for Healthcare along with Journey designer
 
@@ -47,7 +47,7 @@ Users
 
 </th></tr></thead><tbody><tr><td>
 
-[[c_HRProfileRecords|HR profile]] and [[emp-slate-employee-profile|Employee profile]] data models capture generic details of an employee, while Healthcare Professional data model stores confidential data pertaining to a healthcare professional, such as medical degree and employment history, professional liability insurance details, hospital affiliations, and payer enrollments details. The Healthcare Professional Profile data model enables your organization to access, track, update healthcare profile information throughout the period of employment of the healthcare professional. Healthcare professional profile records are stored confidentially and are not publicly viewable.
+HR profile and Employee profile data models capture generic details of an employee, while Healthcare Professional data model stores confidential data pertaining to a healthcare professional, such as medical degree and employment history, professional liability insurance details, hospital affiliations, and payer enrollments details. The Healthcare Professional Profile data model enables your organization to access, track, update healthcare profile information throughout the period of employment of the healthcare professional. Healthcare professional profile records are stored confidentially and are not publicly viewable.
 
 </td><td>
 
@@ -66,7 +66,7 @@ Step by step guidance enabling you to onboard a healthcare professional smoothly
 
 </td><td>
 
-Healthcare onboarding journey with predefined [[activity-lxp|activity]] sets
+Healthcare onboarding journey with predefined activity sets
 
 </td><td>
 
@@ -74,7 +74,7 @@ Healthcare administrator or HR admin
 
 </td></tr><tr><td>
 
-[[hr-service-administration|HR services]], such as Healthcare Employee Onboarding Journey, Sign Onboarding Disclosures, Collect Employee Information and Validate, Validate Submitted information, and HR tasks are available to use with the HR Service Delivery for Healthcare application.
+HR services, such as Healthcare Employee Onboarding Journey, Sign Onboarding Disclosures, Collect Employee Information and Validate, Validate Submitted information, and HR tasks are available to use with the HR Service Delivery for Healthcare application.
 
 </td><td>
 
@@ -86,14 +86,3 @@ HR agents
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[healthcare-hr|HR Service Delivery for Healthcare]]
-- [[hr-hc-profile|Healthcare Professional data model]]
-- [[jny-dsgnr-landing-page-1|Journey designer]]
-- [[employee-center-landing-page|Employee Center]]
-- [[c_HRProfileRecords|HR Profile]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[activity-lxp|Activity]]
-- [[hr-service-administration|HR services]]

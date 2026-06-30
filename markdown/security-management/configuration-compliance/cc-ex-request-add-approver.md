@@ -14,7 +14,7 @@ breadcrumb: [Configure, Configuration Compliance, Unified Security Exposure Mana
 
 # Add an exception approver for Configuration Compliance
 
-Add users to the approver groups so that you can [[cc-ex-request-test-result-group|request an exception for a remediation task in Configuration Compliance]].
+Add users to the approver groups so that you can request an exception for a remediation task in Configuration Compliance.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ An exception request for a remediation task is approved using the default two-le
 
 **Note:** If there's no first-level approver, an exception can't be requested.
 
-**Note:** Upto [[vr-config-compliance-landing|Configuration Compliance]] v13.0, if there's no first-level approver, an exception can't be requested. However, starting from Configuration Compliance v13.0, if you are deploying the CC application for the first time, the flow designer for exception management is enabled by default. If you are already using the workflow, you can update to the flow designer. In both cases, you cannot change it back to workflow.
+**Note:** Upto Configuration Compliance v13.0, if there's no first-level approver, an exception can't be requested. However, starting from Configuration Compliance v13.0, if you are deploying the CC application for the first time, the flow designer for exception management is enabled by default. If you are already using the workflow, you can update to the flow designer. In both cases, you cannot change it back to workflow.
 
 ## Procedure
 
@@ -169,7 +169,7 @@ Time zone
 
 </td><td>
 
-Time zone for this user's [[location|location]].
+Time zone for this user's location.
 
 </td></tr><tr><td>
 
@@ -214,8 +214,4 @@ Photo that you can upload by clicking on **Click to add...**.
 
     The approver must navigate to **All** &gt; **Configuration Compliance** &gt; **My Approvals** and approve requests.
 
-## Related
 
-- [[cc-ex-request-test-result-group|Request an exception for a remediation task in Configuration Compliance]]
-- [[vr-config-compliance-landing|Configuration Compliance]]
-- [[location|Location]]

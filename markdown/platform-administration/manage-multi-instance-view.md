@@ -16,11 +16,11 @@ Manage a consolidated view of clones across all your instances and clone status
 
 ## Before you begin
 
-Role required: clone\_admin. [[setup-multi-instance-view|Multi-Instance view is enabled]].
+Role required: clone\_admin. [Multi-Instance view is enabled](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/setup-multi-instance-view.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[Clone-UI|Clone Admin Console]]** &gt; **Clone Home**.
+1.  Navigate to **All** &gt; **Clone Admin Console** &gt; **Clone Home**.
 
 
 ## Result
@@ -71,7 +71,7 @@ The Instance List shows each instance with the following information:
 
 ## Add an instance to Multi-Instance View
 
-Manage [[system-clone-landing|Instance Clone]] operations across multiple linked instances.
+Manage Instance Clone operations across multiple linked instances.
 
 ### Before you begin
 
@@ -121,8 +121,3 @@ Role required: clone\_admin
 
 The instance is removed from your centralized view. This does not delete the instance itself; you can add it back later if needed.
 
-## Related
-
-- [[setup-multi-instance-view|Set up Multi-Instance View]]
-- [[Clone-UI|Clone Admin Console]]
-- [[system-clone-landing|Instance Clone]]

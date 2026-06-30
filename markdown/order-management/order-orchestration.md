@@ -35,21 +35,15 @@ An order orchestration plan typically includes the following steps:
 -   Supplier and carrier coordination: Engaging third-party vendors and logistics partners.
 -   Fulfillment and delivery tracking: Monitoring shipment progress and delivery performance.
 
--   **[[orchestration-plans-for-order-fulfillment|Using the order orchestration UI]]**  
+-   **[Using the order orchestration UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/orchestration-plans-for-order-fulfillment.md)**  
 By using the order orchestration user interface \(UI\), you can make sure that you do all the tasks that are required to fulfill your customer orders. You can also view the complete order hierarchy, the status of the associated decomposed orders, the order line items, and the order tasks.
 
-**Parent Topic:**[[using-order-management|Using Order Management]]
+**Parent Topic:**[Using Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-order-management.md)
 
 **Related topics**  
 
 
-[[order-mgt-configuring|Configuring Order Management]]
+[Configuring Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-configuring.md)
 
-[[explore-order-management|Order management]]
+[Order management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-order-management.md)
 
-## Related
-
-- [[orchestration-plans-for-order-fulfillment|Using the order orchestration UI]]
-- [[using-order-management|Using Order Management]]
-- [[order-mgt-configuring|Configuring Order Management]]
-- [[explore-order-management|Order management]]

@@ -16,7 +16,7 @@ breadcrumb: [SaaS License Management, Software Asset Management, IT Asset Manage
 
 Define subscription exclusions for your SaaS and SSO applications to optimize your licensing costs by keeping the excluded subscriptions out of license cost calculations.
 
-You can keep certain low-value and high-volume user subscriptions from being charged during the [[c_SoftwareAssetMgmt|Software Asset Management]] application's licensing calculations. You can define two types of subscription exclusions: Identifier-based exclusions and User-based exclusions.
+You can keep certain low-value and high-volume user subscriptions from being charged during the Software Asset Management application's licensing calculations. You can define two types of subscription exclusions: Identifier-based exclusions and User-based exclusions.
 
 **Important:** Identifier-based exclusions are specific to individual subscription profile types, whereas User-based exclusions apply across all SaaS integration profiles.
 
@@ -71,7 +71,7 @@ Role required: sam\_admin
 
 Subscription identifiers help you track your software subscriptions and understand your license calculations. You can optimize your licensing costs by defining subscription identifier-based exclusions so that these identifiers aren't included while calculating your licensing costs.
 
-**Note:** If you’re using the [[sam-workspace|Software Asset Workspace]], the option to navigate to the integration profile in Core UI is inactive.
+**Note:** If you’re using the Software Asset Workspace, the option to navigate to the integration profile in Core UI is inactive.
 
 ### Procedure
 
@@ -181,7 +181,3 @@ The option when the exclusion rule is active.
 
 The user-based exclusion rule is created for the subscription identifier. The specified subscription identifier remains excluded when the scheduled job is executed for license calculations.
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-workspace|Software Asset Workspace]]

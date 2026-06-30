@@ -12,7 +12,7 @@ breadcrumb: [Now Assist in Platform Analytics, Platform Analytics]
 
 # Query Generation
 
-Query Generation is a shared backend that [[now-assist-platform-analytics|Now Assist in Platform Analytics]] applications use to translate plain language user questions into database queries.
+Query Generation is a shared backend that Now Assist in Platform Analytics applications use to translate plain language user questions into database queries.
 
 ## Get started
 
@@ -50,6 +50,3 @@ ServiceNow collects and uses the inputs, outputs, and edits to outputs of this a
 
 For more information, see the [Now Assist documentation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-now-assist-landing.md).
 
-## Related
-
-- [[now-assist-platform-analytics|Now Assist in Platform Analytics]]

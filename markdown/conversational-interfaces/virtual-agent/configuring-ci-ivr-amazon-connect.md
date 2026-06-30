@@ -14,7 +14,7 @@ breadcrumb: [Conversational IVR with Amazon Connect, Integrating Virtual Agent w
 
 # Configuring Conversational IVR with Amazon Connect
 
-Install and configure the Conversational Integration with Amazon Connect application to enable users to have a conversational voice response with [[virtual-agent-landing-page|Virtual Agent]].
+Install and configure the Conversational Integration with Amazon Connect application to enable users to have a conversational voice response with Virtual Agent.
 
 ## Configuration overview
 
@@ -47,7 +47,7 @@ Install and configure the Conversational Integration with Amazon Connect applica
     Configure callback functionality.
 
 
-\[Omitted image "workflow-ivr-amz-cnct.png"\] Alt text: Workflow describing the sequence of processes carried out in [[va-ivr-voice|Conversational IVR with Amazon Connect]] integration.
+\[Omitted image "workflow-ivr-amz-cnct.png"\] Alt text: Workflow describing the sequence of processes carried out in Conversational IVR with Amazon Connect integration.
 
 -   **[Configuring your AWS account for use with Conversational IVR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-aws-account.md)**  
 To enable the Conversational IVR functionality within your ServiceNow instance, you must utilize a third-party Contact Center application. One such option is Amazon Connect, which is part of the Amazon Web Services \(AWS\) platform. You must configure your organization’s AWS account prior to making it available for use in the Conversational IVR feature.
@@ -56,7 +56,3 @@ Configure Amazon Connect service provider to integrate with Virtual Agent and us
 
 **Parent Topic:**[Conversational IVR with Amazon Connect](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-ivr-voice.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[va-ivr-voice|Conversational IVR with Amazon Connect]]

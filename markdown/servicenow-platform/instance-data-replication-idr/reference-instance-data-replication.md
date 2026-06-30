@@ -14,10 +14,10 @@ breadcrumb: [Instance Data Replication, Manage instance data sources, Extend Ser
 
 # Instance Data Replication reference
 
-These [[reference|reference]] topics provide additional information about [[data-privacy-consumers-idr|data privacy in Instance Data Replication]] \(IDR\) and [[domain-separation-relationship-formatter-editor|domain separation]].
+These reference topics provide additional information about data privacy in Instance Data Replication \(IDR\) and domain separation.
 
 -   **[Data privacy in Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/data-privacy-consumers-idr.md)**  
-The ability of replication sets to host multiple remote consumers in [[instance-data-replication|Instance Data Replication]] \(IDR\) means that there are potential data privacy issues to consider.
+The ability of replication sets to host multiple remote consumers in Instance Data Replication \(IDR\) means that there are potential data privacy issues to consider.
 -   **[Adapter descriptions for Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/adapter-descriptions.md)**  
 Adapters modify the producer data before inserting the data on consumer instances in Instance Data Replication \(IDR\).
 -   **[Excluded tables in Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/IDR-excluded-tables.md)**  
@@ -31,9 +31,3 @@ Instance Data Replication \(IDR\) is installed with these roles.
 
 **Parent Topic:**[Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/instance-data-replication.md)
 
-## Related
-
-- [[reference|Reference]]
-- [[data-privacy-consumers-idr|Data privacy in Instance Data Replication]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]
-- [[instance-data-replication|Instance Data Replication]]

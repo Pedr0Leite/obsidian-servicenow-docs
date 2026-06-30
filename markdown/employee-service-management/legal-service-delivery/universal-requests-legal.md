@@ -14,17 +14,17 @@ breadcrumb: [Integration with ServiceNow applications, Legal Service Delivery, L
 
 # Universal Request for Legal Service Delivery
 
-Integrating [[ur-landing-limitedaccess|Universal Request]] and [[legal-management-overview|Legal Service Delivery]] enables you to create a unified user experience for your employees to request services from the Legal department. Legal services can be provided to employees seamlessly without them having to deal with the difficulties of interdepartmental collaboration for resolution.
+Integrating Universal Request and Legal Service Delivery enables you to create a unified user experience for your employees to request services from the Legal department. Legal services can be provided to employees seamlessly without them having to deal with the difficulties of interdepartmental collaboration for resolution.
 
 ## Journey of a universal request for a legal service
 
 The ServiceNow® Universal Request application enables cross-departmental reporting from the time of an initial employee request through the final issue resolution. For more information, see [Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-landing-limitedaccess.md).
 
-The [[legal-request-management-landing-page|Legal Request Management]] application provides a unified mechanism for employees to get all the information, services, and help that they need from the legal department.
+The Legal Request Management application provides a unified mechanism for employees to get all the information, services, and help that they need from the legal department.
 
 You can fulfill requests across the organization to improve the employee experience by integrating legal requests with universal requests.
 
--   An employee submits a universal request using the **Request help** option in the [[employee-center-landing-page|Employee Center]] portal. The employee can also submit a direct legal request attached to a universal request.
+-   An employee submits a universal request using the **Request help** option in the Employee Center portal. The employee can also submit a direct legal request attached to a universal request.
 -   A routing agent identifies this request related to the Legal department and creates a legal request from the universal request. The legal request becomes the primary ticket of the universal request.
 -   Based on the services requested, a legal fulfiller can do the following while working on the legal request:
     -   Provides a resolution and closes the legal request. The universal request also gets closed.
@@ -53,16 +53,9 @@ Also, you've to configure various settings in Universal Request. For more inform
 -   **[Configure Universal Request for legal services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/configure-universal-request-legal.md)**  
 Review the base system configurations for integration of legal requests with universal requests and configure as per your business needs.
 -   **[Create a legal request from a universal request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/create-legal-request-universal-request.md)**  
-[[create-legal-request-universal-request|Create a legal request from a universal request]] to get the Legal department's assistance in resolving the request.
+Create a legal request from a universal request to get the Legal department's assistance in resolving the request.
 -   **[Transfer a legal ticket to another department](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/transfer-legal-request-universal-request.md)**  
 Transfer a legal ticket \(legal request or legal matter\) associated with a universal request to another department or back to the universal request for processing and resolution.
 
 **Parent Topic:**[Integration of Legal Service Delivery with ServiceNow applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snclc-integrate-lsd-lp.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[legal-management-overview|Legal Service Delivery]]
-- [[legal-request-management-landing-page|Legal Request Management]]
-- [[employee-center-landing-page|Employee Center]]
-- [[create-legal-request-universal-request|Create a legal request from a universal request]]

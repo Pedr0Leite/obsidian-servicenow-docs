@@ -14,7 +14,7 @@ breadcrumb: [Configure in Virtual Agent, Configure, Now Assist for IT Service Ma
 
 # ITSM Virtual Agent pre-built LLM topics
 
-[[itsm-virtual-agent|ITSM Virtual Agent]] includes pre-built Large Language Model \(LLM\) topic conversations designed to help your users complete the common IT-related tasks such as checking and resetting a password.
+ITSM Virtual Agent includes pre-built Large Language Model \(LLM\) topic conversations designed to help your users complete the common IT-related tasks such as checking and resetting a password.
 
 LLMs are used to identify and trigger the action that a user wants to perform.
 
@@ -56,7 +56,7 @@ Check pending approvals that are needed to take action upon and pick those to be
 
 </td></tr><tr><td>
 
-Check your device's health using [[dex-landing|Digital End-User Experience]] \(DEX\)
+Check your device's health using Digital End-User Experience \(DEX\)
 
 </td><td>
 
@@ -68,7 +68,7 @@ Use the Now Assist for ITSM Virtual Agent to monitor your device's performance a
 
 </td><td>
 
-Quickly generate the explanation of the calculated risk rating for a change request by using the change request risk explanation skill in the [[now-assist-itsm|Now Assist for IT Service Management \(ITSM\)]] application.
+Quickly generate the explanation of the calculated risk rating for a change request by using the change request risk explanation skill in the Now Assist for IT Service Management \(ITSM\) application.
 
 </td></tr></tbody>
 </table>## Core ITSM topics
@@ -334,9 +334,3 @@ Show Approval Details
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[itsm-virtual-agent|ITSM Virtual Agent]]
-- [[dex-landing|Digital End-User Experience]]
-- [[now-assist-itsm|Now Assist for IT Service Management \(ITSM\)]]

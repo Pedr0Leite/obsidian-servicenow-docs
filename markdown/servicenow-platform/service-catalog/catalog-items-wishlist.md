@@ -20,7 +20,7 @@ For example, you need a laptop with specific software installed on it. Add the l
 
 Users with catalog\_admin or admin role can enable/disable the wish list feature and [configure the wish list cart](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/service-catalog-screens.md) for end users. By default, the wish list is always disabled for a catalog.
 
-To enable the wish list feature for catalog end users, select the [[check-box|check box]] for **Enable Wish List** in the [catalog record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_MultipleServiceCatalogs.md).
+To enable the wish list feature for catalog end users, select the check box for **Enable Wish List** in the [catalog record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_MultipleServiceCatalogs.md).
 
 The wish list feature does not function if the property glide.ui.doctype is set to **false**.
 
@@ -40,6 +40,3 @@ To update a wish list item, go to wish list cart and click **View** for the item
 
 **Parent Topic:**[Service Catalog for managers and end users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_UsingTheServiceCatalog.md)
 
-## Related
-
-- [[check-box|Check box]]

@@ -14,7 +14,7 @@ breadcrumb: [Now Assist for Employee Experience, Unified Employee Experience, Em
 
 # Explore Now Assist for Employee Experience
 
-With the [[now-assisit-employee-exp|Now Assist for Employee Experience]] application, your employees can use Now Assist in Virtual Agent to quickly check the status of their work through conversations.
+With the Now Assist for Employee Experience application, your employees can use Now Assist in Virtual Agent to quickly check the status of their work through conversations.
 
 ## Now Assist for Employee Experience overview
 
@@ -69,7 +69,7 @@ For more information about the AI agent, see [Company News &amp; Events AI Agent
 ## Learn more about the Now Assist journey
 
 -   Get an overview of the Now Assist framework.
--   [[discover-lxp|Discover]] the Now Assist panel.
+-   Discover the Now Assist panel.
 -   Explore the Now Assist skills available.
 -   Activate and configure a Now Assist skill using the Now Assist Admin console.
 -   Analyze and monitor Now Assist skill usage and performance.
@@ -95,7 +95,3 @@ Get a quick overview of the key information related to the Now Assist for Employ
 
 [bundle-platai.now-assist-case-summary]
 
-## Related
-
-- [[now-assisit-employee-exp|Now Assist for Employee Experience]]
-- [[discover-lxp|Discover]]

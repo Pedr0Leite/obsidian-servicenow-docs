@@ -14,7 +14,7 @@ breadcrumb: [Configure, Software Bill of Materials, Unified Security Exposure Ma
 
 # Install the supported applications for Software Bill of Materials
 
-Download and activate the required applications for the [[sbom-landing|Software Bill of Materials]] \(SBOM\) application prior to uploading files.
+Download and activate the required applications for the Software Bill of Materials \(SBOM\) application prior to uploading files.
 
 ## Before you begin
 
@@ -36,7 +36,7 @@ Roles required: admin for download, installation, and activation of all applicat
 
     -   [Install a ServiceNow Store application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_InstallApplications.md)
     -   [Install an update to a ServiceNow Store application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_InstallUpdates.md)
-2.  If you want to view your SBOM data in the SBOM Workspace, view imported third-party vulnerability intelligence, assess your risk exposure, and remediate [[vulnerabilities|vulnerabilities]] with the [[avr-landing|Application Vulnerability Response]] and [[vuln-landing-page|Vulnerability Response]] workflows, download the following applications:
+2.  If you want to view your SBOM data in the SBOM Workspace, view imported third-party vulnerability intelligence, assess your risk exposure, and remediate vulnerabilities with the Application Vulnerability Response and Vulnerability Response workflows, download the following applications:
 
     -   Vulnerability Response and its dependencies
     -   Vulnerability Response Integration with NVD
@@ -92,9 +92,3 @@ Roles required: admin for download, installation, and activation of all applicat
 
 Upload your SBOM files. See [Upload Software Bill of Materials files manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sbom-core/vr-sbom-ingest.md) and [Uploading Software Bill of Materials files using a REST API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sbom-core/vr-sbom-preparing-upload.md) for more information.
 
-## Related
-
-- [[sbom-landing|Software Bill of Materials]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[avr-landing|Application Vulnerability Response]]
-- [[vuln-landing-page|Vulnerability Response]]

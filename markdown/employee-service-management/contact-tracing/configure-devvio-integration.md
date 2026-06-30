@@ -14,7 +14,7 @@ breadcrumb: [Collecting risk scores in Contact Tracing, Contact Tracing, Safe Wo
 
 # Configure Devvio integration
 
-Configure [[contact-tracing|Contact Tracing]] properties to import risk scores from the DevvTrace platform using the Devvio API.
+Configure Contact Tracing properties to import risk scores from the DevvTrace platform using the Devvio API.
 
 ## Before you begin
 
@@ -96,6 +96,3 @@ The Devvio Users Risk Report updates daily at midnight \(00:00\) instance time. 
 
 **Parent Topic:**[Collecting risk scores in Contact Tracing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/contact-tracing-collect-risk-scores.md)
 
-## Related
-
-- [[contact-tracing|Contact Tracing]]

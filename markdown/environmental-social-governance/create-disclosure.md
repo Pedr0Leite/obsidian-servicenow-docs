@@ -158,7 +158,7 @@ Users who contribute to the disclosure document. This field appears only when th
 
 5.  To open and edit the document that is created, **Open document**.
 
-    To insert data points in the document, open the add-in in the Word document. For details, refer to [[import-data-into-ms-word|Import data in to a Microsoft Word disclosure report]]. If the link does not open the disclosure, see the [Troubleshooting checklist for narrative disclosures \[KB1702819\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB1702819) article in the Now Support Knowledge Base.
+    To insert data points in the document, open the add-in in the Word document. For details, refer to [Import data in to a Microsoft Word disclosure report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/import-data-into-ms-word.md). If the link does not open the disclosure, see the [Troubleshooting checklist for narrative disclosures \[KB1702819\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB1702819) article in the Now Support Knowledge Base.
 
 6.  Close the document before syncing data.
 
@@ -173,9 +173,5 @@ Users who contribute to the disclosure document. This field appears only when th
 9.  To request approval from the necessary approvers, select **Request Approval**.
 
 
-**Parent Topic:**[[esg-disclosures|Disclosures in Operational Sustainability Management \(formerly ESG Management\)]]
+**Parent Topic:**[Disclosures in Operational Sustainability Management \(formerly ESG Management\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/esg-disclosures.md)
 
-## Related
-
-- [[import-data-into-ms-word|Import data in to a Microsoft Word disclosure report]]
-- [[esg-disclosures|Disclosures in Operational Sustainability Management \(formerly ESG Management\)]]

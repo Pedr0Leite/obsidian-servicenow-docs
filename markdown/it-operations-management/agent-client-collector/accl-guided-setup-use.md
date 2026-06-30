@@ -14,12 +14,12 @@ breadcrumb: [Agent Client Collector Log Analytics setup, ACC deployment - server
 
 # Set up Agent Client Collector Log Analytics using guided setup
 
-Configure [[acc-log-analytics|Agent Client Collector Log Analytics]] on your ServiceNow instance using guided setup.
+Configure Agent Client Collector Log Analytics on your ServiceNow instance using guided setup.
 
 ## Before you begin
 
--   Agent Client Collector Log Analytics has a dependency on the ServiceNow® [[c_EM|Event Management]] application. Set up Event Management before you configure Agent Client Collector Log Analytics. For more information, see [Event Management setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/c_EMConfiguration.md).
--   ServiceNow [[workspace-dashboard-use|Service Operations Workspace]] ITOM Apps must be installed. If it is not installed already, install it manually. For more information, see [Install Service Operations Workspace for ITOM application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/install-sow-itom-apps.md).
+-   Agent Client Collector Log Analytics has a dependency on the ServiceNow® Event Management application. Set up Event Management before you configure Agent Client Collector Log Analytics. For more information, see [Event Management setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/c_EMConfiguration.md).
+-   ServiceNow Service Operations Workspace ITOM Apps must be installed. If it is not installed already, install it manually. For more information, see [Install Service Operations Workspace for ITOM application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/install-sow-itom-apps.md).
 
 **Note:** Currently, this setup only supports basic authentication with the MID Server. mTLS is not supported.
 
@@ -35,7 +35,7 @@ Agent Client Collector Log Analytics guided setup provides a sequence of tasks t
 
 1.  Navigate to **All** &gt; **Guided Setup** &gt; **ITOM Guided Setup**.
 
-    The [[r_ITOMApplications|IT Operations Management]] Guided Setup welcome screen appears.
+    The IT Operations Management Guided Setup welcome screen appears.
 
 2.  Select **Get Started**.
 
@@ -71,9 +71,3 @@ Agent Client Collector Log Analytics guided setup provides a sequence of tasks t
 
 **Parent Topic:**[Agent Client Collector Log Analytics setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/accl-setup.md)
 
-## Related
-
-- [[acc-log-analytics|Agent Client Collector Log Analytics]]
-- [[c_EM|Event Management]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[r_ITOMApplications|IT Operations Management]]

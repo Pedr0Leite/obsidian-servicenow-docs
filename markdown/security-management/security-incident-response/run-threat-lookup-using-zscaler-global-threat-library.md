@@ -14,7 +14,7 @@ breadcrumb: [Security Incident Response integration with Zscaler, Security Incid
 
 # Run a threat lookup by using the Zscaler global threat library
 
-Run a [[tisc-threat-lookup|threat lookup]] on an observable by using the Zscaler Internet Access product’s global threat library. Zscaler supports lookups against [[c_Observables|observables]] type IPs, URLs, and domains.
+Run a threat lookup on an observable by using the Zscaler Internet Access product’s global threat library. Zscaler supports lookups against observables type IPs, URLs, and domains.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_si.admin
 
 ## About this task
 
-You can perform [[threat-intel-landing-page|threat intelligence]] lookups on one or more observables to determine whether they are associated with known security threats. When an observable is associated with a security incident for the first time, all the active threat lookup implementations in the ServiceNow AI Platform perform an auto-threat lookup. You can view the results against the Threat Look Up Results related list.
+You can perform threat intelligence lookups on one or more observables to determine whether they are associated with known security threats. When an observable is associated with a security incident for the first time, all the active threat lookup implementations in the ServiceNow AI Platform perform an auto-threat lookup. You can view the results against the Threat Look Up Results related list.
 
 By default, the configuration with the least order is picked to perform the threat lookup against Zscaler Internet Access product's global threat library. You can also perform the threat lookup manually.
 
@@ -34,16 +34,10 @@ By default, the configuration with the least order is picked to perform the thre
 
 3.  Select **Show All Related Lists** and the **Associated Observables** tab.
 
-4.  Select the observable and then from the Actions menu, select **[[tisc-run-threat-lookup|Run Threat Lookup]]**.
+4.  Select the observable and then from the Actions menu, select **Run Threat Lookup**.
 
 
 ## Result
 
 After you initiate the threat lookup, you can view the Work notes to see the status of your submission.
 
-## Related
-
-- [[tisc-threat-lookup|Threat Lookup]]
-- [[c_Observables|Observables]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[tisc-run-threat-lookup|Run Threat Lookup]]

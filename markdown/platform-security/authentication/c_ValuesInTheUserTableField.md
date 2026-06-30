@@ -16,8 +16,5 @@ breadcrumb: [Set up a NameID policy for SAML, Service Provider \(SP\) system pro
 
 Ensure that the integration's User table field contains appropriate matching values.
 
-For example, if the integration uses the [[email|email]] field as the `NameID` token, ensure that the instance lists the same email address as the IdP. The integration fails to authenticate any user who does not have a matching value for the `NameID` token.
+For example, if the integration uses the email field as the `NameID` token, ensure that the instance lists the same email address as the IdP. The integration fails to authenticate any user who does not have a matching value for the `NameID` token.
 
-## Related
-
-- [[email|Email]]

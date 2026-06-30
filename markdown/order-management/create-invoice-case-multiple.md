@@ -22,7 +22,7 @@ Role required: sn\_customerservice.customer
 
 This task describes how to create an invoice case using the playbook experience in the Business Portal. The playbook experience enables you to dispute various invoice discrepancies depending on the scope you select. For multiple invoices, you can report billing location and shipping location issues.
 
-Creating invoice cases using the Now Assist panel limits disputes to quantity issues only. For more information, see [[dispute-invoice-issues-now-assist|Dispute invoice issues using Now Assist Virtual Assistant]].
+Creating invoice cases using the Now Assist panel limits disputes to quantity issues only. For more information, see [Dispute invoice issues using Now Assist Virtual Assistant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/dispute-invoice-issues-now-assist.md).
 
 ## Procedure
 
@@ -32,7 +32,7 @@ Creating invoice cases using the Now Assist panel limits disputes to quantity is
 
 3.  Create an invoice case.
 
-    1.  On the form, fill in the [[fields|fields]].
+    1.  On the form, fill in the fields.
 
 <table id="table_kph_1wl_1fc"><thead><tr><th>
 
@@ -97,7 +97,7 @@ Optional brief description.
 
     2.  On the Add invoices to case window, select the invoices for which you want to create a case and select **Add**.
 
-        For a description of the Add invoices to case list view, see [[add-invoices-to-case-list|Add invoices to case list]].
+        For a description of the Add invoices to case list view, see [Add invoices to case list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/add-invoices-to-case-list.md).
 
         Invoice case lines are created corresponding to the invoices that you selected.
 
@@ -105,7 +105,7 @@ Optional brief description.
 
         If you no longer want to change an invoice case line item, select it, select the drop-down button next to **Edit** and select **Delete** to remove it from the list of items to be modified.
 
-    4.  [[Modify|Modify]] the billing or shipping location, or both, on the Edit item dialog box.
+    4.  Modify the billing or shipping location, or both, on the Edit item dialog box.
 
         |Field|Description|
         |-----|-----------|
@@ -127,15 +127,7 @@ The invoice case is created with the invoice case line items corresponding to th
 
 ## What to do next
 
-Track the status of your invoice case. For more information, see [[view-invoice-cases-business-portal|View invoice case details in the Business Portal]].
+Track the status of your invoice case. For more information, see [View invoice case details in the Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/view-invoice-cases-business-portal.md).
 
-Follow up on your invoice case. For more information, see [[manage-invoice-cases-bp|Communicate and share supporting documents for an invoice case from Business Portal]].
+Follow up on your invoice case. For more information, see [Communicate and share supporting documents for an invoice case from Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/manage-invoice-cases-bp.md).
 
-## Related
-
-- [[dispute-invoice-issues-now-assist|Dispute invoice issues using Now Assist Virtual Assistant]]
-- [[add-invoices-to-case-list|Add invoices to case list]]
-- [[view-invoice-cases-business-portal|View invoice case details in the Business Portal]]
-- [[manage-invoice-cases-bp|Communicate and share supporting documents for an invoice case from Business Portal]]
-- [[fields|Fields]]
-- [[Modify|Modify]]

@@ -14,7 +14,7 @@ breadcrumb: [Service Exchange configuration, Manage refresh of assets using Zero
 
 # Activate the remote task definitions
 
-Activate the remote task definitions published by the provider on your instance so that your provider can fulfill your [[zero-touch-asset-refresh|Zero Touch Refresh]] requests.
+Activate the remote task definitions published by the provider on your instance so that your provider can fulfill your Zero Touch Refresh requests.
 
 ## Before you begin
 
@@ -44,6 +44,4 @@ Role required: admin
 
 7.  In the pop-up window, verify the mappings of the inbound and outbound variables and select **OK**.
 
-## Related
 
-- [[zero-touch-asset-refresh|Zero Touch Refresh]]

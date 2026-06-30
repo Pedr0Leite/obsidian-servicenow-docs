@@ -12,7 +12,7 @@ breadcrumb: [Analytics, Monitoring instance health with Instance Observer, Platf
 
 # Analyze user experience and monitor application performance in Instance Observer
 
-Get visibility into the operational metrics of applications and their [[instance-observer-performance|performance]]. You can find out the number of applications per instance, the number of pages within each application, page-level response time, user interaction frequency with each application, and page access frequency by users within each application.
+Get visibility into the operational metrics of applications and their performance. You can find out the number of applications per instance, the number of pages within each application, page-level response time, user interaction frequency with each application, and page access frequency by users within each application.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **[[impact-landing-page|Impact]]** &gt; **[[platform-health-idi|Platform Health]]** &gt; **Monitor** &gt; **Instance Observer** &gt; **Analytics** &gt; **[[user-experience-insights|User Experience]]**.
+1.  Navigate to **Impact** &gt; **Platform Health** &gt; **Monitor** &gt; **Instance Observer** &gt; **Analytics** &gt; **User Experience**.
 
 2.  In the **Overview** tab of the User Experience page, select an instance from the **Instance** field.
 
@@ -63,12 +63,5 @@ Role required: admin
 13. Select any link in the **Interaction ID** column to view the details of either the slowest or fastest instance details.
 
 
-**Parent Topic:**[[io-analytics|Analytics]]
+**Parent Topic:**[Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-analytics.md)
 
-## Related
-
-- [[io-analytics|Analytics]]
-- [[instance-observer-performance|Performance]]
-- [[impact-landing-page|Impact]]
-- [[platform-health-idi|Platform Health]]
-- [[user-experience-insights|User Experience]]

@@ -26,7 +26,7 @@ When an interaction with a customer begins, the Banking CSR support AI agent wil
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Initiate an interaction when a customer contacts you.
 
@@ -56,6 +56,3 @@ The AI agent answers your questions using information from its configured knowle
 
 [Agentic Contact Center for Banking AI agents overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/agentic-contact-center-for-banking-agents-overview.md)
 
-## Related
-
-- [[fso-overview|Financial Services]]

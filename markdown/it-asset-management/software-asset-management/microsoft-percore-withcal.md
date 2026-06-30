@@ -25,7 +25,7 @@ To license the on-premise installation of these products using the Per Core \(wi
 
 **Note:** You can either allocate to individual hosts or individual virtual machines, not to cluster.
 
-You can either allocate manually, or the [[c_SoftwareAssetMgmt|Software Asset Management]] application can automatically select the most cost-effective licensing option based on optimization criteria. For more information about how to perform allocation, see [Allocation management](https://www.servicenow.com/community/sam-blog/allocation-management-on-servicenow-sam-pro/ba-p/2649232) and how the Software Asset Management application performs automated optimization, see [View realized and potential cost-based licensing optimizations for Microsoft](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/view-cost-based-licensing-optimizations-microsoft.md).
+You can either allocate manually, or the Software Asset Management application can automatically select the most cost-effective licensing option based on optimization criteria. For more information about how to perform allocation, see [Allocation management](https://www.servicenow.com/community/sam-blog/allocation-management-on-servicenow-sam-pro/ba-p/2649232) and how the Software Asset Management application performs automated optimization, see [View realized and potential cost-based licensing optimizations for Microsoft](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/view-cost-based-licensing-optimizations-microsoft.md).
 
 **Note:** Both options, whether licensing by physical cores or licensing by individual virtual machines, come with their own set of Microsoft rules that must be followed. For more information, see [Windows Server Standard, Datacenter, and Essentials](https://www.microsoft.com/licensing/terms/productoffering/WindowsServerStandardDatacenterEssentials/EAEAS).
 
@@ -144,6 +144,3 @@ Supported
 </td></tr></tbody>
 </table>**Parent Topic:**[Software license maintenance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/software-license-maintenance.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

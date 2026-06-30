@@ -14,7 +14,7 @@ breadcrumb: [Configure action plan access in the Employee Center, Configure, Jou
 
 # Update the Employee Center theme
 
-Install the [[employee-center-landing-page|Employee Center]] app from the ServiceNow Store to update the EC UI theme.
+Install the Employee Center app from the ServiceNow Store to update the EC UI theme.
 
 ## Before you begin
 
@@ -54,6 +54,3 @@ You can update Employee Center menu items and links in My Active Items.
 -   [Add a Journey Accelerator action plan link to My Active Items list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-accelerator/add-ja-action-plan-myitems-list.md)
 -   [Add a Journey Accelerator action plan menu to the Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-accelerator/add-ja-action-plan-menu-ec-header.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

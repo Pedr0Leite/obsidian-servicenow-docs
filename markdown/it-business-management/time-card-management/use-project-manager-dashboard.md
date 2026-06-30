@@ -14,7 +14,7 @@ breadcrumb: [Analytics Project manager, Time Card management, Project Portfolio 
 
 # Use the Analytics Project manager
 
-The [[project-manager-dashboard|Analytics Project manager]] shows the time card reports for the selected projects.
+The Analytics Project manager shows the time card reports for the selected projects.
 
 ## About this task
 
@@ -26,7 +26,7 @@ Role required: it\_project\_manager, timecard\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[time-sheets|Time Sheets]]** &gt; **Analytics Project manager**.
+1.  Navigate to **All** &gt; **Time Sheets** &gt; **Analytics Project manager**.
 
 2.  Select a project and date range from the **Project** and **Date** choice lists.
 
@@ -35,7 +35,3 @@ Role required: it\_project\_manager, timecard\_admin
 
 **Parent Topic:**[Analytics Project manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/project-manager-dashboard.md)
 
-## Related
-
-- [[project-manager-dashboard|Analytics Project manager]]
-- [[time-sheets|Time Sheets]]

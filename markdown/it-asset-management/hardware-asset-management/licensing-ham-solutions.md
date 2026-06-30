@@ -15,9 +15,9 @@ breadcrumb: [Hardware Asset Management subscription, Explore, Hardware Asset Man
 
 # Licensing framework for Hardware Asset Management solutions
 
-Manage the subscription units purchased and consumed by your organization for all the [[ham-landing-page|Hardware Asset Management]] solutions with the improved HAM licensing framework. When more than one Hardware Asset Management solution is activated on a ServiceNow instance, any licensable and opted-in resource category is licensed only under one solution.
+Manage the subscription units purchased and consumed by your organization for all the Hardware Asset Management solutions with the improved HAM licensing framework. When more than one Hardware Asset Management solution is activated on a ServiceNow instance, any licensable and opted-in resource category is licensed only under one solution.
 
-The licensed solutions like [[ham-for-ztm|Hardware Asset Management integration with Zero Touch Mobility]] and Hardware Asset Management integration with Telecommunications Network Inventory install the Hardware Asset Management on your ServiceNow instance.
+The licensed solutions like Hardware Asset Management integration with Zero Touch Mobility and Hardware Asset Management integration with Telecommunications Network Inventory install the Hardware Asset Management on your ServiceNow instance.
 
 Each Hardware Asset Management solution supports some default resource categories that can avail Hardware Asset Management features and workflows.
 
@@ -92,7 +92,7 @@ You can view the subscription details of your Hardware Asset Management applicat
 
 ## Exclusion of Operational Technology \(OT\) hardware assets from HAM licensing
 
-The licensing model of the [[ot-asset-management|OT Asset Management]] \(OTAM\) application supports a few default hardware resource categories to license OT hardware assets. For more details on OT hardware assets, see [OT Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/ot-asset-ws-otam.md). These OTAM hardware resource categories have equivalent HAM licensing resource categories.
+The licensing model of the OT Asset Management \(OTAM\) application supports a few default hardware resource categories to license OT hardware assets. For more details on OT hardware assets, see [OT Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/ot-asset-ws-otam.md). These OTAM hardware resource categories have equivalent HAM licensing resource categories.
 
 |HAM resource category|Equivalent OTAM hardware resource category|
 |---------------------|------------------------------------------|
@@ -117,7 +117,7 @@ When you activate all the Hardware Asset Management solutions along with the OT 
 **Related topics**  
 
 
-[Hardware [[am-landing-page|Asset Management]] licensing]()
+[Hardware Asset Management licensing]()
 
 [Hardware Asset Management license exclusion]()
 
@@ -125,9 +125,3 @@ When you activate all the Hardware Asset Management solutions along with the OT 
 
 [Telecommunications Network Inventory integration with Hardware Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/integration-with-hardware-asset-management.md)
 
-## Related
-
-- [[ham-landing-page|Hardware Asset Management]]
-- [[ham-for-ztm|Hardware Asset Management integration with Zero Touch Mobility]]
-- [[ot-asset-management|OT Asset Management]]
-- [[am-landing-page|Asset Management]]

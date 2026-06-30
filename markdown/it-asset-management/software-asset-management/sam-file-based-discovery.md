@@ -14,7 +14,7 @@ breadcrumb: [Exploring Software Asset Management, Software Asset Management, IT 
 
 # File Signature Normalization
 
-File-based discovery finds files on UNIX or Windows servers and processes them with an established set of rules that enhance the identification of installed software. Use the results to monitor specific file types on network servers for security purposes or to manage your software licenses with the File Signature Normalization plugin for [[c_SoftwareAssetMgmt|Software Asset Management]] - Professional \(SAMP\).
+File-based discovery finds files on UNIX or Windows servers and processes them with an established set of rules that enhance the identification of installed software. Use the results to monitor specific file types on network servers for security purposes or to manage your software licenses with the File Signature Normalization plugin for Software Asset Management - Professional \(SAMP\).
 
 For more information on the file-based discovery, see the [File-based Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/file-based-discovery.md).
 
@@ -36,7 +36,7 @@ If a discovered file name does not match a predefined file signature rule in the
 
 If you opt in to the content service, these custom file signatures are sent back to the CDS for further analysis and inclusion in the content service for future discovery. You can also restrict some custom file signatures from being sent to the CDS by changing the value in the Exclude From CDS column to True.
 
-**Note:** [[sam-software-discovery|Software discovery]] [[c_Models|models]] are stored in the Software Discovery Model \[cmdb\_sam\_sw\_discovery\_model\] table. Unlike pattern discovery normalization, discovery models created by File Signature Normalization do not go through the normalization process automatically and are ignored during scheduled normalization jobs.
+**Note:** Software discovery models are stored in the Software Discovery Model \[cmdb\_sam\_sw\_discovery\_model\] table. Unlike pattern discovery normalization, discovery models created by File Signature Normalization do not go through the normalization process automatically and are ignored during scheduled normalization jobs.
 
 File Signature Normalization also identifies duplicates. Software installations that are discovered on the same configuration item, but from different discovery sources, are considered duplicates. All installations that are identified are marked as inactive by default. Once the duplication has been deleted, the remaining installation is marked as active and the discovery model picks up all associated installs.
 
@@ -66,8 +66,3 @@ File Signature Normalization adds the following tables.
 
 **Parent Topic:**[Exploring Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/explore-sam-workspace.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-software-discovery|Software discovery]]
-- [[c_Models|Models]]

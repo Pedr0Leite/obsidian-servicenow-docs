@@ -15,7 +15,7 @@ breadcrumb: [IT Asset Management purchase order invoice processing, Integrate, A
 
 # Invoice processing using IT Asset Management purchase order
 
-Process [[invoices|invoices]] for IT Asset Management purchase orders using the ITAM-APO integration to validate received quantities against invoiced quantities and handle exceptions.
+Process invoices for IT Asset Management purchase orders using the ITAM-APO integration to validate received quantities against invoiced quantities and handle exceptions.
 
 ## Before you begin
 
@@ -23,9 +23,9 @@ Role required: Accounts\_payable\_specialist \[sn\_ap\_apm.accounts\_payable\_sp
 
 ## Procedure
 
-1.  Navigate to **Source-to-Workspace** &gt; **[[acc-pay-mgmt-landing-page|Accounts Payable Operations]]**.
+1.  Navigate to **Source-to-Workspace** &gt; **Accounts Payable Operations**.
 
-2.  Create a [[purchase-order-table|purchase order]] in ITAM.
+2.  Create a purchase order in ITAM.
 
     For more information on creating purchase order in ITAM, see [Create a purchase order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/t_CreateAPurchaseOrder.md).
 
@@ -40,8 +40,3 @@ Role required: Accounts\_payable\_specialist \[sn\_ap\_apm.accounts\_payable\_sp
 
 The invoice processing of ITAM purchase order is successfully performed.
 
-## Related
-
-- [[invoices|Invoices]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[purchase-order-table|Purchase order]]

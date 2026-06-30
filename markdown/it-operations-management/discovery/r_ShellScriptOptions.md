@@ -14,7 +14,7 @@ breadcrumb: [SSHCommand probe, List of Discovery probes, Discovery probes and se
 
 # Shell script options
 
-The [[c_SSHCommandProbe|SSHCommand probe]] supports the following scripting options in the ECC queue name field.
+The SSHCommand probe supports the following scripting options in the ECC queue name field.
 
 |Summary|Syntax|Description|
 |-------|------|-----------|
@@ -23,6 +23,3 @@ The [[c_SSHCommandProbe|SSHCommand probe]] supports the following scripting opti
 
 **Parent Topic:**[SSHCommand probe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_SSHCommandProbe.md)
 
-## Related
-
-- [[c_SSHCommandProbe|SSHCommand probe]]

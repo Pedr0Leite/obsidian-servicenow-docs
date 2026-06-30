@@ -14,7 +14,7 @@ breadcrumb: [Dynamic Guidance, Adoption services, Configure user experiences]
 
 # Explore
 
-[[dynamic-guidance|Dynamic Guidance]] provides an assistance that is fully embedded within the product, enabling users to access relevant information without navigating away from their Workflow.
+Dynamic Guidance provides an assistance that is fully embedded within the product, enabling users to access relevant information without navigating away from their Workflow.
 
 Explore various features of Dynamic Guidance:
 
@@ -27,7 +27,7 @@ Explore various features of Dynamic Guidance:
 -   Option for multiple users running this simultaneously
 -   Enabled to work across the ecosystem of ServiceNow
 -   Near real-time experience and minimized latency
--   [[browser-support|Browser support]]: In Firefox, while the entire screen or the app gets shared with screen share, you can choose to share only the desired tab in Google Chrome
+-   Browser support: In Firefox, while the entire screen or the app gets shared with screen share, you can choose to share only the desired tab in Google Chrome
 
     **Note:** Screen share is not supported in Safari.
 
@@ -51,7 +51,3 @@ When you ask a question that requires documentation lookup:
 6.  Results return: RAG API Handler formats and returns relevant documentation snippets
 7.  Response Generation: Gemini synthesizes the answer using the retrieved content
 
-## Related
-
-- [[dynamic-guidance|Dynamic Guidance]]
-- [[browser-support|Browser support]]

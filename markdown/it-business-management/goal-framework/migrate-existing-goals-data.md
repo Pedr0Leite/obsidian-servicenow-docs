@@ -35,7 +35,7 @@ Use the scheduled job to migrate legacy goals and strategy data to the Goal Fram
 
 2.  Search for and click the **Migrate Goal, Strategy, and Work item data to the Goal Framework and related Planning item tables** scheduled job.
 
-3.  On the [[scheduled-script-execution-form-gf|Scheduled Script Execution form]]:
+3.  On the Scheduled Script Execution form:
 
     1.  Ensure that the frequency is selected as **On Demand** in the **Run** field.
 
@@ -45,6 +45,4 @@ Use the scheduled job to migrate legacy goals and strategy data to the Goal Fram
 
 4.  Click **Execute Now**.
 
-## Related
 
-- [[scheduled-script-execution-form-gf|Scheduled Script Execution form]]

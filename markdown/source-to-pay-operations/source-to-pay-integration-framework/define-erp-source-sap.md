@@ -14,7 +14,7 @@ breadcrumb: [Configure, Source-to-Pay integration with SAP, Integration with thi
 
 # Define ERP source configuration for SAP
 
-[[erp-source-configuration|ERP source configuration]] determines the [[erp-source|ERP source]] to which your ERP system connects. Map the integration payload with the SAP tables.
+ERP source configuration determines the ERP source to which your ERP system connects. Map the integration payload with the SAP tables.
 
 \[Omitted video\] Description: Define ERP source configuration for SAP.
 
@@ -87,7 +87,3 @@ By default, the SAP base system provides 14 integration services. For other SAP 
 
 [Scheduled jobs to look up primary data in SAP]()
 
-## Related
-
-- [[erp-source-configuration|ERP source configuration]]
-- [[erp-source|ERP source]]

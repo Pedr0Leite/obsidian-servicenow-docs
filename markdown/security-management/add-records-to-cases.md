@@ -12,11 +12,11 @@ breadcrumb: [Create cases in Security Case Management, Security Case Management,
 
 # Add artifacts to a case
 
-After you have created a case, you can add artifacts, such as security incidents, CIs, and [[c_IoCs|indicators of compromise]], to the case. These artifacts act as clues in solving the case.
+After you have created a case, you can add artifacts, such as security incidents, CIs, and indicators of compromise, to the case. These artifacts act as clues in solving the case.
 
 ## Before you begin
 
-The [[threat-intel-landing-page|Threat Intelligence]] plugin must be activated to use [[case-mgmt|Security Case Management]].
+The Threat Intelligence plugin must be activated to use Security Case Management.
 
 Role required: sn\_ti.case\_user\_write
 
@@ -43,28 +43,18 @@ Role required: sn\_ti.case\_user\_write
     The list appears in the selected tab and the selected artifacts are added to the list.
 
 
-**Parent Topic:**[[create-cases-in-case-mgmt|Create cases in Security Case Management]]
+**Parent Topic:**[Create cases in Security Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/create-cases-in-case-mgmt.md)
 
 **Related topics**  
 
 
 [Associate MITRE-ATT&amp;CK information with security case]()
 
-[[add-records-to-cases-threat|Add IoCs and observables to an existing case]]
+[Add IoCs and observables to an existing case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/add-records-to-cases-threat.md)
 
-[[add-sec-inc-to-cases|Add security incidents to an existing case]]
+[Add security incidents to an existing case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/add-sec-inc-to-cases.md)
 
-[[add-cis-to-cases-sir|Add CIs to existing cases]]
+[Add CIs to existing cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/add-cis-to-cases-sir.md)
 
-[[add-users-to-cases-sir|Add affected users to existing cases]]
+[Add affected users to existing cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/add-users-to-cases-sir.md)
 
-## Related
-
-- [[create-cases-in-case-mgmt|Create cases in Security Case Management]]
-- [[add-records-to-cases-threat|Add IoCs and observables to an existing case]]
-- [[add-sec-inc-to-cases|Add security incidents to an existing case]]
-- [[add-cis-to-cases-sir|Add CIs to existing cases]]
-- [[add-users-to-cases-sir|Add affected users to existing cases]]
-- [[c_IoCs|Indicators of compromise]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[case-mgmt|Security Case Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure a response processor, Resource blocks in Cloud Provisioni
 
 # Virtual server response processor example
 
-The **Create\_Virtual\_Server\_Response\_Processor** script, which is available by default in [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]], is the response processor that handles the creation of AWS virtual machine CIs.
+The **Create\_Virtual\_Server\_Response\_Processor** script, which is available by default in Cloud Provisioning and Governance, is the response processor that handles the creation of AWS virtual machine CIs.
 
 ## Create Virtual Server
 
@@ -172,6 +172,3 @@ return global.JSON.stringify(cloudModelString);
 
 **Parent Topic:**[Configure a response processor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/configure-response-processor.md)
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]

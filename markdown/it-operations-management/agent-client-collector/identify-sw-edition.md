@@ -40,11 +40,8 @@ Role required: agent\_client\_collector\_admin
 
 5.  Find the relevant software entry, and confirm the edition in the **Edition override** column.
 
-    The edition appears only after the **Software Installed** or **SAM [[r-discovery|Discovery]]** policy runs. By default, these policies runs once daily.
+    The edition appears only after the **Software Installed** or **SAM Discovery** policy runs. By default, these policies runs once daily.
 
 
 **Parent Topic:**[Deploying Agent Client Collector on endpoints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-endpoint-deployment.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

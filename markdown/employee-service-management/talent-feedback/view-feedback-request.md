@@ -14,7 +14,7 @@ breadcrumb: [Working with Skill feedback in Talent Feedback, Using Talent Feedba
 
 # View feedback requests
 
-You can view and feedback requests platform under the [[talent-feedback-landing|Talent Feedback]] module.
+You can view and feedback requests platform under the Talent Feedback module.
 
 ## Before you begin
 
@@ -40,6 +40,4 @@ Role required: admin
 
     **Note:** You can also view the **Talent Feedback Request Skills** in the related links section of the form.
 
-## Related
 
-- [[talent-feedback-landing|Talent Feedback]]

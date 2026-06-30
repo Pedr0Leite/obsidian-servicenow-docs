@@ -15,13 +15,13 @@ breadcrumb: [Exploring Now Assist in Virtual Agent, Now Assist in Virtual Agent,
 
 # LLM assistants
 
-LLM assistants help with large language model \(LLM\) topic discovery. The [[now-assist-in-va-landing|Now Assist in Virtual Agent]] assistant is the default LLM assistant created during the [[convint-landing-page|Conversational Interfaces]] Assistants guided setup.
+LLM assistants help with large language model \(LLM\) topic discovery. The Now Assist in Virtual Agent assistant is the default LLM assistant created during the Conversational Interfaces Assistants guided setup.
 
 If LLM topics aren't associated with an LLM assistant, they aren't discoverable and can't be tested from the home page via **Test assistant**. The **Test assistant** option only appears if you have an assistant selected in the home page **Select assistant** filter.
 
-When using the **Select assistant** filter, topic blocks or custom controls that aren’t associated with an LLM assistant, but are called by a topic that's associated with an LLM assistant, appear in this filtered **Select assistant** home page view. Nested topic blocks or custom controls don’t appear in the filtered home page view unless they’re directly associated with an LLM assistant. For more information about [[test-llm-topics|testing LLM topics]], see [Testing LLM topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/test-llm-topics.md). When a topic is associated with only one LLM assistant, the Assistant drop-down list defaults to that assistant name. If you have multiple assistants, select which assistant you want to work with using the Assistant drop-down list. For more information about creating multiple LLM assistants, see [[manage-llm-va|Manage LLM virtual agents on the Assistants screen]].
+When using the **Select assistant** filter, topic blocks or custom controls that aren’t associated with an LLM assistant, but are called by a topic that's associated with an LLM assistant, appear in this filtered **Select assistant** home page view. Nested topic blocks or custom controls don’t appear in the filtered home page view unless they’re directly associated with an LLM assistant. For more information about testing LLM topics, see [Testing LLM topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/test-llm-topics.md). When a topic is associated with only one LLM assistant, the Assistant drop-down list defaults to that assistant name. If you have multiple assistants, select which assistant you want to work with using the Assistant drop-down list. For more information about creating multiple LLM assistants, see [Manage LLM virtual agents on the Assistants screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/manage-llm-va.md).
 
-**Tip:** On the [[virtual-agent-landing-page|Virtual Agent]] Designer home page, there's an **Assistant settings** option in the side panel. Use this option to navigate quickly to the Conversational Interfaces Assistants page to review or update your LLM assistants. For more information on the guided setup, see [Configuring assistants overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/configure-now-assist-va.md).
+**Tip:** On the Virtual Agent Designer home page, there's an **Assistant settings** option in the side panel. Use this option to navigate quickly to the Conversational Interfaces Assistants page to review or update your LLM assistants. For more information on the guided setup, see [Configuring assistants overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/configure-now-assist-va.md).
 
 If you want your LLM setup topic to be discoverable in an LLM assistant, you must flag the active setup topic as discoverable. For example, if you create an LLM setup topic by duplicating the Now Assist Live Agent setup topic and want to associate the setup topic with an LLM assistant, you must flag the duplicated topic as discoverable. Flag the topic as discoverable on the home page once you create an LLM topic and associate it with an assistant. Select the More actions on this row icon \[Omitted image "kebab-menu.png"\] next to your topic, and then select **Discoverable**. A checkmark appears by the text to indicate the topic is now discoverable.
 
@@ -61,10 +61,3 @@ In the following example, for the promoted generative AI skill - Send Email, whe
 
 \[Omitted image "assistant-skill-appl.png"\] Alt text: Setting context profile.
 
-## Related
-
-- [[manage-llm-va|Manage LLM virtual agents on the Assistants screen]]
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[test-llm-topics|Testing LLM topics]]
-- [[virtual-agent-landing-page|Virtual Agent]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure a lifecycle event, Building a lifecycle event, Using Life
 
 # Configure a lifecycle event activity
 
-Create or modify a lifecycle event [[activity-lxp|activity]]. [[hr-lifecycle-events-landing-page-1|Lifecycle Events]] activities can be approvals, employee tasks, fulfiller activities, notifications, flows, content, or activity containers.
+Create or modify a lifecycle event activity. Lifecycle Events activities can be approvals, employee tasks, fulfiller activities, notifications, flows, content, or activity containers.
 
 ## Before you begin
 
@@ -267,7 +267,7 @@ Activity set that the activity is associated with.
 
 </td></tr><tr><td>
 
-Use badge from [[hr-service-configuration|HR service configuration]]
+Use badge from HR service configuration
 
 </td><td>
 
@@ -296,7 +296,7 @@ Defines whether the activity should trigger for the lifecycle event case. You ca
 </td></tr></tbody>
 </table>3.  Click **Save**.
 
-4.  In the associated HR task template, when the **HR task type** value is **HR service**, **Submit catalog item**, or **Submit order guide**, in the **Activity [[field-mappings-sf|Field Mappings]]** section, you can [[map-fields-navex|map fields]] from the parent lifecycle event case to the appropriate variables on the child activity that is generated when the employee activity is triggered.
+4.  In the associated HR task template, when the **HR task type** value is **HR service**, **Submit catalog item**, or **Submit order guide**, in the **Activity Field Mappings** section, you can map fields from the parent lifecycle event case to the appropriate variables on the child activity that is generated when the employee activity is triggered.
 
     1.  Click **New** or open a record.
 
@@ -450,7 +450,7 @@ HR Service
 
 </td><td>
 
-An HR service fulfills the activity. In the **HR service** field, select the HR service to use.**Note:** [[hr-service-administration|HR services]] are the requests and assistance an HR organization provides its employees. See [HR services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-service-administration.md) for more information.
+An HR service fulfills the activity. In the **HR service** field, select the HR service to use.**Note:** HR services are the requests and assistance an HR organization provides its employees. See [HR services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-service-administration.md) for more information.
 
 </td></tr><tr><td>
 
@@ -725,7 +725,7 @@ Defines whether the activity should trigger for the lifecycle event case. You ca
 
 Use flow activity parameters on a lifecycle event activity to automatically populate values from a subflow within an activity.
 
-You can configure [[flows-ukg|subflows]] for a lifecycle event and pass the values for the input parameters of the subflow within the activity.
+You can configure subflows for a lifecycle event and pass the values for the input parameters of the subflow within the activity.
 
 Having the ability to call any subflow from a lifecycle event activity provides you with a low code or no code configuration.
 
@@ -752,7 +752,7 @@ Terminate employee in Workday.
 </td><td>
 
 -   Employee: Subject person
--   End Date: Subject person [[c_HRProfileRecords|HR Profile]].Employment End Date
+-   End Date: Subject person HR Profile.Employment End Date
 
 </td></tr></tbody>
 </table><table id="table_pr1_4df_ymb"><thead><tr><th>
@@ -1442,7 +1442,7 @@ For a lifecycle event case, you can trigger or create an activity from an activi
 
 Activities in later activity sets can be created based on survey responses in earlier activity sets and for users other than the person the case was created for \(subject person\).
 
-You can create an activity that has a task type of [[employee-form-configuration|Collect Employee Input]] and based on the results, another activity is created. In this example, the activity that has a task type of Collect Employee Input is the upstream activity. The activity that is created from this is the downstream activity.
+You can create an activity that has a task type of Collect Employee Input and based on the results, another activity is created. In this example, the activity that has a task type of Collect Employee Input is the upstream activity. The activity that is created from this is the downstream activity.
 
 Previously, only the Subject person could answer questions from an activity with a task type of Collect Employee Input \(survey\). For an New Hire Onboarding lifecycle event, the Subject person might not have access to the survey yet. Now, the Opened for, Subject person, or Assigned to can take the survey. This keeps the lifecycle event moving.
 
@@ -1450,7 +1450,7 @@ Previously, only the Subject person could answer questions from an activity with
 
     For example, a lifecycle event activity can task a manager with taking a survey.
 
-    -   The survey asks a [[hiring-tab-concept|hiring]] manager if their new employees require special equipment.
+    -   The survey asks a hiring manager if their new employees require special equipment.
     -   The hiring manager can answer the survey indicating if the new hires require special equipment.
     -   If the answer is yes, a new survey can be created in a downstream activity set that asks what specific safety equipment are required.
     -   Anyone that has access to the original lifecycle event case can answer the second survey requesting specific safety equipment for the new hires.
@@ -1463,15 +1463,4 @@ Previously, only the Subject person could answer questions from an activity with
 
     If the value is **False**, when an existing survey instance for the same survey and same user exists, the survey is attached to the survey task.
 
-## Related
 
-- [[activity-lxp|Activity]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[hr-service-configuration|HR service configuration]]
-- [[field-mappings-sf|Field mappings]]
-- [[map-fields-navex|Map fields]]
-- [[hr-service-administration|HR services]]
-- [[flows-ukg|Subflows]]
-- [[c_HRProfileRecords|HR Profile]]
-- [[employee-form-configuration|Collect employee input]]
-- [[hiring-tab-concept|Hiring]]

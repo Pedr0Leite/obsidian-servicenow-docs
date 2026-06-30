@@ -20,7 +20,7 @@ Role required: sn\_si.analyst
 
 ## About this task
 
-This flow is triggered from [[sir-landing-page|Security Incident Response]] in two ways.
+This flow is triggered from Security Incident Response in two ways.
 
 -   by selecting one or more CIs from the **Configuration Items** tab \(under the **Affected Items** related link\) and selecting **Run CI enrichment** from the **Actions on selected rows** choice list.
 -   by opening a CI record and clicking the **Run CI enrichment** related link.
@@ -31,22 +31,14 @@ Either method then allows you to specify which implementations to be used to enr
 
 \[Omitted image "enrich-ci-flow.png"\] Alt text: Security Operations Integration - CI Enrichment flow
 
-Actions specific to this flow are described here. For more information on other actions, see [[common-wf-activities|Common Security Operations integration flows and orchestration activities]].
+Actions specific to this flow are described here. For more information on other actions, see [Common Security Operations integration flows and orchestration activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/common-wf-activities.md).
 
 The flow process actions include:
 
--   [[execution-tracking-begin|Execution Tracking - Begin Flow Action]]
+-   [Execution Tracking - Begin Flow Action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/execution-tracking-begin.md)
 -   [Security Operations Integration - CI Enrichment flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/secops-integ-enrich-ci-wf.md)
--   [[execution-tracking-noimpls-activity|Capability Execution Tracking- No Impls action]]
--   [[get-supported-security-capabilities-activity|Get Supported Security Capabilities action]]
+-   [Capability Execution Tracking- No Impls action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/execution-tracking-noimpls-activity.md)
+-   [Get Supported Security Capabilities action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/get-supported-security-capabilities-activity.md)
 
-**Parent Topic:**[[enrich-ci-capability|Security Operations Integration- Enrich CI capability]]
+**Parent Topic:**[Security Operations Integration- Enrich CI capability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/enrich-ci-capability.md)
 
-## Related
-
-- [[common-wf-activities|Common Security Operations integration flows and orchestration activities]]
-- [[execution-tracking-begin|Execution Tracking - Begin Flow Action]]
-- [[execution-tracking-noimpls-activity|Capability Execution Tracking- No Impls action]]
-- [[get-supported-security-capabilities-activity|Get Supported Security Capabilities action]]
-- [[enrich-ci-capability|Security Operations Integration- Enrich CI capability]]
-- [[sir-landing-page|Security Incident Response]]

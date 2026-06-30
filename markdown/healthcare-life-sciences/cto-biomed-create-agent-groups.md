@@ -12,7 +12,7 @@ breadcrumb: [Configure, Care Team Operations for Biomed, Healthcare Operations, 
 
 # Create a group for all location support agents in Care Team Operations for Biomed
 
-Create a group for location support agents with the sn\_cto\_biomed.loc\_support\_agent role assigned so that users added to this group will inherit the collection of roles for [[care-team-operations-for-biomed|Care Team Operations for Biomed]].
+Create a group for location support agents with the sn\_cto\_biomed.loc\_support\_agent role assigned so that users added to this group will inherit the collection of roles for Care Team Operations for Biomed.
 
 ## Before you begin
 
@@ -45,6 +45,3 @@ The location support agent role will only give healthcare organization members t
 
 A user group is created for your location support agents to which you can assign your biomed fulfillers when doing automated user imports.
 
-## Related
-
-- [[care-team-operations-for-biomed|Care Team Operations for Biomed]]

@@ -34,7 +34,7 @@ For information on adding an action for a safety inspection or audit through Mob
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[health-safety-overview|Health and Safety]]** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
 2.  Select the risk management icon \(\[Omitted image "icon-risk-assessment.png"\] Alt text: Risk assessment icon\).
 
@@ -99,7 +99,7 @@ Steps
 
 -   If associated with a safety inspection, the action appears in the **Inspection actions** tab of the inspection.
 -   If associated with a safety audit, the action appears in the **Audit actions** tab of the audit.
--   The action also appears in the assigned user's **My Tasks** list on both the [[employee-center-landing-page|Employee Center]] and the [[mobile-employee-experience|Now Mobile app]]. From either location, the user can respond to the action and update its status.
+-   The action also appears in the assigned user's **My Tasks** list on both the Employee Center and the Now Mobile app. From either location, the user can respond to the action and update its status.
 
 ## What to do next
 
@@ -113,9 +113,3 @@ Steps
 
 **Parent Topic:**[Safety inspections and audits](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-safety-inspections.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[employee-center-landing-page|Employee Center]]
-- [[mobile-employee-experience|Now Mobile app]]

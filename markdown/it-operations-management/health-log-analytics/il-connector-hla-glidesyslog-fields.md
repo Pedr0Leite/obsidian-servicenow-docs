@@ -15,7 +15,7 @@ breadcrumb: [Integration configuration fields, Health Log Analytics reference, H
 
 # ServiceNow System Logs Retriever integration configuration fields
 
-Description of the fields on the ServiceNow System Logs Retriever integration configuration form for [[hla-landing-page|Health Log Analytics]].
+Description of the fields on the ServiceNow System Logs Retriever integration configuration form for Health Log Analytics.
 
 For the ServiceNow System Logs Retriever integration setup procedure, see [Set up a ServiceNow System Logs Retriever integration for Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/il-connector-hla-glide-syslog.md).
 
@@ -54,6 +54,3 @@ Option to add a brief description of the integration to help identify it.
 </td></tr></tbody>
 </table>**Parent Topic:**[Integration configuration fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

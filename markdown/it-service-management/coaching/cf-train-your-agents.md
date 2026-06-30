@@ -14,7 +14,7 @@ breadcrumb: [Coaching, IT Service Management]
 
 # Training agents using Coaching with Learning
 
-Use [[cf-coaching-landing|Coaching]] with Learning to train your agents with internal and external learning content. Organize similar content in learning libraries. Assign learning tasks and track completion.
+Use Coaching with Learning to train your agents with internal and external learning content. Organize similar content in learning libraries. Assign learning tasks and track completion.
 
 **Important:** Coaching with Learning is available when you enable the Coaching with Learning application from the ServiceNow® Store. To enable this application, see [Request Coaching](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-request-coaching.md).
 
@@ -23,9 +23,5 @@ A manager, or coach, is a subject matter expert of a process and is responsible 
 -   **[Managing your coaching assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-getting-coached.md)**  
 Employees, or trainees, are assessed on work they have done that has triggered a coaching opportunity. Once assessed, the trainee is assigned training by the coach. Use the Trainee Dashboard to manage your assessments and track results.
 
-**Parent Topic:**[[r_ITServiceManagement|IT Service Management]]
+**Parent Topic:**[IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/r_ITServiceManagement.md)
 
-## Related
-
-- [[r_ITServiceManagement|IT Service Management]]
-- [[cf-coaching-landing|Coaching]]

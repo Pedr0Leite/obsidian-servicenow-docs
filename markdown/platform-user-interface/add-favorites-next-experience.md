@@ -76,7 +76,7 @@ From any page, select the star icon in the contextual app pill.
 
     2.  In the **Location** field, if you have created groups for the Favorites menu, select a group for the favorite to be listed in.
 
-        For information about creating groups to organize the Favorites list, see [[organize-favorites-next-experience|Organize favorites in Next Experience]].
+        For information about creating groups to organize the Favorites list, see [Organize favorites in Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/organize-favorites-next-experience.md).
 
     3.  Either save your changes, make further modifications, or remove the favorite.
 
@@ -84,6 +84,3 @@ From any page, select the star icon in the contextual app pill.
         -   To modify the favorite's icon and its color, select **More**, select an icon and its color, and select **Save edits**.
         -   To remove the favorite, select **Remove**.
 
-## Related
-
-- [[organize-favorites-next-experience|Organize favorites in Next Experience]]

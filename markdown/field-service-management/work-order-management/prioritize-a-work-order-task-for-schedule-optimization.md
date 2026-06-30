@@ -24,7 +24,7 @@ Role required: wm\_dispatcher
 
 ## About this task
 
-Optimization penalties and values are only used for [[schedule-optimization|Schedule Optimization]].
+Optimization penalties and values are only used for Schedule Optimization.
 
 ## Procedure
 
@@ -40,6 +40,4 @@ Optimization penalties and values are only used for [[schedule-optimization|Sche
 
 5.  Select **Update**.
 
-## Related
 
-- [[schedule-optimization|Schedule Optimization]]

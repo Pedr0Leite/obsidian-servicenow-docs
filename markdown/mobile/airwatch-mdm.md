@@ -18,15 +18,10 @@ Visit the following sections to view the steps to configure the ServiceNow mobil
 
 You should have access to Workspace ONE UEM before attempting any configuration.
 
--   **[[add-ios-airwatch|Add the ServiceNow app for iOS to Workspace ONE UEM]]**  
+-   **[Add the ServiceNow app for iOS to Workspace ONE UEM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/add-ios-airwatch.md)**  
 Configure the ServiceNow app for iOS for Workspace ONE UEM distribution.
--   **[[add-android-airwatch|Add the ServiceNow app for Android to Workspace ONE UEM]]**  
+-   **[Add the ServiceNow app for Android to Workspace ONE UEM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/add-android-airwatch.md)**  
 Configure the ServiceNow app for Android for Workspace ONE UEM distribution.
 
-**Parent Topic:**[[mobile-vendors|Supported mobile device management vendors]]
+**Parent Topic:**[Supported mobile device management vendors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-vendors.md)
 
-## Related
-
-- [[add-ios-airwatch|Add the ServiceNow app for iOS to Workspace ONE UEM]]
-- [[add-android-airwatch|Add the ServiceNow app for Android to Workspace ONE UEM]]
-- [[mobile-vendors|Supported mobile device management vendors]]

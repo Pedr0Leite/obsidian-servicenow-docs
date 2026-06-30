@@ -27,7 +27,7 @@ Role required: sam\_admin
     |Interface|Action|
     |---------|------|
     |Core UI|Navigate to **All** &gt; **Software Asset** &gt; **Reconciliation**.|
-    |Software Asset Workspace|Navigate to **[[sam-workspace|Software Asset Workspace]]** &gt; **[[sam-workspace-landing|Software asset overview]]**.|
+    |Software Asset Workspace|Navigate to **Software Asset Workspace** &gt; **Software asset overview**.|
 
 2.  Select **Run Reconciliation**.
 
@@ -48,7 +48,3 @@ Role required: sam\_admin
 
 [Identify savings opportunities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/identify-sav-opp-sg.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]
-- [[sam-workspace-landing|Software asset overview]]

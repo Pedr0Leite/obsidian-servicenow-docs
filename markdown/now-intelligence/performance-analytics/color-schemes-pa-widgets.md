@@ -18,10 +18,10 @@ When a data visualization illustrates multiple indicators, breakdowns, or table 
 
 Color schemes can apply to the following visualizations:
 
--   Time series and [[breakdown-widgets|breakdown widgets]] that display multiple indicators or breakdowns
--   [[widgets|Widgets]] on breakdown dashboards when multiple elements are shown separately
+-   Time series and breakdown widgets that display multiple indicators or breakdowns
+-   Widgets on breakdown dashboards when multiple elements are shown separately
 -   Reports that group by or stack by table fields
--   [[c_performanceAnalyticsAndReporting|Platform Analytics]] data visualization components that group by or stack by table fields
+-   Platform Analytics data visualization components that group by or stack by table fields
 
 You can select a color scheme in the **Color Scheme** field when you create a widget. For an example, see [Create a pie, donut, or semi-donut visualization for a breakdown widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/create-pie-widget.md). You can also design your own color scheme.
 
@@ -40,7 +40,7 @@ The default color schemes use color definitions with the Qualitative themeable c
 
 ## Create a color scheme
 
-Create a reusable set of colors available for reports, [[c_Widgets|Performance Analytics widgets]], and Platform Analytics data visualization components.
+Create a reusable set of colors available for reports, Performance Analytics widgets, and Platform Analytics data visualization components.
 
 ### Before you begin
 
@@ -48,7 +48,7 @@ Role required: pa\_power\_user or pa\_admin
 
 ### About this task
 
-**Tip:** A ServiceNow AI Platform or [[reporting-landing-page|Reporting]] admin can create custom colors for use in your color schemes. For more information, see [Define system colors for analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/t_DefiningSystemColors.md).
+**Tip:** A ServiceNow AI Platform or Reporting admin can create custom colors for use in your color schemes. For more information, see [Define system colors for analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/t_DefiningSystemColors.md).
 
 ### Procedure
 
@@ -66,10 +66,4 @@ Role required: pa\_power\_user or pa\_admin
 
 6.  Click **Submit**.
 
-## Related
 
-- [[breakdown-widgets|Breakdown widgets]]
-- [[widgets|Widgets]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[c_Widgets|Performance Analytics widgets]]
-- [[reporting-landing-page|Reporting]]

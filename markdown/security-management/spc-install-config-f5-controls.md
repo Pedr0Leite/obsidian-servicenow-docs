@@ -25,7 +25,7 @@ Roles required: admin for installation of plugins and creating system properties
 
 ## Procedure
 
-1.  To [[configure-cortex-xsiam-siem|install and configure]] the integration, follow these steps:
+1.  To install and configure the integration, follow these steps:
 
     **Note:** If you have installed and activated ITOM, proceed to step 2 for how to configure the F5 BIG-IP \(F5\) API Integration.
 
@@ -94,6 +94,4 @@ Roles required: admin for installation of plugins and creating system properties
 
         The integration is scheduled to run daily by default.
 
-## Related
 
-- [[configure-cortex-xsiam-siem|Install and Configure]]

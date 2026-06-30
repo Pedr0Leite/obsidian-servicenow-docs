@@ -19,13 +19,9 @@ You can create entitlements to track and manage the From SA and Add-on licensing
 For more information on Microsoft 365 From SA and Add-on USLs, see [Supported Microsoft 365 license types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/supported-microsoft-365-license-types.md).
 
 -   **[Create Microsoft 365 From SA and Add-on entitlements in Software Asset Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-m365-from-sa-add-on-entitlements.md)**  
-Create a Microsoft 365 From SA or Add-on entitlement in the [[c_SoftwareAssetMgmt|Software Asset Management]] classic application so that you can track and manage the From SA or Add-on licensing terms for your Microsoft 365 subscription software products and services.
+Create a Microsoft 365 From SA or Add-on entitlement in the Software Asset Management classic application so that you can track and manage the From SA or Add-on licensing terms for your Microsoft 365 subscription software products and services.
 -   **[Create Microsoft 365 From SA and Add-on entitlements in the Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-m365-from-sa-add-on-entitlements-workspace.md)**  
-Create a Microsoft 365 From SA or Add-on entitlement in the [[sam-workspace|Software Asset Workspace]] so that you can track and manage the From SA or Add-on licensing terms for your Microsoft 365 subscription software products and services.
+Create a Microsoft 365 From SA or Add-on entitlement in the Software Asset Workspace so that you can track and manage the From SA or Add-on licensing terms for your Microsoft 365 subscription software products and services.
 
 **Parent Topic:**[Software Asset Management publisher pack for Microsoft](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/microsoft-publisher-pack.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-workspace|Software Asset Workspace]]

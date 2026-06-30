@@ -21,16 +21,12 @@ Enable the AI Search Assist Actions to search knowledge articles in the Customer
 -   **[Configure AI Search Assist in the Customer and Consumer Service Portals for authenticated external users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/enable-ai-search-assist-portal-auth-external.md)**  
 Enable the AI Search Assist to search knowledge articles in the Customer and Consumer Service Portals. It applies for authenticated external users with snc\_external role.
 
-**Parent Topic:**[[c_CustomerServiceManagement|Customer Service Management]]
+**Parent Topic:**[Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_CustomerServiceManagement.md)
 
 **Related topics**  
 
 
 [AI Search Assist for authenticated external users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/enable-ai-search-for-business-portal-auth-external.md)
 
-[[using-ai-search-with-q-a-within-the-portal-form|Using Now Assist in portal case form]]
+[Using Now Assist in portal case form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/using-ai-search-with-q-a-within-the-portal-form.md)
 
-## Related
-
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[using-ai-search-with-q-a-within-the-portal-form|Using Now Assist in portal case form]]

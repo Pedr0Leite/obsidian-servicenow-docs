@@ -12,14 +12,14 @@ breadcrumb: [Push notifications, System notifications, Notifications, Configure 
 
 # Push notification setup with the ServiceNow mobile app
 
-The ServiceNow mobile application automatically enables [[c_PushNotifications|push notifications]] and configures mobile devices for push notifications when users initially log in to the instance.
+The ServiceNow mobile application automatically enables push notifications and configures mobile devices for push notifications when users initially log in to the instance.
 
 **Note:** Push notifications with the ServiceNow mobile application are not supported in on-premise instances.
 
 Setting up push notifications involves both the system administrator and users.
 
 -   Admin creates or updates push notifications for the ServiceNow mobile app. The admin does not need to set up the mobile devices for users nor update their user preferences for receiving push notifications.
--   Users install the ServiceNow mobile mobile on their iOS or Android mobile devices and set their preferences for receiving [[notifications|notifications]] on the ServiceNow mobile app.
+-   Users install the ServiceNow mobile mobile on their iOS or Android mobile devices and set their preferences for receiving notifications on the ServiceNow mobile app.
 
 \[Omitted image "PushNotificationSNSetup.png"\] Alt text: Push notification setup tasks for the ServiceNow mobile app
 
@@ -31,15 +31,15 @@ Admins create push notifications, similar to setting up email notifications. A p
 
 -   **Create the push message**
 
-    Before creating a push notification, create the [[t_CreateAPushMessage|push message]] with the actual message content \(JSON payload\) to be included in the push notification.
+    Before creating a push notification, create the [push message](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAPushMessage.md) with the actual message content \(JSON payload\) to be included in the push notification.
 
 -   **Create the push notification that includes the push message**
 
-    Create the [[t_CreatePushNotification|push notification]] that includes the push message and message content. A push notification specifically sends the push message. You can update a standard platform notification and use it as a push notification that includes the push message.
+    Create the [push notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreatePushNotification.md) that includes the push message and message content. A push notification specifically sends the push message. You can update a standard platform notification and use it as a push notification that includes the push message.
 
 -   **Add the new push notification to the Push Default Registration table**
 
-    To ensure that a new push notification is included and enabled in the [[preferences-landing|notification preferences]] of your users, [[add-push-notif-reg-table|register a new push notification]] in the Push Default Registration table. The notification is listed in the notification preferences of your users the next time that they log in to the ServiceNow mobile app.
+    To ensure that a new push notification is included and enabled in the notification preferences of your users, [register a new push notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/add-push-notif-reg-table.md) in the Push Default Registration table. The notification is listed in the notification preferences of your users the next time that they log in to the ServiceNow mobile app.
 
 
 ## What to do — ServiceNow mobile app users
@@ -62,20 +62,10 @@ Admins create push notifications, similar to setting up email notifications. A p
 
 -   **Update preferences for receiving notifications on the ServiceNow mobile app**
 
-    Users can enable and disable through **Notification Settings** in the ServiceNow mobile app. They can set additional notification preferences, such as conditions or filters that affect notification delivery, by using the System Settings window on a desktop or mobile browser. For details, see [[user-notification-preferences|Setting notification preferences in Core UI]].
+    Users can enable and disable through **Notification Settings** in the ServiceNow mobile app. They can set additional notification preferences, such as conditions or filters that affect notification delivery, by using the System Settings window on a desktop or mobile browser. For details, see [Setting notification preferences in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-notification-preferences.md).
 
 
 ## Next steps
 
-If you are an admin, review the base [[system-notifications-landing|system notifications]] and determine if new [push message content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAPushMessage.md) and [push notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreatePushNotification.md) are needed.
+If you are an admin, review the base system notifications and determine if new [push message content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAPushMessage.md) and [push notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreatePushNotification.md) are needed.
 
-## Related
-
-- [[t_CreateAPushMessage|Create a push message]]
-- [[t_CreatePushNotification|Create a notification using a push message]]
-- [[add-push-notif-reg-table|Add a push notification to the Push Default Registrations table]]
-- [[user-notification-preferences|Setting notification preferences in Core UI]]
-- [[c_PushNotifications|Push notifications]]
-- [[notifications|Notifications]]
-- [[preferences-landing|Notification Preferences]]
-- [[system-notifications-landing|System notifications]]

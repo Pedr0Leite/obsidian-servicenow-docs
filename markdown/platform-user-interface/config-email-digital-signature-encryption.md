@@ -12,7 +12,7 @@ breadcrumb: [Emails, Administer, Configurable Workspace UI, Configure UIs and po
 
 # Configuring digital signature and encryption for emails
 
-[[configure-onboarding-modals|Configure]] emails that send a digital signature to verify you as an authentic sender and an email encryption to certify authentic recipients.
+Configure emails that send a digital signature to verify you as an authentic sender and an email encryption to certify authentic recipients.
 
 A digital signature verifies the email sender and assures recipients that the email came from a trusted source and wasn't altered. In the email composer for Configurable Workspace, you can select a check box to digitally sign outbound emails.
 
@@ -40,6 +40,4 @@ Configuring S/MIME for emails requires the following steps:
 
     Configure S/MIME settings for inbound and outbound email.
 
-## Related
 
-- [[configure-onboarding-modals|Configure]]

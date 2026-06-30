@@ -12,9 +12,5 @@ breadcrumb: [Reference, Customer Service Management]
 
 # Workforce Optimization for Customer Service reference
 
-Reference information for [[configurable-wfo-cs|Workforce Optimization for Customer Service]], including [[csm-configurable-manager-workspace-dashboards-new|manager workspace landing page]] KPIs, data visualizations, and role requirements.
+Reference information for Workforce Optimization for Customer Service, including manager workspace landing page KPIs, data visualizations, and role requirements.
 
-## Related
-
-- [[configurable-wfo-cs|Workforce Optimization for Customer Service]]
-- [[csm-configurable-manager-workspace-dashboards-new|Manager Workspace landing page]]

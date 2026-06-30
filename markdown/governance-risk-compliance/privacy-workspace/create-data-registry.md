@@ -14,7 +14,7 @@ breadcrumb: [Configure, Personal Data Rights \(PDR\), Privacy Management, Govern
 
 # Create a data registry
 
-Create a repository of the users and specify the owners of various applications. This repository helps to identify which user must be assigned the [[personal-data-rights|personal data rights]] \(PDR\) request tasks.
+Create a repository of the users and specify the owners of various applications. This repository helps to identify which user must be assigned the personal data rights \(PDR\) request tasks.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ A data registry provides information about the business application or business 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Personal Data Rights** &gt; **[[personal-data-rights-workspace|Personal Data Rights Workspace]]** &gt; **Lists** &gt; **Data registries**.
+1.  Navigate to **All** &gt; **Personal Data Rights** &gt; **Personal Data Rights Workspace** &gt; **Lists** &gt; **Data registries**.
 
 2.  Select **New**.
 
@@ -120,7 +120,3 @@ When the PDR agents generate tasks, based on the registry, the action tasks will
 
 **Parent Topic:**[Configuring Personal Data Rights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/configuring-personal-data-rights.md)
 
-## Related
-
-- [[personal-data-rights|personal data rights]]
-- [[personal-data-rights-workspace|Personal Data Rights workspace]]

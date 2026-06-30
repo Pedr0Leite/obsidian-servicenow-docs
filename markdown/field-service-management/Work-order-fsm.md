@@ -12,7 +12,7 @@ breadcrumb: [Explore, Field Service Management]
 
 # Integrated work order entry
 
-Work orders in [[fsm-application-landing-page|Field Service Management]] store information about requested work, including customer names and addresses, locations where work is to be performed, and any associated configuration items. Work orders can include one or more tasks that contain specific details about the work to be performed, such as required agent skills or [[c_PartRequirements|part requirements]].
+Work orders in Field Service Management store information about requested work, including customer names and addresses, locations where work is to be performed, and any associated configuration items. Work orders can include one or more tasks that contain specific details about the work to be performed, such as required agent skills or part requirements.
 
 Work order templates automatically populate the work order with work instructions, tasks and parts required for the field agent to complete the work order.
 
@@ -49,7 +49,3 @@ You can create a work order from the following integrated record types:
 
 [Prepare work orders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/preparing-work-orders.md)
 
-## Related
-
-- [[fsm-application-landing-page|Field Service Management]]
-- [[c_PartRequirements|Part requirements]]

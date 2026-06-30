@@ -14,7 +14,7 @@ breadcrumb: [Set up Web Embeddables, Web Embeddables, Set up self-service, Confi
 
 # Non OIDC authentication for ServiceNow components
 
-Generate a JSON Web Token \(JWT\) token to authenticate your [[servicenow-web-components-overview|ServiceNow components]] if your website doesn’t use OpenID Connect \(OIDC\) authentication.
+Generate a JSON Web Token \(JWT\) token to authenticate your ServiceNow components if your website doesn’t use OpenID Connect \(OIDC\) authentication.
 
 **Note:** You can test ServiceNow components on your sandbox instance without setting up authentication. For more information, see [Test the ServiceNow components in a sandbox environment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/test-sn-comp-we.md).
 
@@ -32,6 +32,3 @@ To achieve this, two public URLs can be created. The first URL can provide the p
 
 A JWT token can also be issued from a third-party site. If you’re unable to provide a JWKS URI and a well-known configuration, an alternative involves uploading the public key directly to the ServiceNow instance. Additionally, public-scripted REST APIs can be implemented to replicate the output of a well-known configuration endpoint. In such cases, the public key must be accessible through a public-scripted REST endpoint within the ServiceNow instance.
 
-## Related
-
-- [[servicenow-web-components-overview|ServiceNow components]]

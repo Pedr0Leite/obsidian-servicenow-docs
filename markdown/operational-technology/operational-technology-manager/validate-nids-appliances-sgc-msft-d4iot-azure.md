@@ -63,10 +63,7 @@ The **Life Cycle Stage** and **Life Cycle Stage Status** fields are used to capt
     -   managed\_by\_group
     -   assignment\_group
     -   zone
-    -   isa\_entity\_site \(only available if you have the [[industrial-process-manager-overview|Industrial Process Manager]] application installed\)
+    -   isa\_entity\_site \(only available if you have the Industrial Process Manager application installed\)
 
 **Parent Topic:**[Service Graph Connector for Microsoft Defender for IoT \(Azure\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/integration-sgc-microsoft-defender-iot-azure.md)
 
-## Related
-
-- [[industrial-process-manager-overview|Industrial Process Manager]]

@@ -14,7 +14,7 @@ breadcrumb: [Explore, Issue Auto Resolution for HR, HR Service Delivery, Employe
 
 # Enhanced AI Search assist for general HR inquiries
 
-Refine your search results with the enhanced AI Search assist capability available on [[employee-center-landing-page|Employee Center]]. Self-solve minor issues with intuitive recommendations before submitting a create incident form.
+Refine your search results with the enhanced AI Search assist capability available on Employee Center. Self-solve minor issues with intuitive recommendations before submitting a create incident form.
 
 Use the enhanced search functionality providing relevant recommendations to self-solve your issue while filling in an incident creation form. The contextual search understands long form texts to provide intuitive suggestions. You can attempt to solve your problem with the suggestive resources before you create an incident.
 
@@ -24,6 +24,3 @@ The feature is available with the Australia release and onwards.
 
 For more information on how to configure the enhanced AI Search assist functionality, see [Configure AI Search Assist for a record producer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-ai-search-assist.md).
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

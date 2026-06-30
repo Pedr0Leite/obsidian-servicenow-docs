@@ -42,7 +42,7 @@ Currency option
 
 </td><td>
 
-**Follow functional currency**: Manage demands using your organization's functional currency. When you create a project from the demand, the project currency carries over to the [[create-a-project-form|Project form]]. You can change the project currency later.For example, if your functional currency is USD, both demands and projects use USD.
+**Follow functional currency**: Manage demands using your organization's functional currency. When you create a project from the demand, the project currency carries over to the Project form. You can change the project currency later.For example, if your functional currency is USD, both demands and projects use USD.
 
 </td></tr><tr><td id="d60307e121">
 
@@ -50,7 +50,7 @@ Currency option
 
 </td><td>
 
-**Drive project currency**: Manage demands and projects using the same currency. This currency can be your functional currency or any other currency. For example, to manage demands and projects in GBP, select this option and specify GBP as your demand currency. The **Project Currency** field in the [[demand-form|demand form]] automatically populates with GBP when you save the form.
+**Drive project currency**: Manage demands and projects using the same currency. This currency can be your functional currency or any other currency. For example, to manage demands and projects in GBP, select this option and specify GBP as your demand currency. The **Project Currency** field in the demand form automatically populates with GBP when you save the form.
 
 </td></tr><tr><td id="d60307e137">
 
@@ -66,10 +66,5 @@ Currency option
 
 ## What to do next
 
-Enable the multicurrency view in the demand form and other demand-related [[form-field-information-for-dw|forms]]. For more information, see [Enable the demand currency view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/enable-demand-currency-view-dw.md).
+Enable the multicurrency view in the demand form and other demand-related forms. For more information, see [Enable the demand currency view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/enable-demand-currency-view-dw.md).
 
-## Related
-
-- [[create-a-project-form|Project form]]
-- [[demand-form|Demand form]]
-- [[form-field-information-for-dw|Forms]]

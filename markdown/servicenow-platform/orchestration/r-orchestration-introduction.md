@@ -22,10 +22,10 @@ Orchestrated solutions aide collaboration among teams by providing reusable data
 
 ## Orchestration tools
 
-Orchestration can make calls outside of a ServiceNow instance, directly to web services or through a [[mid-server-landing|MID Server]] to systems within corporate firewall. Orchestration also enables the creation reusable activities that wrapper Java Script functions for manipulating things inside the platform. Orchestration extends the [Workflow editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-editor.md) by providing these features:
+Orchestration can make calls outside of a ServiceNow instance, directly to web services or through a MID Server to systems within corporate firewall. Orchestration also enables the creation reusable activities that wrapper Java Script functions for manipulating things inside the platform. Orchestration extends the [Workflow editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-editor.md) by providing these features:
 
 -   [Activity packs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchestrationActivityPacks.md) containing ready-to-use activities.
--   [Activity Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_WorkflowActivityDesigner.md), which enables developers to create custom activities without an over dependence to [[r_ServiceCatalogScriptingExtensn|create scripts]] to orchestrate to third-party systems.
+-   [Activity Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_WorkflowActivityDesigner.md), which enables developers to create custom activities without an over dependence to create scripts to orchestrate to third-party systems.
 -   Ability to create activity packs using [Scoped Applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_ActivityScoping.md).
 -   A [Databus](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchestrationDatabus.md) for following the flow of data across orchestration activities.
 
@@ -33,7 +33,7 @@ Orchestration Core provides entitlements to use specific applications:
 
 -   **[Client Software Distribution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_ClientSoftwareDistribution.md)**
 
-    An application that automates software delivery from the [[service-catalog|Service Catalog]]. Provides OOB support for SCCM. Partner solutions support Macs using JAMF. Other third-party solutions provide support through the extension framework.
+    An application that automates software delivery from the Service Catalog. Provides OOB support for SCCM. Partner solutions support Macs using JAMF. Other third-party solutions provide support through the extension framework.
 
 -   **[Configuring Password Reset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/password-reset-admin-guide.md)**
 
@@ -68,8 +68,3 @@ When an Orchestration activity starts within a workflow, Orchestration launches 
 
 \[Omitted image "OrchestrationWorkflow.png"\] Alt text: Orchestration workflow
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[r_ServiceCatalogScriptingExtensn|Create scripts]]
-- [[service-catalog|Service Catalog]]

@@ -14,7 +14,7 @@ breadcrumb: [Cloud Services Catalog, ITOM Cloud Accelerate, IT Operations Manage
 
 # Out Of Box Catalogs using Cloud Services Catalog
 
-[[csc-home|Cloud Services Catalog]] has Out Of Box Catalog items, actions and policies that you can render, as required.
+Cloud Services Catalog has Out Of Box Catalog items, actions and policies that you can render, as required.
 
 Use Out Of Box catalog items for Azure, GCP and Amazon Web Services Cloud Service requests and automations. You can either order one of the catalog items, use Flow Designer based actions or provision policies.
 
@@ -23,7 +23,7 @@ Use Out Of Box catalog items for Azure, GCP and Amazon Web Services Cloud Servic
 Order from these Cloud Services Catalog Out Of Box Catalog Items:
 
 -   **[Amazon Web Services EC2 Linux Out Of Box Catalog items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/aws-ec2-linux-oob-catalogs.md)**  
-Cloud Services Catalog Linux VM with [[acc-landing-page|agent client collector]] \(ACC\), up to 10 additional disks on EC2 or with security groups.
+Cloud Services Catalog Linux VM with agent client collector \(ACC\), up to 10 additional disks on EC2 or with security groups.
 -   **[Amazon Web Services EC2 Microsoft Windows Out Of Box Catalog items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/aws-ec2-microsoft-windows-out-of-box-catalogs.md)**  
 Cloud Services Catalog Windows VM, up to 10 additional disks on EC2 or with security groups.
 -   **[Amazon Web Services DynamoDB Out Of Box Catalog Items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/aws-dynamodb-out-of-box-catalogs.md)**  
@@ -55,7 +55,3 @@ The Cloud Services Catalog Out of the Box Policies comprise Approval, Naming, Le
 
 **Parent Topic:**[Cloud Services Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/csc-home.md)
 
-## Related
-
-- [[csc-home|Cloud Services Catalog]]
-- [[acc-landing-page|Agent Client Collector]]

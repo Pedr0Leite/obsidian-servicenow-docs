@@ -28,7 +28,7 @@ The Assignment group permission level must be Read or Edit to view or change the
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Legal Request** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
 2.  Select the List icon \(\[Omitted image "lsd-lcc-list-icon.png"\] Alt text: List icon\).
 
@@ -60,6 +60,3 @@ The assigned user can start working on the legal request. For more information, 
 
 **Parent Topic:**[Legal Content Review requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-content-review/legal-content-review-requests.md)
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]

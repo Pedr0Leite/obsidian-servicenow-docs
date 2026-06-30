@@ -16,7 +16,7 @@ breadcrumb: [Table admin, Tables and data, Configure core features, Administer t
 
 A database view defines table joins for reporting purposes.
 
-For example, a database view can join the Incident table to the Metric Definition and [[c_MetricInstance|Metric Instance]] tables. This view can be used to report on incident [[c_MetricDefinitionSupport|metrics]] and may include fields from any of these three tables.
+For example, a database view can join the Incident table to the Metric Definition and Metric Instance tables. This view can be used to report on incident metrics and may include fields from any of these three tables.
 
 Several useful database views are installed with the Database View plugin and the Database Views for Service Management plugin. These database views cover most metric reporting needs and greatly reduce the need to define new ones.
 
@@ -36,10 +36,10 @@ By design, database view ACLs override table-level ACLs.
 
 ## Limitations
 
--   Database views cannot be created on tables that participate in [[c_TableRotation|table rotation]].
+-   Database views cannot be created on tables that participate in table rotation.
 -   It is not possible to edit data in the database view output.
 -   Database view tables cannot be added as a data preserver in clone requests.
--   You can [[reference-email-admin|reference]] a table or database view from a different application scope in a Table Name field. However, if the field belongs to a table that extends sys\_metadata, the table or database view must belong to the same application scope as that table.
+-   You can reference a table or database view from a different application scope in a Table Name field. However, if the field belongs to a table that extends sys\_metadata, the table or database view must belong to the same application scope as that table.
 
 ## ACLs and database views
 
@@ -58,7 +58,7 @@ Using the terms may cause unintended or undesirable performance. For more inform
 -   **[Joining tables using database views](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_CreatingDatabaseViews.md)**  
 Join tables into a single view and then create a report based on that view.
 -   **[Displaying function results in a database view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/displaying-function-results-in-a-database-view.md)**  
-Enhance the display of a database view by adding a [[platform-support-functions|function field]] to the output to display function [[hs-results|results]].
+Enhance the display of a database view by adding a function field to the output to display function results.
 -   **[Using disjunctions in complex queries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_UseDisjunctionsInComplexQueries.md)**  
 ServiceNow performs conjunction \(AND\) statements before disjunction \(OR\) statements in a query.
 -   **[Database views in the base system](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/r_DatabaseViewsInTheBaseSystem.md)**  
@@ -66,11 +66,3 @@ Certain views are included in the base system with the Database Views and Databa
 
 **Parent Topic:**[ServiceNow AI Platform tables and data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/tables-fields-and-forms.md)
 
-## Related
-
-- [[c_MetricInstance|Metric instance]]
-- [[c_MetricDefinitionSupport|Metrics]]
-- [[c_TableRotation|Table rotation]]
-- [[reference-email-admin|Reference]]
-- [[platform-support-functions|Function field]]
-- [[hs-results|Results]]

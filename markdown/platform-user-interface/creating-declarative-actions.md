@@ -14,25 +14,20 @@ breadcrumb: [Declarative actions, Administer, Configurable Workspace UI, Configu
 
 Create a declarative action and add the button to a workspace.
 
--   **[[create-a-new-form-action|Create a form action button]]**
+-   **[Create a form action button](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/create-a-new-form-action.md)**
 
     Create a form action and add the button to a workspace.
 
--   **[[create-a-new-list-or-related-list-action|Create a list or related list action button]]**
+-   **[Create a list or related list action button](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/create-a-new-list-or-related-list-action.md)**
 
     Create a list or related list action and add the button to a workspace.
 
--   **[[create-a-new-attachment-action|Create an attachment action]]**
+-   **[Create an attachment action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/create-a-new-attachment-action.md)**
 
     Create an attachment action and add the button to workspace.
 
--   **[[create-a-new-field-decorator-action|Create a field decorator action]]**
+-   **[Create a field decorator action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/create-a-new-field-decorator-action.md)**
 
     Create a field decorator action and add the button to a workspace.
 
-## Related
 
-- [[create-a-new-form-action|Create a form action button]]
-- [[create-a-new-list-or-related-list-action|Create a list or related list action button]]
-- [[create-a-new-attachment-action|Create an attachment action button]]
-- [[create-a-new-field-decorator-action|Create a field decorator action button]]

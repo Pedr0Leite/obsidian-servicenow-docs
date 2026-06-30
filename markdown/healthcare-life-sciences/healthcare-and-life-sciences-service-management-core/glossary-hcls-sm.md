@@ -15,7 +15,7 @@ breadcrumb: [Reference, Healthcare and Life Sciences Service Management Core, He
 
 # Healthcare and Life Sciences Service Management glossary
 
-Learn about the terms and concepts that are unique to [[hcls-service-mgmt-overview|Healthcare and Life Sciences Service Management]].
+Learn about the terms and concepts that are unique to Healthcare and Life Sciences Service Management.
 
 **Parent Topic:**[Healthcare and Life Sciences Service Management Core reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-serv-mgmt-core-reference.md)
 
@@ -57,7 +57,7 @@ Glossary terms are grouped alphabetically.
 
 ### Digest Token Authentication
 
-An [[emr-exploring|EMR Help]] authentication method for Epic Hyperspace and Hyperdrive integration. ServiceNow receives a username and AES-256 encrypted digest token in an HTTP header, validates the token, and logs the user in if a matching credential exists.
+An EMR Help authentication method for Epic Hyperspace and Hyperdrive integration. ServiceNow receives a username and AES-256 encrypted digest token in an HTTP header, validates the token, and logs the user in if a matching credential exists.
 
 For example, a clinician opens EMR Help from Epic Hyperspace and is automatically logged into ServiceNow because digest token authentication validates their identity without a separate login prompt.
 
@@ -75,7 +75,7 @@ For example, an administrator creates a “Privacy Consent” HTML document temp
 
 ### Dosage Specification
 
-A configuration \(table: sn\_hcls\_dosage\_specification\) that defines the diagnosis details and dosage characteristics of a medication product associated with a program. Dosage specifications link to dosage definitions and control the dosage fields displayed on the [[hcls-med-prescription-form|Medication Prescription form]].
+A configuration \(table: sn\_hcls\_dosage\_specification\) that defines the diagnosis details and dosage characteristics of a medication product associated with a program. Dosage specifications link to dosage definitions and control the dosage fields displayed on the Medication Prescription form.
 
 For example, an admin creates a dosage specification for Drug X in the Diabetes Care program, setting the primary diagnosis, quantity per month, and maximum daily dose.
 
@@ -133,7 +133,7 @@ For example, an administrator extends the sn\_hcls\_case table to create a custo
 
 A record \(table: sn\_hcls\_code\_set\) that stores code sets available in a ServiceNow instance, providing standardized codes aligned with industry coding systems such as CPT, HCPCS, and ICD for use across healthcare workflows.
 
-For example, an administrator imports CPT procedure codes into the [[hcls-healthcare-code-set-table|healthcare code set table]] so that practitioners can select standardized codes when documenting procedures.
+For example, an administrator imports CPT procedure codes into the healthcare code set table so that practitioners can select standardized codes when documenting procedures.
 
 ### Healthcare Task
 
@@ -227,9 +227,9 @@ For example, before scheduling a surgical procedure, an agent creates a pre-auth
 
 ### Pre-Visit Management
 
-An HCLS-SM application that streamlines the scheduling process of procedure requests and provides visibility into pre-authorization approvals prior to scheduled procedures. It extends the [[hcls-case-table|healthcare case table]] with the Procedure Request case type.
+An HCLS-SM application that streamlines the scheduling process of procedure requests and provides visibility into pre-authorization approvals prior to scheduled procedures. It extends the healthcare case table with the Procedure Request case type.
 
-For example, a surgical coordinator uses [[pre-visit-mgmt-app|Pre-Visit Management]] to submit a procedure request, which triggers automatic pre-authorization with the payer and consent document generation for the patient.
+For example, a surgical coordinator uses Pre-Visit Management to submit a procedure request, which triggers automatic pre-authorization with the payer and consent document generation for the patient.
 
 ### Privacy Policy / Consent Management
 
@@ -257,7 +257,7 @@ Glossary terms are grouped alphabetically.
 
 An HCLS-SM application that enables real-time bidirectional data exchange with external healthcare systems via the Redox platform, facilitating interoperability between ServiceNow and EMR systems.
 
-For example, a hospital configures [[hcls-redox-app|Redox Inbound Integration]] to automatically receive and store patient appointment data from their Epic EMR into the ServiceNow HCLS [[hcls-appointment-table|appointment table]].
+For example, a hospital configures Redox Inbound Integration to automatically receive and store patient appointment data from their Epic EMR into the ServiceNow HCLS appointment table.
 
 ### Remote Request Definition
 
@@ -311,16 +311,5 @@ Glossary terms are grouped alphabetically.
 
 An HCLS-SM application for managing vaccinations from start to finish, including scheduling, patient questionnaires, administration tracking, and COVID-19 status display on the Patient Portal.
 
-For example, an organization deploys [[hcls-vam|Vaccine Administration Management]] so patients can schedule flu vaccinations through the Patient Portal and clinicians can record administration details.
+For example, an organization deploys Vaccine Administration Management so patients can schedule flu vaccinations through the Patient Portal and clinicians can record administration details.
 
-## Related
-
-- [[hcls-service-mgmt-overview|Healthcare and Life Sciences Service Management]]
-- [[emr-exploring|EMR Help]]
-- [[hcls-med-prescription-form|Medication Prescription form]]
-- [[hcls-healthcare-code-set-table|Healthcare code set table]]
-- [[hcls-case-table|Healthcare case table]]
-- [[pre-visit-mgmt-app|Pre-Visit Management]]
-- [[hcls-redox-app|Redox Inbound Integration]]
-- [[hcls-appointment-table|Appointment table]]
-- [[hcls-vam|Vaccine Administration Management]]

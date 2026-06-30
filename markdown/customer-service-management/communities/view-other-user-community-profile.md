@@ -42,8 +42,8 @@ Profile header
 
 The sections of the community profile that the user has made visible. -   To start following the user, click **Follow**.
 -   To report any inappropriate content on the user's community profile, click the **...** icon and then **Report Profile**.
--   To [assign a user points](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/gamification-award-user-points.md) for a specific contribution to the community as a community administrator, click the **...** icon and then click **Assign [[gamification-components-points|Points]]**.
--   To hide content from the community until it is corrected as a community administrator, click **Display Settings** You can also click **Ban User** to [[ban-a-user|ban a user]] from creating or editing content.
+-   To [assign a user points](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/gamification-award-user-points.md) for a specific contribution to the community as a community administrator, click the **...** icon and then click **Assign Points**.
+-   To hide content from the community until it is corrected as a community administrator, click **Display Settings** You can also click **Ban User** to ban a user from creating or editing content.
 
 
 </td></tr><tr><td>
@@ -86,8 +86,8 @@ Achievements
 
 </td><td>
 
-An overview of the user's [[communities-gamification|gamification]] achievements. -   **Levels**: A list of the available levels that the user can achieve, including the starting point value, with the user's current level highlighted in blue.
--   **[[gamification-components-badges|Badges]]**: A list of the badges that have been awarded to this user.
+An overview of the user's gamification achievements. -   **Levels**: A list of the available levels that the user can achieve, including the starting point value, with the user's current level highlighted in blue.
+-   **Badges**: A list of the badges that have been awarded to this user.
 -   **Points**: A history of the points that this user has earned and the activities performed that earned the points. If the user has earned points in a forum that you do not have access to, the name of the forum is replaced with **Private forum**.
 
 
@@ -127,9 +127,3 @@ The contributions the user has made to the community.
 </table>
 **Parent Topic:**[Use a community profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/community-profile.md)
 
-## Related
-
-- [[gamification-components-points|Points]]
-- [[ban-a-user|Ban a user]]
-- [[communities-gamification|Gamification]]
-- [[gamification-components-badges|Badges]]

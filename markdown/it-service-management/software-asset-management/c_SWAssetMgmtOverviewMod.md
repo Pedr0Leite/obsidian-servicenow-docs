@@ -14,7 +14,7 @@ breadcrumb: [Legacy Software Asset Management plugin, ITSM Software Asset Manage
 
 # Legacy Software Asset Management plugin Overview module
 
-The Overview module for the legacy Software [[c_AssetManagement|Asset Management]] \(com.snc.software\_asset\_management\) plugin is a homepage that displays various software asset management reports.
+The Overview module for the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin is a homepage that displays various software asset management reports.
 
 -   **[Use the legacy Software Asset Management plugin Overview module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_UseSWAssetMgmtOverviewMod.md)**  
 The Overview module is a homepage that displays charts and graphs to help you manage software assets in the organization.
@@ -34,11 +34,11 @@ A number of tables, properties, user roles, script includes, client scripts, UI 
 
 [Software licenses in the legacy Software Asset Management plugin]()
 
-[Manage [[c_CreatingSoftwareModels|software models]] using the legacy Software Asset Management plugin]()
+[Manage software models using the legacy Software Asset Management plugin]()
 
 [License calculations with the legacy Software Asset Management plugin]()
 
-[Software discovery [[c_Models|models]] in the legacy Software Asset Management plugin]()
+[Software discovery models in the legacy Software Asset Management plugin]()
 
 [Legacy Software License Compliance Checker]()
 
@@ -46,13 +46,7 @@ A number of tables, properties, user roles, script includes, client scripts, UI 
 
 [Legacy IBM PVU Process Pack]()
 
-[Software [[c_Contracts|contracts]] for the legacy Software Asset Management plugin]()
+[Software contracts for the legacy Software Asset Management plugin]()
 
 [Legacy Oracle process pack]()
 
-## Related
-
-- [[c_AssetManagement|Asset Management]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[c_Models|Models]]
-- [[c_Contracts|Contracts]]

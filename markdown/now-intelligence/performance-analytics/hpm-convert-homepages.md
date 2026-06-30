@@ -14,7 +14,7 @@ breadcrumb: [Homepage deprecation, Administering dashboards, Responsive dashboar
 
 # Convert homepages to individual dashboards
 
-[[hpm-populate-hp-status-table|Populate the Homepage migration status table]] and then determine which homepages to convert to dashboards. You can convert homepages to individual dashboards or you can convert multiple homepages to tabs on the same dashboard.
+Populate the Homepage migration status table and then determine which homepages to convert to dashboards. You can convert homepages to individual dashboards or you can convert multiple homepages to tabs on the same dashboard.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin or dashboard\_admin.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hp-dep-help-tool-features|Homepage deprecation help tool]]** &gt; **Homepage migration status**.
+1.  Navigate to **All** &gt; **Homepage deprecation help tool** &gt; **Homepage migration status**.
 
     All unaddressed homepages have the state **Open**.
 
@@ -30,7 +30,7 @@ Role required: admin or dashboard\_admin.
 
 3.  From the **Actions on selected rows** menu, select `Convert`.
 
-    \[Omitted image "hp-migration-status-convert-1.png"\] Alt text: [[homepage-migration-status-table|Homepage migration status table]] with two homepages selected and the Actions on selected rows menu open with Convert option highlighted
+    \[Omitted image "hp-migration-status-convert-1.png"\] Alt text: Homepage migration status table with two homepages selected and the Actions on selected rows menu open with Convert option highlighted
 
     The Convert flow triggers the script to create a separate dashboard and move the permissions canRead and canWrite to the dashboard's permission.
 
@@ -57,8 +57,3 @@ Navigate to **All** &gt; **Self Service** &gt; **Dashboards**. Open the **All** 
 
 [Retire a homepage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/hpm-retire-homepages.md).
 
-## Related
-
-- [[hpm-populate-hp-status-table|Populate the homepage migration status table]]
-- [[hp-dep-help-tool-features|Homepage deprecation help tool]]
-- [[homepage-migration-status-table|Homepage migration status table]]

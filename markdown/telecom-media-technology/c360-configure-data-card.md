@@ -32,14 +32,10 @@ Role required: sn\_telecom\_c360.admin
     |PAR visualization filters|Name-value pairs that define the dynamic performance analytics filters used to associate each visualization to the current context record.|
 
 
-**Parent Topic:**[[c360-configure-variables|Configure the Telecommunications Customer 360 variables]]
+**Parent Topic:**[Configure the Telecommunications Customer 360 variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/c360-configure-variables.md)
 
 **Related topics**  
 
 
-[[c360-data-visual-card|Data visualization card]]
+[Data visualization card](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/c360-data-visual-card.md)
 
-## Related
-
-- [[c360-configure-variables|Configure the Telecommunications Customer 360 variables]]
-- [[c360-data-visual-card|Data visualization card]]

@@ -41,7 +41,7 @@ For more information on accessing knowledge articles in Now Mobile Agent, see [K
 
 ## Parts
 
-The Parts stage contains the **[[c_PartRequirements|Part requirements]]**, **Request Parts****Use parts**, and **Remove parts** modules. Create part requirements, request parts, and mark those parts as in use or remove them to maintain an accurate inventory.
+The Parts stage contains the **Part requirements**, **Request Parts****Use parts**, and **Remove parts** modules. Create part requirements, request parts, and mark those parts as in use or remove them to maintain an accurate inventory.
 
 For more information on requesting parts, see [Request inventory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/request-inventory.md).
 
@@ -67,6 +67,3 @@ The Close work order task stage contains the **Close work order task** module. C
 
 For more information on how to close a task, see [Close a work order task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/close-wo-wot-mobile.md).
 
-## Related
-
-- [[c_PartRequirements|Part requirements]]

@@ -20,13 +20,13 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select **All mobile records** from the menu.
 
@@ -109,7 +109,7 @@ This option appears when you select **User criteria** for **Access control type*
 
     1.  At the top of the Content Section form, select the more menu \(\[Omitted image "button-more-ios.png"\] Alt text: More menu image\), and then select **Open in platform**.
 
-    2.  In the web UI, navigate to **System Mobile** &gt; **[[sg-mobile-applet-launcher|Launcher screens]]** &gt; **.**
+    2.  In the web UI, navigate to **System Mobile** &gt; **Launcher screens** &gt; **.**
 
     3.  Open the launcher screen record for the launcher where you want to add your content UI section.
 
@@ -132,14 +132,7 @@ This option appears when you select **User criteria** for **Access control type*
 
 ## What to do next
 
-The content UI section you created can now contain a mobile campaign. For full instructions, see [[mobile-campaign-create|Configure mobile campaign components]].
+The content UI section you created can now contain a mobile campaign. For full instructions, see [Configure mobile campaign components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-campaign-create.md).
 
-After creating content UI sections, you must associate the UI sections to a launcher screen so they're displayed. For more information, see [[ui-section-to-launcher-screen|Add a UI section to the launcher screen]].
+After creating content UI sections, you must associate the UI sections to a launcher screen so they're displayed. For more information, see [Add a UI section to the launcher screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/ui-section-to-launcher-screen.md).
 
-## Related
-
-- [[mobile-campaign-create|Configure mobile campaign components]]
-- [[ui-section-to-launcher-screen|Add a UI section to the launcher screen]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]
-- [[sg-mobile-applet-launcher|Launcher screens]]

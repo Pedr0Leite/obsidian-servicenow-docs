@@ -14,7 +14,7 @@ breadcrumb: [Discovery commands for probes and patterns, Configuring Discovery, 
 
 # View command validation task results in pattern-based discovery
 
-View the results of command validation tasks to verify you have the correct credentials and permissions to run pattern-based [[r-discovery|discovery]] successfully.
+View the results of command validation tasks to verify you have the correct credentials and permissions to run pattern-based discovery successfully.
 
 ## Before you begin
 
@@ -49,7 +49,7 @@ Starting with Pattern Designer Enhancements version 3.9.0, the new pde\_viewer r
 
 ## What to do next
 
-If you're using the discovery\_admin role and a command fails, follow the [[ccg-remediation|remediation]] suggestions in the **Open suggestions to troubleshoot failure** related link.
+If you're using the discovery\_admin role and a command fails, follow the remediation suggestions in the **Open suggestions to troubleshoot failure** related link.
 
 1.  Select the **Open suggestions to troubleshoot failure** link.
 
@@ -68,7 +68,3 @@ If you're using the discovery\_admin role and a command fails, follow the [[ccg-
 
 [Command List form for pattern-based discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/commands-list-discovery.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[ccg-remediation|Remediation]]

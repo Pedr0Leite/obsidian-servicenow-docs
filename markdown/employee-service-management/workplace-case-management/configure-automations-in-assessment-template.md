@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-You can configure conditional action sets using if-then logic based on assessment responses, or create standalone action sets for unconditional execution to streamline [[case-management-workspace|case management]] workflows.
+You can configure conditional action sets using if-then logic based on assessment responses, or create standalone action sets for unconditional execution to streamline case management workflows.
 
 ## Procedure
 
@@ -80,6 +80,3 @@ The automation is now active and will execute configured actions when the assess
 
 **Parent Topic:**[Smart Assessment for Workplace Case and Task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/smart-assessment-for-workplace-case-and-task.md)
 
-## Related
-
-- [[case-management-workspace|Case management]]

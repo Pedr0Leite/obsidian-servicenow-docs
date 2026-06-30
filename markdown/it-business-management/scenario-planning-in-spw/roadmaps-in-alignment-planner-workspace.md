@@ -15,13 +15,13 @@ breadcrumb: [Portfolio Planning in Strategic Planning Workspace, Strategic Plann
 
 # Planning roadmaps in Strategic Planning Workspace
 
-Create a layout of the plans for upcoming projects or initiatives while aligning them with your business objectives using [[roadmap-planning-overview|roadmaps in Strategic Planning]] Workspace. Facilitate collaboration among stakeholders and adjust plans on the go.
+Create a layout of the plans for upcoming projects or initiatives while aligning them with your business objectives using roadmaps in Strategic Planning Workspace. Facilitate collaboration among stakeholders and adjust plans on the go.
 
 Roadmaps in Strategic Planning Workspace are of two types: Portfolio plan roadmaps and free-form roadmaps.
 
 For portfolio plans, only those planning items that are prioritized from the Prioritization tab are shown on the roadmap. For more information, see [managing backlog items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/managing-backlog-alignment-planner-workspace.md) and [prioritizing those items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/rank-and-prioritize-backlog-alignment-planner-workspace.md) for the roadmap.
 
-You can create roadmaps for a specific period, which could be the period that your organization focuses on meeting its goals. From a centralized view, you can do the following using the Roadmap capabilities in the [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace:
+You can create roadmaps for a specific period, which could be the period that your organization focuses on meeting its goals. From a centralized view, you can do the following using the Roadmap capabilities in the Strategic Planning Workspace:
 
 -   Build simple roadmaps using a single type of planning item or hybrid roadmaps using multiple types of planning item at once.
 -   Visualize how your work aligns to the strategic priorities or goals of your business.
@@ -60,7 +60,3 @@ Visually track the completion of a work item on your portfolio plan roadmap or f
 
 [Roadmaps in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/roadmap-planning-overview.md)
 
-## Related
-
-- [[roadmap-planning-overview|Roadmaps in Strategic Planning]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

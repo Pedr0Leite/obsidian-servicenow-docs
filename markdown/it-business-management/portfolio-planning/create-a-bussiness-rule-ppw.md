@@ -14,7 +14,7 @@ breadcrumb: [Create a table map, Create custom mapping configurations, Configuri
 
 # Create a business rule to apply a custom table map configuration
 
-Create a business rule to enable import for your new custom table map configuration from and [[c_ProjectPortfolioSuite|Project Portfolio Management]] \(PPM\) application.
+Create a business rule to enable import for your new custom table map configuration from and Project Portfolio Management \(PPM\) application.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_align\_core\_apw.admin
 
 ## About this task
 
-After you create a custom table map in [[portfolio-planning-app-landing-page|Portfolio Planning]] integrations, create a business rule similar to 'Sync Data from Execution to Alignment' business rule in the rm\_epic or dmn\_demand tables.
+After you create a custom table map in Portfolio Planning integrations, create a business rule similar to 'Sync Data from Execution to Alignment' business rule in the rm\_epic or dmn\_demand tables.
 
 **Note:** Ensure that the business rule is created in the execution application, PPM.
 
@@ -65,7 +65,4 @@ Select the table for which you've created the custom map.For example, Feature \[
 </td></tr></tbody>
 </table>5.  Click **Update**.
 
-## Related
 
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

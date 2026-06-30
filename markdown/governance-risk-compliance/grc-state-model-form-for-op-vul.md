@@ -36,7 +36,7 @@ Table name
 
 </td><td>
 
-Table that the state model applies to. Available options are:-   To configure Vulnerability state model, select **New** and select [[exploring-op-vul|Operational vulnerability]] \[sn\_oper\_res\_vulnerability\] as the table name.
+Table that the state model applies to. Available options are:-   To configure Vulnerability state model, select **New** and select Operational vulnerability \[sn\_oper\_res\_vulnerability\] as the table name.
 -   To configure Action task model, select **New** and select Action task \[sn\_grc\_case\_mgmt\_case\_task\] as the table name.
 
 </td></tr><tr><td>
@@ -65,7 +65,3 @@ Fields that contain the state value in the table that this state model applies t
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[exploring-op-vul|Operational vulnerability]]

@@ -14,7 +14,7 @@ breadcrumb: [Reference, Workplace Calendar Synchronization, Workplace Service De
 
 # Scheduled jobs installed with Workplace Calendar Synchronization
 
-The [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]] includes scheduled jobs to process a few synchronizations seamlessly.
+The Workplace Calendar Synchronization includes scheduled jobs to process a few synchronizations seamlessly.
 
 <table id="table_cxs_z1x_dyb"><thead><tr><th>
 
@@ -94,7 +94,7 @@ Repeats every 15 minutes
 
 </td><td>
 
-This scheduled job is inactive by default. The scheduled job syncs existing [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] reservations with the calendar.
+This scheduled job is inactive by default. The scheduled job syncs existing Workplace Reservation Management reservations with the calendar.
 
 -   It retrieves details of the reservations that are not synchronized with the calendar.
 -   Creates events for all reservations based on the respective location's calendar provider. On successful creation of events, reservations are populated with "Event Id &amp; IcalId".
@@ -284,8 +284,3 @@ This schedule job is a scan performed after the configuration. It is a suite for
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]

@@ -14,7 +14,7 @@ breadcrumb: [API Key and HMAC Authentication for inbound REST APIs, Token-based 
 
 # Cleaning up token Expiry
 
-Details about how to clean up token expiry by using different [[ca-system-properties|system properties]].
+Details about how to clean up token expiry by using different system properties.
 
 Once the API Key or HMAC secret expires, the details is retained for 7 days. A scheduled job `Clean expired Token Auth Credentials` deletes the expired API Keys or HMAC Secrets after that. You can configure this behavior and control the deletion using the following properties:
 
@@ -24,6 +24,3 @@ Once the API Key or HMAC secret expires, the details is retained for 7 days. A s
 
 To navigate to the token expiry property, enter `sys_properties.list` in the navigation bar and then search for the following properties. Change the expiry based on your requirement.
 
-## Related
-
-- [[ca-system-properties|System properties]]

@@ -14,7 +14,7 @@ breadcrumb: [Manage the smart assessment for safety inspections and audits from 
 
 # Complete a smart assessment for a safety inspection or audit through the Mobile agent app
 
-Use the Mobile Agent app to complete a smart assessment questionnaire for [[health-safety-overview|Health and Safety]] inspection or audit as an agent.
+Use the Mobile Agent app to complete a smart assessment questionnaire for Health and Safety inspection or audit as an agent.
 
 ## Before you begin
 
@@ -42,6 +42,3 @@ Role required: sn\_hs\_rm.safety\_inspection\_writer or sn\_hs\_rm.safety\_audit
 
 **Parent Topic:**[Manage the smart assessment for safety inspections and audits from mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-manage-smart-assessments-mobile.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]

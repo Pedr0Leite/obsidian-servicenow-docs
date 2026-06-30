@@ -18,7 +18,7 @@ You can customize KPI conditions to fit the needs of your organization better.
 
 ## Before you begin
 
-The [[benchmarks-landing|Benchmarks]] admin role does not provide application-specific roles. Therefore, although a Benchmarks admin can access a KPI through the Benchmarks application, changes to KPI conditions require the role specific to the KPI application.
+The Benchmarks admin role does not provide application-specific roles. Therefore, although a Benchmarks admin can access a KPI through the Benchmarks application, changes to KPI conditions require the role specific to the KPI application.
 
 For example, a Benchmarks admin cannot modify conditions for the knowledge base KPI \(Knowledge Use \[kb\_use\] table\), SLA KPI \(Task SLA \[task\_sla\] table\), ITOM KPIs \(CMDB Health Scorecard \[cmdb\_health\_scorecard\] table\), Security Operations KPIs \(Vulnerable Item \[sn\_vul\_vulnerable\_item\], or Security Incident \[sn\_si\_incident\] tables\) from within Benchmarks without specific access granted to those tables \(knowledge\_admin, sla\_admin, asset, or sn\_si.special\_access roles\).
 
@@ -1100,7 +1100,3 @@ Average Virtual Agent satisfaction score.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[benchmarks-landing|Benchmarks]]

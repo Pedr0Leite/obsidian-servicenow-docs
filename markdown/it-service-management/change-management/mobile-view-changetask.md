@@ -14,7 +14,7 @@ breadcrumb: [Get started with Change Management mobile tasks, Mobile experience 
 
 # View change tasks
 
-You can view the state, risk, and the schedule of the [[change-tasks|change tasks]] in the Mobile Agent mobile application.
+You can view the state, risk, and the schedule of the change tasks in the Mobile Agent mobile application.
 
 ## Before you begin
 
@@ -40,6 +40,3 @@ Role required: itil or sn\_change\_write
 
 [Resolve or close a change task]()
 
-## Related
-
-- [[change-tasks|Change tasks]]

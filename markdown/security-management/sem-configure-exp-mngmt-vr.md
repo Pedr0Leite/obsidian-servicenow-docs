@@ -16,13 +16,13 @@ When your organization can't comply with a vulnerability management or security 
 
 ## Before you begin
 
-Use the [[sem-workspace-user-interface|Security Exposure Management workspace]] to limit the duration of an exception request and add a questionnaire to the exception or false positive request. You can also request an exception using the GRC: Policy and Compliance Management integration.
+Use the Security Exposure Management workspace to limit the duration of an exception request and add a questionnaire to the exception or false positive request. You can also request an exception using the GRC: Policy and Compliance Management integration.
 
 Role required: sn\_vul\_exception.admin
 
 ## About this task
 
-If [[vuln-landing-page|Vulnerability Response]] is enabled, you can limit the duration for which an exception can be requested. Similarly, if the GRC: Policy and Compliance Management module is installed, you can select GRC: Policy and Compliance Management on the configuration screen. Enabling this option enables you to request an exception that specifies the Policy and Control objective from GRC.
+If Vulnerability Response is enabled, you can limit the duration for which an exception can be requested. Similarly, if the GRC: Policy and Compliance Management module is installed, you can select GRC: Policy and Compliance Management on the configuration screen. Enabling this option enables you to request an exception that specifies the Policy and Control objective from GRC.
 
 The exception approver requires the reason for the exception request.
 
@@ -30,7 +30,7 @@ The exception approver requires the reason for the exception request.
 
 1.  Navigate to **Workspaces** &gt; **Security Exposure Management Workspace** &gt; **Administration** &gt; **Exception Management** &gt; **Review** &gt; **Basic configuration**.
 
-2.  Select one of the following apps: **Vulnerability Response Exception Management**, **[[avr-landing|Application Vulnerability Response]] Exception Management**, **[[cvr-landing|Container Vulnerability Response]] Exception Management**, **Configure Compliance Exception Management**.
+2.  Select one of the following apps: **Vulnerability Response Exception Management**, **Application Vulnerability Response Exception Management**, **Container Vulnerability Response Exception Management**, **Configure Compliance Exception Management**.
 
 3.  On the Exception Management Configuration page, select how you want to manage an exception by selecting an option from the **Manage exceptions using** list.
 
@@ -76,9 +76,9 @@ The exception approver requires the reason for the exception request.
 8.  Select **Save**.
 
 
--   **[[sem-integration-with-grc|Request an exception using GRC: Policy and Compliance Management]]**  
+-   **[Request an exception using GRC: Policy and Compliance Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-integration-with-grc.md)**  
 Request policy exceptions using the GRC policy exception management capability in the Policy and Compliance Management application from within Vulnerability Response.
--   **[[sem-ex-req-sysprop|Specify the duration of an exception requested for a remediation task]]**  
+-   **[Specify the duration of an exception requested for a remediation task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-ex-req-sysprop.md)**  
 Use system properties to limit the duration for which an exception is requested for a remediation task. Remediation of the remediation task is deferred for the specified period.
 
 **Related topics**  
@@ -86,11 +86,3 @@ Use system properties to limit the duration for which an exception is requested 
 
 [sem-exception-ques-scenarios]
 
-## Related
-
-- [[sem-integration-with-grc|sem integration with grc]]
-- [[sem-ex-req-sysprop|Specify the duration of an exception requested for a remediation task]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[avr-landing|Application Vulnerability Response]]
-- [[cvr-landing|Container Vulnerability Response]]

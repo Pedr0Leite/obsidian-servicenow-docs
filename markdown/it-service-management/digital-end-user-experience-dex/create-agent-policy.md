@@ -26,7 +26,7 @@ Role required: admin
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  In the primary navigation pane, select the [[dex-workspace-administration-tab|DEX Administration]] icon \(\[Omitted image "icon-administration.png"\] Alt text:\).
+2.  In the primary navigation pane, select the DEX Administration icon \(\[Omitted image "icon-administration.png"\] Alt text:\).
 
 3.  In the Device and application configuration section, select **Manage policies** on the Agent policies card.
 
@@ -85,7 +85,7 @@ Specify the monitored CIs by using CMDB group queries. When selected, the **Moni
 
     Checks can be selected multiple times when you’re monitoring more than one process. You can also select a group of checks in the **Filter checks by groups** field, which presents checks of the selected group in the **Available** cell.
 
-8.  On the **Proxy [[settings-mobile|Settings]]** tab, configure a proxy server.
+8.  On the **Proxy Settings** tab, configure a proxy server.
 
     Configure a proxy server only when using the agent as a proxy to report data on remote machines.
 
@@ -140,7 +140,3 @@ The specified cron expression operates in the time zone of the machine hosting t
     -   **Publish**: Publishes the Draft policy, moving its **Publish status** to **Queued**. A queued policy is processed by the policy publishing job. The job calculates which agents run the policy and then sends the policy to the relevant MID Servers. The job then moves the policy's **Publish status** to **Published**. A published policy is active on the agent.
     -   **Delete**: Deletes the policy.
 
-## Related
-
-- [[dex-workspace-administration-tab|DEX Administration]]
-- [[settings-mobile|Settings]]

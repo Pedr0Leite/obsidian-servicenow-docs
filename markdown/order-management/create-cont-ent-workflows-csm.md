@@ -28,21 +28,21 @@ For every order with multiple product offerings, a single contract with multiple
 
 ## Creating contracts from product inventory records
 
-If the system property sn\_ind\_tmt\_orm.enable\_prod\_invt\_for\_order\_management is set to true, [[reviewing-orchestration-plans-order-fulfillment|order fulfillment]] workflows create product inventories based on customer orders, product offerings and specifications. On creation of a product inventory, contract lines and entitlements will be created. When a product inventory undergoes a state change, the associated contract lines and entitlements are synced. For more information, see [Product inventory configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/product_inventory_configurations.md). Product inventory records trigger updates to contracts and entitlements under the following conditions:
+If the system property sn\_ind\_tmt\_orm.enable\_prod\_invt\_for\_order\_management is set to true, order fulfillment workflows create product inventories based on customer orders, product offerings and specifications. On creation of a product inventory, contract lines and entitlements will be created. When a product inventory undergoes a state change, the associated contract lines and entitlements are synced. For more information, see [Product inventory configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/product_inventory_configurations.md). Product inventory records trigger updates to contracts and entitlements under the following conditions:
 
--   Process Telecom Order Line flow: The ADD flow creates contract and entitlement records from the product inventory. The [[Modify|MODIFY]] flow updates the states of the contract line items and entitlements.
--   Post Process Telecom Top Domain Order flow: The MODIFY flow updates the states, [[fields|fields]], and characteristics for contract line items and entitlements.
--   Product Inventory Operations record: Depending on the scheduled date and time, the DISCONNECT, [[Resume|RESUME]], and [[Suspend|SUSPEND]] flows cancels, activates, or suspends the contract line items and entitlements.
+-   Process Telecom Order Line flow: The ADD flow creates contract and entitlement records from the product inventory. The MODIFY flow updates the states of the contract line items and entitlements.
+-   Post Process Telecom Top Domain Order flow: The MODIFY flow updates the states, fields, and characteristics for contract line items and entitlements.
+-   Product Inventory Operations record: Depending on the scheduled date and time, the DISCONNECT, RESUME, and SUSPEND flows cancels, activates, or suspends the contract line items and entitlements.
 
 ## Configuring Customer Life Cycle Workflows Policy decision table
 
-Customer Life Cycle Workflows Policy decision table decides the target entity while renewing and modifying customer contracts, customer contract lines, and entitlements. Based on this decision table, you can [[create-new-quote|create a quote]], an order, an opportunity, or an opportunity and a quote together while renewing or modifying a customer contract. For a target entity, you can also select when you want to initiate the renewal of the customer contract.
+Customer Life Cycle Workflows Policy decision table decides the target entity while renewing and modifying customer contracts, customer contract lines, and entitlements. Based on this decision table, you can create a quote, an order, an opportunity, or an opportunity and a quote together while renewing or modifying a customer contract. For a target entity, you can also select when you want to initiate the renewal of the customer contract.
 
 \[Omitted image "customer-lc-decision-table-input.png"\] Alt text: Customer Life Cycle Workflows Policy decision table
 
 \[Omitted image "customer-lc-decision-table-conditions.png"\] Alt text: Customer Life Cycle Workflows Policy decision table
 
-You can configure [[rules_101|rules]] based on the six available input parameters to a required target entity while renewing and modifying contracts. Select the following values in the Target Entity Name column to create the corresponding target entities.\[Omitted video\] Description: Using Customer Life Cycle Workflows Policy Decision Table
+You can configure rules based on the six available input parameters to a required target entity while renewing and modifying contracts. Select the following values in the Target Entity Name column to create the corresponding target entities.\[Omitted video\] Description: Using Customer Life Cycle Workflows Policy Decision Table
 
 <table id="table_khy_45b_v2c"><thead><tr><th>
 
@@ -85,10 +85,10 @@ Opportunity**Note:** You cannot create opportunities for modifying process.
 Opportunity and quote together**Note:** You cannot create opportunities and quotes for modifying process.
 
 </td></tr></tbody>
-</table>**Note:** To [[create-new-opportunity|create an opportunity]] or opportunity and quote together during renewal, the admin needs to set up the following records:
+</table>**Note:** To create an opportunity or opportunity and quote together during renewal, the admin needs to set up the following records:
 
--   Sales Cycle Type: In the Code field, enter **[[Renew|RENEW]]** and set the Active option to **True**. For more info, see [[opportunity-management-sales-cycle-types|Create a sales cycle for an opportunity]].
--   Opportunity Stage: In the Name field, enter **Develop** and set the Active option to **True**. For more info, see [[opportunity-management-opportunity-stages|Create opportunity stages]].
+-   Sales Cycle Type: In the Code field, enter **RENEW** and set the Active option to **True**. For more info, see [Create a sales cycle for an opportunity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management-sales-cycle-types.md).
+-   Opportunity Stage: In the Name field, enter **Develop** and set the Active option to **True**. For more info, see [Create opportunity stages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management-opportunity-stages.md).
 
 If the user selects an opportunity and a quote as target entities, a renewal opportunity and a quote is created. The opportunity and the quote are associated to each other.
 
@@ -97,16 +97,3 @@ For any target entity, select one of the following options in the Auto Renewal I
 -   With contract, 12 months before end date respectively: Opportunity is auto renewed on the contract creation date and the quote is renewed 12 months before the contract expiry date.
 -   90, 90 days before end date respectively: Opportunity and quote both are renewed 90 days before the contract expiry date.
 
-## Related
-
-- [[opportunity-management-sales-cycle-types|Create a sales cycle for an opportunity]]
-- [[opportunity-management-opportunity-stages|Create opportunity stages]]
-- [[reviewing-orchestration-plans-order-fulfillment|Order fulfillment]]
-- [[Modify|Modify]]
-- [[fields|Fields]]
-- [[Resume|Resume]]
-- [[Suspend|Suspend]]
-- [[create-new-quote|Create a quote]]
-- [[rules_101|Rules]]
-- [[create-new-opportunity|Create an opportunity]]
-- [[Renew|Renew]]

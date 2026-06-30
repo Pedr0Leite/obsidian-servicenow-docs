@@ -15,7 +15,7 @@ breadcrumb: [Asset and CI management, Explore, Hardware Asset Management, IT Ass
 
 # Using CMDB success advisor for HAM
 
-As a CMDB administrator, you can use the [[ham-landing-page|Hardware Asset Management]] \(HAM\) dashboard in CMDB success advisor to keep hardware asset data accurate and aligned with data quality guidelines.
+As a CMDB administrator, you can use the Hardware Asset Management \(HAM\) dashboard in CMDB success advisor to keep hardware asset data accurate and aligned with data quality guidelines.
 
 The ServiceNow® CMDB success advisor is a scoped application that drives business outcomes for targeted business products. To learn more, see [CMDB success advisor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-sa.md).
 
@@ -45,6 +45,3 @@ The ServiceNow® CMDB success advisor is a scoped application that drives busine
 
 [Hardware Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/ham-landing-page.md)
 
-## Related
-
-- [[ham-landing-page|Hardware Asset Management]]

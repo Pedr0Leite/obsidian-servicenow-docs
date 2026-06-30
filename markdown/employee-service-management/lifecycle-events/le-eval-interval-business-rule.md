@@ -14,7 +14,7 @@ breadcrumb: [Lifecycle Events evaluation interval, Configure a lifecycle event, 
 
 # View and use the Condition with Event BR \(Demo\) business rule
 
-You can view and use the Condition with Event BR \(Demo\) business rule to trigger an evaluation of your [[activity-lxp|activity]] set faster.
+You can view and use the Condition with Event BR \(Demo\) business rule to trigger an evaluation of your activity set faster.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **[[hr-lifecycle-events-landing-page-1|Lifecycle Events]]** &gt; **Lifecycle Events Cases**.
+1.  Navigate to **Lifecycle Events** &gt; **Lifecycle Events Cases**.
 
 2.  Select a case that was created from the New Hire Onboarding \(Demo\) lifecycle event.
 
@@ -51,7 +51,3 @@ Role required: admin
 
 **Parent Topic:**[Lifecycle Events evaluation interval](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/le-evaluation-interval1.md)
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]

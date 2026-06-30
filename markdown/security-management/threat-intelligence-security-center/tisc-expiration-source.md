@@ -28,7 +28,7 @@ Expiration rules are basically helpful to set the expiration time for the source
     Look for a rule that specifically matches the combination of:
 
     -   **Data Source type**: CrowdStrike
-    -   **Type of Records**: [[threat-intelligence-malware|Malware]]
+    -   **Type of Records**: Malware
 3.  **Priority based on the matching rule combinations:**
 
     If there exists a rule where the data source type is **CrowdStrike** and the record type is **Malware**, this rule takes the precedence. The expiration time specified in this rule will be applied.
@@ -41,14 +41,10 @@ Expiration rules are basically helpful to set the expiration time for the source
 
     \[Omitted image "tisc-config-expiration-rule.png"\] Alt text: Expiration Rules for Source Records.
 
-6.  **Deletion of [[data-sources|data sources]]:**
+6.  **Deletion of data sources:**
 
     Suppose, if a data source that has the expiration rules associated with it is deleted, then the deletion may be restricted or not allowed until these rules are addressed. This ensures that there are no inconsistencies in the application of expiration policies.
 
 
 **Parent Topic:**[Defining Expiration Rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-expiration-rules.md)
 
-## Related
-
-- [[threat-intelligence-malware|Malware]]
-- [[data-sources|Data Sources]]

@@ -14,7 +14,7 @@ breadcrumb: [Lifecycle Events evaluation interval, Configure a lifecycle event, 
 
 # Change the evaluation interval default wait time
 
-As an administrator, you can change the default time that an [[activity-lxp|activity]] set waits before the activity set is evaluated.
+As an administrator, you can change the default time that an activity set waits before the activity set is evaluated.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Starting in the Utah family, the default evaluation interval can be changed.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hr-lifecycle-events-landing-page-1|Lifecycle Events]]** &gt; **Manage Lifecycle Events**.
+1.  Navigate to **All** &gt; **Lifecycle Events** &gt; **Manage Lifecycle Events**.
 
 2.  Select a lifecycle event.
 
@@ -61,7 +61,3 @@ Starting in the Utah family, the default evaluation interval can be changed.
 
 **Parent Topic:**[Lifecycle Events evaluation interval](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/le-evaluation-interval1.md)
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]

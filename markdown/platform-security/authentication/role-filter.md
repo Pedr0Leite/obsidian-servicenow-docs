@@ -14,11 +14,7 @@ breadcrumb: [Filter criteria, Adaptive authentication, Authentication, Access Ma
 
 # Role Filter
 
-Use role filter criteria to filter [[users|users]] based on their roles.
+Use role filter criteria to filter users based on their roles.
 
-Role filter criteria allows you to filter users based on the roles. You can [[configure-allow-access-policy|configure an authentication policy]] to allow or deny access to a list of user roles.
+Role filter criteria allows you to filter users based on the roles. You can configure an authentication policy to allow or deny access to a list of user roles.
 
-## Related
-
-- [[users|Users]]
-- [[configure-allow-access-policy|Configure an authentication policy]]

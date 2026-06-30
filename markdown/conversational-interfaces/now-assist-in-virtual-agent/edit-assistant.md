@@ -28,7 +28,7 @@ When editing a chat assistant, actions may differ.
 
 |Default assistants|Activate|Deactivate|Edit|Test|Delete|
 |------------------|--------|----------|----|----|------|
-|Now Assist in [[virtual-agent-landing-page|Virtual Agent]] \(default\)|Yes|Yes|Yes|Yes|No|
+|Now Assist in Virtual Agent \(default\)|Yes|Yes|Yes|Yes|No|
 |Now Assist panel - Platform \(default\)|Yes|Yes|Yes \(except for name and description\)|Yes|No|
 |Now Assist panel - Developer|Yes|Yes|Yes \(with limited configuration\)|Yes|No|
 |Employee Slate assistant \(default\)|Yes|Yes|Yes|Yes|No|
@@ -36,7 +36,7 @@ When editing a chat assistant, actions may differ.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[assistant-designer|Assistant Designer]]**.
+1.  Navigate to **All** &gt; **Assistant Designer**.
 
 2.  From the **Assistants** tab, select **Edit** for the assistant that you want to edit.
 
@@ -53,7 +53,7 @@ When editing a chat assistant, actions may differ.
     -   Assistant hierarchy: primary or secondary assistant. This section only appears if an assistant is set as a primary or secondary assistant.
     -   Assistant description
     -   Display experience
-    -   Additional chat features: [[web-search-requestor|web search]] mode, response streaming, document uploads, closed chats, and voice input \(for Now Assist panel - Platform assistant\).
+    -   Additional chat features: web search mode, response streaming, document uploads, closed chats, and voice input \(for Now Assist panel - Platform assistant\).
 3.  From the Overview page, select the appropriate button or link to make your edits.
 
     \[Omitted image "NAinVA-edit-overview-122025.png"\] Alt text: Overview page when editing an assistant.
@@ -72,13 +72,13 @@ When editing a chat assistant, actions may differ.
 
     \[Omitted image "NAinVA-edit-info-sources-122025.png"\] Alt text: Edit information sources of your assistant. \[Omitted image ""\] Alt text:
 
-    -   In **Search sources**, [[add-info-sources-assistant|assign search sources to a chat assistant]]. Search sources are used to determine what the assistant looks at to answer user queries. If there were any search configurations that were previously done, those configurations would remain. For more information, see [Assign search sources to a chat assistant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/add-info-sources-assistant.md).
+    -   In **Search sources**, assign search sources to a chat assistant. Search sources are used to determine what the assistant looks at to answer user queries. If there were any search configurations that were previously done, those configurations would remain. For more information, see [Assign search sources to a chat assistant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/add-info-sources-assistant.md).
     -   In **Knowledge Graphs**, edit your Knowledge Graph schema to represent semantic relationships in your data. For more information, see [Add a Knowledge Graph schema to a chat assistant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/add-kg-schema-assistant.md).
     -   In **Asset types**, add assets or migrate NLU topics. Asset are the building blocks of each assistant, providing them with instructions and functionality for helping users. They range from simple actions to complex AI agents. The **All assets** page shows the assets that are currently assigned to the assistant. For more information about the various assets such as topics, subflows, actions, custom skills, and AI agents, see [Add assets to a chat assistant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/add-assets.md).
     -   In **Asset visibility**, all assets that are assigned to the assistant are shown.
         -   Discoverable: Discoverable assets can be found and used by your assistant when they match what a user says.
         -   Visible: Visible assets appear when users select **Show me everything** in the assistant.
-        -   Promoted: Promoted assets give users quick access to your most helpful options. For [[now-assist-in-va-landing|Now Assist in Virtual Agent]] assistants, there is no limit to the number of assets that can be promoted.
+        -   Promoted: Promoted assets give users quick access to your most helpful options. For Now Assist in Virtual Agent assistants, there is no limit to the number of assets that can be promoted.
 
             -   The number of manually promoted assets is shown.
             -   The assets that have been manually promoted are shown, including asset name, asset description, asset type, and the condition label.
@@ -97,22 +97,13 @@ When editing a chat assistant, actions may differ.
 
     -   In **AI agent support**, you can prioritize AI agents during skills discovery. For more information, see [Use agentic support for a chat assistant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/use-agentic-support.md).
     -   In **Display experiences**, you can select at least one portal, or integrate with your preferred messaging channels, to display your assistant. For more information, see [Display your chat assistant on a portal, channel, or mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/display-assistant-portal-channel.md).
-    -   In **Branding**, configure branding for standard, enhanced, or [[nava-integrated-chat|premium chat]] experiences. For more information, see [Brand and personalize an assistant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/brand-assistant.md).
+    -   In **Branding**, configure branding for standard, enhanced, or premium chat experiences. For more information, see [Brand and personalize an assistant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/brand-assistant.md).
     -   In **Chat features**, by default, all chat experiences except web search, are turned on. For more information, see [Enable additional chat features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/additional-chat-features.md).
     -   In **Chat experience**, you can edit your greeting and closing messages, and fallback options. When an instance is upgraded, your premium messages and premium fallbacks are pre-filled with your legacy messages and legacy fallbacks.
 
-        **Note:** Premium messages and premium fallbacks are only pre-filled with your legacy messages and legacy fallbacks upon an instance upgrade. After upgrading your instance, if you create an assistant that uses [[nava-enhanced-chat|enhanced chat]] and later switch to premium chat, the legacy messages and legacy fallbacks from enhanced chat must be reconfigured in premium messages and premium fallbacks.
+        **Note:** Premium messages and premium fallbacks are only pre-filled with your legacy messages and legacy fallbacks upon an instance upgrade. After upgrading your instance, if you create an assistant that uses enhanced chat and later switch to premium chat, the legacy messages and legacy fallbacks from enhanced chat must be reconfigured in premium messages and premium fallbacks.
 
         For more information, see [Manage an assistant chat experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/manage-assistant-chat-experience.md).
 
     -   In **Response feedback**, when a user rates a response, a response feedback form appears. Configure the options so that users can share feedback regarding what worked about the response, or what needs improvement. For more information, see [Manage response feedback](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/manage-sentiment-survey.md).
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[assistant-designer|Assistant Designer]]
-- [[web-search-requestor|Web search]]
-- [[add-info-sources-assistant|Assign search sources to a chat assistant]]
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]
-- [[nava-integrated-chat|Premium chat]]
-- [[nava-enhanced-chat|Enhanced chat]]

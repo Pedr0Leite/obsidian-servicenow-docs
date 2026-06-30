@@ -14,7 +14,7 @@ breadcrumb: [Explore, Telecommunications Network Inventory]
 
 # Network Inventory Workspace
 
-The Network Inventory Workspace is the intuitive and streamlined user interface of the [[telecom-network-inventory|Telecommunications Network Inventory]] application to manage your network inventory. You can use Network Inventory Workspace to view your inventory details, respond to all task types, and perform the network functions such as designing the network.
+The Network Inventory Workspace is the intuitive and streamlined user interface of the Telecommunications Network Inventory application to manage your network inventory. You can use Network Inventory Workspace to view your inventory details, respond to all task types, and perform the network functions such as designing the network.
 
 ## Introduction to Network Inventory Workspace
 
@@ -35,14 +35,14 @@ The views in the Network Inventory Workspace provide visibility into all the imp
 
 -   [Landing page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/network-inventory-workspace-landing-page.md): View active tasks and quick access links to them.
 -   [Management view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/inventory-management-view.md): View details of the network inventory.
--   [Lists view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/network-inventory-workspace-list-view.md): Access the filtered list of the inventory classes and functions to perform the network inventory tasks, for example, [[telecommunications-circuit-design-resource-assignment|design and assign]].
+-   [Lists view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/network-inventory-workspace-list-view.md): Access the filtered list of the inventory classes and functions to perform the network inventory tasks, for example, design and assign.
 
 -   **[Landing page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/network-inventory-workspace-landing-page.md)**  
-Get real-time visibility into your network inventory and to perform the daily tasks through the Network Inventory Workspace [[network-inventory-workspace-landing-page|landing page]].
+Get real-time visibility into your network inventory and to perform the daily tasks through the Network Inventory Workspace landing page.
 -   **[Management view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/inventory-management-view.md)**  
-Use the Inventory [[inventory-management-view|management view]] in the Telecommunications Network Inventory Workspace to get a detailed view of your network inventory.
+Use the Inventory management view in the Telecommunications Network Inventory Workspace to get a detailed view of your network inventory.
 -   **[Lists view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/network-inventory-workspace-list-view.md)**  
-You use the [[network-inventory-workspace-list-view|Lists view]] to access the inventory classes and functions to perform the Network Inventory tasks.
+You use the Lists view to access the inventory classes and functions to perform the Network Inventory tasks.
 
 **Parent Topic:**[Exploring Telecommunications Network Inventory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/exploring-telecommunicatons-network-inventory.md)
 
@@ -51,10 +51,3 @@ You use the [[network-inventory-workspace-list-view|Lists view]] to access the i
 
 [Exploring Next Experience UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-ui.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[telecommunications-circuit-design-resource-assignment|Design and assign]]
-- [[network-inventory-workspace-landing-page|Landing page]]
-- [[inventory-management-view|Management view]]
-- [[network-inventory-workspace-list-view|Lists view]]

@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-connectors-landing-page|Workplace Connectors]]** &gt; **Occupancy Sensors** &gt; **Space Occupancy Data**.
+1.  Navigate to **All** &gt; **Workplace Connectors** &gt; **Occupancy Sensors** &gt; **Space Occupancy Data**.
 
     Fill in the form fields.
 
@@ -36,7 +36,7 @@ Descriptions
 
 </th></tr></thead><tbody><tr><td>
 
-[[provider-configuration-ovw|Provider Connector Configuration]]
+Provider Connector Configuration
 
 </td><td>
 
@@ -98,7 +98,3 @@ To check for occupancy status of a space in the location directory \(Card view a
 
 **Next topic:**[Archive and Purge space occupancy data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/archive-purge-occupancy-data.md)
 
-## Related
-
-- [[workplace-connectors-landing-page|Workplace Connectors]]
-- [[provider-configuration-ovw|Provider connector configuration]]

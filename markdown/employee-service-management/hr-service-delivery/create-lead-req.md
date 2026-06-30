@@ -22,7 +22,7 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[recruitment-workspace-concept|Recruitment workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Recruitment workspace**.
 
 2.  Go to the **Job requisition** tab.
 
@@ -45,6 +45,3 @@ You have created a prospect within a job requisition.
 
 **Parent Topic:**[Job prospects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/job-leads.md)
 
-## Related
-
-- [[recruitment-workspace-concept|Recruitment workspace]]

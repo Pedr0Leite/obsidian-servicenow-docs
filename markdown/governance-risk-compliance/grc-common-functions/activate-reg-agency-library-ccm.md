@@ -14,7 +14,7 @@ breadcrumb: [Regulatory Agency Library, Common GRC features, Governance, Risk, a
 
 # Download and activate the Regulatory Agency Library plugin
 
-You can activate the GRC: [[regulatory-agency-library-rcm|Regulatory Agency Library]] application if you have the admin role. This application includes demo data and provides you access to regulatory body profiles.
+You can activate the GRC: Regulatory Agency Library application if you have the admin role. This application includes demo data and provides you access to regulatory body profiles.
 
 ## Before you begin
 
@@ -53,6 +53,3 @@ Role required: admin
 
 **Parent Topic:**[Regulatory Agency Library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/regulatory-agency-library-rcm.md)
 
-## Related
-
-- [[regulatory-agency-library-rcm|Regulatory Agency Library]]

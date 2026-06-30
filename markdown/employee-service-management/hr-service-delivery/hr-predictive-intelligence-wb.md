@@ -14,7 +14,7 @@ breadcrumb: [Integration of HR Service Delivery with ServiceNow applications, HR
 
 # HR Predictive Intelligence Workbench
 
-The HR Predictive Intelligence Workbench application provides prebuilt use case templates and guides you through your predictive machine-[[exploring-learning-exp|learning]] implementation to create intelligent HR processes. Business process architects use prebuilt functionality, including pretrained models, to get started with machine learning use cases.
+The HR Predictive Intelligence Workbench application provides prebuilt use case templates and guides you through your predictive machine-learning implementation to create intelligent HR processes. Business process architects use prebuilt functionality, including pretrained models, to get started with machine learning use cases.
 
 ## Overview
 
@@ -33,6 +33,3 @@ You can use machine learning to optimize your business processes. You can train 
 
 **Parent Topic:**[Integration of HR Service Delivery with ServiceNow applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/integrate-hr-platform-apps.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]

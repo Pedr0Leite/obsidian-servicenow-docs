@@ -18,7 +18,7 @@ Track and monitor the real-time state of work order tasks. You can auto-assign t
 
 ## Assign work order tasks to agents
 
-[[t_AssignATask|Assign a work order task]] to a field service agent from [[dispatcher-activities|Dispatcher Workspace]].
+Assign a work order task to a field service agent from Dispatcher Workspace.
 
 ### Before you begin
 
@@ -31,7 +31,7 @@ If the task is assigned to an agent in the territory that best matches its locat
 -   The Field Service territory model, **Field\_Service\_Territories**. For more information, see [Enable the Field Service territory model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/enable-territory-model.md).
 -   **Territory** option in Dispatcher Workspace to view the territory information in the task card and the agent card. For more information, see [Enable Dispatcher Workspace settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/dispatcher-wrkspc-settings.md).
 
-If the task assignment method must respect the workforce optimized shift schedules then you must enable the **Enable Shift Scheduling for FSM to Determine Availability** configuration to activate the [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]] data model. For more information, see [Activate Workforce Optimization for Field Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/activate-wfo-fsm.md).
+If the task assignment method must respect the workforce optimized shift schedules then you must enable the **Enable Shift Scheduling for FSM to Determine Availability** configuration to activate the Workforce Optimization for Field Service data model. For more information, see [Activate Workforce Optimization for Field Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/activate-wfo-fsm.md).
 
 **Note:** If the **Enable Shift Scheduling for FSM to Determine Availability** configuration is enabled, the Dispatcher Workspace calendar displays the schedules and events created in Workforce Optimization for Field Service application.
 
@@ -39,7 +39,7 @@ If the task assignment method must respect the workforce optimized shift schedul
 
 You can assign work order tasks that are in pending to dispatch either manually or automatically in the Dispatcher Workspace.
 
--   To assign work order tasks automatically, you must enable [[dynamic-scheduling|dynamic scheduling]]. The auto-assign capability automatically matches a task to a nearby agent who has the necessary skills and a schedule that can accommodate the task. For more information, see [[dispatcher-ws-dy-scheduling|Setting up dynamic scheduling in Dispatcher Workspace]].
+-   To assign work order tasks automatically, you must enable dynamic scheduling. The auto-assign capability automatically matches a task to a nearby agent who has the necessary skills and a schedule that can accommodate the task. For more information, see [Setting up dynamic scheduling in Dispatcher Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/dispatcher-ws-dy-scheduling.md).
 -   To assign work order tasks manually, consider the following aspects:
     -   The length of time required to complete a task
     -   The window of time in which a task must be completed
@@ -185,7 +185,7 @@ As a dispatcher, you can recommend the best available tasks to fill gaps in an a
 
 Role required: wm\_dispatcher
 
-The Field Service [[fsm-task-recommendation|Intelligent Task Recommendation]] plugin must be activated. For more information, see [Activate Intelligent Task Recommendation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/activate-intelligent-task-recommendation.md).
+The Field Service Intelligent Task Recommendation plugin must be activated. For more information, see [Activate Intelligent Task Recommendation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/activate-intelligent-task-recommendation.md).
 
 ### About this task
 
@@ -193,9 +193,9 @@ Intelligent Task Recommendations identifies and recommends the best available ta
 
 -   Start and end time of the task.
 -   Excludes the work order tasks that are schedule locked.
--   Agent's territory and task's territory if [[territory-planning-fsm|Field Service Territory Planning]] plugin \(com.snc.fsm\_territory\_planning\) is enabled.
+-   Agent's territory and task's territory if Field Service Territory Planning plugin \(com.snc.fsm\_territory\_planning\) is enabled.
 -   Considers the agent's start and end locations from the **Resource Schedule Attributes** table for the given day.
--   Integrates agent's schedule and events from the Workforce Optimization for Field Service application when the **Enable Shift Scheduling for FSM to Determine Availability** configuration is enabled. For more information, see [[t_ConfigureFieldService|Global domain configurations]] and [Activate Workforce Optimization for Field Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/activate-wfo-fsm.md).
+-   Integrates agent's schedule and events from the Workforce Optimization for Field Service application when the **Enable Shift Scheduling for FSM to Determine Availability** configuration is enabled. For more information, see [Global domain configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/t_ConfigureFieldService.md) and [Activate Workforce Optimization for Field Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/activate-wfo-fsm.md).
 -   Considers technician-demand channel association when **Enable Shift Scheduling for FSM to Determine Availability**, **Enable/disable association of territory resources with demand channels**, and territory model is enabled.
 
 ### Procedure
@@ -265,7 +265,7 @@ The time card is automatically created for the user.
 
 ## Cancel a work order task in Dispatcher Workspace
 
-[[t_CancelAWorkOrderTask|Cancel a work order task]] in Dispatcher Workspace if it’s no longer necessary or is a duplicate of another work order task.
+Cancel a work order task in Dispatcher Workspace if it’s no longer necessary or is a duplicate of another work order task.
 
 ### Before you begin
 
@@ -321,7 +321,7 @@ The parent work order of the task is suspended.
 
 ## Assign work order task to an outsourced Service Provider in Dispatcher Workspace
 
-Assign work order tasks directly to the outsourced service providers \(also called contractor companies\) from an external assignment group [[using-dispatcher-workspace|using Dispatcher Workspace]].
+Assign work order tasks directly to the outsourced service providers \(also called contractor companies\) from an external assignment group using Dispatcher Workspace.
 
 ### Before you begin
 
@@ -349,21 +349,6 @@ Role required: wm\_dispatcher
 
 -   The task is displayed on the calendar next to the outsourced service provider's name.
 -   The task is assigned to the manager of the outsourced service provider.
--   The calendar view of the outsourced service provider displays the [[capacity|capacity]] utilization information in percentage and definition. For example, if a company's defined capacity is five tasks and so far only two tasks are assigned to the company, the capacity utilization data displays that 40% capacity has been used and 2 out of 5 tasks have been assigned to the company. For more information about [[capacity-reservations|capacity reservation rules]], see [[capacity-management|Capacity and Reservations Management]].
+-   The calendar view of the outsourced service provider displays the capacity utilization information in percentage and definition. For example, if a company's defined capacity is five tasks and so far only two tasks are assigned to the company, the capacity utilization data displays that 40% capacity has been used and 2 out of 5 tasks have been assigned to the company. For more information about capacity reservation rules, see [Capacity and Reservations Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/capacity-management.md).
 -   If the tasks assigned to the outsourced service provider is more than its defined capacity, a red vertical bar displays on the calendar, indicating over-allocation of tasks.
 
-## Related
-
-- [[dispatcher-ws-dy-scheduling|Setting up dynamic scheduling in Dispatcher Workspace]]
-- [[t_ConfigureFieldService|Global domain configurations]]
-- [[capacity-management|Capacity and Reservations Management]]
-- [[t_AssignATask|Assign a work order task]]
-- [[dispatcher-activities|Dispatcher Workspace]]
-- [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]]
-- [[dynamic-scheduling|Dynamic scheduling]]
-- [[fsm-task-recommendation|Intelligent Task Recommendation]]
-- [[territory-planning-fsm|Field Service Territory Planning]]
-- [[t_CancelAWorkOrderTask|Cancel a work order task]]
-- [[using-dispatcher-workspace|Using Dispatcher Workspace]]
-- [[capacity|Capacity]]
-- [[capacity-reservations|Capacity reservation rules]]

@@ -12,11 +12,11 @@ breadcrumb: [Transaction Manager: Use cases, Transaction Manager, CPQ app, Confi
 
 # Transaction Manager use case: Document generation with Google Docs
 
-Generate documents from [[transaction-manager|Transaction Manager]] by using Google Docs and Google Apps Script.
+Generate documents from Transaction Manager by using Google Docs and Google Apps Script.
 
 To generate a document from Transaction Manager, Google Docs combined with Google Apps Script provides an efficient and straightforward solution. By creating custom APIs using Apps Script, you can easily receive GET and POST requests from a direct URL. This eliminates the need for middleware, streamlining integration with services like CPQ or Transaction Manager.
 
-You can trigger [[generating_documents_with_logik_io_configuration_data|document generation]] by either of these methods:
+You can trigger document generation by either of these methods:
 
 -   CPQ Webhook: Automatically send POST requests to initiate document creation.
 -   Transaction Manager: Use this for managing and automating processes.
@@ -40,7 +40,7 @@ Google Apps Script includes GET and POST requests.
 
 This [video](https://www.youtube.com/watch?v=N3vnUgjQCGU) explains how the `doGet` and `doPost` work in a Google Doc app script.
 
-When using Transaction Manager, you need to transform the JSON to send over to Google Docs. Below is an example template. If you are using a webhook, see [[cpq-webhooks|Webhooks]] for how the data will be sent over to Google Docs.
+When using Transaction Manager, you need to transform the JSON to send over to Google Docs. Below is an example template. If you are using a webhook, see [Webhooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-webhooks.md) for how the data will be sent over to Google Docs.
 
 The following code block shows an example Transform Template, sent as a POST to the doPost function.
 
@@ -139,7 +139,7 @@ The following code block shows an example Transform Template, sent as a POST to 
 }
 ```
 
-If you do not set the `doGet` function and try to access the URL you will receive an error. If not using the `doGet` for other purposes, it is best to always set it to the following and just [[Modify|modify]] the text.
+If you do not set the `doGet` function and try to access the URL you will receive an error. If not using the `doGet` for other purposes, it is best to always set it to the following and just modify the text.
 
 ```
 function doGet(e) {
@@ -271,12 +271,5 @@ If needed, you can roll back to an older version of your web app:
 
 This provides an easy way to revert any issues that may arise with newer versions.
 
-**Parent Topic:**[[transaction-manager-use-cases|Transaction Manager: Use cases]]
+**Parent Topic:**[Transaction Manager: Use cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/transaction-manager-use-cases.md)
 
-## Related
-
-- [[cpq-webhooks|Webhooks]]
-- [[transaction-manager-use-cases|transaction manager use cases]]
-- [[transaction-manager|Transaction Manager]]
-- [[generating_documents_with_logik_io_configuration_data|Document generation]]
-- [[Modify|Modify]]

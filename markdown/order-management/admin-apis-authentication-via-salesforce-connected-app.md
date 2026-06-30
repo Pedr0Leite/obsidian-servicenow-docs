@@ -14,14 +14,14 @@ breadcrumb: [API overview and resources, CPQ app, Configure, price, quote apps, 
 
 We recommend that you use admin API keys to authenticate admin API calls. An older method is documented here.
 
-CPQ administration APIs are useful to facilitate new product introduction, data transfer, test-to-production operations, and so on. For [[use-cases|use cases]] in which CPQ leverages Salesforce for user authentication, this article walks you through the steps required to build a Salesforce connected app and retrieve a JSON web token \[JWT\] that can be used to authenticate calls to CPQ administration APIs.
+CPQ administration APIs are useful to facilitate new product introduction, data transfer, test-to-production operations, and so on. For use cases in which CPQ leverages Salesforce for user authentication, this article walks you through the steps required to build a Salesforce connected app and retrieve a JSON web token \[JWT\] that can be used to authenticate calls to CPQ administration APIs.
 
 **Note:**
 
--   The release of admin API Keys has made this setup unnecessary and is now the recommended method of authentication of admin API calls. See [[cpq-admin-api-keys|Intro to admin API keys]].
+-   The release of admin API Keys has made this setup unnecessary and is now the recommended method of authentication of admin API calls. See [Intro to admin API keys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-admin-api-keys.md).
 -   The JWT method that was recommended before February 2025 has been deprecated by Salesforce. Instead, follow the updated steps in this article.
 
-The JWT can be used as a bearer token to authenticate CPQ administration APIs to manipulate managed tables, write [[rules_101|rules]], deploy [[blueprints|blueprints]], and more.
+The JWT can be used as a bearer token to authenticate CPQ administration APIs to manipulate managed tables, write rules, deploy blueprints, and more.
 
 ## Creating or updating a connected app for JWT authentication
 
@@ -55,9 +55,3 @@ You can find the client ID and secret by viewing the Consumer Key and Secret →
 
 Note that a single call to Salesforce generates a token. Based on the **Issue JSON Web Token \(JWT\)-based access tokens for named users** setting in your connected app, the access token returned here is a JWT that you can use as a bearer token for CPQ APIs.
 
-## Related
-
-- [[cpq-admin-api-keys|Intro to admin API keys]]
-- [[use-cases|Use cases]]
-- [[rules_101|Rules]]
-- [[blueprints|Blueprints]]

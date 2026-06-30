@@ -14,7 +14,7 @@ breadcrumb: [AWS, Service Graph Connectors, Integrating third-party data into CM
 
 # Configure Service Graph Connector for AWS using SGC Central
 
-Use the playbook available with the [[sgcc-landing|SGC Central]] application to set up the [[cmdb-integration-aws-sg|Service Graph Connector for AWS]] for pulling in AWS data into the CMDB
+Use the playbook available with the SGC Central application to set up the Service Graph Connector for AWS for pulling in AWS data into the CMDB
 
 ## Before you begin
 
@@ -28,11 +28,11 @@ Role required: The following table shows the roles required for each stage of th
 |Prerequisites|admin|
 |Setup|SGC-Admin \(sn\_cmdb\_int\_util.sgc\_admin\) or admin|
 
-**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for [[cmdb-sgc-available|Service Graph Connectors]], see [Service Graph Connector user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md).
+**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md).
 
 ## About this task
 
-The playbook experience for onboarding connectors is activated with SGC Central in the [[sg-workspace|Service Graph Workspace]] or CMDB Workspace. To configure the SGC Central application, see [[sgcc-configuring|Configuring SGC Central]] and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/playbook-ui.md).
+The playbook experience for onboarding connectors is activated with SGC Central in the Service Graph Workspace or CMDB Workspace. To configure the SGC Central application, see [Configuring SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-configuring.md) and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/playbook-ui.md).
 
 ## Procedure
 
@@ -48,7 +48,7 @@ The playbook experience for onboarding connectors is activated with SGC Central 
 
 4.  Complete the initial prerequisites when setting up a connection for the first time using a connector.
 
-    **Note:** This step is required only during the first-time setup. See [[sgcc-first-time-setup|Perform initial setup tasks when creating a connection in SGC Central]].
+    **Note:** This step is required only during the first-time setup. See [Perform initial setup tasks when creating a connection in SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-first-time-setup.md).
 
 5.  Complete the prerequisites for setting up the AWS environment.
 
@@ -59,7 +59,7 @@ The playbook experience for onboarding connectors is activated with SGC Central 
 
             For more information on executing scripts, see [Basic scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-aws-script-op.md).
 
-        3.  Select the **I have read the instructions and executed the script accordingly** [[check-box|check box]] to confirm that you have executed the scripts.
+        3.  Select the **I have read the instructions and executed the script accordingly** check box to confirm that you have executed the scripts.
         4.  Select **Continue**.
     2.  Set up deep discovery on Amazon Elastic Compute Cloud \(Amazon EC2\) instances.
 
@@ -122,7 +122,7 @@ Secret access key that corresponds to the Access key ID required for authenticat
 
 </td></tr><tr><td>
 
-Use [[mid-server-landing|MID Server]]
+Use MID Server
 
 </td><td>
 
@@ -218,8 +218,8 @@ Region where the aggregator resource type resides. This field is available only 
             |AWS rotate keys|Option to enable the key rotation process.|
             |AWS key rotation date|Key rotation date. Set the value to the required key rotation date for the first run. For subsequent runs, this field is automatically set to the rotation date. This field is available only when you select the **AWS Rotate Keys** check box.|
             |AWS key rotation period \(in days\)|Key rotation period in days. This field is available only when you select the **AWS rotate keys** check box.|
-            |AWS key rotation status|Status message of a key rotation displaying whether the rotation was a success or a failure. This field is automatically set to display the key rotation status message. This field is available only when you select the **AWS rotate keys** check box. If the rotation status is a failure, an [[email|email]] notification is triggered, if configured.|
-            |Email accounts for receiving error notifications|Comma-separated list of the email addresses of recipients who [[c_ReceiveNotifications|receive notifications]] about the AWS key rotation errors.|
+            |AWS key rotation status|Status message of a key rotation displaying whether the rotation was a success or a failure. This field is automatically set to display the key rotation status message. This field is available only when you select the **AWS rotate keys** check box. If the rotation status is a failure, an email notification is triggered, if configured.|
+            |Email accounts for receiving error notifications|Comma-separated list of the email addresses of recipients who receive notifications about the AWS key rotation errors.|
             |Email account groups for receiving error notifications|Comma-separated list of the ServiceNow groups who receive notifications about the AWS key rotation errors.|
 
         11. Select the **Is gov cloud** check box in the Gov cloud setup section to indicate that the connection setup is for the AWS GovCloud.
@@ -310,15 +310,3 @@ Select **View all connections** to review the connection details. The configured
 
 [Additional features within the Service Graph Connector for AWS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-aws-add-features.md)
 
-## Related
-
-- [[sgcc-configuring|Configuring SGC Central]]
-- [[sgcc-first-time-setup|Perform initial setup tasks when creating a connection in SGC Central]]
-- [[sgcc-landing|SGC Central]]
-- [[cmdb-integration-aws-sg|Service Graph Connector for AWS]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[sg-workspace|Service Graph Workspace]]
-- [[check-box|Check box]]
-- [[mid-server-landing|MID Server]]
-- [[email|Email]]
-- [[c_ReceiveNotifications|Receive notifications]]

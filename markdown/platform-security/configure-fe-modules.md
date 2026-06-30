@@ -20,11 +20,11 @@ Role required: sn\_kmf.admin or sn\_kmf.cryptographic\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Security** &gt; **[[field-encryption|Field Encryption]]** &gt; **Field Encryption Experience**.
+1.  Navigate to **All** &gt; **System Security** &gt; **Field Encryption** &gt; **Field Encryption Experience**.
 
 2.  Select the module you want to configure.
 
-    To create a new module, see [[create-PE-cryptographic-module|Create cryptographic module for Field Encryption]].
+    To create a new module, see [Create cryptographic module for Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/create-PE-cryptographic-module.md).
 
 3.  In the Module Overview fill out the fields as shown here.
 
@@ -50,7 +50,7 @@ Module lifecycle state
 
 </td><td>
 
-The term “lifecycle” refers to the creation, use, and deactivation of a cryptographic module. Set this value to **Draft** initially during [[sc-configuration|configuration]]. Set it to **Published** for active use.**Note:** The default template is automatically set to **Published**.
+The term “lifecycle” refers to the creation, use, and deactivation of a cryptographic module. Set this value to **Draft** initially during configuration. Set it to **Published** for active use.**Note:** The default template is automatically set to **Published**.
 
 </td></tr><tr><td>
 
@@ -82,7 +82,7 @@ Algorithm
 
 </td><td>
 
-Defines which [[encryption-landing|encryption]] scheme will be used to encrypt fields associated with the module.
+Defines which encryption scheme will be used to encrypt fields associated with the module.
 
 </td></tr></tbody>
 </table>4.  Select **Submit**.
@@ -90,15 +90,7 @@ Defines which [[encryption-landing|encryption]] scheme will be used to encrypt f
 
 ## What to do next
 
-Configure the purpose, algorithm, key length, mode, and origin of your encryption key in [[configure-fe-crypto-specs|Cryptographic specifications for Field Encryption]].
+Configure the purpose, algorithm, key length, mode, and origin of your encryption key in [Cryptographic specifications for Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/configure-fe-crypto-specs.md).
 
-**Parent Topic:**[[configuring-column-level-encryption|Configuring Field Encryption]]
+**Parent Topic:**[Configuring Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/configuring-column-level-encryption.md)
 
-## Related
-
-- [[create-PE-cryptographic-module|Create cryptographic module for Field Encryption]]
-- [[configure-fe-crypto-specs|Cryptographic specifications for Field Encryption]]
-- [[configuring-column-level-encryption|Configuring Field Encryption]]
-- [[field-encryption|Field Encryption]]
-- [[sc-configuration|Configuration]]
-- [[encryption-landing|Encryption]]

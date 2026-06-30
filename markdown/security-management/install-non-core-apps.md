@@ -12,7 +12,7 @@ breadcrumb: [Security Operations and the ServiceNow Store, Security Operations]
 
 # Install a Security Operations integration
 
-All ServiceNow integrations are available on the ServiceNow Store. Core applications, such as [[sir-landing-page|Security Incident Response]], are visible in the **ServiceNow Products** tab on the store. Integration add-ons are visible in the **Certified Apps** tab.
+All ServiceNow integrations are available on the ServiceNow Store. Core applications, such as Security Incident Response, are visible in the **ServiceNow Products** tab on the store. Integration add-ons are visible in the **Certified Apps** tab.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Store installations require a Now Support account and permission to request appl
 
 ## Procedure
 
-1.  Navigate to **[[security-operations-landing-page|Security Operations]]** &gt; **Integrations** &gt; **Integration Configurations** after you install the application from ServiceNow store.
+1.  Navigate to **Security Operations** &gt; **Integrations** &gt; **Integration Configurations** after you install the application from ServiceNow store.
 
     Configuration tiles for the integrations appears
 
@@ -42,7 +42,7 @@ Store installations require a Now Support account and permission to request appl
 
 4.  If the integration has any core application dependencies, such as Security Incident Response, to which your company is not yet entitled:
 
-    1.  [[download-app-first-time|Follow these instructions to obtain entitlements, download dependency plugins, and activate the applications]].
+    1.  [Follow these instructions to obtain entitlements, download dependency plugins, and activate the applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/download-app-first-time.md).
 
     2.  Return to this procedure.
 
@@ -76,8 +76,4 @@ Store installations require a Now Support account and permission to request appl
 
     Your integration is automatically installed on your instance.
 
-## Related
 
-- [[download-app-first-time|Download an application from the ServiceNow Store for the first time]]
-- [[sir-landing-page|Security Incident Response]]
-- [[security-operations-landing-page|Security Operations]]

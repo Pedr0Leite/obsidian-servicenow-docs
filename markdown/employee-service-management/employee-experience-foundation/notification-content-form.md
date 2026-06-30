@@ -114,7 +114,7 @@ Option to activate the push notification for use.**Note:** Your content must be 
 
 [Campaign overview and Campaign analytics dashboards]()
 
-[Components installed with [[employee-center-landing-page|Employee Center]] Pro]()
+[Components installed with Employee Center Pro]()
 
 [Components installed with Content engagement]()
 
@@ -150,6 +150,3 @@ Option to activate the push notification for use.**Note:** Your content must be 
 
 [To-do content form]()
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

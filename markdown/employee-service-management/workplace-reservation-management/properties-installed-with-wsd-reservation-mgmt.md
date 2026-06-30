@@ -14,7 +14,7 @@ breadcrumb: [Reference, Workplace Reservation Management, Workplace Service Deli
 
 # Properties installed with Workplace Reservation Management
 
-Properties available with [[workplace-rsv-mgmt-feat|Workplace Reservation Management]].
+Properties available with Workplace Reservation Management.
 
 These properties are available for Workplace Reservation Management \(**All** &gt; ****Workplace Reservation Management**Administration** &gt; **Properties**\).
 
@@ -83,7 +83,7 @@ sn\_wsd\_rsv.time\_before\_check\_in\_out\_reminder
 
 </td><td>
 
-This property enables you to configure when to send a notification email as a reminder to employees to [[check-in-out-rsv-on-mobile|check in or check out a reservation]]. The value must be set in minutes.-   Type: Integer
+This property enables you to configure when to send a notification email as a reminder to employees to check in or check out a reservation. The value must be set in minutes.-   Type: Integer
 -   Default value: **30**
 
 </td></tr><tr><td>
@@ -148,7 +148,7 @@ sn\_wsd\_rsv.default\_quick\_reserve\_reservable\_module
 
 </td><td>
 
-This property enables you to specify the default reservable module that must be available on the [[mobile-employee-experience|Now Mobile app]] to employees for quick reservation. Specify the sys\_id of the reservable module that supports quick reservation.-   Type: String
+This property enables you to specify the default reservable module that must be available on the Now Mobile app to employees for quick reservation. Specify the sys\_id of the reservable module that supports quick reservation.-   Type: String
 -   Default value: empty
 
 </td></tr><tr><td>
@@ -223,8 +223,3 @@ If the **Allow invitees** check box is selected on the Reservation module config
 
 [Additional details record producer - Mapping Variable types and limitations]()
 
-## Related
-
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[check-in-out-rsv-on-mobile|Check in or check out a reservation]]
-- [[mobile-employee-experience|Now Mobile app]]

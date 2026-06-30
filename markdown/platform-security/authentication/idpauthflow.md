@@ -14,9 +14,9 @@ breadcrumb: [SAML, Multi-Provider single sign-on \(SSO\), Authentication, Access
 
 # Multi-Provider SSO \(SAML\) IdP authentication flow
 
-Describes the different entities that can authenticate a user through the [[c_SAML2.0WebBrowserSSOProfile|SAML]] multi-SSO.
+Describes the different entities that can authenticate a user through the SAML multi-SSO.
 
-You can follow the [[c_Authentication|authentication]] flow to understand when an entity authenticates a user using Multi-SSO.
+You can follow the authentication flow to understand when an entity authenticates a user using Multi-SSO.
 
 \[Omitted image "Idp\_auth\_flow.png"\] Alt text:
 
@@ -54,7 +54,4 @@ You can follow the [[c_Authentication|authentication]] flow to understand when a
     -   Exists in the user table, an IdP is not specified on the SSO source user or company record, and there is an active default IdP
     then the default IdP authenticates the user.
 
-## Related
 
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[c_Authentication|Authentication]]

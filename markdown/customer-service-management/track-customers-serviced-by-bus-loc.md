@@ -12,7 +12,7 @@ breadcrumb: [Configure Service Model Foundation, Data models, Set up your enviro
 
 # Tracking the customers serviced by a business location
 
-You can track the customers that are serviced by the business location in the [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) application. Your organization can associate your customers, accounts, and households with business locations and even create or resolve cases on the behalf of customers.
+You can track the customers that are serviced by the business location in the Customer Service Management \(CSM\) application. Your organization can associate your customers, accounts, and households with business locations and even create or resolve cases on the behalf of customers.
 
 <table id="table_pvh_vcn_byb"><thead><tr><th>
 
@@ -24,7 +24,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[create-service-organization-criteria|Create the criteria for a service organization]]
+[Create the criteria for a service organization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-service-organization-criteria.md)
 
 </td><td>
 
@@ -32,7 +32,7 @@ Create the records for the organization criteria that define the list of matchin
 
 </td></tr><tr><td>
 
-[[associate-customer-criteria-to-service-organization|Define the configuration type for customers or business locations]]
+[Define the configuration type for customers or business locations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/associate-customer-criteria-to-service-organization.md)
 
 </td><td>
 
@@ -40,7 +40,7 @@ Define the configuration type for the customers served to provide your service o
 
 </td></tr><tr><td>
 
-[[associate-customers-or-bus-loc-to-so|Associate customers or business locations to a service organization]]
+[Associate customers or business locations to a service organization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/associate-customers-or-bus-loc-to-so.md)
 
 </td><td>
 
@@ -48,10 +48,3 @@ Associate customers to service organizations through the organization customer c
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[create-service-organization-criteria|Create the criteria for a service organization]]
-- [[associate-customer-criteria-to-service-organization|Define the configuration type for customers or business locations]]
-- [[associate-customers-or-bus-loc-to-so|Associate customers or business locations to a service organization]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

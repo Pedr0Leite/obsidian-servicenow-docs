@@ -10,13 +10,13 @@ reading_time_minutes: 1
 
 # IPAM Register IP Address activity
 
-The IPAM Register IP Address activity registers an [[ip-address|IP address]] in a network using Infoblox IPAM.
+The IPAM Register IP Address activity registers an IP address in a network using Infoblox IPAM.
 
 The output of this activity produces an InfoBlox IP address record that can be used for other IPAM functions in the format `fixedaddress/<encrypted key>:<reserved ip address>/<view>`.
 
-The IPAM activities use the [REST web service activity template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateARESTWebServiceActivity.md) to manage IP addresses using an Infoblox DDI Grid Server. These activities are configured to use a [[mid-server-landing|MID Server]] with REST capabilities.
+The IPAM activities use the [REST web service activity template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateARESTWebServiceActivity.md) to manage IP addresses using an Infoblox DDI Grid Server. These activities are configured to use a MID Server with REST capabilities.
 
-To access this activity in the [[workflow-editor|Workflow Editor]], select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Infoblox DDI** &gt; **IPAM**.
+To access this activity in the Workflow Editor, select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Infoblox DDI** &gt; **IPAM**.
 
 ## Input variables
 
@@ -99,8 +99,3 @@ Name of the Infoblox network view. The default value is **default**. **Note:** I
 |Success|Activity successfully registered the specified IP address.|
 |Failure|Activity failed to register the specified IP address.|
 
-## Related
-
-- [[ip-address|IP Address]]
-- [[mid-server-landing|MID Server]]
-- [[workflow-editor|Workflow editor]]

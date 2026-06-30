@@ -20,10 +20,10 @@ Reservation or space planners can move or update reservation between Reservable 
 
 Make sure that you have installed the following applications:
 
--   [[workplace-safety-mgmt-hr|Workplace Core]]
--   [[workplace-central-feat|Workplace Central]]
--   [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
--   [[workplace-case-mgmt-feat|Workplace Case Management]]
+-   Workplace Core
+-   Workplace Central
+-   Workplace Reservation Management
+-   Workplace Case Management
 
 Role required: sn\_wsd\_rsv.reservation\_planner
 
@@ -31,7 +31,7 @@ Role required: sn\_wsd\_rsv.reservation\_planner
 
 As a reservation or space planner, you can perform the following actions:
 
--   [[create-reservation-request-1|Create a reservation]] from the [[event-planner|Event Planner]] Scheduled view page.
+-   Create a reservation from the Event Planner Scheduled view page.
 -   Drag and move a reservation to another location, date, and time.
 -   Change or update the reservation location, start and end dates, and time.
 -   Open a reservation from the Scheduled view page to update a reservation on the Workplace Reservation Management reservation portal page and add services to it.
@@ -40,7 +40,7 @@ As a reservation or space planner, you can perform the following actions:
 
 1.  Navigate to **All** &gt; **Workplace central** &gt; **Workplace Central**.
 
-    You can also open Workplace Central from [[employee-center-landing-page|Employee Center]] directly. Navigate to **All** &gt; **Self-service** &gt; **Employee Center** &gt; **Workspaces** &gt; **Workplace Central**.
+    You can also open Workplace Central from Employee Center directly. Navigate to **All** &gt; **Self-service** &gt; **Employee Center** &gt; **Workspaces** &gt; **Workplace Central**.
 
 2.  Select the Event Planner icon \(\[Omitted image "event-planner-icon.png"\] Alt text: Event planner icon to open the Event planner home page.\).
 
@@ -78,7 +78,7 @@ As a reservation or space planner, you can perform the following actions:
 
 6.  To create a reservation, select the **Create new Reservation** button from the Scheduled view menu.
 
-    The [[reservation-portal|Make a reservation]] page opens on the reservation portal.
+    The Make a reservation page opens on the reservation portal.
 
     **Note:** Adding multiple spaces to a reservation isn’t supported in Event Planner. Select only a single space while creating a reservation.
 
@@ -106,7 +106,7 @@ As a reservation or space planner, you can perform the following actions:
 
         For example: Select a reservation in Demo campus, First floor from Room B1-02 and move it to Room B2-02.
 
-        **Note:** You can move a reservation from one location to another locations within the same Reservable module or it can be moved to a space or location with a different Reservable module. [[workplace-services|Workplace services]] added to a reservation remains intact when the services are available on the new space.
+        **Note:** You can move a reservation from one location to another locations within the same Reservable module or it can be moved to a space or location with a different Reservable module. Workplace services added to a reservation remains intact when the services are available on the new space.
 
     3.  The confirm reservation changes dialog box opens.
 
@@ -171,14 +171,3 @@ As a reservation or space planner, you can perform the following actions:
 
 **Parent Topic:**[Working with schedule view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/working-with-schedule-view.md)
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-central-feat|Workplace Central]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[create-reservation-request-1|Create a reservation]]
-- [[event-planner|Event Planner]]
-- [[employee-center-landing-page|Employee Center]]
-- [[reservation-portal|Make a reservation]]
-- [[workplace-services|Workplace Services]]

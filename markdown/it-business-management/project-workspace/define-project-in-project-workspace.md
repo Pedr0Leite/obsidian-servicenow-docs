@@ -14,7 +14,7 @@ breadcrumb: [Project workspace classic - Legacy, Project Portfolio Management, S
 
 # Define a project in classic Project Workspace
 
-Define important aspects of the selected project such as duration, estimated cost, and the net value to the organization in classic [[project-workspace-landing-page|Project Workspace]].
+Define important aspects of the selected project such as duration, estimated cost, and the net value to the organization in classic Project Workspace.
 
 **Important:**
 
@@ -32,14 +32,10 @@ The **Details** tab in project workspace displays the [project form](https://raw
 
 1.  [Open](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/access-the-project-workspace.md) the required project in Project Workspace.
 
-2.  Click the **Details** tab to display the [[create-a-project-form|project form]].
+2.  Click the **Details** tab to display the project form.
 
 3.  Edit the project record as required.
 
 
 **Parent Topic:**[Project workspace classic - Legacy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/project-workspace-classic.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]
-- [[create-a-project-form|Project form]]

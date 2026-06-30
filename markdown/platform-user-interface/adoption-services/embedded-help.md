@@ -18,7 +18,7 @@ Embedded help provides targeted help content to a user in a UI page, based on th
 
 ## Overview
 
-**Note:** Required: Embedded help is only available in [[c_UI16|Core UI]]. For configurable workspaces, use [Help Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/help-center.md).
+**Note:** Required: Embedded help is only available in Core UI. For configurable workspaces, use [Help Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/help-center.md).
 
 The Embedded Help plugin \(com.glide.embedded\_help\) is active by default for all new and upgraded instances. Embedded help content appears in the right sidebar when the user clicks the help icon. If embedded help exists for the current UI page, the help icon has an indicator \(\[Omitted image "icon-embedded-help-available.png"\] Alt text: Embedded help indicator on help icon\).
 
@@ -36,15 +36,15 @@ Embedded help is displayed based on the user's role. If the content has no assoc
 
 <table id="table_h5k_wp5_5zb" class="nav-card"><tbody><tr><td>
 
-[Explore\[Omitted image "bus-[[exploring|explore]].svg"\] Alt text:Learn about the features and benefits of Embedded Help.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/exploring-embedded-help.md)
+[Explore\[Omitted image "bus-explore.svg"\] Alt text:Learn about the features and benefits of Embedded Help.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/exploring-embedded-help.md)
 
 </td><td>
 
-[Configure\[Omitted image "bus-sdlc.svg"\] Alt text:[[configure-onboarding-modals|Configure]] the Embedded Help content in your instance.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/configuring-embedded-help.md)
+[Configure\[Omitted image "bus-sdlc.svg"\] Alt text:Configure the Embedded Help content in your instance.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/configuring-embedded-help.md)
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Review system properties and domain separation information.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/embedded-help-[[onboarding-modals-reference|reference]].md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Review system properties and domain separation information.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/embedded-help-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -52,9 +52,3 @@ Embedded help is displayed based on the user's role. If the content has no assoc
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[c_UI16|Core UI]]
-- [[exploring|Explore]]
-- [[configure-onboarding-modals|Configure]]
-- [[onboarding-modals-reference|Reference]]

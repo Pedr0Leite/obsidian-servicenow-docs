@@ -14,7 +14,7 @@ breadcrumb: [Managing workplace reservations for employees, Workplace Core, Safe
 
 # Define the capacity of workplace areas
 
-Set the capacity for areas of your workplace in [[workplace-safety-mgmt-hr|Workplace Core]] to enable reservations for the area. The capacity ensures a limit to the workplace reservations for these areas so you can ensure safety guidelines.
+Set the capacity for areas of your workplace in Workplace Core to enable reservations for the area. The capacity ensures a limit to the workplace reservations for these areas so you can ensure safety guidelines.
 
 ## Before you begin
 
@@ -38,6 +38,3 @@ Role required: sn\_wsd\_core.workplace\_manager
 
 **Parent Topic:**[Managing workplace reservations for employees](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/managing-workplace-reservations.md)
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]

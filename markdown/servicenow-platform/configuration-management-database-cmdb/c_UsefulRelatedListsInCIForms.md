@@ -28,7 +28,7 @@ The following related lists are common to all forms for manageable CIs.
     -   Devices discovered through SNMP.
 -   DNS Names for CIs - Displays all the DNS names on a CI.
 
-The IP version information appears in all [[ip-address|IP address]] related lists and forms.
+The IP version information appears in all IP address related lists and forms.
 
 **Note:** Since all paths here click into the **IP Address to DNS Names** list that associates an IP address with a DNS name, this part of the common flow was not added to the tree structure.
 
@@ -38,6 +38,3 @@ A table called Source \[sys\_object\_source\] stores information identifying the
 
 This table is populated automatically when the [Discovery plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/t_ActivateTheDiscoveryPlugin.md) is enabled.
 
-## Related
-
-- [[ip-address|IP Address]]

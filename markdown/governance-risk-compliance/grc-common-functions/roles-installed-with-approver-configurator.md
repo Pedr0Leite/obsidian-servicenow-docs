@@ -34,7 +34,7 @@ Approver Configurator admin \[sn\_grc\_appr.admin\]
 
 </td><td>
 
-Create, read, update, and delete access to the [[bcm-approval-configuration|Approval Configuration]], Approval Levels, and Approval Rules tables.**Note:** The Approver Configurator admin has read access to the **Script** field on the [[approval-rule-form|Approval Rule form]].
+Create, read, update, and delete access to the Approval Configuration, Approval Levels, and Approval Rules tables.**Note:** The Approver Configurator admin has read access to the **Script** field on the Approval Rule form.
 
 </td><td>
 
@@ -70,7 +70,3 @@ sn\_grc\_appr.admin
 </td></tr></tbody>
 </table>**Parent Topic:**[Using Approver Configurator for setting up approvals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/approval-configuration.md)
 
-## Related
-
-- [[bcm-approval-configuration|Approval configuration]]
-- [[approval-rule-form|Approval Rule form]]

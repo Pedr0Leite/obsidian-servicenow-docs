@@ -24,7 +24,7 @@ Role required: sn\_cm\_core.contract\_fulfiller
 
 Use the **Resume signature** option to resume the signature process. If the signature process is not resumed within the configured time duration \(as defined by the system property **maximum\_signature\_pause\_duration**\), any changes made to the signatories are automatically reverted, and the signature process resumes from its previous state.
 
-**Resume signature** option is only available for [[lsd-wet-signature-workflows|wet signature workflow]] and electronic signature workflow with Docusign electronic signature provider integration.
+**Resume signature** option is only available for wet signature workflow and electronic signature workflow with Docusign electronic signature provider integration.
 
 ## Procedure
 
@@ -41,11 +41,7 @@ Use the **Resume signature** option to resume the signature process. If the sign
 
 -   The Contract Status is updated to Awaiting signature.
 -   If the current signatory is different from before the pause, a notification is sent for signature request.
--   The [[activity-lxp|activity]] stream records the resume signature action.
+-   The activity stream records the resume signature action.
 
 **Parent Topic:**[Modify signatories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-pause-signature.md)
 
-## Related
-
-- [[lsd-wet-signature-workflows|Wet Signature workflow]]
-- [[activity-lxp|Activity]]

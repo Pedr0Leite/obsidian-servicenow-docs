@@ -16,12 +16,9 @@ breadcrumb: [Supplier Payment Optimization reference, Reference, Supplier Lifecy
 
 The diagram shows the tables and their relationships that comprise the Supplier Payment Optimization data model.
 
-**Important:** Check your entitlements to determine whether you have access to [[supplier-pmnt-opt|Supplier Payment Optimization]].
+**Important:** Check your entitlements to determine whether you have access to Supplier Payment Optimization.
 
 \[Omitted image "supp-opt-data-model2.png"\] Alt text: Supplier payment optimization data model
 
 **Parent Topic:**[Supplier Payment Optimization reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supp-payment-opt-ref.md)
 
-## Related
-
-- [[supplier-pmnt-opt|Supplier Payment Optimization]]

@@ -93,7 +93,7 @@ Select the **Edit** \(\[Omitted image "icon-edit-pencil.png"\] Alt text: Edit\) 
 
 </td><td>
 
-Select **New** to [[create-an-incident|create an incident]].
+Select **New** to create an incident.
 
 </td></tr><tr><td id="d189026e251">
 
@@ -182,6 +182,3 @@ Select the **More actions** \(\[Omitted image "dpr-icon-more-actions-v.png"\]\) 
 
 [Incident Management in Service Operations Workspace reference]()
 
-## Related
-
-- [[create-an-incident|Create an incident]]

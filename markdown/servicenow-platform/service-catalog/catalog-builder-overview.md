@@ -14,9 +14,9 @@ breadcrumb: [Explore, Service Catalog, Manage service capabilities, Extend Servi
 
 # Catalog Builder overview
 
-The [[catalog-builder|Catalog Builder]] experience enables you to delegate the creation and maintenance of catalog items.
+The Catalog Builder experience enables you to delegate the creation and maintenance of catalog items.
 
-You can [[t_DefineACatalogItem|create or edit a catalog item]] \(catalog item or [[c_RecordProducer|record producer]]\) using a visual and guided experience along with specified restrictions.
+You can create or edit a catalog item \(catalog item or record producer\) using a visual and guided experience along with specified restrictions.
 
 You can also create a template that can be used to create catalog items. While creating the template, you can specify values or restrictions for items created using the template, for example, restrictions to catalogs, categories, variable types, and portal settings.
 
@@ -36,8 +36,3 @@ From the home page of the Catalog Builder, you can do the following:
 
 [Catalog Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/catalog-builder.md)
 
-## Related
-
-- [[catalog-builder|Catalog Builder]]
-- [[t_DefineACatalogItem|Create or edit a catalog item]]
-- [[c_RecordProducer|Record Producer]]

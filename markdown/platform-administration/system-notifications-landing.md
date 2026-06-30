@@ -12,7 +12,7 @@ breadcrumb: [Notifications, Configure core features, Administer the ServiceNow A
 
 # System notifications
 
-Set up [[notifications|notifications]] to alert users of record changes that may concern them. You can notify users via email, SMS text message, push notification, or messaging app.
+Set up notifications to alert users of record changes that may concern them. You can notify users via email, SMS text message, push notification, or messaging app.
 
 ## Get started
 
@@ -22,7 +22,7 @@ Set up [[notifications|notifications]] to alert users of record changes that may
 
 </td><td>
 
-[Push Notifications\[Omitted image "bus-mobile-native.svg"\] Alt text:[[c_PushNotifications|Push notifications]] to mobile devices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_PushNotifications.md)
+[Push Notifications\[Omitted image "bus-mobile-native.svg"\] Alt text:Push notifications to mobile devices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_PushNotifications.md)
 
 </td><td>
 
@@ -31,13 +31,8 @@ Set up [[notifications|notifications]] to alert users of record changes that may
 </td></tr></tbody>
 </table>## Troubleshoot and get help
 
--   [[troubleshooting-notification-emails|Troubleshooting Notification emails]]
+-   [Troubleshooting Notification emails](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/troubleshooting-notification-emails.md)
 -   Ask or answer questions in the [Platform](https://community.servicenow.com/community/service-automation-platform) community
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[troubleshooting-notification-emails|Email FAQs and troubleshooting notification emails]]
-- [[notifications|Notifications]]
-- [[c_PushNotifications|Push notifications]]

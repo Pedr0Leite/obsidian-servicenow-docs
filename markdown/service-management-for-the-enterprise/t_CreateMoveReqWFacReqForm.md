@@ -82,7 +82,7 @@ Assignment group
 
 </td><td>
 
-Select the group from which an agent is assigned to the request. You can select only assignment groups associated with the [[c_ServiceManagement|service management]] application you are using.
+Select the group from which an agent is assigned to the request. You can select only assignment groups associated with the service management application you are using.
 
 **Note:** If you selected the **Use the dispatch queue** option on the Facilities Management Configuration screen, only users with the Dispatcher role can edit this field. If you did not select the **Use the dispatch queue** option, all users except those users with the Basic and Initiator roles can edit this field.
 
@@ -216,9 +216,5 @@ Extra notes that you want to share between users who can access the request form
     |**To save the form without initiating workflow**|Click **Save**.|
 
 
-**Parent Topic:**[[c_FacMoveRequests|Facilities move requests]]
+**Parent Topic:**[Facilities move requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_FacMoveRequests.md)
 
-## Related
-
-- [[c_FacMoveRequests|Facilities move requests]]
-- [[c_ServiceManagement|Service Management]]

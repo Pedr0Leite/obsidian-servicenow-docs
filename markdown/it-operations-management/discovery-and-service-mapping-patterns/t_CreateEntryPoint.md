@@ -14,7 +14,7 @@ breadcrumb: [Discovery patterns used by ITOM Visibility, ITOM Visibility, IT Ope
 
 # Create entry point types for Service Mapping
 
-An entry point is a point where clients access a service instance. [[c_ServiceMappingOverview|Service Mapping]] starts the mapping process for every application service from the entry point you define for it. Service Mapping includes a wide range of preconfigured entry point types that cover most commonly used applications. If your organization uses a less known or proprietary application that does not have a corresponding entry point type in Service Mapping, you must create it.
+An entry point is a point where clients access a service instance. Service Mapping starts the mapping process for every application service from the entry point you define for it. Service Mapping includes a wide range of preconfigured entry point types that cover most commonly used applications. If your organization uses a less known or proprietary application that does not have a corresponding entry point type in Service Mapping, you must create it.
 
 ## Before you begin
 
@@ -31,7 +31,7 @@ Entry points are modeled in the ServiceNow CMDB as CIs of endpoint type. Entry p
 Like any other CI type, an entry point contains several important definitions that apply to all CIs belonging to it:
 
 -   CI attributes are added as fields to the CMDB tables.
--   Identifiers help Service Mapping and [[r-discovery|Discovery]] to differentiate between new and existing CIs. For example, if there is an endpoint CI type for Active Directory Forest in the CMDB 360, and Service Mapping discovers an Active Directory Forest CI. Service Mapping processes this CI using identifiers and recognizes it as an updated version of the Active Directory Forest CI that exists in the system, not a new Active Directory Forest CI.
+-   Identifiers help Service Mapping and Discovery to differentiate between new and existing CIs. For example, if there is an endpoint CI type for Active Directory Forest in the CMDB 360, and Service Mapping discovers an Active Directory Forest CI. Service Mapping processes this CI using identifiers and recognizes it as an updated version of the Active Directory Forest CI that exists in the system, not a new Active Directory Forest CI.
 -   CI type hierarchy. CMDB stores CI class in the form of a hierarchy where some CI classes are parents to other CI classes, who automatically derive their parent's attributes in addition to attributes you configure specifically for child CI classes. CI class hierarchy is used widely for configuring CI behavior, relationships, and display. Create standard entry points as child CIs for the endpoint CI type, which creates an extension for the cmdb\_ci\_endpoint table. For entry points of inclusion type create child CIs for the inclusion endpoint CI type extending the cmdb\_ci\_endpoint\_inclusion table. In an inclusion, a server hosts applications that are treated as independent objects.
 
 ## Procedure
@@ -60,7 +60,3 @@ Like any other CI type, an entry point contains several important definitions th
 
 [Create CI types for Service Mapping and Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/t_CreateCITypeForSM.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]

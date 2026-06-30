@@ -31,7 +31,7 @@ Customize topic templates to improve your user experience. Each topic requires a
 
 **Note:**
 
-Ensure that you have San Diego installed along with [[employee-center-landing-page|Employee Center]] app version 24.0.5 to use the feature.
+Ensure that you have San Diego installed along with Employee Center app version 24.0.5 to use the feature.
 
 ## Procedure
 
@@ -106,9 +106,6 @@ This would ensure consistency among the topic pages.
 
     \[Omitted image "category-selected.png"\] Alt text: Category field added to selected list.
 
-    **Note:** It is essential to set the **Category** to **Taxonomy**. Only the templates set to **Category**, **Taxonomy** are visible in the [[topic-form|topic form]] template list.
+    **Note:** It is essential to set the **Category** to **Taxonomy**. Only the templates set to **Category**, **Taxonomy** are visible in the topic form template list.
 
-## Related
 
-- [[employee-center-landing-page|Employee Center]]
-- [[topic-form|Topic form]]

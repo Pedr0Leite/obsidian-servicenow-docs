@@ -12,7 +12,7 @@ breadcrumb: [Machine learning solutions for IT Service Management, IT Service Ma
 
 # Request Predictive Intelligence for Major Incident Management
 
-Activate Predictive Intelligence for Major [[c_IncidentManagement|Incident Management]] by requesting the Predictive Intelligence for Major Incident Management plugin \(com.snc.incident.mim.ml\_solution\) through the Now Support Service Catalog.
+Activate Predictive Intelligence for Major Incident Management by requesting the Predictive Intelligence for Major Incident Management plugin \(com.snc.incident.mim.ml\_solution\) through the Now Support Service Catalog.
 
 ## Before you begin
 
@@ -27,11 +27,11 @@ Role required: admin
 The following plugins are installed with Predictive Intelligence for Major Incident Management:
 
 -   Incident Management - Major Incident Management \(com.snc.incident.mim\)
--   [[predictive-intelligence-for-incident|Predictive Intelligence for Incident Management]] \(com.snc.incident.ml\_solution\)
+-   Predictive Intelligence for Incident Management \(com.snc.incident.ml\_solution\)
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System [[dex-workspace-application-tab|Applications]]** &gt; **All Available Applications** &gt; **All**.
+1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
 2.  Select **Request plugin** to open the **Activate Plugin** form on Now Support.
 
@@ -75,11 +75,5 @@ Select the date and time to activate the plugin.
     After the maintenance window, the system installs the plugin on your instance. To confirm the installation, go to the Installed tab in the Application Manager.
 
 
-**Parent Topic:**[[machine-learning-itsm|Machine learning solutions for IT Service Management]]
+**Parent Topic:**[Machine learning solutions for IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/machine-learning-itsm.md)
 
-## Related
-
-- [[machine-learning-itsm|Machine learning solutions for IT Service Management]]
-- [[c_IncidentManagement|Incident Management]]
-- [[predictive-intelligence-for-incident|Predictive Intelligence for Incident Management]]
-- [[dex-workspace-application-tab|Applications]]

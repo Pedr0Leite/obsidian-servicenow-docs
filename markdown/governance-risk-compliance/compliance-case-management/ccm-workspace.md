@@ -14,7 +14,7 @@ breadcrumb: [Explore, Compliance Case Management, Governance, Risk, and Complian
 
 # Compliance Case Management landing page
 
-See an overview of all your compliance case-related information on your GRC: [[compliance-case-management|Compliance Case Management]] landing page. You can also create the cases, requests, and issues from this GRC: Compliance Case Management landing page.
+See an overview of all your compliance case-related information on your GRC: Compliance Case Management landing page. You can also create the cases, requests, and issues from this GRC: Compliance Case Management landing page.
 
 Roles required: sn-compliance-case-manager or sn-compliance-case-analyst
 
@@ -65,7 +65,7 @@ Cases where the closure date is in the next seven days.
 Cases not assigned to a case analyst yet.
 
 
-There are drill-down capabilities. When you click the individual sector you are navigated to a [[list-view-uib-ws|list view]] to get more rich and contextual information.
+There are drill-down capabilities. When you click the individual sector you are navigated to a list view to get more rich and contextual information.
 
 </td></tr><tr><td>
 
@@ -213,7 +213,3 @@ In the Requests section, you can access all the requests that are assigned to yo
 
 **Parent Topic:**[Exploring Compliance Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/ccm-overview.md)
 
-## Related
-
-- [[compliance-case-management|compliance case management]]
-- [[list-view-uib-ws|List view]]

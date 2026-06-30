@@ -12,7 +12,7 @@ breadcrumb: [Recommended Actions, Recommended Actions configuration, Implement I
 
 # Contexts in Recommended Actions
 
-A context enables agents to see recommendations for records from a table when certain [[gamification-components-rules|rules]] are met. These recommendations can help agents by suggesting actions to take based on the record context.
+A context enables agents to see recommendations for records from a table when certain rules are met. These recommendations can help agents by suggesting actions to take based on the record context.
 
 Contexts are created for tables, such as the Case \[sn\_customerservice\_case\] table or the Incident \[incident\] table. Creating a context includes the following steps:
 
@@ -24,7 +24,7 @@ Contexts are created for tables, such as the Case \[sn\_customerservice\_case\] 
 -   Creating rules for the context. A rule shows recommendations to agents with certain roles for records that meet certain conditions.
 -   Creating recommendations for the rules. A recommendation is a way to suggest a helpful action to an agent.
 
-The [[configure-nba|Recommended Actions]] application includes a context record, Case Context, that you can use to create recommendations for cases.
+The Recommended Actions application includes a context record, Case Context, that you can use to create recommendations for cases.
 
 The Recommended Actions application supports multiple context records per table, enabling users to create different experiences based on criteria such as user attributes or domains.
 
@@ -34,10 +34,10 @@ The Recommended Actions component can be configured in UI Builder to use the act
 
 You can access context records by navigating to **All** &gt; **Recommended Actions** &gt; **Contexts**. The Contexts list displays a brief description of each context and the table that the context applies to.
 
-The Context form includes the name and description of the context, the selected table, parent context,and a search application configuration for AI search. When you [[ra-csm-contexts-create|create a context]], provide this information and save the record. After saving, the Context form displays the following related [[migration-lists|lists]].
+The Context form includes the name and description of the context, the selected table, parent context,and a search application configuration for AI search. When you [create a context](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-contexts-create.md), provide this information and save the record. After saving, the Context form displays the following related lists.
 
--   **Rules**: Displays the rules that have been created for the context, including the selected user roles. You can create a rule only from the Rules related list on the Context form. For more information on rules, see [[ra-csm-rules|Rules in Recommended Actions]].
--   **Recommendations**: Displays the recommendations associated with the context rules, including the action type and action. You can create a recommendation only from the Recommendation related list on the Rule form. For more information on the recommendations, see [[ra-csm-recommendations|Recommendations in Recommended Actions]].
+-   **Rules**: Displays the rules that have been created for the context, including the selected user roles. You can create a rule only from the Rules related list on the Context form. For more information on rules, see [Rules in Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-rules.md).
+-   **Recommendations**: Displays the recommendations associated with the context rules, including the action type and action. You can create a recommendation only from the Recommendation related list on the Rule form. For more information on the recommendations, see [Recommendations in Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-recommendations.md).
 -   **Search result mapping**: Displays mappings between AI search outputs and Recommended Actions inputs.
 -   **Inherited rules**: Displays the rules inherited from the parent context. The Inherited rules related list appears only for the contexts that have the parent context assigned. For more information on how the parent context rules are inherited by the child context, see [Apply rules to tables extended from the context table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-rules.md).
 -   **Extended contexts**: Displays all the contexts which use the current context as a parent context. This related list appears only for the parent contexts.
@@ -62,7 +62,7 @@ The Parent context field appears only when the table selected in the Table field
 -   If you configure context inputs for a context, you cannot add a parent context. To add a parent context, you must delete the already existing context inputs.
 -   When a parent context is defined, the Context inputs related list does not appear.
 
-For more information on how context inputs limit the inheritance of the parent context's rules and recommendations, see [[ra-csm-dynamic-context-inputs|Context Input configuration limitations]].
+For more information on how context inputs limit the inheritance of the parent context's rules and recommendations, see [Context Input configuration limitations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-dynamic-context-inputs.md).
 
 ## Inheriting the rules and recommendations from hierarchical contexts
 
@@ -93,7 +93,7 @@ The following are use cases where you can create different contexts for the same
 
     -   Context A: Show field recommendations for resolution, or related change tasks/catalog items, or standard knowledge articles for the IT Support Agent on the Interaction record page.
     -   Context B: Surface similar resolved case or relevant knowledge article recommendations for the Customer Service Support Agent on the Interaction record page.
--   **Use case 2: Each context may use a different Predictive [[intelligence-csm|Intelligence]] model or AI model variant for recommendations.**
+-   **Use case 2: Each context may use a different Predictive Intelligence model or AI model variant for recommendations.**
 
     Enables testing and adoption of ML models in parallel without conflict.
 
@@ -101,7 +101,7 @@ The following are use cases where you can create different contexts for the same
     -   Context B: Use classification model for categorization or assignment.
 -   **Use case 3: Users may access the same record through different channels—chat, email, voice, etc., requiring tailored recommendations.**
 
-    Entry [[gamification-components-points|points]] provide different signals and user intent.
+    Entry points provide different signals and user intent.
 
     -   Context A: When the case is created via Chat Agent, recommend and share the KB article in chat action.
     -   Context B: When the case is accessed via Phone Support, surface KB articles and enable sharing via SMS channel.
@@ -116,7 +116,7 @@ On the Config tab for the Recommended Actions component, enter the sys id of the
 
 ## Case Context record
 
-The Recommended Actions for Customer Service application adds the Case Context record for the Case table \[sn\_customerservice\_case\]. This record is active by default \(Active=true\). For more information on the Case Context record, see [[ra-csm-context-records|Contexts in Recommended Actions for Customer Service]].
+The Recommended Actions for Customer Service application adds the Case Context record for the Case table \[sn\_customerservice\_case\]. This record is active by default \(Active=true\). For more information on the Case Context record, see [Contexts in Recommended Actions for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-context-records.md).
 
 If an upgrade customer has one or more context records for the Case table available on their instance, the system runs a fix script that deactivates the out-of-box Case Context record \(sets the **Active** field to false\).
 
@@ -127,21 +127,7 @@ If an upgrade customer has one or more context records for the Case table availa
 
 [Create a context in Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-contexts-create.md)
 
-[[ra-csm-rules-create|Create a rule in Recommended Actions]]
+[Create a rule in Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-rules-create.md)
 
-[[ra-csm-recommendations-create|Create a recommendation in Recommended Actions]]
+[Create a recommendation in Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-recommendations-create.md)
 
-## Related
-
-- [[ra-csm-contexts-create|Create a context in Recommended Actions]]
-- [[ra-csm-rules|Rules in Recommended Actions]]
-- [[ra-csm-recommendations|Recommendations in Recommended Actions]]
-- [[ra-csm-dynamic-context-inputs|Context inputs in Recommended Actions]]
-- [[ra-csm-context-records|Contexts in Recommended Actions for Customer Service]]
-- [[ra-csm-rules-create|Create a rule in Recommended Actions]]
-- [[ra-csm-recommendations-create|Create a recommendation in Recommended Actions]]
-- [[gamification-components-rules|Rules]]
-- [[configure-nba|Recommended Actions]]
-- [[migration-lists|Lists]]
-- [[intelligence-csm|Intelligence]]
-- [[gamification-components-points|Points]]

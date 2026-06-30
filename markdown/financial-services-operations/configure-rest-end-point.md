@@ -85,8 +85,5 @@ Role required: admin
     **Note:** The Authorization header containing the encoded JWT is set dynamically at runtime per call, not at the HTTP Method level.
 
 
-**Parent Topic:**[[configure-financial-services-integration-with-verifi-cdrn|Configuring Financial Services Operations Integration with Verifi]]
+**Parent Topic:**[Configuring Financial Services Operations Integration with Verifi](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-financial-services-integration-with-verifi-cdrn.md)
 
-## Related
-
-- [[configure-financial-services-integration-with-verifi-cdrn|Configuring Financial Services Operations Integration with Verifi]]

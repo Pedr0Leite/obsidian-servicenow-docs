@@ -12,7 +12,7 @@ breadcrumb: [Survey responses and results, Use surveys, Surveys, Assessments and
 
 # Edit translations for surveys
 
-Edit the translations for [[r_SurveyManagementLandingPage|surveys]], and after you make the changes, you can publish the translation.
+Edit the translations for surveys, and after you make the changes, you can publish the translation.
 
 ## Before you begin
 
@@ -39,7 +39,7 @@ Role required: localization\_editor
     After survey translations are published, they are made available to any user who takes a survey.
 
 
-**Parent Topic:**[[c_SurveyResults|Survey responses and results]]
+**Parent Topic:**[Survey responses and results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyResults.md)
 
 **Related topics**  
 
@@ -56,7 +56,3 @@ Role required: localization\_editor
 
 [Survey responses in a database view]()
 
-## Related
-
-- [[c_SurveyResults|Survey responses and results]]
-- [[r_SurveyManagementLandingPage|Surveys]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, Talent Profile, Hiring Experiences, HR Service Delivery,
 
 # Generate talent profiles
 
-Generate the [[talent-profile-landing|talent profile]] creation after you opt in.
+Generate the talent profile creation after you opt in.
 
 ## Before you begin
 
@@ -33,6 +33,3 @@ You've created the talent profiles.
 
 **Parent Topic:**[Configuring Talent profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/config-tp.md)
 
-## Related
-
-- [[talent-profile-landing|Talent Profile]]

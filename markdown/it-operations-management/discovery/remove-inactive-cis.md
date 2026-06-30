@@ -20,7 +20,7 @@ If required by your corporate standards, retain inactive namespace configuration
 
 Confirm you have the following setup:
 
--   [[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]] \(KVA\) Plugin application release 3.11.0
+-   Kubernetes Visibility Agent \(KVA\) Plugin application release 3.11.0
 -   Informer version 2.5.0
 
 Role required: admin
@@ -44,6 +44,3 @@ You can later delete inactive CIs manually.
 
 **Parent Topic:**[Install Kubernetes Visibility Agent \(KVA\) Informer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cnov-deploy-install.md)
 
-## Related
-
-- [[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]]

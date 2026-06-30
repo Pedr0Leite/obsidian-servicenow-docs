@@ -26,9 +26,9 @@ The integration between CPQ and CDS is accomplished in the Blueprint layout defi
 
 This article can help you decide how to add the CDS configuration.
 
-1.  Open the [[layout_editor|layout editor]] in your [[explore-servicenowcpq|CPQ configurator]].
+1.  Open the layout editor in your CPQ configurator.
 2.  Download your CSV layout file.
-3.  Open your CSV layout file, and add the CDS layout element [[fields|fields]] \(highlighted in detail below\).
+3.  Open your CSV layout file, and add the CDS layout element fields \(highlighted in detail below\).
 4.  Re-upload your CSV layout file to CPQ. Your CDS layout element should now be present in the layout.
 5.  Open the configuration options for your CDS layout element and add in the necessary JSON data lines.
 
@@ -88,7 +88,7 @@ no
 
 </td><td>
 
-Array or object of [[cpq-sets|sets]] to send to CDS.
+Array or object of sets to send to CDS.
 
  An array will assume the contained strings are both CPQ variable names, and CDS variable names.
 
@@ -229,7 +229,7 @@ The final JSON string formatting should resemble the following:
 
 -   In the layout definition sample, the CDS rendering will display in a BasicContainer sidebar positioned in the upper right.
     -   CDS can pass CPQ a JSON object to a text field.
-    -   Use advanced [[rules_101|rules]] to parse the JSON responses from CDS.
+    -   Use advanced rules to parse the JSON responses from CDS.
 -   The JSON provided in the 'value' column \(column I\) of the CDS element row contains the following syntax:
 
     ```
@@ -266,7 +266,7 @@ The final JSON string formatting should resemble the following:
         ]
         ```
 
--   [[product_picker_overview|Product pickers]] can also be passed to CDS with a restriction of only the first 25 indexes being able to be sent. This mirrors the above process, except the property name is `eventProductPickers` instead of `eventFields` or `setFields`. The following two syntaxes work:
+-   Product pickers can also be passed to CDS with a restriction of only the first 25 indexes being able to be sent. This mirrors the above process, except the property name is `eventProductPickers` instead of `eventFields` or `setFields`. The following two syntaxes work:
 
     ```
     {
@@ -288,11 +288,3 @@ The final JSON string formatting should resemble the following:
     -   The CDS admin will specify this field as the destination for set data.
     -   The CPQ Admin will define determination rules that parse the field and populate the set.
 
-## Related
-
-- [[layout_editor|Layout editor]]
-- [[explore-servicenowcpq|CPQ Configurator]]
-- [[fields|Fields]]
-- [[cpq-sets|Sets]]
-- [[rules_101|Rules]]
-- [[product_picker_overview|Product pickers]]

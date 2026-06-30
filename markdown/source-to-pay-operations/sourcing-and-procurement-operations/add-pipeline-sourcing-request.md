@@ -26,13 +26,13 @@ You can add pipeline projects to sourcing requests that are in either the Pendin
 
 ## Procedure
 
-1.  Navigate to **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **Source-to-Pay Workspace**.
 
 2.  Select the list icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon.\) and do one of the following:
 
     -   Navigate to **Lists** &gt; **My work** &gt; **Sourcing requests**.
     -   Navigate to **Lists** &gt; **All work** &gt; **Sourcing requests**.
-3.  Select the link to the [[sourcing-request|sourcing request]] under the Number column.
+3.  Select the link to the sourcing request under the Number column.
 
 4.  Select **Add to pipeline project**.
 
@@ -73,7 +73,7 @@ Add the sourcing request to a new pipeline project.
 -   In the **Short description** field, enter a brief summary of the pipeline project.
 -   In the **Description** field, enter detailed project information.
 -   From the **Project type** list, select one of the following options:
-    -   [[supplier|Supplier]] Optimization
+    -   Supplier Optimization
     -   Contract Optimization
     -   Savings Potential
     -   Spend Optimization
@@ -90,8 +90,3 @@ Add the sourcing request to a new pipeline project.
 
 **Parent Topic:**[Using Sourcing Pipeline Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/use-pipeline-sourcing-mgmt.md)
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[sourcing-request|Sourcing request]]
-- [[supplier|Supplier]]

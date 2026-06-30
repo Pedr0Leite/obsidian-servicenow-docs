@@ -14,7 +14,7 @@ breadcrumb: [AI Search for Next Experience, ServiceNow Store applications and in
 
 # AI Search for Next Experience reference
 
-[[reference-email-admin|Reference]] information for the [[ais-next-experience-app|AI Search for Next Experience]] application.
+Reference information for the AI Search for Next Experience application.
 
 ## Plugins installed with AI Search for Next Experience
 
@@ -32,10 +32,10 @@ AI Search for Next Experience \(sn\_aisearch\_global\)
 
 </td><td>
 
-Includes system and search configuration settings required to enable [[ia-ai-search|AI Search]] as the search engine for the Unified Navigation search field in Next Experience.-   Search profile: Now Experience Search Configuration
+Includes system and search configuration settings required to enable AI Search as the search engine for the Unified Navigation search field in Next Experience.-   Search profile: Now Experience Search Configuration
 -   Search application configuration: \[AIS\] Now Experience Search Configuration
 
- To learn more about search profiles and [[defining-search-app-cfgs-ais|search application configurations]], see [Search profiles in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/defining-search-profiles-ais.md) and [Search application configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/defining-search-app-cfgs-ais.md).
+ To learn more about search profiles and search application configurations, see [Search profiles in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/defining-search-profiles-ais.md) and [Search application configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/defining-search-app-cfgs-ais.md).
 
 </td></tr><tr><td>
 
@@ -43,7 +43,7 @@ AI Search Index Sources \(com.glide.ais.index\_sources\)
 
 </td><td>
 
-Includes indexed source [[clone-exclusions-preservers-cleanupscripts|definitions]] for ServiceNow AI Platform® tables beyond those provided with AI Search:-   Catalog Task \[sc\_task\]
+Includes indexed source definitions for ServiceNow AI Platform® tables beyond those provided with AI Search:-   Catalog Task \[sc\_task\]
 -   Change \[change\_request\]
 -   Change Task \[change\_task\]
 -   Company \[core\_company\]
@@ -57,7 +57,7 @@ Includes indexed source [[clone-exclusions-preservers-cleanupscripts|definitions
  For more details on indexed sources, see [Indexed sources in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/indexed-sources-ais.md).
 
 </td></tr></tbody>
-</table>## [[r_SetArchiveRuleProcessingBehavior|System properties]] installed with AI Search for Next Experience
+</table>## System properties installed with AI Search for Next Experience
 
 <table id="table_slk_nlj_ntb"><thead><tr><th>
 
@@ -100,9 +100,9 @@ Next Experience Search Configuration
 Contains search experience settings for AI Search for Next Experience:-   Search sources
 -   Stop word dictionaries
 -   Synonym dictionaries
--   [[typo-handling-ais|Typo handling]] dictionaries
--   [[result-improvement-rules-ais|Result improvement rules]]
--   [[genius-results-ais|Genius Results]]
+-   Typo handling dictionaries
+-   Result improvement rules
+-   Genius Results
 
  For details on configuring these settings, see [Search profiles in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/defining-search-profiles-ais.md).
 
@@ -137,10 +137,10 @@ Contains search result display and refinement settings for AI Search for Next Ex
  -   Application scope: AI Search For Next Experience
 -   Location: **All** &gt; **AI Search** &gt; **Search Experience** &gt; **Search Applications**
 
-**Note:** If you [[install-ais-next-experience-app|install AI Search for Next Experience]] 3.x on a San Diego instance and then upgrade to Tokyo or a later release, an informational message appears when you view the search application configuration record, pointing out that search-based auto-complete suggestion types aren't enabled for global search. To enable these auto-complete suggestion types for global search, see [Enable search-based auto-complete suggestions in AI Search for Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/enable-srch-autosugg-ais-next-exp.md).
+**Note:** If you install AI Search for Next Experience 3.x on a San Diego instance and then upgrade to Tokyo or a later release, an informational message appears when you view the search application configuration record, pointing out that search-based auto-complete suggestion types aren't enabled for global search. To enable these auto-complete suggestion types for global search, see [Enable search-based auto-complete suggestions in AI Search for Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/enable-srch-autosugg-ais-next-exp.md).
 
 </td></tr></tbody>
-</table>## Entity View Action Mapper \(EVAM\) [[clone-configurations-tab|configurations]] installed with AI Search for Next Experience
+</table>## Entity View Action Mapper \(EVAM\) configurations installed with AI Search for Next Experience
 
 <table id="table_rnf_j3f_zwb"><thead><tr><th>
 
@@ -216,30 +216,14 @@ Contains component, static value, field mapping, and action mapping settings for
 -   Location: **All** &gt; **Entity View Action Mapper \(EVAM\)** &gt; **View Definitions** &gt; **View Templates**
 
 </td></tr></tbody>
-</table>## List of all [[components-installed-ais|components installed with AI Search]] for Next Experience
+</table>## List of all components installed with AI Search for Next Experience
 
-To view the complete list of components installed with AI Search for Next Experience, follow the steps described in [[find-components|Find components installed with an application]]. The application's package name is **AI Search For Next Experience**.
+To view the complete list of components installed with AI Search for Next Experience, follow the steps described in [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md). The application's package name is **AI Search For Next Experience**.
 
 -   **[AI Search for Next Experience properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/ai-search-next-experience-properties.md)**  
-A system property allows you to control whether facets are shown when no source is selected in global search and workspace search [[hs-results|results]] pages.
+A system property allows you to control whether facets are shown when no source is selected in global search and workspace search results pages.
 -   **[AI Search for Next Experience default source facet buckets for global search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/ais-ne-global-search-nav-tabs.md)**  
 List of source facet buckets that appear by default in AI Search for Next Experience global search results.
 
 **Parent Topic:**[AI Search for Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/ais-next-experience-app.md)
 
-## Related
-
-- [[find-components|Find components installed with an application]]
-- [[reference-email-admin|Reference]]
-- [[ais-next-experience-app|AI Search for Next Experience]]
-- [[ia-ai-search|AI Search]]
-- [[defining-search-app-cfgs-ais|Search application configurations]]
-- [[clone-exclusions-preservers-cleanupscripts|Definitions]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]
-- [[typo-handling-ais|Typo handling]]
-- [[result-improvement-rules-ais|Result improvement rules]]
-- [[genius-results-ais|Genius Results]]
-- [[install-ais-next-experience-app|Install AI Search for Next Experience]]
-- [[clone-configurations-tab|Configurations]]
-- [[components-installed-ais|Components installed with AI Search]]
-- [[hs-results|Results]]

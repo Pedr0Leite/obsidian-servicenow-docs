@@ -26,7 +26,7 @@ Role required: sn\_csm\_pricing.pricelist\_administrator, sn\_csm\_pricing.price
 
 3.  In the Price List Lines tab, select **New**.
 
-4.  On the form, fill in the [[fields|fields]].
+4.  On the form, fill in the fields.
 
 <table id="table_w3v_nrz_y1c"><thead><tr><th>
 
@@ -90,7 +90,7 @@ Derived price
 
 </td><td>
 
-Option that enables derived pricing \(also called related product pricing\) for product offerings associated with this price list line. For more information, see [[configuring-related-product-pricing|Configuring derived pricing]].
+Option that enables derived pricing \(also called related product pricing\) for product offerings associated with this price list line. For more information, see [Configuring derived pricing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configuring-related-product-pricing.md).
 
 </td></tr><tr><td>
 
@@ -131,7 +131,4 @@ Frequency of recurring pricing:-   Monthly
 </td></tr></tbody>
 </table>5.  Select **Save**.
 
-## Related
 
-- [[configuring-related-product-pricing|Configuring derived pricing]]
-- [[fields|Fields]]

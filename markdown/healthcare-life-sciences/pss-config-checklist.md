@@ -12,7 +12,7 @@ breadcrumb: [Configure, Patient Support Services, Healthcare and Life Sciences S
 
 # Configure a checklist for Patient Support Services
 
-Configure a checklist for a [[pss-app|Patient Support Services]] program as an informal list of questions or tasks used as a reminder for the completion of an enrollment request.
+Configure a checklist for a Patient Support Services program as an informal list of questions or tasks used as a reminder for the completion of an enrollment request.
 
 ## Before you begin
 
@@ -95,9 +95,5 @@ JSON representation of the checklist.
 
 ## What to do next
 
-Associate the checklist with a Patient Support Services program. For more information, see [[pss-program-services-setup|Configuring a program for Patient Support Services]].
+Associate the checklist with a Patient Support Services program. For more information, see [Configuring a program for Patient Support Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-program-services-setup.md).
 
-## Related
-
-- [[pss-program-services-setup|Configuring a program for Patient Support Services]]
-- [[pss-app|Patient Support Services]]

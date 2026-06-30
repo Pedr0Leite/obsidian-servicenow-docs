@@ -31,7 +31,7 @@ With this you can configure the following components in the workspace configurat
 
 ## Configure change overview container and cards
 
-Configure the layout of the overview page for [[change-sow|Change Management in Service Operations Workspace]].
+Configure the layout of the overview page for Change Management in Service Operations Workspace.
 
 ### Before you begin
 
@@ -39,7 +39,7 @@ Role required: admin
 
 ### About this task
 
-You can configure the layout of the overview page of the change request form in the Service Operations Workspace layout using the overview containers. You can configure different layouts for different change states or change [[c_Models|models]]. Within each overview container, you can define multiple overview cards in a specific order. You can set conditions so that each change model displays specific cards in each form at every stage of the change request process.
+You can configure the layout of the overview page of the change request form in the Service Operations Workspace layout using the overview containers. You can configure different layouts for different change states or change models. Within each overview container, you can define multiple overview cards in a specific order. You can set conditions so that each change model displays specific cards in each form at every stage of the change request process.
 
 Overview cards can be reused across various Overview Containers and Overview Containers can be reused across multiple change models. Names of Overview Containers and cards must be consistent with the layout and feature.
 
@@ -57,7 +57,7 @@ Overview cards can be reused across various Overview Containers and Overview Con
     |First to match order|Enter the order in which the Overview Container is evaluated when multiple containers match. Lower values are evaluated first.|
     |Table|Table to which the overview container applies. Defaults to Change Request table.|
     |Application|Application where the display is being configured. Global is the default application.|
-    |Active|Select this option to make the overview container available when you [[t_CreateAChange|create a change request]].|
+    |Active|Select this option to make the overview container available when you create a change request.|
     |Display action bar|Select this option to display the activity panel at the bottom of the Overview page, when you create a change request.|
     |Use advanced condition|Select this option to add a script that defines an advanced condition for displaying the card.|
     |Condition|Fields and conditions that define when the overview container is displayed for each state.|
@@ -108,7 +108,7 @@ Role required: personalize\_form
 
 3.  Select the **SOW-Change-Overview** option in the View name field to modify the Overview page for change request form in SOW.
 
-4.  Select **Edit this section in the [[c_ITILChangeManagement|Change Management]] for Service Operations Workspace**.
+4.  Select **Edit this section in the Change Management for Service Operations Workspace**.
 
 5.  Select the section for which you want to configure fields.
 
@@ -185,9 +185,4 @@ Role required: admin
 
 4.  Right-click on the header and select **Save**.
 
-## Related
 
-- [[change-sow|Change Management in Service Operations Workspace]]
-- [[c_Models|Models]]
-- [[t_CreateAChange|Create a change request]]
-- [[c_ITILChangeManagement|Change Management]]

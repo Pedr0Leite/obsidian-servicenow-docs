@@ -15,7 +15,7 @@ breadcrumb: [Embedded assessments, Use template designer, Manage, Smart Assessme
 
 # Embed an assessment in a record page
 
-[[embedded-assessments|Embedded assessments]] lets an upstream application surface the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] responder experience inside its own UI rather than as a separate page. This task describes the configuration that must be done on the SAE and UI Builder page where the assessment is embedded
+Embedded assessments lets an upstream application surface the Smart Assessment Engine responder experience inside its own UI rather than as a separate page. This task describes the configuration that must be done on the SAE and UI Builder page where the assessment is embedded
 
 ## Before you begin
 
@@ -78,7 +78,3 @@ If the embedded view also hides the right reference pane, the upstream applicati
 
 [UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder-overview.md)
 
-## Related
-
-- [[embedded-assessments|Embedded assessments]]
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]

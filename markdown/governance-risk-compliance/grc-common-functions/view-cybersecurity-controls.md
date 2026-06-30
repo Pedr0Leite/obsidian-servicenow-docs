@@ -29,7 +29,7 @@ Role required: admin or sn\_compliance.reader
 -   Control objectives - Source is CIS or CIS v8 or CSA CCM v4.
 -   Indicator templates - Source is CIS or CIS v8.
 
-Beginning with the Australia release, [[tech-controls-monitoring-accel|Technology Controls Monitoring Accelerator]] provides pre-packaged CIS v8 controls and indicator templates.
+Beginning with the Australia release, Technology Controls Monitoring Accelerator provides pre-packaged CIS v8 controls and indicator templates.
 
 ## Procedure
 
@@ -88,6 +88,3 @@ Beginning with the Australia release, [[tech-controls-monitoring-accel|Technolog
 
 **Parent Topic:**[Technology Controls Monitoring Accelerator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/tech-controls-monitoring-accel.md)
 
-## Related
-
-- [[tech-controls-monitoring-accel|Technology Controls Monitoring Accelerator]]

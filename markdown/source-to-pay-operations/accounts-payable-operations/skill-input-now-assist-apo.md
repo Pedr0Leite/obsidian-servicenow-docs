@@ -55,7 +55,7 @@ Base input fields
 </td><td>
 
 -   Description
--   [[supplier|Supplier]]
+-   Supplier
 -   Invoice due date
 -   Invoice supplier number
 -   Invoice date
@@ -71,7 +71,3 @@ Base input fields
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[supplier|Supplier]]

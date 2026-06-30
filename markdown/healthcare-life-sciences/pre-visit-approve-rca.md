@@ -12,7 +12,7 @@ breadcrumb: [Configure, Pre-Visit Management, Healthcare and Life Sciences Servi
 
 # Approving restricted caller access privileges for Pre-Visit Management
 
-Approve restricted caller access \(RCA\) privileges for accessing document templates from the [[pre-visit-mgmt-app|Pre-Visit Management]] application.
+Approve restricted caller access \(RCA\) privileges for accessing document templates from the Pre-Visit Management application.
 
 **Important:**
 
@@ -22,6 +22,3 @@ For details, see the [Deprecation Process \[KB0867184\]](https://support.service
 
 To access document templates from the Pre-Visit Management application, as an administrator, you must approve the required RCA privileges. For more information, see [Approve restricted caller access privileges for Healthcare and Life Sciences Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-approving-rca.md).
 
-## Related
-
-- [[pre-visit-mgmt-app|Pre-Visit Management]]

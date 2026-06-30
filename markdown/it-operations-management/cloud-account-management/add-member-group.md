@@ -28,7 +28,7 @@ Role required: ServiceNow AI Platform admin
 
 3.  Assign a member to each ITOM group by selecting an entry.
 
-    To know more about ITOM [[cam-landing|Cloud Account Management]] user roles, see [Components installed with Cloud Account Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/components-installed-with-cam.md).
+    To know more about ITOM Cloud Account Management user roles, see [Components installed with Cloud Account Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/components-installed-with-cam.md).
 
 4.  Under the **Roles** section, select **Edit**.
 
@@ -36,6 +36,4 @@ Role required: ServiceNow AI Platform admin
 
 6.  Select **Save**.
 
-## Related
 
-- [[cam-landing|Cloud Account Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Setting up Contact Tracing, Contact Tracing, Safe Workplace, Health
 
 # Virtual Agent conversations for Contact Tracing
 
-[[contact-tracing|Contact Tracing]] provides a Virtual Agent conversation to assess the health of potentially exposed contacts via SMS.
+Contact Tracing provides a Virtual Agent conversation to assess the health of potentially exposed contacts via SMS.
 
 ## Overview
 
@@ -35,7 +35,7 @@ Note the following requirements to use Virtual Agent with SMS:
 
 -   A Twilio account and phone number.
 
--   The [[emergency-outreach|Emergency Outreach]] application.
+-   The Emergency Outreach application.
 
     For details, see [Install Emergency Outreach](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/install-emergency-outreach.md).
 
@@ -102,7 +102,3 @@ When adding users to potentially exposed contacts in case tasks:
 -   The Exposure Case Task Survey outreach sends the SMS notification to the audience and the Virtual Agent processes the responses, executing the survey as an SMS conversation.
 -   Survey answers are stored in the \[asmt\_metric\_result\] table.
 
-## Related
-
-- [[contact-tracing|Contact Tracing]]
-- [[emergency-outreach|Emergency Outreach]]

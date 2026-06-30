@@ -14,7 +14,7 @@ breadcrumb: [Installing and configuring Password Reset Windows Application, Pass
 
 # Configure the Password Reset Windows Application to use a proxy server
 
-The [[win-password-reset-overview|Password Reset Windows Application]] supports the use of a proxy server. There are three options for configuring the proxy server.
+The Password Reset Windows Application supports the use of a proxy server. There are three options for configuring the proxy server.
 
 ## Before you begin
 
@@ -33,7 +33,7 @@ Role required: Windows system administrator
 
 
 -   **[Configure an exception policy on your proxy server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/win-proxy-exception-password-reset.md)**  
-You can [[win-proxy-exception-password-reset|configure an exception policy on your proxy server]] to allow unauthenticated access to the **service-now.com** domain.
+You can configure an exception policy on your proxy server to allow unauthenticated access to the **service-now.com** domain.
 -   **[Configure a proxy server using client credentials method](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/win-proxy-cfg-clients-password-reset.md)**  
 If you cannot configure an exception policy, you must configure all Windows clients that use the Password Reset Windows Application to pass valid credentials to the proxy server.
 -   **[Configure registry keys on your proxy server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/win-proxy-registry-password-reset.md)**  
@@ -43,7 +43,3 @@ Configure the Proxy Auto-Configuration \(PAC\) file or Windows proxy auto detect
 
 **Parent Topic:**[Installing and configuring Password Reset Windows Application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/install-configure-password-reset-windows-app.md)
 
-## Related
-
-- [[win-password-reset-overview|Password Reset Windows Application]]
-- [[win-proxy-exception-password-reset|Configure an exception policy on your proxy server]]

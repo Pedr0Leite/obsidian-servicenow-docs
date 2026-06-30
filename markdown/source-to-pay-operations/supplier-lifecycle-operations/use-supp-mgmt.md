@@ -14,16 +14,16 @@ breadcrumb: [Supplier Lifecycle Operations, Finance and Supply Chain]
 
 # Use Supplier Lifecycle Operations
 
-[[supplier|Supplier]] managers and supplier contacts can use Supplier Lifecycle Operations to accelerate supplier onboarding, minimize supplier risk, and maximize productivity.
+Supplier managers and supplier contacts can use Supplier Lifecycle Operations to accelerate supplier onboarding, minimize supplier risk, and maximize productivity.
 
 -   **[Using Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/use-supp-mgr-wsp.md)**  
-As a supplier manager, use the [[purch-order-mgmt-ws|Source-to-Pay Workspace]] to import or create suppliers, add key contacts, add supplier locations, and manage the supplier cases assigned to you.
+As a supplier manager, use the Source-to-Pay Workspace to import or create suppliers, add key contacts, add supplier locations, and manage the supplier cases assigned to you.
 -   **[Using Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/use-supp-central.md)**  
-As a [[supplier-contact|supplier contact]], you can [[self-reg-to-supp-central|self-register to the Supplier Collaboration Portal]], complete your assigned tasks, and raise requests using the supplier catalog.
+As a supplier contact, you can self-register to the Supplier Collaboration Portal, complete your assigned tasks, and raise requests using the supplier catalog.
 -   **[Using Supplier Relationship and Performance Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/using-supplier-relationship-and-performance-management.md)**  
-Use [[supplier-performance-management-overview|Supplier Relationship and Performance Management]] for monitoring and managing supplier performance.
+Use Supplier Relationship and Performance Management for monitoring and managing supplier performance.
 -   **[Using Supplier Payment Optimization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/using-supp-payment-opt.md)**  
-Use [[supplier-pmnt-opt|Supplier Payment Optimization]] for identifying, prioritizing, and tracking suppliers with high potential of accepting credit card payments. The saving estimation tool can be used to calculate potential savings from credit card payments.
+Use Supplier Payment Optimization for identifying, prioritizing, and tracking suppliers with high potential of accepting credit card payments. The saving estimation tool can be used to calculate potential savings from credit card payments.
 
 **Parent Topic:**[Supplier Lifecycle Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supp-mgmt-landing-page.md)
 
@@ -38,11 +38,3 @@ Use [[supplier-pmnt-opt|Supplier Payment Optimization]] for identifying, priorit
 
 [Using Supplier Payment Optimization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/using-supp-payment-opt.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supplier-contact|Supplier contact]]
-- [[self-reg-to-supp-central|Self-register to the Supplier Collaboration Portal]]
-- [[supplier-performance-management-overview|Supplier Relationship and Performance Management]]
-- [[supplier-pmnt-opt|Supplier Payment Optimization]]

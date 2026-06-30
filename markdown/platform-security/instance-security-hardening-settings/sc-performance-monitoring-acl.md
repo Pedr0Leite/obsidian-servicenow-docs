@@ -16,7 +16,7 @@ breadcrumb: [Configuration, Hardening settings, Platform Security]
 
 Use the **glide.security.diag\_txns\_acl** property to control stats.do, threads.do, thread\_pool\_stats, and replication.do access from an unauthenticated connection.
 
-If **glide.security.diag\_txns\_acl** is not set to the recommended value of **true**, then All [[users|users]] \(authenticated or not\) have access to diagnostic pages such as stats.do, xmlstats.do, threads.do and replication.do pages. These endpoints are intended to be used for monitoring instance health.
+If **glide.security.diag\_txns\_acl** is not set to the recommended value of **true**, then All users \(authenticated or not\) have access to diagnostic pages such as stats.do, xmlstats.do, threads.do and replication.do pages. These endpoints are intended to be used for monitoring instance health.
 
 Ensure the property **glide.security.diag\_txns\_acl** is set to **true**.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -117,8 +117,3 @@ None
 
 **Parent Topic:**[Configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-configuration.md)
 
-## Related
-
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

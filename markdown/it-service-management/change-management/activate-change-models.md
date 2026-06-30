@@ -14,7 +14,7 @@ breadcrumb: [Change Management plugins, Configure, Change Management, IT Service
 
 # Activate Change Management - Change Models
 
-You can activate the [[c_ITILChangeManagement|Change Management]] - Change Model Foundation Data plugin \(com.snc.change\_management.change\_model.foundation\) if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
+You can activate the Change Management - Change Model Foundation Data plugin \(com.snc.change\_management.change\_model.foundation\) if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System [[dex-workspace-application-tab|Applications]]** &gt; **All Available Applications** &gt; **All**.
+1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
 2.  Find the plugin using the filter criteria and search bar.
 
@@ -82,7 +82,3 @@ Role required: admin
 
 [Activate Change Management - Data Archiving]()
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]
-- [[dex-workspace-application-tab|Applications]]

@@ -14,7 +14,7 @@ breadcrumb: [Exploring, Critical Event Management, Health and Safety, Employee S
 
 # Critical Event Management dashboard
 
-The dashboard for [[critical-event-management|Critical Event Management]] \(CEM\) in the [[health-safety-core-workspace|Health and Safety Workspace]] gives a comprehensive view of all active, ongoing, and resolved critical events, enabling agents to monitor and manage incidents effectively.
+The dashboard for Critical Event Management \(CEM\) in the Health and Safety Workspace gives a comprehensive view of all active, ongoing, and resolved critical events, enabling agents to monitor and manage incidents effectively.
 
 \[Omitted image "cem-dashboard.png"\] Alt text: Critical Event Management dashboard
 
@@ -38,7 +38,3 @@ To view the Critical Event Management dashboard, navigate to **Workspaces** &gt;
 |Prioritization|Sort events by severity, location, and status to focus on the most urgent issues.|
 |Trend analysis|Track trends over time to manage and help prevent future incidents.|
 
-## Related
-
-- [[critical-event-management|Critical Event Management]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]

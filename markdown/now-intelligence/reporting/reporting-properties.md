@@ -16,7 +16,7 @@ breadcrumb: [Reporting reference, Reporting, Reporting, dashboards, and Performa
 
 Use properties to fine-tune report behavior and appearance.
 
-Navigate to **[[c_performanceAnalyticsAndReporting|Platform Analytics]] Administration** &gt; **Properties** &gt; **Reporting Properties** to configure the main reporting properties. In the Filter navigator, enter `sys_properties.list` to configure other reporting properties.
+Navigate to **Platform Analytics Administration** &gt; **Properties** &gt; **Reporting Properties** to configure the main reporting properties. In the Filter navigator, enter `sys_properties.list` to configure other reporting properties.
 
 ## Reporting properties
 
@@ -78,7 +78,7 @@ glide.chart.animation
 
 </td><td>
 
-Enables animations for reports and Performance Analytics visualizations that support animations. **Note:** [[c_MapReport|Map reports]] do not support animations and therefore do not follow this property.
+Enables animations for reports and Performance Analytics visualizations that support animations. **Note:** Map reports do not support animations and therefore do not follow this property.
 
  -   Type: true \| false
 -   Default value: true
@@ -110,7 +110,7 @@ Determines the number of sections that appear on the Y axis of the histogram.-  
 -   Default value: 10 \(Allowed range of values 1–20\)
 -   Location: **Platform Analytics Administration** &gt; **Properties** &gt; **Reporting Properties**
 
- This property applies to [[c_CreatingHistograms|histogram reports]].
+ This property applies to histogram reports.
 
 </td></tr><tr><td>
 
@@ -124,7 +124,7 @@ Sets the color of the 'mean' value dot in a box or trendbox report. -   Type: st
 -   Default value: \#2f7ed8
 -   Location: **Platform Analytics Administration** &gt; **Properties** &gt; **Reporting Properties**
 
- This property applies to box and [[c_CreatingTrendboxCharts|trendbox reports]].
+ This property applies to box and trendbox reports.
 
 </td></tr><tr><td>
 
@@ -148,7 +148,7 @@ Sets the color of the box report. -   Type: string
 -   Default value: \#FF0000
 -   Location: **Platform Analytics Administration** &gt; **Properties** &gt; **Reporting Properties**
 
- This property applies to [[c_CreatingBoxCharts|box reports]].
+ This property applies to box reports.
 
 </td></tr><tr><td>
 
@@ -158,7 +158,7 @@ glide.ui.report.datasets.default\_colors
 
 </td><td>
 
-Sets the default colors to use when adding multiple data sets to a single chart. These values are used when the **Chart color** value is **Use one color**. Enter a comma-separated list of chart color **Color name** values. You can view available colors and define new colors on the [[c_ChartColors|Chart Colors]] \[sys\_report\_chart\_color\] table.
+Sets the default colors to use when adding multiple data sets to a single chart. These values are used when the **Chart color** value is **Use one color**. Enter a comma-separated list of chart color **Color name** values. You can view available colors and define new colors on the Chart Colors \[sys\_report\_chart\_color\] table.
 
  Each color is used in order as the default chart color when adding a data set to a chart. If there are more data sets than default colors, the colors repeat.
 
@@ -174,7 +174,7 @@ glide.ui.report.datasets.default\_palettes
 
 </td><td>
 
-Sets the default palette to use when adding multiple data sets to a single chart. These values are used when the **Chart color** value is **Use color palette**. Enter a comma-separated list of chart color scheme **Name** values. You can view the available palettes and define new palettes on the Chart [[color-schemes-pa-widgets|Color Schemes]] \[pa\_chart\_color\_schemes\] table.
+Sets the default palette to use when adding multiple data sets to a single chart. These values are used when the **Chart color** value is **Use color palette**. Enter a comma-separated list of chart color scheme **Name** values. You can view the available palettes and define new palettes on the Chart Color Schemes \[pa\_chart\_color\_schemes\] table.
 
  Each palette is used in order as the default chart palette when adding a data set to a chart. If there are more data sets than default palettes, the palettes repeat.
 
@@ -182,7 +182,7 @@ Sets the default palette to use when adding multiple data sets to a single chart
 -   Default value: Default UI14
 -   Location: **Platform Analytics Administration** &gt; **Properties** &gt; **Reporting Properties**
 
- This property applies to pie, bar, horizontal bar, donut, and semi-[[c_CreateDonutCharts|donut reports]].
+ This property applies to pie, bar, horizontal bar, donut, and semi-donut reports.
 
 </td></tr><tr><td>
 
@@ -218,7 +218,7 @@ Enable this property to generate bars in bar and Pareto charts with different co
 -   Default value: \#false
 -   Location: **Platform Analytics Administration** &gt; **Properties** &gt; **Reporting Properties**
 
- This property applies to bar, horizontal bar, and [[c_CreateParetoCharts|Pareto reports]].
+ This property applies to bar, horizontal bar, and Pareto reports.
 
 </td></tr><tr><td>
 
@@ -260,7 +260,7 @@ Enables you to specify the number of days with events that are returned when you
 -   Default value: 30
 -   Location: Add a system property to the System Property \[sys\_properties\] table.
 
- This property applies to [[c_CalendarReport|calendar reports]].
+ This property applies to calendar reports.
 
 </td></tr><tr><td>
 
@@ -380,7 +380,7 @@ When disabled, the header row of a multiple level pivot table is unfrozen and sc
 -   Default value: true
 -   Location: Add a system property to the System Property \[sys\_properties\] table.
 
- This property applies to [[c_MultilevelPivotCharts|multilevel pivot tables]].
+ This property applies to multilevel pivot tables.
 
 </td></tr><tr><td>
 
@@ -427,7 +427,7 @@ The read ACL check is not enforced, but the administrator can see which users wo
 -   Location: Add a system property to the System Property \[sys\_properties\] table.
 
 </td></tr></tbody>
-</table>## [[c_HomepagePublishers|Interactive Filters]] properties
+</table>## Interactive Filters properties
 
 <table id="table_vpt_zpy_w1b"><thead><tr><th>
 
@@ -452,17 +452,3 @@ Maximum number of choices for radio button and check box interactive filters.-  
 </td></tr></tbody>
 </table>**Parent Topic:**[Reporting reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/reporting-reference.md)
 
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[c_MapReport|Map reports]]
-- [[c_CreatingHistograms|Histogram reports]]
-- [[c_CreatingTrendboxCharts|Trendbox reports]]
-- [[c_CreatingBoxCharts|Box reports]]
-- [[c_ChartColors|Chart colors]]
-- [[color-schemes-pa-widgets|Color schemes]]
-- [[c_CreateDonutCharts|Donut reports]]
-- [[c_CreateParetoCharts|Pareto reports]]
-- [[c_CalendarReport|Calendar reports]]
-- [[c_MultilevelPivotCharts|Multilevel pivot tables]]
-- [[c_HomepagePublishers|Interactive Filters]]

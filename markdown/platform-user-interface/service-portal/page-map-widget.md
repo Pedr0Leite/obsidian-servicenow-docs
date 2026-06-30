@@ -14,7 +14,7 @@ breadcrumb: [Service Portal configuration page widgets, Widget library, Using po
 
 # SP Page Map widget
 
-The Page Map widget works in the Page Editor to display any [[c_ServicePortal|Service Portal]] page in a tree structure. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
+The Page Map widget works in the Page Editor to display any Service Portal page in a tree structure. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 
 \[Omitted image "WidgetPageMap.png"\] Alt text: 404 widget tree from the Page Editor
 
@@ -29,6 +29,3 @@ The Page Map widget works in the Page Editor to display any [[c_ServicePortal|Se
 
 [Clone a widget]()
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]

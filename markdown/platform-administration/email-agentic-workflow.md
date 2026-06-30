@@ -12,14 +12,14 @@ breadcrumb: [Use agentic workflows in emails, Now Assist in Notifications, Confi
 
 # Email Intent to Action Agentic Workflow
 
-The Email agentic workflow automates [[ia-inbound-email-il|inbound email]] processing by intelligently interpreting requests, extracting required information, performing actions, and generating responses.
+The Email agentic workflow automates inbound email processing by intelligently interpreting requests, extracting required information, performing actions, and generating responses.
 
 ## Email request types
 
 The Email agentic workflow intelligently processes and responds to inbound email requests, which are categorized into two types for appropriate automated handling:
 
 -   Workflow executions: These emails contain requests where the system identifies one or more intents that trigger predefined automated workflows. This enables execution of custom processes based on the email content.
--   Information queries: For these requests, the system acts as an intelligent assistant, answering questions by using default [[ia-ai-search|AI search]] profile that can be mapped to existing information sources.
+-   Information queries: For these requests, the system acts as an intelligent assistant, answering questions by using default AI search profile that can be mapped to existing information sources.
 
 The workflow identifies and processes one or more intents from a single inbound email, evaluating each identified intent independently.
 
@@ -86,11 +86,5 @@ The email agentic workflow is powered by specialized AI agents, each responsible
     -   Draft Creation \(Supervised\): Generating email drafts that can be reviewed and approved by a human agent before sending, enabling oversight and quality control.
     -   Automated Sending \(Unsupervised\): For routine or low-risk requests, the agent can be configured to automatically send emails without human intervention, significantly boosting efficiency.
 
-The Email Generator Agent supports a configurable **Email template** field that enables responses to be generated using predefined [[c_EmailTemplates|email templates]]. These templates help maintain consistency in [[ia-branding-il|branding]], layout, and formatting of AI-generated emails.
+The Email Generator Agent supports a configurable **Email template** field that enables responses to be generated using predefined email templates. These templates help maintain consistency in branding, layout, and formatting of AI-generated emails.
 
-## Related
-
-- [[ia-inbound-email-il|Inbound email]]
-- [[ia-ai-search|AI Search]]
-- [[c_EmailTemplates|Email templates]]
-- [[ia-branding-il|Branding]]

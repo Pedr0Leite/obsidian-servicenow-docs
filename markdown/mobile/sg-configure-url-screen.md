@@ -22,21 +22,21 @@ Role required: admin
 
 Starting with the Zurich release, end-users whose mobile web screen session expires due to session timeouts, device locking, or app backgrounding are automatically logged back into their session when they return to the web screen in their mobile app.
 
-This feature works by default for all service portal pages but requires configuration for UXF pages. To enable this feature on UXF pages, admins must add the [[mobile-playbooks|mobile app bridge]] as a data source to the page in UI Builder. For more information on how to do this, please refer to Steps 1-4 in [[mobwebscreen-add-button-virtagent|Add a button to your mobile web screen that launches Virtual Agent]].
+This feature works by default for all service portal pages but requires configuration for UXF pages. To enable this feature on UXF pages, admins must add the mobile app bridge as a data source to the page in UI Builder. For more information on how to do this, please refer to Steps 1-4 in [Add a button to your mobile web screen that launches Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobwebscreen-add-button-virtagent.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select the **Screens** category from the menu, and then select **New**.
 
-4.  Select the **Mobile web** option in the [[sg-studio-configure-applet-screens|Create a screen]] page and then select **Continue**.
+4.  Select the **Mobile web** option in the Create a screen page and then select **Continue**.
 
 5.  Complete the following fields as needed.
 
@@ -78,7 +78,7 @@ Fetch type
 
 </td><td>
 
-Fetch type settings determine when data is loaded in screens. Change your fetch type to optimize load time performance for your screens.Select either `Prefetch`, `On-demand`, `Background`, or `Dynamic prefetch` as required according to your setup. For more information about these options, see [[applet-fetch-types|Mobile fetch types]].
+Fetch type settings determine when data is loaded in screens. Change your fetch type to optimize load time performance for your screens.Select either `Prefetch`, `On-demand`, `Background`, or `Dynamic prefetch` as required according to your setup. For more information about these options, see [Mobile fetch types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/applet-fetch-types.md).
 
 </td></tr><tr><td>
 
@@ -88,7 +88,7 @@ URL
 
 The URL you want to send the user to.
 
- **Note:** To add the URL for a Now Experience Framework page, which leverages the Mobile App Bridge for playbooks, see [[configure-mobile-playbooks|Configure mobile web screens with Mobile App Bridge]].
+ **Note:** To add the URL for a Now Experience Framework page, which leverages the Mobile App Bridge for playbooks, see [Configure mobile web screens with Mobile App Bridge](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/configure-mobile-playbooks.md).
 
 </td></tr><tr><td>
 
@@ -134,15 +134,5 @@ Determine which user roles can access this screen. If you have selected no roles
 
 If you want to further customize your mobile web screen, see [Add a button to your mobile web screen that launches Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobwebscreen-add-button-virtagent.md).
 
-**Parent Topic:**[[url-screen|Mobile web screen]]
+**Parent Topic:**[Mobile web screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/url-screen.md)
 
-## Related
-
-- [[mobwebscreen-add-button-virtagent|Add a button to your mobile web screen that launches Virtual Agent]]
-- [[applet-fetch-types|Mobile fetch types]]
-- [[configure-mobile-playbooks|Configure mobile web screens with Mobile App Bridge]]
-- [[url-screen|Mobile web screen]]
-- [[mobile-playbooks|Mobile App Bridge]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]
-- [[sg-studio-configure-applet-screens|Create a screen]]

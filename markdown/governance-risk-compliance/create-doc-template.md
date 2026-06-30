@@ -12,7 +12,7 @@ breadcrumb: [Setting up the Operational vulnerability module, Completing general
 
 # Set up the Document Template
 
-Set up the Document Template \(HTML Template\) that is used for generating the PDF of the [[exploring-op-vul|Operational vulnerability]] record.
+Set up the Document Template \(HTML Template\) that is used for generating the PDF of the Operational vulnerability record.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: sn\_oper\_res.admin
 
 3.  On the HTML Template record form, fill in the fields.
 
-    For more information on the fields, see [[html-template-form-op-vul|HTML Template form]].
+    For more information on the fields, see [HTML Template form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/html-template-form-op-vul.md).
 
 4.  Select **Submit**.
 
@@ -65,7 +65,4 @@ Select **Create New Block**.
 
 11. To update an existing assessment template, select it from the list and select **Update**.
 
-## Related
 
-- [[html-template-form-op-vul|HTML Template form]]
-- [[exploring-op-vul|Operational vulnerability]]

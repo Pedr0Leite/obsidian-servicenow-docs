@@ -14,7 +14,7 @@ breadcrumb: [Configure the standard ticket page, Standard ticket page, Creating 
 
 # Configure actions for standard ticket page
 
-You can [[configure-onboarding-modals|configure]] specific actions to be directly available on the [[standard-ticket-page|standard ticket page]]. Requesters are able to initiate these actions. Scriptable APIs can also trigger these actions.
+You can configure specific actions to be directly available on the standard ticket page. Requesters are able to initiate these actions. Scriptable APIs can also trigger these actions.
 
 ## Before you begin
 
@@ -68,7 +68,7 @@ Ticket configuration
 
 </td><td>
 
-[[onboarding-modals-reference|Reference]] to the standard ticket configuration record. For example, incident.
+Reference to the standard ticket configuration record. For example, incident.
 
 </td></tr><tr><td>
 
@@ -153,8 +153,3 @@ Option to enable adding text input by users for the action. If you select this c
 
 [Configure tabs for standard ticket page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/configure-tabs-for-standard-ticket-page.md)
 
-## Related
-
-- [[configure-onboarding-modals|Configure]]
-- [[standard-ticket-page|Standard ticket page]]
-- [[onboarding-modals-reference|Reference]]

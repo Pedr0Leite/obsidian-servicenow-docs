@@ -14,7 +14,7 @@ breadcrumb: [Footer configuration, Admin configurations, Configuring Employee Ce
 
 # Configure the footer
 
-Configure the footer in [[employee-center-landing-page|Employee Center]] or [[employee-center-pro-landing|Employee Center Pro]] to display your company's corporate office address, email address, and so on.
+Configure the footer in Employee Center or Employee Center Pro to display your company's corporate office address, email address, and so on.
 
 ## Before you begin
 
@@ -41,7 +41,3 @@ To configure menus for the footer, see [Configure the footer menus](https://raw.
 
 **Parent Topic:**[Footer configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/emp-center-footer-config.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[employee-center-pro-landing|Employee Center Pro]]

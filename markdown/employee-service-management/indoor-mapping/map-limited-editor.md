@@ -14,11 +14,11 @@ breadcrumb: [Configure, Indoor Mapping, Workplace Service Delivery, Employee Ser
 
 # Configure role-based access in Indoor Mapping
 
-[[configure-ind-mapping|Configure Indoor Mapping]] to update role-based access for map administrators, map editors and the map editor limited roles.
+Configure Indoor Mapping to update role-based access for map administrators, map editors and the map editor limited roles.
 
 ## Before you begin
 
-Role-based access to [[Indoor-mapping|Indoor Mapping]] Map Studio requires the following three roles:
+Role-based access to Indoor Mapping Map Studio requires the following three roles:
 
 -   Map administrator \(sn\_map\_core.map\_admin\): Map admins in Map Studio can set up the map data and objects in Indoor Mapping Map Studio and has complete access to the application. Map admins can also manage user criteria records.
 -   Map editor \(sn\_map\_core.map\_editor\): Map editors can set up maps in the Indoor Mapping Map Studio, import floor plans, and can manage maps \(edit or delete\) in the Map Studio.
@@ -71,7 +71,3 @@ Role required: map admin
 
 **Next topic:**[Indoor Mapping properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/indoor-mapping-properties.md)
 
-## Related
-
-- [[configure-ind-mapping|Configure Indoor Mapping]]
-- [[Indoor-mapping|Indoor Mapping]]

@@ -26,7 +26,7 @@ You can provide feedback for your coach when the assessment is in resolved, clos
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[cf-coaching-landing|Coaching]]** &gt; **Trainee Dashboard**.
+1.  Navigate to **All** &gt; **Coaching** &gt; **Trainee Dashboard**.
 
 2.  Select an active **Coaching Assessment** record from the **My Assessment Details** list to view feedback from your coach.
 
@@ -68,6 +68,3 @@ You can provide feedback for your coach when the assessment is in resolved, clos
 
 [Coaching field descriptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-coaching-field-descriptions.md)
 
-## Related
-
-- [[cf-coaching-landing|Coaching]]

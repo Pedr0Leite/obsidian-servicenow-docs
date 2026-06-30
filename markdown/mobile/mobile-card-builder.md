@@ -16,7 +16,7 @@ Use Mobile Card Builder to create or modify card templates using a graphical int
 
 ## Customize mobile card views
 
-\[Omitted image "card-examples-1.png"\] Alt text: Examples of cards in the [[mobile-experience|Mobile Agent app]].
+\[Omitted image "card-examples-1.png"\] Alt text: Examples of cards in the Mobile Agent app.
 
 Mobile Card Builder is a visual tool you can use to edit the templates and cards used in the ServiceNow mobile applications for iOS and Android. The ServiceNow mobile interface uses cards to display information about records on your instance. The following places make use of cards to display record information:
 
@@ -66,6 +66,3 @@ After you open a card template or choose to create a new card template, the Mobi
 
 \[Omitted image "card-builder-stage.png"\] Alt text: Mobile Card Builder stage.
 
-## Related
-
-- [[mobile-experience|Mobile Agent app]]

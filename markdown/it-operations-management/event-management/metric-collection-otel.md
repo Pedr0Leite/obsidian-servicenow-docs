@@ -18,13 +18,13 @@ The MID WebService metric Collector enables you to collect JSON and protobuf for
 
 ## Before you begin
 
-Ensure that you have installed the [[c_EM|Event Management]] Connectors \(sn\_em\_connector\) plugin on the ServiceNow AI Platform instance and the ServiceNow version is Australia or above.
+Ensure that you have installed the Event Management Connectors \(sn\_em\_connector\) plugin on the ServiceNow AI Platform instance and the ServiceNow version is Australia or above.
 
 Ensure that you:
 
 -   Deploy and start the MID Server. See [MID Server configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_MIDServerConfiguration.md).
--   Configure and start the [[mid-web-server|MID Web Server]]. See [Configure the MID Web Server extension](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-mid-web-server-extension.md).
--   To activate metric collection, ensure that the MID Server that retrieves metrics is configured with the [[operational-metrics|Metric Intelligence]] extension and that the extension is in Started mode. See [Manually configure the Metric Intelligence extension](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/configure-itoa-metric-extension.md).
+-   Configure and start the MID Web Server. See [Configure the MID Web Server extension](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-mid-web-server-extension.md).
+-   To activate metric collection, ensure that the MID Server that retrieves metrics is configured with the Metric Intelligence extension and that the extension is in Started mode. See [Manually configure the Metric Intelligence extension](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/configure-itoa-metric-extension.md).
 -   Enable the rest listener.
 
 Role required: evt\_mgmt\_admin
@@ -358,8 +358,3 @@ The default format of the URL to push event messages from the GCP to the MID Ser
 
 **Parent Topic:**[Integrate with push connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-listener-transform-script.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[mid-web-server|MID Web Server]]
-- [[operational-metrics|Metric Intelligence]]

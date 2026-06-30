@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[admin-center-intro|Admin Center]]** &gt; **[[application-manager|Application Manager]]**.
+1.  Navigate to **All** &gt; **Admin Center** &gt; **Application Manager**.
 
 2.  From the filter options, select the **Instance not entitled** indicator.
 
@@ -39,7 +39,3 @@ The application is entitled and can be installed.
 
 **Parent Topic:**[Installing applications, plugins, and products](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/installing-apps-app-manager.md)
 
-## Related
-
-- [[admin-center-intro|Admin Center]]
-- [[application-manager|Application Manager]]

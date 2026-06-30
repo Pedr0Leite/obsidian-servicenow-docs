@@ -15,7 +15,7 @@ breadcrumb: [Available cloud discovery patterns, Discovery patterns used by ITOM
 
 # AWS discovery using patterns
 
-[[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] Patterns uses patterns to discover components of the Amazon AWS Cloud deployment during horizontal discovery. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
+Discovery and Service Mapping Patterns uses patterns to discover components of the Amazon AWS Cloud deployment during horizontal discovery. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 ## Request apps on the Store
 
@@ -29,7 +29,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
     -   Visibility Content
 -   **Update the method used for pointed discovery for the AWS CloudFormation Template \(CFT\) stack**
 
-    If you use [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]], you must update the **getOperationGR\(type\)** method. This update enables the pointed discovery to list the resources correctly for the AWS CFT stack after provisioning. For further information about the steps required to update this method, see the Knowledge Base article [KB0858437](https://support.servicenow.com/nav_to.do?uri=kb_knowledge.do?sys_id=54ecb719db1f1cd0fb115583ca961917).
+    If you use Cloud Provisioning and Governance, you must update the **getOperationGR\(type\)** method. This update enables the pointed discovery to list the resources correctly for the AWS CFT stack after provisioning. For further information about the steps required to update this method, see the Knowledge Base article [KB0858437](https://support.servicenow.com/nav_to.do?uri=kb_knowledge.do?sys_id=54ecb719db1f1cd0fb115583ca961917).
 
 -   **Activate the cloud-related CI relationships**
 
@@ -39,7 +39,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
     An AWS Organization is a collection of AWS accounts under a single account. In AWS Organizations, parent accounts are called management accounts. The sub-accounts that belong to a management account are called member accounts.
 
-    **Note:** Cloud [[understanding-aws-discovery|Discovery for AWS]] Organizations isn’t fully supported in a [GovCloud](https://docs.aws.amazon.com/govcloud-us/latest/UserGuide/whatis.html) isolated region.
+    **Note:** Cloud Discovery for AWS Organizations isn’t fully supported in a [GovCloud](https://docs.aws.amazon.com/govcloud-us/latest/UserGuide/whatis.html) isolated region.
 
     The advantages of using management accounts in Discovery are:
 
@@ -51,13 +51,13 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
         When you run Discovery on your cloud resources, you don’t need separate credentials for each member account. The Cloud Discovery process handles credentials automatically by acquiring a temporary credential for each member via an AWS API. You can elect to use the default configuration or customize the MID Server to assume other roles for additional controls and security.
 
-    For more information, see [[setup-aws-service-accounts|Setting up AWS service accounts]].
+    For more information, see [Setting up AWS service accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/setup-aws-service-accounts.md).
 
 -   **Use IAM user policy on the AWS Management Console**
 
-    To use the IAM user policy instead of credentials during discovery, configure the MID Server for AWS IAM roles. For more information, see [[config-mid-iam-roles|configure the MID Server for AWS IAM roles]].
+    To use the IAM user policy instead of credentials during discovery, configure the MID Server for AWS IAM roles. For more information, see [configure the MID Server for AWS IAM roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/config-mid-iam-roles.md).
 
-    To create the IAM user policy for provisioning AWS resources, see [[aws-create-user-policy-cloud-mgt|Control AWS access and permissions using policies]]. Ensure that the IAM user policy covers the following AWS resources:
+    To create the IAM user policy for provisioning AWS resources, see [Control AWS access and permissions using policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/aws-create-user-policy-cloud-mgt.md). Ensure that the IAM user policy covers the following AWS resources:
 
     ```
     {
@@ -96,7 +96,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 -   **Configure access to the AWS resources**
 
-    To discover a single account, create an IAM account in the AWS Management Console, and ensure that it has the "ReadOnlyAccess" policy applied. To discover several member or child accounts, configure the credentials as described in [[access-aws-accounts|Access setup for AWS service accounts]].
+    To discover a single account, create an IAM account in the AWS Management Console, and ensure that it has the "ReadOnlyAccess" policy applied. To discover several member or child accounts, configure the credentials as described in [Access setup for AWS service accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/access-aws-accounts.md).
 
 -   **Configure a discovery schedule**
 
@@ -1094,13 +1094,3 @@ Optimize AWS discovery by limiting it to datacenters with resources.
 
 [Amazon Bedrock pattern-based discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/amazon-bedrock-pattern.md)
 
-## Related
-
-- [[setup-aws-service-accounts|Setting up AWS service accounts]]
-- [[config-mid-iam-roles|Configure the MID Server for AWS IAM roles]]
-- [[aws-create-user-policy-cloud-mgt|Control AWS access and permissions using policies]]
-- [[access-aws-accounts|Access setup for AWS service accounts]]
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[understanding-aws-discovery|Discovery for AWS]]

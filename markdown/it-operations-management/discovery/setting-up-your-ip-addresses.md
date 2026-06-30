@@ -14,7 +14,7 @@ breadcrumb: [Certificate Inventory and Management reference, Certificate Invento
 
 # Setting Your IP Addresses Form and Fields Table
 
-A table of the fields and values to establish the IP address, range of IP addresses, or list of IP addresses for Certificate [[r-discovery|Discovery]].
+A table of the fields and values to establish the IP address, range of IP addresses, or list of IP addresses for Certificate Discovery.
 
 |Field|Description|
 |-----|-----------|
@@ -26,6 +26,3 @@ A table of the fields and values to establish the IP address, range of IP addres
 
 **Parent Topic:**[Certificate Inventory and Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cert-invt-mgmt-references.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

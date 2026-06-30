@@ -18,7 +18,7 @@ Risks are scored during an assessment and then a rating is derived. Ratings are 
 
 ## Qualitative rating
 
-Qualitative [[risk-assessments|risk assessments]] rely on the assessor's perceptions of the probability and impact of a risk. If the method is purely qualitative, then the ratings are based on the list values such as high, medium, or low. In this case, the risk scores do not roll up. Because this method has minimal mathematical dependency, qualitative risk assessment is easy and quick to perform. This method also enables an organization to take advantage of the assessor's experienced knowledge of the process or asset that is being assessed. Users who are new to risk assessments usually use this kind of rating.
+Qualitative risk assessments rely on the assessor's perceptions of the probability and impact of a risk. If the method is purely qualitative, then the ratings are based on the list values such as high, medium, or low. In this case, the risk scores do not roll up. Because this method has minimal mathematical dependency, qualitative risk assessment is easy and quick to perform. This method also enables an organization to take advantage of the assessor's experienced knowledge of the process or asset that is being assessed. Users who are new to risk assessments usually use this kind of rating.
 
 The following figure shows an example of qualitative rating.
 
@@ -41,6 +41,3 @@ After the risk scores are calculated, you can transform the scores into a rating
 
 **Parent Topic:**[Advanced Risk Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/advanced-risk-assessment.md)
 
-## Related
-
-- [[risk-assessments|risk assessments]]

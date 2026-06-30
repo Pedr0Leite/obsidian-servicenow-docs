@@ -32,7 +32,7 @@ The ServiceNow® Workplace Lease Administration enables you to create, manage an
 
 </td></tr><tr><td>
 
-[Manage \[Omitted image "bus-headset.svg"\] Alt text: [[manage-lease-contracts|Manage workplace contracts]] and renewals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/manage-lease-contracts.md)
+[Manage \[Omitted image "bus-headset.svg"\] Alt text: Manage workplace contracts and renewals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/manage-lease-contracts.md)
 
 </td><td>
 
@@ -44,7 +44,3 @@ The ServiceNow® Workplace Lease Administration enables you to create, manage an
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[manage-lease-contracts|Manage workplace contracts]]

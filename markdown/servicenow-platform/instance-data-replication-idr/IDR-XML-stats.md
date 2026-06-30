@@ -14,7 +14,7 @@ breadcrumb: [Resolving errors, Administer, Instance Data Replication, Manage ins
 
 # Instance Data Replication XML stats
 
-Extract [[instance-data-replication|Instance Data Replication]] \(IDR\)-related data from your instance to monitor replication status.
+Extract Instance Data Replication \(IDR\)-related data from your instance to monitor replication status.
 
 ## IDR XML Stats
 
@@ -76,6 +76,3 @@ producer_name="byungidrparis1" remote="false" status="active" topic_name="559cd6
 
 **Parent Topic:**[Resolving data replication errors in Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/common-issues-idr.md)
 
-## Related
-
-- [[instance-data-replication|Instance Data Replication]]

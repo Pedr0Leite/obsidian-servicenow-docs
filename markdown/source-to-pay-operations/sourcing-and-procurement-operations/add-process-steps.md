@@ -22,7 +22,7 @@ Role required: sn\_shop.procurement\_administrator
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **ShoppingHub** &gt; **[[process-visibility|Process visibility]] configurations** &gt; **Configure process steps**.
+1.  Navigate to **All** &gt; **ShoppingHub** &gt; **Process visibility configurations** &gt; **Configure process steps**.
 
 2.  Select **New**.
 
@@ -44,6 +44,3 @@ Role required: sn\_shop.procurement\_administrator
 
 **Parent Topic:**[Shopping Hub process visibility configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/process-visibility-configuration.md)
 
-## Related
-
-- [[process-visibility|Process visibility]]

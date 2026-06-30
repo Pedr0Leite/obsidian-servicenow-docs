@@ -20,7 +20,7 @@ Role required: sn\_ti.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[threat-intel-landing-page|Threat Intelligence]]** &gt; **[[ioc-repository|IoC Repository]]** &gt; **Campaigns**.
+1.  Navigate to **All** &gt; **Threat Intelligence** &gt; **IoC Repository** &gt; **Campaigns**.
 
 2.  Click **New**.
 
@@ -40,7 +40,7 @@ Description
 
 </td><td>
 
-Enter a descriptive name for this [[campaign|campaign]].
+Enter a descriptive name for this campaign.
 
 </td></tr><tr><td id="d354799e98">
 
@@ -80,7 +80,7 @@ Alternative names to identify this campaign.
 
 </td><td>
 
-The campaign’s primary goal, objective, desired outcome, or intended effect. What the [[threat-actor|threat actor]] or [[threat-intelligence-intrusion-sets|intrusion set]] hopes to accomplish with this campaign.
+The campaign’s primary goal, objective, desired outcome, or intended effect. What the threat actor or intrusion set hopes to accomplish with this campaign.
 
 </td></tr><tr><td id="d354799e147">
 
@@ -124,11 +124,11 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Show [[stix-relationships|Relationships]]
+Show Relationships
 
 </td><td>
 
-Opens the [[stix-visualizer|STIX Visualizer]] where you can view the relationship of the STIX object.Show Relationships appears only when the object has an associated object.
+Opens the STIX Visualizer where you can view the relationship of the STIX object.Show Relationships appears only when the object has an associated object.
 
 </td></tr><tr><td>
 
@@ -140,7 +140,7 @@ Lists external references which refer to non-STIX information. This property is 
 
 </td></tr><tr><td>
 
-[[attack-patterns|Attack Patterns]]
+Attack Patterns
 
 </td><td>
 
@@ -148,7 +148,7 @@ Lists the attack patterns that help categorize attacks that are associated with 
 
 </td></tr><tr><td>
 
-[[threat-intelligence-identities|Identities]]
+Identities
 
 </td><td>
 
@@ -156,15 +156,15 @@ List of identities associated with this object.
 
 </td></tr><tr><td>
 
-[[indicator|Indicators]]
+Indicators
 
 </td><td>
 
-Lists related [[c_IoCs|Indicators of Compromise]] \(IoC\) that have been identified by the threat source associated with this object.
+Lists related Indicators of Compromise \(IoC\) that have been identified by the threat source associated with this object.
 
 </td></tr><tr><td>
 
-[[threat-intelligence-infrastructure|Infrastructure]]
+Infrastructure
 
 </td><td>
 
@@ -180,7 +180,7 @@ Lists a set of adversarial behaviors and resources with common properties associ
 
 </td></tr><tr><td>
 
-[[threat-intelligence-locations|Locations]]
+Locations
 
 </td><td>
 
@@ -188,7 +188,7 @@ Lists locations that provide geographic context to this object.
 
 </td></tr><tr><td>
 
-[[threat-intelligence-malware|Malware]]
+Malware
 
 </td><td>
 
@@ -196,7 +196,7 @@ Lists malicious code associated with this object.
 
 </td></tr><tr><td>
 
-[[threat-actors|Threat Actors]]
+Threat Actors
 
 </td><td>
 
@@ -204,7 +204,7 @@ Lists individuals, groups, or organizations who act with malicious intent associ
 
 </td></tr><tr><td>
 
-[[tools|Tools]]
+Tools
 
 </td><td>
 
@@ -212,32 +212,12 @@ Lists legitimate software that is used by threat actors to perform attacks assoc
 
 </td></tr><tr><td>
 
-[[vulnerabilities|Vulnerabilities]]
+Vulnerabilities
 
 </td><td>
 
 Lists a weakness or defect in a software or hardware that attackers exploit which is associated with this object.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[threat-intelligence-campaigns|Campaigns]]
+</table>**Parent Topic:**[Campaigns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-campaigns.md)
 
-## Related
-
-- [[threat-intelligence-campaigns|Campaigns]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[ioc-repository|IoC Repository]]
-- [[campaign|Campaign]]
-- [[threat-actor|Threat Actor]]
-- [[threat-intelligence-intrusion-sets|Intrusion set]]
-- [[stix-relationships|Relationships]]
-- [[stix-visualizer|STIX Visualizer]]
-- [[attack-patterns|Attack patterns]]
-- [[threat-intelligence-identities|Identities]]
-- [[indicator|Indicators]]
-- [[c_IoCs|Indicators of compromise]]
-- [[threat-intelligence-infrastructure|Infrastructure]]
-- [[threat-intelligence-locations|Locations]]
-- [[threat-intelligence-malware|Malware]]
-- [[threat-actors|Threat actors]]
-- [[tools|Tools]]
-- [[vulnerabilities|Vulnerabilities]]

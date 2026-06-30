@@ -14,7 +14,7 @@ breadcrumb: [Applications list, DEX Application and Device Health reference, Ref
 
 # Installed application — Overview page
 
-The overview page for an installed application provides information on the active alerts, active incidents, current impacted [[dex-workspace-devices-tab|devices]], and the average-time-to-resolve for the incidents. Tracking the total active incidents can help you to monitor and manage the overall health of the application.
+The overview page for an installed application provides information on the active alerts, active incidents, current impacted devices, and the average-time-to-resolve for the incidents. Tracking the total active incidents can help you to monitor and manage the overall health of the application.
 
 <table id="table_izd_ksn_ddc"><thead><tr><th>
 
@@ -77,6 +77,3 @@ Displays the total number of devices per version of the application.**Note:** Yo
 
 **Parent Topic:**[Applications list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/application-form.md)
 
-## Related
-
-- [[dex-workspace-devices-tab|Devices]]

@@ -32,8 +32,5 @@ Role required: sys\_admin
 **Related topics**  
 
 
-[[create-template-configuration|Create Template configurations]]
+[Create Template configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-template-configuration.md)
 
-## Related
-
-- [[create-template-configuration|Create Template configurations]]

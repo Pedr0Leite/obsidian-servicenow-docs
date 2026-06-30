@@ -27,11 +27,11 @@ Role required: sn\_align\_core.apw\_user
 
 This task provides guidance on different options to personalize the view of Prioritization tab in the Planning page.
 
-Personalization preferences are saved as the portfolio plan's settings in [[alignment-planner-workspace-landing-page|Strategic Planning]]. So, these settings are applied to all the users or user groups that the portfolio plan is shared with.
+Personalization preferences are saved as the portfolio plan's settings in Strategic Planning. So, these settings are applied to all the users or user groups that the portfolio plan is shared with.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Strategic Planning** &gt; **Strategic Planning Workspace** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]]**.
+1.  Navigate to **All** &gt; **Strategic Planning** &gt; **Strategic Planning Workspace** &gt; **Portfolio Planning**.
 
 2.  From the list of portfolio plans, select one and then select **Planning**.
 
@@ -111,7 +111,3 @@ Select the Column actions icon \(\[Omitted image "icon-column-actions.png"\] Alt
 
 **Parent Topic:**[Personalizing views for prioritization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/personalize-prioritization-page-in-strategic-planinng-workspace.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

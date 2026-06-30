@@ -12,11 +12,11 @@ breadcrumb: [Security Exposure Management Workspace, Explore, Unified Security E
 
 # Viewing AI Exposures
 
-Access the entire attack surface across various types of findings on the AI Security Exposure Management dashboard on the AI Exposures module. See AI exposures as a dedicated module of the [[sem-workspace-user-interface|Security Exposure Management workspace]].
+Access the entire attack surface across various types of findings on the AI Security Exposure Management dashboard on the AI Exposures module. See AI exposures as a dedicated module of the Security Exposure Management workspace.
 
 ## AI Exposures overview
 
-See [[exploring-ai-security-exposure|Exploring AI Security Exposure Management]] for an overview and more information about the application.
+See [Exploring AI Security Exposure Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/exploring-ai-security-exposure.md) for an overview and more information about the application.
 
 Roles required.
 
@@ -29,7 +29,7 @@ Roles required.
 
 There are three categories of AI exposures that are displayed on the dashboard.
 
--   AI [[vulnerabilities|vulnerabilities]]
+-   AI vulnerabilities
 -   AI validation findings
 -   AI posture findings
 
@@ -67,7 +67,7 @@ This is data about vulnerabilities that are discovered in open source AI models 
 
 ## AI validation findings tab
 
-These findings are from third-party automated [[pen_test_overview_avm|penetration testing]] or automated red teaming done to verify the behavior of some of these models by scanning them against their prompt libraries.
+These findings are from third-party automated penetration testing or automated red teaming done to verify the behavior of some of these models by scanning them against their prompt libraries.
 
 -   **Validation metrics section**
 
@@ -100,7 +100,7 @@ These are findings for configuration-related vulnerabilities to help you verify 
 
     -   Open AI posture findings
     -   Agents with findings
-    -   [[tools|Tools]] with findings
+    -   Tools with findings
     -   System prompts with findings
     -   MCP servers with findings
 -   **Findings**
@@ -142,10 +142,3 @@ For AI posture findings, imported data is populated on the following tables and 
 -   AI Posture Rule \[sn\_sec\_ai\_posture\_rule\]
 -   Finding guardrail \[sn\_sec\_ai\_m2m\_finding\_guardrail\]
 
-## Related
-
-- [[exploring-ai-security-exposure|Exploring AI Security Exposure Management]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[pen_test_overview_avm|Penetration testing]]
-- [[tools|Tools]]

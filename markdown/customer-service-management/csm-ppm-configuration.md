@@ -12,7 +12,7 @@ breadcrumb: [Integrating with Customer Project Management, Integrate, Customer S
 
 # Integrate with Customer Project Management using Guided Setup
 
-Use the [[c_CustomerServiceManagement|Customer Service Management]] Guided Setup to configure Customer Project Management.
+Use the Customer Service Management Guided Setup to configure Customer Project Management.
 
 ## Before you begin
 
@@ -62,7 +62,7 @@ Configure form views.
 
 </td><td>
 
-Configure the [[r_CustomerServiceCaseForm|Case form]] and add the following fields to the Case view, Workspace view, and Customer Self-Service view: -   Project
+Configure the Case form and add the following fields to the Case view, Workspace view, and Customer Self-Service view: -   Project
 -   Project Task
 -   Issue
 -   Project Change Request
@@ -70,11 +70,11 @@ Configure the [[r_CustomerServiceCaseForm|Case form]] and add the following fiel
 
 </td></tr><tr><td>
 
-Configure related [[migration-lists|lists]].
+Configure related lists.
 
 </td><td>
 
-Configure the [[customer-service-account-form|Account form]] and add the **Projects** related list to the Case view and Workspace view. Configure the Contact form and add the **Projects** related list to the Case view and Workspace view.
+Configure the Account form and add the **Projects** related list to the Case view and Workspace view. Configure the Contact form and add the **Projects** related list to the Case view and Workspace view.
 
  Configure the Customer Project Task form and add the following related lists to the **Default** view: **Work Order** &gt; **Initiated From**.
 
@@ -107,7 +107,7 @@ Configure Flow Designer flows.
 
 Use Flow Designer flows provided with Customer Project Management to:-   Configure the fields that are copied over, when you create a project issue or project change request from a case.
 -   Update the work notes for a case record when the state of an associated project issue or project change request is updated.
--   [[osp-close-case|Close a case]] record when an associated project issue or project change request is closed.
+-   Close a case record when an associated project issue or project change request is closed.
  **Create Project Issue from Case**: When a project issue is created from a case, this flow copies the **Priority** and **Short description** fields from the case to the project issue record. This flow is active by default.
 
  **Create Project Change Request from Case**: When a project change request is created from a case, this flow copies the **Priority** and **Short description** fields from the case to the project change request record. This flow is active by default.
@@ -134,11 +134,3 @@ Assign ACLs to the Customer Service Management user roles to provide access to t
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[migration-lists|Lists]]
-- [[customer-service-account-form|Account form]]
-- [[osp-close-case|Close a case]]

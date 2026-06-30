@@ -16,7 +16,7 @@ breadcrumb: [Reference, Digital Experience Score, Digital End-User Experience, I
 
 Learn how normalization adjusts individual scores of each metric to a common scale, enabling comparison across different metrics.
 
-In [[dexscr-digital-experience-score|Digital Experience Score​]], the key metrics monitored from [[dex-workspace-application-tab|applications]] and [[dex-workspace-devices-tab|devices]] are normalized by mapping the Good, Average, or Poor range of the actual metric value to the corresponding Good, Average, or Poor range definition on a scale of 100.
+In Digital Experience Score​, the key metrics monitored from applications and devices are normalized by mapping the Good, Average, or Poor range of the actual metric value to the corresponding Good, Average, or Poor range definition on a scale of 100.
 
 Normalization of metric values is done in two ways: One to maximize values and the other to minimize values.
 
@@ -93,8 +93,3 @@ You can customize the lower bound values for Good, Average, and Poor ranges. For
 
 [DEX Score metrics calculation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/dexscr-dex-score-metrics-calc.md)
 
-## Related
-
-- [[dexscr-digital-experience-score|Digital Experience Score​]]
-- [[dex-workspace-application-tab|Applications]]
-- [[dex-workspace-devices-tab|Devices]]

@@ -14,7 +14,7 @@ breadcrumb: [ITOM Visibility reference, ITOM Visibility, IT Operations Managemen
 
 # Agent Client Collector \(ACC\) admin workspace agent actions
 
-When working in the [[acc-landing-page|Agent Client Collector]] \(ACC\) admin workspace, you can select actions to perform on the agent by selecting the **Agent actions** button.
+When working in the Agent Client Collector \(ACC\) admin workspace, you can select actions to perform on the agent by selecting the **Agent actions** button.
 
 |Agent action|Description|
 |------------|-----------|
@@ -30,6 +30,3 @@ When working in the [[acc-landing-page|Agent Client Collector]] \(ACC\) admin wo
 
 **Parent Topic:**[ITOM Visibility reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/visibility-reference.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

@@ -36,7 +36,7 @@ Role required: sn\_wsd\_visitor.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-visitor-mgmt-feat|Workplace Visitor Management]]** &gt; **Administration** &gt; **Visit requirements**.
+1.  Navigate to **All** &gt; **Workplace Visitor Management** &gt; **Administration** &gt; **Visit requirements**.
 
 2.  On the Visit requirements list, select **New**.
 
@@ -66,9 +66,9 @@ Is initial requirement
 
 Option to display the requirement on the visit creation page. If this option is selected, the requirement is displayed on the visit creation page to the host and receptionist.
 
-Initial requirements are displayed first in the [[workplace-services-kiosk|Workplace Services Kiosk]] self-registration flow. For more information about self-registration, see [Self-register as a visitor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/visitor-self-register.md).
+Initial requirements are displayed first in the Workplace Services Kiosk self-registration flow. For more information about self-registration, see [Self-register as a visitor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/visitor-self-register.md).
 
-Initial requirements are used by the [[workplace-concierge-ai-agent|Workplace Concierge agentic workflow]] to create visits. For more information, see [Workplace Concierge agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/workplace-concierge-ai-agent.md).
+Initial requirements are used by the Workplace Concierge agentic workflow to create visits. For more information, see [Workplace Concierge agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/workplace-concierge-ai-agent.md).
 
 If this option is not selected, the requirements appear later in the visit creation process based the conditions set in the **Apply if** section.
 
@@ -149,13 +149,7 @@ Create more records for additional information based on your preference. You can
 
 [Create a visitor badge template]()
 
-[Configuring Workplace Visitor Management for [[workplace-services|Workplace Services]] Kiosk]()
+[Configuring Workplace Visitor Management for Workplace Services Kiosk]()
 
 [Quick start test for Workplace Visitor Management]()
 
-## Related
-
-- [[workplace-visitor-mgmt-feat|Workplace Visitor Management]]
-- [[workplace-services-kiosk|Workplace Services Kiosk]]
-- [[workplace-concierge-ai-agent|Workplace Concierge agentic workflow]]
-- [[workplace-services|Workplace Services]]

@@ -12,7 +12,7 @@ breadcrumb: [Reference, Data Management, Tables and data, Configure core feature
 
 # Domain separation and Data Management
 
-Domain separation is supported in [[c_DataManagement|Data Management]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported in Data Management. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic
 
@@ -26,14 +26,10 @@ Use case: As a service provider when I use chat to respond to a tenant-customerâ
 
 Data archiving supports [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md). For example, incidents that belong to a domain keep their domain designation even after they are archived.
 
-**Parent Topic:**[[data-management-reference|Data Management reference]]
+**Parent Topic:**[Data Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/data-management-reference.md)
 
 **Related topics**  
 
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[data-management-reference|Data Management reference]]
-- [[c_DataManagement|Data Management]]

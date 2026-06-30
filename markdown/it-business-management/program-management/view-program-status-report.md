@@ -55,7 +55,7 @@ Provides general overview information about the program:-   **Program Name**: Na
 -   **Portfolio**: The portfolio to which the program belongs.
 -   **Business Unit**: The business unit to which the program belongs.
 -   **Investment Type**: Investment type of the program.
--   **Impacted BU**: [[c_BusinessUnits|Business units]] of the organization that this program affects.
+-   **Impacted BU**: Business units of the organization that this program affects.
 -   **State**: Current state of the program.
 -   **Phase**: Current phase of the program, for example, Initiating, Planning, and Executing.
 -   **% Complete**: Percentage of the program completed.
@@ -98,7 +98,7 @@ Project KPI
 
 </td><td>
 
-Status of the Key Performance Indicators for overall health, schedule, cost, resources, and scope for each project in the program. Only projects for which the **Show on Program Status Report** option in the [[create-a-project-form|project form]] is selected are listed.
+Status of the Key Performance Indicators for overall health, schedule, cost, resources, and scope for each project in the program. Only projects for which the **Show on Program Status Report** option in the project form is selected are listed.
 
 The value of these KPIs roll up and are shown in the Current Status section of the program status report. **Note:** A grey X icon \(\[Omitted image "none\_icon.png"\] Alt text: None icon\) next to any project KPI means that the project manager has excluded that aspect from the status report.
 
@@ -121,7 +121,3 @@ The value of these KPIs roll up and are shown in the Current Status section of t
 
 [Create a program status report]()
 
-## Related
-
-- [[c_BusinessUnits|Business units]]
-- [[create-a-project-form|Project form]]

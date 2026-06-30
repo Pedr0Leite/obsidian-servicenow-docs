@@ -61,7 +61,7 @@ A certificate of completion will be generated for all electronically signed cont
 
 [Auto-populate the start date and end date for contract requests]()
 
-[Enable users to view email details in [[activity-lxp|activity]] stream]()
+[Enable users to view email details in activity stream]()
 
 [Enable keyword search for contract templates]()
 
@@ -73,6 +73,3 @@ A certificate of completion will be generated for all electronically signed cont
 
 [Manage notifications in Contract Management Pro]()
 
-## Related
-
-- [[activity-lxp|Activity]]

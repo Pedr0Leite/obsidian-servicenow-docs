@@ -14,9 +14,9 @@ breadcrumb: [Key Management Framework Reference, Key Management Framework, Encry
 
 # Module access policy debugger
 
-Use the module access policy debugger to review logging information and understand why your [[users|users]] are or aren’t granted access to an [[encryption-landing|encryption]] context.
+Use the module access policy debugger to review logging information and understand why your users are or aren’t granted access to an encryption context.
 
-Module access [[ca-policies|policies]] \(MAPs\) define instance-level controls for access to cryptographic modules. Callers \(for example, a user or script\) require explicit access to use a cryptographic module for encryption and decryption. Use the debugger to see which policies are evaluated when a caller attempts to access a cryptographic module. You can also use the debugger and learn why access is or isn’t being granted.
+Module access policies \(MAPs\) define instance-level controls for access to cryptographic modules. Callers \(for example, a user or script\) require explicit access to use a cryptographic module for encryption and decryption. Use the debugger to see which policies are evaluated when a caller attempts to access a cryptographic module. You can also use the debugger and learn why access is or isn’t being granted.
 
 This flowchart shows how your instance evaluates requests for access to a cryptographic module.
 
@@ -24,7 +24,7 @@ This flowchart shows how your instance evaluates requests for access to a crypto
 
 ## Control access to the debug logs
 
-Access to the module access debug [[logs|logs]] is determined by role. Users with the **sn\_kmf.admin** and **sn\_kmf.cryptographic\_manager** roles have access to the debugger. Grant access to other roles using the **glide.kmf.module\_access\_policies.debugger.authorized.roles** system property. The value of this property is a comma-separated list of roles that access the debug logs.
+Access to the module access debug logs is determined by role. Users with the **sn\_kmf.admin** and **sn\_kmf.cryptographic\_manager** roles have access to the debugger. Grant access to other roles using the **glide.kmf.module\_access\_policies.debugger.authorized.roles** system property. The value of this property is a comma-separated list of roles that access the debug logs.
 
 ## Enable or disable the debugger
 
@@ -46,7 +46,7 @@ In this example, a caller invokes two access requests to the `global.fuji` crypt
 
 Debugging information is structured using this format.
 
-1.  This first line displays the cryptographic module receiving the access [[c_requestAPI|request]].
+1.  This first line displays the cryptographic module receiving the access request.
 2.  The lines between the first and last line displays the evaluated MAPs in the order that they were evaluated, and includes their name, type, target, granular operation, and result.
 3.  The last line displays the Policy Decision \(if applicable\) and the net access result for the caller \(whether the caller is granted access\).
 
@@ -93,10 +93,3 @@ Each line starts with an icon that indicates its message type.
 
 [Encryption and Key Management subscription bundle]()
 
-## Related
-
-- [[users|Users]]
-- [[encryption-landing|Encryption]]
-- [[ca-policies|Policies]]
-- [[logs|Logs]]
-- [[c_requestAPI|request]]

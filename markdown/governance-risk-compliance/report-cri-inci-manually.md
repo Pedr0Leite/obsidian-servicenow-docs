@@ -12,7 +12,7 @@ breadcrumb: [Manage, Using Digital resilience incident reporting, Manage, Operat
 
 # Report a major incident manually
 
-Report a critical incident manually in the Digital resilience incident reporting application from the [[grc-opres-landing-page|Operational Resilience]] Workspace.
+Report a critical incident manually in the Digital resilience incident reporting application from the Operational Resilience Workspace.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ Verify that the sn\_dora\_accel\_entity table \(Legal entity for DORA\) contains
 
 4.  On the New record form, fill in the fields.
 
-    To view more information on the fields, see the [[create-new-dig-res-inci|Create New Digital Resilience Incident form]].
+    To view more information on the fields, see the [Create New Digital Resilience Incident form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-new-dig-res-inci.md).
 
 5.  Select **Accept work**.
 
@@ -60,13 +60,13 @@ Verify that the sn\_dora\_accel\_entity table \(Legal entity for DORA\) contains
 
 12. Navigate to the **Assessment** tab and respond to the assessment for DRI initial report.
 
-    The first assessment, which is the regulatory reporting assessment, is used to determine if the incident must be reported to regulatory authorities. For reportable incidents, three [[airc-assessment-templates|assessment templates]] are created for the initial, intermediate, and final report in the Assessment Workspace.
+    The first assessment, which is the regulatory reporting assessment, is used to determine if the incident must be reported to regulatory authorities. For reportable incidents, three assessment templates are created for the initial, intermediate, and final report in the Assessment Workspace.
 
     In this case, an assessment is already created in the **Assessment** tab of the action task, where you can provide incident details. The automation used in the assessment template helps to collect information and calculate responses quickly.
 
     The date of detection and classification are pre-filled, and some fields are auto-populated. You can automate or manually configure the remaining responses. Once all answers are provided, generate an Excel sheet and submit it to regulatory authorities.
 
-13. To [[submit-an-importance-and-impact-tolerance-assessment-in-ws|submit the assessment]], select **Submit** and generate an Excel sheet.
+13. To submit the assessment, select **Submit** and generate an Excel sheet.
 
     You can submit the Excel sheet to the regulatory authorities.
 
@@ -86,9 +86,4 @@ Verify that the sn\_dora\_accel\_entity table \(Legal entity for DORA\) contains
 
 16. To save the case record, select **Save**.
 
-## Related
 
-- [[create-new-dig-res-inci|Create New Digital Resilience Incident form]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[airc-assessment-templates|Assessment templates]]
-- [[submit-an-importance-and-impact-tolerance-assessment-in-ws|Submit the assessment]]

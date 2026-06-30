@@ -14,7 +14,7 @@ breadcrumb: [Configuring goals in Strategic Planning, Configure, Portfolio Plann
 
 # Defining a custom unit of measure
 
-[[defining-a-custom-unit-of-measure-gf|Defining a custom unit of measure]] helps the goal users to set the unit of measure for targets as per their choice. Unit of measures are two types, quantitative and qualitative.
+Defining a custom unit of measure helps the goal users to set the unit of measure for targets as per their choice. Unit of measures are two types, quantitative and qualitative.
 
 By default, the available unit of measures for quantitative targets are **\#**, **$**, **%**, **Days**. By default, the available unit of measure for qualitative targets is **Yes/No**.
 
@@ -25,6 +25,3 @@ As an administrator, you must create custom unit of measures so that the goal us
 
 **Parent Topic:**[Configuring goals in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/configuring-goal-framework-apw.md)
 
-## Related
-
-- [[defining-a-custom-unit-of-measure-gf|Defining a custom unit of measure]]

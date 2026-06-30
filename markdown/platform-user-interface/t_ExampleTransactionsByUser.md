@@ -73,7 +73,7 @@ current.addQuery('opened_by', parent.sys_id);
 
     For example, select David Loo.
 
-7.  [[configure-onboarding-modals|Configure]] the [[c_RelatedLists|related lists]] for the user form and add the related list **Last 20 transactions**.
+7.  Configure the related lists for the user form and add the related list **Last 20 transactions**.
 
 8.  Navigate to **User Administration** &gt; **Users**.
 
@@ -92,15 +92,10 @@ Notes and limitations:
 -   The parent variable refers to the **Applies to table**. In this case, it applies to the User \[sys\_user\] table.
 -   Querying against a record sys\_id is a common query method for relationships.
 
-**Parent Topic:**[[t_CreateDefinedRelatedLists|Create defined related lists]]
+**Parent Topic:**[Create defined related lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_CreateDefinedRelatedLists.md)
 
 **Related topics**  
 
 
 [Add a related list to a form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md)
 
-## Related
-
-- [[t_CreateDefinedRelatedLists|Create defined related lists]]
-- [[configure-onboarding-modals|Configure]]
-- [[c_RelatedLists|Related lists]]

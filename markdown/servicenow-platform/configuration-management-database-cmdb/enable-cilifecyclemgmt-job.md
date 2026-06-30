@@ -25,7 +25,7 @@ Role required: none
 When CI Lifecycle Management operations do not complete properly, for example due to a failure of the requestor or a requestor whose lease has expired, the integrity of tables related to CI Lifecycle Management might be compromised. The **CI Lifecycle Management - Restore Internal State Management Tables** scheduled job scans tables related to CI Lifecycle Management, and does the following:
 
 -   De-activates or removes all internal lifecycle management records with invalid requestors, and closes any corresponding Renew Lease Tasks if present.
--   Detects records associated with a valid requestor whose lease has expired, and automatically creates a Renew Lease Task to [[notify-landing-page|notify]] the user and to provide details for extending the lease. If the requestor takes no action and the lease remains expired for a specified grace period \(default 15 days\), automatically de-activates the corresponding CI action record, and closes any corresponding Renew Lease Task if present.
+-   Detects records associated with a valid requestor whose lease has expired, and automatically creates a Renew Lease Task to notify the user and to provide details for extending the lease. If the requestor takes no action and the lease remains expired for a specified grace period \(default 15 days\), automatically de-activates the corresponding CI action record, and closes any corresponding Renew Lease Task if present.
 
 ## Procedure
 
@@ -40,6 +40,3 @@ When CI Lifecycle Management operations do not complete properly, for example du
 
 **Parent Topic:**[CMDB CI Lifecycle Management \(legacy\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-ci-lifecycle-mgmt.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]

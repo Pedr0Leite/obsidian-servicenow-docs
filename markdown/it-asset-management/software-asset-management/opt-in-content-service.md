@@ -14,7 +14,7 @@ breadcrumb: [Software Spend Detection, Software Asset Management, IT Asset Manag
 
 # Opt in to Content Service
 
-Opt in to Content Service for Software Spend Transactions to get more accurate predictions in [[software-spend-detection|Software Spend Detection]] by sharing financial transaction data with the ServiceNow Content Service team.
+Opt in to Content Service for Software Spend Transactions to get more accurate predictions in Software Spend Detection by sharing financial transaction data with the ServiceNow Content Service team.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sam\_admin
 
 Opting in to Content Service for Software Spend Transactions means that you agree to have a copy of your financial transaction data securely sent to ServiceNow. Your data is used only to improve future publisher and product predictions when importing data into Software Spend Detection. You can opt out of Content Service at any time.
 
-If you already opted in to [[c_SAMContentService|Software Asset Management Content Service]], you still need to manually enable data sharing for Software Spend Detection by selecting the Software Spend Transactions toggle button on the Content Service Setup page. Software Spend Transactions data sharing is disabled by default.
+If you already opted in to Software Asset Management Content Service, you still need to manually enable data sharing for Software Spend Detection by selecting the Software Spend Transactions toggle button on the Content Service Setup page. Software Spend Transactions data sharing is disabled by default.
 
 If you opt in after you've already imported data into Software Spend Detection, data from previous imports is shared as well as data from future imports.
 
@@ -36,9 +36,9 @@ If you opt in after you've already imported data into Software Spend Detection, 
 
 2.  Select the check the box to accept the opt-in agreement and then select **Opt-in**.
 
-    **Note:** If you already opted in to Content Service through [[c_SoftwareAssetMgmt|Software Asset Management]], you don't see the opt-in screen.
+    **Note:** If you already opted in to Content Service through Software Asset Management, you don't see the opt-in screen.
 
-    Data sharing for [[sam-software-discovery|Software Discovery]] [[c_Models|Models]], Software Model Lifecycles, Part Numbers and Discovery Maps, and Processor Names KPIs is automatically enabled after opting in. If you don't want to share data for some KPIs, individually disable sharing by selecting the toggle button next to the KPI and then selecting **Save**. For more information about Content Service KPIs, see [Software Asset Management Content Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_SAMContentService.md).
+    Data sharing for Software Discovery Models, Software Model Lifecycles, Part Numbers and Discovery Maps, and Processor Names KPIs is automatically enabled after opting in. If you don't want to share data for some KPIs, individually disable sharing by selecting the toggle button next to the KPI and then selecting **Save**. For more information about Content Service KPIs, see [Software Asset Management Content Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_SAMContentService.md).
 
 3.  To turn on sharing for software spend transaction data, select the toggle button next to Software Spend Transactions and then select **Save**.
 
@@ -52,10 +52,3 @@ Opt in to Software Asset Management Content Service for Software Spend Transacti
 
 **Parent Topic:**[Software Spend Detection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/software-spend-detection.md)
 
-## Related
-
-- [[software-spend-detection|Software Spend Detection]]
-- [[c_SAMContentService|Software Asset Management Content Service]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-software-discovery|Software discovery]]
-- [[c_Models|Models]]

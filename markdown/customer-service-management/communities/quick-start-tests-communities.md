@@ -14,7 +14,7 @@ breadcrumb: [Communities references, Communities, Customer Service Management]
 
 # Quick start tests for Communities
 
-Validate that [[servicenow-communities|Communities]] still work after you make any configuration change, such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
+Validate that Communities still work after you make any configuration change, such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
 
 Communities quick start tests require activating the Customer Communities plugin \(com.sn\_customer\_communities\) and the Communities Demo Data plugin \(com.sn\_communities\_demo\).
 
@@ -31,10 +31,10 @@ Communities quick start tests require activating the Customer Communities plugin
 |Question auto-subscription and activity feed validation|Verify that the author is automatically subscribed to the question and the question activities appear in the activity feed.|New York|
 |Follow a user|Verify that a community user is able to follow another community user.|New York|
 |Reject content approval workflow task on question|Verify the content approval workflow of a question when content is rejected.|New York|
-|Gamification on video posting|Verify the [[communities-gamification|gamification]] [[gamification-components-points|points]] gained when posting a video.|New York|
+|Gamification on video posting|Verify the gamification points gained when posting a video.|New York|
 |Forum subscription and activity feed validation|Verify that a forum is subscribed to and the forum activities appear in the activity feed.|New York|
 |Question subscription and activity feed validation|Verify that a question is subscribed to and the question activities appear in the activity feed.|New York|
-|Post a video with 'Disable comment' option|Verify a video is posted with `[[disable-comments|Disable comments]]` option as selected.|Orlando|
+|Post a video with 'Disable comment' option|Verify a video is posted with `Disable comments` option as selected.|Orlando|
 |Pin a video as Featured|Verify that a video is marked as featured by community administrator in the forum and community home page.|Orlando|
 
 **Parent Topic:**[Communities references](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/communitie-references.md)
@@ -54,9 +54,3 @@ Communities quick start tests require activating the Customer Communities plugin
 
 [Quick start tests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/quick-start-tests.md)
 
-## Related
-
-- [[servicenow-communities|Communities]]
-- [[communities-gamification|Gamification]]
-- [[gamification-components-points|Points]]
-- [[disable-comments|Disable comments]]

@@ -26,13 +26,13 @@ Action
 
 </th></tr></thead><tbody><tr><td>
 
-REST API is linked with auth scope, however in runtime there is no auth scope check even using Bearer token [[c_Authentication|authentication]].
+REST API is linked with auth scope, however in runtime there is no auth scope check even using Bearer token authentication.
 
 </td><td>
 
 -   Make sure the sys\_api\_access\_policy record is active. Runtime ignores inactive records.
 -   Check if property **com.glide.rest.api.auth.scope.check.enable** is set to false.
--   Check if the [[oauth-inbound-and-outbound|OAuth]] token has `useraccount` auth scope.
+-   Check if the OAuth token has `useraccount` auth scope.
 
 </td></tr><tr><td>
 
@@ -49,7 +49,7 @@ REST API is linked with auth scope, however in runtime there is no auth scope ch
 
 </td><td>
 
-It is expected since the [[rest-api-auth-scope|REST API auth scope]] only applies to the OAuth access token or OIDC token. It doesn’t apply BasicAuth, Session Cookie and [[certificate-api-auth|Certificate based authentication]].
+It is expected since the REST API auth scope only applies to the OAuth access token or OIDC token. It doesn’t apply BasicAuth, Session Cookie and Certificate based authentication.
 
 </td></tr><tr><td>
 
@@ -65,10 +65,10 @@ Pre-defined `useraccount` is deleted and not sure to restore.
 
 </td><td>
 
-[[export|Export]] `useraccount` as `xml` from the other instance and import it or create an `useraccount` and modify system property **glide.oauth.token.scope.useraccount** to the newly created sys\_id record.
+Export `useraccount` as `xml` from the other instance and import it or create an `useraccount` and modify system property **glide.oauth.token.scope.useraccount** to the newly created sys\_id record.
 
 </td></tr></tbody>
-</table>## [[faq-access-simulator|Frequently asked questions]]
+</table>## Frequently asked questions
 
 Following are some of the frequently asked question when using the REST API Auth scope:
 
@@ -112,11 +112,4 @@ Following are some of the frequently asked question when using the REST API Auth
 
     No, auth scope check is only OAuth access token and OIDC token, it is not applied for **basicAuth** and **mutualAuth**
 
-## Related
 
-- [[c_Authentication|Authentication]]
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[rest-api-auth-scope|REST API Auth Scope]]
-- [[certificate-api-auth|Certificate based authentication]]
-- [[export|Export]]
-- [[faq-access-simulator|Frequently Asked Questions]]

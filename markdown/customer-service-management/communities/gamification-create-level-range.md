@@ -14,7 +14,7 @@ breadcrumb: [Administer gamification, Configuring communities, Communities, Cust
 
 # Manage gamification level ranges
 
-Manage level ranges for a [[communities-gamification|gamification]] level definition, to recognize the expertise level of your community users.
+Manage level ranges for a gamification level definition, to recognize the expertise level of your community users.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ Gamification includes predefined global, forum, and topic levels. Each level def
 
 3.  Modify the **Level Range Name**.
 
-4.  Modify the **[[gamification-components-points|Points]] Start** field.
+4.  Modify the **Points Start** field.
 
     Each range should not overlap and must have a unique start value.
 
@@ -43,7 +43,3 @@ Gamification includes predefined global, forum, and topic levels. Each level def
 
 **Parent Topic:**[Administer gamification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/communities-gamification-administer.md)
 
-## Related
-
-- [[communities-gamification|Gamification]]
-- [[gamification-components-points|Points]]

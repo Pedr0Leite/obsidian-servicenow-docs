@@ -26,7 +26,7 @@ To get started with AI Agents, you must have the sn\_gsm\_ai\_agents plugin inst
 
 1.  Ensure that the Now Assist Panel and AI Search module are both enabled.
 
-    For instructions on how to enable the Now Assist panel and on how to set up AI Search, see [[now-assist-psds-configuring|Configure Now Assist for Public Sector Digital Services \(PSDS\)]] and [[now-assist-psds-configuring-ai-search-toggle|Configure AI search for Now Assist for Public Sector Digital Services \(PSDS\)]].
+    For instructions on how to enable the Now Assist panel and on how to set up AI Search, see [Configure Now Assist for Public Sector Digital Services \(PSDS\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/now-assist-psds-configuring.md) and [Configure AI search for Now Assist for Public Sector Digital Services \(PSDS\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/now-assist-psds-configuring-ai-search-toggle.md).
 
 2.  Navigate to **All** &gt; **AI Search** &gt; **Indexed Sources.**.
 
@@ -59,7 +59,3 @@ To get started with AI Agents, you must have the sn\_gsm\_ai\_agents plugin inst
 
 The agentic workflow is now active. On this page, you can run a one-time test of the AI agent or agentic workflow to see how it thinks through the given task.
 
-## Related
-
-- [[now-assist-psds-configuring|Configure Now Assist for Public Sector Digital Services \(PSDS\)]]
-- [[now-assist-psds-configuring-ai-search-toggle|Configure AI search for Now Assist for Public Sector Digital Services \(PSDS\)]]

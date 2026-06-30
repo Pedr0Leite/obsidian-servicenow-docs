@@ -14,9 +14,9 @@ breadcrumb: [Use, Security Incident Response Workspace, Security Incident Respon
 
 # Sample Playbooks for SIR Workspace
 
-You can create or configure [[tisc-playbooks-admin|playbooks]] for SIR Workspace quickly and easily without writing complicated code. You can use these playbooks to resolve security threats in a step-by-step manner. You can invoke the [[security-incident-playbook|security incident playbook]] flow automatically or manually.
+You can create or configure playbooks for SIR Workspace quickly and easily without writing complicated code. You can use these playbooks to resolve security threats in a step-by-step manner. You can invoke the security incident playbook flow automatically or manually.
 
-The [[sir-landing-page|Security Incident Response]] provides the following playbooks with the base system:
+The Security Incident Response provides the following playbooks with the base system:
 
 -   [Playbook for Manual Phishing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbook-manual-phishing.md)
 -   [Playbook for Automated Phishing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbook-automated-phishing.md)
@@ -47,8 +47,3 @@ The [[sir-landing-page|Security Incident Response]] provides the following playb
 
 [Handle security incidents using Advanced Work Assignment]()
 
-## Related
-
-- [[tisc-playbooks-admin|Playbooks]]
-- [[security-incident-playbook|Security Incident Playbook]]
-- [[sir-landing-page|Security Incident Response]]

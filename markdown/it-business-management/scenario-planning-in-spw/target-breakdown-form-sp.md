@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Strategic Planning, Reference, Portfolio
 
 # Target Breakdown form
 
-Use the [[target-breakdown-form|Target Breakdown form]] to track and measure the progress of the target breakdown and its goal.
+Use the Target Breakdown form to track and measure the progress of the target breakdown and its goal.
 
 |Field|Description|
 |-----|-----------|
@@ -29,6 +29,3 @@ Use the [[target-breakdown-form|Target Breakdown form]] to track and measure the
 
 **Parent Topic:**[Form field information for Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/form-field-information-for-strategic-planning.md)
 
-## Related
-
-- [[target-breakdown-form|Target Breakdown form]]

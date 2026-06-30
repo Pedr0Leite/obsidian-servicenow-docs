@@ -12,9 +12,9 @@ breadcrumb: [CPQ app, Configure, price, quote apps, Configure, Sales Customer Re
 
 # Set up External connections for configuration rules
 
-External connections enable enrichments in CPQ to retrieve data from systems outside CPQ for use in configuration [[rules_101|rules]], such as fetching third-party pricing or product attributes during a configuration.
+External connections enable enrichments in CPQ to retrieve data from systems outside CPQ for use in configuration rules, such as fetching third-party pricing or product attributes during a configuration.
 
-Enrichments are [[scripts|scripts]] that run outside the rules engine and affect configurations in CPQ. The following enrichment types are available:
+Enrichments are scripts that run outside the rules engine and affect configurations in CPQ. The following enrichment types are available:
 
 -   On configure/reconfigure
 -   On BOM response
@@ -29,7 +29,7 @@ External connections can only be called from an enrichment. When an enrichment c
 In CPQ, external connections and connections provide the same capability: they define the host, authentication credentials, and path used when CPQ calls an external system. The difference is where each type is used:
 
 -   External connections are referenced in configuration rules, called from enrichment scripts that run during a configuration.
--   Connections are referenced in transaction rules, called from integrations that run in [[transaction-manager|Transaction Manager]].
+-   Connections are referenced in transaction rules, called from integrations that run in Transaction Manager.
 
 Configure an external connection when the third-party call is triggered by a configuration event. Configure a connection when the call is triggered by a transaction event.
 
@@ -50,11 +50,5 @@ When a path uses a parameter variable, wrap the value in `encodeURIComponent()` 
 **Related topics**  
 
 
-[[configure-external-connection|Create an external connection]]
+[Create an external connection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-external-connection.md)
 
-## Related
-
-- [[configure-external-connection|Create an external connection]]
-- [[rules_101|Rules]]
-- [[scripts|Scripts]]
-- [[transaction-manager|Transaction Manager]]

@@ -116,9 +116,9 @@ Select the MID Server you want to use to connect to the LDAP server. Using a MID
 
  **Note:**
 
--   The MID Server user must have the user\_admin role in order to be able to read LDAP server [[sc-configuration|configuration]] records.
+-   The MID Server user must have the user\_admin role in order to be able to read LDAP server configuration records.
 -   The following are not available with the MID Server:
-    -   LDAP [[c_Authentication|authentication]]
+    -   LDAP authentication
     -   SSL connection
 
 
@@ -158,7 +158,7 @@ Listener
 
 </td><td>
 
-Select this check box to enable the integration to periodically poll Microsoft Active Directory servers or LDAP servers that support persistent search [[c_requestAPI|request]] control. Additionally, if you selected a MID Server, the listener functionality is available for that MID Server. See [Enable an LDAP listener and set system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ldap-integration/t_EnableAListener.md) for more information.
+Select this check box to enable the integration to periodically poll Microsoft Active Directory servers or LDAP servers that support persistent search request control. Additionally, if you selected a MID Server, the listener functionality is available for that MID Server. See [Enable an LDAP listener and set system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ldap-integration/t_EnableAListener.md) for more information.
 
 </td></tr><tr><td>
 
@@ -200,8 +200,3 @@ Starting with the Fuji release, the system displays colored dots next to each se
 
 \[Omitted image "Ldap\_server\_validations\_dots.png"\] Alt text:
 
-## Related
-
-- [[sc-configuration|Configuration]]
-- [[c_Authentication|Authentication]]
-- [[c_requestAPI|request]]

@@ -12,7 +12,7 @@ breadcrumb: [Using playbooks, Automate and optimize, Use, Customer Service Manag
 
 # Using the activity stream in the contextual side panel
 
-Customer service agents can access the [[csm-config-ws-activity-stream|activity stream]] in the contextual side panel in [[csm-workspaces-configure|CSM Configurable Workspace]].
+Customer service agents can access the activity stream in the contextual side panel in CSM Configurable Workspace.
 
 The activity stream enables agents to communicate with requesters and make internal notes about the work done on a record. The activity stream updates when the current activity in the playbook is updated.
 
@@ -104,25 +104,15 @@ An email draft opens where you can send an email.
 </table>**Related topics**  
 
 
-[[csm-playbook-filter-activities|Filter playbook activities]]
+[Filter playbook activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbook-filter-activities.md)
 
-[[csm-playbooks-viewing-rel-records|Viewing dynamic related records in the contextual side panel]]
+[Viewing dynamic related records in the contextual side panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbooks-viewing-rel-records.md)
 
-[[csm-playbooks-viewing-ribbon-info|Viewing ribbon information in the contextual side panel]]
+[Viewing ribbon information in the contextual side panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbooks-viewing-ribbon-info.md)
 
-[[using-customized-playbook-experience-for-customer-service-management|Add an optional activity]]
+[Add an optional activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/using-customized-playbook-experience-for-customer-service-management.md)
 
-[[case-summarization-in-process-page|Summarize a case]]
+[Summarize a case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-summarization-in-process-page.md)
 
-[[csm-playbook-create-record|Create a record using a playbook]]
+[Create a record using a playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbook-create-record.md)
 
-## Related
-
-- [[csm-playbook-filter-activities|Filter playbook activities]]
-- [[csm-playbooks-viewing-rel-records|Viewing dynamic related records in the contextual side panel]]
-- [[csm-playbooks-viewing-ribbon-info|Viewing ribbon information in the contextual side panel]]
-- [[using-customized-playbook-experience-for-customer-service-management|Add an optional activity]]
-- [[case-summarization-in-process-page|Summarize a case]]
-- [[csm-playbook-create-record|Create a record using a playbook]]
-- [[csm-config-ws-activity-stream|Activity stream]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

@@ -23,23 +23,23 @@ Map your mitigation coverage with the technique that enables you to detect your 
 
 Mitigations enable you to prevent an adversary from successfully executing techniques or sub-techniques against your organization. Each MITRE-ATT&amp;CK technique contains mitigations that you can deploy in your organization to reduce the chance of being attacked. You can use the mitigation coverage to get an overview of your organization's overall mitigation strategy. For example, if an adversary is attacking your organization, you see the kind of coverage that you have to mitigate the attacker's techniques.
 
-The technique, and mitigation information are automatically populated for all the collections and techniques that you have activated. The [[define-the-mitigation-coverage|mitigation coverage definition]] that you have defined are available for you to select in the technique mitigation coverage.
+The technique, and mitigation information are automatically populated for all the collections and techniques that you have activated. The [mitigation coverage definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/define-the-mitigation-coverage.md) that you have defined are available for you to select in the technique mitigation coverage.
 
-You can identify mitigations that are relevant to your organization. If a mitigation is relevant, then you can define if the mitigation strategies have been deployed. You can specify if the strategies are applied as part of your organization's SOC Policy. You can also identify if your organization has preventive [[tools|tools]] in place to mitigate an attacker's techniques and you can map any security controls that your organization has deployed to minimize security risks. Populate the mitigation coverage \(percentage\) for each of the records.
+You can identify mitigations that are relevant to your organization. If a mitigation is relevant, then you can define if the mitigation strategies have been deployed. You can specify if the strategies are applied as part of your organization's SOC Policy. You can also identify if your organization has preventive tools in place to mitigate an attacker's techniques and you can map any security controls that your organization has deployed to minimize security risks. Populate the mitigation coverage \(percentage\) for each of the records.
 
-After [[mapping-logrhythm|mapping]] the information for each of the techniques, the [[mitigation-coverage-calculator|mitigation coverage calculator]] auto populates the Calculated Technique Mitigation Coverage. To calculate the overall mitigation coverage for any technique, the technique mitigation mapping records must be active and relevant to the organization. The records which are inactive and not relevant are not considered for calculating the overall technique mitigation coverage. Based on the values in the Calculated Technique Mitigation Coverage and the [mitigation coverage definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/define-the-mitigation-coverage.md), your Overall Technique Mitigation Coverage \(Calculated\) is populated.
+After mapping the information for each of the techniques, the [mitigation coverage calculator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/mitigation-coverage-calculator.md) auto populates the Calculated Technique Mitigation Coverage. To calculate the overall mitigation coverage for any technique, the technique mitigation mapping records must be active and relevant to the organization. The records which are inactive and not relevant are not considered for calculating the overall technique mitigation coverage. Based on the values in the Calculated Technique Mitigation Coverage and the [mitigation coverage definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/define-the-mitigation-coverage.md), your Overall Technique Mitigation Coverage \(Calculated\) is populated.
 
-The customizations that you make to the coverage types, colors, or percentages are used in the mitigation coverage mapping and also in the [[mitre-att-ck-heatmap-and-navigator|heat map]].
+The customizations that you make to the coverage types, colors, or percentages are used in the mitigation coverage mapping and also in the [heat map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/mitre-att-ck-heatmap-and-navigator.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[threat-intel-landing-page|Threat Intelligence]]** &gt; **MITRE ATT&amp;CK Administration** &gt; **Mitigation Coverage Mapping**.
+1.  Navigate to **All** &gt; **Threat Intelligence** &gt; **MITRE ATT&amp;CK Administration** &gt; **Mitigation Coverage Mapping**.
 
 2.  Review each technique to mitigation mapping and update the **Mitigation Coverage \(Percentage\)** to calculate your organization's coverage availability.
 
     |Field|Description|
     |-----|-----------|
-    |ID|Technique’s unique [[identity|identity]]. The IDs are automatically populated for all the collections and techniques that you have activated.|
+    |ID|Technique’s unique identity. The IDs are automatically populated for all the collections and techniques that you have activated.|
     |Technique|How an adversary achieves a tactical objective by performing an action. The technique information is automatically populated for all the collections and techniques that you have activated.|
     |Mitigation|Mitigations that enable you to prevent an adversary from successfully executing techniques or sub-techniques against your organization. The mitigation information is automatically populated for all the collections and techniques that you have activated.|
     |Relevant|Option to specify if the mitigation is relevant to your organization.|
@@ -59,7 +59,7 @@ The customizations that you make to the coverage types, colors, or percentages a
 -   **[Overall technique mitigation coverage calculator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/mitigation-coverage-calculator.md)**  
 The overall technique mitigation coverage is determined based on the formula defined in the mitigation coverage calculator.
 
-**Parent Topic:**[[mitre-att-ck-administration|MITRE-ATT&amp;CK administration]]
+**Parent Topic:**[MITRE-ATT&amp;CK administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/mitre-att-ck-administration.md)
 
 **Related topics**  
 
@@ -92,7 +92,7 @@ The overall technique mitigation coverage is determined based on the formula def
 
 [Define the data source and detection tool mapping]()
 
-[Define the data source and [[data-component|data component]] mapping]()
+[Define the data source and data component mapping]()
 
 [Define the technique detection coverage]()
 
@@ -110,14 +110,3 @@ The overall technique mitigation coverage is determined based on the formula def
 
 [Review the MITRE-ATT&amp;CK system properties]()
 
-## Related
-
-- [[define-the-mitigation-coverage|Define the mitigation coverage]]
-- [[mitigation-coverage-calculator|Overall technique mitigation coverage calculator]]
-- [[mitre-att-ck-heatmap-and-navigator|MITRE-ATT&amp;CK heat map and navigator]]
-- [[mitre-att-ck-administration|MITRE-ATT&amp;CK administration]]
-- [[tools|Tools]]
-- [[mapping-logrhythm|Mapping]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[identity|Identity]]
-- [[data-component|Data Component]]

@@ -45,7 +45,7 @@ Domain separation in the CSM Walk-up Experience application is supported at the 
 
 ## How domain separation works in the CSM Walk-up Experience application
 
-For this application to be the most effective, walk-up administrators should configure walk-up locations accordingly. Configure the `wu_location_queue` record to meet a user need, which affects the requester experience. Each domain configured to the location queue record has its own set of [[gamification-components-rules|rules]]. The same applies to other tables within the Walk-up application as well.
+For this application to be the most effective, walk-up administrators should configure walk-up locations accordingly. Configure the `wu_location_queue` record to meet a user need, which affects the requester experience. Each domain configured to the location queue record has its own set of rules. The same applies to other tables within the Walk-up application as well.
 
 **Note:** Elements of the Service Portal platform such as settings, portals, and widgets cannot be domain separated. However, the data within the widgets displays based on how the domain is configured. The recommended approach is to set up separate portals for each MSP customer.
 
@@ -81,6 +81,3 @@ As part of the CSM Walk-up Experience, records in the following tables can be do
 -   Walk-up contexts `[wu_context]`
 -   Interactions `[interaction]`
 
-## Related
-
-- [[gamification-components-rules|Rules]]

@@ -44,8 +44,5 @@ The output variables contain data that can be used in subsequent activities.
 |--------|-----------|
 |result|Result set A or Result set B based on which one is filled.|
 
-**Parent Topic:**[[obtain-WMI-retrieval-workflow|Security Operations System Command Integration- Get Running Processes flow]]
+**Parent Topic:**[Security Operations System Command Integration- Get Running Processes flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/obtain-WMI-retrieval-workflow.md)
 
-## Related
-
-- [[obtain-WMI-retrieval-workflow|Security Operations System Command Integration- Get Running Processes flow]]

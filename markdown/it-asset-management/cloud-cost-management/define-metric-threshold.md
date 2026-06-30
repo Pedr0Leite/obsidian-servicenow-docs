@@ -14,7 +14,7 @@ breadcrumb: [Configure Rightsizing operations, Resize resources with Rightsizing
 
 # Define a metric threshold
 
-To enable accurate memory usage data for use in generating Rightsizing recommendations, you first define memory metrics in your account. You then define a custom memory metric in [[cloud-insights-landing-page|Cloud Cost Management]].
+To enable accurate memory usage data for use in generating Rightsizing recommendations, you first define memory metrics in your account. You then define a custom memory metric in Cloud Cost Management.
 
 ## Before you begin
 
@@ -31,7 +31,7 @@ AWS doesn’t automatically collect memory metric statistics. On the AWS Managem
 
 ## Procedure
 
-1.  Navigate to **[[ci-workspace|Cloud Cost Management Workspace]]** &gt; **Operations** &gt; **Recommendations** &gt; **Rightsizing**.
+1.  Navigate to **Cloud Cost Management Workspace** &gt; **Operations** &gt; **Recommendations** &gt; **Rightsizing**.
 
 2.  Select **Settings**.
 
@@ -117,7 +117,3 @@ Threshold value used while generating Rightsizing recommendations.**Note:** If *
 
 **Parent Topic:**[Configure Rightsizing operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/rs-settings-config-cloudin.md)
 
-## Related
-
-- [[cloud-insights-landing-page|Cloud Cost Management]]
-- [[ci-workspace|Cloud Cost Management Workspace]]

@@ -33,8 +33,5 @@ Role required: sn\_hco\_orc.loc\_support\_agent or sn\_hco\_orc.plan author
 
 ## What to do next
 
-[[ctwm-op-schedule|Input Schedule details into the Operational Rounding playbook]]
+[Input Schedule details into the Operational Rounding playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/ctwm-op-schedule.md)
 
-## Related
-
-- [[ctwm-op-schedule|Input Schedule details into the Operational Rounding playbook]]

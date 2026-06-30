@@ -13,17 +13,17 @@ breadcrumb: [Configure, AI Agent Advisor, Enable AI experiences]
 
 # Confirm installation of AI Agent Advisor
 
-Confirm the installation of the [[ai-agent-advisor-landing-page|AI Agent Advisor]] application.
+Confirm the installation of the AI Agent Advisor application.
 
 ## Before you begin
 
-All required plugins must be installed before attempting to run AI Agent Advisor. For a list of dependencies, see [[supporting-information-ai-agent-advisor|Supporting information for AI Agent Advisor]].
+All required plugins must be installed before attempting to run AI Agent Advisor. For a list of dependencies, see [Supporting information for AI Agent Advisor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/supporting-information-ai-agent-advisor.md).
 
 Role required: AI Agent Advisor admin \[sn\_agent\_miner.app\_admin\]
 
 ## About this task
 
-AI Agent Advisor installs and runs automatically as part of the standard [[platform-now-assist-landing|Now Assist]] setup. No manual steps are required. After Now Assist is installed and configured, AI Agent Advisor will be present on your instance and will begin analysis automatically.
+AI Agent Advisor installs and runs automatically as part of the standard Now Assist setup. No manual steps are required. After Now Assist is installed and configured, AI Agent Advisor will be present on your instance and will begin analysis automatically.
 
 Follow these steps to confirm the installation of the AI Agent Advisor plugin.
 
@@ -49,9 +49,9 @@ Follow these steps to confirm the installation of the AI Agent Advisor plugin.
 
         The AI Agent Advisor application will install at the selected time.
 
-3.  Navigate to **All** &gt; **[[now-assist-center-landing-page|Now Assist Center]]** or **Workspaces** &gt; **Now Assist Center** to confirm the successful installation.
+3.  Navigate to **All** &gt; **Now Assist Center** or **Workspaces** &gt; **Now Assist Center** to confirm the successful installation.
 
-    The Now Assist Center [[now-assist-center-home-page|home page]] opens.
+    The Now Assist Center home page opens.
 
     Confirm the following:
 
@@ -62,26 +62,17 @@ Follow these steps to confirm the installation of the AI Agent Advisor plugin.
 
     -   Scheduled jobs are installed.
 
-        Navigate to **System Definition** &gt; **Scheduled Jobs** to confirm that the Agent Miner jobs for incidents, [[cases|cases]], and cluster matching are included in the list.
+        Navigate to **System Definition** &gt; **Scheduled Jobs** to confirm that the Agent Miner jobs for incidents, cases, and cluster matching are included in the list.
 
 
 ## Result
 
 The AI Agent Advisor application is installed and available to the appropriate user roles.
 
-**Parent Topic:**[[configuring-ai-agent-advisor|Configuring AI Agent Advisor]]
+**Parent Topic:**[Configuring AI Agent Advisor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configuring-ai-agent-advisor.md)
 
 **Related topics**  
 
 
 [Set up automation opportunity discovery for AI Agent Advisor]()
 
-## Related
-
-- [[supporting-information-ai-agent-advisor|Supporting information for AI Agent Advisor]]
-- [[configuring-ai-agent-advisor|Configuring AI Agent Advisor]]
-- [[ai-agent-advisor-landing-page|AI Agent Advisor]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-center-landing-page|Now Assist Center]]
-- [[now-assist-center-home-page|Home page]]
-- [[cases|Cases]]

@@ -14,12 +14,9 @@ breadcrumb: [Cloud License Estimator, ITOM Visibility, IT Operations Management]
 
 # Generate Cloud License Estimator Reports
 
-[[cloud-license-estimator-landing|Cloud License Estimator]] reports provide an overview of account information.
+Cloud License Estimator reports provide an overview of account information.
 
 The downloaded PDF of the resource report contains an overview of the account’s information, such as the Cloud Provider, Account Configuration name, and total resource count.
 
 The report distinguishes between CCM Licensable Resources and ITOM Licensable Resources. On the following pages, the report contains tables of the CCM and ITOM resources.
 
-## Related
-
-- [[cloud-license-estimator-landing|Cloud License Estimator]]

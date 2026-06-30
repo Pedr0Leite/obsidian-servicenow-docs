@@ -14,7 +14,7 @@ breadcrumb: [Using Agent Workspace for HR Case Management, Agent Workspace, HR S
 
 # Lists in Agent Workspace for HR Case Management
 
-Lists are an easy way of accessing cases under various categories. For example, you can quickly get a list of HR cases in [[hr-lifecycle-events-landing-page-1|lifecycle events]] or cases related to payroll.
+Lists are an easy way of accessing cases under various categories. For example, you can quickly get a list of HR cases in lifecycle events or cases related to payroll.
 
 The default **Lists** show HR cases categorized into the following:
 
@@ -50,11 +50,11 @@ A simple fulfillment type with no associated configurations. For example, for a 
 
 </td></tr><tr><td>
 
-Service [[activity-lxp|Activity]]
+Service Activity
 
 </td><td>
 
-Service activities fulfill the HR service. In the **Service Activities** section at the bottom of the HR Service form, add one or more service activities to fulfill the HR service.**Note:** Service activities can be approvals, tasks, or child [[hr-service-administration|HR services]]. See [Configure a service activity for an HR service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-service-activity-for-hr-service.md) for more information.
+Service activities fulfill the HR service. In the **Service Activities** section at the bottom of the HR Service form, add one or more service activities to fulfill the HR service.**Note:** Service activities can be approvals, tasks, or child HR services. See [Configure a service activity for an HR service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-service-activity-for-hr-service.md) for more information.
 
 </td></tr><tr><td>
 
@@ -75,7 +75,7 @@ Hr cases in the following categories:-   HRIT cases
 -   Talent management cases
 -   Total rewards cases
 -   Workforce administration cases
--   [[hr-case-employee-relations|Employee relations]] cases
+-   Employee relations cases
 
 </td></tr><tr><td>
 
@@ -87,7 +87,7 @@ All Hr tasks in Open, Closed, Assigned to me or Open - unassigned categories. Fo
 
 </td></tr><tr><td>
 
-[[c_HRProfileRecords|HR Profile]]
+HR Profile
 
 </td><td>
 
@@ -123,16 +123,8 @@ Delegation
 
 </td><td>
 
-Cases delegated to you or that you have delegated to other HR agents. The Delegation list appears only when you have activated the [[granular-delegation|Granular Delegation]] \(com.glide.granular\_service\_delegation\) plugin.
+Cases delegated to you or that you have delegated to other HR agents. The Delegation list appears only when you have activated the Granular Delegation \(com.glide.granular\_service\_delegation\) plugin.
 
 </td></tr></tbody>
 </table>You can create your own lists to show specific cases that are relevant to you in the **My Lists** tab. Having a custom **My Lists** helps you work faster and efficiently. For more information, see [Create My Lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/hr-agent-ws-create-list.md). For general information on using lists, see .
 
-## Related
-
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[activity-lxp|Activity]]
-- [[hr-service-administration|HR services]]
-- [[hr-case-employee-relations|Employee Relations]]
-- [[c_HRProfileRecords|HR Profile]]
-- [[granular-delegation|Granular Delegation]]

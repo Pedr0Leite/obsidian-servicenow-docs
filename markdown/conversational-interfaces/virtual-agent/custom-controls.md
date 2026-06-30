@@ -14,7 +14,7 @@ breadcrumb: [Exploring other Virtual Agent features, Build and deploy, Virtual A
 
 # Customizing Virtual Agent with custom controls
 
-Custom controls are components that ServiceNow® developers can create for use in [[virtual-agent-landing-page|Virtual Agent]] topics or topic blocks. Such controls include sliders or video players. Custom controls complement the controls provided in Virtual Agent Designer.
+Custom controls are components that ServiceNow® developers can create for use in Virtual Agent topics or topic blocks. Such controls include sliders or video players. Custom controls complement the controls provided in Virtual Agent Designer.
 
 Virtual Agent Designer provides a default set of controls that represent [user inputs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-user-inputs.md), [bot responses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-bot-responses.md), and [utilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-utilities.md) for building a Virtual Agent conversation. As a developer, you can use Virtual Agent Designer to create additional controls \(interface components\) for specific inputs or output responses. For example, a slider is an example of a custom input control that enables end users to select a quantity.
 
@@ -39,7 +39,7 @@ To add your custom control to Virtual Agent, follow these main steps:
 
 1.  [Create a custom control definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-custom-control-definition.md).
 
-    After building the custom component to be used for the control, [[create-custom-control-definition|create a custom control definition]] that maps an input or response control to the custom component.
+    After building the custom component to be used for the control, create a custom control definition that maps an input or response control to the custom component.
 
 2.  [Create a custom control using Virtual Agent Designer.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-custom-control.md)
 
@@ -52,15 +52,10 @@ To add your custom control to Virtual Agent, follow these main steps:
 
 3.  [Add a custom control to a topic or topic block](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/embed-custom-control.md).
 
-    Topic authors, virtual agent admins, or admins can add a [[va-custom-control-util|custom control utility]] to a topic or topic block.
+    Topic authors, virtual agent admins, or admins can add a custom control utility to a topic or topic block.
 
 
 ## Secure inputs
 
 Beginning with the San Diego release, you can create custom input controls that can accept secure inputs, such as passwords, to pass through to Integration Hub actions or subflows. To enable this, slide the **Make inputs secure** toggle switch when you create your custom input control. For more information, see [Create a Virtual Agent custom control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-custom-control.md).
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[create-custom-control-definition|Create a custom control definition]]
-- [[va-custom-control-util|Custom control utility]]

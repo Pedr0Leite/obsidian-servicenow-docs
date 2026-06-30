@@ -14,7 +14,7 @@ breadcrumb: [Configure for consumers, Service Exchange for Consumers, Service Ex
 
 # Personas for consumers
 
-Learn about the different personas in the [[tmt-service-bridge-both-landing-page|Service Exchange]] application.
+Learn about the different personas in the Service Exchange application.
 
 Remote record producers can be associated with personas. If a remote record producer does not have a persona, any user with the Service Exchange Requestor role can place an order for the item. However, if one or more personas are assigned to a remote record producer, the user must have the Requestor role and at least one of the listed personas. Personas are assigned to users through the Authorized Users table. To access items protected by personas, the user's Authorized User record must be approved by the provider, activated in the consumer instance, and have the appropriate persona\(s\).
 
@@ -93,6 +93,3 @@ sn\_sb.requestor
 </td></tr></tbody>
 </table>**Note:** Beginning with Service Exchange version 2.3. 18, some of the granular roles have changed. For more information, see the [Now Support KB article \(KB3065259\)](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB3065259).
 
-## Related
-
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]

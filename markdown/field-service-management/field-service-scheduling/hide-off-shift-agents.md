@@ -18,7 +18,7 @@ Choose to show only agents that are on shift so it’s easier to view who’s av
 
 ## About this task
 
-By default the hide off shift agents icon shows on the calendar in [[dispatcher-activities|Dispatcher Workspace]] for up to seven days in the future. Contact your administrator to configure the hide off shift agents button to show for longer than seven days. For more information, see [[change-hide-off-shift|Change the number of days that dispatchers can hide off shift agents]].
+By default the hide off shift agents icon shows on the calendar in Dispatcher Workspace for up to seven days in the future. Contact your administrator to configure the hide off shift agents button to show for longer than seven days. For more information, see [Change the number of days that dispatchers can hide off shift agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/change-hide-off-shift.md).
 
 Contractors, crews, and equipment aren’t hidden with the hide off shift agents button.
 
@@ -38,7 +38,4 @@ Role required: wm\_dispatcher
 
     **Note:** The Show or hide off-shift agents icon turns dark when agents are hidden, and is light when agents aren't hidden.
 
-## Related
 
-- [[change-hide-off-shift|Change the number of days that dispatchers can hide off shift agents]]
-- [[dispatcher-activities|Dispatcher Workspace]]

@@ -44,7 +44,7 @@ User criteria required: Taxonomy Manager.
 
     When you associate a category to a topic, all the Knowledge Base articles or Service Catalog items belonging to the selected categories are associated with the topic.
 
-    **Note:** The time taken to associate all the content with a topic depends on the number of Knowledge Base articles or Service Catalog items that a category contains. This is a one-time [[activity-lxp|activity]].
+    **Note:** The time taken to associate all the content with a topic depends on the number of Knowledge Base articles or Service Catalog items that a category contains. This is a one-time activity.
 
 
 ## What to do next
@@ -58,6 +58,3 @@ For more information, see [Taxonomy and connected content](https://raw.githubuse
 
 [Define a knowledge article category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_DefineAKnowledgeCategory.md)
 
-## Related
-
-- [[activity-lxp|Activity]]

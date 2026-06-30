@@ -14,7 +14,7 @@ breadcrumb: [Integrate VA with Slack, Conversational Integration with Slack, Int
 
 # Override Slack integration
 
-Override [[virtual-agent-landing-page|Virtual Agent]] integration with Slack.
+Override Virtual Agent integration with Slack.
 
 ## Before you begin
 
@@ -49,6 +49,3 @@ Starting from Utah release, if your Slack workspace is already associated with a
 
 **Parent Topic:**[Integrating ServiceNow Virtual Agent with Slack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-integ-slack.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

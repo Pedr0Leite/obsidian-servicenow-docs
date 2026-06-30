@@ -14,7 +14,7 @@ breadcrumb: [Gifts and Entertainment Compliance, Legal Service Delivery Practice
 
 # Explore Gifts and Entertainment Compliance
 
-The [[lsd-ge-landing-page|Gifts and Entertainment Compliance]] application enables you to manage disclosures and its approval arising from employees giving or receiving gifts or entertainment.
+The Gifts and Entertainment Compliance application enables you to manage disclosures and its approval arising from employees giving or receiving gifts or entertainment.
 
 ## Gifts and Entertainment Compliance overview
 
@@ -58,6 +58,3 @@ To learn more about configuring and using Gifts and Entertainment Compliance, se
 -   [Managing gifts and entertainment disclosure requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-gifts-and-entertainment/lsd-manage-ge-request.md)
 -   [Gifts and Entertainment Compliance reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-gifts-and-entertainment/lsd-ge-reference.md)
 
-## Related
-
-- [[lsd-ge-landing-page|Gifts and Entertainment Compliance]]

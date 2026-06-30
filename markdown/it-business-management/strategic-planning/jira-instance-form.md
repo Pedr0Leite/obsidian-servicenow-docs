@@ -14,7 +14,7 @@ breadcrumb: [Reference, SPW Jira Integrations, Strategic Planning, Strategic Por
 
 # Jira Instance form
 
-Learn about the fields of the Jira Instance form, used to connect [[alignment-planner-workspace-landing-page|Strategic Planning]] to Jira.
+Learn about the fields of the Jira Instance form, used to connect Strategic Planning to Jira.
 
 |Field|Description|
 |-----|-----------|
@@ -32,6 +32,3 @@ Learn about the fields of the Jira Instance form, used to connect [[alignment-pl
 
 [Create Jira instance for SPW Jira Integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/create-jira-instance.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

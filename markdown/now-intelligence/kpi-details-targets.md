@@ -52,24 +52,24 @@ When a target reaches its review date, it becomes known whether it has been met.
 
 ## Past and current targets
 
-When a target reaches its review date, it is no longer active. Usually you want a new target to take effect. When you add a new target, the expired targets are still visible, both in the chart and on cards. Here, a new target is added to the indicator after the target from the previous example has expired. This target is based on a 10% improvement to the previous target, as described in [[create-kpi-details-targets|Create a target in KPI Details]]. The chart shows information about whichever target is in effect on the selected date.
+When a target reaches its review date, it is no longer active. Usually you want a new target to take effect. When you add a new target, the expired targets are still visible, both in the chart and on cards. Here, a new target is added to the indicator after the target from the previous example has expired. This target is based on a 10% improvement to the previous target, as described in [Create a target in KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-kpi-details-targets.md). The chart shows information about whichever target is in effect on the selected date.
 
 \[Omitted image "kpi-details-old-new-targets.png"\] Alt text: KPI Details showing both an active and an expired target.
 
 -   **[Create a target in KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-kpi-details-targets.md)**  
 You can set target values for indicators that apply only to specific breakdown elements and time series aggregations. The target starts to apply at a selected date and continues to apply until you set the next target. You can set a date on which you expect to reach the target, and set a new target then.
--   **[[edit-multiple-targets|Edit multiple targets in KPI Details]]**  
+-   **[Edit multiple targets in KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/edit-multiple-targets.md)**  
 Retroactively change one or more existing targets from their start date instead of ending them and starting new targets from a later date. You can edit multiple targets to have the same value, the same change in value, or the same date.
--   **[[subscribe-users-to-ds-target|Subscribe users to Data snapshots indicator target]]**  
+-   **[Subscribe users to Data snapshots indicator target](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/subscribe-users-to-ds-target.md)**  
 If you have targets set on a native Data snapshots indicator, you can specify users to receive emails about that target. Your instance must be configured to send emails.
--   **[[add-mod-pers-tar-thresh-kpi-details|Create, modify, or delete a threshold in KPI Details]]**  
+-   **[Create, modify, or delete a threshold in KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/add-mod-pers-tar-thresh-kpi-details.md)**  
 Add, modify, or delete personal thresholds. With the required roles, you can also add, modify, and delete thresholds for all users.
--   **[[add-multiple-targets|Add a target to multiple breakdown elements in KPI Details]]**  
+-   **[Add a target to multiple breakdown elements in KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/add-multiple-targets.md)**  
 Select multiple breakdown elements in the KPI Details target configuration panel. Add the same target to each element. This target can be an improvement on a baseline instead of an absolute value.
--   **[[responsibiity-targets-kpi-details|Responsibility for indicator targets]]**  
+-   **[Responsibility for indicator targets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/responsibiity-targets-kpi-details.md)**  
 A user can be responsible for targets on one or more Performance Analytics indicator/breakdown combinations \(KPIs\). Responsible users are expected to track progress towards the targets and can change the targets on their KPIs.
 
-**Parent Topic:**[[kpi-details|KPI Details]]
+**Parent Topic:**[KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/kpi-details.md)
 
 **Related topics**  
 
@@ -84,12 +84,3 @@ A user can be responsible for targets on one or more Performance Analytics indic
 
 [Performance Analytics targets and thresholds](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/pa-targets-thresholds.md)
 
-## Related
-
-- [[create-kpi-details-targets|Create a target in KPI Details]]
-- [[edit-multiple-targets|Edit multiple targets in KPI Details]]
-- [[subscribe-users-to-ds-target|Subscribe users to Data snapshots indicator target]]
-- [[add-mod-pers-tar-thresh-kpi-details|Create, modify, or delete a threshold in KPI Details]]
-- [[add-multiple-targets|Add a target to multiple breakdown elements in KPI Details]]
-- [[responsibiity-targets-kpi-details|Responsibility for indicator targets]]
-- [[kpi-details|KPI Details]]

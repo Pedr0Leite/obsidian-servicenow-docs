@@ -97,7 +97,7 @@ Role required:
 
 8.  To move to the previous step of the authorization package and to update any details, select the **Back to previous step** option from the more actions icon \(\[Omitted image "icon-ellipses.png"\] Alt text: More actions icon\).
 
-    All actions that are done when you moved to the current state are reversed if you opt the **Back to previous step** action. For example, if the package is in Implement state, then when it moves back to Select state all the existing controls that are generated are retired. In the Select state, you can revisit the baseline controls and take necessary actions if required. However, this operation can only be done by a [[grc-cam-landing-page|Continuous Authorization and Monitoring]] administrator \(sn\_irm\_cont\_auth.admin\).
+    All actions that are done when you moved to the current state are reversed if you opt the **Back to previous step** action. For example, if the package is in Implement state, then when it moves back to Select state all the existing controls that are generated are retired. In the Select state, you can revisit the baseline controls and take necessary actions if required. However, this operation can only be done by a Continuous Authorization and Monitoring administrator \(sn\_irm\_cont\_auth.admin\).
 
 9.  To view the controls related to the authorization package, select the **Controls** related list.
 
@@ -163,6 +163,3 @@ You can include overlays to the baseline control objectives in the Authorization
 
 **Parent Topic:**[Continuous authorization and monitoring tasks in the CAM Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/cam-ws-continuous-auth-monitor.md)
 
-## Related
-
-- [[grc-cam-landing-page|Continuous Authorization and Monitoring]]

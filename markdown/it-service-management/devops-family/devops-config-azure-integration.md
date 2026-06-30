@@ -14,7 +14,7 @@ breadcrumb: [Integrating your pipeline in DevOps Config, DevOps Config, IT Servi
 
 # Azure DevOps pipeline tasks
 
-Use these tasks in your Azure DevOps pipeline to interact with the [[devops-config-landing-page|DevOps Config]] data model.
+Use these tasks in your Azure DevOps pipeline to interact with the DevOps Config data model.
 
 **Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
@@ -50,7 +50,7 @@ These tasks are provided to create a specific pipeline definition to achieve you
 
 -   ServiceNow-DevOps-Server-Change-Acceleration
 
-    [[t_CreateAChange|Create a change request]] as part of the pipeline.
+    Create a change request as part of the pipeline.
 
 
 ## ServiceNow-DevOps-Config-Agent-Upload-Config
@@ -220,7 +220,7 @@ Changeset record created/committed during the upload.
              autoValidate: false​
         ```
 
-    -   In subsequent uploads, [[reference-for-itsm-mobile-agent|reference]] the changesetNumber output variable from the first upload as an input variable.
+    -   In subsequent uploads, reference the changesetNumber output variable from the first upload as an input variable.
 
         JSON file upload:
 
@@ -319,7 +319,7 @@ connectedServiceName
 
 </td><td>
 
-Specifies the DevOps pipeline endpoint connection \(defined in the service connection [[settings-mobile|settings]] of the project\).
+Specifies the DevOps pipeline endpoint connection \(defined in the service connection settings of the project\).
 
 </td></tr><tr><td>
 
@@ -733,7 +733,7 @@ Checks if file is to be saved to an Azure repository \(true/false\). Default is 
 
 ## ServiceNow-DevOps-Config-Agent-Register-Pipeline
 
-This task ties a changeset and a snapshot to the pipeline so that it can be tracked during the pipeline execution. In [[devops-landing-page-new|DevOps Change Velocity]], this is shown in the Pipeline UI.
+This task ties a changeset and a snapshot to the pipeline so that it can be tracked during the pipeline execution. In DevOps Change Velocity, this is shown in the Pipeline UI.
 
 -   **Input variables**
 
@@ -854,7 +854,7 @@ showResults
 
 ## ServiceNow-DevOps-Server-Change-Acceleration
 
-This task is required for agentless \(server\) jobs to automatically create a change request in ServiceNow [[c_ITILChangeManagement|Change Management]] as part of the Azure DevOps pipeline.
+This task is required for agentless \(server\) jobs to automatically create a change request in ServiceNow Change Management as part of the Azure DevOps pipeline.
 
 In DevOps Config, to associate multiple snapshots of the same changeset to a change request, use snapshot name and application name to track specific configuration data for a given application service.
 
@@ -1037,11 +1037,3 @@ stages:
           tree $(Pipeline.Workspace)
 ```
 
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]
-- [[t_CreateAChange|Create a change request]]
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[settings-mobile|Settings]]
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[c_ITILChangeManagement|Change Management]]

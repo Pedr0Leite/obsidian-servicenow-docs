@@ -14,7 +14,7 @@ breadcrumb: [Applying templates to projects, Using Project Management, Project M
 
 # Apply template to an existing project
 
-Apply one or multiple project templates to an existing project from the [[create-a-project-form|project form]] or Planning Console.
+Apply one or multiple project templates to an existing project from the project form or Planning Console.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ A project created from the off-schedule project template honors the off-schedule
 
 When applying a template to a project, the project state is set to the default state. Activate the default project state \(pm\_project.state = -5\), and use it as the default value as it is Out Of The Box. You can update the label for the **State** field to meet your requirements if **Pending** doesn't fit well.
 
-**Important:** Application of template on a project having [[t_CreateAProjectTask|project tasks]] does not apply header information and only appends project tasks after the last project task of the project.
+**Important:** Application of template on a project having project tasks does not apply header information and only appends project tasks after the last project task of the project.
 
 ## Procedure
 
@@ -90,7 +90,3 @@ Step
 
 [Project template configuration]()
 
-## Related
-
-- [[create-a-project-form|Project form]]
-- [[t_CreateAProjectTask|Project tasks]]

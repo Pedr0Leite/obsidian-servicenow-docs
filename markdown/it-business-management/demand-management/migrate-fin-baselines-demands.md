@@ -14,7 +14,7 @@ breadcrumb: [Create a demand, Use, Demand Management, Project Portfolio Manageme
 
 # Migrate financial baselines of demands to Next Experience
 
-Migrate the financial baselines of demands to Next Experience to manage the financial using [[project-workspace-landing-page|Project Workspace]].
+Migrate the financial baselines of demands to Next Experience to manage the financial using Project Workspace.
 
 ## About this task
 
@@ -80,7 +80,7 @@ Description
 
 1.  Navigate to **All** &gt; **System Definition** &gt; **Scheduled Jobs**.
 2.  Filter the Name field to locate the **Migrate financial baselines to Next Experience** scheduled job and open it.
-3.  Select **Active** and on the [[scheduled-script-execution-form-gf|Scheduled Script Execution form]], fill the fields.
+3.  Select **Active** and on the Scheduled Script Execution form, fill the fields.
 
 For a description of the field names, see [Scheduled Script Execution Form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/scheduled-script-execution-form.md).
 
@@ -88,7 +88,7 @@ For a description of the field names, see [Scheduled Script Execution Form](http
 
 
 </td></tr></tbody>
-</table>    **Tip:** After migration, you're encouraged to [[create-financial-baselines-ppw|create financial baselines]] using the Financials in Next Experience.
+</table>    **Tip:** After migration, you're encouraged to create financial baselines using the Financials in Next Experience.
 
 
 ## Result
@@ -101,8 +101,3 @@ Financial baselines for the selected demands are migrated to Next Experience and
 
 **Parent Topic:**[Create a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_CreatingDemands.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]
-- [[scheduled-script-execution-form-gf|Scheduled Script Execution form]]
-- [[create-financial-baselines-ppw|Create financial baselines]]

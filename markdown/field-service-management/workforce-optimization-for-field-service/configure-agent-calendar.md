@@ -20,7 +20,7 @@ Users with the agent calendar administrator role can perform several calendar co
 
 You can configure the following for an agent calendar:
 
--   [[create-agent-calendar-event-config|Create an event configuration]]
+-   [Create an event configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/create-agent-calendar-event-config.md)
 
     Create configurations for each type of entry displayed on the agent calendar. Entries could include case tasks, work order tasks, appointments, or schedule entries such as event types that you could track and manage on the team calendar.
 
@@ -34,7 +34,7 @@ You can configure the following for an agent calendar:
 
 -   [Create a schedule to use with the agent calendar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/create-schedule-agent-calendar.md)
 
-    [[create-schedule-agent-calendar|Create a schedule to use with the agent calendar]].
+    Create a schedule to use with the agent calendar.
 
 
 **Related topics**  
@@ -44,7 +44,3 @@ You can configure the following for an agent calendar:
 
 [Use the agent calendar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/use-agent-calendar.md)
 
-## Related
-
-- [[create-agent-calendar-event-config|Create an event configuration]]
-- [[create-schedule-agent-calendar|Create a schedule to use with the agent calendar]]

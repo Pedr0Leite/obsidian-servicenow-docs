@@ -26,13 +26,13 @@ Watch this two-minute video to learn how to find a relative link in your Service
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select **Functions** from the menu and then select **New**.
 
@@ -82,7 +82,7 @@ Context
 
 Whether the function uses the **Global** or **Record** context.
 
- Use **Record** context [[mobile-nav-functions|navigation functions]] in situations where the navigation depends on information from a record. For example, if you want to navigate from the **Assigned to** field in an incident record to the assignee's user record.
+ Use **Record** context navigation functions in situations where the navigation depends on information from a record. For example, if you want to navigate from the **Assigned to** field in an incident record to the assignee's user record.
 
  Use **Global** context navigation functions in situations where the navigation does not depend on information from a record.
 
@@ -148,8 +148,3 @@ Limit user access to an action by role.
 
 Tapping this button displays a list of knowledge base articles, using the short description for the incident as a search term.
 
-## Related
-
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]
-- [[mobile-nav-functions|Navigation functions]]

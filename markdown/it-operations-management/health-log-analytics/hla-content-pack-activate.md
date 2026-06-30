@@ -25,7 +25,7 @@ Role required: evt\_mgmt\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hla-landing-page|Health Log Analytics]]** &gt; **Content Packs**.
+1.  Navigate to **All** &gt; **Health Log Analytics** &gt; **Content Packs**.
 
 2.  Open the appropriate content pack for your data input.
 
@@ -50,6 +50,3 @@ When you have configured the data input and you're mapping your raw log data, yo
 
 **Parent Topic:**[Health Log Analytics content packs for quicker time to value](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-content-packs.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

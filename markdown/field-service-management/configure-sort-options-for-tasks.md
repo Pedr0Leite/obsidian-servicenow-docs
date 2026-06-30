@@ -12,7 +12,7 @@ breadcrumb: [Dispatcher Workspace, CSM/FSM Configurable Workspace, Configure, Fi
 
 # Configure sort options for task panel
 
-Configure options for dispatchers to sort work order tasks in [[dispatcher-activities|Dispatcher Workspace]].
+Configure options for dispatchers to sort work order tasks in Dispatcher Workspace.
 
 ## Before you begin
 
@@ -52,6 +52,4 @@ By default, dispatchers can sort tasks based on only the following options:
 
     \[Omitted image "task-panel-sort.png"\] Alt text: sort option configuration form
 
-## Related
 
-- [[dispatcher-activities|Dispatcher Workspace]]

@@ -14,7 +14,7 @@ breadcrumb: [Install the Edge Encryption proxy server using the command line ins
 
 # Create and configure the RSA key pair for the digital signature
 
-Create an RSA key pair that the proxy server can use to create the digital signature for signing changes to the [[encryption-landing|encryption]] properties and [[sc-configuration|configuration]].
+Create an RSA key pair that the proxy server can use to create the digital signature for signing changes to the encryption properties and configuration.
 
 ## Before you begin
 
@@ -72,7 +72,3 @@ You must use the Java 1.8 version of the keytool utility. A copy of the utility 
 
 **Next topic:**[Import and configure the certificate for secure SSL connection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/t_SetUpSecureSSLConnection.md)
 
-## Related
-
-- [[encryption-landing|Encryption]]
-- [[sc-configuration|Configuration]]

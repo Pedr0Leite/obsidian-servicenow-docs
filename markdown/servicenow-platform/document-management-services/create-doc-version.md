@@ -30,7 +30,7 @@ Role required: none
 
 4.  Select the file type you want to upload and add any information related to the file under **Notes**.
 
-    -   To upload a file, select **[[attachment|Attachment]]**, select the file icon, and select the file.
+    -   To upload a file, select **Attachment**, select the file icon, and select the file.
     -   To link to a document, select **URL** and provide the link.
 5.  Select **Submit**.
 
@@ -39,6 +39,3 @@ Role required: none
 
 **Parent Topic:**[Document versions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/document-mgt-versions.md)
 
-## Related
-
-- [[attachment|Attachment]]

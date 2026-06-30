@@ -14,11 +14,11 @@ breadcrumb: [Getting started with Service Operations Workspace for ITSM, Configu
 
 # Access controls in Service Operations Workspace for ITSM
 
-You can determine which users can [[access-sow-itsm|access Service Operations Workspace for ITSM]] after logging in to the ServiceNow instance or access the [[sow-ui-landing-page|Service Operations Workspace for ITSM landing page]].
+You can determine which users can access Service Operations Workspace for ITSM after logging in to the ServiceNow instance or access the Service Operations Workspace for ITSM landing page.
 
-For a user, access to [[sow-landing-page|Service Operations Workspace for ITSM]] is based on the following criteria:
+For a user, access to Service Operations Workspace for ITSM is based on the following criteria:
 
--   Is the redirection upon login enabled to the Service Operations Workspace [[dex-workspace-dashboard-tab|landing page]].
+-   Is the redirection upon login enabled to the Service Operations Workspace landing page.
 -   Does the user have the sn\_sow.sow\_user role to access SOW manually or when redirected upon login.
 
     **Note:**
@@ -29,9 +29,3 @@ For a user, access to [[sow-landing-page|Service Operations Workspace for ITSM]]
 
 \[Omitted image "sow-access.png"\] Alt text: Flow chart for SOW access
 
-## Related
-
-- [[access-sow-itsm|Access Service Operations Workspace for ITSM]]
-- [[sow-ui-landing-page|Service Operations Workspace for ITSM landing page]]
-- [[sow-landing-page|Service Operations Workspace for ITSM]]
-- [[dex-workspace-dashboard-tab|Landing page]]

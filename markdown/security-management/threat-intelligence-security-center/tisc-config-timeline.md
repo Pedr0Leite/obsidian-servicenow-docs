@@ -28,7 +28,7 @@ Analysts can add, edit, or remove events associated with the intelligence record
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Administration** &gt; **Nodemap Controls** &gt; **Timeline Custom Event Type**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center** &gt; **Administration** &gt; **Nodemap Controls** &gt; **Timeline Custom Event Type**.
 
 2.  Select **New**.
 
@@ -87,7 +87,7 @@ Specifies the color of the icon that represents the event on the timeline.
 
     **Note:** By default, the custom timeline event is disabled until you manually enable the event.
 
-5.  Navigate to **Timeline Event Configuration** section to add or remove the objects or [[c_Observables|observables]].
+5.  Navigate to **Timeline Event Configuration** section to add or remove the objects or observables.
 
     \[Omitted image "tisc-config-timeline.png"\] Alt text: Timeline configuration
 
@@ -125,7 +125,3 @@ Specifies the color of the icon that represents the event on the timeline.
 
 Once the event is configured, you can navigate to the Investigation Canvas to verify the timeline entry and add or edit entries. For more information, see [Adding Timeline Events to the Canvas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-add-timeline-events.md). To understand more about using timeline feature, see [Using Timeline in Investigation Canvas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-timeline-events.md).
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[c_Observables|Observables]]

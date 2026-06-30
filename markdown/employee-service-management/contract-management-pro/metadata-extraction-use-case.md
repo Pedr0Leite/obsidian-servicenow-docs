@@ -17,7 +17,7 @@ breadcrumb: [Create use cases, Configure metadata extraction, Configure, Now Ass
 
 In contract metadata extraction, use cases specify the information that you want Now Assist to detect in a document.
 
-The CM Pro-Contract Metadata Extraction use case is available with the [[cncore-cmpro-landing-page|Contract Management Pro]] - Prime base system. This use case is not editable.
+The CM Pro-Contract Metadata Extraction use case is available with the Contract Management Pro - Prime base system. This use case is not editable.
 
 **Note:** If you create your own use case or customize a copy of an available use case, be sure to test it thoroughly to verify accuracy.
 
@@ -338,6 +338,3 @@ has\_auto\_renewal\_clause
 </td></tr></tbody>
 </table>**Parent Topic:**[Create use cases for contract metadata extraction](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-usecase-me.md)
 
-## Related
-
-- [[cncore-cmpro-landing-page|Contract Management Pro]]

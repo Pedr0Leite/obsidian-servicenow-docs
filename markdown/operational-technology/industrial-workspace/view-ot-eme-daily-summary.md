@@ -14,7 +14,7 @@ breadcrumb: [Use, Industrial Workspace, Operational Technology]
 
 # View a daily summary of Operational Technology device activities for an Equipment Model Entity
 
-In the Equipment Model View of the [[industrial-workspace-for-operational-technology|Industrial Workspace]], view the previous day's actions and changes that have been performed on the [[operational-technology-overview|Operational Technology]] \(OT\) devices in a site.
+In the Equipment Model View of the Industrial Workspace, view the previous day's actions and changes that have been performed on the Operational Technology \(OT\) devices in a site.
 
 ## Before you begin
 
@@ -53,7 +53,3 @@ You can view the total number of activities in the **Daily Activity** tab. If yo
 
 **Parent Topic:**[Using the Industrial Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/using-industrial-workspace.md)
 
-## Related
-
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[operational-technology-overview|Operational Technology]]

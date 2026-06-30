@@ -26,7 +26,7 @@ Role required: agent\_workspace\_user and knowledge
 
 1.  Navigate to **All** &gt; **Agent Workspace** &gt; **Agent Workspace Home**.
 
-2.  Go to **Lists** &gt; **[[knowledge-blocks|Knowledge Blocks]]** &gt; **Unpublished**.
+2.  Go to **Lists** &gt; **Knowledge Blocks** &gt; **Unpublished**.
 
 3.  Click a knowledge block link.
 
@@ -40,14 +40,10 @@ A knowledge block is published depending on the workflow setting of its knowledg
 -   **Knowledge - Instant Publish**: The knowledge block is immediately published.
 -   **Knowledge - Approval Publish**: The knowledge block is published on approval completion.
 
-When published, your knowledge block appears in the Published and All lists under Knowledge Blocks in Agent Workspace. If the [[article-versioning|article versioning]] feature is enabled, the version of the block is incremented.
+When published, your knowledge block appears in the Published and All lists under Knowledge Blocks in Agent Workspace. If the article versioning feature is enabled, the version of the block is incremented.
 
 **Related topics**  
 
 
 [View a knowledge block in Agent Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/view-block-agent.md)
 
-## Related
-
-- [[knowledge-blocks|Knowledge blocks]]
-- [[article-versioning|Article versioning]]

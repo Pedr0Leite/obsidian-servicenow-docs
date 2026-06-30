@@ -24,7 +24,7 @@ sn\_dpr\_model.product\_manager, sn\_dpr\_model.release\_admin, sn\_dpr\_model.r
 
 ## Access the Release Overview dashboard
 
-To open the dashboard, navigate to **Workspaces** &gt; **[[dpr-workspace|Digital Product Release Workspace]]**. Select the releases icon \(\[Omitted image "dpr-icon-release.png"\] Alt text: Releases icon.\) and then select a release from the Releases list.
+To open the dashboard, navigate to **Workspaces** &gt; **Digital Product Release Workspace**. Select the releases icon \(\[Omitted image "dpr-icon-release.png"\] Alt text: Releases icon.\) and then select a release from the Releases list.
 
 ## Widgets
 
@@ -136,6 +136,3 @@ Related tasks linked to the release, grouped by their type, and stacked by their
 
 [Release Overview dashboard for a multi-product release]()
 
-## Related
-
-- [[dpr-workspace|Digital Product Release Workspace]]

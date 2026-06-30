@@ -14,7 +14,7 @@ breadcrumb: [Customer service case types, Case management, Organize agent worksp
 
 Manage the settings and the configuration for a case type from the Case Type form.
 
-After using the [[c_CustomerServiceManagement|Customer Service Management]] Guided Setup to create and [[configure-csm-case-types|configure a case type]], you can view and manage the settings and configuration for the case type from the [[customer-service-case-type-form|Case Type form]]. To access a Case Type form, navigate to **Customer Service** &gt; **Case Types** &gt; **Manage Case Types** and select a case type from the list.
+After using the Customer Service Management Guided Setup to create and [configure a case type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-csm-case-types.md), you can view and manage the settings and configuration for the case type from the [Case Type form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-case-type-form.md). To access a Case Type form, navigate to **Customer Service** &gt; **Case Types** &gt; **Manage Case Types** and select a case type from the list.
 
 ## Case Type form related links
 
@@ -34,7 +34,7 @@ View Case Type Configuration
 
 </td><td>
 
-Displays the current configuration for this case type, including:-   Business [[gamification-components-rules|rules]]
+Displays the current configuration for this case type, including:-   Business rules
 -   Client scripts
 -   Dictionary entries and overrides
 -   Notifications
@@ -71,13 +71,13 @@ Launch Guided Setup for Agent Workspace
 Goes to the Agent Workspace for CSM setup tasks in Customer Service Management Guided Setup.
 
 </td></tr></tbody>
-</table>## Case Type form related [[migration-lists|lists]]
+</table>## Case Type form related lists
 
 The Case Type form related lists display items configured for the case type table. Use the related lists to create additional configurations.
 
 -   Record Producers
 -   State Flows
--   [[c_OnScreenAlerts|Special Handling Notes]]
+-   Special Handling Notes
 -   SLAs
 -   Email Templates
 -   Quick Messages
@@ -86,9 +86,9 @@ The Case Type form related lists display items configured for the case type tabl
 
 ## Select a category and subtype for a case type
 
-The system administrator can assign an optional category and a subtype to a case type. When creating a case, agents can filter the available case types by category and subtype in the [[csm-case-type-select-modals|case type selector]]. If an agent selects a category, the list of case types displayed is filtered by that category. If an agent selects a subtype, the list is further filtered by that subtype.
+The system administrator can assign an optional category and a subtype to a case type. When creating a case, agents can filter the available case types by category and subtype in the [case type selector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-case-type-select-modals.md). If an agent selects a category, the list of case types displayed is filtered by that category. If an agent selects a subtype, the list is further filtered by that subtype.
 
-The [[customer-service-case-types|Customer Service Case Types]] plugin includes several categories that the system administrator can select for a case type. These categories include:
+The Customer Service Case Types plugin includes several categories that the system administrator can select for a case type. These categories include:
 
 -   Onboarding
 -   Complaint
@@ -109,18 +109,7 @@ To select a category and a subtype for a case type:
 
 ## Case types and major cases
 
-The system administrator can enable the **Propose Major Case** UI action for different case types. If this UI action is available, an agent can [[osp-propose-major-case|propose a major case]] from the selected case type record. If the major case candidate is accepted, a major case is created and the case type record is added as a child case on the major case.
+The system administrator can enable the **Propose Major Case** UI action for different case types. If this UI action is available, an agent can propose a major case from the selected case type record. If the major case candidate is accepted, a major case is created and the case type record is added as a child case on the major case.
 
 The major case is created on the base Case table. Updates to the major case are synchronized to the child case types. Multiple case type records can be added to the same major case.
 
-## Related
-
-- [[configure-csm-case-types|Configuring customer service case types]]
-- [[customer-service-case-type-form|Case Type form]]
-- [[csm-case-type-select-modals|Case type selector]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[gamification-components-rules|Rules]]
-- [[migration-lists|Lists]]
-- [[c_OnScreenAlerts|Special handling notes]]
-- [[customer-service-case-types|Customer service case types]]
-- [[osp-propose-major-case|Propose a major case]]

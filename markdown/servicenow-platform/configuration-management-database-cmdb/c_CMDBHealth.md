@@ -28,7 +28,7 @@ A healthy CMDB, based on health benchmarks in an organization, is essential to a
 
 </td><td>
 
-[Use CMDB Health in a workspace\[Omitted image "bus-news.svg"\] Alt text:Access CMDB Health dashboards and related tasks in CMDB Workspaceor in [[sg-workspace|Service Graph Workspace]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-health-exp-cmdb-workspace.md)
+[Use CMDB Health in a workspace\[Omitted image "bus-news.svg"\] Alt text:Access CMDB Health dashboards and related tasks in CMDB Workspaceor in Service Graph Workspace.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-health-exp-cmdb-workspace.md)
 
 </td></tr><tr><td>
 
@@ -40,7 +40,7 @@ A healthy CMDB, based on health benchmarks in an organization, is essential to a
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Details about properties, scheduled jobs, and tables, used by CMDB Health, and [[domain-separation-relationship-formatter-editor|domain separation]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-health-ref-parent.md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Details about properties, scheduled jobs, and tables, used by CMDB Health, and domain separation.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-health-ref-parent.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -64,12 +64,7 @@ A CMDB remediation rule is associated with a task that was created for a failed 
 -   **[CMDB Health process tracking and troubleshooting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CMDBHealthTroubleshooting.md)**  
 Use the following information to track and resolve issues with the CMDB Health processes.
 -   **[CMDB Health reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-health-ref-parent.md)**  
-[[reference|Reference]] topics provide additional information about the KPIs and metrics that CMDB Health uses and about tables, scheduled jobs, and properties that are used by CMDB Health.
+Reference topics provide additional information about the KPIs and metrics that CMDB Health uses and about tables, scheduled jobs, and properties that are used by CMDB Health.
 
 **Parent Topic:**[Configuration Management Database \(CMDB\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_ITILConfigurationManagement.md)
 
-## Related
-
-- [[sg-workspace|Service Graph Workspace]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]
-- [[reference|Reference]]

@@ -20,11 +20,11 @@ Create or modify an audience record to define the conditions or criteria that us
 
 Role required: sn\_cd.content\_admin, sn\_cd.content\_manager
 
-Each audience record is configured based on user conditions, user criteria, [[c_HRProfileRecords|HR profile]] conditions, [[hr-criteria|HR criteria]], or an uploaded file. You can apply them to [[ec-streamline-content|portal content]] or lifecycle event activities. For example, a lifecycle event [[activity-lxp|activity]] for a work visa transfer is targeted only to employees that need a visa transfer.
+Each audience record is configured based on user conditions, user criteria, HR profile conditions, HR criteria, or an uploaded file. You can apply them to portal content or lifecycle event activities. For example, a lifecycle event activity for a work visa transfer is targeted only to employees that need a visa transfer.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Content Publishing** &gt; **Re-usable Components** &gt; **[[ecpro-audience|Audiences]]**.
+1.  Navigate to **All** &gt; **Content Publishing** &gt; **Re-usable Components** &gt; **Audiences**.
 
 2.  Click **New** or open a record.
 
@@ -84,7 +84,7 @@ HR Profiles \[sn\_hr\_core\_profile\]
 
 </td><td>
 
-\([[hr-service-delivery|HR Service Delivery]] only\) Use conditions based the HR profile \[sn\_hr\_core\_profile\] table with conditions you choose.
+\(HR Service Delivery only\) Use conditions based the HR profile \[sn\_hr\_core\_profile\] table with conditions you choose.
 
 </td></tr><tr><td>
 
@@ -119,11 +119,3 @@ If you click **Save** and the **Allow Ownership for Audiences** property is set 
 
 **Note:** For more information on restricting an audience by user or group, see [Content Ownership](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-content-restriction.md) and [Assign ownership of an audience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-ca-cd-audience-delegation.md).
 
-## Related
-
-- [[c_HRProfileRecords|HR Profile]]
-- [[hr-criteria|HR criteria]]
-- [[ec-streamline-content|Portal content]]
-- [[activity-lxp|Activity]]
-- [[ecpro-audience|Audiences]]
-- [[hr-service-delivery|HR Service Delivery]]

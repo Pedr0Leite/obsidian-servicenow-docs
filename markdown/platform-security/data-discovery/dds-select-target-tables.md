@@ -22,7 +22,7 @@ Role required: discovery.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[data-discovery-landing|Data Discovery]]** &gt; **Sources**.
+1.  Navigate to **All** &gt; **Data Discovery** &gt; **Sources**.
 
 2.  Select **Target Tables** in the navigation pane.
 
@@ -39,6 +39,3 @@ Role required: discovery.admin
 
 Selected tables will now be targeted by [scheduled discovery jobs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-discovery/dds-scheduled-discovery.md).
 
-## Related
-
-- [[data-discovery-landing|Data Discovery]]

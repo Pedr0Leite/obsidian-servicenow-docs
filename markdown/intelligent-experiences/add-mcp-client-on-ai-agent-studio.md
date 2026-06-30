@@ -12,21 +12,15 @@ breadcrumb: [Configuring Model Context Protocol Client, Model Context Protocol C
 
 # Adding an MCP Server in AI Agent Studio
 
-An MCP Server hosts the APIs and tools required by an AI application, enabling it to receive and process calls from MCP Clients to govern ingress traffic and to promote secure and efficient access to tools. Adding an MCP Server in the [[ai-agent-studio|AI Agent Studio]] helps you to leverage the Model Context Protocol as a tool in an AI agent.
+An MCP Server hosts the APIs and tools required by an AI application, enabling it to receive and process calls from MCP Clients to govern ingress traffic and to promote secure and efficient access to tools. Adding an MCP Server in the AI Agent Studio helps you to leverage the Model Context Protocol as a tool in an AI agent.
 
 Connecting an MCP Server with the AI Agent Studio simplifies the integration process, making it easier to discover and invoke services. This connection enhances security and governance, providing a streamlined setup experience for administrators.
 
 Adding an MCP Server requires you to add an MCP Server in the AI Agent Studio. You can add an MCP Server with one of the following authentication options:
 
-1.  **OAuth 2.1**: Helps add an MCP Server with an authentication code. For more information, see [[add-an-oauth-2-1-mcp-server|Add an MCP Server with OAuth 2.1]].
-2.  **API Key**: Helps add an MCP Server with an API Key. For more information, see [[add-an-api-key-mcp-server|Add an MCP Server with API Key]].
-3.  **Others**: Helps add an MCP Server in a manual way by selecting a Connection and Credential Alias record. For more information, see [[add-an-mcp-server-with-connection-and-credential-alias|Add an MCP Server with Connection and Credential Alias]].
+1.  **OAuth 2.1**: Helps add an MCP Server with an authentication code. For more information, see [Add an MCP Server with OAuth 2.1](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/add-an-oauth-2-1-mcp-server.md).
+2.  **API Key**: Helps add an MCP Server with an API Key. For more information, see [Add an MCP Server with API Key](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/add-an-api-key-mcp-server.md).
+3.  **Others**: Helps add an MCP Server in a manual way by selecting a Connection and Credential Alias record. For more information, see [Add an MCP Server with Connection and Credential Alias](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/add-an-mcp-server-with-connection-and-credential-alias.md).
 
 **Note:** You must authenticate the users with the MCP Server to add the MCP tool to an AI agent and without prior authentication, you can’t add the MCP Servers.
 
-## Related
-
-- [[add-an-oauth-2-1-mcp-server|Add an MCP Server with OAuth 2.1]]
-- [[add-an-api-key-mcp-server|Add an MCP Server with API Key]]
-- [[add-an-mcp-server-with-connection-and-credential-alias|Add an MCP Server with Connection and Credential Alias]]
-- [[ai-agent-studio|AI Agent Studio]]

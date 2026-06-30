@@ -18,11 +18,11 @@ Use this dashboard to track the average duration of change requests in the last 
 
 **Important:**
 
-Starting in Xanadu release, the Change dashboard is deprecated. Users can use [[change|Change dashboard]] to view, and track the open changes.
+Starting in Xanadu release, the Change dashboard is deprecated. Users can use [Change dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change.md) to view, and track the open changes.
 
 The Change Velocity dashboard is divided into the following tabs for effective usage. The ServiceNow® Performance Analytics capability in the Change Velocity dashboard provides the following benefits:
 
--   The **Current Pipeline** tab provides insights into current change activity. The **Historical Pipeline** tab provides details on trends and patterns associated with the [[c_ITILChangeManagement|change management]] process flow. The **Process KPIs** tab represents a modern set of Change KPIs that are used to evaluate the change process.
+-   The **Current Pipeline** tab provides insights into current change activity. The **Historical Pipeline** tab provides details on trends and patterns associated with the change management process flow. The **Process KPIs** tab represents a modern set of Change KPIs that are used to evaluate the change process.
 
     \[Omitted image "change-velocity-dashboard.gif"\] Alt text: Change Velocity dashboard view.
 
@@ -88,7 +88,3 @@ The Change Velocity dashboard is divided into the following tabs for effective u
 
 **Parent Topic:**[Legacy: Change Management Platform Analytics Solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/change-content-pack.md)
 
-## Related
-
-- [[change|Change dashboard]]
-- [[c_ITILChangeManagement|Change Management]]

@@ -15,11 +15,11 @@ breadcrumb: [Technical Accelerators, Accelerator catalog, View the Initiatives a
 
 # Jumpstart Your AI Control Tower: AI Lifecycle
 
-This accelerator provides guided coaching and an applied demonstration to [[io-help|help]] customers better understand their organization's AI governance.
+This accelerator provides guided coaching and an applied demonstration to help customers better understand their organization's AI governance.
 
 ## Accelerator Overview
 
-[[jumpstart-your-ai-control-tower|Jumpstart Your AI Control Tower]]: AI Life cycle provides [[impact-landing-page|Impact]] customers with guided coaching that builds on the Jumpstart Your AI Control Tower: Foundations technical accelerator by taking customers deeper into the operational reality of AI governance.
+Jumpstart Your AI Control Tower: AI Life cycle provides Impact customers with guided coaching that builds on the Jumpstart Your AI Control Tower: Foundations technical accelerator by taking customers deeper into the operational reality of AI governance.
 
 It walks through key personas, their responsibilities, and the full AI system life cycle from intake to retirement. Through an overview and applied demonstration, customers experience real-world scenarios—onboarding assets into inventory, triggering risk and compliance workflows, and connecting value dashboards to business outcomes.
 
@@ -73,8 +73,3 @@ Additional details on supplemental legal terms, prerequisites, specifications, r
 
 ServiceNow is not responsible for implementing any of the recommended configuration changes in your sub-production or production instances.
 
-## Related
-
-- [[io-help|Help]]
-- [[jumpstart-your-ai-control-tower|jumpstart your ai control tower]]
-- [[impact-landing-page|Impact]]

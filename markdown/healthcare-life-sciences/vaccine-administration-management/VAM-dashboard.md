@@ -23,7 +23,7 @@ Use the Vaccine Administration Management dashboard to view vaccine appointments
 
 ## Access the Vaccine Administration Management dashboard
 
-To open the dashboard, navigate to **[[hcls-vam|Vaccine Administration Management]]** &gt; **Dashboard**.
+To open the dashboard, navigate to **Vaccine Administration Management** &gt; **Dashboard**.
 
 ## Use cases
 
@@ -222,6 +222,3 @@ Filter the report results based on the selected clinician.
 </td></tr></tbody>
 </table>**Parent Topic:**[Using Vaccine Administration Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/using-vaccine-administration-management.md)
 
-## Related
-
-- [[hcls-vam|Vaccine Administration Management]]

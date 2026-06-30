@@ -22,7 +22,7 @@ Activating the GRC: CAM plugin adds or modifies several tables, user roles, and 
 
 Default properties are set with activation of CAM plug-in.
 
-To configure the CAM system properties, navigate to **All** &gt; **[[grc-cam-landing-page|Continuous Authorization and Monitoring]]** &gt; **[[Administration|Administration]]** &gt; **System Properties**.
+To configure the CAM system properties, navigate to **All** &gt; **Continuous Authorization and Monitoring** &gt; **Administration** &gt; **System Properties**.
 
 \[Omitted image "cam-ato-artifacts-system-properties.png"\] Alt text: ATO Artifacts System Properties.
 
@@ -159,12 +159,7 @@ Specifies the type of template to be used for Executive Summary report. By defau
 
     For more information, see [View package details in CAM Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/auth-package-overview-ws.md).
 
--   **Homepage Title**: You can customize the homepage title using this field. Enter your organization-specific [[tprm-terminology|terminology]]. The default value is Continuous Authorization Monitoring. The homepage title updates immediately after saving.
+-   **Homepage Title**: You can customize the homepage title using this field. Enter your organization-specific terminology. The default value is Continuous Authorization Monitoring. The homepage title updates immediately after saving.
 -   **Days before next authorization to set boundary to re-authorize**: You can configure authorization period in this field. Specify how many days before the authorization due date the system should display a re-authorization warning.
 -   **Overlay execution**: You can configure the execution mode of the overlay operation that's applied to an authorization package. When set to Sync, the operation runs synchronously and the Overlay screen \(Add, Edit, or Remove\) remains open until the operation completes. When set to Async, the operation runs asynchronously in the background and the pop-up closes immediately on submission.
 
-## Related
-
-- [[grc-cam-landing-page|Continuous Authorization and Monitoring]]
-- [[Administration|Administration]]
-- [[tprm-terminology|Terminology]]

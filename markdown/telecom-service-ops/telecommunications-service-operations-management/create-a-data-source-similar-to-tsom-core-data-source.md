@@ -14,7 +14,7 @@ breadcrumb: [Configure Telecom Discovery Builder, Configure Telecom Visibility, 
 
 # Create a data source similar to Telecom core data source
 
-Set up a schema-compliant data source in the connector’s application scope to simulate telecom data and ensure successful testing and validation of the [[exploring-the-telco-generic-schema-etl-framework|Telecom Discovery Builder framework]] ETL before integrating with live device data.
+Set up a schema-compliant data source in the connector’s application scope to simulate telecom data and ensure successful testing and validation of the Telecom Discovery Builder framework ETL before integrating with live device data.
 
 ## Before you begin
 
@@ -91,6 +91,3 @@ After the data source is created and tested:
 
 [Duplicate the Telecom Discovery Builder ETL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/duplicate-the-generic-etl-to-use-a-specific-connector.md)
 
-## Related
-
-- [[exploring-the-telco-generic-schema-etl-framework|Telecom Discovery Builder framework]]

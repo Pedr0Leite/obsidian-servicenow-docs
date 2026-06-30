@@ -16,14 +16,8 @@ Add new integrations and use the existing integrations in SIR Workspace.
 
 \[Omitted video\] Description: Overview and use of SIR Integration Builder
 
--   [[add-a-new-integration|Add an integration]]
--   [[verify-capabilities|Verify capabilities in ServiceNow Studio]]
--   [[use-capabilities-sir-workspace|Use capabilities in SIR Workspace]]
--   [[edit-an-integration-sir|Edit an integration]]
+-   [Add an integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/add-a-new-integration.md)
+-   [Verify capabilities in ServiceNow Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/verify-capabilities.md)
+-   [Use capabilities in SIR Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/use-capabilities-sir-workspace.md)
+-   [Edit an integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/edit-an-integration-sir.md)
 
-## Related
-
-- [[add-a-new-integration|Add an integration]]
-- [[verify-capabilities|Verify capabilities in ServiceNow Studio]]
-- [[use-capabilities-sir-workspace|Use capabilities in SIR Workspace]]
-- [[edit-an-integration-sir|Edit an integration]]

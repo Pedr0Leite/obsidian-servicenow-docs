@@ -14,7 +14,7 @@ breadcrumb: [Using Document Templates, Document Templates, HR Documents, HR Serv
 
 # Working on a document task
 
-Complete your document tasks from [[employee-center-landing-page|Employee Center]].
+Complete your document tasks from Employee Center.
 
 ## Before you begin
 
@@ -47,13 +47,9 @@ Complete your document task by incorporating the reviewer's suggestions.
 **Related topics**  
 
 
-[Using [[document-templates-overview|Document Templates]]: HR Service Delivery]()
+[Using Document Templates: HR Service Delivery]()
 
 [Using Document Templates: Custom use case]()
 
 [Using Guided Tours in Document Templates]()
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[document-templates-overview|Document Templates]]

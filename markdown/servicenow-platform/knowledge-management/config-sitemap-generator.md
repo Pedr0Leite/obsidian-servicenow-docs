@@ -36,7 +36,7 @@ Beginning with the Australia release, the Sitemap Generator configuration is ava
 
 3.  Enable the generation of sitemaps.
 
-    1.  On the form, select the **Active** [[check-box|check box]].
+    1.  On the form, select the **Active** check box.
 
     2.  In the Sitemap Config Definition related list, double-click the **Type** field and select the **true** option from the list.
 
@@ -51,6 +51,3 @@ All active sitemaps regenerate once in a day and include content from any of the
 
 **Parent Topic:**[Configuring Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/configuring-knowledge-management.md)
 
-## Related
-
-- [[check-box|Check box]]

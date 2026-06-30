@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-For more information, see [[components-installed-with-esg|Components installed with Operational Sustainability Management \(formerly ESG Management\)]].
+For more information, see [Components installed with Operational Sustainability Management \(formerly ESG Management\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/components-installed-with-esg.md).
 
 ## Procedure
 
@@ -37,9 +37,5 @@ For more information, see [[components-installed-with-esg|Components installed w
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
 
-**Parent Topic:**[[configure-sustainable-it|Configure Sustainable IT]]
+**Parent Topic:**[Configure Sustainable IT](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/configure-sustainable-it.md)
 
-## Related
-
-- [[components-installed-with-esg|components installed with esg]]
-- [[configure-sustainable-it|Configure Sustainable IT]]

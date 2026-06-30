@@ -34,10 +34,7 @@ The administrator can specify the fields that must be passed to the case records
 -   **[Setting major case threshold for auto generated cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/psew-set-major-case-threshold.md)**  
 Set the threshold value for major cases generated from incidents in the system properties.
 -   **[Redirection to the right case type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/generate-proactive-cases.md)**  
-Create a proactive case from an incident in the [[psew-landing-page|Proactive Service Experience Workflows]].
+Create a proactive case from an incident in the Proactive Service Experience Workflows.
 
 **Parent Topic:**[Using Proactive Service Experience Workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/use-assurance-workflows.md)
 
-## Related
-
-- [[psew-landing-page|Proactive Service Experience Workflows]]

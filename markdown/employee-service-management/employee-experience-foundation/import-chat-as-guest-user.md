@@ -30,7 +30,7 @@ When a guest imports a chat, attachments are not uploaded to the record. Attachm
 
 1.  Launch Microsoft Teams.
 
-2.  Navigate to **ServiceNow for Microsoft Teams** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **My Requests**.
+2.  Navigate to **ServiceNow for Microsoft Teams** &gt; **Employee Center** &gt; **My Requests**.
 
 3.  Open the ticket that you want to work on in your ServiceNow instance.
 
@@ -51,6 +51,3 @@ When a guest imports a chat, attachments are not uploaded to the record. Attachm
 
 **Parent Topic:**[Request-based chat - Start and import chat as guest user from classic view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/start-import-req-based-chat-as-guest.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

@@ -14,7 +14,7 @@ breadcrumb: [Displaying function results, Work with database views, Table admin,
 
 # Create a function field to perform a database function
 
-Create a [[platform-support-functions|function field]] that displays the [[hs-results|results]] of a database function, such as a mathematical operation, field length computation, or day of the week calculation.
+Create a function field that displays the results of a database function, such as a mathematical operation, field length computation, or day of the week calculation.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ You can either select a function field from a physical table or create a functio
 
 If you create a function field directly on the database view, you must use the variable prefixes from the database view in the function definition to identify the columns. Before you create the function field, take note of the variable prefixes in your database view.
 
-For example, if the variable prefix for the Incidents table is `inc2` and you want to return the length of the description field, the function definition would be `glidefunction:length(inc2_description)`. If the variable prefix for the [[c_MetricInstance|Metric Instance]] table is `mi` and you want to concatenate the Definition and Value fields, the function definition would be `glidefunction:concat(mi_definition.name,' ',mi_value)`.
+For example, if the variable prefix for the Incidents table is `inc2` and you want to return the length of the description field, the function definition would be `glidefunction:length(inc2_description)`. If the variable prefix for the Metric Instance table is `mi` and you want to concatenate the Definition and Value fields, the function definition would be `glidefunction:concat(mi_definition.name,' ',mi_value)`.
 
 For information on supported functions, see [Report on function fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/function-fields-reporting.md).
 
@@ -100,7 +100,7 @@ Function definition
 
 </td><td>
 
-The function that the field performs.The format for functions starts with `glidefunction:`, followed by the operation to be performed \(for example, `concat`\), followed by function [[r_DirectJDBCProbeParameters|parameters]]. Constants must be enclosed in single quotes.
+The function that the field performs.The format for functions starts with `glidefunction:`, followed by the operation to be performed \(for example, `concat`\), followed by function parameters. Constants must be enclosed in single quotes.
 
  **Important:** If you create the function field on a database view and not a physical table, you must include the database view's variable prefixes in the **Function definition** field.
 
@@ -122,9 +122,3 @@ The variable prefix `inc` is included because the function field is defined on t
 
 **Parent Topic:**[Displaying function results in a database view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/displaying-function-results-in-a-database-view.md)
 
-## Related
-
-- [[platform-support-functions|Function field]]
-- [[hs-results|Results]]
-- [[c_MetricInstance|Metric instance]]
-- [[r_DirectJDBCProbeParameters|Parameters]]

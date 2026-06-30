@@ -26,27 +26,18 @@ The following image styles are available for editing:
 -   Tile icons
 -   Icons
 
--   **[[banners-in-tb|Banner illustrations in Theme Builder]]**  
+-   **[Banner illustrations in Theme Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/banners-in-tb.md)**  
 Banner illustrations are used to increase user engagement or announce overall product experiences.
--   **[[card-illustrations-tb|Card illustrations in Theme Builder]]**  
+-   **[Card illustrations in Theme Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/card-illustrations-tb.md)**  
 Card illustrations are used to improve the clarity or scannability of a feature.
--   **[[modals-in-tb|Modal illustrations in Theme Builder]]**  
+-   **[Modal illustrations in Theme Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/modals-in-tb.md)**  
 Modal illustrations accompany user guidance or support messaging about added features.
--   **[[empty-state-illustrations|Empty state illustrations in Theme Builder]]**  
+-   **[Empty state illustrations in Theme Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/empty-state-illustrations.md)**  
 Empty state illustrations in Theme Builder provide visually engaging placeholders for situations when content is missing.
--   **[[tile-icons-in-tb|Tile icon illustrations in Theme Builder]]**  
+-   **[Tile icon illustrations in Theme Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tile-icons-in-tb.md)**  
 Tile icon illustrations are used to communicate a tile’s purpose using visual metaphors.
--   **[[tb-icon-illustrations|Icon illustrations in Theme Builder]]**  
+-   **[Icon illustrations in Theme Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tb-icon-illustrations.md)**  
 Icons are used to visually represent actions and concepts through simple, themed graphics.
 
-**Parent Topic:**[[tb-edit-theme|Manage or edit a theme with Theme Builder]]
+**Parent Topic:**[Manage or edit a theme with Theme Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tb-edit-theme.md)
 
-## Related
-
-- [[banners-in-tb|Banner illustrations in Theme Builder]]
-- [[card-illustrations-tb|Card illustrations in Theme Builder]]
-- [[modals-in-tb|Modal illustrations in Theme Builder]]
-- [[empty-state-illustrations|Empty state illustrations in Theme Builder]]
-- [[tile-icons-in-tb|Tile icon illustrations in Theme Builder]]
-- [[tb-icon-illustrations|Icon illustrations in Theme Builder]]
-- [[tb-edit-theme|Manage or edit a theme with Theme Builder]]

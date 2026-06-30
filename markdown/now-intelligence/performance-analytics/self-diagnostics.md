@@ -20,7 +20,7 @@ Each diagnostic consists of a script or database query with a severity code, mes
 
 You can run one or all diagnostics against all applicable records, or you can run all applicable diagnostics against one record.
 
-**Warning:** Performance Analytics diagnostics do not apply to [[c_performanceAnalyticsAndReporting|Platform Analytics]] artifacts. For example, an indicator that is not used in any [[widgets|widgets]] might still be used in a Platform Analytics data visualization, but the diagnostics are not able to recognize that use.
+**Warning:** Performance Analytics diagnostics do not apply to Platform Analytics artifacts. For example, an indicator that is not used in any widgets might still be used in a Platform Analytics data visualization, but the diagnostics are not able to recognize that use.
 
 **Parent Topic:**[Configure Performance Analytics advanced features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_PADataArchitecture.md)
 
@@ -61,7 +61,7 @@ Role required: sn\_pa\_diagnostics.pa\_diagnostic
 
 ### Procedure
 
-1.  Navigate to **Platform Analytics Administration** and open a list of any components: indicators, [[c_IndicatorSources|indicator sources]], breakdowns, [[breakdown-sources|breakdown sources]], or others.
+1.  Navigate to **Platform Analytics Administration** and open a list of any components: indicators, indicator sources, breakdowns, breakdown sources, or others.
 
 2.  Locate and open the record of interest.
 
@@ -76,9 +76,3 @@ Role required: sn\_pa\_diagnostics.pa\_diagnostic
 
 If a diagnostic returns a warning or error, review the provided solution and take steps to resolve the issue.
 
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[widgets|Widgets]]
-- [[c_IndicatorSources|Indicator sources]]
-- [[breakdown-sources|Breakdown sources]]

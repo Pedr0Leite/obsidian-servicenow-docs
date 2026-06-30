@@ -14,17 +14,11 @@ breadcrumb: [Device actions, Configure, Digital End-user Experience Self-service
 
 # Device action access and approval control
 
-Approval-based access helps control how sensitive [[device-actions|device actions]] are triggered and supports authorized use of actions that impact device performance or system behavior.
+Approval-based access helps control how sensitive device actions are triggered and supports authorized use of actions that impact device performance or system behavior.
 
-Device actions that terminate processes, uninstall [[dex-workspace-application-tab|applications]], or use significant system resources can impact device performance or system behavior. To limit unintended use, such resolutions can be configured as catalog items to add an approval step. Routing these actions through an approval step helps prevent users from triggering sensitive actions without authorization and creates an approval record alongside execution details. For information on configuring a [[remedial-action|remedial action]] as a catalog item, see [Create a remedial action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/create-remedial-action.md).
+Device actions that terminate processes, uninstall applications, or use significant system resources can impact device performance or system behavior. To limit unintended use, such resolutions can be configured as catalog items to add an approval step. Routing these actions through an approval step helps prevent users from triggering sensitive actions without authorization and creates an approval record alongside execution details. For information on configuring a remedial action as a catalog item, see [Create a remedial action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/create-remedial-action.md).
 
 **Note:** Device actions are limited to once a calendar day for each device.
 
-Device actions run using the Agent Client Collector \(ACC\) service account configured on the device — `_servicenow` on macOS and the configured service account on Windows. End users can't perform actions beyond the permissions granted to this account. The service account is configured at agent installation and can't be modified through device action [[settings-mobile|settings]].
+Device actions run using the Agent Client Collector \(ACC\) service account configured on the device — `_servicenow` on macOS and the configured service account on Windows. End users can't perform actions beyond the permissions granted to this account. The service account is configured at agent installation and can't be modified through device action settings.
 
-## Related
-
-- [[device-actions|Device actions]]
-- [[dex-workspace-application-tab|Applications]]
-- [[remedial-action|Remedial action]]
-- [[settings-mobile|Settings]]

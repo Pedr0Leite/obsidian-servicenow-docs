@@ -24,7 +24,7 @@ If the computer is already a member of a domain, this activity completes without
 
 |Variables|Description|
 |---------|-----------|
-|Hostname|Hostname or [[ip-address|IP address]] of the Windows server that is joining the domain.|
+|Hostname|Hostname or IP address of the Windows server that is joining the domain.|
 |Domain|Name of the domain to join.|
 |Domain\_user|The name of a user who has domain administration privileges or privileges to join a computer to the domain.|
 |Domain\_user\_password|The password for the user who has domain administration privileges or privileges to join a computer to the domain.|
@@ -45,6 +45,3 @@ If the computer is already a member of a domain, this activity completes without
 
 **Parent Topic:**[PowerShell activity pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchestrPwrshellActivityPack.md)
 
-## Related
-
-- [[ip-address|IP Address]]

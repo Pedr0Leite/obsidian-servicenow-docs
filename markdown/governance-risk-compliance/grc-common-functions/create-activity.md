@@ -18,7 +18,7 @@ Create a cybersecurity activity for a target.
 
 ## Before you begin
 
-[[r_PolicyComplianceMgmt|Policy and Compliance Management]] Role required: admin
+Policy and Compliance Management Role required: admin
 
 NIST CSF Role required: sn\_irm\_nist\_csf.risk\_executive or sn\_irm\_nist\_csf.security\_officer or sn\_irm\_nist\_csf.control\_provider
 
@@ -88,6 +88,3 @@ Status of the activity, whether it is being performed or a planned activity.
 
 **Parent Topic:**[Align and prioritize cybersecurity activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/align-prioritize-activities.md)
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

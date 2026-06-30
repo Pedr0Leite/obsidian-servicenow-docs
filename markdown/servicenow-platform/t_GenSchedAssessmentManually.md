@@ -20,7 +20,7 @@ Role required: assessment\_admin or admin
 
 ## About this task
 
-Use this option, for example, if you have set a schedule but want to generate [[r_Assessments|assessments]] before the next scheduled run date.
+Use this option, for example, if you have set a schedule but want to generate assessments before the next scheduled run date.
 
 ## Procedure
 
@@ -30,13 +30,8 @@ Use this option, for example, if you have set a schedule but want to generate [[
 
 3.  Click **Generate Assessments** to trigger the scheduled job immediately.
 
-    **Note:** Be careful to click **Generate Assessments**, not **Generate [[c_assessable-records|Assessable Records]]**.
+    **Note:** Be careful to click **Generate Assessments**, not **Generate Assessable Records**.
 
 
-**Parent Topic:**[[c_ScheduledAssessments|Scheduled assessments]]
+**Parent Topic:**[Scheduled assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_ScheduledAssessments.md)
 
-## Related
-
-- [[c_ScheduledAssessments|Scheduled assessments]]
-- [[r_Assessments|Assessments]]
-- [[c_assessable-records|Assessable records]]

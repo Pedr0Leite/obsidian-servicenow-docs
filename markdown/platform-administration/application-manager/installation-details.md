@@ -15,7 +15,7 @@ breadcrumb: [Installing apps, plugins, and products, Application Manager, Admini
 
 # Installation details
 
-When you install or update applications or products, the [[application-manager|Application Manager]] displays installation details for you to review. Use installation details to verify version and dependency details.
+When you install or update applications or products, the Application Manager displays installation details for you to review. Use installation details to verify version and dependency details.
 
 A pop-up window prompting you to review installation details is shown when you install or update an application, plugin, or product. Installation details include the following components:
 
@@ -35,7 +35,7 @@ Version selector
 
 Enables you to choose a licensed application or product version compatible with your instance.
 
- If the latest version isn't available, you might need to procure it from the [[servicenow-store|ServiceNow Store]] to sign updated terms and conditions. If you have already procured the latest version and don't see it as an option in the version selector, you might need to upgrade your instance to a compatible release version.
+ If the latest version isn't available, you might need to procure it from the ServiceNow Store to sign updated terms and conditions. If you have already procured the latest version and don't see it as an option in the version selector, you might need to upgrade your instance to a compatible release version.
 
 </td></tr><tr><td>
 
@@ -65,19 +65,13 @@ Enables you to choose to complete installation now or later. If you choose to in
 
 When installing or updating an application or product, you might have dependencies that need to be procured from the ServiceNow Store.
 
-For more information about procuring applications and products from the ServiceNow Store, see [[getting-apps-trials|Getting apps and trials from the ServiceNow Store]].
+For more information about procuring applications and products from the ServiceNow Store, see [Getting apps and trials from the ServiceNow Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/getting-apps-trials.md).
 
 ## Inactive plugins in dependencies
 
 Some plugins must be activated before they can be installed. Any plugins that must be activated before they can be installed are categorized as inactive plugins in the dependency list. Inactive plugins might not block installation of the plugin, application, or product that requires them, but could result in reduced functionality.
 
-For more information about how to activate plugins, see [[c_ServiceNowPlugins|ServiceNow plugins]].
+For more information about how to activate plugins, see [ServiceNow plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ServiceNowPlugins.md).
 
 **Parent Topic:**[Installing applications, plugins, and products](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/installing-apps-app-manager.md)
 
-## Related
-
-- [[getting-apps-trials|Getting apps and trials from the ServiceNow Store]]
-- [[c_ServiceNowPlugins|ServiceNow plugins]]
-- [[application-manager|Application Manager]]
-- [[servicenow-store|ServiceNow Store]]

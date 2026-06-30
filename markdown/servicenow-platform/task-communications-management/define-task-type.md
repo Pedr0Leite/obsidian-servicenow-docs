@@ -29,7 +29,7 @@ Role required: sn\_comm\_management.comm\_plan\_admin
     |Field|Description|
     |-----|-----------|
     |Name|Unique name of the communication task type.|
-    |Global|Option to determine whether the task type is available for all tables or for a specific table. If the [[check-box|check box]] is not selected, the **Table** field appears where you can select the table the task type appears for.|
+    |Global|Option to determine whether the task type is available for all tables or for a specific table. If the check box is not selected, the **Table** field appears where you can select the table the task type appears for.|
     |Application|Application scope of the task type. The task type is available for all applications or for scoped applications.|
     |Active|Option to define whether the task type is active or not.|
     |Description|Detailed description regarding the type of the task.|
@@ -41,11 +41,7 @@ Role required: sn\_comm\_management.comm\_plan\_admin
 
 ## What to do next
 
-[[create-comm-task-definition|Define a communication task]].
+Define a communication task.
 
 **Parent Topic:**[Working with Task Communications Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/task-communications-management/working-with-tcm.md)
 
-## Related
-
-- [[check-box|Check box]]
-- [[create-comm-task-definition|Define a communication task]]

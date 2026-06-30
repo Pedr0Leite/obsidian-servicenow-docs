@@ -12,65 +12,42 @@ breadcrumb: [Reference, Manufacturing Commercial Operations]
 
 # Quality issue management form
 
-Includes all the forms related to [[mco-quality-issue-management|quality issue management]].
+Includes all the forms related to quality issue management.
 
--   **[[mco-cause-action-plan-form|Cause action plan form]]**  
+-   **[Cause action plan form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-cause-action-plan-form.md)**  
 The Cause action plan form enables you to add the cause action details for a remediation plan.
--   **[[mco-containment-actions-form|Containment action form]]**  
+-   **[Containment action form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-containment-actions-form.md)**  
 The containment action form lets you record details of products with quality issues and helps prevent their sale to new customers.
--   **[[mco-copq-expense-line-form|CoPQ expense line form]]**  
-The CoPQ expense line form enables you to enter the expense line details for [[mco-product-non-conformances|product non-conformance]]..
--   **[[mco-copq-financial-requests-form|CoPQ financial requests form]]**  
+-   **[CoPQ expense line form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-copq-expense-line-form.md)**  
+The CoPQ expense line form enables you to enter the expense line details for product non-conformance..
+-   **[CoPQ financial requests form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-copq-financial-requests-form.md)**  
 CoPQ financial form enables you to enter the financial requests raised for the remediation plan.
--   **[[mco-copq-planned-line-charge-form|CoPQ planned line charge form]]**  
+-   **[CoPQ planned line charge form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-copq-planned-line-charge-form.md)**  
 The CoPQ planned line form enables you to add the required details.
--   **[[mco-corrective-action-form-for-pqi|Corrective action form for PQI]]**  
-The [[mco-corrective-action-form|corrective action form]] enables you to add the details for PQI.
--   **[[mco-correction-actions-form|Correction actions form]]**  
+-   **[Corrective action form for PQI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-corrective-action-form-for-pqi.md)**  
+The corrective action form enables you to add the details for PQI.
+-   **[Correction actions form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-correction-actions-form.md)**  
 The Correction action form enables you to enter the correction action details for the issue.
--   **[[mco-preventive-action-form|Preventive action form]]**  
+-   **[Preventive action form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-preventive-action-form.md)**  
 The preventive action form enables you to add the details for QI.
--   **[[mco-report-a-product-non-conformance|Report a product non-conformance]]**  
+-   **[Report a product non-conformance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-report-a-product-non-conformance.md)**  
 The report a product non-conformance form enables you to add the issue details.
--   **[[mco-product-non-conformance-case-form|Product details form]]**  
+-   **[Product details form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-product-non-conformance-case-form.md)**  
 The Product non-conformance details form enables you to add the case details.
--   **[[mco-product-non-conformance-case-task-form|Product non-conformance case task form]]**  
+-   **[Product non-conformance case task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-product-non-conformance-case-task-form.md)**  
 The Product non-conformance case task form enables you to add the case task details.
--   **[[mco-product-quality-investigation-form|Product quality investigation form]]**  
+-   **[Product quality investigation form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-product-quality-investigation-form.md)**  
 The PQI form enables you to add the investigation details.
--   **[[mco-product-quality-investigation-task-form|Product quality investigation task form]]**  
+-   **[Product quality investigation task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-product-quality-investigation-task-form.md)**  
 Product quality investigation task form enables you to add the investigation case task details.
--   **[[mco-remediation-action-plan-form|Remediation action plan form]]**  
+-   **[Remediation action plan form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-remediation-action-plan-form.md)**  
 The Remediation action plan form enables you to add the remediation details.
--   **[[mco-root-cause-analysis-task-form|Root cause analysis task form]]**  
+-   **[Root cause analysis task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-root-cause-analysis-task-form.md)**  
 Root cause analysis task form enables you to enter the root cause of the product non-conformance.
--   **[[mco-stakeholders-form|Stakeholder form]]**  
+-   **[Stakeholder form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-stakeholders-form.md)**  
 The stakeholders form enables you to add the stakeholder details involved in the issue.
--   **[[work-order-form|Work order form]]**  
+-   **[Work order form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/work-order-form.md)**  
 Create and track field service work orders for on-site correction, containment, or repair activities linked to a QIM record.
 
-**Parent Topic:**[[manufacturing-reference|Reference]]
+**Parent Topic:**[Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/manufacturing-reference.md)
 
-## Related
-
-- [[mco-cause-action-plan-form|Cause action plan form]]
-- [[mco-containment-actions-form|Containment action form]]
-- [[mco-copq-expense-line-form|CoPQ expense line form]]
-- [[mco-copq-financial-requests-form|CoPQ financial requests form]]
-- [[mco-copq-planned-line-charge-form|CoPQ planned line charge form]]
-- [[mco-corrective-action-form-for-pqi|Corrective action form for PQI]]
-- [[mco-correction-actions-form|Correction actions form]]
-- [[mco-preventive-action-form|Preventive action form]]
-- [[mco-report-a-product-non-conformance|Report a product non-conformance]]
-- [[mco-product-non-conformance-case-form|Product details form]]
-- [[mco-product-non-conformance-case-task-form|Product non-conformance case task form]]
-- [[mco-product-quality-investigation-form|Product quality investigation form]]
-- [[mco-product-quality-investigation-task-form|Product quality investigation task form]]
-- [[mco-remediation-action-plan-form|Remediation action plan form]]
-- [[mco-root-cause-analysis-task-form|Root cause analysis task form]]
-- [[mco-stakeholders-form|Stakeholder form]]
-- [[work-order-form|Work order form]]
-- [[manufacturing-reference|Reference]]
-- [[mco-quality-issue-management|Quality issue management]]
-- [[mco-product-non-conformances|Product non-conformance]]
-- [[mco-corrective-action-form|Corrective action form]]

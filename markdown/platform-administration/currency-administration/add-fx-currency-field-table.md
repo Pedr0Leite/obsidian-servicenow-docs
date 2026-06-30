@@ -40,9 +40,9 @@ For example, you create a new custom table, named `transactions`, that stores tr
 
     \[Omitted image "fx-currency-table-field.png"\] Alt text: FX Currency field
 
-5.  As needed, enter other required [[r_DirectJDBCProbeParameters|parameters]].
+5.  As needed, enter other required parameters.
 
-    **Note:** Do not change the **Max length** value for **FX Currency** in [[custom-tables|custom tables]]. **Max length** must be 32 \(default\).
+    **Note:** Do not change the **Max length** value for **FX Currency** in custom tables. **Max length** must be 32 \(default\).
 
 6.  Click **Submit**.
 
@@ -60,7 +60,3 @@ For example, you create a new custom table, named `transactions`, that stores tr
 
 [Update a Currency Instance record]()
 
-## Related
-
-- [[r_DirectJDBCProbeParameters|Parameters]]
-- [[custom-tables|Custom tables]]

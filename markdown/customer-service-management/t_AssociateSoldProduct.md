@@ -12,7 +12,7 @@ breadcrumb: [Using customer data models for B2B2C, Customer management, Use, Cus
 
 # Associate sold products with account consumers
 
-Enable customer service managers to track [[sold-product|sold products]] or services by associating sold products or services with account consumers.
+Enable customer service managers to track sold products or services by associating sold products or services with account consumers.
 
 ## Before you begin
 
@@ -64,6 +64,3 @@ Add a new consumer
 
 The product is associated with the consumer.
 
-## Related
-
-- [[sold-product|Sold products]]

@@ -34,7 +34,7 @@ The playbook guides you through every step of the lifecycle reporting process:
 -   Guided workflow: Step-by-step experience guiding you through various activities and tasks that need to be performed for a comprehensive lifecycle report. Navigate through preparation, content engagement, tool usage, and report finalization via a step-by-step guidance
 -   Aggregation of all available tools and capabilities in an optimized, logical order, ensuring an end-to-end workflow: software lifecycle report, approximated lifecycle, calculated lifecycle with lifecycle averages, custom lifecycle, parent-child relationship, and Content Service.
 -   Creation of success goals and tasks with appropriate owners to track your progress and contribute to a complete lifecycle report.
--   An integral part of the [[sam-workspace|Software Asset Workspace]].
+-   An integral part of the Software Asset Workspace.
 
 ## Accessing the Guided Experience for Lifecycle playbook
 
@@ -42,6 +42,3 @@ You can access the playbook by navigating to **Workspaces** &gt; **Software Asse
 
 **Parent Topic:**[Exploring Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/explore-sam-workspace.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]

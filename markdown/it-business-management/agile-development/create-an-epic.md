@@ -14,7 +14,7 @@ breadcrumb: [Managing your product development using Agile Development 2.0, Agil
 
 # Create an epic in Agile Development 2.0
 
-Define the high-level requirements of the features that you want to develop by creating epics in [[agile-landing-page|Agile Development 2.0]].
+Define the high-level requirements of the features that you want to develop by creating epics in Agile Development 2.0.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Create epics in Agile Development 2.0 and organize them in a hierarchy of parent
 
 ## Procedure
 
-1.  Navigate to **[[agile-development|Agile Development]]** &gt; **Epics**.
+1.  Navigate to **Agile Development** &gt; **Epics**.
 
 2.  Select **New**.
 
@@ -198,7 +198,7 @@ Program mapped to the scrum work enabling top-down hybrid planning.This field is
 
         An epic can have one or more stories, but a story can belong to only one epic at a time.
 
--   You can also associate epics to a project in [[c_ProjectPortfolioSuite|Project Portfolio Management]] from the Epics related list.
+-   You can also associate epics to a project in Project Portfolio Management from the Epics related list.
 
     This related list appears only when the value for the **Execution Type** field is selected as **Agile** and the Agile Development 2.0 plugin is installed.
 
@@ -208,15 +208,9 @@ Epic benefit plans capture the potential benefits accrued by the epic when the e
 -   **[Create a non-monetary benefit plan for an epic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/create-non-monetary-benefit-plan-agile-epic.md)**  
 Epic benefit plans capture the potential non-financial benefits accrued by the epic when the epic is executed. Create a non-monetary benefit plan to specify the estimated benefit in a category spanning one or more fiscal periods.
 -   **[Associate monetary and non-monetary benefit plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/associate-benefit-plans-agile-epic.md)**  
-[[associate-benefit-plans-agile-epic|Associate monetary and non-monetary benefit plans]], so that you can capture the potential benefits \(financial and non-financial\) accrued by the epic for the hybrid benefit plans.
+Associate monetary and non-monetary benefit plans, so that you can capture the potential benefits \(financial and non-financial\) accrued by the epic for the hybrid benefit plans.
 -   **[Generate labor costs for epics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/gen-labor-costs-epics.md)**  
 View the labor cost expenses based on the resource assignments for your epics.
 
 **Parent Topic:**[Managing your product development using Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/using-agile-development-2-0.md)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]
-- [[agile-development|Agile Development]]
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]
-- [[associate-benefit-plans-agile-epic|Associate monetary and non-monetary benefit plans]]

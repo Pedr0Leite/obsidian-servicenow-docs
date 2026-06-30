@@ -14,7 +14,7 @@ breadcrumb: [Standard change catalog, Configure, Change Management, IT Service M
 
 # Modify or retire a standard change template
 
-You can modify and retire standard [[change-templates|change templates]] based on your organization's requirements.
+You can modify and retire standard change templates based on your organization's requirements.
 
 ## Before you begin
 
@@ -28,12 +28,12 @@ Role required: admin, change\_manager, sn\_change\_write or itil
 
 <table id="choicetable_zqg_rlx_5w"><tbody><tr><td id="d118615e73">
 
-**[[modify-standard-change-sow|Modify a standard change template]]**
+**Modify a standard change template**
 
 </td><td>
 
 1.  Click **Modify Template** under **Related Links**.
-2.  Enter your [[migration-utility-modification|modifications]] in the **Modify a Standard Change Template** form.
+2.  Enter your modifications in the **Modify a Standard Change Template** form.
 
 **Note:** You can modify any field in the standard change template, and send for approval. After the modifications are saved and approved, a new version of the standard change template is created. Change requests created from the modified standard change template reflects the modifications made.
 
@@ -52,23 +52,16 @@ Role required: admin, change\_manager, sn\_change\_write or itil
 </table>3.  Perform one of the following actions:
 
     -   Click **Save**. The modifications are saved but not sent for approval.
-    -   Click **Request Approval**. The template is sent for approval to the [[c_ITILChangeManagement|change management]] team.
+    -   Click **Request Approval**. The template is sent for approval to the change management team.
 
 **Parent Topic:**[Standard change catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/c_StandardChangeCatalogPlugin.md)
 
 **Related topics**  
 
 
-[Configure [[c_StandardChangeCatalogPlugin|standard change catalog]] properties]()
+[Configure standard change catalog properties]()
 
 [Create a standard change task template]()
 
 [Attach files to a standard change template]()
 
-## Related
-
-- [[change-templates|Change templates]]
-- [[modify-standard-change-sow|Modify a standard change template]]
-- [[migration-utility-modification|Modifications]]
-- [[c_ITILChangeManagement|Change Management]]
-- [[c_StandardChangeCatalogPlugin|Standard change catalog]]

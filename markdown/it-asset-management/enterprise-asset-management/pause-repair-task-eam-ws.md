@@ -14,7 +14,7 @@ breadcrumb: [Record time worked on asset repair tasks in the Enterprise Asset Wo
 
 # Pause a repair task in the Enterprise Asset Workspace
 
-Record a break from a repair task in the [[using-eam-workspace|Enterprise Asset Workspace]] if you’re not continuing to work on it. Resume the task when you start working on it again. The system automatically tracks and calculates the actual time taken to complete the task even though the work was interrupted.
+Record a break from a repair task in the Enterprise Asset Workspace if you’re not continuing to work on it. Resume the task when you start working on it again. The system automatically tracks and calculates the actual time taken to complete the task even though the work was interrupted.
 
 ## Before you begin
 
@@ -31,7 +31,7 @@ Role required: enterprise\_asset\_technician
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Inventory**.
+1.  Navigate to **Workspaces** &gt; **Hardware Asset Workspace** &gt; **Inventory**.
 
 2.  Select the **Repair orders** tab.
 
@@ -65,7 +65,3 @@ Each time you pause or resume work on the task, the actual time you worked on th
 
 [Record time worked on a repair task manually in the Enterprise Asset Workspace]()
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[using-ham-workspace|Hardware Asset Workspace]]

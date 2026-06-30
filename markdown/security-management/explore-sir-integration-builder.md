@@ -13,7 +13,7 @@ breadcrumb: [LLM-powered SIR integration builder, Security Operations]
 
 # Explore SIR Integration Builder
 
-SIR Integration Builder offers a guided experience to efficiently [[integrating-threat-intelligence-security-center|integrate]] new [[tools|tools]] by simplifying the workflow and reducing complexity for users.
+SIR Integration Builder offers a guided experience to efficiently integrate new tools by simplifying the workflow and reducing complexity for users.
 
 The ability to integrate tools and platforms into the SOAR platform efficiently is critical for operational resilience. Traditional integration often require weeks or months of manual coding and coordination, leading to delays and increased costs. The integration builder addresses these challenges by streamlining the process and minimizing manual effort.
 
@@ -29,7 +29,7 @@ The benefits of SIR Integration Builder are:
 
 The applications must be installed.
 
--   [[sir-landing-page|Security Incident Response]]
+-   Security Incident Response
 -   Now Assist for Spoke Generation
 -   Now Assist for code generation
 
@@ -42,8 +42,3 @@ The following licenses are required for accessing SIR Integration Builder:
 -   Now Assist for Creator
 -   Security Incident Response Pro Plus
 
-## Related
-
-- [[integrating-threat-intelligence-security-center|Integrate]]
-- [[tools|Tools]]
-- [[sir-landing-page|Security Incident Response]]

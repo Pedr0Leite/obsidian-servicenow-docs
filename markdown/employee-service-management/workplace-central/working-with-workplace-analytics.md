@@ -14,7 +14,7 @@ breadcrumb: [Use, Workplace Central, Workplace Service Delivery, Employee Servic
 
 # Working with Workplace Analytics
 
-As a workplace manager or administrator, use the [[workplace-analytics|Workplace Analytics]] dashboard to access key metrics for [[space-optimization|space optimization]], maintenance management, lease administration, and Occupancy Insights to help you make effective decisions.
+As a workplace manager or administrator, use the Workplace Analytics dashboard to access key metrics for space optimization, maintenance management, lease administration, and Occupancy Insights to help you make effective decisions.
 
 Ensure that you have the required set of permissions to view the dashboards.
 
@@ -27,7 +27,7 @@ Use the Lease Administration dashboard to get insight into the number of total c
 -   **[View Maintenance Management metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/view-maintenence-mgmt-analytics.md)**  
 Use the Maintenance Management dashboard to get an insight into maintenance cases, their trends, and maintenance plan compliance. These insights enable you to create an efficient maintenance plan to improve workflows and reduce maintenance activities and their related costs.
 -   **[Manage Workplace Dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/workplace-dashboards-wsd-central.md)**  
-[[workplace-dashboards-wsd-central|Manage Workplace Dashboards]] in [[workplace-central-feat|Workplace Central]] to get insights and metrics of Reservations, Visitors, Workplace Manager activities, Workplace Cases, and Synchronizations.
+Manage Workplace Dashboards in Workplace Central to get insights and metrics of Reservations, Visitors, Workplace Manager activities, Workplace Cases, and Synchronizations.
 
 **Parent Topic:**[Use Workplace Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/use-workplace-central.md)
 
@@ -50,9 +50,3 @@ Use the Maintenance Management dashboard to get an insight into maintenance case
 
 [Working with Kiosk Indoor Mapping]()
 
-## Related
-
-- [[workplace-analytics|Workplace Analytics]]
-- [[space-optimization|Space Optimization]]
-- [[workplace-dashboards-wsd-central|Manage Workplace Dashboards]]
-- [[workplace-central-feat|Workplace Central]]

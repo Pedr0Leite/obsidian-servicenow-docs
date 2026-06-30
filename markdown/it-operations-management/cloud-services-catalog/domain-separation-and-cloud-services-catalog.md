@@ -14,7 +14,7 @@ breadcrumb: [CSC references, Cloud Services Catalog, ITOM Cloud Accelerate, IT O
 
 # Domain separation and Cloud Services Catalog
 
-Domain separation is supported in [[csc-home|Cloud Services Catalog]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported in Cloud Services Catalog. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic
 
@@ -46,14 +46,14 @@ Domain separation recommendations in Cloud Services Catalog:
 
 -   **MID Server in global domain**
 
-    Set the MID server in the global domain as TFO and related config management is also set in the global context. This enables accurate global [[r-discovery|discovery]].
+    Set the MID server in the global domain as TFO and related config management is also set in the global context. This enables accurate global discovery.
 
     MSP users can set global MID servers and also use domain specific MID for different service providers for Day 1.
 
 
 ## Next steps
 
-For more information on how domain separation works in [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]], visit [Domain separation and Cloud Provisioning and Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/domain-separation-cloud-management.md).
+For more information on how domain separation works in Cloud Provisioning and Governance, visit [Domain separation and Cloud Provisioning and Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/domain-separation-cloud-management.md).
 
 **Parent Topic:**[CSC references](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/csc-reference.md)
 
@@ -62,8 +62,3 @@ For more information on how domain separation works in [[cloud-management-v2-lan
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[csc-home|Cloud Services Catalog]]
-- [[r-discovery|Discovery]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]

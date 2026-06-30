@@ -14,7 +14,7 @@ breadcrumb: [Create a status report in Project Workspace, Managing projects with
 
 # Duplicate a status report in Project Workspace
 
-Save time by duplicating an existing status report to copy all the project details without having to copy the information manually in the [[project-workspace-landing-page|Project Workspace]].
+Save time by duplicating an existing status report to copy all the project details without having to copy the information manually in the Project Workspace.
 
 ## Before you begin
 
@@ -53,6 +53,3 @@ Role required: it\_project\_manager
 
 [Create a status report template in Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/create-a-status-report-template-project-workspace.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]

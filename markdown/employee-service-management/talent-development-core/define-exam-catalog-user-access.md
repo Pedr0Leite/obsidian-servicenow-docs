@@ -22,11 +22,11 @@ Role required: sn\_exam.catalog\_admin
 
 Users configured as part of the admin list, can contribute user criteria or owner of the associated catalog can define user access for the catalog.
 
-[[create-exam|Create an exam]] catalog. For more information, see [Create exam catalogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/create-exam-catalog.md).
+Create an exam catalog. For more information, see [Create exam catalogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/create-exam-catalog.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[exam-engine|Career Assessment]]** &gt; **Exam Catalogs** &gt; **All**.
+1.  Navigate to **All** &gt; **Career Assessment** &gt; **Exam Catalogs** &gt; **All**.
 
 2.  Open the exam catalog that you want to define user access for.
 
@@ -57,7 +57,3 @@ Users configured as part of the admin list, can contribute user criteria or owne
 
 **Parent Topic:**[Create exam catalogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/create-exam-catalog.md)
 
-## Related
-
-- [[create-exam|Create an exam]]
-- [[exam-engine|Career Assessment]]

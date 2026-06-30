@@ -13,7 +13,7 @@ breadcrumb: [Configuring Simplified Change Management, Configuring the fulfiller
 
 # Configure risk for Simplified Change Management
 
-Set up [[c_RskAsmtCalc|risk assessment]] questions, scoring thresholds, and risk levels so that the system can automatically evaluate the risk of a proposed change and route it to the appropriate approval workflow. Configuring risk helps your organization make consistent, data-driven decisions about change requests without requiring ITIL expertise.
+Set up risk assessment questions, scoring thresholds, and risk levels so that the system can automatically evaluate the risk of a proposed change and route it to the appropriate approval workflow. Configuring risk helps your organization make consistent, data-driven decisions about change requests without requiring ITIL expertise.
 
 ## Before you begin
 
@@ -32,11 +32,11 @@ Risk configuration has two main parts:
 
 1.  From the header of your ServiceNow instance, navigate to **All** &gt; **Admin Home**.
 
-2.  From the **Manage your products** section, select **View product overview** for [[r_ITServiceManagement|IT Service Management]].
+2.  From the **Manage your products** section, select **View product overview** for IT Service Management.
 
 3.  On the Product Hub page for IT Service Management, from the Configure your product section, select **Configure**.
 
-4.  On the Configuration Console, from the left navigation panel, select **ITSM fulfiller experience &gt; [[c_ITILChangeManagement|Change Management]] &gt; Risk configuration**. \[Omitted image "simplified-change-risk.png"\] Alt text: Change risk configuration page
+4.  On the Configuration Console, from the left navigation panel, select **ITSM fulfiller experience &gt; Change Management &gt; Risk configuration**. \[Omitted image "simplified-change-risk.png"\] Alt text: Change risk configuration page
 
 5.  Review the existing risk assessment questions in the Risk Assessment Questions table.
 
@@ -88,7 +88,7 @@ Risk configuration has two main parts:
 
 9.  Select **Save** to save all risk configuration changes.
 
-10. When you have finished configuring, select **Mark as configured** to save your [[settings-mobile|settings]] and mark this step as complete.
+10. When you have finished configuring, select **Mark as configured** to save your settings and mark this step as complete.
 
     To revert changes made in the current session before saving, select **Undo**.
 
@@ -99,17 +99,10 @@ Risk configuration has two main parts:
 
 Risk assessment is now configured. When a change requester submits a change request, the system presents the active risk assessment questions, calculates a cumulative score from the responses, and automatically maps the score to a risk level. The change is then routed to the appropriate approval workflow based on that risk level.
 
-**Parent Topic:**[[configuring-change-management-experience-in-it-service-management|Configuring Simplified Change Management]]
+**Parent Topic:**[Configuring Simplified Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/configuring-change-management-experience-in-it-service-management.md)
 
 **Related topics**  
 
 
 [Risk assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/c_RskAsmtCalc.md)
 
-## Related
-
-- [[configuring-change-management-experience-in-it-service-management|Configuring Simplified Change Management]]
-- [[c_RskAsmtCalc|Risk assessment]]
-- [[r_ITServiceManagement|IT Service Management]]
-- [[c_ITILChangeManagement|Change Management]]
-- [[settings-mobile|Settings]]

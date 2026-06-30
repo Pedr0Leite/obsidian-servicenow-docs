@@ -15,7 +15,7 @@ breadcrumb: [Signature workflow for a request, Use, Contract Management Pro for 
 
 # Initiate an offline signature for a contract request
 
-Initiate an offline signature when a contract is signed outside [[cncore-cmpro-landing-page|Contract Management Pro]] and record the signed document in Contract Management Pro.
+Initiate an offline signature when a contract is signed outside Contract Management Pro and record the signed document in Contract Management Pro.
 
 ## Before you begin
 
@@ -50,6 +50,3 @@ To cancel the offline signature process, see [Cancel the signature process](http
 
 **Parent Topic:**[Signature workflow for a request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-lsd-signature-workflow.md)
 
-## Related
-
-- [[cncore-cmpro-landing-page|Contract Management Pro]]

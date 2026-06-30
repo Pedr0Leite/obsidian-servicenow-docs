@@ -14,7 +14,7 @@ breadcrumb: [Major Security Incident Management, Security Incident Response, Ent
 
 # Exploring Major Security Incident Management
 
-[[threat-intelligence-security-center-overview|Explore]] [[major-security-incident-management-landing-page|Major Security Incident Management]] to understand how the application works in terms of tracking high priority critical security incidents, which are identified as a threat to the organization.
+Explore Major Security Incident Management to understand how the application works in terms of tracking high priority critical security incidents, which are identified as a threat to the organization.
 
 Use this section to learn the key features, various roles involved in working with major security incident records. This section also helps you understand on how to get started with the application, prerequisites, and plugins required to work with the application.
 
@@ -29,7 +29,3 @@ Assign roles to ensure that users can perform all necessary actions within the M
 
 **Parent Topic:**[Major Security Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/major-security-incident-management-landing-page.md)
 
-## Related
-
-- [[threat-intelligence-security-center-overview|Explore]]
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]

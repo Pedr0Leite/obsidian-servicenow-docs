@@ -14,7 +14,7 @@ breadcrumb: [General guidelines for Now Assist Skill Kit, Exploring Now Assist S
 
 # Developing the prompt
 
-Use the guidelines to help [[create-prompt-template|create a prompt]] for your skill. A specific, clear, contextual prompt provides better results.
+Use the guidelines to help create a prompt for your skill. A specific, clear, contextual prompt provides better results.
 
 ## Prompt development overview
 
@@ -44,9 +44,5 @@ As a prompt engineer, you should make development decisions by looking at the mo
 ## Other considerations
 
 -   Subtle differences in wording can lead to substantial differences in performance. Trying to reason about how a large language model \(LLM\) may “interpret” the instructions in a prompt only gets you so far. Which specific choice of prompt-wording works best depends on the underlying model and should ideally be chosen based on evidence \(that is, looking at lots of outputs\).
--   In data-constrained settings, you should iteratively develop several candidate [[ai-prompts|prompts]] using the development data, then measure the performance of each candidate prompt on the test set, choosing the best one.
+-   In data-constrained settings, you should iteratively develop several candidate prompts using the development data, then measure the performance of each candidate prompt on the test set, choosing the best one.
 
-## Related
-
-- [[create-prompt-template|Create a prompt]]
-- [[ai-prompts|Prompts]]

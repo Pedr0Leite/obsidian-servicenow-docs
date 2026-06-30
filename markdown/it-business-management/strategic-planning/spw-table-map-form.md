@@ -14,7 +14,7 @@ breadcrumb: [Reference, SPW Jira Integrations, Strategic Planning, Strategic Por
 
 # Table Map form
 
-Learn about the fields of the [[table-map-form-ppw|Table Map form]], which are used while creating a custom table mapping configuration for [[spw-jira-landing|SPW Jira Integrations]].
+Learn about the fields of the Table Map form, which are used while creating a custom table mapping configuration for SPW Jira Integrations.
 
 <table id="table_e33_pl4_nhc"><thead><tr><th>
 
@@ -30,7 +30,7 @@ Internal Table
 
 </td><td>
 
-Table name in [[alignment-planner-workspace-landing-page|Strategic Planning]].Internal Table must be set to Planning Item \[sn\_align\_core\_planning\_item\] or one of its child tables.
+Table name in Strategic Planning.Internal Table must be set to Planning Item \[sn\_align\_core\_planning\_item\] or one of its child tables.
 
 </td></tr><tr><td>
 
@@ -72,8 +72,3 @@ Select **Strategic Planning Workspace**.
 
 [Create custom table mapping for SPW Jira integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/custom-mapping-configuration-spw-jira.md)
 
-## Related
-
-- [[table-map-form-ppw|Table map form]]
-- [[spw-jira-landing|SPW Jira Integrations]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

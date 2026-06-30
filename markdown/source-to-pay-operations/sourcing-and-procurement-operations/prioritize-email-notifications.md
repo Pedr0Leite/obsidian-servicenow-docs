@@ -14,7 +14,7 @@ breadcrumb: [Using Shopping Hub, Use, Sourcing and Procurement Operations, Finan
 
 # Prioritize Shopping Hub email notifications
 
-To ensure that your customers receive the focused [[shopping-hub-overview|Shopping Hub]] email notifications, over the global notifications that are sent by default from the platform team, you can manually add a condition to suppress them.
+To ensure that your customers receive the focused Shopping Hub email notifications, over the global notifications that are sent by default from the platform team, you can manually add a condition to suppress them.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **System Notification** &gt; **Notifications**.
 
-2.  Search for and open the **[[activity-stream|Activity Stream]] @Mention Email** record.
+2.  Search for and open the **Activity Stream @Mention Email** record.
 
 3.  Select the hyperlink on the information message to edit it.
 
@@ -37,7 +37,3 @@ Role required: admin
 
 **Parent Topic:**[Using Shopping Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/use-shoppinghub-portal.md)
 
-## Related
-
-- [[shopping-hub-overview|Shopping Hub]]
-- [[activity-stream|Activity stream]]

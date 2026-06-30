@@ -14,7 +14,7 @@ breadcrumb: [ACL Assessment for Reports, Administering reports, Reporting, Repor
 
 # Report assessment and domain separation
 
-In domain separated instances, the [[report-view-acl-dashboard|ACL Assessment for Reports]] has certain limitations.
+In domain separated instances, the ACL Assessment for Reports has certain limitations.
 
 ## Domain separation property
 
@@ -30,6 +30,3 @@ The assessment runs as a normal query when this property is set to true on a sin
 
 **Parent Topic:**[ACL Assessment for Reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-view-acl-dashboard.md)
 
-## Related
-
-- [[report-view-acl-dashboard|ACL Assessment for Reports]]

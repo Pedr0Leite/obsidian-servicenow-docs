@@ -22,7 +22,7 @@ Role required: sn\_hr\_sp.esc\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Employee Center**.
 
 2.  In any record details page, press the control button and simultaneously select and hold \(or right-click\) to get the menu options.
 
@@ -39,6 +39,3 @@ The workflow feedback widget is customized according to your preference.
 
 **Parent Topic:**[Integrated service and experience feedback management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ex-fdbck-manage.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

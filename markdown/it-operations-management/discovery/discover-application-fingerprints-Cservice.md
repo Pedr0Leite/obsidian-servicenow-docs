@@ -15,11 +15,11 @@ breadcrumb: [Discover applications based on fingerprints, Running discoveries in
 
 # Discover applications using application fingerprints or ITOM Content Service
 
-Discover applications using suggestions based on ServiceNow Predictive Intelligence or ServiceNow [[discovery-content-services|ITOM Content Service]] to create configuration items.
+Discover applications using suggestions based on ServiceNow Predictive Intelligence or ServiceNow ITOM Content Service to create configuration items.
 
 ## Before you begin
 
-Role required: [[r-discovery|discovery]]\_admin
+Role required: discovery\_admin
 
 ## About this task
 
@@ -30,7 +30,7 @@ Review application suggestions based on application fingerprints or ITOM Content
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[discovery-admin-workspace|Discovery Admin Workspace]]** &gt; **Content 360**.
+1.  Navigate to **Workspaces** &gt; **Discovery Admin Workspace** &gt; **Content 360**.
 
 2.  Select an application suggestion to add to discovery based on either application fingerprints or ITOM Content Service.
 
@@ -87,9 +87,3 @@ For information about the form fields, see [Application fingerprint suggestion f
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[discovery-content-services|ITOM Content Service]]
-- [[r-discovery|Discovery]]
-- [[discovery-admin-workspace|Discovery Admin Workspace]]

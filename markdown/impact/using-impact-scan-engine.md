@@ -30,7 +30,7 @@ Application scans
 
 </td><td>
 
-Scan in-development applications to identify definition findings before publishing to the application repository. Application scans give insight into health scores, the number of findings, and the total [[impact-landing-page|impact]] of findings within your custom applications. **Note:** View application health scores in the Application Health dashboard by navigating to **ALL &gt; Impact &gt; [[platform-health-idi|Platform Health]] &gt; Application Health**. Health scores are calculated based on finding severity, count, and policy impact.
+Scan in-development applications to identify definition findings before publishing to the application repository. Application scans give insight into health scores, the number of findings, and the total impact of findings within your custom applications. **Note:** View application health scores in the Application Health dashboard by navigating to **ALL &gt; Impact &gt; Platform Health &gt; Application Health**. Health scores are calculated based on finding severity, count, and policy impact.
 
 </td></tr><tr><td>
 
@@ -63,36 +63,23 @@ Scan your ServiceNow instance for findings. These scans return the findings and 
 
 Scans are initiated in different ways. They run using the Scan Engine properties you configured.
 
-For more information, see [[configure-scan-engine-properties|Configure Scan Engine properties]] and [[additional-scan-engine-properties|Configure definition properties]].
+For more information, see [Configure Scan Engine properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configure-scan-engine-properties.md) and [Configure definition properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/additional-scan-engine-properties.md).
 
--   **[[initiating-on-demand-scans-scan-engine|Initiate application scans]]**  
+-   **[Initiate application scans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/initiating-on-demand-scans-scan-engine.md)**  
 Scan applications to identify definition findings before publishing to the application repository. Application scans give insight into health scores, the number of findings, and the total impact of findings within your custom applications. 
--   **[[initiate-update-set-scans|Initiate update set scans]]**  
+-   **[Initiate update set scans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/initiate-update-set-scans.md)**  
 You can scan open update sets for findings to get insights into what you are importing and exporting across your environments. 
--   **[[initiate-instance-scans|Initiate instance scans]]**  
+-   **[Initiate instance scans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/initiate-instance-scans.md)**  
 You can scan your ServiceNow instance for findings.
--   **[[initiate-limited-def-scans|Initiate limited definition scans]]**  
+-   **[Initiate limited definition scans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/initiate-limited-def-scans.md)**  
 You can scan individual definitions or suites of definitions on-demand.
 
-**Parent Topic:**[[run-scan-engine|Run your first scan with the Scan Engine]]
+**Parent Topic:**[Run your first scan with the Scan Engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/run-scan-engine.md)
 
 **Related topics**  
 
 
-[[scan-engine-parallel-processing|Full and delta instance scans]]
+[Full and delta instance scans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/scan-engine-parallel-processing.md)
 
-[[initiate-manage-scan-engine|Initiate and manage scans]]
+[Initiate and manage scans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/initiate-manage-scan-engine.md)
 
-## Related
-
-- [[configure-scan-engine-properties|Configure Scan Engine properties]]
-- [[additional-scan-engine-properties|Configure definition properties]]
-- [[initiating-on-demand-scans-scan-engine|Initiate application scans]]
-- [[initiate-update-set-scans|Initiate update set scans]]
-- [[initiate-instance-scans|Initiate instance scans]]
-- [[initiate-limited-def-scans|Initiate limited definition scans]]
-- [[run-scan-engine|Run your first scan with the Scan Engine]]
-- [[scan-engine-parallel-processing|Full and delta instance scans]]
-- [[initiate-manage-scan-engine|Initiate and manage scans]]
-- [[impact-landing-page|Impact]]
-- [[platform-health-idi|Platform Health]]

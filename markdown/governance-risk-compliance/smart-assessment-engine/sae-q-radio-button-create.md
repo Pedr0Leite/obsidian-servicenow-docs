@@ -14,7 +14,7 @@ breadcrumb: [Add instructions and questions to an assessment template, Create an
 
 # Create a radio button question
 
-Enable the assessors to respond to a radio button question by making a selection from a limited list of options. Only one selection is allowed for this question type. Specify any of several attributes to qualify the question, for example, whether a response is required or an attachment is requested as part of your assessment template by using the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] application.
+Enable the assessors to respond to a radio button question by making a selection from a limited list of options. Only one selection is allowed for this question type. Specify any of several attributes to qualify the question, for example, whether a response is required or an attachment is requested as part of your assessment template by using the Smart Assessment Engine application.
 
 ## Before you begin
 
@@ -55,7 +55,7 @@ Description
 
 </td><td>
 
-If the assessor must answer the question to [[submit-an-importance-and-impact-tolerance-assessment-in-ws|submit the assessment]], select **Required**. The assessor sees the \* \(asterisk\) character to indicate that a response is required.
+If the assessor must answer the question to submit the assessment, select **Required**. The assessor sees the \* \(asterisk\) character to indicate that a response is required.
 
 </td></tr><tr><td id="d333293e187">
 
@@ -137,7 +137,4 @@ Enter the content that explains how best to answer the question. Add the formatt
 </td></tr></tbody>
 </table>7.  Select **Save**.
 
-## Related
 
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]
-- [[submit-an-importance-and-impact-tolerance-assessment-in-ws|Submit the assessment]]

@@ -18,11 +18,11 @@ Retrain your machine learning models or edit what they predict to better align w
 
 -   **Edit a model to predict incident fields**
 
-    Edit the incident prediction model that has already been trained and deployed. Change the model [[exploring-ai-governance|configurations]], view the updated training results, and redeploy the model.
+    Edit the incident prediction model that has already been trained and deployed. Change the model configurations, view the updated training results, and redeploy the model.
 
 -   **Create and edit a case field prediction model**
 
-    Create, train, and edit a model to predict fields for customer service [[cases|cases]].
+    Create, train, and edit a model to predict fields for customer service cases.
 
 -   ****
 
@@ -32,7 +32,4 @@ Retrain your machine learning models or edit what they predict to better align w
 
     Edit and test the pre-trained model to detect the language used to create customer service cases.
 
-## Related
 
-- [[exploring-ai-governance|Configurations]]
-- [[cases|Cases]]

@@ -16,7 +16,7 @@ Define a source specification in a compatibility rule so that you can create a h
 
 ## Before you begin
 
-Ensure that you have created a compatibility rule. To learn more, see [[create-compatibility-rules|Create a compatibility rule]].
+Ensure that you have created a compatibility rule. To learn more, see [Create a compatibility rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/create-compatibility-rules.md).
 
 Role required: sn\_prd\_pm.product-catalog\_manager, sn\_prd\_pm\_adv.catalog\_creator
 
@@ -74,6 +74,3 @@ Characteristic option to define the source specification in the compatibility ru
 
 .
 
-## Related
-
-- [[create-compatibility-rules|Create a compatibility rule]]

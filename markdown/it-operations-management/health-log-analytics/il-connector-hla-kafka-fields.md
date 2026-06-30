@@ -15,7 +15,7 @@ breadcrumb: [Integration configuration fields, Health Log Analytics reference, H
 
 # Apache Kafka integration configuration fields
 
-Description of the fields on the Apache Kafka integration configuration forms for [[hla-landing-page|Health Log Analytics]].
+Description of the fields on the Apache Kafka integration configuration forms for Health Log Analytics.
 
 For the Apache Kafka integration setup procedure, see [Set up an Apache Kafka integration for Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/il-connector-hla-kafka.md).
 
@@ -204,7 +204,7 @@ UTF-8
 
 </td></tr><tr><td>
 
-Node [[r-discovery|discovery]] timeout
+Node discovery timeout
 
 </td><td>
 
@@ -253,7 +253,3 @@ False
 </td></tr></tbody>
 </table>**Parent Topic:**[Integration configuration fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]
-- [[r-discovery|Discovery]]

@@ -178,7 +178,7 @@ Use the generative AI capabilities of Now Assist to create tasks from the contex
 \[Omitted image "cwm-task-generation-now-assist.png"\] Alt text: Automatic task generation from CWM Docs using Now Assist for CWM.
 
 -   **[Create a Doc in CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/create-a-doc-in-cwm.md)**  
-Store information related to your tasks, reference users and task records, and collaborate in real-time using Docs in [[cwm-landing|Collaborative Work Management]] workspace.
+Store information related to your tasks, reference users and task records, and collaborate in real-time using Docs in Collaborative Work Management workspace.
 -   **[Manage pages and subpages in CWM Docs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/manage-pages-and-subpages-in-cwm-docs.md)**  
 Flexibly organize information for your teams and work items by creating, duplicating, and deleting pages and subpages within a Doc in Collaborative Work Management \(CWM\) workspace.
 -   **[Summarize and refine content of a Doc page in Collaborative Work Management \(CWM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/summarize-doc-now-assist-cwm.md)**  
@@ -200,6 +200,3 @@ Use the Docs offline, and share with teams or stakeholders outside Collaborative
 
 **Parent Topic:**[Using Collaborative Work Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/using-collaborative-work-management.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

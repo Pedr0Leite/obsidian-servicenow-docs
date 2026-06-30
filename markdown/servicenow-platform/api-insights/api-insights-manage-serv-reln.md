@@ -46,7 +46,7 @@ Role required: sn\_cmdb\_admin, sn\_api\_insights\_ws.api\_mgmt\_architect\_admi
 
 ### Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[api-insights|API Insights]]**.
+1.  Navigate to **Workspaces** &gt; **API Insights**.
 
 2.  Select the **APIs** tab.
 
@@ -100,11 +100,8 @@ Role required: sn\_cmdb\_admin or sn\_api\_insights\_ws.api\_mgmt\_architect\_ad
 
 4.  In the Relationship map section, select **Manage service relationships**.
 
-5.  On the Related application services table, select the [[check-box|check box]] for an existing relationship.
+5.  On the Related application services table, select the check box for an existing relationship.
 
 6.  Select **Remove relationships**.
 
-## Related
 
-- [[api-insights|API Insights]]
-- [[check-box|Check box]]

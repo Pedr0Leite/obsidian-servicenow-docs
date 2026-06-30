@@ -20,12 +20,9 @@ This impact is reflected in the timings that are taken into consideration while 
 
 **Note:** If a schedule is not selected for an SLA, the SLA will run 24X7.
 
-Consider a scenario where you select a duration of one day, which is 24 hours, and a schedule of 9 am to 5 pm, which is 8 hours. The [[r_SLAAutomation|SLA calculation]] will distribute the 24 hours across three working days of 8 hours each. So a team working on a task associated with this SLA has 3 days to complete the task before the SLA is breached.
+Consider a scenario where you select a duration of one day, which is 24 hours, and a schedule of 9 am to 5 pm, which is 8 hours. The SLA calculation will distribute the 24 hours across three working days of 8 hours each. So a team working on a task associated with this SLA has 3 days to complete the task before the SLA is breached.
 
 \[Omitted image "SLM\_SchDur.png"\] Alt text: Time distribution
 
 **Parent Topic:**[Service Level Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/service-level-management-reference.md)
 
-## Related
-
-- [[r_SLAAutomation|SLA calculation]]

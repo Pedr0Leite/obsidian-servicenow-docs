@@ -14,7 +14,7 @@ breadcrumb: [GRC: Policy and Compliance integrator, Policy and Compliance Manage
 
 # Content integration batch table
 
-You can access the batch records in the content integration batch table that is displayed in the GRC: Policy and Compliance integrator application UI. By accessing these records, you can import the data into the [[r_PolicyComplianceMgmt|Policy and Compliance Management]] application.
+You can access the batch records in the content integration batch table that is displayed in the GRC: Policy and Compliance integrator application UI. By accessing these records, you can import the data into the Policy and Compliance Management application.
 
 ## Overview of the content integration batch table
 
@@ -86,6 +86,3 @@ The Update batch status to ready API and the Compliance staging processor flow p
 
 The library import task is used to import the staging records in the Policy and Compliance Management tables. The library import task and staging recommendations for each record are displayed for the content integration batch table in the GRC: Policy and Compliance integrator module. A user with the sn\_compliance.admin role can assign the library import task to the compliance managers assignment group. To learn how to assign a library import task, see [Assign a library import task for compliance approval](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/assign-lib-import-task.md).
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

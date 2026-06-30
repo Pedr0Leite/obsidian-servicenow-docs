@@ -16,7 +16,7 @@ breadcrumb: [Integration Commons for CMDB, Integrating third-party data into CMD
 
 You can configure the Application Dependency Mapping \(ADM\) adapter to populate running processes, TCP connections, and applications into CMDB.
 
-As a user with the admin role, you can use the **ADMHelper** script include to configure the ADM adapter that populates running processes, TCP connections, and applications into CMDB. The **ADMHelper** script include is available within the [[integration-commons-for-cmdb|Integration Commons for CMDB]] \(sn\_cmdb\_int\_util\) store app. The **ADMHelper** script include invokes the **ApplicationDependencyMapping** script include that is available within the Discovery and Service Mapping Patterns application \(sn\_itom\_pattern\).
+As a user with the admin role, you can use the **ADMHelper** script include to configure the ADM adapter that populates running processes, TCP connections, and applications into CMDB. The **ADMHelper** script include is available within the Integration Commons for CMDB \(sn\_cmdb\_int\_util\) store app. The **ADMHelper** script include invokes the **ApplicationDependencyMapping** script include that is available within the Discovery and Service Mapping Patterns application \(sn\_itom\_pattern\).
 
 The ADM adapter requires the inputs as discussed in the following table:
 
@@ -74,9 +74,5 @@ Running process
 -   Running Process \[cmdb\_running\_process\]
 -   Application \[cmdb\_ci\_appl\]
 
-**Note:** After the data is populated into the TCP Connections \[cmdb\_tcp\] and Running Process \[cmdb\_running\_process\] tables, the **ApplicationDependencyMapping** script include reconciles the TCP connections and running process data for populating the Application \[cmdb\_ci\_appl\] table based on the data in the Network Adapter \[cmdb\_ci\_network\_adapter\] and [[ip-address|IP Address]] \[cmdb\_ci\_ip\_address\] tables. Classified processes are added to the corresponding child class in the Application \[cmdb\_ci\_appl\] table. The addition of unclassified processes to the Application \[cmdb\_ci\_appl\] table depends on the system property value.
+**Note:** After the data is populated into the TCP Connections \[cmdb\_tcp\] and Running Process \[cmdb\_running\_process\] tables, the **ApplicationDependencyMapping** script include reconciles the TCP connections and running process data for populating the Application \[cmdb\_ci\_appl\] table based on the data in the Network Adapter \[cmdb\_ci\_network\_adapter\] and IP Address \[cmdb\_ci\_ip\_address\] tables. Classified processes are added to the corresponding child class in the Application \[cmdb\_ci\_appl\] table. The addition of unclassified processes to the Application \[cmdb\_ci\_appl\] table depends on the system property value.
 
-## Related
-
-- [[integration-commons-for-cmdb|Integration Commons for CMDB]]
-- [[ip-address|IP Address]]

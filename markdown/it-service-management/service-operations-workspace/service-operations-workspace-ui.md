@@ -18,7 +18,7 @@ You can navigate through the Service Operations Workspace to get an overview of 
 
 ## Landing page
 
-In Service Operations Workspace, you can access the [[dex-workspace-dashboard-tab|landing page]] by selecting the home icon \(\[Omitted image "sow-home.png"\] Alt text: Home icon\) from the left navigation pane.
+In Service Operations Workspace, you can access the landing page by selecting the home icon \(\[Omitted image "sow-home.png"\] Alt text: Home icon\) from the left navigation pane.
 
 An agent can analyze assignments and view announcements and upcoming tasks. Tier 1 agents can also analyze the performance and view the assigned courses. For information about the landing page, see [Service Operations Workspace for ITSM landing page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/sow-ui-landing-page.md).
 
@@ -64,9 +64,5 @@ In Service Operations Workspace, you can open any task record from the landing p
 
 [Exploring Recommended Actions for ITSM in Service Operations Workspace]()
 
-[Exploring [[c_OnCallScheduling|On-call Scheduling]] in Service Operations Workspace]()
+[Exploring On-call Scheduling in Service Operations Workspace]()
 
-## Related
-
-- [[dex-workspace-dashboard-tab|Landing page]]
-- [[c_OnCallScheduling|On-Call Scheduling]]

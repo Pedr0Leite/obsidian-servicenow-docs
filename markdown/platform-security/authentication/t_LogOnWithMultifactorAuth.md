@@ -22,7 +22,7 @@ You must have MFA enabled for your profile. You can enable it yourself on your u
 
 Role required: none
 
-**Note:** The last used MFA verification factor is automatically shown for the [[users|users]] in the subsequent log in.
+**Note:** The last used MFA verification factor is automatically shown for the users in the subsequent log in.
 
 ## Procedure
 
@@ -32,7 +32,7 @@ Role required: none
 
 3.  Click **Log in**.
 
-    The [[mfa-landing|multi-factor authentication]] screen appears.
+    The multi-factor authentication screen appears.
 
     \[Omitted image "new-mfa.png"\] Alt text: MFA screen
 
@@ -53,7 +53,3 @@ If the recent used factor was Biometric login, then upon login using your userna
 
 \[Omitted image "biometirc-mfa-recent.png"\] Alt text: Used factor screen
 
-## Related
-
-- [[users|Users]]
-- [[mfa-landing|Multi-factor authentication]]

@@ -37,7 +37,7 @@ ServiceNow for Microsoft Outlook leverages the [Outlook Actionable Messages](htt
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Information about lists and forms used to configure Outlook Actionable Messages.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/sn-ms-outlook-[[reference-hr-service-delivery-advanced-integration-with-workday|reference]].md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Information about lists and forms used to configure Outlook Actionable Messages.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/sn-ms-outlook-reference.md)
 
 </td></tr></tbody>
 </table>**Warning:** After Microsoft retired External Access Token \(EAT\) authentication for Outlook Actionable Messages on March 31, 2026, actionable messages that rely on EAT will stop working. To ensure uninterrupted functionality with actionable message, you must migrate to Microsoft Entra ID token authentication and update the Outlook Actionable Messages app registration in your ServiceNow instance. Refer to [Update Outlook Actionable Messages authentication to Microsoft Entra ID](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/update-outlook-actionable-msgs-auth-to-ms-entra-id.md).
@@ -55,6 +55,3 @@ ServiceNow for Microsoft Outlook leverages the [Outlook Actionable Messages](htt
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

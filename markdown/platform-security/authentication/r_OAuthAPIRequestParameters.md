@@ -16,11 +16,11 @@ breadcrumb: [Create an endpoint for clients to access the instance, Old Inbound 
 
 Learn about the OAuth API request parameters that access token requests use.
 
-**Note:** The content-type of the [[oauth-inbound-and-outbound|OAuth]] API should be application/x-www-form-urlencoded. A content-type of application/json results in an unspecified error.
+**Note:** The content-type of the OAuth API should be application/x-www-form-urlencoded. A content-type of application/json results in an unspecified error.
 
 <table id="table_awk_zyv_yq"><thead><tr><th>
 
-[[c_requestAPI|Request]] parameter
+Request parameter
 
 </th><th>
 
@@ -49,7 +49,7 @@ client\_secret
 
 </td><td>
 
-\[Required\] Shared secret string that the instance and the OAuth application use to authorize [[sc-communications|communications]] with one another.
+\[Required\] Shared secret string that the instance and the OAuth application use to authorize communications with one another.
 
 </td></tr><tr><td>
 
@@ -85,7 +85,7 @@ The instance requires clients to provide user login credentials when first autho
 
 The instance verifies that the user is active, not currently locked out, and has an interactive session. If any of these conditions are false, the instance does not produce an access token. Access requests made within the expiration time of the access token always return the current access token.
 
-**Note:** This type of authorization grant relies on TLS [[encryption-landing|encryption]] to protect the user credentials during transmission.
+**Note:** This type of authorization grant relies on TLS encryption to protect the user credentials during transmission.
 
 The following example illustrates requesting an access token with a set of user credentials \(Spaces have been added to improve readability\).
 
@@ -109,9 +109,3 @@ $ curl -d"grant_type=refresh_token&client_id=be3aeb583ace210011c15b24a43e25d8
 https://instancename.service-now.com/oauth_token.do
 ```
 
-## Related
-
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[c_requestAPI|request]]
-- [[sc-communications|Communications]]
-- [[encryption-landing|Encryption]]

@@ -16,7 +16,7 @@ breadcrumb: [HR Service Delivery, Employee Service Management]
 
 The ServiceNow, Inc. Federal plugin provides additional data elements for public sector customers that align with the Human Capital Information Model \(HCIM\). The HCIM is a set of data standards for Federal human capital management developed by the Human Resources Line of Business \(HRLOB\) at the Office of Personnel Management \(OPM\).
 
-This plugin is intended for the use of extending the tables such as [[c_HRProfileRecords|HR Profile]], Location, Position with additional fields and tables relevant to the Federal, State, and Local public sectors.
+This plugin is intended for the use of extending the tables such as HR Profile, Location, Position with additional fields and tables relevant to the Federal, State, and Local public sectors.
 
 ## Key benefits
 
@@ -24,9 +24,9 @@ The following are some key benefits of the Federal plugin:
 
 -   Promotes interoperability by providing data structures that makes data flow seamlessly to and from agencies, or shared service providers.
 -   Provides additional data elements that are commonly used in services agencies provide to the government employees they service.
--   Augments the delivered [[hr-service-delivery|HR Service Delivery]] and ServiceNow AI Platform tables.
+-   Augments the delivered HR Service Delivery and ServiceNow AI Platform tables.
 
-    For example, the default Locations table \(cmn\_locations\) can be configured to include [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] fields from the Duty Station table \(sn\_fedtables\_duty\_station\), or the Duty Location can be added as a field to the HR Profile to display the GeoLoc of the employee’s duty station.
+    For example, the default Locations table \(cmn\_locations\) can be configured to include reference fields from the Duty Station table \(sn\_fedtables\_duty\_station\), or the Duty Location can be added as a field to the HR Profile to display the GeoLoc of the employee’s duty station.
 
 -   Offers prebuilt capability that allows for easier configuration of services and workflows and minimizes customization needs.
 
@@ -55,8 +55,3 @@ The following are some key benefits of the Federal plugin:
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[c_HRProfileRecords|HR Profile]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

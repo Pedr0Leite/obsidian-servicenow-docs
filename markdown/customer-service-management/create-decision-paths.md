@@ -22,7 +22,7 @@ Role required: admin, sn\_gd\_core.decision\_tree\_author
 
 Based on the answer a service agent provides to a question, a decision path guides the agent to the next decision node, a guidance path guides the agent to the next guidance node, and a linking path guides the agent to the next linking node.
 
-You can edit or extend existing decision trees in the Core UI but you can no longer create them. Use Decision Tree Builder to create new decision trees. For more information, see [[decision-trees-in-gdb|Configuring decision trees in Decision Tree Builder]].
+You can edit or extend existing decision trees in the Core UI but you can no longer create them. Use Decision Tree Builder to create new decision trees. For more information, see [Configuring decision trees in Decision Tree Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/decision-trees-in-gdb.md).
 
 ## Procedure
 
@@ -65,13 +65,7 @@ You can edit or extend existing decision trees in the Core UI but you can no lon
 
 Continue building the decision tree.
 
--   [[create-decision-input|Add questions or instructions to a decision input]]
--   [[associate-guidance-path|Provide actions to agents in a decision tree]]
--   [[configure-linking-node|Link another decision tree to this decision tree]]
+-   [Add questions or instructions to a decision input](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-decision-input.md)
+-   [Provide actions to agents in a decision tree](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/associate-guidance-path.md)
+-   [Link another decision tree to this decision tree](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-linking-node.md)
 
-## Related
-
-- [[decision-trees-in-gdb|Configuring decision trees in Decision Tree Builder]]
-- [[create-decision-input|Add questions or instructions to a decision input]]
-- [[associate-guidance-path|Provide actions to agents in a decision tree]]
-- [[configure-linking-node|Link another decision tree to this decision tree]]

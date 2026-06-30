@@ -12,7 +12,7 @@ breadcrumb: [Setting up roles and responsibilities in Care Team Operations for H
 
 # Assign roles to Care Team Operations for Healthcare IT users
 
-Ensure that the correct roles are assigned to users of [[hcls-cto-it-app|Care Team Operations for Healthcare IT]].
+Ensure that the correct roles are assigned to users of Care Team Operations for Healthcare IT.
 
 ## Before you begin
 
@@ -55,9 +55,9 @@ Monitors the tasks within their organizations.
 </td></tr></tbody>
 </table>**Example:**
 
-A user who needs to fulfill incidents created from the [[care-team-portal-landing|Care Team Portal]] using the Care Team Operations for Healthcare IT plugin would need to be assigned the sn\_cto\_hcit.loc\_support\_agent role.
+A user who needs to fulfill incidents created from the Care Team Portal using the Care Team Operations for Healthcare IT plugin would need to be assigned the sn\_cto\_hcit.loc\_support\_agent role.
 
-**Note:** After installing Care Team Operations for Healthcare IT, the sn\_hco.care\_team\_member role installed with [[hcls-cto-app|Healthcare Operations Core]] will contain the sn\_cto\_hcit.loc\_contributor role automatically.
+**Note:** After installing Care Team Operations for Healthcare IT, the sn\_hco.care\_team\_member role installed with Healthcare Operations Core will contain the sn\_cto\_hcit.loc\_contributor role automatically.
 
 ## Procedure
 
@@ -69,8 +69,4 @@ A user who needs to fulfill incidents created from the [[care-team-portal-landin
 
 4.  Select **Save**.
 
-## Related
 
-- [[hcls-cto-it-app|Care Team Operations for Healthcare IT]]
-- [[care-team-portal-landing|Care Team Portal]]
-- [[hcls-cto-app|Healthcare Operations Core]]

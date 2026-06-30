@@ -14,7 +14,7 @@ breadcrumb: [Configure, Personal Data Rights \(PDR\), Privacy Management, Govern
 
 # External-facing Personal Data Rights form configuration
 
-Privacy teams can tailor the external-facing [[personal-data-rights|Personal Data Rights]] \(PDR\) form per jurisdiction and data subject type. This customization allows them to control location specific content, authorized agent submission, and the available request types.
+Privacy teams can tailor the external-facing Personal Data Rights \(PDR\) form per jurisdiction and data subject type. This customization allows them to control location specific content, authorized agent submission, and the available request types.
 
 Privacy laws give data subjects, such as customers and ex-employees, specific rights over their personal data that an organization collects. These can include right to access, correct, delete, or opt out of certain uses. The local laws determine which privacy rights data subjects can exercise, who is allowed to submit a request on their behalf, what disclosures must appear when a request is submitted, and the information the organization can collect at intake to process the request.
 
@@ -29,13 +29,9 @@ Create the parent external form configuration record that anchors all location, 
 -   **[Configure jurisdictions for the external-facing Personal Data Rights form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/config-pdr-location.md)**  
 Configure the jurisdictions, authorized agent option, and per-location URLs for the external-facing Personal Data Rights \(PDR\) form. These settings determine what requesters in each jurisdiction see based on their local privacy rules.
 -   **[Configure the data subject types for a jurisdiction](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/config-pdr-ds-types.md)**  
-Specify which [[data-subjects|data subject types]] the external-facing Personal Data Rights \(PDR\) form offers in each location, so the form presents only the data subject types that local regulation supports.
+Specify which data subject types the external-facing Personal Data Rights \(PDR\) form offers in each location, so the form presents only the data subject types that local regulation supports.
 -   **[Map request types to configured data subjects for a jurisdiction](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/map-request-type-to-ds.md)**  
 Configure the request types available to each data subject type within a jurisdiction. Hide any requester or agent fields that don't apply on the external-facing Personal Data Rights \(PDR\) form.
 
 **Parent Topic:**[Configuring Personal Data Rights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/configuring-personal-data-rights.md)
 
-## Related
-
-- [[personal-data-rights|personal data rights]]
-- [[data-subjects|Data subject types]]

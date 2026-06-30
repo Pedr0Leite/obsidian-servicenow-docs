@@ -14,7 +14,7 @@ breadcrumb: [Setting up the Operational Technology Progress Scorecard, Configure
 
 # Review the indicator sources for a large number of records
 
-Review the indicator sources if you need a large number of records. You can override the records collection so that the [[operational-technology-overview|Operational Technology]] \(OT\) Progress Scorecard shows more records than the default value of 1 million.
+Review the indicator sources if you need a large number of records. You can override the records collection so that the Operational Technology \(OT\) Progress Scorecard shows more records than the default value of 1 million.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Due to the migration with Performance Analytics, each indicator of the OT Progre
 
 If you have the admin or pa\_admin role, you can check the job logs related list from the link in the error message and filter out the information to see which indicator source has the error. After you find the indicator source with the error, you can change the indicator sources for a larger number of records and override the indicator source data. Then, an error message no longer appears for the other users and the data is shown for the indicator source. For more information about the indicator sources, see [Indicator sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/c_IndicatorSources.md).
 
-**Note:** If you need to create new indicators, you must use the site breakdown included in the [[industrial-workspace-for-operational-technology|Industrial Workspace]] Common. The site breakdown part of the [[operational-technology-manager|Operational Technology Manager]] application is deprecated.
+**Note:** If you need to create new indicators, you must use the site breakdown included in the Industrial Workspace Common. The site breakdown part of the Operational Technology Manager application is deprecated.
 
 The job logs may include errors that aren't about the indicator sources. You must filter the job logs record by the **Level** column and find the error messages about the indicator sources.
 
@@ -53,8 +53,3 @@ The job logs may include errors that aren't about the indicator sources. You mus
 
 **Parent Topic:**[Setting up the Operational Technology Progress Scorecard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/setting-up-the-ot-progress-scorecard.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[operational-technology-manager|Operational Technology Manager]]

@@ -14,7 +14,7 @@ breadcrumb: [Properties, Reference, Performance Analytics \(Indicator data sourc
 
 # Chart properties for Performance Analytics
 
-A chart refers here to a graphical component of a Performance Analytics widget or the [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]. These properties apply only to the Core UI, not visualizations in configurable workspaces.
+A chart refers here to a graphical component of a Performance Analytics widget or the Analytics Hub. These properties apply only to the Core UI, not visualizations in configurable workspaces.
 
 <table id="table_mxc_mgp_wx"><thead><tr><th>
 
@@ -30,7 +30,7 @@ com.snc.pa.default\_chart\_line\_color
 
 </td><td>
 
-Color of the scores in the Analytics Hub and [[widgets|widgets]], including the trend line and bullet chart.
+Color of the scores in the Analytics Hub and widgets, including the trend line and bullet chart.
 
 -   Format: RGBA
 -   Default: 106,183,239,1
@@ -160,7 +160,3 @@ Maximum number of element names on the legend in a breakdown widget. Default: 27
 </td></tr></tbody>
 </table>**Parent Topic:**[Performance Analytics properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/pa-properties.md)
 
-## Related
-
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]
-- [[widgets|Widgets]]

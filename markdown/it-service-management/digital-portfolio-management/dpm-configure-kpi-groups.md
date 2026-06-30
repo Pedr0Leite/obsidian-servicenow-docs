@@ -14,13 +14,13 @@ breadcrumb: [Configure, Digital Portfolio Management, IT Service Management]
 
 # Configure KPI groups in Digital Portfolio Management
 
-Configure key performance indicator \(KPI\) groups in [[dpm-landing|Digital Portfolio Management]] \(DPM\) to surface performance information in the context of your organization's solutions.
+Configure key performance indicator \(KPI\) groups in Digital Portfolio Management \(DPM\) to surface performance information in the context of your organization's solutions.
 
 \[Omitted video\] Description: Configure KPI groups.
 
 With a DPM admin role \[sn\_dpm.dpm\_admin\], you can define and configure the key performance indicator \(KPI\) groups in DPM. With KPI groups, your organization can analyze the performance of services, offerings, business services, and service instances in a centralized area.
 
-**Important:** KPI data in DPM comes from portfolios in the [[SPM2-landing-page|Service Portfolio Management]] application. The Service Offering Metric Data \[service\_offering\_metric\_data\] table along with the following four indicators have been deprecated in the Utah release:
+**Important:** KPI data in DPM comes from portfolios in the Service Portfolio Management application. The Service Offering Metric Data \[service\_offering\_metric\_data\] table along with the following four indicators have been deprecated in the Utah release:
 
 -   Average SLA Achievement \[ServiceOffering.MetricData.SLA.Daily\]
 -   Average Customer Satisfaction \[ServiceOffering.MetricData.CSAT.Daily\]
@@ -40,7 +40,3 @@ You can update the key performance indicator \(KPI\) fields in Digital Portfolio
 
 **Parent Topic:**[Configuring Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-configure-cfw.md)
 
-## Related
-
-- [[dpm-landing|Digital Portfolio Management]]
-- [[SPM2-landing-page|Service Portfolio Management]]

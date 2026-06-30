@@ -17,7 +17,7 @@ breadcrumb: [Explore, Accounts Payable Operations, Finance and Supply Chain]
 
 Accounts Payable Invoice Processing automates invoice document ingestion and data extraction using ServiceNow® Document Intelligence and supports the complete invoice life cycle from capture through approval.
 
-Accounts Payable Invoice Processing also enables [[purchase-order-table|purchase order]] matching, invoice exception management, and invoice approval management. Thus, enabling Account Payable Specialists to manage the entire life cycle of an invoice, from its ingestion to approval.
+Accounts Payable Invoice Processing also enables purchase order matching, invoice exception management, and invoice approval management. Thus, enabling Account Payable Specialists to manage the entire life cycle of an invoice, from its ingestion to approval.
 
 For more information about installing Accounts Payable Invoice Processing, see [Install Accounts Payable Invoice Processing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/install-acc-pay-mgmt.md).
 
@@ -32,6 +32,3 @@ For more information about installing Accounts Payable Invoice Processing, see [
 
 [Accounts Payable Operations integration with Document Intelligence]()
 
-## Related
-
-- [[purchase-order-table|Purchase order]]

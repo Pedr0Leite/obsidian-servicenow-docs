@@ -14,7 +14,7 @@ breadcrumb: [Automated testing for Virtual Agent topics that use NLU topic disco
 
 # Manage and run automated test cases in Virtual Agent Designer
 
-Run reusable test cases of your published topics using the Automated Test Framework through [[virtual-agent-landing-page|Virtual Agent]] Designer to identify performance issues and prevent regressions before production.
+Run reusable test cases of your published topics using the Automated Test Framework through Virtual Agent Designer to identify performance issues and prevent regressions before production.
 
 ## Before you begin
 
@@ -28,9 +28,9 @@ The **Manage test cases** button opens the **Run test cases** tab. Before you ca
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Virtual Agent** &gt; **Designer**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Designer**.
 
-2.  Slide the discovery type toggle switch to **NLU/keyword**, then select **Manage test cases** in the Resources list on the [[sidebar-landing|sidebar]].
+2.  Slide the discovery type toggle switch to **NLU/keyword**, then select **Manage test cases** in the Resources list on the sidebar.
 
     You either see the **Run test cases** tab or the **Get started** button. The **Run test cases** tab displays topics that have had test cases previously created. The **Get started** button redirects you to the **Create test cases** tab to begin creating your topics' automated testing.
 
@@ -50,7 +50,7 @@ Test case
 
 </td><td>
 
-Displays the linked test case name. Selecting the linked name opens a new window and directs you to that test within the Automated Test Framework. From the Automated Test Framework you can view [[test-llm-details|test details]], including test steps.
+Displays the linked test case name. Selecting the linked name opens a new window and directs you to that test within the Automated Test Framework. From the Automated Test Framework you can view test details, including test steps.
 
 </td></tr><tr><td>
 
@@ -105,9 +105,3 @@ Displays the **Delete** button that deletes the test case from this page and the
 
 **Parent Topic:**[Automated testing for Virtual Agent topics that use NLU topic discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/automated-testing-va-topics.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[sidebar-landing|Sidebar]]
-- [[test-llm-details|Test details]]

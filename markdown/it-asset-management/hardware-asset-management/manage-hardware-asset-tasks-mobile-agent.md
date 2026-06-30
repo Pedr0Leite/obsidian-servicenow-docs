@@ -32,7 +32,7 @@ Scan and put away the assets from the receiving bay in the designated aisle-spac
 
 [Work with hardware normalization]()
 
-[Manage [[asset-bundles-concept|asset bundles]] from your inventory]()
+[Manage asset bundles from your inventory]()
 
 [Manage your inventory through pallet assets]()
 
@@ -54,13 +54,13 @@ Scan and put away the assets from the receiving bay in the designated aisle-spac
 
 [Request a Hardware Asset Refresh]()
 
-[Manage your expiring [[c_Contracts|contracts]] for leased hardware assets]()
+[Manage your expiring contracts for leased hardware assets]()
 
 [Reclaim hardware assets]()
 
 [View RFID information of assets]()
 
-[Manage the lifecycle of hardware [[c_Models|models]] with calculated lifecycle templates]()
+[Manage the lifecycle of hardware models with calculated lifecycle templates]()
 
 [Create an internal lifecycle in the Hardware Asset Workspace]()
 
@@ -78,7 +78,7 @@ Scan and put away the assets from the receiving bay in the designated aisle-spac
 
 [Configure the Total Cost of Ownership of assets]()
 
-[Manage [[ham-landing-page|Hardware Asset Management]] subscriptions]()
+[Manage Hardware Asset Management subscriptions]()
 
 [Manage repair of defective assets in your stockroom in the Hardware Asset Workspace]()
 
@@ -92,9 +92,3 @@ Scan and put away the assets from the receiving bay in the designated aisle-spac
 
 [Update associated Decision tables for HAM flows]()
 
-## Related
-
-- [[asset-bundles-concept|Asset bundles]]
-- [[c_Contracts|Contracts]]
-- [[c_Models|Models]]
-- [[ham-landing-page|Hardware Asset Management]]

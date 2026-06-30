@@ -18,13 +18,13 @@ Turn on Code Signing in your trusted non-production instance to identify the tru
 
 Roles required: security\_admin, and either sn\_kmf.crypto\_manager or sn\_kmf.admin
 
-As a customer administrator, you can access and install the [[code-signing-landing|Code Signing]] \[com.glide.code\_signing\_enterprise\] plugin from the ServiceNow Plugin portal. To learn more about the use cases of Code Signing, see [[explore-code-signing|Exploring Code Signing]].
+As a customer administrator, you can access and install the Code Signing \[com.glide.code\_signing\_enterprise\] plugin from the ServiceNow Plugin portal. To learn more about the use cases of Code Signing, see [Exploring Code Signing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/explore-code-signing.md).
 
 ## About this task
 
 Code Signing jobs with signed update sets are used to turn the Code Signing feature on or off. There’s no other method for this functionality. This process includes the following:
 
--   Create two Code Signing jobs in the trusted instance, one to turn on Code Signing and one to [[cse-turn-off-cse|turn off Code Signing]].
+-   Create two Code Signing jobs in the trusted instance, one to turn on Code Signing and one to turn off Code Signing.
 
     -   The **Turn On** scheduled job starts the process of MID Server validation of signed code.
     -   The **Turn Off** scheduled job stops the MID Server validation of signed code.
@@ -48,7 +48,7 @@ Code Signing jobs with signed update sets are used to turn the Code Signing feat
 
     The **Scheduled Script Execution** form load. This form contains information to enable the Code Signing property. The jobs create update sets that contain the jobs and validated signatures through the Code Signing process.
 
-    \[Omitted image "[[export|export]]-signedjob-prod.png"\] Alt text: Scheduled Script Execution form is loaded.
+    \[Omitted image "export-signedjob-prod.png"\] Alt text: Scheduled Script Execution form is loaded.
 
 4.  To execute the script immediately, sign the certificate, create the update set, and select **Export signed job to production**.
 
@@ -80,9 +80,9 @@ Code Signing jobs with signed update sets are used to turn the Code Signing feat
 
 15. In the navigator, enter `sn_kmf_record_signature.list` to open the **KMF Signature Records** list, and filter for records where the **KMF Signature Purpose** is `Circle of Trust`.
 
-    The trust relationship has moved the jobs over and when the jobs are used the signature verification process executes. If the jobs, signatures, and [[c_Certificates|certificates]] are all part of the Circle of Trust, then Code Signing with Circle of Trust can be turned on.
+    The trust relationship has moved the jobs over and when the jobs are used the signature verification process executes. If the jobs, signatures, and certificates are all part of the Circle of Trust, then Code Signing with Circle of Trust can be turned on.
 
-16. In the navigator, enter `sys_properties.list` to open the [[ca-system-properties|system properties]] list.
+16. In the navigator, enter `sys_properties.list` to open the system properties list.
 
 17. Search for **com\_snc\_kmf\_signature.validation.flag** and ensure that the value is set to **true**.
 
@@ -90,15 +90,6 @@ Code Signing jobs with signed update sets are used to turn the Code Signing feat
 
     \[Omitted image "syspropertie-kmf-cert.png"\] Alt text: Code Signing certificates available in System Properties.
 
-    Use the Circle of Trust job in production to verify the trust relationship. No direct job can be executed in production that attempts to sign code. See [[config-code-signing|Configuring Code Signing]] for details on [[sc-configuration|configuration]] options.
+    Use the Circle of Trust job in production to verify the trust relationship. No direct job can be executed in production that attempts to sign code. See [Configuring Code Signing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/config-code-signing.md) for details on configuration options.
 
-## Related
 
-- [[explore-code-signing|Exploring Code Signing]]
-- [[config-code-signing|Configuring Code Signing]]
-- [[code-signing-landing|Code Signing]]
-- [[cse-turn-off-cse|Turn off Code Signing]]
-- [[export|Export]]
-- [[c_Certificates|Certificates]]
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]

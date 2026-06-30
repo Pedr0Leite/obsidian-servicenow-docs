@@ -12,19 +12,13 @@ breadcrumb: [Security Operations Integration- Block Request capability, Integrat
 
 # Security Operations Integration - Block Request Flow
 
-The Security Operations Integration - Block Request flow is a high-level flow independent of integrations. It blocks [[c_Observables|observables]] associated with a security incident. Use it to fulfill an integration such as Palo Alto Networks - Firewall.
+The Security Operations Integration - Block Request flow is a high-level flow independent of integrations. It blocks observables associated with a security incident. Use it to fulfill an integration such as Palo Alto Networks - Firewall.
 
-The **[[security-operations-landing-page|Security Operations]] Integration - Block Request** flow can be triggered on an observable form, or from the **Security Incident Observables** related list on a security incident. On a list, it is in the drop-down action menu. On a form, it is a related link. Blocking a request is available only when you have an implementation installed for the block request capability.
+The **Security Operations Integration - Block Request** flow can be triggered on an observable form, or from the **Security Incident Observables** related list on a security incident. On a list, it is in the drop-down action menu. On a form, it is a related link. Blocking a request is available only when you have an implementation installed for the block request capability.
 
 \[Omitted image "block-request-flow-V1.png"\] Alt text: Flow designer for Security Operations Integration- Block Request Flow
 
-Actions specific to this flow are described here. For more information on other actions, see [[common-wf-activities|Common Security Operations integration flows and orchestration activities]].
+Actions specific to this flow are described here. For more information on other actions, see [Common Security Operations integration flows and orchestration activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/common-wf-activities.md).
 
-**Parent Topic:**[[block-request-capability|Security Operations Integration- Block Request capability]]
+**Parent Topic:**[Security Operations Integration- Block Request capability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/block-request-capability.md)
 
-## Related
-
-- [[common-wf-activities|Common Security Operations integration flows and orchestration activities]]
-- [[block-request-capability|Security Operations Integration- Block Request capability]]
-- [[c_Observables|Observables]]
-- [[security-operations-landing-page|Security Operations]]

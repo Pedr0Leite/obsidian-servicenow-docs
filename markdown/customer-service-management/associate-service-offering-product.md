@@ -12,7 +12,7 @@ breadcrumb: [Product models, Configure product data, Product data, Set up your e
 
 # Associate services with product models
 
-Enable customers to select services for products by associating services with [[product-models|product models]].
+Enable customers to select services for products by associating services with product models.
 
 ## Before you begin
 
@@ -34,6 +34,4 @@ One product model can have multiple associated services.
 
 4.  On the Services related list, click **New** or **Edit** to add an existing service offering to the product model.
 
-## Related
 
-- [[product-models|Product models]]

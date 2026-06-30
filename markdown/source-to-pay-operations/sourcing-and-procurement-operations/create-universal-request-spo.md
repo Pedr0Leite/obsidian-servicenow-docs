@@ -33,7 +33,7 @@ Role required: snc\_internal
 
 4.  If no suitable result is available, select **Request help** in the **Contact us for help** section.
 
-5.  In the [[ur-request-help-form|Request Help form]], enter the details of your request.
+5.  In the Request Help form, enter the details of your request.
 
 6.  If the request contains sensitive or confidential information, select the **Issue contains sensitive or confidential information** check box.
 
@@ -44,10 +44,10 @@ Role required: snc\_internal
 
 ## Result
 
-The [[universal-request|Universal Request]] is created and routed to a routing agent for review. The request is then processed through the Universal Request workflow. For more information, see [Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/universal-request.md).
+The Universal Request is created and routed to a routing agent for review. The request is then processed through the Universal Request workflow. For more information, see [Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/universal-request.md).
 
 -   **[Create a procurement case from a Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-procurement-case-from-ur.md)**  
-When a Universal Request arrives in the [[purch-order-mgmt-ws|Source-to-Pay Workspace]], create a linked procurement case to track and manage the request through fulfillment.
+When a Universal Request arrives in the Source-to-Pay Workspace, create a linked procurement case to track and manage the request through fulfillment.
 
 **Parent Topic:**[Use Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/using-spo.md)
 
@@ -56,20 +56,13 @@ When a Universal Request arrives in the [[purch-order-mgmt-ws|Source-to-Pay Work
 
 [Using Shopping Hub]()
 
-[Using [[shopping-hub-overview|Shopping Hub]] Mobile]()
+[Using Shopping Hub Mobile]()
 
 [Using Procurement Case Management]()
 
-[Working with [[psm-overview|Sourcing and Procurement Operations]] playbooks in the Source-to-Pay Workspace]()
+[Working with Sourcing and Procurement Operations playbooks in the Source-to-Pay Workspace]()
 
 [Using Spend and Savings Management]()
 
 [Using Sourcing Pipeline Management]()
 
-## Related
-
-- [[ur-request-help-form|Request Help form]]
-- [[universal-request|Universal Request]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[psm-overview|Sourcing and Procurement Operations]]

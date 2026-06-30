@@ -12,7 +12,7 @@ breadcrumb: [Product inventory configurations, Customer Life Cycle Management Wo
 
 # Modify product inventory records
 
-Perform the **Modify**operation on a single product inventory record that results in the creation of an order on the [[csm-workspaces-configure|CSM Configurable Workspace]] to update its existing configurations. For example, you may want to add or delete an optional product inventory or update its configurations.
+Perform the **Modify**operation on a single product inventory record that results in the creation of an order on the CSM Configurable Workspace to update its existing configurations. For example, you may want to add or delete an optional product inventory or update its configurations.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ When a **Modify** action is performed and an order is created, the fulfillment p
 
     **Note:** The Product Inventories related list will be available out of the box starting from the Yokohama release. Customers using the Washington or Xanadu versions must add the related list manually.
 
-    You can retain either the sold product or the product inventories related list. If you want to retain both the [[migration-lists|lists]], filter out the product inventory records from the sold product related list and perform the **Modify**flow from the product inventory record.
+    You can retain either the sold product or the product inventories related list. If you want to retain both the lists, filter out the product inventory records from the sold product related list and perform the **Modify**flow from the product inventory record.
 
 5.  Select a product inventory record in **Active** state and select **Modify**.
 
@@ -48,7 +48,4 @@ When a **Modify** action is performed and an order is created, the fulfillment p
 
     An order to modify the product inventory is created. You can select the order number from the confirmation message on the account page to open the order and see the order line items. Alternatively, you can find the order in the Customer Orders list.
 
-## Related
 
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[migration-lists|Lists]]

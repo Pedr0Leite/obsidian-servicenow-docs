@@ -127,7 +127,7 @@ String
 
 </td><td>
 
-Unique number generated within the ERP system for the [[purchase-order-table|purchase order]].
+Unique number generated within the ERP system for the purchase order.
 
 </td></tr><tr><td>
 
@@ -143,7 +143,7 @@ Date on which the invoice is posted in the ERP system.
 
 </td></tr><tr><td>
 
-[[erp-source|ERP source]]
+ERP source
 
 </td><td>
 
@@ -175,7 +175,7 @@ String
 
 </td><td>
 
-Current status of the outbound [[invoice-integration|invoice integration]] process.
+Current status of the outbound invoice integration process.
 
 </td></tr><tr><td>
 
@@ -211,11 +211,11 @@ String
 
 </td><td>
 
-Type of invoice for processing.**Note:** [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] supports [[invoices|invoices]] of type **PO invoice** and **Non-PO invoice**.
+Type of invoice for processing.**Note:** Accounts Payable Operations supports invoices of type **PO invoice** and **Non-PO invoice**.
 
 </td></tr><tr><td>
 
-[[legal-entity|Legal entity]]
+Legal entity
 
 </td><td>
 
@@ -247,7 +247,7 @@ String
 
 </td><td>
 
-A unique invoice number created by the [[supplier|Supplier]].
+A unique invoice number created by the Supplier.
 
 </td></tr><tr><td>
 
@@ -263,7 +263,7 @@ Other charges applied on the invoice amount.
 
 </td></tr><tr><td>
 
-[[payment-terms|Payment terms]]
+Payment terms
 
 </td><td>
 
@@ -539,14 +539,3 @@ Tax rate applied on the invoice amount.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[purchase-order-table|Purchase order]]
-- [[erp-source|ERP source]]
-- [[invoice-integration|Invoice integration]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[invoices|Invoices]]
-- [[legal-entity|Legal entity]]
-- [[supplier|Supplier]]
-- [[payment-terms|Payment terms]]

@@ -16,11 +16,11 @@ breadcrumb: [Explore Guided Tours, Guided Tours, Adoption services, Configure us
 
 Learn about the primary steps to create a guided tour.
 
-With the [[guided-tours-designer|Guided Tour Designer]], you can effortlessly [[add-guided-tour|create guided tours]]. The primary steps are as follows:
+With the Guided Tour Designer, you can effortlessly create guided tours. The primary steps are as follows:
 
 -   **Define scope**
 
-    Begin by accessing the Guided Tour Designer. Specify the tour's name, type \(for example, Workspace, [[c_ServicePortal|Service Portal]]\), starting page, and the relevant user roles.
+    Begin by accessing the Guided Tour Designer. Specify the tour's name, type \(for example, Workspace, Service Portal\), starting page, and the relevant user roles.
 
 -   **Add steps**
 
@@ -34,8 +34,4 @@ With the [[guided-tours-designer|Guided Tour Designer]], you can effortlessly [[
 
     After the tour is finalized, publish it.
 
-## Related
 
-- [[guided-tours-designer|Guided Tour Designer]]
-- [[add-guided-tour|Create Guided Tours]]
-- [[c_ServicePortal|Service Portal]]

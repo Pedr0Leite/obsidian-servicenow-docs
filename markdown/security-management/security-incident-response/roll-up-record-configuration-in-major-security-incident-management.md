@@ -14,7 +14,7 @@ breadcrumb: [Rollup Framework for MSIM, Major Security Incident Management, Secu
 
 # Configure Rollup Records in Major Security Incident Management
 
-Configure Roll up records in [[major-security-incident-management-landing-page|Major Security Incident Management]] to control the information, which will be rolled up when the source record is linked/proposed/promoted as Major Security Incidents.
+Configure Roll up records in Major Security Incident Management to control the information, which will be rolled up when the source record is linked/proposed/promoted as Major Security Incidents.
 
 Role required: admin and sn\_msi.workspace\_admin.
 
@@ -22,7 +22,7 @@ Role required: admin and sn\_msi.workspace\_admin.
 
 **Procedure**
 
-1.  Navigate to **Major [[sir-landing-page|Security Incident Response]]** &gt; **Linked Records Configuration**. The Linked Record Configurations page displays.
+1.  Navigate to **Major Security Incident Response** &gt; **Linked Records Configuration**. The Linked Record Configurations page displays.
 2.  Select or create a new linked record and navigate to the **Roll up Record Configuration** section from the same page.
 
     \[Omitted image "roll-up-record-config.png"\] Alt text: Rollup record configuration
@@ -159,7 +159,3 @@ Script should rollup information to Linked Record\(sn\_msi\_m2m\_child\) table.-
 
 [Perform on demand atomic rollup]()
 
-## Related
-
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]
-- [[sir-landing-page|Security Incident Response]]

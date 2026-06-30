@@ -33,7 +33,7 @@ Field name
 
 </td><td>
 
-The name for the field as it appears in the [[document-intelligence-landing|Document Intelligence]] workspace.
+The name for the field as it appears in the Document Intelligence workspace.
 
  Clearly state the information you want to extract. Be specific, clear and concise. For example: "Order number"
 
@@ -113,6 +113,3 @@ Option to keep the form displayed on the screen. Enable this if you are adding m
 
 [Table form for use case setup]()
 
-## Related
-
-- [[document-intelligence-landing|Document Intelligence]]

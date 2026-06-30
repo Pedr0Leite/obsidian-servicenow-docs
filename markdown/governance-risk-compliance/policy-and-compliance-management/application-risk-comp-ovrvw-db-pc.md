@@ -16,7 +16,7 @@ breadcrumb: [Analytics and Reporting solutions for GRC: Policy and Compliance Ma
 
 The Application Risk and Compliance Overview dashboard provides the current view of risk and compliance posture for the business applications that are used in an enterprise. You can now view the dashboard in Next Experience UI Framework.
 
-**Important:** Starting with version 18.1.0 of the [[r_PolicyComplianceMgmt|Policy and Compliance Management]] application, the Application Risk and Compliance Overview dashboard is available in the Next Experience UI Framework.
+**Important:** Starting with version 18.1.0 of the Policy and Compliance Management application, the Application Risk and Compliance Overview dashboard is available in the Next Experience UI Framework.
 
 If you are on Vancouver or Washington DC, you can view the dashboard in the Next Experience UI Framework.
 
@@ -51,7 +51,7 @@ To open the dashboard, navigate to **All** &gt; **Advanced GRC Dashboards** &gt;
 |Application Compliance Summary|Provides the summary of policies, authority documents, and the controls associated with business applications.|
 |Risk Overview tab|
 |Risk Heatmap by Application Criticality|Displays the heatmap of the application risks based on the criticality of applications versus the risk rating of the application.|
-|Risk Response Tasks Overview|Displays the response tasks created for a risk and different states of those tasks. This bar chart can be grouped and stacked by [[risk-response|risk response]], risk response state, risk calculated score, risk response assigned to, or business application.|
+|Risk Response Tasks Overview|Displays the response tasks created for a risk and different states of those tasks. This bar chart can be grouped and stacked by risk response, risk response state, risk calculated score, risk response assigned to, or business application.|
 |Application Risk Summary|Displays the summary of risks directly associated with the applications that contribute to the overall risk rating of the application. Other downstream risks that contribute to the application risk rating are not represented in this report. The risks considered for this report are very high, high, and moderate.|
 |Application Risk Mitigating Controls Status|Provides the information for an application's risks and the associated controls. The risks considered for this report are very high, high, and moderate. The state of controls must not be in draft or retired. The risks for only one year are displayed.|
 |Risk Posture tab|
@@ -142,7 +142,3 @@ Filters used to filter data on the reports available from the Audit Overview tab
 </td></tr></tbody>
 </table>**Parent Topic:**[Analytics and Reporting solutions for GRC: Policy and Compliance Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/grc-policy-compliance-content-pack.md)
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[risk-response|risk response]]

@@ -26,7 +26,7 @@ Flapping occurs when the event source continues to generate events even after it
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Administration** &gt; **Event Management Properties**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Administration** &gt; **Event Management Properties**.
 
 2.  Edit the following properties, as appropriate.
 
@@ -97,6 +97,3 @@ You can monitor the **Event Management** &gt; **All Alerts** list for alerts tha
 
 [View alerts in the flapping state](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMViewAlertFlapping.md)
 
-## Related
-
-- [[c_EM|Event Management]]

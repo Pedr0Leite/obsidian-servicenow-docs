@@ -14,7 +14,7 @@ breadcrumb: [ADFS integration with SAML 2.0, Integrating SAML 2.0 with other fea
 
 # \(Workaround\) Enable service provider-initiated authentication
 
-Use this workaround if [[c_Authentication|authentication]] fails because you do not have [[c_SAML2.0WebBrowserSSOProfile|SAML]] 2.0 Update 1. This issue can happen if [[users|users]] attempt to skip IdP authentication and navigate directly to the instance.
+Use this workaround if authentication fails because you do not have SAML 2.0 Update 1. This issue can happen if users attempt to skip IdP authentication and navigate directly to the instance.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Enable service provider-initiated authentication by doing one of the following a
 
 ## Procedure
 
--   Upgrade to SAML 2.0 Update 1 and clear the option to create an AuthnContextClass [[c_requestAPI|request]].
+-   Upgrade to SAML 2.0 Update 1 and clear the option to create an AuthnContextClass request.
 
 -   Modify the **SAML2** script include to comment out the definitions of the `SPNameQualifier` attribute when you have SAML 2.0 active \(not SAML 2.0 Update 1\).
 
@@ -45,9 +45,3 @@ Enable service provider-initiated authentication by doing one of the following a
 
 If you do not want the login prompt from your ADFS server to appear when you access the instance, set the following SAML 2.0 Update 1 property to false: **Create an AuthnContextClass request in the AuthnRequest** statement \(**glide.authenticate.sso.saml2.createrequestedauthncontext**\).
 
-## Related
-
-- [[c_Authentication|Authentication]]
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[users|Users]]
-- [[c_requestAPI|request]]

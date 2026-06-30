@@ -16,9 +16,9 @@ Create and duplicate an OAuth API script for application registry.
 
 ## Before you begin
 
-Generate an SHA-1 thumbprint. For more information, see [[generate-thumbprint|Generate a SHA-1 thumbprint]].
+Generate an SHA-1 thumbprint. For more information, see [Generate a SHA-1 thumbprint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/generate-thumbprint.md).
 
-Generate a sys\_id when you configure a JWT provider. For more information, see [[config-jwt-credential-flow|Configure a JWT provider]].
+Generate a sys\_id when you configure a JWT provider. For more information, see [Configure a JWT provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/config-jwt-credential-flow.md).
 
 Role required: admin
 
@@ -41,13 +41,7 @@ Role required: admin
 
 ## What to do next
 
-[[register-oauth-cred-flow|Register an OAuth provider]].
+[Register an OAuth provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/register-oauth-cred-flow.md).
 
-**Parent Topic:**[[config-credential-flow-certificate|Configure client credential flow for SMTP OAuth2 using certificate-based authentication]]
+**Parent Topic:**[Configure client credential flow for SMTP OAuth2 using certificate-based authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/config-credential-flow-certificate.md)
 
-## Related
-
-- [[generate-thumbprint|Generate a SHA-1 thumbprint]]
-- [[config-jwt-credential-flow|Configure a JWT provider]]
-- [[register-oauth-cred-flow|Register an OAuth provider]]
-- [[config-credential-flow-certificate|Configure client credential flow for SMTP OAuth2 using certificate-based authentication]]

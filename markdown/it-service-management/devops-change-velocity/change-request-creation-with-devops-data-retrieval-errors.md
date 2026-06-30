@@ -20,7 +20,7 @@ Create change requests even with errors in DevOps data retrieval.
 
 **Note:** Change request creation with DevOps data retrieval errors is supported only for Azure DevOps, GitHub Actions, GitLab, Jenkins, and Harness pipelines.
 
-You can [[t_CreateAChange|create a change request]] with or without errors in DevOps data retrieval. This functionality can be controlled by the **Enable change request creation even with errors in DevOps data retrieval** property. When the **Enable change request creation even with errors in DevOps data retrieval** property is enabled, and an error occurs in retrieving DevOps data like work items, commits, test summaries, or security summaries, the corresponding change request is still created. The data that can be retrieved will still be associated with the change request. For the data that can’t be retrieved, the reason for the error will be notified to the user in the third-party console, and the same information will also be added in the **Change Comments** field in the Step Execution record and the change **Worknotes**.
+You can create a change request with or without errors in DevOps data retrieval. This functionality can be controlled by the **Enable change request creation even with errors in DevOps data retrieval** property. When the **Enable change request creation even with errors in DevOps data retrieval** property is enabled, and an error occurs in retrieving DevOps data like work items, commits, test summaries, or security summaries, the corresponding change request is still created. The data that can be retrieved will still be associated with the change request. For the data that can’t be retrieved, the reason for the error will be notified to the user in the third-party console, and the same information will also be added in the **Change Comments** field in the Step Execution record and the change **Worknotes**.
 
 If the **Enable change request creation even with errors in DevOps data retrieval** property isn’t enabled, a change request is created only when there’s no error in any step of a pipeline run. When an error occurs, the pipeline is aborted and the reason for the error is added in the inbound event's **Processing details** field, and the same is notified to the user in the third-party console.
 
@@ -28,13 +28,13 @@ For more information, see [DevOps Change Velocity properties](https://raw.github
 
 ## Approval for change requests with DevOps data retrieval errors
 
-For change requests created with DevOps data retrieval errors, the **is\_change\_with\_partial\_data** policy input is set to **True** for all the [[change-approval-policy|change approval policies]]. Only a manual change approval decision is applied to such changes so that you can approve or reject the change after manually verifying the DevOps data in it. In the DevOps Gather Change Policy Data subflow, the **Is change with partial data** action determines whether a change is created with DevOps data retrieval errors or not.
+For change requests created with DevOps data retrieval errors, the **is\_change\_with\_partial\_data** policy input is set to **True** for all the change approval policies. Only a manual change approval decision is applied to such changes so that you can approve or reject the change after manually verifying the DevOps data in it. In the DevOps Gather Change Policy Data subflow, the **Is change with partial data** action determines whether a change is created with DevOps data retrieval errors or not.
 
 ## Pipeline UI for change requests with DevOps data retrieval errors
 
 When a change request gets created with DevOps data retrieval errors, the card specifying the stage where the error occurred will be displayed in the Yellow color. \[Omitted image "pipeline-ui-change-partial.png"\] Alt text: Pipeline UI displaying error stage card in yellow for change with errors
 
-**Note:** If your build pipeline \(CI\) is set up to trigger a release \(CD\) pipeline and a change is created in the release pipeline, the data is collected from the build pipeline and associated with the change request. There may be a situation where ServiceNow [[devops-landing-page-new|DevOps Change Velocity]] will receive and process the release pipeline events before build pipeline events. In this case, the change will be created with DevOps data from the build pipeline even though there’s an error in retrieving some of the data. You can observe this behavior even though the **Enable change request creation even with errors in the DevOps data retrieval** property is enabled. Also, the **is\_change\_with\_partial\_data** policy input will be false in this case, and the approval process will be applied in the way it’s defined in the approval flows unlike always manual in case of change requests with DevOps data retrieval errors.
+**Note:** If your build pipeline \(CI\) is set up to trigger a release \(CD\) pipeline and a change is created in the release pipeline, the data is collected from the build pipeline and associated with the change request. There may be a situation where ServiceNow DevOps Change Velocity will receive and process the release pipeline events before build pipeline events. In this case, the change will be created with DevOps data from the build pipeline even though there’s an error in retrieving some of the data. You can observe this behavior even though the **Enable change request creation even with errors in the DevOps data retrieval** property is enabled. Also, the **is\_change\_with\_partial\_data** policy input will be false in this case, and the approval process will be applied in the way it’s defined in the approval flows unlike always manual in case of change requests with DevOps data retrieval errors.
 
 ## Callback timeout
 
@@ -52,8 +52,3 @@ If the **Enable change request creation even with errors in DevOps data retrieva
 
 **Parent Topic:**[Accelerating your DevOps change process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/dev-ops-change-acceleration.md)
 
-## Related
-
-- [[t_CreateAChange|Create a change request]]
-- [[change-approval-policy|Change approval policies]]
-- [[devops-landing-page-new|DevOps Change Velocity]]

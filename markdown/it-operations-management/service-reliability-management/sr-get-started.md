@@ -14,9 +14,9 @@ breadcrumb: [Exploring Service Reliability Management, Service Reliability Manag
 
 # Get started with Service Reliability Management
 
-[[sr-landing-page|Service Reliability Management]] \(SRM\) accelerates your path to viewing service health in the context of service level objectives and incident resolution. Helps IT Operations and DevOps teams deliver on the promise of agility, performance, and uptime.
+Service Reliability Management \(SRM\) accelerates your path to viewing service health in the context of service level objectives and incident resolution. Helps IT Operations and DevOps teams deliver on the promise of agility, performance, and uptime.
 
-Get started with SRM to understand the different sections in the [[sr-navigate-interface|SRM interface]].
+Get started with SRM to understand the different sections in the SRM interface.
 
 For more information on roles, see [SRM roles and responsibilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-roles.md).
 
@@ -112,7 +112,7 @@ Establish goals for how well your service should operate. Also, specify the maxi
 
 </td><td>
 
-[[slo-landing-page|Service Level Objective Management]]
+Service Level Objective Management
 
 </td></tr><tr><td>
 
@@ -136,8 +136,3 @@ The different components on the Service Reliability Management \(SRM\) interface
 
 **Parent Topic:**[Exploring Service Reliability Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/exploring-service-reliability-management.md)
 
-## Related
-
-- [[sr-landing-page|Service Reliability Management]]
-- [[sr-navigate-interface|SRM interface]]
-- [[slo-landing-page|Service Level Objective Management]]

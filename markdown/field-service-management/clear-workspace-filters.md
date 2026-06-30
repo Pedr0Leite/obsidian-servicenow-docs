@@ -12,7 +12,7 @@ breadcrumb: [Set up Dispatcher Workspace, Dispatcher Workspace, CSM/FSM Configur
 
 # Clear Dispatcher Workspace resource filters
 
-If a dispatcher experiences loading issues in [[dispatcher-activities|Dispatcher Workspace]], you can clear the Dispatcher Workspace resource filters and that can help resolve issues with loading.
+If a dispatcher experiences loading issues in Dispatcher Workspace, you can clear the Dispatcher Workspace resource filters and that can help resolve issues with loading.
 
 ## Before you begin
 
@@ -30,6 +30,4 @@ Role required: admin.
 
 5.  Select **Delete**.
 
-## Related
 
-- [[dispatcher-activities|Dispatcher Workspace]]

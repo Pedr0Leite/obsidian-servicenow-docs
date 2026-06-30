@@ -14,7 +14,7 @@ breadcrumb: [Using Employee Center Pro, Employee Center Pro, Unified Employee Ex
 
 # Use the integrated experience and service feedback
 
-The [[ex-fdback-ovrvw|integrated experience and service feedback]] enables quick feedback sharing across the [[employee-center-landing-page|Employee Center]] portal.
+The integrated experience and service feedback enables quick feedback sharing across the Employee Center portal.
 
 You can enable the experience and service feedback drawer widget on all the pages of your portal. It provides a seamless feedback experience for the users.
 
@@ -37,7 +37,3 @@ Along with the rating, available for the service feedback types, you can choose 
 
 You can choose to stay anonymous and not share your personal information while providing your feedback.
 
-## Related
-
-- [[ex-fdback-ovrvw|Integrated experience and service feedback]]
-- [[employee-center-landing-page|Employee Center]]

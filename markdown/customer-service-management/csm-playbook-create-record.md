@@ -31,9 +31,9 @@ With additional configuration, you can also create a case from any of the follow
 
 To create cases in this way, the following configuration is required:
 
--   Enable the **Create Case** button from the [[customer-service-case-types|Customer Service Case Types]] application for each of these records. This enables agents to create a specific type of case.
+-   Enable the **Create Case** button from the Customer Service Case Types application for each of these records. This enables agents to create a specific type of case.
 
-    See [[configure-csm-case-types|Configure customer service case types]] for more information about using the Customer Service guided setup and the Case Types category to configure case type UI actions.
+    See [Configure customer service case types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-csm-case-types.md) for more information about using the Customer Service guided setup and the Case Types category to configure case type UI actions.
 
 -   Configure the playbook to use the playbook record generator.
 
@@ -42,7 +42,7 @@ To create cases in this way, the following configuration is required:
 
 ## Procedure
 
-1.  Navigate to a list or form in [[csm-workspaces-configure|CSM Configurable Workspace]].
+1.  Navigate to a list or form in CSM Configurable Workspace.
 
     For example, navigate to the All Onboarding Cases list.
 
@@ -60,8 +60,4 @@ To create cases in this way, the following configuration is required:
 
 6.  Continue using the playbook stages and activities to resolve the customer's issue and complete the case.
 
-## Related
 
-- [[configure-csm-case-types|Configuring customer service case types]]
-- [[customer-service-case-types|Customer service case types]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

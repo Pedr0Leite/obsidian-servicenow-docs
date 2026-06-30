@@ -14,7 +14,7 @@ breadcrumb: [Managing contextual search, Contextual search, Search administratio
 
 # Edit search resource display field record
 
-Use the search result display fields to provide titles, descriptions, and additional details for [[c_ContextualSearch|contextual search]] [[hs-results|results]].
+Use the search result display fields to provide titles, descriptions, and additional details for contextual search results.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-ServiceNow provides pre-defined additional resource or search sources to the user. You can't create or delete search result display [[clone-configurations-tab|configurations]]. Each table referred by an additional resource has a search result display configuration record. You can edit the values in the **Card title field**, **Card description field**, and the **Card additional fields**.
+ServiceNow provides pre-defined additional resource or search sources to the user. You can't create or delete search result display configurations. Each table referred by an additional resource has a search result display configuration record. You can edit the values in the **Card title field**, **Card description field**, and the **Card additional fields**.
 
 \[Omitted image "additional-resource-fields.png"\] Alt text: Search result with card title, card description field, and card additional fields highlighted.
 
@@ -61,8 +61,3 @@ ServiceNow provides pre-defined additional resource or search sources to the use
 
 **Parent Topic:**[Managing contextual search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/working-with-contextual-search.md)
 
-## Related
-
-- [[c_ContextualSearch|Contextual search]]
-- [[hs-results|Results]]
-- [[clone-configurations-tab|Configurations]]

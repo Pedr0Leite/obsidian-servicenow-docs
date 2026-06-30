@@ -28,7 +28,7 @@ Add a workplace item to make it available for employees to order when they make 
 -   Select a template to prefill certain values when creating a workplace case or a workplace task.
 -   The parent workplace service to which you’re adding the workplace item.
 -   The subcategory to which the item belongs.
--   An image describing the workplace item. The image is displayed to the employees while they’re making a selection. The image is displayed to the customers while using the Reservation portal and [[workplace-rsv-for-outlook-addin-feat|Workplace Reservations for Microsoft Outlook Add-in]].
+-   An image describing the workplace item. The image is displayed to the employees while they’re making a selection. The image is displayed to the customers while using the Reservation portal and Workplace Reservations for Microsoft Outlook Add-in.
 -   A brief description about the workplace item. The description is displayed to the employees while they’re making a selection. You can add a normal text or an HTML text. The description can contain a text and a link. If you enter a long description, the text is displayed to the employees along with a **Show more** option. The description is displayed to the customers while using the Reservation portal and Workplace Reservations for Microsoft Outlook Add-in.
 
     **Note:** The Workplace Reservations for Microsoft Outlook Add-in doesn't inform about the services in lead time instead the services aren’t requested when the reservation gets submitted.
@@ -48,7 +48,7 @@ Example: Workplace service items added with 'Request Furniture' workplace servic
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-case-mgmt-feat|Workplace Case Management]]** &gt; **Workplace Case Management - Setup** &gt; **[[workplace-services|Workplace services]]**.
+1.  Navigate to **All** &gt; **Workplace Case Management** &gt; **Workplace Case Management - Setup** &gt; **Workplace services**.
 
 2.  Select the workplace service to which you want to add a workplace service item.
 
@@ -80,7 +80,7 @@ Item type
 
 </td><td>
 
-Type of workplace service [[activity-lxp|activity]] that must be generated for this workplace service item when an employee makes an order. Choices are as follows:-   **Case**: Option to generate a child workplace case to fulfill this item.
+Type of workplace service activity that must be generated for this workplace service item when an employee makes an order. Choices are as follows:-   **Case**: Option to generate a child workplace case to fulfill this item.
 -   **Task**: Option to generate a child workplace task to fulfill this item.
 -   **Manual**: Option to generate a manual fulfillment workplace service to fulfill this item.
 
@@ -116,7 +116,7 @@ Application
 </td><td>
 
 Application of the service item. This field is automatically set. -   If you’re adding the workplace service item for a workplace case-related service, select**Workplace Case Management**.
--   If you’re adding the workplace service item for a workplace service that is available for employees while making a reservation, then select **[[workplace-rsv-mgmt-feat|Workplace Reservation Management]]**.
+-   If you’re adding the workplace service item for a workplace service that is available for employees while making a reservation, then select **Workplace Reservation Management**.
 
 
 </td></tr><tr><td>
@@ -245,10 +245,3 @@ The employee is informed if there are one or more services in the lead time whil
 
 Specify the workplace locations where the workplace service item is available for ordering. For more information, see [Make a workplace service item available to a workplace location](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/add-workplace-service-item-to-workplace-locs.md).
 
-## Related
-
-- [[workplace-rsv-for-outlook-addin-feat|Workplace Reservations for Microsoft Outlook Add-in]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[workplace-services|Workplace Services]]
-- [[activity-lxp|Activity]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]

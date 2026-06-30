@@ -12,7 +12,7 @@ breadcrumb: [Reference, Customer Service Problem Management, Telecommunications,
 
 # Components installed with Customer Service Problem Management
 
-Several types of components are installed with activation of the [[cspm-landing-page|Customer Service Problem Management]] application, including tables, user roles, and business rules.
+Several types of components are installed with activation of the Customer Service Problem Management application, including tables, user roles, and business rules.
 
 ## Roles
 
@@ -289,7 +289,3 @@ Case extension and a new case type.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cspm-landing-page|Customer Service Problem Management]]

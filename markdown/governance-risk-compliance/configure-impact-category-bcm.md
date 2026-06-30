@@ -30,7 +30,7 @@ While RTO calculates the acceptable time by which the business function is resto
 
 ## Procedure
 
-1.  Navigate to **Business Continuity** &gt; **General [[Administration|Administration]]** &gt; **Impact Categories**.
+1.  Navigate to **Business Continuity** &gt; **General Administration** &gt; **Impact Categories**.
 
 2.  Click **New**.
 
@@ -58,6 +58,4 @@ While RTO calculates the acceptable time by which the business function is resto
 
     4.  Click **Submit**.
 
-## Related
 
-- [[Administration|Administration]]

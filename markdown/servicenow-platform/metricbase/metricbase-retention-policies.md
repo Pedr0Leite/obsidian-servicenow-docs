@@ -14,7 +14,7 @@ breadcrumb: [Define and collect data, MetricBase, Manage instance data sources, 
 
 # MetricBase retention policies
 
-Retain data in [[metricbase|MetricBase]] according to retention policies.
+Retain data in MetricBase according to retention policies.
 
 Retention policies include multiple retention schedules with coarser granularity the longer that the data is kept. For example, the Coarse retention policy stores sampled data every:
 
@@ -106,7 +106,3 @@ This policy retains data for 1 day at 10-second period, 3 months at 1-minute per
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[metricbase|MetricBase]]

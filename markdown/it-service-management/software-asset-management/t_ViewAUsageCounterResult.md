@@ -14,7 +14,7 @@ breadcrumb: [Software license reconciliation counters for the legacy Software As
 
 # View usage counter results for the legacy Software Asset Management plugin
 
-Usage counters for the legacy Software [[c_AssetManagement|Asset Management]] \(com.snc.software\_asset\_management\) plugin track licenses based on how often those licenses are actually used either by a workstation or a user.
+Usage counters for the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin track licenses based on how often those licenses are actually used either by a workstation or a user.
 
 ## Before you begin
 
@@ -59,6 +59,3 @@ A usage counter tracks a license based on how often the license is actually used
 
 **Parent Topic:**[Software license reconciliation counters for the legacy Software Asset Management plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_UseCountersSWLicenseReconcil.md)
 
-## Related
-
-- [[c_AssetManagement|Asset Management]]

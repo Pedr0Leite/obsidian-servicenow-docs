@@ -14,7 +14,7 @@ breadcrumb: [Explore, Health and Safety Core, Health and Safety, Employee Servic
 
 # Health and Safety user profile
 
-A [[health-safety-overview|Health and Safety]] profile provides safety team with all the information about a user in one central place.
+A Health and Safety profile provides safety team with all the information about a user in one central place.
 
 It enables them to access all safety-related information about users \(including employees, visitors, and contractors\) in the organization. They can see safety training records of workers and can easily track who is trained in what, and view safety incidents and other safety-related records associated with them.
 
@@ -47,7 +47,7 @@ The tabs in a profile appear based on the installed Health and Safety applicatio
 
 To open the Health and Safety profile for a user,
 
-1.  Navigate to **All** &gt; **Health and Safety** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 2.  Select the configuration icon \(\[Omitted image "icon-config.png"\] Alt text: Configuration icon\) and select the **Health and safety profiles** list.
 
 ## Assigning Health and Safety profile
@@ -55,7 +55,3 @@ To open the Health and Safety profile for a user,
 -   To assign Health and Safety profile for a user, see [Assign Health and Safety profile to a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/assign-hs-profile-user.md).
 -   To assign Health and Safety profile for a contract worker, see [Assign Health and Safety profile to a contractor worker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/hs-assign-hs-user-profile-contract-worker.md).
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]

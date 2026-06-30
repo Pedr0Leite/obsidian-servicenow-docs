@@ -48,7 +48,7 @@ The following attributes in the Calculated Application Service \[cmdb\_ci\_servi
 
 ## IP Address \[cmdb\_ci\_ip\_address\]
 
-The following attributes in the [[ip-address|IP Address]] \[cmdb\_ci\_ip\_address\] table are populated by collected data:
+The following attributes in the IP Address \[cmdb\_ci\_ip\_address\] table are populated by collected data:
 
 |Attribute label|Attribute name|
 |---------------|--------------|
@@ -133,6 +133,3 @@ The following attributes in the Application \[cmdb\_ci\_appl\] table are populat
 |------------|-----------------|-----------|
 |Application \[cmdb\_ci\_appl\]|Runs on::Runs|Server \[cmdb\_ci\_server\]|
 
-## Related
-
-- [[ip-address|IP Address]]

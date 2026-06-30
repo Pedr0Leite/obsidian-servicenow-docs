@@ -26,7 +26,7 @@ Before starting this procedure, import the `JavaPasswordSDK.jar` file into the i
 
 1.  Manually configure the MID Server [Add a MID Server parameter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server-parameters.md) file with these parameters.
 
-    This [[sc-configuration|configuration]] cannot be done from the instance.
+    This configuration cannot be done from the instance.
 
     |Parameter|Value|Description|
     |---------|-----|-----------|
@@ -79,7 +79,7 @@ ServiceNow\_MID\_Server
 
 </td><td>
 
-Specifies the App-ID used to grant permission to the MID Server to access the CyberArk vault. The default value, **ServiceNow\_MID\_Server**, must be defined in the CyberArk vault. You can use this parameter to override the default and specify your own App-ID. If you edit the App-ID in this parameter, make sure to [[configure-cyberark|configure CyberArk]] to match.
+Specifies the App-ID used to grant permission to the MID Server to access the CyberArk vault. The default value, **ServiceNow\_MID\_Server**, must be defined in the CyberArk vault. You can use this parameter to override the default and specify your own App-ID. If you edit the App-ID in this parameter, make sure to configure CyberArk to match.
 
 </td></tr><tr><td>
 
@@ -112,7 +112,3 @@ When set to true, requires that the type of SSH credential returned from CyberAr
 </table>
 **Parent Topic:**[CyberArk integration configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/c_CyberArkIntegrationConfiguration.md)
 
-## Related
-
-- [[sc-configuration|Configuration]]
-- [[configure-cyberark|Configure CyberArk]]

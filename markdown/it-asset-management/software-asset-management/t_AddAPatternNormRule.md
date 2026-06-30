@@ -74,7 +74,7 @@ Discovered publisher is empty
 
 </td><td>
 
-Option that includes products that have an empty publisher field \(the rule applies to discovery [[c_Models|models]] where the publisher is unknown\).
+Option that includes products that have an empty publisher field \(the rule applies to discovery models where the publisher is unknown\).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -156,6 +156,3 @@ Choose the language.-   Dutch
 
 **Parent Topic:**[Software Asset Management administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_SAMAdministration.md)
 
-## Related
-
-- [[c_Models|Models]]

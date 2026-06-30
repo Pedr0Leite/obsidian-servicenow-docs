@@ -26,16 +26,12 @@ Role required: sales\_agent
 
 3.  Select the quote that you’re working with.
 
-4.  In the **Attachments** window, select the PDF document to open it.\[Omitted image "quote-attachment-window-pdf.png"\] Alt text: Attachments in [[quote-management|quote management]] module.
+4.  In the **Attachments** window, select the PDF document to open it.\[Omitted image "quote-attachment-window-pdf.png"\] Alt text: Attachments in quote management module.
 
     The PDF document opens in the PDF viewer.
 
 5.  Use the PDF viewer controls to manage the PDF.
 
 
-**Parent Topic:**[[quote-mgmt-using|Using Quote Management]]
+**Parent Topic:**[Using Quote Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-mgmt-using.md)
 
-## Related
-
-- [[quote-mgmt-using|Using Quote Management]]
-- [[quote-management|Quote Management]]

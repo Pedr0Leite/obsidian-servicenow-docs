@@ -12,7 +12,7 @@ breadcrumb: [Repair claim, MCO core, Explore, Manufacturing Commercial Operation
 
 # Repair claim submission use case
 
-Use case scenarios demonstrate when and how to use the [[mco-dealer-portal|Dealer portal]] application to submit a [[mco-use-repair-claim|repair claim]]. It provides practical examples of common repair or warranty management situations.
+Use case scenarios demonstrate when and how to use the Dealer portal application to submit a repair claim. It provides practical examples of common repair or warranty management situations.
 
 ## Use case: Warranty repair claim submission
 
@@ -32,7 +32,7 @@ Solution
 James uses the MCO Dealer Portal to submit a warranty repair claim through a guided experience:
 
 1.  Accesses unified portal with cases, claims, knowledge, and service catalog in one place
-2.  Opens [[repair-claim-form|repair claim form]] where MCO auto-populates assets tied to the dealership
+2.  Opens repair claim form where MCO auto-populates assets tied to the dealership
 3.  Selects the vehicle by asset number or VIN, chooses dealership location, and enters reported date, repair description, and work order number
 4.  Launches guided job entry where the “Warranty” is selected as Repair type
 5.  Enters parts details including part number, quantity, unit cost \($1,250\), and 15% tax rate where MCO automatically calculates the total
@@ -56,8 +56,3 @@ Outcome
 
 James successfully submits a complete warranty repair claim for Ken's 2023 Alectri Voltar VS with parts, labor, and supporting documentation. The guided experience with automatic calculations and pre-populated codes reduces claim preparation time and minimizes rejection risk, enabling faster OEM processing and reimbursement.
 
-## Related
-
-- [[mco-dealer-portal|Dealer portal]]
-- [[mco-use-repair-claim|Repair claim]]
-- [[repair-claim-form|Repair claim form]]

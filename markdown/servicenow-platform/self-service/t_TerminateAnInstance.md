@@ -14,7 +14,7 @@ breadcrumb: [Amazon EC2 instance request from the Service Catalog, Service catal
 
 # Terminate an instance
 
-Shut down an Amazon EC2 instance through the [[service-catalog|service catalog]].
+Shut down an Amazon EC2 instance through the service catalog.
 
 ## Before you begin
 
@@ -33,6 +33,3 @@ Role required: admin
 
 **Parent Topic:**[Amazon EC2 instance request from the Service Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/self-service/c_AmazonEC2InstanceRequest.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]

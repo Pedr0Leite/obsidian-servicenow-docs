@@ -22,7 +22,7 @@ Role required: sn\_ta\_hiring\_core.recruiter or sn\_ta\_hiring\_core.recruitmen
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[recruitment-workspace-concept|Recruitment workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Recruitment workspace**.
 
 2.  Select the required job requisition.
 
@@ -53,7 +53,7 @@ Role required: sn\_ta\_hiring\_core.recruiter or sn\_ta\_hiring\_core.recruitmen
     4.  Save or submit the feedback.
 
         -   To save the feedback as a draft and submit it later, select **Save**
-        -   To submit and share the feedback with the recruiter and [[hiring-tab-concept|hiring]] manager, select **Submit feedback**.
+        -   To submit and share the feedback with the recruiter and hiring manager, select **Submit feedback**.
 5.  If the interview didn't happen either because you or the applicant couldn't attend it, or for any other reason, then do the following.
 
     1.  Select **Interview incomplete**.
@@ -67,7 +67,3 @@ Role required: sn\_ta\_hiring\_core.recruiter or sn\_ta\_hiring\_core.recruitmen
 
 **Parent Topic:**[Using Interview Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/using-interview-mgmnt.md)
 
-## Related
-
-- [[recruitment-workspace-concept|Recruitment workspace]]
-- [[hiring-tab-concept|Hiring]]

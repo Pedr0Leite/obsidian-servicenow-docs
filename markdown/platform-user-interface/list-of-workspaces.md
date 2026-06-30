@@ -30,7 +30,7 @@ A workspace is a suite of tools that provides agents, case managers, help desk p
 
 -   **[CMDB Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-workspace.md)**
 
-    CMDB Workspace is an efficient, central, and modernized way for you to work. Use CMDB Workspace to search and [[exploring|explore]] the CMDB, examine health and recent activity, and access various CMDB dashboards and tools to support tasks in your organization.
+    CMDB Workspace is an efficient, central, and modernized way for you to work. Use CMDB Workspace to search and explore the CMDB, examine health and recent activity, and access various CMDB dashboards and tools to support tasks in your organization.
 
 -   **Compliance Workspace**
 
@@ -66,7 +66,7 @@ A workspace is a suite of tools that provides agents, case managers, help desk p
 
 -   **[Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/sow-landing-page.md)**
 
-    Service Operations Workspace is a configurable workspace that provides a unified experience for multiple IT Service Management and IT Operations Management workflows. [[configure-onboarding-modals|Configure]] your agent experience using the easy-to-navigate interface of Service Operations Workspace for ITSM.
+    Service Operations Workspace is a configurable workspace that provides a unified experience for multiple IT Service Management and IT Operations Management workflows. Configure your agent experience using the easy-to-navigate interface of Service Operations Workspace for ITSM.
 
 -   **Service Operations Workspace for ITOM**
 
@@ -76,7 +76,4 @@ A workspace is a suite of tools that provides agents, case managers, help desk p
 
     Manage and maintain the productivity of your workforce from a single location using Workforce Optimization for ITSM. Using this application, you can efficiently manage your team's skills and schedules, route work assignments to your team, and monitor their performance.
 
-## Related
 
-- [[exploring|Explore]]
-- [[configure-onboarding-modals|Configure]]

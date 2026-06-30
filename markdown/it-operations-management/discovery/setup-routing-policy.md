@@ -14,7 +14,7 @@ breadcrumb: [Automated certificate management for TLS certificates, Configuring 
 
 # Set up routing policy for automated certificate management
 
-Set up a routing policy to automate your [[cert-inventory-mgmt|Certificate Inventory and Management]]. Creating a policy based on Certificate Authority \(CA\), environment, and other features ensures efficient TLS certificate management.
+Set up a routing policy to automate your Certificate Inventory and Management. Creating a policy based on Certificate Authority \(CA\), environment, and other features ensures efficient TLS certificate management.
 
 ## Before you begin
 
@@ -102,7 +102,7 @@ The approval group is assigned to the routing policy and contains the role: pki\
 
 The following knowledge base articles guide you through the process of producing the credentials required and configuring routing policies for different certificate authorities:
 
-For Digicert, see [\[Digicert\] Configure [[automated-cert-requests|automated certificate management for TLS certificates]] \[KB2166364\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2166364).
+For Digicert, see [\[Digicert\] Configure automated certificate management for TLS certificates \[KB2166364\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2166364).
 
 For Entrust, see [\[Entrust\] Configure automated certificate management for TLS certificates \[KB2173533\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2173533).
 
@@ -110,7 +110,3 @@ For Let's Encrypt, see [\[Let's Encrypt - ACME\] Configure automated certificate
 
 For Microsoft CA, see [\[Microsoft CA\] Configure automated certificate management for TLS certificates \[KB2198094\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2198094).
 
-## Related
-
-- [[cert-inventory-mgmt|Certificate Inventory and Management]]
-- [[automated-cert-requests|Automated certificate management for TLS certificates]]

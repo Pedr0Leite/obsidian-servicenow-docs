@@ -14,7 +14,7 @@ breadcrumb: [Customizing your map configuration for Azure DevOps integration, Se
 
 # Create a business rule to apply a custom table map configuration
 
-Create a business rule to enable export from your new custom map configuration of an [[agile-landing-page|Agile Development 2.0]] table to your Azure DevOps projects.
+Create a business rule to enable export from your new custom map configuration of an Agile Development 2.0 table to your Azure DevOps projects.
 
 ## Before you begin
 
@@ -66,6 +66,3 @@ Select the table in Agile Development 2.0 for which you've created the custom ma
 
 **Parent Topic:**[Customizing your map configuration for Azure DevOps integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/microsoft-azure-devops-integrations-comm/customizing-map-config-agile-azure.md)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]

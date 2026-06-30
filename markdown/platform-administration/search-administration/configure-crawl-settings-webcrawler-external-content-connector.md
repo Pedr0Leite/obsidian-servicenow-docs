@@ -15,7 +15,7 @@ breadcrumb: [Webcrawler external content connector, Configure, External Content 
 
 # Configure crawl settings for a Webcrawler external content connector
 
-Specify the pages and subdomains you want your [[webcrawler-external-content-connector|Webcrawler external content connector]] to retrieve from your specified web source.
+Specify the pages and subdomains you want your Webcrawler external content connector to retrieve from your specified web source.
 
 ## Before you begin
 
@@ -35,7 +35,7 @@ Each Webcrawler connector can retrieve up to 50,000 items \(URLs\) from its sour
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ext-cont-connectors-landing-page|External Content Connectors]]** &gt; **External Content Admin Home**.
+1.  Navigate to **All** &gt; **External Content Connectors** &gt; **External Content Admin Home**.
 
 2.  In the Connectors list, select the record for the Webcrawler external content connector whose settings you want to modify.
 
@@ -68,7 +68,7 @@ Each Webcrawler connector can retrieve up to 50,000 items \(URLs\) from its sour
 
     As an example, you might enter `*contact*` to exclude pages and subdomains with URLs that match the specified URL wildcard expression.
 
-8.  If you want [[ia-ai-search|AI Search]] to automatically generate captions for content in attachments and files retrieved by the connector, select the **Multimodal captions** option.
+8.  If you want AI Search to automatically generate captions for content in attachments and files retrieved by the connector, select the **Multimodal captions** option.
 
     When you select this option, the Platform Multimodal Service automatically generates descriptive captions for images, tables, charts, and other visual elements found in retrieved attachments and files. You can discover these retrieved attachments and files by searching for terms from their generated captions.
 
@@ -89,8 +89,3 @@ To retrieve content from the public web source using your modified crawl setting
 
 **Parent Topic:**[Webcrawler external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/webcrawler-external-content-connector.md)
 
-## Related
-
-- [[webcrawler-external-content-connector|Webcrawler external content connector]]
-- [[ext-cont-connectors-landing-page|External Content Connectors]]
-- [[ia-ai-search|AI Search]]

@@ -14,7 +14,7 @@ breadcrumb: [CI relations formatter, CI relationships in the CMDB, Configuration
 
 # Create or edit a relationship filter
 
-Create a custom relationship filter to display CI relationships from selected tables in the [[c_CIRelationsFormatterNG|CI relations formatter]].
+Create a custom relationship filter to display CI relationships from selected tables in the CI relations formatter.
 
 ## Before you begin
 
@@ -45,13 +45,9 @@ The CI relations formatter displays related CIs for the base CI, and the relatio
 
 On a CI form, in the relations formatter settings, you can select the newly defined relationship filter from the **Filter Relations by CMDB View** list.
 
-In the [[r_LegacyCIRelationsFormatter|legacy CI relations formatter]], you can click **View** and select the newly defined relationship filter.
+In the legacy CI relations formatter, you can click **View** and select the newly defined relationship filter.
 
 After you select a filter, the relations formatter displays only CIs from the tables specified in the filter or from descending tables.
 
 **Parent Topic:**[CI relations formatter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CIRelationsFormatterNG.md)
 
-## Related
-
-- [[c_CIRelationsFormatterNG|CI relations formatter]]
-- [[r_LegacyCIRelationsFormatter|Legacy CI relations formatter]]

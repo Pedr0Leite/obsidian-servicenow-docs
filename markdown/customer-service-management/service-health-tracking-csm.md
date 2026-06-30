@@ -12,7 +12,7 @@ breadcrumb: [Using Proactive Customer Service Operations, Automate and optimize,
 
 # Track the service health of install base items in Agent Workspace
 
-Track the operational status of [[install-base-item|install base items]] belonging to an account, to better correlate customer issues and provide faster responses.
+Track the operational status of install base items belonging to an account, to better correlate customer issues and provide faster responses.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_customerservice\_agent or sn\_customerservice\_manager
 
 ## About this task
 
-The service health status provides you with visibility into the service health of a customer's install base items. The service health status is based on the severity of the impacted services being monitored at the Network Operations Center. Refresh the service health status on the Account and Case [[migration-forms|forms]] to access the real-time health status of install base items.
+The service health status provides you with visibility into the service health of a customer's install base items. The service health status is based on the severity of the impacted services being monitored at the Network Operations Center. Refresh the service health status on the Account and Case forms to access the real-time health status of install base items.
 
 As a customer service agent, you can view the service health status of install base items in a case or a customer account.
 
@@ -28,13 +28,13 @@ As a customer service agent, you can view the service health status of install b
 
 1.  Open your workspace.
 
-2.  Navigate to **[[migration-lists|Lists]]**.
+2.  Navigate to **Lists**.
 
 3.  Click an account or a case.
 
-4.  To refresh the health status of install base items on both the Account and [[r_CustomerServiceCaseForm|Case form]], click **Refresh Install Base Health**.
+4.  To refresh the health status of install base items on both the Account and Case form, click **Refresh Install Base Health**.
 
-5.  To view the health status of an install base item on the [[customer-service-account-form|Account form]], click the **Install Base Items** related list.
+5.  To view the health status of an install base item on the Account form, click the **Install Base Items** related list.
 
 6.  To view the health status of an affected install base item on the Case form, click the **Affected Install Base Items** related list.
 
@@ -42,13 +42,5 @@ As a customer service agent, you can view the service health status of install b
 **Related topics**  
 
 
-[[service-health-pcso|Service health status for install base]]
+[Service health status for install base](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/service-health-pcso.md)
 
-## Related
-
-- [[service-health-pcso|Service health status for install base]]
-- [[install-base-item|Install base items]]
-- [[migration-forms|Forms]]
-- [[migration-lists|Lists]]
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[customer-service-account-form|Account form]]

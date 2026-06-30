@@ -23,7 +23,7 @@ Role required: sn\_itom\_license.reader
 
 ## About this task
 
-ServiceNow incurs charges for the usage of ServiceNow OT Foundation, ServiceNow OT Visibility and ServiceNow OT Vulnerability and Response. To gain a deeper understanding of the products and features included in OTM subscriptions, see [[otm-license-module|Subscriptions for OTM]].
+ServiceNow incurs charges for the usage of ServiceNow OT Foundation, ServiceNow OT Visibility and ServiceNow OT Vulnerability and Response. To gain a deeper understanding of the products and features included in OTM subscriptions, see [Subscriptions for OTM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/otm-license-module.md).
 
 The procedure for gathering and consolidating data for licensing purposes involves the following series of actions:
 
@@ -60,6 +60,4 @@ You can access OTM Subscription Unit \(SU\) consumption categorized by domain. T
 
     If needed, you can modify the view by sorting the columns. The **Created** column displays the timestamp indicating when the CI information was most recently updated.
 
-## Related
 
-- [[otm-license-module|Subscriptions for OTM]]

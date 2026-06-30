@@ -14,7 +14,7 @@ breadcrumb: [Install and configure Security Incident Response, Security Incident
 
 # Other additional Security Incident Response setup tasks
 
-If you are an administrator in the global domain, you configure how [[sir-landing-page|Security Incident Response]] handles day-to-day operations.
+If you are an administrator in the global domain, you configure how Security Incident Response handles day-to-day operations.
 
 ## Before you begin
 
@@ -166,7 +166,7 @@ Assign requests or tasks based on assignment group coverage areas
 
 </td><td>
 
-Enable this option to limit the assignment of security incidents and response tasks to groups that cover the [[location|location]] of the task.
+Enable this option to limit the assignment of security incidents and response tasks to groups that cover the location of the task.
 
 </td></tr><tr><td colspan="2">
 
@@ -569,7 +569,3 @@ Zurich
 
 [Quick start tests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/quick-start-tests.md)
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[location|Location]]

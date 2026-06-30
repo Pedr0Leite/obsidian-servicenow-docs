@@ -14,7 +14,7 @@ breadcrumb: [Reference, Manager Hub, HR Service Delivery, Employee Service Manag
 
 # Create a conversation form
 
-Use the Create a conversation form to schedule a conversation with an employee when the Microsoft Outlook integration isn’t enabled for [[manager-hub-overview|Manager Hub]].
+Use the Create a conversation form to schedule a conversation with an employee when the Microsoft Outlook integration isn’t enabled for Manager Hub.
 
 <table id="table_a3r_m54_4cc"><thead><tr><th>
 
@@ -104,16 +104,11 @@ Close this conversation.
 
 [Default configurations for To do's]()
 
-[Default [[proactive-prompts-for-hrsd|proactive prompts]] for Manager Hub]()
+[Default proactive prompts for Manager Hub]()
 
 [Use the View menu icon in Manager Hub]()
 
-[Assign [[exploring-learning-exp|learning]] form]()
+[Assign learning form]()
 
 [Schedule a conversation form]()
 
-## Related
-
-- [[manager-hub-overview|Manager Hub]]
-- [[proactive-prompts-for-hrsd|Proactive Prompts]]
-- [[exploring-learning-exp|Learning]]

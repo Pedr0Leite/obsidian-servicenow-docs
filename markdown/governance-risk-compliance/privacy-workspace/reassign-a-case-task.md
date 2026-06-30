@@ -36,7 +36,7 @@ As a case task owner, you can also accept the task, start working on it, and the
 
 ## Procedure
 
-1.  Navigate to **Self Service** &gt; **[[employee-center|Employee Center]]**.
+1.  Navigate to **Self Service** &gt; **Employee Center**.
 
 2.  Access your task from the **My tasks** module.
 
@@ -55,6 +55,3 @@ As a case task owner, you can also accept the task, start working on it, and the
 
 **Parent Topic:**[Work on a case task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/accept-a-case-task.md)
 
-## Related
-
-- [[employee-center|employee center]]

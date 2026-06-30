@@ -18,9 +18,9 @@ Dashboard and charts on the Cisco ThousandEyes Observability tab of the Service 
 
 ## Synthetic Tests dashboard
 
-This dashboard displays [[synthetic-monitoring-landing-page|synthetic monitoring]] metrics for the selected service.
+This dashboard displays synthetic monitoring metrics for the selected service.
 
-**Note:** If the [[otto-aiops-dashboards|dashboards]] have been customized, they might not reflect the information shown on this page.
+**Note:** If the dashboards have been customized, they might not reflect the information shown on this page.
 
 |Chart|Description|Data source|
 |-----|-----------|-----------|
@@ -40,7 +40,3 @@ This dashboard displays [[synthetic-monitoring-landing-page|synthetic monitoring
 
 **Parent Topic:**[Cisco ThousandEyes templates for Service Observability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/cisco-thousand-eyes-templates-for-service-observability.md)
 
-## Related
-
-- [[synthetic-monitoring-landing-page|Synthetic monitoring]]
-- [[otto-aiops-dashboards|Dashboards]]

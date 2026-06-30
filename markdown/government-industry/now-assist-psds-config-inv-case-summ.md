@@ -12,7 +12,7 @@ breadcrumb: [Activate Now Assist skills, Configure, Now Assist for PSDS, Public 
 
 # Configure the Investigative case summarization skill in Now Assist for Public Sector Digital Services \(PSDS\)
 
-Activate and customize the Investigative case summarization skill in the [[now-assist-for-psds|Now Assist for Public Sector Digital Services \(PSDS\)]] application so that investigators can use the generative AI skills in CSM Configurable Workspace and in Public Sector Digital Services Core UI.
+Activate and customize the Investigative case summarization skill in the Now Assist for Public Sector Digital Services \(PSDS\) application so that investigators can use the generative AI skills in CSM Configurable Workspace and in Public Sector Digital Services Core UI.
 
 ## Before you begin
 
@@ -76,6 +76,4 @@ Activate and customize the Investigative case summarization skill in the [[now-a
 
     \[Omitted image "psds-doc-screening-skill-activated.png"\] Alt text: Document screening Al skill is active.
 
-## Related
 
-- [[now-assist-for-psds|Now Assist for Public Sector Digital Services \(PSDS\)]]

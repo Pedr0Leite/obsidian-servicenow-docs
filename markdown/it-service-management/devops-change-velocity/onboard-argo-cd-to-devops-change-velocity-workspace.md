@@ -14,7 +14,7 @@ breadcrumb: [Argo CD, Integrate, DevOps Change Velocity, IT Service Management]
 
 # Onboard Argo CD to DevOps Change Velocity – Workspace
 
-Connect to your Argo CD instance using the DevOps Change Workspace playbook to automate the deployment of [[dex-workspace-application-tab|applications]] from GitHub repositories.
+Connect to your Argo CD instance using the DevOps Change Workspace playbook to automate the deployment of applications from GitHub repositories.
 
 ## Before you begin
 
@@ -115,11 +115,7 @@ Steps
 
 ## Result
 
-You’ve successfully onboarded your Argo CD tool to [[devops-landing-page-new|DevOps Change Velocity]].
+You’ve successfully onboarded your Argo CD tool to DevOps Change Velocity.
 
 **Parent Topic:**[Argo CD integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/argo-cd-integration-with-devops-change-velocity.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[devops-landing-page-new|DevOps Change Velocity]]

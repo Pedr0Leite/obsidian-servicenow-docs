@@ -14,9 +14,9 @@ breadcrumb: [Using Lifecycle Events, Lifecycle Events, Employee Journey Manageme
 
 # Lifecycle Events employee requests
 
-You can create and track requests that are opened by users from within [[hr-lifecycle-events-landing-page-1|Lifecycle Events]] so that your users don't have to create a new HR case or request. Requests from your users can be either an HR service or a catalog item.
+You can create and track requests that are opened by users from within Lifecycle Events so that your users don't have to create a new HR case or request. Requests from your users can be either an HR service or a catalog item.
 
-If you have the sn\_hr\_le.admin or admin role, you can configure employee requests from the Human Resources \(HR\) app. Your users can open requests in the [[employee-center-landing-page|Employee Center]] from an [[activity-lxp|activity]] set that is assigned to them.
+If you have the sn\_hr\_le.admin or admin role, you can configure employee requests from the Human Resources \(HR\) app. Your users can open requests in the Employee Center from an activity set that is assigned to them.
 
 -   **[Configure Lifecycle Events employee requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/configure-employee-request.md)**  
 Enable your managers and employees to open employee requests directly from Lifecycle events so that they don't have to create a new HR case or request.
@@ -27,8 +27,3 @@ Enable your users to create common requests from Lifecycle Events so that they d
 
 **Parent Topic:**[Using Lifecycle Events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/using-lifecycle-events.md)
 
-## Related
-
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[employee-center-landing-page|Employee Center]]
-- [[activity-lxp|Activity]]

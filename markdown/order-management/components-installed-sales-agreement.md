@@ -12,7 +12,7 @@ breadcrumb: [Configure, price, quote, Reference, Sales Customer Relationship Man
 
 # Components installed with Sales Agreement Management
 
-Several types of components are installed with activation of the [[sales-agreement-mgmt|Sales Agreement Management]] plugins, including tables and user roles.
+Several types of components are installed with activation of the Sales Agreement Management plugins, including tables and user roles.
 
 ## Roles installed
 
@@ -78,9 +78,5 @@ sn\_sales\_agmt\_core.sales\_agreement\_viewer
 |sn\_sales\_agmt\_core\_line\_characteristic|Stores the attributes of products and services to be sold.|
 |sn\_sales\_agmt\_core\_line\_adjustment|Stores the adjustments applied during negotiation.|
 
-**Parent Topic:**[[reference-cpq|Configure, price, quote reference]]
+**Parent Topic:**[Configure, price, quote reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/reference-cpq.md)
 
-## Related
-
-- [[reference-cpq|Configure, price, quote reference]]
-- [[sales-agreement-mgmt|Sales Agreement Management]]

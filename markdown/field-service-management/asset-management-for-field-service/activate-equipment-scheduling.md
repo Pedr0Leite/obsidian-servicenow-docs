@@ -14,11 +14,11 @@ breadcrumb: [Resource Scheduling, Inventory and asset management, Configure, Fie
 
 # Activate Resource Scheduling
 
-You can activate the Resource Scheduling plugin \(com.snc.fsm\_resource\_scheduling\) for [[fsm-application-landing-page|Field Service Management]] if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can activate the Resource Scheduling plugin \(com.snc.fsm\_resource\_scheduling\) for Field Service Management if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
-Field Service Resource Scheduling requires the [[field-service-crew-scheduling|Field Service Crew Operations]] \(com.snc.fsm\_crew\_scheduling\) plugin. For more information about activating Field Service Crew Operations, see [Activate Field Service Crew Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/activate-fsm-crew-scheduling.md). Ensure that these plugins are activated before you install Field Service Resource Scheduling.
+Field Service Resource Scheduling requires the Field Service Crew Operations \(com.snc.fsm\_crew\_scheduling\) plugin. For more information about activating Field Service Crew Operations, see [Activate Field Service Crew Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/activate-fsm-crew-scheduling.md). Ensure that these plugins are activated before you install Field Service Resource Scheduling.
 
 Role required: admin
 
@@ -40,7 +40,4 @@ Role required: admin
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
-## Related
 
-- [[fsm-application-landing-page|Field Service Management]]
-- [[field-service-crew-scheduling|Field Service Crew Operations]]

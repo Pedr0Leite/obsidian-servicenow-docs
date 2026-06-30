@@ -14,7 +14,7 @@ breadcrumb: [Crew operations, Using Dispatcher Workspace, Assigning tasks from D
 
 # Assign work order tasks to crews on Dispatcher Workspace
 
-Assign crews to a work order task that requires a crew of agents in [[dispatcher-activities|Dispatcher Workspace]].
+Assign crews to a work order task that requires a crew of agents in Dispatcher Workspace.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ If you’re scheduling a task across multiple schedule entries or days, a work s
 
 **Note:** If the crew schedule hasn’t been defined and you’re auto-assigning a task, the default schedule is used.
 
-If you want to [[assign-wot-crew-operations|assign work order tasks to crews]] in the territories that best match their location, you must enable the following options:
+If you want to assign work order tasks to crews in the territories that best match their location, you must enable the following options:
 
 -   The Field Service territory model, **Field\_Service\_Territories**. For more information, see [Enable the Field Service territory model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/enable-territory-model.md).
 -   The **Territory** option in Dispatcher Workspace must be enabled to view the territory information in the task card and the agent card. For more information, see [Enable Dispatcher Workspace settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/dispatcher-wrkspc-settings.md).
@@ -46,7 +46,7 @@ If the Territory Planning plugin is active and Territory Model is enabled, addit
 Task assignment methods:
 
 1.  Manual Assignment: The dispatcher selects the best crew for the task, verifying their effective dates align with the task window start and end dates. The dispatcher also checks agent availability within the crew based on their territory membership dates.
-2.  Dynamic Assignment: [[dynamic-scheduling|Dynamic Scheduling]] automatically assigns tasks to crews based on factors like territory alignment, crew availability, agent skills, and task requirements. If a suitable crew exists, it’s assigned the task. Otherwise, a new crew is created. When the dynamically created crew is assigned for a work order task within a territory, the crew membership is updated and appears in the Crew Membership related list of the territory.
+2.  Dynamic Assignment: Dynamic Scheduling automatically assigns tasks to crews based on factors like territory alignment, crew availability, agent skills, and task requirements. If a suitable crew exists, it’s assigned the task. Otherwise, a new crew is created. When the dynamically created crew is assigned for a work order task within a territory, the crew membership is updated and appears in the Crew Membership related list of the territory.
 
 When scheduling tasks for multiple days:
 
@@ -167,8 +167,3 @@ Description
 
 The task is assigned to the crew. All crew members receive a push notification that the work order task is assigned. The Task Assignees related list is added to the work order task. The list displays the names of crew members, which include both the leader of the crew and the agents in the crew.
 
-## Related
-
-- [[dispatcher-activities|Dispatcher Workspace]]
-- [[assign-wot-crew-operations|Assign work order tasks to crews]]
-- [[dynamic-scheduling|Dynamic scheduling]]

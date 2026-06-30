@@ -16,7 +16,7 @@ Refreshing a Salesforce org severs the database sync between CPQ and Salesforce.
 
 When a CPQ connected Salesforce org is refreshed, the database sync between CPQ and Salesforce will be temporarily broken. This is because a refresh automatically changes many pieces of the Salesforce org, including the Salesforce org ID, product IDs, and user names.
 
-These ID changes are used for many integration points between the two systems, such as the Refresh Token User [[logik_io_runtime_apis|Runtime APIs]] that depend on a User ID, the product, the Pricebook, Pricebook entry sync, and the [[please_share_your_feedback_on_admin_assist_responses|user access]] set up for the CPQ Admin.
+These ID changes are used for many integration points between the two systems, such as the Refresh Token User Runtime APIs that depend on a User ID, the product, the Pricebook, Pricebook entry sync, and the user access set up for the CPQ Admin.
 
 To complete the CPQ side of the refresh, create a support case by using the [ServiceNow Support portal](https://support.servicenow.com). For step-by-step instructions, see [Create a case on Now Support for CPQ \(Logik.ai\) Customers](https://support.servicenow.com/kb?sys_kb_id=d67d3e71475d7a90f64de825126d4326&id=kb_article_view).
 
@@ -36,7 +36,7 @@ When you submit the support case, provide the following information:
 Once the environment is refreshed, you will need to:
 
 -   Send the new SFDC org ID
--   Navigate to Salesforce Setup &gt; Custom Settings &gt; Manage Logik tenant and [[Modify|modify]] the CPQ URLs.
+-   Navigate to Salesforce Setup &gt; Custom Settings &gt; Manage Logik tenant and modify the CPQ URLs.
 
     Navigate to SFDC &gt; Setup &gt; Custom Settings &gt; Manage CPQ Tenant &gt; Edit, and change the Runtime Configuration URL and Administration URL.
 
@@ -52,8 +52,4 @@ Once the environment is refreshed, you will need to:
 
     Navigate to CPQ Admin &gt; Runtime Clients, and create the new clients.
 
-## Related
 
-- [[logik_io_runtime_apis|Runtime APIs]]
-- [[please_share_your_feedback_on_admin_assist_responses|User access]]
-- [[Modify|Modify]]

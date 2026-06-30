@@ -12,7 +12,7 @@ breadcrumb: [Record pages and page templates, CSM Configurable Workspace, Organi
 
 # Creating pages and page variants
 
-You can create new pages or customize existing pages in UI Builder to display table and record information in [[csm-workspaces-configure|CSM Configurable Workspace]].
+You can create new pages or customize existing pages in UI Builder to display table and record information in CSM Configurable Workspace.
 
 When you create a page in UI Builder, you have the option to create a page from scratch, create a page from a template, or you can duplicate and modify a page variant.
 
@@ -110,7 +110,7 @@ When you create a page from a template, you start with a base structure, includi
 -   The page includes basic settings.
 -   The first variant of the page is also created. You can add settings such as conditions and audience to the variant.
 
-For example, when you create a page from the [[csm-front-line-case-page|Front-line case page]] template, the page includes only basic settings. It does not include the same settings as the Front-line case page variant that is provided out of box.
+For example, when you create a page from the Front-line case page template, the page includes only basic settings. It does not include the same settings as the Front-line case page variant that is provided out of box.
 
 </td></tr><tr><td>
 
@@ -144,7 +144,7 @@ The system chooses a record page by evaluating the settings on the available act
 -   If there is an active page with one or more conditions and those conditions are met, the system chooses that page.
 -   If there are two active pages with the same conditions, the system chooses the page with the lowest order value.
 
-For more information, see [[config-csm-ws-set-record-page-order|Set record page order]].
+For more information, see [Set record page order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-csm-ws-set-record-page-order.md).
 
 **Related topics**  
 
@@ -153,8 +153,3 @@ For more information, see [[config-csm-ws-set-record-page-order|Set record page 
 
 [Create a Configurable Workspace page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/create-configurable-workspace-page-uib.md)
 
-## Related
-
-- [[config-csm-ws-set-record-page-order|Set record page order]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[csm-front-line-case-page|Front-line case page]]

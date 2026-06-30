@@ -392,7 +392,7 @@ Minimal number of CIs on a map to apply CI grouping. Relevant only if CI groupin
 
 </td></tr><tr><td>
 
-Render full labels on CIs on map. Applicable to all CI labels \(CI name, host name, cluster [[label|label]], etc.\) Enabling this will disable labels truncation, and labels will most probably overlap with other map elements. Not applicable to network/storage path maps.
+Render full labels on CIs on map. Applicable to all CI labels \(CI name, host name, cluster label, etc.\) Enabling this will disable labels truncation, and labels will most probably overlap with other map elements. Not applicable to network/storage path maps.
 
  sncCommonMap.RENDER\_FULL\_LABELS
 
@@ -452,7 +452,3 @@ List of application service CI classes. If an application service belongs to a C
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[label|Label]]

@@ -16,7 +16,7 @@ breadcrumb: [Working with playbooks, Use, Sourcing and Procurement Operations, F
 
 Reduce manual effort by providing your procurement specialist with a playbook for attaching the contract from and sending it as an email to the employee who requested for it.
 
-If an employee requires a copy of a contract they have access to, they can submit a request for the same from Employee Center by navigating to **Purchase and expense** &gt; **Purchase Requests** &gt; **Request a copy of contract**. A procurement case of type Request a copy of contract is created for the procurement specialist to work on, in [[purch-order-mgmt-ws|Source-to-Pay Workspace]].​ The procurement specialist can attach a copy of the contract from a playbook and send it as an email to the employee who requested for it. This reduces a lot of manual effort and provides the procurement specialist a single place to perform all the necessary actions.​
+If an employee requires a copy of a contract they have access to, they can submit a request for the same from Employee Center by navigating to **Purchase and expense** &gt; **Purchase Requests** &gt; **Request a copy of contract**. A procurement case of type Request a copy of contract is created for the procurement specialist to work on, in Source-to-Pay Workspace.​ The procurement specialist can attach a copy of the contract from a playbook and send it as an email to the employee who requested for it. This reduces a lot of manual effort and provides the procurement specialist a single place to perform all the necessary actions.​
 
 -   **[Fulfill request for copy of contract in playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/fulfill-request-for-contract-playbook.md)**  
 Attach a copy of the contract from a playbook and send it as an email to the employee who requested for it.
@@ -26,9 +26,9 @@ Attach a copy of the contract from a playbook and send it as an email to the emp
 **Related topics**  
 
 
-[Process a [[purchase-order-table|purchase order]] edit in playbook]()
+[Process a purchase order edit in playbook]()
 
-[Process a [[purchase-requisition|purchase requisition]] edit request in playbook]()
+[Process a purchase requisition edit request in playbook]()
 
 [Process a return request in playbook]()
 
@@ -44,11 +44,5 @@ Attach a copy of the contract from a playbook and send it as an email to the emp
 
 [Sourcing intake guided experience with playbooks]()
 
-[Streamlining the [[supplier|supplier]] risk assessment workflow]()
+[Streamlining the supplier risk assessment workflow]()
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[purchase-order-table|Purchase order]]
-- [[purchase-requisition|Purchase requisition]]
-- [[supplier|Supplier]]

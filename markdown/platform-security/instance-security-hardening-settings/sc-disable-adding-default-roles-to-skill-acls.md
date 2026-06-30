@@ -14,9 +14,9 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 # Disable Adding Default Roles to Skill ACLs
 
-Use [[ca-system-properties|system properties]] to control what roles are automatically added to generative AI skill ACLs.
+Use system properties to control what roles are automatically added to generative AI skill ACLs.
 
-Use the **com.glide.one\_extend.include\_default\_roles\_for\_skill\_acl** system property to control whether roles are automatically added to generative AI skill ACLs when they’re created or updated via the global.GenAiSkilSecurityUtils API. This property is used by the Now Assist Skill Kit \(NASK\) to enforce consistent security [[ca-policies|policies]] across all AI skills.
+Use the **com.glide.one\_extend.include\_default\_roles\_for\_skill\_acl** system property to control whether roles are automatically added to generative AI skill ACLs when they’re created or updated via the global.GenAiSkilSecurityUtils API. This property is used by the Now Assist Skill Kit \(NASK\) to enforce consistent security policies across all AI skills.
 
 When a skill ACL is inserted or updated, the default roles defined in the **com.glide.one\_extend.default\_roles\_for\_skill\_acl** system property are automatically included. This addition ensures that certain privileged roles always have access to execute the skills. The **com.glide.one\_extend.default\_roles\_for\_skill\_acl** property may contain a comma-separated list of roles.
 
@@ -34,7 +34,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -104,7 +104,7 @@ Functional impact
 
 </td><td>
 
-Certain roles may be prevented from using skills if they don’t satisfy an existing [[sc-access-control|access control]]. These two property configurations ensure certain roles retain a base level of access to all skills.
+Certain roles may be prevented from using skills if they don’t satisfy an existing access control. These two property configurations ensure certain roles retain a base level of access to all skills.
 
 </td></tr><tr><td>
 
@@ -117,9 +117,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[ca-system-properties|System properties]]
-- [[ca-policies|Policies]]
-- [[sc-configuration|Configuration]]
-- [[sc-access-control|Access control]]

@@ -14,7 +14,7 @@ breadcrumb: [Reference, Retail Task Management, Retail]
 
 # Components installed with Retail Task Management
 
-Several types of components such as tables, user roles, and business rule are installed when you activate the [[rahi-retail-task-management-overview|Retail Task Management]] plugin.
+Several types of components such as tables, user roles, and business rule are installed when you activate the Retail Task Management plugin.
 
 ## Plugins installed with Retail Task Management Core
 
@@ -28,7 +28,7 @@ Several types of components such as tables, user roles, and business rule are in
 
 </td></tr><tr><td>
 
-[[rahi-retail-operations-overview|Retail]] core
+Retail core
 
  com.sn\_retail\_core
 
@@ -53,7 +53,3 @@ If Retail Core is already installed, then only the **com.sn\_multi\_case\_creati
 
 **Parent Topic:**[Retail Task Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/rahi-retail-task-management-reference.md)
 
-## Related
-
-- [[rahi-retail-task-management-overview|Retail Task Management]]
-- [[rahi-retail-operations-overview|Retail]]

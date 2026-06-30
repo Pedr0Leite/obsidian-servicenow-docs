@@ -41,7 +41,7 @@ In the base system, the following roles provide access to application services:
     Views maps for operational service instances and retrieves service content using the getContent - GET REST API. The itil role that serves as the basic helpdesk technician role contains the app\_service\_user role.
 
 
-[[c_ServiceMappingOverview|Service Mapping]] provides these preconfigured roles:
+Service Mapping provides these preconfigured roles:
 
 -   **service\_mapping\_admin**
 
@@ -58,7 +58,7 @@ In the base system, the following roles provide access to application services:
 
 **Note:** Users with the sn\_cmdb\_editor or itil role only can view all service instances.
 
-[[c_EM|Event Management]] provides these preconfigured roles:
+Event Management provides these preconfigured roles:
 
 -   **evt\_mgmt\_admin**
 
@@ -83,7 +83,7 @@ Users inherit permissions from roles that are assigned to them. You can assign s
 
 \[Omitted image "AccessToBusinessServiceGroups.png"\] Alt text: Assigning a role to an service instance group for user access
 
-By default, all new services are assigned to the **All** service group that lets all users view and manage service instances. When you [[t_EMAssignRoleSvcGroup|assign a role to a service group]], the users with this role can access service instances in this service group and in the **All** service group. To enable users with this role to access other services, assign this role to the respective service group. Do not assign user roles directly to the **All** service group.
+By default, all new services are assigned to the **All** service group that lets all users view and manage service instances. When you assign a role to a service group, the users with this role can access service instances in this service group and in the **All** service group. To enable users with this role to access other services, assign this role to the respective service group. Do not assign user roles directly to the **All** service group.
 
 ## Procedure
 
@@ -143,13 +143,7 @@ As a result, only users with the Financial Services administrator role can acces
 
 [Group application services]()
 
-[Schedule a top-down [[r-discovery|discovery]] by Service Mapping]()
+[Schedule a top-down discovery by Service Mapping]()
 
 [Service definition transfer from one instance to another]()
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[c_EM|Event Management]]
-- [[t_EMAssignRoleSvcGroup|Assign a role to a service group]]
-- [[r-discovery|Discovery]]

@@ -14,7 +14,7 @@ breadcrumb: [Overriding default binding, Binding alerts to CIs, Event rules, Pro
 
 # Bind alerts to CIs using CI identification
 
-Bind alerts to specific applications on hosts using [[create-event-rules|event rules]] to ensure accurate tracking and to improve issue resolution speed—leading to efficient [[ccg-remediation|remediation]] and better alignment of alerts with the right resources.
+Bind alerts to specific applications on hosts using event rules to ensure accurate tracking and to improve issue resolution speed—leading to efficient remediation and better alignment of alerts with the right resources.
 
 ## Before you begin
 
@@ -53,7 +53,7 @@ If a matching Microsoft IIS Web Server CI is found on the identified host, the a
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Rules** &gt; **Event Rules**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Rules** &gt; **Event Rules**.
 
 2.  Select **New** and complete the required fields of the event rule.
 
@@ -96,8 +96,4 @@ If a matching Microsoft IIS Web Server CI is found on the identified host, the a
 
 12. Select **Save**.
 
-## Related
 
-- [[create-event-rules|Event rules]]
-- [[ccg-remediation|Remediation]]
-- [[c_EM|Event Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Entity tiers, Explore entities, Common GRC features, Governance, Ri
 
 # Create an entity tier
 
-Create an entity tier for the [[entity-class-in-risk-ws|entity classes]] in your organization. When you create [[entity-tier-in-risk-ws|entity tiers]], you can apply a level or hierarchy to the entity classes. The hierarchy level applies to all the entities associated with the entity classes.
+Create an entity tier for the entity classes in your organization. When you create entity tiers, you can apply a level or hierarchy to the entity classes. The hierarchy level applies to all the entities associated with the entity classes.
 
 ## Before you begin
 
@@ -22,13 +22,13 @@ Roles required: sn\_grc.admin
 
 ## Procedure
 
-1.  Navigate to **[[Administration|Administration]]** &gt; **Entity Tiers** in the Core UI.
+1.  Navigate to **Administration** &gt; **Entity Tiers** in the Core UI.
 
     The Entity tiers list is displayed.
 
 2.  Click **New**.
 
-    A Create New [[entity-tier|Entity Tier]] page with the **Details** tab is displayed. The [[breadcrumb-navigation|breadcrumb navigation]] menu is displayed at the top of the page.
+    A Create New Entity Tier page with the **Details** tab is displayed. The breadcrumb navigation menu is displayed at the top of the page.
 
 3.  In the **Details** tab, fill in the fields.
 
@@ -44,10 +44,3 @@ Roles required: sn\_grc.admin
 
 **Parent Topic:**[Entity tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/entity-tier-in-risk-ws.md)
 
-## Related
-
-- [[entity-class-in-risk-ws|Entity classes]]
-- [[entity-tier-in-risk-ws|Entity tiers]]
-- [[Administration|Administration]]
-- [[entity-tier|entity tier]]
-- [[breadcrumb-navigation|Breadcrumb navigation]]

@@ -16,13 +16,13 @@ Use the Case Playbook for Onboarding to manage the process for taking on new cus
 
 The onboarding playbook provides the activities and tasks that agents can perform during the onboarding process. Agents can also create and assign tasks as needed and use the playbook to communicate with the customer.
 
-Use the Case Playbook for Onboarding for cases that were created by using the [[onboarding-case-type-overview|onboarding case type]]. This playbook is available for both [[csm-workspaces-configure|CSM Configurable Workspace]] and CSM Agent Workspace. In the CSM Workspaces, the playbook appears in the **Playbook** tab on the case record.
+Use the Case Playbook for Onboarding for cases that were created by using the onboarding case type. This playbook is available for both CSM Configurable Workspace and CSM Agent Workspace. In the CSM Workspaces, the playbook appears in the **Playbook** tab on the case record.
 
 **Note:** If you have the admin role, you can configure a playbook to use compact mode in CSM Configurable Workspace. Use the compact mode to move the playbook from a tab in the Workspace to a tab in the contextual side panel.
 
 ## Case Playbook for Onboarding application
 
-The Case Playbook for Onboarding application \(com.sn\_csm\_onboarding\_caseflow\) is available from the ServiceNow® Store. For more information, see [[setting-up-csm-playbooks|Playbook plugins]].
+The Case Playbook for Onboarding application \(com.sn\_csm\_onboarding\_caseflow\) is available from the ServiceNow® Store. For more information, see [Playbook plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/setting-up-csm-playbooks.md).
 
 ## Case Playbook for onboarding a PAD process definition
 
@@ -49,13 +49,13 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[create-onboarding-case|Create an onboarding case]] using the Case Playbook for Onboarding
+Create an onboarding case using the Case Playbook for Onboarding
 
 </td><td>
 
 Feature that opens the onboarding playbook and initiates the first activity in the Initiate stage, which is gathering the customer information. The agent can complete and save this activity to create the record.
 
- For more information, see [[csm-playbook-create-record|Create a record using a playbook]].
+ For more information, see [Create a record using a playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbook-create-record.md).
 
 </td></tr><tr><td>
 
@@ -65,7 +65,7 @@ Focused activity view
 
 Feature that determines how the stages and activities appear in the playbook.
 
- The Case Playbook for Onboarding uses the [[csm-playbook-layout|Focused activity view]], which enables agents to see
+ The Case Playbook for Onboarding uses the [Focused activity view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbook-layout.md), which enables agents to see
 
 -   The end-to-end life cycle of the onboarding workflow in the playbook life-cycle panel.
 -   The current stage is expanded and the current activity is highlighted within the playbook life-cycle panel.
@@ -79,17 +79,17 @@ Contextual side panel
 
 Feature that displays the following information:
 
--   [[csm-config-ws-activity-stream|Activity stream]]
+-   Activity stream
 -   Ribbon information, such as the case overview, customer details, timeline, and SLAs
--   [[csm-contextual-related-records|Dynamic related records]]
+-   Dynamic related records
 
  The activity stream and ribbon information are available in CSM Configurable Workspace only.
 
  For more information about using the contextual side panel, see the following topics:
 
--   [[csm-playbooks-using-activity-stream|Using activity stream in the contextual side panel]]
--   [[csm-playbooks-viewing-ribbon-info|Viewing the ribbon information in the contextual side panel]]
--   [[csm-playbooks-viewing-rel-records|Viewing dynamic related records in the contextual side panel]]
+-   [Using activity stream in the contextual side panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbooks-using-activity-stream.md)
+-   [Viewing the ribbon information in the contextual side panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbooks-viewing-ribbon-info.md)
+-   [Viewing dynamic related records in the contextual side panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbooks-viewing-rel-records.md)
 
 </td></tr><tr><td>
 
@@ -102,7 +102,7 @@ Feature that enables you to control the activity visibility:
 -   Hide the activities in a stage that the logged-in user can't access.
 -   Hide the pending activities in a stage.
 
- For more information about configuring this feature, see [[playbook-config-activity-visibility|Configure playbook stage and activity visibility]].
+ For more information about configuring this feature, see [Configure playbook stage and activity visibility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/playbook-config-activity-visibility.md).
 
 </td></tr><tr><td>
 
@@ -178,7 +178,7 @@ The activity-level actions can vary depending on the type of activity and in whi
 
 ## Onboarding playbook stages and activities
 
-The following table [[migration-lists|lists]] the Case Playbook for Onboarding stages and activities that agents can use to onboard new customers or products.
+The following table lists the Case Playbook for Onboarding stages and activities that agents can use to onboard new customers or products.
 
 <table id="table_onboarding_case_playbook"><thead><tr><th>
 
@@ -202,11 +202,11 @@ Collect customer information
 
 </td><td>
 
-When an agent creates an onboarding case, the workspace opens the Create New Onboarding [[r_CustomerServiceCaseForm|Case form]], launches the onboarding playbook, and uses the first activity to gather customer information.
+When an agent creates an onboarding case, the workspace opens the Create New Onboarding Case form, launches the onboarding playbook, and uses the first activity to gather customer information.
 
  The agent enters the information about the channel, account, contact, consumer, product, and service.
 
- For more information about the products and services, see [[csm-service-definitions|Service definitions]].
+ For more information about the products and services, see [Service definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-service-definitions.md).
 
  Agent actions:
 
@@ -464,15 +464,15 @@ The Case Playbook for Onboarding v5.0 application includes a process-based page 
 -   Email templates that are displayed in the contextual side panel.
 -   Customization of the start and end states of the approval flow as fields in the Approval request activity.
 
-Agents can create tasks as needed and view and update the case details. For more information, see [[csm-playbook-pages|Playbook pages]].
+Agents can create tasks as needed and view and update the case details. For more information, see [Playbook pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbook-pages.md).
 
 ## Guided Playbook for Onboarding Request
 
-The Case Playbook for onboarding has undergone modifications in [[playbooks-for-portals|Playbooks for Portals]] to expose the initiate stage for self-service. This change will provide the guided playbook intake process to end customers as well, previously available only to agents. The experience is initially shipped as inactive to customers.
+The Case Playbook for onboarding has undergone modifications in Playbooks for Portals to expose the initiate stage for self-service. This change will provide the guided playbook intake process to end customers as well, previously available only to agents. The experience is initially shipped as inactive to customers.
 
 End customers now have visibility into the entire lifecycle of the onboarding application when viewing the case application. They can perform various tasks based on the specific stage of the case lifecycle. This includes submitting new cases, checking the status of existing cases, and taking actions on tasks that require customer input as the case progresses.
 
-[[customer-service-contributor-users|Contributor users]], on the other hand, have the ability to submit cases and act on tasks on behalf of the customer. During the initiate stage of the onboarding case type, end customers have the option to save their progress. Additionally, they can view the case process on the case ticket page specifically designed for onboarding cases. The flows within the system guide users through the step-by-step completion of both simple and complex processes, ensuring a smooth and efficient experience.
+Contributor users, on the other hand, have the ability to submit cases and act on tasks on behalf of the customer. During the initiate stage of the onboarding case type, end customers have the option to save their progress. Additionally, they can view the case process on the case ticket page specifically designed for onboarding cases. The flows within the system guide users through the step-by-step completion of both simple and complex processes, ensuring a smooth and efficient experience.
 
 \[Omitted image "playbook-guided-onboarding-flow.png"\] Alt text: Stages and activities in guided onboarding flow
 
@@ -490,27 +490,6 @@ As customer, you can:
 
 Known limitations:
 
--   If you switch to the new Process Automation Designer \(PAD\) with the existing service definition and the old record generator, you may encounter a configuration error page when attempting to create onboarding from the [[csm-case-type-select-modals|case type selector]]. You need to update the service definition's references as well to the new record generator.
+-   If you switch to the new Process Automation Designer \(PAD\) with the existing service definition and the old record generator, you may encounter a configuration error page when attempting to create onboarding from the case type selector. You need to update the service definition's references as well to the new record generator.
 -   The Portal playbook experience only supports the New PAD. Customers may encounter issues if they attempt to use the old PAD, so it is recommended not to use it. Ensure that only one PAD is active at a given time.
 
-## Related
-
-- [[setting-up-csm-playbooks|Playbooks in Customer Service Management]]
-- [[csm-playbook-create-record|Create a record using a playbook]]
-- [[csm-playbook-layout|Playbook layout and features]]
-- [[csm-playbooks-using-activity-stream|Using the activity stream in the contextual side panel]]
-- [[csm-playbooks-viewing-ribbon-info|Viewing ribbon information in the contextual side panel]]
-- [[csm-playbooks-viewing-rel-records|Viewing dynamic related records in the contextual side panel]]
-- [[playbook-config-activity-visibility|Configure playbook stage and activity visibility]]
-- [[csm-service-definitions|Service definitions]]
-- [[csm-playbook-pages|Playbook pages]]
-- [[onboarding-case-type-overview|Onboarding case type]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[create-onboarding-case|Create an onboarding case]]
-- [[csm-config-ws-activity-stream|Activity stream]]
-- [[csm-contextual-related-records|Dynamic related records]]
-- [[migration-lists|Lists]]
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[playbooks-for-portals|Playbooks for Portals]]
-- [[customer-service-contributor-users|Contributor users]]
-- [[csm-case-type-select-modals|Case type selector]]

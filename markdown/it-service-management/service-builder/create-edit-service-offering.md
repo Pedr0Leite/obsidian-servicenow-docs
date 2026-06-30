@@ -14,7 +14,7 @@ breadcrumb: [Service Builder, IT Service Management]
 
 # Create a service offering in Service Builder
 
-Create a service offering to define and view the products or [[dex-workspace-application-tab|applications]] that make up your service in [[service-builder|Service Builder]].
+Create a service offering to define and view the products or applications that make up your service in Service Builder.
 
 ## Before you begin
 
@@ -36,7 +36,7 @@ To create a service and service offering, you must be assigned the service\_auth
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[SPM2-landing-page|Service Portfolio Management]]** &gt; **Service Builder**.
+1.  Navigate to **All** &gt; **Service Portfolio Management** &gt; **Service Builder**.
 
 2.  To add or edit a service offering, select the service and then select the **Manage offerings** tab.
 
@@ -170,7 +170,7 @@ Change group
 
 </td><td>
 
-Team responsible for providing [[c_ITILChangeManagement|change management]] for the service offering.
+Team responsible for providing change management for the service offering.
 
 </td></tr><tr><td>
 
@@ -283,7 +283,7 @@ Active contract to maintain awareness of the service commitments.
 
 </td></tr><tr><td>
 
-Additional [[c_Contracts|contracts]]
+Additional contracts
 
 </td><td>
 
@@ -346,10 +346,4 @@ Applies to business services. Service instances that the service offering depend
 
 19. Select **Save &amp; Close**.
 
-## Related
 
-- [[dex-workspace-application-tab|Applications]]
-- [[service-builder|Service Builder]]
-- [[SPM2-landing-page|Service Portfolio Management]]
-- [[c_ITILChangeManagement|Change Management]]
-- [[c_Contracts|Contracts]]

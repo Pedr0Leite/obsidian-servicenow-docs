@@ -37,7 +37,7 @@ Base system
 
 </td><td>
 
-A Table data source is a collection of database records that together constitute the current state of your data. The rows of the table correspond to records and the columns correspond to fields. You often choose both table and field, or you group data by fields, when you configure a data visualization. Configured [[c_ReportSources|report sources]] appear in the **Predefined conditions** list when you choose to filter table data.
+A Table data source is a collection of database records that together constitute the current state of your data. The rows of the table correspond to records and the columns correspond to fields. You often choose both table and field, or you group data by fields, when you configure a data visualization. Configured report sources appear in the **Predefined conditions** list when you choose to filter table data.
 
 </td></tr><tr><td>
 
@@ -53,13 +53,13 @@ An indicator, also called a key performance indicator \(KPI\), is a record of th
 
 When you select an indicator data source, you see a preview of the visualization, and a list of the indicator's properties including its source type, indicator type, calculation, and available breakdowns, if configured.
 
-**Note:** Many data visualizations support [[multiple-data-sources|multiple data sources]]. However, you cannot mix Data snapshots indicators and regular indicators. If your first data source is a regular indicator \(automated, formula, or manual\), then only regular indicators are available for your additional data source. If your first data source is an automated or formula Data snapshots indicator, only Data snapshots are available for additional data sources.
+**Note:** Many data visualizations support multiple data sources. However, you cannot mix Data snapshots indicators and regular indicators. If your first data source is a regular indicator \(automated, formula, or manual\), then only regular indicators are available for your additional data source. If your first data source is an automated or formula Data snapshots indicator, only Data snapshots are available for additional data sources.
 
 For more information, see [Performance Analytics indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_Indicators.md).
 
 </td></tr><tr><td>
 
-[[user-exp-analytics-landing|Usage Insights]]
+Usage Insights
 
 </td><td>
 
@@ -67,7 +67,7 @@ Activated by default. However, to include Usage Insights data sources in your vi
 
 </td><td>
 
-The ServiceNow® Usage Insights application provides dashboard views for monitoring usage analytics of your web applications as well as Virtual Agent, ServiceNow mobile, and Service Portal applications. Visualize metrics and interactions to better understand the user experience, and create more intuitive journeys for your users.For more general information about Usage Insights, see [Usage Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/user-exp-analytics-landing.md). For more information specific to data visualizations, see [[uxa-data-sources|Usage Insights data sources for data visualizations]].
+The ServiceNow® Usage Insights application provides dashboard views for monitoring usage analytics of your web applications as well as Virtual Agent, ServiceNow mobile, and Service Portal applications. Visualize metrics and interactions to better understand the user experience, and create more intuitive journeys for your users.For more general information about Usage Insights, see [Usage Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/user-exp-analytics-landing.md). For more information specific to data visualizations, see [Usage Insights data sources for data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/uxa-data-sources.md).
 
 </td></tr><tr><td>
 
@@ -105,16 +105,8 @@ Requires a separate subscription and must be activated by ServiceNow personnel.
 
 The Health Log Analytics application helps prevent IT issues before your users are affected. It helps you identify the root cause of an issue by enabling you to triage related logs and analyze the raw data. For more information, see .
 
- **Note:** You can create and edit data visualizations for Health Log Analytics only in the UI Builder, not in the [[c_performanceAnalyticsAndReporting|Platform Analytics]] Visualization Designer or in dashboards.
+ **Note:** You can create and edit data visualizations for Health Log Analytics only in the UI Builder, not in the Platform Analytics Visualization Designer or in dashboards.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[data-visualization-reference|Data visualization reference]]
+</table>**Parent Topic:**[Data visualization reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/data-visualization-reference.md)
 
-## Related
-
-- [[uxa-data-sources|Usage Insights data sources for data visualizations]]
-- [[data-visualization-reference|Data visualization reference]]
-- [[c_ReportSources|Report sources]]
-- [[multiple-data-sources|multiple data sources]]
-- [[user-exp-analytics-landing|Usage Insights]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

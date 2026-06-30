@@ -14,7 +14,7 @@ breadcrumb: [Configure, Vaccine Administration Management, Healthcare and Life S
 
 # Create vaccine models
 
-Create a vaccine model to track and manage different vaccines under [[hcls-vam|Vaccine Administration Management]].
+Create a vaccine model to track and manage different vaccines under Vaccine Administration Management.
 
 ## Before you begin
 
@@ -199,6 +199,3 @@ Information about the model that would be helpful for others to know.
 
 **Parent Topic:**[Configuring Vaccine Administration Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/vaccine-mgmt-config.md)
 
-## Related
-
-- [[hcls-vam|Vaccine Administration Management]]

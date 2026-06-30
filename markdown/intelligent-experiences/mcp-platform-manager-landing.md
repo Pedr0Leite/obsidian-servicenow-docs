@@ -14,7 +14,7 @@ breadcrumb: [Enable AI experiences]
 
 MCP Server Console enables secure and governed access to functionality on a ServiceNow instance for AI applications with Model Context Protocol \(MCP\) servers. MCP servers extend ServiceNow AI Platform® functionality into any external MCP client and employee experience over the Model Context Protocol.
 
-**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows or AI agents. For more information see [[ai-native-sku-overview|ServiceNow product tiers]].
+**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows or AI agents. For more information see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 
 \[Omitted video\] Description: MCP Server Console overview
 
@@ -36,7 +36,7 @@ In this video, learn about the Model Context Protocol and how to create and use 
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about [[installed-mcp-server-console|components installed with MCP Server Console]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/mcp-server-console-reference.md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about components installed with MCP Server Console.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/mcp-server-console-reference.md)
 
 </td></tr></tbody>
 </table>## AI limitations
@@ -49,13 +49,7 @@ This application requires data to be transferred from ServiceNow customers' indi
 
 ## Data collection
 
-ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. Customers can opt out of future data collection at any time, as described in the [[opt-out-of-data-sharing-for-now-assist|Now Assist Opt-Out page]].
+ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/opt-out-of-data-sharing-for-now-assist.md).
 
-For more information, see the [[platform-now-assist-landing|Now Assist documentation]].
+For more information, see the [Now Assist documentation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-now-assist-landing.md).
 
-## Related
-
-- [[ai-native-sku-overview|ServiceNow product tiers]]
-- [[opt-out-of-data-sharing-for-now-assist|Opt out of data sharing for Now Assist]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[installed-mcp-server-console|Components installed with MCP Server Console]]

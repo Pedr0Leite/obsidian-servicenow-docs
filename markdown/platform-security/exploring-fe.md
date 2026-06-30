@@ -18,9 +18,9 @@ Learn the details of Field Encryption Starter and Field Encryption Enterprise
 
 \[Omitted video\] Description: This video provides an overview of Field Encryption, including how it protects sensitive data at rest by encrypting individual fields and attachments, and how its key components work together.
 
-By default, Field Encryption blocks all [[users|users]], scripts, and system processes from accessing encrypted data. However, Field Encryption has an [[sc-access-control|access control]] feature that is used in combination with, but also separate from, Access Control Lists \(ACLs\) to ensure only the correct users, scripts, or system processes can access encrypted data.
+By default, Field Encryption blocks all users, scripts, and system processes from accessing encrypted data. However, Field Encryption has an access control feature that is used in combination with, but also separate from, Access Control Lists \(ACLs\) to ensure only the correct users, scripts, or system processes can access encrypted data.
 
-You can configure Field Encryption access control feature through a combination of Field Encryption Modules, Encrypted Field Configurations, and Module Access [[ca-policies|Policies]] \(MAPs\). The next image shows how these three components work together.
+You can configure Field Encryption access control feature through a combination of Field Encryption Modules, Encrypted Field Configurations, and Module Access Policies \(MAPs\). The next image shows how these three components work together.
 
 \[Omitted image "fe\_field\_encryption\_components\_diagram.svg"\] Alt text: Field encryption and supporting components
 
@@ -153,7 +153,7 @@ Number of encrypted fields
 
 </td><td>
 
-Up to 5 encrypted fields**Note:** Field Encryption Starter limits the number of encrypted fields, not [[encryption-landing|encryption]] modules or contexts. Field Encryption replaces the deprecated [[column-level-encryption-landing|Column Level Encryption]] product, which used a module and context-based limit.
+Up to 5 encrypted fields**Note:** Field Encryption Starter limits the number of encrypted fields, not encryption modules or contexts. Field Encryption replaces the deprecated Column Level Encryption product, which used a module and context-based limit.
 
 </td><td>
 
@@ -232,7 +232,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[encryption|Key Management Framework]] \(KMF\)Admin or KMF Cryptographic Manager
+Key Management Framework \(KMF\)Admin or KMF Cryptographic Manager
 
 </td><td>
 
@@ -242,7 +242,7 @@ These roles are used to configure elements of Field Encryption.-   Field Encrypt
 -   Encrypted field configurations for fields and attachments
 -   Module Access Policies \(MAPs\)
 -   Configures, wraps, and uploads customer supplied keys \(for Field Encryption Enterprise\)
--   Configures [[access-observer|Access Observer]] and [[review-access-obs-logs|review Access Observer logs]].
+-   Configures Access Observer and review Access Observer logs.
 -   Schedule mass encryption, decryption, or re-keying
 
 </td></tr><tr><td>
@@ -266,25 +266,11 @@ Field Encryption currently doesn’t support the encryption of fields and attach
 
 To learn more about configuring and using Field Encryption, see:
 
--   [[configuring-column-level-encryption|Configuring Field Encryption]]
--   [[using-column-level-encryption|Using Field Encryption]]
+-   [Configuring Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/configuring-column-level-encryption.md)
+-   [Using Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/using-column-level-encryption.md)
 
--   **[[now-platform-encryption|Field Encryption Enterprise]]**  
+-   **[Field Encryption Enterprise](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/now-platform-encryption.md)**  
 Field Encryption Enterprise uses the Key Management Framework \(KMF\) to enable you to customize and manage how fields and attachments are encrypted and decrypted on your instance. A subscription is required to use Field Encryption Enterprise.
 
-**Parent Topic:**[[field-encryption|Field Encryption]]
+**Parent Topic:**[Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/field-encryption.md)
 
-## Related
-
-- [[configuring-column-level-encryption|Configuring Field Encryption]]
-- [[using-column-level-encryption|Using Field Encryption]]
-- [[now-platform-encryption|Field Encryption Enterprise]]
-- [[field-encryption|Field Encryption]]
-- [[users|Users]]
-- [[sc-access-control|Access control]]
-- [[ca-policies|Policies]]
-- [[encryption-landing|Encryption]]
-- [[column-level-encryption-landing|Column Level Encryption]]
-- [[encryption|Key Management Framework]]
-- [[access-observer|Access observer]]
-- [[review-access-obs-logs|Review Access Observer logs]]

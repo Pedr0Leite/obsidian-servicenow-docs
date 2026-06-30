@@ -14,9 +14,9 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 # Prevent users from accepting warning to bypass CSRF validation
 
-Reduce the risk of Cross-Site [[c_requestAPI|Request]] Forgery \(CSRF\) by preventing [[users|users]] from accepting warning to bypass CSRF validation.
+Reduce the risk of Cross-Site Request Forgery \(CSRF\) by preventing users from accepting warning to bypass CSRF validation.
 
-The **glide.security.csrf.strict.validation.mode** system property prevents users from being able to accept a warning, which allows a potentially malicious request to be sent to the instance. This warning appears when a POST request fails due to having a mismatched anti-CSRF token belonging to one of the victim's other [[sc-active-sessions|active sessions]]. If **glide.security.csrf.strict.validation.mode** isn't set to the recommended value of **true**, then an attacker can formulate a CSRF attack utilizing a leaked anti-CSRF token from a different active session belonging to the victim.
+The **glide.security.csrf.strict.validation.mode** system property prevents users from being able to accept a warning, which allows a potentially malicious request to be sent to the instance. This warning appears when a POST request fails due to having a mismatched anti-CSRF token belonging to one of the victim's other active sessions. If **glide.security.csrf.strict.validation.mode** isn't set to the recommended value of **true**, then an attacker can formulate a CSRF attack utilizing a leaked anti-CSRF token from a different active session belonging to the victim.
 
 A POST request to an instance contains an anti-CSRF token within "sysparm\_ck" or "X-UserToken" which matches the user's current session. If the anti-CSRF token is instead tied to one of the user's other active sessions, the POST request will return a 302 redirection to security\_interceptor.do with a **Continue** button available to the user when this property is set to **false**.
 
@@ -36,7 +36,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -48,7 +48,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -119,10 +119,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[c_requestAPI|request]]
-- [[users|Users]]
-- [[sc-active-sessions|Active Sessions]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

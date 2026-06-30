@@ -14,12 +14,12 @@ breadcrumb: [Sourcing and Procurement Operations, Finance and Supply Chain]
 
 # Sourcing and Procurement Operations reference
 
-Reference topics provide additional information about [[psm-overview|Sourcing and Procurement Operations]], including lists, forms, rules, components, parameters, roles, and personas.
+Reference topics provide additional information about Sourcing and Procurement Operations, including lists, forms, rules, components, parameters, roles, and personas.
 
 -   **[Base system procurement case type reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/base-system-procurement-case-types.md)**  
-[[psd-overview|Procurement Case Management]] provides 13 base system case types that classify procurement work.
+Procurement Case Management provides 13 base system case types that classify procurement work.
 -   **[Create New Pipeline Project form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-pipeline-project-form.md)**  
-Use the [[create-pipeline-project-form|Create New Pipeline Project form]] to provide details about the pipe project.
+Use the Create New Pipeline Project form to provide details about the pipe project.
 -   **[Pipeline project record tabs and UI actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/pipeline-form-tabs-actions.md)**  
 View project financial details, add existing procurement objects to pipeline projects, or create new procurement objects from the Pipeline project record form.
 -   **[Savings opportunity fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/savings-opportunity-fields.md)**  
@@ -27,7 +27,7 @@ Reference for the fields on the savings opportunity record in the Savings Opport
 -   **[Purchase requisition, purchase order, and sourcing request states](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/pr-po-sr-states.md)**  
 Purchase requisitions, purchase orders, and sourcing requests move through a series of states as they progress through the procurement lifecycle. Each state reflects the current stage of processing and determines what actions are available.
 -   **[SPO and ITAM data model mappings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/itam-spo-data-model.md)**  
-Describes the data model and state synchronization between SPO and ITAM for purchase orders, purchase requisitions,sourcing requests, shipments, and [[receipts|receipts]].
+Describes the data model and state synchronization between SPO and ITAM for purchase orders, purchase requisitions,sourcing requests, shipments, and receipts.
 -   **[Domain separation and Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/psm-domain-separation.md)**  
  Domain separation is unsupported for Sourcing and Procurement Operations. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 -   **[Sourcing and Procurement Operations glossary](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-glossary.md)**  
@@ -35,9 +35,3 @@ Learn about the terms and concepts used in Sourcing and Procurement Operations \
 
 **Parent Topic:**[Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/psm-overview.md)
 
-## Related
-
-- [[psm-overview|Sourcing and Procurement Operations]]
-- [[psd-overview|Procurement Case Management]]
-- [[create-pipeline-project-form|Create New Pipeline Project form]]
-- [[receipts|Receipts]]

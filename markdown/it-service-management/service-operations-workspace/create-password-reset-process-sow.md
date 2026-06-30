@@ -14,7 +14,7 @@ breadcrumb: [Setting up Service Desk assisted Password Reset in Service Operatio
 
 # Create password reset process in Service Operations Workspace
 
-Create configure credentials, verification methods and [[settings-mobile|settings]], and enrollment settings to create a password reset process.
+Create configure credentials, verification methods and settings, and enrollment settings to create a password reset process.
 
 ## Before you begin
 
@@ -187,6 +187,3 @@ Option to send an email or SMS the new password to the user.
 
 **Parent Topic:**[Setting up Service Desk assisted Password Reset in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/setup-password-reset-sow.md)
 
-## Related
-
-- [[settings-mobile|Settings]]

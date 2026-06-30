@@ -14,7 +14,7 @@ breadcrumb: [Software discovery, Data collected by ITOM Visibility, ITOM Visibil
 
 # IBM WebSphere server discovery using probes
 
-The IBM WebSphere application server is a software framework with middleware that hosts Java-based web applications. [[r-discovery|Discovery]] creates or updates a CMDB record when it detects an instance of a WebSphere application server running on a Windows or Linux system.
+The IBM WebSphere application server is a software framework with middleware that hosts Java-based web applications. Discovery creates or updates a CMDB record when it detects an instance of a WebSphere application server running on a Windows or Linux system.
 
 **Note:** Starting with Visibility Content version 6.1.0, pattern-based discovery is the default method for discovering IBM WebSphere Application Servers. The WebSphere probes are disabled by default. For more information, see [IBM WebSphere Application Server discovery using patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/ibm-websphere-server-pattern.md).
 
@@ -34,7 +34,7 @@ Requirements for discovery:
     -   WebSphere - Get cell.xml: cat/read permissions on the `cell.xml` file
     -   WebSphere - Get server.xml: cat/read permissions on the `server.xml` file
 
-For a list of privileged commands that you need for Discovery and [[c_ServiceMappingOverview|Service Mapping]], see [Service Mapping commands requiring a privileged user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/r_CommandsnCredentials.md). This list includes commands that require elevated rights to discover and map Unix-based hosts in your organization.
+For a list of privileged commands that you need for Discovery and Service Mapping, see [Service Mapping commands requiring a privileged user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/r_CommandsnCredentials.md). This list includes commands that require elevated rights to discover and map Unix-based hosts in your organization.
 
 ## Probes and sensors
 
@@ -107,7 +107,3 @@ These relationships are created in the CI Relationship \[cmdb\_rel\_ci\] table.
 
 **Parent Topic:**[Software discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_Software.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

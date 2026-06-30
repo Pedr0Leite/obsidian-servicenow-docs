@@ -23,7 +23,7 @@ Role required: sn\_si.admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sir-workspace-landing-page|Security Incident Response Workspace]]** &gt; **Administration**.
+1.  Navigate to **Workspaces** &gt; **Security Incident Response Workspace** &gt; **Administration**.
 
 2.  Select **Timeline Event Configuration**.
 
@@ -77,6 +77,3 @@ Role required: sn\_si.admin
 
 **Parent Topic:**[Timeline in Security Incident Response Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/timeline-sir-workspace.md)
 
-## Related
-
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]

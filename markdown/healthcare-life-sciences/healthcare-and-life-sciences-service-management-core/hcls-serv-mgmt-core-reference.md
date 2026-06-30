@@ -14,24 +14,24 @@ breadcrumb: [Healthcare and Life Sciences Service Management Core, Healthcare an
 
 # Healthcare and Life Sciences Service Management Core reference
 
-Reference topics provide additional information about [[hcls-core-app|Healthcare and Life Sciences Service Management Core]] components, including tables.
+Reference topics provide additional information about Healthcare and Life Sciences Service Management Core components, including tables.
 
 -   **[Components installed with Healthcare and Life Sciences Service Management Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-components-installed-serv-mgmt.md)**  
 Several types of components are installed with installation of the Healthcare and Life Sciences Service Management Core application, including user roles, tables, plugins, ServiceNow Store applications, and business rules.
 -   **[Healthcare and Life Sciences data model tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-healthcare-data-tables.md)**  
-Tables installed with the Healthcare and Life Sciences Service Management Core application enable you to decide the data model, tasks, and product offerings for your [[hcls-overview|Healthcare and Life Sciences]] workflows.
+Tables installed with the Healthcare and Life Sciences Service Management Core application enable you to decide the data model, tasks, and product offerings for your Healthcare and Life Sciences workflows.
 -   **[Patient Portal widget library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-pat-widget-library.md)**  
 Widgets included with the Patient Portal enable you to customize their data and appearance or refer to them as a basic code sample when building your own widgets.
 -   **[Healthcare organization form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-hc-org-form.md)**  
-The [[hcls-hc-org-form|Healthcare organization form]] includes the details of a healthcare organization.
+The Healthcare organization form includes the details of a healthcare organization.
 -   **[Medication Prescription form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-med-prescription-form.md)**  
-The [[hcls-med-prescription-form|Medication Prescription form]] includes the details of the prescription ordered for a patient.
+The Medication Prescription form includes the details of the prescription ordered for a patient.
 -   **[Policy form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-policy-form.md)**  
-The [[hcls-policy-form|Policy form]] includes the details of a privacy policy associated with a healthcare case.
+The Policy form includes the details of a privacy policy associated with a healthcare case.
 -   **[Pre-authorization request form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-pre-auth-form.md)**  
-The [[hcls-pre-auth-form|Pre-authorization request form]] includes the details of the pre-authorization request provided by a payer for a patient.
+The Pre-authorization request form includes the details of the pre-authorization request provided by a payer for a patient.
 -   **[Healthcare and Life Sciences Service Management Core properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-properties.md)**  
-There are several advanced [[hcls-properties|Healthcare and Life Sciences Service Management Core properties]] that you can configure for features used in Healthcare and Life Sciences applications.
+There are several advanced Healthcare and Life Sciences Service Management Core properties that you can configure for features used in Healthcare and Life Sciences applications.
 -   **[Domain separation and Healthcare and Life Sciences Service Management Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-domain-sep-serv-mgmt-core.md)**  
 Domain separation is supported for Healthcare and Life Sciences Service Management Core. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 -   **[Cryptographic Modules in Healthcare and Life Science Service Management Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/cryptographic-modules-in-healthcare-and-life-science-service-management-core.md)**  
@@ -39,17 +39,7 @@ Healthcare and Life Sciences Service Management Core contains the following cryp
 -   **[Encryption options in Healthcare and Life Sciences Service Management Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-encryption-support.md)**  
 Healthcare and Life Sciences Service Management Core provides encryption support to secure sensitive information.
 -   **[Healthcare and Life Sciences Service Management glossary](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/glossary-hcls-sm.md)**  
-Learn about the terms and concepts that are unique to [[hcls-service-mgmt-overview|Healthcare and Life Sciences Service Management]].
+Learn about the terms and concepts that are unique to Healthcare and Life Sciences Service Management.
 
 **Parent Topic:**[Healthcare and Life Sciences Service Management Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-core-app.md)
 
-## Related
-
-- [[hcls-core-app|Healthcare and Life Sciences Service Management Core]]
-- [[hcls-overview|Healthcare and Life Sciences]]
-- [[hcls-hc-org-form|Healthcare organization form]]
-- [[hcls-med-prescription-form|Medication Prescription form]]
-- [[hcls-policy-form|Policy form]]
-- [[hcls-pre-auth-form|Pre-authorization request form]]
-- [[hcls-properties|Healthcare and Life Sciences Service Management Core properties]]
-- [[hcls-service-mgmt-overview|Healthcare and Life Sciences Service Management]]

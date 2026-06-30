@@ -24,7 +24,7 @@ Role required: sn\_slm.admin
 
 Ensure that you've installed the Document Templates \[com.snc.document\_templates\] plugin.
 
-**Important:** When you create the [[supplier|supplier]] task of action type Sign document for the very first time, the supplier task is created; however, the document task is not created. Therefore, you cannot use the first Sign document task to upload PDF or HTML documents to get signatures. When you create the Sign document task for the first time, a set of restricted caller access \(RCA\) records are created that you must approve. Approving RCAs is a one-time activity. After you approve the RCAs, you can create and use subsequent Sign document supplier tasks except the first Sign document task. For more information about the approving the required RCAs, see [Approve application restricted caller access privileges for Sign document supplier task type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/approve-sign-task-rca.md).
+**Important:** When you create the supplier task of action type Sign document for the very first time, the supplier task is created; however, the document task is not created. Therefore, you cannot use the first Sign document task to upload PDF or HTML documents to get signatures. When you create the Sign document task for the first time, a set of restricted caller access \(RCA\) records are created that you must approve. Approving RCAs is a one-time activity. After you approve the RCAs, you can create and use subsequent Sign document supplier tasks except the first Sign document task. For more information about the approving the required RCAs, see [Approve application restricted caller access privileges for Sign document supplier task type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/approve-sign-task-rca.md).
 
 **Important:** Starting from the May Store 2024 release, the supplier task of action type Sign document uses the document template \(PDF or HTML\). The E-signature template is used only for KB articles.
 
@@ -119,11 +119,11 @@ Approve restricted caller access \(RCA\) privileges after you create a supplier 
 
 [Advanced Work Assignment for Supplier Lifecycle Operations]()
 
-[Enable M2M mapping between [[supplier-contact|supplier contact]] and suppliers]()
+[Enable M2M mapping between supplier contact and suppliers]()
 
 [Configure Supplier Relationship and Performance Management]()
 
-[Install [[universal-request|Universal Request]] for SLO]()
+[Install Universal Request for SLO]()
 
 [Configure smart assessments]()
 
@@ -131,8 +131,3 @@ Approve restricted caller access \(RCA\) privileges after you create a supplier 
 
 [Supplier Document Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supp-doc-mgmt-overview.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[supplier-contact|Supplier contact]]
-- [[universal-request|Universal Request]]

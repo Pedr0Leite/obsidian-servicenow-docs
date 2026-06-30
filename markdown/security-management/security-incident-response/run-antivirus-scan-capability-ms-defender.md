@@ -14,7 +14,7 @@ breadcrumb: [Additional Configurations, Microsoft Defender for Endpoint integrat
 
 # Configure Run Antivirus Scan capability in Microsoft Defender for Endpoint
 
-Remotely initiate an anti virus scan to help identify and remediate [[threat-intelligence-malware|malware]] that might be present on a compromised device. Run the scan as part of the investigation or response process.
+Remotely initiate an anti virus scan to help identify and remediate malware that might be present on a compromised device. Run the scan as part of the investigation or response process.
 
 ## Before you begin
 
@@ -70,6 +70,3 @@ Role required: sn\_si.admin or sn\_si.analyst
 
 [Configure Stop and Quarantine File capability in Microsoft Defender for Endpoint]()
 
-## Related
-
-- [[threat-intelligence-malware|Malware]]

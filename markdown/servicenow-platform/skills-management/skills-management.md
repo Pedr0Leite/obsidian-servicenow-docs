@@ -36,7 +36,7 @@ Use Skills Management to associate skills with individual users or groups and as
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about roles and [[extension-points-in-skills-management|extension points in Skills Management]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/skills-management/reference-for-skills-management.md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about roles and extension points in Skills Management.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/skills-management/reference-for-skills-management.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -45,6 +45,3 @@ Use Skills Management to associate skills with individual users or groups and as
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[extension-points-in-skills-management|Extension points in Skills Management]]

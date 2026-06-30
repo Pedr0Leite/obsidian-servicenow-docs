@@ -14,7 +14,7 @@ breadcrumb: [Optimize planning with scenario planning, Portfolio Planning in Str
 
 # Approve a scenario
 
-[[approve-a-scenario-in-portfolio-planning|Approve a scenario]] that aligns with your organizational goals and offers the best business outcomes to make the scenario your current plan.
+Approve a scenario that aligns with your organizational goals and offers the best business outcomes to make the scenario your current plan.
 
 ## Before you begin
 
@@ -36,11 +36,11 @@ When you approve a scenario:
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace**.
 
 2.  From the list of portfolio plans, select one and then select **Planning**.
 
-3.  From the Create scenario menu, select **[[compare-scenarios-in-portfolio-planning|Compare scenarios]]**.
+3.  From the Create scenario menu, select **Compare scenarios**.
 
     The **Approve scenario** button is also available on the Scenario page. As soon as you have created a scenario, you can directly approve a scenario without comparing it with the other scenarios.
 
@@ -55,8 +55,4 @@ When you approve a scenario:
     -   Enter a reason for approving the scenario in the Notes field.
 5.  Select **Approve**.
 
-## Related
 
-- [[approve-a-scenario-in-portfolio-planning|Approve a scenario]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[compare-scenarios-in-portfolio-planning|Compare scenarios]]

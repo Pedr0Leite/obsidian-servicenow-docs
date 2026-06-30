@@ -22,7 +22,7 @@ Role required: sn\_spend\_psd.psd\_admin, sn\_spend\_psd.agent
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[psd-overview|Procurement Case Management]]** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Procurement Case Management** &gt; **Source-to-Pay Workspace**.
 
     A Source-to-Pay Workspace agent page is displayed.
 
@@ -69,7 +69,3 @@ Role required: sn\_spend\_psd.psd\_admin, sn\_spend\_psd.agent
 
 **Parent Topic:**[Using Procurement Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/using-pcm.md)
 
-## Related
-
-- [[psd-overview|Procurement Case Management]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

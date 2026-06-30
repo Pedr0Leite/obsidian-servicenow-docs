@@ -20,11 +20,11 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **[[impact-landing-page|Impact]]** &gt; **[[platform-health-idi|Platform Health]]** &gt; **Monitor** &gt; **Instance Observer** &gt; **Alerts** &gt; **Configure alerts**.
+1.  Navigate to **Impact** &gt; **Platform Health** &gt; **Monitor** &gt; **Instance Observer** &gt; **Alerts** &gt; **Configure alerts**.
 
     \[Omitted image "threshold-banner-io.png"\] Alt text: Shows the Generate Threshold button in the Configure Alerts banner.
 
-    A notification banner displays. If the banner prompts to configure alerts, see [[configuring-io-alerts|Configure Key Alerts]].
+    A notification banner displays. If the banner prompts to configure alerts, see [Configure Key Alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configuring-io-alerts.md).
 
 2.  Select **Generate Threshold**.
 
@@ -68,11 +68,5 @@ Role required: admin
     **Note:** If you choose three max alerts per day, then you may receive up to three Alerts notification per day for that specific metric. The alert count resets daily at 00:00 UTC.
 
 
-**Parent Topic:**[[io-alerts|Key alerts – activation and notifications]]
+**Parent Topic:**[Key alerts – activation and notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-alerts.md)
 
-## Related
-
-- [[configuring-io-alerts|Configure Key Alerts]]
-- [[io-alerts|Key alerts – activation and notifications]]
-- [[impact-landing-page|Impact]]
-- [[platform-health-idi|Platform Health]]

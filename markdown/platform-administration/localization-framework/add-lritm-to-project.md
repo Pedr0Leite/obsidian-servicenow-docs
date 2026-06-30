@@ -14,7 +14,7 @@ breadcrumb: [Create translation projects, Localization Framework, Translation an
 
 # Add a localization request item to a project
 
-Add multiple [[ia-localization-il|localization]] request items \(LRITMs\) to a project for the fulfillers to bulk translate the items.
+Add multiple localization request items \(LRITMs\) to a project for the fulfillers to bulk translate the items.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: localization\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[localization-framework-landing|Localization Framework]]** &gt; **My Projects**.
+1.  Navigate to **All** &gt; **Localization Framework** &gt; **My Projects**.
 
 2.  Select the project from the list to add the requested items.
 
@@ -44,7 +44,4 @@ Role required: localization\_manager
 
     **Note:** You cannot add items to the project once you start the project.
 
-## Related
 
-- [[ia-localization-il|Localization]]
-- [[localization-framework-landing|Localization Framework]]

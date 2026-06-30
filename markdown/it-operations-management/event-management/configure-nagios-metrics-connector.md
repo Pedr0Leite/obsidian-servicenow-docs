@@ -14,14 +14,14 @@ breadcrumb: [Configure a pull connector, Configure Event Management connectors, 
 
 # Configure the Nagios metrics connector instance
 
-Configure the Nagios metric connector instance to receive [[operational-metrics|Metric Intelligence]] raw data from the Nagios server.
+Configure the Nagios metric connector instance to receive Metric Intelligence raw data from the Nagios server.
 
 ## Before you begin
 
 To activate metric collection, ensure that the MID Server that retrieves metrics is configured with the Metric Intelligence extension and that the extension is in **Started** mode. See [Manually configure the Metric Intelligence extension](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/configure-itoa-metric-extension.md).
 
 -   Create basic authentication credentials on ServiceNow instance with Nagios SQL database username and password.
--   ServiceNow does not support [[r-discovery|discovery]] for Nagios. Therefore, create the CI entry manually in the respective table using the hostname configured on the Nagios platform.
+-   ServiceNow does not support discovery for Nagios. Therefore, create the CI entry manually in the respective table using the hostname configured on the Nagios platform.
 
 Role required: evt\_mgmt\_admin
 
@@ -32,11 +32,11 @@ By default, CI binding will occur for the following entities:
 -   HOST HTTP Endpoint: The event rule applies to the Nagios metric HTTP if you are running a check that includes command\_name as service\_http.
 -   MySQL Instance: The event rule applies to the Nagios metric MySQL if you are running a check that includes command\_name as mysql.
 
-If you are running any other checks on HTTP endpoints or MySQL, you can edit the existing event rule to add the command\_name. For other entities, configure [[create-event-rules|event rules]] based on CI binding requirements.
+If you are running any other checks on HTTP endpoints or MySQL, you can edit the existing event rule to add the command\_name. For other entities, configure event rules based on CI binding requirements.
 
 ## Procedure
 
-1.  Navigate to **[[c_EM|Event Management]]** &gt; **Integrations** &gt; **Connector Instances**.
+1.  Navigate to **Event Management** &gt; **Integrations** &gt; **Connector Instances**.
 
 2.  Select **New** and create a connector instance.
 
@@ -65,9 +65,3 @@ If you are running any other checks on HTTP endpoints or MySQL, you can edit the
 
 **Parent Topic:**[Configure a pull connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMConfigureConnectorInstance.md)
 
-## Related
-
-- [[operational-metrics|Metric Intelligence]]
-- [[r-discovery|Discovery]]
-- [[create-event-rules|Event rules]]
-- [[c_EM|Event Management]]

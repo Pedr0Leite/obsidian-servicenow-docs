@@ -14,7 +14,7 @@ breadcrumb: [Compliance Case Management, Governance, Risk, and Compliance]
 
 # Compliance Case Management reference
 
-Reference topics provide additional information such as the tables and roles that are installed with the GRC: [[compliance-case-management|Compliance Case Management]] application.
+Reference topics provide additional information such as the tables and roles that are installed with the GRC: Compliance Case Management application.
 
 -   **[Tables installed with Compliance Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/tables-compliance-case-management.md)**  
 Tables are added with the activation of the GRC: Compliance Case Management application.
@@ -23,6 +23,3 @@ The GRC: Compliance Case Management installs the essential role to perform respe
 
 **Parent Topic:**[Compliance Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/compliance-case-management.md)
 
-## Related
-
-- [[compliance-case-management|compliance case management]]

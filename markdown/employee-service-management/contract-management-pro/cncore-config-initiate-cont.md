@@ -136,7 +136,7 @@ An action button to initiate contract requests from a contract record is availab
 
 [Group contract documents by contract type in a contract request]()
 
-[Add access to [[cncore-obligation-management|obligation management]] from contract repository records]()
+[Add access to obligation management from contract repository records]()
 
 [Configure the contract request form header for your workspace]()
 
@@ -146,6 +146,3 @@ An action button to initiate contract requests from a contract record is availab
 
 [Configuring the Playbook tab on contract repository records]()
 
-## Related
-
-- [[cncore-obligation-management|Obligation Management]]

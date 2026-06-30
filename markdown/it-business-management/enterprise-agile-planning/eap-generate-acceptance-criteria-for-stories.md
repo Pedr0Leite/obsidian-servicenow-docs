@@ -37,7 +37,7 @@ For an EAP story, you can generate acceptance criteria by selecting **Generate a
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace**.
 
 2.  Navigate to your story using one of the following options from the left navigation menu:
 
@@ -65,6 +65,3 @@ For an EAP story, you can generate acceptance criteria by selecting **Generate a
 
 **Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/using-now-assist-for-spm.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

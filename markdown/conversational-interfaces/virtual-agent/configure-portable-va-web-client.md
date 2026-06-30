@@ -14,7 +14,7 @@ breadcrumb: [Adding Virtual Agent to your web page, Configure, Virtual Agent, Co
 
 # Configure the portable Virtual Agent chat widget
 
-Configure the portable Virtual Agent chat widget to run [[virtual-agent-landing-page|Virtual Agent]] on third-party web pages.
+Configure the portable Virtual Agent chat widget to run Virtual Agent on third-party web pages.
 
 ## Before you begin
 
@@ -200,6 +200,3 @@ The number of seconds to cache the client session. After an initial CORS request
 
 **Parent Topic:**[Use the portable chat widget to add Virtual Agent to your web page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/use-portable-va-web-client.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

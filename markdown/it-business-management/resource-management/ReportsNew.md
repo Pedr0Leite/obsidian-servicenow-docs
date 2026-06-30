@@ -14,7 +14,7 @@ breadcrumb: [Resource Management reports, Resource Management classic, Project P
 
 # Edit a resource management report
 
-[[c_UsingResourceManagementReports|Resource management reports]] show [[r_AllocatingResources|resource allocation]] details in different formats for different time periods. Configure and use these reports according to your business requirements.
+Resource management reports show resource allocation details in different formats for different time periods. Configure and use these reports according to your business requirements.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: resource\_user or admin
 
 **Important:** Resource Management reports is deprecated starting Zurich release. It will be hidden and no longer available for installation but will continue to be supported. For details, see the [Deprecation Process \[KB0867184\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
 
-Alternatively, resource managers are encouraged to use the interactive Overview Dashboard in the [[rsrc-mgmt-wrkspc|Resource Management Workspace]]. For more information about dashboards, see [Overview dashboard in Resource Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/using-rmw.md).
+Alternatively, resource managers are encouraged to use the interactive Overview Dashboard in the Resource Management Workspace. For more information about dashboards, see [Overview dashboard in Resource Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/using-rmw.md).
 
 ## About this task
 
@@ -111,8 +111,3 @@ Pivot report shows the following information for every member of the group:
 
 **Parent Topic:**[Resource Management reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/c_UsingResourceManagementReports.md)
 
-## Related
-
-- [[c_UsingResourceManagementReports|Resource Management reports]]
-- [[r_AllocatingResources|Resource allocation]]
-- [[rsrc-mgmt-wrkspc|Resource Management Workspace]]

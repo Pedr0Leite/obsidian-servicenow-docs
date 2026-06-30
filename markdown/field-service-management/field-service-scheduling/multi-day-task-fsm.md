@@ -18,7 +18,7 @@ With the Field Service multi-day task scheduling capability, you can schedule wo
 
 Multi-day task scheduling allows dispatchers to assign work order tasks, spanning across multiple schedule entries to agents or crews within their defined working hours. If they’re available throughout the task duration. Task schedulers can split work slots evenly throughout the day after considering the task duration, resource working and non-working hours, and resource availability throughout the task duration. Tasks can be assigned to the same agent or crew for multiple days or weeks by skipping the break and other non-working hours from their schedule.
 
-This feature supports manual and [[dynamic-scheduling|dynamic scheduling]] methods to assign work order tasks to an agent or a crew using ServiceNow AI Platform and [[dispatcher-activities|Dispatcher Workspace]].
+This feature supports manual and dynamic scheduling methods to assign work order tasks to an agent or a crew using ServiceNow AI Platform and Dispatcher Workspace.
 
 Field Service Multi-Day Task Scheduling uses the value of the **com.snc.wm.wo.task\_window\_days** property to calculate the estimated end date of the task based on the schedule of a selected agent or crew.
 
@@ -45,7 +45,3 @@ The scheduler excludes break hours from the agent's work schedule while scheduli
 
 [Assign work order tasks to crews on Dispatcher Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/assign-wot-to-crew.md)
 
-## Related
-
-- [[dynamic-scheduling|Dynamic scheduling]]
-- [[dispatcher-activities|Dispatcher Workspace]]

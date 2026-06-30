@@ -14,7 +14,7 @@ breadcrumb: [Change Management plugins, Configure, Change Management, IT Service
 
 # Activate Change Management - Change Success Score
 
-You can activate the [[c_ITILChangeManagement|Change Management]] - [[change-success-score|Change Success Score]] \(com.snc.change\_management.change\_success\_score\) plugin if you have the admin role. This plugin activates related plugins if they are not already active.
+You can activate the Change Management - Change Success Score \(com.snc.change\_management.change\_success\_score\) plugin if you have the admin role. This plugin activates related plugins if they are not already active.
 
 ## Before you begin
 
@@ -43,7 +43,7 @@ Adds the Change Success Score icon to the change form, loads default rating reco
 </td></tr></tbody>
 </table>## Procedure
 
-1.  Navigate to **All** &gt; **System [[dex-workspace-application-tab|Applications]]** &gt; **All Available Applications** &gt; **All**.
+1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
 2.  Find the plugin using the filter criteria and search bar.
 
@@ -108,8 +108,3 @@ Several types of components are installed with activation of the Change Manageme
 
 [List of plugins \(Australia\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]
-- [[change-success-score|Change success score]]
-- [[dex-workspace-application-tab|Applications]]

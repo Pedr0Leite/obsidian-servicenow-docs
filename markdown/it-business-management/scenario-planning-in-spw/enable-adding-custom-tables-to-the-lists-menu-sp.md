@@ -14,7 +14,7 @@ breadcrumb: [Customizing Lists in Strategic Planning, Configure, Portfolio Plann
 
 # Enable adding custom tables to the Lists menu
 
-Add the **New** action button to the APW List Menu Configuration page, so that you can add custom tables to the Lists menu in [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace.
+Add the **New** action button to the APW List Menu Configuration page, so that you can add custom tables to the Lists menu in Strategic Planning Workspace.
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ The **New** action button is added to the APW List Menu Configuration page.
 
 [Customize Lists in Strategic Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/customize-lists-strategic-planning-workspace.md).
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

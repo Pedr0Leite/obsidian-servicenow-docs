@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Workspace, Exploring Software Asset Management, Soft
 
 # Renewals calendar view
 
-Use the Renewals calendar in the [[sam-workspace|Software Asset Workspace]] to view the entitlements nearing their expiry date and [[c_Contracts|contracts]] nearing their expiry date or are already expired.
+Use the Renewals calendar in the Software Asset Workspace to view the entitlements nearing their expiry date and contracts nearing their expiry date or are already expired.
 
 The sam\_user and sam\_admin roles can gain an understanding of the upcoming contract and entitlement renewals and expired contracts by navigating to **Software Asset Workspace** &gt; **Renewals calendar**.
 
@@ -65,11 +65,11 @@ The Renewals calendar lets you view:
 -   Number of upcoming contracts and entitlements renewals grouped based on the cost center in the left pane
 -   Contract information form on selecting the contract bar
 
-    **Note:** You can renew, adjust, or [[t_CancelAContract|cancel a contract]] from this record form.
+    **Note:** You can renew, adjust, or cancel a contract from this record form.
 
 -   Entitlement information form on selecting the entitlement bar
 
-    **Note:** You must create or associate a contract to proceed with the [[cont-renew-wf|contract renewal workflow]].
+    **Note:** You must create or associate a contract to proceed with the contract renewal workflow.
 
 -   A red line showing the current date. The contract or entitlement bar on the calendar view displays the start date as six months before the current date and the end date as six months after the current date.
 
@@ -83,9 +83,4 @@ You can filter and narrow down your results by:
 
     **Note:** You must install the Domain Extension Installer \[com.glide.domain.msp\_extensions.installer\] and Domain Support \[com.snc.pa.domain\_support\] plugins to view the domain data on the Renewal calendar view.
 
-## Related
 
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_Contracts|Contracts]]
-- [[t_CancelAContract|Cancel a contract]]
-- [[cont-renew-wf|Contract renewal workflow]]

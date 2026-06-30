@@ -28,10 +28,7 @@ A component triggers an event when a certain condition is met or on user interac
 
 [Embed the Object list component on the third-party website](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/we-embed-object-list-comp-on-thirdparty-web.md)
 
-[[we-object-list-comp-prop|Component properties for the Object list]]
+[Component properties for the Object list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/we-object-list-comp-prop.md)
 
 [Sample code for the Object list component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/we-object-list-sample-code.md)
 
-## Related
-
-- [[we-object-list-comp-prop|Component properties for the Object list]]

@@ -14,7 +14,7 @@ breadcrumb: [CEM Critical event record, Exploring, Critical Event Management, He
 
 # CEM Impacted people tab
 
-In [[critical-event-management|Critical Event Management]] \(CEM\), agents can view a list and update the status of impacted people in a critical event.
+In Critical Event Management \(CEM\), agents can view a list and update the status of impacted people in a critical event.
 
 Tracking the status of people during a critical event is important for their safety and well-being. This feature helps responders and agents to coordinate effectively, prioritize assistance where it's needed most, and maintain a clear communication. By monitoring the status of impacted individuals, organizations can minimize harm, provide timely support, and maintain accountability in managing the critical event.
 
@@ -26,6 +26,3 @@ On the record of an impacted person, you can view the person's information, such
 
 A critical event might occur when there are visitors at the critical event location. You can manually add and track the status of people who wouldn't generate automatically in the list of impacted people. To learn how to add someone to the list manually, see [Add a person manually to the impacted people list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/add-person-manually-to-impacted-people.md).
 
-## Related
-
-- [[critical-event-management|Critical Event Management]]

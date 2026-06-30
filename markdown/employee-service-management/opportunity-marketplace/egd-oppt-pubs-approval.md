@@ -14,9 +14,9 @@ breadcrumb: [Explore, Opportunity Marketplace, Hiring Experiences, HR Service De
 
 # Opportunity publishing approval
 
-The [[egd-oppt-mrktplc-landing|Opportunity Marketplace]]'s publishing approval framework streamlines the approval process, allowing Opportunity Owners to submit drafts for approval and receive notifications upon approval or rejection.
+The Opportunity Marketplace's publishing approval framework streamlines the approval process, allowing Opportunity Owners to submit drafts for approval and receive notifications upon approval or rejection.
 
-In versions 2.3 and later, Opportunity Marketplace includes an out-of-the-box framework to automate the publishing approval workflow for the gig, volunteer, and [[egd-oppt-mrktplc-project|project opportunity]] types.
+In versions 2.3 and later, Opportunity Marketplace includes an out-of-the-box framework to automate the publishing approval workflow for the gig, volunteer, and project opportunity types.
 
 -   The Opportunity Owner can submit a draft opportunity for approval from the Create an opportunity form and monitor the status of the approval request. They receive an email notification when the Opportunity Approver approves or rejects the draft.
 -   The Opportunity Approver is notified of the approval request via email and an assigned approval task. They can review the opportunity draft and either approve or reject with comments from the notification interface.
@@ -34,7 +34,7 @@ Each out-of-the-box opportunity type \(gig, volunteer, and project\) has a respe
 
 The following diagram provides a visual of the approval workflow:\[Omitted image "oppt-approval-wkflw.png"\] Alt text: Visual overview of the approval steps described above
 
-The following describes the default configurations for the [[flows-ukg|subflows]], which can be modified in the Workflow studio.
+The following describes the default configurations for the subflows, which can be modified in the Workflow studio.
 
 |Subflow|Settings description|
 |-------|--------------------|
@@ -54,8 +54,3 @@ While the default subflow requires only one approval or rejection, the admin can
 
 **Parent Topic:**[Explore Opportunity Marketplace \(OPM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/opportunity-marketplace/egd-oppt-mrktplc-explore.md)
 
-## Related
-
-- [[egd-oppt-mrktplc-landing|Opportunity Marketplace]]
-- [[egd-oppt-mrktplc-project|Project opportunity]]
-- [[flows-ukg|Subflows]]

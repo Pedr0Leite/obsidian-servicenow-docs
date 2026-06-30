@@ -14,7 +14,7 @@ breadcrumb: [Exploring Communities, Communities, Customer Service Management]
 
 # Domain separation and Communities
 
-Domain separation is unsupported in [[servicenow-communities|Communities]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is unsupported in Communities. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: No support
 
@@ -30,6 +30,3 @@ For more information on support levels, see [Application support for domain sepa
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[servicenow-communities|Communities]]

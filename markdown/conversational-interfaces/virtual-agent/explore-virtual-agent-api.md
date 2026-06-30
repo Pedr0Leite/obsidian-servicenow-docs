@@ -15,7 +15,7 @@ breadcrumb: [Virtual Agent API, Build and deploy, Virtual Agent, Conversational 
 
 # Exploring Virtual Agent API
 
-Use the ServiceNow® [[virtual-agent-api-landing-page|Virtual Agent API]] app to integrate any chat interface or a bot with ServiceNow® [[virtual-agent-landing-page|Virtual Agent]] or [[ci-use-agent-chat|Agent Chat]]. The app is available from the ServiceNow® Store.
+Use the ServiceNow® Virtual Agent API app to integrate any chat interface or a bot with ServiceNow® Virtual Agent or Agent Chat. The app is available from the ServiceNow® Store.
 
 ## Overview of the Virtual Agent API
 
@@ -23,7 +23,7 @@ The Virtual Agent API is a REST API. This API is built on the conversational cus
 
 -   **Standalone bot**
 
-    Use Virtual Agent as a standalone bot that you integrate with enterprise or with any other third-party chat interface that supports [[convint-landing-page|conversational interfaces]].
+    Use Virtual Agent as a standalone bot that you integrate with enterprise or with any other third-party chat interface that supports conversational interfaces.
 
     Your end users can interact with the Virtual Agent and Agent Chat through multiple channels by using this integration.
 
@@ -70,9 +70,3 @@ Get a quick overview of the important information that is related to the Virtual
 
 **Parent Topic:**[Virtual Agent API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/virtual-agent-api-landing-page.md)
 
-## Related
-
-- [[virtual-agent-api-landing-page|Virtual Agent API]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[ci-use-agent-chat|Agent Chat]]
-- [[convint-landing-page|Conversational Interfaces]]

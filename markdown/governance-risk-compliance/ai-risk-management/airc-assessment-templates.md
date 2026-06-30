@@ -15,7 +15,7 @@ breadcrumb: [AI governance life cycle, Explore, AI Risk and Compliance, Governan
 
 # Assessment templates
 
-The [[ai-risk-and-compliance|AI Risk and Compliance]] application uses assessment templates to evaluate [[ai-assets-airc|AI assets]] for risk, regulatory compliance, and ethical alignment.
+The AI Risk and Compliance application uses assessment templates to evaluate AI assets for risk, regulatory compliance, and ethical alignment.
 
 ## Assessment templates overview
 
@@ -25,13 +25,13 @@ Assessment templates define the questionnaires and evaluation criteria used duri
 
 SAE is the underlying assessment platform that AI Risk and Compliance \(AIRC\) uses to create, manage, and complete all AI assessments. SAE provides the infrastructure for assessment templates, question design, section-based organization, scoring, and collaborative assessment workflows.
 
-AIRC uses the SAE components installed with the [[unified-content-management-in-airc|AI Risk and Compliance Content]] application to support assessment creation, scoring, and automation.
+AIRC uses the SAE components installed with the AI Risk and Compliance Content application to support assessment creation, scoring, and automation.
 
 After upgrading to version 22.3.5, if you have the AI risk and compliance admin \[sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_admin\] role, assessment templates support an explicit versioning lifecycle. A new version is created automatically each time you edit and save a template. Publishing a new version retires the previously published version. You can delete template versions that are no longer needed. Existing templates initialize as Version 1 after upgrading. List views and filters in the Assessment Workspace reflect version status, so you can identify which version of a template is currently published.
 
 **Important:** Only one version of a template can be in a Published state at a time. Publishing a new version automatically retires the previous published version.
 
-For more information on [[template-versioning|template versioning]] in SAE, see [Template versioning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/template-versioning.md).
+For more information on template versioning in SAE, see [Template versioning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/template-versioning.md).
 
 ## Assessment workspace
 
@@ -44,7 +44,7 @@ Use the Assessment Workspace to perform the following actions:
 -   Publish draft templates to make them available for use in assessments.
 -   Create assessment templates to support custom assessment requirements.
 
-**Note:** Assessment templates are delivered in **Draft** state and must be published before they can be used in assessments. If you have the AIRC manager \[sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_manager\] role you can publish assessments. To publish a template, navigate to **All** &gt; **Assessment Workspace**, open the template, and select **Publish**. Only one version of a template can be in a **Published** state at a time. Role required: sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_manager. For more information on creating and editing assessments using [[smart-asmnt-engine-landing-page|Smart Assessment Engine]], see [Create an assessment template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-asmnt-template-create.md) and [Post-assessment automations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/impact-automation.md).
+**Note:** Assessment templates are delivered in **Draft** state and must be published before they can be used in assessments. If you have the AIRC manager \[sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_manager\] role you can publish assessments. To publish a template, navigate to **All** &gt; **Assessment Workspace**, open the template, and select **Publish**. Only one version of a template can be in a **Published** state at a time. Role required: sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_manager. For more information on creating and editing assessments using Smart Assessment Engine, see [Create an assessment template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-asmnt-template-create.md) and [Post-assessment automations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/impact-automation.md).
 
 ## Assessment template structure
 
@@ -98,7 +98,7 @@ Business configuration enables organizations to tailor assessment automation and
 
     The AI Risk and Compliance admin \(sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_admin\) configures post-assessment automation rules that determine how assessment responses trigger the association and classification of governance elements for an AI system. These rules govern how control objectives, risk statements, and system characteristics are automatically applied after an assessment is completed and marked as Closed complete.
 
-    Post-assessment actions support a range of action types that translate assessment responses into governance classifications and associations for [[ai-system-airc|AI systems]], covering areas of use, data categories, output types, affected populations, and human involvement. These action types enable consistent traceability between assessment outcomes and risk and compliance artifacts.
+    Post-assessment actions support a range of action types that translate assessment responses into governance classifications and associations for AI systems, covering areas of use, data categories, output types, affected populations, and human involvement. These action types enable consistent traceability between assessment outcomes and risk and compliance artifacts.
 
     |Actions|Description|
     |-------|-----------|
@@ -143,7 +143,7 @@ Business configuration enables organizations to tailor assessment automation and
 
     After configuration, complete a test assessment and verify that the expected control objectives and risk statements are generated and mapped to the AI system once the assessment is marked as Closed complete.
 
-    For more information on [[impact-automation|post-assessment automations]] and configurations, see [Post-assessment automations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/impact-automation.md) and [Configure post-assessment actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/configure-post-assessment-actions.md).
+    For more information on post-assessment automations and configurations, see [Post-assessment automations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/impact-automation.md) and [Configure post-assessment actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/configure-post-assessment-actions.md).
 
 -   **Post-assessment action configuration example**
 
@@ -188,7 +188,7 @@ Business configuration enables organizations to tailor assessment automation and
     -   Algorithmic Bias and Discrimination
     -   Data Breaches and Theft
     -   Adversarial Attacks
-    -   Unauthorized Access to [[ai-model-airc|AI Models]]
+    -   Unauthorized Access to AI Models
     \[Omitted image "automation-rule-ex.png"\] Alt text: Risk statement mapping automation rule example
 
     When the assessment is submitted and marked as Closed complete, these mappings are evaluated and the corresponding risk and control records are automatically associated with the AI system.
@@ -207,22 +207,8 @@ The following table lists assessment templates available for AI systems, AI mode
 |EU AI Act Conformity Assessment|Provides a comprehensive evaluation of whether a high-risk AI system meets applicable EU AI Act requirements, including risk management, data governance, technical documentation, transparency, human oversight, accuracy, and robustness. Role required: AI risk and compliance analyst \[sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_analyst\] or AI risk and compliance manager \[sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_manager\].|AI systems|Draft|After initial EU AI Act assessment classifies the system as high risk, and before pre-deployment review.|
 |Fundamental Rights Impact Assessment \(FRIA\)|Evaluates how a high-risk AI system may affect fundamental rights such as privacy, non-discrimination, freedom of expression, access to justice, and human dignity. Complete the FRIA before deployment to document and mitigate potential adverse effects. Role required: AI risk and compliance analyst \[sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_analyst\] or AI risk and compliance business user \[sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_business\_user\].|AI systems|Draft|After conformity assessment identifies potential fundamental rights implications and before deployment.|
 |High-risk AI assessment questionnaire|Captures detailed information for AI systems flagged as potentially high risk, including design, data handling, decision-making, and potential harms. Results determine which governance controls, monitoring requirements, and review processes apply throughout the AI system's life cycle. Role required: AI asset owner or AI risk and compliance business user \[sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_business\_user\].|AI systems|Draft|When an AI system is flagged as potentially high risk during intake screening or impact assessment.|
-|AI Impact Assessment on AI asset inventory|Evaluates risks associated with a specific AI model independent of its parent AI system. Supports model-level governance when a model is shared across systems or has a distinct [[tprm-risk-profile-what-is|risk profile]]. Role required: AI asset owner or AI risk and compliance analyst \[sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_analyst\].|AI models|Draft|When a model requires independent governance evaluation \(for example, shared model or distinct model risk [[factors|factors]]\).|
-|AI case assessment questionnaire|Provides a standardized evaluation framework for AI cases reported through the [[ai-risk-and-compliance-workspace|AI Risk and Compliance Workspace]], [[employee-center|Employee Center]], or email. Supports consistent evaluation, case prioritization, and root cause analysis. Role required: AI case analyst \[sn\_ai\_case\_mgmt.ai\_case\_analyst\] or AI risk and compliance analyst \[sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_analyst\].|AI cases|Draft|During the investigation phase, after the case is triaged and assigned to an analyst.|
+|AI Impact Assessment on AI asset inventory|Evaluates risks associated with a specific AI model independent of its parent AI system. Supports model-level governance when a model is shared across systems or has a distinct risk profile. Role required: AI asset owner or AI risk and compliance analyst \[sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_analyst\].|AI models|Draft|When a model requires independent governance evaluation \(for example, shared model or distinct model risk factors\).|
+|AI case assessment questionnaire|Provides a standardized evaluation framework for AI cases reported through the AI Risk and Compliance Workspace, Employee Center, or email. Supports consistent evaluation, case prioritization, and root cause analysis. Role required: AI case analyst \[sn\_ai\_case\_mgmt.ai\_case\_analyst\] or AI risk and compliance analyst \[sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_analyst\].|AI cases|Draft|During the investigation phase, after the case is triaged and assigned to an analyst.|
 
 **Note:** AI case assessment templates are delivered as part of the AI Case Management application and aren't included in AI Risk and Compliance assessment templates.
 
-## Related
-
-- [[ai-risk-and-compliance|AI Risk and Compliance]]
-- [[ai-assets-airc|AI assets]]
-- [[unified-content-management-in-airc|AI Risk and Compliance Content]]
-- [[template-versioning|Template versioning]]
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]
-- [[ai-system-airc|AI systems]]
-- [[impact-automation|Post-assessment automations]]
-- [[ai-model-airc|AI models]]
-- [[tprm-risk-profile-what-is|Risk profile]]
-- [[factors|factors]]
-- [[ai-risk-and-compliance-workspace|AI Risk and Compliance workspace]]
-- [[employee-center|employee center]]

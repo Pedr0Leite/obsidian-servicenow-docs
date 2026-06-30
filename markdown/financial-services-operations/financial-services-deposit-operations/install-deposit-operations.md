@@ -14,7 +14,7 @@ breadcrumb: [Deposit Operations, Banking applications, Financial Services Operat
 
 # Install Financial Services Deposit Operations
 
-You can initiate setting up your implementation for the [[fso-deposit-ops-landing-page|Financial Services Deposit Operations]] by installing each of the [[fso-overview|Financial Services]] Business Deposit Operations and the Financial Services Personal Deposit Operations applications.
+You can initiate setting up your implementation for the Financial Services Deposit Operations by installing each of the Financial Services Business Deposit Operations and the Financial Services Personal Deposit Operations applications.
 
 -   **[Install Financial Services Business Deposit Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-deposit-operations/install-fso-business-deposit-ops.md)**  
 You can install the Financial Services Business Deposit Operations application \(sn\_bom\_deposit\_b2b\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
@@ -23,7 +23,3 @@ You can install the Financial Services Personal Deposit Operations application \
 
 **Parent Topic:**[Financial Services Deposit Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-deposit-operations/fso-deposit-ops-landing-page.md)
 
-## Related
-
-- [[fso-deposit-ops-landing-page|Financial Services Deposit Operations]]
-- [[fso-overview|Financial Services]]

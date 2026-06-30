@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-[[document-template-block|Legal contract templates]] help you to create and organize standard contract templates along with fillable metadata placeholders. You can create templates of HTML, PDF and Microsoft Word types. In an HTML document template type, you can map the inputs provided in the intake form to the fillable metadata placeholders.
+Legal contract templates help you to create and organize standard contract templates along with fillable metadata placeholders. You can create templates of HTML, PDF and Microsoft Word types. In an HTML document template type, you can map the inputs provided in the intake form to the fillable metadata placeholders.
 
 ## Procedure
 
@@ -256,7 +256,7 @@ Margin to leave on the left and right sides of the page.
 
     6.  Click **Submit**.
 
-9.  [[insert-signatures|Insert signatures]] in the contract template.
+9.  Insert signatures in the contract template.
 
     1.  Place the cursor in the desired location in the **Body** field.
 
@@ -276,7 +276,4 @@ Margin to leave on the left and right sides of the page.
 
 11. To make the template available for usage, click **Publish**.
 
-## Related
 
-- [[document-template-block|Legal contract templates]]
-- [[insert-signatures|Insert signatures]]

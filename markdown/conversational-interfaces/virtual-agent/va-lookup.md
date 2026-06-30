@@ -14,7 +14,7 @@ breadcrumb: [Assistant Designer utilities, Assistant Designer interface referenc
 
 # Lookup utility
 
-Use the Lookup utility in a [[virtual-agent-landing-page|Virtual Agent]] topic to return a ServiceNow record query.
+Use the Lookup utility in a Virtual Agent topic to return a ServiceNow record query.
 
 ## Lookup utility properties
 
@@ -99,6 +99,3 @@ In this example, a table is queried for the first active record. The table to be
 
 **Parent Topic:**[Assistant Designer utilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-utilities.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

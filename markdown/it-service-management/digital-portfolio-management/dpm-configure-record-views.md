@@ -14,7 +14,7 @@ breadcrumb: [Get started, Digital Portfolio Management, IT Service Management]
 
 # Create custom record views
 
-Create a UX custom form view to show any record for a given table in [[dpm-landing|Digital Portfolio Management]] \(DPM\).
+Create a UX custom form view to show any record for a given table in Digital Portfolio Management \(DPM\).
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Create a UX custom form view to determine the view to show for a given table in 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Now Experience Framework** &gt; **Configuration [[settings-mobile|Settings]]** &gt; **UX Form View Rules**.
+1.  Navigate to **All** &gt; **Now Experience Framework** &gt; **Configuration Settings** &gt; **UX Form View Rules**.
 
 2.  Select **New**.
 
@@ -90,7 +90,3 @@ The order in which your view displays.
 
 **Parent Topic:**[Getting started with Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-using-cfx.md)
 
-## Related
-
-- [[dpm-landing|Digital Portfolio Management]]
-- [[settings-mobile|Settings]]

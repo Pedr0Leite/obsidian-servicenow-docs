@@ -29,11 +29,11 @@ Dependencies and requirements:
 -   The Datastream Action plugin \(com.glide.hub.action\_type.datastream\), which is automatically installed.
 -   Observability Commons for CMDB \(sn\_observability\), which is only required for event ingestion. This must be installed prior to installing the connector for Event Management to work. For more information, see [Observability Commons for CMDB](https://store.servicenow.com/sn_appstore_store.do#!/store/application/97e04562072020107add6a77c4a9351a) on the ServiceNow Store.
 
-**Note:** If you have an earlier version of the [[sgc-cmdb-integration-new-relic|Service Graph Connector for Observability - New Relic]], then don’t migrate data from the old connector. You must uninstall the previous version and run the new integration.
+**Note:** If you have an earlier version of the Service Graph Connector for Observability - New Relic, then don’t migrate data from the old connector. You must uninstall the previous version and run the new integration.
 
 Role required: SGC-Admin \(sn\_cmdb\_int\_util.sgc\_admin\) or admin
 
-**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for [[cmdb-sgc-available|Service Graph Connectors]], see [Service Graph Connector user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md).
+**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md).
 
 ## Procedure
 
@@ -80,7 +80,7 @@ Connection URL
 
 </td><td>
 
-Base URL to [[c_Connect|connect]] to the New Relic application in the following format: ```
+Base URL to connect to the New Relic application in the following format: ```
 https://api.newrelic.com/graphql
 ```
 
@@ -166,7 +166,7 @@ Select the connection alias that you created in step [4](https://raw.githubuserc
 
         1.  In the Configure Observability section of the New Relic Integration with CMDB page, select **Continue**.
         2.  For the Turn on alerts for unmatched CI task, select **Configure**.
-        3.  On the System [[properties-form-survey-designer|Properties form]], select the **sn\_newrelic\_integ.alerts\_for\_unmatched\_ci.enabled** system property.
+        3.  On the System Properties form, select the **sn\_newrelic\_integ.alerts\_for\_unmatched\_ci.enabled** system property.
         4.  Set the **Value** of the system property to `true`.
         5.  Select **Submit**.
         6.  Set the Turn on alerts for unmatched CI task to complete by selecting **Mark as Complete**.
@@ -182,7 +182,7 @@ Select the connection alias that you created in step [4](https://raw.githubuserc
 
         For more information, see [Schedule a data import](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/t_ScheduleADataImport.md#table_r53_5hm_xp).
 
-    5.  Select the **Active** [[check-box|check box]] to activate the scheduled job.
+    5.  Select the **Active** check box to activate the scheduled job.
 
     6.  Select **Update**.
 
@@ -192,10 +192,4 @@ Select the connection alias that you created in step [4](https://raw.githubuserc
 
     9.  Set the Configure Scheduled Data Imports task to complete by selecting **Mark as Complete**.
 
-## Related
 
-- [[sgc-cmdb-integration-new-relic|Service Graph Connector for Observability - New Relic]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[c_Connect|Connect]]
-- [[properties-form-survey-designer|Properties form]]
-- [[check-box|Check box]]

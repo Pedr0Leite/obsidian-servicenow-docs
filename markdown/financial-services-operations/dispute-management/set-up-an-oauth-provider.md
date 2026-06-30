@@ -15,7 +15,7 @@ breadcrumb: [Set up OAuth for Card Data Security, Configure, Card Data Security,
 
 # Set up an OAuth Provider
 
-Configure an OAuth provider to enable secure authentication between ServiceNow and a third-party tokenizer service for [[card-data-security|Card Data Security]]. This setup establishes the necessary connection credentials and JWT configuration required for secure data tokenization operations.
+Configure an OAuth provider to enable secure authentication between ServiceNow and a third-party tokenizer service for Card Data Security. This setup establishes the necessary connection credentials and JWT configuration required for secure data tokenization operations.
 
 ## Before you begin
 
@@ -67,6 +67,3 @@ The JWT provider record is created.
 
 [Set up the Connection &amp; Credential records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/set-up-the-vault-api-connection.md).
 
-## Related
-
-- [[card-data-security|Card Data Security]]

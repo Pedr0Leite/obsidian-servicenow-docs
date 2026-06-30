@@ -14,7 +14,7 @@ breadcrumb: [Integrating Ansible with Cloud Services Catalog, Configuring Cloud 
 
 # Set up Ansible as a Day 1 task
 
-Set up the Ansible console as a Day 1 task before you run [[r-discovery|Discovery]] and deploy a job template via a ServiceNow catalog item by using the [[csc-home|Cloud Services Catalog]] application.
+Set up the Ansible console as a Day 1 task before you run Discovery and deploy a job template via a ServiceNow catalog item by using the Cloud Services Catalog application.
 
 ## Before you begin
 
@@ -41,7 +41,3 @@ Role required: admin
 
 **Parent Topic:**[Integrating Ansible with Cloud Services Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/integrating-ansible-with-cloud-services-catalog.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[csc-home|Cloud Services Catalog]]

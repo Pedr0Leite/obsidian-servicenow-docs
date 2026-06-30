@@ -12,7 +12,7 @@ breadcrumb: [Security Operations Integration - Sightings Search Flow, Create sig
 
 # Sightings Search - Determine Observables activity
 
-The **[[indicator-sightings|Sightings]] Search - Determine [[c_Observables|Observables]]** workflow activity determines which observables to include in the workflow.
+The **Sightings Search - Determine Observables** workflow activity determines which observables to include in the workflow.
 
 The **Sightings Search - Determine Observables** activity can be used with any workflow to determine which observables to include in the workflow.
 
@@ -43,10 +43,5 @@ The output variables contain data that can be used in subsequent activities.
 |--------|-----------|
 |observables|Filtered observables|
 
-**Parent Topic:**[[secops-integration-sightings-search-workflow|Security Operations Integration - Sightings Search Flow]]
+**Parent Topic:**[Security Operations Integration - Sightings Search Flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/secops-integration-sightings-search-workflow.md)
 
-## Related
-
-- [[secops-integration-sightings-search-workflow|Security Operations Integration - Sightings Search Flow]]
-- [[indicator-sightings|Sightings]]
-- [[c_Observables|Observables]]

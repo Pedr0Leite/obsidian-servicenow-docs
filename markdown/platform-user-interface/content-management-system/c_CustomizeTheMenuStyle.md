@@ -14,7 +14,7 @@ breadcrumb: [Menu types, Create a navigation menu block, Types of content blocks
 
 # Menu style customization
 
-You can customize menu styles in the [[c_StyleSheets|style sheets]] your site uses.
+You can customize menu styles in the style sheets your site uses.
 
 Navigate to **Content Management** &gt; **Design** &gt; **Style Sheets** to customize style sheets.
 
@@ -267,6 +267,3 @@ TABLE.super_menu_video_table {
 
 **Parent Topic:**[Menu types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/r_MenuTypes.md)
 
-## Related
-
-- [[c_StyleSheets|Style sheets]]

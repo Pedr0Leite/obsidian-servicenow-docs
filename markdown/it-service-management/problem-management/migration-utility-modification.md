@@ -14,14 +14,10 @@ breadcrumb: [Migration job, Migration Utility, Configuring Problem Management, P
 
 # Modifications
 
-A modification is any alteration such as addition, deletion, or update that you carry out on [[c_ProblemManagement|Problem Management]]. If you have made significant modifications, you will need to review and resolve some possible blocking modifications.
+A modification is any alteration such as addition, deletion, or update that you carry out on Problem Management. If you have made significant modifications, you will need to review and resolve some possible blocking modifications.
 
 For more information on modifications, see the following KB articles:
 
 -   For more information about modifications that block the problem state model plugin from being activated, see the [KB0819060](https://support.servicenow.com/kb_view.do?sysparm_article=KB0819060) article in the HI Knowledge Base.
--   For more information about other types of modification and how to resolve them, see the [Problem Management [[migration-utility|Migration Utility]] - How to resolve detected modifications \[KB0819196\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0819196) article in the HI Knowledge Base.
+-   For more information about other types of modification and how to resolve them, see the [Problem Management Migration Utility - How to resolve detected modifications \[KB0819196\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0819196) article in the HI Knowledge Base.
 
-## Related
-
-- [[c_ProblemManagement|Problem Management]]
-- [[migration-utility|Migration Utility]]

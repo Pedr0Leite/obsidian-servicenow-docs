@@ -12,7 +12,7 @@ breadcrumb: [Grants Management, Playbooks and Solutions, Configure agent workspa
 
 # Configure the Reviewer Service Portal
 
-Configure the Grants Management [[psds-rsp-overview|Reviewer Service Portal]] for merit reviewers to track, score, and review grants proposals.
+Configure the Grants Management Reviewer Service Portal for merit reviewers to track, score, and review grants proposals.
 
 ## Before you begin
 
@@ -28,13 +28,8 @@ Role required: admin
     -   Menus: Update the base system menu or add a new one. For details, see [Configure the portal header menu](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-header-menu.md).
     -   Home page: Update the default home page by updating the widget configuration or assign a custom home page. For details, see [Assign a homepage to the portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/assign-portal-homepage.md).
     -   Widgets: Use configurable portal widgets to define the content in your portal. For details, see [Configurable Portal widget library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configurable-portal-widgets-library.md).
-    -   Header: Update the program header configurations according to your agency's needs. For details, see [[psds-config-gmp-rsp-program-header|Configure a custom program record header in the Reviewer Service Portal]].
+    -   Header: Update the program header configurations according to your agency's needs. For details, see [Configure a custom program record header in the Reviewer Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-rsp-program-header.md).
     -   List pages: Browse, search &amp; filter through records of cases, products, orders, and others. For details, see [Add and configure the Portal Data List widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-data-list-widget-inst-optns.md)
     -   Roles: [Configure page security by role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-page-security.md) to either set up pages to be public \(no login required\) or to filter them by user role.
-    -   Knowledge base: Configure a knowledge base to house the merit review framework for users in the portal to view the associated knowledge articles. For details, see [[psds-config-gmp-scoring-framework|Configure the Merit Review Scoring Framework for a Grant Program in the Reviewer Service Portal]].
+    -   Knowledge base: Configure a knowledge base to house the merit review framework for users in the portal to view the associated knowledge articles. For details, see [Configure the Merit Review Scoring Framework for a Grant Program in the Reviewer Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-scoring-framework.md).
 
-## Related
-
-- [[psds-config-gmp-rsp-program-header|Configure a custom program record header in the Reviewer Service Portal]]
-- [[psds-config-gmp-scoring-framework|Configure the Merit Review Scoring Framework for a Grant Program in the Reviewer Service Portal]]
-- [[psds-rsp-overview|Reviewer Service Portal]]

@@ -16,7 +16,7 @@ breadcrumb: [Employee actions, Use ITSM and HRSD integrations with Microsoft Tea
 
 Use the Employee Center dashboard from Microsoft Teams to view the widgets that show pending tasks, requests, and the internal company announcements.
 
-Your Hub dashboard is replaced with **[[employee-center-landing-page|Employee Center]]** dashboard from Rome.
+Your Hub dashboard is replaced with **Employee Center** dashboard from Rome.
 
 With embedded Employee Center, you can request help, search for self-service content, and work on your tasks from within Microsoft Teams.
 
@@ -26,6 +26,3 @@ Launch Microsoft Teams. Navigate to **ServiceNow for Microsoft Teams** &gt; **Em
 
 **Parent Topic:**[Employee actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/employee-sn-ms-teams.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

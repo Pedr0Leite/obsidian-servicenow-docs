@@ -16,7 +16,7 @@ breadcrumb: [Validation, sanitization, and encoding, Hardening settings, Platfor
 
 Set the **glide.security.empty\_acl.popup\_window.enabled** property to the secure value of true to block attempts to create, update, or save an invalid ACL. This setting will also provide a client-side model to configure a role or security attribute for the ACL.
 
-The **glide.security.empty\_acl.popup\_window.enabled** property controls whether [[users|users]] making form-based edits to ACL \[sys\_security\_acl\] records can create, update, or save an invalid ACL that has an invalid data condition, script, security attribute, or roles list, or otherwise does not have any configured \(an "empty ACL"\). As of the Xanadu release, an empty ACL will completely deny access. On versions prior to Xanadu, empty an ACL will allow unconditional access.
+The **glide.security.empty\_acl.popup\_window.enabled** property controls whether users making form-based edits to ACL \[sys\_security\_acl\] records can create, update, or save an invalid ACL that has an invalid data condition, script, security attribute, or roles list, or otherwise does not have any configured \(an "empty ACL"\). As of the Xanadu release, an empty ACL will completely deny access. On versions prior to Xanadu, empty an ACL will allow unconditional access.
 
 When the **glide.security.empty\_acl.popup\_window.enabled** property is set to a secure value of **true**, attempts to create, update, or save an invalid or empty ACL will be blocked, and a client-side model will be provided to configure a role or security attribute for the ACL. If the property is insecurely set to any other value, then such attempts will be allowed and no client-side model will be displayed.
 
@@ -36,7 +36,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -48,7 +48,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -98,7 +98,7 @@ Security risk
 
 -   Severity score: 6.5
 -   CVSS score: Medium
--   Security risk details: Misconfigured or empty [[sc-access-control|Access Control]] Lists \(ACLs\) can unintentionally grant unrestricted access to sensitive data and system functionality. When ACLs lack proper conditions, roles, or [[security-attributes-landing|security attributes]], they fail to enforce authorization boundaries, enabling attackers or unauthorized users to bypass security controls. This can lead to data breaches, privilege escalation, and compromise of confidentiality, integrity, and availability across the platform.
+-   Security risk details: Misconfigured or empty Access Control Lists \(ACLs\) can unintentionally grant unrestricted access to sensitive data and system functionality. When ACLs lack proper conditions, roles, or security attributes, they fail to enforce authorization boundaries, enabling attackers or unauthorized users to bypass security controls. This can lead to data breaches, privilege escalation, and compromise of confidentiality, integrity, and availability across the platform.
 
 </td></tr><tr><td>
 
@@ -127,10 +127,3 @@ References
 </td></tr></tbody>
 </table>**Parent Topic:**[Validation, sanitization, and encoding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/validation-sanitization-encoding.md)
 
-## Related
-
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]
-- [[sc-access-control|Access control]]
-- [[security-attributes-landing|Security Attributes]]

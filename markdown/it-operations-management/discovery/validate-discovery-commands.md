@@ -14,13 +14,13 @@ breadcrumb: [Discovery commands for probes and patterns, Configuring Discovery, 
 
 # Validate commands used in pattern-based discovery
 
-Validate pattern commands to verify that the MID Server can successfully run them. Typically, commands might fail if you haven't configured the credentials necessary to run these commands on your ServiceNow instance. Another common reason of command failure is that the IP addresses used for [[r-discovery|discovery]] aren’t reachable.
+Validate pattern commands to verify that the MID Server can successfully run them. Typically, commands might fail if you haven't configured the credentials necessary to run these commands on your ServiceNow instance. Another common reason of command failure is that the IP addresses used for discovery aren’t reachable.
 
 ## Before you begin
 
 -   Verify that you have the following applications:
     -   Pattern Designer Enhancements \(sn\_itom\_pde\)
-    -   Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns \(sn\_itom\_pattern\)
+    -   Discovery and Service Mapping Patterns \(sn\_itom\_pattern\)
 -   Check the log for horizontal discovery based on patterns, as described in [Review the logs for horizontal discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_DiscoveryLog.md).
 -   If you are viewing commands for the first time, have upgraded Discovery and Service Mapping Patterns, or have customized any pattern, refresh the command list by navigating to **All** &gt; **Pattern Designer** &gt; **Command Validation Tool** &gt; **Commands List** and selecting **Refresh Command List**.
 -   To be able to test credentials on an IP range or IP network, install the ParseIPRanges script include attached to the KB article: [KB1123625: Command Validation Tool](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1123625).
@@ -87,7 +87,3 @@ Starting with Pattern Designer Enhancements version 3.9.0, the new pde\_viewer r
 
 [Command List form for pattern-based discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/commands-list-discovery.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

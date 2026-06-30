@@ -20,7 +20,7 @@ Watch this short video for an introduction to engineering license management.
 
 \[Omitted video\] Description: Overview of Engineering license management
 
-**Note:** Request the [[c_SoftwareAssetMgmt|Software Asset Management]] Professional for Engineering Applications store app \(sn\_samp\_eng\_app\) to access the benefits of the Software Asset Management Professional for engineering applications. For more information, see [Request Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_RequSoftwareAssetMgmt.md).
+**Note:** Request the Software Asset Management Professional for Engineering Applications store app \(sn\_samp\_eng\_app\) to access the benefits of the Software Asset Management Professional for engineering applications. For more information, see [Request Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_RequSoftwareAssetMgmt.md).
 
 ## Engineering license management overview
 
@@ -40,7 +40,7 @@ For more details on the Open iT setup and configuration, refer to the [Open iT L
 
 ## Analytics and reporting benefits
 
-Data collected from OpenLM and Open iT integrations flows into the [[sam-workspace|Software Asset Workspace]]. The Engineering License dashboard, available under the [[analytics-workspace|Software asset analytics view]], helps you optimize software spend and support compliance activities. With this data, you can do the following:
+Data collected from OpenLM and Open iT integrations flows into the Software Asset Workspace. The Engineering License dashboard, available under the Software asset analytics view, helps you optimize software spend and support compliance activities. With this data, you can do the following:
 
 -   Monitor concurrent license consumption to improve forecasting accuracy
 -   Track and reduce software spend by optimizing license usage
@@ -71,13 +71,7 @@ For more information on license metrics and metric groups, see [Software license
 -   **[Tables installed with engineering applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/components-installed-engg-app.md)**  
 Tables are installed with the Software Asset Management Professional for Engineering Applications store app \(sn\_samp\_eng\_app\).
 -   **[Publisher overview for Bentley Systems in the Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/publisher-overview-engg-app.md)**  
-View license usage information for Bentley Systems and its [[c_CreatingSoftwareModels|software models]] in the publisher overview in the Software Asset Workspace.
+View license usage information for Bentley Systems and its software models in the publisher overview in the Software Asset Workspace.
 
 **Parent Topic:**[Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_SoftwareAssetMgmt.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[analytics-workspace|Software asset analytics view]]
-- [[c_CreatingSoftwareModels|Software models]]

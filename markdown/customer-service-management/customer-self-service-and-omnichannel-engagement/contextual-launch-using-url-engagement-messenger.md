@@ -38,7 +38,7 @@ If you are using existing Embed code, ensure that you update the script to inclu
 
 1.  Navigate to **Engagement Messenger** &gt; **Modules**.
 
-2.  In the [[create-engagement-messenger-module|Configure Engagement Messenger]] Module, open the Implement tab.
+2.  In the Configure Engagement Messenger Module, open the Implement tab.
 
 3.  Copy the code from the Embed code section.
 
@@ -56,7 +56,7 @@ If you are using existing Embed code, ensure that you update the script to inclu
 
     -   **&lt;FEATURE\_NAME&gt;**
 
-        The feature name. For information, see [[contextual-launch-supported-features|Feature context parameters supported in Engagement Messenger]].
+        The feature name. For information, see [Feature context parameters supported in Engagement Messenger](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/contextual-launch-supported-features.md).
 
     -   **&lt;param\_name1&gt;=&lt;param\_value1&gt;**
 
@@ -77,7 +77,3 @@ The following sample URL includes a system identifier \(sys\_id\) for a knowledg
 https://mywebsite/page.html?feature=VIEW_ARTICLE &sys_kb_id=ec7617461b01f01080df6247b04bcbaf
 ```
 
-## Related
-
-- [[contextual-launch-supported-features|Feature context parameters supported in Engagement Messenger]]
-- [[create-engagement-messenger-module|Configure Engagement Messenger]]

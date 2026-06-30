@@ -26,7 +26,7 @@ Remove outdated or redundant access restrictions from entity records, verifying 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[entity-based-access|Entity Based Access]] Configurations**.
+1.  Navigate to **All** &gt; **Entity Based Access Configurations**.
 
 2.  Locate the entity-based access configuration that you want to deactivate.
 
@@ -47,6 +47,3 @@ The system updates the configuration and removes access restrictions for the aff
 
 **Parent Topic:**[Managing Entity Based Access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/using-entity-based-access.md)
 
-## Related
-
-- [[entity-based-access|Entity Based Access]]

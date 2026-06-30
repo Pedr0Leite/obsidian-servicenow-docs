@@ -18,12 +18,8 @@ The ServiceNow® platform provides a playbook feature that is supported on mobil
 
 For more information about platform playbooks, see [About Playbook Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/playbook-ui.md).
 
--   **[[configure-mobile-playbooks|Configure mobile web screens with Mobile App Bridge]]**  
+-   **[Configure mobile web screens with Mobile App Bridge](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/configure-mobile-playbooks.md)**  
 Configure mobile web screens with Mobile App Bridge to enable seismic pages, classic web pages, or service portal pages that are hosted within embedded web views. Using this feature, you can access native mobile functionality on ServiceNow® mobile apps.
 
-**Parent Topic:**[[imp-considerations|Considerations before implementation]]
+**Parent Topic:**[Considerations before implementation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/imp-considerations.md)
 
-## Related
-
-- [[configure-mobile-playbooks|Configure mobile web screens with Mobile App Bridge]]
-- [[imp-considerations|Considerations before implementation]]

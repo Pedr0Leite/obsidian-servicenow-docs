@@ -21,11 +21,11 @@ Now Assist Multi-Content Response Genius Results enhance search and chat experie
 
 Now Assist Multi-Content Response Genius Results is a Now Assist skill in the Platform workflow. It's included in the Conversational experience skill group.
 
-You can use this skill in portal search and in global/workspace search in place of the legacy [[now-assist-qna-genius-results|Now Assist Q&amp;A Genius Results]] and [[now-assist-catalog-ordering-gr|Now Assist Actions Genius Results]] [[clone-configurations-tab|configurations]]. It improves on those legacy Genius Result configurations in multiple ways:
+You can use this skill in portal search and in global/workspace search in place of the legacy Now Assist Q&amp;A Genius Results and Now Assist Actions Genius Results configurations. It improves on those legacy Genius Result configurations in multiple ways:
 
 -   **Broader source information**
 
-    Now Assist Multi-Content Response Genius Results use an improved LLM pipeline to display synthesized responses that can include information drawn from knowledge articles, Service Catalog items, Knowledge Graph schema node content, enhanced chat conversation and search [[hs-results|results]], and external content documents and attachments. Answers include citations to help users view the search results cited in the synthesized response.
+    Now Assist Multi-Content Response Genius Results use an improved LLM pipeline to display synthesized responses that can include information drawn from knowledge articles, Service Catalog items, Knowledge Graph schema node content, enhanced chat conversation and search results, and external content documents and attachments. Answers include citations to help users view the search results cited in the synthesized response.
 
     By comparison, Now Assist Q&amp;A Genius Results only display answers generated from knowledge articles using a legacy LLM pipeline, while Now Assist Actions Genius Results only display Catalog Items and Virtual Agent topics as answers.
 
@@ -40,7 +40,7 @@ You can use this skill in portal search and in global/workspace search in place 
     Users can ask follow-up questions directly from Now Assist Multi-Content Response Genius Result answers.
 
 
-**Note:** Recommended Actions do not support Now Assist Multi‑Content [[genius-results-ais|Genius Results]].
+**Note:** Recommended Actions do not support Now Assist Multi‑Content Genius Results.
 
 ## Content types included in synthesized responses
 
@@ -98,7 +98,7 @@ Results from enhanced chat conversations and searches, such as Virtual Agent top
 
 </td></tr><tr class="sub-head"><td colspan="2">
 
-Content types from [[ext-cont-connectors-landing-page|External Content Connectors]]
+Content types from External Content Connectors
 
 </td></tr><tr><td>
 
@@ -106,7 +106,7 @@ External content documents and attachments
 
 </td><td>
 
-Documents and attachments retrieved from external source systems such as Atlassian Confluence Cloud or Microsoft SharePoint Online.**Note:** Documents and attachments from external source systems are only available in synthesized responses if you've installed the External Content Connectors [[servicenow-store|ServiceNow Store]] application and then indexed them from your source systems using the appropriate external content connectors. For more details on installing, configuring, and using this application, see [External Content Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/ext-cont-connectors-landing-page.md).
+Documents and attachments retrieved from external source systems such as Atlassian Confluence Cloud or Microsoft SharePoint Online.**Note:** Documents and attachments from external source systems are only available in synthesized responses if you've installed the External Content Connectors ServiceNow Store application and then indexed them from your source systems using the appropriate external content connectors. For more details on installing, configuring, and using this application, see [External Content Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/ext-cont-connectors-landing-page.md).
 
 </td></tr></tbody>
 </table>## Citations
@@ -134,10 +134,10 @@ To learn about using the Now Assist panel conversational interface, see [Now Ass
 
 When you use Guided Setup to activate the Now Assist panel, Now Assist Multi-Content Response Genius Results are automatically activated for search profiles that satisfy these conditions:
 
--   The search profile is linked to a search application configuration record for global search or for a workspace that uses [[ia-ai-search|AI Search]].
+-   The search profile is linked to a search application configuration record for global search or for a workspace that uses AI Search.
 -   The search profile includes one or more search sources containing indexed records from the Catalog Item Table or Knowledge Table indexed sources.
 
-Users with the ais\_admin role can add Now Assist Multi-Content Response Genius Results to search profiles and then link those search profiles to AI Search portals in the [[ais-admin-console|AI Search Admin console]]. For details on configuring search application settings in the AI Search Admin console, see [Configure and manage AI Search in search applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/ais-admin-console-setup-manage-ais.md).
+Users with the ais\_admin role can add Now Assist Multi-Content Response Genius Results to search profiles and then link those search profiles to AI Search portals in the AI Search Admin console. For details on configuring search application settings in the AI Search Admin console, see [Configure and manage AI Search in search applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/ais-admin-console-setup-manage-ais.md).
 
 **Note:** When you activate Now Assist Multi-Content Response Genius Results in a search application, they're available to all users who search using that application.
 
@@ -162,14 +162,3 @@ As a Now Assist skill, Now Assist Multi-Content Response Genius Results supports
 
 **Parent Topic:**[Configuring Now Assist in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configuring-now-assist-ais.md)
 
-## Related
-
-- [[now-assist-qna-genius-results|Now Assist Q&amp;A Genius Results]]
-- [[now-assist-catalog-ordering-gr|Now Assist Actions Genius Results]]
-- [[clone-configurations-tab|Configurations]]
-- [[hs-results|Results]]
-- [[genius-results-ais|Genius Results]]
-- [[ext-cont-connectors-landing-page|External Content Connectors]]
-- [[servicenow-store|ServiceNow Store]]
-- [[ia-ai-search|AI Search]]
-- [[ais-admin-console|AI Search Admin console]]

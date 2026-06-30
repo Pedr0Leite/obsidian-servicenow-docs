@@ -36,7 +36,7 @@ By default, all skills exist in the global domain. When you use Now Assist in a 
 
     For instructions, see [Components installed with CMDB Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/installed-with-cmdb-workspace.md).
 
-3.  Enable the [[c_CMDBHealth|CMDB Health]] Dashboard - Correctness Score Calculation scheduled job.
+3.  Enable the CMDB Health Dashboard - Correctness Score Calculation scheduled job.
 
     The job improves the accuracy of summary details on the CMDB Health Dashboard. For instructions, see [Enable and configure a CMDB Health Dashboard job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/t_EnableCMDBHealthDashboardJob.md).
 
@@ -48,6 +48,3 @@ By default, all skills exist in the global domain. When you use Now Assist in a 
 
 [Use Now Assist to search the CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/na-cmdb-awf-search.md)
 
-## Related
-
-- [[c_CMDBHealth|CMDB Health]]

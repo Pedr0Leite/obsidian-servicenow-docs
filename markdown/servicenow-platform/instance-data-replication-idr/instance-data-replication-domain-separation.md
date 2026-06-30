@@ -14,7 +14,7 @@ breadcrumb: [Reference, Instance Data Replication, Manage instance data sources,
 
 # Domain separation and IDR
 
-[[instance-data-replication|Instance Data Replication]] \(IDR\) functions at the data level, which means it does not explicitly support [[domain-separation-relationship-formatter-editor|domain separation]].
+Instance Data Replication \(IDR\) functions at the data level, which means it does not explicitly support domain separation.
 
 For a typical use case, data moves from a producer instance to a consumer instance and back without regard to which domain the instance is in. You can use IDR to filter data, enabling you to segregate specific data between instances. If you must go beyond the IDR record-level filtering capability, you can use business rules to convert data from one domain to another. For more information, see [Before Query business rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-before-query-business-rules.md).
 
@@ -33,7 +33,3 @@ For a typical use case, data moves from a producer instance to a consumer instan
 
 [Instance Data Replication roles]()
 
-## Related
-
-- [[instance-data-replication|Instance Data Replication]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]

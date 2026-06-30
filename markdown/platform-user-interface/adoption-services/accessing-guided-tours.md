@@ -14,7 +14,7 @@ breadcrumb: [Use Guided Tours, Guided Tours, Adoption services, Configure user e
 
 # Start a guided tour
 
-[[guided-tours|Guided Tours]] are available across four user interface types: Standard, [[c_ServicePortal|Service Portal]], Workspace, and Custom UI.
+Guided Tours are available across four user interface types: Standard, Service Portal, Workspace, and Custom UI.
 
 The way-guided tours start varies depending on the specific interface type \(tour type\).
 
@@ -22,7 +22,7 @@ The way-guided tours start varies depending on the specific interface type \(tou
 
 ## Start guided tour from Help Center
 
-If you have the appropriate roles, you can access a guided tour from Standard [[form-configurable-workspace|Forms]] and [[lists-configurable-workspace|Lists]] UI, Workspace, and Custom UI.
+If you have the appropriate roles, you can access a guided tour from Standard Forms and Lists UI, Workspace, and Custom UI.
 
 ### Before you begin
 
@@ -30,7 +30,7 @@ Role required: user
 
 ### Procedure
 
-1.  Select the \[Omitted image "gtd-bluehelp-icon.png"\] Alt text: Help icon to open the [[help-center|Help Center]].
+1.  Select the \[Omitted image "gtd-bluehelp-icon.png"\] Alt text: Help icon to open the Help Center.
 
     The Help Center lists a maximum of four tours.
 
@@ -71,10 +71,4 @@ Role required: user
 
     If a tour is assigned at least one role, the audience is limited to users with that role.
 
-## Related
 
-- [[guided-tours|Guided Tours]]
-- [[c_ServicePortal|Service Portal]]
-- [[form-configurable-workspace|Forms]]
-- [[lists-configurable-workspace|Lists]]
-- [[help-center|Help Center]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, Conversational Integration with Facebook Messenger, Inte
 
 # Set up Conversational Integration with Facebook Messenger
 
-Integrate Facebook Messenger with your ServiceNow instance using the [[messg-fbm|Conversational Integration with Facebook Messenger]] application. Use the application to engage customers in conversations with bots.
+Integrate Facebook Messenger with your ServiceNow instance using the Conversational Integration with Facebook Messenger application. Use the application to engage customers in conversations with bots.
 
 ## Before you begin
 
@@ -99,7 +99,7 @@ Token for webhook.By default, the token for ServiceNow webhook is `nowbot`. As a
 
     6.  Send messages with timestamp in the customer's time zone by navigating to **Page settings** &gt; **Advanced messaging**, selecting the **Time zone** option in the Requested Features section, and clicking **Request** displayed next to the selected option.
 
-2.  On your ServiceNow® instance, go to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Channels and Integrations**.
+2.  On your ServiceNow® instance, go to **All** &gt; **Conversational Interfaces** &gt; **Channels and Integrations**.
 
 3.  On the Facebook Messenger integration section, click **Add**.
 
@@ -118,7 +118,3 @@ Token for webhook.By default, the token for ServiceNow webhook is `nowbot`. As a
 
 **Parent Topic:**[Configure Conversational Integration with Facebook Messenger](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-fbm-configure.md)
 
-## Related
-
-- [[messg-fbm|Conversational Integration with Facebook Messenger]]
-- [[convint-landing-page|Conversational Interfaces]]

@@ -14,9 +14,9 @@ breadcrumb: [Reference, Document Intelligence, Enable AI experiences]
 
 # Document Intelligence terminology
 
-Before getting started with [[document-intelligence-landing|Document Intelligence]] \(DocIntel\), it's important to understand some key concepts used in the application.
+Before getting started with Document Intelligence \(DocIntel\), it's important to understand some key concepts used in the application.
 
-**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the [[docintel-nowassist-landing|Now Assist in Document Intelligence]] application. For more information, see [Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/docintel-nowassist-landing.md).
+**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the Now Assist in Document Intelligence application. For more information, see [Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/docintel-nowassist-landing.md).
 
 ## Updated terminology
 
@@ -112,10 +112,5 @@ A document that mainly contains free-form textual information and does not confo
 
 ## use case
 
-A use case is a set of [[exploring-ai-governance|configurations]] used to define the structure of a type of document that you want to process. It’s made up of the use case record and its related fields, field groups, integrations, flows, and all the related machine learning \(ML\) models. The use case also includes the mode for how the extraction should occur.
+A use case is a set of configurations used to define the structure of a type of document that you want to process. It’s made up of the use case record and its related fields, field groups, integrations, flows, and all the related machine learning \(ML\) models. The use case also includes the mode for how the extraction should occur.
 
-## Related
-
-- [[document-intelligence-landing|Document Intelligence]]
-- [[docintel-nowassist-landing|Now Assist in Document Intelligence]]
-- [[exploring-ai-governance|Configurations]]

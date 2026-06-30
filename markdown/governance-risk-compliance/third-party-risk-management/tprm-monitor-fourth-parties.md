@@ -35,7 +35,7 @@ You can link two fourth parties to each other. For example, a link can occur whe
 
 ## Fourth-nth party actions
 
-As part of your risk management program, you can add fourth-nth party information manually or by collecting responses from a third party by using a fourth-party registration questionnaire. You can manually [[tprm-fourth-party-create|create a fourth-nth party record]] if you don't have time to send a questionnaire to a third party or only need to create one record. After reviewing and registering, or manually creating these fourth-nth party records, they’re available for monitoring by using Vendor Management Workspace. As your business relationships change, you can keep relevant information current by promoting a fourth-nth party record to a third-party record. This third-party record incorporates all existing information and then designates the existing fourth-nth party as a known fourth party.
+As part of your risk management program, you can add fourth-nth party information manually or by collecting responses from a third party by using a fourth-party registration questionnaire. You can manually create a fourth-nth party record if you don't have time to send a questionnaire to a third party or only need to create one record. After reviewing and registering, or manually creating these fourth-nth party records, they’re available for monitoring by using Vendor Management Workspace. As your business relationships change, you can keep relevant information current by promoting a fourth-nth party record to a third-party record. This third-party record incorporates all existing information and then designates the existing fourth-nth party as a known fourth party.
 
 Here are the different actions that you can take to manage and monitor fourth-nth parties:
 
@@ -65,7 +65,7 @@ Here are the different actions that you can take to manage and monitor fourth-nt
 
     **Note:** You can add an existing third party as a fourth-nth party to another third party by navigating to the **Downstream suppliers** tab of a third-party page in the Vendor Management Workspace and selecting **Add**. After it’s added the existing third party is now categorized as both a third party and fourth-nth party for the chosen third party and includes all collected information.
 
--   **[[tprm-fourth-party-promote|Promote a fourth-nth party to a third party]]**
+-   **Promote a fourth-nth party to a third party**
 
     If you’re a TPR assessor or manager, you can promote a fourth-nth party record to a third party. After you promote a fourth-nth party to a third party, a third-party record is created and the existing fourth-nth party is identified as a known fourth party.
 
@@ -79,7 +79,3 @@ Here are the different actions that you can take to manage and monitor fourth-nt
 
 [TPRM Home page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-ws-home-page.md)
 
-## Related
-
-- [[tprm-fourth-party-create|Create a fourth-nth party record]]
-- [[tprm-fourth-party-promote|Promote a fourth-nth party to a third party]]

@@ -30,7 +30,7 @@ The base system counts the number of subscribers per offering and per service. I
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[SPM2-landing-page|Service Portfolio Management]]** &gt; **Service Offerings**.
+1.  Navigate to **All** &gt; **Service Portfolio Management** &gt; **Service Offerings**.
 
 2.  Select a service offering that you want to add subscribers.
 
@@ -45,6 +45,3 @@ The base system counts the number of subscribers per offering and per service. I
 
 **Parent Topic:**[Service offerings in Service Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-service-offerings.md)
 
-## Related
-
-- [[SPM2-landing-page|Service Portfolio Management]]

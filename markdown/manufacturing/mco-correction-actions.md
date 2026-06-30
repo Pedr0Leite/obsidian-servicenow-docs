@@ -16,7 +16,7 @@ Create a correction actions for the non-conformance report.
 
 ## Before you begin
 
-Role required: [[mco-quality-issue-management|Quality Issue Management]] Admin or [[mco-product-non-conformances|product non-conformance]] submitter \(sn\_mfg\_qm.product\_non\_conformance\_submitter\)
+Role required: Quality Issue Management Admin or product non-conformance submitter \(sn\_mfg\_qm.product\_non\_conformance\_submitter\)
 
 ## Procedure
 
@@ -26,7 +26,7 @@ Role required: [[mco-quality-issue-management|Quality Issue Management]] Admin o
 
 3.  On the Correction actions form, fill in the fields.
 
-    For a description of the field values, see [[mco-correction-actions-form|Correction actions form]].
+    For a description of the field values, see [Correction actions form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-correction-actions-form.md).
 
 4.  Select **Save**.
 
@@ -39,30 +39,19 @@ Role required: [[mco-quality-issue-management|Quality Issue Management]] Admin o
 6.  Select **Save**.
 
 
--   **[[mco-copq-expense-line|Create a CoPQ expense line]]**  
+-   **[Create a CoPQ expense line](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-copq-expense-line.md)**  
 Create CoPQ \(Cost of Poor Quality\) expense line enables you to capture the actual costs incurred due to poor quality. These costs include rework, scrap, warranty claims, or customer returns.
--   **[[mco-impacted-asset-action|Impacted asset action]]**  
+-   **[Impacted asset action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-impacted-asset-action.md)**  
 Create the list of assets that are impacted under non-conformance cases.
 
-**Parent Topic:**[[mco-related-lists-product-non-conformance|Product Non-conformance without playbook]]
+**Parent Topic:**[Product Non-conformance without playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-related-lists-product-non-conformance.md)
 
 **Related topics**  
 
 
-[[mco-notes|Notes form]]
+[Notes form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-notes.md)
 
-[[mco-resolution-information-form|Resolution information form]]
+[Resolution information form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-resolution-information-form.md)
 
-[[mco-effectiveness-form|Effectiveness form]]
+[Effectiveness form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-effectiveness-form.md)
 
-## Related
-
-- [[mco-correction-actions-form|Correction actions form]]
-- [[mco-copq-expense-line|Create a CoPQ expense line]]
-- [[mco-impacted-asset-action|Impacted asset action]]
-- [[mco-related-lists-product-non-conformance|Product Non-conformance without playbook]]
-- [[mco-notes|Notes form]]
-- [[mco-resolution-information-form|Resolution information form]]
-- [[mco-effectiveness-form|Effectiveness form]]
-- [[mco-quality-issue-management|Quality issue management]]
-- [[mco-product-non-conformances|Product non-conformance]]

@@ -14,7 +14,7 @@ breadcrumb: [Manage work using Boards, Use, Collaborative Work Management, Strat
 
 # Create a Board in CWM
 
-Manage work assigned to your team as tasks and track them to completion using customizable Boards for your shared Spaces in [[cwm-landing|Collaborative Work Management]].
+Manage work assigned to your team as tasks and track them to completion using customizable Boards for your shared Spaces in Collaborative Work Management.
 
 ## Before you begin
 
@@ -50,6 +50,3 @@ A Board is created within the Space that you selected and an empty Board is show
 
 **Parent Topic:**[Managing work using Boards in CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/cwm-boards.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

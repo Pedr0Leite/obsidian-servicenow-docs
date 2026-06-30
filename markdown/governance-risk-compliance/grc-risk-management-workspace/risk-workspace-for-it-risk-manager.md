@@ -16,7 +16,7 @@ breadcrumb: [GRC Risk Workspace, Explore, Risk Management, Governance, Risk, and
 
 Information technology or IT risk is any threat to your business data and critical systems. It is the risk associated with using and operating IT within an organization. An IT risk manager is the primary person responsible for establishing and maintaining the organization-wide IT risk management program.
 
-IT risks vary in nature. It is important to be aware of all the different types of IT risks potentially affecting your business. An IT risk manager works with various stakeholders to confirm that IT risks are managed within the risk appetite of the organization. To facilitate [[risk-assessments|risk assessments]] for IT risk managers, a preconfigured [[risk-assessment-methodology-prm|risk assessment methodology \(RAM\)]] is also provided by default. IT risk managers can use this RAM or make modifications to it according to their requirements.
+IT risks vary in nature. It is important to be aware of all the different types of IT risks potentially affecting your business. An IT risk manager works with various stakeholders to confirm that IT risks are managed within the risk appetite of the organization. To facilitate risk assessments for IT risk managers, a preconfigured risk assessment methodology \(RAM\) is also provided by default. IT risk managers can use this RAM or make modifications to it according to their requirements.
 
 <table id="table_syj_kcj_jpb"><thead><tr><th>
 
@@ -78,7 +78,3 @@ Create control test plans
 </td></tr></tbody>
 </table>**Parent Topic:**[GRC Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/risk-workspace.md)
 
-## Related
-
-- [[risk-assessments|risk assessments]]
-- [[risk-assessment-methodology-prm|Risk Assessment Methodology \(RAM\)]]

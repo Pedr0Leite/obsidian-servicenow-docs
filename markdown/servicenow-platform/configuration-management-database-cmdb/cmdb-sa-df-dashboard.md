@@ -14,7 +14,7 @@ breadcrumb: [Use Data Foundations advisor, CMDB success advisor, Configuration M
 
 # Monitoring CMDB data quality using dashboard metrics in CMDB success advisor for Data Foundations
 
-The [[cmdb-sa|CMDB success advisor]] for Data Foundations dashboard enables CMDB administrators to identify and address data quality issues specific to principal classes in the [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]].
+The CMDB success advisor for Data Foundations dashboard enables CMDB administrators to identify and address data quality issues specific to principal classes in the Configuration Management Database \(CMDB\).
 
 **Important:** When you select a segment or count on a chart from a CMDB success advisor dashboard, the KPI Details page opens. On the page, you can analyze how a specific metric trends over time. Additionally, the Remediation actions panel appears when remediation actions are available for that card. Use the panel to improve the quality of CMDB. To learn more, see [KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/kpi-details.md) and [Improving CMDB data quality for Data Foundations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sa-df-remediation.md).
 
@@ -55,7 +55,7 @@ CMDB administrator
 -   Monitor CI attribute completeness across principal classes
 -   Identify classes at risk with low data quality scores
 -   Detect stale and duplicate CI records affecting CMDB data accuracy
--   Evaluate integration coverage to ensure the right sources are [[c_OptionsToPopulateCMDB|populating the CMDB]]
+-   Evaluate integration coverage to ensure the right sources are populating the CMDB
 -   Prioritize remediation efforts based on incident, change, and problem impact
 -   Track progress toward CSDM alignment
 
@@ -143,9 +143,3 @@ Operational CIs identified as duplicates within principal classes, causing ambig
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cmdb-sa|CMDB success advisor]]
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[c_OptionsToPopulateCMDB|Populating the CMDB]]

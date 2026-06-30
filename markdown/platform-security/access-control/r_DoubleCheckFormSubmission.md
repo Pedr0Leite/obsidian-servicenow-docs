@@ -22,8 +22,5 @@ If you tell the system not to double-check inbound transactions, then the system
 
 |Property|Location|Default|
 |--------|--------|-------|
-|Double check security on inbound transactions during form submission \(rights are always checked on form generation\)|**[[ca-system-properties|System Properties]]** &gt; **Security**|Disabled \(no double-checking\)|
+|Double check security on inbound transactions during form submission \(rights are always checked on form generation\)|**System Properties** &gt; **Security**|Disabled \(no double-checking\)|
 
-## Related
-
-- [[ca-system-properties|System properties]]

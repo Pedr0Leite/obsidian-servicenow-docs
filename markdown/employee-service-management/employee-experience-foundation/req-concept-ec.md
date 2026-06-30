@@ -14,10 +14,10 @@ breadcrumb: [Employee Center reference, Employee Center, Unified Employee Experi
 
 # Enhanced Requests Experience forms
 
-The forms provide information to set up the [[my-requests-update-intro|Enhanced Requests Experience]].
+The forms provide information to set up the Enhanced Requests Experience.
 
 -   **[Request source form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/request-source-form.md)**  
-The field descriptions provide a [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] point when you're creating a request source.
+The field descriptions provide a reference point when you're creating a request source.
 -   **[Request filter definition form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/filter-def-request-form.md)**  
 The field descriptions provide a reference point when you're creating a Requests filter definition.
 -   **[Request filter configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/filter-config-form-req.md)**  
@@ -38,7 +38,7 @@ The field descriptions provide a reference point when you're creating a Requests
 
 [Connected Content form]()
 
-[Default [[emp-slate-employee-profile|Employee Profile]] Header Configuration record]()
+[Default Employee Profile Header Configuration record]()
 
 [Employee Center widgets]()
 
@@ -66,7 +66,7 @@ The field descriptions provide a reference point when you're creating a Requests
 
 [Portal notification configuration form]()
 
-[Portal [[ec-notification-content|notification content]] form]()
+[Portal notification content form]()
 
 [Trigger conditions form]()
 
@@ -88,9 +88,3 @@ The field descriptions provide a reference point when you're creating a Requests
 
 [Website configuration form]()
 
-## Related
-
-- [[my-requests-update-intro|Enhanced Requests Experience]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[ec-notification-content|Notification content]]

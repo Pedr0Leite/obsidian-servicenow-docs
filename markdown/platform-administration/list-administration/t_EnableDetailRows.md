@@ -28,7 +28,7 @@ To display detail rows, an administrator must enable them globally and add them 
 
 ## Procedure
 
-1.  To enable detail rows, [[t_AddAPropertyUsingSysPropsList|add a new system property]] with the following field values.
+1.  To enable detail rows, [add a new system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddAPropertyUsingSysPropsList.md) with the following field values.
 
 <table id="table_esm_jyw_j1b"><tbody><tr><td>
 
@@ -73,6 +73,3 @@ true
 
 [Altering tables and fields using dictionary attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_DictionaryAttributes.md)
 
-## Related
-
-- [[t_AddAPropertyUsingSysPropsList|Add a system property]]

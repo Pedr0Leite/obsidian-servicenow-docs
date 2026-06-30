@@ -14,11 +14,11 @@ breadcrumb: [Define a search source, Zing search in Service Portal, Configuring 
 
 # Create an advanced typeahead template
 
-[[configure-onboarding-modals|Configure]] the way typeahead results display with an advanced template.
+Configure the way typeahead results display with an advanced template.
 
 ## Before you begin
 
-**Note:** Search suggestions replaces typeahead search in [[c_ServicePortal|Service Portal]]. Update the **glide.service\_portal.search\_as\_you\_type\_behavior** system property to change this behavior. For more information, see [Enable and disable search suggestions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/enable-search-suggestions.md). Service Portal [[search-widgets|search widgets]] automatically use whichever feature you enable.
+**Note:** Search suggestions replaces typeahead search in Service Portal. Update the **glide.service\_portal.search\_as\_you\_type\_behavior** system property to change this behavior. For more information, see [Enable and disable search suggestions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/enable-search-suggestions.md). Service Portal search widgets automatically use whichever feature you enable.
 
 Role required: admin
 
@@ -49,8 +49,3 @@ Role required: admin
 
 **Parent Topic:**[Define a search source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/add-table-search-source.md)
 
-## Related
-
-- [[configure-onboarding-modals|Configure]]
-- [[c_ServicePortal|Service Portal]]
-- [[search-widgets|Search widgets]]

@@ -14,7 +14,7 @@ breadcrumb: [Reference Opportunity Marketplace roles and tables, Opportunity Mar
 
 # Form fields for creating opportunities in Opportunity Marketplace
 
-Gigs, projects, and [[egd-oppt-mrktplc-volunteer|volunteer opportunities]] have 2 forms with several fields.
+Gigs, projects, and volunteer opportunities have 2 forms with several fields.
 
 <table id="table_zj4_y43_jcc"><thead><tr><th>
 
@@ -173,7 +173,7 @@ There are 3 controls for **Preferred skills**. The skill and proficiency levels 
 
 </td><td>
 
-There are 4 levels of individual contributors and 2 levels of management included with the OPM base system. The **Employee level** is included in the [[skills-intelligence|Skills Foundation]] job level table \[sn\_skills\_int\_job\_level\]. For more information about skills, job levels, and roles, see [Configuring Skills Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/configuring-skills-intelligence.md).
+There are 4 levels of individual contributors and 2 levels of management included with the OPM base system. The **Employee level** is included in the Skills Foundation job level table \[sn\_skills\_int\_job\_level\]. For more information about skills, job levels, and roles, see [Configuring Skills Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/configuring-skills-intelligence.md).
 
 </td></tr><tr><td>
 
@@ -186,7 +186,3 @@ Attachments provide more details about skills and roles for the opportunity.
 </td></tr></tbody>
 </table>**Parent Topic:**[Reference Opportunity Marketplace roles and tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/opportunity-marketplace/egd-oppt-mrktplc-references.md)
 
-## Related
-
-- [[egd-oppt-mrktplc-volunteer|Volunteer opportunities]]
-- [[skills-intelligence|Skills Foundation]]

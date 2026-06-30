@@ -14,8 +14,5 @@ breadcrumb: [Reference for Knowledge Graph, Knowledge Graph, Enable AI experienc
 
 # Knowledge Graph roles
 
-Certain roles are required to use [[knowledge-graph-landing|Knowledge Graph]] functionality.
+Certain roles are required to use Knowledge Graph functionality.
 
-## Related
-
-- [[knowledge-graph-landing|Knowledge Graph]]

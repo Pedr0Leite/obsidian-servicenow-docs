@@ -14,7 +14,7 @@ breadcrumb: [Storage Discovery via SMI-S and CIM, Storage discovery, Data collec
 
 # Configure SMI-S Provider for storage Discovery
 
-Use this procedure for configuring a standalone storage device with the required SMI-S Provider for [[r-discovery|Discovery]].
+Use this procedure for configuring a standalone storage device with the required SMI-S Provider for Discovery.
 
 ## Before you begin
 
@@ -40,12 +40,8 @@ Role required: admin
 
 7.  Create a [Discovery behavior](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoveryBehaviors.md) that uses a functionality definition with a **wbem** port probe to make the initial port-scanning phase \(Shazzam\) more efficient.
 
-8.  Run a basic [[r_DataCollDiscoIPAddress|IP address Discovery]].
+8.  Run a basic IP address Discovery.
 
 
 **Parent Topic:**[Storage Discovery via SMI-S and CIM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_DataCollDiscoStorageviaSMISCIM.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[r_DataCollDiscoIPAddress|IP address discovery]]

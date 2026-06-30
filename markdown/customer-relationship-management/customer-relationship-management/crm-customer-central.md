@@ -10,11 +10,11 @@ reading_time_minutes: 2
 
 # Customer Central
 
-Customer Central gives users a view of a customer's details and recent service history within a [[crm-configurable-workspace|configurable workspace]].
+Customer Central gives users a view of a customer's details and recent service history within a configurable workspace.
 
 ## Customer Central overview
 
-Customer Central provides [[crm-customer-data|customer data]] directly on the records that agents and fulfillers work with in a configurable workspace, including cases, interactions, accounts, contacts, and consumer records. When a user opens an escalated case, for example, the account details, contact information, recent cases, and interaction history are already surfaced on the record. The user can see what has been attempted previously and avoid asking the customer to repeat information.
+Customer Central provides customer data directly on the records that agents and fulfillers work with in a configurable workspace, including cases, interactions, accounts, contacts, and consumer records. When a user opens an escalated case, for example, the account details, contact information, recent cases, and interaction history are already surfaced on the record. The user can see what has been attempted previously and avoid asking the customer to repeat information.
 
 \[Omitted image "cust-central-cust-information.png"\] Alt text: Customer Information tab displaying customer contact information and recent engagements with the customer, including chat interactions, high priority, and recent cases and phone calls.
 
@@ -39,7 +39,7 @@ Customer Central provides benefits to internal users across an organization.
 
 ## Use cases
 
--   **[[crm-about-csm-in-crm|Customer Service Management]]: giving agents immediate customer context**
+-   **Customer Service Management: giving agents immediate customer context**
 
     When an agent opens a case or interaction record, Customer Central is already there. Account details, contact information, recent cases, and interaction history are all visible in the record view, so the agent can orient themselves to the customer's situation before responding, without having to search separately or ask the customer to repeat themselves.
 
@@ -55,8 +55,3 @@ Customer Central provides benefits to internal users across an organization.
 
 [Configuring the Customer History component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-central-configuration.md)
 
-## Related
-
-- [[crm-configurable-workspace|Configurable workspace]]
-- [[crm-customer-data|Customer data]]
-- [[crm-about-csm-in-crm|Customer Service Management]]

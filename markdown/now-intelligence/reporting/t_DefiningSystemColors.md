@@ -14,7 +14,7 @@ breadcrumb: [Predefined colors in reports, Advanced Core UI reporting topics, Re
 
 # Define system colors for analytics
 
-Create color definitions for use in visualizations and [[c_Widgets|Performance Analytics widgets]].
+Create color definitions for use in visualizations and Performance Analytics widgets.
 
 ## Before you begin
 
@@ -26,17 +26,17 @@ The following visualizations use the colors that you define in the Color Definit
 
 -   Reports with one color
 -   Reports with a color palette
--   Reports using [[c_ChartColors|chart colors]]
--   Performance Analytics [[breakdown-widgets|breakdown widgets]]
--   Performance Analytics [[time-series-widgets|time series widgets]] with widget indicators
+-   Reports using chart colors
+-   Performance Analytics breakdown widgets
+-   Performance Analytics time series widgets with widget indicators
 -   Data Visualization Next Experience Components that use a single color, a color palette, or fixed element colors \(chart colors\)
--   Performance Analytics target [[color-schemes-pa-widgets|color schemes]]
+-   Performance Analytics target color schemes
 
 For reports and visualizations with a color palette and for Performance Analytics widgets, these colors are used via chart color schemes. Chart colors reference color definitions directly.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]] Administration** &gt; **Color Settings** &gt; **Chart Colors**.
+1.  Navigate to **All** &gt; **Platform Analytics Administration** &gt; **Color Settings** &gt; **Chart Colors**.
 
 2.  Select **New**.
 
@@ -84,11 +84,3 @@ Applies an alternate color from the UX Theme Properties \[sys\_ux\_theme\_proper
 
 **Parent Topic:**[Predefined colors in reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/colors-reports.md)
 
-## Related
-
-- [[c_Widgets|Performance Analytics widgets]]
-- [[c_ChartColors|Chart colors]]
-- [[breakdown-widgets|Breakdown widgets]]
-- [[time-series-widgets|Time series widgets]]
-- [[color-schemes-pa-widgets|Color schemes]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

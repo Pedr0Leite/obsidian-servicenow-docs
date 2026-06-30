@@ -14,7 +14,7 @@ breadcrumb: [Reference, AI Risk and Compliance, Governance, Risk, and Compliance
 
 # Tables installed with AI Risk and Compliance
 
-Tables are added with the activation of the [[ai-risk-and-compliance|AI Risk and Compliance]] application.
+Tables are added with the activation of the AI Risk and Compliance application.
 
 See the following table for a description of the tables.
 
@@ -34,7 +34,7 @@ AI system
 
 </td><td>
 
-Captures AI use cases submitted via the [[employee-center|Employee Center]], serving as a central repository for all submitted requests.
+Captures AI use cases submitted via the Employee Center, serving as a central repository for all submitted requests.
 
 </td></tr><tr><td>
 
@@ -44,7 +44,7 @@ AI system entity
 
 </td><td>
 
-Maintains entity information for [[ai-system-airc|AI systems]] created through the intake form, including linked details about associated [[ai-model-airc|AI models]] and [[dataset-airc|datasets]].
+Maintains entity information for AI systems created through the intake form, including linked details about associated AI models and datasets.
 
 </td></tr><tr><td>
 
@@ -69,10 +69,3 @@ Consolidates AI-related cases and inquiries, providing a comprehensive view of a
 </td></tr></tbody>
 </table>**Parent Topic:**[AI Risk and Compliance reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/ai-risk-and-compliance-reference.md)
 
-## Related
-
-- [[ai-risk-and-compliance|AI Risk and Compliance]]
-- [[employee-center|employee center]]
-- [[ai-system-airc|AI systems]]
-- [[ai-model-airc|AI models]]
-- [[dataset-airc|Datasets]]

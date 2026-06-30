@@ -18,13 +18,13 @@ Publish a version of a shared component in a library so that it can be used in a
 
 ## Before you begin
 
-**Important:** Starting with the Washington D.C. release, [[devops-config-landing-page|DevOps Config]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+**Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 Role required: cdm\_admin
 
 ## About this task
 
-When a version is unpublished, it means that the component and its version can no longer be used in an application. However, it has no impact on [[dex-workspace-application-tab|applications]] that are already using the version.
+When a version is unpublished, it means that the component and its version can no longer be used in an application. However, it has no impact on applications that are already using the version.
 
 **Note:** A shared component can only have one published version at a time.
 
@@ -68,8 +68,3 @@ Select a published version from the list, select the \[Omitted image "icon-down-
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]
-- [[dex-workspace-application-tab|Applications]]

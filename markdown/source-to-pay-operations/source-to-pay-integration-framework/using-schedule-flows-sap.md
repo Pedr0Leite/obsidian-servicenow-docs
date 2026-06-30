@@ -14,7 +14,7 @@ breadcrumb: [Use, Source-to-Pay integration with SAP, Integration with third-par
 
 # Use schedule flows in SAP
 
-Use the schedule flows that interact with SAP to pull information on [[purchase-requisition|purchase requisition]], [[purchase-order-table|purchase order]], receipt, invoice, and sourcing.
+Use the schedule flows that interact with SAP to pull information on purchase requisition, purchase order, receipt, invoice, and sourcing.
 
 You can either use the subflows to perform the required tasks or you can create a copy of the subflows and then customize it according to your requirements.
 
@@ -26,7 +26,7 @@ The Source-to-Pay with SAP integration supports the following subflows.
 
 ## Primary Data Integration with SAP
 
-The [[master-data-integration|Primary Data Integration]] with SAP supports the following subflows and system properties:
+The Primary Data Integration with SAP supports the following subflows and system properties:
 
 **Subflows for Primary Data Integration with SAP ECC**
 
@@ -37,7 +37,7 @@ The [[master-data-integration|Primary Data Integration]] with SAP supports the f
 |Fetch FX Currency Rates|Use this subflow to fetch and synchronize all FX currency rates from SAP ECC system.|
 |Fetch Cost Centers|Use this subflow to fetch and synchronize all cost centers from SAP ECC system.|
 |Fetch Departments|Use this subflow to fetch and synchronize all departments from SAP ECC.|
-|Fetch Payment Terms|Use this subflow to fetch and synchronize all [[payment-terms|payment terms]] from SAP ECC system.|
+|Fetch Payment Terms|Use this subflow to fetch and synchronize all payment terms from SAP ECC system.|
 |Fetch Purchasing Orgs|Use this subflow to fetch and synchronize all purchasing organizations from SAP ECC system.|
 |Fetch GL Accounts|Use this subflow to fetch and synchronize all GL accounts from SAP ECC system.|
 |Fetch Product Models|Use this subflow to fetch and synchronize all product models from SAP ECC system.|
@@ -84,7 +84,7 @@ sn\_sap\_data\_int.cloud\_cost\_centers\_service\_subflow
 
 </td><td>
 
-Use this subflow for fetching [[cost-center|cost center]] data from SAP ECC system.
+Use this subflow for fetching cost center data from SAP ECC system.
 
 </td></tr><tr><td>
 
@@ -92,7 +92,7 @@ sn\_sap\_data\_int.cloud\_fetch\_suppliers\_service\_subflow
 
 </td><td>
 
-Use this subflow for fetching [[supplier|supplier]] details from SAP ECC system.
+Use this subflow for fetching supplier details from SAP ECC system.
 
 </td></tr><tr><td>
 
@@ -156,7 +156,7 @@ sn\_sap\_data\_int.odata\_gl\_account\_service\_subflow
 
 </td><td>
 
-Use this subflow for fetching general [[ledger-account|ledger account]] data using OData service.
+Use this subflow for fetching general ledger account data using OData service.
 
 </td></tr><tr><td>
 
@@ -164,7 +164,7 @@ sn\_sap\_data\_int.odata\_legal\_entities\_service\_subflow
 
 </td><td>
 
-Use this subflow for fetching [[legal-entity|legal entity]] details using OData service.
+Use this subflow for fetching legal entity details using OData service.
 
 </td></tr><tr><td>
 
@@ -657,7 +657,7 @@ sn\_sap\_data\_int.subflow\_timeout\_value
 Maximum timeout duration \(in milliseconds\) for subflow execution.Default value: 10000000
 
 </td></tr></tbody>
-</table>## [[supp-mgmt-landing-page|Supplier Lifecycle Operations]] Integration with SAP
+</table>## Supplier Lifecycle Operations Integration with SAP
 
 The Supplier Lifecycle Operations Integration with SAP supports the following subflows:
 
@@ -679,14 +679,14 @@ The Supplier Lifecycle Operations Integration with SAP supports the following su
 
 ## Sourcing and Procurement Operations Integration with SAP
 
-The [[psm-overview|Sourcing and Procurement Operations]] Integration with SAP supports the following subflows:
+The Sourcing and Procurement Operations Integration with SAP supports the following subflows:
 
 **Subflows for Sourcing and Procurement Operations Integration with SAP ECC**
 
 |Flow|Description|
 |----|-----------|
 |Create or update Purchase Order|Creates or updates purchase orders in SAP ECC.|
-|Create Goods Receipts|Creates goods [[receipts|receipts]] in SAP ECC.|
+|Create Goods Receipts|Creates goods receipts in SAP ECC.|
 |Cancel Goods Receipts|Cancels goods receipts in SAP ECC.|
 |Fetch Purchase Order|Fetches and synchronize all purchase orders from SAP ECC.|
 |Fetch Goods Receipts|Fetches and synchronize all goods receipts from SAP ECC.|
@@ -723,7 +723,7 @@ Role required:
 
 ## Accounts Payable Operations Integration with SAP
 
-The [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] Integration with SAP supports the following subflows:
+The Accounts Payable Operations Integration with SAP supports the following subflows:
 
 **Accounts Payable Operations Integration with SAP ECC**
 
@@ -734,7 +734,7 @@ Role required:
 
 |Flow|Description|
 |----|-----------|
-|Create Invoice|Creates [[invoices|invoices]] in SAP ECC.|
+|Create Invoice|Creates invoices in SAP ECC.|
 |Create Non-Purchase Order Invoice|Creates non-purchase order Invoices in SAP ECC.|
 |Cancel Invoice|Cancels invoices in SAP ECC.|
 |Authorize Payment|Authorizes and releases payment for supplier invoice in SAP ECC.|
@@ -771,18 +771,3 @@ You can create a copy of the flow or subflow and make the necessary modification
 
 **Parent Topic:**[Use Source-to-Pay integration with SAP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/using-source-to-pay-sap-integration.md)
 
-## Related
-
-- [[purchase-requisition|Purchase requisition]]
-- [[purchase-order-table|Purchase order]]
-- [[master-data-integration|Primary data integration]]
-- [[payment-terms|Payment terms]]
-- [[cost-center|Cost center]]
-- [[supplier|Supplier]]
-- [[ledger-account|Ledger account]]
-- [[legal-entity|Legal entity]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[psm-overview|Sourcing and Procurement Operations]]
-- [[receipts|Receipts]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[invoices|Invoices]]

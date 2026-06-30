@@ -14,7 +14,7 @@ breadcrumb: [Use HAM advisor, Asset and CI management, Explore, Hardware Asset M
 
 # Analyze CMDB settings for HAM
 
-Monitor and optimize Configuration Management Database \(CMDB\) settings that support configuration item \(CI\) to hardware asset synchronization, life cycle alignment, and [[ham-landing-page|Hardware Asset Management]] \(HAM\) data quality.
+Monitor and optimize Configuration Management Database \(CMDB\) settings that support configuration item \(CI\) to hardware asset synchronization, life cycle alignment, and Hardware Asset Management \(HAM\) data quality.
 
 Use the **Settings** tab in the CMDB success advisor for HAM to review configuration indicators and identify opportunities to improve CMDB alignment with HAM guidelines.
 
@@ -62,7 +62,7 @@ CMDB administrator
 -   Improve the accuracy of asset reconciliation by aligning CI and asset record creation.
 -   Promote consistent asset life cycle management through status field alignment across asset and CI records.
 -   Automate policy-based workflows for asset retirement, deletion, certification, or archival using policy-driven rules.
--   Standardize hardware [[model-hierarchy|model categories]] to improve normalization processes and reporting accuracy.
+-   Standardize hardware model categories to improve normalization processes and reporting accuracy.
 
 </td></tr></tbody>
 </table>## Settings features
@@ -133,7 +133,7 @@ Opens the Asset CI Field Mappings list page where you can select a CI and review
 
 </td><td>
 
-Opens the Data Manager overview page where you can create or update policies for different CI classes to automate [[am-landing-page|asset management]].
+Opens the Data Manager overview page where you can create or update policies for different CI classes to automate asset management.
 
 </td></tr><tr><td id="d332873e542">
 
@@ -300,8 +300,3 @@ Once all settings checks are complete:
 -   Data Manager policies are configured for all required CI classes.
 -   No `Requires attention` status is displayed for any setting in the **Settings** tab.
 
-## Related
-
-- [[ham-landing-page|Hardware Asset Management]]
-- [[model-hierarchy|Model categories]]
-- [[am-landing-page|Asset Management]]

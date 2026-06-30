@@ -29,7 +29,7 @@ With the customer service agent role \(sn\_customerservice\_agent\), you can:
 -   Get a quick overview of your case load, including new cases, critical cases, and those that need attention.
 -   Accept and reassign cases.
 -   Add comments or work notes to cases.
--   Review case details, [[csm-config-ws-activity-stream|activity stream]], and related information such as SLAs, case tasks, and child cases.
+-   Review case details, activity stream, and related information such as SLAs, case tasks, and child cases.
 -   Edit case information such as priority.
 -   Propose major cases.
 -   Receive push notifications for assigned or updated cases.
@@ -57,7 +57,7 @@ To use the Customer Service Management mobile application, activate the Customer
 
 -   Mobile Agent Native Client plugin \(com.glide.sg.agent\_native\_client\)
 -   Customer Service \(com.sn\_customerservice\)
--   Customer Service [[case-action-status-csm-workspace|Case Action Status]] \(com.sn.csm\_action\_status\)
+-   Customer Service Case Action Status \(com.sn.csm\_action\_status\)
 
 To provide support for major cases, you can activate the optional Major Issue Management plugin \(com.sn\_majorissue\_mgt\).
 
@@ -67,22 +67,15 @@ Once the Customer Service Management mobile application is activated and configu
 
 For more information, see [Activate a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md).
 
--   **[[customer-service-mobile-overview|CSM application overview]]**  
+-   **[CSM application overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-mobile-overview.md)**  
 Customer service agents and managers can use the applet launcher and applets in the Customer Service mobile application to view notifications and manage customer service cases.
--   **[[install-customer-service-mobile-app|Get started with the Customer Service mobile application]]**  
+-   **[Get started with the Customer Service mobile application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/install-customer-service-mobile-app.md)**  
 Use the ServiceNow Agent mobile app to access the Customer Service mobile application. Then log in to an instance as an agent or manager and work on your customer service cases.
 
-**Parent Topic:**[[c_CustomerServiceManagement|Customer Service Management]]
+**Parent Topic:**[Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_CustomerServiceManagement.md)
 
 **Related topics**  
 
 
 [Getting started with ServiceNow Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-experience.md)
 
-## Related
-
-- [[customer-service-mobile-overview|CSM application overview]]
-- [[install-customer-service-mobile-app|Get started with the Customer Service mobile application]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[csm-config-ws-activity-stream|Activity stream]]
-- [[case-action-status-csm-workspace|Case action status]]

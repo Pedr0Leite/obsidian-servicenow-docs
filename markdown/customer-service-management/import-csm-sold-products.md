@@ -12,7 +12,7 @@ breadcrumb: [Sold products, Configure install base, Configure product data, Prod
 
 # Import sold products with guided setup
 
-[[sold-product|Sold products]] are products and components that have been sold to an account or a consumer. Use guided setup to import sold products so that you can track the products or services sold to an account or consumer.
+Sold products are products and components that have been sold to an account or a consumer. Use guided setup to import sold products so that you can track the products or services sold to an account or consumer.
 
 ## Before you begin
 
@@ -36,6 +36,4 @@ This provides an overview of the complete product sold to an account or consumer
 
 6.  Verify that the data records are imported into the target table.
 
-## Related
 
-- [[sold-product|Sold products]]

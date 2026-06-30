@@ -14,13 +14,10 @@ breadcrumb: [API Insights, Configuration Management Database \(CMDB\), Configura
 
 # Managing API access within API Insights
 
-Manage received and sent requests by granting or rejecting API access, sending reminders, or withdrawing requests in [[api-insights|API Insights]].
+Manage received and sent requests by granting or rejecting API access, sending reminders, or withdrawing requests in API Insights.
 
 You can manage API access requests by performing the following actions:
 
 -   [Manage requests received for API access in API Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights-grant-access.md).
 -   [Manage requests sent for API access in API Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights-sent-access.md).
 
-## Related
-
-- [[api-insights|API Insights]]

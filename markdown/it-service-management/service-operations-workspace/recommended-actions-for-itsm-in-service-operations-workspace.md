@@ -21,7 +21,7 @@ Get actionable real-time recommendations in the side panel to help address custo
 -   **[Get field recommendations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/get-field-recommendations.md)**  
 Get incident field recommendations in Service Operations Workspace while creating or updating incidents.
 -   **[Recommended Actions for ITSM reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/recommended-actions-for-itsm-reference.md)**  
-[[reference-for-itsm-mobile-agent|Reference]] topics provide additional information about various form fields and components installed with Recommended Actions for ITSM.
+Reference topics provide additional information about various form fields and components installed with Recommended Actions for ITSM.
 
 **Parent Topic:**[Managing IT services in your organization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/managing-services-operations-in-organization.md)
 
@@ -30,7 +30,7 @@ Get incident field recommendations in Service Operations Workspace while creatin
 
 [Knowledge Management in Service Operations Workspace]()
 
-[Major [[c_IncidentManagement|Incident Management]] in Service Operations Workspace]()
+[Major Incident Management in Service Operations Workspace]()
 
 [On-Call Scheduling in Service Operations Workspace]()
 
@@ -54,7 +54,3 @@ Get incident field recommendations in Service Operations Workspace while creatin
 
 [Resetting password using Service-desk assisted Password Reset in Service Operations Workspace]()
 
-## Related
-
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[c_IncidentManagement|Incident Management]]

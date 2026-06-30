@@ -14,7 +14,7 @@ breadcrumb: [Reference, IT Remediation Workspace, Vulnerability Response Workspa
 
 # Request exception form fields for policy exceptions
 
-The following table shows the fields that you must fill on the [[cvr-request-exception-form|Request exception form]] for policy exceptions.
+The following table shows the fields that you must fill on the Request exception form for policy exceptions.
 
 <table id="table_fml_xt3_fwb"><thead><tr><th>
 
@@ -78,6 +78,3 @@ Details related to the reason this exception is being requested. This field must
 
 [Request an exception using GRC: Policy and Compliance Management in the IT Remediation Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/it-remediation-workspace/vr-ws-request-exception-grc.md)
 
-## Related
-
-- [[cvr-request-exception-form|Request Exception form]]

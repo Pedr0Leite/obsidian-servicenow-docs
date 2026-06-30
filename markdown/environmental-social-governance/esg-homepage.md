@@ -121,8 +121,5 @@ You can view material topics in one of the following formats:
 
 You can use the ability to search the Operational Sustainability Workspace by using the Search field. To search the Operational Sustainability Workspace, select **Operational Sustainability Workspace** from the list. The search results appear on the contextual side panel.
 
-**Parent Topic:**[[esg-new-explore|Exploring Operational Sustainability Management \(formerly ESG Management\)]]
+**Parent Topic:**[Exploring Operational Sustainability Management \(formerly ESG Management\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/esg-new-explore.md)
 
-## Related
-
-- [[esg-new-explore|Exploring Operational Sustainability Management \(formerly ESG Management\)]]

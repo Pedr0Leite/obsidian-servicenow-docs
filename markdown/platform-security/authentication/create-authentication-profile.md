@@ -14,7 +14,7 @@ breadcrumb: [REST API access policies, API access policy, Authentication, Access
 
 # Create an authentication profile
 
-[[create-an-authentication-profile|Create an authentication profile]] and add one or more [[authentication-policies|authentication policies]] to the profile. You can also configure the **ID Token** and **[[oauth-inbound-and-outbound|OAuth]] Token** [[c_Authentication|authentication]] profiles that are available by default.
+Create an authentication profile and add one or more authentication policies to the profile. You can also configure the **ID Token** and **OAuth Token** authentication profiles that are available by default.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: api\_service\_admin, adaptive\_auth\_policy\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Web Services** &gt; **API Access [[ca-policies|Policies]]** &gt; **Inbound Authentication Profiles**.
+1.  Navigate to **All** &gt; **System Web Services** &gt; **API Access Policies** &gt; **Inbound Authentication Profiles**.
 
 2.  Select **New**.
 
@@ -55,18 +55,11 @@ Role required: api\_service\_admin, adaptive\_auth\_policy\_admin
 
     Authenticate Header \[WWW-Authenticate\].
 
-    When REST [[api-access-policy|API Access Policy]] is active we will return the most recently mapped authentication profile in the authenticate header. In the case you want the server to return all the authentication schemes, use the `glide.security.response.authenticate.header.auth_profile.first_scheme_only` property and set it to **false**. The response is returned with multiple header. For example:
+    When REST API Access Policy is active we will return the most recently mapped authentication profile in the authenticate header. In the case you want the server to return all the authentication schemes, use the `glide.security.response.authenticate.header.auth_profile.first_scheme_only` property and set it to **false**. The response is returned with multiple header. For example:
 
     ```
     < WWW-Authenticate: BEARER realm="Service-now"
     < WWW-Authenticate: BASIC realm="Service-now"
     ```
 
-## Related
 
-- [[create-an-authentication-profile|Create an authentication profile]]
-- [[authentication-policies|Authentication policies]]
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[c_Authentication|Authentication]]
-- [[ca-policies|Policies]]
-- [[api-access-policy|API access policy]]

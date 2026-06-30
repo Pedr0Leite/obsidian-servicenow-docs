@@ -18,7 +18,7 @@ An application profile specifies application software to install on newly-provis
 
 ## Before you begin
 
--   You must have a cloud account with datacenters. You must run [[r-discovery|Discovery]] on the service accounts to populate the datacenters.
+-   You must have a cloud account with datacenters. You must run Discovery on the service accounts to populate the datacenters.
 -   Role required: sn\_cmp.cloud\_admin
 
 ## About this task
@@ -29,7 +29,7 @@ This example shows an application profile mapping for a Tomcat server on Ansible
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Manage** &gt; **[[cloud-resource-profiles|Resource Profiles]]**.
+1.  In the Cloud Admin Portal, navigate to **Manage** &gt; **Resource Profiles**.
 
 2.  In the **Profiles** list, select **Application Profile** and then click **New**.
 
@@ -93,8 +93,3 @@ Select a template that the profile should be mapped to. If you ran Discovery on 
 
 [Discover all datacenters in a service account on-demand]()
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[cloud-admin-portal|Cloud Admin Portal]]
-- [[cloud-resource-profiles|Resource Profiles]]

@@ -26,7 +26,7 @@ The DEX Survey configuration is stored in the Survey Configuration \[dex\_survey
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[dexscr-digital-experience-score|Digital Experience Score​]]** &gt; **DEX Survey Configuration**.
+1.  Navigate to **All** &gt; **Digital Experience Score​** &gt; **DEX Survey Configuration**.
 
 2.  Open a survey configuration to modify its values.
 
@@ -39,6 +39,3 @@ The DEX Survey configuration is stored in the Survey Configuration \[dex\_survey
 
 **Parent Topic:**[Configuring Digital Experience Score​](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/dexscr-configuring-dex-score.md)
 
-## Related
-
-- [[dexscr-digital-experience-score|Digital Experience Score​]]

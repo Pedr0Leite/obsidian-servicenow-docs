@@ -14,7 +14,7 @@ breadcrumb: [Configure, Service Graph Workspace, Configuration Management Databa
 
 # Configure classes for Cloud vs Non-cloud resources in Service Graph Workspace
 
-Include or exclude pairs of **CI Class**/**Type** in the [[cmdb-workspace-ci-overview-cloud|Cloud vs Non-cloud resources chart]] that appears in the [[sg-workspace-insights-view|Insights view in Service Graph Workspace]].
+Include or exclude pairs of **CI Class**/**Type** in the Cloud vs Non-cloud resources chart that appears in the Insights view in Service Graph Workspace.
 
 ## Before you begin
 
@@ -36,7 +36,4 @@ A **CI Class**/**Type** pair appears or doesn't appear according to its **Active
 
     For example, set **Active** to **false** for the **Applications**/**Non-cloud** pair. This setting will exclude from the chart all CIs in the Applications class which are determined to be non-cloud.
 
-## Related
 
-- [[cmdb-workspace-ci-overview-cloud|Cloud vs Non-cloud resources chart]]
-- [[sg-workspace-insights-view|Insights view in Service Graph Workspace]]

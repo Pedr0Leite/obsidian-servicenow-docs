@@ -12,7 +12,7 @@ breadcrumb: [Performing Importance and impact tolerance assessment, Manage, Oper
 
 # Request an approval for the assessment
 
-[[submit-vul-for-approval|Request an approval]] for the Importance and impact tolerance assessment in [[grc-opres-landing-page|Operational Resilience]] Workspace. With an approval, you can make sure that an accurate rating is assigned to your business services.
+Request an approval for the Importance and impact tolerance assessment in Operational Resilience Workspace. With an approval, you can make sure that an accurate rating is assigned to your business services.
 
 ## Before you begin
 
@@ -43,10 +43,5 @@ Role required: sn\_oper\_res.manager
 
 ## What to do next
 
-Having an approved Importance and impact tolerance assessment completes the workflow. To close an inactive assessment, see [[approve-the-assessment-in-ws|Close the assessment]]. Note that closed assessments are considered inactive.
+Having an approved Importance and impact tolerance assessment completes the workflow. To close an inactive assessment, see [Close the assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/approve-the-assessment-in-ws.md). Note that closed assessments are considered inactive.
 
-## Related
-
-- [[approve-the-assessment-in-ws|Close the assessment]]
-- [[submit-vul-for-approval|Request an approval]]
-- [[grc-opres-landing-page|Operational Resilience]]

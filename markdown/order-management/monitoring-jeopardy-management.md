@@ -14,7 +14,7 @@ breadcrumb: [Order Management, Use, Sales Customer Relationship Management]
 
 Order managers and agents can monitor jeopardy-enabled fulfillment tasks. When a task enters jeopardy, managers can take action to ensure the fulfillment workflow isn’t delayed.
 
-When [[jeopardy-management|Jeopardy Management]] is added to fulfillment task flows, Jeopardy Management tracks the time to complete tasks and creates a predictive assessment of the risk level to the fulfillment plan. If a task is taking longer than the defined time, jeopardy alerts are shared.
+When Jeopardy Management is added to fulfillment task flows, Jeopardy Management tracks the time to complete tasks and creates a predictive assessment of the risk level to the fulfillment plan. If a task is taking longer than the defined time, jeopardy alerts are shared.
 
 The following table describes where you can view the jeopardy status.
 
@@ -45,7 +45,7 @@ Order timeline view
 
 </td></tr><tr><td>
 
-[[order-orchestration|Order orchestration]] view
+Order orchestration view
 
 </td><td>
 
@@ -64,13 +64,7 @@ Navigate to **Customer Order** &gt; **Order** &gt; **Order Line Item** &gt; **Ta
 </table>**Related topics**  
 
 
-[[order-mgt-configuring|Configuring Order Management]]
+[Configuring Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-configuring.md)
 
-[[explore-order-management|Order management]]
+[Order management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-order-management.md)
 
-## Related
-
-- [[order-mgt-configuring|Configuring Order Management]]
-- [[explore-order-management|Order management]]
-- [[jeopardy-management|Jeopardy Management]]
-- [[order-orchestration|Order orchestration]]

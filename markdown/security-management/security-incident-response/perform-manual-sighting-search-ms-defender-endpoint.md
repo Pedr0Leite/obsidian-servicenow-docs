@@ -14,7 +14,7 @@ breadcrumb: [Create and configure profile, Microsoft Defender for Endpoint integ
 
 # Perform a manual sighting search in Microsoft Defender for Endpoint
 
-Select individual or multiple [[c_Observables|observables]] and perform a manual sighting search in Microsoft Defender for Endpoint to determine the prevalence of a threat over time.
+Select individual or multiple observables and perform a manual sighting search in Microsoft Defender for Endpoint to determine the prevalence of a threat over time.
 
 ## Before you begin
 
@@ -43,9 +43,9 @@ The supported Observable types are the following:
 
 5.  Select the observables.
 
-6.  From the Actions list, click **[[tisc-run-observable-enrichment|Run Observable Enrichment]]**.
+6.  From the Actions list, click **Run Observable Enrichment**.
 
-7.  Select the observables under **Action** on selected rows, and click **Run [[indicator-sightings|Sightings]] Search**.
+7.  Select the observables under **Action** on selected rows, and click **Run Sightings Search**.
 
     **Note:** Sighting search is supported for Domain name, IP address \(V4\), IP address \(V6\), MD5 hash, SHA1 hash, and SHA256 hash observables types respectively.
 
@@ -61,8 +61,4 @@ The supported Observable types are the following:
 
     You can view additional information related to the particular sighting in the **Summary** field.
 
-## Related
 
-- [[c_Observables|Observables]]
-- [[tisc-run-observable-enrichment|Run Observable Enrichment]]
-- [[indicator-sightings|Sightings]]

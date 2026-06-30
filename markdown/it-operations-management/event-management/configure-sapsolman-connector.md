@@ -14,7 +14,7 @@ breadcrumb: [Configure a pull connector, Configure Event Management connectors, 
 
 # Configure SAP Solution Manager connector
 
-Configure the SAP Solution Manager \(Solman\) connector instance to enable communication between the SAP Solution Manager and [[c_EM|Event Management]].
+Configure the SAP Solution Manager \(Solman\) connector instance to enable communication between the SAP Solution Manager and Event Management.
 
 ## Before you begin
 
@@ -184,6 +184,3 @@ Configure your SAP environment to work with the ServiceNow Event Management plat
 
 [Use the SAP Solution Manager Push connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/sap-push-connector.md)
 
-## Related
-
-- [[c_EM|Event Management]]

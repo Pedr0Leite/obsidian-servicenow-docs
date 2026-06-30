@@ -14,7 +14,7 @@ breadcrumb: [Raising requests, Using Supplier Collaboration Portal, Use, Supplie
 
 # Add a supplier contact using the supplier catalog
 
-Add the [[supplier|supplier]] contacts so that they can access the [[supplier-central|Supplier Collaboration Portal]] and start working on the assigned tasks.
+Add the supplier contacts so that they can access the Supplier Collaboration Portal and start working on the assigned tasks.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Only primary contacts can enroll a new user from the supplier catalog.
 
 2.  Select the supplier from the **My Company** drop-down list of suppliers associated with your profile.
 
-    **Important:** The list of suppliers under **My Company** is available from the Xanadu December 2024 release onwards, only if **M2M mapping between [[supplier-contact|supplier contact]] and suppliers** is enabled.
+    **Important:** The list of suppliers under **My Company** is available from the Xanadu December 2024 release onwards, only if **M2M mapping between supplier contact and suppliers** is enabled.
 
 3.  In the portal header, select **Raise a request**.
 
@@ -94,8 +94,3 @@ The application creates a case of type Enroll new supplier user and assigns it t
 
 [Raising requests from the Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supp-catalog-req.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[supplier-contact|Supplier contact]]

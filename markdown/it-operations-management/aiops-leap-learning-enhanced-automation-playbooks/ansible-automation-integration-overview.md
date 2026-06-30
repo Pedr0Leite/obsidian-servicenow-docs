@@ -15,7 +15,7 @@ breadcrumb: [Exploring LEAP, Learning Enhanced Automation Platform \(LEAP\), Now
 
 # Ansible automation integration
 
-The Ansible automation integration connects LEAP with Ansible Automation Platform to enable AI-driven [[r-discovery|discovery]] of relevant job templates and automated incident [[ccg-remediation|remediation]] from the [[workspace-dashboard-use|Service Operations Workspace]].
+The Ansible automation integration connects LEAP with Ansible Automation Platform to enable AI-driven discovery of relevant job templates and automated incident remediation from the Service Operations Workspace.
 
 The Ansible automation integration addresses the critical operational gap of lack of automated remediation capabilities during incident resolution.
 
@@ -25,7 +25,7 @@ The integration provides these core capabilities:
 
 -   **AI-driven automation discovery**
 
-    LEAP automatically identifies relevant Ansible job templates for [[automation-opportunities|automation opportunities]] using semantic analysis.
+    LEAP automatically identifies relevant Ansible job templates for automation opportunities using semantic analysis.
 
 -   **Step-to-job mapping**
 
@@ -44,7 +44,7 @@ The integration provides these core capabilities:
 
 The integration uses these key components:
 
--   [[ansible-discovery-agent|Ansible discovery agent]]: Analyzes automation opportunities and identifies candidate job templates
+-   Ansible discovery agent: Analyzes automation opportunities and identifies candidate job templates
 -   Ansible execution agent: Executes mapped automation opportunities during incident remediation
 -   Ansible MCP server: Provides secure API access to Ansible Automation Platform
 -   Step-to-job mapping store: Maintains the relationship between resolution steps and Ansible job templates
@@ -69,10 +69,3 @@ The Ansible automation integration provides these benefits:
 -   Provides structured linkage between automation opportunities and Ansible job templates
 -   Enables consistent, repeatable incident resolution processes
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[ccg-remediation|Remediation]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[automation-opportunities|Automation opportunities]]
-- [[ansible-discovery-agent|Ansible discovery agent]]

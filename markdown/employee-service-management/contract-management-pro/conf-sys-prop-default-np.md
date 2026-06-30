@@ -22,7 +22,7 @@ Role required: sn\_cm\_core.contract\_admin or sn\_cm\_core.contract\_config
 
 ## About this task
 
-When the contract renewal notice period and termination of contract renewal notice period are not available in a contract, the [[cmpro-na-reminder-agentic-wf|Manage contract repository agentic workflow]] uses the default notice period along with other contract details to set the contract milestone reminders.
+When the contract renewal notice period and termination of contract renewal notice period are not available in a contract, the Manage contract repository agentic workflow uses the default notice period along with other contract details to set the contract milestone reminders.
 
 **Note:** The default notice period in the base system is 60 days.
 
@@ -60,6 +60,3 @@ The Manage contract repository agentic workflow uses the set value as default no
 
 [Enable notifications for AI extracted metadata and obligations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-me-agentic-ntf.md)
 
-## Related
-
-- [[cmpro-na-reminder-agentic-wf|Manage contract repository agentic workflow]]

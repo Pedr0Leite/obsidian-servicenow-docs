@@ -37,7 +37,7 @@ Role required: admin.
 
 ## Output of the sample Incident Metrics database view
 
-\[Omitted image "database-view-output.png"\] Alt text: Output of the sample Incident [[c_MetricDefinitionSupport|Metrics]] database view
+\[Omitted image "database-view-output.png"\] Alt text: Output of the sample Incident Metrics database view
 
 ## What to do next
 
@@ -55,6 +55,3 @@ You can create any visualization type using the database view. This example show
 
 **Next topic:**[Displaying function results in a database view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/displaying-function-results-in-a-database-view.md)
 
-## Related
-
-- [[c_MetricDefinitionSupport|Metrics]]

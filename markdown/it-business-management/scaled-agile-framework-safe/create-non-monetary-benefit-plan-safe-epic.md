@@ -26,7 +26,7 @@ The non-monetary benefit plan breakdown records are automatically created when y
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[agile-development|Agile Development]]** &gt; **Epics**.
+1.  Navigate to **All** &gt; **Agile Development** &gt; **Epics**.
 
 2.  Open the required epic.
 
@@ -280,7 +280,7 @@ Actual benefit value that is rolled up from the actual benefit in the non-moneta
 
 ## What to do next
 
--   On the [[benefit-plan-form-project-management|Benefit Plan form]], view the benefit breakdown by fiscal period in the Non-monetary Benefit Plan Breakdowns related list.
+-   On the Benefit Plan form, view the benefit breakdown by fiscal period in the Non-monetary Benefit Plan Breakdowns related list.
 -   [Associate monetary and non-monetary benefit plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/associate-benefit-plans-safe-epic.md), so that you can capture the potential benefits \(financial and non-financial\) accrued by the epic for the hybrid benefit plans.
 
 -   **[Update a non-monetary benefit plan breakdown for an epic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/update-non-monetary-benefit-plan-breakdown-safe-epic.md)**  
@@ -288,7 +288,3 @@ Update a non-monetary benefit plan breakdown record that specifies the estimated
 
 **Parent Topic:**[Define an epic in SAFe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/create-SAFeepic.md)
 
-## Related
-
-- [[agile-development|Agile Development]]
-- [[benefit-plan-form-project-management|Benefit Plan form]]

@@ -12,7 +12,7 @@ breadcrumb: [Preferences in Core UI, Notification Preferences, Notifications, Co
 
 # Apply notification conditions
 
-Set various conditions and filters to control the [[notifications|notifications]] you receive. You can also enable or disable an email digest and the delivery of individual notifications by channel.
+Set various conditions and filters to control the notifications you receive. You can also enable or disable an email digest and the delivery of individual notifications by channel.
 
 ## Before you begin
 
@@ -20,9 +20,9 @@ Role required: none
 
 ## About this task
 
--   Enable or disable an email digest if a digest is available for the notification. An [[email-digests|email digest]] is a single email that summarizes the activity for the notification during a time interval that you specify. Admins configure the email digest content for a notification.
+-   Enable or disable an email digest if a digest is available for the notification. An [email digest](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/email-digests.md) is a single email that summarizes the activity for the notification during a time interval that you specify. Admins configure the email digest content for a notification.
 -   Enable or disable a channel on which the notification is received.
--   Set preconfigured [[c_UseSchedules|schedules]] and filters that determine when you receive your notifications.
+-   Set preconfigured schedules and filters that determine when you receive your notifications.
 -   Set more advanced filter conditions to limit the notifications delivered to you.
 
 ## Procedure
@@ -62,11 +62,5 @@ Role required: none
     2.  Select **Save**.
 
 
-**Parent Topic:**[[user-notification-preferences|Setting notification preferences in Core UI]]
+**Parent Topic:**[Setting notification preferences in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-notification-preferences.md)
 
-## Related
-
-- [[email-digests|Email digests]]
-- [[user-notification-preferences|Setting notification preferences in Core UI]]
-- [[notifications|Notifications]]
-- [[c_UseSchedules|Schedules]]

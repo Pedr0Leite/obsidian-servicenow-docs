@@ -14,7 +14,7 @@ breadcrumb: [Knowledge Management, Manage content capabilities, Extend ServiceNo
 
 # Exploring Knowledge Management
 
-Learn more about [[knowledge-management|Knowledge Management]] with a sample workflow and review the benefits it can provide for different users in your organization.
+Learn more about Knowledge Management with a sample workflow and review the benefits it can provide for different users in your organization.
 
 ## Knowledge Management overview
 
@@ -54,6 +54,3 @@ In this workflow:
 |Identify knowledge gaps and improve the content of your knowledge base|[Knowledge demand insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/knowledge-demand-insights.md)|Knowledge manager or domain expert|
 |Determine the usage of knowledge content and confirm that the proper processes and procedures are being followed for content creation|[Knowledge Management Platform Analytics Solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/knowledge-content-pack.md)|Knowledge manager|
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]

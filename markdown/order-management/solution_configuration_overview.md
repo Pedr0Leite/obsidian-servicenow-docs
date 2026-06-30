@@ -12,7 +12,7 @@ breadcrumb: [Solution configuration setup, CPQ app, Configure, price, quote apps
 
 # Solution configuration terms and considerations
 
-Understand terminology, design considerations, and limits associated with solution configuration, which lets CPQ admins manage multiple [[blueprints|blueprints]] in a single configuration.
+Understand terminology, design considerations, and limits associated with solution configuration, which lets CPQ admins manage multiple blueprints in a single configuration.
 
 Solution configuration gives CPQ admins the ability to create and manage multiple blueprints that can work together in the end user side to provide a seamless configuration experience. For users familiar with other vendors, this is conceptually similar to “system configuration” and “nested bundles".
 
@@ -32,7 +32,7 @@ Solution configuration gives CPQ admins the ability to create and manage multipl
 
 -   **Child \(Target\) blueprint**
 
-    A blueprint that is used to create a child configuration, hierarchically has at least one parent, and may have children itself, if defined in [[rules_101|rules]]. It must have a valid configurable product associated with it to be used.
+    A blueprint that is used to create a child configuration, hierarchically has at least one parent, and may have children itself, if defined in rules. It must have a valid configurable product associated with it to be used.
 
 -   **Configurable product action**
 
@@ -52,7 +52,7 @@ Solution configuration gives CPQ admins the ability to create and manage multipl
 
 -   **Solution hierarchy**
 
-    The relationship between [[configurable-products-explore|configurable products]] \(solution components\) in a solution configuration. This does not determine how products appear in the BOM.
+    The relationship between configurable products \(solution components\) in a solution configuration. This does not determine how products appear in the BOM.
 
 -   **Solution BOM**
 
@@ -66,7 +66,7 @@ Solution configuration is still under active development.
 -   Field mapping:
     -   Data can flow only from parent to child configurations.
     -   Field values are only mapped down a single level at a time, such as parent to child, or child to grandchild.
-    -   [[fields|Fields]] can only be mapped to the same type of field, such as picklist to picklist. You cannot map picklist to text, or perform other type conversions in the mapping.
+    -   Fields can only be mapped to the same type of field, such as picklist to picklist. You cannot map picklist to text, or perform other type conversions in the mapping.
     -   Only number, text, Boolean, and picklist fields can be mapped.
         -   Mapping of an entire Set or entire product picker is not supported.
         -   Product picker subfields cannot be mapped to a field on the child.
@@ -78,7 +78,7 @@ Solution configuration is still under active development.
     -   Navigation in a solution is done using the Solution Navigation sidebar. No additional component or work needs to be done on a layout.
     -   Solution navigation: Users can also navigate to configurations by clicking the configurable product in the solution BOM.
     -   The header and header actions in the layout of the solution root are used across all configurations in a solution. This includes things like currency display settings and any custom branding.
-        -   Save \(Quote\) and [[cancel|Cancel]] actions in the header are not scoped to the currently viewed blueprint. They apply to the whole solution.
+        -   Save \(Quote\) and Cancel actions in the header are not scoped to the currently viewed blueprint. They apply to the whole solution.
         -   Reset, Validate \(if a validation enrichment exists on the blueprint\), and Change Layout apply to the currently viewed blueprint.
 -   Configurable product actions:
     -   Configurable product actions are limited to adding only a single configurable product per product action. If multiple configurable products are needed, use multiple product actions in a rule.
@@ -87,7 +87,7 @@ Solution configuration is still under active development.
 
         Advanced functions still have the product ID and the blueprint set outside of the advanced script.
 
-    -   Configurable product actions triggering conditions are placed in a set and [[create-multiple-child-configs|create multiple configurations]].
+    -   Configurable product actions triggering conditions are placed in a set and create multiple configurations.
 -   Limits
     -   The solution hierarchy supports a maximum depth of 4 \(including the root product\). The bill of materials can have an arbitrary depth to the hierarchy.
     -   The total number of configurations in a single solution configuration session is 20: the solution root, plus up to 19 active children across all depths.
@@ -100,11 +100,3 @@ Solution configuration is still under active development.
         -   Columns displayed in the solution BOM follow the settings in the default product list of the solution root.
         -   To display an additional product list, add it in a tier in the layout of the blueprint. This product list is scoped to that configuration and any child configurations.
 
-## Related
-
-- [[blueprints|Blueprints]]
-- [[rules_101|Rules]]
-- [[configurable-products-explore|Configurable products]]
-- [[fields|Fields]]
-- [[cancel|Cancel]]
-- [[create-multiple-child-configs|Create multiple configurations]]

@@ -14,7 +14,7 @@ breadcrumb: [Network device discovery, Data collected by ITOM Visibility, ITOM V
 
 # Load balancer discovery
 
-[[r-discovery|Discovery]] can collect data about network routers, switches, and applications.
+Discovery can collect data about network routers, switches, and applications.
 
 Discovery supports data collection from the following applications and hardware:
 
@@ -29,7 +29,7 @@ Discovery supports data collection from the following applications and hardware:
 -   ACE
 -   Radware
 
-**Important:** Discovery treats load balancers as licensable entities and attempts to discover them primarily using SNMP. If a load balancer in your system, running on a Linux host, has SNMP and SSH ports open, Discovery might classify it based on the SSH port. This classification has priority over SNMP. To ensure that Discovery properly classifies your hardware load balancers, [[create-disco-behavior|create a Discovery behavior]] for load balancers that includes SNMP but not SSH. Software load balancers are treated as applications.
+**Important:** Discovery treats load balancers as licensable entities and attempts to discover them primarily using SNMP. If a load balancer in your system, running on a Linux host, has SNMP and SSH ports open, Discovery might classify it based on the SSH port. This classification has priority over SNMP. To ensure that Discovery properly classifies your hardware load balancers, create a Discovery behavior for load balancers that includes SNMP but not SSH. Software load balancers are treated as applications.
 
 ## Load balancer patterns
 
@@ -134,11 +134,11 @@ HA Proxy
 HAProxy Load Balancer \[cmdb\_ci\_lb\_haproxy\]
 
 </td></tr></tbody>
-</table>To use patterns, verify that the correct pattern is specified in the [[r-HorizontalPatternProbe|horizontal pattern probe]] on the classifier. See [Add the Horizontal Pattern probe to a classifier](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c-UsingPatternsForHorizontalDiscovery.md) for instructions.
+</table>To use patterns, verify that the correct pattern is specified in the horizontal pattern probe on the classifier. See [Add the Horizontal Pattern probe to a classifier](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c-UsingPatternsForHorizontalDiscovery.md) for instructions.
 
 ## Load balancer discovery, Service Mapping, and customized CI fields
 
-Discovery collects information about the install status and operational status of load balancers. If you are [[using-discovery|using Discovery]] with [[c_ServiceMappingOverview|Service Mapping]], do not customize the \[operational\_status\] or \[install\_status\] fields. By default, Service Mapping ignores all host CIs for which the value of the **\[operational\_status\]** field is not **1** \(Operational\) or the value of the status **\[install\_status\]** field is **100** \(absent\). For additional information, see [Preparing customized ServiceNow deployments to work with Service Mapping](https://support.servicenow.com/nav_to.do?uri=%2Fkb_knowledge.do%3Fsys_id%3D334cd265db4a4fc0d7e37aa31f9619f7%26sysparm_referring_url%3Dkb_view.do) \[KB0647574\] in the HI Knowledge Base.
+Discovery collects information about the install status and operational status of load balancers. If you are using Discovery with Service Mapping, do not customize the \[operational\_status\] or \[install\_status\] fields. By default, Service Mapping ignores all host CIs for which the value of the **\[operational\_status\]** field is not **1** \(Operational\) or the value of the status **\[install\_status\]** field is **100** \(absent\). For additional information, see [Preparing customized ServiceNow deployments to work with Service Mapping](https://support.servicenow.com/nav_to.do?uri=%2Fkb_knowledge.do%3Fsys_id%3D334cd265db4a4fc0d7e37aa31f9619f7%26sysparm_referring_url%3Dkb_view.do) \[KB0647574\] in the HI Knowledge Base.
 
 -   **[A10 load balancer discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_DataCollDiscoA10LoadBalancers.md)**  
 Discovery and Service Mapping uses patterns to collect information about A10 load balancers.
@@ -165,10 +165,3 @@ Discovery stores load balancer information in several tables.
 
 **Parent Topic:**[Network device discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_NetworkDevices.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[create-disco-behavior|Create a Discovery behavior]]
-- [[r-HorizontalPatternProbe|Horizontal Pattern probe]]
-- [[using-discovery|Using Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

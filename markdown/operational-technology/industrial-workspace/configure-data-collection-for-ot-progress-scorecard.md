@@ -14,7 +14,7 @@ breadcrumb: [Setting up the Operational Technology Progress Scorecard, Configure
 
 # Configure the data collection for the Operational Technology Progress Scorecard
 
-Configure the data collection for [[operational-technology-overview|Operational Technology]] \(OT\) Progress Scorecard so that you can collect and display the daily data for all indicators from Performance Analytics. This configuration ensures that your OT data is displayed accurately on the scorecard.
+Configure the data collection for Operational Technology \(OT\) Progress Scorecard so that you can collect and display the daily data for all indicators from Performance Analytics. This configuration ensures that your OT data is displayed accurately on the scorecard.
 
 ## Before you begin
 
@@ -51,6 +51,3 @@ The OT Progress Scorecard is now showing the correct site data for your users.
 
 **Parent Topic:**[Setting up the Operational Technology Progress Scorecard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/setting-up-the-ot-progress-scorecard.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]

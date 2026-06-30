@@ -52,7 +52,7 @@ Configuration Item \[cmdb\_ci\]
 Administrators can use these tools to see the relationships between classes.
 
 -   Schema map
--   [[c_SystemDictionary|System dictionary]]
+-   System dictionary
 -   Tables module
 
 Extending a table:
@@ -131,7 +131,7 @@ The extension model determines these attributes.
 
 -   **Fields derived from parent class**
 
-    Child classes do not derive fields from parent classes. Instead each child class has its own list of fields. For example, the Base Configuration Item \[cmdb\], Configuration Item \[cmdb\_ci\], and Hardware \[cmdb\_ci\_hardware\] tables all have their own field [[clone-exclusions-preservers-cleanupscripts|definitions]].
+    Child classes do not derive fields from parent classes. Instead each child class has its own list of fields. For example, the Base Configuration Item \[cmdb\], Configuration Item \[cmdb\_ci\], and Hardware \[cmdb\_ci\_hardware\] tables all have their own field definitions.
 
 -   **Dictionary records created for parent class**
 
@@ -154,7 +154,3 @@ The extension model determines these attributes.
 
 **Parent Topic:**[Exploring ServiceNow AI Platform tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/exploring-table-administration.md)
 
-## Related
-
-- [[c_SystemDictionary|System dictionary]]
-- [[clone-exclusions-preservers-cleanupscripts|Definitions]]

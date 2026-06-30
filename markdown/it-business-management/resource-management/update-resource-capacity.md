@@ -46,7 +46,7 @@ Before updating capacity for a new hire: Ensure the following are configured for
 
 1.  Employment dates: Set the employment start date \(and optionally end date\) in the user's employee profile. Capacity is only generated within these dates. If the Employee Profile plugin is not installed, manually specify these dates on the user record.
 2.  Schedule: Assign a work schedule to the user. The capacity calculation is based on the user's schedule \(for example, a standard 8-hour workday schedule\). Without a schedule, capacity values may be incorrect.
-3.  PPS resource role: Ensure the user has the `pps_resource` role so they appear in [[c_ResourcePlans|resource plans]] and capacity views.
+3.  PPS resource role: Ensure the user has the `pps_resource` role so they appear in resource plans and capacity views.
 
 Capacity is generated for only the date range between employment start date and employment end date specified in the employee profile. If an employee is available after the year has begun, capacity is generated from the current year's beginning to ensure missing capacity is accounted for.
 
@@ -69,6 +69,3 @@ Capacity and availability for terminated resources is automatically updated to 0
 
 **Parent Topic:**[User resources and group resources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/r_UserResourcesAndGroupResources.md)
 
-## Related
-
-- [[c_ResourcePlans|Resource plans]]

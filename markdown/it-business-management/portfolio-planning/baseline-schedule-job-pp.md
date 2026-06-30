@@ -14,7 +14,7 @@ breadcrumb: [Configure financials for Portfolio Planning, Configure, Portfolio P
 
 # Activate a scheduled job to create financial baselines for your projects and demands
 
-Define a scheduled job to automatically [[create-financial-baselines-ppw|create financial baselines]] for your planning items at a required cadence.
+Define a scheduled job to automatically create financial baselines for your planning items at a required cadence.
 
 ## Before you begin
 
@@ -28,13 +28,10 @@ Role required: admin
 
 3.  Select **Active** option to activate and schedule the job.
 
-4.  Edit the fields on the [[scheduled-script-execution-form-gf|Scheduled Script Execution form]] to customize the job and meet your requirements.
+4.  Edit the fields on the Scheduled Script Execution form to customize the job and meet your requirements.
 
     For more information about the field description and scripts, see [Automatically run a script of your choosing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ScheduleAScriptExecution.md#t_ScheduleScriptExecution).
 
 5.  Select **Execute Now** to execute the scheduled job or select **Update** to save your changes.
 
-## Related
 
-- [[create-financial-baselines-ppw|Create financial baselines]]
-- [[scheduled-script-execution-form-gf|Scheduled Script Execution form]]

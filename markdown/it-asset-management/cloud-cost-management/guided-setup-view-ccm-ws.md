@@ -14,12 +14,12 @@ breadcrumb: [Cloud Cost Management Workspace, Exploring Cloud Cost Management, C
 
 # Admin view
 
-Use the Admin view in the [[ci-workspace|Cloud Cost Management Workspace]] that enables you to install, set up, and configure the application through a guided experience.
+Use the Admin view in the Cloud Cost Management Workspace that enables you to install, set up, and configure the application through a guided experience.
 
 The Admin view lets you to:
 
--   Get to value faster by using Guided Setup for [[configuring-cloud-insights|configuring Cloud Cost Management]] for AWS, Azure and GCP. Guided Setup provides a prescriptive guidance on the tasks that you must perform for completing the configuration. This Guided Setup organizes configuration activities into various categories tor ease of use.
--   Watch a tutorial to familiarize with [[cloud-insights-landing-page|Cloud Cost Management]].
+-   Get to value faster by using Guided Setup for configuring Cloud Cost Management for AWS, Azure and GCP. Guided Setup provides a prescriptive guidance on the tasks that you must perform for completing the configuration. This Guided Setup organizes configuration activities into various categories tor ease of use.
+-   Watch a tutorial to familiarize with Cloud Cost Management.
 -   View helpful resources and related products or features.
 
 \[Omitted image "admin-view-ws.png"\] Alt text: Admin view in Cloud Cost Management Workspace.
@@ -41,8 +41,3 @@ Find the following steps on the Admin view for Guided Setup:
 -   **Configure integrations**: Create integrations with cloud providers such as Amazon Web Services AWS, Microsoft Azure, and Google Cloud Platform \(GCP\).
 -   **Preference settings**: Review the default settings or edit them according to your needs for various features in the application.
 
-## Related
-
-- [[ci-workspace|Cloud Cost Management Workspace]]
-- [[configuring-cloud-insights|Configuring Cloud Cost Management]]
-- [[cloud-insights-landing-page|Cloud Cost Management]]

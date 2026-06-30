@@ -14,7 +14,7 @@ breadcrumb: [Agile Development 2.0 reference, Agile Development 2.0, Agile Devel
 
 # Domain separation in Agile Development 2.0
 
-This is an overview of domain separation and how it works with [[agile-landing-page|Agile Development 2.0]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+This is an overview of domain separation and how it works with Agile Development 2.0. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic
 
@@ -40,6 +40,3 @@ For more information on support levels, see [Application support for domain sepa
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]

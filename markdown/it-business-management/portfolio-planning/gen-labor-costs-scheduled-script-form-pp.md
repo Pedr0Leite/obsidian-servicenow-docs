@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Portfolio Planning, Reference, Portfolio
 
 # Scheduled Script Execution form to generate labor costs for projects and demands
 
-Use the [[scheduled-script-execution-form-gf|Scheduled Script Execution form]] to enable [[generate-labor-cost-demand|Generate Labor Costs]] scheduler job for projects and demands.
+Use the Scheduled Script Execution form to enable Generate Labor Costs scheduler job for projects and demands.
 
 <table id="table_a2v_qyg_mp"><thead><tr><th>
 
@@ -221,7 +221,3 @@ Date and time of the first scheduled job generation. Select the calendar date an
 </td></tr></tbody>
 </table>**Parent Topic:**[Form field information for Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/form-field-information-for-portfolio-planning.md)
 
-## Related
-
-- [[scheduled-script-execution-form-gf|Scheduled Script Execution form]]
-- [[generate-labor-cost-demand|Generate labor costs]]

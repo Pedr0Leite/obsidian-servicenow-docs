@@ -52,7 +52,7 @@ The following options are available.
 -   Deployed
 -   Development
 
-For more information on states, see [AI asset lifecycle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-asset-lifecycle.md).**Note:** This field is available in the Request an AI use case form on the [[employee-center|Employee Center]].
+For more information on states, see [AI asset lifecycle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-asset-lifecycle.md).**Note:** This field is available in the Request an AI use case form on the Employee Center.
 
 </td></tr><tr><td>
 
@@ -140,7 +140,7 @@ Select one or more business applications to associate with the AI system.
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
-[[ai-model-airc|AI models]] and [[dataset-airc|Datasets]]
+AI models and Datasets
 
 </td></tr><tr><td>
 
@@ -297,8 +297,3 @@ Additional information or context that helps clarify the specific use and purpos
 </td></tr></tbody>
 </table>**Parent Topic:**[Request an AI use case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/request-ai-system.md)
 
-## Related
-
-- [[employee-center|employee center]]
-- [[ai-model-airc|AI models]]
-- [[dataset-airc|Datasets]]

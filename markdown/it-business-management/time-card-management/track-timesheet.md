@@ -14,7 +14,7 @@ breadcrumb: [Approve or reject time card from mobile, Mobile Time Sheets, Time C
 
 # Track your time sheets
 
-View and track the [[time-sheets|time sheets]] grouped according to the date of submission such as the current week, last week, or older.
+View and track the time sheets grouped according to the date of submission such as the current week, last week, or older.
 
 ## Before you begin
 
@@ -34,6 +34,3 @@ Role required: timecard\_approver or timecard\_admin
 
 **Parent Topic:**[Approve or reject a time sheet or time card from your mobile device](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/approve-reject-timesheet-mobile.md)
 
-## Related
-
-- [[time-sheets|Time Sheets]]

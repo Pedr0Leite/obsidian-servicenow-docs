@@ -52,7 +52,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[c_DemandWorkbench|Demand Workbench]]
+Demand Workbench
 
 </td><td>
 
@@ -68,11 +68,11 @@ Link to open the Portfolio Target dialog box for you to enter the CAPEX and OPEX
 
 </td></tr><tr><td>
 
-[[portfolio-planning-app-landing-page|Portfolio Planning]]
+Portfolio Planning
 
 </td><td>
 
-Link to open Portfolio Planning Workbench for scenario planning. This related link is available when [[portfolio-planning-overview|Scenario Planning for PPM]] is installed in your instance. For more information, see [Scenario Planning for PPM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-management/portfolio-planning-overview.md).
+Link to open Portfolio Planning Workbench for scenario planning. This related link is available when Scenario Planning for PPM is installed in your instance. For more information, see [Scenario Planning for PPM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-management/portfolio-planning-overview.md).
 
 </td></tr><tr><td>
 
@@ -80,7 +80,7 @@ Analytics Portfolio
 
 </td><td>
 
-Link to open the [[pmo-dashboard|PMO Dashboard]]. The dashboard generates graphical reports for the portfolio.
+Link to open the PMO Dashboard. The dashboard generates graphical reports for the portfolio.
 
 </td></tr></tbody>
 </table><table id="table_il5_rhz_fdc"><thead><tr><th>
@@ -97,7 +97,7 @@ Demands
 
 </td><td>
 
-List of demands that are part of the portfolio. To [[t_CreatingDemands|create a demand]], select **New**.
+List of demands that are part of the portfolio. To create a demand, select **New**.
 
  To add existing demands to the portfolio, select **Edit**.
 
@@ -187,10 +187,3 @@ According to the fiscal years, lists projects and demands that are part of the p
 
 [Portfolio Dashboard]()
 
-## Related
-
-- [[c_DemandWorkbench|Demand workbench]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[portfolio-planning-overview|Scenario Planning for PPM]]
-- [[pmo-dashboard|PMO dashboard]]
-- [[t_CreatingDemands|Create a demand]]

@@ -26,7 +26,7 @@ Adding site access for workers also helps the safety team to know who's checked 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[health-safety-overview|Health and Safety]]** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
 2.  Open a contractor worker record to grant the site access to.
 
@@ -52,7 +52,7 @@ Steps
 
 </td></tr><tr><td id="d434101e133">
 
-**From [[health-and-safety-user-profile|Health and Safety user profile]] list**
+**From Health and Safety user profile list**
 
 </td><td>
 
@@ -125,8 +125,3 @@ Date when the worker's site access ends.
 -   The access is listed in the **Site access** tab of the contractor worker record.
 -   The access is also listed in the **Site access** tab of the contractor company that this worker belongs to.
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[health-and-safety-user-profile|Health and Safety user profile]]

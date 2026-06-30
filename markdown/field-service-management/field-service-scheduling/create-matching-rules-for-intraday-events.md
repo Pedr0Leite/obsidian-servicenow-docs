@@ -28,7 +28,7 @@ Create matching rules within a specific intraday optimization configuration. Mat
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[schedule-optimization|Schedule Optimization]]** &gt; **Intraday Optimization** &gt; **Configurations**.
+1.  Navigate to **All** &gt; **Schedule Optimization** &gt; **Intraday Optimization** &gt; **Configurations**.
 
 2.  Select the configuration where you want to add the matching rule.
 
@@ -121,6 +121,3 @@ The matching rule is added to the configuration and executes when the specified 
 
 [Optimizing technician schedules in response to urgent events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/triggering-optimization-on-task-or-agent-availability-change.md)
 
-## Related
-
-- [[schedule-optimization|Schedule Optimization]]

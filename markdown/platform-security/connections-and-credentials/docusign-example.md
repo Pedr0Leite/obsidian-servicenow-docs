@@ -14,7 +14,7 @@ breadcrumb: [Connection &amp; Credential configuration templates, Explore creden
 
 # Configure a template for OAuth JWT Bearer grant type
 
-This example [[sc-configuration|configuration]] template sets up Credential and Connection records using the [[jwt-bearer|JWT Bearer]] grant type to authenticate requests to Docusign.
+This example configuration template sets up Credential and Connection records using the JWT Bearer grant type to authenticate requests to Docusign.
 
 ## Default data template
 
@@ -24,7 +24,7 @@ Each top-level item in the default data template creates an associated record. T
 -   `Connection`: Creates a record in the Connections \[sys\_connection\] table and any associated connection records.
 -   `Additional`: Optionally creates records in a custom table. The post processing script tells the system what to do with these records.
 
-The following example creates the records required for [[oauth-inbound-and-outbound|OAuth]] JWT Bearer grant type [[c_Authentication|authentication]].
+The following example creates the records required for OAuth JWT Bearer grant type authentication.
 
 ```
 {
@@ -36,7 +36,7 @@ The following example creates the records required for [[oauth-inbound-and-outbo
           "name": "Docusign Profile",
           "default": true,
           "oauth_entity_profile_scope": [
-            "[[users|users]]:read.[[email|email]]"
+            "users:read.email"
           ]
         }
       ],
@@ -110,7 +110,7 @@ The following example creates the records required for [[oauth-inbound-and-outbo
 
 ## Dynamic data schema
 
-The dynamic data schema defines what the user sees when they [[connection-alias|create a Connection &amp; Credential alias]] and collects their input. Use dot-walking syntax to map user input to fields created in the default data template. For example, `connection_fields` maps user input to the `connection_url` field in the `connection` object created by the default data template.
+The dynamic data schema defines what the user sees when they create a Connection &amp; Credential alias and collects their input. Use dot-walking syntax to map user input to fields created in the default data template. For example, `connection_fields` maps user input to the `connection_url` field in the `connection` object created by the default data template.
 
 ```
 {
@@ -214,12 +214,3 @@ When the user navigates to the associated Docusign Connection &amp; Credential A
 
 **Parent Topic:**[Connection &amp; Credential configuration templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/spoke-configuration-template.md)
 
-## Related
-
-- [[sc-configuration|Configuration]]
-- [[jwt-bearer|JWT Bearer]]
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[c_Authentication|Authentication]]
-- [[users|Users]]
-- [[email|Email]]
-- [[connection-alias|Create a Connection &amp; Credential alias]]

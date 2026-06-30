@@ -16,7 +16,7 @@ Learn how to use the various features available in conversations.
 
 ## Conversations Workspace
 
-The paneled Conversation workspace [[io-help|help]] with organized management of conversations:
+The paneled Conversation workspace help with organized management of conversations:
 
 -   Conversations panel: Users can select, search, filter, or start a new conversation. It lists all conversations, each showing a status badge \(Open or Closed\), the category, the conversation subject, a preview of the latest message, and the last activity timestamp.
 -   Details panel: Users can read the history, exchange messages using the message input and share files inline. It displays the selected conversation as a threaded chat.
@@ -24,7 +24,7 @@ The paneled Conversation workspace [[io-help|help]] with organized management of
 
 **Note:**
 
-Select the chat icon in the right navigation panel on [[impact-landing-page|Impact]] pages such as Outcomes, Initiatives, Accelerators, [[platform-health-idi|Platform Health]] to initiate or continue working with a conversation.
+Select the chat icon in the right navigation panel on Impact pages such as Outcomes, Initiatives, Accelerators, Platform Health to initiate or continue working with a conversation.
 
 The following supported features help with contextual management of conversations:
 
@@ -77,8 +77,3 @@ In the details panel, within a long conversation thread, if you're looking for a
 
 In decision making processes, sometimes, you may have to view conversations according to their Category or State \(Open or Closed\). Select Filter icon in the **Conversations** panel to view the selective conversations.
 
-## Related
-
-- [[io-help|Help]]
-- [[impact-landing-page|Impact]]
-- [[platform-health-idi|Platform Health]]

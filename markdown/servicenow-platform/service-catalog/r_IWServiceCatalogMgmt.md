@@ -14,7 +14,7 @@ breadcrumb: [Service Catalog Reference, Service Catalog, Manage service capabili
 
 # Installed with Service Catalog
 
-Several types of components are installed with the [[service-catalog|Service Catalog]].
+Several types of components are installed with the Service Catalog.
 
 **Parent Topic:**[Service Catalog Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/service-catalog-reference.md)
 
@@ -28,6 +28,3 @@ Service Catalog adds the following script includes.
 |--------------|-----------|
 |DemoSCCreateItem|Demonstrates the use of service catalog scoped API.|
 
-## Related
-
-- [[service-catalog|Service Catalog]]

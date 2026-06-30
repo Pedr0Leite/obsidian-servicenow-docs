@@ -24,9 +24,9 @@ Stages group tasks or to-do lists for managers, mentors, or employees as part of
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[jny-dsgnr-landing-page-1|Journey designer]]** &gt; **Manage Task Templates**.
+1.  Navigate to **All** &gt; **Journey designer** &gt; **Manage Task Templates**.
 
-2.  Open an existing plan configuration and navigate to the **[[journey-accelerator-1|Journey Accelerator]] Stage Configurations** section.
+2.  Open an existing plan configuration and navigate to the **Journey Accelerator Stage Configurations** section.
 
 3.  On the form, fill in the fields:
 
@@ -43,7 +43,3 @@ Stages group tasks or to-do lists for managers, mentors, or employees as part of
 
 **Parent Topic:**[Configure Journey designer features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-configuration.md)
 
-## Related
-
-- [[jny-dsgnr-landing-page-1|Journey designer]]
-- [[journey-accelerator-1|Journey Accelerator]]

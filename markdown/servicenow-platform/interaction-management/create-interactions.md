@@ -14,7 +14,7 @@ breadcrumb: [Using Interaction Management, Interaction Management, Manage people
 
 # Create an interaction
 
-An interaction is a record of a conversation between a requester and a fulfiller \(real or virtual\). Though most interaction creation takes place in other applications, if needed, you can create an interaction directly from [[interaction-management|Interaction Management]].
+An interaction is a record of a conversation between a requester and a fulfiller \(real or virtual\). Though most interaction creation takes place in other applications, if needed, you can create an interaction directly from Interaction Management.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: interaction\_agent
 
 2.  Select **New**.
 
-3.  In the [[interaction-form|Interaction form]], fill in the fields:
+3.  In the Interaction form, fill in the fields:
 
     |Field|Description|
     |-----|-----------|
@@ -50,7 +50,3 @@ The interaction is created and assigned to the selected user.
 
 **Parent Topic:**[Using Interaction Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/interaction-management/using-interaction-management.md)
 
-## Related
-
-- [[interaction-management|Interaction Management]]
-- [[interaction-form|Interaction form]]

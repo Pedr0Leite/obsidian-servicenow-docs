@@ -12,7 +12,7 @@ breadcrumb: [Components installed with Customer Service Management, Reference, C
 
 # Client scripts installed with Customer Service Management
 
-Client scripts are added with activation of [[c_CustomerServiceManagement|Customer Service Management]].
+Client scripts are added with activation of Customer Service Management.
 
 <table id="table_gpt_myw_kt"><thead><tr><th>
 
@@ -36,7 +36,7 @@ Case\[sn\_customerservice\_case\]
 
 </td><td>
 
-Sets the **Channel** and **State** fields to read only on the [[r_CustomerServiceCaseForm|Case form]] that the customer can view from the customer portal.
+Sets the **Channel** and **State** fields to read only on the Case form that the customer can view from the customer portal.
 
 </td></tr><tr><td>
 
@@ -88,7 +88,7 @@ When you change the value in the **Partner** field on the Case form, the **Partn
 
 </td></tr><tr><td>
 
-Hide [[csm-config-ws-activity-stream|Activity Stream]]
+Hide Activity Stream
 
 </td><td>
 
@@ -268,7 +268,7 @@ Shows the **Opened by** field on the Case form.
 
 </td></tr><tr><td>
 
-[[c_OnScreenAlerts|Special Handling Notes]] for Case
+Special Handling Notes for Case
 
 </td><td>
 
@@ -291,12 +291,5 @@ Entitlement\[service\_entitlement\]
 Displays a field warning message for the **Per unit** field if a product is selected but the **Asset**, **Contract**, and **Account** fields are empty.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[r_InstalledWithCustomerService|Components installed with Customer Service Management]]
+</table>**Parent Topic:**[Components installed with Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_InstalledWithCustomerService.md)
 
-## Related
-
-- [[r_InstalledWithCustomerService|Components installed with Customer Service Management]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[csm-config-ws-activity-stream|Activity stream]]
-- [[c_OnScreenAlerts|Special handling notes]]

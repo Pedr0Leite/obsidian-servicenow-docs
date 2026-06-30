@@ -14,7 +14,7 @@ breadcrumb: [Reference, Telecommunications Network Inventory]
 
 # Task attributes in Add Equipment to Rack or Cabinet form
 
-The Task attributes in Add Equipment to Rack/Cabinet form enables you to add a card to an equipment record in the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+The Task attributes in Add Equipment to Rack/Cabinet form enables you to add a card to an equipment record in the Telecommunications Network Inventory application.
 
 <table id="table_jcg_rhy_3dc"><thead><tr><th>
 
@@ -86,6 +86,3 @@ By default, it is selected as **Yes**. Select **No** if you want to use the rack
 
 [Add an equipment to rack or cabinet](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/add-equipment-rack.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]

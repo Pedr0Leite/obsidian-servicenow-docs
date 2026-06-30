@@ -45,7 +45,7 @@ Your current privacy consent decision is updated.
 
 The status of the notification updates to **Acknowledged**.
 
-If you have a [[health-safety-overview|health and safety]] requirement for the privacy consent activated, a record is created with the requirement status.
+If you have a health and safety requirement for the privacy consent activated, a record is created with the requirement status.
 
 -   If you agreed to the privacy policy and use of your data, the requirement status updates to **Cleared**.
 -   If you disagreed or withdrew your consent, the requirement status updates to **Not Cleared**.
@@ -88,6 +88,3 @@ If you have a health and safety requirement for the privacy consent activated, a
 -   If you agreed to the privacy policy and use of your data, the requirement status updates to **Cleared**.
 -   If you disagreed or withdrew your consent, the requirement status updates to **Not Cleared**.
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]

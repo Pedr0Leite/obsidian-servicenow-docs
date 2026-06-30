@@ -36,10 +36,8 @@ For example, Company A is pursuing a new project and needs to conduct due dilige
 
 4.  Select **Add as a third-party**.
 
-    A third-party record is created that incorporates all the existing fourth-nth party record information and then designates that fourth-nth party as a known fourth party. Known fourth parties have been or are in the process of being assessed for risk as part of the [[tprm-workflow-in-workspace|due diligence workflow]]. You can access all available due diligence information at the fourth-nth party and its corresponding third-party level.
+    A third-party record is created that incorporates all the existing fourth-nth party record information and then designates that fourth-nth party as a known fourth party. Known fourth parties have been or are in the process of being assessed for risk as part of the due diligence workflow. You can access all available due diligence information at the fourth-nth party and its corresponding third-party level.
 
     For more information on fourth-nth parties, see [Monitoring your fourth-nth parties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-monitor-fourth-parties.md).
 
-## Related
 
-- [[tprm-workflow-in-workspace|Due diligence workflow]]

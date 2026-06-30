@@ -14,7 +14,7 @@ breadcrumb: [Configuring communities, Communities, Customer Service Management]
 
 # Create community Terms and Conditions
 
-Community members must follow the community [[gamification-components-rules|rules]] of conduct. Create community Terms and Conditions and them share to build a successful community. Every community user must review and accept the Terms and Conditions before contributing to a community.
+Community members must follow the community rules of conduct. Create community Terms and Conditions and them share to build a successful community. Every community user must review and accept the Terms and Conditions before contributing to a community.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_communities.admin
 
 ## About this task
 
-The [[servicenow-communities|Communities]] application includes preconfigured Terms and Conditions that you can modify according to your needs.
+The Communities application includes preconfigured Terms and Conditions that you can modify according to your needs.
 
 You can disable Terms and Conditions using the **sn\_communities.disable\_terms\_conditions\_role** property. The community profile isn't created.
 
@@ -115,7 +115,3 @@ Click **Submit** to save your Terms and Conditions.
 
 [Community Service Portal]()
 
-## Related
-
-- [[gamification-components-rules|Rules]]
-- [[servicenow-communities|Communities]]

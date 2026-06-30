@@ -14,7 +14,7 @@ breadcrumb: [Data Discovery jobs, Exploring Data Discovery \(Classic\), Data Dis
 
 # Configure Data Discovery patterns
 
-Configure a [[data-discovery-landing|Data Discovery]] pattern and review current patterns. A Data Discovery pattern defines the regular expression used to match data against a target table.
+Configure a Data Discovery pattern and review current patterns. A Data Discovery pattern defines the regular expression used to match data against a target table.
 
 ## Before you begin
 
@@ -24,9 +24,9 @@ Role required: data\_discovery\_admin
 
 Custom Data Discovery patterns can be used with Now Assist anonymization in addition to the base system patterns provided with the platform. A pattern applies to Now Assist prompts when it is associated with the **Generative AI** data channel. Base system patterns that don't include "\(Generative AI\)" in their name can also apply to Now Assist, provided they are associated with the **Generative AI** data channel. Configured patterns apply consistently across Now Assist skills, Now Assist Virtual Agent, AI Agents, and custom skills built with the Now Assist Skill Kit.
 
-**Note:** [[now-assist-for-data-privacy-landing|Data Privacy for Now Assist]] is available in Yokohama and later releases. On Xanadu instances, use the Sensitive Data Handler to mask sensitive data for generative AI.
+**Note:** Data Privacy for Now Assist is available in Yokohama and later releases. On Xanadu instances, use the Sensitive Data Handler to mask sensitive data for generative AI.
 
-**Important:** Now Assist anonymization uses two-way masking. When a Now Assist skill such as incident summarization processes a record, sensitive data matching an active pattern is replaced with placeholder tokens in the prompt sent to the large language model \(LLM\). The original values are then restored in the response returned to the end user. End [[users|users]] therefore see unmasked data in Now Assist responses; this is by design. The purpose of masking is to prevent sensitive data from being transmitted to the LLM, not to hide it from the end user in the final response.
+**Important:** Now Assist anonymization uses two-way masking. When a Now Assist skill such as incident summarization processes a record, sensitive data matching an active pattern is replaced with placeholder tokens in the prompt sent to the large language model \(LLM\). The original values are then restored in the response returned to the end user. End users therefore see unmasked data in Now Assist responses; this is by design. The purpose of masking is to prevent sensitive data from being transmitted to the LLM, not to hide it from the end user in the final response.
 
 ## Procedure
 
@@ -102,13 +102,13 @@ How far from the expression to search for keywords. Must be used with **Keyword*
 
 </td></tr><tr><td>
 
-Privacy technique [[sc-configuration|configuration]]
+Privacy technique configuration
 
 </td><td>
 
 The masking technique applied to matched data before it is sent to the LLM. Common techniques include: -   **Synthetic replacement**
 
-Replaces the matched value with a realistic but fictitious substitute \(for example, substituting a different [[email|email]] address\). Use when the LLM needs plausible values to maintain response quality.
+Replaces the matched value with a realistic but fictitious substitute \(for example, substituting a different email address\). Use when the LLM needs plausible values to maintain response quality.
 
 -   **Static replacement**
 
@@ -151,10 +151,4 @@ Type of pattern-   **Local**: The pattern is regex-based
 
 8.  Select the pattern list from **Available Lists** and move it to **Selected Lists**.
 
-## Related
 
-- [[data-discovery-landing|Data Discovery]]
-- [[now-assist-for-data-privacy-landing|Data Privacy for Now Assist]]
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[email|Email]]

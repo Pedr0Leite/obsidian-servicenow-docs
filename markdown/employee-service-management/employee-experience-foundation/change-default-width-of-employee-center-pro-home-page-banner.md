@@ -14,7 +14,7 @@ breadcrumb: [Configure employee communications widgets, Setup employee communica
 
 # Modify banner width options
 
-Modify the width of the [[employee-center-pro-landing|Employee Center Pro]] banner widget, on the home page, to suit your preference.
+Modify the width of the Employee Center Pro banner widget, on the home page, to suit your preference.
 
 ## Before you begin
 
@@ -52,6 +52,3 @@ Set the banner widget on the Employee Center Pro home page to your preferred wid
 
 **Parent Topic:**[Configure employee communications widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/employee-comms-widgets.md)
 
-## Related
-
-- [[employee-center-pro-landing|Employee Center Pro]]

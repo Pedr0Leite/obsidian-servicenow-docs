@@ -16,7 +16,7 @@ breadcrumb: [Using communities, Communities, Customer Service Management]
 
 Your community activity usually begins on the community homepage. If you are a logged in user, you see different information than non-logged in users. Your organization can customize the homepage.
 
-**Note:** The [[community-service-portal|Community Service Portal]] header menu is not enabled by default. For more information, see [Configure Community Service Portal header menus](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/configure-unified-theme-portal.md).
+**Note:** The Community Service Portal header menu is not enabled by default. For more information, see [Configure Community Service Portal header menus](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/configure-unified-theme-portal.md).
 
 From the community homepage, you can access and use the following features:
 
@@ -50,7 +50,7 @@ Tours
 
 </td><td>
 
-View a tour for additional guidance on how the [[servicenow-communities|Communities]] application works. Tours appear when your administrator creates them on certain pages.
+View a tour for additional guidance on how the Communities application works. Tours appear when your administrator creates them on certain pages.
 
 </td></tr><tr><td>
 
@@ -106,7 +106,7 @@ Content List and Activity Feed
 
 </td><td>
 
-Toggle between the Content List and Activity Feed. You can filter according to content type, forum, most recent or popular, and when the content was created. -   Content List: [[migration-lists|Lists]] all content added to the community. Displays when updates were made to replies, comments, and answers marked as correct and which user made the updates.
+Toggle between the Content List and Activity Feed. You can filter according to content type, forum, most recent or popular, and when the content was created. -   Content List: Lists all content added to the community. Displays when updates were made to replies, comments, and answers marked as correct and which user made the updates.
 
 **Note:**
 
@@ -155,8 +155,3 @@ Toggle between the Content List and Activity Feed. You can filter according to c
 
 [Gamification]()
 
-## Related
-
-- [[community-service-portal|Community Service Portal]]
-- [[servicenow-communities|Communities]]
-- [[migration-lists|Lists]]

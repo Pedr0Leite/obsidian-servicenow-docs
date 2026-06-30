@@ -14,7 +14,7 @@ breadcrumb: [HR Predictive Intelligence Workbench, Integration of HR Service Del
 
 # HR Predictive Intelligence Workbench implementation
 
-You can use machine [[exploring-learning-exp|learning]] to optimize your business processes. You can train and implement [[hr-predictive-intelligence-wb|HR Predictive Intelligence Workbench]] use cases to augment your existing application workflows.
+You can use machine learning to optimize your business processes. You can train and implement HR Predictive Intelligence Workbench use cases to augment your existing application workflows.
 
 ## Explore common use case templates
 
@@ -67,7 +67,7 @@ Use the classic template that walks you through setting up a machine learning mo
 -   **[HR PIWB template: Predict knowledge for HR case resolution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-piwb-similar-hrcases-agent.md)**  
 Use the classic setup template to configure and train your Similarity solution template with machine learning model to recommend knowledge articles to assist an HR agent for faster case resolution.
 -   **[HR PIWB template: Recommend similar cases by employee profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-piwb-similar-profile.md)**  
-Use the classic setup template to configure and train your Similarity solution template with machine learning model to recommend top relevant articles and catalog items based on a similar [[emp-slate-employee-profile|employee profile]] for content discovery and personalized experience.
+Use the classic setup template to configure and train your Similarity solution template with machine learning model to recommend top relevant articles and catalog items based on a similar employee profile for content discovery and personalized experience.
 -   **[HR PIWB template: Predict knowledge for HR task completion](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-piwb-similar-hrtasks-employee.md)**  
 Use the classic setup template to configure and train your Similarity solution template with machine learning model to recommend knowledge articles for employees to complete the HR tasks.
 -   **[HR PIWB template: Recommend similar cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-piwb-similar-cases.md)**  
@@ -84,8 +84,3 @@ Train your solution by using historical data to predict numeric outputs based on
 
 [Get started with Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-predictive-intelligence.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[hr-predictive-intelligence-wb|HR Predictive Intelligence Workbench]]
-- [[emp-slate-employee-profile|Employee profile]]

@@ -14,7 +14,7 @@ breadcrumb: [Service Reliability Management reference, Service Reliability Manag
 
 # CMDB service classes
 
-[[sr-landing-page|Service Reliability Management]] \(SRM\) typically supports several Configuration Management Database \(CMDB\) service classes.
+Service Reliability Management \(SRM\) typically supports several Configuration Management Database \(CMDB\) service classes.
 
 Types of CMDB service classes that SRM supports:
 
@@ -27,6 +27,3 @@ Types of CMDB service classes that SRM supports:
 
 **Parent Topic:**[Service Reliability Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/service-reliability-management-reference.md)
 
-## Related
-
-- [[sr-landing-page|Service Reliability Management]]

@@ -24,7 +24,7 @@ Role required: admin
 
 Now Assist skills use [role masking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-role-masking.md) to determine the data that the roles can access.
 
-In [[cncore-cmpro-landing-page|Contract Management Pro]] - Prime, the following roles are configured with the base system to provide necessary data access to the Now Assist skills.
+In Contract Management Pro - Prime, the following roles are configured with the base system to provide necessary data access to the Now Assist skills.
 
 -   sn\_cm\_gen\_ai.ai\_contract\_fulfiller
 -   sn\_lg\_cnt.contract\_fulfiller
@@ -72,6 +72,3 @@ You must configure the necessary roles for your workspace to ensure that Now Ass
 
 [Post-upgrade steps for Now Assist in Contract Management]()
 
-## Related
-
-- [[cncore-cmpro-landing-page|Contract Management Pro]]

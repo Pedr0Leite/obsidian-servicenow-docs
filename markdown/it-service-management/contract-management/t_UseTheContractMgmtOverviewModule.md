@@ -14,7 +14,7 @@ breadcrumb: [Contract Management, Asset Management, IT Service Management]
 
 # Use the Asset Contract Overview module
 
-You can view information about your contract status in the [[c_ContractManagement|Contract Management]] Overview module.
+You can view information about your contract status in the Contract Management Overview module.
 
 ## Before you begin
 
@@ -50,6 +50,3 @@ Because the Contract Management Overview module is a type of homepage, you can a
 
 [Domain separation and Contract Management]()
 
-## Related
-
-- [[c_ContractManagement|Contract Management]]

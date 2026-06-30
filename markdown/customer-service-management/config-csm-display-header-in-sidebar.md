@@ -12,7 +12,7 @@ breadcrumb: [Set up CSM Configurable Workspace, CSM Configurable Workspace, Orga
 
 # Display the form ribbon and form header secondary values in the Contextual side panel
 
-Configure the form ribbon and the secondary values that appear in a form header to display in the Contextual side panel in [[csm-workspaces-configure|CSM Configurable Workspace]].
+Configure the form ribbon and the secondary values that appear in a form header to display in the Contextual side panel in CSM Configurable Workspace.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: workspace\_admin, ui\_builder\_admin, admin
 
 The form ribbon includes components that provide agents with an overview of case details, such as a customer summary and a case timeline.
 
-The form header for the [[r_CustomerServiceCaseForm|Case form]] can display two levels of field values from the Case table. The primary value is the case short description. The secondary values include the account and contact or consumer, the case priority, and the case state.
+The form header for the Case form can display two levels of field values from the Case table. The primary value is the case short description. The secondary values include the account and contact or consumer, the case priority, and the case state.
 
 You can use properties to determine where the form ribbon and secondary values are displayed: at the top of the record or in the Contextual side panel. Two properties are available for the standard record page and two are available for the interaction record.
 
@@ -76,7 +76,4 @@ Displays the selected component in the Contextual side panel.
 </td></tr></tbody>
 </table>4.  Select **Update**.
 
-## Related
 
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[r_CustomerServiceCaseForm|Case form]]

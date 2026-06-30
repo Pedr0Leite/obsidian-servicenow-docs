@@ -12,7 +12,7 @@ breadcrumb: [Creating orders, Order Management, Use, Sales Customer Relationship
 
 # Set up and review order lines
 
-Once products and services are added to an order in [[explore-order-management|Order Management]], you can set up order lines with order characteristics, pricing adjustments, and other items.
+Once products and services are added to an order in Order Management, you can set up order lines with order characteristics, pricing adjustments, and other items.
 
 ## Before you begin
 
@@ -22,8 +22,8 @@ Role required: sn\_ind\_tmt\_orm.order\_agent, sn\_ind\_tmt\_orm.order\_approver
 
 Product and service order lines items contain the product or service that you have added to your order. You can also make the following changes and updates to the order line items.
 
--   Details - shows the details of the order including the name and address [[fields|fields]] for the order.
--   [[order-orchestration|Order Orchestration]] - shows the order orchestration details in a node map view.
+-   Details - shows the details of the order including the name and address fields for the order.
+-   Order Orchestration - shows the order orchestration details in a node map view.
 -   Order Characteristics - add characteristics to a product and service orders.
 -   Order Line Item Contacts - add a contact for each product order line item.
 -   Order Line Related Items - connect this order line item with other order line items
@@ -80,11 +80,5 @@ Product and service order lines items contain the product or service that you ha
 **Related topics**  
 
 
-[[som-om-review-and-submit-product-order|Review and submit a product or service order in Order Management]]
+[Review and submit a product or service order in Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-om-review-and-submit-product-order.md)
 
-## Related
-
-- [[som-om-review-and-submit-product-order|Review and submit a product or service order in Order Management]]
-- [[explore-order-management|Order management]]
-- [[fields|Fields]]
-- [[order-orchestration|Order orchestration]]

@@ -16,11 +16,11 @@ breadcrumb: [Use, Demand Management, Project Portfolio Management, Strategic Por
 
 The demand manager typically works with a business relationship manager to identify stakeholders and elicit requirements, risks, and other important information.
 
-The [[c_DemandManagement|Demand Management]] application streamlines the stakeholder identification process. Auto-populating the list of stakeholders from the portfolio the user selects when filling out the [[demand-form|demand form]] in the service catalog or in the Demand Management application. The Demand Management application also enables you to use assessments to automate some of the information gathering process.
+The Demand Management application streamlines the stakeholder identification process. Auto-populating the list of stakeholders from the portfolio the user selects when filling out the demand form in the service catalog or in the Demand Management application. The Demand Management application also enables you to use assessments to automate some of the information gathering process.
 
 ## Add demand tasks
 
-Demand managers analyze business demands, [[approve-demands-ppw|approve demands]], and create projects and enhancements. Many times activities such as effort, cost, risk, and benefit estimates are required to analyze a demand and create a business case for approval of the demand. A demand manager can create [[demand-task|demand tasks]] and assign these tasks to individual resources or a group to perform these activities.
+Demand managers analyze business demands, approve demands, and create projects and enhancements. Many times activities such as effort, cost, risk, and benefit estimates are required to analyze a demand and create a business case for approval of the demand. A demand manager can create demand tasks and assign these tasks to individual resources or a group to perform these activities.
 
 The resources assigned to the demand tasks then post time spent while working on a demand or demand task using a time card. The time card data is used to calculate actual effort and cost incurred on the demand task as well as demand.
 
@@ -40,7 +40,7 @@ The newly added stakeholder is automatically associated with the current demand 
 
 Demand managers can create as many requirements as needed, but requirements aren’t required. Typically, the stakeholders associated with a demand request have insights into what the requirements are for a demand request to be completed.
 
-Demand managers use the [[requirement-form|Requirement form]] to describe the requirement and assign an owner who is responsible for making sure that the requirement is met. When a requirement is complex, demand managers can associate planned tasks, such as [[t_CreateAProjectTask|project tasks]], with the requirement. The demand manager assigns and tracks the tasks until they’re complete.
+Demand managers use the Requirement form to describe the requirement and assign an owner who is responsible for making sure that the requirement is met. When a requirement is complex, demand managers can associate planned tasks, such as project tasks, with the requirement. The demand manager assigns and tracks the tasks until they’re complete.
 
 To add a requirement to a demand, follow these steps:
 
@@ -49,7 +49,7 @@ To add a requirement to a demand, follow these steps:
 
 ## Add resource assignments
 
-Resource assignments are another source of information that decision makers can use when evaluating demands. You can [[create-rsrc-asgnmnts-ppm|create resource assignments]] for a demand from the **Resource assignments** related list, which appears only if the [[rsrc-mgmt-wrkspc|Resource Management Workspace]] application is activated.
+Resource assignments are another source of information that decision makers can use when evaluating demands. You can create resource assignments for a demand from the **Resource assignments** related list, which appears only if the Resource Management Workspace application is activated.
 
 To [add a resource assignment to the demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/create-manage-resource-plans-demand.md), scroll to the Resource assignments related list on the Demand form and select **New** to create a record.
 
@@ -94,20 +94,9 @@ This link appears only if you have the [Investment Funding](https://raw.githubus
 
 [PPM PIWB template - Find similar demands]()
 
-[Identify similar records using Now Assist for [[r_ITBusinessManagement|Strategic Portfolio Management]] \(SPM\)]()
+[Identify similar records using Now Assist for Strategic Portfolio Management \(SPM\)]()
 
 [Summarize demands with demand summarization skill]()
 
 [Associate AI systems with demands]()
 
-## Related
-
-- [[c_DemandManagement|Demand Management]]
-- [[demand-form|Demand form]]
-- [[approve-demands-ppw|Approve demands]]
-- [[demand-task|Demand tasks]]
-- [[requirement-form|Requirement form]]
-- [[t_CreateAProjectTask|Project tasks]]
-- [[create-rsrc-asgnmnts-ppm|Create resource assignments]]
-- [[rsrc-mgmt-wrkspc|Resource Management Workspace]]
-- [[r_ITBusinessManagement|Strategic Portfolio Management]]

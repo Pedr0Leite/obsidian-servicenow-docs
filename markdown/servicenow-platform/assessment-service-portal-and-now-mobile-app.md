@@ -12,7 +12,7 @@ breadcrumb: [Take an assessment, Using assessments, Assessments, Assessments and
 
 # Assessments in Service Portal and the Now Mobile app
 
-If you've installed Service Portal, you can use the My [[assessments-surveys-landing-page|Assessments and Surveys]] widget in Service Portal. Users can view and take [[r_Assessments|assessments]] in Service Portal. Service Portal also supports assessments for users on mobile devices that have the Now Mobile app installed. The My Assessments and Surveys widget is available by default on the Service Portal home page.
+If you've installed Service Portal, you can use the My Assessments and Surveys widget in Service Portal. Users can view and take assessments in Service Portal. Service Portal also supports assessments for users on mobile devices that have the Now Mobile app installed. The My Assessments and Surveys widget is available by default on the Service Portal home page.
 
 ## Assessments in Service Portal
 
@@ -53,13 +53,13 @@ Text that appears in the title bar of the survey widget.
  Default title: **My Assessments and Surveys**
 
 </td></tr></tbody>
-</table>\[Omitted image "ecs-my-assessments-[[r_SurveyManagementLandingPage|surveys]]-widget.png"\] Alt text: My Assessments and Surveys widget on the Service Portal home page.
+</table>\[Omitted image "ecs-my-assessments-surveys-widget.png"\] Alt text: My Assessments and Surveys widget on the Service Portal home page.
 
 ## Assessments in the Now Mobile app
 
 Your users can view and take the assessments on mobile devices using the My Assessments and Surveys applet launcher that is available by default in the Now Mobile app.
 
-When you assign an assessment to a user, an [[email|email]] notification about taking the assessment is sent to the user. If users installed the Now Mobile app, a mobile push notification is also sent on mobile devices. Tapping the notification opens an introduction page for an assessment in the Mobile Employee Service Portal in the Now Mobile app. The page displays a **Get started** link. The introduction page and the **Get started** link are available only if the related settings are enabled. Users can tap the link to view and take the assessment. You can activate push notifications by setting the **glide.sg.universal\_links.enabled** system property to **true**.
+When you assign an assessment to a user, an email notification about taking the assessment is sent to the user. If users installed the Now Mobile app, a mobile push notification is also sent on mobile devices. Tapping the notification opens an introduction page for an assessment in the Mobile Employee Service Portal in the Now Mobile app. The page displays a **Get started** link. The introduction page and the **Get started** link are available only if the related settings are enabled. Users can tap the link to view and take the assessment. You can activate push notifications by setting the **glide.sg.universal\_links.enabled** system property to **true**.
 
 \[Omitted image "AssessmentsandSurveysInNowMobilApp.png"\] Alt text: My Assessments and Surveys applet on a mobile device.
 
@@ -78,17 +78,10 @@ When users open an assessment either in Service Portal or the Now Mobile app, th
     **Note:** For mobile users, the pagination is always by question for assessments.
 
 
-**Parent Topic:**[[t_TakeAnAssessment|Take an assessment]]
+**Parent Topic:**[Take an assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_TakeAnAssessment.md)
 
 **Related topics**  
 
 
 [Activate Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/activate-service-portal.md)
 
-## Related
-
-- [[t_TakeAnAssessment|Take an assessment]]
-- [[assessments-surveys-landing-page|Assessments and Surveys]]
-- [[r_Assessments|Assessments]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[email|Email]]

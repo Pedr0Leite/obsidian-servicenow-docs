@@ -36,7 +36,7 @@ On the Prediction Results dashboard, statistics are provided in two timeframes: 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[predictive-intelligence-landing|Predictive Intelligence]]** &gt; **Classification** &gt; **Prediction Results Report**.
+1.  Navigate to **All** &gt; **Predictive Intelligence** &gt; **Classification** &gt; **Prediction Results Report**.
 
 2.  In the Prediction Results dashboard **Filter by solution** prompt, select the solution statistics you want to review.
 
@@ -53,6 +53,3 @@ Refine the solution definition filter by including or excluding classes as neede
 
 **Parent Topic:**[Testing and monitoring predictions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/testing-reviewing-ml-solutions.md)
 
-## Related
-
-- [[predictive-intelligence-landing|Predictive Intelligence]]

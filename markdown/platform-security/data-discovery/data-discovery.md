@@ -14,7 +14,7 @@ breadcrumb: [Data Discovery, Platform Privacy]
 
 # Exploring Data Discovery \(Classic\)
 
-Use [[data-discovery-landing|Data Discovery]] to identify sensitive data within an instance, such as credit card information, emails, or social security numbers.
+Use Data Discovery to identify sensitive data within an instance, such as credit card information, emails, or social security numbers.
 
 Data Discovery runs a user-defined set of jobs on a set of tables. The jobs search for and report sensitive information for review on the Data Discovery dashboard. A scheduled job automatically uses all active data patterns and target tables when it runs.
 
@@ -44,6 +44,3 @@ The Discovered tables highlight which tables currently discovered data is in, an
 
 The Columns with Discovered Data section reviews currently discovered data by their column.
 
-## Related
-
-- [[data-discovery-landing|Data Discovery]]

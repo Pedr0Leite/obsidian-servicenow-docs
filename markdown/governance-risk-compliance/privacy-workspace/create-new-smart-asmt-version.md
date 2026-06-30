@@ -19,7 +19,7 @@ Publish a new version of a smart assessment template to revise its questionnaire
 
 ## Before you begin
 
-Application scope: **GRC: [[privacy-management|Privacy Management]]**
+Application scope: **GRC: Privacy Management**
 
 **Note:** To revise the privacy breach assessment template used in privacy cases, change the application scope to **GRC: Privacy Case Management**.
 
@@ -35,7 +35,7 @@ Privacy assessments that are already in **Draft**, **Assigned**, or **Work in pr
 
 ## Procedure
 
-1.  Navigate to **Assessment Workspace** &gt; **[[airc-assessment-templates|Assessment templates]]**.
+1.  Navigate to **Assessment Workspace** &gt; **Assessment templates**.
 
     The **Assessment templates** list shows each template with its current **Version** number and **Published** state.
 
@@ -75,7 +75,3 @@ The new template version is the only version available for sending new privacy a
 
 [Smart assessments in Privacy Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/smart-assessments-in-privacy-management.md)
 
-## Related
-
-- [[privacy-management|privacy management]]
-- [[airc-assessment-templates|Assessment templates]]

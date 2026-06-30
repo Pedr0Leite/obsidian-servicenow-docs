@@ -20,11 +20,11 @@ Role required: assessment\_admin or admin
 
 ## About this task
 
-For detailed information about scorecards, see [[c_QuizScorecards|Quiz scorecards]].
+For detailed information about scorecards, see [Quiz scorecards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_QuizScorecards.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_Quizzes|Quizzes]]** &gt; **Quizzes**.
+1.  Navigate to **All** &gt; **Quizzes** &gt; **Quizzes**.
 
 2.  Open a quiz record.
 
@@ -38,18 +38,10 @@ For detailed information about scorecards, see [[c_QuizScorecards|Quiz scorecard
 
     The available views are:
 
-    -   [[r_CategoryResults|Category Results]]
-    -   [[r_QuestionResults|Question Results]]
-    -   [[r_AverageRatings|Average Ratings]]
+    -   Category Results
+    -   Question Results
+    -   Average Ratings
     -   History
 
-**Parent Topic:**[[t_ViewAQuizDesignerScorecard|View a quiz designer scorecard]]
+**Parent Topic:**[View a quiz designer scorecard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAQuizDesignerScorecard.md)
 
-## Related
-
-- [[c_QuizScorecards|Quiz scorecards]]
-- [[t_ViewAQuizDesignerScorecard|View a quiz designer scorecard]]
-- [[c_Quizzes|Quizzes]]
-- [[r_CategoryResults|Category results]]
-- [[r_QuestionResults|Question results]]
-- [[r_AverageRatings|Average ratings]]

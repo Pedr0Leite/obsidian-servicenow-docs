@@ -14,7 +14,7 @@ breadcrumb: [Configure, Upgrade Console, Upgrade, Administer the ServiceNow AI P
 
 # Access guided upgrade on a production instance
 
-Follow the [[um-guided-tour|guided upgrade]] steps to experience the seamless upgrade on your production instance.
+Follow the guided upgrade steps to experience the seamless upgrade on your production instance.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Access [[um-landing-page|Upgrade Console]] in one of the following ways.
+1.  Access Upgrade Console in one of the following ways.
 
 <table id="choicetable_psc_rtj_qfc"><thead><tr><th align="left" id="d179278e57">
 
@@ -38,7 +38,7 @@ Navigation
 
 </td><td>
 
-Navigate to **All** &gt; **[[admin-center-intro|Admin Center]]** &gt; **Upgrade Console**.
+Navigate to **All** &gt; **Admin Center** &gt; **Upgrade Console**.
 
 </td></tr><tr><td id="d179278e87">
 
@@ -115,8 +115,3 @@ Implement the post-upgrade tasks for a successful upgrade completion on your pro
 
 [Access guided upgrade on a non-production instance]()
 
-## Related
-
-- [[um-guided-tour|Guided upgrade]]
-- [[um-landing-page|Upgrade Console]]
-- [[admin-center-intro|Admin Center]]

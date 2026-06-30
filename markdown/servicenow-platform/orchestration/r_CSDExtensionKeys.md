@@ -14,7 +14,7 @@ breadcrumb: [Client software distribution extension framework, Client Software D
 
 # Client software distribution extension keys
 
-[[c_ClientSoftwareDistribution|Client software distribution]] \(CSD\) extension keys allow you to customize the deployment and revocation of software from distribution providers.
+Client software distribution \(CSD\) extension keys allow you to customize the deployment and revocation of software from distribution providers.
 
 These pre-defined keys allow you to generate input variables for workflows that deploy and revoke software from external distribution providers:
 
@@ -24,6 +24,3 @@ These pre-defined keys allow you to generate input variables for workflows that 
 
 **Parent Topic:**[Client software distribution extension framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_CSDExtensionFramework.md)
 
-## Related
-
-- [[c_ClientSoftwareDistribution|Client Software Distribution]]

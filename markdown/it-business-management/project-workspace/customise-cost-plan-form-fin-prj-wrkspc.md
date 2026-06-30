@@ -14,7 +14,7 @@ breadcrumb: [Configure financials for Project Workspace, Configuring Project Wor
 
 # Customise cost plan form
 
-Manage the fields required on the new [[demand-plan-form|cost plan form]] as per your organization needs.
+Manage the fields required on the new cost plan form as per your organization needs.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ Role required: admin
 
 **Parent Topic:**[Configure financials for Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/config-fin-pws.md)
 
-## Related
-
-- [[demand-plan-form|Cost plan form]]

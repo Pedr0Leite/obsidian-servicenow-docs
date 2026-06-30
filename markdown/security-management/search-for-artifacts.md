@@ -16,7 +16,7 @@ You can perform a keyword search on any security artifact list.
 
 ## Before you begin
 
-The [[threat-intel-landing-page|Threat Intelligence]] plugin must be activated to use [[case-mgmt|Security Case Management]].
+The Threat Intelligence plugin must be activated to use Security Case Management.
 
 Role required: sn\_ti.case\_user\_write
 
@@ -31,7 +31,7 @@ Role required: sn\_ti.case\_user\_write
     When artifacts that match your entry are found, they are displayed.
 
 
-**Parent Topic:**[[sec-artifact-analysis|Security artifact analysis]]
+**Parent Topic:**[Security artifact analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sec-artifact-analysis.md)
 
 **Related topics**  
 
@@ -42,8 +42,3 @@ Role required: sn\_ti.case\_user\_write
 
 [Annotate security artifacts]()
 
-## Related
-
-- [[sec-artifact-analysis|Security artifact analysis]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[case-mgmt|Security Case Management]]

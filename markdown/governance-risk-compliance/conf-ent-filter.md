@@ -12,7 +12,7 @@ breadcrumb: [Setting up pillars, entity types, entity filters, and entities, Con
 
 # Configure the entity filters
 
-Configure [[what-is-an-entity-filter|entity filters]] to define the records from ServiceNow tables that populate each entity type after setting up pillars and [[entity-type-in-risk-ws|entity types]]. Entity filters use selection criteria to identify and pull relevant records automatically. You can build custom filter conditions tailored to your requirements or select from predefined \(saved\) queries for common scenarios.
+Configure entity filters to define the records from ServiceNow tables that populate each entity type after setting up pillars and entity types. Entity filters use selection criteria to identify and pull relevant records automatically. You can build custom filter conditions tailored to your requirements or select from predefined \(saved\) queries for common scenarios.
 
 ## Before you begin
 
@@ -77,7 +77,4 @@ Choose the appropriate method based on your specific filtering requirements and 
 
         **Note:** Entity filters must be activated to generate entities. Inactive filters don’t produce entities even if they’re properly configured.
 
-## Related
 
-- [[what-is-an-entity-filter|Entity filters]]
-- [[entity-type-in-risk-ws|Entity types]]

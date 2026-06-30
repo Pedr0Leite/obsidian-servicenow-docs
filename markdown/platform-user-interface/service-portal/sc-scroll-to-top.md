@@ -14,7 +14,7 @@ breadcrumb: [Service Catalog widgets, Widget library, Using portal widgets, Conf
 
 # SC Scroll to top widget
 
-In the [[c_ServicePortal|Service Portal]] mobile view, the SC Scroll to top widget \(sc\_scroll\_to\_top\) lets you scroll to the top of the screen after you scroll down. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
+In the Service Portal mobile view, the SC Scroll to top widget \(sc\_scroll\_to\_top\) lets you scroll to the top of the screen after you scroll down. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 
 This widget is displayed when you start to scroll upwards after reaching a specific screen height.
 
@@ -71,6 +71,3 @@ Use the widget instance options to customize the settings for the SC Scroll to t
 
 [Clone a widget]()
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]

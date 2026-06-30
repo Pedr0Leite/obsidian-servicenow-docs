@@ -12,7 +12,7 @@ breadcrumb: [Assessment administrator tasks, Using assessments, Assessments, Ass
 
 # Enable manager notifications
 
-Users with the assessment\_admin role can enable the [[notify-landing-page|Notify]] manager assessment is overdue [[email|email]] notification.
+Users with the assessment\_admin role can enable the Notify manager assessment is overdue email notification.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: assessment\_admin or admin
 
 ## About this task
 
-This notification sends emails to assessors' managers when assessors do not complete their assigned [[r_Assessments|assessments]] on time. For more information, see the table of assessment notifications. You must enable or disable this email notification separately for each metric type.
+This notification sends emails to assessors' managers when assessors do not complete their assigned assessments on time. For more information, see the table of assessment notifications. You must enable or disable this email notification separately for each metric type.
 
 ## Procedure
 
@@ -28,7 +28,7 @@ This notification sends emails to assessors' managers when assessors do not comp
 
 2.  Open a metric type.
 
-3.  Select the **Notify if overdue** [[check-box|check box]].
+3.  Select the **Notify if overdue** check box.
 
     \[Omitted image "NotifyIfOverdue.png"\] Alt text: The Notify if overdue option
 
@@ -39,19 +39,10 @@ This notification sends emails to assessors' managers when assessors do not comp
     **Note:** The assessor's user record must have a manager specified in the **Manager** field to use this notification. You might need to configure the form to use this field.
 
 
--   **[[r_AssessmentNotifications|Assessment notifications]]**  
+-   **[Assessment notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_AssessmentNotifications.md)**  
 You can configure the system to send email notifications for assessments.
--   **[[r_AssessmentNotificationWorkflow|Assessment notification workflow]]**  
+-   **[Assessment notification workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_AssessmentNotificationWorkflow.md)**  
 The system sends assessment notifications according to the Notify assessment user workflow. Users with the workflow\_admin, workflow\_creator, or workflow\_publisher roles can view workflows.
 
-**Parent Topic:**[[c_AssessmentProcess|Assessment administrator tasks]]
+**Parent Topic:**[Assessment administrator tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentProcess.md)
 
-## Related
-
-- [[r_AssessmentNotifications|Assessment notifications]]
-- [[r_AssessmentNotificationWorkflow|Assessment notification workflow]]
-- [[c_AssessmentProcess|Assessment administrator tasks]]
-- [[notify-landing-page|Notify]]
-- [[email|Email]]
-- [[r_Assessments|Assessments]]
-- [[check-box|Check box]]

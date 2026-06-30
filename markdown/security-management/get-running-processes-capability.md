@@ -16,21 +16,21 @@ The Get Running Processes capability retrieves a list of running processes on a 
 
 The Get Running Processes capability has two implementation flows:
 
--   [[secops-integration-cb-get-running-processes-workflow|Security Operations Carbon Black Integration - Get Running Processes Flow]]
--   [[obtain-WMI-retrieval-workflow|Security Operations System Command Integration- Get Running Processes flow]]
+-   [Security Operations Carbon Black Integration - Get Running Processes Flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/secops-integration-cb-get-running-processes-workflow.md)
+-   [Security Operations System Command Integration- Get Running Processes flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/obtain-WMI-retrieval-workflow.md)
 
 **Note:** If no implementations are available, capability actions are not displayed in product menus.
 
-Actions specific to this flow are described here. For more information on other actions, see [[common-wf-activities|Common Security Operations integration flows and orchestration activities]].
+Actions specific to this flow are described here. For more information on other actions, see [Common Security Operations integration flows and orchestration activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/common-wf-activities.md).
 
 -   **[Security Operations Carbon Black Integration - Get Running Processes Flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/secops-integration-cb-get-running-processes-workflow.md)**  
-The [[security-operations-landing-page|Security Operations]] [[carbon-black-landing-page|Carbon Black Integration]] - Get Running Processes is the implementation for the Carbon Black integration launched by the Security Operations Integration - Get Running Process flow.
+The Security Operations Carbon Black Integration - Get Running Processes is the implementation for the Carbon Black integration launched by the Security Operations Integration - Get Running Process flow.
 -   **[Security Operations System Command Integration- Get Running Processes flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/obtain-WMI-retrieval-workflow.md)**  
 The Security Operations System Command Integration - Get Running Processes flow retrieves the running processes of a configuration item when added or updated to a Windows or Unix-based security incident in the **Analysis** state.
--   **[[secops-integration-get-running-processes-workflow|Security Operations - Get Running Processes Flow]]**  
+-   **[Security Operations - Get Running Processes Flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/secops-integration-get-running-processes-workflow.md)**  
 The Security Operations - Get Running Processes flow is a high-level flow independent of integrations. It retrieves a list of running processes on a configuration item \(CI\) from a host. Use it to fulfill an integration, such as Carbon Black, or for a Windows-based security incident.
 
-**Parent Topic:**[[integration-capabilities|Integration capabilities]]
+**Parent Topic:**[Integration capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/integration-capabilities.md)
 
 **Related topics**  
 
@@ -49,20 +49,9 @@ The Security Operations - Get Running Processes flow is a high-level flow indepe
 
 [Security Operations Integration- Publish to Watchlist capability]()
 
-[Security Operations Integration- [[indicator-sightings|Sightings]] Search capability]()
+[Security Operations Integration- Sightings Search capability]()
 
-[Security Operations Integration - [[tisc-threat-lookup|Threat Lookup]] capability]()
+[Security Operations Integration - Threat Lookup capability]()
 
 [Change the order of flow execution]()
 
-## Related
-
-- [[secops-integration-cb-get-running-processes-workflow|Security Operations Carbon Black Integration - Get Running Processes Flow]]
-- [[obtain-WMI-retrieval-workflow|Security Operations System Command Integration- Get Running Processes flow]]
-- [[common-wf-activities|Common Security Operations integration flows and orchestration activities]]
-- [[secops-integration-get-running-processes-workflow|Security Operations - Get Running Processes Flow]]
-- [[integration-capabilities|Integration capabilities]]
-- [[security-operations-landing-page|Security Operations]]
-- [[carbon-black-landing-page|Carbon Black integration]]
-- [[indicator-sightings|Sightings]]
-- [[tisc-threat-lookup|Threat Lookup]]

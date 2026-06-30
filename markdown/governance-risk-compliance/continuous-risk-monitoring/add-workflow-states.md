@@ -14,7 +14,7 @@ breadcrumb: [GRC state model configuration, CAM workflow configuration, Using CA
 
 # Create GRC workflow states
 
-Add [[r_WhatIsGRC|Governance, Risk, and Compliance]] workflow states to a state model to define the individual steps in your workflow. Each workflow state represents a phase in the authorization package life cycle and determines what you can do at that stage.
+Add Governance, Risk, and Compliance workflow states to a state model to define the individual steps in your workflow. Each workflow state represents a phase in the authorization package life cycle and determines what you can do at that stage.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_irm\_cont\_auth.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[grc-cam-landing-page|Continuous Authorization and Monitoring]]** &gt; **[[Administration|Administration]]** &gt; **GRC State Models**.
+1.  Navigate to **All** &gt; **Continuous Authorization and Monitoring** &gt; **Administration** &gt; **GRC State Models**.
 
 2.  Open the state model record to which you want to add workflow states.
 
@@ -74,8 +74,3 @@ The workflow states appear in the workflow states related list on the state mode
 
 [Configure transition between state models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/create-state-transitions.md)
 
-## Related
-
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]
-- [[grc-cam-landing-page|Continuous Authorization and Monitoring]]
-- [[Administration|Administration]]

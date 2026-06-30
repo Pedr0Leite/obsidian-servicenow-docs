@@ -38,14 +38,10 @@ Role required: sn\_telecom\_c360.admin
     |Enable search on product characteristics|Flag that enables search by product characteristics. Select this flag to enable search against product characteristic values in addition to the product search field. Search is performed against characteristic values only.|
 
 
-**Parent Topic:**[[c360-configure-variables|Configure the Telecommunications Customer 360 variables]]
+**Parent Topic:**[Configure the Telecommunications Customer 360 variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/c360-configure-variables.md)
 
 **Related topics**  
 
 
-[[c360-products-card|Products card]]
+[Products card](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/c360-products-card.md)
 
-## Related
-
-- [[c360-configure-variables|Configure the Telecommunications Customer 360 variables]]
-- [[c360-products-card|Products card]]

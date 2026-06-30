@@ -22,7 +22,7 @@ Role required: sn\_lg\_ops.legal\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Employee Center**.
 
     **Note:** If you’re using Legal Service Portal, open a request by navigating to the Legal Service Portal and selecting **My Requests** &gt; **View all requests** from the header.
 
@@ -68,7 +68,7 @@ The request is canceled and the cancellation comments appear in the Additional C
 Any associated active flows are terminated. Any pending approval record is also canceled and a comment is posted in the Additional Comments section of the approval record.
 
 </td></tr></tbody>
-</table>5.  In the **[[activity-lxp|Activity]]** tab, provide comments or more information about your request for the request fulfiller.
+</table>5.  In the **Activity** tab, provide comments or more information about your request for the request fulfiller.
 
 6.  Manage documents supporting your request.
 
@@ -116,7 +116,3 @@ A link to the document is listed in the **External URL** column of the documents
 
 **Parent Topic:**[Using Legal Request Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/submitting-legal-request.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[activity-lxp|Activity]]

@@ -119,7 +119,7 @@ The following diagram shows the questionnaire to TPRM SAE template migration wor
 2.  Review each migrated questionnaire template individually to confirm that they’re accurate and complete.
 3.  Publish TPRM SAE questionnaire templates. After publishing, the following actions occur automatically:
 
-    -   TPRM SAE templates are associated with all related [[airc-assessment-templates|Assessment templates]].
+    -   TPRM SAE templates are associated with all related Assessment templates.
     -   TPRM SAE templates are associated with all related Issue generation rules.
     **Note:** For Issue-generation rules to work as expected when applied to an TPRM SAE assessment template, at least one question must have the option, Enable preferred response, set to true.
 
@@ -133,7 +133,7 @@ The following diagram shows the relationship between assessment templates and qu
 
 \[Omitted image "tprm-assess-sae-workflow.png"\] Alt text: Assessment template impact after upgrading. For a text description, see the text that preceded and follows this diagram.
 
--   Before setting the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] enabled \(**sn\_vdr\_risk\_asmt.sae\_enabled**\) property, the following are used by default.
+-   Before setting the Smart Assessment Engine enabled \(**sn\_vdr\_risk\_asmt.sae\_enabled**\) property, the following are used by default.
     -   Existing questionnaire templates
     -   Existing assessments
 -   After setting the Smart Assessment Engine enabled \(**sn\_vdr\_risk\_asmt.sae\_enabled**\) property, the following are used by default.
@@ -166,7 +166,3 @@ The assessment migration process has the following limitations and requirements.
 
 [How legacy metric types are migrated to sections in templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-how-legacy-metrics-migrated.md)
 
-## Related
-
-- [[airc-assessment-templates|Assessment templates]]
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]

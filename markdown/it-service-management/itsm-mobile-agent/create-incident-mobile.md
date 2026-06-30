@@ -14,7 +14,7 @@ breadcrumb: [Managing incidents and tasks using My Work applet, ITSM Mobile Agen
 
 # Create an incident from app landing page
 
-[[create-an-incident|Create an incident]] directly from your agent mobile app [[dex-workspace-dashboard-tab|landing page]] with a single tap.
+Create an incident directly from your agent mobile app landing page with a single tap.
 
 ## Before you begin
 
@@ -126,8 +126,3 @@ Tap the arrow to search and choose a person from the assignment group.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[create-an-incident|Create an incident]]
-- [[dex-workspace-dashboard-tab|Landing page]]

@@ -14,7 +14,7 @@ breadcrumb: [SOX content pack, GRC content packs, Common GRC features, Governanc
 
 # Verify the SOX Content Pack in Audit Management
 
-After importing the SOX Content Pack, verify and edit the [[entity-type-in-risk-ws|entity types]], entities, audit engagements, audit tasks, test templates, and test plans within the [[c_GRCAudits|Audit Management]] application.
+After importing the SOX Content Pack, verify and edit the entity types, entities, audit engagements, audit tasks, test templates, and test plans within the Audit Management application.
 
 ## Before you begin
 
@@ -81,7 +81,3 @@ For information about the SOX Audit Dashboard, see [SOX Content Pack dashboard a
 
 **Parent Topic:**[Sarbanes-Oxley \(SOX\) Content Pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/sn-store-SOX-governance-risk-compliance.md)
 
-## Related
-
-- [[entity-type-in-risk-ws|Entity types]]
-- [[c_GRCAudits|Audit Management]]

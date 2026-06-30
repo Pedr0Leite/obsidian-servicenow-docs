@@ -16,7 +16,7 @@ Look up your schedule, request time off, or swap your shift with your peers usin
 
 ## Before you begin
 
-**Important:** To access the next generation of the Workforce Optimization for Customer Service application, transition to the Workforce Optimization for Customer Service application that is available from the ServiceNow Store. You can now configure Workforce Optimization for Customer Service using the [UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder-overview.md). For more information see, [[configurable-wfo-cs|Workforce Optimization for Customer Service]].
+**Important:** To access the next generation of the Workforce Optimization for Customer Service application, transition to the Workforce Optimization for Customer Service application that is available from the ServiceNow Store. You can now configure Workforce Optimization for Customer Service using the [UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder-overview.md). For more information see, [Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configurable-wfo-cs.md).
 
 Role required: sn\_shift\_planning.agent
 
@@ -49,7 +49,7 @@ You can swap shifts with agents that are within your assignment group.
 
 3.  Make a request.
 
-    You can communicate with other agents by using Connect Chat or the [[csm-config-ws-activity-stream|activity stream]] on the record to make sure that they would like to swap the requested shift with you.
+    You can communicate with other agents by using Connect Chat or the activity stream on the record to make sure that they would like to swap the requested shift with you.
 
 <table id="table_d5p_ggx_glb"><thead><tr><th>
 
@@ -88,7 +88,3 @@ Request a time off
 </table>    -   The shift-swap request moves to the approval queue of the agent that you have requested to swap with.
     -   The time-off request moves to your direct manager's approval queue.
 
-## Related
-
-- [[configurable-wfo-cs|Workforce Optimization for Customer Service]]
-- [[csm-config-ws-activity-stream|Activity stream]]

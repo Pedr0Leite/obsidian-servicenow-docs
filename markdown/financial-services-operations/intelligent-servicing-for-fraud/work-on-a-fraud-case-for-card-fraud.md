@@ -21,11 +21,11 @@ Use card fraud to work on a fraud case that is created for reviewing alerts that
 
 Role required: sn\_bom\_fraud.agent or sn\_bom\_fraud.agent\_connector
 
-**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [[fso-combine-csm-industry-roles|Roles and Personas]].
+**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-combine-csm-industry-roles.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -54,7 +54,4 @@ Role required: sn\_bom\_fraud.agent or sn\_bom\_fraud.agent\_connector
     |**To submit a fraud case**|In the case playbook, select **Submit**.|
     |**To close investigation tasks**|In the task form, select **Close** to close the task.|
 
-## Related
 
-- [[fso-combine-csm-industry-roles|Using agent connector and contributor roles in Financial Services Operations]]
-- [[fso-overview|Financial Services]]

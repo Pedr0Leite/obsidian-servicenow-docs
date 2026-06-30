@@ -14,7 +14,7 @@ breadcrumb: [Active Directory Application Mode \(ADAM\), LDAP integration, Authe
 
 # Use LDAPS with ADAM
 
-The default [[sc-configuration|configuration]] for userProxy object [[c_Authentication|authentication]] is to enforce LDAPS \(secure LDAP\) [[sc-communications|communications]]. LDAPS requires SSL [[c_Certificates|certificates]] to secure the network traffic.
+The default configuration for userProxy object authentication is to enforce LDAPS \(secure LDAP\) communications. LDAPS requires SSL certificates to secure the network traffic.
 
 To remove this requirement make the following change using the ADSIEdit console connected to the configuration partition.
 
@@ -58,9 +58,3 @@ Once the certificate is generated you can remove it from the website, or delete 
 
 [http://www.microsoft.com/downloads/en/details.aspx?familyid=9688f8b9-1034-4ef6-a3e5-2a2a57b5c8e4&amp;displaylang=en%7C](http://www.microsoft.com/downloads/en/details.aspx?familyid=9688f8b9-1034-4ef6-a3e5-2a2a57b5c8e4&displaylang=en%7C)
 
-## Related
-
-- [[sc-configuration|Configuration]]
-- [[c_Authentication|Authentication]]
-- [[sc-communications|Communications]]
-- [[c_Certificates|Certificates]]

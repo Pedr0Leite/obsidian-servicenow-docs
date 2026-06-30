@@ -23,7 +23,7 @@ Role required: admin
 
 ## About this task
 
-This AI agent relies on AI Search for fetching the relevant cases and knowledge articles that could help solve your issue. For more information on configuring AI Search, see [[csm-config-workspace-ai-search|Using AI Search with CSM Configurable Workspace]] and [Semantic index configuration for indexed sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/semantic-index-cfg-ais.md).
+This AI agent relies on AI Search for fetching the relevant cases and knowledge articles that could help solve your issue. For more information on configuring AI Search, see [Using AI Search with CSM Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-config-workspace-ai-search.md) and [Semantic index configuration for indexed sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/semantic-index-cfg-ais.md).
 
 ## Procedure
 
@@ -35,6 +35,4 @@ This AI agent relies on AI Search for fetching the relevant cases and knowledge 
 
 4.  Select **Save**.
 
-## Related
 
-- [[csm-config-workspace-ai-search|Using AI Search with CSM Configurable Workspace]]

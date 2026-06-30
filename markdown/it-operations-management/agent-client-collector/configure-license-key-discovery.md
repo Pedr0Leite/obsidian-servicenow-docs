@@ -15,7 +15,7 @@ breadcrumb: [License key discovery, ACC Discovery, ACC deployment - servers, Con
 
 # Configure license key discovery
 
-Enable [[license-key-discovery|license key discovery]] and define the registry paths and values you want the [[acc-landing-page|Agent Client Collector]] for Visibility - Content Windows agent to collect from managed endpoints.
+Enable license key discovery and define the registry paths and values you want the Agent Client Collector for Visibility - Content Windows agent to collect from managed endpoints.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ The SAM Professional plugin \(com.snc.samp\) must be active.
 
 The Agent Client Collector for Visibility - Content Windows agent must be deployed on the endpoints.
 
-Role required: agent\_client\_collector\_admin or [[r-discovery|discovery]]\_admin
+Role required: agent\_client\_collector\_admin or discovery\_admin
 
 ## Procedure
 
@@ -54,8 +54,3 @@ The **Refresh License Key Config File** scheduled job reads all active configura
 
 **Parent Topic:**[License key discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/license-key-discovery.md)
 
-## Related
-
-- [[license-key-discovery|License key discovery]]
-- [[acc-landing-page|Agent Client Collector]]
-- [[r-discovery|Discovery]]

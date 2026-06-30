@@ -16,7 +16,7 @@ breadcrumb: [Azure AD activity pack, Orchestration activity packs, Classic Orche
 
 The Create User activity creates a user for the Azure Active Directory tenant.
 
-To access this activity in the [[workflow-editor|Workflow Editor]], select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Azure AD**. This activity was built with the [REST web service activity template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateARESTWebServiceActivity.md).
+To access this activity in the Workflow Editor, select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Azure AD**. This activity was built with the [REST web service activity template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateARESTWebServiceActivity.md).
 
 **Important:** The REST message used for this activity must be configured to use [OAuth 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_OAuthApplications.md).
 
@@ -25,7 +25,7 @@ To access this activity in the [[workflow-editor|Workflow Editor]], select the *
 |Variable|Description|
 |--------|-----------|
 |display\_name|Name of the Azure AD user in the accepted display format, such as **jacinto.gawron**.|
-|user\_principal\_name|User principal name \(UPN\) in an [[email|email]] format. For example, you might enter **jacinto.gawron@khitomer.com**.|
+|user\_principal\_name|User principal name \(UPN\) in an email format. For example, you might enter **jacinto.gawron@khitomer.com**.|
 |mail\_nickname|User's email alias that redirects to the user's full address.|
 |password|User's Azure AD password. This password must be passed as a workflow input with a type of **Password \(2 Way Encrypted\)** and must meet the password policy set in Azure AD.|
 |change\_password|Control that requires the user to change their password at the next login, if set to true.|
@@ -99,10 +99,5 @@ The **user\_info** array contains attributes that can be leveraged by other acti
 |----------|-----------|
 |Created user|Activity successfully created the user.|
 |User already exists|User already exists in the tenant domain.|
-|Failure|Activity failed to [[c_Connect|connect]] to Azure AD, or an input value was invalid.|
+|Failure|Activity failed to connect to Azure AD, or an input value was invalid.|
 
-## Related
-
-- [[workflow-editor|Workflow editor]]
-- [[email|Email]]
-- [[c_Connect|Connect]]

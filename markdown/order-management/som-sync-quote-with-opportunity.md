@@ -12,7 +12,7 @@ breadcrumb: [Quote Management, Configure, price, quote apps, Use, Sales Customer
 
 # Sync a quote with an opportunity
 
-Agents can sync quote information with an opportunity to ensure that information is consistent between both applications in [[quote-management|Quote Management]].
+Agents can sync quote information with an opportunity to ensure that information is consistent between both applications in Quote Management.
 
 ## Before you begin
 
@@ -46,9 +46,5 @@ Role required: sales\_agent
     -   The opportunity record is updated asynchronously with the latest product offerings and prices that are added to the quote.
     -   The synced opportunity state changes to closed when the quote is marked as complete
 
-**Parent Topic:**[[quote-mgmt-using|Using Quote Management]]
+**Parent Topic:**[Using Quote Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-mgmt-using.md)
 
-## Related
-
-- [[quote-mgmt-using|Using Quote Management]]
-- [[quote-management|Quote Management]]

@@ -18,7 +18,7 @@ Description of the field values in the Learning External Content form.
 
 |Field|Description|
 |-----|-----------|
-|Title|Title of the content that is pulled from a third-party [[exploring-learning-exp|learning]] system.|
+|Title|Title of the content that is pulled from a third-party learning system.|
 |Correlation ID|Unique identifier for the course item that is generated from an external system.|
 |External source|Name of the external learning system that the course item is pulled from.|
 |Active|Option that indicates that the course item is active and available to use.|
@@ -31,6 +31,3 @@ Description of the field values in the Learning External Content form.
 
 **Parent Topic:**[Learning reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/learning-experience-reference.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]

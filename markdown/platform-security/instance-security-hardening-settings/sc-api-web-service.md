@@ -14,7 +14,7 @@ breadcrumb: [Hardening settings, Platform Security]
 
 # API and web service
 
-The API and Web Service category ensures that applications have appropriate [[c_Authentication|authentication]], authorization and [[sc-session-management|session management]], validate all input that traverses a trust boundary and include security controls for all API types.
+The API and Web Service category ensures that applications have appropriate authentication, authorization and session management, validate all input that traverses a trust boundary and include security controls for all API types.
 
 Specific controls in this category address input validation by service type such as XDS schema validation for SOAP web services or Denial of Service protection for graphQL APIs.
 
@@ -23,8 +23,8 @@ Use the **glide.soap.require\_content\_type\_xml** property to enable validation
 -   **[Prevent OAuth Clients from Using Implicit Grant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-prevent-oauth-clients-from-using-implicit-grant.md)**  
 Use a system property to avoid the use of the implicit grant type.
 -   **[Require authorization for PDF requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-require-authorization-for-pdf-requests.md)**  
-Use the **glide.basicauth.required.pdf** property to designate if incoming PDF requests should require [[basic-authentication|basic authentication]].
--   **[Require Authentication on Event Management HTTP Processor \[New in [[sec-center-v2|Security Center]] 1.3, Updated in 1.5, and removed in 2.0\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-require-authentication-on-event-management-http-processor.md)**  
+Use the **glide.basicauth.required.pdf** property to designate if incoming PDF requests should require basic authentication.
+-   **[Require Authentication on Event Management HTTP Processor \[New in Security Center 1.3, Updated in 1.5, and removed in 2.0\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-require-authentication-on-event-management-http-processor.md)**  
 Learn how to establish secure basic authentication for inbound Amazon Simple Notification Service \(SNS\) requests when the Event Management plugin \(**com.glideapp.itom.snac**\) is enabled.
 -   **[Require authorization for SOAP requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-soap-request-authorization.md)**  
 Use the **glide.basicauth.required.soap** property to designate if incoming SOAP requests should require basic authorization.
@@ -57,9 +57,3 @@ Use the **glide.basicauth.required.api** property to enhance security for basic 
 
 **Parent Topic:**[Hardening settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/security-hardening-settings.md)
 
-## Related
-
-- [[c_Authentication|Authentication]]
-- [[sc-session-management|Session management]]
-- [[basic-authentication|Basic authentication]]
-- [[sec-center-v2|Security Center]]

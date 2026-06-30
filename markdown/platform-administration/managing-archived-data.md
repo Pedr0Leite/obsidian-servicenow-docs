@@ -14,7 +14,7 @@ breadcrumb: [Archiving records in Core UI, Manage data growth in Core UI, Data M
 
 Change the schedule for an archive rule, stop the archive rule from running, or restore your archived data.
 
-**Parent Topic:**[[archiving-older-records|Archiving records in Core UI]]
+**Parent Topic:**[Archiving records in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/archiving-older-records.md)
 
 ## Change an archive schedule in Core UI
 
@@ -30,7 +30,7 @@ All active archive rules are executed by a system-scheduled job set to run every
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **System Scheduler** &gt; **[[c_ScheduledJobs|Scheduled Jobs]]**.
+1.  Navigate to **All** &gt; **System Scheduler** &gt; **Scheduled Jobs**.
 
 2.  Open the **Archive** record.
 
@@ -59,7 +59,7 @@ Steps
 
 </th></tr></thead><tbody><tr><td id="d221079e200">
 
-**Using a [[c_DataManagement|data management]] policy**
+**Using a data management policy**
 
 </td><td>
 
@@ -148,8 +148,3 @@ The record is restored to the primary table. The archive record is deleted from 
 
 View the restore date and time in the **Restored** column in the Archive Log related list.
 
-## Related
-
-- [[archiving-older-records|Archiving records in Core UI]]
-- [[c_ScheduledJobs|Scheduled jobs]]
-- [[c_DataManagement|Data Management]]

@@ -12,7 +12,7 @@ breadcrumb: [Using Column Level Encryption, Column Level Encryption, Encryption]
 
 # Create cryptographic module for Column Level Encryption
 
-Create a [[field-encryption|Field Encryption]] cryptographic module to define the mechanisms used for cryptographic operations.
+Create a Field Encryption cryptographic module to define the mechanisms used for cryptographic operations.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_kmf.cryptographic\_manager or sn\_kmf\_admin, security\_admin
 
 ## About this task
 
-This procedure describes options that are available with [[column-level-encryption-landing|Column Level Encryption]] with the base system and additional [[sc-configuration|configuration]] options that become available with [[now-platform-encryption-2|Column Level Encryption Enterprise]] functionality. Column Level Encryption Enterprise is available with a paid subscription. Refer to [Encryption and Key Management subscription bundle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/encryption-sku.md) for supported features and options available with each offering. See [[activate-platform-encryption-2|Activate Column Level Encryption Enterprise]] for more information on obtaining Column Level Encryption Enterprise.
+This procedure describes options that are available with Column Level Encryption with the base system and additional configuration options that become available with Column Level Encryption Enterprise functionality. Column Level Encryption Enterprise is available with a paid subscription. Refer to [Encryption and Key Management subscription bundle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/encryption-sku.md) for supported features and options available with each offering. See [Activate Column Level Encryption Enterprise](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/activate-platform-encryption-2.md) for more information on obtaining Column Level Encryption Enterprise.
 
 ## Procedure
 
@@ -45,7 +45,7 @@ This procedure describes options that are available with [[column-level-encrypti
 
     **Warning:**
 
-    -   **For legacy [[encryption-landing|encryption]] support [[users|users]]:**
+    -   **For legacy encryption support users:**
 
         If you're using the non-enterprise version of Column Level Encryption, you're limited to five fields. If you've exceeded this limit, you receive the following warning:
 
@@ -60,18 +60,7 @@ This procedure describes options that are available with [[column-level-encrypti
 
 ## What to do next
 
-[[create-crypto-spec-pe-2|Create a cryptographic specification for Column Level Encryption]].
+[Create a cryptographic specification for Column Level Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/create-crypto-spec-pe-2.md).
 
-**Parent Topic:**[[using-column-level-encryption-2|Using Column Level Encryption]]
+**Parent Topic:**[Using Column Level Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/using-column-level-encryption-2.md)
 
-## Related
-
-- [[activate-platform-encryption-2|Activate Column Level Encryption Enterprise]]
-- [[create-crypto-spec-pe-2|Create a cryptographic specification for Column Level Encryption]]
-- [[using-column-level-encryption-2|Using Column Level Encryption]]
-- [[field-encryption|Field Encryption]]
-- [[column-level-encryption-landing|Column Level Encryption]]
-- [[sc-configuration|Configuration]]
-- [[now-platform-encryption-2|Column Level Encryption Enterprise]]
-- [[encryption-landing|Encryption]]
-- [[users|Users]]

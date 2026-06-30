@@ -12,7 +12,7 @@ breadcrumb: [Dispatcher Workspace, CSM/FSM Configurable Workspace, Configure, Fi
 
 # Determine the tasks to appear in the task panel
 
-Define default filters to determine which tasks appear on the task panel in the [[dispatcher-activities|Dispatcher Workspace]].
+Define default filters to determine which tasks appear on the task panel in the Dispatcher Workspace.
 
 ## Before you begin
 
@@ -45,6 +45,4 @@ By default, dispatchers can filter work order tasks based on their states such a
 
     \[Omitted image "determine-tasks.png"\] Alt text: application filter configuration form and submit button
 
-## Related
 
-- [[dispatcher-activities|Dispatcher Workspace]]

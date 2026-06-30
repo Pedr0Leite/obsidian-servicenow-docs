@@ -14,7 +14,7 @@ breadcrumb: [Collaborate with Spaces, Use, Collaborative Work Management, Strate
 
 # Create a folder in CWM
 
-Organize Boards and Docs of a Space into folders in [[cwm-landing|Collaborative Work Management]] Workspace.
+Organize Boards and Docs of a Space into folders in Collaborative Work Management Workspace.
 
 ## Before you begin
 
@@ -51,6 +51,3 @@ A new folder is created in the Space that you selected.
 
 **Parent Topic:**[Collaborating with Spaces in CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/cwm-spaces.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

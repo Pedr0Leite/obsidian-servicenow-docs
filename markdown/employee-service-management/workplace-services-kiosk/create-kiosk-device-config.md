@@ -32,11 +32,11 @@ Role required: sn\_wsd\_kiosk.admin
 
 1.  Navigate to **All** &gt; **Kiosk management** &gt; **All Kiosks**.
 
-    For [[workplace-services-kiosk|Workplace Services Kiosk]] version 1.1.0 or earlier, navigate to **All** &gt; **Kiosk management** &gt; **Kiosk configurations**.
+    For Workplace Services Kiosk version 1.1.0 or earlier, navigate to **All** &gt; **Kiosk management** &gt; **Kiosk configurations**.
 
 2.  On the Kiosk configurations list, select **New**.
 
-3.  On the [[kiosk-configuration-form|Kiosk configuration form]], fill in the fields.
+3.  On the Kiosk configuration form, fill in the fields.
 
     For a description of the field values, see [Kiosk configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/kiosk-configuration-form.md).
 
@@ -115,7 +115,3 @@ You have configured a kiosk configuration and linked it to a kiosk module.
 
 **Parent Topic:**[Configuring Workplace Services Kiosk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/configure-workplace-services-kiosk.md)
 
-## Related
-
-- [[workplace-services-kiosk|Workplace Services Kiosk]]
-- [[kiosk-configuration-form|Kiosk configuration form]]

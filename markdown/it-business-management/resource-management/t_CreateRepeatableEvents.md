@@ -26,11 +26,11 @@ You can create events even if the timeslot is booked by some other event.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[c_MyCalendar|My Calendar]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **My Calendar**.
 
 2.  Double-click an empty cell on the calendar.
 
-3.  On the [[new-event-form|New event form]], fill the fields.
+3.  On the New event form, fill the fields.
 
     For a description of the field names, see [New event form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/new-event-form.md).
 
@@ -54,7 +54,3 @@ You can create events even if the timeslot is booked by some other event.
 
 [Delete events]()
 
-## Related
-
-- [[c_MyCalendar|My Calendar]]
-- [[new-event-form|New event form]]

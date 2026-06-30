@@ -14,12 +14,12 @@ breadcrumb: [Using Tag Governance, Tag Governance, ITOM Visibility, IT Operation
 
 # Performing real-time updates to tags for cloud resources
 
-You can set up cloud events processing and map a tag policy to update [[cloud-tagging|tags for cloud resources]] in real time.
+You can set up cloud events processing and map a tag policy to update tags for cloud resources in real time.
 
 ## Prerequisites
 
 -   Cloud events table \[sn\_cmp\_cloud\_events\] table does not have any records in the **processed** state.
--   CIs impacted by tag change events are identified by either CAPI or [[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] patterns.
+-   CIs impacted by tag change events are identified by either CAPI or Discovery and Service Mapping patterns.
 -   Configured at least one tag policy.
 -   Select the **Run on cloud events** check box in the tag policy you create.
 
@@ -37,7 +37,7 @@ Unlike regular tag audits, where the audit is performed on all CIs in the CMDB t
 
 If the **Run on cloud events** check box is selected during policy creation, the policy is selected to run an audit on tag change events. If the check box is cleared, the audit is not run on the CI even if there are tag change cloud events.
 
-View the change type that applies to the tag \(the change that triggered the audit\) in the Tag Change Log \[sn\_itom\_tag\_change\_log\] table. The records in the table are stored for 90 days by default. The change log records appear whether a [[ccg-remediation|remediation]] run or an event triggered the change on the CI. You can also view tags that were added or updated as part of the change.
+View the change type that applies to the tag \(the change that triggered the audit\) in the Tag Change Log \[sn\_itom\_tag\_change\_log\] table. The records in the table are stored for 90 days by default. The change log records appear whether a remediation run or an event triggered the change on the CI. You can also view tags that were added or updated as part of the change.
 
 ## Optimizing performance
 
@@ -48,9 +48,3 @@ High event inflow or a large number of tag policies can decrease performance. Yo
 -   \[sn\_itom\_tag.policy\_batch\_size\] - Batch size on which the tag audit is run.
 -   \[sn\_itom\_tag.event\_batch\_size\] - Event batch size to be processed.
 
-## Related
-
-- [[cloud-tagging|Tags for cloud resources]]
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[ccg-remediation|Remediation]]

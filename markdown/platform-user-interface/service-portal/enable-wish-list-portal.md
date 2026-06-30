@@ -28,7 +28,7 @@ Role required: admin or sp\_admin
 
 3.  On the catalog form, select the **Enable Wish List** check box and click **Update**.
 
-    The **Wish List** menu option is displayed in the [[c_ServicePortal|Service Portal]] banner.
+    The **Wish List** menu option is displayed in the Service Portal banner.
 
     **Note:** The **Use the sc\_layout driven cart macros \(default true\)** \(**glide.sc.use\_cart\_layouts**\) property must be set to true to enable the wish list.
 
@@ -50,7 +50,7 @@ Role required: admin or sp\_admin
                   "value": true}
         ```
 
-    \[Omitted image "EnableWshList.png"\] Alt text: Screenshot to enable the [[sc-wish-list|SC Wish List Cart widget]]
+    \[Omitted image "EnableWshList.png"\] Alt text: Screenshot to enable the SC Wish List Cart widget
 
 5.  Enable the Add to Wish List icon \(\[Omitted image "SPWishList.png"\] Alt text:\) in the Ordering widget of a catalog item or record producer:
 
@@ -72,7 +72,3 @@ Role required: admin or sp\_admin
 
 [Enable automatic updates to the wish list]()
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[sc-wish-list|SC Wish List Cart widget]]

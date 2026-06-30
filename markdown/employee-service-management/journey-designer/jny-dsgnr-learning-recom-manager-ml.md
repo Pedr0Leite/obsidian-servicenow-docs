@@ -14,13 +14,13 @@ breadcrumb: [Work with journeys in Employee Center, Use, Journey designer, Emplo
 
 # Display learning recommendations to the Manager creating a journey
 
-Enable manager who is creating a journey for an employee, to add relevant [[exploring-learning-exp|learning]] recommendations for the employee in the [[employee-center-landing-page|Employee Center]].
+Enable manager who is creating a journey for an employee, to add relevant learning recommendations for the employee in the Employee Center.
 
 **Note:** Make sure the manager has **Can add recommended learning** permission to add courses to the employees journey. For more information, see [Recommended learning in journey configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-ml-learning-recom.md).
 
 Learning recommendations can be added from **Add courses** option at the bottom left of the journey page. Courses are displayed under the **Recommended courses** section. The courses are from external learning partners like Udemy, Pluralsight, and Cornerstone.
 
-The courses displayed are based on solution definitions **Similar journey based recommendations** created under Similarity. The recommendations are based on the courses taken by similar employees with same Lifecycle Event type \(LE\) and [[journey-accelerator-1|Journey Accelerator]] action Plan \(JA plan type\). For more information, see [Configure a solution definition for the journey recommendations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/ml-jny-recom-sol-def.md).
+The courses displayed are based on solution definitions **Similar journey based recommendations** created under Similarity. The recommendations are based on the courses taken by similar employees with same Lifecycle Event type \(LE\) and Journey Accelerator action Plan \(JA plan type\). For more information, see [Configure a solution definition for the journey recommendations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/ml-jny-recom-sol-def.md).
 
 **Note:**
 
@@ -32,8 +32,3 @@ Managers and mentors with **Can add recommended learning** are able to add cours
 
 **Parent Topic:**[Managers, mentors, and employees work with journeys in the Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-working-with-journeys.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[employee-center-landing-page|Employee Center]]
-- [[journey-accelerator-1|Journey Accelerator]]

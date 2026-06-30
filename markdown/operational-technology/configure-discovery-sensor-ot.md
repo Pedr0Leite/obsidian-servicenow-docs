@@ -54,7 +54,7 @@ Navigate to the Download &amp; Deploy OT Discovery page.
 
 </td><td>
 
-In the ServiceNow instance, navigate to the [[sgc-ot-discovery-guided-setup|Service Graph Connector for ServiceNow OT Discovery Guided Setup]] page and select Download &amp; Deploy OT Discovery.
+In the ServiceNow instance, navigate to the Service Graph Connector for ServiceNow OT Discovery Guided Setup page and select Download &amp; Deploy OT Discovery.
 
 </td></tr><tr><td>
 
@@ -102,7 +102,7 @@ Run the installation.
 
 </td><td>
 
-Follow the installation steps in [[install-discovery-sensor-for-ot|Install the Discovery Sensor for OT]].
+Follow the installation steps in [Install the Discovery Sensor for OT](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/install-discovery-sensor-for-ot.md).
 
 </td></tr><tr><td>
 
@@ -110,7 +110,7 @@ Register the Sensor
 
 </td><td>
 
-Register the Sensor with the DMI and Console. This confirms that the Console and Sensor can communicate with each other. See [[registering-ot-sensor|Register the Discovery Sensor for OT]] for more information.
+Register the Sensor with the DMI and Console. This confirms that the Console and Sensor can communicate with each other. See [Register the Discovery Sensor for OT](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/registering-ot-sensor.md) for more information.
 
 </td></tr></tbody>
 </table>## What to do next
@@ -121,8 +121,3 @@ To complete installation and configuration of the Discovery Sensor for OT:
 2.  
 3.  
 
-## Related
-
-- [[install-discovery-sensor-for-ot|Install the Discovery Sensor for OT]]
-- [[registering-ot-sensor|Register the Discovery Sensor for OT]]
-- [[sgc-ot-discovery-guided-setup|Service Graph Connector for ServiceNow OT Discovery Guided Setup]]

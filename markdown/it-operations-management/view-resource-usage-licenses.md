@@ -18,7 +18,7 @@ Review statistics for the resources that can be managed by ITOM products. Compar
 
 Role required: sn\_itom\_license.reader
 
-See ITOM detailed licensing data over time with the ITOM Licensing Dashboard. View daily CI counts or average of the last 90 daily counts. Domain-specific information and specific CI listings for each daily count enable you to monitor and analyze resource usage. You can generate a list of currently countable CIs for each of the ITOM applications as described in [[itom-licensing-count|View CIs consuming ITOM subscription units]].
+See ITOM detailed licensing data over time with the ITOM Licensing Dashboard. View daily CI counts or average of the last 90 daily counts. Domain-specific information and specific CI listings for each daily count enable you to monitor and analyze resource usage. You can generate a list of currently countable CIs for each of the ITOM applications as described in [View CIs consuming ITOM subscription units](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-licensing-count.md).
 
 ## Procedure
 
@@ -34,9 +34,6 @@ See ITOM detailed licensing data over time with the ITOM Licensing Dashboard. Vi
 
 4.  Select the bar to view a list of the counted CIs.
 
-5.  Review the dashboard described in [[itom-licensing-dashboard|ITOM/OT SU Licensing dashboard]].
+5.  Review the dashboard described in [ITOM/OT SU Licensing dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-licensing-dashboard.md).
 
-## Related
 
-- [[itom-licensing-count|itom licensing count]]
-- [[itom-licensing-dashboard|ITOM/OT SU Licensing dashboard]]

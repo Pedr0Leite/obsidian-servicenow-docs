@@ -14,43 +14,28 @@ breadcrumb: [Space management, Facilities Service Management overview, Facilitie
 
 Creating a map begins with the addition of the campus, then the buildings, floors, and other spaces.
 
--   **[[c_SpaceRollupCalculations|Space roll up calculations]]**  
-The [[FacilitiesLandingPage|Facilities Service Management]] application can roll up occupancy, area, and usage information from lower to higher levels in the space hierarchy. Roll ups apply to spaces that are designated as 'occupiable'. The occupancy values from that space are rolled up to the level above them.
--   **[[t_AddOrEditACampus|Add or edit a campus]]**  
+-   **[Space roll up calculations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_SpaceRollupCalculations.md)**  
+The Facilities Service Management application can roll up occupancy, area, and usage information from lower to higher levels in the space hierarchy. Roll ups apply to spaces that are designated as 'occupiable'. The occupancy values from that space are rolled up to the level above them.
+-   **[Add or edit a campus](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_AddOrEditACampus.md)**  
 A campus represents the top level in the organization space, and contains buildings and map sets. Details include its location, manager, gross area, and usable area. Occupancy and utilization metrics are calculated using these details.
--   **[[t_AddOrEditABuilding|Add or edit a building]]**  
+-   **[Add or edit a building](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_AddOrEditABuilding.md)**  
 Buildings are assigned to campuses with a unique name, and contain floors or levels, a location, and utilization thresholds.
--   **[[t_AddOrEditAFloorOrLevel|Add or edit a floor or level]]**  
+-   **[Add or edit a floor or level](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_AddOrEditAFloorOrLevel.md)**  
 A floor is a level in a structure that contains spaces. It can be a floor of a building, the basement, levels in a parking lot, or outdoor areas.
--   **[[t_AddOrEditASpace|Add or edit a space]]**  
+-   **[Add or edit a space](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_AddOrEditASpace.md)**  
 Spaces are assigned to floors or levels, and can be cubicles, conference rooms, restrooms, gymnasiums, elevators, parking spaces, and so on. Spaces are assigned users and assets, and have the most data defined.
--   **[[t_AddOrEditAZone|Add or edit a zone]]**  
+-   **[Add or edit a zone](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_AddOrEditAZone.md)**  
 Zones are a logical collection of spaces that can be shared across campuses, floors, or buildings. Examples of zones are: Chiller 4 Zone, Guest Wi-Fi Zone, AC 1 Zone, Power Circuit 3 Zone, and so on.
--   **[[t_DeleteACampus|Delete a campus]]**  
+-   **[Delete a campus](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_DeleteACampus.md)**  
 Delete all buildings assigned to a campus, before deleting the campus itself.
--   **[[t_DeleteABuilding|Delete a building]]**  
+-   **[Delete a building](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_DeleteABuilding.md)**  
 Before deleting a building, delete any floors or levels defined for it.
--   **[[t_DeleteAFloorOrLevel|Delete a floor or level]]**  
+-   **[Delete a floor or level](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_DeleteAFloorOrLevel.md)**  
 Before you can delete a floor, you must first delete any spaces defined for it.
--   **[[t_DeleteASpace|Delete a space]]**  
+-   **[Delete a space](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_DeleteASpace.md)**  
 Spaces can be deleted from any floor or from another space as long as the space you want to remove does not have other spaces associated with it. For example, if you want to delete a space that contains several offices, those spaces must be deleted before the parent space can be deleted.
--   **[[t_DeleteAZone|Delete a zone]]**  
+-   **[Delete a zone](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_DeleteAZone.md)**  
 When deleting a zone, any associated assets or spaces is also deleted.
 
-**Parent Topic:**[[r_SpaceManagement|Space management]]
+**Parent Topic:**[Space management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_SpaceManagement.md)
 
-## Related
-
-- [[c_SpaceRollupCalculations|Space roll up calculations]]
-- [[t_AddOrEditACampus|Add or edit a campus]]
-- [[t_AddOrEditABuilding|Add or edit a building]]
-- [[t_AddOrEditAFloorOrLevel|Add or edit a floor or level]]
-- [[t_AddOrEditASpace|Add or edit a space]]
-- [[t_AddOrEditAZone|t_AddOrEditAZone]]
-- [[t_DeleteACampus|Delete a campus]]
-- [[t_DeleteABuilding|Delete a building]]
-- [[t_DeleteAFloorOrLevel|Delete a floor or level]]
-- [[t_DeleteASpace|Delete a space]]
-- [[t_DeleteAZone|Delete a zone]]
-- [[r_SpaceManagement|Space management]]
-- [[FacilitiesLandingPage|Facilities Service Management]]

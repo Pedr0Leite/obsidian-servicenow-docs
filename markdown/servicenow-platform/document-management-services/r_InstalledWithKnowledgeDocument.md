@@ -14,11 +14,11 @@ breadcrumb: [Knowledge Document plugin, Managed Documents, Document Services, Ma
 
 # Installed with Knowledge Document plugin
 
-These elements are installed with the [[c_KnowledgeDocument|Knowledge Document plugin]].
+These elements are installed with the Knowledge Document plugin.
 
 ## Dependencies
 
-The Knowledge Document plugin depends on the [[r_ManagedDocumentsPlugin|Managed Documents plugin]]. Activating Knowledge Document activates [[c_ManagedDocuments|Managed Documents]].
+The Knowledge Document plugin depends on the Managed Documents plugin. Activating Knowledge Document activates Managed Documents.
 
 ## Tables
 
@@ -41,8 +41,3 @@ The Knowledge Document plugin depends on the [[r_ManagedDocumentsPlugin|Managed 
 
 **Parent Topic:**[Knowledge Document plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/c_KnowledgeDocument.md)
 
-## Related
-
-- [[c_KnowledgeDocument|Knowledge Document plugin]]
-- [[r_ManagedDocumentsPlugin|Managed Documents plugin]]
-- [[c_ManagedDocuments|Managed Documents]]

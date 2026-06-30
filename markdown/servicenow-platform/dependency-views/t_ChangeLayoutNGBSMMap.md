@@ -14,7 +14,7 @@ breadcrumb: [Use, Dependency Views, Configuration Management Database \(CMDB\), 
 
 # Change the layout of Dependency Views map
 
-You can select from different layout options for your [[c_NextGenBSMMaps|Dependency Views map]].
+You can select from different layout options for your Dependency Views map.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: none
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_BusinesssServiceManagementMaps|Dependency Views]]** &gt; **View Map**.
+1.  Navigate to **All** &gt; **Dependency Views** &gt; **View Map**.
 
 2.  Select one of the following layout options from the menu across the top of the view.
 
@@ -55,7 +55,3 @@ Role required: none
 
 [View collapsed nodes in a Dependency Views map]()
 
-## Related
-
-- [[c_NextGenBSMMaps|Dependency Views map]]
-- [[c_BusinesssServiceManagementMaps|Dependency Views]]

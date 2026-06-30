@@ -26,7 +26,7 @@ When you convert a RIDAC record to another record, the values for the **Short de
 
 You can also specify to close the parent record on creation of the new record instead of manually closing the parent record.
 
-You can also view the consolidated list of all the converted RIDAC records using the **View RIDAC** related link on the [[demand-form|Demand form]] and **View RIDAC** in the application navigator of the Demand module.
+You can also view the consolidated list of all the converted RIDAC records using the **View RIDAC** related link on the Demand form and **View RIDAC** in the application navigator of the Demand module.
 
 ## Procedure
 
@@ -55,6 +55,3 @@ You can also view the consolidated list of all the converted RIDAC records using
 
 **Parent Topic:**[RIDAC \(Risk, Issue, Decision, Action, and Request Changes\) records for a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/ridac-entries-for-demand.md)
 
-## Related
-
-- [[demand-form|Demand form]]

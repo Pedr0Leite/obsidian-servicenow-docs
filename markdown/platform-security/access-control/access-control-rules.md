@@ -14,7 +14,7 @@ breadcrumb: [Access Management]
 
 # Access Control List Rules
 
-Rules for [[sc-access-control|access control]] lists \(ACLs\) restrict access to data by requiring [[users|users]] to pass a set of requirements before they can interact with it.
+Rules for access control lists \(ACLs\) restrict access to data by requiring users to pass a set of requirements before they can interact with it.
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
@@ -34,15 +34,9 @@ Rules for [[sc-access-control|access control]] lists \(ACLs\) restrict access to
 
 </td><td>
 
-[Advanced ACL [[sc-configuration|Configuration]]\[Omitted image "bus-learn.svg"\] Alt text:](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/acl-advanced-config.md)
+[Advanced ACL Configuration\[Omitted image "bus-learn.svg"\] Alt text:](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/acl-advanced-config.md)
 
  [Learn about Advanced ACL configurations and tools.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/acl-advanced-config.md)
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sc-access-control|Access control]]
-- [[users|Users]]
-- [[sc-configuration|Configuration]]

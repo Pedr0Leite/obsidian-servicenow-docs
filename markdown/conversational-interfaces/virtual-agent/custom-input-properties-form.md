@@ -15,7 +15,7 @@ breadcrumb: [Customizing Virtual Agent with custom controls, Exploring other Vir
 
 # Custom input properties sheet
 
-Use this sheet to define a custom input control in [[virtual-agent-landing-page|Virtual Agent]].
+Use this sheet to define a custom input control in Virtual Agent.
 
 ## Custom input properties sheet
 
@@ -101,7 +101,3 @@ No-code condition statement or low-code script that specifies a condition for le
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

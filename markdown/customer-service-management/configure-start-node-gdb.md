@@ -38,7 +38,7 @@ The start node is the first node in a decision tree. It contains a task input an
 
     The table that you select for the task input does not necessarily have to be a task table. For example, you can select a case, incident, or interaction table for the record context to recommend this decision tree in a workspace.
 
-    **Note:** You must select the same table as the reference table for the context record in [[configure-nba|Recommended Actions]].
+    **Note:** You must select the same table as the reference table for the context record in Recommended Actions.
 
 7.  In the Question 1 section, enter a question or instruction for customers.
 
@@ -48,13 +48,13 @@ The start node is the first node in a decision tree. It contains a task input an
 
 9.  Select the type of answer for your question.
 
-    For a description of the answer types, see [[type-of-answer|Answer types for questions]].
+    For a description of the answer types, see [Answer types for questions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/type-of-answer.md).
 
     The answer the customer provides to a question can be passed to other nodes and paths via input mapping.
 
 10. Link inputs to reuse answers from prior nodes.
 
-    For more information, see [[map-inputs-in-decision-guidance-node|Reuse answers at decision points]].
+    For more information, see [Reuse answers at decision points](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/map-inputs-in-decision-guidance-node.md).
 
 11. Add more questions or instructions.
 
@@ -63,11 +63,5 @@ The start node is the first node in a decision tree. It contains a task input an
 
 ## What to do next
 
-[[configure-path-in-gdb|Determine the next node displayed in a decision tree]]
+[Determine the next node displayed in a decision tree](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-path-in-gdb.md)
 
-## Related
-
-- [[type-of-answer|Answer types for questions]]
-- [[map-inputs-in-decision-guidance-node|Reuse answers at decision points]]
-- [[configure-path-in-gdb|Determine the next node displayed in a decision tree]]
-- [[configure-nba|Recommended Actions]]

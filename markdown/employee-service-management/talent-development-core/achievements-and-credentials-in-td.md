@@ -14,26 +14,20 @@ breadcrumb: [Administer and maintain the Talent Development Core app, Talent Dev
 
 # Achievements and Credentials in Talent Development Core
 
-View all types of user credentials acquired outside the current organization \(currently populated from Credly\) in [[achievements-lxp|Achievements]] and Credentials.
+View all types of user credentials acquired outside the current organization \(currently populated from Credly\) in Achievements and Credentials.
 
-Achievement credentials, like badges, are digital or physical symbols that recognize and verify an individual's accomplishment, skill, or participation in a specific [[activity-lxp|activity]] or goal.
+Achievement credentials, like badges, are digital or physical symbols that recognize and verify an individual's accomplishment, skill, or participation in a specific activity or goal.
 
 The credentials imported from Credly have skills data, and other metadata such as user and badge information. Skills associated with the Credly badges are analyzed as follows:
 
--   If Credly badge skills match exactly or mapped to the skills in the skills library, they are added to the [[emp-slate-employee-profile|employee profile]], in case the employee doesn't already have them.
+-   If Credly badge skills match exactly or mapped to the skills in the skills library, they are added to the employee profile, in case the employee doesn't already have them.
 -   If a skill exists in the employee profile and also receives a badge associated with the same skill, then the employee gets a Prompt \(Review Skills Profile Prompt\) to update the skill's proficiency. For more information, see [Proactive Prompts for Skills Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/proactive-prompts-skills.md).
 -   If the skill is new, it’s added to the queue pipeline for harmonization. For more information, see [Dynamic skill import for harmonization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/dynamic-skill-import.md).
 -   The harmonized new skills are added to the skills library \(cmn\_skills table\) and updated in the credential badge skills metadata after the import is complete.
 -   Employee's skill profile is updated with the new skill\(s\) linked to their earned badge.
 
 -   **[View achievement credential templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/view-ach-credential-templates.md)**  
-[[view-ach-credential-templates|View achievement credential templates]] in Achievements and Credentials.
+View achievement credential templates in Achievements and Credentials.
 
 **Parent Topic:**[Administer and maintain the Talent Development Core app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-administration.md)
 
-## Related
-
-- [[achievements-lxp|Achievements]]
-- [[activity-lxp|Activity]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[view-ach-credential-templates|View achievement credential templates]]

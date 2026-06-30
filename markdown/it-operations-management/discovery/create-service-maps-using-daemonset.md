@@ -14,11 +14,11 @@ breadcrumb: [Enabling application service maps, Configuring Kubernetes Visibilit
 
 # Enable service maps using DaemonSet
 
-Enable application service maps based on the traffic between the workloads in Kubernetes by using a ServiceNow DaemonSet as part of [[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]] \(KVA\) installation.
+Enable application service maps based on the traffic between the workloads in Kubernetes by using a ServiceNow DaemonSet as part of Kubernetes Visibility Agent \(KVA\) installation.
 
 ## Before you begin
 
-Role required: [[r-discovery|discovery]]\_admin.
+Role required: discovery\_admin.
 
 ## About this task
 
@@ -84,7 +84,3 @@ kubectl apply -f k8s_informer.yaml
 
 **Parent Topic:**[Enabling application service maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/enabling-application-service-maps.md)
 
-## Related
-
-- [[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]]
-- [[r-discovery|Discovery]]

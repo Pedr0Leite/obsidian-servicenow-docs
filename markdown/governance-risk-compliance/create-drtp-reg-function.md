@@ -26,11 +26,11 @@ A function can be a service, a service offering, or a process.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[grc-opres-landing-page|Operational Resilience]] Workspace** &gt; **Digital resilience third-party registers** &gt; **Functions**.
+1.  Navigate to **Workspaces** &gt; **Operational Resilience Workspace** &gt; **Digital resilience third-party registers** &gt; **Functions**.
 
 2.  Select **New**.
 
-    The [[tprm-create-new-function-form|Create New Function form]] is displayed. You can select and view multiple functions within an organization.
+    The Create New Function form is displayed. You can select and view multiple functions within an organization.
 
     \[Omitted image "tpr-functions.png"\] Alt text: Functions.
 
@@ -38,7 +38,7 @@ A function can be a service, a service offering, or a process.
 
 4.  Select **Save**.
 
-    The function record is displayed in the [[list-view-uib-ws|list view]].
+    The function record is displayed in the list view.
 
     The digital resilience information for the function is shown in the example.
 
@@ -56,9 +56,9 @@ A function can be a service, a service offering, or a process.
     -   Associated legal entity and function type \(business process or service\)
     -   Specific business process or service represented
     -   Function criticality
-    Additionally, if you have the [[business-continuity-mangmt-overview|Business Continuity Management]] application installed, you can see the Recovery Time Objective \(RTO\), Recovery Point Objective \(RPO\), and the business's criticality. You can also include descriptive notes on the form. Upon completion, you will have documented the details of the third-party ICT service usage.
+    Additionally, if you have the Business Continuity Management application installed, you can see the Recovery Time Objective \(RTO\), Recovery Point Objective \(RPO\), and the business's criticality. You can also include descriptive notes on the form. Upon completion, you will have documented the details of the third-party ICT service usage.
 
-    For information on setting up the digital resilience information for a legal entity, see [[create-new-function-form|Create Function form]].
+    For information on setting up the digital resilience information for a legal entity, see [Create Function form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-new-function-form.md).
 
 6.  Select **Save**.
 
@@ -72,13 +72,5 @@ A function can be a service, a service offering, or a process.
 -   **[Create Function form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-new-function-form.md)**  
 On the Create New Function form, fill in the fields.
 
-**Parent Topic:**[[using-dg-registers|Using Digital resilience third-party registers]]
+**Parent Topic:**[Using Digital resilience third-party registers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/using-dg-registers.md)
 
-## Related
-
-- [[create-new-function-form|Create Function form]]
-- [[using-dg-registers|Using Digital resilience third-party registers]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[tprm-create-new-function-form|Create New Function form]]
-- [[list-view-uib-ws|List view]]
-- [[business-continuity-mangmt-overview|Business Continuity Management]]

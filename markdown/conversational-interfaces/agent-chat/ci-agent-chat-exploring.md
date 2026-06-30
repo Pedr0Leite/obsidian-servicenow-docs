@@ -14,11 +14,11 @@ breadcrumb: [Agent Chat, Conversational Interfaces]
 
 # Exploring Agent Chat
 
-[[ci-use-agent-chat|Agent Chat]] enables live agents to interact directly with end users through chat. Your end users can chat with a live agent to ask questions and receive information.
+Agent Chat enables live agents to interact directly with end users through chat. Your end users can chat with a live agent to ask questions and receive information.
 
 ## Agent Chat overview
 
-The chat system starts with virtual chat, which is an autonomous chat powered by artificial intelligence. The requester can then ask to chat with a live agent [[ci-agent-chat-using|using Agent Chat]]. Using Agent Chat, agents can communicate with requesters, create incident or case records, or transfer chats to another agent or queue.
+The chat system starts with virtual chat, which is an autonomous chat powered by artificial intelligence. The requester can then ask to chat with a live agent using Agent Chat. Using Agent Chat, agents can communicate with requesters, create incident or case records, or transfer chats to another agent or queue.
 
 Agent Chat uses a persistent widget for chat conversations on any portal page of the portal that you're using. You can establish assignment rules to enable chat conversations to reach the best agent available who has the capacity and skills to handle the job or the agent can transfer the chat to another agent. Agents can use response templates to enable reusable, consistent messages to requesters.
 
@@ -39,19 +39,13 @@ Virtual chat conducts a survey before and after the Agent Chat. The pre-survey g
 
 ## Routing chats
 
-Requesters start chats with virtual chat. When they request to chat with a live agent on Agent Chat, their request goes into a queue controlled by [[awa-application-landing-page|Advanced Work Assignment]] \(AWA\), which routes chats to different agents based on availability, queue length, and expertise.
+Requesters start chats with virtual chat. When they request to chat with a live agent on Agent Chat, their request goes into a queue controlled by Advanced Work Assignment \(AWA\), which routes chats to different agents based on availability, queue length, and expertise.
 
 ## Unfurling links
 
-If an agent or requester enters a link during an Agent Chat conversation, the links are "unfurled" or displayed with a preview of the website's content. Links in Agent Chat conversations are unfurled in the same manner as [[virtual-agent-landing-page|Virtual Agent]]. For more information, see [Using link unfurling in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-link-unfurling.md).
+If an agent or requester enters a link during an Agent Chat conversation, the links are "unfurled" or displayed with a preview of the website's content. Links in Agent Chat conversations are unfurled in the same manner as Virtual Agent. For more information, see [Using link unfurling in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-link-unfurling.md).
 
 ## Cross-channel conversation history and cross-channel message-level sentiment
 
 Agents can see cross-channel conversation history and cross-channel message-level sentiment in real time when an agent is having a live conversation with a requester in the chat panel in Agent Chat. For more information, see .
 
-## Related
-
-- [[ci-use-agent-chat|Agent Chat]]
-- [[ci-agent-chat-using|Using Agent Chat]]
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[virtual-agent-landing-page|Virtual Agent]]

@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Management Content Service, Exploring Software Asset
 
 # Content updates for Software Asset Management
 
-The [[c_SAMContentService|Software Asset Management Content Service]] provides content updates to your instance twice every week that you can use to normalize your data.
+The Software Asset Management Content Service provides content updates to your instance twice every week that you can use to normalize your data.
 
 The following types of content can be updated as part of a content update:
 
@@ -32,7 +32,7 @@ The following types of content can be updated as part of a content update:
 -   Custom software product suggestions
 -   Common Platform Enumeration \(CPE\) normalization rule
 
-**Note:** [[c_CreatingSoftwareModels|Software models]] aren’t updated when a publisher's name is updated as part of the content updates. The software model isn't updated because its display name is removed from the core company's reference. However, if a product moves to a different publisher, then the software model gets updated during content updates when the product goes from one core company to the other core company. The publisher name is updated for new software models but not for existing software models.
+**Note:** Software models aren’t updated when a publisher's name is updated as part of the content updates. The software model isn't updated because its display name is removed from the core company's reference. However, if a product moves to a different publisher, then the software model gets updated during content updates when the product goes from one core company to the other core company. The publisher name is updated for new software models but not for existing software models.
 
 Product types can be updated on a product’s edition level using the Custom Product License Exception Rules \[samp\_cust\_prod\_lic\_excep\_rules\] table. For cases where certain editions are non-licensable, the product type gets updated automatically if the exception rule is defined in the Product License Exception Rules \[samp\_prod\_lic\_excep\_rules\] table or the Custom Product License Exception Rules \[samp\_cust\_prod\_lic\_excep\_rules\] table. However, if a product is non-licensable, an exception rule can’t be created for ​a licensable edition. For this case, you must raise a case with the Content Service team​ with supporting documentation and the team reviews ​whether the edition must be tagged as licensable.
 
@@ -54,7 +54,3 @@ For more information on how to send your content to ServiceNow, see [Enable shar
 
 **Parent Topic:**[Software Asset Management Content Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_SAMContentService.md)
 
-## Related
-
-- [[c_SAMContentService|Software Asset Management Content Service]]
-- [[c_CreatingSoftwareModels|Software models]]

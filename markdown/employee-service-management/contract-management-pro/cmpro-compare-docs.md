@@ -23,7 +23,7 @@ Role required: sn\_cm\_core.contract\_user
 
 ## About this task
 
-During contract negotiations, different parties update a contract and share contract revisions. As a contract fulfiller, use the document comparison feature in [[cncore-cmpro-landing-page|Contract Management Pro]] to easily compare two versions of a contract document.
+During contract negotiations, different parties update a contract and share contract revisions. As a contract fulfiller, use the document comparison feature in Contract Management Pro to easily compare two versions of a contract document.
 
 ## Procedure
 
@@ -39,7 +39,7 @@ Steps
 
 </th></tr></thead><tbody><tr><td>
 
-[[cncore-contract-workspace|Contract Workspace]]
+Contract Workspace
 
 </td><td>
 
@@ -98,7 +98,3 @@ Workspace used by your application
 
 **Parent Topic:**[Using Contract Management Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-use-cmpro.md)
 
-## Related
-
-- [[cncore-cmpro-landing-page|Contract Management Pro]]
-- [[cncore-contract-workspace|Contract Workspace]]

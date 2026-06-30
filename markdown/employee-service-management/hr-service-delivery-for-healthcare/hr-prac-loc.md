@@ -74,7 +74,7 @@ Group tax ID \(Employer Tax ID\) against which taxes are collected.
 
 </td></tr><tr><td>
 
-Credentialing [[reference-hr-service-delivery-advanced-integration-with-workday|reference]]
+Credentialing reference
 
 </td><td>
 
@@ -201,7 +201,7 @@ Country in which the practice location is situated.
 **Related topics**  
 
 
-[Installed with [[hr-service-delivery|HR Service Delivery]] for Healthcare]()
+[Installed with HR Service Delivery for Healthcare]()
 
 [Healthcare professional profile form]()
 
@@ -227,7 +227,3 @@ Country in which the practice location is situated.
 
 [Healthcare Employee Onboarding form]()
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[hr-service-delivery|HR Service Delivery]]

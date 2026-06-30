@@ -32,7 +32,7 @@ Role required: personalize\_list
 
 4.  Add, remove, or reorder fields to configure the columns displayed and their order of appearance.
 
-    The first non-[[reference-email-admin|reference]] field automatically links to the form view of the record. For this reason, consider using the record number as the first column in the list layout.
+    The first non-reference field automatically links to the form view of the record. For this reason, consider using the record number as the first column in the list layout.
 
 5.  Select **Save**.
 
@@ -57,7 +57,7 @@ Role required: admin
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[r_SetArchiveRuleProcessingBehavior|System Properties]]** &gt; **UI Properties**.
+1.  Navigate to **All** &gt; **System Properties** &gt; **UI Properties**.
 
 2.  Locate the property **Allow base table lists \(task, cmdb\_ci, etc.\) to include extended table fields \(incident\_state, os\_version, etc.\), and allow filtering on extended table fields** \(**glide.ui.list.allow\_extended\_fields**\).
 
@@ -65,7 +65,4 @@ Role required: admin
 
 4.  Select **Save**.
 
-## Related
 
-- [[reference-email-admin|Reference]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

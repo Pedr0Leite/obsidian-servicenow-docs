@@ -32,8 +32,5 @@ Role required: sn\_bcm.admin, sn\_bcm.manager
 **Related topics**  
 
 
-[[set-up-document-designer-templates|Set up the template configurations]]
+[Set up the template configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/set-up-document-designer-templates.md)
 
-## Related
-
-- [[set-up-document-designer-templates|Set up the template configurations]]

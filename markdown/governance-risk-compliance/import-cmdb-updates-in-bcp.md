@@ -26,7 +26,7 @@ Role required: sn\_bcm.program\_manager, sn\_bcm.planner, sn\_bcm.admin
 
     If the dependencies have been updated in the sources, the scheduled job fetches the dependencies. You can select the snapshot record to view the updates.
 
-3.  To view the snapshot record, select the **Pending updates** module in the **Planning** [[list-view-uib-ws|list view]] and select a snapshot record.
+3.  To view the snapshot record, select the **Pending updates** module in the **Planning** list view and select a snapshot record.
 
     The Plan dependency delta snapshot is displayed.
 
@@ -43,9 +43,5 @@ Role required: sn\_bcm.program\_manager, sn\_bcm.planner, sn\_bcm.admin
     The plan owners and BCM lead can update the planning dependencies by saving the changes to the plan.
 
 
-**Parent Topic:**[[import-cmdb-updates-in-plans|Scheduling auto-update of related assets]]
+**Parent Topic:**[Scheduling auto-update of related assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/import-cmdb-updates-in-plans.md)
 
-## Related
-
-- [[import-cmdb-updates-in-plans|Scheduling auto-update of related assets]]
-- [[list-view-uib-ws|List view]]

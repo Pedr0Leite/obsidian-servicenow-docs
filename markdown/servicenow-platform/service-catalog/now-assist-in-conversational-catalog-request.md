@@ -14,7 +14,7 @@ breadcrumb: [Service Catalog, Manage service capabilities, Extend ServiceNow AI 
 
 # Now Assist in Conversational Catalog Request
 
-Speed up and provide a conversational and streamlined experience based on generative AI while submitting a catalog item request in Virtual Agent. Your organization can increase [[self-service-landing|self-service]] and reduce operating costs.
+Speed up and provide a conversational and streamlined experience based on generative AI while submitting a catalog item request in Virtual Agent. Your organization can increase self-service and reduce operating costs.
 
 ## Get started
 
@@ -46,18 +46,13 @@ ServiceNow collects and uses the inputs, outputs, and edits to outputs of this a
 -   **[Configure Now Assist in Conversational Catalog Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/configure-gen-ai-catalog-item.md)**  
 Speed up and provide a conversational and streamlined experience based on generative AI while submitting a catalog item request in Virtual Agent. Your organization can increase self-service and reduce operating costs.
 -   **[Prefill in conversational catalog request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/prefill-in-conversational-catalog-request.md)**  
-The generalized prefill capability for conversational catalog request automatically populates [[catalog-item-form|catalog item form]] fields using data sourced from the requesting user's profile and from the active chat conversation history. This reduces manual data entry for requesters, improves form completion accuracy, and accelerates time-to-submission for service requests raised through the conversational interface.
+The generalized prefill capability for conversational catalog request automatically populates catalog item form fields using data sourced from the requesting user's profile and from the active chat conversation history. This reduces manual data entry for requesters, improves form completion accuracy, and accelerates time-to-submission for service requests raised through the conversational interface.
 -   **[Catalog item render types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/virtual-agent-render-type.md)**  
 A render type determines how a catalog item's form can be rendered to requesters. For example, in Virtual Agent a catalog item can be rendered as a conversation, window, or pop-up.
 -   **[Fulfillers can request catalog items for others](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/fulfillers-request-catalog-items-for-others.md)**  
 The experience for fulfillers streamlines the process of making catalog requests on behalf of others. This tailored workflow leverages parent context, such as incidents or cases, to improve efficiency, accuracy, and traceability of requests.
 -   **[Conversational catalog request reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/conversational-catalog-request-reference.md)**  
-[[reference|Reference]] topics provide additional information about configuration properties, roles, and more.
+Reference topics provide additional information about configuration properties, roles, and more.
 
 **Parent Topic:**[Service Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/service-catalog.md)
 
-## Related
-
-- [[self-service-landing|Self-service]]
-- [[catalog-item-form|Catalog Item form]]
-- [[reference|Reference]]

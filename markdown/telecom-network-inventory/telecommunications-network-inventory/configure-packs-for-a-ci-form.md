@@ -14,7 +14,7 @@ breadcrumb: [Attribute pack table, Configure, Telecommunications Network Invento
 
 # Configure an attribute pack table against a configuration item
 
-Configure an attribute pack table against a configuration item \(CI\) with filter conditions in the [[telecom-network-inventory|Telecommunications Network Inventory]] application. As you configure the pack table, you can use the packs for creating a CI record.
+Configure an attribute pack table against a configuration item \(CI\) with filter conditions in the Telecommunications Network Inventory application. As you configure the pack table, you can use the packs for creating a CI record.
 
 ## Before you begin
 
@@ -109,7 +109,7 @@ The pack table is mapped against the CI and is displayed in the Pack Config list
 
 ## What to do next
 
-Use the [[pack_tables|pack tables]] in the CI record. To learn more, see [Use an attribute pack in the CI record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/use-telecommunication-network-inventry-pack.md).
+Use the pack tables in the CI record. To learn more, see [Use an attribute pack in the CI record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/use-telecommunication-network-inventry-pack.md).
 
 **Parent Topic:**[Configuring an attribute pack table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/configuring-pack-table.md)
 
@@ -118,7 +118,3 @@ Use the [[pack_tables|pack tables]] in the CI record. To learn more, see [Use an
 
 [Create table]()
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[pack_tables|Pack tables]]

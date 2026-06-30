@@ -26,7 +26,7 @@ Growth plans are based on your individual needs and aspirations and help you mak
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
 
 2.  At the **Your Career** drop-down list, select **Growth plans**.
 
@@ -46,7 +46,7 @@ Growth plans are based on your individual needs and aspirations and help you mak
 
 8.  Select the **Next** button.
 
-    **Tip:** If [[exploring-learning-exp|learning]] and activities are installed, the Growth plans app might show some possible learning that you’re interested in. You can search learning to add things to your growth plan.
+    **Tip:** If learning and activities are installed, the Growth plans app might show some possible learning that you’re interested in. You can search learning to add things to your growth plan.
 
 9.  Select **Create plan**
 
@@ -63,7 +63,3 @@ The draft growth plan is created and shared with your manager once the plan is l
 
 **Parent Topic:**[Using the Talent Development Core application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-use.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[exploring-learning-exp|Learning]]

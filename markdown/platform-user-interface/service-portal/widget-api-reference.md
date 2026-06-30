@@ -14,13 +14,13 @@ breadcrumb: [Developing custom widgets, Service Portal, Configure UIs and portal
 
 # Widget API reference
 
-[[c_ServicePortal|Service Portal]] includes client and server side APIs to use in widget client and server scripts.
+Service Portal includes client and server side APIs to use in widget client and server scripts.
 
 ## Service Portal client-side APIs
 
 These are Service Portal APIs that you can use in a widget client controller.
 
-See the API [[onboarding-modals-reference|reference]] for detailed class and method information.
+See the API reference for detailed class and method information.
 
 <table id="table_skq_rjp_h1b"><thead><tr><th>
 
@@ -91,7 +91,7 @@ GlideSPSearchAnalytics
 
 </td><td>
 
-The GlideSPSearchAnalytics API provides methods to generate search analytics from custom ServiceNow [[search-widgets|search widgets]].
+The GlideSPSearchAnalytics API provides methods to generate search analytics from custom ServiceNow search widgets.
 
 </td></tr><tr><td>
 
@@ -99,7 +99,7 @@ The GlideSPSearchAnalytics API provides methods to generate search analytics fro
 
 </td><td>
 
-Defines facet items, [[c_Filters|filters]], or mapped queries for a facets object.
+Defines facet items, filters, or mapped queries for a facets object.
 
 </td></tr><tr><td>
 
@@ -150,9 +150,3 @@ Global variable and functions available in widget client and server scripts.
 
 A `promise` represents the eventual result of an asynchronous operation. For more information on promises, see [https://promisesaplus.com/](https://promisesaplus.com/) or [AngularJS documentation](https://docs.angularjs.org/api/ng/service/$q).
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[onboarding-modals-reference|Reference]]
-- [[search-widgets|Search widgets]]
-- [[c_Filters|Filters]]

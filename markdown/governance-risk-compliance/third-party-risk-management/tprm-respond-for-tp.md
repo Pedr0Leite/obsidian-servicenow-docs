@@ -24,7 +24,7 @@ Role required: sn\_vdr\_risk\_asmt.vendor\_assessor, sn\_vdr\_risk\_asmt.vendor\
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **Third-party risk management** &gt; **External [[risk-assessments|risk assessments]]** &gt; **All open**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Third-party risk management** &gt; **External risk assessments** &gt; **All open**.
 
 2.  Select the External assessment \(VRA\) number of an assessment that is in the **Draft** or **Submitted to third party** state.
 
@@ -34,6 +34,4 @@ Role required: sn\_vdr\_risk\_asmt.vendor\_assessor, sn\_vdr\_risk\_asmt.vendor\
 
 4.  Select **Submit**.
 
-## Related
 
-- [[risk-assessments|risk assessments]]

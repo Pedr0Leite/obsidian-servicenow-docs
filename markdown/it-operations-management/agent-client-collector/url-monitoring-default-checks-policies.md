@@ -14,12 +14,9 @@ breadcrumb: [Agent Client Collector Monitoring default checks and policies, ACC-
 
 # URL Monitoring default checks and policies
 
-[[acc-landing-page|Agent Client Collector]] provides policies for URL Monitoring. Polices come with embedded checks.
+Agent Client Collector provides policies for URL Monitoring. Polices come with embedded checks.
 
 URL Monitoring uses the HTTP Entry Point default policies. For details, see [HTTP default checks and policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/http-default-checks-policies.md).
 
 **Parent Topic:**[Agent Client Collector Monitoring default checks and policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-policies-checks.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

@@ -18,11 +18,7 @@ Users with the wm\_dispatcher, wm\_admin, or wm\_initiator\_qualifier\_dispatche
 
 The dispatch map shows the geographical area containing the agents from any assignment group that is part of your dispatch group.
 
-For a list of map pins and a description of their meaning, see [[r_DispatcherView|Map iconography in Dispatcher Workspace]].
+For a list of map pins and a description of their meaning, see [Map iconography in Dispatcher Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/r_DispatcherView.md).
 
-For information about changing the appearance of a map pin, see [[customize-map-pins|Change the assigned graphics of map pins on the map in Dispatcher Workspace]].
+For information about changing the appearance of a map pin, see [Change the assigned graphics of map pins on the map in Dispatcher Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/customize-map-pins.md).
 
-## Related
-
-- [[r_DispatcherView|Map iconography in Dispatcher Workspace]]
-- [[customize-map-pins|Change the assigned graphics of map pins on the map in Dispatcher Workspace]]

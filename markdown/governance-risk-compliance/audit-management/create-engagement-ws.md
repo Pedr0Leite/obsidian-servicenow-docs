@@ -14,7 +14,7 @@ breadcrumb: [Audit Supervisor Workspace, Audit Workspace Overview, Audit Managem
 
 # Create an audit engagement in Audit Workspace
 
-[[t_CreateEngagement|Create an engagement]] in the workspace and assign it to an audit supervisor. Use the workspace to schedule the engagement, plan the details, and budget the expenses.
+Create an engagement in the workspace and assign it to an audit supervisor. Use the workspace to schedule the engagement, plan the details, and budget the expenses.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ As an audit supervisor you can create an engagement to manage the audit informat
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Audit** &gt; **[[audit-management-overview-ws|Audit Workspace]]**.
+1.  Navigate to **All** &gt; **Audit** &gt; **Audit Workspace**.
 
 2.  Select the **Create** list and select **Engagement** from the **Home** page.
 
@@ -381,7 +381,7 @@ Option to enable confidentiality of the record. Only the assigned confidential u
 
     3.  Select **Add**.
 
-        The selected issues are added to the engagement as related issues and an m2m relationship is created between the engagement and the issues in the Issue to Engagement \[sn\_grc\_m2m\_issue\_engagement\] table. You can also create an issue for the engagement by selecting the **New** button, which takes you to the [[create-new-issue-opres-ws|Create New Issue form]].
+        The selected issues are added to the engagement as related issues and an m2m relationship is created between the engagement and the issues in the Issue to Engagement \[sn\_grc\_m2m\_issue\_engagement\] table. You can also create an issue for the engagement by selecting the **New** button, which takes you to the Create New Issue form.
 
     4.  To remove an issue that is mapped to the engagement, select the issue and click **Remove**.
 
@@ -389,8 +389,4 @@ Option to enable confidentiality of the record. Only the assigned confidential u
 
         **Note:** The UI action buttons such as New, Add, Remove aren't available if the engagement is in the Retired state.
 
-## Related
 
-- [[t_CreateEngagement|Create an engagement]]
-- [[audit-management-overview-ws|Audit Workspace]]
-- [[create-new-issue-opres-ws|Create New Issue form]]

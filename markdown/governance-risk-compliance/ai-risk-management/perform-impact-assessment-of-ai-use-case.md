@@ -91,7 +91,7 @@ Brief summary about the feedback to be discussed in the sidebar discussion.
 
 8.  Answer all relevant questions in the questionnaire.
 
-    Your responses are automatically saved, and based on them, relevant risk statements and control objectives are associated with the assessment. After the [[ai-risk-and-compliance|AI Risk and Compliance]] analyst marks the assessment state as Closed complete, risks and controls are generated from these risk statements and control objectives respectively and are mapped to the AI asset.
+    Your responses are automatically saved, and based on them, relevant risk statements and control objectives are associated with the assessment. After the AI Risk and Compliance analyst marks the assessment state as Closed complete, risks and controls are generated from these risk statements and control objectives respectively and are mapped to the AI asset.
 
     **Note:** The system automatically maps risks and controls only when you use the default assessment questionnaire.
 
@@ -106,6 +106,3 @@ Proceed to [Initiate risk assessment on AI asset](https://raw.githubusercontent.
 
 **Parent Topic:**[Using AI Risk and Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/using-ai-risk-and-compliance.md)
 
-## Related
-
-- [[ai-risk-and-compliance|AI Risk and Compliance]]

@@ -120,7 +120,7 @@ Role required: sn\_audit.manager and sn\_grc\_doc\_design.reader
 
         The chart is inserted in to the template. The inserted chart can be modified according to your preferences. For example, you can change the colors, the type of chart and so on.
 
-7.  To update reporting content, select **[[manage-content|Manage content]]**.
+7.  To update reporting content, select **Manage content**.
 
     1.  Select the field that you would like to get the updated data for and select **View and refresh links**.
 
@@ -148,6 +148,3 @@ Role required: sn\_audit.manager and sn\_grc\_doc\_design.reader
 
 [Add related fields to a Microsoft 365 configuration record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/add-related-fields-0365.md)
 
-## Related
-
-- [[manage-content|Manage content]]

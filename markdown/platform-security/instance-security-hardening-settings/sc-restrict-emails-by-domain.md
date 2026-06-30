@@ -14,9 +14,9 @@ breadcrumb: [Authentication, Hardening settings, Platform Security]
 
 # Disable creating users from incoming emails
 
-Use the **glide.user.trusted\_domain** property to specify the comma-separated list of trusted domains used in the creation of [[users|users]] from incoming emails.
+Use the **glide.user.trusted\_domain** property to specify the comma-separated list of trusted domains used in the creation of users from incoming emails.
 
-An administrator can set the **glide.pop3readerjob.create\_caller** system property to automatically create users from incoming emails. If set this property to the insecure value, the instance automatically creates users from incoming [[email|email]]. Each user created will have the same hardcoded default password which makes bypassing [[c_Authentication|authentication]] through brute force easier.
+An administrator can set the **glide.pop3readerjob.create\_caller** system property to automatically create users from incoming emails. If set this property to the insecure value, the instance automatically creates users from incoming email. Each user created will have the same hardcoded default password which makes bypassing authentication through brute force easier.
 
 Ensure that the **glide.pop3readerjob.create\_caller** system property is set to **false**.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -117,10 +117,3 @@ None
 
 **Parent Topic:**[Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-authentication.md)
 
-## Related
-
-- [[users|Users]]
-- [[email|Email]]
-- [[c_Authentication|Authentication]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

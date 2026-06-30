@@ -12,11 +12,11 @@ breadcrumb: [Configure the Impact Delivery Instance, Impact Delivery Instance re
 
 # Manage Impact Delivery Instance users
 
-[[impact-landing-page|Impact]] admins can create, view, and manage their users with Impact User Management.
+Impact admins can create, view, and manage their users with Impact User Management.
 
 ## Before you begin
 
-**Note:** See [[impact-roles|Roles installed with Impact]] for information about Impact role permissions.
+**Note:** See [Roles installed with Impact](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/impact-roles.md) for information about Impact role permissions.
 
 Role required: Impact admin
 
@@ -38,21 +38,14 @@ Role required: Impact admin
     The new user is created.
 
 
--   **[[edit-impact-user|Edit a role for an Impact user in the Impact Delivery Instance]]**  
+-   **[Edit a role for an Impact user in the Impact Delivery Instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/edit-impact-user.md)**  
 Update a role for an Impact user role after the initial assignment in the Impact Delivery Instance.
--   **[[remove-impact-user-permissions|Remove Impact user permissions in the Impact Delivery Instance]]**  
+-   **[Remove Impact user permissions in the Impact Delivery Instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/remove-impact-user-permissions.md)**  
 Remove permissions that you've assigned to an Impact user if that user should no longer have access to the Impact Delivery Instance.
 
-**Parent Topic:**[[configuring-impact-idi|Configure the Impact Delivery Instance]]
+**Parent Topic:**[Configure the Impact Delivery Instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configuring-impact-idi.md)
 
 **Previous topic:**[Configure the Impact Delivery Instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configuring-impact-idi.md)
 
 **Next topic:**[Edit a role for an Impact user in the Impact Delivery Instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/edit-impact-user.md)
 
-## Related
-
-- [[impact-roles|Roles installed with Impact]]
-- [[edit-impact-user|Edit a role for an Impact user in the Impact Delivery Instance]]
-- [[remove-impact-user-permissions|Remove Impact user permissions in the Impact Delivery Instance]]
-- [[configuring-impact-idi|Configure the Impact Delivery Instance]]
-- [[impact-landing-page|Impact]]

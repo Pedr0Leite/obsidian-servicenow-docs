@@ -20,15 +20,15 @@ Understand service instances \(application services\), learn about different app
 
 ## What service instances \(application services\) are
 
-A service instance is a set of interconnected applications and hosts that are configured to offer a service to the organization. Service instances can be internal, like an organization [[email|email]] system or customer-facing, like an organization website. For example, creating financial reports through a web-based application requires a computer, web server, application server, databases, middleware, and network infrastructure. These applications and hosts are all configured to offer the service of financial reporting. In development environments, an application service represents an instance of a business application or system.
+A service instance is a set of interconnected applications and hosts that are configured to offer a service to the organization. Service instances can be internal, like an organization email system or customer-facing, like an organization website. For example, creating financial reports through a web-based application requires a computer, web server, application server, databases, middleware, and network infrastructure. These applications and hosts are all configured to offer the service of financial reporting. In development environments, an application service represents an instance of a business application or system.
 
-ServiceNow applications refer to devices and applications that comprise an application service as configuration items \(CIs\). The various CIs and the relationships between them, that comprise an application service, are stored in the [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]].
+ServiceNow applications refer to devices and applications that comprise an application service as configuration items \(CIs\). The various CIs and the relationships between them, that comprise an application service, are stored in the Configuration Management Database \(CMDB\).
 
-Each application service contains an entry point as the top-level CI. An entry point is a point where clients access a service instance. Typically, it is a URL, or a combination of the [[ip-address|IP address]] and port for application services in enterprise deployments. For cloud-based deployments, an entry point can be a URL to a cloud resource like an AWS gateway.
+Each application service contains an entry point as the top-level CI. An entry point is a point where clients access a service instance. Typically, it is a URL, or a combination of the IP address and port for application services in enterprise deployments. For cloud-based deployments, an entry point can be a URL to a cloud resource like an AWS gateway.
 
 \[Omitted image "top-down-diagram.png"\] Alt text: Application service diagram.
 
-The [[csdm-landing-page|Common Service Data Model]] \(CSDM\) helps you streamline service types and service offerings. You can add relationships between application services and other service-related objects in the CSDM: Business Application, Technical Service Offerings, or Business Service Offerings.
+The Common Service Data Model \(CSDM\) helps you streamline service types and service offerings. You can add relationships between application services and other service-related objects in the CSDM: Business Application, Technical Service Offerings, or Business Service Offerings.
 
 There are the following types of application services:
 
@@ -52,7 +52,7 @@ There are the following types of application services:
 
 -   **Tag-based**
 
-    A tag is a [[label|label]] that consists of a key-value pair. Your organization may use tags to categorize its assets, to enhance query and reporting capabilities. Discovery and Cloud Provisioning and Governance can discover tags used by all major cloud providers and container ecosystems. Once the tags are discovered, Service Mapping can create service instances based on these tags. For example, you can use tags to map all application services your organization uses in the production environment in the EMEA region.
+    A tag is a label that consists of a key-value pair. Your organization may use tags to categorize its assets, to enhance query and reporting capabilities. Discovery and Cloud Provisioning and Governance can discover tags used by all major cloud providers and container ecosystems. Once the tags are discovered, Service Mapping can create service instances based on these tags. For example, you can use tags to map all application services your organization uses in the production environment in the EMEA region.
 
     Tag-based application services have the service classification of application service. They are stored in the Tag-based Application Service \[cmdb\_ci\_service\_by\_tags\] table.
 
@@ -68,7 +68,7 @@ There are the following types of application services:
 
     A dynamic application service includes only CIs that are part of CI relationships stored in the CMDB CI Relationship \[cmdb\_rel\_ci\] table.
 
-    You can't edit a dynamic application service by directly adding or removing CIs from it. Dynamic application services are updated automatically to reflect any change to [[c_CIRelationships|CI relationships in the CMDB]] CI Relationship \[cmdb\_rel\_ci\] table. When you add a relationship to a CI that is contained in a dynamic application service, then that service automatically updates to reflect the addition of the relationship and the associated new CI. In a similar manner, a dynamic application service automatically updates upon the removal of a relationship and its associated CI from a CI within the service.
+    You can't edit a dynamic application service by directly adding or removing CIs from it. Dynamic application services are updated automatically to reflect any change to CI relationships in the CMDB CI Relationship \[cmdb\_rel\_ci\] table. When you add a relationship to a CI that is contained in a dynamic application service, then that service automatically updates to reflect the addition of the relationship and the associated new CI. In a similar manner, a dynamic application service automatically updates upon the removal of a relationship and its associated CI from a CI within the service.
 
     One way to create dynamic application services, is by converting legacy business services or legacy manual services \(created with Event Management, for example\) into application services of the dynamic type.
 
@@ -152,11 +152,11 @@ Analyze discovered resources in the CMDB before ingesting from 3rd party to avoi
 
 </td></tr><tr><td>
 
-[Populate an application service using the Dynamic CI Group method](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/populate-app-service-dynamic-group.md) Based on [[cmdb-groups|CMDB groups]], whose members populate the application service.
+[Populate an application service using the Dynamic CI Group method](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/populate-app-service-dynamic-group.md) Based on CMDB groups, whose members populate the application service.
 
 </td><td>
 
-Use this method as a simple and fast way to create dynamic CI groups for deployments including Microsoft Active Directory, Microsoft Exchange or other DNS-related services. Dynamic CI Groups are especially useful if only a list of resource is available, without configuration details or credentials.Using a CMDB group lets you use [[c_CMDBHealth|CMDB Health]] to monitor health, and use a [[cmdb-query-builder-landing-page|CMDB Query Builder]] saved query to filter for the CIs included in the application service.
+Use this method as a simple and fast way to create dynamic CI groups for deployments including Microsoft Active Directory, Microsoft Exchange or other DNS-related services. Dynamic CI Groups are especially useful if only a list of resource is available, without configuration details or credentials.Using a CMDB group lets you use CMDB Health to monitor health, and use a CMDB Query Builder saved query to filter for the CIs included in the application service.
 
 </td><td>
 
@@ -230,22 +230,10 @@ Organize all the collected information in a specific order in a CSV file, precis
 
 ## Domain separation
 
-[[domain-separation-relationship-formatter-editor|Domain separation]], if deployed, impacts an service instance as follows:
+Domain separation, if deployed, impacts an service instance as follows:
 
 -   When creating an service instance, the service instance is assigned to the user's domain.
 -   When manually adding a CI to an service instance, you can choose only CIs that belong to the service domain.
 -   When using the [createOrUpdateService - POST](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/application-service-api.md) REST API for creating or updating an application service, the process stops if one of the CIs referenced in the API belongs to a different domain than the application service itself.
 -   When converting business services into application services, the newly created application service belongs to the same domain as the original business service. The application service comprises only CIs belonging to the same domain as the application service itself.
 
-## Related
-
-- [[email|Email]]
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[ip-address|IP Address]]
-- [[csdm-landing-page|Common Service Data Model]]
-- [[label|Label]]
-- [[c_CIRelationships|CI relationships in the CMDB]]
-- [[cmdb-groups|CMDB groups]]
-- [[c_CMDBHealth|CMDB Health]]
-- [[cmdb-query-builder-landing-page|CMDB Query Builder]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]

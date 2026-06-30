@@ -22,7 +22,7 @@ Define building time zones, change the capacity of an arrival schedule, and set 
 -   Ensure that you have the data for the arrival schedules of your workplace locations.
 -   Ensure that your time zone is set to the time zone of the building that is used for the arrival.
 
-    **Important:** Starting with [[workplace-safety-mgmt-hr|Workplace Core]] version 2.3, time zones are introduced in the application. All the arrival schedules that were created on Workplace Core version 2.2 and earlier are deactivated after the upgrade. Both existing customers and new customers must perform the following actions on existing arrival schedules to set them to active:
+    **Important:** Starting with Workplace Core version 2.3, time zones are introduced in the application. All the arrival schedules that were created on Workplace Core version 2.2 and earlier are deactivated after the upgrade. Both existing customers and new customers must perform the following actions on existing arrival schedules to set them to active:
 
     1.  Set the time zone of the building where you are creating or updating the arrival schedule.
 
@@ -70,6 +70,3 @@ The arrival schedule is updated.
 
 **Parent Topic:**[Setting and tracking arrivals at the workplace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/scheduling-employees-arrival-to-the-workplace.md)
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]

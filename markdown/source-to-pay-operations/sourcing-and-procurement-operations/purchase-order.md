@@ -14,7 +14,7 @@ breadcrumb: [Sourcing and Purchasing Automation, Explore, Sourcing and Procureme
 
 # Purchase order
 
-A [[purchase-order-table|purchase order]] is a binding contract between a buyer and a [[supplier|supplier]] that authorizes a purchasing transaction. It contains the descriptions, quantities, prices, applicable discounts, [[payment-terms|payment terms]], delivery dates, and other associated terms and conditions with the supplier.
+A purchase order is a binding contract between a buyer and a supplier that authorizes a purchasing transaction. It contains the descriptions, quantities, prices, applicable discounts, payment terms, delivery dates, and other associated terms and conditions with the supplier.
 
 In a purchase order, the key fields are the following:
 
@@ -76,7 +76,7 @@ Status of the purchase order.
 
 </td></tr><tr><td>
 
-[[purchase-requisition|Purchase requisition]]
+Purchase requisition
 
 </td><td>
 
@@ -132,7 +132,7 @@ Total amount
 
 </td><td>
 
-The total cost of purchase requisition calculated as the sum from all related [[purchase-lines|purchase lines]].
+The total cost of purchase requisition calculated as the sum from all related purchase lines.
 
 </td></tr><tr><td>
 
@@ -148,7 +148,7 @@ Shipping method
 
 </td><td>
 
-Details of the carrier, the applicable suppliers, and the valid delivery location countries for those suppliers.For more information on shipping methods and [[handling-fees|handling fees]], see [Handling fees](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/handling-fees.md).
+Details of the carrier, the applicable suppliers, and the valid delivery location countries for those suppliers.For more information on shipping methods and handling fees, see [Handling fees](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/handling-fees.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -156,7 +156,7 @@ Accounting Details
 
 </td></tr><tr><td>
 
-[[cost-center|Cost center]]
+Cost center
 
 </td><td>
 
@@ -164,7 +164,7 @@ The cost center incurring the expense of this order.This field is carried over f
 
 </td></tr><tr><td>
 
-[[legal-entity|Legal entity]]
+Legal entity
 
 </td><td>
 
@@ -192,7 +192,7 @@ Received amount
 
 </td><td>
 
-Indicates if the order is partially or fully delivered. This value is the sum of the receipt values in the child [[purchase-order-lines|purchase order lines]].This field is visible for standard order type.
+Indicates if the order is partially or fully delivered. This value is the sum of the receipt values in the child purchase order lines.This field is visible for standard order type.
 
 </td></tr><tr><td>
 
@@ -227,7 +227,7 @@ Remaining balance
 Amount due to the supplier for the order.This field is visible for standard order type.
 
 </td></tr></tbody>
-</table>During [[purchase-order-integration-2|purchase order integration]], any attachments with valid sys-ids are copied from the Inbound Purchase Order staging table record to this Purchase Order primary table record. This is done through a transform script, which is part of the Order stage transform map, triggered onAfter. Go to the purchase order record on the Purchase Order table based on the ERP number and purchase order number, and verify that your attachments are present on the target record. You can delete or rename attachments as needed, without creating duplicates.
+</table>During purchase order integration, any attachments with valid sys-ids are copied from the Inbound Purchase Order staging table record to this Purchase Order primary table record. This is done through a transform script, which is part of the Order stage transform map, triggered onAfter. Go to the purchase order record on the Purchase Order table based on the ERP number and purchase order number, and verify that your attachments are present on the target record. You can delete or rename attachments as needed, without creating duplicates.
 
 The receipt fields \(**Received amount** and **Received percent**\) on the Accounting Details section of a purchase order are summations of the receipt fields on the child purchase order lines, which are populated based on the following conditions:
 
@@ -236,9 +236,9 @@ The receipt fields \(**Received amount** and **Received percent**\) on the Accou
     -   When goods haven’t been received: The received amount is populated with the line amount invoiced \(editable field\) when the status of the invoice line associated with the purchase order line is Invoice Confirmed. The received quantity and received percent are calculated based on the received amount.
 -   For purchase order line of services:
 
-    **Note:** Business rules pertaining to handling state changes, handling tax and charges, default invoice fields, populating invoice line amounts, handling line total changes, and populating supplier products are available only if you haven't installed the [[shopping-hub-overview|Shopping Hub]] plugin and are still using the Source-to-Pay Common Architecture plugin.​
+    **Note:** Business rules pertaining to handling state changes, handling tax and charges, default invoice fields, populating invoice line amounts, handling line total changes, and populating supplier products are available only if you haven't installed the Shopping Hub plugin and are still using the Source-to-Pay Common Architecture plugin.​
 
-    -   When the acknowledgment type is [[milestones|milestones]]:
+    -   When the acknowledgment type is milestones:
         -   If the milestone payout is amount, the received amount is populated accordingly. The received quantity and received percent are calculated based on the received amount.
         -   If the milestone payout is a percentage, the received percent is populated accordingly. The received quantity and received amount are calculated based on the received percent.
     -   When the acknowledgment type is service acknowledgment: The received amount is populated based on the approved invoice line amount. The received quantity and received percent are calculated based on the received amount.
@@ -274,7 +274,7 @@ Displays all the approval plans created against this purchase order.
 
 </td></tr><tr><td>
 
-[[receipts|Receipts]]
+Receipts
 
 </td><td>
 
@@ -290,7 +290,7 @@ Provides details of the milestones for this purchase order. For details, see [Mi
 
 </td></tr><tr><td>
 
-[[invoices|Invoices]]
+Invoices
 
 </td><td>
 
@@ -298,7 +298,7 @@ Provides details of the invoices generated for this purchase order. For details,
 
 </td></tr><tr><td>
 
-Related [[contracts|Contracts]]
+Related Contracts
 
 </td><td>
 
@@ -341,20 +341,3 @@ List of purchase orders before the current revision. This related list is visibl
 
 **Parent Topic:**[Sourcing and Purchasing Automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-experience-workflow.md)
 
-## Related
-
-- [[purchase-order-table|Purchase order]]
-- [[supplier|Supplier]]
-- [[payment-terms|Payment terms]]
-- [[purchase-requisition|Purchase requisition]]
-- [[purchase-lines|Purchase lines]]
-- [[handling-fees|Handling fees]]
-- [[cost-center|Cost center]]
-- [[legal-entity|Legal entity]]
-- [[purchase-order-lines|Purchase order lines]]
-- [[purchase-order-integration-2|Purchase order integration]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[milestones|Milestones]]
-- [[receipts|Receipts]]
-- [[invoices|Invoices]]
-- [[contracts|Contracts]]

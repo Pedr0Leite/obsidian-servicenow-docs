@@ -25,14 +25,14 @@ Role required: insights\_admin \[sn\_clin\_core.insights\_admin\] or insights\_o
 ## About this task
 
 -   Excluding a resource from a report means that the resource doesn't get displayed in the report. This setting doesn’t affect analysis of data for the resource.
--   At any time, you can [[exclusion-list-remove-cloudin|remove a resource from the Excluded Resources list]].
+-   At any time, you can remove a resource from the Excluded Resources list.
 -   An insights\_owner can exclude resources and remove a resource from the Excluded Resources list only in owned service accounts.
--   Production resources are examples of resources that you might exclude. Because production resources must always be active, you might, for example, want to exclude production resources from [[bh-cloudin|Business Hours]] reports.
+-   Production resources are examples of resources that you might exclude. Because production resources must always be active, you might, for example, want to exclude production resources from Business Hours reports.
 -   You can exclude a resource either from a single report type or from all reports. You can select a resource and select **Exclude** for excluding the resource from the current report. The resource you exclude gets added to the **Excluded Resources** list for the report.
 
 ## Procedure
 
-1.  Navigate to **[[ci-workspace|Cloud Cost Management Workspace]]** &gt; **Operations** &gt; **Administration** &gt; **Global exclusions**.
+1.  Navigate to **Cloud Cost Management Workspace** &gt; **Operations** &gt; **Administration** &gt; **Global exclusions**.
 
 2.  Select **New**.
 
@@ -55,8 +55,3 @@ You can remove a resource from the Excluded Resources list.
 
 **Parent Topic:**[Using Cloud Cost Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/using-cloud-insights.md)
 
-## Related
-
-- [[exclusion-list-remove-cloudin|Remove a resource from the Excluded Resources list]]
-- [[bh-cloudin|Business hours]]
-- [[ci-workspace|Cloud Cost Management Workspace]]

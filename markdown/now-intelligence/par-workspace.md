@@ -12,9 +12,9 @@ breadcrumb: [Platform Analytics]
 
 # Platform Analytics experience
 
-Distribute and consume [[c_performanceAnalyticsAndReporting|Platform Analytics]] through data visualizations and dashboards with optional filters. Explore KPIs and receive insights into significant events in the data.
+Distribute and consume Platform Analytics through data visualizations and dashboards with optional filters. Explore KPIs and receive insights into significant events in the data.
 
-The Platform Analytics experience is a unified interface for visualizing data from [[multiple-data-sources|multiple data sources]]. Access it in Unified Navigation at **All** &gt; **Platform Analytics**.
+The Platform Analytics experience is a unified interface for visualizing data from multiple data sources. Access it in Unified Navigation at **All** &gt; **Platform Analytics**.
 
 **Platform Analytics** experience is enabled by default on upgrade to Australia. Core UI dashboards and reports are still visible from the Core UI tools. Users with the report\_admin role can create and edit Core UI reports. Users with the dashboard\_admin role can create and edit Core UI dashboards.
 
@@ -31,7 +31,7 @@ The Platform Analytics experience has two main sections:
     The library is a set of pages listing all the Platform Analytics visual components that you can access, along with utilities that apply to these components. You can also create your own dashboards, data visualizations, and filters. With the appropriate roles, you can add the components you create to the shared library.
 
 
-**Note:** You can add an Analytics Overview with tabs for library content to your own configurable workspace. For more information, see [[adding-analytics-center-to-ws|Creating Platform Analytics pages in your own workspace]].
+**Note:** You can add an Analytics Overview with tabs for library content to your own configurable workspace. For more information, see [Creating Platform Analytics pages in your own workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/adding-analytics-center-to-ws.md).
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
@@ -59,9 +59,3 @@ The Platform Analytics experience has two main sections:
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[adding-analytics-center-to-ws|Creating Platform Analytics pages in your own workspace]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[multiple-data-sources|multiple data sources]]

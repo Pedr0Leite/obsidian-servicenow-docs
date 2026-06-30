@@ -15,11 +15,11 @@ breadcrumb: [Discovery monitoring and issue resolution, Using Discovery, Discove
 
 # Discover missing compute resources
 
-Use the [[discovery-admin-workspace|Discovery Admin Workspace]] to identify compute resources that weren't discovered recently. [[quick-disco|Run a quick discovery]] to update the resource's data. If a resource isn't discoverable, ignore the resource and exclude it from the report. This procedure helps you maximize the use of your resources.
+Use the Discovery Admin Workspace to identify compute resources that weren't discovered recently. Run a quick discovery to update the resource's data. If a resource isn't discoverable, ignore the resource and exclude it from the report. This procedure helps you maximize the use of your resources.
 
 ## Before you begin
 
-Role required: [[r-discovery|discovery]]\_admin or admin
+Role required: discovery\_admin or admin
 
 ## About this task
 
@@ -70,11 +70,5 @@ By default, the report provides the following information:
 
 ## Result
 
-If the quick discovery was successful, the instance redirects to the **[[c_DiscoveryStatus|Discovery status]]** dashboard. When the resource is discovered, it's removed from the **Missing compute resources** report and is listed in the Server \[cmdb\_ci\_server\] table.
+If the quick discovery was successful, the instance redirects to the **Discovery status** dashboard. When the resource is discovered, it's removed from the **Missing compute resources** report and is listed in the Server \[cmdb\_ci\_server\] table.
 
-## Related
-
-- [[discovery-admin-workspace|Discovery Admin Workspace]]
-- [[quick-disco|Run a Quick Discovery]]
-- [[r-discovery|Discovery]]
-- [[c_DiscoveryStatus|Discovery status]]

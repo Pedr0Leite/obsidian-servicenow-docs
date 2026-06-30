@@ -14,7 +14,7 @@ breadcrumb: [Managing impacted people, Critical Event Management, Health and Saf
 
 # View an impacted person record
 
-View and track the status of an impacted person's record as an agent in [[critical-event-management|Critical Event Management]].
+View and track the status of an impacted person's record as an agent in Critical Event Management.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_critical.agent
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]** and select the **Critical Event Management** tab.
+1.  Navigate to **Workspaces** &gt; **Health and Safety Workspace** and select the **Critical Event Management** tab.
 
 2.  Open the critical event.
 
@@ -44,7 +44,7 @@ Role required: sn\_critical.agent
     -   Manager
     -   Present on Site
     -   Notes
-    The record also shows the [[activity-lxp|activity]] stream and notifications.
+    The record also shows the activity stream and notifications.
 
 
 **Parent Topic:**[Managing impacted people](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/manage-impacted-people.md)
@@ -64,8 +64,3 @@ Role required: sn\_critical.agent
 
 [Conduct a roll call as an on-site responder]()
 
-## Related
-
-- [[critical-event-management|Critical Event Management]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[activity-lxp|Activity]]

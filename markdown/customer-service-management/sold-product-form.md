@@ -76,7 +76,7 @@ Derived price
 
 </td><td>
 
-A Boolean value that indicates whether the sold product’s price is derived from other [[sold-product|sold products]]. Used by backend pricing logic to determine if pricing is calculated based on contributing products.
+A Boolean value that indicates whether the sold product’s price is derived from other sold products. Used by backend pricing logic to determine if pricing is calculated based on contributing products.
 
 </td></tr><tr><td>
 
@@ -151,7 +151,7 @@ Offering type
 
 </td><td>
 
-Type of product offer that is associated to a sold product.**Note:** Only the sold products that have an offering type as product appear in the sold product related [[migration-lists|lists]] on the Accounts page.
+Type of product offer that is associated to a sold product.**Note:** Only the sold products that have an offering type as product appear in the sold product related lists on the Accounts page.
 
 The default value of the field remains as **Product**.
 
@@ -342,8 +342,3 @@ Allow users to capture the list price of the specific sold product.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sold-product|Sold products]]
-- [[migration-lists|Lists]]

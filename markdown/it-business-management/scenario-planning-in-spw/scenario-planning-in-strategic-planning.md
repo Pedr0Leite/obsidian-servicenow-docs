@@ -22,13 +22,13 @@ Scenario planning in Strategic Planning enables organizations to create, evaluat
 
 ## What is a scenario
 
-A scenario in [[alignment-planner-workspace-landing-page|Strategic Planning]] is a simulated version of a plan that enables you to explore a strategic approach without affecting the live plan. It provides a safe environment to prioritize items, adjust timelines, and evaluate the potential impacts of each approach.
+A scenario in Strategic Planning is a simulated version of a plan that enables you to explore a strategic approach without affecting the live plan. It provides a safe environment to prioritize items, adjust timelines, and evaluate the potential impacts of each approach.
 
 As compared to a plan, a scenario additionally has the following:
 
 \[Omitted image "scenario-inplan-dates.png"\] Alt text: Compared to a plan, a scenario additionally has the In Plan toggle, Start dates, and End dates
 
--   **In Plan** toggle: The **In Plan** toggle enables you to prioritize or de-prioritize the planning items in the scenario you’re creating. By default, when you [[create-a-scenario-in-portfolio-planning|create a scenario]], the **In Plan** toggle is turned on for planning items that have all of the following field values:
+-   **In Plan** toggle: The **In Plan** toggle enables you to prioritize or de-prioritize the planning items in the scenario you’re creating. By default, when you create a scenario, the **In Plan** toggle is turned on for planning items that have all of the following field values:
     -   Planning state as Prioritized or Done
     -   Start and end dates within the portfolio plan dates.
 -   **Date** fields: The **Start date** and **End date** fields for the scenario are automatically populated based on either the planned or actual start and end dates of the planning items. You can update these dates during the scenario planning process. Once the scenario is approved, the updated dates are recorded as the approved dates for the planning items. If the updated dates fall outside the acceptable range, they’re highlighted in yellow.
@@ -63,7 +63,3 @@ For more detailed guidance on using scenario planning to enhance your Strategic 
 
 **Parent Topic:**[Exploring Portfolio Planning in Strategic Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/alignment-planner-workspace.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[create-a-scenario-in-portfolio-planning|Create a scenario]]

@@ -14,7 +14,7 @@ breadcrumb: [Activate schedule flows, Configure, HR Service Delivery Integration
 
 # Synchronize workday learning users
 
-Pull user profile data from Workday [[exploring-learning-exp|Learning]] into ServiceNow. View user profile details from Workday in ServiceNow [[hr-service-delivery|HR Service Delivery]].
+Pull user profile data from Workday Learning into ServiceNow. View user profile details from Workday in ServiceNow HR Service Delivery.
 
 ## Before you begin
 
@@ -28,10 +28,6 @@ Role required: sn\_lrn\_workday.admin
 
 3.  Click **Activate**.
 
-    This flow in turn triggers the [[flows-ukg|subflows]] to automate tasks. To customize the sample flow, copy it to the required application scope.
+    This flow in turn triggers the subflows to automate tasks. To customize the sample flow, copy it to the required application scope.
 
-## Related
 
-- [[exploring-learning-exp|Learning]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[flows-ukg|Subflows]]

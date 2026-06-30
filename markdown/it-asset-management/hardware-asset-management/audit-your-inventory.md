@@ -14,7 +14,7 @@ breadcrumb: [Audit hardware asset inventory, Use, Hardware Asset Management, IT 
 
 # Create an audit record in the Hardware Asset Management application
 
-Create an audit record to audit your inventory to determine the accuracy of your hardware and [[c_ReceiveAConsumableAsset|consumable assets]] and to optimize the inventory.
+Create an audit record to audit your inventory to determine the accuracy of your hardware and consumable assets and to optimize the inventory.
 
 ## Before you begin
 
@@ -51,11 +51,11 @@ Action
 
 </td></tr><tr><td id="d96746e139">
 
-**[[using-ham-workspace|Hardware Asset Workspace]]**
+**Hardware Asset Workspace**
 
 </td><td>
 
-1.  Navigate to **All** &gt; **Hardware Asset Workspace** &gt; **[[inventory-view-am|Inventory view]]**.
+1.  Navigate to **All** &gt; **Hardware Asset Workspace** &gt; **Inventory view**.
 2.  Select the **Asset audit** tab.
 
 The **Asset audit** tab displays a list of existing asset audits.
@@ -68,7 +68,7 @@ The **Asset audit** tab displays a list of existing asset audits.
 
     For a description of the field values, see [Asset audit fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/asset-audit-record-fields.md).
 
-    **Note:** The audit result fields, such as **Expected**, and **New**, can't be edited. When the asset is scanned in the inventory using the [[agent-mobile-asset|ServiceNow Agent app]], values are automatically updated in these fields. For a detailed description of the audit result field values, see [Audit results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/audit-results.md).
+    **Note:** The audit result fields, such as **Expected**, and **New**, can't be edited. When the asset is scanned in the inventory using the ServiceNow Agent app, values are automatically updated in these fields. For a detailed description of the audit result field values, see [Audit results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/audit-results.md).
 
 3.  Select **Save**.
 
@@ -94,9 +94,3 @@ Scan the assets in the inventory using the ServiceNow Agent app.
 
 [View audit results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/view-audit-results.md)
 
-## Related
-
-- [[c_ReceiveAConsumableAsset|Consumable assets]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[inventory-view-am|Inventory view]]
-- [[agent-mobile-asset|ServiceNow Agent app]]

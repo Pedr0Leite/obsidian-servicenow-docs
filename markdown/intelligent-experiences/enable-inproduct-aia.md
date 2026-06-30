@@ -21,11 +21,11 @@ Role required: admin
 
 ## About this task
 
-Agentic workflows can perform work on certain records, and you can track their progress or provide input in the AI Workflows panel available for forms and workspaces. See [[in-product-agentic-ai|In-product agentic AI]] for more details about the functions and features of the AI Workflows panel.
+Agentic workflows can perform work on certain records, and you can track their progress or provide input in the AI Workflows panel available for forms and workspaces. See [In-product agentic AI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/in-product-agentic-ai.md) for more details about the functions and features of the AI Workflows panel.
 
 The following task describes the process for enabling the system property that allows you to see the AI Workflows panel and see UI actions for agentic workflows: **com.glide.agentic\_processes\_view.enabled**.
 
-To enable users to access agentic workflows with UI actions, you can open the agentic workflow in [[ai-agent-studio|AI Agent Studio]] and navigate to the **Select channels and access** step. You can select a UI action as a possible way to access the workflow. See [[channels-access-aw|Select channels and access for agentic workflows]] for more information.
+To enable users to access agentic workflows with UI actions, you can open the agentic workflow in AI Agent Studio and navigate to the **Select channels and access** step. You can select a UI action as a possible way to access the workflow. See [Select channels and access for agentic workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/channels-access-aw.md) for more information.
 
 ## Procedure
 
@@ -46,8 +46,3 @@ The In-product agentic experience, including the AI Workflows panel, is availabl
 
 Monitor agentic workflow execution on forms in the Core UI and workspaces, or create UI actions to grant users access.
 
-## Related
-
-- [[in-product-agentic-ai|In-product experience for agentic workflows]]
-- [[channels-access-aw|Select channels and access for an agentic workflow]]
-- [[ai-agent-studio|AI Agent Studio]]

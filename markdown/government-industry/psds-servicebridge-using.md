@@ -16,7 +16,7 @@ As a government service agency provider, learn how to use Service Bridge to rece
 
 As an agency provider, you can author and publish remote catalogs from your instance for consumers to generate service requests that can be fulfilled in your instance. You can also integrate your tasks with your consumer's tasks, sending them back and forth for fulfillment, as well as send cases to your consumer's instance via Provider Task.
 
-Service Bridge service requests are initiated from the constituent's ServiceNow instance, viewed through the [[gsp-overview-public-sector|Government Service Portal]]. The agency provider's agent fulfills these requests in their ServiceNow agency provider instance. The data in the request then synchronizes the agent and customer instances so that they both can track its progress.
+Service Bridge service requests are initiated from the constituent's ServiceNow instance, viewed through the Government Service Portal. The agency provider's agent fulfills these requests in their ServiceNow agency provider instance. The data in the request then synchronizes the agent and customer instances so that they both can track its progress.
 
 ## Using Service Exchange for consumers
 
@@ -70,6 +70,3 @@ For information on how to create a remote task definition that triggers the assi
 -   Licensing Example: A state uses both provider and consumer instances of Service Exchange. Users in the consumer instance need to access specific content or complete tasks in the provider instance. With Remote Content Items, users can click on a catalog item in the consumer instance, which opens a new tab and logs them into the provider instance to complete the task seamlessly.​
 -   Integration Example: Users clicking on a catalog item in the consumer instance, which opens a new tab and logs them into the provider instance to complete the task. This ensures that users can perform tasks across different instances without any interruptions.​
 
-## Related
-
-- [[gsp-overview-public-sector|Government Service Portal]]

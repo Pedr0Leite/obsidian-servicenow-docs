@@ -22,13 +22,10 @@ After the request is submitted, it goes through an approval process and is eithe
 
 \[Omitted image "customer-self-registration.png"\] Alt text: A self-registration form with various fields for customer contact information.
 
-The administrator creates a unique registration code for each account and stores it in the **Registration Code** field on the [[customer-service-account-form|Account form]]. After the code is created, customer administrators can distribute the code to customers as needed.
+The administrator creates a unique registration code for each account and stores it in the **Registration Code** field on the Account form. After the code is created, customer administrators can distribute the code to customers as needed.
 
 **Related topics**  
 
 
 [Example: The default self-service Password Reset process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_SelfServicePasswordReset.md)
 
-## Related
-
-- [[customer-service-account-form|Account form]]

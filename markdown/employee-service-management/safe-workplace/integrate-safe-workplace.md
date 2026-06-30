@@ -14,7 +14,7 @@ breadcrumb: [Safe Workplace, Health and Safety, Employee Service Management]
 
 # Integrating with Safe Workplace suite
 
-Integrate ServiceNow [[safe-workplace|Safe Workplace]] suite data with a third-party system. For example, you can integrate [[employee-health-screening|Employee Health Screening]] data with badge reader software to ensure compliance with your workplace entry requirements.
+Integrate ServiceNow Safe Workplace suite data with a third-party system. For example, you can integrate Employee Health Screening data with badge reader software to ensure compliance with your workplace entry requirements.
 
 ## Benefits
 
@@ -38,7 +38,7 @@ You can integrate with Safe Workplace suite in these ways:
 
 -   **[Get employee or visitor health data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/query-health-data.md)**
 
-    Send a GET request for [[employee-health-safety-status|Employee Health and Safety Status]] data to use in your third-party system. Get data to determine an employee or visitor's current health status.
+    Send a GET request for Employee Health and Safety Status data to use in your third-party system. Get data to determine an employee or visitor's current health status.
 
 
 ## Notice regarding use by organizations
@@ -61,8 +61,3 @@ All decisions in connection with the implementation of this application are at t
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[safe-workplace|Safe Workplace]]
-- [[employee-health-screening|Employee Health Screening]]
-- [[employee-health-safety-status|Employee Health and Safety Status]]

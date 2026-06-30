@@ -26,7 +26,7 @@ Role required: user
 
 1.  Launch the Microsoft Teams application.
 
-2.  Select **[[activity-lxp|Activity]]**.
+2.  Select **Activity**.
 
 3.  View the list of notifications feeds for the following:
 
@@ -45,6 +45,3 @@ Role required: user
 
 **Parent Topic:**[Employee actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/employee-sn-ms-teams.md)
 
-## Related
-
-- [[activity-lxp|Activity]]

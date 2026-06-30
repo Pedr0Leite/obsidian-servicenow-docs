@@ -14,7 +14,7 @@ breadcrumb: [Reference, External Content Connectors, Search administration, Conf
 
 # Reassign the External Content Connectors Service Account user to the global domain
 
-Fix issues with missing user permissions for users on your instance by reassigning the [[ext-cont-connectors-landing-page|External Content Connectors]] Service Account user to the global domain.
+Fix issues with missing user permissions for users on your instance by reassigning the External Content Connectors Service Account user to the global domain.
 
 ## Symptom
 
@@ -32,13 +32,13 @@ As an example, suppose you have an instance with domain separation configured wh
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_UserAdministration|User Administration]]** &gt; **Users**.
+1.  Navigate to **All** &gt; **User Administration** &gt; **Users**.
 
-2.  Open [[user|the user record]] with ID **xcc-connector-service-account** and name **External Content Connectors Service Account**.
+2.  Open the user record with ID **xcc-connector-service-account** and name **External Content Connectors Service Account**.
 
 3.  On the User form, configure the layout to show the **Managed domain**, **Domain**, and **Domain Path** fields.
 
-    To learn how to show or hide fields on a form, see [[configure-form-layout|Configuring the form layout]].
+    To learn how to show or hide fields on a form, see [Configuring the form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md).
 
 4.  Select the **Managed domain** option.
 
@@ -59,9 +59,3 @@ As an example, suppose you have an instance with domain separation configured wh
 
 **Parent Topic:**[External Content Connectors reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/reference-ext-cont-connectors.md)
 
-## Related
-
-- [[configure-form-layout|Configuring the form layout]]
-- [[ext-cont-connectors-landing-page|External Content Connectors]]
-- [[c_UserAdministration|User administration]]
-- [[user|The User record]]

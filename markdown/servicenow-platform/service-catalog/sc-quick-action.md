@@ -14,7 +14,7 @@ breadcrumb: [Request experience in Now Mobile, Service Catalog in mobile, Integr
 
 # Create a quick action in your mobile applications
 
-Provide easy access to an important item by creating a quick action. For example, you can create a quick action that opens a [[service-catalog|Service Catalog]] item.
+Provide easy access to an important item by creating a quick action. For example, you can create a quick action that opens a Service Catalog item.
 
 ## Before you begin
 
@@ -80,7 +80,7 @@ For this example, select **Global**.
 
 </td></tr><tr><td>
 
-Link [[label|Label]]
+Link Label
 
 </td><td>
 
@@ -235,7 +235,7 @@ Icon
 
 Icon to display next to the label. For more details on mobile icons, see [Mobile icons](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-icon.md).**Note:** Not all listed icons work with quick actions. To see a list of compatible icons, filter your list where the **Icons** field contains `now-mobile-icons-buttons`.
 
- **Note:** The **Icons** field is not on the icon list by default. To add the **Icon** field to your list, right-click the list header and select **Configure** &gt; **List Layout**. Then, add the Icon field to the selected list. You should see the icon field on your [[reference|reference]] field list.
+ **Note:** The **Icons** field is not on the icon list by default. To add the **Icon** field to your list, right-click the list header and select **Configure** &gt; **List Layout**. Then, add the Icon field to the selected list. You should see the icon field on your reference field list.
 
 </td></tr><tr><td>
 
@@ -274,8 +274,3 @@ Your users can open the quick action by selecting the \[Omitted image "more-item
 
 [Configure Now Mobile properties]()
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[label|Label]]
-- [[reference|Reference]]

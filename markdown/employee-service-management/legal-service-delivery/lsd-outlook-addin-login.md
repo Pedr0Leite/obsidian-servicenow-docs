@@ -18,7 +18,7 @@ As a legal request fulfiller, sign in to Microsoft Outlook Add-In for Legal Serv
 
 ## Before you begin
 
-Ensure you have installed and configured [[lsd-outlook-addin-landing|Microsoft Outlook Add-In for Legal Service Delivery]]. For more information, see [Configure Microsoft Outlook Add-In for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-outlook-addin-configure.md)
+Ensure you have installed and configured Microsoft Outlook Add-In for Legal Service Delivery. For more information, see [Configure Microsoft Outlook Add-In for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-outlook-addin-configure.md)
 
 Role required: sn\_lg\_ops.request\_fulfiller or sn\_lg\_matter.matter\_fulfiller
 
@@ -69,6 +69,3 @@ You are logged in and the Microsoft Outlook Add-In for Legal Service Delivery ad
 
 **Parent Topic:**[Use Microsoft Outlook Add-In for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-outlook-addin-use.md)
 
-## Related
-
-- [[lsd-outlook-addin-landing|Microsoft Outlook Add-In for Legal Service Delivery]]

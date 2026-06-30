@@ -18,11 +18,11 @@ Paste content into the body of a knowledge article without copying the content f
 
 ## Before you begin
 
-Open the knowledge article in which you want to use the [[html|HTML]] editor.
+Open the knowledge article in which you want to use the HTML editor.
 
 ## About this task
 
-You can also use the HTML editor when creating or editing a knowledge article using the [[knowledge-management|Knowledge Management]] application in the ServiceNow AI Platform interface or in Agent Workspace. To create or [[edit-knowledge-article|edit a knowledge article]] in the ServiceNow AI Platform interface, see [Create a knowledge article](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/create-knowledge-article.md) or [Edit a knowledge article](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/edit-knowledge-article.md). To create or [[edit-article-workspace|edit a knowledge article in Agent Workspace]], see [Create a knowledge article in Agent Workspace]() or [Edit a knowledge article in Agent Workspace]().
+You can also use the HTML editor when creating or editing a knowledge article using the Knowledge Management application in the ServiceNow AI Platform interface or in Agent Workspace. To create or edit a knowledge article in the ServiceNow AI Platform interface, see [Create a knowledge article](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/create-knowledge-article.md) or [Edit a knowledge article](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/edit-knowledge-article.md). To create or edit a knowledge article in Agent Workspace, see [Create a knowledge article in Agent Workspace]() or [Edit a knowledge article in Agent Workspace]().
 
 ## Procedure
 
@@ -32,9 +32,4 @@ You can also use the HTML editor when creating or editing a knowledge article us
 
 3.  In the Article body section, place your cursor at the point where you want to paste the content, right-click, and select **Paste** from the context menu.
 
-## Related
 
-- [[html|HTML]]
-- [[knowledge-management|Knowledge Management]]
-- [[edit-knowledge-article|Edit a knowledge article]]
-- [[edit-article-workspace|Edit a knowledge article in Agent Workspace]]

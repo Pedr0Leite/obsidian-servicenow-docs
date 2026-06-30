@@ -12,19 +12,12 @@ breadcrumb: [Exploring Now Assist Admin, Now Assist, Enable AI experiences]
 
 # Now Assist Experiences
 
-Explore [[now-assist-center-now-assist-panel|Now Assist panel]] and Now Assist context menu under the **Now Assist Experiences** tab of [[platform-now-assist-landing|Now Assist]] Admin.
+Explore Now Assist panel and Now Assist context menu under the **Now Assist Experiences** tab of Now Assist Admin.
 
--   **[[now-assist-panel-overview|Now Assist panel]]**  
+-   **[Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-overview.md)**  
 With the Now Assist panel, you can get assistance from generative AI experiences to solve customer issues faster. Use this conversational interface to summarize a chat, case, or incident, get help, or generate resolution notes so that you can get the context of this information more quickly.
--   **[[now-assist-write-overview|Now Assist context menu]]**  
+-   **[Now Assist context menu](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-write-overview.md)**  
 The Now Assist context menu uses generative AI to help agents summarize, create, and edit written content, thus streamlining their writing tasks.
 
-**Parent Topic:**[[exploring-now-assist-platform|Exploring Now Assist Admin]]
+**Parent Topic:**[Exploring Now Assist Admin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/exploring-now-assist-platform.md)
 
-## Related
-
-- [[now-assist-panel-overview|Now Assist panel]]
-- [[now-assist-write-overview|Now Assist context menu]]
-- [[exploring-now-assist-platform|Exploring Now Assist Admin]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[platform-now-assist-landing|Now Assist]]

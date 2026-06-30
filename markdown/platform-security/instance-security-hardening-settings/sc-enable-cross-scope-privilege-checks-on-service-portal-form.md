@@ -20,7 +20,7 @@ In Yokohama and later releases, queries enforce cross scope privilege checks on 
 
 When the **glide.service\_portal.enforce\_cross\_scope\_check\_in\_form** property is set to the recommended value of **true**, cross scope privilege checks are enforced on the table. When set to **false**, the cross-scope privilege check isn’t enforced.
 
-Set the **glide.service\_portal.enforce\_cross\_scope\_check\_in\_form** system property to **true** or confirm that the property doesn’t exist in the [[ca-system-properties|System Properties]] \[sys\_properties\] table. If a record doesn’t exist in the sys\_properties table, the value defaults to **true**.
+Set the **glide.service\_portal.enforce\_cross\_scope\_check\_in\_form** system property to **true** or confirm that the property doesn’t exist in the System Properties \[sys\_properties\] table. If a record doesn’t exist in the sys\_properties table, the value defaults to **true**.
 
 ## More information
 
@@ -34,7 +34,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -101,7 +101,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]

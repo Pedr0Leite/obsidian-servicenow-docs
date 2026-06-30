@@ -12,7 +12,7 @@ breadcrumb: [Supported functions, Align apps, screens, and functions, Offline mo
 
 # Configure offline mode properties for action functions
 
-Determine which fields and functions are available to users when working in [[mobile-offline-mode|offline mode]].
+Determine which fields and functions are available to users when working in offline mode.
 
 ## Before you begin
 
@@ -20,13 +20,13 @@ Role required: mobile\_admin, admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select **Functions** from the menu.
 
@@ -52,7 +52,7 @@ Hide fields
 
 </td><td>
 
-This configuration applies to the [[form-screen|record screen]].Details screen segment: Use this field to determine which fields are not available after the user performs an action in offline mode. For example, after a user assigns a task to themselves, you could hide the **Assigned to** field.
+This configuration applies to the record screen.Details screen segment: Use this field to determine which fields are not available after the user performs an action in offline mode. For example, after a user assigns a task to themselves, you could hide the **Assigned to** field.
 
 </td></tr><tr><td>
 
@@ -92,12 +92,5 @@ This setting controls which screens should visually reflect that a record was mo
 </table>7.  Select **Save**.
 
 
-**Parent Topic:**[[functions-offline|Supported functions for offline mode]]
+**Parent Topic:**[Supported functions for offline mode](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/functions-offline.md)
 
-## Related
-
-- [[functions-offline|Supported functions for offline mode]]
-- [[mobile-offline-mode|Offline mode]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]
-- [[form-screen|Record screen]]

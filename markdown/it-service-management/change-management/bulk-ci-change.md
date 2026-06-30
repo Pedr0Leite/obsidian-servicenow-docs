@@ -14,7 +14,7 @@ breadcrumb: [Process a change request, Use, Change Management, IT Service Manage
 
 # Mass Update CI
 
-The Mass Update CI plugin enable users to apply the same update to a set of CIs for a specific CI class. The [[c_ITILChangeManagement|Change Management]] - Mass Update CI plugin is intended to be used when the Change Management - State Model plugin is activated.
+The Mass Update CI plugin enable users to apply the same update to a set of CIs for a specific CI class. The Change Management - Mass Update CI plugin is intended to be used when the Change Management - State Model plugin is activated.
 
 To use these features, activate the Change Management - Mass Update CI plugin.
 
@@ -39,6 +39,3 @@ When the change moves to the Implement state, the required update for each CI re
 
 [Configure a form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md)
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]

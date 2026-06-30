@@ -18,9 +18,9 @@ Data snapshots include data sources for indicator score collection and the mappi
 
 ## Data snapshots sources
 
-For each classic automated indicator that successfully has Data snapshots activated, the Performance Analytics indicator and [[breakdown-sources|breakdown sources]] are replaced by a Data snapshots source. You can also create Data snapshots sources. You can view the Data snapshots source for each indicator in the Indicators library \(**[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Indicators**\). The source is given in the Source column. If the Data snapshots status is Enabled, this source is a Data snapshots source. Otherwise, it is the traditional indicator source. Data snapshots source names are in lower case with the individual words separated by underlines.
+For each classic automated indicator that successfully has Data snapshots activated, the Performance Analytics indicator and breakdown sources are replaced by a Data snapshots source. You can also create Data snapshots sources. You can view the Data snapshots source for each indicator in the Indicators library \(**Platform Analytics** &gt; **Library** &gt; **Indicators**\). The source is given in the Source column. If the Data snapshots status is Enabled, this source is a Data snapshots source. Otherwise, it is the traditional indicator source. Data snapshots source names are in lower case with the individual words separated by underlines.
 
-\[Omitted image "data-snapshots-sources-in-library.png"\] Alt text: Two [[automated-indicators|automated indicators]] in the Indicator Library, showing sources when Data snapshots are enabled or not.
+\[Omitted image "data-snapshots-sources-in-library.png"\] Alt text: Two automated indicators in the Indicator Library, showing sources when Data snapshots are enabled or not.
 
 ## Data snapshots data sources and logs
 
@@ -47,8 +47,3 @@ To provide a filtered dataset of records that you can evaluate with one or more 
 
 **Parent Topic:**[Data snapshots and multiple breakdowns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/multi-level-breakdowns.md)
 
-## Related
-
-- [[breakdown-sources|Breakdown sources]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[automated-indicators|Automated indicators]]

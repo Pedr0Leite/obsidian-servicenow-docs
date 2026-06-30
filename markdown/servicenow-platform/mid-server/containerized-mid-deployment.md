@@ -14,14 +14,14 @@ breadcrumb: [Containerized MID Server, Configuring MID Servers, Configuring MID 
 
 # Containerized MID Server Deployment and Auto-configuration
 
-An agent admin can enter a [[mid-server-landing|MID Server]] Profile and create a deployment request on the instance. She/he can then export the deployment request to a YAML file and use it to deploy MID Servers to Kubernetes or OpenShift cluster.
+An agent admin can enter a MID Server Profile and create a deployment request on the instance. She/he can then export the deployment request to a YAML file and use it to deploy MID Servers to Kubernetes or OpenShift cluster.
 
 <table id="table_p53_ms4_nhb"><tbody><tr><td>
 
 ![Setup indicator for configuration phase](../image/ProgressBarConfig.png)
 
 </td></tr></tbody>
-</table>Containerized MID Servers use a Docker image of the MID Server that allows you to quickly deploy MID Servers. The documentation for [Build MID Server Docker Image for Linux](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-build-docker-linux.md) provides steps for manually preparation and deployment. The following [[containerized-mid|Containerized MID Server]] auto-configuration simplifies the process and makes it scalable.
+</table>Containerized MID Servers use a Docker image of the MID Server that allows you to quickly deploy MID Servers. The documentation for [Build MID Server Docker Image for Linux](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-build-docker-linux.md) provides steps for manually preparation and deployment. The following Containerized MID Server auto-configuration simplifies the process and makes it scalable.
 
 ## MID Server profile
 
@@ -95,7 +95,7 @@ apiVersion: rbac.authorization.k8s.io/v1
  subjects:   
 
   - kind: ServiceAccount 
-    # [[reference|Reference]] to upper's `metadata.name`     
+    # Reference to upper's `metadata.name`     
     name: default 
     # Reference to upper's `metadata.namespace`     
     namespace: default 
@@ -139,8 +139,3 @@ The MID Server profile can be out-of-sync with the settings of existing MID Serv
 
 **Note:** When applying cluster settings from MID Server profile to a MID Server, the cluster assignment will fail if the MID Server doesn't have any capability assigned. It is controlled by the "validate MID server capability" business rule on the ecc\_agent\_cluster\_member\_m2m table. If you want to assign a MID server to a cluster, please make sure it has some capabilities.
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[containerized-mid|Containerized MID Server]]
-- [[reference|Reference]]

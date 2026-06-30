@@ -22,7 +22,7 @@ Role required: ot\_excel\_import\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]]**.
+1.  Navigate to **All** &gt; **Industrial Workspace**.
 
 2.  Select the **List** \(\[Omitted image "icon-list.png"\] Alt text: List icon\) icon.
 
@@ -41,6 +41,3 @@ Role required: ot\_excel\_import\_user
 
 **Parent Topic:**[Using the Service Graph Connector for Microsoft Excel through import tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/use-excel-sgc-through-import-tasks.md)
 
-## Related
-
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

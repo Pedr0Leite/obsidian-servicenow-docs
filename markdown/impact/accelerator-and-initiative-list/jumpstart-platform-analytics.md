@@ -14,11 +14,11 @@ breadcrumb: [Technical Accelerators, Accelerator catalog, View the Initiatives a
 
 # Jumpstart Your Platform Analytics
 
-The Jumpstart Your Platform Analytics Accelerator provides a demonstration of the possibilities and capabilities of Platform [[io-analytics|Analytics]].
+The Jumpstart Your Platform Analytics Accelerator provides a demonstration of the possibilities and capabilities of Platform Analytics.
 
 ## Accelerator Overview
 
-Jumpstart Your Platform Analytics provides [[impact-landing-page|Impact]] customers with an overview of Platform Analytics and the ability to greatly improve service delivery quality, efficiency, and cost. An applied demonstration of reporting and [[instance-observer-performance|Performance]] Analytics configuration, capabilities, and analytics via a temporary instance as well as leading practices on getting started is included.
+Jumpstart Your Platform Analytics provides Impact customers with an overview of Platform Analytics and the ability to greatly improve service delivery quality, efficiency, and cost. An applied demonstration of reporting and Performance Analytics configuration, capabilities, and analytics via a temporary instance as well as leading practices on getting started is included.
 
 ## Package Availability
 
@@ -114,8 +114,3 @@ This Impact Accelerator in its entirety or portions of the Impact Accelerator Ac
 
 ServiceNow resources are not responsible for implementing Platform Analytics recommendations on Customer’s sub-production or production instances.
 
-## Related
-
-- [[io-analytics|Analytics]]
-- [[impact-landing-page|Impact]]
-- [[instance-observer-performance|Performance]]

@@ -14,7 +14,7 @@ breadcrumb: [Restricted caller access approvals, Install Supplier Collaboration 
 
 # Run the fix script for RCA approvals
 
-After you install the [[supplier-central|Supplier Collaboration Portal]] application from ServiceNow Store, you might encounter Restricted Caller Access \(RCA\) approval messages requesting for an update in the access request.
+After you install the Supplier Collaboration Portal application from ServiceNow Store, you might encounter Restricted Caller Access \(RCA\) approval messages requesting for an update in the access request.
 
 ## Before you begin
 
@@ -58,6 +58,3 @@ After you download the script file, perform the following steps.
 
 [Approve restricted caller access privileges manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/approve-rca-for-supp-central.md)
 
-## Related
-
-- [[supplier-central|Supplier Collaboration Portal]]

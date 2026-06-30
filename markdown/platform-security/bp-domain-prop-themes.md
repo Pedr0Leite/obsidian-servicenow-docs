@@ -24,7 +24,7 @@ By default, when you have the service provider plugin installed, the standard bu
 
 With all of these tables, except the Task table, you can override the domain that a record is created in. This gives you more customization options.
 
-**Parent Topic:**[[bp-domain-sep-recommended|Domain separation recommended practices for service providers]]
+**Parent Topic:**[Domain separation recommended practices for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-domain-sep-recommended.md)
 
 **Related topics**  
 
@@ -61,7 +61,7 @@ With all of these tables, except the Task table, you can override the domain tha
 
 [Setting up domain hierarchies]()
 
-[Checking domain [[logs|logs]] for errors and warnings]()
+[Checking domain logs for errors and warnings]()
 
 [Importance of the Default domain]()
 
@@ -79,7 +79,3 @@ With all of these tables, except the Task table, you can override the domain tha
 
 [Domain separation and the Customer Service Management \(CSM\) plugin]()
 
-## Related
-
-- [[bp-domain-sep-recommended|Domain separation recommended practices for service providers]]
-- [[logs|Logs]]

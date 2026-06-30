@@ -14,11 +14,11 @@ breadcrumb: [Legacy: Incident Management Platform Analytics Solutions, Reporting
 
 # Legacy: Incident Management dashboard
 
-The Incident Management dashboard lets you see recent trends in incident creation, duration, and resolution. Use the information on this dashboard to spot problem areas and plan your [[c_IncidentManagement|incident management]] strategy going forward.
+The Incident Management dashboard lets you see recent trends in incident creation, duration, and resolution. Use the information on this dashboard to spot problem areas and plan your incident management strategy going forward.
 
 **Important:**
 
-Starting in Xanadu release, the Incident Management dashboard is deprecated. Users can use [[incident|Incident management dashboard]] to view the recent trends in incident creation, duration, and resolution and plan the incident management strategy accordingly.
+Starting in Xanadu release, the Incident Management dashboard is deprecated. Users can use [Incident management dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident.md) to view the recent trends in incident creation, duration, and resolution and plan the incident management strategy accordingly.
 
 \[Omitted image "Incident-Management-dashboard\_V2.gif"\] Alt text: Animated gif taking you through the tabs of the dashboard
 
@@ -80,7 +80,3 @@ The following indicators are not shown directly on the dashboard but are used in
 
 **Parent Topic:**[Legacy: Incident Management Platform Analytics Solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/incident-content-pack.md)
 
-## Related
-
-- [[incident|Incident management dashboard]]
-- [[c_IncidentManagement|Incident Management]]

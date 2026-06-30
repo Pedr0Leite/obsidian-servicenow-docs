@@ -12,7 +12,7 @@ breadcrumb: [Phone number field type, Reference, Field administration, Forms, fi
 
 # E.164 phone number field configuration
 
-Administrators can use the phone number [[r_SetArchiveRuleProcessingBehavior|system properties]] and dictionary attributes to do certain things.
+Administrators can use the phone number system properties and dictionary attributes to do certain things.
 
 The system properties apply the configuration option to all phone number fields that do not have a comparable dictionary attribute. The dictionary attributes apply the configuration only to the phone number field it is added to. Since dictionary attributes take precedence over system properties, administrators can set a global configuration with a property and then apply exceptions on a field-by-field basis.
 
@@ -40,7 +40,7 @@ Changing the **glide.phone\_number\_e164.allow\_national\_entry** system propert
 
 By default, an E.164 phone number field always displays phone numbers in an international format.
 
-Change the E.164 phone number to use the local format in certain circumstances by [[t_AddAPropertyUsingSysPropsList|adding the following system property]]:
+Change the E.164 phone number to use the local format in certain circumstances by [adding the following system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddAPropertyUsingSysPropsList.md):
 
 <table id="simpletable_xsy_m3x_vz"><thead><tr><th>
 
@@ -407,8 +407,3 @@ Overrides the **glide.phone\_number\_e164.display\_users\_idd** property that de
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[t_AddAPropertyUsingSysPropsList|Add a system property]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

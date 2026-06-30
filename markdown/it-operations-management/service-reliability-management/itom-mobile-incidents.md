@@ -14,7 +14,7 @@ breadcrumb: [Use, ITOM Mobile Agent, Service Reliability Management, ITOM AIOps,
 
 # Managing incidents and major incidents on mobile
 
-Manage and resolve incidents on the go using [[itom-mobile-landing|ITOM Mobile Agent]]. Learn how to create, process, and collaborate on incidents on your mobile device. You can also track and collaborate on major incidents.
+Manage and resolve incidents on the go using ITOM Mobile Agent. Learn how to create, process, and collaborate on incidents on your mobile device. You can also track and collaborate on major incidents.
 
 ITOM Mobile Agent auto-integrates with ITSM Mobile Agent, letting you manage alerts, incidents, and on-call schedules from the same mobile app. Refer to the following ITSM Mobile Agent documentation to learn about managing incidents on your mobile device.
 
@@ -43,6 +43,3 @@ ITOM Mobile Agent auto-integrates with ITSM Mobile Agent, letting you manage ale
 
 **Next topic:**[Working with On-Call Scheduling on mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/itom-mobile-on-call-scheduling.md)
 
-## Related
-
-- [[itom-mobile-landing|ITOM Mobile Agent]]

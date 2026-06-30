@@ -22,7 +22,7 @@ To learn more about managing subscriptions, see [Managing per-user subscriptions
 
 ## live\_feed\_admin
 
-Can manage Live Feed functions. Users with the live\_feed\_admin role can [[t_SetUpTableNotifNonTaskTables|set up table notifications for non-task tables]], [[t_LimitLiveFeedAccessByRole|limit Live Feed access by role]], and [[t_ManageLiveFeedMessageContent|manage Live Feed message content]].
+Can manage Live Feed functions. Users with the live\_feed\_admin role can set up table notifications for non-task tables, limit Live Feed access by role, and manage Live Feed message content.
 
 ### Contains Roles
 
@@ -60,8 +60,3 @@ None.
 
 **Note:** Avoid granting an admin role when more specialized roles are available.
 
-## Related
-
-- [[t_SetUpTableNotifNonTaskTables|Set up table notifications for non-task tables]]
-- [[t_LimitLiveFeedAccessByRole|Limit Live Feed access by role]]
-- [[t_ManageLiveFeedMessageContent|Manage Live Feed message content]]

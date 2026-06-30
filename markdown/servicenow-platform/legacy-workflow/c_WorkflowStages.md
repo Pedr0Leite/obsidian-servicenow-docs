@@ -16,19 +16,19 @@ breadcrumb: [Workflow management, Classic Workflow, ServiceNow AI Platform Addit
 
 Workflows can indicate workflow progress by updating any field designated as a stage field.
 
-For example, the Incident \[incident\] table has an **Incident state** field that indicates progress, but the [[service-catalog|service catalog]] uses the **Stage** field.
+For example, the Incident \[incident\] table has an **Incident state** field that indicates progress, but the service catalog uses the **Stage** field.
 
-To indicate the workflow's progress through the possible stage values, the interface updates the **Stage field** selected in the [[r_WorkflowProperties|workflow properties]]. Available fields depend on the table used by the workflow. If the field provides a choice list, then the choices are available as stage values for the workflow. If the field is a workflow field, it displays an icon to indicate the workflow's progress, as with the Service Catalog's **Stage** field.
+To indicate the workflow's progress through the possible stage values, the interface updates the **Stage field** selected in the workflow properties. Available fields depend on the table used by the workflow. If the field provides a choice list, then the choices are available as stage values for the workflow. If the field is a workflow field, it displays an icon to indicate the workflow's progress, as with the Service Catalog's **Stage** field.
 
 \[Omitted image "WorkflowFieldIcons.png"\] Alt text:
 
 After stages are added to the workflow, they can be assigned to each workflow activity. If an activity with an assigned stage is encountered when the workflow runs, the workflow engine assigns the stage to the record associated with the workflow context.
 
-For workflows that use the Requested Item \[sc\_req\_item\] table, the stage field is automatically set to the **Stage** field of the table and cannot be changed. The stage state displayed for a workflow running on the Requested Item table is based on the state of the [[c_WorkflowActivities|workflow activities]].
+For workflows that use the Requested Item \[sc\_req\_item\] table, the stage field is automatically set to the **Stage** field of the table and cannot be changed. The stage state displayed for a workflow running on the Requested Item table is based on the state of the workflow activities.
 
 -   If an activity is active, then the stage is shown with the state of **In progress**.
 -   If an activity is in the **Pending** or **Completed** state, the stage reflects this state.
--   If an activity is canceled, **Request Cancelled** appears in the **Stage** field. The "Cancelled" [[label|label]] set in the wf\_stage table is a reserved word, and does not display in the **Stage** field.
+-   If an activity is canceled, **Request Cancelled** appears in the **Stage** field. The "Cancelled" label set in the wf\_stage table is a reserved word, and does not display in the **Stage** field.
 
 ## How stage values are derived
 
@@ -64,7 +64,7 @@ In addition, the Request Item table has the following default stages:
 
 **Note:** If an activity is cancelled, Request Cancelled appears in the **Stage** field. The "Cancelled" label set in the wf\_stage table is a reserved word, and does not display in the **Stage** field.
 
-When you edit available activity stages in the [[workflow-editor|Workflow Editor]], the list displays the following stage values:
+When you edit available activity stages in the Workflow Editor, the list displays the following stage values:
 
 -   Waiting for Approval
 -   Fulfillment
@@ -91,10 +91,3 @@ Workflow fields may indicate when a record required by the workflow is deleted.
 
 **Parent Topic:**[Workflow management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/managing-workflows.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[r_WorkflowProperties|Workflow properties]]
-- [[c_WorkflowActivities|Workflow activities]]
-- [[label|Label]]
-- [[workflow-editor|Workflow editor]]

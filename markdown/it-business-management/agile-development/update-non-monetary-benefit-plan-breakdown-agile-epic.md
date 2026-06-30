@@ -22,7 +22,7 @@ Role required: scrum\_master, scrum\_product\_owner, or scrum\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[agile-development|Agile Development]]** &gt; **Epics**.
+1.  Navigate to **All** &gt; **Agile Development** &gt; **Epics**.
 
 2.  Open the required epic.
 
@@ -36,7 +36,7 @@ Role required: scrum\_master, scrum\_product\_owner, or scrum\_admin
 
 7.  Click **Open Record**.
 
-8.  On the [[non-monetary-benefit-plan-breakdown-form|Non-monetary Benefit Plan Breakdown form]], view and update the enabled fields.
+8.  On the Non-monetary Benefit Plan Breakdown form, view and update the enabled fields.
 
     |Field|Description|
     |-----|-----------|
@@ -54,7 +54,3 @@ Role required: scrum\_master, scrum\_product\_owner, or scrum\_admin
 
 **Parent Topic:**[Create a non-monetary benefit plan for an epic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/create-non-monetary-benefit-plan-agile-epic.md)
 
-## Related
-
-- [[agile-development|Agile Development]]
-- [[non-monetary-benefit-plan-breakdown-form|Non-monetary Benefit Plan Breakdown form]]

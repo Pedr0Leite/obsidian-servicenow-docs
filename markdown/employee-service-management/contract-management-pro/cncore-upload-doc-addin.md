@@ -14,7 +14,7 @@ breadcrumb: [Create templates in Microsoft Word, Configure contract templates, C
 
 # Complete mapping and upload Microsoft Word document that includes content controls
 
-As a contract configurator, after adding the content controls to the Microsoft Word document to be used for the contract template using the [[cncore-expl-snc-addin|Microsoft Word Add-in for ServiceNow Contracts]], upload the document to the ServiceNow instance.
+As a contract configurator, after adding the content controls to the Microsoft Word document to be used for the contract template using the Microsoft Word Add-in for ServiceNow Contracts, upload the document to the ServiceNow instance.
 
 ## Before you begin
 
@@ -56,6 +56,3 @@ Role required: sn\_cm\_core.contract\_config and canvas\_user
 
 [Complete clause mapping to build a clause library]()
 
-## Related
-
-- [[cncore-expl-snc-addin|Microsoft Word add-in for ServiceNow Contracts]]

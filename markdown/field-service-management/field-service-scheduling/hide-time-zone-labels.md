@@ -20,7 +20,7 @@ Dispatchers can hide the time zone label that shows on the time indicator on the
 
 Role required: wm\_dispatcher
 
-You must turn on the `[[enable-equalized-time|Enable resource time indicators]]` setting to see this option. For more information, see [Enable Dispatcher Workspace settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/dispatcher-wrkspc-settings.md).
+You must turn on the `Enable resource time indicators` setting to see this option. For more information, see [Enable Dispatcher Workspace settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/dispatcher-wrkspc-settings.md).
 
 ## About this task
 
@@ -28,7 +28,7 @@ By default resource time indicators show the time stamp on the time indicator.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Field Service** &gt; **Dispatching** &gt; **[[dispatcher-activities|Dispatcher Workspace]]**.
+1.  Navigate to **All** &gt; **Field Service** &gt; **Dispatching** &gt; **Dispatcher Workspace**.
 
 2.  Select Dispatcher Workspace.
 
@@ -36,7 +36,4 @@ By default resource time indicators show the time stamp on the time indicator.
 
     \[Omitted image "hide-tz-labels-on.png"\] Alt text: time zone labels hidden from the calendar
 
-## Related
 
-- [[enable-equalized-time|Enable resource time indicators]]
-- [[dispatcher-activities|Dispatcher Workspace]]

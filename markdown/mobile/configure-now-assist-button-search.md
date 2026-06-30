@@ -140,7 +140,7 @@ Verify that Now Assist in AI Search and Now Assist Self Service Enhanced Chat ar
 
 7.  Select **Save**.
 
-8.  Create three [[mca-attributes|card template element attributes]] and associate them with the menu\_01 card template element, using the following:
+8.  Create three card template element attributes and associate them with the menu\_01 card template element, using the following:
 
     |Attribute|Type|Description|Value|
     |---------|----|-----------|-----|
@@ -149,9 +149,5 @@ Verify that Now Assist in AI Search and Now Assist Self Service Enhanced Chat ar
     |Attribute 3|`TextColorVariable`|`menu_01_TextColorVariable`|`--now-color--primary-1`|
 
 
-**Parent Topic:**[[configuring-now-assist-mobile|Configuring Now Assist for Mobile]]
+**Parent Topic:**[Configuring Now Assist for Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/configuring-now-assist-mobile.md)
 
-## Related
-
-- [[configuring-now-assist-mobile|Configuring Now Assist for Mobile]]
-- [[mca-attributes|Card template element attributes]]

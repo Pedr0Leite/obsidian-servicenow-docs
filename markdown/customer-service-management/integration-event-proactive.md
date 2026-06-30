@@ -12,15 +12,9 @@ breadcrumb: [Integrate, Customer Service Management]
 
 # Integrating with IT Operations Management
 
-The [[proactive-service-operations|Proactive Customer Service Operations]] plugin \(com.snc.proactive\_cs\_itom\) provides an integration between [[c_CustomerServiceManagement|Customer Service Management]] and the Event Management console in IT Operations Management.
+The Proactive Customer Service Operations plugin \(com.snc.proactive\_cs\_itom\) provides an integration between Customer Service Management and the Event Management console in IT Operations Management.
 
-This integration enables you to create cases proactively from alerts either manually or through automation and track the accounts and the corresponding [[install-base-item|install base items]] affected by the alert. It also enables you to view the service health status of their install base items.
+This integration enables you to create cases proactively from alerts either manually or through automation and track the accounts and the corresponding install base items affected by the alert. It also enables you to view the service health status of their install base items.
 
-For more information, see [[pcso-event-management|Integration with Event Management]].
+For more information, see [Integration with Event Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/pcso-event-management.md).
 
-## Related
-
-- [[pcso-event-management|Integration with Event Management]]
-- [[proactive-service-operations|Proactive Customer Service Operations]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[install-base-item|Install base items]]

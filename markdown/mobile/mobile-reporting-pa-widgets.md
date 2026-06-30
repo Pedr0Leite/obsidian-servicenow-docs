@@ -14,7 +14,7 @@ breadcrumb: [Mobile platform dashboards, Using the mobile apps, Mobile Platform]
 
 Use KPI Details charts to help identify trends and turning points through indicator scores and visual representation. These charts are used when reporting on KPIs and metrics.
 
-The [[mobile-config-navigation|mobile platform]] supports the KPI Details latest score, which shows a single indicator score and the change in that score compared to a previous period. For example, you can configure the data visualization to show the number and percentage difference of high priority incidents over a time period.
+The mobile platform supports the KPI Details latest score, which shows a single indicator score and the change in that score compared to a previous period. For example, you can configure the data visualization to show the number and percentage difference of high priority incidents over a time period.
 
 ## KPI Details chart
 
@@ -24,7 +24,7 @@ The [[mobile-config-navigation|mobile platform]] supports the KPI Details latest
 
     Latest score KPI Details show a single indicator score and the change in that score compared to a previous period. The latest score KPI Details in the launcher screen displays the single score value, the time of the change, and the compare-to date.
 
-    Tap the latest score KPI Details to display a detailed chart. Alternatively, you can navigate to a [[chart-screen|chart screen]] via a navigation button. To magnify or contract the chart view, spread or pinch your fingers on the screen. You can also configure indicator targets to highlight on a chart the goals you want to achieve.
+    Tap the latest score KPI Details to display a detailed chart. Alternatively, you can navigate to a chart screen via a navigation button. To magnify or contract the chart view, spread or pinch your fingers on the screen. You can also configure indicator targets to highlight on a chart the goals you want to achieve.
 
     **Note:** The ability to magnify charts is available for the Android operating system.
 
@@ -35,7 +35,3 @@ The [[mobile-config-navigation|mobile platform]] supports the KPI Details latest
     -   Data configuration: Direction property; target and gap calculations in chart screen
     -   Style configuration: Change color
 
-## Related
-
-- [[mobile-config-navigation|Mobile Platform]]
-- [[chart-screen|Chart screen]]

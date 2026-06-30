@@ -22,8 +22,8 @@ Role required: assessment\_admin or admin
 
 You can only edit a quiz that has the same application scope as that of your current session.
 
--   Questions that you add are available only on [[c_Quizzes|quizzes]] that are distributed after the update.
--   Before a quiz is submitted or during the [[t_EnableAQuizRetake|retake period]]:
+-   Questions that you add are available only on quizzes that are distributed after the update.
+-   Before a quiz is submitted or during the [retake period](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_EnableAQuizRetake.md):
     -   Changes to existing questions are immediately available to users. This includes changes to the answers, such as additional choices or changes to the data type.
     -   Deleted questions are deleted from distributed quizzes in users' queues.
 
@@ -65,22 +65,15 @@ Open a quiz from the list and click **Quiz Designer** in the header of the Asses
 
 </td></tr></tbody>
 </table>
--   **[[t_ConfigureAScoredQuestion|Configure a scored question]]**  
+-   **[Configure a scored question](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ConfigureAScoredQuestion.md)**  
 Only scored questions are considered when calculating category and quiz results.
--   **[[t_ConfigureATemplateQuestion|Configure a template question]]**  
+-   **[Configure a template question](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ConfigureATemplateQuestion.md)**  
 You can configure template questions when designing quizzes.
 
-**Parent Topic:**[[c_QuizDesigner|Quiz designer]]
+**Parent Topic:**[Quiz designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_QuizDesigner.md)
 
 **Related topics**  
 
 
 [Quiz designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_QuizDesigner.md)
 
-## Related
-
-- [[t_EnableAQuizRetake|Enable a quiz retake]]
-- [[t_ConfigureAScoredQuestion|Configure a scored question]]
-- [[t_ConfigureATemplateQuestion|Configure a template question]]
-- [[c_QuizDesigner|Quiz designer]]
-- [[c_Quizzes|Quizzes]]

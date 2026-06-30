@@ -12,7 +12,7 @@ breadcrumb: [HTML sanitizer]
 
 # Enabling HTML sanitizer
 
-The [[c_HTMLSanitizer|HTML sanitizer]] provides a property to enable or disable the sanitizer for all HTML fields in the system.
+The HTML sanitizer provides a property to enable or disable the sanitizer for all HTML fields in the system.
 
 ## Before you begin
 
@@ -28,13 +28,8 @@ By default, the property is set to true for new instances.
 
 2.  Set the properties **glide.html.sanitize\_all\_fields** and **glide.translated\_html.sanitize\_all\_fields** to **true**.
 
-    **Note:** To learn more about this property, see [Enable HTML Sanitizer \[Updated in [[sec-center-v2|Security Center]] 1.3\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-html-sanitizer.md) in Instance [[sc-hardening|Security Hardening]] Settings.
+    **Note:** To learn more about this property, see [Enable HTML Sanitizer \[Updated in Security Center 1.3\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-html-sanitizer.md) in Instance Security Hardening Settings.
 
-    If the properties do not exist in the [[ca-system-properties|System Properties]] table, you can add them.
+    If the properties do not exist in the System Properties table, you can add them.
 
-## Related
 
-- [[c_HTMLSanitizer|HTML sanitizer]]
-- [[sec-center-v2|Security Center]]
-- [[sc-hardening|Security hardening]]
-- [[ca-system-properties|System properties]]

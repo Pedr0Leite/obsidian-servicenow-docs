@@ -48,7 +48,7 @@ For example, to contact a vendor, such as the insurance administrator or payroll
 
 5.  Click **Suspend**.
 
-    The SLA stops progressing and the suspension notes appear in the [[activity-lxp|activity]] stream as work notes. You can continue to add work notes to a suspended case.
+    The SLA stops progressing and the suspension notes appear in the activity stream as work notes. You can continue to add work notes to a suspended case.
 
 6.  To resume a suspended HR case, open the case and click **Resume**.
 
@@ -57,6 +57,3 @@ For example, to contact a vendor, such as the insurance administrator or payroll
 
 **Parent Topic:**[Use HR Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_HRCaseManagement.md)
 
-## Related
-
-- [[activity-lxp|Activity]]

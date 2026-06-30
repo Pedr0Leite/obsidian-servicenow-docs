@@ -14,7 +14,7 @@ breadcrumb: [Scheduling and assigning equipment to tasks and crews, Scheduling a
 
 # Assign equipment to a planned crew
 
-Assign equipment to a planned crew to ensure they have tools for their work order tasks. Dispatchers can assign equipment through the ServiceNow AI Platform or [[dispatcher-activities|Dispatcher Workspace]]. Crew leaders can assign equipment or modify their crews through the Now Mobile Agent application.
+Assign equipment to a planned crew to ensure they have tools for their work order tasks. Dispatchers can assign equipment through the ServiceNow AI Platform or Dispatcher Workspace. Crew leaders can assign equipment or modify their crews through the Now Mobile Agent application.
 
 ## Assign equipment to planned crews through the ServiceNow AI Platform
 
@@ -63,7 +63,7 @@ Role required: wm\_ admin, wm\_dispatcher
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[fsm-application-landing-page|Field Service Management]]** &gt; **Dispatching** &gt; **Dispatcher Workspace**.
+1.  Navigate to **All** &gt; **Field Service Management** &gt; **Dispatching** &gt; **Dispatcher Workspace**.
 
 2.  Click **Dispatcher Workspace**.
 
@@ -134,7 +134,4 @@ Role required: wm\_crew\_leader
 
 6.  Tap **Submit**.
 
-## Related
 
-- [[dispatcher-activities|Dispatcher Workspace]]
-- [[fsm-application-landing-page|Field Service Management]]

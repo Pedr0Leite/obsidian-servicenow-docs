@@ -14,7 +14,7 @@ breadcrumb: [HR Administration, Configure, Case and Knowledge Management, HR Ser
 
 # HR security
 
-[[hr-service-delivery|HR Service Delivery]] provides Restricted Caller Access, Encryption Support, and Edge Encryption security features.
+HR Service Delivery provides Restricted Caller Access, Encryption Support, and Edge Encryption security features.
 
 **Parent Topic:**[HR Administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_AdministerHRServiceManagement.md)
 
@@ -44,7 +44,7 @@ To define cross-scope access to an application resource, refer to [Define cross-
 
 ## Encryption for HR and Employee Document Management
 
-HR Service Delivery and [[hr-employee-doc-management|Employee Document Management]] provides encryption to secure sensitive information.
+HR Service Delivery and Employee Document Management provides encryption to secure sensitive information.
 
 Encryption prevents unauthorized users from downloading and viewing employee documents or viewing specific fields. To encrypt employee documents or fields in HR, Field Encryption is activated by default and provides role-based encryption functions.
 
@@ -81,7 +81,3 @@ You can encrypt columns \(fields\) or attachments associated with an HR table. S
 
 **Note:** There are limitations when using edge encryption. See [Edge Encryption limitations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption-limitations.md).
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[hr-employee-doc-management|Employee Document Management]]

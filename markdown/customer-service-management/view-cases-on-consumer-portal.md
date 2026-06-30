@@ -29,9 +29,9 @@ Selecting a case or a task opens a form with the following sections:
 
 ## Procedure
 
-1.  [[log-in-to-consumer-portal|Log in to the Consumer Portal]].
+1.  Log in to the Consumer Portal.
 
-2.  Navigate to **Requests** &gt; **View submitted requests** &gt; **[[osp-view-cases|View cases]] and tasks** in the portal header to view a list of cases related to the current user.
+2.  Navigate to **Requests** &gt; **View submitted requests** &gt; **View cases and tasks** in the portal header to view a list of cases related to the current user.
 
 3.  Select any case to view more information about the case.
 
@@ -39,7 +39,4 @@ Selecting a case or a task opens a form with the following sections:
 
     Your message becomes part of the case conversation. All responses from the agent are also included in the conversation.
 
-## Related
 
-- [[log-in-to-consumer-portal|Log in to the Consumer Portal]]
-- [[osp-view-cases|View cases]]

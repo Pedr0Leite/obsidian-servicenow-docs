@@ -16,12 +16,12 @@ breadcrumb: [Procurement Case Management, Explore, Sourcing and Procurement Oper
 
 Agent assist in Source-to-Pay Workspace automatically displays relevant search results based on the search text, which is defaulted with the short description of the procurement case you’re working on. You can edit the search text as required. These search results help you to work on the record.
 
-Agent assist is part of the contextual side panel in [[purch-order-mgmt-ws|Source-to-Pay Workspace]]. By default, it displays knowledge articles as a resource, but can also display associated suppliers for a record if you select the resource as Suppliers.
+Agent assist is part of the contextual side panel in Source-to-Pay Workspace. By default, it displays knowledge articles as a resource, but can also display associated suppliers for a record if you select the resource as Suppliers.
 
-For [[psm-overview|Sourcing and Procurement Operations]], Agent assist is configured for the following procurement objects:
+For Sourcing and Procurement Operations, Agent assist is configured for the following procurement objects:
 
--   [[purchase-requisition|Purchase requisition]]
--   [[sourcing-request|Sourcing request]]
+-   Purchase requisition
+-   Sourcing request
 -   Negotiation
 -   Sourcing event
 
@@ -29,9 +29,3 @@ For information on how Agent assist is set up and configured on the ServiceNow A
 
 **Parent Topic:**[Procurement Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/psd-overview.md)
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[psm-overview|Sourcing and Procurement Operations]]
-- [[purchase-requisition|Purchase requisition]]
-- [[sourcing-request|Sourcing request]]

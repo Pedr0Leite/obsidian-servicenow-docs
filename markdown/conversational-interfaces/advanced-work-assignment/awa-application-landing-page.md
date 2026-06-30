@@ -14,7 +14,7 @@ breadcrumb: [Manage people and work, Conversational Interfaces]
 
 # Advanced Work Assignment
 
-Advanced Work Assignment \(AWA\) automatically assigns [[awa-work-items|work items]] to your agents, based on their availability, capacity, and optionally, skills. AWA pushes work to qualified agents using [[awa-queues|work item queues]], routing conditions, and assignment criteria that you define.
+Advanced Work Assignment \(AWA\) automatically assigns work items to your agents, based on their availability, capacity, and optionally, skills. AWA pushes work to qualified agents using work item queues, routing conditions, and assignment criteria that you define.
 
 ## Get started
 
@@ -28,7 +28,7 @@ Advanced Work Assignment \(AWA\) automatically assigns [[awa-work-items|work ite
 
 </td><td>
 
-[Use\[Omitted image "bus-person.svg"\] Alt text:Use Advanced Work Assignment \(AWA\) to compose SMS conversations, [[awa-work-items-all|check work items and AWA events]], and enable logging.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/using-awa.md)
+[Use\[Omitted image "bus-person.svg"\] Alt text:Use Advanced Work Assignment \(AWA\) to compose SMS conversations, check work items and AWA events, and enable logging.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/using-awa.md)
 
 </td></tr><tr><td>
 
@@ -44,9 +44,3 @@ Advanced Work Assignment \(AWA\) automatically assigns [[awa-work-items|work ite
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[awa-work-items|Work items]]
-- [[awa-queues|Work item queues]]
-- [[awa-work-items-all|Check work items and AWA events]]

@@ -16,8 +16,5 @@ If a narrative disclosure specifies a single approver or multiple approvers duri
 
 When creating a disclosure, you have the choice to specify one or multiple approvers. If multiple approvers are designated, all the approvers must give their approval for the disclosure to transition to the **Completed** state. In the event that any approver rejects the disclosure, it moves back to the **Work in Progress** state, requiring resubmission to the approvers for approval.
 
-**Parent Topic:**[[esg-disclosures|Disclosures in Operational Sustainability Management \(formerly ESG Management\)]]
+**Parent Topic:**[Disclosures in Operational Sustainability Management \(formerly ESG Management\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/esg-disclosures.md)
 
-## Related
-
-- [[esg-disclosures|Disclosures in Operational Sustainability Management \(formerly ESG Management\)]]

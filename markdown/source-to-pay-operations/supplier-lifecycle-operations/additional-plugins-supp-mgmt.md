@@ -14,7 +14,7 @@ breadcrumb: [Install Supplier Collaboration Portal, Configure, Supplier Lifecycl
 
 # Additional plugins for Supplier Collaboration Portal
 
-After installing the [[supplier-central|Supplier Collaboration Portal]] application, you can activate additional plugins to enable additional features.
+After installing the Supplier Collaboration Portal application, you can activate additional plugins to enable additional features.
 
 You must have the admin role to activate these additional plugins. For details, see [Activate a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md).
 
@@ -40,7 +40,7 @@ GRC: Vendor Portal \[sn\_grc\_vendor\_portal\]
 
 </td><td>
 
-Enables [[supplier|Supplier]] Contacts to view a list of open and closed risk assessments on the Vendor Risk page in the Vendor Assessment Portal \(Governance, Risk, and Compliance \(GRC\): Vendor Portal\).**Note:** The GRC: Vendor Portal is installed as a dependent plugin with GRC: Vendor Risk Management.
+Enables Supplier Contacts to view a list of open and closed risk assessments on the Vendor Risk page in the Vendor Assessment Portal \(Governance, Risk, and Compliance \(GRC\): Vendor Portal\).**Note:** The GRC: Vendor Portal is installed as a dependent plugin with GRC: Vendor Risk Management.
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Install Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/install-supp-central.md)
@@ -50,7 +50,3 @@ Enables [[supplier|Supplier]] Contacts to view a list of open and closed risk as
 
 [Install Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/install-supp-central.md)
 
-## Related
-
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[supplier|Supplier]]

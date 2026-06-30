@@ -12,7 +12,7 @@ breadcrumb: [Install Now Assist plugins, Configuring Now Assist Admin features, 
 
 # Now Assist suite versions
 
-The Application Manager uses Now Assist suite versions to verify compatibility between multiple [[platform-now-assist-landing|Now Assist]] applications in one instance.
+The Application Manager uses Now Assist suite versions to verify compatibility between multiple Now Assist applications in one instance.
 
 ## Now Assist Suite overview
 
@@ -83,6 +83,3 @@ In this case, you can choose to install the older version of Now Assist for ITSM
 
 **Note:** Not updating the suite version might not be an option. Depending on compatibility of a new Now Assist application, you might have to update your Now Assist suite version to complete installation.
 
-## Related
-
-- [[platform-now-assist-landing|Now Assist]]

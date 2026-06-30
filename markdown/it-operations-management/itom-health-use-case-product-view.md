@@ -12,13 +12,13 @@ breadcrumb: [ITOM AIOps, IT Operations Management]
 
 # Applying the CSDM guidelines to ITOM AIOps
 
-[[itom-health-landing-page|ITOM AIOps]] helps you track and maintain the health of services in your organization. ITOM AIOps CSDM reference serves as a foundational blueprint for maintaining optimal IT operations by standardizing data models and processes. The main goal is to help you understand the two main capabilities that work together within the CSDM framework.
+ITOM AIOps helps you track and maintain the health of services in your organization. ITOM AIOps CSDM reference serves as a foundational blueprint for maintaining optimal IT operations by standardizing data models and processes. The main goal is to help you understand the two main capabilities that work together within the CSDM framework.
 
 ITOM AIOps consists of two main capabilities that use the CSDM framework.
 
--   **[[c_EM|Event Management]]**
+-   **Event Management**
 
-    Event Management gathers alerts from infrastructure events captured by third-party monitoring tools. Event Management uses IT-related information gathered by [[r-discovery|Discovery]] to map alerts to CIs. Based on the collected information, Event Management then provides [[otto-aiops-dashboards|dashboards]] showing a consolidated view of all service-impact events.
+    Event Management gathers alerts from infrastructure events captured by third-party monitoring tools. Event Management uses IT-related information gathered by Discovery to map alerts to CIs. Based on the collected information, Event Management then provides dashboards showing a consolidated view of all service-impact events.
 
 -   **Metric Anomaly Detection**
 
@@ -29,9 +29,3 @@ For CSDM set-up information, see [Implementing the CSDM framework in stages](htt
 
 For more information on CSDM framework, see [Exploring the CSDM model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/csdm-content-frame-exploring.md).
 
-## Related
-
-- [[itom-health-landing-page|ITOM AIOps]]
-- [[c_EM|Event Management]]
-- [[r-discovery|Discovery]]
-- [[otto-aiops-dashboards|Dashboards]]

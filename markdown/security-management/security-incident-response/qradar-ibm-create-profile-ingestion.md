@@ -22,7 +22,7 @@ Role required: sn\_si.admin
 
 ## Procedure
 
-1.  If the [[mapping-logrhythm|mapping]] form is not displayed, select **Mapping** on the progress bar.
+1.  If the mapping form is not displayed, select **Mapping** on the progress bar.
 
 2.  You can either pull the three most recent sample offenses or provide the unique offense IDs for the specific offenses that you want to use for your mapping experience.
 
@@ -88,6 +88,3 @@ Role required: sn\_si.admin
 
 After you have fetched the sample data, the next step is map the offense fields to the security incident.
 
-## Related
-
-- [[mapping-logrhythm|Mapping]]

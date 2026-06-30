@@ -13,7 +13,7 @@ breadcrumb: [Email Interaction, Email channel, Enable communication channels, Co
 
 # Configure flows for incoming emails that create and update interactions
 
-The default email flows are available once you activate the [[email-as-an-interaction|Email Interaction]] for CSM application. Enable the email flows to activate email processing for automatic creation and updating interactions.
+The default email flows are available once you activate the Email Interaction for CSM application. Enable the email flows to activate email processing for automatic creation and updating interactions.
 
 -   **Create Interaction from Email**: Creates an interaction of type Email for each new inbound email from a customer.
 -   **Update Interaction from Email**: Updates the interaction with the reply email received from the customer.
@@ -29,6 +29,3 @@ Alternatively, customers can use Inbound Actions to create and update email inte
 
 The execution order of the Inbound Flows takes a higher precedence over Inbound Actions meaning that when an email flow executes, it helps prevent execution of Inbound Actions.
 
-## Related
-
-- [[email-as-an-interaction|Email Interaction]]

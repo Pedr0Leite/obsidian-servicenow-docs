@@ -14,7 +14,7 @@ breadcrumb: [Testing using Test Management 2.0, Test Management 2.0, Test Manage
 
 # Create a test set in Test Management 2.0
 
-Group related [[c_Tests|tests]] into a test set. Test sets help you find tests by category or tag.
+Group related tests into a test set. Test sets help you find tests by category or tag.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_test\_management.tester or sn\_test\_management.test\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[test-management2-landing-page|Test Management 2.0]]** &gt; **Test Sets**.
+1.  Navigate to **All** &gt; **Test Management 2.0** &gt; **Test Sets**.
 
 2.  Click **New**.
 
@@ -57,7 +57,3 @@ To change the order of steps within an individual test, see [Create a test in Te
 
 [Run your test assignments in Test Management 2.0]()
 
-## Related
-
-- [[c_Tests|Tests]]
-- [[test-management2-landing-page|Test Management 2.0]]

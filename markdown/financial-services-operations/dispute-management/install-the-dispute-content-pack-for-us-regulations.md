@@ -24,7 +24,7 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications**.
 
-2.  Find the [[dispute-content-pack-for-us-regulation-landing-page|Dispute Content Pack for US Regulations]] application \(sn\_disp\_reg\_cp\_us\) using the filter criteria and search bar.
+2.  Find the Dispute Content Pack for US Regulations application \(sn\_disp\_reg\_cp\_us\) using the filter criteria and search bar.
 
     You can search for the application by its name or ID. If you can't find the application, you might have to request it from the ServiceNow Store.
 
@@ -43,6 +43,3 @@ Role required: admin
 
 **Parent Topic:**[Dispute Content Pack for US Regulations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/dispute-content-pack-for-us-regulation-landing-page.md)
 
-## Related
-
-- [[dispute-content-pack-for-us-regulation-landing-page|Dispute Content Pack for US Regulations]]

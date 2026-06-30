@@ -15,7 +15,7 @@ breadcrumb: [Playbook for updating the invoice primary data, Use, Accounts Payab
 
 # Document Intelligence processing with playbook
 
-[[invoices|Invoices]] ingested through Document Intelligence may require manual actions by Accounts Payable specialists or administrators when automated processing is unavailable or requires intervention.
+Invoices ingested through Document Intelligence may require manual actions by Accounts Payable specialists or administrators when automated processing is unavailable or requires intervention.
 
 The following scenarios occur when Document Intelligence process a document:
 
@@ -34,6 +34,3 @@ Manually create an invoice for processing when Document Intelligence is unavaila
 
 **Parent Topic:**[Playbook for updating the invoice primary data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/playbooks.md)
 
-## Related
-
-- [[invoices|Invoices]]

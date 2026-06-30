@@ -39,12 +39,12 @@ After completing the [Microsoft 365 integration](https://raw.githubusercontent.c
 
 -   [Microsoft 365 Apps Usage Reports \[samp\_m365\_apps\_usage\_report\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/m365-apps-usage-report.md)
 
-    View the last activity date for the Microsoft 365 products in the [[m365-apps-usage-report|Microsoft 365 Apps Usage Reports]] table for each user. This table stores usage data for Microsoft 365 products in True or False retrieved from Microsoft APIs only. The last activity date helps you determine reclamation candidates more accurately for Microsoft 365 products, including Microsoft Outlook, Microsoft Word, Excel Microsoft PowerPoint, and OneNote. For more details on Microsoft 365 apps usage fields and their descriptions, see [Microsoft 365 Apps Usage Reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/m365-apps-usage-report.md).
+    View the last activity date for the Microsoft 365 products in the Microsoft 365 Apps Usage Reports table for each user. This table stores usage data for Microsoft 365 products in True or False retrieved from Microsoft APIs only. The last activity date helps you determine reclamation candidates more accurately for Microsoft 365 products, including Microsoft Outlook, Microsoft Word, Excel Microsoft PowerPoint, and OneNote. For more details on Microsoft 365 apps usage fields and their descriptions, see [Microsoft 365 Apps Usage Reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/m365-apps-usage-report.md).
 
 
 These usage tables include the date when the software was last used and the type of the activities performed on the Desktop, Web, Mobile, or cumulative across platforms. The last activity data helps you select an optimized plan for individual products within your Microsoft 365 subscriptions. For related usage, the  **SAM - Collect Microsoft 365 Usage ** scheduled job collects the usage data daily.
 
-Based on the software usage activity, [[c_SoftwareAssetMgmt|Software Asset Management]] generates optimization recommendations for your software subscriptions.
+Based on the software usage activity, Software Asset Management generates optimization recommendations for your software subscriptions.
 
 ## License optimization for Microsoft subscriptions
 
@@ -52,7 +52,7 @@ Software usage activity helps you with license optimization by discovering recla
 
 -   **Overlapping subscriptions**
 
-    Overlapping [[microsoft-o365|Microsoft 365 integration]] subscriptions occur when a user or organization has several active subscriptions that provide the same or similar services at the same time. For example, both Microsoft 365 E3 and Office 365 E3 subscriptions exist, leading to unnecessary duplicate access to Office applications and additional services already included in Microsoft 365 E3. Software Asset Management recommends reclaiming the Office 365 E3 subscriptions and using the Microsoft 365 E3 subscriptions instead.
+    Overlapping Microsoft 365 integration subscriptions occur when a user or organization has several active subscriptions that provide the same or similar services at the same time. For example, both Microsoft 365 E3 and Office 365 E3 subscriptions exist, leading to unnecessary duplicate access to Office applications and additional services already included in Microsoft 365 E3. Software Asset Management recommends reclaiming the Office 365 E3 subscriptions and using the Microsoft 365 E3 subscriptions instead.
 
 -   **Low usage subscriptions**
 
@@ -145,8 +145,3 @@ Additionally, the subscription assignment date that is automatically populated f
 
 [Scheduled jobs for Microsoft 365](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/m365-scheduled-jobs.md)
 
-## Related
-
-- [[m365-apps-usage-report|Microsoft 365 Apps Usage Reports]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[microsoft-o365|Microsoft 365 integration]]

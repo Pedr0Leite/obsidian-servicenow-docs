@@ -22,7 +22,7 @@ Role required: sn\_gf.goal\_user
 
 ## About this task
 
-**Note:** Only the owner or contributors of the goal can update the [[target-breakdowns-gf|target breakdowns]].
+**Note:** Only the owner or contributors of the goal can update the target breakdowns.
 
 ## Procedure
 
@@ -58,7 +58,7 @@ Steps
 
 
 </td></tr></tbody>
-</table>2.  On the [[target-form|Target form]], update the **Actual** field and add a business justification in the **Remark** field.
+</table>2.  On the Target form, update the **Actual** field and add a business justification in the **Remark** field.
 
     For field information, see [Target Breakdown form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/target-breakdown-form.md).
 
@@ -76,7 +76,3 @@ After the **Actual** field is updated, the progress value for the target and its
 
 [Update the progress of a target using Goal Framework for SPM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/update-progress-of-target-agf.md)
 
-## Related
-
-- [[target-breakdowns-gf|Target breakdowns]]
-- [[target-form|Target form]]

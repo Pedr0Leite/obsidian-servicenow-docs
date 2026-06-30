@@ -14,7 +14,7 @@ breadcrumb: [Create and maintain racks and cabinets, Manually creating and revie
 
 # Create a rack
 
-Create a rack to add, organize equipment, rack units, and manage all assets. You can also edit a rack using the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+Create a rack to add, organize equipment, rack units, and manage all assets. You can also edit a rack using the Telecommunications Network Inventory application.
 
 ## Before you begin
 
@@ -27,19 +27,19 @@ A rack contains rack units represented as slots having shelves, and equipment in
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then go to **Inventory** &gt; **Rack**.
 
 3.  Select **New**.
 
-4.  On the [[tni-equipment-holder-form-configuration|Equipment Holder form]], fill in the fields.
+4.  On the Equipment Holder form, fill in the fields.
 
     To learn more, see [Equipment Holder form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/tni-equipment-holder-form-configuration.md).
 
 5.  Select **Set Inventory Attributes**.
 
-6.  On the [[ci-attribue-form|TNI CI Attributes form]], fill in the fields.
+6.  On the TNI CI Attributes form, fill in the fields.
 
     To learn more about the fields, see [TNI CI Attributes form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/ci-attribue-form.md).
 
@@ -59,9 +59,3 @@ Edit a rack to remove, add, or move the equipment from the selected rack. Organi
 
 **Parent Topic:**[Create and maintain racks and cabinets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-and-maintain-rack-and-cabinet.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[tni-equipment-holder-form-configuration|Equipment Holder form]]
-- [[ci-attribue-form|TNI CI Attributes form]]

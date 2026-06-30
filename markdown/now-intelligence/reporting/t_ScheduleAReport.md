@@ -20,13 +20,13 @@ Generate and distribute scheduled reports via email.
 
 Role required: report\_scheduler, report\_admin, admin
 
-This topic refers to [[reporting-landing-page|Reporting]] in the Core UI. For instances migrated to [[par-workspace|Platform Analytics experience]] and new Australia instances, see [[schedule-visn-export-vd|Schedule the export of data visualizations or dashboards]].
+This topic refers to Reporting in the Core UI. For instances migrated to Platform Analytics experience and new Australia instances, see [Schedule the export of data visualizations or dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/schedule-visn-export-vd.md).
 
 ## About this task
 
 Scheduled reports can be distributed in PDF, CSV, or XLS format. Graphical reports can be distributed in PNG or PDF format. Multilevel pivot reports can only be scheduled in PDF format.
 
-This topic refers to Reporting in the Core UI. If your instance is migrated to Platform Analytics experience, see [[export-visualization-vd|Export a data visualization from the Visualization Designer]].
+This topic refers to Reporting in the Core UI. If your instance is migrated to Platform Analytics experience, see [Export a data visualization from the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/export-visualization-vd.md).
 
 **Note:**
 
@@ -38,7 +38,7 @@ This topic refers to Reporting in the Core UI. If your instance is migrated to P
 
 1.  Navigate to **All** &gt; **Platform Analytics experience** &gt; **Schedules** &gt; **Scheduled Reports**.
 
-    On instances with Unified Analytics enabled, and on new Australia instances, both Core UI reports and Platform Analytics experience data visualizations are found in the [[c_performanceAnalyticsAndReporting|Platform Analytics]] library. Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**. For more information, see [[differences-between-core-ui-ne-dbs|Differences between Core UI and Platform Analytics dashboards]].
+    On instances with Unified Analytics enabled, and on new Australia instances, both Core UI reports and Platform Analytics experience data visualizations are found in the Platform Analytics library. Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**. For more information, see [Differences between Core UI and Platform Analytics dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/differences-between-core-ui-ne-dbs.md).
 
 2.  Select **New**.
 
@@ -301,7 +301,7 @@ Type
 
 </td><td>
 
-Report output type. Graphical reports can be PNG or PDF files. [[list-reports|List reports]] can be PDF, Excel, or CSV files.When scheduling a graphical report, select the output type **PDF** or **PDF-landscape** to include the chart grid data. When scheduling a List report, select output type **Excel** or **CSV**.
+Report output type. Graphical reports can be PNG or PDF files. List reports can be PDF, Excel, or CSV files.When scheduling a graphical report, select the output type **PDF** or **PDF-landscape** to include the chart grid data. When scheduling a List report, select output type **Excel** or **CSV**.
 
 Select **Embedded PNG** to embed the report visualization in the body of the email. Large images are scaled to fit the email.
 
@@ -355,7 +355,7 @@ Shows when **Page size** is set to **Custom**. For non-standard paper sizes, mul
 
 ## What to do next
 
-To edit a scheduled email report, open it from the Scheduled Reports list. To [[delete-report|delete a report]], delete its row from the Scheduled Reports list.
+To edit a scheduled email report, open it from the Scheduled Reports list. To delete a report, delete its row from the Scheduled Reports list.
 
 **Parent Topic:**[Distribute reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_DistributeReports.md)
 
@@ -377,7 +377,7 @@ PDF
 
 </td><td>
 
-Generate a PDF in portrait or landscape orientation. PDF reports include the chart grid data. [[c_MapReport|Map reports]] cannot be exported to PDF format. **Note:** To export [Multilevel pivot tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_MultilevelPivotCharts.md) to PDF, you must enable the Webkit HTML to PDF \(com.snc.whtp\) plugin.
+Generate a PDF in portrait or landscape orientation. PDF reports include the chart grid data. Map reports cannot be exported to PDF format. **Note:** To export [Multilevel pivot tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_MultilevelPivotCharts.md) to PDF, you must enable the Webkit HTML to PDF \(com.snc.whtp\) plugin.
 
 </td></tr><tr><td>
 
@@ -419,14 +419,3 @@ If the data in the scheduled report is different than expected, the user who set
 
 [Report\_view access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-view-access-control.md)
 
-## Related
-
-- [[schedule-visn-export-vd|Schedule the export of data visualizations or dashboards]]
-- [[export-visualization-vd|Export a data visualization from the Visualization Designer]]
-- [[differences-between-core-ui-ne-dbs|Differences between Core UI and Platform Analytics dashboards]]
-- [[reporting-landing-page|Reporting]]
-- [[par-workspace|Platform Analytics experience]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[list-reports|List reports]]
-- [[delete-report|Delete a report]]
-- [[c_MapReport|Map reports]]

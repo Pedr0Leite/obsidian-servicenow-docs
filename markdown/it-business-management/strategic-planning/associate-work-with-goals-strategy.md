@@ -14,7 +14,7 @@ breadcrumb: [Manage enterprise goals, Strategy and Goals, Strategic Planning, St
 
 # Align work with a goal or target
 
-[[create-goal|Create a goal]] or target relationship with a planning item or any other item to identify and associate your current or future work and achieve your goals and targets.
+Create a goal or target relationship with a planning item or any other item to identify and associate your current or future work and achieve your goals and targets.
 
 ## Before you begin
 
@@ -30,11 +30,11 @@ You can create goal or target relationships with a custom planning item from the
 
 **Note:** When a goal or target relationship is created with a planning item \(Project, Demand, or Epic\) or any other ServiceNow AI Platform table record, the record appears on the Aligned work tab on the goal record.
 
-\[Omitted image "align-work-goal-strategy.gif"\] Alt text: Align work with goals in [[strategy-goals-landing-page|Strategy and Goals]].
+\[Omitted image "align-work-goal-strategy.gif"\] Alt text: Align work with goals in Strategy and Goals.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** &gt; **Strategy and Goals**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Strategy and Goals**.
 
 2.  On the Strategy and Goals page, select the goal-based board for which your goal or target belongs to.
 
@@ -64,8 +64,3 @@ You can create goal or target relationships with a custom planning item from the
 
 [Send a reminder for target actuals check in](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/send-reminder-target-checkin-strategy.md)
 
-## Related
-
-- [[create-goal|Create a goal]]
-- [[strategy-goals-landing-page|Strategy and Goals]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

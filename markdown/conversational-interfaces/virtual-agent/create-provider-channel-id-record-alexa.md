@@ -52,7 +52,7 @@ Provider
 
 Provider channel that you created.Select **VA Alexa Adapter Provider** as the provider channel.
 
- **Note:** The provider is available with the installation of the [[conv-integ-alexa|Conversational Integration with Alexa]] plugin \(sn\_va\_alexa\).
+ **Note:** The provider is available with the installation of the Conversational Integration with Alexa plugin \(sn\_va\_alexa\).
 
 </td></tr><tr><td>
 
@@ -68,7 +68,7 @@ Short description
 
 </td><td>
 
-Short description for your channel identifier.For security reasons, the [[virtual-agent-landing-page|Virtual Agent]] checks that the URLs for attachments in conversations are from trusted domains specified here. If the URL is not from a trusted domain, the Virtual Agent does not upload the attachment.
+Short description for your channel identifier.For security reasons, the Virtual Agent checks that the URLs for attachments in conversations are from trusted domains specified here. If the URL is not from a trusted domain, the Virtual Agent does not upload the attachment.
 
  If an attachment upload fails because Virtual Agent did not trust the domain, Virtual Agent does not inform the end user about the attachment upload failure.
 
@@ -100,7 +100,3 @@ Identifier for your bot.In this field, provide your Alexa Skill ID that you copi
 
 **Parent Topic:**[Set up Conversational Integration with Alexa](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/setup-alexa.md)
 
-## Related
-
-- [[conv-integ-alexa|Conversational Integration with Alexa]]
-- [[virtual-agent-landing-page|Virtual Agent]]

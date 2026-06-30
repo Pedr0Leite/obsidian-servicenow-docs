@@ -14,7 +14,7 @@ breadcrumb: [Manage supplier cases, Using Source-to-Pay Workspace, Use, Supplier
 
 # Reopen a supplier case from the Source-to-Pay Workspace
 
-Reopen a closed [[supplier|supplier]] case if you are not satisfied with the case resolution.
+Reopen a closed supplier case if you are not satisfied with the case resolution.
 
 ## Before you begin
 
@@ -33,13 +33,13 @@ The **Re-open** option is not available for the auto-closing supplier cases of t
 -   Onboard new supplier
 -   Enroll new supplier user
 -   Account access request
--   Offboard [[supplier-contact|supplier contact]]
+-   Offboard supplier contact
 -   Primary contact elevation
 -   Request supplier contact
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
 2.  Select the list icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon.\).
 
@@ -70,9 +70,3 @@ The following occurs:
 
 [Manage supplier cases from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/managing-cases.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[supplier-contact|Supplier contact]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

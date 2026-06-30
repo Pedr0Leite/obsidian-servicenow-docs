@@ -14,7 +14,7 @@ breadcrumb: [Configuring Virtual Agent notifications, Configure, Virtual Agent, 
 
 # Define the Virtual Agent link actions to notification content
 
-Create the link actions for [[virtual-agent-landing-page|Virtual Agent]] notification content to be delivered in a chat or messaging channel as actionable notifications.
+Create the link actions for Virtual Agent notification content to be delivered in a chat or messaging channel as actionable notifications.
 
 ## Before you begin
 
@@ -126,11 +126,7 @@ Actions listed in an event parameter.Users and actions cannot both be passed int
 
 ## What to do next
 
-[[enable-va-notifications|Enable Virtual Agent notifications]]. For more information, see [Enable Virtual Agent notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/enable-va-notifications.md).
+Enable Virtual Agent notifications. For more information, see [Enable Virtual Agent notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/enable-va-notifications.md).
 
 **Parent Topic:**[Configuring Virtual Agent notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configuring-va-notifications.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[enable-va-notifications|Enable Virtual Agent notifications]]

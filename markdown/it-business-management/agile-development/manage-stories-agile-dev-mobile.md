@@ -16,7 +16,7 @@ breadcrumb: [Mobile experience for Agile Development 2.0, Agile Development, Str
 
 View, edit, and update the details of stories assigned for the current sprint on your mobile device.
 
-On your mobile device, open the Mobile Agent app and navigate to [[agile-development|Agile Development]] v2. Perform the following actions with the role of scrum\_product\_owner, scrum\_team\_member, or scrum\_master.
+On your mobile device, open the Mobile Agent app and navigate to Agile Development v2. Perform the following actions with the role of scrum\_product\_owner, scrum\_team\_member, or scrum\_master.
 
 **Parent Topic:**[Mobile experience for Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/agile-2-mobile-app-overview.md)
 
@@ -62,7 +62,7 @@ Tap a story to view more details. For example, you can view the epic, acceptance
 
 ## Update a story on Agile Development v2
 
-Edit and update the details of your [[agile-landing-page|Agile Development 2.0]] stories from your mobile device.
+Edit and update the details of your Agile Development 2.0 stories from your mobile device.
 
 ### Before you begin
 
@@ -91,7 +91,4 @@ Role required: scrum\_product\_owner, scrum\_team\_member, or scrum\_master
 
         Available options include adding work notes, files, pictures, and so on.
 
-## Related
 
-- [[agile-development|Agile Development]]
-- [[agile-landing-page|Agile Development 2.0]]

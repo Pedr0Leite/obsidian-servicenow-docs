@@ -17,14 +17,9 @@ breadcrumb: [Employee Document Management, HR Documents, HR Service Delivery, Em
 Manage employee documents and learn about bulk imports.
 
 -   **[Managing employee documents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/hr-doc-management-admin.md)**  
-Use [[hr-employee-doc-management|Employee Document Management]] to search, create, move, or manage legal holds on employee documents.
+Use Employee Document Management to search, create, move, or manage legal holds on employee documents.
 -   **[Employee document management bulk imports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/edm-bulk-uploads.md)**  
-Use the [[edm-bulk-uploads|Employee Document Management Bulk Imports]] feature to copy your employee documents from an external third-party cloud-based storage or a local network directory to Employee Document Management. Having your employee documents within [[hr-service-delivery|HR Service Delivery]] makes administration efficient and convenient.
+Use the Employee Document Management Bulk Imports feature to copy your employee documents from an external third-party cloud-based storage or a local network directory to Employee Document Management. Having your employee documents within HR Service Delivery makes administration efficient and convenient.
 
 **Parent Topic:**[Employee Document Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/hr-employee-doc-management.md)
 
-## Related
-
-- [[hr-employee-doc-management|Employee Document Management]]
-- [[edm-bulk-uploads|Employee document management bulk imports]]
-- [[hr-service-delivery|HR Service Delivery]]

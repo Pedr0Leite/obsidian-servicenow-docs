@@ -58,7 +58,7 @@ Order
 
 </td><td>
 
-When you have multiple pieces of content that appear in a carousel, you can define the order they appear.Enter a number defining the order the content appears on the service portal or [[employee-center-landing-page|Employee Center]]. Content appears closer to the beginning of the carousel when assigned a lower number.
+When you have multiple pieces of content that appear in a carousel, you can define the order they appear.Enter a number defining the order the content appears on the service portal or Employee Center. Content appears closer to the beginning of the carousel when assigned a lower number.
 
 **Note:** Use increments of 100 when determining the order. This method makes it easier to edit. For example, you numbered your links 1, 2, 3, 4, 5 and wanted to place a new content after 2. You would have to renumber 3, 4, and 5. If you use 100, 200, and 300 and wanted to place content from 100 through 200, you would simply use any number from 101 through 199.
 
@@ -76,7 +76,7 @@ Link
 
 </td><td>
 
-The URL link to content you want to appear on the Employee Center or [[employee-center-pro-landing|Employee Center Pro]].Select the Lookup using list icon \(\[Omitted image "magnify-glass-outline-icon.png"\] Alt text: Lookup using list icon\) to view a list of link content.
+The URL link to content you want to appear on the Employee Center or Employee Center Pro.Select the Lookup using list icon \(\[Omitted image "magnify-glass-outline-icon.png"\] Alt text: Lookup using list icon\) to view a list of link content.
 
 **Note:** Depending on your configurations or extensions, your link may open in a new window.
 
@@ -103,7 +103,7 @@ The image the URL is embedded in. Select the **Click to add an image** link to a
 
     -   **Content Governance**
 
-        When [[ec-streamline-content|portal content]] is requested from Content Governance, the **Content Request Items** related list tab appears. Select the content request item to view information about the request. For more information, see [Edit a content request item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-gov-request.md).
+        When portal content is requested from Content Governance, the **Content Request Items** related list tab appears. Select the content request item to view information about the request. For more information, see [Edit a content request item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-gov-request.md).
 
         When the **Content Request Item** has a state of **Work in Progress**, the **Send for Review** button appears.
 
@@ -111,8 +111,4 @@ The image the URL is embedded in. Select the **Click to add an image** link to a
 
         **Note:** To edit the content after a review, the content request item state must be changed to **Work in Progress**.
 
-## Related
 
-- [[employee-center-landing-page|Employee Center]]
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[ec-streamline-content|Portal content]]

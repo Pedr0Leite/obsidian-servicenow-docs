@@ -14,7 +14,7 @@ breadcrumb: [Workplace Service Delivery, Employee Service Management]
 
 # Workplace Concierge
 
-The Workplace Concierge application is a [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] application designed to provide employees with real-time insights to optimize their workplace experience.
+The Workplace Concierge application is a Workplace Service Delivery application designed to provide employees with real-time insights to optimize their workplace experience.
 
 ## Get started
 
@@ -24,7 +24,7 @@ The Workplace Concierge application is a [[workplace-service-delivery-suite-land
 
 </td><td>
 
-[Configure\[Omitted image "bus-sdlc.svg"\] Alt text: [[install-workplace-concierge|Install Workplace Concierge]] to get started.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/configure-workplace-concierge.md)
+[Configure\[Omitted image "bus-sdlc.svg"\] Alt text: Install Workplace Concierge to get started.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/configure-workplace-concierge.md)
 
 </td><td>
 
@@ -36,7 +36,7 @@ The Workplace Concierge application is a [[workplace-service-delivery-suite-land
 
 </td><td>
 
-[Components \[Omitted image "bus-learn.svg"\] Alt text:Get details about the components installed and key features of Workplace Concierge.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/workplace-concierge-[[reference-hr-service-delivery-advanced-integration-with-workday|reference]].md)
+[Components \[Omitted image "bus-learn.svg"\] Alt text:Get details about the components installed and key features of Workplace Concierge.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/workplace-concierge-reference.md)
 
 </td><td>
 
@@ -44,9 +44,3 @@ The Workplace Concierge application is a [[workplace-service-delivery-suite-land
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[install-workplace-concierge|Install Workplace Concierge]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

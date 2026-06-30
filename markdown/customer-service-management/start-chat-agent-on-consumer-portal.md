@@ -35,8 +35,5 @@ Role required: sn\_customerservice.consumer
 
 ## What to do next
 
-If the agent creates a case or links the discussion to an existing case, you can view these cases from the Consumer Portal by selecting **Requests** &gt; **View Submitted Requests** &gt; **[[osp-view-cases|View cases]] and tasks**.
+If the agent creates a case or links the discussion to an existing case, you can view these cases from the Consumer Portal by selecting **Requests** &gt; **View Submitted Requests** &gt; **View cases and tasks**.
 
-## Related
-
-- [[osp-view-cases|View cases]]

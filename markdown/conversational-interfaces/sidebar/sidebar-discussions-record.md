@@ -14,7 +14,7 @@ breadcrumb: [Using Sidebar, Sidebar, Conversational Interfaces]
 
 # Create a Sidebar discussion for a record
 
-Collaborate with others by creating a [[sidebar-landing|Sidebar]] discussion for a task or interaction record. These discussions can be created from a Next Experience page or Core UI record page.
+Collaborate with others by creating a Sidebar discussion for a task or interaction record. These discussions can be created from a Next Experience page or Core UI record page.
 
 ## Before you begin
 
@@ -169,6 +169,4 @@ Select the More options icon \[Omitted image "ci\_more\_options\_icon.png"\] Alt
     -   if a requester is added to an existing discussion.
 7.  To close the discussion dialog \(but not exit the discussion\), select the Close icon \[Omitted image "sidebar-x-icon.png"\] Alt text: Close icon..
 
-## Related
 
-- [[sidebar-landing|Sidebar]]

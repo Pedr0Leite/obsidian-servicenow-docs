@@ -14,7 +14,7 @@ breadcrumb: [Security Incident Response Overview dashboard, Visual representatio
 
 # Add vulnerability significance charts to an overview
 
-If the [[vuln-landing-page|Vulnerability Response]] plugin is activated, you can add vulnerability significance definition charts and other visualizations to the Overview.
+If the Vulnerability Response plugin is activated, you can add vulnerability significance definition charts and other visualizations to the Overview.
 
 ## Before you begin
 
@@ -36,14 +36,10 @@ Role required: sn\_si.admin
         -   Performance Analytics
         -   Score
         -   Services with Vulnerability Significance
-4.  Click the [[location|location]] on the screen you want to add the gauge.
+4.  Click the location on the screen you want to add the gauge.
 
 5.  Close the **Add content** box.
 
 
 **Parent Topic:**[Security Incident Response Overview dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/c_SIROverview.md)
 
-## Related
-
-- [[vuln-landing-page|Vulnerability Response]]
-- [[location|Location]]

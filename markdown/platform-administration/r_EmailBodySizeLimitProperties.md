@@ -12,13 +12,13 @@ breadcrumb: [Email size limits, Reference, Email Administration, Notifications, 
 
 # Message body size limit properties
 
-Add properties to control the maximum email body size allowed for inbound and [[ia-outbound-email-il|outbound email]] messages.
+Add properties to control the maximum email body size allowed for inbound and outbound email messages.
 
 ## Properties
 
 By default, the system processes up to 524,000 characters in the email **body** and **body\_text** fields.
 
-You can add and configure [[r_SetArchiveRuleProcessingBehavior|system properties]] **glide.email.inbound.max\_body\_chars** and **glide.email.outbound.max\_body\_chars** to increase or decrease the email body size limits. The system truncates the email body when it exceeds the configured limit. For example, if you configure the body size limit of **glide.email.inbound.max\_body\_chars** to 1,000 characters but receive an [[ia-inbound-email-il|inbound email]] that is 2,000 characters, then the system truncates the email body at 1,000 characters.
+You can add and configure system properties **glide.email.inbound.max\_body\_chars** and **glide.email.outbound.max\_body\_chars** to increase or decrease the email body size limits. The system truncates the email body when it exceeds the configured limit. For example, if you configure the body size limit of **glide.email.inbound.max\_body\_chars** to 1,000 characters but receive an inbound email that is 2,000 characters, then the system truncates the email body at 1,000 characters.
 
 <table id="table_lft_wmt_gr"><thead><tr><th>
 
@@ -57,7 +57,7 @@ Sets the maximum body size in characters allowed per outbound email.
 
 For inbound emails, the system enforces the maximum body size as set by the **glide.email.inbound.max\_body\_chars** property. When the body size exceeds the configured value:
 
--   The system does not run [[actions-inbound-email|inbound email actions]] that would otherwise be triggered by the email.
+-   The system does not run inbound email actions that would otherwise be triggered by the email.
 -   The system truncates the Body text on the Email form.
 -   The system logs a warning and sets the Error string field on the Email form. The log message for such an email might look like this: `Email set to receive-ignored because its size exceeds the value set in **glide.email.inbound.max\_body\_chars**.`
 
@@ -69,18 +69,10 @@ For outbound emails, the system enforces the maximum body size as set by the **g
 -   The system truncates the Body text on the Email form.
 -   The system logs a warning and sets the Error string field on the Email form. The log message for such an email might look like this: `Email set to send-ignored because its size exceeds the value set in **glide.email.outbound.max\_body\_chars**. 1337 character(s) were truncated from the body field.`
 
-**Parent Topic:**[[c_EmailAttachmentLimits|Email size limits]]
+**Parent Topic:**[Email size limits](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailAttachmentLimits.md)
 
 **Related topics**  
 
 
-[[r_AdditionalProperties|Advanced email properties]]
+[Advanced email properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AdditionalProperties.md)
 
-## Related
-
-- [[c_EmailAttachmentLimits|Email size limits]]
-- [[r_AdditionalProperties|Advanced email properties]]
-- [[ia-outbound-email-il|Outbound email]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]
-- [[ia-inbound-email-il|Inbound email]]
-- [[actions-inbound-email|Inbound email actions]]

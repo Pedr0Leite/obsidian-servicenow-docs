@@ -16,7 +16,7 @@ You can purchase subscriptions for several ITOM products together as part of a b
 
 The ITOM/OT SU Licensing application calculates and displays subscription consumption for bundle subscriptions. When your organization purchases subscriptions in a bundle, you get the same number of subscription units for all ITOM applications covered by the bundle. You cannot use bundle subscriptions for other applications, even if these other applications are part of the same bundle. The consumption level of the bundle is defined by the highest number of consumptions by one of the products in the bundle.
 
-When you purchase subscriptions in a bundle, you receive an equal number of subscription units for all ITOM applications covered by that bundle. For instance, if you buy a bundle of 500 units covering [[itom-visibility-landing-page|ITOM Visibility]] and [[itom-health-landing-page|ITOM AIOps]], your organization receives 500 units for each application.
+When you purchase subscriptions in a bundle, you receive an equal number of subscription units for all ITOM applications covered by that bundle. For instance, if you buy a bundle of 500 units covering ITOM Visibility and ITOM AIOps, your organization receives 500 units for each application.
 
 **Note:** You can only purchase one bundle at a time.
 
@@ -32,7 +32,3 @@ The Subscriptions window displays the actual number of consumed subscriptions un
 
 \[Omitted image "itom-license-summary-bundle-overdraft.png"\] Alt text: Subscriptions window showing overdraft on subscriptions purchased by bundle.
 
-## Related
-
-- [[itom-visibility-landing-page|ITOM Visibility]]
-- [[itom-health-landing-page|ITOM AIOps]]

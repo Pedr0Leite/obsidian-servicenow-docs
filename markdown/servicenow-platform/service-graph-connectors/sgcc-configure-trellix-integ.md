@@ -14,7 +14,7 @@ breadcrumb: [Trellix, Service Graph Connectors, Integrating third-party data int
 
 # Configure Service Graph Connector for Trellix using SGC Central
 
-Use the playbook available with the [[sgcc-landing|SGC Central]] application to set up the [[sgc-integration-trellix|Service Graph Connector for Trellix]] for pulling in Trellix data into the CMDB.
+Use the playbook available with the SGC Central application to set up the Service Graph Connector for Trellix for pulling in Trellix data into the CMDB.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin
 
 ## About this task
 
-The playbook experience for onboarding connectors is activated with SGC Central in the [[sg-workspace|Service Graph Workspace]] or CMDB Workspace. To configure the SGC Central application, see [[sgcc-configuring|Configuring SGC Central]] and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/playbook-ui.md).
+The playbook experience for onboarding connectors is activated with SGC Central in the Service Graph Workspace or CMDB Workspace. To configure the SGC Central application, see [Configuring SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-configuring.md) and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/playbook-ui.md).
 
 ## Procedure
 
@@ -40,7 +40,7 @@ The playbook experience for onboarding connectors is activated with SGC Central 
 
 4.  Complete the initial prerequisites when setting up a connection for the first time using a connector.
 
-    **Note:** This step is required only during the first-time setup. See [[sgcc-first-time-setup|Perform initial setup tasks when creating a connection in SGC Central]].
+    **Note:** This step is required only during the first-time setup. See [Perform initial setup tasks when creating a connection in SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-first-time-setup.md).
 
 5.  Complete the setup for configuring the connector for importing data.
 
@@ -91,11 +91,11 @@ Password of your Trellix account.
 
 </td></tr><tr><td>
 
-Use [[mid-server-landing|MID server]]
+Use MID server
 
 </td><td>
 
-Option to use a MID Server. Select this [[check-box|check box]] if you’re using an on-premises instance of Trellix.**Note:** A MID Server must be configured on your ServiceNow instance before you select this option.
+Option to use a MID Server. Select this check box if you’re using an on-premises instance of Trellix.**Note:** A MID Server must be configured on your ServiceNow instance before you select this option.
 
 </td></tr><tr><td>
 
@@ -137,12 +137,3 @@ Select **View all connections** to review the connection details. The configured
 
 [Accessing the connection details of Service Graph Connector for Trellix](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-trellix-conn.md)
 
-## Related
-
-- [[sgcc-configuring|Configuring SGC Central]]
-- [[sgcc-first-time-setup|Perform initial setup tasks when creating a connection in SGC Central]]
-- [[sgcc-landing|SGC Central]]
-- [[sgc-integration-trellix|Service Graph Connector for Trellix]]
-- [[sg-workspace|Service Graph Workspace]]
-- [[mid-server-landing|MID Server]]
-- [[check-box|Check box]]

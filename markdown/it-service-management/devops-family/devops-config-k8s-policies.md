@@ -15,11 +15,11 @@ breadcrumb: [Default DevOps Config policies, DevOps Config reference, DevOps Con
 
 # Kubernetes policies in DevOps Config
 
-By default, the [[devops-config-landing-page|DevOps Config]] Policy content pack contains a set of policies to validate your Kubernetes configuration.
+By default, the DevOps Config Policy content pack contains a set of policies to validate your Kubernetes configuration.
 
 **Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
-You can use or customize these [[devops-config-default-policies|default DevOps Config policies]] to validate that your configuration data content is conformable, or [administrate the full life cycle of PaCE policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/pace-managing-policies.md).
+You can use or customize these default DevOps Config policies to validate that your configuration data content is conformable, or [administrate the full life cycle of PaCE policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/pace-managing-policies.md).
 
 **Note:** You can’t modify the default policies. However, you can make a copy of the policy and customize your copy.
 
@@ -163,7 +163,3 @@ Checks whether the Kubernetes API server is not using a static token file for us
 
 Results into a non-compliant status when the `token-auth-file` argument is specified when using the `kube-apiserver` command.
 
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]
-- [[devops-config-default-policies|Default DevOps Config policies]]

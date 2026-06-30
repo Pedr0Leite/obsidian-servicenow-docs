@@ -12,7 +12,7 @@ breadcrumb: [CPQ, Configure, price, quote, Reference, Sales Customer Relationshi
 
 # Troubleshooting
 
-Steps to take if you encounter problems [[cpq-using|using CPQ]].
+Steps to take if you encounter problems using CPQ.
 
 ## Error messages
 
@@ -58,7 +58,7 @@ As a point of contrast, when the CPQ environment is integrated with SFDC, the SF
 
 ## Configuration
 
-For some user profiles, configuring results in a white screen or reconfiguring does not load any of the previously chosen options. In order to properly configure or reconfigure, users need access to certain objects and [[fields|fields]] in Salesforce. These can be assigned using permission [[cpq-sets|sets]] or by going to Setup &gt; Profiles &gt; Select Desired Profile &gt; Object Settings.\[Omitted image "cpq-profiles-object-settings.png"\] Alt text: Profiles screen
+For some user profiles, configuring results in a white screen or reconfiguring does not load any of the previously chosen options. In order to properly configure or reconfigure, users need access to certain objects and fields in Salesforce. These can be assigned using permission sets or by going to Setup &gt; Profiles &gt; Select Desired Profile &gt; Object Settings.\[Omitted image "cpq-profiles-object-settings.png"\] Alt text: Profiles screen
 
 Users will need read/edit access in the Field Permissions section to the following objects:
 
@@ -118,7 +118,7 @@ Subscriptions \(SBQQ\_\_Subscription\_\_c\):
 -   Configuration Id
 -   BOM Data
 
-See [[granting_user_access_in_logik_io|Granting user access in CPQ]].
+See [Granting user access in CPQ](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/granting_user_access_in_logik_io.md).
 
 ## Salesforce integration
 
@@ -138,9 +138,3 @@ See [[granting_user_access_in_logik_io|Granting user access in CPQ]].
 -   
 **Parent Topic:**[CPQ reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-## Related
-
-- [[granting_user_access_in_logik_io|Granting user access in CPQ]]
-- [[cpq-using|Using CPQ]]
-- [[fields|Fields]]
-- [[cpq-sets|Sets]]

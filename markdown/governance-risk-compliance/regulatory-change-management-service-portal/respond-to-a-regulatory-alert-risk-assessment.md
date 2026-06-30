@@ -26,13 +26,13 @@ When you receive an assessment, if you're not the rightful responder of the asse
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self Service** &gt; **[[employee-center|Employee Center]]** &gt; **GRC tasks** &gt; **My to-dos** &gt; **[[risk-assessments|Risk assessments]]**.
+1.  Navigate to **All** &gt; **Self Service** &gt; **Employee Center** &gt; **GRC tasks** &gt; **My to-dos** &gt; **Risk assessments**.
 
 2.  Select and open the assigned assessment.
 
 3.  Select **Start assessment**.
 
-4.  Under the **Inherent Assessment** tab, rank the risk assessment [[factors|factors]] such as Compliance, Legal, Financial, and so on.
+4.  Under the **Inherent Assessment** tab, rank the risk assessment factors such as Compliance, Legal, Financial, and so on.
 
     Based on the answers, the computed inherent risk results are calculated and displayed.
 
@@ -53,8 +53,3 @@ When you receive an assessment, if you're not the rightful responder of the asse
 
 If approvers are not specified, the assessment moves to the Monitor state. The requestor responsible for initiating the assessment can monitor the progress activity by accessing the Risk Assessment related list of a regulatory alert. If approvers are defined, the assessment moves ahead for review.
 
-## Related
-
-- [[employee-center|employee center]]
-- [[risk-assessments|risk assessments]]
-- [[factors|factors]]

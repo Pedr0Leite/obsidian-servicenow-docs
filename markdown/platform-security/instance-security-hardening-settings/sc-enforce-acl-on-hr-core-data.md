@@ -14,7 +14,7 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 # Enforce ACL on HR Core Data \[New in Security Center 2.0\]
 
-Learn how to configure the **glide.enforce\_security\_scope.sn\_hr\_core** property so that the Human Resources Scoped App: Core \(com.sn\_hr\_core\) plugin does not expose sensitive data to [[sc-access-control|access control]] lists \(ACLs\) from all other scopes.
+Learn how to configure the **glide.enforce\_security\_scope.sn\_hr\_core** property so that the Human Resources Scoped App: Core \(com.sn\_hr\_core\) plugin does not expose sensitive data to access control lists \(ACLs\) from all other scopes.
 
 The **glide.enforce\_security\_scope.sn\_hr\_core** property restricts the access control lists \(ACLs\) of several global data tables like sys\_attachment and sys\_email to only consider the sn\_hr\_core scope. If this property is not set to the recommended value of true, then data from the Human Resources Scoped App: Core plugin will be exposed to ACLs from all other scopes. For instance, this could result in the IT administrator gaining access to human resources data.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -107,8 +107,3 @@ References
 </td></tr></tbody>
 </table>**Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[sc-access-control|Access control]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

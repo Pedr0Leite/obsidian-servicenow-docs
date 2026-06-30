@@ -35,7 +35,7 @@ The interface gives you the ability to create cost plans, expense lines, and bas
 -   Compare the latest costs \(actual expenses for past fiscal periods and planned costs for current and future fiscal periods\) with the initial forecasted planned costs by creating financial baseline and using the compare baselines capability.
 -   Analyze the cause of variance in costs and when did this occur over time by capturing the financial baselines manually or automatically.
 
-\[Omitted image "financials-screen-pw.png"\] Alt text: Financials screen for [[project-workspace-landing-page|Project Workspace]].
+\[Omitted image "financials-screen-pw.png"\] Alt text: Financials screen for Project Workspace.
 
 You can view the following information on the financials screen.
 
@@ -46,7 +46,7 @@ You can view the following information on the financials screen.
     **Note:** Budget and Budget vs EAC Variance widgets are available for Demands and Projects only.
 
 -   Time scale: time period breakdowns to view the financials. Default value is set to Month/Period, depending on the fiscal calendar type.
--   [[generate-labor-cost-demand|Generate labor costs]]: one-click solution to generate or refresh the planned labor costs for the planning item depending on resource assignments.
+-   Generate labor costs: one-click solution to generate or refresh the planned labor costs for the planning item depending on resource assignments.
 
     **Note:** This option is enabled for the projects with resource assignments only.
 
@@ -61,7 +61,3 @@ You can view the following information on the financials screen.
 
 **Parent Topic:**[Exploring Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/exploring-project-workspace.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]
-- [[generate-labor-cost-demand|Generate labor costs]]

@@ -22,7 +22,7 @@ Role required: sn\_eam\_provider.provider\_asset\_technician
 
 ## Procedure
 
-1.  From the [[using-eam-workspace|Enterprise Asset Workspace]], open the [[asset-operations-view|Asset operations view]].
+1.  From the Enterprise Asset Workspace, open the Asset operations view.
 
 2.  Open the Asset tasks list.
 
@@ -126,7 +126,3 @@ Notes about the task that are visible to all users within your organization.
 
 **Parent Topic:**[Completing a Return Merchandise Authorization \(RMA\) response order for defective Device as a Service \(DaaS\) assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/completing-rma-response-order-daas-assets.md)
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[asset-operations-view|Asset operations view]]

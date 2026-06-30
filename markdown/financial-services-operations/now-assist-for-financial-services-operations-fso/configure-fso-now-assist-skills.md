@@ -16,7 +16,7 @@ breadcrumb: [Configure, Now Assist for FSO, Financial Services Operations \(FSO\
 
 # Configure Financial Services Operations Now Assist skills
 
-Configure Now Assist skills for [[fso-overview|Financial Services]] Operations to enable AI-powered capabilities such as case summarization, disputes intake, and customer profile summarization. Use this overview to identify and complete the configuration tasks for your deployment.
+Configure Now Assist skills for Financial Services Operations to enable AI-powered capabilities such as case summarization, disputes intake, and customer profile summarization. Use this overview to identify and complete the configuration tasks for your deployment.
 
 ## Configuration overview
 
@@ -30,7 +30,7 @@ Configure Now Assist skills for [[fso-overview|Financial Services]] Operations t
 
 -   [Configure banking customer profile summarization in Now Assist for FSO](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/configure-customer-profile-summarization-fso.md)
 
-    Configure and activate the Customer Profile Summarization skill for the Customer 360 page in [[agentic-contact-center-for-banking-landing|Agentic Contact Center for Banking]].
+    Configure and activate the Customer Profile Summarization skill for the Customer 360 page in Agentic Contact Center for Banking.
 
 -   [Configure banking customer interaction context summary skill in Now Assist for FSO](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/configure-customer-contextual-summarization-fso.md)
 
@@ -38,7 +38,7 @@ Configure Now Assist skills for [[fso-overview|Financial Services]] Operations t
 
 -   [Configure insurance customer profile summarization in Now Assist for FSO](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/configure-insurance-customer-profile-summarization.md)
 
-    Configure and activate the Insurance Customer Profile Summarization skill for the Customer 360 page in [[landing-agentic-contact-centre-for-insurance|Agentic Contact Center for Insurance]].
+    Configure and activate the Insurance Customer Profile Summarization skill for the Customer 360 page in Agentic Contact Center for Insurance.
 
 -   [Configure insurance customer interaction context summary skill in Now Assist for FSO](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/configure-insurance-interaction-summary-skill.md)
 
@@ -46,9 +46,9 @@ Configure Now Assist skills for [[fso-overview|Financial Services]] Operations t
 
 
 -   **[Configure case summarization in Now Assist for Financial Services Operations \(FSO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/configure-now-assist-for-fso.md)**  
-If you have the admin role, you can configure the [[now-assist-for-financial-services-operations|Now Assist for Financial Services Operations \(FSO\)]] application so that your agents can use case summarization skills in Financial Services Workspace and Core UI.
+If you have the admin role, you can configure the Now Assist for Financial Services Operations \(FSO\) application so that your agents can use case summarization skills in Financial Services Workspace and Core UI.
 -   **[Configure Disputes intake via Virtual Agent in Now Assist for Financial Services Operations \(FSO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/configuring-disputes-intake-via-virtual-agent.md)**  
-If you have the admin role, you can [[configuring-disputes-intake-via-virtual-agent|configure Disputes intake via Virtual Agent in Now Assist for Financial Services Operations \(FSO\)]]. This provides a conversational experience for your customers to submit card disputes.
+If you have the admin role, you can configure Disputes intake via Virtual Agent in Now Assist for Financial Services Operations \(FSO\). This provides a conversational experience for your customers to submit card disputes.
 -   **[Configure banking customer profile summarization in Now Assist for FSO](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/configure-customer-profile-summarization-fso.md)**  
 Configure the Customer Profile Summarization skill in Now Assist for FSO to enable AI-powered summaries of banking customer information in Agentic Contact Center for Banking.
 -   **[Configure banking customer interaction context summary skill in Now Assist for FSO](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/configure-customer-contextual-summarization-fso.md)**  
@@ -60,10 +60,3 @@ Configure the Insurance interaction context summary skill in Now Assist for FSO 
 
 **Parent Topic:**[Configuring Now Assist for Financial Services Operations \(FSO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/configuring-now-assist-skills-for-fso.md)
 
-## Related
-
-- [[fso-overview|Financial Services]]
-- [[agentic-contact-center-for-banking-landing|Agentic Contact Center for Banking]]
-- [[landing-agentic-contact-centre-for-insurance|Agentic Contact Center for Insurance]]
-- [[now-assist-for-financial-services-operations|Now Assist for Financial Services Operations \(FSO\)]]
-- [[configuring-disputes-intake-via-virtual-agent|Configure Disputes intake via Virtual Agent in Now Assist for Financial Services Operations \(FSO\)]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, Operational Technology Knowledge Management, Operational
 
 # Create the user criteria for an OT knowledge base
 
-[[create-user-ot-console|Create a user]] criteria record to determine the users who can read or contribute to an [[operational-technology-overview|Operational Technology]] \(OT\) knowledge base.
+Create a user criteria record to determine the users who can read or contribute to an Operational Technology \(OT\) knowledge base.
 
 ## Before you begin
 
@@ -84,7 +84,7 @@ Advanced
 
 </td><td>
 
-Option to display or hide the advanced option that includes the **Script** field on the [[user-criteria-form-ipm|User Criteria form]].
+Option to display or hide the advanced option that includes the **Script** field on the User Criteria form.
 
 </td></tr><tr><td>
 
@@ -156,13 +156,7 @@ With **Match All** selected, only the users who meet all of these conditions are
 
 ## What to do next
 
-Now you can [[assign-ot-user-criteria-otkm|assign the user criteria to an OT knowledge base]]. For more information, see [Assign the user criteria to an OT knowledge base](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-knowledge-management/assign-ot-user-criteria-otkm.md).
+Now you can assign the user criteria to an OT knowledge base. For more information, see [Assign the user criteria to an OT knowledge base](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-knowledge-management/assign-ot-user-criteria-otkm.md).
 
 **Parent Topic:**[Configuring Operational Technology Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-knowledge-management/configuring-operational-technology-knowledge-management.md)
 
-## Related
-
-- [[create-user-ot-console|Create a user]]
-- [[operational-technology-overview|Operational Technology]]
-- [[user-criteria-form-ipm|User criteria form]]
-- [[assign-ot-user-criteria-otkm|Assign the user criteria to an OT knowledge base]]

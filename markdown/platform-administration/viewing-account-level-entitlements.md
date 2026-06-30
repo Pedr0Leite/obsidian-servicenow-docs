@@ -12,7 +12,7 @@ breadcrumb: [Explore, Subscription Management, Get started, Administer the Servi
 
 # Viewing account-level entitlements in Subscription Management
 
-View an account-level summary of entitlements and consumption in [[subscription-management-landing-page-v2|Subscription Management]].
+View an account-level summary of entitlements and consumption in Subscription Management.
 
 ## Key benefits
 
@@ -28,9 +28,5 @@ Access your account-level entitlements by navigating to **Admin** &gt; **Subscri
 
 To view the entitlement data for all your instances, access your account-level entitlements on the **Subscriptions** tab in Subscription Management on a production instance. On a non-production instance, only entitlement data and usage for the instance that you're currently accessing is displayed.
 
-**Note:** On a production instance, you can view entitlement data for all the instances owned by your account. However, if data sharing is restricted on an instance, that instance's entitlement data is hidden. You can disable the restriction by updating the trust configuration on that instance. See [[share-subscription-data|Share subscription data from another instance]].
+**Note:** On a production instance, you can view entitlement data for all the instances owned by your account. However, if data sharing is restricted on an instance, that instance's entitlement data is hidden. You can disable the restriction by updating the trust configuration on that instance. See [Share subscription data from another instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/share-subscription-data.md).
 
-## Related
-
-- [[share-subscription-data|Share subscription data from another instance]]
-- [[subscription-management-landing-page-v2|Subscription Management]]

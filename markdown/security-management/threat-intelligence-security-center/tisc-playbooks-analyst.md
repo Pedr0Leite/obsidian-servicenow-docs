@@ -15,9 +15,9 @@ breadcrumb: [Threat Analyst Workbench, Use, Threat Intelligence Security Center,
 
 # Using playbooks
 
-[[tisc-playbooks-admin|Playbooks]] in [[tisc-landing-page|Threat Intelligence Security Center]] guide analysts through structured threat investigation stages. Each stage defines the actions to complete before the case advances to the next phase of the response process.
+Playbooks in Threat Intelligence Security Center guide analysts through structured threat investigation stages. Each stage defines the actions to complete before the case advances to the next phase of the response process.
 
-When a Case record is created in Threat Intelligence Security Center with the appropriate Case type and status, a playbook starts automatically. The playbook appears in the **Playbooks** tab of the Case record and shows the current stage, pending activities, and overall progress. The [[tisc-threat-hunt-playbook|Threat Hunting playbook]] runs once per Case. After the playbook reaches completion, you can't run it on the same Case. You can add the playbook again for cancelled executions.
+When a Case record is created in Threat Intelligence Security Center with the appropriate Case type and status, a playbook starts automatically. The playbook appears in the **Playbooks** tab of the Case record and shows the current stage, pending activities, and overall progress. The Threat Hunting playbook runs once per Case. After the playbook reaches completion, you can't run it on the same Case. You can add the playbook again for cancelled executions.
 
 ## How stages work
 
@@ -75,8 +75,3 @@ The Threat Hunting playbook is a guided workflow for a TISC Case record that hel
 
 [Add the Threat Hunting Playbook to a Case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-add-playbook-manually.md)
 
-## Related
-
-- [[tisc-playbooks-admin|Playbooks]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[tisc-threat-hunt-playbook|Threat Hunting Playbook]]

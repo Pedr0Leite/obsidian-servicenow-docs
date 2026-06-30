@@ -14,7 +14,7 @@ breadcrumb: [Portfolio Dashboard, Portfolio Management, Project Portfolio Manage
 
 # Access the Portfolio Dashboard
 
-View different graphical reports on the [[pmo-dashboard|PMO Dashboard]].
+View different graphical reports on the PMO Dashboard.
 
 ## Before you begin
 
@@ -22,14 +22,10 @@ Role required: it\_portfolio\_manager
 
 ## Procedure
 
-1.  Navigate to **Project** &gt; **Portfolios** &gt; **[[c_PortfolioManagerDashboard|Portfolio Dashboard]]**.
+1.  Navigate to **Project** &gt; **Portfolios** &gt; **Portfolio Dashboard**.
 
     The PMO Dashboard is displayed.
 
 
 **Parent Topic:**[Portfolio Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-management/c_PortfolioManagerDashboard.md)
 
-## Related
-
-- [[pmo-dashboard|PMO dashboard]]
-- [[c_PortfolioManagerDashboard|Portfolio Dashboard]]

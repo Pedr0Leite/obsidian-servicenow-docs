@@ -14,7 +14,7 @@ breadcrumb: [Use, Now Assist for SLO, Supplier Lifecycle Operations, Finance and
 
 # Analyze sentiments in supplier cases
 
-Use the Sentiment Analysis skill in [[now-assist-slo|Now Assist for Supplier Lifecycle Operations \(SLO\)]] to analyze a requester's response and determine the sentiment and sentiment trend associated with a [[supplier|supplier]] case. You can gauge the urgency of a supplier case and prioritize your responses based on the sentiment analysis.
+Use the Sentiment Analysis skill in Now Assist for Supplier Lifecycle Operations \(SLO\) to analyze a requester's response and determine the sentiment and sentiment trend associated with a supplier case. You can gauge the urgency of a supplier case and prioritize your responses based on the sentiment analysis.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_supplier\_gen\_ai.now\_assist\_fulfiller and sn\_slm.fulfille
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
 2.  Select the list icon \[Omitted image "cases-list-icon.png"\] Alt text: List icon..
 
@@ -54,9 +54,3 @@ Role required: sn\_supplier\_gen\_ai.now\_assist\_fulfiller and sn\_slm.fulfille
 
 [Automate supplier case creation from emails](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/automated-supplier-case-creation-from-emails.md)
 
-## Related
-
-- [[now-assist-slo|Now Assist for Supplier Lifecycle Operations \(SLO\)]]
-- [[supplier|Supplier]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

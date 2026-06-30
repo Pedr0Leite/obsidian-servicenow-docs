@@ -14,7 +14,7 @@ breadcrumb: [Project Risk Assessment using Advanced Risk Assessment, Integrate, 
 
 # Assess project risks using Advanced Risk Assessment
 
-Assess the project risks by responding to predefined [[factors|factors]] or questions. Arrive at a risk score for the project.
+Assess the project risks by responding to predefined factors or questions. Arrive at a risk score for the project.
 
 ## Before you begin
 
@@ -70,6 +70,3 @@ To understand how to assess risks on a risk assessment instance and how to respo
 
 **Parent Topic:**[Project Risk Assessment using Advanced Risk Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/risk-and-ppm-better-together.md)
 
-## Related
-
-- [[factors|factors]]

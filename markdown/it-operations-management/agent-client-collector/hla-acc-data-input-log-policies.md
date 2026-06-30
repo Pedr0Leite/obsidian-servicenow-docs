@@ -14,7 +14,7 @@ breadcrumb: [Agent Client Collector Log Analytics, Agent Client Collector, IT Op
 
 # Agent Client Collector log policies
 
-[[acc-landing-page|Agent Client Collector]] data inputs stream log messages to your ServiceNow instance using the ServiceNow Agent Client Collector. The [[acc-log-analytics|Agent Client Collector Log Analytics]] \(ACC-L\) application provides predefined log policies for collecting log data from the CIs monitored by the ACC.
+Agent Client Collector data inputs stream log messages to your ServiceNow instance using the ServiceNow Agent Client Collector. The Agent Client Collector Log Analytics \(ACC-L\) application provides predefined log policies for collecting log data from the CIs monitored by the ACC.
 
 You can work with Agent Client Collector log policies in the following ways:
 
@@ -36,7 +36,4 @@ You can work with Agent Client Collector log policies in the following ways:
 
     For more information, see [Create an Agent Client Collector log policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/hla-acc-log-policies.md). For a general explanation of Agent Client Collector policies, see [Checks and policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/checks-policies.md).
 
-## Related
 
-- [[acc-landing-page|Agent Client Collector]]
-- [[acc-log-analytics|Agent Client Collector Log Analytics]]

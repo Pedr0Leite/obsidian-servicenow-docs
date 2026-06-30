@@ -12,7 +12,7 @@ breadcrumb: [User preferences, User interface configuration, Working in Core UI,
 
 # User preference settings
 
-User preferences primarily track the way individual users interact with various features so that new sessions activate the user's last settings. For example, user preferences track whether the user activates the tabbed or scrolling interface for multi-section [[form-configurable-workspace|forms]]. Other user preference records enable users with the admin role to adjust certain feature settings.
+User preferences primarily track the way individual users interact with various features so that new sessions activate the user's last settings. For example, user preferences track whether the user activates the tabbed or scrolling interface for multi-section forms. Other user preference records enable users with the admin role to adjust certain feature settings.
 
 ## View settings
 
@@ -317,7 +317,7 @@ Admin or User
 
 </td><td>
 
-Determines whether the response time information is expanded or collapsed at the bottom of a list or form. This record updates automatically whenever the user clicks the [[c_ResponseTimeIndicator|response time indicator icon]] \[Omitted image "clock.png"\] Alt text: Clock indicator icon at the bottom of a v2 list or form.**True** = expand the response time information.
+Determines whether the response time information is expanded or collapsed at the bottom of a list or form. This record updates automatically whenever the user clicks the response time indicator icon \[Omitted image "clock.png"\] Alt text: Clock indicator icon at the bottom of a v2 list or form.**True** = expand the response time information.
 
  **False** = collapse the response time information.
 
@@ -367,7 +367,7 @@ list\_edit\_double
 
 </td><td>
 
-[[lists-configurable-workspace|Lists]]
+Lists
 
 </td><td>
 
@@ -697,7 +697,7 @@ User Only
 
 </td><td>
 
-Indicates whether long text in a list is wrapped onto multiple lines or truncated. This setting applies to all lists. This setting is not set on a list-by-list basis. This record updates automatically when a user changes the **Wrap column text** option in the List v2 personalization interface or the **Wrap longer text in list columns** option in the [[c_UI16|Core UI]] system settings.**True** = wrap long text in a list. All text is seen in list view, but each row may occupy more vertical space.
+Indicates whether long text in a list is wrapped onto multiple lines or truncated. This setting applies to all lists. This setting is not set on a list-by-list basis. This record updates automatically when a user changes the **Wrap column text** option in the List v2 personalization interface or the **Wrap longer text in list columns** option in the Core UI system settings.**True** = wrap long text in a list. All text is seen in list view, but each row may occupy more vertical space.
 
  **False** = don't wrap the long text in a list. Text is truncated in list view, but each row takes less vertical space. Full text can be seen in form view.
 
@@ -860,7 +860,7 @@ Indicates whether users see UI15 or Core UI \(UI16\). The Core UI plugin \[com.g
  **Default value**: **True**
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[c_UserPreferences|User preferences]]
+</table>**Parent Topic:**[User preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_UserPreferences.md)
 
 **Related topics**  
 
@@ -869,10 +869,3 @@ Indicates whether users see UI15 or Core UI \(UI16\). The Core UI plugin \[com.g
 
 [Configure available keyboard shortcuts]()
 
-## Related
-
-- [[c_UserPreferences|User preferences]]
-- [[form-configurable-workspace|Forms]]
-- [[c_ResponseTimeIndicator|Response time indicator icon]]
-- [[lists-configurable-workspace|Lists]]
-- [[c_UI16|Core UI]]

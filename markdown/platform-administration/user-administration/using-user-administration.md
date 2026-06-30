@@ -19,16 +19,11 @@ Create user records for the individuals who access your instance. Users can be a
 -   **[Creating users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/ua-creating-users.md)**  
 Users are typically added through Lightweight Directory Access Protocol \(LDAP\) directory integrations. Admins can also manually add users to the instance, enable self-registration for new users, and impersonate users to ensure that they have the proper access privileges.
 -   **[Add a new company](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_AddANewCompany.md)**  
-You can add companies that represent vendors, manufacturers, or customers with whom you do business. These companies provide a way to categorize users, groups, and [[ia-assets|assets]].
+You can add companies that represent vendors, manufacturers, or customers with whom you do business. These companies provide a way to categorize users, groups, and assets.
 -   **[Normalization data services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/c_NormalizationOverview.md)**  
-The [[c_NormalizationOverview|Normalization Data Services]] plugin helps maintain consistency for table fields that refer to a company name.
+The Normalization Data Services plugin helps maintain consistency for table fields that refer to a company name.
 -   **[Add a department](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_AddANewDepartment.md)**  
 Departments provide another way to categorize users, groups, and assets. You can add departments and assign them to users.
 
-**Parent Topic:**[[config-now-platform-core-features|Configure ServiceNow AI Platform core features]]
+**Parent Topic:**[Configure ServiceNow AI Platform core features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/config-now-platform-core-features.md)
 
-## Related
-
-- [[config-now-platform-core-features|Configure ServiceNow AI Platform core features]]
-- [[ia-assets|Assets]]
-- [[c_NormalizationOverview|Normalization data services]]

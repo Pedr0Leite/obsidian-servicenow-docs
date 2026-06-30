@@ -15,7 +15,7 @@ breadcrumb: [Use ITSM Virtual Agent analytics dashboard, Now Assist for IT Servi
 
 # ITSM Virtual Agent Analytics reference
 
-As an admin, you can refer to the indicators, schedule jobs, and scripts used in the [[itsm-virtual-agent|ITSM Virtual Agent]] analytics.
+As an admin, you can refer to the indicators, schedule jobs, and scripts used in the ITSM Virtual Agent analytics.
 
 ## ITSM Virtual Agent indicators
 
@@ -119,6 +119,3 @@ To configure the Group Action Framework \(GAF\) to cluster topics and use chat s
 
 **Parent Topic:**[Use ITSM Virtual Agent Analytics dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/using-itsm-conversational-analytics-dashboard.md)
 
-## Related
-
-- [[itsm-virtual-agent|ITSM Virtual Agent]]

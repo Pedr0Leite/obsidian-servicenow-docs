@@ -74,7 +74,7 @@ Crew
 
 </td><td>
 
-Name of crew.**Note:** This field appears when the [[field-service-crew-scheduling|Field Service Crew Operations]] plugin \(com.snc.fsm\_crew\_scheduling\) plugin is activated.
+Name of crew.**Note:** This field appears when the Field Service Crew Operations plugin \(com.snc.fsm\_crew\_scheduling\) plugin is activated.
 
 </td></tr><tr><td>
 
@@ -82,7 +82,7 @@ From
 
 </td><td>
 
-Effective from the date for the agent to [[t_StartWork|start work]] in the territory.
+Effective from the date for the agent to start work in the territory.
 
 </td></tr><tr><td>
 
@@ -102,7 +102,3 @@ Effective to date for an agent to end work in territory.
 
 The agents appear in the **Agent Memberships** related list when you open the territory record. Dispatchers can then assign tasks manually or automatically to agents associated with the territory.
 
-## Related
-
-- [[field-service-crew-scheduling|Field Service Crew Operations]]
-- [[t_StartWork|Start work]]

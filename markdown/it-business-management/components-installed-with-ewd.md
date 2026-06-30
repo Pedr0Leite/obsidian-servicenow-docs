@@ -38,8 +38,5 @@ The following scheduled jobs are installed with Enterprise-Wide Deployment.
 |--------|-----------|
 |Update existing records with partition details|Populates partition values on existing records — projects, demands, programs, and portfolios — that were created before partition configuration was completed. Run this job after defining partitions to associate historical records with the correct partition.|
 
-**Parent Topic:**[[ewd-reference|SPM Enterprise-Wide Deployment reference]]
+**Parent Topic:**[SPM Enterprise-Wide Deployment reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ewd-reference.md)
 
-## Related
-
-- [[ewd-reference|SPM Enterprise-Wide Deployment reference]]

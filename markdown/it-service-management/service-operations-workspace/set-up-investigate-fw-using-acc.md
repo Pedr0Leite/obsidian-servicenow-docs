@@ -18,18 +18,14 @@ Set up the Investigation Framework in Service Operations Workspace using the Age
 
 You must ensure that the following requirements are met:
 
--   [[sow-landing-page|Service Operations Workspace for ITSM]] \(sn\_sow\_itsm\_cont\) application set up is complete and configured as per your requirement. For more information, see [Getting started with Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/getting-started-sow.md)
+-   Service Operations Workspace for ITSM \(sn\_sow\_itsm\_cont\) application set up is complete and configured as per your requirement. For more information, see [Getting started with Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/getting-started-sow.md)
 -   Install the Agent Client Collector for Investigation Application. For more information, see [Install Agent Client Collector for Investigation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/install-acc-adapter.md).
 
     **Note:** Installing the Agent Client Collector for Investigation application requires the ITSM Pro package subscription.
 
 
 -   **[Install Agent Client Collector for Investigation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/install-acc-adapter.md)**  
-Install the Agent Client Collector for Investigation application \(sn\_acc\_adapter\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store [[dex-workspace-application-tab|applications]] and plugins if they are not already installed.
+Install the Agent Client Collector for Investigation application \(sn\_acc\_adapter\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 **Parent Topic:**[Setting up Investigation Framework in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/set-up-investigate.md)
 
-## Related
-
-- [[sow-landing-page|Service Operations Workspace for ITSM]]
-- [[dex-workspace-application-tab|Applications]]

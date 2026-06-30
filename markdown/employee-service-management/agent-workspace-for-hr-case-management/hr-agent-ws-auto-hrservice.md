@@ -14,7 +14,7 @@ breadcrumb: [Machine learning solutions in Agent Workspace for HR Case Managemen
 
 # Auto determination of HR service in Agent Workspace for HR Case Management
 
-Auto determine the correct HR service for a case in [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]. Enable an HR agent to transfer the case to the appropriate HR service rather than having to spend significant time manually triaging cases to appropriate [[hr-service-administration|HR services]].
+Auto determine the correct HR service for a case in Agent Workspace for HR Case Management. Enable an HR agent to transfer the case to the appropriate HR service rather than having to spend significant time manually triaging cases to appropriate HR services.
 
 **Important:** This feature is available with the HR Professional and HR Enterprise packages when you activate the Agent Workspace for HR Case Management and Predictive Intelligence applications. If you do not want to use this feature, disable the **sn\_hr\_core.case\_auto\_categorization** system property.
 
@@ -46,7 +46,3 @@ The HR Case Classification solution definition is configured and the predictive 
 
 [Display similar closed cases in Agent Workspace for HR Case Management]()
 
-## Related
-
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[hr-service-administration|HR services]]

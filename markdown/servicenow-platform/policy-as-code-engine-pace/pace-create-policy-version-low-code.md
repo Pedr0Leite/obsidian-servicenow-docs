@@ -22,7 +22,7 @@ Role required: sn\_pace.code\_editor
 
 ## About this task
 
-The low-code function enables you to write policies using simple UI elements by defining conditions for the policy to determine if it’s compliant or non-compliant. If the **Is low code** [[check-box|check box]] is selected when you create a policy version, the **Policy Builder** and **Test Playground** tabs will automatically have the Policy logic page set to low-code.
+The low-code function enables you to write policies using simple UI elements by defining conditions for the policy to determine if it’s compliant or non-compliant. If the **Is low code** check box is selected when you create a policy version, the **Policy Builder** and **Test Playground** tabs will automatically have the Policy logic page set to low-code.
 
 You can switch to the Policy Script to create a policy using JavaScript by selecting the **Switch to code editor** button, but you’ll be unable to switch back to low-code. For more information on how to write PaCE policies using JavaScript, see [How to write and test PaCE policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/pace-write-test-policies.md).
 
@@ -55,6 +55,3 @@ You can switch to the Policy Script to create a policy using JavaScript by selec
 
 The policy version is saved with an assigned number according to the policy numbering and will enable you to set the conditions using low-code.
 
-## Related
-
-- [[check-box|Check box]]

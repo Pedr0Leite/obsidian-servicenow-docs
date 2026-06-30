@@ -14,7 +14,7 @@ breadcrumb: [Define a custom encryption rule, Configuring Edge Encryption, Edge 
 
 # Create an encryption rule
 
-[[encryption-landing|Encryption]] rules are used by the proxy to find content in HTTP requests that should be encrypted.
+Encryption rules are used by the proxy to find content in HTTP requests that should be encrypted.
 
 ## Before you begin
 
@@ -28,11 +28,11 @@ To create or edit encryption rules, you must be connected to the instance throug
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[edge-encryption|Edge Encryption]] [[sc-configuration|Configuration]]** &gt; **Rules** &gt; **Create New**.
+1.  Navigate to **All** &gt; **Edge Encryption Configuration** &gt; **Rules** &gt; **Create New**.
 
 2.  In the **Name** box, enter a name.
 
-3.  In the **[[c_requestAPI|Request]] Type**, select an HTTP method.
+3.  In the **Request Type**, select an HTTP method.
 
     -   **HTTP Post**
     -   **HTTP Get**
@@ -52,9 +52,3 @@ To create or edit encryption rules, you must be connected to the instance throug
 
 **Parent Topic:**[Define a custom encryption rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/c_EncryptionRules.md)
 
-## Related
-
-- [[encryption-landing|Encryption]]
-- [[edge-encryption|Edge Encryption]]
-- [[sc-configuration|Configuration]]
-- [[c_requestAPI|request]]

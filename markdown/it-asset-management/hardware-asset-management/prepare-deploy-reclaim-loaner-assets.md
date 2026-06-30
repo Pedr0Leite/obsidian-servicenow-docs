@@ -18,7 +18,7 @@ Select and prepare the loaner asset or consumable for deployment and reclamation
 
 ## Before you begin
 
-To use an asset as a loaner asset or consumable, go to the asset record and set the **Asset function** field to **Loaner**. These assets are reserved for use as [[loaner-asset|loaner assets]]. You can’t use an asset that has the **Asset function** field set to anything other than **Loaner**. Only hardware, bundle, and consumables can be used as Loaner assets.
+To use an asset as a loaner asset or consumable, go to the asset record and set the **Asset function** field to **Loaner**. These assets are reserved for use as loaner assets. You can’t use an asset that has the **Asset function** field set to anything other than **Loaner**. Only hardware, bundle, and consumables can be used as Loaner assets.
 
 The Loaner Asset Orders related list in the Asset form shows all the loaner orders that the asset has served in the past and at present. When the consumable isn’t in a stockroom, it shows only the current loaner asset order that it's serving at present.
 
@@ -58,7 +58,7 @@ Asset
 
 </td><td>
 
-Asset that is used to fulfill the loaner asset request.When the Location field value of the Loaner Asset Request form is a service location of multiple [[c_Stockrooms|stockrooms]], the Asset field shows the list of loaner assets that are available in all those stockrooms in addition to the loaner assets available in the stockroom of that location. For more details on service locations, see [Associate a stockroom with service locations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/associate-stockroom-with-service-locations.md).
+Asset that is used to fulfill the loaner asset request.When the Location field value of the Loaner Asset Request form is a service location of multiple stockrooms, the Asset field shows the list of loaner assets that are available in all those stockrooms in addition to the loaner assets available in the stockroom of that location. For more details on service locations, see [Associate a stockroom with service locations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/associate-stockroom-with-service-locations.md).
 
 **Note:** The stockroom that is available at the specified location is preferred for fulfilling the loaner asset request. The stockrooms that support the specified location are considered only when there isn't any stockroom in that location.
 
@@ -145,7 +145,3 @@ Person who is assigned the task of fulfilling the Deploy task.
 
 **Parent Topic:**[Manage loaner assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/manage-loaner-asset.md)
 
-## Related
-
-- [[loaner-asset|Loaner assets]]
-- [[c_Stockrooms|Stockrooms]]

@@ -14,7 +14,7 @@ breadcrumb: [Express List in SOW for ITOM, Using SOW for ITOM, Service Operation
 
 # Identify an assigned Express List view
 
-Identify Express List views assigned to you by your [[c_EM|Event Management]] admin to make sure that you focus on specific services, priorities, or alerts.
+Identify Express List views assigned to you by your Event Management admin to make sure that you focus on specific services, priorities, or alerts.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
 2.  From the navigation bar, select the Express list icon \[Omitted image "express-list1.png"\].
 
@@ -44,7 +44,3 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 
 [Configuring Express List views for users and user groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/manage-views-express-list.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

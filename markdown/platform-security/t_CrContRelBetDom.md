@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-Domains in a contains relationship inherit the settings of the containing domain. The containing domain allows [[users|users]] to see data in the contained domain as well as any of its children. Processes are unaffected by a contains relationship.
+Domains in a contains relationship inherit the settings of the containing domain. The containing domain allows users to see data in the contained domain as well as any of its children. Processes are unaffected by a contains relationship.
 
 ## Procedure
 
@@ -28,7 +28,7 @@ Domains in a contains relationship inherit the settings of the containing domain
 
 2.  Select the domain record that is the parent \(container\) domain of the new contains relationship.
 
-3.  [[c_DomainScope|Toggle the domain scope]] to switch between the session scope and record scope, if necessary.
+3.  [Toggle the domain scope](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_DomainScope.md) to switch between the session scope and record scope, if necessary.
 
 4.  From the Contains Domains related list, click **Edit**.
 
@@ -44,10 +44,5 @@ Domains in a contains relationship inherit the settings of the containing domain
 **Related topics**  
 
 
-[[bp-domain-sep-recommended|Domain separation recommended practices for service providers]]
+[Domain separation recommended practices for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-domain-sep-recommended.md)
 
-## Related
-
-- [[c_DomainScope|Domain scope]]
-- [[bp-domain-sep-recommended|Domain separation recommended practices for service providers]]
-- [[users|Users]]

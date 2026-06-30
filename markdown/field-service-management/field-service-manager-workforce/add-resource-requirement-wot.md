@@ -78,7 +78,7 @@ Recommended number of resources required to work on the task.
 
 </td></tr><tr><td>
 
-[[mandatory-skills|Mandatory skills]]
+Mandatory skills
 
 </td><td>
 
@@ -119,6 +119,4 @@ Option to indicate that the resource requirement should be matched with availabl
 </td></tr></tbody>
 </table>7.  Select **Submit**.
 
-## Related
 
-- [[mandatory-skills|Mandatory skills]]

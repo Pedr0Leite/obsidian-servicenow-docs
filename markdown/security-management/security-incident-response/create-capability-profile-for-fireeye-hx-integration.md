@@ -14,7 +14,7 @@ breadcrumb: [FireEye Endpoint Security integration, Security Incident Response i
 
 # Create a capability profile for the FireEye Endpoint integration
 
-[[arcsight-esm-create-profile|Create a profile]] and select the FireEye HX capabilities that you want the profile to run.
+Create a profile and select the FireEye HX capabilities that you want the profile to run.
 
 ## Before you begin
 
@@ -121,9 +121,5 @@ This indicates that the profile is active. When the profile is active, it automa
 
 ## What to do next
 
-The next step is to configure your profile. Before you configure the settings for the profile, you may prefer to review the concepts for configuring profiles and triggering conditions. For more information, see [[understand-trigger-conditions-work-with-configuration-item|Understand how trigger conditions work with a configuration item]] for a profile.
+The next step is to configure your profile. Before you configure the settings for the profile, you may prefer to review the concepts for configuring profiles and triggering conditions. For more information, see Understand how trigger conditions work with a configuration item for a profile.
 
-## Related
-
-- [[arcsight-esm-create-profile|Create a profile]]
-- [[understand-trigger-conditions-work-with-configuration-item|Understand how trigger conditions work with a configuration item]]

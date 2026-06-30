@@ -14,7 +14,7 @@ breadcrumb: [Create a dashboard, Use, Dashboards, Strategic Planning, Strategic 
 
 # Edit a dashboard
 
-Customize or [[edit-dashboard-ppw|edit a dashboard]] as needed by adding sections, filters, images, lists, process mining maps, and rich text. If the dashboard has been shared, any changes you make are applied globally.
+Customize or edit a dashboard as needed by adding sections, filters, images, lists, process mining maps, and rich text. If the dashboard has been shared, any changes you make are applied globally.
 
 ## Before you begin
 
@@ -39,7 +39,7 @@ You can use the following elements to create or edit your dashboard.
 |Process Mining - Map|Maps the different states that are part of your process and the transitions between those states. See which states the objects of the process are in and the speed with which they change state. Requires an existing Process Mining project.|
 |Rich text|Holds text that you can format either as text or as html, including font selection, text size, highlighting, and hyperlinks. To edit HTML markup, open the HTML editor from the Configuration panel and select the Code tags &lt; &gt; icon.|
 
-\[Omitted image "dashboard-elements-spw.png"\] Alt text: dashboard elements in [[alignment-planner-workspace-landing-page|strategic planning]].
+\[Omitted image "dashboard-elements-spw.png"\] Alt text: dashboard elements in strategic planning.
 
 ## Procedure
 
@@ -129,7 +129,3 @@ The dashboard is updated with the latest changes.
 
 [Add a Platform Analytics dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/add-platform-dashboard-to-spw.md)
 
-## Related
-
-- [[edit-dashboard-ppw|Edit a dashboard]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

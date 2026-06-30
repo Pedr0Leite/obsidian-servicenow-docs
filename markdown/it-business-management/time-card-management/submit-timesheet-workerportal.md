@@ -22,11 +22,11 @@ Role required: timecard\_user
 
 ## About this task
 
-When you [[submit-time-sheet|submit a time sheet]], [[c_TimeCards|time cards]] are verified against the assigned [time sheet policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/time-sheet-policies.md). If there is no time sheet policy assigned, time cards are verified against the default time sheet policy. Business rules prevent you from submitting a time sheet in case any violation is found.
+When you submit a time sheet, time cards are verified against the assigned [time sheet policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/time-sheet-policies.md). If there is no time sheet policy assigned, time cards are verified against the default time sheet policy. Business rules prevent you from submitting a time sheet in case any violation is found.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[time-sheets|Time Sheets]]** &gt; **[[worker-portal|Time Sheet Portal]]**.
+1.  Navigate to **All** &gt; **Time Sheets** &gt; **Time Sheet Portal**.
 
 2.  Click **Submit**.
 
@@ -35,9 +35,3 @@ When you [[submit-time-sheet|submit a time sheet]], [[c_TimeCards|time cards]] a
 
 **Parent Topic:**[Time Sheet Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/worker-portal.md)
 
-## Related
-
-- [[submit-time-sheet|Submit a time sheet]]
-- [[c_TimeCards|Time cards]]
-- [[time-sheets|Time Sheets]]
-- [[worker-portal|Time Sheet Portal]]

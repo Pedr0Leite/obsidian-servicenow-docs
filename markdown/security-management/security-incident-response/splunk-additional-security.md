@@ -62,7 +62,7 @@ You must select a status option from the menu that displays all available status
 
 </td><td>
 
-In addition to updating the notable status value, you can also post comments to the notable event incident review history. As indicated in the instructions, you may edit the default text displayed in the comments section including adding or modifying the substitution variables using format $⁠\{field name\}$ for any field on the [[sir-landing-page|Security Incident Response]] incident form.
+In addition to updating the notable status value, you can also post comments to the notable event incident review history. As indicated in the instructions, you may edit the default text displayed in the comments section including adding or modifying the substitution variables using format $⁠\{field name\}$ for any field on the Security Incident Response incident form.
 
 </td></tr><tr><td id="d228414e137">
 
@@ -119,6 +119,4 @@ Option to update your SIR work notes in the Splunk Event comments. The comment i
 
     \[Omitted image "splunk\_es\_additional1\_security.png"\] Alt text: Additional Options: 2
 
-## Related
 
-- [[sir-landing-page|Security Incident Response]]

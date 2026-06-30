@@ -34,7 +34,7 @@ There are two reports for the reporting of breaches:
 -   Control PA Indicator Breaches
 
 -   **[Activate GRC: Performance Analytics Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)**  
-The GRC: Performance Analytics Integration plugin provides an integration between Performance Analytics and the Risk Management and [[r_PolicyComplianceMgmt|Policy and Compliance Management]] applications. This plugin provides more insight into organizational risk and compliance performance.
+The GRC: Performance Analytics Integration plugin provides an integration between Performance Analytics and the Risk Management and Policy and Compliance Management applications. This plugin provides more insight into organizational risk and compliance performance.
 -   **[Associate a PA indicator with a risk statement or control objective](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)**  
 You can associate Performance Analytics indicators with risk statements and policy statements to analyze trends related to the risk or policy.
 -   **[Associate a PA indicator with risks and controls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)**  
@@ -44,6 +44,3 @@ You can update all the items belonging to a GRC content record so each item is i
 
 **Parent Topic:**[Using Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/using-risk-mgmt.md)
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

@@ -59,7 +59,7 @@ spUtil.get("widget-sc-cat-item", {sys_id: "your_catalog_item_sys_id"}).then(func
 });
 ```
 
-When using the spUtil class in a widget client script, you must inject the class into the client script function. The following example embeds the [[cool-clock-widget|Cool Clock widget]]:
+When using the spUtil class in a widget client script, you must inject the class into the client script function. The following example embeds the Cool Clock widget:
 
 -   **Client script**
 
@@ -196,6 +196,3 @@ Each instance of the clock in the embedded clock widget appears with a different
 
 \[Omitted image "SampleClockOptions.png"\] Alt text: Embedded clock with four embedded widgets with four different time zones
 
-## Related
-
-- [[cool-clock-widget|Cool Clock widget]]

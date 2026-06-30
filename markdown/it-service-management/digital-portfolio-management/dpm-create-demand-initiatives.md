@@ -14,7 +14,7 @@ breadcrumb: [Work with solution data in Digital Portfolio Management, Digital Po
 
 # Create demand from Digital Portfolio Management
 
-Create demand using the [[dpm-landing|Digital Portfolio Management]] \(DPM\) application. DPM enables you to create demand for any business or technology management services that you own.
+Create demand using the Digital Portfolio Management \(DPM\) application. DPM enables you to create demand for any business or technology management services that you own.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ You can manage and create demands for services or service offerings that you own
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Digital Portfolio Management** &gt; **Digital Portfolio Management Workspace &gt; [[dpm-personal-portfolio|Personal Portfolios]]**
+1.  Navigate to **All** &gt; **Digital Portfolio Management** &gt; **Digital Portfolio Management Workspace &gt; Personal Portfolios**
 
 2.  To create demand, select a business or technology management service.
 
@@ -54,7 +54,3 @@ You can manage and create demands for services or service offerings that you own
 
 **Parent Topic:**[Work with solution data in Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-working-with.md)
 
-## Related
-
-- [[dpm-landing|Digital Portfolio Management]]
-- [[dpm-personal-portfolio|Personal portfolios]]

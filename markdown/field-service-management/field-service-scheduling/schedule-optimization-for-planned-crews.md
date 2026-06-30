@@ -14,9 +14,9 @@ breadcrumb: [Activate, Schedule Optimization, Setting up a Field Service schedul
 
 # Schedule Optimization for Planned Crews
 
-Use [[schedule-optimization|Schedule Optimization]] to assign tasks efficiently to planned crews, ensuring alignment with crew schedules and locations.
+Use Schedule Optimization to assign tasks efficiently to planned crews, ensuring alignment with crew schedules and locations.
 
-There are two types of crews in [[fsm-application-landing-page|Field Service Management]]:
+There are two types of crews in Field Service Management:
 
 -   **Planned crews**: Created in advance with assigned members, schedules, and locations. These crews are ideal for predictable work patterns and structured team assignments.
 -   **Dynamic crews**: Created on demand by the system to fulfill specific tasks. These crews are flexible but not compatible with Schedule Optimization.
@@ -31,7 +31,3 @@ To enable Schedule Optimization for planned crews:
 
 These steps ensure that the optimization engine can accurately match tasks to available crews based on time and geography.
 
-## Related
-
-- [[schedule-optimization|Schedule Optimization]]
-- [[fsm-application-landing-page|Field Service Management]]

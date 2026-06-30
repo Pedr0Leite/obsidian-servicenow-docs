@@ -42,7 +42,7 @@ Action
 
 </th></tr></thead><tbody><tr><td id="d656141e87">
 
-**Using [[legal-counsel-center-landing|Legal Counsel Center]] homepage**
+**Using Legal Counsel Center homepage**
 
 </td><td>
 
@@ -88,6 +88,3 @@ Action
 
 **Parent Topic:**[Approve or reject outside counsel engagement request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/lmm-approve-oce.md)
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]

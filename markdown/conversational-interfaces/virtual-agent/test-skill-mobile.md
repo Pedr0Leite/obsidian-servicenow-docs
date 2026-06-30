@@ -26,13 +26,10 @@ Role required: none
 
 2.  Speak the invocation name of your skill.
 
-    For example, `alexa now [[virtual-agent-landing-page|virtual agent]]`.
+    For example, `alexa now virtual agent`.
 
     Alexa responds to the Virtual Agent and returns a greeting message.
 
 
 **Parent Topic:**[Set up Conversational Integration with Alexa](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/setup-alexa.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

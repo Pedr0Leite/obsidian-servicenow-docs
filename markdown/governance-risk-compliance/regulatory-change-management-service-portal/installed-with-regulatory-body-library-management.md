@@ -14,7 +14,7 @@ breadcrumb: [Reference, Regulatory Change Management, Governance, Risk, and Comp
 
 # Roles and tables installed with Regulatory Agency Library
 
-Several types of components are installed with activation of the [[regulatory-agency-library-rcm|Regulatory Agency Library]] application, including tables and user roles.
+Several types of components are installed with activation of the Regulatory Agency Library application, including tables and user roles.
 
 ## Roles installed with Regulatory Agency Library
 
@@ -122,6 +122,3 @@ Stores regulatory agency profiles in Regulatory Agency Library.
 </td></tr></tbody>
 </table>**Parent Topic:**[Regulatory Change Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/rcm-reference.md)
 
-## Related
-
-- [[regulatory-agency-library-rcm|Regulatory Agency Library]]

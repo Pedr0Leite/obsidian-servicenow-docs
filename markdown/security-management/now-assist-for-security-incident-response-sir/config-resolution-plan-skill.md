@@ -29,7 +29,7 @@ Role required: sn\_si.admin
 
 1.  Navigate to **All** &gt; **Now Assist Admin** &gt; **Skills**.
 
-2.  In **Technology**, select **[[security-operations-landing-page|Security Operations]]**.
+2.  In **Technology**, select **Security Operations**.
 
     The Now Assist skills for Security Operations page displays the list of available skills.
 
@@ -53,6 +53,4 @@ Role required: sn\_si.admin
 
 10. Select **Save and continue**.
 
-## Related
 
-- [[security-operations-landing-page|Security Operations]]

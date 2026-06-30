@@ -26,7 +26,7 @@ You can associate a user with a primary assignment group by selecting the group 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]** &gt; **Team Performance** &gt; **Additional Managers**.
+1.  Navigate to **All** &gt; **Workforce Optimization for ITSM** &gt; **Team Performance** &gt; **Additional Managers**.
 
 2.  Click **New**.
 
@@ -43,6 +43,3 @@ You can associate a user with a primary assignment group by selecting the group 
 
 **Parent Topic:**[Setting up Teams in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/setup-teams-configurable-workforce-optimization-itsm.md)
 
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]

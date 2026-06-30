@@ -19,15 +19,15 @@ View an alert analysis created by Now Assist using generative AI. Alert analyses
 ## Before you begin
 
 -   Install the ITOM plugin in the Now Assist feature. For more information, see [Install the Now Assist for IT Operations Management \(ITOM\) plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/install-now-assist-itom.md).
--   View important information about the ServiceNow® Now Assist for [[r_ITOMApplications|IT Operations Management]] \(ITOM\) application in [Now Assist for ITOM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/now-assist-itom.md).
+-   View important information about the ServiceNow® Now Assist for IT Operations Management \(ITOM\) application in [Now Assist for ITOM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/now-assist-itom.md).
 
-**Note:** Currently, [[now-assist-itom|Now Assist for ITOM]] only supports tag-based, CMDB, Log Analytics, Mixed, Automated, and Network Traffic-based alert groups. For all other alert group types, it only analyzes the parent alert.
+**Note:** Currently, Now Assist for ITOM only supports tag-based, CMDB, Log Analytics, Mixed, Automated, and Network Traffic-based alert groups. For all other alert group types, it only analyzes the parent alert.
 
 Role required: evt\_mgmt\_operator
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
 2.  From the navigation bar, select the Express list icon \[Omitted image "express-list1.png"\].
 
@@ -65,9 +65,3 @@ Refresh the alert analysis.**Note:** Refreshing regenerates the results. Past re
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[r_ITOMApplications|IT Operations Management]]
-- [[now-assist-itom|Now Assist for ITOM]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

@@ -32,7 +32,7 @@ You can analyze the course items that were most taken by your team members. You 
 
 2.  Select the coaching icon \(\).
 
-3.  Select the **[[exploring-learning-exp|Learning]]** tab.
+3.  Select the **Learning** tab.
 
 4.  Select **Learning Courses** &gt; **All Courses**.
 
@@ -84,6 +84,3 @@ Select **To my groups**.
 
 **Parent Topic:**[Access external courses on Workforce Optimization for HR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/external-coruses-integration-wfo-hr.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]

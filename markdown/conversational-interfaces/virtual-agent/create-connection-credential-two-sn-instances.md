@@ -14,7 +14,7 @@ breadcrumb: [Using ServiceNow Virtual Agent as a secondary bot with Virtual Agen
 
 # Create a connection and credential in Virtual Agent Bot Interconnect
 
-To use ServiceNow® [[virtual-agent-landing-page|Virtual Agent]] as a secondary bot with Virtual Agent Bot Interconnect, configure the connection and credential records in the Bot Interconnect \(primary\) instance.
+To use ServiceNow® Virtual Agent as a secondary bot with Virtual Agent Bot Interconnect, configure the connection and credential records in the Bot Interconnect \(primary\) instance.
 
 ## Before you begin
 
@@ -35,7 +35,7 @@ Role required: admin
     |Name|Enter a unique name, such as `SNow Secondary Bot`.|
     |Credential|Leave this blank for now.|
     |Connection alias|Use the default value.|
-    |Connection URL|Enter the URL for [[virtual-agent-api-landing-page|Virtual Agent API]] on your secondary instance. For example, enter `https://secondary-instance-name.service-now.com/api/sn_va_as_service/bot/integration`.|
+    |Connection URL|Enter the URL for Virtual Agent API on your secondary instance. For example, enter `https://secondary-instance-name.service-now.com/api/sn_va_as_service/bot/integration`.|
 
 5.  Click **Submit**.
 
@@ -77,7 +77,7 @@ Role required: admin
 
 
 -   **[Create a connection and credential in Virtual Agent Bot Interconnect](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-connection-credential-two-sn-instances-uploading-attachments.md)**  
-[[create-connection-credential-two-sn-instances-uploading-attachments|Create a connection and credential in Virtual Agent Bot Interconnect]] \(primary instance\) to enable uploading of attachments in the secondary bot.
+Create a connection and credential in Virtual Agent Bot Interconnect \(primary instance\) to enable uploading of attachments in the secondary bot.
 
 **Parent Topic:**[Using ServiceNow Virtual Agent as a secondary bot with Virtual Agent Bot Interconnect](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/using-sn-secondary-bot-with-sn-primary.md)
 
@@ -85,8 +85,3 @@ Role required: admin
 
 **Next topic:**[Create a connection and credential in Virtual Agent Bot Interconnect](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-connection-credential-two-sn-instances-uploading-attachments.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[virtual-agent-api-landing-page|Virtual Agent API]]
-- [[create-connection-credential-two-sn-instances-uploading-attachments|Create a connection and credential in Virtual Agent Bot Interconnect]]

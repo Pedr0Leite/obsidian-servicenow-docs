@@ -21,11 +21,11 @@ Role required: admin
 
 ## About this task
 
-In headless [[use-cases|use cases]], the configurable product links the blueprint that you created in CPQ to the configuration that launches for end users when they select the product.
+In headless use cases, the configurable product links the blueprint that you created in CPQ to the configuration that launches for end users when they select the product.
 
 ## Procedure
 
-1.  Navigate to the Products tab in the [[cpq-utilities|Utilities]] section of the CPQ navigation pane.
+1.  Navigate to the Products tab in the Utilities section of the CPQ navigation pane.
 
     \[Omitted image "cpq-products-tab.png"\] Alt text: Products tab in the Utilities section of the navigation pane
 
@@ -35,12 +35,8 @@ In headless [[use-cases|use cases]], the configurable product links the blueprin
 
     The CSV file must include the following headers with appropriate information for your product:
 
-    \[Omitted image "cpq-configurable-product-csv.png"\] Alt text: CSV file headers for [[configurable-products-explore|configurable products]]
+    \[Omitted image "cpq-configurable-product-csv.png"\] Alt text: CSV file headers for configurable products
 
     If **configurable** is set to **TRUE**, the configurable product is automatically created in the CPQ environment.
 
-## Related
 
-- [[use-cases|Use cases]]
-- [[cpq-utilities|Utilities]]
-- [[configurable-products-explore|Configurable products]]

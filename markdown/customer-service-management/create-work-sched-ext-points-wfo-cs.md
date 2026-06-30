@@ -12,7 +12,7 @@ breadcrumb: [Setting up Work scheduler, Optimize workforce operations, Extend ca
 
 # Create extension points for Work scheduler
 
-Create extension [[gamification-components-points|points]] to customize your implementation in Work scheduler. For example, if you want your team members to work on an on-site task, you can configure the location of your team members to the work items assigned to them so that they can get to the tasks quickly.
+Create extension points to customize your implementation in Work scheduler. For example, if you want your team members to work on an on-site task, you can configure the location of your team members to the work items assigned to them so that they can get to the tasks quickly.
 
 ## Before you begin
 
@@ -35,9 +35,5 @@ The **WorkItemSkillsRecommendationManager** extension point is available by defa
 4.  Define the functions based on your needs to customize your implementation.
 
 
-**Parent Topic:**[[setting-up-work-scheduler-wfo-cs|Setting up Work scheduler in Workforce Optimization for Customer Service]]
+**Parent Topic:**[Setting up Work scheduler in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/setting-up-work-scheduler-wfo-cs.md)
 
-## Related
-
-- [[setting-up-work-scheduler-wfo-cs|Setting up Work scheduler in Workforce Optimization for Customer Service]]
-- [[gamification-components-points|Points]]

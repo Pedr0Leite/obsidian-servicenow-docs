@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings** &gt; **[[virtual-agent-landing-page|Virtual Agent]]**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings** &gt; **Virtual Agent**.
 
 2.  On the Virtual Agent Settings page, navigate to the Configure your interactive voice response \(IVR\) section and click **Configure IVR** under Configure pre-built adapter.
 
@@ -34,7 +34,7 @@ Role required: admin
 
 6.  On the User authentication method setup form, swipe the **Enable authentication** toggle switch to the right.
 
-    **Note:** Ensure that the application scope of your ServiceNow instance is set to the [[va-ivr-voice|Conversational IVR with Amazon Connect]] application before editing the User authentication method setup form.
+    **Note:** Ensure that the application scope of your ServiceNow instance is set to the Conversational IVR with Amazon Connect application before editing the User authentication method setup form.
 
 7.  Select the **Authentication style**.
 
@@ -77,8 +77,3 @@ Role required: admin
 
 **Parent Topic:**[Configure Conversational IVR with Amazon Connect](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-va-ivr.md)
 
-## Related
-
-- [[convint-landing-page|Conversational Interfaces]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[va-ivr-voice|Conversational IVR with Amazon Connect]]

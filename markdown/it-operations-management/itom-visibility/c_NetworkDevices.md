@@ -14,7 +14,7 @@ breadcrumb: [Data collected by ITOM Visibility, ITOM Visibility reference, ITOM 
 
 # Network device discovery
 
-[[r-discovery|Discovery]] identifies several network devices, including load balancers, routers, TCP connections, IP networks, and so on. It can find devices through traditional [[r_PortProbes|port probes]], and then through identifications and exploration probes, or through patterns. It also supports discovery by identifying HTTP and TCP connections.
+Discovery identifies several network devices, including load balancers, routers, TCP connections, IP networks, and so on. It can find devices through traditional port probes, and then through identifications and exploration probes, or through patterns. It also supports discovery by identifying HTTP and TCP connections.
 
 **Note:** See the knowledge article [KB0687582](https://support.servicenow.com/kb_view.do?sysparm_article=KB0687582) for information on model\_id and manufacturer.
 
@@ -37,7 +37,7 @@ Discovery identifies and classifies information about services and daemons.
 -   **[Uninterruptible power supply \(UPS\) discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_DataCollDiscoUnintPowerSupp.md)**  
 Discovery identifies and classifies information about an uninterruptible power supply \(UPS\).
 -   **[IBM WebSphere DataPower discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/data-coll-datapower.md)**  
-[[itom-visibility-landing-page|ITOM Visibility]] discovers IBM WebSphere DataPower. The Discovery feature uses the DataPower Server pattern for horizontal discovery. The [[c_ServiceMappingOverview|Service Mapping]] feature uses the DataPower pattern for top-down discovery.
+ITOM Visibility discovers IBM WebSphere DataPower. The Discovery feature uses the DataPower Server pattern for horizontal discovery. The Service Mapping feature uses the DataPower pattern for top-down discovery.
 -   **[Cisco Unified Computing System \(UCS\)-HD device discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r-CiscoUCSHD.md)**  
 Discovery and Service Mapping Patterns application uses the to find Cisco UCS equipment, including chassis and blades. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 -   **[Dell Remote Assistant Card discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_DRACDiscovery.md)**  
@@ -47,9 +47,3 @@ Discovery can find devices that use the HTTP protocol.
 
 **Parent Topic:**[Data collected by ITOM Visibility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/data-collected-by-itom-visibility.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[r_PortProbes|Port probes]]
-- [[itom-visibility-landing-page|ITOM Visibility]]
-- [[c_ServiceMappingOverview|Service Mapping]]

@@ -22,7 +22,7 @@ Role required: sn\_audit.admin, sn\_audit.manager, sn\_grc\_workspace.user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Audit** &gt; **[[audit-management-overview-ws|Audit Workspace]]**.
+1.  Navigate to **All** &gt; **Audit** &gt; **Audit Workspace**.
 
 2.  Select the tasks icon \(\[Omitted image "new-task-icon.png"\] Alt text: Tasks icon\).
 
@@ -44,9 +44,6 @@ Role required: sn\_audit.admin, sn\_audit.manager, sn\_grc\_workspace.user
 
     The reference cloud file that is already associated to other GRC records is now linked. After the file is connected to Microsoft, the auditor or engagement lead gets read or write access based on the defined access permissions.
 
-    For information on [[file-access-permissions|File access permissions]], see [Create Cloud File Access on engagements and audit tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/document-access-configuration.md).
+    For information on File access permissions, see [Create Cloud File Access on engagements and audit tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/document-access-configuration.md).
 
-## Related
 
-- [[audit-management-overview-ws|Audit Workspace]]
-- [[file-access-permissions|File access permissions]]

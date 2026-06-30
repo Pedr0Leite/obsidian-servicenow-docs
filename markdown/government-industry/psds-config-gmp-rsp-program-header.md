@@ -12,7 +12,7 @@ breadcrumb: [Configure the Reviewer Service Portal, Grants Management, Playbooks
 
 # Configure a custom program record header in the Reviewer Service Portal
 
-As an admin, you can configure the custom widget that renders the Program header displayed to the merit reviewer persona in the [[psds-rsp-overview|Reviewer Service Portal]].
+As an admin, you can configure the custom widget that renders the Program header displayed to the merit reviewer persona in the Reviewer Service Portal.
 
 ## Before you begin
 
@@ -32,6 +32,4 @@ Role required: admin
 
 5.  Select **Update**.
 
-## Related
 
-- [[psds-rsp-overview|Reviewer Service Portal]]

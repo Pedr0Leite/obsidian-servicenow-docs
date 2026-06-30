@@ -37,7 +37,7 @@ There are three components that make up the security settings for forums: forum 
     A forum is the container for user-created content. A forum must be configured with content types and permissions before becoming available for users to contribute content.
 
 
-You can create your own permission or use one of the default permissions that the [[servicenow-communities|Communities]] application delivers.
+You can create your own permission or use one of the default permissions that the Communities application delivers.
 
 |Permission|Description|
 |----------|-----------|
@@ -70,17 +70,17 @@ To assign permissions to users and user groups, create associations between foru
 
 -   You can use forum users and permissions in multiple forums.
 -   You can add multiple forum users and permissions to one forum.
--   You can [[copy-permissions-from-parent-forum|copy permissions from a parent forum]] to a child forum or from another forum altogether.
--   You can also define user-specific permission exceptions and [[debug-user-permissions|debug user permissions]].
+-   You can copy permissions from a parent forum to a child forum or from another forum altogether.
+-   You can also define user-specific permission exceptions and debug user permissions.
 
 -   **[Create a forum user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/add-user.md)**  
 You can create forum users, which you then use to define memberships to a forum.
 -   **[Create a permission](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/create-permission.md)**  
-[[create-permission|Create a permission]] to use to define a user's access to a forum and the content in the forum.
+Create a permission to use to define a user's access to a forum and the content in the forum.
 -   **[Clone a permission](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/clone-permission.md)**  
-[[clone-permission|Clone a permission]] if an existing permission record cannot be modified and you require a permission record with similar settings.
+Clone a permission if an existing permission record cannot be modified and you require a permission record with similar settings.
 -   **[Create a forum permission](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/create-forum-permission.md)**  
-Add a forum user and a permission to a forum to [[create-forum-permission|create a forum permission]].
+Add a forum user and a permission to a forum to create a forum permission.
 
 **Parent Topic:**[Configuring communities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/configure-communities.md)
 
@@ -127,11 +127,3 @@ Add a forum user and a permission to a forum to [[create-forum-permission|create
 
 [Community Service Portal]()
 
-## Related
-
-- [[servicenow-communities|Communities]]
-- [[copy-permissions-from-parent-forum|Copy permissions from a parent forum]]
-- [[debug-user-permissions|Debug user permissions]]
-- [[create-permission|Create a permission]]
-- [[clone-permission|Clone a permission]]
-- [[create-forum-permission|Create a forum permission]]

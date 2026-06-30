@@ -36,7 +36,7 @@ Endpoint: `/services/apexrest/LGK/cpq-quote-lines/reconfigure`
 
 Methods: Receives and returns `application/json`.
 
-PATCH: The method currently only supports two [[fields|fields]], `configurationId` and `configurableQuoteLineId`.
+PATCH: The method currently only supports two fields, `configurationId` and `configurableQuoteLineId`.
 
 Response: A quote \(`SBQQ__Q__c`\) record.
 
@@ -128,6 +128,3 @@ The response is a JSON formatted string representing the quote object, similar t
 
 If a field on the Quote Line object in Salesforce has a name that matches, custom values can be written from the `extended` or `pricing` information in a CPQ product.
 
-## Related
-
-- [[fields|Fields]]

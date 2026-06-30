@@ -16,7 +16,7 @@ breadcrumb: [Service Graph Connectors, Integrating third-party data into CMDB, C
 
 Use the Service Graph Connector for Microsoft Intune to pull data from the Microsoft Intune application into your ServiceNow instance.
 
-The Service Graph Connector for Microsoft Intune pulls data from mobile devices, computers and software applications into the ServiceNow® [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]] application. The integration provides greater visibility into mobile devices, computers and related software applications that run on them.
+The Service Graph Connector for Microsoft Intune pulls data from mobile devices, computers and software applications into the ServiceNow® Configuration Management Database \(CMDB\) application. The integration provides greater visibility into mobile devices, computers and related software applications that run on them.
 
 ## Request apps on the Store
 
@@ -62,17 +62,17 @@ You can also do the following types of administrative actions:
 
 ## Configuring a connection for the connector
 
-You can configure a connection for the connector by using the [[sgcc-landing|SGC Central]] view in the [[sg-workspace|Service Graph Workspace]] or CMDB Workspace. The view enables you to discover and install connectors, and then effectively manage the full life cycle of creating, editing, monitoring, and debugging connections. To configure the connector using SGC Central, see [Configure Service Graph Connector for Microsoft Intune using SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgcc-configure-intune-integ.md).
+You can configure a connection for the connector by using the SGC Central view in the Service Graph Workspace or CMDB Workspace. The view enables you to discover and install connectors, and then effectively manage the full life cycle of creating, editing, monitoring, and debugging connections. To configure the connector using SGC Central, see [Configure Service Graph Connector for Microsoft Intune using SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgcc-configure-intune-integ.md).
 
 **Important:** The guided setup method is deprecated from version 2.7.0 of the Service Graph Connector for Microsoft Intune. Use the SGC Central view in the Service Graph Workspace or CMDB Workspace to configure the connection for the connector.
 
 ## CMDB integration dashboards
 
-The [[integration-commons-for-cmdb|Integration Commons for CMDB]] store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring Microsoft Intune integrations in the [[cmdb-integ-dashboard|CMDB Integrations Dashboard]], see [Using the CMDB Integrations Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-integration-commons/integration-commons-for-cmdb.md).
+The Integration Commons for CMDB store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring Microsoft Intune integrations in the CMDB Integrations Dashboard, see [Using the CMDB Integrations Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-integration-commons/integration-commons-for-cmdb.md).
 
 ## Data mapping
 
-Data from data sources in the Microsoft Intune application is mapped and transformed into the ServiceNow CMDB Configuration Item \(CI\) class definitions using the Robust Transform Engine \(RTE\). Data is inserted into the ServiceNow CMDB using the [[ire|Identification and Reconciliation Engine \(IRE\)]].
+Data from data sources in the Microsoft Intune application is mapped and transformed into the ServiceNow CMDB Configuration Item \(CI\) class definitions using the Robust Transform Engine \(RTE\). Data is inserted into the ServiceNow CMDB using the Identification and Reconciliation Engine \(IRE\).
 
 The following table describes the data sources, the staging tables, and the target tables as CMDB CI classes, and the resource types imported for a Microsoft Intune application.
 
@@ -266,14 +266,14 @@ After you complete setting up the connection, you can configure the integration 
 **Note:**
 
 -   For any discovered software applications that were deleted later in the Microsoft Intune application, the Service Graph Connector automatically deletes the corresponding records in CMDB.
--   To view more details about a handheld computing device or computer in the [[class-computer|Computer \[cmdb\_ci\_computer\] class]], enable the related lists SG-Intune Device Related and SG-Intune Computer Related.
+-   To view more details about a handheld computing device or computer in the Computer \[cmdb\_ci\_computer\] class, enable the related lists SG-Intune Device Related and SG-Intune Computer Related.
 
     You can add these related lists by configuring the Related Lists view on the form that opens when you select a handheld computing device or computer configuration item \(CI\) in the Computer \[cmdb\_ci\_computer\] class. Computer CIs are displayed in the Computers list, accessed by navigating to **All** &gt; **Configuration** &gt; **Base Items** &gt; **Computers**. For more information about adding related lists to a form, see [Configuring the form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md).
 
 
 For more information on where data is saved when pulling data from a Microsoft Intune application, see [CMDB classes targeted in Service Graph Connector for Microsoft Intune](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-intune-classes.md).
 
-You can use the [[integrationhub-etl|IntegrationHub ETL]] app to view the data maps. See [IntegrationHub ETL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/integration-hub-etl/integrationhub-etl.md) for more information.
+You can use the IntegrationHub ETL app to view the data maps. See [IntegrationHub ETL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/integration-hub-etl/integrationhub-etl.md) for more information.
 
 ## Additional resources
 
@@ -287,13 +287,3 @@ You can use the [[integrationhub-etl|IntegrationHub ETL]] app to view the data m
 
 [Configure Service Graph Connector for Microsoft Intune using SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgcc-configure-intune-integ.md)
 
-## Related
-
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[sgcc-landing|SGC Central]]
-- [[sg-workspace|Service Graph Workspace]]
-- [[integration-commons-for-cmdb|Integration Commons for CMDB]]
-- [[cmdb-integ-dashboard|CMDB Integrations Dashboard]]
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]
-- [[class-computer|Computer \[cmdb\_ci\_computer\] class]]
-- [[integrationhub-etl|IntegrationHub ETL]]

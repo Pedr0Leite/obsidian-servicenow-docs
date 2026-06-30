@@ -33,7 +33,7 @@ The Procurement Case Management \(sn\_spend\_psd\) application installs the foll
 
 -   Common Service Delivery \(sn\_spend\_sdc\)
 
--   [[purch-order-mgmt-ws|Source-to-Pay Workspace]] \(sn\_spend\_workspace\)
+-   Source-to-Pay Workspace \(sn\_spend\_workspace\)
 
 
 ## Required roles
@@ -50,23 +50,23 @@ You can configure the following roles and tasks:
 -   sn\_spend\_psd.requestor: Create procurement cases.
 
 -   **[Procurement case types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/procurement-case-types.md)**  
-[[procurement-case-types|Procurement case types]] classify and route procurement work items to the appropriate team, and can block order or sourcing processing until the required review or action is complete.
+Procurement case types classify and route procurement work items to the appropriate team, and can block order or sourcing processing until the required review or action is complete.
 -   **[Work prioritization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/work-prioritization.md)**  
-[[work-prioritization|Work prioritization]] automatically assigns a priority level to purchase requisitions, sourcing requests, and procurement cases so that procurement specialists can work the most urgent items first.
+Work prioritization automatically assigns a priority level to purchase requisitions, sourcing requests, and procurement cases so that procurement specialists can work the most urgent items first.
 -   **[Supplier qualification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/supplier-qualification.md)**  
 As a procurement specialist or Procurement Case Management \(PCM\) agent, you would want to engage with suppliers who are qualified to fulfill your organization's purchasing needs.
 -   **[Process Automation Designer flows for playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/process-automation-designer-flows-psm.md)**  
 The Source-to-Pay Workspace helps you automate the entire process, right from tracking the requests, fulfillment, and to order revision flows.
 -   **[Email notifications from Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/email-notifications-workspace.md)**  
-Several email notifications are triggered from Playbook. This may be a result of your action, an assignment for you, or to keep you updated on the status of your purchases, including [[purchase-revisions|purchase revisions]].
+Several email notifications are triggered from Playbook. This may be a result of your action, an assignment for you, or to keep you updated on the status of your purchases, including purchase revisions.
 -   **[Email composer with quick messages and response templates in Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/email-composer-with-quick-messages-and-response-templates-psm.md)**  
 Insert predefined content into the message body of emails that you send from the email client in Source-to-Pay Workspace.
 -   **[Agent assist in Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/agent-assist-procurement-workspace.md)**  
-[[agent-assist-procurement-workspace|Agent assist in Source-to-Pay Workspace]] automatically displays relevant search results based on the search text, which is defaulted with the short description of the procurement case you’re working on. You can edit the search text as required. These search results help you to work on the record.
+Agent assist in Source-to-Pay Workspace automatically displays relevant search results based on the search text, which is defaulted with the short description of the procurement case you’re working on. You can edit the search text as required. These search results help you to work on the record.
 -   **[Interaction Management in Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/interaction-management-in-procurement-operations-workspace.md)**  
 Interactions are a centralized location for all communication channels available in Source-to-Pay Workspace. Interaction Management involves managing procurement related queries from different sources such as an email, chat, message, or SMS.
 -   **[Procurement Case Management Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/procurement-service-delivery-dashboard.md)**  
-The [[procurement-service-delivery-dashboard|Procurement Case Management Dashboard]] helps you to track, analyze, and manage your procurement services.
+The Procurement Case Management Dashboard helps you to track, analyze, and manage your procurement services.
 
 **Parent Topic:**[Explore Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/exploring-spo.md)
 
@@ -101,11 +101,3 @@ The [[procurement-service-delivery-dashboard|Procurement Case Management Dashboa
 
 [Application plugin installation sequence in Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/application-plugin-list.md)
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[procurement-case-types|Procurement case types]]
-- [[work-prioritization|Work prioritization]]
-- [[purchase-revisions|Purchase revisions]]
-- [[agent-assist-procurement-workspace|Agent assist in Source-to-Pay Workspace]]
-- [[procurement-service-delivery-dashboard|Procurement Case Management Dashboard]]

@@ -35,14 +35,9 @@ An Account Payable Specialist fills the key fields in the purchase order for inv
 
 |Field|Data type|Description|
 |-----|---------|-----------|
-|Cost center|Reference|The [[cost-center|cost center]] incurring the expense of this order.|
-|Legal entity|Reference|Internal [[legal-entity|legal entity]] making this purchase|
-|Payment term|Reference|The agreed time and conditions of payment to the [[supplier|supplier]].|
+|Cost center|Reference|The cost center incurring the expense of this order.|
+|Legal entity|Reference|Internal legal entity making this purchase|
+|Payment term|Reference|The agreed time and conditions of payment to the supplier.|
 
 **Parent Topic:**[Data required for invoice processing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/master-data-table-apo.md)
 
-## Related
-
-- [[cost-center|Cost center]]
-- [[legal-entity|Legal entity]]
-- [[supplier|Supplier]]

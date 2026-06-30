@@ -14,7 +14,7 @@ breadcrumb: [Crew operations, Using Dispatcher Workspace, Assigning tasks from D
 
 # Search for tasks that need a crew on Dispatcher Workspace
 
-Search for work order tasks that require a crew in the [[dispatcher-activities|Dispatcher Workspace]] task panel.
+Search for work order tasks that require a crew in the Dispatcher Workspace task panel.
 
 ## Before you begin
 
@@ -37,6 +37,3 @@ You can filter and sort work order tasks based on the Crew Tasks filter configur
 
 All tasks that require a crew and are in the Pending Dispatch state are displayed in the task panel.
 
-## Related
-
-- [[dispatcher-activities|Dispatcher Workspace]]

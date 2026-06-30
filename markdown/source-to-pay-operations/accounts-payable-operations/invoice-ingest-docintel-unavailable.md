@@ -15,9 +15,9 @@ breadcrumb: [Invoice processing cases, Using Accounts Payable Invoice Processing
 
 # Invoice ingestion process when Document Intelligence is unavailable
 
-When Document Intelligence is unavailable or not installed, [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] creates an invoice processing case without generating an invoice record, requiring manual invoice creation.
+When Document Intelligence is unavailable or not installed, Accounts Payable Operations creates an invoice processing case without generating an invoice record, requiring manual invoice creation.
 
-In this scenario, the invoice processing case displays the **[[create-invoice|Create invoice]]** and **Close case** options. The Accounts Payable Specialist must open the invoice processing case and either create the invoice or close the invoice processing case.
+In this scenario, the invoice processing case displays the **Create invoice** and **Close case** options. The Accounts Payable Specialist must open the invoice processing case and either create the invoice or close the invoice processing case.
 
 -   **[Create an invoice manually when Document Intelligence is unavailable](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-invoice-no-docintel.md)**  
 Manually create an invoice as an Accounts Payable Specialist when Document Intelligence is unavailable and an invoice processing case has been auto-created without invoice data.
@@ -26,7 +26,3 @@ Close an auto-generated invoice processing case when you create an invoice manua
 
 **Parent Topic:**[Invoice processing cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/working-with-ingestion-cases.md)
 
-## Related
-
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[create-invoice|create invoice]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure self-registration for external users, Install Supplier Co
 
 # Configure system property to send registration emails to external users
 
-Configure the sn\_supplier.external\_registration\_profile\_id system property to ensure that registration emails are sent to external users for accessing the [[supplier-central|Supplier Collaboration Portal]].
+Configure the sn\_supplier.external\_registration\_profile\_id system property to ensure that registration emails are sent to external users for accessing the Supplier Collaboration Portal.
 
 ## Before you begin
 
@@ -42,7 +42,7 @@ Role required: admin
 
 8.  Select **Update**.
 
-    On the [[supplier-case-management|Supplier Case Management]] Properties page, the **Sys Id of the External User Registration Configuration for Onboarding a contact for a [[supplier|supplier]]** field is auto-populated with the sys ID of the user registration configuration you specified in the **Value** field of the **sn\_supplier.external\_registration\_profile\_id** system property.
+    On the Supplier Case Management Properties page, the **Sys Id of the External User Registration Configuration for Onboarding a contact for a supplier** field is auto-populated with the sys ID of the user registration configuration you specified in the **Value** field of the **sn\_supplier.external\_registration\_profile\_id** system property.
 
 
 **Parent Topic:**[Configure self-registration for external users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/config-reg-for-external-users-slm.md)
@@ -54,8 +54,3 @@ Role required: admin
 
 [Enable notifications about self-registration errors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/enable-supp-admin-emails.md)
 
-## Related
-
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[supplier-case-management|Supplier Case Management]]
-- [[supplier|Supplier]]

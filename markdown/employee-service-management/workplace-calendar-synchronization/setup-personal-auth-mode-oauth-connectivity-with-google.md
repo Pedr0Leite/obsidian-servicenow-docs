@@ -22,7 +22,7 @@ Create a personal authentication mode application registry for Google Calendar w
 
 Ensure that the application scope is set to **Google Calendar Spoke**. Otherwise, do the following:
 
-1.  Select the Application scope icon \(\[Omitted image "application-scope-globe-icon.png"\] Alt text: Application scope to set the scope of your application.\) on the top-right corner of your [[employee-center-landing-page|Employee Center]] homepage.
+1.  Select the Application scope icon \(\[Omitted image "application-scope-globe-icon.png"\] Alt text: Application scope to set the scope of your application.\) on the top-right corner of your Employee Center homepage.
 2.  In the drop- down, select the option consisting **Application scope:**.
 3.  In the filter navigator, search and select **Google Calendar Spoke**.
 4.  Refresh the page.
@@ -56,6 +56,3 @@ Role required: admin
 
 The OAuth connectivity is added for Google.
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

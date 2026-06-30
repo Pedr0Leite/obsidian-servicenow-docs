@@ -31,8 +31,5 @@ The Contact form enables you to add the customer contact to the interaction reco
 **Related topics**  
 
 
-[[create-a-customer-contact_EaaI|Create a customer contact]]
+[Create a customer contact](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-a-customer-contact_EaaI.md)
 
-## Related
-
-- [[create-a-customer-contact_EaaI|Create a customer contact]]

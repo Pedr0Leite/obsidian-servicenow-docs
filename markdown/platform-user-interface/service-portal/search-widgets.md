@@ -14,29 +14,22 @@ breadcrumb: [Widget library, Using portal widgets, Configuring Service Portal, S
 
 # Search widgets
 
-Several search widgets are provided with [[c_ServicePortal|Service Portal]].
+Several search widgets are provided with Service Portal.
 
-You can [[configure-onboarding-modals|configure]] search in Service Portal using any of the search widgets.
+You can configure search in Service Portal using any of the search widgets.
 
 -   **[AI Search Assist widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/ais-assist-widget.md)**  
 Improve incident deflection for Service Portal users by displaying the most relevant search results within a record producer.
 -   **[Contextual Search widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/contextual-search-widget.md)**  
-Contextual Search is an embedded widget that can be added to a record producer and used with the [[sc-catalog-item-widget|SC Catalog Item widget]]. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
+Contextual Search is an embedded widget that can be added to a record producer and used with the SC Catalog Item widget. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 -   **[Faceted Search widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/faceted-search.md)**  
-The [[faceted-search|Faceted Search widget]] displays search results and search facets defined for a search source. The Faceted Search widget enables end users to filter search results for a more meaningful result set.
+The Faceted Search widget displays search results and search facets defined for a search source. The Faceted Search widget enables end users to filter search results for a more meaningful result set.
 -   **[Homepage Search widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/home-page-search-widget.md)**  
 Add a search bar to your home page. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 -   **[Legacy: Search Page widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/search-page-widget.md)**  
-The [[search-page-widget|Search Page widget]] displays search results. The Faceted Search widget replaces the Search Page widget. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
+The Search Page widget displays search results. The Faceted Search widget replaces the Search Page widget. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 -   **[Typeahead Search widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/typeahead-search-widget.md)**  
 Predictive search feature that shows words as users type. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 
 **Parent Topic:**[Widget library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/widget-showcase.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[configure-onboarding-modals|Configure]]
-- [[sc-catalog-item-widget|SC Catalog Item widget]]
-- [[faceted-search|Faceted Search widget]]
-- [[search-page-widget|search page widget]]

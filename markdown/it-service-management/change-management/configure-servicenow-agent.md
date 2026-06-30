@@ -14,7 +14,7 @@ breadcrumb: [Mobile experience for Change Management, Use, Change Management, IT
 
 # Download the Mobile Agent mobile application
 
-Access Mobile Agent on your mobile device to manage your [[change-tasks|change tasks]].
+Access Mobile Agent on your mobile device to manage your change tasks.
 
 ## Before you begin
 
@@ -35,6 +35,3 @@ The Mobile Agent mobile application runs on the Mobile App Builder mobile platfo
 
 **Parent Topic:**[Mobile experience for Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/mobile-experience-cm.md)
 
-## Related
-
-- [[change-tasks|Change tasks]]

@@ -18,7 +18,7 @@ Access Dynamic Translation spoke actions from Workflow Studio to detect and tran
 
 ## Before you begin
 
--   Ensure that the [[dynamic-translation-spoke|Dynamic Translation spoke]] \(com.glide.dynamic\_translation.spoke\) is activated with the [[dynamic-translation|Dynamic Translation]] plugin \(com.glide.dynamic\_translation\), and configure a machine translation service provider for both detection and translation.
+-   Ensure that the Dynamic Translation spoke \(com.glide.dynamic\_translation.spoke\) is activated with the Dynamic Translation plugin \(com.glide.dynamic\_translation\), and configure a machine translation service provider for both detection and translation.
 -   Role required: admin
 
 ## Procedure
@@ -35,7 +35,4 @@ Access Dynamic Translation spoke actions from Workflow Studio to detect and tran
 
     For more information, see [Actions in Dynamic Translation spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/actions-dt-spoke.md).
 
-## Related
 
-- [[dynamic-translation-spoke|Dynamic Translation spoke]]
-- [[dynamic-translation|Dynamic translation]]

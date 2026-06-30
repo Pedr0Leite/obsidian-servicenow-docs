@@ -14,7 +14,7 @@ breadcrumb: [MID Server reference, MID Server, Manage instance data sources, Ext
 
 # MID Server Configuration Parameter settings and priority
 
-The [[mid-server-landing|MID Server]]'s settings reside in multiple tables and the MID Server prioritizes them in a set order. MIDConfigParameter must be defined with the correct type-style builders.
+The MID Server's settings reside in multiple tables and the MID Server prioritizes them in a set order. MIDConfigParameter must be defined with the correct type-style builders.
 
 ## MID Server settings priority
 
@@ -63,6 +63,3 @@ Similarly, avoid creating global configuration parameters because they are unsup
 
 [Pause the MID Server]()
 
-## Related
-
-- [[mid-server-landing|MID Server]]

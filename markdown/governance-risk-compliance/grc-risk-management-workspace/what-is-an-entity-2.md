@@ -18,14 +18,14 @@ An entity is a person, process, department, application, or other object whose c
 
 Before you can work with entities, you need three supporting constructs:
 
--   An [[entity-class|entity class]] groups entities by category, such as Financial or Location, and associates that category with a tier.
+-   An entity class groups entities by category, such as Financial or Location, and associates that category with a tier.
 -   An entity type uses filter conditions to identify which source records are set to entities. For example, all records where Category = Financial and Criticality = High.
--   An [[entity-tier|entity tier]] assigns a criticality level to [[entity-class-in-risk-ws|entity classes]]. For example, Tier 1 for critical items and Tier 2 for standard items.
+-   An entity tier assigns a criticality level to entity classes. For example, Tier 1 for critical items and Tier 2 for standard items.
 
     Once these constructs are in place, GRC generates entities automatically when a matching source record is created.
 
 
-To understand how these constructs work together, consider the following example. Your organization wants to track compliance across its critical financial systems. First, [[create-new-entity-tier-ws|create an entity tier]] called Tier 1 to represent high-criticality items. Then [[create-new-entity-class-ws|create an entity class]] called Financial and associate it with Tier 1. Next, [[create-new-entity-type-ws|create an entity type]] called Critical Financial Systems with a filter that matches records where Category = Financial and Criticality = High. When a source record matching that filter is created, GRC automatically generates an entity, assigns it the Financial class, and surfaces it in the Tier 1 view. If one system fails an audit, only that system's entity and its owner are held accountable. The other systems are unaffected.
+To understand how these constructs work together, consider the following example. Your organization wants to track compliance across its critical financial systems. First, create an entity tier called Tier 1 to represent high-criticality items. Then create an entity class called Financial and associate it with Tier 1. Next, create an entity type called Critical Financial Systems with a filter that matches records where Category = Financial and Criticality = High. When a source record matching that filter is created, GRC automatically generates an entity, assigns it the Financial class, and surfaces it in the Tier 1 view. If one system fails an audit, only that system's entity and its owner are held accountable. The other systems are unaffected.
 
 Entities can also be related to each other. An entity with child entities has downstream entities. An entity with parent entities has upstream entities.
 
@@ -50,15 +50,15 @@ For more information, see [Entity classes](https://raw.githubusercontent.com/Ser
 
 ## Entity class rules
 
-[[entity-class-rules-in-risk-ws|Entity class rules]] help to assign classes to the entities at the table level. Any new entity created on the table gets that entity class automatically. Entity classes are used to tag your entities.
+Entity class rules help to assign classes to the entities at the table level. Any new entity created on the table gets that entity class automatically. Entity classes are used to tag your entities.
 
-When you [[create-new-entity-ws|create an entity]] over a specific table, the class associated with that table automatically gets assigned to the entity. You can set a new entity class rule for a table.
+When you create an entity over a specific table, the class associated with that table automatically gets assigned to the entity. You can set a new entity class rule for a table.
 
 For more information, see [Entity class rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/entity-class-rules-in-risk-ws.md).
 
 ## Entity types
 
-An entity type is a grouping of entities that is based on filtering. [[entity-type-in-risk-ws|Entity types]] enable you to find and create entities that match a set of filter conditions. Hierarchy can be created within the entity classes.
+An entity type is a grouping of entities that is based on filtering. Entity types enable you to find and create entities that match a set of filter conditions. Hierarchy can be created within the entity classes.
 
 Entity types also enable you to create risks and controls for each entity without spending much time. For example, an organization can have multiple departments, such as finance, HR, or IT. All these departments can be considered as entities and can be grouped under the entity type called Departments.
 
@@ -70,9 +70,9 @@ For more information, see [Entity types](https://raw.githubusercontent.com/Servi
 
 ## Entity tiers
 
-When you create [[entity-tier-in-risk-ws|entity tiers]], you apply a level or hierarchy to the entity classes. This level applies to all the entities in those entity classes. Entity tiers enable you to select and view the status of the most critical items in the business as shown in the following example.
+When you create entity tiers, you apply a level or hierarchy to the entity classes. This level applies to all the entities in those entity classes. Entity tiers enable you to select and view the status of the most critical items in the business as shown in the following example.
 
-\[Omitted image "entity-tier-list-view.png"\] Alt text: [[list-view-uib-ws|List view]] for an entity tier.
+\[Omitted image "entity-tier-list-view.png"\] Alt text: List view for an entity tier.
 
 For more information, see [Entity tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/entity-tier-in-risk-ws.md).
 
@@ -85,16 +85,3 @@ For more information, see [Entity tiers](https://raw.githubusercontent.com/Servi
 
 [Entity scoping in GRC](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/c_Scoping.md)
 
-## Related
-
-- [[entity-class|entity class]]
-- [[entity-tier|entity tier]]
-- [[entity-class-in-risk-ws|Entity classes]]
-- [[create-new-entity-tier-ws|Create an entity tier]]
-- [[create-new-entity-class-ws|Create an entity class]]
-- [[create-new-entity-type-ws|Create an entity type]]
-- [[entity-class-rules-in-risk-ws|Entity class rules]]
-- [[create-new-entity-ws|Create an entity]]
-- [[entity-type-in-risk-ws|Entity types]]
-- [[entity-tier-in-risk-ws|Entity tiers]]
-- [[list-view-uib-ws|List view]]

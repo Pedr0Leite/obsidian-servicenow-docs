@@ -14,7 +14,7 @@ breadcrumb: [Configure advanced features, Performance Analytics \(Indicator data
 
 # Integrate Performance Analytics
 
-Integrate Performance Analytics with an external system to collect scores based on remote data or to expose [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]] information.
+Integrate Performance Analytics with an external system to collect scores based on remote data or to expose Analytics Hub information.
 
 REST and Javascript APIs are available for you to create your queries.
 
@@ -23,6 +23,3 @@ These examples demonstrate how to perform a REST query using cURL commands, and 
 
 **Parent Topic:**[Configure Performance Analytics advanced features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_PADataArchitecture.md)
 
-## Related
-
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]

@@ -15,7 +15,7 @@ breadcrumb: [Integrate VA with Teams, Conversational Integration with Microsoft 
 
 # Manage the ServiceNow Virtual Agent integration with Microsoft Teams
 
-Manage your ServiceNow® [[virtual-agent-landing-page|Virtual Agent]] bot branding and customize the bot messages in your ServiceNow instance after integration with Microsoft Teams.
+Manage your ServiceNow® Virtual Agent bot branding and customize the bot messages in your ServiceNow instance after integration with Microsoft Teams.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Manage your ServiceNow® [[virtual-agent-landing-page|Virtual Agent]] bot brandi
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings**.
 
 2.  In **General Settings** under **Channels and integrations**, select **View All**.
 
@@ -53,7 +53,3 @@ Manage your ServiceNow® [[virtual-agent-landing-page|Virtual Agent]] bot brandi
 
 **Parent Topic:**[Integrate Virtual Agent with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-integ-msteams.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]

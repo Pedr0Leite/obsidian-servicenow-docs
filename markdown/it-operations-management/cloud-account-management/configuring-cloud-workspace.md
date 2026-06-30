@@ -15,8 +15,5 @@ breadcrumb: [Configuring Cloud Account Management, Cloud Account Management, ITO
 
 # Setting up Cloud Account Management in Cloud Workspace
 
-This section covers all the general topics required to set up [[cam-landing|Cloud Account Management]]. The topics are arranged in order of configuration priority.
+This section covers all the general topics required to set up Cloud Account Management. The topics are arranged in order of configuration priority.
 
-## Related
-
-- [[cam-landing|Cloud Account Management]]

@@ -31,7 +31,7 @@ The agent tries each proxy in order, from the lowest **Order** value to the high
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-landing-page|Agent Client Collector]]** &gt; **Package Download Proxies**.
+1.  Navigate to **All** &gt; **Agent Client Collector** &gt; **Package Download Proxies**.
 
 2.  Select **New**.
 
@@ -69,6 +69,3 @@ To temporarily block all CDN downloads, clear the **Active** check box on all pr
 
 **Parent Topic:**[Agent Client Collector upgrade overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-agent-upgrade-overview.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

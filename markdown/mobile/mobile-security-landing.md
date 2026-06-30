@@ -12,7 +12,7 @@ breadcrumb: [Configuring the Mobile Platform, Mobile Platform]
 
 # Mobile security
 
-Learn about the security features of the ServiceNow [[mobile-config-navigation|mobile platform]].
+Learn about the security features of the ServiceNow mobile platform.
 
 ## ServiceNow mobile architecture
 
@@ -68,7 +68,7 @@ ServiceNow mobile apps start fetching the initial user experience after a succes
     2.  The instance receives the request and checks if the token is valid
     3.  The instance checks the access control list \(ACL\) rules.
     4.  If valid, the document is available to view.
--   **[[sg-mobile-securitywrite-backs|Write-backs]] for updating fields**
+-   **Write-backs for updating fields**
 
     When a user updates a field in the mobile app, the following steps occur.
 
@@ -102,7 +102,7 @@ ServiceNow mobile apps support platform authentication using OAuth 2.0. Authenti
 
     When an administrator deletes or removes a user from the instance, the access token is no longer valid, and any operation logs the user out.
 
-    \[Omitted image "security-mobile-architecture-3.png"\] Alt text: [[mobile-authentication|Mobile authentication]] workflow.
+    \[Omitted image "security-mobile-architecture-3.png"\] Alt text: Mobile authentication workflow.
 
 -   **Multi-provider SSO**
 
@@ -123,7 +123,7 @@ ServiceNow mobile apps use SSL/TLS over-the-air \(OTA\) communication encryption
 
 -   **Data at rest**
 
-    Application preference data such as favorites, home screen, and the mobile navigator items are stored and cached locally on the device. The mobile apps do not store record data such as incidents and problems on the device unless your organization has specifically enabled offline syncing for field service. Record data stored during [[mobile-offline-mode|offline mode]] is encrypted with FIPS 140-2 validated modules. \(iOS cryptographic modules and SQL Cipher for Android which uses this cryptographic module for encryption\).
+    Application preference data such as favorites, home screen, and the mobile navigator items are stored and cached locally on the device. The mobile apps do not store record data such as incidents and problems on the device unless your organization has specifically enabled offline syncing for field service. Record data stored during offline mode is encrypted with FIPS 140-2 validated modules. \(iOS cryptographic modules and SQL Cipher for Android which uses this cryptographic module for encryption\).
 
     \[Omitted image "security-mobile-architecture-4.png"\] Alt text: Data at rest.
 
@@ -133,7 +133,7 @@ ServiceNow mobile apps use SSL/TLS over-the-air \(OTA\) communication encryption
 
 -   **Data loss prevention**
 
-    ServiceNow provides data loss prevention features without the need for the device and application be managed by an [[enterprise-mobility-management|enterprise mobility management \(EMM\)]] suite. These features includes restrict copy/paste, enforce PIN, block attachment, and/or blur functionality.
+    ServiceNow provides data loss prevention features without the need for the device and application be managed by an enterprise mobility management \(EMM\) suite. These features includes restrict copy/paste, enforce PIN, block attachment, and/or blur functionality.
 
 -   **Restrict copy/paste**
 
@@ -192,11 +192,11 @@ ServiceNow mobile apps use SSL/TLS over-the-air \(OTA\) communication encryption
 
     ServiceNow engages a third party to perform penetration testing of the mobile app. This typically happens annually but sometimes occurs more frequently. The results of these tests are available to customers. For more detail on security testing, see [KB0538598: Customer Instance Security Testing \| Policy and Procedure](https://support.servicenow.com/kb_view.do?sysparm_article=KB0538598).
 
--   **[[sg-mobile-security-patching|Security patching]]**
+-   **Security patching**
 
     In the event a security patch is needed, the mobile development team aligns with standard SDLC properties in order to patch.
 
--   **[[sg-mobile-security-user-data|User data collection]]**
+-   **User data collection**
 
     The mobile app does not specifically collect any user data.
 
@@ -206,12 +206,3 @@ ServiceNow mobile apps use SSL/TLS over-the-air \(OTA\) communication encryption
     -   Access to camera
     -   Notifications
 
-## Related
-
-- [[mobile-config-navigation|Mobile Platform]]
-- [[sg-mobile-securitywrite-backs|Write-backs]]
-- [[mobile-authentication|Mobile authentication]]
-- [[mobile-offline-mode|Offline mode]]
-- [[enterprise-mobility-management|Enterprise mobility management \(EMM\)]]
-- [[sg-mobile-security-patching|Security patching]]
-- [[sg-mobile-security-user-data|User data collection]]

@@ -15,14 +15,14 @@ breadcrumb: [Use generative AI, Now Assist for ITOM, IT Operations Management]
 
 # View an alert analysis by Now Assist in Service Operations Workspace
 
-View an alert analysis by Now Assist for an alert on the alert's Overview tab in the [[workspace-dashboard-use|Service Operations Workspace]]. Alert analyses include a human-readable brief of the alert and technical information to help you investigate the alert more effectively.
+View an alert analysis by Now Assist for an alert on the alert's Overview tab in the Service Operations Workspace. Alert analyses include a human-readable brief of the alert and technical information to help you investigate the alert more effectively.
 
 ## Before you begin
 
 -   Install the ITOM plugin in the Now Assist feature. For more information, see [Install the Now Assist for IT Operations Management \(ITOM\) plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/install-now-assist-itom.md).
--   View important information about the Now Assist for [[r_ITOMApplications|IT Operations Management]] \(ITOM\) application in [Now Assist for ITOM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/now-assist-itom.md).
+-   View important information about the Now Assist for IT Operations Management \(ITOM\) application in [Now Assist for ITOM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/now-assist-itom.md).
 
-**Note:** Currently, [[now-assist-itom|Now Assist for ITOM]] only supports tag-based, CMDB, Log Analytics, Mixed, Automated, and Network Traffic-based alert groups. For all other alert group types, it only analyzes the parent alert.
+**Note:** Currently, Now Assist for ITOM only supports tag-based, CMDB, Log Analytics, Mixed, Automated, and Network Traffic-based alert groups. For all other alert group types, it only analyzes the parent alert.
 
 **Important:** This Now Assist skill is turned on by default. The skill will be automatically available to appropriate role users for the application. For more information, see [Now Assist skills, agents, and agentic workflows on by default](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills-on-by-default.md).
 
@@ -47,8 +47,3 @@ Role required: evt\_mgmt\_user, evt\_mgmt\_operator
 
 **Parent Topic:**[Use generative AI in Now Assist for ITOM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/now-assist-itom-use.md)
 
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[r_ITOMApplications|IT Operations Management]]
-- [[now-assist-itom|Now Assist for ITOM]]

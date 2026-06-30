@@ -14,7 +14,7 @@ breadcrumb: [Data collection and discovery using Netflow, Advanced Service Mappi
 
 # Configure onetime data import using Netflow for testing purposes
 
-Configure and test [[c_ServiceMappingOverview|Service Mapping]] [[r-discovery|discovery]] process based on data collected using the Netflow protocol.
+Configure and test Service Mapping discovery process based on data collected using the Netflow protocol.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin or service\_mapping\_admin
 
 ## About this task
 
-In base systems, which are the default or standard configurations, traffic-based discovery relies solely on TCP-related data collected using the **netstat**, **ss**, and **lsof** commands. Discovery based on Netflow and VPC logs requires additional configuration. You can enrich your traffic-based discovery by [[service-mapping-setup|configuring Service Mapping]] to use the Netflow protocol. For more information about the way Service Mapping to collect Netflow data, see [Data collection and discovery using Netflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/data-collection-netflow-mapping.md).
+In base systems, which are the default or standard configurations, traffic-based discovery relies solely on TCP-related data collected using the **netstat**, **ss**, and **lsof** commands. Discovery based on Netflow and VPC logs requires additional configuration. You can enrich your traffic-based discovery by configuring Service Mapping to use the Netflow protocol. For more information about the way Service Mapping to collect Netflow data, see [Data collection and discovery using Netflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/data-collection-netflow-mapping.md).
 
 For testing purposes, install the Netflow Collector \(nfdump\) on a Unix server inside your organization. In this case, this Unix server should be different from the server hosting the MID Server server.
 
@@ -109,8 +109,3 @@ If you are satisfied with the results of the test, configure Netflow-based data 
 
 **Parent Topic:**[Advanced Service Mapping configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/c_ConfigureSM.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]
-- [[service-mapping-setup|Configuring Service Mapping]]

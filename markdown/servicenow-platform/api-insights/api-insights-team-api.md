@@ -14,7 +14,7 @@ breadcrumb: [Manage API data, API Insights, Configuration Management Database \(
 
 # Manage your team's API data in API Insights
 
-Improve the operational efficiency of the API ecosystem within your organization by creating a relationship for APIs missing key attributes such as business context also called as business application [[enable-ownership-group|ownership groups]], product models, or designs.
+Improve the operational efficiency of the API ecosystem within your organization by creating a relationship for APIs missing key attributes such as business context also called as business application ownership groups, product models, or designs.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_api\_insights\_ws.api\_mgmt\_architect
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[api-insights|API Insights]]** &gt; **Overview**.
+1.  Navigate to **Workspaces** &gt; **API Insights** &gt; **Overview**.
 
 2.  In the Your team's APIs section, select a category based on the API's life cycle stage.
 
@@ -36,7 +36,4 @@ Role required: sn\_api\_insights\_ws.api\_mgmt\_architect
 
 4.  Select **Request access** to gain access to the API.
 
-## Related
 
-- [[enable-ownership-group|Ownership groups]]
-- [[api-insights|API Insights]]

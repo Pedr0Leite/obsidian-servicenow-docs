@@ -26,11 +26,11 @@ When an event enters the system, key field like **Node** is available on the eve
 
 There may be cases where no match is found because the column names in the event record and the table differ for the same item. In such cases, you can manually create an additional key-value pair with a name matching the table column, ensuring the matching process continues successfully. For information on how to create a manual field, see [Bind CIs using CI field matching and handling column name differences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/ci-matching-manual-field.md).
 
-**Note:** Even if the node successfully binds the alert with the CI, [[create-event-rules|event rules]] further determine how the binding occurs.
+**Note:** Even if the node successfully binds the alert with the CI, event rules further determine how the binding occurs.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Rules** &gt; **Event Rules**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Rules** &gt; **Event Rules**.
 
 2.  Select **New** and complete the required fields of the event rule.
 
@@ -48,7 +48,7 @@ There may be cases where no match is found because the column names in the event
 
 7.  Select **Submit**.
 
-    **Note:** You can also use the [[workspace-dashboard-use|Service Operations Workspace]] to define binding rules. For more information, see [Create Enrich automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/enrich-alert-sow-itom.md).
+    **Note:** You can also use the Service Operations Workspace to define binding rules. For more information, see [Create Enrich automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/enrich-alert-sow-itom.md).
 
 
 **Related topics**  
@@ -56,8 +56,3 @@ There may be cases where no match is found because the column names in the event
 
 [Bind non-host CIs using CI field matching](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/ci-matching-ci-non-host.md)
 
-## Related
-
-- [[create-event-rules|Event rules]]
-- [[c_EM|Event Management]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

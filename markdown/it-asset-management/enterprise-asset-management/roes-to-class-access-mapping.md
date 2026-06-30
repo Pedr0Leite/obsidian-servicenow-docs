@@ -14,7 +14,7 @@ breadcrumb: [Configurable workspaces, Explore, Enterprise Asset Management, IT A
 
 # Roles to class mapping for configurable workspaces
 
-In [[medical-facility-workspaces|configurable workspaces]], roles can access classes in addition to the default seeded classes for each specific role.
+In configurable workspaces, roles can access classes in addition to the default seeded classes for each specific role.
 
 New roles are assigned to each configurable workspace. New roles are based on the following applications and their designated workspace.
 
@@ -32,7 +32,7 @@ Roles
 
 </th></tr></thead><tbody><tr><td>
 
-[[eam-for-healthcare|Enterprise Asset Management for Healthcare]]
+Enterprise Asset Management for Healthcare
 
 </td><td>
 
@@ -45,7 +45,7 @@ Medical Asset Workspace
 
 </td></tr><tr><td>
 
-[[enterprise-asset-management|Enterprise Asset Management]] for Facilities
+Enterprise Asset Management for Facilities
 
 </td><td>
 
@@ -58,11 +58,11 @@ Facility Asset Workspace
 
 </td></tr><tr><td>
 
-Operational Technology \(OT\) [[am-landing-page|Asset Management]]
+Operational Technology \(OT\) Asset Management
 
 </td><td>
 
-[[ot-asset-ws-otam|OT Asset Workspace]]
+OT Asset Workspace
 
 </td><td>
 
@@ -82,7 +82,7 @@ Enterprise roles
 
 </th><th>
 
-Seeded [[model-hierarchy|model categories]]
+Seeded model categories
 
 </th><th>
 
@@ -139,7 +139,7 @@ sn\_ent\_industrial\_asset
  sn\_ent\_discov\_firmware\_model
 
 </td></tr></tbody>
-</table>The Roles to classes access table shows the various classes that each role has access to by default. For example, the facility technician role has access to the facility classes: sn\_ent\_facility\_model and sn\_ent\_facility\_asset. When a facility technician logs in to the Facility Asset Workspace, they will automatically get access to only the [[c_Models|models]] and assets related to the Facilities model category.
+</table>The Roles to classes access table shows the various classes that each role has access to by default. For example, the facility technician role has access to the facility classes: sn\_ent\_facility\_model and sn\_ent\_facility\_asset. When a facility technician logs in to the Facility Asset Workspace, they will automatically get access to only the models and assets related to the Facilities model category.
 
 Based on the mapping, roles get access to the respective asset and model classes. The roles further get access to the workflow tasks and work orders related to those classes. Additionally, you can view information only pertaining to your classes on all dashboards in the workspace. For example, a medical asset manager role can initiate disposal orders only for medical assets because of access configuration. Similarly, a facilities technician role can only work on disposal tasks created for facility assets.
 
@@ -147,12 +147,3 @@ The Enterprise admin \(sn\_eam.enterprise\_admin\) role can modify the default c
 
 **Note:** A soft filter exists in configurable workspaces that shows information relevant to a particular workspace. You can remove that filter to display assets and models for all classes but only read access is available for the other classes.
 
-## Related
-
-- [[medical-facility-workspaces|Configurable workspaces]]
-- [[eam-for-healthcare|Enterprise Asset Management for Healthcare]]
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[am-landing-page|Asset Management]]
-- [[ot-asset-ws-otam|OT Asset Workspace]]
-- [[model-hierarchy|Model categories]]
-- [[c_Models|Models]]

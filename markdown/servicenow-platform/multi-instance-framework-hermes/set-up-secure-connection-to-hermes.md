@@ -18,7 +18,7 @@ Secure your Kafka topics by generating a ServiceNow® instance-signed certificat
 
 ## Before you begin
 
-Setting up the [[hermes-messaging-service|Hermes Messaging Service]] requires coordination with your network administrator and with your Kafka administrator. Work with your network administrator to obtain required security certificates and open the required ports. Work with your Kafka administrator to ensure that your Kafka environment is configured correctly and that your applications can [[c_Connect|connect]] to the Hermes Messaging Service using the standard Kafka protocol.
+Setting up the Hermes Messaging Service requires coordination with your network administrator and with your Kafka administrator. Work with your network administrator to obtain required security certificates and open the required ports. Work with your Kafka administrator to ensure that your Kafka environment is configured correctly and that your applications can connect to the Hermes Messaging Service using the standard Kafka protocol.
 
 Make sure the following setup is in place:
 
@@ -84,7 +84,7 @@ Description
 
     The system generates an instance-signed certificate in the Certificates \[sys\_kmf\_certificate\] table, creates a keystore, and creates a truststore.
 
-    If Restricted Caller Access isn't allowed for the IPKI Certificate Generator, a cross scope access error appears. Contact Customer Service and Support for assistance with allowing Restricted Caller Access. To resolve this issue, Customer Service and Support can [[reference|reference]] source\_scope=76f9d51369115083f4ea77aab1677cc0 in the Restricted Caller Access Privileges \[sys\_restricted\_caller\_access\] table.
+    If Restricted Caller Access isn't allowed for the IPKI Certificate Generator, a cross scope access error appears. Contact Customer Service and Support for assistance with allowing Restricted Caller Access. To resolve this issue, Customer Service and Support can reference source\_scope=76f9d51369115083f4ea77aab1677cc0 in the Restricted Caller Access Privileges \[sys\_restricted\_caller\_access\] table.
 
 4.  Save a copy of the keystore by selecting **Download Keystore**.
 
@@ -119,8 +119,3 @@ You can now create a secure connection to the Hermes Messaging Service.
 
 [Restricting access to Hermes]()
 
-## Related
-
-- [[hermes-messaging-service|Hermes Messaging Service]]
-- [[c_Connect|Connect]]
-- [[reference|Reference]]

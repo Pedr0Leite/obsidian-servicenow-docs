@@ -14,13 +14,13 @@ breadcrumb: [Application monitoring setup, Configure, Digital End-User Experienc
 
 # Set up page-level monitoring
 
-Set up monitoring of the application performance at a specific page level. When collected, you can view the [[perf-metrics-mob|performance metrics]] data in the Metrics analyzer and device or application view.
+Set up monitoring of the application performance at a specific page level. When collected, you can view the performance metrics data in the Metrics analyzer and device or application view.
 
 ## Before you begin
 
-DEX browser extension must be installed on the end-user [[dex-workspace-devices-tab|devices]].
+DEX browser extension must be installed on the end-user devices.
 
-The application must be already in the list of monitored [[dex-workspace-application-tab|applications]] in **Application Management**.
+The application must be already in the list of monitored applications in **Application Management**.
 
 Role required: admin, dex\_admin
 
@@ -28,9 +28,9 @@ Role required: admin, dex\_admin
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  In the primary navigation pane, select the [[dex-workspace-administration-tab|DEX Administration]] icon \(\[Omitted image "icon-administration.png"\] Alt text:\).
+2.  In the primary navigation pane, select the DEX Administration icon \(\[Omitted image "icon-administration.png"\] Alt text:\).
 
-3.  On the [[app-mngmt-card|Application management card]], select **Configure applications**.
+3.  On the Application management card, select **Configure applications**.
 
     The list of monitored applications appears.
 
@@ -116,10 +116,3 @@ When the metrics for the page are collected, you can see them from the Metrics a
 
 **Parent Topic:**[DEX application monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-application-monitoring.md)
 
-## Related
-
-- [[perf-metrics-mob|Performance metrics]]
-- [[dex-workspace-devices-tab|Devices]]
-- [[dex-workspace-application-tab|Applications]]
-- [[dex-workspace-administration-tab|DEX Administration]]
-- [[app-mngmt-card|Application management card]]

@@ -18,7 +18,7 @@ A risk profile is a comprehensive assessment of the potential risks that are ass
 
 A risk profile enables you to make informed decisions about engaging, monitoring, and mitigating risks associated with third parties. Identify areas of concern, implement risk mitigation strategies, and establish ongoing monitoring processes to help you align third-party relationships with your risk tolerance and strategic objectives.
 
-To prioritize and manage risks effectively, you assign scores or ratings to many risk [[factors|factors]] and aggregate them to generate an overall risk assessment for the third party. TPRM [displays risk profile information on the Home page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-ws-home-page.md).
+To prioritize and manage risks effectively, you assign scores or ratings to many risk factors and aggregate them to generate an overall risk assessment for the third party. TPRM [displays risk profile information on the Home page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-ws-home-page.md).
 
 ## Components of a third-party risk profile
 
@@ -43,6 +43,4 @@ To prioritize and manage risks effectively, you assign scores or ratings to many
 
     Risk intelligence providers generate risk scores for a variety of third-party risk domains. Your organization can purchase services from providers that return data that is analogous to personal credit scores. The scores provide insight on how trustworthy and safe a particular third party can be.
 
-## Related
 
-- [[factors|factors]]

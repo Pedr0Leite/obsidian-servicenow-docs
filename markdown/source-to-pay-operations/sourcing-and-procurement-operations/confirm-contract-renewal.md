@@ -22,7 +22,7 @@ Role required: sn\_shop.shopper
 
 ## About this task
 
-After a pipeline project is created from an expiring contract, a sourcing task is automatically assigned to the business owner or shopper. This task prompts them to confirm whether the expiring product or service is still needed. Based on their selection, the system either cancels the project or duplicates a [[sourcing-request|sourcing request]].
+After a pipeline project is created from an expiring contract, a sourcing task is automatically assigned to the business owner or shopper. This task prompts them to confirm whether the expiring product or service is still needed. Based on their selection, the system either cancels the project or duplicates a sourcing request.
 
 ## Procedure
 
@@ -55,6 +55,3 @@ After a pipeline project is created from an expiring contract, a sourcing task i
 
 **Parent Topic:**[Create a pipeline project from an expiring contract](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-pipeline-expire-contract.md)
 
-## Related
-
-- [[sourcing-request|Sourcing request]]

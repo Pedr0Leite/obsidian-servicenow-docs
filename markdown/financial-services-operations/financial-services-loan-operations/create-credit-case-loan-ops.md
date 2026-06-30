@@ -23,9 +23,9 @@ Role required:
 -   For a business loan service for a business customer \(account or contact\): sn\_bom\_credit\_asmt.b2b\_agent, sn\_bom\_credit\_asmt.b2b\_agent\_connector, or sn\_bom\_credit\_asmt.b2b\_contributor
 -   For a personal loan service for a consumer: sn\_bom\_credit\_asmt.b2c\_agent, sn\_bom\_credit\_asmt.b2c\_agent\_connector, or sn\_bom\_credit\_asmt.b2c\_contributor
 
-**Note:** The applicable universal contributor role can also be assigned to create a case. For more information, see [[fso-core-roles|User roles and FSO Business rules]].
+**Note:** The applicable universal contributor role can also be assigned to create a case. For more information, see [User roles and FSO Business rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-core-roles.md).
 
-**Important:** For the agent connector or contributor role to work, they must be combined with one of the roles in CSM industry data model or Contributor users. For more information, see [[fso-combine-csm-industry-roles|Roles and Personas]].
+**Important:** For the agent connector or contributor role to work, they must be combined with one of the roles in CSM industry data model or Contributor users. For more information, see [Roles and Personas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-combine-csm-industry-roles.md).
 
 ## About this task
 
@@ -33,7 +33,7 @@ An API in the backend can also trigger a Covenant Breach credit service case whe
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -60,8 +60,3 @@ The credit service case is created in the New state and is assigned to an assign
 
 As a credit agent, if the case is not assigned to you, you can assign the case to yourself and start working on it. You can also assign the case to any other credit agent.
 
-## Related
-
-- [[fso-core-roles|User roles and FSO Business rules]]
-- [[fso-combine-csm-industry-roles|Using agent connector and contributor roles in Financial Services Operations]]
-- [[fso-overview|Financial Services]]

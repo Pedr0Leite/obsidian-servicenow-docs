@@ -81,7 +81,7 @@ Description
 Optional description of the profile.
 
 </td></tr></tbody>
-</table>    \[Omitted image "xsiam-name.png"\] Alt text: [[ms-defender-profile|Create an incident profile]]
+</table>    \[Omitted image "xsiam-name.png"\] Alt text: Create an incident profile
 
 4.  Select **Continue**.
 
@@ -98,6 +98,3 @@ Optional description of the profile.
 
 [Set Alert Sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/pan-cortex-xsiam-rules.md)
 
-## Related
-
-- [[ms-defender-profile|Create an incident profile]]

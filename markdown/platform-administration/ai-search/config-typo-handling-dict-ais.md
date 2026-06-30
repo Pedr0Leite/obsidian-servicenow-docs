@@ -14,7 +14,7 @@ breadcrumb: [Typo handling, Search profiles, Configuring AI Search, AI Search, S
 
 # Modify settings for a typo handling dictionary
 
-Modify [[typo-handling-ais|typo handling]] dictionary settings for a search profile.
+Modify typo handling dictionary settings for a search profile.
 
 ## Before you begin
 
@@ -26,13 +26,13 @@ Each typo handling dictionary is linked to a search profile. For more informatio
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ia-ai-search|AI Search]]** &gt; **Search Experience** &gt; **Search Profiles**.
+1.  Navigate to **All** &gt; **AI Search** &gt; **Search Experience** &gt; **Search Profiles**.
 
 2.  Open the search profile that contains the typo handling dictionary that you want to modify.
 
 3.  In the Typo Handling related list, open the record for the typo handling dictionary.
 
-4.  On the AI Search [[dictionary-form-ais|Dictionary form]], update the fields.
+4.  On the AI Search Dictionary form, update the fields.
 
     For a description of the field values, see [Dictionary form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/dictionary-form-ais.md).
 
@@ -45,8 +45,3 @@ To make updated settings for a typo handling dictionary take effect, publish the
 
 **Parent Topic:**[Typo handling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/typo-handling-ais.md)
 
-## Related
-
-- [[typo-handling-ais|Typo handling]]
-- [[ia-ai-search|AI Search]]
-- [[dictionary-form-ais|Dictionary form]]

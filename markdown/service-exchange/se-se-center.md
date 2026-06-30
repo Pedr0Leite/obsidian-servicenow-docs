@@ -17,7 +17,7 @@ breadcrumb: [Explore, Service Exchange]
 
 Service Exchange center is a unified dashboard that consolidates connection health monitoring, issue resolution, and scan check management into a single interface.
 
-Service Exchange Center provides administrators with a centralized location to monitor [[tmt-service-bridge-both-landing-page|Service Exchange]] [[se-connections-tab|connections]], track instance performance, and identify critical issues generated from scan suites.
+Service Exchange Center provides administrators with a centralized location to monitor Service Exchange connections, track instance performance, and identify critical issues generated from scan suites.
 
 ## Role requirements
 
@@ -82,7 +82,7 @@ Service Exchange health dashboard is the part of Service Exchange Center and pro
 
 -   **Scan suites**
 
-    The Scan Suites tab provides access to automated health checks that detect issues and inconsistencies. To learn more about instance scan checks, see [[service-bridge-v2-scan-checks|Instance scan checks]].
+    The Scan Suites tab provides access to automated health checks that detect issues and inconsistencies. To learn more about instance scan checks, see [Instance scan checks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-scan-checks.md).
 
     Scan suites are organized into two categories:
 
@@ -106,14 +106,7 @@ Service Exchange health dashboard is the part of Service Exchange Center and pro
 **Related topics**  
 
 
-[[se-execute-scan-check|Execute a scan suite as a provider]]
+[Execute a scan suite as a provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/se-execute-scan-check.md)
 
-[[se-con-execute-scan-check|Execute a scan suite as a consumer]]
+[Execute a scan suite as a consumer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/se-con-execute-scan-check.md)
 
-## Related
-
-- [[service-bridge-v2-scan-checks|Instance scan checks]]
-- [[se-execute-scan-check|Execute a scan suite as a provider]]
-- [[se-con-execute-scan-check|Execute a scan suite as a consumer]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]
-- [[se-connections-tab|Connections]]

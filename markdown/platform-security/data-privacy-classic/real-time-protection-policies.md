@@ -14,7 +14,7 @@ breadcrumb: [Real time protection, Data privacy, Data Privacy, Platform Privacy]
 
 # Real time protection policies
 
-You can configure [[ca-policies|policies]] to protect sensitive data in real-time through alerts and blocking actions.
+You can configure policies to protect sensitive data in real-time through alerts and blocking actions.
 
 ## Before you begin
 
@@ -24,11 +24,11 @@ Role required: data\_privacy\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Security** &gt; **[[data-privacy-landing|Data privacy]]** &gt; **[[real-time-protection|Real time protection]]** &gt; **Real time protection policies**.
+1.  Navigate to **All** &gt; **System Security** &gt; **Data privacy** &gt; **Real time protection** &gt; **Real time protection policies**.
 
     **Note:** Child tables inherit all configurations from parent tables and columns. For example, if a policy is defined on the Task table's description column, then the policy will apply automatically to the Incident table's description column.
 
-2.  Select **[[dds-new-policy|Create new policy]].**
+2.  Select **Create new policy.**
 
     **Note:** In order to create real time protection polices, you must first create at least one[alert data pattern](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/alert-data-patterns.md).
 
@@ -90,7 +90,7 @@ Display message
 
 </td><td>
 
-Enter the message [[users|users]] will see when their action is blocked. It should be clear and actionable so they understand why the block occurred.
+Enter the message users will see when their action is blocked. It should be clear and actionable so they understand why the block occurred.
 
 </td></tr></tbody>
 </table>4.  Toggle the **Active** button if you want to activate the policy.
@@ -106,15 +106,6 @@ The protection policies you create show in the main view. You can edit or delete
 
 |Button|Description|
 |------|-----------|
-|View logs|View the top 100 activity [[logs|logs]] that contain the most sensitive data from the last month. For more information, refer to [User sensitive data logs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/user-sensitive-data-logs.md) for more information.|
-|View details|View the [[sc-configuration|configuration]] of the protection policy. You can also toggle the **Active** button to turn the policy on or off.|
+|View logs|View the top 100 activity logs that contain the most sensitive data from the last month. For more information, refer to [User sensitive data logs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/user-sensitive-data-logs.md) for more information.|
+|View details|View the configuration of the protection policy. You can also toggle the **Active** button to turn the policy on or off.|
 
-## Related
-
-- [[ca-policies|Policies]]
-- [[data-privacy-landing|Data Privacy]]
-- [[real-time-protection|Real time protection]]
-- [[dds-new-policy|Create new policy]]
-- [[users|Users]]
-- [[logs|Logs]]
-- [[sc-configuration|Configuration]]

@@ -12,7 +12,7 @@ breadcrumb: [Sales promotion form, Reference, Manufacturing Commercial Operation
 
 # Sales promotion bulk upload form
 
-Bulk [[mco-sales-promotion|sales promotion]] upload form.
+Bulk sales promotion upload form.
 
 |Field|Description|
 |-----|-----------|
@@ -24,9 +24,5 @@ Bulk [[mco-sales-promotion|sales promotion]] upload form.
 |Promotion value|Discount given for a promotion.|
 |Sold product serial number|Serial number of the sold product.|
 
-**Parent Topic:**[[sales-promotion-form|Sales promotion form]]
+**Parent Topic:**[Sales promotion form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/sales-promotion-form.md)
 
-## Related
-
-- [[sales-promotion-form|Sales promotion form]]
-- [[mco-sales-promotion|Sales promotion]]

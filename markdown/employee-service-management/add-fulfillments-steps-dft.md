@@ -51,8 +51,5 @@ Role required: sn\_lg\_forensics.forensics\_config or admin
 7.  Click **Update**.
 
 
-**Parent Topic:**[[configure-forensics-search-sources|Configure a data source for digital forensics]]
+**Parent Topic:**[Configure a data source for digital forensics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/configure-forensics-search-sources.md)
 
-## Related
-
-- [[configure-forensics-search-sources|Configure a data source for digital forensics]]

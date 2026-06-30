@@ -38,7 +38,7 @@ The **Communicate** tab contains the following options to create and manage comm
 
     **Note:**
 
-    DEX Desktop Assistant is supported as a channel in Major [[c_IncidentManagement|Incident Management]] in SOW only if the following conditions are met:
+    DEX Desktop Assistant is supported as a channel in Major Incident Management in SOW only if the following conditions are met:
 
     -   SOW must be version 7.0 or later.
     -   The instance must be on Yokohama release or later.
@@ -86,13 +86,9 @@ Compose communication messages for incidents and major incidents using communica
 -   **[Manage recipients in a communication task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/manage-recipients-mim-sow.md)**  
 Manage the recipients list for a communication task to create flexible and effective communication with the required stakeholders.
 -   **[Create an adhoc communication task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-adhoc-comm-task-mim-sow.md)**  
-[[create-adhoc-comm-task-mim-sow|Create an adhoc communication task]] as required during the various phases of an incident in Major Incident Management.
+Create an adhoc communication task as required during the various phases of an incident in Major Incident Management.
 -   **[Manage an announcement for communicating about major incidents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-announcements-major-inc.md)**  
 Create and manage an announcement to broadcast messages for Service Portal users to keep them informed about the ongoing major incident. Major incident managers can create and deploy announcements from Service Operations Workspace \(SOW\).
 
 **Parent Topic:**[Managing a major incident record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/managing-major-incident-sow.md)
 
-## Related
-
-- [[c_IncidentManagement|Incident Management]]
-- [[create-adhoc-comm-task-mim-sow|Create an adhoc communication task]]

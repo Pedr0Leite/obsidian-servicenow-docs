@@ -28,7 +28,7 @@ Role required: sales\_agent
 
 3.  Select **New** to start a new quote line item or select an existing quote line item to make changes.
 
-4.  Fill in the [[fields|fields]] in the Quote Line Items.
+4.  Fill in the fields in the Quote Line Items.
 
     |Field|Description|
     |-----|-----------|
@@ -47,7 +47,7 @@ Role required: sales\_agent
     |Service location|Service location allows agents to select a location for the service that is added to the quote.|
     |Short description|The description field for the service location, which provides information about the location such as address and phone number.|
 
-5.  Select the Quote Line Characteristics tab to add or [[Modify|modify]] the quote characteristics.
+5.  Select the Quote Line Characteristics tab to add or modify the quote characteristics.
 
 6.  Select the **Pricing Adjustment** tab to add or modify a manual pricing adjustment to the quote line item.
 
@@ -58,13 +58,7 @@ Role required: sales\_agent
 
 ## What to do next
 
-Add a pricing adjustment to a quote line item. See [[quote-management-pricing-adjustments-tab|View and update manual pricing adjustments in quotes]] for more information.
+Add a pricing adjustment to a quote line item. See [View and update manual pricing adjustments in quotes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-management-pricing-adjustments-tab.md) for more information.
 
-**Parent Topic:**[[quote-mgmt-using|Using Quote Management]]
+**Parent Topic:**[Using Quote Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-mgmt-using.md)
 
-## Related
-
-- [[quote-management-pricing-adjustments-tab|View and update manual pricing adjustments in quotes]]
-- [[quote-mgmt-using|Using Quote Management]]
-- [[fields|Fields]]
-- [[Modify|Modify]]

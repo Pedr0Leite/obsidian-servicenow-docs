@@ -12,7 +12,7 @@ breadcrumb: [Configure Sustainable IT, Configure, Operational Sustainability Man
 
 # Configure a map marker
 
-Configure the items that you want to view on the IT footprint map tab of the [[sustainable-it-dashboard|Sustainable IT dashboard]].
+Configure the items that you want to view on the IT footprint map tab of the Sustainable IT dashboard.
 
 ## Before you begin
 
@@ -41,12 +41,7 @@ Role required: sn\_esg.admin
 
 ## What to do next
 
-Define data range configurations. See [[map-data-range-configurations|Map data range configurations]].
+Define data range configurations. See [Map data range configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/map-data-range-configurations.md).
 
-**Parent Topic:**[[configure-sustainable-it|Configure Sustainable IT]]
+**Parent Topic:**[Configure Sustainable IT](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/configure-sustainable-it.md)
 
-## Related
-
-- [[map-data-range-configurations|Map data range configurations]]
-- [[configure-sustainable-it|Configure Sustainable IT]]
-- [[sustainable-it-dashboard|Sustainable IT dashboard]]

@@ -14,7 +14,7 @@ breadcrumb: [Integrate VA with Teams, Conversational Integration with Microsoft 
 
 # Override Microsoft Teams integration
 
-Override [[virtual-agent-landing-page|Virtual Agent]] integration with Microsoft Teams.
+Override Virtual Agent integration with Microsoft Teams.
 
 ## Before you begin
 
@@ -45,6 +45,3 @@ Starting from Tokyo release, if you intend to associate your Microsoft Teams ten
 
 **Parent Topic:**[Integrate Virtual Agent with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-integ-msteams.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

@@ -30,7 +30,7 @@ The Sales Territory Model is shipped by default with the necessary configuration
 
 2.  Select  **New**.
 
-3.  On the form, fill in the [[fields|fields]]:
+3.  On the form, fill in the fields:
 
     |Fields|Description|
     |------|-----------|
@@ -48,12 +48,7 @@ The Sales Territory Model is shipped by default with the necessary configuration
 **Related topics**  
 
 
-[[use-sales-territory-management|Using Sales Territory Management​]]
+[Using Sales Territory Management​](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/use-sales-territory-management.md)
 
-[[explore-sales-territory-management|Sales Territory Management​]]
+[Sales Territory Management​](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-sales-territory-management.md)
 
-## Related
-
-- [[use-sales-territory-management|Using Sales Territory Management​]]
-- [[explore-sales-territory-management|Sales Territory Management​]]
-- [[fields|Fields]]

@@ -20,7 +20,7 @@ Role required: sn\_sales\_common.sales\_agent
 
 ## About this task
 
-To [[create-new-quote|create a quote]] from an RFQ, you must first assign an RFQ record to an agent and change its state to In review.
+To create a quote from an RFQ, you must first assign an RFQ record to an agent and change its state to In review.
 
 ## Procedure
 
@@ -59,15 +59,10 @@ To [[create-new-quote|create a quote]] from an RFQ, you must first assign an RFQ
 
 ## What to do next
 
-View quotes, generate PDFs share to share quotes with customers for acceptance, create sales agreements, or convert quotes to orders to continue the sales process. For more information, see [[quote-mgmt-using|Using Quote Management]].
+View quotes, generate PDFs share to share quotes with customers for acceptance, create sales agreements, or convert quotes to orders to continue the sales process. For more information, see [Using Quote Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-mgmt-using.md).
 
 **Related topics**  
 
 
-[[view-rfq-business-portal|View requests for quotes \(RFQs\) on the Business Portal]]
+[View requests for quotes \(RFQs\) on the Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/view-rfq-business-portal.md)
 
-## Related
-
-- [[quote-mgmt-using|Using Quote Management]]
-- [[view-rfq-business-portal|View requests for quotes \(RFQs\) on the Business Portal]]
-- [[create-new-quote|Create a quote]]

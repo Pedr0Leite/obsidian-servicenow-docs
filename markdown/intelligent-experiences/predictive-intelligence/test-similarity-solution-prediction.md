@@ -14,7 +14,7 @@ breadcrumb: [Testing and monitoring predictions, Predictive Intelligence, Enable
 
 # Test a similarity solution prediction
 
-Once your machine-learning \(ML\) solutions are trained, you can call on the [[predictive-intelligence-landing|Predictive Intelligence]] API to make a solution prediction. In this example procedure, we use the REST API Explorer application to test a similarity solution prediction for resolved incident recommendations.
+Once your machine-learning \(ML\) solutions are trained, you can call on the Predictive Intelligence API to make a solution prediction. In this example procedure, we use the REST API Explorer application to test a similarity solution prediction for resolved incident recommendations.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: web\_service\_admin, rest\_api\_explorer, or admin or ml\_admin
 
 This procedure uses sample data to illustrate what you can do in your instance, and may not represent data or records that are actually in your instance.
 
-This scenario illustrates a similarity solution prediction for a hypothetical ML solution that you have previously created and trained. You can also use the REST API Explorer to [[test-solution-prediction|test a classification solution prediction]].
+This scenario illustrates a similarity solution prediction for a hypothetical ML solution that you have previously created and trained. You can also use the REST API Explorer to test a classification solution prediction.
 
 ## Procedure
 
@@ -126,7 +126,3 @@ This scenario illustrates a similarity solution prediction for a hypothetical ML
 
 [bundle-crapiref.c_MLPredictorAPI]
 
-## Related
-
-- [[predictive-intelligence-landing|Predictive Intelligence]]
-- [[test-solution-prediction|Test a classification solution prediction]]

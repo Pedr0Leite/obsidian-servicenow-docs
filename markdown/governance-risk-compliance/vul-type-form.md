@@ -12,7 +12,7 @@ breadcrumb: [Set up the Operational vulnerability type, Setting up the Operation
 
 # Vulnerability Type form
 
-On the Vulnerability Type form, fill in the fields for [[exploring-op-vul|Operational vulnerability]].
+On the Vulnerability Type form, fill in the fields for Operational vulnerability.
 
 <table id="table_uj1_q5x_nvb"><thead><tr><th>
 
@@ -88,7 +88,7 @@ Assessment Configuration
 
 </td></tr><tr><td>
 
-[[airc-assessment-templates|Assessment templates]]
+Assessment templates
 
 </td><td>
 
@@ -124,7 +124,7 @@ View Rules
 
 </td><td>
 
-Rules to define the form view of the vulnerabilities in the [[grc-opres-landing-page|Operational Resilience]] Workspace. Specifying the rules helps you to define the view you want to use for the vulnerabilities and control how the vulnerability form appears. For example, Default view or Workspace view.
+Rules to define the form view of the vulnerabilities in the Operational Resilience Workspace. Specifying the rules helps you to define the view you want to use for the vulnerabilities and control how the vulnerability form appears. For example, Default view or Workspace view.
 
 \[Omitted image "view-rules.png"\] Alt text: View rules.
 
@@ -136,7 +136,7 @@ Assignment Rules
 
 Rules to assign the tasks to users and groups by default.
 
-**Note:** Assignment rules apply only when the operational vulnerability is created from the [[employee-center|Employee Center]]. Otherwise, they do not apply.
+**Note:** Assignment rules apply only when the operational vulnerability is created from the Employee Center. Otherwise, they do not apply.
 
 In the Applies to related list, you can select a table and specify the conditions that must be met before the task is assigned to the user or group. The rule is applied only if the task is not already assigned to another user or group. In the Script related list, you can use a script to further customize the assignment rule.
 
@@ -152,10 +152,3 @@ Jurisdictions for the impacted regions.**Note:** Jurisdictions are not currently
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[exploring-op-vul|Operational vulnerability]]
-- [[airc-assessment-templates|Assessment templates]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[employee-center|employee center]]

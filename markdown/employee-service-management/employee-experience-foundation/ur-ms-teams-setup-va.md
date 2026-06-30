@@ -14,13 +14,13 @@ breadcrumb: [Universal Request integration, Microsoft Teams Integration for Empl
 
 # Set up Virtual Agent for Universal Request integration with Microsoft Teams
 
-Publish the default Virtual Agent topics \(conversation flows\) so that they can be used in the [[sn-ms-teams-ur|Universal Request integration with Microsoft Teams]] application.
+Publish the default Virtual Agent topics \(conversation flows\) so that they can be used in the Universal Request integration with Microsoft Teams application.
 
 ## Before you begin
 
 To use Virtual Agent capabilities, you must activate the following plugins:
 
--   [[ur-landing-limitedaccess|Universal Request]]: Virtual Agent Conversations plugin \(com.snc.universal\_request.va\) to set up and use Virtual Agent in Universal Request. This plugin installs the Virtual Agent topics that must be made active. By default, the topics are set to inactive.
+-   Universal Request: Virtual Agent Conversations plugin \(com.snc.universal\_request.va\) to set up and use Virtual Agent in Universal Request. This plugin installs the Virtual Agent topics that must be made active. By default, the topics are set to inactive.
 -   Universal Request: NLU Model for Virtual Agent Conversations plugin \(com.snc.universal\_request.nlu\) to set up and use the NLU model for Virtual Agent conversations.
 
 Role required: admin
@@ -58,7 +58,3 @@ You can also clone and modify the default topics or create your own topics to us
 
 **Parent Topic:**[Configure Universal Request integration with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ur-ms-teams-config-ur.md)
 
-## Related
-
-- [[sn-ms-teams-ur|Universal Request integration with Microsoft Teams]]
-- [[ur-landing-limitedaccess|Universal Request]]

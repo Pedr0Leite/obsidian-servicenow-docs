@@ -34,7 +34,7 @@ Whenever a sighting search enrichment is requested:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Administration**.
+1.  Navigate to **All** &gt; **Threat Intelligence Security Center** &gt; **Administration**.
 
 2.  Select **Automated Flows**.
 
@@ -50,7 +50,7 @@ Whenever a sighting search enrichment is requested:
 
     1.  Create an security incident and add the observable to the incident.
 
-    2.  Add [[c_Observables|Observables]] to Security Incident V1.
+    2.  Add Observables to Security Incident V1.
 
     3.  Send an email communication.
 
@@ -66,7 +66,7 @@ Whenever a sighting search enrichment is requested:
 
 [Automated sharing of high-risk IOC's with trusted partners]()
 
-[Automatically add [[threat-intel-landing-page|threat intelligence]] to a TAXII collection]()
+[Automatically add threat intelligence to a TAXII collection]()
 
 [Create vulnerability assessment for zero day]()
 
@@ -76,13 +76,7 @@ Whenever a sighting search enrichment is requested:
 
 [Zero-day vulnerability tracking]()
 
-[Automatic [[threat-actor|Threat Actor]] priority tagging]()
+[Automatic Threat Actor priority tagging]()
 
 [Automated flows tables]()
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[c_Observables|Observables]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[threat-actor|Threat Actor]]

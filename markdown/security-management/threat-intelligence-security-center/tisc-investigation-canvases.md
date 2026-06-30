@@ -14,11 +14,11 @@ breadcrumb: [Threat Analyst Workbench, Use, Threat Intelligence Security Center,
 
 # Working with Investigation Canvas
 
-The Investigation Canvas is a key significant feature, which provides more valuable information for the [[threat-intel-landing-page|Threat Intelligence]] \(TI\) analysts. It provides a structured framework by [[mapping-logrhythm|mapping]] one to one or one to many [[stix-relationships|relationships]] and visualizing information related to [[c_Observables|observables]], [[c_IoCs|indicators of compromise]] \(IOCs\), or entities.
+The Investigation Canvas is a key significant feature, which provides more valuable information for the Threat Intelligence \(TI\) analysts. It provides a structured framework by mapping one to one or one to many relationships and visualizing information related to observables, indicators of compromise \(IOCs\), or entities.
 
 By using the investigation canvas, threat analysts can effectively:
 
--   **Map Relationships**: Visualize node connections between various entities such as observables, indicators of compromise \(IOCs\), [[threat-actors|threat actors]], [[attack-patterns|attack patterns]], affected assets, and more. Each object on the investigation canvas is represented by a specific color, along with its object type, node type, and status. The status reflects the object's reputation such as **Suspicious**, **Low**, or **Critical** for observables and other object types. [[indicator|Indicators]] are displayed with their associated threat severity to help prioritize analysis.
+-   **Map Relationships**: Visualize node connections between various entities such as observables, indicators of compromise \(IOCs\), threat actors, attack patterns, affected assets, and more. Each object on the investigation canvas is represented by a specific color, along with its object type, node type, and status. The status reflects the object's reputation such as **Suspicious**, **Low**, or **Critical** for observables and other object types. Indicators are displayed with their associated threat severity to help prioritize analysis.
 -   **Link cases or canvases**: Link a case or canvas to enhance the analysis and provide a more comprehensive view of the threat landscape within the case management.
     -   The linking feature enables analysts dynamically add or remove nodes. This also populates the existing relationships between the nodes to the canvas.
     -   Temporary Relationship graphs by saving relationships separately within the context of the Investigation Canvas.
@@ -44,7 +44,7 @@ Create canvas to add observables from threat intelligence library.
 -   **[Adding a new node to the canvas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-add-node-canvas.md)**  
 Use this section to create and add new entities, including observables or objects, directly from the investigation canvas.
 -   **[Using Timeline in Investigation Canvas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-timeline-events.md)**  
-The Timeline feature of the Investigation Canvas within the [[tisc-landing-page|Threat Intelligence Security Center]] \(TISC\) empowers analysts to visualize, create, and edit timeline events associated to entities during investigations. This capability significantly enhances the effectiveness of temporal analysis.
+The Timeline feature of the Investigation Canvas within the Threat Intelligence Security Center \(TISC\) empowers analysts to visualize, create, and edit timeline events associated to entities during investigations. This capability significantly enhances the effectiveness of temporal analysis.
 -   **[Investigation canvas and MITRE ATT&amp;CK](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/investigation-and-mitre.md)**  
 In the Investigation Canvas, you can view the MITRE ATT&amp;CK techniques and sub-techniques associated with all nodes currently present on the canvas.
 
@@ -71,14 +71,3 @@ In the Investigation Canvas, you can view the MITRE ATT&amp;CK techniques and su
 
 [Using playbooks]()
 
-## Related
-
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[mapping-logrhythm|Mapping]]
-- [[stix-relationships|Relationships]]
-- [[c_Observables|Observables]]
-- [[c_IoCs|Indicators of compromise]]
-- [[threat-actors|Threat actors]]
-- [[attack-patterns|Attack patterns]]
-- [[indicator|Indicators]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]

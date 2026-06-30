@@ -18,7 +18,7 @@ Map individual ticket or event fields to fields on a ServiceNow AI Platform SIR 
 
 ## Ticket field mapping
 
-As a user with the sn\_si.admin role, use the fields from the Sample Tickets section on the left and map them to the security incident fields in the **SIR Incident Field [[mapping-logrhythm|Mapping]]** column. Edit the mapping configuration by dragging ticket or event fields from the left side and dropping them on the SIR Incident Field Mapping section on the right. The mapping on the right associates the incoming ticket field with an outgoing security incident field.
+As a user with the sn\_si.admin role, use the fields from the Sample Tickets section on the left and map them to the security incident fields in the **SIR Incident Field Mapping** column. Edit the mapping configuration by dragging ticket or event fields from the left side and dropping them on the SIR Incident Field Mapping section on the right. The mapping on the right associates the incoming ticket field with an outgoing security incident field.
 
 1.  To map a field value from the left side of the form to a field on the security incident on the right side of the form, select-hold a blue field name on the left side of the form.
 2.  You can manually enter the field name in the Input Expression column or drag and drop the field name. For example, `description`, and drop it on a field in the **Input Expression** column next to a field name in the **Security Incident** column.
@@ -35,7 +35,7 @@ As a user with the sn\_si.admin role, use the fields from the Sample Tickets sec
 
         In the expanded choice list for the new field, some fields are shaded. In the following figure, Category has a gray background, because it has been mapped in the security incident. Similar to the color-coding for the ticket fields on the left side of the form, this color-coding for the security incident fields on the right helps you track the already mapped SIR incident fields.
 
-        **Note:** As multiple [[c_Observables|observables]] can be displayed on the same security incident, the Observable field can be mapped multiple times with different values. Similarly, the Configuration Item and Work notes fields support multiple values. If you try to map two values to a field that cannot support multiple values, when you preview the incident, an error message is displayed that there is no value for the field. Similarly, if a field on a security incident has a choice list from which you can choose multiple options, and you try to map an option to that field that is not displayed on the choice list, the field is not populated on the security incident.
+        **Note:** As multiple observables can be displayed on the same security incident, the Observable field can be mapped multiple times with different values. Similarly, the Configuration Item and Work notes fields support multiple values. If you try to map two values to a field that cannot support multiple values, when you preview the incident, an error message is displayed that there is no value for the field. Similarly, if a field on a security incident has a choice list from which you can choose multiple options, and you try to map an option to that field that is not displayed on the choice list, the field is not populated on the security incident.
 
     3.  Alternatively, type a value in the Search field for the new row.
     4.  From the left side of the form, select the ticket field and drag-and-drop it to an appropriate security incident field on the right.
@@ -44,7 +44,7 @@ As a user with the sn\_si.admin role, use the fields from the Sample Tickets sec
 
 **Format Field Translation**
 
-In certain cases, ticket fields may not translate directly to the fields on the SIR security incident. For these values, you can use a script editor to format field values on the security incident during the mapping step. Use the script editor if you want to format values that are similar, but not identical. For example, with the script editor, a category value of [[threat-intelligence-malware|Malware]] Alert and Virus Infection may have different field values for the source category but both values can be translated to a common Malicious Code Activity in the Category field on the SIR security incident using the Format Field Translation functionality.
+In certain cases, ticket fields may not translate directly to the fields on the SIR security incident. For these values, you can use a script editor to format field values on the security incident during the mapping step. Use the script editor if you want to format values that are similar, but not identical. For example, with the script editor, a category value of Malware Alert and Virus Infection may have different field values for the source category but both values can be translated to a common Malicious Code Activity in the Category field on the SIR security incident using the Format Field Translation functionality.
 
 To use the script editor, select the \{\} icon next to the Category field. The script editor is displayed.
 
@@ -93,8 +93,3 @@ Define additional ticket aggregation criteria that aggregates an incoming ticket
 
 4.  Select **Continue** to continue with the profile configuration. The next step is to preview the fields you mapped on a SIR security incident
 
-## Related
-
-- [[mapping-logrhythm|Mapping]]
-- [[c_Observables|Observables]]
-- [[threat-intelligence-malware|Malware]]

@@ -14,7 +14,7 @@ breadcrumb: [Managing security incidents and inbound requests, Security Incident
 
 # Close security incidents
 
-When a security incident has transitioned to the Review state, it’s possible to close it and enter an appropriate closure code. Closure codes can be searched on later for ease of [[location|location]].
+When a security incident has transitioned to the Review state, it’s possible to close it and enter an appropriate closure code. Closure codes can be searched on later for ease of location.
 
 ## Before you begin
 
@@ -93,6 +93,4 @@ Additional notes that describe the outcome of closing this security incident.
 
     When a parent incident is closed, all response tasks belonging to the child incident are canceled. If there are no other types of tasks, the child incident is also closed.
 
-## Related
 
-- [[location|Location]]

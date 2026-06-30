@@ -14,13 +14,9 @@ breadcrumb: [Workplace Space Management, Workplace Service Delivery, Employee Se
 
 # Managing neighborhoods
 
-Neighborhood is moved from [[workplace-space-mgmt-ovw|Workplace Space Management]] version 1.17.0 to [[workplace-safety-mgmt-hr|Workplace Core]] version 2.23.2.
+Neighborhood is moved from Workplace Space Management version 1.17.0 to Workplace Core version 2.23.2.
 
 **Note:** When upgrading from a previous version to the current version, the Migrate Neighborhood to Core fix script transfers data from the old tables to the new tables.
 
 Refer to [Managing Neighborhoods](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/neighborhoods.md) for more information about neighborhoods.
 
-## Related
-
-- [[workplace-space-mgmt-ovw|Workplace Space Management]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]

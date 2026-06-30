@@ -26,15 +26,11 @@ For description of the field values, see the table.
 |Plan loss scenario|Loss scenario for which the recovery strategy is planned.|
 |Dependencies|Dependencies that are associated with the related assets.|
 |Implementation Details|
-|Recovery strategy template|Reference to a Recovery strategy template that pre-populates the implementation details for this recovery strategy. See [[recovery-strategy-template-form|Recovery strategy template form]].|
+|Recovery strategy template|Reference to a Recovery strategy template that pre-populates the implementation details for this recovery strategy. See [Recovery strategy template form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/recovery-strategy-template-form.md).|
 |Estimated time to implement|Estimated time to implement the recovery strategy.|
 |Maximum duration of use|Maximum duration of use for the recovery strategy.|
 |Estimated % of operations achieved|Estimated % of operations achieved for the recovery strategy.|
 |Comments|Comments related to the recovery strategy. The BCM administrator or planner can update the comments in the plan.|
 
-**Parent Topic:**[[create-new-recovery-strategy-for-loss-scenario-uib-ws|Add recovery strategies for dependencies]]
+**Parent Topic:**[Add recovery strategies for dependencies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-new-recovery-strategy-for-loss-scenario-uib-ws.md)
 
-## Related
-
-- [[recovery-strategy-template-form|Recovery strategy template form]]
-- [[create-new-recovery-strategy-for-loss-scenario-uib-ws|Add recovery strategies for dependencies]]

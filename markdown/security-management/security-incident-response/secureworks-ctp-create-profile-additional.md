@@ -14,7 +14,7 @@ breadcrumb: [Create a profile, Secureworks CTP Ticket Ingestion Integration, Sec
 
 # Automate ticket updates and closure based on SIR incident status
 
-The [[secureworks-ctp-about|Secureworks CTP ticket ingestion integration]] has a bi-directional interface that allows for both tickets to create security incidents, as well as an ability to update the tickets once the security incident is created and/or closed with relevant incident details such as security incident number, assignment group, security incident URL, and so on.
+The Secureworks CTP ticket ingestion integration has a bi-directional interface that allows for both tickets to create security incidents, as well as an ability to update the tickets once the security incident is created and/or closed with relevant incident details such as security incident number, assignment group, security incident URL, and so on.
 
 ## Before you begin
 
@@ -85,6 +85,4 @@ The default closure comments are displayed here. You can edit the default text a
 
     A confirmation dialog is displayed. You have successfully set up the profile. Activate this profile to pull tickets from the Secureworks CTP portal based on your scheduling.
 
-## Related
 
-- [[secureworks-ctp-about|Secureworks CTP Ticket Ingestion Integration]]

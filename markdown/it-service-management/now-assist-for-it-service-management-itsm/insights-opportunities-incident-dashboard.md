@@ -86,7 +86,7 @@ The trend category view includes all Dashboard view widgets scoped to the select
 
     Average mean time to resolve \(MTTR\) for incidents in the selected trend category.
 
--   **SLA [[breached-incidents|breached incidents]]**
+-   **SLA breached incidents**
 
     Incidents in the selected trend category that have breached their SLA targets.
 
@@ -126,6 +126,3 @@ The trend category view includes all Dashboard view widgets scoped to the select
 
 [Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/c_IncidentManagement.md)
 
-## Related
-
-- [[breached-incidents|Breached Incidents]]

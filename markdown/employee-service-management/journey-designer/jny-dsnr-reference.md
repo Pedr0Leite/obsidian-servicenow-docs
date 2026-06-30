@@ -14,10 +14,10 @@ breadcrumb: [Journey designer, Employee Journey Management, HR Service Delivery,
 
 # Journey designer reference
 
-[[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] topics provide additional information about the lists and forms that you use to configure and use [[jny-dsgnr-landing-page-1|Journey designer]]..
+Reference topics provide additional information about the lists and forms that you use to configure and use Journey designer..
 
 -   **[Task template fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-task-template.md)**  
-To make a task template, fill in the [[jny-task-template|task template fields]].
+To make a task template, fill in the task template fields.
 -   **[Journey designer Journey Configuration fields reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-jrny-config-fields.md)**  
 A journey configuration requires several fields to be completed or selected.
 -   **[Journey designer Model task fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-model-task-fields.md)**  
@@ -35,8 +35,3 @@ Several types of components install with the activation of the Journey designer 
 
 **Parent Topic:**[Journey designer]()
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[jny-dsgnr-landing-page-1|Journey designer]]
-- [[jny-task-template|Task template fields]]

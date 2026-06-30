@@ -26,7 +26,7 @@ Roles required: SPC Admin Group or SPC Analyst Group
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[spc-landing|Security Posture Control]]** &gt; **List** &gt; **Policies** &gt; **All**.
+1.  Navigate to **Workspaces** &gt; **Security Posture Control** &gt; **List** &gt; **Policies** &gt; **All**.
 
 2.  Select the policy record that you want to clone.
 
@@ -73,22 +73,16 @@ Select this option if you want to create a new policy using the current policy a
 
 6.  For a cloned policy, edit the conditions.
 
-    For more information about the Asset-connection-entity [[stix-relationships|relationships]] in the condition builder, see [[spc-policies-overview|Policies for Security Posture Control]]. For more information about the decorators in the condition builder, see [[spc-creating-policies|Creating your own policies in the Security Posture Control application]].
+    For more information about the Asset-connection-entity relationships in the condition builder, see [Policies for Security Posture Control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-policies-overview.md). For more information about the decorators in the condition builder, see [Creating your own policies in the Security Posture Control application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-creating-policies.md).
 
 7.  Edit and Save your policy with **Save changes**.
 
     Your policy is displayed on the All list in the List module in the workspace.
 
-8.  To activate a policy, follow the steps described in [[spc-create-policy|Create and activate custom policies for Security Posture Control]].
+8.  To activate a policy, follow the steps described in [Create and activate custom policies for Security Posture Control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-create-policy.md).
 
 9.  Select Delete policy to delete a policy.
 
     The delete option is not supported for any policies that come with the application or for any policies that have generated findings. You can only deactivate policies with findings.
 
-## Related
 
-- [[spc-policies-overview|Policies for Security Posture Control]]
-- [[spc-creating-policies|Creating your own policies in the Security Posture Control application]]
-- [[spc-create-policy|Create and activate custom policies for Security Posture Control]]
-- [[spc-landing|Security Posture Control]]
-- [[stix-relationships|Relationships]]

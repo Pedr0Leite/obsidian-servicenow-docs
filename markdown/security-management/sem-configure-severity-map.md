@@ -12,11 +12,11 @@ breadcrumb: [Implement, Unified Security Exposure Management, Security Operation
 
 # Configure a severity map in the Security Exposure Management Workspace
 
-[[sem-workspace-user-interface|Security Exposure Management Workspace]] severity [[mapping-logrhythm|mapping]] transforms third-party source severity fields to recognizable fields in Unified Security Exposure Management.
+Security Exposure Management Workspace severity mapping transforms third-party source severity fields to recognizable fields in Unified Security Exposure Management.
 
 ## Before you begin
 
-Role required: See [[sem-acls-for-admin-rules|Access control lists \(ACLs\) for administration rules]]
+Role required: See [Access control lists \(ACLs\) for administration rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-acls-for-admin-rules.md)
 
 ## About this task
 
@@ -79,10 +79,10 @@ Integration type
 
 </td><td>
 
-Integration type choices are:-   [[vuln-landing-page|Vulnerability Response]]
--   [[avr-landing|Application Vulnerability Response]]
+Integration type choices are:-   Vulnerability Response
+-   Application Vulnerability Response
 -   National Vulnerability Response
--   [[cvr-landing|Container Vulnerability Response]]
+-   Container Vulnerability Response
 
 
 </td></tr></tbody>
@@ -92,11 +92,4 @@ Integration type choices are:-   [[vuln-landing-page|Vulnerability Response]]
 
 8.  To edit the severity mapping for an integration, select the integration and update the values in the **Source Value** and **Target Value** fields.
 
-## Related
 
-- [[sem-acls-for-admin-rules|Access control lists \(ACLs\) for administration rules]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]
-- [[mapping-logrhythm|Mapping]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[avr-landing|Application Vulnerability Response]]
-- [[cvr-landing|Container Vulnerability Response]]

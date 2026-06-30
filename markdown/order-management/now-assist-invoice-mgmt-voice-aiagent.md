@@ -44,8 +44,5 @@ Role required: sn\_customerservice.customer
 
 The AI voice agent then creates an invoice case corresponding to the disputed invoice, and provides the invoice case number to the customer over the phone call.
 
-**Parent Topic:**[[now-assist-order-management-using|Using Now Assist for Order Management]]
+**Parent Topic:**[Using Now Assist for Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/now-assist-order-management-using.md)
 
-## Related
-
-- [[now-assist-order-management-using|Using Now Assist for Order Management]]

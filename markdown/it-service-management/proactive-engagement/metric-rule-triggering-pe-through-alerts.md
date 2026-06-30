@@ -16,7 +16,7 @@ breadcrumb: [Using, Proactive Engagement, Digital End-User Experience, IT Servic
 
 Metric rules create an alert based on its trigger criteria.
 
-Alert actions are triggered when an alert is created in the specified criteria. You can create an alert based on the values shared in the system properties. The system properties can be set as conditions based on which the alert action is triggered. [[dex-workspace-application-tab|Applications]] and [[dex-workspace-devices-tab|devices]] need a different set of system properties to be set. The alert action is triggered when an alert is created based on the specified criteria and the conditions met. Through system properties, you can customize the values of these conditions.
+Alert actions are triggered when an alert is created in the specified criteria. You can create an alert based on the values shared in the system properties. The system properties can be set as conditions based on which the alert action is triggered. Applications and devices need a different set of system properties to be set. The alert action is triggered when an alert is created based on the specified criteria and the conditions met. Through system properties, you can customize the values of these conditions.
 
 -   Alert action for this metric rule is not triggered in the last 72 hours for the user.
 -   Fewer than 100 users are impacted for this metric rule within an 8 hour window.
@@ -47,7 +47,7 @@ Metric rule not triggered in the last 72 hours \(default\).
 
 </td><td>
 
-The duration \(in hours\) for imposing a freeze period for a specific user for any unique metric rule configured in [[proactive-engagement-landing-page|Proactive Engagement]]. Set this value to zero to disable the rule.
+The duration \(in hours\) for imposing a freeze period for a specific user for any unique metric rule configured in Proactive Engagement. Set this value to zero to disable the rule.
 
 </td><td>
 
@@ -147,8 +147,3 @@ There are different methods followed for closing the alerts in Proactive Engagem
 
 **Parent Topic:**[Using Proactive Engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/proactive-engagement/using-proactive-engagement.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[dex-workspace-devices-tab|Devices]]
-- [[proactive-engagement-landing-page|Proactive Engagement]]

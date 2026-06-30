@@ -34,7 +34,7 @@ Role required: it\_project\_manager
 
 6.  Select **Open Record**.
 
-7.  On the [[non-monetary-benefit-plan-breakdown-form|Non-monetary Benefit Plan Breakdown form]], view and update the enabled fields.
+7.  On the Non-monetary Benefit Plan Breakdown form, view and update the enabled fields.
 
     |Field|Description|
     |-----|-----------|
@@ -57,6 +57,3 @@ Role required: it\_project\_manager
 
 [Create a non-monetary benefit plan for a project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/create-a-non-monetary-benefit-plan-for-a-project.md)
 
-## Related
-
-- [[non-monetary-benefit-plan-breakdown-form|Non-monetary Benefit Plan Breakdown form]]

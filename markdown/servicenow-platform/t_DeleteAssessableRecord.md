@@ -20,7 +20,7 @@ Role required: assessment\_admin or admin
 
 ## About this task
 
-**Note:** If a source record is deleted, the system deletes the associated assessable record. To delete the source record, you must first delete all associated metric results and [[r_CategoryResults|category results]].
+**Note:** If a source record is deleted, the system deletes the associated assessable record. To delete the source record, you must first delete all associated metric results and category results.
 
 ## Procedure
 
@@ -29,17 +29,12 @@ Role required: assessment\_admin or admin
     -   To delete a single record, open the record and click **Delete**.
     -   To delete multiple records, use the Assessable Records list.
 
-**Parent Topic:**[[c_assessable-records|Assessable records]]
+**Parent Topic:**[Assessable records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_assessable-records.md)
 
-**Parent Topic:**[[c_MetricTypesAndAssessableRecords|Metric types and assessable records]]
+**Parent Topic:**[Metric types and assessable records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_MetricTypesAndAssessableRecords.md)
 
 **Related topics**  
 
 
 [Metric types and assessable records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_MetricTypesAndAssessableRecords.md)
 
-## Related
-
-- [[c_assessable-records|Assessable records]]
-- [[c_MetricTypesAndAssessableRecords|Metric types and assessable records]]
-- [[r_CategoryResults|Category results]]

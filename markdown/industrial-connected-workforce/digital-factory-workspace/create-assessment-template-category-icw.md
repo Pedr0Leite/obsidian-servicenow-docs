@@ -100,10 +100,7 @@ Default normalization strategy applied for assessment templates in this category
 
 ## Result
 
-The assessment template category appears in the list of categories that can be specified when designing an assessment template in the [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]].
+The assessment template category appears in the list of categories that can be specified when designing an assessment template in the Digital Factory Workspace.
 
 **Parent Topic:**[Using templates to create standards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/creating-standards-from-templates.md)
 
-## Related
-
-- [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]

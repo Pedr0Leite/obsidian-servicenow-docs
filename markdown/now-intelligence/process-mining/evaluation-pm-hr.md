@@ -14,7 +14,7 @@ breadcrumb: [Evaluation projects, Explore, Process Mining, Platform Analytics]
 
 # Process Mining evaluation project for Human Resources
 
-Process Mining evaluation project for Human Resources \(HR\) enables you to familiarize with improving your process with [[process-mining|Process Mining]] capability.
+Process Mining evaluation project for Human Resources \(HR\) enables you to familiarize with improving your process with Process Mining capability.
 
 HR customers can evaluate Process Mining with their HR business process in their production instance.
 
@@ -47,11 +47,7 @@ For more information, see [Run the Process Mining evaluation project](https://ra
 **Related topics**  
 
 
-[[create-db-in-ac|Create a dashboard with the in-line editor]]
+[Create a dashboard with the in-line editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-db-in-ac.md)
 
 [Analytics Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_UsePerformanceAnalyticsScorecards.md)
 
-## Related
-
-- [[create-db-in-ac|Create a dashboard with the in-line editor]]
-- [[process-mining|Process Mining]]

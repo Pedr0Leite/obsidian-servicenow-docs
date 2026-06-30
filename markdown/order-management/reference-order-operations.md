@@ -12,24 +12,16 @@ breadcrumb: [Reference, Sales Customer Relationship Management]
 
 # Order operations reference
 
-Reference for [[order-operations-landing|order operations]] applications.
+Reference for order operations applications.
 
 [Components installed with Order Operations Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-case-mgmt-order-ops-install-comp.md)
 
 Several types of components are installed with the Order Operations Case Management application, including tables, roles, and service definitions.
 
--   **[[lead-cash-process-management-reference|Lead-to-Cash Process Management reference]]**  
-Reference topics provide additional information about [[explore-lead-cash-process-management|Lead-to-Cash Process Management]].
--   **[[return-merchandise-authorization-case-management-reference|Return Merchandise Authorization Case Management]]**  
-Reference topic provides additional information about lists and forms that you can use to configure [[return-merchandise-authorization|Return Merchandise Authorization]] \(RMA\) Case Management.
+-   **[Lead-to-Cash Process Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-cash-process-management-reference.md)**  
+Reference topics provide additional information about Lead-to-Cash Process Management.
+-   **[Return Merchandise Authorization Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/return-merchandise-authorization-case-management-reference.md)**  
+Reference topic provides additional information about lists and forms that you can use to configure Return Merchandise Authorization \(RMA\) Case Management.
 
-**Parent Topic:**[[som-reference|Sales Customer Relationship Management reference]]
+**Parent Topic:**[Sales Customer Relationship Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-reference.md)
 
-## Related
-
-- [[lead-cash-process-management-reference|Lead-to-Cash Process Management reference]]
-- [[return-merchandise-authorization-case-management-reference|Return Merchandise Authorization Case Management]]
-- [[som-reference|Sales Customer Relationship Management reference]]
-- [[order-operations-landing|Order operations]]
-- [[explore-lead-cash-process-management|Lead-to-Cash Process Management]]
-- [[return-merchandise-authorization|Return Merchandise Authorization]]

@@ -15,7 +15,7 @@ breadcrumb: [Configuring Virtual Agent notifications, Configure, Virtual Agent, 
 
 # Create additional recipients for Virtual Agent notifications
 
-Create and define additional recipients for a [[virtual-agent-landing-page|Virtual Agent]] notification to be delivered on chat channels or messaging channels.
+Create and define additional recipients for a Virtual Agent notification to be delivered on chat channels or messaging channels.
 
 ## Before you begin
 
@@ -109,6 +109,3 @@ Dynamic filter conditions for the defined recipients.The dynamic condition is ap
 
 **Parent Topic:**[Configuring Virtual Agent notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configuring-va-notifications.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

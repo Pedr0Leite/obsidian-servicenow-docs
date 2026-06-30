@@ -12,7 +12,7 @@ breadcrumb: [Components installed, Reference, Field Service Management]
 
 # Roles installed with Field Service Management
 
-Roles are added with [[fsm-application-landing-page|Field Service Management]].
+Roles are added with Field Service Management.
 
 <table id="table_roles"><thead><tr><th>
 
@@ -72,7 +72,7 @@ Field Service Management Agent\[wm\_agent\]
 
 Manages actual task time and performs work on site. Agents also can:-   Accept or reject tasks assigned to them.
 -   Add parts requirements.
--   [[c_SourceParts|Source parts]].
+-   Source parts.
 -   Create tasks using the Clone Task feature.
 -   Add work notes to work orders and work order tasks.
 -   Submit questionnaires.
@@ -168,7 +168,7 @@ Field Service Management Dispatcher\[wm\_dispatcher\]
 </td><td>
 
 Schedules tasks, adds parts, and assigns tasks to work agents. Dispatchers also can:-   Create tasks.
--   Add [[c_PartRequirements|part requirements]].
+-   Add part requirements.
 -   Source parts.
 -   Edit all work order task fields and manage tasks from **Draft** to **Assigned** status.
 -   Edit the **Assigned to** field until work starts.
@@ -326,7 +326,7 @@ Create, delete, and modify work order tasks and part requirements when both the 
 wm\_initiator
 
 </td></tr></tbody>
-</table>## Role [[customer-service-integration|integration with Customer Service Management]]
+</table>## Role integration with Customer Service Management
 
 When you enable the Customer Service Management plugin \(com.sn\_customerservice\) along with the Field Service Management plugin \(com.snc.work\_management\) and add specific Customer Service roles to Field Service agents, they can view or create a case and also view additional customer service data. For more information on customer service agent roles, see [Roles installed with Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_RolesInstalledWithCustomerService.md).
 
@@ -378,12 +378,5 @@ wm\_location\_security
 View data based on the provider service organization.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[r_InstalledWithFSM|Components installed with Field Service Management]]
+</table>**Parent Topic:**[Components installed with Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/r_InstalledWithFSM.md)
 
-## Related
-
-- [[r_InstalledWithFSM|Components installed with Field Service Management]]
-- [[fsm-application-landing-page|Field Service Management]]
-- [[c_SourceParts|Source parts]]
-- [[c_PartRequirements|Part requirements]]
-- [[customer-service-integration|Integration with Customer Service Management]]

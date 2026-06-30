@@ -15,7 +15,7 @@ breadcrumb: [Create New Invoice form, Create New Invoice Line form, Reference, A
 
 # Inbound Invoice Fields
 
-Field descriptions, data types, and mandatory fields for the Inbound Invoice table used to import invoice data through the integration framework to create [[invoices|invoices]].
+Field descriptions, data types, and mandatory fields for the Inbound Invoice table used to import invoice data through the integration framework to create invoices.
 
 <table id="table_c3s_fj1_dwb"><thead><tr><th>
 
@@ -43,11 +43,11 @@ Choice Examples: invoice/non\_ po\_invoice, debit \_memo, credit\_memo
 
 </td></tr><tr><td>
 
-[[supplier|Supplier]] invoice number
+Supplier invoice number
 
 </td><td>
 
-The invoice number of the supplier and [[erp-source|ERP source]] and ERP invoice number
+The invoice number of the supplier and ERP source and ERP invoice number
 
 </td><td>
 
@@ -79,7 +79,7 @@ String
 
 </td></tr><tr><td>
 
-[[purchase-order-table|Purchase order]]
+Purchase order
 
 </td><td>
 
@@ -103,7 +103,7 @@ String \(yyyy-mm-dd\)
 
 </td></tr><tr><td>
 
-[[payment-terms|Payment terms]]
+Payment terms
 
 </td><td>
 
@@ -115,7 +115,7 @@ String
 
 </td></tr><tr><td>
 
-[[legal-entity|Legal entity]]
+Legal entity
 
 </td><td>
 
@@ -249,16 +249,7 @@ String
 </table>-   **[Inbound invoice line fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/inbound-invoice-line-fields.md)**  
 Field definitions and data types for the Inbound Invoice Line \[u\_inbound\_invoice\_line\] table used to map invoice line data for import through the integration framework.
 -   **[Inbound invoice payment fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/inbound-invoice-payment-fields.md)**  
-Field descriptions and data types for inbound invoice payment records used to import supplier invoice payment data into [[acc-pay-mgmt-landing-page|Accounts Payable Operations]].
+Field descriptions and data types for inbound invoice payment records used to import supplier invoice payment data into Accounts Payable Operations.
 
 **Parent Topic:**[Create New Invoice form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-new-invoice-form.md)
 
-## Related
-
-- [[invoices|Invoices]]
-- [[supplier|Supplier]]
-- [[erp-source|ERP source]]
-- [[purchase-order-table|Purchase order]]
-- [[payment-terms|Payment terms]]
-- [[legal-entity|Legal entity]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]

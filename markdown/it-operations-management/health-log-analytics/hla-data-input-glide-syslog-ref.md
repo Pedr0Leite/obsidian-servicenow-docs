@@ -46,7 +46,7 @@ Service instance
 
 </td><td>
 
-The service instance to which to bind the log data. The default value is ServiceNow Glide Sys Log. This field is required.**Note:** [[hla-landing-page|Health Log Analytics]] comes with the source type glide\_sys\_log for log traffic from the ServiceNow Glide Sys Log service instance.
+The service instance to which to bind the log data. The default value is ServiceNow Glide Sys Log. This field is required.**Note:** Health Log Analytics comes with the source type glide\_sys\_log for log traffic from the ServiceNow Glide Sys Log service instance.
 
 </td></tr><tr><td>
 
@@ -83,6 +83,3 @@ The criteria used to filter log data from the System Log table before streaming 
 </td></tr></tbody>
 </table>**Parent Topic:**[Data input configuration fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-input-config-fields.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

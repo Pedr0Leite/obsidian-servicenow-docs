@@ -14,7 +14,7 @@ breadcrumb: [Migration from ITSM Agent Workspace to Service Operations Workspace
 
 # Migrate from ITSM Agent Workspace to Service Operations Workspace for ITSM
 
-Through a set of simple steps, quickly migrate your ITSM Agent Workspace features including configurations and customizations to [[sow-landing-page|Service Operations Workspace for ITSM]].
+Through a set of simple steps, quickly migrate your ITSM Agent Workspace features including configurations and customizations to Service Operations Workspace for ITSM.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **Service Operations Workspace Admin Center** &gt; **Overview** &gt; **Initial Setup** &gt; **Migrate from ITSM Agent Workspace to SOW** if you're upgrading from AW 2.0 or higher.
 
-    If you're installing the latest [[migration-utility|migration utility]], navigate to **All** &gt; **Service Operations Workspace** &gt; **Migrate from ITSM Agent Workspace to SOW**.
+    If you're installing the latest migration utility, navigate to **All** &gt; **Service Operations Workspace** &gt; **Migrate from ITSM Agent Workspace to SOW**.
 
 2.  On the Migration from ITSM Agent Workspace to SOW page, perform the following steps.
 
@@ -48,7 +48,7 @@ Role required: admin
 
 3.  On the Features to migrate from Agent Workspace page, for each feature, select the configurations and customizations to migrate.
 
-    For information about configurations and customizations that can be [[migrated-records|migrated]], see [Configurations and customizations that can be migrated from ITSM Agent workspace to SOW for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configurations-and-customizations-from-itsm-aw-sow-itsm.md).
+    For information about configurations and customizations that can be migrated, see [Configurations and customizations that can be migrated from ITSM Agent workspace to SOW for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configurations-and-customizations-from-itsm-aw-sow-itsm.md).
 
 4.  Select **Next**.
 
@@ -83,8 +83,3 @@ Several configurations and customizations related to various ITSM Agent Workspac
 
 **Parent Topic:**[Migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/migration-from-itsm-aw-sow.md)
 
-## Related
-
-- [[sow-landing-page|Service Operations Workspace for ITSM]]
-- [[migration-utility|Migration Utility]]
-- [[migrated-records|Migrated]]

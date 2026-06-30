@@ -19,30 +19,21 @@ Widgets included with the Patient Portal enable you to customize their data and 
 To view the instance options for a widget, use the widget context menu.
 
 -   **[Appointment reminder card widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-widget-appt-reminder.md)**  
-The [[hcls-widget-appt-reminder|Appointment reminder card widget]] displays the next appointment reminder for the logged-in user.
+The Appointment reminder card widget displays the next appointment reminder for the logged-in user.
 -   **[COVID-19 status widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-widget-covid-19.md)**  
 The COVID-19 widget displays the status for the COVID-19 vaccination doses that logged-in user has either taken or self-reported and any COVID test results.
 -   **[Faq widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-widget-faq.md)**  
-The [[hcls-widget-faq|Faq widget]] displays a list of frequently asked questions \(FAQ\) articles for a patient.
+The Faq widget displays a list of frequently asked questions \(FAQ\) articles for a patient.
 -   **[Household widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-widget-household.md)**  
-The [[hcls-widget-household|Household widget]] displays a list of household members that the logged in user is authorized representative for.
+The Household widget displays a list of household members that the logged in user is authorized representative for.
 -   **[News and Articles widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-widget-news-articles.md)**  
-The [[hcls-widget-news-articles|News and Articles widget]] displays a list of articles that are accessible to patients.
+The News and Articles widget displays a list of articles that are accessible to patients.
 -   **[Open requests widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-widget-open-requests.md)**  
-The [[hcls-widget-open-requests|Open requests widget]] displays a list of open requests including healthcare-related cases created for the patient.
+The Open requests widget displays a list of open requests including healthcare-related cases created for the patient.
 -   **[Pending to-dos widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-widget-pending-to-dos.md)**  
-The [[hcls-widget-pending-to-dos|Pending to-dos widget]] displays a list of to-do items assigned to a patient.
+The Pending to-dos widget displays a list of to-do items assigned to a patient.
 -   **[Vaccinations widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-widget-vaccinations.md)**  
-The [[hcls-widget-vaccinations|Vaccinations widget]] displays a list of vaccines recommended for the logged-in user.
+The Vaccinations widget displays a list of vaccines recommended for the logged-in user.
 
 **Parent Topic:**[Healthcare and Life Sciences Service Management Core reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-serv-mgmt-core-reference.md)
 
-## Related
-
-- [[hcls-widget-appt-reminder|Appointment reminder card widget]]
-- [[hcls-widget-faq|Faq widget]]
-- [[hcls-widget-household|Household widget]]
-- [[hcls-widget-news-articles|News and Articles widget]]
-- [[hcls-widget-open-requests|Open requests widget]]
-- [[hcls-widget-pending-to-dos|Pending to-dos widget]]
-- [[hcls-widget-vaccinations|Vaccinations widget]]

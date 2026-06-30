@@ -12,7 +12,7 @@ breadcrumb: [User management, Set up your environment, Configure, Customer Servi
 
 # Update system property
 
-Update the sn\_customerservice.consumer.allowed\_user\_types system property within the [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) application to enable the association of consumer records with contact user records or with user records. This modification enables you to display the customer\_contact or sys\_user extension records in the reference list for the users in the csm\_consumer table.
+Update the sn\_customerservice.consumer.allowed\_user\_types system property within the Customer Service Management \(CSM\) application to enable the association of consumer records with contact user records or with user records. This modification enables you to display the customer\_contact or sys\_user extension records in the reference list for the users in the csm\_consumer table.
 
 ## Before you begin
 
@@ -56,6 +56,3 @@ When you navigate to a consumer record and access the **User** field, the refere
 
 This configuration enables administrators to link a consumer record directly to a contact user record, enabling the unified login experience for users who function as both B2B contacts and B2C consumers.
 
-## Related
-
-- [[c_CustomerServiceManagement|Customer Service Management]]

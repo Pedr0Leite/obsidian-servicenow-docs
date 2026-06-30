@@ -14,7 +14,7 @@ breadcrumb: [Reference, Workplace Connectors, Workplace Service Delivery, Employ
 
 # Components installed with Workplace Connectors
 
-Several types of components are installed with the installation of the [[workplace-connectors-landing-page|Workplace Connectors]] application, including user roles and tables.
+Several types of components are installed with the installation of the Workplace Connectors application, including user roles and tables.
 
 **Note:** The Application Files table lists the components that are installed with this application.
 
@@ -54,7 +54,7 @@ Configures a connector to connect with the integration framework. This configura
 
 </td></tr><tr><td>
 
-[[employee-attendance|Employee Attendance Data]] \[sn\_wsd\_wc\_employee\_attendance\_data\]
+Employee Attendance Data \[sn\_wsd\_wc\_employee\_attendance\_data\]
 
 </td><td>
 
@@ -72,7 +72,7 @@ t
 
 </td></tr><tr><td>
 
-[[provider-configuration-ovw|Provider connector configuration]]\[sn\_wsd\_wc\_provider\_config\]
+Provider connector configuration\[sn\_wsd\_wc\_provider\_config\]
 
 </td><td>
 
@@ -100,7 +100,7 @@ Provider Space Type Mapping sn\_wsd\_wc\_provider\_space\_type\_mapping
 
 </td><td>
 
-Stores mapping between [[workplace-safety-mgmt-hr|Workplace Core]] space or location records and sensor provider data records for occupancy data.
+Stores mapping between Workplace Core space or location records and sensor provider data records for occupancy data.
 
 </td></tr><tr><td>
 
@@ -116,7 +116,7 @@ Action Configuration \[sn\_wsd\_wc\_action\_config\]
 
 </td><td>
 
-Stores actions, [[flows-ukg|subflows]], and transform definitions from Metrikus Spoke.
+Stores actions, subflows, and transform definitions from Metrikus Spoke.
 
 </td></tr><tr><td>
 
@@ -173,10 +173,3 @@ Navigate to **All** &gt; **System Definition** &gt; **Scheduled jobs**. Search f
 
 **Next topic:**[Environmental data form for Workplace Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/wsd-environmental-data-form-fields.md)
 
-## Related
-
-- [[workplace-connectors-landing-page|Workplace Connectors]]
-- [[employee-attendance|Employee attendance data]]
-- [[provider-configuration-ovw|Provider connector configuration]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[flows-ukg|Subflows]]

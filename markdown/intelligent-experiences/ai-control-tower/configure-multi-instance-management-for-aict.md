@@ -14,7 +14,7 @@ breadcrumb: [Configure, AI Control Tower, Enable AI experiences]
 
 # Configure multi-instance management for AI Control Tower
 
-Configuring Multi-instance management for [[ai-control-tower-landing|AI Control Tower]].
+Configuring Multi-instance management for AI Control Tower.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ Role required: AI steward \[sn\_ai\_governance.ai\_steward\]
 
 1.  Log in to all sub-prods and select your prod \(managed\) instance as manager for the AI Control Tower application.
 
-2.  To verify the first step, log in to the prod instance and navigate to the managed instances tab under [[multi-instance-management|Multi-instance setup]] page to view all the sub-prods \(managed\) instances.
+2.  To verify the first step, log in to the prod instance and navigate to the managed instances tab under Multi-instance setup page to view all the sub-prods \(managed\) instances.
 
 
 ## Result
@@ -41,10 +41,5 @@ Multi-instance management is configured for the AI Control Tower.
 
 For more information about Trust configuration and Trust configuration management, see [Cross-instance application trust configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/grant-access-v2.md)
 
-For more information about AI asset synchronization process, see [Multi-instance Setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/multi-instance-management.md) section under Exploring the AI Control Tower [[exploring-ai-governance|configurations]].
+For more information about AI asset synchronization process, see [Multi-instance Setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/multi-instance-management.md) section under Exploring the AI Control Tower configurations.
 
-## Related
-
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[multi-instance-management|Multi-instance Setup]]
-- [[exploring-ai-governance|Configurations]]

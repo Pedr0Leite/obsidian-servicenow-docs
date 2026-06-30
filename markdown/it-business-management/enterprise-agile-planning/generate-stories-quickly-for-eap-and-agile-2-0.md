@@ -35,7 +35,7 @@ Role required: sn\_apw\_advanced.eap\_user
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** &gt; **Enterprise Agile Planning**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Enterprise Agile Planning**.
 
 2.  From the Agile structure section of the navigation panel, choose your EAP team that has an epic as its work item type.
 
@@ -81,6 +81,3 @@ To further refine the story after saving, open the story record and select **Gen
 
 [Generate acceptance criteria for EAP stories using Now Assist for Strategic Portfolio Management \(SPM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/eap-generate-acceptance-criteria-for-stories.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

@@ -33,7 +33,7 @@ When a metric rule detects that a device or application metric has breached a th
 2.  For each device that breaches a threshold, DEX creates one event in the `em_event` table.
 3.  DEX generates one alert per device in the `em_alert` table \(device alerts\) or one alert per application and metric rule combination \(application alerts\).
 4.  DEX groups device alerts using the alert correlation rule available with the base system, which consolidates all device alerts for the same metric rule combination within a configurable time window. The default window is one hour and is controlled by the system property `sn_dex.alert.correlation_rule.device_period`.
-5.  For application alerts, subsequent evaluations for the same application and metric rule update the same `dex_alert_metadata` record with the new event ID and impacted [[dex-workspace-devices-tab|devices]]. All new events for the same application and metric rule map to the same alert number until the alert is closed.
+5.  For application alerts, subsequent evaluations for the same application and metric rule update the same `dex_alert_metadata` record with the new event ID and impacted devices. All new events for the same application and metric rule map to the same alert number until the alert is closed.
 6.  Impacted users and devices are recorded in the `dex_alert_impacted_users` table. Additional details are recorded in `dex_alert_metadata`.
 
 ## Alert remediation
@@ -43,7 +43,7 @@ When a resolution is defined in the metric rule, DEX generates an experience iss
 \[Omitted image "dex-alert-remediation-flow.svg"\] Alt text: DEX alert remediation flow
 
 -   **Remediation action types**
-    -   **[[remedial-action|Remedial action]]**: Executes a CI action \(command or script on the endpoint\), catalog item, flow, or Virtual Agent \(VA\) topic.
+    -   **Remedial action**: Executes a CI action \(command or script on the endpoint\), catalog item, flow, or Virtual Agent \(VA\) topic.
     -   **Create incident**: Opens an incident record in ServiceNow.
     -   **Self-help instructions**: Delivers instructions to the end user.
     -   **URL**: Directs the end user to a resource URL.
@@ -74,7 +74,3 @@ Auto-correction scripts run on the endpoint and work even when the device is not
 
 **Tip:** For guidance on authoring policies and check definitions, see the policy and check definition authoring documentation.
 
-## Related
-
-- [[dex-workspace-devices-tab|Devices]]
-- [[remedial-action|Remedial action]]

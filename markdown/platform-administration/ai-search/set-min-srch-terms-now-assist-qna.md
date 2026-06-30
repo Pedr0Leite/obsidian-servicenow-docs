@@ -15,17 +15,17 @@ breadcrumb: [Now Assist Q&amp;A Genius Results, Configuring Now Assist in AI Sea
 
 # Change the minimum search term count for Now Assist Q&amp;A Genius Results
 
-Specify the minimum number of terms that a search must contain to be eligible for triggering Now Assist Q&amp;A [[genius-result-q-a-ais|Q&amp;A Genius Results]]. Searches with fewer terms don't return Now Assist Q&amp;A Genius Result answers.
+Specify the minimum number of terms that a search must contain to be eligible for triggering Now Assist Q&amp;A Q&amp;A Genius Results. Searches with fewer terms don't return Now Assist Q&amp;A Genius Result answers.
 
 ## Before you begin
 
-The [[now-assist-ais|Now Assist in AI Search]] ServiceNow® Store application must be installed on your instance. For details on installing this application, see [Install Now Assist in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/install-now-assist-ais.md).
+The Now Assist in AI Search ServiceNow® Store application must be installed on your instance. For details on installing this application, see [Install Now Assist in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/install-now-assist-ais.md).
 
 Role required: ais\_admin
 
 ## About this task
 
-[[now-assist-qna-genius-results|Now Assist Q&amp;A Genius Results]] send eligible knowledge article search [[hs-results|results]] to the Now LLM Service for Q&amp;A Genius Result answer generation.
+Now Assist Q&amp;A Genius Results send eligible knowledge article search results to the Now LLM Service for Q&amp;A Genius Result answer generation.
 
 By default, the system only sends knowledge article results to the Now LLM Service when the search satisfies all of these conditions.
 
@@ -34,11 +34,11 @@ By default, the system only sends knowledge article results to the Now LLM Servi
 -   The search contains two or more terms.
 -   The search matches the Java regular expression pattern defined by the **sn\_ais\_assist.u\_question\_regex** system property's value. This system property has no value set in the base system, so by default all search queries satisfy this condition.
 
-You can customize the term count condition by altering the minimum term count required by Now Assist Q&amp;A Genius Result [[clone-configurations-tab|configurations]].
+You can customize the term count condition by altering the minimum term count required by Now Assist Q&amp;A Genius Result configurations.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ia-ai-search|AI Search]]** &gt; **Search Query Settings** &gt; **[[genius-results-ais|Genius Results]]**.
+1.  Navigate to **All** &gt; **AI Search** &gt; **Search Query Settings** &gt; **Genius Results**.
 
 2.  Open the record for the Q&amp;A - Now Assist Genius Result configuration by selecting it from the list.
 
@@ -64,12 +64,3 @@ The modified Genius Result configuration doesn't send knowledge article search r
 
 **Parent Topic:**[Now Assist Q&amp;A Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/now-assist-qna-genius-results.md)
 
-## Related
-
-- [[genius-result-q-a-ais|Q&amp;A Genius Results]]
-- [[now-assist-ais|Now Assist in AI Search]]
-- [[now-assist-qna-genius-results|Now Assist Q&amp;A Genius Results]]
-- [[hs-results|Results]]
-- [[clone-configurations-tab|Configurations]]
-- [[ia-ai-search|AI Search]]
-- [[genius-results-ais|Genius Results]]

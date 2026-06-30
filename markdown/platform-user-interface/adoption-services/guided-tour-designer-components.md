@@ -14,7 +14,7 @@ breadcrumb: [Guided Tour Designer, Explore Guided Tours, Guided Tours, Adoption 
 
 # GTD components
 
-Learn about the [[guided-tours|Guided Tours]] components.
+Learn about the Guided Tours components.
 
 Guided Tours are composed of the following components that function as building blocks for the tours that you create.
 
@@ -59,7 +59,7 @@ The callout provides the definition and instructions for the current tour step, 
 -   To the left
 -   To the right
 
- You can customize the [[c_ServicePortal|Service Portal]] guided tour callout colors. For more information, see [Guided Tour callout color](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/guided-tour-callout-color.md).
+ You can customize the Service Portal guided tour callout colors. For more information, see [Guided Tour callout color](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/guided-tour-callout-color.md).
 
 </td></tr><tr><td>
 
@@ -87,13 +87,7 @@ Conclusion
 
 </td><td>
 
-A conclusion indicating that the tour is complete. It is a great opportunity to encourage users to [[exploring|explore]] other tours or provide follow-up information on what to do next.
+A conclusion indicating that the tour is complete. It is a great opportunity to encourage users to explore other tours or provide follow-up information on what to do next.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[guided-tours|Guided Tours]]
-- [[c_ServicePortal|Service Portal]]
-- [[exploring|Explore]]

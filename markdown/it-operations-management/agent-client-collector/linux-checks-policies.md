@@ -14,7 +14,7 @@ breadcrumb: [Agent Client Collector Monitoring default checks and policies, ACC-
 
 # Linux default checks and policies
 
-[[acc-landing-page|Agent Client Collector]] provides the following default [[checks-policies|checks and policies]] for [[linux-metrics|Linux Metrics]] monitoring.
+Agent Client Collector provides the following default checks and policies for Linux Metrics monitoring.
 
 ## Linux monitoring metrics checks
 
@@ -5349,8 +5349,3 @@ no
 </td></tr></tbody>
 </table>**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-policies-checks.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[checks-policies|Checks and policies]]
-- [[linux-metrics|Linux metrics]]

@@ -14,7 +14,7 @@ breadcrumb: [Configuration Management Database \(CMDB\), Configuration Managemen
 
 # CMDB success advisor
 
-The ServiceNow® CMDB success advisor is a scoped application that drives business outcomes for targeted business products, including Data Foundations and Hardware Asset Management, by improving [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]] data quality. Use a specialized advisor to resolve data quality issues through guided remediation and identify which data integrations are keeping your CMDB accurate and complete.
+The ServiceNow® CMDB success advisor is a scoped application that drives business outcomes for targeted business products, including Data Foundations and Hardware Asset Management, by improving Configuration Management Database \(CMDB\) data quality. Use a specialized advisor to resolve data quality issues through guided remediation and identify which data integrations are keeping your CMDB accurate and complete.
 
 ## Get started
 
@@ -32,7 +32,7 @@ The ServiceNow® CMDB success advisor is a scoped application that drives busine
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about installed components.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sa-[[reference|reference]].md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about installed components.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sa-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -42,7 +42,3 @@ The ServiceNow® CMDB success advisor is a scoped application that drives busine
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now)
 
-## Related
-
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[reference|Reference]]

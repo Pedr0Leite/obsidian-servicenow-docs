@@ -10,7 +10,7 @@ reading_time_minutes: 1
 
 # Add other employment details
 
-Update the [[alumni-profile|alumni profile]] with additional employment details to ensure an accurate career history and provide tailored job opportunities.
+Update the alumni profile with additional employment details to ensure an accurate career history and provide tailored job opportunities.
 
 ## Before you begin
 
@@ -18,7 +18,7 @@ Role required: sn\_asc.alumni
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[alumni-service-center|Alumni Center]]** &gt; **Profile**.
+1.  Navigate to **All** &gt; **Alumni Center** &gt; **Profile**.
 
     **Note:** Select your name to see the profile option.
 
@@ -64,7 +64,3 @@ Role required: sn\_asc.alumni
 
 [Edit personal details]()
 
-## Related
-
-- [[alumni-profile|Alumni profile]]
-- [[alumni-service-center|Alumni Center]]

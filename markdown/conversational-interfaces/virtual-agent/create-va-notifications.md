@@ -14,7 +14,7 @@ breadcrumb: [Configuring Virtual Agent notifications, Configure, Virtual Agent, 
 
 # Create Virtual Agent notifications
 
-Create a notification that is sent directly to users via the [[virtual-agent-landing-page|Virtual Agent]] chatbot. The notification specifies when users receive the notification \(triggers for the notification\) and who receives it \(recipients with and without accounts in the User \[sys\_user\] table\).
+Create a notification that is sent directly to users via the Virtual Agent chatbot. The notification specifies when users receive the notification \(triggers for the notification\) and who receives it \(recipients with and without accounts in the User \[sys\_user\] table\).
 
 ## Before you begin
 
@@ -177,6 +177,3 @@ Option to include the user who changed the record or triggered the event.
 
 **Parent Topic:**[Configuring Virtual Agent notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configuring-va-notifications.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

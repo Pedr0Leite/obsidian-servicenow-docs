@@ -30,7 +30,7 @@ Name
 
 </td><td>
 
-Name for the [[ec-notification-content|notification content]] record.
+Name for the notification content record.
 
 </td></tr><tr><td>
 
@@ -70,7 +70,7 @@ Advance
 
 </td><td>
 
-Option to enable support for dynamic [[ec-content-templates|content templates]] and grouping of unseen notifications.
+Option to enable support for dynamic content templates and grouping of unseen notifications.
 
 </td></tr><tr><td>
 
@@ -150,7 +150,7 @@ Icon background: Background colors for the notification icons.
 
 [Connected Content form]()
 
-[Default [[emp-slate-employee-profile|Employee Profile]] Header Configuration record]()
+[Default Employee Profile Header Configuration record]()
 
 [Employee Center widgets]()
 
@@ -200,8 +200,3 @@ Icon background: Background colors for the notification icons.
 
 [Website configuration form]()
 
-## Related
-
-- [[ec-notification-content|Notification content]]
-- [[ec-content-templates|Content templates]]
-- [[emp-slate-employee-profile|Employee profile]]

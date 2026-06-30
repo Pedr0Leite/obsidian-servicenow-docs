@@ -14,9 +14,9 @@ breadcrumb: [Using Document Templates, Document Templates, HR Documents, HR Serv
 
 # Using Document Templates: HR Service Delivery
 
-Learn how to use [[document-templates-overview|Document Templates]] along with the [[hr-service-delivery|HR Service Delivery]] application.
+Learn how to use Document Templates along with the HR Service Delivery application.
 
-**Note:** Only HTML and PDF document templates are supported in HR Service Delivery. [[cncore-expl-wdt|Word document templates]] is not supported in HR Service Delivery.
+**Note:** Only HTML and PDF document templates are supported in HR Service Delivery. Word document templates is not supported in HR Service Delivery.
 
 ## Activate plugin
 
@@ -66,8 +66,3 @@ Document tasks can be generated either automatically or manually. The tasks get 
 
 [Using Guided Tours in Document Templates]()
 
-## Related
-
-- [[document-templates-overview|Document Templates]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[cncore-expl-wdt|Word Document Templates]]

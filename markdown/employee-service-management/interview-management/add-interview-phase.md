@@ -26,13 +26,13 @@ Set up interview phases based on the different rounds you plan to include in the
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[recruitment-workspace-concept|Recruitment workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Recruitment workspace**.
 
 2.  Select the job requisition that you want to add interview phases for.
 
 3.  On the **Interview phases** tab, select **Add phase**.
 
-4.  On the [[add-interview-phase-form|Create New Interview phase form]], fill in the fields.
+4.  On the Create New Interview phase form, fill in the fields.
 
     For a description of the field values, see [Create new interview phase form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/add-interview-phase-form.md).
 
@@ -43,7 +43,3 @@ Set up interview phases based on the different rounds you plan to include in the
 
 **Parent Topic:**[Using Interview Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/using-interview-mgmnt.md)
 
-## Related
-
-- [[recruitment-workspace-concept|Recruitment workspace]]
-- [[add-interview-phase-form|Create new interview phase form]]

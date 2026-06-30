@@ -15,11 +15,11 @@ breadcrumb: [Activate Now Assist Skills, Configure, Now Assist for CSM, Customer
 
 # Configure special handling notes summarization in Now Assist for Customer Service Management \(CSM\)
 
-Activate the [[c_OnScreenAlerts|Special Handling Notes]] summarization skill to enable Now Assist for CSM to generate concise summaries of special handling notes on the **Case Insights** section.
+Activate the Special Handling Notes summarization skill to enable Now Assist for CSM to generate concise summaries of special handling notes on the **Case Insights** section.
 
 ## Before you begin
 
--   The [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]] plugin is activated in your instance.
+-   The Now Assist for Customer Service Management \(CSM\) plugin is activated in your instance.
 -   A valid Now Assist license is applied to your instance.
 
 Role required: admin.
@@ -42,7 +42,7 @@ The Special Handling Notes summarization skill uses generative AI to condense le
 
 5.  Configure user access.
 
-    In the **Add user access** section, specify the individuals or groups that can use this skill. ACLs \(access control [[migration-lists|lists]]\) identify the users permitted to access the skill.
+    In the **Add user access** section, specify the individuals or groups that can use this skill. ACLs \(access control lists\) identify the users permitted to access the skill.
 
     1.  Review the **Decision type** column.
 
@@ -73,7 +73,7 @@ The Special Handling Notes summarization skill uses generative AI to condense le
 
 ## Result
 
-The Special Handling Notes summarization skill is activated. Agents working in the [[csm-workspaces-configure|CSM Configurable Workspace]] can view AI-generated summaries of special handling notes on the **Case Insights** section, which supports more consistent customer interactions. Role restrictions control which users and data resources the skill can access.
+The Special Handling Notes summarization skill is activated. Agents working in the CSM Configurable Workspace can view AI-generated summaries of special handling notes on the **Case Insights** section, which supports more consistent customer interactions. Role restrictions control which users and data resources the skill can access.
 
 ## What to do next
 
@@ -84,9 +84,3 @@ After activating the skill, complete the following tasks:
 -   Monitor Now Assist usage analytics to track adoption of the skill.
 -   To customize the skill, go to Now Assist Skill Kit and open the skill and create custom prompts. For more info, see [Create a prompt](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/create-prompt-template.md)
 
-## Related
-
-- [[c_OnScreenAlerts|Special handling notes]]
-- [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]]
-- [[migration-lists|Lists]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

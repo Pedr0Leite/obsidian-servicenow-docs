@@ -14,14 +14,14 @@ breadcrumb: [Setup Workplace Calendar Synchronization, Configure, Workplace Cale
 
 # Microsoft Exchange On-Premises - Calendar synchronization
 
-Create a connection with Microsoft Exchange On-Premises and synchronize reservations made using the [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] application. You can synchronize all the reservations that are made using the Workplace Reservation Management to the On-Premises calendar and vice versa. The reservation synchronization from an On-Premises calendar to the Workplace Reservation Management is performed using various approaches like subscriptions, synchronization tokens, events, and occurrences.
+Create a connection with Microsoft Exchange On-Premises and synchronize reservations made using the Workplace Reservation Management application. You can synchronize all the reservations that are made using the Workplace Reservation Management to the On-Premises calendar and vice versa. The reservation synchronization from an On-Premises calendar to the Workplace Reservation Management is performed using various approaches like subscriptions, synchronization tokens, events, and occurrences.
 
-The Microsoft Exchange On-Premises, unlike other calendar providers, isn’t accessible online. The provider is remote and is accessible only by the organization locally. To synchronize calendar reservations with this on-premise setup, the [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]] application enables you to communicate using the MID server. A MID server is installed in the same local setup where the Microsoft Exchange On-Premises is installed. This way, a communication can be established with the MID server and communicate frequently. To support the on-premises calendar provider, a new calendar processor, Microsoft EWS is supported in the Workplace Calendar Synchronization application.
+The Microsoft Exchange On-Premises, unlike other calendar providers, isn’t accessible online. The provider is remote and is accessible only by the organization locally. To synchronize calendar reservations with this on-premise setup, the Workplace Calendar Synchronization application enables you to communicate using the MID server. A MID server is installed in the same local setup where the Microsoft Exchange On-Premises is installed. This way, a communication can be established with the MID server and communicate frequently. To support the on-premises calendar provider, a new calendar processor, Microsoft EWS is supported in the Workplace Calendar Synchronization application.
 
 1.  Connect MID server with ServiceNow®.
 2.  Create a connection and credential alias.
 
-**Important:** The [[workplace-rsv-for-outlook-addin-feat|Workplace Reservations for Microsoft Outlook Add-in]] application does not support Microsoft Exchange On-Premises.
+**Important:** The Workplace Reservations for Microsoft Outlook Add-in application does not support Microsoft Exchange On-Premises.
 
 ## Synchronization from Workplace Reservation Management to Microsoft Exchange On-Premises
 
@@ -37,7 +37,7 @@ Synchronize reservations to the on-premises calendar from Workplace Reservation 
 
 The reservation synchronization from the Microsoft Exchange On-Premises calendar to the Reservation portal is done by running a timely scheduled job, **WSDRS Sync Calendar items**.
 
-An approach called, Delta synchronization is used by the Workplace Calendar Synchronization application. With Delta synchronization, you retrieve only the incremental changes made on a resource email id of the calendar using a [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] point called as synchronization token. That is, for each room \(each reservable sync record\), linked to the on-premises calendar provider you get the synchronization tokens, which are the reference points to get the update from the calendar in increments.
+An approach called, Delta synchronization is used by the Workplace Calendar Synchronization application. With Delta synchronization, you retrieve only the incremental changes made on a resource email id of the calendar using a reference point called as synchronization token. That is, for each room \(each reservable sync record\), linked to the on-premises calendar provider you get the synchronization tokens, which are the reference points to get the update from the calendar in increments.
 
 -   Based on the **Page size**, **Sync batch size** and the **Sync batch interval**, the information is retrieved by the synchronization tokens. For example, if you specified the values as **5**, **500**, and **60** respectively \(in the previous fields\). It means that you can raise 500 requests in an interval of 60 seconds. The synchronization results five changes in a page.
 -   When you create a reservable sync configuration record under the on-premises calendar, you must ensure that is activated.
@@ -60,7 +60,7 @@ To enable strict mode, you can enable the **Strict mode** option in the while co
 The Workplace Calendar Synchronization enables you to also synchronize reservations made in the past. You can specify the date and time range in the **Sync start date time** and **Sync end date time** fields. For the on-premises calendar, the following conditions must be met to sync past reservations:
 
 -   The calendar provider that is the Microsoft Exchange On-Premises calendar provider that you configured must be active.
--   The **[[sync-past-reservation|Synchronize past reservations]]** field must be selected.
+-   The **Synchronize past reservations** field must be selected.
 -   The reservable sync configuration for which you want to sync past reservations must be active.
 
 **Note:** Ensure that the reservations that you want to sync from the past are not above 1000. If in cases the expected number of past events are more than 1000, it is recommended to modify the system property **sn\_wsd\_rsvsync.ewsPastSyncPeriodInMonths**. Specify the value in months keeping in mind the expected past reservations. A single sync syncs reservations from those many months. Ensure that the specified number of months do not have more than 1000 reservations per room/resource.
@@ -69,10 +69,3 @@ The Workplace Calendar Synchronization enables you to also synchronize reservati
 
 No request is a mechanism to validate the generated syntax of the payload of an event created for the calendar. But, instead of sending the event to the calendar provider, it is only created. The admin can validate the payload content of the event \(JSON\) to ensure that is generated as expected. 'No request' ensures that the application does not make any API calls to the calendar provider when you create, update, or cancel a reservation in the Workplace Reservation Management application.
 
-## Related
-
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]
-- [[workplace-rsv-for-outlook-addin-feat|Workplace Reservations for Microsoft Outlook Add-in]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[sync-past-reservation|Synchronize past reservations]]

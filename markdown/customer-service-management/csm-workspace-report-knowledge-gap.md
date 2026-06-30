@@ -26,7 +26,7 @@ Customer service case managers can use the Demand Insights for Cases dashboard t
 
 ## Procedure
 
-1.  [[csm-workspaces-open|Open CSM Configurable Workspace]].
+1.  Open CSM Configurable Workspace.
 
 2.  Open a customer service case.
 
@@ -34,7 +34,7 @@ Customer service case managers can use the Demand Insights for Cases dashboard t
 
 4.  Click the More UI Actions icon \(\[Omitted image "agent-workspace-more-ui-actions-icon.jpg"\] Alt text: More UI Actions icon.\) and then click **Report Knowledge Gap**.
 
-    In the platform interface, click the **Report Knowledge Gap** related link on the [[r_CustomerServiceCaseForm|Case form]] and provide information in the resulting pop-up window.
+    In the platform interface, click the **Report Knowledge Gap** related link on the Case form and provide information in the resulting pop-up window.
 
     The system opens a new knowledge feedback task in a sub-tab. The short description from the case is copied to the **Description** field on the task.
 
@@ -44,7 +44,4 @@ Customer service case managers can use the Demand Insights for Cases dashboard t
 
     The task is added to the **Knowledge Gaps** related list on the Case form.
 
-## Related
 
-- [[csm-workspaces-open|Open CSM Configurable Workspace]]
-- [[r_CustomerServiceCaseForm|Case form]]

@@ -36,7 +36,7 @@ Role required: admin
     |Default value|250|
 
 
-**Parent Topic:**[[c_Formatters|Using formatters]]
+**Parent Topic:**[Using formatters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_Formatters.md)
 
 **Related topics**  
 
@@ -45,6 +45,3 @@ Role required: admin
 
 [Create a formatter and add it to a form]()
 
-## Related
-
-- [[c_Formatters|Using formatters]]

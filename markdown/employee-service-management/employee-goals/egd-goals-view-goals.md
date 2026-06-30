@@ -22,13 +22,13 @@ Role required: employee \[sn\_egd\_act.employee\]
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
 
 2.  From the User options drop-down list, select **Profile**.
 
     **Tip:** The User options drop-down list is an icon that contains your user's profile picture.
 
-    The [[emp-slate-employee-profile|employee profile]] appears.
+    The employee profile appears.
 
 3.  Select the **Career** tab.
 
@@ -38,7 +38,4 @@ Role required: employee \[sn\_egd\_act.employee\]
 
 5.  Select the **Active**, **Completed**, or **Archived** tabs in the Goals widget to view your goals by the category in which they're filtered.
 
-## Related
 
-- [[employee-center-landing-page|Employee Center]]
-- [[emp-slate-employee-profile|Employee profile]]

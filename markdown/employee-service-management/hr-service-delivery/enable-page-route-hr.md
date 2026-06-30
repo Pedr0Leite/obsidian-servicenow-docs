@@ -26,7 +26,7 @@ Role required: admin
 
 2.  Create the page route map from **hrm\_ticket\_page** to **standard\_ticket**.
 
-    **Note:** **hrm\_ticket\_page** is available only when you have the [[employee-center-landing-page|Employee Center]] \[com.sn\_hr\_service\_portal\] plugin.
+    **Note:** **hrm\_ticket\_page** is available only when you have the Employee Center \[com.sn\_hr\_service\_portal\] plugin.
 
     \[Omitted image "enable-page-route-hr.png"\] Alt text: Page route mapping
 
@@ -45,6 +45,3 @@ Role required: admin
 
 **Parent Topic:**[Standard Ticket Page view for HR Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/ur-hr-standard-ticket-page.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

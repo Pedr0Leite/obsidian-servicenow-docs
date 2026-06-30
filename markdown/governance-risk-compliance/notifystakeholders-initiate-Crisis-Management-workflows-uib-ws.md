@@ -20,7 +20,7 @@ Role required: sn\_bcm.admin or sn\_bcm.program\_manager
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **Business Continuity Workspace** and select **Crisis map** in the [[list-view-uib-ws|list view]].
+1.  Navigate to **Workspaces** &gt; **Business Continuity Workspace** and select **Crisis map** in the list view.
 
 2.  Select an alert record.
 
@@ -32,7 +32,7 @@ Role required: sn\_bcm.admin or sn\_bcm.program\_manager
 
     -   **Declare a Crisis Event**
 
-        [[start-event|Start an event]] to activate the recovery tasks to recover the assets with a recovery team.
+        Start an event to activate the recovery tasks to recover the assets with a recovery team.
 
 3.  Notify stakeholders of the impending crisis by email using the **Notify** button in the 'Notify Stakeholders' card.
 
@@ -60,24 +60,17 @@ Role required: sn\_bcm.admin or sn\_bcm.program\_manager
 
     When you trigger these actions, separate scripts run to trigger the alert notify action and the declaration of the crisis event. A message appears to confirm that your actions are executed. You can navigate to the **Response Tasks** tab to view the action and recovery event details.
 
-    All the assets at risk are copied over to the [[event-assets|Event Assets]] table \[sn\_recovery\_event\_asset\] that is related to the event \[sn\_recovery\_event\].
+    All the assets at risk are copied over to the Event Assets table \[sn\_recovery\_event\_asset\] that is related to the event \[sn\_recovery\_event\].
 
 
 ## What to do next
 
 1.  If it’s a recovery event, select anywhere on the **Response Tasks** card to take you to the event details.
 2.  In the **Details** tab of the event, update the details if necessary.
-3.  Select the **Start Event** button. The event for the crisis is then activated. All the associated plans for this recovery event and the tasks associated with it are set into action. The Crisis Management workflow begins to recover the impacted assets. For more information, see [[crisis-management-uib|Crisis events]].
+3.  Select the **Start Event** button. The event for the crisis is then activated. All the associated plans for this recovery event and the tasks associated with it are set into action. The Crisis Management workflow begins to recover the impacted assets. For more information, see [Crisis events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/crisis-management-uib.md).
 
     All the assets at risk are copied over to the Event Assets table \[sn\_recovery\_event\_asset\] that is related to the event \[sn\_recovery\_event\].
 
 
-**Parent Topic:**[[crisis-map-collective-tasks|Structured workflows for Crisis map]]
+**Parent Topic:**[Structured workflows for Crisis map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/crisis-map-collective-tasks.md)
 
-## Related
-
-- [[crisis-management-uib|Crisis events]]
-- [[crisis-map-collective-tasks|Structured workflows for Crisis map]]
-- [[list-view-uib-ws|List view]]
-- [[start-event|Start an event]]
-- [[event-assets|Event assets]]

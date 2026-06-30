@@ -25,9 +25,9 @@ Role required: ais\_admin
 
 ## About this task
 
-Linking a search source to the **Now Assist in VA** search profile makes its filtered content available in Now Assist in Virtual Agent conversations. [[ia-ai-search|AI Search]] only uses content from the search profile's linked search sources when generating responses for Now Assist in Virtual Agent conversations.
+Linking a search source to the **Now Assist in VA** search profile makes its filtered content available in Now Assist in Virtual Agent conversations. AI Search only uses content from the search profile's linked search sources when generating responses for Now Assist in Virtual Agent conversations.
 
-When linking a search source to the **Now Assist in VA** search profile, you can specify options that control how the search source's content is accessed for Now Assist in Virtual Agent conversations. You can exclude the search source's content from being considered when finding standard search [[hs-results|results]], or prevent it from being considered during Genius Result answer generation.
+When linking a search source to the **Now Assist in VA** search profile, you can specify options that control how the search source's content is accessed for Now Assist in Virtual Agent conversations. You can exclude the search source's content from being considered when finding standard search results, or prevent it from being considered during Genius Result answer generation.
 
 ## Procedure
 
@@ -37,7 +37,7 @@ When linking a search source to the **Now Assist in VA** search profile, you can
 
 3.  In the Search Sources related list, select **Link Existing**.
 
-4.  On the [[search-prof-src-mapping-form-ais|Search Profile - Search Source Mapping form]], fill in the fields.
+4.  On the Search Profile - Search Source Mapping form, fill in the fields.
 
     For a description of the field values, see [Search Profile - Search Source Mapping form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/search-prof-src-mapping-form-ais.md).
 
@@ -50,13 +50,7 @@ The new search source appears in the Search Sources related list. Now Assist in 
 
 ## What to do next
 
-Derived auto-correction term lists for the **Now Assist in VA** search profile's [[typo-handling-ais|typo handling]] dictionary don't automatically update to reflect changes to the set of searchable records. To update these auto-correction term lists, publish the **Now Assist in VA** search profile. For details on publishing a search profile, see [Publish an AI Search search profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/publish-search-profile-ais.md).
+Derived auto-correction term lists for the **Now Assist in VA** search profile's typo handling dictionary don't automatically update to reflect changes to the set of searchable records. To update these auto-correction term lists, publish the **Now Assist in VA** search profile. For details on publishing a search profile, see [Publish an AI Search search profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/publish-search-profile-ais.md).
 
 **Parent Topic:**[Configuring External Content Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/configuring-ext-cont-connectors.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]
-- [[search-prof-src-mapping-form-ais|Search Profile - Search Source Mapping form]]
-- [[typo-handling-ais|Typo handling]]

@@ -28,7 +28,7 @@ The Performance Analytics - Domain Support plugin \(com.snc.pa.domain\_support\)
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]] Administration** &gt; **Data Collector** &gt; **Jobs**.
+1.  Navigate to **All** &gt; **Platform Analytics Administration** &gt; **Data Collector** &gt; **Jobs**.
 
 2.  Select a data collection job.
 
@@ -49,6 +49,3 @@ The Performance Analytics - Domain Support plugin \(com.snc.pa.domain\_support\)
 
 **Parent Topic:**[Grouping domains in Performance Analytics domain configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/pa-domain-separation-msp.md)
 
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

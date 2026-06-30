@@ -12,7 +12,7 @@ breadcrumb: [User preferences, User interface configuration, Working in Core UI,
 
 # Configure available keyboard shortcuts
 
-Administrators can [[configure-onboarding-modals|configure]] which keyboard shortcuts are available to users.
+Administrators can configure which keyboard shortcuts are available to users.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-For a list of available keyboard shortcuts, see [[r_KeyboardShortcuts|Core UI keyboard shortcuts]]. You can enable or disable keyboard shortcuts universally by searching for the *glide.ui.keyboard.shorcuts.enabled* user preference. Then select the System checkbox and set the value to False.
+For a list of available keyboard shortcuts, see [Core UI keyboard shortcuts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/r_KeyboardShortcuts.md). You can enable or disable keyboard shortcuts universally by searching for the *glide.ui.keyboard.shorcuts.enabled* user preference. Then select the System checkbox and set the value to False.
 
 You can also use the user preferences to determine which keyboard shortcuts are available to users and what the key combinations are.
 
@@ -47,7 +47,7 @@ You can also use the user preferences to determine which keyboard shortcuts are 
 6.  Use the value for any user preference that ends with key\_combo to change the key combination for that particular keyboard shortcut.
 
 
-**Parent Topic:**[[c_UserPreferences|User preferences]]
+**Parent Topic:**[User preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_UserPreferences.md)
 
 **Related topics**  
 
@@ -56,8 +56,3 @@ You can also use the user preferences to determine which keyboard shortcuts are 
 
 [Turn off the Next Experience welcome screen after upgrading your instance]()
 
-## Related
-
-- [[r_KeyboardShortcuts|Core UI keyboard shortcuts]]
-- [[c_UserPreferences|User preferences]]
-- [[configure-onboarding-modals|Configure]]

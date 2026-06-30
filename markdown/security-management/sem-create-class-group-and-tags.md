@@ -12,7 +12,7 @@ breadcrumb: [Implement, Unified Security Exposure Management, Security Operation
 
 # Set up security tag groups and tags
 
-You can assign tags to security incidents, response tasks, vulnerable items, [[c_Observables|observables]], IoCs, and security cases to create metadata on the responding record and define who should have access to specific types of security content. The tags can be added to security groups to organize them.
+You can assign tags to security incidents, response tasks, vulnerable items, observables, IoCs, and security cases to create metadata on the responding record and define who should have access to specific types of security content. The tags can be added to security groups to organize them.
 
 ## Before you begin
 
@@ -21,7 +21,7 @@ You can assign tags to security incidents, response tasks, vulnerable items, [[c
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sem-workspace-user-interface|Security Exposure Management Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Security Exposure Management Workspace**.
 
 2.  Select **Administration** in the navigation pane.
 
@@ -32,7 +32,7 @@ You can assign tags to security incidents, response tasks, vulnerable items, [[c
     Three default classification groups are included in the base system.
 
     -   **Enrichment allow list/deny list**: This group defines whether a record is to be treated as an allow list or deny list record. Allow list records are generally of less significance, so they can be ignored. Deny list records are generally of higher interest.
-    -   **Metatags**: This group is provided as demo data. You can use it to create custom classification tags that are used by [[security-operations-landing-page|security operations]] applications.
+    -   **Metatags**: This group is provided as demo data. You can use it to create custom classification tags that are used by security operations applications.
     -   **Traffic Light Protocol \(TLP\)**: This group is used to ensure that sensitive information is shared with the correct audience. It employs four colors \(White, Green, Amber, and Red\) to indicate different degrees of sensitivity. For each color, you can assign the appropriate read/write access roles. When sharing observables to a trusted security circle, the tag assigned to the trusted security circle profile determines which TLP-tagged observables can be shared to the circle, as follows:
 
         -   **TLP: WHITE:** Only observables with TLP: WHITE can be shared to a TLP: WHITE profile.
@@ -117,16 +117,8 @@ Brief description of this group.
     **Note:** You can also create tags by selecting **New** button on the list view. The procedure is the same.
 
 
--   **[[sem-create-security-tag-rules|Create security tag rules]]**  
+-   **[Create security tag rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-create-security-tag-rules.md)**  
 Security tag rules provide filtering for security tag access.
--   **[[sem-import-security-tag-rules|Import security tag rules]]**  
-You can [[import-security-tag-rules|import security tag rules]] from other tables in your deployment.
+-   **[Import security tag rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-import-security-tag-rules.md)**  
+You can import security tag rules from other tables in your deployment.
 
-## Related
-
-- [[sem-create-security-tag-rules|Create security tag rules]]
-- [[sem-import-security-tag-rules|Import security tag rules]]
-- [[c_Observables|Observables]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]
-- [[security-operations-landing-page|Security Operations]]
-- [[import-security-tag-rules|Import security tag rules]]

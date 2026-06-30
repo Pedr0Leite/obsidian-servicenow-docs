@@ -22,7 +22,7 @@ Role required: sn\_rcl\_claim\_mgmt.recall\_manager
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace** &gt; **Lists** &gt; **[[mco-recall-management|Recall Management]]** &gt; **My Campaigns** &gt; **[[mco-rcl-clms|Recall Campaign]] Phases**.
+1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace** &gt; **Lists** &gt; **Recall Management** &gt; **My Campaigns** &gt; **Recall Campaign Phases**.
 
 2.  Select a leaf phase.
 
@@ -43,10 +43,5 @@ Role required: sn\_rcl\_claim\_mgmt.recall\_manager
 6.  Select **Save**.
 
 
-**Parent Topic:**[[mco-recall-campaign-phases|Recall a campaign phase]]
+**Parent Topic:**[Recall a campaign phase](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-recall-campaign-phases.md)
 
-## Related
-
-- [[mco-recall-campaign-phases|Recall a campaign phase]]
-- [[mco-recall-management|Recall management]]
-- [[mco-rcl-clms|Recall campaign]]

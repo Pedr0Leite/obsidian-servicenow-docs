@@ -22,17 +22,17 @@ Role required: sn\_wsd\_spcmgmt.space\_planner
 
 ## About this task
 
-View the scenarios created in your workplace using the [[space-optimization|Space optimization]] module. The Space optimization module provides you with metrics for scenarios based on their current state. You get a list of total scenarios and of scenarios that were created based on buildings. At any time, you can monitor the status of a scenario by checking the Space optimization module. For more information about the Space optimization module, refer to [Space Optimization - Key features and actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/space-optmization-features-and-actions-.md).
+View the scenarios created in your workplace using the Space optimization module. The Space optimization module provides you with metrics for scenarios based on their current state. You get a list of total scenarios and of scenarios that were created based on buildings. At any time, you can monitor the status of a scenario by checking the Space optimization module. For more information about the Space optimization module, refer to [Space Optimization - Key features and actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/space-optmization-features-and-actions-.md).
 
 ## Procedure
 
 1.  Navigate to any one of the following locations:
 
-    -   **All** &gt; **[[workplace-central-feat|Workplace Central]]** &gt; **Workplace Central**.
-    -   **All** &gt; **[[scenario-planning|Scenario Planning]]** &gt; **My Scenario Plans**
-    You can also open Workplace Central from the [[employee-center-landing-page|Employee Center]] directly. Navigate to **Workspaces** &gt; **Workplace Central**.
+    -   **All** &gt; **Workplace Central** &gt; **Workplace Central**.
+    -   **All** &gt; **Scenario Planning** &gt; **My Scenario Plans**
+    You can also open Workplace Central from the Employee Center directly. Navigate to **Workspaces** &gt; **Workplace Central**.
 
-    The [[workplace-analytics|Workplace Analytics]] dashboard opens.
+    The Workplace Analytics dashboard opens.
 
 2.  On the left pane, select **Space Optimization** icon \(\[Omitted image "space-optimization-icon.png"\] Alt text: Space optimization.\).
 
@@ -54,7 +54,7 @@ View the scenarios created in your workplace using the [[space-optimization|Spac
 
 5.  View all the buildings of your workplace.
 
-    You can open a building and view the building on a stack plan. The stack plan displays the current scenario that is deployed on the building. You can also [[create-multi-building-scenario|create a scenario]] directly from a building scenario plan.
+    You can open a building and view the building on a stack plan. The stack plan displays the current scenario that is deployed on the building. You can also create a scenario directly from a building scenario plan.
 
     1.  In the Scenarios section, go to **All buildings**.
 
@@ -72,18 +72,9 @@ View the scenarios created in your workplace using the [[space-optimization|Spac
 
 [Approve a scenario]()
 
-[Raise a [[space-assistance|space assistance]] request]()
+[Raise a space assistance request]()
 
 [Approve a space assist request]()
 
 [Manage reservation waitlist records]()
 
-## Related
-
-- [[space-optimization|Space Optimization]]
-- [[workplace-central-feat|Workplace Central]]
-- [[scenario-planning|Scenario Planning]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-analytics|Workplace Analytics]]
-- [[create-multi-building-scenario|Create a scenario]]
-- [[space-assistance|Space assistance]]

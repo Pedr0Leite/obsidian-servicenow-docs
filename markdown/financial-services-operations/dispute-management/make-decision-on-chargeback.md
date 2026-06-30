@@ -20,7 +20,7 @@ Determine whether to initiate a chargeback for a transaction if the cardholder h
 
 Role required: sn\_bom\_credit\_card.dispute\_agent or sn\_bom\_credit\_card.dispute\_agent\_connector.
 
-**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [[fso-combine-csm-industry-roles|Roles and Personas]].
+**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-combine-csm-industry-roles.md).
 
 ## About this task
 
@@ -28,7 +28,7 @@ Recovery option task to choose whether to pursue chargeback for a transaction wh
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -65,13 +65,13 @@ The relevant tasks for the transaction trigger for the **Chargeback** stage.
 </td><td>
 
 The **Deny dispute** drop-down is displayed. Select one of the following options:-   **Yes** to deny the dispute. No credit is provided to the cardholder for the disputed transaction. The dispute life-cycle ends.
--   **No** to write off the final credit to the card holder. The task moves forward based on the policy. For more information about [[financial-adjustments|Financial adjustments]], see [About Financial adjustments in Mastercard disputes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/financial-adjustments.md).
+-   **No** to write off the final credit to the card holder. The task moves forward based on the policy. For more information about Financial adjustments, see [About Financial adjustments in Mastercard disputes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/financial-adjustments.md).
 
 
 </td></tr></tbody>
 </table>10. Select **Add file** to attach supporting documents to the task.
 
-    **Note:** You must upload a single `.zip` file whenever you submit documents to Mastercard. For more information, see [[mastercard-image-and-document-requirements|Mastercard document requirements]].
+    **Note:** You must upload a single `.zip` file whenever you submit documents to Mastercard. For more information, see [Mastercard document requirements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/mastercard-image-and-document-requirements.md).
 
 11. Select **Continue**.
 
@@ -82,9 +82,3 @@ If the decision is to deny the dispute, the transaction task state updates to **
 
 **Parent Topic:**[Processing a Mastercard dispute](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/processing-mastercard-dispute-case.md)
 
-## Related
-
-- [[fso-combine-csm-industry-roles|Using agent connector and contributor roles in Financial Services Operations]]
-- [[mastercard-image-and-document-requirements|Mastercard document requirements]]
-- [[fso-overview|Financial Services]]
-- [[financial-adjustments|financial adjustments]]

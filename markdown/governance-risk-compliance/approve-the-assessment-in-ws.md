@@ -12,7 +12,7 @@ breadcrumb: [Performing Importance and impact tolerance assessment, Manage, Oper
 
 # Close the assessment
 
-Close the inactive Importance and impact tolerance assessment in the [[grc-opres-landing-page|Operational Resilience]] Workspace.
+Close the inactive Importance and impact tolerance assessment in the Operational Resilience Workspace.
 
 ## Before you begin
 
@@ -32,6 +32,4 @@ The owner of the assessment typically closes the inactive assessments.
 
     The state of the assessment is updated to **Closed**.
 
-## Related
 
-- [[grc-opres-landing-page|Operational Resilience]]

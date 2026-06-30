@@ -26,7 +26,7 @@ Ensure that the Agent Chat plugin is active. For more information, see Agent Cha
 
 Chat is enabled from the Requests and Knowledge Articles pages by default.
 
-**Note:** Connect Chat is not supported in the [[mobile-employee-experience|Now Mobile app]].
+**Note:** Connect Chat is not supported in the Now Mobile app.
 
 ## Procedure
 
@@ -52,6 +52,3 @@ Users can select Chat in the Homepage quick actions menu to ask for help from a 
 
 [bundle-itsm.itsm-virtual-agent-topics]
 
-## Related
-
-- [[mobile-employee-experience|Now Mobile app]]

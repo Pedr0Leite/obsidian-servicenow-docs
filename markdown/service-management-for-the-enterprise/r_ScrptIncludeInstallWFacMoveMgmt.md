@@ -14,15 +14,11 @@ breadcrumb: [Installed with Facilities Move Management, Activate Facilities Move
 
 Script includes are used to store JavaScript that runs on the server.
 
-[[c_FacMoveMgmt|Facilities Move Management]] adds the following script includes.
+Facilities Move Management adds the following script includes.
 
 |Script include|Description|
 |--------------|-----------|
 |FacilitiesMoveUtils|Utilities used by move management|
 
-**Parent Topic:**[[r_InstallWFacMoveMgmt|Installed with Facilities Move Management]]
+**Parent Topic:**[Installed with Facilities Move Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_InstallWFacMoveMgmt.md)
 
-## Related
-
-- [[r_InstallWFacMoveMgmt|Installed with Facilities Move Management]]
-- [[c_FacMoveMgmt|Facilities move management]]

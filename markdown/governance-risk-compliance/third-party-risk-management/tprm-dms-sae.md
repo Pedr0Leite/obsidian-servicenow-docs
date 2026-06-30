@@ -15,11 +15,11 @@ breadcrumb: [Explore, Third-party Risk Management, Governance, Risk, and Complia
 
 # AI-assisted questionnaire pre-fill using the Document Management System
 
-Use the Document Management System \(DMS\) with the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] \(SAE\) to automatically generate draft responses for third‑party risk assessment questionnaires using vendor documents and previously answered assessments.
+Use the Document Management System \(DMS\) with the Smart Assessment Engine \(SAE\) to automatically generate draft responses for third‑party risk assessment questionnaires using vendor documents and previously answered assessments.
 
 ## AI-assisted questionnaire pre-fill overview
 
-The [[ai-generated-responses-for-smart-assessment|Smart Assessment Response Assist skill]] generates draft responses for assessment questionnaires from two sources: documents stored in the Document Management System \(DMS\) and previously completed assessments. Assessors review, edit, and apply suggestions before submitting — responses are never submitted automatically. The skill is available for both internal and external assessments, with no difference in experience between the two.
+The Smart Assessment Response Assist skill generates draft responses for assessment questionnaires from two sources: documents stored in the Document Management System \(DMS\) and previously completed assessments. Assessors review, edit, and apply suggestions before submitting — responses are never submitted automatically. The skill is available for both internal and external assessments, with no difference in experience between the two.
 
 When a vendor document is uploaded or updated in DMS, the file and its metadata become available to the skill during active assessments. For previously answered questions, the skill searches completed smart and classic assessments with matching scope, compares questions semantically, and surfaces the most relevant past responses. When both sources are enabled, the skill runs both checks and combines the results.
 
@@ -68,7 +68,3 @@ For information about uploading and managing vendor documents in DMS, see [Docum
 
 [Document Management system in Third-party Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-dms.md)
 
-## Related
-
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]
-- [[ai-generated-responses-for-smart-assessment|Smart Assessment response assist skill]]

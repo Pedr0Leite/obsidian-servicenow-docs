@@ -14,7 +14,7 @@ breadcrumb: [HR Integrations, Integration of HR Service Delivery with third-part
 
 # Integrating with the Adobe Sign service
 
-Request electronic signatures through the Adobe Sign service with the Adobe Sign integration. This integration depends on the Adobe Sign spoke in IntegrationHub, and is enabled for the signing of adhoc documents \(HR PDF [[document-templates-overview|document templates]]\) and Adobe Sign templates.
+Request electronic signatures through the Adobe Sign service with the Adobe Sign integration. This integration depends on the Adobe Sign spoke in IntegrationHub, and is enabled for the signing of adhoc documents \(HR PDF document templates\) and Adobe Sign templates.
 
 **Important:**
 
@@ -57,7 +57,7 @@ Adhoc document \(HR PDF document template\)
 </td><td>
 
 1.  Create a managed document that you want to make available for signing. See [Managed Documents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_ManagedDocuments.md) for more information.
-2.  [[configure-hr-service|Configure an HR service]] for the adhoc document.
+2.  Configure an HR service for the adhoc document.
 3.  [Configure an HR PDF document template for an adhoc document](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-hr-pdf-document-adobesign.md).
 
 </td></tr><tr><td>
@@ -82,7 +82,7 @@ Once the integration setup is complete, HR agents from your organization can req
 For more information, see [Request an electronic signature through the Adobe Acrobat Sign service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/request-e-signature-through-adobe-sign-service.md).
 
 -   **[Activate the Adobe Sign spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/activate-adobe.md)**  
-[[activate-adobe|Activate the Adobe Sign spoke]] in IntegrationHub from the ServiceNow Store, and enable the signing of adhoc documents \(HR PDF document templates\) and Adobe Sign templates.
+Activate the Adobe Sign spoke in IntegrationHub from the ServiceNow Store, and enable the signing of adhoc documents \(HR PDF document templates\) and Adobe Sign templates.
 -   **[Configure an HR PDF document template for an adhoc document](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-hr-pdf-document-adobesign.md)**  
 If you are using the Adobe Sign integration, configure an HR PDF document template for each ad hoc document that you want to make available for signing.
 -   **[Configure an HR PDF document template for an Adobe Sign template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-hr-service-for-adobe-sign-integration.md)**  
@@ -92,8 +92,3 @@ Create or modify an HR service to request electronic signatures through the Adob
 
 **Parent Topic:**[HR Integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/scoped-hr-third-party-integrations.md)
 
-## Related
-
-- [[document-templates-overview|Document Templates]]
-- [[configure-hr-service|Configure an HR service]]
-- [[activate-adobe|Activate the Adobe Sign spoke]]

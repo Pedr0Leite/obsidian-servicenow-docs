@@ -22,12 +22,10 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[r_SetArchiveRuleProcessingBehavior|System Properties]]** &gt; **UI Properties**.
+1.  Navigate to **All** &gt; **System Properties** &gt; **UI Properties**.
 
 2.  Locate the property labeled **List of roles \(comma-separated\) that can use Personal Lists. If blank, all can use** \(**glide.ui.list\_mechanic.roles**\).
 
 3.  Enter the roles for which personal lists are available, separated by commas, or leave the field blank to allow access for all users \(default\).
 
-## Related
 
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

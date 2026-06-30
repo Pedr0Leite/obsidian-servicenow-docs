@@ -20,7 +20,7 @@ When a workflow is opened in the canvas, the title bar displays the workflow tit
 
 Controls on the right side of the title bar manage the workflow.
 
--   **[[r_WorkflowProperties|Workflow Properties]]** \[Omitted image "WorkflowPropertiesIcon.png"\] Alt text: Workflow properties icon: Opens the current workflow's [[properties-form-survey-designer|properties form]].
+-   **Workflow Properties** \[Omitted image "WorkflowPropertiesIcon.png"\] Alt text: Workflow properties icon: Opens the current workflow's properties form.
 -   **Start** \[Omitted image "RunWorkflowIcon.png"\] Alt text: Run the workflow icon: Runs the workflow. This control is only available for workflows running on the Global table that are accessible from all application scopes. To test workflows that are on other tables, insert a record into that table that meets the condition of the workflow.
 -   **Validate** \[Omitted image "ValidateWorkflowIcon.png"\] Alt text: Validate the workflow icon: Tests the workflow prior to publication. Validation detects potential problems that can prevent the workflow from publishing or cause the workflow to fail. For more information, see [Workflow Validation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/c_WorkflowValidation.md).
 -   **Help** \[Omitted image "HelpIcon.png"\] Alt text: Help icon: Opens documentation to help you create the workflow.
@@ -49,12 +49,7 @@ These menu options are available:
 |Show Contexts|Displays all the [contexts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/r_AdministeringWorkflowContexts.md) for the current workflow. You can use this option to troubleshoot a workflow.|
 |Properties|Opens the Workflow Properties form, which defines the workflow's attributes.|
 |Edit Inputs|Opens the Workflow Inputs list of variables that the workflow can accept when used as a subflow. For more information, see [Pass a variable from a workflow to a subflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/t_VariableWorkflowSubflow.md).|
-|Edit Stages|Opens the [[c_WorkflowStages|Workflow Stages]] list. For more information, see [Workflow stages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/c_WorkflowStages.md). For tables with a column of Type = Workflow.|
+|Edit Stages|Opens the Workflow Stages list. For more information, see [Workflow stages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/c_WorkflowStages.md). For tables with a column of Type = Workflow.|
 
 **Parent Topic:**[Workflow editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/workflow-editor.md)
 
-## Related
-
-- [[r_WorkflowProperties|Workflow properties]]
-- [[properties-form-survey-designer|Properties form]]
-- [[c_WorkflowStages|Workflow stages]]

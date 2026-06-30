@@ -35,11 +35,11 @@ By default, transactions are flagged for friendly fraud if they:
 
 The dispute agent can decline requests, issue credits, or proceed with chargebacks, along with modifying communication templates for customer interaction.
 
-Dispute agents can also use the [[friendly-fraud-agentic-ai-workflow|Help resolve friendly fraud disputes agentic workflow]] in Now Assist for FSO to provide suggested actions and draft customer responses.
+Dispute agents can also use the Help resolve friendly fraud disputes agentic workflow in Now Assist for FSO to provide suggested actions and draft customer responses.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -107,7 +107,7 @@ The **Issue credit** activity is displayed.
 
 </td><td>
 
-The **[[report-fraud-visa|Report fraud]]** activity is displayed. Follow the further steps to resolve the fraud. For more information, see [Report fraud to a card network](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/report-fraud-to-card-network.md).
+The **Report fraud** activity is displayed. Follow the further steps to resolve the fraud. For more information, see [Report fraud to a card network](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/report-fraud-to-card-network.md).
 
 </td></tr></tbody>
 </table>
@@ -120,8 +120,3 @@ The **[[report-fraud-visa|Report fraud]]** activity is displayed. Follow the fur
 
 [Resolve friendly fraud by using agentic AI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/resolve-friendly-fraud-using-agentic-ai.md)
 
-## Related
-
-- [[friendly-fraud-agentic-ai-workflow|Help resolve friendly fraud disputes agentic workflow]]
-- [[fso-overview|Financial Services]]
-- [[report-fraud-visa|Report fraud]]

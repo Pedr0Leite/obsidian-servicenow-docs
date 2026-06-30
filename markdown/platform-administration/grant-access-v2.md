@@ -12,7 +12,7 @@ breadcrumb: [Multi-instance Management, Get started, Administer the ServiceNow A
 
 # Cross-instance application trust configuration
 
-[[data-sync-landing-page|Multi-instance management]] provides a mechanism to streamline the management of trust [[clone-configurations-tab|configurations]] across your entire multi-instance environment.
+Multi-instance management provides a mechanism to streamline the management of trust configurations across your entire multi-instance environment.
 
 The multi-instance capability introduces new concepts, describing how communication is supported across instances for enabled applications and their capabilities. In order to do this securely, you need to define how these instances trust each other. This can be defined as a trust profile. The trust profile defines how a set of instances communicate for a given application. In order for this profile to be applied to each instance, that profile needs to be propagated out to the instances that will participate in a given application.
 
@@ -67,7 +67,4 @@ Multi-instance management offers a centralized mechanism for configuring and mai
 
     **Note:** An instance can’t be both a managing and a managed instance. An instance can manage several instances simultaneously. An application within an instance can be managed by only one instance at a time.
 
-## Related
 
-- [[data-sync-landing-page|Multi-instance Management]]
-- [[clone-configurations-tab|Configurations]]

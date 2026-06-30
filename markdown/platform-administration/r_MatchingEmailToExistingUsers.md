@@ -23,11 +23,7 @@ When the instance receives an email message, the system searches for an existing
 
 **Note:** This functionality requires that you activate the Email Automatic User Creation plugin.
 
-[[ia-inbound-email-il|Inbound Email]] Action scripts no longer support the `gs.createUser()` method. Use either the automatically-generated email variables or the `gs.GetUserID()` method instead.
+Inbound Email Action scripts no longer support the `gs.createUser()` method. Use either the automatically-generated email variables or the `gs.GetUserID()` method instead.
 
-**Parent Topic:**[[references-inbound-email|References for Inbound email]]
+**Parent Topic:**[References for Inbound email](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/references-inbound-email.md)
 
-## Related
-
-- [[references-inbound-email|References for Inbound email]]
-- [[ia-inbound-email-il|Inbound email]]

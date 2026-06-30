@@ -14,9 +14,9 @@ breadcrumb: [API Authentication, Authentication, Access Management]
 
 # Basic authentication
 
-Legacy [[api-authentication|API authentication]] method using username and password, with restricted usage and varying behaviour in zBoot and upgraded instances.
+Legacy API authentication method using username and password, with restricted usage and varying behaviour in zBoot and upgraded instances.
 
-Basic authentication is a legacy method for authenticating API requests using a username and password combination. While it remains available for compatibility in certain scenarios, its use is strongly discouraged over [[token-based-auth-api|token-based authentication]] methods.
+Basic authentication is a legacy method for authenticating API requests using a username and password combination. While it remains available for compatibility in certain scenarios, its use is strongly discouraged over token-based authentication methods.
 
 Basic authentication should only be used in limited scenarios where alternative methods aren't viable.
 
@@ -29,9 +29,9 @@ The behaviour of basic authentication varies depending on how an instance is pro
     In zBoot scenarios, basic authentication is restricted by default to improve security.
 
     -   Basic authentication may be blocked unless specific conditions are met
-    -   Access may be limited to [[users|users]] with required roles or permissions
+    -   Access may be limited to users with required roles or permissions
     -   Enforcement is stricter compared to upgraded instances
-    These restrictions minimises exposure to insecure [[c_Authentication|authentication]] methods and encourage adoption of modern alternatives.
+    These restrictions minimises exposure to insecure authentication methods and encourage adoption of modern alternatives.
 
 -   **Upgraded instances**
 
@@ -39,7 +39,7 @@ The behaviour of basic authentication varies depending on how an instance is pro
 
     -   Existing integrations using basic authentication may continue to work
     -   Restrictions may be applied gradually depending on patch or upgrade level
-    -   Behaviour may differ based on system [[sc-configuration|configuration]] and applied changes
+    -   Behaviour may differ based on system configuration and applied changes
     This approach allows existing users to transition to more secure authentication mechanisms without immediate disruption.
 
 
@@ -78,11 +78,3 @@ Behavioural restrictions
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[api-authentication|API Authentication]]
-- [[token-based-auth-api|Token-based authentication]]
-- [[users|Users]]
-- [[c_Authentication|Authentication]]
-- [[sc-configuration|Configuration]]

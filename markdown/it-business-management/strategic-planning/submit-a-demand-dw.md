@@ -22,19 +22,16 @@ Role required: it\_demand\_manager, it\_demand\_user
 
 ## Procedure
 
-1.  Open a demand from the home page of Next Experience for [[c_DemandManagement|Demand Management]].
+1.  Open a demand from the home page of Next Experience for Demand Management.
 
     For more information, see [Access demands](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/access-demand-workspace.md).
 
 2.  Select **Details** from the L-2 \(level 2\) navigation menu.
 
-3.  Select **Submit demand**.\[Omitted image "submit-demand-button.png"\] Alt text: Use the Submit demand button to [[submit-a-demand-ppw|submit a demand]].
+3.  Select **Submit demand**.\[Omitted image "submit-demand-button.png"\] Alt text: Use the Submit demand button to submit a demand.
 
     **Note:** The submit option is available only when the demand is in the Draft state.
 
     The demand moves to the Submitted state.
 
-## Related
 
-- [[c_DemandManagement|Demand Management]]
-- [[submit-a-demand-ppw|Submit a demand]]

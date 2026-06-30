@@ -22,7 +22,7 @@ Role required: sn\_eam.enterprise\_asset\_technician
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Work management**.
+1.  Navigate to **Workspaces** &gt; **Enterprise Asset Workspace** &gt; **Work management**.
 
 2.  Select the **My stockroom assets** tab.
 
@@ -95,6 +95,3 @@ A Drop off task in the Open state is created and listed in the **Asset tasks** t
 
 [Record time worked on Drop off and Receive tasks for enterprise assets]()
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]

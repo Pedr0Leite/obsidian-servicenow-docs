@@ -18,11 +18,11 @@ Proofread the translated content and approve a localization task.
 
 ## Before you begin
 
-Role required: [[ia-localization-il|localization]]\_fulfiller
+Role required: localization\_fulfiller
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[localization-framework-landing|Localization Framework]]** &gt; **My Tasks**.
+1.  Navigate to **All** &gt; **Localization Framework** &gt; **My Tasks**.
 
 2.  Select a localization task in the **Open**state.
 
@@ -50,7 +50,4 @@ Role required: [[ia-localization-il|localization]]\_fulfiller
 
     The approval localization task state is changed to **Rejected**. The requester needs to create another approval task and assign to the approval group.
 
-## Related
 
-- [[ia-localization-il|Localization]]
-- [[localization-framework-landing|Localization Framework]]

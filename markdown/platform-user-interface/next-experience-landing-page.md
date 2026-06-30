@@ -18,11 +18,11 @@ The Next Experience UI delivers a next generation, intuitive, personalized exper
 
 <table id="table_b5z_nd3_2bc" class="nav-card"><tbody><tr><td>
 
-[Explore\[Omitted image "bus-[[exploring|explore]].svg"\] Alt text: Learn about Next Experience concepts and features.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-ui.md)
+[Explore\[Omitted image "bus-explore.svg"\] Alt text: Learn about Next Experience concepts and features.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-ui.md)
 
 </td><td>
 
-[Configure\[Omitted image "bus-sdlc.svg"\] Alt text: [[configure-onboarding-modals|Configure]] environments, tools, and user access.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-ui-admin.md)
+[Configure\[Omitted image "bus-sdlc.svg"\] Alt text: Configure environments, tools, and user access.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-ui-admin.md)
 
 </td><td>
 
@@ -58,8 +58,8 @@ New features and benefits when working in the Next Experience:
 
     -   Navigate to and save important resources with the Favorites, History, and Workspaces menus. Find your recently-viewed items in a single menu.
     -   Easily switch between classic environment applications and configurable workspaces.
-    -   Create custom menus for your end users. For more information, see [[configure-custom-menu|Configure custom menus for Unified Navigation]].
--   **[[next-experience-landing-pages|Next Experience landing pages]]**
+    -   Create custom menus for your end users. For more information, see [Configure custom menus for Unified Navigation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-custom-menu.md).
+-   **Next Experience landing pages**
     -   Start your day with everything you need right when you log in.
     -   View content specific to your role and tasks all in one location.
     -   Designate a start page for your users, or allow them to choose their own.
@@ -79,10 +79,10 @@ These features and products are not currently supported with Next Experience:
 -   The JavaScript console log isn't supported in the Next Experience framework.
 -   ATF doesn't support these elements of Next Experience, but support for these features is planned for future releases:
 
-    -   Pages built with UI Builder, including pages with [[lists-configurable-workspace|lists]] and form components.
+    -   Pages built with UI Builder, including pages with lists and form components.
     -   Configurable Workspaces
     -   Landing pages
-    **Note:** ATF still supports the [[c_UI16|Core UI]], including Classic Environment \(such as classic lists and [[form-configurable-workspace|forms]]\).
+    **Note:** ATF still supports the Core UI, including Classic Environment \(such as classic lists and forms\).
 
 
 For more information, see:
@@ -96,12 +96,3 @@ For more information, see:
 -   View Next Experience articles on the community at the [Next Experience Center of Excellence](https://community.servicenow.com/community?id=community_article&sys_id=70e78f831bebac100b8a9979b04bcb68).
 -   Review answers to common questions on the community. See [Getting Started with Next Experience UI FAQs](https://community.servicenow.com/community?id=community_article&sys_id=c96ec69c1b930510acdc54e56b4bcb5c).
 
-## Related
-
-- [[configure-custom-menu|Configure custom menus for Unified Navigation]]
-- [[exploring|Explore]]
-- [[configure-onboarding-modals|Configure]]
-- [[next-experience-landing-pages|Next Experience landing pages]]
-- [[lists-configurable-workspace|Lists]]
-- [[c_UI16|Core UI]]
-- [[form-configurable-workspace|Forms]]

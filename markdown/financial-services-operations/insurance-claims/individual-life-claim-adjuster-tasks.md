@@ -22,7 +22,7 @@ Role required: sn\_ins\_claim\_indl.dbn\_adjuster
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Open a claim from either the adjuster landing page or from the individual death claims list.
 
@@ -147,6 +147,3 @@ If the reserve or payment amount is above your approval threshold, an approval t
 -   If a claim validation is rejected for all policies, the claim case closes with a case status of Closed rejected. System-generated work notes about the rejection are automatically added to the activity stream for the task and claim case.
 -   If you settle the claim, the claim case automatically closes, with the case status set as Closed complete.
 
-## Related
-
-- [[fso-overview|Financial Services]]

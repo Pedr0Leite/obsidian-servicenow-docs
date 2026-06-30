@@ -27,13 +27,9 @@ Before enabling single-currency mode, set the system locale. To configure single
 Using the single-currency mode has the following limitations:
 
 -   The single-currency mode changes the currency that appears in the user views, but does not change the number formatting. Even though users in different countries see currency values in one currency, the number formatting, as determined by the user’s locale, might not be what they expect.
--   [[price-fields|Price fields]], which have flexible conversion and currency features, can't be used because currency value input is constrained to the single currency.
+-   Price fields, which have flexible conversion and currency features, can't be used because currency value input is constrained to the single currency.
 
-You can avoid the effects of rate conversions by setting the system locale and the [[reference-email-admin|reference]] currency to be the single currency.
+You can avoid the effects of rate conversions by setting the system locale and the reference currency to be the single currency.
 
 **Parent Topic:**[Standard currency fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/configure-and-use-default-currency-fields.md)
 
-## Related
-
-- [[price-fields|Price fields]]
-- [[reference-email-admin|Reference]]

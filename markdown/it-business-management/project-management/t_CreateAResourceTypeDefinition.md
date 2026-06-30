@@ -14,7 +14,7 @@ breadcrumb: [Starting a project, Using Project Management, Project Management, P
 
 # Create a cost type definition
 
-Create a cost type definition to associate a cost type, operating, or capital, to an account in the General Ledger from the Financial Management application. Create a cost type definition if you are using [[c_ProjectPortfolioSuite|Project Portfolio Management]] with Financials.
+Create a cost type definition to associate a cost type, operating, or capital, to an account in the General Ledger from the Financial Management application. Create a cost type definition if you are using Project Portfolio Management with Financials.
 
 ## Before you begin
 
@@ -50,7 +50,7 @@ Role required: it\_pps\_admin
 
 [Create a project cost plan]()
 
-[Recalculating costs of all [[c_ResourcePlans|resource plans]] in a project]()
+[Recalculating costs of all resource plans in a project]()
 
 [Create an expense line]()
 
@@ -82,7 +82,3 @@ Role required: it\_pps\_admin
 
 [Migrate financial baselines of projects to Next Experience]()
 
-## Related
-
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]
-- [[c_ResourcePlans|Resource plans]]

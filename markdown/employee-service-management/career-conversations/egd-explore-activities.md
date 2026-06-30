@@ -14,13 +14,13 @@ breadcrumb: [Career Conversations, Growth Experiences, HR Service Delivery, Empl
 
 # Explore Career Conversations application
 
-The [[egd-activities-conversations-module|Career Conversations]] app provides employees and managers with the ability to create and track conversations between managers and employees.
+The Career Conversations app provides employees and managers with the ability to create and track conversations between managers and employees.
 
-Career Conversations is an application closely integrated with [[egd-landing-page|Talent Development Core]]. It is used to manage conversations between employees and manager. It also interacts with the [Talent Development Core application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-landing-page.md) to provide a complete career growth and development solution.
+Career Conversations is an application closely integrated with Talent Development Core. It is used to manage conversations between employees and manager. It also interacts with the [Talent Development Core application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-landing-page.md) to provide a complete career growth and development solution.
 
 ## Discover and get apps on the Store
 
-Go to the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do) website to [[discover-lxp|discover]] the new apps, solutions, and integrations that you can get.
+Go to the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do) website to discover the new apps, solutions, and integrations that you can get.
 
 For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
@@ -29,8 +29,3 @@ The Career Conversations application supports dialogue between subordinates and 
 
 **Parent Topic:**[HR Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-service-delivery.md)
 
-## Related
-
-- [[egd-activities-conversations-module|Career Conversations]]
-- [[egd-landing-page|Talent Development Core]]
-- [[discover-lxp|Discover]]

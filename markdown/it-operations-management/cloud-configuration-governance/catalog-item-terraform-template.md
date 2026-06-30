@@ -14,7 +14,7 @@ breadcrumb: [Using Cloud Services Catalog Terraform Connector, Cloud Services Ca
 
 # Create a catalog item from the Terraform template
 
-Create a catalog item from the Terraform template to request cloud resource provisioning. Activated catalog items appear in the [[cloudmgt-cloud-user-portal|cloud user portal]].
+Create a catalog item from the Terraform template to request cloud resource provisioning. Activated catalog items appear in the cloud user portal.
 
 ## Before you begin
 
@@ -35,7 +35,7 @@ Create a catalog item from the Terraform template to request cloud resource prov
 
     -   Provider block syntax for the Amazon Web Services cloud:
 
-        **Important:** By default, the ServiceNow® [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] \(CPG\) Terraform Connector does not support AWS IAM role-based authentication when using Terraform templates.
+        **Important:** By default, the ServiceNow® Cloud Provisioning and Governance \(CPG\) Terraform Connector does not support AWS IAM role-based authentication when using Terraform templates.
 
         ```
         provider "aws" {
@@ -111,7 +111,7 @@ Role required: sn\_cmp.cloud\_service\_designer
 
 ## About this task
 
-The [[cpg-terraform-connector-landing-page|Cloud Services Catalog Terraform Connector]] app supports the following Terraform data types:
+The Cloud Services Catalog Terraform Connector app supports the following Terraform data types:
 
 -   string
 -   number
@@ -123,9 +123,9 @@ The [[cpg-terraform-connector-landing-page|Cloud Services Catalog Terraform Conn
 
 ## Procedure
 
-1.  [[create-cloud-catalog-item|Create a cloud catalog item]].
+1.  Create a cloud catalog item.
 
-    1.  Navigate to **All** &gt; **Cloud Provisioning and Governance** &gt; **[[cloud-admin-portal|Cloud Admin Portal]]**.
+    1.  Navigate to **All** &gt; **Cloud Provisioning and Governance** &gt; **Cloud Admin Portal**.
 
         The Cloud Admin Portal opens in a new browser tab.
 
@@ -206,10 +206,3 @@ Verify that the catalog item appears in the Cloud User Portal.
 
 **Parent Topic:**[Using Cloud Services Catalog Terraform Connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/using-ccg-terraform-connector.md)
 
-## Related
-
-- [[cloudmgt-cloud-user-portal|Cloud User Portal]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[cpg-terraform-connector-landing-page|Cloud Services Catalog Terraform Connector]]
-- [[create-cloud-catalog-item|Create a cloud catalog item]]
-- [[cloud-admin-portal|Cloud Admin Portal]]

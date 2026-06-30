@@ -16,7 +16,7 @@ breadcrumb: [Activate Orchestration, Classic Orchestration, ServiceNow AI Platfo
 
 Use Orchestration activities in a Workflow to integrate with third-party systems.
 
-Several Orchestration activities have been rewritten as [Application scope](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationScope.md) activities using the [activity designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_WorkflowActivityDesigner.md) and grouped into [activity packs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchestrationActivityPacks.md). Other non-scoped activities are deprecated and may or may not appear in the [[workflow-editor|Workflow Editor]]. However, all deprecated activities still function in existing workflows that use them.
+Several Orchestration activities have been rewritten as [Application scope](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationScope.md) activities using the [activity designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_WorkflowActivityDesigner.md) and grouped into [activity packs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchestrationActivityPacks.md). Other non-scoped activities are deprecated and may or may not appear in the Workflow Editor. However, all deprecated activities still function in existing workflows that use them.
 
 ## Global activities
 
@@ -28,7 +28,7 @@ These activities run in the global scope only. Any activities you create in the 
 
 ## Active Directory \(AD\) activities
 
-All AD Orchestration activities were rewritten in the Geneva release as scoped activities and are available in the [[c_OrchActiveDirectoryActivities|Active Directory activity pack]]. All previous version AD activities that were built on activity definitions are deprecated and are unavailable for use in new workflows.
+All AD Orchestration activities were rewritten in the Geneva release as scoped activities and are available in the Active Directory activity pack. All previous version AD activities that were built on activity definitions are deprecated and are unavailable for use in new workflows.
 
 |Activity|Description|
 |--------|-----------|
@@ -45,7 +45,7 @@ All AD Orchestration activities were rewritten in the Geneva release as scoped a
 
 ## Azure AD
 
-All these activities are scoped and part of the [[c_AzureADActivityPack|Azure AD activity pack]]. They do not have legacy versions.
+All these activities are scoped and part of the Azure AD activity pack. They do not have legacy versions.
 
 |Activity|Description|
 |--------|-----------|
@@ -60,7 +60,7 @@ All these activities are scoped and part of the [[c_AzureADActivityPack|Azure AD
 
 ## F5 Network Management activities
 
-All these activities are scoped and part of the [[c_OrchF5LoadBalancerActivities|F5 Network Management activity pack]]. They do not have legacy versions.
+All these activities are scoped and part of the F5 Network Management activity pack. They do not have legacy versions.
 
 |Activity|Description|
 |--------|-----------|
@@ -77,11 +77,11 @@ All these activities are scoped and part of the [[c_OrchF5LoadBalancerActivities
 
 ## Infoblox activities
 
-All these activities are scoped and part of the [[c_InfobloxDDIActivityPack|Infoblox DDI activity pack]]. They do not have legacy versions.
+All these activities are scoped and part of the Infoblox DDI activity pack. They do not have legacy versions.
 
 |Activity|Description|
 |--------|-----------|
-|[DHCP Reserve IP v4 Address Range](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_InfobloxDHCPActivities.md)|Reserves an [[ip-address|IP address]] range for DHCP use.|
+|[DHCP Reserve IP v4 Address Range](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_InfobloxDHCPActivities.md)|Reserves an IP address range for DHCP use.|
 |[DHCP Delete IP Reservation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_InfobloxDHCPActivities.md)|Deletes IP reservations in DHCP using either an IPv4 or IPv6 address range.|
 |[DHCP List IP Reservations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_InfobloxDHCPActivities.md)|Generates a list of all the DHCP range reservations on a specific Infoblox server.|
 |[List DNS C-records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_InfobloxDNSActivities.md)|Retrieves all canonical \(CNAME\) records from a specified Infoblox server.|
@@ -100,7 +100,7 @@ All these activities are scoped and part of the [[c_InfobloxDDIActivityPack|Info
 
 ## Microsoft Exchange activities
 
-All Exchange Orchestration activities were rewritten in the Geneva release as scoped activities and are available in the [[c_OrchestrationExchangeActivities|Exchange activity pack]]. All previous version Exchange activities that were built on activity definitions are deprecated and are unavailable for use in new workflows.
+All Exchange Orchestration activities were rewritten in the Geneva release as scoped activities and are available in the Exchange activity pack. All previous version Exchange activities that were built on activity definitions are deprecated and are unavailable for use in new workflows.
 
 |Activity|Description|
 |--------|-----------|
@@ -119,7 +119,7 @@ All Exchange Orchestration activities were rewritten in the Geneva release as sc
 
 ## PowerShell activities
 
-These PowerShell activities were rewritten as scoped activities and are available in the [[c_OrchestrPwrshellActivityPack|PowerShell activity pack]]. All previous version PowerShell activities that were built on activity definitions are deprecated and are unavailable for use in new workflows.
+These PowerShell activities were rewritten as scoped activities and are available in the PowerShell activity pack. All previous version PowerShell activities that were built on activity definitions are deprecated and are unavailable for use in new workflows.
 
 |Activity|Description|
 |--------|-----------|
@@ -131,7 +131,7 @@ These PowerShell activities were rewritten as scoped activities and are availabl
 
 ## Probe activities
 
-These probe activities were rewritten as scoped activities and are available in the [[probe_activity-pack|Probe activity pack]]. All previous versions of these activities that were built on activity definitions are deprecated and are unavailable for use in new workflows.
+These probe activities were rewritten as scoped activities and are available in the Probe activity pack. All previous versions of these activities that were built on activity definitions are deprecated and are unavailable for use in new workflows.
 
 |Activity|Description|
 |--------|-----------|
@@ -140,7 +140,7 @@ These probe activities were rewritten as scoped activities and are available in 
 
 ## SCCM activities
 
-All these activities are scoped and part of the [[c_SCCMActivityPack|SCCM activity pack]]. They do not have legacy versions.
+All these activities are scoped and part of the SCCM activity pack. They do not have legacy versions.
 
 |Activity|Description|
 |--------|-----------|
@@ -155,7 +155,7 @@ All these activities are scoped and part of the [[c_SCCMActivityPack|SCCM activi
 
 ## SSH activities
 
-These [[c_OrchestrationSSHActivities|SSH activities]] were rewritten as scoped activities and are available in the [[c_OrchestrationSSHCustomActivities|SSH activity pack]]. The SSH activities not converted to scoped activities were moved to the Orchestration - Deprecated category, but are still available for all workflows.
+These SSH activities were rewritten as scoped activities and are available in the SSH activity pack. The SSH activities not converted to scoped activities were moved to the Orchestration - Deprecated category, but are still available for all workflows.
 
 |Activity|Description|
 |--------|-----------|
@@ -166,11 +166,11 @@ These [[c_OrchestrationSSHActivities|SSH activities]] were rewritten as scoped a
 | | |
 |[Files Compare](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_FilesCompareActivity.md)|Compares two files on a Linux or Unix computer, via SSH.|
 |[Reset Linux User Password](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_ResetLinuxUserPasswordActivity.md)|Resets the password for a given user on a Linux computer.|
-|[Secure Copy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_SecureCopyActivity.md)|Copies a file from one host to another, without storing the copied file on the [[mid-server-landing|MID Server]].|
+|[Secure Copy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_SecureCopyActivity.md)|Copies a file from one host to another, without storing the copied file on the MID Server.|
 
 ## SFTP activities
 
-All these activities are scoped and part of the [[c_OrchestrationSFTPActivityPack|SFTP File Transfer activity pack]]. They do not have legacy versions.
+All these activities are scoped and part of the SFTP File Transfer activity pack. They do not have legacy versions.
 
 |Activity|Description|
 |--------|-----------|
@@ -195,19 +195,3 @@ These activities have been removed from the Workflow Editor and are not availabl
 
 **Parent Topic:**[Activate Orchestration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_ActivateOrchestration.md)
 
-## Related
-
-- [[workflow-editor|Workflow editor]]
-- [[c_OrchActiveDirectoryActivities|Active Directory activity pack]]
-- [[c_AzureADActivityPack|Azure AD activity pack]]
-- [[c_OrchF5LoadBalancerActivities|F5 Network Management activity pack]]
-- [[c_InfobloxDDIActivityPack|Infoblox DDI activity pack]]
-- [[ip-address|IP Address]]
-- [[c_OrchestrationExchangeActivities|Exchange activity pack]]
-- [[c_OrchestrPwrshellActivityPack|PowerShell activity pack]]
-- [[probe_activity-pack|Probe activity pack]]
-- [[c_SCCMActivityPack|SCCM activity pack]]
-- [[c_OrchestrationSSHActivities|SSH activities]]
-- [[c_OrchestrationSSHCustomActivities|SSH activity pack]]
-- [[mid-server-landing|MID Server]]
-- [[c_OrchestrationSFTPActivityPack|SFTP File Transfer activity pack]]

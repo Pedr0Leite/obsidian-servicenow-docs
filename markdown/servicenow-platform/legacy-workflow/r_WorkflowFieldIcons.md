@@ -62,11 +62,7 @@ When a user points to a stage, the tooltip displays the name of the stage. If th
  \[Omitted image "stage-tooltip-includes-approver.png"\] Alt text: Stage tooltip that includes approver.
 
 </td></tr></tbody>
-</table>If you do not want the approver's name included in the tooltip, navigate to **System Properties** &gt; **[[service-catalog|Service Catalog]]** and clear the **Show the current pending approver's name in the stage widget mouseover** [[check-box|check box]].
+</table>If you do not want the approver's name included in the tooltip, navigate to **System Properties** &gt; **Service Catalog** and clear the **Show the current pending approver's name in the stage widget mouseover** check box.
 
 \[Omitted image "ApprovalHover2.png"\] Alt text:
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[check-box|Check box]]

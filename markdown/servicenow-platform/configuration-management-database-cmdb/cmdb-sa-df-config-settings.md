@@ -26,12 +26,10 @@ Follow these steps to configure and maintain the Data Foundations advisor dashbo
 
 1.  [Get started with Data Foundations advisor dashboard setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sa-df-get-started.md).
 
-    Set up the Data Foundations advisor dashboard by selecting the principal classes that define your scope. [[cmdb-sa|CMDB success advisor]] can automatically configure the dashboard on installation or upgrade when eligibility conditions are met \(see [Automatic dashboard setup in CMDB success advisor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sa-auto-setup.md)\). If auto-setup did not run, set up the dashboard manually.
+    Set up the Data Foundations advisor dashboard by selecting the principal classes that define your scope. CMDB success advisor can automatically configure the dashboard on installation or upgrade when eligibility conditions are met \(see [Automatic dashboard setup in CMDB success advisor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sa-auto-setup.md)\). If auto-setup did not run, set up the dashboard manually.
 
 2.  [Manage Data Foundations advisor scope in CMDB success advisor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sa-df-optimize-dashboard.md).
 
     After the dashboard is configured, adjust your principal class scope to keep the advisor aligned with your current goals. If principal classes are changed outside the advisor, the Data Foundations advisor detects discrepancies when you open the dashboard \(see [Principal class sync in Data Foundations advisor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sa-df-class-sync.md)\).
 
-## Related
 
-- [[cmdb-sa|CMDB success advisor]]

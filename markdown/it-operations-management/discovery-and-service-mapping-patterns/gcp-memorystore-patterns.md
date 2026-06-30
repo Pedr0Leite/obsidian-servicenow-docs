@@ -15,7 +15,7 @@ breadcrumb: [GCP discovery, Available cloud discovery patterns, Discovery patter
 
 # Google Cloud Platform \(GCP\) Memorystore discovery using patterns
 
-[[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] Patterns uses the Google Cloud Platform \(GCP\) - Memorystore DB pattern to discover Memorystore for Memcached and Memorystore for Redis during horizontal discovery. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
+Discovery and Service Mapping Patterns uses the Google Cloud Platform \(GCP\) - Memorystore DB pattern to discover Memorystore for Memcached and Memorystore for Redis during horizontal discovery. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 ## Pattern-based discovery and mapping requirements
 
@@ -77,7 +77,7 @@ Discovery populates the data in the CMDB when running the Google Cloud Platform 
 |Fully qualified domain name \[fqdn\]|Fully qualified domain name \(FQDN\) for the resource type.|
 |IP Address \[ip\_address\]|Hostname or IP address of the exposed endpoint used by clients to connect to the service.|
 
-On the [[dependency-views-map|Dependency Views map]], you can view all discovered Memorystore for Memcached or Memorystore for Redis resources in your organization and the relationships between them.
+On the Dependency Views map, you can view all discovered Memorystore for Memcached or Memorystore for Redis resources in your organization and the relationships between them.
 
 \[Omitted image "gcp-memorystore-instance-dependency-view.png"\] Alt text: Memorystore for Memcached or Memorystore for Redis instance CIs and connections on a Dependency View map
 
@@ -111,8 +111,3 @@ The Google Cloud Platform \(GCP\) - Memorystore DB pattern collects tags and pop
 
 **Parent Topic:**[Google Cloud Platform \(GCP\) Cloud discovery using Patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/gcp-cloud-discovery-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[dependency-views-map|Dependency Views map]]

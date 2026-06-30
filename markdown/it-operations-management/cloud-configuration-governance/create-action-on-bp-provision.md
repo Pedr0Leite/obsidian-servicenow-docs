@@ -26,7 +26,7 @@ Role required: sn\_cmp.cloud\_governor or admin
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Govern** &gt; **Policies**.
+1.  In the Cloud Admin Portal, navigate to **Govern** &gt; **Policies**.
 
 2.  Open a cloud policy and set the policy to the **Draft** state if needed.
 
@@ -143,6 +143,4 @@ customScript : function( formData){
     |-----|-----------|
     |Message|Enter the message to present to the requester when the process aborts.|
 
-## Related
 
-- [[cloud-admin-portal|Cloud Admin Portal]]

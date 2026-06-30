@@ -15,7 +15,7 @@ breadcrumb: [Manage Hardware Asset Management subscriptions, Use, Hardware Asset
 
 # Opt-in or opt-out of HAM license resource categories
 
-Opt in the [[ham-landing-page|Hardware Asset Management]] \(HAM\) license resource categories that are part of the HAM subscription. You can purchase and opt in the resource categories that you use, and you can opt out and not pay for the categories that you don't use.
+Opt in the Hardware Asset Management \(HAM\) license resource categories that are part of the HAM subscription. You can purchase and opt in the resource categories that you use, and you can opt out and not pay for the categories that you don't use.
 
 ## Before you begin
 
@@ -35,11 +35,11 @@ Hardware assets belonging to a category that you don't opt in are excluded by de
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Asset** &gt; **[[hardware-normalization|Hardware Model Normalization]]** &gt; **HAM Resource categories**.
+1.  Navigate to **All** &gt; **Asset** &gt; **Hardware Model Normalization** &gt; **HAM Resource categories**.
 
 2.  Open a resource category.
 
-    Each resource category lists the [[model-hierarchy|model categories]] associated with it.
+    Each resource category lists the model categories associated with it.
 
 3.  To opt in or opt out of the resource category, do one of the following:
 
@@ -54,7 +54,7 @@ Hardware assets belonging to a category that you don't opt in are excluded by de
 
 The resource category is opted in or opted out. A one time run job execution executes the following updates:
 
--   Sets the License opt in column on the [[c_Models|models]] that have the model categories belonging to the opted in or opted out resource categories.
+-   Sets the License opt in column on the models that have the model categories belonging to the opted in or opted out resource categories.
 -   Sets the exclusion flag on the assets of these models. For more information, see [Hardware Asset Management license exclusion](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/ham-license-exclusion.md).
 -   A normalization job is triggered for the models that are associated with the resource category.
 
@@ -67,9 +67,3 @@ The resource category is opted in or opted out. A one time run job execution exe
 
 [Exclude assets]()
 
-## Related
-
-- [[ham-landing-page|Hardware Asset Management]]
-- [[hardware-normalization|Hardware Model Normalization]]
-- [[model-hierarchy|Model categories]]
-- [[c_Models|Models]]

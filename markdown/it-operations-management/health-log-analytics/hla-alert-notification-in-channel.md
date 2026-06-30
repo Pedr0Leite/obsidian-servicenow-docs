@@ -14,9 +14,9 @@ breadcrumb: [Administer HLA, Configuring, Health Log Analytics, ITOM AIOps, IT O
 
 # Health Log Analytics alert notification in Slack or Microsoft Teams channels
 
-[[hla-landing-page|Health Log Analytics]] sends notifications for new anomaly alerts in real time to Slack or Microsoft Teams channels. This built-in functionality frees you from having to continuously monitor logs to prevent incidents.
+Health Log Analytics sends notifications for new anomaly alerts in real time to Slack or Microsoft Teams channels. This built-in functionality frees you from having to continuously monitor logs to prevent incidents.
 
-The notifications include the number of the alert, its description, severity, configuration item, state, and [[alert-priority-group|priority group]]. You can filter the alerts for which notifications are sent to your channel. For example, you may only want to receive alerts of a Major severity or a High priority group. By default, no notifications are sent on secondary alerts.
+The notifications include the number of the alert, its description, severity, configuration item, state, and priority group. You can filter the alerts for which notifications are sent to your channel. For example, you may only want to receive alerts of a Major severity or a High priority group. By default, no notifications are sent on secondary alerts.
 
 To support channel notification, the channel must be configured to receive Health Log Analytics notifications.
 
@@ -31,7 +31,3 @@ Set up notifications for new Health Log Analytics anomaly alerts in a Microsoft 
 
 **Parent Topic:**[Administering Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-administer.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]
-- [[alert-priority-group|Priority group]]

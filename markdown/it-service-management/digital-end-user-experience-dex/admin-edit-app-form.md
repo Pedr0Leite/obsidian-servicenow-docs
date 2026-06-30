@@ -14,7 +14,7 @@ breadcrumb: [Administration cards, DEX Application and Device Health reference, 
 
 # Edit web or installed application form
 
-Using a custom form, you can edit an application to be monitored for compliance or [[perf-metrics-mob|performance metrics]].
+Using a custom form, you can edit an application to be monitored for compliance or performance metrics.
 
 <table id="table_qqf_kv4_qdc"><thead><tr><th>
 
@@ -54,7 +54,7 @@ Processes that you want to monitor.This field has the following subfields:
 -   **Mac: Secondary processes separated by a comma**: A unique identifier for the secondary or more running instance of the macOS application.
 -   **Web Endpoint Connection**: A comma-separated list of domains used for measuring network latency. Example: company-name.zoom.us, company-name.outlook.com.
 
-**Note:** Typically, you fill in this field for the [[dex-workspace-application-tab|applications]] you have installed that connect to the cloud.
+**Note:** Typically, you fill in this field for the applications you have installed that connect to the cloud.
 
 
 This field appears only if you're editing an installed application. The primary and secondary processes might be automatically populated for the selected application.
@@ -85,7 +85,7 @@ Monitoring
 
 Toggle switch to enable or disable monitoring for the application performance and system compliance.This field has the following options:
 
--   **Compliance**: Enables reporting on whether this application is running on your organization's [[dex-workspace-devices-tab|devices]].
+-   **Compliance**: Enables reporting on whether this application is running on your organization's devices.
 -   **Metrics**: Enables performance reporting for this application.
 
 Move the monitoring toggle switch \(\[Omitted image "icon-toggle-button-enabled.png"\] Alt text: Use the toggle switch to activate monitoring for the application.\) to turn the reporting on or off.
@@ -102,7 +102,7 @@ Enable usage tracking \(optional\): SAM product
 
 </td><td>
 
-Option to add a Software [[c_AssetManagement|Asset Management]] \(SAM\) product to enable tracking of the usage and last access time.When the SAM plugin \(com.snc.samp\) is installed, the **SAM product** field changes into a drop-down list that references the samp\_sw\_product table. If you can't find an application in the drop-down list, you can add it by selecting the **+ New SAM product** button.
+Option to add a Software Asset Management \(SAM\) product to enable tracking of the usage and last access time.When the SAM plugin \(com.snc.samp\) is installed, the **SAM product** field changes into a drop-down list that references the samp\_sw\_product table. If you can't find an application in the drop-down list, you can add it by selecting the **+ New SAM product** button.
 
 This field appears only when you're editing a web application.
 
@@ -111,9 +111,3 @@ For more information, see [Using DEX or SAM for application monitoring](https://
 </td></tr></tbody>
 </table>**Parent Topic:**[Administration cards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/administration-cards.md)
 
-## Related
-
-- [[perf-metrics-mob|Performance metrics]]
-- [[dex-workspace-application-tab|Applications]]
-- [[dex-workspace-devices-tab|Devices]]
-- [[c_AssetManagement|Asset Management]]

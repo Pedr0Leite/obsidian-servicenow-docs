@@ -36,11 +36,11 @@ To initiate a call directly to the group members, select **Start a call**.
 
 To start a call, populate the **sn\_major\_inc\_mgmt.notify\_webrtc\_number** property with a valid notify number that has voice capability. For user who is already in an active conference call, **Start a call** is disabled. You can mute or unmute all the participants using the **Mute All** and **Unmute All** options.
 
-To send a Microsoft Teams notification from [[major-incident-workbench|major incident workbench]], see [Send a notification from Major incident management workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/send-mim-notification.md). The procedure applies to both the **Collaborate** and **Communicate** tabs. To  Initiate Microsoft Teams group chat from MIM workbench, see [Initiate Microsoft Teams group chat from MIM workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/initiate-ms-teams-group-chat-mim-workbench.md).
+To send a Microsoft Teams notification from major incident workbench, see [Send a notification from Major incident management workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/send-mim-notification.md). The procedure applies to both the **Collaborate** and **Communicate** tabs. To  Initiate Microsoft Teams group chat from MIM workbench, see [Initiate Microsoft Teams group chat from MIM workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/initiate-ms-teams-group-chat-mim-workbench.md).
 
-For information on [[process-flow-slack|process flow for slack communication]], see [Process flow for Slack communication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/collaboration-services/process-flow-slack.md).
+For information on process flow for slack communication, see [Process flow for Slack communication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/collaboration-services/process-flow-slack.md).
 
-For information on how to [[add-collaborate-task|add a collaborative communication task]], see [Add a collaborative communication task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/collaboration-services/add-collaborate-task.md).
+For information on how to add a collaborative communication task, see [Add a collaborative communication task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/collaboration-services/add-collaborate-task.md).
 
 **Parent Topic:**[Major incident workbench UI elements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/mi-workbench-ui-elements.md)
 
@@ -53,8 +53,3 @@ For information on how to [[add-collaborate-task|add a collaborative communicati
 
 [The Communicate tab in the Major Incident workbench]()
 
-## Related
-
-- [[major-incident-workbench|Major incident workbench]]
-- [[process-flow-slack|Process flow for Slack communication]]
-- [[add-collaborate-task|Add a collaborative communication task]]

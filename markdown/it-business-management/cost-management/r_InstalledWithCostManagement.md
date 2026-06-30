@@ -14,7 +14,7 @@ breadcrumb: [Activate Cost Management, Cost Management, Strategic Portfolio Mana
 
 # Components installed with Cost Management
 
-Several components are installed with the [[r_CostManagement|Cost Management]] application.
+Several components are installed with the Cost Management application.
 
 Demo data is available with Cost Management. The demo data provides sample budgets, distribution costs, expense allocations, contract rate cards, and rate card costs.
 
@@ -109,7 +109,7 @@ Cost Management adds the following UI policies.
 |Name|Table|Description|
 |----|-----|-----------|
 |Control flat rate vs bill rate fields|`[fm_task_rate_card]`|Hides the **Task rate** field and displays the **Default labor rate** field on the Task Rate Cards form if the **Use time worked** check box is selected.|
-|Hide if define condition disabled|`[fm_ci_rate_card]`|Displays the **Table** and **Condition** fields on the [[c_CIRateCards|CI Rate Cards]] form if the **Define condition** check box is selected.|
+|Hide if define condition disabled|`[fm_ci_rate_card]`|Displays the **Table** and **Condition** fields on the CI Rate Cards form if the **Define condition** check box is selected.|
 |Hide parent class if all enabled|`[fm_relationship_path]`|Hides the **Parent class** field on the Relationship Paths form if the **All parent classes** check box is selected.|
 |Hide recurring fields for one time cost|`[fm_distribution_cost]`|Hides the **End date** and **Interval** fields on the Distribution Costs form if the **Recurring** check box is cleared.|
 |Hide relationship type if all enabled|`[fm_relationship_path]`|Hides the **Relationship type** field on the Relationship Paths form if the **All relationships** check box is selected.|
@@ -303,7 +303,7 @@ Prevents more than one allocation per configuration item.
 
 </td></tr><tr><td>
 
-Process [[t_CIRelationships|CI Relationships]]
+Process CI Relationships
 
 </td><td>
 
@@ -315,7 +315,7 @@ Processes parent related items and generates expense lines for configuration ite
 
 </td></tr><tr><td>
 
-[[r_ProcessTaskRateCards|Process Task Rate Cards]]
+Process Task Rate Cards
 
 </td><td>
 
@@ -365,9 +365,3 @@ Validates that the rate card start date is specified and is not after the end da
 </td></tr></tbody>
 </table>**Parent Topic:**[Activate Cost Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/cost-management/t_ActivatingCostManagement.md)
 
-## Related
-
-- [[r_CostManagement|Cost Management]]
-- [[c_CIRateCards|CI rate cards]]
-- [[t_CIRelationships|CI relationships]]
-- [[r_ProcessTaskRateCards|Process task rate cards]]

@@ -14,11 +14,11 @@ breadcrumb: [Validation, sanitization, and encoding, Hardening settings, Platfor
 
 # Restrict access to GlideSystemUserSession scriptable API
 
-The client callable GlideSystemUserSessionSandbox scriptable API exposes GlideSystemUserSession's addErrorMessageNoSanitization and addInfoMessageNoSanitization methods to the JavaScript sandbox. This allows all [[users|users]] to call this method via script.
+The client callable GlideSystemUserSessionSandbox scriptable API exposes GlideSystemUserSession's addErrorMessageNoSanitization and addInfoMessageNoSanitization methods to the JavaScript sandbox. This allows all users to call this method via script.
 
 The methods gs.addErrorMessageNoSanitizationMessaging\(\) and gs.addInfoMessageNoSanitization\(\) are used within the scripting environment for logging and notifications. Both of these are available in the sandbox if this property is not set to the recommended value of **false**. The sandbox is a low privileged scripting environment available to unauthenticated and no role users. Both of these methods can be used to display unsanitized input to a user.
 
-Ensure that the **glide.sandbox.usersession.allow\_unsanitized\_messages** system property is set to **false**. If this property does not exist on the [[ca-system-properties|System Properties]] \[sys\_properties\] table, create the property.
+Ensure that the **glide.sandbox.usersession.allow\_unsanitized\_messages** system property is set to **false**. If this property does not exist on the System Properties \[sys\_properties\] table, create the property.
 
 **Warning:** This is a safe harbor property, meaning the value can't be altered once it's changed. It is non-revertible.
 
@@ -34,7 +34,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -117,8 +117,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Validation, sanitization, and encoding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/validation-sanitization-encoding.md)
 
-## Related
-
-- [[users|Users]]
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]

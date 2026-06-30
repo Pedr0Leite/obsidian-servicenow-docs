@@ -14,9 +14,5 @@ breadcrumb: [Employee Goals, Growth Experiences, HR Service Delivery, Employee S
 
 # Employee Goals reference
 
-[[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] topics provide additional information about the components and forms associated with the [[egd-goals-landing|Employee Goals]] application.
+Reference topics provide additional information about the components and forms associated with the Employee Goals application.
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[egd-goals-landing|Employee Goals]]

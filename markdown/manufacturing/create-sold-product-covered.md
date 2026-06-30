@@ -44,7 +44,7 @@ Contract
 
 </td><td>
 
-[[manufacturing-reference|Reference]] number of the associated service contract.
+Reference number of the associated service contract.
 
 </td></tr><tr><td>
 
@@ -69,7 +69,7 @@ The related install base item.**Note:**
 
 -   The list of sold products is filtered based on the account related to the contract or entitlement.
 -   If an install base item is added, the **Sold Product** field is automatically removed.
--   If an install base item isn't listed, you can add it. Select **New** in the Install Base Item window. For more information, see [[mco-create-install-base-item|Create an install base item]].
+-   If an install base item isn't listed, you can add it. Select **New** in the Install Base Item window. For more information, see [Create an install base item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-create-install-base-item.md).
 
 
 </td></tr><tr><td>
@@ -91,7 +91,4 @@ Date until which the product is active on the entity.
 </td></tr></tbody>
 </table>4.  Select **Save**.
 
-## Related
 
-- [[mco-create-install-base-item|Create an install base item]]
-- [[manufacturing-reference|Reference]]

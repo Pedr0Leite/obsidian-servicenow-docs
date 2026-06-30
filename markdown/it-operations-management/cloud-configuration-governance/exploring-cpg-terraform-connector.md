@@ -14,9 +14,9 @@ breadcrumb: [Cloud Services Catalog Terraform Connector, Support for continuous 
 
 # Exploring Cloud Services Catalog Terraform Connector
 
-Whether you're starting or expanding your implementation of [[cpg-terraform-connector-landing-page|Cloud Services Catalog Terraform Connector]], learn more about the available features that help in provisioning and managing cloud resources across various public and private clouds.
+Whether you're starting or expanding your implementation of Cloud Services Catalog Terraform Connector, learn more about the available features that help in provisioning and managing cloud resources across various public and private clouds.
 
-The Cloud Services Catalog Terraform Connector integrates with the [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] application and helps you to create or update catalog items from the Terraform templates. Then, you can use the catalog items to provision the cloud resources.
+The Cloud Services Catalog Terraform Connector integrates with the Cloud Provisioning and Governance application and helps you to create or update catalog items from the Terraform templates. Then, you can use the catalog items to provision the cloud resources.
 
 ## Key features of Cloud Services Catalog Terraform Connector
 
@@ -53,7 +53,7 @@ Use Cloud Services Catalog Terraform Connector to discover the IaC \(Terraform\)
 
 For more information, see [Run the IaC Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/discover-terraform-config-installables-vcs-workspaces.md).
 
-Utilize the hierarchical structure of multiple repositories with the support of Terraform Connector IaC [[r-discovery|discovery]] capabilities.
+Utilize the hierarchical structure of multiple repositories with the support of Terraform Connector IaC discovery capabilities.
 
 ## Create catalog items from the Terraform templates
 
@@ -67,8 +67,3 @@ Use IaC Discovery to detect changes in the Terraform templates that are used in 
 
 Use the discovered Terraform workspaces to provision the catalog items from the Terraform templates. Reusing workspace helps you to manage the Terraform Cloud license cost by avoiding the creation of workspaces.
 
-## Related
-
-- [[cpg-terraform-connector-landing-page|Cloud Services Catalog Terraform Connector]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[r-discovery|Discovery]]

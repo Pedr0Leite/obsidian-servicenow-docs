@@ -21,7 +21,7 @@ Role required: None
 
 ## About this task
 
-Reviews left on an application only show up in the environment where the review was made. For example, reviews made from the commercial [[servicenow-store|ServiceNow Store]] are only visible on the commercial ServiceNow Store. Reviews made from a regulated regional or federal instance of the ServiceNow Store are only visible to users in the same instance of the ServiceNow Store.
+Reviews left on an application only show up in the environment where the review was made. For example, reviews made from the commercial ServiceNow Store are only visible on the commercial ServiceNow Store. Reviews made from a regulated regional or federal instance of the ServiceNow Store are only visible to users in the same instance of the ServiceNow Store.
 
 ## Procedure
 
@@ -33,7 +33,7 @@ Reviews left on an application only show up in the environment where the review 
 
 4.  On the guest review form, fill in the fields.
 
-    For a description of the field values, see [[guest-review-form-fields|Guest review form fields]].
+    For a description of the field values, see [Guest review form fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/guest-review-form-fields.md).
 
 5.  Select **Submit**.
 
@@ -42,10 +42,5 @@ Reviews left on an application only show up in the environment where the review 
 
 For commercial customers, your company, review, and rating are visible in a review posted to the app listing details. For customers using a federal or regulated ServiceNow Store instance, only the rating and review fields are made visible.
 
-**Parent Topic:**[[reviewing-apps|Reviewing apps]]
+**Parent Topic:**[Reviewing apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/reviewing-apps.md)
 
-## Related
-
-- [[guest-review-form-fields|Guest review form fields]]
-- [[reviewing-apps|Reviewing apps]]
-- [[servicenow-store|ServiceNow Store]]

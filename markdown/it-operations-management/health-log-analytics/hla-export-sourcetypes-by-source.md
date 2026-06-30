@@ -25,7 +25,7 @@ Role required: evt\_mgmt\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hla-landing-page|Health Log Analytics]]** &gt; **Log Sources**.
+1.  Navigate to **All** &gt; **Health Log Analytics** &gt; **Log Sources**.
 
 2.  In the Log Sources list, select one or more log sources for which you want to export the related source types.
 
@@ -48,6 +48,3 @@ Import the update set to the required ServiceNow instance. For more information,
 
 **Parent Topic:**[Migrating a Health Log Analytics data input configuration between instances](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-input-migration.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

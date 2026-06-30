@@ -20,7 +20,7 @@ View the performance-based information, including the UI loading times, for any 
 -   Identify and investigate performance issues, such as slow UI load times.
 -   View the server response times.
 
-The following table [[lists-configurable-workspace|lists]] the performance data that you can view in the client interaction table. You can find this table by navigating to **All** &gt; **System Logs** &gt; **Client Interactions**.
+The following table lists the performance data that you can view in the client interaction table. You can find this table by navigating to **All** &gt; **System Logs** &gt; **Client Interactions**.
 
 <table id="table_lzk_yvc_4bc"><thead><tr><th>
 
@@ -142,13 +142,8 @@ Additional contextual details for in-page interactions.
 -   **linked\_txc\_metrics**: JSON payload containing detailed client-side transaction metrics.
 -   **page\_variant\_sys\_id**: identifies the specific screen variant displayed to the user.
 
--   **[[view-server-response-time|View the server response time]]**  
+-   **[View the server response time](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/view-server-response-time.md)**  
 View the server response times that are associated with your Next Experience instance by using the client interaction table.
 
-**Parent Topic:**[[next-experience-ui-admin|Configuring the Next Experience UI]]
+**Parent Topic:**[Configuring the Next Experience UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-ui-admin.md)
 
-## Related
-
-- [[view-server-response-time|View the server response time]]
-- [[next-experience-ui-admin|Configuring the Next Experience UI]]
-- [[lists-configurable-workspace|Lists]]

@@ -26,7 +26,7 @@ After a survey is published, you can edit it and it remains published. The **Sta
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **Surveys** &gt; **All [[c_HRSurveysIst|HR Surveys]]**, and open the survey to publish.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **Surveys** &gt; **All HR Surveys**, and open the survey to publish.
 
 2.  Click **Publish**.
 
@@ -43,7 +43,3 @@ If you want employees to receive a link to a survey, such as the HR Request Sati
 
 **Parent Topic:**[HR surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_HRSurveysIst.md)
 
-## Related
-
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[c_HRSurveysIst|HR surveys]]

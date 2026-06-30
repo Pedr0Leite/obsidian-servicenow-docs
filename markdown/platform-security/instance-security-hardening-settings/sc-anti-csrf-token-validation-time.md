@@ -16,7 +16,7 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 The **glide.security.csrf\_previous.time\_limit** property specifies the time in seconds for a secure token to expire.
 
-The **glide.security.csrf\_previous.time\_limit** system property determines the time in seconds for a secure token to expire. When the user session expires, the secure token expires with it, unless the **allowing reuse of expired tokens** property is enabled, and its within the time frame described by this property. This token is used to prevent cross site [[c_requestAPI|request]] forgery attacks.
+The **glide.security.csrf\_previous.time\_limit** system property determines the time in seconds for a secure token to expire. When the user session expires, the secure token expires with it, unless the **allowing reuse of expired tokens** property is enabled, and its within the time frame described by this property. This token is used to prevent cross site request forgery attacks.
 
 Ensure that the **glide.security.csrf\_previous.time\_limit** property is set to `86400` seconds \(1 day\).
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -115,8 +115,3 @@ This property determines the duration in seconds for a secure token to remain va
 </td></tr></tbody>
 </table>**Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[c_requestAPI|request]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

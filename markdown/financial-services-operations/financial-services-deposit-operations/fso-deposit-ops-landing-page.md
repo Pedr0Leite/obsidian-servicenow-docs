@@ -14,7 +14,7 @@ breadcrumb: [Banking applications, Financial Services Operations \(FSO\)]
 
 # Financial Services Deposit Operations
 
-ServiceNow® [[fso-overview|Financial Services]] Business Deposit Operations and Financial Services Personal Deposit Operations are a pair of applications in ServiceNow® Financial Services Deposit Operations that enable your financial organization to digitize end-to-end management of origination, servicing, and closure of deposit accounts.
+ServiceNow® Financial Services Business Deposit Operations and Financial Services Personal Deposit Operations are a pair of applications in ServiceNow® Financial Services Deposit Operations that enable your financial organization to digitize end-to-end management of origination, servicing, and closure of deposit accounts.
 
 ## Request apps on the Store
 
@@ -26,7 +26,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td><td>
 
-[Configure \[Omitted image "bus-optimize-manage.svg"\] Alt text:[[configure-fso-deposit-ops|Configure Financial Services Deposit Operations]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-deposit-operations/configure-fso-deposit-ops.md)
+[Configure \[Omitted image "bus-optimize-manage.svg"\] Alt text:Configure Financial Services Deposit Operations.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-deposit-operations/configure-fso-deposit-ops.md)
 
 </td><td>
 
@@ -46,8 +46,3 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[fso-overview|Financial Services]]
-- [[configure-fso-deposit-ops|Configure Financial Services Deposit Operations]]

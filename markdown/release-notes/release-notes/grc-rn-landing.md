@@ -12,48 +12,32 @@ reading_time_minutes: 2
 
 The Governance, Risk, and Compliance application has new and updated features in the Australia release.
 
--   **[[grc-advanced-risk-rn|Advanced Risk release notes]]**  
+-   **[Advanced Risk release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/grc-advanced-risk-rn.md)**  
 The ServiceNow® Advanced Risk application enables you to identify, analyze, evaluate, treat, and monitor risks that could impact your organization in achieving its business objectives. Advanced Risk was enhanced and updated in the Australia release.
--   **[[grc-ai-risk-and-compliance-rn|AI Risk and Compliance release notes]]**  
+-   **[AI Risk and Compliance release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/grc-ai-risk-and-compliance-rn.md)**  
 The ServiceNow® AI Risk and Compliance application helps you to manage your AI capabilities ethically, mitigate AI risks, and maintain compliance. AI Risk and Compliance was enhanced and updated in the Australia release.
--   **[[grc-audit-rn|Audit Management release notes]]**  
+-   **[Audit Management release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/grc-audit-rn.md)**  
 The ServiceNow® Audit Management application supports activities related to planning audit engagements, executing engagements, and reporting findings to an audit committee. Audit Management was enhanced and updated in the Australia release.
--   **[[grc-business-continuity-management-rn|Business Continuity Management release notes]]**  
+-   **[Business Continuity Management release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/grc-business-continuity-management-rn.md)**  
 The ServiceNow® Business Continuity Management application enables your organization to deliver products and services at an acceptable level during disruptive incidents. Business Continuity Management was enhanced and updated in the Australia release.
--   **[[grc-common-core-rn|Common Governance, Risk, and Compliance feature release notes]]**  
+-   **[Common Governance, Risk, and Compliance feature release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/grc-common-core-rn.md)**  
 The ServiceNow® Integrated Risk Management \(IRM\) application helps enable your organization to continue to provide its business services during adverse operational events, such as a pandemic, extreme weather, or hacking. Integrated Risk Management was enhanced and updated in the Australia release.
--   **[[grc-compliance-case-management-rn|Compliance Case Management release notes]]**  
+-   **[Compliance Case Management release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/grc-compliance-case-management-rn.md)**  
 The ServiceNow® Compliance Case Management application helps you to report, investigate, and resolve compliance cases, such as complaints and breaches. Compliance Case Management was enhanced and updated in the Australia release.
--   **[[grc-cam-rn|Continuous Authorization and Monitoring release notes]]**  
+-   **[Continuous Authorization and Monitoring release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/grc-cam-rn.md)**  
 The ServiceNow® Continuous Authorization and Monitoring application provides a structured approach to defining an authorization package and walking through the seven stages of the NIST Risk Management Framework. Continuous Authorization and Monitoring was enhanced and updated in the Australia release.
--   **[[grc-or-rn|Operational Resilience release notes]]**  
+-   **[Operational Resilience release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/grc-or-rn.md)**  
 The ServiceNow® Operational Resilience application helps organizations maintain business services during adverse events, such as pandemics, severe weather, or cyber attacks. Operational Resilience was enhanced and updated in the Australia release.
--   **[[grc-policy-rn|Policy and Compliance Management release notes]]**  
+-   **[Policy and Compliance Management release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/grc-policy-rn.md)**  
 The ServiceNow® Policy and Compliance Management application provides a centralized process for creating and managing policies, standards, and internal control procedures that are cross-mapped to external regulations and benchmarks. Policy and Compliance Management was enhanced and updated in the Australia release.
--   **[[grc-privacy-management-rn|Privacy Management release notes]]**  
+-   **[Privacy Management release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/grc-privacy-management-rn.md)**  
 The ServiceNow® Privacy Management application enables you to manage your organization's privacy risks and compliance to protect your customers, employees, and suppliers. Privacy Management was enhanced and updated in the Australia release.
--   **[[grc-regulatory-change-management-rn|Regulatory Change Management release notes]]**  
+-   **[Regulatory Change Management release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/grc-regulatory-change-management-rn.md)**  
 The ServiceNow® Regulatory Change Management application enables you to check upcoming regulatory changes, assess their impact, and implement risk and compliance-related changes. Regulatory Change Management was enhanced and updated in the Australia release.
--   **[[grc-smart-assessment-engine-rn|Smart Assessment Engine release notes]]**  
+-   **[Smart Assessment Engine release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/grc-smart-assessment-engine-rn.md)**  
 The ServiceNow® Smart Assessment Engine \(SAE\) enables you to create customizable assessment templates with detailed instructions and questions to gather information from assessors. SAE was enhanced and updated in the Australia release.
--   **[[grc-tprm-rn|Third-party Risk Management release notes]]**  
+-   **[Third-party Risk Management release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/grc-tprm-rn.md)**  
 The ServiceNow® Third-party Risk Management \(TPRM\) application provides a centralized process for managing your portfolio of third parties and their engagements, assessing and scoring risk and performing remediation. TPRM was enhanced and updated in the Australia release.
 
-**Parent Topic:**[[new-features-changes|Features and changes by product]]
+**Parent Topic:**[Features and changes by product](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/new-features-changes.md)
 
-## Related
-
-- [[grc-advanced-risk-rn|Advanced Risk release notes]]
-- [[grc-ai-risk-and-compliance-rn|AI Risk and Compliance release notes]]
-- [[grc-audit-rn|Audit Management release notes]]
-- [[grc-business-continuity-management-rn|Business Continuity Management release notes]]
-- [[grc-common-core-rn|Common Governance, Risk, and Compliance feature release notes]]
-- [[grc-compliance-case-management-rn|Compliance Case Management release notes]]
-- [[grc-cam-rn|Continuous Authorization and Monitoring release notes]]
-- [[grc-or-rn|Operational Resilience release notes]]
-- [[grc-policy-rn|Policy and Compliance Management release notes]]
-- [[grc-privacy-management-rn|Privacy Management release notes]]
-- [[grc-regulatory-change-management-rn|Regulatory Change Management release notes]]
-- [[grc-smart-assessment-engine-rn|Smart Assessment Engine release notes]]
-- [[grc-tprm-rn|Third-party Risk Management release notes]]
-- [[new-features-changes|Features and changes by product]]

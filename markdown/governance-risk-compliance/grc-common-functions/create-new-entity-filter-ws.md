@@ -29,9 +29,9 @@ You can use one of the following filter conditions for the entity type:
 
 ## Procedure
 
-1.  Navigate to the desired workspace, go to the [[list-view-uib-ws|List view]], and click **[[entity-type-in-risk-ws|Entity types]]**.
+1.  Navigate to the desired workspace, go to the List view, and click **Entity types**.
 
-2.  Click an entity type in the list and navigate to the **[[what-is-an-entity-filter|Entity Filters]]** tab.
+2.  Click an entity type in the list and navigate to the **Entity Filters** tab.
 
 3.  To create a new entity filter, click **New**.
 
@@ -92,10 +92,10 @@ Predefined query to scope the entity. Complete the following steps for the **Sel
 
 Table associated with the entity when a predefined query is selected. The table is automatically populated.
 
-2.  In the **[[information-objects|Information objects]]** field, select only the applications and processes that have information objects associated with them. To add more information objects, click **Information objects** and type information objects such as `Email`.
+2.  In the **Information objects** field, select only the applications and processes that have information objects associated with them. To add more information objects, click **Information objects** and type information objects such as `Email`.
  **Note:** To use a predefined CMDB query for entity scoping, GRC administrators must assign the **GRC Scoping** tag to the selected CMDB query.
 
-As a sn\_grc.admin user, navigate to **Policy and Compliance &gt; [[Administration|Administration]] &gt; GRC Properties** or navigate to **Risk Administration &gt; GRC Properties** in an instance, set the **Enable entity scoping for CMDB query** property as **Yes** and click **Save**.
+As a sn\_grc.admin user, navigate to **Policy and Compliance &gt; Administration &gt; GRC Properties** or navigate to **Risk Administration &gt; GRC Properties** in an instance, set the **Enable entity scoping for CMDB query** property as **Yes** and click **Save**.
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -103,7 +103,7 @@ Assignment
 
 </td></tr><tr><td>
 
-[[entity-class|Entity class]]
+Entity class
 
 </td><td>
 
@@ -137,11 +137,3 @@ Attachments associated with the entity that are displayed in the side panel.
 
 **Parent Topic:**[Entity filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/what-is-an-entity-filter.md)
 
-## Related
-
-- [[list-view-uib-ws|List view]]
-- [[entity-type-in-risk-ws|Entity types]]
-- [[what-is-an-entity-filter|Entity filters]]
-- [[information-objects|information objects]]
-- [[Administration|Administration]]
-- [[entity-class|entity class]]

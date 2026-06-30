@@ -14,7 +14,7 @@ breadcrumb: [Explore, Compliance Case Management, Governance, Risk, and Complian
 
 # Compliance request workflow
 
-Use the request workflow in the [[compliance-case-management|Compliance Case Management]] application to raise and manage compliance requests within an organization. By using this workflow, your compliance requests are addressed effectively and efficiently by your compliance team.
+Use the request workflow in the Compliance Case Management application to raise and manage compliance requests within an organization. By using this workflow, your compliance requests are addressed effectively and efficiently by your compliance team.
 
 The following diagram shows the workflow of a compliance request in the GRC: Compliance Case Management application.
 
@@ -31,7 +31,7 @@ The different stages of a compliance request are described as follows:
 
 ## Raise a compliance request
 
-A business user or a compliance team can raise a compliance request in the [[employee-center|Employee Center]] application. Compliance case team can raise requests in the Compliance Workspace application. For more information, see [Raising a compliance request in GRC: Compliance Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/raising-compliance-request.md).
+A business user or a compliance team can raise a compliance request in the Employee Center application. Compliance case team can raise requests in the Compliance Workspace application. For more information, see [Raising a compliance request in GRC: Compliance Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/raising-compliance-request.md).
 
 ## Triage the compliance request
 
@@ -55,7 +55,3 @@ After a compliance request is fully processed and approved or rejected, it enter
 
 **Parent Topic:**[Exploring Compliance Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/ccm-overview.md)
 
-## Related
-
-- [[compliance-case-management|compliance case management]]
-- [[employee-center|employee center]]

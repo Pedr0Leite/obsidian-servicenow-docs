@@ -14,7 +14,7 @@ breadcrumb: [Set up coaching, Workforce Optimization, Set up workforce, Configur
 
 # Configure a list menu to display in the Learning tab in Workforce Optimization for Field Service
 
-Add list or list categories to modify the list menu for [[coaching-with-learning-wfo-fsm|Coaching with Learning]] in the Coaching application in [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]].
+Add list or list categories to modify the list menu for Coaching with Learning in the Coaching application in Workforce Optimization for Field Service.
 
 ## Before you begin
 
@@ -56,7 +56,4 @@ Role required: admin
 
 9.  Click **Update**.
 
-## Related
 
-- [[coaching-with-learning-wfo-fsm|Coaching with Learning]]
-- [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]]

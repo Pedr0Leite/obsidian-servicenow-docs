@@ -14,7 +14,7 @@ breadcrumb: [Configuring Omnichannel Callback, Omnichannel Callback, Manage peop
 
 # Get started with Omnichannel Callback
 
-Review the following information before you start setting up [[omnichannel-callback|Omnichannel Callback]].
+Review the following information before you start setting up Omnichannel Callback.
 
 <table id="table_mnf_lpg_tsb"><thead><tr><th>
 
@@ -48,7 +48,3 @@ The following roles are used across the Omnichannel Callback features:-   The ad
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[omnichannel-callback|Omnichannel Callback]]

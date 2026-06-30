@@ -16,7 +16,7 @@ breadcrumb: [Configure, Source-to-Pay integration with SAP, Integration with thi
 
 You can schedule on-demand jobs to be run at specific intervals of time to fetch primary data from different SAP ERP sources into ServiceNow.
 
-Before you start the SAP ERP integration, you must configure the integration services record for target [[erp-source|ERP source]] using the `sn_fcms_intg_service` table. The `sn_fcms_intg_service` table is a mapping table between sub flows and target ERP source. For more information on creating a integration service record, see [Configure integration services for SAP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/configure-service-maps-sap.md).
+Before you start the SAP ERP integration, you must configure the integration services record for target ERP source using the `sn_fcms_intg_service` table. The `sn_fcms_intg_service` table is a mapping table between sub flows and target ERP source. For more information on creating a integration service record, see [Configure integration services for SAP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/configure-service-maps-sap.md).
 
 \[Omitted image "scheduled-script.png"\] Alt text: Scheduled script execution
 
@@ -30,7 +30,7 @@ Run adhoc scheduled jobs to look up entity primary data from the target SAP ERP 
 
 [ERP Source Configuration for SAP]()
 
-[Define [[erp-source-configuration|ERP source configuration]] for SAP]()
+[Define ERP source configuration for SAP]()
 
 [Configure integration services for SAP]()
 
@@ -38,7 +38,3 @@ Run adhoc scheduled jobs to look up entity primary data from the target SAP ERP 
 
 [Manually execute flows or subflows in SAP \(Inbound\)]()
 
-## Related
-
-- [[erp-source|ERP source]]
-- [[erp-source-configuration|ERP source configuration]]

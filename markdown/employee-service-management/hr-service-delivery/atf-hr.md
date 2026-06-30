@@ -24,7 +24,7 @@ Role required: sn\_hr\_core.admin, atf\_test\_admin, atf\_test\_designer
 
 1.  Navigate to **All** &gt; **Automated Test Framework** &gt; **Tests**.
 
-2.  Search and select the tests for [[hr-service-delivery|HR Service Delivery]].
+2.  Search and select the tests for HR Service Delivery.
 
     For a list of quick start tests and their descriptions, see [Quick start tests for HR Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/quick-start-tests-hr.md).
 
@@ -34,6 +34,4 @@ Role required: sn\_hr\_core.admin, atf\_test\_admin, atf\_test\_designer
 
     After the tests run, the Step Results tab shows the status of each test step. Screen shots also appear at the top of the form as attachments.
 
-## Related
 
-- [[hr-service-delivery|HR Service Delivery]]

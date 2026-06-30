@@ -18,7 +18,7 @@ Assist agents in real-time by joining their chat conversation and collaborate on
 
 ## Before you begin
 
-**Important:** The Manager Workspace navigation is only available after [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]] is activated and you have been assigned the sn\_wfo\_cfg\_ws.manager role or sn\_wfo\_cfg\_itsm.manager in the Admin Console. If this navigation path is missing, ask your administrator to verify WFO ITSM activation and role assignment. For setup instructions, see [Configuring groups in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/configuring-groups-wfo-itsm.md).
+**Important:** The Manager Workspace navigation is only available after Workforce Optimization for ITSM is activated and you have been assigned the sn\_wfo\_cfg\_ws.manager role or sn\_wfo\_cfg\_itsm.manager in the Admin Console. If this navigation path is missing, ask your administrator to verify WFO ITSM activation and role assignment. For setup instructions, see [Configuring groups in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/configuring-groups-wfo-itsm.md).
 
 Role required: sn\_wfo\_cfg\_ws.manager or sn\_wfo\_cfg\_itsm.manager
 
@@ -34,7 +34,7 @@ View the work-in-progress chat interactions and​ see if any of the agents has 
 
 2.  Do one of the following:
 
-    -   Select the **Help Requested** indicator on the [[dex-workspace-dashboard-tab|landing page]].
+    -   Select the **Help Requested** indicator on the landing page.
     -   Select the **Channels** icon, select a queue and then select the **Active Interactions** tab.
     -   In **Lists**, select **Conversation Monitoring**.
 3.  Select the interaction record for which you want to join the conversation.
@@ -46,7 +46,3 @@ View the work-in-progress chat interactions and​ see if any of the agents has 
 
 **Parent Topic:**[Routing work items using Channels in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/configurable-channels-workforce-optimization-itsm.md)
 
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]
-- [[dex-workspace-dashboard-tab|Landing page]]

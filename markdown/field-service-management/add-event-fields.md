@@ -12,7 +12,7 @@ breadcrumb: [Dispatcher Workspace, CSM/FSM Configurable Workspace, Configure, Fi
 
 # Configure event body fields
 
-Administrators can add fields to event bodies so dispatchers have more information about events when they’re viewing the calendar in [[dispatcher-activities|Dispatcher Workspace]].
+Administrators can add fields to event bodies so dispatchers have more information about events when they’re viewing the calendar in Dispatcher Workspace.
 
 ## About this task
 
@@ -85,6 +85,4 @@ The order that the field shows on an event body in relation to the other fields.
 
     \[Omitted image "event-body-fields.png"\] Alt text: event body fields form
 
-## Related
 
-- [[dispatcher-activities|Dispatcher Workspace]]

@@ -12,27 +12,18 @@ reading_time_minutes: 1
 
 The ServiceNow® Customer Service Management application has new and updated applications and features in the Australia release.
 
--   **[[customer-service-config-ws-rn|Agent experience for CSM release notes]]**  
+-   **[Agent experience for CSM release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/customer-service-config-ws-rn.md)**  
 The ServiceNow® Agent experience for CSM provides customer service agents with the tools that they need to find, research, and resolve customer issues and questions. Agent experience for CSM was enhanced and updated in the Australia release.
--   **[[case-mgmt-csm-rn|Case management for CSM release notes]]**  
+-   **[Case management for CSM release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/case-mgmt-csm-rn.md)**  
 The ServiceNow® Case management for CSM application enables customer service organizations and support teams to collaborate on customer problems proactively to resolve issues. Case management for CSM was enhanced and updated in the Australia release.
--   **[[data-management-for-csm-rn|Data Management for CSM release notes]]**  
+-   **[Data Management for CSM release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/data-management-for-csm-rn.md)**  
 The ServiceNow® Data Management for Customer Service Management \(CSM\) application enables you to organize and manage the data for both your internal users and external customers. Data Management for CSM was enhanced and updated in the Australia release.
--   **[[customer-service-ai-ml-rn|Predictive AI for CSM release notes]]**  
+-   **[Predictive AI for CSM release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/customer-service-ai-ml-rn.md)**  
 The ServiceNow® Predictive AI for Customer Service Management \(CSM\) applications enable customer service organizations and service operations to configure and implement Now Assist for Customer Service Management \(CSM\), Guided Decisions, Recommended Actions, and Task Intelligence features. The Predictive AI for CSM applications were enhanced and updated in the Australia release.
--   **[[customer-self-service-omnichannel-engagement-rn|Self-service and omnichannel engagement for CSM release notes]]**  
+-   **[Self-service and omnichannel engagement for CSM release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/customer-self-service-omnichannel-engagement-rn.md)**  
 With self-service and omnichannel applications in the ServiceNow® Customer Service Management \(CSM\) application, your customers can use chat on self-service portals, consumer messaging apps, email, or phone calls to connect with your organization. Self-service and omnichannel applications for CSM were enhanced and updated in the Australia.
--   **[[workforce-optimization-csm-rn|Workforce Optimization for CSM release notes]]**  
+-   **[Workforce Optimization for CSM release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/workforce-optimization-csm-rn.md)**  
 The ServiceNow® Workforce Optimization application enables you to efficiently route work to your team, manage your team's skills and schedules, and monitor their performance. Workforce Optimization was enhanced and updated in the Australia release.
 
-**Parent Topic:**[[new-features-changes|Features and changes by product]]
+**Parent Topic:**[Features and changes by product](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/new-features-changes.md)
 
-## Related
-
-- [[customer-service-config-ws-rn|Agent experience for CSM release notes]]
-- [[case-mgmt-csm-rn|Case management for CSM release notes]]
-- [[data-management-for-csm-rn|Data Management for CSM release notes]]
-- [[customer-service-ai-ml-rn|Predictive AI for CSM release notes]]
-- [[customer-self-service-omnichannel-engagement-rn|Self-service and omnichannel engagement for CSM release notes]]
-- [[workforce-optimization-csm-rn|Workforce Optimization for CSM release notes]]
-- [[new-features-changes|Features and changes by product]]

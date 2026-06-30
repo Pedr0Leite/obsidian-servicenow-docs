@@ -12,7 +12,7 @@ breadcrumb: [Configure, Patient Support Services, Healthcare and Life Sciences S
 
 # Approving restricted caller access privileges for Patient Support Services
 
-Approve restricted caller access \(RCA\) privileges for accessing document templates from the [[pss-app|Patient Support Services]] application.
+Approve restricted caller access \(RCA\) privileges for accessing document templates from the Patient Support Services application.
 
 **Important:**
 
@@ -22,6 +22,3 @@ For details, see the [Deprecation Process \[KB0867184\]](https://support.service
 
 To access document templates from the Patient Support Services application, as an administrator, you must approve the required RCA privileges. For more information, see [Approve restricted caller access privileges for Healthcare and Life Sciences Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-approving-rca.md).
 
-## Related
-
-- [[pss-app|Patient Support Services]]

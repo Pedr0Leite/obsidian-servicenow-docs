@@ -12,13 +12,13 @@ breadcrumb: [Order fulfillment, Order Management, Use, Sales Customer Relationsh
 
 # Creation of sold product and product inventory records
 
-Learn how the [[explore-order-management|Order Management]] application creates and maintains the customer product and service inventory. By using this application, you can maintain an accurate inventory of your customer products and services.
+Learn how the Order Management application creates and maintains the customer product and service inventory. By using this application, you can maintain an accurate inventory of your customer products and services.
 
 ## Customer product data record creation
 
-Sold product records are created and added to the Sold Product \[sn\_install\_base\_sold\_product\] table after an order line is marked as closed complete. Product inventory records are created and added to the Product Inventory \[sn\_prd\_invt\_product\_inventory\] table after an order is decomposed, completed, and fulfilled. Product inventory records are created for products with specifications. Depending on how your admin has configured the sn\_ind\_tmt\_orm.enable\_prod\_invt\_for\_order\_management system property, either sold products or product inventory records are created. For more information, see [[configure-customer-product-data-management|Configure customer product data management]].
+Sold product records are created and added to the Sold Product \[sn\_install\_base\_sold\_product\] table after an order line is marked as closed complete. Product inventory records are created and added to the Product Inventory \[sn\_prd\_invt\_product\_inventory\] table after an order is decomposed, completed, and fulfilled. Product inventory records are created for products with specifications. Depending on how your admin has configured the sn\_ind\_tmt\_orm.enable\_prod\_invt\_for\_order\_management system property, either sold products or product inventory records are created. For more information, see [Configure customer product data management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-customer-product-data-management.md).
 
-The Product Inventory table extends the Sold Product table. Only the items from the product inventory are available for change, disconnect, [[Suspend|suspend]], or [[Resume|resume]] type orders.
+The Product Inventory table extends the Sold Product table. Only the items from the product inventory are available for change, disconnect, suspend, or resume type orders.
 
 ## New order workflow
 
@@ -44,23 +44,14 @@ The change order workflow is as follows:
     For resume type orders, the end state is Active after the resume workflow is completed. Product inventory state changes from Suspended back to Active after all tasks and jobs have finished.
 
 
-**Parent Topic:**[[reviewing-orchestration-plans-order-fulfillment|Order fulfillment]]
+**Parent Topic:**[Order fulfillment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/reviewing-orchestration-plans-order-fulfillment.md)
 
 **Related topics**  
 
 
 [Customer Life Cycle Management Workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-life-cycle-management-workflows.md)
 
-[[managing-orders|Managing post-fulfillment order changes]]
+[Managing post-fulfillment order changes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/managing-orders.md)
 
-[[create-macd-orders|Request post-sale change orders]]
+[Request post-sale change orders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-macd-orders.md)
 
-## Related
-
-- [[configure-customer-product-data-management|Configure customer product data management]]
-- [[reviewing-orchestration-plans-order-fulfillment|Order fulfillment]]
-- [[managing-orders|Managing post-fulfillment order changes]]
-- [[create-macd-orders|Request post-sale change orders]]
-- [[explore-order-management|Order management]]
-- [[Suspend|Suspend]]
-- [[Resume|Resume]]

@@ -16,7 +16,7 @@ breadcrumb: [F5 Network Management activity pack, Orchestration activity packs, 
 
 The Modify F5 Virtual Server activity configures a virtual server assigned to an F5 load balancer pool with irules and a vlan.
 
-This activity was built using the [REST web service activity template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateARESTWebServiceActivity.md). To access the activity in the [[workflow-editor|Workflow Editor]], select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Active Directory**.
+This activity was built using the [REST web service activity template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateARESTWebServiceActivity.md). To access the activity in the Workflow Editor, select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Active Directory**.
 
 ## REST settings
 
@@ -47,7 +47,7 @@ F5IPAddress
 
 </td><td>
 
-[[ip-address|IP address]] of the F5 console.
+IP address of the F5 console.
 
 </td></tr><tr><td>
 
@@ -84,7 +84,3 @@ Vlans for the virtual server, such as `internal`.
 
 **Parent Topic:**[F5 Network Management activity pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchF5LoadBalancerActivities.md)
 
-## Related
-
-- [[workflow-editor|Workflow editor]]
-- [[ip-address|IP Address]]

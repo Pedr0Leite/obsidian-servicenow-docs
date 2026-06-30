@@ -20,17 +20,17 @@ Role required: survey\_admin or survey\_reader
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Survey** &gt; **View [[r_SurveyManagementLandingPage|Surveys]]**.
+1.  Navigate to **All** &gt; **Survey** &gt; **View Surveys**.
 
 2.  Open a survey definition.
 
 3.  Under **Related Links**, select **View Responses** to view information regarding each user's response.
 
-    The results are grouped by metric, which is what questions are called in [[r_Assessments|assessments]].
+    The results are grouped by metric, which is what questions are called in assessments.
 
 4.  Under **Related Links**, select **View Scorecard** review the compiled data of all responses represented in pie charts.
 
-    For detailed information, see [[t_ViewAScorecard|View a survey scorecard]].
+    For detailed information, see [View a survey scorecard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAScorecard.md).
 
 5.  Open a metric result to view more detail.
 
@@ -41,7 +41,7 @@ Role required: survey\_admin or survey\_reader
     For a description of the field values, see .
 
 
-**Parent Topic:**[[c_SurveyResults|Survey responses and results]]
+**Parent Topic:**[Survey responses and results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyResults.md)
 
 **Related topics**  
 
@@ -58,9 +58,3 @@ Role required: survey\_admin or survey\_reader
 
 [Survey responses in a database view]()
 
-## Related
-
-- [[t_ViewAScorecard|View a survey scorecard]]
-- [[c_SurveyResults|Survey responses and results]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[r_Assessments|Assessments]]

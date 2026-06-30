@@ -12,7 +12,7 @@ breadcrumb: [Advanced Approval Management reference, Configure, price, quote, Re
 
 # Components installed with Advanced Approval Management
 
-Several types of components are installed with activation of the [[explore-advanced-approval-for-sales|Advanced Approval Management]] plugin, including tables, scheduled jobs, and user roles.
+Several types of components are installed with activation of the Advanced Approval Management plugin, including tables, scheduled jobs, and user roles.
 
 ## Roles installed
 
@@ -34,7 +34,7 @@ Approval rule admin\[sn\_adv\_appr\_mgmt.approval\_rule\_admin\]
 
 </td><td>
 
-Manages all aspects of approval workflows. Creates, updates, and deletes approval configurations, chains, approval trigger conditions, approval [[rules_101|rules]], and approval users and groups.
+Manages all aspects of approval workflows. Creates, updates, and deletes approval configurations, chains, approval trigger conditions, approval rules, and approval users and groups.
 
 </td><td>
 
@@ -212,10 +212,5 @@ Approval Steps\[sn\_adv\_appr\_mgmt\_approval\_step\]
 The approval step records created for an approval request. The records contain the relevant approval rules, conditions, and chain details defined for an approval configuration. The Approval Steps table is extended from the Task \[task\] table.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[advanced-approval-management-reference|Advanced Approval Management reference]]
+</table>**Parent Topic:**[Advanced Approval Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/advanced-approval-management-reference.md)
 
-## Related
-
-- [[advanced-approval-management-reference|Advanced Approval Management reference]]
-- [[explore-advanced-approval-for-sales|Advanced Approval Management]]
-- [[rules_101|Rules]]

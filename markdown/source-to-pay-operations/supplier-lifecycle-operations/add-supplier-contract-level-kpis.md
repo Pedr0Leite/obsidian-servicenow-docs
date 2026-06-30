@@ -14,7 +14,7 @@ breadcrumb: [Configure Supplier Relationship and Performance Management, Configu
 
 # Create supplier-level KPIs from KPI management
 
-You can add [[supplier|supplier]]-level for a supplier from the **KPI management** tab of the supplier page. You can also define contract-level KPIs under their respective supplier-level KPIs.
+You can add supplier-level for a supplier from the **KPI management** tab of the supplier page. You can also define contract-level KPIs under their respective supplier-level KPIs.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_kpi.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
 2.  Under **Quick actions**, select **Manage my suppliers**.
 
@@ -36,7 +36,7 @@ Role required: sn\_kpi.admin
 
     \[Omitted image "collection-level.png"\] Alt text: Select collection level dialog box
 
-7.  Select a KPI template from the list of available [[kpi-templates|KPI templates]].
+7.  Select a KPI template from the list of available KPI templates.
 
 8.  Select **Add**.
 
@@ -54,9 +54,3 @@ Role required: sn\_kpi.admin
 
 [Create KPIs by adding suppliers to a KPI template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/add-supplier-kpi-template.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[kpi-templates|KPI templates]]

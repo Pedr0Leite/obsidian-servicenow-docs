@@ -14,7 +14,7 @@ breadcrumb: [Administering dashboards, Responsive dashboards in the Core UI, Rep
 
 # Explore and manage dashboards
 
-Quickly identify the relationships between Performance Analytics elements, such as dashboards, reports, and indicators. Each dashboard tab has customized [[c_HomepagePublishers|interactive filters]] that enable you to refine the information that the dashboard shows.
+Quickly identify the relationships between Performance Analytics elements, such as dashboards, reports, and indicators. Each dashboard tab has customized interactive filters that enable you to refine the information that the dashboard shows.
 
 ## Explore dashboards example
 
@@ -25,7 +25,7 @@ To see all the [automated indicators](https://raw.githubusercontent.com/ServiceN
 3.  Select Dashboard Groups and Incident from the first two lists.
 4.  Select the **Indicators** tab.
 5.  From the **Indicator — Table** list, select **Incident** to see only the indicators on the Incident table.
-6.  From the **Type** list, select **Automated** to see only the [[automated-indicators|automated indicators]] on the Incident table.
+6.  From the **Type** list, select **Automated** to see only the automated indicators on the Incident table.
 
 \[Omitted image "expl-db-ex.png"\] Alt text: Explore dashboards example
 
@@ -47,7 +47,7 @@ Click **Dashboard** or **Dashboard Groups** to view a dashboard that provides in
 
     -   Active — Choose **All**, Active=**True**, or Active=**False**.
     -   Dashboard owner — Choose **All** or select one or more owners from a list.
--   **[[widgets|Widgets]]**
+-   **Widgets**
 
     A list of all widgets used in your instance's dashboards.
 
@@ -59,7 +59,7 @@ Click **Dashboard** or **Dashboard Groups** to view a dashboard that provides in
 
     A list of all indicators used in your instance's dashboards. Filters: You can filter the list on **Indicator Table**, **Type**, **Frequency**, **Indicator Source**, **Units**, **Direction**, **Scripted**, and **Aggregation Type**. Click the name of the **Indicator** or **Indicator Source** to view and edit its details. For more information, see [Performance Analytics indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_Indicators.md).
 
--   **[[c_IndicatorSources|Indicator Sources]]**
+-   **Indicator Sources**
 
     A list of all indicator sources in your instance. You can filter the list on **Indicator Table** and **Frequency**. Click the name of the **Indicator Source** to view and edit its details. For more information, see [Indicator sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_IndicatorSources.md).
 
@@ -67,7 +67,7 @@ Click **Dashboard** or **Dashboard Groups** to view a dashboard that provides in
 
     A list of all breakdowns in your instance. You can filter the list on one or more **Breakdown Tables**. Click the names of the breakdown and the breakdown source to view and edit their details. For more information, see [Performance Analytics breakdowns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_CreatingBreakdowns.md).
 
--   **[[breakdown-sources|Breakdown Sources]]**
+-   **Breakdown Sources**
 
     A list of all breakdown sources in your instance. You can filter the list on one or more **Breakdown Tables**. Click the name of the breakdown source to view and edit its details. For more information, see [Define a breakdown source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_DefiningABreakdownSource.md).
 
@@ -77,7 +77,7 @@ Click **Dashboard** or **Dashboard Groups** to view a dashboard that provides in
 
 -   **Reports**
 
-    A list of all reports created on your instance. You can filter the list on one or more Report Tables and one or more [[report-types-creation-details-rd|Report Types]]. Click the title of a report to view its details. For more information, see [Create a report visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/t_CreateYourOwnReport.md).
+    A list of all reports created on your instance. You can filter the list on one or more Report Tables and one or more Report Types. Click the title of a report to view its details. For more information, see [Create a report visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/t_CreateYourOwnReport.md).
 
 -   **Interactive Filters**
 
@@ -91,11 +91,3 @@ Click **Dashboard** or **Dashboard Groups** to view a dashboard that provides in
 
 [Performance Analytics terms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md)
 
-## Related
-
-- [[c_HomepagePublishers|Interactive Filters]]
-- [[automated-indicators|Automated indicators]]
-- [[widgets|Widgets]]
-- [[c_IndicatorSources|Indicator sources]]
-- [[breakdown-sources|Breakdown sources]]
-- [[report-types-creation-details-rd|Report types]]

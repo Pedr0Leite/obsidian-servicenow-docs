@@ -12,11 +12,11 @@ breadcrumb: [Using Impact, Impact]
 
 # Impact Conversations
 
-[[io-help|Help]] [[impact-landing-page|Impact]] customers and squads to collaborate in the context of outcomes, accelerators, initiatives, [[platform-health-idi|platform health]] and other Impact entities.
+Help Impact customers and squads to collaborate in the context of outcomes, accelerators, initiatives, platform health and other Impact entities.
 
 ## Conversations overview
 
-The Conversations feature in ServiceNow Impact provides a structured, human-assisted messaging channel between customers and [[impact-squad|Impact Squad]]. Users can initiate, manage, and track topic-specific conversations directly within their platform instance. It replaces the need for customers to access Conversations via *IDI*
+The Conversations feature in ServiceNow Impact provides a structured, human-assisted messaging channel between customers and Impact Squad. Users can initiate, manage, and track topic-specific conversations directly within their platform instance. It replaces the need for customers to access Conversations via *IDI*
 
 ## Key capabilities
 
@@ -36,15 +36,7 @@ Messages flow between the Impact Store Application and the *Impact Delivery Inst
 **Related topics**  
 
 
-[[start-conversation-store|Start a conversation]]
+[Start a conversation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/start-conversation-store.md)
 
-[[working-with-conversations|Working with Conversations]]
+[Working with Conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/working-with-conversations.md)
 
-## Related
-
-- [[start-conversation-store|Start a conversation]]
-- [[working-with-conversations|Working with Conversations]]
-- [[io-help|Help]]
-- [[impact-landing-page|Impact]]
-- [[platform-health-idi|Platform Health]]
-- [[impact-squad|Impact Squad]]

@@ -16,7 +16,7 @@ breadcrumb: [Legacy flexible checkout and delivery forms, Cart layout, Service C
 
 In the final checkout step, a summary screen provides a list of all items and services ordered.
 
-**Warning:** Modifying the Order Status or Summary screen requires advanced scripting and a knowledge of [Jelly](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/r_JellyTags.md). Also, the upgrade process skips updates to the summary screen after a customization. With these constraints in mind, you can modify the summary screen by editing the **com.glideapp.servicecatalog\_checkout\_view** [[ui-page|UI page]].
+**Warning:** Modifying the Order Status or Summary screen requires advanced scripting and a knowledge of [Jelly](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/r_JellyTags.md). Also, the upgrade process skips updates to the summary screen after a customization. With these constraints in mind, you can modify the summary screen by editing the **com.glideapp.servicecatalog\_checkout\_view** UI page.
 
 \[Omitted image "CatalogOrderSummaryStatus.png"\] Alt text: Summary of ordered items and link to the request
 
@@ -24,9 +24,9 @@ In the final checkout step, a summary screen provides a list of all items and se
 
 ## Requester search results
 
-After you enable the two-step checkout process, the [[requested-for|Requested for]] field appears on the Request form.
+After you enable the two-step checkout process, the Requested for field appears on the Request form.
 
-The Requested for field [[reference-document-management|references]] the User `[sys_user]` table and has an auto-complete feature. Two [[r_ServiceCatalogProperties|service catalog properties]] \(**[[service-catalog|Service Catalog]]** &gt; **Catalog Administration** &gt; **Properties**\) enable an administrator to add columns to the search results for this field and to order the list by one of the columns.
+The Requested for field references the User `[sys_user]` table and has an auto-complete feature. Two service catalog properties \(**Service Catalog** &gt; **Catalog Administration** &gt; **Properties**\) enable an administrator to add columns to the search results for this field and to order the list by one of the columns.
 
 <table id="table_zhc_4c2_zp"><thead><tr><th>
 
@@ -54,11 +54,3 @@ Choose fields from the User `[sys_user]` table.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[ui-page|UI page]]
-- [[requested-for|Requested for]]
-- [[reference-document-management|References]]
-- [[r_ServiceCatalogProperties|Service Catalog properties]]
-- [[service-catalog|Service Catalog]]

@@ -34,7 +34,7 @@ You must install and set up the SafeNet keystore before performing this step. Se
 
 2.  Enter the properties for the [SafeNet keystore](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/edge-encryption-proxy-server-properties.md).
 
-    **Note:** You may configure SafeNet keystore using with username/password [[c_Authentication|authentication]] or client certificate authentication, but not a combination of both.
+    **Note:** You may configure SafeNet keystore using with username/password authentication or client certificate authentication, but not a combination of both.
 
     An example for a SafeNet keystore using username and password authentication.
 
@@ -94,7 +94,7 @@ Role required: admin
     -   `ingrianNAE-<version>.jar`
 2.  On the current version \(not upgraded\) of the proxy, update the `<installation directory>/conf/edgeencryption.properties` file by adding the following two properties:
 
-    -   **edgeencryption.ekm.provider.classname** = `com.snc.edgeencryption.[[encryption-landing|encryption]].CloudEdgeNaeKeyProvider`
+    -   **edgeencryption.ekm.provider.classname** = `com.snc.edgeencryption.encryption.CloudEdgeNaeKeyProvider`
     -   **edgeencryption.thirdparty.vendor.library.path** = `<directory path to the directory where you copied the jar files in step 1>`
 
         **Note:** **edgeencryption.thirdparty.vendor.library.path** for Java 11.
@@ -103,7 +103,4 @@ Role required: admin
 
 4.  Proceed with the upgrade to London or higher.
 
-## Related
 
-- [[c_Authentication|Authentication]]
-- [[encryption-landing|Encryption]]

@@ -14,7 +14,7 @@ breadcrumb: [Reference, AI Search, Search administration, Configure core feature
 
 # Indexed Source form
 
-The Indexed Source form enables you to [[create-indexed-source-ais|create an indexed source]] for use in [[ia-ai-search|AI Search]].
+The Indexed Source form enables you to create an indexed source for use in AI Search.
 
 For details on creating or modifying an indexed source, see [Create an indexed source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-indexed-source-ais.md).
 
@@ -78,7 +78,7 @@ Force Late Binding
 
 </td><td>
 
-Option to make AI Search use late binding security for all search [[hs-results|results]] from the indexed source. This field isn't shown in the default Indexed Source form view. For instructions on configuring the form layout to show the field, see [[configure-form-layout|Configuring the form layout]].
+Option to make AI Search use late binding security for all search results from the indexed source. This field isn't shown in the default Indexed Source form view. For instructions on configuring the form layout to show the field, see [Configuring the form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md).
 
  For an explanation of late binding security and its effects on search, see [Content security in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/content-security-ais.md).
 
@@ -97,9 +97,3 @@ Optional filter conditions limiting the set of records to index from the source 
 </td></tr></tbody>
 </table>**Parent Topic:**[AI Search reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/reference-ais.md)
 
-## Related
-
-- [[configure-form-layout|Configuring the form layout]]
-- [[create-indexed-source-ais|Create an indexed source]]
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]

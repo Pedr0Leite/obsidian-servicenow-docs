@@ -16,7 +16,7 @@ breadcrumb: [Manage software models using the legacy Software Asset Management p
 
 Software uses the concept of suites instead of bundles.
 
-A software suite is a group of related software offered as one unit. An example is the Microsoft Office Professional suite of office productivity software tools that includes Powerpoint, Word, Excel, Outlook, and Access. You can use the legacy Software [[c_AssetManagement|Asset Management]] \(com.snc.software\_asset\_management\) plugin to create suites and add components to the suite so that the licenses your organization own are counted accurately.
+A software suite is a group of related software offered as one unit. An example is the Microsoft Office Professional suite of office productivity software tools that includes Powerpoint, Word, Excel, Outlook, and Access. You can use the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin to create suites and add components to the suite so that the licenses your organization own are counted accurately.
 
 For any software model, you have the option to specify whether the model is a suite \(parent\) or a component \(child\). A software model can be a component in multiple suites. For example, Microsoft Word is a component in Microsoft Office Standard and Microsoft Office Professional. Although you can set a single software model as both a suite and a component, software is not typically sold as nested suites.
 
@@ -25,7 +25,7 @@ Use the **Inference percent** and **Inference mandatory** options for even great
 -   **Inference percent**: specifies what percentage of the components in the suite must be installed for the software to be identified as a suite.
 -   **Inference mandatory**: enforces that a specific component in a suite must be installed to infer that the suite is installed.
 
-For example, specify the **Inference percent** as 80% and set the **Inference mandatory** option to **true** on Microsoft Access. These [[settings-mobile|settings]] specify that Microsoft Access must be installed, along with 3 out of 4 other products \(Microsoft Word, Microsoft Excel, Microsoft PowerPoint, and Microsoft Outlook\) to infer that Microsoft Office Professional is installed.
+For example, specify the **Inference percent** as 80% and set the **Inference mandatory** option to **true** on Microsoft Access. These settings specify that Microsoft Access must be installed, along with 3 out of 4 other products \(Microsoft Word, Microsoft Excel, Microsoft PowerPoint, and Microsoft Outlook\) to infer that Microsoft Office Professional is installed.
 
 \[Omitted image "InferenceOptionsCalgary.png"\] Alt text: The interference percent and Interference mandatory fields
 
@@ -55,7 +55,3 @@ To make the new software record a child item:
 
 **Parent Topic:**[Manage software models using the legacy Software Asset Management plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/t_ManagingSoftwareModels.md)
 
-## Related
-
-- [[c_AssetManagement|Asset Management]]
-- [[settings-mobile|Settings]]

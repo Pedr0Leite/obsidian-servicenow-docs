@@ -20,7 +20,7 @@ Localization Workspace is a targeted translation management experience for conte
 
 <table id="table_dhl_fxf_r2c" class="nav-card presentation"><tbody><tr><td>
 
-[Explore\[Omitted image "bus-explore.svg"\] Alt text:Explore [[ia-localization-il|Localization]] Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/exploring-localization-workspace.md)
+[Explore\[Omitted image "bus-explore.svg"\] Alt text:Explore Localization Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/exploring-localization-workspace.md)
 
 </td><td>
 
@@ -28,11 +28,11 @@ Localization Workspace is a targeted translation management experience for conte
 
 </td></tr><tr><td>
 
-[Use\[Omitted image "bus-global.svg"\] Alt text: Learn how to use Localization Workspace to [[language-picker-ui|request translations]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/requesting-translations-localization-workspace.md)
+[Use\[Omitted image "bus-global.svg"\] Alt text: Learn how to use Localization Workspace to request translations.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/requesting-translations-localization-workspace.md)
 
 </td><td>
 
-[Reference \[Omitted image "bus-learn.svg"\] Alt text:Get details about Localization Workspace such as Domain Separation support and what types of content can be localized.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/localization-workspace-[[reference-email-admin|reference]].md)
+[Reference \[Omitted image "bus-learn.svg"\] Alt text:Get details about Localization Workspace such as Domain Separation support and what types of content can be localized.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/localization-workspace-reference.md)
 
 </td></tr></tbody>
 </table>## Helpful resources
@@ -49,8 +49,6 @@ Some ServiceNow resources that can provide you with helpful information are:
 
 -   **\[Omitted image "dcx-icon-support.svg"\] Support**
 
-## Related
 
-- [[ia-localization-il|Localization]]
-- [[language-picker-ui|Request translations]]
-- [[reference-email-admin|Reference]]
+
+

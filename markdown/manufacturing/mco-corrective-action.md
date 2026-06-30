@@ -20,31 +20,23 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace** &gt; **List** &gt; **[[mco-PQI-use|Product Quality Investigation]]** &gt; **Corrective Action**.
+1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace** &gt; **List** &gt; **Product Quality Investigation** &gt; **Corrective Action**.
 
 2.  Select **New**.
 
-3.  On the [[mco-corrective-action-form|Corrective Action form]], fill in the fields.
+3.  On the Corrective Action form, fill in the fields.
 
-    For a description of the field values, see [[mco-corrective-action-form-for-pqi|Corrective action form for PQI]].
+    For a description of the field values, see [Corrective action form for PQI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-corrective-action-form-for-pqi.md).
 
 4.  Select **Save**.
 
 
-**Parent Topic:**[[mco-related-list-for-pqi|Related list for quality issues]]
+**Parent Topic:**[Related list for quality issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-related-list-for-pqi.md)
 
 **Related topics**  
 
 
-[[mco-copq-expense-line|Create a CoPQ expense line]]
+[Create a CoPQ expense line](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-copq-expense-line.md)
 
-[[mco-impacted-asset-action|Impacted asset action]]
+[Impacted asset action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-impacted-asset-action.md)
 
-## Related
-
-- [[mco-corrective-action-form-for-pqi|Corrective action form for PQI]]
-- [[mco-related-list-for-pqi|Related list for quality issues]]
-- [[mco-copq-expense-line|Create a CoPQ expense line]]
-- [[mco-impacted-asset-action|Impacted asset action]]
-- [[mco-PQI-use|Product quality investigation]]
-- [[mco-corrective-action-form|Corrective action form]]

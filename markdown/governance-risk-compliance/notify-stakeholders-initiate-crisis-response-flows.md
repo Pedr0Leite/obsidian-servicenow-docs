@@ -34,7 +34,7 @@ Role required: BCM admin or BCM Program Manager
 
     -   **Declare a Crisis Event**
 
-        [[start-event|Start an event]] to activate the recovery tasks to recover the assets with a recovery team.
+        Start an event to activate the recovery tasks to recover the assets with a recovery team.
 
 4.  To notify a stakeholder of the impending crisis by an email, click the **Notify** button in the Notify Stakeholders card.
 
@@ -64,7 +64,7 @@ Role required: BCM admin or BCM Program Manager
 
     When you trigger these actions, separate scripts run to trigger the alert notify action and the declaration of the crisis event. A message appears to confirm that your actions are executed. You can navigate to the **Response Tasks** tab to view the action and recovery event details.
 
-    All the assets at risk are copied over to the [[event-assets|Event Assets]] table \[sn\_recovery\_event\_asset\] related to the event \[sn\_recovery\_event\].
+    All the assets at risk are copied over to the Event Assets table \[sn\_recovery\_event\_asset\] related to the event \[sn\_recovery\_event\].
 
     \[Omitted image "DeclareCrisis.png"\] Alt text: Event details of a crisis event.
 
@@ -73,12 +73,8 @@ Role required: BCM admin or BCM Program Manager
 
 1.  If it is a recovery event, click anywhere on the Response Tasks card to take you to the event details.
 2.  In the **Details** tab of the event, update the details if required.
-3.  Click the **Start Event** button. The event for the crisis is then activated. All the associated plans for this recovery event and the tasks associated with it are set into action. The Crisis Management workflow begins to recover the impacted assets. For more information, see [[manage-crisis-event|Manage a crisis event]].
+3.  Click the **Start Event** button. The event for the crisis is then activated. All the associated plans for this recovery event and the tasks associated with it are set into action. The Crisis Management workflow begins to recover the impacted assets. For more information, see [Manage a crisis event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/manage-crisis-event.md).
 
     All the assets at risk are copied over to the Event Assets table \[sn\_recovery\_event\_asset\] related to the event \[sn\_recovery\_event\].
 
-## Related
 
-- [[manage-crisis-event|Manage a crisis event]]
-- [[start-event|Start an event]]
-- [[event-assets|Event assets]]

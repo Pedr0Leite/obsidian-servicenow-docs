@@ -20,7 +20,7 @@ Role required: sn\_oper\_res.manager
 
 ## About this task
 
-Beginning with [[grc-opres-landing-page|Operational Resilience]], Release 21.0.x, records in the Services, Business services, Offerings, Business processes, and Application services modules feature a vertical layout.
+Beginning with Operational Resilience, Release 21.0.x, records in the Services, Business services, Offerings, Business processes, and Application services modules feature a vertical layout.
 
 ## Procedure
 
@@ -32,12 +32,8 @@ Beginning with [[grc-opres-landing-page|Operational Resilience]], Release 21.0.x
     -   Business Services
     -   Service Offerings
     -   Business Process
-2.  To add a service offering to the Operational Resilience application, select **New** in the Service offerings [[list-view-uib-ws|list view]] and fill in the details regarding the service offering on the [[create-new-offering-form|Create New Offering form]].
+2.  To add a service offering to the Operational Resilience application, select **New** in the Service offerings list view and fill in the details regarding the service offering on the [Create New Offering form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-new-offering-form.md).
 
 3.  Select **Save**.
 
-## Related
 
-- [[create-new-offering-form|Create New Offering form]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[list-view-uib-ws|List view]]

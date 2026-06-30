@@ -14,7 +14,7 @@ breadcrumb: [Configuring CI metrics for MECM, Setting up investigation framework
 
 # Configure remedial action - Restart Service
 
-Configure the Restart Service [[remedial-action|remedial action]] for Microsoft Endpoint Configuration Manager for Investigation \(MECM\).
+Configure the Restart Service remedial action for Microsoft Endpoint Configuration Manager for Investigation \(MECM\).
 
 ## Before you begin
 
@@ -56,6 +56,3 @@ Role required: sn\_cimaf.sn\_cimaf\_admin
 
 **Parent Topic:**[Configuring CI metrics for Microsoft Endpoint Configuration Manager for Investigation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/config-ci-metrics-mecm-adapter.md)
 
-## Related
-
-- [[remedial-action|Remedial action]]

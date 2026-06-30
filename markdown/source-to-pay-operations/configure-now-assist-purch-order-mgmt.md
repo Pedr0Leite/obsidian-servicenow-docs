@@ -12,7 +12,7 @@ breadcrumb: [Now Assist for POM, Purchase Order Management, Source-to-Pay Operat
 
 # Configure Now Assist for Purchase Order Management \(POM\)
 
-If you have the admin role, you can configure the Now Assist for Purchase Order Management \(POM\) application so that an operational buyer or a [[supplier|supplier]] can use the generative AI skills in [[purchase-order-mgmt-landing-page|Purchase Order Management]].
+If you have the admin role, you can configure the Now Assist for Purchase Order Management \(POM\) application so that an operational buyer or a supplier can use the generative AI skills in Purchase Order Management.
 
 ## Before you begin
 
@@ -24,21 +24,13 @@ Role required: admin
 
 1.  Install the Now Assist for POM plugin \(sn\_poem\_gen\_ai\).
 
-    -   For information about the plugin dependencies and plugin activation order, see [[supporting-information-na-pom|Supporting information for Now Assist for Purchase Order Management \(POM\)]].
+    -   For information about the plugin dependencies and plugin activation order, see [Supporting information for Now Assist for Purchase Order Management \(POM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supporting-information-na-pom.md).
     -   For information about the installation process, see [Install Now Assist plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md).
 2.  Review the define PO exception mitigation strategy agentic workflow in AI Agenti Studio.
 
 
--   **[[activate-poe-mitigation-strategy-workflow|Review the define PO exception mitigation strategy workflow]]**  
-Review the define PO exception mitigation strategy agentic workflow that uses Now Assist agentic support to [[mitigation-strategies-for-po-exceptions|identify and execute mitigation strategies for purchase order exceptions]].
+-   **[Review the define PO exception mitigation strategy workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/activate-poe-mitigation-strategy-workflow.md)**  
+Review the define PO exception mitigation strategy agentic workflow that uses Now Assist agentic support to identify and execute mitigation strategies for purchase order exceptions.
 
-**Parent Topic:**[[now-assist-for-purch-order-magmt|Now Assist for Purchase Order Management \(POM\)]]
+**Parent Topic:**[Now Assist for Purchase Order Management \(POM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-purch-order-magmt.md)
 
-## Related
-
-- [[supporting-information-na-pom|Supporting information for Now Assist for Purchase Order Management \(POM\)]]
-- [[activate-poe-mitigation-strategy-workflow|Review the define PO exception mitigation strategy workflow]]
-- [[now-assist-for-purch-order-magmt|Now Assist for Purchase Order Management \(POM\)]]
-- [[supplier|Supplier]]
-- [[purchase-order-mgmt-landing-page|Purchase Order Management]]
-- [[mitigation-strategies-for-po-exceptions|Identify and execute mitigation strategies for purchase order exceptions]]

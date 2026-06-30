@@ -64,7 +64,7 @@ Description
 
 Brief summary of the business outcomes that your voice assistant targets.
 
- Example for the HR Service Desk: HR service desk to help resolve employee requests and [[inquiries|inquiries]].
+ Example for the HR Service Desk: HR service desk to help resolve employee requests and inquiries.
 
 </td></tr><tr><td>
 
@@ -81,7 +81,7 @@ Add tags to track analytics for the voice assistant. For example, HR.Adding or r
 
 4.  Add one or more AI voice agents to the voice assistant by selecting **Add from library** and select **Save and continue**.
 
-    **Note:** Adding AI agents is optional. If no AI agents are added, you can add them later by editing this assistant. The assistant will be inactive. Select **Add from library** to add an existing agent, or select **Create** to create a new one. See [[create-a-voice-enabled-ai-agent|Create an AI voice agent]] for more information.
+    **Note:** Adding AI agents is optional. If no AI agents are added, you can add them later by editing this assistant. The assistant will be inactive. Select **Add from library** to add an existing agent, or select **Create** to create a new one. See [Create an AI voice agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/create-a-voice-enabled-ai-agent.md) for more information.
 
 5.  Select a voice personality.
 
@@ -141,11 +141,11 @@ Add tags to track analytics for the voice assistant. For example, HR.Adding or r
 
     1.  Select the **Telephony provider** tab to connect the voice assistant to a phone network.
 
-        Select a communication channel type from the **Communication channel** dropdown, then select a CCaaS provider and configure the required fields. For more information, see [[integrating-voice-service-with-ccaas-providers|Integrating voice assistant with CCaaS provider]].
+        Select a communication channel type from the **Communication channel** dropdown, then select a CCaaS provider and configure the required fields. For more information, see [Integrating voice assistant with CCaaS provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/integrating-voice-service-with-ccaas-providers.md).
 
     2.  Select the **Web Real-Time Communication \(WebRTC\)** tab to connect the voice assistant to mobile and external applications.
 
-        Select **Mobile applications** to configure ServiceNow applications such as chat launcher functions, voice launcher functions, and prominent action button overrides. You can also configure external applications. For more information, see [[integrate-voice-assistant-with-mobile-app-voice-launcher|Integrate voice assistant with mobile app voice launcher]].
+        Select **Mobile applications** to configure ServiceNow applications such as chat launcher functions, voice launcher functions, and prominent action button overrides. You can also configure external applications. For more information, see [Integrate voice assistant with mobile app voice launcher](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/integrate-voice-assistant-with-mobile-app-voice-launcher.md).
 
     3.  Select **Save and continue**.
 
@@ -217,7 +217,7 @@ Add tags to track analytics for the voice assistant. For example, HR.Adding or r
         -   Mobile channel requires a record producer as fallback option.
         -   **Connect to live agent** option. When selected, this option redirects the caller to a live agent. You must set up live agent transfer for your telephony provider separately.
 
-            **Note:** You can enable the **Capture details before live agent handoff** option, in which the voice agent [[ai-prompts|prompts]] the caller to provide details in order to triage the call to the appropriate live agent.
+            **Note:** You can enable the **Capture details before live agent handoff** option, in which the voice agent prompts the caller to provide details in order to triage the call to the appropriate live agent.
 
         -   **Generate a ticket with record producer** option. When selected, this option creates a ticket for further tracking.
 
@@ -261,13 +261,5 @@ Add tags to track analytics for the voice assistant. For example, HR.Adding or r
 
 ## What to do next
 
-Test the execution of your AI voice agent by manually calling in the telephony number to see if the AI voice agent functions the way you defined it. Review the transcript and logs for troubleshooting and improving the conversational experience of users. See [[voice-agent-reference|AI voice agent transcript and logs tables]] for information on the tables containing transcript and logs.
+Test the execution of your AI voice agent by manually calling in the telephony number to see if the AI voice agent functions the way you defined it. Review the transcript and logs for troubleshooting and improving the conversational experience of users. See [AI voice agent transcript and logs tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/voice-agent-reference.md) for information on the tables containing transcript and logs.
 
-## Related
-
-- [[create-a-voice-enabled-ai-agent|Create an AI voice agent]]
-- [[integrating-voice-service-with-ccaas-providers|Integrating voice assistant with CCaaS provider]]
-- [[integrate-voice-assistant-with-mobile-app-voice-launcher|Integrate voice assistant with mobile app launcher]]
-- [[voice-agent-reference|AI voice agent reference]]
-- [[inquiries|Inquiries]]
-- [[ai-prompts|Prompts]]

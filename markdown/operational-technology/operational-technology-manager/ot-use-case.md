@@ -14,7 +14,7 @@ breadcrumb: [Implementing the CSDM framework for Operational Technology, Configu
 
 # Operational Technology and CSDM tables
 
-[[operational-technology-overview|Operational Technology]] manages and uses CSDM tables. Several ServiceNow products benefit from and add value to Operational Technology.
+Operational Technology manages and uses CSDM tables. Several ServiceNow products benefit from and add value to Operational Technology.
 
 ## CSDM tables managed by Operational Technology
 
@@ -43,7 +43,7 @@ The numbers in this figure correspond to the CSDM tables managed by Incident Man
     1.  The equipment model entity class extends the Calculated Application Service and is used to:
         1.  Represent the site of any OT device or equipment model entity. A record in the Equipment Model Entity table \(cmdb\_ci\_ot\_isa\_entity\) without a parent is considered a site.
         2.  Represent the ISA equipment model entity for a part of the production process.
-    2.  You can use [[equipment-model-templates|equipment model templates]] \(isa\_entity\_template\) to further describe the relationships between equipment model entities found in an industrial environment.
+    2.  You can use equipment model templates \(isa\_entity\_template\) to further describe the relationships between equipment model entities found in an industrial environment.
         1.  Levels \(isa\_entity\_level\) describe the hierarchical level of the equipment model entity. For the default ISA-95 template, the levels shown here \(area, work center, and work units\) are included in the base system.
         2.  Level types \(isa\_entity\_type\) describe the type of process represented by the equipment model entities at a given level. For the default ISA-95 template, the types shown here \(process cell, production unit, production line, and storage zone\) are included in the base system.
 
@@ -76,31 +76,31 @@ When you use OT with any of the following ServiceNow products, you increase the 
 
 -   **Discovery for Operational Technology**
 
-    Discovery for Operational Technology provides details about IT-classed hardware and software CIs and can be configured to provide additional OT device context like Purdue Level and Site on a per-OT schedule basis. Discovery for OT is part of the [[operational-technology-manager|Operational Technology Manager]] product.
+    Discovery for Operational Technology provides details about IT-classed hardware and software CIs and can be configured to provide additional OT device context like Purdue Level and Site on a per-OT schedule basis. Discovery for OT is part of the Operational Technology Manager product.
 
--   **[[industrial-process-manager-overview|Industrial Process Manager]]**
+-   **Industrial Process Manager**
 
-    When OT devices are assigned to an equipment model entity, **automated by::automates** relationships are created between them. This can be done manually in the [[industrial-workspace-for-operational-technology|Industrial Workspace]] or using the relationship between OT subnets and equipment model entities using the Automatic Mapping Across Zone-based IP Network Groups \(AMAZING\) feature in the OT Subnet Mapping menu item.
+    When OT devices are assigned to an equipment model entity, **automated by::automates** relationships are created between them. This can be done manually in the Industrial Workspace or using the relationship between OT subnets and equipment model entities using the Automatic Mapping Across Zone-based IP Network Groups \(AMAZING\) feature in the OT Subnet Mapping menu item.
 
--   **[[oper-tech-vulnerability-response-landing-page|Operational Technology Vulnerability Response]]**
+-   **Operational Technology Vulnerability Response**
 
     When vulnerable item \(VIT\) records are created by importing records from an OT-certified integration with a third-party security platform, OT devices are associated with the VIT. This enables both of the following capabilities:
 
     -   Risk calculation based on the criticality of the mapped equipment model entity.
     -   Assignment of VITs to the appropriate local team for remediation via site-based assignment groups.
--   **[[operational-technology-incident-management-landing-page|Operational Technology Incident Management]]**
+-   **Operational Technology Incident Management**
 
     Incident Management for OT runs separately from IT for most OT devices. OT incident records enable site-based access and views to issues that are related to OT devices.
 
--   **[[operational-technology-change-management-landing-page|Operational Technology Change Management]]**
+-   **Operational Technology Change Management**
 
     OT change requests enable changes to OT devices or industrial equipment configurations.
 
--   **[[operational-technology-knowledge-management-landing-page|Operational Technology Knowledge Management]]**
+-   **Operational Technology Knowledge Management**
 
     Operational Technology Knowledge Management enables you to capture information about your OT system in knowledge articles that are related to OT incidents.
 
--   **[[operational-technology-request-management-landing-page|Operational Technology Request Management]]**
+-   **Operational Technology Request Management**
 
     Enables you to access the OT Service Catalog to request OT catalog items and fulfill them based on the defined flows. OT workers can then create and submit an OT request from a catalog item, which helps provide a consistent experience and facilitates cross-functional requests.
 
@@ -121,7 +121,7 @@ When you use OT with any of the following ServiceNow products, you increase the 
 
 -   **Governance, Risk, and Compliance \(GRC\)**
 
-    Auditors can better leverage production process flows and [[mpm-related-information|related Information]] objects. This helps auditors understand the design-time data sensitivity for scoping audits, measuring risks, and managing audit activities.
+    Auditors can better leverage production process flows and related Information objects. This helps auditors understand the design-time data sensitivity for scoping audits, measuring risks, and managing audit activities.
 
 -   **Asset Management**
 
@@ -130,16 +130,3 @@ When you use OT with any of the following ServiceNow products, you increase the 
 
 **Parent Topic:**[Implementing the CSDM framework for Operational Technology](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/ot-use-case-product-view.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[equipment-model-templates|Equipment model templates]]
-- [[operational-technology-manager|Operational Technology Manager]]
-- [[industrial-process-manager-overview|Industrial Process Manager]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[oper-tech-vulnerability-response-landing-page|Operational Technology Vulnerability Response]]
-- [[operational-technology-incident-management-landing-page|Operational Technology Incident Management]]
-- [[operational-technology-change-management-landing-page|Operational Technology Change Management]]
-- [[operational-technology-knowledge-management-landing-page|Operational Technology Knowledge Management]]
-- [[operational-technology-request-management-landing-page|Operational Technology Request Management]]
-- [[mpm-related-information|Related information]]

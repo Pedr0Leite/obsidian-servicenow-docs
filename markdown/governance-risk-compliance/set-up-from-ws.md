@@ -12,7 +12,7 @@ breadcrumb: [Setting up pillars, entity types, entity filters, and entities, Con
 
 # Set up pillars and entity types from Workspace UI
 
-Set up the pillars and [[entity-type-in-risk-ws|entity types]] from the [[grc-opres-landing-page|Operational Resilience]] Workspace UI. You must activate the pillars first and then activate the entity types. If you prefer the classic experience, you can navigate to the module using the Admin setup in the Core UI.
+Set up the pillars and entity types from the Operational Resilience Workspace UI. You must activate the pillars first and then activate the entity types. If you prefer the classic experience, you can navigate to the module using the Admin setup in the Core UI.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_oper\_res.admin, sn\_oper\_res.manager
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **Operational Resilience Workspace** and select **Setup****Pillars** from the [[list-view-uib-ws|List view]].
+1.  Navigate to **Workspaces** &gt; **Operational Resilience Workspace** and select **Setup****Pillars** from the List view.
 
     The list of pillars available with the base system are shown in the example. All pillars are shipped in the inactive state.
 
@@ -81,7 +81,7 @@ The supporting pillars are listed: -   Application Services
 
     1.  Select the pillar that you want to activate.
 
-        For more information on the fields in the form, see [[pillars-reference|GRC Choices form]].
+        For more information on the fields in the form, see [GRC Choices form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/pillars-reference.md).
 
     2.  Select the Active check box.
 
@@ -107,7 +107,7 @@ The supporting pillars are listed: -   Application Services
 
     3.  Activate an entity type by selecting and opening its record.
 
-        For more information on the fields in the form, see [[entity-type-reference|Entity type New record form]].
+        For more information on the fields in the form, see [Entity type New record form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/entity-type-reference.md).
 
         The example shows the entity types that are set up in the instance.
 
@@ -133,7 +133,7 @@ The supporting pillars are listed: -   Application Services
 
     1.  From Entity types view, select **New**.
 
-        The example shows how to [[create-new-entity-type-ws|create an entity type]].
+        The example shows how to create an entity type.
 
         \[Omitted image "ent-type-create-new.png"\] Alt text: How to create an entity type.
 
@@ -154,14 +154,5 @@ The supporting pillars are listed: -   Application Services
 
 ## What to do next
 
-Once pillars and entity types are set up from the Workspace UI, configure the entity filters. For more information, see [[conf-ent-filter|Configure the entity filters]].
+Once pillars and entity types are set up from the Workspace UI, configure the entity filters. For more information, see [Configure the entity filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/conf-ent-filter.md).
 
-## Related
-
-- [[pillars-reference|GRC Choices form]]
-- [[entity-type-reference|Entity type New record form]]
-- [[conf-ent-filter|Configure the entity filters]]
-- [[entity-type-in-risk-ws|Entity types]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[list-view-uib-ws|List view]]
-- [[create-new-entity-type-ws|Create an entity type]]

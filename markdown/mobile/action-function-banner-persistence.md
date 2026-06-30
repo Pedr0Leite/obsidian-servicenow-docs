@@ -28,13 +28,13 @@ Only one banner message is displayed at a time. Newer banner messages replace ex
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application sope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select **Functions** from the menu.
 
@@ -63,7 +63,3 @@ A banner remains on the screen until the user actively dismisses it.
 
 \[Omitted image "banner-persistence.png"\] Alt text: Mobile screen with banner displayed awaiting user to tap the dismiss button.
 
-## Related
-
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]

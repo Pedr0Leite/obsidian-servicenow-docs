@@ -14,17 +14,17 @@ breadcrumb: [Discovery Operations Monitor dashboard, Discovery Admin Workspace I
 
 # Configure the date range for a visualization
 
-Update the data time frame for individual visualizations on the [[disco-operations-monitor|Discovery Operations Monitor dashboard]]. By default, each visualization displays data from the last 7 days. You can extend the time frame up to 30 days, which is the maximum data retention period for this dashboard.
+Update the data time frame for individual visualizations on the Discovery Operations Monitor dashboard. By default, each visualization displays data from the last 7 days. You can extend the time frame up to 30 days, which is the maximum data retention period for this dashboard.
 
 ## Before you begin
 
-Verify you're [[using-discovery|using Discovery]] Admin Workspace v1.15.0 or later.
+Verify you're using Discovery Admin Workspace v1.15.0 or later.
 
-Role required: [[r-discovery|discovery]]\_admin
+Role required: discovery\_admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[discovery-admin-workspace|Discovery Admin Workspace]]** &gt; **Insights** &gt; **Discovery Operations Monitor**.
+1.  Navigate to **Workspaces** &gt; **Discovery Admin Workspace** &gt; **Insights** &gt; **Discovery Operations Monitor**.
 
 2.  Select **Edit**.
 
@@ -58,9 +58,3 @@ Role required: [[r-discovery|discovery]]\_admin
 
 [Common dashboard tasks in the in-line editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/common-dashboard-tasks.md)
 
-## Related
-
-- [[disco-operations-monitor|Discovery Operations Monitor dashboard]]
-- [[using-discovery|Using Discovery]]
-- [[r-discovery|Discovery]]
-- [[discovery-admin-workspace|Discovery Admin Workspace]]

@@ -14,7 +14,7 @@ breadcrumb: [Creating employee communications, Authoring and managing employee c
 
 # News articles
 
-The News article content type combines content creation features from the Rich Content Editor with new publishing methods that enable high volume content publishing to the portal and [[mobile-employee-experience|Now Mobile app]] to keep employees updated on company news and announcements.
+The News article content type combines content creation features from the Rich Content Editor with new publishing methods that enable high volume content publishing to the portal and Now Mobile app to keep employees updated on company news and announcements.
 
 ## News articles in the employee portal
 
@@ -41,7 +41,7 @@ Review the following graphic to understand how employees see and interact with t
 
 ## Searching for news articles
 
-When employees enter a keyword in the global search bar, [[employee-center-landing-page|Employee Center]] uses AI Search to return published news articles containing that keyword in the heading, subheading, article content, or category.
+When employees enter a keyword in the global search bar, Employee Center uses AI Search to return published news articles containing that keyword in the heading, subheading, article content, or category.
 
 \[Omitted image "ec-news-search.png"\] Alt text: Searching for by keyword "employee" returns a news article with the term in the article content
 
@@ -49,11 +49,11 @@ AI Search returns additional results based on user roles:
 
 -   Users with either the system admin or content admin role can see unpublished content.
 -   For users with content approver roles, search results might include content for which they are not the audience. However, they cannot view the content unless they are part of the configured audience.
--   For users with content admin or content manager roles, search results shouldn't include content \(such as news, [[ec-company-events|company events]] or rich content\) in AI search results if they don't meet the scheduled availability window, or for which they are not the configured audience.
+-   For users with content admin or content manager roles, search results shouldn't include content \(such as news, company events or rich content\) in AI search results if they don't meet the scheduled availability window, or for which they are not the configured audience.
 
 ## Employee engagement with news articles
 
-[[ec-content-engagement|Content engagement]] enhances news articles by providing users with a way to comment and react to articles and for managers to measure the effectiveness of their content using engagement metrics. For more information, see [Content engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-engagement.md)
+Content engagement enhances news articles by providing users with a way to comment and react to articles and for managers to measure the effectiveness of their content using engagement metrics. For more information, see [Content engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-engagement.md)
 
 **Note:** Some news articles and news and events might also be viewable on the event calendar widget. The calendar display provides a view of news feeds or new widgets, indicating days with scheduled events by date. The calendar view also provides the option to select a specific day and view a list of news-related events and feeds.
 
@@ -65,7 +65,7 @@ The Now Mobile app features the News center screen, which displays the same News
 
 \[Omitted image "ec-news-mobile.png"\] Alt text: Now Mobile app home page has a section for Featured news and the News Center screen
 
-For information on the Now Mobile app user experience, see [News in Now Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/news-ec-mobile.md). For information on [[ec-content-publish-news-articles|publishing news articles]], see [Create a publish plan for your content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-library-publish2.md).
+For information on the Now Mobile app user experience, see [News in Now Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/news-ec-mobile.md). For information on publishing news articles, see [Create a publish plan for your content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-library-publish2.md).
 
 ## Organizing news articles
 
@@ -110,7 +110,7 @@ News and Event holds a Category list widget with links to the category pages. Wh
 </td></tr></tbody>
 </table>## Boosting News article production
 
-Content authors can increase their productivity by leveraging [[ec-content-templates|content templates]] to produce large volumes of News articles. A user with the sn\_cd.content\_template\_owner role first creates a content template to define the article layout, publishing location, and audience. When a content author creates a new article, they can associate the news article to a content template to access a pre-built template and auto-generated publish plans.
+Content authors can increase their productivity by leveraging content templates to produce large volumes of News articles. A user with the sn\_cd.content\_template\_owner role first creates a content template to define the article layout, publishing location, and audience. When a content author creates a new article, they can associate the news article to a content template to access a pre-built template and auto-generated publish plans.
 
 For more information, see [Content templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-templates.md).
 
@@ -125,11 +125,3 @@ If you plan to customize the News and Events or Article details page, we recomme
 -   The Article details page widgets require a `sys_id` query string parameter with the sys\_id of the specific News Article.
 -   We recommend having a News Dataloader widget in the Article details page, and enabling the **Use Dataloader** option in the other widgets in the page. This facilitates data sharing between the widgets on the page, which reduce the page loading time.
 
-## Related
-
-- [[mobile-employee-experience|Now Mobile app]]
-- [[employee-center-landing-page|Employee Center]]
-- [[ec-company-events|Company events]]
-- [[ec-content-engagement|Content engagement]]
-- [[ec-content-publish-news-articles|Publishing news articles]]
-- [[ec-content-templates|Content templates]]

@@ -22,10 +22,10 @@ When responding to major incidents, an effective and efficient system is needed 
 -   Ensure that an appropriate incident manager, major incident team, or management group is in place to manage a major incident.
 -   Communicate to the stakeholders about the service interruptions, degradations, resolutions, and other major incident updates.
 -   Collaborate with stakeholders to resolve the major incident and restore service.
--   [[create-a-problem-v2|Create a problem]] record to analyze the root cause.
+-   Create a problem record to analyze the root cause.
 -   Generate a post incident report \(PIR\) to review each major incident once the service is restored.
 
-The [[major-incident-management-process|Major Incident Management process]] can be classified in the following phases.
+The Major Incident Management process can be classified in the following phases.
 
 -   **Major Incident identification and detection**
 
@@ -59,7 +59,3 @@ The [[major-incident-management-process|Major Incident Management process]] can 
 
 **Parent Topic:**[Major Incident Management in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/mim-in-sow.md)
 
-## Related
-
-- [[create-a-problem-v2|Create a problem]]
-- [[major-incident-management-process|Major Incident Management process]]

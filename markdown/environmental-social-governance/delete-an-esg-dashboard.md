@@ -37,8 +37,5 @@ Role required: sn\_esg.data\_owner, sn\_esg.metrics\_manager
     3.  Select the More actions icon \[Omitted image "more-menu.png"\] Alt text: and choose **Repair**.
     4.  Select **Repair** in the Activate Plugin window.
 
-**Parent Topic:**[[monitor-data-using-esg-dashboards|Monitoring assessment data using Operational Sustainability Management dashboards]]
+**Parent Topic:**[Monitoring assessment data using Operational Sustainability Management dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/monitor-data-using-esg-dashboards.md)
 
-## Related
-
-- [[monitor-data-using-esg-dashboards|Monitoring assessment data using Operational Sustainability Management dashboards]]

@@ -18,7 +18,7 @@ The MID Server integration with the CyberArk vault enables ServiceNow® Orchestr
 
 ## Introduction to CyberArk
 
-CyberArk Application [[identity-landing|Identity]] Management \(AIM\) product uses the Privileged Account Security solution to eliminate the need to store application passwords embedded in applications, scripts or [[sc-configuration|configuration]] files, and allows these highly sensitive passwords to be centrally stored, logged, and managed within the CyberArk vault. This approach enables organizations to comply with internal and regulatory requirements of periodic password replacement and to monitor activities associated with all types of privileged identities, whether on-premise or in the cloud.
+CyberArk Application Identity Management \(AIM\) product uses the Privileged Account Security solution to eliminate the need to store application passwords embedded in applications, scripts or configuration files, and allows these highly sensitive passwords to be centrally stored, logged, and managed within the CyberArk vault. This approach enables organizations to comply with internal and regulatory requirements of periodic password replacement and to monitor activities associated with all types of privileged identities, whether on-premise or in the cloud.
 
 The instance maintains a unique identifier for each credential, the credential type \(such as SSH, SNMP, or Windows\), and any credential affinities. The MID Server obtains the credential identifier, credential type, and IP address from the instance, and then uses the CyberArk vault to resolve these elements into a usable credential. The credential resolver can also look up the hostname, fqdn, and use reverse DNS lookup to get fqdn.
 
@@ -26,8 +26,8 @@ The CyberArk integration requires the ServiceNow® [External Credential Storage 
 
 ## Installed with CyberArk
 
--   **Business rule**: The [[c_ExternalCredentialStorage|External Credential Storage]] business rule performs the following tasks when an administrator makes any change to the external credential storage property:
-    -   Changes the view for the Credentials record list and form to the External Storage view. This view enables [[users|users]] to see the Credential ID column in the list.
+-   **Business rule**: The External Credential Storage business rule performs the following tasks when an administrator makes any change to the external credential storage property:
+    -   Changes the view for the Credentials record list and form to the External Storage view. This view enables users to see the Credential ID column in the list.
     -   Instructs the MID Server to refresh its non-external credentials cache in preparation for a change in the way that credentials are obtained.
 -   **System property**: A property called Enable External Credential Storage \[com.snc.use\_external\_credentials\] enables or disables the External Credential Storage plugin after it is activated. This property is located in **Discovery Definition** &gt; **Properties** and **Orchestration** &gt; **MID Server Properties**, and is enabled when you activate the plugin.
 
@@ -49,7 +49,7 @@ The CyberArk integration supports these ServiceNow credential types:
 -   SSH Private Key \(with key, pass phrase, and password\)
 -   VMware
 -   Windows
--   [[applicative-creds|Applicative Credentials]]
+-   Applicative Credentials
 
 **Note:** To use CyberArk integration with the GCP credential type, you must modify the external credential storage jar. For details see [ServiceNow GCP Credential Resolver using CyberArk](https://www.servicenow.com/community/itom-blog/servicenow-gcp-credential-resolver-using-cyberark/ba-p/2272452).
 
@@ -57,7 +57,7 @@ ServiceNow AI Platform features that use these network protocols also support th
 
 |Network protocol|ServiceNow® Workflow Studio support|Orchestration support|
 |----------------|-----------------------------------|---------------------|
-|SOAP|SOAP Step|[Create a SOAP web service activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateASOAPWebServiceActivity.md) with [[basic-authentication|basic authentication]] overrides|
+|SOAP|SOAP Step|[Create a SOAP web service activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateASOAPWebServiceActivity.md) with basic authentication overrides|
 |REST|REST Step|[Create a REST web service activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateARESTWebServiceActivity.md) with basic authentication overrides|
 |JDBC|JDBC Step|JDBC activity|
 |SSH|SSH Step|SSH activity|
@@ -94,11 +94,3 @@ These procedures include both CyberArk and ServiceNow configuration tasks, inclu
 
 **Parent Topic:**[External credential storage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/c_ExternalCredentialStorage.md)
 
-## Related
-
-- [[identity-landing|Identity]]
-- [[sc-configuration|Configuration]]
-- [[c_ExternalCredentialStorage|External credential storage]]
-- [[users|Users]]
-- [[applicative-creds|Applicative credentials]]
-- [[basic-authentication|Basic authentication]]

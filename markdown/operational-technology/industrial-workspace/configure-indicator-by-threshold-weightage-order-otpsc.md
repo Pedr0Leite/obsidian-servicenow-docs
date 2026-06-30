@@ -14,7 +14,7 @@ breadcrumb: [Setting up the Operational Technology Progress Scorecard, Configure
 
 # Configure an indicator by threshold, weightage, and order
 
-Configure the [[operational-technology-overview|Operational Technology]] \(OT\) Progress Scorecard indicators so that the display of each indicator meets your needs.
+Configure the Operational Technology \(OT\) Progress Scorecard indicators so that the display of each indicator meets your needs.
 
 ## Before you begin
 
@@ -36,7 +36,7 @@ You can configure the following indicators.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]] Admin** &gt; **OT Progress Scorecard Config**.
+1.  Navigate to **All** &gt; **Industrial Workspace Admin** &gt; **OT Progress Scorecard Config**.
 
 2.  Select the indicator you want to edit.
 
@@ -56,7 +56,3 @@ You can configure the following indicators.
 
 **Parent Topic:**[Setting up the Operational Technology Progress Scorecard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/setting-up-the-ot-progress-scorecard.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

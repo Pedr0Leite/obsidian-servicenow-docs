@@ -15,7 +15,7 @@ breadcrumb: [Using Accounts Payable Invoice Processing, Use, Accounts Payable Op
 
 # Rules based engine
 
-The rule-based engine maps the invoice line to [[purchase-order-lines|purchase order lines]] using fields such as unit price, delivered unit price, exact description, exact amount and amount round off.
+The rule-based engine maps the invoice line to purchase order lines using fields such as unit price, delivered unit price, exact description, exact amount and amount round off.
 
 The digitized invoice in accepted state moves to suspected duplicate state where the AP specialist verifies if the invoice is duplicate or not. When the invoice is confirmed to be not duplicate, the state of the invoice changes to received. The rules-based engine maps the fields in invoice such as unit price, derived unit price, exact description, exact amount and amount round off with the purchase order lines. If the invoice fields doesn't match with any of the fields in the purchase order lines, then the invoice state changes to matching error.
 
@@ -40,6 +40,3 @@ The digitized invoice in accepted state moves to suspected duplicate state where
 
 [View invoice documents in the Source-to-Pay Workspace]()
 
-## Related
-
-- [[purchase-order-lines|Purchase order lines]]

@@ -14,7 +14,7 @@ breadcrumb: [Recommended Actions for ITSM in Service Operations Workspace, Manag
 
 # Recommended Actions for ITSM reference
 
-[[reference-for-itsm-mobile-agent|Reference]] topics provide additional information about various form fields and components installed with Recommended Actions for ITSM.
+Reference topics provide additional information about various form fields and components installed with Recommended Actions for ITSM.
 
 -   **[Contexts in Recommended Actions for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/contexts-in-recommended-actions-for-itsm.md)**  
 The ITSM base system includes the following context.
@@ -31,6 +31,3 @@ ITSM base system includes the following resource generators.
 
 **Parent Topic:**[Recommended Actions for ITSM in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/recommended-actions-for-itsm-in-service-operations-workspace.md)
 
-## Related
-
-- [[reference-for-itsm-mobile-agent|Reference]]

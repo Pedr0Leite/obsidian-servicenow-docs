@@ -15,13 +15,13 @@ breadcrumb: [Calendar and schedule management, Working with Employee Slate capab
 
 # Configure the Upcoming Holiday widget
 
-Configure the Upcoming Holiday widget to display location-specific holidays on the [[emp-slate-home-page|Employee Slate home]] page. Populate the holiday calendar table and control widget visibility through the Admin Console.
+Configure the Upcoming Holiday widget to display location-specific holidays on the Employee Slate home page. Populate the holiday calendar table and control widget visibility through the Admin Console.
 
 ## Before you begin
 
 Before you configure the widget, verify the following prerequisites:
 
--   You have access to the [[employee-slate-landing-page|Employee Slate]] Admin Console.
+-   You have access to the Employee Slate Admin Console.
 -   Employee work locations are defined in user records.
 -   You have the necessary permissions to modify the holiday calendar table.
 
@@ -75,7 +75,3 @@ The Upcoming Holiday widget displays the next relevant holiday based on the work
 
 The Upcoming Holiday widget displays location-specific holidays on the Employee Slate home page. Employees see the next relevant holiday based on their work location, with automatic fallback to the default location when needed.
 
-## Related
-
-- [[emp-slate-home-page|Employee Slate home]]
-- [[employee-slate-landing-page|Employee Slate]]

@@ -191,10 +191,7 @@ Domain that the action or activity runs in.
 
 ## Result
 
-The Microsoft Exchange Online spoke is set up and integrated with the [[walkup-experience-landing-page|Walk-up Experience]] instance.
+The Microsoft Exchange Online spoke is set up and integrated with the Walk-up Experience instance.
 
 **Parent Topic:**[Set up Microsoft Office 365 integration for Walk-up Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/setup-walkup-msoffice365-cal-integ.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]

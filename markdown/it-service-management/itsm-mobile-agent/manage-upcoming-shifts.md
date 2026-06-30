@@ -14,7 +14,7 @@ breadcrumb: [Managing teams and incidents using My Team applet, ITSM Mobile Agen
 
 # Manage upcoming shifts with On-Call Scheduling
 
-As an [[c_OnCallScheduling|On-Call Scheduling]] manager, view your team's schedule and perform activities like approving time-off requests and providing coverage.
+As an On-Call Scheduling manager, view your team's schedule and perform activities like approving time-off requests and providing coverage.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: rota\_manager
 
 ## Procedure
 
-1.  Open the [[itsm-mobile-agent|ITSM Mobile Agent]] app and tap **My team**.
+1.  Open the ITSM Mobile Agent app and tap **My team**.
 
 2.  On the **On-call Schedule** tab, tap **Upcoming shifts**.
 
@@ -51,7 +51,4 @@ Role required: rota\_manager
 
 9.  In **Upcoming shifts**, swipe the shift card to the left and tap **Provide Coverage** to go to the Provide Coverage form.
 
-## Related
 
-- [[c_OnCallScheduling|On-Call Scheduling]]
-- [[itsm-mobile-agent|ITSM Mobile Agent]]

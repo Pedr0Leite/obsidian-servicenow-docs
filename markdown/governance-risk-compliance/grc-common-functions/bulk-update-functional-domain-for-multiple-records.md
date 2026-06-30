@@ -22,7 +22,7 @@ Role required: sn\_grc.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **GRC [[Administration|Administration]]** &gt; **Functional domains** &gt; **Domain bulk update**.
+1.  Navigate to **All** &gt; **GRC Administration** &gt; **Functional domains** &gt; **Domain bulk update**.
 
 2.  Select the table for which you want to update functional domain.
 
@@ -33,6 +33,3 @@ Role required: sn\_grc.admin
 
 **Parent Topic:**[Tagging records with functional domain](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/tagging-records-with-functional-domain.md)
 
-## Related
-
-- [[Administration|Administration]]

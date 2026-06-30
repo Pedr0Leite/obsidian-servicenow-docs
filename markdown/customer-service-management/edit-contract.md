@@ -12,7 +12,7 @@ breadcrumb: [Related list for an install base item, Create an install base item,
 
 # Edit a contract
 
-Enable an agent or manager to edit an open contract that is related to the parent install base item in the [[c_CustomerServiceManagement|Customer Service Management]] application.
+Enable an agent or manager to edit an open contract that is related to the parent install base item in the Customer Service Management application.
 
 ## Before you begin
 
@@ -34,6 +34,4 @@ The Contracts related list provides a list of all the contracts that are related
 
 4.  Select **Save**.
 
-## Related
 
-- [[c_CustomerServiceManagement|Customer Service Management]]

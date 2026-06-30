@@ -14,7 +14,7 @@ breadcrumb: [Inbound staging tables Sourcing Procurement, Inbound staging tables
 
 # Invoice inbound staging table
 
-The Invoice inbound \[sn\_shop\_invoice\] staging table temporarily stores important data about shopping [[invoices|invoices]] before this data is sent to the primary table.
+The Invoice inbound \[sn\_shop\_invoice\] staging table temporarily stores important data about shopping invoices before this data is sent to the primary table.
 
 ## Invoice inboumd staging table
 
@@ -90,11 +90,11 @@ String
 
 </td><td>
 
-Unique number generated within the ERP system for the [[purchase-order-table|purchase order]].
+Unique number generated within the ERP system for the purchase order.
 
 </td></tr><tr><td>
 
-[[erp-source|ERP source]]
+ERP source
 
 </td><td>
 
@@ -202,7 +202,7 @@ Type of the invoice for processing.
 
 </td></tr><tr><td>
 
-[[legal-entity|Legal entity]]
+Legal entity
 
 </td><td>
 
@@ -210,7 +210,7 @@ String
 
 </td><td>
 
-Name of the legal entity of the [[supplier|supplier]].
+Name of the legal entity of the supplier.
 
 </td></tr><tr><td>
 
@@ -238,7 +238,7 @@ Other additional charges associated with the invoice.This is a mandatory field.
 
 </td></tr><tr><td>
 
-[[payment-terms|Payment terms]]
+Payment terms
 
 </td><td>
 
@@ -638,11 +638,3 @@ A unique identifier for external data imports.
 
 [Unit of Measure inbound staging table]()
 
-## Related
-
-- [[invoices|Invoices]]
-- [[purchase-order-table|Purchase order]]
-- [[erp-source|ERP source]]
-- [[legal-entity|Legal entity]]
-- [[supplier|Supplier]]
-- [[payment-terms|Payment terms]]

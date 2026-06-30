@@ -15,7 +15,7 @@ breadcrumb: [Domain separation, Configure, Now Assist for CSM, Customer Service 
 
 # Create a domain by creating an account for Now Assist for Customer Service Management \(CSM\)
 
-Create a domain by creating an account in the account table in the [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) application. By creating an account, you also create a domain. If you have the admin role, you can create multiple domains by creating different accounts as needed.
+Create a domain by creating an account in the account table in the Customer Service Management \(CSM\) application. By creating an account, you also create a domain. If you have the admin role, you can create multiple domains by creating different accounts as needed.
 
 ## Before you begin
 
@@ -90,6 +90,3 @@ When creating a domain, follow these general guidelines:
 
 To change the domain hierarchy, go to the Contains Domains related list. Select the domain records that are the child \(contained\) domains of the contained relationship.
 
-## Related
-
-- [[c_CustomerServiceManagement|Customer Service Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Search application configurations, Configuring AI Search, AI Search
 
 # Search result sort options in AI Search application configurations
 
-A search result sort option enables users to display search [[hs-results|results]] in an order determined by their field values. Applying a search result sort option overrides the default [[ia-ai-search|AI Search]] relevancy-based result order. You can define custom search result sort options for your AI Search applications.
+A search result sort option enables users to display search results in an order determined by their field values. Applying a search result sort option overrides the default AI Search relevancy-based result order. You can define custom search result sort options for your AI Search applications.
 
 When sorting search results on a string field, AI Search uses collation-based sort following the rules for the ServiceNow AI Platform® session language.
 
@@ -46,7 +46,7 @@ The sort menu in an AI Search application displays all active search result sort
 
 3.  In the Sort Options related list, select **New**.
 
-4.  On the [[sort-option-form-ais|Sort Option form]], fill in the fields.
+4.  On the Sort Option form, fill in the fields.
 
     For a description of the field values, see [Sort Option form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/sort-option-form-ais.md).
 
@@ -84,8 +84,3 @@ The selected search result sort option no longer appears in the search applicati
 
 **Note:** If no search result sort options are active for an AI Search application, the sort menu no longer displays for users of that application and results are automatically sorted by relevance.
 
-## Related
-
-- [[hs-results|Results]]
-- [[ia-ai-search|AI Search]]
-- [[sort-option-form-ais|Sort Option form]]

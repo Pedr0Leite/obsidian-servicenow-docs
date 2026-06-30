@@ -51,7 +51,7 @@ Role required:
 
 10. In Action 10, since there was no valid business justification, you can forward the malicious file or hash to the Threat Intel Team for review.
 
-11. In Action 11, you need to run the [[threat-intelligence-malware|Malware]] bytes scanner script to check if the file or hash is malicious.
+11. In Action 11, you need to run the Malware bytes scanner script to check if the file or hash is malicious.
 
 12. In Action 12, you need to perform a Forensic Analysis to check if the file or hash is malicious.
 
@@ -65,6 +65,3 @@ Role required:
 
 [Set up the Office Malicous File Detected playbook]()
 
-## Related
-
-- [[threat-intelligence-malware|Malware]]

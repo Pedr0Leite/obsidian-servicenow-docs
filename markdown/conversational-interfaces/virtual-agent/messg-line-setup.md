@@ -14,7 +14,7 @@ breadcrumb: [Configure, Conversational Integration with LINE, Integrate VA with 
 
 # Set up Conversational Integration with LINE
 
-Set up the [[messg-line|Conversational Integration with LINE]] application so that you can engage customers in conversations with bots.
+Set up the Conversational Integration with LINE application so that you can engage customers in conversations with bots.
 
 ## Before you begin
 
@@ -54,7 +54,7 @@ The LINE messaging app supports only one LINE channel for a ServiceNow instance.
 
         You specify the webhook URL in the **Webhook URL** field on the Messaging API tab of the LINE Developers Console. Use the following format for the URL: `https://<instance-name>.service-now.com/api/sn_va_line/va_adapter_line`.
 
-2.  On your ServiceNow® instance, go to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Channels and Integrations**.
+2.  On your ServiceNow® instance, go to **All** &gt; **Conversational Interfaces** &gt; **Channels and Integrations**.
 
 3.  On the LINE integration section, click **Manage**.
 
@@ -70,7 +70,4 @@ The LINE messaging app supports only one LINE channel for a ServiceNow instance.
 
     A success message displays confirming the integration with the LINE app.
 
-## Related
 
-- [[messg-line|Conversational Integration with LINE]]
-- [[convint-landing-page|Conversational Interfaces]]

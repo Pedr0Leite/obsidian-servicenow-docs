@@ -14,7 +14,7 @@ breadcrumb: [Project workspace classic - Legacy, Project Portfolio Management, S
 
 # Access the classic Project Workspace
 
-Open the [[project-workspace-landing-page|project workspace]] to display all your projects at a single location.
+Open the project workspace to display all your projects at a single location.
 
 **Important:**
 
@@ -39,6 +39,3 @@ Role required: it\_project\_user or it\_project\_manager
 
 **Parent Topic:**[Project workspace classic - Legacy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/project-workspace-classic.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]

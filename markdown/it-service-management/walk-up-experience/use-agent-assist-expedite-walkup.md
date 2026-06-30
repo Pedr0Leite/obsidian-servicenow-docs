@@ -14,7 +14,7 @@ breadcrumb: [Manage Walk-up Experience queue and interaction, Walk-up Experience
 
 # Use Agent Assist to expedite Walk-up Experience fulfillment
 
-[[walkup-experience-landing-page|Walk-up Experience]] agents can use the Agent Assist feature in Agent Workspace to expedite incidents and requests.
+Walk-up Experience agents can use the Agent Assist feature in Agent Workspace to expedite incidents and requests.
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ Agent Assist is a contextual search option available in Agent Workspace when a w
 
 **Parent Topic:**[Manage Walk-up Experience queue and interaction](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/use-walkup-to-manage-demand.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]

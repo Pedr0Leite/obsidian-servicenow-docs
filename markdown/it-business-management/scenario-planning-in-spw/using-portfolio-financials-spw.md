@@ -39,7 +39,7 @@ The portfolio financials view supports Demands, Epics, and Projects with Fiscal 
 
 The default view of portfolio financials is set to display the planning items grouped by their budget approval status. Budget approved grouping lists the planning items which have the budget allocated and approved. Approval pending grouping lists the planning items which do not have any budget or if the requested budget is not approved.
 
-**Note:** Portfolio financials view is not yet compatible with [[investment-funding-overview|Investment Funding]]. This view may not show the right budget values allocated to planning items from Investment Funding application. This will be add as a future enhancement.
+**Note:** Portfolio financials view is not yet compatible with Investment Funding. This view may not show the right budget values allocated to planning items from Investment Funding application. This will be add as a future enhancement.
 
 In the left-grid, planning item details such as name, rank, planning state, planning item type, approved start date, total planned cost, total actual costs, total planned benefits and ROI for the full planning item duration.
 
@@ -110,6 +110,4 @@ Portfolio financial breakdown for the entire portfolio timeline.
 
     By default, the financials view is grouped by the Budget status column. You can remove Budget status grouping from the Grouped by row and drag-drop the required header to change this view.
 
-## Related
 
-- [[investment-funding-overview|Investment Funding]]

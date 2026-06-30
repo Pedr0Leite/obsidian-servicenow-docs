@@ -14,7 +14,7 @@ breadcrumb: [Configuring MID Server, MID Server, Manage instance data sources, E
 
 # Installing the MID Server
 
-Download and install the [[mid-server-landing|MID Server]] on the host machine, test the connection, and then [[t_ValidateAMIDServer|validate the MID Server]]. Use the manual procedures or the guided setup. Set up multiple MID Servers for load balancing and [[domain-separation-relationship-formatter-editor|domain separation]]. These procedures prepare it for use with any application.
+Download and install the MID Server on the host machine, test the connection, and then validate the MID Server. Use the manual procedures or the guided setup. Set up multiple MID Servers for load balancing and domain separation. These procedures prepare it for use with any application.
 
 <table id="table_ngw_1v4_nhb"><tbody><tr><td>
 
@@ -38,8 +38,3 @@ The manual process requires these setup tasks, performed in the order shown here
 
 Alternatively, the [MID Server Guided Setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/use-mid-server-guidedsetup.md) streamlines the process and allows you to set up a basic MID Server quickly.
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[t_ValidateAMIDServer|Validate the MID Server]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]

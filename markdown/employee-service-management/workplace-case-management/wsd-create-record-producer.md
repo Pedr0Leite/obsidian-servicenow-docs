@@ -14,7 +14,7 @@ breadcrumb: [Configure, Workplace Case Management, Workplace Service Delivery, E
 
 # Configure a Record producer
 
-Make a Workplace service available to employees as a self-service option. Configure a record producer to display the service as a catalog item in the [[workplace-services|Workplace Services]] catalog.
+Make a Workplace service available to employees as a self-service option. Configure a record producer to display the service as a catalog item in the Workplace Services catalog.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_wsd\_case.admin or sn\_wsd\_case.manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-case-mgmt-feat|Workplace Case Management]]** &gt; **Workplace Case Management - Setup** &gt; **Record producers**
+1.  Navigate to **All** &gt; **Workplace Case Management** &gt; **Workplace Case Management - Setup** &gt; **Record producers**
 
 2.  Select **New**.
 
@@ -82,7 +82,7 @@ Preview link
 
 </td><td>
 
-Link to preview how the record producer appears to users in the [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] catalog
+Link to preview how the record producer appears to users in the Workplace Service Delivery catalog
 
 </td></tr><tr><td>
 
@@ -111,7 +111,7 @@ Select this option to enable users to expand help for all questions.
 
     -   Checkbox
     -   Multiple Choice
-    -   [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
+    -   Reference
     -   Select Box
     -   Single Line Text
     To learn more about the different types of variables and how to configure them, see [Types of service catalog variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_VariableTypes.md) Types of service catalog variables.
@@ -164,9 +164,3 @@ Link the record producer to the workplace service, see [Create a Workplace servi
 
 [Group similar workplace cases under a parent case]()
 
-## Related
-
-- [[workplace-services|Workplace Services]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

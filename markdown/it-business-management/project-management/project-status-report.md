@@ -42,7 +42,7 @@ Steps
 
 </th></tr></thead><tbody><tr><td id="d60416e83">
 
-**From [[project-workspace-landing-page|project workspace]]**
+**From project workspace**
 
 </td><td>
 
@@ -73,7 +73,7 @@ Steps
 1.  Navigate to **All** &gt; **Project** &gt; **Projects** &gt; **All**.
 2.  In the project list, open a project record.
 3.  Select the **Status Report** related list.
-4.  Select **New** and [[t_CreateAProjectStatusReport|create a project status report]].
+4.  Select **New** and create a project status report.
 5.  Select **Save**.
 6.  Select **View**.
 
@@ -109,7 +109,7 @@ Provides a general overview about the project such as:-   **Project Name**: Name
 -   **Actual Start Date**: Date on which the project began.
 -   **Actual End Date**: Actual end date of the project.
 -   **Actual Cost**: Actual cost of the project.
- This information is rolled up from the [[create-a-project-form|project form]].
+ This information is rolled up from the project form.
 
  If you had set your preference as project currency in the **Status report currency** field of the Project form, then the **Overview** tab displays the following project currency fields:
 
@@ -137,7 +137,7 @@ Cost \(Planned vs. Actual\) chart
 If you have enabled the Project Currency view, then the Cost in Project Currency \(Planned vs. Actual\) section provides information about the actual cost versus the planned cost in project currency.This information is rolled up from the [cost plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateAProjectCostPlan.md) for the project.
 
 -   **Planned**: Approved cost for the project.
--   **Actual**: Actual cost for the project is derived from the expense line created for the project cost plan and from the [[c_TimeCards|time cards]] created for the project.
+-   **Actual**: Actual cost for the project is derived from the expense line created for the project cost plan and from the time cards created for the project.
 
 
 </td></tr><tr><td>
@@ -279,9 +279,3 @@ Provides information about a [change request](https://raw.githubusercontent.com/
 
 [Create a project status report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateAProjectStatusReport.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]
-- [[t_CreateAProjectStatusReport|Create a project status report]]
-- [[create-a-project-form|Project form]]
-- [[c_TimeCards|Time cards]]

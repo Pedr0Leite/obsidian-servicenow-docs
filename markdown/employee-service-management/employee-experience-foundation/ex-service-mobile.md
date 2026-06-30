@@ -18,7 +18,7 @@ Integrated service and experience feedback in Now Mobile® provides greater ease
 
 ## Experience feedback
 
-A default experience feedback configuration is available with [[employee-center-pro-landing|Employee Center Pro]] version 32.0.
+A default experience feedback configuration is available with Employee Center Pro version 32.0.
 
 In the **More** menu options in the Now Mobile® app, you see the option to **Provide feedback**.
 
@@ -43,6 +43,3 @@ You can configure more feedback configurations and definitions apart from the on
 
 **Parent Topic:**[Employee Center Integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/integrate-ec.md)
 
-## Related
-
-- [[employee-center-pro-landing|Employee Center Pro]]

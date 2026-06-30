@@ -14,7 +14,7 @@ breadcrumb: [Project Management, Project Portfolio Management, Strategic Portfol
 
 # Using Project Management
 
-Use [[c_ProjectApplicationOverview|Project Management]] to plan, manage, and track projects effectively.
+Use Project Management to plan, manage, and track projects effectively.
 
 ## Plan the project
 
@@ -38,11 +38,11 @@ Before creating a project, consider the following questions and issues:
 
     A milestone is a project task with a duration of 0. Use milestones to indicate important dates in a project. If necessary, create dependencies between tasks and milestones so that a task does not start until a milestone has been reached.
 
-    A baseline is a snapshot of the current planned start and end dates at the time the baseline was created for each task. A line appears under each task on the [[c_GanttChart|Gantt chart]] for the original planned start and end dates. The line appears shifted to the left or right depending on whether the task was started early or late. If tasks slip to later dates, the baseline indicator provides an easy way to see how severe the delays are.
+    A baseline is a snapshot of the current planned start and end dates at the time the baseline was created for each task. A line appears under each task on the Gantt chart for the original planned start and end dates. The line appears shifted to the left or right depending on whether the task was started early or late. If tasks slip to later dates, the baseline indicator provides an easy way to see how severe the delays are.
 
 -   Have the necessary skills, groups, and resources been created in ServiceNow?
 
-    If [[t_CreateAProjectTask|project tasks]] are assigned to different groups or individual resources with the required skills, create users and groups and configure the Skills Management application.
+    If project tasks are assigned to different groups or individual resources with the required skills, create users and groups and configure the Skills Management application.
 
 -   Does an existing incident, problem, or change justify creating a project to track it?
 
@@ -50,7 +50,7 @@ Before creating a project, consider the following questions and issues:
 
 -   Do you want to track project costs?
 
-    Estimate group resource costs before starting the project. Then track the actual cost of each user resource from [[c_TimeCards|time cards]]. The Project Management application can also calculate the costs of affected CIs in a project. The Project Management Costing add-on is required to track costs.
+    Estimate group resource costs before starting the project. Then track the actual cost of each user resource from time cards. The Project Management application can also calculate the costs of affected CIs in a project. The Project Management Costing add-on is required to track costs.
 
 -   What goals do you want the project to achieve?
 
@@ -59,17 +59,9 @@ Before creating a project, consider the following questions and issues:
 
 ## Assign resources or assignment groups to the tasks
 
-User resources are the individuals in an organization who are assigned to project tasks. You can manage your resources with [[c_ResourcePlans|resource plans]] in the Resource Management application.
+User resources are the individuals in an organization who are assigned to project tasks. You can manage your resources with resource plans in the Resource Management application.
 
 ## Add the project to a portfolio
 
-A portfolio is a group of related projects. If the project is related to other projects, [[t_CreateAPortfolio|create a portfolio]] and add the project. The Project Management application provides a useful portfolio view that makes it easy to report on the status of all projects in a portfolio. Portfolios also include demands.
+A portfolio is a group of related projects. If the project is related to other projects, create a portfolio and add the project. The Project Management application provides a useful portfolio view that makes it easy to report on the status of all projects in a portfolio. Portfolios also include demands.
 
-## Related
-
-- [[c_ProjectApplicationOverview|Project Management]]
-- [[c_GanttChart|Gantt chart]]
-- [[t_CreateAProjectTask|Project tasks]]
-- [[c_TimeCards|Time cards]]
-- [[c_ResourcePlans|Resource plans]]
-- [[t_CreateAPortfolio|Create a portfolio]]

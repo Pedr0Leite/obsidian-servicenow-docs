@@ -28,9 +28,9 @@ The Asset Response Guided Experience takes you through the entire process of ful
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[asset-governance-workspace|Asset Governance Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Asset Governance Workspace**.
 
-2.  From the Asset evidence tasks related list in the [[asset-governance-overview|Asset governance overview]], select the task that is associated with the evidence request that you want to fulfill.
+2.  From the Asset evidence tasks related list in the Asset governance overview, select the task that is associated with the evidence request that you want to fulfill.
 
     The Asset Response Guided Experience opens.
 
@@ -208,7 +208,4 @@ URL of the website or shared online folder that contains the supporting informat
 
     The collected evidence is submitted to the audit manager for final review. Based on the results of the review, the audit manager can choose to accept, cancel, request a revision, or request additional information for the associated evidence request.
 
-## Related
 
-- [[asset-governance-workspace|Asset Governance Workspace]]
-- [[asset-governance-overview|Asset governance overview]]

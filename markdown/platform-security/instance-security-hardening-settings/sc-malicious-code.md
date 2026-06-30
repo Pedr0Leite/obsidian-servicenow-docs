@@ -16,19 +16,12 @@ breadcrumb: [Hardening settings, Platform Security]
 
 The Malicious Code category ensures that best efforts are made to confirm that your code is free of vulnerabilities and unwanted functionality.
 
-This includes ensuring secure and proper handling for malicious activity, no time based attacks, no outbound [[sc-communications|communications]] to untrusted destinations, and that no unauthorized or attacker-controlled code is included. This category includes audit or third party libraries from the application codebase.
+This includes ensuring secure and proper handling for malicious activity, no time based attacks, no outbound communications to untrusted destinations, and that no unauthorized or attacker-controlled code is included. This category includes audit or third party libraries from the application codebase.
 
 -   **[Block rooted or jailbroken mobile devices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-block-rooted-or-jailbroken-mobile-devices.md)**  
-[[platsec-landing|Secure your instance]] by preventing unauthorized access from jailbroken devices.
--   **[Enable [[code-signing-landing|Code Signing]] for application [[sc-configuration|configuration]] data and scripts \[Removed in [[sec-center-v2|Security Center]] 1.3\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-enable-code-signing-for-application-configuration-data-and-scripts.md)**  
+Secure your instance by preventing unauthorized access from jailbroken devices.
+-   **[Enable Code Signing for application configuration data and scripts \[Removed in Security Center 1.3\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-enable-code-signing-for-application-configuration-data-and-scripts.md)**  
 Manage Code Signing for application configuration data and scripts on your instance.
 
 **Parent Topic:**[Hardening settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/security-hardening-settings.md)
 
-## Related
-
-- [[sc-communications|Communications]]
-- [[platsec-landing|Secure your instance]]
-- [[code-signing-landing|Code Signing]]
-- [[sc-configuration|Configuration]]
-- [[sec-center-v2|Security Center]]

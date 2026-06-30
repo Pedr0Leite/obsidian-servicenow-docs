@@ -15,7 +15,7 @@ breadcrumb: [Agent Client Collector upgrade overview, ACC deployment - servers, 
 
 # Run a mass Agent Client Collector upgrade using a background script
 
-Trigger an immediate upgrade of all eligible [[acc-landing-page|Agent Client Collector]] agents without waiting for the next scheduled job run.
+Trigger an immediate upgrade of all eligible Agent Client Collector agents without waiting for the next scheduled job run.
 
 ## Before you begin
 
@@ -54,6 +54,3 @@ The system queries all agents that are **Up**, not duplicated, have a valid MID 
 
 **Parent Topic:**[Agent Client Collector upgrade overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-agent-upgrade-overview.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

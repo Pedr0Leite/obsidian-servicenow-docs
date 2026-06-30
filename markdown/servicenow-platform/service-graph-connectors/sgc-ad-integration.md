@@ -14,7 +14,7 @@ breadcrumb: [Service Graph Connectors, Integrating third-party data into CMDB, C
 
 # Service Graph Connector for Active Directory
 
-The Service Graph Connector for Active Directory retrieves computer and software information from the Microsoft Active Directory \(AD\) product and imports it into the [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]] in your instance using Lightweight Directory Access Protocol \(LDAP\).
+The Service Graph Connector for Active Directory retrieves computer and software information from the Microsoft Active Directory \(AD\) product and imports it into the Configuration Management Database \(CMDB\) in your instance using Lightweight Directory Access Protocol \(LDAP\).
 
 ## Request apps on the Store
 
@@ -38,11 +38,11 @@ The guided setup for the Service Graph Connector for Active Directory provides a
 
 ## CMDB integrations dashboard
 
-The [[integration-commons-for-cmdb|Integration Commons for CMDB]] store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring Microsoft Active Directory integrations in the [[cmdb-integ-dashboard|CMDB Integrations Dashboard]], see [Using the CMDB Integrations Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-integration-commons/integration-commons-for-cmdb.md).
+The Integration Commons for CMDB store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring Microsoft Active Directory integrations in the CMDB Integrations Dashboard, see [Using the CMDB Integrations Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-integration-commons/integration-commons-for-cmdb.md).
 
 ## Data mapping
 
-Data from the Service Graph Connector for Active Directory data sources is mapped and transformed into the ServiceNow CMDB Configuration Item \(CI\) class definitions using the Robust Transform Engine \(RTE\). Data is inserted into the ServiceNow CMDB using the [[ire|Identification and Reconciliation Engine \(IRE\)]].
+Data from the Service Graph Connector for Active Directory data sources is mapped and transformed into the ServiceNow CMDB Configuration Item \(CI\) class definitions using the Robust Transform Engine \(RTE\). Data is inserted into the ServiceNow CMDB using the Identification and Reconciliation Engine \(IRE\).
 
 After you complete the guided setup, you configure the integration to periodically pull data from the Active Directory. The data is loaded into the following tables.
 
@@ -55,9 +55,3 @@ You can use the Integration Hub ETL application to view the data maps.
 |Software|Software \[cmdb\_ci\_spkg\], \[cmdb\_software\_instance\], \[cmdb\_sam\_sw\_install\]|
 |SGC Active Directory Computer|SGC Active Directory Computer \[sn\_sec\_sgc\_ad\_active\_directory\_computer\]|
 
-## Related
-
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[integration-commons-for-cmdb|Integration Commons for CMDB]]
-- [[cmdb-integ-dashboard|CMDB Integrations Dashboard]]
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]

@@ -15,7 +15,7 @@ breadcrumb: [Set up SAP integration to establish a connection with SAP, Software
 
 # Create SAP users, roles, and authorizations
 
-Create the SAP user, roles, and authorization objects required for the [[c_SoftwareAssetMgmt|Software Asset Management]] integration with the central and satellite SAP systems.
+Create the SAP user, roles, and authorization objects required for the Software Asset Management integration with the central and satellite SAP systems.
 
 ## Before you begin
 
@@ -181,6 +181,3 @@ Table Name
 
 Select the Remote Function Call \(RFC\) connections that the SAP ABAP program uses to import data from your SAP clients. For details, see [Select SAP clients to import data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/select-sap-clients-import.md).
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

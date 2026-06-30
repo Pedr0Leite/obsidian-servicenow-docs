@@ -92,8 +92,5 @@ Acknowledgement message after an action is selected from a notification.
 </table>3.  Select **Submit**.
 
 
-**Parent Topic:**[[noti-provider-action-capabilities|Select provider notification action capabilities]]
+**Parent Topic:**[Select provider notification action capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/noti-provider-action-capabilities.md)
 
-## Related
-
-- [[noti-provider-action-capabilities|Select provider notification action capabilities]]

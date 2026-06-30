@@ -14,7 +14,7 @@ breadcrumb: [Configure, Data Loss Prevention Incident Response, Security Operati
 
 # Install and configure the DLP Incident Response application
 
-Manage sensitive information and automate the remediation workflows by using the [[dlp-landing|Data Loss Prevention Incident Response]] \(DLP IR\) application in your ServiceNow AI Platform instance.
+Manage sensitive information and automate the remediation workflows by using the Data Loss Prevention Incident Response \(DLP IR\) application in your ServiceNow AI Platform instance.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Roles required: admin and sn\_dlir.admin
 
 ## Procedure
 
-1.  Follow the instructions for [[download-app-first-time|downloading an application from the ServiceNow Store]].
+1.  Follow the instructions for [downloading an application from the ServiceNow Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/download-app-first-time.md).
 
 2.  After you have downloaded the **DLP Incident Response** application and all of its dependency applications, navigate to **All** &gt; **DLP Administration** &gt; **Default Configuration** to complete the rest of the [application configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/configure-data-loss-prevention.md).
 
@@ -36,7 +36,3 @@ Roles required: admin and sn\_dlir.admin
 
 [Domain separation and DLP Incident Response]()
 
-## Related
-
-- [[download-app-first-time|Download an application from the ServiceNow Store for the first time]]
-- [[dlp-landing|Data Loss Prevention Incident Response]]

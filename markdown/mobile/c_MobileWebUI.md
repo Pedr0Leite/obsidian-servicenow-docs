@@ -48,8 +48,5 @@ The following capabilities are not currently supported in mobile browsers, thoug
 -   Data lookup rules
 -   Custom auto-complete scripts
 
-**Parent Topic:**[[mobile-access-options|Accessing an instance on a mobile device web browser]]
+**Parent Topic:**[Accessing an instance on a mobile device web browser](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-access-options.md)
 
-## Related
-
-- [[mobile-access-options|Accessing an instance on a mobile device web browser]]

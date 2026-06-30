@@ -84,8 +84,5 @@ Sync error
 Error in syncing the contact with Everbridge.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[create-contacts-emergency-noti-uib-ws|Create contacts for emergency notifications]]
+</table>**Parent Topic:**[Create contacts for emergency notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-contacts-emergency-noti-uib-ws.md)
 
-## Related
-
-- [[create-contacts-emergency-noti-uib-ws|Create contacts for emergency notifications]]

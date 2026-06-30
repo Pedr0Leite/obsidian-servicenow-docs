@@ -12,7 +12,7 @@ breadcrumb: [Using bulk edit in the Security Exposure Management Workspace, Bulk
 
 # Close records in bulk in the Security Exposure Management Workspace
 
-Close multiple records \(VITs, AVITs, or CVITs\) concurrently using the bulk edit feature in the [[sem-workspace-user-interface|Security Exposure Management Workspace]].
+Close multiple records \(VITs, AVITs, or CVITs\) concurrently using the bulk edit feature in the Security Exposure Management Workspace.
 
 ## Before you begin
 
@@ -80,7 +80,7 @@ Reason
 
 Reason for closing records:-   False Positive
 
-**Note:** When you select this option to mark the records as false- positive, the Reason, Short description, and Additional information fields appear. For more information on [[bulk-edit-fp|bulk edit for false positive]], see [Bulk edit for false positive in the Vulnerability Manager Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-manager-workspace/vmws-bulk-edit-request-false-positive.md).
+**Note:** When you select this option to mark the records as false- positive, the Reason, Short description, and Additional information fields appear. For more information on bulk edit for false positive, see [Bulk edit for false positive in the Vulnerability Manager Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-manager-workspace/vmws-bulk-edit-request-false-positive.md).
 
 -   Cancelled
 -   Fixed
@@ -100,10 +100,5 @@ Text that you enter to describe the changes.
     A bulk edit asynchronous job updates the relevant records.
 
 
-**Parent Topic:**[[sem-using-bulk-edit|Using bulk edit in the Security Exposure Management Workspace]]
+**Parent Topic:**[Using bulk edit in the Security Exposure Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-using-bulk-edit.md)
 
-## Related
-
-- [[sem-using-bulk-edit|Using bulk edit in the Security Exposure Management Workspace]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]
-- [[bulk-edit-fp|Bulk edit for false positive]]

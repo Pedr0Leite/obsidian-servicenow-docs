@@ -14,7 +14,7 @@ breadcrumb: [Managed Documents, Document Services, Manage content capabilities, 
 
 # Check in a document after making changes
 
-After making changes to a document, check the revised document into [[c_ManagedDocuments|Managed Documents]].
+After making changes to a document, check the revised document into Managed Documents.
 
 ## Before you begin
 
@@ -43,6 +43,3 @@ Role required: document\_management\_user
 
 **Parent Topic:**[Managed Documents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/c_ManagedDocuments.md)
 
-## Related
-
-- [[c_ManagedDocuments|Managed Documents]]

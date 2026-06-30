@@ -16,13 +16,13 @@ If you have created a page in your workspace from the Dashboard page template, y
 
 ## Before you begin
 
-You have created a workspace in UI Builder with a page generated from the Dashboard page template. You may also have set the dashboard component in that page to display a dashboard from the library as described in [[add-dashboard-to-workspace|Add a dashboard to a Dashboards page]].
+You have created a workspace in UI Builder with a page generated from the Dashboard page template. You may also have set the dashboard component in that page to display a dashboard from the library as described in [Add a dashboard to a Dashboards page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/add-dashboard-to-workspace.md).
 
 Role required: ui\_builder\_admin
 
 ## About this task
 
-**Important:** The procedure described here applies only to dashboards created in the inline editor. For [[technical-dashboards|technical dashboards]], you configure redirection through a drilldown event for each data visualization. For more information, see [[add-custom-drilldown-event|Add a drilldown event to a data visualization on a technical dashboard]].
+**Important:** The procedure described here applies only to dashboards created in the inline editor. For technical dashboards, you configure redirection through a drilldown event for each data visualization. For more information, see [Add a drilldown event to a data visualization on a technical dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/add-custom-drilldown-event.md).
 
 ## Procedure
 
@@ -63,12 +63,12 @@ Role required: ui\_builder\_admin
 
 All redirections from data visualizations on that dashboard open your specified target.
 
-**Parent Topic:**[[adding-analytics-center-to-ws|Creating Platform Analytics pages in your own workspace]]
+**Parent Topic:**[Creating Platform Analytics pages in your own workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/adding-analytics-center-to-ws.md)
 
 **Related topics**  
 
 
-[Create a [[c_performanceAnalyticsAndReporting|Platform Analytics]] workspace from App Engine Studio]()
+[Create a Platform Analytics workspace from App Engine Studio]()
 
 [Add Platform Analytics pages to a configurable workspace]()
 
@@ -80,10 +80,3 @@ All redirections from data visualizations on that dashboard open your specified 
 
 [Configure dashboard data broker]()
 
-## Related
-
-- [[add-dashboard-to-workspace|Add a dashboard to a Dashboards page]]
-- [[add-custom-drilldown-event|Add a drilldown event to a data visualization on a technical dashboard]]
-- [[adding-analytics-center-to-ws|Creating Platform Analytics pages in your own workspace]]
-- [[technical-dashboards|Technical dashboards]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

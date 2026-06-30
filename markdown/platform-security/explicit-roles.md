@@ -12,7 +12,7 @@ breadcrumb: [Security Roles, Access Management]
 
 # Explicit Roles
 
-You can give both internal [[users|users]] and external users access to your instance. However, you might not want both types of users to have the same level of access. To provide added security, every user must have at least one role so that the instance can distinguish between internal and external users.
+You can give both internal users and external users access to your instance. However, you might not want both types of users to have the same level of access. To provide added security, every user must have at least one role so that the instance can distinguish between internal and external users.
 
 As of the Paris release, no user can have both of the explicit roles \(snc\_internal and snc\_external\). Groups and role containment cannot include both roles, either, since that would cause any group member or user who is assigned to such a group or such a role to automatically have both roles. The ServiceNow AI Platform aborts any operation that would create such a scenario.
 
@@ -45,7 +45,7 @@ When the Explicit Roles plugin is activated:
 
     Activate this plugin during a maintenance window or when few users are logged in. Users currently logged in when the plugin is activated will not be dynamically assigned the snc\_internal role. Rather, users must log out and log back in to be assigned the snc\_internal role. Once the plugin is activated, you can add or remove the snc\_internal and snc\_external roles at any time to change user rights.
 
-    After the plugin is activated, any time a user [[logs|logs]] in, the user is given the snc\_internal role if the account does not already have that role, or the snc\_external role. This includes users logged in via impersonation.
+    After the plugin is activated, any time a user logs in, the user is given the snc\_internal role if the account does not already have that role, or the snc\_external role. This includes users logged in via impersonation.
 
 -   All existing ACLs that do not have a role requirement are automatically assigned the snc\_internal role. Because both existing ACLs and users are assigned the snc\_internal role, existing access levels do not change.
 -   Newly created ACLs that do not have a role requirement are automatically assigned the snc\_internal role. This role assignment does not apply to a newly created ACL with a role assigned.
@@ -73,7 +73,7 @@ To exclude snc\_internal role for certain users, use the `glide.security.explici
 
 ## Providing table access to external users
 
-You can [[t_ProvideExternalUsersAccessToTables|provide external users access to a table]] by adding a role to the table that inherits the snc\_external role. For more information, see [Provide external users access to a table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/t_ProvideExternalUsersAccessToTables.md).
+You can provide external users access to a table by adding a role to the table that inherits the snc\_external role. For more information, see [Provide external users access to a table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/t_ProvideExternalUsersAccessToTables.md).
 
 ## The hasRoles\(\) method
 
@@ -367,7 +367,7 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
-2.  Select **[[c_requestAPI|Request]] plugin** to open the **Activate Plugin** form on Now Support.
+2.  Select **Request plugin** to open the **Activate Plugin** form on Now Support.
 
 3.  On the **Activate Plugin** form, provide the following information.
 
@@ -412,9 +412,4 @@ Select the date and time to activate the plugin.
 
     After the maintenance window, the system installs the plugin on your instance. To confirm the installation, go to the Installed tab in the Application Manager.
 
-## Related
 
-- [[users|Users]]
-- [[logs|Logs]]
-- [[t_ProvideExternalUsersAccessToTables|Provide external users access to a table]]
-- [[c_requestAPI|request]]

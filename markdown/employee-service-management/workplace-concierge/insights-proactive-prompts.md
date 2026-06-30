@@ -14,7 +14,7 @@ breadcrumb: [Manage Workplace Concierge - Employee Presence, Workplace Concierge
 
 # Create custom insights using Proactive Prompts
 
-Use [[proactive-prompts-for-hrsd|Proactive Prompts]] to create insight sections for the employee presence dashboard.
+Use Proactive Prompts to create insight sections for the employee presence dashboard.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: admin
 
 As an admin, you can use Proactive Prompts to create insights for employees. These insights are displayed on the presence dashboard and the calendar sections. For more information about Proactive Prompts, see [Proactive Prompts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/proactive-prompts-for-hrsd.md).
 
-For information about the default [[insights-installed-workplace-concierge|insights installed with Workplace Concierge]], see [Insights installed with Workplace Concierge](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/insights-installed-workplace-concierge.md).
+For information about the default insights installed with Workplace Concierge, see [Insights installed with Workplace Concierge](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/insights-installed-workplace-concierge.md).
 
 ## Procedure
 
@@ -70,7 +70,3 @@ You've configured a signal that displays the insight to the user in the schedule
 
 [View employee presence modules]()
 
-## Related
-
-- [[proactive-prompts-for-hrsd|Proactive Prompts]]
-- [[insights-installed-workplace-concierge|Insights installed with Workplace Concierge]]

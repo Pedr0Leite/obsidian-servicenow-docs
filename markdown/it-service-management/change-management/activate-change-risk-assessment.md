@@ -14,7 +14,7 @@ breadcrumb: [Change Management plugins, Configure, Change Management, IT Service
 
 # Activate Change Management - Risk Assessment
 
-You can activate the [[c_ITILChangeManagement|Change Management]] - [[c_RskAsmtCalc|Risk Assessment]] plugin \(com.snc.change\_management.risk\_assessment\) if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
+You can activate the Change Management - Risk Assessment plugin \(com.snc.change\_management.risk\_assessment\) if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
 
 ## Before you begin
 
@@ -59,7 +59,7 @@ Provides an interface to create and edit the Change Risk Assessment form that is
 </td></tr></tbody>
 </table>## Procedure
 
-1.  Navigate to **All** &gt; **System [[dex-workspace-application-tab|Applications]]** &gt; **All Available Applications** &gt; **All**.
+1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
 2.  Find the plugin using the filter criteria and search bar.
 
@@ -129,8 +129,3 @@ You can [define risk assessment](https://raw.githubusercontent.com/ServiceNow/Se
 
 [List of Australia plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]
-- [[c_RskAsmtCalc|Risk assessment]]
-- [[dex-workspace-application-tab|Applications]]

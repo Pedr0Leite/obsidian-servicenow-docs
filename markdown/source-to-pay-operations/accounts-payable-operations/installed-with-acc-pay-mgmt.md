@@ -15,18 +15,18 @@ breadcrumb: [Install Accounts Payable Invoice Processing, Configure, Accounts Pa
 
 # Components installed with Accounts Payable Invoice Processing
 
-Reference information for the roles, flows, scheduled jobs, and tables installed with the [[acc-pay-invoice-processing|Accounts Payable Invoice Processing]] plugin during activation.
+Reference information for the roles, flows, scheduled jobs, and tables installed with the Accounts Payable Invoice Processing plugin during activation.
 
 ## Roles installed
 
 **Note:** The following roles are installed with Finance Common Architecture \(com.sn\_fin\), which is installed as a dependent plugin:
 
--   sn\_fin.[[supplier|supplier]]\_payment\_info\_read: Provides read access to supplier details and supplier payment information tables
+-   sn\_fin.supplier\_payment\_info\_read: Provides read access to supplier details and supplier payment information tables
 -   sn\_fin.supplier\_payment\_info\_write: Provides write access to supplier details and supplier payment information tables
 
 The sn\_shop.invoice\_owner role is installed with Source-to-Pay Common Architecture \(com.snc.sn\_shop\), which is installed as a dependent plugin.
 
-For information about the [[installed-with-invoice-case-mgmt|components installed with Invoice Case Management]], see [Components installed with Invoice Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/installed-with-invoice-case-mgmt.md).
+For information about the components installed with Invoice Case Management, see [Components installed with Invoice Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/installed-with-invoice-case-mgmt.md).
 
 <table id="table_o4b_sbc_gvb"><thead><tr><th>
 
@@ -46,7 +46,7 @@ Accounts Payable Invoice Processing Administrator \[sn\_ap\_apm.admin\]
 
 </td><td>
 
-Can access all the features and capabilities of the [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] application.
+Can access all the features and capabilities of the Accounts Payable Operations application.
 
 </td><td>
 
@@ -60,7 +60,7 @@ Accounts Payable Specialist \[sn\_ap\_apm.accounts\_payable\_specialist\]
 
 </td><td>
 
--   Can view and update all [[invoices|invoices]] and [[work-with-invoice-exceptions|invoice exceptions]].
+-   Can view and update all invoices and invoice exceptions.
 -   Can view purchase orders, supplier details, and supplier payments.
 
 </td><td>
@@ -99,11 +99,11 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[create-invoice|Create Invoice]] Processing Case for Invoice
+Create Invoice Processing Case for Invoice
 
 </td><td>
 
-Creates an invoice processing case for an invoice that is received via email.**Note:** If you receive an email with N attachments, the application creates N [[working-with-ingestion-cases|invoice processing cases]] — a new invoice processing case for each attached invoice, where N is a positive number. If you receive an email with no attachment, then the application does not create an invoice processing case.
+Creates an invoice processing case for an invoice that is received via email.**Note:** If you receive an email with N attachments, the application creates N invoice processing cases — a new invoice processing case for each attached invoice, where N is a positive number. If you receive an email with no attachment, then the application does not create an invoice processing case.
 
 </td></tr><tr><td>
 
@@ -162,14 +162,3 @@ Stores invoice processing information
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[acc-pay-invoice-processing|Accounts Payable Invoice Processing]]
-- [[supplier|Supplier]]
-- [[installed-with-invoice-case-mgmt|Components installed with Invoice Case Management]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[invoices|Invoices]]
-- [[work-with-invoice-exceptions|Invoice exceptions]]
-- [[create-invoice|create invoice]]
-- [[working-with-ingestion-cases|Invoice processing cases]]

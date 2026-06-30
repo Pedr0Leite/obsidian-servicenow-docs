@@ -12,7 +12,7 @@ breadcrumb: [Source-to-Pay Workspace, Explore, Purchase Order Management, Source
 
 # View a purchase order exception task
 
-View the [[purchase-order-exception-table|purchase order exception]] record in Source-to-Pay Workspace to take action on your assigned task.
+View the purchase order exception record in Source-to-Pay Workspace to take action on your assigned task.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_poem\_core.operational\_buyer
 
     -   **All** &gt; **Source-to-Pay Workspace**.
     -   **Workspaces** &gt; **Source-to-Pay Workspace**.
-2.  Select the **[[purchase-order-mgmt-landing-page|Purchase order management]]** tab.
+2.  Select the **Purchase order management** tab.
 
 3.  From the Incoming tasks or All tasks section, select a task.
 
@@ -35,10 +35,5 @@ The purchase order exception task is displayed. Add comments or attachments as n
 
 **Note:** For tasks of the Upload Documents action type, the **Mark Complete** button is not available until a file is attached.
 
-**Parent Topic:**[[purch-order-mgmt-ws|Source-to-Pay Workspace]]
+**Parent Topic:**[Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/purch-order-mgmt-ws.md)
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[purchase-order-exception-table|Purchase Order Exception]]
-- [[purchase-order-mgmt-landing-page|Purchase Order Management]]

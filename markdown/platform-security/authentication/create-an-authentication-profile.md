@@ -14,7 +14,7 @@ breadcrumb: [SOAP API access policies, API access policy, Authentication, Access
 
 # Create an authentication profile
 
-Create an authentication profile and add one or more [[authentication-policies|authentication policies]] to the profile. You can also configure the **ID Token** and **[[oauth-inbound-and-outbound|OAuth]] Token** [[c_Authentication|authentication]] profiles that are available by default.
+Create an authentication profile and add one or more authentication policies to the profile. You can also configure the **ID Token** and **OAuth Token** authentication profiles that are available by default.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: api\_service\_admin, adaptive\_auth\_policy\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Web Services** &gt; **API Access [[ca-policies|Policies]]** &gt; **Inbound Authentication Profiles**.
+1.  Navigate to **All** &gt; **System Web Services** &gt; **API Access Policies** &gt; **Inbound Authentication Profiles**.
 
 2.  Select **New**.
 
@@ -62,9 +62,4 @@ Role required: api\_service\_admin, adaptive\_auth\_policy\_admin
     < WWW-Authenticate: BASIC realm="Service-now"
     ```
 
-## Related
 
-- [[authentication-policies|Authentication policies]]
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[c_Authentication|Authentication]]
-- [[ca-policies|Policies]]

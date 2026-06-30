@@ -14,7 +14,7 @@ breadcrumb: [Recommended learning in journey configurations, Configure Journey d
 
 # Configure a solution definition for the journey recommendations
 
-Configure a solution definition to display [[exploring-learning-exp|learning]] recommendation to users with similar journeys.
+Configure a solution definition to display learning recommendation to users with similar journeys.
 
 ## Before you begin
 
@@ -22,8 +22,8 @@ Role required: admin \[sn\_jny.admin\]
 
 The following plugins must be activated from the ServiceNow store to display the Similar Journey based Recommendation solution definition:
 
--   [[journey-accelerator-1|Journey Accelerator]] \[sn\_ja\]
--   [[jny-dsgnr-landing-page-1|Journey designer]] \[sn\_jny\]
+-   Journey Accelerator \[sn\_ja\]
+-   Journey designer \[sn\_jny\]
 -   The Learning Posts \[sn\_lc\]
 
 ## Procedure
@@ -49,8 +49,3 @@ Update the solution definition in the **HR AI configuration** &gt; **Similar Jou
 
 **Parent Topic:**[Recommended learning in journey configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-ml-learning-recom.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[journey-accelerator-1|Journey Accelerator]]
-- [[jny-dsgnr-landing-page-1|Journey designer]]

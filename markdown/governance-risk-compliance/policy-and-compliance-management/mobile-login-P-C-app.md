@@ -14,7 +14,7 @@ breadcrumb: [Managing mobile experience for GRC Policy and Compliance, Policy an
 
 # Log in to the GRC Mobile application
 
-Open the GRC Mobile application and add a ServiceNow AI Platform® instance with [[r_PolicyComplianceMgmt|Policy and Compliance Management]] to your mobile device.
+Open the GRC Mobile application and add a ServiceNow AI Platform® instance with Policy and Compliance Management to your mobile device.
 
 ## Before you begin
 
@@ -115,6 +115,3 @@ Select one of the following topics for more information about each applet.
 
 **Parent Topic:**[Managing mobile experience for GRC Policy and Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/mobile-policy_compliance-ovrvw.md)
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

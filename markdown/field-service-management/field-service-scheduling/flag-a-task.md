@@ -22,7 +22,7 @@ Role required: wm\_dispatcher
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Field Service** &gt; **Dispatching** &gt; **[[dispatcher-activities|Dispatcher Workspace]]**.
+1.  Navigate to **All** &gt; **Field Service** &gt; **Dispatching** &gt; **Dispatcher Workspace**.
 
 2.  Select **Dispatcher Workspace**.
 
@@ -33,6 +33,3 @@ Role required: wm\_dispatcher
 
 The work order task is flagged and is displayed when you filter the tasks by the option **Flagged Tasks** in the task panel.
 
-## Related
-
-- [[dispatcher-activities|Dispatcher Workspace]]

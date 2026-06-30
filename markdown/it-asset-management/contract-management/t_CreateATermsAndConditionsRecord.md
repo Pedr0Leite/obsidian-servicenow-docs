@@ -18,14 +18,14 @@ You can create a terms and conditions record to add to a contract.
 
 ## Before you begin
 
-Role required: admin, contract\_manager\(core UI and [[using-ham-workspace|Hardware Asset Workspace]] only\), sn\_eam.enterprise\_admin \([[using-eam-workspace|Enterprise Asset Workspace]] only\), or sn\_eam.enterprise\_asset\_manager \(Enterprise Asset Workspace only\)
+Role required: admin, contract\_manager\(core UI and Hardware Asset Workspace only\), sn\_eam.enterprise\_admin \(Enterprise Asset Workspace only\), or sn\_eam.enterprise\_asset\_manager \(Enterprise Asset Workspace only\)
 
 ## Procedure
 
-1.  Open the list of [[c_TermsAndConditions|terms and conditions]] for your [[c_Contracts|contracts]].
+1.  Open the list of terms and conditions for your contracts.
 
     -   If you are using the core UI, navigate to **All** &gt; **Contract** &gt; **Contracts** &gt; **Terms &amp; Conditions**.
-    -   If you are using the Hardware Asset Workspace, open the [[contract-mgmt-view-am|Contract management view]] and then select the **Terms and conditions** tab.
+    -   If you are using the Hardware Asset Workspace, open the Contract management view and then select the **Terms and conditions** tab.
     -   If you are using the Enterprise Asset Workspace, open the Contract and lease management view and then select the **Terms and conditions** tab.
 2.  Click **New**.
 
@@ -51,10 +51,3 @@ Role required: admin, contract\_manager\(core UI and [[using-ham-workspace|Hardw
 
 [Build a terms and conditions document within a contract]()
 
-## Related
-
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[c_TermsAndConditions|Terms and conditions]]
-- [[c_Contracts|Contracts]]
-- [[contract-mgmt-view-am|Contract management view]]

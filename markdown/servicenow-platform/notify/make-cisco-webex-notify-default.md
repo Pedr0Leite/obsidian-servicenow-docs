@@ -14,11 +14,11 @@ breadcrumb: [Configure Notify Cisco Webex Connector, Configuring Notify, Notify,
 
 # Make Notify Cisco Webex Connector as default communication channel
 
-Make [[cisco-webex-notify|Notify Cisco Webex Connector]] as a default communication channel to initiate a meeting to resolve the major incidents.
+Make Notify Cisco Webex Connector as a default communication channel to initiate a meeting to resolve the major incidents.
 
 ## Before you begin
 
-Role required: [[notify-landing-page|notify]]\_setup\_admin
+Role required: notify\_setup\_admin
 
 ## Procedure
 
@@ -92,7 +92,3 @@ Option for making Notify Cisco Webex the default provider if other notify provid
 
 **Parent Topic:**[Configure Notify Cisco Webex Connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/setup-cisco-webex-notify.md)
 
-## Related
-
-- [[cisco-webex-notify|Notify Cisco Webex Connector]]
-- [[notify-landing-page|Notify]]

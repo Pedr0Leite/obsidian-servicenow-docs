@@ -26,7 +26,7 @@ Role required: pa\_power\_user, pa\_admin, or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]] Administration** &gt; **Schedules** &gt; **Scheduled Indicators**.
+1.  Navigate to **All** &gt; **Platform Analytics Administration** &gt; **Schedules** &gt; **Scheduled Indicators**.
 
 2.  Select **New**.
 
@@ -70,7 +70,7 @@ Chart
 
 </td><td>
 
-Select this checkbox to include the scores visualization in the PDF. The visualization is the same as displayed on the indicator [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]].
+Select this checkbox to include the scores visualization in the PDF. The visualization is the same as displayed on the indicator Analytics Hub.
 
 </td></tr><tr><td>
 
@@ -190,8 +190,3 @@ Select this check box to send the indicator as a zip file.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]

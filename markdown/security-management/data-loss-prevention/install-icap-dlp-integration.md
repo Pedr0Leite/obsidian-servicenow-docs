@@ -14,7 +14,7 @@ breadcrumb: [Internet Content Adaption Protocol \(ICAP\) integration for DLP IR,
 
 # Install and configure the ICAP DLP integration
 
-[[configure-cortex-xsiam-siem|Install and configure]] the  provider ICAP DLP integration from the  ServiceNow® Store on your  ServiceNow AI Platform instance. Start investigating DLP incidents using the  provider ICAP DLP incident data.
+Install and configure the  provider ICAP DLP integration from the  ServiceNow® Store on your  ServiceNow AI Platform instance. Start investigating DLP incidents using the  provider ICAP DLP incident data.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_dlir.admin
 
 1.  Download the  provider ICAP DLP integration from the  ServiceNow® Store and install it.
 
-2.  Navigate to **[[security-operations-landing-page|Security Operations]]** &gt; **Integrations ** &gt; **Integration Configurations**.
+2.  Navigate to **Security Operations** &gt; **Integrations ** &gt; **Integration Configurations**.
 
 3.  Search for the  DLP Incident Response Integration with ICAP tile and click  **Configure**.
 
@@ -51,7 +51,3 @@ After you successfully validate and submit the configuration, the ICAP DLP Integ
 
 **Parent Topic:**[Internet Content Adaption Protocol \(ICAP\) integration for DLP IR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/icap-dlp-integration.md)
 
-## Related
-
-- [[configure-cortex-xsiam-siem|Install and Configure]]
-- [[security-operations-landing-page|Security Operations]]

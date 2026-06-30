@@ -12,9 +12,9 @@ breadcrumb: [Data model, Reference, Care Team Operations for Healthcare IT, Heal
 
 # Care Team Operations for Healthcare IT case table
 
-The [[hcls-cto-it-app|Care Team Operations for Healthcare IT]] Case \[sn\_cto\_hcit\_case\] enables streamlined support for operational healthcare IT use cases.
+The Care Team Operations for Healthcare IT Case \[sn\_cto\_hcit\_case\] enables streamlined support for operational healthcare IT use cases.
 
-It extends the [[hcls-cto-app|Healthcare Operations Core]] case table.
+It extends the Healthcare Operations Core case table.
 
 <table id="table_knb_5fm_c2c"><tbody><tr><td>
 
@@ -98,8 +98,3 @@ Date and time healthcare case was opened.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[hcls-cto-it-app|Care Team Operations for Healthcare IT]]
-- [[hcls-cto-app|Healthcare Operations Core]]

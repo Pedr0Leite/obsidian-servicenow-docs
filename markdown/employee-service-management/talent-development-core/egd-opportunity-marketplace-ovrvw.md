@@ -14,9 +14,9 @@ breadcrumb: [Exploring Talent Development Core, Talent Development Core, Growth 
 
 # Opportunity Marketplace overview
 
-The [[egd-oppt-mrktplc-landing|Opportunity Marketplace]] is a single, unified space where individuals and organizations can share opportunities that are discoverable by employees.
+The Opportunity Marketplace is a single, unified space where individuals and organizations can share opportunities that are discoverable by employees.
 
-Opportunities in the marketplace include [[egd-oppt-mrktplc-internal-job|internal jobs]] that are relevant to employee aspirations, which help with career exploration, growth, and internal mobility.
+Opportunities in the marketplace include internal jobs that are relevant to employee aspirations, which help with career exploration, growth, and internal mobility.
 
 Use the following marketplace features to help you grow in your career journey:
 
@@ -170,7 +170,7 @@ Shows recommendations based on your top skills. Internal job listings show the j
 
 ## Hiring Core
 
-[[hiring-core|Hiring Core]] provides a repository to store information for your [[hiring-tab-concept|hiring]] requirements. Activate the Hiring Core plugin \(app-hiring-core\) to start using it. For more information on the hiring core tables, see [Components installed with Talent Development Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-components-roles-tables.md).
+Hiring Core provides a repository to store information for your hiring requirements. Activate the Hiring Core plugin \(app-hiring-core\) to start using it. For more information on the hiring core tables, see [Components installed with Talent Development Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-components-roles-tables.md).
 
 ## AI search
 
@@ -183,7 +183,7 @@ Employees and opportunity owners experience the benefit of generating more sophi
 -   **Opportunity Marketplace**
     -   The search field in the Welcome to the Opportunity Marketplace widget. This widget appears when you access the home page for the Opportunity Marketplace.
     -   The search field in the Search available opportunities widget. This widget appears when you access the Internal jobs page.
--   **[[employee-center-landing-page|Employee Center]]**
+-   **Employee Center**
 
     The search bar that appears on the global header in the Employee Center portal. The global header is the first row in the Employee Center portal. This search bar is accessible from any page in the portal excluding the home page.
 
@@ -199,10 +199,3 @@ For more information on AI search and how to enable it, refer to [AI Search](htt
 
 **Parent Topic:**[Exploring Talent Development Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-explore.md)
 
-## Related
-
-- [[egd-oppt-mrktplc-landing|Opportunity Marketplace]]
-- [[egd-oppt-mrktplc-internal-job|Internal jobs]]
-- [[hiring-core|Hiring Core]]
-- [[hiring-tab-concept|Hiring]]
-- [[employee-center-landing-page|Employee Center]]

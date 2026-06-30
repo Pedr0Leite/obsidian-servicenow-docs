@@ -17,8 +17,8 @@ Define field mappings on a configurable product action to pass field values from
 
 ## Before you begin
 
--   A configurable product action exists on the parent blueprint. For more information, see [[create-configurable-product-action|Create a configurable product action]].
--   The source [[fields|fields]] \(on the parent blueprint\) and the target fields \(on the child blueprint\) exist and are of the same field type.
+-   A configurable product action exists on the parent blueprint. For more information, see [Create a configurable product action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-configurable-product-action.md).
+-   The source fields \(on the parent blueprint\) and the target fields \(on the child blueprint\) exist and are of the same field type.
 
 Role required: admin
 
@@ -62,7 +62,7 @@ Field values from the source fields on the parent blueprint are passed to the ta
 
 After defining field mappings:
 
--   To test mapping behavior, launch the parent product in the quoting application and verify that the target fields receive the expected values in the child configuration. See [[launch-solution|Launch a solution]].
+-   To test mapping behavior, launch the parent product in the quoting application and verify that the target fields receive the expected values in the child configuration. See [Launch a solution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/launch-solution.md).
 -   To verify field type compatibility, see [Field mapping supported field types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown).
 
 **Related topics**  
@@ -72,8 +72,3 @@ After defining field mappings:
 
 [Field mapping supported field types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-## Related
-
-- [[create-configurable-product-action|Create a configurable product action]]
-- [[launch-solution|Launch a solution]]
-- [[fields|Fields]]

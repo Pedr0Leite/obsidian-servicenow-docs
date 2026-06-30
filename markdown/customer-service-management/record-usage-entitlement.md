@@ -24,7 +24,7 @@ When an entitlement moves to the Active state, usage records are created. You ca
 
 ## Procedure
 
-1.  Navigate to the ServiceNow AI Platform interface or the [[csm-workspaces-configure|CSM Configurable Workspace]].
+1.  Navigate to the ServiceNow AI Platform interface or the CSM Configurable Workspace.
 
 <table id="choicetable_m1c_yvj_d1c"><thead><tr><th align="left" id="d316301e63">
 
@@ -94,6 +94,4 @@ Do this
 
     If you have used the Customer Contracts menu to record the usage, then select **Update** to save the contract line and then the customer contract.
 
-## Related
 
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

@@ -14,7 +14,7 @@ breadcrumb: [Install and configure, Leader Hub, HR Service Delivery, Employee Se
 
 # Configure time range data in tenure widgets
 
-Use the [[td-lh-landing|Leader Hub]] Team Composition Configuration table to configure the time range data that appears in the following widgets: Range of years spent at the company and Time spent in current positions. These widgets appear on the [[td-lh-team-details|Team details page]].
+Use the Leader Hub Team Composition Configuration table to configure the time range data that appears in the following widgets: Range of years spent at the company and Time spent in current positions. These widgets appear on the Team details page.
 
 ## Before you begin
 
@@ -70,7 +70,3 @@ The segment that you configured appears in one of the following widgets after th
 
 **Parent Topic:**[Installing and configuring Leader Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/td-lh-install-config.md)
 
-## Related
-
-- [[td-lh-landing|Leader Hub]]
-- [[td-lh-team-details|Team details page]]

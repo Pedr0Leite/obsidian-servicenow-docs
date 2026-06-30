@@ -20,9 +20,9 @@ You can assign a domain to a guided tour during its creation or edit the domain 
 
 Role required: guided\_tour\_admin
 
-To use domain separation in [[guided-tours|Guided Tours]], you must [request domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_ActivateDomainSeparation.md).
+To use domain separation in Guided Tours, you must [request domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_ActivateDomainSeparation.md).
 
-**Note:** The [[guided-tours-designer|Guided Tour Designer]] requires [[c_UI16|Core UI]]. For more information, see [[t_ActivateUI16|Activate Core UI]].
+**Note:** The Guided Tour Designer requires Core UI. For more information, see [Activate Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_ActivateUI16.md).
 
 ## About this task
 
@@ -53,7 +53,7 @@ With the ServiceNow AI Platform®, service providers \(SPs\) can provide their c
 
 10. Select the tour for which you want to change the domain.
 
-11. Select the **[[c_FormContextMenu|Form context menu]] \(\[Omitted image "hamburger-icon.png"\] Alt text: Form context menu\)** &gt; **[[configure-onboarding-modals|Configure]]** &gt; **Form Design**.
+11. Select the **Form context menu \(\[Omitted image "hamburger-icon.png"\] Alt text: Form context menu\)** &gt; **Configure** &gt; **Form Design**.
 
     \[Omitted image "guided-tour-form-design.png"\] Alt text: Select form design.
 
@@ -74,11 +74,3 @@ Within the specified domain, the saved version of the tour replaces the original
 
 **Parent Topic:**[Configuring Guided Tours](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/configure-guided-tours.md)
 
-## Related
-
-- [[t_ActivateUI16|Activate Core UI]]
-- [[guided-tours|Guided Tours]]
-- [[guided-tours-designer|Guided Tour Designer]]
-- [[c_UI16|Core UI]]
-- [[c_FormContextMenu|Form context menu]]
-- [[configure-onboarding-modals|Configure]]

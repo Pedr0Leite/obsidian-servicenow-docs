@@ -14,7 +14,7 @@ breadcrumb: [Using the content management system with the service catalog, Servi
 
 # Manage catalogs in CMS sites
 
-When your organization uses the content management system \(CMS\) as well as [[service-catalog|Service Catalog]], you can select which catalogs are supported within the CMS sites.
+When your organization uses the content management system \(CMS\) as well as Service Catalog, you can select which catalogs are supported within the CMS sites.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Associating catalogs with sites ensures that users can always access an appropri
 
 2.  In the Sites related list, click **Edit**, select the site to associate with the catalog, and then click **Save**.
 
-3.  Click the [[reference|reference]] icon beside the site name, and then click **Open Record**.
+3.  Click the reference icon beside the site name, and then click **Open Record**.
 
     \[Omitted image "ServiceCatalogDetailsCatalogSitesDetails.png"\] Alt text: Screenshot for service catalog details
 
@@ -54,7 +54,3 @@ Associating catalogs with sites ensures that users can always access an appropri
 
 [Manage catalog portal pages]()
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[reference|Reference]]

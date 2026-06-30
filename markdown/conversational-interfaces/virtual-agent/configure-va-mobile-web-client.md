@@ -14,7 +14,7 @@ breadcrumb: [Configure, Virtual Agent, Conversational Interfaces]
 
 # Configure Virtual Agent for a ServiceNow mobile application
 
-[[virtual-agent-landing-page|Virtual Agent]] provides optimized templates for the mobile experience. Configure a service portal to run Virtual Agent on a ServiceNow mobile application.
+Virtual Agent provides optimized templates for the mobile experience. Configure a service portal to run Virtual Agent on a ServiceNow mobile application.
 
 ## Before you begin
 
@@ -71,7 +71,7 @@ Role required: admin
 
     **Note:** If prompted, click the link at the top of the page to edit the record.
 
-    1.  In the **Function** field, select **[[ci-use-agent-chat|Agent Chat]]**.
+    1.  In the **Function** field, select **Agent Chat**.
 
     2.  Click the info icon \[Omitted image "icon-info.png"\] Alt text: Info icon. on the **Function** field and verify that **Chat Launcher** is set in the **Type** field \(this is the default setting\).
 
@@ -99,7 +99,3 @@ Virtual Agent provides optimized templates for the mobile experience. You can vi
 
 **Parent Topic:**[Configuring Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-virtual-agent.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[ci-use-agent-chat|Agent Chat]]

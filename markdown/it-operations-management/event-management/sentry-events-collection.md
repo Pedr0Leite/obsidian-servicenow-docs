@@ -14,13 +14,13 @@ breadcrumb: [Integrate with push connectors, Configure a push connector, Configu
 
 # Integrate Sentry events
 
-Integrate Sentry with [[c_EM|Event Management]] by adding a standard webhook in the Sentry platform.
+Integrate Sentry with Event Management by adding a standard webhook in the Sentry platform.
 
 ## Before you begin
 
 Ensure that the Event Management Connectors \(sn\_em\_connector\) plugin is installed on the ServiceNow AI Platform instance.
 
-[[r-discovery|Discovery]] for Sentry services are not supported. You must create a CI manually in the \[cmdb\_ci\_service\_auto\] table to enable binding by completing the following steps:
+Discovery for Sentry services are not supported. You must create a CI manually in the \[cmdb\_ci\_service\_auto\] table to enable binding by completing the following steps:
 
 1.  From the navigation bar, go to **Configuration/Application Service**.
 2.  Provide the project name you are monitoring on the Sentry application.
@@ -158,7 +158,3 @@ Metric alert
 
 **Parent Topic:**[Integrate with push connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-listener-transform-script.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[r-discovery|Discovery]]

@@ -34,7 +34,7 @@ See [Configure TPRM properties](https://raw.githubusercontent.com/ServiceNow/Ser
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **Third-party risk management** &gt; **External [[risk-assessments|risk assessments]]** &gt; **All open**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Third-party risk management** &gt; **External risk assessments** &gt; **All open**.
 
 2.  Select the External assessment \(VRA\) number of an assessment that is in the **Responses received** state.
 
@@ -165,7 +165,3 @@ Select the **Notes and Comments** tab.**Note:** This is available when you’re 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[risk-assessments|risk assessments]]

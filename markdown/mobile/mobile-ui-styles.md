@@ -20,10 +20,7 @@ You can associate one or more UI styles to a legacy card record to change the ap
 
 ## Create UI Styles
 
-Create and modify your UI Styles [[mab-building-records|using the Mobile App Builder]]. In a UI style, you select a field from your selected table, and define a font and background color for that field. Use may include conditions to determine when a style is applied. For example, you may want to use a colored background on the **Priority** field to highlight when a record is high priority.
+Create and modify your UI Styles using the Mobile App Builder. In a UI style, you select a field from your selected table, and define a font and background color for that field. Use may include conditions to determine when a style is applied. For example, you may want to use a colored background on the **Priority** field to highlight when a record is high priority.
 
 Each UI style record defines the colors for a single field, however multiple UI styles can be added to a legacy card to customize the appearance of multiple fields.
 
-## Related
-
-- [[mab-building-records|Using the Mobile App Builder]]

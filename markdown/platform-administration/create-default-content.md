@@ -36,16 +36,12 @@ Role required: admin
 
 4.  Fill the **Notification Content** form for the type you have selected in the previous step.
 
-    **Note:** The **is default** field is visible only if the **[[notifications|Notifications]]** field is not present.
+    **Note:** The **is default** field is visible only if the **Notifications** field is not present.
 
 5.  Select **Submit**.
 
     A new default content has been created.
 
 
-**Parent Topic:**[[create-provider-notification-using|Create provider notification]]
+**Parent Topic:**[Create provider notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-provider-notification-using.md)
 
-## Related
-
-- [[create-provider-notification-using|Create provider notification]]
-- [[notifications|Notifications]]

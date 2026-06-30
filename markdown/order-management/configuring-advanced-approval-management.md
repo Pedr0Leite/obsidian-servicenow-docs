@@ -13,54 +13,40 @@ breadcrumb: [Configure, price, quote apps, Configure, Sales Customer Relationshi
 
 # Configuring Advanced Approval Management
 
-Install the [[explore-advanced-approval-for-sales|Advanced Approval Management]] application to build workflows that automate the approval process for [[order-mgt-overview|Sales Customer Relationship Management]] entities such as customer quotes.
+Install the Advanced Approval Management application to build workflows that automate the approval process for Sales Customer Relationship Management entities such as customer quotes.
 
 ## Advanced Approval Management configuration overview
 
-1.  [[install-advanced-approval-management|Install Advanced Approval Management]].
+1.  [Install Advanced Approval Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/install-advanced-approval-management.md).
 
     You can install the Advanced Approval Management application \(sn\_adv\_appr\_mgmt\) if you have the admin role.
 
-    **Note:** The plugin for the Sales Customer Relationship Management application for which you are creating workflows, such as [[quote-management|Quote Management]], must also be installed.
+    **Note:** The plugin for the Sales Customer Relationship Management application for which you are creating workflows, such as Quote Management, must also be installed.
 
-2.  [[create-approval-configuration|Create an approval configuration]].
+2.  [Create an approval configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-approval-configuration.md).
 
-    Create an approval configuration for a Sales Customer Relationship Management entity, such as quotes. An approval configuration contains the approval elements that you define to automate approval workflows: conditions that trigger approval workflows, approval [[rules_101|rules]], approval chains, and approval users and groups. Starting with the 1.0.1 release, you can enable certain features for the configuration, namely approval request consolidation, escalations, and email reminder features.
+    Create an approval configuration for a Sales Customer Relationship Management entity, such as quotes. An approval configuration contains the approval elements that you define to automate approval workflows: conditions that trigger approval workflows, approval rules, approval chains, and approval users and groups. Starting with the 1.0.1 release, you can enable certain features for the configuration, namely approval request consolidation, escalations, and email reminder features.
 
-3.  [[set-approval-trigger-conditions|Create conditions that trigger approval workflows]].
+3.  [Create conditions that trigger approval workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/set-approval-trigger-conditions.md).
 
     Define one or more conditions that apply company policies, such as legal or pricing guidelines, to trigger an approval workflow. Also enable the smart reapprovals feature, which allows previous approvals to be used for a resubmitted approval.
 
-4.  [[create-approval-rules|Create approval rules]].
+4.  [Create approval rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-approval-rules.md).
 
     Create approval rules that define the approval criteria and approvers for an approval step.
 
-5.  [[create-approval-chain|Create approval chains]].
+5.  [Create approval chains](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-approval-chain.md).
 
     Optionally create approval chains that control the sequence in which two or more approvals are run.
 
-6.  [[create-approval-users|Define an approval user]].
+6.  [Define an approval user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-approval-users.md).
 
     Define the approver and the associated approval rule that they review during the approval process.
 
-7.  [[create-approval-groups|Define an approval group]].
+7.  [Define an approval group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-approval-groups.md).
 
     Define the group that can approve requests for a specified approval rule.
 
 
-**Note:** System notifications are used to deliver approval status to requesters and inform approvers of approval rejections. You can use these notifications and customize them if needed. For more information on these notifications, see [[setting-up-approval-notifications|Notifications in Advanced Approval Management]].
+**Note:** System notifications are used to deliver approval status to requesters and inform approvers of approval rejections. You can use these notifications and customize them if needed. For more information on these notifications, see [Notifications in Advanced Approval Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/setting-up-approval-notifications.md).
 
-## Related
-
-- [[install-advanced-approval-management|Install Advanced Approval Management]]
-- [[create-approval-configuration|Create an approval configuration]]
-- [[set-approval-trigger-conditions|Create conditions that trigger approval workflows]]
-- [[create-approval-rules|Create approval rules]]
-- [[create-approval-chain|Create approval chains]]
-- [[create-approval-users|Define an approval user]]
-- [[create-approval-groups|Define an approval group]]
-- [[setting-up-approval-notifications|Notifications in Advanced Approval Management]]
-- [[explore-advanced-approval-for-sales|Advanced Approval Management]]
-- [[order-mgt-overview|Sales Customer Relationship Management]]
-- [[quote-management|Quote Management]]
-- [[rules_101|Rules]]

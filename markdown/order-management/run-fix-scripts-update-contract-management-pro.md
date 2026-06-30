@@ -12,7 +12,7 @@ breadcrumb: [Integrate with Contract Management Pro, Configuring Quote Managemen
 
 # Run fix scripts to update Contract Management Pro
 
-Manually run fix [[scripts|scripts]] after you have installed the demo data.
+Manually run fix scripts after you have installed the demo data.
 
 ## Before you begin
 
@@ -30,6 +30,4 @@ If the demo data was installed, the Request Type field in the demo data will rem
 
 3.  Click **Run Fix Script** at the top of record, in the modal that opened up select **Proceed/Proceed in background** to run the script.
 
-## Related
 
-- [[scripts|Scripts]]

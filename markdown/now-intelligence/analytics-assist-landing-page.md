@@ -13,7 +13,7 @@ breadcrumb: [Now Assist in Platform Analytics, Platform Analytics]
 
 # Generate or export dashboards and data visualizations in the Now Assist panel
 
-Generate and export [[c_performanceAnalyticsAndReporting|Platform Analytics]] artifacts from conversational interactions. For example, ask for information about the number of open incidents and get a single-score data visualization. Then export that visualization as a PDF file, all in the Now Assist panel.
+Generate and export Platform Analytics artifacts from conversational interactions. For example, ask for information about the number of open incidents and get a single-score data visualization. Then export that visualization as a PDF file, all in the Now Assist panel.
 
 ## Get started
 
@@ -63,26 +63,16 @@ ServiceNow collects and uses the inputs, outputs, and edits to outputs of this a
 
 For more information, see the [Now Assist documentation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-now-assist-landing.md).
 
--   **[[exploring-analytics-assist|Explore generating or exporting dashboards and visualizations in the Now Assist panel]]**  
+-   **[Explore generating or exporting dashboards and visualizations in the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/exploring-analytics-assist.md)**  
 Generate and export Platform Analytics artifacts from conversational interactions. For example, ask for information about the number of open incidents and get a single-score data visualization. Then export that visualization as a PDF file, all in the Now Assist panel.
--   **[[configuring-now-ass-skills-pa|Configuring Now Assist panel skills for Platform Analytics]]**  
+-   **[Configuring Now Assist panel skills for Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configuring-now-ass-skills-pa.md)**  
 Activate the skills for generating and exporting Platform Analytics dashboards and data visualizations from conversations in the Now Assist panel.
--   **[[use-dv-generation|Generate visualizations in the Now Assist panel]]**  
+-   **[Generate visualizations in the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/use-dv-generation.md)**  
 Request generative AI to create a visualization of data that you want to see. If you are on a dashboard that you can edit, you can add the visualization to that dashboard.
--   **[[export-db-dv-now-assist-panel|Export dashboards and data visualizations from the Now Assist panel]]**  
-Export or [[schedule-export-dboards-data-viz|schedule the export of dashboards and data visualizations]] conversationally through AI instead of going through the Platform Analytics user interface.
--   **[[analgen-reference|Reference for dashboard and visualization skills]]**  
+-   **[Export dashboards and data visualizations from the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/export-db-dv-now-assist-panel.md)**  
+Export or schedule the export of dashboards and data visualizations conversationally through AI instead of going through the Platform Analytics user interface.
+-   **[Reference for dashboard and visualization skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analgen-reference.md)**  
 Information about the roles, tables, and scheduled jobs included with the data visualization generation and dashboard and visualization export skills.
 
-**Parent Topic:**[[now-assist-platform-analytics|Now Assist in Platform Analytics]]
+**Parent Topic:**[Now Assist in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/now-assist-platform-analytics.md)
 
-## Related
-
-- [[exploring-analytics-assist|Explore generating or exporting dashboards and visualizations in the Now Assist panel]]
-- [[configuring-now-ass-skills-pa|Configuring Now Assist panel skills for Platform Analytics]]
-- [[use-dv-generation|Generate visualizations in the Now Assist panel]]
-- [[export-db-dv-now-assist-panel|Export dashboards and data visualizations from the Now Assist panel]]
-- [[analgen-reference|Reference for dashboard and visualization skills]]
-- [[now-assist-platform-analytics|Now Assist in Platform Analytics]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[schedule-export-dboards-data-viz|Schedule the export of dashboards and data visualizations]]

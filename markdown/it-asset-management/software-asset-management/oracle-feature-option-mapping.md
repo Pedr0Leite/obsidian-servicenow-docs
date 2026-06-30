@@ -14,13 +14,13 @@ breadcrumb: [Oracle Database options and management packs, Software Asset Manage
 
 # Feature mapping for Oracle Database options and management packs
 
-The [[c_SoftwareAssetMgmt|Software Asset Management]] application automatically maps discovered Oracle features to the [[oracle-options|Oracle Database options and management packs]] that they’re associated with. These mappings can help you determine the usage and license compliance of your database options and management packs.
+The Software Asset Management application automatically maps discovered Oracle features to the Oracle Database options and management packs that they’re associated with. These mappings can help you determine the usage and license compliance of your database options and management packs.
 
 Every Oracle Database option and management pack contains a set of features that enhance the capabilities of the Oracle Database. For example, the Oracle Active Data Guard option provides real-time data protection and availability for Oracle Database using features such as automatic block repair, global data services, and application continuity. For more information on the features that are supported by each database option and management pack, refer to the [Oracle documentation](https://docs.oracle.com/en/).
 
 When you run a discovery, the ServiceNow® Discovery application locates and identifies both the database options and management packs that are installed in your Oracle environment and the features that are associated with them. This data is then sent to the Software Asset Management application, where it can be normalized and reconciled.
 
-After the data is normalized, the Software Asset Management application uses the Oracle Feature Option Mapping \[samp\_feature\_option\_mapping\] table to map your features to the appropriate database options and management packs at the database instance level. Any subsequent usage data that you retrieve for each feature via the SAM - Evaluate database option usage from Oracle GLAS data scheduled job can then be applied to the mapped database options and management packs. The Software Asset Management application uses this data with predefined database option and management pack usage rules to determine which database options and management packs are being used on each database instance. The resulting usage information is included in the [[oracle-recon|Oracle reconciliation]] process to help you determine the license compliance of your database options and management packs.
+After the data is normalized, the Software Asset Management application uses the Oracle Feature Option Mapping \[samp\_feature\_option\_mapping\] table to map your features to the appropriate database options and management packs at the database instance level. Any subsequent usage data that you retrieve for each feature via the SAM - Evaluate database option usage from Oracle GLAS data scheduled job can then be applied to the mapped database options and management packs. The Software Asset Management application uses this data with predefined database option and management pack usage rules to determine which database options and management packs are being used on each database instance. The resulting usage information is included in the Oracle reconciliation process to help you determine the license compliance of your database options and management packs.
 
 **Parent Topic:**[Oracle Database options and management packs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/oracle-options.md)
 
@@ -65,8 +65,3 @@ If any of your discovered features are associated with more than one database op
 
 To activate the new default mapping, you must run the SAM - Evaluate database option usage from Oracle GLAS data scheduled job. You can either run the job on-demand or wait for the next scheduled job. After the job completes successfully, usage data for the specified feature can then be applied to the newly mapped database option or management pack.
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[oracle-options|Oracle Database options and management packs]]
-- [[oracle-recon|Oracle reconciliation]]

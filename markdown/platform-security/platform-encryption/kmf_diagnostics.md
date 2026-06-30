@@ -59,7 +59,7 @@ Key Secure
 
 </td><td>
 
-Checks if [[encryption-landing|encryption]] is being attempted.
+Checks if encryption is being attempted.
 
 </td></tr><tr><td>
 
@@ -121,9 +121,5 @@ Checks the File Key Store and KeySecure for a key and whether the certificate is
 </table>    For assistance in troubleshooting, contact Customer Service and Support.
 
 
-**Parent Topic:**[[encryption|Key Management Framework]]
+**Parent Topic:**[Key Management Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/encryption.md)
 
-## Related
-
-- [[encryption|Key Management Framework]]
-- [[encryption-landing|Encryption]]

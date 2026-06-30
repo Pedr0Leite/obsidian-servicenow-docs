@@ -30,11 +30,11 @@ Workspace
 
 </th><th>
 
-[[c_UI16|Core UI]]
+Core UI
 
 </th><th>
 
-[[c_ServicePortal|Service Portal]]
+Service Portal
 
 </th></tr></thead><tbody><tr><td>
 
@@ -183,7 +183,3 @@ Latest version of iOS and SafariLatest version of Android and Chrome
 
 The iOS version of Firefox does not support ServiceNow Community or other Service Portal pages.
 
-## Related
-
-- [[c_UI16|Core UI]]
-- [[c_ServicePortal|Service Portal]]

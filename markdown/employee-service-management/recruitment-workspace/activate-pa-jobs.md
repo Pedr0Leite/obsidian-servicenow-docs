@@ -14,7 +14,7 @@ breadcrumb: [Configure, Recruitment Workspace, Hiring Experiences, HR Service De
 
 # Activate the performance analytics jobs in Hiring Experiences
 
-Activate the performance analytics \(PA\) jobs to create an uninterrupted flow of job requisition updates by their states in the [[recruitment-workspace-concept|Recruitment workspace]].
+Activate the performance analytics \(PA\) jobs to create an uninterrupted flow of job requisition updates by their states in the Recruitment workspace.
 
 ## Before you begin
 
@@ -36,6 +36,3 @@ You have set the performance analytics jobs to create a flow of daily data updat
 
 **Parent Topic:**[Configuring Recruitment Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/config-recruitment.md)
 
-## Related
-
-- [[recruitment-workspace-concept|Recruitment workspace]]

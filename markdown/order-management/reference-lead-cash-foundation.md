@@ -12,16 +12,10 @@ breadcrumb: [Reference, Sales Customer Relationship Management]
 
 # Lead-to-cash foundation reference
 
-Reference for [[lead-to-cash-foundation-landing|lead-to-cash foundation]] applications.
+Reference for lead-to-cash foundation applications.
 
--   **[[product-catalog-management-reference|Product Catalog Management reference]]**  
-Reference topics provide additional information about [[product-catalog-managment|Product Catalog Management]].
+-   **[Product Catalog Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/product-catalog-management-reference.md)**  
+Reference topics provide additional information about Product Catalog Management.
 
-**Parent Topic:**[[som-reference|Sales Customer Relationship Management reference]]
+**Parent Topic:**[Sales Customer Relationship Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-reference.md)
 
-## Related
-
-- [[product-catalog-management-reference|Product Catalog Management reference]]
-- [[som-reference|Sales Customer Relationship Management reference]]
-- [[lead-to-cash-foundation-landing|Lead-to-cash foundation]]
-- [[product-catalog-managment|Product Catalog Management]]

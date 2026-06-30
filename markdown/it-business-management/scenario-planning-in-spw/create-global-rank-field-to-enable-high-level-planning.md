@@ -14,7 +14,7 @@ breadcrumb: [High-level planning configuration in Strategic Planning, Configure,
 
 # Create global rank column for high-level planning
 
-Create a global rank column for planning item types that do not extend the Planning Item \[sn\_align\_planning\_item\] table so that you can enable high-level planning for these items in [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace.
+Create a global rank column for planning item types that do not extend the Planning Item \[sn\_align\_planning\_item\] table so that you can enable high-level planning for these items in Strategic Planning Workspace.
 
 ## Before you begin
 
@@ -100,6 +100,3 @@ Application scope of the table.This field is populated automatically based on th
 
 Create a rank configuration for the global rank field you created. See [Create rank configuration for high-level planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-rank-configuration-enable-high-level-planning.md).
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

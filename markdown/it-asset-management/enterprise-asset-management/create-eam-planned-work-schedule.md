@@ -40,7 +40,7 @@ Role required: sn\_fsm\_planned\_wm.planned\_work\_admin
 
 5.  Apply a planned work schedule template to the work plan schedule.
 
-    Planned work schedule templates enable the [[enterprise-asset-management|Enterprise Asset Management]] application to automatically populate information, generate appropriate requests and tasks, and create part requirements for your work plans each time the planned work schedule runs.
+    Planned work schedule templates enable the Enterprise Asset Management application to automatically populate information, generate appropriate requests and tasks, and create part requirements for your work plans each time the planned work schedule runs.
 
     1.  On the **Planned Work Schedule Templates** tab of the work plan schedule record, select **New**.
 
@@ -105,6 +105,4 @@ Any work notes regarding the template.
 
     Work orders are created for each asset. You can view the work orders in the **Work Orders** tab.
 
-## Related
 
-- [[enterprise-asset-management|Enterprise Asset Management]]

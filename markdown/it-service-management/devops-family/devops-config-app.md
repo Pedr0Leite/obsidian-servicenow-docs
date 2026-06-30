@@ -14,7 +14,7 @@ breadcrumb: [Exploring DevOps Config, DevOps Config, IT Service Management]
 
 # Using an app in DevOps Config
 
-When you create an app in [[devops-config-landing-page|DevOps Config]], not only is it the container for the config data of the application, but the application model you choose links DevOps Config with other ServiceNow products, including [[devops-landing-page-new|DevOps Change Velocity]].
+When you create an app in DevOps Config, not only is it the container for the config data of the application, but the application model you choose links DevOps Config with other ServiceNow products, including DevOps Change Velocity.
 
 **Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
@@ -36,7 +36,3 @@ Mapping:
 
 **Parent Topic:**[Exploring DevOps Config](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-family/devops-config-getting-started.md)
 
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]
-- [[devops-landing-page-new|DevOps Change Velocity]]

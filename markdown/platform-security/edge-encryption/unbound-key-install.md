@@ -14,13 +14,13 @@ breadcrumb: [Set up a keystore and encryption keys, Install the Edge Encryption 
 
 # Set up Unbound Technology keys
 
-Use Unbound Technology \(previously Dyadic Security\) keys with [[edge-encryption|Edge Encryption]] by storing the base64-encoded wrapped [[encryption-landing|encryption]] key as text file on the Edge Encryption proxy server and providing the wrapping key alias. The Unbound Technology implementation maintains control of the wrapping key.
+Use Unbound Technology \(previously Dyadic Security\) keys with Edge Encryption by storing the base64-encoded wrapped encryption key as text file on the Edge Encryption proxy server and providing the wrapping key alias. The Unbound Technology implementation maintains control of the wrapping key.
 
 ## Before you begin
 
 Role required: security\_admin
 
-In your Unbound Technology implementation, identify both the wrapping key and the wrapped key. Use the RSA/ECB/OAEPWITHSHA-256ANDMGF1PADDING algorithm for wrapping and padding. [[export|Export]] the wrapped key in base64-encoded text format. Save the file using the key alias as the name with no file extension.
+In your Unbound Technology implementation, identify both the wrapping key and the wrapped key. Use the RSA/ECB/OAEPWITHSHA-256ANDMGF1PADDING algorithm for wrapping and padding. Export the wrapped key in base64-encoded text format. Save the file using the key alias as the name with no file extension.
 
 **Note:** If using Unbound Technology encryption keys with Edge Encryption, install the proxy server using the command line installer on the Unbound client machine. The Edge Encryption proxy server must run on the same machine as the Unbound technology client.
 
@@ -42,7 +42,7 @@ In your Unbound Technology implementation, identify both the wrapping key and th
 
         For more information on Edge Encryption properties, see [Edge Encryption proxy server properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/edge-encryption-proxy-server-properties.md).
 
-    4.  Uncomment the properties for the Dyadic provider [[sc-configuration|configuration]] and set the value of **edgeencryption.ekm.provider.rsa.wrapping.key.alias** to the wrapping key alias in your Unbound implementation.
+    4.  Uncomment the properties for the Dyadic provider configuration and set the value of **edgeencryption.ekm.provider.rsa.wrapping.key.alias** to the wrapping key alias in your Unbound implementation.
 
     5.  Save and close the file.
 
@@ -53,9 +53,3 @@ Add the encryption key alias to the instance. The encryption key alias is the fi
 
 **Parent Topic:**[Set up a keystore and encryption keys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/set-up-keystore.md)
 
-## Related
-
-- [[edge-encryption|Edge Encryption]]
-- [[encryption-landing|Encryption]]
-- [[export|Export]]
-- [[sc-configuration|Configuration]]

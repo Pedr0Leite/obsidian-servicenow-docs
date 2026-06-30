@@ -14,7 +14,7 @@ breadcrumb: [Genius Results, Search profiles, Configuring AI Search, AI Search, 
 
 # Create a Genius Result configuration
 
-Create a Genius Result configuration, set its trigger condition, and configure the [[hs-results|results]] displayed on its answer card.
+Create a Genius Result configuration, set its trigger condition, and configure the results displayed on its answer card.
 
 ## Before you begin
 
@@ -22,13 +22,13 @@ Role required: ais\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ia-ai-search|AI Search]]** &gt; **Search Experience** &gt; **Search Profiles**.
+1.  Navigate to **All** &gt; **AI Search** &gt; **Search Experience** &gt; **Search Profiles**.
 
 2.  Open the search profile that you want to link the new Genius Result configuration to.
 
-3.  In the [[genius-results-ais|Genius Results]] related list, select **Create and Link**.
+3.  In the Genius Results related list, select **Create and Link**.
 
-4.  On the [[genius-result-cfg-form-ais|AI Search Genius Result Configuration form]], fill in the fields.
+4.  On the AI Search Genius Result Configuration form, fill in the fields.
 
     For a description of the field values, see [AI Search Genius Result Configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/genius-result-cfg-form-ais.md).
 
@@ -41,16 +41,9 @@ Role required: ais\_admin
 
 ## What to do next
 
-Changes to Genius Result [[clone-configurations-tab|configurations]] take effect in search as soon as you save them. You don't need to publish the linked search profile to make the new configuration take effect.
+Changes to Genius Result configurations take effect in search as soon as you save them. You don't need to publish the linked search profile to make the new configuration take effect.
 
 If you selected an **NLU** trigger condition, you must link an NLU model and its intents to your Genius Result configuration. For instructions, see [Link an NLU model and intents to a Genius Result configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/link-nlu-model-genius-result-ais.md).
 
 **Parent Topic:**[Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/genius-results-ais.md)
 
-## Related
-
-- [[hs-results|Results]]
-- [[ia-ai-search|AI Search]]
-- [[genius-results-ais|Genius Results]]
-- [[genius-result-cfg-form-ais|AI Search Genius Result Configuration form]]
-- [[clone-configurations-tab|Configurations]]

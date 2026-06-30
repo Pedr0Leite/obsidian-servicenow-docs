@@ -14,9 +14,9 @@ breadcrumb: [Use, Operational Technology Incident Management, Operational Techno
 
 # Access control for incidents
 
-To help separate [[operational-technology-overview|Operational Technology]] \(OT\) and Information Technology \(IT\) data, only OT users can view OT incidents.
+To help separate Operational Technology \(OT\) and Information Technology \(IT\) data, only OT users can view OT incidents.
 
-The following table describes the roles and permissions for the users that have the [[operational-technology-incident-management-landing-page|Operational Technology Incident Management]] roles.
+The following table describes the roles and permissions for the users that have the Operational Technology Incident Management roles.
 
 |Role|Permissions|
 |----|-----------|
@@ -28,7 +28,3 @@ For more information about access control rules, see [Access control rules in ap
 
 **Parent Topic:**[Using Operational Technology Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/using-operational-technology-incident-mgt.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[operational-technology-incident-management-landing-page|Operational Technology Incident Management]]

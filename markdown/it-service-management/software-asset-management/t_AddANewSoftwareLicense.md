@@ -14,7 +14,7 @@ breadcrumb: [Software licenses in the legacy Software Asset Management plugin, L
 
 # Add a software license using the legacy Software Asset Management plugin
 
-You can add a new software license using the legacy Software [[c_AssetManagement|Asset Management]] \(com.snc.software\_asset\_management\) plugin.
+You can add a new software license using the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin.
 
 ## Before you begin
 
@@ -44,7 +44,7 @@ Role required: sam
     |Class|\[Read-only\] Automatically created as Software License.|
     |License metric|\[Optional\] A single metric which the software license is counted against.|
     |Serial number|Unique number assigned for identification.|
-    |Substate|More details about the software license stage. The available substate [[settings-mobile|settings]] depend on the **State** selected. For example, if you select the **Retired** state, the substate options available are **Disposed**, **Sold**, **Donated**, and **Vendor credit**.|
+    |Substate|More details about the software license stage. The available substate settings depend on the **State** selected. For example, if you select the **Retired** state, the substate options available are **Disposed**, **Sold**, **Donated**, and **Vendor credit**.|
     |Location|Where the license will be used. For example, a specific site, country, or region.|
     |Department|Department of the person **Assigned to** this software license.|
     |Company|Company that created the software.|
@@ -52,15 +52,10 @@ Role required: sam
     |Installed|Date on which the software license was installed.|
     |Comments|Information about the software license that would be helpful for others to know.|
 
-    For information about the fields in the **Financial** and **[[c_Contracts|Contracts]]** sections of the form, see [Create assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/t_CreatingAssets.md).
+    For information about the fields in the **Financial** and **Contracts** sections of the form, see [Create assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/t_CreatingAssets.md).
 
 4.  Click **Submit**.
 
 
 **Parent Topic:**[Software licenses in the legacy Software Asset Management plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_SoftwareLicenses.md)
 
-## Related
-
-- [[c_AssetManagement|Asset Management]]
-- [[settings-mobile|Settings]]
-- [[c_Contracts|Contracts]]

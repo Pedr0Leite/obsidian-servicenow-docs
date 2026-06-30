@@ -14,7 +14,7 @@ breadcrumb: [Configure a pull connector, Configure Event Management connectors, 
 
 # Configure the SolarWinds metrics connector instance
 
-Configure the SolarWinds connector instance to receive [[operational-metrics|Metric Intelligence]] raw data from the SolarWinds server.
+Configure the SolarWinds connector instance to receive Metric Intelligence raw data from the SolarWinds server.
 
 ## Before you begin
 
@@ -36,7 +36,7 @@ By default, the Solarwinds Metric Connector Collects metrics from the following 
 
 ## Procedure
 
-1.  Navigate to **[[c_EM|Event Management]]** &gt; **Integrations** &gt; **Connector Instances**.
+1.  Navigate to **Event Management** &gt; **Integrations** &gt; **Connector Instances**.
 
 2.  Select **New** and create a connector instance.
 
@@ -120,7 +120,3 @@ Name of the table from which metrics are collected.
 
 **Parent Topic:**[Configure a pull connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMConfigureConnectorInstance.md)
 
-## Related
-
-- [[operational-metrics|Metric Intelligence]]
-- [[c_EM|Event Management]]

@@ -12,13 +12,13 @@ breadcrumb: [Query Generation, Now Assist in Platform Analytics, Platform Analyt
 
 # Exploring Query Generation
 
-[[query-generation|Query Generation]] is an AI-powered service that translates user questions into an executable query and returns the results. An executable query contains the data source, filter, aggregation, and visualization instructions that best answer the user's question. The results include a textual summary, a data visualization, and suggestions for follow-up.
+Query Generation is an AI-powered service that translates user questions into an executable query and returns the results. An executable query contains the data source, filter, aggregation, and visualization instructions that best answer the user's question. The results include a textual summary, a data visualization, and suggestions for follow-up.
 
 ## Query Generation overview
 
 Query Generation relies on a [semantic data layer]() to generate queries. The semantic data layer is a flat representation of tables and table columns that the Query Generator uses to find the actual [facts tables]() and columns related to a user [utterance](). Specifically, facts tables are represented by [Entity]() records and their columns by [Dimension]() records.
 
-Not all facts tables are included in Query Generation, as this would overload an instance. To see which facts tables are included, open the Semantic Tables Configurations list \[sn\_query\_gen\_table\_config\_list\], and note which tables are present and have Enable Semantic Generation = true. You can add more tables to the list, but be careful of possible performance impacts. For more information, see [[add-table-semantic-layer|Add a table to the semantic data layer]].
+Not all facts tables are included in Query Generation, as this would overload an instance. To see which facts tables are included, open the Semantic Tables Configurations list \[sn\_query\_gen\_table\_config\_list\], and note which tables are present and have Enable Semantic Generation = true. You can add more tables to the list, but be careful of possible performance impacts. For more information, see [Add a table to the semantic data layer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/add-table-semantic-layer.md).
 
 ## How Query Generation works
 
@@ -35,20 +35,13 @@ Query Generation uses a semantic filter to narrow the entities \(facts tables\) 
 
 |User|Description|
 |----|-----------|
-|ServiceNow AI Platform administrators responsible for [[now-assist-platform-analytics|Now Assist in Platform Analytics]] \[admin\]|Administrators can add or remove tables from the semantic data layer. Only users with the admin role can read or change Query Generation records.|
+|ServiceNow AI Platform administrators responsible for Now Assist in Platform Analytics \[admin\]|Administrators can add or remove tables from the semantic data layer. Only users with the admin role can read or change Query Generation records.|
 |Users of Now Assist in Platform Analytics applications|Users of the Now Assist in Platform Analytics applications call Query Generation through those applications, although Query Generation is not visible to them. They should have the required Query Generation user roles through the roles granted to them to use the intermediary application.|
 
 ## What to explore next
 
 To learn more about configuring and using Query Generation, see:
 
--   [[configuring-query-generation|Configuring Query Generation]]
--   [[query-generation-reference|Query Generation reference]]
+-   [Configuring Query Generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configuring-query-generation.md)
+-   [Query Generation reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/query-generation-reference.md)
 
-## Related
-
-- [[add-table-semantic-layer|Add a table to the semantic data layer]]
-- [[configuring-query-generation|Configuring Query Generation]]
-- [[query-generation-reference|Query Generation reference]]
-- [[query-generation|Query Generation]]
-- [[now-assist-platform-analytics|Now Assist in Platform Analytics]]

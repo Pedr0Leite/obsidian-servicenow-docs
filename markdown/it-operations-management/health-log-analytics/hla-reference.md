@@ -14,7 +14,7 @@ breadcrumb: [Health Log Analytics, ITOM AIOps, IT Operations Management]
 
 # Health Log Analytics reference
 
-Reference topics provide additional information about the [[hla-landing-page|Health Log Analytics]] application.
+Reference topics provide additional information about the Health Log Analytics application.
 
 -   **[Components installed with Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-components.md)**  
 Activating the Health Log Analytics, Health Log Analytics Viewer and Health Log Analytics Core plugins adds several components.
@@ -27,7 +27,7 @@ Requirements for using a MID Server proxy to stream log data to Health Log Analy
 -   **[Health Log Analytics configuration preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-configuration-preferences.md)**  
 Commonly used settings for Health Log Analytics properties and general configuration.
 -   **[Health Log Analytics system health notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-sys-health-notifications-ref.md)**  
-[[hla-sys-health-notifications-ref|Health Log Analytics system health notifications]] help to ensure that you're aware of potentially dangerous conditions. You can manually adjust the status of a notification as the issue is being addressed.
+Health Log Analytics system health notifications help to ensure that you're aware of potentially dangerous conditions. You can manually adjust the status of a notification as the issue is being addressed.
 -   **[Health Log Analytics self-health checks, notifications, and proposed actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-self-health-notifications.md)**  
  Health Log Analytics provides self-health checks, notifications, and proposed problem-solving steps.
 -   **[Health Log Analytics language and character support](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-localization.md)**  
@@ -35,7 +35,7 @@ Health Log Analytics provides international language support. The default langua
 -   **[Domain separation and Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-domain-separation.md)**  
 Domain separation is supported for Health Log Analytics. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 -   **[JavaScript function test outcome fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-mapping-script-outcome-ref.md)**  
-Description of the [[hla-mapping-script-outcome-ref|JavaScript function test outcome fields]].
+Description of the JavaScript function test outcome fields.
 -   **[Health Log Analytics severity mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-severity-mapping.md)**  
 Health Log Analytics \(HLA\) uses common severity values to identify severity labels in the Source Type Structure.
 -   **[Sections and cards on the alert Overview tab in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-alert-overview-tab.md)**  
@@ -55,11 +55,5 @@ Field descriptions for the Log-based CI candidates table, the Log-based CI candi
 -   **[Metric Data table columns in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-metric-data-table-ref.md)**  
 The Metric Data table lists all metrics that Health Log Analytics collects. Use the table to query metrics by log source, integration, source type, and metric type, review anomaly detection statistics, and view metric baselines.
 
-**Parent Topic:**[[itom-health-landing-page|ITOM AIOps]]
+**Parent Topic:**[ITOM AIOps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-health-landing-page.md)
 
-## Related
-
-- [[itom-health-landing-page|ITOM AIOps]]
-- [[hla-landing-page|Health Log Analytics]]
-- [[hla-sys-health-notifications-ref|Health Log Analytics system health notifications]]
-- [[hla-mapping-script-outcome-ref|JavaScript function test outcome fields]]

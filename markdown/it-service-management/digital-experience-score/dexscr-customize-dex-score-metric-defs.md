@@ -22,7 +22,7 @@ Role required: sn\_dex\_score.digital\_workplace\_leader, sn\_dex.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[dexscr-digital-experience-score|Digital Experience Score​]]** &gt; **Metric Definition Configuration**.
+1.  Navigate to **All** &gt; **Digital Experience Score​** &gt; **Metric Definition Configuration**.
 
 2.  Open a metric definition configuration to modify its details.
 
@@ -32,7 +32,7 @@ Role required: sn\_dex\_score.digital\_workplace\_leader, sn\_dex.admin
 
     2.  From the drop-down list, select one of the following options:
 
-        -   L1 checklist: Metric details are visible to service desk agents from the Investigation tab page of incident records for DEX monitored [[dex-workspace-devices-tab|devices]].
+        -   L1 checklist: Metric details are visible to service desk agents from the Investigation tab page of incident records for DEX monitored devices.
         -   Advanced: Metric details are visible to administrators and IT operators. Service desk agents can view advanced metrics by toggling **Show additional metrics** on the Investigation tab page of incident records.
     3.  To delete a value, select the value and then select the Remove selected item icon \[Omitted image "icon-remove.png"\] Alt text:.
 
@@ -64,7 +64,3 @@ Role required: sn\_dex\_score.digital\_workplace\_leader, sn\_dex.admin
 
 [DEX Score normalization for metric scores](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/dexscr-dex-score-normalization.md)
 
-## Related
-
-- [[dexscr-digital-experience-score|Digital Experience Score​]]
-- [[dex-workspace-devices-tab|Devices]]

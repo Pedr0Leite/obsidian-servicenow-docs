@@ -12,7 +12,7 @@ breadcrumb: [Setting up roles and responsibilities, Configure, Care Team Work Ma
 
 # Create a group for Care Team Agent Managers
 
-[[ctwm-create-group-agents|Create a group for care team agents]] with the sn\_cto.care\_team\_agent\_manager and wm.dispatch roles assigned so that users added to this group will inherit the collection of roles needed for care team managers.
+Create a group for care team agents with the sn\_cto.care\_team\_agent\_manager and wm.dispatch roles assigned so that users added to this group will inherit the collection of roles needed for care team managers.
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ Role required: admin
 
 A user group has been created that you can assign care team members to when doing automated user imports.
 
-## Related
-
-- [[ctwm-create-group-agents|Create a group for Care Team Agents]]

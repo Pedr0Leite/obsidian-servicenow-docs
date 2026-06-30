@@ -43,8 +43,5 @@ The preferred reporting unit for any data is specified in a metric definition. W
 4.  Select **Submit**.
 
 
-**Parent Topic:**[[configuring-grc-metrics|Configuring GRC: Metrics]]
+**Parent Topic:**[Configuring GRC: Metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/configuring-grc-metrics.md)
 
-## Related
-
-- [[configuring-grc-metrics|configuring grc metrics]]

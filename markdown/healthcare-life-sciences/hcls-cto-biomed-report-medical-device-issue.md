@@ -20,7 +20,7 @@ Role required: sn\_hco.care\_team\_member
 
 ## Procedure
 
-1.  In the [[care-team-portal-landing|Care Team Portal]], navigate to **Create a request** &gt; **Request biomed service** &gt; **Report a medical device issue**.
+1.  In the Care Team Portal, navigate to **Create a request** &gt; **Request biomed service** &gt; **Report a medical device issue**.
 
 2.  Fill in the following fields.
 
@@ -131,6 +131,4 @@ The phone number of the associated contact for this request.
 </td></tr></tbody>
 </table>3.  Select **Submit**.
 
-## Related
 
-- [[care-team-portal-landing|Care Team Portal]]

@@ -28,7 +28,7 @@ For example, if your company's IT network group has a Slack channel that they mo
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[emergency-outreach|Emergency Outreach]]** &gt; **Channels**.
+1.  Navigate to **All** &gt; **Emergency Outreach** &gt; **Channels**.
 
 2.  Click **New**.
 
@@ -86,7 +86,7 @@ For example, if your company's IT network group has a Slack channel that they mo
 
     1.  Create a subflow to use in the notification.
 
-        For information about creating, publishing, and testing [[flows-ukg|subflows]], see [Subflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/subflows.md).
+        For information about creating, publishing, and testing subflows, see [Subflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/subflows.md).
 
         Use the following inputs in the subflow that you create:
 
@@ -95,7 +95,7 @@ For example, if your company's IT network group has a Slack channel that they mo
 
             If the mode is *Privacy Consent*, then acknowledgements are set to a valid GlideRecord and *survey\_instances* is `null`.
 
-        -   *channel* \([[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] of sn\_imt\_checkin\_channels\)
+        -   *channel* \(Reference of sn\_imt\_checkin\_channels\)
         The following outputs are optional:
 
         -   *total\_count* \(integer\)
@@ -121,8 +121,3 @@ When a notification is sent using a custom notification channel, a Delivery Logs
 
 **Parent Topic:**[Setting up data privacy consent settings for Contact Tracing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/set-up-privacy-consent-settings.md)
 
-## Related
-
-- [[emergency-outreach|Emergency Outreach]]
-- [[flows-ukg|Subflows]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

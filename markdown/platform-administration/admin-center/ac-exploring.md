@@ -14,7 +14,7 @@ breadcrumb: [Admin Center, Get started, Administer the ServiceNow AI Platform]
 
 # Exploring Admin Center
 
-[[admin-center-intro|Admin Center]] gives a centralized control of the instance to the admins with easy access to the platform capabilities, applications, and configurable admin dashboards.
+Admin Center gives a centralized control of the instance to the admins with easy access to the platform capabilities, applications, and configurable admin dashboards.
 
 ## Admin Center overview
 
@@ -51,6 +51,3 @@ If you are new to Admin Center, read this summary to learn what the product can 
 
 **Parent Topic:**[Admin Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/admin-center/admin-center-intro.md)
 
-## Related
-
-- [[admin-center-intro|Admin Center]]

@@ -14,7 +14,7 @@ breadcrumb: [AWS, Service Graph Connectors for AI Control Tower, AI connections,
 
 # AWS APIs used for Amazon
 
-Explore the AWS APIs used in [[aws_0|AI Service Graph Connector for Amazon]].
+Explore the AWS APIs used in AI Service Graph Connector for Amazon.
 
 This section lists all AWS APIs used in AI Service Graph Connector for Amazon.
 
@@ -75,6 +75,3 @@ Amazon SageMaker \(SageMaker\)
 |`aws_sagemaker_describe_model_card`|DescribeModelCard|
 |`aws_sagemaker_test_connection`|ListModels|
 
-## Related
-
-- [[aws_0|AI Service Graph Connector for Amazon]]

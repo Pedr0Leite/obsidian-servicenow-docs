@@ -15,7 +15,7 @@ breadcrumb: [Kubernetes discovery using Kubernetes Visibility Agent, Discovery f
 
 # Configuring Kubernetes Visibility Agent
 
-Set up [[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]] by performing the described procedures.
+Set up Kubernetes Visibility Agent by performing the described procedures.
 
 For information about advanced configuration options, see the [Administrating and Troubleshooting Kubernetes Visibility Agent \(formerly CNO for Visibility\) \[KB1532614\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1532614) article in the Now Support Knowledge Base.
 
@@ -28,11 +28,7 @@ Application service maps give you visibility into how workloads communicate in a
 -   **[Pulling additional resources from Kubernetes clusters into the CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cnov-config-pulling-extra-resources.md)**  
 You can configure the Kubernetes Visibility Agent Informer to pull extra resources from Kubernetes clusters into the Configuration Management Database \(CMDB\), in addition to the resources it sends to the database by default. By pulling in additional resources beyond the default set, you can enhance visibility into your Kubernetes clusters.
 -   **[Upgrade Kubernetes Visibility Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/acckv-upgrade.md)**  
-You can [[acckv-upgrade|upgrade Kubernetes Visibility Agent]] using either a Helm chart or the Kubernetes YAML file.
+You can upgrade Kubernetes Visibility Agent using either a Helm chart or the Kubernetes YAML file.
 
 **Parent Topic:**[Kubernetes Visibility Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/acc-kubernetes-visibility-landing-page.md)
 
-## Related
-
-- [[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]]
-- [[acckv-upgrade|Upgrade Kubernetes Visibility Agent]]

@@ -22,7 +22,7 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[recruitment-workspace-concept|Recruitment workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Recruitment workspace**.
 
 2.  From the list of job requisitions on the dashboard, open a requisition that is in **Ready** state.
 
@@ -31,7 +31,7 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
 ## Result
 
-The requisition is in **Open** state. It’s open to the ATS and can be taken forward for further [[hiring-tab-concept|hiring]] process.
+The requisition is in **Open** state. It’s open to the ATS and can be taken forward for further hiring process.
 
 For more information on the integration with your ATS, see [Integrate with your ATS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/integrate-ats.md).
 
@@ -56,7 +56,3 @@ For more information on the integration with your ATS, see [Integrate with your 
 
 [Resend a job requisition for approval]()
 
-## Related
-
-- [[recruitment-workspace-concept|Recruitment workspace]]
-- [[hiring-tab-concept|Hiring]]

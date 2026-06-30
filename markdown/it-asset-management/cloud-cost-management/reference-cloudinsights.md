@@ -14,12 +14,12 @@ breadcrumb: [Cloud Cost Management, IT Asset Management]
 
 # Cloud Cost Management reference
 
-Reference topics provide additional information about the lists and forms that you use to configure and administer [[cloud-insights-landing-page|Cloud Cost Management]].
+Reference topics provide additional information about the lists and forms that you use to configure and administer Cloud Cost Management.
 
 -   **[Domain separation and Cloud Cost Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/domain-separation-cloudin.md)**  
 Domain separation is unsupported for Cloud Cost Management. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 -   **[Cloud Cost Management roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/cloud-insights-roles.md)**  
-You assign [[cloud-insights-roles|Cloud Cost Management roles]] to user groups and to individual users based on user activities and responsibilities.
+You assign Cloud Cost Management roles to user groups and to individual users based on user activities and responsibilities.
 -   **[Components installed with Cloud Cost Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/installed-with-ci.md)**  
 Several types of components are installed with activation of the Cloud Cost Management application, including tables, user roles, and scheduled jobs.
 -   **[System properties for Cloud Cost Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/sys-pro-ci.md)**  
@@ -35,7 +35,7 @@ Fields on the Budget policy creation form help you create a budget policy to spe
 -   **[List of Shared cost allocation policy fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/shared-cost-allocation-policy-fields.md)**  
 Fields on the Shared cost allocation policy creation form help you create a shared cost allocation policy.
 -   **[List of default tag categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/default-tag-categories.md)**  
-View the [[default-tag-categories|list of default tag categories]] on the Tag categories page. A tag category helps you to enable multiple tag names for representing costs against a single business entity.
+View the list of default tag categories on the Tag categories page. A tag category helps you to enable multiple tag names for representing costs against a single business entity.
 -   **[List of default Cloud categories for AI services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/ai-service-provider-list.md)**  
 List of default Cloud categories applicable to the Machine Learning service category for managing AI services.
 -   **[Supported CI class types for Amazon AWS Cloud services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/aws-supported-ci-class-types.md)**  
@@ -45,11 +45,5 @@ Supported CI class types for Microsoft Azure enable assigning cost and usage dat
 -   **[Supported CI class types for Google Cloud services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/gcp-supported-ci-class-types.md)**  
 Supported CI class types for Google Cloud enable assigning cost and usage data correctly using the CI placement process. Some CI class types are placed immediately. The CI placement process places a subset of CIs into corresponding CI tables that are used in the recommendation generation process for Cloud Cost Management.
 
-**Parent Topic:**[[it-asset-management|IT Asset Management]]
+**Parent Topic:**[IT Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/it-asset-management.md)
 
-## Related
-
-- [[it-asset-management|IT Asset Management]]
-- [[cloud-insights-landing-page|Cloud Cost Management]]
-- [[cloud-insights-roles|Cloud Cost Management roles]]
-- [[default-tag-categories|List of default tag categories]]

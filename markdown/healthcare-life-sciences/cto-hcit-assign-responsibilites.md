@@ -12,7 +12,7 @@ breadcrumb: [Setting up roles and responsibilities in Care Team Operations for H
 
 # Assign responsibilities to Care Team Operations for Healthcare IT users
 
-Assign responsibilities to users in [[hcls-cto-it-app|Care Team Operations for Healthcare IT]] to dictate which specific records users are authorized to view or modify.
+Assign responsibilities to users in Care Team Operations for Healthcare IT to dictate which specific records users are authorized to view or modify.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ You can edit the responsibilities of Care Team Operations for Healthcare IT user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[healthcare-operations-overview|Healthcare Operations]]** &gt; **Healthcare Organizations** &gt; **All**.
+1.  Navigate to **All** &gt; **Healthcare Operations** &gt; **Healthcare Organizations** &gt; **All**.
 
 2.  Select the parent organization.
 
@@ -48,7 +48,4 @@ You can edit the responsibilities of Care Team Operations for Healthcare IT user
 
 7.  Select **Save**.
 
-## Related
 
-- [[hcls-cto-it-app|Care Team Operations for Healthcare IT]]
-- [[healthcare-operations-overview|Healthcare Operations]]

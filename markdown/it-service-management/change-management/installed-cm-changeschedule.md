@@ -14,7 +14,7 @@ breadcrumb: [Activate Change Management - Change Schedule, Change Management plu
 
 # Installed with Change Management - Change Schedule
 
-Several types of components are installed with the [[c_ITILChangeManagement|Change Management]] - Change Schedule.
+Several types of components are installed with the Change Management - Change Schedule.
 
 **Parent Topic:**[Activate Change Management - Change Schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/activate-changemgmt-changeschedule.md)
 
@@ -24,7 +24,7 @@ Plugins are added with activation of Change Management - Change Schedule.
 
 |Plugin|ID|Description|
 |------|---|-----------|
-|Change Management - Change Schedule|com.snc.change\_management.soc|This plugin is the core [[change-schedule|Change Schedules]] plugin which includes the supporting Change Schedules table structure, [[dex-workspace-dashboard-tab|landing page]], and Change Schedules user interface.|
+|Change Management - Change Schedule|com.snc.change\_management.soc|This plugin is the core Change Schedules plugin which includes the supporting Change Schedules table structure, landing page, and Change Schedules user interface.|
 |Change Management - Change Schedule foundation|com.snc.change\_management.soc.foundation|This plugin contains six change schedules to help users. Enabling this plugin automatically enables Change Management – Change Schedules Version 1.0.0.|
 
 ## Roles installed with Change Management - Change Schedule
@@ -346,7 +346,7 @@ Script includes are added with activation of Change Management - Change Schedule
 |SoCLandingModelBuilderSNC|Builds the change schedule definition model used by the Change Schedule landing page|
 |SoCModelBuilder|Extends SoCModelBuilderSNC and can be used to overwrite functionality defined therein|
 |SoCModelBuilderSNC|Builds the change schedule model used by the change schedule page|
-|SoCRefFieldsList|Field choice list processor. Return the fields on the current table which [[reference-for-itsm-mobile-agent|reference]] the parent table|
+|SoCRefFieldsList|Field choice list processor. Return the fields on the current table which reference the parent table|
 |SoCRefTablesList|Field Choice List Processor. Return the tables referencing the provided table name.|
 |SoCStyleRule|Extends SoCStyleRuleSNC and can be used to overwrite functionality defined therein|
 |SoCStyleRuleSNC|Provides utilities for style rules|
@@ -357,7 +357,7 @@ UI scripts are added with activation of Change Management - Change Schedule.
 
 |UI Scripts|Description|
 |----------|-----------|
-|sn\_chg\_soc.change\_soc|Angular module for the change schedule, which includes all of the angular [[dex-workspace-application-tab|applications]] dependencies|
+|sn\_chg\_soc.change\_soc|Angular module for the change schedule, which includes all of the angular applications dependencies|
 |sn\_chg\_soc.change\_soc\_filter|Angular module for text filtering on the change schedule page|
 |sn\_chg\_soc.config|Angular module for the configuration panel on the change schedule page|
 |sn\_chg\_soc.context\_menu|Angular module for the context menu on the change schedule page|
@@ -387,10 +387,3 @@ UI scripts are added with activation of Change Management - Change Schedule.
 |sn\_chg\_soc.sn\_soc\_now.scheduleService|Angular module for the change schedule landing page that is used to retrieve change schedule definitions from the server|
 |sn\_chg\_soc.style|Angular module for the style panel on the change schedule page|
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]
-- [[change-schedule|Change schedules]]
-- [[dex-workspace-dashboard-tab|Landing page]]
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[dex-workspace-application-tab|Applications]]

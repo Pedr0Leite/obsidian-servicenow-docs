@@ -22,13 +22,13 @@ Role required: sn\_spend\_psd.requestor
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[psd-overview|Procurement Case Management]]**.
+1.  Navigate to **All** &gt; **Procurement Case Management**.
 
 2.  Select **Create New**.
 
 3.  On the form, fill in the fields.
 
-    \[Omitted image "create\_procurement\_case.png"\] Alt text: [[create-procurement-case|Create a procurement case]].
+    \[Omitted image "create\_procurement\_case.png"\] Alt text: Create a procurement case.
 
     |Field|Description|
     |-----|-----------|
@@ -58,7 +58,3 @@ Role required: sn\_spend\_psd.requestor
 
 **Parent Topic:**[Using Procurement Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/using-pcm.md)
 
-## Related
-
-- [[psd-overview|Procurement Case Management]]
-- [[create-procurement-case|Create a procurement case]]

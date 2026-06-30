@@ -18,7 +18,7 @@ Compound Security Attributes enable you to create consistent and reusable Securi
 
 ## Overview
 
-Compound Security attributes are defined from one or more pre-existing [[security-attributes-landing|Security Attributes]] to create a single reference combination of Security Attributes for permissions evaluation.
+Compound Security attributes are defined from one or more pre-existing Security Attributes to create a single reference combination of Security Attributes for permissions evaluation.
 
 ## Compound Security Attribute Behavior
 
@@ -48,6 +48,4 @@ Role required: security\_admin
     |Condition|The specific Security Attribute conditions used to the define the Security Attributes evaluation.|
     |New Criteria|Add additional set of **Or** conditions for evaluation.|
 
-## Related
 
-- [[security-attributes-landing|Security Attributes]]

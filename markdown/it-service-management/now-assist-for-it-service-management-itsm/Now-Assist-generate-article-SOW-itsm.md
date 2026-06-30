@@ -15,7 +15,7 @@ breadcrumb: [Use generative AI skills, Now Assist for IT Service Management \(IT
 
 # Generate a knowledge article from the Service Operations Workspace for ITSM and classic environment by using Now Assist
 
-As an agent or knowledge writer, quickly generate knowledge articles from resolved and closed incidents within the [[sow-landing-page|Service Operations Workspace for ITSM]] application and classic environment by using the Now Assist application.
+As an agent or knowledge writer, quickly generate knowledge articles from resolved and closed incidents within the Service Operations Workspace for ITSM application and classic environment by using the Now Assist application.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ The Knowledge generation skill is turned on by default. The skill will be automa
 
 **Important:**
 
--   Install the [[dex-workspace-application-tab|applications]] and plugins listed in the tables below and update them to the corresponding store app version before configuring the Knowledge Generation skill.
+-   Install the applications and plugins listed in the tables below and update them to the corresponding store app version before configuring the Knowledge Generation skill.
 -   For information on the plugin version numbers that correspond to the release you’re installing, see [https://store.servicenow.com/store/app/2c09636e1be06a50a85b16db234bcb74\#versionSummary](https://store.servicenow.com/store/app/2c09636e1be06a50a85b16db234bcb74#versionSummary)
 
 -   For Knowledge Management, you must install and update the following store apps to the corresponding application version.
@@ -40,7 +40,7 @@ The Knowledge generation skill is turned on by default. The skill will be automa
     |Application name|Plugin ID|
     |----------------|---------|
     |Service Operations Workspace ITSM Applications|sn\_sow\_itsm\_cont|
-    |Now Assist for [[r_ITServiceManagement|IT Service Management]] \(ITSM\)|sn\_itsm\_gen\_ai|
+    |Now Assist for IT Service Management \(ITSM\)|sn\_itsm\_gen\_ai|
     |Service Operations Workspace Core|sn\_sow|
     |Record Page for Service Operations Workspace|sn\_sow\_record|
     |Service Operations Workspace ITSM Common|sn\_sow\_itsm\_common|
@@ -76,7 +76,7 @@ Role required: itil
     **Note:**
 
     -   The **Create knowledge** UI action is only visible when an incident doesn't have an existing knowledge article that is associated with it.
-    -   When the **Create knowledge** action is initiated, it gets redirected to an interceptor page. The Knowledge article interceptor page displays only when the KCS integration for [[c_IncidentManagement|incident management]] \(com.snc.incident.knowledge\) plugin is not installed.
+    -   When the **Create knowledge** action is initiated, it gets redirected to an interceptor page. The Knowledge article interceptor page displays only when the KCS integration for incident management \(com.snc.incident.knowledge\) plugin is not installed.
 
         **Important:** If the KCS integration for incident management \(com.snc.incident.knowledge\) plugin is installed, then the interceptor page is skipped.
 
@@ -213,9 +213,3 @@ The knowledge article is attached to all similar incidents.
 
 [Now Assist in Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-knowledge-management.md)
 
-## Related
-
-- [[sow-landing-page|Service Operations Workspace for ITSM]]
-- [[dex-workspace-application-tab|Applications]]
-- [[r_ITServiceManagement|IT Service Management]]
-- [[c_IncidentManagement|Incident Management]]

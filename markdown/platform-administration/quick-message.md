@@ -12,7 +12,7 @@ breadcrumb: [Configure, Email client, Notifications, Configure core features, Ad
 
 # Composing emails with quick messages
 
-Insert predefined content into the message body of emails that you send from the [[c_EnableTheEmailClient|email client]].
+Insert predefined content into the message body of emails that you send from the email client.
 
 ## Using quick messages
 
@@ -55,13 +55,8 @@ For example, if you designate Beth Anglin as the user for a certain quick messag
 
 If you associate a quick message to the Incident \[incident\] table, the quick message is available in the email client only after you launch from an incident record. If you specify a target record from the Incident table for the quick message, the quick message is set to available in the email client only for matching incident records.
 
--   **[[t_QuickMessages|Define a quick message]]**  
+-   **[Define a quick message](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_QuickMessages.md)**  
 Create predefined content to add in the email client so that users can write emails consistently and efficiently.
 
-**Parent Topic:**[[configuring-email-client|Configure email client]]
+**Parent Topic:**[Configure email client](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configuring-email-client.md)
 
-## Related
-
-- [[t_QuickMessages|Define a quick message]]
-- [[configuring-email-client|Configure email client]]
-- [[c_EnableTheEmailClient|Email client]]

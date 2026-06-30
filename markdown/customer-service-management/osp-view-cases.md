@@ -20,7 +20,7 @@ Role required: sn\_csm\_ocs.ext\_manager or sn\_csm\_ocs.ext\_agent
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[outsourced-service-provider|Outsourced Customer Service]]** &gt; **Cases**.
+1.  Navigate to **All** &gt; **Outsourced Customer Service** &gt; **Cases**.
 
     You must be able to see **My Cases**, **All**, **Open**, and **Unassigned** cases. Users who aren’t authorized or who don’t belong to this OSP won’t see any case.
 
@@ -30,6 +30,4 @@ Role required: sn\_csm\_ocs.ext\_manager or sn\_csm\_ocs.ext\_agent
 
     The **Assigned to** field is pre-filled with your name.
 
-## Related
 
-- [[outsourced-service-provider|Outsourced Customer Service]]

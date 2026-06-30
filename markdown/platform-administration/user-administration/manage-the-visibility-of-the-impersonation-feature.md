@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[r_SetArchiveRuleProcessingBehavior|System properties]]** &gt; **UI properties**.
+1.  Navigate to **All** &gt; **System properties** &gt; **UI properties**.
 
 2.  Select a check box under **Enable impersonation button in the banner line** to display or conceal the button.
 
@@ -33,6 +33,3 @@ Role required: admin
 
 **Parent Topic:**[Impersonating users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/c_ImpersonateAUser.md)
 
-## Related
-
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

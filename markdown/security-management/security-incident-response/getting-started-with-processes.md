@@ -14,7 +14,7 @@ breadcrumb: [Use, Security Incident Response Workspace, Security Incident Respon
 
 # Prerequisites for the Playbooks
 
-You need the following roles and plugins to build the [[tisc-playbooks-admin|Playbooks]].
+You need the following roles and plugins to build the Playbooks.
 
 Role required: admin.
 
@@ -23,8 +23,8 @@ Role required: admin.
     -   com.playbook\_experience
     -   now\_playbook\_exp
     -   com.glide.playbook\_experience.config
--   Enable [[security-operations-landing-page|Security Operations]] spoke to access flows \[com.snc.secops.spoke\].
--   Enterprise [[case-mgmt|Security Case Management]] PAD Commons.
+-   Enable Security Operations spoke to access flows \[com.snc.secops.spoke\].
+-   Enterprise Security Case Management PAD Commons.
 
 Make sure that you have read the platform documentation on [Exploring Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/process-automation-designer.md) and [Process Automation Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/process-automation-designer.md) before you start with this guide.
 
@@ -51,8 +51,3 @@ Make sure that you have read the platform documentation on [Exploring Playbook](
 
 [Handle security incidents using Advanced Work Assignment]()
 
-## Related
-
-- [[tisc-playbooks-admin|Playbooks]]
-- [[security-operations-landing-page|Security Operations]]
-- [[case-mgmt|Security Case Management]]

@@ -22,7 +22,7 @@ Role required: sn\_lg\_ops.legal\_fulfiller
 
 ## About this task
 
--   Ensure you have installed and configured the [[lsd-predictive-intelligence-landing|Predictive Intelligence for Legal Service Delivery]] plugin \(sn\_lg\_pi\). For more information, see [Configure Predictive Intelligence for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-PI-configure-landing.md)
+-   Ensure you have installed and configured the Predictive Intelligence for Legal Service Delivery plugin \(sn\_lg\_pi\). For more information, see [Configure Predictive Intelligence for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-PI-configure-landing.md)
 -   Ensure the solution definitions are trained on your ServiceNow instance.
 -   When a legal request is submitted, the Predictive Intelligence feature predicts values for the subcategory and assignment group based on solution definitions.
 -   Under the following conditions, the values are predicted again.
@@ -34,7 +34,7 @@ Role required: sn\_lg\_ops.legal\_fulfiller
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Legal Request** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
 2.  Click the list icon \(\[Omitted image "lsd-lcc-list-icon.png"\] Alt text: List icon\).
 
@@ -43,12 +43,7 @@ Role required: sn\_lg\_ops.legal\_fulfiller
     -   Predictions for Subcategory and Assignment group are available.
     -   Fields with high confidence predictions are automatically updated with the predicted value.
     -   Fields with medium and low confidence predictions are not automatically updated but the values are shown as suggestions.
-    -   The [[activity-lxp|Activity]] stream is also updated with the predicted values. You can customize the activity stream to display additional fields. For more information, see [Configure fields to be displayed in Activity stream](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-configure-activity-stream.md).
+    -   The Activity stream is also updated with the predicted values. You can customize the activity stream to display additional fields. For more information, see [Configure fields to be displayed in Activity stream](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-configure-activity-stream.md).
 
 **Parent Topic:**[Use Predictive Intelligence for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-PI-use-landing.md)
 
-## Related
-
-- [[lsd-predictive-intelligence-landing|Predictive intelligence for Legal Service Delivery]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[activity-lxp|Activity]]

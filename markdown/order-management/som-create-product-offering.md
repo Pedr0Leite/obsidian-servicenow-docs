@@ -12,7 +12,7 @@ breadcrumb: [Configuring product offerings and catalogs, Lead-to-cash foundation
 
 # Create product offerings
 
-Create and publish a product offering in [[order-mgt-overview|Sales Customer Relationship Management]]. Product offerings represent entities that are orderable from the provider of the catalog and includes pricing information. Once published, product offerings are available to agents as they create leads, opportunities, quotes, and orders and to customers placing orders.
+Create and publish a product offering in Sales Customer Relationship Management. Product offerings represent entities that are orderable from the provider of the catalog and includes pricing information. Once published, product offerings are available to agents as they create leads, opportunities, quotes, and orders and to customers placing orders.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: sn\_prd\_pm.product\_catalog\_admin or sn\_prd\_pm.product\_manag
 
     **Note:** You can also create a product offering from the product specification.
 
-4.  In the Details tab, fill in the [[fields|fields]].
+4.  In the Details tab, fill in the fields.
 
 <table id="table_customer_order_workspace"><thead><tr><th>
 
@@ -92,7 +92,7 @@ Configurable
 
 </td><td>
 
-Option that indicates the product is customizable and can be configured by agents and customers using the CPQ Configurator, if implemented in your organization. For more information, see [[using-servicenowcpq|Using the CPQ Configurator]].
+Option that indicates the product is customizable and can be configured by agents and customers using the CPQ Configurator, if implemented in your organization. For more information, see [Using the CPQ Configurator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-servicenowcpq.md).
 
 </td></tr><tr><td>
 
@@ -102,7 +102,7 @@ Allow multiple configurations
 
 Option that enables agents or customers to create and manage multiple configurations of a child product offering so each configuration can be handled as a separate line item in a configurable product. **Note:** If the product has an associated product specification, this option is enabled automatically and can't be deselected.
 
-For more information on how multiple configurations work in [[configurable-products-explore|configurable products]], see [[multiple-child-offering-configurations|Multiple configurations]].
+For more information on how multiple configurations work in configurable products, see [Multiple configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/multiple-child-offering-configurations.md).
 
 </td></tr><tr><td>
 
@@ -114,7 +114,7 @@ Option indicating that the product is for one-time use. **Note:** When the order
 
 -   Move, Add, Change, Disconnect \(MACD\) actions can't be performed on the sold product or product inventory records of transient product offerings.
 -   The **Create contract** option is not applicable to transient product offerings.
-For more information on transient products, see [[configuring-transient-products|Defining transient products]].
+For more information on transient products, see [Defining transient products](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configuring-transient-products.md).
 
 </td></tr><tr><td>
 
@@ -154,7 +154,7 @@ Offering type
 
 </td><td>
 
-Type of product offer. Select one of the following:-   Product: A product entity that an agent or customer can add to a Sales CRM transaction. For example, agents can [[lead-management-add-product|add products to a lead]], opportunity, quote, or order from the CSM Configurable Workspace. Customers can add products to an order from the Business Portal.
+Type of product offer. Select one of the following:-   Product: A product entity that an agent or customer can add to a Sales CRM transaction. For example, agents can add products to a lead, opportunity, quote, or order from the CSM Configurable Workspace. Customers can add products to an order from the Business Portal.
 -   Entitlement: An entity such as a warranty or subscription that can be added to a lead, opportunity, quote, or order by an agent.
 
 
@@ -176,7 +176,7 @@ Distribution channel
 
 </td><td>
 
-Option to set and lock in a distribution channel. For example, you can specify web as a channel. You can specify multiple channels.If you're using the Service Exchange [[explore-order-management|Order Management]] for Providers application, enter Service Exchange.
+Option to set and lock in a distribution channel. For example, you can specify web as a channel. You can specify multiple channels.If you're using the Service Exchange Order Management for Providers application, enter Service Exchange.
 
 </td></tr><tr><td>
 
@@ -192,7 +192,7 @@ Product specification
 
 </td><td>
 
-Functional view of a product offering that drives [[reviewing-orchestration-plans-order-fulfillment|order fulfillment]]. Select the product specification associated with the product offering. **Note:** Only published specifications appear.
+Functional view of a product offering that drives order fulfillment. Select the product specification associated with the product offering. **Note:** Only published specifications appear.
 
 </td></tr><tr><td>
 
@@ -250,7 +250,7 @@ Enable ramps
 
 </td><td>
 
-Option that enables the ramp feature, where sales agents can create ramps for transaction lines, such as quotes, to schedule price and quantity increases over certain time periods. To learn more, see [[defining-products-with-ramps|Price and quantity ramps]].
+Option that enables the ramp feature, where sales agents can create ramps for transaction lines, such as quotes, to schedule price and quantity increases over certain time periods. To learn more, see [Price and quantity ramps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/defining-products-with-ramps.md).
 
 </td></tr><tr><td>
 
@@ -303,39 +303,18 @@ Several versions of a product offering can exist. This field lets you view previ
 
 ## What to do next
 
--   [[som-product-config-add-characteristics|Create product characteristics and characteristic options]]
--   [[som-product-config-add-visuals|Add product visuals]]
--   [[som-product-config-offering-categories|Add product catalog categories]]
--   [[som-product-config-related-contracts|Add related contracts to product offerings]]
--   [[som-product-config-add-unit-of-measure|Add a unit of measure to a product offering]]
--   [[som-product-config-create-new-version|Create a product offering version]]
--   [[som-product-config-relationship-groups|Create product offering relationship groups]]
+-   [Create product characteristics and characteristic options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-product-config-add-characteristics.md)
+-   [Add product visuals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-product-config-add-visuals.md)
+-   [Add product catalog categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-product-config-offering-categories.md)
+-   [Add related contracts to product offerings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-product-config-related-contracts.md)
+-   [Add a unit of measure to a product offering](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-product-config-add-unit-of-measure.md)
+-   [Create a product offering version](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-product-config-create-new-version.md)
+-   [Create product offering relationship groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-product-config-relationship-groups.md)
 
 **Related topics**  
 
 
-[[using-product-catalog|Using product catalogs]]
+[Using product catalogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-product-catalog.md)
 
-[[product-catalog-managment|Product Catalog Management]]
+[Product Catalog Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/product-catalog-managment.md)
 
-## Related
-
-- [[using-servicenowcpq|Using the CPQ Configurator]]
-- [[multiple-child-offering-configurations|Multiple configurations]]
-- [[configuring-transient-products|Defining transient products]]
-- [[defining-products-with-ramps|Price and quantity ramps]]
-- [[som-product-config-add-characteristics|Create product characteristics and characteristic options]]
-- [[som-product-config-add-visuals|Add product visuals]]
-- [[som-product-config-offering-categories|Add product catalog categories]]
-- [[som-product-config-related-contracts|Add related contracts to product offerings]]
-- [[som-product-config-add-unit-of-measure|Add a unit of measure to a product offering]]
-- [[som-product-config-create-new-version|Create a product offering version]]
-- [[som-product-config-relationship-groups|Create product offering relationship groups]]
-- [[using-product-catalog|Using product catalogs]]
-- [[product-catalog-managment|Product Catalog Management]]
-- [[order-mgt-overview|Sales Customer Relationship Management]]
-- [[fields|Fields]]
-- [[configurable-products-explore|Configurable products]]
-- [[lead-management-add-product|Add products to a lead]]
-- [[explore-order-management|Order management]]
-- [[reviewing-orchestration-plans-order-fulfillment|Order fulfillment]]

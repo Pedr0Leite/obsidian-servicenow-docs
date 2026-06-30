@@ -14,15 +14,15 @@ breadcrumb: [Explore entities, Common GRC features, Governance, Risk, and Compli
 
 # Entity types
 
-Entity type is a grouping of the entities that match a set of filter conditions. You can create a hierarchy of the entity types within the [[entity-class-in-risk-ws|entity classes]]. The Entity types option is displayed under the Lists view in the workspace. Click an entity type to display its details.
+Entity type is a grouping of the entities that match a set of filter conditions. You can create a hierarchy of the entity types within the entity classes. The Entity types option is displayed under the Lists view in the workspace. Click an entity type to display its details.
 
 An entity type is a grouping of entities that is based on filtering. Entity types enable you to find and create entities that match a set of filter conditions. Hierarchy can be created within the entity classes. Entity types also enable you to create risks and controls for each entity without spending much time. For example, an organization can have multiple departments, such as finance, HR, or IT. All these departments can be considered as entities and can be grouped under the entity type called Departments.
 
-Within an entity type, you can assign an owner and an [[entity-class|entity class]]. You can associate a control objective and risk statements to the entity type so that risks and controls get automatically created for those entities. For every entity created using the entity type, the configuration and filter are applied so that the entity class and entity owner get automatically assigned for each entity.
+Within an entity type, you can assign an owner and an entity class. You can associate a control objective and risk statements to the entity type so that risks and controls get automatically created for those entities. For every entity created using the entity type, the configuration and filter are applied so that the entity class and entity owner get automatically assigned for each entity.
 
-When you create entity types and associate risk statements and control objectives to them, the risk and controls are automatically created for all the entities. The benefit of creating entity types is that it eliminates the need for maintaining multiple spreadsheets with the associated risks and controls for each entity. By applying entity types, you can quickly create entities by using the [[what-is-an-entity-filter|entity filters]] that are present within the entity types. Entity types can contain entities associated with different classes.
+When you create entity types and associate risk statements and control objectives to them, the risk and controls are automatically created for all the entities. The benefit of creating entity types is that it eliminates the need for maintaining multiple spreadsheets with the associated risks and controls for each entity. By applying entity types, you can quickly create entities by using the entity filters that are present within the entity types. Entity types can contain entities associated with different classes.
 
-Grouping entities also helps in rolling up and aggregating the risk scores after [[risk-assessments|risk assessments]] are performed. To understand how grouping entities contribute to rolling up the risk scores, consider the following example. Assume that there's a banking organization called Acer Finance. Acer Finance has two business lines: Banking and Retail. The Banking division has further subdivisions such as Commercial Banking and Private Banking. The risk assessments are generally performed at the bottom-most level. In this example, the assessment is performed at the Commercial Banking and Private Banking levels. The reporting, however, is done at the top-most level. This means that the risk assessment scores of Commercial Banking and Private Banking roll up and aggregate at the Banking level. Similarly, the scores of the Banking and Investment roll up to the Acer Finance organization level.
+Grouping entities also helps in rolling up and aggregating the risk scores after risk assessments are performed. To understand how grouping entities contribute to rolling up the risk scores, consider the following example. Assume that there's a banking organization called Acer Finance. Acer Finance has two business lines: Banking and Retail. The Banking division has further subdivisions such as Commercial Banking and Private Banking. The risk assessments are generally performed at the bottom-most level. In this example, the assessment is performed at the Commercial Banking and Private Banking levels. The reporting, however, is done at the top-most level. This means that the risk assessment scores of Commercial Banking and Private Banking roll up and aggregate at the Banking level. Similarly, the scores of the Banking and Investment roll up to the Acer Finance organization level.
 
 Entities in entity type are created based on the conditions set in the Entity Filter. In entity filters, the following filter conditions are defined:
 
@@ -109,7 +109,7 @@ Entity Filters
 
 </td><td>
 
-Details of the entity filter such as Entity Filter type, Table, Filter Condition, Query, [[information-objects|Information objects]], Use owner field, Owner field.
+Details of the entity filter such as Entity Filter type, Table, Filter Condition, Query, Information objects, Use owner field, Owner field.
 
 </td></tr><tr><td>
 
@@ -145,17 +145,9 @@ Attachments associated with the entity type displayed in the side panel.
 
 </td></tr></tbody>
 </table>-   **[Create an entity type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/create-new-entity-type-ws.md)**  
-[[create-new-entity-type-ws|Create an entity type]] for the entities in your system. Entity types enable you to find and create new entities that match a set of filter conditions. You can create a hierarchy of the entity types within the entity classes.
+Create an entity type for the entities in your system. Entity types enable you to find and create new entities that match a set of filter conditions. You can create a hierarchy of the entity types within the entity classes.
 -   **[Entity filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/what-is-an-entity-filter.md)**  
 Entity types enable you to find and create entities that match a set of filter conditions. Entity types include predefined entity filters that define the data to be displayed in the user interface. The entity filter defines the table from which data is pulled into each entity type for display.
 
 **Parent Topic:**[Exploring the entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/exploring-the-entities.md)
 
-## Related
-
-- [[entity-class-in-risk-ws|Entity classes]]
-- [[entity-class|entity class]]
-- [[what-is-an-entity-filter|Entity filters]]
-- [[risk-assessments|risk assessments]]
-- [[information-objects|information objects]]
-- [[create-new-entity-type-ws|Create an entity type]]

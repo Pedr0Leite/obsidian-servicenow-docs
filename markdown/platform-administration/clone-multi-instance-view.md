@@ -14,11 +14,11 @@ breadcrumb: [Explore, Instance Clone, Configure core features, Administer the Se
 
 Explain what MIF is, when to use it, and key benefits
 
-Multi-Instance View enables you to view [[system-clone-landing|Instance Clone]] operations across multiple linked instances on the [[Clone-UI|Clone Admin Console]]. Instead of logging into each instance separately, you can view all clones and their status from a primary instance.
+Multi-Instance View enables you to view Instance Clone operations across multiple linked instances on the Clone Admin Console. Instead of logging into each instance separately, you can view all clones and their status from a primary instance.
 
 ## Instance Clone multi-instance view
 
-Use Instance Clone Multi-Instance View to manage clones centrally across multiple linked instances. Instead of logging into each instance individually, administrators submit clone requests, monitor status, and manage [[clone-configurations-tab|configurations]] from a primary instance.
+Use Instance Clone Multi-Instance View to manage clones centrally across multiple linked instances. Instead of logging into each instance individually, administrators submit clone requests, monitor status, and manage configurations from a primary instance.
 
 Some of the key benefits of using Multi-Instance View are:
 
@@ -33,11 +33,5 @@ Consider implementing Multi-Instance View if you need:
 
 \[Omitted image "instance-clone-dashboard.png"\] Alt text: The Clone Admin Console dashboard with Multi-View Instance feature enabled.
 
-**Note:** Once [[setup-multi-instance-view|the Multi-Instance View feature is set up]], you can view clone records from other instances from the **Origin Instance** option on the Clone Activity page and the **Instance Overview** page.
+**Note:** Once [the Multi-Instance View feature is set up](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/setup-multi-instance-view.md), you can view clone records from other instances from the **Origin Instance** option on the Clone Activity page and the **Instance Overview** page.
 
-## Related
-
-- [[setup-multi-instance-view|Set up Multi-Instance View]]
-- [[system-clone-landing|Instance Clone]]
-- [[Clone-UI|Clone Admin Console]]
-- [[clone-configurations-tab|Configurations]]

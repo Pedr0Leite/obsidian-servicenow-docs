@@ -18,13 +18,13 @@ Record categorization supports multiple languages and can scan attachments in ad
 
 You can use the results of the categorization to automatically route records to the right service desk, which avoid the need for multiple email inboxes and RPA bots. Auto- routing also frees up your employees to work on other tasks.
 
-\[Omitted image "task-intel-case-categorization-fields.png"\] Alt text: [[r_CustomerServiceCaseForm|Case form]] view highlighting the predicted values for the Account and Category sections.
+\[Omitted image "task-intel-case-categorization-fields.png"\] Alt text: Case form view highlighting the predicted values for the Account and Category sections.
 
 ## Predicted field values
 
 On case and interaction records, the fields that contain predicted values are identified with an AI icon and label \(\[Omitted image "task-intel-categorization-field-icon.png"\] Alt text: generative AI sparkle icon and label\). These fields also include an information icon that displays a message with additional context about the predicted values.
 
-**Note:** in [[csm-workspaces-configure|CSM Configurable Workspace]], the AI icon is persistent over the life-cycle of the record. In Core UI, the AI icon is removed when the agent changes the field value.
+**Note:** in CSM Configurable Workspace, the AI icon is persistent over the life-cycle of the record. In Core UI, the AI icon is removed when the agent changes the field value.
 
 In CSM Configurable Workspace and Core UI, the fields on the record that contain predicted values are identified with the **Predicted** or **Recommended** messages.
 
@@ -32,7 +32,7 @@ In CSM Configurable Workspace and Core UI, the fields on the record that contain
 
 Fields that are predicted by AI include recommended values. When an agent selects a predicted field, the system displays a drop-down list that includes the top three recommendations at the top of the list followed by all other values. This feature is available for the following types of fields:
 
--   Choice [[migration-lists|lists]]
+-   Choice lists
 -   Single lookup
 -   Multi lookup
 -   Single and multi text fields
@@ -66,7 +66,7 @@ The system stores feedback on prediction results in the Predictor Result \[ml\_p
 -   Autofill: A value is considered to be predicted correctly \(set to true\) if the predicted value and the final value are the same.
 -   Recommendation: A value is considered to be predicted correctly if any one of the predicted values matches the final value.
 
-The Predictor Result table also stores information about skipped and failed predictions. For more information about this table, see [[case-categorization-components|Components installed with Task Intelligence for Customer Service]].
+The Predictor Result table also stores information about skipped and failed predictions. For more information about this table, see [Components installed with Task Intelligence for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-categorization-components.md).
 
 ## Multi-lingual record categorization
 
@@ -114,24 +114,14 @@ The model can predict information about a case based on:
 
 Attachment-based categorization uses all of this information to predict field values. As a result, you can automatically route records to the appropriate service desk based on these values.
 
-**Parent Topic:**[[csm-task-intelligence|Task Intelligence for Customer Service]]
+**Parent Topic:**[Task Intelligence for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-task-intelligence.md)
 
 **Related topics**  
 
 
-[[case-categorization-configure|Configure record categorization]]
+[Configure record categorization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-categorization-configure.md)
 
-[[csm-task-intel-admin-center|Task Intelligence Admin Console]]
+[Task Intelligence Admin Console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-task-intel-admin-center.md)
 
-[[csm-task-intel-create-cat-solution|Create a model to predict record fields]]
+[Create a model to predict record fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-task-intel-create-cat-solution.md)
 
-## Related
-
-- [[case-categorization-components|Components installed with Task Intelligence for Customer Service]]
-- [[csm-task-intelligence|Task Intelligence for Customer Service]]
-- [[case-categorization-configure|Configure record categorization]]
-- [[csm-task-intel-admin-center|Task Intelligence Admin Console]]
-- [[csm-task-intel-create-cat-solution|Create a model to predict record fields]]
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[migration-lists|Lists]]

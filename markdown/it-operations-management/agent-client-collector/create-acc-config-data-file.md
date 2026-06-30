@@ -26,11 +26,11 @@ A check definition is an individual check entry in the system. For details, see 
 
 Configuration data file attachments contain instance data, such as configuration item \(CI\) information, which is used when executing a check.
 
-Domain separation is supported in the [[acc-config-data-files|Agent Client Collector configuration data files]].
+Domain separation is supported in the Agent Client Collector configuration data files.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-landing-page|Agent Client Collector]]** &gt; **Configuration** &gt; **Configuration Files**.
+1.  Navigate to **All** &gt; **Agent Client Collector** &gt; **Configuration** &gt; **Configuration Files**.
 
 2.  Select **New**.
 
@@ -95,7 +95,3 @@ Checks use the configuration data file with instance data during check execution
 
 **Parent Topic:**[Deploying Agent Client Collector on servers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-server-deployment.md)
 
-## Related
-
-- [[acc-config-data-files|Agent Client Collector configuration data files]]
-- [[acc-landing-page|Agent Client Collector]]

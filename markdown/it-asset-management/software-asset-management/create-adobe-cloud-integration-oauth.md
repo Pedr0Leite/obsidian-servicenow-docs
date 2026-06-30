@@ -22,12 +22,12 @@ Role required: sam\_admin, sam\_integrator
 
 Activate the following plugins:
 
--   [[c_SoftwareAssetMgmt|Software Asset Management]] Professional for Adobe \(com.sn\_samp\_adobe\)
--   Software Asset Management - [[sam-subscription-management|SaaS License Management]] \(sn\_sam\_saas\_int\) from [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home)
+-   Software Asset Management Professional for Adobe \(com.sn\_samp\_adobe\)
+-   Software Asset Management - SaaS License Management \(sn\_sam\_saas\_int\) from [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home)
 
 ## About this task
 
-If you’re [[using-sam-workspace|using Software Asset Workspace]], the option to create the Adobe Cloud integration profile in Core UI is inactive.
+If you’re using Software Asset Workspace, the option to create the Adobe Cloud integration profile in Core UI is inactive.
 
 ## Procedure
 
@@ -54,7 +54,7 @@ Action
 
 </td></tr><tr><td id="d290771e150">
 
-**[[sam-workspace|Software Asset Workspace]]**
+**Software Asset Workspace**
 
 </td><td>
 
@@ -170,7 +170,7 @@ You can also view information about your Adobe subscriptions, compliance, and co
 
 After creating an integration profile, view information about the profile in the Software Asset Workspace by navigating to **License operations** &gt; **User subscription** &gt; **Direct integration profiles**. You can select an integration profile to view the following related lists:
 
--   [[c_CreatingSoftwareModels|Software Models]]
+-   Software Models
 -   Unrecognized Subscription Identifiers
 -   Scheduled Jobs
 -   Scheduled Job Results
@@ -185,10 +185,3 @@ After creating an integration profile, you can define subscription exclusion rul
 
 [Publisher optimizations for Adobe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/pub-opt-adobe.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-subscription-management|SaaS License Management]]
-- [[using-sam-workspace|Using Software Asset Workspace]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_CreatingSoftwareModels|Software models]]

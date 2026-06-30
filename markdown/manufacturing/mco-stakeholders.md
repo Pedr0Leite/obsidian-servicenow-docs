@@ -12,7 +12,7 @@ breadcrumb: [Related list for quality issues, Create a product quality investiga
 
 # Create a stakeholder
 
-Create a stakeholder who is involved in the [[mco-PQI-use|product quality investigation]].
+Create a stakeholder who is involved in the product quality investigation.
 
 ## Before you begin
 
@@ -26,15 +26,10 @@ Role required: admin
 
 3.  On the Stakeholder form, fill in the fields.
 
-    For a description of the field values, see [[mco-stakeholders-form|Stakeholder form]].
+    For a description of the field values, see [Stakeholder form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-stakeholders-form.md).
 
 4.  Select **Save**.
 
 
-**Parent Topic:**[[mco-related-list-for-pqi|Related list for quality issues]]
+**Parent Topic:**[Related list for quality issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-related-list-for-pqi.md)
 
-## Related
-
-- [[mco-stakeholders-form|Stakeholder form]]
-- [[mco-related-list-for-pqi|Related list for quality issues]]
-- [[mco-PQI-use|Product quality investigation]]

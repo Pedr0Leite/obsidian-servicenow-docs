@@ -147,8 +147,5 @@ Use screen font icons for lists or section destinations. You can use them to rep
 |Document-Checklist-Search|e920|Australia|\[Omitted image "mab-icon-screen-doc-check-search.png"\] Alt text: Document-Checklist-Search example| |
 |Rectangle-Search|e921|Australia|\[Omitted image "mab-icon-screen-rect-search.png"\] Alt text: Rectange-Search example| |
 
-**Parent Topic:**[[mobile-icon-reference|Mobile icon reference]]
+**Parent Topic:**[Mobile icon reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-icon-reference.md)
 
-## Related
-
-- [[mobile-icon-reference|Mobile icon reference]]

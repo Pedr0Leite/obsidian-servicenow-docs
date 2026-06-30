@@ -14,7 +14,7 @@ breadcrumb: [Customer Lifecycle Operations, Common applications, Financial Servi
 
 # Financial Services Customer Lifecycle Operations reference
 
-Learn about the components, such as the roles, tables, plugins, and store applications, that are installed when you install the [[fso-overview|Financial Services]] Business Lifecycle application and the Financial Services Client Lifecycle application.
+Learn about the components, such as the roles, tables, plugins, and store applications, that are installed when you install the Financial Services Business Lifecycle application and the Financial Services Client Lifecycle application.
 
 -   **[Components installed with Financial Services Business Lifecycle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-customer-lifecycle-operations/installed-with-business-lifecycle.md)**  
 Several types of components are installed with the activation of the Financial Services Business Lifecycle \(sn\_bom\_clo\_b2b\) plugin, including tables and user roles. The application also installs related plugins and store applications if they are not already installed.
@@ -23,6 +23,3 @@ Several types of components are installed with the activation of the Financial S
 
 **Parent Topic:**[Financial Services Customer Lifecycle Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-customer-lifecycle-operations/customer-lifecycle-ops-landing-page.md)
 
-## Related
-
-- [[fso-overview|Financial Services]]

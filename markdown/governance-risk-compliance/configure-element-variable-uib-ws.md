@@ -12,7 +12,7 @@ breadcrumb: [General administration setup for BCM, Configure, Business Continuit
 
 # Configure element variables for element definitions
 
-Configure an element variable for a specific dependency of an element. To do this, use the **Element variables** module in the [[business-continuity-mangmt-overview|Business Continuity Management]] application navigator.
+Configure an element variable for a specific dependency of an element. To do this, use the **Element variables** module in the Business Continuity Management application navigator.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Element variables are custom elements that are used in the Grid configuration. A
 
 ## Procedure
 
-1.  Navigate to **Business Continuity** &gt; **General [[Administration|Administration]]** &gt; **Element variables**.
+1.  Navigate to **Business Continuity** &gt; **General Administration** &gt; **Element variables**.
 
 2.  Select **New**.
 
@@ -34,7 +34,7 @@ Element variables are custom elements that are used in the Grid configuration. A
 
 3.  On the form, fill in the fields.
 
-    For more information on the fields in the form, see [[element-variable-record-form|Element variable record form]].
+    For more information on the fields in the form, see [Element variable record form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/element-variable-record-form.md).
 
 4.  Select **Submit**.
 
@@ -42,11 +42,5 @@ Element variables are custom elements that are used in the Grid configuration. A
 -   **[Element variable record form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/element-variable-record-form.md)**  
 Use the Element variable record form to configure an element variable. Element variables are custom elements that are used in the Grid configuration. You can set up an element variable that is specific custom columns, which are required for a particular dependency of an element.
 
-**Parent Topic:**[[set-up-bcm-bcmadmin-tasks|General administration setup for BCM]]
+**Parent Topic:**[General administration setup for BCM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/set-up-bcm-bcmadmin-tasks.md)
 
-## Related
-
-- [[element-variable-record-form|Element variable record form]]
-- [[set-up-bcm-bcmadmin-tasks|General administration setup for BCM]]
-- [[business-continuity-mangmt-overview|Business Continuity Management]]
-- [[Administration|Administration]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure outbound FDS as providers, Configure for providers, Servi
 
 # Create and publish an FDS offering definition
 
-Create an [[service-bridge-v2-explore-foundation-data-sync|foundation data sync]] \(FDS\) offering definition to inform your consumers about the data you’re ready to share.
+Create an foundation data sync \(FDS\) offering definition to inform your consumers about the data you’re ready to share.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[tmt-service-bridge-both-landing-page|Service Exchange]] Provider** &gt; **Administration** &gt; **FDS Offering Definitions**.
+1.  Navigate to **All** &gt; **Service Exchange Provider** &gt; **Administration** &gt; **FDS Offering Definitions**.
 
 2.  Select **New**.
 
@@ -58,7 +58,7 @@ Manually publish FDS subscriptions
 
 </td><td>
 
-After the offering is published, and consumers accept the subscription, you must acknowledge it and send sample files to let them know about the type of data they will receive.For the detailed procedure, see [[service-bridge-v2-validate-fds-subscription|Validate foundation data sync subscription items]].
+After the offering is published, and consumers accept the subscription, you must acknowledge it and send sample files to let them know about the type of data they will receive.For the detailed procedure, see [Validate foundation data sync subscription items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-validate-fds-subscription.md).
 
 </td><td>
 
@@ -132,7 +132,7 @@ Clear the**Auto publish FDS subscriptions** check box.
 
 10. In the Consumer criteria related list, add a consumer criteria to determine which consumer instances are eligible to receive the offering.
 
-    For information on consumer criteria, see [[service-bridge-v2-create-consumer-criteria|Create a consumer criteria]] topic.
+    For information on consumer criteria, see [Create a consumer criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-create-consumer-criteria.md) topic.
 
 11. Select **Publish**.
 
@@ -143,12 +143,5 @@ The FDS offering is now published. Consumers can request foundation data based o
 
 ## What to do next
 
-[[service-bridge-v2-acknowledge-FDS-request|Acknowledge foundation data sync offering request]].
+[Acknowledge foundation data sync offering request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-acknowledge-FDS-request.md).
 
-## Related
-
-- [[service-bridge-v2-validate-fds-subscription|Validate foundation data sync subscription items]]
-- [[service-bridge-v2-create-consumer-criteria|Create a consumer criteria]]
-- [[service-bridge-v2-acknowledge-FDS-request|Acknowledge foundation data sync offering request]]
-- [[service-bridge-v2-explore-foundation-data-sync|Foundation data sync]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]

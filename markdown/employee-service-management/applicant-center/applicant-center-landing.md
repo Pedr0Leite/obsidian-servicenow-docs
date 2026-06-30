@@ -14,7 +14,7 @@ breadcrumb: [Hiring Experiences, HR Service Delivery, Employee Service Managemen
 
 # Applicant Center
 
-[[applicant-center-concept|Applicant Center]] offers a streamlined and tailored experience for applicants through a dedicated portal, enhancing their overall recruitment experience.
+Applicant Center offers a streamlined and tailored experience for applicants through a dedicated portal, enhancing their overall recruitment experience.
 
 ## Get started
 
@@ -32,7 +32,7 @@ breadcrumb: [Hiring Experiences, HR Service Delivery, Employee Service Managemen
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Important [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] information about Applicant Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/applicant-center-reference.md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Important reference information about Applicant Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/applicant-center-reference.md)
 
 </td></tr></tbody>
 </table>## Additional resources
@@ -43,7 +43,3 @@ breadcrumb: [Hiring Experiences, HR Service Delivery, Employee Service Managemen
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[applicant-center-concept|Applicant Center]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

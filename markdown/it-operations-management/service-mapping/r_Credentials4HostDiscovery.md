@@ -14,9 +14,9 @@ breadcrumb: [Prerequisites for performing top-down discovery using Service Mappi
 
 # Credentials required for host discovery
 
-There are credentials and permissions that [[c_ServiceMappingOverview|Service Mapping]] requires for discovering hosts.
+There are credentials and permissions that Service Mapping requires for discovering hosts.
 
-Prior to discovering applications, Service Mapping accesses hosts that applications run on and discovers them. Make sure that you provide all necessary credentials to allow host [[r-discovery|discovery]].
+Prior to discovering applications, Service Mapping accesses hosts that applications run on and discovers them. Make sure that you provide all necessary credentials to allow host discovery.
 
 The ServiceNow AI Platform provides a centralized way of configuring credentials for Discovery, Service Mapping, and other applications. It allows you to configure credentials for hosts and applications only once. If you have already configured host-related credentials for another application, you do not need to do it again for Service Mapping.
 
@@ -61,7 +61,3 @@ If there are discovery issues caused by incorrectly configured or missing creden
 
 **Parent Topic:**[Prerequisites for performing top-down discovery using Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/prerequisites-service-mapping.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]

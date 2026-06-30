@@ -14,7 +14,7 @@ breadcrumb: [License usage view, Software Asset Workspace, Exploring Software As
 
 # License usage publisher fields in workspace
 
-Field descriptions for the related lists for publishers in the Publishers page in the [[sam-workspace-workbench|License usage view]].
+Field descriptions for the related lists for publishers in the Publishers page in the License usage view.
 
 ## Product Results
 
@@ -369,7 +369,3 @@ Estimated cost of remediating unlicensed installations based on the lowest numbe
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sam-workspace-workbench|License usage view]]

@@ -14,9 +14,9 @@ breadcrumb: [Exploring other Virtual Agent features, Build and deploy, Virtual A
 
 # Integrating Virtual Agent with Workflow Studio workflows
 
-The workflows of ServiceNow® Workflow Studio can be integrated within ServiceNow [[virtual-agent-landing-page|Virtual Agent]] topics. You can then use these workflows in Virtual Agent conversations.
+The workflows of ServiceNow® Workflow Studio can be integrated within ServiceNow Virtual Agent topics. You can then use these workflows in Virtual Agent conversations.
 
-**Note:** If you have turned on and set up [[now-assist-in-va-landing|Now Assist in Virtual Agent]], you can use the base system conversational actions and subflows from the [[vad-topics-page|Assistant Designer Asset library]]. You currently can't create conversational subflows in [[assistant-designer|Assistant Designer]]; you can only view and edit them. Conversational subflows can be created, tested, and deleted only in Workflow Studio. For more information on conversational actions and subflows, see [Conversational actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/conversational-actions.md) and [Conversational subflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/conversational-subflows.md). You can still integrate actions and subflows that are not conversational from Workflow Studio into Virtual Agent topics through Virtual Agent Designer. The following content is only relevant to actions or subflows that cannot be made conversational in Workflow Studio.
+**Note:** If you have turned on and set up Now Assist in Virtual Agent, you can use the base system conversational actions and subflows from the Assistant Designer Asset library. You currently can't create conversational subflows in Assistant Designer; you can only view and edit them. Conversational subflows can be created, tested, and deleted only in Workflow Studio. For more information on conversational actions and subflows, see [Conversational actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/conversational-actions.md) and [Conversational subflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/conversational-subflows.md). You can still integrate actions and subflows that are not conversational from Workflow Studio into Virtual Agent topics through Virtual Agent Designer. The following content is only relevant to actions or subflows that cannot be made conversational in Workflow Studio.
 
 You can integrate Workflow Studio actions and subflows as follows:
 
@@ -36,29 +36,20 @@ You can change this interval as needed. To change the interval, see [Specify the
 
 You can use the Integration Hub to create end-to-end digital workflows and automate processes that integrate the ServiceNow AI Platform® with any third-party application, platform, or data.
 
-For example, you can use one of the 100 prebuilt [[topic-spokes-subtab-pae|spokes]] available on the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home). These prebuilt spokes include popular applications, such as Microsoft Azure, Workday, and Okta.
+For example, you can use one of the 100 prebuilt spokes available on the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home). These prebuilt spokes include popular applications, such as Microsoft Azure, Workday, and Okta.
 
 For more information about the ServiceNow Integration Hub, see [ServiceNow IntegrationHub – natively integrate ServiceNow with anything](https://www.youtube.com/watch?v=YGlGwGBNEfY).
 
 -   **[Add actions or subflows to Virtual Agent topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/setup-flow-designer-va-properties.md)**  
-Use the [[va-action|Action utility]] to integrate ServiceNow Workflow Studio workflows in Virtual Agent topics. The Action utility node triggers the required Workflow Studio workflows used in the Virtual Agent conversation.
+Use the Action utility to integrate ServiceNow Workflow Studio workflows in Virtual Agent topics. The Action utility node triggers the required Workflow Studio workflows used in the Virtual Agent conversation.
 -   **[Virtual Agent secure password inputs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-secure-inputs.md)**  
 The **Include a password input** toggle switch on the Action utility properties sheet lets you enter passwords securely for use in Virtual Agent conversations.
 -   **[Workflow Studio scoped application requirements for secure inputs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-fd-app-reqs-secure-inputs.md)**  
 Adhere to the following scoped application requirements to implement secure \(password2\) inputs in your Virtual Agent topics.
 -   **[Test the Action utility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/test-flow-designer-va-integration.md)**  
-[[test-flow-designer-va-integration|Test the Action utility]] to make sure that the integrated action works as intended in the conversation.
+Test the Action utility to make sure that the integrated action works as intended in the conversation.
 -   **[Specify the action workflow timeout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-fdih-action-timeout.md)**  
 Set the length of time before the Workflow Studio Integration Hub action workflow times out.
 
 **Parent Topic:**[Exploring other Virtual Agent features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/exploring-other-vad-features.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]
-- [[vad-topics-page|Assistant Designer Asset library]]
-- [[assistant-designer|Assistant Designer]]
-- [[topic-spokes-subtab-pae|Spokes]]
-- [[va-action|Action utility]]
-- [[test-flow-designer-va-integration|Test the Action utility]]

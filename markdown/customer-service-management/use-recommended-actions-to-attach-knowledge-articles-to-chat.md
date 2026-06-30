@@ -12,7 +12,7 @@ breadcrumb: [Using the Recommended Actions application, Automate and optimize, U
 
 # Use Recommended Actions to attach knowledge articles to chat
 
-As an agent, use chat in [[configure-nba|Recommended Actions]] to resolve issues of the customers by attaching knowledge articles.
+As an agent, use chat in Recommended Actions to resolve issues of the customers by attaching knowledge articles.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_nb\_action.next\_best\_action\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Workspace Experience** &gt; **Workspaces** &gt; **[[csm-workspaces-configure|CSM Configurable Workspace]]** &gt; **Inbox**.
+1.  Navigate to **All** &gt; **Workspace Experience** &gt; **Workspaces** &gt; **CSM Configurable Workspace** &gt; **Inbox**.
 
 2.  Change the status from Offline to Available to see all the active chats.
 
@@ -56,10 +56,5 @@ Role required: sn\_nb\_action.next\_best\_action\_user
 **Related topics**  
 
 
-[[ra-csm-guidances-share-kb-chat|Share KB in chat interactions guidance]]
+[Share KB in chat interactions guidance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-guidances-share-kb-chat.md)
 
-## Related
-
-- [[ra-csm-guidances-share-kb-chat|Share KB in chat interactions guidance]]
-- [[configure-nba|Recommended Actions]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

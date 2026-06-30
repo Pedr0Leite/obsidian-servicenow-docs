@@ -14,13 +14,13 @@ breadcrumb: [Managing your product development using Agile Development 2.0, Agil
 
 # Create an enhancement request in Agile Development 2.0
 
-Capture enhancement ideas for your feature or product as [[enhancement-requests|enhancement requests in Agile Development 2.0]] so that you can review and prioritize them later.
+Capture enhancement ideas for your feature or product as enhancement requests in Agile Development 2.0 so that you can review and prioritize them later.
 
 ## Before you begin
 
 Role required: Any one of the feature\_user, scrum\_story\_creator, scrum\_admin, or rm\_enhancement\_admin roles
 
-The administrator must grant the feature\_user role to all users who are expected to create an enhancement request in the [[agile-development|Agile Development]] application.
+The administrator must grant the feature\_user role to all users who are expected to create an enhancement request in the Agile Development application.
 
 ## About this task
 
@@ -128,7 +128,3 @@ A scrum product owner can review the request and decide whether to create storie
 
 **Parent Topic:**[Managing your product development using Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/using-agile-development-2-0.md)
 
-## Related
-
-- [[enhancement-requests|Enhancement requests in Agile Development 2.0]]
-- [[agile-development|Agile Development]]

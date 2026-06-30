@@ -24,7 +24,7 @@ For information on configuring HR case transfer or classification properties, se
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **[[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **Agent Workspace for HR Case Management**.
 
 2.  Find the case you want to transfer.
 
@@ -37,14 +37,14 @@ For information on configuring HR case transfer or classification properties, se
 5.  Select one of the two options from **Transfer type**.
 
     -   **Transfer with existing case number**: The HR case number does not change, links are redirected to the new case, and work notes is transferred to the new case.
-    -   **Transfer to a new case number**: The HR case number changes, links are not redirected, and work notes is not transferred. Both HR case numbers appear on the HR case for [[reference-hr-service-delivery-advanced-integration-with-workday|reference]]. The original case state is changed to **Closed Complete** and is canceled.
+    -   **Transfer to a new case number**: The HR case number changes, links are not redirected, and work notes is not transferred. Both HR case numbers appear on the HR case for reference. The original case state is changed to **Closed Complete** and is canceled.
 6.  Select an appropriate COE.
 
 7.  From **New HR Service**, select the HR service you want to assign to your case.
 
 8.  Click **OK**.
 
-    When you [[reclassify-hr-case|transfer an HR case]] from one HR service to another, some field values are not transferred to the new case. The current case and its child tasks are closed.
+    When you transfer an HR case from one HR service to another, some field values are not transferred to the new case. The current case and its child tasks are closed.
 
     **Note:** Priority is transferred from the original case and does not override the HR template for the new HR case.
 
@@ -54,9 +54,4 @@ For information on configuring HR case transfer or classification properties, se
 
     See [Email setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailConfiguration.md).
 
-## Related
 
-- [[case-management-workspace|Case management]]
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[reclassify-hr-case|Transfer an HR case]]

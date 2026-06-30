@@ -15,7 +15,7 @@ breadcrumb: [DEX, Use agentic AI in IT Service Management, Now Assist for IT Ser
 
 # DEX issue diagnosis and resolution agentic workflow
 
-Use the [[dex-landing|Digital End-User Experience]] \(DEX\) issue diagnosis and resolution agentic workflow from the Now Assist panel to diagnose and resolve common issues on DEX monitored [[dex-workspace-devices-tab|devices]].
+Use the Digital End-User Experience \(DEX\) issue diagnosis and resolution agentic workflow from the Now Assist panel to diagnose and resolve common issues on DEX monitored devices.
 
 ## DEX issue diagnosis and resolution agentic workflow overview
 
@@ -27,9 +27,9 @@ Using the DEX issue diagnosis and resolution agentic workflow:
 
 ## Applications required to access the agentic workflow
 
-To access the DEX issue diagnosis and resolution agentic workflow, make sure that you install the following [[dex-workspace-application-tab|applications]]:
+To access the DEX issue diagnosis and resolution agentic workflow, make sure that you install the following applications:
 
--   [[now-assist-itsm|Now Assist for IT Service Management \(ITSM\)]] \(sn\_itsm\_gen\_ai\) plugin.
+-   Now Assist for IT Service Management \(ITSM\) \(sn\_itsm\_gen\_ai\) plugin.
 -   Digital End-User Experience application. For more information, see [Install Digital End-User Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/install-app-device-health.md) and [Configuring Digital End-User Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/config-dex-console.md).
 
 ## Roles required to access the agentic workflow
@@ -120,9 +120,3 @@ The agent executes the request for the agentic workflow.
 
 **Example of DEX issue diagnosis and resolution agentic workflow output in the ServiceNow AI Agent Studio**\[Omitted image "dex-diagnosis-resolution-workflow.png"\] Alt text: DEX issue diagnosis and resolution agentic workflow output in AI Agent Studio
 
-## Related
-
-- [[dex-landing|Digital End-User Experience]]
-- [[dex-workspace-devices-tab|Devices]]
-- [[dex-workspace-application-tab|Applications]]
-- [[now-assist-itsm|Now Assist for IT Service Management \(ITSM\)]]

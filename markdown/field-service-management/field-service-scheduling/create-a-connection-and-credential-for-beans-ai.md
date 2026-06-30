@@ -44,7 +44,7 @@ Role required: wm\_admin
 
 6.  Limit the number of location points for each inquiry to Beans.ai.
 
-    For more information, see [[schedule-optimization-properties|Schedule Optimization properties]].
+    For more information, see [Schedule Optimization properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/schedule-optimization-properties.md).
 
 
 ## What to do next
@@ -56,6 +56,3 @@ Role required: wm\_admin
 
 [Configuring Google Maps API keys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/google-maps-api-keys.md)
 
-## Related
-
-- [[schedule-optimization-properties|Schedule Optimization properties]]

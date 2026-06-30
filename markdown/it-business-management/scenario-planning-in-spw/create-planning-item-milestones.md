@@ -23,19 +23,19 @@ Role required: sn\_align\_core.apw\_user
 
 ## About this task
 
-Select a roadmap item and [[t_CreateMilestones|create a milestone]] for it. Use the roadmap side panel to fill in the details and submit.
+Select a roadmap item and create a milestone for it. Use the roadmap side panel to fill in the details and submit.
 
 For free-form roadmaps, milestones are supported only if the source table is Planning Item \[sn\_align\_core\_planning\_item\] or one of its extensions.
 
 **Important:**
 
-You can’t add a project milestone from the roadmap view. Creating or updating project milestones may impact the associated project plans. So, it’s recommended to create or update project milestones using [[project-workspace-landing-page|Project Workspace]] in [[c_ProjectPortfolioSuite|Project Portfolio Management]] \(PPM\).
+You can’t add a project milestone from the roadmap view. Creating or updating project milestones may impact the associated project plans. So, it’s recommended to create or update project milestones using Project Workspace in Project Portfolio Management \(PPM\).
 
 However, any existing milestones of the project are visible on the roadmap if you've [integrated Strategic Planning with PPM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/configuring-apw-with-agile-safe-and-ppm.md).
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]]** and open your roadmap.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Portfolio Planning** and open your roadmap.
 
 <table id="choicetable_vwv_t4z_5wb"><thead><tr><th align="left" id="d236250e139">
 
@@ -102,10 +102,3 @@ From the Free-form Roadmaps tab, select a roadmap.
 -   [Learn when a planning item milestone can be in an error state.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/error-states-for-planning-item-milestones.md)
 -   [Learn how to manage the milestones for planning items.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/manage-planning-item-milestones.md)
 
-## Related
-
-- [[t_CreateMilestones|Create a milestone]]
-- [[project-workspace-landing-page|Project Workspace]]
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

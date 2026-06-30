@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[mobile-employee-experience|Now Mobile App]]** &gt; **Applet Launchers**.
+1.  Navigate to **All** &gt; **Now Mobile App** &gt; **Applet Launchers**.
 
 2.  Open the page where you want to disable people search.
 
@@ -37,6 +37,3 @@ Your users can no longer see search results for other users in the system.
 
 **Parent Topic:**[Configuring Now Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/setup-mobile-employee.md)
 
-## Related
-
-- [[mobile-employee-experience|Now Mobile app]]

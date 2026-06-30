@@ -12,7 +12,7 @@ breadcrumb: [Configure, Care Team Operations for Facilities, Healthcare Operatio
 
 # Setting up roles and responsibilities in Care Team Operations for Facilities
 
-To manage access effectively in [[cto-facilities-landing|Care Team Operations for Facilities]], first understand how roles and responsibilities work together. These concepts build on the Service Model Foundation \(SMF\) but are adapted for [[healthcare-operations-overview|Healthcare Operations]]-specific use cases.
+To manage access effectively in Care Team Operations for Facilities, first understand how roles and responsibilities work together. These concepts build on the Service Model Foundation \(SMF\) but are adapted for Healthcare Operations-specific use cases.
 
 To understand how roles and responsibilities function in Healthcare Operations, see [Setting up roles and responsibilities for Healthcare Operations users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-operations-core/cto-setting-up-roles-responsibilities.md).
 
@@ -45,12 +45,6 @@ Can view/resolve all cases under their assignment group, tracks, and fulfill cas
 </td></tr></tbody>
 </table>## What to do next
 
-1.  [[cto-facilities-assign-roles|Set up roles for Care Team Operations for Facilities]]
-2.  [[cto-facilities-assign-roles_0|Assign responsibilities to Care Team Operations for Facilities users]]
+1.  [Set up roles for Care Team Operations for Facilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/cto-facilities-assign-roles.md)
+2.  [Assign responsibilities to Care Team Operations for Facilities users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/cto-facilities-assign-roles_0.md)
 
-## Related
-
-- [[cto-facilities-assign-roles|Set up roles for Care Team Operations for Facilities]]
-- [[cto-facilities-assign-roles_0|Assign responsibilities to Care Team Operations for Facilities users]]
-- [[cto-facilities-landing|Care Team Operations for Facilities]]
-- [[healthcare-operations-overview|Healthcare Operations]]

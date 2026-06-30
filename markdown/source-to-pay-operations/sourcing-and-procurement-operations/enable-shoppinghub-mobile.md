@@ -14,7 +14,7 @@ breadcrumb: [Install ShoppingHub Mobile, Configure, Sourcing and Procurement Ope
 
 # Enable the mobile experience for ShoppingHub Mobile
 
-Enable the mobile experience for [[shoppinghub-mobile|Shopping Hub Mobile]] so that users can complete to-dos assigned to them and view and track their purchases from their mobile device.
+Enable the mobile experience for Shopping Hub Mobile so that users can complete to-dos assigned to them and view and track their purchases from their mobile device.
 
 ## Before you begin
 
@@ -37,6 +37,3 @@ Role required: sn\_shop.shopping\_hub\_admin
 
 **Parent Topic:**[Install ShoppingHub Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/install-shoppinghub-mobile.md)
 
-## Related
-
-- [[shoppinghub-mobile|Shopping Hub Mobile]]

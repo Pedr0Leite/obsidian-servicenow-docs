@@ -66,7 +66,7 @@ The dashboard provides clear, consolidated insights into hardware asset data qua
 
 Targeted CMDB metrics focus remediation efforts. Regularly monitor these metrics and follow suggested remediation actions to systematically improve CMDB data quality over time.
 
-**Important:** The dashboard data is filtered based on the Selected [[model-hierarchy|model categories]] and Date range filters. See [Filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/cmdb-sa-ham-dashboard.md).
+**Important:** The dashboard data is filtered based on the Selected model categories and Date range filters. See [Filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/cmdb-sa-ham-dashboard.md).
 
 |Feature|Description|
 |-------|-----------|
@@ -219,7 +219,3 @@ All CIs where the install status matches or differs from the corresponding asset
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[model-hierarchy|Model categories]]

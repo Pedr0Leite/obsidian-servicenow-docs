@@ -12,7 +12,7 @@ breadcrumb: [SGC Central, Service Graph Connector for ServiceNow Operational Tec
 
 # Review imports
 
-This section reviews all your importation settings in [[sgc-central-for-ot-discovery|SGC Central]].
+This section reviews all your importation settings in SGC Central.
 
 ## About this task
 
@@ -47,6 +47,4 @@ Role required: admin
 
     \[Omitted image "sgcc-review-ot-devices.png"\] Alt text: Review the imported OT devices
 
-## Related
 
-- [[sgc-central-for-ot-discovery|SGC Central]]

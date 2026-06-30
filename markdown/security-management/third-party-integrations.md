@@ -17,7 +17,7 @@ Many of the integrations included in the base system require little or no setup,
 This section describes the differences between the supported integrations and points you to more documentation, as needed.
 
 -   [Carbon Black integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/carbon-black-landing-page.md): allows you to investigate and respond to security incidents by using the Carbon Black APIs to query and interact with endpoints associated with security incidents.
--   [Check Point Anti-bot - Email Parser integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/checkpt-antibot-integration.md): uses an email parser that consumes [[tisc-email-notifications|email notifications]] from Check Point Anti-bot to create security incidents.
+-   [Check Point Anti-bot - Email Parser integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/checkpt-antibot-integration.md): uses an email parser that consumes email notifications from Check Point Anti-bot to create security incidents.
 -   [Elasticsearch Incident Enrichment integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/elasticsearch-landing-page.md): searches your logs and adds relevant sighting information to your security incidents.
 -   [Have I been pwned? integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/haveibeenpwned-landing-page.md): allows the list of breached accounts \(email addresses and usernames\) to be quickly searched via a RESTful service.
 -   [HPE Security ArcSight ESM - Email Parser integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/arcsight-emailparser-integration.md): uses an email parser that consumes email notifications from HPE ArcSight ESM to create security incidents.
@@ -25,21 +25,21 @@ This section describes the differences between the supported integrations and po
 -   [IBM QRadar - Incident Enrichment Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/qradar-landing-page.md): searches your logs and adds relevant sighting information to your security incidents.
 -   [McAfee ESM - Email Parser integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcafee-esm-emailparser-integration.md): uses an email parser that consumes email notifications from McAfee ESM to create security incidents.
 -   [McAfee ESM - Incident Enrichment Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcafee-esm-landing-page.md): searches your logs and adds relevant sighting information to your security incidents.
--   [[c_Metadefenderintegration|OPSWAT Metadefender integration overview]]: allows threat data, detected by the third-party Metadefender scanner, to be downloaded to the [[threat-intel-landing-page|Threat Intelligence]] application for tracking, prioritization, and resolution.
--   [Palo Alto Networks - AutoFocus integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/palo-alto-autofocus-landing-page.md): Palo Alto Networks AutoFocus, a threat intelligence cloud service, allows you to search for session information related to security incident [[c_Observables|observables]].
+-   [OPSWAT Metadefender integration overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/c_Metadefenderintegration.md): allows threat data, detected by the third-party Metadefender scanner, to be downloaded to the Threat Intelligence application for tracking, prioritization, and resolution.
+-   [Palo Alto Networks - AutoFocus integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/palo-alto-autofocus-landing-page.md): Palo Alto Networks AutoFocus, a threat intelligence cloud service, allows you to search for session information related to security incident observables.
 -   [Palo Alto Networks - Firewall integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/palo-alto-firewall-landing-page.md): Palo Alto Networks Firewall allows you to set up and maintain firewalls for preventing known and unknown threats across the network, cloud, and endpoints.
 -   [Palo Alto Networks - WildFire integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/palo-alto-wildfire-landing-page.md): Wildfire integration allows you to programmatically query analysis jobs on Wildfire and retrieve historical results through a simple XML API interface.
--   [Understanding the Qualys Vulnerability Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-response/c_QualysVulnIntegration.md): Qualys Cloud Platform is used in [[vuln-landing-page|Vulnerability Response]].
+-   [Understanding the Qualys Vulnerability Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-response/c_QualysVulnIntegration.md): Qualys Cloud Platform is used in Vulnerability Response.
 -   [Splunk - Incident Enrichment integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/splunk-in-enrich-landing-page.md): searches your logs and adds relevant sighting information to your security incidents.
--   [[virustotal-landing-page|VirusTotal integration]]: used in Threat Intelligence. To use this lookup source, you must [[install-config-3rd-party-integs|activate the VirusTotal Integration plugin]].
--   [[whois-integration-setup|WhoisXML API integration setup]]: provides consistent, well-structured data from a Whois lookup. Keeps accurate Whois data accessible 24/7.
+-   [VirusTotal integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/virustotal-landing-page.md): used in Threat Intelligence. To use this lookup source, you must [activate the VirusTotal Integration plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/install-config-3rd-party-integs.md).
+-   [WhoisXML API integration setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/whois-integration-setup.md): provides consistent, well-structured data from a Whois lookup. Keeps accurate Whois data accessible 24/7.
 
 -   **[Activate and configure third-party integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/install-config-3rd-party-integs.md)**  
 You can activate the plugins for third-party integrations and configure them for use from the same screen.
--   **[[create-integrations|Create an integration]]**  
+-   **[Create an integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/create-integrations.md)**  
 You can create an integration and add the associated integration card to the Security Integrations screen. This procedure is intended for partners who create third-party integrations.
 
-**Parent Topic:**[[c_IntegrationWritingGuidelines|ServiceNow Security Operations integration development guidelines]]
+**Parent Topic:**[ServiceNow Security Operations integration development guidelines](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/c_IntegrationWritingGuidelines.md)
 
 **Related topics**  
 
@@ -50,15 +50,3 @@ You can create an integration and add the associated integration card to the Sec
 
 [Integration troubleshooting]()
 
-## Related
-
-- [[c_Metadefenderintegration|OPSWAT Metadefender integration overview]]
-- [[virustotal-landing-page|VirusTotal integration]]
-- [[install-config-3rd-party-integs|Activate and configure third-party integrations]]
-- [[whois-integration-setup|WhoisXML API integration setup]]
-- [[create-integrations|Create an integration]]
-- [[c_IntegrationWritingGuidelines|ServiceNow Security Operations integration development guidelines]]
-- [[tisc-email-notifications|Email Notifications]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[c_Observables|Observables]]
-- [[vuln-landing-page|Vulnerability Response]]

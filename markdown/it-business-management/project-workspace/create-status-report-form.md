@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Project Workspace, Project Workspace ref
 
 # Create status report form
 
-Learn about the fields on the Create status report form of the [[project-workspace-landing-page|Project Workspace]]. Use this form to create a new status report according to your requirement. The following are the heads in a report created using the Default status report template. A report created using the One-page status report template has fewer information heads.
+Learn about the fields on the Create status report form of the Project Workspace. Use this form to create a new status report according to your requirement. The following are the heads in a report created using the Default status report template. A report created using the One-page status report template has fewer information heads.
 
 |Field|Description|
 |-----|-----------|
@@ -41,6 +41,3 @@ Learn about the fields on the Create status report form of the [[project-workspa
 
 [Create a status report in Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/create-a-status-report-in-project-workspace.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]

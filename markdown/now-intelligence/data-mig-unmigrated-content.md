@@ -12,7 +12,7 @@ breadcrumb: [Platform Analytics Migration Center, Platform Analytics experience,
 
 # Content not migrated or migrated in compatibility mode
 
-Most dashboard content is migrated to the new [[par-workspace|Platform Analytics experience]]. However, some visualizations, aspects of visualizations, filters, and configurations cannot be migrated. Dashboards with this content are migrated as embedded content \(iframes\), also known as compatibility mode.
+Most dashboard content is migrated to the new Platform Analytics experience. However, some visualizations, aspects of visualizations, filters, and configurations cannot be migrated. Dashboards with this content are migrated as embedded content \(iframes\), also known as compatibility mode.
 
 **Note:** If you have already migrated to Platform Analytics experience, the Migration Center automatically migrates any previously incompatible content that is now compatible when you upgrade releases.
 
@@ -32,7 +32,7 @@ Visualization configurations that are not migrated:
 -   Restriction of dashboard access to specific roles.
 -   Group edit rights.
 
-    Reports that are shared to groups with edit rights only retain view rights when migrated. Open the migrated visualization in the library and share it with the group again. For more information, see [[share-dv-ac|Share a data visualization in the Visualization Designer]].
+    Reports that are shared to groups with edit rights only retain view rights when migrated. Open the migrated visualization in the library and share it with the group again. For more information, see [Share a data visualization in the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/share-dv-ac.md).
 
 -   In the context of bulk migration, visualizations that are used in one or more dashboards lose their header and color configurations. \(In Core UI, these are configured at the dashboard level; in Platform Analytics experience, they are configured at the visualization level.\)
 
@@ -53,7 +53,7 @@ Calendar component elements that are not migrated:
 
 Migration in compatibility mode means that all of the dashboard's original artifacts are inserted into the migrated dashboard in iframes. The original content is not changed or moved.
 
-Dashboards with any content that is not a Performance Analytics widget, report, or interactive filter, including all [[c_CustomPublishers|custom interactive filters]], custom content blocks, gauges, and gadgets, are migrated in compatibility mode, as iframes.
+Dashboards with any content that is not a Performance Analytics widget, report, or interactive filter, including all custom interactive filters, custom content blocks, gauges, and gadgets, are migrated in compatibility mode, as iframes.
 
 **Note:** Dashboards migrated in compatibility mode may experience performance issues.
 
@@ -62,7 +62,7 @@ Dashboards with any content that is not a Performance Analytics widget, report, 
 Generic visualization configurations migrated in compatibility mode:
 
 -   Sort by dot-walked fields
--   [[reporting-landing-page|Reporting]] on variables/questions
+-   Reporting on variables/questions
 -   List default drilldown view configured in Report Designer
 -   [Breakdown element](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md) = empty for breakdowns based on choice field
 -   Sort by Performance Analytics breakdown based on choice field order
@@ -82,7 +82,7 @@ List scorecard configurations migrated in compatibility mode:
 
 ## Other scorecard configurations
 
-Scorecard [[widgets|widgets]] with multiple widget indicators that have different time series aggregations are migrated in compatibility mode.
+Scorecard widgets with multiple widget indicators that have different time series aggregations are migrated in compatibility mode.
 
 ## Reports
 
@@ -96,7 +96,7 @@ Reports migrated in compatibility mode:
 
 ## Performance Analytics widgets
 
-[[c_Widgets|Performance Analytics widgets]] migrated in compatibility mode:
+Performance Analytics widgets migrated in compatibility mode:
 
 -   Workbench
 -   Text Analytics
@@ -107,11 +107,3 @@ Reports migrated in compatibility mode:
 -   Pyramid
 -   Relative compare
 
-## Related
-
-- [[share-dv-ac|Share a data visualization in the Visualization Designer]]
-- [[par-workspace|Platform Analytics experience]]
-- [[c_CustomPublishers|Custom interactive filters]]
-- [[reporting-landing-page|Reporting]]
-- [[widgets|Widgets]]
-- [[c_Widgets|Performance Analytics widgets]]

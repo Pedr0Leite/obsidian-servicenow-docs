@@ -14,7 +14,7 @@ breadcrumb: [Configuring AI Search, AI Search, Search administration, Configure 
 
 # Assign roles to AI Search administrators and users
 
-Grant users the ais\_admin, ais\_external\_content, ais\_high\_security\_admin, and search\_application\_admin roles so they can configure and manage settings and content for [[ia-ai-search|AI Search]] and search applications.
+Grant users the ais\_admin, ais\_external\_content, ais\_high\_security\_admin, and search\_application\_admin roles so they can configure and manage settings and content for AI Search and search applications.
 
 ## Before you begin
 
@@ -46,10 +46,10 @@ Manages configuration settings for the AI Search application, including the foll
 -   Creates, reads, updates, and deletes search profiles
 -   Creates, reads, updates, and deletes synonym and stop word dictionaries
 -   Creates and deletes mappings between dictionaries and search profiles
--   Reads and updates [[typo-handling-ais|typo handling]] auto-correction dictionaries linked to search profiles
--   Creates, reads, updates, and deletes Genius Result [[clone-configurations-tab|configurations]]
+-   Reads and updates typo handling auto-correction dictionaries linked to search profiles
+-   Creates, reads, updates, and deletes Genius Result configurations
 -   Creates and deletes mappings between Genius Result configurations and search profiles
--   Creates, reads, updates, and deletes [[result-improvement-rules-ais|result improvement rules]]
+-   Creates, reads, updates, and deletes result improvement rules
 -   Creates and deletes mappings between result improvement rules and search profiles
 
 </td></tr><tr><td>
@@ -58,9 +58,9 @@ AI Search high security administrator \[ais\_high\_security\_admin\]
 
 </td><td>
 
-Accesses High [[ia-security-settings-il|Security settings]] for AI Search, including the following:
+Accesses High Security settings for AI Search, including the following:
 
--   Bypasses all search filters from search sources and content security in the Search Preview UI, viewing all search query [[hs-results|results]] available in the AI Search index
+-   Bypasses all search filters from search sources and content security in the Search Preview UI, viewing all search query results available in the AI Search index
 -   Reads external content user mapping import history records
 
  This is an elevated privilege role. Elevated privilege roles aren't assigned to users or groups, and must be used by elevation. For more information on elevated privilege roles, see [Elevated privilege roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_ElevatedPrivilege.md). To learn about elevation, see [Elevate to a privileged role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_ElevateToAPrivilegedRole.md).
@@ -73,7 +73,7 @@ Search application administrator \[search\_application\_admin\]
 
 </td><td>
 
-Creates, reads, updates, and deletes [[defining-search-app-cfgs-ais|search application configurations]] for Zing and AI Search.
+Creates, reads, updates, and deletes search application configurations for Zing and AI Search.
 
  This role includes the ais\_admin and personalize\_dictionary roles.
 
@@ -104,12 +104,3 @@ Accesses endpoints for AI Search external content APIs, including the following:
 
 **Parent Topic:**[Configuring AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configuring-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[typo-handling-ais|Typo handling]]
-- [[clone-configurations-tab|Configurations]]
-- [[result-improvement-rules-ais|Result improvement rules]]
-- [[ia-security-settings-il|Security Settings]]
-- [[hs-results|Results]]
-- [[defining-search-app-cfgs-ais|Search application configurations]]

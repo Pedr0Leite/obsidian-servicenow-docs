@@ -14,7 +14,7 @@ breadcrumb: [AWS SSM discovery, Discovery for AWS, Discovery for cloud environme
 
 # Enable AWS SSM-based discovery
 
-Configure [[r-discovery|Discovery]] to use AWS Systems Manager \(SSM\) Agent.
+Configure Discovery to use AWS Systems Manager \(SSM\) Agent.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: discovery\_admin
 
 ## About this task
 
-The AWS SSM Agent runs with root \(Linux\) or SYSTEM \(Windows\) privileges, meaning any command sent through it can execute with full system access. Due to this high level of access, SSM is turned off by default for security reasons. On Linux, you can configure non-root credentials to run Discovery commands more securely. On Windows, Discovery commands require SYSTEM-level access, so you must decide whether to enable this capability based on your security requirements. Enabling **glide.discovery.enable\_ssm** doesn't automatically activate SSM discovery on Windows. Unlike Linux, Windows lacks support for using a non-SYSTEM user, so for security reasons, you must explicitly enable the **glide.discovery.ssm.enable\_windows** property to use [[aws-ssm-discovery|AWS SSM discovery]] on Windows devices.
+The AWS SSM Agent runs with root \(Linux\) or SYSTEM \(Windows\) privileges, meaning any command sent through it can execute with full system access. Due to this high level of access, SSM is turned off by default for security reasons. On Linux, you can configure non-root credentials to run Discovery commands more securely. On Windows, Discovery commands require SYSTEM-level access, so you must decide whether to enable this capability based on your security requirements. Enabling **glide.discovery.enable\_ssm** doesn't automatically activate SSM discovery on Windows. Unlike Linux, Windows lacks support for using a non-SYSTEM user, so for security reasons, you must explicitly enable the **glide.discovery.ssm.enable\_windows** property to use AWS SSM discovery on Windows devices.
 
 ## Procedure
 
@@ -43,7 +43,3 @@ The AWS SSM Agent runs with root \(Linux\) or SYSTEM \(Windows\) privileges, mea
 
 Define fallback root behavior using the **mid.discovery.aws\_ssm.linux.fallback\_root\_user** property or create non-root credentials to execute Discovery commands using the AWS SSM Instance Users \[aws\_ssm\_instance\_user\_credentials\] table. For more information, see [Enable root fallback](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/enable-root-fallback.md) and [Configure custom user credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/configure-custom-user-credentials.md).
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[aws-ssm-discovery|AWS SSM discovery]]

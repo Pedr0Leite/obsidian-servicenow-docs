@@ -12,7 +12,7 @@ breadcrumb: [Configure, price, quote apps, Use, Sales Customer Relationship Mana
 
 # Using Sales Agreement Management
 
-Learn how managers, agents, and administrators use the [[sales-agreement-mgmt|Sales Agreement Management]] application to generate sales agreements from quotes.
+Learn how managers, agents, and administrators use the Sales Agreement Management application to generate sales agreements from quotes.
 
 To create a sales agreement from a quote, the following conditions must be met:
 
@@ -29,13 +29,8 @@ The Sales agreement window has the following tabs that help you create and manag
 |Order|Displays the list of all the orders placed with the current sales agreement.|
 |Price List|Details about the account and currency that is updated from quote header. In the Price List Line table, you can view the actual pricing details about the products and services from the related quote.|
 
--   **[[create-new-sales-agreement|Create a sales agreement]]**  
+-   **[Create a sales agreement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-new-sales-agreement.md)**  
 Create a sales agreement from a quote between a buyer and a seller for future transactions.
 
-**Parent Topic:**[[using-cpq|Using configure, price, quote applications]]
+**Parent Topic:**[Using configure, price, quote applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-cpq.md)
 
-## Related
-
-- [[create-new-sales-agreement|Create a sales agreement]]
-- [[using-cpq|Using configure, price, quote applications]]
-- [[sales-agreement-mgmt|Sales Agreement Management]]

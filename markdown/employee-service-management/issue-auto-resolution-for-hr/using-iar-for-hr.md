@@ -14,7 +14,7 @@ breadcrumb: [Issue Auto Resolution for HR, HR Service Delivery, Employee Service
 
 # Using Issue Auto Resolution for HR to handle cases
 
-You can use the [[issue-auto-resolution-hr|Issue Auto Resolution for HR]] application to quickly handle your organization's high-volume, low-value HR cases and reduce the burden on your agents so that they can focus on issues that need more experience or manual assistance.
+You can use the Issue Auto Resolution for HR application to quickly handle your organization's high-volume, low-value HR cases and reduce the burden on your agents so that they can focus on issues that need more experience or manual assistance.
 
 ## Overview of Issue Auto Resolution for HR
 
@@ -32,7 +32,7 @@ The following example shows how a new employee can use a personal mobile phone t
 
 1.  The employee submits an HR general inquiry through an email from the employee's own mobile device.
 2.  The employee receives an SMS notification with recommendations that are related to the inquiry.
-3.  The employee clicks the link in the SMS message and logs in to the [[employee-center-portal-overview|Employee Portal]] to view the recommendations.
+3.  The employee clicks the link in the SMS message and logs in to the Employee Portal to view the recommendations.
 4.  The employee goes through all the recommendations, fills out the request form and catalog item, and submits the form.​
 5.  A new structured case is created. The original case is closed automatically.
 
@@ -59,7 +59,3 @@ The following example shows how a new employee can use a company laptop to raise
 
 Within a day, the issue is resolved through the employee's preferred channels. No agent was needed for this scenario.
 
-## Related
-
-- [[issue-auto-resolution-hr|Issue Auto Resolution for HR]]
-- [[employee-center-portal-overview|Employee portal]]

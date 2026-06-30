@@ -14,7 +14,7 @@ breadcrumb: [Date and Date/Time fields, Explore, Time configuration, Configure c
 
 # Global date and time field format
 
-You define default date and time formats globally using [[r_SetArchiveRuleProcessingBehavior|system properties]].
+You define default date and time formats globally using system properties.
 
 ## Date format
 
@@ -64,6 +64,3 @@ The default format is: HH:mm:ss.
 
 [Schedule entry fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/r_ScheduleEntryFields.md)
 
-## Related
-
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

@@ -24,7 +24,7 @@ When an agent disputes a transaction on behalf of a customer, a dispute service 
 
     The agent initiates the dispute service process by entering the initial case information and creating a dispute case on behalf of a customer.
 
-2.  [[create-case-with-intake-workspace|Initiate a dispute]].
+2.  Initiate a dispute.
 
     The agent enters the dispute details, including the account being referenced, the dispute amount, and the type of dispute. The agent provides the necessary information for the available options in the type of dispute \(Authorization, Point of Interaction Error, Fraud, Cardholder Disputes, Installment Billing Dispute, Cardholder Dispute Not Classified Elsewhere\).
 
@@ -43,6 +43,3 @@ For more information, see [Initiate a dispute](https://raw.githubusercontent.com
 
 **Parent Topic:**[Dispute Rules Content Pack for Mastercard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/dispute-rules-content-pack-for-mastercard-landing-page.md)
 
-## Related
-
-- [[create-case-with-intake-workspace|Initiate a dispute]]

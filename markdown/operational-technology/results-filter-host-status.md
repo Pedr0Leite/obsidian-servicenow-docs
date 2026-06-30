@@ -39,7 +39,7 @@ Raw data is useful for debugging and verification because:
 
 ## Procedure
 
-1.  Navigate to the [[results-page-console|Results page]].
+1.  Navigate to the Results page.
 
 2.  In the Filter panel, select the plus icon. \[Omitted image "filter-plus-icon.png"\] Alt text:
 
@@ -69,6 +69,3 @@ Raw data is useful for debugging and verification because:
     -   Raw data shows what Nmap actually returned \(good for support/investigations\).
     -   Raw data helps validate scripts when querying/mapping doesn’t show expected information.
 
-## Related
-
-- [[results-page-console|Results page]]

@@ -14,7 +14,7 @@ breadcrumb: [Streamlining supplier risk assessment workflow, Working with playbo
 
 # Track risk assessments from the due diligence playbook
 
-As procurement specialists, use the due diligence playbook to track [[supplier|supplier]] risk assessments and complete the associated tasks.
+As procurement specialists, use the due diligence playbook to track supplier risk assessments and complete the associated tasks.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: Procurement specialist
 
 ## About this task
 
-When a [[sourcing-request|sourcing request]] is added to a sourcing event, in the Qualification needed state, a supplier case of type due diligence is triggered to address risk assessments. You can choose to close the case through the playbook if there are duplicate requests. In case of no duplicates, a new due diligence is initiated through the playbook. The same Third-Party Risk Management \(TPRM\) record producer is used here. You are notified at each step in the TPRM workflow, such as inherent risk assessment, third-party risk assessment, and so on. You can review the risk rating after the due diligence is complete. Now, you can either accept or reject the risk rating, and take necessary actions based on this decision. Select **Mark Complete** to close the due diligence case.
+When a sourcing request is added to a sourcing event, in the Qualification needed state, a supplier case of type due diligence is triggered to address risk assessments. You can choose to close the case through the playbook if there are duplicate requests. In case of no duplicates, a new due diligence is initiated through the playbook. The same Third-Party Risk Management \(TPRM\) record producer is used here. You are notified at each step in the TPRM workflow, such as inherent risk assessment, third-party risk assessment, and so on. You can review the risk rating after the due diligence is complete. Now, you can either accept or reject the risk rating, and take necessary actions based on this decision. Select **Mark Complete** to close the due diligence case.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[psd-overview|Procurement Case Management]]** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Procurement Case Management** &gt; **Source-to-Pay Workspace**.
 
 2.  Select the List icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon.\) and select **All work** &gt; **Cases**.
 
@@ -216,7 +216,7 @@ Close case
 
 </td><td>
 
-Get [[supplier-contact|Supplier contact]] email from DDR record
+Get Supplier contact email from DDR record
 
 </td><td>
 
@@ -265,10 +265,3 @@ Updates the case to Closed Completed.
 </table>
 **Parent Topic:**[Streamlining the supplier risk assessment workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/simplify-risk-assessment-wf.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[sourcing-request|Sourcing request]]
-- [[psd-overview|Procurement Case Management]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supplier-contact|Supplier contact]]

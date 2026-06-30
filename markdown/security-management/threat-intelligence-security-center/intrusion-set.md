@@ -14,23 +14,16 @@ breadcrumb: [Threat Entities, TISC Library Repository, Threat Intelligence Secur
 
 # Intrusion Set
 
-An [[threat-intelligence-intrusion-sets|Intrusion Set]] is a grouped set of adversarial behaviors and resources with common properties. An Intrusion Set usually involves a single organization. Intrusion set applies for STIX 2.x.
+An Intrusion Set is a grouped set of adversarial behaviors and resources with common properties. An Intrusion Set usually involves a single organization. Intrusion set applies for STIX 2.x.
 
-An Intrusion Set may capture multiple [[threat-intelligence-campaigns|Campaigns]] or other activities. These activities share attributes indicating a commonly known or unknown [[threat-actor|Threat Actor]].
+An Intrusion Set may capture multiple Campaigns or other activities. These activities share attributes indicating a commonly known or unknown Threat Actor.
 
-New activity can be attributed to an Intrusion Set even if the [[threat-actors|Threat Actors]] behind the attack are not known. Threat Actors can move from supporting one Intrusion Set to supporting another, or they may support multiple Intrusion Sets.
+New activity can be attributed to an Intrusion Set even if the Threat Actors behind the attack are not known. Threat Actors can move from supporting one Intrusion Set to supporting another, or they may support multiple Intrusion Sets.
 
 An Intrusion Set is the entire attack package and may be used over a long period in multiple Campaigns to achieve potentially multiple purposes.
 
 -   **[Define Intrusion Set](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-define-intrusion-set.md)**  
-[[define-intrusion-set|Define an intrusion set]] that is a grouped set of adversarial behaviors and resources with common properties.
+Define an intrusion set that is a grouped set of adversarial behaviors and resources with common properties.
 
 **Parent Topic:**[Threat Entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-threat-entities.md)
 
-## Related
-
-- [[threat-intelligence-intrusion-sets|Intrusion set]]
-- [[threat-intelligence-campaigns|Campaigns]]
-- [[threat-actor|Threat Actor]]
-- [[threat-actors|Threat actors]]
-- [[define-intrusion-set|Define an intrusion set]]

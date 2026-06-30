@@ -12,12 +12,7 @@ breadcrumb: [WhoisXML API integration, Threat Intelligence integrations, Threat 
 
 # WhoisXML API integration setup
 
-Before you can use the [[tisc-whoisxml-integration|Whois integration]], you must activate the plugin and add the credentials. If necessary, you can also update your X509 SSL certification.
+Before you can use the Whois integration, you must activate the plugin and add the credentials. If necessary, you can also update your X509 SSL certification.
 
-The [[threat-intel-landing-page|Threat Intelligence]] and [[whois-landing-page|WhoisXML API Integration]] plugins are required to implement the WhoisXML API integration.
+The Threat Intelligence and WhoisXML API Integration plugins are required to implement the WhoisXML API integration.
 
-## Related
-
-- [[tisc-whoisxml-integration|Whois integration]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[whois-landing-page|WhoisXML API integration]]

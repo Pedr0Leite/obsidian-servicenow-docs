@@ -31,7 +31,7 @@ You must authenticate before initiating discovery. During the authentication pro
 
 This integration uses REST APIs \(via a MID Server\) to ensure the CMDB reflects accurate, up-to-date telecom inventory aligned with the TM Forum-based data model. For a list of API references, see .
 
-**Note:** A valid [[telecommunications-service-operations-management|Telecommunications Service Operations Management]] subscription is required to use this connector.
+**Note:** A valid Telecommunications Service Operations Management subscription is required to use this connector.
 
 ## Required plugins
 
@@ -64,6 +64,3 @@ The following sections are available under the Arista VeloCloud navigation pane.
 
 Use the guided setup to simplify the configuration process. This setup provides an organized sequence of steps to help you complete integration quickly and correctly. For more information, see [Set up the Service Graph Connector for Arista VeloCloud schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/set-up-the-service-graph-connector-for-arista-velocloud-schedule.md).
 
-## Related
-
-- [[telecommunications-service-operations-management|Telecommunications Service Operations Management]]

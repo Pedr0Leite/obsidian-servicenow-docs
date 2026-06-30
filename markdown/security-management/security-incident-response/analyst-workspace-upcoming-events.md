@@ -22,13 +22,13 @@ Role required: sn\_si.analyst
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sir-workspace-landing-page|Security Incident Response Workspace]]** &gt; **Upcoming**.
+1.  Navigate to **Workspaces** &gt; **Security Incident Response Workspace** &gt; **Upcoming**.
 
 2.  Click **Today** tab to view the tasks that are due on the same day.
 
 3.  Select **Tomorrow** tab to view the tasks that are overdue to the next day.
 
-    The [[upcoming-section|upcoming section]] lists the security incidents or response tasks that are overdue based on the due date and that breached the SLA definition.
+    The upcoming section lists the security incidents or response tasks that are overdue based on the due date and that breached the SLA definition.
 
 4.  Click **Refresh** icon to refresh the upcoming section list.
 
@@ -41,7 +41,3 @@ Role required: sn\_si.analyst
 
 **Parent Topic:**[Upcoming section](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/upcoming-section.md)
 
-## Related
-
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[upcoming-section|Upcoming section]]

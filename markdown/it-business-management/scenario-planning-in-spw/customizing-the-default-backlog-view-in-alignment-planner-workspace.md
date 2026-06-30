@@ -20,7 +20,7 @@ Portfolio managers or product owners can show or hide the data for their plannin
 
 |Personalize settings for Prioritization tab|Personalize settings for Kanban tab|Personalize settings for Hierarchy tab|
 |-------------------------------------------|-----------------------------------|--------------------------------------|
-|\[Omitted image "personalize-list-config.png"\] Alt text: Personalize side panel of [[alignment-planner-workspace-landing-page|Strategic Planning]] in the Prioritization tab showing the column choices.|\[Omitted image "kanban-personalize.png"\] Alt text: Personalize side panel of Strategic Planning Kanban tab showing the column choices.|\[Omitted image "personalize-hierarchy-config.png"\] Alt text: Personalize side panel of Strategic Planning Hierarchy tab showing the column choices.|
+|\[Omitted image "personalize-list-config.png"\] Alt text: Personalize side panel of Strategic Planning in the Prioritization tab showing the column choices.|\[Omitted image "kanban-personalize.png"\] Alt text: Personalize side panel of Strategic Planning Kanban tab showing the column choices.|\[Omitted image "personalize-hierarchy-config.png"\] Alt text: Personalize side panel of Strategic Planning Hierarchy tab showing the column choices.|
 
 Add extra columns as choices to this side panel or remove any of the default column choices by updating the list layout configuration for the planning item types associated to the portfolio plan.
 
@@ -33,6 +33,3 @@ From the form view of the identified table, change the view to **APW Prioritizat
 
 **Parent Topic:**[Prioritization display settings in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/configuring-prioritization-and-roadmap-settings-strategic-planning.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

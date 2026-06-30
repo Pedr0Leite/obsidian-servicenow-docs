@@ -14,7 +14,7 @@ breadcrumb: [Resource assignments in Project Workspace, Resource planning with P
 
 # Manage resources from resource page in Project Workspace
 
-View and manage all the resource assignments without navigating through individual tasks using the resource page in [[project-workspace-landing-page|Project Workspace]]. Resources page shows all project-associated resources and their assignments to support forecasting and visualization of resource demands.
+View and manage all the resource assignments without navigating through individual tasks using the resource page in Project Workspace. Resources page shows all project-associated resources and their assignments to support forecasting and visualization of resource demands.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: it\_project\_manager, resource\_user
 
 When you select **Resources** page from the left menu, you’re redirected to a page that displays the project associated resources and their resource assignments for better resource planning. You can also view how many tasks are assigned to each resource.
 
-For example, Simon is a resource who is allocated to two [[t_CreateAProjectTask|project tasks]]. When you select Simon from the resource page, you can view all the project tasks to which Simon is assigned for a project.
+For example, Simon is a resource who is allocated to two project tasks. When you select Simon from the resource page, you can view all the project tasks to which Simon is assigned for a project.
 
 ## Procedure
 
@@ -44,7 +44,3 @@ For example, Simon is a resource who is allocated to two [[t_CreateAProjectTask|
 
 [Create a resource card](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rmw-create-rsrc-card.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]
-- [[t_CreateAProjectTask|Project tasks]]

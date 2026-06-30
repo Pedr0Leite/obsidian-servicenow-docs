@@ -14,21 +14,21 @@ breadcrumb: [Use, Source-to-Pay integration with SAP Ariba, Integration with thi
 
 # Use flows in SAP Ariba
 
-Use flows to retrieve information from SAP Ariba, including [[invoices|invoices]], cost centers, product models, [[payment-terms|payment terms]], purchasing organizations, departments, GL accounts, currencies, FX rates, invoice payment details, suppliers, [[supplier|supplier]] bids, and legal entities.
+Use flows to retrieve information from SAP Ariba, including invoices, cost centers, product models, payment terms, purchasing organizations, departments, GL accounts, currencies, FX rates, invoice payment details, suppliers, supplier bids, and legal entities.
 
 You can either use the subflows to perform the required tasks or you can create a copy of the subflows and then customize it according to your requirements. The Source-to-Pay with SAP Ariba integration supports the following subflows.
 
 ## Supplier Lifecycle Operations Integration with SAP Ariba
 
-The [[supp-mgmt-landing-page|Supplier Lifecycle Operations]] integration with SAP Ariba supports the following flows and subflows:
+The Supplier Lifecycle Operations integration with SAP Ariba supports the following flows and subflows:
 
 |Flow/Subflow|Description|
 |------------|-----------|
 |Flow|
 |Create Supplier in SAP Ariba|Creates suppliers in SAP Ariba|
-|Update [[supplier-contact|supplier contact]] in SAP Ariba.|Updates supplier contact details in SAP Ariba|
+|Update supplier contact in SAP Ariba.|Updates supplier contact details in SAP Ariba|
 |Update supplier info in SAP Ariba.|Updates supplier information in SAP Ariba|
-|Update supplier legal entities in SAP Ariba.|Updates supplier's [[legal-entity|legal entity]] details inSAP Ariba|
+|Update supplier legal entities in SAP Ariba.|Updates supplier's legal entity details inSAP Ariba|
 |Update supplier location in SAP Ariba.|Updates supplier location details in SAP Ariba|
 |Update supplier payment information in SAP Ariba.|Updates supplier payment information in SAP Ariba|
 |Subflow|
@@ -42,14 +42,14 @@ These flows and subflows are read only. To modify a flow or subflow, create a co
 
 ## Sourcing and Procurement Operations Integration with SAP Ariba
 
-The [[psm-overview|Sourcing and Procurement Operations]] Integration with SAP Ariba supports the following subflows:
+The Sourcing and Procurement Operations Integration with SAP Ariba supports the following subflows:
 
 |Flow/Subflow|Description|
 |------------|-----------|
 |Flow|
-|Award Sourcing Event in SAP Ariba REST|Awards [[negotiation-events|sourcing events]] in SAP Ariba REST|
+|Award Sourcing Event in SAP Ariba REST|Awards sourcing events in SAP Ariba REST|
 |Create or Update Sourcing Event in SAP Ariba|Creates or updates sourcing event in SAP Ariba|
-|Create Receipt in ERP|Creates [[receipts|receipts]] in ERP|
+|Create Receipt in ERP|Creates receipts in ERP|
 |Fetch Supplier Bids for Sourcing Event from SAP Ariba REST|Fetches supplier bids for sourcing event from SAP Ariba REST|
 |Subflow|
 |Award Sourcing Event in SAP Ariba REST|Awards sourcing events in SAP Ariba REST|
@@ -60,7 +60,7 @@ The [[psm-overview|Sourcing and Procurement Operations]] Integration with SAP Ar
 
 ## Accounts Payable Operations Integration with SAP Ariba
 
-The [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] Integration with SAP Ariba supports the following subflows:
+The Accounts Payable Operations Integration with SAP Ariba supports the following subflows:
 
 |Flow|Description|
 |----|-----------|
@@ -77,15 +77,3 @@ You can create a copy of the a flow or subflow, and modify based on your require
 
 **Parent Topic:**[Use Source-to-Pay integration with SAP Ariba](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/using-source-to-pay-sap-ariba-integration.md)
 
-## Related
-
-- [[invoices|Invoices]]
-- [[payment-terms|Payment terms]]
-- [[supplier|Supplier]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[supplier-contact|Supplier contact]]
-- [[legal-entity|Legal entity]]
-- [[psm-overview|Sourcing and Procurement Operations]]
-- [[negotiation-events|Sourcing events]]
-- [[receipts|Receipts]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]

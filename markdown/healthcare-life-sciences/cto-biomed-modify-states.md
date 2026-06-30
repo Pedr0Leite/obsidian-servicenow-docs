@@ -12,7 +12,7 @@ breadcrumb: [Configure, Care Team Operations for Biomed, Healthcare Operations, 
 
 # Modify state decision tables in Care Team Operations for Biomed
 
-Use Decision Builder to change the state mappings for cases and work orders in [[care-team-operations-for-biomed|Care Team Operations for Biomed]] .
+Use Decision Builder to change the state mappings for cases and work orders in Care Team Operations for Biomed .
 
 \[Omitted image "cto-biomed-case-tstate.png"\] Alt text: Healthcare biomed case state sync map.
 
@@ -54,6 +54,3 @@ These values can be found in the Dictionary Entry for the State field.
 |Approved|13|2|
 |Work in Progress|18|7|
 
-## Related
-
-- [[care-team-operations-for-biomed|Care Team Operations for Biomed]]

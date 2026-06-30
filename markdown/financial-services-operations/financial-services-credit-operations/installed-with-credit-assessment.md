@@ -14,13 +14,13 @@ breadcrumb: [Credit Operations, Common applications, Financial Services Operatio
 
 # Components installed with Financial Services Credit Operations
 
-Several types of components are installed with the installation of the [[fso-credit-operations-landing-page|Financial Services Credit Operations]] application, including tables and user roles.
+Several types of components are installed with the installation of the Financial Services Credit Operations application, including tables and user roles.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
-This application is automatically installed when you install any of the following [[fso-overview|Financial Services]] Operations applications. Financial Services Credit Operations manages the Credit tasks that are used in workflows across Financial Services Operations applications.
+This application is automatically installed when you install any of the following Financial Services Operations applications. Financial Services Credit Operations manages the Credit tasks that are used in workflows across Financial Services Operations applications.
 
--   [[card-ops-landing-page|Financial Services Card Operations]]
+-   Financial Services Card Operations
 -   Financial Services Business Loan Operations
 -   Financial Services Personal Loan Operations
 
@@ -83,7 +83,7 @@ Credit contributor – Business \[sn\_bom\_credit\_asmt.b2b\_contributor\]
 -   View the status of credit assessment cases and tasks
 -   Work on credit case for accounts managed by them till the Initiate stage
 
- **Important:** For the contributor role to work, it must be combined with one of the CSM Contributor users roles. For more information, see [[fso-combine-csm-industry-roles|Roles and Personas]].
+ **Important:** For the contributor role to work, it must be combined with one of the CSM Contributor users roles. For more information, see [Roles and Personas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-combine-csm-industry-roles.md).
 
 </td><td>
 
@@ -281,10 +281,3 @@ Stores all credit tasks for personal services for all Financial Services Operati
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[fso-combine-csm-industry-roles|Using agent connector and contributor roles in Financial Services Operations]]
-- [[fso-credit-operations-landing-page|Financial Services Credit Operations]]
-- [[fso-overview|Financial Services]]
-- [[card-ops-landing-page|Financial Services Card Operations]]

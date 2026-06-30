@@ -20,11 +20,11 @@ Send periodic emails of KPI metrics to the DPM solution owners.
 
 Role required: sn\_dpm.dpm\_admin
 
-\[Omitted video\] Description: Let's review the [[dpm-landing|Digital Portfolio Management]] Admin Center.
+\[Omitted video\] Description: Let's review the Digital Portfolio Management Admin Center.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Digital Portfolio Management** &gt; **DPM Admin Center** &gt; **[[settings-mobile|Settings]]**.
+1.  Navigate to **All** &gt; **Digital Portfolio Management** &gt; **DPM Admin Center** &gt; **Settings**.
 
 2.  Select **Email properties**.
 
@@ -126,7 +126,7 @@ Date and time of the first scheduled job. This field appears only if you select 
 </td></tr></tbody>
 </table>9.  Select **Execute Now**.
 
-10. Select **Email [[perf-metrics-mob|performance metrics]] for DPM managers**.
+10. Select **Email performance metrics for DPM managers**.
 
     **Note:** You must schedule the visualization attachments to run at least two hours prior to **Email performance metrics to DPM managers**.
 
@@ -137,8 +137,3 @@ Date and time of the first scheduled job. This field appears only if you select 
 
 **Parent Topic:**[Use the Admin Center in Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-admin-center.md)
 
-## Related
-
-- [[dpm-landing|Digital Portfolio Management]]
-- [[settings-mobile|Settings]]
-- [[perf-metrics-mob|Performance metrics]]

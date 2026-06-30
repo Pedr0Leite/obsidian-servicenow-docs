@@ -12,7 +12,7 @@ breadcrumb: [Configuring Digital resilience third-party registers, Maintaining D
 
 # Creating and reviewing the records
 
-The [[grc-opres-landing-page|Operational Resilience]] administrators and managers can access the Digital Resilience Choices records in an instance. For best results, it is important to create or update the records such as legal entities, branches, functions, contracts, and so on in a specific order into the Digital resilience third-party registers application. Those specifics are outlined in this section.
+The Operational Resilience administrators and managers can access the Digital Resilience Choices records in an instance. For best results, it is important to create or update the records such as legal entities, branches, functions, contracts, and so on in a specific order into the Digital resilience third-party registers application. Those specifics are outlined in this section.
 
 ## Order for creating or updating the records
 
@@ -36,9 +36,5 @@ Similarly, Operational Resilience managers can locate and access the Digital Res
 
 \[Omitted image "dig-res-cho-rec-mgrs.png"\] Alt text: Managers view.
 
-**Parent Topic:**[[conf-dg-resi-party-regi|Configuring Digital resilience third-party registers]]
+**Parent Topic:**[Configuring Digital resilience third-party registers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/conf-dg-resi-party-regi.md)
 
-## Related
-
-- [[conf-dg-resi-party-regi|Configuring Digital resilience third-party registers]]
-- [[grc-opres-landing-page|Operational Resilience]]

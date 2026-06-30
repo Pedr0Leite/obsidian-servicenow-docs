@@ -16,7 +16,7 @@ breadcrumb: [Security Incident Response integrations, Security Incident Response
 
 The Microsoft Defender for Endpoint enables you to proactively inspect, analyze, and contain known and unknown threats on any endpoint.
 
-The Microsoft Defender for Endpoint integration helps Security Analysts efficiently investigate and remediate security incidents without having to navigate between [[tools|tools]].
+The Microsoft Defender for Endpoint integration helps Security Analysts efficiently investigate and remediate security incidents without having to navigate between tools.
 
 You can use this integration to create configurations to retrieve the host details, details of logged-in users, related machines details, and other enrichment capabilities. You can request to isolate any machine from accessing the networks or remove the machines from isolation. Requests can be accepted or rejected by the approvers.
 
@@ -28,14 +28,14 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 Microsoft Defender for Endpoint has the following key features:
 
--   Perform Enterprise Security Search to sight potential malicious [[c_Observables|observables]] across endpoints, and take remediation actions.
+-   Perform Enterprise Security Search to sight potential malicious observables across endpoints, and take remediation actions.
 -   Perform response actions such as Isolate host, Remove isolation, Restrict app execution, Run antivirus scan, Remove app restriction, and Stop and quarantine file.
--   Create or update [[indicator|indicators]].
--   Perform [[tisc-observable-enrichment|observable enrichment]] and retrieve data related to indicators.
+-   Create or update indicators.
+-   Perform observable enrichment and retrieve data related to indicators.
 
 <table id="table_cn4_5nt_45b" class="nav-card"><tbody><tr><td>
 
-[Explore \[Omitted image "icon-[[threat-intelligence-security-center-overview|explore]]-ciwf.png"\] Get started with Microsoft Defender for Endpoint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/set-up-microsoft-defender-for-endpoint.md)
+[Explore \[Omitted image "icon-explore-ciwf.png"\] Get started with Microsoft Defender for Endpoint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/set-up-microsoft-defender-for-endpoint.md)
 
 </td><td>
 
@@ -47,26 +47,15 @@ Microsoft Defender for Endpoint has the following key features:
 
 </td></tr><tr><td>
 
-[Capability profile \[Omitted image "icon-use-ciwf.png"\] [[create-capability-profile-for-microsoft-defender-for-endpoint|Create a capability profile for the Microsoft Defender for Endpoint integration]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-capability-profile-for-microsoft-defender-for-endpoint.md)
+[Capability profile \[Omitted image "icon-use-ciwf.png"\] Create a capability profile for the Microsoft Defender for Endpoint integration.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-capability-profile-for-microsoft-defender-for-endpoint.md)
 
 </td><td>
 
-[Additional configurations \[Omitted image "icon-[[integrating-threat-intelligence-security-center|integrate]]-ciwf.png"\] Additional configurations that you can perform in the Microsoft Defender for Endpoint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/additional-configurations-in-defender.md)
+[Additional configurations \[Omitted image "icon-integrate-ciwf.png"\] Additional configurations that you can perform in the Microsoft Defender for Endpoint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/additional-configurations-in-defender.md)
 
 </td><td>
 
-[Miscellaneous \[Omitted image "ciwf-admin.png"\] Create and configure a profile for [[indicator-sightings|sightings]] search and indicators with Microsoft Defender for Endpoint.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-and-configure-profile-sightings-search-with-ms-defender.md)
+[Miscellaneous \[Omitted image "ciwf-admin.png"\] Create and configure a profile for sightings search and indicators with Microsoft Defender for Endpoint.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-and-configure-profile-sightings-search-with-ms-defender.md)
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[tools|Tools]]
-- [[c_Observables|Observables]]
-- [[indicator|Indicators]]
-- [[tisc-observable-enrichment|Observable Enrichment]]
-- [[threat-intelligence-security-center-overview|Explore]]
-- [[create-capability-profile-for-microsoft-defender-for-endpoint|Create a capability profile for the Microsoft Defender for Endpoint integration]]
-- [[integrating-threat-intelligence-security-center|Integrate]]
-- [[indicator-sightings|Sightings]]

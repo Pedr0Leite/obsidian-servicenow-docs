@@ -14,7 +14,7 @@ breadcrumb: [Activate Problem Management Best Practice — Madrid — Knowledge 
 
 # Components installed with Problem Management
 
-Several types of components are installed with activation of the [[c_ProblemManagement|Problem Management]] Best Practice — Madrid — Knowledge Integration plugin, including tables.
+Several types of components are installed with activation of the Problem Management Best Practice — Madrid — Knowledge Integration plugin, including tables.
 
 Demo data is available for this feature.
 
@@ -39,6 +39,3 @@ Table to store Known Error articles.
 </td></tr></tbody>
 </table>**Parent Topic:**[Activate Problem Management Best Practice — Madrid — Knowledge Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/act-pm-best-prac-madrid-know-int.md)
 
-## Related
-
-- [[c_ProblemManagement|Problem Management]]

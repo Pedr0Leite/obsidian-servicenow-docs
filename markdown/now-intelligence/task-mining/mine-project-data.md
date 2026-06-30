@@ -14,17 +14,17 @@ breadcrumb: [Generating project analysis, Use, Task Mining, Platform Analytics]
 
 # Run a mining job
 
-Run a mining job on a [[task-mining|Task Mining]] project to generate an analysis of your project data according to your categorization rules so you can make data-driven decisions.
+Run a mining job on a Task Mining project to generate an analysis of your project data according to your categorization rules so you can make data-driven decisions.
 
 ## Before you begin
 
-Analyses can only include data from users with completed data request approvals and agent installations. However, you can still [[generate-process-map|mine a project]] with incomplete data. If any data request is pending approval, you can remove that data request from the project first. For information about adding and removing workstation users from a project, see [Add workstation users to a Task Mining project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/add-users-to-task-mining-project.md).
+Analyses can only include data from users with completed data request approvals and agent installations. However, you can still mine a project with incomplete data. If any data request is pending approval, you can remove that data request from the project first. For information about adding and removing workstation users from a project, see [Add workstation users to a Task Mining project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/add-users-to-task-mining-project.md).
 
 Role required: sn\_tm\_core.analyst, sn\_tm\_core.power\_user, sn\_tm\_core.admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[task-mining-workspace|Task Mining Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Task Mining Workspace**.
 
 2.  Select the name of the project you want to analyze.
 
@@ -56,8 +56,3 @@ Review your analysis to see whether it needs further refinement. For more inform
 
 [Task Mining analyses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/task-mining-dashboard.md)
 
-## Related
-
-- [[task-mining|Task Mining]]
-- [[generate-process-map|Mine a project]]
-- [[task-mining-workspace|Task Mining Workspace]]

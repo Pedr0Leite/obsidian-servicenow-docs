@@ -16,7 +16,7 @@ Order fallout occurs when an order encounters an error in its normal fulfillment
 
 ## Overview of order fallout
 
-Order fallout refers to the failures that occur due to errors and exceptions that may take place during [[reviewing-orchestration-plans-order-fulfillment|order fulfillment]]. Fallout is a task-type object created to support scenarios where an order fails to proceed. These exceptions include the following:
+Order fallout refers to the failures that occur due to errors and exceptions that may take place during order fulfillment. Fallout is a task-type object created to support scenarios where an order fails to proceed. These exceptions include the following:
 
 -   Incorrect data
 -   Connectivity problems
@@ -88,11 +88,11 @@ The Fallout Management function includes the following tools:
 
 -   **Order fallout tracking**
 
-    With this tool, you can assign a unique number to each order fallout to track the progress of the fallout, from inception through resolution. By using an Order Fallout dashboard, a designated order fallout manager can view the status of all open fallout records. To learn more, see [[select-order-fallout-records-review|Review a fallout record]].
+    With this tool, you can assign a unique number to each order fallout to track the progress of the fallout, from inception through resolution. By using an Order Fallout dashboard, a designated order fallout manager can view the status of all open fallout records. To learn more, see [Review a fallout record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/select-order-fallout-records-review.md).
 
 -   **Fallout resolution**
 
-    With this tool, you can use the ServiceNow AI Platform features such as routing, notifications, and Workflow Studio to process order fulfillment exceptions in an automated manner. To learn more, see [[creating-automated-manual-fallout-records|Creating automated fallout records]].
+    With this tool, you can use the ServiceNow AI Platform features such as routing, notifications, and Workflow Studio to process order fulfillment exceptions in an automated manner. To learn more, see [Creating automated fallout records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/creating-automated-manual-fallout-records.md).
 
 
 For example, your customer orders a router, but insufficient inventory quantities are available in your ERP system to reserve the item and fulfill the order.
@@ -106,32 +106,21 @@ Without a fallout management process, your order fulfillment personnel would hav
 
 -   **[Creating automated fallout records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/creating-automated-manual-fallout-records.md)**  
 With Fallout Management, a provider can create automated fallout records for specific order tasks so that your orders can continue processing through to completion.
--   **[[create-manual-order-fallout-record|Create a manual fallout record]]**  
+-   **[Create a manual fallout record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-manual-order-fallout-record.md)**  
 Create a fallout record manually for an order task that has a condition or issue that prevents it from being completed.
 -   **[Review a fallout record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/select-order-fallout-records-review.md)**  
 Review a fallout record to make sure that the detailed information is correct and complete.
--   **[[review-update-selected-order-fallout-records|Update a fallout record]]**  
+-   **[Update a fallout record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/review-update-selected-order-fallout-records.md)**  
 Review the detailed information for a selected fallout record to verify that the information is correct and complete. You can change the fallout type, state, or priority. You can even assign it to a specific person to follow up on.
--   **[[resolve-order-fallouts|Resolve order fallouts]]**  
+-   **[Resolve order fallouts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/resolve-order-fallouts.md)**  
 Learn how to close the order fallout tasks in Order Management so that you can progress with order fulfillment.
 
-**Parent Topic:**[[using-order-management|Using Order Management]]
+**Parent Topic:**[Using Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-order-management.md)
 
 **Related topics**  
 
 
-[[order-mgt-configuring|Configuring Order Management]]
+[Configuring Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-configuring.md)
 
-[[explore-order-management|Order management]]
+[Order management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-order-management.md)
 
-## Related
-
-- [[select-order-fallout-records-review|Review a fallout record]]
-- [[creating-automated-manual-fallout-records|Creating automated fallout records]]
-- [[create-manual-order-fallout-record|Create a manual fallout record]]
-- [[review-update-selected-order-fallout-records|Update a fallout record]]
-- [[resolve-order-fallouts|Resolve order fallouts]]
-- [[using-order-management|Using Order Management]]
-- [[order-mgt-configuring|Configuring Order Management]]
-- [[explore-order-management|Order management]]
-- [[reviewing-orchestration-plans-order-fulfillment|Order fulfillment]]

@@ -14,7 +14,7 @@ breadcrumb: [Configuring Strategic Planning with PPM, Agile 2.0, and SAFe, Confi
 
 # Generate default mapping configurations
 
-[[generate-mapping-configurations-ppw|Generate default mapping configurations]] to create table maps for the available applications.
+Generate default mapping configurations to create table maps for the available applications.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_align\_core\_apw.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]]** &gt; **Integrations**.
+1.  Navigate to **All** &gt; **Strategic Planning** &gt; **Integrations**.
 
 2.  Click **ServiceNow Internal** to view the alignment integrations for the internal applications.
 
@@ -32,7 +32,7 @@ Role required: sn\_align\_core\_apw.admin
 
     |Application installed|Table maps created|
     |---------------------|------------------|
-    |Project Portfolio Management|Projects, [[t_CreateAProjectTask|project tasks]] \(for milestones\), demands, and idea|
+    |Project Portfolio Management|Projects, project tasks \(for milestones\), demands, and idea|
     |Agile Development 2.0|Epics|
     |SAFe|SAFe epic|
 
@@ -40,8 +40,4 @@ Role required: sn\_align\_core\_apw.admin
 
     \[Omitted image "fin-integration-internal-planning-item.png"\] Alt text: Generate default mapping.
 
-## Related
 
-- [[generate-mapping-configurations-ppw|Generate default mapping configurations]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[t_CreateAProjectTask|Project tasks]]

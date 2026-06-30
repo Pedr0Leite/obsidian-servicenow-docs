@@ -30,7 +30,7 @@ Role required: order\_approver, order\_viewer, sn\_ind\_tmt\_orm.order-fulfillme
 
 5.  In the **Order breakdowns** section of the order, select **View order timeline**.
 
-    The **Timeline** tab opens and displays the order tasks for the order line items and columns for the order task state and jeopardy status, if [[jeopardy-management|Jeopardy Management]] is enabled. Tasks in jeopardy are flagged with the jeopardy icon. For each task, a timeline shows the start and end dates of the task and any dependencies.
+    The **Timeline** tab opens and displays the order tasks for the order line items and columns for the order task state and jeopardy status, if Jeopardy Management is enabled. Tasks in jeopardy are flagged with the jeopardy icon. For each task, a timeline shows the start and end dates of the task and any dependencies.
 
 6.  To change the information or elements displayed in the timeline view, use these options.
 
@@ -74,18 +74,12 @@ In the time scale drop-down, select the time view, such as day, week month, or y
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[[reviewing-orchestration-plans-order-fulfillment|Order fulfillment]]
+**Parent Topic:**[Order fulfillment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/reviewing-orchestration-plans-order-fulfillment.md)
 
 **Related topics**  
 
 
-[[order-mgt-configuring|Configuring Order Management]]
+[Configuring Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-configuring.md)
 
-[[explore-order-management|Order management]]
+[Order management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-order-management.md)
 
-## Related
-
-- [[reviewing-orchestration-plans-order-fulfillment|Order fulfillment]]
-- [[order-mgt-configuring|Configuring Order Management]]
-- [[explore-order-management|Order management]]
-- [[jeopardy-management|Jeopardy Management]]

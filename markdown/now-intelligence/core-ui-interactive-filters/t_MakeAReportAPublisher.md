@@ -14,17 +14,17 @@ breadcrumb: [Interactive Filters on dashboards, Interactive Filters, Reporting, 
 
 # Make a report act as an interactive filter
 
-You can configure an existing report widget to filter other report [[widgets|widgets]] on the same dashboard.
+You can configure an existing report widget to filter other report widgets on the same dashboard.
 
 ## Before you begin
 
 Role required: report\_admin
 
-Only reports with a **Type** value of pie, donut, semi donut, funnel, or pyramid can act as [[c_HomepagePublishers|interactive filters]].
+Only reports with a **Type** value of pie, donut, semi donut, funnel, or pyramid can act as interactive filters.
 
 **Note:**
 
--   This documentation refers to Core UI reports and responsive dashboards. For information about making [[c_performanceAnalyticsAndReporting|Platform Analytics]] data visualizations act as filters on dashboards, see [[make-dv-act-as-filter|Make a data visualization act as a filter]].
+-   This documentation refers to Core UI reports and responsive dashboards. For information about making Platform Analytics data visualizations act as filters on dashboards, see [Make a data visualization act as a filter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/make-dv-act-as-filter.md).
 -   When a report is acting as an interactive filter, it is not possible to drill down into the report's segments.
 
 ## Procedure
@@ -65,9 +65,3 @@ Select a subset of data in the report, such as a slice of pie in a pie chart, to
 
 [Reset all interactive filters on a dashboard tab]()
 
-## Related
-
-- [[make-dv-act-as-filter|Make a data visualization act as a filter]]
-- [[widgets|Widgets]]
-- [[c_HomepagePublishers|Interactive Filters]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

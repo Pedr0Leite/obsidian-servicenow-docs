@@ -12,7 +12,7 @@ breadcrumb: [Reference, Pre-Visit Management, Healthcare and Life Sciences Servi
 
 # Domain separation and Pre-Visit Management
 
-Domain separation is supported for [[pre-visit-mgmt-app|Pre-Visit Management]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported for Pre-Visit Management. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 **Important:**
 
@@ -44,9 +44,5 @@ For customers using the Pre-Visit Management application to raise procedure requ
 
 When healthcare providers have their healthcare data separated by domains, the healthcare requests and corresponding fulfillment tasks are associated with the respective customer domains.
 
-**Parent Topic:**[[pre-visit-reference|Pre-Visit Management reference]]
+**Parent Topic:**[Pre-Visit Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pre-visit-reference.md)
 
-## Related
-
-- [[pre-visit-reference|Pre-Visit Management reference]]
-- [[pre-visit-mgmt-app|Pre-Visit Management]]

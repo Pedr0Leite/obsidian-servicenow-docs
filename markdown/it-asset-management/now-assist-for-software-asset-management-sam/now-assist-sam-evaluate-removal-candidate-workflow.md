@@ -22,7 +22,7 @@ Use the Evaluate software removal candidate agentic workflow to identify and eva
 
 Ensure that you have the following prerequisites for running the Evaluate software removal candidate agentic workflow:
 
--   Your organization has a [[c_SoftwareAssetMgmt|software asset management]] system integrated with AI agents.
+-   Your organization has a software asset management system integrated with AI agents.
 -   Access an AI-driven now-asset panel.
 -   AI agents have access to reclamation rules, removal candidates, products, and license metric results.
 
@@ -34,7 +34,7 @@ Any removal candidates that is in the **Ready** state can be reclaimed
 
 To initiate the agentic workflow, perform the following steps:
 
-1.  In the [[sam-workspace|Software Asset Workspace]], navigate to one of these pages:
+1.  In the Software Asset Workspace, navigate to one of these pages:
     -   **License usage** &gt; **Removal candidates**
     -   **License usage** &gt; **Publishers** &gt; **Removal candidates tab**
 2.  Select **Evaluate removal candidates**.
@@ -62,7 +62,3 @@ To initiate the agentic workflow, perform the following steps:
 
 **Parent Topic:**[Using agentic workflows in Now Assist for SAM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/now-assist-for-software-asset-management-sam/using-now-assist-sam-ai-agents-usecases.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-workspace|Software Asset Workspace]]

@@ -14,7 +14,7 @@ breadcrumb: [Manage CAD source files, Indoor Mapping, Workplace Service Delivery
 
 # Compute CAD file properties to extract space or room surface area
 
-Extract room and space dimensions from CAD files or [[Indoor-mapping|Indoor Mapping]] Map Studio. Use the extracted properties in [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] \(WSD\) space measurement table.
+Extract room and space dimensions from CAD files or Indoor Mapping Map Studio. Use the extracted properties in Workplace Service Delivery \(WSD\) space measurement table.
 
 ## Before you begin
 
@@ -24,14 +24,14 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **Space Mapping** &gt; **Indoor Mapping Administration** &gt; **Properties Mapping**.
 
-    By default, the following properties are stored in the [[indoor-mapping-properties|Indoor Mapping Properties]] Mapping table:
+    By default, the following properties are stored in the Indoor Mapping Properties Mapping table:
 
     -   **CAD\_COMPUTED\_SURFACE\_SQ\_METERS**: If the polylines are defined as closed shapes or if a unit is set, compute the surface area automatically in square meters from the CAD polylines. By default, this property is set to **false**.
     -   **CAD\_COMPUTED\_SURFACE\_SQ\_FEET**: If the polylines are defined as closed shapes or if a unit is set, compute the surface area automatically in square feet from the CAD polylines. By default, this property is set to **false**.
     -   **INDOORMAP\_COMPUTED\_SURFACE\_SQ.\_FEET**: Retrieve the **usable\_size\_sq\_feet** from polygons in Indoor Mapping. Activate this property if your CAD file doesn’t have closed shapes or if a unit isn’t defined in the file. This property is also used for raster files \(PNG\). The scale in Indoor Mapping varies slightly depending on how the building was stretched during the georeferencing process. By default, this property is set to **true**.
     -   **INDOORMAP\_COMPUTED\_SURFACE\_SQ\_METERS**: Retrieve the **usable\_size\_sq\_meter** from a CAD file for a surface area from polygons in Indoor Mapping. Activate this property if your CAD file doesn’t have closed shapes or if a unit isn’t defined in the file. This property is also used for raster files \(PNG\). The scale in Indoor Mapping varies slightly depending on how much the building was stretched during the georeferencing process. By default, this property is set to **true**.
 
-        After activating, these properties are applied automatically during the synchronization process to your Indoor Mapping maps. The properties populate the useable square meters or square feet field of the [[workplace-safety-mgmt-hr|Workplace Core]] space table by default. The space table form fields can be modified as required.
+        After activating, these properties are applied automatically during the synchronization process to your Indoor Mapping maps. The properties populate the useable square meters or square feet field of the Workplace Core space table by default. The space table form fields can be modified as required.
 
         **Note:** Select a value from the computed AutoCAD file or select a value that is available in the Indoor Mapping Map studio.
 
@@ -114,9 +114,4 @@ The default value is **global**.
 
 11. Spaces available in a campus are updated with the selected values after a CAD file is imported in the Map Studio and after the Indoor Mapping synchronization process is complete.
 
-## Related
 
-- [[Indoor-mapping|Indoor Mapping]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[indoor-mapping-properties|Indoor Mapping properties]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]

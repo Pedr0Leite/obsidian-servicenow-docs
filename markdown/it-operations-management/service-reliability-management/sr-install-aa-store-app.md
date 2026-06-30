@@ -24,7 +24,7 @@ Subscriptions required: ITSM Professional or ITOM Operator Professional subscrip
 
 ## About this task
 
-Before creating management rules, you must install and configure the [[sr-landing-page|Service Reliability Management]] \(SRM\) application, available in the ServiceNow Store.
+Before creating management rules, you must install and configure the Service Reliability Management \(SRM\) application, available in the ServiceNow Store.
 
 ## Procedure
 
@@ -32,7 +32,7 @@ Before creating management rules, you must install and configure the [[sr-landin
 
 2.  In your ServiceNow AI Platform instance, navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
-3.  Locate the **[[workspace-dashboard-use|Service Operations Workspace]] Alert Automation** application and select **Install**.
+3.  Locate the **Service Operations Workspace Alert Automation** application and select **Install**.
 
     Alert automation rules are ready to use in SRM.
 
@@ -43,7 +43,3 @@ Before creating management rules, you must install and configure the [[sr-landin
 
 **Next topic:**[Using Service Reliability Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/using-service-reliability-management.md)
 
-## Related
-
-- [[sr-landing-page|Service Reliability Management]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

@@ -14,7 +14,7 @@ breadcrumb: [Configuration Management Database \(CMDB\), Configuration Managemen
 
 # CI Class Manager
 
-Use the CI Class Manager to centrally view, create, or edit basic class definitions, class settings for [[ire|Identification and Reconciliation Engine \(IRE\)]], [[c_CMDBHealth|CMDB Health]], and manage some Service Mapping definitions.
+Use the CI Class Manager to centrally view, create, or edit basic class definitions, class settings for Identification and Reconciliation Engine \(IRE\), CMDB Health, and manage some Service Mapping definitions.
 
 **Note:** CI Class Manager doesn't support working with non-CMDB tables. For more details, see [IRE support for non-CMDB tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/ire-support-non-cmdb-tables.md).
 
@@ -59,7 +59,3 @@ To access the CI Class Manager, navigate to **All** &gt; **Configuration** &gt; 
 -   [Entry point types for Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/t_CreateEntryPoint.md)
 -   [CI types for Service Mapping and Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/t_CreateCITypeForSM.md)
 
-## Related
-
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]
-- [[c_CMDBHealth|CMDB Health]]

@@ -16,7 +16,7 @@ breadcrumb: [Dynamic Translation, Translation and localization, Configure core f
 
 Translate user-generated content live on your instance to streamline communication for your agents and end users.
 
-After you activate the [[dynamic-translation|Dynamic Translation]] plugin \(com.glide.dynamic\_translation\), you can do the following tasks using a translation service provider:
+After you activate the Dynamic Translation plugin \(com.glide.dynamic\_translation\), you can do the following tasks using a translation service provider:
 
 -   Detect the language of the input text
 -   Translate user-entered text from a source language to a target language
@@ -32,20 +32,13 @@ By default, Dynamic Translation supports the following Microsoft and Google serv
     **Note:** You should create a connection for each translation service provider and specify the credential information.
 
 -   IntegrationHub subflows and actions for these spokes.
-    -   [[microsoft-translation-spoke|Microsoft Azure Translator Service spoke]]
-    -   [[google-translator-spoke|Google Cloud Translator Service spoke]]
--   Translator [[clone-configurations-tab|configurations]]
+    -   Microsoft Azure Translator Service spoke
+    -   Google Cloud Translator Service spoke
+-   Translator configurations
 
-**Note:** The Google Cloud Translator Service spoke for Dynamic Translation must be installed from [[servicenow-store|ServiceNow Store]].
+**Note:** The Google Cloud Translator Service spoke for Dynamic Translation must be installed from ServiceNow Store.
 
 ## Using Dynamic Translation
 
 When your admin has configured Dynamic Translation, look for the translate icon \(\[Omitted image "Translation.png"\] Alt text: Translate icon.\) next to fields on forms and in workspaces.
 
-## Related
-
-- [[dynamic-translation|Dynamic translation]]
-- [[microsoft-translation-spoke|Microsoft Azure Translator Service spoke]]
-- [[google-translator-spoke|Google Cloud Translator Service Spoke]]
-- [[clone-configurations-tab|Configurations]]
-- [[servicenow-store|ServiceNow Store]]

@@ -14,7 +14,7 @@ breadcrumb: [Email as an MFA factor, MFA factor policies, MFA verification metho
 
 # Configure Email as an MFA factor
 
-Configure policy input and condition to display [[email|Email]] OTP as an MFA factor policy for [[c_Authentication|authentication]].
+Configure policy input and condition to display Email OTP as an MFA factor policy for authentication.
 
 ## Before you begin
 
@@ -22,9 +22,9 @@ Role required: adaptive\_auth\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[mfa-landing|Multi-factor Authentication]]** &gt; **MFA Context**.
+1.  Navigate to **All** &gt; **Multi-factor Authentication** &gt; **MFA Context**.
 
-2.  Click **MFA Factor [[ca-policies|Policies]]** tab.
+2.  Click **MFA Factor Policies** tab.
 
     **Note:** The **EMAIL** as **MFA Factor with a Policy** is available by default. You can edit the policy and specify the policy inputs and conditions.
 
@@ -34,14 +34,14 @@ Role required: adaptive\_auth\_admin
 
 4.  Click **New** to add **Policy Inputs**.
 
-5.  Select the [[adaptive-auth-filter-criteria|filter criteria]] that you want to create.
+5.  Select the filter criteria that you want to create.
 
     Following are the types of filter criteria:
 
     -   [IP Filter Criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/create-ip-filter-criteria.md)
     -   [Role Filter Criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/create-role-filter-criteria.md)
     -   [Group Filter Criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/create-group-filter-criteria.md)
-    For example, [[role-filter|Role Filter]] Criteria.
+    For example, Role Filter Criteria.
 
     \[Omitted image "mfa-email-filter.png"\] Alt text: Filter Criteria
 
@@ -94,14 +94,6 @@ Logical combination of multiple policy inputs \(filter criteria\) that is used t
 
     **Note:** If you create multiple policy conditions, the final output of the access policy depends on the logical OR output of the all policy conditions. This means the policy will evaluate to true if any one of your policy conditions is met.
 
-    Based on the role filter \([[users|users]]\) policy and the conditions specified for the role is matched, the Email MFA factor is shown as an options for authentication for the users.
+    Based on the role filter \(users\) policy and the conditions specified for the role is matched, the Email MFA factor is shown as an options for authentication for the users.
 
-## Related
 
-- [[email|Email]]
-- [[c_Authentication|Authentication]]
-- [[mfa-landing|Multi-factor authentication]]
-- [[ca-policies|Policies]]
-- [[adaptive-auth-filter-criteria|Filter criteria]]
-- [[role-filter|Role Filter]]
-- [[users|Users]]

@@ -109,7 +109,7 @@ Document Category
 
 </td><td>
 
-Stores all document categories that are configured for all workflows across [[fso-overview|Financial Services]] Operations applications.
+Stores all document categories that are configured for all workflows across Financial Services Operations applications.
 
 </td></tr><tr><td>
 
@@ -218,13 +218,8 @@ Document Processor
 
 </td><td>
 
-This UI Builder page displays the list of required documents defined in the document list definition as a playbook activity. If the document list item indicates that the document can be deferred or have an exception, these options appear in this page. See [[doc-processor-associate-document-list-items-to-category|Create document list item definitions for a document list definition]] for more information.**Note:** This component requires CSM workspace to be installed.
+This UI Builder page displays the list of required documents defined in the document list definition as a playbook activity. If the document list item indicates that the document can be deferred or have an exception, these options appear in this page. See [Create document list item definitions for a document list definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/doc-processor-associate-document-list-items-to-category.md) for more information.**Note:** This component requires CSM workspace to be installed.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[financial-document-processor-reference|Financial Services Operations Document Processor reference]]
+</table>**Parent Topic:**[Financial Services Operations Document Processor reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-document-processor-reference.md)
 
-## Related
-
-- [[doc-processor-associate-document-list-items-to-category|Create document list item definitions for a document list definition]]
-- [[financial-document-processor-reference|Financial Services Operations Document Processor reference]]
-- [[fso-overview|Financial Services]]

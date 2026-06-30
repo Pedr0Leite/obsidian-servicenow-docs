@@ -24,7 +24,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[walkup-experience-landing-page|Walk-up Experience]]** &gt; **Administration** &gt; **Walk-up Locations**.
+1.  Navigate to **All** &gt; **Walk-up Experience** &gt; **Administration** &gt; **Walk-up Locations**.
 
 2.  Select the location to add skills of the agents.
 
@@ -48,6 +48,3 @@ Role required: admin
 
 **Parent Topic:**[Configure skill-based routing in Walk-up Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walkup-skill-based-routing.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]

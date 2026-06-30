@@ -15,7 +15,7 @@ breadcrumb: [ACC-VC reference, Agent Client Collector reference, Agent Client Co
 
 # License key discovery and access control tables
 
-Reference information for the tables, fields, access control, and scheduled job used by [[license-key-discovery|license key discovery]] in [[acc-landing-page|Agent Client Collector]] for Visibility - Content.
+Reference information for the tables, fields, access control, and scheduled job used by license key discovery in Agent Client Collector for Visibility - Content.
 
 ## Tables
 
@@ -30,7 +30,7 @@ License key discovery uses the following tables.
 
 The **License Keys** \[sn\_acc\_vis\_content\_license\_keys\] table stores the following fields for each discovered key.
 
-<table id="license-key-[[r-discovery|discovery]]-keys-fields"><thead><tr><th>
+<table id="license-key-discovery-keys-fields"><thead><tr><th>
 
 Field
 
@@ -139,8 +139,3 @@ The following scheduled job supports license key discovery.
 
 **Parent Topic:**[Agent Client Collector for Visibility - Content reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-client-collector-for-visibility-references.md)
 
-## Related
-
-- [[license-key-discovery|License key discovery]]
-- [[acc-landing-page|Agent Client Collector]]
-- [[r-discovery|Discovery]]

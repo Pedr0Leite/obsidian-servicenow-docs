@@ -14,7 +14,7 @@ breadcrumb: [Service Graph Connector for Microsoft Defender for IoT \(Azure\), I
 
 # Configure the Service Graph Connector for Microsoft Defender for IoT \(Azure\)
 
-Use the guided setup for the [[integration-sgc-microsoft-defender-iot-azure|Service Graph Connector for Microsoft Defender for IoT \(Azure\)]] to lead you through the integration steps.
+Use the guided setup for the Service Graph Connector for Microsoft Defender for IoT \(Azure\) to lead you through the integration steps.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Dependencies and requirements:
 -   The ITOM Discovery License plugin \(com.snc.itom.discovery.license\). You must activate this plugin.
 -   ITOM Licensing plugin \(com.snc.itom.license\). For more information, see [Request Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/t_ActivateTheDiscoveryPlugin.md).
 -   The Datastream Action plugin \(com.glide.hub.action\_type.datastream\), which is automatically installed.
--   The [[industrial-core-plugin|Industrial Core plugin]]. You must activate this plugin.
+-   The Industrial Core plugin. You must activate this plugin.
 
     The Industrial Core plugin is required to access the class mappings table for the Service Graph Connector for Microsoft Defender for IoT \(Azure\). For more information about the Industrial Core plugin, see [Industrial Core plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/industrial-core-plugin.md).
 
@@ -243,7 +243,7 @@ Query to filter other attributes for Active Scan devices. For example, to allow 
 
     2.  Select **Mark as complete** once you complete the NIDS configuration linked in the description.
 
-10. To [[configure-import-schedules|configure import schedules]], complete the following:
+10. To configure import schedules, complete the following:
 
     1.  In the Configure Import Schedules section, select **Configure**.
 
@@ -263,9 +263,9 @@ Query to filter other attributes for Active Scan devices. For example, to allow 
 
 11. When configuration items \(CIs\) are created in the CMDB, asset records are created.
 
-    The asset record contains the model category of the CI. For more information about the [[model-categories-for-ot|model categories for Operational Technology]] \(OT\), see [Model categories for Operational Technology](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/model-categories-for-ot.md). To view the model category for an OT device, complete the following:
+    The asset record contains the model category of the CI. For more information about the model categories for Operational Technology \(OT\), see [Model categories for Operational Technology](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/model-categories-for-ot.md). To view the model category for an OT device, complete the following:
 
-    1.  Navigate to **All** &gt; **[[operational-technology-overview|Operational Technology]] \(OT\)** &gt; **All OT Devices**.
+    1.  Navigate to **All** &gt; **Operational Technology \(OT\)** &gt; **All OT Devices**.
     2.  Select an OT device to view its asset record in a new tab.
 12. To troubleshoot the Service Graph Connector for Microsoft Defender for IoT \(Azure\), complete the following:
 
@@ -285,7 +285,7 @@ Query to filter other attributes for Active Scan devices. For example, to allow 
 
     6.  Address the suggestions as needed.
 
-        **Note:** You can use the scheduled script at any point after the initial configuration of the [[sgc-cmdb-integration-claroty-ctd|Service Graph Connector Integration for Claroty CTD]]. To trigger validations, navigate to **All** &gt; **Service Graph for MSFT D4IoT \(Azure\)** &gt; **Troubleshooting** &gt; **Run Troubleshooting**. To view the validation results, navigate to **All** &gt; **Service Graph for MSFT D4IoT \(Azure\)** &gt; **Troubleshooting** &gt; **Results**.
+        **Note:** You can use the scheduled script at any point after the initial configuration of the Service Graph Connector Integration for Claroty CTD. To trigger validations, navigate to **All** &gt; **Service Graph for MSFT D4IoT \(Azure\)** &gt; **Troubleshooting** &gt; **Run Troubleshooting**. To view the validation results, navigate to **All** &gt; **Service Graph for MSFT D4IoT \(Azure\)** &gt; **Troubleshooting** &gt; **Results**.
 
 
 ## What to do next
@@ -294,11 +294,3 @@ You can now connect Microsoft Defender for IoT \(Azure\) with the ServiceNow Ser
 
 **Parent Topic:**[Service Graph Connector for Microsoft Defender for IoT \(Azure\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/integration-sgc-microsoft-defender-iot-azure.md)
 
-## Related
-
-- [[integration-sgc-microsoft-defender-iot-azure|Service Graph Connector for Microsoft Defender for IoT \(Azure\)]]
-- [[industrial-core-plugin|Industrial Core plugin]]
-- [[configure-import-schedules|Configure import schedules]]
-- [[model-categories-for-ot|Model categories for Operational Technology]]
-- [[operational-technology-overview|Operational Technology]]
-- [[sgc-cmdb-integration-claroty-ctd|Service Graph Connector Integration for Claroty CTD]]

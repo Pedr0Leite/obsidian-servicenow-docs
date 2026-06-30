@@ -14,18 +14,14 @@ breadcrumb: [Create and test your credentials, Get started with credentials, Con
 
 # Ansible Tower credentials
 
-Ansible Tower credentials are required to access your Ansible [[sc-configuration|configuration]] management account. Use these credentials to manage Ansible resources through the Cloud Management application.
+Ansible Tower credentials are required to access your Ansible configuration management account. Use these credentials to manage Ansible resources through the Cloud Management application.
 
 To integrate Cloud Provisioning and Governance with the Ansible configuration management account, you must configure the user name and password for the administrator account in Ansible.
 
 |Field|Description|
 |-----|-----------|
 |Name|Provide a descriptive name.|
-|User name/Password|Enter the [[c_Authentication|authentication]] credentials for the Ansible Tower user with administrator rights.|
+|User name/Password|Enter the authentication credentials for the Ansible Tower user with administrator rights.|
 
 **Note:** You do not need to configure the other fields.
 
-## Related
-
-- [[sc-configuration|Configuration]]
-- [[c_Authentication|Authentication]]

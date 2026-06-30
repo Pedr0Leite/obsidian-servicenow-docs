@@ -23,7 +23,7 @@ Once the workflow is activated, it triggers automatically when a case meets both
 -   Priority is **P1** or **P2**
 -   The case has **no parent case**
 
-**Note:** You can configure the similarity thresholds and other detection parameters. For more information see [[configure-na-for-csm-major-issue-management|Configure Now Assist for CSM Major Issue Management]].
+**Note:** You can configure the similarity thresholds and other detection parameters. For more information see [Configure Now Assist for CSM Major Issue Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-na-for-csm-major-issue-management.md).
 
 ## How the workflow runs
 
@@ -78,9 +78,5 @@ The workflow found no existing major case to link this case to, but the pattern 
 -   Writes the `suggested_major_case` value to the `sn_customerservice_case` record
 -   Triggers the Major Issue Management lifecycle
 
-The proposed major case appears in the major case manager queue for review, and you can approve or reject it. See [[na-mim-review-a-proposed-major-case|Review a proposed major case]] for more information.
+The proposed major case appears in the major case manager queue for review, and you can approve or reject it. See Review a proposed major case for more information.
 
-## Related
-
-- [[configure-na-for-csm-major-issue-management|Configure Now Assist for CSM Major Issue Management]]
-- [[na-mim-review-a-proposed-major-case|Review a proposed major case]]

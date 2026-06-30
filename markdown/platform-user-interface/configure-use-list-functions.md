@@ -12,7 +12,7 @@ breadcrumb: [Lists in the classic environment, Working in the classic environmen
 
 # Configure and use list functions
 
-All users can interact with [[lists-configurable-workspace|lists]] for the tables their role permits them to access. Some list and column header menu options are controlled by permissions grated to the user role.
+All users can interact with lists for the tables their role permits them to access. Some list and column header menu options are controlled by permissions grated to the user role.
 
 ## Before you begin
 
@@ -20,9 +20,9 @@ Role required: admin
 
 ## About this task
 
-The following procedures describe functions that users can [[configure-onboarding-modals|configure]] or use with lists.
+The following procedures describe functions that users can configure or use with lists.
 
-**Parent Topic:**[[c_UseLists|Lists in the classic environment]]
+**Parent Topic:**[Lists in the classic environment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_UseLists.md)
 
 ## Sort a list
 
@@ -36,7 +36,7 @@ Role required: none
 
 Consider the example record: Label=**Requested Item**; Value=**sc\_req\_item**. Field types other than choice list types are sorted based on the label. The example record label, **Requested Item**, would be sorted with records whose labels start with "r."
 
-A choice list field lets the user select from a pre-defined set of choices. Choice [[r_Fields|list fields]] are sorted by the underlying dictionary entry value of the field, not by the label. The example record value, **sc\_req\_item** would be sorted with records whose values start with "s."
+A choice list field lets the user select from a pre-defined set of choices. Choice list fields are sorted by the underlying dictionary entry value of the field, not by the label. The example record value, **sc\_req\_item** would be sorted with records whose values start with "s."
 
 Sorting by value can be useful. For example, choices for the **State** of tasks are ordered **New** &gt; **Work in Progress** &gt; **Closed**. Based on the label, the sort would be **Closed** &gt; **New** &gt; **Work in Progress**.
 
@@ -60,7 +60,7 @@ To sort a list, use one of the following methods:
 
 -   Specify a sort order with a filter.
 
-    [[c_Filters|Filters]] provide for sorting by more than one column \(for example, by Category and then Subcategory\).
+    Filters provide for sorting by more than one column \(for example, by Category and then Subcategory\).
 
 
 **Related topics**  
@@ -94,7 +94,7 @@ Field status indicators on lists are displayed with modern cell coloring, as a c
 
     3.  Click **OK**.
 
-    For more information, see [[c_PersonalLists|Creating Personal Lists]].
+    For more information, see [Creating Personal Lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_PersonalLists.md).
 
 
 ## Customize the number of list rows per page
@@ -195,28 +195,17 @@ Role required: admin
 
 ## Embedded lists
 
-Some lists may be embedded in [[form-configurable-workspace|forms]]. Use list controls to work with records in an embedded list within a form.
+Some lists may be embedded in forms. Use list controls to work with records in an embedded list within a form.
 
-Use these controls to work with an embedded list. For more information, see [[t_EditingInForms|Edit a form]].
+Use these controls to work with an embedded list. For more information, see [Edit a form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_EditingInForms.md).
 
 |Task|Icon|Action|
 |----|----|------|
 |Expand an embedded list|\[Omitted image "UI11FormExpand.png"\] Alt text: Expand embedded list icon.|Click the expand icon in the list header.|
 |Collapse an embedded list|\[Omitted image "UI11FormCollapse.png"\] Alt text: Collapse embedded list icon.|Click the collapse icon in the list header.|
 |Insert a new row|\[Omitted image "InsertRow.png"\] Alt text: Insert a row.|Select **Add** and identify the record you want to add to the embedded list.|
-|Edit a row| |Double-click in an empty area of that field. See [[t_UseTheListEditor|Use the list editor]].|
+|Edit a row| |Double-click in an empty area of that field. See [Use the list editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_UseTheListEditor.md).|
 |Delete a row|\[Omitted image "RowDeleteIcon.png"\] Alt text: Delete row icon.|Click the delete icon beside the row. New rows are removed immediately. Existing rows are designated for deletion when the record is saved. To clear this designation, click the delete icon again.|
 
 \[Omitted image "FormEmbeddedList.png"\] Alt text: Embedded list
 
-## Related
-
-- [[c_UseLists|Lists in the classic environment]]
-- [[c_PersonalLists|Personal lists]]
-- [[t_EditingInForms|Edit a form]]
-- [[t_UseTheListEditor|Use the list editor]]
-- [[lists-configurable-workspace|Lists]]
-- [[configure-onboarding-modals|Configure]]
-- [[r_Fields|List fields]]
-- [[c_Filters|Filters]]
-- [[form-configurable-workspace|Forms]]

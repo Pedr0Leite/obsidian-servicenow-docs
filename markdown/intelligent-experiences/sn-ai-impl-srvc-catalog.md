@@ -13,7 +13,7 @@ breadcrumb: [Application readiness, ServiceNow AI implementation, Enable AI expe
 
 # Service Catalog readiness for Now Assist on the ServiceNow AI Platform
 
-A well-structured Service Catalog is essential to unlocking the full potential of [[platform-now-assist-landing|Now Assist]]. As the backbone of many self-service workflows, the catalog enables Now Assist to interpret user requests accurately, present the right options, and minimize friction in the experience.
+A well-structured Service Catalog is essential to unlocking the full potential of Now Assist. As the backbone of many self-service workflows, the catalog enables Now Assist to interpret user requests accurately, present the right options, and minimize friction in the experience.
 
 When catalog items are clearly defined and conversationally enabled, Now Assist in Virtual Agent can surface them more effectively, leading to higher self-service rates and better issue deflection.
 
@@ -41,7 +41,7 @@ However, catalogs that are cluttered, inconsistent, or overly complex make it di
 
     Identify catalog items with fewer than 15 variables. \(Items with more than 15 variables are better suited to be submitted as pop-up links to forms.\)
 
-    **Note:** Conversational catalog items require Now Assist in Virtual Agent. For details, see [[sn-ai-impl-nava|Now Assist in Virtual Agent readiness on the ServiceNow AI Platform]].
+    **Note:** Conversational catalog items require Now Assist in Virtual Agent. For details, see [Now Assist in Virtual Agent readiness on the ServiceNow AI Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/sn-ai-impl-nava.md).
 
     Why? These are easier to convert and provide quick AI wins.
 
@@ -58,7 +58,7 @@ However, catalogs that are cluttered, inconsistent, or overly complex make it di
     -   [Service Catalog properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_ServiceCatalogProperties.md)
     -   [Edit a catalog item in Catalog Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/edit-cat-item-cat-builder.md)
     -   [Create a catalog item using a template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/create-item-cat-builder.md)
--   **5. Review advanced [[exploring-ai-governance|configurations]]**
+-   **5. Review advanced configurations**
 
     Review UI policies, client scripts, and user criteria.
 
@@ -87,8 +87,3 @@ For more information about conversational catalogs in AI, see the following Serv
 -   [Guidance for making catalog items conversational](https://www.servicenow.com/community/intelligence-ml-articles/now-assist-in-conversational-catalog-request-guidance-for-making/ta-p/2987560)
 -   [How to request catalog items in Now Assist in Virtual Agent](https://www.servicenow.com/community/virtual-agent-nlu-articles/how-to-request-catalog-items-in-now-assist-in-virtual-agent/ta-p/2747811)
 
-## Related
-
-- [[sn-ai-impl-nava|Now Assist in Virtual Agent readiness on the ServiceNow AI Platform]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[exploring-ai-governance|Configurations]]

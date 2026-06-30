@@ -14,11 +14,11 @@ breadcrumb: [Configure, Workplace Reservations for Microsoft Outlook Add-in, Wor
 
 # Upload the manifest file in Microsoft Office 365
 
-After you [[create-ms365-addin-manifest|create a manifest file]], upload it to Microsoft Office 365. You can view and use the add-in Microsoft Office 365 after you upload the manifest file.
+After you create a manifest file, upload it to Microsoft Office 365. You can view and use the add-in Microsoft Office 365 after you upload the manifest file.
 
 ## Before you begin
 
-**Important:** The [[workplace-rsv-for-outlook-addin-feat|Workplace Reservations for Microsoft Outlook Add-in]] application does not support Microsoft Exchange On-Premises.
+**Important:** The Workplace Reservations for Microsoft Outlook Add-in application does not support Microsoft Exchange On-Premises.
 
 Role required: sn\_wsd\_msaddin.admin
 
@@ -26,7 +26,7 @@ Role required: sn\_wsd\_msaddin.admin
 
 1.  Log in to the Microsoft Office 365 with your admin account.
 
-2.  Select the [[web-application-employee-about|app launcher]] icon in the upper-left and click **Admin**.
+2.  Select the app launcher icon in the upper-left and click **Admin**.
 
 3.  In the admin center, go to **Settings** &gt; **Services &amp; add-ins**.
 
@@ -71,8 +71,3 @@ The add-in is uploaded to Microsoft Office 365. The users to whom the add-in is 
 
 [Upload the manifest file for a single user]()
 
-## Related
-
-- [[create-ms365-addin-manifest|Create a manifest file]]
-- [[workplace-rsv-for-outlook-addin-feat|Workplace Reservations for Microsoft Outlook Add-in]]
-- [[web-application-employee-about|App Launcher]]

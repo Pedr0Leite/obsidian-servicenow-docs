@@ -14,7 +14,7 @@ breadcrumb: [Configure, Portfolio Planning, Strategic Portfolio Management]
 
 # Customizing Lists in Portfolio Planning Workspace
 
-You can add custom tables to the Lists menu in [[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace and manage access to the newly created categories and lists.
+You can add custom tables to the Lists menu in Portfolio Planning Workspace and manage access to the newly created categories and lists.
 
 Perform the following tasks to customize Lists and manage access to the newly created categories and lists in the Lists page of Portfolio Planning Workspace:
 
@@ -22,6 +22,3 @@ Perform the following tasks to customize Lists and manage access to the newly cr
 -   Add custom tables to the Lists menu. For more information, see [Customize Lists in Portfolio Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/customize-lists-in-portfolio-planning-workspace.md).
 -   Manage who can view the newly created categories and lists in the Lists page. For more information, see [Define audience for new lists in Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/define-audience-for-new-lists-portfolio-planning.md).
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

@@ -36,7 +36,7 @@ The next example shows a 2-tier roll-up, with a child product \(child1B and chil
 
 1.  In CPQ administration, create a rule by clicking **+ New**.
 
-    \[Omitted image "cpq-rollup-pricing-3.png"\] Alt text: [[rules_101|Rules]]
+    \[Omitted image "cpq-rollup-pricing-3.png"\] Alt text: Rules
 
 2.  Name the rule, and click **Save**.
 
@@ -49,7 +49,7 @@ The next example shows a 2-tier roll-up, with a child product \(child1B and chil
     -   Add the unique identifier to the parent product field of any products that you want rolled up into the parent product.
     \[Omitted image "cpq-rollup-pricing-4.png"\] Alt text: Product action
 
-4.  To display the rolled-up price in your cart, add `rollUpPrice` to your shopping cart in the [[layout_editor|layout editor]], or define the `productlistcolumn` type in your layout CSV with the variable name `rollUpPrice`.
+4.  To display the rolled-up price in your cart, add `rollUpPrice` to your shopping cart in the layout editor, or define the `productlistcolumn` type in your layout CSV with the variable name `rollUpPrice`.
 
     \[Omitted image "cpq-rollup-pricing-5.png"\] Alt text: CSV file
 
@@ -57,15 +57,9 @@ The next example shows a 2-tier roll-up, with a child product \(child1B and chil
 **Related topics**  
 
 
-[[layout_how_do_i_customize_currency_display_in_shopping_cart|Customizing the currency display in the shopping cart]]
+[Customizing the currency display in the shopping cart](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/layout_how_do_i_customize_currency_display_in_shopping_cart.md)
 
-[[how_does_pricing_on_multiple_boms_displayed_on_a_layout_behave|How price is displayed on a layout with multiple BOMs]]
+[How price is displayed on a layout with multiple BOMs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/how_does_pricing_on_multiple_boms_displayed_on_a_layout_behave.md)
 
 [Set a custom message for zero-priced and null-priced items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-## Related
-
-- [[layout_how_do_i_customize_currency_display_in_shopping_cart|Customizing the currency display in the shopping cart]]
-- [[how_does_pricing_on_multiple_boms_displayed_on_a_layout_behave|How price is displayed on a layout with multiple BOMs]]
-- [[rules_101|Rules]]
-- [[layout_editor|Layout editor]]

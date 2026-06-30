@@ -32,7 +32,7 @@ You can efficiently manage and run multiple scheduled jobs in parallel to group 
 
 -   **sa\_analytics.agg.group\_alert\_with\_same\_assignment\_group\_only**: Groups alerts that share the same assignment group. By default, the value is set to false. If you want to set this property to true, create a property with the same name and set the value to true.
 -   **sa\_analytics.agg.group\_alert\_with\_same\_domain\_only**: Groups alerts that belong to the same domain. By default, the value is set to true.
--   **sa\_analytics.agg.group\_alert\_with\_same\_group\_by\_fields**: “Group by” property, with comma-separated list of field names that need to have matching values across alerts to allow alerts to be grouped together. The property can contain alert field names \(such as assignment\_group\), CI field names \(such as alert\_cmdb\_ci.location\), alert additional info field names \(such as additional\_info.state\) or [[alert-tags|alert tags]] \(such as t\_data\_center\). When the specified field values match each other between alerts, those alerts can be grouped together.
+-   **sa\_analytics.agg.group\_alert\_with\_same\_group\_by\_fields**: “Group by” property, with comma-separated list of field names that need to have matching values across alerts to allow alerts to be grouped together. The property can contain alert field names \(such as assignment\_group\), CI field names \(such as alert\_cmdb\_ci.location\), alert additional info field names \(such as additional\_info.state\) or alert tags \(such as t\_data\_center\). When the specified field values match each other between alerts, those alerts can be grouped together.
 
 **Note:** To ensure efficient scale-out, at least one of these properties must be defined to establish some form of separation or grouping logic. This is necessary to ensure that all alerts belonging to the same group are processed correctly by specific jobs, creating a logical division of alerts.
 
@@ -48,7 +48,7 @@ Without setting at least one of these properties to true, the alerts will not be
 
     \[Omitted image "deactivate-scheduled-job.png"\] Alt text: Deactivate scheduled job
 
-4.  Create a new property **sa\_analytics.agg.alert\_grouping.num\_of\_jobs**, or if it already exists, update the property to the desired number of multiple scheduled jobs for [[c_ServiceAnalyticsOverview|alert grouping]] such as 2 or 4.
+4.  Create a new property **sa\_analytics.agg.alert\_grouping.num\_of\_jobs**, or if it already exists, update the property to the desired number of multiple scheduled jobs for alert grouping such as 2 or 4.
 
 5.  Clone the scheduled job definition from the Scheduled jobs \[sys\_auto\] table to the desired number of multiple scheduled jobs for alert grouping.
 
@@ -85,7 +85,3 @@ Without setting at least one of these properties to true, the alerts will not be
 
 The scheduled job Service Analytics group alerts using RCA/Alert Aggregation is set up to run multiple jobs simultaneously for alert grouping.
 
-## Related
-
-- [[alert-tags|Alert tags]]
-- [[c_ServiceAnalyticsOverview|Alert grouping]]

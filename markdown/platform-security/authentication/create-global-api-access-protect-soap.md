@@ -14,17 +14,17 @@ breadcrumb: [Create SOAP API access policy, SOAP API access policies, API access
 
 # Create a global API access policy to protect SOAP APIs
 
-Create a single global [[api-access-policy|API access policy]] to protect all the SOAP APIs.
+Create a single global API access policy to protect all the SOAP APIs.
 
 ## Before you begin
 
 -   Role required: api\_service\_admin, adaptive\_auth\_policy\_admin
 -   Install the **Processor Access policy** \(`com.glide.processor.policy`\) plugin
--   Make sure that an [[c_Authentication|authentication]] profile is created. For more information, see [Create an authentication profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/create-authentication-profile.md).
+-   Make sure that an authentication profile is created. For more information, see [Create an authentication profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/create-authentication-profile.md).
 
 The following steps describes how to create a single global access policy to protect all the SOAP APIs.
 
-**Note:** The [[ca-policies|policies]] defined at the individual SOAP API levels overrides the **SOAPProcessor** level global access policy.
+**Note:** The policies defined at the individual SOAP API levels overrides the **SOAPProcessor** level global access policy.
 
 ## Procedure
 
@@ -42,8 +42,4 @@ The following steps describes how to create a single global access policy to pro
 
 3.  Select **Submit**.
 
-## Related
 
-- [[api-access-policy|API access policy]]
-- [[c_Authentication|Authentication]]
-- [[ca-policies|Policies]]

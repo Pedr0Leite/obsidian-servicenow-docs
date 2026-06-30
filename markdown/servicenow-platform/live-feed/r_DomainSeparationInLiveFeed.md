@@ -14,7 +14,7 @@ breadcrumb: [Live Feed reference, Live Feed Core UI, Manage people and work capa
 
 # Domain separation in Live Feed
 
-This is an overview of [[domain-separation-relationship-formatter-editor|domain separation]] and Live Feed. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+This is an overview of domain separation and Live Feed. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Overview
 
@@ -61,7 +61,7 @@ All of the Live Feed features are available to users within a domain and work th
     -   New threads in an existing team are created in the domain of the existing team.
     -   When a user is creating a new team from a document, if the document domain is not empty or global, the team domain needs to be changed to be the document's domain.
     -   For a document-generated team, when the domain of the document changes, the domain of all related Live Feed records changes as well.
--   Subscribing to [[email|email]] notifications
+-   Subscribing to email notifications
 
     Users can subscribe to email notifications from users and teams within their domain only.
 
@@ -83,7 +83,3 @@ All of the Live Feed features are available to users within a domain and work th
 
 [Domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[domain-separation-relationship-formatter-editor|Domain separation]]
-- [[email|Email]]

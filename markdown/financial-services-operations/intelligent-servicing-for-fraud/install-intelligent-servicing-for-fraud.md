@@ -15,7 +15,7 @@ breadcrumb: [Intelligent Servicing for Fraud, Banking applications, Financial Se
 
 # Install Intelligent Servicing for Fraud
 
-You can install the [[intelligent-servicing-for-fraud-landing-page|Intelligent Servicing for Fraud]] application \(sn\_bom\_fraud\) if you have the admin role. The application includes the demo data and installs that are related to ServiceNow® Store applications and plugins if they aren’t already installed.
+You can install the Intelligent Servicing for Fraud application \(sn\_bom\_fraud\) if you have the admin role. The application includes the demo data and installs that are related to ServiceNow® Store applications and plugins if they aren’t already installed.
 
 ## Before you begin
 
@@ -57,6 +57,4 @@ For more information, see [Components installed with Intelligent Servicing for F
 
 6.  Select **Install**.
 
-## Related
 
-- [[intelligent-servicing-for-fraud-landing-page|Intelligent Servicing for Fraud]]

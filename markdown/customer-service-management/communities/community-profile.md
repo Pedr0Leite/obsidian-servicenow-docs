@@ -28,7 +28,7 @@ Role required: sn\_communities.community\_user
 -   **[Manage your community profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/view-user-profile.md)**  
 View and edit your own community profile, which displays your contributions, network, achievements, expertise, and events you are attending.
 -   **[View another user's community profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/view-other-user-community-profile.md)**  
-[[view-other-user-community-profile|View another user's community profile]] to see their contributions, network, expertise, and so on. You can also manage your network by following and unfollowing other community users.
+View another user's community profile to see their contributions, network, expertise, and so on. You can also manage your network by following and unfollowing other community users.
 -   **[Follow a community user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/follow-user.md)**  
 Manage your network by following other community users and tracking their activity in the community.
 -   **[Edit your community profile photo and personal information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/customize-your-profile.md)**  
@@ -36,7 +36,7 @@ Change your community profile photo and edit your personal information.
 -   **[Edit your community profile display settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/manage-your-display-settings.md)**  
 Edit your display settings to determine who can view each profile section.
 -   **[Report a community profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/report-user-profile.md)**  
-[[report-user-profile|Report a community profile]] to alert community moderators that there is offensive or inaccurate information in the profile.
+Report a community profile to alert community moderators that there is offensive or inaccurate information in the profile.
 
 **Parent Topic:**[Using communities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/using-communities.md)
 
@@ -73,7 +73,3 @@ Edit your display settings to determine who can view each profile section.
 
 [Gamification]()
 
-## Related
-
-- [[view-other-user-community-profile|View another user's community profile]]
-- [[report-user-profile|Report a community profile]]

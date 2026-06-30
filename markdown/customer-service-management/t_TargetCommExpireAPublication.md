@@ -20,7 +20,7 @@ Role required: sn\_publications.author or sn\_publications.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_TargetedCommunications|Targeted Communications]]** &gt; **Active Publications**.
+1.  Navigate to **All** &gt; **Targeted Communications** &gt; **Active Publications**.
 
 2.  Select an article that has been published.
 
@@ -28,6 +28,4 @@ Role required: sn\_publications.author or sn\_publications.admin
 
     The publication **Expiry Date** is set to the current date. The publication is removed from the Active Publications list and appears on the Expired Publications list.
 
-## Related
 
-- [[c_TargetedCommunications|Targeted communications]]

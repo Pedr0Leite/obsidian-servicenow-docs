@@ -14,14 +14,14 @@ breadcrumb: [Incident pattern analysis, Use generative AI skills, Now Assist for
 
 # Analyzing safety incident patterns
 
-The **Incident patterns** tab of the [[health-safety-overview|Health and Safety]] dashboard provides safety managers with an automated, real-time overview of the recurring patterns across their safety incident data.
+The **Incident patterns** tab of the Health and Safety dashboard provides safety managers with an automated, real-time overview of the recurring patterns across their safety incident data.
 
 The tab is designed to help the safety teams quickly understand where risks are clustering and how serious they are.
 
 ## Prerequisites
 
--   Verify that the [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]] application is installed. For more information, see [Health and Safety Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/hs-incident-mgmt-landing-page.md).
--   Verify that the [[now-assist-hs-landing|Now Assist for Health and Safety]] \[com.snc.sn\_hs\_gen\_ai\] plugin is installed.
+-   Verify that the Health and Safety Incident Management application is installed. For more information, see [Health and Safety Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/hs-incident-mgmt-landing-page.md).
+-   Verify that the Now Assist for Health and Safety \[com.snc.sn\_hs\_gen\_ai\] plugin is installed.
 -   Configure the inclusion of incident records that contain sensitive data. For more information, see [Configure the inclusion of sensitive data in incident patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/hs-configure-sensitive-data-incident-pattern.md).
 -   Verify that all the jobs are running. For more information on configuring the interval at which these jobs run, see [Configure the generation of incident patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/hs-configure-generation-incident-pattern.md).
 
@@ -114,8 +114,3 @@ You can customize the widgets in the dashboard to display relevant metrics by us
 
 **Parent Topic:**[Incident pattern analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/hs-incident-pattern-analysis.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]]
-- [[now-assist-hs-landing|Now Assist for Health and Safety]]

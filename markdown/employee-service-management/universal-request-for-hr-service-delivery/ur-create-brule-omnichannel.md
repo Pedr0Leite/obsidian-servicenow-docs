@@ -14,7 +14,7 @@ breadcrumb: [Configure service to use Universal Request, Setting up and configur
 
 # Create a business rule to automatically create universal request
 
-Create a before insert business rule on the service table to automatically create a [[ur-landing-limitedaccess|universal request]] when a ticket is raised from any of the available channels.
+Create a before insert business rule on the service table to automatically create a universal request when a ticket is raised from any of the available channels.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-When a new request is submitted from the [[employee-center-portal-overview|employee portal]], this business rule validates if UR already exists. If there is no UR attached to the request, then the business rule automatically creates the UR and the department specific request is attached as the primary ticket.
+When a new request is submitted from the employee portal, this business rule validates if UR already exists. If there is no UR attached to the request, then the business rule automatically creates the UR and the department specific request is attached as the primary ticket.
 
 UR is auto-created from any of the following channels:
 
@@ -39,7 +39,7 @@ You can automatically create a universal request in the following scenarios.
 -   Transfer the department ticket seamlessly, as UR is already associated with the ticket.
 -   Use cross-departmental SLA or OLA reporting for UR, department ticket, and any other tasks associated with the parent UR.
 
-**Note:** By default, this business rule is shipped with [[hr-service-delivery|HR Service Delivery]] and IT Service Management. Activate it to use it. For other departments, to use this capability, create or customize the given business rule for your specific department table.
+**Note:** By default, this business rule is shipped with HR Service Delivery and IT Service Management. Activate it to use it. For other departments, to use this capability, create or customize the given business rule for your specific department table.
 
 ## Procedure
 
@@ -80,8 +80,3 @@ You can automatically create a universal request in the following scenarios.
 
 **Parent Topic:**[Configure service to use Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/config-service-for-ur.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[employee-center-portal-overview|Employee portal]]
-- [[hr-service-delivery|HR Service Delivery]]

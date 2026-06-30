@@ -18,7 +18,7 @@ AI-driven category prediction automatically assigns product and spend categories
 
 ## Key benefits
 
-When working with sourcing requests \(SRs\), purchase requisitions \(PRs\), purchase orders \(POs\), or [[invoices|invoices]], you must classify line-level items into product and spend categories. The Spend categorization agent enables this process by generating and validating AI-driven predictions for line-level items. The **Product category** and **Spend category** fields are updated only when they are empty. This process ensures accurate reporting, consistent procurement processes, and efficient downstream automation while reducing manual effort.
+When working with sourcing requests \(SRs\), purchase requisitions \(PRs\), purchase orders \(POs\), or invoices, you must classify line-level items into product and spend categories. The Spend categorization agent enables this process by generating and validating AI-driven predictions for line-level items. The **Product category** and **Spend category** fields are updated only when they are empty. This process ensures accurate reporting, consistent procurement processes, and efficient downstream automation while reducing manual effort.
 
 View the Spend categorization agent by navigating to **All** &gt; **AI Agent Studio** &gt; **Create and manage** &gt; **Spend categorization agent**.
 
@@ -71,7 +71,7 @@ When both ML classification or similarity solutions and RAG semantic search retu
 
 These skills predict and update the **Product category** and **Spend category** fields on the PRLs for an SR or PR.
 
-View these skills by navigating to **All** &gt; **Now Assist Admin** &gt; **Finance &amp; Supply Chain** &gt; **[[psm-overview|Sourcing and Procurement Operations]]**.
+View these skills by navigating to **All** &gt; **Now Assist Admin** &gt; **Finance &amp; Supply Chain** &gt; **Sourcing and Procurement Operations**.
 
 ## How to configure
 
@@ -98,11 +98,11 @@ If one spend category is mapped, it is auto-selected without further ML or RAG i
 
 ## How it works
 
-When a new [[sourcing-request|sourcing request]] \(SR\) or purchase request \(PR\) is created using the **I need a product**, **I need a service**, or **I need to [[submit-quote|submit a quote]]** record producers, the Spend categorization agent is automatically triggered. The Spend categorization agent predicts and updates the product category and spend category on the purchase request lines \(PRLs\).
+When a new sourcing request \(SR\) or purchase request \(PR\) is created using the **I need a product**, **I need a service**, or **I need to submit a quote** record producers, the Spend categorization agent is automatically triggered. The Spend categorization agent predicts and updates the product category and spend category on the purchase request lines \(PRLs\).
 
 If the AI-predicted category differs from the category selected by the requester, the **Product category** and **Spend category** fields are updated only when the prediction confidence score exceeds 80%.
 
-Visual indicators appear next to the **Product category** and **Spend category** fields in the Playbook view and the Purchase Line related lists, indicating that the fields were updated using AI predictions. In such cases, a corresponding comment is added to the [[activity-stream|activity stream]], for example, "AI-suggested Spend category updated from X to Y."
+Visual indicators appear next to the **Product category** and **Spend category** fields in the Playbook view and the Purchase Line related lists, indicating that the fields were updated using AI predictions. In such cases, a corresponding comment is added to the activity stream, for example, "AI-suggested Spend category updated from X to Y."
 
 \[Omitted image "prl-ai-banner.png"\] Alt text: PRL form showing AI-suggested updates to Product and Spend category fields.
 
@@ -115,9 +115,9 @@ Any user-selected overrides are captured and used to improve future model accura
 The prediction model also analyzes information in documents attached to the SR or PR, such as the product name and product description, to predict the product and spend categories.
 
 -   **[Audit purchase lines automatically when predictive fields change](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/audit-prls-predictive-fields.md)**  
-Automated audit compares existing categories with the latest AI prediction when key predictive fields are updated in a service request or [[purchase-requisition|purchase requisition]], flagging inconsistencies without automatically updating category fields.
+Automated audit compares existing categories with the latest AI prediction when key predictive fields are updated in a service request or purchase requisition, flagging inconsistencies without automatically updating category fields.
 -   **[Predict categories for PRLs and POLs imported through integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/predict-categories-integrations.md)**  
-Automatically predict and assign product and spend categories for imported purchase requisition lines and [[purchase-order-lines|purchase order lines]] using scheduled on-demand scripts.
+Automatically predict and assign product and spend categories for imported purchase requisition lines and purchase order lines using scheduled on-demand scripts.
 -   **[Ensure consistent invoice spend categories during PO matching](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/invoice-po-spend-categories.md)**  
 Maintain aligned spend categories when matching invoice lines with purchase order lines by applying the spend category from the PO line to the corresponding invoice line.
 
@@ -128,12 +128,3 @@ Maintain aligned spend categories when matching invoice lines with purchase orde
 
 [Supporting information for Now Assist for Sourcing and Procurement Operations \(SPO\)]()
 
-## Related
-
-- [[invoices|Invoices]]
-- [[psm-overview|Sourcing and Procurement Operations]]
-- [[sourcing-request|Sourcing request]]
-- [[submit-quote|Submit a quote]]
-- [[activity-stream|Activity stream]]
-- [[purchase-requisition|Purchase requisition]]
-- [[purchase-order-lines|Purchase order lines]]

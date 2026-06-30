@@ -51,11 +51,8 @@ Verify that the end-user core application required to support the Netskope DLP i
 </td><td>
 
 Verify that the following DLP applications and security support common applications are installed and activated from ServiceNow Store. If not installed, install, and activate on application. -   Security Support Common
--   [[dlp-landing|Data Loss Prevention Incident Response]]
+-   Data Loss Prevention Incident Response
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Data Loss Prevention Incident Response Integration with Netskope](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/dlp-incident-response-integration-netskope.md)
 
-## Related
-
-- [[dlp-landing|Data Loss Prevention Incident Response]]

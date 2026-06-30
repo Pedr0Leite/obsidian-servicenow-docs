@@ -156,7 +156,7 @@ Select the required MID Server Capability from the drop down list.
 
 [Create email templates]()
 
-[Create a [[dlp-landing|Data Loss Prevention Incident Response]] SLA trigger]()
+[Create a Data Loss Prevention Incident Response SLA trigger]()
 
 [Create a Data Loss Prevention Incident Response SLA definition]()
 
@@ -182,6 +182,3 @@ Select the required MID Server Capability from the drop down list.
 
 [DLP Incidents Archival]()
 
-## Related
-
-- [[dlp-landing|Data Loss Prevention Incident Response]]

@@ -12,7 +12,7 @@ breadcrumb: [Create a function and enhance digital resilience data, Using Digita
 
 # Create Function form
 
-On the [[tprm-create-new-function-form|Create New Function form]], fill in the fields.
+On the Create New Function form, fill in the fields.
 
 <table id="table_jsk_134_ycc"><thead><tr><th>
 
@@ -156,7 +156,7 @@ Date of the last assessment of criticality or importance
 
 Date of the last assessment of criticality or importance in case the function is supported by ICT services provided by ICT third-party service providers.
 
- If you have [[grc-opres-landing-page|Operational Resilience]], this information is auto-populated. If you do not have Operational Resilience and you are using the application with TPRM, you must fill in this information manually.
+ If you have Operational Resilience, this information is auto-populated. If you do not have Operational Resilience and you are using the application with TPRM, you must fill in this information manually.
 
  If the function is service-related and you have Operational Resilience, and you've completed an importance and impact assessment, the default values are copied from that assessment.
 
@@ -168,7 +168,7 @@ Recovery time objective of the function
 
 Recovery time objective of the function in number of hours. If the recovery time objective is less than 1 hour, ‘1’ is reported. In case the recovery time objective of the function is not defined, ‘0’ is reported.
 
- If a [[bia-uib|Business Impact Analysis]] \(BIA\) has been conducted for the business process, service, or service offering, and [[business-continuity-mangmt-overview|Business Continuity Management]] \(BCM\) is also set up in the same instance, then the values are copied from the relevant BIA for this function.
+ If a Business Impact Analysis \(BIA\) has been conducted for the business process, service, or service offering, and Business Continuity Management \(BCM\) is also set up in the same instance, then the values are copied from the relevant BIA for this function.
 
 </td></tr><tr><td>
 
@@ -192,12 +192,5 @@ Impact of discontinuing the function according to the financial entity’s asses
 -   **Assessment not performed**
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[create-drtp-reg-function|Create a function and enhance digital resilience data]]
+</table>**Parent Topic:**[Create a function and enhance digital resilience data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-drtp-reg-function.md)
 
-## Related
-
-- [[create-drtp-reg-function|Create a function and enhance digital resilience data]]
-- [[tprm-create-new-function-form|Create New Function form]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[bia-uib|Business impact analysis]]
-- [[business-continuity-mangmt-overview|Business Continuity Management]]

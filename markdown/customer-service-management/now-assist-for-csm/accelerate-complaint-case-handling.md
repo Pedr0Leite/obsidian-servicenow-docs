@@ -64,13 +64,9 @@ Complaint case summarization skill
 
 </td><td>
 
-Produces structured summaries of complaint cases surfacing complaint-specific context, including the product or location at the center of the complaint, related parties involved, key actions taken, and SLA urgency ranked by time remaining. The skill allows agents to understand the full complaint picture without reading through the entire [[csm-config-ws-activity-stream|activity stream]].
+Produces structured summaries of complaint cases surfacing complaint-specific context, including the product or location at the center of the complaint, related parties involved, key actions taken, and SLA urgency ranked by time remaining. The skill allows agents to understand the full complaint picture without reading through the entire activity stream.
 
  It is especially valuable during complaint intake reviews, escalations, cross-team handoffs, or when returning to an active complaint after a period of inactivity.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[csm-config-ws-activity-stream|Activity stream]]

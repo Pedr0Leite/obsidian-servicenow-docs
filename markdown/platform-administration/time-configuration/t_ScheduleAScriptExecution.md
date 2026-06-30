@@ -37,7 +37,7 @@ ga.getAggregate('COUNT') !== '0'
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Definition** &gt; **[[c_ScheduledJobs|Scheduled Jobs]]**.
+1.  Navigate to **All** &gt; **System Definition** &gt; **Scheduled Jobs**.
 
 2.  Select **New**.
 
@@ -91,7 +91,7 @@ Condition
 
 </td><td>
 
-A conditional script that determines if a scheduled job should run. The last expression of the script should evaluate to a Boolean \(true/false\) value. This text box appears only if you select **Use conditions**. **Warning:** Conditional scripts for scheduled report emails and Performance Analytics data collection jobs are executed in the sandbox. Therefore, function [[clone-exclusions-preservers-cleanupscripts|definitions]] are not allowed. Some API calls and keywords are also not allowed.For more information, see [Script sandbox evaluator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/script-sandbox.md).
+A conditional script that determines if a scheduled job should run. The last expression of the script should evaluate to a Boolean \(true/false\) value. This text box appears only if you select **Use conditions**. **Warning:** Conditional scripts for scheduled report emails and Performance Analytics data collection jobs are executed in the sandbox. Therefore, function definitions are not allowed. Some API calls and keywords are also not allowed.For more information, see [Script sandbox evaluator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/script-sandbox.md).
 
 After upgrade, jobs with conditional scripts that contain these disallowed API components finish with errors.
 
@@ -305,7 +305,3 @@ Optional condition you can specify to filter the records queried from the select
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[c_ScheduledJobs|Scheduled jobs]]
-- [[clone-exclusions-preservers-cleanupscripts|Definitions]]

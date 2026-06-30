@@ -14,7 +14,7 @@ breadcrumb: [AI Search for Next Experience reference, AI Search for Next Experie
 
 # AI Search for Next Experience default source facet buckets for global search
 
-List of source facet buckets that appear by default in [[ais-next-experience-app|AI Search for Next Experience]] global search [[hs-results|results]].
+List of source facet buckets that appear by default in AI Search for Next Experience global search results.
 
 When you activate AI Search for Next Experience, global search results display in source facet buckets. Each source facet bucket represents a search source that's linked to the Next Experience Search Configuration search profile. This search profile is the one used by the \[AIS\] Next Experience Search Configuration search application.
 
@@ -180,7 +180,3 @@ For details on configuring labels and display order for source facet buckets, se
 
 **Parent Topic:**[AI Search for Next Experience reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/reference-ais-next-experience-app.md)
 
-## Related
-
-- [[ais-next-experience-app|AI Search for Next Experience]]
-- [[hs-results|Results]]

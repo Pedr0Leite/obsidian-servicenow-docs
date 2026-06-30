@@ -16,7 +16,7 @@ breadcrumb: [Translating with Dynamic Translation, Dynamic Translation, Translat
 
 The Dynamic Translation spoke provides actions to enable the ability to translate multiple texts from one language into one or more languages and detect the language of multiple texts seamlessly.
 
-The [[dynamic-translation|Dynamic Translation]] APIs are accessible across the ServiceNow platform through the following access points:
+The Dynamic Translation APIs are accessible across the ServiceNow platform through the following access points:
 
 -   Server
 -   Platform Client
@@ -40,6 +40,3 @@ The following actions are built in the Australia release in Dynamic Translation 
 
 For more information about accessing the actions from the Workflow Studio, see [Access Dynamic Translation spoke actions from Workflow Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/access-dt-spoke-actions.md).
 
-## Related
-
-- [[dynamic-translation|Dynamic translation]]

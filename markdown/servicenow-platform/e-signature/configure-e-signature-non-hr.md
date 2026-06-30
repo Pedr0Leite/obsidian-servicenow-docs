@@ -14,7 +14,7 @@ breadcrumb: [Using e-signature, E-signature, Manage people and work capabilities
 
 # Using e-signature template for non-HR tasks
 
-[[configure-e-signature-configuration|Create or modify an e-signature template]] to define an electronic document and signature configuration for use in non-HR task forms.
+Create or modify an e-signature template to define an electronic document and signature configuration for use in non-HR task forms.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_esign.admin or sn\_esign.config\_manager
 
 1.  Create an e-sign template on the required task table \(for example, Incident\).
 
-    See [Create or modify an e-signature template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/e-signature/configure-e-signature-configuration.md). Select **Managed Document** in **Document type** and **Signature** in **[[e-signature|E-signature]] type**.
+    See [Create or modify an e-signature template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/e-signature/configure-e-signature-configuration.md). Select **Managed Document** in **Document type** and **Signature** in **E-signature type**.
 
 2.  Configure the task form \(for example, Incident form\) by adding the **E-Signature Template** field.
 
@@ -43,7 +43,3 @@ When a user receives the task and moves the task to Work in Progress state, the 
 
 **Parent Topic:**[Using e-signature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/e-signature/using-esignature.md)
 
-## Related
-
-- [[configure-e-signature-configuration|Create or modify an e-signature template]]
-- [[e-signature|E-signature]]

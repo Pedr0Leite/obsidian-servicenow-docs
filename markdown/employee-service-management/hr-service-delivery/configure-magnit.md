@@ -26,7 +26,7 @@ Ensure that the manager profile is available in the ServiceNow AI Platform insta
 
 1.  [Map Magnit tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/magnit-task-mapping.md) to create adhoc tasks for contingent workers.
 
-2.  [[oracle-hcm-properties|Configure properties]] in [Source for HR Service Delivery Integration with Magnit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/source-magnit.md).
+2.  Configure properties in [Source for HR Service Delivery Integration with Magnit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/source-magnit.md).
 
 3.  [Activate a schedule flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/activate-sch-flow-magnit.md) to pull contingent workers from Magnit application into ServiceNow AI Platform instance.
 
@@ -35,9 +35,5 @@ Ensure that the manager profile is available in the ServiceNow AI Platform insta
     **Note:**
 
     -   If an HR task is not created for onboarding item, verify if an active Magnit mapping record exists for that onboarding item.
-    -   If [[c_HRProfileRecords|HR profile]], lifecycle case or an HR task is not created for a onboarding item, verify if all Restricted caller access are in **Allowed** state.​
+    -   If HR profile, lifecycle case or an HR task is not created for a onboarding item, verify if all Restricted caller access are in **Allowed** state.​
 
-## Related
-
-- [[oracle-hcm-properties|Configure properties]]
-- [[c_HRProfileRecords|HR Profile]]

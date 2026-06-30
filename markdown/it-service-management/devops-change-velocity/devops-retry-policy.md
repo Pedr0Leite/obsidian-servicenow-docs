@@ -18,10 +18,7 @@ Enable the DevOps Custom HTTP Retry Policy for most tool communication from Serv
 
 You can navigate to the action in **Flow Designer &gt; Designer &gt; Actions** and in the REST step, select **Enable Retry Policy**. For the DevOps Custom HTTP Retry Policy to take effect, override the default policy for the alias and select the DevOps retry policy.
 
-To customize the retry configuration, access the DevOps Custom HTTP Retry Policy [[settings-mobile|settings]] in **IntegrationHub &gt; Retry Policy**.
+To customize the retry configuration, access the DevOps Custom HTTP Retry Policy settings in **IntegrationHub &gt; Retry Policy**.
 
 **Parent Topic:**[Managing DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/using-devops-change-velocity.md)
 
-## Related
-
-- [[settings-mobile|Settings]]

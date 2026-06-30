@@ -91,7 +91,7 @@ Any role, if you can edit the dashboard containing the visualization
 
 </td></tr><tr><td>
 
-[[duplicate-dv-ac|Duplicate a visualization in the Visualization Designer]]
+Duplicate a visualization in the Visualization Designer
 
 </td><td>
 
@@ -147,7 +147,7 @@ Any role, to delete a data visualization that you created. viz\_admin or higher 
 
 </td></tr><tr><td>
 
-[[dv-use-data-source-acl|Control data source availability by role]]
+[Control data source availability by role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/dv-use-data-source-acl.md)
 
 </td><td>
 
@@ -155,7 +155,7 @@ admin
 
 </td></tr><tr><td>
 
-[[configure-go-data|Configure visualization interactions]]
+[Configure visualization interactions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configure-go-data.md)
 
 </td><td>
 
@@ -163,7 +163,7 @@ Any role if you have the right to edit the data visualization. The viewer needs 
 
 </td></tr><tr><td>
 
-[[dv-rep-sc-variables|Use service catalog variables in data visualizations]]
+[Use service catalog variables in data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/dv-rep-sc-variables.md)
 
 </td><td>
 
@@ -171,20 +171,12 @@ viz\_creator or higher
 
 </td></tr><tr><td>
 
-[[colors-dv|Create coloring rules for data visualizations]]
+[Create coloring rules for data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/colors-dv.md)
 
 </td><td>
 
 Any role if you have the right to edit the data visualization.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[data-visualization-reference|Data visualization reference]]
+</table>**Parent Topic:**[Data visualization reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/data-visualization-reference.md)
 
-## Related
-
-- [[dv-use-data-source-acl|Control data source availability by role]]
-- [[configure-go-data|Configure visualization interactions]]
-- [[dv-rep-sc-variables|Service catalog variables in data visualizations]]
-- [[colors-dv|colors dv]]
-- [[data-visualization-reference|Data visualization reference]]
-- [[duplicate-dv-ac|Duplicate a visualization in the Visualization Designer]]

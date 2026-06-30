@@ -14,16 +14,16 @@ breadcrumb: [Using Lifecycle Events, Lifecycle Events, Employee Journey Manageme
 
 # Building a lifecycle event
 
-[[hr-lifecycle-events-landing-page-1|Lifecycle events]] enable you to automate the fulfillment of HR cases such as new hire onboarding.
+Lifecycle events enable you to automate the fulfillment of HR cases such as new hire onboarding.
 
-Each lifecycle event is a collection of activities that often span multiple departments and are organized into [[activity-lxp|activity]] sets. To [[configure-hr-lifecycle-event-type|configure a lifecycle event]], you must first document the business process for your event. Next, you must configure all of the supporting components. You can then configure the lifecycle event and its associated activity sets and activities. Finally, you configure a corresponding HR service so that the lifecycle event can be requested for service.
+Each lifecycle event is a collection of activities that often span multiple departments and are organized into activity sets. To configure a lifecycle event, you must first document the business process for your event. Next, you must configure all of the supporting components. You can then configure the lifecycle event and its associated activity sets and activities. Finally, you configure a corresponding HR service so that the lifecycle event can be requested for service.
 
 **Note:** If you are further customizing an existing lifecycle event, follow the configuration tasks as applicable.
 
 1.  [Document the lifecycle event process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/define-lifecycle-event-process.md)  
-Define and [[define-lifecycle-event-process|document the lifecycle event process]]. Lifecycle events are generally cross-departmental and require action from different departments.
+Define and document the lifecycle event process. Lifecycle events are generally cross-departmental and require action from different departments.
 2.  [Configure the supporting components for a lifecycle event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/configure-supporting-components-for-lifecycle-event.md)  
-[[configure-supporting-components-for-lifecycle-event|Configure the supporting components for a lifecycle event]]. Lifecycle events are a collection of activities. For each activity, you must identify and configure the underlying components that support it, such as HR task templates, order guides, catalog items, and [[hr-service-administration|HR services]]. You must also identify and configure the relevant owning groups, activity types, and audience records.
+Configure the supporting components for a lifecycle event. Lifecycle events are a collection of activities. For each activity, you must identify and configure the underlying components that support it, such as HR task templates, order guides, catalog items, and HR services. You must also identify and configure the relevant owning groups, activity types, and audience records.
 3.  [Configure a lifecycle event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/configure-hr-lifecycle-event-type.md)  
 Build a lifecycle event and its associated activity sets and activities with the lifecycle event builder.
 4.  [Configure an HR service for a lifecycle event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/create-hr-service-for-lifecycle-event.md)  
@@ -54,11 +54,3 @@ Select the Lifecycle Event that you want to use with Now Mobile. When an onboard
 
 [Create an HR case for a lifecycle event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/create-hr-lifecycle-event-case.md)
 
-## Related
-
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[activity-lxp|Activity]]
-- [[configure-hr-lifecycle-event-type|Configure a lifecycle event]]
-- [[define-lifecycle-event-process|Document the lifecycle event process]]
-- [[configure-supporting-components-for-lifecycle-event|Configure the supporting components for a lifecycle event]]
-- [[hr-service-administration|HR services]]

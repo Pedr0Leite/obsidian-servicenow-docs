@@ -14,7 +14,7 @@ breadcrumb: [Board views in CWM, Manage work using Boards, Use, Collaborative Wo
 
 # Create a custom view for CWM Boards
 
-Modify Board display preferences and save them as custom personal or shared views that suit the working preferences for you and your team members in [[cwm-landing|Collaborative Work Management]] \(CWM\).
+Modify Board display preferences and save them as custom personal or shared views that suit the working preferences for you and your team members in Collaborative Work Management \(CWM\).
 
 ## Before you begin
 
@@ -57,6 +57,3 @@ The new view is available in the view switcher.
 
 **Parent Topic:**[Board views in CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/board-views-in-cwm.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

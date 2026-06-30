@@ -16,7 +16,7 @@ Configure a guidance node in Decision Tree Builder so agents can view a recommen
 
 ## Before you begin
 
-Verify that the guidances you want to use exist or create them. For more information, see [[create-guidances|Create a guidance in the Core UI]].
+Verify that the guidances you want to use exist or create them. For more information, see [Create a guidance in the Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-guidances.md).
 
 Role required: admin, sn\_gd\_core.decision\_tree\_author
 
@@ -61,9 +61,5 @@ You can select a guidance from the list of available guidances to link to your g
 
 ## What to do next
 
-[[configure-start-node-gdb|Add a next node that is a question node after a guidance node.]]
+[Add a next node that is a question node after a guidance node.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-start-node-gdb.md)
 
-## Related
-
-- [[create-guidances|Create a guidance in the Core UI]]
-- [[configure-start-node-gdb|Add questions or instructions to a decision tree]]

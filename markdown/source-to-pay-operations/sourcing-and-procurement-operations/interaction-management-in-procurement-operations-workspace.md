@@ -14,13 +14,13 @@ breadcrumb: [Procurement Case Management, Explore, Sourcing and Procurement Oper
 
 # Interaction Management in Source-to-Pay Workspace
 
-Interactions are a centralized location for all communication channels available in [[purch-order-mgmt-ws|Source-to-Pay Workspace]]. Interaction Management involves managing procurement related queries from different sources such as an email, chat, message, or SMS.
+Interactions are a centralized location for all communication channels available in Source-to-Pay Workspace. Interaction Management involves managing procurement related queries from different sources such as an email, chat, message, or SMS.
 
 ## Interaction Management overview
 
 Any procurement related assistance that a procurement specialist or a live agent provides to a shopper in the form of a call, chat, email, or SMS is recorded in an interaction record.
 
-Also, any [[supplier|supplier]]-related assistance that a supplier manager or a live agent provides to a [[supplier-contact|supplier contact]] in the form of a call, chat, email, or SMS is recorded in an interaction record.
+Also, any supplier-related assistance that a supplier manager or a live agent provides to a supplier contact in the form of a call, chat, email, or SMS is recorded in an interaction record.
 
 For more information about Interaction Management, see [.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/create-interactions.md)
 
@@ -37,8 +37,3 @@ View the details of an interaction record to analyze interactions and take immed
 
 **Parent Topic:**[Procurement Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/psd-overview.md)
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supplier|Supplier]]
-- [[supplier-contact|Supplier contact]]

@@ -20,7 +20,7 @@ Role required: admin or survey\_admin
 
 ## About this task
 
-Changes to a survey, such as the modification of question templates, apply to existing survey instances immediately. Templates that you create are available for use with both [[r_SurveyManagementLandingPage|surveys]] and [[r_Assessments|assessments]].
+Changes to a survey, such as the modification of question templates, apply to existing survey instances immediately. Templates that you create are available for use with both surveys and assessments.
 
 ## Procedure
 
@@ -68,15 +68,10 @@ Enter a numeric value, greater than or equal to zero, to which the answer option
 </table>7.  Click **Update**.
 
 
-**Parent Topic:**[[c_SurveyQuestionTemplate|Survey question template]]
+**Parent Topic:**[Survey question template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyQuestionTemplate.md)
 
 **Related topics**  
 
 
 [Update min and max values to match templates]()
 
-## Related
-
-- [[c_SurveyQuestionTemplate|Survey question template]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[r_Assessments|Assessments]]

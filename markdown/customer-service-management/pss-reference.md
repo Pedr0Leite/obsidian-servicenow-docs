@@ -12,17 +12,12 @@ breadcrumb: [Reference, Customer Service Management]
 
 # Customer Contracts and Entitlements reference
 
-Reference topics provide additional information on service contract life cycle and [[migration-forms|forms]] available within the Customer Contracts and Entitlements application.
+Reference topics provide additional information on service contract life cycle and forms available within the Customer Contracts and Entitlements application.
 
 ## What to explore next
 
 To learn more about configuring and using Customer Contracts and Entitlements, see:
 
--   [[configuring-post-sales-support|Configure Customer Contracts and Entitlements]]
--   [[using-post-sales-support|Using Customer Contracts and Entitlements]]
+-   [Configure Customer Contracts and Entitlements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configuring-post-sales-support.md)
+-   [Using Customer Contracts and Entitlements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/using-post-sales-support.md)
 
-## Related
-
-- [[configuring-post-sales-support|Configure Customer Contracts and Entitlements]]
-- [[using-post-sales-support|Using Customer Contracts and Entitlements]]
-- [[migration-forms|Forms]]

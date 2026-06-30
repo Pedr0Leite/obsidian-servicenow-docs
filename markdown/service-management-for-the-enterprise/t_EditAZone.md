@@ -62,8 +62,5 @@ Click a space outside the zone. **Note:** The space turns green indicating that 
 6.  When finished making edits, click **Apply edits**.
 
 
-**Parent Topic:**[[c_FacilitiesWorkbench|Facilities Workbench]]
+**Parent Topic:**[Facilities Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_FacilitiesWorkbench.md)
 
-## Related
-
-- [[c_FacilitiesWorkbench|Facilities Workbench]]

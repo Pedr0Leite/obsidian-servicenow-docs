@@ -12,7 +12,7 @@ breadcrumb: [Segregating and securing data, Recommended practices for service pr
 
 # Cross tenant intelligence
 
-A multi-tenant architecture is where you have a single instance serving multiple tenants. Data, metadata, [[sc-business-logic|business logic]], and processing context for tenants is automatically handled with access to additional tenant data.
+A multi-tenant architecture is where you have a single instance serving multiple tenants. Data, metadata, business logic, and processing context for tenants is automatically handled with access to additional tenant data.
 
 ## Single versus multiple tenants
 
@@ -31,9 +31,5 @@ A multi-tenant architecture is where you have a single instance serving multiple
     -   Domain tenants have lower upfront costs to use the ServiceNow platform, have lower monthly costs because they are sharing it with many tenants, and do not have to employ a staff to administer the environment.
     -   Benefits shared from requests or changes that are initiated by other tenants.
 
-**Parent Topic:**[[bp-segregate-secure|Segregating and securing data with domain separation]]
+**Parent Topic:**[Segregating and securing data with domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-segregate-secure.md)
 
-## Related
-
-- [[bp-segregate-secure|Segregating and securing data with domain separation]]
-- [[sc-business-logic|Business Logic]]

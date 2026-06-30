@@ -139,8 +139,5 @@ SMS text
 Text message sent through short message service \(SMS\).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[create-emergency-notification-uib-ws|Create emergency notifications]]
+</table>**Parent Topic:**[Create emergency notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-emergency-notification-uib-ws.md)
 
-## Related
-
-- [[create-emergency-notification-uib-ws|Create emergency notifications]]

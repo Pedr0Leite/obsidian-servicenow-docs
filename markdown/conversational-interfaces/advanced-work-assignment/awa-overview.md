@@ -14,7 +14,7 @@ breadcrumb: [Advanced Work Assignment, Manage people and work, Conversational In
 
 # Exploring Advanced Work Assignment
 
-Use [[awa-application-landing-page|Advanced Work Assignment]] \(AWA\) to automatically assign [[awa-work-items|work items]] to your agents, based on their availability, capacity, and optionally, skills. AWA pushes work to qualified agents using [[awa-queues|work item queues]], routing conditions, and assignment criteria that you define. Agents see their assignments in their Agent Workspace inbox.
+Use Advanced Work Assignment \(AWA\) to automatically assign work items to your agents, based on their availability, capacity, and optionally, skills. AWA pushes work to qualified agents using work item queues, routing conditions, and assignment criteria that you define. Agents see their assignments in their Agent Workspace inbox.
 
 ## Overview of how AWA works
 
@@ -30,7 +30,7 @@ AWA has enterprise-grade voice resiliency that ensures call delivery to live age
 
 See the following diagram to learn more about the Advanced Work Assignment process flow.
 
-\[Omitted image "awa-overview-flow.png"\] Alt text: Diagram that shows the main components in Advanced Work Assignment: work items in [[awa-service-channels|service channels]], routing work items to queues, and assigning work items to agents.
+\[Omitted image "awa-overview-flow.png"\] Alt text: Diagram that shows the main components in Advanced Work Assignment: work items in service channels, routing work items to queues, and assigning work items to agents.
 
 Navigate to [**Advanced Work Assignment** &gt; **Home**](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-admin-console-home.md) to start exploring AWA features.
 
@@ -126,9 +126,3 @@ awa\_admin or admin
 
 If you want messaging conversations to be automatically reassigned if the current Assigned To agent on the conversation isn’t available, set the **glide.messaging.reassign.enabled** system property to `true`. The system property only affects messaging conversations and the Assigned To agent is considered not available if the AWA Inbox status isn’t set to "Available."
 
-## Related
-
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[awa-work-items|Work items]]
-- [[awa-queues|Work item queues]]
-- [[awa-service-channels|Service channels]]

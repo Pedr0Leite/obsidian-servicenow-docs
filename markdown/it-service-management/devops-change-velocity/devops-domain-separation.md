@@ -14,7 +14,7 @@ breadcrumb: [Reference, DevOps Change Velocity, IT Service Management]
 
 # Domain separation and DevOps Change Velocity
 
-Domain separation is unsupported for [[devops-landing-page-new|DevOps Change Velocity]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is unsupported for DevOps Change Velocity. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: No support
 
@@ -38,6 +38,3 @@ To ensure that domain-sensitive information is not available at a global domain,
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]

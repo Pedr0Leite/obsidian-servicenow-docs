@@ -16,7 +16,7 @@ breadcrumb: [Portfolio Planning, Strategic Portfolio Management]
 
 Assess the resource capacity and review existing allocations, which help you to make informed decisions while working on assigning resources.
 
-Use the [manage resource capacity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/manage-rsrc-cap-pp.md) screen to [[manage-rsrc-cap-pp|generate resource capacity]] details.
+Use the [manage resource capacity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/manage-rsrc-cap-pp.md) screen to generate resource capacity details.
 
 Use the [Capacity Planning screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/using-cap-planning-screen-pp.md) to view detailed information about the resource capacity mapping to a portfolio.
 
@@ -97,6 +97,3 @@ Consider the same group for which resource manager creates an operation resource
 
 \[Omitted image "cp-operational-rsrc-asgnmnt.png"\] Alt text: Capacity planning view showing Operational work in a red highlight box.
 
-## Related
-
-- [[manage-rsrc-cap-pp|Generate resource capacity]]

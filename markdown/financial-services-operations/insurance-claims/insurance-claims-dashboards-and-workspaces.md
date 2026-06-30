@@ -14,7 +14,7 @@ breadcrumb: [Configure, Insurance claims, Exploring insurance claims application
 
 # Setting up Insurance claims workspaces and dashboards
 
-You can set up the workspace and dashboards for each persona by using the [[insurance-claims-flow|Insurance claims]] application.
+You can set up the workspace and dashboards for each persona by using the Insurance claims application.
 
 ## Workspaces included in Insurance claims
 
@@ -109,7 +109,7 @@ All
 
 </td><td>
 
-Other workspace-related configuration, like the changes that are related to a record, can be done through UI Builder. By default, Insurance claims uses the Record default configuration from the Customer Service Management \(CSM\) application.For more information, see [[fso-workspace|Workspaces]] and [[configure-csm-workspace-fso-apps|Configure CSM Configurable Workspace]].
+Other workspace-related configuration, like the changes that are related to a record, can be done through UI Builder. By default, Insurance claims uses the Record default configuration from the Customer Service Management \(CSM\) application.For more information, see [Workspaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-workspace.md) and [Configure CSM Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-csm-workspace-fso-apps.md).
 
 </td></tr><tr><td>
 
@@ -146,13 +146,7 @@ To modify the conditions on the landing pages, navigate to **All** &gt; **Platfo
 
 For more information on the included dashboards and their layouts, see [Insurance claims landing pages and workspaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/insurance-claims-flow-workspace.md).
 
-**Note:** The FNOL landing page is built into [[financial-services-operations-core-data-model|Financial Services Operations Core]]. Any changes to this page may impact other applications.
+**Note:** The FNOL landing page is built into Financial Services Operations Core. Any changes to this page may impact other applications.
 
 For more information on landing pages as dashboards, see [Dashboard landing pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-ws-landing-page-dashboard.md).
 
-## Related
-
-- [[fso-workspace|Workspaces in Financial Services Operations]]
-- [[configure-csm-workspace-fso-apps|Configure CSM Configurable Workspace]]
-- [[insurance-claims-flow|Insurance claims]]
-- [[financial-services-operations-core-data-model|Financial Services Operations Core]]

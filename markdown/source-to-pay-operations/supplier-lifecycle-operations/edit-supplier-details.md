@@ -14,7 +14,7 @@ breadcrumb: [Manage supplier details, Using Source-to-Pay Workspace, Use, Suppli
 
 # Edit supplier details from the Source-to-Pay Workspace
 
-Add or modify the details of an existing [[supplier|supplier]].
+Add or modify the details of an existing supplier.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_slm.manager, sn\_slm.owner, or sn\_slm.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
 2.  Under Manage my Suppliers, select the legal name of the supplier to be edited.
 
@@ -50,8 +50,3 @@ The edited supplier details are updated in the system.
 
 [Add a supplier location from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/add-supplier-location.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

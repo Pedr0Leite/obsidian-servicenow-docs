@@ -24,7 +24,7 @@ This example shows a cloud script that runs after a user provisions a virtual ma
 
 ## About this task
 
-In this example, you create a cloud init script, customize a resource block, and provision a VM from the [[cloudmgt-cloud-user-portal|Cloud User Portal]].
+In this example, you create a cloud init script, customize a resource block, and provision a VM from the Cloud User Portal.
 
 ## Procedure
 
@@ -65,6 +65,3 @@ In this example, you create a cloud init script, customize a resource block, and
 
 The Stack Status page runs through the **CreateNode**, **BlockUntilReady**, and **ExecuteShellScript** operations. The last operation kicked off the script you created.
 
-## Related
-
-- [[cloudmgt-cloud-user-portal|Cloud User Portal]]

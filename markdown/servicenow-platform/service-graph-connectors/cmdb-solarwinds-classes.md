@@ -16,7 +16,7 @@ breadcrumb: [SolarWinds, Service Graph Connectors, Integrating third-party data 
 
 When you complete setting up the connection, you can configure the integration to periodically pull data from SolarWinds. The data is saved in tables that extend from the Configuration item \[cmdb\_ci\] table.
 
-The following attributes in the [[ip-address|IP Address]] \[cmdb\_ci\_ip\_address\] table are populated by collected data:
+The following attributes in the IP Address \[cmdb\_ci\_ip\_address\] table are populated by collected data:
 
 |Attribute label|Attribute name|
 |---------------|--------------|
@@ -410,6 +410,3 @@ The following attributes in the VM Instance \[cmdb\_ci\_vm\_instance\] table are
 
 [Service Graph Connector for SolarWinds](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-integration-solarwinds.md)
 
-## Related
-
-- [[ip-address|IP Address]]

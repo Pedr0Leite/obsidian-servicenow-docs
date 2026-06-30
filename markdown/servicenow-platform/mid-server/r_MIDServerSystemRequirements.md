@@ -21,7 +21,7 @@ Use these minimum system requirements to allocate resources for computers hostin
 ![Links to each of the MID Server sections](../image/MIDRefIconBar.png)
 
 </td></tr></tbody>
-</table>## [[mid-server-landing|MID Server]] supported systems
+</table>## MID Server supported systems
 
 -   **Windows server**
 
@@ -62,7 +62,7 @@ The Online Certificate Status Protocol \(OCSP\) is the protocol used to determin
 
 OCSP works by using a client, such as a MID Server, to receive a certificate from an HTTP website. The client sends a request to an OCSP responder: a server operated by the certificate authority \(CA\) that issued the certificate. The OCSP responder’s response to the client indicates whether the certificate is valid or has been revoked.
 
-In order to [[c_Connect|connect]], the MID Server requires access to:
+In order to connect, the MID Server requires access to:
 
 -   \*.service-now.com or &lt;instance\_name&gt;.service-now.com
 -   install.service-now.com
@@ -267,7 +267,3 @@ To ensure that the MID Server resource allocations are sufficient for your envir
 
 [Pause the MID Server]()
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[c_Connect|Connect]]

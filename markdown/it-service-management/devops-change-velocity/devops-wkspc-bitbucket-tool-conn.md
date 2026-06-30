@@ -14,7 +14,7 @@ breadcrumb: [Bitbucket, Integrate, DevOps Change Velocity, IT Service Management
 
 # Onboard Bitbucket to DevOps Change Velocity — Workspace
 
-Create, connect, discover, and configure your Bitbucket instance using the [[devops-landing-page-new|DevOps Change Velocity]] workspace.
+Create, connect, discover, and configure your Bitbucket instance using the DevOps Change Velocity workspace.
 
 ## Before you begin
 
@@ -46,7 +46,7 @@ Steps
 
 </td></tr><tr><td id="d413187e132">
 
-**[[dex-workspace-application-tab|Applications]] module**
+**Applications module**
 
 </td><td>
 
@@ -135,7 +135,7 @@ For Oauth 2.0 - Client Credentials,
     1.  If you already have an OAuth credential record created, select the **Use an existing OAuth credential record** option, and select the required credential record in the **Credential** field. If not, proceed to the next step.
     2.  Enter a value in the **Client Id** and **Client secret** fields.
 
-**Note:** You can get the Client Id and Client secret values from your Bitbucket account. Client ID of your Bitbucket tool is available in the OAuth consumers section of your workspace [[settings-mobile|settings]] in the **Key** field of Bitbucket cloud. Client secret of your Bitbucket tool is available in the OAuth consumers section of your workspace settings in the **Secret** field of Bitbucket cloud. For more information, see [Bitbucket integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/bitbucket-integration-dev-ops.md).
+**Note:** You can get the Client Id and Client secret values from your Bitbucket account. Client ID of your Bitbucket tool is available in the OAuth consumers section of your workspace settings in the **Key** field of Bitbucket cloud. Client secret of your Bitbucket tool is available in the OAuth consumers section of your workspace settings in the **Secret** field of Bitbucket cloud. For more information, see [Bitbucket integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/bitbucket-integration-dev-ops.md).
 
 \[Omitted image "bitbucket-connect-cloud-oauth-client.png"\] Alt text: Enter Bitbucket instance details page for Bitbucket Cloud - OAuth 2.0 - Client Credentials
 
@@ -218,8 +218,3 @@ You’ve successfully onboarded your Bitbucket tool to DevOps Change Velocity.
 
 [Configure webhooks from the tool record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/configure-webhooks-from-the-tool-record.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[dex-workspace-application-tab|Applications]]
-- [[settings-mobile|Settings]]

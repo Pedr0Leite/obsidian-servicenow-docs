@@ -26,11 +26,11 @@ Role required: admin
 
 1.  Navigate to the Variable page in the Console.
 
-2.  Create a Variable as described in [[create-variable-set|Create a Variable set]].
+2.  Create a Variable as described in [Create a Variable set](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/create-variable-set.md).
 
 3.  Select a Site to associate to the Variable.
 
-4.  Create an Auto Query as described in [[add-auto-query-console|Create an Auto Query]].
+4.  Create an Auto Query as described in [Create an Auto Query](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/add-auto-query-console.md).
 
 5.  In the Filter section of the query, select the Sites filter.
 
@@ -45,7 +45,3 @@ Role required: admin
 
 Your Site is associated with the Variable and queried.
 
-## Related
-
-- [[create-variable-set|Create a Variable set]]
-- [[add-auto-query-console|Create an Auto Query]]

@@ -15,7 +15,7 @@ breadcrumb: [Configure Now Assist for Accounts Payable Operations \(APO\), Now A
 
 # Customize Now Assist for Accounts Payable Operations \(APO\) to use the Virtual Agent chat
 
-Configure the Now Assist virtual agent as an admin to enable [[supplier|supplier]] contacts to use generative AI skills in the [[purch-order-mgmt-ws|Source-to-Pay Workspace]] and Core UI.
+Configure the Now Assist virtual agent as an admin to enable supplier contacts to use generative AI skills in the Source-to-Pay Workspace and Core UI.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ Use the Now Assist Admin console to configure Now Assist for APO. This console c
 
 ## Procedure
 
-1.  Install the [[now-assist-apo|Now Assist for Accounts Payable Operations \(APO\)]] plugin \(com.snc.sn\_ap\_gen\_ai\).
+1.  Install the Now Assist for Accounts Payable Operations \(APO\) plugin \(com.snc.sn\_ap\_gen\_ai\).
 
     -   For information about the plugin dependencies and plugin activation order, see [Supporting information for Now Assist for Supplier Lifecycle Operations \(SLO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/now-assist-slo-supporting-info.md).
     -   For information about the installation process, see [Install Now Assist plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md).
@@ -49,8 +49,4 @@ Use the Now Assist Admin console to configure Now Assist for APO. This console c
 
 10. Review all the details by selecting **Review** and then selecting **Turn on**.
 
-## Related
 
-- [[supplier|Supplier]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[now-assist-apo|Now Assist for Accounts Payable Operations \(APO\)]]

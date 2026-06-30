@@ -18,7 +18,7 @@ Drill down into usage data with standard and custom filters.
 
 Users with the analytics\_viewer, portal\_analytics\_viewer, mobile\_analytics\_viewer, core\_ui\_analytics\_viewer, now\_experience\_analytics\_viewer roles can filter pages that they have access to.
 
-Most pages in the [[user-exp-analytics-landing|Usage Insights]] application have visible default filters and an option to add other standard filters. To add additional user-related fields, see [Add user properties as filters to Usage Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/uxa-add-filters-uxa-pages.md).
+Most pages in the Usage Insights application have visible default filters and an option to add other standard filters. To add additional user-related fields, see [Add user properties as filters to Usage Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/uxa-add-filters-uxa-pages.md).
 
 ## Default filters
 
@@ -51,6 +51,3 @@ In addition to the default filters on the pages of the  Usage Insights applica
 
 **Parent Topic:**[Using Usage Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/using-uxa.md)
 
-## Related
-
-- [[user-exp-analytics-landing|Usage Insights]]

@@ -14,12 +14,12 @@ breadcrumb: [Predictive intelligence for Legal Service Delivery, Integration wit
 
 # Configure Predictive Intelligence for Legal Service Delivery
 
-Install and configure the [[lsd-predictive-intelligence-landing|Predictive Intelligence for Legal Service Delivery]].
+Install and configure the Predictive Intelligence for Legal Service Delivery.
 
 ## Configuration overview
 
 -   **[Activate Predictive Intelligence for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-activate-PI.md)**  
-You can activate the Predictive Intelligence for Legal Service Delivery plugin \(sn\_lg\_pi\) for [[legal-management-overview|Legal Service Delivery]] if you have the admin role.
+You can activate the Predictive Intelligence for Legal Service Delivery plugin \(sn\_lg\_pi\) for Legal Service Delivery if you have the admin role.
 -   **[Train the classification solution to predict the subcategory for General Legal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-PI-train-auto-categry.md)**  
 Train the classification solution definitions to identify and predict an subcategory using short description and description for General Legal Request.
 -   **[Train the classification solution to predict the assignment group for General Legal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-PI-train-auto-assign.md)**  
@@ -29,12 +29,7 @@ Train the legal request classification solution definition to identify and predi
 -   **[Train the classification solution to predict the assignment group for Ethics Complaint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-PI-train-auto-assign-ethics.md)**  
 Train the legal request classification solution definition to identify and predict an group assignment using the description and subcategory for an Ethics Complaint.
 -   **[Configure fields to be displayed in Activity stream](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-configure-activity-stream.md)**  
-Configure fields to be displayed in the [[activity-lxp|Activity]] stream.
+Configure fields to be displayed in the Activity stream.
 
 **Parent Topic:**[Predictive intelligence for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-predictive-intelligence-landing.md)
 
-## Related
-
-- [[lsd-predictive-intelligence-landing|Predictive intelligence for Legal Service Delivery]]
-- [[legal-management-overview|Legal Service Delivery]]
-- [[activity-lxp|Activity]]

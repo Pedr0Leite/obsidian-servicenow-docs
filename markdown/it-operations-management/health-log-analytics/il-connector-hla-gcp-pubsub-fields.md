@@ -15,7 +15,7 @@ breadcrumb: [Integration configuration fields, Health Log Analytics reference, H
 
 # GCP PubSub integration configuration fields
 
-Description of the fields on the GCP PubSub integration configuration forms for [[hla-landing-page|Health Log Analytics]].
+Description of the fields on the GCP PubSub integration configuration forms for Health Log Analytics.
 
 For the GCP PubSub integration setup procedure, see [Set up a GCP PubSub integration for Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/il-connector-hla-gcp-pubsub.md).
 
@@ -259,6 +259,3 @@ Clear
 </td></tr></tbody>
 </table>**Parent Topic:**[Integration configuration fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

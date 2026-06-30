@@ -12,7 +12,7 @@ breadcrumb: [Fulfill In-store operations cases and tasks in Retail Mobile, Manag
 
 # Work on an In-store operations task in Retail Mobile
 
-Complete individual work items tied to a store case using [[rahi-retail-operations-overview|Retail]] Mobile.
+Complete individual work items tied to a store case using Retail Mobile.
 
 ## Before you begin
 
@@ -38,9 +38,5 @@ Role required: sn\_rtl\_instore\_ops.manager or sn\_rtl\_instore\_ops.associate
 5.  Select **Close task** to mark the task as complete.
 
 
-**Parent Topic:**[[rahi-retail-fulfill-in-store-ops-mobile|Fulfill In-store operations cases and tasks in Retail Mobile]]
+**Parent Topic:**[Fulfill In-store operations cases and tasks in Retail Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-fulfill-in-store-ops-mobile.md)
 
-## Related
-
-- [[rahi-retail-fulfill-in-store-ops-mobile|Fulfill In-store operations cases and tasks in Retail Mobile]]
-- [[rahi-retail-operations-overview|Retail]]

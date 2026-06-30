@@ -32,7 +32,7 @@ The data type that you select for each question determines how it can be answere
 
 3.  On the Properties form, fill in the fields.
 
-    For a description of the field values, see [[properties-form-survey-designer|Properties form]].
+    For a description of the field values, see [Properties form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/properties-form-survey-designer.md).
 
 4.  To create any special conditions that must be met before the question appears on the survey, click the Dependency tab.
 
@@ -59,7 +59,7 @@ The data type that you select for each question determines how it can be answere
 10. To delete a question, click the **X** icon in its title bar.
 
 
-**Parent Topic:**[[c_SurveyDesigner|Survey designer]]
+**Parent Topic:**[Survey designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyDesigner.md)
 
 **Related topics**  
 
@@ -78,13 +78,7 @@ The data type that you select for each question determines how it can be answere
 
 [Configure category weights for a survey]()
 
-[[c_SurveyQuestionTemplate|Survey question template]]
+[Survey question template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyQuestionTemplate.md)
 
-[[t_CreateASurveyDesignerTemplateQ|Create a survey designer template question]]
+[Create a survey designer template question](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateASurveyDesignerTemplateQ.md)
 
-## Related
-
-- [[properties-form-survey-designer|Properties form]]
-- [[c_SurveyDesigner|Survey designer]]
-- [[c_SurveyQuestionTemplate|Survey question template]]
-- [[t_CreateASurveyDesignerTemplateQ|Create a survey designer template question]]

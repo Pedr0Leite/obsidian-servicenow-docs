@@ -16,11 +16,11 @@ Enable dynamic translation for a notification to send dynamically translated ema
 
 ## Before you begin
 
-An email notification must exist. For more information, see [[t_CreateANotification|Create an email notification]].
+An email notification must exist. For more information, see [Create an email notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateANotification.md).
 
 You must activate the Glide Notification Translation \(com.glide.notification.translation\) plugin.
 
-Set the system property for the dynamic translation. For more information see, [[enable-email-notification-translation|Enable dynamic translation]].
+Set the system property for the dynamic translation. For more information see, [Enable dynamic translation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/enable-email-notification-translation.md).
 
 Role required: admin
 
@@ -30,7 +30,7 @@ Notification recipients must be defined as active users in the User \[sys\_user\
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[system-notifications-landing|System Notifications]]** &gt; **Email** &gt; **[[notifications|Notifications]]**.
+1.  Navigate to **All** &gt; **System Notifications** &gt; **Email** &gt; **Notifications**.
 
 2.  Select the name of the email notification you want to send.
 
@@ -43,9 +43,9 @@ Notification recipients must be defined as active users in the User \[sys\_user\
 
 ## What to do next
 
-[[t_PreviewingNotifications|Preview email notifications]]
+[Preview email notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_PreviewingNotifications.md)
 
-**Parent Topic:**[[dynamic-translation|Dynamic translation]]
+**Parent Topic:**[Dynamic translation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation.md)
 
 **Related topics**  
 
@@ -54,11 +54,3 @@ Notification recipients must be defined as active users in the User \[sys\_user\
 
 [Configure the note banner for translated emails]()
 
-## Related
-
-- [[t_CreateANotification|Create an email notification]]
-- [[enable-email-notification-translation|Enable dynamic translation]]
-- [[t_PreviewingNotifications|Preview email notifications]]
-- [[dynamic-translation|Dynamic translation]]
-- [[system-notifications-landing|System notifications]]
-- [[notifications|Notifications]]

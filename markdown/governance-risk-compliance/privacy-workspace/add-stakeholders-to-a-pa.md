@@ -28,7 +28,7 @@ You can add key stakeholders only when the processing activity is either in the 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[privacy-management|Privacy Management]]** &gt; **Privacy Workspace** &gt; **[[ropa-record|Processing activities]]** &gt; **All processing activities**.
+1.  Navigate to **All** &gt; **Privacy Management** &gt; **Privacy Workspace** &gt; **Processing activities** &gt; **All processing activities**.
 
 2.  Open the processing activity to which you want to add key stakeholders.
 
@@ -107,7 +107,3 @@ Send privacy assessments to the added stakeholders. See [Send a privacy assessme
 
 [Access a processing activity from the Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/request-edit-access-pa.md)
 
-## Related
-
-- [[privacy-management|privacy management]]
-- [[ropa-record|Processing activities]]

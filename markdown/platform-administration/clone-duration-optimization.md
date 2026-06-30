@@ -12,7 +12,7 @@ breadcrumb: [Reference, Instance Clone, Configure core features, Administer the 
 
 # General guidelines for optimizing your clone duration
 
-A [[reference-email-admin|reference]] topic that includes [[ia-des-conf|general guidelines]] to optimize your clone duration when requesting a clone.
+A reference topic that includes general guidelines to optimize your clone duration when requesting a clone.
 
 Configuring additional settings for your clone request can significantly increase your clone completion time.
 
@@ -25,13 +25,7 @@ When creating a clone request, consider the following guidelines.
 -   Selecting Exclude Attachment Data on the clone request form can add to your clone duration.
 -   Don't preserve large amounts of data in your request. If you must preserve table data, such as users, groups, and roles, consider exporting the records to a file and importing them after cloning.
 -   Add conditions to the preservers configured for the clone request to only preserve the data that you need.
--   Use clone chaining to split up your request, see [[clone-terminology|Clone terminology]].
+-   Use clone chaining to split up your request, see [Clone terminology](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/clone-terminology.md).
 
-**Parent Topic:**[[instance-clone-reference|Instance Clone reference]]
+**Parent Topic:**[Instance Clone reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-clone-reference.md)
 
-## Related
-
-- [[clone-terminology|Clone terminology]]
-- [[instance-clone-reference|Instance Clone reference]]
-- [[reference-email-admin|Reference]]
-- [[ia-des-conf|General guidelines]]

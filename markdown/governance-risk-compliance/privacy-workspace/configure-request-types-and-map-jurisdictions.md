@@ -22,7 +22,7 @@ Role required: sn\_grc\_pdr.pdr\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[personal-data-rights|Personal Data Rights]]** &gt; **Request Configuration** &gt; **Request Types**.
+1.  Navigate to **All** &gt; **Personal Data Rights** &gt; **Request Configuration** &gt; **Request Types**.
 
 2.  Select **New** to create a new request type, and fill in the following fields:
 
@@ -51,6 +51,3 @@ Role required: sn\_grc\_pdr.pdr\_admin
 
 **Parent Topic:**[Configuring Personal Data Rights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/configuring-personal-data-rights.md)
 
-## Related
-
-- [[personal-data-rights|personal data rights]]

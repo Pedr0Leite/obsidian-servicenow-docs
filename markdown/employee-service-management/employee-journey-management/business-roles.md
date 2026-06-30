@@ -14,11 +14,11 @@ breadcrumb: [Lifecyle events for enterprise, Employee Journey Management, HR Ser
 
 # Business roles
 
-Business roles enable you to automatically provision applications to employees through licensed identity provider \(IDP\) services. If you are subscribed to [[hr-service-delivery|HR Service Delivery]], preconfigured integrations for select systems may be available to use.
+Business roles enable you to automatically provision applications to employees through licensed identity provider \(IDP\) services. If you are subscribed to HR Service Delivery, preconfigured integrations for select systems may be available to use.
 
 ## Preconfigured integrations for new hire onboarding
 
-The following integrations are available to use with new hire onboarding. These integrations require subscriptions to the relevant spoke in IntegrationHub, as well as the Human Resources Scoped App: [[hr-lifecycle-events-landing-page-1|Lifecycle Events]] for Enterprise \[com.sn\_hr\_lifecycle\_ent\] plugin.
+The following integrations are available to use with new hire onboarding. These integrations require subscriptions to the relevant spoke in IntegrationHub, as well as the Human Resources Scoped App: Lifecycle Events for Enterprise \[com.sn\_hr\_lifecycle\_ent\] plugin.
 
 **Note:** The lifecycle event for new hire onboarding is included as demo data with the Lifecycle Events for Enterprise \[com.sn\_hr\_lifecycle\_ent\] plugin.
 
@@ -36,7 +36,3 @@ The **assign\_business\_roles\_catalog** system property enables you to assign b
 
 **Parent Topic:**[Lifecyle events for enterprise](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-journey-management/enterprise-onboarding-transitions-landing-page.md)
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]

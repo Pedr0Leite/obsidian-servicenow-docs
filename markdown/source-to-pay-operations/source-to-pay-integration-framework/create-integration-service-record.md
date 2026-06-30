@@ -15,7 +15,7 @@ breadcrumb: [Scheduled jobs to fetch primary data, Source-to-Pay integration fra
 
 # Create Integration Service record
 
-Create Integration Service records to configure how ERP and external systems exchange data with [[acc-pay-mgmt-landing-page|Accounts Payable Operations]].
+Create Integration Service records to configure how ERP and external systems exchange data with Accounts Payable Operations.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ Role required: sn\_fcms\_intg.integration\_user
     |Field|Description|
     |-----|-----------|
     |Entity|The type of entity for which you want to configure scheduled job.|
-    |ERP Source configuration|The [[erp-source|ERP source]] mapped to the entity.|
+    |ERP Source configuration|The ERP source mapped to the entity.|
     |Subflow|The subflow used to fetch primary data.|
     |Properties|The filter condition used to fetch data from ERP sub flows. Example: Full-pull creates JSON in the integration service record which is passed to the ERP sub flows to fetch data.|
     |Active|The status of the interaction service. By default, the check box is inactive.|
@@ -42,10 +42,5 @@ Role required: sn\_fcms\_intg.integration\_user
 
 ## What to do next
 
-In the [[erp-source-configuration|ERP Source configuration]], Run jobs for active entities.
+In the ERP Source configuration, Run jobs for active entities.
 
-## Related
-
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[erp-source|ERP source]]
-- [[erp-source-configuration|ERP source configuration]]

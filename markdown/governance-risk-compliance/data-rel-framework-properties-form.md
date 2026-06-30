@@ -12,7 +12,7 @@ breadcrumb: [Configure the properties, Data Relationships Framework, Reference, 
 
 # Data Relationships Framework properties form
 
-Use the Data Relationships Framework properties form to configure the relationship properties for [[data-relationship-framework|Data Relationships Framework]] APIs.
+Use the Data Relationships Framework properties form to configure the relationship properties for Data Relationships Framework APIs.
 
 ## Data Relationships Framework properties form
 
@@ -58,9 +58,5 @@ Maximum number of levels to be processed when the Data Relationships Framework A
  The default value is 5. For example, when the API is called, it processes maximum 5 levels of the relationships and does not go deeper than 5 levels.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[configure-properties-for-data-rel-framework|Configure the properties for the Data Relationships Framework]]
+</table>**Parent Topic:**[Configure the properties for the Data Relationships Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-properties-for-data-rel-framework.md)
 
-## Related
-
-- [[configure-properties-for-data-rel-framework|Configure the properties for the Data Relationships Framework]]
-- [[data-relationship-framework|Data Relationships Framework]]

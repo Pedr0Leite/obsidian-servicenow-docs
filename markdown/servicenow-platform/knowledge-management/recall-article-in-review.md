@@ -18,7 +18,7 @@ Recall an article that is being reviewed to make additional changes.
 
 ## About this task
 
-If [[enable-ownership-group|ownership groups]] is not enabled, only the author of the article, knowledge administrators, or system administrators can recall the article.
+If ownership groups is not enabled, only the author of the article, knowledge administrators, or system administrators can recall the article.
 
 If ownership groups is enabled, the author of the article, the ownership group manager, ownership group members, knowledge administrators, or system administrators can recall an article.
 
@@ -39,6 +39,3 @@ When a revised article is in **Review** state, only the corresponding versions r
 
 **Parent Topic:**[Creating and maintaining articles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/creating-and-maintaining-articles.md)
 
-## Related
-
-- [[enable-ownership-group|Ownership groups]]

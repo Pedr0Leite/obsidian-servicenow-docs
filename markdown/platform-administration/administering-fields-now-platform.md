@@ -16,25 +16,20 @@ Use normalization, data policies, data lookup, and dynamic schema to maintain th
 
 ## Administration overview
 
--   [[c_FieldNormalization|Field normalization and transformation]]
+-   [Field normalization and transformation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_FieldNormalization.md)
 
     Field Normalization includes normalization and transformation, which are two different ways to alter field values for increased data integrity and reduced duplication.
 
--   [[c_DataPolicy|Data policy]]
+-   [Data policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_DataPolicy.md)
 
     Data policies enable you to enforce data consistency by setting mandatory and read-only states for fields.
 
--   [[c_DataLookRecMatchSupport|Data lookup and record matching support]]
+-   [Data lookup and record matching support](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_DataLookRecMatchSupport.md)
 
     The data lookup and record matching feature enables administrators to define rules that automatically set one or more field values when certain conditions are met.
 
--   [[dynamic-schema|Dynamic Schema]]
+-   [Dynamic Schema](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-schema.md)
 
     Define a hierarchy of categories, groups, and attributes and enable users to select groups of attributes on a record.
 
-## Related
 
-- [[c_FieldNormalization|Field normalization and transformation]]
-- [[c_DataPolicy|Data policy]]
-- [[c_DataLookRecMatchSupport|Data lookup and record matching support]]
-- [[dynamic-schema|Dynamic Schema]]

@@ -21,7 +21,7 @@ The examples of short-term outcomes are a demand, project, epic, or a release. T
 -   Work in synchronized or varied sprint cadences.
 -   Contribute to work outside of this common scrum program.
 
-With the centralized Planning page for a scrum program on ServiceNow® [[agile-landing-page|Agile Development 2.0]], you can:
+With the centralized Planning page for a scrum program on ServiceNow® Agile Development 2.0, you can:
 
 -   Assign work and compare the workload of multiple teams across sprints.
 -   Set, view, and adjust dependencies between stories across multiple teams.
@@ -39,6 +39,3 @@ Use a centralized view on Agile Board to plan work for the teams that are workin
 
 **Parent Topic:**[Agile Development](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/agile-development.md)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]

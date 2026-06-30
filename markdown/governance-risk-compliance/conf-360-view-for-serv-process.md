@@ -24,7 +24,7 @@ Role required: sn\_oper\_res.admin
 
 2.  Select the table for which you want to configure 360º View.
 
-    You can select the table from the [[list-view-uib-ws|list view]] as shown in the example.
+    You can select the table from the list view as shown in the example.
 
     \[Omitted image "conf-360-view-for-csdm-obj.png"\] Alt text: Tables.
 
@@ -40,7 +40,7 @@ Role required: sn\_oper\_res.admin
 
     The selected relationships are saved in the application.
 
-6.  Navigate to the specific form in the [[grc-opres-landing-page|Operational Resilience]] Workspace.
+6.  Navigate to the specific form in the Operational Resilience Workspace.
 
 7.  Select the **360º View** UI action.
 
@@ -56,7 +56,4 @@ Role required: sn\_oper\_res.admin
 
     For more information on 360º views, see [Exploring the 360º view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-360-degree-relationship-visualization/understanding-360-view.md).
 
-## Related
 
-- [[list-view-uib-ws|List view]]
-- [[grc-opres-landing-page|Operational Resilience]]

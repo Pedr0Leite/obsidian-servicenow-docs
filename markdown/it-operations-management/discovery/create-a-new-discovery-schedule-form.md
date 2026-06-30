@@ -14,7 +14,7 @@ breadcrumb: [Discovery reference, Discovery, ITOM Visibility, IT Operations Mana
 
 # Create a new discovery schedule form reference
 
-The Create a new [[r-discovery|discovery]] schedule form displays information related to the schedule and the target cloud provider. The Create a new discovery schedule form is available in the [[cow-landing-page|Cloud Discovery Workspace]].
+The Create a new discovery schedule form displays information related to the schedule and the target cloud provider. The Create a new discovery schedule form is available in the Cloud Discovery Workspace.
 
 For instructions on this procedure, see [Create a discovery schedule in Cloud Discovery Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cloud-operations-disco-create-schedule.md).
 
@@ -91,7 +91,3 @@ MID Servers you want to use with use with the Cloud Discovery schedule.This fiel
 </td></tr></tbody>
 </table>**Parent Topic:**[Discovery reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-references.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[cow-landing-page|Cloud Discovery Workspace]]

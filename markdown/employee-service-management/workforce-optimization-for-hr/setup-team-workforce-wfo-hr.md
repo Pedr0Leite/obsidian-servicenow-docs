@@ -21,7 +21,7 @@ As an administrator, you can configure KPIs as well as child KPIs. The child KPI
 -   **[Create KPI Groups to monitor performance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/create-kpi-groups-wfo-hr.md)**  
 Create key performance indicator \(KPI\) groups with the KPIs that matter most to your teams. When you associate your KPI groups with assignment groups, you can monitor your team's performance.
 -   **[Add managers to a KPI assignment group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/add-managers-kpi-groups-wfo-hr.md)**  
-[[add-managers-kpi-groups-wfo-hr|Add managers to a KPI assignment group]].
+Add managers to a KPI assignment group.
 
 **Parent Topic:**[Configuring Workforce Optimization for HR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/configure-wfo-hr.md)
 
@@ -38,6 +38,3 @@ Create key performance indicator \(KPI\) groups with the KPIs that matter most t
 
 [Setting up Demand Forecast in Workforce Optimization for HR]()
 
-## Related
-
-- [[add-managers-kpi-groups-wfo-hr|Add managers to a KPI assignment group]]

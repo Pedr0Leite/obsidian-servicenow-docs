@@ -12,13 +12,13 @@ breadcrumb: [Configure, Platform Analytics in the Now Assist panel, Now Assist i
 
 # Activate the data visualization generation skill
 
-Give users generative AI capabilities for [[creating-data-visualizations|creating data visualizations]] from the Now Assist panel by activating the data visualization generation skill.
+Give users generative AI capabilities for creating data visualizations from the Now Assist panel by activating the data visualization generation skill.
 
 ## Before you begin
 
 The data visualization generation skill is included in Generative AI Controller, which is in most Now Assist applications from the ServiceNow® Store.
 
-The Query Generation skills "analytics [[query-generation|query generation]]," "analytics insight generation," "analytics hidden insight generation," and "analytics follow-up generation" are required. These skills are active by default. For more information, see [[enable-query-generation|Query Generation skills]].
+The Query Generation skills "analytics query generation," "analytics insight generation," "analytics hidden insight generation," and "analytics follow-up generation" are required. These skills are active by default. For more information, see [Query Generation skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/enable-query-generation.md).
 
 Role required: admin
 
@@ -45,11 +45,5 @@ Role required: admin
 
 If the skill was successfully activated, the system notifies you.
 
-**Parent Topic:**[[configuring-now-ass-skills-pa|Configuring Now Assist panel skills for Platform Analytics]]
+**Parent Topic:**[Configuring Now Assist panel skills for Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configuring-now-ass-skills-pa.md)
 
-## Related
-
-- [[enable-query-generation|Query Generation skills]]
-- [[configuring-now-ass-skills-pa|Configuring Now Assist panel skills for Platform Analytics]]
-- [[creating-data-visualizations|Creating data visualizations]]
-- [[query-generation|Query Generation]]

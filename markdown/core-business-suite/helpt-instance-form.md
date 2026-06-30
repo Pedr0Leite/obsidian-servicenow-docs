@@ -74,8 +74,5 @@ The following options are available:-   **Asynchronous**
 -   **Synchronous**
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[cbs-reference-parent|Core Business Suite reference]]
+</table>**Parent Topic:**[Core Business Suite reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/cbs-reference-parent.md)
 
-## Related
-
-- [[cbs-reference-parent|Core Business Suite reference]]

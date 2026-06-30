@@ -14,7 +14,7 @@ breadcrumb: [Example widgets, Widget library, Using portal widgets, Configuring 
 
 # Simple List widget
 
-The Simple List widget can be used to display any list in the system within [[c_ServicePortal|Service Portal]]. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
+The Simple List widget can be used to display any list in the system within Service Portal. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 
 \[Omitted image "WidgetSimpleList.png"\] Alt text: Simple List widget
 
@@ -42,7 +42,7 @@ Filter
 
 </td><td>
 
-Conditions that are applied to the list. To edit the filter, in the widget instance options context menu, select **Open in platform**. Use the Table &amp; Filter tab to apply conditions to the simple list. For more information, see [[t_CreatingFilters|Create a filter in List]].
+Conditions that are applied to the list. To edit the filter, in the widget instance options context menu, select **Open in platform**. Use the Table &amp; Filter tab to apply conditions to the simple list. For more information, see [Create a filter in List](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_CreatingFilters.md).
 
 </td></tr><tr><td>
 
@@ -184,7 +184,3 @@ Show or hide the widget footer
 
 [Clone a widget]()
 
-## Related
-
-- [[t_CreatingFilters|Create a filter in List]]
-- [[c_ServicePortal|Service Portal]]

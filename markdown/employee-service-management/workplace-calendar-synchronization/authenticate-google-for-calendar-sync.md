@@ -14,7 +14,7 @@ breadcrumb: [Google Calendar - Calendar synchronization, Setup Workplace Calenda
 
 # Authenticate Google for calendar synchronization
 
-Set up Google to start with reservation synchronization with the [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] application. Create scopes, credentials and more.
+Set up Google to start with reservation synchronization with the Workplace Reservation Management application. Create scopes, credentials and more.
 
 ## Before you begin
 
@@ -120,6 +120,4 @@ Role required: Google Admin
 
 9.  Select **DONE**.
 
-## Related
 
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]

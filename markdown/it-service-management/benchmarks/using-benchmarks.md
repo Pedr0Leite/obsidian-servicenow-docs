@@ -14,8 +14,5 @@ breadcrumb: [Benchmarks, IT Service Management]
 
 # Using Benchmarks
 
-Use the ServiceNow [[benchmarks-landing|Benchmarks]] application to collect historical data to analyze the benefits of year-over-year growth. View the Benchmarks KPI data and drill down to analyse the performance analytics.
+Use the ServiceNow Benchmarks application to collect historical data to analyze the benefits of year-over-year growth. View the Benchmarks KPI data and drill down to analyse the performance analytics.
 
-## Related
-
-- [[benchmarks-landing|Benchmarks]]

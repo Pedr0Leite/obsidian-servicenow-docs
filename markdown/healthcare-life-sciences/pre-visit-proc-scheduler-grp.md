@@ -16,7 +16,7 @@ Add users who can work on the appointment booking task for a procedure to the Pr
 
 **Important:**
 
-Starting with the Yokohama release, [[pre-visit-mgmt-app|Pre-Visit Management]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+Starting with the Yokohama release, Pre-Visit Management is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base.
 
@@ -38,6 +38,4 @@ Role required: user\_admin or admin
 
 6.  Click **Save**.
 
-## Related
 
-- [[pre-visit-mgmt-app|Pre-Visit Management]]

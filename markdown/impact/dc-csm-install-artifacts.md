@@ -12,7 +12,7 @@ breadcrumb: [Impact Value Management Data Collection Content Pack for CSM, Enabl
 
 # Review CSM artifacts
 
-The Data Collection app contains a pre-build data metric structure for the ServiceNow Performance/Platform [[io-analytics|Analytics]] application.
+The Data Collection app contains a pre-build data metric structure for the ServiceNow Performance/Platform Analytics application.
 
 ## Performance/Platform analytics
 
@@ -67,6 +67,3 @@ The app contains the following artifacts for each of the above-specified artifac
 |Group Type|Tier 1|
 |Group Type|Tier 2+|
 
-## Related
-
-- [[io-analytics|Analytics]]

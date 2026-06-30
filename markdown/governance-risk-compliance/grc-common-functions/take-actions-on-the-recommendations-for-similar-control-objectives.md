@@ -24,7 +24,7 @@ For more information on related roles, see [Roles installed with GRC: Policy and
 
 ## About this task
 
-[[now-assist-for-irm|Now Assist for Integrated Risk Management \(IRM\)]] introduces an AI-powered rationalization workflow that enables compliance managers and analysts to act on recommendations for similar control objectives. This process identifies duplicates, consolidates associations, and creates unified control objectives that are easier to support management and audit.
+Now Assist for Integrated Risk Management \(IRM\) introduces an AI-powered rationalization workflow that enables compliance managers and analysts to act on recommendations for similar control objectives. This process identifies duplicates, consolidates associations, and creates unified control objectives that are easier to support management and audit.
 
 **Important:** Be sure to check AI-generated recommendations for accuracy.
 
@@ -197,6 +197,3 @@ Provides a view of activities related to the recommendation card. In the Analyze
     -   The accepted control objectives are retired and all their details and associations are merged into the retained control objective.
     -   The impacted items are retired.
 
-## Related
-
-- [[now-assist-for-irm|Now Assist for Integrated Risk Management \(IRM\)]]

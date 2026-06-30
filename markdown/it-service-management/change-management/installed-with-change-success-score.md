@@ -14,7 +14,7 @@ breadcrumb: [Activate Change Management - Change Success Score, Change Managemen
 
 # Components installed with Change Management - Change Success Score
 
-Several types of components are installed with activation of the [[c_ITILChangeManagement|Change Management]] - [[change-success-score|Change Success Score]] \(com.snc.change\_management.change\_success\_score\) plugin, including tables and scheduled jobs.
+Several types of components are installed with activation of the Change Management - Change Success Score \(com.snc.change\_management.change\_success\_score\) plugin, including tables and scheduled jobs.
 
 ## Scheduled jobs installed
 
@@ -50,7 +50,3 @@ Defines the record that associates a rating choice and color with a Change Succe
 </td></tr></tbody>
 </table>**Parent Topic:**[Activate Change Management - Change Success Score](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/activate-change-success-score.md)
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]
-- [[change-success-score|Change success score]]

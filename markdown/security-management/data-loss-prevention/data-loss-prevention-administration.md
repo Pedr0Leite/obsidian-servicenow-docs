@@ -14,16 +14,16 @@ breadcrumb: [Data Loss Prevention Incident Response, Security Operations]
 
 # DLP Incident Response Administration
 
-Create rules, email templates, configure end-user response actions, and more to manage the [[dlp-landing|Data Loss Prevention Incident Response]] \(DLP IR\) incidents on the ServiceNow AI Platform.
+Create rules, email templates, configure end-user response actions, and more to manage the Data Loss Prevention Incident Response \(DLP IR\) incidents on the ServiceNow AI Platform.
 
 The Data Loss Prevention Incident Response application enables you to perform the following configurations.
 
 -   **[DLP default configuration settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/configure-data-loss-prevention.md)**  
-Define the default [[qradar-ibm-intg-settings|configuration settings]] for Data Loss Prevention Incident Response \(DLP IR\) incidents to identify and set up the incident notification and incident assignment preferences for your end users.
+Define the default configuration settings for Data Loss Prevention Incident Response \(DLP IR\) incidents to identify and set up the incident notification and incident assignment preferences for your end users.
 -   **[Create end user lookup rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/configure-enduser-lookup-rules.md)**  
 You can create and configure end user lookup rules and assign the DLP incidents to the respective end users based on those rules.
 -   **[Create assignment rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/create-assignment-rules.md)**  
-[[create-assignment-rules|Create assignment rules]] and assign the Data Loss Prevention Incident Response \(DLP IR\) incidents to user groups, end users, managers, or user from incident.
+Create assignment rules and assign the Data Loss Prevention Incident Response \(DLP IR\) incidents to user groups, end users, managers, or user from incident.
 -   **[Create incident consolidation rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/configure-incident-consolidation-rules-to-consolidate-your-dlp-incidents.md)**  
 Create incident consolidation rule to consolidate multiple incidents of similar nature under one parent incident.
 -   **[Create response due date rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/setup-response-due-date-rules.md)**  
@@ -35,9 +35,9 @@ Create and manage user instructions template for DLP incidents to help the users
 -   **[Create email templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/create-and-manage-email-templates.md)**  
 Create and manage the preconfigured email templates for sending notifications to your end users, user groups, or managers. With these templates, you can coach and communicate with your end users about the Data Loss Prevention Incident Response \(DLP IR\) incidents.
 -   **[Create a Data Loss Prevention Incident Response SLA trigger](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/sla-records.md)**  
-[[sla-records|Create a Data Loss Prevention Incident Response SLA trigger]] condition that enables a prompt and efficient response to an incident when triggered.
+Create a Data Loss Prevention Incident Response SLA trigger condition that enables a prompt and efficient response to an incident when triggered.
 -   **[Create a Data Loss Prevention Incident Response SLA definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/dlp-sla-definitions.md)**  
-[[dlp-sla-definitions|Create a Data Loss Prevention Incident Response SLA definition]] that outlines the conditions and duration for responding to data breaches. Establishing clear expectations and protocols helps ensure a swift response to incidents, minimizing potential damage and enhancing overall data protection strategies.
+Create a Data Loss Prevention Incident Response SLA definition that outlines the conditions and duration for responding to data breaches. Establishing clear expectations and protocols helps ensure a swift response to incidents, minimizing potential damage and enhancing overall data protection strategies.
 -   **[Create assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/create-and-manage-assessments-for-dlp-incidents.md)**  
 Create and manage assessments to enable end users to respond to DLP incidents. You can use the assessments to gather information about the sensitive data exposed or leaked from the DLP incidents.
 -   **[Configure response option for your DLP incidents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/configure-response-option-mapping.md)**  
@@ -49,11 +49,11 @@ Configure the age chart that appears in the Data Loss Prevention Incident Respon
 -   **[Create user delegate configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/configure-delegation.md)**  
 Prevent certain executives in the organization from receiving notifications about the incidents assigned or escalated to them.
 -   **[Create repeat offender identification rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/repeat-offender-identification-rules.md)**  
-[[repeat-offender-identification-rules|Create repeat offender identification rules]] to identify users who repeat the same issue multiple times.
+Create repeat offender identification rules to identify users who repeat the same issue multiple times.
 -   **[Create additional incident data fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/create-custom-fields-dlp.md)**  
-[[create-custom-fields-dlp|Create Additional Incident Data Fields]] for the DLP incidents. You can create different types of fields such as string, number, check box, choice, date and time, and use them in the DLP incident forms.
+Create Additional Incident Data Fields for the DLP incidents. You can create different types of fields such as string, number, check box, choice, date and time, and use them in the DLP incident forms.
 -   **[DLP SLA Definition form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/dlp-sla-def-properties.md)**  
-Field descriptions for the [[dlp-sla-def-properties|DLP SLA Definition form]] used to create an SLA record.
+Field descriptions for the DLP SLA Definition form used to create an SLA record.
 -   **[Configure advanced settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/configure-advanced-settings-dlp.md)**  
 Configure the advanced settings to customize the incident display and behavior. For example, enable displaying the sensitive data on an incident and its clone, or specifying fields on the incident to identify the end users. In addition, activate and customize the evidence files preview properties.
 -   **[Monitor DLP Integration Run process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/configure-microsoft-dlp-integration-run-process.md)**  
@@ -63,13 +63,3 @@ Manage the visibility of a particular DLP incident that contains sensitive infor
 -   **[DLP Incidents Archival](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/dlp-archiving-rule.md)**  
 The Data Loss Prevention Incident Response is provisioned with one archival rule in the base system for the DLP incident table. The related records are also added in the base system to the DLP incident archive rule.
 
-## Related
-
-- [[dlp-landing|Data Loss Prevention Incident Response]]
-- [[qradar-ibm-intg-settings|Configuration settings]]
-- [[create-assignment-rules|Create assignment rules]]
-- [[sla-records|Create a Data Loss Prevention Incident Response SLA trigger]]
-- [[dlp-sla-definitions|Create a Data Loss Prevention Incident Response SLA definition]]
-- [[repeat-offender-identification-rules|Create repeat offender identification rules]]
-- [[create-custom-fields-dlp|Create additional incident data fields]]
-- [[dlp-sla-def-properties|DLP SLA Definition form]]

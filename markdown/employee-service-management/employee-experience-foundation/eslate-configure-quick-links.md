@@ -15,13 +15,13 @@ breadcrumb: [Quick Links widgets, Working with Employee Slate capabilities, Empl
 
 # Configure Quick Links widgets
 
-Select and display [[emp-center-quick-link-config|Quick Links]] on the [[emp-slate-home-page|Employee Slate home]] page and Canvas by capturing sys\_ids and updating each widget.
+Select and display Quick Links on the Employee Slate home page and Canvas by capturing sys\_ids and updating each widget.
 
 ## Before you begin
 
 Role required: admin.
 
-Create and configure the Quick Links to display in [[employee-center-landing-page|Employee Center]] before starting.
+Create and configure the Quick Links to display in Employee Center before starting.
 
 ## About this task
 
@@ -116,8 +116,3 @@ Both widgets use sys\_ids from the Employee Center Quick Links table \(`sn_ex_sp
 
 [Quick links](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/eslate-quick-links.md)
 
-## Related
-
-- [[emp-center-quick-link-config|Quick links]]
-- [[emp-slate-home-page|Employee Slate home]]
-- [[employee-center-landing-page|Employee Center]]

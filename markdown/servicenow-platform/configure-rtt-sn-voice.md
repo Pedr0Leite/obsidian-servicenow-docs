@@ -12,12 +12,12 @@ breadcrumb: [Setting up ServiceNow Voice, ServiceNow Voice, Manage people and wo
 
 # Configure Real Time Transcription for ServiceNow Voice Customer Service Management
 
-Configure settings in your Amazon [[c_Connect|Connect]] instance, and in your ServiceNow instance to allow agents to see a real time transcription of voice calls with customers.
+Configure settings in your Amazon Connect instance, and in your ServiceNow instance to allow agents to see a real time transcription of voice calls with customers.
 
 ## Before you begin
 
 -   An Amazon Connect instance set up using the guided setup.
--   Real Time Transcription is only available for [[cloud-call-center-overview|ServiceNow Voice]] for Customer Service Management
+-   Real Time Transcription is only available for ServiceNow Voice for Customer Service Management
 -   Role required: admin
 
 
@@ -25,7 +25,7 @@ Configure settings in your Amazon [[c_Connect|Connect]] instance, and in your Se
 
 For new deployments, the Real-Time Transcription feature is enabled during the guided setup for Voice for Customer Service Management.
 
-If you have already deployed Voice for CSM and are upgrading, go through all of the steps for [[ccc-setup|Setting up ServiceNow Voice]], and [[set-up-rtt|Set up Real-Time Transcription for ServiceNow Voice]] before completing the setup on Amazon Connect.
+If you have already deployed Voice for CSM and are upgrading, go through all of the steps for [Setting up ServiceNow Voice](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/ccc-setup.md), and [Set up Real-Time Transcription for ServiceNow Voice](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/set-up-rtt.md) before completing the setup on Amazon Connect.
 
 ## Procedure
 
@@ -49,9 +49,3 @@ Set up the properties in the Amazon Connect integration in order to enable Real-
 
 **Parent Topic:**[Setting up ServiceNow Voice](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/ccc-setup.md)
 
-## Related
-
-- [[ccc-setup|Setting up ServiceNow Voice]]
-- [[set-up-rtt|Set up Real-Time Transcription for ServiceNow Voice]]
-- [[c_Connect|Connect]]
-- [[cloud-call-center-overview|ServiceNow Voice]]

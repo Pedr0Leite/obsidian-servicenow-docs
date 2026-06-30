@@ -26,9 +26,9 @@ Role required: sn\_si\_admin
 
     Take note of the names of the IP Dynamic List, URL Dynamic List, or Domain Dynamic List you're using for firewall blocking.
 
-2.  [[download-app-first-time|Download the integration from the ServiceNow Store]].
+2.  [Download the integration from the ServiceNow Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/download-app-first-time.md).
 
-3.  When the installation is complete, navigate to **[[security-operations-landing-page|Security Operations]]** &gt; **Integration Configuration**.
+3.  When the installation is complete, navigate to **Security Operations** &gt; **Integration Configuration**.
 
     The available security integrations appear as a series of cards.
 
@@ -52,7 +52,4 @@ Role required: sn\_si\_admin
 
 8.  Select **Submit**.
 
-## Related
 
-- [[download-app-first-time|Download an application from the ServiceNow Store for the first time]]
-- [[security-operations-landing-page|Security Operations]]

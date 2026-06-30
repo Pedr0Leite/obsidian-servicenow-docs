@@ -78,7 +78,7 @@ For information about all the details, related lists and actions that are availa
         2.  Select **Submit**.
         The knowledge base article is attached to the case.
 
-    2.  To [[create-a-child-task-agentmobile|create a child task]], select **Create task**.
+    2.  To create a child task, select **Create task**.
 
         1.  On the Create a task form, enter the details. For more information, refer to [Create a child task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/create-a-child-task-agentmobile.md).
         2.  Select **Submit**.
@@ -100,7 +100,7 @@ For information about all the details, related lists and actions that are availa
         2.  To edit an attachment, select the \[Omitted image "wsdagentmob-editattach.png"\] Alt text: Edit icon. icon.
         3.  To delete an attachment, select the \[Omitted image "wsdagentmob-deleteicon.png"\] Alt text: Delete icon. icon.
         4.  To preview an image, select the image directly.
-7.  To save the case for quick [[reference-hr-service-delivery-advanced-integration-with-workday|reference]], select the \[Omitted image "wsdagentmob-saveicon.png"\] Alt text: Quick reference icon. icon.
+7.  To save the case for quick reference, select the \[Omitted image "wsdagentmob-saveicon.png"\] Alt text: Quick reference icon. icon.
 
     The case is saved. You can select the **Saved** tab at the bottom of the screen to view the case.
 
@@ -124,7 +124,3 @@ For information about all the details, related lists and actions that are availa
 
 [Offline mode]()
 
-## Related
-
-- [[create-a-child-task-agentmobile|Create a child task]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

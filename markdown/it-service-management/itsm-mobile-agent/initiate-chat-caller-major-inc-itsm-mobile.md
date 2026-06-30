@@ -22,7 +22,7 @@ Role required: major\_incident\_manager, itil, itil\_admin, or admin
 
 ## Procedure
 
-1.  Open [[itsm-mobile-agent|ITSM Mobile Agent]] app.
+1.  Open ITSM Mobile Agent app.
 
 2.  Tap **Major incidents** tab, tap **See All**.
 
@@ -45,6 +45,4 @@ Role required: major\_incident\_manager, itil, itil\_admin, or admin
 
     **Note:** The Slack and the Microsoft Teams contacts will be displayed only if the caller has a valid Slack and Microsoft Teams accounts.
 
-## Related
 
-- [[itsm-mobile-agent|ITSM Mobile Agent]]

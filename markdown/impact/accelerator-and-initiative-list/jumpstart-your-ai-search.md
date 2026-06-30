@@ -18,7 +18,7 @@ This Accelerator provides guidance on enabling and configuring AI Search.
 
 ## Accelerator Overview
 
-Jumpstart Your AI Search provides [[impact-landing-page|Impact]] customers with an introduction to AI Search, a demonstration of features and [[instance-observer-performance|performance]] via a temporary cloned  instance, and leading practices on getting started. It aims to enable you to enhance your end-users’ experiences by empowering them to find the information  they need when and where they need it.
+Jumpstart Your AI Search provides Impact customers with an introduction to AI Search, a demonstration of features and performance via a temporary cloned  instance, and leading practices on getting started. It aims to enable you to enhance your end-users’ experiences by empowering them to find the information  they need when and where they need it.
 
 ## Package Availability
 
@@ -68,7 +68,3 @@ This Impact Accelerator in its entirety or portions of the Impact Accelerator Ac
 
 ServiceNow is not responsible for implementing AI Search recommendations on Customer’s sub-production or production instances.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[instance-observer-performance|Performance]]

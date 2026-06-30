@@ -14,11 +14,11 @@ breadcrumb: [Configure, Now Assist, Smart Assessment Engine, Governance, Risk, a
 
 # Activate smart assessment response assist skill
 
-Activate and configure the [[ai-generated-responses-for-smart-assessment|smart assessment response assist skill]] in Now Assist to automatically draft responses for assessment questionnaires by using previously answered questions, contextual data and supporting documents. Enhancing accuracy, reducing redundancy, and maintaining consistency across assessments.
+Activate and configure the smart assessment response assist skill in Now Assist to automatically draft responses for assessment questionnaires by using previously answered questions, contextual data and supporting documents. Enhancing accuracy, reducing redundancy, and maintaining consistency across assessments.
 
 ## Before you begin
 
-Install the [[now-assist-for-smart-assessment-engine|Now Assist for Smart Assessment Engine]] plugin \(sn\_smart\_ai\_assist\).
+Install the Now Assist for Smart Assessment Engine plugin \(sn\_smart\_ai\_assist\).
 
 Role required: sn\_nowassist\_admin.nsa\_admin
 
@@ -43,7 +43,3 @@ Role required: sn\_nowassist\_admin.nsa\_admin
 
 Configure AI response at template category level, for more information refer to [Create an assessment template category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-asmnt-template-category-create.md).
 
-## Related
-
-- [[ai-generated-responses-for-smart-assessment|Smart Assessment response assist skill]]
-- [[now-assist-for-smart-assessment-engine|Now assist for smart assessment engine]]

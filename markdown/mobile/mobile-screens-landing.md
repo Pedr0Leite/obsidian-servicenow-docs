@@ -24,15 +24,15 @@ Select a tile to get information about the different screens you can use in your
 
 </td><td>
 
-[List screen \[Omitted image "bus-employee-document-management.svg"\] Alt text: Display a list of records using a [[list-screen|list screen]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/list-screen.md)
+[List screen \[Omitted image "bus-employee-document-management.svg"\] Alt text: Display a list of records using a list screen.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/list-screen.md)
 
 </td><td>
 
-[Record screen \[Omitted image "bus-database.svg"\] Alt text: Display content for a specific single record with a [[form-screen|record screen]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/form-screen.md)
+[Record screen \[Omitted image "bus-database.svg"\] Alt text: Display content for a specific single record with a record screen.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/form-screen.md)
 
 </td></tr><tr><td>
 
-[Grouped list screen \[Omitted image "bus-ebook.svg"\] Alt text: Use a [[grouped-list-screen|grouped list screen]] to display a list of records that are grouped by a specific field.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/grouped-list-screen.md)
+[Grouped list screen \[Omitted image "bus-ebook.svg"\] Alt text: Use a grouped list screen to display a list of records that are grouped by a specific field.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/grouped-list-screen.md)
 
 </td><td>
 
@@ -44,11 +44,11 @@ Select a tile to get information about the different screens you can use in your
 
 </td></tr><tr><td>
 
-[Calendar screen \[Omitted image "bus-datasheet.svg"\] Alt text: Use a [[calendar-screen|calendar screen]] to display a calendar interface and records associated with the selected date.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/calendar-screen.md)
+[Calendar screen \[Omitted image "bus-datasheet.svg"\] Alt text: Use a calendar screen to display a calendar interface and records associated with the selected date.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/calendar-screen.md)
 
 </td><td>
 
-[Mobile web screen \[Omitted image "bus-cloud.svg"\] Alt text: Use a [[url-screen|mobile web screen]] to open an external URL or a relative URL within your mobile app.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/url-screen.md)
+[Mobile web screen \[Omitted image "bus-cloud.svg"\] Alt text: Use a mobile web screen to open an external URL or a relative URL within your mobile app.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/url-screen.md)
 
 </td><td>
 
@@ -68,11 +68,3 @@ Select a tile to get information about the different screens you can use in your
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[list-screen|List screen]]
-- [[form-screen|Record screen]]
-- [[grouped-list-screen|Grouped list screen]]
-- [[calendar-screen|Calendar screen]]
-- [[url-screen|Mobile web screen]]

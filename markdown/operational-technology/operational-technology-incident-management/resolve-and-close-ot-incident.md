@@ -14,7 +14,7 @@ breadcrumb: [Use, Operational Technology Incident Management, Operational Techno
 
 # Resolve and close an incident
 
-When an issue is corrected, you can set the [[operational-technology-overview|Operational Technology]] \(OT\) incident state to **Resolved**. If you're happy with the resolution, you can close the incident. The incident also auto-closes after a certain amount of time based on the incident auto-close properties.
+When an issue is corrected, you can set the Operational Technology \(OT\) incident state to **Resolved**. If you're happy with the resolution, you can close the incident. The incident also auto-closes after a certain amount of time based on the incident auto-close properties.
 
 ## Before you begin
 
@@ -92,6 +92,3 @@ Describes how the incident was resolved.
 
 **Parent Topic:**[Using Operational Technology Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/using-operational-technology-incident-mgt.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]

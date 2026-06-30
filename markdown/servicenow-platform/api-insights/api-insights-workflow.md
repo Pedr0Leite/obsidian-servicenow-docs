@@ -14,13 +14,13 @@ breadcrumb: [Enterprise architect administrator tasks, Configure, API Insights, 
 
 # Configuring flows for API actions in API Insights
 
-Configure flows in Workflow Studio for automating API actions within [[api-insights|API Insights]], streamlining processes like API access requests.
+Configure flows in Workflow Studio for automating API actions within API Insights, streamlining processes like API access requests.
 
 Configure flows to automate various API actions, such as granting access to APIs or processing API requests. Enterprise architect administrators with the sn\_api\_insights\_ws.api\_mgmt\_architect\_admin role can then select workflows that align with specific API automation tasks when they configure settings for managing APIs. See [Configure settings to manage APIs in API Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights-config-settings.md).
 
 ## Predefined flow to send reminders for API access
 
-The **API Request Reminder** subflow is available with the API Insights application that sends reminders for approving any API access requests. This flow automatically sends reminder notifications to the [[enable-ownership-group|ownership groups]] specified in the flow, prompting them to review and approve pending API access requests.
+The **API Request Reminder** subflow is available with the API Insights application that sends reminders for approving any API access requests. This flow automatically sends reminder notifications to the ownership groups specified in the flow, prompting them to review and approve pending API access requests.
 
 ## Predefined flow to grant API access
 
@@ -38,7 +38,7 @@ You must include the following input parameters in the flow:
 
 ```
 Input params:
-request ([[reference|reference]] from sn_api_insights_ws_request_access_task table) - Required
+request (reference from sn_api_insights_ws_request_access_task table) - Required
 grant (string) - Required
 description (string) - Optional
 ```
@@ -55,8 +55,4 @@ description (string) - Optional
 
     An optional string input to provide additional details or context about the API access request.
 
-## Related
 
-- [[api-insights|API Insights]]
-- [[enable-ownership-group|Ownership groups]]
-- [[reference|Reference]]

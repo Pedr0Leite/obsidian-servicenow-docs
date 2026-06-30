@@ -12,18 +12,18 @@ breadcrumb: [Care Team Operations for Healthcare IT, Healthcare Operations, Heal
 
 # Exploring Care Team Operations for Healthcare IT
 
-Learn how you can use the [[hcls-cto-it-app|Care Team Operations for Healthcare IT]] application to support your care team in resolving IT issues quickly and efficiently.
+Learn how you can use the Care Team Operations for Healthcare IT application to support your care team in resolving IT issues quickly and efficiently.
 
 ## Care Team Operations for Healthcare IT overview
 
 Care Team Operations for Healthcare IT contains the case types to report and fulfill IT issues in hospitals.
 
-Care Team Operations for Healthcare IT provides care teams with a streamlined platform to report EMR or other IT issues. Using the [[care-team-portal-landing|Care Team portal]], care team members can raise an issue with the Healthcare IT case type. An incident is then automatically created from this case, which service agents in the IT department then manage using the Service Operations workspace asCt they fix the issue. There are two types of service requests available with Care Team Operations for Healthcare IT:
+Care Team Operations for Healthcare IT provides care teams with a streamlined platform to report EMR or other IT issues. Using the Care Team portal, care team members can raise an issue with the Healthcare IT case type. An incident is then automatically created from this case, which service agents in the IT department then manage using the Service Operations workspace asCt they fix the issue. There are two types of service requests available with Care Team Operations for Healthcare IT:
 
 -   Report an EMR Issue
 -   Request other IT service
 
-**Note:** Care Team Operations for Healthcare IT requires installation of the [[hcls-cto-app|Healthcare Operations Core]] and Care Team Portal plugins.
+**Note:** Care Team Operations for Healthcare IT requires installation of the Healthcare Operations Core and Care Team Portal plugins.
 
 ## Care Team Operations for Healthcare IT users
 
@@ -48,27 +48,16 @@ Care Team Operations for Healthcare IT provides care teams with a streamlined pl
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Automate [[healthcare-operations-overview|healthcare operations]] by enabling IT support request creation and fulfillment.|[[hcl-cto-it-case|Healthcare IT case overview]]|Admin|
-|Receive visibility to all IT service requests created by your teams.|[[requesting-cto-it|Creating service requests in Care Team Operations for Healthcare IT]]|Care Team|
-|Use Workspace to fulfill IT service requests.|[[fulfilling-cto-it|Fulfilling service requests in Care Team Operations for Healthcare IT]]|Agent|
+|Automate healthcare operations by enabling IT support request creation and fulfillment.|[Healthcare IT case overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hcl-cto-it-case.md)|Admin|
+|Receive visibility to all IT service requests created by your teams.|[Creating service requests in Care Team Operations for Healthcare IT](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/requesting-cto-it.md)|Care Team|
+|Use Workspace to fulfill IT service requests.|[Fulfilling service requests in Care Team Operations for Healthcare IT](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/fulfilling-cto-it.md)|Agent|
 
 ## What to explore next
 
 To learn more about configuring and using Care Team Operations for Healthcare IT, see:
 
--   [[configuring-cto-it|Configuring Care Team Operations for Healthcare IT]]
+-   [Configuring Care Team Operations for Healthcare IT](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/configuring-cto-it.md)
 -   [Creating service requests in Care Team Operations for Healthcare IT](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/requesting-cto-it.md)
 -   [Fulfilling service requests in Care Team Operations for Healthcare IT](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/fulfilling-cto-it.md)
--   [[cto-it-reference|Care Team Operations for Healthcare IT reference]]
+-   [Care Team Operations for Healthcare IT reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/cto-it-reference.md)
 
-## Related
-
-- [[hcl-cto-it-case|Healthcare IT case overview]]
-- [[requesting-cto-it|Creating service requests in Care Team Operations for Healthcare IT]]
-- [[fulfilling-cto-it|Fulfilling service requests in Care Team Operations for Healthcare IT]]
-- [[configuring-cto-it|Configuring Care Team Operations for Healthcare IT]]
-- [[cto-it-reference|Care Team Operations for Healthcare IT reference]]
-- [[hcls-cto-it-app|Care Team Operations for Healthcare IT]]
-- [[care-team-portal-landing|Care Team Portal]]
-- [[hcls-cto-app|Healthcare Operations Core]]
-- [[healthcare-operations-overview|Healthcare Operations]]

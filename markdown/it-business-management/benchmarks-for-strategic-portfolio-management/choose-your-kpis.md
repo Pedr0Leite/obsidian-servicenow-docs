@@ -14,7 +14,7 @@ breadcrumb: [Customize the SPM Benchmarks KPIs, SPM Benchmarks, Strategic Portfo
 
 # Choose your KPIs
 
-Based on your requirement, you can choose the key performance indicators \(KPIs\) that you want to use in the [[benchmarks-for-spm|SPM Benchmarks]] application.
+Based on your requirement, you can choose the key performance indicators \(KPIs\) that you want to use in the SPM Benchmarks application.
 
 ## Before you begin
 
@@ -24,15 +24,10 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **Benchmarks** &gt; **Administration** &gt; **Setup**.
 
-2.  Select **[[r_ITBusinessManagement|Strategic Portfolio Management]]** to view the list of [[spm-benchmarking-kpis|SPM Benchmarks KPIs]].
+2.  Select **Strategic Portfolio Management** to view the list of SPM Benchmarks KPIs.
 
 3.  Select the KPIs that you need for your organization.
 
 
 **Parent Topic:**[Customize the SPM Benchmarks KPIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/benchmarks-for-strategic-portfolio-management/using-benchmarks.md)
 
-## Related
-
-- [[benchmarks-for-spm|SPM Benchmarks]]
-- [[r_ITBusinessManagement|Strategic Portfolio Management]]
-- [[spm-benchmarking-kpis|SPM Benchmarks KPIs]]

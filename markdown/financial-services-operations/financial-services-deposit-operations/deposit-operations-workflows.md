@@ -14,7 +14,7 @@ breadcrumb: [Use, Deposit Operations, Banking applications, Financial Services O
 
 # Financial Services Deposit Operations workflows
 
-The [[fso-deposit-ops-landing-page|Financial Services Deposit Operations]] application installs automated workflows for origination, servicing, and closure of deposit accounts. These workflows enable routing of cases and tasks to different teams, including the deposit and document agents.
+The Financial Services Deposit Operations application installs automated workflows for origination, servicing, and closure of deposit accounts. These workflows enable routing of cases and tasks to different teams, including the deposit and document agents.
 
 ## Workflows available with this application
 
@@ -59,19 +59,13 @@ The state and stage of the case is set to Closed Complete.
 -   **[Add, modify, and cancel standing order workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-deposit-operations/fso-deposit-add-standing-order.md)**  
 Learn how agents, using the standing order workflows, resolve service requests for adding, modifying, and canceling standing orders to deposit accounts. The workflows apply to both business and personal deposit service requests.
 -   **[Failed standing order workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-deposit-operations/fso-failed-standing-order-workflow.md)**  
-Learn how bank agents, using the [[fso-failed-standing-order-workflow|failed standing order workflow]], proactively contact a customer for a failed standing order for their deposit account and decide on an action plan. The workflow applies to both business and personal deposit accounts.
+Learn how bank agents, using the failed standing order workflow, proactively contact a customer for a failed standing order for their deposit account and decide on an action plan. The workflow applies to both business and personal deposit accounts.
 -   **[Add, modify, and remove financial account relationship workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-deposit-operations/fso-deposit-add-modify-relation-workflow.md)**  
 Learn how agents, using the financial account relationship workflows, resolve service requests for adding, modifying, and removing relationships from deposit accounts. These workflows apply to personal deposit service requests.
 -   **[Originate deposit account workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-deposit-operations/fso-originate-deposit-account.md)**  
-Learn how agents, using the [[fso-originate-deposit-account|originate deposit account workflow]], resolve service requests for opening a new deposit account. The workflow applies to both business and personal deposit service requests.
+Learn how agents, using the originate deposit account workflow, resolve service requests for opening a new deposit account. The workflow applies to both business and personal deposit service requests.
 -   **[Close deposit account workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-deposit-operations/fso-close-deposit-account-workflow.md)**  
-Learn how agents, using the [[fso-close-deposit-account-workflow|Close deposit account workflow]], resolve service requests for closing a checking or saving deposit account. The workflows apply to both business and personal deposit service requests.
+Learn how agents, using the Close deposit account workflow, resolve service requests for closing a checking or saving deposit account. The workflows apply to both business and personal deposit service requests.
 
 **Parent Topic:**[Using Financial Services Deposit Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-deposit-operations/using-deposit-ops.md)
 
-## Related
-
-- [[fso-deposit-ops-landing-page|Financial Services Deposit Operations]]
-- [[fso-failed-standing-order-workflow|Failed standing order workflow]]
-- [[fso-originate-deposit-account|Originate deposit account workflow]]
-- [[fso-close-deposit-account-workflow|Close deposit account workflow]]

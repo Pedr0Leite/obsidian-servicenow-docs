@@ -36,7 +36,7 @@ For investigators, the entity management feature provides visibility across all 
 
 \[Omitted image "psds-entity-management-firearms-view.png"\] Alt text: entity record view
 
-For more information on using the Entity management feature, see [[psds-explore-icm-entity-management|Using Entity Management]].
+For more information on using the Entity management feature, see [Using Entity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-explore-icm-entity-management.md).
 
 ## Evidence Management
 
@@ -44,9 +44,5 @@ For investigators, the Evidence management feature allows investigators to manag
 
 \[Omitted image "psds-icm-evidence-details-view.png"\] Alt text: case record view
 
-For more information on using the Entity management feature, see [[psds-explore-icm-evidence-management|Using Evidence Management]].
+For more information on using the Entity management feature, see [Using Evidence Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-explore-icm-evidence-management.md).
 
-## Related
-
-- [[psds-explore-icm-entity-management|Using Investigative Case Management Entity Management]]
-- [[psds-explore-icm-evidence-management|Using Investigative Case Management Evidence Management]]

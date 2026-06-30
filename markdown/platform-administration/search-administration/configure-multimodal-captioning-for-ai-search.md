@@ -15,7 +15,7 @@ breadcrumb: [Using AI Search Admin console, AI Search Admin console, Search admi
 
 # Configure multimodal captioning for AI Search
 
-Use the [[ais-admin-console|AI Search Admin console]] to select the visual language model \(VLM\) provider and model for multimodal captioning.
+Use the AI Search Admin console to select the visual language model \(VLM\) provider and model for multimodal captioning.
 
 ## Before you begin
 
@@ -29,9 +29,9 @@ When multimodal captioning is activated, attachments retrieved from supported so
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ia-ai-search|AI Search]] Admin** &gt; **AI Search Admin Home**.
+1.  Navigate to **All** &gt; **AI Search Admin** &gt; **AI Search Admin Home**.
 
-2.  Select **[[r_SetArchiveRuleProcessingBehavior|System Properties]]**.
+2.  Select **System Properties**.
 
 3.  In the Multimodal captioning section, select a **Provider** from the drop-down list.
 
@@ -57,13 +57,7 @@ Changes to the provider and model take effect immediately for multimodal caption
 AI Search administrators have additional configuration options available, as follows:
 
 -   AI Search administrators can activate multimodal captioning for individual AI Search indexed sources. For details on this procedure, see [Activate multimodal captioning for attachments from an indexed source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/activate-multimodal-captioning.md).
--   Connector administrators can activate multimodal captioning in the crawl settings for an external content connector. To learn about [[cfg-crawl-settings-ext-cont-connector|configuring crawl settings for external content connectors]], see [Configuring crawl settings for external content connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/cfg-crawl-settings-ext-cont-connector.md).
+-   Connector administrators can activate multimodal captioning in the crawl settings for an external content connector. To learn about configuring crawl settings for external content connectors, see [Configuring crawl settings for external content connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/cfg-crawl-settings-ext-cont-connector.md).
 
 **Parent Topic:**[Using AI Search Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/using-ais-admin-console.md)
 
-## Related
-
-- [[ais-admin-console|AI Search Admin console]]
-- [[ia-ai-search|AI Search]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]
-- [[cfg-crawl-settings-ext-cont-connector|Configuring crawl settings for external content connectors]]

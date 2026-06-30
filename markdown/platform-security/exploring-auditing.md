@@ -12,14 +12,14 @@ breadcrumb: [Auditing]
 
 # Exploring Auditing
 
-Track record changes on [[c_AuditedTables|auditing]]-enabled tables. By default, the system tracks changes to the incident, change, and problem tables, among others.
+Track record changes on auditing-enabled tables. By default, the system tracks changes to the incident, change, and problem tables, among others.
 
 Enabling auditing tracks the creation, update, and deletion of all records in the table. If you want to audit individual fields in a table, you can hide fields you don’t want to track using a dictionary attribute.
 
 Auditing information is kept in these tables:
 
--   The [[c_UnderstandingTheSysAuditTable|Audit]] table.
--   The [[c_HistorySets|Knowing about History sets]] table.
+-   The [Audit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_UnderstandingTheSysAuditTable.md) table.
+-   The [Knowing about History sets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_HistorySets.md) table.
 
 **Warning:** Auditing system tables that receive a large amount of traffic, such as workflow Contexts \[wf\_context\] or Event Management Alerts \[em\_alert\], can impact performance. For this reason, you can’t audit the em\_alert table as a whole. Instead, audit selected fields of interest. Set **audit=true** on both the em\_alert table and the selected fields. Try to audit as few fields as possible.
 
@@ -27,7 +27,7 @@ Auditing information is kept in these tables:
 
 Tables don’t derive the audit flags from parent or child audited tables.
 
--   For example, if you enable auditing for the [[sc-configuration|Configuration]] Items \[cmdb\_ci\] table, only CIs stored in that base table are audited.
+-   For example, if you enable auditing for the Configuration Items \[cmdb\_ci\] table, only CIs stored in that base table are audited.
 -   Likewise, if you enable auditing for the Computers \[cmdb\_ci\_computer\] table, only the computer CI records are audited, including any fields on the Computers \[cmdb\_ci\_computer\] table that is derived from the Configuration Items \[cmdb\_ci\] table.
 
 ## Auditing system tables
@@ -44,7 +44,7 @@ The system audits deletions from a list when it **audit** is selected on the tab
 
 `glide.db.audit.ignore.delete = sys_mutex,sys_db_cache,sys_lucene_block,sys_lucene_file,sys_lucene_directory,sys_user_preference,sys_audit,sc_cart,sc_cart_item,sys_trigger,wf_context,wf_activity,wf_condition,wf_executing,wf_history,wf_log,wf_transition,wf_transition_history, cmdb_ci_windows_service, cmdb_sam_sw_install, cmdb_software_instance, cmdb_sam_sw_usage, sam_sw_counter_detail`
 
-To learn more about adding [[ca-system-properties|system properties]], see [Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddAPropertyUsingSysPropsList.md)
+To learn more about adding system properties, see [Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddAPropertyUsingSysPropsList.md)
 
 It is to be noted that by default, the audit deletes are enabled whether the record is deleted from the form view, list view, or through a script/scheduled job.
 
@@ -82,12 +82,12 @@ Auditing excludes the following information:
 
 ## Auditing a table
 
-For instructions on how to audit a table, see [[t_EnableAuditingForATable|Configuring auditing for a table]].
+For instructions on how to audit a table, see [Configuring auditing for a table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_EnableAuditingForATable.md).
 
 By default, the system tracks all fields in an audited table. You can audit a subset of fields in a table in one of two ways:
 
--   You can enable auditing for the entire table, then exclude those fields you don’t want to include. It’s appropriate when you want to audit most, but not all, fields, and is referred to as an exclusion listing. For more information, see [[t_ExcludeAFieldFromBeingAudited|Exclude a field from being audited \(exclusion listing\)]].
--   You can enable auditing for the table, but only for specified fields. It’s appropriate when you want to audit only a small number of the table's fields and is referred to as an inclusion listing. For information on how to include a field using an inclusion listing, see [[security-whitelist-audit-field|Include a table field in auditing \(inclusion listing\)]].
+-   You can enable auditing for the entire table, then exclude those fields you don’t want to include. It’s appropriate when you want to audit most, but not all, fields, and is referred to as an exclusion listing. For more information, see [Exclude a field from being audited \(exclusion listing\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_ExcludeAFieldFromBeingAudited.md).
+-   You can enable auditing for the table, but only for specified fields. It’s appropriate when you want to audit only a small number of the table's fields and is referred to as an inclusion listing. For information on how to include a field using an inclusion listing, see [Include a table field in auditing \(inclusion listing\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-whitelist-audit-field.md).
 
 ## Non-cancellable audit records
 
@@ -103,13 +103,3 @@ Audits are now recorded in the same thread as the transaction. Earlier audits we
 
 **Note:** It is recommended to delete this property to leverage the update.
 
-## Related
-
-- [[c_UnderstandingTheSysAuditTable|Viewing Sys Audit and Audit Relationship Change tables]]
-- [[c_HistorySets|Knowing about History sets]]
-- [[t_EnableAuditingForATable|Configuring auditing for a table]]
-- [[t_ExcludeAFieldFromBeingAudited|Exclude a field from being audited \(exclusion listing\)]]
-- [[security-whitelist-audit-field|Include a table field in auditing \(inclusion listing\)]]
-- [[c_AuditedTables|Auditing]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

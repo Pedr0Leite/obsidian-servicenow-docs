@@ -14,12 +14,12 @@ breadcrumb: [Configure for providers, Service Exchange for Providers, Service Ex
 
 # Set up a Service Exchange provider record
 
-Set up a new provider record to establish a unique identifier for the [[service-bridge-providers-landing-page|Service Exchange for Providers]] \(sn\_sb\_pro\) application.
+Set up a new provider record to establish a unique identifier for the Service Exchange for Providers \(sn\_sb\_pro\) application.
 
 ## Before you begin
 
 -   Role required: admin, sn\_sb.admin
--   This version of [[tmt-service-bridge-both-landing-page|Service Exchange]] requires a global script that must be installed before you set up the Service Exchange for Providers application. Follow instructions in [KB1225292](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1225292) on the Now Support instance to install the script.
+-   This version of Service Exchange requires a global script that must be installed before you set up the Service Exchange for Providers application. Follow instructions in [KB1225292](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1225292) on the Now Support instance to install the script.
 
 ## About this task
 
@@ -35,7 +35,4 @@ This one-time setup task must be completed from your ServiceNow instance.
 
 3.  Click **Submit**.
 
-## Related
 
-- [[service-bridge-providers-landing-page|Service Exchange for Providers]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]

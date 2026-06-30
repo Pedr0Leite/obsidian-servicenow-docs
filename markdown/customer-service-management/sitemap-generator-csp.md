@@ -25,8 +25,5 @@ The sitemap is generated from a script or static XML. Validating sitemaps isn't 
 -   Excluded retired and expired knowledge base articles
 -   Includes hreflang support for knowledge articles
 
-For information about sitemap requirements for search engine [[optimization|optimization]] \(SEO\), see [Build and submit a sitemap](https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap) in the Google documentation.
+For information about sitemap requirements for search engine optimization \(SEO\), see [Build and submit a sitemap](https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap) in the Google documentation.
 
-## Related
-
-- [[optimization|Optimization]]

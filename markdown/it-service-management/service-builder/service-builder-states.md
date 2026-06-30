@@ -14,7 +14,7 @@ breadcrumb: [Service Builder, IT Service Management]
 
 # Service Builder approval flow
 
-As you create and edit services and service offerings in [[service-builder|Service Builder]], various states get assigned and change on the services' way to being published \(approved\). Administrators enable the standard approval flow and can even customize it using the subflow option in Workflow Studio.
+As you create and edit services and service offerings in Service Builder, various states get assigned and change on the services' way to being published \(approved\). Administrators enable the standard approval flow and can even customize it using the subflow option in Workflow Studio.
 
 ## Standard approval flow
 
@@ -65,7 +65,7 @@ A service item is in the **Draft** state in one of these scenarios:
     -   When the item is being edited, Service Builder checks out the item and creates a copy of it and its related records \(offerings and subscribers\).
     -   The copy is in a **Draft** state.
 
-**Note:** In the **Draft** state \(checked out\), the item displays in both Service Builder and in [[SPM2-landing-page|Service Portfolio Management]] in one or more of the following ways:
+**Note:** In the **Draft** state \(checked out\), the item displays in both Service Builder and in Service Portfolio Management in one or more of the following ways:
 
         -   The word \[DRAFT\] is in front of the checked out item name.
         -   A red dot \(\[Omitted image "sb-service-red-dot.png"\] Alt text: Red dot\) is next to the item, signifying that it's read only.
@@ -105,7 +105,3 @@ Administrators can also create a customized approval flow that best meets the or
 -   [Ask for Approval action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/ask-approval-flow-designer.md)
 -   [Create a flow in Workflow Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/create-flow.md)
 
-## Related
-
-- [[service-builder|Service Builder]]
-- [[SPM2-landing-page|Service Portfolio Management]]

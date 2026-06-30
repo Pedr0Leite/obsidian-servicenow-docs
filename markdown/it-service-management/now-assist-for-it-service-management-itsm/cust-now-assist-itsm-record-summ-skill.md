@@ -15,7 +15,7 @@ breadcrumb: [Configure, Now Assist for IT Service Management \(ITSM\), IT Servic
 
 # Customize a Now Assist for IT Service Management \(ITSM\) Incident Summarization skill
 
-If you have the admin role, you can [[cust-now-assist-itsm-skill|customize a Now Assist for IT Service Management \(ITSM\) skill]] so that agents can use the generative AI skills in [[sow-landing-page|Service Operations Workspace for ITSM]] and in Core UI. Use the Now Assist Skill Kit \(NASK\) to customize your prompts.
+If you have the admin role, you can customize a Now Assist for IT Service Management \(ITSM\) skill so that agents can use the generative AI skills in Service Operations Workspace for ITSM and in Core UI. Use the Now Assist Skill Kit \(NASK\) to customize your prompts.
 
 ## Before you begin
 
@@ -251,7 +251,4 @@ The prompt displays in the Test prompt screen where you can run the test.
 
     You can now select **Summarize** in an incident and generate the custom incident summary.
 
-## Related
 
-- [[cust-now-assist-itsm-skill|Customize a Now Assist for IT Service Management \(ITSM\) skill]]
-- [[sow-landing-page|Service Operations Workspace for ITSM]]

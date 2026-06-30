@@ -34,7 +34,7 @@ By default, the report frequencies available are:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **[[c_ManagedLists|Managed Lists]]** &gt; **Report Frequencies**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **Managed Lists** &gt; **Report Frequencies**.
 
     The **HR Operations Report Frequencies** list opens.
 
@@ -56,7 +56,3 @@ By default, the report frequencies available are:
 
 **Parent Topic:**[Managed lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_ManagedLists.md)
 
-## Related
-
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[c_ManagedLists|Managed lists]]

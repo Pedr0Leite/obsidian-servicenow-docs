@@ -15,7 +15,7 @@ breadcrumb: [Integrating a self-configured bot with Slack workspace, Integrate V
 
 # Manage the self-configured bot integration with Slack
 
-Manage your [[mssg-slack|Conversational Integration with Slack]] application, its branding, and customize the self-configured bot-specific messages in your ServiceNow instance after integration.
+Manage your Conversational Integration with Slack application, its branding, and customize the self-configured bot-specific messages in your ServiceNow instance after integration.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Roles required:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings**.
 
 2.  In **General Settings** under **Channels and integrations**, select **View All**.
 
@@ -51,7 +51,3 @@ Roles required:
 
 **Parent Topic:**[Integrating a self-configured bot with Slack workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-integ-single-slack.md)
 
-## Related
-
-- [[mssg-slack|Conversational Integration with Slack]]
-- [[convint-landing-page|Conversational Interfaces]]

@@ -21,7 +21,7 @@ The Time Card management feature enables users to submit and track their time fo
 -   The time card users can record the time worked on a task using time cards and time sheets. They can then submit their time cards and time sheets for approval.
 -   Time cards and time sheets are routed for approval based on the **Non-project time approver** field in the user time sheet policy. Managers with the time card approver role can also log time and submit the time sheet of their resources.
 
-When you integrate [[c_GRCAudits|Audit Management]] with Time Card management, you can report a time card for:
+When you integrate Audit Management with Time Card management, you can report a time card for:
 
 -   an engagement
 -   audit tasks
@@ -52,6 +52,3 @@ In the version 12.0.1, release of Audit Management, when an engagement has a pro
 
 [Roles required for Advanced planning capability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/roles-for-audit-and-ppm.md)
 
-## Related
-
-- [[c_GRCAudits|Audit Management]]

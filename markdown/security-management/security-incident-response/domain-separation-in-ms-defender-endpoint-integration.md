@@ -14,7 +14,7 @@ breadcrumb: [Microsoft Defender for Endpoint integration, Security Incident Resp
 
 # Domain separation in Microsoft Defender for Endpoint integration
 
-Domain separation is supported in [[microsoft-defender-for-endpoint-integration|Microsoft Defender for Endpoint integration]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can then control several aspects of this separation, including which users can see and access data.
+Domain separation is supported in Microsoft Defender for Endpoint integration. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can then control several aspects of this separation, including which users can see and access data.
 
 ## Support level
 
@@ -25,6 +25,3 @@ Use the following steps for domain separation:
 1.  Create a user with the sn\_si.admin role in the respective domain.
 2.  Perform the Microsoft Defender for Endpoint integration procedures in the appropriate domain.
 
-## Related
-
-- [[microsoft-defender-for-endpoint-integration|Microsoft Defender for Endpoint integration]]

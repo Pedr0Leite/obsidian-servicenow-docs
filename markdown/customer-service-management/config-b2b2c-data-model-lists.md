@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Customer Service** &gt; **Products** &gt; **[[install-base-item|Install Base Items]]**.
+1.  Navigate to **All** &gt; **Customer Service** &gt; **Products** &gt; **Install Base Items**.
 
 2.  Select **View** &gt; **Self-Service** from the Additional Actions menu \[Omitted image "icon-menu.png"\] Alt text: additional actions menu.
 
@@ -30,11 +30,8 @@ Role required: admin
 
 5.  Select **OK**.
 
-6.  Navigate to **Customer Service** &gt; **Products** &gt; **[[sold-product|Sold Products]]**.
+6.  Navigate to **Customer Service** &gt; **Products** &gt; **Sold Products**.
 
 7.  Repeat steps 2–5.
 
-## Related
 
-- [[install-base-item|Install base items]]
-- [[sold-product|Sold products]]

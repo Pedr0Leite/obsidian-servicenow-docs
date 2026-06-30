@@ -20,9 +20,9 @@ Role required: admin
 
 ## About this task
 
-Themes are user-specific. Each user can select a different theme and the selection is stored as a [[c_UserPreferences|user preference]].
+Themes are user-specific. Each user can select a different theme and the selection is stored as a [user preference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_UserPreferences.md).
 
-This topic applies only when the Next Experience is not enabled. For information about selecting a theme with Next Experience, see [[select-a-theme-in-next-experience|Select a theme in Next Experience]].
+This topic applies only when the Next Experience is not enabled. For information about selecting a theme with Next Experience, see [Select a theme in Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/select-a-theme-in-next-experience.md).
 
 ## Procedure
 
@@ -31,10 +31,5 @@ This topic applies only when the Next Experience is not enabled. For information
 2.  Select the **Theme** tab, and then select the theme.
 
 
-**Parent Topic:**[[customizing-instance-appearance|Customizing instance appearance]]
+**Parent Topic:**[Customizing instance appearance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/customizing-instance-appearance.md)
 
-## Related
-
-- [[c_UserPreferences|User preferences]]
-- [[select-a-theme-in-next-experience|Select a theme in Next Experience]]
-- [[customizing-instance-appearance|Customizing instance appearance]]

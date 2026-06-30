@@ -12,11 +12,11 @@ breadcrumb: [Column Level Encryption Enterprise examples, Using Column Level Enc
 
 # Attachment encryption walkthrough
 
-This walkthrough shows you how to encrypt an attachment in your instance [[using-column-level-encryption|using Field Encryption]] Enterprise with the [[encryption|Key Management Framework]] \(KMF\). It also shows you how to use your own key.
+This walkthrough shows you how to encrypt an attachment in your instance using Field Encryption Enterprise with the Key Management Framework \(KMF\). It also shows you how to use your own key.
 
 ## Before you begin
 
-**Note:** This procedure only applies to [[now-platform-encryption|Field Encryption Enterprise]] functionality. See [[activate-platform-encryption|Activate Field Encryption]] for more information on obtaining Field Encryption Enterprise.
+**Note:** This procedure only applies to Field Encryption Enterprise functionality. See [Activate Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/activate-platform-encryption.md) for more information on obtaining Field Encryption Enterprise.
 
 Role required: sn\_kmf.cryptographic\_manager
 
@@ -24,21 +24,21 @@ Role required: sn\_kmf.cryptographic\_manager
 
 This walkthrough starts with an instance where you have already created and uploaded your customer-supplied cryptographic key. You could use the key, but this example uses a customer-supplied key.
 
-Upload confidential attachments in your instance and limit access from certain [[users|users]]. Use Encrypted Field [[sc-configuration|Configuration]] to specify which authorized personnel can access sensitive data.
+Upload confidential attachments in your instance and limit access from certain users. Use Encrypted Field Configuration to specify which authorized personnel can access sensitive data.
 
 We show you how to encrypt attachments to only be visible to users who are granted access, or be visible to all users that are not restricted from viewing the data. In this example, we restrict a certain role from being able to access an attachment in the **Incidents** module.
 
-**Note:** Although you can use multiple modules with Field Encryption Enterprise, attachment [[encryption-landing|encryption]] must use single modules.
+**Note:** Although you can use multiple modules with Field Encryption Enterprise, attachment encryption must use single modules.
 
 ## Procedure
 
 1.  Make sure that Field Encryption Enterprise is enabled.
 
-2.  [[create-cryptographic-module|Create a cryptographic module]].
+2.  Create a cryptographic module.
 
-    See [[create-PE-cryptographic-module|Create cryptographic module for Field Encryption]] for more information.
+    See [Create cryptographic module for Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/create-PE-cryptographic-module.md) for more information.
 
-3.  Navigate to **All** &gt; **System Security** &gt; **[[field-encryption|Field Encryption]]** &gt; **Field Encryption Experience**.
+3.  Navigate to **All** &gt; **System Security** &gt; **Field Encryption** &gt; **Field Encryption Experience**.
 
 4.  Select **View module details** from the Field Encryption overview to open the module record you want to configure.
 
@@ -76,7 +76,7 @@ Active
 
 </td><td>
 
-Mark **Active** to be able to use the field configuration.**Important:** When active, your instance is actively encrypting new data in the selected fields or attachments. Users won’t have access to this data unless they have permission via an associated Module Access Policy. Don’t select if the field isn’t ready to begin encrypting and enforcing Module Access [[ca-policies|Policies]].
+Mark **Active** to be able to use the field configuration.**Important:** When active, your instance is actively encrypting new data in the selected fields or attachments. Users won’t have access to this data unless they have permission via an associated Module Access Policy. Don’t select if the field isn’t ready to begin encrypting and enforcing Module Access Policies.
 
 To verify historical data is encrypted after an Encrypted Field Configuration is active, you’ll need to run a Mass Encryption Job on the column. For details, see “Schedule Mass Encryption, Decryption, or Rekeying”.
 
@@ -112,7 +112,7 @@ If you have chosen Column in the Type field, select the fields to be encrypted.*
 -   HTML
 -   Journal
 -   Translated
--   [[email|Email]]
+-   Email
 -   Phone
 
 
@@ -175,20 +175,5 @@ The **Single Module** option is used to apply the policies for one module. **Mul
 
 You have successfully used your customer-supplied key to control access to a specific attachment using Field Encryption Enterprise.
 
-**Parent Topic:**[[kmf-walkthroughs-tutorials-2|Column Level Encryption Enterprise examples]]
+**Parent Topic:**[Column Level Encryption Enterprise examples](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/kmf-walkthroughs-tutorials-2.md)
 
-## Related
-
-- [[activate-platform-encryption|Activate Field Encryption]]
-- [[create-PE-cryptographic-module|Create cryptographic module for Field Encryption]]
-- [[kmf-walkthroughs-tutorials-2|Column Level Encryption Enterprise examples]]
-- [[using-column-level-encryption|Using Field Encryption]]
-- [[encryption|Key Management Framework]]
-- [[now-platform-encryption|Field Encryption Enterprise]]
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[encryption-landing|Encryption]]
-- [[create-cryptographic-module|Create a cryptographic module]]
-- [[field-encryption|Field Encryption]]
-- [[ca-policies|Policies]]
-- [[email|Email]]

@@ -14,7 +14,7 @@ breadcrumb: [Enterprise Asset Management reference, Enterprise Asset Management,
 
 # Maintenance plan fields for Enterprise Asset Management
 
-A detailed description of all maintenance plan fields in the [[enterprise-asset-management|Enterprise Asset Management]] application.
+A detailed description of all maintenance plan fields in the Enterprise Asset Management application.
 
 ## Maintenance Plan
 
@@ -96,7 +96,7 @@ Policy that specifies what action you want to take when the maintenance plan is 
 
 [Audit results]()
 
-[Enterprise [[model-hierarchy|model categories]] and corresponding classes]()
+[Enterprise model categories and corresponding classes]()
 
 [Mandatory fields in the bulk import spreadsheets]()
 
@@ -124,7 +124,3 @@ Policy that specifies what action you want to take when the maintenance plan is 
 
 [Asset put away task fields]()
 
-## Related
-
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[model-hierarchy|Model categories]]

@@ -90,7 +90,7 @@ The schedule jobs that polls to import DevOps data honours the default values fo
 
 ## Import existing Azure DevOps pipelines, repositories, and plans
 
-After you have integrated Azure DevOps with DevOps, you can import up to 90 days of existing Azure DevOps pipeline, repository, and plan data. You can then use [[insights-dashboard-dev-ops|DevOps dashboards]] to view and manage Azure DevOps data.
+After you have integrated Azure DevOps with DevOps, you can import up to 90 days of existing Azure DevOps pipeline, repository, and plan data. You can then use DevOps dashboards to view and manage Azure DevOps data.
 
 ### Before you begin
 
@@ -120,7 +120,7 @@ Role required: admin
 
     \[Omitted image "dev-ops-app-onboarding-form.png"\] Alt text: Specify the instance on the Onboarding form
 
-4.  Select the Select in list icon \(\[Omitted image "icon-view-list.png"\] Alt text: [[dex-workspace-application-tab|Applications]] icon\) on the **App** field and then select your instance of Azure DevOps.
+4.  Select the Select in list icon \(\[Omitted image "icon-view-list.png"\] Alt text: Applications icon\) on the **App** field and then select your instance of Azure DevOps.
 
     Now that you have specified the instance, you will specify date range and sources of data to import.
 
@@ -204,7 +204,4 @@ Role required: admin
 
     The import process begins immediately upon approval.
 
-## Related
 
-- [[insights-dashboard-dev-ops|DevOps dashboards]]
-- [[dex-workspace-application-tab|Applications]]

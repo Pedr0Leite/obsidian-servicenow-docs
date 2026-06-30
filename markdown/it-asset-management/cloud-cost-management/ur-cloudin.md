@@ -16,7 +16,7 @@ breadcrumb: [Exploring Cloud Cost Management, Cloud Cost Management, IT Asset Ma
 
 Unassigned resources policies help you to identify the resources that aren’t associated with a change group and to assign them appropriately. When a resource is assigned to the correct group, the resource can be appropriately governed even as it goes through stages such as patching, upgrading, and reconfiguring.
 
-The [[cloud-insights-landing-page|Cloud Cost Management]] application can generate compute and database recommendations for AWS, Azure, and GCP. The latest data is fetched every day at midnight.
+The Cloud Cost Management application can generate compute and database recommendations for AWS, Azure, and GCP. The latest data is fetched every day at midnight.
 
 ## How Unassigned resources processes work
 
@@ -29,6 +29,3 @@ For cloud billing information to be accurate, it must include all resources in y
 -   Terminated, retired, or canceled resources aren’t considered.
 -   Data appears on reports only when at least one policy is active.
 
-## Related
-
-- [[cloud-insights-landing-page|Cloud Cost Management]]

@@ -35,13 +35,10 @@ When you view the citations and authority documents in an instance, all the cita
 5.  Select **Update**.
 
 
-**Parent Topic:**[[configuring-esg|Configure Operational Sustainability Management \(formerly ESG Management\)]]
+**Parent Topic:**[Configure Operational Sustainability Management \(formerly ESG Management\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/configuring-esg.md)
 
 **Related topics**  
 
 
 [Create or deactivate a citation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/t_CreateCitations.md)
 
-## Related
-
-- [[configuring-esg|Configure Operational Sustainability Management \(formerly ESG Management\)]]

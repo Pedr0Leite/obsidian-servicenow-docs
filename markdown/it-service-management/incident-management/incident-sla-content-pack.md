@@ -18,7 +18,7 @@ Platform Analytics Solutions contain preconfigured dashboards. These dashboards 
 
 **Important:**
 
-Starting in Xanadu release, the Incident SLA Management Platform Analytics Solutions dashboards are deprecated. Users can use [[incident|Incident management dashboard]] to view the actionable data visualizations that help in improving the business processes and practices.
+Starting in Xanadu release, the Incident SLA Management Platform Analytics Solutions dashboards are deprecated. Users can use [Incident management dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident.md) to view the actionable data visualizations that help in improving the business processes and practices.
 
 Platform Analytics data visualizations use Performance Analytics [indicator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/glossary/now-platform-glossary.md) data to show you data over time, helping you analyze your business processes and identify areas of improvement. With Platform Analytics Solutions, you can get value from Performance Analytics for your application with minimal setup. You can always create your own objects as well.
 
@@ -46,6 +46,3 @@ See the currently open incidents that are subject to an SLA. You can view a list
 
 [Activate your Performance Analytics subscription](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/c_PremiumPerformanceAnalytics.md)
 
-## Related
-
-- [[incident|Incident management dashboard]]

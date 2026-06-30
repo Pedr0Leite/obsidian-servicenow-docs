@@ -17,7 +17,7 @@ breadcrumb: [Configure, Digital End-User Experience, IT Service Management]
 Manage your organization's application monitoring by adding and enabling an application for monitoring using DEX, editing the monitoring parameters, and turning off monitoring.
 
 -   **[Onboard for DEX Application and Device Health](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-onboarding.md)**  
-During the onboarding process, when there's no application listed to be monitored, you can begin by accessing a list of available [[dex-workspace-application-tab|applications]]. You can also add your own custom applications and enable them for monitoring along with any existing applications.
+During the onboarding process, when there's no application listed to be monitored, you can begin by accessing a list of available applications. You can also add your own custom applications and enable them for monitoring along with any existing applications.
 -   **[Add an application for monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/add-new-application.md)**  
 Add an application to the list of all the applications that are being monitored. With a comprehensive view of your applications, you can quickly identify and address issues as they arise.
 -   **[Edit application details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/edit-new-application-details.md)**  
@@ -25,11 +25,11 @@ Edit various details about the application, such as its name, monitored processe
 -   **[Add a logo for your application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/add-application-logo.md)**  
 Add a logo to improve the visual appeal of your application and to distinguish it from others.
 -   **[Enable application monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/enable-app-monitor.md)**  
-[[enable-app-monitor|Enable application monitoring]] to gain insights into [[perf-metrics-mob|performance metrics]], diagnose issues, and promote optimal functionality, enhancing performance and proactively addressing potential bottlenecks or failures.
+Enable application monitoring to gain insights into performance metrics, diagnose issues, and promote optimal functionality, enhancing performance and proactively addressing potential bottlenecks or failures.
 -   **[Turn off application monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/disable-app-monitor.md)**  
 Disable the monitoring of an application in situations where monitoring is causing performance issues or interfering with the functionality of the application.
 -   **[Delete an application from the monitoring list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/delete-app-monitor.md)**  
-[[delete-app-monitor|Delete an application from the monitoring list]] when there’s no longer a need to track its performance or activity. If necessary, you can add the application in the monitoring list later.
+Delete an application from the monitoring list when there’s no longer a need to track its performance or activity. If necessary, you can add the application in the monitoring list later.
 -   **[View DEX administrators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/view-app-administrators.md)**  
 Look up the application administrators who are responsible for managing the application, promoting its proper functioning, and handling any issues that might arise.
 -   **[Set up page-level monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/set-up-page-level-monitoring.md)**  
@@ -37,9 +37,3 @@ Set up monitoring of the application performance at a specific page level. When 
 
 **Parent Topic:**[Digital End-User Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-landing.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[enable-app-monitor|Enable application monitoring]]
-- [[perf-metrics-mob|Performance metrics]]
-- [[delete-app-monitor|Delete an application from the monitoring list]]

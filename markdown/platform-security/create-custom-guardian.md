@@ -28,7 +28,7 @@ Role required: admin
 
 3.  In the **Name** field, enter the name of the custom guardian.
 
-4.  Create a [[c_requestAPI|request]] transformer script.
+4.  Create a request transformer script.
 
     1.  In the **Request Transformer** filed, enable the **Turn on ECMAScript 2021 \(ES12\) mode** toggle to create script.
 
@@ -114,9 +114,5 @@ Role required: admin
         For example, if the token limit is 1000 and the request content is 2500 tokens, the system splits it into three parts and evaluates each one individually.
 
 
-**Parent Topic:**[[configuring-byog|Configuring a Guardrail Service Provider]]
+**Parent Topic:**[Configuring a Guardrail Service Provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/configuring-byog.md)
 
-## Related
-
-- [[configuring-byog|Configuring a Guardrail Service Provider]]
-- [[c_requestAPI|request]]

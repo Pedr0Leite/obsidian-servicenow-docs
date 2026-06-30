@@ -22,13 +22,13 @@ Role required: sn\_dex.admin
 
 ## About this task
 
-Use DEX Metrics analyzer to view key [[perf-metrics-mob|performance metrics]] collected for specific Configuration Items \(CIs\), in a single location. The Metrics analyzer enables you to select specific metrics for a device or application and see the aggregated metrics in a single consolidated time series.
+Use DEX Metrics analyzer to view key performance metrics collected for specific Configuration Items \(CIs\), in a single location. The Metrics analyzer enables you to select specific metrics for a device or application and see the aggregated metrics in a single consolidated time series.
 
 ## Procedure
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  In the primary navigation pane, select the [[dex-workspace-devices-tab|Devices]] icon \(\[Omitted image "icon-devices.png"\]\) or the [[dex-workspace-application-tab|Applications]] icon \(\[Omitted image "icon-applications.png"\]\).
+2.  In the primary navigation pane, select the Devices icon \(\[Omitted image "icon-devices.png"\]\) or the Applications icon \(\[Omitted image "icon-applications.png"\]\).
 
 3.  Select a device or an application from the list.
 
@@ -44,8 +44,4 @@ Use DEX Metrics analyzer to view key [[perf-metrics-mob|performance metrics]] co
 
 7.  Select **Unselect all** to remove the results.
 
-## Related
 
-- [[perf-metrics-mob|Performance metrics]]
-- [[dex-workspace-devices-tab|Devices]]
-- [[dex-workspace-application-tab|Applications]]

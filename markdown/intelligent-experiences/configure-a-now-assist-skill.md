@@ -13,7 +13,7 @@ breadcrumb: [Using Now Assist Admin, Now Assist, Enable AI experiences]
 
 # Activate a Now Assist skill
 
-Configure the triggers, settings, and display locations for [[now-assist-skills|Now Assist skills]] to enable GenAI capabilities across the ServiceNow AI Platform.
+Configure the triggers, settings, and display locations for Now Assist skills to enable GenAI capabilities across the ServiceNow AI Platform.
 
 ## Before you begin
 
@@ -21,15 +21,15 @@ Role required: sn\_generative\_ai.nsa\_admin
 
 ## About this task
 
-Activate the skills that are most relevant to your use [[cases|cases]] and business needs. For a full list of available skills, see [Now Assist skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills/now-assist-skills.md). After the skills have been activated, they’re accessible across the ServiceNow AI Platform based on the availability and display settings you choose.
+Activate the skills that are most relevant to your use cases and business needs. For a full list of available skills, see [Now Assist skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills/now-assist-skills.md). After the skills have been activated, they’re accessible across the ServiceNow AI Platform based on the availability and display settings you choose.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[platform-now-assist-landing|Now Assist]] Admin Console** &gt; **Features**.
+1.  Navigate to **All** &gt; **Now Assist Admin Console** &gt; **Features**.
 
     If you’re already in the Now Assist Admin console, select the **Now Assist Features** tab.
 
-2.  On the [[now-assist-global-navigation|navigation]] panel, select a workflow, such as **Technology**.
+2.  On the navigation panel, select a workflow, such as **Technology**.
 
     Each workflow contains feature sets.
 
@@ -58,11 +58,11 @@ Activate the skills that are most relevant to your use [[cases|cases]] and busin
     Options vary from skill to skill. Some options are only available for certain skills.
 
     -   **In-product desktop**: When selected, Now Assist skills are displayed on forms and workspaces.
-    -   **[[now-assist-center-now-assist-panel|Now Assist panel]]**: When selected, Now Assist skills are available in the Now Assist panel. If you don't see this option, you must activate the Now Assist panel. For more information, see [[activate-now-assist-panel|Activate the Now Assist panel standard chat]].
+    -   **Now Assist panel**: When selected, Now Assist skills are available in the Now Assist panel. If you don't see this option, you must activate the Now Assist panel. For more information, see [Activate the Now Assist panel standard chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-now-assist-panel.md).
     -   **Core UI**: When selected, the Now Assist skill will display as a UI action in the Core UI.
     Select the down arrow next to the Display toggle to select the roles that can use the skill. Roles can be added by entering the name of the role in the User roles field. Existing roles can be removed by selecting the X icon in the role bubble. You must have at least one role specified, but you can add as many as you like.
 
-    \[Omitted image "activate-skill-step-2.png"\] Alt text: Select display step of the Now Assist incident summarization skill configuration [[ai-prompts|prompts]] you to define where the skill is displayed, either in-product, in the Now Assist panel, or both.
+    \[Omitted image "activate-skill-step-2.png"\] Alt text: Select display step of the Now Assist incident summarization skill configuration prompts you to define where the skill is displayed, either in-product, in the Now Assist panel, or both.
 
 9.  Review your choices and select **Activate** to complete the configuration.
 
@@ -71,22 +71,10 @@ Activate the skills that are most relevant to your use [[cases|cases]] and busin
 
 Use the Now Assist applications and skills that you've activated.
 
--   **[[configure-chat-summarization-in-the-now-assist-admin-console|Configure chat summarization and chat reply recommendation skills in the Now Assist Admin console]]**  
+-   **[Configure chat summarization and chat reply recommendation skills in the Now Assist Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-chat-summarization-in-the-now-assist-admin-console.md)**  
 Define the triggers, inputs, and display location for chat summarization and chat reply recommendation by using the guided setup in the Now Assist Admin console. The activation steps are conceptually same for both the skills.
--   **[[configure-email-recommendation|Configure email reply recommendation in the Now Assist Admin console]]**  
+-   **[Configure email reply recommendation in the Now Assist Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-email-recommendation.md)**  
 Configure the email recommendation Now Assist skill to enable agents to draft email replies based on contextual information.
 
-**Parent Topic:**[[using-now-assist-admin_0|Using Now Assist Admin]]
+**Parent Topic:**[Using Now Assist Admin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/using-now-assist-admin_0.md)
 
-## Related
-
-- [[activate-now-assist-panel|Activate the Now Assist panel standard chat]]
-- [[configure-chat-summarization-in-the-now-assist-admin-console|Configure chat summarization and chat reply recommendation skills in the Now Assist Admin console]]
-- [[configure-email-recommendation|Configure email reply recommendation in the Now Assist Admin console]]
-- [[using-now-assist-admin_0|Using Now Assist Admin]]
-- [[now-assist-skills|Now Assist skills]]
-- [[cases|Cases]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-global-navigation|Navigation]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[ai-prompts|Prompts]]

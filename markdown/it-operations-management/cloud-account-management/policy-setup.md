@@ -15,7 +15,7 @@ breadcrumb: [Setting up Cloud Account Management in Cloud Workspace, Configuring
 
 # Review default Cloud Account Management certification policy
 
-Review the default certification policy provided in [[cam-landing|Cloud Account Management]] to validate data against the policy set. This default policy certifies all available cloud service accounts every 90 days. Administrators can customize the default policy or create one as needed.
+Review the default certification policy provided in Cloud Account Management to validate data against the policy set. This default policy certifies all available cloud service accounts every 90 days. Administrators can customize the default policy or create one as needed.
 
 ## Before you begin
 
@@ -42,6 +42,3 @@ Role required: sn\_itom\_cam.cw\_admin
 
 [Review request policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/viewing-pace-policy.md)
 
-## Related
-
-- [[cam-landing|Cloud Account Management]]

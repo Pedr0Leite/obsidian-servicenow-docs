@@ -14,7 +14,7 @@ breadcrumb: [Explore, Now Assist for TMT, Telecommunications, Media, and Technol
 
 # Supporting information for Now Assist for Telecommunications, Media and Technology \(TMT\)
 
-Get a quick overview of the important information that is related to the Now Assist for [[now-assist-spmc|Now Assist for Telecommunications, Media and Technology \(TMT\)]].
+Get a quick overview of the important information that is related to the Now Assist for Now Assist for Telecommunications, Media and Technology \(TMT\).
 
 ## Supported versions
 
@@ -80,7 +80,7 @@ Core UI
 
 Activate the Now Assist for TMT \(sn\_tmt\_gen\_ai\) store app to use the service problem case summarization skills and to generate case resolution notes.
 
-This store app has the dependency on [[cspm-landing-page|Customer Service Problem Management]].
+This store app has the dependency on Customer Service Problem Management.
 
 Activate the applications in the following order:
 
@@ -89,7 +89,3 @@ Activate the applications in the following order:
 
 For more information, see [Configuring Now Assist for Telecommunications, Media and Technology \(TMT\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/now-assist-tmt-configuring.md).
 
-## Related
-
-- [[now-assist-spmc|Now Assist for Telecommunications, Media and Technology \(TMT\)]]
-- [[cspm-landing-page|Customer Service Problem Management]]

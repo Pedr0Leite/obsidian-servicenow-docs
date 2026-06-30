@@ -20,7 +20,7 @@ Work on a dispute case to review case information, ensure that any outstanding t
 
 Role required: sn\_bom\_credit\_card.dispute\_agent or sn\_bom\_credit\_card.dispute\_agent\_connector
 
-**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [[fso-combine-csm-industry-roles|Roles and Personas]].
+**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-combine-csm-industry-roles.md).
 
 ## About this task
 
@@ -38,7 +38,7 @@ Work through the activities and tasks required to research and complete the requ
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -63,8 +63,8 @@ Work through the activities and tasks required to research and complete the requ
         This stage includes details to review a submitted case, including the selected transactions and reasons for dispute. You can also answer additional questions to provide more information, and modify responses for accuracy.
 
     -   **Processing**- This stage is active after a dispute case is submitted, each disputed transaction is displayed in a workspace as tasks. Each dispute transaction progresses through these stages: **Investigate**, **Chargeback**, and **Closure**.
-        -   **Investigation**- This stage enables you to determine the recovery option, write off a transaction amount, [[provide-immediate-final-credit-visa|provide immediate final credit]], trigger a pre-dispute collaboration, initiate provisional credit, determine [[fso-ach-dispute-reverse-provisional|reverse provisional credit]], and investigate the transaction.
-        -   **Chargeback**- This stage enables you to [[report-fraud-visa|report fraud]], [[initiate-chargeback-mastercard|initiate chargeback]], and [[review-representment|review merchant representment]].
+        -   **Investigation**- This stage enables you to determine the recovery option, write off a transaction amount, provide immediate final credit, trigger a pre-dispute collaboration, initiate provisional credit, determine reverse provisional credit, and investigate the transaction.
+        -   **Chargeback**- This stage enables you to report fraud, initiate chargeback, and review merchant representment.
 
     -   **Closure** - After you complete all the activities for the case, you can select the resolution code and enter resolution notes to close the case.
     Any tasks generated during playbook activities appear in the **Tasks** tab of the case.
@@ -86,17 +86,7 @@ The tasks update to Closed Complete.
 -   **[Investigating a dispute](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/investigate-a-dispute.md)**  
 Complete tasks such as determining a recovery option, writing off a disputed transaction amount, and provide immediate final credit, notify the merchant, initiate provisional credit, determine reversal of provisional credit, and investigate the transaction.
 -   **[Initiating a chargeback](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/initiate-a-chargeback.md)**  
-Complete tasks such as [[initiate-a-chargeback|initiating a chargeback]], providing credit to a customer, and refunding a merchant.
+Complete tasks such as initiating a chargeback, providing credit to a customer, and refunding a merchant.
 
 **Parent Topic:**[Managing Disputes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/managing-disputes.md)
 
-## Related
-
-- [[fso-combine-csm-industry-roles|Using agent connector and contributor roles in Financial Services Operations]]
-- [[fso-overview|Financial Services]]
-- [[provide-immediate-final-credit-visa|Provide immediate final credit]]
-- [[fso-ach-dispute-reverse-provisional|Reverse provisional credit]]
-- [[report-fraud-visa|Report fraud]]
-- [[initiate-chargeback-mastercard|Initiate chargeback]]
-- [[review-representment|Review merchant representment]]
-- [[initiate-a-chargeback|Initiating a chargeback]]

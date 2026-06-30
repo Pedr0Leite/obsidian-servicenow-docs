@@ -14,7 +14,7 @@ breadcrumb: [Create and associate topics, Unified Taxonomy for Employee Center, 
 
 # Associate featured content to a topic
 
-You can mark connected content as [[featured-content|featured content]] for a topic. The featured content appears at the top of the topic page, enabling you to easily view content that requires your attention.
+You can mark connected content as featured content for a topic. The featured content appears at the top of the topic page, enabling you to easily view content that requires your attention.
 
 ## Before you begin
 
@@ -38,6 +38,4 @@ Role required: admin
 
 5.  Click **Submit**.
 
-## Related
 
-- [[featured-content|Featured content]]

@@ -18,7 +18,7 @@ Use Workforce Optimization for Field Service to optimize your workforce and mana
 
 Workforce Optimization for Field Service introduces Manager Workspace, which provides a real-time overview of the ongoing workload and the team performance. It also helps managers manage the schedules and shifts of their agents. Administrators can configure and customize the workspace using the application capabilities to complete the service objectives efficiently. For more information, see [Workforce Optimization for Field Service Manager Workspace dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/wfo-fsm-manager-wrkspc-dashboard.md).
 
-\[Omitted image "wfo-infographic.png"\] Alt text: person sitting in chair with key features of [[using-wfo-fsm|workforce optimization]] in text around them
+\[Omitted image "wfo-infographic.png"\] Alt text: person sitting in chair with key features of workforce optimization in text around them
 
 ## Key Features
 
@@ -40,11 +40,7 @@ Workforce Optimization for Field Service introduces Manager Workspace, which pro
 
 [Configuring Workforce Optimization for Field Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/configuring-wfo-fsm.md)
 
-[[components-wfo-fsm|Workforce Optimization for Field Service components]]
+[Workforce Optimization for Field Service components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/components-wfo-fsm.md)
 
 [Workforce Optimization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/using-wfo-fsm.md)
 
-## Related
-
-- [[components-wfo-fsm|Workforce Optimization for Field Service components]]
-- [[using-wfo-fsm|Workforce Optimization]]

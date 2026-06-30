@@ -14,7 +14,7 @@ breadcrumb: [Catalog Builder, Service Catalog, Manage service capabilities, Exte
 
 # Creating or editing catalog item template
 
-Pre-specify values or provide restrictions for attributes such as catalogs, categories, variable types, and portal settings, which are applicable during the catalog item creation or editing process. You can create a template for a catalog item or [[c_RecordProducer|record producer]].
+Pre-specify values or provide restrictions for attributes such as catalogs, categories, variable types, and portal settings, which are applicable during the catalog item creation or editing process. You can create a template for a catalog item or record producer.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin or catalog\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[service-catalog|Service Catalog]]** &gt; **[[catalog-builder|Catalog Builder]]**.
+1.  Navigate to **All** &gt; **Service Catalog** &gt; **Catalog Builder**.
 
 2.  Select the **Dashboard** tab and select **Create a catalog item template**.
 
@@ -46,7 +46,7 @@ Template Details
 
 </td><td>
 
--   Basic info: Contains the template name, short description, and an option to use the template scope for creating records. If you select the **Use template scope for creating records** [[check-box|check box]], the record producers or catalog items created using this template would be created in the scope of the template.
+-   Basic info: Contains the template name, short description, and an option to use the template scope for creating records. If you select the **Use template scope for creating records** check box, the record producers or catalog items created using this template would be created in the scope of the template.
 -   Template Available for: Specifies the user criteria for users who can use the template. Users matching the criteria must have the catalog\_builder\_editor role.
 
 **Note:** You can add up to a maximum of 50 user criteria.
@@ -79,7 +79,7 @@ Location
 
 Catalogs, categories, and topics that the item can be associated with.
 
- [[configure-catalog|Configure catalogs]] and categories to make the catalog item discoverable on the Service Portal. In the Topics card, select the taxonomy and its associated topics for a catalog item to make the catalog item discoverable on the Employee Center.
+ Configure catalogs and categories to make the catalog item discoverable on the Service Portal. In the Topics card, select the taxonomy and its associated topics for a catalog item to make the catalog item discoverable on the Employee Center.
 
  **Note:** You can add up to a maximum of 50 catalogs or categories.
 
@@ -105,7 +105,7 @@ Settings to configure the catalog item behavior in portals, such as Employee Cen
 -   Save as draft
 -   Quantity selector
 -   Delivery time
--   [[attachment|Attachment]]
+-   Attachment
 -   Make the attachment mandatory
 For example, if you don't want to display the **Save as draft** button on the portal for the catalog item, select the **Hide 'Save as draft'** option.
 
@@ -180,11 +180,3 @@ The **Translation Status** tab in the Catalog items tab on the Catalog Builder d
 
 **Parent Topic:**[Catalog Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/catalog-builder.md)
 
-## Related
-
-- [[c_RecordProducer|Record Producer]]
-- [[service-catalog|Service Catalog]]
-- [[catalog-builder|Catalog Builder]]
-- [[check-box|Check box]]
-- [[configure-catalog|Configure catalogs]]
-- [[attachment|Attachment]]

@@ -20,12 +20,12 @@ The Regulatory Change Management overview page provides a high-level view of the
 
 The prerequisites for displaying the Regulatory Change Management overview page in the Compliance Workspace are:
 
--   Download the GRC: [[reg-change-mgmt-landing-page|Regulatory Change Management]] application from the ServiceNow Store in your instance.
+-   Download the GRC: Regulatory Change Management application from the ServiceNow Store in your instance.
 -   Log in as a user with the sn\_grc\_reg\_change.manager role into the Regulatory Change Management application.
 
 Use the \[Omitted image "reg-change-icon.png"\] to access the landing page.
 
-The Regulatory Change Management application managers with the sn\_grc\_reg\_change.manager user role assign the [[list-view-of-reg-alerts|regulatory alerts]] and monitor the associated [[reg-change-task|regulatory change tasks]], import document tasks, and action tasks.
+The Regulatory Change Management application managers with the sn\_grc\_reg\_change.manager user role assign the regulatory alerts and monitor the associated regulatory change tasks, import document tasks, and action tasks.
 
 The Regulatory Change Management application in the Compliance Workspace is designed for the users with the following roles:
 
@@ -79,8 +79,4 @@ The GRC: Regulatory Change Management landing page displays the following sectio
     |My group's work|Tasks assigned to the user group such as open and overdue tasks.|
     |View all tasks|Link to the Tasks view in the Home page.|
 
-## Related
 
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]
-- [[list-view-of-reg-alerts|Regulatory alerts]]
-- [[reg-change-task|Regulatory change tasks]]

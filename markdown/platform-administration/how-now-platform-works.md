@@ -36,9 +36,9 @@ The ServiceNow AI Platform is built for enterprise scale, with global datacenter
 
 ## Administration
 
-The ServiceNow AI Platform [Admin Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/admin-center/admin-center-intro.md) gives business administrators at-a-glance information and access to configuration management and AI-powered implementation with [[ia-landing|Setup Hub]].
+The ServiceNow AI Platform [Admin Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/admin-center/admin-center-intro.md) gives business administrators at-a-glance information and access to configuration management and AI-powered implementation with [Setup Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-landing.md).
 
-[[ia-localization-il|Localization]] is available in more than a dozen languages and currencies. In-house and third-party translation services handle communications, virtual agent chat, user input translation, and more. For more information, see [Translation and localization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/translation-and-localization.md).
+Localization is available in more than a dozen languages and currencies. In-house and third-party translation services handle communications, virtual agent chat, user input translation, and more. For more information, see [Translation and localization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/translation-and-localization.md).
 
 ## Upgrade and release management
 
@@ -46,11 +46,11 @@ The ServiceNow AI Platform delivers regular releases on a predictable cadence, w
 
 ## Ecosystem and marketplace
 
-Extend the platform through the [[servicenow-store|ServiceNow Store]], where partner-built applications and integrations are available for deployment. A robust partner ecosystem means solutions exist for many industries, use cases, and technology environments.
+Extend the platform through the [ServiceNow Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/servicenow-store.md), where partner-built applications and integrations are available for deployment. A robust partner ecosystem means solutions exist for many industries, use cases, and technology environments.
 
 ## Subscription Management
 
-[[subscription-management-landing-page-v2|Subscription Management]] provides full visibility into active subscriptions and license consumption from a single location. Use it to right-size your deployment, add capabilities as needs evolve, and maintain budget control across your organization.
+[Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/subscription-management-landing-page-v2.md) provides full visibility into active subscriptions and license consumption from a single location. Use it to right-size your deployment, add capabilities as needs evolve, and maintain budget control across your organization.
 
 ## Integration
 
@@ -108,12 +108,5 @@ Take advantage of ready-to-use workflows for common use cases with direct connec
 
 For more information, see [Mobile Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-config-navigation.md).
 
-**Parent Topic:**[[get-started-now-platform|Getting started on the ServiceNow AI Platform]]
+**Parent Topic:**[Getting started on the ServiceNow AI Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/get-started-now-platform.md)
 
-## Related
-
-- [[ia-landing|Setup Hub]]
-- [[servicenow-store|ServiceNow Store]]
-- [[subscription-management-landing-page-v2|Subscription Management]]
-- [[get-started-now-platform|Getting started on the ServiceNow AI Platform]]
-- [[ia-localization-il|Localization]]

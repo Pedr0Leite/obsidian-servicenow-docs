@@ -14,7 +14,7 @@ breadcrumb: [Editing functions for knowledge articles in the HTML editor, Creati
 
 # Format a code snippet automatically in knowledge articles
 
-Add syntax highlighting to a code snippet in knowledge articles using the [[html|HTML]] editor.
+Add syntax highlighting to a code snippet in knowledge articles using the HTML editor.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: knowledge
 
 ## About this task
 
-You can also use the HTML editor when creating or editing a knowledge article using the [[knowledge-management|Knowledge Management]] application in the ServiceNow AI Platform interface or in Agent Workspace. To create or [[edit-knowledge-article|edit a knowledge article]] in the ServiceNow AI Platform interface, see [Create a knowledge article](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/create-knowledge-article.md) or [Edit a knowledge article](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/edit-knowledge-article.md). To create or [[edit-article-workspace|edit a knowledge article in Agent Workspace]], see [Create a knowledge article in Agent Workspace]() or [Edit a knowledge article in Agent Workspace]().
+You can also use the HTML editor when creating or editing a knowledge article using the Knowledge Management application in the ServiceNow AI Platform interface or in Agent Workspace. To create or edit a knowledge article in the ServiceNow AI Platform interface, see [Create a knowledge article](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/create-knowledge-article.md) or [Edit a knowledge article](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/edit-knowledge-article.md). To create or edit a knowledge article in Agent Workspace, see [Create a knowledge article in Agent Workspace]() or [Edit a knowledge article in Agent Workspace]().
 
 ## Procedure
 
@@ -42,9 +42,4 @@ You can also use the HTML editor when creating or editing a knowledge article us
 
 6.  Edit the code by clicking the code snippet, and then clicking the insert/edit code sample icon \(\[Omitted image "insert-code.png"\] Alt text: Insert/Edit code sample icon\).
 
-## Related
 
-- [[html|HTML]]
-- [[knowledge-management|Knowledge Management]]
-- [[edit-knowledge-article|Edit a knowledge article]]
-- [[edit-article-workspace|Edit a knowledge article in Agent Workspace]]

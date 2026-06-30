@@ -81,7 +81,7 @@ Processes installation data for each IBM software component and product on your 
 
 </td></tr><tr><td>
 
-ILMT [[sam-license-workbench|Software License Usage]]
+ILMT Software License Usage
 
 </td><td>
 
@@ -136,6 +136,3 @@ Each ILMT and BigFix Inventory transform map processes data using field maps or 
 
 **Parent Topic:**[Integrating with the IBM License Metric Tool \(ILMT\) or BigFix Inventory using v1 APIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/integrating-ilmt-bigfix-v1-apis.md)
 
-## Related
-
-- [[sam-license-workbench|Software license usage]]

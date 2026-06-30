@@ -14,7 +14,7 @@ breadcrumb: [CSC references, Cloud Services Catalog, ITOM Cloud Accelerate, IT O
 
 # Azure DevOps permissions
 
-Azure DevOps [[r-discovery|discovery]] and provision permissions.
+Azure DevOps discovery and provision permissions.
 
 <table id="table_xt4_rbh_hzb"><thead><tr><th>
 
@@ -30,7 +30,7 @@ PAT Access
 
 </th></tr></thead><tbody><tr><td>
 
-[[csc-home|Cloud Services Catalog]] Azure DevOps Discovery
+Cloud Services Catalog Azure DevOps Discovery
 
 </td><td>
 
@@ -67,7 +67,3 @@ Not applicable
 </td></tr></tbody>
 </table>**Parent Topic:**[CSC references](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/csc-reference.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[csc-home|Cloud Services Catalog]]

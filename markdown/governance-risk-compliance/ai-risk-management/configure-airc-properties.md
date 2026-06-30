@@ -15,7 +15,7 @@ breadcrumb: [Configure, AI Risk and Compliance, Governance, Risk, and Compliance
 
 # Set up AI Risk and Compliance properties
 
-Configure [[ai-risk-and-compliance|AI Risk and Compliance]] properties to specify which authority documents and policies you want to display on the home page. You can also specify a default automated risk classification assessment RAM for [[ai-system-airc|AI systems]] and specify a default RAM to be used for [[risk-assessments|risk assessments]] of AI systems.
+Configure AI Risk and Compliance properties to specify which authority documents and policies you want to display on the home page. You can also specify a default automated risk classification assessment RAM for AI systems and specify a default RAM to be used for risk assessments of AI systems.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ Use these properties to configure how authority documents and policies are displ
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **AI Risk and Compliance** &gt; **General [[Administration|Administration]]** &gt; **Properties**.
+1.  Navigate to **All** &gt; **AI Risk and Compliance** &gt; **General Administration** &gt; **Properties**.
 
 2.  Configure the `sn_grc_ai_gov.highlighted_authority_document` property to specify which authority documents you want to display on the home page.
 
@@ -37,7 +37,7 @@ Use these properties to configure how authority documents and policies are displ
 
     Enter a maximum of 2 policies separated by comma in the **Select policies for compliance posture reporting** field.
 
-4.  Configure the `sn_grc_ai_gov.ai_system_automated_risk_classification_asmt_ram` property to specify the default [[risk-assessment-methodology-prm|Risk Assessment Methodology \(RAM\)]] used for automated regulatory risk classification of AI systems at intake.
+4.  Configure the `sn_grc_ai_gov.ai_system_automated_risk_classification_asmt_ram` property to specify the default Risk Assessment Methodology \(RAM\) used for automated regulatory risk classification of AI systems at intake.
 
     Enter the RAM Sys ID in the **Default automated risk classification assessment RAM for AI system** field. This RAM is used to automatically classify AI systems during intake based on configured use‑and‑purpose screening questions.
 
@@ -45,10 +45,4 @@ Use these properties to configure how authority documents and policies are displ
 
     Enter the RAM Sys ID in the **Default primary RAM for AI system** field. This RAM is used as the default RAM for all risk assessments.
 
-## Related
 
-- [[ai-risk-and-compliance|AI Risk and Compliance]]
-- [[ai-system-airc|AI systems]]
-- [[risk-assessments|risk assessments]]
-- [[Administration|Administration]]
-- [[risk-assessment-methodology-prm|Risk Assessment Methodology \(RAM\)]]

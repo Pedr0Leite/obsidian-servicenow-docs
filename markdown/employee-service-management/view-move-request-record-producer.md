@@ -18,8 +18,8 @@ Update a move-related workplace service record producer. Link a workplace servic
 
 Ensure that you have the following applications installed:
 
--   [[workplace-safety-mgmt-hr|Workplace Core]]
--   [[workplace-case-mgmt-feat|Workplace Case Management]]
+-   Workplace Core
+-   Workplace Case Management
 
 Role required: sn\_wsd\_case.manager or workplace manager
 
@@ -46,7 +46,7 @@ After a workplace service is created, the service is linked to a record producer
 
 The record producer is updated.
 
-**Parent Topic:**[[workplace-mov-mgmt-setup|Managing Workplace Move Management requests]]
+**Parent Topic:**[Managing Workplace Move Management requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-mov-mgmt-setup.md)
 
 **Related topics**  
 
@@ -61,8 +61,3 @@ The record producer is updated.
 
 [Review move conflicts]()
 
-## Related
-
-- [[workplace-mov-mgmt-setup|Managing Workplace Move Management requests]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]

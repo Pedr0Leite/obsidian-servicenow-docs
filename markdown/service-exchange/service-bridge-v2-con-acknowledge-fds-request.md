@@ -22,7 +22,7 @@ Role required: admin \(sb\_admin\)
 
 ## About this task
 
-After a provider requests an FDS offering, the system generates an FDS request and corresponding FDS subscriptions in your [[tmt-service-bridge-both-landing-page|Service Exchange]] instance.
+After a provider requests an FDS offering, the system generates an FDS request and corresponding FDS subscriptions in your Service Exchange instance.
 
 If the **Auto acknowledge FDS Requests** option is not selected, you must manually acknowledge the provider's FDS request to inform them that you're working on the request. Then, send a sample payload to help them understand the type of data they will receive.
 
@@ -57,21 +57,14 @@ A sample payload for each subscription is sent to the provider as sample data. T
 
 ## What to do next
 
-[[service-bridge-v2-publish-con-fds-subscription|Publish the foundation data subscription.]]
+[Publish the foundation data subscription.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-publish-con-fds-subscription.md)
 
 **Related topics**  
 
 
-[[service-bridge-v2-explore-foundation-data-sync|Foundation data sync]]
+[Foundation data sync](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-explore-foundation-data-sync.md)
 
-[[using-provider-bound-fds-consumer|Configure outbound foundation data sync as consumers]]
+[Configure outbound foundation data sync as consumers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/using-provider-bound-fds-consumer.md)
 
-[[service-bridge-v2-configure-inboun-fds-providers|Configuring inbound foundation data sync as providers]]
+[Configuring inbound foundation data sync as providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-configure-inboun-fds-providers.md)
 
-## Related
-
-- [[service-bridge-v2-publish-con-fds-subscription|Publish an outbound FDS subscription as a consumer]]
-- [[service-bridge-v2-explore-foundation-data-sync|Foundation data sync]]
-- [[using-provider-bound-fds-consumer|Configure outbound foundation data sync as consumers]]
-- [[service-bridge-v2-configure-inboun-fds-providers|Configuring inbound foundation data sync as providers]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]

@@ -14,7 +14,7 @@ breadcrumb: [Create and associate topics, Unified Taxonomy for Employee Center, 
 
 # Associate a quick link to a topic
 
-Associate [[emp-center-quick-link-config|quick links]] to topics to quickly view important content, such as knowledge articles, catalog, items, internal pages, and external links.
+Associate quick links to topics to quickly view important content, such as knowledge articles, catalog, items, internal pages, and external links.
 
 ## Before you begin
 
@@ -48,6 +48,3 @@ User criteria required: Taxonomy Manager.
 
 [Assign topics to a quick link](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/assign-topics-to-quick-links.md)
 
-## Related
-
-- [[emp-center-quick-link-config|Quick links]]

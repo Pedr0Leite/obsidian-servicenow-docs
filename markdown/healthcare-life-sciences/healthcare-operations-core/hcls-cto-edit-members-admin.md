@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[healthcare-operations-overview|Healthcare Operations]]** &gt; **Healthcare organizations** &gt; **All**.
+1.  Navigate to **All** &gt; **Healthcare Operations** &gt; **Healthcare organizations** &gt; **All**.
 
 2.  Select the Healthcare organization that you want to edit a member of.
 
@@ -46,6 +46,4 @@ Role required: admin
 
 7.  Select **Save**.
 
-## Related
 
-- [[healthcare-operations-overview|Healthcare Operations]]

@@ -14,7 +14,7 @@ breadcrumb: [Security Incident Response Integration with Cortex XSIAM by Palo Al
 
 # Automate incident updates and closures
 
-[[ms-defender-additional-op|Automate incident updates and closures]] based on the incident status. The Cortex XSIAM integration enables incidents to create security incidents and also to update the incidents after they are created or closed.
+Automate incident updates and closures based on the incident status. The Cortex XSIAM integration enables incidents to create security incidents and also to update the incidents after they are created or closed.
 
 ## Before you begin
 
@@ -46,7 +46,7 @@ Description
 
 </th></tr></thead><tbody><tr><td rowspan="3">
 
-[[si-creation|Security Incident Creation]] Updates
+Security Incident Creation Updates
 
 </td><td>
 
@@ -102,7 +102,7 @@ Comments posted to the incident in the Cortex XSIAM incident when the security i
 
 </td></tr><tr><td>
 
-Priority [[mapping-logrhythm|Mapping]]
+Priority Mapping
 
 </td><td>
 
@@ -151,8 +151,4 @@ Option to sync Security Incident work notes to XSIAM incident comments. Work not
 
     3.  Select **Continue**.
 
-## Related
 
-- [[ms-defender-additional-op|Automate incident updates and closures]]
-- [[si-creation|Security incident creation]]
-- [[mapping-logrhythm|Mapping]]

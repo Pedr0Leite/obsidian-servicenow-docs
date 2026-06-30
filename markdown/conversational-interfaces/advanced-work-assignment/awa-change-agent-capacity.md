@@ -14,7 +14,7 @@ breadcrumb: [Configure, Advanced Work Assignment, Manage people and work, Conver
 
 # Override agent capacity for selected agents
 
-Change the default number of [[awa-work-items|work items]] that an agent can handle for a service channel.
+Change the default number of work items that an agent can handle for a service channel.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: awa\_admin or admin
 
 ## About this task
 
-To change the capacity for selected agents, use the **Agent Capacity Override** related list for the service channel. To change the capacity for one or more members of a selected group, use the **Agent Capacity Override** related list for the group \(**[[awa-application-landing-page|Advanced Work Assignment]]** &gt; **Groups**\).
+To change the capacity for selected agents, use the **Agent Capacity Override** related list for the service channel. To change the capacity for one or more members of a selected group, use the **Agent Capacity Override** related list for the group \(**Advanced Work Assignment** &gt; **Groups**\).
 
 ## Procedure
 
@@ -30,7 +30,7 @@ To change the capacity for selected agents, use the **Agent Capacity Override** 
 
     -   **All** &gt; **Advanced Work Assignment** &gt; **Home**.
 
-        In the Essential settings section, select **Set up [[awa-service-channels|service channels]]**.
+        In the Essential settings section, select **Set up service channels**.
 
     -   **All** &gt; **Advanced Work Assignment** &gt; **Service Channels**.
 2.  Select the service channel.
@@ -83,8 +83,3 @@ Agents to which this override applies. Move the agent names from the **Available
 
 If you’re configuring a service channel, you can [create or change an inbox layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-modify-inbox-layout.md) for the channel.
 
-## Related
-
-- [[awa-work-items|Work items]]
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[awa-service-channels|Service channels]]

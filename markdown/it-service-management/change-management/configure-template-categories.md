@@ -26,7 +26,7 @@ You must have a role configured with access to approve the templates for the cha
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_Models|Models]]** &gt; **[[change-templates|Change Templates]]**.
+1.  Navigate to **All** &gt; **Models** &gt; **Change Templates**.
 
 2.  Select the template for which you want to create a category.
 
@@ -53,12 +53,7 @@ You must have a role configured with access to approve the templates for the cha
 
 ## Result
 
-Categories and, if configured, child categories are created, and are available in the **Templates** menu on the [[t_CreateAChange|Create a change request]] form. The child categories are displayed in the defined order, and the selected templates are available under each category.
+Categories and, if configured, child categories are created, and are available in the **Templates** menu on the Create a change request form. The child categories are displayed in the defined order, and the selected templates are available under each category.
 
 **Parent Topic:**[Create and propose a change template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/create-change-template.md)
 
-## Related
-
-- [[c_Models|Models]]
-- [[change-templates|Change templates]]
-- [[t_CreateAChange|Create a change request]]

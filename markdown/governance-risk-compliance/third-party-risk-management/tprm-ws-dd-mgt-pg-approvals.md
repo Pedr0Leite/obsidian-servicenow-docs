@@ -62,7 +62,7 @@ The following business rules are included when the Third-party Risk Due Diligenc
 |Cancel existing approvals|Third-party due diligence request \[sn\_tprm\_dd\_request\]|Cancels approval requests if the state of the approval record is updated to **No longer required**.|
 
 -   **[Approval rule form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-ar-form.md)**  
-The [[approval-rule-form|approval rule form]] captures all the information needed to create an approval rule. An admin or third-party risk admin can create an approval rule.
+The approval rule form captures all the information needed to create an approval rule. An admin or third-party risk admin can create an approval rule.
 
 **Parent Topic:**[Third-party Risk Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-reference.md)
 
@@ -77,6 +77,3 @@ The [[approval-rule-form|approval rule form]] captures all the information neede
 
 [Approval rule form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-ar-form.md)
 
-## Related
-
-- [[approval-rule-form|Approval Rule form]]

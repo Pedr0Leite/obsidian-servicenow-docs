@@ -14,7 +14,7 @@ breadcrumb: [Storage space for log retention, Administer HLA, Configuring, Healt
 
 # Modify the log source retention period in Health Log Analytics
 
-Modify the period that [[hla-landing-page|Health Log Analytics]] retains logs from a specific source. You can calculate the impact of your intended change on storage to help you make an informed decision.
+Modify the period that Health Log Analytics retains logs from a specific source. You can calculate the impact of your intended change on storage to help you make an informed decision.
 
 ## Before you begin
 
@@ -84,6 +84,3 @@ By default, the log retention duration per source is set to three days. You can 
 
 **Parent Topic:**[Storage space for log retention in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-log-retention-space.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

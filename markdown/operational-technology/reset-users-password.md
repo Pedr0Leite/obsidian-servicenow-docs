@@ -24,7 +24,7 @@ An Administrator can force another user to change their password on that user's 
 
 ## Procedure
 
-1.  In the Console, navigate to the [[users-page|Users page]].
+1.  In the Console, navigate to the Users page.
 
 2.  You can force a user to change their password by clicking on the green key.
 
@@ -44,6 +44,4 @@ An Administrator can force another user to change their password on that user's 
 
 5.  Select **Change Password**.
 
-## Related
 
-- [[users-page|Users page]]

@@ -28,7 +28,7 @@ Role required: sales\_agent
 
 3.  Select **Compose Email** button from the top right corner to start a new email or select an existing email to make changes.
 
-4.  Fill in the [[fields|fields]] in the Email Draft form.
+4.  Fill in the fields in the Email Draft form.
 
     |Fields|Descriptions|
     |------|------------|
@@ -42,18 +42,12 @@ Role required: sales\_agent
 5.  Select **Send email** to send the email or close the email form to save it in the **Draft Emails** tab.
 
 
-**Parent Topic:**[[opportunity-mgmt-using|Using Opportunity Management]]
+**Parent Topic:**[Using Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-mgmt-using.md)
 
 **Related topics**  
 
 
-[[configure-opportunity-mgmt|Install and configure Opportunity Management]]
+[Install and configure Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-opportunity-mgmt.md)
 
-[[opportunity-management|Opportunity Management]]
+[Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management.md)
 
-## Related
-
-- [[opportunity-mgmt-using|Using Opportunity Management]]
-- [[configure-opportunity-mgmt|Install and configure Opportunity Management]]
-- [[opportunity-management|Opportunity Management]]
-- [[fields|Fields]]

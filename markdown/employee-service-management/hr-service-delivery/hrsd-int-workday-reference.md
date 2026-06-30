@@ -14,7 +14,7 @@ breadcrumb: [HR Service Delivery Integration with Workday, Integration of HR Ser
 
 # Reference - HR Service Delivery Integration with Workday
 
-[[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] topics provide additional information about the [[w-integration|HR Service Delivery Integration with Workday]], including lists and forms.
+Reference topics provide additional information about the HR Service Delivery Integration with Workday, including lists and forms.
 
 -   **[Components installed with HR Service Delivery Integration with Workday](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/installed-with-wd.md)**  
 Several types of components are installed with activation of the HR Service Delivery Integration with Workday \(sn\_hr\_workday\) application, including tables and user roles.
@@ -23,7 +23,3 @@ Limitations to the data that is synchronized from Workday to ServiceNow.
 
 **Parent Topic:**[Integration of HR Service Delivery with third-party systems](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/integrate-third-party-systems.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[w-integration|HR Service Delivery Integration with Workday]]

@@ -29,7 +29,7 @@ The agents can physically pick up the assets and then record them as delivered. 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Field Service [[field-service-contractor-portal|Contractor Portal]]** &gt; **My Lists** &gt; **Pickup Parts**.
+1.  Navigate to **All** &gt; **Field Service Contractor Portal** &gt; **My Lists** &gt; **Pickup Parts**.
 
 2.  From the **Transfer Order Line** list, select a transfer order line.
 
@@ -48,6 +48,3 @@ The agents can physically pick up the assets and then record them as delivered. 
 
 The part is delivered successfully to the agent.
 
-## Related
-
-- [[field-service-contractor-portal|Contractor Portal]]

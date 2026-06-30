@@ -20,7 +20,7 @@ Role required: Team member, Team manager
 
 ## About this task
 
-\[Omitted image "hcls-cto-mobile-cancel-requests.png"\] Alt text: Cancel a request in [[care-team-mobile-landing|Care Team Mobile]].
+\[Omitted image "hcls-cto-mobile-cancel-requests.png"\] Alt text: Cancel a request in Care Team Mobile.
 
 ## Procedure
 
@@ -35,6 +35,3 @@ Role required: Team member, Team manager
 
 The specified request has been canceled.
 
-## Related
-
-- [[care-team-mobile-landing|Care Team Mobile]]

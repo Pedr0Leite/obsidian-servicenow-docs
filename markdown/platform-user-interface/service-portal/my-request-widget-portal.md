@@ -14,9 +14,9 @@ breadcrumb: [Example widgets, Widget library, Using portal widgets, Configuring 
 
 # My Requests widget
 
-Use the My Requests widget \(my-requests-v2\) to enable requesters to view open or closed requests in [[c_ServicePortal|Service Portal]].
+Use the My Requests widget \(my-requests-v2\) to enable requesters to view open or closed requests in Service Portal.
 
-Requests, incidents, and tasks are displayed in a single view that is based on the filter conditions and display settings in the My Request Filter module. For information about defining [[c_Filters|filters]] for this module, see [Define filters for My Requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configure-my-requests.md).
+Requests, incidents, and tasks are displayed in a single view that is based on the filter conditions and display settings in the My Request Filter module. For information about defining filters for this module, see [Define filters for My Requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configure-my-requests.md).
 
 \[Omitted image "my-requests-widget.png"\] Alt text: Request records, a View filter, and a search bar displayed by the My Requests widget.
 
@@ -48,7 +48,3 @@ Enable the My Requests menu that uses the My Requests \(my-requests-v2\) widget 
 
 [Clone a widget]()
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[c_Filters|Filters]]

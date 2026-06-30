@@ -12,7 +12,7 @@ breadcrumb: [Partner Relationship Management reference, Reference, Sales Custome
 
 # Deal registration line table fields
 
-The [[deal-registration-management|deal registration]] line table contains line items linked to a deal registration, each referencing a specific product offering.
+The deal registration line table contains line items linked to a deal registration, each referencing a specific product offering.
 
 |Field|Type|Description|
 |-----|----|-----------|
@@ -20,9 +20,5 @@ The [[deal-registration-management|deal registration]] line table contains line 
 |Deal registration|Reference|Reference to the deal registration \(sn\_prm\_dr\_deal\_registration\) table|
 |Product offering|Reference|Reference to product offering \(sn\_prd\_prm\_product\_offering\) table|
 
-**Parent Topic:**[[partner-relationship-management-reference|Partner Relationship Management reference]]
+**Parent Topic:**[Partner Relationship Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/partner-relationship-management-reference.md)
 
-## Related
-
-- [[partner-relationship-management-reference|Partner Relationship Management reference]]
-- [[deal-registration-management|Deal Registration]]

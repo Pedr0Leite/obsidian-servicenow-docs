@@ -14,16 +14,16 @@ breadcrumb: [Configure rules to manage findings, Implement, Unified Security Exp
 
 By configuring remediation task rules, you can automatically group findings based on filter conditions.
 
-In the [[sem-workspace-user-interface|Security Exposure Management Workspace]], you can set up a single assignment rule that applies to all types of findings, including vulnerable items \(VITs\), application [[vulnerabilities|vulnerabilities]] \(AVITs\), container vulnerabilities \(CVITs\), and configuration test results \(CTRs\). This rule can then be applied to all the findings or a specific combination of findings.
+In the Security Exposure Management Workspace, you can set up a single assignment rule that applies to all types of findings, including vulnerable items \(VITs\), application vulnerabilities \(AVITs\), container vulnerabilities \(CVITs\), and configuration test results \(CTRs\). This rule can then be applied to all the findings or a specific combination of findings.
 
 You can also configure the remediation task rule execution mode to control whether the system evaluates all matching rules \(Match All\) or stops at the first match \(Match First\).
 
-**Parent Topic:**[[sem-configure-rules-manage-findings|Configure rules to manage findings]]
+**Parent Topic:**[Configure rules to manage findings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-configure-rules-manage-findings.md)
 
 **Related topics**  
 
 
-[[sem-grouping-multiple-findings-remediation-tasks-processing|Grouping multiple findings as remediation tasks for easy processing using remediation task rules]]
+[Grouping multiple findings as remediation tasks for easy processing using remediation task rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-grouping-multiple-findings-remediation-tasks-processing.md)
 
 ## Create remediation task rules
 
@@ -31,11 +31,11 @@ Create remediation task rules to automatically group findings based on filter co
 
 ### Before you begin
 
-Role required: See [[sem-acls-for-admin-rules|Access control lists \(ACLs\) for administration rules]]
+Role required: See [Access control lists \(ACLs\) for administration rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-acls-for-admin-rules.md)
 
 ### About this task
 
-The base system ships with one remediation task rule, **Vulnerability**, which groups vulnerable items by vulnerability and assignment group \(from Assignment rules\). You can reapply the rules from the form or list view. For some sample entries, see [[vul-group-rules-examples-v10|Vulnerability Response remediation task rule examples]].
+The base system ships with one remediation task rule, **Vulnerability**, which groups vulnerable items by vulnerability and assignment group \(from Assignment rules\). You can reapply the rules from the form or list view. For some sample entries, see Vulnerability Response remediation task rule examples.
 
 This rule can be modified by using filter conditions and Group by choices. By default, remediation tasks use Assignment Rules, when available, as part of their filter criteria.
 
@@ -173,11 +173,4 @@ To automate the assignment of tasks created based on this rule, choose one of th
 </td></tr></tbody>
 </table>6.  Select **Save**.
 
-## Related
 
-- [[sem-configure-rules-manage-findings|Configure rules to manage findings]]
-- [[sem-grouping-multiple-findings-remediation-tasks-processing|Grouping multiple findings as remediation tasks for easy processing using remediation task rules]]
-- [[sem-acls-for-admin-rules|Access control lists \(ACLs\) for administration rules]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[vul-group-rules-examples-v10|Vulnerability Response remediation task rule examples]]

@@ -12,9 +12,9 @@ breadcrumb: [Setup for a BCP, Configure, Business Continuity Management, Governa
 
 # Configuring plan template
 
-As a BCP plan manager, you can [[create-bcp-plan-in-uib-ws|create a business continuity plan]] that can be used for your respective business units during a disruptive event. The [[business-continuity-mangmt-overview|Business Continuity Management]] application provides pre-configured business continuity plan templates. You can streamline the process of a plan creation by using pre-configured plan templates. You can also create a plan template for your business requirement.
+As a BCP plan manager, you can create a business continuity plan that can be used for your respective business units during a disruptive event. The Business Continuity Management application provides pre-configured business continuity plan templates. You can streamline the process of a plan creation by using pre-configured plan templates. You can also create a plan template for your business requirement.
 
-You can view the pre-configured plan templates for [[bcp-uib|business continuity planning]] in the **General [[Administration|Administration]]** section in the application navigator.
+You can view the pre-configured plan templates for business continuity planning in the **General Administration** section in the application navigator.
 
 Using a plan template gives you a standard plan layout that has the document sections, loss scenarios, and primary elements that are to be recovered. Plan templates help you to focus on the plan content, its tasks, and the effective implementation of the plan.
 
@@ -44,7 +44,7 @@ See the table for more information on different types of demo data plan template
 
 ## Creating a plan template for your business requirement
 
-Instead of using the demo data templates, you can create a template for your specific requirement. For more information on creating a plan template for your business requirement, see [[configure-a-bcp-template-uib-ws|Configure the business continuity plan template]].
+Instead of using the demo data templates, you can create a template for your specific requirement. For more information on creating a plan template for your business requirement, see [Configure the business continuity plan template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-a-bcp-template-uib-ws.md).
 
 ## Pre-populating tasks and strategies with templates
 
@@ -58,17 +58,8 @@ Task dependencies that are defined inside a task template group are preserved on
 
 -   **[Configure the business continuity plan template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-a-bcp-template-uib-ws.md)**  
 Configure the business continuity plan template in the Business Continuity Management application for your business. You can use the plan template to recover a specific primary element such as Employees or Web Servers. Similarly, you can create a plan template for different plan authoring types such as documentation, loss scenarios, and recovery tasks.
--   **[[create-task-temp-temp-groups|Configure Task templates and Task template groups]]**  
+-   **[Configure Task templates and Task template groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-task-temp-temp-groups.md)**  
 Create task templates and task template groups to save individual tasks or groups of tasks for reuse. Add templates to new plans or insert them into existing ones.
 
-**Parent Topic:**[[bcp-admin-tasks|Setup for a business continuity plan]]
+**Parent Topic:**[Setup for a business continuity plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bcp-admin-tasks.md)
 
-## Related
-
-- [[configure-a-bcp-template-uib-ws|Configure the business continuity plan template]]
-- [[create-task-temp-temp-groups|Configure Task templates and Task template groups]]
-- [[bcp-admin-tasks|Setup for a business continuity plan]]
-- [[create-bcp-plan-in-uib-ws|Create a business continuity plan]]
-- [[business-continuity-mangmt-overview|Business Continuity Management]]
-- [[bcp-uib|Business continuity planning]]
-- [[Administration|Administration]]

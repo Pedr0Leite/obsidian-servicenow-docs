@@ -14,7 +14,7 @@ breadcrumb: [Discovery patterns used by ITOM Visibility, ITOM Visibility, IT Ope
 
 # Create or customize patterns
 
-Create or modify a [[r-discovery|discovery]] pattern and define its basic attributes.
+Create or modify a discovery pattern and define its basic attributes.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Basic knowledge of programming is desirable.
 
 ## About this task
 
-Patterns can be of the infrastructure or application type. Infrastructure patterns are used only by Discovery for creating lists of devices. Application patterns serve both [[c_ServiceMappingOverview|Service Mapping]] and Discovery, which use the same application patterns for their purposes.
+Patterns can be of the infrastructure or application type. Infrastructure patterns are used only by Discovery for creating lists of devices. Application patterns serve both Service Mapping and Discovery, which use the same application patterns for their purposes.
 
 ## Procedure
 
@@ -146,7 +146,3 @@ For application type patterns, continue with creating a connection section as de
 
 [KB0854603: Pattern Debugger Session Timed Out](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0854603)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

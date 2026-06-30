@@ -20,13 +20,13 @@ Role required: sn\_customerservice\_customer or sn\_customerservice\_consumer
 
 ## About this task
 
-The Service Portal [[r_CustomerServiceCaseForm|Case form]] displays [[osp-contextual-search|contextual search]] results based on text entered in the Subject field. These search results provide targeted solutions to customers. Customers can search for information that is related to a case when opening a case. If the search results in any related content, the customer can preview the content.
+The Service Portal Case form displays contextual search results based on text entered in the Subject field. These search results provide targeted solutions to customers. Customers can search for information that is related to a case when opening a case. If the search results in any related content, the customer can preview the content.
 
 **Note:** By default, search results include knowledge articles, solved community questions and blogs, and pinned articles.
 
 ## Procedure
 
-1.  Navigate to the [[c_CustomerServiceManagement|Customer Service Management]] Service Portal and then **All** &gt; **Support** &gt; **New Cases**.
+1.  Navigate to the Customer Service Management Service Portal and then **All** &gt; **Support** &gt; **New Cases**.
 
 2.  Click **Product Case** or **Order Case**.
 
@@ -44,8 +44,4 @@ The Service Portal [[r_CustomerServiceCaseForm|Case form]] displays [[osp-contex
 
 6.  Click **Submit**.
 
-## Related
 
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[osp-contextual-search|Contextual search]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

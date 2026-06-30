@@ -14,7 +14,7 @@ breadcrumb: [Managing IT services in your organization, Service Operations Works
 
 # Service Level Management in Service Operations Workspace
 
-You can access the service level agreement \(SLA\) information for an incident on the Service Operations Workspace [[dex-workspace-dashboard-tab|landing page]] and incident record page.
+You can access the service level agreement \(SLA\) information for an incident on the Service Operations Workspace landing page and incident record page.
 
 ## SLA information on the Service Operations Workspace landing page
 
@@ -31,7 +31,7 @@ For information about monitoring SLAs, see [Monitoring Service Level Agreement \
 
 [Knowledge Management in Service Operations Workspace]()
 
-[Major [[c_IncidentManagement|Incident Management]] in Service Operations Workspace]()
+[Major Incident Management in Service Operations Workspace]()
 
 [On-Call Scheduling in Service Operations Workspace]()
 
@@ -63,7 +63,7 @@ Monitor task service level agreements \(SLAs\) displayed on an incident record p
 
 Role required: itil or admin
 
-The following [[sla-timer|SLA timer]] configurations display the response and resolution SLA for an incident.
+The following SLA timer configurations display the response and resolution SLA for an incident.
 
 -   Incident Response
 -   Incident Resolution
@@ -87,8 +87,4 @@ You should configure SLA timer configuration mappings for these timer configurat
 
     A list of all task SLAs is displayed.
 
-## Related
 
-- [[dex-workspace-dashboard-tab|Landing page]]
-- [[c_IncidentManagement|Incident Management]]
-- [[sla-timer|SLA timer]]

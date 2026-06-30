@@ -12,7 +12,7 @@ breadcrumb: [Licensing for IT Asset Management, IT Asset Management]
 
 # Subscription summary for IT Asset Management application
 
-You can view how many subscriptions for [[it-asset-management|IT Asset Management]] applications your organization purchased and allocated.
+You can view how many subscriptions for IT Asset Management applications your organization purchased and allocated.
 
 Review the configuration item \(CI\) allocation and allocation level to see how your organization uses IT Asset Management application subscriptions and plan upcoming subscription needs.
 
@@ -30,7 +30,7 @@ View the following statistics on subscriptions purchased a la carte and by bundl
 
 -   **Allocated**
 
-    The number of consumed subscriptions from a bundle or application \(a la carte\). For bundles, this field shows the highest number of consumed subscriptions by applications that are part of the bundle. For example, if [[c_SoftwareAssetMgmt|Software Asset Management]] consumed 300 subscriptions and [[ham-landing-page|Hardware Asset Management]] consumed 200 subscriptions, this field shows 300 for the bundle covering these applications.
+    The number of consumed subscriptions from a bundle or application \(a la carte\). For bundles, this field shows the highest number of consumed subscriptions by applications that are part of the bundle. For example, if Software Asset Management consumed 300 subscriptions and Hardware Asset Management consumed 200 subscriptions, this field shows 300 for the bundle covering these applications.
 
     The color code indicates the percentage of the subscriptions that your organization consumed. By default, the color code threshold is 90%.
 
@@ -46,7 +46,7 @@ The licensing module calculates and displays subscription consumption as follows
 
 -   **Subscriptions by bundle only**
 
-    When you purchase subscriptions in bundles, you get the same number of subscriptions for all IT Asset Management applications covered by the bundle. For example, for a bundle of 500 that covers Software Asset Management and Hardware Asset Management, your organization receives 500 [[sam-subscription|subscriptions for Software Asset Management]] and 500 subscriptions for Hardware Asset Management.
+    When you purchase subscriptions in bundles, you get the same number of subscriptions for all IT Asset Management applications covered by the bundle. For example, for a bundle of 500 that covers Software Asset Management and Hardware Asset Management, your organization receives 500 subscriptions for Software Asset Management and 500 subscriptions for Hardware Asset Management.
 
     The licensing module subtracts the number of consumed subscriptions from the bundle subscriptions for the relevant application. Bundle subscriptions cover specific applications. You cannot use bundle subscriptions for other applications, even if these other applications are part of the same bundle. For example, you purchased a bundle of 500 covering Software Asset Management and Hardware Asset Management, and you used up all 500 Software Asset Management subscriptions. You cannot use the spare Hardware Asset Management subscriptions for Software Asset Management.
 
@@ -68,9 +68,4 @@ The licensing module calculates and displays subscription consumption as follows
 
     If your organization exceeds the number of subscriptions purchased in bundle and a la carte, the licensing module considers it as overdrawn from the a la carte subscriptions. In this case, the Subscriptions window indicates that the a la carte subscriptions are overdrawn.
 
-## Related
 
-- [[it-asset-management|IT Asset Management]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[ham-landing-page|Hardware Asset Management]]
-- [[sam-subscription|Subscriptions for Software Asset Management]]

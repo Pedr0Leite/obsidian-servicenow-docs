@@ -15,7 +15,7 @@ breadcrumb: [Managing indexed sources, Using AI Search Admin console, AI Search 
 
 # Set up a field configuration for an indexed source
 
-Set up indexed source field [[clone-configurations-tab|configurations]] to control how [[ia-ai-search|AI Search]] indexes content for a specific field in your source table records.
+Set up indexed source field configurations to control how AI Search indexes content for a specific field in your source table records.
 
 ## Before you begin
 
@@ -58,7 +58,7 @@ Field configuration
 Options to adjust the indexing behavior for source record fields in anAI Search indexed source. You can select a field setting from the following list of options:-   **Exclude field from index**: Option to exclude content from a specific field in your records from being searchable in AI Search.
 -   **Exclude field from search**: Option to disable search matching for content that is indexed from the selected field.
 -   **Include calculated field in index**: Option to enable indexing of searchable content from the calculated field values.
--   **Include dot-walk fields in index**: Index [[reference-email-admin|reference]] and [[c_DisplayValues|display values]] from the reference field's source table for use in search filters and result configurations.
+-   **Include dot-walk fields in index**: Index reference and display values from the reference field's source table for use in search filters and result configurations.
 -   **Remap AI Search fields**: Option to map the selected field from the indexed source table to an AI Search index field. AI Search fills the index field with the value from the source field when indexing records.
 
 
@@ -129,9 +129,3 @@ To make the new field configurations take effect, perform a full table reindex f
 
 **Parent Topic:**[Managing indexed sources from the AI Search Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/ais-managing-indexed-source.md)
 
-## Related
-
-- [[clone-configurations-tab|Configurations]]
-- [[ia-ai-search|AI Search]]
-- [[reference-email-admin|Reference]]
-- [[c_DisplayValues|Display values]]

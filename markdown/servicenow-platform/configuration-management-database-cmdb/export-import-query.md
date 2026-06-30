@@ -14,7 +14,7 @@ breadcrumb: [CMDB Query Builder, Configuration Management Database \(CMDB\), Con
 
 # Export and import a CMDB query
 
-Export a saved CMDB or Service Mapping query definition to an XML file which you can later import and run in the [[cmdb-query-builder-landing-page|CMDB Query Builder]]. This process lets you port a saved query between instances, such as from a development environment to a production environment.
+Export a saved CMDB or Service Mapping query definition to an XML file which you can later import and run in the CMDB Query Builder. This process lets you port a saved query between instances, such as from a development environment to a production environment.
 
 ## Before you begin
 
@@ -51,6 +51,4 @@ For backward compatibility, you can alternatively [Export and import a query as 
 
         The imported query is available in the **Saved Queries** tab of the CMDB Query Builder on the instance.
 
-## Related
 
-- [[cmdb-query-builder-landing-page|CMDB Query Builder]]

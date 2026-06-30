@@ -14,15 +14,15 @@ breadcrumb: [Admin Center in Service Operations Workspace for ITSM, Configuring 
 
 # Migrate the existing charts to PAR dashboard in Service Operations Workspace for ITSM
 
-You can migrate the common customizations and configurations of the existing dashboard to the Performance Analytics dashboard\(PAR dashboard\) using the on-screen [[migration-utility|migration utility]]. With this migration, you won't have to re-do the customizations for the PAR dashboard in [[sow-landing-page|Service Operations Workspace for ITSM]] to view the data.
+You can migrate the common customizations and configurations of the existing dashboard to the Performance Analytics dashboard\(PAR dashboard\) using the on-screen migration utility. With this migration, you won't have to re-do the customizations for the PAR dashboard in Service Operations Workspace for ITSM to view the data.
 
 ## Before you begin
 
 Ensure that the scope is set as Service Operations Workspace ITSM Common before you perform the migration.
 
-**Note:** If you haven't customized the [[dex-workspace-dashboard-tab|landing page]], the system will be automatically [[migrated-records|migrated]] to the PAR dashboard. Once migrated, you can leverage the configuration options and features provided by the PAR dashboard.
+**Note:** If you haven't customized the landing page, the system will be automatically migrated to the PAR dashboard. Once migrated, you can leverage the configuration options and features provided by the PAR dashboard.
 
-The [[migration-utility-modification|modifications]] made by overriding the `sys_ux_client_script_include` methods for `SowIncidentLandingPageUtilsSNC` and `SOWLandingPageTier2UtilsSNC` are considered for migration. These changes are applied to `SowIncidentLandingPageUtils` for Tier 1 and `SOWLandingPageTier2Utils` for Tier 2 dashboards. If you've created the scripts to override the methods in the SNC version, you must copy those changes to the corresponding non-SNC scripts.
+The modifications made by overriding the `sys_ux_client_script_include` methods for `SowIncidentLandingPageUtilsSNC` and `SOWLandingPageTier2UtilsSNC` are considered for migration. These changes are applied to `SowIncidentLandingPageUtils` for Tier 1 and `SOWLandingPageTier2Utils` for Tier 2 dashboards. If you've created the scripts to override the methods in the SNC version, you must copy those changes to the corresponding non-SNC scripts.
 
 Role required: admin
 
@@ -51,10 +51,3 @@ Role required: admin
 
 **Parent Topic:**[Admin Center in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/admin-center-sow.md)
 
-## Related
-
-- [[migration-utility|Migration Utility]]
-- [[sow-landing-page|Service Operations Workspace for ITSM]]
-- [[dex-workspace-dashboard-tab|Landing page]]
-- [[migrated-records|Migrated]]
-- [[migration-utility-modification|Modifications]]

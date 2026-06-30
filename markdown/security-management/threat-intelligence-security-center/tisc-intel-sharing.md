@@ -14,7 +14,7 @@ breadcrumb: [Administer, Threat Intelligence Security Center, Security Operation
 
 # Configuring Threat Intelligence External Sharing
 
-[[threat-intel-landing-page|Threat Intelligence]] external sharing in TISC outlines the guidelines and functionalities for both automated and sharing from GUI of threat intelligence within and across organizations. This feature focuses on key areas such as sharing exclusion rules, approvals, data retention, and auditing to confirm secure, compliant, and efficient intelligence sharing.
+Threat Intelligence external sharing in TISC outlines the guidelines and functionalities for both automated and sharing from GUI of threat intelligence within and across organizations. This feature focuses on key areas such as sharing exclusion rules, approvals, data retention, and auditing to confirm secure, compliant, and efficient intelligence sharing.
 
 ## External Sharing of Threat Intelligence with Threat Intelligence Security Center \(TISC\)
 
@@ -27,7 +27,7 @@ breadcrumb: [Administer, Threat Intelligence Security Center, Security Operation
 -   **Redaction Capabilities**: Analysts have the ability to redact sensitive information from shared intelligence, with easy options to toggle redaction on or off.
 -   **Audit Capabilities**: Every intelligence sharing action is audited, capturing details including the sender, recipient, timestamp, and shared content to ensure full compliance and traceability.
 -   **Data Retention Policies**: Shared intelligence and related audit logs are retained per compliance requirements, with defined rules for archival and destruction of various record types.
--   **TISC to TISC Exchange**: Mechanisms for efficient, bi-directional intelligence exchange between [[tisc-landing-page|Threat Intelligence Security Center]] \(TISC\) instances.
+-   **TISC to TISC Exchange**: Mechanisms for efficient, bi-directional intelligence exchange between Threat Intelligence Security Center \(TISC\) instances.
 -   **User and Group Management for TAXII**: Defines TAXII users and groups by managing their access to collections, and maintaining secure data exchange protocols.
 
 -   **[Exploring Outbound Intel Sharing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-outbound-intel-sharing.md)**  
@@ -37,7 +37,3 @@ Inbound intelligence sharing in TISC allows you to create profiles of external s
 -   **[Exploring TAXII Outbound Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-taxii-outbound-server.md)**  
 TAXII collections are logical groupings of threat intelligence data.
 
-## Related
-
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]

@@ -14,7 +14,7 @@ breadcrumb: [Exploring Project Management, Project Management, Project Portfolio
 
 # Basics of Project Management
 
-Learn about the basic terms used in [[c_ProjectApplicationOverview|Project Management]].
+Learn about the basic terms used in Project Management.
 
 ## Bottom-up Tasking
 
@@ -39,8 +39,8 @@ The Project Management application enables you a create parent-child relationshi
 |Lag time|A manually specified time break between predecessor and successor tasks.|
 |Parent task|A project task with smaller tasks, referred to as child tasks, underneath it. Child tasks break down the work of a parent task into more manageable subsets. Certain fields for child tasks, such as planned end date, roll up and affect the same field in the parent task.|
 |Child task|A project task that is a subset of a larger task. Child task start dates cannot occur before the start date of the parent task.|
-|Rollup task|Another term for a parent task in the context of aggregating child task items, such as effort or resources, into a larger parent task calculation. All fields on rollup task [[form-field-information-for-dw|forms]] are read-only.|
-|Roll down|State changes roll down from the project to [[t_CreateAProjectTask|project tasks]], and from parent tasks to child tasks.|
+|Rollup task|Another term for a parent task in the context of aggregating child task items, such as effort or resources, into a larger parent task calculation. All fields on rollup task forms are read-only.|
+|Roll down|State changes roll down from the project to project tasks, and from parent tasks to child tasks.|
 
 **Note:** Only one relationship can exist between two tasks.
 
@@ -50,9 +50,9 @@ The Project Management application provides several properties that control how 
 
 The Project Management application supports several types of dependencies.
 
-The [[project-task-form|Project Task form]] includes a **Time Constraint** field, which can be one of the following values:
+The Project Task form includes a **Time Constraint** field, which can be one of the following values:
 
--   If a task is set to **Start ASAP**: The task appears on the [[c_GanttChart|Gantt chart]] as starting when the dependency allows it. However, a task can start on a later date when a lag value is set for the relationship.
+-   If a task is set to **Start ASAP**: The task appears on the Gantt chart as starting when the dependency allows it. However, a task can start on a later date when a lag value is set for the relationship.
 -   If a task is set to **Start on specific date**: The task appears on the Gantt chart as starting on the constraint date. The start date of such a task is not impacted even after you put the task in a relation to another task, for example, FS relation.
 -   If a task is set to **Start no earlier than**: The task appears on the Gantt chart as starting on or after the constraint date. If the task has no predecessor, the task starts on the specified date. The start date changes to a later date based on the predecessor task end date or if the task is in a relation to another task, for example, FS relationship.
 -   If a task is set to **Start no later than**: The task appears on the Gantt chart as starting on or before the constraint date. If the task has any predecessor task, the dependency on the predecessor task determines when the task can start. A scheduling conflict occurs if the predecessor task attempts to move the task beyond the date specified in the **Constraint date** field.
@@ -131,11 +131,11 @@ In the base system, the states in project and project task inherit the states in
 -   **[Composite Fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/pm-composite-fields.md)**  
 A composite field combines information from two fields in a table to form a single field.
 -   **[Cost plan breakdown](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/cost-plan-breakdown.md)**  
-A [[cost-plan-breakdown|cost plan breakdown]] captures the estimated cost and actual cost for every fiscal period. Cost plan, project, demand, program, and portfolio are the breakdowns types that are available.
+A cost plan breakdown captures the estimated cost and actual cost for every fiscal period. Cost plan, project, demand, program, and portfolio are the breakdowns types that are available.
 -   **[Actual project costs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/actual-project-costs.md)**  
-[[actual-project-costs|Actual project costs]] come after you create expense lines for cost plans or after human resources use [[c_TimeCards|time cards]] to create expense lines.
+Actual project costs come after you create expense lines for cost plans or after human resources use time cards to create expense lines.
 -   **[Types of external dependencies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/external-dependency-types.md)**  
-The Project management application supports two [[external-dependency-types|types of external dependencies]] - hard and soft.
+The Project management application supports two types of external dependencies - hard and soft.
 -   **[Project and portfolio funding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_ProjectAndPortfolioFunding.md)**  
 Specify the amount of money that projects and portfolios are allowed to have.
 
@@ -148,14 +148,3 @@ Specify the amount of money that projects and portfolios are allowed to have.
 
 [Create a parent-child relationship on the Project Task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateParentChildRelationship.md)
 
-## Related
-
-- [[c_ProjectApplicationOverview|Project Management]]
-- [[form-field-information-for-dw|Forms]]
-- [[t_CreateAProjectTask|Project tasks]]
-- [[project-task-form|Project task form]]
-- [[c_GanttChart|Gantt chart]]
-- [[cost-plan-breakdown|Cost plan breakdown]]
-- [[actual-project-costs|Actual project costs]]
-- [[c_TimeCards|Time cards]]
-- [[external-dependency-types|Types of external dependencies]]

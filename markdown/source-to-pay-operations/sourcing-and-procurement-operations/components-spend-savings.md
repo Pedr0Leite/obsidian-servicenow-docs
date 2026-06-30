@@ -14,14 +14,14 @@ breadcrumb: [Spend and Savings Management, Explore, Sourcing and Procurement Ope
 
 # Components installed with Spend and Savings Management
 
-Several types of components are installed with activation of the [[spo-spend-mgmt|Spend and Savings Management]] \(sn\_spend\_mgmt\) plugin, including user roles and tables.
+Several types of components are installed with activation of the Spend and Savings Management \(sn\_spend\_mgmt\) plugin, including user roles and tables.
 
 ## Roles installed
 
 |Role title \[name\]|Description|Contains roles|
 |-------------------|-----------|--------------|
 |sn\_spend\_mgmt.category\_manager\_admin|Can import the category taxonomy, update the Spend Category and Spend Category Stage tables and update the Spend category to Product category mappings.|None|
-|sn\_spend\_mgmt.sourcing\_category\_manager|Can view and access the [[category-mgmt-tab|Category management tab]] and the [[spo-savings-dashboard|Savings dashboard]] in Spend and Savings Management.|sn\_shop.procurement\_specialist|
+|sn\_spend\_mgmt.sourcing\_category\_manager|Can view and access the Category management tab and the Savings dashboard in Spend and Savings Management.|sn\_shop.procurement\_specialist|
 
 ## Tables installed
 
@@ -60,8 +60,3 @@ Stores the mapping of spend categories to product categories.
 </td></tr></tbody>
 </table>**Parent Topic:**[Spend and Savings Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-spend-mgmt.md)
 
-## Related
-
-- [[spo-spend-mgmt|Spend and Savings Management]]
-- [[category-mgmt-tab|Category management tab]]
-- [[spo-savings-dashboard|Savings dashboard]]

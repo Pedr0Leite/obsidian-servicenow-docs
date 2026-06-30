@@ -14,15 +14,11 @@ breadcrumb: [Configure Appointment Booking, Configuring Appointment Booking, Add
 
 # Enable and configure appointment slot recommendation
 
-[[appointment-booking|Appointment Booking]] slot recommendation rules assist in identifying the optimal appointment times for customers. These recommended slots enable customers to efficiently choose the most suitable available appointment times.
+Appointment Booking slot recommendation rules assist in identifying the optimal appointment times for customers. These recommended slots enable customers to efficiently choose the most suitable available appointment times.
 
-The steps to enable and [[configure-appointment-booking|configure Appointment Booking]] slot recommendation are:
+The steps to enable and configure Appointment Booking slot recommendation are:
 
 1.  [Enable appointment booking slot recommendation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/enable-appointment-booking-slot-recommendation.md)
 2.  [Create or modify an appointment booking slot recommendation rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/create-or-modify-an-appointment-booking-slot-recommendation-rule.md)
 3.  [Add selection criteria for an appointment slot recommendation rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/add-selection-criteria-for-an-appointment-slot-recommendation-rule.md)
 
-## Related
-
-- [[appointment-booking|Appointment booking]]
-- [[configure-appointment-booking|Configure Appointment Booking]]

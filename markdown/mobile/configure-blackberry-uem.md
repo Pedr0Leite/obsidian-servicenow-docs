@@ -55,8 +55,5 @@ Role required: admin
     **Note:** If using the instructions above to setup the BlackBerry Access browser as your authentication browser, you must also have an app configuration setup for the BlackBerry Access app. This is necessary to successfully authenticate to ServiceNow integrated apps.
 
 
-**Parent Topic:**[[blackberry-uem|BlackBerry Unified Endpoint Management \(UEM\)]]
+**Parent Topic:**[BlackBerry Unified Endpoint Management \(UEM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/blackberry-uem.md)
 
-## Related
-
-- [[blackberry-uem|BlackBerry Unified Endpoint Management \(UEM\)]]

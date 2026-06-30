@@ -16,7 +16,7 @@ How to clear up space in a Salesforce test environment that is near its storage 
 
 Occasionally, administrators work in a Salesforce test environment that is approaching its storage limit. If Salesforce complains that you are over your storage allocation, it’s time to free up space.
 
-One option is to remove records from the ConfigurationBOM table. For managed packages v1.0 or greater, remove Configuration Line Item and Configuration Field Data [[cpq-sets|Sets]] instead.
+One option is to remove records from the ConfigurationBOM table. For managed packages v1.0 or greater, remove Configuration Line Item and Configuration Field Data Sets instead.
 
 **Warning:** These steps delete data. Follow them only in non-production environments.
 
@@ -34,7 +34,7 @@ One option is to remove records from the ConfigurationBOM table. For managed pac
 
     -   LGK\_\_ConfigurationLineItem\_\_c
     -   LGK\_\_ConfigurationFieldData\_\_c
-    **Note:** Salesforce only allows DML statements such as these to run in batches of 10,000 or fewer records at a time. If the record has more than 10,000 records, [[Modify|modify]] the query in step 2 with the following, and run the modified query as many times as necessary.
+    **Note:** Salesforce only allows DML statements such as these to run in batches of 10,000 or fewer records at a time. If the record has more than 10,000 records, modify the query in step 2 with the following, and run the modified query as many times as necessary.
 
     ```
     delete [SELECT id FROM LGK__ConfigurationBOM__c LIMIT 10000];
@@ -53,7 +53,4 @@ One option is to remove records from the ConfigurationBOM table. For managed pac
 
     Alternately, in Salesforce Admin → 9 dot menu → search Recycle Bin, navigate to Recycle Bin → Empty Org Recycle Bin.
 
-## Related
 
-- [[cpq-sets|Sets]]
-- [[Modify|Modify]]

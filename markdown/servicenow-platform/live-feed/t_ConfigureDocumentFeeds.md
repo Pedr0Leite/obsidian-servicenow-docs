@@ -14,7 +14,7 @@ breadcrumb: [Document feeds, Administering Live Feed, Live Feed Core UI, Manage 
 
 # Configure document feeds
 
-You can configure a table to support [[c_DocumentFeeds|document feeds]].
+You can configure a table to support document feeds.
 
 ## Before you begin
 
@@ -42,6 +42,3 @@ Role required: personalize\_dictionary or admin
 
 [Business rule installed with Live Feed Document]()
 
-## Related
-
-- [[c_DocumentFeeds|Document feeds]]

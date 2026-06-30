@@ -24,7 +24,7 @@ Role required: admin or notification\_dashboard\_admin
 
 1.  Navigate to **All** &gt; **Platform Analytics Administration** &gt; **Indicators** &gt; **Automated Indicators**.
 
-2.  From Indicators, search for **Email [[notifications|Notifications]] Sent**.
+2.  From Indicators, search for **Email Notifications Sent**.
 
 3.  Select and open **Email Notifications Sent**.
 
@@ -63,9 +63,5 @@ Role required: admin or notification\_dashboard\_admin
     Once the jobs are completed and the data is collected, the data is visible in the email notifications dashboard.
 
 
-**Parent Topic:**[[email-notifications-dashboard|Email notifications dashboard]]
+**Parent Topic:**[Email notifications dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/email-notifications-dashboard.md)
 
-## Related
-
-- [[email-notifications-dashboard|Email notifications dashboard]]
-- [[notifications|Notifications]]

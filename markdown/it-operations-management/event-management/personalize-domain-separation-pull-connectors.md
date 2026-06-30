@@ -24,7 +24,7 @@ Make sure that you have the following setup:
 -   You enabled the **evt\_mgmt.connector\_enable\_custom\_domain\_separation** system property .
 -   You installed the following plug-ins on your ServiceNow instance:
 
-    -   [[c_EM|Event Management]] **com.glideapp.itom.snac** plug-in
+    -   Event Management **com.glideapp.itom.snac** plug-in
     -   Event Management connectors **sn\_em\_connector** plug-in
     -   Domain Support - Domain Extensions Installer **com.glide.domain.msp\_extensions.installer** plug-in
     You can download the plug-ins from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do).
@@ -142,6 +142,3 @@ The Event Management connector is set up for domain separation.
 
 **Parent Topic:**[Event Management Connectors domain personalization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/domain-separation-connectors-personalization.md)
 
-## Related
-
-- [[c_EM|Event Management]]

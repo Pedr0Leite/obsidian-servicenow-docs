@@ -14,7 +14,7 @@ breadcrumb: [Resource allocation, Resource Management classic, Project Portfolio
 
 # Reject a resource plan from the Resource Plan form
 
-Resource managers can reject plans from the [[rsrc-plan-form|Resource Plan form]] or from the Resource Workbench.
+Resource managers can reject plans from the Resource Plan form or from the Resource Workbench.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: resource\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Resource** &gt; **[[c_ResourcePlans|Resource Plans]]** &gt; **Requested**.
+1.  Navigate to **All** &gt; **Resource** &gt; **Resource Plans** &gt; **Requested**.
 
 2.  Open the plan to reject.
 
@@ -42,7 +42,3 @@ Role required: resource\_manager
 
 [Create allocations]()
 
-## Related
-
-- [[rsrc-plan-form|Resource Plan form]]
-- [[c_ResourcePlans|Resource plans]]

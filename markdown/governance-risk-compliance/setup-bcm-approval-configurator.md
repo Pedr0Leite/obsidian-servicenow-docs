@@ -52,7 +52,7 @@ Applies to
 
 </td><td>
 
-Table such as a [[bia-uib|business impact analysis]], business continuity plan, events, or any table from which a record is submitted for approval.
+Table such as a business impact analysis, business continuity plan, events, or any table from which a record is submitted for approval.
 
 </td></tr><tr><td>
 
@@ -84,9 +84,5 @@ Option to enable the approval configuration as active.
 4.  Click **Submit**.
 
 
-**Parent Topic:**[[bcm-approval-configuration|Approval configuration]]
+**Parent Topic:**[Approval configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bcm-approval-configuration.md)
 
-## Related
-
-- [[bcm-approval-configuration|Approval configuration]]
-- [[bia-uib|Business impact analysis]]

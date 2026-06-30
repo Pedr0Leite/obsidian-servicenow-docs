@@ -31,7 +31,7 @@ To create CMDB relationships between APIs and application services or business a
 
 ## Define tag-based mapping rules
 
-Establish relationships between APIs and application services by defining tag-based mapping rules for APIs available within the [[api-insights|API Insights]] application.
+Establish relationships between APIs and application services by defining tag-based mapping rules for APIs available within the API Insights application.
 
 ### Before you begin
 
@@ -80,6 +80,3 @@ For each active tag-based relationship rule, the **Tag based relationship mappin
 
 By automating the process of creating relationships based on tags, the **Tag-based relationship mapping** scheduled job enables maintaining up-to-date and accurate mappings between APIs and related application services or business applications.
 
-## Related
-
-- [[api-insights|API Insights]]

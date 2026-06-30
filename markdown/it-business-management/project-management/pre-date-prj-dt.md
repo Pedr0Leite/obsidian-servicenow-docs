@@ -18,7 +18,7 @@ Move the planned start date of a task prior to the planned start date of a proje
 
 ## Before you begin
 
-You should have created or added [[t_CreateAProjectTask|project tasks]] to your project.
+You should have created or added project tasks to your project.
 
 Role required: it\_project\_manager
 
@@ -36,7 +36,7 @@ Before pre-dating a project task, note the following conditions:
 
 2.  Select the project from the list.
 
-3.  On the [[create-a-project-form|Project form]], update the planned start date for a project task using either of the following options.
+3.  On the Project form, update the planned start date for a project task using either of the following options.
 
 <table id="choicetable_h1v_kq4_nlb"><thead><tr><th align="left" id="d133689e96">
 
@@ -48,7 +48,7 @@ Steps
 
 </th></tr></thead><tbody><tr><td id="d133689e105">
 
-**From the [[project-task-form|Project Task form]]**
+**From the Project Task form**
 
 </td><td>
 
@@ -77,8 +77,3 @@ Steps
 
 [Change the planned start date of a project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/change-planned-start-date-of-project.md)
 
-## Related
-
-- [[t_CreateAProjectTask|Project tasks]]
-- [[create-a-project-form|Project form]]
-- [[project-task-form|Project task form]]

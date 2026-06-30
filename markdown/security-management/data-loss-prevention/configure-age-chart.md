@@ -14,7 +14,7 @@ breadcrumb: [Administer, Data Loss Prevention Incident Response, Security Operat
 
 # Create age chart configurations
 
-Configure the age chart that appears in the [[dlp-landing|Data Loss Prevention Incident Response]] \(DLP IR\) Ops portal. This chart shows the count of open incidents by the number of days.
+Configure the age chart that appears in the Data Loss Prevention Incident Response \(DLP IR\) Ops portal. This chart shows the count of open incidents by the number of days.
 
 ## Before you begin
 
@@ -100,6 +100,3 @@ Role required:
 
 [DLP Incidents Archival]()
 
-## Related
-
-- [[dlp-landing|Data Loss Prevention Incident Response]]

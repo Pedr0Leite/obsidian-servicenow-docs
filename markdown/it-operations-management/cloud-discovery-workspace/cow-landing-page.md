@@ -24,7 +24,7 @@ Choose one of these tiles to get started.
 
 <table id="table_kqk_ttx_r5b" class="nav-card"><tbody><tr><td>
 
-[Install\[Omitted image "bus-database.svg"\] Alt text:](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-[[r-discovery|discovery]]-workspace/install-cloud-ops-wrksp.md)
+[Install\[Omitted image "bus-database.svg"\] Alt text:](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-discovery-workspace/install-cloud-ops-wrksp.md)
 
  Install Cloud Discovery Workspace
 
@@ -41,6 +41,3 @@ Choose one of these tiles to get started.
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[r-discovery|Discovery]]

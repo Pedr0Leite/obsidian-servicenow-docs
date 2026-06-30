@@ -14,7 +14,7 @@ breadcrumb: [Configure Supplier Relationship and Performance Management, Configu
 
 # Create KPIs without using KPI template
 
-You can add new KPIs for a [[supplier|supplier]] without using the existing [[kpi-templates|KPI templates]]. Adding new KPIs directly generates the corresponding KPI templates.
+You can add new KPIs for a supplier without using the existing KPI templates. Adding new KPIs directly generates the corresponding KPI templates.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_kpi.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
 2.  Select the list icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon.\) and navigate to **Lists** &gt; **Performance management** &gt; **KPIs**.
 
@@ -168,7 +168,7 @@ Collection source \(for **Manual** data collection type\)
 
 The user persona that provides the data. The available options are:-   User
 -   Supplier Manager
--   [[supplier-contact|Supplier Contact]]
+-   Supplier Contact
 
 
 </td></tr><tr><td>
@@ -197,7 +197,7 @@ Column of the collection table which refers to the supplier or contract name.
 
 </td></tr><tr><td>
 
-[[kpi-data-table|KPI data table]] column \(for **Automated** data collection type\)
+KPI data table column \(for **Automated** data collection type\)
 
 </td><td>
 
@@ -294,11 +294,3 @@ This KPI is activated only when the following conditions are met:
 
 [Create KPI units](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-kpi-units.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[kpi-templates|KPI templates]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supplier-contact|Supplier contact]]
-- [[kpi-data-table|KPI Data table]]

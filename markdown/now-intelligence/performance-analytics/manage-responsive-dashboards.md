@@ -27,7 +27,7 @@ Role required: dashboard\_admin or admin, or be the owner of the dashboard.
 
 Inform any users that you have shared the dashboard with that you are deleting it. Users may have bookmarked the dashboard or marked it as a favorite. Those users see an error when they try to access a deleted dashboard.
 
-**Note:** This topic refers to Dashboards in the Core UI. If your instance is migrated to [[par-workspace|Platform Analytics experience]], see [[delete-db-in-ac|Delete a Platform Analytics dashboard]].
+**Note:** This topic refers to Dashboards in the Core UI. If your instance is migrated to Platform Analytics experience, see [Delete a Platform Analytics dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/delete-db-in-ac.md).
 
 ### Procedure
 
@@ -69,7 +69,7 @@ When you duplicate a responsive dashboard, its widget layout is preserved. Howev
 
 ### Before you begin
 
-**Note:** This topic refers to Dashboards in the Core UI. If your instance is migrated to Platform Analytics experience, see [[duplicate-db|Duplicate a Platform Analytics dashboard]].
+**Note:** This topic refers to Dashboards in the Core UI. If your instance is migrated to Platform Analytics experience, see [Duplicate a Platform Analytics dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/duplicate-db.md).
 
 Role required: Any user who can share a dashboard can copy it.
 
@@ -176,8 +176,3 @@ Role required: none
 
 Favorite dashboards appear in the favorites tab of the application navigator.
 
-## Related
-
-- [[delete-db-in-ac|Delete a Platform Analytics dashboard]]
-- [[duplicate-db|Duplicate a Platform Analytics dashboard]]
-- [[par-workspace|Platform Analytics experience]]

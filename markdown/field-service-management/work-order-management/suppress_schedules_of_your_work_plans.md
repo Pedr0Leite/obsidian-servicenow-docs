@@ -35,7 +35,7 @@ For example, consider an MRI machine with scheduled maintenance plans for both m
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fsm-application-landing-page|Field Service Management]]** &gt; **[[planned-work-management|Planned Work Management]]** &gt; **Plans**.
+1.  Navigate to **All** &gt; **Field Service Management** &gt; **Planned Work Management** &gt; **Plans**.
 
 2.  Open your work plan.
 
@@ -59,7 +59,7 @@ Suppress Period
 
 </td><td>
 
-Time period during which overlapping schedule occurrences are identified, allowing the system to suppress duplicate work order tasks.The property sn\_fsm\_planned\_wm.tolerance\_span allows you to customize the time window for the suppression period. For more information, see [[planned_work_management_sys_properties|Planned Work Management system properties]].
+Time period during which overlapping schedule occurrences are identified, allowing the system to suppress duplicate work order tasks.The property sn\_fsm\_planned\_wm.tolerance\_span allows you to customize the time window for the suppression period. For more information, see [Planned Work Management system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/planned_work_management_sys_properties.md).
 
 </td></tr><tr><td>
 
@@ -93,8 +93,3 @@ Order in which this suppression rule is evaluated.
 
 The system changes the state of the schedule occurrence to suppressed and cancels the associated work order tasks.
 
-## Related
-
-- [[planned_work_management_sys_properties|Planned Work Management system properties]]
-- [[fsm-application-landing-page|Field Service Management]]
-- [[planned-work-management|Planned Work Management]]

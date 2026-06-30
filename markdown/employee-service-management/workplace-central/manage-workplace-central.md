@@ -16,14 +16,14 @@ breadcrumb: [Workplace Central, Workplace Service Delivery, Employee Service Man
 
 Monitor your workplace-related activities. View the metrics and the list of activities that are created at any time.
 
-To customize a page in the [[workplace-central-feat|Workplace Central]] application, refer to the knowledge base article: [https://support.servicenow.com/kb?id=kb\_article\_view&amp;sysparm\_article=KB1639123](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1639123).
+To customize a page in the Workplace Central application, refer to the knowledge base article: [https://support.servicenow.com/kb?id=kb\_article\_view&amp;sysparm\_article=KB1639123](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1639123).
 
 -   **[Approve a scenario](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/approve-a-scenario.md)**  
 As a workplace manager, you can approve or reject when a scenario is sent for approval
 -   **[View workplace scenarios](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/view-space-optimization-board.md)**  
 Track the number of scenarios created in your workplace. View the scenarios that are in the published state, in the draft state, and more.
 -   **[Raise a space assistance request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/raise-a-space-recommendation-request.md)**  
-Submit a workplace service request to get space allocation recommendations using the [[workplace-services-portal-hr|Workplace Service Portal]]. The [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] [[space-assistance|space assistance]] provides you with the best space allocation plan options based on the space quantity and the department that you specify. You can select the most suitable allocation or none. Depending on your selection, the Space planner deploys the plan to use.
+Submit a workplace service request to get space allocation recommendations using the Workplace Service Portal. The Workplace Service Delivery space assistance provides you with the best space allocation plan options based on the space quantity and the department that you specify. You can select the most suitable allocation or none. Depending on your selection, the Space planner deploys the plan to use.
 -   **[Approve a space assist request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/approve-a-space-assist-request.md)**  
 As a workplace manager, you can approve or reject a space assist request.
 -   **[Manage reservation waitlist records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/rsv-planner-subscribe-waitlist.md)**  
@@ -31,9 +31,3 @@ Workplace Reservation event planners can view and update the weight of a queued 
 
 **Parent Topic:**[Workplace Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/workplace-central-feat.md)
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]
-- [[workplace-services-portal-hr|Workplace Service Portal]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[space-assistance|Space assistance]]

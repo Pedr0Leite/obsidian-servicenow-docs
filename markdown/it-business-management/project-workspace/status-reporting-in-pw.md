@@ -14,11 +14,11 @@ breadcrumb: [Explore, Project Workspace, Project Portfolio Management, Strategic
 
 # Status reporting in Project Workspace
 
-A status report in [[project-workspace-landing-page|Project Workspace]] is a snapshot in time that gives an overview of your overall project health across key areas such as cost, resources, milestones, health, and more.
+A status report in Project Workspace is a snapshot in time that gives an overview of your overall project health across key areas such as cost, resources, milestones, health, and more.
 
 \[Omitted video\] Description: Status reporting in Project Workspace video.
 
-The Status reports in Project Workspace provide a comprehensive, configurable, and customizable view of the current state of a project by capturing and displaying key project metrics such as overall health, schedule, scope, cost, and resource utilization. Status reports help project teams and stakeholders [[t_SDLCPPSTrackProgress|track progress]], identify risks, and manage any project-related issues in real-time.
+The Status reports in Project Workspace provide a comprehensive, configurable, and customizable view of the current state of a project by capturing and displaying key project metrics such as overall health, schedule, scope, cost, and resource utilization. Status reports help project teams and stakeholders track progress, identify risks, and manage any project-related issues in real-time.
 
 |Metric|Description|
 |------|-----------|
@@ -80,7 +80,3 @@ Now Assist health outcomes \(such as red/yellow/green\) are determined by admin-
 
 [Add dynamic content to status report in Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/add-dynamic-content-to-status-report-in-pw.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]
-- [[t_SDLCPPSTrackProgress|Track progress]]

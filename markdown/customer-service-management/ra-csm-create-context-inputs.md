@@ -20,7 +20,7 @@ Role required: sn\_nb\_action.next\_best\_action\_author, or admin
 
 ## About this task
 
-After creating context inputs, you must configure the RA UIB component to pass the context input values. For more information, see [[ra-csm-dynamic-context-inputs|Configuring Recommended Actions UIB component for context inputs]].
+After creating context inputs, you must configure the RA UIB component to pass the context input values. For more information, see [Configuring Recommended Actions UIB component for context inputs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-dynamic-context-inputs.md).
 
 **Note:**
 
@@ -28,7 +28,7 @@ Creating context inputs is not mandatory. You can create context inputs for a co
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[configure-nba|Recommended Actions]]** &gt; **Contexts**.
+1.  Navigate to **All** &gt; **Recommended Actions** &gt; **Contexts**.
 
 2.  Open a context that you want to edit.
 
@@ -96,7 +96,7 @@ Enabling the **Active** check box makes the context input available for use in t
 
 ## Result
 
-The context input appears in the appropriate fields of [[gamification-components-rules|rules]], recommendations, and resource generators.
+The context input appears in the appropriate fields of rules, recommendations, and resource generators.
 
 -   **Default search term** pill picker in the Contextual AI Search Config section of Context form.
 -   **Advanced Condition** drop-down field of the Rule form.
@@ -108,8 +108,3 @@ The context input appears in the appropriate fields of [[gamification-components
 
 Use the context inputs for creating the conditions in rules, and action inputs in recommendations and generator inputs in resources generators.
 
-## Related
-
-- [[ra-csm-dynamic-context-inputs|Context inputs in Recommended Actions]]
-- [[configure-nba|Recommended Actions]]
-- [[gamification-components-rules|Rules]]

@@ -14,7 +14,7 @@ breadcrumb: [Create inventory template relationship, Use, Telecommunications Net
 
 # Create an inventory template for the equipment model
 
-In the Inventory Template form in the [[exploring-network-inventory-workspace|Network Inventory Workspace]] [[network-inventory-workspace-list-view|Lists view]], you can create an inventory template for the equipment model.
+In the Inventory Template form in the Network Inventory Workspace Lists view, you can create an inventory template for the equipment model.
 
 ## Procedure
 
@@ -33,7 +33,7 @@ When you create an equipment inventory model, you must enter the following infor
 
 ## What's next
 
-Next, [[creating-inventory-templates-for-related-interface-card-models|create inventory templates for related interface card models]]. To learn more, see [Create inventory templates for related interface card models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/creating-inventory-templates-for-related-interface-card-models.md).
+Next, create inventory templates for related interface card models. To learn more, see [Create inventory templates for related interface card models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/creating-inventory-templates-for-related-interface-card-models.md).
 
 **Parent Topic:**[Create inventory template relationship](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/creating-inventory-templates-telco-equipment.md)
 
@@ -46,8 +46,3 @@ Next, [[creating-inventory-templates-for-related-interface-card-models|create in
 
 [Create inventory template for network asset instantiation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/preparing-inv-templates-network-asset-generation.md)
 
-## Related
-
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[network-inventory-workspace-list-view|Lists view]]
-- [[creating-inventory-templates-for-related-interface-card-models|Create inventory templates for related interface card models]]

@@ -35,7 +35,7 @@ You can customize the type of the data to be shown in the generated report by up
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace** &gt; **Portfolio Planning**.
+1.  Navigate to **Workspaces** &gt; **Portfolio Planning Workspace** &gt; **Portfolio Planning**.
 
 2.  Export the status of goals, work items, roadmap, and key metrics of your portfolio plan and free-form roadmap into a Microsoft PowerPoint file.
 
@@ -93,6 +93,3 @@ A PowerPoint file is generated with the relevant data.
 
 This image is an example for an exported roadmap.\[Omitted image "exported-roadmap-to-ppt.png"\] Alt text: Exported roadmap.
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

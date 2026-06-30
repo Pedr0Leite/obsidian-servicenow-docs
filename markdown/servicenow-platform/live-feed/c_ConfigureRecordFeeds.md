@@ -14,7 +14,7 @@ breadcrumb: [Record feeds, Administering Live Feed, Live Feed Core UI, Manage pe
 
 # Configure record feeds
 
-Configure a table to support [[c_RecordFeeds|record feeds]]. You can add the Show Live Feed button in the form header and add the UI actions Follow on Live Feed and Show Live Feed as List and Form.
+Configure a table to support record feeds. You can add the Show Live Feed button in the form header and add the UI actions Follow on Live Feed and Show Live Feed as List and Form.
 
 By default, the Show Live Feed icon appears on the form header for all tables that extend task, including the Incident, Change Request, and Problem tables, and in the list and form context menus for all task tables.
 
@@ -25,6 +25,3 @@ Add Live Feed UI actions on a table.
 
 **Parent Topic:**[Record feeds](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/c_RecordFeeds.md)
 
-## Related
-
-- [[c_RecordFeeds|Record feeds]]

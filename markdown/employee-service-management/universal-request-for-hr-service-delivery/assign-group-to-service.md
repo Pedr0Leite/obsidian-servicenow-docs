@@ -26,7 +26,7 @@ Assigning assignment groups to the various departmental service sets facilitates
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ur-landing-limitedaccess|Universal Request]]** &gt; **Administration** &gt; **Service Assignment Groups**.
+1.  Navigate to **All** &gt; **Universal Request** &gt; **Administration** &gt; **Service Assignment Groups**.
 
 2.  Select the **Assignment Group** for the service set.
 
@@ -37,6 +37,3 @@ Assigning assignment groups to the various departmental service sets facilitates
 
 **Parent Topic:**[Configure service to use Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/config-service-for-ur.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]

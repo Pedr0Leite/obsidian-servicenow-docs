@@ -24,11 +24,11 @@ You can create a new CAPI interface or extend an existing one by adding new oper
 
 ## About this task
 
-Usually, you can use the default interfaces that are provided in the [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] application. To create a custom interface, base it on an existing one that is similar.
+Usually, you can use the default interfaces that are provided in the Cloud Provisioning and Governance application. To create a custom interface, base it on an existing one that is similar.
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Design** &gt; **Cloud API**, and then click the **Interface** tab.
+1.  In the Cloud Admin Portal, navigate to **Design** &gt; **Cloud API**, and then click the **Interface** tab.
 
 2.  Click **New**.
 
@@ -69,7 +69,3 @@ Usually, you can use the default interfaces that are provided in the [[cloud-man
 
 **Parent Topic:**[Cloud Provisioning and Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-management-v2-landing-page.md)
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[cloud-admin-portal|Cloud Admin Portal]]

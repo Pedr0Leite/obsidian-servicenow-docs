@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-Confirm you that you have installed the Sensor. You must register the Sensor to the Console with the DMI. The DMI is a web-based interface that lets you configure and register the Sensor with the Console. For more information on the DMI, see [[dmi|Device Management Interface]]. Registering the Sensor confirms it can communicate with the Console.
+Confirm you that you have installed the Sensor. You must register the Sensor to the Console with the DMI. The DMI is a web-based interface that lets you configure and register the Sensor with the Console. For more information on the DMI, see [Device Management Interface](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/dmi.md). Registering the Sensor confirms it can communicate with the Console.
 
 ## Procedure
 
@@ -89,6 +89,3 @@ Confirm you that you have installed the Sensor. You must register the Sensor to 
 
 The Sensor and the Console can now communicate and generate queries.
 
-## Related
-
-- [[dmi|Device Management Interface]]

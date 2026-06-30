@@ -24,7 +24,7 @@ Role required: admin
 
 You must activate a teamspace plugin to use the teamspace feature. Following teamspace plugins are available:
 
--   **[[c_ProjectApplicationOverview|Project Management]] TeamSpace 1** \(`com.snc.ppm_teamspace_1`\)
+-   **Project Management TeamSpace 1** \(`com.snc.ppm_teamspace_1`\)
 -   **Project Management TeamSpace 2** \(`com.snc.ppm_teamspace_2`\)
 -   **Project Management TeamSpace 3** \(`com.snc.ppm_teamspace_3`\)
 -   **Project Management TeamSpace 4** \(`com.snc.ppm_teamspace_4`\)
@@ -54,6 +54,3 @@ You must activate a teamspace plugin to use the teamspace feature. Following tea
 
 [Configure teamspace settings]()
 
-## Related
-
-- [[c_ProjectApplicationOverview|Project Management]]

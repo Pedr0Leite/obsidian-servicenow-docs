@@ -22,7 +22,7 @@ Role required: sn\_bcm.admin, sn\_bcm.program\_manager, or sn\_bcm.planner
 
 1.  Navigate to **Workspaces** &gt; **Business Continuity Workspace**.
 
-2.  In the [[list-view-uib-ws|List view]], navigate to **Planning** and select the link to the plan record in the **Name** column.
+2.  In the List view, navigate to **Planning** and select the link to the plan record in the **Name** column.
 
 3.  Select **Submit for review**.
 
@@ -43,7 +43,7 @@ Role required: sn\_bcm.admin, sn\_bcm.program\_manager, or sn\_bcm.planner
 
     \[Omitted image "approval-levels-approvals.png"\] Alt text: Approvals tab.
 
-    To configure multiple approval levels for the plan, see [[setup-bcm-approval-levels|Set up approval levels]].
+    To configure multiple approval levels for the plan, see [Set up approval levels](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/setup-bcm-approval-levels.md).
 
     The example shows the Approvals tabs and the Approve and Reject buttons are not displayed.
 
@@ -52,10 +52,5 @@ Role required: sn\_bcm.admin, sn\_bcm.program\_manager, or sn\_bcm.planner
     When you approve the business continuity plan, its state is updated to **Approved**.
 
 
-**Parent Topic:**[[bcp-tasks-performed-by-bcp-owner|Structured workflows for BCPs]]
+**Parent Topic:**[Structured workflows for BCPs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bcp-tasks-performed-by-bcp-owner.md)
 
-## Related
-
-- [[setup-bcm-approval-levels|Set up approval levels]]
-- [[bcp-tasks-performed-by-bcp-owner|Structured workflows for BCPs]]
-- [[list-view-uib-ws|List view]]

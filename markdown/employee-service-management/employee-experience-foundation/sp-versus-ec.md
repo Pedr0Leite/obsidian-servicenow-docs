@@ -14,7 +14,7 @@ breadcrumb: [Exploring Employee Center, Employee Center, Unified Employee Experi
 
 # Service Portal versus Employee Center application
 
-Both the Service Portal and [[employee-center-landing-page|Employee Center]] applications are built on the ServiceNow AI Platform and use modern technologies, can be branded and customized, and have more that 200 widgets available. However, the Employee Center is built to scale as multi departmental for all service needs.
+Both the Service Portal and Employee Center applications are built on the ServiceNow AI Platform and use modern technologies, can be branded and customized, and have more that 200 widgets available. However, the Employee Center is built to scale as multi departmental for all service needs.
 
 The following table lists the key differences between the Service Portal and Employee Center portal.
 
@@ -27,6 +27,3 @@ The following table lists the key differences between the Service Portal and Emp
 |Unified taxonomy for all content types that drives employee-centric content discovery.|Ineffective content discovery leading to difficulty in defining an employee centric taxonomy for navigation across the portals.​|
 |Integrated with Now Mobile to create an omni-channel user experience.| |
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

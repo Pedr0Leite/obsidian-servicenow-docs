@@ -12,7 +12,7 @@ breadcrumb: [Email and SMS notifications, System notifications, Notifications, C
 
 # Multilingual email notifications
 
-Using multilingual email notifications, you can send email [[notifications|notifications]] in the recipient’s preferred language and can easily manage notification content in different languages.
+Using multilingual email notifications, you can send email notifications in the recipient’s preferred language and can easily manage notification content in different languages.
 
 ## Email notification translation
 
@@ -20,11 +20,11 @@ You can customize email notifications for users across multiple regions based on
 
 Two types of translations are available for email notifications:
 
--   [[static-translation|Static translation]]
+-   [Static translation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/static-translation.md)
 
     Customize email notifications for recipients across multiple regions based on their preferred language. With static translations, the translation request goes to a translator.
 
--   [[dynamic-translation|Dynamic translation]]
+-   [Dynamic translation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation.md)
 
     Customize email notifications automatically for users across multiple regions based on their preferred language.
 
@@ -46,15 +46,7 @@ If there is a group email ID, an email is sent in a single language to all the r
 
 ## Email notification translation plugins
 
-Activate the [[activate-translation-plugin|glide notification translation plugin]] to send multi-lingual emails based on the recipient’s preferred language. The [[localization-framework-landing|localization framework]] plugin is activated by default along with the Glide notification translation plugin.
+Activate the [glide notification translation plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/activate-translation-plugin.md) to send multi-lingual emails based on the recipient’s preferred language. The localization framework plugin is activated by default along with the Glide notification translation plugin.
 
-Activate the [[activate-email-retention-plugin|translated email retention plugin]] to archive emails.
+Activate the [translated email retention plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/activate-email-retention-plugin.md) to archive emails.
 
-## Related
-
-- [[static-translation|Static translation]]
-- [[dynamic-translation|Dynamic translation]]
-- [[activate-translation-plugin|activate translation plugin]]
-- [[activate-email-retention-plugin|activate email retention plugin]]
-- [[notifications|Notifications]]
-- [[localization-framework-landing|Localization Framework]]

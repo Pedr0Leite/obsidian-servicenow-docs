@@ -27,7 +27,7 @@ There are some significant differences in the way NTLM works compared with basic
 -   The realm for NTLM authentication is the domain name of the computer being connected. This can be troublesome because servers often have multiple domain names. Only the domain name that HttpClient connects to, as specified by the HostConfiguration, is used to look up the credentials. While initially testing NTLM authentication, it is best to pass the realm in as null, which is used as the default.
 -   NTLM authenticates a connection and not a request. So you need to authenticate every time a new connection is made and keeping the connection open during authentication is vital. For this reason, NTLM cannot be used to authenticate with both a proxy server and the web server, nor can NTLM be used with HTTP 1.0 connections or web servers that do not support HTTP keep-alives.
 
-**Note:** Set these properties from the [[r_SetArchiveRuleProcessingBehavior|System Properties]] `[sys_properties]` table.
+**Note:** Set these properties from the System Properties `[sys_properties]` table.
 
 <table id="table_tm2_2nl_cr"><thead><tr><th>
 
@@ -94,9 +94,5 @@ Specify the domain used to authenticate the proxy server with NTLM authenticatio
 DOMAIN
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[c_WebProxy|Web proxy]]
+</table>**Parent Topic:**[Web proxy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_WebProxy.md)
 
-## Related
-
-- [[c_WebProxy|Web proxy]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

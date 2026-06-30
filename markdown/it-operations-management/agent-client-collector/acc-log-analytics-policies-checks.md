@@ -14,7 +14,7 @@ breadcrumb: [Agent Client Collector log policies, Agent Client Collector Log Ana
 
 # Agent Client Collector Log Analytics default policies and checks
 
-[[acc-log-analytics|Agent Client Collector Log Analytics]] provides various default policies and checks.
+Agent Client Collector Log Analytics provides various default policies and checks.
 
 Streaming log data from Windows hosts is supported in Agent Client Collector Log Analytics Version 3.1.0 and later.
 
@@ -309,6 +309,4 @@ Agent Client Collector Log Analytics \(ACC-L\) provides the following default **
 
     **Note:** To collect Security Windows event logs, **servicenow** users on an agent hosting machine must have admin privileges.
 
-## Related
 
-- [[acc-log-analytics|Agent Client Collector Log Analytics]]

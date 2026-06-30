@@ -14,7 +14,7 @@ breadcrumb: [Manage the receiving of assets at stockrooms in the Enterprise Asse
 
 # Receive assets from inbound shipments at your stockroom in the Enterprise Asset Workspace
 
-Receive enterprise and [[c_ReceiveAConsumableAsset|consumable assets]] from one or more shipments that are in transit to your stockroom in the [[using-eam-workspace|Enterprise Asset Workspace]]. You can [[c_ReceiveAssets|receive assets]] from shipments originating from any workflow.
+Receive enterprise and consumable assets from one or more shipments that are in transit to your stockroom in the Enterprise Asset Workspace. You can receive assets from shipments originating from any workflow.
 
 ## Before you begin
 
@@ -28,13 +28,13 @@ Assets from an inbound shipment can be received under the following conditions:
 
 -   The assets must have a serial number and an asset tag.
 -   The assets must be in the In-transit state and linked to a shipment record.
--   Hardware assets can be received only if the [[ham-landing-page|Hardware Asset Management]] application is activated.
+-   Hardware assets can be received only if the Hardware Asset Management application is activated.
 
 ## Procedure
 
 1.  Navigate to **Workspaces** &gt; **Enterprise Asset Workspace** &gt; **Inventory**.
 
-2.  Select the **All [[c_Stockrooms|stockrooms]]** tab.
+2.  Select the **All stockrooms** tab.
 
 3.  Select the stockroom for which you want to receive hardware or consumable assets.
 
@@ -51,7 +51,7 @@ Assets from an inbound shipment can be received under the following conditions:
 
         **Note:** Only shipments that are In transit are displayed.
 
-    -   **[[model-hierarchy|Model categories]]**: Model grouping of the asset.
+    -   **Model categories**: Model grouping of the asset.
     -   **Quantity**: Number of assets to be received.
     -   **Asset tag**: Tag to track the asset.
     -   **Serial number**: Serial number of the asset.
@@ -74,11 +74,3 @@ If any of the asset details are invalid, an error message in shown in the **Aler
 
 **Parent Topic:**[Manage the receiving of assets at stockrooms in the Enterprise Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/manage-stockroom-receive-eam.md)
 
-## Related
-
-- [[c_ReceiveAConsumableAsset|Consumable assets]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[c_ReceiveAssets|Receive assets]]
-- [[ham-landing-page|Hardware Asset Management]]
-- [[c_Stockrooms|Stockrooms]]
-- [[model-hierarchy|Model categories]]

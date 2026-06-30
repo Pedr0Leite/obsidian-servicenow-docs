@@ -30,7 +30,7 @@ A service account is a secure record on your instance that stores the credential
 
 ## Procedure
 
-1.  Navigate to **[[ci-workspace|Cloud Cost Management Workspace]]** &gt; **Operations** &gt; **Administration** &gt; **Service accounts**.
+1.  Navigate to **Cloud Cost Management Workspace** &gt; **Operations** &gt; **Administration** &gt; **Service accounts**.
 
 2.  Select **New**.
 
@@ -117,6 +117,3 @@ The service account that you created gets listed on the **Service accounts** pag
 
 [Schedule and manage the Cloud Cost Management jobs that download AWS price sheets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/aws-pricesht-sched-dwnld-cloudin.md)
 
-## Related
-
-- [[ci-workspace|Cloud Cost Management Workspace]]

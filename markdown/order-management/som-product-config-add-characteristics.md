@@ -12,7 +12,7 @@ breadcrumb: [Defining product characteristics and characteristic options, Create
 
 # Create product characteristics and characteristic options
 
-Add product characteristics and characteristic options that you can later add to your product offerings in [[order-mgt-overview|Sales Customer Relationship Management]].
+Add product characteristics and characteristic options that you can later add to your product offerings in Sales Customer Relationship Management.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_prd\_pm.product\_catalog\_admin or sn\_prd\_pm.product\_catal
 
 ## About this task
 
-Use this procedure to build product characteristics \(also called attributes\) and characteristic options, which you add to product offerings and specifications. For example, if the product offering is a bike, characteristics might include bike size and color. The characteristic options are the option choices, such as the various bike sizes and colors available. These options appear in the configurator when your agents add [[configurable-products-explore|configurable products]] to opportunities, quotes, and orders or when customers submit orders using the Business Portal.
+Use this procedure to build product characteristics \(also called attributes\) and characteristic options, which you add to product offerings and specifications. For example, if the product offering is a bike, characteristics might include bike size and color. The characteristic options are the option choices, such as the various bike sizes and colors available. These options appear in the configurator when your agents add configurable products to opportunities, quotes, and orders or when customers submit orders using the Business Portal.
 
 When you define a characteristic, you select the data input type, which indicates how the characteristic option is entered in the product configurator, such as Single Line Text, Choice \(radio buttons or drop-down list\), and Yes/No selections. Complex data input types are also available to define complex characteristics that have hierarchical attribute structures. You use the object data type to define complex characteristics, which have a top-level parent attribute and associated child characteristics. These structures can also include data arrays, another complex data type that you can use to specify multiple instances of the same data input type, such as multiple lines of text or integers.
 
@@ -32,7 +32,7 @@ When you define a characteristic, you select the data input type, which indicate
 
 3.  Select **New**.
 
-4.  In the form, fill in the [[fields|fields]].
+4.  In the form, fill in the fields.
 
 <table id="table_otz_zqz_m1c"><thead><tr><th>
 
@@ -113,7 +113,7 @@ List of input options that identify the functionality for the characteristic, su
 
     3.  Select **Save**.
 
-7.  If the new characteristic is an object that has child characteristics as part of hierarchical attribute structure, complete the following steps to [[create-entitlement-template-characteristic|create a characteristic]] relationship between the parent characteristic and child characteristics in the characteristic hierarchy:
+7.  If the new characteristic is an object that has child characteristics as part of hierarchical attribute structure, complete the following steps to create a characteristic relationship between the parent characteristic and child characteristics in the characteristic hierarchy:
 
     1.  In the Characteristic Relationships tab, select **New**.
 
@@ -136,34 +136,19 @@ List of input options that identify the functionality for the characteristic, su
 
 Continue working on other areas related to the product offering or specification. For example:
 
--   [[som-product-config-add-visuals|Add product visuals]]
--   [[som-product-config-offering-categories|Add product catalog categories]]
--   [[som-product-config-offering-relationships|Create product offering relationships]]
--   [[som-product-config-related-contracts|Add related contracts to product offerings]]
--   [[som-product-config-add-unit-of-measure|Add a unit of measure to a product offering]]
--   [[som-product-config-create-new-version|Create a product offering version]]
--   [[som-product-config-relationship-groups|Create product offering relationship groups]]
+-   [Add product visuals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-product-config-add-visuals.md)
+-   [Add product catalog categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-product-config-offering-categories.md)
+-   [Create product offering relationships](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-product-config-offering-relationships.md)
+-   [Add related contracts to product offerings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-product-config-related-contracts.md)
+-   [Add a unit of measure to a product offering](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-product-config-add-unit-of-measure.md)
+-   [Create a product offering version](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-product-config-create-new-version.md)
+-   [Create product offering relationship groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-product-config-relationship-groups.md)
 -   If you're creating technical products such as telecommunications products, you can create the product, service, and resource specification categories and associate them to model categories.
 
 **Related topics**  
 
 
-[[using-product-catalog|Using product catalogs]]
+[Using product catalogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-product-catalog.md)
 
-[[product-catalog-managment|Product Catalog Management]]
+[Product Catalog Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/product-catalog-managment.md)
 
-## Related
-
-- [[som-product-config-add-visuals|Add product visuals]]
-- [[som-product-config-offering-categories|Add product catalog categories]]
-- [[som-product-config-offering-relationships|Create product offering relationships]]
-- [[som-product-config-related-contracts|Add related contracts to product offerings]]
-- [[som-product-config-add-unit-of-measure|Add a unit of measure to a product offering]]
-- [[som-product-config-create-new-version|Create a product offering version]]
-- [[som-product-config-relationship-groups|Create product offering relationship groups]]
-- [[using-product-catalog|Using product catalogs]]
-- [[product-catalog-managment|Product Catalog Management]]
-- [[order-mgt-overview|Sales Customer Relationship Management]]
-- [[configurable-products-explore|Configurable products]]
-- [[fields|Fields]]
-- [[create-entitlement-template-characteristic|Create a characteristic]]

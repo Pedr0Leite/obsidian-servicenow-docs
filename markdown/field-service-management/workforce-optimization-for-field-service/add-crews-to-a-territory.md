@@ -22,12 +22,12 @@ Role required: sn\_fsm\_tp.fsm\_territory\_planner, sn\_fsm\_tp.fsm\_territory\_
 
 ## About this task
 
-To work with crews in territories, you need to activate the [[field-service-crew-scheduling|Field Service Crew Operations]] plugin \(com.snc.fsm\_crew\_scheduling\) plugin.
+To work with crews in territories, you need to activate the Field Service Crew Operations plugin \(com.snc.fsm\_crew\_scheduling\) plugin.
 
-The following are the two ways to [[create-crews-dispatcher-wrkspc|create crews]]:
+The following are the two ways to create crews:
 
 1.  Manual: You can hand-pick agents from any territory you're a member of to form a crew. It's like assembling your own team for a specific job.
-2.  Automatic: [[dynamic-scheduling|Dynamic scheduling]] handles automatic crew creation. When dynamic scheduling is selected as a scheduling method, the system can create crews on its own when they're needed, saving you time and effort. It does this by pulling agents from the territory linked to the specific work order task, ensuring the right people are assigned to the right job.
+2.  Automatic: Dynamic scheduling handles automatic crew creation. When dynamic scheduling is selected as a scheduling method, the system can create crews on its own when they're needed, saving you time and effort. It does this by pulling agents from the territory linked to the specific work order task, ensuring the right people are assigned to the right job.
 
 ## Procedure
 
@@ -52,7 +52,7 @@ The following are the two ways to [[create-crews-dispatcher-wrkspc|create crews]
     |Maximum Travel Radius|Radius in selected distance unit \(miles or kilometers\).|
     |Distance Unit|Unit of distance covered in miles or kilometers|
     |Active|Option to indicate whether the crew is available for selection when assigning a work order task to the crew.|
-    |From|Effective from the date for the crew to [[t_StartWork|start work]].|
+    |From|Effective from the date for the crew to start work.|
     |To|Effective to date for the crew to end work.|
 
 5.  Select **Submit**.
@@ -68,9 +68,3 @@ The crew becomes visible within the **Crew Memberships** related list of the ter
 
 Dispatchers can assign crews to work order tasks. For more information, see [Assign work order tasks to crews](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/assign-wot-crew-operations.md).
 
-## Related
-
-- [[field-service-crew-scheduling|Field Service Crew Operations]]
-- [[create-crews-dispatcher-wrkspc|Create crews]]
-- [[dynamic-scheduling|Dynamic scheduling]]
-- [[t_StartWork|Start work]]

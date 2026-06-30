@@ -14,14 +14,10 @@ breadcrumb: [Legal Simple Privacy, Legal Service Delivery Practice Applications,
 
 # Legal Simple Privacy Reference
 
-[[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] topics provide additional information about the lists and forms that you use in [[legal-simple-privacy-landing-page|Legal Simple Privacy]].
+Reference topics provide additional information about the lists and forms that you use in Legal Simple Privacy.
 
 -   **[Components installed with Legal Simple Privacy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-privacy/components-installed-simple-privacy.md)**  
 Several types of components are installed with activation of the Legal Simple Privacy application, including user roles.
 
 **Parent Topic:**[Legal Simple Privacy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-privacy/legal-simple-privacy-landing-page.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[legal-simple-privacy-landing-page|Legal Simple Privacy]]

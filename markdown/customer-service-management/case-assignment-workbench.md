@@ -19,18 +19,18 @@ The assignment workbench displays all the relevant information for task assignme
 -   A list of the agents in the task assignment group.
 -   The matching criteria used to evaluate the agents.
 -   An overall ranking for each agent in the assignment group.
--   A filter with the current assignment group and the skills identified for the task, including any [[mandatory-skills|mandatory skills]].
+-   A filter with the current assignment group and the skills identified for the task, including any mandatory skills.
 
 \[Omitted image "CaseAssignWorkbench.png"\] Alt text: Task Assignment Workbench displaying suggested team members, their skills, availability, and assigned cases.
 
 Agents are ranked from 1 to any number based on the criteria configured for the workbench. The more criteria that matches, the higher an agent's rank. When the criteria for two agents is the same, the agents have the same rank. Point to an agent's rank to display the details.
 
-Use the filter to change the assignment group and to add or remove skills. Changes to the assignment group or to the skills [[migration-lists|lists]] are reflected immediately in the workbench:
+Use the filter to change the assignment group and to add or remove skills. Changes to the assignment group or to the skills lists are reflected immediately in the workbench:
 
 -   Changing the assignment group displays a different list of agents.
 -   Adding or removing skills can change the agent ranking.
 
-If you are using the [[configure-mandatory-skills-feature|mandatory skills]] feature, the agents displayed in the assignment workbench are filtered by the skills in the **Mandatory Skills Added** list and then ranked by the other matching criteria.
+If you are using the [mandatory skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-mandatory-skills-feature.md) feature, the agents displayed in the assignment workbench are filtered by the skills in the **Mandatory Skills Added** list and then ranked by the other matching criteria.
 
 **Note:** Agents cannot add or remove mandatory skills or make a skill not mandatory.
 
@@ -64,11 +64,11 @@ Add or remove skills from the **Skills** list in the filter. These selections ar
 
 Skills that have been identified as mandatory for a task are displayed in the **Mandatory Skills Added** list. These selections are also reflected in the **Matching Skills** column. You cannot add or remove skills from this list.
 
-Select an agent and click **Assign** to assign the task. The workbench closes and returns to the [[r_CustomerServiceCaseForm|Case form]]. The **Assigned to** field is updated with the selected agent. Click **Save** on Case form to save this assignment.
+Select an agent and click **Assign** to assign the task. The workbench closes and returns to the Case form. The **Assigned to** field is updated with the selected agent. Click **Save** on Case form to save this assignment.
 
 ## Plugins
 
-The Assignment Workbench plugin \(com.snc.assignment\_workbench\) is activated as part of [[c_CustomerServiceManagement|Customer Service Management]].
+The Assignment Workbench plugin \(com.snc.assignment\_workbench\) is activated as part of Customer Service Management.
 
 The Case Assignment Workbench Demo plugin \(com.snc.case\_assignment\_workbench\_demo\) provides demo data for the workbench.
 
@@ -98,7 +98,7 @@ Select Criteria\[matching\_dimension\_for\_assignment\]
 
 </td><td>
 
-Stores the matching criteria for an assignment workbench configuration matching [[gamification-components-rules|rules]].
+Stores the matching criteria for an assignment workbench configuration matching rules.
 
 </td></tr><tr><td>
 
@@ -184,14 +184,5 @@ Number of agents per page. \(To get better performance, do not use more than 50 
 </table>**Related topics**  
 
 
-[[configure-assignment-workbench|Configure assignment workbench]]
+[Configure assignment workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-assignment-workbench.md)
 
-## Related
-
-- [[configure-mandatory-skills-feature|Configuring mandatory skills]]
-- [[configure-assignment-workbench|Configure assignment workbench]]
-- [[mandatory-skills|Mandatory skills]]
-- [[migration-lists|Lists]]
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[gamification-components-rules|Rules]]

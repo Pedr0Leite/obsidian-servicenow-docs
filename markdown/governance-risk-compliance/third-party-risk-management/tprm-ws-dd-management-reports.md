@@ -31,7 +31,7 @@ By default, the page lists all active processes: IRQ, due diligence, approval, c
 -   Select the number on the **All active processes** card to view the list of active processes.
 -   Select the number on the **New requests** card to view the list of new requests.
 -   Select the number on the **IRQ process** card to view the list of active IRQs. See [IRQ process management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-ws-dd-mgt-pg-irq-tab.md) for details.
--   Select the number on the **Due diligence process** card to view the list of active third-party [[risk-assessments|risk assessments]]. See [Third-party \(external\) risk assessment management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-ws-dd-mgt-pg-extrnl-assessment.md) for details.
+-   Select the number on the **Due diligence process** card to view the list of active third-party risk assessments. See [Third-party \(external\) risk assessment management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-ws-dd-mgt-pg-extrnl-assessment.md) for details.
 -   Select the number on the **Approval process** card to view the list of requests in the approval process. See [Approval process management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-ws-dd-mgt-pg-approvals.md) for details.
 -   Select the number on the **Contract risk process** card to view the list of requests in the contract process. See [Managing the contract risk process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-ws-contract-risk-process.md) for details.
 -   Select the number on the **Final review process** card to view the list of requests in the final review process.
@@ -49,7 +49,7 @@ The Ongoing due diligence management section displays the current breakdown of *
 
 ## Due diligence workflow: Days to completion
 
-The [[tprm-workflow-in-workspace|Due diligence workflow]]: Days to completion section displays the average completion time of each workflow over time.
+The Due diligence workflow: Days to completion section displays the average completion time of each workflow over time.
 
 **Parent Topic:**[Viewing third-party risk reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/unified-vrm-workspace.md)
 
@@ -64,7 +64,3 @@ The [[tprm-workflow-in-workspace|Due diligence workflow]]: Days to completion se
 
 [Approval process management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-ws-dd-mgt-pg-approvals.md)
 
-## Related
-
-- [[risk-assessments|risk assessments]]
-- [[tprm-workflow-in-workspace|Due diligence workflow]]

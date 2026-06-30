@@ -22,7 +22,7 @@ Role required: model\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ProductCatalog|Product Catalog]]** &gt; **Product Model** &gt; **Consumable [[c_Models|Models]]**.
+1.  Navigate to **All** &gt; **Product Catalog** &gt; **Product Model** &gt; **Consumable Models**.
 
 2.  Open a consumable model record.
 
@@ -31,7 +31,3 @@ Role required: model\_manager
 
 **Parent Topic:**[Consumables life cycle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/c_FollowLifeCycleConsumbl.md)
 
-## Related
-
-- [[c_ProductCatalog|Product Catalog]]
-- [[c_Models|Models]]

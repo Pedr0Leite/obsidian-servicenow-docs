@@ -14,7 +14,7 @@ breadcrumb: [Define and collect data, MetricBase, Manage instance data sources, 
 
 # Create a time-series definition in MetricBase
 
-Specify the metric that you want to store, how often to collect it, and how long to store it in [[metricbase|MetricBase]].
+Specify the metric that you want to store, how often to collect it, and how long to store it in MetricBase.
 
 ## Before you begin
 
@@ -39,7 +39,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[label|Label]]
+Label
 
 </td><td>
 
@@ -125,7 +125,3 @@ Use the REST or JavaScript APIs to send the data to the MetricBase database at t
 
 **Important:** Send the data at the rate that the time-series definition prescribes. If you send the data at a different rate or for a different duration, you receive an error. Make sure to aggregate the data according to the time-series metric definition. Also, the MetricBase database only stores values of data type float.
 
-## Related
-
-- [[metricbase|MetricBase]]
-- [[label|Label]]

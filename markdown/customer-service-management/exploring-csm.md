@@ -12,7 +12,7 @@ breadcrumb: [Customer Service Management]
 
 # Exploring Customer Service Management
 
-Learn how the [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) application can help your organization resolve customer issues and requests for your customers. By adopting a proactive customer service approach, you can increase your customer satisfaction and retention.
+Learn how the Customer Service Management \(CSM\) application can help your organization resolve customer issues and requests for your customers. By adopting a proactive customer service approach, you can increase your customer satisfaction and retention.
 
 ## Overview of Customer Service Management
 
@@ -61,7 +61,7 @@ Learn how to collect, organize, update, and analyze data about your customers.
 
 </td><td>
 
-[[csm-data-management|Customer Data Management]]
+[Customer Data Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-data-management.md)
 
 </td><td>
 
@@ -69,11 +69,11 @@ Manager
 
 </td></tr><tr><td>
 
-Drive self-service from a portal that is integrated with knowledge articles, service catalogs, [[servicenow-communities|communities]], and chatbots.
+Drive self-service from a portal that is integrated with knowledge articles, service catalogs, communities, and chatbots.
 
 </td><td>
 
-[[self-service-options-csm-customers|Self- Service]]
+[Self- Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/self-service-options-csm-customers.md)
 
 </td><td>
 
@@ -85,7 +85,7 @@ Support your customers across phone, messaging, chat, web, email, in person, and
 
 </td><td>
 
-[[omnichannel|Omnichannel]]
+[Omnichannel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/omnichannel.md)
 
 </td><td>
 
@@ -97,7 +97,7 @@ Improve your agent efficiency for faster resolution and a better customer experi
 
 </td><td>
 
-[[agent-exp|Agent experience]]
+[Agent experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/agent-exp.md)
 
 </td><td>
 
@@ -109,7 +109,7 @@ Manage the interactions and service level agreements \(SLAs\), model account rel
 
 </td><td>
 
-[[csm-case-management|Case management]]
+[Case management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-case-management.md)
 
 </td><td>
 
@@ -121,7 +121,7 @@ Quickly identify the support that a customer needs as well as the opportunities 
 
 </td><td>
 
-[[configure-install-base|Install Base management]]
+[Install Base management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-install-base.md)
 
 </td><td>
 
@@ -133,7 +133,7 @@ Increase your productivity with automated task creation, triage, and investigati
 
 </td><td>
 
-[[intelligence-csm|Intelligence]]
+[Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/intelligence-csm.md)
 
 </td><td>
 
@@ -145,7 +145,7 @@ Get at-a-glance visibility and a deep understanding of the data and identify are
 
 </td><td>
 
-[[analytics-and-insights|Analytics and Insights]]
+[Analytics and Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/analytics-and-insights.md)
 
 </td><td>
 
@@ -157,7 +157,7 @@ Instantly monitor and analyze your processes, teams, and performance. Also check
 
 </td><td>
 
-[[optimization|Optimization]]
+[Optimization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/optimization.md)
 
 </td><td>
 
@@ -177,17 +177,3 @@ Administrator
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[csm-data-management|Data management for Customer Service Management]]
-- [[self-service-options-csm-customers|Self-service for Customer Service Management]]
-- [[omnichannel|Omnichannel]]
-- [[agent-exp|Agent experience]]
-- [[csm-case-management|Case management for Customer Service Management]]
-- [[configure-install-base|Configure install base]]
-- [[intelligence-csm|Intelligence]]
-- [[analytics-and-insights|Analytics and insights]]
-- [[optimization|Optimization]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[servicenow-communities|Communities]]

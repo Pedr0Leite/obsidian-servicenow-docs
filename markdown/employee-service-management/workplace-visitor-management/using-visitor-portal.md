@@ -14,9 +14,5 @@ breadcrumb: [Workplace Visitor Management, Workplace Service Delivery, Employee 
 
 # Using the visitor portal
 
-Use the [[visitor-portal|visitor portal]] to manage your visits, [[complete-pre-check|complete pre-check tasks]], and manage personal data.
+Use the visitor portal to manage your visits, complete pre-check tasks, and manage personal data.
 
-## Related
-
-- [[visitor-portal|Visitor portal]]
-- [[complete-pre-check|Complete pre-check tasks]]

@@ -42,24 +42,24 @@ Action
 
 </td><td>
 
-1.  Navigate to **All** &gt; **Contract** &gt; **[[c_Contracts|Contracts]]** &gt; **Leases**.
+1.  Navigate to **All** &gt; **Contract** &gt; **Contracts** &gt; **Leases**.
 2.  Select a lease record.
 
 
 </td></tr><tr><td id="d293079e98">
 
-**[[using-ham-workspace|Hardware Asset Workspace]]**
+**Hardware Asset Workspace**
 
 </td><td>
 
-1.  Navigate to **All** &gt; **Hardware Asset Workspace** &gt; **[[c_ContractManagement|Contract management]]**.
+1.  Navigate to **All** &gt; **Hardware Asset Workspace** &gt; **Contract management**.
 2.  Select the **Leases** related list and select a lease record.
 
 
 </td></tr></tbody>
 </table>2.  Select the Leased Assets related list.
 
-3.  [[select-daas-asset|Select an asset]].
+3.  Select an asset.
 
 4.  Under the **Contract Asset Tasks** tab, select the Planning task.
 
@@ -146,9 +146,3 @@ On the Hardware form of the leased asset, the asset is moved to the Retired stat
 
 **Parent Topic:**[Manage your expiring contracts for leased hardware assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/manage-your-leased-hw-asts-expiring-contract.md)
 
-## Related
-
-- [[c_Contracts|Contracts]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[c_ContractManagement|Contract Management]]
-- [[select-daas-asset|Select an asset]]

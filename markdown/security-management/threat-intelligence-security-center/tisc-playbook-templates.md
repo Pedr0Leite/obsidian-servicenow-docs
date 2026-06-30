@@ -18,7 +18,7 @@ This section describes the playbook templates that are shipped with TISC Sentine
 
 |Use case|Playbook|Description|
 |--------|--------|-----------|
-|Importing [[c_Observables|Observables]] from TISC to Sentinel|Batch\_Indicator\_Uploader|Provides batching mechanism for exporting observables from TISC using Upload [[indicator|Indicators]] API provided by Microsoft Sentinel.|
+|Importing Observables from TISC to Sentinel|Batch\_Indicator\_Uploader|Provides batching mechanism for exporting observables from TISC using Upload Indicators API provided by Microsoft Sentinel.|
 |Import\_Observables\_Batch|Enables scheduled export of observables from TISC.|
 |Export entities from Sentinel to TISC|Export\_Incident\_Entities|Export all entities of a Sentinel incident.|
 |Export\_Hash\_Entity|Export file hash entities of Sentinel incident.|
@@ -27,7 +27,7 @@ This section describes the playbook templates that are shipped with TISC Sentine
 |Export\_URL\_Entity|Export URL entities of Sentinel incident.|
 |Enrich Sentinel incidents|Incident\_Enrichment|Enables enrichment of Sentinel incidents by fetching details related to entities associated with it and posting information in the form of comments on the incident.|
 
-**Note:** All the [[tisc-playbooks-admin|playbooks]] use TISC Custom Connector internally to use TISC APIs.
+**Note:** All the playbooks use TISC Custom Connector internally to use TISC APIs.
 
 ## Create playbooks from templates
 
@@ -166,8 +166,3 @@ The following table describes how you can run the following playbooks.
 
 **Parent Topic:**[Microsoft Sentinel integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-sentinel-integration.md)
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[indicator|Indicators]]
-- [[tisc-playbooks-admin|Playbooks]]

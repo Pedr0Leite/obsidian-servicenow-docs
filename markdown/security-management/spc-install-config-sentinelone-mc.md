@@ -12,7 +12,7 @@ breadcrumb: [Policies for Exploit Protection \(EDR\), Use mitigation controls, S
 
 # Install and configure the Service Graph Connector for SentinelOne and the SentinelOne Mitigation Control Integration
 
-The Service Graph Connector for SentinelOne and the SentinelOne Integration for Mitigation Control Integration require separate configuration steps. You [[configure-cortex-xsiam-siem|install and configure]] the Service Graph Connector for SentinelOne to import asset details. You configure the SentinelOne Integration for Mitigation Control Integration to gather mitigation data about the assets that are monitored by the Service Graph Connector for SentinelOne.
+The Service Graph Connector for SentinelOne and the SentinelOne Integration for Mitigation Control Integration require separate configuration steps. You install and configure the Service Graph Connector for SentinelOne to import asset details. You configure the SentinelOne Integration for Mitigation Control Integration to gather mitigation data about the assets that are monitored by the Service Graph Connector for SentinelOne.
 
 ## Before you begin
 
@@ -98,6 +98,4 @@ Roles required:
 
         The SentinelOne Asset Import Integration imports only information about assets that have changed since the last integration run.
 
-## Related
 
-- [[configure-cortex-xsiam-siem|Install and Configure]]

@@ -13,7 +13,7 @@ breadcrumb: [Configure, Core Business Suite]
 
 # Employee Slate configuration for CBS
 
-[[cbs-landing|Core Business Suite]] provides two setup options for configuring Employee Slate as the default employee support portal. You can select any one according to your organizational requirement.
+Core Business Suite provides two setup options for configuring Employee Slate as the default employee support portal. You can select any one according to your organizational requirement.
 
 Starting with Core Business Suite Foundation version 3.0.5, Employee Slate is the default employee support portal.
 
@@ -59,16 +59,10 @@ An AI-native employee portal with Now Assist. A fully native path with no extern
 </td></tr></tbody>
 </table>To set up any option, install the application and set it up in your Configuration Console.
 
--   **[[config-es-cbs-moveworks|Configure Employee Slate for Moveworks]]**  
+-   **[Configure Employee Slate for Moveworks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/config-es-cbs-moveworks.md)**  
 Configure Employee Slate for Moveworks to provide a conversational interface for employee portal queries on CBS. Use the Configuration Summary page to complete setup across five sections and export the finished configuration.
--   **[[config-es-cbs-na|Configure Employee Slate for Now Assist]]**  
+-   **[Configure Employee Slate for Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/config-es-cbs-na.md)**  
 Configure Employee Slate for Now Assist to provide a conversational interface for employee portal queries on CBS. Use the Configuration Summary page to complete setup across six sections and export the finished configuration.
 
-**Parent Topic:**[[configure-cbs|Configure Core Business Suite Foundation]]
+**Parent Topic:**[Configure Core Business Suite Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/configure-cbs.md)
 
-## Related
-
-- [[config-es-cbs-moveworks|Configure Employee Slate for Moveworks]]
-- [[config-es-cbs-na|Configure Employee Slate for Now Assist]]
-- [[configure-cbs|Configure Core Business Suite Foundation]]
-- [[cbs-landing|Core Business Suite]]

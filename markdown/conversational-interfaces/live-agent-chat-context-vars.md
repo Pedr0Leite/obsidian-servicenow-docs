@@ -15,9 +15,9 @@ breadcrumb: [Configure variables that store chat information, General chat setti
 
 # Live agent chat context variables
 
-Use chat context variables to pass certain information from the topic to share with a live agent or to control how bot conversations are routed to live agents. [[virtual-agent-landing-page|Virtual Agent]] includes some default variables, and you can define new ones.
+Use chat context variables to pass certain information from the topic to share with a live agent or to control how bot conversations are routed to live agents. Virtual Agent includes some default variables, and you can define new ones.
 
-**Note:** The Interaction table is part of the interaction [[management|management]] framework, which is activated through the Interactions Management plugin \(com.glide.interaction\). This plugin is included with the [[ci-use-agent-chat|Agent Chat]] \(com.glide.interaction.awa\) and Connect Support \(com.glide.connect.support\) plugins.
+**Note:** The Interaction table is part of the interaction management framework, which is activated through the Interactions Management plugin \(com.glide.interaction\). This plugin is included with the Agent Chat \(com.glide.interaction.awa\) and Connect Support \(com.glide.connect.support\) plugins.
 
 <table id="table_urp_2tg_rpb"><thead><tr><th>
 
@@ -107,7 +107,7 @@ hr\_topic\_id
 
 </td><td>
 
-ID of the current topic. Used in [[awa-application-landing-page|Advanced Work Assignment]] to determine which HR queue to transfer the user for live agent chat.
+ID of the current topic. Used in Advanced Work Assignment to determine which HR queue to transfer the user for live agent chat.
 
 </td></tr><tr><td>
 
@@ -195,7 +195,7 @@ post\_chat\_survey\_name
 
 </td><td>
 
-Name of a post-chat survey that is used to gather feedback from the requester.For information about creating surveys, see [[create-chat-surveys|Create chat surveys]].
+Name of a post-chat survey that is used to gather feedback from the requester.For information about creating surveys, see [Create chat surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/create-chat-surveys.md).
 
  For information about creating surveys in Connect Chat, see [Configure a survey in Connect Chat support](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/take-survey-connect-chat.md).
 
@@ -213,7 +213,7 @@ pre\_chat\_survey\_name
 
 </td><td>
 
-Name of a pre-chat survey that is used to gather information from the requester.For information about creating surveys, see [Create chat surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/create-chat-surveys.md). To learn more about how chat context variables from pre-[[ci-conversational-chat-surveys|chat surveys]] are used in Advanced Work Assignment to route work to live agents, see [Work item queues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-queues.md).
+Name of a pre-chat survey that is used to gather information from the requester.For information about creating surveys, see [Create chat surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/create-chat-surveys.md). To learn more about how chat context variables from pre-chat surveys are used in Advanced Work Assignment to route work to live agents, see [Work item queues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-queues.md).
 
  For information about creating surveys in Connect Chat, see [Configure a survey in Connect Chat support](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/take-survey-connect-chat.md).
 
@@ -264,14 +264,5 @@ Table containing the record that relates to the interaction. Typically, this is 
 -   [Virtual Agent and Natural Language Understanding \(NLU\) community forum](https://community.servicenow.com/community?id=community_forum&sys_id=bf5abf94db54e3c42be0a851ca961915)
 -   [Conversational Interfaces Academy](https://www.servicenow.com/community/virtual-agent-nlu-articles/conversational-interfaces-academy-live-builds-and-q-amp-a-join/ta-p/2345155)
 
-**Parent Topic:**[[ac-configure-context-variables|Configure context variables for storing chat-related information]]
+**Parent Topic:**[Configure context variables for storing chat-related information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ac-configure-context-variables.md)
 
-## Related
-
-- [[create-chat-surveys|Create chat surveys]]
-- [[ac-configure-context-variables|Configure context variables for storing chat-related information]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[management|Management]]
-- [[ci-use-agent-chat|Agent Chat]]
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[ci-conversational-chat-surveys|Chat surveys]]

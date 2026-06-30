@@ -16,12 +16,12 @@ breadcrumb: [Managing enterprise models and assets, Enterprise Asset Management,
 
 You can use move orders to move in-use or consumed enterprise assets from one location to another.
 
-When you submit a move order, the [[enterprise-asset-management|Enterprise Asset Management]] application automatically generates an enterprise move line record for each enterprise asset that you include in the order. These records enable you to individually track and manage the movement of each enterprise asset in your move order.
+When you submit a move order, the Enterprise Asset Management application automatically generates an enterprise move line record for each enterprise asset that you include in the order. These records enable you to individually track and manage the movement of each enterprise asset in your move order.
 
 For each enterprise move line record within a move order, you must indicate how you are going to move the given enterprise asset. You can choose to ship the enterprise asset through a third-party shipping carrier or move the enterprise asset locally without shipping it. Based on the option that you choose, you must complete all subsequent tasks to move the enterprise asset and update the enterprise move line record with a status of Completed. After every enterprise move line record within a move order reaches a status of Completed, the move order is marked as complete.
 
 -   **[Submitting an enterprise asset move order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/submitting-enterprise-asset-move-order.md)**  
-You can submit an enterprise asset move order through either the ServiceNow® Service Catalog or the [[inventory-view-am|Inventory view]] of the [[using-eam-workspace|Enterprise Asset Workspace]].
+You can submit an enterprise asset move order through either the ServiceNow® Service Catalog or the Inventory view of the Enterprise Asset Workspace.
 -   **[Add enterprise assets to a move order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/add-enterprise-assets-move-order.md)**  
 Add the enterprise assets that you want to include in a move order.
 -   **[Remove enterprise assets from a move order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/remove-enterprise-assets-move-order.md)**  
@@ -29,11 +29,5 @@ Remove any enterprise assets that you no longer want to include in a move order.
 -   **[Completing an enterprise asset move order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/completing-enterprise-asset-move-order.md)**  
 After you submit a move order for the in-use or consumed enterprise assets that you want to move, you must perform various tasks to complete the order.
 
-**Parent Topic:**[[it-asset-management|IT Asset Management]]
+**Parent Topic:**[IT Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/it-asset-management.md)
 
-## Related
-
-- [[it-asset-management|IT Asset Management]]
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[inventory-view-am|Inventory view]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]

@@ -27,7 +27,7 @@ Role required: agent\_admin or admin
 </td></tr></tbody>
 </table>## About this task
 
-Applications, such as Discovery and Orchestration, can specify an IP range or the specific [[ip-address|IP address]] of a target. When the application looks for a [[mid-server-landing|MID Server]] to use during auto-selection, it chooses a MID Server whose IP range includes the application's range or specific IP address. Applications also use other criteria, such as the MID Server's supported application or capability. See [MID Server selection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/c_MIDServerSelector.md) for more information.
+Applications, such as Discovery and Orchestration, can specify an IP range or the specific IP address of a target. When the application looks for a MID Server to use during auto-selection, it chooses a MID Server whose IP range includes the application's range or specific IP address. Applications also use other criteria, such as the MID Server's supported application or capability. See [MID Server selection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/c_MIDServerSelector.md) for more information.
 
 **Note:** This is a manual configuration procedure. To learn how the system can assign IP address ranges to selected MID Servers automatically, see [Using MID Server IP range auto-assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-servers-auto-assignment.md).
 
@@ -139,7 +139,3 @@ Open the **ALL** IP range record and configure the MID Servers that you want to 
 
 **Parent Topic:**[MID Server selection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/c_MIDServerSelector.md)
 
-## Related
-
-- [[ip-address|IP Address]]
-- [[mid-server-landing|MID Server]]

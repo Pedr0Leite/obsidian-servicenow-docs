@@ -16,7 +16,7 @@ breadcrumb: [Audit Management Overview, Audit Management, Governance, Risk, and 
 
 Any audit project has associated costs, budgets, and resources. Roll ups of these costs, budgets, and resources enable the audit manager to view the entire costs and resources in a consolidated manner.
 
-Starting with the new release, a new plugin called Advanced Audit has been introduced in the [[c_GRCAudits|Audit Management]] application. When you activate the Advanced Audit plugin and install the Project Portfolio Management application, you can utilize the project management capabilities to automatically create engagement projects.
+Starting with the new release, a new plugin called Advanced Audit has been introduced in the Audit Management application. When you activate the Advanced Audit plugin and install the Project Portfolio Management application, you can utilize the project management capabilities to automatically create engagement projects.
 
 When an audit plan is created, the audit manager must be able to view the complete expenses and the resources involved in the engagement. Activating the Advanced Audit plugin enables the rollup of the expenses and resources cost of all engagements for a consolidated view. You can also use the advanced planning capabilities to automatically roll up the expenses and resources of each individual engagement to the parent plan of the engagements.
 
@@ -30,7 +30,7 @@ If actual effort is updated on an engagement project, then that value gets copie
 
 ## Resource plan rollup
 
-With Project Portfolio Management, you can add resource plans and cost plans to an engagement. To learn how to [[creating-an-engagement-with-advance-planning|create an engagement with advanced planning]], see [Create an engagement with advanced planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/creating-an-engagement-with-advance-planning.md)
+With Project Portfolio Management, you can add resource plans and cost plans to an engagement. To learn how to create an engagement with advanced planning, see [Create an engagement with advanced planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/creating-an-engagement-with-advance-planning.md)
 
 After you create a resource plan and it is in the **Allocated** state, all the confirmed and allocated hours from the resource plan are summed up in the planned resources on the engagement project. When a resource plan is created, you cannot manually enter the hours in the **Planned resources** field on the engagement form as the values get automatically rolled up. To manually enter hours in the **Planned resources** field, you must delete the resource plan that you have created.
 
@@ -38,7 +38,3 @@ After you create a resource plan and it is in the **Allocated** state, all the c
 
 If you create an independent cost plan that is not created as a result of a resource plan, then you cannot manually enter values in the **Planned expenses** field on the engagement form. You can still edit the **Planned resources** field.
 
-## Related
-
-- [[c_GRCAudits|Audit Management]]
-- [[creating-an-engagement-with-advance-planning|Create an engagement with advanced planning]]

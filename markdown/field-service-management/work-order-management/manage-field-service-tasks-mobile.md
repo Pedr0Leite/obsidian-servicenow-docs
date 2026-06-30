@@ -14,8 +14,5 @@ breadcrumb: [ServiceNow Agent mobile app, Completing work on mobile, Use, Field 
 
 # Prioritizing on ServiceNow Agent
 
-Accept or reject tasks, assign tasks to yourself and [[view-task-location-schedule-mobile|plan your schedule]] for the day, view task details, schedule, and task location, or close a work order task using your mobile application.
+Accept or reject tasks, assign tasks to yourself and plan your schedule for the day, view task details, schedule, and task location, or close a work order task using your mobile application.
 
-## Related
-
-- [[view-task-location-schedule-mobile|Plan your schedule]]

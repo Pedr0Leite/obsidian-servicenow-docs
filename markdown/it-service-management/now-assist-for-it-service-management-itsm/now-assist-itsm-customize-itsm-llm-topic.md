@@ -15,7 +15,7 @@ breadcrumb: [Configure in Virtual Agent, Configure, Now Assist for IT Service Ma
 
 # Customize a Now Assist Virtual Agent topic
 
-Copy and customize a core [[itsm-virtual-agent|ITSM Virtual Agent]] topic and use that topic to track the status of common IT-related tasks using Now Assist.
+Copy and customize a core ITSM Virtual Agent topic and use that topic to track the status of common IT-related tasks using Now Assist.
 
 ## Before you begin
 
@@ -62,6 +62,4 @@ Role required: sn\_nowassist\_admin.nsa\_admin
 
     **Note:** If you have multiple topics to summarize the same skill, you can unpublish the ones that you do not intend to use.
 
-## Related
 
-- [[itsm-virtual-agent|ITSM Virtual Agent]]

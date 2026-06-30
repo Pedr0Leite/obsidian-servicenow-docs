@@ -347,7 +347,7 @@ Specify how many search results to provide for contextual searches.
 
 </td></tr><tr><td id="d275440e544">
 
-**[[osp-contextual-search|Contextual search]] config**
+**Contextual search config**
 
 </td><td>
 
@@ -436,13 +436,10 @@ Click to add a logo for the designated walk-up location wall monitor. Design thi
     -   **Other**
 10. Click the **Assignment Eligibility** tab to view, modify, or create an assignment rule for your walk-up queue locations.
 
-    Assignment [[gamification-components-rules|rules]] are configured in the Advanced Work Assignment product.
+    Assignment rules are configured in the Advanced Work Assignment product.
 
 11. Click the **Work Item Sort Order** tab to view, modify, or create a Work Item Sort Orders for your walk-up queue locations.
 
 12. Click **Update** to save the new or modified location queue.
 
-## Related
 
-- [[osp-contextual-search|Contextual search]]
-- [[gamification-components-rules|Rules]]

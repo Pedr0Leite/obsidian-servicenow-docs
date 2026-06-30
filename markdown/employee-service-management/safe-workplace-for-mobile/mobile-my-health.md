@@ -14,7 +14,7 @@ breadcrumb: [Mobile experience for Emergency Response Management, Safe Workplace
 
 # View your health status in Now Mobile
 
-Use the [[mobile-employee-experience|Now Mobile app]] to view your health status record.
+Use the Now Mobile app to view your health status record.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ To access this content, you must have the [Now Mobile](https://raw.githubusercon
 
 ## About this task
 
-From the [[mobile-emergency-response|Safe Workplace for mobile]] app, users can access applications from the [[emergency-response-management|Emergency Response Management]] and [[safe-workplace|Safe Workplace]] product suites.
+From the Safe Workplace for mobile app, users can access applications from the Emergency Response Management and Safe Workplace product suites.
 
 **Note:** The Emergency Response Management for Now® Mobile app was renamed to Safe Workplace for mobile.
 
@@ -55,9 +55,3 @@ The **My Current Health Status** screen displays the following information:-   U
 
 **Parent Topic:**[Safe Workplace for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace-for-mobile/mobile-emergency-response.md)
 
-## Related
-
-- [[mobile-employee-experience|Now Mobile app]]
-- [[mobile-emergency-response|Safe Workplace for mobile]]
-- [[emergency-response-management|Emergency Response Management]]
-- [[safe-workplace|Safe Workplace]]

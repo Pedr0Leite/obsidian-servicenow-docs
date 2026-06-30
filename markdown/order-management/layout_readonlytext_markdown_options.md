@@ -12,13 +12,13 @@ breadcrumb: [Enable Markdown in text fields, Configure fields, CPQ app, Configur
 
 # Markdown options for read-only text
 
-Enable markdown formatting for ReadOnlyText components in CPQ [[layouts|layouts]] to enhance text presentation. Use syntax for bold, italics, lists, links, images, and dynamic field values to create clear, engaging, and context-aware display text in configurations.
+Enable markdown formatting for ReadOnlyText components in CPQ layouts to enhance text presentation. Use syntax for bold, italics, lists, links, images, and dynamic field values to create clear, engaging, and context-aware display text in configurations.
 
-This article describes the [[markdown-syntax-supported-in-servicenow-cpq|markdown syntax]] and behaviors available to administrators when a text field is defined on a native CPQ UI layout with component display type ReadOnlyText. For a broader discussion of layout options, see [[csv_layout_upload|CSV layout upload]].
+This article describes the markdown syntax and behaviors available to administrators when a text field is defined on a native CPQ UI layout with component display type ReadOnlyText. For a broader discussion of layout options, see [CSV layout upload](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/csv_layout_upload.md).
 
 To apply markdown formatting to a ReadOnlyText component:
 
-1.  In the [[layout_editor|layout editor]], open the field properties \(button with cog icon\)
+1.  In the layout editor, open the field properties \(button with cog icon\)
 2.  Add the following as the raw value: `{ "enableMarkdown": true }`
 3.  Use the following markdown syntax in the text field value.
 
@@ -230,9 +230,3 @@ When the return function encloses the same text in double quotes, the output app
 
 \[Omitted image "cpq-layout-markdown-options-4.png"\] Alt text: Appropriate string appearing as a result of double quotes
 
-## Related
-
-- [[csv_layout_upload|CSV layout upload]]
-- [[layouts|Layouts]]
-- [[markdown-syntax-supported-in-servicenow-cpq|Markdown syntax]]
-- [[layout_editor|Layout editor]]

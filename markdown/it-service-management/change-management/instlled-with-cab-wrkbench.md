@@ -20,7 +20,7 @@ Several types of components are installed with Change Management - CAB Workbench
 
 ## Tables installed with Change Management - CAB Workbench
 
-[[c_ITILChangeManagement|Change Management]] - CAB Workbench adds the following tables.
+Change Management - CAB Workbench adds the following tables.
 
 <table id="table_qzz_dcv_1x"><thead><tr><th>
 
@@ -104,7 +104,3 @@ Contains list of CAB meeting runtime states.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]

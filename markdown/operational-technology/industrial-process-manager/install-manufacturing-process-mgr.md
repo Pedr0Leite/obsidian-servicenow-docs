@@ -24,7 +24,7 @@ Role required: admin
 
 ## About this task
 
-The following items are installed with the [[industrial-process-manager-overview|Industrial Process Manager]]:
+The following items are installed with the Industrial Process Manager:
 
 -   Plugins
 -   Application menu, including Guided Setup
@@ -33,10 +33,10 @@ The following items are installed with the [[industrial-process-manager-overview
 
 For more information on viewing the components that are installed with the Industrial Process Manager application, see [Components installed with Industrial Process Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/components-installed-with-industrial-process-manager.md).
 
-**Note:** For [[operational-technology-overview|Operational Technology]] Service Management users with no license for Operational Technology Visibility, note the following:
+**Note:** For Operational Technology Service Management users with no license for Operational Technology Visibility, note the following:
 
--   When you have the latest version of [[operational-technology-incident-management-landing-page|Operational Technology Incident Management]] installed, Industrial Process Manager is also installed.
--   When you have the latest version of [[operational-technology-change-management-landing-page|Operational Technology Change Management]] installed, Industrial Process Manager is also installed.
+-   When you have the latest version of Operational Technology Incident Management installed, Industrial Process Manager is also installed.
+-   When you have the latest version of Operational Technology Change Management installed, Industrial Process Manager is also installed.
 
 You should upgrade to the latest versions so you have access to the Operational Technology Service Management experience.
 
@@ -63,9 +63,3 @@ You should upgrade to the latest versions so you have access to the Operational 
 
 **Parent Topic:**[Configuring the Industrial Process Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/configuring-manufacturing-process-mgr.md)
 
-## Related
-
-- [[industrial-process-manager-overview|Industrial Process Manager]]
-- [[operational-technology-overview|Operational Technology]]
-- [[operational-technology-incident-management-landing-page|Operational Technology Incident Management]]
-- [[operational-technology-change-management-landing-page|Operational Technology Change Management]]

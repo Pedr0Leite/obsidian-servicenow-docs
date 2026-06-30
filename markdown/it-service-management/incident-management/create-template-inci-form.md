@@ -72,7 +72,7 @@ Application
 
 </td><td>
 
-Application scope of the rules. The scope defines whether the rules are available for all [[dex-workspace-application-tab|applications]] or for scoped applications.
+Application scope of the rules. The scope defines whether the rules are available for all applications or for scoped applications.
 
 </td></tr><tr><td>
 
@@ -119,6 +119,4 @@ Content that automatically populates records that are based on this template. Se
 
     The template is created and you can find it on the template bar.
 
-## Related
 
-- [[dex-workspace-application-tab|Applications]]

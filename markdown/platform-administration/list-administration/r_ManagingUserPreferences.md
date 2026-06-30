@@ -16,7 +16,7 @@ breadcrumb: [List editor, Administer, List administration, Forms, fields, and li
 
 Users can set user preferences for list editing by personalizing a list \(available when the list mechanic is activated\).
 
-To view and manage list editor user preferences, navigate to **[[c_UserAdministration|User Administration]]** &gt; **User Preferences**.
+To view and manage list editor user preferences, navigate to **User Administration** &gt; **User Preferences**.
 
 |User preference name|Description|
 |--------------------|-----------|
@@ -28,6 +28,3 @@ To view and manage list editor user preferences, navigate to **[[c_UserAdministr
 
 [Personal list administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-administration/c_AdministeringPersonalLists.md)
 
-## Related
-
-- [[c_UserAdministration|User administration]]

@@ -14,7 +14,7 @@ breadcrumb: [Setting up healthcare locations and healthcare organizations, Confi
 
 # Create a healthcare organization
 
-Create a healthcare organization for use with [[hcls-core-app|Healthcare and Life Sciences Service Management Core]].
+Create a healthcare organization for use with Healthcare and Life Sciences Service Management Core.
 
 ## Before you begin
 
@@ -139,6 +139,4 @@ The associated common location.
 </td></tr></tbody>
 </table>4.  Select **Save**.
 
-## Related
 
-- [[hcls-core-app|Healthcare and Life Sciences Service Management Core]]

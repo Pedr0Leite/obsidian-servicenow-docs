@@ -16,7 +16,7 @@ Schedule appointments with customers and stakeholders directly from a touchpoint
 
 ## Before you begin
 
-You can create appointments only after creating a lead or opportunity task. For information on how to [[create-new-opportunity|create an opportunity]] task from the Touchpoints module, see [[create-touchpoint-related-tasks|Create a related task from a touchpoint]]. Alternatively, you can create an opportunity task from the Opportunity module in the CSM/FSM Configurable Workspace. For details, see [[opportunity-management-tasks-tab|Add opportunity tasks]] and [[lead-management-use-tasks-tab|Add lead tasks]].
+You can create appointments only after creating a lead or opportunity task. For information on how to create an opportunity task from the Touchpoints module, see [Create a related task from a touchpoint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-touchpoint-related-tasks.md). Alternatively, you can create an opportunity task from the Opportunity module in the CSM/FSM Configurable Workspace. For details, see [Add opportunity tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management-tasks-tab.md) and [Add lead tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management-use-tasks-tab.md).
 
 Role required: sn\_crm\_touchpoint.touchpoint\_writer
 
@@ -40,14 +40,14 @@ Role required: sn\_crm\_touchpoint.touchpoint\_writer
 
 8.  Select **New**.
 
-9.  On the Create New Appointment form, fill in the [[fields|fields]].
+9.  On the Create New Appointment form, fill in the fields.
 
     For more information about the form fields for the CRM entities, refer to the corresponding topic.
 
     |CRM entity|Form field descriptions|
     |----------|-----------------------|
-    |**Lead**|[[create-lead-appointment-form|Create new appointment form]]|
-    |**Opportunity**|[[create-appointments-form|Create new appointment form]]|
+    |**Lead**|[Create new appointment form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-lead-appointment-form.md)|
+    |**Opportunity**|[Create new appointment form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-appointments-form.md)|
 
 10. Select **Save**.
 
@@ -56,24 +56,12 @@ Role required: sn\_crm\_touchpoint.touchpoint\_writer
 
 The appointment is scheduled and can be viewed from the touchpoint record's **Appointments** tab.
 
-**Parent Topic:**[[using-activity-management|Using Activity Management]]
+**Parent Topic:**[Using Activity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-activity-management.md)
 
 **Related topics**  
 
 
-[[configuring-activity-management|Configuring Activity Management]]
+[Configuring Activity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configuring-activity-management.md)
 
-[[explore-activity-management|Activity Management]]
+[Activity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-activity-management.md)
 
-## Related
-
-- [[create-touchpoint-related-tasks|Create a related task from a touchpoint]]
-- [[opportunity-management-tasks-tab|Add opportunity tasks]]
-- [[lead-management-use-tasks-tab|Add lead tasks]]
-- [[create-lead-appointment-form|Create new appointment form]]
-- [[create-appointments-form|Create new appointment form]]
-- [[using-activity-management|Using Activity Management]]
-- [[configuring-activity-management|Configuring Activity Management]]
-- [[explore-activity-management|Activity Management]]
-- [[create-new-opportunity|Create an opportunity]]
-- [[fields|Fields]]

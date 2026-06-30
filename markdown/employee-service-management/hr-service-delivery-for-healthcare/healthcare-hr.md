@@ -14,7 +14,7 @@ breadcrumb: [HR Service Delivery, Employee Service Management]
 
 # HR Service Delivery for Healthcare
 
-The ServiceNow® HR Service Delivery for Healthcare application creates a standardized, digitized, and automated physician onboarding workflow using the [[hr-hc-profile|Healthcare Professional data model]]. The application enables you to see the full picture for all the required onboarding information during and after physician onboarding. HR Service Delivery for Healthcare is a new application in the Australia release.
+The ServiceNow® HR Service Delivery for Healthcare application creates a standardized, digitized, and automated physician onboarding workflow using the Healthcare Professional data model. The application enables you to see the full picture for all the required onboarding information during and after physician onboarding. HR Service Delivery for Healthcare is a new application in the Australia release.
 
 ## Get started
 
@@ -48,6 +48,3 @@ The ServiceNow® HR Service Delivery for Healthcare application creates a standa
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[hr-hc-profile|Healthcare Professional data model]]

@@ -15,7 +15,7 @@ breadcrumb: [Card Data Security, Dispute Management, Banking applications, Finan
 
 # Using Card Data Security
 
-With [[card-data-security|Card Data Security]] installed and configured, dispute agents can reveal masked PANs and view sensitive documents at the transaction level in the [[fso-overview|Financial Services]] Operations workspace.
+With Card Data Security installed and configured, dispute agents can reveal masked PANs and view sensitive documents at the transaction level in the Financial Services Operations workspace.
 
 ## Overview of tasks in Card Data Security
 
@@ -27,7 +27,4 @@ With [[card-data-security|Card Data Security]] installed and configured, dispute
 
     Learn how attachments in the contextual side panel are handled in Card Data Security.
 
-## Related
 
-- [[card-data-security|Card Data Security]]
-- [[fso-overview|Financial Services]]

@@ -14,7 +14,7 @@ breadcrumb: [Enable Override do not disturb to receive critical alerts, Configur
 
 # Configure a customized notification for critical alert
 
-Set your custom notifications as critical for [[itsm-mobile-agent|ITSM Mobile Agent]]
+Set your custom notifications as critical for ITSM Mobile Agent
 
 ## Before you begin
 
@@ -38,6 +38,4 @@ Role required: admin
 
 7.  In the Push Notification Message table, add the **isCritical** attribute, and set the value as `true`.
 
-## Related
 
-- [[itsm-mobile-agent|ITSM Mobile Agent]]

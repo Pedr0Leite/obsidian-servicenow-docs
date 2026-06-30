@@ -12,15 +12,15 @@ breadcrumb: [Using customer-supplied keys with Field Encryption Enterprise, Usin
 
 # Wrap your customer-supplied key
 
-Wrap the symmetric key to use for [[encryption-landing|encryption]] with the downloaded public key.
+Wrap the symmetric key to use for encryption with the downloaded public key.
 
 ## Before you begin
 
-**Note:** This procedure describes options that are available with KMF base system and options to be used with [[now-platform-encryption|Field Encryption Enterprise]] functionality. Field Encryption Enterprise functionality is available only when the com.glide.now.platform.encryption plugin is active. See [[activate-platform-encryption|Activate Field Encryption]] for more information on obtaining Field Encryption Enterprise.
+**Note:** This procedure describes options that are available with KMF base system and options to be used with Field Encryption Enterprise functionality. Field Encryption Enterprise functionality is available only when the com.glide.now.platform.encryption plugin is active. See [Activate Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/activate-platform-encryption.md) for more information on obtaining Field Encryption Enterprise.
 
 The examples in this task use the OpenSSL tool. For more information on this tool see [https://www.openssl.org](https://www.openssl.org). If you are using other cryptographic tools, such as LibreSSL or GnuTLS, refer to the documentation for those products for similar steps.
 
--   Modify optional properties that control the size, padding algorithm, and validity period of the key. See [[customer-supplied-keys|Configure properties for customer-supplied keys]].
+-   Modify optional properties that control the size, padding algorithm, and validity period of the key. See [Configure properties for customer-supplied keys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/customer-supplied-keys.md).
 -   You must have your symmetric key \(.BIN\) for encryption.
 
     **Important:** Your key must be in binary format. If another format is used, a `Token failed validation. Please reattach the unmodified token.`error message displays.
@@ -121,18 +121,9 @@ N/A
 
 ## What to do next
 
-Return to [[upload-customer-supplied-key|Configure and upload your customer supplied key]] to upload your wrapped key.
+Return to [Configure and upload your customer supplied key](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/upload-customer-supplied-key.md) to upload your wrapped key.
 
-**Parent Topic:**[[csk-landing|Using customer-supplied keys with Field Encryption Enterprise]]
+**Parent Topic:**[Using customer-supplied keys with Field Encryption Enterprise](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/csk-landing.md)
 
-**Parent Topic:**[[csk-landing-2|Using customer supplied keys with Column Level Encryption Enterprise]]
+**Parent Topic:**[Using customer supplied keys with Column Level Encryption Enterprise](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/csk-landing-2.md)
 
-## Related
-
-- [[activate-platform-encryption|Activate Field Encryption]]
-- [[customer-supplied-keys|Configure properties for customer-supplied keys]]
-- [[upload-customer-supplied-key|Configure and upload your customer supplied key]]
-- [[csk-landing|Using customer-supplied keys with Field Encryption Enterprise]]
-- [[csk-landing-2|Using customer supplied keys with Column Level Encryption Enterprise]]
-- [[encryption-landing|Encryption]]
-- [[now-platform-encryption|Field Encryption Enterprise]]

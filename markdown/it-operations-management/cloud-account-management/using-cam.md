@@ -14,9 +14,5 @@ breadcrumb: [Cloud Account Management, ITOM Cloud Accelerate, IT Operations Mana
 
 # Using Cloud Account Management in Cloud Workspace
 
-The [[cam-landing|Cloud Account Management]] app provides the capability to manage your [[cloud-accounts|cloud accounts]].
+The Cloud Account Management app provides the capability to manage your cloud accounts.
 
-## Related
-
-- [[cam-landing|Cloud Account Management]]
-- [[cloud-accounts|Cloud accounts]]

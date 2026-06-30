@@ -14,17 +14,12 @@ breadcrumb: [Legal Counsel Center, Legal Service Delivery, Legal and Contract Op
 
 # Legal Counsel Center reference
 
-[[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] topics provide additional information about components installed and the notifications available in [[legal-counsel-center-landing|Legal Counsel Center]].
+Reference topics provide additional information about components installed and the notifications available in Legal Counsel Center.
 
 -   **[Roles installed with Legal Counsel Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/roles-installed-with-legal-counsel-center.md)**  
 User roles are installed with activation of the Legal Counsel Center Workspace plugin.
 -   **[Legal Counsel Center notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/legal-counsel-center-config-notification.md)**  
-[[legal-counsel-center-config-notification|Legal Counsel Center notifications]] enable users to subscribe to items that interest them and unsubscribe from messages that do not interest them and are not mandatory.
+Legal Counsel Center notifications enable users to subscribe to items that interest them and unsubscribe from messages that do not interest them and are not mandatory.
 
 **Parent Topic:**[Legal Counsel Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/legal-counsel-center-landing.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[legal-counsel-center-config-notification|Legal Counsel Center notifications]]

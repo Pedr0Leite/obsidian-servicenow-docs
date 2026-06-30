@@ -12,7 +12,7 @@ breadcrumb: [Audit Management Console, Configuring auditing for a table, Auditin
 
 # Enable an audit deletion estimate
 
-Enable the audit deletion estimation feature that calculates the approximate number of records that will be deleted based on retention [[ca-policies|policies]]. This information helps you make an informed decision before applying a retention policy, which permanently deletes audit data and cannot be reversed.
+Enable the audit deletion estimation feature that calculates the approximate number of records that will be deleted based on retention policies. This information helps you make an informed decision before applying a retention policy, which permanently deletes audit data and cannot be reversed.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 1.  In the filter navigator, enter `sys_properties.list`.
 
-2.  Set the relevant [[ca-system-properties|system properties]].
+2.  Set the relevant system properties.
 
     |Name|Value|
     |----|-----|
@@ -36,7 +36,3 @@ Role required: admin
 
 The estimated number of records to be deleted appears in the **Retention** tab of the Audit Management Console.
 
-## Related
-
-- [[ca-policies|Policies]]
-- [[ca-system-properties|System properties]]

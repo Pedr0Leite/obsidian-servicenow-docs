@@ -14,11 +14,11 @@ breadcrumb: [Conversational Integration with Slack, Integrate VA with messaging 
 
 # Virtual Agent features supported in Slack conversations
 
-[[virtual-agent-landing-page|Virtual Agent]] features, such as AI Search results, Virtual Agent notifications, and Virtual Agent Designer controls for creating Virtual Agent conversations are supported in Slack bot conversations.
+Virtual Agent features, such as AI Search results, Virtual Agent notifications, and Virtual Agent Designer controls for creating Virtual Agent conversations are supported in Slack bot conversations.
 
 **Note:** Conversational Integration for Slack is not supported for on-prem instances.
 
-This section highlights key Virtual Agent features that are supported in the [[mssg-slack|Conversational Integration with Slack]] app.
+This section highlights key Virtual Agent features that are supported in the Conversational Integration with Slack app.
 
 ## AI Search results
 
@@ -26,7 +26,7 @@ Virtual Agent can generate AI Search results that are displayed as Genius result
 
 ## URL navigation for chat links
 
-In Virtual Agent and Live Agent conversations on the Slack app, links to ServiceNow records open automatically in base system portals—including links displayed in output cards, Virtual Agent notifications, and AI Search results. If needed, admins can change the portals in which these links are opened. For configuration details, see [[ac-configure-url-navigation|Configure URL navigation for chat links]].
+In Virtual Agent and Live Agent conversations on the Slack app, links to ServiceNow records open automatically in base system portals—including links displayed in output cards, Virtual Agent notifications, and AI Search results. If needed, admins can change the portals in which these links are opened. For configuration details, see [Configure URL navigation for chat links](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ac-configure-url-navigation.md).
 
 ## Trusted Domains
 
@@ -60,8 +60,3 @@ Refer to the unsupported features of Virtual Agent in Conversational Integration
 
 **Parent Topic:**[Conversational Integration with Slack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/mssg-slack.md)
 
-## Related
-
-- [[ac-configure-url-navigation|Configure URL navigation for chat links]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[mssg-slack|Conversational Integration with Slack]]

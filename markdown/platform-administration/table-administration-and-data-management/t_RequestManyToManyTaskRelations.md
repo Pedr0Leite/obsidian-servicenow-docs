@@ -74,11 +74,8 @@ Select the date and time to activate the plugin.
 
 4.  Select **Submit**.
 
-    After the maintenance window, the system installs the plugin on your instance. To confirm the installation, go to the Installed tab in the [[application-manager|Application Manager]].
+    After the maintenance window, the system installs the plugin on your instance. To confirm the installation, go to the Installed tab in the Application Manager.
 
 
 **Parent Topic:**[Creating many-to-many task relations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_ManyToManyTaskRelations.md)
 
-## Related
-
-- [[application-manager|Application Manager]]

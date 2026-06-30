@@ -12,7 +12,7 @@ breadcrumb: [Screen fields, Configure a details screen, Record screen, Mobile sc
 
 # Add a video screen field to a record screen
 
-Learn how to use a video screen field to view embedded videos in your [[mobile-screens-landing|mobile screens]].
+Learn how to use a video screen field to view embedded videos in your mobile screens.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **System Mobile** &gt; **Screens**.
 
-2.  Open the [[form-screen|record screen]] that you want to add an enhancement to.
+2.  Open the record screen that you want to add an enhancement to.
 
     You can see record screens by filtering where **Class** is **Record Screen**.
 
@@ -41,10 +41,5 @@ Role required: admin
 7.  Select **Submit**.
 
 
-**Parent Topic:**[[sg-screen-field-enhancements|Screen fields]]
+**Parent Topic:**[Screen fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-screen-field-enhancements.md)
 
-## Related
-
-- [[sg-screen-field-enhancements|Screen fields]]
-- [[mobile-screens-landing|Mobile screens]]
-- [[form-screen|Record screen]]

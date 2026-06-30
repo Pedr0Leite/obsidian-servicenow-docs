@@ -24,7 +24,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[knowledge-graph-landing|Knowledge Graph]] Designer** &gt; **Open Enterprise Graph** &gt; **Select multiple tables**.
+1.  Navigate to **All** &gt; **Knowledge Graph Designer** &gt; **Open Enterprise Graph** &gt; **Select multiple tables**.
 
     Choose up to 200 nodes to customize your view. Once you select a node, all the related edges will also be selected.
 
@@ -38,6 +38,4 @@ Role required: admin
 
 4.  Select **Apply** to view these nodes and its related tables on Enterprise Graph canvas.
 
-## Related
 
-- [[knowledge-graph-landing|Knowledge Graph]]

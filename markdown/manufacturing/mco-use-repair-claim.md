@@ -16,11 +16,11 @@ The Agents workspace enables the OEMs to create, view, review, and approve the r
 
 |Tasks|Description|
 |-----|-----------|
-|[[mco-create-repair-claim|Create a repair claim manually]]|Create repair claim case.|
-|[[mco-view-repair-cc|View a repair claim case]]|View the required repair claim cases.|
-|[[mco-approve-repair-claims|Reviewing and approving repair claims]]|Different types of approval.|
+|[Create a repair claim manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-create-repair-claim.md)|Create repair claim case.|
+|[View a repair claim case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-view-repair-cc.md)|View the required repair claim cases.|
+|[Reviewing and approving repair claims](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-approve-repair-claims.md)|Different types of approval.|
 
--   **[[mco-create-rc-using-playbook|Create a repair claim using playbook]]**  
+-   **[Create a repair claim using playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-create-rc-using-playbook.md)**  
 Create a repair claim for the products under warranty or recall using the playbook experience.
 -   **[Create a repair claim manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-create-repair-claim.md)**  
 Create a repair claim for the products under warranty or recall.
@@ -29,12 +29,5 @@ View the repair claim cases.
 -   **[Reviewing and approving repair claims](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-approve-repair-claims.md)**  
 Agents portal or workspace enables you to review and approve the claims submitted by a dealer.
 
-**Parent Topic:**[[mco-agent-management|Agent management]]
+**Parent Topic:**[Agent management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-agent-management.md)
 
-## Related
-
-- [[mco-create-repair-claim|Create a repair claim manually]]
-- [[mco-view-repair-cc|View a repair claim case]]
-- [[mco-approve-repair-claims|Reviewing and approving repair claims]]
-- [[mco-create-rc-using-playbook|Create a repair claim using playbook]]
-- [[mco-agent-management|Agent management]]

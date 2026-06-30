@@ -14,7 +14,7 @@ breadcrumb: [Activating the Localization Framework, Configure the Localization F
 
 # Activate Localization Framework
 
-You can activate the [[localization-framework-landing|Localization Framework]] Installer plugin \(com.glide.[[ia-localization-il|localization]]\_framework.installer\) for Localization Framework if you have the admin role. The application installs related plugins if they are not already installed. Optionally, you can activate plugins for the [[localization-framework-hub-spoke-architecture|Localization Framework Hub and Spoke architecture]] on a set of instances.
+You can activate the Localization Framework Installer plugin \(com.glide.localization\_framework.installer\) for Localization Framework if you have the admin role. The application installs related plugins if they are not already installed. Optionally, you can activate plugins for the Localization Framework Hub and Spoke architecture on a set of instances.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ The following items are installed with Localization Framework:
 
 -   Plugins
 -   Roles
--   [[c_ScheduledJobs|Scheduled jobs]]
+-   Scheduled jobs
 -   Tables
 
 For more information, see [Components installed with Localization Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/components-installed-with-lf.md).
@@ -51,7 +51,7 @@ For more information, see [Components installed with Localization Framework](htt
 
     **Note:** When domain separation and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
 
-    You will see a message after installation is completed. For information about the components installed with a plugin, see [[find-components|Find components installed with an application]].
+    You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
 
 ## What to do next
@@ -64,10 +64,3 @@ Decide which instance\(s\) should function as spokes. On each of those instances
 
 **Parent Topic:**[Activating the Localization Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/activation-localization-framework.md)
 
-## Related
-
-- [[find-components|Find components installed with an application]]
-- [[localization-framework-landing|Localization Framework]]
-- [[ia-localization-il|Localization]]
-- [[localization-framework-hub-spoke-architecture|Localization Framework Hub and Spoke architecture]]
-- [[c_ScheduledJobs|Scheduled jobs]]

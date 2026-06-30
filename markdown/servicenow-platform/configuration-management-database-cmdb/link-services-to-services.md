@@ -14,7 +14,7 @@ breadcrumb: [Service instances \(Application services\), Configuration Managemen
 
 # Link application services
 
-You can manually link two application services by adding a [[reference|reference]] to one application service into another application service. The service that contains the reference, becomes a dependent service. The service that you include as a reference is a contained service. You can link application services to create dependencies for impact monitoring in Event Management.
+You can manually link two application services by adding a reference to one application service into another application service. The service that contains the reference, becomes a dependent service. The service that you include as a reference is a contained service. You can link application services to create dependencies for impact monitoring in Event Management.
 
 ## Before you begin
 
@@ -99,6 +99,3 @@ Select the name of the application service that you want to link as a contained 
 
 [View contained application services in classic Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/view-contained-services.md)
 
-## Related
-
-- [[reference|Reference]]

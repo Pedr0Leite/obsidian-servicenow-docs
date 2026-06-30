@@ -43,10 +43,7 @@ The default Constituent registration page \(uk\_gds\_constituent\_register\) con
 
 These pages and forms adhere to GOV.UK form patterns using single-column layout, inline validation via `ukgds-error-message`, error summary via `ukgds-error-summary`, reCAPTCHA, and a terms &amp; conditions checkbox.
 
-For more information on how to edit widgets that appear on a page in the Service Portal Designer, see [[psds-config-govuk-dev-tk-portal-pages|Configure the GOV.UK Design System Service Portal Pages]]. For more information on portal pages, see [Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_ConfigureAPage.md).
+For more information on how to edit widgets that appear on a page in the Service Portal Designer, see [Configure the GOV.UK Design System Service Portal Pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-govuk-dev-tk-portal-pages.md). For more information on portal pages, see [Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_ConfigureAPage.md).
 
 **Parent Topic:**[Configure the GOV.UK Design System Service Portal Pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-govuk-dev-tk-portal-pages.md)
 
-## Related
-
-- [[psds-config-govuk-dev-tk-portal-pages|Configure the GOV.UK Design System Service Portal Pages]]

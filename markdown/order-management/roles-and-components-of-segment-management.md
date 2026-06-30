@@ -12,7 +12,7 @@ breadcrumb: [Configure Segment Management, Configure Partner Relationship Manage
 
 # Roles and components of Segment Management
 
-The [[segment-management|Segment Management]] application uses roles to provide access to information, identify internal and external users, maintain data security, and establish different types of relationships between segments and partners.
+The Segment Management application uses roles to provide access to information, identify internal and external users, maintain data security, and establish different types of relationships between segments and partners.
 
 The Segment Management plugin \(com.snc.segment\_mgmt\) comes with a set of functional roles, each with varying levels of access to segments and records.
 
@@ -38,23 +38,16 @@ The following table lists the granular roles installed with Segment management.
 
 ## System properties
 
-Navigate to **All** &gt; **[[partner-relationship-management|Partner Relationship Management]]** &gt; **Properties**.
+Navigate to **All** &gt; **Partner Relationship Management** &gt; **Properties**.
 
-The Segment admin \(sn\_seg.segment\_mgmt\_admin\) hasread and write access for the \[glide.ui.sn\_seg\_segment\_activity.[[fields|fields]]\] property.
+The Segment admin \(sn\_seg.segment\_mgmt\_admin\) hasread and write access for the \[glide.ui.sn\_seg\_segment\_activity.fields\] property.
 
-**Parent Topic:**[[configure-segment-management|Configure Segment Management]]
+**Parent Topic:**[Configure Segment Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-segment-management.md)
 
 **Related topics**  
 
 
 [Configure Segment Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-segment-management.md)
 
-[[data-model-for-segment-management|Data model for Segment Management]]
+[Data model for Segment Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/data-model-for-segment-management.md)
 
-## Related
-
-- [[configure-segment-management|Configure Segment Management]]
-- [[data-model-for-segment-management|Data model for Segment Management]]
-- [[segment-management|Segment Management]]
-- [[partner-relationship-management|Partner Relationship Management]]
-- [[fields|Fields]]

@@ -14,7 +14,7 @@ breadcrumb: [Use, Proactive Service Experience Workflows, Product Support for Te
 
 # About messages used in escalation workflows in Proactive Service Experience Workflows
 
-Multiple messages that are used within the incident escalation flows are available with the base [[psew-landing-page|Proactive Service Experience Workflows]] application.
+Multiple messages that are used within the incident escalation flows are available with the base Proactive Service Experience Workflows application.
 
 These messages provide instructions to technical support engineers to troubleshoot, escalate, and resolve incidents. The ones provided with the base system address common network initiated incidents, but can be modified for your troubleshooting processes.
 
@@ -23,6 +23,3 @@ Customize the messages that provide instructions to the network engineers that a
 
 **Parent Topic:**[Using Proactive Service Experience Workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/use-assurance-workflows.md)
 
-## Related
-
-- [[psew-landing-page|Proactive Service Experience Workflows]]

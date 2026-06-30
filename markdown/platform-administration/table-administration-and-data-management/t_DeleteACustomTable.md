@@ -28,11 +28,11 @@ Role required: admin
 
 3.  Select **Delete All Records**.
 
-    Deleting all records before deleting the table ensures that the business logic is properly executed \(for example, [[reference-email-admin|reference]] cascade rules or other delete business rules\). If you do not delete all records from the table first, then you must manually fix any other records or tables that the table deletion impacts. Cascade deletions are also taken care of in this step.
+    Deleting all records before deleting the table ensures that the business logic is properly executed \(for example, reference cascade rules or other delete business rules\). If you do not delete all records from the table first, then you must manually fix any other records or tables that the table deletion impacts. Cascade deletions are also taken care of in this step.
 
 4.  Select **Delete**.
 
-    The **Delete** button is only available for [[custom-tables|custom tables]] beginning with u\_ \(global\) or x\_ \(scoped\).
+    The **Delete** button is only available for custom tables beginning with u\_ \(global\) or x\_ \(scoped\).
 
 5.  In the confirmation dialog box, enter `delete` and click **OK**.
 
@@ -51,7 +51,3 @@ Role required: admin
 
 [Deleting custom tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_DeleteATable.md)
 
-## Related
-
-- [[reference-email-admin|Reference]]
-- [[custom-tables|Custom tables]]

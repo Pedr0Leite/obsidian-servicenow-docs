@@ -18,13 +18,13 @@ The AI interaction wrap-up feature uses AI to generate wrap-up content for inter
 
 Agents can review and modify the AI-generated wrap-up content before submitting it. If there's insufficient context to determine a wrap-up code, the system uses the default wrap-up code.
 
-**Note:** The AI interaction wrap-up feature uses the Wrap Up Completion skill to generate the wrap-up content. For more information, see [[enable-ai-wrap-up-code-and-notes-summary-generation|Enable Now Assist to generate wrap up code and notes summary]].
+**Note:** The AI interaction wrap-up feature uses the Wrap Up Completion skill to generate the wrap-up content. For more information, see [Enable Now Assist to generate wrap up code and notes summary](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/enable-ai-wrap-up-code-and-notes-summary-generation.md).
 
-The AI interaction wrap-up feature is available for the following interaction record pages in [[csm-workspaces-configure|CSM Configurable Workspace]]:
+The AI interaction wrap-up feature is available for the following interaction record pages in CSM Configurable Workspace:
 
--   [[csm-interaction-record-page|CSM interaction record page]]
--   [[csm-native-voice-record-page|CSM voice interaction record page]]
--   [[csm-centered-chat-interaction-page|CSM centered chat interaction record page]]
+-   [CSM interaction record page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-interaction-record-page.md)
+-   [CSM voice interaction record page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-native-voice-record-page.md)
+-   [CSM centered chat interaction record page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-centered-chat-interaction-page.md)
 
 ## How it works
 
@@ -102,13 +102,5 @@ To locate this property, navigate to **All** &gt; **System Properties** &gt; **A
 
 [Enable interaction wrap-up codes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/enable-interaction-wrapup-codes.md)
 
-[[ai-generated-wrap-up-codes-and-notes-summary|Use AI to generate wrap up code and notes summary]]
+[Use AI to generate wrap up code and notes summary](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ai-generated-wrap-up-codes-and-notes-summary.md)
 
-## Related
-
-- [[enable-ai-wrap-up-code-and-notes-summary-generation|Enable Now Assist to generate wrap up code and notes summary]]
-- [[csm-interaction-record-page|CSM Interaction record page]]
-- [[csm-native-voice-record-page|CSM voice interaction record page]]
-- [[csm-centered-chat-interaction-page|CSM centered chat interaction record page]]
-- [[ai-generated-wrap-up-codes-and-notes-summary|Use AI to generate wrap up code and notes summary]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

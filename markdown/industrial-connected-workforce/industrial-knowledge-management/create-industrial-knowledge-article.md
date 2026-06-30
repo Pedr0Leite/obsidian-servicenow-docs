@@ -34,7 +34,7 @@ Role required: sn\_icw.knowledge\_manager or sn\_icw.knowledge\_author
 
     The template can be Standard or One point lesson.
 
-5.  On the [[industrial-knowledge-article-form|Industrial knowledge article form]], fill in the fields.
+5.  On the Industrial knowledge article form, fill in the fields.
 
     For a description of the field values, see [Industrial knowledge article form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-knowledge-management/industrial-knowledge-article-form.md).
 
@@ -71,6 +71,3 @@ Published articles are displayed and available in the search functionality.
 
 **Parent Topic:**[Using Industrial Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-knowledge-management/using-industrial-knowledge-mgmt.md)
 
-## Related
-
-- [[industrial-knowledge-article-form|Industrial knowledge article form]]

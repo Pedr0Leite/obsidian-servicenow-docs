@@ -23,13 +23,13 @@ Select one of several views that present different ratings:
 -   History
 -   Live Feed
 
-Some views display an overall rating column, which lists categories used to evaluate the assessable record. Only categories in which the assessable record has been evaluated appear on the scorecard. If the ratings section does not display any data, the assessable record or [[r_CategoryResults|category results]] associated to the assessable record have been deleted.
+Some views display an overall rating column, which lists categories used to evaluate the assessable record. Only categories in which the assessable record has been evaluated appear on the scorecard. If the ratings section does not display any data, the assessable record or category results associated to the assessable record have been deleted.
 
 Click a category to view the category record. Point to a category to display a line chart that shows the rating trend for that category.
 
 \[Omitted image "VendorScorecardTrendChart.png"\] Alt text: Vendor scorecard trend chart
 
-**Parent Topic:**[[t_ViewAnAssessmentScorecard|View an assessment scorecard]]
+**Parent Topic:**[View an assessment scorecard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAnAssessmentScorecard.md)
 
 **Related topics**  
 
@@ -48,7 +48,3 @@ Click a category to view the category record. Point to a category to display a l
 
 [Live feed view of assessable records]()
 
-## Related
-
-- [[t_ViewAnAssessmentScorecard|View an assessment scorecard]]
-- [[r_CategoryResults|Category results]]

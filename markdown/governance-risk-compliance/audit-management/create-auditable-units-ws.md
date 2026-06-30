@@ -24,17 +24,17 @@ Role required: sn\_audit.manager, sn\_audit\_ws.supervisor, sn\_audit.user, sn\_
 
 Auditable units are a combination of different entities such as business units, products or services, legal entities, regulatory required audits, processes, programs, systems, policies, regulation, financial statements, and others.
 
-After you determine the nature and scope of the auditable units, your goal is to perform [[risk-assessments|risk assessments]], and scope auditable units and entities based on the risk rating.
+After you determine the nature and scope of the auditable units, your goal is to perform risk assessments, and scope auditable units and entities based on the risk rating.
 
 See also [Perform advanced risk assessment in the Risk workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/perform-ara-workspace.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Audit** &gt; **[[audit-management-overview-ws|Audit Workspace]]**.
+1.  Navigate to **All** &gt; **Audit** &gt; **Audit Workspace**.
 
 2.  Click **Create** and select **Auditable unit** from the **Home** page.
 
-    You can also [[create-auditable-unit|create an auditable unit]] by navigating to the Audit workspace List page.
+    You can also create an auditable unit by navigating to the Audit workspace List page.
 
     1.  Click the lists icon \(\[Omitted image "ListsIcon.jpg"\] Alt text: List icon.\).
     2.  Click **All auditable units** or **My auditable units** in the Scoping list.
@@ -137,7 +137,7 @@ Inherent risk rating
 
 </td><td>
 
-Inherent risk score. The value in this field is derived from [[advanced-risk-assessment|advanced risk assessment]]. This field appears if the risk assessment method is **Detailed Risk Assessment**.
+Inherent risk score. The value in this field is derived from advanced risk assessment. This field appears if the risk assessment method is **Detailed Risk Assessment**.
 
 </td></tr><tr><td>
 
@@ -174,9 +174,4 @@ Residual risk score. The value in this field is derived from advanced risk asses
 
     For more information, see risk assessment method in [Create an auditable unit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/create-auditable-unit.md).
 
-## Related
 
-- [[risk-assessments|risk assessments]]
-- [[audit-management-overview-ws|Audit Workspace]]
-- [[create-auditable-unit|Create an auditable unit]]
-- [[advanced-risk-assessment|advanced risk assessment]]

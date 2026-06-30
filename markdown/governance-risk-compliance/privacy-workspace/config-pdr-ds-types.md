@@ -15,7 +15,7 @@ breadcrumb: [Configure external-facing PDR form, Configure, Personal Data Rights
 
 # Configure the data subject types for a jurisdiction
 
-Specify which [[data-subjects|data subject types]] the external-facing [[personal-data-rights|Personal Data Rights]] \(PDR\) form offers in each location, so the form presents only the data subject types that local regulation supports.
+Specify which data subject types the external-facing Personal Data Rights \(PDR\) form offers in each location, so the form presents only the data subject types that local regulation supports.
 
 ## Before you begin
 
@@ -59,7 +59,3 @@ Requesters raising a PDR request from this jurisdiction now see only the data su
 
 **Parent Topic:**[External-facing Personal Data Rights form configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/configure-pdr-ext-form.md)
 
-## Related
-
-- [[data-subjects|Data subject types]]
-- [[personal-data-rights|personal data rights]]

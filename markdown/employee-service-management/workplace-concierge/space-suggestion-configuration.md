@@ -14,16 +14,16 @@ breadcrumb: [Configure workplace space suggestions for employees, Configure, Wor
 
 # Space suggestion Configuration
 
-Administrators can configure space suggestions for employees to help employees reserve their preferred workspace. Employees can reserve a workspace based on their preferences using the [[wsd-mobile-overview|Workplace Service Delivery for Mobile]] app. Workplace suggestions for an employee are derived from employee presence data, location preferences, employee's favorite workspaces, past and future reservation data, preferred collaborators, and [[standard-service|standard services]].
+Administrators can configure space suggestions for employees to help employees reserve their preferred workspace. Employees can reserve a workspace based on their preferences using the Workplace Service Delivery for Mobile app. Workplace suggestions for an employee are derived from employee presence data, location preferences, employee's favorite workspaces, past and future reservation data, preferred collaborators, and standard services.
 
 ## Before you begin
 
 The following plugins are required:
 
--   [[workplace-safety-mgmt-hr|Workplace Core]]
--   [[workplace-concierge-feat|Workplace Concierge]]
--   [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
--   [[workplace-space-mgmt-ovw|Workplace Space Management]]
+-   Workplace Core
+-   Workplace Concierge
+-   Workplace Reservation Management
+-   Workplace Space Management
 
 **Note:** Load the demo data available with Workplace Core after installing the application. The demo data available with Workplace Core provides sample data types to illustrate Space Suggestion Configuration table \[sn\_wsd\_core\_space\_suggestion\_configuration\] use. If you’re using demo data or product data \(seed data\), some fields are pre-filled. If you aren’t using the demo data, you can configure the space suggestions table record as required.
 
@@ -59,7 +59,7 @@ Option to select a suggestion type to display preferred workplace suggestions to
 -   Favorites: Workspaces set as favorite by an employee is prioritized and favorite spaces show up first in the search results when an employee searches for a workspace.
 -   Past and Future reservations: Workspace suggestions based on employee's past and future reservation data is considered and prioritized while suggesting a space to an employee.
 -   Proximity: Employee's preferred workplace collaborators. Preferred collaborators and their in-office days or workday schedule is taken into consideration when proposing a space to an employee.
--   Standard services: Workspace suggestion based on preferred [[workplace-services|workplace services]] by an employee.
+-   Standard services: Workspace suggestion based on preferred workplace services by an employee.
 For more information, see [Manage your in-office presence preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/workplace-preferences-emp-center.md) and [Set Employee Presence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/use-workplace-concierge.md).
 
 </td></tr><tr><td>
@@ -109,12 +109,3 @@ Option to add a tag or label for a space suggestion type. For example,the tags c
 
 [Set Employee Presence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/use-workplace-concierge.md)
 
-## Related
-
-- [[wsd-mobile-overview|Workplace Service Delivery for Mobile]]
-- [[standard-service|Standard services]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-concierge-feat|Workplace Concierge]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-space-mgmt-ovw|Workplace Space Management]]
-- [[workplace-services|Workplace Services]]

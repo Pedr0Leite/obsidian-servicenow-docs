@@ -20,11 +20,11 @@ Create an achievement rule item to define if all or a count of items need to be 
 
 Role required: sn\_lep.achievement\_manager
 
-[[create-achievement-rule|Create an achievement rule]]. For more information see, [Create an achievement rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-achievement-rule.md).
+Create an achievement rule. For more information see, [Create an achievement rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-achievement-rule.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[achievements-lxp|Achievements]]** &gt; **Achievement Rules**.
+1.  Navigate to **All** &gt; **Achievements** &gt; **Achievement Rules**.
 
 2.  Open the achievement rule that you want to add an achievement rule item to.
 
@@ -99,7 +99,7 @@ Order in which the achievement rule item appears.
 
 [Create a content collection]()
 
-[Create internal [[exploring-learning-exp|Learning]] content]()
+[Create internal Learning content]()
 
 [View external Learning content]()
 
@@ -113,8 +113,3 @@ Order in which the achievement rule item appears.
 
 [Create an achievement rule]()
 
-## Related
-
-- [[create-achievement-rule|Create an achievement rule]]
-- [[achievements-lxp|Achievements]]
-- [[exploring-learning-exp|Learning]]

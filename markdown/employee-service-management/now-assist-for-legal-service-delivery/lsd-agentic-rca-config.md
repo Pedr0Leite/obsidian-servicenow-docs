@@ -14,11 +14,11 @@ breadcrumb: [Configure agentic workflow, Configure, Now Assist for Legal Service
 
 # Add restricted caller access privileges for accessing the legal request table
 
-Create restricted caller access \(RCA\) privileges to ensure authorized access to the legal request table in the [[now-assist-lsd-landing|Now Assist for Legal Service Delivery \(LSD\)]] application.
+Create restricted caller access \(RCA\) privileges to ensure authorized access to the legal request table in the Now Assist for Legal Service Delivery \(LSD\) application.
 
 ## Before you begin
 
-Set the application scope to **[[legal-request-management-landing-page|Legal Request Management]]** in the application picker. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
+Set the application scope to **Legal Request Management** in the application picker. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
 
 Role required: admin
 
@@ -481,7 +481,4 @@ Operation that was performed on the target resource. Select **Read**.
 </td></tr></tbody>
 </table>    3.  Select **Submit**.
 
-## Related
 
-- [[now-assist-lsd-landing|Now Assist for Legal Service Delivery \(LSD\)]]
-- [[legal-request-management-landing-page|Legal Request Management]]

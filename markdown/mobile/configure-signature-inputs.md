@@ -12,23 +12,23 @@ breadcrumb: [Input form screen, Mobile screen types, Mobile screens, Mobile app 
 
 # Configure input form screens with signature inputs
 
-Configure input fields that your users can use to sign electronically on the [[parameter-input-screen|input form screen]]. Users can sign on the screen or type their name to record their signature.
+Configure input fields that your users can use to sign electronically on the input form screen. Users can sign on the screen or type their name to record their signature.
 
 ## Before you begin
 
-You must create an input form screen before you create inputs. For information about creating an input form screen, see [[parameter-screen-config|Configure an input form screen]].
+You must create an input form screen before you create inputs. For information about creating an input form screen, see [Configure an input form screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/parameter-screen-config.md).
 
 Role required: admin
 
 ## About this task
 
-Signature inputs support both declarative and scripted writeback actions in action items. For information about action items, see [[sg-studio-create-action-item|Configure an action item]].
+Signature inputs support both declarative and scripted writeback actions in action items. For information about action items, see [Configure an action item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-studio-create-action-item.md).
 
 Configure these inputs by using the signature input type with the optional **IsOverlay** attribute. By default, signatures are rendered in the full modal window. If you set the **IsOverlay** attribute to `true`, the signature renders in a half modal window. When a signature input is configured as the only input on a page and the **IsOverlay** attribute is set to `true`, the attribute is ignored. In this case, the signature is rendered in the full modal window.
 
 **Important:** For HR workflows that use a precondition for an HR Task Signature, these preconditions must be replaced with the new signature input type. Don’t configure both the precondition as an HR Task Signature and the signature input type. Using both is a misconfiguration.
 
-Signature inputs are available [[mobile-offline-mode|offline]]. [[mobile-ui-rules|Mobile UI rules]] apply to signature inputs.
+Signature inputs are available [offline](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-offline-mode.md). [Mobile UI rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-ui-rules.md) apply to signature inputs.
 
 ## Procedure
 
@@ -69,13 +69,5 @@ Signature inputs are available [[mobile-offline-mode|offline]]. [[mobile-ui-rule
 
 ## What to do next
 
-If you want to configure a scripted writeback action to save the signature input for this input form screen, add the scripted writeback action to the action item. For details, see [[signature-input-writeback-action|Configure a scripted writeback action that saves a signature input]].
+If you want to configure a scripted writeback action to save the signature input for this input form screen, add the scripted writeback action to the action item. For details, see [Configure a scripted writeback action that saves a signature input](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/signature-input-writeback-action.md).
 
-## Related
-
-- [[parameter-screen-config|Configure an input form screen]]
-- [[sg-studio-create-action-item|Configure an action item]]
-- [[mobile-offline-mode|Offline mode]]
-- [[mobile-ui-rules|Mobile UI Rules]]
-- [[signature-input-writeback-action|Configure a scripted writeback action that saves a signature input]]
-- [[parameter-input-screen|Input form screen]]

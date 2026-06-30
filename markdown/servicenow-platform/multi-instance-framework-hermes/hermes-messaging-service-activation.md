@@ -14,11 +14,11 @@ breadcrumb: [Configure, Hermes Messaging Service, Manage service capabilities, E
 
 # Activating the Hermes Messaging Service
 
-The [[hermes-messaging-service|Hermes Messaging Service]] is enabled when the Glide Hermes Message Queue plugin \(com.glide.hermes\) is activated.
+The Hermes Messaging Service is enabled when the Glide Hermes Message Queue plugin \(com.glide.hermes\) is activated.
 
 This plugin isn't activated directly. Instead, the plugin is activated by any of the following actions:
 
--   Activation of the ServiceNow Stream [[c_Connect|Connect]] Installer \(com.glide.hub.stream\_connect.installer\) plugin
+-   Activation of the ServiceNow Stream Connect Installer \(com.glide.hub.stream\_connect.installer\) plugin
 -   Installation of the Log Export Service application
 -   Activation of the IDR plugin \(com.glide.idr\) in Utah or higher
 -   Activation of the IDR plugin \(com.glide.idr\), and then a subsequent upgrade to Utah or higher
@@ -36,7 +36,3 @@ This plugin isn't activated directly. Instead, the plugin is activated by any of
 
 [Restricting access to Hermes]()
 
-## Related
-
-- [[hermes-messaging-service|Hermes Messaging Service]]
-- [[c_Connect|Connect]]

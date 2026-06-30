@@ -168,7 +168,7 @@ Last activity
 
 </td><td>
 
-The date when the subscription record was last active. For Microsoft 365 products, this field is populated from the Software Usages \[samp\_sw\_usage\] table and [[m365-apps-usage-report|Microsoft 365 Apps Usage Reports]] \[samp\_m365-apps-usage-report\] table. This field determines usage-based optimization recommendation.
+The date when the subscription record was last active. For Microsoft 365 products, this field is populated from the Software Usages \[samp\_sw\_usage\] table and Microsoft 365 Apps Usage Reports \[samp\_m365-apps-usage-report\] table. This field determines usage-based optimization recommendation.
 
 </td><td>
 
@@ -256,7 +256,7 @@ No \(Automatically determined\)
 
 </td><td>
 
-[[microsoft-o365|Microsoft 365 integration]]
+Microsoft 365 integration
 
 </td></tr><tr><td>
 
@@ -373,7 +373,3 @@ All SaaS integrations
 </td></tr></tbody>
 </table>**Parent Topic:**[Software Asset Management references](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/references.md)
 
-## Related
-
-- [[m365-apps-usage-report|Microsoft 365 Apps Usage Reports]]
-- [[microsoft-o365|Microsoft 365 integration]]

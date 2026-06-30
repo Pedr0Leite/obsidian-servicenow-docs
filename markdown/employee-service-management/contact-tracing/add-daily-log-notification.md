@@ -14,7 +14,7 @@ breadcrumb: [Setting up Contact Tracing, Contact Tracing, Safe Workplace, Health
 
 # Configure an email notification for the daily contact log
 
-Configure a custom email notification to use with [[emergency-outreach|Emergency Outreach]] notifications so you can request that users submit a list of other users they came in contact with throughout the workday.
+Configure a custom email notification to use with Emergency Outreach notifications so you can request that users submit a list of other users they came in contact with throughout the workday.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin
 
 ## About this task
 
-When you configure an email notification for use as a daily contact log, you are creating a customized email notification for [[contact-tracing|contact tracing]] purposes. The **Employee Daily Log Alert** and **Daily Contact Log Notification** are email notifications you can review for a better understanding on how notifications similar to the one you might create are configured.
+When you configure an email notification for use as a daily contact log, you are creating a customized email notification for contact tracing purposes. The **Employee Daily Log Alert** and **Daily Contact Log Notification** are email notifications you can review for a better understanding on how notifications similar to the one you might create are configured.
 
 ## Procedure
 
@@ -107,7 +107,3 @@ To use this email notification for as your daily contact log, see [Configure an 
 
 **Parent Topic:**[Setting up Contact Tracing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/set-up-contact-tracing.md)
 
-## Related
-
-- [[emergency-outreach|Emergency Outreach]]
-- [[contact-tracing|Contact Tracing]]

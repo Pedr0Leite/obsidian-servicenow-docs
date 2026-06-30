@@ -18,7 +18,7 @@ The rate type functionality is used to categorize different types of work. For e
 
 The Labor Rate Card form contains options to specify rate type, specify hourly rate for the rate type, and specify users for whom the labor rate card is applicable. A single user can be associated with multiple labor rate cards that contain different rate types.
 
-Assume that a user logs time against a task and selects the rate type Standard in the [[c_TimeCards|Time Cards]] form. Upon approval, the expense line \(cost\) for the time card is derived by matching the user and rate type on the time card to a labor rate card assigned to that user, and that has the same rate type. When the user has multiple labor rate cards with the same rate type, the expense line is generated based on the labor rate card that has the lowest value in the **Order** field. When there is no labor rate card associated with the user and rate type, the default hourly rate found in the**[[time-sheets|Time Sheets]]** &gt; **Administration** &gt; **Time Sheet Policy** form is used \(**com.snc.time\_card.default\_rate** property\).
+Assume that a user logs time against a task and selects the rate type Standard in the Time Cards form. Upon approval, the expense line \(cost\) for the time card is derived by matching the user and rate type on the time card to a labor rate card assigned to that user, and that has the same rate type. When the user has multiple labor rate cards with the same rate type, the expense line is generated based on the labor rate card that has the lowest value in the **Order** field. When there is no labor rate card associated with the user and rate type, the default hourly rate found in the**Time Sheets** &gt; **Administration** &gt; **Time Sheet Policy** form is used \(**com.snc.time\_card.default\_rate** property\).
 
 **Note:** A user can enter a rate type only if it is permitted by the users [Time sheet policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/time-sheet-policies.md).
 
@@ -29,7 +29,3 @@ Assume that a user logs time against a task and selects the rate type Standard i
 
 [Create a rate type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/CreateRateType.md)
 
-## Related
-
-- [[c_TimeCards|Time cards]]
-- [[time-sheets|Time Sheets]]

@@ -17,7 +17,7 @@ breadcrumb: [Configuration flow, Employee Slate, Unified Employee Experience, Em
 
 Employees search and take action across ServiceNow workflows and connected business applications from one AI front door on web and mobile.
 
-Employee Slate for Moveworks combines the Moveworks AI assistant with key [[employee-slate-landing-page|Employee Slate]] features. These features include the conversation-first home page, the interactive split view, Enterprise Search, and the Inbox. You start any request from one chat bar and complete the request in the same panel, working across ServiceNow workflows and connected business applications without switching tools, opening separate forms, or filing tickets.
+Employee Slate for Moveworks combines the Moveworks AI assistant with key Employee Slate features. These features include the conversation-first home page, the interactive split view, Enterprise Search, and the Inbox. You start any request from one chat bar and complete the request in the same panel, working across ServiceNow workflows and connected business applications without switching tools, opening separate forms, or filing tickets.
 
 \[Omitted image "es-moveworks-home.svg"\] Alt text: Screenshot of Employee Slate for Moveworks home page showing the conversation interface
 
@@ -69,6 +69,3 @@ From the chat bar on any Employee Slate page, employees complete the following w
 
 For an end-to-end walkthrough of a sample day, see [Employee Slate for Moveworks experience journey](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/empworks-experience-journey.md).
 
-## Related
-
-- [[employee-slate-landing-page|Employee Slate]]

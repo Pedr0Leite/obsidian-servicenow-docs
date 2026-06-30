@@ -14,7 +14,7 @@ breadcrumb: [Integration with third-party applications, Integrations, Source-to-
 
 # ERP Integration Framework
 
-The Source-to-Pay \(S2P\) ERP Integration Framework enables seamless data exchange between ServiceNow and third-party Enterprise Resource Planning \(ERP\) systems. This framework supports comprehensive integration of primary data, transactional data \(purchase orders, [[receipts|receipts]], [[invoices|invoices]]\), fixed assets, and tax information across multiple ERP instances.
+The Source-to-Pay \(S2P\) ERP Integration Framework enables seamless data exchange between ServiceNow and third-party Enterprise Resource Planning \(ERP\) systems. This framework supports comprehensive integration of primary data, transactional data \(purchase orders, receipts, invoices\), fixed assets, and tax information across multiple ERP instances.
 
 ## Key Features
 
@@ -25,7 +25,7 @@ The Source-to-Pay \(S2P\) ERP Integration Framework enables seamless data exchan
 
 ## ERP Sources
 
-An [[erp-source|ERP Source]] represents a specific ERP instance from which data is imported and to which data is exported. Organizations typically maintain multiple ERP instances as systems of record, with each ERP source mapped to a [[legal-entity|legal entity]] within the organization.
+An ERP Source represents a specific ERP instance from which data is imported and to which data is exported. Organizations typically maintain multiple ERP instances as systems of record, with each ERP source mapped to a legal entity within the organization.
 
 ## ERP Integration Requirements
 
@@ -37,13 +37,13 @@ The integration framework clearly defines the system of record responsibilities:
 
 -   Third-party ERP: System of record for primary data entities
 -   Source-to-Pay: System of record for purchase orders and receipts
--   Either system: Invoices can be created manually in Source-to-Pay or through external [[supplier|supplier]] portals
+-   Either system: Invoices can be created manually in Source-to-Pay or through external supplier portals
 
 ## Integration Architecture
 
-The ERP Integration Framework application loads primary data into [[source-to-pay-operations-overview|Source-to-Pay Operations]], enabling various ServiceNow workflows. It also imports selected inbound transactional data objects such as [[purchase-order-table|purchase order]] data that are shared across all Source-to-Pay Operations products.
+The ERP Integration Framework application loads primary data into Source-to-Pay Operations, enabling various ServiceNow workflows. It also imports selected inbound transactional data objects such as purchase order data that are shared across all Source-to-Pay Operations products.
 
-Both the ERP Integration Framework and [[source-to-pay-integration-framework|Source-to-Pay Integration Framework]] applications provide an abstraction layer between the Source-to-Pay application and backend systems. This design shields Source-to-Pay workflows and data models from backend-specific integration components and data structures.
+Both the ERP Integration Framework and Source-to-Pay Integration Framework applications provide an abstraction layer between the Source-to-Pay application and backend systems. This design shields Source-to-Pay workflows and data models from backend-specific integration components and data structures.
 
 \[Omitted image "s2p-data-architecture.png"\] Alt text: Source-to-Pay Operations Integration Architecture
 
@@ -117,13 +117,3 @@ Users assigned the integration admin role \(`sn_fcms_intg.admin`\) are granted r
 |sn\_fcms\_intg.status\_for\_invoice\_creation|sn\_fcms\_intg.admin, sn\_ap\_apm.accounts\_payable\_specialist|sn\_fcms\_intg.admin|
 |sn\_fcms\_intg.status\_for\_goods\_receipt|sn\_shop.shopper, sn\_shop.procurement\_common\_reader, sn\_fcms\_intg.admin|sn\_fcms\_intg.admin|
 
-## Related
-
-- [[receipts|Receipts]]
-- [[invoices|Invoices]]
-- [[erp-source|ERP source]]
-- [[legal-entity|Legal entity]]
-- [[supplier|Supplier]]
-- [[source-to-pay-operations-overview|Source-to-Pay Operations]]
-- [[purchase-order-table|Purchase order]]
-- [[source-to-pay-integration-framework|Source-to-Pay integration framework]]

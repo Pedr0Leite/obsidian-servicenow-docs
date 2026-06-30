@@ -14,7 +14,7 @@ breadcrumb: [Standard Ticket Page view for HR Service Delivery, HR Administratio
 
 # Configure custom HR services
 
-Configure your custom [[hr-service-administration|HR services]] in the Standard Ticket page to provide consistent employee experience in the Portal.
+Configure your custom HR services in the Standard Ticket page to provide consistent employee experience in the Portal.
 
 ## Before you begin
 
@@ -165,7 +165,7 @@ Comma-separated list of action widget parameters.
 </td></tr></tbody>
 </table>    **Note:**
 
-    -   By default, two types of tabs are activated and configured: **[[activity-lxp|Activity]]** and **Attachments** type.
+    -   By default, two types of tabs are activated and configured: **Activity** and **Attachments** type.
     -   You cannot duplicate any tab type other than Custom.
     -   You can configure a maximum of five tabs.
     -   You can add only one of these tab types:
@@ -251,7 +251,3 @@ Comma-separated list of tab widget parameters. This field appears only when **Cu
 
 **Parent Topic:**[Standard Ticket Page view for HR Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/ur-hr-standard-ticket-page.md)
 
-## Related
-
-- [[hr-service-administration|HR services]]
-- [[activity-lxp|Activity]]

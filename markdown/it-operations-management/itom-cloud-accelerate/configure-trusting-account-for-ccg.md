@@ -19,7 +19,7 @@ Configure the trusting account whose resources need to be accessed, to rely on t
 ## Before you begin
 
 -   Familiarize yourself with the Amazon documentation on [Creating a role to delegate permissions to an IAM user](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_create_for-user.html).
--   Decide which Amazon Web Services \(AWS\) account is going to be the trusted account. You use the trusted account to configure temporary credentials for [[cloud-configuration-governance|Cloud Configuration Governance]] using IAM roles. The trusted account that you use to access other accounts using IAM roles is referred to as an accessor account.
+-   Decide which Amazon Web Services \(AWS\) account is going to be the trusted account. You use the trusted account to configure temporary credentials for Cloud Configuration Governance using IAM roles. The trusted account that you use to access other accounts using IAM roles is referred to as an accessor account.
 -   Set up the trusted and the trusting account as described in [Set up Cloud Configuration Governance for AWS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/set-up-ccg-for-aws.md).
 
 Role required: sn\_itom\_ccg.scheduling\_admin
@@ -50,7 +50,7 @@ Role required: sn\_itom\_ccg.scheduling\_admin
 
 2.  Configure the trusted service account for the trusting account in the ServiceNow AI Platform.
 
-    1.  Navigate to **All** &gt; **[[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]** &gt; **Service Accounts**
+    1.  Navigate to **All** &gt; **Cloud Provisioning and Governance** &gt; **Service Accounts**
 
     2.  Open the trusting account.
 
@@ -58,15 +58,10 @@ Role required: sn\_itom\_ccg.scheduling\_admin
 
     4.  Select **Update**.
 
-3.  [[create-assume-role-config|Create an assume role configuration]] for the trusting account.
+3.  Create an assume role configuration for the trusting account.
 
     For more information, see [Create an assume role configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/create-assume-role-config.md).
 
 
 **Parent Topic:**[Set up Cloud Configuration Governance for AWS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/set-up-ccg-for-aws.md)
 
-## Related
-
-- [[cloud-configuration-governance|Cloud Configuration Governance]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[create-assume-role-config|Create an assume role configuration]]

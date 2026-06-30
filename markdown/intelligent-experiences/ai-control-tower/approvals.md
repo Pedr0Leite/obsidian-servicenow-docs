@@ -15,7 +15,7 @@ breadcrumb: [AI assets, AI Control Tower dashboard, Explore, AI Control Tower, E
 
 # Approvals
 
-The approvals are requests created to either approve or reject an asset. The Approvals menu displays a list of [[platform-now-assist-landing|Now Assist]] approvals.
+The approvals are requests created to either approve or reject an asset. The Approvals menu displays a list of Now Assist approvals.
 
 ## Approval record
 
@@ -25,7 +25,7 @@ The **Details** section displays all the details of an approval and the asset in
 
 The Playbook section displays the workflow for the Now Assist approvals to approve or reject an asset.
 
-The Playbook templates list has a record of [[playbooks|playbooks]] to configure an approval record in three steps:
+The Playbook templates list has a record of playbooks to configure an approval record in three steps:
 
 -   Review asset
 -   Evaluate asset
@@ -41,12 +41,7 @@ The Approval Playbook feature is available for all Now Assist customers.
 
 **Note:** If the onboarding playbook is present, then this feature isn’t available.
 
-For information about creating [[ai-control-tower-landing|AI Control Tower]] Approval Playbook to enable Now Assist governance, see [Create an AI Control Tower Playbook workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/create-a-playbook-workflow-for-now-assist-approvals.md).
+For information about creating AI Control Tower Approval Playbook to enable Now Assist governance, see [Create an AI Control Tower Playbook workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/create-a-playbook-workflow-for-now-assist-approvals.md).
 
 For information about creating Now Assist approvals task, see .
 
-## Related
-
-- [[platform-now-assist-landing|Now Assist]]
-- [[playbooks|Playbooks]]
-- [[ai-control-tower-landing|AI Control Tower]]

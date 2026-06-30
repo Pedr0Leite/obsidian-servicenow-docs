@@ -14,11 +14,11 @@ breadcrumb: [Configuring AI Search for Next Experience, AI Search for Next Exper
 
 # Enable AI Search for Next Experience
 
-Walk through a Guided Setup task to configure [[ia-ai-search|AI Search]] as the search engine for global and workspace searches from the Unified Navigation search field.
+Walk through a Guided Setup task to configure AI Search as the search engine for global and workspace searches from the Unified Navigation search field.
 
 ## Before you begin
 
-The [[ais-next-experience-app|AI Search for Next Experience]] ServiceNow® Store application must be installed on your instance. For details on installing this application, see [Install AI Search for Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/install-ais-next-experience-app.md).
+The AI Search for Next Experience ServiceNow® Store application must be installed on your instance. For details on installing this application, see [Install AI Search for Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/install-ais-next-experience-app.md).
 
 You must have already completed the **Convert Zing search applications** Guided Setup task. For details on completing this task, see [Migrate Zing search application configurations to AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/migrate-srch-apps-ais-next-exp.md).
 
@@ -42,7 +42,7 @@ After you enable the application, Next Experience search applications use AI Sea
 
 4.  If the system reports **AI Search for Next Experience is disabled**, select **Enable AI Search for Next Experience**.
 
-    **Note:** If AI Search for Next Experience is already enabled, ensure that all migrated [[defining-search-app-cfgs-ais|search application configurations]] are activated by disabling the application and then re-enabling it.
+    **Note:** If AI Search for Next Experience is already enabled, ensure that all migrated search application configurations are activated by disabling the application and then re-enabling it.
 
 5.  When the system reports **AI Search for Next Experience is enabled**, select **Close**, then select **Mark as Complete** for the **Activate AI Search for all Next Experience search applications** task.
 
@@ -56,13 +56,7 @@ The system uses AI Search as the search engine for global search and Next Experi
 Notify all users of your instance about the following details.
 
 -   Users need to log out and back in before they can use AI Search for Next Experience.
--   After you enable AI Search for Next Experience, only workspace applications that use AI Search as their search engine appear in the Unified Navigation search context menu. To search from workspace applications that use the [[c_ZingTextSearch|Zing text indexing and search engine]], you must navigate to the workspace instead of using the Unified Navigation search context menu.
+-   After you enable AI Search for Next Experience, only workspace applications that use AI Search as their search engine appear in the Unified Navigation search context menu. To search from workspace applications that use the Zing text indexing and search engine, you must navigate to the workspace instead of using the Unified Navigation search context menu.
 
 **Parent Topic:**[Configuring AI Search for Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configuring-ais-next-experience.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[ais-next-experience-app|AI Search for Next Experience]]
-- [[defining-search-app-cfgs-ais|Search application configurations]]
-- [[c_ZingTextSearch|Zing text indexing and search engine]]

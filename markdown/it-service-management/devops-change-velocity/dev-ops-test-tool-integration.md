@@ -370,15 +370,11 @@ Notes:
 ```
 
 -   **[Configure a test tool in DevOps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/create-test-tool-dev-ops.md)**  
-[[create-test-tool-dev-ops|Configure a test tool in DevOps]] to view unit, functional, and performance test results.
+Configure a test tool in DevOps to view unit, functional, and performance test results.
 -   **[Add test results to change requests using test API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/test-api-tools.md)**  
-Add test results to DevOps change requests using the test capability of the DevOps - POST /devops/tool/\{capability\} API. The API is available for all test types for various tools connected to [[devops-landing-page-new|DevOps Change Velocity]].
+Add test results to DevOps change requests using the test capability of the DevOps - POST /devops/tool/\{capability\} API. The API is available for all test types for various tools connected to DevOps Change Velocity.
 -   **[Add attachments to change requests using attachment API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/attachment-api-chg.md)**  
 Add test report xmls as attachments to DevOps change requests using the attachment API.
 
 **Parent Topic:**[User-created integrations in DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/dev-ops-tool-integration.md)
 
-## Related
-
-- [[create-test-tool-dev-ops|Configure a test tool in DevOps]]
-- [[devops-landing-page-new|DevOps Change Velocity]]

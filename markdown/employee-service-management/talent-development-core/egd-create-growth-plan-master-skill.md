@@ -14,7 +14,7 @@ breadcrumb: [Using the Talent Development Core application, Talent Development C
 
 # Create a growth plan from an aspiration or main skill
 
-[[egd-create-growth-plan|Create a growth plan]] based on one of your aspirations or main skill.
+Create a growth plan based on one of your aspirations or main skill.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Growth plans are based on your individual needs and aspirations and can help you
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
 
 2.  At the **Your Career** drop-down list, select **Growth plans**.
 
@@ -38,7 +38,7 @@ Growth plans are based on your individual needs and aspirations and can help you
 
 6.  Select the **Next**button.
 
-    **Note:** If **[[exploring-learning-exp|Learning]]** is installed, growth plans might show some suggested learnings. If the [[skills-intelligence|Skills Foundation]] property **sn\_skills\_int.enable\_skills** is set to **true**, growth plans might show learning courses related to the skill you've selected for your aspiration, if applicable. You can search learning to add courses to your growth plan.
+    **Note:** If **Learning** is installed, growth plans might show some suggested learnings. If the Skills Foundation property **sn\_skills\_int.enable\_skills** is set to **true**, growth plans might show learning courses related to the skill you've selected for your aspiration, if applicable. You can search learning to add courses to your growth plan.
 
 7.  Select **Create plan**
 
@@ -55,9 +55,3 @@ The draft growth plan is created and will be shared with your manager once the p
 
 **Parent Topic:**[Using the Talent Development Core application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-use.md)
 
-## Related
-
-- [[egd-create-growth-plan|Create a growth plan]]
-- [[employee-center-landing-page|Employee Center]]
-- [[exploring-learning-exp|Learning]]
-- [[skills-intelligence|Skills Foundation]]

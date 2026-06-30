@@ -14,7 +14,7 @@ breadcrumb: [Project import from Microsoft Project, Importing and exporting proj
 
 # Update a project using a Microsoft Project file
 
-Import project data, from a Microsoft Project file, into an existing project in your ServiceNow instance using the [[create-a-project-form|Project form]] or Planning Console.
+Import project data, from a Microsoft Project file, into an existing project in your ServiceNow instance using the Project form or Planning Console.
 
 ## Before you begin
 
@@ -38,7 +38,7 @@ Role required: it\_project\_manager
 
     2.  Select one of the following options to specify the method for calculating the schedule:
 
-        -   **Automatic**: Select this option to apply the scheduling engine while importing the [[t_CreateAProjectTask|project tasks]]. The supported constraint types are imported with the same constraints applied to them while other constraint types are converted to **Start on specific date**.
+        -   **Automatic**: Select this option to apply the scheduling engine while importing the project tasks. The supported constraint types are imported with the same constraints applied to them while other constraint types are converted to **Start on specific date**.
         -   **Manual**: Select this option to import all project tasks with the **Start on specific date** constraint type irrespective of their constraint type in Microsoft Project.
         For more information about the supported constraint types, see [Project import from Microsoft Project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/project-import-msp.md).
 
@@ -47,7 +47,7 @@ Role required: it\_project\_manager
 
 ## Result
 
--   A project task that was imported in the ServiceNow instance earlier and has associated [[c_TimeCards|time cards]], [[c_ResourcePlans|resource plans]], cost plan, benefit plan, or expense lines is retained on reimport even if it is deleted from Microsoft Project.
+-   A project task that was imported in the ServiceNow instance earlier and has associated time cards, resource plans, cost plan, benefit plan, or expense lines is retained on reimport even if it is deleted from Microsoft Project.
 -   Dates in the ServiceNow project remain same as the dates in the Microsoft Project file.
 -   In a ServiceNow project with subprojects, the following details change:
     -   The WBS order of imported tasks is regenerated after import.
@@ -62,9 +62,3 @@ Role required: it\_project\_manager
 
 [Importing and exporting projects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_ProjectImportAndExport.md)
 
-## Related
-
-- [[create-a-project-form|Project form]]
-- [[t_CreateAProjectTask|Project tasks]]
-- [[c_TimeCards|Time cards]]
-- [[c_ResourcePlans|Resource plans]]

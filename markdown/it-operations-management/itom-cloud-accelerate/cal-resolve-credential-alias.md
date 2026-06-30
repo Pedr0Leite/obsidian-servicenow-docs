@@ -56,11 +56,8 @@ You can use these outputs as inputs for other subflows.
 
     Data type: **String**
 
-    If the underlying [[cloud-actions-library-landing-page|Cloud Action Library]] \(CAL\) action fails to return a credential alias, it returns an error message that explains the reason behind the failure. The Error variable contains the error message returned by the underlying CAL action.
+    If the underlying Cloud Action Library \(CAL\) action fails to return a credential alias, it returns an error message that explains the reason behind the failure. The Error variable contains the error message returned by the underlying CAL action.
 
 
 **Parent Topic:**[Cloud Action Library reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/cloud-action-library-reference.md)
 
-## Related
-
-- [[cloud-actions-library-landing-page|Cloud Action Library]]

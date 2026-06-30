@@ -14,7 +14,7 @@ breadcrumb: [Configure, Operational Technology Incident Management, Operational 
 
 # Assign roles to your users
 
-Assign roles to your users in the [[operational-technology-incident-management-landing-page|Operational Technology Incident Management]] application so that you can control their access to the features, capabilities, and data.
+Assign roles to your users in the Operational Technology Incident Management application so that you can control their access to the features, capabilities, and data.
 
 ## Before you begin
 
@@ -99,6 +99,3 @@ The OT Incident User role \[ot\_incident\_user\] is deprecated. You can assign n
 
 The scheduled job is executed and users are now assigned with the new Operational Technology Incident Management roles.
 
-## Related
-
-- [[operational-technology-incident-management-landing-page|Operational Technology Incident Management]]

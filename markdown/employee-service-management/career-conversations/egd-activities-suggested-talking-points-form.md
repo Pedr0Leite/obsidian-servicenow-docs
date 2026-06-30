@@ -14,7 +14,7 @@ breadcrumb: [Career Conversations reference, Career Conversations, Growth Experi
 
 # Suggested Talking Points table
 
-[[egd-activities-conversations-module|Career Conversations]] administrators can manage conversations that are used by managers and employees.
+Career Conversations administrators can manage conversations that are used by managers and employees.
 
 The form that appears when you select a record in the Suggested Talking Points table contains the following fields:
 
@@ -29,6 +29,3 @@ The form that appears when you select a record in the Suggested Talking Points t
 
 **Parent Topic:**[Career Conversations reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/egd-activities-reference.md)
 
-## Related
-
-- [[egd-activities-conversations-module|Career Conversations]]

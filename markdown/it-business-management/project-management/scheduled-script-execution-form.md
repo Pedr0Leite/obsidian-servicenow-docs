@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Project Management, Project Management r
 
 # Scheduled Script Execution Form
 
-Use the [[scheduled-script-execution-form-gf|scheduled script execution form]] to define a scheduled job.
+Use the scheduled script execution form to define a scheduled job.
 
 <table id="id_ycz_lpj_2xb"><thead><tr><th>
 
@@ -226,6 +226,3 @@ Date and time of the first scheduled job generation. Select the calendar date an
 
 [Activate a scheduled job to generate labor costs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/gen-labor-costs-scheduled-job-ppm.md)
 
-## Related
-
-- [[scheduled-script-execution-form-gf|Scheduled Script Execution form]]

@@ -18,7 +18,7 @@ Create or update form views for work item types so that the fields displayed in 
 
 ## Before you begin
 
-Set the application scope in your instance to [[portfolio-planning-app-landing-page|Portfolio Planning]] Core.
+Set the application scope in your instance to Portfolio Planning Core.
 
 Role required: sn\_apw\_advanced.eap\_admin
 
@@ -88,6 +88,3 @@ You can also rearrange them in the order of your choice.
 
 [Create or update list view for EAP work items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/create-or-update-list-views-for-eap-work-items.md).
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

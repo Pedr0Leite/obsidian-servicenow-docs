@@ -14,7 +14,7 @@ breadcrumb: [PDR external-facing form, Explore, Personal Data Rights \(PDR\), Pr
 
 # Privacy data request fulfillment workflow
 
-After a requester successfully submits a privacy request and completes email verification, the request is routed to a [[personal-data-rights|Personal Data Rights]] \(PDR\) agent. The agent assigns action tasks to internal owners, reviews all completed tasks, closes the request, and notifies the requester by email with relevant details.
+After a requester successfully submits a privacy request and completes email verification, the request is routed to a Personal Data Rights \(PDR\) agent. The agent assigns action tasks to internal owners, reviews all completed tasks, closes the request, and notifies the requester by email with relevant details.
 
 After a requester successfully submits a privacy request and completes email verification, the following workflow is initiated:
 
@@ -24,6 +24,3 @@ After a requester successfully submits a privacy request and completes email ver
 4.  Review and closure by PDR agent: The PDR agent reviews all completed action tasks. After the agent is satisfied that the request has been fully addresses, the agent closes the privacy request.
 5.  Notification to the requester: On completion, an email notification is sent to the requester confirming fulfillment of the request and providing all relevant details and supporting documentation.
 
-## Related
-
-- [[personal-data-rights|personal data rights]]

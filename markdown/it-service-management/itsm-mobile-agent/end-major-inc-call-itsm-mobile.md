@@ -22,7 +22,7 @@ Role required: major\_incident\_manager, itil, itil\_admin, or admin
 
 ## Procedure
 
-1.  Open [[itsm-mobile-agent|ITSM Mobile Agent]] app.
+1.  Open ITSM Mobile Agent app.
 
 2.  In **Major incidents** tab.
 
@@ -38,6 +38,4 @@ Role required: major\_incident\_manager, itil, itil\_admin, or admin
 
     \[Omitted image "end-conf-call-maj-inc.png"\] Alt text: More options.
 
-## Related
 
-- [[itsm-mobile-agent|ITSM Mobile Agent]]

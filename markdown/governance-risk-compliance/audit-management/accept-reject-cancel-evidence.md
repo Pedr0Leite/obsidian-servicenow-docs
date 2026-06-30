@@ -14,7 +14,7 @@ breadcrumb: [Evidence request workflow, Audit Evidence Request, Audit Management
 
 # Accept, reject, or cancel evidence request
 
-Accept, reject or cancel an [[evidence-request|evidence request]] when you receive the evidence you requested. After requesting an evidence request, when the requester receives the evidence, the requester can accept, reject, or cancel the evidence request.
+Accept, reject or cancel an evidence request when you receive the evidence you requested. After requesting an evidence request, when the requester receives the evidence, the requester can accept, reject, or cancel the evidence request.
 
 ## Before you begin
 
@@ -33,6 +33,4 @@ Role required: sn\_audit.user and sn\_compliance.manager
     |**Cancel**|Cancel the evidence request task.|
     |**Delete**|Delete the evidence request task.|
 
-## Related
 
-- [[evidence-request|Evidence request]]

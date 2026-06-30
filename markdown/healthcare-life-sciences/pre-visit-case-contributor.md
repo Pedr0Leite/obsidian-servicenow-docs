@@ -16,7 +16,7 @@ Set up the process for users with the contributor profile to create procedure re
 
 **Important:**
 
-Starting with the Yokohama release, [[pre-visit-mgmt-app|Pre-Visit Management]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+Starting with the Yokohama release, Pre-Visit Management is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base.
 
@@ -26,6 +26,3 @@ As an administrator, you can include the record producer for creating procedure 
 
 For more information, see [Record Producer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_RecordProducer.md) and [Set up a service catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_SetUpAServiceCatalog.md) . 
 
-## Related
-
-- [[pre-visit-mgmt-app|Pre-Visit Management]]

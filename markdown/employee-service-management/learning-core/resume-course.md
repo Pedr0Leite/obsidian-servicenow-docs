@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **[[overview-lxp|My Learning]]**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **My Learning**.
 
 2.  In the Overview page, select the course, course collection, or path that you want to resume from the Continue where you left off widget.
 
@@ -40,7 +40,7 @@ Role required: admin
 
 [Create a personal course collection]()
 
-[Create a [[exploring-learning-exp|Learning]] challenge]()
+[Create a Learning challenge]()
 
 [View recent activity]()
 
@@ -50,8 +50,3 @@ Role required: admin
 
 [Skill sensing for learning content]()
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[overview-lxp|My Learning]]
-- [[exploring-learning-exp|Learning]]

@@ -33,7 +33,7 @@ Create a notification destination to deliver messages to a specific Microsoft Te
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
 2.  From the primary navigation, select **Teams** \(\[Omitted image "icon-sr-teams.png"\] Alt text: Teams icon\).
 
@@ -71,7 +71,7 @@ Display name of the notification destination.Teams see this name when adding not
     When successful, a message appears in the relevant Microsoft Teams channel. The message is titled `Test Notification` and includes the following text:
 
     ```
-    This is a test notification from the [[sr-landing-page|Service Reliability Management]] (SRM) Team '<team-name>'.
+    This is a test notification from the Service Reliability Management (SRM) Team '<team-name>'.
     ```
 
 6.  Select **Save**.
@@ -90,7 +90,3 @@ You can also edit and delete notification destinations from the SLO Notification
 
 **Parent Topic:**[Using SLO Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-level-objective-management/using-service-level-objective-management.md)
 
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[sr-landing-page|Service Reliability Management]]

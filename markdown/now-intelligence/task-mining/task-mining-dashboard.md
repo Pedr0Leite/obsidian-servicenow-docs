@@ -16,7 +16,7 @@ breadcrumb: [Explore, Task Mining, Platform Analytics]
 
 Project analyses enable you to gain insights into user activities from your categorized data.
 
-You can generate three types of analyses for [[task-mining|Task Mining]] projects: Task activity, Overall activity, and Task timeline analysis.
+You can generate three types of analyses for Task Mining projects: Task activity, Overall activity, and Task timeline analysis.
 
 -   The Task activity analysis shows time spent and frequency of activities and applications used during scoped task, such as resolving incidents. This analysis is based on workstation user actions grouped as tasks.
 -   The Overall activity analysis provides a complete, layered overview of all categorized applications used by workstation users.
@@ -78,6 +78,3 @@ You can view the average task duration and when and from whom data is collected 
 
 Select a task to see details of the steps of the task. The task steps view shows the details of the task at the top. From this view, you can initiate automation requests or share a link to task details. For more information, see [Identify task improvement actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/identify-improvement-opportunities.md).
 
-## Related
-
-- [[task-mining|Task Mining]]

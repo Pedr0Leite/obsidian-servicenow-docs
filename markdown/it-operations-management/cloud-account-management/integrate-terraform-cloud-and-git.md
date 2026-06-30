@@ -68,10 +68,7 @@ Make a note of the OAuth Token ID and share it with the ServiceNow admin.
 
 [Publish Terraform templates]()
 
-[Create a Terraform organization for [[cam-landing|Cloud Account Management]] in Cloud Workspace]()
+[Create a Terraform organization for Cloud Account Management in Cloud Workspace]()
 
 [Create Terraform API token]()
 
-## Related
-
-- [[cam-landing|Cloud Account Management]]

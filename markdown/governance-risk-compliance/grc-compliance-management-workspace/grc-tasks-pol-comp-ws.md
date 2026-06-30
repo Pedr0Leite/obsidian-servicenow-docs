@@ -14,7 +14,7 @@ breadcrumb: [Policy and Compliance Management, Governance, Risk, and Compliance]
 
 # Performing compliance tasks in Compliance Workspace
 
-Starting with Version 13.0.0, a new workspace has been introduced for the GRC: [[r_PolicyComplianceMgmt|Policy and Compliance Management]] application. The new workspace provides you with an improved User Experience \(UX\) and a simplified user journey.
+Starting with Version 13.0.0, a new workspace has been introduced for the GRC: Policy and Compliance Management application. The new workspace provides you with an improved User Experience \(UX\) and a simplified user journey.
 
 **Note:** Compliance Workspace has a dependency on GRC: Policy and Compliance Management application and the latter is automatically installed when the workspace plugin is installed.
 
@@ -24,6 +24,3 @@ To know more about Compliance Workspace, see [GRC Compliance Workspace](https://
 -   [Compliance Home page for the Compliance Analyst](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/compliance-analyst-compliance-ws.md)
 -   [Compliance Home page for the IT compliance manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/it-compliance-manager-compliance-ws.md)
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

@@ -12,7 +12,7 @@ breadcrumb: [Configuring Service Exchange Order Management for Providers, Order 
 
 # Install Service Exchange Order Management for Providers
 
-You can install the Service Exchange [[explore-order-management|Order Management]] for Providers application \(sn\_sb\_pro\) if you have the admin role.The application includes demo data and installs related ServiceNow® Store applications and plugins if they're not already installed.
+You can install the Service Exchange Order Management for Providers application \(sn\_sb\_pro\) if you have the admin role.The application includes demo data and installs related ServiceNow® Store applications and plugins if they're not already installed.
 
 ## Before you begin
 
@@ -51,11 +51,8 @@ For more information, see [Find components installed with an application](https:
 
 5.  If demo data is available and you want to install it, select the **Load demo data** check box.
 
-    Demo data are the sample records that describe application features for common [[use-cases|use cases]]. Load the demo data when you first install the application on a development or test instance.
+    Demo data are the sample records that describe application features for common use cases. Load the demo data when you first install the application on a development or test instance.
 
 6.  Select **Install**.
 
-## Related
 
-- [[explore-order-management|Order management]]
-- [[use-cases|Use cases]]

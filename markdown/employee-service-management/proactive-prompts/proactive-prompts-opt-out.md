@@ -14,19 +14,19 @@ breadcrumb: [Use, Proactive Prompts, HR Service Delivery, Employee Service Manag
 
 # Opting out of a prompt in Employee Portal
 
-Choose not to receive a specific prompt by opting out of the signal displayed in [[employee-center-portal-overview|Employee Portal]].
+Choose not to receive a specific prompt by opting out of the signal displayed in Employee Portal.
 
 ## Before you begin
 
 Role required: none
 
--   Make sure that [[manager-hub-overview|Manager Hub]] and Talent Development installed to access these tabs in the Employee Portal.
+-   Make sure that Manager Hub and Talent Development installed to access these tabs in the Employee Portal.
 -   To access the prompts on any other portal page in the Employee Portal, the Prompt widget must be added. For information on configuring portal pages, see [Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_ConfigureAPage.md). For information on adding widgets to a page, see [Service Portal widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal-widgets.md).
 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Employee Center**.
 
 2.  In Employee Center, navigate to the appropriate hub depending on whether you are a manager or employee.
 
@@ -47,8 +47,3 @@ Role required: none
 
 You will not receive prompts from the selected signal. The opted-out prompts are moved to the Dismiss state.
 
-## Related
-
-- [[employee-center-portal-overview|Employee portal]]
-- [[manager-hub-overview|Manager Hub]]
-- [[employee-center-landing-page|Employee Center]]

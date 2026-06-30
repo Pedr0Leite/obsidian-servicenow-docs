@@ -15,7 +15,7 @@ breadcrumb: [Manage portfolio plans, Portfolio Planning, Strategic Portfolio Man
 
 # Modify a portfolio plan
 
-Update the details of a portfolio plan in [[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace or delete it, to reflect the changes in your planning priorities.
+Update the details of a portfolio plan in Portfolio Planning Workspace or delete it, to reflect the changes in your planning priorities.
 
 ## Before you begin
 
@@ -83,6 +83,3 @@ Share your updated portfolio plan or collaborate with other stakeholders.
 
 **Parent Topic:**[Managing portfolio plans in Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/managing-portfolio-plans-in-portfolio-planning.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, Industrial Workspace, Operational Technology]
 
 # Set up the Hardware Vulnerability Assessment of Operational Technology devices using guided setup
 
-Use the [[industrial-workspace-for-operational-technology|Industrial Workspace]] Admin guided setup to walk you through configuring the Hardware Vulnerability Assessment feature available on the Industrial Workspace menu.
+Use the Industrial Workspace Admin guided setup to walk you through configuring the Hardware Vulnerability Assessment feature available on the Industrial Workspace menu.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: admin
 
 ## About this task
 
-Use the Industrial Workspace Admin guided setup to assign required user roles, configure a system property, and schedule jobs to perform the hardware vulnerability assessment of [[operational-technology-overview|Operational Technology]] devices.
+Use the Industrial Workspace Admin guided setup to assign required user roles, configure a system property, and schedule jobs to perform the hardware vulnerability assessment of Operational Technology devices.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Industrial Workspace Admin** &gt; **Guided Setup** &gt; **[[oper-tech-vulnerability-response-landing-page|Operational Technology Vulnerability Response]]**.
+1.  Navigate to **All** &gt; **Industrial Workspace Admin** &gt; **Guided Setup** &gt; **Operational Technology Vulnerability Response**.
 
 2.  Select **Get Started** for the Operational Technology Vulnerability Response application.
 
@@ -66,8 +66,3 @@ Set up automatic deletion of obsolete or expired assessment records.
 
 [Operational Technology Hardware Vulnerability Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/understanding-hwd-vuln-assessment.md)
 
-## Related
-
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[operational-technology-overview|Operational Technology]]
-- [[oper-tech-vulnerability-response-landing-page|Operational Technology Vulnerability Response]]

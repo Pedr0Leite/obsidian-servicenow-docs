@@ -14,11 +14,11 @@ breadcrumb: [Dispute Rules Content Pack for Nacha reference, Dispute Rules Conte
 
 # Components installed with Dispute Rules Content Pack for Nacha
 
-Several types of components are installed with [[dispute-rules-content-pack-for-nacha|Dispute Rules Content Pack for Nacha]].
+Several types of components are installed with Dispute Rules Content Pack for Nacha.
 
 ## Plugins
 
-**Note:** The Dispute Rules Content Pack for Nacha application is dependent on the [[card-ops-landing-page|Financial Services Card Operations]] application.
+**Note:** The Dispute Rules Content Pack for Nacha application is dependent on the Financial Services Card Operations application.
 
 <table id="table_qmv_14w_5gc"><thead><tr><th>
 
@@ -39,7 +39,7 @@ Used to reference dispute transactions and related disputes data.
 </td></tr></tbody>
 </table>## Tables
 
-No tables are included with Dispute Rules Content Pack for Nacha. Chargeback reason codes are stored in [[financial-services-operations-core-data-model|Financial Services Operations Core]].
+No tables are included with Dispute Rules Content Pack for Nacha. Chargeback reason codes are stored in Financial Services Operations Core.
 
 ## Dispute Reason Codes
 
@@ -60,8 +60,3 @@ Dispute Rules Content Pack for Nacha includes 10 reason codes and the predefined
 
 **Parent Topic:**[Dispute Rules Content Pack for Nacha reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/dispute-rules-content-pack-nacha-reference.md)
 
-## Related
-
-- [[dispute-rules-content-pack-for-nacha|Dispute Rules Content Pack for Nacha]]
-- [[card-ops-landing-page|Financial Services Card Operations]]
-- [[financial-services-operations-core-data-model|Financial Services Operations Core]]

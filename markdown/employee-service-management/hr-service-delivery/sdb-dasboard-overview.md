@@ -18,9 +18,9 @@ Analyze the performance and self-solve data visually and drive business outcomes
 
 ## Performance Overview in HR Success Dashboard indicators
 
-Measure the Key Performance Indicators \(KPIs\) like Self-solved percentage, Call deflection percentage, Structured tickets percentage, and Successful predictions in the Performance [[overview-lxp-widgets|Overview tab]]. For more information, see [HR Success Dashboard indicators KPI definitions and formulae](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/sd-formulae.md).
+Measure the Key Performance Indicators \(KPIs\) like Self-solved percentage, Call deflection percentage, Structured tickets percentage, and Successful predictions in the Performance Overview tab. For more information, see [HR Success Dashboard indicators KPI definitions and formulae](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/sd-formulae.md).
 
-\[Omitted image "dashboard-perf-oview.png"\] Alt text: [[success-dashboard-landing|HR Success Dashboard indicators]] Overview page displayed.
+\[Omitted image "dashboard-perf-oview.png"\] Alt text: HR Success Dashboard indicators Overview page displayed.
 
 ## Service Quality in HR Success Dashboard indicators
 
@@ -80,7 +80,3 @@ View the contextual formula, definitions, or any other information about the met
 
 \[Omitted image "more-info.png"\] Alt text: More info card on the HR Success Dashboard overview page
 
-## Related
-
-- [[overview-lxp-widgets|Overview tab]]
-- [[success-dashboard-landing|HR Success Dashboard indicators]]

@@ -22,7 +22,7 @@ Role required: resource\_user or resource\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Resource** &gt; **[[c_ResourcePlans|Resource Plans]]** &gt; **All**.
+1.  Navigate to **All** &gt; **Resource** &gt; **Resource Plans** &gt; **All**.
 
 2.  Open a resource plan and select **Delete** on the form header.
 
@@ -74,6 +74,3 @@ Role required: resource\_user or resource\_manager
 
 [Associate a time card with a resource plan]()
 
-## Related
-
-- [[c_ResourcePlans|Resource plans]]

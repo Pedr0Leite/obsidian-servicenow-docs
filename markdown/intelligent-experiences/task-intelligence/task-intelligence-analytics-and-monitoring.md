@@ -14,7 +14,7 @@ breadcrumb: [Manage machine learning models with Task Intelligence, Task Intelli
 
 # Task Intelligence Analytics and Monitoring
 
-Use the [[task-intelligence|Task Intelligence]] Admin Console to monitor, analyze, and assess the performance of your machine learning model.
+Use the Task Intelligence Admin Console to monitor, analyze, and assess the performance of your machine learning model.
 
 -   **Task Intelligence for ITSM Analytics and Monitoring**
 
@@ -28,6 +28,4 @@ Use the [[task-intelligence|Task Intelligence]] Admin Console to monitor, analyz
 
     View details about historical predictions in the Predictor Results for CSM models.
 
-## Related
 
-- [[task-intelligence|Task Intelligence]]

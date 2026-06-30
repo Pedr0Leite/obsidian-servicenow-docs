@@ -14,7 +14,7 @@ breadcrumb: [Employee Document Management, HR Documents, HR Service Delivery, Em
 
 # Reference - Employee Document Management
 
-More information on other properties of [[hr-employee-doc-management|Employee Document Management]].
+More information on other properties of Employee Document Management.
 
 -   **[Properties for Employee Document Management application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/employee-doc-properties.md)**  
 Activating the Employee Document Management \[com.sn\_employee\_document\_management\] plugin adds the following properties.
@@ -23,6 +23,3 @@ Several types of components install with the activation of the Employee Document
 
 **Parent Topic:**[Employee Document Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/hr-employee-doc-management.md)
 
-## Related
-
-- [[hr-employee-doc-management|Employee Document Management]]

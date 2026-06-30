@@ -26,12 +26,9 @@ Modify the default configuration properties to limit the number of security inci
 
 To modify the system properties, log in as a user with the `sn_si.admin` role and navigate to **Microsoft Graph Security API Integration** &gt; **Microsoft Graph Security API Integration Settings**.
 
-The default [[qradar-ibm-intg-settings|configuration settings]] are displayed. You can modify these settings if required.
+The default configuration settings are displayed. You can modify these settings if required.
 
 \[Omitted image "ms-graph-intg-settings.png"\] Alt text: Microsoft Graph Security API: Integration Settings
 
 Any modified integration settings will be applied during the next polling interval as defined in the profile.
 
-## Related
-
-- [[qradar-ibm-intg-settings|Configuration settings]]

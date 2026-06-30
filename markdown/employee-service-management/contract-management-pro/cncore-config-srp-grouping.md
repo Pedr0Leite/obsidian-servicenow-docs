@@ -23,7 +23,7 @@ Role required: admin
 
 ## About this task
 
-**Note:** In [[legal-counsel-center-landing|Legal Counsel Center]] and [[cncore-contract-workspace|Contract Workspace]], the contract documents are grouped based on the contract type, by default.
+**Note:** In Legal Counsel Center and Contract Workspace, the contract documents are grouped based on the contract type, by default.
 
 Customize the Standard Record Page \(SRP\) to display contract documents grouped by contract type in the Contract document tab through UI Builder, a web user interface builder. For more information, see [UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder-overview.md).
 
@@ -84,7 +84,7 @@ The contract documents will be grouped by contract type in the Contract document
 
 [Copy fields from parent request to contract request]()
 
-[Add access to [[cncore-obligation-management|obligation management]] from contract repository records]()
+[Add access to obligation management from contract repository records]()
 
 [Configure the contract request form header for your workspace]()
 
@@ -94,8 +94,3 @@ The contract documents will be grouped by contract type in the Contract document
 
 [Configuring the Playbook tab on contract repository records]()
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[cncore-contract-workspace|Contract Workspace]]
-- [[cncore-obligation-management|Obligation Management]]

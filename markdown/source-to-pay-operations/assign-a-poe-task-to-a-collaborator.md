@@ -12,7 +12,7 @@ breadcrumb: [Resolving purchase order exceptions, Use, Purchase Order Management
 
 # Create and assign a purchase order exception task
 
-Create a task associated with a [[purchase-order-exception-table|purchase order exception]] and assign it to an operational buyer or collaborator. You can track the task status from the purchase order exception.
+Create a task associated with a purchase order exception and assign it to an operational buyer or collaborator. You can track the task status from the purchase order exception.
 
 ## Before you begin
 
@@ -20,9 +20,9 @@ Role required: sn\_poem\_core.operational\_buyer
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Source-to-Pay Workspace**.
 
-2.  Select the **[[purchase-order-mgmt-landing-page|Purchase order management]]** tab.
+2.  Select the **Purchase order management** tab.
 
 3.  Select an exception that you want to work on.
 
@@ -57,11 +57,5 @@ Role required: sn\_poem\_core.operational\_buyer
 
 The task is assigned to the assignee. You can't make any changes to the record until the assignee completes the task.
 
-**Parent Topic:**[[resolving-purchase-order-exceptions|Resolving purchase order exceptions]]
+**Parent Topic:**[Resolving purchase order exceptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/resolving-purchase-order-exceptions.md)
 
-## Related
-
-- [[resolving-purchase-order-exceptions|Resolving purchase order exceptions]]
-- [[purchase-order-exception-table|Purchase Order Exception]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[purchase-order-mgmt-landing-page|Purchase Order Management]]

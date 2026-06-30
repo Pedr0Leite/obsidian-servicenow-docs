@@ -14,11 +14,7 @@ breadcrumb: [Smart Assessment Engine, Governance, Risk, and Compliance]
 
 # Manage smart assessment lifecycle
 
-Use template designer to create [[airc-assessment-templates|assessment templates]]. After the templates are published, assessors can respond to assigned assessments, track progress, and save their input automatically.
+Use template designer to create assessment templates. After the templates are published, assessors can respond to assigned assessments, track progress, and save their input automatically.
 
-Use this section to manage the full lifecycle of smart assessments, from designing templates to submitting responses.[[sae-template-designer|Using the template designer]], template managers and administrators can create structured assessment templates with instructions, questions, reference information, and configure automations. After the templates are published, assessors can respond to assigned assessments, track progress, and save their input automatically.
+Use this section to manage the full lifecycle of smart assessments, from designing templates to submitting responses.Using the template designer, template managers and administrators can create structured assessment templates with instructions, questions, reference information, and configure automations. After the templates are published, assessors can respond to assigned assessments, track progress, and save their input automatically.
 
-## Related
-
-- [[airc-assessment-templates|Assessment templates]]
-- [[sae-template-designer|Using the template designer]]

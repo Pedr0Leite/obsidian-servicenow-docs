@@ -14,9 +14,9 @@ breadcrumb: [Now Assist in Virtual Agent, Conversational Interfaces]
 
 # Now Assist in Virtual Agent reference
 
-[[virtual-agent-landing-page|Virtual Agent]] topic developers can create topics for use in the Now Assist panel channel. The following Virtual Agent Designer controls are currently supported.
+Virtual Agent topic developers can create topics for use in the Now Assist panel channel. The following Virtual Agent Designer controls are currently supported.
 
-For more information about the Now Assist panel channel, see [[ci-channels-overview|Channels in Conversational Interfaces]].
+For more information about the Now Assist panel channel, see [Channels in Conversational Interfaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ci-channels-overview.md).
 
 <table id="table_nhv_kwx_jzb"><thead><tr><th>
 
@@ -57,8 +57,3 @@ Bot response controls
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[ci-channels-overview|ci channels overview]]
-- [[virtual-agent-landing-page|Virtual Agent]]

@@ -14,7 +14,7 @@ breadcrumb: [Explore, Digital End-User Experience, IT Service Management]
 
 # Using DEX or SAM for application monitoring
 
-Monitor your application usage and performance with Software [[c_AssetManagement|Asset Management]] \(SAM\) or [[dex-landing|Digital End-User Experience]] \(DEX\), depending on your organization's needs. SAM and DEX both use the Agent Client Collector \(ACC\).
+Monitor your application usage and performance with Software Asset Management \(SAM\) or Digital End-User Experience \(DEX\), depending on your organization's needs. SAM and DEX both use the Agent Client Collector \(ACC\).
 
 DEX supports software metering through its integration with ACC and SAM. The following table helps you choose the appropriate application monitoring option for your organization.
 
@@ -44,7 +44,7 @@ SAM
 
 </td></tr><tr><td>
 
-Maximum number of [[dex-workspace-application-tab|applications]] monitored
+Maximum number of applications monitored
 
 </td><td>
 
@@ -66,8 +66,3 @@ For more information on application monitoring with SAM, see the following:
 -   [Using push-based Discovery and SAM together](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/using-enhanced-discovery-and-sam-together.md)
 -   [SaaS detection report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/shadow-saas-analytics.md)
 
-## Related
-
-- [[c_AssetManagement|Asset Management]]
-- [[dex-landing|Digital End-User Experience]]
-- [[dex-workspace-application-tab|Applications]]

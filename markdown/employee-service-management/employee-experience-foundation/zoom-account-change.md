@@ -26,7 +26,7 @@ Role required: admin, Zoom admin
 
 2.  Log in to your ServiceNow instance.
 
-3.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **[[zoom-ec-create-app|Employee Center for Zoom]]** &gt; **Setup**.
+3.  Navigate to **All** &gt; **Employee Center** &gt; **Employee Center for Zoom** &gt; **Setup**.
 
 4.  On the Connect to an account form, select **Change account**.
 
@@ -45,7 +45,3 @@ Your existing ServiceNow instance is successfully connected to another Zoom acco
 
 **Parent Topic:**[Employee Center for Zoom](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/zoom-ec-create-app.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[zoom-ec-create-app|Employee Center for Zoom]]

@@ -14,7 +14,7 @@ breadcrumb: [Advanced AI Search Management Tools, Search administration, Configu
 
 # Advanced AI Search Management Tools reference
 
-This [[reference-email-admin|reference]] topic describes system components installed with the Advanced [[ia-ai-search|AI Search]] Management Tools application.
+This reference topic describes system components installed with the Advanced AI Search Management Tools application.
 
 ## Plugins installed with Advanced AI Search Management Tools
 
@@ -34,7 +34,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Load [[ai-search-dashboard|AI Search Dashboard]] Documents by Month
+Load AI Search Dashboard Documents by Month
 
 </td><td>
 
@@ -54,7 +54,7 @@ Load AI Search Dashboard Documents by Search Source
 
 </td><td>
 
-Populates the Documents by Search Source data visualization on the [[ai-search-profile-dashboard|AI Search Profile dashboard]]. Runs every hour.
+Populates the Documents by Search Source data visualization on the AI Search Profile dashboard. Runs every hour.
 
 </td></tr><tr><td>
 
@@ -70,19 +70,10 @@ Update Search Analytics Data
 
 </td><td>
 
-Pre-calculates [[c_MetricDefinitionSupport|metrics]] to improve load time for the [[ai-search-analytics-dashboard|AI Search Analytics dashboard]]. Runs every hour.**Note:** If you pause or disable this scheduled job, the AI Search Analytics dashboard takes longer to load and displays the metrics calculated by the last scheduled job run. You can specify a new date range for the dashboard to force recalculation of metrics.
+Pre-calculates metrics to improve load time for the AI Search Analytics dashboard. Runs every hour.**Note:** If you pause or disable this scheduled job, the AI Search Analytics dashboard takes longer to load and displays the metrics calculated by the last scheduled job run. You can specify a new date range for the dashboard to force recalculation of metrics.
 
 </td></tr></tbody>
 </table>## List of all components installed with Advanced AI Search Management Tools
 
-To view the complete list of components installed with Advanced AI Search Management Tools, follow the steps described in [[find-components|Find components installed with an application]]. The application's package name is **Advanced AI Search Management Tools**.
+To view the complete list of components installed with Advanced AI Search Management Tools, follow the steps described in [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md). The application's package name is **Advanced AI Search Management Tools**.
 
-## Related
-
-- [[find-components|Find components installed with an application]]
-- [[reference-email-admin|Reference]]
-- [[ia-ai-search|AI Search]]
-- [[ai-search-dashboard|AI Search dashboard]]
-- [[ai-search-profile-dashboard|AI Search Profile dashboard]]
-- [[c_MetricDefinitionSupport|Metrics]]
-- [[ai-search-analytics-dashboard|AI Search analytics dashboard]]

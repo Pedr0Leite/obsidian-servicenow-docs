@@ -16,13 +16,13 @@ Use the sorting option in lists and maps to help users organize their filtered r
 
 ## Before you begin
 
-A sorting option entitled Default always displays at the top of the sorting list. The values of the default sorting are defined using the **Add sort** and **Sorted by** fields within a data item. See, [[sg-studio-create-data-item|Configure a standard data item]]. If values are not defined within a data item, the default sorting definitions of the instance are taken from the web-based platform definition.
+A sorting option entitled Default always displays at the top of the sorting list. The values of the default sorting are defined using the **Add sort** and **Sorted by** fields within a data item. See, [Configure a standard data item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-studio-create-data-item.md). If values are not defined within a data item, the default sorting definitions of the instance are taken from the web-based platform definition.
 
 Role required: admin
 
 ## About this task
 
-By default, when creating item sorting, the instance creates an ascending and descending variant of the item sorting. Each of these entries contains the text "\(Ascending\)" and "\(Descending\)" next to the sorting entry. To change the default display option, see [[list-filter-sorting-attributes|Configure sorting display options for mobile filters]].
+By default, when creating item sorting, the instance creates an ascending and descending variant of the item sorting. Each of these entries contains the text "\(Ascending\)" and "\(Descending\)" next to the sorting entry. To change the default display option, see [Configure sorting display options for mobile filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/list-filter-sorting-attributes.md).
 
 **Note:** Filters and sorting options use the same defined categories, as defined by item views and cards.
 
@@ -100,7 +100,7 @@ By default, when creating item sorting, the instance creates an ascending and de
 
     3.  Select **Submit**.
 
-8.  Assign the created filter with the item sorting, to either a [[list-screen|list screen]] or a [[map-screen|map screen]].
+8.  Assign the created filter with the item sorting, to either a list screen or a map screen.
 
     1.  In the filter navigator, enter:
 
@@ -121,9 +121,3 @@ Your filter sorting configuration may look like the one in the image. Each item 
 
 \[Omitted image "mobile-filter-sort-menu.png"\] Alt text: Mobile filter item sorting menu with default setup.
 
-## Related
-
-- [[sg-studio-create-data-item|Configure a standard data item]]
-- [[list-filter-sorting-attributes|Configure sorting display options for mobile filters]]
-- [[list-screen|List screen]]
-- [[map-screen|Map screen]]

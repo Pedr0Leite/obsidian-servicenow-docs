@@ -40,10 +40,7 @@ A component triggers an event when a certain condition is met or on user interac
 
 [Embed the Playbook intake component instance on the third-party website](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/embed-playbook-intake-comp.md)
 
-[[we-playbook-intake-comp-prop|Component properties for the Playbook intake]]
+[Component properties for the Playbook intake](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/we-playbook-intake-comp-prop.md)
 
 [Sample code for the Playbook intake component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/we-playbook-intake-sample-code.md)
 
-## Related
-
-- [[we-playbook-intake-comp-prop|Component properties for the Playbook intake]]

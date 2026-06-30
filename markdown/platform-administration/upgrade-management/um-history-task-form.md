@@ -14,7 +14,7 @@ breadcrumb: [Skipped Records visual task board \(VTB\), Reviewing upgrade histor
 
 # Upgrade History Task form
 
-You can update information about a skipped record task using the [[uc-history-task-form|Upgrade History Task form]].
+You can update information about a skipped record task using the Upgrade History Task form.
 
 To make changes on a skipped record task, click a task number link on a task over VTB.
 
@@ -200,6 +200,3 @@ Past current version
 </td></tr></tbody>
 </table>**Parent Topic:**[Skipped Records visual task board \(VTB\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-vtb-history.md)
 
-## Related
-
-- [[uc-history-task-form|Upgrade History Task form]]

@@ -27,7 +27,7 @@ When you duplicate a dashboard, you copy all settings and details of the origina
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Dashboards**.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Dashboards**.
 
 2.  Select the dashboard that you want to duplicate.
 
@@ -91,6 +91,3 @@ The dashboard tab is copied with the new name. All other aspects of the dashboar
 
 **Important:** The new duplicate tab is saved automatically.
 
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

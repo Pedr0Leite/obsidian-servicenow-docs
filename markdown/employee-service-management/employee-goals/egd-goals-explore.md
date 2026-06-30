@@ -14,14 +14,14 @@ breadcrumb: [Employee Goals, Growth Experiences, HR Service Delivery, Employee S
 
 # Exploring Employee Goals
 
-The [[egd-goals-landing|Employee Goals]] application provides employees and managers with visibility into business goals set by your organization and personal goals that are specific to an employee. This application helps employees cultivate their goals into growth plans to bolster the talent in your organization.
+The Employee Goals application provides employees and managers with visibility into business goals set by your organization and personal goals that are specific to an employee. This application helps employees cultivate their goals into growth plans to bolster the talent in your organization.
 
 The Employee Goals app is closely integrated with the following apps in the Talent Development suite:
 
--   [[egd-landing-page|Talent Development Core]]
+-   Talent Development Core
     -   Career profile
     -   Growth plans
--   [[egd-activities-conversations-module|Career Conversations]]
+-   Career Conversations
 
 It also provides an integration with the following HCM systems that are widely used across organizations for goal management:
 
@@ -29,11 +29,5 @@ It also provides an integration with the following HCM systems that are widely u
 -   SAP SuccessFactors
 -   Workday
 
-These integrations create a seamless process for employees and managers to view and track their goals from the [[employee-center-landing-page|Employee Center]].
+These integrations create a seamless process for employees and managers to view and track their goals from the Employee Center.
 
-## Related
-
-- [[egd-goals-landing|Employee Goals]]
-- [[egd-landing-page|Talent Development Core]]
-- [[egd-activities-conversations-module|Career Conversations]]
-- [[employee-center-landing-page|Employee Center]]

@@ -14,7 +14,7 @@ breadcrumb: [Configuring your service, Setting up and configuring Universal Task
 
 # Assign Universal Task admin role
 
-Assign the sn\_uni\_task.admin role to the application administrators so that they can integrate and configure [[universal-task-landing|Universal Task]]. Roles control access to features, capabilities, and data.
+Assign the sn\_uni\_task.admin role to the application administrators so that they can integrate and configure Universal Task. Roles control access to features, capabilities, and data.
 
 ## Before you begin
 
@@ -51,6 +51,3 @@ Before you can assign the sn\_uni\_task.admin role to specific users, the logged
 
 **Next topic:**[Create UI actions for your service with Universal Task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/config-uiactions-for-ut.md)
 
-## Related
-
-- [[universal-task-landing|Universal Task]]

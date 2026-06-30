@@ -16,7 +16,7 @@ breadcrumb: [Portfolio Management, Project Portfolio Management, Strategic Portf
 
 Portfolio Dashboard provides a central location to a portfolio manager to generate different graphical reports of the portfolios.
 
-From Madrid release onward, the portfolio manager dashboard has been deprecated and replaced with the [[pmo-dashboard|PMO dashboard]]. Use the PMO dashboard to gain insights about your portfolios. For more information, see [PMO Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/pmo-dashboard.md).
+From Madrid release onward, the portfolio manager dashboard has been deprecated and replaced with the PMO dashboard. Use the PMO dashboard to gain insights about your portfolios. For more information, see [PMO Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/pmo-dashboard.md).
 
 -   **[Access the Portfolio Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-management/t_AccessThePortfolioManagerDashboard.md)**  
 View different graphical reports on the PMO Dashboard.
@@ -32,6 +32,3 @@ View different graphical reports on the PMO Dashboard.
 
 [Scenario Planning for PPM]()
 
-## Related
-
-- [[pmo-dashboard|PMO dashboard]]

@@ -12,84 +12,57 @@ breadcrumb: [Instance Observer reference, Monitoring instance health with Instan
 
 # Overview of Instance Observer metrics
 
-Instance Observer \(IO\) metrics are real-time and historical telemetry data points used to monitor, triage, and troubleshoot ServiceNow instance [[instance-observer-performance|performance]].
+Instance Observer \(IO\) metrics are real-time and historical telemetry data points used to monitor, triage, and troubleshoot ServiceNow instance performance.
 
-The key metrics include transaction response time, semaphore usage, database growth, and node health, allowing administrators to identify slow jobs and optimize system health. Moreover, the metrics are designed to [[io-help|help]] administrators identify and fix performance issues.
+The key metrics include transaction response time, semaphore usage, database growth, and node health, allowing administrators to identify slow jobs and optimize system health. Moreover, the metrics are designed to help administrators identify and fix performance issues.
 
--   **[[i-o-reports|Instance Observer reports overview]]**  
+-   **[Instance Observer reports overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/i-o-reports.md)**  
 Reports in Instance Observer offer insights into the health of the instances, tracks database growth, and encryption status. The reports help you to analyze trends, and to schedule, download, and share these reports.
--   **[[addl-inf-io-anomaly|Anomaly insights]]**  
+-   **[Anomaly insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/addl-inf-io-anomaly.md)**  
 The reference topic gives additional information for anomaly charts.
--   **[[io-feature-availability|Feature availability based on package]]**  
-The table outlines the access permissions for Performance [[io-analytics|Analytics]] features across production and sub production instances.
--   **[[auriga-intelligent-report|Auriga Intelligent Alert report]]**  
+-   **[Feature availability based on package](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-feature-availability.md)**  
+The table outlines the access permissions for Performance Analytics features across production and sub production instances.
+-   **[Auriga Intelligent Alert report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/auriga-intelligent-report.md)**  
 Auriga Intelligent Alert is an advanced multivariate machine learning \(ML\) model that learns from historical issues on your instance to provide real-time insight. Auriga monitors your performance metrics to deliver notifications of noteworthy events or deviations from anticipated data patterns.
--   **[[io-core-performance-metrics|Transaction or response metrics]]**  
+-   **[Transaction or response metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-core-performance-metrics.md)**  
 The metrics provide a performance snapshot of classic UI transactions within the ServiceNow AI Platform®.
--   **[[io-database-performance-metrics|Database performance metrics]]**  
+-   **[Database performance metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-database-performance-metrics.md)**  
 The metrics provide the database performance snapshot within the ServiceNow AI Platform®.
--   **[[io-semaphores-performance-metrics|Semaphores performance metrics]]**  
+-   **[Semaphores performance metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-semaphores-performance-metrics.md)**  
 The metrics provide the key performance indicators calculated at the instance level for the selected duration.
--   **[[io-events-performance-metrics|Event queues performance metrics]]**  
+-   **[Event queues performance metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-events-performance-metrics.md)**  
 The metrics provide the event performance snapshot within the ServiceNow AI Platform®.
--   **[[io-ecc-queue-perf-metrics|ECC Queue performance metrics]]**  
+-   **[ECC Queue performance metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-ecc-queue-perf-metrics.md)**  
 The metrics provide the ECC Queue performance snapshot within the ServiceNow AI Platform®.
--   **[[io-emails-performance-metrics|Email performance metrics]]**  
+-   **[Email performance metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-emails-performance-metrics.md)**  
 The metrics provide the Email performance snapshot within the ServiceNow AI Platform®.
--   **[[io-schedulers-perf-metrics|Scheduler performance metrics]]**  
+-   **[Scheduler performance metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-schedulers-perf-metrics.md)**  
 The metrics provide the Schedulers performance snapshot within the ServiceNow AI Platform®.
--   **[[io-job-details-perf-metrics|Job details performance metrics]]**  
+-   **[Job details performance metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-job-details-perf-metrics.md)**  
 The metrics provide the job details performance snapshot within the ServiceNow AI Platform®.
--   **[[io-node-health-perf-metrics|Node health performance metrics]]**  
+-   **[Node health performance metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-node-health-perf-metrics.md)**  
 The metrics provide the node health performance snapshot within the ServiceNow AI Platform®.
--   **[[io-host-health-perf-metrics|Host health performance metrics]]**  
+-   **[Host health performance metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-host-health-perf-metrics.md)**  
 The metrics provide the host health performance snapshot within the ServiceNow AI Platform®.
--   **[[io-standby-replica-lag|Standby replication Lag]]**  
+-   **[Standby replication Lag](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-standby-replica-lag.md)**  
 A read replica is a copy of the primary DB that reflects changes to the primary in almost real time, in normal circumstances. The lag represents the database server of the instance that is behind in seconds.
--   **[[io-pool-replica-lag|Pool Replication Lag]]**  
+-   **[Pool Replication Lag](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-pool-replica-lag.md)**  
 Pool replication lag is the number of seconds that a Standby database or a read replica database lags behind the primary database.
--   **[[io-chat-details|Chat details performance metrics]]**  
+-   **[Chat details performance metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-chat-details.md)**  
 For the operations team to get the insights of current load across main components of AWA channel infrastructure like queues and agents, and to monitor load during events of chat spikes.
--   **[[io-cluster-details|Cluster details performance metrics]]**  
+-   **[Cluster details performance metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-cluster-details.md)**  
 The metrics provide the cluster details and Encryption status snapshot within the ServiceNow AI Platform®.
--   **[[io-load-balancer|Load balancer performance metrics]]**  
+-   **[Load balancer performance metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-load-balancer.md)**  
 The metrics provide the load balancer performance snapshot within the ServiceNow AI Platform®.
--   **[[io-user-info-metrics|User information metrics]]**  
+-   **[User information metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-user-info-metrics.md)**  
 The metrics provide the user information performance snapshot within the ServiceNow AI Platform®.
--   **[[instance-observer-metrics|Instance Data Replication]]**  
+-   **[Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/instance-observer-metrics.md)**  
 The Instance Data Replication \(IDR\) copies data updates from one instance, called the producer instance, to one or more other instances called the consumer instances.
 
-**Parent Topic:**[[instance-observer-reference|Instance Observer reference]]
+**Parent Topic:**[Instance Observer reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/instance-observer-reference.md)
 
 **Related topics**  
 
 
 [Roles installed with Instance Observer]()
 
-## Related
-
-- [[i-o-reports|Instance Observer reports overview]]
-- [[addl-inf-io-anomaly|Anomaly insights]]
-- [[io-feature-availability|Feature availability based on package]]
-- [[auriga-intelligent-report|Auriga Intelligent Alert report]]
-- [[io-core-performance-metrics|Transaction or response metrics]]
-- [[io-database-performance-metrics|Database performance metrics]]
-- [[io-semaphores-performance-metrics|Semaphores performance metrics]]
-- [[io-events-performance-metrics|Event queues performance metrics]]
-- [[io-ecc-queue-perf-metrics|ECC Queue performance metrics]]
-- [[io-emails-performance-metrics|Email performance metrics]]
-- [[io-schedulers-perf-metrics|Scheduler performance metrics]]
-- [[io-job-details-perf-metrics|Job details performance metrics]]
-- [[io-node-health-perf-metrics|Node health performance metrics]]
-- [[io-host-health-perf-metrics|Host health performance metrics]]
-- [[io-standby-replica-lag|Standby replication Lag]]
-- [[io-pool-replica-lag|Pool Replication Lag]]
-- [[io-chat-details|Chat details performance metrics]]
-- [[io-cluster-details|Cluster details performance metrics]]
-- [[io-load-balancer|Load balancer performance metrics]]
-- [[io-user-info-metrics|User information metrics]]
-- [[instance-observer-metrics|Instance Data Replication]]
-- [[instance-observer-reference|Instance Observer reference]]
-- [[instance-observer-performance|Performance]]
-- [[io-help|Help]]
-- [[io-analytics|Analytics]]

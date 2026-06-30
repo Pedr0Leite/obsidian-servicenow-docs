@@ -14,7 +14,7 @@ breadcrumb: [Task Mining, Platform Analytics]
 
 # Configuring Task Mining
 
-Plan and configure your [[task-mining|Task Mining]] implementation so that Task Mining analysts and power users can access the [[task-mining-workspace|Task Mining Workspace]] and create and manage projects.
+Plan and configure your Task Mining implementation so that Task Mining analysts and power users can access the Task Mining Workspace and create and manage projects.
 
 ## Configuration overview
 
@@ -55,7 +55,3 @@ These configuration tasks must be performed on each instance being used. After i
 
 The Task Mining agent is a service installed on workstations that logs certain events from desktop applications after a data request is submitted by a Task Mining analyst or power user and approved by a manager. For more information, see [Install the Task Mining agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/install-agent.md).
 
-## Related
-
-- [[task-mining|Task Mining]]
-- [[task-mining-workspace|Task Mining Workspace]]

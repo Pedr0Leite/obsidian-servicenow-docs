@@ -14,7 +14,7 @@ breadcrumb: [Multi-Provider single sign-on \(SSO\), Authentication, Access Manag
 
 # Multi-Provider SSO properties, tables, and scripts
 
-The Integration - Multiple Provider Single Sign-On Installer plugin includes the following [[ca-system-properties|system properties]], tables, and scripts.
+The Integration - Multiple Provider Single Sign-On Installer plugin includes the following system properties, tables, and scripts.
 
 ## Properties
 
@@ -46,7 +46,7 @@ Enables \(true\) or disables \(false\) debug logging for the multi-provider SSO 
 Enables \(true\) or disables \(false\) multi-provider SSO.-   Type: true \| false
 -   Default value: false
 
- **Note:** Setting this property to false will not disable multi-provider SSO if [[sso-acct-recovery|Account Recovery \(ACR\)]] is also enabled on the instance. To log in with a username and password ACR must also be disabled using the **glide.sso.acr.enabled** property. For details on this property see [Account recovery properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/acr-properties.md).
+ **Note:** Setting this property to false will not disable multi-provider SSO if Account Recovery \(ACR\) is also enabled on the instance. To log in with a username and password ACR must also be disabled using the **glide.sso.acr.enabled** property. For details on this property see [Account recovery properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/acr-properties.md).
 
 </td></tr><tr><td>
 
@@ -80,10 +80,10 @@ Multi-Provider SSO adds the following tables.
 |Name|Description|
 |----|-----------|
 |SSO Properties `[sso_properties]`|Stores data for each IdP, schema, common SSO data, and so on.|
-|SAML 2 Update 1 Properties`[saml2_update1_properties]`|Stores data for [[c_SAML2.0WebBrowserSSOProfile|SAML]] 2.0 Update 1 configurations such as SAML [[c_Certificates|certificates]].|
-|Digest Properties `[digest_properties]`|Stores data for [[c_DigestTokenAuthentication|digest token authentication]] configurations.|
+|SAML 2 Update 1 Properties`[saml2_update1_properties]`|Stores data for SAML 2.0 Update 1 configurations such as SAML certificates.|
+|Digest Properties `[digest_properties]`|Stores data for digest token authentication configurations.|
 |SSO Federation `[sso_federation]`|Stores data for each SSO federation.|
-|OIDC [[identity-landing|Identity]] Provider `[oidc_identity_provider]`|Stores data for Open ID connect based identity providers.|
+|OIDC Identity Provider `[oidc_identity_provider]`|Stores data for Open ID connect based identity providers.|
 
 ## Scripts
 
@@ -98,15 +98,6 @@ Multi-Provider SSO adds the following scripts.
 |MultiSSO\_OIDC\_logout\_custom|Allows a user to define a custom logout script for OIDC connection.|
 |MultiSSO\_Abstract\_Core|Provides a base class for all multi-provider SSO classes.|
 |MultiSSO\_ClientHelper|Provides a client callable utility functions for multi-provider SSO.|
-|MultiSSO\_DigestedToken|Provides a base system logic for digested token [[c_Authentication|authentication]].|
+|MultiSSO\_DigestedToken|Provides a base system logic for digested token authentication.|
 |MultiSSO\_SAML2\_Update1|Provides logic to process SAML 2.0 Update 1 authentication for a multi-tenant single sign-on.|
 
-## Related
-
-- [[ca-system-properties|System properties]]
-- [[sso-acct-recovery|Account recovery \(ACR\)]]
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[c_Certificates|Certificates]]
-- [[c_DigestTokenAuthentication|Digest token authentication]]
-- [[identity-landing|Identity]]
-- [[c_Authentication|Authentication]]

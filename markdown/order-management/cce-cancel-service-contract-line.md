@@ -28,7 +28,7 @@ Role required: sn\_customerservice\_manager and sn\_ind\_tmt\_orm.order\_agent
 
 3.  In the Contracts and Entitlements - Customer Contracts list, select the customer contract.
 
-4.  In the customer contract, select the customer contract line from the customer contract lines related list, that you want to [[cancel|cancel]].
+4.  In the customer contract, select the customer contract line from the customer contract lines related list, that you want to cancel.
 
 5.  Select **Cancel**.
 
@@ -49,6 +49,3 @@ Role required: sn\_customerservice\_manager and sn\_ind\_tmt\_orm.order\_agent
 
 With the customer contract line, all the associated entities in the hierarchy are also cancelled and move to Cancelled state.
 
-## Related
-
-- [[cancel|Cancel]]

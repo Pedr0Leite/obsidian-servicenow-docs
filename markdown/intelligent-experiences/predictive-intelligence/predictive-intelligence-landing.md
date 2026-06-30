@@ -22,7 +22,7 @@ Administrators can harness the power of machine learning to improve productivity
 
 -   Automatically populate fields during case creation.
 -   Categorize and route work based on how records have been handled in the past.
--   Recommend resolutions to [[cases|cases]] that are similar to previous ones.
+-   Recommend resolutions to cases that are similar to previous ones.
 -   Identify major outages based on incoming incidents.
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
@@ -31,11 +31,11 @@ Administrators can harness the power of machine learning to improve productivity
 
 </td><td>
 
-[Install \[Omitted image "icon-install-pi.png"\] Alt text: [[install-predictive-intelligence|Install Predictive Intelligence]] and its associated apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/install-predictive-intelligence.md)
+[Install \[Omitted image "icon-install-pi.png"\] Alt text: Install Predictive Intelligence and its associated apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/install-predictive-intelligence.md)
 
 </td><td>
 
-[Configure \[Omitted image "icon-configure-pi.png"\] Alt text: [[configure-predictive-intelligence|Configure Predictive Intelligence]] on the platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/troubleshooting-predictive-intelligence.md)
+[Configure \[Omitted image "icon-configure-pi.png"\] Alt text: Configure Predictive Intelligence on the platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/troubleshooting-predictive-intelligence.md)
 
 </td></tr><tr><td>
 
@@ -51,9 +51,3 @@ Administrators can harness the power of machine learning to improve productivity
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cases|Cases]]
-- [[install-predictive-intelligence|Install Predictive Intelligence]]
-- [[configure-predictive-intelligence|Configure Predictive Intelligence]]

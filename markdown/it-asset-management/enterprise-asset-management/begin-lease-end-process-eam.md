@@ -18,13 +18,13 @@ Initiate the lease-end process for an expiring enterprise asset lease contract s
 
 ## Before you begin
 
-**Important:** You can begin the lease-end process only for active lease [[c_Contracts|contracts]] that are expiring within 90 days but do not have a **Substate** of **Expiring**. A **Substate** of **Expiring** indicates that the lease-end process for that contract has already begun.
+**Important:** You can begin the lease-end process only for active lease contracts that are expiring within 90 days but do not have a **Substate** of **Expiring**. A **Substate** of **Expiring** indicates that the lease-end process for that contract has already begun.
 
 Role required: sn\_eam.enterprise\_admin or sn\_eam.enterprise\_asset\_manager
 
 ## Procedure
 
-1.  From the [[using-eam-workspace|Enterprise Asset Workspace]], open the Contract and lease management view.
+1.  From the Enterprise Asset Workspace, open the Contract and lease management view.
 
 2.  On the **Lease contracts** tab, select the lease contract for the enterprise asset that you want to return, buy out, or extend the contract for.
 
@@ -37,7 +37,7 @@ Role required: sn\_eam.enterprise\_admin or sn\_eam.enterprise\_asset\_manager
 
 ## Result
 
-The lease-end process for the specified lease contract begins. The [[enterprise-asset-management|Enterprise Asset Management]] application then automatically generates a Planning task for the lease contract.
+The lease-end process for the specified lease contract begins. The Enterprise Asset Management application then automatically generates a Planning task for the lease contract.
 
 ## What to do next
 
@@ -45,8 +45,3 @@ Complete the Planning task for the lease contract so that you can specify what a
 
 **Parent Topic:**[Managing expiring contracts for leased enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/managing-expiring-contracts-leased-assets.md)
 
-## Related
-
-- [[c_Contracts|Contracts]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[enterprise-asset-management|Enterprise Asset Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Use Opportunity Marketplace, Opportunity Marketplace, Hiring Experi
 
 # View an opportunity match analysis
 
-[[egd-oppt-mrktplc-landing|Opportunity Marketplace]] \(OPM\) generates match analyses based on your current role, aspirations, and skills. Match analysis is based on your skills and preferences.
+Opportunity Marketplace \(OPM\) generates match analyses based on your current role, aspirations, and skills. Match analysis is based on your skills and preferences.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ OPM provides helpful analyses and recommendations for available opportunities, a
 
 ## Procedure
 
-1.  From the [[employee-center-landing-page|Employee Center]] go to **Opportunity marketplace** &gt; **Other opportunities**.
+1.  From the Employee Center go to **Opportunity marketplace** &gt; **Other opportunities**.
 
 2.  In an opportunity card, select **Match analysis** to view details about the match.
 
@@ -47,7 +47,3 @@ OPM provides helpful analyses and recommendations for available opportunities, a
 
 **Parent Topic:**[Use Opportunity Marketplace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/opportunity-marketplace/egd-oppt-mrktplc-using.md)
 
-## Related
-
-- [[egd-oppt-mrktplc-landing|Opportunity Marketplace]]
-- [[employee-center-landing-page|Employee Center]]

@@ -14,7 +14,7 @@ breadcrumb: [Tag Governance reference, Tag Governance, ITOM Visibility, IT Opera
 
 # Tag Remediation Key form
 
-You use the Tag Remediation Key form to create a tag [[ccg-remediation|remediation]] key.
+You use the Tag Remediation Key form to create a tag remediation key.
 
 <table id="table_rtn_p42_kmb"><thead><tr><th>
 
@@ -75,6 +75,3 @@ Script code to generate values for the key. This field appears only when **Scrip
 </td></tr></tbody>
 </table>**Parent Topic:**[Tag Governance reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/tag-governance/reference-tag-governance.md)
 
-## Related
-
-- [[ccg-remediation|Remediation]]

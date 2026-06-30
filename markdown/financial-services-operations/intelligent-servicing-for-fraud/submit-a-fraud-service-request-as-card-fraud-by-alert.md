@@ -23,7 +23,7 @@ Role required: sn\_bom\_fraud.agent
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -53,6 +53,3 @@ Role required: sn\_bom\_fraud.agent
 -   A fraud case is created in the New state and the workflow is triggered.
 -   The case is assigned to an assignment group that is based on the defined assignment rules.
 
-## Related
-
-- [[fso-overview|Financial Services]]

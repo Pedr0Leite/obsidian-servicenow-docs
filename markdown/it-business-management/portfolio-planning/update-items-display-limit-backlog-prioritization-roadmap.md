@@ -15,7 +15,7 @@ breadcrumb: [Configuring Prioritization and Roadmap settings in Portfolio Planni
 
 # Update the display limit of items for Prioritization and Roadmap in Portfolio Planning
 
-Create a system property to update the display limit of the items shown in Prioritization page, Roadmap page, and the item milestones on the roadmap view in [[portfolio-planning-app-landing-page|Portfolio Planning]].
+Create a system property to update the display limit of the items shown in Prioritization page, Roadmap page, and the item milestones on the roadmap view in Portfolio Planning.
 
 ## Before you begin
 
@@ -89,6 +89,3 @@ Desired display limit count
 
 **Parent Topic:**[Configuring Prioritization and Roadmap settings in Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/configuring-prioritization-and-roadmap-settings-in-portfolio-planning.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

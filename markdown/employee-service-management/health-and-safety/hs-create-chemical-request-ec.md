@@ -14,7 +14,7 @@ breadcrumb: [Chemical management, Use, Health and Safety Environmental Managemen
 
 # Create a chemical request from the Employee Center
 
-Employees can request a chemical available in the chemical library or initiate a request for a new chemical from the [[employee-center-landing-page|Employee Center]].
+Employees can request a chemical available in the chemical library or initiate a request for a new chemical from the Employee Center.
 
 ## Before you begin
 
@@ -24,13 +24,13 @@ Role required: sn\_hs\_chm.requestor
 
 1.  Navigate to **All** &gt; **Self service** &gt; **Employee Center**.
 
-2.  Select the **[[health-safety-overview|Health and Safety]]** menu.
+2.  Select the **Health and Safety** menu.
 
 3.  To request a chemical,
 
     -   1.  Select the **Browse Health and Safety** button.
 2.  Select **Request Chemical** card.
-    -   1.  From the **[[emp-center-quick-link-config|Quick links]]**, select **View chemical library**.
+    -   1.  From the **Quick links**, select **View chemical library**.
 2.  Select the **Request Chemical** button.
 4.  On the **Request Chemical** form, fill in the details.
 
@@ -51,7 +51,7 @@ The chemical request is submitted for approval by the chemical manager.
 
 The chemical request can be viewed under My Requests. You can open the chemical request record and view the following:
 
--   The **[[activity-lxp|Activity]]** tab displays any updates on the progress of the request.
+-   The **Activity** tab displays any updates on the progress of the request.
 -   The **Details** tab shows all the information that you submitted through the form.
 -   The **Attachment** tab shows any documents attached to this request.
 
@@ -59,9 +59,3 @@ The approved or rejected chemical request can be viewed from the Employee Center
 
 **Parent Topic:**[Chemical management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-using-chemical-management.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[health-safety-overview|Health and Safety]]
-- [[emp-center-quick-link-config|Quick links]]
-- [[activity-lxp|Activity]]

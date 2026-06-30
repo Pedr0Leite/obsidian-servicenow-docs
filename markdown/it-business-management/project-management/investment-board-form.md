@@ -71,7 +71,7 @@ Demand/Projects
 Option to specify filter criteria for projects and demands. **Note:**
 
 -   If no filter criteria is specified for demand, then no demands are retrieved. Similarly, if no filter criteria is specified for project, then no projects are retrieved.
--   You can view a CSM column in an [[investment-portal|Investment Portal]] board, but you cannot add a filter on such columns in the board.
+-   You can view a CSM column in an Investment Portal board, but you cannot add a filter on such columns in the board.
 
 </td></tr><tr><td>
 
@@ -89,6 +89,3 @@ This option is available only when **Type** is **Portfolio** or **Program**.
 
 [Create an investment board](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/create-an-investment-report.md)
 
-## Related
-
-- [[investment-portal|Investment Portal]]

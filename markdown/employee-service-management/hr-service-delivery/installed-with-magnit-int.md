@@ -14,7 +14,7 @@ breadcrumb: [Reference, HR Service Delivery Integration with Magnit, Integration
 
 # Components installed with HR Service Delivery Integration with Magnit
 
-Several types of components are installed with activation of the [[hr-magnit-int|HR Service Delivery Integration with Magnit]] plugin, including tables, and user roles.
+Several types of components are installed with activation of the HR Service Delivery Integration with Magnit plugin, including tables, and user roles.
 
 ## Roles installed
 
@@ -42,7 +42,7 @@ Magnit Admin\[sn\_hr\_magnit.admin\]
 
 </td><td>
 
--   sn\_hr\_le.[[activity-lxp|activity]]\_writer
+-   sn\_hr\_le.activity\_writer
 -   sn\_hr\_integr\_fw.admin
 -   sn\_hr\_magnit.reader
 
@@ -52,7 +52,7 @@ Magnit Reader\[sn\_hr\_magnit.reader\]
 
 </td><td>
 
-Can view [[c_HRProfileRecords|HR profile]], HR lifecycle case, and HR task created for Magnit contingent worker along with Magnit task mapping records​
+Can view HR profile, HR lifecycle case, and HR task created for Magnit contingent worker along with Magnit task mapping records​
 
 </td><td>
 
@@ -94,8 +94,3 @@ Stores the mappings of onboarding items of contingent workers with HR profiles.
 
 [Default entities]()
 
-## Related
-
-- [[hr-magnit-int|HR Service Delivery Integration with Magnit]]
-- [[activity-lxp|Activity]]
-- [[c_HRProfileRecords|HR Profile]]

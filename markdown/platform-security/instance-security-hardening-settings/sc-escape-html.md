@@ -40,11 +40,11 @@ Property name
 
 </td></tr><tr><td>
 
-[[sc-configuration|Configuration]] type
+Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -108,15 +108,10 @@ References
 
 </td><td>
 
-[[c_HighSecuritySettings|High Security Settings]]
+[High Security Settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_HighSecuritySettings.md)
 
 </td></tr></tbody>
 </table>To learn more about adding or creating a system property, see [Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddAPropertyUsingSysPropsList.md).
 
 **Parent Topic:**[Validation, sanitization, and encoding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/validation-sanitization-encoding.md)
 
-## Related
-
-- [[c_HighSecuritySettings|High Security Settings]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

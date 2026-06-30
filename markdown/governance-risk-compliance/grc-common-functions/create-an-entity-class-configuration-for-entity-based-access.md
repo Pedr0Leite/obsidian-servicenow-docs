@@ -14,7 +14,7 @@ breadcrumb: [Manage Entity Based Access, Entity Based Access, Common GRC feature
 
 # Configure an entity class for a linked object
 
-Configure an entity class for a linked object by using the [[entity-based-access|Entity Based Access]] application. You can define an [[entity-class|entity class]], such as Business Process, Business Service, or Database, and manage the object access for the entity that is linked to that entity class.
+Configure an entity class for a linked object by using the Entity Based Access application. You can define an entity class, such as Business Process, Business Service, or Database, and manage the object access for the entity that is linked to that entity class.
 
 ## Before you begin
 
@@ -40,12 +40,7 @@ Role required: sn\_grc\_ent\_access.admin
 
 
 -   **[Entity Class Configurations form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/entity-class-configurations-form.md)**  
-Use the [[entity-class-configurations-form|Entity Class Configurations form]] to set up access control to all the entities that are linked to the entity class.
+Use the Entity Class Configurations form to set up access control to all the entities that are linked to the entity class.
 
 **Parent Topic:**[Managing Entity Based Access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/using-entity-based-access.md)
 
-## Related
-
-- [[entity-based-access|Entity Based Access]]
-- [[entity-class|entity class]]
-- [[entity-class-configurations-form|Entity Class Configurations form]]

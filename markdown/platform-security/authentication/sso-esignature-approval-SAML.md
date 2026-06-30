@@ -14,7 +14,7 @@ breadcrumb: [E-signature for Multi-Provider SSO, Multi-Provider SSO configuratio
 
 # Use Multi-Provider SSO to set up an SSO approval for a SAML 2.0 authentication
 
-An SSO approval with e-signature requires [[sc-configuration|configuration]] on the [[c_SAML2.0WebBrowserSSOProfile|SAML]] IdP and the ServiceNow instance.
+An SSO approval with e-signature requires configuration on the SAML IdP and the ServiceNow instance.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
 ## About this task
 
-The SAML IdP must support and honor the forceAuthn attribute in SAML assertion requests. E-signature doesn’t function without this IdP setting. Set up an approval with e-signature using credentials from a SAML 2.0 [[c_Authentication|authentication]].
+The SAML IdP must support and honor the forceAuthn attribute in SAML assertion requests. E-signature doesn’t function without this IdP setting. Set up an approval with e-signature using credentials from a SAML 2.0 authentication.
 
 ## Procedure
 
@@ -30,7 +30,7 @@ The SAML IdP must support and honor the forceAuthn attribute in SAML assertion r
 
 2.  Activate the [Approval with E-Signature plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/activate-approval-esignature.md).
 
-3.  Navigate to **Multi-Provider SSO** &gt; **[[identity-landing|Identity]] Providers** and verify your 2.0 SAML IdP configuration Advanced tab shows the **Force AuthnRequest** attribute checked.
+3.  Navigate to **Multi-Provider SSO** &gt; **Identity Providers** and verify your 2.0 SAML IdP configuration Advanced tab shows the **Force AuthnRequest** attribute checked.
 
     Your SAML 2.0 IdP must support the **Force AuthnRequest** attribute, or e-signature isn’t supported.
 
@@ -66,7 +66,7 @@ You can enter the URL that points to the SAML 2.0 IdP AuthnRequest URL for eSign
 
 </td><td>
 
-When a user approves a [[c_requestAPI|request]] using eSignature, a dialog opens and a user can enter credentials. This setting controls the width of that dialog box. The default is 500.
+When a user approves a request using eSignature, a dialog opens and a user can enter credentials. This setting controls the width of that dialog box. The default is 500.
 
 </td></tr><tr><td id="d250985e152">
 
@@ -83,10 +83,4 @@ When a user approves a request using eSignature, a dialog opens and a user can e
 
 6.  Copy the service provider metadata, and update it on the SAML IdP.
 
-## Related
 
-- [[sc-configuration|Configuration]]
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[c_Authentication|Authentication]]
-- [[identity-landing|Identity]]
-- [[c_requestAPI|request]]

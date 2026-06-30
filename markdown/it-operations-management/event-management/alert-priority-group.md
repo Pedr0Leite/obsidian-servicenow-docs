@@ -33,7 +33,7 @@ The priority groups into which alerts fall are listed in the following table.
 |Moderate|\[Omitted image "priority-moderate.png"\] Alt text: Moderate priority|
 |Low|\[Omitted image "priority-low.png"\] Alt text: Low priority value|
 
-The value of the [[alert-priority|alert priority]] group is more meaningful than the alert severity on its own. For example, an alert with a severity of Major, may not be in need of resolution ahead of an alert whose priority is Critical. The combined group priority value takes the weight of each factor into account, giving you a better indication of which alert to attend to first.
+The value of the alert priority group is more meaningful than the alert severity on its own. For example, an alert with a severity of Major, may not be in need of resolution ahead of an alert whose priority is Critical. The combined group priority value takes the weight of each factor into account, giving you a better indication of which alert to attend to first.
 
 The alert priority group is available in alert lists in the Dashboard, Alert Intelligence, and All Alerts page. For example, in the **All Alerts** list, the alert priority group is displayed as depicted in the following image.
 
@@ -50,6 +50,3 @@ Changes to open alerts trigger the recalculation of the priority and then the al
 
 [Alert priority](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/alert-priority.md)
 
-## Related
-
-- [[alert-priority|Alert priority]]

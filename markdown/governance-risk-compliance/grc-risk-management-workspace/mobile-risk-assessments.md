@@ -14,7 +14,7 @@ breadcrumb: [Mobile experience for GRC Risk Management, Use, Risk Management, Go
 
 # Reassign overdue Risk Management assessments with the GRC Mobile application
 
-Reassign overdue [[risk-assessments|risk assessments]] to another member of your assignment group.
+Reassign overdue risk assessments to another member of your assignment group.
 
 ## Before you begin
 
@@ -83,6 +83,3 @@ On the bottom of the screen, choose one to continue.-   Tap the Risk icon to ret
 </table>
 **Parent Topic:**[Mobile experience for GRC Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/mobile-risk-overview.md)
 
-## Related
-
-- [[risk-assessments|risk assessments]]

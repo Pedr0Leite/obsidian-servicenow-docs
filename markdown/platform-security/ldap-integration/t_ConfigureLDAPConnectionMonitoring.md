@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-The instance automatically sends an [[email|email]] to [[users|users]] configured in the LDAP Admins group when an LDAP server connection fails. This uses the email notification, which is launched by the **LDAP Connection Test**scheduled job. This email notification is enabled by default.
+The instance automatically sends an email to users configured in the LDAP Admins group when an LDAP server connection fails. This uses the email notification, which is launched by the **LDAP Connection Test**scheduled job. This email notification is enabled by default.
 
 **Note:** The instance does not send the email notification unless there is at least one member in the LDAP Admins group. Make sure to populate this group with the users you want to receive the email.
 
@@ -39,7 +39,3 @@ By default, the scheduled job tests the connection every 15 minutes. To change t
     -   Change the interval in the **Repeat Interval** field.
     -   Disable monitoring by clearing the **Active** check box.
 
-## Related
-
-- [[email|Email]]
-- [[users|Users]]

@@ -41,8 +41,5 @@ Possible results for this activity are:
 |Success|An IPv4 address was returned.|
 |Failure|An IPv4 address could not be determined.|
 
-**Parent Topic:**[[common-wf-activities|Common Security Operations integration flows and orchestration activities]]
+**Parent Topic:**[Common Security Operations integration flows and orchestration activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/common-wf-activities.md)
 
-## Related
-
-- [[common-wf-activities|Common Security Operations integration flows and orchestration activities]]

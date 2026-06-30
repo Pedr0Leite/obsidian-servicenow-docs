@@ -14,7 +14,7 @@ breadcrumb: [Configure Legal Simple Contracts, Configure, Legal Simple Contracts
 
 # Create a legal contract intake workflow
 
-[[snlc-create-legal-contract|Create a legal contract intake workflow]] by creating a record producer and configuring base system settings so that employees can request the legal department's guidance on legal contracts.
+Create a legal contract intake workflow by creating a record producer and configuring base system settings so that employees can request the legal department's guidance on legal contracts.
 
 ## Before you begin
 
@@ -56,7 +56,7 @@ The legal support for a contract request works based on a workflow, so you must 
 
     4.  From the **Request record producer** field, select the record producer created in the Step 1 to associate with the intake form.
 
-3.  Create [[document-template-block|legal contract templates]].
+3.  Create legal contract templates.
 
     -   For more information, see [Legal contract templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/document-template-block.md).
     -   In the **Conditions**, you must select the new category added for the new contract.
@@ -64,7 +64,7 @@ The legal support for a contract request works based on a workflow, so you must 
 
 5.  Configure the settings in the Standard Ticket Page for legal requests.
 
-    **Note:** The following settings must be updated in the [[legal-simple-contracts-landing-page|Legal Simple Contracts]] application scope.
+    **Note:** The following settings must be updated in the Legal Simple Contracts application scope.
 
     1.  Navigate to **Standard Ticket** &gt; **Standard Ticket Configuration**.
 
@@ -80,8 +80,4 @@ The legal support for a contract request works based on a workflow, so you must 
 
     For more information, see [Configure the standard ticket page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-st-page.md)
 
-## Related
 
-- [[snlc-create-legal-contract|Create a legal contract intake workflow]]
-- [[document-template-block|Legal contract templates]]
-- [[legal-simple-contracts-landing-page|Legal Simple Contracts]]

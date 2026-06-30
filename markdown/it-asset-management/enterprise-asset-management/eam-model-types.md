@@ -14,7 +14,7 @@ breadcrumb: [Enterprise Asset Management data model, Explore, Enterprise Asset M
 
 # Model types in Enterprise Asset Management
 
-Every enterprise model in the [[enterprise-asset-management|Enterprise Asset Management]] application is assigned a model type that determines its structural nature. Each enterprise model can represent standalone enterprise assets, quantity-tracked [[c_ReceiveAConsumableAsset|consumable assets]], or complex assemblies that are comprised of multiple components.
+Every enterprise model in the Enterprise Asset Management application is assigned a model type that determines its structural nature. Each enterprise model can represent standalone enterprise assets, quantity-tracked consumable assets, or complex assemblies that are comprised of multiple components.
 
 The Enterprise Asset Management application supports the following model types:
 
@@ -28,7 +28,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Consumable [[c_Models|models]]
+Consumable models
 
 </td><td>
 
@@ -56,7 +56,7 @@ User-assembled models
 
 </td><td>
 
-Represents equipment that you must assemble on-site using components from your existing inventory. With this model type, all required components must be readily available in your [[c_Stockrooms|stockrooms]] before any assembly begins.
+Represents equipment that you must assemble on-site using components from your existing inventory. With this model type, all required components must be readily available in your stockrooms before any assembly begins.
 
 </td></tr></tbody>
 </table>-   **[Multi-component models and assets in Enterprise Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/complex-models.md)**  
@@ -64,9 +64,3 @@ Multi-component models and multi-components assets help you track the maintenanc
 
 **Parent Topic:**[Enterprise Asset Management data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/eam-data-model.md)
 
-## Related
-
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[c_ReceiveAConsumableAsset|Consumable assets]]
-- [[c_Models|Models]]
-- [[c_Stockrooms|Stockrooms]]

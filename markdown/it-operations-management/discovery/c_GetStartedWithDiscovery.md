@@ -14,7 +14,7 @@ breadcrumb: [Discovery, ITOM Visibility, IT Operations Management]
 
 # Exploring Discovery
 
-[[r-discovery|Discovery]] finds computers, servers, printers, a variety of IP-enabled devices, and the applications that run on them. It can then update the configuration items \(CIs\) in your Configuration Management Database \(CMDB\) with the data it collects.
+Discovery finds computers, servers, printers, a variety of IP-enabled devices, and the applications that run on them. It can then update the configuration items \(CIs\) in your Configuration Management Database \(CMDB\) with the data it collects.
 
 ## Horizontal discovery and top-down discovery
 
@@ -26,7 +26,7 @@ There are two types of discovery:
 
 -   **Top-down discovery**
 
-    Top-down discovery is a technique that [[c_ServiceMappingOverview|Service Mapping]] uses to find and maps CIs that are part of business services, such as an email service. For example, top-down discovery can map a website business service by showing the relationships between an Apache Tomcat web server service, a Windows server, and the MSSQL database that stores the data for the business service.
+    Top-down discovery is a technique that Service Mapping uses to find and maps CIs that are part of business services, such as an email service. For example, top-down discovery can map a website business service by showing the relationships between an Apache Tomcat web server service, a Windows server, and the MSSQL database that stores the data for the business service.
 
     Typically, Service Mapping and Discovery work together to run horizontal discovery first to find CIs, and then top-down discovery to establish the relationships between business services that you need to know.
 
@@ -89,7 +89,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[c_NetworkDiscovery|Network discovery]]
+Network discovery
 
 </td><td>
 
@@ -113,7 +113,7 @@ Run this type of discovery to find AWS and Azure resources in your organization'
 
 </td></tr><tr><td>
 
-[[serverless-discovery|Serverless discovery]]
+Serverless discovery
 
 </td><td>
 
@@ -140,9 +140,3 @@ Horizontal discovery with patterns has four phases, just as horizontal discovery
 
 [Discovery monitoring and issue resolution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoveryTroubleshooting.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[c_NetworkDiscovery|Network discovery]]
-- [[serverless-discovery|Serverless Discovery]]

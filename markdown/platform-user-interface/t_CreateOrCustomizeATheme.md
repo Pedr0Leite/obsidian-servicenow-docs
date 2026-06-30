@@ -28,7 +28,7 @@ Role required: admin
     -   To customize an existing theme, click the theme name.
 3.  Enter a name for the theme in the **Name** field.
 
-4.  Add any of the [[r_DefaultCSSStyle|default CSS styles]] in the **CSS** field.
+4.  Add any of the [default CSS styles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/r_DefaultCSSStyle.md) in the **CSS** field.
 
     Sometimes the default style is not the only style definition for an object. In such cases, you can use the CSS [important rule](http://www.w3.org/TR/CSS2/cascade.html#important-rules) format to override any other style definitions with the default definition. For example, this definition overrides the text color in the main navigation: `$navpage-nav-color-sub: #fff !important`.
 
@@ -40,7 +40,7 @@ Role required: admin
     |------|-----------|
     |**Browser**|Identifies a Legacy UI11 theme.|
     |**Doctype**|Identifies a Legacy UI15 theme.|
-    |**Concourse**|Identifies a [[c_UI16|Core UI]] theme.|
+    |**Concourse**|Identifies a Core UI theme.|
 
 7.  Click **Submit**.
 
@@ -49,7 +49,7 @@ Role required: admin
 
 Refresh the page to see the new theme in the theme picker. The theme picker displays only themes that are compatible with the current version of the UI.
 
-**Parent Topic:**[[c_CSSThemeSupport|CSS theme support]]
+**Parent Topic:**[CSS theme support](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_CSSThemeSupport.md)
 
 **Related topics**  
 
@@ -58,8 +58,3 @@ Refresh the page to see the new theme in the theme picker. The theme picker disp
 
 [Default CSS styles]()
 
-## Related
-
-- [[r_DefaultCSSStyle|Default CSS styles]]
-- [[c_CSSThemeSupport|CSS theme support]]
-- [[c_UI16|Core UI]]

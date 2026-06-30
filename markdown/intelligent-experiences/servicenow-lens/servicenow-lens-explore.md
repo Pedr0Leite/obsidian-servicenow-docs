@@ -15,11 +15,11 @@ breadcrumb: [ServiceNow AI Lens, Enable AI experiences]
 
 # Exploring ServiceNow AI Lens
 
-[[servicenow-lens-landing-page|ServiceNow AI Lens]] is a ServiceNow® [[platform-now-assist-landing|Now Assist]] application that uses generative AI to scan images and screens, extract information, understand visual data, and help improve your workflows.
+ServiceNow AI Lens is a ServiceNow® Now Assist application that uses generative AI to scan images and screens, extract information, understand visual data, and help improve your workflows.
 
 ## ServiceNow AI Lens overview
 
-Get an overview of the capabilities and a few use [[cases|cases]] of ServiceNow AI Lens.
+Get an overview of the capabilities and a few use cases of ServiceNow AI Lens.
 
 \[Omitted video\] Description: Overview of the ServiceNow AI Lens capabilities and use cases
 
@@ -46,7 +46,7 @@ ServiceNow AI Lens can do the following tasks automatically for you:
 
 ## ServiceNow AI Lens skill
 
-Now Assist for Platform includes the AI-powered [[servicenow-lens-skill|ServiceNow AI Lens skill]] to read, understand, respond, and act on visual data such as hand-written texts, images, and websites and take powerful actions to boost productivity.
+Now Assist for Platform includes the AI-powered ServiceNow AI Lens skill to read, understand, respond, and act on visual data such as hand-written texts, images, and websites and take powerful actions to boost productivity.
 
 Admins can enable the ServiceNow AI Lens skill in the Now Assist Admin console. Once enabled, users can perform the following actions:
 
@@ -61,7 +61,7 @@ The ServiceNow AI Lens application requires a Workflow Data Fabric \(previously 
 
 ## Available LLMs
 
-You can use Azure OpenAI, Google Gemini, or Anthropic Claude on AWS as the AI model provider for ServiceNow AI Lens skill. You can set skill-level preferences in the [[manage-large-language-models|Now Assist Admin console]]. For more information, see [Large language models on the ServiceNow AI Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-large-language-model-now-llm/exploring-large-language-models.md).
+You can use Azure OpenAI, Google Gemini, or Anthropic Claude on AWS as the AI model provider for ServiceNow AI Lens skill. You can set skill-level preferences in the [Now Assist Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/manage-large-language-models.md). For more information, see [Large language models on the ServiceNow AI Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-large-language-model-now-llm/exploring-large-language-models.md).
 
 ## What to explore next
 
@@ -71,10 +71,3 @@ To learn how to configure and use ServiceNow AI Lens, see:
 -   [Using ServiceNow AI Lens](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/servicenow-lens-use.md)
 -   [ServiceNow AI Lens reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/servicenow-lens-reference.md)
 
-## Related
-
-- [[manage-large-language-models|Manage AI models]]
-- [[servicenow-lens-landing-page|ServiceNow AI Lens]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[cases|Cases]]
-- [[servicenow-lens-skill|ServiceNow AI Lens skill]]

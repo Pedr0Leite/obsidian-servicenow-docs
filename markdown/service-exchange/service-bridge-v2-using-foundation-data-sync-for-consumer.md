@@ -36,7 +36,7 @@ Description
 
 </td><td>
 
-[[service-bridge-v2-request-fds-offerings|Request a foundation data offering.]]
+[Request a foundation data offering.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-request-fds-offerings.md)
 
 </td><td>
 
@@ -48,7 +48,7 @@ Requests FDS offerings from your provider based on the published offerings.After
 
 </td><td>
 
-[[service-bridge-v2-validate-fds-subscription|Configure the sample data and validate subscription items.]]
+[Configure the sample data and validate subscription items.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-validate-fds-subscription.md)
 
 </td><td>
 
@@ -60,7 +60,7 @@ Configure the incoming data based on the CMDB or non-CMDB table to validate subs
 
 </td><td>
 
-[[service-bridge-v2-accept-fds-subscription|Accept the subscription]]
+[Accept the subscription](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-accept-fds-subscription.md)
 
 </td><td>
 
@@ -70,11 +70,5 @@ Accept the subscription.After you accept the subscription, your provider publish
 </table>**Related topics**  
 
 
-[[service-bridge-v2-explore-foundation-data-sync|Foundation data sync]]
+[Foundation data sync](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-explore-foundation-data-sync.md)
 
-## Related
-
-- [[service-bridge-v2-request-fds-offerings|Request foundation data sync offerings]]
-- [[service-bridge-v2-validate-fds-subscription|Validate foundation data sync subscription items]]
-- [[service-bridge-v2-accept-fds-subscription|Accept a foundation data sync subscription]]
-- [[service-bridge-v2-explore-foundation-data-sync|Foundation data sync]]

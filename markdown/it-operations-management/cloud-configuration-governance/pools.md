@@ -200,7 +200,7 @@ Query
 
 </td><td>
 
-Filters the names of [[cloud-accounts|cloud accounts]].
+Filters the names of cloud accounts.
 
 </td></tr><tr><td>
 
@@ -591,7 +591,3 @@ Filters VM folders based on the logical datacenter they belong to.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cloud-accounts|Cloud accounts]]

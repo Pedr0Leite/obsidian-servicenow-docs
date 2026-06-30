@@ -20,7 +20,7 @@ Create new article templates in addition to the pre-defined templates. Add new f
 
 You must activate following plugins:
 
--   [[knowledge-management|Knowledge Management]] Advanced \(com.snc.knowledge\_advanced\)
+-   Knowledge Management Advanced \(com.snc.knowledge\_advanced\)
 -   Knowledge Management Advanced Installer \(com.snc.knowledge\_advanced.installer\)
 
 Role required: admin, knowledge\_admin or admin, personalize\_form
@@ -40,7 +40,7 @@ For each new article template, a child table of the Knowledge \[kb\_knowledge\] 
     |Name|Name for the article template. The name can contain only lowercase, alphanumeric ASCII characters and underscores \(\_\).|
     |Description|Description for the article template.|
 
-    **Note:** The **Active** [[check-box|check box]] is selected by default making the template available for use.
+    **Note:** The **Active** check box is selected by default making the template available for use.
 
 3.  Right-click the form header and click **Save**.
 
@@ -72,7 +72,7 @@ Field Type
 
 </td><td>
 
-Available field types:-   [[html|HTML]]
+Available field types:-   HTML
 -   String
 -   Integer
 -   Date
@@ -191,8 +191,3 @@ If you want to search for duplicate articles when creating an article from a new
 
 **Parent Topic:**[Configure knowledge article templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/configure-knowledge-article-templates.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]
-- [[check-box|Check box]]
-- [[html|HTML]]

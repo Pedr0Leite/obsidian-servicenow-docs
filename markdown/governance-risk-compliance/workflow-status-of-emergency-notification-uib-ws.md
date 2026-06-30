@@ -20,7 +20,7 @@ The status flow for an emergency notification lists different states of an emerg
 
 -   **Notification state**
 
-    The emergency notification that is created and sent from the ServiceNow [[business-continuity-mangmt-overview|Business Continuity Management]] Workspace is tracked in the **Notification state** field.
+    The emergency notification that is created and sent from the ServiceNow Business Continuity Management Workspace is tracked in the **Notification state** field.
 
 -   **Communication status**
 
@@ -92,9 +92,5 @@ Communication status
 **Completed**: The state moves to Completed.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[ebn-collective-tasks|Sending notifications with Everbridge]]
+</table>**Parent Topic:**[Sending notifications with Everbridge](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ebn-collective-tasks.md)
 
-## Related
-
-- [[ebn-collective-tasks|Sending notifications with Everbridge]]
-- [[business-continuity-mangmt-overview|Business Continuity Management]]

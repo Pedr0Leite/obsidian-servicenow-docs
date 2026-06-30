@@ -14,7 +14,7 @@ breadcrumb: [Usage Insights, Platform Analytics]
 
 # Configuring Usage Insights
 
-An admin can configure which ServiceNow applications to track in the [[user-exp-analytics-landing|Usage Insights]] application as well as user tracking consent policies.
+An admin can configure which ServiceNow applications to track in the Usage Insights application as well as user tracking consent policies.
 
 ## Configuration overview
 
@@ -39,6 +39,3 @@ In addition to the default filters on the pages of the Usage Insights applicatio
 
 **Parent Topic:**[Usage Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/user-exp-analytics-landing.md)
 
-## Related
-
-- [[user-exp-analytics-landing|Usage Insights]]

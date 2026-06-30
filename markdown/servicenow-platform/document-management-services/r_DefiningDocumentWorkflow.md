@@ -14,16 +14,11 @@ breadcrumb: [Features, Managed Documents, Document Services, Manage content capa
 
 # Defining Document Workflow
 
-In the base system, all [[c_ManagedDocuments|managed documents]] use the **Managed Documents** workflow after the **Active** [[check-box|check box]] is selected.
+In the base system, all managed documents use the **Managed Documents** workflow after the **Active** check box is selected.
 
 \[Omitted image "MDOCworkflow.png"\] Alt text: Workflow
 
-The document parameters defined in the workflow are often used as conditions to trigger more specific workflows, such as type-specific workflows or classification-specific workflows. If different kinds of documents should follow different workflows, use the Graphical [[workflow-editor|Workflow Editor]] to create new workflows.
+The document parameters defined in the workflow are often used as conditions to trigger more specific workflows, such as type-specific workflows or classification-specific workflows. If different kinds of documents should follow different workflows, use the Graphical Workflow Editor to create new workflows.
 
 **Parent Topic:**[Managed Document features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/r_ManagedDocumentFeatures.md)
 
-## Related
-
-- [[c_ManagedDocuments|Managed Documents]]
-- [[check-box|Check box]]
-- [[workflow-editor|Workflow editor]]

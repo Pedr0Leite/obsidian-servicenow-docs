@@ -14,7 +14,7 @@ breadcrumb: [Report a privacy case, Use, Privacy Case Management, Privacy Manage
 
 # Report a privacy case from the Employee Center
 
-Use the [[employee-center|Employee Center]] to report any privacy breaches and complaints directly to the privacy teams. Reporting these cases helps to reduce and avert losses.
+Use the Employee Center to report any privacy breaches and complaints directly to the privacy teams. Reporting these cases helps to reduce and avert losses.
 
 ## Before you begin
 
@@ -42,6 +42,3 @@ On the new privacy case form in the Employee Center, fill in the fields as appro
 
 **Parent Topic:**[Reporting a privacy case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/reporting-a-privacy-case.md)
 
-## Related
-
-- [[employee-center|employee center]]

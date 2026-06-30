@@ -16,7 +16,7 @@ breadcrumb: [Use, Document Intelligence, Enable AI experiences]
 
 After the document task processing is finished, complete the task by providing input or review to train the AI.
 
-**Important:** Starting with the Zurich release, [[document-intelligence-landing|Document Intelligence]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the [[docintel-nowassist-landing|Now Assist in Document Intelligence]] application. For more information, see [Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/docintel-nowassist-landing.md).
+**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the Now Assist in Document Intelligence application. For more information, see [Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/docintel-nowassist-landing.md).
 
 ## Before you begin
 
@@ -42,7 +42,7 @@ Role required: sn\_docintel.extraction\_agent
 
     The following image shows how to navigate to the Document Intelligence workspace for data extraction.
 
-    \[Omitted image "docintel-show-in-docintel.png"\] Alt text: [[now-assist-global-navigation|Navigation]] to the Document Intelligence workspace
+    \[Omitted image "docintel-show-in-docintel.png"\] Alt text: Navigation to the Document Intelligence workspace
 
     The Document Intelligence workspace opens in a new tab.
 
@@ -54,8 +54,4 @@ Role required: sn\_docintel.extraction\_agent
 
 6.  Select **Submit** to complete the document task.
 
-## Related
 
-- [[document-intelligence-landing|Document Intelligence]]
-- [[docintel-nowassist-landing|Now Assist in Document Intelligence]]
-- [[now-assist-global-navigation|Navigation]]

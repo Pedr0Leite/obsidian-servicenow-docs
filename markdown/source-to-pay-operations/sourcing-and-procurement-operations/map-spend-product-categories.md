@@ -22,7 +22,7 @@ Role required: sn\_spend\_mgmt.category\_manager\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[spo-spend-mgmt|Spend and Savings Management]]** &gt; **Spend Categories**.
+1.  Navigate to **All** &gt; **Spend and Savings Management** &gt; **Spend Categories**.
 
 2.  Select **New**.
 
@@ -38,7 +38,7 @@ Role required: sn\_spend\_mgmt.category\_manager\_admin
 
 4.  Select **Submit**.
 
-    The Child Spend Categories, Product Categories, and [[ledger-assignment-rules|Ledger Assignment Rules]] related lists appear.\[Omitted image "spend-prod-cat-map.png"\] Alt text: The Child Spend Categories, Product Categories, and Ledger Assignment Rules related lists appear on the Spend Category page.
+    The Child Spend Categories, Product Categories, and Ledger Assignment Rules related lists appear.\[Omitted image "spend-prod-cat-map.png"\] Alt text: The Child Spend Categories, Product Categories, and Ledger Assignment Rules related lists appear on the Spend Category page.
 
 5.  Do the following:
 
@@ -81,7 +81,7 @@ Create product categories
 
 </td></tr><tr><td>
 
-[[create-ledger-assignment-rules|Create ledger assignment rules]]
+Create ledger assignment rules
 
 </td><td>
 
@@ -98,8 +98,3 @@ Select the **Ledger Assignment Rules** related list and select **New**. For more
 
 [Action or dismiss a savings opportunity]()
 
-## Related
-
-- [[spo-spend-mgmt|Spend and Savings Management]]
-- [[ledger-assignment-rules|Ledger assignment rules]]
-- [[create-ledger-assignment-rules|Create ledger assignment rules]]

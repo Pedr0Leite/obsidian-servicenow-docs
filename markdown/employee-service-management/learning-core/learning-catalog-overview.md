@@ -14,15 +14,11 @@ breadcrumb: [Reporting solutions for Learning, Learning, Growth Experiences, HR 
 
 # Learning catalog overview
 
-Learning catalog overview dashboard provides the [[exploring-learning-exp|learning]] catalog manager with a detailed view of the user activities.
+Learning catalog overview dashboard provides the learning catalog manager with a detailed view of the user activities.
 
-The Learning Catalog overview dashboard gives a bird's eye view of all the learning [[activity-lxp|activity]] of the users to the Catalog manager.
+The Learning Catalog overview dashboard gives a bird's eye view of all the learning activity of the users to the Catalog manager.
 
 \[Omitted image "learning-catalog-overview.png"\] Alt text: Overview dashboard shows active users, in progress activities, total completions, content by status, and completion trends.
 
 **Parent Topic:**[Reporting solutions for Learning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/reporting-solutions-learning.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[activity-lxp|Activity]]

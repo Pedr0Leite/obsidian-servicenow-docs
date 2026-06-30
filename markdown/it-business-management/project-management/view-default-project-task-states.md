@@ -14,7 +14,7 @@ breadcrumb: [Create a project task from a project, Starting a project, Using Pro
 
 # View default project and project task state categories
 
-View category information for the default [[project-and-project-task-states|project and project task states]]. In the base system, the states in project and project task inherit the states in Task table.
+View category information for the default project and project task states. In the base system, the states in project and project task inherit the states in Task table.
 
 ## Before you begin
 
@@ -51,6 +51,3 @@ Add or modify a state of project or project task using dictionary override.
 
 [Project and project task states](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/project-and-project-task-states.md)
 
-## Related
-
-- [[project-and-project-task-states|Project and project task states]]

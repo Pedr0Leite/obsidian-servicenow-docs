@@ -21,13 +21,9 @@ You can submit complaints through various channels.
 -   **[Submit a complaint through Legal Service Portal]()**  
 Submit a complaint through the Legal Service Portal to report a violation incident for investigation and resolution.
 -   **[Submit a complaint through Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/submit-complaint-employee-center.md)**  
-Submit a complaint through the [[employee-center-landing-page|Employee Center]] portal to report a compliance violation incident for investigation and resolution.
+Submit a complaint through the Employee Center portal to report a compliance violation incident for investigation and resolution.
 -   **[Submit a complaint through the Anonymous Report Center portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/submit-complaint-arc.md)**  
-Submit a complaint anonymously through the [[arc-portal|Anonymous Report Center \(ARC\)]] portal to report a compliance violation incident for investigation and resolution.
+Submit a complaint anonymously through the Anonymous Report Center \(ARC\) portal to report a compliance violation incident for investigation and resolution.
 
 **Parent Topic:**[Legal Investigations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/legal-investigations-landing-page.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[arc-portal|Anonymous Report Center \(ARC\)]]

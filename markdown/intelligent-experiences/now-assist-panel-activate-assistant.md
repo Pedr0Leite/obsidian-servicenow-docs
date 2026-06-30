@@ -18,7 +18,7 @@ You must activate Now Assist panel assistants before using them.
 
 Role required: admin
 
-**Note:** Voice input is automatically activated when you activate the [[now-assist-center-now-assist-panel|Now Assist panel]].
+**Note:** Voice input is automatically activated when you activate the Now Assist panel.
 
 ## Procedure
 
@@ -33,9 +33,5 @@ Role required: admin
 4.  On the Review tab, activate the Now Assist panel assistant.
 
 
-**Parent Topic:**[[configuring-na-landing|Configuring Now Assist Admin features]]
+**Parent Topic:**[Configuring Now Assist Admin features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configuring-na-landing.md)
 
-## Related
-
-- [[configuring-na-landing|Configuring Now Assist Admin features]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]

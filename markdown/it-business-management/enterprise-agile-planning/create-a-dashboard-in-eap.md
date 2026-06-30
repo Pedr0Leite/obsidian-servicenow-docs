@@ -14,7 +14,7 @@ breadcrumb: [Configuring custom dashboards in EAP, Configure, Enterprise Agile P
 
 # Create a dashboard in EAP
 
-[[create-dashboard-ppw|Create a dashboard]] to track key metrics for your custom Agile configuration by creating a dashboard or duplicating and editing a default EAP dashboard.
+Create a dashboard to track key metrics for your custom Agile configuration by creating a dashboard or duplicating and editing a default EAP dashboard.
 
 ## Before you begin
 
@@ -46,6 +46,3 @@ Role required: sn\_apw\_advanced.eap\_admin
 
 [Add a tag to the EAP dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/add-tag-to-the-eap-dashboard.md).
 
-## Related
-
-- [[create-dashboard-ppw|Create a dashboard]]

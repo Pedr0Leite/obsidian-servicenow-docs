@@ -12,13 +12,13 @@ breadcrumb: [The CPQ Configurator, CPQ, Configure, price, quote, Explore, Sales 
 
 # Layouts
 
-Layouts define how the configuration experience looks and feels for your users. They control where [[fields|fields]] appear, how steps are grouped, and how the product list \(shopping cart\) is presented—turning a blueprint’s logic and data into an intuitive, guided UI in CPQ.
+Layouts define how the configuration experience looks and feels for your users. They control where fields appear, how steps are grouped, and how the product list \(shopping cart\) is presented—turning a blueprint’s logic and data into an intuitive, guided UI in CPQ.
 
-A layout is the presentation layer of a configuration experience. Where a blueprint brings together fields, [[rules_101|rules]], layouts, and [[configurable-products-explore|configurable products]], the layout focuses on how those elements are displayed:
+A layout is the presentation layer of a configuration experience. Where a blueprint brings together fields, rules, layouts, and configurable products, the layout focuses on how those elements are displayed:
 
 -   Which fields appear on each page or tab
 -   How sections are grouped and labeled
--   How [[cpq-sets|sets]], [[product_picker_overview|product pickers]], and messages are arranged
+-   How sets, product pickers, and messages are arranged
 -   How the product list is rendered alongside the configuration
 
 Layouts are defined per blueprint. A single blueprint can have one or more layouts, giving you flexibility to support different personas, channels, or demo experiences without duplicating configuration logic.
@@ -31,14 +31,14 @@ Layouts are placed at the presentation layer of the CPQ configuration stack:
 
 -   Fields collect and display data.
 -   Rules control behavior \(visibility, messaging, calculations, product inclusion, and more\).
--   [[blueprints|Blueprints]] tie fields, rules, layouts, and configurable products into a single configuration experience.
+-   Blueprints tie fields, rules, layouts, and configurable products into a single configuration experience.
 -   Layouts define the buyside interface—pages, tabs, sections, and product list—without changing the underlying logic.
 
 Because layouts reference field variable names and product list parameters, you can safely iterate in the layout \(for example, reorganizing tiers or changing display types\) without modifying rules or data structures.
 
 ## Layout building blocks
 
-Layouts are composed of reusable structural and visual elements that you define in a layout CSV file and refine in the Layout Wizard or the [[layout_editor|layout editor]].
+Layouts are composed of reusable structural and visual elements that you define in a layout CSV file and refine in the Layout Wizard or the layout editor.
 
 Tiers: pages, tabs, and sections: Tiers define the major structural areas of the configuration experience. Each tier has a tierDef that describes how it behaves:
 
@@ -54,7 +54,7 @@ You can nest tiers to build multilevel layouts—for example, pages that contain
 
 Layouts are authored and maintained using a combination of CSV files and in-product tools:
 
--   [[csv_layout_upload|CSV layout upload]]
+-   CSV layout upload
     -   Primary definition format for layouts
     -   Built in a spreadsheet tool and exported to a CSV file
     -   Supports full control over tiers, column sets, fields, product list, and component properties
@@ -90,22 +90,9 @@ Product list columns are driven by the layout CSV file using the `productlist` a
 **Related topics**  
 
 
-[[layout_csv_101|Set up layouts]]
+[Set up layouts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/layout_csv_101.md)
 
-[[layout_wizard|Layout Wizard]]
+[Layout Wizard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/layout_wizard.md)
 
-[[layout_deeper_dive|Layout: a deeper dive]]
+[Layout: a deeper dive](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/layout_deeper_dive.md)
 
-## Related
-
-- [[layout_csv_101|Set up layouts]]
-- [[layout_wizard|Layout Wizard]]
-- [[layout_deeper_dive|layout_deeper_dive]]
-- [[fields|Fields]]
-- [[rules_101|Rules]]
-- [[configurable-products-explore|Configurable products]]
-- [[cpq-sets|Sets]]
-- [[product_picker_overview|Product pickers]]
-- [[blueprints|Blueprints]]
-- [[layout_editor|Layout editor]]
-- [[csv_layout_upload|CSV layout upload]]

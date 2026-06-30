@@ -12,7 +12,7 @@ breadcrumb: [Reference, Subscription Management, Get started, Administer the Ser
 
 # User sets and groups in Subscription Management
 
-[[subscription-management-landing-page-v2|Subscription Management]] uses groups \(previously user sets\) to provide entitlement to sets of users.
+Subscription Management uses groups \(previously user sets\) to provide entitlement to sets of users.
 
 ## User set and groups overview
 
@@ -26,14 +26,9 @@ On upgrade to Quebec or later releases, all current user sets convert to groups.
 
 ## Group management
 
-Admins and user\_admins create groups and add users in the **[[c_UserAdministration|User Administration]]** application.
+Admins and user\_admins create groups and add users in the **User Administration** application.
 
 To learn more about creating and editing groups, see [Creating groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/ua-creating-groups.md).
 
-**Parent Topic:**[[subscription-management-reference-v2|Subscription Management reference]]
+**Parent Topic:**[Subscription Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/subscription-management-reference-v2.md)
 
-## Related
-
-- [[subscription-management-reference-v2|Subscription Management reference]]
-- [[subscription-management-landing-page-v2|Subscription Management]]
-- [[c_UserAdministration|User administration]]

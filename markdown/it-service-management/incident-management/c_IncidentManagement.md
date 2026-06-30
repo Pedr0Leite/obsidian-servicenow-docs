@@ -32,11 +32,11 @@ Incident Management restores normal service operation while minimizing impact to
 
 </td><td>
 
-[Manage incidents\[Omitted image "bus-manage.svg"\] Alt text:Learn about [[work-on-incidents|managing incidents]] that involves diagnosing, investigating and escalating or promoting the incident.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/work-on-incidents.md)
+[Manage incidents\[Omitted image "bus-manage.svg"\] Alt text:Learn about managing incidents that involves diagnosing, investigating and escalating or promoting the incident.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/work-on-incidents.md)
 
 </td></tr><tr><td>
 
-[Manage major incidents\[Omitted image "bus-manage.svg"\] Alt text:Learn about [[major-incident-management|managing major incidents]] that involves creating major incidents and working with [[major-incident-overview|major incident overview]] dashboard and workbench.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/major-incident-management.md)
+[Manage major incidents\[Omitted image "bus-manage.svg"\] Alt text:Learn about managing major incidents that involves creating major incidents and working with major incident overview dashboard and workbench.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/major-incident-management.md)
 
 </td><td>
 
@@ -44,7 +44,7 @@ Incident Management restores normal service operation while minimizing impact to
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about Incident Management components such as roles and dependent [[dex-workspace-application-tab|applications]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/reference-section-for-incident-management.md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about Incident Management components such as roles and dependent applications.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/reference-section-for-incident-management.md)
 
 </td></tr><tr><td>
 
@@ -65,9 +65,3 @@ Incident Management restores normal service operation while minimizing impact to
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[work-on-incidents|Managing incidents]]
-- [[major-incident-management|Managing major incidents]]
-- [[major-incident-overview|major incident overview]]
-- [[dex-workspace-application-tab|Applications]]

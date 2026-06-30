@@ -14,7 +14,7 @@ breadcrumb: [Feedback reference, Feedback application in Strategic Planning, Str
 
 # Components installed with Feedback application
 
-Learn about several types of components installed with Feedback application in [[alignment-planner-workspace-landing-page|Strategic Planning]] such as user roles, tables, and, system properties.
+Learn about several types of components installed with Feedback application in Strategic Planning such as user roles, tables, and, system properties.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -135,7 +135,7 @@ sn\_apw\_advanced.product\_feedback\_allowed\_non\_planning\_items\_for\_link\_i
 
 </td><td>
 
-Specifies the non-planning items that can be linked to feedback or product idea. With the **sn\_apw\_advanced.product\_feedback\_allowed\_non\_planning\_items\_for\_link\_item** system property, you can link non-planning items such as incident, scrum tasks, agile stories, or items from safe application, [[agile-development|agile development]], PPM standard, or any global or scoped application tables to your feedback or product idea.
+Specifies the non-planning items that can be linked to feedback or product idea. With the **sn\_apw\_advanced.product\_feedback\_allowed\_non\_planning\_items\_for\_link\_item** system property, you can link non-planning items such as incident, scrum tasks, agile stories, or items from safe application, agile development, PPM standard, or any global or scoped application tables to your feedback or product idea.
 
 </td></tr><tr><td>
 
@@ -202,7 +202,3 @@ Specifies the maximum number of records displayed in the feedback or product ide
 
 **Parent Topic:**[Feedback reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/product-feedback-reference.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[agile-development|Agile Development]]

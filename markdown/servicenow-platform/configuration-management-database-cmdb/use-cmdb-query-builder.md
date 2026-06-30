@@ -14,7 +14,7 @@ breadcrumb: [CMDB Query Builder, Configuration Management Database \(CMDB\), Con
 
 # Build a CMDB query using the CMDB Query Builder
 
-A CMDB query type that queries the infrastructure for CI classes and optionally non-CMDB tables, and the relationships and [[reference-document-management|references]] that [[c_Connect|connect]] them.
+A CMDB query type that queries the infrastructure for CI classes and optionally non-CMDB tables, and the relationships and references that connect them.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Authorized users can update and [delete](https://raw.githubusercontent.com/Servi
 
 Build the query by dragging the CI classes and non-CMDB tables that you want to include in the query. Then dropping them as nodes on the canvas, and defining relationship properties between them. You can filter on the attributes of any node to narrow down the results to a specific set of CIs of that class or to a single specific CI. You can also select which property columns appear in the query results.
 
-As you step through building a query, list options and other user interface elements of the [[cmdb-query-builder-landing-page|CMDB Query Builder]], are dynamically filtered as appropriate to your selections.
+As you step through building a query, list options and other user interface elements of the CMDB Query Builder, are dynamically filtered as appropriate to your selections.
 
 To learn more about using Query Builder, see the [CMDB Query Builder Queries and Reporting - Platform Analytics Academy](https://www.youtube.com/watch?v=NArqszOamHc) ServiceNow Community video. For a step-by-step walk through of building CMDB queries in the Query Builder, including queries with application services, see [Example queries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/sample-queries.md).
 
@@ -80,7 +80,7 @@ Information such as relationship type is missing, invalidating the query.
 
 </td></tr><tr><td>
 
-**Levels:&lt;n&gt; Types:&lt;n&gt;** or a **&lt;[[reference|Reference]] type&gt;** notation on the connection line
+**Levels:&lt;n&gt; Types:&lt;n&gt;** or a **&lt;Reference type&gt;** notation on the connection line
 
 </td><td>
 
@@ -142,7 +142,7 @@ A pattern connection between an application service node and another node.
         3.  Select the **Add Tags** icon again to close the **Query Tags** dialog box.
 4.  Select **Save**.
 
-    On the **Saved Queries** tab, point to a saved query widget and select **Query Information**. Query details such as the query type, last update date, [[cmdb-groups|CMDB groups]] associated with the query, and the query schedules appear.
+    On the **Saved Queries** tab, point to a saved query widget and select **Query Information**. Query details such as the query type, last update date, CMDB groups associated with the query, and the query schedules appear.
 
 
 ## What to do next
@@ -156,7 +156,7 @@ A pattern connection between an application service node and another node.
         **Note:** This option is available only with the V1 engine execution mode. For more information about CMDB Query engine execution modes, see [Set execution mode for running a query](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/config-query-builder-engine-mode.md).
 
     -   Select **Load All Results** to view the rest of the query results, up to the number specified by the [glide.cmdb.query.max\_results\_limit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-querybldr-sysproprties.md) system property \(10,000 by default\).
-    Select a CI to open its CI form, and on the CI form select **Open in Workspace** to [[t_ViewCIHealth|view CI health]] in CMDB Workspaceor in [[sg-workspace|Service Graph Workspace]]. This operation requires the sn\_cmdb\_user \(CMDB user\) role.
+    Select a CI to open its CI form, and on the CI form select **Open in Workspace** to view CI health in CMDB Workspaceor in Service Graph Workspace. This operation requires the sn\_cmdb\_user \(CMDB user\) role.
 
     **Note:**
 
@@ -166,7 +166,7 @@ A pattern connection between an application service node and another node.
 -   [Modify Query Builder settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-querybldr-config-display.md): Select the Settings icon to open the **Query Builder Settings** dialog box.
 -   Copy and share the URL of a saved query with users that have access to the CMDB Query Builder. Pasting the shared URL in a new internet browser window, directly opens the saved query in the CMDB Query Builder.
 -   [Create a report in CMDB Query Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/create-query-results-report.md).
--   [Create a schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/create-cmdb-query-schedule.md) to run the query at a future time, and to [[email|email]] the results to interested parties.
+-   [Create a schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/create-cmdb-query-schedule.md) to run the query at a future time, and to email the results to interested parties.
 -   Export query results:
 
     Select the Query Results context menu and select **Export**. Even if the **Load More Results** button is visible, indicating that there are additional query results, only the results that are visible are exported.
@@ -180,13 +180,3 @@ A pattern connection between an application service node and another node.
 
 [Example queries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/sample-queries.md)
 
-## Related
-
-- [[reference-document-management|References]]
-- [[c_Connect|Connect]]
-- [[cmdb-query-builder-landing-page|CMDB Query Builder]]
-- [[reference|Reference]]
-- [[cmdb-groups|CMDB groups]]
-- [[t_ViewCIHealth|View CI health]]
-- [[sg-workspace|Service Graph Workspace]]
-- [[email|Email]]

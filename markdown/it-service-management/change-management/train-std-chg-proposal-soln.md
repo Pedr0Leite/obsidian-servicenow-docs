@@ -14,11 +14,11 @@ breadcrumb: [Predictive Intelligence for Change Management, Configure, Change Ma
 
 # Train the clustering solution for standard change proposal
 
-Train the Standard change proposal solution definition to use clustering capabilities to identify and suggest Standard [[change-templates|Change templates]] to create a change.
+Train the Standard change proposal solution definition to use clustering capabilities to identify and suggest Standard Change templates to create a change.
 
 ## Before you begin
 
-Ensure that [[c_ITILChangeManagement|Change Management]] - Standard Change Template Intelligence \(com.snc.change\_management.ml.sctp\) plugin is activated.
+Ensure that Change Management - Standard Change Template Intelligence \(com.snc.change\_management.ml.sctp\) plugin is activated.
 
 Role required: admin
 
@@ -37,7 +37,3 @@ Role required: admin
 
 **Parent Topic:**[Predictive Intelligence for Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/change-mgmt-intelligent-solutions.md)
 
-## Related
-
-- [[change-templates|Change templates]]
-- [[c_ITILChangeManagement|Change Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Enable financial budget allocation for planning items in Strategic 
 
 # Configure budget attribute at instance-level to allocate budget
 
-Configure the budget attribute by expense type or cost type as an instance-level to work on budget allocations for your planning items using [[alignment-planner-workspace-landing-page|Strategic Planning]].
+Configure the budget attribute by expense type or cost type as an instance-level to work on budget allocations for your planning items using Strategic Planning.
 
 ## Before you begin
 
@@ -38,6 +38,4 @@ Configure the budget attribute by expense type or cost type as an instance-level
     -   **expense\_type** - view financials by expense types such as Capex and Opex.
 4.  Select **Update**.
 
-## Related
 
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

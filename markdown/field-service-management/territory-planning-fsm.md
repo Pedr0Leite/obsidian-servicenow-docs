@@ -40,11 +40,11 @@ As a territory manager or planner, you can view territories and data points both
 
     Choose to have data privacy by limiting work order and work order tasks visibility to the assigned territory for smooth and secure business operations.
 
--   **[[capacity|Capacity]] management**
+-   **Capacity management**
 
     Manage capacity for in-house teams and external contractors, defining it in hours or tasks. Address external contractor groups separately, ensuring precise resource allocation based on territories, helping to prevent overloads, and enhancing operational efficiency.
 
--   **[[schedule-optimization|Schedule optimization]]**
+-   **Schedule optimization**
 
     Schedule complex multi-territory assignments where an agent might be responsible for multiple territories over a longer batch processing period. Assign tasks to agents whether they’re primary or secondary members of a single or multiple territories.
 
@@ -60,10 +60,5 @@ The following screenshot highlights data items and a contextual side panel. Sele
 
 [Managing territories and agents from Territory Planning console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/using-territory-planning-console.md)
 
-[[territory-planning-dashboard|Field Service Territory Performance Analytics dashboard]]
+[Field Service Territory Performance Analytics dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/territory-planning-dashboard.md)
 
-## Related
-
-- [[territory-planning-dashboard|Field Service Territory Performance Analytics dashboard]]
-- [[capacity|Capacity]]
-- [[schedule-optimization|Schedule Optimization]]

@@ -24,8 +24,5 @@ For description of the field values, see the table.
 |Grid category|Grid category for which the configuration is applicable. For example, DEP\_ASSMNT.|
 |Active|Option to set the record active. If the option is disabled, then the grid is rendered based on the configured view. Only one active configuration for a category and element should be present.|
 
-**Parent Topic:**[[configure-grid-configuration-uib-ws|Configure grid for BIA assessment]]
+**Parent Topic:**[Configure grid for BIA assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-grid-configuration-uib-ws.md)
 
-## Related
-
-- [[configure-grid-configuration-uib-ws|Configure grid for BIA assessment]]

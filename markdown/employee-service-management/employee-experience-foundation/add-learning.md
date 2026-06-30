@@ -14,7 +14,7 @@ breadcrumb: [Create and associate topics, Unified Taxonomy for Employee Center, 
 
 # Associate learning content to a topic
 
-Add [[exploring-learning-exp|learning]] content to a topic page to provide employees with quick access to training and career development.
+Add learning content to a topic page to provide employees with quick access to training and career development.
 
 ## Before you begin
 
@@ -60,6 +60,3 @@ Employees with Talent Development license can now access the learning content on
 
 \[Omitted image "learning-content.png"\] Alt text: The course appears in the topic content widget.
 
-## Related
-
-- [[exploring-learning-exp|Learning]]

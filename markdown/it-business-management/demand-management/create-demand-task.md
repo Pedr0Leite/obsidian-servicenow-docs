@@ -22,10 +22,10 @@ Role required: it\_demand\_manager
 
 ## About this task
 
-You create [[demand-task|demand tasks]] to plan the work for demands rather than for the target work entity such as a project, change, defect, or enhancement. For more information, see [Demand tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/demand-task.md).
+You create demand tasks to plan the work for demands rather than for the target work entity such as a project, change, defect, or enhancement. For more information, see [Demand tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/demand-task.md).
 
--   Planned dates, actual dates, and original dates are part of [[t_CreateAProjectTask|project tasks]] not demand tasks.
--   The due date indicates the date on which the task is targeted for completion and doesn’t affect the [[demand-workflow-ppw|demand workflow]]. Project tasks, however, affect the project completion dates if the planned dates and actual dates are changed.
+-   Planned dates, actual dates, and original dates are part of project tasks not demand tasks.
+-   The due date indicates the date on which the task is targeted for completion and doesn’t affect the demand workflow. Project tasks, however, affect the project completion dates if the planned dates and actual dates are changed.
 -   Don’t support the creation of nested demand tasks.
 -   Don’t support task constraints such as the settings Start ASAP and Start on a specific date.
 -   Don’t support an execution type such as Agile, Waterfall, or Hybrid.
@@ -45,7 +45,7 @@ If you’re creating a demand task with the PPM Standard Multicurrency \(com.snc
 
     -   To add a demand task, select **New**.
     -   To update the details of an existing demand task, select the record and then select **Edit**.
-4.  On the [[demand-task-form|Demand Task form]], fill in the fields.
+4.  On the Demand Task form, fill in the fields.
 
     For a description of the field names, see [Demand task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/demand-task-form.md).
 
@@ -53,32 +53,19 @@ If you’re creating a demand task with the PPM Standard Multicurrency \(com.snc
 
     After completing your work on the demand task, select **Update** to return to the demand page.
 
-    **Note:** Team members can access demand tasks assigned to them from [[cwm-landing|Collaborative Work Management]]. For more information, see [Managing SPM work in Collaborative Work Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/cwm-team-member-roles.md).
+    **Note:** Team members can access demand tasks assigned to them from Collaborative Work Management. For more information, see [Managing SPM work in Collaborative Work Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/cwm-team-member-roles.md).
 
 
 ## What to do next
 
-[[create-rsrc-asgnmnts-ppm|Create resource assignments]] and add cost plans, benefit plans, and risks to the demand depending on your role. Use the following related links to access these tasks.
+Create resource assignments and add cost plans, benefit plans, and risks to the demand depending on your role. Use the following related links to access these tasks.
 
 |Related Links|Description|
 |-------------|-----------|
-|Add Cost Plan to Demand|Add a cost plan to capture the costs of demands. Create a cost plan to specify the unit cost of a cost type for a fiscal period. This link appears if the **Category** value is set to Cost estimate and the user has the `it_project_manager` or `it_demand_manager` role. Select the link to open the [[demand-plan-form|cost plan form]] and fill in the details. For more information, see [create a cost plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateAProjectCostPlan.md).|
-|Add Resource Plan to Demand|Create a resource plan to find the availability of resources and add the resource plan to the demand. This link appears if the **Category** value is set to Effort estimate and the user has the `it_resource_user` role. Select the link to navigate to the [[c_ResourcePlans|Resource Plans]] page and [[t_RequestResourcePlanApproval|request resources]]. For more information, see [Create and manage resource assignments for a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/create-manage-resource-plans-demand.md).|
-|Add Benefit Plan to Demand|Create a benefit plan to capture the potential benefits accrued by the demand when the demand is executed. This link appears if the **Category** value is set to Benefit estimate and the user has `it_project_manager` or `it_demand_manager` role. Select the link to open the [[benefit-plan-form-project-management|benefit plan form]] and fill in the details. For more information, see [Create a monetary benefit plan for a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/create-demand-benefit-plan.md).|
-|Add Risk to Demand|Add risks that can potentially impact the success or outcome of the execution of the demand. This link appears if the **Category** value is set to Risk estimate and the user has `it_project_manager` or `it_demand_manager` role. Select the link to open the [[risk-form|risk form]] and fill in the details. For more information see, [add a risk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/c_EnhancingDemands.md).|
+|Add Cost Plan to Demand|Add a cost plan to capture the costs of demands. Create a cost plan to specify the unit cost of a cost type for a fiscal period. This link appears if the **Category** value is set to Cost estimate and the user has the `it_project_manager` or `it_demand_manager` role. Select the link to open the cost plan form and fill in the details. For more information, see [create a cost plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateAProjectCostPlan.md).|
+|Add Resource Plan to Demand|Create a resource plan to find the availability of resources and add the resource plan to the demand. This link appears if the **Category** value is set to Effort estimate and the user has the `it_resource_user` role. Select the link to navigate to the Resource Plans page and request resources. For more information, see [Create and manage resource assignments for a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/create-manage-resource-plans-demand.md).|
+|Add Benefit Plan to Demand|Create a benefit plan to capture the potential benefits accrued by the demand when the demand is executed. This link appears if the **Category** value is set to Benefit estimate and the user has `it_project_manager` or `it_demand_manager` role. Select the link to open the benefit plan form and fill in the details. For more information, see [Create a monetary benefit plan for a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/create-demand-benefit-plan.md).|
+|Add Risk to Demand|Add risks that can potentially impact the success or outcome of the execution of the demand. This link appears if the **Category** value is set to Risk estimate and the user has `it_project_manager` or `it_demand_manager` role. Select the link to open the risk form and fill in the details. For more information see, [add a risk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/c_EnhancingDemands.md).|
 
 **Parent Topic:**[Create a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_CreatingDemands.md)
 
-## Related
-
-- [[demand-task|Demand tasks]]
-- [[t_CreateAProjectTask|Project tasks]]
-- [[demand-workflow-ppw|Demand workflow]]
-- [[demand-task-form|Demand task form]]
-- [[cwm-landing|Collaborative Work Management]]
-- [[create-rsrc-asgnmnts-ppm|Create resource assignments]]
-- [[demand-plan-form|Cost plan form]]
-- [[c_ResourcePlans|Resource plans]]
-- [[t_RequestResourcePlanApproval|Request resources]]
-- [[benefit-plan-form-project-management|Benefit Plan form]]
-- [[risk-form|Risk form]]

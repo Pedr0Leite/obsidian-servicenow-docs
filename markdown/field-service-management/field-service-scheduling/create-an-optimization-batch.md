@@ -34,7 +34,7 @@ Key considerations for optimizing your schedules:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[schedule-optimization|Schedule Optimization]]** &gt; **Batch Optimization** &gt; **Batches**.
+1.  Navigate to **All** &gt; **Schedule Optimization** &gt; **Batch Optimization** &gt; **Batches**.
 
 2.  Select **New**.
 
@@ -99,6 +99,4 @@ Role required: wm\_admin
     -   To remove the scope, select **Remove**.
 6.  Select **Save**.
 
-## Related
 
-- [[schedule-optimization|Schedule Optimization]]

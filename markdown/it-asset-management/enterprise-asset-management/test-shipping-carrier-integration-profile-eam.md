@@ -22,7 +22,7 @@ Role required: sn\_eam.enterprise\_admin
 
 ## Procedure
 
-1.  From the [[using-eam-workspace|Enterprise Asset Workspace]], open the [[asset-operations-view|Asset operations view]].
+1.  From the Enterprise Asset Workspace, open the Asset operations view.
 
 2.  From the left navigation menu of the Asset operations view, navigate to **Shipment** &gt; **Carrier integration profiles**.
 
@@ -32,13 +32,8 @@ Role required: sn\_eam.enterprise\_admin
 
     A message appears, indicating whether the connection was successful or not.
 
-    **Note:** If the integration profile fails to connect three or more consecutive times, you can view and take action on the corresponding connection issues by using the Carrier integration failures important action in the [[inventory-view-am|Inventory view]] of the Enterprise Asset Workspace.
+    **Note:** If the integration profile fails to connect three or more consecutive times, you can view and take action on the corresponding connection issues by using the Carrier integration failures important action in the Inventory view of the Enterprise Asset Workspace.
 
 
 **Parent Topic:**[Managing enterprise asset shipments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/manage-shipments-eam.md)
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[asset-operations-view|Asset operations view]]
-- [[inventory-view-am|Inventory view]]

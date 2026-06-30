@@ -14,7 +14,7 @@ breadcrumb: [External Legal Service Center, Legal Service Delivery, Legal and Co
 
 # Exploring External Legal Service Center
 
-Learn more about [[lsd-ext-portal-landing-page|External Legal Service Center]] with a sample workflow and review the benefits it can provide for different users in your organization.
+Learn more about External Legal Service Center with a sample workflow and review the benefits it can provide for different users in your organization.
 
 ## External Legal Service Center overview
 
@@ -106,13 +106,9 @@ Legal team
 </td></tr></tbody>
 </table>## What to explore next
 
-To learn more about configuring and [[lsd-ext-portal-use-landing|using External Legal Service Center]], see:
+To learn more about configuring and using External Legal Service Center, see:
 
 -   [Configuring up External Legal Service Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/external-legal-portal/lsd-ext-portal-config-land-page.md)
 -   [Using External Legal Service Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/external-legal-portal/lsd-ext-portal-use-landing.md)
 -   [External Legal Service Center reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/external-legal-portal/lsd-ext-portal-reference-landing.md)
 
-## Related
-
-- [[lsd-ext-portal-landing-page|External Legal Service Center]]
-- [[lsd-ext-portal-use-landing|Using External Legal Service Center]]

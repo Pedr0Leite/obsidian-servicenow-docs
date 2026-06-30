@@ -92,7 +92,7 @@ Determine the domain the action or activity runs in.
 
 </td><td>
 
-Check to use a MID Server for this action or activity. If selected, define fields in the Advanced MID Server [[sc-configuration|Configuration]] section.
+Check to use a MID Server for this action or activity. If selected, define fields in the Advanced MID Server Configuration section.
 
 </td></tr><tr><td id="d205042e192">
 
@@ -139,7 +139,7 @@ The application the MID Server must support to be eligible for selection. The sy
 </td></tr></tbody>
 </table>3.  Navigate to **Connections &amp; Credentials** &gt; **Credentials**.
 
-4.  Click **New**, select **[[r_JMSCredentialsForm|JMS Credentials]]**, and then provide the user name and password the MID should use to communicate with the JMS provider.
+4.  Click **New**, select **JMS Credentials**, and then provide the user name and password the MID should use to communicate with the JMS provider.
 
     For more information, see [JMS credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r_JMSCredentialsForm.md).
 
@@ -150,7 +150,3 @@ The application the MID Server must support to be eligible for selection. The sy
 
 **Parent Topic:**[Get started with connections](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/connection-information.md)
 
-## Related
-
-- [[sc-configuration|Configuration]]
-- [[r_JMSCredentialsForm|JMS credentials]]

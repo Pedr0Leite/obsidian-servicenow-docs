@@ -14,7 +14,7 @@ breadcrumb: [Reference, Portfolio Planning, Strategic Portfolio Management]
 
 # Components installed with Portfolio Planning
 
-Several types of components are installed with activation of the [[portfolio-planning-app-landing-page|Portfolio Planning]] application, including tables and user roles.
+Several types of components are installed with activation of the Portfolio Planning application, including tables and user roles.
 
 ## Roles installed
 
@@ -69,7 +69,7 @@ sn\_align\_core.ap\_read\_only
 -   Can add notes, comments, or attachments to portfolio plans and roadmaps that are shared with them.
 -   Can create, edit, and delete portfolio plan views and free-form roadmap views.
 
-**Note:** Only the owner can edit or [[delete-portfolio-plan-view-ppw|delete a portfolio plan view]] or a free-form roadmap view.
+**Note:** Only the owner can edit or delete a portfolio plan view or a free-form roadmap view.
 
 
 </td><td>
@@ -154,7 +154,7 @@ connection\_admin
 </td></tr></tbody>
 </table>|Role title \[name\]|Description|Contains role|
 |-------------------|-----------|-------------|
-|sn\_align\_ws.spw\_capacity\_user|Can [[manage-rsrc-cap-pp|generate resource capacity]] details.|sn\_align\_ws.spw\_capacity\_read|
+|sn\_align\_ws.spw\_capacity\_user|Can generate resource capacity details.|sn\_align\_ws.spw\_capacity\_read|
 |sn\_align\_ws.spw\_capacity\_read|Can view resource capacity details.|None|
 
 |Role title \[name\]|Description|Contains roles|
@@ -359,8 +359,3 @@ com.sn\_align\_cmn\_int.bulk\_import
 </td></tr></tbody>
 </table>**Parent Topic:**[Portfolio Planning reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/portfolio-planning-reference.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[delete-portfolio-plan-view-ppw|Delete a portfolio plan view]]
-- [[manage-rsrc-cap-pp|Generate resource capacity]]

@@ -30,12 +30,12 @@ Role required: image\_admin or content\_admin
 
 5.  Click **Open**, and then click **OK**.
 
-    The new file is uploaded into the instance database, replacing the previous file. It is used in all locations that [[onboarding-modals-reference|reference]] the file name.
+    The new file is uploaded into the instance database, replacing the previous file. It is used in all locations that reference the file name.
 
     **Note:** If the new image does not appear as expected, clear the browser cache.
 
 
-**Parent Topic:**[[c_StoringImagesInTheDatabase|Storing images in the database]]
+**Parent Topic:**[Storing images in the database](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_StoringImagesInTheDatabase.md)
 
 **Related topics**  
 
@@ -44,7 +44,3 @@ Role required: image\_admin or content\_admin
 
 [Restrict file extensions]()
 
-## Related
-
-- [[c_StoringImagesInTheDatabase|Storing images in the database]]
-- [[onboarding-modals-reference|Reference]]

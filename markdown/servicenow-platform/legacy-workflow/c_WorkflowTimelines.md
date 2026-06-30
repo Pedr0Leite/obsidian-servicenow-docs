@@ -16,7 +16,7 @@ breadcrumb: [Workflow administration, Classic Workflow, ServiceNow AI Platform A
 
 The system provides a timeline view of history activities associated with a workflow context.
 
-Timelines display a linear calendar of activities, such as tasks and approvals, defined by their start and end dates. Each activity on the timeline is represented by a span, which is displayed as a horizontal, colored bar. Each span has a [[label|label]] and a tooltip that contains additional information about the activity. The left pane displays all the activities in the context \(or contexts\) in an expandable hierarchy. You can change the timeline's perspective for a more granular view of the data.
+Timelines display a linear calendar of activities, such as tasks and approvals, defined by their start and end dates. Each activity on the timeline is represented by a span, which is displayed as a horizontal, colored bar. Each span has a label and a tooltip that contains additional information about the activity. The left pane displays all the activities in the context \(or contexts\) in an expandable hierarchy. You can change the timeline's perspective for a more granular view of the data.
 
 **Note:** Workflow timelines reflect context history only and are not real-time gauges of workflow activity.
 
@@ -121,6 +121,3 @@ In a workflow timeline, subflow spans appear as a different color than the activ
 
 \[Omitted image "WorkflowTimelineSubflow.png"\] Alt text:
 
-## Related
-
-- [[label|Label]]

@@ -14,7 +14,7 @@ breadcrumb: [Use generative AI skills, Now Assist, Common GRC features, Governan
 
 # Generate a risk event summary in the Risk Workspace
 
-Generate a risk event summary using the Now Assist for IRM application in the [[risk-workspace|Risk Workspace]]. The approvers get the key insights to understand the context quickly, and reduce the time involved in creating summaries manually.
+Generate a risk event summary using the Now Assist for IRM application in the Risk Workspace. The approvers get the key insights to understand the context quickly, and reduce the time involved in creating summaries manually.
 
 ## Before you begin
 
@@ -54,6 +54,4 @@ The risk event summarization feature enables risk managers to quickly understand
 
         The summary is saved in the **Summary** section when the risk event is in New or Analyze state, and in **Work notes** for all other states.
 
-## Related
 
-- [[risk-workspace|risk workspace]]

@@ -25,10 +25,10 @@ Using the Microsoft Word reporting agent, the assistant queries your ServiceNow 
 
 When you enter a prompt, the Microsoft Word reporting agent queries your ServiceNow data and generates the output in the requested format as stories, tables, charts, or data points. You can also select from prebuilt prompt suggestions displayed in the assistant panel. Before the content is inserted into your Word document, you can review the generated plan and choose to Approve, Make changes, or Cancel.
 
-AI-generated content can be tracked per conversation. When you start a new conversation and add content for the first time, you're prompted to enable tracking. When tracking is enabled, all content inserted during that conversation is recorded and visible in the **AI Generated** section of the **[[manage-content|Manage content]]** page.
+AI-generated content can be tracked per conversation. When you start a new conversation and add content for the first time, you're prompted to enable tracking. When tracking is enabled, all content inserted during that conversation is recorded and visible in the **AI Generated** section of the **Manage content** page.
 
 -   **[Use the AI reporting assistant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/use-the-ai-reporting-assistant.md)**  
-[[use-the-ai-reporting-assistant|Use the AI reporting assistant]] to generate report from ServiceNow data using prompts directly within Microsoft Word.
+Use the AI reporting assistant to generate report from ServiceNow data using prompts directly within Microsoft Word.
 -   **[Configure knowledge graph tags for AI reporting assistant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/configure-knowledge-graph-tags-for-ai-reporting-assistant.md)**  
 Map knowledge graph tags to a business domain to improve the accuracy of AI reporting assistant results when querying ServiceNow data. This configuration is optional.
 -   **[Manage content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/manage-content.md)**  
@@ -43,7 +43,3 @@ Use this reference information to configure and manage AI reporting assistant fu
 
 [Install the ServiceNow Document Designer add-in](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/install-document-designer.md)
 
-## Related
-
-- [[manage-content|Manage content]]
-- [[use-the-ai-reporting-assistant|Use the AI reporting assistant]]

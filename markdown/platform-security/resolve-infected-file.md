@@ -16,7 +16,7 @@ Review quarantined file attachments and take further action as needed.
 
 ## Before you begin
 
-Role required: [[antivirus|antivirus]]\_admin or admin
+Role required: antivirus\_admin or admin
 
 ## About this task
 
@@ -32,8 +32,8 @@ Monitor your quarantined file entries in the Antivirus Quarantine page at regula
 
     |Action|Description|
     |------|-----------|
-    |**Delete**|Select this action to delete the quarantined file if it is not required any more by [[users|users]].|
-    |**Restore**|Select this action to restore the file based on your assessment of its status or on the user [[c_requestAPI|request]]. However, scan the file with your third-party antivirus product before you restore it to mitigate any virus threats. Once restored, the file is available for download to the user.|
+    |**Delete**|Select this action to delete the quarantined file if it is not required any more by users.|
+    |**Restore**|Select this action to restore the file based on your assessment of its status or on the user request. However, scan the file with your third-party antivirus product before you restore it to mitigate any virus threats. Once restored, the file is available for download to the user.|
     |**Download**|Select this action to download the file to your local system for further scanning and analysis.|
 
 
@@ -44,14 +44,7 @@ The system asks for confirmation and performs the selected action per your input
 **Related topics**  
 
 
-[[instance-security-center|Instance Security Center]]
+[Instance Security Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-center.md)
 
-[[instance-sec-center-antivirus-metrics|Antivirus metrics]]
+[Antivirus metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-sec-center-antivirus-metrics.md)
 
-## Related
-
-- [[instance-security-center|Instance Security Center]]
-- [[instance-sec-center-antivirus-metrics|Antivirus metrics]]
-- [[antivirus|Antivirus]]
-- [[users|Users]]
-- [[c_requestAPI|request]]

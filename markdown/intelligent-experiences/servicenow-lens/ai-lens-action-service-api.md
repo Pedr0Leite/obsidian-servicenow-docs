@@ -14,7 +14,7 @@ breadcrumb: [Reference, ServiceNow AI Lens, Enable AI experiences]
 
 # Script include - AILensActionService
 
-Use the AILensActionService script include together with Lens actions to leverage [[servicenow-lens-landing-page|ServiceNow AI Lens]] as a service for extracting information from the provided images and getting answers to your questions.
+Use the AILensActionService script include together with Lens actions to leverage ServiceNow AI Lens as a service for extracting information from the provided images and getting answers to your questions.
 
 This script include is part of the ServiceNow AI Lens \(sn\_ai\_lens\) store application and is located within the `sn_app_lens_core` scope.
 
@@ -22,7 +22,7 @@ This script include provides methods that enable the following:
 
 -   Calls Lens as a back-end service
 -   Analyzes and comprehends data from provided images
--   Gets response from [[platform-now-assist-landing|Now Assist]] as per provided directions
+-   Gets response from Now Assist as per provided directions
 -   Does not require ServiceNow AI Lens desktop app
 
 **Parent Topic:**[ServiceNow AI Lens reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/servicenow-lens-reference.md)
@@ -355,7 +355,3 @@ if (result.status === 'success') {
 }
 ```
 
-## Related
-
-- [[servicenow-lens-landing-page|ServiceNow AI Lens]]
-- [[platform-now-assist-landing|Now Assist]]

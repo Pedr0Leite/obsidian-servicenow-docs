@@ -24,7 +24,7 @@ The available implementations are listed. Select the implementation\(s\), after 
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sir-workspace-landing-page|Security Incident Response Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Security Incident Response Workspace**.
 
 2.  Open any security incident.
 
@@ -36,19 +36,19 @@ The available implementations are listed. Select the implementation\(s\), after 
 
 4.  Select the associated observable from the entry point lists.
 
-    For example, select **Associated [[c_Observables|Observables]]** related list. The corresponding observables records are displayed.
+    For example, select **Associated Observables** related list. The corresponding observables records are displayed.
 
     **Note:** You can select an implementation to perform a lookup on the selected observables, or you can perform the lookup by selecting all implementations.
 
-    \[Omitted image "example1-run-threat-lookup.png"\] Alt text: [[tisc-run-threat-lookup|Run Threat Lookup]]
+    \[Omitted image "example1-run-threat-lookup.png"\] Alt text: Run Threat Lookup
 
-5.  Select any observable check box that you wish to perform the [[tisc-threat-lookup|threat lookup]].
+5.  Select any observable check box that you wish to perform the threat lookup.
 
 6.  Navigate to the related lists actions drop down that is displayed on top of the related lists page.
 
-7.  Select **Run Threat Lookup** to perform threat intel related [[integration-capabilities|integration capabilities]] action.
+7.  Select **Run Threat Lookup** to perform threat intel related integration capabilities action.
 
-    **Note:** The Run Threat Lookups capability performs [[threat-intel-landing-page|threat intelligence]] lookups to determine whether one or more observables are associated with any known security threats.
+    **Note:** The Run Threat Lookups capability performs threat intelligence lookups to determine whether one or more observables are associated with any known security threats.
 
     The **Run Threat Lookup Implementations** modal screen is displayed.
 
@@ -62,17 +62,8 @@ The available implementations are listed. Select the implementation\(s\), after 
 
     \[Omitted image "example1-execution.png"\] Alt text: User Reported Phishing view: Associated Observables section.
 
-    **Note:** The **Threat intel** related lists such as the associated observables related lists are displayed in the **Threat Lookup Results** section, and the **[[indicator-sightings|Sightings]] Search** related lists are displayed in the **Sightings Search Results** section under the Related Records.
+    **Note:** The **Threat intel** related lists such as the associated observables related lists are displayed in the **Threat Lookup Results** section, and the **Sightings Search** related lists are displayed in the **Sightings Search Results** section under the Related Records.
 
 
 **Parent Topic:**[Example 1: Select implementations: Threat Lookup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/example-1-select-implementations-threat-lookup.md)
 
-## Related
-
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[c_Observables|Observables]]
-- [[tisc-run-threat-lookup|Run Threat Lookup]]
-- [[tisc-threat-lookup|Threat Lookup]]
-- [[integration-capabilities|Integration capabilities]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[indicator-sightings|Sightings]]

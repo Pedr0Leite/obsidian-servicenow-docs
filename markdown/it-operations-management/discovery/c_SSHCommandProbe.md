@@ -16,7 +16,7 @@ breadcrumb: [List of Discovery probes, Discovery probes and sensors, Using Disco
 
 A probe using the ECC queue topic name SSHCommand executes a shell command on the target host, and returns the resulting output to the sensor.
 
-[[r-discovery|Discovery]] supports Bourne Shell \(sh\) and Bourne-again Shell \(bash\) commands. Enter shell script commands in the probe's ECC queue name field. The shell script can use variables and file operations supported by the target UNIX shell.
+Discovery supports Bourne Shell \(sh\) and Bourne-again Shell \(bash\) commands. Enter shell script commands in the probe's ECC queue name field. The shell script can use variables and file operations supported by the target UNIX shell.
 
 -   The SSH engine is active by default on new instances.
 -   Customers on upgraded instances can manually enable ServiceNow SSH for a particular probe by setting the use\_snc\_ssh parameter to true. Alternatively, enable it for all probes on the MID Server by setting the MID Server parameter mid.ssh.use\_snc to true.
@@ -36,6 +36,3 @@ These tables display the SSH commands run by Discovery probes during horizontal 
 
 **Parent Topic:**[List of Discovery probes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_ListOfDiscoveryProbes.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

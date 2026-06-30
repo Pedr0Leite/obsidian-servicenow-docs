@@ -38,7 +38,7 @@ Steps
 
 </th></tr></thead><tbody><tr><td id="d464100e72">
 
-**[[cncore-contract-workspace|Contract Workspace]] listing**
+**Contract Workspace listing**
 
 </td><td>
 
@@ -72,12 +72,8 @@ Steps
 
     The parent-child hierarchy is updated to display only linked child contracts.
 
-    The parent contract request number is removed from the **Parent contract request** field. The [[activity-lxp|activity]] stream displays the parent-child linking history.
+    The parent contract request number is removed from the **Parent contract request** field. The activity stream displays the parent-child linking history.
 
 
 **Parent Topic:**[Linking parent-child contracts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-linking-parent-child.md)
 
-## Related
-
-- [[cncore-contract-workspace|Contract Workspace]]
-- [[activity-lxp|Activity]]

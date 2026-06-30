@@ -22,7 +22,7 @@ Action: Enter valid API URL. Would be able to cross check the REST API URL in th
 
 ## No Redirect URL is set in ServiceNow instance
 
-Action: Enter valid Redirect URL for SCIM [[oauth-inbound-and-outbound|OAuth]] entity in ServiceNow. Enter redirect URL while configure OAuth entity in ServiceNow.
+Action: Enter valid Redirect URL for SCIM OAuth entity in ServiceNow. Enter redirect URL while configure OAuth entity in ServiceNow.
 
 ## When Redirect URL is different than the request
 
@@ -40,6 +40,3 @@ Action: Value entered in ‘Client Secret’ should be same as the OAuth entity 
 
 Action: Value entered for ‘client\_id’ parameter in ‘Authorization Endpoint’ has to be same as OAuth entity configured in ServiceNow.
 
-## Related
-
-- [[oauth-inbound-and-outbound|OAuth]]

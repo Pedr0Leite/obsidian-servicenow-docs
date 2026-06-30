@@ -30,7 +30,7 @@ The personal canvas supports the following personalization actions:
 
 ## Role-based canvas
 
-[[employee-slate-landing-page|Employee Slate]] supports role-based canvases that Employee Slate populates based on the organizational role of the employee. Two sources populate role-based canvases:
+Employee Slate supports role-based canvases that Employee Slate populates based on the organizational role of the employee. Two sources populate role-based canvases:
 
 -   **Users**: Employees with a specific role configure the role canvas to reflect the tools and data most relevant to that role.
 -   **AI agents**: AI agents populate role-based canvases with widgets, data, and actions for the workflows for the role.
@@ -61,9 +61,5 @@ Administrators have controls over the canvas environment at the organizational l
 
 ## Widget ecosystem
 
-Employee Slate includes a library of out-of-the-box widgets that address common employee productivity use cases. These widgets are available for employees to add to their personal canvas and for administrators to configure as mandatory or priority widgets. Administrators extend the library with custom widgets built through the [[eslate-ai-widget-builder|AI-powered Widget Builder]].
+Employee Slate includes a library of out-of-the-box widgets that address common employee productivity use cases. These widgets are available for employees to add to their personal canvas and for administrators to configure as mandatory or priority widgets. Administrators extend the library with custom widgets built through the AI-powered Widget Builder.
 
-## Related
-
-- [[employee-slate-landing-page|Employee Slate]]
-- [[eslate-ai-widget-builder|AI-powered Widget Builder]]

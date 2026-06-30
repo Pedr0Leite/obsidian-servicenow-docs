@@ -32,17 +32,12 @@ Role required: sn\_cbs.requestor
     -   **Health and safety**
     -   **Finance**
     -   **Procurement**
-    You can raise general, payroll, and benefits requests with the HR department on CBS. For more information, see [[request-emp-cbs|Raise HR requests]].
+    You can raise general, payroll, and benefits requests with the HR department on CBS. For more information, see [Raise HR requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/request-emp-cbs.md).
 
-    For more information on configuring the Help topic widget display, see [[instance-option-helpt|Configure instance options for Help topics widget]].
+    For more information on configuring the Help topic widget display, see [Configure instance options for Help topics widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/instance-option-helpt.md).
 
 3.  Provide the request details and select **Submit**.
 
 
-**Parent Topic:**[[cbs-using-parent|Using Core Business Suite]]
+**Parent Topic:**[Using Core Business Suite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/cbs-using-parent.md)
 
-## Related
-
-- [[request-emp-cbs|Raise HR requests]]
-- [[instance-option-helpt|Configure instance options for Help topics widget]]
-- [[cbs-using-parent|Using Core Business Suite]]

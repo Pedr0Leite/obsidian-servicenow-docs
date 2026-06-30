@@ -18,13 +18,13 @@ View and analyze the resource capacity for your portfolio to plan and re-forecas
 
 ## Before you begin
 
-[[manage-rsrc-cap-pp|Generate resource capacity]] using [manage resource capacity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/manage-rsrc-cap-spw.md).
+Generate resource capacity using [manage resource capacity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/manage-rsrc-cap-spw.md).
 
 Role required: sn\_align\_ws.spw\_capacity\_user
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace**.
 
 2.  Select a plan from Portfolio Plans.
 
@@ -47,7 +47,3 @@ Role required: sn\_align\_ws.spw\_capacity\_user
 
 The Capacity screen for resource capacity allocation for the selected workforce criteria is displayed. Based on the workforce criteria selection, the resource capacity is nested by Group, Skill, and Role.
 
-## Related
-
-- [[manage-rsrc-cap-pp|Generate resource capacity]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

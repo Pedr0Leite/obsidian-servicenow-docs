@@ -14,7 +14,7 @@ breadcrumb: [Use, Applicant Center, Hiring Experiences, HR Service Delivery, Emp
 
 # Applicant survey
 
-Applicant survey enables the job applicants to provide their feedback about their [[hiring-tab-concept|hiring]] experience in the [[applicant-center-concept|Applicant Center]].
+Applicant survey enables the job applicants to provide their feedback about their hiring experience in the Applicant Center.
 
 Improve your hiring process by constantly boosting the hiring experience for your applicants. Let your applicants provide direct and genuine feedback at different levels in the hiring journey.
 
@@ -22,14 +22,9 @@ Applicants can provide feedback on their experience with the organization at the
 
 When an application moves to the **Interview** State, the applicants receive a survey feedback request. You can configure the feedback requests to be triggered at any other crucial point in the hiring journey. For more information on configuring feedback, see [Survey designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyDesigner.md).
 
-A **Share feedback** button visible in the [[applicant-portal-home-page|Applicant Center home page]]. The feedback button is also visible in the job application pages.
+A **Share feedback** button visible in the Applicant Center home page. The feedback button is also visible in the job application pages.
 
 You can provide your applicants the option to keep their data anonymous and aggregated while taking the survey.
 
 **Parent Topic:**[Using Applicant Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/use-applicant-center.md)
 
-## Related
-
-- [[hiring-tab-concept|Hiring]]
-- [[applicant-center-concept|Applicant Center]]
-- [[applicant-portal-home-page|Applicant Center home page]]

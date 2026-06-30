@@ -14,11 +14,11 @@ breadcrumb: [Configuring AI Search for Next Experience, AI Search for Next Exper
 
 # Migrate Zing search application configurations to AI Search
 
-Walk through a Guided Setup task to migrate your existing Zing [[defining-search-app-cfgs-ais|search application configurations]] to [[ia-ai-search|AI Search]] application [[clone-configurations-tab|configurations]].
+Walk through a Guided Setup task to migrate your existing Zing search application configurations to AI Search application configurations.
 
 ## Before you begin
 
-The [[ais-next-experience-app|AI Search for Next Experience]] ServiceNow® Store application must be installed on your instance. For details on installing this application, see [Install AI Search for Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/install-ais-next-experience-app.md).
+The AI Search for Next Experience ServiceNow® Store application must be installed on your instance. For details on installing this application, see [Install AI Search for Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/install-ais-next-experience-app.md).
 
 You must have already completed the **Prerequisites** Guided Setup tasks. For details on completing these tasks, see [Verify that your instance meets the prerequisites for AI Search for Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/verify-ais-next-exp-prereqs.md).
 
@@ -48,7 +48,7 @@ For more information on AI Search application configurations, see [Search applic
 
 3.  In the **Migrate settings for a Next Experience search application** task, open the Zing to AI Search Migration Job form by selecting **Configure**.
 
-    A modal window shows a list of Zing search application configurations and their migration status. Custom search application names are only translated to your session language if you've created appropriate Message \[sys\_ui\_message\] table records for them. For details on translating message strings by creating [[r_MessageTable|Message table]] records, see [Translate a client script message](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/t_TranslateAClientScriptMessage.md).
+    A modal window shows a list of Zing search application configurations and their migration status. Custom search application names are only translated to your session language if you've created appropriate Message \[sys\_ui\_message\] table records for them. For details on translating message strings by creating Message table records, see [Translate a client script message](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/t_TranslateAClientScriptMessage.md).
 
 4.  Close the modal list of Zing search application configurations.
 
@@ -60,7 +60,7 @@ For more information on AI Search application configurations, see [Search applic
 
         **Note:** Only Zing search application configurations with **Needs migration** status are available for selection. Application configurations with **Migrated** status already have corresponding AI Search application configurations.
 
-    2.  To have the system send email [[notifications|notifications]] to users when indexing of content for the migration job starts and completes, add those users to the watch list.
+    2.  To have the system send email notifications to users when indexing of content for the migration job starts and completes, add those users to the watch list.
 
         **Note:** The system automatically adds the current user to the watch list when a migration job is created or updated.
 
@@ -85,16 +85,7 @@ For more information on AI Search application configurations, see [Search applic
 
 ## What to do next
 
-Now that you've got AI Search application configurations for global search and your workspaces, it's time to [[enable-ais-next-exp-app|enable AI Search for Next Experience]] on your instance. For details on this procedure, see [Enable AI Search for Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/enable-ais-next-exp-app.md).
+Now that you've got AI Search application configurations for global search and your workspaces, it's time to enable AI Search for Next Experience on your instance. For details on this procedure, see [Enable AI Search for Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/enable-ais-next-exp-app.md).
 
 **Parent Topic:**[Configuring AI Search for Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configuring-ais-next-experience.md)
 
-## Related
-
-- [[defining-search-app-cfgs-ais|Search application configurations]]
-- [[ia-ai-search|AI Search]]
-- [[clone-configurations-tab|Configurations]]
-- [[ais-next-experience-app|AI Search for Next Experience]]
-- [[r_MessageTable|Message table]]
-- [[notifications|Notifications]]
-- [[enable-ais-next-exp-app|Enable AI Search for Next Experience]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, Health and Safety Environmental Management, Health and S
 
 # Install Health and Safety Environmental Management
 
-You can install the [[hs-environmental-management-landing-page|Health and Safety Environmental Management]] if you have the admin role. The application includes demo data and installs related ServiceNow Store applications and plugins if they aren’t already installed.
+You can install the Health and Safety Environmental Management if you have the admin role. The application includes demo data and installs related ServiceNow Store applications and plugins if they aren’t already installed.
 
 ## Before you begin
 
@@ -46,7 +46,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[health-safety-overview|Health and Safety]] Connector Core
+Health and Safety Connector Core
 
  \[com.sn\_hs\_connector\_core\]
 
@@ -110,7 +110,3 @@ Provides the IntegrationHub Professional capabilities required to connect to ext
 
 **Parent Topic:**[Setting up Health and Safety Environmental Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-setting-up-environmental-management.md)
 
-## Related
-
-- [[hs-environmental-management-landing-page|Health and Safety Environmental Management]]
-- [[health-safety-overview|Health and Safety]]

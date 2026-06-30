@@ -16,7 +16,7 @@ Enable the Auto-Responder feature to include content suggested for deflecting ca
 
 ## Before you begin
 
-Activate the Predictive [[intelligence-csm|Intelligence]] for [[c_CustomerServiceManagement|Customer Service Management]] plugin \(com.snc.csm\_ml\). For more information, see [Activate a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md) and [[predictive-intelligence-for-csm|Predictive Intelligence for CSM solution definitions]].
+Activate the Predictive Intelligence for Customer Service Management plugin \(com.snc.csm\_ml\). For more information, see [Activate a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md) and [Predictive Intelligence for CSM solution definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/predictive-intelligence-for-csm.md).
 
 Role required: admin
 
@@ -28,8 +28,4 @@ Role required: admin
 
 3.  Click **Save**.
 
-## Related
 
-- [[predictive-intelligence-for-csm|Predictive Intelligence for CSM solution definitions]]
-- [[intelligence-csm|Intelligence]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

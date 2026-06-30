@@ -59,11 +59,7 @@ console.log(title, type, params, data);
 
 [Embed the Data visualization component instance on the third-party website](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/embed-data-viz-comp.md)
 
-[[we-data-viz-comp-prop|Component properties for the Data visualization]]
+[Component properties for the Data visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/we-data-viz-comp-prop.md)
 
-[[we-data-viz-event-handler|Event handler in the Data visualization component]]
+[Event handler in the Data visualization component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/we-data-viz-event-handler.md)
 
-## Related
-
-- [[we-data-viz-comp-prop|Component properties for the Data visualization]]
-- [[we-data-viz-event-handler|Event handler in the Data visualization component]]

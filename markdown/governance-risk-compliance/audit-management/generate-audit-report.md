@@ -21,7 +21,7 @@ Generate an audit report for an engagement record using Microsoft Word template 
 
 Role required: sn\_audit.manager, sn\_audit\_ws.supervisor, sn\_irm\_shared\_cmn.word\_template\_reader
 
-1.  To apply the Word template in the engagement record and to generate the report in the [[audit-management-overview-ws|Audit Workspace]], you must have the Audit manager role \(sn\_audit.manager\) and also the Word template reader role \(sn\_irm\_shared\_cmn.word\_template\_reader\). More importantly, you must have access to the Audit Workspace.
+1.  To apply the Word template in the engagement record and to generate the report in the Audit Workspace, you must have the Audit manager role \(sn\_audit.manager\) and also the Word template reader role \(sn\_irm\_shared\_cmn.word\_template\_reader\). More importantly, you must have access to the Audit Workspace.
 2.  To generate the report for the engagement, the record must be in the Validate, Fieldwork, or Follow Up state.
 3.  To view the **Generate report** button in the engagement record, you should have selected the **Word report template** option in the **Template type** field while creating the record.
 
@@ -107,9 +107,6 @@ The generated report can be saved at the Microsoft SharePoint or Google Drive si
 
     As an audit admin, you can set the property as true to retain the previous attachments with the engagement record. All the previous attachments are available to view in the Attachments section. Retaining the previous attachments helps you to track an audit trail on the engagement.
 
-    To reset the property, navigate to **All** &gt; **Audit** &gt; **[[Administration|Administration]]** &gt; **Properties**. See, [Properties installed with Audit Management and Advanced Audit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/r_InstallWAudit.md).
+    To reset the property, navigate to **All** &gt; **Audit** &gt; **Administration** &gt; **Properties**. See, [Properties installed with Audit Management and Advanced Audit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/r_InstallWAudit.md).
 
-## Related
 
-- [[audit-management-overview-ws|Audit Workspace]]
-- [[Administration|Administration]]

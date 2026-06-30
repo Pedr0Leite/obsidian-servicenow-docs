@@ -14,7 +14,7 @@ breadcrumb: [Alert grouping types and creation methods, Alert grouping, Configur
 
 # Network traffic based alert grouping
 
-The Network traffic based alert grouping method groups alerts by analyzing network traffic connections between processes across hosts. It leverages service candidates identified by ML [[c_ServiceMappingOverview|Service Mapping]] to group alerts related to network traffic issues. This ensures alerts from directly connected processes within the same service candidate are grouped together, offering a more contextual view of network incidents.
+The Network traffic based alert grouping method groups alerts by analyzing network traffic connections between processes across hosts. It leverages service candidates identified by ML Service Mapping to group alerts related to network traffic issues. This ensures alerts from directly connected processes within the same service candidate are grouped together, offering a more contextual view of network incidents.
 
 Service candidates are potential collections of processes within your IT environment that are identified based on their network connections and interactions. They represent different services or functions that your IT systems provide, even if they are not fully detailed in your system’s configuration database. For example, service candidates might group together all the processes involved in email delivery, even if the configuration details are incomplete.
 
@@ -25,9 +25,9 @@ ML Service Mapping uses machine learning to automatically discover and map out t
 ## How it works
 
 -   Host identification: Alerts related to network issues are generated from various sources.
--   Network context identification: The correlation process uses horizontal [[r-discovery|discovery]] results and ML Service Mapping to identify the most relevant service candidates and network connections.
+-   Network context identification: The correlation process uses horizontal discovery results and ML Service Mapping to identify the most relevant service candidates and network connections.
 
-    This process uses the results of the scheduled job **[[c_EM|Event Management]] - Populate Service candidate process to process mapping - Daily**, which runs once a day and is used to store process-to-process connections for Host CIs in the format required by the [[c_ServiceAnalyticsOverview|alert grouping]] algorithm.
+    This process uses the results of the scheduled job **Event Management - Populate Service candidate process to process mapping - Daily**, which runs once a day and is used to store process-to-process connections for Host CIs in the format required by the alert grouping algorithm.
 
 -   Alert grouping: Alerts are grouped based on direct process-to-process connections within the context of the same service candidate. Grouping is updated in real-time as new alerts are received.
 
@@ -37,9 +37,3 @@ ML Service Mapping uses machine learning to automatically discover and map out t
 -   Enhanced coverage: It effectively groups alerts even in environments with low CMDB maturity, covering a broader range of alerts and issues.
 -   Streamlined resolution: IT teams can quickly identify and resolve related issues in bulk, reducing the volume of alerts to manage and improving operational efficiency.
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]
-- [[c_EM|Event Management]]
-- [[c_ServiceAnalyticsOverview|Alert grouping]]

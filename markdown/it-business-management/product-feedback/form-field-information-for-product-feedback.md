@@ -14,18 +14,12 @@ breadcrumb: [Feedback reference, Feedback application in Strategic Planning, Str
 
 # Form field information for Feedback application
 
-Field information for [[form-field-information-for-dw|forms]] used in the Feedback application.
+Field information for forms used in the Feedback application.
 
 -   **[Product idea form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/product-idea-form.md)**  
-Learn about the fields of the [[product-idea-form|Product idea form]]. Use this form to create or edit the details of a product idea in [[alignment-planner-workspace-landing-page|Strategic Planning]].
+Learn about the fields of the Product idea form. Use this form to create or edit the details of a product idea in Strategic Planning.
 -   **[Feedback form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/feedback-form.md)**  
-Learn about the fields of the [[feedback-form|feedback form]]. Use this form to create or edit the details of a feedback record in Feedback.
+Learn about the fields of the feedback form. Use this form to create or edit the details of a feedback record in Feedback.
 
 **Parent Topic:**[Feedback reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/product-feedback-reference.md)
 
-## Related
-
-- [[form-field-information-for-dw|Forms]]
-- [[product-idea-form|Product idea form]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[feedback-form|Feedback form]]

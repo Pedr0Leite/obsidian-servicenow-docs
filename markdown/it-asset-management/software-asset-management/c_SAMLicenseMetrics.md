@@ -18,11 +18,11 @@ License metrics are set in software entitlements and used for reconciliation in 
 
 Each metric group has a set of license metrics that are specific to the publisher.
 
-You can view the Metric Attributes related list in [[c_CreatingSoftwareModels|software models]] to set the attribute value. For more information, see [Software model fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/software-model-fields.md).
+You can view the Metric Attributes related list in software models to set the attribute value. For more information, see [Software model fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/software-model-fields.md).
 
 You can also add custom license metrics. For more information, see [Add a custom license metric](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/add-custom-license-metric.md). You can use the Resource Value \[samp\_sw\_resource\_value\] table to enhance the custom license metric capability by doing a 1:1 calculation between the Unit consumption column in the Resource Value \[samp\_sw\_resource\_value\] table and the Licenses required column in the License Metric Results \[samp\_license\_metric\_result\] table.
 
-Adobe, Citrix, IBM \(includes both IBM and Red Hat\), Microsoft, Oracle, SAP, and VMware publisher packs are available as add-ons. They provide the capability to manage software licensed under the publisher licensing [[c_Models|models]].
+Adobe, Citrix, IBM \(includes both IBM and Red Hat\), Microsoft, Oracle, SAP, and VMware publisher packs are available as add-ons. They provide the capability to manage software licensed under the publisher licensing models.
 
 Installing [SaaS License Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/sam-subscription-management.md) adds the Subscription and Consumption metric groups.
 
@@ -108,7 +108,7 @@ CPU core count * CPU count
 
 </td></tr><tr><td>
 
-Concurrent Licenses **Note:** Concurrent Licenses license metrics are visible only if the [[c_SoftwareAssetMgmt|Software Asset Management]] Professional for Engineering Applications \(sn\_samp\_eng\_app\) plugin is activated along with OpenLM and Open iT integration.
+Concurrent Licenses **Note:** Concurrent Licenses license metrics are visible only if the Software Asset Management Professional for Engineering Applications \(sn\_samp\_eng\_app\) plugin is activated along with OpenLM and Open iT integration.
 
 </td><td>
 
@@ -120,7 +120,7 @@ These licenses are based on the number of simultaneous users or devices accessin
 
 </td></tr><tr><td>
 
-Consumption**Note:** Consumption license metrics are visible only if the [[sam-subscription-management|SaaS License Management]] is installed.
+Consumption**Note:** Consumption license metrics are visible only if the SaaS License Management is installed.
 
 </td><td>
 
@@ -268,14 +268,7 @@ Applies to subscription-based VMware suite products: VMware vSphere Standard \(V
 
 </td></tr></tbody>
 </table>-   **[Unlimited software licenses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/unltd-allocations-rights.md)**  
-[[unltd-allocations-rights|Unlimited software licenses]] help you to create entitlements with unlimited allocations and unlimited rights, allowing you to license any number of software installations with no true-up cost.
+Unlimited software licenses help you to create entitlements with unlimited allocations and unlimited rights, allowing you to license any number of software installations with no true-up cost.
 
 **Parent Topic:**[Exploring Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/explore-sam-workspace.md)
 
-## Related
-
-- [[c_CreatingSoftwareModels|Software models]]
-- [[c_Models|Models]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-subscription-management|SaaS License Management]]
-- [[unltd-allocations-rights|Unlimited software licenses]]

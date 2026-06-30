@@ -14,7 +14,7 @@ breadcrumb: [Manually creating and reviewing your network asset instances, Defin
 
 # Define the datacenter details
 
-Define your datacenter record in the [[telecom-network-inventory|Telecommunications Network Inventory]] application. These records enable you to view the location-specific attributes for each datacenter, including the network centers, buildings, floors, and rooms where your network assets are located.
+Define your datacenter record in the Telecommunications Network Inventory application. These records enable you to view the location-specific attributes for each datacenter, including the network centers, buildings, floors, and rooms where your network assets are located.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ When you create a datacenter record, it creates a corresponding configuration it
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon..\) and then go to **Sites** &gt; **Data Centers**.
 
@@ -40,7 +40,7 @@ When you create a datacenter record, it creates a corresponding configuration it
 
     To learn more about the fields that are unique to the Data Center form, see [Network site form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/tni-network-site-form.md).
 
-    To learn about the remaining identification fields that are common to most of the Inventory and [[inventory_number_allocation|Inventory number allocation]] menu forms, see [Commonly used network asset instance identification fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/commonly-used-tni-identification-fields.md).
+    To learn about the remaining identification fields that are common to most of the Inventory and Inventory number allocation menu forms, see [Commonly used network asset instance identification fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/commonly-used-tni-identification-fields.md).
 
 5.  On the **Details** tab, in the Site Details section, fill in the site detail information.
 
@@ -105,7 +105,7 @@ Altitude of the network site that is measured in feet. This is the default value
 Altitude of the network site that is measured in meters.
 
 </td></tr></tbody>
-</table>6.  To create the Telecommunications Network Inventory attributes for the [[tni-network-site-form|Network Site form]], select **Set Inventory Attributes**.
+</table>6.  To create the Telecommunications Network Inventory attributes for the Network Site form, select **Set Inventory Attributes**.
 
     When you select the **Set Inventory Attributes** button, it creates a reference in the CI table.
 
@@ -113,7 +113,7 @@ Altitude of the network site that is measured in meters.
 
     If you select **Save** without selecting **Set Inventory Attributes**, it creates a CI record but not a Telecommunications Network Inventory CI record.
 
-7.  On the [[ci-attribue-form|TNI CI Attributes form]], fill in the fields.
+7.  On the TNI CI Attributes form, fill in the fields.
 
     To learn more about the Telecommunications Network Inventory attribute fields, see [TNI CI Attributes form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/ci-attribue-form.md).
 
@@ -154,10 +154,3 @@ Altitude of the network site that is measured in meters.
 
 **Parent Topic:**[Manually creating and reviewing your network asset instances](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/creating-telecommunications-network-inventory.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[inventory_number_allocation|Inventory number allocation]]
-- [[tni-network-site-form|Network site form]]
-- [[ci-attribue-form|TNI CI Attributes form]]

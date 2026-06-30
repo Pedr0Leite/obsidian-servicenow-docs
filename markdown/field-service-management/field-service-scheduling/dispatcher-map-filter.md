@@ -14,7 +14,7 @@ breadcrumb: [Using Dispatcher Workspace, Assigning tasks from Dispatcher Workspa
 
 # Limit the Dispatcher Workspace map display to tasks or agents
 
-Reduce the number of pins displayed on the map in [[dispatcher-activities|Dispatcher Workspace]] by displaying either tasks or agents.
+Reduce the number of pins displayed on the map in Dispatcher Workspace by displaying either tasks or agents.
 
 ## Before you begin
 
@@ -37,6 +37,4 @@ Role required: wm\_dispatcher
     -   To display only tasks, select **Tasks**.
 5.  Display both agents and tasks on the map again by selecting the Refresh icon \(\[Omitted image "refresh-icon.png"\] Alt text: Refresh icon\).
 
-## Related
 
-- [[dispatcher-activities|Dispatcher Workspace]]

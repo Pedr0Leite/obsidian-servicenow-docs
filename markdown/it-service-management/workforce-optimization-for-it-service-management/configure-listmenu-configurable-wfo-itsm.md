@@ -14,7 +14,7 @@ breadcrumb: [Setting up, Coaching, Workforce Optimization for ITSM, IT Service M
 
 # Configure a list menu to display in the Learning tab in Workforce Optimization for ITSM
 
-Add a system property to add to or modify the list menu for [[cf-coaching-landing|Coaching]] with Learning in the Coaching application in [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]].
+Add a system property to add to or modify the list menu for Coaching with Learning in the Coaching application in Workforce Optimization for ITSM.
 
 ## Before you begin
 
@@ -248,7 +248,3 @@ You can copy the code below into the Value field in the system property and modi
 
 **Parent Topic:**[Setting up Coaching in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/setup-coaching-configurable-workforce-optimization-itsm.md)
 
-## Related
-
-- [[cf-coaching-landing|Coaching]]
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]

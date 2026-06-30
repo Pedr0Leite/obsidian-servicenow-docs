@@ -22,13 +22,13 @@ Role required: manager
 
 ## Procedure
 
-1.  In [[employee-center-landing-page|Employee Center]] navigate to **Your team** &gt; **Skills**.
+1.  In Employee Center navigate to **Your team** &gt; **Skills**.
 
 2.  On the skill distribution widget, select **View all**.
 
 3.  Here you can request feedback in two ways, either by selecting the employee or the skill pill.
 
-    -   From Employee view, click \[Omitted image "viewmenu.png"\] Alt text: View menu iconon the employee and select **View skill feedback** and then select **[[request-skill-feedback-widget|Request skill feedback]]**.
+    -   From Employee view, click \[Omitted image "viewmenu.png"\] Alt text: View menu iconon the employee and select **View skill feedback** and then select **Request skill feedback**.
     -   From Skill view, click \[Omitted image "viewmenu.png"\] Alt text: View menu iconthe skill pill and select **Request skill feedback**.
 
         **Note:** You can use the toggle option to switch between **Employee view** and **Skill view**.
@@ -78,7 +78,4 @@ This is an optional entry for you to add any other information that you'd like t
 </td></tr></tbody>
 </table>5.  Select **Send request**.
 
-## Related
 
-- [[employee-center-landing-page|Employee Center]]
-- [[request-skill-feedback-widget|Request skill feedback]]

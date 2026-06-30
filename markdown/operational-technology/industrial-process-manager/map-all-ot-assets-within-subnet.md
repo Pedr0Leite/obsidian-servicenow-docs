@@ -27,7 +27,7 @@ Role required: sn\_ot\_amazing\_write
 
 ## Procedure
 
-1.  Navigate to **[[industrial-workspace-for-operational-technology|Industrial Workspace]] Admin** &gt; **[[industrial-process-manager-overview|Industrial Process Manager]]** &gt; **OT Subnet Mapping**.
+1.  Navigate to **Industrial Workspace Admin** &gt; **Industrial Process Manager** &gt; **OT Subnet Mapping**.
 
 2.  From the OT Subnet Mapping list, open the OT subnet mapping record whose devices you want to map.
 
@@ -44,7 +44,3 @@ If there are OT devices in the selected site with IP addresses that fall in the 
 
 **Parent Topic:**[Automatically map all OT devices to an equipment model entity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/automatedly-map-all-ot-assets.md)
 
-## Related
-
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[industrial-process-manager-overview|Industrial Process Manager]]

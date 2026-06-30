@@ -21,7 +21,7 @@ In the Select Appointment pop-up window, see appointment availability based on t
 -   Whether the window shows available appointments in a day or week view
 -   The length of the appointment windows \(for example, two hours\).
 -   The start and end times for the appointment windows.
--   Recommendation configuration for seismic [[appointment-booking|appointment booking]] calendar and appointment booking slot recommendation.
+-   Recommendation configuration for seismic appointment booking calendar and appointment booking slot recommendation.
 -   The number of appointments available every day.
 
     **Note:** Based on the configuration set for the user's time format, the appointment booking window displays either a 12-hr or a 24-hr clock.
@@ -42,6 +42,3 @@ The time zone used for appointment is displayed in the lower corner of the windo
 
 [Personalize the system time format](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_PersonalizeTheSystemTimeFormat.md)
 
-## Related
-
-- [[appointment-booking|Appointment booking]]

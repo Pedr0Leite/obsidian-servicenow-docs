@@ -14,7 +14,7 @@ breadcrumb: [Limit concurrent sessions, Authentication, Access Management]
 
 # Activate and configure limit concurrent sessions plugin
 
-You can activate the [[limit-concurrent-sessions|Limit Concurrent Sessions]] plugin \(com.glide.limit.concurrent.sessions\) if you have the admin role.
+You can activate the Limit Concurrent Sessions plugin \(com.glide.limit.concurrent.sessions\) if you have the admin role.
 
 ## Before you begin
 
@@ -86,6 +86,3 @@ This property restricts the limit of concurrent sessions per node instead of res
 
 [List of plugins \(Australia\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-## Related
-
-- [[limit-concurrent-sessions|Limit concurrent sessions]]

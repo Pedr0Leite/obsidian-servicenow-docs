@@ -14,7 +14,7 @@ breadcrumb: [Use, Operational Technology Request Management, Operational Technol
 
 # Create an Operational Technology request on the Industrial Workspace
 
-Create an [[operational-technology-overview|Operational Technology]] \(OT\) request in the [[industrial-workspace-for-operational-technology|Industrial Workspace]] to address a product or service needed for an OT device or incident.
+Create an Operational Technology \(OT\) request in the Industrial Workspace to address a product or service needed for an OT device or incident.
 
 ## Before you begin
 
@@ -49,7 +49,3 @@ If there are any changes made to the request record, you're notified with an ema
 
 **Parent Topic:**[Using Operational Technology Request Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-request-management/using-operational-technology-request-management.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

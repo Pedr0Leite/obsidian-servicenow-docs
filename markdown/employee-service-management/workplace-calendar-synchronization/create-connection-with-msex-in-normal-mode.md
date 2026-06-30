@@ -17,7 +17,7 @@ breadcrumb: [Microsoft Exchange Online - Calendar synchronization, Setup Workpla
 Perform the following steps to establish a normal mode connection with Microsoft Exchange Online.
 
 -   **[Configure Microsoft Azure in normal mode](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/authenticate-mxexchange-with-azure.md)**  
-Set up a normal mode authentication with Microsoft Azure to connect Microsoft Exchange Online with [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]].
+Set up a normal mode authentication with Microsoft Azure to connect Microsoft Exchange Online with Workplace Calendar Synchronization.
 -   **[Create a connection with Microsoft Exchange Online spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/create-connection-with-msspoke.md)**  
 Connect to the Microsoft Exchange Online spoke by creating a connection.
 -   **[Set up OAuth connection with Microsoft Exchange Online](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/setup-connectivity-with-msexchange-for-calendar-sync.md)**  
@@ -31,6 +31,3 @@ Configure Microsoft Exchange Online as a calendar provider in normal mode to syn
 
 **Parent Topic:**[Configure Workplace Calendar Synchronization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/configure-rsv-sync.md)
 
-## Related
-
-- [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]

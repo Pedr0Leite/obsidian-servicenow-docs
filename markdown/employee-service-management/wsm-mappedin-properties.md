@@ -74,8 +74,5 @@ The amount of time \(in seconds\) to stagger processing external ID generations.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[[mappedin-integration-topics|Configure Mappedin]]
+**Parent Topic:**[Configure Mappedin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/mappedin-integration-topics.md)
 
-## Related
-
-- [[mappedin-integration-topics|Configure Mappedin]]

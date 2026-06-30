@@ -22,7 +22,7 @@ Map the individual Microsoft Azure Sentinel incident fields to the fields on the
 
 Microsoft has extended the deprecation of the Azure Sentinel experience in the Azure portal from March 2026 to March 2027.
 
-If you are currently using the Azure Sentinel integration with [[sir-landing-page|Security Incident Response]] \(SIR\), we strongly recommend migrating to the new Defender portal integration as soon as possible. The Defender integration includes a built-in migration utility that automatically converts your existing Sentinel profiles into Defender profiles, while ensuring continuity of incidents created through Sentinel after the transition. For more information, see [Microsoft Sentinel to Defender Migration Guide](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2795226).
+If you are currently using the Azure Sentinel integration with Security Incident Response \(SIR\), we strongly recommend migrating to the new Defender portal integration as soon as possible. The Defender integration includes a built-in migration utility that automatically converts your existing Sentinel profiles into Defender profiles, while ensuring continuity of incidents created through Sentinel after the transition. For more information, see [Microsoft Sentinel to Defender Migration Guide](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2795226).
 
 Role required: sn\_si.ingestion\_profile\_admin
 
@@ -30,7 +30,7 @@ Role required: sn\_si.ingestion\_profile\_admin
 
 ## Procedure
 
-1.  On the [[mapping-logrhythm|mapping]] page, in the Azure Sentinel Field Mapping section, select one of the Sample Ingestion Methods.
+1.  On the mapping page, in the Azure Sentinel Field Mapping section, select one of the Sample Ingestion Methods.
 
 <table id="table_kyc_qbg_p4b"><thead><tr><th>
 
@@ -85,7 +85,7 @@ Click **Import Sample Data** to import sample incidents from Azure Sentinel.This
 
     2.  In the Security Incident column, expand the list that is displayed and then select a field.
 
-        **Note:** Multiple [[c_Observables|observables]] can be displayed on the same security incident. For example, the **Observable** field can be mapped multiple times with different values. Similarly, the **Configuration Item** and **Work notes fields** support multiple values. If you try to map two values to a field that can't support multiple values, you see an error message that this field does not support multiple values. Similarly, if a field on a security incident has a list from which you can choose multiple options, and you try to map an option to that field that is not displayed on the list, the field does not populate on the security incident.
+        **Note:** Multiple observables can be displayed on the same security incident. For example, the **Observable** field can be mapped multiple times with different values. Similarly, the **Configuration Item** and **Work notes fields** support multiple values. If you try to map two values to a field that can't support multiple values, you see an error message that this field does not support multiple values. Similarly, if a field on a security incident has a list from which you can choose multiple options, and you try to map an option to that field that is not displayed on the list, the field does not populate on the security incident.
 
     3.  From the Azure Sentinel Source Fields section, drag and drop your field to map it to your new field.
 
@@ -146,8 +146,3 @@ Click **Import Sample Data** to import sample incidents from Azure Sentinel.This
 
 Define and set filter conditions so that you can specify which incidents should create security incidents. You can use the same field values \(defined in the Mapping section\) in the Incident Generation Conditions builder \(in the Filtering and Aggregation section\) to define additional criteria that an incoming incident must satisfy to create a security incident.
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[mapping-logrhythm|Mapping]]
-- [[c_Observables|Observables]]

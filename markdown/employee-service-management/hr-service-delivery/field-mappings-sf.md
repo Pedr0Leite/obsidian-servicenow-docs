@@ -14,7 +14,7 @@ breadcrumb: [Use, HR Service Delivery Integration with SuccessFactors, Integrati
 
 # Field mappings
 
-The Trigger SAP SuccessFactors Integration Flow maps the entity profile fields from SuccessFactors to the [[c_HRProfileRecords|HR profile]] fields in the ServiceNow® platform.
+The Trigger SAP SuccessFactors Integration Flow maps the entity profile fields from SuccessFactors to the HR profile fields in the ServiceNow® platform.
 
 **Important:** For details about the fields that are mapped, refer to this [KB article](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1124068)
 
@@ -29,12 +29,7 @@ The Trigger SAP SuccessFactors Integration Flow maps the entity profile fields f
 
 [Use transform maps]()
 
-[Now Assist Virtual Agent topics for [[hr-service-delivery|HR Service Delivery]] Integration with SuccessFactors]()
+[Now Assist Virtual Agent topics for HR Service Delivery Integration with SuccessFactors]()
 
-[Use [[conversational-agents|HCM AI agents]] for HR Service Delivery Integration with SuccessFactors]()
+[Use HCM AI agents for HR Service Delivery Integration with SuccessFactors]()
 
-## Related
-
-- [[c_HRProfileRecords|HR Profile]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[conversational-agents|HCM AI agents]]

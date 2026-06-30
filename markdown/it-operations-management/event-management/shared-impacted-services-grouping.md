@@ -22,11 +22,11 @@ The Shared impacted services alert grouping feature solves this by automatically
 
 Every alert is linked to a Configuration Item \(CI\) — the specific piece of infrastructure where the problem was detected, such as a web server or a network switch. That CI is part of a larger chain: it supports an application, which in turn supports a Business Service.
 
-When [[c_EM|Event Management]] receives an alert, it traces that chain upward to find the most important Business Service \(identified by business criticality\) the CI belongs to. This is called the Top Service. Any other alerts that trace back to the same Top Service are automatically pulled into the same group.
+When Event Management receives an alert, it traces that chain upward to find the most important Business Service \(identified by business criticality\) the CI belongs to. This is called the Top Service. Any other alerts that trace back to the same Top Service are automatically pulled into the same group.
 
 Think of it like a network operations center \(NOC\) dashboard: instead of investigating each blinking alert one by one, the operator first identifies the most critical service that is down — that is the Top Service. Every alert tied to that Top Service is already grouped together, giving an instant picture of the full impact.
 
-With CMDB-based [[c_ServiceAnalyticsOverview|alert grouping]], alerts are only grouped if the CIs involved are closely connected in the topology — there is a limit on how far apart they can be. Shared Impacted Services grouping works differently: it does not care about the distance between CIs at all. If two alerts trace back to the same Top Service, they are grouped — regardless of how far apart the underlying CIs are in the infrastructure.
+With CMDB-based alert grouping, alerts are only grouped if the CIs involved are closely connected in the topology — there is a limit on how far apart they can be. Shared Impacted Services grouping works differently: it does not care about the distance between CIs at all. If two alerts trace back to the same Top Service, they are grouped — regardless of how far apart the underlying CIs are in the infrastructure.
 
 ## When to use this feature
 
@@ -40,7 +40,3 @@ In short: if your service trees are shallow, either approach works. If your serv
 
 For details on creating a group automation, see [Create Group automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/group-alert-sow-itom.md).
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[c_ServiceAnalyticsOverview|Alert grouping]]

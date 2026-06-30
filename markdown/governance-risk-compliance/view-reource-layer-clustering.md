@@ -46,7 +46,7 @@ Asset locations that are nearby to each other are clustered and a cumulative cou
 
     For example, if you click a datacenter icon \(\[Omitted image "BCMDatacenterIcon.png"\] Alt text: datacenter icon.\) that has no number or a count next to it, a pop over appears with the display information that you have configured in the Resource Configuration table \[sn\_fam\_resource\_config\].
 
-    If you have configured **Power** and **Power consumption** fields of the datacenter table \[cmdb\_co\_datacenter\] as the display fields in the [[resource-configuration-form|Resource Configuration form]], then the power consumption details of that datacenter are displayed on the pop over along with its location coordinates.
+    If you have configured **Power** and **Power consumption** fields of the datacenter table \[cmdb\_co\_datacenter\] as the display fields in the Resource Configuration form, then the power consumption details of that datacenter are displayed on the pop over along with its location coordinates.
 
 6.  Click an asset icon with a number next to it.
 
@@ -56,6 +56,4 @@ Asset locations that are nearby to each other are clustered and a cumulative cou
 
 7.  Click the reset icon \(\[Omitted image "BCMResetIcon.png"\] Alt text: Map reset icon.\) to clear the search results on the map.
 
-## Related
 
-- [[resource-configuration-form|Resource Configuration form]]

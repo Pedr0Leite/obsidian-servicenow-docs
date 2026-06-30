@@ -155,8 +155,5 @@ When there is no property for com.glide.apps.include\_my\_schema, it defaults to
 
 Claims apply to global applications and application-customizations. In global applications, claims allow the system to choose a record deterministically should the same file be included in multiple applications. If you see a superior claim, an upgrade history log for the skipped record is created to identify a conflicting claim status. For details, see [Review skipped records using related lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-access-rl.md).
 
-**Parent Topic:**[[install-considerations|Installation considerations]]
+**Parent Topic:**[Installation considerations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/install-considerations.md)
 
-## Related
-
-- [[install-considerations|Installation considerations]]

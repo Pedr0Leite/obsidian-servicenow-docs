@@ -16,7 +16,7 @@ breadcrumb: [Customizing a chat experience, Configure, Virtual Agent, Conversati
 
 Setup topics are part of a standard conversation structure applied to all your conversations, such as the welcome greeting or fallback responses. Setup topics run at the appropriate spot in a conversation based on the context, keywords, or utterances entered by the user, and any conditions that are specified for the setup topic.
 
-You define setup topics in a [[virtual-agent-landing-page|Virtual Agent]] Designer chat experience using the Custom Greetings and Setup option. A chat experience sets the context in which users run Virtual Agent. This context includes:
+You define setup topics in a Virtual Agent Designer chat experience using the Custom Greetings and Setup option. A chat experience sets the context in which users run Virtual Agent. This context includes:
 
 -   Setup topics applied to bot conversations.
 -   A small list of topics, called promoted topics, initially displayed in the chat window.
@@ -166,13 +166,9 @@ Virtual Agent Capabilities. Enables users to ask for assistance during a convers
 </table>-   **[Change text in the Show me everything button](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/change-va-showme.md)**  
 Configure the text in the **Show me everything** button displayed in the chat window to control the display of the initial greetings and the **Show me everything** button in Virtual Agent conversations. Edit the message in the System Properties \[sys\_properties\] table, or in a copy of the Greetings setup topic.
 -   **[Hide or reveal the Show me everything button](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)**  
-Set properties to [[hide-reveal-sme-button|hide or reveal the Show me everything button]] in Virtual Agent LLM \(large language model\) conversations.
+Set properties to hide or reveal the Show me everything button in Virtual Agent LLM \(large language model\) conversations.
 -   **[Change the Virtual Agent greeting messages in the Greeting setup topic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-welcome-topic-selection-msgs.md)**  
 The Virtual Agent greeting setup topic provides default greeting messages for your conversations. Customize these greetings by adding system properties that change the default welcome message and the top selection message prompting users to enter an issue or request.
 
 **Parent Topic:**[Customizing a Virtual Agent chat experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-conversation-settings.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[hide-reveal-sme-button|Hide or reveal the Show me everything button]]

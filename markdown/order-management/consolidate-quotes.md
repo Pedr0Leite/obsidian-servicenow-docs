@@ -39,8 +39,5 @@ Role required: sn\_customerservice\_manager and sn\_sales\_common.sales\_agent.
     The selected quotes are merged into the target quote. A confirmation message appears with a link to the consolidated quote. The target quote displays a **Consolidation History** related list that shows all source quotes that were merged into it.
 
 
-**Parent Topic:**[[quote-mgmt-using|Using Quote Management]]
+**Parent Topic:**[Using Quote Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-mgmt-using.md)
 
-## Related
-
-- [[quote-mgmt-using|Using Quote Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Use generative AI skills, Now Assist for Security Incident Response
 
 # Generate recommended actions for a security incident with Now Assist for Security Incident Response
 
-Automatically generate the next steps your analysts can take to help them [[close-sir-incident-aiagent|close a security incident]] in the [[sir-workspace-landing-page|Security Incident Response Workspace]]. The recommended steps are based on existing security incidents and knowledge articles.
+Automatically generate the next steps your analysts can take to help them close a security incident in the Security Incident Response Workspace. The recommended steps are based on existing security incidents and knowledge articles.
 
 ## Before you begin
 
@@ -72,7 +72,7 @@ Roles required: sn\_si.analyst, sn\_si.manager, or sn\_si.basic
 
     Until you change the Value on the system property, the two options on any recommended actions you generate remain **View details** and **Create response task**.
 
-10. [[create_response_task|Create a response task]] from the recommended actions.
+10. Create a response task from the recommended actions.
 
     By default, the workflow provides you with the option to save the recommended actions to work notes from the cards. If you want to have the option to create a response task from an action card instead of saving them to work notes, you must change the Value field for the **SecOps Recommended Action** \[sn\_sec\_ra.card\_action\_config\] system property.
 
@@ -88,8 +88,4 @@ Roles required: sn\_si.analyst, sn\_si.manager, or sn\_si.basic
 
         The action cards provide you with the options to **View details** and **Create response task**.
 
-## Related
 
-- [[close-sir-incident-aiagent|Close a security incident]]
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[create_response_task|Create a Response Task]]

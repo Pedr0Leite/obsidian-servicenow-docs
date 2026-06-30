@@ -12,7 +12,7 @@ breadcrumb: [Configure Proactive Customer Service, Extend capabilities, Configur
 
 # Activate Proactive Customer Service Operations with Event Management
 
-Activate the [[proactive-service-operations|Proactive Customer Service Operations]] with Event Management plugin to use Proactive Customer Service Operations with Event Management.
+Activate the Proactive Customer Service Operations with Event Management plugin to use Proactive Customer Service Operations with Event Management.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-Proactive Customer Service Operations with Event Management is only available for customers who are licensed for the [[c_CustomerServiceManagement|Customer Service Management]] application.
+Proactive Customer Service Operations with Event Management is only available for customers who are licensed for the Customer Service Management application.
 
 To activate Proactive Customer Service Operations with Event Management, activate the Proactive Customer Service with Event Management plugin \(com.snc.proactive\_cs\_itom\). This plugin is not active by default.
 
@@ -36,7 +36,4 @@ Activating this plugin also activates the Proactive Customer Service Operations 
 
 3.  Click **Activate**.
 
-## Related
 
-- [[proactive-service-operations|Proactive Customer Service Operations]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

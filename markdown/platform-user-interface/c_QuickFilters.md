@@ -24,8 +24,5 @@ For date and date-time fields, you can also use **Show After** or **Show Before*
 
 Using the quick filter method to filter out a particular value builds the following conditions: \[field\] \[is not\] \[value\] or \[field\] \[is\] \[empty\]. Records that contain empty or null values still display in the filtered list. If you manually create a filter, it does not automatically include the OR condition \[field\] \[is\] \[empty\], so records that have an empty or null value do not display in the filtered list.
 
-**Parent Topic:**[[c_UsingFiltersAndBreadcrumbs|Filters and breadcrumbs]]
+**Parent Topic:**[Filters and breadcrumbs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_UsingFiltersAndBreadcrumbs.md)
 
-## Related
-
-- [[c_UsingFiltersAndBreadcrumbs|Filters and breadcrumbs]]

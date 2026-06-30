@@ -14,7 +14,7 @@ breadcrumb: [Exploring Universal Request, Universal Request, Employee Service Ma
 
 # Universal Request states and reasons
 
-The [[ur-landing-limitedaccess|Universal Request]] \(UR\) state is determined by the state of the primary ticket. The primary ticket for a UR is a child department ticket, such as an IT incident or a HR case. A Universal Request can have only one primary ticket at a time.
+The Universal Request \(UR\) state is determined by the state of the primary ticket. The primary ticket for a UR is a child department ticket, such as an IT incident or a HR case. A Universal Request can have only one primary ticket at a time.
 
 Given are some examples of the impact of the primary ticket on UR:
 
@@ -82,6 +82,3 @@ The UR is canceled.**Note:** Requesters can cancel a UR only if there are no act
 
 **Parent Topic:**[Exploring Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/explore-universal-request.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]

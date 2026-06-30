@@ -28,7 +28,7 @@ For any scripted user criteria that uses a session api such as gs.getUserID\(\),
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[service-catalog|Service Catalog]]** &gt; **Catalog Administration** &gt; **User Criteria Diagnostics**.
+1.  Navigate to **All** &gt; **Service Catalog** &gt; **Catalog Administration** &gt; **User Criteria Diagnostics**.
 
     The User Criteria Diagnostics form is displayed.
 
@@ -70,6 +70,3 @@ For any scripted user criteria that uses a session api such as gs.getUserID\(\),
 
 **Parent Topic:**[Debugging Service Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/debugging-service-catalog.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]

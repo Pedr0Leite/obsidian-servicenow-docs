@@ -23,26 +23,19 @@ The header, background style, buttons, and default Product List display come fro
 
 Header actions in the solution root layout apply across the entire solution:
 
--   **Save** and **[[cancel|Cancel]]** apply to the whole solution, not to the currently viewed configuration.
+-   **Save** and **Cancel** apply to the whole solution, not to the currently viewed configuration.
 -   **Reset**, **Validate** \(when a validation enrichment exists on the blueprint\), and **Change Layout** apply only to the currently viewed configuration.
 
 ## Solution navigation sidebar
 
-The solution navigation sidebar lists all [[configurable-products-explore|configurable products]] in the current session, including the root. Buyers can select any item in the sidebar to navigate to that configuration. Buyers can also navigate to a configuration by selecting its configurable product entry in the solution BOM.
+The solution navigation sidebar lists all configurable products in the current session, including the root. Buyers can select any item in the sidebar to navigate to that configuration. Buyers can also navigate to a configuration by selecting its configurable product entry in the solution BOM.
 
 **Related topics**  
 
 
-[[launch-solution|Launch a solution]]
+[Launch a solution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/launch-solution.md)
 
-[[navigate-solution|Navigate within a solution]]
+[Navigate within a solution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/navigate-solution.md)
 
-[[bill-of-materials-in-solution-configuration|Bill of Materials in solution configuration]]
+[Bill of Materials in solution configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/bill-of-materials-in-solution-configuration.md)
 
-## Related
-
-- [[launch-solution|Launch a solution]]
-- [[navigate-solution|Navigate within a solution]]
-- [[bill-of-materials-in-solution-configuration|Bill of Materials in solution configuration]]
-- [[cancel|Cancel]]
-- [[configurable-products-explore|Configurable products]]

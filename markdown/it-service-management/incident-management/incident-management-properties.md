@@ -14,7 +14,7 @@ breadcrumb: [Configuring Incident Management, Incident Management, IT Service Ma
 
 # Incident Management properties
 
-Incident Management properties are used to control features such as copying and creating child incidents. The major incident properties control the promotion of [[major-incidents-candidate|major incident candidates]] to major incidents.
+Incident Management properties are used to control features such as copying and creating child incidents. The major incident properties control the promotion of major incident candidates to major incidents.
 
 These properties are available at **Incident** &gt; **Administration** &gt; **Incident Properties**.
 
@@ -60,7 +60,7 @@ Close open Incident Communication Plans when Incident is closed or canceled\(com
 
 </td><td>
 
-Select the check box to close an open incident communication plan when an incident is closed or canceled. **Note:** This property is visible when the [[c_IncidentAlertManagement|Incident Communications Management]] plugin \(com.snc.iam\) is enabled. This property is set to **false** for both new and existing customers.
+Select the check box to close an open incident communication plan when an incident is closed or canceled. **Note:** This property is visible when the Incident Communications Management plugin \(com.snc.iam\) is enabled. This property is set to **false** for both new and existing customers.
 
 </td></tr><tr><td>
 
@@ -116,7 +116,7 @@ List of attributes \(comma-separated\) that will be copied from the originating 
 
 </td><td>
 
-Enter the name of the attributes that you want to be copied from the original incident to the new incident when you copy or [[create-an-incident|create an incident]]. **Note:** The knowledge article or the resolution section information such as resolution code, notes, and resolved by, isn’t copied.
+Enter the name of the attributes that you want to be copied from the original incident to the new incident when you copy or create an incident. **Note:** The knowledge article or the resolution section information such as resolution code, notes, and resolved by, isn’t copied.
 
 </td></tr><tr><td>
 
@@ -219,7 +219,7 @@ Select the check box to copy the attachments from the interaction record to a ne
  **Note:** Starting with the Australia release, this property is automatically set to **true** for new customers. Existing customers have to set the property to **true** manually.
 
 </td></tr></tbody>
-</table>## Major [[c_IncidentManagement|Incident Management]]
+</table>## Major Incident Management
 
 If you have the admin or incident\_manager role, you can edit the major incident properties. You can define whether a new major incident must be created or whether a major incident candidate must be promoted to a major incident. The properties are available only when you activate the Incident Management - Major Incident Management plugin \(com.snc.incident.mim\).
 
@@ -239,15 +239,15 @@ Create major incident from candidate\(sn\_major\_inc\_mgmt.com.snc.incident .mim
 
 </td><td>
 
-Create a new major incident or [[promote-major-incident-sow|promote a major incident]] candidate to a major incident.**Note:** When a new major incident is created from an incident, the current incident is marked as a child of the new major incident.
+Create a new major incident or promote a major incident candidate to a major incident.**Note:** When a new major incident is created from an incident, the current incident is marked as a child of the new major incident.
 
 </td></tr><tr><td>
 
-Compose Email on [[major-incident-overview|Major Incident Overview]]\(sn\_major\_inc\_mgmt.com.snc.incident.mim.compose\_email\_on\_iatasks\)
+Compose Email on Major Incident Overview\(sn\_major\_inc\_mgmt.com.snc.incident.mim.compose\_email\_on\_iatasks\)
 
 </td><td>
 
-Provide a comma-separated list of incident communication task types that can have the **Compose Email** option on the [[major-incident-workbench|Major Incident Workbench]].
+Provide a comma-separated list of incident communication task types that can have the **Compose Email** option on the Major Incident Workbench.
 
 </td></tr><tr><td>
 
@@ -292,12 +292,3 @@ Select the fields that must be copied from the incident when creating a major in
 </td></tr></tbody>
 </table>**Parent Topic:**[Configuring Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/incident-configuration.md)
 
-## Related
-
-- [[major-incidents-candidate|Major incident candidates]]
-- [[c_IncidentAlertManagement|Incident Communications Management]]
-- [[create-an-incident|Create an incident]]
-- [[c_IncidentManagement|Incident Management]]
-- [[promote-major-incident-sow|Promote a major incident]]
-- [[major-incident-overview|major incident overview]]
-- [[major-incident-workbench|Major incident workbench]]

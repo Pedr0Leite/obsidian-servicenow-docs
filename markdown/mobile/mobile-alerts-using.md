@@ -12,7 +12,7 @@ breadcrumb: [Using the mobile apps, Mobile Platform]
 
 # Handling mobile alerts
 
-Mobile alerts are an overlay pop-up window that displays over a [[form-screen|record screen]]. The mobile alert displays an important message and a button to redirect you to an alternative screen.
+Mobile alerts are an overlay pop-up window that displays over a record screen. The mobile alert displays an important message and a button to redirect you to an alternative screen.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Mobile alerts are a way that administrators can highlight an important message a
 
 \[Omitted image "alert-form-screen.png"\] Alt text: record screen with a mobile alert overlay.
 
-For information about configuring mobile alerts for a record screen, see [[form-screen-alerts|Configure a mobile alert for a record screen]]. You must be a member of the admin role to perform this configuration.
+For information about configuring mobile alerts for a record screen, see [Configure a mobile alert for a record screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/form-screen-alerts.md). You must be a member of the admin role to perform this configuration.
 
 ## Procedure
 
@@ -40,7 +40,3 @@ For information about configuring mobile alerts for a record screen, see [[form-
     -   Revisit the record screen that initially activated the overlay banner.
     -   Tap the Alert icon \(\[Omitted image "alert-form-screen-icon.png"\] Alt text: Alert icon with a red spot to show call to action is required.\) in the screen header. The red spot indicates that you have not performed the call to action.
 
-## Related
-
-- [[form-screen-alerts|Configure a mobile alert for a record screen]]
-- [[form-screen|Record screen]]

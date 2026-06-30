@@ -14,7 +14,7 @@ breadcrumb: [Use generative AI skills, Now Assist for HR Service Delivery \(HRSD
 
 # Summarize a chat conversation using Now Assist for HR Service Delivery \(HRSD\)
 
-Summarize a Virtual Agent chat history in the [[now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\)]] application. You can also summarize an interaction when the chat ends. The summary includes all points of the handoff, including the Virtual Agent conversation.
+Summarize a Virtual Agent chat history in the Now Assist for HR Service Delivery \(HRSD\) application. You can also summarize an interaction when the chat ends. The summary includes all points of the handoff, including the Virtual Agent conversation.
 
 ## Before you begin
 
@@ -96,11 +96,7 @@ You can make a copy of this skill to configure it to meet your business needs. F
 
 [Submit an HR request with Gen AI Virtual Agent]()
 
-[Now Assist for [[hr-service-delivery|HR Service Delivery]] \(HRSD\) integration with Enterprise Service Management Integrations Framework]()
+[Now Assist for HR Service Delivery \(HRSD\) integration with Enterprise Service Management Integrations Framework]()
 
 [Analyze sentiments in Now Assist for HR Service Delivery \(HRSD\)]()
 
-## Related
-
-- [[now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\)]]
-- [[hr-service-delivery|HR Service Delivery]]

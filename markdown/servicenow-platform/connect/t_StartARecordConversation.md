@@ -20,15 +20,15 @@ You can follow a record in Connect Chat to track activity as it happens, in a fa
 
 **Important:**
 
-Core UI is required to use [[c_Collaboration|Connect Chat]]. Connect Chat is not supported in Next Experience. If you turn on Next Experience, Connect Chat will no longer work. See [Next Experience UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-landing-page.md) for more information.
+Core UI is required to use Connect Chat. Connect Chat is not supported in Next Experience. If you turn on Next Experience, Connect Chat will no longer work. See [Next Experience UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-landing-page.md) for more information.
 
-Role required: whichever role is required to access the record you want to follow in [[c_Connect|Connect]]
+Role required: whichever role is required to access the record you want to follow in Connect
 
 ## About this task
 
 You must first activate the Connect \(com.glide.connect\) plugin to complete this task.
 
-Any record conversation you create in Connect becomes a record feed in Live Feed, and vice versa. Unlike direct or group conversations, all messages in record conversations are comments or [[c_WorkNotes|work notes]].
+Any record conversation you create in Connect becomes a record feed in Live Feed, and vice versa. Unlike direct or group conversations, all messages in record conversations are comments or work notes.
 
 **Note:** By default, record conversations are enabled for all tables that extend Task \[task\]. Administrators can enable record conversations for additional tables or disable them if desired.
 
@@ -60,7 +60,7 @@ In the form header, click **Follow**.
 
 </td></tr><tr><td id="d460444e139">
 
-**Follow the record and open the [[c_CollaborationWorkspace|Connect workspace]]**
+**Follow the record and open the Connect workspace**
 
 </td><td>
 
@@ -83,7 +83,7 @@ In the form header, click **Follow**.
 
     By default, record conversation messages are added as work notes.
 
-    **Note:** If you add an [[attachment|attachment]] to a record conversation, it is attached to the underlying record as well.
+    **Note:** If you add an attachment to a record conversation, it is attached to the underlying record as well.
 
 
 ## What to do next
@@ -95,10 +95,3 @@ In the form header, click **Follow**.
 
 [Live Feed Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/c_GetStartedWithLiveFeed.md)
 
-## Related
-
-- [[c_Collaboration|Connect Chat]]
-- [[c_Connect|Connect]]
-- [[c_WorkNotes|Work notes]]
-- [[c_CollaborationWorkspace|Connect workspace]]
-- [[attachment|Attachment]]

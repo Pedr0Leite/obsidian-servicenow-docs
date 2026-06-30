@@ -14,7 +14,7 @@ breadcrumb: [Reference, Operational Technology Manager, Operational Technology]
 
 # Edit the protection policy for an OT View Rule
 
-Edit the protection policy for an [[operational-technology-overview|Operational Technology]] \(OT\) View Rule to edit the View Rule as needed.
+Edit the protection policy for an Operational Technology \(OT\) View Rule to edit the View Rule as needed.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ Changing the **Protection policy** column value from **Read-only** to **--None--
 
 **Parent Topic:**[Operational Technology Manager reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/operational-technology-manager-reference.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]

@@ -119,7 +119,7 @@ Investment
 
 </td><td>
 
-Name of the investment created for the project. This field appears only if the legacy [[investment-funding-overview|Investment Funding]] \(com.snc.investment\_funding\) plugin is activated or the Investment Funding \(sn\_invst\_pln\) application is installed.
+Name of the investment created for the project. This field appears only if the legacy Investment Funding \(com.snc.investment\_funding\) plugin is activated or the Investment Funding \(sn\_invst\_pln\) application is installed.
 
 </td></tr><tr><td>
 
@@ -176,6 +176,3 @@ Total actual costs of the cost plan. This value is rolled up from cost breakdown
 </td></tr></tbody>
 </table>**Parent Topic:**[Demand Management forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/demand-management-forms.md)
 
-## Related
-
-- [[investment-funding-overview|Investment Funding]]

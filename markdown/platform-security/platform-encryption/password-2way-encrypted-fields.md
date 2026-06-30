@@ -16,13 +16,13 @@ breadcrumb: [Key Management Framework, Encryption]
 
 Supported by the Key Management Framework, use the Password2 \(2-way encrypted\) field type to encrypt and decrypt custom fields with segregation of duties, key protection, and life-cycle management. It works in accordance with NIST 800-57 guidelines and provides FIPS 140-2-L3 protection.
 
-Password2 is a text field that stores passwords with two-way [[encryption-landing|encryption]]. The two-way encryption stores passwords as a secure encrypted value that can be decrypted within the instance.
+Password2 is a text field that stores passwords with two-way encryption. The two-way encryption stores passwords as a secure encrypted value that can be decrypted within the instance.
 
 **Tip:** Beginning in the Vancouver release, administrators can deprecate 3DES encryption on password2 fields in favor of the newer Advanced Encryption Standard \(AES\). For details, see [Deprecate GlideEncrypter usage of 3DES for password2 fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/password2-3des-deprecation.md).
 
 ## Activation
 
-Password2 functionality is active by default. It’s controlled by the **glide.kmf.encrypter.enabled** property, which is set to **true** for all new instances and upgrades. You don’t need to enable [[now-platform-encryption|Field Encryption Enterprise]] to use Password2.
+Password2 functionality is active by default. It’s controlled by the **glide.kmf.encrypter.enabled** property, which is set to **true** for all new instances and upgrades. You don’t need to enable Field Encryption Enterprise to use Password2.
 
 ## How Password2 works
 
@@ -32,7 +32,7 @@ The Key Management Framework provides a base system parent cryptographic module 
 
 This cm\_glide\_encrypter module can have submodules, each with their own module key and specification. If a submodule is present with the same application scope as the application where the Password2 field is, the system uses the submodule. For example, if a table in the ServiceNow® Customer Service application has a submodule, and you write information to a Password2 field on a table in the Customer Service application scope, the cryptographic process calls the Customer Service submodule. The process also uses that submodule's key for encryption and decryption with a unique AES 256 GCM encryption key. One submodule per application scope is allowed. Parent module isn’t always used for global scope. Generally, new fields use instance\_level\_glide\_encrypter.
 
-**Note:** You can’t create your own submodules in Australia. Submodules are provided in various application plugins on the ServiceNow AI Platform. You can [[rotate-cust-supplied-keys|rotate keys]] on submodules, but not the parent cm\_glide\_encrypter module.
+**Note:** You can’t create your own submodules in Australia. Submodules are provided in various application plugins on the ServiceNow AI Platform. You can rotate keys on submodules, but not the parent cm\_glide\_encrypter module.
 
 ## Domain separation and on-premise customers
 
@@ -96,11 +96,5 @@ A migration job is provided for customers upgrading from previous releases. It t
 
 The KMF Password2 encryption keys in the submodule are protected \(envelope encrypted\) in the KMF key hierarchy.
 
-**Parent Topic:**[[encryption|Key Management Framework]]
+**Parent Topic:**[Key Management Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/encryption.md)
 
-## Related
-
-- [[encryption|Key Management Framework]]
-- [[encryption-landing|Encryption]]
-- [[now-platform-encryption|Field Encryption Enterprise]]
-- [[rotate-cust-supplied-keys|Rotate keys]]

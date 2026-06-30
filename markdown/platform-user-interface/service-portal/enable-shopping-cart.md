@@ -18,7 +18,7 @@ The shopping cart widget is enabled automatically for instances upgrading to Ist
 
 To enable the shopping cart for a catalog item:
 
-1.  Navigate to a catalog item on the Service Catalog page in [[c_ServicePortal|Service Portal]].
+1.  Navigate to a catalog item on the Service Catalog page in Service Portal.
 2.  CTRL+right-click a catalog item widget to open the [widget instance options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ConfigureWidgetInstances.md).
 3.  Select or clear the **Show Add Cart Button** option to enable or disable the shopping cart for that particular catalog item.
 
@@ -26,7 +26,7 @@ To enable the shopping cart for a catalog item:
 
 To enable the shopping cart in the portal header:
 
-1.  From the [[service-portal-configuration-page|Service Portal configuration page]], select the Portal editor.
+1.  From the Service Portal configuration page, select the Portal editor.
 2.  Select the SP Header Menu in the portal hierarchy.
 3.  In the **Additional options** section, make sure the enable cart value is set to **true**.
 
@@ -51,7 +51,3 @@ To enable the shopping cart in the portal header:
 
 [Enable automatic updates to the shopping cart]()
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[service-portal-configuration-page|Service Portal configuration page]]

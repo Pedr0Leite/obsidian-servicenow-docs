@@ -14,7 +14,7 @@ breadcrumb: [Dynamic Scheduling, Setting up a Field Service scheduling method, C
 
 # Set up agent schedules for dynamic scheduling
 
-[[dynamic-scheduling|Dynamic scheduling]] uses Field Service agent schedules to determine work order tasks to assign to agents. There’s an order in which dynamic scheduling checks agent schedules to see if agents are available.
+Dynamic scheduling uses Field Service agent schedules to determine work order tasks to assign to agents. There’s an order in which dynamic scheduling checks agent schedules to see if agents are available.
 
 The first place that dynamic scheduling checks for agent schedules is in the work schedule of an agent. For more information, see [Create a work schedule for agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/create-agent-work-schedule.md). If there’s a work schedule available, then that is what dynamic scheduling uses. If no work schedule exists, then dynamic scheduling checks the second place.
 
@@ -25,6 +25,3 @@ To use this value as a schedule for agents:
 1.  First, you must turn on the Allow Dynamic Scheduling to only use work schedule/WFO system property. For more information on turning on the Allow Dynamic Scheduling to only use work schedule/WFO system property, see: [Dynamic scheduling system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/dynamic-sched-system-properties.md).
 2.  Then, you must verify there’s a value for the Default Agent Work Schedule. If there’s no default agent work schedule, then you must add one. For more information on Adding a value to the Default Agent Work Schedule, see: [Add a default agent work schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/add-agent-schedule.md).
 
-## Related
-
-- [[dynamic-scheduling|Dynamic scheduling]]

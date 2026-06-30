@@ -14,7 +14,7 @@ breadcrumb: [Configure the Admin Center, Configure, Digital Portfolio Management
 
 # View relationships of business applications and service instances in the DPM Admin Center
 
-In the DPM Admin Center, you can see a comprehensive view of your business [[dex-workspace-application-tab|applications]] and service instances. You can see incidents, problems, and changes that are related to your business applications and incidents and changes that are related to your service instances.
+In the DPM Admin Center, you can see a comprehensive view of your business applications and service instances. You can see incidents, problems, and changes that are related to your business applications and incidents and changes that are related to your service instances.
 
 The relationships of business applications and service instances enable you to see a full picture of your solutions. For example, business applications consume multiple service instances. So if you set a configuration item \(CI\) for an incident, you must select the service instance that the incident belongs to. After that CI is set up, the incident rolls up to the business application that consumes that service instance. You can see all the relationships from the DPM Admin Center.
 
@@ -78,6 +78,3 @@ The relationships of business applications and service instances enable you to s
 
 [Use the Admin Center in Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-admin-center.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]

@@ -14,11 +14,11 @@ breadcrumb: [Operator phase 2: Triage an alert, Operator responsibilities, Event
 
 # Put an alert into maintenance
 
-As an [[c_EM|Event Management]] operator, you can put an alert into maintenance if the alert does not require any further action, but you still want to keep the alert active. Putting the alert into maintenance hides it from the [[workspace-dashboard-use|Service Operations Workspace]] dashboard so that other operators do not need to access it, but it does not close the alert.
+As an Event Management operator, you can put an alert into maintenance if the alert does not require any further action, but you still want to keep the alert active. Putting the alert into maintenance hides it from the Service Operations Workspace dashboard so that other operators do not need to access it, but it does not close the alert.
 
 ## Before you begin
 
-**Note:** The Operator Workspace interface is available only to customers who have upgraded from a release prior to the Utah release. New customers as of the Utah release can use the [[sow-landing-page-itom|Service Operations Workspace for ITOM]], which offers an enhanced UI for managing alerts.
+**Note:** The Operator Workspace interface is available only to customers who have upgraded from a release prior to the Utah release. New customers as of the Utah release can use the Service Operations Workspace for ITOM, which offers an enhanced UI for managing alerts.
 
 <table id="table_pp3_ttt_3db"><tbody><tr><td>
 
@@ -88,8 +88,3 @@ If you do not need to perform any other triage actions, proceed to [Phase 3: Clo
 
 **Parent Topic:**[Operator phase 2: Triage an alert](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-phase-triage-incident.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[sow-landing-page-itom|Service Operations Workspace for ITOM]]

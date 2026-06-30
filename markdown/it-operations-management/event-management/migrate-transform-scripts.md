@@ -14,7 +14,7 @@ breadcrumb: [Integrate with push connectors, Configure a push connector, Configu
 
 # Use legacy listener transform scripts
 
-Use legacy listener transform scripts when upgrading a ServiceNow AI Platform instance from Paris or earlier. These scripts can be run as part of existing integrated systems, or in unison with [[c_EM|Event Management]] push connectors.
+Use legacy listener transform scripts when upgrading a ServiceNow AI Platform instance from Paris or earlier. These scripts can be run as part of existing integrated systems, or in unison with Event Management push connectors.
 
 You can use listener transform scripts to ensure that previous integrations are supported. For example, if you are using the `https:/<instance-name>.service-now.com/api/global/em/inbound_event` endpoint in various existing integrations, you can continue to use this endpoint in a Quebec or later ServiceNow AI Platform instance.
 
@@ -34,6 +34,3 @@ If you have created custom listener transform scripts, they must be migrated to 
 
 **Parent Topic:**[Integrate with push connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-listener-transform-script.md)
 
-## Related
-
-- [[c_EM|Event Management]]

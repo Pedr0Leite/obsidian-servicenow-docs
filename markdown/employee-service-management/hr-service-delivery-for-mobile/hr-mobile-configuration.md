@@ -14,7 +14,7 @@ breadcrumb: [Activate HR Service Delivery for mobile, HR Service Delivery for mo
 
 # Configurations for the Now Mobile app for HR Service Delivery
 
-Configure options for the [[mobile-employee-experience|Now Mobile app]] for [[hr-service-delivery|HR Service Delivery]].
+Configure options for the Now Mobile app for HR Service Delivery.
 
 For more information on configuring the Now Mobile app for HR Service Delivery for:
 
@@ -24,7 +24,7 @@ For more information on configuring the Now Mobile app for HR Service Delivery f
 -   My Requests
 -   Search
     -   People search
-        -   Note: Customers that do not use the [[employee-center-landing-page|Employee Center]] \(EC\), the base system people search configuration is used. For more information, see [Mobile search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-search.md).
+        -   Note: Customers that do not use the Employee Center \(EC\), the base system people search configuration is used. For more information, see [Mobile search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-search.md).
         -   For information on AI Search, see [Configure AI Search for mobile devices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/advanced-text-search-config-now.md).
     -   Analytics and suggestions
 -   Items and services
@@ -37,8 +37,3 @@ Please see [Configurations for Now Mobile](https://raw.githubusercontent.com/Ser
 
 **Parent Topic:**[Activate HR Service Delivery for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-mobile/activate-mobile-employee-experience-for-hr-service-delivery.md)
 
-## Related
-
-- [[mobile-employee-experience|Now Mobile app]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[employee-center-landing-page|Employee Center]]

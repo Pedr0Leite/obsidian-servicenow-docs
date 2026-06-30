@@ -12,7 +12,7 @@ breadcrumb: [Playbook page templates, Playbooks in Customer Service Management, 
 
 # Playbook contextual side panel component
 
-The playbook contextual side panel component provides agents with access to tools and information such as the [[csm-config-ws-activity-stream|activity stream]], templates, and attachments.
+The playbook contextual side panel component provides agents with access to tools and information such as the activity stream, templates, and attachments.
 
 The contextual side panel component provides agents with the following functionality.
 
@@ -30,11 +30,11 @@ Activity Stream
 
 </td><td>
 
-The activity stream displays a list of activities occurring on a case record. For more information, see [[csm-playbook-activity-stream-component|Playbook activity stream component]].
+The activity stream displays a list of activities occurring on a case record. For more information, see [Playbook activity stream component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbook-activity-stream-component.md).
 
 </td></tr><tr><td>
 
-[[migration-agent-assist|Agent Assist]]
+Agent Assist
 
 </td><td>
 
@@ -46,7 +46,7 @@ Search
 
 </td><td>
 
-The Search tab includes [[ra-csm-ai-search|AI search]] functionality. Agents can use AI search to find relevant resources or resolutions for customer issues.The search feature displays an initial set of search results based on the text in the case short description. This initial set of results includes knowledge articles. Agents can also enter different search keywords and repeat the search.
+The Search tab includes [AI search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-ai-search.md) functionality. Agents can use AI search to find relevant resources or resolutions for customer issues.The search feature displays an initial set of search results based on the text in the case short description. This initial set of results includes knowledge articles. Agents can also enter different search keywords and repeat the search.
 
 From the list of search results, agents can do the following:
 
@@ -59,9 +59,9 @@ From the list of search results, agents can do the following:
     -   Perform other actions such as reading articles in full view, flagging articles, or marking articles as helpful or unhelpful.
 -   View successful actions by selecting the Actions history icon.
 
-For more information, see [[nba-use-ai-search|Use AI search in Recommended Actions to resolve cases]].
+For more information, see [Use AI search in Recommended Actions to resolve cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/nba-use-ai-search.md).
 
-**Note:** Using [[configure-nba|Recommended Actions]] in the contextual side panel requires the [[nba|Recommended Actions]] application \(sn\_cs\_nb\_action\) which is included with the [[csm-workspaces-configure|CSM Configurable Workspace]] application.
+**Note:** Using Recommended Actions in the contextual side panel requires the [Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/nba.md) application \(sn\_cs\_nb\_action\) which is included with the CSM Configurable Workspace application.
 
 </td></tr><tr><td>
 
@@ -69,11 +69,11 @@ Related Items
 
 </td><td>
 
-The Related Items tab provides access to the case-related [[migration-lists|lists]].The Case playbook: horizontal stages page incorporates related list functionality into the contextual side panel. These lists appear in an accordion format that agents can expand and collapse as needed.
+The Related Items tab provides access to the case-related lists.The Case playbook: horizontal stages page incorporates related list functionality into the contextual side panel. These lists appear in an accordion format that agents can expand and collapse as needed.
 
 An indicator displays the number of records available in a related list. When expanded, the records in a related list are displayed in card format.
 
-For more information, see [[csm-playbook-related-items-component|Playbook related items component]].
+For more information, see [Playbook related items component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbook-related-items-component.md).
 
 </td></tr><tr><td>
 
@@ -120,16 +120,3 @@ The Record Information tab includes the following cards:-   **Overview**: Displa
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[csm-playbook-activity-stream-component|Playbook activity stream component]]
-- [[ra-csm-ai-search|AI search in Recommended Actions]]
-- [[nba-use-ai-search|Use AI search in Recommended Actions to resolve cases]]
-- [[nba|Configuring Recommended Actions]]
-- [[csm-playbook-related-items-component|Playbook related items component]]
-- [[csm-config-ws-activity-stream|Activity stream]]
-- [[migration-agent-assist|Agent assist]]
-- [[configure-nba|Recommended Actions]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[migration-lists|Lists]]

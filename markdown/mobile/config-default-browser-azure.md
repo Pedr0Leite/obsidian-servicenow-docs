@@ -60,7 +60,7 @@ SNAuthenticationBrowseriOS
 
 </td><td>
 
-Enter the value for the browser to use for apps on iOS mobile devices. For more information and a list of values, see [[appconfig|AppConfig for Mobile Apps]]
+Enter the value for the browser to use for apps on iOS mobile devices. For more information and a list of values, see [AppConfig for Mobile Apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/appconfig.md)
 
 </td></tr><tr><td>
 
@@ -92,9 +92,5 @@ Enter the value to prevent end users from logging in to multiple instances simul
 7.  Select **Review + save**
 
 
-**Parent Topic:**[[intune-mdm|Intune mobile device management \(MDM\)]]
+**Parent Topic:**[Intune mobile device management \(MDM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/intune-mdm.md)
 
-## Related
-
-- [[appconfig|AppConfig for Mobile Apps]]
-- [[intune-mdm|Intune mobile device management \(MDM\)]]

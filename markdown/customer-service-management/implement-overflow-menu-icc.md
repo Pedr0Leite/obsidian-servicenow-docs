@@ -52,7 +52,7 @@ The toolbar on the active call component displays a maximum of six call control 
     Two buttons have specific conditions:
 
     -   **Supervisor Help Request** is always available from the overflow menu but is inactive when a request is active. Agents can request supervisor assistance but must end or cancel it from the modal at the top of the active call component participant section.
-    -   **Open Wrap-Up** appears only when enabled. Agents use it to complete post-[[initiate-agent-wrap-up-during-active-call|call wrap-up]] tasks.
+    -   **Open Wrap-Up** appears only when enabled. Agents use it to complete post-call wrap-up tasks.
 3.  In UI Builder, set the button order to match the sequence defined in **toolbarLayoutOrder**.
 
     Keeping both settings in sync prevents the recording button from being repositioned.
@@ -72,6 +72,3 @@ The toolbar on the active call component displays a maximum of six call control 
 
 The active call component toolbar is configured. Call control buttons that exceed the available slots are accessible from the overflow menu within the interaction record.
 
-## Related
-
-- [[initiate-agent-wrap-up-during-active-call|Call Wrap-Up]]

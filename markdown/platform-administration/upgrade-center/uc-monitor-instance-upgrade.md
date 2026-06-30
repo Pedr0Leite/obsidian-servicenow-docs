@@ -14,7 +14,7 @@ breadcrumb: [Scheduling and monitoring an upgrade, Using Upgrade Center, Upgrade
 
 # Monitor an upgrade to an instance
 
-Monitor the progress of an ongoing upgrade in an instance with the Upgrade Monitor. When the upgrade is done, you can view a summary of the [[hs-results|results]] on the [[uc-complete-summary|Upgrade Summary Report]].
+Monitor the progress of an ongoing upgrade in an instance with the Upgrade Monitor. When the upgrade is done, you can view a summary of the results on the Upgrade Summary Report.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **[[uc-landing-page|Upgrade Center]]** &gt; **Upgrade Monitor**.
+1.  Navigate to **Upgrade Center** &gt; **Upgrade Monitor**.
 
     **Note:** If an upgrade is in progress, the user is automatically directed to **Upgrade Center** &gt; **Upgrade Monitor** page.
 
@@ -37,8 +37,3 @@ Role required: admin
 
 From the Upgrade Summary Report, [resolve any conflicts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-process-skipped-records.md) that prevented the system from upgrading records.
 
-## Related
-
-- [[hs-results|Results]]
-- [[uc-complete-summary|Upgrade Summary Report]]
-- [[uc-landing-page|Upgrade Center]]

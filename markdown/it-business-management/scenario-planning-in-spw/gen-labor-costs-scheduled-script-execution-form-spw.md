@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Strategic Planning, Reference, Portfolio
 
 # Scheduled Script Execution form to generate labor costs for planning items
 
-Use the [[scheduled-script-execution-form-gf|Scheduled Script Execution form]] to enable [[generate-labor-cost-demand|Generate Labor Costs]] and Generate Labor Costs For Epic scheduler jobs for your planning items.
+Use the Scheduled Script Execution form to enable Generate Labor Costs and Generate Labor Costs For Epic scheduler jobs for your planning items.
 
 <table id="table_a2v_qyg_mp"><thead><tr><th>
 
@@ -221,7 +221,3 @@ Date and time of the first scheduled job generation. Select the calendar date an
 </td></tr></tbody>
 </table>**Parent Topic:**[Form field information for Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/form-field-information-for-strategic-planning.md)
 
-## Related
-
-- [[scheduled-script-execution-form-gf|Scheduled Script Execution form]]
-- [[generate-labor-cost-demand|Generate labor costs]]

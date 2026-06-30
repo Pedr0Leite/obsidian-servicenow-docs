@@ -22,12 +22,9 @@ Manage the behavior of suggestions that users see when typing in the input box.
 |contextual\_suggestions\_enabled|Now Assist panel users see page contextual suggestions in the autosuggest zero query when this property is set to `true`. Prerequisite: autosuggest zero query should be enabled using **homepage\_zero\_query\_ autosuggestions\_enabled**.|UI Builder Now Assist|global|
 |contextual\_suggestions\_enabled|Now Assist panel users see page contextual suggestions in the autosuggest zero query when this property is set to `true`. Prerequisite: autosuggest zero query should be enabled using **homepage\_zero\_query\_ autosuggestions\_enabled**.|AIA assistant|global|
 |homepage\_typeahead\_autosuggestions\_enabled|Users see autosuggestions when they type the first character, onwards, in the input box. The default value is `true`. When the value is set to `false`, users don’t see autosuggestions.|DC test assistant|global|
-|homepage\_ typeahead\_ autosuggestions\_enabled|Users see autosuggestions when they type the first character, onwards, in the input box. The default value is `true`. When the value is set to `false`, users don’t see autosuggestions.|Now Assist in [[virtual-agent-landing-page|Virtual Agent]] \(default\)|global|
+|homepage\_ typeahead\_ autosuggestions\_enabled|Users see autosuggestions when they type the first character, onwards, in the input box. The default value is `true`. When the value is set to `false`, users don’t see autosuggestions.|Now Assist in Virtual Agent \(default\)|global|
 |homepage\_ typeahead\_ autosuggestions\_enabled|Users see autosuggestions when they type the first character, onwards, in the input box. The default value is `true`. When the value is set to `false`, users don’t see autosuggestions.|Now Assist panel – Platform \(default\)|global|
 |homepage\_zero\_query\_ autosuggestions\_enabled|Homepage zero query autosuggestions are shown to users. The default value is `true`. When the value is set to `false`, homepage zero query autosuggestions are not shown to users.|Now Assist in Virtual Agent \(default\)|global|
 |homepage\_ zero\_query\_ autosuggestions\_enabled|Homepage zero query autosuggestions are shown to users. The default value is `true`. When the value is set to `false`, homepage zero query autosuggestions are not shown to users.|Now Assist panel – Platform \(default\)|global|
 |homepage\_zero\_query\_autosuggestions\_enabled|Homepage zero query autosuggestions are shown to users. The default value is `true`. When the value is set to `false`, homepage zero query autosuggestions are not shown to users.|DC test assistant|global|
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

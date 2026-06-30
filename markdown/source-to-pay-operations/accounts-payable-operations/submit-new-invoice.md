@@ -15,15 +15,15 @@ breadcrumb: [Working with Supplier Catalog, Using Supplier Collaboration Portal 
 
 # Submit new Invoice
 
-Submit a new PO or Non-PO invoice through the [[supplier-central|Supplier Collaboration Portal]] to request payment from the accounts payable team.
+Submit a new PO or Non-PO invoice through the Supplier Collaboration Portal to request payment from the accounts payable team.
 
 ## Before you begin
 
-Role required: [[supplier|Supplier]]
+Role required: Supplier
 
 ## Procedure
 
-1.  Navigate to **Supplier Catalog** &gt; **[[invoices|Invoices]]** &gt; **Submit new invoice**.
+1.  Navigate to **Supplier Catalog** &gt; **Invoices** &gt; **Submit new invoice**.
 
 2.  On the **Submit new invoice** form, enter the following details.
 
@@ -41,8 +41,8 @@ Description
 
 </td><td>
 
-Invoice type- Choose the invoice type for processing from the drop-down list. The options are:-   PO invoice- The **[[purchase-order-table|Purchase order]]** drop-down appears. Choose the purchase order from the drop-down that you would like to associate with the invoice.
--   Non-PO invoice- Browse and attach the invoice for the [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] team to create an invoice processing case.
+Invoice type- Choose the invoice type for processing from the drop-down list. The options are:-   PO invoice- The **Purchase order** drop-down appears. Choose the purchase order from the drop-down that you would like to associate with the invoice.
+-   Non-PO invoice- Browse and attach the invoice for the Accounts Payable Operations team to create an invoice processing case.
 
 **Note:**
 
@@ -50,7 +50,7 @@ Invoice type- Choose the invoice type for processing from the drop-down list. Th
     -   If you select Invoice type as PO invoice and enter purchase order number but Doc Intel is unable to extract the purchase order details, then the purchase order that you selected from the **Purchase order** drop-down list will be considered and processed.
 For more information on invoice case, see [Create New Invoice form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-new-invoice-form.md).
 
-Supplier- Displays the name of the supplier associated with the [[supplier-contact|supplier contact]] based on your selection from the **My Company**tab. The **Purchase order** drop-down lists the details associated with the selected supplier.
+Supplier- Displays the name of the supplier associated with the supplier contact based on your selection from the **My Company**tab. The **Purchase order** drop-down lists the details associated with the selected supplier.
 
 </td></tr></tbody>
 </table>3.  Click **Submit**.
@@ -62,11 +62,3 @@ Supplier- Displays the name of the supplier associated with the [[supplier-conta
 
 **Parent Topic:**[Working with Supplier Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/working-with-supplier-catalog.md)
 
-## Related
-
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[supplier|Supplier]]
-- [[invoices|Invoices]]
-- [[purchase-order-table|Purchase order]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[supplier-contact|Supplier contact]]

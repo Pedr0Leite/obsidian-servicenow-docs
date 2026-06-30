@@ -18,7 +18,7 @@ This accelerator assesses your current IT Operations Management \(ITOM\) proc
 
 ## Accelerator Overview
 
-IT Operations Management \(ITOM\) Maturity Assessment provides [[impact-landing-page|Impact]] customers with prescriptive recommendations based on a structured assessment conducted by key stakeholders within the customer’s business. By offering customers a snapshot of their current process maturity and targeted next-step recommendations, this accelerator helps maximize the value of their ServiceNow investment.
+IT Operations Management \(ITOM\) Maturity Assessment provides Impact customers with prescriptive recommendations based on a structured assessment conducted by key stakeholders within the customer’s business. By offering customers a snapshot of their current process maturity and targeted next-step recommendations, this accelerator helps maximize the value of their ServiceNow investment.
 
 ## Package Availability
 
@@ -34,7 +34,7 @@ IT Operations Management \(ITOM\) Maturity Assessment provides [[impact-landing-
 
     Your assessment participants will each be asked to independently fill out a pre-built ITOM Maturity Assessment Questionnaire that asks them to grade targeted statements to assess gaps and opportunities with your ITOM deployment.
 
--   **Questionnaire Results Analysis \(time as needed determined by the [[impact-squad|Impact Squad]]\)**
+-   **Questionnaire Results Analysis \(time as needed determined by the Impact Squad\)**
 
     The Impact Squad performs the following:
 
@@ -54,7 +54,7 @@ IT Operations Management \(ITOM\) Maturity Assessment provides [[impact-landing-
     -   Review ITOM Maturity Assessment report:
         -   Present the assessment results
         -   Discuss targeted recommendation
-        -   Provide a suggested plan and resources to [[io-help|help]] you decide which recommendations to implement
+        -   Provide a suggested plan and resources to help you decide which recommendations to implement
 -   **Follow-up customer session \(optional on Customer request– up to 1 hour\)**
     -   Review Customer progress
     -   Identify additional resources to achieve Customer goals
@@ -140,8 +140,3 @@ We request that the Customer completes the online ITOM Maturity questionnaire at
 -   Assessment of other EWF capabilities beyond ITOM is not included.
 -   ServiceNow is not responsible for implementing the recommendations made based on the ITOM Maturity Assessment.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[impact-squad|Impact Squad]]
-- [[io-help|Help]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, Legal Simple Contracts, Legal Service Delivery Practice 
 
 # Install Legal Simple Contracts
 
-You can install the [[legal-simple-contracts-landing-page|Legal Simple Contracts]] application \(sn\_lg\_contracts\) if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Legal Simple Contracts application \(sn\_lg\_contracts\) if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -55,6 +55,3 @@ For more information, see [Components installed with Legal Simple Contracts](htt
 
 **Parent Topic:**[Configure Legal Simple Contracts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/setting-up-legal-contracts.md)
 
-## Related
-
-- [[legal-simple-contracts-landing-page|Legal Simple Contracts]]

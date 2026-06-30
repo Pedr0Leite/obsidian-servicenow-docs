@@ -25,7 +25,7 @@ Verify that you have:
 
 ## About this task
 
-AWS KMS keys can have different statuses that control whether they can be used for [[encryption-landing|encryption]] and decryption operations. Changing a key's status in AWS affects your ability to encrypt new data and decrypt existing data in External Key Management Service \(EKMS\). A background synchronization job updates EKMS with the current AWS key status every 30 minutes.
+AWS KMS keys can have different statuses that control whether they can be used for encryption and decryption operations. Changing a key's status in AWS affects your ability to encrypt new data and decrypt existing data in External Key Management Service \(EKMS\). A background synchronization job updates EKMS with the current AWS key status every 30 minutes.
 
 **Important:** Key status changes have immediate security and operational impacts. Coordinate all key status changes with your ServiceNow administrators and application teams before making changes.
 
@@ -45,19 +45,19 @@ AWS KMS keys can have different statuses that control whether they can be used f
 
 5.  Verify the key status updated in EKMS.
 
-    See [[ekms-check-key-status|Check External Key Management Service key status]].
+    See [Check External Key Management Service key status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ekms-check-key-status.md).
 
     The AWS key status is synchronized with EKMS.
 
 
 ## Result
 
-The new status is reflected in your EKMS [[sc-configuration|configuration]], and encryption and decryption operations behave according to the new key status.
+The new status is reflected in your EKMS configuration, and encryption and decryption operations behave according to the new key status.
 
 When you disable a key in AWS, ServiceNow provides multiple notifications to alert administrators:
 
 -   The External Key Status field changes to "Disabled" on the EKMS Configuration page.
--   A high-priority security task is automatically created in [[sec-center-v2|Security Center]] notifying administrators that the EKMS key was disabled. To view notifications, navigate to **All** &gt; **Security Center** &gt; **Overview**. See [Security Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sec-center-v2.md).
+-   A high-priority security task is automatically created in Security Center notifying administrators that the EKMS key was disabled. To view notifications, navigate to **All** &gt; **Security Center** &gt; **Overview**. See [Security Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sec-center-v2.md).
 
 While the key is disabled, you can't encrypt or decrypt data in encrypted fields. You can still create records if the encrypted field isn't a required field, and you can update non-encrypted fields in existing records. All cryptographic operations are blocked until the key is re-enabled in AWS.
 
@@ -74,23 +74,14 @@ Important considerations after changing key status:
 
 AWS requires a minimum 7-day waiting period for key deletion. During this period, the key status shows as "Pending deletion" in both AWS and EKMS. Keys can't be used while pending deletion. After seven days, the key is permanently deleted and can't be recovered. All data encrypted with a deleted key becomes permanently inaccessible.
 
-**Parent Topic:**[[ekms-using-external-key-management|Using External Key Management Service]]
+**Parent Topic:**[Using External Key Management Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ekms-using-external-key-management.md)
 
 **Related topics**  
 
 
-[[ekms-external-key-management|External Key Management Service]]
+[External Key Management Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ekms-external-key-management.md)
 
-[[ekms-configure-external-key-definition|Configure an external key definition]]
+[Configure an external key definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ekms-configure-external-key-definition.md)
 
 [Check External Key Management Service Key Status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ekms-check-key-status.md)
 
-## Related
-
-- [[ekms-check-key-status|Check External Key Management Service Key Status]]
-- [[ekms-using-external-key-management|Using External Key Management Service]]
-- [[ekms-external-key-management|External Key Management Service]]
-- [[ekms-configure-external-key-definition|Configure an external key definition]]
-- [[encryption-landing|Encryption]]
-- [[sc-configuration|Configuration]]
-- [[sec-center-v2|Security Center]]

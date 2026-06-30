@@ -26,7 +26,7 @@ You can associate a change request to a phase only once, although it can be adde
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[dpr-workspace|Digital Product Release Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Digital Product Release Workspace**.
 
 2.  Select the releases icon \(\[Omitted image "dpr-icon-release.png"\] Alt text: Releases icon.\).
 
@@ -57,7 +57,7 @@ Steps
 1.  In the **Change requests** tab, select **New**.
 2.  Select a Change request model and then select **Next**.
 
-When product-level release [[settings-mobile|settings]] are configured for the product, only the change [[c_Models|models]] and standard [[change-templates|change templates]] defined in the settings are available for selection. If no change models are configured in the product settings, all available models are displayed. For more information, see [Configure product-level release settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-config-product-release-setting.md).
+When product-level release settings are configured for the product, only the change models and standard change templates defined in the settings are available for selection. If no change models are configured in the product settings, all available models are displayed. For more information, see [Configure product-level release settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-config-product-release-setting.md).
 
 3.  Fill in the details in the Change Request form and select **Save**.
 
@@ -102,9 +102,3 @@ The list displays existing change requests, filtered by change models and standa
 
 **Parent Topic:**[Manage releases for digital products and services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-manage-releases.md)
 
-## Related
-
-- [[dpr-workspace|Digital Product Release Workspace]]
-- [[settings-mobile|Settings]]
-- [[c_Models|Models]]
-- [[change-templates|Change templates]]

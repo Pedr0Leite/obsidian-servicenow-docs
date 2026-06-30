@@ -12,7 +12,7 @@ breadcrumb: [Grants Management Portal, Portals, Use, Public Sector Digital Servi
 
 # Apply for a grant using the Grants Management Portal in the Grants Management
 
-As an applicant, complete the Grants Program intake as your first step in submitting a grant proposal. You can access grants programs through [[psds-gmp-overview|Grants Management Portal]].
+As an applicant, complete the Grants Program intake as your first step in submitting a grant proposal. You can access grants programs through Grants Management Portal.
 
 ## Before you begin
 
@@ -81,6 +81,4 @@ In this stage, an applicant initiates a case for a proposal under a specific Gra
 
     The case is moved to the **Review** stage, and the **Intake** stage is marked complete.
 
-## Related
 
-- [[psds-gmp-overview|Grants Management Portal]]

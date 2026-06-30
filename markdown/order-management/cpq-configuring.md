@@ -12,9 +12,5 @@ breadcrumb: [Configure, price, quote apps, Configure, Sales Customer Relationshi
 
 # Configuring CPQ with basic and advanced features
 
-Learn how to set up products, [[rules_101|rules]], pricing, and [[layouts|layouts]] in ServiceNow CPQ using configuration engine. You can define how users select, customize, and validate products during the quoting process.
+Learn how to set up products, rules, pricing, and layouts in ServiceNow CPQ using configuration engine. You can define how users select, customize, and validate products during the quoting process.
 
-## Related
-
-- [[rules_101|Rules]]
-- [[layouts|Layouts]]

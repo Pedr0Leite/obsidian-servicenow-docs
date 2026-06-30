@@ -12,7 +12,7 @@ breadcrumb: [List screen, Mobile screen types, Mobile screens, Mobile app compon
 
 # Configure a dynamic screen name for a list screen
 
-Configure a screen to dynamically inherit a name from a parametrized [[list-screen|list screen]]. This setup enables users to view a passed parameter as the screen name instead of the screen record name.
+Configure a screen to dynamically inherit a name from a parametrized list screen. This setup enables users to view a passed parameter as the screen name instead of the screen record name.
 
 ## Before you begin
 
@@ -59,7 +59,7 @@ Role required: admin
 
     4.  Click **Submit**.
 
-5.  [[sg-studio-configure-applet-screens|Create a screen]] UI element and map it to the screen type.
+5.  Create a screen UI element and map it to the screen type.
 
     1.  Click the **Screen UI element mappings** tab.
 
@@ -96,7 +96,3 @@ The screen name dynamically inherits a value from the redirection parameter.
 
 \[Omitted image "dynamic-name-redirection-parameter.png"\] Alt text: Dynamic screen name displayed from redirection parameter.
 
-## Related
-
-- [[list-screen|List screen]]
-- [[sg-studio-configure-applet-screens|Create a screen]]

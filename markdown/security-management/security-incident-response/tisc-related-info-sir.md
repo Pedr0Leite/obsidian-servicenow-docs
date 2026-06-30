@@ -14,7 +14,7 @@ breadcrumb: [Working with TISC Context, TISC integration within SIR Workspace, W
 
 # View related info from TISC
 
-Use this section to view the related info such as related [[threat-actors|threat actors]], [[attack-patterns|attack patterns]], [[threat-intelligence-campaigns|campaigns]], and cases from TISC in [[sir-workspace-landing-page|Security Incident Response Workspace]].
+Use this section to view the related info such as related threat actors, attack patterns, campaigns, and cases from TISC in Security Incident Response Workspace.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ Role required: sn\_si.analyst
 
     Within the incident details, you can view related information in several sections.
 
-    1.  Select one or more [[c_Observables|observables]].
+    1.  Select one or more observables.
 
     2.  Select **View Related Info** button to view the related observables information.
 
@@ -50,10 +50,3 @@ Role required: sn\_si.analyst
 
 **Parent Topic:**[Working with TISC Context](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/working-with-tisc-context.md)
 
-## Related
-
-- [[threat-actors|Threat actors]]
-- [[attack-patterns|Attack patterns]]
-- [[threat-intelligence-campaigns|Campaigns]]
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[c_Observables|Observables]]

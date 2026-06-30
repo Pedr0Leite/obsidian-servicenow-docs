@@ -28,7 +28,7 @@ The landing page provides a real-time overview of the current workload and the t
 
 -   KPIs: Today's cases, This week's case volume by status, Open cases by service, Last updated open cases by age \(No of days\)
 -   Closed cases - SLA met vs. SLA breached: Open case by backlog \(line graph of closed cases\), Open case by age \(graph of 10-15 days, 15-30 days, more than 30 days\)
--   Approvals: You can see the list of approvals of [[config-w-daytimeoff|time offs]].
+-   Approvals: You can see the list of approvals of time offs.
 
 ## Scheduling
 
@@ -79,11 +79,7 @@ Using Coaching, you can also:
 -   Use coaching opportunities to create assessments.
 -   Track training assigned to agents based on their assessments.
 -   Analyze the skill gap and recommend training.
--   Managers can assign courses to agents from third-party [[exploring-learning-exp|learning]] management systems \(LMS\), such as Udemy, Pluralsight, and Cornerstone OnDemand.
+-   Managers can assign courses to agents from third-party learning management systems \(LMS\), such as Udemy, Pluralsight, and Cornerstone OnDemand.
 
 For more information, see [Coaching in Workforce Optimization for HR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/using-coaching-wfo-hr.md)
 
-## Related
-
-- [[config-w-daytimeoff|Time offs]]
-- [[exploring-learning-exp|Learning]]

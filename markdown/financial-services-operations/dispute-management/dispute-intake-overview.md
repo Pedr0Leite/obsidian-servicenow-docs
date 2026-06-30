@@ -18,7 +18,7 @@ The dispute intake process is designed to capture the relevant information requi
 
 ## About dispute intake form
 
-The dispute intake form is designed to gather all necessary information before submitting a claim to the card network or [[process-dispute-ach|processing an ACH dispute]]. The field questionnaire includes a variety of questions that help identify the dispute reason code based on the case type and responses to specific questions such as "Did you authorize this transaction?".
+The dispute intake form is designed to gather all necessary information before submitting a claim to the card network or processing an ACH dispute. The field questionnaire includes a variety of questions that help identify the dispute reason code based on the case type and responses to specific questions such as "Did you authorize this transaction?".
 
 The Event Inquiry application provides a comprehensive overview of the events that led to the dispute. To understand how the Event Inquiry application works and how to customize the dispute intake form, see [Configure intake questionnaire](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/configuring-additional-questions-for-dispute-intake.md).
 
@@ -41,7 +41,7 @@ Key tables in Event Inquiry include:
 
 ## Questionnaire data model
 
-The Dispute Intake form has been extended into the Dispute Intake table. The table includes both cardholder and agent related questions, while the Dispute Cardholder Intake table addresses cardholder-related questions. These tables are available in [[card-ops-landing-page|Financial Services Card Operations]].
+The Dispute Intake form has been extended into the Dispute Intake table. The table includes both cardholder and agent related questions, while the Dispute Cardholder Intake table addresses cardholder-related questions. These tables are available in Financial Services Card Operations.
 
 \[Omitted image "questionnaire-data-model.png"\] Alt text: Shows the questionnaire data model tables.
 
@@ -70,7 +70,3 @@ Create a card disputes case request from the Customer or Consumer Service Portal
 
 **Parent Topic:**[Managing dispute service requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/managing-card-disputes.md)
 
-## Related
-
-- [[process-dispute-ach|Processing an ACH dispute]]
-- [[card-ops-landing-page|Financial Services Card Operations]]

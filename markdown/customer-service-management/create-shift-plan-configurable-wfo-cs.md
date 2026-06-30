@@ -113,8 +113,5 @@ You can view the name of the primary agent for each on-call shift on the shift c
 </table>6.  Click **Submit**.
 
 
-**Parent Topic:**[[scheduling-configurable-wfo-cs|Scheduling in Workforce Optimization for Customer Service]]
+**Parent Topic:**[Scheduling in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/scheduling-configurable-wfo-cs.md)
 
-## Related
-
-- [[scheduling-configurable-wfo-cs|Scheduling in Workforce Optimization for Customer Service]]

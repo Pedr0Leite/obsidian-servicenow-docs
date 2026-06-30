@@ -14,7 +14,7 @@ breadcrumb: [Managing course and catalog content, Learning Core, HR Service Deli
 
 # Create a learning task
 
-Assign a [[exploring-learning-exp|learning]] task to an employee that can be completed from the To-dos page in [[employee-center-landing-page|Employee Center]].
+Assign a learning task to an employee that can be completed from the To-dos page in Employee Center.
 
 ## Before you begin
 
@@ -50,7 +50,3 @@ Role required: sn\_lc.task\_creator
 
 [Learning task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/learning-task-form.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[employee-center-landing-page|Employee Center]]

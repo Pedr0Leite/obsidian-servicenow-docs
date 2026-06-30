@@ -14,7 +14,7 @@ breadcrumb: [Using the Conversational Analytics Dashboard, Conversational Analyt
 
 # Custom Events tab
 
-Use the Custom Events tab to view the list of custom events created for [[virtual-agent-landing-page|Virtual Agent]].
+Use the Custom Events tab to view the list of custom events created for Virtual Agent.
 
 To use the Custom Events tab, you must have the Chat Analytics Viewer \(chat\_analytics\_viewer\) role.
 
@@ -26,6 +26,3 @@ Use the drop-down list to specify the custom event you want view analytics for.
 
 **Parent Topic:**[Using the Conversational Analytics Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/use-the-dashboard-overview-pae.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

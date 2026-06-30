@@ -50,7 +50,7 @@ To modify your settings, navigate to **All** **&gt; Issue Auto Resolution****&gt
 
 |Setting|Definition|
 |-------|----------|
-|Apply AI Search|AI search results that are delivered if relevant [[virtual-agent-landing-page|Virtual Agent]] topics aren't found.|
+|Apply AI Search|AI search results that are delivered if relevant Virtual Agent topics aren't found.|
 |Search application|Detailed AI search settings, including the search source, number of search results to retrieve, and more.|
 |Search results portal|Portal to be used in links while delivering recommendations to the users on any response channel.|
 |AI Search display topic|Virtual Agent topic that performs AI search and presents the results.|
@@ -191,6 +191,3 @@ Duration that an issue is assigned to the Issue Auto Resolution application befo
 
 **Parent Topic:**[Using Issue Auto Resolution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/auto-resolution-va.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

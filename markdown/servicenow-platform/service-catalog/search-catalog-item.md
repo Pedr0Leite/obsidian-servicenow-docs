@@ -14,7 +14,7 @@ breadcrumb: [Configure search and navigation, Service catalog home page configur
 
 # Configure keyword search for catalog items
 
-When you search for a catalog item by a keyword in [[service-catalog|Service Catalog]], the search results are displayed by considering a few fields of the catalog table.
+When you search for a catalog item by a keyword in Service Catalog, the search results are displayed by considering a few fields of the catalog table.
 
 ## Before you begin
 
@@ -80,6 +80,3 @@ The search results are sorted in the following order based on the frequency of t
 
 [Define a content item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_AddingContentItemServiceCatalog.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]

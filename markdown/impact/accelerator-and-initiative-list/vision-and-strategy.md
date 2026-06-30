@@ -22,7 +22,7 @@ Guidance on building a ServiceNow vision and strategy
 
 ### Overview
 
-Vision &amp; Strategy provides [[impact-landing-page|Impact]] Customers with leading practices content and prescriptive guidance to draft a ServiceNow vision and strategy for their organization that aligns with their strategic priorities, digital transformation efforts, and business outcomes.
+Vision &amp; Strategy provides Impact Customers with leading practices content and prescriptive guidance to draft a ServiceNow vision and strategy for their organization that aligns with their strategic priorities, digital transformation efforts, and business outcomes.
 
 ### What you get
 
@@ -80,7 +80,7 @@ Vision &amp; Strategy provides Impact Customers with leading practices content a
     Discuss:
 
     -   Run exercises to determine a vision statement for Customer’s investment in ServiceNow
-    -   Run exercises to agree upon key strategic business drivers that [[io-help|help]] deliver against Customer’s ServiceNow vision
+    -   Run exercises to agree upon key strategic business drivers that help deliver against Customer’s ServiceNow vision
     -   Run exercises to establish key business outcomes and KPIs that will measure progress against key strategic business drivers
 -   **Vision &amp; Strategy Deliverables**
     -   Workshop slides
@@ -104,15 +104,10 @@ Vision &amp; Strategy provides Impact Customers with leading practices content a
 -   Organizational strategy documents
 -   Existing planning documents \(e.g., capability maps, product roadmaps\)
 -   Business KPIs
--   Current state [[architecture-blueprint|architecture blueprint]]
+-   Current state architecture blueprint
 -   Details on the existing partner landscape
 
 ### Exceptions
 
 ServiceNow is not responsible for execution of vision and strategy.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[io-help|Help]]
-- [[architecture-blueprint|Architecture Blueprint]]

@@ -14,7 +14,7 @@ breadcrumb: [Project workspace classic - Legacy, Project Portfolio Management, S
 
 # Create and manage resource plans for a project in classic Project Workspace
 
-As a resource requester, find the availability of the resources, and create and manage the [[c_ResourcePlans|resource plans]] for the project and [[t_CreateAProjectTask|project tasks]] in the [[project-workspace-landing-page|project workspace]].
+As a resource requester, find the availability of the resources, and create and manage the resource plans for the project and project tasks in the project workspace.
 
 **Important:**
 
@@ -32,7 +32,7 @@ The **Resources** tab in project workspace shows the resource plans for the sele
 
     It is the top section on the page that enables you to:
 
-    -   Create resource plans for the project or its tasks. You can [[t_CreateResourcePlanProjectTask|create a resource plan]] at a group, role, or user level.
+    -   Create resource plans for the project or its tasks. You can create a resource plan at a group, role, or user level.
     -   View and manage all the resource plans for the open project and its tasks in one place.
     -   View resource allocations for each resource plan in a grid view.
     Use the grid view in the tab to:
@@ -43,7 +43,7 @@ The **Resources** tab in project workspace shows the resource plans for the sele
     -   Request, confirm, or allocate a resource plan.
     -   Move a resource plan and its allocations to a future date for a group, role, or user resource plan.
     -   Replace a user with another user for a group, role, or user resource plan to accommodate situations like a user taking leave during a project.
-    -   [[request-extension-allocated-resource-plan|Request extension of an allocated resource plan]].
+    -   Request extension of an allocated resource plan.
     -   Shift allocation of a user to a future date for a group or role resource plan.
     -   Identify the resource plans created with specific members preference by viewing the **Resource plan created with specific members** icon \(\[Omitted image "specificmember\_allocation\_wb\_grid.png"\] Alt text: Icon for resource plans created with specific members preference\) next to the resource plans.
 -   **Resource Finder**
@@ -59,7 +59,7 @@ The **Resources** tab in project workspace shows the resource plans for the sele
     -   Identify resources that are created as specific members for a resource plan by viewing the **Member specified in the resource plan** icon \(\[Omitted image "specificmember\_allocation\_wb\_grid.png"\] Alt text: Icon for resources created as specific members\) next to the resources.
     -   View the Resource Availability and Resource Capacity grids by clicking on a capacity or availability column.
 
-        You can view the user and [[r_AllocatingResources|resource allocation]] details in a pop-up window by selecting the **User** and **Allocated Hours** columns respectively in the **Resource Availability** grid.
+        You can view the user and resource allocation details in a pop-up window by selecting the **User** and **Allocated Hours** columns respectively in the **Resource Availability** grid.
 
 
 When you select a resource plan in the resource grid section, the availability details of that resource are displayed in the resource finder section. For example, if a group resource plan is selected, the availability details of the group and its members are displayed in the Finder section. When you change the selection, the finder is automatically updated based on the current selection.
@@ -82,17 +82,8 @@ When you select a resource plan in the resource grid section, the availability d
     -   To edit the planned and allocated hours inline in the grid, double-click a row. You can update the planned hours for future period for resource plans in Requested, Confirmed, and Allocated state.
     -   To view and update resource plan details in a form, click the information icon \( \[Omitted image "informationicon.png"\] Alt text: Information icon \) in the beginning of the resource plan row.
     -   To request a resource plan in the **Actions** column, click the actions icon \(\[Omitted image "ellipsis-vertical-icon.png"\] Alt text: Actions icon \) and select **Request**.
-    -   To [[t_DeleteAResourcePlan|delete a resource plan]] in the **Actions** column, click the actions icon \(\[Omitted image "ellipsis-vertical-icon.png"\] Alt text: Actions icon \) and select **Delete**.
+    -   To delete a resource plan in the **Actions** column, click the actions icon \(\[Omitted image "ellipsis-vertical-icon.png"\] Alt text: Actions icon \) and select **Delete**.
     -   To request all the resource plans created for the project in the **Actions** column, click the actions icon \(\[Omitted image "ellipsis-vertical-icon.png"\] Alt text: Actions icon\) in the project row and select **Request All**. The icon is enabled when at least one of the listed resource plans for the project is in the Planning or Rejected state.
 
 **Parent Topic:**[Project workspace classic - Legacy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/project-workspace-classic.md)
 
-## Related
-
-- [[c_ResourcePlans|Resource plans]]
-- [[t_CreateAProjectTask|Project tasks]]
-- [[project-workspace-landing-page|Project Workspace]]
-- [[t_CreateResourcePlanProjectTask|Create a resource plan]]
-- [[request-extension-allocated-resource-plan|Request extension of an allocated resource plan]]
-- [[r_AllocatingResources|Resource allocation]]
-- [[t_DeleteAResourcePlan|Delete a resource plan]]

@@ -28,7 +28,7 @@ To learn more about using the Now Assist panel, see [Working in the Now Assist p
 
 1.  Use either of the following methods to start the process.
 
-    -   While working in the [[sg-workspace|Service Graph Workspace]] orCMDB Workspace, select **Provide advice on CMDB governance** in the Quick Links section.
+    -   While working in the Service Graph Workspace orCMDB Workspace, select **Provide advice on CMDB governance** in the Quick Links section.
     -   While working in the Service Graph Workspace orCMDB Workspace, select the Now Assist icon \[Omitted image "ai-sparkle-cmdb.png"\] and then enter `Provide advice on CMDB governance`.
 2.  Enter the class of CI to create and then continue by answering the Now Assist questions.
 
@@ -40,6 +40,3 @@ To learn more about using the Now Assist panel, see [Working in the Now Assist p
 
 [Property settings for Now Assist for CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/na-data-fdn-properties.md)
 
-## Related
-
-- [[sg-workspace|Service Graph Workspace]]

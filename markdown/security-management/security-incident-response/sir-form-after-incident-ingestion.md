@@ -20,7 +20,7 @@ After the ServiceNow AI Platform ingests the Microsoft Azure Sentinel incident, 
 
 Microsoft has extended the deprecation of the Azure Sentinel experience in the Azure portal from March 2026 to March 2027.
 
-If you are currently using the Azure Sentinel integration with [[sir-landing-page|Security Incident Response]] \(SIR\), we strongly recommend migrating to the new Defender portal integration as soon as possible. The Defender integration includes a built-in migration utility that automatically converts your existing Sentinel profiles into Defender profiles, while ensuring continuity of incidents created through Sentinel after the transition. For more information, see [Microsoft Sentinel to Defender Migration Guide](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2795226).
+If you are currently using the Azure Sentinel integration with Security Incident Response \(SIR\), we strongly recommend migrating to the new Defender portal integration as soon as possible. The Defender integration includes a built-in migration utility that automatically converts your existing Sentinel profiles into Defender profiles, while ensuring continuity of incidents created through Sentinel after the transition. For more information, see [Microsoft Sentinel to Defender Migration Guide](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2795226).
 
 ## Work notes
 
@@ -52,6 +52,3 @@ To view the alerts that are associated with the Sentinel Incident that triggered
 
 \[Omitted image "azure-sentinel-alerts.png"\] Alt text: Alerts that are associated with the Sentinel incident that triggered the security incident.
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]

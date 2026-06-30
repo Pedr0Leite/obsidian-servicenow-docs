@@ -14,7 +14,7 @@ breadcrumb: [Configuring Service Mapping, Service Mapping, ITOM Visibility, IT O
 
 # Create a discovery behavior for Unix-based load balancers
 
-If your network uses load balancers running on Linux hosts, [[create-disco-behavior|create a discovery behavior]] to ensure that [[c_ServiceMappingOverview|Service Mapping]] and [[r-discovery|Discovery]] discover them correctly.
+If your network uses load balancers running on Linux hosts, create a discovery behavior to ensure that Service Mapping and Discovery discover them correctly.
 
 ## Before you begin
 
@@ -158,8 +158,3 @@ Determines the run schedule of the discovery. Configure the frequency in the **R
 
 [MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server-landing.md)
 
-## Related
-
-- [[create-disco-behavior|Create a Discovery behavior]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]

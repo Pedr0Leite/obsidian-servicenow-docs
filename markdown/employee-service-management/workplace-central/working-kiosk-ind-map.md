@@ -14,7 +14,7 @@ breadcrumb: [Use, Workplace Central, Workplace Service Delivery, Employee Servic
 
 # Working with Kiosk Indoor Mapping
 
-Create indoor maps and configure map elements for [[workplace-services-kiosk|Workplace Services Kiosk]].
+Create indoor maps and configure map elements for Workplace Services Kiosk.
 
 1.  [Configure map features for kiosk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/config-map-features.md)  
 Configure map features such as actions and data visualization for the kiosk.
@@ -44,6 +44,3 @@ Create a module for the kiosk to decide the flow for the kiosk.
 
 [Working with Case management]()
 
-## Related
-
-- [[workplace-services-kiosk|Workplace Services Kiosk]]

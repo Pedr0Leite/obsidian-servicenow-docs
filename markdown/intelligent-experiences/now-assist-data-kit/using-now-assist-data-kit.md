@@ -14,7 +14,7 @@ breadcrumb: [Now Assist Data Kit, Enable AI experiences]
 
 # Using Now Assist Data Kit
 
-Use [[now-assist-data-kit-landing|Now Assist Data Kit]] to add [[ai-datasets|datasets]] to a data catalog to create collections for use in ServiceNow SDK.
+Use Now Assist Data Kit to add datasets to a data catalog to create collections for use in ServiceNow SDK.
 
 ## Overview of Now Assist Data Kit
 
@@ -22,7 +22,7 @@ Use [[now-assist-data-kit-landing|Now Assist Data Kit]] to add [[ai-datasets|dat
 
 1.  [Create a skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/create-new-skill.md)
 
-    Create a custom skill for [[platform-now-assist-landing|Now Assist]]. Creating a custom skill enables you to have greater flexibility with the Now Assist generative AI capabilities.
+    Create a custom skill for Now Assist. Creating a custom skill enables you to have greater flexibility with the Now Assist generative AI capabilities.
 
 2.  [Configure skill deployment settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/configure-skill-settings.md)
 
@@ -30,8 +30,3 @@ Use [[now-assist-data-kit-landing|Now Assist Data Kit]] to add [[ai-datasets|dat
 
 3.  Navigate to **Now Assist Data Kit** to [Add a dataset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-data-kit/add-dataset.md).
 
-## Related
-
-- [[now-assist-data-kit-landing|Now Assist Data Kit]]
-- [[ai-datasets|Datasets]]
-- [[platform-now-assist-landing|Now Assist]]

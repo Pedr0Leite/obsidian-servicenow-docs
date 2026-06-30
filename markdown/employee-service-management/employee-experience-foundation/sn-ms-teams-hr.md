@@ -14,7 +14,7 @@ breadcrumb: [Integration for Employee Experience, Explore, ServiceNow for Micros
 
 # HR Service Delivery integration with Microsoft Teams and Microsoft 365
 
-[[hr-service-delivery|HR Service Delivery]] integration with Microsoft Teams extends the Now Virtual Agent integration with Microsoft Teams to enable employees to more effectively request and receive service from within Microsoft Teams.
+HR Service Delivery integration with Microsoft Teams extends the Now Virtual Agent integration with Microsoft Teams to enable employees to more effectively request and receive service from within Microsoft Teams.
 
 The HR Service Delivery integration with Microsoft Teams application extends the [Now Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent-landing-page.md) integration and includes the following additional capabilities:
 
@@ -22,7 +22,7 @@ The HR Service Delivery integration with Microsoft Teams application extends the
 
     Ticket comments: Employees are able to respond to notifications on the tickets from within Microsoft Teams.
 
-    This `respond_to_comment_notification_inclusion_list_for_hr` property specifies the HR tables for which the **Respond to Comments** notification triggers. &lt;[[hr-service-administration|HR services]]&gt;
+    This `respond_to_comment_notification_inclusion_list_for_hr` property specifies the HR tables for which the **Respond to Comments** notification triggers. &lt;HR services&gt;
 
     -   sn\_hr\_core\_case\_total\_rewards
     -   sn\_hr\_core\_case\_global\_mobility
@@ -45,7 +45,7 @@ The HR Service Delivery integration with Microsoft Teams application extends the
 
     -   sn\_now\_teams\_hr.hr\_case\_allow\_list\_for\_teams\_chat\_actions
 
-        This system property contains the list of HR Case tables for which "Start Chat" and "Import Messages" UI Action. By default, this list does not include highly sensitive HR Cases such as "[[hr-case-employee-relations|Employee Relations]]", "Investigation", and "Ethics" cases.
+        This system property contains the list of HR Case tables for which "Start Chat" and "Import Messages" UI Action. By default, this list does not include highly sensitive HR Cases such as "Employee Relations", "Investigation", and "Ethics" cases.
 
     -   sn\_now\_teams\_hr.respond\_to\_comment\_notification\_inclusion\_list\_for\_hr
 
@@ -65,7 +65,7 @@ You must perform the following activities to integrate HR Service Delivery with 
 1.  [Install HR Service Delivery integration with Microsoft Teams application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/install-hr-ms-teams-plugin.md)
 2.  [Setting up the ServiceNow instance for Microsoft Teams integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-tenants.md)
 
-To [[sn-ms-teams-config-hr|configure HR Service Delivery integration with Microsoft Teams]] in ServiceNow instance, see [Configure HR Service Delivery integration with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/sn-ms-teams-config-hr.md).
+To configure HR Service Delivery integration with Microsoft Teams in ServiceNow instance, see [Configure HR Service Delivery integration with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/sn-ms-teams-config-hr.md).
 
 To manage HR Service Delivery integration with Microsoft Teams in ServiceNow instance, see [Customize HR Service Delivery integration with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/customize-sn-ms-teams-hr.md).
 
@@ -80,9 +80,3 @@ To use HR Service Delivery integration with Microsoft Teams in ServiceNow instan
 
 [Universal Request integration with Microsoft Teams]()
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[hr-service-administration|HR services]]
-- [[hr-case-employee-relations|Employee Relations]]
-- [[sn-ms-teams-config-hr|Configure HR Service Delivery integration with Microsoft Teams]]

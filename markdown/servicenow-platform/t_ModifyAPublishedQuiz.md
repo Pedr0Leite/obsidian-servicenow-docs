@@ -20,26 +20,18 @@ Role required: none
 
 ## Procedure
 
-1.  You can [[t_EditaQuiz|edit a quiz]] even after it has been distributed, with these results:
+1.  You can edit a quiz even after it has been distributed, with these results:
 
-    -   Added questions are available only on [[c_Quizzes|quizzes]] that are distributed after this change.
-    -   Changes to existing questions are immediately available to users before the quiz is submitted or during the [[t_EnableAQuizRetake|retake period]]. This includes changes to the answers, such as additional choices or changes to the data type.
+    -   Added questions are available only on quizzes that are distributed after this change.
+    -   Changes to existing questions are immediately available to users before the quiz is submitted or during the [retake period](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_EnableAQuizRetake.md). This includes changes to the answers, such as additional choices or changes to the data type.
     -   Deleted questions are also deleted from the distributed quizzes in users' queues.
 
-**Parent Topic:**[[c_CreateQuizzesWithForms|Create quizzes with forms]]
+**Parent Topic:**[Create quizzes with forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_CreateQuizzesWithForms.md)
 
 **Related topics**  
 
 
-[[t_CreateaQuiz|Create a quiz]]
+[Create a quiz](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateaQuiz.md)
 
-[[t_ChangeTheOrderOfAnAnswer|Change the order of an answer]]
+[Change the order of an answer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ChangeTheOrderOfAnAnswer.md)
 
-## Related
-
-- [[t_EnableAQuizRetake|Enable a quiz retake]]
-- [[c_CreateQuizzesWithForms|Create quizzes with forms]]
-- [[t_CreateaQuiz|Create a quiz]]
-- [[t_ChangeTheOrderOfAnAnswer|Change the order of an answer]]
-- [[t_EditaQuiz|Edit a quiz]]
-- [[c_Quizzes|Quizzes]]

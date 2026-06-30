@@ -34,14 +34,14 @@ The time worked on a task is tracked after you start working on it and select **
 
 After a task is closed on a parent or child asset, a time spent line is generated and stored in the Time spent line table \[sn\_itam\_common\_time\_spent\_line\]. Each time spent line includes the time worked on the asset task. The sum of the time spent values in these time spent lines gives the total asset task time. If a task involves multiple assets, the total time spent is equally divided among them. This equally distributed time is then aggregated to the parent asset if there are any child assets involved.
 
-**Note:** When you upgrade to [[ham-landing-page|Hardware Asset Management]] version 13.0.0, the **Calculate asset time spent** fix script creates time spent lines for asset tasks that have already been completed and closed.
+**Note:** When you upgrade to Hardware Asset Management version 13.0.0, the **Calculate asset time spent** fix script creates time spent lines for asset tasks that have already been completed and closed.
 
 The total time spent is grouped by the following task categories:
 
 -   **Purchase - Asset**: Includes the following tasks
     -   All tasks in the Refresh flow except the Reclaim aged asset task.
-    -   All tasks in the [[zero-touch-asset-refresh|Zero touch refresh]] flow
-    -   Replacement task in the [[return-merchandise-authorization|Return Merchandise Authorization]] \(RMA\) flow
+    -   All tasks in the Zero touch refresh flow
+    -   Replacement task in the Return Merchandise Authorization \(RMA\) flow
     -   Replacement task in the Recall flow
 -   **Labor - Maintenance**
 -   **Labor - Repair**: Includes tasks in the following workflows:
@@ -49,8 +49,8 @@ The total time spent is grouped by the following task categories:
     -   RMA order
     -   Incident
 -   **Labor - General**: Includes tasks in the following workflows:
-    -   [[reclaim-asset|Asset reclamation]]
-    -   [[asset-donation|Asset donation]]
+    -   Asset reclamation
+    -   Asset donation
     -   Resale
     -   Disposal
     -   Lease return
@@ -66,7 +66,7 @@ The total time spent is grouped by the following task categories:
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Asset estate**.
+1.  Navigate to **Workspaces** &gt; **Hardware Asset Workspace** &gt; **Asset estate**.
 
 2.  Select the **All assets** tab.
 
@@ -100,11 +100,3 @@ The total time spent is grouped by the following task categories:
     -   **Closed**: The date and time when the asset task was closed.
     -   **Task category**: Category to which the task belongs.
 
-## Related
-
-- [[ham-landing-page|Hardware Asset Management]]
-- [[zero-touch-asset-refresh|Zero Touch Refresh]]
-- [[return-merchandise-authorization|Return Merchandise Authorization]]
-- [[reclaim-asset|Asset reclamation]]
-- [[asset-donation|Asset donation]]
-- [[using-ham-workspace|Hardware Asset Workspace]]

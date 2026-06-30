@@ -15,7 +15,7 @@ breadcrumb: [Manage portfolio plans, Portfolio Planning, Strategic Portfolio Man
 
 # Create a portfolio plan
 
-Use lens and build a personalized portfolio plan in [[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace so that you can start to prioritize and align work in the planning perspective of your choice.
+Use lens and build a personalized portfolio plan in Portfolio Planning Workspace so that you can start to prioritize and align work in the planning perspective of your choice.
 
 ## Before you begin
 
@@ -37,7 +37,7 @@ Role required: sn\_align\_core.apw\_user or business\_stakeholder
 
     2.  For the selected lens, choose the entity type and the desired entities of that type.
 
-        The entity type represents the perspective that you plan your work in. For example, if you've chosen the Organization lens, you can select Business Unit as your entity type, and then select the required [[c_BusinessUnits|business units]], to plan work from their perspective.
+        The entity type represents the perspective that you plan your work in. For example, if you've chosen the Organization lens, you can select Business Unit as your entity type, and then select the required business units, to plan work from their perspective.
 
         \[Omitted image "portfolio-plan-wizard.png"\] Alt text: Select planning items and add conditions for portfolio plan.
 
@@ -67,22 +67,15 @@ Planning items that meet the following criteria appear in the portfolio plan:
 -   Planning items with an approved start date or an end date that falls within the portfolio plan timeline
 -   Planning items that don't have both Approved start and Approved end dates
 
-**Note:** If any demands were converted into projects in [[c_ProjectPortfolioSuite|Project Portfolio Management]], only the resulting project planning items \(converted from demands\) appear in the portfolio plan.
+**Note:** If any demands were converted into projects in Project Portfolio Management, only the resulting project planning items \(converted from demands\) appear in the portfolio plan.
 
 ## What to do next
 
--   Analyze the backlog and [[prioritize-work-portfolio-planning-workspace|prioritize work]] for your portfolio plan. See [Prioritizing portfolio plan work in Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/prioritizing-work-in-portfolio-planning-workspace.md).
--   Roadmap the prioritized work to visualize and [[t_SDLCPPSTrackProgress|track progress]] of your plans. See [Planning roadmaps in Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/planning-roadmaps-in-portfolio-planning.md).
+-   Analyze the backlog and prioritize work for your portfolio plan. See [Prioritizing portfolio plan work in Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/prioritizing-work-in-portfolio-planning-workspace.md).
+-   Roadmap the prioritized work to visualize and track progress of your plans. See [Planning roadmaps in Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/planning-roadmaps-in-portfolio-planning.md).
 -   [Modify a portfolio plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/modify-portfolio-plan-in-portfolio-planning-workspace.md).
 -   Show or hide features for your portfolio plan according to your requirement while sharing a portfolio plan with your stakeholders. See, [Show or hide the features for a portfolio plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/show-or-hide-the-features-for-your-portfolio-plan-ppw.md).
 -   [Share a portfolio plan with stakeholders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/share-portfolio-plan-in-portfolio-planning-workspace.md).
 
 **Parent Topic:**[Managing portfolio plans in Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/managing-portfolio-plans-in-portfolio-planning.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[c_BusinessUnits|Business units]]
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]
-- [[prioritize-work-portfolio-planning-workspace|Prioritize work]]
-- [[t_SDLCPPSTrackProgress|Track progress]]

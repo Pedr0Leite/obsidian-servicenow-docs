@@ -12,7 +12,7 @@ breadcrumb: [Managing Operational vulnerability, Manage, Operational Resilience,
 
 # Decide the treatment and perform a root cause analysis
 
-Decide the treatment and perform a root cause analysis for the [[exploring-op-vul|Operational vulnerability]]. After completing the action tasks, the vulnerability analyst devises the next course of treatment and updates their observations and analysis in the **Details** tab of the Operational vulnerability record.
+Decide the treatment and perform a root cause analysis for the Operational vulnerability. After completing the action tasks, the vulnerability analyst devises the next course of treatment and updates their observations and analysis in the **Details** tab of the Operational vulnerability record.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_oper\_res.manager
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[grc-opres-landing-page|Operational Resilience]] Workspace** &gt; **All Operational Vulnerabilities**.
+1.  Navigate to **Workspaces** &gt; **Operational Resilience Workspace** &gt; **All Operational Vulnerabilities**.
 
 2.  Navigate to the vulnerability record and ensure that the action tasks are closed.
 
@@ -42,7 +42,4 @@ Role required: sn\_oper\_res.manager
 
     Details on the treatment and root cause analysis of the Operational vulnerability are saved in the record.
 
-## Related
 
-- [[exploring-op-vul|Operational vulnerability]]
-- [[grc-opres-landing-page|Operational Resilience]]

@@ -82,7 +82,7 @@ Set change request field values within the pipeline for the change request templ
 
 Field values within the **attributes:** parameter are key-value pairs. Meaning, the key is the field name within the template and the value is the information to populate in the field.
 
-You can use the changeControl API to specify fields such as **type**, **cmdb\_ci**, **template**, **assignment\_group** **business\_service**, **standard\_change\_template**, **chg\_model** and [[t_CreateAChange|create a change request]].
+You can use the changeControl API to specify fields such as **type**, **cmdb\_ci**, **template**, **assignment\_group** **business\_service**, **standard\_change\_template**, **chg\_model** and create a change request.
 
 When attributes are passed for change, the order of priority is as follows:
 
@@ -168,7 +168,7 @@ All remaining fields in the Change Request \[change\_request\] table.
 
 \[Omitted image "dev-ops-azure-change-details.png"\] Alt text: DevOps Azure change details.
 
-\[Omitted image "dev-ops-job-[[settings-mobile|settings]].png"\] Alt text: JenkinsJobSettings.
+\[Omitted image "dev-ops-job-settings.png"\] Alt text: JenkinsJobSettings.
 
 \[Omitted image "dev-ops-jenkins-change-details.png"\] Alt text: DevOps Jenkins change details.
 
@@ -176,7 +176,3 @@ All remaining fields in the Change Request \[change\_request\] table.
 
 **Parent Topic:**[Accelerating your DevOps change process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/dev-ops-change-acceleration.md)
 
-## Related
-
-- [[t_CreateAChange|Create a change request]]
-- [[settings-mobile|Settings]]

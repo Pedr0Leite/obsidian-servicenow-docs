@@ -22,14 +22,14 @@ For manual calculation:
 
 -   Dates on tasks do not automatically reflect any changes from dependent tasks.
 -   New projects created from the project workbench and projects created from demands are set to manual calculation by default. Projects created as manual can be changed to automatic.
--   The project timeline reflects the earliest planned start date and latest planned end date based on the [[t_CreateAProjectTask|project tasks]].
+-   The project timeline reflects the earliest planned start date and latest planned end date based on the project tasks.
 -   The constraint type cannot be changed.
 -   Only **Start on specific date** constraint type is allowed for project tasks.
 
 For automatic calculation:
 
 -   A task automatically reflects any changes from its dependent and child tasks.
--   New projects created from the [[c_ProjectApplicationOverview|Project Management]] application are set to automatic calculation by default.
+-   New projects created from the Project Management application are set to automatic calculation by default.
 
 **Note:**
 
@@ -49,7 +49,3 @@ For automatic calculation:
 
 [Using Project workbench - Legacy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_ProjectWorkbench.md)
 
-## Related
-
-- [[t_CreateAProjectTask|Project tasks]]
-- [[c_ProjectApplicationOverview|Project Management]]

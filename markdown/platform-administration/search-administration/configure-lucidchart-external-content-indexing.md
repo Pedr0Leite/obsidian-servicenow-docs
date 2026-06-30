@@ -15,15 +15,15 @@ breadcrumb: [Lucidchart external content connector, Configure, External Content 
 
 # Configure Lucidchart for external content indexing
 
-Create and authorize an OAuth 2.0 application in the Lucid developer tools and enable the SCIM API in the Lucid admin tools to allow the [[lucidchart-external-content-connector|Lucidchart external content connector]] to access your Lucidchart content.
+Create and authorize an OAuth 2.0 application in the Lucid developer tools and enable the SCIM API in the Lucid admin tools to allow the Lucidchart external content connector to access your Lucidchart content.
 
 ## Before you begin
 
-You must have an Enterprise subscription for Lucidchart, with the System for Cross-domain Identity Management \(SCIM\) feature enabled for your account. To learn more about enabling SCIM for your account, see the Lucid SCIM API [[reference-email-admin|reference]] at [https://lucid.readme.io/reference/overview-scim](https://lucid.readme.io/reference/overview-scim).
+You must have an Enterprise subscription for Lucidchart, with the System for Cross-domain Identity Management \(SCIM\) feature enabled for your account. To learn more about enabling SCIM for your account, see the Lucid SCIM API reference at [https://lucid.readme.io/reference/overview-scim](https://lucid.readme.io/reference/overview-scim).
 
 You need admin privileges for the Lucid developer tools \([https://lucid.app/developer](https://lucid.app/developer)\) and the Lucid admin tools \([https://admin.lucid.app/](https://admin.lucid.app/)\).
 
-The connector administrator who will create your Lucidchart [[ext-cont-connectors-landing-page|external content connectors]] needs an account in your organization's Lucidchart instance so that they can be assigned application collaborator roles for applications you create. Their account needs to have access to all of your Lucidchart content that you want the connector to be able to crawl or retrieve.
+The connector administrator who will create your Lucidchart external content connectors needs an account in your organization's Lucidchart instance so that they can be assigned application collaborator roles for applications you create. Their account needs to have access to all of your Lucidchart content that you want the connector to be able to crawl or retrieve.
 
 Role required: none
 
@@ -118,15 +118,9 @@ Provide the following items to your connector administrator:
 
 Your connector administrator needs these items to configure a Lucidchart external content connector to retrieve documents, folders, and security principals from your Lucidchart source system.
 
-**Important:** If you invited any connector administrators to be application collaborators in step [2](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/configure-lucidchart-external-content-indexing.md), make sure they've accepted their invitations. Without the application collaborator role, they won't be able to [[create-ext-cont-connector-lucidchart|create a Lucidchart external content connector]].
+**Important:** If you invited any connector administrators to be application collaborators in step [2](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/configure-lucidchart-external-content-indexing.md), make sure they've accepted their invitations. Without the application collaborator role, they won't be able to create a Lucidchart external content connector.
 
 For details on creating and configuring a Lucidchart external content connector, see [Create a Lucidchart external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/create-ext-cont-connector-lucidchart.md).
 
 **Parent Topic:**[Lucidchart external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/lucidchart-external-content-connector.md)
 
-## Related
-
-- [[lucidchart-external-content-connector|Lucidchart external content connector]]
-- [[reference-email-admin|Reference]]
-- [[ext-cont-connectors-landing-page|External Content Connectors]]
-- [[create-ext-cont-connector-lucidchart|Create a Lucidchart external content connector]]

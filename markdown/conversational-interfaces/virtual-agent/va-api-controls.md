@@ -14,7 +14,7 @@ breadcrumb: [Use, Virtual Agent API, Build and deploy, Virtual Agent, Conversati
 
 # Controls in Virtual Agent API
 
-[[virtual-agent-api-landing-page|Virtual Agent API]] provides you various controls to manage the responses in your conversation.
+Virtual Agent API provides you various controls to manage the responses in your conversation.
 
 The available controls in Virtual Agent API are:
 
@@ -776,6 +776,3 @@ Indicates that the conversation has started in Virtual Agent API.
 
 **Parent Topic:**[Using Virtual Agent API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/use-virtual-agent-api.md)
 
-## Related
-
-- [[virtual-agent-api-landing-page|Virtual Agent API]]

@@ -18,7 +18,7 @@ Name components define the document values used in the name format.
 
 For example, the name component `document.audience.code` dot-walks from the document record to the audience **Code**.
 
-To define a new name component, navigate to **[[c_ManagedDocuments|Managed Documents]]** &gt; **Administration** &gt; **Components** and click **New**.
+To define a new name component, navigate to **Managed Documents** &gt; **Administration** &gt; **Components** and click **New**.
 
 <table id="table_zgf_ksc_s4"><thead><tr><th>
 
@@ -73,6 +73,3 @@ The following components are defined in the base system.
 
 **Parent Topic:**[Defining Document Parameters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/r_DefiningDocumentParameters.md)
 
-## Related
-
-- [[c_ManagedDocuments|Managed Documents]]

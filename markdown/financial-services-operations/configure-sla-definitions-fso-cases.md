@@ -12,25 +12,25 @@ breadcrumb: [Configure, Financial Services Operations \(FSO\)]
 
 # Configure SLA definitions
 
-Review the service level agreement \(SLA\) definitions that are installed with [[fso-overview|Financial Services]] Operations applications. You can update existing SLAs or add new SLAs to configure start, pause, and stop conditions on any case attributes.
+Review the service level agreement \(SLA\) definitions that are installed with Financial Services Operations applications. You can update existing SLAs or add new SLAs to configure start, pause, and stop conditions on any case attributes.
 
 ## Before you begin
 
 Role required: Based on the application that you are configuring, you need the following roles:
 
--   For [[payment-ops-landing-page|Financial Services Payment Operations]]: sn\_bom\_payment.admin and admin
--   For [[card-ops-landing-page|Financial Services Card Operations]]: sn\_bom\_card.admin and admin
--   For [[fso-complaint-mgmt-landing-page|Financial Services Complaint Management]]: sn\_bom\_compl.admin and admin
+-   For Financial Services Payment Operations: sn\_bom\_payment.admin and admin
+-   For Financial Services Card Operations: sn\_bom\_card.admin and admin
+-   For Financial Services Complaint Management: sn\_bom\_compl.admin and admin
 -   For Financial Services Business Deposit Operations: sn\_bom\_deposit\_b2b.admin and admin
 -   For Financial Services Personal Deposit Operations: sn\_bom\_deposit\_b2c.admin and admin
 -   For Financial Services Business Loan Operations: sn\_bom\_loan\_b2b.admin and admin
 -   For Financial Services Personal Loan Operations: sn\_bom\_loan.b2c\_admin and admin
 -   For Financial Services Business Lifecycle: sn\_bom\_clo\_b2b.admin and admin
 -   For Financial Services Client Lifecycle: sn\_bom\_clo\_b2c.admin and admin
--   For [[fso-kyc-landing-page|Financial Services Know Your Customer]]: sn\_bom\_kyc.admin and admin
--   For [[fso-treasury-ops-landing-page|Financial Services Treasury Operations]]: sn\_bom\_treasury.admin and admin
--   [[individual-life-claims-landing-page|Individual Life Claims]]: sn\_ins\_claim\_indl.admin and admin
--   [[insurance-claims-flow|Insurance claims]]: sn\_ins\_gen\_claim.admin and admin
+-   For Financial Services Know Your Customer: sn\_bom\_kyc.admin and admin
+-   For Financial Services Treasury Operations: sn\_bom\_treasury.admin and admin
+-   Individual Life Claims: sn\_ins\_claim\_indl.admin and admin
+-   Insurance claims: sn\_ins\_gen\_claim.admin and admin
 
 ## About this task
 
@@ -153,7 +153,7 @@ Financial Services Treasury Operations
 
 </td></tr><tr><td>
 
-[[intelligent-servicing-for-fraud-landing-page|Intelligent Servicing for Fraud]]
+Intelligent Servicing for Fraud
 
 </td><td>
 
@@ -196,14 +196,3 @@ The SLA definition is created for the table that you specified.
 
 In Workspace, you can track the SLA for a case from the **Task SLAs** tab on the case form.
 
-## Related
-
-- [[fso-overview|Financial Services]]
-- [[payment-ops-landing-page|Financial Services Payment Operations]]
-- [[card-ops-landing-page|Financial Services Card Operations]]
-- [[fso-complaint-mgmt-landing-page|Financial Services Complaint Management]]
-- [[fso-kyc-landing-page|Financial Services Know Your Customer]]
-- [[fso-treasury-ops-landing-page|Financial Services Treasury Operations]]
-- [[individual-life-claims-landing-page|Individual Life Claims]]
-- [[insurance-claims-flow|Insurance claims]]
-- [[intelligent-servicing-for-fraud-landing-page|Intelligent Servicing for Fraud]]

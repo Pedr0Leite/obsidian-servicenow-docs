@@ -26,7 +26,7 @@ Role required: sn\_sec\_spc\_core.developer
 
 1.  Fill in the Alias and Connection fields.
 
-    **Note:** If a message is displayed that prompts you to change your application scope, update it to the `[[spc-landing|Security Posture Control]] API Connectors` scope as directed.
+    **Note:** If a message is displayed that prompts you to change your application scope, update it to the `Security Posture Control API Connectors` scope as directed.
 
 2.  Select the **Create new** link to the right of the Alias field to create a \(Credential\) alias.
 
@@ -75,12 +75,8 @@ Role required: sn\_sec\_spc\_core.developer
 
     You must save your changes before you can continue.
 
-    After you save your edits, the [[spc-sgc-template-stepper-3|Select template]] step is displayed and highlighted on the stepper.
+    After you save your edits, the [Select template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-sgc-template-stepper-3.md) step is displayed and highlighted on the stepper.
 
 
 Select the view connection link \(\[Omitted image "open-link-right-fill-24.svg"\] Alt text: Open link icon\) if you see the following message: `There are no credentials associated with the selected connection. Please update the connection via the View connection button.`
 
-## Related
-
-- [[spc-sgc-template-stepper-3|Select a connector template]]
-- [[spc-landing|Security Posture Control]]

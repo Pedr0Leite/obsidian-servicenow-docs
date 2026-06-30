@@ -21,7 +21,7 @@ Portfolio managers or product owners can show or hide the data for their plannin
 
 |Personalize settings for List view|Personalize settings for Hierarchy view|
 |----------------------------------|---------------------------------------|
-|\[Omitted image "personalize-list-config.png"\] Alt text: Personalize side panel of [[alignment-planner-workspace-landing-page|Strategic Planning]] List view in the Prioritization page showing the column choices.|\[Omitted image "personalize-hierarchy-config.png"\] Alt text: Personalize side panel of Strategic Planning List view in the Prioritization page showing the column choices.|
+|\[Omitted image "personalize-list-config.png"\] Alt text: Personalize side panel of Strategic Planning List view in the Prioritization page showing the column choices.|\[Omitted image "personalize-hierarchy-config.png"\] Alt text: Personalize side panel of Strategic Planning List view in the Prioritization page showing the column choices.|
 
 Add extra columns as choices to this side panel or remove any of the default column choices by updating the list layout configuration for the planning item types associated to the portfolio plan.
 
@@ -32,6 +32,3 @@ From the form view of the identified table, change the view to **APW Prioritizat
 
 **Note:** List v3 is no longer available for new deployments. If you are already using list v3, you may continue to do so, but in this case some of the functionalities might not be available.
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

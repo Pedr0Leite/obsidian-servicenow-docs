@@ -14,7 +14,7 @@ breadcrumb: [Mobile app for Hardware Asset Management, Use, Asset Management, IT
 
 # ServiceNow Agent app
 
-Use the ServiceNow Agent app to [[t_CreatingAssets|create assets]], look up assets, and [[c_ReceiveAssets|receive assets]] from a purchase order.
+Use the ServiceNow Agent app to create assets, look up assets, and receive assets from a purchase order.
 
 **Parent Topic:**[Mobile app for Hardware Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/mobile-my-asset.md)
 
@@ -33,7 +33,7 @@ Download the ServiceNow Agent app from Apple App Store or Google Play Store.
 
 Role required: asset
 
-The [[c_Procurement|Procurement]] plugin \(com.snc.procurement\) must be installed to get the procurement features in ServiceNow Agent app.
+The Procurement plugin \(com.snc.procurement\) must be installed to get the procurement features in ServiceNow Agent app.
 
 ### Procedure
 
@@ -108,7 +108,7 @@ Use the ServiceNow Agent app to scan, verify, and depart your assets for disposa
 
 ### Before you begin
 
-To verify an asset using the ServiceNow Agent app, make sure that a Disposal order exists in your [[ham-landing-page|Hardware Asset Management]] instance.
+To verify an asset using the ServiceNow Agent app, make sure that a Disposal order exists in your Hardware Asset Management instance.
 
 Role required: asset
 
@@ -158,9 +158,4 @@ On the app, you can use the same functionalities when you are offline. For more 
 
     If there are still some assets left for scanning and you click **Complete**, then a pop-up window appears to confirm if you want to close the task. If you tap **Complete**, the task is closed.
 
-## Related
 
-- [[t_CreatingAssets|Create assets]]
-- [[c_ReceiveAssets|Receive assets]]
-- [[c_Procurement|Procurement]]
-- [[ham-landing-page|Hardware Asset Management]]

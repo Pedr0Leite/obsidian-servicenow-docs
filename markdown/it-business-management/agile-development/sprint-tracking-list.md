@@ -14,12 +14,12 @@ breadcrumb: [Managing your product development using Agile Development 2.0, Agil
 
 # Track sprint progress in Agile Development 2.0
 
-Track the progress of stories, scrum tasks, and [[c_Tests|tests]] for the current sprint from a single consolidated view on the [[agile-board|Agile board in Agile Development 2.0]].
+Track the progress of stories, scrum tasks, and tests for the current sprint from a single consolidated view on the Agile board in Agile Development 2.0.
 
 ## Before you begin
 
 -   You must be a member of an Agile 2.0 assignment group to access the Sprint Tracking board.
--   Viewing, adding, or updating tests for stories requires activating the [[test-management2-landing-page|Test Management 2.0]] plugin \(com.snc.test\_management.2.0\).
+-   Viewing, adding, or updating tests for stories requires activating the Test Management 2.0 plugin \(com.snc.test\_management.2.0\).
 
 Role required: scrum\_user or scrum\_admin.
 
@@ -33,7 +33,7 @@ Steps 3 through 8 provide different actions to perform on the Sprint Tracking bo
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[agile-development|Agile Development]]** &gt; **Agile Board**.
+1.  Navigate to **All** &gt; **Agile Development** &gt; **Agile Board**.
 
 2.  From the Sprint Tracking tab, select the **List** view.
 
@@ -78,9 +78,3 @@ Steps 3 through 8 provide different actions to perform on the Sprint Tracking bo
 
 **Parent Topic:**[Managing your product development using Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/using-agile-development-2-0.md)
 
-## Related
-
-- [[c_Tests|Tests]]
-- [[agile-board|Agile board in Agile Development 2.0]]
-- [[test-management2-landing-page|Test Management 2.0]]
-- [[agile-development|Agile Development]]

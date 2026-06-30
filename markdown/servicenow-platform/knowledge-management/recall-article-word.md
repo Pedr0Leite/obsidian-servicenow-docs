@@ -25,8 +25,8 @@ Recall a knowledge article that is being reviewed and created using Microsoft Wo
 
 Ensure that the system administrator verifies the following settings:
 
--   [[knowledge-management|Knowledge Management]] Advanced plugin \(com.snc.knowledge\_advanced\) is activated. For more information, see [Activate the Knowledge Management Advanced plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/activate-knowledge-advanced-plugin.md).
--   The [[article-versioning|article versioning]] feature is enabled. For more information, see [Article versioning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/article-versioning.md).
+-   Knowledge Management Advanced plugin \(com.snc.knowledge\_advanced\) is activated. For more information, see [Activate the Knowledge Management Advanced plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/activate-knowledge-advanced-plugin.md).
+-   The article versioning feature is enabled. For more information, see [Article versioning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/article-versioning.md).
 -   The Knowledge Management - Add-in for Microsoft Word is enabled. \(For more information, see [Configure Knowledge Management - Add-in for Microsoft Word](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/configure-km-add-in-word.md).\)
 
 ## About this task
@@ -56,7 +56,3 @@ If a version of a knowledge article is in the Review state, you can recall only 
 
 The article opens in edit mode and the state of the article is changed to Draft. The version number of the article increments by 0.01.
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]
-- [[article-versioning|Article versioning]]

@@ -14,12 +14,12 @@ breadcrumb: [Demand Management, Project Portfolio Management, Strategic Portfoli
 
 # Demand Management reference
 
-Reference information to provide additional details about [[c_DemandManagement|Demand Management]] such as the fields, user roles, tables, guidelines, and domain separation information.
+Reference information to provide additional details about Demand Management such as the fields, user roles, tables, guidelines, and domain separation information.
 
 -   **[Demand tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/demand-task.md)**  
 A demand task is a unit of work, created within a demand, to break down initial planning activities before converting the demand into a project, change, enhancement, or defect.
 -   **[Actual cost and effort calculation for a demand and demand task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/actual-cost-effort-calculation-demand.md)**  
-The actual cost and effort are realized cost incurred and time spent for the work performed on a demand and demand task during a specific time period. Actual cost and effort are calculated based on the approved [[c_TimeCards|time cards]] and hourly rate for the resources and vary based on how the hourly rate for the resource is derived.
+The actual cost and effort are realized cost incurred and time spent for the work performed on a demand and demand task during a specific time period. Actual cost and effort are calculated based on the approved time cards and hourly rate for the resources and vary based on how the hourly rate for the resource is derived.
 -   **[Demand Management key terms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/r_DemandManagementKeyTerms.md)**  
 Important terms in Demand Management are listed in the table.
 -   **[Stage fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/r_StageFields.md)**  
@@ -31,12 +31,7 @@ Domain separation is supported in Demand Management. Domain separation enables y
 -   **[Data migrated from demands to artifacts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/data-copied-from-demands-to-artifacts.md)**  
 Data fields that are migrated from a demand to an artifact when the artifact is created from the demand.
 -   **[Demand Management forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/demand-management-forms.md)**  
-Field information for [[form-field-information-for-dw|forms]] used in the Demand Management application.
+Field information for forms used in the Demand Management application.
 
 **Parent Topic:**[Demand Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/c_DemandManagement.md)
 
-## Related
-
-- [[c_DemandManagement|Demand Management]]
-- [[c_TimeCards|Time cards]]
-- [[form-field-information-for-dw|Forms]]

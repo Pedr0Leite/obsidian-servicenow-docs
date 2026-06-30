@@ -14,7 +14,7 @@ breadcrumb: [Recommended Actions, Recommended Actions configuration, Implement I
 
 A guidance is an action that an agent can take or information that an agent can share as they work to resolve tasks, such as customer service cases.
 
-Guidances appear as cards in the contextual side panel in a workspace. Agents can access these guidance cards by selecting the [[configure-nba|Recommended Actions]] icon in the contextual side panel. Agents can then perform the actions by selecting a button on a card.
+Guidances appear as cards in the contextual side panel in a workspace. Agents can access these guidance cards by selecting the Recommended Actions icon in the contextual side panel. Agents can then perform the actions by selecting a button on a card.
 
 \[Omitted image "ra-attach-types.png"\] Alt text: Guidance cards recommending the agent to view and attach a knowledge article or attach and add the link in comment as primary action
 
@@ -62,7 +62,7 @@ Copies the resolution notes from the recommended case to the current case.
 
 </td></tr><tr><td>
 
-[[osp-create-work-order|Create work order]]
+Create work order
 
 </td><td>
 
@@ -76,8 +76,8 @@ Default guidance for search results
 
 Default guidance that can be used for any search sources that don't have dedicated mapped guidances. For more information, see the following topics:
 
--   [[ra-configuring-ai-search-automatically|Automatically map AI search results with guidance inputs]]
--   [[ra-csm-guidances-default-guidance-search|Default guidance for search results]]
+-   [Automatically map AI search results with guidance inputs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-configuring-ai-search-automatically.md)
+-   [Default guidance for search results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-guidances-default-guidance-search.md)
 
 .
 
@@ -176,7 +176,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[ra-csm-guidances-attach-share-article|Attach and share article]]
+[Attach and share article](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-guidances-attach-share-article.md)
 
 </td><td>
 
@@ -186,23 +186,23 @@ This guidance recommends knowledge articles to an agent who is working on a task
 
 </td></tr><tr><td>
 
-[[ra-csm-guidances-share-kb-chat|Share KB in chat interactions]]
+[Share KB in chat interactions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-guidances-share-kb-chat.md)
 
 </td><td>
 
 This guidance recommends knowledge articles to an agent who is working on a chat interaction. The guidance displays relevant articles and enables the agent to select an article and share it in the chat conversation using Add link in message feature.
 
 </td></tr></tbody>
-</table>## [[nba|Configuring Recommended Actions]] guidances
+</table>## Configuring Recommended Actions guidances
 
 Recommended Actions is a component that you can add to a record page in [UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder-overview.md). You can find information about configuring the Recommended Actions component, including the properties and events, in the [Next Experience Components](https://developer.servicenow.com/dev.do#!/reference/now-experience/rome/components) documentation.
 
 The Recommended Actions component includes two views: a preview view \(card view\) and a detail view \(full article view\). How these views are displayed is determined by the Recommended Actions configuration. For more information, see the following topics:
 
--   [[ra-csm-guidances-create|Create a guidance in Recommended Actions]]
--   [[ra-csm-guidance-configure-preview|Configure a guidance preview experience]]
--   [[customize-ra-preview-experience|Customize a guidance preview experience in UI Builder]]
--   [[customize-ra-detail-experience|Customize a guidance detail view in U Builder]]
+-   [Create a guidance in Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-guidances-create.md)
+-   [Configure a guidance preview experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-guidance-configure-preview.md)
+-   [Customize a guidance preview experience in UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customize-ra-preview-experience.md)
+-   [Customize a guidance detail view in U Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customize-ra-detail-experience.md)
 
 The Recommended Actions component includes **Recommended Action Specific Configuration** property. Users with the administrator role can use this property to configure the following settings:
 
@@ -226,16 +226,3 @@ For custom guidances based on the incident state:
 -   When custom guidance logic is applied to a predicted incident with a specified state, the system accesses the internal value of the incident’s state field directly.
 -   When the state field is required for custom actions like linking an incident as a parent or copying resolution notes, the internal value should be accessible without causing UI performance issues or delays.
 
-## Related
-
-- [[ra-configuring-ai-search-automatically|Automatically map AI search results with guidance inputs in Recommended Actions]]
-- [[ra-csm-guidances-default-guidance-search|Default guidance for search results]]
-- [[ra-csm-guidances-attach-share-article|Attach and share article guidance]]
-- [[ra-csm-guidances-share-kb-chat|Share KB in chat interactions guidance]]
-- [[ra-csm-guidances-create|Create a guidance in Recommended Actions]]
-- [[ra-csm-guidance-configure-preview|Configure a guidance preview experience]]
-- [[customize-ra-preview-experience|Customize a guidance preview experience in the UI Builder]]
-- [[customize-ra-detail-experience|Customize a guidance detail experience in the UI Builder]]
-- [[configure-nba|Recommended Actions]]
-- [[osp-create-work-order|Create work order]]
-- [[nba|Configuring Recommended Actions]]

@@ -14,7 +14,7 @@ breadcrumb: [Microsoft Azure DevOps Integration for Agile Development, Strategic
 
 # Components installed with Microsoft Azure DevOps integration for Agile Development
 
-Several types of components are installed with activation of the [[agile-azure-integration-overview|Microsoft Azure DevOps integration for Agile Development]] application, including user roles, scheduled jobs, and tables.
+Several types of components are installed with activation of the Microsoft Azure DevOps integration for Agile Development application, including user roles, scheduled jobs, and tables.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -51,7 +51,7 @@ Azure DevOps integration user\[sn\_ado\_int.user\]
 
 </td><td>
 
--   Sets up integration between Azure DevOps and [[agile-development|Agile Development]]
+-   Sets up integration between Azure DevOps and Agile Development
 -   Can create new or update the existing map configurations between Azure DevOps and Agile Development
 
 </td><td>
@@ -244,7 +244,3 @@ Stores details of the registry callback path for webhooks registered in Azure De
 </td></tr></tbody>
 </table>**Parent Topic:**[Microsoft Azure DevOps Integration for Agile Development](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/microsoft-azure-devops-integrations-comm/agile-azure-integration-overview.md)
 
-## Related
-
-- [[agile-azure-integration-overview|Microsoft Azure DevOps Integration for Agile Development]]
-- [[agile-development|Agile Development]]

@@ -30,7 +30,7 @@ Role required: admin
 
 2.  Select **New**.
 
-3.  Fill in the fields on the [[interaction-wrap-up-state|Interaction Wrap Up]] Code form.
+3.  Fill in the fields on the Interaction Wrap Up Code form.
 
     |Field|Description|
     |-----|-----------|
@@ -48,6 +48,3 @@ After creating wrap-up codes, system administrators can enable wrap-up codes in 
 
 **Parent Topic:**[Interaction wrap up](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/interaction-management/interaction-wrap-up-state.md)
 
-## Related
-
-- [[interaction-wrap-up-state|Interaction wrap up]]

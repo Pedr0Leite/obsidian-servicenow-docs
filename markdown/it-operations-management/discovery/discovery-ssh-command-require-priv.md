@@ -15,7 +15,7 @@ breadcrumb: [SSHCommand probe, List of Discovery probes, Discovery probes and se
 
 # SSH commands requiring a privileged user during probe-based discovery
 
-These tables display the SSH commands run by [[r-discovery|Discovery]] probes during horizontal discovery. These SSH commands require elevated privileges to run.
+These tables display the SSH commands run by Discovery probes during horizontal discovery. These SSH commands require elevated privileges to run.
 
 ## Operating system commands requiring elevated rights
 
@@ -25,7 +25,7 @@ These examples assume that the user name is **Disco**. Substitute the actual use
 
 For information on commands that don’t require elevated rights, see [Non-privileged SSH commands during probe-based discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-ssh-probe-commands.md).
 
-For information on commands used by [[c_ServiceMappingOverview|Service Mapping]] during the top-down discovery, see [Service Mapping commands requiring a privileged user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/r_CommandsnCredentials.md) and [Service Mapping commands not requiring a privileged user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/r_NonSudoCommands.md).
+For information on commands used by Service Mapping during the top-down discovery, see [Service Mapping commands requiring a privileged user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/r_CommandsnCredentials.md) and [Service Mapping commands not requiring a privileged user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/r_NonSudoCommands.md).
 
 ## SSH key not validated
 
@@ -218,7 +218,3 @@ For each PID, gets and processes the output for S\_IFSOCK.**/etc/sudoers line ex
 
 [Discovery commands for probes and patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-command-probe-pattern.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

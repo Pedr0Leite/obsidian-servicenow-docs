@@ -15,7 +15,7 @@ breadcrumb: [Enable AI experiences]
 
 ServiceNow® Now Assist uses generative AI to enhance user productivity and efficiency through conversation and proactive experiences.
 
-**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows and AI agents. For more information see [[ai-native-sku-overview|ServiceNow product tiers]].
+**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows and AI agents. For more information see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 
 See [https://www.servicenow.com/community/now-assist-articles/now-assist-quick-start-guide/ta-p/2685044](https://www.servicenow.com/community/now-assist-articles/now-assist-quick-start-guide/ta-p/2685044) to read about the foundation of generative AI at ServiceNow®.
 
@@ -43,7 +43,7 @@ See [https://www.servicenow.com/community/now-assist-articles/now-assist-quick-s
 
 </td><td>
 
-[Generative AI Controller\[Omitted image "bus-supervised-machine-learning.svg"\] Alt text:Customize your generative AI experience on the ServiceNow AI Platform with the [[generative-ai-controller|Generative AI Controller]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/generative-ai-controller/generative-ai-controller.md)
+[Generative AI Controller\[Omitted image "bus-supervised-machine-learning.svg"\] Alt text:Customize your generative AI experience on the ServiceNow AI Platform with the Generative AI Controller.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/generative-ai-controller/generative-ai-controller.md)
 
 </td></tr></tbody>
 </table>**Important:**
@@ -55,7 +55,7 @@ See [https://www.servicenow.com/community/now-assist-articles/now-assist-quick-s
 
 ## Now Assist products and skills
 
-The Now Assist framework is supported across the ServiceNow AI Platform. To use [[now-assist-skills|Now Assist skills]], activate one or more of the following Now Assist products.
+The Now Assist framework is supported across the ServiceNow AI Platform. To use Now Assist skills, activate one or more of the following Now Assist products.
 
 <table id="table_bdm_bpk_rcc" class="custom-rows"><thead><tr><th class="filter">
 
@@ -210,11 +210,5 @@ This application requires data to be transferred from ServiceNow customers' indi
 
 ## Data collection
 
-ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. Customers can opt out of future data collection at any time, as described in the [[opt-out-of-data-sharing-for-now-assist|Now Assist Opt-Out page]].
+ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/opt-out-of-data-sharing-for-now-assist.md).
 
-## Related
-
-- [[ai-native-sku-overview|ServiceNow product tiers]]
-- [[opt-out-of-data-sharing-for-now-assist|Opt out of data sharing for Now Assist]]
-- [[generative-ai-controller|Generative AI Controller]]
-- [[now-assist-skills|Now Assist skills]]

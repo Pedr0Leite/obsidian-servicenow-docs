@@ -15,7 +15,7 @@ breadcrumb: [Now Assist for IT Service Management \(ITSM\), IT Service Managemen
 
 # Use agentic AI in Now Assist for IT Service Management \(ITSM\)
 
-Use the [[r_ITServiceManagement|IT Service Management]] AI agents within an agentic workflow to complete tasks autonomously.
+Use the IT Service Management AI agents within an agentic workflow to complete tasks autonomously.
 
 ## Agentic workflows in IT Service Management
 
@@ -75,7 +75,7 @@ Assess conflicts for a change request
 
 </td><td>
 
-[[now-assist-itsm-dex-diagnosis-resolution-workflow|DEX issue diagnosis and resolution agentic workflow]]
+DEX issue diagnosis and resolution agentic workflow
 
 </td></tr><tr><td>
 
@@ -87,8 +87,3 @@ Wrap-up and resolve incident
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[r_ITServiceManagement|IT Service Management]]
-- [[now-assist-itsm-dex-diagnosis-resolution-workflow|DEX issue diagnosis and resolution agentic workflow]]

@@ -14,7 +14,7 @@ breadcrumb: [Use Risk Workspace, Risk Management, Governance, Risk, and Complian
 
 # Schedule risk assessments in the Risk Workspace
 
-Schedule [[risk-assessments|risk assessments]] automatically for multiple entities. The [[risk-assessment-scheduler|risk assessment scheduler]] helps the risk managers save time by automatically initiating the assessments based on the defined frequency.
+Schedule risk assessments automatically for multiple entities. The risk assessment scheduler helps the risk managers save time by automatically initiating the assessments based on the defined frequency.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ In most organizations, the second line of risk managers is responsible for coord
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Risk** &gt; **[[risk-workspace|Risk Workspace]]**.
+1.  Navigate to **All** &gt; **Risk** &gt; **Risk Workspace**.
 
 2.  Select the list \[Omitted image "list-icon-risk-workspace.png"\] Alt text:.
 
@@ -34,7 +34,7 @@ In most organizations, the second line of risk managers is responsible for coord
 
 4.  Select **New**.
 
-    The Assessment Scheduler playbook opens the Scope definition stage, where you define the [[risk-assessment-methodology-prm|risk assessment methodology \(RAM\)]] and assessable entity.
+    The Assessment Scheduler playbook opens the Scope definition stage, where you define the risk assessment methodology \(RAM\) and assessable entity.
 
     \[Omitted image "assessment-scheduler-playbook.png"\] Alt text: Assement scheduler.
 
@@ -43,7 +43,7 @@ In most organizations, the second line of risk managers is responsible for coord
     |Field|Description|
     |-----|-----------|
     |Risk assessment methodology|Risk assessment methodology \(RAM\) that you use to assess risks.|
-    |Applicable entity classes|Entity classes related to the selected RAM. The value of this field changes based on the [[entity-class-in-risk-ws|entity classes]] specified in your selected RAM. This field is automatically set based on the applicable entity classes for the selected RAM.|
+    |Applicable entity classes|Entity classes related to the selected RAM. The value of this field changes based on the entity classes specified in your selected RAM. This field is automatically set based on the applicable entity classes for the selected RAM.|
 
 6.  Select **Continue**.
 
@@ -179,10 +179,3 @@ The assessments are initiated. You can view all the scheduled assessments under 
 
 **Parent Topic:**[Using the Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/using-risk-workspace.md)
 
-## Related
-
-- [[risk-assessments|risk assessments]]
-- [[risk-assessment-scheduler|risk assessment scheduler]]
-- [[risk-workspace|risk workspace]]
-- [[risk-assessment-methodology-prm|Risk Assessment Methodology \(RAM\)]]
-- [[entity-class-in-risk-ws|Entity classes]]

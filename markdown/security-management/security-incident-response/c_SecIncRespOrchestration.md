@@ -19,10 +19,7 @@ Security Incident Response Orchestration activities allow users to interact with
 -   **[Set up Security Incident Response Orchestration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/t_SecInRespOrchSetup.md)**  
 Prior to using Security Incident Response Orchestration, perform steps to set up various parts of the system, including populating the CMDB, configuring the mid-server, and configuring credentials.
 -   **[Understand Security Incident Response Orchestration workflows and workflow templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/view-wf-templates.md)**  
-The [[sir-landing-page|Security Incident Response]] base system includes a series of workflows and workflow templates designed to work with security incident records.
+The Security Incident Response base system includes a series of workflows and workflow templates designed to work with security incident records.
 
 **Parent Topic:**[Security Incident Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/sir-landing-page.md)
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]

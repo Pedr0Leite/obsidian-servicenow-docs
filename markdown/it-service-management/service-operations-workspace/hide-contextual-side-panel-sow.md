@@ -36,7 +36,7 @@ Role required: admin
 
     The **hideContextualSidebar** UX property page opens on a separate tab.
 
-    Alternatively, you can also access the **hideContextualSidebar** UX property page by navigating to **All** &gt; **Now Experience Framework** &gt; **Experiences**. From the list of UX [[dex-workspace-application-tab|applications]], select **Service Operations Workspace** and then from the UX Page Properties related list, select the **hideContextualSidebar** UX property.
+    Alternatively, you can also access the **hideContextualSidebar** UX property page by navigating to **All** &gt; **Now Experience Framework** &gt; **Experiences**. From the list of UX applications, select **Service Operations Workspace** and then from the UX Page Properties related list, select the **hideContextualSidebar** UX property.
 
 4.  On the UX Page Property page, edit the **Value** field to add the table and tab combination.
 
@@ -47,6 +47,3 @@ Role required: admin
 
 **Parent Topic:**[Configuring Service Operations Workspace for ITSM to improve your experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configuring-sow-to-improve-experience.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]

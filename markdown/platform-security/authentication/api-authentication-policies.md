@@ -14,16 +14,9 @@ breadcrumb: [API access policy, Authentication, Access Management]
 
 # API Authentication Policies
 
-[[authentication-policies|Authentication policies]] evaluate [[c_Authentication|authentication]] requests based on the specified policy conditions and either allows or denies access depending on the matching criteria.
+Authentication policies evaluate authentication requests based on the specified policy conditions and either allows or denies access depending on the matching criteria.
 
-You can use the built-in Global Blocking Policy or create an authentication policy according to your security requirements. Global Blocking Policy denies the authentication requests of [[users|users]] and APIs based on the specified [[adaptive-auth-filter-criteria|filter criteria]].
+You can use the built-in Global Blocking Policy or create an authentication policy according to your security requirements. Global Blocking Policy denies the authentication requests of users and APIs based on the specified filter criteria.
 
-**Note:** Do not use or modify Allow Access Policy and Deny Access Policy. These [[ca-policies|policies]] are meant only for user logins.
+**Note:** Do not use or modify Allow Access Policy and Deny Access Policy. These policies are meant only for user logins.
 
-## Related
-
-- [[authentication-policies|Authentication policies]]
-- [[c_Authentication|Authentication]]
-- [[users|Users]]
-- [[adaptive-auth-filter-criteria|Filter criteria]]
-- [[ca-policies|Policies]]

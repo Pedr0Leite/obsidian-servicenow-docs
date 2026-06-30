@@ -22,9 +22,9 @@ Role required: email\_composer
 
 1.  Open a Workspace record in your instance.
 
-2.  Open the [[activity-stream-compose-configurable-workspace|Compose]] Email page by selecting the More actions icon \(\[Omitted image "x-more-actions-icon.png"\] Alt text: More actions icon\) and **Compose Email**.
+2.  Open the Compose Email page by selecting the More actions icon \(\[Omitted image "x-more-actions-icon.png"\] Alt text: More actions icon\) and **Compose Email**.
 
-3.  Apply a quick message from the [[agent-assist-configurable-workspace|Agent Assist]] panel.
+3.  Apply a quick message from the Agent Assist panel.
 
     1.  From the Agent Assist panel, select the Quick Messages icon \(\[Omitted image "quick-messages-icon-new.png"\] Alt text: Quick message icon\).
 
@@ -54,7 +54,4 @@ Role required: email\_composer
 
     4.  Add the template to your email by selecting **Insert**.
 
-## Related
 
-- [[activity-stream-compose-configurable-workspace|Compose]]
-- [[agent-assist-configurable-workspace|Agent assist]]

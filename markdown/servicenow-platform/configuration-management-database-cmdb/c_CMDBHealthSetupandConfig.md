@@ -14,7 +14,7 @@ breadcrumb: [CMDB Health, Configuration Management Database \(CMDB\), Configurat
 
 # Configuring CMDB Health
 
-Data collection for [[c_CMDBHealth|CMDB Health]] is highly configurable to reflect data health requirements and standards in your organization. Most importantly, the CMDB Health Dashboard jobs are disabled by default and health data isn't collected until you enable those jobs.
+Data collection for CMDB Health is highly configurable to reflect data health requirements and standards in your organization. Most importantly, the CMDB Health Dashboard jobs are disabled by default and health data isn't collected until you enable those jobs.
 
 To report valuable and meaningful health data, review and adjust CMDB Health-related settings.
 
@@ -28,6 +28,3 @@ To report valuable and meaningful health data, review and adjust CMDB Health-rel
 4.  Examine and adjust as needed the [CMDB Health system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/r_CMDBHealthProperties.md).
 5.  Enable the Health Dashboard jobs for the KPIs that you want reported - for more information, see [Enable and configure a CMDB Health Dashboard job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/t_EnableCMDBHealthDashboardJob.md).
 
-## Related
-
-- [[c_CMDBHealth|CMDB Health]]

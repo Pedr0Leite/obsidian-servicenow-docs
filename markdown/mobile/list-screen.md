@@ -16,25 +16,25 @@ Use a list to display a list of records. Records in lists display in a card form
 
 <table id="table_w4s_g2w_dlb"><tbody><tr><td>
 
-Use a list screen to see records in a list view. Within a list screen, each record has a card. This card is a visualization which contains a selected few fields that display as a preview for each record. You can configure the card in [[mobile-card-builder|Mobile Card Builder]] \(MCB\). MCB can be accessed from [[mab-concept|Mobile App Builder]] \(MAB\) when creating a list screen.
+Use a list screen to see records in a list view. Within a list screen, each record has a card. This card is a visualization which contains a selected few fields that display as a preview for each record. You can configure the card in Mobile Card Builder \(MCB\). MCB can be accessed from Mobile App Builder \(MAB\) when creating a list screen.
 
  Use the optional features available with list screens to improve your user's experience.
 
 -   **Record screen**
 
-Configure your list screen to include a record screen. This configuration automatically displays a detailed view of a record when your users tap it in the list screen. Learn more about record screens in [[form-screen|Record screen]].
+Configure your list screen to include a record screen. This configuration automatically displays a detailed view of a record when your users tap it in the list screen. Learn more about record screens in [Record screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/form-screen.md).
 
 -   **List filters**
 
-Mobile list filters enable your users to find what they need in the records on your instance. For more detail on filters, see [[mobile-list-filters|Mobile list screen filters]].
+Mobile list filters enable your users to find what they need in the records on your instance. For more detail on filters, see [Mobile list screen filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-list-filters.md).
 
 -   **Dynamic screen name**
 
-Configure your list screen to inherit the name of a previous screen selection or form field and display it as the header on a subsequent screen. For more information, see [[dynamic-screen-titles|Configure a dynamic screen name for a list screen]].
+Configure your list screen to inherit the name of a previous screen selection or form field and display it as the header on a subsequent screen. For more information, see [Configure a dynamic screen name for a list screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/dynamic-screen-titles.md).
 
 -   **Functions**
 
-Functions determine which actions users can perform in your mobile apps. For more detail on functions, see [[sg-studio-mobile-button-types|Mobile functions]].
+Functions determine which actions users can perform in your mobile apps. For more detail on functions, see [Mobile functions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-studio-mobile-button-types.md).
 
 
 </td><td>
@@ -46,7 +46,7 @@ Functions determine which actions users can perform in your mobile apps. For mor
 
 <table id="table_y4t_zv3_nlb"><tbody><tr><td>
 
-Configure your list with a record screen so your users can tap list items to view details of the records on your list. For details on list configuration, see [[sg-configure-list-screen|List screen configuration]].
+Configure your list with a record screen so your users can tap list items to view details of the records on your list. For details on list configuration, see [List screen configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-configure-list-screen.md).
 
 </td><td>
 
@@ -59,7 +59,7 @@ Configure your list with a record screen so your users can tap list items to vie
 
 Use parameters to pass information into your list screens. For example, when a user taps on a group in a group list screen, a list containing records in the group is displayed. The list of records in the group is a parametrized list, which accepts the value of the group your user selected as a parameter.
 
- To learn about parametrized list configuration, see [[list-applet-parameters|Parametrized list screens]].
+ To learn about parametrized list configuration, see [Parametrized list screens](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/list-applet-parameters.md).
 
 </td><td>
 
@@ -133,14 +133,3 @@ Display information from field previous record
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[form-screen|Record screen]]
-- [[mobile-list-filters|Mobile list screen filters]]
-- [[dynamic-screen-titles|Configure a dynamic screen name for a list screen]]
-- [[sg-studio-mobile-button-types|Mobile functions]]
-- [[sg-configure-list-screen|List screen configuration]]
-- [[list-applet-parameters|Parametrized list screens]]
-- [[mobile-card-builder|Mobile Card Builder]]
-- [[mab-concept|Mobile App Builder]]

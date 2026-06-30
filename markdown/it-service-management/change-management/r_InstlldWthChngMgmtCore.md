@@ -14,7 +14,7 @@ breadcrumb: [Activate Change Management - Core, Change Management plugins, Confi
 
 # Installed with Change Management - Core
 
-Several types of components are installed with the [[c_ITILChangeManagement|Change Management]] - Core.
+Several types of components are installed with the Change Management - Core.
 
 **Parent Topic:**[Activate Change Management - Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_ActivateChangeMgmtCore.md)
 
@@ -36,12 +36,7 @@ Task CI\[task\_ci\]
 
 </td><td>
 
-Adds **Manual Proposed Change** \(manual\_proposed\_change\) field if the proposed change has been made manually rather than through the [[bulk-ci-change|Mass Update CI]] feature
+Adds **Manual Proposed Change** \(manual\_proposed\_change\) field if the proposed change has been made manually rather than through the Mass Update CI feature
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]
-- [[bulk-ci-change|Mass Update CI]]

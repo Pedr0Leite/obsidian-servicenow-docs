@@ -31,7 +31,7 @@ Coverage depends on the privileges available to the agent on each operating syst
 
 ## System property
 
-The following property controls whether [[running-process-based-discovery|running process-based discovery]] is active. You can configure it from the System Properties page \(**All** &gt; **System Properties** &gt; **All Properties**\).
+The following property controls whether running process-based discovery is active. You can configure it from the System Properties page \(**All** &gt; **System Properties** &gt; **All Properties**\).
 
 |Property|Default|Description|
 |--------|-------|-----------|
@@ -39,6 +39,3 @@ The following property controls whether [[running-process-based-discovery|runnin
 
 **Parent Topic:**[Agent Client Collector for Visibility - Content reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-client-collector-for-visibility-references.md)
 
-## Related
-
-- [[running-process-based-discovery|Running process-based discovery]]

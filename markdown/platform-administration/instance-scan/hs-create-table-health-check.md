@@ -14,7 +14,7 @@ breadcrumb: [Create a check, Using Instance Scan, Instance Scan, Maintain and mo
 
 # Create a table type check
 
-[[hs-create-health-check|Create a check]] by selecting **Create a new Table Check** if you know which specific table and conditions you want to test. This check type is applied on only one table at a time. You can also include your own script for more complex capabilities by selecting the **Advanced** option on the form.
+Create a check by selecting **Create a new Table Check** if you know which specific table and conditions you want to test. This check type is applied on only one table at a time. You can also include your own script for more complex capabilities by selecting the **Advanced** option on the form.
 
 ## Before you begin
 
@@ -68,7 +68,7 @@ Priority
 
 </td><td>
 
-Priority at which the [[hs-findings|findings]] should be resolved.
+Priority at which the findings should be resolved.
 
 </td></tr><tr><td>
 
@@ -178,7 +178,3 @@ The script that executes against each record that matches the condition in the d
 </table>
 **Parent Topic:**[Create a check](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-create-health-check.md)
 
-## Related
-
-- [[hs-create-health-check|Create a check]]
-- [[hs-findings|Findings]]

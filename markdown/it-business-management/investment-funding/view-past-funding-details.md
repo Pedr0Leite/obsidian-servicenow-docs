@@ -22,7 +22,7 @@ Role required: sn\_invst\_pln\_v2.investment\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[investment-funding-overview|Investment Funding]]** &gt; **My Funds**.
+1.  Navigate to **All** &gt; **Investment Funding** &gt; **My Funds**.
 
 2.  Click an investment card to open the investment for which you want to view the past funding details.
 
@@ -39,6 +39,3 @@ Role required: sn\_invst\_pln\_v2.investment\_user
 
 **Parent Topic:**[Investment Funding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/investment-funding/investment-funding-overview.md)
 
-## Related
-
-- [[investment-funding-overview|Investment Funding]]

@@ -22,30 +22,30 @@ Role required: catalog\_builder\_editor, catalog\_admin, or admin
 
 ## About this task
 
-If allowed in the template by the template owner \(catalog\_admin\) while configuring the template, the following question types can be used in the item creation process in the [[catalog-builder|catalog builder]]. These question types are grouped into types and subtypes:
+If allowed in the template by the template owner \(catalog\_admin\) while configuring the template, the following question types can be used in the item creation process in the catalog builder. These question types are grouped into types and subtypes:
 
 -   Text
-    -   Single-line. [[single-line-text|Single-line text]] variable type in ServiceNow AI Platform.
-    -   Multi-line. [[multi-line|Multi-line text]] variable type in ServiceNow AI Platform.
-    -   Rich text. [[html|HTML]] variable type in ServiceNow AI Platform.
+    -   Single-line. Single-line text variable type in ServiceNow AI Platform.
+    -   Multi-line. Multi-line text variable type in ServiceNow AI Platform.
+    -   Rich text. HTML variable type in ServiceNow AI Platform.
 -   Option
-    -   [[check-box|Check box]]. Check box variable type in ServiceNow AI Platform.
-    -   [[yes-no|Yes/No]]. Yes/No variable type in ServiceNow AI Platform.
+    -   Check box. Check box variable type in ServiceNow AI Platform.
+    -   Yes/No. Yes/No variable type in ServiceNow AI Platform.
 -   Choice
-    -   Drop down \(fixed values\). [[select-box|Select Box]] variable type in ServiceNow AI Platform.
-    -   Drop down \(values from a table\). [[lookup-select-box|Lookup Select Box]] variable type in ServiceNow AI Platform.
-    -   Record [[reference|reference]]. Reference variable type in ServiceNow AI Platform.
-    -   Radio. [[multiple-choice|Multiple Choice]] variable type in ServiceNow AI Platform.
-    -   Multi-select. [[list-collector|List Collector]] variable type in ServiceNow AI Platform.
-    -   [[requested-for|Requested for]]
+    -   Drop down \(fixed values\). Select Box variable type in ServiceNow AI Platform.
+    -   Drop down \(values from a table\). Lookup Select Box variable type in ServiceNow AI Platform.
+    -   Record reference. Reference variable type in ServiceNow AI Platform.
+    -   Radio. Multiple Choice variable type in ServiceNow AI Platform.
+    -   Multi-select. List Collector variable type in ServiceNow AI Platform.
+    -   Requested for
 -   Date/Time
     -   Date. Date variable type in ServiceNow AI Platform.
     -   Date &amp;Time. Date and time variable type in ServiceNow AI Platform.
     -   Duration
--   Display [[label|label]]
+-   Display label
     -   Plain text. Label variable type in ServiceNow AI Platform.
-    -   Rich text. [[rich-text-label|Rich Text Label]] variable type in ServiceNow AI Platform.
--   [[attachment|Attachment]]
+    -   Rich text. Rich Text Label variable type in ServiceNow AI Platform.
+-   Attachment
 
 For detailed information about these question types, see [Types of service catalog variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/r_VariableTypes.md).
 
@@ -104,7 +104,7 @@ Map to field
 
 </td><td>
 
-Maps the question to a specific field on the table for the [[c_RecordProducer|record producer]].
+Maps the question to a specific field on the table for the record producer.
 
 </td></tr><tr><td>
 
@@ -112,7 +112,7 @@ Question label
 
 </td><td>
 
-Question for a requester while ordering the catalog item. For the Rich text question subtype, you can specify a formatted label to be displayed on a [[catalog-item-form|catalog item form]].
+Question for a requester while ordering the catalog item. For the Rich text question subtype, you can specify a formatted label to be displayed on a catalog item form.
 
 </td></tr><tr><td>
 
@@ -338,22 +338,3 @@ Configure the value of a question to populate automatically whenever the value o
 
 **Parent Topic:**[Creating or editing catalog item template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/create-cat-item-template-cat-builder.md)
 
-## Related
-
-- [[catalog-builder|Catalog Builder]]
-- [[single-line-text|Single-line text]]
-- [[multi-line|Multi-line text]]
-- [[html|HTML]]
-- [[check-box|Check box]]
-- [[yes-no|Yes/No]]
-- [[select-box|Select box]]
-- [[lookup-select-box|Lookup select box]]
-- [[reference|Reference]]
-- [[multiple-choice|Multiple choice]]
-- [[list-collector|List collector]]
-- [[requested-for|Requested for]]
-- [[label|Label]]
-- [[rich-text-label|Rich Text Label]]
-- [[attachment|Attachment]]
-- [[c_RecordProducer|Record Producer]]
-- [[catalog-item-form|Catalog Item form]]

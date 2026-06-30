@@ -27,20 +27,20 @@ By using the risk heatmap workbench, you can view the following aspects for risk
 -   Risk count: Shows the number of risks that are in each cell on a heatmap such as when an X-axis factor like Impact is combined with a Y-axis factor like Likelihood. \[Omitted image "risk\_count.png"\] Alt text: Risk count.
 -   Risk index: Shows the risk IDs in each cell and the details of each risk on the contextual side panel. \[Omitted image "risk\_index.png"\] Alt text: Risk index.
 -   Risk name: Shows the names of all the risks in each cell. \[Omitted image "risk\_name\_workbench.png"\] Alt text: Risk name.
--   Top Risks: Shows the top risks on the heatmap workbench. For example, if you select 10 from the Top Risks filter selection list, you can see all the top 10 risks that are associated with the selected [[risk-assessment-methodology-prm|Risk Assessment Methodology \(RAM\)]] on the heatmap.
+-   Top Risks: Shows the top risks on the heatmap workbench. For example, if you select 10 from the Top Risks filter selection list, you can see all the top 10 risks that are associated with the selected Risk Assessment Methodology \(RAM\) on the heatmap.
 -   Entity: Shows the risks that are associated with the specific entities and their downstream entities on the heatmap workbench. You can filter the risks that are associated with the specific entities that are defined in the RAM.
 
-By pointing to each risk, you can quickly get details about the risk. For example, you can see who the risk owner is, the entity to which the risk belongs, and the category of the risk. The contextual side panel shows 20 entries at a time on a page. You can configure the total number of entries that you want to see. You can either view all the risks as cards or select a single risk and view its details. After you select a risk from the heatmap cell, you can see the details of that risk on the side panel. For example, you can see the risk rating, the [[risk-response|risk response]], the risk tracking, and the risk hierarchy. The activity log captures all the activities that are performed on a risk. If you click the more actions icon \[Omitted image "more-details.png"\] Alt text: More Actions icon., you can see the following options:
+By pointing to each risk, you can quickly get details about the risk. For example, you can see who the risk owner is, the entity to which the risk belongs, and the category of the risk. The contextual side panel shows 20 entries at a time on a page. You can configure the total number of entries that you want to see. You can either view all the risks as cards or select a single risk and view its details. After you select a risk from the heatmap cell, you can see the details of that risk on the side panel. For example, you can see the risk rating, the risk response, the risk tracking, and the risk hierarchy. The activity log captures all the activities that are performed on a risk. If you click the more actions icon \[Omitted image "more-details.png"\] Alt text: More Actions icon., you can see the following options:
 
 -   **Open**: Provides the risk record.
--   **360° view**: Provides an overview of the associated entities, controls, risk statements, [[risk-assessments|risk assessments]], and risk response tasks.
+-   **360° view**: Provides an overview of the associated entities, controls, risk statements, risk assessments, and risk response tasks.
 -   **View assessment**: Provides an assessment summary of the risk.
 
 ## Reporting in the heatmap workbench
 
-The heatmap workbench is the primary tool that you use for risk reporting and analysis. By looking at the Risk movement and Risk trend, you can visualize your organization's [[tprm-risk-profile-what-is|risk profile]] and share that information with your stakeholders.
+The heatmap workbench is the primary tool that you use for risk reporting and analysis. By looking at the Risk movement and Risk trend, you can visualize your organization's risk profile and share that information with your stakeholders.
 
-You can view the risk movement from inherent \(risk level without controls or mitigating actions\), to residual risk \(leftover risk after the implementation of controls\), finally to target risk \(risk level that you want to achieve in future\) on the heatmap workbench. This information helps you to analyze the assigned controls to mitigate if the risks are effective or not. The risk movement is available only for RAMs where the residual risk has the same [[factors|factors]] as an inherent risk.
+You can view the risk movement from inherent \(risk level without controls or mitigating actions\), to residual risk \(leftover risk after the implementation of controls\), finally to target risk \(risk level that you want to achieve in future\) on the heatmap workbench. This information helps you to analyze the assigned controls to mitigate if the risks are effective or not. The risk movement is available only for RAMs where the residual risk has the same factors as an inherent risk.
 
 \[Omitted image "risk-movement.png"\] Alt text: Risk movement.
 
@@ -72,10 +72,3 @@ With the immersive view of the heatmap, you can view the expanded form of the he
 
 **Parent Topic:**[Analytics and reporting solutions for Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/grc-risk-mgmt-content-pack.md)
 
-## Related
-
-- [[risk-assessment-methodology-prm|Risk Assessment Methodology \(RAM\)]]
-- [[risk-response|risk response]]
-- [[risk-assessments|risk assessments]]
-- [[tprm-risk-profile-what-is|Risk profile]]
-- [[factors|factors]]

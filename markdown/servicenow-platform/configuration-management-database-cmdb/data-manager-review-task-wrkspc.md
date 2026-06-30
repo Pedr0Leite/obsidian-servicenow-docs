@@ -25,14 +25,14 @@ Canceling a life-cycle task is available only for tasks that are in the 'Not sta
 ## About this task
 
 -   To review attestation tasks, see [Review attestation tasks in CMDB Workspace or in Service Graph Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/review-data-manager-attes-task.md).
--   To [[data-certific-review-tasks|review certification tasks]], see [Review certification tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/data-certific-review-tasks.md).
+-   To review certification tasks, see [Review certification tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/data-certific-review-tasks.md).
 
 ## Procedure
 
 1.  Navigate to either workspace:
 
     -   Navigate to **Workspaces** &gt; **CMDB Workspace** and then select **My Work** in the CMDB Workspace menu bar.
-    -   Navigate to **Workspaces** &gt; **[[sg-workspace|Service Graph Workspace]]**, in the navigation panel select the Tasks icon, and then, in the Tasks navigation panel, select **Certification**.
+    -   Navigate to **Workspaces** &gt; **Service Graph Workspace**, in the navigation panel select the Tasks icon, and then, in the Tasks navigation panel, select **Certification**.
     Any attestation tasks that are assigned to you or to assignment groups you belong to, appear in the **Attestation tasks** tab in the My tasks section. Attestation tasks are associated with details such as the due dates and short descriptions for those tasks. Assignment groups that you are a member of, are also listed.
 
 2.  In the My tasks section, select the **All other tasks** tab.
@@ -65,7 +65,4 @@ Canceling a life-cycle task is available only for tasks that are in the 'Not sta
 
     5.  Select **Approve task** to trigger the subflow associated with the policy.
 
-## Related
 
-- [[data-certific-review-tasks|Review certification tasks]]
-- [[sg-workspace|Service Graph Workspace]]

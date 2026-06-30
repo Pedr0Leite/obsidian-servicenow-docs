@@ -14,7 +14,7 @@ breadcrumb: [Configure NLU in Virtual Agent, Configure, Virtual Agent, Conversat
 
 # Configure IBM Watson Assistant as the NLU provider for Virtual Agent
 
-Use the intents, entities, and utterances defined in IBM Watson Assistant and apply them as an NLU model for your [[virtual-agent-landing-page|Virtual Agent]] conversations.
+Use the intents, entities, and utterances defined in IBM Watson Assistant and apply them as an NLU model for your Virtual Agent conversations.
 
 ## Before you begin
 
@@ -94,7 +94,7 @@ As of the Quebec release, Virtual Agent supports legacy version 1 URLs only:
 
         Activating this setting adds **IBM Watson - Script active** to the list of available NLU services in Virtual Agent settings.
 
-4.  To enable NLU in your instance, navigate to **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings**, and then do the following:
+4.  To enable NLU in your instance, navigate to **Conversational Interfaces** &gt; **Settings**, and then do the following:
 
     1.  Click **Virtual Agent**.
 
@@ -115,7 +115,3 @@ As of the Quebec release, Virtual Agent supports legacy version 1 URLs only:
 
 **Parent Topic:**[Configure Natural Language Understanding in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-nlu-settings.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]

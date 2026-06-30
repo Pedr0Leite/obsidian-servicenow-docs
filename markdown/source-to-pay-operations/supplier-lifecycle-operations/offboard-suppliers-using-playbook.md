@@ -14,13 +14,13 @@ breadcrumb: [Offboard a supplier, Using Source-to-Pay Workspace, Use, Supplier L
 
 # Offboard suppliers using the supplier offboarding playbook
 
-[[supplier|Supplier]] owners and supplier managers can use the supplier offboarding playbook to complete the tasks and activities that are needed to offboard suppliers.
+Supplier owners and supplier managers can use the supplier offboarding playbook to complete the tasks and activities that are needed to offboard suppliers.
 
 ## Offboard a Supplier playbook
 
 The Offboard a Supplier playbook provides step-by-step guidance for completing various stages and activities to offboard a supplier.
 
-When a supplier manager or supplier owner submits the Offboard a supplier case from the [[purch-order-mgmt-ws|Source-to-Pay Workspace]], the application opens the case on the Playbook tab on the Details page.
+When a supplier manager or supplier owner submits the Offboard a supplier case from the Source-to-Pay Workspace, the application opens the case on the Playbook tab on the Details page.
 
 The Offboard a Supplier playbook is displayed only for the cases of type Offboard a supplier.
 
@@ -173,7 +173,7 @@ Review contract for compliance
 
 </td><td>
 
-This activity lists all the open [[contracts|contracts]] for the supplier. Ensure that all the terms and clauses are being followed.Select **Continue** to move to the next activity.
+This activity lists all the open contracts for the supplier. Ensure that all the terms and clauses are being followed.Select **Continue** to move to the next activity.
 
 </td></tr><tr><td>
 
@@ -181,7 +181,7 @@ This activity lists all the open [[contracts|contracts]] for the supplier. Ensur
 
 </td><td>
 
-Settle outstanding [[invoices|invoices]]
+Settle outstanding invoices
 
 </td><td>
 
@@ -303,9 +303,3 @@ This activity deactivates all the contacts of the offboarded supplier. That is, 
 
 [Offboard a supplier from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/offboard-supplier.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[contracts|Contracts]]
-- [[invoices|Invoices]]

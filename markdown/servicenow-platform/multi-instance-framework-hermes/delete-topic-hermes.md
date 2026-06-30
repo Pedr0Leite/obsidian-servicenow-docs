@@ -22,7 +22,7 @@ Role required: kafka\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hermes-messaging-service|Hermes Messaging Service]]** &gt; **Topics**.
+1.  Navigate to **All** &gt; **Hermes Messaging Service** &gt; **Topics**.
 
 2.  Select the topic that you want to delete.
 
@@ -35,6 +35,3 @@ The topic record is deleted from the Kafka Topics \[sys\_kafka\_topic\] table. T
 
 **Parent Topic:**[Managing topics in Hermes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/managing-topics-hermes.md)
 
-## Related
-
-- [[hermes-messaging-service|Hermes Messaging Service]]

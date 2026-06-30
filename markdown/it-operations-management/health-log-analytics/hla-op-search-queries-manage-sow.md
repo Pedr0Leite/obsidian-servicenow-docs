@@ -25,7 +25,7 @@ Role required: evt\_mgmt\_operator or evt\_mgmt\_admin
 
 1.  Open the **Log Viewer** using one of the following methods:
 
-    -   Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]** and select the Log Viewer icon \(\[Omitted image "icon-log-viewer-sow.png"\] Alt text: Log Viewer icon.\).
+    -   Navigate to **Workspaces** &gt; **Service Operations Workspace** and select the Log Viewer icon \(\[Omitted image "icon-log-viewer-sow.png"\] Alt text: Log Viewer icon.\).
     -   While viewing log entries for an alert on the **Surrounding logs** tab, select **Log Viewer**.
 2.  Define a search.
 
@@ -65,7 +65,7 @@ Time range
 
 Time range to apply to the X-axis when displaying the returned data. The setting that you specify appears in the **Start time** and **End time** fields. Use one of the following methods:-   Select a time period from the list.
 -   Click **Custom range** to use the date and time picker to specify a range.
- **Note:** You can modify the settings in the **Start time** and **End time** fields manually. The selected time range shown in **Select range** then changes to Custom range. This feature is supported in the [[hla-landing-page|Health Log Analytics]] application, Version 20.0.11 - July 2021, and the Health Log Analytics Viewer application, Version 20.0.4 - July 2021, available from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
+ **Note:** You can modify the settings in the **Start time** and **End time** fields manually. The selected time range shown in **Select range** then changes to Custom range. This feature is supported in the Health Log Analytics application, Version 20.0.11 - July 2021, and the Health Log Analytics Viewer application, Version 20.0.4 - July 2021, available from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
 
 **Note:** Saved searches do not include time range settings.
 
@@ -102,7 +102,3 @@ Time range to apply to the X-axis when displaying the returned data. The setting
 
 [Define a custom Log Analytics alert rule in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-op-alert-rule-add-sow.md)
 
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[hla-landing-page|Health Log Analytics]]

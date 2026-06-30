@@ -22,7 +22,7 @@ Role required: itil, itil\_admin, or admin
 
 ## Procedure
 
-1.  Open [[itsm-mobile-agent|ITSM Mobile Agent]] app.
+1.  Open ITSM Mobile Agent app.
 
 2.  In **My work** tab, tap **See All**.
 
@@ -54,6 +54,3 @@ Role required: itil, itil\_admin, or admin
 
 **Parent Topic:**[Collaboration with incidents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/collaboration-incident-itsm-mobile.md)
 
-## Related
-
-- [[itsm-mobile-agent|ITSM Mobile Agent]]

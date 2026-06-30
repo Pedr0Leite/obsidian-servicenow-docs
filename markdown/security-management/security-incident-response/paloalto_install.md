@@ -30,14 +30,14 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Verify that you have the required ServiceNow AI Platform and [[sir-landing-page|Security Incident Response]] roles assigned.
+Verify that you have the required ServiceNow AI Platform and Security Incident Response roles assigned.
 
 </td><td>
 
 The following roles are required:-   The System Administrator \(admin\) installs the app and assigns the Security Incident Administrator \(sn\_si.admin\) role.
 -   The Security Incident Administrator \(sn\_si.admin\) oversees the configuration, and creates, activates, and removes EDLs. This role also assigns the sn\_si.analyst role.
 -   The \(admin\) assigns the ServiceNow AI Platform® API account role \(sn\_sec\_panfw.api\_account\_access\), which is used exclusively for entering credentials required for authentication on Palo Alto Networks so the firewalls can retrieve EDLs from the ServiceNow AI Platform®.
--   \(sn\_si.analyst\), or [[security-operations-landing-page|Security Operations]] Center \(SOC\) Analyst, creates EDL entries and works with security incidents.
+-   \(sn\_si.analyst\), or Security Operations Center \(SOC\) Analyst, creates EDL entries and works with security incidents.
 
 </td></tr><tr><td>
 
@@ -80,7 +80,7 @@ Madrid and later release requirements
 3.  Security Support Common
 4.  Security Support Orchestration
 
- For more information on setting up your ServiceNow AI Platform instance for the integration, see [[entitle-secops-product|Get entitlement for a Security Operations product or application]] and [[activate-entitled-store-app|Activate a ServiceNow Store application]].
+ For more information on setting up your ServiceNow AI Platform instance for the integration, see [Get entitlement for a Security Operations product or application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/entitle-secops-product.md) and [Activate a ServiceNow Store application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/activate-entitled-store-app.md).
 
 </td></tr><tr><td>
 
@@ -93,7 +93,7 @@ To verify that email send/receive capability is enabled in your ServiceNow AI Pl
 </td></tr></tbody>
 </table>## Procedure
 
-1.  If you have not installed the application for the integration, see [[install-non-core-apps|Install a Security Operations integration]] and follow the steps to install it.
+1.  If you have not installed the application for the integration, see [Install a Security Operations integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/install-non-core-apps.md) and follow the steps to install it.
 
 
 **Parent Topic:**[Palo Alto Networks Next-Generation Firewall integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/paloalto_integration.md)
@@ -102,10 +102,3 @@ To verify that email send/receive capability is enabled in your ServiceNow AI Pl
 
 **Next topic:**[Create the API account role for Palo Alto Networks Next-Generation Firewall](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/paloalto-create-snrole.md)
 
-## Related
-
-- [[entitle-secops-product|Get entitlement for a Security Operations product or application]]
-- [[activate-entitled-store-app|Activate a ServiceNow Store application]]
-- [[install-non-core-apps|Install a Security Operations integration]]
-- [[sir-landing-page|Security Incident Response]]
-- [[security-operations-landing-page|Security Operations]]

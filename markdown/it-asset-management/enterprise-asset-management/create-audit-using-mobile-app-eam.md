@@ -15,7 +15,7 @@ breadcrumb: [Manage enterprise asset inventory audit using the ServiceNow Agent 
 
 # Create an enterprise audit record using the ServiceNow Agent app
 
-Create an inventory audit record using the [[agent-mobile-asset|ServiceNow Agent app]].
+Create an inventory audit record using the ServiceNow Agent app.
 
 ## Before you begin
 
@@ -116,7 +116,7 @@ Include consumables**Note:** This field appears if you’re creating a stockroom
 
 </td><td>
 
-Option to include [[c_ReceiveAConsumableAsset|consumable assets]] in the inventory audit. The available options are:-   Yes
+Option to include consumable assets in the inventory audit. The available options are:-   Yes
 -   No
 The default populated value for this field is derived using the **sn\_itam\_common.set\_default\_include\_consumables** system property.-   When this system property value is set to **yes**, the default value for the **Include consumables** field is set to **Yes**.
 -   When this system property value is set to **no**, the default value for the **Include consumables** field is set to **No**.
@@ -161,7 +161,3 @@ Scan the assets in the inventory using the ServiceNow Agent app.
 
 [Complete multi scan enterprise asset inventory audit using the ServiceNow Agent app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/complete-multi-scan-inventory-audit-using-mobile-app-eam.md)
 
-## Related
-
-- [[agent-mobile-asset|ServiceNow Agent app]]
-- [[c_ReceiveAConsumableAsset|Consumable assets]]

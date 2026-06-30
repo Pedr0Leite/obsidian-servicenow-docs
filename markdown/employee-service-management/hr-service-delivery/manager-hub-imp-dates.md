@@ -14,13 +14,13 @@ breadcrumb: [Reference, Manager Hub, HR Service Delivery, Employee Service Manag
 
 # Default configurations for important dates
 
-Predefined set of important dates configurations are available to use once you have activated [[manager-hub-overview|Manager Hub]] from ServiceNow Store.
+Predefined set of important dates configurations are available to use once you have activated Manager Hub from ServiceNow Store.
 
 |Name|Description|
 |----|-----------|
 |Employee birthday|Configuration to display employees birthdays.|
 |Employee anniversary|Configuration to display employees anniversaries.|
-|Employee time off|Configuration to display employees [[config-w-daytimeoff|time offs]].|
+|Employee time off|Configuration to display employees time offs.|
 |Employee leave of absence|Configuration to display employees long leaves, such as parental leaves.|
 |Employee joining date|Configuration to display employees joining dates.|
 |Employee leaving date|Configuration to display employees leaving dates.|
@@ -48,19 +48,13 @@ For more details, navigate to **All** &gt; **Manager Hub** &gt; **Administration
 
 [Default configurations for To do's]()
 
-[Default [[proactive-prompts-for-hrsd|proactive prompts]] for Manager Hub]()
+[Default proactive prompts for Manager Hub]()
 
 [Use the View menu icon in Manager Hub]()
 
-[Assign [[exploring-learning-exp|learning]] form]()
+[Assign learning form]()
 
 [Create a conversation form]()
 
 [Schedule a conversation form]()
 
-## Related
-
-- [[manager-hub-overview|Manager Hub]]
-- [[config-w-daytimeoff|Time offs]]
-- [[proactive-prompts-for-hrsd|Proactive Prompts]]
-- [[exploring-learning-exp|Learning]]

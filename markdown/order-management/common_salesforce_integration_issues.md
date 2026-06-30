@@ -12,7 +12,7 @@ breadcrumb: [CPQ integration with Salesforce B2B Commerce, CPQ with other apps, 
 
 # Common Salesforce integration issues
 
-Learn how to solve problems you may have [[integrations|integrating CPQ]] with Salesforce.
+Learn how to solve problems you may have integrating CPQ with Salesforce.
 
 When Salesforce CPQ is a host for CPQ configurations, integrating the two sites my lead to some common errors. Here is a list of known issues with their solutions and what to check.
 
@@ -77,7 +77,7 @@ Please also submit a support ticket so that we can send this request to our DevO
 
 ## Not generating configuration line items or configuration field data sets
 
-This functionality is not used by many implementations, but when it is, it is paramount that the expected Salesforce Objects are created. Configuration line items \(CLIs\) and configuration field data [[cpq-sets|sets]] \(CFDSs\) are Salesforce objects that are managed by our base managed package, and their creation is asynchronous with the data that is pushed to the quote line.
+This functionality is not used by many implementations, but when it is, it is paramount that the expected Salesforce Objects are created. Configuration line items \(CLIs\) and configuration field data sets \(CFDSs\) are Salesforce objects that are managed by our base managed package, and their creation is asynchronous with the data that is pushed to the quote line.
 
 The moment that a user saves the configuration from CPQ, the process to create these objects begins, regardless of whether you save the final quote lines created in the QLE. When this occurs, there is usually only one place to check.
 
@@ -94,7 +94,7 @@ If these settings are not enabled, these objects will not be created when the us
 If these settings are enabled, and you still do not see CLIs or CFDSs \(or Extended Information Field Mapping is not working\), try the following:
 
 -   Check the [logs](https://logikio.atlassian.net/wiki/spaces/CS/pages/2022735879) to see whether the error “Salesforce syncing of LGK\_\_ConfigurationLineItem\_\_c object for configuration \[\*\*\*\*\*\*\] did not complete successfully” appears. There may be more information in the “Paused And Failed Flow Interviews” page in your Salesforce Setup.
--   Check the permissions of the integration user against the list in [[integration_user_required_permissions|Required permissions for the integration user]].
+-   Check the permissions of the integration user against the list in [Required permissions for the integration user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/integration_user_required_permissions.md).
 
 ## Saving does not create child quote lines
 
@@ -111,11 +111,11 @@ We only create quote line items when a BOM item fits these conditions:
 -   The BOM type of the item is specified in the “BOM Types to Include in Save Request” setting
 -   The product exists in our database from our product sync with Salesforce
 
-This issue occurs when the user clicks Save from CPQ and they are met with only the parent Configurable product that they launched the configuration from, and no child quote lines that were created in [[understand-the-commerce-logic-engine|the CPQ configurator]]. This usually means that there is a disconnect between the product Object in Salesforce and the BOM item created in CPQ.
+This issue occurs when the user clicks Save from CPQ and they are met with only the parent Configurable product that they launched the configuration from, and no child quote lines that were created in the CPQ configurator. This usually means that there is a disconnect between the product Object in Salesforce and the BOM item created in CPQ.
 
 Solutions:
 
--   Check whether the products exist in your Salesforce Site with the same product IDs that are determined by your product [[rules_101|rules]]. If the products exist, try updating a field in the product record \(such as “Active”\), saving, reverting it, waiting 30 minutes, and then trying again.
+-   Check whether the products exist in your Salesforce Site with the same product IDs that are determined by your product rules. If the products exist, try updating a field in the product record \(such as “Active”\), saving, reverting it, waiting 30 minutes, and then trying again.
 
     Our product record sync relies on the Last Modified Date of the product2 records to speed up performance. If your environment was repointed from another one, products that did not exist in your last environment may now exist here and have a date that is older than the reconnect. Wait for the product sync to complete every 30 minutes, and try to save the configuration again.
 
@@ -140,9 +140,9 @@ Solutions:
 
 ## Saving does not create quote lines as expected
 
-This usually happens when one of the [[fields|fields]] on the child quote lines are being populated in a way that is not reflected in the CPQ configuration. This is a tricky issue to track since there isn’t a clear error.
+This usually happens when one of the fields on the child quote lines are being populated in a way that is not reflected in the CPQ configuration. This is a tricky issue to track since there isn’t a clear error.
 
-Solution: Check to see whether the SFDC environment has any quote calculator plugin \(QCP\) [[scripts|scripts]], flows, or Apex triggers acting on the quote lines.
+Solution: Check to see whether the SFDC environment has any quote calculator plugin \(QCP\) scripts, flows, or Apex triggers acting on the quote lines.
 
 For QCP specifically, search custom scripts. Also check whether there is a script in the Quote Calculator Plugin field \(Setup &gt; Installed packages &gt; Salesforce CPQ &gt; Plugin\).
 
@@ -173,7 +173,7 @@ Solutions:
 
     \[Omitted image "cpq-product-related-tab.png"\] Alt text: Salesforce issues
 
--   Check whether the Blueprint uses [[twinning_how_to_pull_salesforce_cpq_quote_information_into_logik_io|twinning]], which could be triggering a rule to clear certain selections, or has the On Configure/Reconfigure Enrichment set up incorrectly. To learn more about this issue, see [[enrichments_on_configurer_and_reconfigure_behavior|Scripting: Checking for first and subsequent configurations]].
+-   Check whether the Blueprint uses [twinning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/twinning_how_to_pull_salesforce_cpq_quote_information_into_logik_io.md), which could be triggering a rule to clear certain selections, or has the On Configure/Reconfigure Enrichment set up incorrectly. To learn more about this issue, see [Scripting: Checking for first and subsequent configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/enrichments_on_configurer_and_reconfigure_behavior.md).
 
 ## Saving doesn't create child quote lines
 
@@ -191,7 +191,7 @@ Solution:
 
 -   If this is happening for only one user:
     -   Confirm that they have Admin access. See [User access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown).
-    -   Check whether they are running into browser issues. See [[common_browser_issues_while_using_logik_io|Common browser issues while using CPQ]].
+    -   Check whether they are running into browser issues. See [Common browser issues while using CPQ](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/common_browser_issues_while_using_logik_io.md).
 -   If this is happening for a group of users:
     -   Confirm that their profile and permission group have the proper SFDC permissions. See [What to do if receiving an Insufficient Privileges or blank screen when launching a Logik configuration](https://customer.help.logik.io/servicedesk/customer/portal/4/article/1616314402).
     -   Confirm that CPQ has been added to Trusted URLs in the Setup section, with iFrame enabled. While this isn't necessary in all cases, we've seen this addition help organizations with CPQ users from multiple different countries, or if they are using Subscription Manager/RLM.
@@ -221,7 +221,7 @@ Solutions:
 
     \[Omitted image "cpq-logs-2.png"\] Alt text: Logs
 
-    If you find no errors in the logs, review [[common_error_messages_and_causes|Common error messages and causes]]. This may be due to an issue with the On Configure/Reconfigure script of the Blueprint, or with a twinned field that is expected from the quote.
+    If you find no errors in the logs, review [Common error messages and causes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/common_error_messages_and_causes.md). This may be due to an issue with the On Configure/Reconfigure script of the Blueprint, or with a twinned field that is expected from the quote.
 
 -   If this is happening for only one user, check whether they are experiencing browser issues. See [Common browser issues while using CPQ](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/common_browser_issues_while_using_logik_io.md).
 -   If this is happening for a group of users, check to see whether their profile and permission group have the proper SFDC permissions. See [What to do if receiving an Insufficient Privileges or blank screen when launching a Logik configuration](https://customer.help.logik.io/servicedesk/customer/portal/4/article/1616314402) .
@@ -261,16 +261,3 @@ Error saving record: We couldn't convert the configurable product to a static pr
 
 This error can occur when you try to uncheck the **LGK\_\_IsConfigurable\_\_c** field on a Product2 record. To resolve the issue, from the Salesforce app launcher, visit the Logik.io Admin Custom Settings page and enable the **Skip Configurable Product Setup Trigger** setting.
 
-## Related
-
-- [[integration_user_required_permissions|Required permissions for the integration user]]
-- [[twinning_how_to_pull_salesforce_cpq_quote_information_into_logik_io|twinning_how_to_pull_salesforce_cpq_quote_information_into_logik_io]]
-- [[enrichments_on_configurer_and_reconfigure_behavior|enrichments_on_configurer_and_reconfigure_behavior]]
-- [[common_browser_issues_while_using_logik_io|Common browser issues while using CPQ]]
-- [[common_error_messages_and_causes|Common error messages and causes]]
-- [[integrations|Integrating CPQ]]
-- [[cpq-sets|Sets]]
-- [[understand-the-commerce-logic-engine|The CPQ Configurator]]
-- [[rules_101|Rules]]
-- [[fields|Fields]]
-- [[scripts|Scripts]]

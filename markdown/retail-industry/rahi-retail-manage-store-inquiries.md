@@ -12,21 +12,21 @@ breadcrumb: [Retail]
 
 # Manage store inquiries
 
-Manage your store inquiry cases by creating, managing, and resolving them by using the [[rahi-retail-portal|retail portal]], workspace, or mobile app.
+Manage your store inquiry cases by creating, managing, and resolving them by using the retail portal, workspace, or mobile app.
 
 For more information on your store inquiry cases, see the following topics:
 
--   [[rahi-retail-create-store-service-portal|Create a store inquiry case from the Retail portal]]
--   [[rahi-retail-fulfill-retail-store-service-case|Manage a store inquiry case from the Retail portal]]
--   [[rahi-retail-track-store-inquiry-case|Track a store inquiry case from the Retail portal]]
--   [[rahi-retail-creating-request-mobile|Create a store inquiry case from a mobile app]]
--   [[rahi-retail-fulfill-retail-store-service-case-mobile|Manage a store inquiry case from a mobile app]]
--   [[rahi-retail-tract-store-inquiry-case-retail-mobile-app|Track a store inquiry case from a Retail mobile app]]
--   [[rahi-retail-fulfill-retail-store-service-workspace|Resolve a store inquiry support request from workspace]]
--   [[rahi-retail-retail-store-services|Store inquiry case]]
+-   [Create a store inquiry case from the Retail portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-create-store-service-portal.md)
+-   [Manage a store inquiry case from the Retail portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-fulfill-retail-store-service-case.md)
+-   [Track a store inquiry case from the Retail portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-track-store-inquiry-case.md)
+-   [Create a store inquiry case from a mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-creating-request-mobile.md)
+-   [Manage a store inquiry case from a mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-fulfill-retail-store-service-case-mobile.md)
+-   [Track a store inquiry case from a Retail mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-tract-store-inquiry-case-retail-mobile-app.md)
+-   [Resolve a store inquiry support request from workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-fulfill-retail-store-service-workspace.md)
+-   [Store inquiry case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-retail-store-services.md)
 
 -   **[Create a store inquiry case from the Retail portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-create-store-service-portal.md)**  
-Create a [[rahi-retail-operations-overview|retail]] store inquiry case from the Retail portal to report issues on behalf of the store that you're associated with. By using the Retail portal to create a case, you can more efficiently get updated information about your case in real time.
+Create a retail store inquiry case from the Retail portal to report issues on behalf of the store that you're associated with. By using the Retail portal to create a case, you can more efficiently get updated information about your case in real time.
 -   **[Manage a store inquiry case from the Retail portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-fulfill-retail-store-service-case.md)**  
 Accept, reject, or close a store inquiry case from the Retail portal. By using the Retail portal, you can handle cases more efficiently and get updated information in real time.
 -   **[Track a store inquiry case from the Retail portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-track-store-inquiry-case.md)**  
@@ -40,15 +40,3 @@ Track the status of a store inquiry case from a mobile app. By tracking your cas
 -   **[Resolve a store inquiry support request from workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-fulfill-retail-store-service-workspace.md)**  
 Resolve a store inquiry case with a resolution from your workspace.
 
-## Related
-
-- [[rahi-retail-create-store-service-portal|Create a store inquiry case from the Retail portal]]
-- [[rahi-retail-fulfill-retail-store-service-case|Manage a store inquiry case from the Retail portal]]
-- [[rahi-retail-track-store-inquiry-case|Track a store inquiry case from the Retail portal]]
-- [[rahi-retail-creating-request-mobile|Create a store inquiry case from a mobile app]]
-- [[rahi-retail-fulfill-retail-store-service-case-mobile|Manage a store inquiry case from a mobile app]]
-- [[rahi-retail-tract-store-inquiry-case-retail-mobile-app|Track a store inquiry case from a Retail mobile app]]
-- [[rahi-retail-fulfill-retail-store-service-workspace|Resolve a store inquiry support request from workspace]]
-- [[rahi-retail-retail-store-services|Store inquiry case]]
-- [[rahi-retail-portal|Retail portal]]
-- [[rahi-retail-operations-overview|Retail]]

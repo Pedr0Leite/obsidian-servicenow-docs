@@ -14,7 +14,7 @@ breadcrumb: [Harness, Integrate, DevOps Change Velocity, IT Service Management]
 
 # Configure webhooks in Harness manually
 
-Configure webhooks manually in Harness to send pipeline notifications to [[devops-landing-page-new|DevOps Change Velocity]].
+Configure webhooks manually in Harness to send pipeline notifications to DevOps Change Velocity.
 
 ## Before you begin
 
@@ -61,7 +61,7 @@ Role required:
 
     5.  Add "&amp;projectId=&lt;project\_sys\_id&gt;" in the URL to add the account identifier.
 
-        **Note:** Project Id or Account Id is the unique identifier for your account in the Harness platform. Copy it from Account [[settings-mobile|Settings]] of your Harness account.
+        **Note:** Project Id or Account Id is the unique identifier for your account in the Harness platform. Copy it from Account Settings of your Harness account.
 
         For example:
 
@@ -87,7 +87,3 @@ Role required:
 
 **Parent Topic:**[Harness integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/harness-integration-with-devops-change-velocity.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[settings-mobile|Settings]]

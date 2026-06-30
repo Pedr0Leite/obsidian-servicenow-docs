@@ -14,16 +14,12 @@ breadcrumb: [Configuring contextual search, Contextual search, Search administra
 
 # Filter configuration for contextual search
 
-Define filter [[clone-configurations-tab|configurations]] to map fields from the form to provide a more targeted search result set.
+Define filter configurations to map fields from the form to provide a more targeted search result set.
 
 -   **[Create a filter configuration using mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/create-filter-config-using-mapping.md)**  
 Create filter conditions using mapping that you can associate with a table configuration. The search result displays result that meets the filter conditions.
 -   **[Create a filter configuration using scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/create-filter-config-using-scripting.md)**  
-Create filter conditions using script that you can associate with a table configuration. The search result displays [[hs-results|results]] that meet the filter conditions.
+Create filter conditions using script that you can associate with a table configuration. The search result displays results that meet the filter conditions.
 
 **Parent Topic:**[Configuring contextual search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/configuring-contextual-search.md)
 
-## Related
-
-- [[clone-configurations-tab|Configurations]]
-- [[hs-results|Results]]

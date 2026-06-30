@@ -14,7 +14,7 @@ breadcrumb: [Obligation Management, Use, Contract Management Pro, Legal and Cont
 
 # Approve or reject obligation tasks
 
-As an obligation fulfiller, review obligation tasks in [[cncore-obligation-management|Obligation Management]] that have been submitted for approval, and take the appropriate action.
+As an obligation fulfiller, review obligation tasks in Obligation Management that have been submitted for approval, and take the appropriate action.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_cm\_obligation.obligation\_fulfiller
 
 ## Procedure
 
-1.  Open the obligation task from the notification email, [[employee-center-landing-page|Employee Center]], or [[cncore-contract-workspace|Contract Workspace]].
+1.  Open the obligation task from the notification email, Employee Center, or Contract Workspace.
 
 <table id="choicetable_ix4_gbl_trb"><thead><tr><th align="left" id="d722364e64">
 
@@ -57,7 +57,7 @@ Select the link in the notification email sent when an obligation task is assign
 
 </td><td>
 
-**Note:** The sn\_cm\_workspace.contract\_workspace\_user role is required to access [[legal-counsel-center-landing|Legal Counsel Center]].
+**Note:** The sn\_cm\_workspace.contract\_workspace\_user role is required to access Legal Counsel Center.
 
  1.  Navigate to **All** &gt; **Contract Workspace**.
 2.  Select the list icon \(\[Omitted image "lsd-lcc-list-icon.png"\] Alt text: List icon\).
@@ -107,9 +107,3 @@ When the obligation task is rejected, the assigned user is notified and the stat
 
 **Parent Topic:**[Obligation Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-obligation-management.md)
 
-## Related
-
-- [[cncore-obligation-management|Obligation Management]]
-- [[employee-center-landing-page|Employee Center]]
-- [[cncore-contract-workspace|Contract Workspace]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]

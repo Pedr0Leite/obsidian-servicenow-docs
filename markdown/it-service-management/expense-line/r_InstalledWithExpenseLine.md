@@ -14,7 +14,7 @@ breadcrumb: [Expense Line, IT Service Management]
 
 # Components installed with Expense Line
 
-Several types of components are installed with the [[c_ExpenseLine|Expense Line]] plugin.
+Several types of components are installed with the Expense Line plugin.
 
 **Parent Topic:**[Expense Line](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/expense-line/c_ExpenseLine.md)
 
@@ -105,6 +105,3 @@ For more information on support levels, see [Application support for domain sepa
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[c_ExpenseLine|Expense Line]]

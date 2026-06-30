@@ -34,7 +34,7 @@ User ID
 
 </td><td>
 
-Automatically generated number assigned to each unique user tracked by [[user-exp-analytics-landing|Usage Insights]]. Select the User ID to view the user's sessions and Activity timeline.
+Automatically generated number assigned to each unique user tracked by Usage Insights. Select the User ID to view the user's sessions and Activity timeline.
 
 </td></tr><tr><td>
 
@@ -107,6 +107,3 @@ You can filter the Users list by date range, User type, and Country by default. 
 
 **Parent Topic:**[Using Usage Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/using-uxa.md)
 
-## Related
-
-- [[user-exp-analytics-landing|Usage Insights]]

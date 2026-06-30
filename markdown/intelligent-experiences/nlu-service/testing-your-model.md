@@ -20,9 +20,9 @@ Assess the performance of your NLU model to identify areas for improvement. Then
 
 Test your Virtual Agent or AI Search model against its default test set to see how the model responds. Test results provide information you can use to improve your model.
 
-**Note:** Testing your model requires the [[batch-testing-nlu|Multi-model Batch Testing]] feature, available with the [[nlu-workbench-advanced-features|NLU Workbench - Advanced Features]] application from ServiceNow® Store. For more information, see [Install NLU Workbench - Advanced Features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/install-nlu-workbench-adv-features.md).
+**Note:** Testing your model requires the Multi-model Batch Testing feature, available with the NLU Workbench - Advanced Features application from ServiceNow® Store. For more information, see [Install NLU Workbench - Advanced Features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/install-nlu-workbench-adv-features.md).
 
-To [[test-your-model|test your model]], navigate to **NLU Workbench** &gt; **Models**. Select the tab for your model's application, then select the name of the model. In the **Test and publish your model** card, select **View phase.** \[Omitted image "testing-your-model001.png"\] Alt text: Test and publish your model phase card
+To test your model, navigate to **NLU Workbench** &gt; **Models**. Select the tab for your model's application, then select the name of the model. In the **Test and publish your model** card, select **View phase.** \[Omitted image "testing-your-model001.png"\] Alt text: Test and publish your model phase card
 
 ## Overview of testing and publishing your model
 
@@ -97,7 +97,7 @@ For information about utterances which should not have any intent predicted, see
 
 The **Publish model** button makes the current version of the model available to other applications such as Virtual Agent.
 
-**Note:** If the model has not been trained, the **Publish model** button is unavailable. Return to the **[[managing-model-content|Build and train your model]]** phase to train the model before publishing.
+**Note:** If the model has not been trained, the **Publish model** button is unavailable. Return to the **Build and train your model** phase to train the model before publishing.
 
 For more information on publishing your model, see [Publish your NLU model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/publish-nlu-model.md).
 
@@ -114,9 +114,3 @@ For more information about test sets, see:
 
 For information about the process of testing, see [Test your model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/test-your-model.md).
 
-## Related
-
-- [[batch-testing-nlu|Multi-model Batch Testing]]
-- [[nlu-workbench-advanced-features|NLU Workbench - Advanced Features]]
-- [[test-your-model|Test your model]]
-- [[managing-model-content|Build and train your model]]

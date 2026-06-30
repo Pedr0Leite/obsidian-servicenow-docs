@@ -41,17 +41,12 @@ The export lead feature in Lead Management exports a list of all leads. Use the 
     The list of leads is exported according to the parameters set.
 
 
-**Parent Topic:**[[lead-management-using|Using Lead Management]]
+**Parent Topic:**[Using Lead Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management-using.md)
 
 **Related topics**  
 
 
-[[configure-lead-management|Install and configure Lead Management]]
+[Install and configure Lead Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-lead-management.md)
 
-[[lead-management|Lead Management]]
+[Lead Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management.md)
 
-## Related
-
-- [[lead-management-using|Using Lead Management]]
-- [[configure-lead-management|Install and configure Lead Management]]
-- [[lead-management|Lead Management]]

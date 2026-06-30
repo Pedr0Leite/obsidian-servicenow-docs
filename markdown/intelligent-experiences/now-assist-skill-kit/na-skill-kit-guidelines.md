@@ -14,7 +14,7 @@ breadcrumb: [Exploring Now Assist Skill Kit, Now Assist Skill Kit, Enable AI exp
 
 # General guidelines for Now Assist Skill Kit
 
-General guidelines are available to use [[now-assist-skill-kit-landing|Now Assist Skill Kit]].
+General guidelines are available to use Now Assist Skill Kit.
 
 ## Now Assist Skill Kit guidelines overview
 
@@ -34,9 +34,5 @@ Now Assist Skill Kit needs intermediate skills in prompt engineering. If you're 
 
 There’s information and helpful tooltips in many places throughout the product. Use this information to understand how to use the tool more effectively.
 
-To ensure that there’s a proper segregation of duties, a developer or generative AI practitioner creates the skill and then publishes it. After the skill is published, a [[platform-now-assist-landing|Now Assist]] Admin will activate the skill, so that it shows up at the configured touch points and is available to use.
+To ensure that there’s a proper segregation of duties, a developer or generative AI practitioner creates the skill and then publishes it. After the skill is published, a Now Assist Admin will activate the skill, so that it shows up at the configured touch points and is available to use.
 
-## Related
-
-- [[now-assist-skill-kit-landing|Now Assist Skill Kit]]
-- [[platform-now-assist-landing|Now Assist]]

@@ -32,11 +32,11 @@ Data source
 
 </td><td>
 
-You have selected an Indicator data source in [[create-dv-bar-ac|Create a horizontal or vertical bar data visualization]].
+You have selected an Indicator data source in [Create a horizontal or vertical bar data visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-bar-ac.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
-MetricYou can set multiple metrics. You can set whether dashboard filters apply to individual metrics. For more information, see [[chart-options-multi-metrics|Options for time series data visualizations with multiple metrics]].
+MetricYou can set multiple metrics. You can set whether dashboard filters apply to individual metrics. For more information, see [Options for time series data visualizations with multiple metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/chart-options-multi-metrics.md).
 
 </td></tr><tr><td>
 
@@ -185,7 +185,7 @@ This selection opens a dialog in which you select additional items that the data
 
 Data snapshots indicators support only reference, boolean, and choice fields for alternative group bys.
 
-For more information about setting alternative group-bys for multiple metrics, see [Options for time series data visualizations with multiple metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/chart-options-multi-metrics.md). For more information about the viewer experience selecting from alternative group-by values, see [[select-group-runtime|Select a group-by value in a data visualization as a viewer]].
+For more information about setting alternative group-bys for multiple metrics, see [Options for time series data visualizations with multiple metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/chart-options-multi-metrics.md). For more information about the viewer experience selecting from alternative group-by values, see [Select a group-by value in a data visualization as a viewer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/select-group-runtime.md).
 
 **Important:**
 
@@ -309,7 +309,7 @@ Follow filter per metric
 
 </td><td>
 
-If the visualization shows multiple metrics, toggle filter following on and off for each metric. Default: All metrics follow filters if Follow filters is on. For more information, see [[chart-options-bars-multi-metrics|Following filters per metric]].
+If the visualization shows multiple metrics, toggle filter following on and off for each metric. Default: All metrics follow filters if Follow filters is on. For more information, see [Following filters per metric](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/chart-options-bars-multi-metrics.md).
 
 </td></tr><tr><td>
 
@@ -382,9 +382,3 @@ The alignment of the illustration and text in the message.
 </td></tr></tbody>
 </table>**Parent Topic:**[Create a horizontal or vertical bar data visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-bar-ac.md)
 
-## Related
-
-- [[create-dv-bar-ac|Create a horizontal or vertical bar data visualization]]
-- [[chart-options-multi-metrics|Options for time series data visualizations with multiple metrics]]
-- [[select-group-runtime|Select a group-by value in a data visualization as a viewer]]
-- [[chart-options-bars-multi-metrics|Following filters per metric]]

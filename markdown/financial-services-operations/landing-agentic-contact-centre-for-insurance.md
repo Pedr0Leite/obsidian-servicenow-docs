@@ -31,11 +31,7 @@ Agentic Contact Center for Insurance enables insurance CSR agents to handle cust
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Review details on the [[components-installed-with-dispute-rules-content-pack-for-mastercard|components installed]] in this application.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/reference-agentic-contact-centre-for-insurance.md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Review details on the components installed in this application.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/reference-agentic-contact-centre-for-insurance.md)
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[components-installed-with-dispute-rules-content-pack-for-mastercard|Components installed]]

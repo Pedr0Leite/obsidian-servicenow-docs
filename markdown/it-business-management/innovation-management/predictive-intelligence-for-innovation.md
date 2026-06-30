@@ -16,7 +16,7 @@ breadcrumb: [Exploring Innovation Management, Innovation Management, Project Por
 
 The Predictive Intelligence for Innovation Management capability uses machine-learning algorithms to search and display similar ideas while submitting a new idea.
 
-The PPM Predictive Intelligence Workbench includes a prebuilt use case template that systematically guides you through the process of creating and training new predictive models, evaluating and testing them, and finally adding them to your business process to add value to your Idea, Demand, and [[c_ProjectApplicationOverview|Project Management]].
+The PPM Predictive Intelligence Workbench includes a prebuilt use case template that systematically guides you through the process of creating and training new predictive models, evaluating and testing them, and finally adding them to your business process to add value to your Idea, Demand, and Project Management.
 
 Once you train your custom use cases, they are usable immediately. No prior knowledge or experience with artificial intelligence or machine learning is required when you use the PPM Predictive Intelligence Workbench.
 
@@ -64,7 +64,7 @@ Similarity
 
 </td><td>
 
-Suggests related ideas based on the **Title** and **Description** fields. You can see the results in the following places:-   The Related Ideas section on the [[create-an-idea-form|Create an Idea form]] when creating an idea in the Idea Portal.
+Suggests related ideas based on the **Title** and **Description** fields. You can see the results in the following places:-   The Related Ideas section on the Create an Idea form when creating an idea in the Idea Portal.
 -   The Related Ideas section on the Ideas page in the Idea Portal.
 
 </td></tr></tbody>
@@ -81,7 +81,3 @@ Suggests related ideas based on the **Title** and **Description** fields. You ca
 
 [PPM PIWB template - Find similar ideas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/ppm-piwb-idea.md)
 
-## Related
-
-- [[c_ProjectApplicationOverview|Project Management]]
-- [[create-an-idea-form|Create an Idea form]]

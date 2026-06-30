@@ -18,7 +18,7 @@ The tangible/physical life-cycle states represent the overall life cycle of phys
 
 ## Definitions of tangible/physical life cycle stage and life cycle stage status values
 
-**Note:** The CI [[label|label]] tangible/physical includes and supersedes the "Hardware" label that had been used in earlier releases.
+**Note:** The CI label tangible/physical includes and supersedes the "Hardware" label that had been used in earlier releases.
 
 \[Omitted image "csdm-lifecycle-vp-tangible-physical.png"\] Alt text: Relationships between CSDM stages and life cycle values.
 
@@ -113,6 +113,3 @@ The tangible/physical life-cycle states represent the overall life cycle of phys
 
 **Parent Topic:**[Life cycle of tangible/physical CIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-lifecycle-hardware.md)
 
-## Related
-
-- [[label|Label]]

@@ -14,7 +14,7 @@ breadcrumb: [Explore, Security Incident Response Workspace, Security Incident Re
 
 # Shift Handover Records section
 
-The section displays the list of Shift Handover records in the [[sir-workspace-landing-page|Security Incident Response Workspace]].
+The section displays the list of Shift Handover records in the Security Incident Response Workspace.
 
 The Shift Handover records section on the Security Incident Response Workspace displays the last two Shift Handover records based on the End date, State, and User group fields defined for those records. To view all the Shift Handover Records, select **View all**.
 
@@ -37,6 +37,3 @@ The Shift Handover records section on the Security Incident Response Workspace d
 
 [List view in SIR Workspace]()
 
-## Related
-
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]

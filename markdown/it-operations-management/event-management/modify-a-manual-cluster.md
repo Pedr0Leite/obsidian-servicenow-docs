@@ -22,7 +22,7 @@ Role required: evt\_mgmt\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Administration** &gt; **Manual Clusters**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Administration** &gt; **Manual Clusters**.
 
 2.  From the list, select a manual cluster.
 
@@ -62,6 +62,3 @@ The manual cluster is saved in the EM Impact Manual Cluster \[em\_impact\_manual
 
 [Configuring CIs in a manual service as a manual cluster](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/manual-cluster-in-a-manual-service.md)
 
-## Related
-
-- [[c_EM|Event Management]]

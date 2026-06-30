@@ -14,9 +14,9 @@ breadcrumb: [Working on major incident management, Managing major incidents, Inc
 
 # Major incident assignment
 
-A major incident is assigned to a group automatically at the time of proposal and promotion based on the value of the property **Major [[c_IncidentManagement|Incident Management]] Group \(sys\_id\) to whom the Major Incident should be re-assigned on promotion to 'Major Incident'** \(**sn\_major\_inc\_mgmt.major\_incident\_management\_group**\). The assigned group works on the major incident and resolves it.
+A major incident is assigned to a group automatically at the time of proposal and promotion based on the value of the property **Major Incident Management Group \(sys\_id\) to whom the Major Incident should be re-assigned on promotion to 'Major Incident'** \(**sn\_major\_inc\_mgmt.major\_incident\_management\_group**\). The assigned group works on the major incident and resolves it.
 
-The incident is assigned to an individual if the [[c_OnCallScheduling|On-Call Scheduling]] plugin \(com.snc.on\_call\_rotation\) is activated and a shift is defined for the group. The following table illustrates the different conditions under which a major incident is assigned to a group and a user.
+The incident is assigned to an individual if the On-Call Scheduling plugin \(com.snc.on\_call\_rotation\) is activated and a shift is defined for the group. The following table illustrates the different conditions under which a major incident is assigned to a group and a user.
 
 <table id="table_nhx_43h_hdb"><thead><tr><th>
 
@@ -131,7 +131,3 @@ No change - incident remains with the current value in the **Assigned to** field
 
 **Parent Topic:**[Working on major incident management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/work-on-mim.md)
 
-## Related
-
-- [[c_IncidentManagement|Incident Management]]
-- [[c_OnCallScheduling|On-Call Scheduling]]

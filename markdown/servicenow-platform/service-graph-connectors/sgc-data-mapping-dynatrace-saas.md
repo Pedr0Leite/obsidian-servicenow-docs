@@ -14,11 +14,11 @@ breadcrumb: [Observability - Dynatrace SaaS, Service Graph Connectors, Integrati
 
 # Data mapping for Service Graph Connector for Observability - Dynatrace SaaS
 
-Data from the Dynatrace data sources is mapped and transformed into the ServiceNow CMDB Configuration Item \(CI\) class definitions using the Robust Transform Engine \(RTE\). Data is inserted into the ServiceNow CMDB using the [[ire|Identification and Reconciliation Engine \(IRE\)]].
+Data from the Dynatrace data sources is mapped and transformed into the ServiceNow CMDB Configuration Item \(CI\) class definitions using the Robust Transform Engine \(RTE\). Data is inserted into the ServiceNow CMDB using the Identification and Reconciliation Engine \(IRE\).
 
 When you complete setting up the connection, you can configure the integration to periodically pull data from Dynatrace.
 
-**Important:** The [[sgc-integration-observability-dynatrace-saas|Service Graph Connector for Observability - Dynatrace SaaS]] is designed for the Dynatrace SaaS \(3rd‑generation\) platform and leverages DQL-based APIs and the Grail architecture to import data from Dynatrace into the CMDB. If you're in a Dynatrace managed \(self‑hosted\) or legacy SaaS environment, you should use the [[cmdb-integration-dynatrace|Service Graph Connector for Observability - Dynatrace]].
+**Important:** The Service Graph Connector for Observability - Dynatrace SaaS is designed for the Dynatrace SaaS \(3rd‑generation\) platform and leverages DQL-based APIs and the Grail architecture to import data from Dynatrace into the CMDB. If you're in a Dynatrace managed \(self‑hosted\) or legacy SaaS environment, you should use the Service Graph Connector for Observability - Dynatrace.
 
 The following table lists the data sources, the staging tables, and the target tables as CMDB CI classes for Dynatrace.
 
@@ -79,7 +79,7 @@ When the SAM application is installed: [Software Installation](https://raw.githu
 
 </td><td>
 
-Host classification: Depending on the operating system \(OS\), data is imported into the Linux Server \[cmdb\_ci\_linux\_server\], Windows Server \[cmdb\_ci\_win\_server\], AIX Server \[cmdb\_ci\_aix\_server\], or Solaris Server \[cmdb\_ci\_solaris\_server\] classes. For other OS types, the data is imported into the [[class-computer|Computer \[cmdb\_ci\_computer\] class]].
+Host classification: Depending on the operating system \(OS\), data is imported into the Linux Server \[cmdb\_ci\_linux\_server\], Windows Server \[cmdb\_ci\_win\_server\], AIX Server \[cmdb\_ci\_aix\_server\], or Solaris Server \[cmdb\_ci\_solaris\_server\] classes. For other OS types, the data is imported into the Computer \[cmdb\_ci\_computer\] class.
 
 </td></tr><tr><td>
 
@@ -114,12 +114,5 @@ SGO-Dynatrace SaaS Service \[sn\_dynatrace\_saas\_sgo\_dynatrace\_saas\_service\
 -
 
 </td></tr></tbody>
-</table>You can use the [[integrationhub-etl|IntegrationHub ETL]] app to view the data maps. See [IntegrationHub ETL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/integration-hub-etl/integrationhub-etl.md) for more information.
+</table>You can use the IntegrationHub ETL app to view the data maps. See [IntegrationHub ETL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/integration-hub-etl/integrationhub-etl.md) for more information.
 
-## Related
-
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]
-- [[sgc-integration-observability-dynatrace-saas|Service Graph Connector for Observability - Dynatrace SaaS]]
-- [[cmdb-integration-dynatrace|Service Graph Connector for Observability - Dynatrace]]
-- [[class-computer|Computer \[cmdb\_ci\_computer\] class]]
-- [[integrationhub-etl|IntegrationHub ETL]]

@@ -14,7 +14,7 @@ breadcrumb: [Manage user appointments as a clinician or a vaccine agent, Use Vac
 
 # Create consumer users
 
-Clinicians and vaccine agents can create consumer records using the [[hcls-vam|Vaccine Administration Management]] application.
+Clinicians and vaccine agents can create consumer records using the Vaccine Administration Management application.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ Role required: sn\_vaccine\_sm.clinician
 
 **Parent Topic:**[Manage user appointments as a clinician or a vaccine agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/user-appt-mngt-clinicans-agents.md)
 
-## Related
-
-- [[hcls-vam|Vaccine Administration Management]]

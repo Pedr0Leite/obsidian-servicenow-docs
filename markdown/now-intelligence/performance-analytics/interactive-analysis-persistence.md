@@ -15,16 +15,11 @@ breadcrumb: [Interactive Analysis, Reporting, dashboards, and Performance Analyt
 
 # Interactive Analysis persistence
 
-The filters that you select persist between uses of [[interactive-analysis|Interactive Analysis]] per view and per user.
+The filters that you select persist between uses of Interactive Analysis per view and per user.
 
-When you [[launch-interactive-analysis-pa|launch Interactive Analysis]] on a view, a specific column in a table, for the first time, all filters are set to their default values. The next time you launch Interactive Analysis on the same view, selections including filters, filter order, group by, stack by, and aggregation parameters persist from the previous visit.
+When you launch Interactive Analysis on a view, a specific column in a table, for the first time, all filters are set to their default values. The next time you launch Interactive Analysis on the same view, selections including filters, filter order, group by, stack by, and aggregation parameters persist from the previous visit.
 
-In addition, **Group by** and **Stack by** elements are updated when filters are added to an analysis. For example, add a manager filter to an Interactive Analysis page. You can immediately group and stack your [[widgets|widgets]] by manager.
+In addition, **Group by** and **Stack by** elements are updated when filters are added to an analysis. For example, add a manager filter to an Interactive Analysis page. You can immediately group and stack your widgets by manager.
 
 **Parent Topic:**[Interactive Analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/interactive-analysis.md)
 
-## Related
-
-- [[interactive-analysis|Interactive Analysis]]
-- [[launch-interactive-analysis-pa|Launch Interactive Analysis]]
-- [[widgets|Widgets]]

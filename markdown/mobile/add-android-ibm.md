@@ -54,8 +54,5 @@ For more information on app distribution, see the following IBM documentation fo
 -   [Add an iTunes App Store app to the App Catalog](https://www.ibm.com/support/knowledgecenter/SS8H2S/com.ibm.mc.doc/pag_source/tasks/pag_apps_add_itunes.htm)
 -   [Add a Google Play app to the App Catalog](https://www.ibm.com/support/knowledgecenter/SS8H2S/com.ibm.mc.doc/pag_source/tasks/pag_apps_add_google_play.htm)
 
-**Parent Topic:**[[IBM-MaaS360-mdm|IBM MaaS360 mobile device management \(MDM\)]]
+**Parent Topic:**[IBM MaaS360 mobile device management \(MDM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/IBM-MaaS360-mdm.md)
 
-## Related
-
-- [[IBM-MaaS360-mdm|IBM MaaS360 mobile device management \(MDM\)]]

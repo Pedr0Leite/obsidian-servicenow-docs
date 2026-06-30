@@ -16,7 +16,7 @@ Activate the Data Collection Pack for App Eng after you enable and configure it.
 
 ## Before you begin
 
-Monthly Data collection within Performance/Platform [[io-analytics|Analytics]] runs on a schedule.
+Monthly Data collection within Performance/Platform Analytics runs on a schedule.
 
 **Important:** To get data collection up and running, perform the monthly setup only once.
 
@@ -24,7 +24,7 @@ Role required: admin, pa\_admin, or pa\_data\_collector
 
 ## Procedure
 
-1.  Navigate to **Performance/Platform Analytics &gt; Data Collector&gt; Jobs**, and then open **[[impact-landing-page|Impact]] VM – App Engine - Monthly Data Collection**.
+1.  Navigate to **Performance/Platform Analytics &gt; Data Collector&gt; Jobs**, and then open **Impact VM – App Engine - Monthly Data Collection**.
 
 2.  Select **Active**, and then update the record.
 
@@ -56,7 +56,4 @@ Role required: admin, pa\_admin, or pa\_data\_collector
 
         There are two tabs: Monthly - App Engine and Quarterly - App Engine. To validate historical data for any specific indicator, select the widget on the dashboard.
 
-## Related
 
-- [[io-analytics|Analytics]]
-- [[impact-landing-page|Impact]]

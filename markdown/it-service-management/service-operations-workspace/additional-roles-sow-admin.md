@@ -46,7 +46,7 @@ script\_include\_admin
 
 </td><td>
 
-Provides configuration access to the following sections of the [[dex-workspace-dashboard-tab|Landing Page]] in SOW Admin Center:-   Greetings
+Provides configuration access to the following sections of the Landing Page in SOW Admin Center:-   Greetings
 -   Tier1 - Upcoming tasks
 -   Tier2 - Upcoming tasks
 
@@ -193,7 +193,7 @@ problem\_manager
 
 </td><td>
 
-Responsible for the overall [[c_ProblemManagementProcess|Problem Management process]] and can configure [[c_ProblemManagement|Problem Management]] [[settings-mobile|settings]] in the SOW Admin Center. Also, act as a problem coordinator.
+Responsible for the overall Problem Management process and can configure Problem Management settings in the SOW Admin Center. Also, act as a problem coordinator.
 
 </td><td>
 
@@ -205,7 +205,7 @@ change\_manager
 
 </td><td>
 
-Provides access to configurations related to [[c_ITILChangeManagement|Change Management]] in SOW Admin Center.
+Provides access to configurations related to Change Management in SOW Admin Center.
 
 </td><td>
 
@@ -224,17 +224,9 @@ Provides access to configurations related to [[c_ITILChangeManagement|Change Man
 
 [Terminology in Service Operations Workspace for ITSM]()
 
-[Version compatibility between [[sow-landing-page|Service Operations Workspace for ITSM]] and Service Operations Workspace ITOM]()
+[Version compatibility between Service Operations Workspace for ITSM and Service Operations Workspace ITOM]()
 
 [Service Operations Workspace for ITSM data model]()
 
 [Components installed with Service Operations Workspace ITSM Applications]()
 
-## Related
-
-- [[dex-workspace-dashboard-tab|Landing page]]
-- [[c_ProblemManagementProcess|Problem Management process]]
-- [[c_ProblemManagement|Problem Management]]
-- [[settings-mobile|Settings]]
-- [[c_ITILChangeManagement|Change Management]]
-- [[sow-landing-page|Service Operations Workspace for ITSM]]

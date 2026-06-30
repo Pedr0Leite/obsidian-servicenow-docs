@@ -30,11 +30,7 @@ Role required: sn\_customerservice.customer
 **Related topics**  
 
 
-[[order-management-configure-business-portal|Configuring the Business Portal]]
+[Configuring the Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-management-configure-business-portal.md)
 
-[[som-self-service-business-portal|Customer self-service for Sales Customer Relationship Management]]
+[Customer self-service for Sales Customer Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-self-service-business-portal.md)
 
-## Related
-
-- [[order-management-configure-business-portal|Configuring the Business Portal]]
-- [[som-self-service-business-portal|Customer self-service for Sales Customer Relationship Management]]

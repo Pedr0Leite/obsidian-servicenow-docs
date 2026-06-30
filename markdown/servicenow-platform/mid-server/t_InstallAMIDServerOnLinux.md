@@ -14,7 +14,7 @@ breadcrumb: [Installing the MID Server, Configuring MID Server, MID Server, Mana
 
 # Install a MID Server on Linux
 
-Install MID Servers with the [[mid-server-landing|MID Server]] installer and verify it is active. The package includes an installer that automatically configures JRE to run in the environment. The MID Server can use an existing JRE rather than the provided JRE. Uninstall the MID Server to redeploy it.
+Install MID Servers with the MID Server installer and verify it is active. The package includes an installer that automatically configures JRE to run in the environment. The MID Server can use an existing JRE rather than the provided JRE. Uninstall the MID Server to redeploy it.
 
 ## Before you begin
 
@@ -181,7 +181,7 @@ Once all the inputs are entered, the MID Server automatically runs as a daemon s
 
 ## Linux MID Server silent installation
 
-Silently [[mid-server-installation|installing the MID Server]] uses predefined parameters and requires no user input after it is initiated. You can use silent installation on several machines at once to quickly set up a network and to ensure all MID Servers have the same installation settings.
+Silently installing the MID Server uses predefined parameters and requires no user input after it is initiated. You can use silent installation on several machines at once to quickly set up a network and to ensure all MID Servers have the same installation settings.
 
 To perform a silent installation with the Linux installer, run the following command:
 
@@ -215,13 +215,13 @@ The following fields can be passed through the command line:
 
 -   **USE\_PROXY**
 
-    Set this value to Y if your MID Server communicates through a proxy to [[c_Connect|connect]] to the instance.
+    Set this value to Y if your MID Server communicates through a proxy to connect to the instance.
 
     **Note:** If **USE\_PROXY** = N then skip the other proxy details.
 
 -   **PROXY\_HOST**
 
-    Enter the proxy server host name or [[ip-address|IP address]]. Do not include the protocol in the host name. For example: `proxyserver.domain.com` is correct, but `https://proxyserver.domain.com` is incorrect.
+    Enter the proxy server host name or IP address. Do not include the protocol in the host name. For example: `proxyserver.domain.com` is correct, but `https://proxyserver.domain.com` is incorrect.
 
 -   **PROXY\_PORT**
 
@@ -361,9 +361,3 @@ The MID Server service is uninstalled.
 
 [Validate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/t_ValidateAMIDServer.md) the MID Server to prepare it for use.
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[mid-server-installation|Installing the MID Server]]
-- [[c_Connect|Connect]]
-- [[ip-address|IP Address]]

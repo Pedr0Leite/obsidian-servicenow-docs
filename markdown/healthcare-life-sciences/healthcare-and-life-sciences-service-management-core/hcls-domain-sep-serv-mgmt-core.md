@@ -14,7 +14,7 @@ breadcrumb: [Reference, Healthcare and Life Sciences Service Management Core, He
 
 # Domain separation and Healthcare and Life Sciences Service Management Core
 
-Domain separation is supported for [[hcls-core-app|Healthcare and Life Sciences Service Management Core]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported for Healthcare and Life Sciences Service Management Core. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic
 
@@ -42,6 +42,3 @@ When healthcare providers have their healthcare data separated by domains, the h
 
 **Parent Topic:**[Healthcare and Life Sciences Service Management Core reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-serv-mgmt-core-reference.md)
 
-## Related
-
-- [[hcls-core-app|Healthcare and Life Sciences Service Management Core]]

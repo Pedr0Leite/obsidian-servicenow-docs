@@ -15,7 +15,7 @@ breadcrumb: [Now Assist for SPO, Sourcing and Procurement Operations, Finance an
 
 # Explore Now Assist for Sourcing and Procurement Operations \(SPO\)
 
-[[now-assist-spo|Now Assist for Sourcing and Procurement Operations \(SPO\)]] is an application that adds generative AI capabilities to the [[purch-order-mgmt-ws|Source-to-Pay Workspace]] to help requesters and procurement teams work more efficiently.
+Now Assist for Sourcing and Procurement Operations \(SPO\) is an application that adds generative AI capabilities to the Source-to-Pay Workspace to help requesters and procurement teams work more efficiently.
 
 **Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 
@@ -27,22 +27,22 @@ Now Assist for Sourcing and Procurement Operations \(SPO\) includes the followin
 
 -   Provides AI-assisted conversational intake, enabling requesters to submit procurement requests in natural language. Now Assist for SPO uses procurement-related topics to route requests to the appropriate intake process and helps requesters submit accurate requests without relying on fulfillers.
 -   Produces generative AI-powered record summaries that help requesters and fulfillers quickly interpret completed actions, status, and next steps.
--   Embeds summary access across procurement experiences, including Source-to-Pay Workspace, [[shopping-hub-overview|Shopping Hub]], and the Now Assist panel.
+-   Embeds summary access across procurement experiences, including Source-to-Pay Workspace, Shopping Hub, and the Now Assist panel.
 -   Monitors requester sentiment across active procurement cases, enabling procurement specialists to identify, prioritize, and manage sensitive requests proactively
 -   Assists procurement specialists and buyers in composing clear, professional, and accurate email responses using Now Assist.
 
 ## Now Assist skills for Sourcing and Procurement Operations
 
-\[Omitted image "now-assist-spo-explore.png"\] Alt text: Skills available on Now Assist for [[psm-overview|Sourcing and Procurement Operations]].
+\[Omitted image "now-assist-spo-explore.png"\] Alt text: Skills available on Now Assist for Sourcing and Procurement Operations.
 
 The following skills are available in Now Assist for Sourcing and Procurement Operations \(SPO\).
 
 -   Skills available for requesters:
 
     -   Document extraction
-    -   [[purchase-requisition|Purchase requisition]] summarization for requesters
-    -   [[purchase-order-table|Purchase order]] summarization for requesters
-    -   [[sourcing-request|Sourcing request]] summarization for requesters
+    -   Purchase requisition summarization for requesters
+    -   Purchase order summarization for requesters
+    -   Sourcing request summarization for requesters
     **Note:** A requester with the sn\_spend\_gen\_ai.now\_assist\_requester role can use these summarization skills in Shopping Hub.
 
 -   Skills available for fulfillers:
@@ -93,12 +93,3 @@ AI-driven category prediction automatically assigns product and spend categories
 
 **Parent Topic:**[Now Assist for Sourcing and Procurement Operations \(SPO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/now-assist-spo.md)
 
-## Related
-
-- [[now-assist-spo|Now Assist for Sourcing and Procurement Operations \(SPO\)]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[psm-overview|Sourcing and Procurement Operations]]
-- [[purchase-requisition|Purchase requisition]]
-- [[purchase-order-table|Purchase order]]
-- [[sourcing-request|Sourcing request]]

@@ -26,7 +26,7 @@ Role required: sn\_bcm.admin
 
     With the BCM application, these approval configurations are supported with the base system:
 
-    -   `BCP [[work-configuration|Workflow Configuration]]`
+    -   `BCP Workflow Configuration`
     -   `BIA Workflow Configuration`
     -   `Crisis Workflow Configuration`
     -   `Exercise Workflow Configuration`
@@ -40,7 +40,7 @@ Role required: sn\_bcm.admin
 
     1.  Select **New** in the related list of the BCP Workflow Configuration record.
 
-        The [[approval-level-new-record-form|Approval level new record form]] is displayed.\[Omitted image "approval-level-level-2-record.png"\] Alt text: Approval level record.
+        The Approval level new record form is displayed.\[Omitted image "approval-level-level-2-record.png"\] Alt text: Approval level record.
 
     2.  In the form, enter the name for the approval level record such as Level 2 Managers, select the level such as level 2, and select **Submit**.
 
@@ -56,14 +56,8 @@ Role required: sn\_bcm.admin
 
     2.  Select **Submit**.
 
-    The approval rule is now configured for the approval level. When a business continuity plan is created in the [[bcm-workspace|BCM Configurable Workspace]] and later it is sent for a review and an approval, the multiple approval levels are displayed in the **Approval levels** tab of the business continuity plan as shown in the example.\[Omitted image "approval-levels-tab-of-plan.png"\] Alt text: Approval levels in the plan.
+    The approval rule is now configured for the approval level. When a business continuity plan is created in the BCM Configurable Workspace and later it is sent for a review and an approval, the multiple approval levels are displayed in the **Approval levels** tab of the business continuity plan as shown in the example.\[Omitted image "approval-levels-tab-of-plan.png"\] Alt text: Approval levels in the plan.
 
 
-**Parent Topic:**[[bcm-approval-configuration|Approval configuration]]
+**Parent Topic:**[Approval configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bcm-approval-configuration.md)
 
-## Related
-
-- [[bcm-approval-configuration|Approval configuration]]
-- [[work-configuration|Workflow configuration]]
-- [[approval-level-new-record-form|Approval Level New Record form]]
-- [[bcm-workspace|BCM Configurable Workspace]]

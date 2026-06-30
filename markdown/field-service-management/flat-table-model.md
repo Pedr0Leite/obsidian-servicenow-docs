@@ -12,7 +12,7 @@ breadcrumb: [Reference, Field Service Management]
 
 # Data model for denormalized tables in Field Service Management
 
-Use the table below to reference the [[fsm-application-landing-page|Field Service Management]] weekly resource span denormalized table.
+Use the table below to reference the Field Service Management weekly resource span denormalized table.
 
 |wm\_weekly\_resource\_span|
 |--------------------------|
@@ -24,9 +24,5 @@ Use the table below to reference the [[fsm-application-landing-page|Field Servic
 |Spans|JSON|List of weekly schedule and event spans|
 |Domain|Domain id| |
 
-**Parent Topic:**[[fsm-reference|Field Service Management reference]]
+**Parent Topic:**[Field Service Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/fsm-reference.md)
 
-## Related
-
-- [[fsm-reference|Field Service Management reference]]
-- [[fsm-application-landing-page|Field Service Management]]

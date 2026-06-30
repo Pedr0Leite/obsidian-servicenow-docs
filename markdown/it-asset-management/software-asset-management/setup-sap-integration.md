@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Management publisher pack for SAP, Supported softwar
 
 # Set up SAP integration to establish a connection with SAP
 
-Configure and set up SAP integration to establish a connection between your [[c_SoftwareAssetMgmt|Software Asset Management]] application and SAP.
+Configure and set up SAP integration to establish a connection between your Software Asset Management application and SAP.
 
 Follow these steps to configure SAP integration, users, roles, and authorizations that are required to establish a connection between your Software Asset Management application and SAP.
 
@@ -35,6 +35,3 @@ Program name: `/NOW/SAMP_ENGINES_PROG`
 
 Frequency: Weekly \(every Thursday\)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

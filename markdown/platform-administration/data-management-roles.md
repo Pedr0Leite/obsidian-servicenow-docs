@@ -12,11 +12,11 @@ breadcrumb: [Reference, Data Management, Tables and data, Configure core feature
 
 # Data Management roles
 
-[[c_DataManagement|Data Management]] includes the following roles.
+Data Management includes the following roles.
 
-To learn more about managing subscriptions, see [[managing-user-subscriptions-v2|Managing per-user subscriptions in Subscription Management]] and contact your account representative.
+To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/managing-user-subscriptions-v2.md) and contact your account representative.
 
-**Parent Topic:**[[data-management-reference|Data Management reference]]
+**Parent Topic:**[Data Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/data-management-reference.md)
 
 ## Data Management tools admin \[data\_mgt\_tools\_admin\]
 
@@ -46,8 +46,3 @@ These roles are not embedded within data\_mgmt\_tools\_admin by default. You mus
 
 After assigning these roles, also add roles that provide CRUD \(Create, Read, Update, Delete\) access to data tables \(for example, itil and itil\_admin\). For example, adding the itil\_admin enables an ITIL administrator to archive or update records in the associated ITIL tables \(incident, problem, change, and so on\) depending on configuration. If these roles aren’t assigned, some or all data management functionality will be limited or unavailable.
 
-## Related
-
-- [[managing-user-subscriptions-v2|Managing per-user subscriptions in Subscription Management]]
-- [[data-management-reference|Data Management reference]]
-- [[c_DataManagement|Data Management]]

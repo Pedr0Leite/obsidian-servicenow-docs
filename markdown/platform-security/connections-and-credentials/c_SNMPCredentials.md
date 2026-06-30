@@ -92,7 +92,7 @@ External credential store
 
 </td><td>
 
-Select this check box to use an [[c_ExternalCredentialStorage|external credential storage]] system. When you select this option the **User name** and **Password** fields are replaced with the **Credential ID** field. [External credential storage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/c_ExternalCredentialStorage.md) is only available when the External Credential Storage plugin in activated. **Note:** Currently, the only supported external storage system is [CyberArk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/c_CyberArkCredStorageIntegrate.md).
+Select this check box to use an external credential storage system. When you select this option the **User name** and **Password** fields are replaced with the **Credential ID** field. [External credential storage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/c_ExternalCredentialStorage.md) is only available when the External Credential Storage plugin in activated. **Note:** Currently, the only supported external storage system is [CyberArk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/c_CyberArkCredStorageIntegrate.md).
 
 </td></tr><tr><td>
 
@@ -116,7 +116,7 @@ Order
 
 </td><td>
 
-Order \(sequence\) in which Discovery tries this credential as it attempts to log on to devices. The smaller the number, the higher in the list this credential appears. Establish credential order when using large numbers of credentials or when security locks out [[users|users]] after three failed login attempts. If all the credentials have the same order number \(or none\), the instance tries the credentials in a random order.
+Order \(sequence\) in which Discovery tries this credential as it attempts to log on to devices. The smaller the number, the higher in the list this credential appears. Establish credential order when using large numbers of credentials or when security locks out users after three failed login attempts. If all the credentials have the same order number \(or none\), the instance tries the credentials in a random order.
 
 </td></tr><tr><td>
 
@@ -191,7 +191,7 @@ Enter the SNMP user name. Avoid leading or trailing spaces in user names. A warn
 
 </td></tr><tr><td>
 
-[[c_Authentication|Authentication]] protocol
+Authentication protocol
 
 </td><td>
 
@@ -216,7 +216,7 @@ Privacy protocol
 
 </td><td>
 
-Select the [[encryption-landing|encryption]] protocol for this credential. The choices are:-   3DES
+Select the encryption protocol for this credential. The choices are:-   3DES
 -   AES128
 -   AES192
 -   AES256
@@ -288,10 +288,3 @@ Enter the context name value for this credential. This should only be used if yo
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_ExternalCredentialStorage|External credential storage]]
-- [[users|Users]]
-- [[c_Authentication|Authentication]]
-- [[encryption-landing|Encryption]]

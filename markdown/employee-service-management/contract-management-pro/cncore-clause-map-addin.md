@@ -14,7 +14,7 @@ breadcrumb: [Create templates in Microsoft Word, Configure contract templates, C
 
 # Complete clause mapping to build a clause library
 
-As a contract configurator, complete clause mapping to build a clause library of clause variations containing the content marked in the Microsoft Word document using the [[cncore-expl-snc-addin|Microsoft Word Add-in for ServiceNow Contracts]].
+As a contract configurator, complete clause mapping to build a clause library of clause variations containing the content marked in the Microsoft Word document using the Microsoft Word Add-in for ServiceNow Contracts.
 
 ## Before you begin
 
@@ -65,6 +65,3 @@ Clauses that are imported from the Microsoft Word document are used to build a c
 
 [Complete mapping and upload Microsoft Word document that includes content controls]()
 
-## Related
-
-- [[cncore-expl-snc-addin|Microsoft Word add-in for ServiceNow Contracts]]

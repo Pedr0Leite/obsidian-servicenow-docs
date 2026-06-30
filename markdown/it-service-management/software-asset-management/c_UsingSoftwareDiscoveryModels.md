@@ -14,9 +14,9 @@ breadcrumb: [Legacy Software Asset Management plugin, ITSM Software Asset Manage
 
 # Software discovery models in the legacy Software Asset Management plugin
 
-Software discovery [[c_Models|models]] in the legacy Software [[c_AssetManagement|Asset Management]] \(com.snc.software\_asset\_management\) plugin can be used to help normalize the software you own by analyzing and classifying models to reduce duplication.
+Software discovery models in the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin can be used to help normalize the software you own by analyzing and classifying models to reduce duplication.
 
-Software discovery models are stored in the Software Discovery Model \[cmdb\_sam\_sw\_discovery\_model\] table. There is a distinct difference between [[c_CreatingSoftwareModels|software models]] and software discovery models.
+Software discovery models are stored in the Software Discovery Model \[cmdb\_sam\_sw\_discovery\_model\] table. There is a distinct difference between software models and software discovery models.
 
 -   A software model is a specific version or configuration of software.
 -   A software discovery model is a model created when Discovery runs and identifies software.
@@ -59,13 +59,7 @@ If the automatically generated software model is not correct or if the system ca
 
 [Legacy IBM PVU Process Pack]()
 
-[Software [[c_Contracts|contracts]] for the legacy Software Asset Management plugin]()
+[Software contracts for the legacy Software Asset Management plugin]()
 
 [Legacy Oracle process pack]()
 
-## Related
-
-- [[c_Models|Models]]
-- [[c_AssetManagement|Asset Management]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[c_Contracts|Contracts]]

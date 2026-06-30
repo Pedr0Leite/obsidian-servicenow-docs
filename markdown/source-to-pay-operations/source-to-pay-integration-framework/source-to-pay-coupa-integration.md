@@ -14,14 +14,14 @@ breadcrumb: [Integration with third-party applications, Integrations, Source-to-
 
 # Source-to-Pay integration with Coupa
 
-The Source-to-Pay integration with Coupa enables you to handle business spend and automate approvals, [[contracts|contracts]], inventory, purchase orders, requisitions, suppliers, and user management in Coupa from your instance.
+The Source-to-Pay integration with Coupa enables you to handle business spend and automate approvals, contracts, inventory, purchase orders, requisitions, suppliers, and user management in Coupa from your instance.
 
 ## Key Features
 
 With this application, you can perform the following:
 
--   Perform Integration hub actions for loading primary data, [[supplier|supplier]] management, PR, PO, receipt, invoice, and sourcing.
--   Look up [[legal-entity|Legal Entity]] details from Coupa to [[source-to-pay-integration-framework|Source-to-Pay integration framework]]
+-   Perform Integration hub actions for loading primary data, supplier management, PR, PO, receipt, invoice, and sourcing.
+-   Look up Legal Entity details from Coupa to Source-to-Pay integration framework
 -   Look up Currency details from Coupa to Source-to-Pay integration framework
 -   Look up Supplier details from Coupa to Source-to-Pay integration framework
 
@@ -43,9 +43,3 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 The subflows enable a plug-and-play experience for the integration scenarios. Integration Hub Actions provide the building blocks for Source-to-Pay subflows and connects to the Coupa system through REST APIs.
 
-## Related
-
-- [[contracts|Contracts]]
-- [[supplier|Supplier]]
-- [[legal-entity|Legal entity]]
-- [[source-to-pay-integration-framework|Source-to-Pay integration framework]]

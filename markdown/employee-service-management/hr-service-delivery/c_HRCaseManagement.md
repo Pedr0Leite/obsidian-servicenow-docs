@@ -14,15 +14,15 @@ breadcrumb: [Case and Knowledge Management, HR Service Delivery, Employee Servic
 
 # Use HR Case Management
 
-You use the [[case-knowledge-management-landing-page|Case and Knowledge Management]] application to create, view, or edit HR cases in the scoped version of HR. HR cases are created from HR requests or inquiries related to HR account or systems, benefits, payroll, performance management, reporting, talent acquisition, time and expense reporting, and more.
+You use the Case and Knowledge Management application to create, view, or edit HR cases in the scoped version of HR. HR cases are created from HR requests or inquiries related to HR account or systems, benefits, payroll, performance management, reporting, talent acquisition, time and expense reporting, and more.
 
 ## Self-Service HR case creation
 
-From the [[employee-center-landing-page|Employee Center]], employees can inquire or request [[hr-service-administration|HR services]] from the following categories:
+From the Employee Center, employees can inquire or request HR services from the following categories:
 
 -   Benefits
 -   Employee Data Management
--   [[hr-case-employee-relations|Employee Relations]]
+-   Employee Relations
 -   General
 -   HR Systems
 -   Payroll
@@ -33,7 +33,7 @@ An HR case is created when an HR service is requested through the Employee Cente
 
 ## HR agent case creation
 
-Employees can inquire about HR services via email, chat, or phone. HR agents can [[search-hr-case|create an HR case]] based on a Center of Excellence \(COE\) or HR service.
+Employees can inquire about HR services via email, chat, or phone. HR agents can create an HR case based on a Center of Excellence \(COE\) or HR service.
 
 After an HR case is created, it is assigned to an HR agent and/or an assignment group via the HR service and associated HR template.
 
@@ -57,7 +57,7 @@ HR cases that are rejected can be resubmitted for approval. Resubmitting a rejec
 -   **[Transfer an HR case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/reclassify-hr-case.md)**  
 You can create and use methods to reclassify or transfer an opened HR case from one HR service to another. Oftentimes an HR case opens as a General Benefits Inquiry. After investigating, you can transfer it to the applicable HR service.
 -   **[Escalate an HR case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/t_EscalateAnHRCase.md)**  
-[[t_EscalateAnHRCase|Escalate an HR case]] when you cannot resolve it yourself. The system reassigns the case according to your organization's escalation rules and marks it as high priority.
+Escalate an HR case when you cannot resolve it yourself. The system reassigns the case according to your organization's escalation rules and marks it as high priority.
 -   **[Suspend and resume an HR case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/t_SuspendAndResumeAnHRCase.md)**  
 If you are unable to close the HR case within the duration specified in the service level agreement \(SLA\), you can suspend the case.
 -   **[Add special handling notes for an HR Service Delivery case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-add-special-handling-notes.md)**  
@@ -69,11 +69,3 @@ You can create the same type of HR case, for multiple employees, without having 
 
 **Parent Topic:**[Case and Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/case-knowledge-management-landing-page.md)
 
-## Related
-
-- [[case-knowledge-management-landing-page|Case and Knowledge Management]]
-- [[employee-center-landing-page|Employee Center]]
-- [[hr-service-administration|HR services]]
-- [[hr-case-employee-relations|Employee Relations]]
-- [[search-hr-case|Create an HR case]]
-- [[t_EscalateAnHRCase|Escalate an HR case]]

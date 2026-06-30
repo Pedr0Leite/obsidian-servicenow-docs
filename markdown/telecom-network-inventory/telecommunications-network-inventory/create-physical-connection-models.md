@@ -14,7 +14,7 @@ breadcrumb: [Create inventory models, Use, Telecommunications Network Inventory]
 
 # Create a physical connection model
 
-Create a physical connection model in the [[telecom-network-inventory|Telecommunications Network Inventory]] application to define the metadata for the different physical connections. In the physical connection model, you can [[import-inventory|import models]], attach a file or an image, add or remove optional fields, and add compatibilities and substitutions.
+Create a physical connection model in the Telecommunications Network Inventory application to define the metadata for the different physical connections. In the physical connection model, you can import models, attach a file or an image, add or remove optional fields, and add compatibilities and substitutions.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ When you create a physical connection model record, it creates a model in the Ph
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then go to **Inventory Models** &gt; **Physical Connection Models**.
 
@@ -34,7 +34,7 @@ When you create a physical connection model record, it creates a model in the Ph
 
 4.  On the **Details** tab, fill in the common information for the physical connection model.
 
-    The following table lists the fields that are unique to the [[physical-connection-form|Physical Connection form]].
+    The following table lists the fields that are unique to the Physical Connection form.
 
     |Field|Description|
     |-----|-----------|
@@ -78,9 +78,3 @@ When you create a physical connection model record, it creates a model in the Ph
 
 [Network inventory models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/using-inventory-models-tni.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[import-inventory|Import models]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[physical-connection-form|Physical Connection form]]

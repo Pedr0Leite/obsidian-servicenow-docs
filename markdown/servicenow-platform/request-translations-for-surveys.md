@@ -12,7 +12,7 @@ breadcrumb: [Survey responses and results, Use surveys, Surveys, Assessments and
 
 # Request translations for surveys
 
-Request translations for surveys to localize them into one or more languages. Localization requested items that are created for the selected [[r_SurveyManagementLandingPage|surveys]] in all the selected languages.
+Request translations for surveys to localize them into one or more languages. Localization requested items that are created for the selected surveys in all the selected languages.
 
 ## Before you begin
 
@@ -33,7 +33,7 @@ Role required: localization\_requestor
     Localization requested items are created for the selected surveys in all the selected languages. A success message with a link to the list of requested surveys is displayed. You can click the link to see the list.
 
 
-**Parent Topic:**[[c_SurveyResults|Survey responses and results]]
+**Parent Topic:**[Survey responses and results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyResults.md)
 
 **Related topics**  
 
@@ -50,7 +50,3 @@ Role required: localization\_requestor
 
 [Survey responses in a database view]()
 
-## Related
-
-- [[c_SurveyResults|Survey responses and results]]
-- [[r_SurveyManagementLandingPage|Surveys]]

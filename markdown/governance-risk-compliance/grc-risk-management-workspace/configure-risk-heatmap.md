@@ -14,7 +14,7 @@ breadcrumb: [Perform Advanced Risk Assessment, Use, Risk Management, Governance,
 
 # Configure risk heatmaps
 
-Within a [[risk-assessment-methodology-prm|risk assessment methodology \(RAM\)]], configure the heatmap visualization for inherent and residual assessments. Use different heatmaps for different [[airc-rams|risk assessment methodologies]].
+Within a risk assessment methodology \(RAM\), configure the heatmap visualization for inherent and residual assessments. Use different heatmaps for different risk assessment methodologies.
 
 ## Before you begin
 
@@ -53,7 +53,3 @@ The selected heatmap appears on the dashboard.
 
 **Parent Topic:**[Perform Advanced Risk Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/use-advanced-risk-assessment.md)
 
-## Related
-
-- [[risk-assessment-methodology-prm|Risk Assessment Methodology \(RAM\)]]
-- [[airc-rams|Risk assessment methodologies]]

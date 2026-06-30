@@ -14,11 +14,11 @@ breadcrumb: [Solve the challenge of adoption with Proactive Prompts, Exploring S
 
 # Pre-seeding employee skills
 
-The [[skills-intelligence|Skills Foundation]] application can automatically detect skill gaps and prompt the employee to add pre-seeded, or necessary, skills to their profiles. This way, the [[emp-slate-employee-profile|employee profile]] is always kept up to date.
+The Skills Foundation application can automatically detect skill gaps and prompt the employee to add pre-seeded, or necessary, skills to their profiles. This way, the employee profile is always kept up to date.
 
 ## About pre-seeding
 
-Pre-seeding refers to the automated inclusion of essential skills that are required for a specific role without the need for employees to manually list them. The Skills Foundation application uses natural language processing \(NLP\) techniques to extract and categorize these skills from resumes or LinkedIn profiles. These necessary skills are automatically detected by the system and are notified to the employee when they’re onboarded with the help of [[proactive-prompts-for-hrsd|Proactive Prompts]].
+Pre-seeding refers to the automated inclusion of essential skills that are required for a specific role without the need for employees to manually list them. The Skills Foundation application uses natural language processing \(NLP\) techniques to extract and categorize these skills from resumes or LinkedIn profiles. These necessary skills are automatically detected by the system and are notified to the employee when they’re onboarded with the help of Proactive Prompts.
 
 ## How pre-seeding works
 
@@ -34,8 +34,3 @@ In the example, the employee received a notification that is based on what the a
 
 **Parent Topic:**[Solve the challenge of adoption with Proactive Prompts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/drive-adoption-proactive-prompts.md)
 
-## Related
-
-- [[skills-intelligence|Skills Foundation]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[proactive-prompts-for-hrsd|Proactive Prompts]]

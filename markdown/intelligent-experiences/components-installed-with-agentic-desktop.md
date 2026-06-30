@@ -34,7 +34,7 @@ AI Agent Admin\[sn\_aia.admin\]
 
 </td><td>
 
-Enables you to create, manage, and test desktop actions in [[agentic-desktop-landing-page|AI Desktop Actions]] and deploy them as tools in [[ai-agent-studio|AI Agent Studio]].
+Enables you to create, manage, and test desktop actions in AI Desktop Actions and deploy them as tools in AI Agent Studio.
 
 </td><td>
 
@@ -48,7 +48,7 @@ Enables you to create, manage, and test desktop actions in [[agentic-desktop-lan
 
 </td></tr><tr><td>
 
-[[now-assist-center-now-assist-panel|Now Assist panel]] user\[now\_assist\_panel\_user\]
+Now Assist panel user\[now\_assist\_panel\_user\]
 
 </td><td>
 
@@ -151,7 +151,7 @@ Packages tables, custom functionality specific to AI Desktop Actions application
 
 </td></tr><tr><td>
 
-[[platform-now-assist-landing|Now Assist]] AI web agents\[sn\_naa\]
+Now Assist AI web agents\[sn\_naa\]
 
 </td><td>
 
@@ -208,12 +208,5 @@ Keeps the browser tabs that open during goal execution open after the goal compl
 -   Default: true
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[agentic-desktop-reference|AI Desktop Actions reference]]
+</table>**Parent Topic:**[AI Desktop Actions reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/agentic-desktop-reference.md)
 
-## Related
-
-- [[agentic-desktop-reference|AI Desktop Actions reference]]
-- [[agentic-desktop-landing-page|AI Desktop Actions]]
-- [[ai-agent-studio|AI Agent Studio]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[platform-now-assist-landing|Now Assist]]

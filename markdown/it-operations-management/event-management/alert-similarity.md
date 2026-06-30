@@ -22,7 +22,7 @@ Alert similarity applies natural language processing \(NLP\) based on ServiceNow
 
 ML logic filters out irrelevant information and provides further information to help you understand the cause of alerts. You can view solutions used to resolve similar alerts and the probable root cause.
 
-ML helps [[find-similar-alerts|find similar alerts]] based on text found in these alert record fields:
+ML helps find similar alerts based on text found in these alert record fields:
 
 -   Configuration item.Class
 -   Metric name
@@ -55,7 +55,7 @@ For more information about the alert insight tabs, see [Alert insight informatio
 -   **[Find similar alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/find-similar-alerts.md)**  
 You can find alerts similar to the alert currently being investigated. Save troubleshooting time by reviewing similar alerts to see how they were resolved.
 -   **[Similarity solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/word-collection-similarity-solution.md)**  
-[[word-collection-similarity-solution|Similarity solutions]] enable you to use Machine Learning \(ML\) to compare the text in a resolved alert record to an open alert record to reuse its resolution approach.
+Similarity solutions enable you to use Machine Learning \(ML\) to compare the text in a resolved alert record to an open alert record to reuse its resolution approach.
 -   **[Create an Event Management similarity solution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/create-solution-similarity.md)**  
 Create and train a solution that applies machine learning to a collection of words to target and suggest similar alerts in your instance dataset. For example, you can compare the text in a resolved alert record to an open alert record to reuse its resolution approach.
 -   **[View Event Management solution training progress](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/view-solution-training-progress.md)**  
@@ -63,12 +63,7 @@ View solution training progress or statistics to determine whether a solution is
 -   **[Review Event Management similarity examples](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/view-similarity-examples.md)**  
 Review the similarity examples and scores that the system provides during solution training to see how the selected alert record compares to existing alert records. For example, you can modify the similarity score threshold to increase the accuracy of your similarity recommendations.
 -   **[Activate Event Management solution version](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/solution-version-activated.md)**  
-The system activates the most recent version of the solution, but you can activate any previously trained [[c_EM|Event Management]] solution version if it is more appropriate.
+The system activates the most recent version of the solution, but you can activate any previously trained Event Management solution version if it is more appropriate.
 
 **Parent Topic:**[Manage and monitor alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/c_EMAlert.md)
 
-## Related
-
-- [[find-similar-alerts|Find similar alerts]]
-- [[word-collection-similarity-solution|Similarity solutions]]
-- [[c_EM|Event Management]]

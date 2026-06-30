@@ -15,7 +15,7 @@ breadcrumb: [Configure, Resource Management Workspace, Project Portfolio Managem
 
 # Configure progressive disclosure for the resource board
 
-Configure whether the resource board in the [[rsrc-mgmt-wrkspc|Resource Management Workspace]] uses progressive disclosure to load users incrementally or loads all 200 users at once.
+Configure whether the resource board in the Resource Management Workspace uses progressive disclosure to load users incrementally or loads all 200 users at once.
 
 ## Before you begin
 
@@ -44,6 +44,3 @@ The resource board loads all 200 users at once. To restore progressive disclosur
 
 **Parent Topic:**[Configure Resource Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/configure-rmw.md)
 
-## Related
-
-- [[rsrc-mgmt-wrkspc|Resource Management Workspace]]

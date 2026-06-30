@@ -22,9 +22,9 @@ Role required: evt\_mgmt\_admin, evt\_mgmt\_operator
 
 **Note:** This task only applies if you are using Event Management integration on CSM Agent Workspace or the ServiceNow AI Platform interface.
 
-A proactive case is a case created on behalf of customers, whose install base is directly affected by an alert. You can open a proactive case manually or through automation. Customer service agents then work on cases. From the Alert form, you can also track the [[install-base-item|install base items]] affected by the alert.
+A proactive case is a case created on behalf of customers, whose install base is directly affected by an alert. You can open a proactive case manually or through automation. Customer service agents then work on cases. From the Alert form, you can also track the install base items affected by the alert.
 
-If the **Create Proactive Case** rule is enabled, a case is automatically created when an incident is created from an alert and the system has determined that there are external customer install base items affected. For more information, see [[automate-case-creation-alert|Activate an alert rule to automatically create a proactive case from an alert]].
+If the **Create Proactive Case** rule is enabled, a case is automatically created when an incident is created from an alert and the system has determined that there are external customer install base items affected. For more information, see [Activate an alert rule to automatically create a proactive case from an alert](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/automate-case-creation-alert.md).
 
 ITOM Event Management calculates the services \(CIs\) impacted by an alert and populates the em\_impacted\_ci\_table with the impacted services \(CIs\) and alert CI on the given alert.
 
@@ -34,7 +34,7 @@ The **Refresh Affected Install Base Items** button on the Alert form recalculate
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Agent Workspace** &gt; **Agent Workspace Home** &gt; **[[migration-lists|Lists]]** &gt; **All Alerts**.
+1.  Navigate to **All** &gt; **Agent Workspace** &gt; **Agent Workspace Home** &gt; **Lists** &gt; **All Alerts**.
 
 2.  Click an alert that you want to create a case for.
 
@@ -62,8 +62,4 @@ The **Refresh Affected Install Base Items** button on the Alert form recalculate
     |Warning|Low|
     |Info|Low|
 
-## Related
 
-- [[automate-case-creation-alert|Activate an alert rule to automatically create a proactive case from an alert]]
-- [[install-base-item|Install base items]]
-- [[migration-lists|Lists]]

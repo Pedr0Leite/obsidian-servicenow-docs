@@ -24,7 +24,7 @@ Role required: knowledge\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **Knowledge** &gt; **[[knowledge-blocks|Knowledge Blocks]]** &gt; **All**.
+1.  Navigate to **Knowledge** &gt; **Knowledge Blocks** &gt; **All**.
 
 2.  Open a knowledge block.
 
@@ -53,6 +53,3 @@ Role required: knowledge\_admin or admin
 
 **Parent Topic:**[Create a knowledge block](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/create-modify-knowledge-block.md)
 
-## Related
-
-- [[knowledge-blocks|Knowledge blocks]]

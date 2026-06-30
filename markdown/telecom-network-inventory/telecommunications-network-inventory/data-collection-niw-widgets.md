@@ -14,7 +14,7 @@ breadcrumb: [Define inventory records, Use, Telecommunications Network Inventory
 
 # Data collection and refresh for the Network Inventory Workspace widgets
 
-Learn how the [[telecom-network-inventory|Telecommunications Network Inventory]] data that appears on the [[exploring-network-inventory-workspace|Network Inventory Workspace]] [[network-inventory-workspace-landing-page|landing page]] is collected and refreshed.
+Learn how the Telecommunications Network Inventory data that appears on the Network Inventory Workspace landing page is collected and refreshed.
 
 To increase the responsiveness and speed of the Network Inventory Workspace, a scheduled job runs once a day to collect the count data that appears on the landing page. This job collects this data from the Configuration Management Database \(CMDB\) Groups \[cmdb\_group\] table.
 
@@ -35,8 +35,3 @@ The CMDB Groups table contains the Component Item \(CI\) records on which the co
 
 [Network Inventory Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/exploring-network-inventory-workspace.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[network-inventory-workspace-landing-page|Landing page]]

@@ -14,7 +14,7 @@ breadcrumb: [HR Knowledge Management, HR Administration, Configure, Case and Kno
 
 # Knowledge blocks for HR knowledge management
 
-You can use knowledge blocks with [[hr-service-delivery|HR Service Delivery]] to simplify knowledge authoring for writers and knowledge consumption for readers.
+You can use knowledge blocks with HR Service Delivery to simplify knowledge authoring for writers and knowledge consumption for readers.
 
 Knowledge blocks are reusable pieces of content secured by user criteria that you can add to knowledge articles in a knowledge base. The user criteria controls which users can read or not read the block content in an article or search, enabling users to more easily view content that is relevant to them.
 
@@ -69,6 +69,3 @@ To use knowledge blocks in your application, you must [activate knowledge blocks
 
 [Knowledge blocks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-blocks.md)
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]

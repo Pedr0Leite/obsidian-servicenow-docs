@@ -14,13 +14,13 @@ breadcrumb: [Install the Edge Encryption proxy server using the command line ins
 
 # Start the Edge Encryption proxy
 
-After an [[edge-encryption|Edge Encryption]] proxy is installed and configured, you can start the proxy from the command line.
+After an Edge Encryption proxy is installed and configured, you can start the proxy from the command line.
 
 ## Before you begin
 
 Role required: admin
 
-Before starting the [[encryption-landing|encryption]] proxy, verify the following:
+Before starting the encryption proxy, verify the following:
 
 -   The Edge Encryption plugin is activated on the instance.
 -   The `edgeencryption.properties` file on this machine has been configured.
@@ -62,7 +62,3 @@ Perform the following steps from the command line as admin:1.  `cd` to `ServerNa
 
 **Next topic:**[Obfuscate passwords in the properties file](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/t_SetUpPasswordEncryption.md)
 
-## Related
-
-- [[edge-encryption|Edge Encryption]]
-- [[encryption-landing|Encryption]]

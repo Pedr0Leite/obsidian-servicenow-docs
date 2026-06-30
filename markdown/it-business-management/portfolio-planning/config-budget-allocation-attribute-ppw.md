@@ -14,7 +14,7 @@ breadcrumb: [Enable financial budget allocation for planning items in Portfolio 
 
 # Configure budget attribute at instance-level to allocate budget
 
-Configure the budget attribute by expense type or cost type as an instance-level to work on budget allocations for your planning items using [[portfolio-planning-app-landing-page|Portfolio Planning]].
+Configure the budget attribute by expense type or cost type as an instance-level to work on budget allocations for your planning items using Portfolio Planning.
 
 ## Before you begin
 
@@ -35,6 +35,4 @@ Configure the budget attribute by expense type or cost type as an instance-level
     -   **expense\_type** - view financials by expense types such as Capex and Opex.
 4.  Select **Update**.
 
-## Related
 
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

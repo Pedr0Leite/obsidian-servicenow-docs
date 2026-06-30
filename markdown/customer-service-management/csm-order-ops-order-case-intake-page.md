@@ -21,7 +21,7 @@ The agent initiates an order case in one of the following ways:
 -   Selecting **Create case** from an interaction record.
 -   Selecting **New** from the Order Cases list view.
 
-The system displays the Order case intake page after the agent selects an order-related service from the [[csm-case-type-select-modals|case type selector]] modal. The agent can enter the following order case details:
+The system displays the Order case intake page after the agent selects an order-related service from the case type selector modal. The agent can enter the following order case details:
 
 -   **Account**: the account for the order.
 -   **Scope of request**: the agent can create a case for order lines from a single order or for multiple complete orders.
@@ -33,9 +33,5 @@ Depending on where the agent creates the order case from, some of these fields a
 -   **Specific line items, Single order**: If the agent selects **Create case** from the Order Line Items list on a customer order.
 -   **Multiple orders**: If the agent selects **Create case** from a customer order.
 
-After saving the intake record, the agent can see the [[csm-order-ops-order-case-record-page|Order case record page]] with the case line items created either from customer orders or customer order lines.
+After saving the intake record, the agent can see the [Order case record page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-order-ops-order-case-record-page.md) with the case line items created either from customer orders or customer order lines.
 
-## Related
-
-- [[csm-order-ops-order-case-record-page|Order case record page]]
-- [[csm-case-type-select-modals|Case type selector]]

@@ -62,8 +62,5 @@ There are three possible outputs:
 
 For more information, see [Action error evaluation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/action-error-evaluation.md).
 
-**Parent Topic:**[[delete-db-in-ac|Delete a Platform Analytics dashboard]]
+**Parent Topic:**[Delete a Platform Analytics dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/delete-db-in-ac.md)
 
-## Related
-
-- [[delete-db-in-ac|Delete a Platform Analytics dashboard]]

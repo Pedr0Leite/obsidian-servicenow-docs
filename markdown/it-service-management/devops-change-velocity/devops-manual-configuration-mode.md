@@ -24,10 +24,7 @@ This way you only need read-only permission to the tool. Once the connection is 
 
 All planning, coding, and orchestration tool connections support manual configuration mode.
 
-**Note:** Connection state automatically changes to disconnected if there is a change in configuration, such as URL, credentials, alias, type, or MID Server [[settings-mobile|settings]].
+**Note:** Connection state automatically changes to disconnected if there is a change in configuration, such as URL, credentials, alias, type, or MID Server settings.
 
 **Parent Topic:**[Managing DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/using-devops-change-velocity.md)
 
-## Related
-
-- [[settings-mobile|Settings]]

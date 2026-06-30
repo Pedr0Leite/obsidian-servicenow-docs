@@ -24,15 +24,15 @@ Before linking a plan to the exercise, verify that the plan has progressed throu
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **Business Continuity Workspace** &gt; **[[exercise-management-uib|Exercises]]** &gt; **Pending** and select **New**.
+1.  Navigate to **Workspaces** &gt; **Business Continuity Workspace** &gt; **Exercises** &gt; **Pending** and select **New**.
 
     The **Create New Event** form is displayed as shown in the example.\[Omitted image "create-new-event.png"\] Alt text: Create New Event form.
 
 2.  Fill in the required fields in the **Details** tab.
 
-    For more information on the fields, see [[create-exercise-event-ref-form|Create Exercise Event form]].
+    For more information on the fields, see [Create Exercise Event form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-exercise-event-ref-form.md).
 
-    The exercise event is created in the **Pending** state and it is displayed in the [[list-view-uib-ws|List view]]. The state and details of the exercise event are displayed in the tabs:
+    The exercise event is created in the **Pending** state and it is displayed in the List view. The state and details of the exercise event are displayed in the tabs:
 
     -   **Overview**: You can view the current state and overall state progression of the exercise event.
     -   **Details**: You can update the fields in the form such as **Short description**, **Assigned to**, **Exercise method**.
@@ -62,11 +62,5 @@ Before linking a plan to the exercise, verify that the plan has progressed throu
 -   **[Create Exercise Event form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-exercise-event-ref-form.md)**  
 Use the Create Exercise Event form in BCM UIB Workspace to add details about an Exercise event.
 
-**Parent Topic:**[[performing-tasks-to-manage-exercise-events|Structured workflows for Exercises]]
+**Parent Topic:**[Structured workflows for Exercises](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/performing-tasks-to-manage-exercise-events.md)
 
-## Related
-
-- [[create-exercise-event-ref-form|Create Exercise Event form]]
-- [[performing-tasks-to-manage-exercise-events|Structured workflows for Exercises]]
-- [[exercise-management-uib|Exercises]]
-- [[list-view-uib-ws|List view]]

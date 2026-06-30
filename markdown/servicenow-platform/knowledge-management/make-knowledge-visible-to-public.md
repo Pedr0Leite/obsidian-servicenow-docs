@@ -14,7 +14,7 @@ breadcrumb: [Configure the Knowledge Management Service Portal, Configuring Know
 
 # Enable external or public users to view knowledge articles from the Knowledge Management Service Portal
 
-Enable knowledge articles on the [[knowledge-management|Knowledge Management]] Service Portal to be visible to external or public users.
+Enable knowledge articles on the Knowledge Management Service Portal to be visible to external or public users.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin
 
 ## About this task
 
-If you're [[using-knowledge-management|using Knowledge Management]] within the Customer Service Management \(CSM\) application, you can automatically make knowledge articles public by activating and running the Make KM Service Portal Pages Public fix script after you install the Customer Service Management plugin \(com.sn\_customerservice\).
+If you're using Knowledge Management within the Customer Service Management \(CSM\) application, you can automatically make knowledge articles public by activating and running the Make KM Service Portal Pages Public fix script after you install the Customer Service Management plugin \(com.sn\_customerservice\).
 
 If you're using Knowledge Management as a standalone application, perform the steps in this procedure.
 
@@ -52,7 +52,7 @@ Make knowledge service portal pages visible to public users
 
 </td><td>
 
-1.  On the Page form, select the **Public** [[check-box|check box]].
+1.  On the Page form, select the **Public** check box.
 2.  Select **Update**.
 
 
@@ -83,8 +83,3 @@ Make knowledge service portal pages visible to external users
 
 **Parent Topic:**[Configure the Knowledge Management Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/knowledge-management-service-portal.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]
-- [[using-knowledge-management|Using Knowledge Management]]
-- [[check-box|Check box]]

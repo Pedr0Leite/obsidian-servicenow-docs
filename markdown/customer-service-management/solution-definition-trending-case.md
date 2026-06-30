@@ -18,7 +18,7 @@ To enable finding related major cases in a cluster, you must first update and tr
 
 Role required: admin
 
-Activate the Predictive [[intelligence-csm|Intelligence]] for [[c_CustomerServiceManagement|Customer Service Management]] plugin \(com.snc.csm\_ml\).
+Activate the Predictive Intelligence for Customer Service Management plugin \(com.snc.csm\_ml\).
 
 ## About this task
 
@@ -52,7 +52,4 @@ You can modify the fields, filters, update frequency, and training frequency.
 
     **Note:** Alternatively, you can click the link for the solution in the **Active** column. On the ML Solution form, click the **Show training progress** related link to check the training solution progress.
 
-## Related
 
-- [[intelligence-csm|Intelligence]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

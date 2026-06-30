@@ -12,11 +12,11 @@ breadcrumb: [Agent management, Use, Customer Service Management]
 
 # Time recording for Customer Service Management
 
-Record time worked on [[csm-cases-case-tasks-overview|cases and case tasks]]. Time worked entries automatically generate time cards and time sheets for manager approval.
+Record time worked on cases and case tasks. Time worked entries automatically generate time cards and time sheets for manager approval.
 
 Customer service agents \(users with the sn\_customerservice\_agent role\) can record time worked on case-related activities, create time cards and time sheets, and submit for approval. Managers can approve time sheets, define cost rates for different types of activities, and convert to expense lines.
 
-The time recording feature extends the functionality of the [Time Card Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-card-management.md) application to [[c_CustomerServiceManagement|Customer Service Management]]. Agents can record time worked on cases and tasks directly from the Case or [[csm-case-task-form|Case Task form]] and time spent on other activities, such as meetings or training, from the Time Worked form. Time worked entries automatically create time cards for each task and selected work category. Time cards are automatically included in a weekly time sheet.
+The time recording feature extends the functionality of the [Time Card Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-card-management.md) application to Customer Service Management. Agents can record time worked on cases and tasks directly from the Case or Case Task form and time spent on other activities, such as meetings or training, from the Time Worked form. Time worked entries automatically create time cards for each task and selected work category. Time cards are automatically included in a weekly time sheet.
 
 The time recording feature also extends the functionality of the [Cost Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/r_CostManagement.md) application to Customer Service Management. Customer service managers can create labor rate cards, which define different cost rates for different activities. Time sheets use [labor rate cards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/c_TaskAndLaborRateCards.md) to determine costs and to generate expense lines.
 
@@ -102,8 +102,3 @@ The time recording feature provides one labor rate card: **CSM Rate Card \(Defau
 
 If needed, system administrators can create additional labor rate cards. Navigate to **Cost** &gt; **Costs** &gt; **Labor Rate Cards** and click **New** to create a labor rate card.
 
-## Related
-
-- [[csm-cases-case-tasks-overview|Cases and case tasks]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[csm-case-task-form|Case task form]]

@@ -15,7 +15,7 @@ breadcrumb: [Shopping Hub, Explore, Sourcing and Procurement Operations, Finance
 
 # Purchase state indicators
 
-Your purchases, which include purchase requisitions, [[purchase-requisition|purchase requisition]] lines, purchase orders, [[purchase-order-lines|purchase order lines]], and sourcing requests, are highlighted with color coding to help you quickly understand their state and due date. The progress bar on these purchases follows a similar color coding.
+Your purchases, which include purchase requisitions, purchase requisition lines, purchase orders, purchase order lines, and sourcing requests, are highlighted with color coding to help you quickly understand their state and due date. The progress bar on these purchases follows a similar color coding.
 
 A red state badge is displayed if a purchase is closed canceled or closed rejected.\[Omitted image "my-purchases-rejected.png"\] Alt text: Red state badge for rejected purchase.
 
@@ -25,9 +25,9 @@ For all other states, a grey badge is displayed.
 
 A red due date badge is displayed for a purchase if:
 
--   Any of the purchasing tasks associated with the purchase requisition line or [[purchase-order-table|purchase order]] line are overdue.
--   Any of the [[milestones|milestones]] associated with the purchase order line are overdue.
--   Any of the [[receipt-tasks|receipt tasks]] associated to the parent purchase order are overdue.
+-   Any of the purchasing tasks associated with the purchase requisition line or purchase order line are overdue.
+-   Any of the milestones associated with the purchase order line are overdue.
+-   Any of the receipt tasks associated to the parent purchase order are overdue.
 
 Similarly, a yellow due date badge is displayed for a purchase if any of the above conditions have a due date approaching in three days. A green due date badge indicates that everything is on schedule.
 
@@ -39,10 +39,3 @@ Your purchases are also highlighted with colored information banners when approv
 
 **Parent Topic:**[Shopping Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shopping-hub-overview.md)
 
-## Related
-
-- [[purchase-requisition|Purchase requisition]]
-- [[purchase-order-lines|Purchase order lines]]
-- [[purchase-order-table|Purchase order]]
-- [[milestones|Milestones]]
-- [[receipt-tasks|Receipt tasks]]

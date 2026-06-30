@@ -14,7 +14,7 @@ breadcrumb: [Install the Edge Encryption proxy server using the command line ins
 
 # Set up a keystore and encryption keys
 
-Set up the keystore and [[encryption-landing|encryption]] keys used by the [[edge-encryption|Edge Encryption]] proxy server.
+Set up the keystore and encryption keys used by the Edge Encryption proxy server.
 
 ## Before you begin
 
@@ -88,7 +88,3 @@ You can use a simple text file as a keystore. Each file holds a single encryptio
 
 **Next topic:**[Set up a Java KeyStore keystore](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/t_JavaKeyStoreSetUp.md)
 
-## Related
-
-- [[encryption-landing|Encryption]]
-- [[edge-encryption|Edge Encryption]]

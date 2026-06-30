@@ -14,7 +14,7 @@ breadcrumb: [Configure, Digital Portfolio Management, IT Service Management]
 
 # Integrate Digital Portfolio Management with other ServiceNow applications
 
-Bring in data from other ServiceNow [[dex-workspace-application-tab|applications]] to see a comprehensive view of your solutions in the [[dpm-landing|Digital Portfolio Management]] \(DPM\) Workspace. You can see data for services and service offerings, for business applications, and for service instances.
+Bring in data from other ServiceNow applications to see a comprehensive view of your solutions in the Digital Portfolio Management \(DPM\) Workspace. You can see data for services and service offerings, for business applications, and for service instances.
 
 -   **[View service and service offering data in Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-integrations-services.md)**  
 See service and service offering data in the context of your solutions in the Digital Portfolio Management \(DPM\) Workspace.
@@ -25,7 +25,3 @@ See service instance data in the context of your solutions in the Digital Portfo
 
 **Parent Topic:**[Configuring Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-configure-cfw.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[dpm-landing|Digital Portfolio Management]]

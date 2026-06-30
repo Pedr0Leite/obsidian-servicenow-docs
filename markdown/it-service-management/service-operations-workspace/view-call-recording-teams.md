@@ -14,7 +14,7 @@ breadcrumb: [Use Microsoft Teams to make conference calls in Service Operations 
 
 # View a conference call recording from Microsoft Teams in Service Operations Workspace
 
-View details for a recorded conference call in Service Operations Workspace by accessing the associated conference record as a [[reference-for-itsm-mobile-agent|reference]].
+View details for a recorded conference call in Service Operations Workspace by accessing the associated conference record as a reference.
 
 ## Before you begin
 
@@ -37,6 +37,3 @@ Role required: itil
 
 **Parent Topic:**[Use Microsoft Teams to make conference calls in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/microsoft-teams-sow.md)
 
-## Related
-
-- [[reference-for-itsm-mobile-agent|Reference]]

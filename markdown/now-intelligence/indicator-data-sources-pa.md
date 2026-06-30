@@ -13,13 +13,13 @@ breadcrumb: [Reference, Data visualizations, Platform Analytics experience, Plat
 
 # Indicator management and Performance Analytics
 
-Indicator data sources are created and managed through the architecture of the Performance Analytics application. This functionality is now part of [[c_performanceAnalyticsAndReporting|Platform Analytics]] administration.
+Indicator data sources are created and managed through the architecture of the Performance Analytics application. This functionality is now part of Platform Analytics administration.
 
-Long-term users of the ServiceNow AI Platform® may be familiar with Performance Analytics. Performance Analytics is an application for creating indicators, or KPIs. It includes the back end of indicators, breakdowns, indicator and [[breakdown-sources|breakdown sources]], and scheduled data collection jobs. It also included a Core UI front end of PA [[widgets|Widgets]] that went on responsive dashboards, and the [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]] for exploring indicators in depth.
+Long-term users of the ServiceNow AI Platform® may be familiar with Performance Analytics. Performance Analytics is an application for creating indicators, or KPIs. It includes the back end of indicators, breakdowns, indicator and breakdown sources, and scheduled data collection jobs. It also included a Core UI front end of PA Widgets that went on responsive dashboards, and the Analytics Hub for exploring indicators in depth.
 
-In Platform Analytics, the old Performance Analytics front end is replaced. Data Visualizations, which can apply to many data sources, replace both PA Widgets and reports. They can go either on a new type of dashboard or on UIB pages. [[kpi-details|KPI Details]] replaces the Analytics Hub.
+In Platform Analytics, the old Performance Analytics front end is replaced. Data Visualizations, which can apply to many data sources, replace both PA Widgets and reports. They can go either on a new type of dashboard or on UIB pages. KPI Details replaces the Analytics Hub.
 
-If you are a new customer, or if you have [[data-migration-perform|fully migrated]] to Platform Analytics, the back end functions of Performance Analytics are grouped under Platform Analytics administration. However, the following material that refers to Performance Analytics continues to apply, at least regarding the back end:
+If you are a new customer, or if you have [fully migrated](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/data-migration-perform.md) to Platform Analytics, the back end functions of Performance Analytics are grouped under Platform Analytics administration. However, the following material that refers to Performance Analytics continues to apply, at least regarding the back end:
 
 -   Training material
 -   ServiceNow University courses
@@ -28,14 +28,5 @@ If you are a new customer, or if you have [[data-migration-perform|fully migrate
 
 If you have upgraded your instance but not yet fully migrated to Platform Analytics, you continue to have Performance Analytics as a navigation area on your instance. Also, administrators who maintain Service Portal pages with Performance Analytics content continue to have access to the Core UI Performance Analytics front end objects on those pages.
 
-**Parent Topic:**[[data-visualization-reference|Data visualization reference]]
+**Parent Topic:**[Data visualization reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/data-visualization-reference.md)
 
-## Related
-
-- [[data-migration-perform|Perform full data migration]]
-- [[data-visualization-reference|Data visualization reference]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[breakdown-sources|Breakdown sources]]
-- [[widgets|Widgets]]
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]
-- [[kpi-details|KPI Details]]

@@ -26,7 +26,7 @@ Demo data is available for this feature.
 
 ## Roles
 
-The following roles are included when you install the [[employee-center-landing-page|Employee Center]] application \(sn\_ex\_sp\):
+The following roles are included when you install the Employee Center application \(sn\_ex\_sp\):
 
 <table id="table_qyy_dv2_sqb"><thead><tr><th>
 
@@ -278,6 +278,3 @@ Reevaluates the audience for a campaign and removes employees that no longer sat
 
 [To-do content form]()
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

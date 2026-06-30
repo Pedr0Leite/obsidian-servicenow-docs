@@ -18,7 +18,7 @@ Enable using your own SMTP server so that you can leverage the existing filterin
 
 -   Role required: admin
 -   Email server required: SMTP
--   [[t_ConfiguringStandardEmail|Basic email properties:]] enabled
+-   [Basic email properties:](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ConfiguringStandardEmail.md) enabled
 
 ## About this task
 
@@ -30,7 +30,7 @@ You can combine your own internal email architecture with the ServiceNow email a
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_SystemMailboxes|System Mailboxes]]** &gt; **Administration** &gt; **[[c_EmailAccounts|Email Accounts]]**.
+1.  Navigate to **All** &gt; **System Mailboxes** &gt; **Administration** &gt; **Email Accounts**.
 
     The system displays the list of available email accounts.
 
@@ -138,9 +138,9 @@ System Address Filter
 
 </td><td>
 
-System address filter to apply to the email account. If left blank, the system uses the default system address filter for inbound or [[ia-outbound-email-il|outbound email]].
+System address filter to apply to the email account. If left blank, the system uses the default system address filter for inbound or outbound email.
 
- For more information, see [[system-address-filters|System address filters]].
+ For more information, see [System address filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-address-filters.md).
 
 </td></tr><tr><td>
 
@@ -180,19 +180,10 @@ Option to create node logs for the raw data that is exchanged with the email ser
 
 Configure the SMTP server in your internal email architecture to forward email from the custom email address to the instance email address. Implement a spam filter on the custom email address.
 
-**Parent Topic:**[[c_AlternateEmailConfigurations|Advanced email setup]]
+**Parent Topic:**[Advanced email setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_AlternateEmailConfigurations.md)
 
 **Related topics**  
 
 
-[[t_ConfigureAnEmailAccount|Create an email account]]
+[Create an email account](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ConfigureAnEmailAccount.md)
 
-## Related
-
-- [[t_ConfiguringStandardEmail|Enable basic email]]
-- [[system-address-filters|System address filters]]
-- [[c_AlternateEmailConfigurations|Advanced email setup]]
-- [[t_ConfigureAnEmailAccount|Create an email account]]
-- [[c_SystemMailboxes|System mailboxes]]
-- [[c_EmailAccounts|Email accounts]]
-- [[ia-outbound-email-il|Outbound email]]

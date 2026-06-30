@@ -19,7 +19,7 @@ The contains various reports. The NIST Cybersecurity Framework \(CSF\) Use Case 
 |Reports|Purpose|
 |-------|-------|
 |Framework Core|Provides an overview of the Cybersecurity policies organized by the NIST CSF functions.|
-|Critical Targets|Provides an overview of critical targets by [[entity-class|entity class]] or tiers.|
+|Critical Targets|Provides an overview of critical targets by entity class or tiers.|
 |Critical Targets lacking Cybersecurity activities|Provides an overview of critical targets that lack cybersecurity activities by entity class or tiers.|
 |Current Cybersecurity activities|Provides an overview of currently performed cybersecurity activities by entity class, entities, or cybersecurity functions.|
 |Desired Cybersecurity activities|Provides an overview of desired cybersecurity activities by entity class, entities, or cybersecurity functions.|
@@ -36,6 +36,3 @@ The contains various reports. The NIST Cybersecurity Framework \(CSF\) Use Case 
 
 **Parent Topic:**[NIST CSF Use Case Accelerator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/grc-csf-usecase-accelerator.md)
 
-## Related
-
-- [[entity-class|entity class]]

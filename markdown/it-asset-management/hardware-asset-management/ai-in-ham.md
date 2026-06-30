@@ -28,7 +28,7 @@ For more information, see [ServiceNow product tiers](https://raw.githubuserconte
 
 The agentic workflows operate in a structured manner.
 
--   The agentic workflow first verifies licenses and [[c_Models|models]], then checks stock availability, and finally triggers the necessary AI agents to fulfill hardware asset requests automatically.
+-   The agentic workflow first verifies licenses and models, then checks stock availability, and finally triggers the necessary AI agents to fulfill hardware asset requests automatically.
 -   The AI agents also verify the repair tasks, provide detailed evaluation guide and repair steps, and close the tasks after receiving user confirmation.
 
 ## Benefits of agentic workflows
@@ -41,7 +41,7 @@ The collection of AI agents offers the following benefits:
 -   Increased employee satisfaction, with quicker resolution of asset requestsand repair requests.
 -   Improved asset utilization, for effective allocation of hardware assets.
 
-For more information about AI capabilities in [[ham-landing-page|Hardware Asset Management]], see the following:
+For more information about AI capabilities in Hardware Asset Management, see the following:
 
 -   [Fulfill hardware asset requests by using the Help manage hardware asset requests agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/now-assist-ham-fulfill-req-agent-workflow.md)
 -   [Fulfill repair orders by using the Help repair hardware assets agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/now-assist-ham-repair-agent-workflow.md)
@@ -52,7 +52,3 @@ For information about AI assets that are available on the ServiceNow AI Platform
 -   [Now Assist skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills.md)
 -   [Now Assist agentic workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/sn-aia-use-cases-list.md)
 
-## Related
-
-- [[c_Models|Models]]
-- [[ham-landing-page|Hardware Asset Management]]

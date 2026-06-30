@@ -14,11 +14,11 @@ breadcrumb: [VMware NSX-T cluster, Available on-premise discovery patterns, Disc
 
 # Create a serverless schedule for NSX-T cluster discovery
 
-Create a [[serverless-discovery|serverless discovery]] schedule to run the NSX Cluster pattern against a VMware NSX-T management cluster.
+Create a serverless discovery schedule to run the NSX Cluster pattern against a VMware NSX-T management cluster.
 
 ## Before you begin
 
--   Verify that you have at least version 1.31.0 of [[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] Patterns.
+-   Verify that you have at least version 1.31.0 of Discovery and Service Mapping Patterns.
 -   Verify that you have the IP address of the NSX-T management cluster.
 -   Create a credential alias with an applicative credential. For more information, see [Create an applicative credential alias for NSX-T cluster discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/create-applicative-cred-alias-nsx-t.md).
 
@@ -85,8 +85,3 @@ Either execute discovery immediately by selecting **Discover now** or wait until
 
 [VMware NSX-T cluster pattern-based discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/nsx-t-cluster-pattern.md)
 
-## Related
-
-- [[serverless-discovery|Serverless Discovery]]
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

@@ -26,9 +26,9 @@ Role required: sn\_dex.user or ITIL
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  In the primary navigation pane, select the [[dex-workspace-administration-tab|DEX Administration]] icon \(\[Omitted image "icon-administration.png"\] Alt text: The DEX Administration icon.\).
+2.  In the primary navigation pane, select the DEX Administration icon \(\[Omitted image "icon-administration.png"\] Alt text: The DEX Administration icon.\).
 
-3.  Select **Configure [[dex-workspace-application-tab|applications]]** on the [[app-mngmt-card|Application management card]].
+3.  Select **Configure applications** on the Application management card.
 
     The list of monitored applications appears.
 
@@ -36,8 +36,4 @@ Role required: sn\_dex.user or ITIL
 
     The URLs appear in the **What domains should be monitored?** field.
 
-## Related
 
-- [[dex-workspace-administration-tab|DEX Administration]]
-- [[dex-workspace-application-tab|Applications]]
-- [[app-mngmt-card|Application management card]]

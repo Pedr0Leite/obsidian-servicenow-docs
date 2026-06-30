@@ -12,7 +12,7 @@ breadcrumb: [Preferences in Core UI, Notification Preferences, Notifications, Co
 
 # Modify notification channels
 
-You can update channel information for your [[notifications|notifications]].
+You can update channel information for your notifications.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: none
 
 2.  In the Notification Channels section, select the channel row or the right arrow \(**&gt;**\) next to the channel name.
 
-3.  In the Edit Channel form, update the fields \(see [[create-channel|Create notification channels]] for descriptions of the form fields\).
+3.  In the Edit Channel form, update the fields \(see [Create notification channels](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-channel.md) for descriptions of the form fields\).
 
 4.  Select **Save**.
 
@@ -33,10 +33,5 @@ Role required: none
 
 The system updates and saves the channel information that you modified.
 
-**Parent Topic:**[[user-notification-preferences|Setting notification preferences in Core UI]]
+**Parent Topic:**[Setting notification preferences in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-notification-preferences.md)
 
-## Related
-
-- [[create-channel|Create notification channels]]
-- [[user-notification-preferences|Setting notification preferences in Core UI]]
-- [[notifications|Notifications]]

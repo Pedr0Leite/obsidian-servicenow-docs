@@ -15,7 +15,7 @@ breadcrumb: [Explore, Virtual Agent, Conversational Interfaces]
 
 # Virtual Agent Lite
 
-Virtual Agent Lite is a limited version of [[virtual-agent-landing-page|Virtual Agent]] that is available to ITSM standard customers.
+Virtual Agent Lite is a limited version of Virtual Agent that is available to ITSM standard customers.
 
 ## About Virtual Agent Lite
 
@@ -38,7 +38,7 @@ For Australia, the Virtual Agent Designer features available in Virtual Agent Li
 
     In Virtual Agent Lite, information in the **Languages** tab is read-only.
 
--   [[manage-topics-task|Control topic discovery and visibility]].
+-   Control topic discovery and visibility.
 
     The **Active** option of the header includes two options \(toggle switches\). Admins and topic authors can use these options to do one or both of the following:
 
@@ -72,7 +72,3 @@ Virtual Agent Lite has the following limitations:
 
 Set up and configure Virtual Agent Lite. For details, see [Quick start for Virtual Agent Lite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/quick-start-va-lite.md).
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[manage-topics-task|Control topic discovery and visibility]]

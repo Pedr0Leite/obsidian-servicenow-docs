@@ -14,7 +14,7 @@ breadcrumb: [Configure a pull connector, Configure Event Management connectors, 
 
 # Configure the Dynatrace metrics connector instance
 
-Configure the Dynatrace connector instance to receive [[operational-metrics|Metric Intelligence]] raw data from the Dynatrace server.
+Configure the Dynatrace connector instance to receive Metric Intelligence raw data from the Dynatrace server.
 
 ## Before you begin
 
@@ -34,11 +34,11 @@ By default, the Dynatrace service graph connector discovers CIs and supports met
 -   SERVICE
 -   PROCESS\_GROUP\_INSTANCE
 
-Configure other entity metrics for collection when creating [[create-event-rules|event rules]] for CI binding.
+Configure other entity metrics for collection when creating event rules for CI binding.
 
 ## Procedure
 
-1.  Navigate to **[[c_EM|Event Management]]** &gt; **Integrations** &gt; **Connector Instances**.
+1.  Navigate to **Event Management** &gt; **Integrations** &gt; **Connector Instances**.
 
 2.  Select **New** and create a connector instance.
 
@@ -124,8 +124,3 @@ Select for the metrics to collect.
 
 **Parent Topic:**[Configure a pull connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMConfigureConnectorInstance.md)
 
-## Related
-
-- [[operational-metrics|Metric Intelligence]]
-- [[create-event-rules|Event rules]]
-- [[c_EM|Event Management]]

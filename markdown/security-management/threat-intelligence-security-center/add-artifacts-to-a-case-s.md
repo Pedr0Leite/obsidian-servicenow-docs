@@ -14,19 +14,19 @@ breadcrumb: [Threat Analyst Workbench, Use, Threat Intelligence Security Center,
 
 # Add artifacts to case\(s\) or case task\(s\)
 
-After you have created a case, you can view or add artifacts, such as security incidents, CIs, and [[c_IoCs|indicators of compromise]], to the case. These artifacts act as clues in solving the case.
+After you have created a case, you can view or add artifacts, such as security incidents, CIs, and indicators of compromise, to the case. These artifacts act as clues in solving the case.
 
 ## Before you begin
 
 Role required: admin
 
-**Note:** Artifacts are available only to the existing cases. For [[c_Observables|observables]] and [[indicator|indicators]], the artifacts can also be added or associated to a case from the import job using the Import Intelligence button. For more information on how to import see, [Import Intelligence in TISC](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/importing-threat-intelligence.md)
+**Note:** Artifacts are available only to the existing cases. For observables and indicators, the artifacts can also be added or associated to a case from the import job using the Import Intelligence button. For more information on how to import see, [Import Intelligence in TISC](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/importing-threat-intelligence.md)
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center**.
 
-2.  Click **[[threat-analyst-workbench|Threat Analyst Workbench]]** icon.
+2.  Click **Threat Analyst Workbench** icon.
 
 3.  Go to **Case Management** &gt; **All Cases**.
 
@@ -78,7 +78,7 @@ List of indicators related to this cases or case tasks.
 
 </td></tr><tr><td>
 
-[[attack-patterns|Attack Patterns]]
+Attack Patterns
 
 </td><td>
 
@@ -86,7 +86,7 @@ List of attack patterns that are related to this cases or case tasks.
 
 </td></tr><tr><td>
 
-[[threat-intelligence-campaigns|Campaigns]]
+Campaigns
 
 </td><td>
 
@@ -94,7 +94,7 @@ List the campaigns that are related to this cases or case tasks.
 
 </td></tr><tr><td>
 
-[[threat-intelligence-course-actions|Course of Actions]]
+Course of Actions
 
 </td><td>
 
@@ -110,7 +110,7 @@ List of Data Components that are related to this cases or case tasks.
 
 </td></tr><tr><td>
 
-[[threat-groupings|Threat Groupings]]
+Threat Groupings
 
 </td><td>
 
@@ -118,7 +118,7 @@ List the threat groupings that are related to this cases or case tasks.
 
 </td></tr><tr><td>
 
-[[threat-intelligence-identities|Identities]]
+Identities
 
 </td><td>
 
@@ -126,7 +126,7 @@ List the identities that are related to this cases or case tasks.
 
 </td></tr><tr><td>
 
-[[threat-intelligence-infrastructure|Infrastructure]]
+Infrastructure
 
 </td><td>
 
@@ -142,7 +142,7 @@ List the intrusion sets such as a set of adversarial behaviors and resources wit
 
 </td></tr><tr><td>
 
-[[threat-intelligence-locations|Locations]]
+Locations
 
 </td><td>
 
@@ -150,7 +150,7 @@ List the locations records that are related to this cases or case tasks.
 
 </td></tr><tr><td>
 
-[[threat-intelligence-malware|Malware]]
+Malware
 
 </td><td>
 
@@ -158,7 +158,7 @@ List the malware source records that are related to this cases or case tasks.
 
 </td></tr><tr><td>
 
-[[marking-definitions|Marking Definitions]]
+Marking Definitions
 
 </td><td>
 
@@ -166,7 +166,7 @@ List the marking definitions records that are related to this cases or case task
 
 </td></tr><tr><td>
 
-[[threat-intelligence-threat-notes|Threat Notes]]
+Threat Notes
 
 </td><td>
 
@@ -174,7 +174,7 @@ List the marking definitions records that are related to this cases or case task
 
 </td></tr><tr><td>
 
-[[threat-intelligence-observed-data|Observed Data]]
+Observed Data
 
 </td><td>
 
@@ -182,7 +182,7 @@ List the observed data that are related to this cases or case tasks.
 
 </td></tr><tr><td>
 
-[[threat-opinions|Threat Opinions]]
+Threat Opinions
 
 </td><td>
 
@@ -190,7 +190,7 @@ List the threat opinions that are related to this cases or case tasks.
 
 </td></tr><tr><td>
 
-[[threat-reports|Threat Reports]]
+Threat Reports
 
 </td><td>
 
@@ -198,7 +198,7 @@ List the threat reports that are related to this cases or case tasks.
 
 </td></tr><tr><td>
 
-[[indicator-sightings|Sightings]]
+Sightings
 
 </td><td>
 
@@ -206,7 +206,7 @@ List of sightings that are related to this cases or case tasks.
 
 </td></tr><tr><td>
 
-[[threat-actors|Threat Actors]]
+Threat Actors
 
 </td><td>
 
@@ -214,7 +214,7 @@ List the threat actors that are related to this cases or case tasks.
 
 </td></tr><tr><td>
 
-[[tools|Tools]]
+Tools
 
 </td><td>
 
@@ -222,7 +222,7 @@ List the tools that are related to this cases or case tasks.
 
 </td></tr><tr><td>
 
-[[vulnerabilities|Vulnerabilities]]
+Vulnerabilities
 
 </td><td>
 
@@ -314,27 +314,3 @@ Displays all the associated techniques of a case on the MITRE ATT&amp;CK framewo
 
 [Using playbooks]()
 
-## Related
-
-- [[c_IoCs|Indicators of compromise]]
-- [[c_Observables|Observables]]
-- [[indicator|Indicators]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-analyst-workbench|Threat Analyst Workbench]]
-- [[attack-patterns|Attack patterns]]
-- [[threat-intelligence-campaigns|Campaigns]]
-- [[threat-intelligence-course-actions|Course of actions]]
-- [[threat-groupings|Threat groupings]]
-- [[threat-intelligence-identities|Identities]]
-- [[threat-intelligence-infrastructure|Infrastructure]]
-- [[threat-intelligence-locations|Locations]]
-- [[threat-intelligence-malware|Malware]]
-- [[marking-definitions|Marking definitions]]
-- [[threat-intelligence-threat-notes|Threat notes]]
-- [[threat-intelligence-observed-data|Observed data]]
-- [[threat-opinions|Threat opinions]]
-- [[threat-reports|Threat reports]]
-- [[indicator-sightings|Sightings]]
-- [[threat-actors|Threat actors]]
-- [[tools|Tools]]
-- [[vulnerabilities|Vulnerabilities]]

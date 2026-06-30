@@ -14,7 +14,7 @@ breadcrumb: [Reference, Industrial Process Manager, Operational Technology]
 
 # Automated mapping components installed when Industrial Process Manager and Operational Technology Manager are both installed
 
-Several types of automated mapping components will be installed with activation of the [[industrial-process-manager-overview|Industrial Process Manager]] when [[operational-technology-manager|Operational Technology Manager]] is also active, including tables, system properties, and scheduled flows.
+Several types of automated mapping components will be installed with activation of the Industrial Process Manager when Operational Technology Manager is also active, including tables, system properties, and scheduled flows.
 
 These automated mapping components are installed with or available when Industrial Process Manager is installed with Operational Technology Manager.
 
@@ -78,12 +78,7 @@ Override location of an OT device with subnet's location. If checked, the locati
 </td></tr></tbody>
 </table>|Application|Flow|
 |-----------|----|
-|Industrial Process Manager integration with [[operational-technology-overview|Operational Technology]] Manager|OT device mapping flow|
+|Industrial Process Manager integration with Operational Technology Manager|OT device mapping flow|
 
 **Parent Topic:**[Industrial Process Manager reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/manufacturing-process-mgr-reference.md)
 
-## Related
-
-- [[industrial-process-manager-overview|Industrial Process Manager]]
-- [[operational-technology-manager|Operational Technology Manager]]
-- [[operational-technology-overview|Operational Technology]]

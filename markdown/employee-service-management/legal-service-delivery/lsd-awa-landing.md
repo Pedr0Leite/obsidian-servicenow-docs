@@ -14,7 +14,7 @@ breadcrumb: [Integration with ServiceNow applications, Legal Service Delivery, L
 
 # Advanced work assignment for Legal Service Delivery
 
-[[lsd-awa-use-landing|Use Advanced Work Assignment for Legal Service Delivery]] feature to automatically assign legal requests to agents from the legal department \(a paralegal staff or lawyer\) based on availability, capacity, and optionally skills.
+Use Advanced Work Assignment for Legal Service Delivery feature to automatically assign legal requests to agents from the legal department \(a paralegal staff or lawyer\) based on availability, capacity, and optionally skills.
 
 To route legal requests using skills, you need to set up Skills Management. For more information, see [Skills Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/skills-management.md)
 
@@ -36,7 +36,7 @@ To route legal requests using skills, you need to set up Skills Management. For 
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about components such as roles, tables, plugins, and store applications that are installed.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-awa-[[reference-hr-service-delivery-advanced-integration-with-workday|reference]]-landing.md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about components such as roles, tables, plugins, and store applications that are installed.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-awa-reference-landing.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -56,7 +56,3 @@ Reference topics provide additional information about components installed, the 
 
 **Parent Topic:**[Integration of Legal Service Delivery with ServiceNow applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snclc-integrate-lsd-lp.md)
 
-## Related
-
-- [[lsd-awa-use-landing|Use Advanced Work Assignment for Legal Service Delivery]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

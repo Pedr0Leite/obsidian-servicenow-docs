@@ -20,7 +20,7 @@ Role required: sn\_customerservice\_manager
 
 ## About this task
 
-This task provides steps for a user with the sn\_customerservice\_manager role to access Zoom meeting details from an interaction record. For information about how users with other Notify roles view Zoom meeting details, see [[using-chat-zoom-connector|Using Chat Zoom Connector]].
+This task provides steps for a user with the sn\_customerservice\_manager role to access Zoom meeting details from an interaction record. For information about how users with other Notify roles view Zoom meeting details, see [Using Chat Zoom Connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/using-chat-zoom-connector.md).
 
 ## Procedure
 
@@ -31,7 +31,7 @@ This task provides steps for a user with the sn\_customerservice\_manager role t
 
 ## Result
 
-The recording URL of the Zoom meeting, if available, is added as a work note and displayed in the [[csm-config-ws-activity-stream|activity stream]] of the Interaction form.
+The recording URL of the Zoom meeting, if available, is added as a work note and displayed in the activity stream of the Interaction form.
 
 On the Interaction form, you can view the details for a Zoom meeting.
 
@@ -153,10 +153,5 @@ Short description of the interaction. **Note:** The short description field is e
 </table>**Related topics**  
 
 
-[[initiate-chat-zoom|Initiate Zoom meetings from chats]]
+[Initiate Zoom meetings from chats](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/initiate-chat-zoom.md)
 
-## Related
-
-- [[using-chat-zoom-connector|Using Chat Zoom Connector]]
-- [[initiate-chat-zoom|Initiate Zoom meetings from chats]]
-- [[csm-config-ws-activity-stream|Activity stream]]

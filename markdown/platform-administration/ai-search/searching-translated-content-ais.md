@@ -14,7 +14,7 @@ breadcrumb: [Internationalization support, Administer, AI Search, Search adminis
 
 # Searching translated content
 
-Understand how [[ia-ai-search|AI Search]] searches translated fields and documents.
+Understand how AI Search searches translated fields and documents.
 
 The ServiceNow AI Platform® includes two categories of translated content:
 
@@ -34,7 +34,7 @@ If you insert or update field translation records in the Translated Text \[sys\_
 **Note:** AI Search doesn't support translated fields on the Knowledge \[kb\_knowledge\] table. This behavior has the following effects.
 
 -   Search queries don't match translated versions of kb\_knowledge translated fields.
--   Search [[hs-results|results]] don't display translated versions of kb\_knowledge translated fields.
+-   Search results don't display translated versions of kb\_knowledge translated fields.
 -   [Search application facets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-facet-ais.md) don't display translated versions of kb\_knowledge translated fields.
 
 ## Translated documents
@@ -43,14 +43,9 @@ When searching content with translated documents, by default AI Search only matc
 
 Starting in the Utah release, you can configure a filter condition for globally searchable knowledge articles. Articles that satisfy this condition can be matched by searches in any language. For information on this setting, see [Configure globally searchable knowledge articles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-global-srch-kb-articles.md).
 
-Beginning in the Tokyo release, you can [[set-fallback-language|set a fallback language]] for each language enabled in your ServiceNow AI Platform instance. When a fallback language is configured for the user's session language, AI Search returns search results in both languages. For more details, see [AI Search interaction with fallback languages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/interaction-fallback-language-ais.md).
+Beginning in the Tokyo release, you can set a fallback language for each language enabled in your ServiceNow AI Platform instance. When a fallback language is configured for the user's session language, AI Search returns search results in both languages. For more details, see [AI Search interaction with fallback languages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/interaction-fallback-language-ais.md).
 
 You can configure a global fallback locale to make AI Search match documents in the instance locale's language as well as the user's session language. This configuration works best when you want to make all English-language documents globally searchable. To learn more about configuring a global fallback locale, see [Enable a global fallback locale for translated content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/enable-global-fallback-lang-ais.md).
 
 **Parent Topic:**[Internationalization support for AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/international-language-support-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]
-- [[set-fallback-language|Set a fallback language]]

@@ -14,7 +14,7 @@ breadcrumb: [Enterprise Asset Workspace, Explore, Enterprise Asset Management, I
 
 # Asset analytics overview for Enterprise Asset workspace
 
-Use the [[asset-analytics-view|Asset Analytics view]] to get a detailed view of all your assets, their overall performance, and the asset total cost of ownership \(TCO\).
+Use the Asset Analytics view to get a detailed view of all your assets, their overall performance, and the asset total cost of ownership \(TCO\).
 
 ## Enterprise Asset Dashboard
 
@@ -88,7 +88,7 @@ Number of assets for capital planning. The Assets for capital planning are asset
 
 </td></tr><tr><td>
 
-Top 10 [[c_Models|models]] with highest average TCO
+Top 10 models with highest average TCO
 
 </td><td>
 
@@ -185,7 +185,3 @@ The Data Visualizations tab enables the asset managers to view and create data v
 
 \[Omitted image "data-visualizations-eam.png"\] Alt text: Data visualization report
 
-## Related
-
-- [[asset-analytics-view|Asset analytics view]]
-- [[c_Models|Models]]

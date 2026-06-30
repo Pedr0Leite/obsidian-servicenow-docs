@@ -14,7 +14,7 @@ breadcrumb: [Configure Virtual Agent topics for ITSM Success Dashboard, ITSM Suc
 
 # Configure Virtual Agent topics for ITSM Success Dashboard indicators
 
-Configure the Virtual Agent \(VA\) topics for [[success-dashboard-indicator-landing|ITSM Success Dashboard indicators]] so that data is displayed correctly if you have topics other than the base system topics.
+Configure the Virtual Agent \(VA\) topics for ITSM Success Dashboard indicators so that data is displayed correctly if you have topics other than the base system topics.
 
 ## Before you begin
 
@@ -101,6 +101,3 @@ List of comma-separated activity system IDs.
 
 [Create deflection configurations and patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/set-up-deflection-settings-va.md)
 
-## Related
-
-- [[success-dashboard-indicator-landing|ITSM Success Dashboard indicators]]

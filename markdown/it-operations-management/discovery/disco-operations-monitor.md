@@ -15,9 +15,9 @@ breadcrumb: [Discovery Admin Workspace Insights, Discovery Admin Workspace, Expl
 
 # Discovery Operations Monitor dashboard
 
-The Discovery Operations Monitor dashboard displays performance metrics for your [[r-discovery|Discovery]] environment. Use this dashboard to monitor discovery health and identify issues across your IT landscape.
+The Discovery Operations Monitor dashboard displays performance metrics for your Discovery environment. Use this dashboard to monitor discovery health and identify issues across your IT landscape.
 
-To access the dashboard, navigate to **Workspaces** &gt; **[[discovery-admin-workspace|Discovery Admin Workspace]]** &gt; **Insights** &gt; **Discovery Operations Monitor**. You can also access this dashboard from the [[discovery-admin-workspace-home|Discovery Admin Workspace Home]] page.
+To access the dashboard, navigate to **Workspaces** &gt; **Discovery Admin Workspace** &gt; **Insights** &gt; **Discovery Operations Monitor**. You can also access this dashboard from the Discovery Admin Workspace Home page.
 
 \[Omitted image "disco-op-monitor.png"\] Alt text: Discovery Operations Monitor dashboard
 
@@ -38,7 +38,7 @@ The Discovery Operations Monitor dashboard displays visuals for discovery perfor
 
 **Note:** Metrics are collected for the most recently completed 15-minute window. Data may not reflect activity from the current interval until collection has run. For more information, see [Configure the time interval for a visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/config-interval-disco-op-mon.md).
 
-Select the info icon \(\[Omitted image "daw-info-icon.png"\]\) to view dashboard details, such as the owner and usage. Select the **More options** icon \(\[Omitted image "more-options.png"\]\) to duplicate, share, export, schedule, or print the dashboard. Select **Edit** to access editing mode, where you can update the data source and visualization settings. For more information about editing [[otto-aiops-dashboards|dashboards]], see [Common dashboard tasks in the in-line editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/common-dashboard-tasks.md).
+Select the info icon \(\[Omitted image "daw-info-icon.png"\]\) to view dashboard details, such as the owner and usage. Select the **More options** icon \(\[Omitted image "more-options.png"\]\) to duplicate, share, export, schedule, or print the dashboard. Select **Edit** to access editing mode, where you can update the data source and visualization settings. For more information about editing dashboards, see [Common dashboard tasks in the in-line editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/common-dashboard-tasks.md).
 
 Select the **More options** icon \(\[Omitted image "icon-menu-sow.png"\]\) on a visualization to export it in CSV, JPEG, PNG, or Excel format.
 
@@ -52,9 +52,3 @@ Select the **More options** icon \(\[Omitted image "icon-menu-sow.png"\]\) on a 
 
 **Note:** The dashboard displays data from the last 7 days by default. Data is retained for 30 days. For more information, see [Configure the date range for a visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/config-time-frame-disco-op-mon.md).
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[discovery-admin-workspace|Discovery Admin Workspace]]
-- [[discovery-admin-workspace-home|Discovery Admin Workspace Home]]
-- [[otto-aiops-dashboards|Dashboards]]

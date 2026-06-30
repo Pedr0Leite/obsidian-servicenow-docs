@@ -12,11 +12,11 @@ breadcrumb: [Using Knowledge Center, Knowledge Center, Manage content capabiliti
 
 # Create knowledge articles using Now Assist and Box
 
-Use Box to create knowledge articles from content stored in an external Box account. When you initiate article creation and [[select-box|select Box]] as the source, Now Assist searches the connected Box account for files relevant to the prompt, then generates an article based on the results.
+Use Box to create knowledge articles from content stored in an external Box account. When you initiate article creation and select Box as the source, Now Assist searches the connected Box account for files relevant to the prompt, then generates an article based on the results.
 
 ## Before you begin
 
-The prerequisites for using Box to create knowledge articles in the [[knowledge-center|Knowledge Center]] are:
+The prerequisites for using Box to create knowledge articles in the Knowledge Center are:
 
 -   Verify that your administrator has configured Box for your instance.
 -   To create articles using Box, you must have a Box user account.
@@ -27,7 +27,7 @@ Role required: agent
 
 1.  Navigate to **All** &gt; **Knowledge** &gt; **Knowledge Center** and start the article creation process.
 
-    Select a template and complete any required initial setup for the new article. For more information see, [[kc-edit-knowledge-article|Generate and edit articles using the article editor]].
+    Select a template and complete any required initial setup for the new article. For more information see, [Generate and edit articles using the article editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/kc-edit-knowledge-article.md).
 
 2.  In the article editor section, in the **Source** drop-down under **Integrations**, select **Box**.
 
@@ -35,7 +35,7 @@ Role required: agent
 
 3.  In the Now Assist context menu, enter a prompt that describes the article you want to create.
 
-    For example, enter `Create an article about [[password-reset-landing-page|password reset]]`.
+    For example, enter `Create an article about password reset`.
 
 4.  Submit the prompt.
 
@@ -52,12 +52,5 @@ Role required: agent
 **Related topics**  
 
 
-[[kc-configuring-box-integration|Integrate Box in Knowledge Center]]
+[Integrate Box in Knowledge Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/kc-configuring-box-integration.md)
 
-## Related
-
-- [[kc-edit-knowledge-article|Generate and edit articles using the article editor]]
-- [[kc-configuring-box-integration|Integrate Box in Knowledge Center]]
-- [[select-box|Select box]]
-- [[knowledge-center|Knowledge Center]]
-- [[password-reset-landing-page|Password Reset]]

@@ -28,7 +28,7 @@ Role required: sn\_lg\_contracts.contracts\_config
 
 3.  Select **Word Document Template**.
 
-4.  On the [[lsc-word-tmple-rec-form|Word Template New Record form]], fill in the fields.
+4.  On the Word Template New Record form, fill in the fields.
 
     For a description of the field values, see [Word Template New Record form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/lsc-word-tmple-rec-form.md).
 
@@ -63,6 +63,3 @@ The contract template is saved in the Draft state.
 
 [Publish a contract template]()
 
-## Related
-
-- [[lsc-word-tmple-rec-form|Word Template New Record form]]

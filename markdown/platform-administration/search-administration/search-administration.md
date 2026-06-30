@@ -22,11 +22,11 @@ The ServiceNow AI Platform includes two search engines:
 
 -   **[AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/overview-ais.md)**
 
-    [[ia-ai-search|AI Search]] is the default search engine for the ServiceNow AI Platform. It provides consumer-grade search capabilities for Customer Service Management, Now Mobile, Service Portal, and Virtual Agent.
+    AI Search is the default search engine for the ServiceNow AI Platform. It provides consumer-grade search capabilities for Customer Service Management, Now Mobile, Service Portal, and Virtual Agent.
 
 -   **[Zing text indexing and search engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/c_ZingTextSearch.md)**
 
-    Zing is a legacy search engine which provides fast [[hs-results|results]] and emphasizes relevancy scoring.
+    Zing is a legacy search engine which provides fast results and emphasizes relevancy scoring.
 
 
 ## Search plugins
@@ -35,11 +35,11 @@ These search plugins offer specialized search experiences for particular search 
 
 -   **[Contextual Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/c_ContextualSearch.md)**
 
-    The [[contextual-search-plugin|Contextual Search plugin]] enables search that focuses on query context and user intent to fetch the most relevant set of results. [[c_ContextualSearch|Contextual search]] displays related results within a form or record producer based on the text you enter in a field.
+    The Contextual Search plugin enables search that focuses on query context and user intent to fetch the most relevant set of results. Contextual search displays related results within a form or record producer based on the text you enter in a field.
 
 -   **[Intelligent Search for CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/intelligent-search-cmdb.md)**
 
-    [[intelligent-search-cmdb|Intelligent Search for CMDB]] enables users to query for a set of Configuration Items in the CMDB. Complex queries open in CMDB Query Builder, where you can refine them or run them.
+    Intelligent Search for CMDB enables users to query for a set of Configuration Items in the CMDB. Complex queries open in CMDB Query Builder, where you can refine them or run them.
 
 
 ## Search interfaces and widgets
@@ -70,10 +70,4 @@ These are search fields and widgets offered in the ServiceNow AI Platform UI or 
 
     The Virtual Agent platform uses search to help parse user statements and intents in chats.
 
-## Related
 
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]
-- [[contextual-search-plugin|Contextual search plugin]]
-- [[c_ContextualSearch|Contextual search]]
-- [[intelligent-search-cmdb|Intelligent Search for CMDB]]

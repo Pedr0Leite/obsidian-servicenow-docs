@@ -18,7 +18,7 @@ The Unused resources feature analyzes usage data to identify resources that are 
 
 ## Recommendations
 
-The [[cloud-insights-landing-page|Cloud Cost Management]] application generates or fetches recommendations based on the cloud provider. The following table summarizes the recommendation types and sources for each provider.
+The Cloud Cost Management application generates or fetches recommendations based on the cloud provider. The following table summarizes the recommendation types and sources for each provider.
 
 |Recommendation type|AWS|Azure|GCP|
 |-------------------|---|-----|---|
@@ -61,6 +61,3 @@ The system immediately generates the change requests. Later, at the scheduled ti
 
 [Exclude a resource from all Cloud Cost Management reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/exclusion-list-add-to-cloudin.md)
 
-## Related
-
-- [[cloud-insights-landing-page|Cloud Cost Management]]

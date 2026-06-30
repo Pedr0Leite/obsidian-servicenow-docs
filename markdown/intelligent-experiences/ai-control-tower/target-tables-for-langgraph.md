@@ -14,7 +14,7 @@ breadcrumb: [LangGraph, Service Graph Connectors for AI Control Tower, AI connec
 
 # Target tables for LangGraph
 
-Target tables for storing [[langgraph|AI Service Graph Connector for LangGraph]] data.
+Target tables for storing AI Service Graph Connector for LangGraph data.
 
 The LangGraph connector uses following main target tables:
 
@@ -32,6 +32,3 @@ sn\_ai\_disc\_ai\_usage - AI Usage/Execution data.
 
 cmdb\_ci\_function\_ai – AI Function \(Agent\) CI table.
 
-## Related
-
-- [[langgraph|AI Service Graph connector for LangGraph]]

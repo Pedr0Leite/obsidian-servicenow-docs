@@ -15,7 +15,7 @@ breadcrumb: [AI Agents for Service Mapping, AI capabilities in Service Mapping, 
 
 # Service Mapping AI Agent activity list tables
 
-Use this reference to interpret the tables in the [[c_ServiceMappingOverview|Service Mapping]] AI Agent activity list.
+Use this reference to interpret the tables in the Service Mapping AI Agent activity list.
 
 <table><thead><tr><th>
 
@@ -113,6 +113,3 @@ The date and time the activity record was created.
 </td></tr></tbody>
 </table>**Parent Topic:**[AI Agents for Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/service-mapping-ai-specialists.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]

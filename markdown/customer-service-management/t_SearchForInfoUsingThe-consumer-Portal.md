@@ -37,7 +37,7 @@ The portal has a search feature that you can use to search for information acros
 
 ## Search the Knowledge Base on Consumer Portal
 
-[[t_SearchTheKnowledgeBase|Search the knowledge base]] from the Consumer Portal to find articles, browse by product category, or view featured and popular content.
+Search the knowledge base from the Consumer Portal to find articles, browse by product category, or view featured and popular content.
 
 ### Before you begin
 
@@ -53,7 +53,7 @@ The Consumer Portal includes a link to the knowledge base that you can use to se
 
 2.  Navigate to **Resources** &gt; **Knowledge**.
 
-    The knowledge page displays a separate category for each of the products purchased by this customer. It also displays [[migration-lists|lists]] of articles by:
+    The knowledge page displays a separate category for each of the products purchased by this customer. It also displays lists of articles by:
 
     -   Featured content
     -   Most useful
@@ -86,8 +86,3 @@ Displays a list of related articles. Select a link to display the desired articl
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[t_SearchTheKnowledgeBase|Search the knowledge base]]
-- [[migration-lists|Lists]]

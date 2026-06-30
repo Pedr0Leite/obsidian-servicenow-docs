@@ -22,7 +22,7 @@ Role required: sn\_msi.workspace\_manager
 
 ## Procedure
 
-1.  Navigate to **[[major-security-incident-management-landing-page|Major Security Incident Management]]** &gt; **MSI Administration** &gt; **Status Report Setup**.
+1.  Navigate to **Major Security Incident Management** &gt; **MSI Administration** &gt; **Status Report Setup**.
 
     The MSI Status Report Setup page displays.
 
@@ -46,13 +46,8 @@ Role required: sn\_msi.workspace\_manager
 
     |Field|Description|
     |-----|-----------|
-    |**Lists**|Name of the related lists associated with the MSI. For example, [[c_Observables|Observables]], [[indicator|Indicators]]. Select a list using the search option.|
+    |**Lists**|Name of the related lists associated with the MSI. For example, Observables, Indicators. Select a list using the search option.|
 
 
 **Parent Topic:**[Create Report Subsection Element template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-report-subsection-element-template.md)
 
-## Related
-
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]
-- [[c_Observables|Observables]]
-- [[indicator|Indicators]]

@@ -14,7 +14,7 @@ breadcrumb: [Test suites, Setting up the manual testing process, Test Management
 
 # Create a test suite
 
-A test suite is made up of one or more [[c_TestCases|test cases]] that are grouped for execution purposes.
+A test suite is made up of one or more test cases that are grouped for execution purposes.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: tm\_test\_manager or tm\_tester
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Test Management** &gt; **Test Repository** &gt; **[[c_TestSuites|Test Suites]]**.
+1.  Navigate to **All** &gt; **Test Management** &gt; **Test Repository** &gt; **Test Suites**.
 
 2.  Click **New**.
 
@@ -90,7 +90,3 @@ You can use the related links and related lists of the new test suite for the fo
 
 **Parent Topic:**[Test suites](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/c_TestSuites.md)
 
-## Related
-
-- [[c_TestCases|Test cases]]
-- [[c_TestSuites|Test suites]]

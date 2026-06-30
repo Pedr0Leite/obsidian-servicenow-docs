@@ -14,7 +14,7 @@ breadcrumb: [Homepage migration status table, Homepage deprecation, Administerin
 
 # Populate the homepage migration status table
 
-The [[homepage-migration-status-table|Homepage migration status table]] enables you to address homepage retirement and conversion. Run a scheduled workflow to populate the homepage migration status table with information about the homepages on your instance.
+The Homepage migration status table enables you to address homepage retirement and conversion. Run a scheduled workflow to populate the homepage migration status table with information about the homepages on your instance.
 
 ## Before you begin
 
@@ -26,11 +26,11 @@ The populate flow has a limit of 1000 sys\_portal\_pages per execution. You can 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hp-dep-help-tool-features|Homepage deprecation help tool]]** &gt; **Overview**.
+1.  Navigate to **All** &gt; **Homepage deprecation help tool** &gt; **Overview**.
 
 2.  Select the link labeled **Populate Homepage migration status table** to open the flow that populates the table.
 
-    \[Omitted image "hpm-populate-hpm-status-link.png"\] Alt text: [[homepage-deprecation-help-tool|Homepage deprecation]] dashboard with Populate homepage migration link outlined
+    \[Omitted image "hpm-populate-hpm-status-link.png"\] Alt text: Homepage deprecation dashboard with Populate homepage migration link outlined
 
 3.  In the Flow Designer, select the trigger to specify when you want the populate flow to run.
 
@@ -51,8 +51,3 @@ The populate flow has a limit of 1000 sys\_portal\_pages per execution. You can 
 
 The Overview tab of the Homepage deprecation help tool is populated with the number of homepages not deprecated.\[Omitted image "hp-dep-overview1.png"\] Alt text: Homepage deprecation dashboard with four homepage single score reports showing nine not deprecated and zero converted, zero retired, zero restored
 
-## Related
-
-- [[homepage-migration-status-table|Homepage migration status table]]
-- [[hp-dep-help-tool-features|Homepage deprecation help tool]]
-- [[homepage-deprecation-help-tool|Homepage deprecation]]

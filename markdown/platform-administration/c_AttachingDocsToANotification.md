@@ -12,9 +12,9 @@ breadcrumb: [Create an email notification, Email and SMS notifications, System n
 
 # Document attachments on an email notification
 
-You can attach documents and reports to email [[notifications|notifications]] by scripting or linking to the sys ID of the record.
+You can attach documents and reports to email notifications by scripting or linking to the sys ID of the record.
 
-You can include all attachments from the source record with the notification. For example, if an incident update generates a notification, you can include all attachments from the incident record with the notification. To include all attachments from the source record, go to **Advance view** and select the check box for the **Include attachments** under **What will it contain** tab. The email messages, including attachments, cannot exceed the maximum email size. This size includes MIME encoding. For details on MIME encoding, see [[c_EmailConfiguration|Email service size restrictions]].
+You can include all attachments from the source record with the notification. For example, if an incident update generates a notification, you can include all attachments from the incident record with the notification. To include all attachments from the source record, go to **Advance view** and select the check box for the **Include attachments** under **What will it contain** tab. The email messages, including attachments, cannot exceed the maximum email size. This size includes MIME encoding. For details on MIME encoding, see [Email service size restrictions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailConfiguration.md).
 
 ## Attaching documents with scripting
 
@@ -53,10 +53,5 @@ For example:
 
 **Note:** Multilevel pivot reports can’t attach to email notifications.
 
-**Parent Topic:**[[t_CreateANotification|Create an email notification]]
+**Parent Topic:**[Create an email notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateANotification.md)
 
-## Related
-
-- [[c_EmailConfiguration|Email administration]]
-- [[t_CreateANotification|Create an email notification]]
-- [[notifications|Notifications]]

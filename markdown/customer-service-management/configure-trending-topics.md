@@ -20,11 +20,11 @@ Role required: admin
 
 ## About this task
 
-Access the menus and use the modules to train the solution definitions to identify trending case topics. For more details, see [[trending-case-topics|Trending case topics]].
+Access the menus and use the modules to train the solution definitions to identify trending case topics. For more details, see [Trending case topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/trending-case-topics.md).
 
 ## Procedure
 
-1.  Navigate to **Predictive [[intelligence-csm|Intelligence]]** and then either **All** &gt; **Similarity** &gt; **Solution Definitions** or **Clustering** &gt; **Solution Definitions**.
+1.  Navigate to **Predictive Intelligence** and then either **All** &gt; **Similarity** &gt; **Solution Definitions** or **Clustering** &gt; **Solution Definitions**.
 
 2.  Complete the following tasks to train the solution definitions for trending case topics.
 
@@ -33,7 +33,4 @@ Access the menus and use the modules to train the solution definitions to identi
     |Train the clustering solution definition to automatically group similar cases into topics|Configure a clustering solution definition to cluster similar cases into groups.|
     |Train the similarity solution definition to find similar existing major cases|Configure a similarity solution definition to find similar major cases for the clusters.|
 
-## Related
 
-- [[trending-case-topics|Trending case topics]]
-- [[intelligence-csm|Intelligence]]

@@ -104,13 +104,10 @@ This field should be left empty, as it’s no longer used.
 </table>4.  Select **Update**.
 
 
-**Parent Topic:**[[customize-fields-now-platform-landing|Customizing fields on the ServiceNow AI Platform]]
+**Parent Topic:**[Customizing fields on the ServiceNow AI Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/customize-fields-now-platform-landing.md)
 
 **Related topics**  
 
 
 [Add help to a field label on a form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_FieldLabelForm.md)
 
-## Related
-
-- [[customize-fields-now-platform-landing|Customizing fields on the ServiceNow AI Platform]]

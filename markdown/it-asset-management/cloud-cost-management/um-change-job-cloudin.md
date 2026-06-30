@@ -37,13 +37,13 @@ If either condition is met, the app sends an email notification to the owner of 
 
 ## Procedure
 
-1.  Navigate to **[[ci-workspace|Cloud Cost Management Workspace]]** &gt; **Operations** &gt; **Recommendations** &gt; **[[um-cloudin|Unused resources]]**.
+1.  Navigate to **Cloud Cost Management Workspace** &gt; **Operations** &gt; **Recommendations** &gt; **Unused resources**.
 
 2.  In the list on the appropriate tab, select the check boxes for the resources to terminate.
 
     -   To create an Unused resources job for resources that are new candidates for termination: On the **New Recommendations** tab, select the resources and then select **Schedule Job**.
     -   To create a job for resources that had previously been scheduled but weren’t resized: On the **Declined Recommendations** tab or the **Failed Recommendations** tab, select the resources and then select **Reschedule**.
-    **Note:** Microsoft Azure only: The Azure Advisor service generates the recommendations that appear in Rightsizing and Unused resources reports. [[cloud-insights-landing-page|Cloud Cost Management]] doesn't generate the recommendations.
+    **Note:** Microsoft Azure only: The Azure Advisor service generates the recommendations that appear in Rightsizing and Unused resources reports. Cloud Cost Management doesn't generate the recommendations.
 
 3.  In the dialog box, fill in the fields.
 
@@ -124,8 +124,3 @@ This field appears only when the **Approval type** is selected as **Auto approva
 
 **Parent Topic:**[Manage unused resources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/manage-unused-mac.md)
 
-## Related
-
-- [[ci-workspace|Cloud Cost Management Workspace]]
-- [[um-cloudin|Unused resources]]
-- [[cloud-insights-landing-page|Cloud Cost Management]]

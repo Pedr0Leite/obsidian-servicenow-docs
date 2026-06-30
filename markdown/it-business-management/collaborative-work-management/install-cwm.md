@@ -14,7 +14,7 @@ breadcrumb: [Configure, Collaborative Work Management, Strategic Portfolio Manag
 
 # Install Collaborative Work Management
 
-You can install the [[cwm-landing|Collaborative Work Management]] \(CWM\) application \(sn\_cwm\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Collaborative Work Management \(CWM\) application \(sn\_cwm\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -55,6 +55,4 @@ For more information, see [Components installed with Collaborative Work Manageme
 
 6.  Select **Install**.
 
-## Related
 
-- [[cwm-landing|Collaborative Work Management]]

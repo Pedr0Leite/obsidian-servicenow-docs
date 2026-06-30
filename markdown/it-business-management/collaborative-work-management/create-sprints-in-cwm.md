@@ -14,7 +14,7 @@ breadcrumb: [Plan sprints, Agile in CWM, Use, Collaborative Work Management, Str
 
 # Create a sprint in CWM
 
-Create a sprint with custom duration and capacity to enable your team to plan and execute their work in an Agile methodology in [[cwm-landing|Collaborative Work Management]].
+Create a sprint with custom duration and capacity to enable your team to plan and execute their work in an Agile methodology in Collaborative Work Management.
 
 ## Before you begin
 
@@ -67,6 +67,3 @@ Select **Add another Sprint**.
 
 **Parent Topic:**[Sprint planning in CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/agile-sprint-planning-in-cwm.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

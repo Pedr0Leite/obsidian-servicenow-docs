@@ -22,7 +22,7 @@ Role required: sn\_businessroles.writer 
 
 ## About this task
 
-Modeled after the organizational hierarchy for applications access, [[business-roles|business roles]] enable you to provision applications to your employees. Depending on their job function, employees need different applications to perform their work. For example, the applications that a product designer requires differs from that of a software engineer. Each business role is mapped to one or more groups, and you can create default business roles and parent-child hierarchies to provision applications.
+Modeled after the organizational hierarchy for applications access, business roles enable you to provision applications to your employees. Depending on their job function, employees need different applications to perform their work. For example, the applications that a product designer requires differs from that of a software engineer. Each business role is mapped to one or more groups, and you can create default business roles and parent-child hierarchies to provision applications.
 
 ## Procedure
 
@@ -78,7 +78,7 @@ Audience
 
 </td><td>
 
-Defines the conditions or criteria that the new hire must meet for the [[hiring-tab-concept|hiring]] manager to be able to assign the business role on their behalf.For example, you can use audience records so that one business role is only available for on-site workers and another business role is only available for remote workers.
+Defines the conditions or criteria that the new hire must meet for the hiring manager to be able to assign the business role on their behalf.For example, you can use audience records so that one business role is only available for on-site workers and another business role is only available for remote workers.
 
  For details on how to configure an audience record, see [Audiences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-audience.md).
 
@@ -118,7 +118,3 @@ Option to activate the business role for use.
 
 **Parent Topic:**[Business roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-journey-management/business-roles.md)
 
-## Related
-
-- [[business-roles|Business roles]]
-- [[hiring-tab-concept|Hiring]]

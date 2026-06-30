@@ -12,13 +12,13 @@ breadcrumb: [Components installed with Customer Service Management, Reference, C
 
 # Properties installed with Customer Service Management
 
-Properties are added with the activation of the [[c_CustomerServiceManagement|Customer Service Management]] application.
+Properties are added with the activation of the Customer Service Management application.
 
 To open the System Property \[sys\_properties\] table, enter `sys_properties.list` in the navigation filter. You can narrow the list results by using the **Application** field.
 
 You can also navigate to **Customer Service** &gt; **Administration** &gt; **Properties** to view a list of the most frequently used properties that you can configure for Customer Service Management.
 
-The following table [[migration-lists|lists]] the properties that are used for Customer Service Management.
+The following table lists the properties that are used for Customer Service Management.
 
 <table id="table_jzs_2kx_kt"><thead><tr><th>
 
@@ -94,7 +94,7 @@ sn\_customerservice.FTS\_flag\_enabled
 
 </td><td>
 
-Enable the follow the sun flag on the Customer Service [[r_CustomerServiceCaseForm|Case form]].-   Type: true \| false
+Enable the follow the sun flag on the Customer Service Case form.-   Type: true \| false
 -   Default value: false
 
 </td></tr><tr><td>
@@ -113,7 +113,7 @@ sn\_customerservice.shn\_asset
 
 </td><td>
 
-[[c_OnScreenAlerts|Special Handling Notes]] for assets.-   **Type**: true \| false
+Special Handling Notes for assets.-   **Type**: true \| false
 -   **Default value**: false
 -   **Location**: **Special Handling Notes** &gt; **Properties**
 
@@ -233,7 +233,7 @@ com.snc.cs\_base.last.generated.code.tree.path
 
 </td><td>
 
-Property that gets created by the system when the first customer\_account record is inserted into an instance. It stores the **Account Code** value for the most recently created customer account in the Account \[customer\_account\] table. When a new customer account record is created, the system uses this property to determine a unique account code value for the account. The property is then updated with this latest assigned value so that the next account code value can be set as a unique value for the next account record insert. See [[set-csm-account-code-property|Set the account code property]] for more details.
+Property that gets created by the system when the first customer\_account record is inserted into an instance. It stores the **Account Code** value for the most recently created customer account in the Account \[customer\_account\] table. When a new customer account record is created, the system uses this property to determine a unique account code value for the account. The property is then updated with this latest assigned value so that the next account code value can be set as a unique value for the next account record insert. See [Set the account code property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/set-csm-account-code-property.md) for more details.
 
  -   **Type**: string
 -   **Default value**: none
@@ -317,7 +317,7 @@ sn\_csm\_case\_types.enable\_service\_selector
 
 </td><td>
 
-Enables the [[csm-case-type-select-modals|Case Type Selector]] for cases created from the following records:
+Enables the Case Type Selector for cases created from the following records:
 
 -   Interaction
 -   Account
@@ -384,7 +384,7 @@ sn\_customerservice.contact\_relationship.restrict\_within\_account\_hierarchy
 
 </td><td>
 
-Create a contact relationship with contacts outside the [[c_AccountHierarchy|account hierarchy]].When set to **false**, users are allowed to create [[c_ContactRelationships|contact relationships]] with any account. When set to **true**, only contacts within the account hierarchy will be shown.
+Create a contact relationship with contacts outside the account hierarchy.When set to **false**, users are allowed to create contact relationships with any account. When set to **true**, only contacts within the account hierarchy will be shown.
 
  -   **Type**: true \| false
 -   **Default value**: true
@@ -436,7 +436,7 @@ sn\_query\_rules.number\_of\_nq\_ops\_zing\_search\_supports
 
 </td><td>
 
-Defines the number of query [[gamification-components-rules|rules]] that must be applied to filter the data.-   **Type**: string
+Defines the number of query rules that must be applied to filter the data.-   **Type**: string
 -   **Default value**: 10
 
 </td></tr><tr><td>
@@ -508,17 +508,5 @@ If **false**:
 -   The Case Entitlements related list is hidden on the Case form.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[r_InstalledWithCustomerService|Components installed with Customer Service Management]]
+</table>**Parent Topic:**[Components installed with Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_InstalledWithCustomerService.md)
 
-## Related
-
-- [[set-csm-account-code-property|Set the account code property]]
-- [[r_InstalledWithCustomerService|Components installed with Customer Service Management]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[migration-lists|Lists]]
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[c_OnScreenAlerts|Special handling notes]]
-- [[csm-case-type-select-modals|Case type selector]]
-- [[c_AccountHierarchy|Account hierarchy]]
-- [[c_ContactRelationships|Contact relationships]]
-- [[gamification-components-rules|Rules]]

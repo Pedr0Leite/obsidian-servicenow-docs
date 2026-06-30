@@ -12,7 +12,7 @@ breadcrumb: [Performance, Monitoring instance health with Instance Observer, Pla
 
 # Anomalies detection
 
-Instance Observer proactively detects the anomalies for cyclical or non-cyclical metrics under the performance chart for the [[impact-landing-page|Impact]] Total package on production instances. Anomalies represent metrics outliers based on historical patterns. Every anomaly may not represent an issue, but, notifies you and you decide the criticality and configure alerts, accordingly.
+Instance Observer proactively detects the anomalies for cyclical or non-cyclical metrics under the performance chart for the Impact Total package on production instances. Anomalies represent metrics outliers based on historical patterns. Every anomaly may not represent an issue, but, notifies you and you decide the criticality and configure alerts, accordingly.
 
 Cyclical metrics occur as a complete set of events that repeat themselves regularly in the same order or in a regularly repeated period. Non-cyclical metrics are metrics that repeat themselves irregularly or in random, less predictable repeated periods. An anomaly, also known as an outlier, is a data point that is unusual, rare, or doesn't conform to the expected patterns or distribution of the data.
 
@@ -38,7 +38,7 @@ Job Details will represent the hourly scheduled jobs along with respective avera
 
 \[Omitted image "io-job-anomalies-1.png"\] Alt text: Scheduled jobs anomalies chart
 
-Drill down from the hourly scheduled job count into an individual recurrence job for any hour of day and further into the execution pattern of the same job from the last seven days. This can [[io-help|help]] to perform end to end root cause for jobs that usually take a consistent amount of time to complete that suddenly experience a significant increase or decrease in execution time, indicating a possible performance issue.
+Drill down from the hourly scheduled job count into an individual recurrence job for any hour of day and further into the execution pattern of the same job from the last seven days. This can help to perform end to end root cause for jobs that usually take a consistent amount of time to complete that suddenly experience a significant increase or decrease in execution time, indicating a possible performance issue.
 
 \[Omitted image "io-job-anomaly-detection-chart.png"\] Alt text: Job details after drilling down into a specific date.
 
@@ -63,19 +63,12 @@ Drill down from the hourly scheduled job count into an individual recurrence job
 
 ## Anomaly response
 
-All anomalies don’t represent an issue, but, the outliers detected based on historical patterns. Configure alerts accordingly after analyzing the criticality of the anomaly detected. See [[configure-anomaly-alerts|Configure anomaly alerts]] for more information on alerts.
+All anomalies don’t represent an issue, but, the outliers detected based on historical patterns. Configure alerts accordingly after analyzing the criticality of the anomaly detected. See [Configure anomaly alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configure-anomaly-alerts.md) for more information on alerts.
 
 -   **[Configure anomaly alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configure-anomaly-alerts.md)**  
 Configure anomaly alerts based on metrics outliers on historical patterns in Instance Observer.
--   **[[anomaly-detection-algorithm|Anomaly detection algorithm]]**  
+-   **[Anomaly detection algorithm](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/anomaly-detection-algorithm.md)**  
 Instance Observer is performing anomalies detection through the Z-score Statistical model, otherwise referred to as a univariate method.
 
-**Parent Topic:**[[instance-observer-performance|Performance]]
+**Parent Topic:**[Performance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/instance-observer-performance.md)
 
-## Related
-
-- [[configure-anomaly-alerts|Configure anomaly alerts]]
-- [[anomaly-detection-algorithm|Anomaly detection algorithm]]
-- [[instance-observer-performance|Performance]]
-- [[impact-landing-page|Impact]]
-- [[io-help|Help]]

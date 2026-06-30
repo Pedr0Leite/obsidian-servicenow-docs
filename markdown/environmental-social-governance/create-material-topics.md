@@ -147,15 +147,10 @@ The material topic is sent to the approver. The state changes to **Review**.
 
 ## What to do next
 
-[[create-a-metric|Create a metric]]
+[Create a metric](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/create-a-metric.md)
 
--   **[[approve-a-mt|Approve or reject a material topic]]**  
+-   **[Approve or reject a material topic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/approve-a-mt.md)**  
 Review and approve or reject a material topic if it is assigned to you for approval.
 
-**Parent Topic:**[[configuring-esg|Configure Operational Sustainability Management \(formerly ESG Management\)]]
+**Parent Topic:**[Configure Operational Sustainability Management \(formerly ESG Management\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/configuring-esg.md)
 
-## Related
-
-- [[create-a-metric|Create a metric]]
-- [[approve-a-mt|Approve or reject a material topic]]
-- [[configuring-esg|Configure Operational Sustainability Management \(formerly ESG Management\)]]

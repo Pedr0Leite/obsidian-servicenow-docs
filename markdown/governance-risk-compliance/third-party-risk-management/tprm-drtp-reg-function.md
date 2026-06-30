@@ -38,7 +38,7 @@ A function can be a service, a service offering, or a process.
 
 4.  Select **Save**.
 
-    An organization can have various functions, each representing a specific service, service offerings, or group of services and their service offerings, as defined by the Digital [[grc-opres-landing-page|Operational Resilience]] Act \(DORA\). You can select and view these functions. The functions form is designed to capture the detailed information about each function.
+    An organization can have various functions, each representing a specific service, service offerings, or group of services and their service offerings, as defined by the Digital Operational Resilience Act \(DORA\). You can select and view these functions. The functions form is designed to capture the detailed information about each function.
 
     You can also add descriptive text on the form. Once completed, you have captured details about the third-party provided Information and Communication Technology ICT service usage.
 
@@ -46,6 +46,4 @@ A function can be a service, a service offering, or a process.
 
 6.  To export function records, select **Export**.
 
-## Related
 
-- [[grc-opres-landing-page|Operational Resilience]]

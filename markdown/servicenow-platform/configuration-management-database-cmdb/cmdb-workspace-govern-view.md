@@ -32,7 +32,7 @@ Select a status card to show the associated tasks in the various lists such as *
 
 ## Certification tasks
 
-The **Certification tasks** tab in the My tasks section lists any [[c_DataCertification|Data Certification]] tasks assigned to you or to an assignment group that you belong to in accordance with [CMDB Data Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-data-management.md) policies. For managers, tasks of direct reports are included, and for user group managers, tasks of members in the group are also included.Review and process these tasks by checking audit results for the associated CIs and attribute values. For more information about reviewing Data Certification tasks, see [Review certification tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/data-certific-review-tasks.md).
+The **Certification tasks** tab in the My tasks section lists any Data Certification tasks assigned to you or to an assignment group that you belong to in accordance with [CMDB Data Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-data-management.md) policies. For managers, tasks of direct reports are included, and for user group managers, tasks of members in the group are also included.Review and process these tasks by checking audit results for the associated CIs and attribute values. For more information about reviewing Data Certification tasks, see [Review certification tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/data-certific-review-tasks.md).
 
 ## Attestation tasks
 
@@ -46,6 +46,3 @@ The **All other tasks** tab in the My tasks section lists any tasks, aside from 
 
 **Parent Topic:**[Exploring CMDB Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/exploring-cmdb-workspace.md)
 
-## Related
-
-- [[c_DataCertification|Data Certification]]

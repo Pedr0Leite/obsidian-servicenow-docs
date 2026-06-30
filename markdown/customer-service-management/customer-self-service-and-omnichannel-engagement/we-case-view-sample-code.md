@@ -39,7 +39,7 @@ console.log(errorMessage, errorType);
 
 'SN_EMBEDX_CASE_VIEW#CASE_COMMENT_ADDED' : (e) => { 
 
-// This event is dispatched when a comment is added in the [[csm-config-ws-activity-stream|activity stream]]. }
+// This event is dispatched when a comment is added in the activity stream. }
 	};
 
 	setEvents(snEmbedxCaseView, eventHandlers);
@@ -53,12 +53,7 @@ console.log(errorMessage, errorType);
 
 [Embed the Case view component instance on the third-party website](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/embed-case-view-comp-on-third-party-website.md)
 
-[[component-properties-for-case-view-comp|Component properties for the Case view]]
+[Component properties for the Case view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/component-properties-for-case-view-comp.md)
 
-[[we-case-view-event-handler|Event handler in the enhanced Case view component]]
+[Event handler in the enhanced Case view component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/we-case-view-event-handler.md)
 
-## Related
-
-- [[component-properties-for-case-view-comp|Component properties for the Case view]]
-- [[we-case-view-event-handler|Event handler in the enhanced Case view component]]
-- [[csm-config-ws-activity-stream|Activity stream]]

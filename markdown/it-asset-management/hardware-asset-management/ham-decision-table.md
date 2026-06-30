@@ -14,7 +14,7 @@ breadcrumb: [Reference, Hardware Asset Management, IT Asset Management]
 
 # Decision tables for Hardware Asset Management flows
 
-These readily available decision tables help you customize the flows in some of the [[ham-landing-page|Hardware Asset Management]] features.
+These readily available decision tables help you customize the flows in some of the Hardware Asset Management features.
 
 <table id="table_mxj_zmr_f4b"><thead><tr><th>
 
@@ -78,7 +78,7 @@ Source request from local stockroom
 
 </td><td>
 
-Asset Local Order Subflow**Note:** The Asset Local Order Subflow decision table is available with both Hardware Asset Management and [[c_Procurement|Procurement]] plugins.
+Asset Local Order Subflow**Note:** The Asset Local Order Subflow decision table is available with both Hardware Asset Management and Procurement plugins.
 
 </td></tr><tr><td>
 
@@ -86,7 +86,7 @@ Reclamation
 
 </td><td>
 
-[[reclaim-asset|Asset Reclamation]] Flow
+Asset Reclamation Flow
 
 </td></tr><tr><td>
 
@@ -139,8 +139,3 @@ Contract Renewal Tasks Flow
 </td></tr></tbody>
 </table>**Parent Topic:**[Hardware Asset Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/reference-hardware-asset-management.md)
 
-## Related
-
-- [[ham-landing-page|Hardware Asset Management]]
-- [[c_Procurement|Procurement]]
-- [[reclaim-asset|Asset reclamation]]

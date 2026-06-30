@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[dynamic-translation|Dynamic Translation]]** &gt; **Translator [[clone-configurations-tab|Configurations]]**.
+1.  Navigate to **All** &gt; **Dynamic Translation** &gt; **Translator Configurations**.
 
 2.  Select **Microsoft**.
 
@@ -46,7 +46,3 @@ Role required: admin
 
 **Next topic:**[Migrate customized Translator Configurations to v3 flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/migrate-v3-dynamic-translation.md)
 
-## Related
-
-- [[dynamic-translation|Dynamic translation]]
-- [[clone-configurations-tab|Configurations]]

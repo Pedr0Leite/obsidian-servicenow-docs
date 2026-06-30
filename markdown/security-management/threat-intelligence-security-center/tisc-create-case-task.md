@@ -22,9 +22,9 @@ Role required: sn\_sec\_tisc.analyst, sn\_sec\_tisc.admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center**.
 
-2.  Click **[[threat-analyst-workbench|Threat Analyst Workbench]]** icon.
+2.  Click **Threat Analyst Workbench** icon.
 
 3.  Go to **Case Task Management** &gt; **All Cases Tasks**.
 
@@ -85,7 +85,3 @@ Role required: sn\_sec\_tisc.analyst, sn\_sec\_tisc.admin
 
 [Using playbooks]()
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-analyst-workbench|Threat Analyst Workbench]]

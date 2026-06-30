@@ -14,18 +14,18 @@ breadcrumb: [Event Management, ITOM AIOps, IT Operations Management]
 
 # Exploring Event Management
 
-Explore [[c_EM|Event Management]] to understand its overview, process flow, user roles, and benefits for comprehensive IT issue monitoring and resolution.
+Explore Event Management to understand its overview, process flow, user roles, and benefits for comprehensive IT issue monitoring and resolution.
 
-Event Management provides comprehensive monitoring, analysis, and [[ccg-remediation|remediation]] of IT issues by effectively managing various components within an IT environment. These components include discovered services, application services, dynamic CI groups, and alert groups.
+Event Management provides comprehensive monitoring, analysis, and remediation of IT issues by effectively managing various components within an IT environment. These components include discovered services, application services, dynamic CI groups, and alert groups.
 
--   Discovered Services: Defined by interrelated Configuration Items \(CIs\) from the CMDB, a discovered service is identified through [[c_ServiceMappingOverview|Service Mapping]]. It includes a service map with mapping relationships, an impact tree showing outage severity, active and related alerts, and CI properties. This service information is displayed on [[otto-aiops-dashboards|dashboards]], the Alerts list, and the Events list.
+-   Discovered Services: Defined by interrelated Configuration Items \(CIs\) from the CMDB, a discovered service is identified through Service Mapping. It includes a service map with mapping relationships, an impact tree showing outage severity, active and related alerts, and CI properties. This service information is displayed on dashboards, the Alerts list, and the Events list.
 -   Application Services: Created by selecting specific CIs, application services allow for targeted monitoring and management. For more details, refer to the Application Services documentation.
 -   Dynamic CI Groups: These are collections of CIs grouped based on shared criteria, such as location. Dynamic CI groups help populate application services, simplifying management.
 -   Alert Groups: Alert groups organize sets of alerts to streamline maintenance and management, making it easier to respond to IT issues efficiently.
 
 ## Process flow
 
-Event Management receives external events and generates alerts based on predefined rules. The MID Server polls external event tracking tools and sends data to Event Management for storage and processing. Events are stored in the Event \[em\_event\] table, and alerts are created by matching [[create-event-rules|event rules]]. Alerts are then transformed and enriched with additional content, accumulated if thresholds are met, and mapped to specific fields. The system searches for matching message keys to update existing alerts or create new ones, associating related events under a single alert. Alerts are bound to specific Configuration Items \(CIs\) for root cause analysis. For more information, see [Event Management process flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/em-process-flow.md).
+Event Management receives external events and generates alerts based on predefined rules. The MID Server polls external event tracking tools and sends data to Event Management for storage and processing. Events are stored in the Event \[em\_event\] table, and alerts are created by matching event rules. Alerts are then transformed and enriched with additional content, accumulated if thresholds are met, and mapped to specific fields. The system searches for matching message keys to update existing alerts or create new ones, associating related events under a single alert. Alerts are bound to specific Configuration Items \(CIs\) for root cause analysis. For more information, see [Event Management process flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/em-process-flow.md).
 
 ## Users
 
@@ -89,10 +89,3 @@ Manages the lifecycle of alerts, including performing basic operations such as v
 -   Enhanced Visibility: Real-time dashboards offer insights into system health.
 -   Cost Efficiency: Lowers operational costs by preventing prolonged issues.
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[ccg-remediation|Remediation]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[otto-aiops-dashboards|Dashboards]]
-- [[create-event-rules|Event rules]]

@@ -32,25 +32,19 @@ Assign each member of staff certain responsibilities and accesses to perform dai
 
 4.  Select **Register Member**.
 
-5.  On the form, fill in the [[fields|fields]].
+5.  On the form, fill in the fields.
 
-    To learn more about the fields on the member registration form and their descriptions, see [[member-registration-form|Member registration form]].
+    To learn more about the fields on the member registration form and their descriptions, see [Member registration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/member-registration-form.md).
 
 6.  Select **Submit**.
 
 
-**Parent Topic:**[[using-partner-relationship-management|Using Partner Relationship Management]]
+**Parent Topic:**[Using Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-partner-relationship-management.md)
 
 **Related topics**  
 
 
 [Using Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-partner-relationship-management.md)
 
-[[raise-an-inquiry-on-partner-portal|Raise an inquiry on Partner Portal]]
+[Raise an inquiry on Partner Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/raise-an-inquiry-on-partner-portal.md)
 
-## Related
-
-- [[member-registration-form|Member registration form]]
-- [[using-partner-relationship-management|Using Partner Relationship Management]]
-- [[raise-an-inquiry-on-partner-portal|Raise an inquiry on Partner Portal]]
-- [[fields|Fields]]

@@ -122,7 +122,7 @@ Clear the **Auto publish FDS subscriptions** check box.
 
         **Maintain SysID** option is selected by default for non-CMDB tables and not available for CMDB tables.
 
-        **Note:** Beginning with [[tmt-service-bridge-both-landing-page|Service Exchange]] version 2.3.18, **Maintain SysID** is supported for both CMDB and non-CMDB tables.
+        **Note:** Beginning with Service Exchange version 2.3.18, **Maintain SysID** is supported for both CMDB and non-CMDB tables.
 
     9.  Select **Save**.
 
@@ -181,21 +181,14 @@ The FDS offering is now published. Providers can request foundation data based o
 
 ## What to do next
 
-[[service-bridge-v2-con-acknowledge-fds-request|Acknowledge foundation data sync offering request.]]
+[Acknowledge foundation data sync offering request.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-con-acknowledge-fds-request.md)
 
 **Related topics**  
 
 
-[[service-bridge-v2-explore-foundation-data-sync|Foundation data sync]]
+[Foundation data sync](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-explore-foundation-data-sync.md)
 
-[[using-provider-bound-fds-consumer|Configure outbound foundation data sync as consumers]]
+[Configure outbound foundation data sync as consumers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/using-provider-bound-fds-consumer.md)
 
-[[service-bridge-v2-configure-inboun-fds-providers|Configuring inbound foundation data sync as providers]]
+[Configuring inbound foundation data sync as providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-configure-inboun-fds-providers.md)
 
-## Related
-
-- [[service-bridge-v2-con-acknowledge-fds-request|Acknowledge an FDS offering request from your provider]]
-- [[service-bridge-v2-explore-foundation-data-sync|Foundation data sync]]
-- [[using-provider-bound-fds-consumer|Configure outbound foundation data sync as consumers]]
-- [[service-bridge-v2-configure-inboun-fds-providers|Configuring inbound foundation data sync as providers]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]

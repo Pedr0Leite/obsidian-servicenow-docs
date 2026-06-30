@@ -12,7 +12,7 @@ breadcrumb: [Product data, Set up your environment, Configure, Customer Service 
 
 # Customer Life Cycle Management Workflows
 
-Manage the life cycle of your [[sold-product|sold products]] by activating the Customer Life Cycle Management Workflows \(com.snc.customer\_lifecycle\_mgmt\_workflows\) application.
+Manage the life cycle of your sold products by activating the Customer Life Cycle Management Workflows \(com.snc.customer\_lifecycle\_mgmt\_workflows\) application.
 
 ## Overview of workflows
 
@@ -20,7 +20,7 @@ The Customer Life Cycle Management Workflows \(com.snc.customer\_lifecycle\_mgmt
 
 ## Plugins for the Customer Life Cycle Management Workflows
 
-The following table [[migration-lists|lists]] the required plugins for the Life Cycle Management Workflows plugin.
+The following table lists the required plugins for the Life Cycle Management Workflows plugin.
 
 <table id="table_l4p_23q_b1c"><thead><tr><th>
 
@@ -36,7 +36,7 @@ Customer Service Install Base Management\(com.snc.install\_base\)
 
 </td><td>
 
-Enables customers to capture the current state of a customer's install base and establish the relationship to any downstream entities that might impact their functioning.To learn more about install base management, see [[configure-install-base|Configure install base]].
+Enables customers to capture the current state of a customer's install base and establish the relationship to any downstream entities that might impact their functioning.To learn more about install base management, see [Configure install base](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-install-base.md).
 
 </td></tr><tr><td>
 
@@ -57,7 +57,7 @@ Enables customers to compose and build the workflows for various entities. To le
 </td></tr></tbody>
 </table>## Life Cycle workflows and configurations
 
-Perform the **Modify**, **Suspend**, **Resume**, and **Disconnect** [[migration-form-declarative-actions|declarative actions]] on the complete hierarchy of the sold products. These actions will transform and maintain their state and characteristics. You can perform these actions on the sold product entities to update the existing products or services. The declarative actions are available on the sold product related list on the account detail page on Configurable Workspace.
+Perform the **Modify**, **Suspend**, **Resume**, and **Disconnect** declarative actions on the complete hierarchy of the sold products. These actions will transform and maintain their state and characteristics. You can perform these actions on the sold product entities to update the existing products or services. The declarative actions are available on the sold product related list on the account detail page on Configurable Workspace.
 
 **Note:** The declarative actions with the sold product to order flow are available only if the Order Management \(com.sn\_ind\_tmt\_orm\) plugin is installed.
 
@@ -168,30 +168,19 @@ To learn more about the configurations, see [Entity configuration and mapping](h
 **Related topics**  
 
 
-[[modify-a-sold-product|Modify a sold product and hierarchy]]
+[Modify a sold product and hierarchy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/modify-a-sold-product.md)
 
-[[modify_a_sold_product_to_create_a_quote|Modify a sold product to create a quote]]
+[Modify a sold product to create a quote](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/modify_a_sold_product_to_create_a_quote.md)
 
-[[resuming_sold_products|Resume a single sold product]]
+[Resume a single sold product](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/resuming_sold_products.md)
 
 [Resume multiple sold products](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/resuming_sold_products.md)
 
-[[disconnecting_sold_products|Disconnect a single sold product]]
+[Disconnect a single sold product](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/disconnecting_sold_products.md)
 
 [Disconnect multiple sold products](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/disconnecting_sold_products.md)
 
-[[supending_sold_products|Suspend a single sold product]]
+[Suspend a single sold product](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/supending_sold_products.md)
 
 [Suspend multiple sold products](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/supending_sold_products.md)
 
-## Related
-
-- [[configure-install-base|Configure install base]]
-- [[modify-a-sold-product|Modify a sold product and hierarchy]]
-- [[modify_a_sold_product_to_create_a_quote|Modify a sold product to create a quote]]
-- [[resuming_sold_products|Resuming sold products]]
-- [[disconnecting_sold_products|Disconnecting sold products]]
-- [[supending_sold_products|Supending sold products]]
-- [[sold-product|Sold products]]
-- [[migration-lists|Lists]]
-- [[migration-form-declarative-actions|Declarative actions]]

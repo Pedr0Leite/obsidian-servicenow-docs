@@ -14,7 +14,7 @@ breadcrumb: [Setting up primary data Shopping, Configure, Sourcing and Procureme
 
 # Create shopping controls
 
-Set conditions to control the visibility of [[supplier|supplier]] products for an employee or a department who visits the [[shopping-hub-overview|Shopping Hub]] portal. Shopping Hub administrators can manage access to products based on categories, suppliers, or any attribute related to a supplier product.​
+Set conditions to control the visibility of supplier products for an employee or a department who visits the Shopping Hub portal. Shopping Hub administrators can manage access to products based on categories, suppliers, or any attribute related to a supplier product.​
 
 ## Before you begin
 
@@ -125,7 +125,3 @@ Define conditions to identify products that must not be visible to the employees
 
 **Parent Topic:**[Setting up primary data for ShoppingHub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/set-up-master-data-shopping-hub.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[shopping-hub-overview|Shopping Hub]]

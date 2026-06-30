@@ -14,7 +14,7 @@ breadcrumb: [Administer CMDB Data Manager, CMDB data management, Configuration M
 
 # Manage retirement definitions for CMDB Data Manager
 
-Use CMDB Workspaceor [[sg-workspace|Service Graph Workspace]] to create,delete, edit, or activate [[life-cycle-rules|retirement definitions]] in your organization, for a class. Tables that are targeted in CMDB Data Manager life-cycle policies, must be associated with an active retirement definition. Target CIs in Retire policies, are set to match their associated class retirement definitions.
+Use CMDB Workspaceor Service Graph Workspace to create,delete, edit, or activate retirement definitions in your organization, for a class. Tables that are targeted in CMDB Data Manager life-cycle policies, must be associated with an active retirement definition. Target CIs in Retire policies, are set to match their associated class retirement definitions.
 
 ## Before you begin
 
@@ -31,7 +31,7 @@ When a CMDB Data manager retires a CI, ensure that any of its dependent CIs are 
 
 **Note:**
 
--   Always be aware of the automatic derivation of retirement definitions throughout the class hierarchy. For example, an active retirement definition for the [[cmdb-table-property-descriptions|Configuration Item \[cmdb\_ci\] class]] can potentially be in effect throughout the entire CMDB hierarchy \(aside from classes with their own retirement definition\).
+-   Always be aware of the automatic derivation of retirement definitions throughout the class hierarchy. For example, an active retirement definition for the Configuration Item \[cmdb\_ci\] class can potentially be in effect throughout the entire CMDB hierarchy \(aside from classes with their own retirement definition\).
 -   You can't deactivate \(or delete\) the retirement definition of the Configuration Item \[cmdb\_ci\] class.
 -   Each CMDB class can be associated with only a single retirement definition.
 
@@ -123,8 +123,3 @@ Role required: sn\_cmdb\_admin, data\_manager\_admin
 
 After the deletion, a retirement definition for the class is derived from a parent class.
 
-## Related
-
-- [[sg-workspace|Service Graph Workspace]]
-- [[life-cycle-rules|Retirement definitions]]
-- [[cmdb-table-property-descriptions|Configuration Item \[cmdb\_ci\] class]]

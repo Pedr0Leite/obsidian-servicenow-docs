@@ -14,7 +14,7 @@ breadcrumb: [Configure, Walk-up Experience, IT Service Management]
 
 # Walk-up Experience administration
 
-[[walkup-experience-landing-page|Walk-up Experience]] users with the sn\_walkup.walkup\_admin role and administrators can activate and configure the application to meet specific requirements.
+Walk-up Experience users with the sn\_walkup.walkup\_admin role and administrators can activate and configure the application to meet specific requirements.
 
 You can configure appointments, decide when to send notifications to users, establish and configure physical queue locations and operating schedules, integrate with CSAT surveys, and associate stockrooms with queue locations. You can also customize your Walk-up Experience portal with a unique logo and branding.
 
@@ -23,6 +23,3 @@ You can activate the Walk-up Experience plugin \(com.snc.walkup\) if you have th
 
 **Parent Topic:**[Configuring Walk-up Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walkup-experience-configuration.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]

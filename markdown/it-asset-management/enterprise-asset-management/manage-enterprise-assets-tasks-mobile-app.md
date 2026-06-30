@@ -14,7 +14,7 @@ breadcrumb: [Enterprise Asset Management, IT Asset Management]
 
 # Managing enterprise assets and tasks using the Mobile Agent application
 
-[[create-manage-enterprise-assets|Create and manage enterprise assets]], asset tasks, and work order tasks using the intuitive Mobile Agent application.
+Create and manage enterprise assets, asset tasks, and work order tasks using the intuitive Mobile Agent application.
 
 ## Overview of the Mobile Agent application
 
@@ -108,7 +108,3 @@ Manage the asset pick tasks assigned to you.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[create-manage-enterprise-assets|Create and manage enterprise assets]]

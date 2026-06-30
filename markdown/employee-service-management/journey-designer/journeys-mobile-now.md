@@ -14,7 +14,7 @@ breadcrumb: [Work with journeys in Employee Center, Use, Journey designer, Emplo
 
 # Journeys on Now Mobile
 
-Journeys are created in the ServiceNow® [[jny-dsgnr-landing-page-1|Journey designer]] application to help employees navigate multi-step transitions, such as onboarding, maternity leave, or an interdepartmental transfer. The Now Mobile application enables users to perform journey-related tasks from the convenience of their mobile device.
+Journeys are created in the ServiceNow® Journey designer application to help employees navigate multi-step transitions, such as onboarding, maternity leave, or an interdepartmental transfer. The Now Mobile application enables users to perform journey-related tasks from the convenience of their mobile device.
 
 ## Using Journeys on Now Mobile
 
@@ -24,7 +24,7 @@ Journeys are created in the ServiceNow® [[jny-dsgnr-landing-page-1|Journey desi
 -   View and complete their own Journeys.
 -   View important information about outstanding journeys and drill down on details.
 
-**Note:** Managers can create journeys, add mentors, and publish the journeys in the [[employee-center-landing-page|Employee Center]] on desktop only.
+**Note:** Managers can create journeys, add mentors, and publish the journeys in the Employee Center on desktop only.
 
 ## Mentors can
 
@@ -37,13 +37,8 @@ Journeys are created in the ServiceNow® [[jny-dsgnr-landing-page-1|Journey desi
 -   Navigate through all of their tasks and milestones.
 -   Message their mentor or manager
 -   Search for help articles.
--   Complete [[exploring-learning-exp|learning]] courses added by the organization or their manager.
+-   Complete learning courses added by the organization or their manager.
 -   Receive notifications when a journey is created for them.
 
 **Parent Topic:**[Managers, mentors, and employees work with journeys in the Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-working-with-journeys.md)
 
-## Related
-
-- [[jny-dsgnr-landing-page-1|Journey designer]]
-- [[employee-center-landing-page|Employee Center]]
-- [[exploring-learning-exp|Learning]]

@@ -14,7 +14,7 @@ breadcrumb: [Configuring Service Mapping, Service Mapping, ITOM Visibility, IT O
 
 # Install Service Mapping Plus
 
-You can install the [[c_ServiceMappingOverview|Service Mapping]] Plus application \(sn\_sm\_scoped\_app\) if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Service Mapping Plus application \(sn\_sm\_scoped\_app\) if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -52,6 +52,4 @@ To view a list of Service Mapping plugin dependencies, see [Plugins or applicati
 
 5.  Select **Install**.
 
-## Related
 
-- [[c_ServiceMappingOverview|Service Mapping]]

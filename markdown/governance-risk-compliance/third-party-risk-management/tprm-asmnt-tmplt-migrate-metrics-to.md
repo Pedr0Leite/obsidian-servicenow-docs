@@ -22,7 +22,7 @@ Role required: sn\_vdr\_risk\_asmt.vendor\_risk\_admin
 
 Before beginning the migration process, take note of the following and plan accordingly.
 
--   You must set the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] enabled \[sn\_vdr\_risk\_asmt.sae\_enabled\] property. After setting this property, SAE becomes the default assessment engine and replaces the legacy experience.
+-   You must set the Smart Assessment Engine enabled \[sn\_vdr\_risk\_asmt.sae\_enabled\] property. After setting this property, SAE becomes the default assessment engine and replaces the legacy experience.
 
     **Warning:** After this option is enabled, this selection can’t be reversed.
 
@@ -99,9 +99,5 @@ The SAE Questionnaire Templates and SAE Document Templates related list of the o
 
 ## What to do next
 
-If you have [[airc-assessment-templates|Assessment templates]], add the published SAE questionnaire template to all related assessment templates. If you have Issue generation rules, add the published SAE questionnaire template and its related questions to each related generation rule. For more information, see [Create an external assessment template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/create-vendor-risk-assess-temp.md) and [Create an issue generation rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-generate-issue-rule.md).
+If you have Assessment templates, add the published SAE questionnaire template to all related assessment templates. If you have Issue generation rules, add the published SAE questionnaire template and its related questions to each related generation rule. For more information, see [Create an external assessment template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/create-vendor-risk-assess-temp.md) and [Create an issue generation rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-generate-issue-rule.md).
 
-## Related
-
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]
-- [[airc-assessment-templates|Assessment templates]]

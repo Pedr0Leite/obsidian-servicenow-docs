@@ -14,7 +14,7 @@ breadcrumb: [Customizing Service Operations Workspace for ITSM to align with you
 
 # Create a copy of the Service Operations Workspace landing page
 
-Make visual styling changes to the sub pages in the Service Operations Workspace [[dex-workspace-dashboard-tab|landing page]].
+Make visual styling changes to the sub pages in the Service Operations Workspace landing page.
 
 ## Before you begin
 
@@ -46,6 +46,3 @@ Role required: admin or ui\_builder\_admin
 
 [Customize the incident record page]()
 
-## Related
-
-- [[dex-workspace-dashboard-tab|Landing page]]

@@ -32,7 +32,7 @@ As a user with the sn\_si.admin role, if you copy a profile, the profile name is
 
     \[Omitted image "ibm-qradar-profile-copy.png"\] Alt text: IBM QRadar: copy profile
 
-    The profile is copied and displayed on the list. The copy has all the settings of the original profile including the [[mapping-logrhythm|mapping]] and scheduling configuration. The name of the profile contains copy. Although the original profile is enabled \(`true`\), the copy is disabled at this point \(`false`\). You may prefer to edit values of the copied profile and rename it so the [[qradar-ibm-intg-settings|configuration settings]] apply to the new profile as required.
+    The profile is copied and displayed on the list. The copy has all the settings of the original profile including the mapping and scheduling configuration. The name of the profile contains copy. Although the original profile is enabled \(`true`\), the copy is disabled at this point \(`false`\). You may prefer to edit values of the copied profile and rename it so the configuration settings apply to the new profile as required.
 
     **Note:** If you select a different source for the profile, you must select new rules \([Select IBM QRadar rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/qradar-ibm-create-profile-eventsearch.md)\) for the profile. But if you use the same source and select new rules, the sample offenses will be cleared.
 
@@ -43,7 +43,3 @@ As a user with the sn\_si.admin role, if you copy a profile, the profile name is
 
 You are prompted to activate \(enable\) the new profile after you complete the configuration steps.
 
-## Related
-
-- [[mapping-logrhythm|Mapping]]
-- [[qradar-ibm-intg-settings|Configuration settings]]

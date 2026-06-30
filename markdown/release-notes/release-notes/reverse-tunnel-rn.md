@@ -59,8 +59,5 @@ For details, see [Connect a private relay to the Reverse Tunnel gateway](https:/
     Zero Copy Reverse Tunnel \(`sn_zc_tunnel`\): Provides the interface to manage private relays, service endpoints, and relay properties for private connectivity through the Reverse Tunnel gateway.
 
 
-**Parent Topic:**[[build-automate-rn-landing|App development and low-code release notes]]
+**Parent Topic:**[App development and low-code release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/build-automate-rn-landing.md)
 
-## Related
-
-- [[build-automate-rn-landing|App development and low-code release notes]]

@@ -12,7 +12,7 @@ breadcrumb: [Product inventory configurations, Customer Life Cycle Management Wo
 
 # Suspend product inventory records
 
-Perform the **Suspend** operation on single or multiple product inventory records that result in the creation of orders or quotes on the [[csm-workspaces-configure|CSM Configurable Workspace]]. By suspending a product inventory, you can pause your services for a period of time.
+Perform the **Suspend** operation on single or multiple product inventory records that result in the creation of orders or quotes on the CSM Configurable Workspace. By suspending a product inventory, you can pause your services for a period of time.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ After performing the **Suspend** action, a suspend order is created and the fulf
 
 4.  Navigate to the **Product Inventories** related list and select one or more root product inventory records.
 
-    **Note:** You can do a **Suspend** action on a single or multiple root [[sold-product|sold products]] only if it is in the **Active** state and is disabled for any other state.
+    **Note:** You can do a **Suspend** action on a single or multiple root sold products only if it is in the **Active** state and is disabled for any other state.
 
 5.  Select **Suspend**.
 
@@ -53,7 +53,3 @@ After performing the **Suspend** action, a suspend order is created and the fulf
 
 An order to suspend the product inventory record is created.
 
-## Related
-
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[sold-product|Sold products]]

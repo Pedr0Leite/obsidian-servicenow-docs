@@ -18,12 +18,12 @@ The weakness or defect is in the requirements, designs, or implementations of th
 
 CVE is a list of information security vulnerabilities and exposures that provides common names for publicly known problems \[CVE\].
 
-For example, if a piece of [[threat-intelligence-malware|malware]] exploits CVE-2015-12345, a Malware object could be linked to a Vulnerability object that references CVE-2015-12345.
+For example, if a piece of malware exploits CVE-2015-12345, a Malware object could be linked to a Vulnerability object that references CVE-2015-12345.
 
--   **[[define-vulnerabilities|Define vulnerabilities]]**  
-[[define-vulnerability|Define vulnerability]] as a weakness or defect in a software or hardware component that attackers exploit.
+-   **[Define vulnerabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/define-vulnerabilities.md)**  
+Define vulnerability as a weakness or defect in a software or hardware component that attackers exploit.
 
-**Parent Topic:**[[ioc-repository|IoC Repository]]
+**Parent Topic:**[IoC Repository](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/ioc-repository.md)
 
 **Related topics**  
 
@@ -74,9 +74,3 @@ For example, if a piece of [[threat-intelligence-malware|malware]] exploits CVE-
 
 [STIX Visualizer]()
 
-## Related
-
-- [[define-vulnerabilities|Define vulnerabilities]]
-- [[ioc-repository|IoC Repository]]
-- [[threat-intelligence-malware|Malware]]
-- [[define-vulnerability|Define Vulnerability]]

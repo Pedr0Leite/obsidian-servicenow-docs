@@ -14,7 +14,7 @@ breadcrumb: [Expanded Model and Asset Classes, Enterprise Asset Management, IT A
 
 # Install Expanded Model and Asset Classes
 
-You can install the [[enterprise-model-asset-classes-app|Expanded Model and Asset Classes]] application \(sn\_ent\) if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Expanded Model and Asset Classes application \(sn\_ent\) if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -45,6 +45,4 @@ Role required: admin
 
 6.  Select **Install**.
 
-## Related
 
-- [[enterprise-model-asset-classes-app|Expanded Model and Asset Classes]]

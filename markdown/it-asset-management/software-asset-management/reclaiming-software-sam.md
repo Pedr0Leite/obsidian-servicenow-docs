@@ -30,7 +30,7 @@ Starting from the Australia release, the reclamation workflow can also be comple
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Software asset** &gt; **[[sam-workspace|Software Asset Workspace]]**.
+1.  Navigate to **All** &gt; **Software asset** &gt; **Software Asset Workspace**.
 
 2.  Select **License usage**.
 
@@ -81,6 +81,3 @@ Starting from the Australia release, the reclamation workflow can also be comple
 
 **Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/using-sam-workspace.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]

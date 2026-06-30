@@ -14,7 +14,7 @@ breadcrumb: [Service Portal and client scripts, Supported features in Service Po
 
 # Supported client script types and APIs
 
-Some client scripts are not supported in [[c_ServicePortal|Service Portal]]. Others must have a UI type set to **All** or **Mobile / Service Portal**. If using a client script in the Service Portal, only client-side APIs supported in a mobile environment can be used.
+Some client scripts are not supported in Service Portal. Others must have a UI type set to **All** or **Mobile / Service Portal**. If using a client script in the Service Portal, only client-side APIs supported in a mobile environment can be used.
 
 ## Client script support in Service Portal
 
@@ -60,9 +60,9 @@ UI Actions
 
 </td><td>
 
-All server-side UI actions are supported in Service Portal, although setRedirectURL\(\) operations are ignored because Service Portal [[form-configurable-workspace|forms]] handle redirection in a different way than the platform.
+All server-side UI actions are supported in Service Portal, although setRedirectURL\(\) operations are ignored because Service Portal forms handle redirection in a different way than the platform.
 
- The [[form-widget|form widget]] ignores any UI Actions marked as **Client**.
+ The form widget ignores any UI Actions marked as **Client**.
 
 </td></tr><tr><td>
 
@@ -70,7 +70,7 @@ UI Policies
 
 </td><td>
 
-Supported, although you should use only declarative UI Policies. Avoid scripting unless the outcome cannot be achieved through the [[c_ConditionBuilder|condition builder]].
+Supported, although you should use only declarative UI Policies. Avoid scripting unless the outcome cannot be achieved through the condition builder.
 
 </td></tr><tr><td>
 
@@ -240,9 +240,3 @@ getMessage\(String messageKey, Function callback\)
 </td></tr></tbody>
 </table>**Parent Topic:**[Service Portal and client scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/unsupported_client_scripts.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[form-configurable-workspace|Forms]]
-- [[form-widget|Form widget]]
-- [[c_ConditionBuilder|Condition builder]]

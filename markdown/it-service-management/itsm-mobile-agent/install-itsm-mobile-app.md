@@ -14,7 +14,7 @@ breadcrumb: [ITSM Mobile Agent, IT Service Management]
 
 # Log in to ITSM Mobile Agent
 
-Access [[itsm-mobile-agent|ITSM Mobile Agent]] on your mobile to manage incidents, view, and update on-call schedules.
+Access ITSM Mobile Agent on your mobile to manage incidents, view, and update on-call schedules.
 
 ## Before you begin
 
@@ -61,9 +61,6 @@ Tap the QR icon \(Scan a QR code\), and then scan the QR code given by your admi
 
 4.  Tap **Save and Login**.
 
-    The ITSM Mobile Agent landing screen opens. You can search for incidents, [[change-tasks|change tasks]] and more using the search bar on top of the landing screen.
+    The ITSM Mobile Agent landing screen opens. You can search for incidents, change tasks and more using the search bar on top of the landing screen.
 
-## Related
 
-- [[itsm-mobile-agent|ITSM Mobile Agent]]
-- [[change-tasks|Change tasks]]

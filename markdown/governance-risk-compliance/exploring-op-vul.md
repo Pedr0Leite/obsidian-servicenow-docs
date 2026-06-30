@@ -12,9 +12,9 @@ breadcrumb: [Managing Operational vulnerability, Manage, Operational Resilience,
 
 # Operational vulnerability
 
-The Operational vulnerability capability in [[grc-opres-landing-page|Operational Resilience]] empowers users to flag operational vulnerabilities or critical functionality gaps, engage with key stakeholders, analyze underlying causes, and identify remedies.
+The Operational vulnerability capability in Operational Resilience empowers users to flag operational vulnerabilities or critical functionality gaps, engage with key stakeholders, analyze underlying causes, and identify remedies.
 
-Using Operational vulnerability, teams can address issues stemming from violations, software gaps, or breaches. Users can submit reports on operational vulnerabilities through the [[employee-center|Employee Center]] or directly create a report in the Operational Resilience Workspace.
+Using Operational vulnerability, teams can address issues stemming from violations, software gaps, or breaches. Users can submit reports on operational vulnerabilities through the Employee Center or directly create a report in the Operational Resilience Workspace.
 
 Some typical operational vulnerabilities include the following situations:
 
@@ -38,7 +38,7 @@ The Operational vulnerability capability offers the following advantages to your
 In an organization, operational vulnerabilities can be categorized into main groups:
 
 1.  Technical vulnerabilities: These are substantial gaps, flaws, or weaknesses within an organization's IT infrastructure. This category includes deficiencies in security protocols, system designs, internal controls, or daily operational practices.
-2.  Operational vulnerabilities: These pertain to non-IT, process-related, or external [[factors|factors]] that could impact an organization's operations. Typically, these involve issues with third parties, facilities, or external situations that evade detection by scanning tools.
+2.  Operational vulnerabilities: These pertain to non-IT, process-related, or external factors that could impact an organization's operations. Typically, these involve issues with third parties, facilities, or external situations that evade detection by scanning tools.
 
 ## Workflows for Operational vulnerability
 
@@ -88,8 +88,3 @@ Consider a vital financial institution situated in a distant location. If a near
 </td></tr></tbody>
 </table>To tackle these operational vulnerabilities, an organization could investigate various approaches such as diversifying third parties across multiple regions or moving financial facilities. To implement these solutions, an organization would usually perform a cost-benefit analysis, weighing factors like the cost of mitigating the operational vulnerability and whether the solution is a one-time fix, temporary measure, or permanent solution.
 
-## Related
-
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[employee-center|employee center]]
-- [[factors|factors]]

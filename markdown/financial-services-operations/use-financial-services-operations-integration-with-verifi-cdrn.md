@@ -12,7 +12,7 @@ breadcrumb: [Verifi, Integrate, Financial Services Operations \(FSO\)]
 
 # Using Financial Services Operations Integration with Verifi application
 
-As a dispute agent learn how to [[create-case-with-intake-workspace|initiate a dispute]] transaction making use of the Financial Services Operations Integration with Verifi application.
+As a dispute agent learn how to initiate a dispute transaction making use of the Financial Services Operations Integration with Verifi application.
 
 ## Before you begin
 
@@ -20,11 +20,11 @@ Role required: dispute\_agent\_connector
 
 ## About this task
 
-The Financial Services Operations Integration with Verifi application is built on four sequentially orchestrated subflows. Each maps to a specific Verifi REST endpoint and triggers at a defined point in the dispute workflow. See [[api-subflows-and-endpoints|API Subflows and Endpoints]] for more information.
+The Financial Services Operations Integration with Verifi application is built on four sequentially orchestrated subflows. Each maps to a specific Verifi REST endpoint and triggers at a defined point in the dispute workflow. See [API Subflows and Endpoints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/api-subflows-and-endpoints.md) for more information.
 
 ## Procedure
 
-1.  To check the merchant eligibility, the agent opens the **[[alert-merchant-regarding-dispute|Review Participating Merchant Alerts]]** task on the dispute record.
+1.  To check the merchant eligibility, the agent opens the **Review Participating Merchant Alerts** task on the dispute record.
 
     -   The system initiates Subflow 1.
     -   If the merchant is not eligible no CDRN case is created. The **Create alert case** UI action is not displayed. The agent proceeds with the standard dispute lifecycle toward the chargeback process.
@@ -61,11 +61,5 @@ The Financial Services Operations Integration with Verifi application is built o
     -   **Accepted**: The cardholder agrees with the merchant response. The case closes and the dispute is resolved.
     -   **Rejected**: The cardholder disagrees with the merchant response. The case proceeds to the chargeback process.
 
-**Parent Topic:**[[financial-services-operations-verifi-cdrn-integration-app-landing-page|Financial Services Operations Integration with Verifi]]
+**Parent Topic:**[Financial Services Operations Integration with Verifi](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-operations-verifi-cdrn-integration-app-landing-page.md)
 
-## Related
-
-- [[api-subflows-and-endpoints|API Subflows and Endpoints]]
-- [[financial-services-operations-verifi-cdrn-integration-app-landing-page|Financial Services Operations Integration with Verifi]]
-- [[create-case-with-intake-workspace|Initiate a dispute]]
-- [[alert-merchant-regarding-dispute|Review participating merchant alerts]]

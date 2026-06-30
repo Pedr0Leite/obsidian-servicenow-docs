@@ -22,7 +22,7 @@ Pick up parts that you requested from peer agents that are ready for pickup and 
 
 ### Before you begin
 
-The Field Service Advanced Parts Sourcing plugin \(com.snc.fsm\_advanced\_parts\_sourcing\) must be activated. For more information, see [[field-service-additional-plugins|Additional plugins for Field Service Management]].
+The Field Service Advanced Parts Sourcing plugin \(com.snc.fsm\_advanced\_parts\_sourcing\) must be activated. For more information, see [Additional plugins for Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-additional-plugins.md).
 
 Role required: wm\_agent
 
@@ -72,6 +72,3 @@ Role required: wm\_agent or wm\_dispatcher
 
 The sourcing stage moves to **Delivered** and the part is added to your inventory and is marked as available.
 
-## Related
-
-- [[field-service-additional-plugins|Additional plugins for Field Service Management]]

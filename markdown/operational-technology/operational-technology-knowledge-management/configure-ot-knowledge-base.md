@@ -14,7 +14,7 @@ breadcrumb: [Configure, Operational Technology Knowledge Management, Operational
 
 # Create an OT knowledge base
 
-Create an [[operational-technology-overview|Operational Technology]] \(OT\) knowledge base to provide a self-service platform for OT knowledge users to store, share, and manage content that is related to OT incidents.
+Create an Operational Technology \(OT\) knowledge base to provide a self-service platform for OT knowledge users to store, share, and manage content that is related to OT incidents.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: admin
 
 2.  Select **New**.
 
-3.  On the [[knowledge-base-form-fields|knowledge base form]], fill in the fields.
+3.  On the knowledge base form, fill in the fields.
 
     For a description of the field values, see [Knowledge base form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-knowledge-management/knowledge-base-form-fields.md).
 
@@ -94,7 +94,3 @@ List of knowledge categories that are associated with the OT knowledge base. **N
 
 **Parent Topic:**[Configuring Operational Technology Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-knowledge-management/configuring-operational-technology-knowledge-management.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[knowledge-base-form-fields|Knowledge base form]]

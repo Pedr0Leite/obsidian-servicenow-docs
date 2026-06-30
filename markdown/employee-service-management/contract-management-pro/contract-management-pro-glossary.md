@@ -14,7 +14,7 @@ breadcrumb: [Reference, Contract Management Pro, Legal and Contract Operations, 
 
 # Contract Management Pro glossary
 
-Learn about the terms and concepts used in [[cncore-cmpro-landing-page|Contract Management Pro]].
+Learn about the terms and concepts used in Contract Management Pro.
 
 Glossary terms are grouped alphabetically.
 
@@ -191,7 +191,7 @@ The process of tracking and managing obligations within ServiceNow to ensure com
 
 ### obligation task
 
-In Contract Management Pro, an obligation task is a trackable [[activity-lxp|activity]] created from an obligation record to fulfill a specific contract obligation, on either an ad hoc or recurring schedule.
+In Contract Management Pro, an obligation task is a trackable activity created from an obligation record to fulfill a specific contract obligation, on either an ad hoc or recurring schedule.
 
 ### Optical Character Recognition \(OCR\)
 
@@ -251,7 +251,3 @@ A traditional handwritten signature on a physical contract document, sometimes r
 
 In Contract Management Pro, a word document template is a Microsoft Word-based contract template that uses content controls as placeholders to generate contract documents dynamically based on a submitted request.
 
-## Related
-
-- [[cncore-cmpro-landing-page|Contract Management Pro]]
-- [[activity-lxp|Activity]]

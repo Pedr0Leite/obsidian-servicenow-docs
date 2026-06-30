@@ -20,7 +20,7 @@ Role required: sn\_templated\_snip.template\_snippet\_writer
 
 ## About this task
 
-Each response template is associated with a table that is an extension of the Task \[task\] table or, if using Agent Workspace, the Interaction \[interaction\] table. The template can be configured to include variables pulled from that table. You can also use a condition builder to specify the conditions that a case must meet for the template to be available for use, such as for a specific HR service or for chat. For chat [[response-templates-templated-snippets|response templates]], you specify a short name \(shortcut\) that is used with the slash command as a quick way to present the response message to a user.
+Each response template is associated with a table that is an extension of the Task \[task\] table or, if using Agent Workspace, the Interaction \[interaction\] table. The template can be configured to include variables pulled from that table. You can also use a condition builder to specify the conditions that a case must meet for the template to be available for use, such as for a specific HR service or for chat. For chat response templates, you specify a short name \(shortcut\) that is used with the slash command as a quick way to present the response message to a user.
 
 ## Procedure
 
@@ -102,9 +102,9 @@ Template body
 
 </td><td>
 
-Text of the response template providing instructions to the agent on how to respond to a specific case or task.You can [[reference|reference]] field values by selecting variables from the variables list based on the table you select.
+Text of the response template providing instructions to the agent on how to respond to a specific case or task.You can reference field values by selecting variables from the variables list based on the table you select.
 
- You can manually enter custom variable [[reference-document-management|references]]:
+ You can manually enter custom variable references:
 
 -   Current user: `${current_user}`
 -   Current date: `${Date}`
@@ -142,8 +142,3 @@ The following GIF shows an example of an HR case writer in the HR Service Delive
 
 \[Omitted image "response-template-example-2.gif"\] Alt text: How you can copy response template content to a field on a case form.
 
-## Related
-
-- [[response-templates-templated-snippets|Response templates]]
-- [[reference|Reference]]
-- [[reference-document-management|References]]

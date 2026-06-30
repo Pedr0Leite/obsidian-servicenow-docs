@@ -14,7 +14,7 @@ breadcrumb: [Configure, Compliance Case Management, Governance, Risk, and Compli
 
 # Install Compliance Case Management
 
-You can install the GRC: [[compliance-case-management|Compliance Case Management]] application \(sn\_comp\_case\) if you have the admin role.The application includes the demo data and related ServiceNow® Store applications and plugins if they aren’t already installed.
+You can install the GRC: Compliance Case Management application \(sn\_comp\_case\) if you have the admin role.The application includes the demo data and related ServiceNow® Store applications and plugins if they aren’t already installed.
 
 ## Before you begin
 
@@ -59,6 +59,3 @@ For more information, see [Tables installed with Compliance Case Management](htt
 
 **Parent Topic:**[Configuring Compliance Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/configure-compliance-case-management.md)
 
-## Related
-
-- [[compliance-case-management|compliance case management]]

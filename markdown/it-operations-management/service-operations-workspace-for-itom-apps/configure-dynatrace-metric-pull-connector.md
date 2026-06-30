@@ -26,9 +26,9 @@ Configure the Dynatrace API Key credential from **All** &gt; **Connections and C
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  From the bottom of the navigation pane, select the AIOps configuration center icon \[Omitted image "icon-itom-aiops-config.png"\] Alt text: [[itom-aiops-conf-center|ITOM AIOps configuration center]] icon.
+2.  From the bottom of the navigation pane, select the AIOps configuration center icon \[Omitted image "icon-itom-aiops-config.png"\] Alt text: ITOM AIOps configuration center icon.
 
     The ITOM AIOps configuration center page appears. The configuration center is a centralized workspace. Use it to configure and manage AIOps features from a single place.
 
@@ -63,7 +63,7 @@ Configure the Dynatrace API Key credential from **All** &gt; **Connections and C
 
     -   In the **MID Server** field, select a MID Server that collects metric data from external tools and securely sends it to ServiceNow.
 
-        If none are available, ensure one is installed, running, and has the required capabilities. If none are available, ensure one is installed, running, and has the required capabilities. For example, the **[[operational-metrics|Metric Intelligence]] Context** must be running on the same MID Server that you are configuring.
+        If none are available, ensure one is installed, running, and has the required capabilities. If none are available, ensure one is installed, running, and has the required capabilities. For example, the **Metric Intelligence Context** must be running on the same MID Server that you are configuring.
 
         **Note:** You can select multiple MID Server. The system randomly assigns one as the primary and uses the others as backups.
 
@@ -85,8 +85,4 @@ Configure the Dynatrace API Key credential from **All** &gt; **Connections and C
 
     The **Data Retrieval Method** tab contains the connector settings \(such as host, port, and credentials\) and may provide additional details for issues like MID Server errors.
 
-## Related
 
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[itom-aiops-conf-center|ITOM AIOps configuration center]]
-- [[operational-metrics|Metric Intelligence]]

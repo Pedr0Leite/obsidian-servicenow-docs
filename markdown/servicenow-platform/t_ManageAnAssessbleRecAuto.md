@@ -12,7 +12,7 @@ breadcrumb: [Assessable record associations, Assessment metric categories, View 
 
 # Manage an assessable record automatically
 
-Define at least one filter condition in the [[metric-category-form|Metric Category form]] to automatically associate [[c_assessable-records|assessable records]] with the category.
+Define at least one filter condition in the Metric Category form to automatically associate assessable records with the category.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: assessment\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[r_Assessments|Assessments]]** &gt; **Metric Definition** &gt; **Categories**.
+1.  Navigate to **All** &gt; **Assessments** &gt; **Metric Definition** &gt; **Categories**.
 
 2.  Open a category.
 
@@ -40,20 +40,12 @@ Role required: assessment\_admin or admin
     **Note:** To configure the system to automatically associate all assessable records from a metric type to a category, use the same category condition as the metric type condition. For example, if the **Vendor** metric type has the condition **\[Vendor\] \[is\] \[true\]**, create the same condition for the category. If the metric type does not have a condition specified, you can use the category condition **\[Sys ID\] \[is not empty\]**, which includes all records from any table.
 
 
-**Parent Topic:**[[r_ManageAssessablRecordAssociation|Assessable record associations]]
+**Parent Topic:**[Assessable record associations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_ManageAssessablRecordAssociation.md)
 
 **Related topics**  
 
 
-[[c_AssessmentMetrics|Assessment metrics]]
+[Assessment metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentMetrics.md)
 
-[[t_CreateACategoryAR|Create a category for assessable records]]
+[Create a category for assessable records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateACategoryAR.md)
 
-## Related
-
-- [[r_ManageAssessablRecordAssociation|Assessable record associations]]
-- [[c_AssessmentMetrics|Assessment metrics]]
-- [[t_CreateACategoryAR|Create a category for assessable records]]
-- [[metric-category-form|Metric Category form]]
-- [[c_assessable-records|Assessable records]]
-- [[r_Assessments|Assessments]]

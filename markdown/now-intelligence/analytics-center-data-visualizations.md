@@ -12,7 +12,7 @@ breadcrumb: [Platform Analytics experience, Platform Analytics]
 
 # Data visualizations in Platform Analytics
 
-Data visualizations use graphics to show table, indicator, and other data. They combine and extend the functions of reports and [[c_Widgets|Performance Analytics widgets]] from the Core UI, which they replace in [[c_performanceAnalyticsAndReporting|Platform Analytics]].
+Data visualizations use graphics to show table, indicator, and other data. They combine and extend the functions of reports and Performance Analytics widgets from the Core UI, which they replace in Platform Analytics.
 
 **Important:** You can’t place reports or Performance Analytics widgets on a Platform Analytics dashboard. You must create data visualizations instead.
 
@@ -30,7 +30,7 @@ You can also directly access Data Visualizations from the filter navigation in P
 
 </td><td>
 
-[Create data visualizations\[Omitted image "bus-app-creator.svg"\] Alt text:Procedures for [[creating-data-visualizations|creating data visualizations]] using different data sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/creating-data-visualizations.md)
+[Create data visualizations\[Omitted image "bus-app-creator.svg"\] Alt text:Procedures for creating data visualizations using different data sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/creating-data-visualizations.md)
 
 </td><td>
 
@@ -55,8 +55,3 @@ You can also directly access Data Visualizations from the filter navigation in P
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now)
 
-## Related
-
-- [[c_Widgets|Performance Analytics widgets]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[creating-data-visualizations|Creating data visualizations]]

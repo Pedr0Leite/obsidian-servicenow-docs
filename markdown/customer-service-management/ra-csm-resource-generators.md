@@ -14,11 +14,11 @@ breadcrumb: [Recommended Actions, Recommended Actions configuration, Implement I
 
 Resource generators in Recommended Actions provide resources that you can use as inputs to actions such as guidances and field recommendations.
 
-Resource generators provide resources such as a knowledge article, a set of cases, or a field value that you can use in recommendations. Agents can use these recommendations in the [[configure-nba|Recommended Actions]] panel in a workspace such as [[csm-workspaces-configure|CSM Configurable Workspace]].
+Resource generators provide resources such as a knowledge article, a set of cases, or a field value that you can use in recommendations. Agents can use these recommendations in the Recommended Actions panel in a workspace such as CSM Configurable Workspace.
 
 Another way to think of a resource generator is as a function with inputs and outputs. For example, you can create a resource generator that predicts a knowledge article and then use that knowledge article as a recommended action for a case.
 
-You can select a resource generator from the list or create a resource generator. For a complete list of resource generators that are included with the Recommended Actions application, see [[ra-csm-installed-components|Components installed with Recommended Actions]].
+You can select a resource generator from the list or create a resource generator. For a complete list of resource generators that are included with the Recommended Actions application, see [Components installed with Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-installed-components.md).
 
 ## Resource generator types
 
@@ -34,7 +34,7 @@ The Recommended Actions - Advanced application provides the following additional
 -   Classification
 -   Similarity
 -   Similarity with Trend
--   Task [[intelligence-csm|Intelligence]] Classification
+-   Task Intelligence Classification
 -   Task Intelligence Similarity
 -   Task Intelligence Similarity with Trend
 
@@ -124,7 +124,7 @@ Task Intelligence Classification
 
 </td><td>
 
-Uses machine learning models created in [[csm-task-intel-admin-center|Task Intelligence Admin Console]] to recommend field values. The models provide flexible options to either auto-fill values on the record form or to provide recommendations depending on the sensitivity of those fields. **Note:** The field values are not recommended for fields when the TI model is in the background mode.
+Uses machine learning models created in Task Intelligence Admin Console to recommend field values. The models provide flexible options to either auto-fill values on the record form or to provide recommendations depending on the sensitivity of those fields. **Note:** The field values are not recommended for fields when the TI model is in the background mode.
 
 This resource generator type requires the following inputs:
 
@@ -201,13 +201,5 @@ The **sn\_nb\_action\_adv.similarity\_prediction.timeout** system property contr
 **Related topics**  
 
 
-[[ra-csm-resource-generators-create|Create a resource generator in Recommended Actions]]
+[Create a resource generator in Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-resource-generators-create.md)
 
-## Related
-
-- [[ra-csm-installed-components|Components installed with Recommended Actions]]
-- [[ra-csm-resource-generators-create|Create a resource generator in Recommended Actions]]
-- [[configure-nba|Recommended Actions]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[intelligence-csm|Intelligence]]
-- [[csm-task-intel-admin-center|Task Intelligence Admin Console]]

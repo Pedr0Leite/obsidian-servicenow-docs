@@ -14,7 +14,7 @@ breadcrumb: [Using Knowledge Graph Designer, Knowledge Graph, Enable AI experien
 
 # Create a Knowledge Graph schema
 
-Create customized [[knowledge-graph-landing|Knowledge Graph]] schema that will be used by Virtual Agent, AI Agents and [[now-assist-center-now-assist-panel|Now Assist Panel]].
+Create customized Knowledge Graph schema that will be used by Virtual Agent, AI Agents and Now Assist Panel.
 
 ## Before you begin
 
@@ -51,7 +51,7 @@ Role required: kg\_admin
 
     The Knowledge Graph schema​ is created and displayed on the Knowledge Graph canvas.
 
-6.  In the [[now-assist-global-navigation|navigation]] pane, add the following details:
+6.  In the navigation pane, add the following details:
 
     \[Omitted image "kg-canvas.png"\] Alt text: Knowledge Graph canvas.
 
@@ -80,8 +80,4 @@ Role required: kg\_admin
 
     \[Omitted image "related-nodes.png"\] Alt text: Related nodes.
 
-## Related
 
-- [[knowledge-graph-landing|Knowledge Graph]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[now-assist-global-navigation|Navigation]]

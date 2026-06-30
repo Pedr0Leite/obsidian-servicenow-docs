@@ -26,8 +26,5 @@ The IP address for the target instance is outside of the IP range.
 
 If the target instance uses IP range based authentication, it must enable the IP range `10.0.0.0/10.255.255.255` to communicate on a local network. See [IP range based authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_IPRangeBasedAuthentication.md).
 
-**Parent Topic:**[[register-target-instance-troubleshooting|Troubleshooting for registering target instance]]
+**Parent Topic:**[Troubleshooting for registering target instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/register-target-instance-troubleshooting.md)
 
-## Related
-
-- [[register-target-instance-troubleshooting|Troubleshooting for registering target instance]]

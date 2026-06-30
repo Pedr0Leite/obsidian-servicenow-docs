@@ -15,7 +15,7 @@ breadcrumb: [Set up integrations from Integrations Launchpad, Set up HLA on your
 
 # Deactivate a log data integration in Health Log Analytics
 
-Deactivate an integration for streaming log data to [[hla-landing-page|Health Log Analytics]] on the Integrations Launchpad. A deactivated integration stops streaming logs to your ServiceNow instance, but is still available.
+Deactivate an integration for streaming log data to Health Log Analytics on the Integrations Launchpad. A deactivated integration stops streaming logs to your ServiceNow instance, but is still available.
 
 ## Before you begin
 
@@ -23,9 +23,9 @@ Role required: evt\_mgmt\_admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  From the bottom of the navigation pane, select the AIOps configuration center icon \[Omitted image "icon-itom-aiops-config.png"\] Alt text: [[itom-aiops-conf-center|ITOM AIOps configuration center]] icon.
+2.  From the bottom of the navigation pane, select the AIOps configuration center icon \[Omitted image "icon-itom-aiops-config.png"\] Alt text: ITOM AIOps configuration center icon.
 
     The ITOM AIOps configuration center page appears. The configuration center is a centralized workspace. Use it to configure and manage AIOps features from a single place.
 
@@ -44,8 +44,3 @@ The integration is deactivated and stops streaming log data to the instance. The
 
 **Parent Topic:**[Set up Health Log Analytics on your ServiceNow instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-implement.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[itom-aiops-conf-center|ITOM AIOps configuration center]]

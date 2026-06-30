@@ -14,14 +14,14 @@ breadcrumb: [Service Catalog request fulfillment, Configuring Service Catalog, S
 
 # Create a catalog request from another flow
 
-You can create a catalog request to join the [[service-catalog|Service Catalog]] flow from a different flow. For example, from an incident flow, you can create a request, and associate the request with the incident. It helps you in tracking the requests associated with an incident and vice versa.
+You can create a catalog request to join the Service Catalog flow from a different flow. For example, from an incident flow, you can create a request, and associate the request with the incident. It helps you in tracking the requests associated with an incident and vice versa.
 
 ## Before you begin
 
 Role required: itil
 
 -   To associate a request with any parent table record, the corresponding mapping configuration should be available in the **Catalog Administration** &gt; **Request Parent Mapping** submodule.
--   To associate a [[c_RecordProducer|record producer]] request with the parent table record, retrieve the **sysparm\_parent\_sys\_id** and **sysparm\_parent\_table** parameters from the URL using the RP.getParameterValue\(\) method in the **Script** field of the record producer.
+-   To associate a record producer request with the parent table record, retrieve the **sysparm\_parent\_sys\_id** and **sysparm\_parent\_table** parameters from the URL using the RP.getParameterValue\(\) method in the **Script** field of the record producer.
 
 **Note:** If you set the **Use the sc\_layout driven cart macros \(default true\)** \(**glide.sc.use\_cart\_layouts**\) property to **false** and create a request from a parent table record, the request is not associated with the parent table record.
 
@@ -46,17 +46,11 @@ Role required: itil
     **Note:**
 
     -   The associated incident is specified in the annotation message throughout the request process.
-    -   Both for the one-step and two-step checkout, the caller of the incident is automatically set as the **[[requested-for|Requested For]]** user for the request. If the two-step checkout is enabled, the fulfiller can change the **Requested For**.
+    -   Both for the one-step and two-step checkout, the caller of the incident is automatically set as the **Requested For** user for the request. If the two-step checkout is enabled, the fulfiller can change the **Requested For**.
 
-        **Note:** For [[delegated-request-exp|delegated request experience]], the caller of the incident is populated in the Requested For variable. For information on delegated request experience, see [Delegated request experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/delegated-request-exp.md).
+        **Note:** For delegated request experience, the caller of the incident is populated in the Requested For variable. For information on delegated request experience, see [Delegated request experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/delegated-request-exp.md).
 
     -   You cannot add items to the wish list, or save a record producer in this flow.
 
 **Parent Topic:**[Service Catalog request fulfillment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/request-fulfillment.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[c_RecordProducer|Record Producer]]
-- [[requested-for|Requested for]]
-- [[delegated-request-exp|Delegated request experience]]

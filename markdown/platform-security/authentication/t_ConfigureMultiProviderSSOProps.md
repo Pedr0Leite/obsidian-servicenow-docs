@@ -14,7 +14,7 @@ breadcrumb: [Multi-Provider SSO configurations, Multi-Provider single sign-on \(
 
 # Configure Multi-Provider SSO properties
 
-Configure SSO properties and also add a property to the [[ca-system-properties|System Properties]] table to configure an IdP inclusion list.
+Configure SSO properties and also add a property to the System Properties table to configure an IdP inclusion list.
 
 ## Before you begin
 
@@ -28,11 +28,11 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
     This selection adds the link Use external login to the login page.
 
-3.  To [update the user table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/t_AdministerSAMLUserProvisioning.md) with the [[users|users]] in the IdP, select the **Enable Auto Importing** option.
+3.  To [update the user table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/t_AdministerSAMLUserProvisioning.md) with the users in the IdP, select the **Enable Auto Importing** option.
 
 4.  To enable the debug messages to appear at the bottom of the content frame, select the **Enable debug logging for the Multi-Provider SSO integration** check box.
 
-    If enabled, the debug logging feature slows down performance and uses up disk space to generate [[logs|logs]].
+    If enabled, the debug logging feature slows down performance and uses up disk space to generate logs.
 
 5.  In the property **The field on the user table that identifies a user accessing the User identification login page**, enter the field on the User table that contains the value the IdP uses to identify the user. The default value is **user\_name**.
 
@@ -50,8 +50,3 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
 [SAML user provisioning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/c_SAMLUserProvisioning.md)
 
-## Related
-
-- [[ca-system-properties|System properties]]
-- [[users|Users]]
-- [[logs|Logs]]

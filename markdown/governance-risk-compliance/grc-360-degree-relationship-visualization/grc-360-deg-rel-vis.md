@@ -67,10 +67,7 @@ Before you can run the GRC: 360º Relationship Visualization \(com.servicenow\_s
 -   **[Setting up the 360º views](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-360-degree-relationship-visualization/set-up-360-data-reg.md)**  
 To effectively use the 360° Relationship Visualization application, you need to register existing relationships between the types of data you want to view, and then configure how the 360º view displays that data.
 -   **[Exploring the 360º view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-360-degree-relationship-visualization/understanding-360-view.md)**  
-After you have successfully set up your data registries for the tables you use, you can use the 360º view feature to view the relationships between a selected record and related objects, such as controls, risks, and [[entity-type-in-risk-ws|entity types]].
+After you have successfully set up your data registries for the tables you use, you can use the 360º view feature to view the relationships between a selected record and related objects, such as controls, risks, and entity types.
 
 **Parent Topic:**[Common Governance, Risk, and Compliance features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/common-grc-features.md)
 
-## Related
-
-- [[entity-type-in-risk-ws|Entity types]]

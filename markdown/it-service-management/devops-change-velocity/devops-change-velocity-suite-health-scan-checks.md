@@ -14,7 +14,7 @@ breadcrumb: [Reference, DevOps Change Velocity, IT Service Management]
 
 # DevOps Change Velocity suite health scan checks
 
-View the list of scan checks available in [[devops-landing-page-new|DevOps Change Velocity]] to get recommendations on fixing any errors that might exist.
+View the list of scan checks available in DevOps Change Velocity to get recommendations on fixing any errors that might exist.
 
 <table id="table_k3z_qv2_vdc"><thead><tr><th>
 
@@ -54,7 +54,7 @@ DevOps - empty roles in the base system
 
 </td><td>
 
-If any of your base system roles have an empty role [[reference-for-itsm-mobile-agent|reference]], it could impact a wide range of DevOps functionality, including the Discover action and event processing.
+If any of your base system roles have an empty role reference, it could impact a wide range of DevOps functionality, including the Discover action and event processing.
 
 </td><td>
 
@@ -102,7 +102,7 @@ DevOps - related plugins compatibility
 
 </td><td>
 
-If the plugin versions for [[dex-workspace-application-tab|applications]] associated with DevOps Change Velocity are not compatible with the DevOps Change Velocity version in an instance, it might result in various features not functioning correctly. This check identifies if any plugin starting with the name "sn\_devops"\(excluding the sn\_devops\_pipeline plugin\) does not have same version as that of sn\_devops\_chgvlcty.
+If the plugin versions for applications associated with DevOps Change Velocity are not compatible with the DevOps Change Velocity version in an instance, it might result in various features not functioning correctly. This check identifies if any plugin starting with the name "sn\_devops"\(excluding the sn\_devops\_pipeline plugin\) does not have same version as that of sn\_devops\_chgvlcty.
 
 </td><td>
 
@@ -118,7 +118,7 @@ DevOps - chronically failing or waiting pipelines
 
 </td><td>
 
-If a pipeline is chronically failing or in the waiting state indefinitely, it might cause the DevOps processes to not proceed further. This check identifies pipelines that have failed for the previous ten executions, so that you can take [[remedial-action|remedial action]].
+If a pipeline is chronically failing or in the waiting state indefinitely, it might cause the DevOps processes to not proceed further. This check identifies pipelines that have failed for the previous ten executions, so that you can take remedial action.
 
 </td><td>
 
@@ -214,7 +214,7 @@ DevOps – changes in update set records
 
 </td><td>
 
-If there are [[migration-utility-modification|modifications]] in any of the DevOps applications, it could potentially result in updates being skipped or overlooked when upgrading to a newer version. This check scans the update.xml file for DevOps Change Velocity scoped changes.
+If there are modifications in any of the DevOps applications, it could potentially result in updates being skipped or overlooked when upgrading to a newer version. This check scans the update.xml file for DevOps Change Velocity scoped changes.
 
 </td><td>
 
@@ -254,7 +254,7 @@ DevOps Change Velocity Health - On-demand
 
 </td><td>
 
-If the webhook is not configured, set it up. If the existing configuration contains errors, update it to ensure the correct [[settings-mobile|settings]] are applied.
+If the webhook is not configured, set it up. If the existing configuration contains errors, update it to ensure the correct settings are applied.
 
 </td></tr><tr><td>
 
@@ -343,11 +343,3 @@ N/A
 </td></tr></tbody>
 </table>**Parent Topic:**[DevOps Change Velocity reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/devops-change-velocity-reference.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[dex-workspace-application-tab|Applications]]
-- [[remedial-action|Remedial action]]
-- [[migration-utility-modification|Modifications]]
-- [[settings-mobile|Settings]]

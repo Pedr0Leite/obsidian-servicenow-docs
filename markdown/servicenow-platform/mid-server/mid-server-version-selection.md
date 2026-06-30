@@ -16,7 +16,7 @@ breadcrumb: [MID Server upgrades, MID Server reference, MID Server, Manage insta
 
 You can pin all the MID Servers in your environment to a specific version by setting a system property, or you can configure specific versions for individual MID Servers.
 
-**Note:** Under most circumstances, do not pin the [[mid-server-landing|MID Server]] to a specific version. Pinning the MID server can make it out of sync with the instance, and lead to broken functionality. Instead, let the instance determine which MID Server version to use.
+**Note:** Under most circumstances, do not pin the MID Server to a specific version. Pinning the MID server can make it out of sync with the instance, and lead to broken functionality. Instead, let the instance determine which MID Server version to use.
 
 ## Version control properties
 
@@ -41,6 +41,3 @@ To pin specific MID Servers on a desired version, set the **mid.pinned.version**
 
 **Parent Topic:**[MID Server upgrades](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/c_UpgradeAndTestMIDServer.md)
 
-## Related
-
-- [[mid-server-landing|MID Server]]

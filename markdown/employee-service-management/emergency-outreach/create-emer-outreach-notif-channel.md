@@ -30,7 +30,7 @@ If the **Email notification** and **Now Mobile Push notification** check boxes a
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[emergency-outreach|Emergency Outreach]]** &gt; **Channels**.
+1.  Navigate to **All** &gt; **Emergency Outreach** &gt; **Channels**.
 
 2.  Click **New**.
 
@@ -86,7 +86,7 @@ If the **Email notification** and **Now Mobile Push notification** check boxes a
 
     1.  Create a subflow to use in the outreach notification.
 
-        For information about creating, publishing, and testing [[flows-ukg|subflows]], see [Subflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/subflows.md).
+        For information about creating, publishing, and testing subflows, see [Subflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/subflows.md).
 
         Use the following inputs in the subflow that you create:
 
@@ -99,7 +99,7 @@ If the **Email notification** and **Now Mobile Push notification** check boxes a
 
             If the mode is *survey\_instances*, then survey\_instances is set to a valid GlideRecord and *acknowledgements* is `null`.
 
-        -   *channel* \([[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] of sn\_imt\_checkin\_channels\)
+        -   *channel* \(Reference of sn\_imt\_checkin\_channels\)
         The following outputs are optional:
 
         -   *total\_count* \(integer\)
@@ -198,8 +198,3 @@ When an outreach is sent using a custom notification channel, a Delivery Logs re
 })(responses, channelGr);
 ```
 
-## Related
-
-- [[emergency-outreach|Emergency Outreach]]
-- [[flows-ukg|Subflows]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

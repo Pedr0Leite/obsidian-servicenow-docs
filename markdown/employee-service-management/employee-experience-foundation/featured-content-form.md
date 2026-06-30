@@ -14,7 +14,7 @@ breadcrumb: [Featured content, Setup Employee Center browse experience features,
 
 # Featured Content form
 
-Use the featured content form to mark the associated connected content as [[featured-content|featured content]] for a topic.
+Use the featured content form to mark the associated connected content as featured content for a topic.
 
 <table id="table_yrp_bbk_sqb"><thead><tr><th>
 
@@ -62,7 +62,7 @@ Order in which you want the featured content to appear.
 
 [Connected Content form]()
 
-[Default [[emp-slate-employee-profile|Employee Profile]] Header Configuration record]()
+[Default Employee Profile Header Configuration record]()
 
 [Employee Center widgets]()
 
@@ -90,7 +90,7 @@ Order in which you want the featured content to appear.
 
 [Portal notification configuration form]()
 
-[Portal [[ec-notification-content|notification content]] form]()
+[Portal notification content form]()
 
 [Trigger conditions form]()
 
@@ -112,8 +112,3 @@ Order in which you want the featured content to appear.
 
 [Website configuration form]()
 
-## Related
-
-- [[featured-content|Featured content]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[ec-notification-content|Notification content]]

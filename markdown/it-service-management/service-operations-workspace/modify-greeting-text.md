@@ -14,7 +14,7 @@ breadcrumb: [Landing page configurations in Service Operations Workspace for ITS
 
 # Configure the header message on the landing page
 
-Configure the header message that is part of the greeting text on the [[dex-workspace-dashboard-tab|landing page]]. For example, You are on-call until Monday, Mar 21.
+Configure the header message that is part of the greeting text on the landing page. For example, You are on-call until Monday, Mar 21.
 
 ## Before you begin
 
@@ -507,6 +507,3 @@ The alert notification on the banner in SOW automatically expands to display the
 
 **Parent Topic:**[Landing page configurations in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/landing-page-configurations-sow-itsm.md)
 
-## Related
-
-- [[dex-workspace-dashboard-tab|Landing page]]

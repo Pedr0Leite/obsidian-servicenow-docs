@@ -12,7 +12,7 @@ breadcrumb: [Track In-store operations cases and tasks, Manage store plans, Reta
 
 # Track an In-store operations case created from a store plan
 
-Monitor the progress of an [[rahi-retail-retail-in-store-operations|In-store operations case]] from the CSM/FSM Configurable Workspace.
+Monitor the progress of an In-store operations case from the CSM/FSM Configurable Workspace.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_rtl\_instore\_ops.manager
 
 ## Procedure
 
-1.  In **CSM/FSM Configurable Workspace**, navigate to **[[rahi-retail-operations-overview|Retail]] cases**.
+1.  In **CSM/FSM Configurable Workspace**, navigate to **Retail cases**.
 
 2.  Select **All**.
 
@@ -31,10 +31,5 @@ Role required: sn\_rtl\_instore\_ops.manager
     You can edit and save case details, or select **Close case** to close the case.
 
 
-**Parent Topic:**[[rahi-retail-in-store-ops-track|Track In-store operations cases and tasks]]
+**Parent Topic:**[Track In-store operations cases and tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-in-store-ops-track.md)
 
-## Related
-
-- [[rahi-retail-in-store-ops-track|Track In-store operations cases and tasks]]
-- [[rahi-retail-retail-in-store-operations|In-store operations case]]
-- [[rahi-retail-operations-overview|Retail]]

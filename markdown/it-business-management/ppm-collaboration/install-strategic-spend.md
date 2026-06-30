@@ -14,7 +14,7 @@ breadcrumb: [Strategic Spend Tracking for PPM, Project Portfolio Management, Str
 
 # Install Strategic Spend Tracking for PPM
 
-Install the [[ppm-strategic-spend-tracking-overview|Strategic Spend Tracking for PPM]] application from ServiceNow Store applications. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
+Install the Strategic Spend Tracking for PPM application from ServiceNow Store applications. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
 ## Before you begin
 
@@ -63,6 +63,3 @@ Several types of components are installed with activation of Strategic Spend Tra
 
 [List of plugins \(Australia\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-## Related
-
-- [[ppm-strategic-spend-tracking-overview|Strategic Spend Tracking for PPM]]

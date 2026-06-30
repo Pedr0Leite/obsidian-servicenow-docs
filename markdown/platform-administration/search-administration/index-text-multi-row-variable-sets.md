@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-By default, Zing doesn't index text from multi-row Service Catalog variable sets. Global search doesn't return [[hs-results|results]] for text in these variable sets.
+By default, Zing doesn't index text from multi-row Service Catalog variable sets. Global search doesn't return results for text in these variable sets.
 
 Administrators can override this default behavior by adding the **glide.ts.index.variableset**system property and setting its value to **true**. With this value set, Zing indexes text in multi-row variable sets, and global search returns results for that text.
 
@@ -94,6 +94,3 @@ If you don't regenerate the text indexes for the affected tables, records on tho
 
 [Configure tables to use the Japanese tokenizer]()
 
-## Related
-
-- [[hs-results|Results]]

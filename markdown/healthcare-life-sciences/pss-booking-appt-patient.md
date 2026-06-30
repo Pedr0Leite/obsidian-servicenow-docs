@@ -12,7 +12,7 @@ breadcrumb: [Patient Support Services, Healthcare and Life Sciences Service Mana
 
 # Booking appointments for Patient Support Services
 
-Book an appointment as a patient for the training requests within a [[pss-app|Patient Support Services]] program.
+Book an appointment as a patient for the training requests within a Patient Support Services program.
 
 **Important:**
 
@@ -26,17 +26,12 @@ Your administrator can configure the appointment window available for selecting 
 
 After you book an appointment, a training task is created for the nurse educator and the appointment confirmation email notification is sent to you.
 
-For more information, see [[pss-appt-booking-feature|Appointment booking workflow in Patient Support Services]].
+For more information, see [Appointment booking workflow in Patient Support Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-appt-booking-feature.md).
 
 **Related topics**  
 
 
 [Appointment booking workflow in Patient Support Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-appt-booking-feature.md)
 
-[[pss-appt-booking-setup|Configuring an appointment booking setting for Patient Support Services]]
+[Configuring an appointment booking setting for Patient Support Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-appt-booking-setup.md)
 
-## Related
-
-- [[pss-appt-booking-feature|Appointment booking workflow in Patient Support Services]]
-- [[pss-appt-booking-setup|Configuring an appointment booking setting for Patient Support Services]]
-- [[pss-app|Patient Support Services]]

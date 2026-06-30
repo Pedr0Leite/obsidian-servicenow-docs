@@ -24,7 +24,7 @@ You can create a similar tasks group and add tasks to it only in the **Draft** s
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **Business Continuity Workspace** &gt; **[[exercise-management-uib|Exercises]]** &gt; **Pending** and select the event from the list.
+1.  Navigate to **Workspaces** &gt; **Business Continuity Workspace** &gt; **Exercises** &gt; **Pending** and select the event from the list.
 
 2.  To create a similar event tasks group, use one of these options.
 
@@ -79,9 +79,5 @@ Applicable event tasks are added to the Similar tasks group.**Note:** When you s
     The event task is deleted from the event.
 
 
-**Parent Topic:**[[identifying-running-dup-tasks-once|Creating similar tasks groups]]
+**Parent Topic:**[Creating similar tasks groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/identifying-running-dup-tasks-once.md)
 
-## Related
-
-- [[identifying-running-dup-tasks-once|Creating similar tasks groups]]
-- [[exercise-management-uib|Exercises]]

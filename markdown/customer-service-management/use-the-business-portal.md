@@ -24,10 +24,10 @@ From the Business Portal home page, you can access and use the following feature
 |Frequently asked questions|Get quick answers to common questions.|
 |Resources|Navigate to the Knowledge, Publications, or FAQs pages.|
 |Requests|Submit a request or View submitted requests.|
-|My hub|Manage products and [[install-base-item|install base items]].|
+|My hub|Manage products and install base items.|
 |My company|Create or manage contacts.|
 |Notification|Displays notifications sent for resolved cases, cases awaiting information, publications, and approvals.|
-|Tours|View a tour for additional guidance on how the [[c_CustomerServiceManagement|Customer Service Management]] application works. Your administrator determines whether tours appear on pages or not.|
+|Tours|View a tour for additional guidance on how the Customer Service Management application works. Your administrator determines whether tours appear on pages or not.|
 |Live Chat|Chat with a virtual agent or a customer service agent.|
 |Callback request|Request a callback when the wait time to reach agents is long or agents are unavailable.|
 |Profile menu|View your profile or log out.|
@@ -39,7 +39,3 @@ From the Business Portal home page, you can access and use the following feature
 |Most popular services|Request items and services from the catalog.|
 |Footer|Contains important links, contact information, and legal details for easy access.|
 
-## Related
-
-- [[install-base-item|Install base items]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

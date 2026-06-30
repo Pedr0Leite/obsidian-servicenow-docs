@@ -12,7 +12,7 @@ breadcrumb: [Reference, Subscription Management, Get started, Administer the Ser
 
 # Domain separation and Subscription Management
 
-Domain separation is supported for [[subscription-management-landing-page-v2|Subscription Management]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported for Subscription Management. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic\*
 
@@ -54,14 +54,10 @@ Users in the SP domain can view assist usage by domain by navigating to **Admin*
 
 Users in tenant domains can only view their own Now Assist usage. Users in tenant domains can't see the number of assists used in parent or sibling domains.
 
-**Parent Topic:**[[subscription-management-reference-v2|Subscription Management reference]]
+**Parent Topic:**[Subscription Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/subscription-management-reference-v2.md)
 
 **Related topics**  
 
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[subscription-management-reference-v2|Subscription Management reference]]
-- [[subscription-management-landing-page-v2|Subscription Management]]

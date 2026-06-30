@@ -14,24 +14,24 @@ breadcrumb: [Learning, Growth Experiences, HR Service Delivery, Employee Service
 
 # Learning reference
 
-All information regarding the system properties and tables installed with [[exploring-learning-exp|learning]] experience are listed here.
+All information regarding the system properties and tables installed with learning experience are listed here.
 
 -   **[Collection form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/collection-form-lxp.md)**  
-Use the [[collection-form-lc|Collection form]] to [[create-content-collection|create a content collection]] in [[learning-core_overview|Learning Core]] to dynamically group Learning content that includes multiple internal and external courses.
+Use the Collection form to create a content collection in Learning Core to dynamically group Learning content that includes multiple internal and external courses.
 -   **[Learning internal content form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/learning-internal-content-form.md)**  
-Use the [[learning-internal-content-form-exp|Learning internal content form]] to create internal Learning courses so that employees can learn new content and enhance their skills set.
+Use the Learning internal content form to create internal Learning courses so that employees can learn new content and enhance their skills set.
 -   **[Learning External Content form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/learning-external-content-form.md)**  
-Description of the field values in the [[learning-external-content-form|Learning External Content form]].
+Description of the field values in the Learning External Content form.
 -   **[Learning library form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/learning-library-form_0.md)**  
-Use the [[learning-library-form|learning library form]] to [[create-learning-library|create a learning library]].
+Use the learning library form to create a learning library.
 -   **[Learning task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/learning-task-form_0.md)**  
-Assign a learning task to an employee that can be completed from the To-dos page in [[employee-center-landing-page|Employee Center]].
+Assign a learning task to an employee that can be completed from the To-dos page in Employee Center.
 -   **[Achievement form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/achievements-definitions-form.md)**  
 Create achievement definitions to associate them with courses.
 -   **[Achievement rule form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/achievement-rule-form.md)**  
 Create achievement rules to define the criteria to be met to complete an achievement.
 -   **[Learning course catalog form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/course-catalog-form.md)**  
-Use the [[course-catalog-table|course catalog form]] to create a new learning course catalog.
+Use the course catalog form to create a new learning course catalog.
 -   **[Life-cycle stages of a content collection in Learning Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/lifecycle-stages-collection.md)**  
 The State transition of a collection guides you through the stages of its life cycle.
 -   **[Components installed with Learning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/components-installed-with-learning.md)**  
@@ -39,15 +39,3 @@ Several types of components are installed with the activation of Learning, inclu
 
 **Parent Topic:**[HR Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-service-delivery.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[collection-form-lc|Collection form]]
-- [[create-content-collection|Create a content collection]]
-- [[learning-core_overview|Learning Core]]
-- [[learning-internal-content-form-exp|Learning internal content form]]
-- [[learning-external-content-form|Learning External Content form]]
-- [[learning-library-form|Learning library form]]
-- [[create-learning-library|Create a learning library]]
-- [[employee-center-landing-page|Employee Center]]
-- [[course-catalog-table|Course catalog form]]

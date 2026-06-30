@@ -14,7 +14,7 @@ breadcrumb: [Installing Proactive Triggers, Proactive Triggers, Manage people an
 
 # Enable Proactive Triggers
 
-Use [[proactive-triggers-landing-page|Proactive Triggers]] to create and view context-specific messages and use relevant actions on the chat widget.
+Use Proactive Triggers to create and view context-specific messages and use relevant actions on the chat widget.
 
 ## Before you begin
 
@@ -40,7 +40,7 @@ An admin first enables and then creates rules and actions as separate tasks.
 
     This system property enables the smart chat component on the Service Portal. This system property is only applicable to the requester persona.
 
-3.  Navigate to **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings**.
+3.  Navigate to **Conversational Interfaces** &gt; **Settings**.
 
     You must be in the Proactive Triggers scope to enable this feature.
 
@@ -90,13 +90,13 @@ An admin first enables and then creates rules and actions as separate tasks.
 
     10. Select **Search - No Search Result** from the Proactive Rules related list.
 
-    11. In the [[proactive-rule-new-record-form|Proactive Rule form]] for Search - No Search Result, select the **Active** option to turn on the rule and adjust any settings, as needed.
+    11. In the Proactive Rule form for Search - No Search Result, select the **Active** option to turn on the rule and adjust any settings, as needed.
 
     12. Select **Update**.
 
     13. Select **No Search Result Message** from the Proactive Actions related list.
 
-    14. In the [[proactive-action-new-record-form|Proactive Action form]] for No Search Result Message, select the **Active** option to turn on the action and adjust any settings, as needed.
+    14. In the Proactive Action form for No Search Result Message, select the **Active** option to turn on the action and adjust any settings, as needed.
 
     15. Select **Submit**.
 
@@ -109,21 +109,12 @@ The Proactive Triggers feature is enabled and you know where to create rules, ac
 
 ## What to do next
 
-[[create-rule-actions|Create rules and actions for Proactive Triggers]]. For more information, see [Create rules and actions for Proactive Triggers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/product-support-for-technology/create-rule-actions.md).
+Create rules and actions for Proactive Triggers. For more information, see [Create rules and actions for Proactive Triggers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/product-support-for-technology/create-rule-actions.md).
 
-[[create-custom-trigger-types|Create custom trigger types]]. For more information, see [Create custom trigger types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/product-support-for-technology/create-custom-trigger-types.md).
+Create custom trigger types. For more information, see [Create custom trigger types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/product-support-for-technology/create-custom-trigger-types.md).
 
 **Related topics**  
 
 
-[[web-client-message-preview|Enable message preview on the chat widget]]
+[Enable message preview on the chat widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/web-client-message-preview.md)
 
-## Related
-
-- [[web-client-message-preview|Enable message preview on the chat widget]]
-- [[proactive-triggers-landing-page|Proactive Triggers]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[proactive-rule-new-record-form|Proactive Rule form]]
-- [[proactive-action-new-record-form|Proactive Action form]]
-- [[create-rule-actions|Create rules and actions for Proactive Triggers]]
-- [[create-custom-trigger-types|Create custom trigger types]]

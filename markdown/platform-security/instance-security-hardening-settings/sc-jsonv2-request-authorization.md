@@ -16,9 +16,9 @@ breadcrumb: [API and web service, Hardening settings, Platform Security]
 
 Use the **glide.basicauth.required.jsonv2** property to designate if incoming JSONv2 requests should require basic authorization.
 
-If the **glide.basicauth.required.jsonv2** system property is not set to the recommended value of **true**, then this will disable [[basic-authentication|Basic Authentication]] for JSONv2 format [[export|export]] processor. This also happens when combined with a wrong role within the guest\_user related property \(For example a high privileged user such as Admin\).
+If the **glide.basicauth.required.jsonv2** system property is not set to the recommended value of **true**, then this will disable Basic Authentication for JSONv2 format export processor. This also happens when combined with a wrong role within the guest\_user related property \(For example a high privileged user such as Admin\).
 
-Ensure that the property **glide.basicauth.required.jsonv2** exists in the [[ca-system-properties|System Properties]] \[sys\_properties\] table and is set to **true**.
+Ensure that the property **glide.basicauth.required.jsonv2** exists in the System Properties \[sys\_properties\] table and is set to **true**.
 
 **Warning:** This is a safe harbor property, meaning the value can't be altered once it's changed. It is non-revertible.
 
@@ -34,7 +34,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -117,9 +117,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[API and web service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-api-web-service.md)
 
-## Related
-
-- [[basic-authentication|Basic authentication]]
-- [[export|Export]]
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]

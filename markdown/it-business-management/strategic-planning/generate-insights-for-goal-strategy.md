@@ -34,13 +34,13 @@ The skill analyzes the real-time data — including check-in patterns, comments,
 
 **Note:** Only the owner or contributors of the goal can generate insights for the goal.
 
-\[Omitted image "generate-goal-insights.gif"\] Alt text: Generate goal insights in [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace using Goal insights skill.
+\[Omitted image "generate-goal-insights.gif"\] Alt text: Generate goal insights in Strategic Planning Workspace using Goal insights skill.
 
-**Note:** If the [[configure-goal-insights-generation-job|Goal insights generation job]] is enabled, it automatically generates insights for each goal based on the job's run frequency. Before manually regenerating, check the timestamp on the goal insights summary card to confirm when insights were last generated — regenerating unnecessarily increases token consumption. You can also view the last generated insights in the **AI rationale** column of the goal list. If goal or target data has changed since the last run, select the refresh icon on the goal insights summary card to regenerate the insights.
+**Note:** If the Goal insights generation job is enabled, it automatically generates insights for each goal based on the job's run frequency. Before manually regenerating, check the timestamp on the goal insights summary card to confirm when insights were last generated — regenerating unnecessarily increases token consumption. You can also view the last generated insights in the **AI rationale** column of the goal list. If goal or target data has changed since the last run, select the refresh icon on the goal insights summary card to regenerate the insights.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **[[strategy-goals-landing-page|Strategy and Goals]]**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Strategy and Goals**.
 
 2.  Select **Favorites**, **Shared with me**, **Created by me**, or **Public**, depending on where the board is located.
 
@@ -68,8 +68,3 @@ The skill analyzes the real-time data — including check-in patterns, comments,
 
 [Send a reminder for target actuals check in](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/send-reminder-target-checkin-strategy.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[configure-goal-insights-generation-job|Goal insights generation job]]
-- [[strategy-goals-landing-page|Strategy and Goals]]

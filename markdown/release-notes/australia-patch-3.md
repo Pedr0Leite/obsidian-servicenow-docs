@@ -18,7 +18,7 @@ The Australia Patch 3 release contains important problem fixes.
     -   Build date: 06-12-2026\_1106
     -   Build tag: glide-australia-02-11-2026\_\_patch3-05-25-2026
 
-**Important:** For more information about how to upgrade an instance, see [[upgrade|ServiceNow upgrades]].
+**Important:** For more information about how to upgrade an instance, see [ServiceNow upgrades](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/upgrade.md).
 
 For more information about the release cycle, see the [ServiceNow Release Cycle](https://support.servicenow.com/kb_view.do?sysparm_article=KB0547244).
 
@@ -45,11 +45,11 @@ Australia Patch 3 includes fixes for security-related problems that affected cer
 -   **[Activate Data snapshots](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/activate-unlimited-breakdowns.md)**
     -   Starting with Australia Patch 3, if the instance is eligible, this plugin is installed automatically.
     -   Activate Data snapshots for each eligible indicator, either one-at-a-time or in bulk.
--   **[[authentication-rn|Authentication release notes]]**
+-   **[Authentication release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/authentication-rn.md)**
     -   Email OTP as an authentication factor for AI voice service: Use Email OTP as a standalone factor, a primary factor, or a secondary factor in AI voice agent authentication flows. When a caller reaches the voice agent, a one-time password is sent to their registered email address. The caller provides the password to complete authentication.
     -   KBA for AI voice service: Use the KBA setup to configure Knowledge-Based Authentication \(KBA\) for the voice channel. Choose from base system questions at both the identification level and the authentication level. AI voice service mappings are populated automatically from your Assistant Designer selection, so manually mapping voice services is no longer a mandatory step in the KBA setup.
     -   Authenticate callers at the start of every call: Prompt callers for authentication or identification details at the start of every call, before the voice-only assistant responds to any request, using the Authenticate at the start of the call option on the Assistant Designer's Caller verification page.
--   **[[clone-admin-console-rn|Clone Admin Console release notes]]**
+-   **[Clone Admin Console release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/clone-admin-console-rn.md)**
 
     The ServiceNow® Clone Admin Console application copies data and metadata from one ServiceNow instance to another ServiceNow instance to easily synchronize your instances. Clone Admin Console was enhanced and updated in the Australia release.
 
@@ -101,7 +101,7 @@ Australia Patch 3 includes fixes for security-related problems that affected cer
 
     View, modify, and manage configuration properties that control the behavior of Hermes Messaging Service. You can update property values, manage background job states, or adjust settings where automated detection is unavailable.
 
--   **[[performance-analytics-rn|Performance Analytics release notes]]**
+-   **[Performance Analytics release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/performance-analytics-rn.md)**
 
     If you have Australia Patch 3 or later, the Data snapshots plugin is installed automatically if you have RaptorDB Professional. If your instance is also domain separated, the Data snapshots feature is installed but disabled.
 
@@ -109,7 +109,7 @@ Australia Patch 3 includes fixes for security-related problems that affected cer
 
     View this table's records directly by entering `ml_predictor_error_logs.list` in the navigator.
 
--   **[[core-platform-rn|ServiceNow AI Platform core feature release notes]]**
+-   **[ServiceNow AI Platform core feature release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/core-platform-rn.md)**
     -   The Feature Preview Program provides a centralized location to discover, activate, and test pre-release capabilities on your instance. When a pre-release feature is added to your instance, you receive a notification and can access the Feature Preview Program to review feature details, activate features for testing, and provide feedback.
     -   Use the Feature Preview Program to choose which pre-release capabilities to activate and test on your instance.
 -   **[Theming for AI Search in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/ais-sp-css-vars.md)**
@@ -9440,22 +9440,11 @@ The 'TS Index Stats' job is pulling 45 million records from syslog and caused an
 
 Unless any exceptions are noted, you can safely upgrade to this release version from any of the versions listed below. These prior versions contain PRB fixes that are also included with this release. Be sure to upgrade to the latest listed patch that includes all of the PRB fixes you are interested in.
 
--   [[australia-patch-2-hf-1|Australia Patch 2 Hotfix 1]]
--   [[australia-patch-2|Australia Patch 2]]
--   [[australia-patch-1|Australia Patch 1]]
+-   [Australia Patch 2 Hotfix 1](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/australia-patch-2-hf-1.md)
+-   [Australia Patch 2](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/australia-patch-2.md)
+-   [Australia Patch 1](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/australia-patch-1.md)
 -   [Australia security and notable fixes](https://www.servicenow.com/docs/r/release-notes/australia-security-notables.html)
 -   [All other Australia fixes](https://www.servicenow.com/docs/r/release-notes/australia-all-other-fixes.html)
 
-**Parent Topic:**[[available-versions|Available patches and hotfixes]]
+**Parent Topic:**[Available patches and hotfixes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/available-versions.md)
 
-## Related
-
-- [[upgrade|ServiceNow upgrades]]
-- [[authentication-rn|Authentication release notes]]
-- [[clone-admin-console-rn|Clone Admin Console release notes]]
-- [[performance-analytics-rn|Performance Analytics release notes]]
-- [[core-platform-rn|ServiceNow AI Platform core feature release notes]]
-- [[australia-patch-2-hf-1|Australia Patch 2 Hotfix 1]]
-- [[australia-patch-2|Australia Patch 2]]
-- [[australia-patch-1|Australia Patch 1]]
-- [[available-versions|Available patches and hotfixes]]

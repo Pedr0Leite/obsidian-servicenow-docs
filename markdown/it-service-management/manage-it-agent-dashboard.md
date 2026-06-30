@@ -12,7 +12,7 @@ breadcrumb: [IT Agent dashboard for Service Operations Workspace, Platform Analy
 
 # Manage the dashboard in Service Operations Workspace
 
-Add or edit the cards that are to be viewed on the [[it-agent-dashboard|IT Agent Dashboard]] in Service Operations Workspace.
+Add or edit the cards that are to be viewed on the IT Agent Dashboard in Service Operations Workspace.
 
 ## Before you begin
 
@@ -32,6 +32,4 @@ Role required: admin
 
     For more information to edit a dashboard, see [Edit Platform Analytics dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/edit-db-in-ac.md).
 
-## Related
 
-- [[it-agent-dashboard|it agent dashboard]]

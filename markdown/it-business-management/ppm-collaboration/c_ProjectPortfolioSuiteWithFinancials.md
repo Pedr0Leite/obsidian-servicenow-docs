@@ -14,7 +14,7 @@ breadcrumb: [Explore Project Portfolio Management, Project Portfolio Management,
 
 # PPM Standard \(Project Portfolio Management\)
 
-The ServiceNow® PPM Standard, earlier known as Project Portfolio Suite with Financials, application integrates Financial Management and [[c_ProjectPortfolioSuite|Project Portfolio Management]].
+The ServiceNow® PPM Standard, earlier known as Project Portfolio Suite with Financials, application integrates Financial Management and Project Portfolio Management.
 
 PPM Standard automatically activates Financial Management if it is not already active.
 
@@ -42,13 +42,13 @@ You can perform financial planning and budgeting using UI actions on related lis
 
 PPM Standard provides comprehensive capabilities for project planning and execution. Use the following topics to get started:
 
--   **Project creation and planning:** Create projects, define work breakdown structures, set milestones, and plan timelines. See the [[c_ProjectApplicationOverview|Project Management]] documentation.
+-   **Project creation and planning:** Create projects, define work breakdown structures, set milestones, and plan timelines. See the Project Management documentation.
 -   **Resource management:** Allocate resources to projects, manage capacity, and track utilization. See [Resource Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/explore-rmw.md).
--   **[[c_PortfolioManagement|Portfolio management]]:** Prioritize demands, manage portfolios, and track portfolio performance. See [Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-management/c_PortfolioManagement.md).
+-   **Portfolio management:** Prioritize demands, manage portfolios, and track portfolio performance. See [Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-management/c_PortfolioManagement.md).
 -   **Installed components:** Review the roles, tables, and configurations installed with PPM Standard. See [Roles installed with PPM Standard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/roles-installed-with-PPS-finance.md).
 
 -   **[Activate Investment Funding for projects and demands](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/activate-investment-funding-ppm.md)**  
-Activate the [[investment-funding-overview|Investment Funding]] \(com.snc.investment\_funding\) plugin if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
+Activate the Investment Funding \(com.snc.investment\_funding\) plugin if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
 -   **[Currencies and budget reference rates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/c_BudgetReferenceRates.md)**  
 The support for use of multiple currencies provides conversions for budget items in different currencies.
 
@@ -61,9 +61,3 @@ The support for use of multiple currencies provides conversions for budget items
 
 [Project Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/c_ProjectPortfolioSuite.md)
 
-## Related
-
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]
-- [[c_ProjectApplicationOverview|Project Management]]
-- [[c_PortfolioManagement|Portfolio Management]]
-- [[investment-funding-overview|Investment Funding]]

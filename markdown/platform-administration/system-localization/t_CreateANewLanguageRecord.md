@@ -26,7 +26,7 @@ To translate the interface of an instance to a language for which ServiceNow doe
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[system-localization-landing|System Localization]]** &gt; **Languages**.
+1.  Navigate to **All** &gt; **System Localization** &gt; **Languages**.
 
 2.  Select **New**.
 
@@ -45,6 +45,3 @@ To translate the interface of an instance to a language for which ServiceNow doe
 
 [Languages table]()
 
-## Related
-
-- [[system-localization-landing|System Localization]]

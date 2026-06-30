@@ -14,7 +14,7 @@ breadcrumb: [Configure Google Dialogflow ES as the NLU provider for Virtual Agen
 
 # Activate the Google Dialogflow ES service and enable it in your instance
 
-When you activate the Google Dialogflow ES service in the Open NLU Drivers \[open\_nlu\_driver\] table, the service becomes available as an option in [[virtual-agent-landing-page|Virtual Agent]] NLU settings.
+When you activate the Google Dialogflow ES service in the Open NLU Drivers \[open\_nlu\_driver\] table, the service becomes available as an option in Virtual Agent NLU settings.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Role required: admin
 
     \[Omitted image "open-nlu-drivers-ggl-df.png"\] Alt text: Open NLU Drivers portal, with the Active column for Google Dialogflow set to true.
 
-4.  To enable NLU in your instance, navigate to **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings**, and then do the following:
+4.  To enable NLU in your instance, navigate to **Conversational Interfaces** &gt; **Settings**, and then do the following:
 
     1.  Click **Virtual Agent**.
 
@@ -57,7 +57,3 @@ Google Dialogflow ES is the NLU service provider for your instance.
 
 **Next topic:**[Test Virtual Agent with Google Dialogflow ES NLU in Virtual Agent Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/test-va-nlu-dialogflow.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]

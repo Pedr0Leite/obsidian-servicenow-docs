@@ -14,9 +14,9 @@ breadcrumb: [Integrating SAML 2.0 with other features, SAML, Multi-Provider sing
 
 # Email links with external authentication
 
-You can use [[email|email]] links when using the digestive token external [[c_Authentication|authentication]], however, you must establish how to handle links in email notifications.
+You can use email links when using the digestive token external authentication, however, you must establish how to handle links in email notifications.
 
-The default links contain a URL that directs you to a specific location in the instance, like an Incident or Change [[c_requestAPI|Request]], without incorporating SSO credentials. Below are examples for directing the user to the location in the instance without logging in on the instance login page.
+The default links contain a URL that directs you to a specific location in the instance, like an Incident or Change Request, without incorporating SSO credentials. Below are examples for directing the user to the location in the instance without logging in on the instance login page.
 
 -   Unencrypted HTTP technique to connect to the /demo instance \(it does not navigate to specific record\):
 
@@ -38,8 +38,4 @@ The default links contain a URL that directs you to a specific location in the i
     https://<instance name>.service-now.com/nav_to.do?uri=incident.do?sys_id=009f8eda0a0a0b2b01ab4eb094223466%26sysparm_stack=incident_list.do%3Fsysparm_query=active=true&SM_USER=user_name&DE_USER=lQjIVp7aRJtyPx5+2O/vgU24tbE=
     ```
 
-## Related
 
-- [[email|Email]]
-- [[c_Authentication|Authentication]]
-- [[c_requestAPI|request]]

@@ -12,7 +12,7 @@ breadcrumb: [Configurable Portal widgets instance options, Configurable Portal W
 
 # Portal Case Cards widget instance options form
 
-Instance options enable you to configure the [[portal-case-card-widget|Portal Case Cards widget]] on a portal page.
+Instance options enable you to configure the Portal Case Cards widget on a portal page.
 
 <table id="table_csm_base_entities"><thead><tr><th>
 
@@ -170,6 +170,3 @@ The text displayed in the widget when **Hide Empty Case Widget** isn’t selecte
 
 [Display the integer values of all case states](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/integer-value-case-states.md)
 
-## Related
-
-- [[portal-case-card-widget|Portal Case Cards widget]]

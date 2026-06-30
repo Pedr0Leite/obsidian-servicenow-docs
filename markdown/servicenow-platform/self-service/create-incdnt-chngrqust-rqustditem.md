@@ -24,7 +24,7 @@ Role required: itil
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[self-service-landing|Self-Service]]** &gt; **Requested Items**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Requested Items**.
 
 2.  Open a requested item.
 
@@ -40,6 +40,3 @@ Role required: itil
 
 [Service catalog requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/self-service/p_ServiceCatalogRequests.md)
 
-## Related
-
-- [[self-service-landing|Self-service]]

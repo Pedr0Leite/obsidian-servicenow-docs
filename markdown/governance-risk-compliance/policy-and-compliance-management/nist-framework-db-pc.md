@@ -16,7 +16,7 @@ breadcrumb: [Analytics and Reporting solutions for GRC: Policy and Compliance Ma
 
 NIST Framework Profiling Overview dashboard contains reports within each of the sections in the NIST RMF process: Categorize, Select, Implement, Assess, Authorize, and Monitor. You can view these reports in the Next Experience UI Framework.
 
-**Important:** Starting with version 18.1.0 of the [[r_PolicyComplianceMgmt|Policy and Compliance Management]] application, the NIST Framework Profiling Overview dashboard is available in the Next Experience UI Framework.
+**Important:** Starting with version 18.1.0 of the Policy and Compliance Management application, the NIST Framework Profiling Overview dashboard is available in the Next Experience UI Framework.
 
 If you are on Vancouver or Washington DC, you can view the dashboard in the Next Experience UI Framework.
 
@@ -35,7 +35,7 @@ To open the dashboard, navigate to **All** &gt; **NIST CSF** &gt; **Framework Pr
 
 |Title|Description|
 |-----|-----------|
-|Gaps|Displays an overview of the gaps that exist for cybersecurity activities. Gaps are grouped by policies, [[entity-class|entity class]], profiles, or functions.|
+|Gaps|Displays an overview of the gaps that exist for cybersecurity activities. Gaps are grouped by policies, entity class, profiles, or functions.|
 |Non-compliant Controls|Displays an overview of non-compliant controls that exist for cybersecurity activities. Non-compliant controls are grouped by policies, entity class, profiles, or functions.|
 |Risks|Displays an overview of risks that exist for cybersecurity activities. Risks are grouped by policies, profile class, entities, or functions.|
 |Issues|Displays an overview of issues for cybersecurity activities. Issues are grouped by policies, entity class, entities, or functions.|
@@ -44,7 +44,3 @@ To open the dashboard, navigate to **All** &gt; **NIST CSF** &gt; **Framework Pr
 
 **Parent Topic:**[Analytics and Reporting solutions for GRC: Policy and Compliance Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/grc-policy-compliance-content-pack.md)
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[entity-class|entity class]]

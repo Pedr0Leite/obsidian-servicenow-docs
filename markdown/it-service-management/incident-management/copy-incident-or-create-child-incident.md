@@ -114,12 +114,8 @@ Related lists
 -   Affected CIs \(task\_ci\)
 -   Impacted Services \(task\_cmdb\_ci\_service\)
 -   Service Offerings \(task\_service\_offering\)
--   Business [[dex-workspace-application-tab|Applications]] \(task\_cmdb\_ci\_business\_app\)
+-   Business Applications \(task\_cmdb\_ci\_business\_app\)
 You cannot add any other table in this field but you can remove any of the default values.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[dex-workspace-application-tab|Applications]]

@@ -40,10 +40,8 @@ To submit a complaint anonymously, see [Submit a complaint through the Anonymous
 
     2.  Click **Add**.
 
-    The involved party record appears in the Involved Parties list on the [[ethics-complaint-intake-form|Ethics Complaints intake form]].
+    The involved party record appears in the Involved Parties list on the Ethics Complaints intake form.
 
 7.  Click **Submit**.
 
-## Related
 
-- [[ethics-complaint-intake-form|Ethics complaints intake form]]

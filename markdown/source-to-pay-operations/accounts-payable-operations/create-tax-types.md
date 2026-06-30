@@ -15,7 +15,7 @@ breadcrumb: [Tax calculations, Create an invoice manually, Work with invoices, U
 
 # Create tax types to be used in an invoice
 
-Create tax types to categorize taxes applied to [[invoices|invoices]].
+Create tax types to categorize taxes applied to invoices.
 
 ## Before you begin
 
@@ -49,7 +49,7 @@ Code
 
 </td><td>
 
-Unique tax code generated from the [[erp-source|ERP source]].
+Unique tax code generated from the ERP source.
 
 </td></tr><tr><td>
 
@@ -90,7 +90,3 @@ The tax type details are added.
 
 **Parent Topic:**[Tax calculations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/tax-calculations-in-apo.md)
 
-## Related
-
-- [[invoices|Invoices]]
-- [[erp-source|ERP source]]

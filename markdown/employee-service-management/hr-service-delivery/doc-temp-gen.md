@@ -14,7 +14,7 @@ breadcrumb: [Using Document Templates, Document Templates, HR Documents, HR Serv
 
 # Using Document Templates: Custom use case
 
-Understand how to use [[document-templates-overview|Document Templates]] outside of [[hr-service-delivery|HR Service Delivery]].
+Understand how to use Document Templates outside of HR Service Delivery.
 
 ## Before you begin
 
@@ -76,7 +76,3 @@ Role required: admin
 
 [Using Guided Tours in Document Templates]()
 
-## Related
-
-- [[document-templates-overview|Document Templates]]
-- [[hr-service-delivery|HR Service Delivery]]

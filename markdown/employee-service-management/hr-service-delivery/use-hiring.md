@@ -14,7 +14,7 @@ breadcrumb: [Hiring tab, Hiring Experiences, HR Service Delivery, Employee Servi
 
 # Using Hiring
 
-Use the [[hiring-dashboard|Hiring tab]], as a [[hiring-tab-concept|hiring]] manager, to leverage greater collaboration with stakeholders and a streamlined hiring process.
+Use the Hiring tab, as a hiring manager, to leverage greater collaboration with stakeholders and a streamlined hiring process.
 
 -   **[Hiring tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hiring-dashboard.md)**  
 The hiring tab works as the source of truth for the hiring manager.
@@ -25,7 +25,7 @@ Hiring manager can view the detailed status of an open job requisition to track 
 -   **[Tracking an application record from the Hiring tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/application-record-details-hiring.md)**  
 Track an application on a job requisition and view its corresponding details as a hiring manager.
 -   **[Collaborate with the recruiter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/collab-recruiter.md)**  
-[[collab-recruiter|Collaborate with the recruiter]] for the job requisition on the [[activity-lxp|activity]] stream.
+Collaborate with the recruiter for the job requisition on the activity stream.
 -   **[View hiring content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/view-hiring-content.md)**  
 See different hiring materials available in the Hiring tab.
 -   **[Use AI agents to create job requisition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/use-ai-agents-to-create-job-req.md)**  
@@ -33,9 +33,3 @@ Use AI agents to automate the job requisition creation process from the Virtual 
 
 **Parent Topic:**[Hiring tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hiring-landing.md)
 
-## Related
-
-- [[hiring-dashboard|Hiring tab]]
-- [[hiring-tab-concept|Hiring]]
-- [[collab-recruiter|Collaborate with the recruiter]]
-- [[activity-lxp|Activity]]

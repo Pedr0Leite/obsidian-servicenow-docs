@@ -12,7 +12,7 @@ breadcrumb: [Configure Customer-supplied keys for Field Encryption Enterprise, C
 
 # Configure properties for customer-supplied key
 
-Review the [[ca-system-properties|system properties]] for the ephemeral public wrapping key that your instance uses to unwrap customer-supplied keys.
+Review the system properties for the ephemeral public wrapping key that your instance uses to unwrap customer-supplied keys.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_kmf.admin or sn\_kmf.cryptographic manager
 
 ## About this task
 
-You must wrap your symmetric data [[encryption-landing|encryption]] key with a ServiceNow ephemeral public wrapping key before you can upload it to your instance.
+You must wrap your symmetric data encryption key with a ServiceNow ephemeral public wrapping key before you can upload it to your instance.
 
 When your key is uploaded to your instance, the instance unwraps it using the private side of the public key.
 
@@ -84,13 +84,7 @@ Period for which the ephemeral key pair is valid.
 
 ## What to do next
 
-Once your properties are configured to your needs, proceed to [[wrap-your-customer-supplied-key|Wrap your customer-supplied key]].
+Once your properties are configured to your needs, proceed to [Wrap your customer-supplied key](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/wrap-your-customer-supplied-key.md).
 
-**Parent Topic:**[[fe-config-customer-supplied-keys|Configure Customer-supplied keys for Field Encryption Enterprise]]
+**Parent Topic:**[Configure Customer-supplied keys for Field Encryption Enterprise](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/fe-config-customer-supplied-keys.md)
 
-## Related
-
-- [[wrap-your-customer-supplied-key|Wrap your customer-supplied key]]
-- [[fe-config-customer-supplied-keys|Configure Customer-supplied keys for Field Encryption Enterprise]]
-- [[ca-system-properties|System properties]]
-- [[encryption-landing|Encryption]]

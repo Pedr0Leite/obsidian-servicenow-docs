@@ -15,7 +15,7 @@ breadcrumb: [Personalizing views for prioritization, Prioritize portfolio plan w
 
 # Personalize Hierarchy view
 
-Personalize the Hierarchy view in the Planning page of [[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace so that you can view the information that is most relevant to you and your stakeholders.
+Personalize the Hierarchy view in the Planning page of Portfolio Planning Workspace so that you can view the information that is most relevant to you and your stakeholders.
 
 ## Before you begin
 
@@ -57,6 +57,4 @@ Personalization preferences are saved as the portfolio plan's settings in Portfo
 
 5.  [Apply quick filters for Prioritization and Roadmap data in Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/quick-fiters-prioitization-roadmap-ppw.md)
 
-## Related
 
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

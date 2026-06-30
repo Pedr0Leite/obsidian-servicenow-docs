@@ -24,7 +24,7 @@ Make changes to an existing catalog item if you have permissions to edit the ite
 
 ## About this task
 
-When you edit a published item in the [[catalog-builder|catalog builder]], the system creates a draft copy of the item and its associated records such as variables, UI policies, and client scripts. The draft version is inactive until published. The published item remains in the published state and the **Checked out** field is set to **True**.
+When you edit a published item in the catalog builder, the system creates a draft copy of the item and its associated records such as variables, UI policies, and client scripts. The draft version is inactive until published. The published item remains in the published state and the **Checked out** field is set to **True**.
 
 After you edit the item and submit it, the following scenarios are possible:
 
@@ -44,7 +44,7 @@ For information about configuring a review subflow, see [Setting up the Catalog 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[service-catalog|Service Catalog]]** &gt; **Catalog Builder**.
+1.  Navigate to **All** &gt; **Service Catalog** &gt; **Catalog Builder**.
 
 2.  Select the **Catalog items** tab.
 
@@ -62,23 +62,23 @@ For information about configuring a review subflow, see [Setting up the Catalog 
 
     For information on editing a question and catalog item fields, see [Edit a question in Catalog Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/edit-question-cat-builder.md) and [Create a catalog item using a template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/create-item-cat-builder.md).
 
-5.  To make an item inactive, clear the **Item is active** [[check-box|check box]] in the **Basic info** section of the **Details** step.
+5.  To make an item inactive, clear the **Item is active** check box in the **Basic info** section of the **Details** step.
 
 6.  To publish the modified item, navigate to the **Review and submit** step and select **Submit**.
 
 
 -   **[Add advanced capabilities to a catalog item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/add-advanced-capabilities.md)**  
-Add advanced capabilities, such as catalog client scripts, data lookup rules, and advanced [[reference|reference]] qualifiers to a catalog item.
+Add advanced capabilities, such as catalog client scripts, data lookup rules, and advanced reference qualifiers to a catalog item.
 -   **[Create UI policies in Catalog Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/create-ui-policies-in-catalog-builder.md)**  
 Configure catalog UI policies with scripts and multiple catalog UI policy actions in Catalog Builder to facilitate the creation of complex catalog items.
 -   **[UI policy form in Catalog Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/ui-policy-form-in-catalog-builder.md)**  
-Refer to the fields and their descriptions on the [[ui-policy-form-in-catalog-builder|UI Policy form in Catalog Builder]].
+Refer to the fields and their descriptions on the UI Policy form in Catalog Builder.
 -   **[Create client script in Catalog Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/create-client-scripts-in-catalog-builder.md)**  
 You can create client scripts to customize the catalog item, such as to control the behavior of the catalog items after they're published.
 -   **[Catalog client script form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/client-script-form.md)**  
 Use client-side scripts to define dynamic behavior or validations on this catalog item.
 -   **[Discard a catalog item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/discard-a-catalog-item.md)**  
-[[discard-a-catalog-item|Discard a catalog item]] that’s in the Draft state in Catalog Builder.
+Discard a catalog item that’s in the Draft state in Catalog Builder.
 
 **Parent Topic:**[Creating or editing catalog item template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/create-cat-item-template-cat-builder.md)
 
@@ -87,11 +87,3 @@ Use client-side scripts to define dynamic behavior or validations on this catalo
 
 [View the conversational catalog overview dashboard using Catalog Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-## Related
-
-- [[catalog-builder|Catalog Builder]]
-- [[service-catalog|Service Catalog]]
-- [[check-box|Check box]]
-- [[reference|Reference]]
-- [[ui-policy-form-in-catalog-builder|UI policy form in Catalog Builder]]
-- [[discard-a-catalog-item|Discard a catalog item]]

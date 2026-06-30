@@ -14,9 +14,9 @@ breadcrumb: [ServiceNow Store applications and integrations, AI Search, Search a
 
 # AI Search for Next Experience
 
-This ServiceNow® Store application enables administrators to configure [[ia-ai-search|AI Search]] as the search engine for Unified Navigation searches in Next Experience, including global search and configurable workspace search.
+This ServiceNow® Store application enables administrators to configure AI Search as the search engine for Unified Navigation searches in Next Experience, including global search and configurable workspace search.
 
-AI Search for Next Experience is automatically installed and enabled in the Australia release, so you don't need to perform the initial migration and enablement configuration steps. To add new Unified Navigation workspace search [[clone-configurations-tab|configurations]] later, see [Add a new Unified Navigation workspace search configuration to AI Search for Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/add-new-srch-app-cfg-ais-next-exp.md).
+AI Search for Next Experience is automatically installed and enabled in the Australia release, so you don't need to perform the initial migration and enablement configuration steps. To add new Unified Navigation workspace search configurations later, see [Add a new Unified Navigation workspace search configuration to AI Search for Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/add-new-srch-app-cfg-ais-next-exp.md).
 
 To learn about how global search and configurable workspace search work when AI Search for Next Experience is enabled, see [Using global search with AI Search for Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/using-ais-next-experience-app.md).
 
@@ -25,15 +25,9 @@ Install the AI Search for Next Experience application from the ServiceNow® Stor
 -   **[Configuring AI Search for Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configuring-ais-next-experience.md)**  
 Use a Guided Setup module to step through configuration of search application settings and enablement of AI Search for Next Experience on your instance.
 -   **[Using global search with AI Search for Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/using-ais-next-experience-app.md)**  
-Global search enables you to search multiple record types at once from the Next Experience Unified Navigation search field. You can switch between global search [[hs-results|results]] and results from workspace applications that you have access to.
+Global search enables you to search multiple record types at once from the Next Experience Unified Navigation search field. You can switch between global search results and results from workspace applications that you have access to.
 -   **[AI Search for Next Experience reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/reference-ais-next-experience-app.md)**  
-[[reference-email-admin|Reference]] information for the AI Search for Next Experience application.
+Reference information for the AI Search for Next Experience application.
 
 **Parent Topic:**[Extending AI Search with ServiceNow Store applications and integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/extending-ais-store-apps.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[clone-configurations-tab|Configurations]]
-- [[hs-results|Results]]
-- [[reference-email-admin|Reference]]

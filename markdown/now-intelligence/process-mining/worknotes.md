@@ -14,19 +14,14 @@ breadcrumb: [Configure, Now Assist for Process Mining, Use, Process Mining, Plat
 
 # Working with work notes using Now Assist
 
-To work effectively with [[worknotes-analysis|work notes analysis]] using Now Assist, you must activate the transition work notes analysis skill and [[configure-worknotes-analysis|configure work notes analysis]] for the process table.
+To work effectively with work notes analysis using Now Assist, you must activate the transition work notes analysis skill and configure work notes analysis for the process table.
 
 This section covers the following topic:
 
 -   **[Activate work notes analysis skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/activate-na-skill.md)**  
-Activate the transition work notes analysis skill to be able to use [[now-assist|Now Assist for Process Mining]] to analyse work notes.
+Activate the transition work notes analysis skill to be able to use Now Assist for Process Mining to analyse work notes.
 -   **[Configuring work notes analysis in Process Mining](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/configure-worknotes.md)**  
 Configure work notes analysis for a process table so that any project that is based on the process table has work notes analysis configured.
 
 **Parent Topic:**[Configuring Now Assist for Process Mining](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/config-na-proc-min.md)
 
-## Related
-
-- [[worknotes-analysis|Work notes analysis]]
-- [[configure-worknotes-analysis|Configure work notes analysis]]
-- [[now-assist|Now Assist for Process Mining]]

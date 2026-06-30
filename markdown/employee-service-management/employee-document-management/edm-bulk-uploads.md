@@ -14,7 +14,7 @@ breadcrumb: [Use, Employee Document Management, HR Documents, HR Service Deliver
 
 # Employee document management bulk imports
 
-Use the Employee Document Management Bulk Imports feature to copy your employee documents from an external third-party cloud-based storage or a local network directory to [[hr-employee-doc-management|Employee Document Management]]. Having your employee documents within [[hr-service-delivery|HR Service Delivery]] makes administration efficient and convenient.
+Use the Employee Document Management Bulk Imports feature to copy your employee documents from an external third-party cloud-based storage or a local network directory to Employee Document Management. Having your employee documents within HR Service Delivery makes administration efficient and convenient.
 
 **Note:** Starting with the Zurich release, Bulk Import for EDM is being prepared for deprecation. If you're an existing customer, you can continue using this feature as-is, with no new functionality. New customers will not have access to this feature.
 
@@ -98,7 +98,7 @@ The process for configuring HR Service Delivery with a third-party cloud-based d
 
 The base system allows you to import employee documents that are 30 megabytes or smaller.
 
-Use the **sn\_hr\_ef.max\_file\_size** field in the [[employee-doc-properties|Properties for Employee Document Management Application]] to set the maximum file size allowed.
+Use the **sn\_hr\_ef.max\_file\_size** field in the Properties for Employee Document Management Application to set the maximum file size allowed.
 
 **Note:** Increasing the maximum size can affect system performance.
 
@@ -120,8 +120,3 @@ Use the Employee Document Staging form to correct staging records prior to impor
 
 [Managing employee documents]()
 
-## Related
-
-- [[hr-employee-doc-management|Employee Document Management]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[employee-doc-properties|Properties for Employee Document Management application]]

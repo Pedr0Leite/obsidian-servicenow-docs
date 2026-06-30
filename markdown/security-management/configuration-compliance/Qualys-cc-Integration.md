@@ -14,9 +14,9 @@ breadcrumb: [Integrate with other applications, Configuration Compliance, Unifie
 
 # Qualys integration with Configuration Compliance
 
-The Qualys Policy Compliance collects the data and automatically sends it to the Qualys application, which continuously analyzes and correlates the information. It easily integrates as the Qualys Integration for [[security-operations-landing-page|Security Operations]] to map configuration findings to CIs and business services to determine the impact and priority of potential misconfigurations.
+The Qualys Policy Compliance collects the data and automatically sends it to the Qualys application, which continuously analyzes and correlates the information. It easily integrates as the Qualys Integration for Security Operations to map configuration findings to CIs and business services to determine the impact and priority of potential misconfigurations.
 
-If you have multiple deployments of the Qualys Cloud Platform application, you can [[add-a-new-integration|add an integration]] for each deployment. Assets, identified by multiple third-party deployments and their [[vulnerabilities|vulnerabilities]], are consolidated and reconciled with your CMDB. This consolidation happens even when scan processes overlap between the multiple deployments. Data sourced from each deployment is identified and available in a single instance of [[vuln-landing-page|Vulnerability Response]].
+If you have multiple deployments of the Qualys Cloud Platform application, you can add an integration for each deployment. Assets, identified by multiple third-party deployments and their vulnerabilities, are consolidated and reconciled with your CMDB. This consolidation happens even when scan processes overlap between the multiple deployments. Data sourced from each deployment is identified and available in a single instance of Vulnerability Response.
 
 **Note:** You cannot delete the original vulnerability integration, but you can disable it. Integrations created from inactive templates are disabled by default.
 
@@ -47,7 +47,7 @@ When you enable this system property, after the next ingestion, the **Test group
 
 Ignore passed test results
 
-Starting with v15.2.5 of [[vr-config-compliance-landing|Configuration Compliance]], the ignore\_passed\_result integration instance parameter for the Qualys Integration for Security Operations has been added.This parameter is set to `false` by default so that passed test results imported by Qualys are not ignored.
+Starting with v15.2.5 of Configuration Compliance, the ignore\_passed\_result integration instance parameter for the Qualys Integration for Security Operations has been added.This parameter is set to `false` by default so that passed test results imported by Qualys are not ignored.
 
 -   Set the parameter to `true` to ignore passed test results on import.
 -   If activated, this parameter does not impact the closure of the test results.
@@ -61,10 +61,3 @@ If the Qualys Vulnerability Integration is already installed on your system, and
 
 Navigate to **All** &gt; **Qualys Vulnerability Integration** &gt; **Primary Integrations** and edit the **Qualys API Credentials** field under the **Qualys REST Details** tab.
 
-## Related
-
-- [[security-operations-landing-page|Security Operations]]
-- [[add-a-new-integration|Add an integration]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[vr-config-compliance-landing|Configuration Compliance]]

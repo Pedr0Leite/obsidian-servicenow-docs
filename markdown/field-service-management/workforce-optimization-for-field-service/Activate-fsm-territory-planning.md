@@ -14,11 +14,11 @@ breadcrumb: [Territory Planning, Set up workforce, Configure, Field Service Mana
 
 # Activate Field Service Territory Planning
 
-You can activate the [[territory-planning-fsm|Field Service Territory Planning]] plugin \(com.snc.fsm\_territory\_planning\) for [[fsm-application-landing-page|Field Service Management]] if you have the admin role. The application includes demo data and installs related applications and plugins if they are not already installed.
+You can activate the Field Service Territory Planning plugin \(com.snc.fsm\_territory\_planning\) for Field Service Management if you have the admin role. The application includes demo data and installs related applications and plugins if they are not already installed.
 
 ## Before you begin
 
-Field Service Territory Planning requires the installation of [[dispatcher-activities|Dispatcher Workspace]] plugin \(com.snc.uib.fsm\_dispatcher\_workspace\) to access the Territory Planning console.
+Field Service Territory Planning requires the installation of Dispatcher Workspace plugin \(com.snc.uib.fsm\_dispatcher\_workspace\) to access the Territory Planning console.
 
 Role required: admin
 
@@ -35,7 +35,7 @@ The following items are installed with Field Service Territory Planning:
 -   Properties
 -   Query rules
 
-For more information, see [[territory-planning-components-fsm|Field Service Territory Planning components]].
+For more information, see [Field Service Territory Planning components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/territory-planning-components-fsm.md).
 
 ## Procedure
 
@@ -58,9 +58,3 @@ The Field Service Territory Planning plugin when activated successfully adds the
 
 **Note:** You must activate the **Field\_Service\_Territories** model after setting up your territories to schedule work order tasks based on territories. For more information, see [Enable the Field Service territory model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/enable-territory-model.md).
 
-## Related
-
-- [[territory-planning-components-fsm|Field Service Territory Planning components]]
-- [[territory-planning-fsm|Field Service Territory Planning]]
-- [[fsm-application-landing-page|Field Service Management]]
-- [[dispatcher-activities|Dispatcher Workspace]]

@@ -13,9 +13,9 @@ breadcrumb: [Using Now Assist Analytics, Analyzing Now Assist performance, Explo
 
 # Skills performance
 
-Use the Skills performance dashboard page to view usage and performance indicators of one or more [[now-assist-skills|Now Assist skills]] that are active.
+Use the Skills performance dashboard page to view usage and performance indicators of one or more Now Assist skills that are active.
 
-The Skills performance dashboard page contains indicators that help you analyze the usage and performance of active skills. Use the **Date range**, **Product**, and **Skills** filters to break down by date range, [[platform-now-assist-landing|Now Assist]] product, and skill, respectively. The filter selection applies to all visualizations on the page. See [[now-assist-analytics-dashboard-indicators|Now Assist Analytics dashboard indicator details]] for information on the data and calculations behind each indicator.
+The Skills performance dashboard page contains indicators that help you analyze the usage and performance of active skills. Use the **Date range**, **Product**, and **Skills** filters to break down by date range, Now Assist product, and skill, respectively. The filter selection applies to all visualizations on the page. See [Now Assist Analytics dashboard indicator details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-analytics-dashboard-indicators.md) for information on the data and calculations behind each indicator.
 
 \[Omitted image "naa-skills-performance.png"\] Alt text: Now Assist skills usage and performance indicators.
 
@@ -54,18 +54,10 @@ Select the **View skill details** button to view the usage and performance indic
     \[Omitted image "naa-total-daily-active-users-by-skill.png"\] Alt text: Total daily active users by skills indicator.
 
 
--   **[[skill-details|Skill details]]**  
+-   **[Skill details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/skill-details.md)**  
 Use the Skill details dashboard page to view usage and performance indicators of a skill.
--   **[[custom-skill-details|Custom skill details]]**  
+-   **[Custom skill details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/custom-skill-details.md)**  
 Use the Custom skill details dashboard page to view usage and performance indicators of custom skills.
 
-**Parent Topic:**[[using-now-assist-analytics|Using Now Assist Analytics]]
+**Parent Topic:**[Using Now Assist Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/using-now-assist-analytics.md)
 
-## Related
-
-- [[now-assist-analytics-dashboard-indicators|Now Assist Analytics dashboard indicator details]]
-- [[skill-details|Skill details]]
-- [[custom-skill-details|Custom skill details]]
-- [[using-now-assist-analytics|Using Now Assist Analytics]]
-- [[now-assist-skills|Now Assist skills]]
-- [[platform-now-assist-landing|Now Assist]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, EMR Help, Healthcare and Life Sciences Service Managemen
 
 # Configuring the EMR Help service portal
 
-The [[emr-exploring|EMR Help]] service portal enables users to submit ServiceNow IT service requests from within their EMR system.
+The EMR Help service portal enables users to submit ServiceNow IT service requests from within their EMR system.
 
 As an administrator, you can set up the EMR Help service portal for submitting IT service requests from an EMR system. To access the EMR Help service portal, navigate to **Service Portal** &gt; **Portals** and click **Industry Remote Help**.
 
@@ -22,6 +22,3 @@ The default home page available within the EMR Help service portal provides the 
 
 For more information about creating a custom interface using service portals, see [Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_ServicePortal.md).
 
-## Related
-
-- [[emr-exploring|EMR Help]]

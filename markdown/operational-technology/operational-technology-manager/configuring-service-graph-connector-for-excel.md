@@ -14,11 +14,11 @@ breadcrumb: [Service Graph Connector for Microsoft Excel, Use, Operational Techn
 
 # Configuring the Service Graph Connector for Microsoft Excel
 
-Configure the [[service-graph-connector-for-OT-excel|Service Graph Connector for Microsoft Excel]] to import your existing [[operational-technology-overview|Operational Technology]] data from a populated Microsoft Excel flat-file spreadsheet.
+Configure the Service Graph Connector for Microsoft Excel to import your existing Operational Technology data from a populated Microsoft Excel flat-file spreadsheet.
 
 Use the Service Graph Connector for Microsoft Excel Excel guided setup and complete tasks in sequence to configure the Service Graph Connector for Microsoft Excel
 
-Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]] Admin** &gt; **Guided Setup**, open the following guided setups, and complete the tasks.
+Navigate to **All** &gt; **Industrial Workspace Admin** &gt; **Guided Setup**, open the following guided setups, and complete the tasks.
 
 For more information on using guided setup, see [Guided Setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/guided-setup.md).
 
@@ -41,8 +41,3 @@ As an admin, view the script includes related to the Service Graph Connector for
 
 **Parent Topic:**[Service Graph Connector for Microsoft Excel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/service-graph-connector-for-OT-excel.md)
 
-## Related
-
-- [[service-graph-connector-for-OT-excel|Service Graph Connector for Microsoft Excel]]
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

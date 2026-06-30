@@ -18,7 +18,7 @@ The recommendations framework is designed to deliver actionable, AI-driven insig
 
 Enhancing the recommendations framework empowers regulatory change managers to use the AI-driven recommendations for better identification of impactful business operations based on regulatory changes.
 
-A default recommendation context named `Suggest business operations affected by regulatory alert` powered by Now Assist for IRM is shipped along with the [[reg-change-mgmt-landing-page|Regulatory Change Management]] product. This recommendation context is used for generating recommended citations and control objectives for a regulatory alert.
+A default recommendation context named `Suggest business operations affected by regulatory alert` powered by Now Assist for IRM is shipped along with the Regulatory Change Management product. This recommendation context is used for generating recommended citations and control objectives for a regulatory alert.
 
 **Note:** Only users with the sn\_grc\_comp\_genai.reg\_change\_ai\_user role are able to see the option to generate recommendations for a regulatory alert. This role must be manually assigned to an RCM user.
 
@@ -122,6 +122,3 @@ For more information on generating recommendations, see [Generate a regulatory a
 
 [Generate recommendations for regulatory alert impacted citations, control objectives, controls, and policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/create-recommendation-reg-alert.md)
 
-## Related
-
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]

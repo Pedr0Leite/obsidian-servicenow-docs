@@ -14,9 +14,9 @@ breadcrumb: [Setting up the integration between Microsoft Azure DevOps and Agile
 
 # Setting up import and export between Azure DevOps and Agile Development 2.0
 
-Configure the settings for the import and export actions of work items between [[agile-landing-page|Agile Development 2.0]] and Azure DevOps.
+Configure the settings for the import and export actions of work items between Agile Development 2.0 and Azure DevOps.
 
-To enable synchronization of work items, register webhooks for your Azure DevOps projects and associate your Azure DevOps projects and teams with [[manage-groups-agile-dev|assignment groups in Agile Development 2.0]].
+To enable synchronization of work items, register webhooks for your Azure DevOps projects and associate your Azure DevOps projects and teams with assignment groups in Agile Development 2.0.
 
 **Parent Topic:**[Setting up the integration between Microsoft Azure DevOps and Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/microsoft-azure-devops-integrations-comm/setting-up-agile-azure-integration.md)
 
@@ -39,7 +39,7 @@ Register webhooks to subscribe to the events from your Azure DevOps projects to 
 
 4.  Click **Register Webhooks**.
 
-    If the webhook registration is successful, the **State** field in the [[create-a-project-form|project form]] changes from **Not Registered** to **Registered**.
+    If the webhook registration is successful, the **State** field in the project form changes from **Not Registered** to **Registered**.
 
 
 ### Result
@@ -67,7 +67,7 @@ Associate your Azure DevOps projects and teams with assignment groups in Agile D
 ### Before you begin
 
 -   [Import areas, teams, and iterations from Azure DevOps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/microsoft-azure-devops-integrations-comm/import-areas-teams-azure-agile.md).
--   Create assignment groups in [[agile-development|Agile Development]]. See [Create an assignment group in Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/create-an-agile-group.md).
+-   Create assignment groups in Agile Development. See [Create an assignment group in Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/create-an-agile-group.md).
 -   Role required: sn\_ado\_int.user
 
 ### About this task
@@ -84,7 +84,7 @@ After you associate an Azure DevOps team with an assignment group, you can:
 
 2.  Click **New**.
 
-3.  In the [[team-integration-settings-form|Team Integration Settings form]], select:
+3.  In the Team Integration Settings form, select:
 
     -   An Azure DevOps project.
     -   A team of your Azure DevOps project.
@@ -113,10 +113,3 @@ After you associate an Azure DevOps team with an assignment group, you can:
 
 [Importing and exporting work items between Agile Development and Azure DevOps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/microsoft-azure-devops-integrations-comm/import-export-issues-azure-agile-workflow.md)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]
-- [[manage-groups-agile-dev|Assignment groups in Agile Development 2.0]]
-- [[create-a-project-form|Project form]]
-- [[agile-development|Agile Development]]
-- [[team-integration-settings-form|Team Integration Settings form]]

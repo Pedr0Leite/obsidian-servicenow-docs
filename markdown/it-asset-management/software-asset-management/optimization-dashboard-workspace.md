@@ -23,7 +23,7 @@ The Domain filter appears on the screen only if the following plugins are instal
 -   Domain Support - Domain Extensions Installer \(com.glide.domain.msp\_extensions.installer\)
 -   Performance Analytics - Domain Support \(com.snc.pa.domain\_support\)
 
-You can access the Optimization and savings dashboard by navigating to **Software asset** &gt; **[[sam-workspace|Software Asset Workspace]]** &gt; **Software asset analytics** &gt; **Optimization and savings**.
+You can access the Optimization and savings dashboard by navigating to **Software asset** &gt; **Software Asset Workspace** &gt; **Software asset analytics** &gt; **Optimization and savings**.
 
 View the licensing optimizations for a publisher by selecting the publisher from the **Publisher** drop-down list.
 
@@ -120,7 +120,3 @@ History of top 10 publishers sorted by highest spend and their corresponding pot
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]

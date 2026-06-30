@@ -22,7 +22,7 @@ Role required: password\_reset\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[password-reset-landing-page|Password Reset]]** &gt; **Credential Stores** and then open the credential store record.
+1.  Navigate to **All** &gt; **Password Reset** &gt; **Credential Stores** and then open the credential store record.
 
 2.  In the header bar, click **Save and Test Connection**.
 
@@ -31,6 +31,3 @@ Role required: password\_reset\_admin
 
 **Parent Topic:**[Credential stores for Password Reset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/c_CredentialStores.md)
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]

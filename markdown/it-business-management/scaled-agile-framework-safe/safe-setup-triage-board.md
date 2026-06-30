@@ -24,7 +24,7 @@ Role required: safe\_scrum\_master
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[SAFeoverview|Scaled Agile Framework \(SAFe\)]]** &gt; **SAFe Board**.
+1.  Navigate to **All** &gt; **Scaled Agile Framework \(SAFe\)** &gt; **SAFe Board**.
 
 2.  Select the **Backlog** tab.
 
@@ -55,6 +55,3 @@ Role required: safe\_scrum\_master
 
 **Parent Topic:**[SAFe — Unified Backlog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/safeunified-backlog.md)
 
-## Related
-
-- [[SAFeoverview|Scaled Agile Framework \(SAFe\)]]

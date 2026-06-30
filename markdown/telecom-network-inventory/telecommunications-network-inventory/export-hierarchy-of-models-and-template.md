@@ -22,7 +22,7 @@ Role required: sn\_ni\_core.inventory\_admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then go to any model or inventory template.
 
@@ -63,6 +63,3 @@ The selected model or inventory template with all related records is downloaded 
 
 **Parent Topic:**[Import models and templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/import-models-and-templates.md)
 
-## Related
-
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]

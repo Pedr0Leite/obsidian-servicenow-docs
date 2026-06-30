@@ -14,7 +14,7 @@ breadcrumb: [Azure DevOps, Integrate, DevOps Change Velocity, IT Service Managem
 
 # Onboard Azure DevOps to DevOps Change Velocity — Classic
 
-Create an Azure DevOps tool record in [[devops-landing-page-new|DevOps Change Velocity]] to connect, discover, and import Azure DevOps tool data.
+Create an Azure DevOps tool record in DevOps Change Velocity to connect, discover, and import Azure DevOps tool data.
 
 ## Before you begin
 
@@ -131,7 +131,7 @@ In the **Tool credential** field, select an OAuth 2.0 tool credential record.**N
     -   Other DevOps roles: Can view the tool.
     **Note:** Only groups containing users with DevOps roles are available for selection in the **Maintained by** field.
 
-    The **All App Owners can view and associate tool objects to [[dex-workspace-application-tab|applications]]** option becomes available for selection if you choose to restrict access to the tool. This option enables all users having the DevOps App Owner role to access the tool. If selected, they’ll be able to view, associate, discover, import historical data, and modify pipeline steps \(if applicable\) of the tool's objects.
+    The **All App Owners can view and associate tool objects to applications** option becomes available for selection if you choose to restrict access to the tool. This option enables all users having the DevOps App Owner role to access the tool. If selected, they’ll be able to view, associate, discover, import historical data, and modify pipeline steps \(if applicable\) of the tool's objects.
 
 7.  Discover tool objects, including existing application plans \(projects associated with the tool\), repositories, orchestration tasks, and pipelines.
 
@@ -151,7 +151,7 @@ In the **Tool credential** field, select an OAuth 2.0 tool credential record.**N
 
         **Note:**
 
-        -   The step to enter the integration user name and password is required to configure only when [[devops-config-landing-page|DevOps Config]] is installed or the **This property decides whether to create a Generic Connection on configure operation for Azure DevOps** property is enabled. If this step is not required, webhooks are configured using token-based authentication.
+        -   The step to enter the integration user name and password is required to configure only when DevOps Config is installed or the **This property decides whether to create a Generic Connection on configure operation for Azure DevOps** property is enabled. If this step is not required, webhooks are configured using token-based authentication.
         -   When DevOps Config is installed or the Generic Connection on configure operation for Azure DevOps property is enabled, you can regenerate token \(auto-configure with new token\) from the workspace UI only, which will update integration user password. When DevOps Config is not installed, token can be regenerated from both the workspace and classic UI for token based authentication. Re-generate your token periodically for better security.
     **Note:** For plans, the **Track** field is automatically set to **True**.
 
@@ -198,8 +198,3 @@ For Azure pipelines, [Model an Azure pipeline in DevOps](https://raw.githubuserc
 
 **Parent Topic:**[Azure DevOps integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/azure-devops-integration-dev-ops.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[dex-workspace-application-tab|Applications]]
-- [[devops-config-landing-page|DevOps Config]]

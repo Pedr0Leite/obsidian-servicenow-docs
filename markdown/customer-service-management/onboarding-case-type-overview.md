@@ -16,7 +16,7 @@ Agents can use the onboarding case type to capture the details when onboarding c
 
 The onboarding case type includes a playbook that provides step-by-step guidance through the lifecycle of the onboarding process.
 
-Onboarding cases use the ONB prefix in the case number. For example, ONB0001007. Onboarding cases appear in the Onboarding Cases module in the following [[migration-lists|lists]]:
+Onboarding cases use the ONB prefix in the case number. For example, ONB0001007. Onboarding cases appear in the Onboarding Cases module in the following lists:
 
 -   My Onboarding Cases
 -   All Onboarding Cases
@@ -29,7 +29,7 @@ When creating a case, agents can select **Customer Onboarding** from the list of
 
 Customer service agents can create cases to onboard new customers or to onboard existing customers for new products.
 
-The onboarding [[r_CustomerServiceCaseForm|case form]] includes the **New customer** check box. Agents can enable this check box to display the New Customer Information section on the Case form. This form section includes fields that you can use to collect information and create a customer record.
+The onboarding case form includes the **New customer** check box. Agents can enable this check box to display the New Customer Information section on the Case form. This form section includes fields that you can use to collect information and create a customer record.
 
 **Note:** A new customer doesn’t have an existing account, contact, or consumer record.
 
@@ -188,8 +188,3 @@ The case is closed.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[migration-lists|Lists]]
-- [[r_CustomerServiceCaseForm|Case form]]

@@ -14,7 +14,7 @@ breadcrumb: [Security Operations]
 
 # Threat Intelligence Security Center
 
-The Threat Intelligence Security Center \(TISC\) platform provides technology solution for aggregation, management and operationalization of [[threat-intel-landing-page|threat intelligence]].
+The Threat Intelligence Security Center \(TISC\) platform provides technology solution for aggregation, management and operationalization of threat intelligence.
 
 ## Get started
 
@@ -22,7 +22,7 @@ Click on a tile to get started.
 
 <table id="table_ekc_yly_bbc" class="nav-card"><tbody><tr><td>
 
-[Explore\[Omitted image "bus-[[threat-intelligence-security-center-overview|explore]].svg"\] Alt text:Learn how Threat Intelligence Security Center can help you with its key features and benefits.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/threat-intelligence-security-center-overview.md)
+[Explore\[Omitted image "bus-explore.svg"\] Alt text:Learn how Threat Intelligence Security Center can help you with its key features and benefits.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/threat-intelligence-security-center-overview.md)
 
 </td><td>
 
@@ -30,7 +30,7 @@ Click on a tile to get started.
 
 </td><td>
 
-[Integrate\[Omitted image "bus-integration-and-apis.svg"\] Alt text:[[integrating-threat-intelligence-security-center|Integrate]] with Threat Intelligence Security Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/integrating-threat-intelligence-security-center.md)
+[Integrate\[Omitted image "bus-integration-and-apis.svg"\] Alt text:Integrate with Threat Intelligence Security Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/integrating-threat-intelligence-security-center.md)
 
 </td></tr><tr><td>
 
@@ -38,7 +38,7 @@ Click on a tile to get started.
 
 </td><td>
 
-[Use\[Omitted image "bus-threat-intelligence-source.svg"\] Alt text:Manage your [[threat-intelligence-security-center-library|Threat Intelligence Security Center Library]] and objects.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/threat-intelligence-security-center-library.md)
+[Use\[Omitted image "bus-threat-intelligence-source.svg"\] Alt text:Manage your Threat Intelligence Security Center Library and objects.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/threat-intelligence-security-center-library.md)
 
 </td><td>
 
@@ -72,9 +72,3 @@ Visit the [Security Incident Response forum on the ServiceNow Community.](https:
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[threat-intelligence-security-center-overview|Explore]]
-- [[integrating-threat-intelligence-security-center|Integrate]]
-- [[threat-intelligence-security-center-library|Threat Intelligence Security Center Library]]

@@ -22,7 +22,7 @@ Role required: it\_project\_manager
 
 ## Procedure
 
--   To add journal fields to a [[create-a-project-form|project form]]:
+-   To add journal fields to a project form:
 
     1.  [Configure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md) any project form to show **Comments** and **Work notes**.
 
@@ -56,6 +56,3 @@ Role required: it\_project\_manager
 
 [Update a project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_UpdateAProjectInProgress.md)
 
-## Related
-
-- [[create-a-project-form|Project form]]

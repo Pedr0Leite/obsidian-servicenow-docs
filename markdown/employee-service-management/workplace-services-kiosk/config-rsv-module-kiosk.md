@@ -14,16 +14,16 @@ breadcrumb: [Configure, Workplace Services Kiosk, Workplace Service Delivery, Em
 
 # Configure Reservable Module for kiosk reservation
 
-Configure the Reservable Module for [[workplace-services-kiosk|Workplace Services Kiosk]] to enable employees and guests to make reservations. Employees and guests can find available spaces on the kiosk map and make reservations.
+Configure the Reservable Module for Workplace Services Kiosk to enable employees and guests to make reservations. Employees and guests can find available spaces on the kiosk map and make reservations.
 
 ## Before you begin
 
 Install and configure the following:
 
--   [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
+-   Workplace Reservation Management
 -   Workplace Services Kiosk
--   [[workplace-central-feat|Workplace Central]]
--   Workplace [[Indoor-mapping|Indoor Mapping]]
+-   Workplace Central
+-   Workplace Indoor Mapping
 -   Workplace CoreWorkplace Space Management
 
 Role required: admin
@@ -117,7 +117,7 @@ Reservable quantity field
 
 </td><td>
 
-Reservable quantity for workplace spaces. The **Reservable Quantity** field determines the number of times a container can be booked within a specific reservation time period. This setting provides with flexibility in setting up space reservations without out the need to create individual space records for reservation. For example, if you select **Reservable Quantity**, the container can be reserved as many times as the combined reservable quantity values of all spaces within that container. The reservable quantity depends on the number of spaces provided in the Capacity column of the [[workplace-safety-mgmt-hr|Workplace Core]] Space table.
+Reservable quantity for workplace spaces. The **Reservable Quantity** field determines the number of times a container can be booked within a specific reservation time period. This setting provides with flexibility in setting up space reservations without out the need to create individual space records for reservation. For example, if you select **Reservable Quantity**, the container can be reserved as many times as the combined reservable quantity values of all spaces within that container. The reservable quantity depends on the number of spaces provided in the Capacity column of the Workplace Core Space table.
 
 </td></tr></tbody>
 </table>4.  Select the **Reservable Module Configuration** tab.
@@ -187,7 +187,7 @@ Min duration
 
 </td><td>
 
-Option to specify the minimum reservation duration of the reservable module. When you try to [[reservation-portal|make a reservation]] beyond the Min duration value, an error message is on the shown on the Kiosk map.
+Option to specify the minimum reservation duration of the reservable module. When you try to make a reservation beyond the Min duration value, an error message is on the shown on the Kiosk map.
 
 </td></tr><tr><td>
 
@@ -203,7 +203,7 @@ Show as
 
 </td><td>
 
-Option to specify the status of the reservation shown on the employee's calendar when a reservation is synchronized. This field appears only if [[workplace-calendar-sync-feat|Workplace Calendar synchronization]] is installed. -   **Busy**: The reservation is displayed in the Employee's calendar with a Busy status. The employee's calendar is blocked during the reservation duration.
+Option to specify the status of the reservation shown on the employee's calendar when a reservation is synchronized. This field appears only if Workplace Calendar synchronization is installed. -   **Busy**: The reservation is displayed in the Employee's calendar with a Busy status. The employee's calendar is blocked during the reservation duration.
 -   **Free**: The reservation is displayed in the Employee's calendar with a Free status. The employee's calendar won’t be blocked during the reservation duration.
 
 
@@ -214,7 +214,7 @@ Option to specify the status of the reservation shown on the employee's calendar
 
 6.  After configuring the Kiosk Reservable Module, navigate to **Workspaces** &gt; **Workplace Central**.
 
-7.  Select the [[kiosk-indoor-mapping|Kiosk Indoor Mapping]] icon \(\[Omitted image "kiosk-indoor-mapping-icon.png"\] Alt text: Kiosk Indoor Mapping icon.\) and configure the default map configuration for the Kiosk Reservable Module that you created \(see Step 4\).
+7.  Select the Kiosk Indoor Mapping icon \(\[Omitted image "kiosk-indoor-mapping-icon.png"\] Alt text: Kiosk Indoor Mapping icon.\) and configure the default map configuration for the Kiosk Reservable Module that you created \(see Step 4\).
 
     Kiosk default map configuration enables employees to select the Kiosk Reservable Module and assign spaces configured in the reservable module to it. Employees and guests can search for spaces and make reservations on the **Kiosk Map**. For more information, see [Configure map features for kiosk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/config-map-features.md).
 
@@ -227,13 +227,3 @@ Option to specify the status of the reservation shown on the employee's calendar
 
 **Parent Topic:**[Configuring Workplace Services Kiosk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/configure-workplace-services-kiosk.md)
 
-## Related
-
-- [[workplace-services-kiosk|Workplace Services Kiosk]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-central-feat|Workplace Central]]
-- [[Indoor-mapping|Indoor Mapping]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[reservation-portal|Make a reservation]]
-- [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]
-- [[kiosk-indoor-mapping|Kiosk Indoor Mapping]]

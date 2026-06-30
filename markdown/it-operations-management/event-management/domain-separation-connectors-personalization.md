@@ -14,7 +14,7 @@ breadcrumb: [Event Management Integrations, Configuring Event Management, Event 
 
 # Event Management Connectors domain personalization
 
-Create events in different domains for all [[c_EM|Event Management]] connectors using just a single connector instance by personalizing domain separation of Event Management connectors.
+Create events in different domains for all Event Management connectors using just a single connector instance by personalizing domain separation of Event Management connectors.
 
 ## How the domain is identified
 
@@ -52,6 +52,3 @@ Configure push connectors to personalize domain separation of events so you can 
 
 [Domain separation and Event Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/domain-separation-event-management.md)
 
-## Related
-
-- [[c_EM|Event Management]]

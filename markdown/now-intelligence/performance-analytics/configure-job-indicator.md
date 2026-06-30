@@ -28,7 +28,7 @@ Alternatively, you might need to collect only breakdown data and not to calculat
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]] Administration** &gt; **Data Collector** &gt; **Jobs**.
+1.  Navigate to **All** &gt; **Platform Analytics Administration** &gt; **Data Collector** &gt; **Jobs**.
 
 2.  Open the job for which you want to configure a job indicator.
 
@@ -90,6 +90,3 @@ Select the check box to collect data for the indicator itself \(the default\). C
 
 **Parent Topic:**[Collecting indicator scores](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_ClctData.md)
 
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

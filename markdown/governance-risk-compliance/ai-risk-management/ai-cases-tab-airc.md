@@ -15,13 +15,13 @@ breadcrumb: [AI Risk and Compliance workspace, Explore, AI Risk and Compliance, 
 
 # AI cases tab
 
-Track, monitor, and analyze your AI case workflows, identify your workflow bottlenecks, and monitor your accountability of your AI-related risks by using the [[ai-risk-and-compliance|AI risk and compliance]] dashboard. As an AI steward, you can also use the dashboard to track the status and trends of your AI-related inquiries.
+Track, monitor, and analyze your AI case workflows, identify your workflow bottlenecks, and monitor your accountability of your AI-related risks by using the AI risk and compliance dashboard. As an AI steward, you can also use the dashboard to track the status and trends of your AI-related inquiries.
 
 ## AI cases
 
 The **AI cases** tab on the AI risk and compliance dashboard provides the key metrics, trends, and actionable tasks that you can use to track your AI risks, case activities, compliance tracking, and governance enforcement. You can get case-level insights, task-level tracking, and accountability for your responsibilities and progress. As an AI steward, you can report a case when a violation is found. An AI analyst also follows the case and comes up with a resolution.
 
-**Note:** Dashboards in the [[ai-risk-and-compliance-workspace|AI Risk and Compliance Workspace]] \(Risk and Compliance, Operations, and AI Cases\) display data for **Managed** [[ai-assets-airc|AI assets]] only. AI assets that are marked as **Unmanaged** are excluded from dashboard widgets, metrics, and summary counts, but remain visible in inventory and list views. If you have the AI steward \[sn\_ai\_governance\_ai\_steward\] role, you can mark assets as Managed or Unmanaged. For more information, see [Managed and unmanaged AI assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/assets-list-managing-and-unmanaging-assets.md).
+**Note:** Dashboards in the AI Risk and Compliance Workspace \(Risk and Compliance, Operations, and AI Cases\) display data for **Managed** AI assets only. AI assets that are marked as **Unmanaged** are excluded from dashboard widgets, metrics, and summary counts, but remain visible in inventory and list views. If you have the AI steward \[sn\_ai\_governance\_ai\_steward\] role, you can mark assets as Managed or Unmanaged. For more information, see [Managed and unmanaged AI assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/assets-list-managing-and-unmanaging-assets.md).
 
 You can drill down into the data on each of the following widgets to learn more about an AI case.
 
@@ -41,7 +41,7 @@ You can drill down into the data on each of the following widgets to learn more 
     -   Overdue: AI cases that are past the due date.
     -   Due in 7 days: AI cases due in the next 7 days.
     -   Unassigned: AI cases that aren't assigned to anyone.
-    Attributes of each case, such as Name, Sub-type, Case analyst, Priority, and State are available in a [[list-view-uib-ws|list view]]. Select each card to view that category of AI cases in a list view.
+    Attributes of each case, such as Name, Sub-type, Case analyst, Priority, and State are available in a list view. Select each card to view that category of AI cases in a list view.
 
 -   **Trends**
 
@@ -63,7 +63,7 @@ You can drill down into the data on each of the following widgets to learn more 
         -   Counts of issues that are linked to AI cases by their states like New, Review, or Responds.
         -   Counts of issues that are linked to AI cases by additional details like Overdue, Due in 7 days, or Unassigned.
 
-The [**Create AI case**](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/create-ai-case-in-the-ai-risk-and-compliance-workspace.md) button enables you to initiate a new AI case record within the monitoring dashboard. This action is typically used to document, investigate, or track issues, risks, or compliance concerns that are related to [[ai-model-airc|AI models]] or [[dataset-airc|datasets]]. Use the [**Create issue**](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/create-ai-issue-in-the-ai-risk-and-compliance-workspace.md) button to create an issue related to AI cases.
+The [**Create AI case**](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/create-ai-case-in-the-ai-risk-and-compliance-workspace.md) button enables you to initiate a new AI case record within the monitoring dashboard. This action is typically used to document, investigate, or track issues, risks, or compliance concerns that are related to AI models or datasets. Use the [**Create issue**](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/create-ai-issue-in-the-ai-risk-and-compliance-workspace.md) button to create an issue related to AI cases.
 
 The following example shows the **AI cases** tab on the AI risk and compliance dashboard.
 
@@ -118,11 +118,3 @@ The following example shows the **Inquiries** tab on the AI risk and compliance 
 
 [AI cases and inquiries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/airc-cases-inquiries.md)
 
-## Related
-
-- [[ai-risk-and-compliance|AI Risk and Compliance]]
-- [[ai-risk-and-compliance-workspace|AI Risk and Compliance workspace]]
-- [[ai-assets-airc|AI assets]]
-- [[list-view-uib-ws|List view]]
-- [[ai-model-airc|AI models]]
-- [[dataset-airc|Datasets]]

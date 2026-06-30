@@ -27,11 +27,11 @@ Role required: sn\_fsm\_planned\_wm.planned\_work\_admin
 
 ## About this task
 
-By default, [[planned-work-management|Planned Work Management]] generates only the next immediate work order for a schedule. When forecasting is enabled, the system automatically generates multiple future work orders beyond the next scheduled execution, up to the configured number of days in the future.
+By default, Planned Work Management generates only the next immediate work order for a schedule. When forecasting is enabled, the system automatically generates multiple future work orders beyond the next scheduled execution, up to the configured number of days in the future.
 
 This provides long-term visibility into upcoming work and supports proactive planning for technicians, parts, and materials.
 
-The timing of work order generation is controlled using Lead Time and Days in Future to [[generate-work-orders|Generate Work Orders]]. For each schedule occurrence, the system checks whether the current date \(the day on which the job runs\) is later than or same as the date calculated by the formula `Requested Due By date – Lead Time – Days in Future`. When this condition is satisfied, the work order is automatically generated. This ensures that work orders are created neither too early nor too late, and become available at the right time for planning and execution.
+The timing of work order generation is controlled using Lead Time and Days in Future to Generate Work Orders. For each schedule occurrence, the system checks whether the current date \(the day on which the job runs\) is later than or same as the date calculated by the formula `Requested Due By date – Lead Time – Days in Future`. When this condition is satisfied, the work order is automatically generated. This ensures that work orders are created neither too early nor too late, and become available at the right time for planning and execution.
 
 **Note:** The nightly job can be customized. For more information, see [Run a scheduled job to execute a planned work schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/run-schedule-job-planned-work.md).
 
@@ -39,7 +39,7 @@ You can also create planned work orders through the Planned Work Management Work
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fsm-application-landing-page|Field Service Management]]** &gt; **Planned Work Management** &gt; **Plans**.
+1.  Navigate to **All** &gt; **Field Service Management** &gt; **Planned Work Management** &gt; **Plans**.
 
 2.  Open a desired plan from the list of work plans.
 
@@ -52,8 +52,3 @@ You can also create planned work orders through the Planned Work Management Work
 
 A list of work orders is auto-generated for the selected period in future.
 
-## Related
-
-- [[planned-work-management|Planned Work Management]]
-- [[generate-work-orders|Generate work orders]]
-- [[fsm-application-landing-page|Field Service Management]]

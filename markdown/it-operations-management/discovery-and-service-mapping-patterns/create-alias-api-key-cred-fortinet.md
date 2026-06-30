@@ -14,7 +14,7 @@ breadcrumb: [Fortinet firewall and FortiGate VDOM REST-based, Available on-premi
 
 # Create an alias for the API key credential for Fortinet firewall REST-based discovery
 
-Create an alias and add it to an API key credential to discover Fortinet firewalls and FortiGate Virtual Domains \(VDOMs\) through REST-based [[r-discovery|discovery]].
+Create an alias and add it to an API key credential to discover Fortinet firewalls and FortiGate Virtual Domains \(VDOMs\) through REST-based discovery.
 
 ## Before you begin
 
@@ -53,14 +53,10 @@ Role required: discovery\_admin
 
 ## What to do next
 
-[[create-serverless-schedule-fortinet|Create a serverless schedule for Fortinet Firewall REST-based discovery]]. For more information, see [Create a serverless schedule for Fortinet firewall REST-based discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/create-serverless-schedule-fortinet.md).
+Create a serverless schedule for Fortinet Firewall REST-based discovery. For more information, see [Create a serverless schedule for Fortinet firewall REST-based discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/create-serverless-schedule-fortinet.md).
 
 **Related topics**  
 
 
 [Fortinet firewall and FortiGate VDOM REST-based discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/fortinet-fw-vdoms-rest-discovery.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[create-serverless-schedule-fortinet|Create a serverless schedule for Fortinet firewall REST-based discovery]]

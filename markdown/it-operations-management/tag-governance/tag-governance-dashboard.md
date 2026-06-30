@@ -15,13 +15,13 @@ breadcrumb: [Exploring Tag Governance, Tag Governance, ITOM Visibility, IT Opera
 
 # View Tag Governance metrics
 
-View metrics like tag policy coverage, compliance status, and usage trends on the [[tag-governance-insights-dashboard|Tag Governance Insights dashboard]].
+View metrics like tag policy coverage, compliance status, and usage trends on the Tag Governance Insights dashboard.
 
 ## Before you begin
 
 Verify the following:
 
--   To be able to configure reports, log in as a [[landing-page-tag-governance|Tag Governance]] admin \(sn\_itom\_tag.tag\_governance\_admin\).
+-   To be able to configure reports, log in as a Tag Governance admin \(sn\_itom\_tag.tag\_governance\_admin\).
 -   To be able to view reports, log in as a report viewer \(sn\_itom\_tag.tag\_reports\_viewer\).
 -   Tag policies must be configured and audits must be run to populate data. For more information, see [Configure a tag policy for Tag Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/tag-governance/configure-tag-governance-policy.md).
 
@@ -31,7 +31,7 @@ To access the dashboard, navigate to **Tag Governance** &gt; **Dashboard**.
 
 ## Dashboard details
 
-The Tag Governance Insights dashboard displays metrics that help you make data-driven decisions, like identify tag compliance gaps, introduce tag policy adoption initiatives, assess tag compliance status, and more. For example, you can view the least used tags and decide whether they require [[ccg-remediation|remediation]] or deprecation. You can also drill down into each widget to view a list of relevant configuration items \(CIs\) and edit, save, or export them.
+The Tag Governance Insights dashboard displays metrics that help you make data-driven decisions, like identify tag compliance gaps, introduce tag policy adoption initiatives, assess tag compliance status, and more. For example, you can view the least used tags and decide whether they require remediation or deprecation. You can also drill down into each widget to view a list of relevant configuration items \(CIs\) and edit, save, or export them.
 
 **Note:** The dashboard displays results from tag audit runs on discovered CIs from the CMBD CI \[cmdb\_ci\] table.
 
@@ -75,7 +75,7 @@ Displays the overall compliance status of all discovered CIs. The possible statu
 
 Hover over a pie segment to view the total count and percentage of CIs for that category. Select it to view the tag policy health list.
 
-You can filter by [[cloud-accounts|cloud accounts]], datacenters, and policy type for specific results. For example, you can combine filters to view the tag compliance status for virtual machine instances mapped to a specific cloud account in a relevant datacenter.
+You can filter by cloud accounts, datacenters, and policy type for specific results. For example, you can combine filters to view the tag compliance status for virtual machine instances mapped to a specific cloud account in a relevant datacenter.
 
 **Note:** The dashboard fetches cloud account and datacenter records directly from the Tag Compliance Aggregate Counts \[sn\_itom\_tag\_widget\_aggregate\_counts\] table, displaying only cloud accounts and datacenters that have associated compliance CIs.
 
@@ -136,9 +136,3 @@ Displays the least used tags across all CIs.Hover over a bar to view the total c
 </td></tr></tbody>
 </table>For more information about tag audit results and non-compliant CIs, see [Preview and remediate tag audit failures](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/tag-governance/perform-remediations-tag-governance.md).
 
-## Related
-
-- [[tag-governance-insights-dashboard|Tag Governance Insights dashboard]]
-- [[landing-page-tag-governance|Tag Governance]]
-- [[ccg-remediation|Remediation]]
-- [[cloud-accounts|Cloud accounts]]

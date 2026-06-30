@@ -14,7 +14,7 @@ breadcrumb: [Integrating a self-configured bot with Slack workspace, Integrate V
 
 # Create a bot in Slack
 
-You must create a self-configured bot in the targeted workspace in Slack to be able to integrate with the [[virtual-agent-landing-page|Virtual Agent]].
+You must create a self-configured bot in the targeted workspace in Slack to be able to integrate with the Virtual Agent.
 
 ## Before you begin
 
@@ -77,6 +77,3 @@ Role required: none
 
 **Parent Topic:**[Integrating a self-configured bot with Slack workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-integ-single-slack.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

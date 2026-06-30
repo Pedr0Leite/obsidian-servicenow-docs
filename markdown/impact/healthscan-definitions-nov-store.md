@@ -24,7 +24,7 @@ The following definitions have been deprecated for the November 2024 release.
 
 ## Updated definitions
 
-The following definitions have been updated for the November release to improve [[instance-observer-performance|performance]], reduce false positives, and meet the latest coding practices. Some of these definitions will have a positive or negative [[impact-landing-page|impact]] on your customer instance scores.
+The following definitions have been updated for the November release to improve performance, reduce false positives, and meet the latest coding practices. Some of these definitions will have a positive or negative impact on your customer instance scores.
 
 Due to process and technical constraints, a comprehensive impact analysis for the overall score impact could not be fully conducted for customer instances. As a result, there may be potential impact score drops that have not been identified or addressed.
 
@@ -468,7 +468,7 @@ HSD0002371
 
 </td><td>
 
-[[product-adoption|Product Adoption]]: Use CSM to streamline your Customer Service operations
+Product Adoption: Use CSM to streamline your Customer Service operations
 
 </td><td>
 
@@ -537,7 +537,7 @@ Discuss
 
 </td><td>
 
-[[user-experience-insights|User Experience]]
+User Experience
 
 </td><td>
 
@@ -864,12 +864,5 @@ Manageability
 -   Many performance improvements
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[healthscan-definitions|HealthScan definitions]]
+</table>**Parent Topic:**[HealthScan definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/healthscan-definitions.md)
 
-## Related
-
-- [[healthscan-definitions|HealthScan definitions]]
-- [[instance-observer-performance|Performance]]
-- [[impact-landing-page|Impact]]
-- [[product-adoption|Product Adoption]]
-- [[user-experience-insights|User Experience]]

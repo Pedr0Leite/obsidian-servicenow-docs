@@ -14,7 +14,7 @@ breadcrumb: [Proactive Engagement, Digital End-User Experience, IT Service Manag
 
 # Using Proactive Engagement
 
-[[proactive-engagement-landing-page|Proactive Engagement]] helps you in proactive detection of digital issues and provides self-help instructions to resolve them.
+Proactive Engagement helps you in proactive detection of digital issues and provides self-help instructions to resolve them.
 
 -   **[Employee engagement experience through Proactive Engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/proactive-engagement/employee-engagement-experience.md)**  
 This experience details the employee engagement through the Proactive Engagement application.
@@ -29,6 +29,3 @@ The Proactive Engagement application enables you to work in the life-cycle model
 
 **Parent Topic:**[Proactive Engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/proactive-engagement/proactive-engagement-landing-page.md)
 
-## Related
-
-- [[proactive-engagement-landing-page|Proactive Engagement]]

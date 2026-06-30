@@ -62,7 +62,7 @@ journal\_input
 
 </td><td>
 
-Displays and allows the entry of comments about the task record. Each comment is inserted into the **Activity** field. For more information, see [[c_JournalFields|Journal field type]].
+Displays and allows the entry of comments about the task record. Each comment is inserted into the **Activity** field. For more information, see [Journal field type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_JournalFields.md).
 
 </td></tr><tr><td>
 
@@ -90,11 +90,11 @@ assigned\_to
 
 </td><td>
 
-[[reference-email-admin|reference]]
+reference
 
 </td><td>
 
-Specifies the user assigned to complete the task. By default, this field uses a [[c_ReferenceQualifiers|Reference qualifiers]] to only display users with the itil role.
+Specifies the user assigned to complete the task. By default, this field uses a [Reference qualifiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ReferenceQualifiers.md) to only display users with the itil role.
 
  Some applications override the parent reference qualifier to display relevant users. For example, the Service Order and Project Task tables filter users based on their skills.
 
@@ -162,7 +162,7 @@ string
 
 Displays an identifying number for each task record. This field is the display value for the Task table. The system generates this number when the task is created.
 
- To manage number generation, see [[c_ManagingRecordNumbering|Record numbering]].
+ To manage number generation, see [Record numbering](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ManagingRecordNumbering.md).
 
 </td></tr><tr><td>
 
@@ -251,7 +251,7 @@ GUID
 
 </td><td>
 
-Displays the [[c_UniqueRecordIdentifier|Unique record identifier \(sys\_id\)]].
+Displays the [Unique record identifier \(sys\_id\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_UniqueRecordIdentifier.md).
 
 </td></tr><tr><td>
 
@@ -271,7 +271,7 @@ Specifies the type of task, which corresponds to the child class. The system pop
 
 </td></tr><tr><td>
 
-[[c_TimeWorked|Time Worked]]
+Time Worked
 
 </td><td>
 
@@ -299,7 +299,7 @@ glide\_list
 
 </td><td>
 
-Specifies users who receive [[c_EmailNotifications|Email and SMS notifications]] when the record is updated. By default, only the Incident, Change, and Service Catalog applications notify users listed in this field. For other Task-based applications, you must create custom email [[notifications|notifications]] sent to the users listed in this field.
+Specifies users who receive [Email and SMS notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailNotifications.md) when the record is updated. By default, only the Incident, Change, and Service Catalog applications notify users listed in this field. For other Task-based applications, you must create custom email notifications sent to the users listed in this field.
 
 </td></tr><tr><td>
 
@@ -336,13 +336,3 @@ Specifies users who receive [Email and SMS notifications](https://raw.githubuser
 </td></tr></tbody>
 </table>**Parent Topic:**[Task table structure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/task-table-structure.md)
 
-## Related
-
-- [[c_JournalFields|c_JournalFields]]
-- [[c_ReferenceQualifiers|Reference qualifiers]]
-- [[c_ManagingRecordNumbering|Record numbering]]
-- [[c_UniqueRecordIdentifier|Unique record identifier \(sys\_id\)]]
-- [[c_EmailNotifications|Email and SMS notifications]]
-- [[reference-email-admin|Reference]]
-- [[c_TimeWorked|Time worked]]
-- [[notifications|Notifications]]

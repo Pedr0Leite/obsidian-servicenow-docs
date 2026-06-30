@@ -14,7 +14,7 @@ breadcrumb: [Service Catalog in Service Portal, Integrating Service Catalog, Ser
 
 # Add a catalog item to the shopping cart
 
-[[t_AssignItemToAddlCatalogsCategory|Add a catalog item]] or order guide to the shopping cart to store at one place and checkout.
+Add a catalog item or order guide to the shopping cart to store at one place and checkout.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: requester
 
     The Service Portal homepage is displayed.
 
-2.  Select a catalog item or order guide from [[service-catalog|Service Catalog]].
+2.  Select a catalog item or order guide from Service Catalog.
 
 3.  Click the Add to Cart icon \(\[Omitted image "IconAddTocart.png"\] Alt text: Icon to add to cart\) in the Ordering widget.
 
@@ -87,7 +87,7 @@ Role required: requester
 
 15. If required, specify the **Delivery Information** and **Special instructions**.
 
-16. To add one or more attachments for the cart, click the add attachments icon \(\[Omitted image "IconAddAttachmnt.png"\] Alt text: add [[attachment|attachment]] icon\).
+16. To add one or more attachments for the cart, click the add attachments icon \(\[Omitted image "IconAddAttachmnt.png"\] Alt text: add attachment icon\).
 
     You can browse and choose the files, drag the files, or copy and paste them in the Add attachments window.
 
@@ -105,7 +105,7 @@ Role required: requester
 **Related topics**  
 
 
-[Access [[c_ServiceCatalogCategories|Service Catalog categories]] in Service Portal]()
+[Access Service Catalog categories in Service Portal]()
 
 [Add an item to the wish list in Service Portal]()
 
@@ -115,9 +115,3 @@ Role required: requester
 
 [SC Shopping Cart widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/sc-shopping-cart.md)
 
-## Related
-
-- [[t_AssignItemToAddlCatalogsCategory|Add a catalog item]]
-- [[service-catalog|Service Catalog]]
-- [[attachment|Attachment]]
-- [[c_ServiceCatalogCategories|Service catalog categories]]

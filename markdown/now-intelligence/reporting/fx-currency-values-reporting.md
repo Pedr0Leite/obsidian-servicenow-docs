@@ -19,7 +19,7 @@ Manage projects in multiple currencies with FX \(Foreign Exchange\) Currency. Yo
 
 **Note:** You don't have to install a plugin to use FX Currency functionality. It's activated by default.
 
-FX Currency functionality is described in detail in . In the context of [[reporting-landing-page|reporting]], it is important to aggregate on the reference currency which the other currencies are converted to.
+FX Currency functionality is described in detail in . In the context of reporting, it is important to aggregate on the reference currency which the other currencies are converted to.
 
 **Note:** When there are multiple currencies, calculations may not be possible. Change your aggregation source or filter conditions to show the report.
 
@@ -89,6 +89,4 @@ When you try to aggregate costs in multiple currencies by sum or average, there 
 
     In this case, the values are converted to the reference value before calculation and the report is generated. For more information, see Understanding FX Currency values in forms.
 
-## Related
 
-- [[reporting-landing-page|Reporting]]

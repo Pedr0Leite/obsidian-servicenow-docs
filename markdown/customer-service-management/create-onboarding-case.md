@@ -22,7 +22,7 @@ Role required: sn\_customerservice\_agent
 
 Onboarding cases appear in the Onboarding Cases module and use the ONB prefix in the case number. For example, ONB0001007.
 
-If the [[csm-case-type-onboarding|case playbook for onboarding]] is available, you can use the playbook to guide you through the steps that need to be completed to resolve onboarding cases.
+If the case playbook for onboarding is available, you can use the playbook to guide you through the steps that need to be completed to resolve onboarding cases.
 
 ## Procedure
 
@@ -30,7 +30,7 @@ If the [[csm-case-type-onboarding|case playbook for onboarding]] is available, y
 
     |Interface|Description|
     |---------|-----------|
-    |**[[csm-workspaces-configure|CSM Configurable Workspace]]**|From the Interaction form, click **Create Case**.|
+    |**CSM Configurable Workspace**|From the Interaction form, click **Create Case**.|
     |**Platform**|Navigate to: **Customer Service** &gt; **Cases** and click **Create New**.|
 
 2.  Select the case type.
@@ -172,18 +172,12 @@ The name of the consumer being added as an additional member.
 The name of the account being added as an additional member.
 
 </td></tr></tbody>
-</table>5.  Fill in the fields on the [[r_CustomerServiceCaseForm|Case form]].
+</table>5.  Fill in the fields on the Case form.
 
-    For more information and field descriptions, see [[t_CreateACaseFromCustServApp|Create a customer service case]].
+    For more information and field descriptions, see [Create a customer service case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/t_CreateACaseFromCustServApp.md).
 
 6.  Click **Save**.
 
     -   If the **New customer** check box is enabled, the **Account** and **Contact** or **Consumer** fields are not required to save the case.
     -   If the **New customer** check box is disabled, the **Account** and **Contact** or **Consumer** fields are required to save the case.
 
-## Related
-
-- [[t_CreateACaseFromCustServApp|Create a customer service case]]
-- [[csm-case-type-onboarding|Case Playbook for Onboarding]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[r_CustomerServiceCaseForm|Case form]]

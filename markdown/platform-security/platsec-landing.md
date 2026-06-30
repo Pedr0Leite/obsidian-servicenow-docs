@@ -11,13 +11,13 @@ reading_time_minutes: 1
 
 # Secure your instance
 
-[[platsec-sublanding|Platform security]] provides capabilities to secure the instance.
+Platform security provides capabilities to secure the instance.
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
 [ServiceNow Vault \[Omitted image "bus-innovation.svg"\] Alt text: ServiceNow vault](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/servicenow-vault-landing.md)
 
- Use the [[servicenow-vault-landing|ServiceNow Vault]] product set of data security tools that protect sensitive information from unauthorized access, corruption, or theft throughout its entire life cycle.
+ Use the ServiceNow Vault product set of data security tools that protect sensitive information from unauthorized access, corruption, or theft throughout its entire life cycle.
 
 </td><td>
 
@@ -29,7 +29,7 @@ reading_time_minutes: 1
 
 [Platform Privacy \[Omitted image "bus-server.svg"\] Alt text: Platform Privacy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/privacy-landing-page.md)
 
- [[privacy-landing-page|Platform Privacy]] enables you to mask the sensitive date on the instance.
+ Platform Privacy enables you to mask the sensitive date on the instance.
 
 </td></tr><tr><td>
 
@@ -41,7 +41,7 @@ reading_time_minutes: 1
 
 [Access Management \[Omitted image "esg-digital-readiness.svg"\] Alt text: Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-management-landing.md)
 
- [[access-management-landing|Access Management]] enables you to have access to ServiceNow instance securely.
+ Access Management enables you to have access to ServiceNow instance securely.
 
 </td><td>
 
@@ -65,10 +65,3 @@ reading_time_minutes: 1
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[platsec-sublanding|Platform Security]]
-- [[servicenow-vault-landing|ServiceNow Vault]]
-- [[privacy-landing-page|Platform Privacy]]
-- [[access-management-landing|Access Management]]

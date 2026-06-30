@@ -14,13 +14,13 @@ breadcrumb: [Use, Virtual Agent API, Build and deploy, Virtual Agent, Conversati
 
 # Configure multiple provider applications
 
-You can configure multiple provider applications to support AI agents where there are multiple primary bots [[use-virtual-agent-api|using Virtual Agent API]] and you need to distinguish between them.
+You can configure multiple provider applications to support AI agents where there are multiple primary bots using Virtual Agent API and you need to distinguish between them.
 
 ## Before you begin
 
 Role required: admin
 
-Be sure you are in [[virtual-agent-api-landing-page|Virtual Agent API]] application scope.
+Be sure you are in Virtual Agent API application scope.
 
 ## Procedure
 
@@ -88,7 +88,3 @@ Be sure you are in [[virtual-agent-api-landing-page|Virtual Agent API]] applicat
 
 **Parent Topic:**[Using Virtual Agent API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/use-virtual-agent-api.md)
 
-## Related
-
-- [[use-virtual-agent-api|Using Virtual Agent API]]
-- [[virtual-agent-api-landing-page|Virtual Agent API]]

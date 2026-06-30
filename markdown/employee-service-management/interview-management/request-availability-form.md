@@ -38,7 +38,7 @@ Interviewers
 
 </td><td>
 
-Interviewers selected when requesting scheduling preferences. You can select the field to add other members from the [[hiring-tab-concept|hiring]] team to request their scheduling preferences.**Note:** This field is available only when you’re requesting an interviewer's scheduling preferences.
+Interviewers selected when requesting scheduling preferences. You can select the field to add other members from the hiring team to request their scheduling preferences.**Note:** This field is available only when you’re requesting an interviewer's scheduling preferences.
 
 </td></tr><tr><td>
 
@@ -75,6 +75,3 @@ Body text of the email notification.
 </td></tr></tbody>
 </table>**Parent Topic:**[Interview Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/interview-management-reference.md)
 
-## Related
-
-- [[hiring-tab-concept|Hiring]]

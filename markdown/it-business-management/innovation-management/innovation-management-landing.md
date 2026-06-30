@@ -14,7 +14,7 @@ breadcrumb: [Project Portfolio Management, Strategic Portfolio Management]
 
 # Innovation Management
 
-The Innovation Management enables you to gather and [[evaluate-ideas-actions|evaluate ideas]] efficiently, and to quickly identify and process the ideas with the greatest potential for implementation.
+The Innovation Management enables you to gather and evaluate ideas efficiently, and to quickly identify and process the ideas with the greatest potential for implementation.
 
 ## Get started
 
@@ -48,7 +48,7 @@ The Innovation Management enables you to gather and [[evaluate-ideas-actions|eva
 -   **[Exploring Innovation Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/exploring-innovation-management.md)**  
 The Innovation Management application is a central repository to gather and evaluate ideas to determine which ideas are most likely to be implemented.
 -   **[Configuring Innovation Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/configuring-innovation-management.md)**  
-Configure Innovation Management application to analyze, track, and promote ideas to a task, demand, or project. This application is available with [[r_ITBusinessManagement|Strategic Portfolio Management]].
+Configure Innovation Management application to analyze, track, and promote ideas to a task, demand, or project. This application is available with Strategic Portfolio Management.
 -   **[Managing ideas using Innovation Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/using-innovation-management.md)**  
 Use the features and capabilities of Innovation Management to capture, analyze, and manage your ideas. As an idea manager, manage submitted ideas by reviewing them, making modifications, or deleting outdated ones, identifying duplicates, and updating and tracking their state.
 -   **[Managing Idea Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/idea-portal.md)**  
@@ -62,7 +62,3 @@ Reference information to provide additional details about Innovation Management 
 
 **Parent Topic:**[Project Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/c_ProjectPortfolioSuite.md)
 
-## Related
-
-- [[evaluate-ideas-actions|Evaluate ideas]]
-- [[r_ITBusinessManagement|Strategic Portfolio Management]]

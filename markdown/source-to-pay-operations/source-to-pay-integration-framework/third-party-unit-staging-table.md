@@ -20,7 +20,7 @@ The Third Party Unit \[sn\_spend\_intg\_third\_party\_uom\] staging table tempor
 |-----|---------|-----------|
 |Provider|Reference|Reference to the Third Party Registration table.|
 |Third party unit|String|Name of the third-party unit.|
-|Unit|Reference|Reference to the [[kpi-unit-table|Unit table]].|
+|Unit|Reference|Reference to the Unit table.|
 
 **Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/spo-inbound-staging-tables.md)
 
@@ -99,6 +99,3 @@ The Third Party Unit \[sn\_spend\_intg\_third\_party\_uom\] staging table tempor
 
 [Unit of Measure inbound staging table]()
 
-## Related
-
-- [[kpi-unit-table|Unit table]]

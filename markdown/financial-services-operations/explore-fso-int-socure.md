@@ -12,7 +12,7 @@ breadcrumb: [Socure, Integrate, Financial Services Operations \(FSO\)]
 
 # Exploring Financial Services Operations Integration with Socure
 
-[[fso-overview|Financial Services]] integration with Socure enables you to embed the Socure APIs in workflows and streamline your risk analysis processes.
+Financial Services integration with Socure enables you to embed the Socure APIs in workflows and streamline your risk analysis processes.
 
 ## Architectural Overview
 
@@ -54,15 +54,10 @@ FSO Layer
 
 </td><td>
 
-Layer that contains the existing [[fso-kyc-landing-page|Financial Services Know Your Customer]] service. Additional tables and service definitions are added to this service to store customer-related identity verification data that is returned by Socure.The service definitions are as follows:
+Layer that contains the existing Financial Services Know Your Customer service. Additional tables and service definitions are added to this service to store customer-related identity verification data that is returned by Socure.The service definitions are as follows:
 
 -   Socure-CDD–Customer
 -   Socure-CDD–Contact
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[fso-overview|Financial Services]]
-- [[fso-kyc-landing-page|Financial Services Know Your Customer]]

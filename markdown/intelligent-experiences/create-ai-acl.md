@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to [[now-assist-global-navigation|navigation]] filter and enter **Access Control List**.
+1.  Navigate to navigation filter and enter **Access Control List**.
 
 2.  Select **New**.
 
@@ -43,9 +43,5 @@ Role required: admin
     Confirm that a record-type ACL isn't created in error, instead of an AI ACL \(invoked from AI operation\). If the staging table still shows security\_compatible = false after publishing, verify the ACL type.
 
 
-**Parent Topic:**[[mcp-server-console-reference|MCP Server Console reference]]
+**Parent Topic:**[MCP Server Console reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/mcp-server-console-reference.md)
 
-## Related
-
-- [[mcp-server-console-reference|MCP Server Console reference]]
-- [[now-assist-global-navigation|Navigation]]

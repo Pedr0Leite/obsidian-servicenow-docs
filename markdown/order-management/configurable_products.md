@@ -12,13 +12,13 @@ breadcrumb: [CPQ app, Configure, price, quote apps, Configure, Sales Customer Re
 
 # Setting up configurable products
 
-A configurable product links a blueprint to the configuration experience for the product. You can set up [[configurable-products-explore|configurable products]] in headless environments using CSV uploads or in Salesforce-integrated environments through product associations.
+A configurable product links a blueprint to the configuration experience for the product. You can set up configurable products in headless environments using CSV uploads or in Salesforce-integrated environments through product associations.
 
-Configurable products serve as the bridge between CPQ [[blueprints|blueprints]] and the configuration experiences that end users interact with. The setup process varies depending on your environment type.
+Configurable products serve as the bridge between CPQ blueprints and the configuration experiences that end users interact with. The setup process varies depending on your environment type.
 
 ## Headless environment setup
 
-In headless environments, configurable products link blueprints to configurations that launch when end users select products. You set up configurable products by uploading a CSV file with product information through the Products tab in the [[cpq-utilities|Utilities]] section of the CPQ navigation pane. When you set the "configurable" field to TRUE in the CSV file, the configurable product is automatically created in the CPQ environment.
+In headless environments, configurable products link blueprints to configurations that launch when end users select products. You set up configurable products by uploading a CSV file with product information through the Products tab in the Utilities section of the CPQ navigation pane. When you set the "configurable" field to TRUE in the CSV file, the configurable product is automatically created in the CPQ environment.
 
 ## Salesforce integrated environment setup
 
@@ -34,17 +34,9 @@ Multiple Salesforce Product2 records can be linked to one blueprint, but a confi
 **Related topics**  
 
 
-[[cpq-set-up-a-configurable-product-in-a-headless-environment|Set up a configurable product in a headless environment]]
+[Set up a configurable product in a headless environment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-set-up-a-configurable-product-in-a-headless-environment.md)
 
-[[cpq-set-up-a-configurable-product-in-a-salesforce-integrated-environment|Set up a configurable product in a Salesforce-integrated environment]]
+[Set up a configurable product in a Salesforce-integrated environment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-set-up-a-configurable-product-in-a-salesforce-integrated-environment.md)
 
-[[blueprints_101|Set up blueprints]]
+[Set up blueprints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/blueprints_101.md)
 
-## Related
-
-- [[cpq-set-up-a-configurable-product-in-a-headless-environment|Set up a configurable product in a headless environment]]
-- [[cpq-set-up-a-configurable-product-in-a-salesforce-integrated-environment|Set up a configurable product in a Salesforce-integrated environment]]
-- [[blueprints_101|Set up blueprints]]
-- [[configurable-products-explore|Configurable products]]
-- [[blueprints|Blueprints]]
-- [[cpq-utilities|Utilities]]

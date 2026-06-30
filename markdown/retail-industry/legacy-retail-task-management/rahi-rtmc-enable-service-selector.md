@@ -43,8 +43,5 @@ Role required: admin
 
 ## Result
 
-The service selector is now active within the CSM/FSM Configurable Workspace for use with [[rahi-retail-task-management-overview|Retail Task Management]] Core.
+The service selector is now active within the CSM/FSM Configurable Workspace for use with Retail Task Management Core.
 
-## Related
-
-- [[rahi-retail-task-management-overview|Retail Task Management]]

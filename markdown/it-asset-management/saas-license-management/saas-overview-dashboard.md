@@ -16,9 +16,9 @@ breadcrumb: [SaaS License Management, Software Asset Management, IT Asset Manage
 
 Optimize how much your organization spends on SaaS and SSO licensing by analyzing the subscription usage, cost, and compliance of your SaaS applications and SSO providers using the SaaS Overview dashboard.
 
-**Important:** The SaaS Overview dashboard is available in both the [[c_SoftwareAssetMgmt|Software Asset Management]] classic application and the [[sam-workspace|Software Asset Workspace]]. This topic provides information on the SaaS Overview dashboard in the Software Asset Management classic application. For information on the SaaS Overview dashboard in the Software Asset Workspace, see [SaaS overview dashboard in workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/saas-dashboard-workspace.md).
+**Important:** The SaaS Overview dashboard is available in both the Software Asset Management classic application and the Software Asset Workspace. This topic provides information on the SaaS Overview dashboard in the Software Asset Management classic application. For information on the SaaS Overview dashboard in the Software Asset Workspace, see [SaaS overview dashboard in workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/saas-dashboard-workspace.md).
 
-The [[engineering-overview-dashboard|Engineering License Overview dashboard]] is no longer available for new Australia users who have activated the Software Asset Management Professional \(com.snc.samp\) plugin or upgraded to Australia without activating the Software Asset Management Professional \(com.snc.samp\) plugin prior to Australia.
+The Engineering License Overview dashboard is no longer available for new Australia users who have activated the Software Asset Management Professional \(com.snc.samp\) plugin or upgraded to Australia without activating the Software Asset Management Professional \(com.snc.samp\) plugin prior to Australia.
 
 -   If you activated the Software Asset Management Professional \(com.snc.samp\) plugin prior to Australia but didn't activate the Workspace plugin \(com.sn\_sam\_workspace\), you have access to this dashboard.
 -   If you activated the Software Asset Workspace \(sn\_sam\_workspace\) store application after upgrading to Zurich, you won’t be able to access this dashboard from the **Software Asset** navigation menu in your instance. You can however access this dashboard from the **Dashboards** navigation menu.
@@ -91,7 +91,7 @@ Snapshot of Last Meaningful Activity
 
 </td><td>
 
-Distribution of users based on their subscription software usage behavior. Use this data to identify the users with the highest software usage and determine the most appropriate threshold for your [[sw-reclamation-rules|software reclamation rules]]. This report displays the data for the last 30 days, 30–60 days, 60–90 days, and 90–120 days.
+Distribution of users based on their subscription software usage behavior. Use this data to identify the users with the highest software usage and determine the most appropriate threshold for your software reclamation rules. This report displays the data for the last 30 days, 30–60 days, 60–90 days, and 90–120 days.
 
 </td></tr><tr><td>
 
@@ -161,9 +161,3 @@ Potential cost saved for each subscription profile if you reclaim unused subscri
 
 [Subscription exclusions for SaaS and SSO applications]()
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[engineering-overview-dashboard|Engineering License Overview dashboard]]
-- [[sw-reclamation-rules|Software reclamation rules]]

@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_SystemMailboxes|System Mailboxes]]** &gt; **Administration** &gt; **Filters**.
+1.  Navigate to **All** &gt; **System Mailboxes** &gt; **Administration** &gt; **Filters**.
 
 2.  Click **New**.
 
@@ -34,7 +34,7 @@ Role required: admin
     |Active|Option to activate the email filter.|
     |Short description|Description of what the filter does.|
     |Conditions|Conditions to define which emails to filter.|
-    |Condition script|Script to define which emails to filter. Use this script to access other tables, variables, or methods. For example, the condition script for the Ignore VCAL filter looks for the [[hs-results|results]] of the EmailUtils script include, which detects vCalendar attachments.|
+    |Condition script|Script to define which emails to filter. Use this script to access other tables, variables, or methods. For example, the condition script for the Ignore VCAL filter looks for the results of the EmailUtils script include, which detects vCalendar attachments.|
     |Action script|Script to define additional behavior to be performed when the filter condition evaluates to true. This might include an email action not included in the default filter actions. In the base system, the action script is used to produce the error string that is published to the email log \(**System Logs** &gt; **Email**\).|
 
 4.  Right-click in the header bar and select **Save** from the context menu.
@@ -47,15 +47,8 @@ Role required: admin
 
     The two choices in the base system are: Mark as Ignored and Move to Junk. You can use the Action script to perform additional email tasks.
 
-    **Note:** Before creating additional email actions with a script, see [[c_InboundEmailActions|Inbound Email Actions]]. Like business rules, [[actions-inbound-email|inbound email actions]] use both conditions and scripts and can provide a number of useful actions on emails the instance receives.
+    **Note:** Before creating additional email actions with a script, see [Inbound Email Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_InboundEmailActions.md). Like business rules, inbound email actions use both conditions and scripts and can provide a number of useful actions on emails the instance receives.
 
 
-**Parent Topic:**[[c_EmailFilters|Email filters]]
+**Parent Topic:**[Email filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailFilters.md)
 
-## Related
-
-- [[c_InboundEmailActions|Inbound email actions]]
-- [[c_EmailFilters|Email filters]]
-- [[c_SystemMailboxes|System mailboxes]]
-- [[hs-results|Results]]
-- [[actions-inbound-email|Inbound email actions]]

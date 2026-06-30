@@ -22,7 +22,7 @@ Role required: sn\_lg\_ops.legal\_user
 
 ## Procedure
 
-1.  Open the [[mobile-employee-experience|Now Mobile app]] on your mobile device.
+1.  Open the Now Mobile app on your mobile device.
 
 2.  In the navigation bar, tap **Support**.
 
@@ -44,6 +44,4 @@ Role required: sn\_lg\_ops.legal\_user
 
 8.  Tap **Close** to return to the list of service items.
 
-## Related
 
-- [[mobile-employee-experience|Now Mobile app]]

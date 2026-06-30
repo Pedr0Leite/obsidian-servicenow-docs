@@ -18,7 +18,7 @@ Create and manage major incidents in Service Operations Workspace.
 
 ## Major Incident Management overview
 
-\[Omitted video\] Description: Introduction to Major [[c_IncidentManagement|Incident Management]]
+\[Omitted video\] Description: Introduction to Major Incident Management
 
 \[Omitted image "mim\_sow\_record\_page\_new.png.png"\] Alt text: Major incident record
 
@@ -32,8 +32,8 @@ The definition of what constitutes a major incident must be determined based on 
 
 The major incident manager \(major\_incident\_manager\) user role is available in the base system and enables you to manage and resolve major incidents. As a major incident manager, you can do the following:
 
--   [[promote-major-incident-sow|Promote a major incident]] candidate to a major incident.
--   [[create-a-major-incident|Create a major incident]].
+-   Promote a major incident candidate to a major incident.
+-   Create a major incident.
 -   Directly promote an incident to a major incident without going through the proposal process.
 
 ## Major incident creation
@@ -41,7 +41,7 @@ The major incident manager \(major\_incident\_manager\) user role is available i
 A major incident is created or promoted from a major incident candidate. A major incident candidate can be created from the incident record page in Service Operations Workspace in the following ways:
 
 -   Propose an incident as a major incident candidate.
--   [[create-major-incident-candidate|Create a major incident candidate]].
+-   Create a major incident candidate.
 -   Use major incident trigger rules to propose an incident as a major incident candidate or promote directly to a major incident automatically.
 
 ## Major incident response and handling
@@ -91,9 +91,3 @@ Manage a major incident record with a playbook or the various tabs on the major 
 
 [Resetting password using Service-desk assisted Password Reset in Service Operations Workspace]()
 
-## Related
-
-- [[c_IncidentManagement|Incident Management]]
-- [[promote-major-incident-sow|Promote a major incident]]
-- [[create-a-major-incident|Create a major incident]]
-- [[create-major-incident-candidate|Create a major incident candidate]]

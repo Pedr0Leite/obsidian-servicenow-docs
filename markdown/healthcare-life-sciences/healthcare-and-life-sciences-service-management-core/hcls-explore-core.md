@@ -14,13 +14,13 @@ breadcrumb: [Healthcare and Life Sciences Service Management Core, Healthcare an
 
 # Exploring Healthcare and Life Sciences Service Management Core
 
-Whether you're starting or expanding the implementation of the [[hcls-core-app|Healthcare and Life Sciences Service Management Core]] application, consider learning more about the data model and digital health capabilities including patient 360-degree view, consent management, and digital documentation available to address healthcare services.
+Whether you're starting or expanding the implementation of the Healthcare and Life Sciences Service Management Core application, consider learning more about the data model and digital health capabilities including patient 360-degree view, consent management, and digital documentation available to address healthcare services.
 
 ## Healthcare and Life Sciences Service Management Core Overview
 
 As a provider, payer, pharmaceutical, or medical device organization, you can improve employee productivity with complete visibility into the medical records of patients and members. You can optimize your healthcare agent time by providing them the complete patient information to address any healthcare requests.
 
-Healthcare and Life Sciences Service Management Core is a scoped application that provides the [[hcls-serv-mgmt-core|Healthcare and Life Sciences data model]] for [[hcls-overview|Healthcare and Life Sciences]] industry products, Workspace for viewing patient information and healthcare-related cases, and document templates for managing healthcare-related documents.
+Healthcare and Life Sciences Service Management Core is a scoped application that provides the Healthcare and Life Sciences data model for Healthcare and Life Sciences industry products, Workspace for viewing patient information and healthcare-related cases, and document templates for managing healthcare-related documents.
 
 ## Healthcare and Life Sciences Service Management Core workflow
 
@@ -112,8 +112,3 @@ Agent
 </td></tr></tbody>
 </table>To get started with the Healthcare and Life Sciences Service Management Core application, see [Configuring Healthcare and Life Sciences Service Management Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-configuring-serv-mgmt-core.md).
 
-## Related
-
-- [[hcls-core-app|Healthcare and Life Sciences Service Management Core]]
-- [[hcls-serv-mgmt-core|Healthcare and Life Sciences data model]]
-- [[hcls-overview|Healthcare and Life Sciences]]

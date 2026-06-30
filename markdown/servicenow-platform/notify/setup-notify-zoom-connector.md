@@ -14,7 +14,7 @@ breadcrumb: [Configure Notify Zoom connector in Notify, Configuring Notify, Noti
 
 # Set up Notify Zoom connector in Zoom
 
-Use the [[notify-zoom-connector|Notify Zoom connector]] to expand the [[notify-landing-page|Notify]] communication channel by managing and initiating a Zoom meeting directly from any task record such as an incident or a change.
+Use the Notify Zoom connector to expand the Notify communication channel by managing and initiating a Zoom meeting directly from any task record such as an incident or a change.
 
 ## Before you begin
 
@@ -58,7 +58,3 @@ Configure Notify with the verification token from Zoom.
 
 [Configure Notify Zoom connector in Notify](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/configure-notify-zoom-connector.md)
 
-## Related
-
-- [[notify-zoom-connector|Notify Zoom connector]]
-- [[notify-landing-page|Notify]]

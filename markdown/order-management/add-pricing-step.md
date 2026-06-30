@@ -16,7 +16,7 @@ Add a pricing plan step to a configurable pricing plan that applies either a pri
 
 ## Before you begin
 
-[[create-custom-pricing-plan|Create a configurable pricing plan]].
+[Create a configurable pricing plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-custom-pricing-plan.md).
 
 Role required: sn\_csm\_pricing.pricelist\_administrator or sn\_csm\_pricing.pricelist\_manager
 
@@ -42,8 +42,8 @@ You can add or change a pricing plan step only when the configurable pricing pla
 4.  In the pricing plan, select the Pricing Plan Steps tab.
 
     -   To add a step, select **New**.
-    -   To change a step, select the step number to be updated. If you need to delete a pricing adjustment step, see [[delete-pricing-plan-step|Delete a pricing plan step]].
-5.  Fill in or change certain [[fields|fields]] in the form.
+    -   To change a step, select the step number to be updated. If you need to delete a pricing adjustment step, see [Delete a pricing plan step](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/delete-pricing-plan-step.md).
+5.  Fill in or change certain fields in the form.
 
 <table><thead><tr><th>
 
@@ -129,8 +129,8 @@ Rule matrix
 
 </td><td>
 
-Option that displays if you selected the Apply Matrix Adjustments action. Select the pricing matrix to be applied:-   [[som-create-bundle-adjustment|Configuration Component Price Adjustment Matrix]]: Use this matrix to set the price adjustments for child product offerings that are bundled under a parent product offering.
--   [[som-create-nonprod-attrib-adjustment|Standard Price Adjustment Matrix]]: Use this matrix to set a pricing adjustment for a product offering based on non-product characteristics, such as billing state or shipping zip code.
+Option that displays if you selected the Apply Matrix Adjustments action. Select the pricing matrix to be applied:-   [Configuration Component Price Adjustment Matrix](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-create-bundle-adjustment.md): Use this matrix to set the price adjustments for child product offerings that are bundled under a parent product offering.
+-   [Standard Price Adjustment Matrix](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-create-nonprod-attrib-adjustment.md): Use this matrix to set a pricing adjustment for a product offering based on non-product characteristics, such as billing state or shipping zip code.
 You can select the rule matrix link in the step to define the matrix.
 
 </td></tr><tr><td>
@@ -169,10 +169,4 @@ Option that displays the PricingAdjustmentsExtensionPoint if you selected the Ap
 
     The configurable plan becomes the active pricing plan, and the former active plan is retired.
 
-## Related
 
-- [[create-custom-pricing-plan|Create a configurable pricing plan]]
-- [[delete-pricing-plan-step|Delete a pricing plan step]]
-- [[som-create-bundle-adjustment|Create pricing adjustments for bundled products]]
-- [[som-create-nonprod-attrib-adjustment|Create a non-product attribute pricing adjustment]]
-- [[fields|Fields]]

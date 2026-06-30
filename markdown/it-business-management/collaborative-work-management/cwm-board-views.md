@@ -73,7 +73,7 @@ The Kanban view organizes work items into columns and rows based on attributes y
     -   Set the vertical lane to **Sprint** and the horizontal lane to **Task type** to view connected stories grouped by sprint.
 
 -   **[Personalize List, Gantt and Kanban display for CWM Boards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/personalize-cwm-board-views.md)**  
-Show, hide, or rearrange columns and apply sorting or filters to personalize the way data is displayed in [[cwm-landing|Collaborative Work Management]] Boards based on your workflow.
+Show, hide, or rearrange columns and apply sorting or filters to personalize the way data is displayed in Collaborative Work Management Boards based on your workflow.
 
 **Parent Topic:**[Board views in CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/board-views-in-cwm.md)
 
@@ -86,6 +86,3 @@ Show, hide, or rearrange columns and apply sorting or filters to personalize the
 
 [Task dependencies and relationships in CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/managing-task-dependencies-relationships-cwm.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

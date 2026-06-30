@@ -14,11 +14,11 @@ breadcrumb: [Work with solution data in Digital Portfolio Management, Digital Po
 
 # Create an improvement initiative from Digital Portfolio Management
 
-Create an improvement initiative using the [[dpm-landing|Digital Portfolio Management]] \(DPM\) application. DPM enables you to create an improvement initiative for any business or technology management services that you own.
+Create an improvement initiative using the Digital Portfolio Management \(DPM\) application. DPM enables you to create an improvement initiative for any business or technology management services that you own.
 
 ## Before you begin
 
-For the required plugins to create improvement initiatives in Digital Portfolio Management, see the [[cim-landing-page|Continual Improvement Management]] area of [Digital Portfolio Management related applications and data sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-related-products.md).
+For the required plugins to create improvement initiatives in Digital Portfolio Management, see the Continual Improvement Management area of [Digital Portfolio Management related applications and data sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-related-products.md).
 
 Role required: sn\_dpm.dpm\_manager
 
@@ -28,7 +28,7 @@ You can manage and create improvement initiatives for services or service offeri
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Digital Portfolio Management** &gt; **Digital Portfolio Management Workspace &gt; [[dpm-personal-portfolio|Personal Portfolios]]**.
+1.  Navigate to **All** &gt; **Digital Portfolio Management** &gt; **Digital Portfolio Management Workspace &gt; Personal Portfolios**.
 
 2.  To create an improvement initiative, select a business or technical service.
 
@@ -369,8 +369,3 @@ Any notes that you want to add to the improvement initiative \(these notes are n
 
 **Parent Topic:**[Work with solution data in Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-working-with.md)
 
-## Related
-
-- [[dpm-landing|Digital Portfolio Management]]
-- [[cim-landing-page|Continual Improvement Management]]
-- [[dpm-personal-portfolio|Personal portfolios]]

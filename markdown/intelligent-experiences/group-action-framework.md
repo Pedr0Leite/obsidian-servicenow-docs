@@ -17,7 +17,7 @@ Group Action Framework \(GAF\) is an intelligence feature on the ServiceNow AI P
 
 ## GAF overview
 
-GAF is composed of two processes. The grouping process identifies clusters of similar records \(incident, [[cases|cases]], KB articles, etc.\) and selects a set of representative records for the cluster. The actioning process maps new records to clusters and executes large language model \(LLM\) instructions for those clusters to achieve certain tasks, such as summarizing the contents of a cluster or generating resolution steps based on steps that worked for records in that cluster. GAF processes together benefit your AI agents and [[platform-now-assist-landing|Now Assist]] generative features in multiple ways.
+GAF is composed of two processes. The grouping process identifies clusters of similar records \(incident, cases, KB articles, etc.\) and selects a set of representative records for the cluster. The actioning process maps new records to clusters and executes large language model \(LLM\) instructions for those clusters to achieve certain tasks, such as summarizing the contents of a cluster or generating resolution steps based on steps that worked for records in that cluster. GAF processes together benefit your AI agents and Now Assist generative features in multiple ways.
 
 -   Improves consistency and quality of agentic and generative AI features by using the best examples from groups of records.
 -   Reduces the cost of LLM calls by only executing on the representative records.
@@ -52,10 +52,5 @@ Multiple skills are involved in GAF setup and execution. They are modular, so no
 
 GAF uses AI Search to improve its effectiveness and can use it as a fallback option in case GAF does not return any results. GAF can work without Now Assist in AI Search, but if it is enabled then GAF has optimized prediction. The optimized prediction feature increases clustering capacity up to 500,000 records and improves recall speed.
 
-See [Install Now Assist in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/install-now-assist-ais.md) and [[setup-ai-search-gaf|Set up AI Search for Group Action Framework]] for more information on configuring AI Search for GAF.
+See [Install Now Assist in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/install-now-assist-ais.md) and [Set up AI Search for Group Action Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/setup-ai-search-gaf.md) for more information on configuring AI Search for GAF.
 
-## Related
-
-- [[setup-ai-search-gaf|Set up AI Search for GAF]]
-- [[cases|Cases]]
-- [[platform-now-assist-landing|Now Assist]]

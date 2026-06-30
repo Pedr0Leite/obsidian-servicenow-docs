@@ -22,12 +22,8 @@ The ServiceNow mobile apps consist of the ServiceNow server instance and native 
 
 -   **Apps for Android**
 
-    The ServiceNow apps for Android is a fully native applications for Android phone. They can be downloaded from the Google Play store directly by a user, or can be pulled, dynamically configured, and distributed using MDM \(more information available in EMM section\). ServiceNow only supports apk file distribution to customers for branded versions of Android mobile apps. For details on branded applications, see [[mobile-publishing|Publish mobile apps with custom branding]].
+    The ServiceNow apps for Android is a fully native applications for Android phone. They can be downloaded from the Google Play store directly by a user, or can be pulled, dynamically configured, and distributed using MDM \(more information available in EMM section\). ServiceNow only supports apk file distribution to customers for branded versions of Android mobile apps. For details on branded applications, see [Publish mobile apps with custom branding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-publishing.md).
 
 
-**Parent Topic:**[[sg-mobile-security|Device security for ServiceNow Mobile apps]]
+**Parent Topic:**[Device security for ServiceNow Mobile apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-security.md)
 
-## Related
-
-- [[mobile-publishing|Publish mobile apps with custom branding]]
-- [[sg-mobile-security|Device security for ServiceNow Mobile apps]]

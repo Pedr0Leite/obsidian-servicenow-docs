@@ -16,11 +16,11 @@ Create and manage preconfigured email templates for sending notifications.
 
 ## Before you begin
 
-Role required: See [[sem-acls-for-admin-rules|Access control lists \(ACLs\) for administration rules]]
+Role required: See [Access control lists \(ACLs\) for administration rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-acls-for-admin-rules.md)
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sem-workspace-user-interface|Security Exposure Management Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Security Exposure Management Workspace**.
 
 2.  Select **Administration** in the navigation pane.
 
@@ -106,7 +106,4 @@ Create a different message to be delivered to an SMS device. Enter a brief messa
 
 6.  Select **Save**.
 
-## Related
 
-- [[sem-acls-for-admin-rules|Access control lists \(ACLs\) for administration rules]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]

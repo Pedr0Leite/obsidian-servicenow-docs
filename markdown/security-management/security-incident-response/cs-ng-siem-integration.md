@@ -14,7 +14,7 @@ breadcrumb: [CrowdStrike Next-Gen SIEM integration, Security Incident Response i
 
 # Install and configure
 
-[[configure-cortex-xsiam-siem|Install and configure]] the [[crowdstrike-next-gen-integration-secops|CrowdStrike Next-Gen SIEM integration]] for [[security-operations-landing-page|Security Operations]] application from the ServiceNow Store on your ServiceNow AI Platform instance.
+Install and configure the CrowdStrike Next-Gen SIEM integration for Security Operations application from the ServiceNow Store on your ServiceNow AI Platform instance.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ Minimum scopes needed to configure CrowdStrike Next-Gen SIEM in ServiceNow® ins
 
 1.  Download the CrowdStrike Next-Gen SIEM integration from the ServiceNow Store and install it.
 
-    For more information, see [[download-app-first-time|Download an application from the ServiceNow Store for the first time]]
+    For more information, see [Download an application from the ServiceNow Store for the first time](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/download-app-first-time.md)
 
 2.  Navigate to **Security Operations** &gt; **Integrations** &gt; **Integration Configurations**.
 
@@ -92,9 +92,3 @@ Data center to pull data from. Specify the Region: US-1, US-2, EU-1, US-GOV-1, U
 
 [Create a detection profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-a-profile-cs-ng-siem.md)
 
-## Related
-
-- [[download-app-first-time|Download an application from the ServiceNow Store for the first time]]
-- [[configure-cortex-xsiam-siem|Install and Configure]]
-- [[crowdstrike-next-gen-integration-secops|CrowdStrike Next-Gen SIEM integration]]
-- [[security-operations-landing-page|Security Operations]]

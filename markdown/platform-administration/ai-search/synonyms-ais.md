@@ -22,7 +22,7 @@ You can delete synonym dictionaries that aren't linked to any search profiles.
 
 ## Synonym usage in search
 
-When a search query includes a term defined in a synonym, [[ia-ai-search|AI Search]] expands the search to include all equivalent terms defined in the synonym.
+When a search query includes a term defined in a synonym, AI Search expands the search to include all equivalent terms defined in the synonym.
 
 For example, a synonym might expand the search query term `vacation` to `vacation OR holiday OR pto`. The expanded query returns records that contain any of the three equivalent terms.
 
@@ -78,7 +78,7 @@ Synonym term expansion is bidirectional. AI Search treats all terms defined in t
 
 By default, AI Search ignores synonym terms that exceed 256 characters in length. You can override this default limit by adding the **query.maxDictionaryTermLength** system property. The integer value of this system property indicates the maximum allowable character length for stop word and synonym dictionary terms.
 
-For information on adding a system property, see [[t_AddAPropertyUsingSysPropsList|Add a system property]].
+For information on adding a system property, see [Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddAPropertyUsingSysPropsList.md).
 
 **Warning:** Exercise caution when increasing the dictionary term-length limit beyond its default value. Processing long dictionary terms increases AI Search's memory usage, and in some cases search queries may fail with out-of-memory errors.
 
@@ -96,7 +96,7 @@ For example, the following table describes AI Search expansion behavior for a sy
 |account retirement|AI Search doesn't expand the search query terms.|
 |retirement bank account|AI Search doesn't expand the search query terms.|
 
-When search query terms match a multi-term synonym, AI Search treats those terms as a quoted phrase. For example, if you define `401k` and `retirement account` as synonyms and a user searches for the unquoted terms `retirement account`, AI Search returns [[hs-results|results]] that match the quoted phrase `"retirement account"`.
+When search query terms match a multi-term synonym, AI Search treats those terms as a quoted phrase. For example, if you define `401k` and `retirement account` as synonyms and a user searches for the unquoted terms `retirement account`, AI Search returns results that match the quoted phrase `"retirement account"`.
 
 ## Case sensitivity
 
@@ -140,7 +140,7 @@ Interaction with synonyms
 
 </td><td>
 
-Synonym expansion terms can't trigger Genius Result [[clone-configurations-tab|configurations]] with Term trigger conditions. When computing [[genius-result-q-a-ais|Q&amp;A Genius Results]] for a search query, AI Search expands synonyms in the query.
+Synonym expansion terms can't trigger Genius Result configurations with Term trigger conditions. When computing Q&amp;A Genius Results for a search query, AI Search expands synonyms in the query.
 
 </td></tr><tr><td>
 
@@ -156,7 +156,7 @@ If a search query term is defined as a synonym, AI Search doesn't normalize it.
 
 </td><td>
 
-By default, a synonym expansion term can activate a result improvement rule if it matches the rule's Query trigger. You can prevent synonym expansion terms from activating a rule with a Query trigger by clearing the **Expand Synonyms For Query Conditions** option that appears when you define the Query trigger.**Note:** Starting in the Xanadu release, AI Search uses synonyms to expand user context field values when applying boost actions from [[result-improvement-rules-ais|result improvement rules]]. As an example, if the user context location is `Paris` and you define a synonym that defines `Paris` and `France` as equivalent, your result improvement rule boosts documents containing `France` as well as those containing `Paris`. For more details on boost actions, see [Boost search results using a result improvement rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/boost-results-ais.md).
+By default, a synonym expansion term can activate a result improvement rule if it matches the rule's Query trigger. You can prevent synonym expansion terms from activating a rule with a Query trigger by clearing the **Expand Synonyms For Query Conditions** option that appears when you define the Query trigger.**Note:** Starting in the Xanadu release, AI Search uses synonyms to expand user context field values when applying boost actions from result improvement rules. As an example, if the user context location is `Paris` and you define a synonym that defines `Paris` and `France` as equivalent, your result improvement rule boosts documents containing `France` as well as those containing `Paris`. For more details on boost actions, see [Boost search results using a result improvement rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/boost-results-ais.md).
 
 </td></tr><tr><td>
 
@@ -166,7 +166,7 @@ By default, a synonym expansion term can activate a result improvement rule if i
 
 If a synonym definition includes a term defined as a stop word, AI Search retains that term when checking whether the synonym expands a search query.
 
- For example, suppose you define `as` and `a` as [[stop-words-ais|stop words]] and `SAAS`↔`︎software as a service` as a synonym.
+ For example, suppose you define `as` and `a` as stop words and `SAAS`↔`︎software as a service` as a synonym.
 
 -   If you search for `saas`, AI Search retains the `as` and `a` terms in the synonym expansion. As a result, the search query matches the following records:
     -   records that contain the original search query term `saas`
@@ -205,12 +205,3 @@ Remove a synonym dictionary that isn't linked from any search profile.
 
 **Parent Topic:**[Search profiles in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/defining-search-profiles-ais.md)
 
-## Related
-
-- [[t_AddAPropertyUsingSysPropsList|Add a system property]]
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]
-- [[clone-configurations-tab|Configurations]]
-- [[genius-result-q-a-ais|Q&amp;A Genius Results]]
-- [[result-improvement-rules-ais|Result improvement rules]]
-- [[stop-words-ais|Stop words]]

@@ -59,12 +59,9 @@ sn\_now\_teams.portal.suffix
 
 </td><td>
 
-Use this property to set the portal to be embedded in Microsoft Teams when a user goes to **Your Hub** or **[[employee-center-landing-page|Employee Center]]**. You must enter the URL suffix of the portal that you want to use.-   Type: string
+Use this property to set the portal to be embedded in Microsoft Teams when a user goes to **Your Hub** or **Employee Center**. You must enter the URL suffix of the portal that you want to use.-   Type: string
 -   Default value: none
 
 </td></tr></tbody>
 </table>**Parent Topic:**[ServiceNow for Microsoft Teams reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/reference-sn-teams.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

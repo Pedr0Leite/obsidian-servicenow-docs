@@ -30,7 +30,7 @@ Role required: report\_publisher, report\_admin, or admin.
 
 There are limitations to what users see when they follow the publish URL for a report.
 
--   Data that is visualized as a graphic report and not limited by business rules is always visible in published reports. Graphic reports are all reports except for [[list-reports|list reports]].
+-   Data that is visualized as a graphic report and not limited by business rules is always visible in published reports. Graphic reports are all reports except for list reports.
 -   Read ACLs govern the content of list reports. Users cannot see records for which they do not have access.
 -   Public roles with access to a published report may see a smaller subset of the original data displayed in the report when they're not logged in. For help with resolving published reports not showing all the expected data, see [KB article KB0736982](https://support.servicenow.com/kb_view.do?sysparm_article=KB0736982).
 
@@ -83,6 +83,3 @@ Role required: both the report\_publisher and report\_user, report\_admin, or ad
 
 The report is no longer published and the link icon \(\[Omitted image "link-icon.png"\] Alt text:\) is removed from the report designer for the unpublished report.
 
-## Related
-
-- [[list-reports|List reports]]

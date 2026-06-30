@@ -30,7 +30,7 @@ The following items are installed with Guided Decisions Experience:
 -   Roles
 -   Guidances
 
-For more information, see [[components-installed-with-guided-decisions|Components installed with Guided Decisions Experience]].
+For more information, see [Components installed with Guided Decisions Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/components-installed-with-guided-decisions.md).
 
 ## Procedure
 
@@ -54,6 +54,4 @@ For more information, see [[components-installed-with-guided-decisions|Component
 
 6.  Select **Install**.
 
-## Related
 
-- [[components-installed-with-guided-decisions|Components installed with Guided Decisions Experience]]

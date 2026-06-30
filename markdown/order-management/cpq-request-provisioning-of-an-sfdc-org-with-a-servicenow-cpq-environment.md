@@ -24,7 +24,7 @@ Role required: admin
 
 2.  Provide the email address associated with a user in the org who will serve as the first Admin user.
 
-    This user will grant other users access after they appear in the [[please_share_your_feedback_on_admin_assist_responses|User Access]] list of users after attempting to log in.
+    This user will grant other users access after they appear in the User Access list of users after attempting to log in.
 
 3.  Create a user in the desired SFDC org for CPQ provisioning.
 
@@ -41,6 +41,4 @@ Role required: admin
 
     CPQ Support and DevOps will notify you when the work is complete.
 
-## Related
 
-- [[please_share_your_feedback_on_admin_assist_responses|User access]]

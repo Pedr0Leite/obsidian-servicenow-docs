@@ -14,13 +14,13 @@ breadcrumb: [Employee Relations, Case and Knowledge Management, HR Service Deliv
 
 # Exploring Employee Relations
 
-Learn how to use [[hr-case-employee-relations|Employee Relations]] starting from raising a complaint till the closure of ER case.
+Learn how to use Employee Relations starting from raising a complaint till the closure of ER case.
 
 Following are some of the key features of Employee Relations:
 
 -   **For employees or users**
 
-    Instill trust and confidence in employees through self service reporting tools such [[employee-center-landing-page|Employee Center]] or [Anonymous Report Center \(ARC\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/arc-portal.md).
+    Instill trust and confidence in employees through self service reporting tools such Employee Center or [Anonymous Report Center \(ARC\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/arc-portal.md).
 
     -   Ability for a user who is not in the ServiceNow® system to raise a request and receive a full view of the investigation.
     -   Ability to raise a sensitive complaint anonymously with [Anonymous Report Center \(ARC\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/arc-portal.md).
@@ -31,8 +31,8 @@ Following are some of the key features of Employee Relations:
     -   Enhanced security verifying that the right people with the right roles and assignment groups have visibility into the ER case.
     -   Case restricting capabilities such as restricting the view of case to specific ER agents or ER groups or restricting the case view if the ER agent is listed in the involved parties of the case.
     -   Flexible data model to capture details on involved parties, allegations, allegation subtypes, corrective actions and outcomes.
-    -   End to end investigation flow with capabilities such as evidence management and [[interview-management-landing|interview management]].
-    -   Assess organizational performance with the [[eslate-analytics-reporting|Analytics and Reporting]] Solution that provides you with historical trends and data comparisons for Employee Relations.
+    -   End to end investigation flow with capabilities such as evidence management and interview management.
+    -   Assess organizational performance with the Analytics and Reporting Solution that provides you with historical trends and data comparisons for Employee Relations.
 
 ## End-to-end flow
 
@@ -128,9 +128,3 @@ ER agent
 
 \[Omitted image "er-case-view.png"\] Alt text: Employee Relations Case
 
-## Related
-
-- [[hr-case-employee-relations|Employee Relations]]
-- [[employee-center-landing-page|Employee Center]]
-- [[interview-management-landing|Interview Management]]
-- [[eslate-analytics-reporting|Analytics and reporting]]

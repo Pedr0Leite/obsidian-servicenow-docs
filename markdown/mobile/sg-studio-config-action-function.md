@@ -12,7 +12,7 @@ breadcrumb: [Action functions, Mobile functions, Mobile app components, Building
 
 # Configure an action function
 
-[[mobile-actions|Action functions]] enable the user to change something in the database. For example, making an update or adding a comment to a record requires an action function.
+Action functions enable the user to change something in the database. For example, making an update or adding a comment to a record requires an action function.
 
 ## Before you begin
 
@@ -20,13 +20,13 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you are working in and then select the name of the application screen.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select **Functions** in the menu, and then select **New**.
 
@@ -76,7 +76,7 @@ Context
 
 The level to apply the action to. -   **Record**: Applies an action at the record level. For example, use this option to create a button that changes the state of a record. You can set the context to Record for actions on a particular field, a particular record, or swipe actions. If the action function includes a UI parameter with the **Input source** field set to **Auto fill**, you must specify the table in the **Table** field.
 -   **Global**: Applies an action at the global, or list level. For example, use this option to add a button that creates a record. Do not use the Global setting for actions that are in the context of a record, or actions that include a UI parameter with the **Input source** field set to **Auto fill**.
- For more information on button locations, see [[sg-studio-button-instances|Associate a function with a location in the app]].
+ For more information on button locations, see [Associate a function with a location in the app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-studio-button-instances.md).
 
 </td></tr><tr><td>
 
@@ -84,7 +84,7 @@ Available offline
 
 </td><td>
 
-Whether this function is available when the device is offline. **Note:** This option is only supported on the ServiceNow [[mobile-experience|Mobile Agent app]].
+Whether this function is available when the device is offline. **Note:** This option is only supported on the ServiceNow Mobile Agent app.
 
 </td></tr><tr><td>
 
@@ -92,7 +92,7 @@ Action item
 
 </td><td>
 
-Action item to associate with the action. For more information, see [[sg-studio-create-action-item|Configure an action item]].
+Action item to associate with the action. For more information, see [Configure an action item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-studio-create-action-item.md).
 
 </td></tr><tr><td colspan="2">
 
@@ -131,7 +131,7 @@ Preconditions
 Select an option to require user confirmation before submitting the action. -   **None**: Do not require user confirmation. This option is the default.
 -   **HR Task Signature**: Require a user signature before submitting the action. Users can either sign with their fingers or type their names in the signature field. If **Allow images upload** is selected, an image of the signature is sent to the Signature Images \[signature\_image\] table when the action executes. When this option is selected, the signature form overlays the current screen.
 -   **HR Task Credentials**: Require users to input their credentials before submitting the action. This option is supported only with local authentication.
--   **Re-authentication**: Requires users to re-authenticate their credentials before executing an action. For more information, see [[mobile-reautentication-concept|Configure mobile re-authentication system properties]].
+-   **Re-authentication**: Requires users to re-authenticate their credentials before executing an action. For more information, see [Configure mobile re-authentication system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-reautentication-concept.md).
 
 
 </td></tr><tr><td colspan="2">
@@ -252,7 +252,7 @@ Refresh full screen after action
 
 Option for the current screen to automatically refresh when an action completes.This option is available only when **Context** is set to **Global**.
 
- **Note:** The refresh option is supported for screens \(applets\) but not [[sg-mobile-applet-launcher|launcher screens]].
+ **Note:** The refresh option is supported for screens \(applets\) but not launcher screens.
 
 </td></tr><tr><td>
 
@@ -318,7 +318,7 @@ Grouped inputs
 
 </td><td>
 
-This field is not used to configure an action function. Grouped input enables the users to scan several barcodes sequentially. You can configure grouped inputs with UI Parameters to accept multiple barcode scans. For information about grouped inputs, see [[sg-configure-multiscan|Configure a grouped input for multiple scans]]
+This field is not used to configure an action function. Grouped input enables the users to scan several barcodes sequentially. You can configure grouped inputs with UI Parameters to accept multiple barcode scans. For information about grouped inputs, see [Configure a grouped input for multiple scans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-configure-multiscan.md)
 
 </td></tr><tr><td>
 
@@ -327,7 +327,7 @@ Button attributes
 </td><td>
 
 Specifies an additional attribute for a button. Select **New** to configure this option. You can select from the following button attributes:-   **alerts\_require\_dismissal**: The button attribute when set to `true` enables the banner messages to persist until the user dismisses it. By default, banner messages are automatically dismissed.
--   **used\_for\_deeplink**: The button attribute when set to `true` determines that the button is used for deep linking. For more information, see [[deep-link-mobile|Deep linking for mobile]].
+-   **used\_for\_deeplink**: The button attribute when set to `true` determines that the button is used for deep linking. For more information, see [Deep linking for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/deep-link-mobile.md).
 -   **trigger\_offline\_cache\_download**: The button attribute when set to `true` triggers offline cache generation. After the cache is successfully generated, a download of it is triggered.
 -   **check\_acl\_on\_url\_parameter\_field**: When this button attribute is selected and set to `true`, any field in the URL string is checked against the ACL \(access control list\). For example, a string like \{\{meeting\_id\}\}. If a field does not pass this check, the field value is not included in the URL. By default, the URL parameter field is not checked against the ACL for backward compatibility.
 
@@ -350,15 +350,3 @@ Limit user access to an action by role.
 
 After you create an action function, you must associate it with a specific location in the mobile app. You can add an action function to a top menu, a swipe action, or to a specific field. For more information on associating the action function to a location, see [Associate a function with a location in the app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-studio-button-instances.md).
 
-## Related
-
-- [[sg-studio-button-instances|Associate a function with a location in the app]]
-- [[sg-studio-create-action-item|Configure an action item]]
-- [[mobile-reautentication-concept|Configure mobile re-authentication system properties]]
-- [[sg-configure-multiscan|Configure a grouped input for multiple scans]]
-- [[deep-link-mobile|Deep linking for mobile]]
-- [[mobile-actions|Action functions]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]
-- [[mobile-experience|Mobile Agent app]]
-- [[sg-mobile-applet-launcher|Launcher screens]]

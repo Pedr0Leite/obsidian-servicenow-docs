@@ -334,7 +334,7 @@ If the schedule entry is scheduled to repeat, specifies an end date until which 
 
 ## What to do next
 
-You can [[refresh-cab-meeting-agenda-items|modify CAB meeting details]] and send meeting requests to attendees. You can also manage agendas by reviewing or adding agenda items to each of the meetings.
+You can modify CAB meeting details and send meeting requests to attendees. You can also manage agendas by reviewing or adding agenda items to each of the meetings.
 
 **Parent Topic:**[Working with the CAB Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/using-cab-workbench-cf.md)
 
@@ -343,6 +343,3 @@ You can [[refresh-cab-meeting-agenda-items|modify CAB meeting details]] and send
 
 [OR conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_UsingORConditions.md)
 
-## Related
-
-- [[refresh-cab-meeting-agenda-items|Modify CAB meeting details]]

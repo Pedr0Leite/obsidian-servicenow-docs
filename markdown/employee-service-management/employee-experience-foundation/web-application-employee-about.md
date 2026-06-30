@@ -14,18 +14,18 @@ breadcrumb: [Setup task management, Configuring Employee Center Pro, Employee Ce
 
 # App Launcher
 
-App Launcher enables you to provide employees one-click access to all of their web business applications from [[employee-center-landing-page|Employee Center]].
+App Launcher enables you to provide employees one-click access to all of their web business applications from Employee Center.
 
-Sync all your business applications from Azure AD and non-SSO, register the custom applications manually, and enable employees to access these applications. You can access the applications from the Employee Center home page widget in context from [[dynamic-topic-page|dynamic topic pages]] and through search.
+Sync all your business applications from Azure AD and non-SSO, register the custom applications manually, and enable employees to access these applications. You can access the applications from the Employee Center home page widget in context from dynamic topic pages and through search.
 
-App Launcher improves your employee productivity by reducing effort in discovering apps and eliminating the need for using the single-use case SSO dashboards. Using application launcher with the [[employee-center-pro-landing|Employee Center Pro]], you can manage the following types of applications:
+App Launcher improves your employee productivity by reducing effort in discovering apps and eliminating the need for using the single-use case SSO dashboards. Using application launcher with the Employee Center Pro, you can manage the following types of applications:
 
 -   **SSO Integrated Apps**: App Launcher offers pre-built integration with Azure AD. If you use Microsoft Entra ID as an identity and access management tool, you can automatically sync the registered applications in your Azure AD account to the App Launcher. Only applications to which the users have access in SSO, such as Microsoft Entra ID, are displayed on Employee Center. The App Launcher framework enables you to integrate with other SSO vendors and sync registered applications. See Integration Hub for the availability of the required spokes, actions, and the license requirements.
 -   **Custom web applications \(Non-SSO\)**: Register the applications manually which are not registered in SSO. Register the apps in the Web Application table and define the user criteria to control the visibility.
 
 ## SSO and non-SSO app configuration
 
-Configure both SSO integrated Apps and Custom registered apps on the Home page widget or topic page, manage the widget preferences, and associate applications to the topics. As an administrator, you can register applications, sync available applications, and give one-click access to the applications. You can associate topics to the applications to launch useful applications right from within [[employee-center-portal-overview|Employee portal]].
+Configure both SSO integrated Apps and Custom registered apps on the Home page widget or topic page, manage the widget preferences, and associate applications to the topics. As an administrator, you can register applications, sync available applications, and give one-click access to the applications. You can associate topics to the applications to launch useful applications right from within Employee portal.
 
 -   Create a unified application launcher that can increase employee productivity.
 -   Configure the integration such as sync SSO-applications, register custom applications, and assign applications to users or groups.
@@ -42,7 +42,7 @@ Configure both SSO integrated Apps and Custom registered apps on the Home page w
 Organize applications on the App launcher for better app discovery and quick access. Enhance the user experience by simplified browsing experience using Featured, Recent, Categories, and Favorites groups. These features are enabled by default however admins can disable the option or adjust the display preferences.
 
 -   **Categorization**: Admins can map the applications to a suitable category such as finance, IT, events and more. You can create categories and assign the app to one or many app categories.
--   **Featured**: Admins can use this option to promote new or important or seasonal applications for higher visibility. Tag important applications as featured for better visibility. [[eslate-applications|Featured applications]] have visibility preferences and appear on the top of the page despite any filters or sorting.
+-   **Featured**: Admins can use this option to promote new or important or seasonal applications for higher visibility. Tag important applications as featured for better visibility. Featured applications have visibility preferences and appear on the top of the page despite any filters or sorting.
 -   **Favorites**: Employees can mark the applications as favorite for easy access. Bookmark the apps you use frequently for quicker access.
 -   **Recently opened**: Employees can navigate to the recently opened apps from the recently open section.
 
@@ -77,10 +77,3 @@ Ensure you understand how to configure and enable AI search capabilities, see th
 
 [Configure application visibility and access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/applauncher-enable-availability.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[dynamic-topic-page|Dynamic topic pages]]
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[employee-center-portal-overview|Employee portal]]
-- [[eslate-applications|Featured applications]]

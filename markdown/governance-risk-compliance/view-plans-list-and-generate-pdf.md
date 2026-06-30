@@ -20,13 +20,13 @@ Role required: sn\_bcp.plan\_manager, sn\_bcp.plan\_viewer
 
 ## About this task
 
-If you have the [[business-continuity-mangmt-overview|Business Continuity Management]] \(BCM\) plan program manager, BCM program manager, BCM plan manager, BCM Plan Viewer, or BCM plan contributor role, you can view the plan list icon in the BCM mobile application. On accessing the icon, you can view a list of approved plans.
+If you have the Business Continuity Management \(BCM\) plan program manager, BCM program manager, BCM plan manager, BCM Plan Viewer, or BCM plan contributor role, you can view the plan list icon in the BCM mobile application. On accessing the icon, you can view a list of approved plans.
 
 To access the plan list screen, both the BCM mobile application and the BCM planning application must be installed.
 
 ## Procedure
 
-1.  Navigate to the business continuity plans \(BCPs\) [[list-view-uib-ws|list view]] in the mobile app.
+1.  Navigate to the business continuity plans \(BCPs\) list view in the mobile app.
 
     In the BCM mobile application, the plan list screen is displayed to the users. The BCP plan viewer has access to the plans list when they’re logged in to the instance through an agent.
 
@@ -54,7 +54,4 @@ To access the plan list screen, both the BCM mobile application and the BCM plan
 
     \[Omitted image "mobile-saved-tems-tab.png"\] Alt text: Saved items.
 
-## Related
 
-- [[business-continuity-mangmt-overview|Business Continuity Management]]
-- [[list-view-uib-ws|List view]]

@@ -14,7 +14,7 @@ breadcrumb: [Result improvement rules, Search profiles, Configuring AI Search, A
 
 # Create a result improvement rule
 
-Create a rule to boost, block, or promote search [[hs-results|results]] or to block [[genius-results-ais|Genius Results]]. Specify the conditions that activate your rule and choose the action it performs when activated.
+Create a rule to boost, block, or promote search results or to block Genius Results. Specify the conditions that activate your rule and choose the action it performs when activated.
 
 ## Before you begin
 
@@ -28,13 +28,13 @@ You can configure activation conditions and triggers for a result improvement ru
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ia-ai-search|AI Search]]** &gt; **Search Experience** &gt; **Search Profiles**.
+1.  Navigate to **All** &gt; **AI Search** &gt; **Search Experience** &gt; **Search Profiles**.
 
 2.  Open the search profile that you want to add the result improvement rule to.
 
-3.  In the [[result-improvement-rules-ais|Result Improvement Rules]] related list, select **Create**.
+3.  In the Result Improvement Rules related list, select **Create**.
 
-4.  On the [[result-improvement-rule-form-ais|AI Search Results Improvement Rule form]], fill in the fields.
+4.  On the AI Search Results Improvement Rule form, fill in the fields.
 
     For a description of the field values, see [AI Search Results Improvement Rule form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/result-improvement-rule-form-ais.md).
 
@@ -54,10 +54,3 @@ To make new or updated result improvement rule settings take effect, publish the
 
 **Parent Topic:**[Result improvement rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/result-improvement-rules-ais.md)
 
-## Related
-
-- [[hs-results|Results]]
-- [[genius-results-ais|Genius Results]]
-- [[ia-ai-search|AI Search]]
-- [[result-improvement-rules-ais|Result improvement rules]]
-- [[result-improvement-rule-form-ais|AI Search Results Improvement Rule form]]

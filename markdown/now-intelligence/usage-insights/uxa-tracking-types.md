@@ -24,7 +24,7 @@ The default consent policies are set to No Consent Required for all countries/gr
 
 -   **Disabled**
 
-    Selecting **Disabled** as the user consent policy has the same effect as an end user opting out: individual-level tracking is not displayed in [[user-exp-analytics-landing|Usage Insights]] tracked applications and usage metrics aren't obtained from these users. Aggregate data collection continues.
+    Selecting **Disabled** as the user consent policy has the same effect as an end user opting out: individual-level tracking is not displayed in Usage Insights tracked applications and usage metrics aren't obtained from these users. Aggregate data collection continues.
 
 -   **Explicit opt-in**
 
@@ -60,6 +60,3 @@ Understand what happens when you opt out of the consent pop-up in the Usage Insi
 
 **Parent Topic:**[User privacy, tracking, and user consent management in Usage Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/user-exp-analytics-track-options.md)
 
-## Related
-
-- [[user-exp-analytics-landing|Usage Insights]]

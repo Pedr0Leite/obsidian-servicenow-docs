@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[sg-mobile-push-notifications|Mobile Push Notifications]]** &gt; **[[sg-mobile-security-push-notif|Push Notifications]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile Push Notifications** &gt; **Push Notifications**.
 
 2.  Click **New**.
 
@@ -80,10 +80,5 @@ Category of your notification. This field is visible only when the **Actionable*
     Your notification record is created. After saving, the **Push Action Instances** related list appears on the form.
 
 
-**Parent Topic:**[[actionable-push-notification|Configure actionable push notifications]]
+**Parent Topic:**[Configure actionable push notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/actionable-push-notification.md)
 
-## Related
-
-- [[actionable-push-notification|Configure actionable push notifications]]
-- [[sg-mobile-push-notifications|Mobile push notifications]]
-- [[sg-mobile-security-push-notif|Push notifications]]

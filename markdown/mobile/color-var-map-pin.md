@@ -20,7 +20,7 @@ Map screens have a **Pin Color** section with a **Pin color variable** field to 
 
  Using this field you can define any color variable from the UX Theme Properties \[sys\_ux\_theme\_property\] table. For a list available variables see the color design guide below.
 
- For details on creating icon UI sections, see [[sg-ui-section-config-navig|Configure an icon UI section]].
+ For details on creating icon UI sections, see [Configure an icon UI section](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-ui-section-config-navig.md).
 
 </td><td>
 
@@ -119,7 +119,3 @@ brand
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sg-ui-section-config-navig|Configure an icon UI section]]

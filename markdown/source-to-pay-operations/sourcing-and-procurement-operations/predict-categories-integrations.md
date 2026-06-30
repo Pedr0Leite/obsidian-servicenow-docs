@@ -14,14 +14,14 @@ breadcrumb: [Automatically assign categories, Explore, Now Assist for SPO, Sourc
 
 # Predict categories for PRLs and POLs imported through integrations
 
-Automatically predict and assign product and spend categories for imported [[purchase-requisition|purchase requisition]] lines and [[purchase-order-lines|purchase order lines]] using scheduled on-demand scripts.
+Automatically predict and assign product and spend categories for imported purchase requisition lines and purchase order lines using scheduled on-demand scripts.
 
 The Spend categorization agent automatically predicts and assigns product and spend categories for imported purchase requisition lines \(PRLs\) and purchase order lines \(POLs\) using scheduled on-demand scripts.
 
 The following scheduled on-demand scripts have been added:
 
 -   **Product and spend category prediction for purchase line**: Updates the spend and product category fields on PRLs imported through integration from third-party systems.
--   **Product and spend category prediction for [[purchase-order-table|purchase order]] line**: Updates the spend and product category fields on POLs imported through integration from third-party systems.
+-   **Product and spend category prediction for purchase order line**: Updates the spend and product category fields on POLs imported through integration from third-party systems.
 
 After the PRLs and POLs are imported into your instance, open the appropriate scheduled on-demand script and select **Execute Now** to run the script and update the spend and product category fields.\[Omitted image "prl-on-demand.png"\] Alt text: Scheduled Script Execution page showing the product and spend category prediction script with Execute Now button.
 
@@ -35,8 +35,3 @@ After the PRLs and POLs are imported into your instance, open the appropriate sc
 
 **Parent Topic:**[Automatically assign categories during SR and PR creation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/automatically-assign-categories.md)
 
-## Related
-
-- [[purchase-requisition|Purchase requisition]]
-- [[purchase-order-lines|Purchase order lines]]
-- [[purchase-order-table|Purchase order]]

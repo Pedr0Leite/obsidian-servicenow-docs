@@ -12,7 +12,7 @@ breadcrumb: [Create a log source configuration, Administer, Log Export Service \
 
 # Create source type and multi topics in the LES source table
 
-Consume [[logs|logs]] for each source type by creating multiple topics per source type. You can now leverage the option of customized selection of specific topics for different [[les-log-sources-export|log sources]] during the debugging process, without impacting the other log tables.
+Consume logs for each source type by creating multiple topics per source type. You can now leverage the option of customized selection of specific topics for different log sources during the debugging process, without impacting the other log tables.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin or sn\_logstoanalytics.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[les-intro|Log Export Service \(LES\)]]** &gt; **Sources**.
+1.  Navigate to **All** &gt; **Log Export Service \(LES\)** &gt; **Sources**.
 
 2.  Click **New** to create a new source.
 
@@ -58,11 +58,5 @@ Role required: admin or sn\_logstoanalytics.admin
     The source type shows up on the Sources list with the selected topic name and other information.
 
 
-**Parent Topic:**[[les-create-source-configuration|Create a log source configuration]]
+**Parent Topic:**[Create a log source configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/les-create-source-configuration.md)
 
-## Related
-
-- [[les-create-source-configuration|Create a log source configuration]]
-- [[logs|Logs]]
-- [[les-log-sources-export|Log sources]]
-- [[les-intro|Log Export Service \(LES\)]]

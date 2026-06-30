@@ -12,7 +12,7 @@ breadcrumb: [Security Operations Integration - Threat Lookup capability, Integra
 
 # Security Operations Integration - Threat Lookup Flow
 
-The **[[security-operations-landing-page|Security Operations]] Integration - [[tisc-threat-lookup|Threat Lookup]]** capability flow accesses available threat lookup implementations and executes the implementation flows associated with each to perform threat lookups of selected [[c_Observables|observables]].
+The **Security Operations Integration - Threat Lookup** capability flow accesses available threat lookup implementations and executes the implementation flows associated with each to perform threat lookups of selected observables.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_ti.write
 
 This flow can be triggered in these ways.
 
--   by selecting one or more observables from the Observables list and selecting **[[tisc-run-threat-lookup|Run threat lookup]]** from the **Actions on selected rows** choice list.
+-   by selecting one or more observables from the Observables list and selecting **Run threat lookup** from the **Actions on selected rows** choice list.
 -   by opening an observable record and clicking the **Run threat lookup** related link.
 -   From the Observables related list in a security incident.
 
@@ -30,22 +30,12 @@ Each method then allows you to specify which lookup implementations to be used t
 
 \[Omitted image "threat-lookup-flow.png"\] Alt text: Security Operations Integration - Threat Lookup
 
-Actions specific to this flow are described here. For more information on other actions, see [[common-wf-activities|Common Security Operations integration flows and orchestration activities]].
+Actions specific to this flow are described here. For more information on other actions, see [Common Security Operations integration flows and orchestration activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/common-wf-activities.md).
 
 The flow process actions include:
 
--   [[get-supported-security-capabilities-activity|Get Supported Security Capabilities action]]
--   [[execution-tracking-noimpls-activity|Capability Execution Tracking- No Impls action]]
+-   [Get Supported Security Capabilities action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/get-supported-security-capabilities-activity.md)
+-   [Capability Execution Tracking- No Impls action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/execution-tracking-noimpls-activity.md)
 
-**Parent Topic:**[[sec-ops-threat-lookups-capability|Security Operations Integration - Threat Lookup capability]]
+**Parent Topic:**[Security Operations Integration - Threat Lookup capability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sec-ops-threat-lookups-capability.md)
 
-## Related
-
-- [[common-wf-activities|Common Security Operations integration flows and orchestration activities]]
-- [[get-supported-security-capabilities-activity|Get Supported Security Capabilities action]]
-- [[execution-tracking-noimpls-activity|Capability Execution Tracking- No Impls action]]
-- [[sec-ops-threat-lookups-capability|Security Operations Integration - Threat Lookup capability]]
-- [[security-operations-landing-page|Security Operations]]
-- [[tisc-threat-lookup|Threat Lookup]]
-- [[c_Observables|Observables]]
-- [[tisc-run-threat-lookup|Run Threat Lookup]]

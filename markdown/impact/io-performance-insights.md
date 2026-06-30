@@ -13,7 +13,7 @@ breadcrumb: [User configurable dashboard, Monitoring instance health with Instan
 
 # Performance insights in user-configurable dashboard
 
-The [[instance-observer-performance|Performance]] insights widget in the user-configurable dashboard displays the total production instances, their count, and the status of their performance score in a dial component.
+The Performance insights widget in the user-configurable dashboard displays the total production instances, their count, and the status of their performance score in a dial component.
 
 **Important:** Performance insights of the instances as a feature are available to Total customers only, and both in the regulated and non-regulated markets. Consequently, the ML model deduces and sends the data to the back end if you’re a Total tier customer and your instances have at least four weeks of data.
 
@@ -21,7 +21,7 @@ The performance summary of the instances as a feature exists in the:
 
 -   User configurable dashboard
 -   Customizable widget that you can add on the dashboard
--   [[io-analytics|Analytics]] page
+-   Analytics page
 
 ## Performance insights widget in the user-configurable dashboard
 
@@ -49,7 +49,7 @@ Select the **View all Instances** link to view all the production instances in t
 
 You can also configure only one instance or multiple instances and view the performance summary.
 
-To create a customizable widget on a new dashboard, see [[customize-instance-observer-dashboard|Create a dashboard]].
+To create a customizable widget on a new dashboard, see [Create a dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/customize-instance-observer-dashboard.md).
 
 1.  Select the **Edit Dashboard** link on the top and click the **Add Widget** option.
 2.  Select **Custom** or **Out of the box** option for the kind of widget that you would like to add.
@@ -88,11 +88,5 @@ The root cause report opens in a separate page with the **Root cause summary and
 
 Select the instance name in the Instance column that opens a slider page displaying the instance name, instance type, and instance status. If the instance performance status is Optimal, then you wouldn't see any data fetched from the back end. The columns in the slider page are sortable and filterable, and selecting the links in the **Metrics Affected** column takes you to the respective performance page. The trend in data is displayed in the **Trend** column.
 
-**Parent Topic:**[[user-configurable-dashboard|Instance Observer user configurable dashboard]]
+**Parent Topic:**[Instance Observer user configurable dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/user-configurable-dashboard.md)
 
-## Related
-
-- [[customize-instance-observer-dashboard|Create a dashboard]]
-- [[user-configurable-dashboard|Instance Observer user configurable dashboard]]
-- [[instance-observer-performance|Performance]]
-- [[io-analytics|Analytics]]

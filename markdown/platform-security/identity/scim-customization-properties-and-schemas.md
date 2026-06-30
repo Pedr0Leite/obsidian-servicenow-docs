@@ -14,11 +14,11 @@ breadcrumb: [SCIM customization, SCIM Provider, System for Cross-domain Identity
 
 # SCIM customization properties and schemas
 
-The [[scim-customisation|SCIM customization]] includes the following properties, supported schemas, and unsupported schemas.
+The SCIM customization includes the following properties, supported schemas, and unsupported schemas.
 
 ## Properties
 
-SCIM customization adds the following [[ca-system-properties|system properties]].
+SCIM customization adds the following system properties.
 
 <table id="table_zyl_dyx_ctb"><thead><tr><th>
 
@@ -97,13 +97,7 @@ SCIM customization adds the following supported schemas.
 
 ## Unsupported schema
 
-**urn:ietf:params:scim:schemas:extension:enterprise:2.0:User**: Includes attributes commonly used in representing [[users|users]] that belong to or act on behalf of a business or an enterprise.
+**urn:ietf:params:scim:schemas:extension:enterprise:2.0:User**: Includes attributes commonly used in representing users that belong to or act on behalf of a business or an enterprise.
 
-**Note:** Enterprise schema is a valid schema but its attributes are mapped to any table. Because database persistence is not supported, there will be no error displayed if an enterprise schema is included in the [[c_requestAPI|request]] body.
+**Note:** Enterprise schema is a valid schema but its attributes are mapped to any table. Because database persistence is not supported, there will be no error displayed if an enterprise schema is included in the request body.
 
-## Related
-
-- [[scim-customisation|SCIM customization]]
-- [[ca-system-properties|System properties]]
-- [[users|Users]]
-- [[c_requestAPI|request]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, Digital Portfolio Management, IT Service Management]
 
 # Apply the CSDM guidelines to Digital Portfolio Management
 
-Service data relates to each other using different [[dex-workspace-application-tab|applications]] and in different ways. [[dpm-landing|Digital Portfolio Management]] \(DPM\) references the Common Service Data Model \(CSDM\) framework to bring service-related data together in a single view.
+Service data relates to each other using different applications and in different ways. Digital Portfolio Management \(DPM\) references the Common Service Data Model \(CSDM\) framework to bring service-related data together in a single view.
 
 DPM enables you to organize service data in logical sequences that make sense for your business. You can see details about your own services as well as services that you don't own but may impact your business.
 
@@ -32,7 +32,7 @@ Service portfolios viewed in DPM display the phase \(or stage\) field and the st
 
 **Important:** For the Australia release and later, the labels for the items in the \[cmdb\_ci\_service\_technical\] table and \[service\_offering\] table are Technology Management Service and Technology Management Service Offering, respectively. The label changes align with the CSDM, version 5. Prior to the Australia release, the labels are technology management service and technology management service Offering.
 
-The following comparison shows the differences from the traditional [[SPM2-landing-page|Service Portfolio Management]] phase and status fields to the CSDM life-cycle stage and status fields.
+The following comparison shows the differences from the traditional Service Portfolio Management phase and status fields to the CSDM life-cycle stage and status fields.
 
 These fields also display when you use the Performance Analytics \(PA\) indicators.
 
@@ -69,8 +69,3 @@ Because both ServiceNow® products of Digital Portfolio Management \(DPM\) and S
 
 [Implementing the CSDM framework in stages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/csdm-implementation-stages.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[dpm-landing|Digital Portfolio Management]]
-- [[SPM2-landing-page|Service Portfolio Management]]

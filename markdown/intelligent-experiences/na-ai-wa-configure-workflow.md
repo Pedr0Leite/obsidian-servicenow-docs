@@ -12,11 +12,11 @@ breadcrumb: [Add adaptive desktop action for web, Create AI agents, AI Desktop A
 
 # Create an agentic workflow for automating web tasks
 
-Create an agentic workflow in [[ai-agent-studio|AI Agent Studio]] so that AI agents can coordinate to automate web tasks that are dynamic in nature.
+Create an agentic workflow in AI Agent Studio so that AI agents can coordinate to automate web tasks that are dynamic in nature.
 
 ## Before you begin
 
-Set your application scope to [[platform-now-assist-landing|Now Assist]] AI web agent.
+Set your application scope to Now Assist AI web agent.
 
 Role required: sn\_aia.admin
 
@@ -24,11 +24,11 @@ Role required: sn\_aia.admin
 
 Agentic workflows automate processes with agentic AI. In AI Agent Studio, you must define an agentic workflow and connect it with an AI agent to execute web tasks. These goals can involve variable data or other factors that traditional automation can struggle with.
 
-An AI agent named **Web Automation Agent** and agentic workflow named **Web Automation** are provided by default when you install [[agentic-desktop-landing-page|AI Desktop Actions]]. You can create a different agentic workflow referencing this AI agent or AI agent that you created so that your users can find and use the agentic workflow in the [[now-assist-center-now-assist-panel|Now Assist panel]].
+An AI agent named **Web Automation Agent** and agentic workflow named **Web Automation** are provided by default when you install AI Desktop Actions. You can create a different agentic workflow referencing this AI agent or AI agent that you created so that your users can find and use the agentic workflow in the Now Assist panel.
 
-Verify that the enhanced chat is available in the Now Assist panel. The **Web view** pane is available only when enhanced chat is enabled. For more information, see [[now-assist-panel-enhanced|Enhanced chat]].
+Verify that the enhanced chat is available in the Now Assist panel. The **Web view** pane is available only when enhanced chat is enabled. For more information, see [Enhanced chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-enhanced.md).
 
-For more information, see [[configure-next-best-action-agent|Create an AI agent]] and [[configure-use-case-ai-agents|Create an agentic workflow]].
+For more information, see [Create an AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-next-best-action-agent.md) and [Create an agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-use-case-ai-agents.md).
 
 ## Procedure
 
@@ -86,21 +86,10 @@ For more information, see [[configure-next-best-action-agent|Create an AI agent]
 
 15. Select **Save and test**.
 
-    You're directed to the **Testing** tab of AI Agent Studio. For more information, see [[na-ai-wa-test|Test an AI agent or agentic workflow for adaptive desktop actions]].
+    You're directed to the **Testing** tab of AI Agent Studio. For more information, see [Test an AI agent or agentic workflow for adaptive desktop actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/na-ai-wa-test.md).
 
 
 ## Result
 
-The agentic workflow you have created is available in the Now Assist panel to the users you have designated. For more information, see [[na-ai-wa-access-using-nap|Trigger an AI agent to execute adaptive path desktop actions]].
+The agentic workflow you have created is available in the Now Assist panel to the users you have designated. For more information, see [Trigger an AI agent to execute adaptive path desktop actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/na-ai-wa-access-using-nap.md).
 
-## Related
-
-- [[now-assist-panel-enhanced|Enhanced chat]]
-- [[configure-next-best-action-agent|Create an AI agent]]
-- [[configure-use-case-ai-agents|Create an agentic workflow]]
-- [[na-ai-wa-test|Test an AI agent or agentic workflow for adaptive desktop actions]]
-- [[na-ai-wa-access-using-nap|Trigger an AI agent to execute adaptive path desktop actions]]
-- [[ai-agent-studio|AI Agent Studio]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[agentic-desktop-landing-page|AI Desktop Actions]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]

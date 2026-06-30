@@ -14,13 +14,13 @@ breadcrumb: [Using the homepage of Knowledge Management v3, Using Knowledge Mana
 
 # Search using Knowledge Management v3
 
-Search for knowledge articles from the knowledge homepage using the search bar on the [[knowledge-management|Knowledge Management]] v3 homepage.
+Search for knowledge articles from the knowledge homepage using the search bar on the Knowledge Management v3 homepage.
 
 Search results include only articles and questions you are authorized to read. The search results count do not take into consideration any security rules set for the articles. The number of articles you can access may be lower than the count displayed in the search results page. Documents that are attached to articles are also listed in the search results.
 
 **Note:**
 
--   To change how the attachments are displayed in the search results, set the **How to display attachments in Knowledge Search Results** **glide.knowman.search.[[attachment|attachment]]** property. Attachments can be displayed with a text snippet, link only, or not at all.
+-   To change how the attachments are displayed in the search results, set the **How to display attachments in Knowledge Search Results** **glide.knowman.search.attachment** property. Attachments can be displayed with a text snippet, link only, or not at all.
 
     **Warning:** Attachments set to display with a text snippet may cause slowness.
 
@@ -76,7 +76,7 @@ The multi-language search feature is available when more than one supported lang
 
 2.  To display search results in all available languages simultaneously, enable the **glide.knowman.enable\_multi\_language\_search** property.
 
-    1.  Navigate to **Knowledge** &gt; **Administration** &gt; **Properties** &gt; **Knowledge Search Properties** &gt; **Enable multi language search** and select the **Yes** [[check-box|check box]].
+    1.  Navigate to **Knowledge** &gt; **Administration** &gt; **Properties** &gt; **Knowledge Search Properties** &gt; **Enable multi language search** and select the **Yes** check box.
     2.  Enter `sys_properties.list`in the filter navigator, search for the property to configure, and in the **Value** field, enter `true`.
 **Note:** By default, the **glide.knowman.enable\_multi\_language\_search** property is not enabled. Search results are displayed based on the language you select in the language filter on the Search page.
 
@@ -93,8 +93,3 @@ Starting with the Washington DC release, the Knowledge Management v3 homepage \(
 
 [Knowledge Management properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/r_KnowledgeProperties.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]
-- [[attachment|Attachment]]
-- [[check-box|Check box]]

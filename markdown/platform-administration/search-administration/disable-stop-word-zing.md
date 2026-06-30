@@ -14,7 +14,7 @@ breadcrumb: [Zing removes stop words from queries, Zing text indexing and search
 
 # Disable a stop word in Zing
 
-Configure Zing to return [[hs-results|results]] for text search terms that match a stop word's stemmed form.
+Configure Zing to return results for text search terms that match a stop word's stemmed form.
 
 ## Before you begin
 
@@ -41,7 +41,7 @@ For more details on stemming in Zing, see [Zing matches derived words with stemm
 
 1.  To disable a stop word in the global stop word list, perform the following steps:
 
-    1.  Navigate to **All** &gt; **System Definition** &gt; **Text Index [[stop-words-ais|Stop Words]]**.
+    1.  Navigate to **All** &gt; **System Definition** &gt; **Text Index Stop Words**.
 
     2.  Open the record for the stop word you want to disable.
 
@@ -77,7 +77,3 @@ Zing no longer ignores the disabled stop word and its stemmed forms in text sear
 
 [Enable automatic stop words for a table]()
 
-## Related
-
-- [[hs-results|Results]]
-- [[stop-words-ais|Stop words]]

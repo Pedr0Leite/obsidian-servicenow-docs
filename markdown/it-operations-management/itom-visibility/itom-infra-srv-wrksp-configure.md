@@ -16,11 +16,7 @@ breadcrumb: [ITOM Infra Services Workspace, ITOM Visibility, IT Operations Manag
 
 The dashboard provides real-time monitoring, proactive alerts, automation of common tasks, and centralized diagnostics to reduce downtime and support tickets.
 
-The [[itom-infra-srv-wrksp-landing|ITOM Infra Services Workspace]] is available out of the box with the Australia family release, and is available as a Store release in the Yokohama and Zurich family releases.
+The ITOM Infra Services Workspace is available out of the box with the Australia family release, and is available as a Store release in the Yokohama and Zurich family releases.
 
-The ITOM Infra Services Workspace and [[itom-infra-srv-wrksp-mid|MID Server workspace]] are provided by default. Additional applications are installed if you have the corresponding plug-ins on the instance.
+The ITOM Infra Services Workspace and MID Server workspace are provided by default. Additional applications are installed if you have the corresponding plug-ins on the instance.
 
-## Related
-
-- [[itom-infra-srv-wrksp-landing|ITOM Infra Services Workspace]]
-- [[itom-infra-srv-wrksp-mid|MID Server Workspace]]

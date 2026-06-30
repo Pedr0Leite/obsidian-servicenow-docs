@@ -14,7 +14,7 @@ breadcrumb: [Test Management 1.0, Test Management applications, Strategic Portfo
 
 # Performing tests and updating the test status
 
-Perform [[c_Tests|tests]], record test results, and update the test status after [[c_TestCases|test cases]] are assigned.
+Perform tests, record test results, and update the test status after test cases are assigned.
 
 Testers can perform the following actions in the Test Management application:
 
@@ -25,7 +25,7 @@ Testers can perform the following actions in the Test Management application:
 -   Retest as necessary.
 -   Update the test case status.
 
-If a [[c_GuidedTestExecution|guided test execution]] feature is used, any user can be assigned to a test case and can perform the tests within that test case.
+If a guided test execution feature is used, any user can be assigned to a test case and can perform the tests within that test case.
 
 -   **[Perform tests using the Test Case form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/t_PerformTestsUsingTheTestCaseForm.md)**  
 Perform tests from an assigned test case and record results using the Test Case form.
@@ -36,8 +36,3 @@ Perform tests from an assigned test case and record results.
 
 **Parent Topic:**[Test Management 1.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/c_TestManagement.md)
 
-## Related
-
-- [[c_Tests|Tests]]
-- [[c_TestCases|Test cases]]
-- [[c_GuidedTestExecution|Guided test execution]]

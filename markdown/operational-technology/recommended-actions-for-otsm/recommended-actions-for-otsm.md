@@ -14,7 +14,7 @@ breadcrumb: [Operational Technology]
 
 # Recommended Actions for Operational Technology Service Management \(OTSM\)
 
-Recommended Actions for Operational Technology Service Management \(OTSM\) allows you to set up and apply real-time actionable recommendations for speeding up the triaging process and resolving issues quickly across various records in the [[industrial-workspace-for-operational-technology|Industrial Workspace]], including [[operational-technology-overview|Operational Technology]] \(OT\) incidents.
+Recommended Actions for Operational Technology Service Management \(OTSM\) allows you to set up and apply real-time actionable recommendations for speeding up the triaging process and resolving issues quickly across various records in the Industrial Workspace, including Operational Technology \(OT\) incidents.
 
 ## Get started
 
@@ -53,7 +53,6 @@ Some ServiceNow resources that can provide you with helpful information are:
 
 -   **\[Omitted image "dcx-icon-support.svg"\] Support**
 
-## Related
 
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[operational-technology-overview|Operational Technology]]
+
+

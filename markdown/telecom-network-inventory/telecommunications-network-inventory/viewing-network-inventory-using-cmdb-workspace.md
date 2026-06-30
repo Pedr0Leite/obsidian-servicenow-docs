@@ -129,10 +129,7 @@ However, an Admin can always customize the deletion action. To learn more, see [
 
 </td></tr></tbody>
 </table>-   **[Customizing deletion action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/customizing-deletion-action.md)**  
-[[customizing-deletion-action|Customizing deletion action]] enables you to create your own process of the deletion.
+Customizing deletion action enables you to create your own process of the deletion.
 
 **Parent Topic:**[Using Telecommunications Network Inventory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/using-telecom-network-inventory.md)
 
-## Related
-
-- [[customizing-deletion-action|Customizing deletion action]]

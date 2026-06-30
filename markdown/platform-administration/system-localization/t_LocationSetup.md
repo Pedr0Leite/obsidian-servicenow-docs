@@ -14,7 +14,7 @@ breadcrumb: [Configuring System Localization, System Localization, Translation a
 
 # Set up locations
 
-If your organization supports more than one distinct location, you can configure these locations in the platform to help further identify users, [[ia-assets|assets]], and incidents.
+If your organization supports more than one distinct location, you can configure these locations in the platform to help further identify users, assets, and incidents.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  In the application navigator, navigate to **All** &gt; **[[c_UserAdministration|User Administration]]** &gt; **Locations**.
+1.  In the application navigator, navigate to **All** &gt; **User Administration** &gt; **Locations**.
 
 2.  Select **New**.
 
@@ -33,10 +33,5 @@ Role required: admin
 
 ## Result
 
-The new location is available as a [[reference-email-admin|reference]] anywhere you can specify one.
+The new location is available as a reference anywhere you can specify one.
 
-## Related
-
-- [[ia-assets|Assets]]
-- [[c_UserAdministration|User administration]]
-- [[reference-email-admin|Reference]]

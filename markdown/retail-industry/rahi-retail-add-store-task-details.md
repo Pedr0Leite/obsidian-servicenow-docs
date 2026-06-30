@@ -32,7 +32,7 @@ Role required: sn\_rtl\_hq\_ops.agent, sn\_rtl\_hq\_ops.agent\_manager, sn\_rtl\
 
 5.  Select a questionnaire template in the **Questionnaire template** or select **Create new questionnaire**.
 
-    Once you create and fulfill the questionnaire, you can view the smart assessment instance through View Questionnaire on mobile app and the list of smart assessment templates through the [[rahi-retail-create-a-questionnaire-template|Retail Questionnaire]] list on the workspace.
+    Once you create and fulfill the questionnaire, you can view the smart assessment instance through View Questionnaire on mobile app and the list of smart assessment templates through the Retail Questionnaire list on the workspace.
 
 6.  Select **Continue**.
 
@@ -55,9 +55,5 @@ Role required: sn\_rtl\_hq\_ops.agent, sn\_rtl\_hq\_ops.agent\_manager, sn\_rtl\
     3.  Select **Continue** to go next step.
 
 
-**Parent Topic:**[[rahi-retail-manage-store-plan-authoring|Manage store plans to generate cases and tasks]]
+**Parent Topic:**[Manage store plans to generate cases and tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-manage-store-plan-authoring.md)
 
-## Related
-
-- [[rahi-retail-manage-store-plan-authoring|Manage store plans to generate cases and tasks]]
-- [[rahi-retail-create-a-questionnaire-template|Retail questionnaire]]

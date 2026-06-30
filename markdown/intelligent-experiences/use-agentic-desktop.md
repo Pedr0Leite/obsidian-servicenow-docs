@@ -15,19 +15,12 @@ breadcrumb: [AI Desktop Actions, Enable AI experiences]
 
 These examples explain how to trigger AI Agents that execute automations you designed using desktop actions. The following topics walk you through the end-to-end execution flow so you understand how AI-driven execution works in your desktop environment.
 
--   **[[example-use-badging-ai-agent-ad|Example: Use AI agents to process badge-related requests automatically]]**  
-As an HR representative, automatically process various badge requests by triggering AI agents that use desktop action tools from the [[now-assist-center-now-assist-panel|Now Assist panel]].
--   **[[example-use-shipping-ai-agent-ad|Example: Use AI agents to automatically enter data into the shipping management app]]**  
+-   **[Example: Use AI agents to process badge-related requests automatically](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/example-use-badging-ai-agent-ad.md)**  
+As an HR representative, automatically process various badge requests by triggering AI agents that use desktop action tools from the Now Assist panel.
+-   **[Example: Use AI agents to automatically enter data into the shipping management app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/example-use-shipping-ai-agent-ad.md)**  
 As a shipping coordinator, enter shipping details automatically from Excel to the Shipping Management app by triggering AI agents that use desktop action tools from the Now Assist panel.
--   **[[na-ai-wa-access-using-nap|Trigger an AI agent to execute adaptive path desktop actions]]**  
+-   **[Trigger an AI agent to execute adaptive path desktop actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/na-ai-wa-access-using-nap.md)**  
 Trigger an AI agent that uses adaptive desktop actions from the Now Assist panel. These desktop actions perform tasks on an external website or web application.
 
-**Parent Topic:**[[agentic-desktop-landing-page|AI Desktop Actions]]
+**Parent Topic:**[AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/agentic-desktop-landing-page.md)
 
-## Related
-
-- [[example-use-badging-ai-agent-ad|example use badging ai agent ad]]
-- [[example-use-shipping-ai-agent-ad|example use shipping ai agent ad]]
-- [[na-ai-wa-access-using-nap|Trigger an AI agent to execute adaptive path desktop actions]]
-- [[agentic-desktop-landing-page|AI Desktop Actions]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]

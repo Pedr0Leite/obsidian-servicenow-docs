@@ -14,7 +14,7 @@ breadcrumb: [SOX content pack, GRC content packs, Common GRC features, Governanc
 
 # Verify the SOX Content Pack in Risk Management
 
-After importing the SOX Content Pack, verify and edit the [[entity-type-in-risk-ws|entity types]], entities, risk statements, risks, and assessments within the Risk Management application.
+After importing the SOX Content Pack, verify and edit the entity types, entities, risk statements, risks, and assessments within the Risk Management application.
 
 ## Before you begin
 
@@ -63,6 +63,3 @@ For information about the SOX Risk Dashboard, see [SOX Content Pack dashboard an
 
 **Parent Topic:**[Sarbanes-Oxley \(SOX\) Content Pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/sn-store-SOX-governance-risk-compliance.md)
 
-## Related
-
-- [[entity-type-in-risk-ws|Entity types]]

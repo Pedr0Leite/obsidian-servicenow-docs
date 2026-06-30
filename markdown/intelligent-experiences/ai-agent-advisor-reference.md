@@ -15,15 +15,10 @@ breadcrumb: [AI Agent Advisor, Enable AI experiences]
 
 The following topics provide additional information about the features and properties installed with AI Agent Advisor.
 
--   **[[components-installed-with-ai-agent-advisor|Components installed with AI Agent Advisor]]**  
+-   **[Components installed with AI Agent Advisor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/components-installed-with-ai-agent-advisor.md)**  
 Several components are installed with the AI Agent Advisor application.
--   **[[ai-agent-advisor-roles|AI Agent Advisor roles]]**  
+-   **[AI Agent Advisor roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-agent-advisor-roles.md)**  
 AI Agent Advisor is installed with these roles.
 
-**Parent Topic:**[[ai-agent-advisor-landing-page|AI Agent Advisor]]
+**Parent Topic:**[AI Agent Advisor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-agent-advisor-landing-page.md)
 
-## Related
-
-- [[components-installed-with-ai-agent-advisor|Components installed with AI Agent Advisor]]
-- [[ai-agent-advisor-roles|AI Agent Advisor roles]]
-- [[ai-agent-advisor-landing-page|AI Agent Advisor]]

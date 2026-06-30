@@ -14,7 +14,7 @@ breadcrumb: [Install the Edge Encryption proxy server using the command line ins
 
 # Manually add an additional proxy
 
-After the first [[edge-encryption|Edge Encryption]] proxy is properly configured and tested, you can set up additional proxies on a Linux or Windows machine. Installing multiple proxies on the same machine is not recommended.
+After the first Edge Encryption proxy is properly configured and tested, you can set up additional proxies on a Linux or Windows machine. Installing multiple proxies on the same machine is not recommended.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin
 
 Add additional proxy servers on additional machines to ensure an optimal environment. See [Sizing your Edge Encryption environment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/edge-environment-size.md) to determine the number of additional proxies needed.
 
-**Note:** Make sure that all proxies have the same [[encryption-landing|encryption]] keys and the same RSA key pair used to digitally sign encryption [[sc-configuration|configuration]] and encryption rules. If a proxy database was set up as part of the installation, all proxies must use the same proxy database.
+**Note:** Make sure that all proxies have the same encryption keys and the same RSA key pair used to digitally sign encryption configuration and encryption rules. If a proxy database was set up as part of the installation, all proxies must use the same proxy database.
 
 ## Procedure
 
@@ -70,8 +70,3 @@ Add additional proxy servers on additional machines to ensure an optimal environ
 
 **Next topic:**[Authenticate an Edge Encryption proxy server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/authenticate-edge-proxy.md)
 
-## Related
-
-- [[edge-encryption|Edge Encryption]]
-- [[encryption-landing|Encryption]]
-- [[sc-configuration|Configuration]]

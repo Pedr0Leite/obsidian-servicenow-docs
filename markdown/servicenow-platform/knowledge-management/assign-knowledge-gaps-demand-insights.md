@@ -22,7 +22,7 @@ Role required: admin or assignment\_rule\_admin
 
 ## About this task
 
-Knowledge gap feedback tasks created through the [[knowledge-demand-insights|Knowledge Demand Insights]] feature create feedback tasks of type **Knowledge gap**.
+Knowledge gap feedback tasks created through the Knowledge Demand Insights feature create feedback tasks of type **Knowledge gap**.
 
 ## Procedure
 
@@ -57,6 +57,3 @@ Knowledge gap feedback tasks created through the [[knowledge-demand-insights|Kno
 
 [Analyze knowledge gaps from a demand insights dashboard and create knowledge gap feedback tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/analyze-knowledge-gaps-demand-insights.md)
 
-## Related
-
-- [[knowledge-demand-insights|Knowledge demand insights]]

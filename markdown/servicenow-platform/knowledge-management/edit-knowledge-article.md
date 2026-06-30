@@ -24,11 +24,11 @@ Role required: knowledge
 
 Users with at least one role can edit knowledge. These users are known as knowledge contributors. Users without any role can read articles and submit feedback, but cannot edit articles.
 
-However, knowledge managers can configure User Criteria to [[t_ContrlAccessByCDGUOrLoc|restrict access]] to certain knowledge bases. For example, only members of the IT department can create or edit knowledge articles in the IT knowledge base, such as desktop support information or articles describing company IT processes.
+However, knowledge managers can configure User Criteria to restrict access to certain knowledge bases. For example, only members of the IT department can create or edit knowledge articles in the IT knowledge base, such as desktop support information or articles describing company IT processes.
 
 **Note:**
 
--   If the [[article-versioning|article versioning]] feature is enabled, the author cannot edit the article if it is already checked out by the contributor. If the feature is disabled, any users with contribute access to an article can edit the draft version of the article. An administrator can [[article-versioning-disable-property|disable the article versioning feature]] by setting the **glide.knowman.versioning.enabled** property \(from the **System Property** \[sys\_properties\] table\) to **false**.
+-   If the article versioning feature is enabled, the author cannot edit the article if it is already checked out by the contributor. If the feature is disabled, any users with contribute access to an article can edit the draft version of the article. An administrator can disable the article versioning feature by setting the **glide.knowman.versioning.enabled** property \(from the **System Property** \[sys\_properties\] table\) to **false**.
 -   If an ownership group is associated with a knowledge article, the author or reviser of the article can't contribute to the article after the article is published. An administrator can override this behavior by enabling the **glide.knowman.ownership\_group.override** property. For more information, see [Ownership groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/enable-ownership-group.md).
 -   If the **glide.knowman.translation.enable\_translation\_task** property is enabled, you can’t modify the knowledge base of existing articles.
 
@@ -42,7 +42,7 @@ However, knowledge managers can configure User Criteria to [[t_ContrlAccessByCDG
 
     **Note:** If the knowledge article was created using Microsoft Word, you can edit the article only in Microsoft Word. In this case, select **Open in Word** to open the article in Word Online. For more information, see [Edit a knowledge article in Microsoft Word](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/edit-article-word.md).
 
-    If you want to edit the article using the [[html|HTML]] editor, you can unlink the article from Word. For more information, see [Unlink knowledge articles from linked Microsoft Word documents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/unlink-word-document.md).
+    If you want to edit the article using the HTML editor, you can unlink the article from Word. For more information, see [Unlink knowledge articles from linked Microsoft Word documents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/unlink-word-document.md).
 
 4.  If the article versioning feature is enabled, click **Checkout** for a published knowledge article.
 
@@ -56,7 +56,7 @@ However, knowledge managers can configure User Criteria to [[t_ContrlAccessByCDG
 
     -   If the **Article Validity** field in the knowledge base associated with the article is blank, the **Valid to** date value from the earlier version of the article is retained.
     -   If the **Article Validity** field in the knowledge base associated with the article is not blank, the **Valid to** date is automatically updated to start from the date the article was updated until the number of days specified in the **Article Validity** field \(Article updated date + article validity\).
-    If you [[t_MoveAnArticle|move a knowledge article]] to another knowledge base, the default value of the **Valid to** date in the updated article is automatically set based on the following criteria:
+    If you move a knowledge article to another knowledge base, the default value of the **Valid to** date in the updated article is automatically set based on the following criteria:
 
     -   If the **Article Validity** field in the selected knowledge base is blank, the earlier **Valid to** date value is retained for the knowledge article.
     -   If the **Article Validity** field in the selected knowledge base isn't blank, the **Valid to** date is automatically updated to start from the date the article was updated until the number of days specified in the **Article Validity** field \(Article updated date + article validity\).
@@ -93,10 +93,3 @@ However, knowledge managers can configure User Criteria to [[t_ContrlAccessByCDG
 
 [Article versioning changes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/article-versioning-changes.md)
 
-## Related
-
-- [[t_ContrlAccessByCDGUOrLoc|Restrict access]]
-- [[article-versioning|Article versioning]]
-- [[article-versioning-disable-property|Disable the article versioning feature]]
-- [[html|HTML]]
-- [[t_MoveAnArticle|Move a knowledge article]]

@@ -15,7 +15,7 @@ breadcrumb: [Configure, Now Assist in Document Intelligence, Enable AI experienc
 
 # Set up a use case for Now Assist in Document Intelligence
 
-Create a use case record to define a document you want to process with [[docintel-nowassist-landing|Now Assist in Document Intelligence]].
+Create a use case record to define a document you want to process with Now Assist in Document Intelligence.
 
 ## Before you begin
 
@@ -24,11 +24,11 @@ Create a use case record to define a document you want to process with [[docinte
 
 ## About this task
 
-In a use case, you define the information you want [[platform-now-assist-landing|Now Assist]] to get from a document by specifying the type of document to process, the fields and tablesto detector questions you want to ask, and the location where document processing results are stored.
+In a use case, you define the information you want Now Assist to get from a document by specifying the type of document to process, the fields and tablesto detector questions you want to ask, and the location where document processing results are stored.
 
 Once you have defined a use case, users can begin processing documents for it in the related workflows.
 
-For more information on use [[cases|cases]], see [Use cases in Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/use-cases-now-assist-document-intelligence.md).
+For more information on use cases, see [Use cases in Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/use-cases-now-assist-document-intelligence.md).
 
 ## Procedure
 
@@ -36,7 +36,7 @@ For more information on use [[cases|cases]], see [Use cases in Now Assist in Doc
 
 2.  In the workflow list, select **Platform**.
 
-3.  In the Platform skills list, find the applicable [[document-intelligence-landing|document intelligence]] skill and select **Edit** in the options menu \( \[Omitted image "icon-docintel-field-options-menu.png"\] Alt text: Field options menu icon\).
+3.  In the Platform skills list, find the applicable document intelligence skill and select **Edit** in the options menu \( \[Omitted image "icon-docintel-field-options-menu.png"\] Alt text: Field options menu icon\).
 
 4.  Select **New use case**.
 
@@ -219,9 +219,3 @@ Upload from this device
 
 [Delete a use case in Now Assist in Document Intelligence]()
 
-## Related
-
-- [[docintel-nowassist-landing|Now Assist in Document Intelligence]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[cases|Cases]]
-- [[document-intelligence-landing|Document Intelligence]]

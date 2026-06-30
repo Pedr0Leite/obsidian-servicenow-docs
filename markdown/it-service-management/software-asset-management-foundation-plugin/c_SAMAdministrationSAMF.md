@@ -23,16 +23,11 @@ You can add a custom product if a software product does not exist in the Softwar
 -   **[Add a Software Asset Management Foundation plugin custom license metric](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/add-custom-license-metric-samf.md)**  
 You can add a custom license metric to modify the default reconciliation process.
 -   **[Migrate Software Asset Management Foundation plugin software installations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/t_MigrateSWInstallsSAMF.md)**  
-If you are using Discovery, run this script after installing [[c_SoftwareAssetMgmtSAMF|Software Asset Management Foundation plugin]] to copy previously discovered software installation records from the \[cmdb\_software\_instance\] table to the \[cmdb\_sam\_sw\_install\] table, which is used by Software Asset Management Foundation plugin to store software installation records.
+If you are using Discovery, run this script after installing Software Asset Management Foundation plugin to copy previously discovered software installation records from the \[cmdb\_software\_instance\] table to the \[cmdb\_sam\_sw\_install\] table, which is used by Software Asset Management Foundation plugin to store software installation records.
 -   **[Software Asset Management Foundation plugin properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/sam-properties-samf.md)**  
-You can set default reconciliation properties such as reconciliation run with custom license metrics, and reconciliation debugging [[settings-mobile|settings]].
+You can set default reconciliation properties such as reconciliation run with custom license metrics, and reconciliation debugging settings.
 -   **[Software Asset Management Foundation plugin migration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/c_SAMMigrationSAMF.md)**  
-Migrate from the Software [[c_AssetManagement|Asset Management]] plugin to the Software Asset Management Foundation plugin to take advantage of more powerful features. Manual actions by the customer are required after plugin activation.
+Migrate from the Software Asset Management plugin to the Software Asset Management Foundation plugin to take advantage of more powerful features. Manual actions by the customer are required after plugin activation.
 
 **Parent Topic:**[Software Asset Management Foundation plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/c_SoftwareAssetMgmtSAMF.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmtSAMF|Software Asset Management Foundation plugin]]
-- [[settings-mobile|Settings]]
-- [[c_AssetManagement|Asset Management]]

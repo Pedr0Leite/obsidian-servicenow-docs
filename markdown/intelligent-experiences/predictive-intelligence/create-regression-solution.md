@@ -37,7 +37,7 @@ In this example procedure, you create and train a regression solution definition
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[predictive-intelligence-landing|Predictive Intelligence]]** &gt; **Regression** &gt; **Solution Definitions**.
+1.  Navigate to **All** &gt; **Predictive Intelligence** &gt; **Regression** &gt; **Solution Definitions**.
 
 2.  On the Regression Definitions list, select **New**.
 
@@ -127,7 +127,7 @@ Processing Language
 
 </td><td>
 
-Select the primary language of the dataset that you're training on the solution definition. If the dataset language is Italian, choose **Italian**. Also, English processing is applied to all [[ai-datasets|datasets]] by default. For example, if you select Italian, the system processes the data in both English and Italian.**Note:** The term processing indicates some of the language-specific steps used as part of training a solution. These steps include tokenizing words, removing stop words, and stemming.
+Select the primary language of the dataset that you're training on the solution definition. If the dataset language is Italian, choose **Italian**. Also, English processing is applied to all datasets by default. For example, if you select Italian, the system processes the data in both English and Italian.**Note:** The term processing indicates some of the language-specific steps used as part of training a solution. These steps include tokenizing words, removing stop words, and stemming.
 
 </td></tr><tr><td>
 
@@ -135,7 +135,7 @@ Stopwords
 
 </td><td>
 
-When you select your processing language, the system automatically adds a Stopwords list that uses the same language. For example, if your processing language is Italian, the **Default Italian Stopwords** list is displayed. The **Default English Stopwords** list also displays in your selection. If you [[create-custom-stopwords-list|create a custom stopwords list]], you can select it from the Stopwords field to add it to your solution. In this scenario, you use the **Default English Stopwords** list.
+When you select your processing language, the system automatically adds a Stopwords list that uses the same language. For example, if your processing language is Italian, the **Default Italian Stopwords** list is displayed. The **Default English Stopwords** list also displays in your selection. If you create a custom stopwords list, you can select it from the Stopwords field to add it to your solution. In this scenario, you use the **Default English Stopwords** list.
 
 </td></tr><tr><td>
 
@@ -190,8 +190,3 @@ After you run the test, the prediction output statistics appear. The Point Estim
 
 \[Omitted image "create-regression-solution-stats2.png"\] Alt text: The test output values for the Point Estimate and Range Accuracy predictions.
 
-## Related
-
-- [[predictive-intelligence-landing|Predictive Intelligence]]
-- [[ai-datasets|Datasets]]
-- [[create-custom-stopwords-list|Create a custom stopwords list]]

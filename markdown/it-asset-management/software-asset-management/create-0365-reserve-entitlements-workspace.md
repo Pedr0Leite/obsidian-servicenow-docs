@@ -18,7 +18,7 @@ Create a reserve entitlement for Microsoft online services in the Software Asset
 
 ## Before you begin
 
-To create reserve entitlements for Microsoft online services in the [[sam-workspace|Software Asset Workspace]], you must request and activate the Software Asset Workspace \(sn\_sam\_workspace\) store application. For details on requesting and activating the Software Asset Workspace \(sn\_sam\_workspace\) store application, see [Request Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_RequSoftwareAssetMgmt.md).
+To create reserve entitlements for Microsoft online services in the Software Asset Workspace, you must request and activate the Software Asset Workspace \(sn\_sam\_workspace\) store application. For details on requesting and activating the Software Asset Workspace \(sn\_sam\_workspace\) store application, see [Request Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_RequSoftwareAssetMgmt.md).
 
 Role required: sam\_user or sam\_admin
 
@@ -30,7 +30,7 @@ Role required: sam\_user or sam\_admin
 
 2.  From the left navigation menu of the Software Asset Workspace, select **License operations**.
 
-    The [[operations-workspace|License operations view]] opens.
+    The License operations view opens.
 
 3.  From the left navigation menu of the License operations view, navigate to **Licensing** &gt; **Software entitlements**.
 
@@ -79,7 +79,3 @@ When you pass the end date of the reserve entitlement, the SAM - Subscription Ma
 
 The state of the reserve entitlement updates to **Retired**. On the Microsoft publisher overview, the cost of the retired reserve entitlement is removed from the **True-up cost** report. The cost of the new entitlement is included in the Current Subscription Spend.
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]
-- [[operations-workspace|License operations view]]

@@ -14,7 +14,7 @@ breadcrumb: [Orchestration activity designer, Classic Orchestration, ServiceNow 
 
 # Create custom activities using custom activity designer templates
 
-You can create and update different types of custom activities in the [[workflow-editor|Workflow Editor]] using a custom template.
+You can create and update different types of custom activities in the Workflow Editor using a custom template.
 
 ## Before you begin
 
@@ -80,7 +80,7 @@ The Activity Designer contains common steps which are applicable to all the acti
 
 </td><td>
 
-You can [[t_CreateAParsingRule|create a parsing rule]] and map them to the output fields by dragging and dropping the variables into the [parsing rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateAParsingRule.md) structure. The REST, SOAP, and JDBC templates provide auto-mapping to create the parsing rules automatically. If available from the test inputs form, auto-mapping should be used when possible.
+You can create a parsing rule and map them to the output fields by dragging and dropping the variables into the [parsing rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateAParsingRule.md) structure. The REST, SOAP, and JDBC templates provide auto-mapping to create the parsing rules automatically. If available from the test inputs form, auto-mapping should be used when possible.
 
 </td></tr><tr><td id="d578297e349">
 
@@ -115,7 +115,3 @@ Create the exit conditions for your activity in the **Condition** column and set
 
 **Parent Topic:**[Orchestration activity designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_WorkflowActivityDesigner.md)
 
-## Related
-
-- [[workflow-editor|Workflow editor]]
-- [[t_CreateAParsingRule|Create a parsing rule]]

@@ -12,7 +12,7 @@ breadcrumb: [Master data tables for Purchase Order Management, Reference, Purcha
 
 # Purchase Order Exception
 
-[[purchase-order-table|Purchase order]] exceptions arise when a [[supplier|supplier]] cannot fulfill the agreed terms of a purchase order. Common causes include changes to delivery quantity or date, or a complete inability to fulfill the order. Operational buyers use the [[purchase-order-mgmt-landing-page|Purchase Order Management]] application to manage and resolve these exceptions.
+Purchase order exceptions arise when a supplier cannot fulfill the agreed terms of a purchase order. Common causes include changes to delivery quantity or date, or a complete inability to fulfill the order. Operational buyers use the Purchase Order Management application to manage and resolve these exceptions.
 
 ## sn\_poem\_exception table
 
@@ -33,11 +33,5 @@ The Purchase order exception \[sn\_poem\_exception\] table contains the followin
 |Requested by|Reference|The user that submitted the exception.|
 |Primary contact|Reference|The main point of contact for resolving this exception on the buyer side.|
 
-**Parent Topic:**[[master-data-tables-for-pom|Master data tables for Purchase Order Management]]
+**Parent Topic:**[Master data tables for Purchase Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/master-data-tables-for-pom.md)
 
-## Related
-
-- [[master-data-tables-for-pom|Master data tables for Purchase Order Management]]
-- [[purchase-order-table|Purchase order]]
-- [[supplier|Supplier]]
-- [[purchase-order-mgmt-landing-page|Purchase Order Management]]

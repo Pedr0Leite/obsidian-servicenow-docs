@@ -19,15 +19,15 @@ Learn the difference between plugins, apps, integrations, and products, and unde
 
 A plugin is a set of customizations that extends the functionality of the ServiceNow AI Platform and any apps already installed on your instance. Some plugins are pre-activated in your instance, while others might need to be activated manually by you or by ServiceNow personnel.
 
-New plugins are made available during instance upgrades in accordance with your organization's ServiceNow licensing agreement. Plugins can’t be purchased through the [[servicenow-store|ServiceNow Store]].
+New plugins are made available during instance upgrades in accordance with your organization's ServiceNow licensing agreement. Plugins can’t be purchased through the ServiceNow Store.
 
-For more information about plugins, see [[c_ServiceNowPlugins|ServiceNow plugins]].
+For more information about plugins, see [ServiceNow plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ServiceNowPlugins.md).
 
 ## Applications/apps
 
 An application is a standalone piece of code that implements a collection of features on the ServiceNow AI Platform. You can try, buy, or get apps according to your ServiceNow licensing agreement through the ServiceNow Store.
 
-After getting an app from the ServiceNow Store, install it using the [[application-manager|Application Manager]]. For more information, see [Application Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/application-manager.md).
+After getting an app from the ServiceNow Store, install it using the Application Manager. For more information, see [Application Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/application-manager.md).
 
 You can also create your own apps. For more information about creating apps for your ServiceNow AI Platform instance, see [Building applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/build-applications.md).
 
@@ -39,11 +39,5 @@ An integration is a type of app that connects your instance to various systems o
 
 Products are collections of apps that work together to add additional features and capabilities to your ServiceNow AI Platform instance.
 
-For more information about procuring products, see [[getting-products|Getting products]].
+For more information about procuring products, see [Getting products](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/getting-products.md).
 
-## Related
-
-- [[c_ServiceNowPlugins|ServiceNow plugins]]
-- [[getting-products|Getting products]]
-- [[servicenow-store|ServiceNow Store]]
-- [[application-manager|Application Manager]]

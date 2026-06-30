@@ -20,7 +20,7 @@ Portfolio Planning in Strategic Planning Workspace helps product and portfolio m
 
 <table id="table_kzf_qkz_qzb" class="nav-card"><tbody><tr><td>
 
-[Explore \[Omitted image "bus-explore.svg"\] Alt text: Learn the key features and business value of [[portfolio-planning-app-landing-page|Portfolio Planning]] in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/alignment-planner-workspace.md)
+[Explore \[Omitted image "bus-explore.svg"\] Alt text: Learn the key features and business value of Portfolio Planning in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/alignment-planner-workspace.md)
 
 </td><td>
 
@@ -36,7 +36,7 @@ Portfolio Planning in Strategic Planning Workspace helps product and portfolio m
 
 </td><td>
 
-[Prioritize\[Omitted image "bus-balance-value.svg"\] Alt text:Rank and [[prioritize-work-portfolio-planning-workspace|prioritize work]] for your portfolio plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/managing-backlog-alignment-planner-workspace.md)
+[Prioritize\[Omitted image "bus-balance-value.svg"\] Alt text:Rank and prioritize work for your portfolio plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/managing-backlog-alignment-planner-workspace.md)
 
 </td><td>
 
@@ -48,7 +48,7 @@ Portfolio Planning in Strategic Planning Workspace helps product and portfolio m
 
 </td><td>
 
-[Integrate \[Omitted image "bus-integration-and-apis.svg"\] Alt text: Integrate [[alignment-planner-workspace-landing-page|Strategic Planning]] with execution systems](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/configuring-apw-with-agile-safe-and-ppm.md)
+[Integrate \[Omitted image "bus-integration-and-apis.svg"\] Alt text: Integrate Strategic Planning with execution systems](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/configuring-apw-with-agile-safe-and-ppm.md)
 
 </td><td>
 
@@ -60,8 +60,3 @@ Portfolio Planning in Strategic Planning Workspace helps product and portfolio m
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[prioritize-work-portfolio-planning-workspace|Prioritize work]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

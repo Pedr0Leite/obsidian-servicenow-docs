@@ -14,7 +14,7 @@ breadcrumb: [Activate content packs, Activate, Process Mining, Platform Analytic
 
 # Content pack for Customer Service Management
 
-Using the [[process-mining|Process Mining]] content pack for Customer Service Management enables you to analyze processes relevant to your KPIs, and identify bottlenecks associated with customer service cases.
+Using the Process Mining content pack for Customer Service Management enables you to analyze processes relevant to your KPIs, and identify bottlenecks associated with customer service cases.
 
 For more information about enabling the Process Mining Content Pack for CSM, see [Activate content packs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/activate-po-content-pack.md).
 
@@ -176,7 +176,7 @@ Use the SLA Breach Analysis project to analyze the reasons why customers are bre
 
 To access the SLA Breach Analysis project:
 
-1.  Navigate to **Workspaces** &gt; **[[analyst-workbench-overview|Process Mining Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Process Mining Workspace**.
 2.  Select **All** to display the use case projects.
 3.  Select **SLA Breach Analysis Project**.
 4.  Select the More options menu.
@@ -196,7 +196,4 @@ To access the SLA Breach Analysis project:
 
     For more information about using Analyst workbench, including breakdown filters and process maps, see the details in the [Analyst Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/analyst-workbench-dashboard.md) topic.
 
-## Related
 
-- [[process-mining|Process Mining]]
-- [[analyst-workbench-overview|Process Mining workspace]]

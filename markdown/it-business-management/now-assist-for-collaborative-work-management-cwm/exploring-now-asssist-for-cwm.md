@@ -105,7 +105,7 @@ Learn more about the generative AI capabilities of Now Assist for CWM and how th
     -   Split a task recommendation into multiple tasks.
     -   Combine multiple task recommendations into one task.
     -   Remove any task recommendation.
-    \[Omitted image "cwm-task-generation-now-assist.png"\] Alt text: CWM planning Doc page with the Now Assist panel showing generated tasks for a hackathon, including logistics, cross-functional meetings, and [[c_ProjectApplicationOverview|project management]].
+    \[Omitted image "cwm-task-generation-now-assist.png"\] Alt text: CWM planning Doc page with the Now Assist panel showing generated tasks for a hackathon, including logistics, cross-functional meetings, and project management.
 
     Thus, by using the Task generation skill within CWM, you can:
 
@@ -130,6 +130,3 @@ To learn more about configuring and using Now Assist for CWM, see:
 -   [Generate tasks from Docs in Collaborative Work Management \(CWM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/generate-tasks-cwm-docs-now-assist.md)
 -   
 
-## Related
-
-- [[c_ProjectApplicationOverview|Project Management]]

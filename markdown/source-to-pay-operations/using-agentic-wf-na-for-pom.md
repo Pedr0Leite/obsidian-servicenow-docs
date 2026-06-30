@@ -12,7 +12,7 @@ breadcrumb: [Now Assist for POM, Purchase Order Management, Source-to-Pay Operat
 
 # Using agentic workflows in Now Assist for Purchase Order Management \(POM\)
 
-Use agentic workflows in Now Assist for Purchase Order Management \(POM\) to track and resolve anomalies or irregularities in the [[purchase-order-table|purchase order]] \(PO\) execution process.
+Use agentic workflows in Now Assist for Purchase Order Management \(POM\) to track and resolve anomalies or irregularities in the purchase order \(PO\) execution process.
 
 **Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 
@@ -30,17 +30,10 @@ Use the following agentic workflows that are available with Now Assist for Purch
 
 There might be AI agents installed with the Now Assist application that are not used in agentic workflows. To learn how to see all agents that are available to you, see [Find AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/find-ai-agents.md).
 
--   **[[convert-emails-to-exceptions|Automated purchase order exception creation from emails]]**  
-Emails sent by a registered [[supplier-contact|supplier contact]] are automatically converted to purchase order exceptions or universal requests by using the Email Intent to Action Agentic workflow.
--   **[[mitigation-strategies-for-po-exceptions|Identify and execute mitigation strategies for purchase order exceptions]]**  
+-   **[Automated purchase order exception creation from emails](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/convert-emails-to-exceptions.md)**  
+Emails sent by a registered supplier contact are automatically converted to purchase order exceptions or universal requests by using the Email Intent to Action Agentic workflow.
+-   **[Identify and execute mitigation strategies for purchase order exceptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/mitigation-strategies-for-po-exceptions.md)**  
 Leverage the define PO exception mitigation strategy workflow to resolve purchase order exceptions and avoid the risk of critical part shortages. This agentic workflow helps buyers identify and execute the best mitigation strategies by analyzing delivery gaps and proposing order changes with alternative suppliers.
 
-**Parent Topic:**[[now-assist-for-purch-order-magmt|Now Assist for Purchase Order Management \(POM\)]]
+**Parent Topic:**[Now Assist for Purchase Order Management \(POM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-purch-order-magmt.md)
 
-## Related
-
-- [[convert-emails-to-exceptions|Automated purchase order exception creation from emails]]
-- [[mitigation-strategies-for-po-exceptions|Identify and execute mitigation strategies for purchase order exceptions]]
-- [[now-assist-for-purch-order-magmt|Now Assist for Purchase Order Management \(POM\)]]
-- [[purchase-order-table|Purchase order]]
-- [[supplier-contact|Supplier contact]]

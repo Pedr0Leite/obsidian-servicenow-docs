@@ -16,7 +16,7 @@ breadcrumb: [Configuring Dynamic Translation, Dynamic Translation, Translation a
 
 Preserve text such as product names or technical terms during machine translation. With Exclusion Framework in Dynamic Translation, you can specify words and patterns that should not be translated.
 
-Exclusion Framework is a set of rules ensuring that your designated text bypasses the machine translation process and appears unchanged in the resulting output. [[dynamic-translation|Dynamic Translation]] applies Exclusion Framework rules to your text before submitting the request to your machine translation provider. Two types of rules are supported: Exact Match \(specific terms\) and Pattern Match \(regex\).
+Exclusion Framework is a set of rules ensuring that your designated text bypasses the machine translation process and appears unchanged in the resulting output. Dynamic Translation applies Exclusion Framework rules to your text before submitting the request to your machine translation provider. Two types of rules are supported: Exact Match \(specific terms\) and Pattern Match \(regex\).
 
 ## Examples of text to consider for exclusion from machine translation
 
@@ -60,7 +60,7 @@ An upgrade to Xanadu Patch 3 or higher, when Dynamic Translation is active, incl
 
 **Note:** Dynamic Translation requires a Professional or above subscription. For information see [Activate Dynamic Translation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/activate-dynamic-translation.md).
 
-An upgrade to Xanadu Patch 3 or higher also converts the Dynamic Translation flows from v3 to v4. The v4 flows contain subflows for working with Exclusion Framework. Translator [[clone-configurations-tab|configurations]] available by default are automatically upgraded to v4. For more information, see [Migrate customized Translator Configurations to v4 flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/migrate-v4-dynamic-translation.md).
+An upgrade to Xanadu Patch 3 or higher also converts the Dynamic Translation flows from v3 to v4. The v4 flows contain subflows for working with Exclusion Framework. Translator configurations available by default are automatically upgraded to v4. For more information, see [Migrate customized Translator Configurations to v4 flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/migrate-v4-dynamic-translation.md).
 
 A system property in **All** &gt; **Dynamic Translation** &gt; **Properties** enables you to activate or deactivate Exclusion Framework: sn\_dt.dynamic\_framework.enable\_exclusion\_framework.
 
@@ -86,27 +86,20 @@ After configuration, Exclusion Framework's subflows operate within Dynamic Trans
 2.  Any matches are wrapped in exclusion tags. These tags are pulled from the relevant record in the Exclusion Provider Pattern table.
 3.  The tagged text is submitted to your machine translation provider.
 
-Text that is wrapped in the exclusion tags is shielded from translation. It is written into the translation [[hs-results|results]] in its original language, so the output contains unmodified text embedded in translated text.
+Text that is wrapped in the exclusion tags is shielded from translation. It is written into the translation results in its original language, so the output contains unmodified text embedded in translated text.
 
 ## Domain separation support in Exclusion Framework
 
-Exclusion Framework supports domain separation. Each domain on an instance can have its own set of Exclusion Framework rules, so the rules apply at the domain level. Within a domain, each rule must be unique. [[t_CreateRules|Create rules]] in the domain where you want them to operate.
+Exclusion Framework supports domain separation. Each domain on an instance can have its own set of Exclusion Framework rules, so the rules apply at the domain level. Within a domain, each rule must be unique. Create rules in the domain where you want them to operate.
 
 When multiple domains exist on one instance, Exclusion Framework is activated on all domains. Deactivating Exclusion Framework on a per-domain basis isn't supported. As an alternative, deactivate every rule in a domain where you want Exclusion Framework to be inactive.
 
 -   **[Add new rules to Exclusion Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/dyn-translation-add-exclusion-rule.md)**  
 Add terms and patterns that shouldn't be machine translated to the Exclusion Rules table. You can create either exact match rules or pattern match rules, and you can edit your rules later.
 -   **[Test Exclusion Rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/dyn-translation-test-exclusion-rule.md)**  
-[[dyn-translation-test-exclusion-rule|Test Exclusion Rule]] in Dynamic Translation enables you to test your exclusion pattern manually. You can check whether the pattern accurately excludes a text string from translation.
+Test Exclusion Rule in Dynamic Translation enables you to test your exclusion pattern manually. You can check whether the pattern accurately excludes a text string from translation.
 -   **[Add an Exclusion Provider Pattern](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/dyn-translation-exclusion-provider.md)**  
 As part of the configuration of Exclusion Framework in Dynamic Translation, enter the tags used by your translation provider to mark text that should not be machine translated.
 
 **Parent Topic:**[Configuring Dynamic Translation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/configuring-dynamic-translation.md)
 
-## Related
-
-- [[dynamic-translation|Dynamic translation]]
-- [[clone-configurations-tab|Configurations]]
-- [[hs-results|Results]]
-- [[t_CreateRules|Create rules]]
-- [[dyn-translation-test-exclusion-rule|Test Exclusion Rule]]

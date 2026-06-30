@@ -26,7 +26,7 @@ The monetary benefit plan breakdown records are automatically created when you s
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[agile-development|Agile Development]]** &gt; **Epics**.
+1.  Navigate to **All** &gt; **Agile Development** &gt; **Epics**.
 
 2.  Open the required epic.
 
@@ -213,14 +213,10 @@ Non-monetary benefit that is associated to this monetary benefit plan.
 
 ## What to do next
 
-On the [[benefit-plan-form-project-management|Benefit Plan form]], view the benefit breakdown by fiscal period in the Monetary Benefit Plan Breakdowns related list.
+On the Benefit Plan form, view the benefit breakdown by fiscal period in the Monetary Benefit Plan Breakdowns related list.
 
 -   **[Update a monetary benefit plan breakdown for an epic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/update-monetary-benefit-plan-breakdown-agile-epic.md)**  
 Update a monetary benefit plan breakdown record that specifies the estimated and actual benefits, at a granular level, for specific fiscal periods.
 
 **Parent Topic:**[Create an epic in Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/create-an-epic.md)
 
-## Related
-
-- [[agile-development|Agile Development]]
-- [[benefit-plan-form-project-management|Benefit Plan form]]

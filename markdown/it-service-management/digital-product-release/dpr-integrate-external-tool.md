@@ -14,11 +14,11 @@ breadcrumb: [Configure, Digital Product Release, IT Service Management]
 
 # Integrate external tools from Digital Product Release Workspace
 
-Integrate tools for orchestration, planning, coding, artifact, software quality, and security from the [[dpr-workspace|Digital Product Release Workspace]] for end-to-end change traceability and automation.
+Integrate tools for orchestration, planning, coding, artifact, software quality, and security from the Digital Product Release Workspace for end-to-end change traceability and automation.
 
 ## Before you begin
 
-This integration with external tools is accessible as part of the [[devops-landing-page-new|DevOps Change Velocity]]. For more information, see [DevOps Change Velocity integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/dev-ops-overview.md) and [Integrating DevOps Change Velocity with third party tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/integrating-devops-change-with-third-party-tools.md).
+This integration with external tools is accessible as part of the DevOps Change Velocity. For more information, see [DevOps Change Velocity integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/dev-ops-overview.md) and [Integrating DevOps Change Velocity with third party tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/integrating-devops-change-with-third-party-tools.md).
 
 Role required: sn\_dpr\_model.release\_admin
 
@@ -46,7 +46,4 @@ You can also track the software quality of your releases on the [Release Quality
 
     For more information about configuring a tool, see its onboarding under [Integrating DevOps Change Velocity with third party tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/integrating-devops-change-with-third-party-tools.md).
 
-## Related
 
-- [[dpr-workspace|Digital Product Release Workspace]]
-- [[devops-landing-page-new|DevOps Change Velocity]]

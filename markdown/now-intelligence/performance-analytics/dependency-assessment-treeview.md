@@ -16,7 +16,7 @@ breadcrumb: [\(Legacy\) Dependency Assessment, Configure advanced features, Perf
 
 The tree view enables admin users to see the relationships between PA entities and to know the impact of changes made to any node in the tree view hierarchy.
 
-**Important:** Dependency Assessment does not support [[c_performanceAnalyticsAndReporting|Platform Analytics]] artifacts. It analyzes information only for Core UI [[c_Widgets|Performance Analytics widgets]] but not Platform Analytics data visualizations. Also, you can [[launch-dependency-assessment|launch Dependency Assessment]] from a Core UI responsive dashboard but not from a Platform Analytics dashboard.
+**Important:** Dependency Assessment does not support Platform Analytics artifacts. It analyzes information only for Core UI Performance Analytics widgets but not Platform Analytics data visualizations. Also, you can launch Dependency Assessment from a Core UI responsive dashboard but not from a Platform Analytics dashboard.
 
 The Dependency Assessment tree view consists of a variety of possible nodes and a legend. The nodes represent Performance Analytics entities. Point to a node and the node's type is highlighted in the legend. When you click on a node in the tree view, the child nodes open. If there are more than eight nodes in a level of the tree view, then six are shown and a seventh node indicates how many nodes are not shown. Click this node to view a list of the other nodes.
 
@@ -26,7 +26,7 @@ Each node has a context menu \(\[Omitted image "admin-console-treeview-menu.png"
 
 \[Omitted image "impact-analysis-remaining-nodes2.png"\] Alt text: Top-down dependency assessment with list of remaining nodes
 
-The figure below gives an example of the top-down tree view, starting from a dashboard at the top level, its tabs on the second level, the [[widgets|widgets]] of one of the dashboard tabs on the third level, and so on. The tree view in the example shows all breakdowns and supporting indicators as they are defined in the Breakdown form.
+The figure below gives an example of the top-down tree view, starting from a dashboard at the top level, its tabs on the second level, the widgets of one of the dashboard tabs on the third level, and so on. The tree view in the example shows all breakdowns and supporting indicators as they are defined in the Breakdown form.
 
 \[Omitted image "impact-analysis-example.png"\] Alt text: Top-down dependency assessment with legend
 
@@ -37,9 +37,3 @@ The figure below gives an example of the top-down tree view, starting from a das
 
 [Performance Analytics breakdowns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_CreatingBreakdowns.md)
 
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[c_Widgets|Performance Analytics widgets]]
-- [[launch-dependency-assessment|Launch Dependency Assessment]]
-- [[widgets|Widgets]]

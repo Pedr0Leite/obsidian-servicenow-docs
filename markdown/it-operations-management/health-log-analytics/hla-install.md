@@ -27,7 +27,7 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **System Applications** &gt; **All Applications** &gt; **ServiceNow Store**.
 
-2.  Browse for [[hla-landing-page|Health Log Analytics]] and verify that you have the necessary valid entitlements.
+2.  Browse for Health Log Analytics and verify that you have the necessary valid entitlements.
 
     You need a HI account and permission to request applications for the instances under consideration. The HI account and the instance must be part of the same company. For more information, see [Install a ServiceNow Product](https://store.servicenow.com/sn_appstore_store.do#!/store/help?article=KB0030186) on the ServiceNow Store.
 
@@ -42,6 +42,3 @@ Role required: admin
 
 **Parent Topic:**[Platform Analytics Solutions for Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-content-pack.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

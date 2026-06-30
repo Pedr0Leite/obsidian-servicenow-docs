@@ -18,7 +18,7 @@ The Jumpstart Your Natural Language Understanding \(NLU\) Accelerator provides a
 
 ## Accelerator Overview
 
-Jumpstart Your Natural Language Understanding provides [[impact-landing-page|Impact]] customers with a comprehensive overview of Natural Language Understanding, including many of the underlying features, such as, Planning, Building, Sizing, Training, Vocabulary, Testing, Entity, Deployment, and Monitoring. This offering aims to educate and [[io-help|help]] you increase your Virtual Agent adoption by laying the groundwork for a healthy foundation.
+Jumpstart Your Natural Language Understanding provides Impact customers with a comprehensive overview of Natural Language Understanding, including many of the underlying features, such as, Planning, Building, Sizing, Training, Vocabulary, Testing, Entity, Deployment, and Monitoring. This offering aims to educate and help you increase your Virtual Agent adoption by laying the groundwork for a healthy foundation.
 
 For related information, see [Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent-landing-page.md) or [Natural Language Understanding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-landing.md).
 
@@ -115,7 +115,3 @@ This Impact Accelerator in its entirety or portions of the Impact Accelerator Ac
 
 ServiceNow is not responsible for implementing Natural Language Understanding recommendations on Customer’s sub-production or production instances.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[io-help|Help]]

@@ -14,7 +14,7 @@ breadcrumb: [Post installation troubleshooting, Admin configurations, Configurin
 
 # Run fix scripts to update Employee Center
 
-Manually run fix scripts to upgrade to the latest taxonomy-based [[employee-center-landing-page|Employee Center]]. Download the latest version from the ServiceNow® Store before running the scripts. The scripts update your existing portal setup to Employee Center without performing multiple set up or configuration steps.
+Manually run fix scripts to upgrade to the latest taxonomy-based Employee Center. Download the latest version from the ServiceNow® Store before running the scripts. The scripts update your existing portal setup to Employee Center without performing multiple set up or configuration steps.
 
 ## Before you begin
 
@@ -55,7 +55,7 @@ Set primary topics for Employee taxonomy
 
 </td><td>
 
-Fixes features like the **[[rfy-ec|Recommended for you]]** and the **View as Direct Report** searches, if **Employee** taxonomy is associated to the portal. Updates the **taxonomy\_topic** column in the knowledge articles and catalog items to the corresponding mapping found in m2m\_connected\_content table.
+Fixes features like the **Recommended for you** and the **View as Direct Report** searches, if **Employee** taxonomy is associated to the portal. Updates the **taxonomy\_topic** column in the knowledge articles and catalog items to the corresponding mapping found in m2m\_connected\_content table.
 
 </td></tr></tbody>
 </table>## Procedure
@@ -84,7 +84,3 @@ Configure AI search to align with curated experience. For more information, see 
 
 [Run fix-script for RCA approvals]()
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[rfy-ec|Recommended for you]]

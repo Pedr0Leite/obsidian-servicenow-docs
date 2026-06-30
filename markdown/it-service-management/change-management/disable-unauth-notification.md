@@ -22,7 +22,7 @@ Role required: admin or change\_manager
 
 ## About this task
 
-If the updated CI is not part of an open change request, then the system triggers a change request, and sends a notification. The [[c_ITILChangeManagement|Change Management]] application uses this event to create an unauthorized change. If there are many CI changes with no open change request created to include the CIs, then the system creates unauthorized change requests on these CIs. When this event occurs, numerous unauthorized change requests are triggered, and notifications are sent to the members of the group. To avoid this situation, you can disable the **Enable event processing** property before you perform the updates. For more information on additional [[unauth-change-properties|unauthorized change properties]], see [Unauthorized change properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/unauth-change-properties.md).
+If the updated CI is not part of an open change request, then the system triggers a change request, and sends a notification. The Change Management application uses this event to create an unauthorized change. If there are many CI changes with no open change request created to include the CIs, then the system creates unauthorized change requests on these CIs. When this event occurs, numerous unauthorized change requests are triggered, and notifications are sent to the members of the group. To avoid this situation, you can disable the **Enable event processing** property before you perform the updates. For more information on additional unauthorized change properties, see [Unauthorized change properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/unauth-change-properties.md).
 
 **Note:** Enable the property when you finish your updates. If this property is disabled, unauthorized change requests are not created.
 
@@ -37,7 +37,7 @@ If the updated CI is not part of an open change request, then the system trigger
 
 ## Result
 
-The creation of an [[unauthorized-change-request|unauthorized change request]] is disabled, and no notifications are sent.
+The creation of an unauthorized change request is disabled, and no notifications are sent.
 
 **Parent Topic:**[Unauthorized change request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/unauthorized-change-request.md)
 
@@ -46,8 +46,3 @@ The creation of an [[unauthorized-change-request|unauthorized change request]] i
 
 [Unauthorized change properties]()
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]
-- [[unauth-change-properties|Unauthorized change properties]]
-- [[unauthorized-change-request|Unauthorized change request]]

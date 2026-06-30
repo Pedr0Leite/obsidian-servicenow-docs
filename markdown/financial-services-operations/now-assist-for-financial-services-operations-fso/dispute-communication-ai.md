@@ -28,7 +28,7 @@ This agent selects an appropriate email template, fills in task details, rephras
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[fso-overview|Financial Services]] Workspace** and open a card dispute.
+1.  Navigate to **Workspaces** &gt; **Financial Services Workspace** and open a card dispute.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -59,6 +59,3 @@ The dispute agent can modify the generated email draft and send it to the releva
 
 **Parent Topic:**[Resolve ACH disputes with AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/resolve-ach-disputes-with-ai-agents.md)
 
-## Related
-
-- [[fso-overview|Financial Services]]

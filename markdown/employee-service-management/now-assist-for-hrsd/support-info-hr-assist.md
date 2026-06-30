@@ -14,7 +14,7 @@ breadcrumb: [Explore, Now Assist for HR Service Delivery \(HRSD\), HR Service De
 
 # Supporting information for Now Assist for HRSD
 
-Get a quick overview of the important information that is related to the [[now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\)]] application.
+Get a quick overview of the important information that is related to the Now Assist for HR Service Delivery \(HRSD\) application.
 
 ## Supported versions
 
@@ -42,7 +42,7 @@ Skill
 
 </th></tr></thead><tbody><tr><td>
 
-[[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
+Agent Workspace for HR Case Management
 
 </td><td>
 
@@ -74,7 +74,3 @@ The Now Assist for HRSD application has the following dependencies:
 -   Now Assist Platform \(com.sn.now.platform\)
 -   NA-TD and NA-TA are dependent apps for NA-HR and should be installed for every NA-HR installation \(talent-core: sn\_egd\_core and interview-scheduling sn\_int\_schedule\)
 
-## Related
-
-- [[now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\)]]
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]

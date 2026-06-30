@@ -14,7 +14,7 @@ breadcrumb: [Configuring Embedded Help, Embedded Help, In-product help, Adoption
 
 # Embed video content in help topics
 
-You can embed a link to video content in a custom [[embedded-help|embedded help]] topic. YouTube and Vimeo video content is supported.
+You can embed a link to video content in a custom embedded help topic. YouTube and Vimeo video content is supported.
 
 ## Before you begin
 
@@ -67,7 +67,7 @@ The administrator can disable the ability for users to see embedded video in the
         </div>
         ```
 
-        **Note:** As shown in the examples, enclose the `<iframe>` and the `<p>` [[c_Tags|tags]] within a `<div class="video">` tag. If the administrator disables the property to display video content, all content within the `<div class="video">` tag are hidden.
+        **Note:** As shown in the examples, enclose the `<iframe>` and the `<p>` tags within a `<div class="video">` tag. If the administrator disables the property to display video content, all content within the `<div class="video">` tag are hidden.
 
 2.  Navigate to **Embedded Help** &gt; **Help Content**, and then open the custom help topic to embed a video.
 
@@ -84,7 +84,3 @@ The administrator can disable the ability for users to see embedded video in the
 
 **Parent Topic:**[Configuring Embedded Help](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/configuring-embedded-help.md)
 
-## Related
-
-- [[embedded-help|Embedded Help]]
-- [[c_Tags|Tags]]

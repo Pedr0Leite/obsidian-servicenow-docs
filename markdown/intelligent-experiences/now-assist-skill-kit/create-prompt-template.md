@@ -22,13 +22,13 @@ Role required: sn\_skill\_builder.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[now-assist-skill-kit-landing|Now Assist Skill Kit]]** &gt; **Home**.
+1.  Navigate to **All** &gt; **Now Assist Skill Kit** &gt; **Home**.
 
 2.  Select the skill that you want to create a prompt for.
 
 3.  In the **Prompt** window, create your prompt.
 
-    For guidance on creating [[ai-prompts|prompts]], see [Developing the prompt](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/developing-the-prompt.md).
+    For guidance on creating prompts, see [Developing the prompt](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/developing-the-prompt.md).
 
 4.  In the **Skill contents** sidebar, select the plus \(+\) icon next to **Skill Inputs**.
 
@@ -142,9 +142,9 @@ After you have created a prompt, you must test it. To learn more about testing y
 -   **[Add a tool](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/add-a-tool.md)**  
 Add and configure tools in the Now Assist Skill Kit tool canvas to gather data and context before a prompt runs. Tools can be chained sequentially, run in parallel, or branched conditionally using decision nodes.
 -   **[Add a retriever](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/add-retriever.md)**  
-[[add-retriever|Add a retriever]] to your prompt to augment and add context to your prompts with AI search results.
+Add a retriever to your prompt to augment and add context to your prompts with AI search results.
 -   **[Add a web search tool](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/add-web-search.md)**  
-[[add-web-search|Add a web search tool]] to your skill to retrieve web content and include it as context in your prompt.
+Add a web search tool to your skill to retrieve web content and include it as context in your prompt.
 
 **Parent Topic:**[Using Now Assist Skill Kit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/using-now-assist-skill-kit.md)
 
@@ -165,9 +165,3 @@ Add and configure tools in the Now Assist Skill Kit tool canvas to gather data a
 
 [Call a custom skill from a script]()
 
-## Related
-
-- [[now-assist-skill-kit-landing|Now Assist Skill Kit]]
-- [[ai-prompts|Prompts]]
-- [[add-retriever|Add a retriever]]
-- [[add-web-search|Add a web search tool]]

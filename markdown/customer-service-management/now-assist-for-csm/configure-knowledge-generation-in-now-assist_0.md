@@ -21,7 +21,7 @@ Configure the Knowledge Generation skill to draft knowledge articles on resolvin
 Confirm that the following is set up before you activate the skill:
 
 1.  Install the Required Plugin- Now Assist for CSM plugin.
-2.  Enable KCS system properties: The visibility of the **Create Knowledge** action in [[csm-workspaces-configure|CSM Configurable Workspace]] depends on specific system properties and differs from its implementation in the Core UI UI.
+2.  Enable KCS system properties: The visibility of the **Create Knowledge** action in CSM Configurable Workspace depends on specific system properties and differs from its implementation in the Core UI UI.
 
     -   In Core UI, the action is implemented as a UI Action.
     -   In CSM Configurable Workspace, it is implemented as a Declarative Action.
@@ -41,7 +41,7 @@ Confirm that the following is set up before you activate the skill:
         **Important:**
 
         -   -   For Now Assist panel, if property sn\_customerservice.enable\_knowledge\_kcs and KCS Article Template is not enabled then it will create article using standard template for cases.
--   For Core UI / Workspace, if sn\_customerservice.enable\_knowledge\_kcs and KCS Article Template is not enabled then it will not show **Create Knowledge** button on [[r_CustomerServiceCaseForm|case form]].
+-   For Core UI / Workspace, if sn\_customerservice.enable\_knowledge\_kcs and KCS Article Template is not enabled then it will not show **Create Knowledge** button on case form.
 
 Role required: admin
 
@@ -124,14 +124,10 @@ Input fields
 
 7.  Select **Display** to determine where the KB generation appears.
 
-    -   Select In-product desktop to display Now Assist skills on [[migration-forms|forms]] and workspaces.
+    -   Select In-product desktop to display Now Assist skills on forms and workspaces.
     -   Select Now Assist panel to display Now Assist skills in the Now Assist panel.
 8.  After selecting **Review and Activate** to examine changes, select **Done** to close the KB generation settings.
 
 9.  Select **Activate** to turn on the skill for agents and complete the configuration.
 
-## Related
 
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[migration-forms|Forms]]

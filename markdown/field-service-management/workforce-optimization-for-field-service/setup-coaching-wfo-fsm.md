@@ -14,13 +14,10 @@ breadcrumb: [Workforce Optimization, Set up workforce, Configure, Field Service 
 
 # Setting up coaching in Workforce Optimization for Field Service
 
-Manage agent skills and [[asses-completed-task-quality-wfo-fsm|assess the quality of completed tasks]]. Use Predictive Intelligence to recommend skills for agents. Train your agents with internal and external learning content.
+Manage agent skills and assess the quality of completed tasks. Use Predictive Intelligence to recommend skills for agents. Train your agents with internal and external learning content.
 
 **Related topics**  
 
 
 [Coaching in Workforce Optimization for Field Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/coaching-wfo-fsm.md)
 
-## Related
-
-- [[asses-completed-task-quality-wfo-fsm|Assess the quality of completed tasks]]

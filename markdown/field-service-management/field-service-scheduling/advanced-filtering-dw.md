@@ -14,7 +14,7 @@ breadcrumb: [Advanced Filtering, Using Dispatcher Workspace, Assigning tasks fro
 
 # Filter resources in Dispatcher Workspace
 
-You can create your own advanced resource filters in [[dispatcher-activities|Dispatcher Workspace]] to make complex filtering easy.
+You can create your own advanced resource filters in Dispatcher Workspace to make complex filtering easy.
 
 ## Before you begin
 
@@ -46,6 +46,4 @@ Role required: wm\_dispatcher.
     -   Select the more actions icon \[Omitted image "more\_action\_triangle.png"\] Alt text: more actions, then **Save as new** to save a new filter if you were changing an existing filter.
     If you saved the filter, you can select the filter from the **Advanced filters** drop-down menu. **Filter resources** changes to **Temporary filter** when a filter is applied.
 
-## Related
 
-- [[dispatcher-activities|Dispatcher Workspace]]

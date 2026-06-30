@@ -12,21 +12,21 @@ breadcrumb: [VirusTotal integration setup, VirusTotal integration, Threat Intell
 
 # Activate and configure the VirusTotal integration
 
-Before you can use the [[virustotal-landing-page|VirusTotal integration]], you must download it from the ServiceNow Store.
+Before you can use the VirusTotal integration, you must download it from the ServiceNow Store.
 
 ## Before you begin
 
 Role required: admin
 
-[[threat-intel-landing-page|Threat Intelligence]] must be installed and activated before you can use VirusTotal. The VirusTotal integration has been upgraded to version 3 APIs.
+Threat Intelligence must be installed and activated before you can use VirusTotal. The VirusTotal integration has been upgraded to version 3 APIs.
 
 ## Procedure
 
-1.  [[download-app-first-time|Download the integration from the ServiceNow Store]].
+1.  [Download the integration from the ServiceNow Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/download-app-first-time.md).
 
 2.  When the installation is complete, access VirusTotal and obtain the API Key under your VirusTotal profile.
 
-3.  In your instance, navigate to **[[security-operations-landing-page|Security Operations]]** &gt; **Integration Configuration**.
+3.  In your instance, navigate to **Security Operations** &gt; **Integration Configuration**.
 
     The available security integrations appear as a series of cards.
 
@@ -72,7 +72,7 @@ Send URL as SHA-256 Hash
 
 </td><td>
 
-Select this check box to send the URLs as hashes for [[tisc-threat-lookup|threat lookup]] and protect the users' privacy on the integration.**Note:** If disabled, the URL is sent as Base64 encoding to the VirusTotal API.
+Select this check box to send the URLs as hashes for threat lookup and protect the users' privacy on the integration.**Note:** If disabled, the URL is sent as Base64 encoding to the VirusTotal API.
 
 </td></tr></tbody>
 </table>5.  Click **Submit**.
@@ -82,19 +82,10 @@ Select this check box to send the URLs as hashes for [[tisc-threat-lookup|threat
 
 ## Result
 
-After it is configured, VirusTotal can be selected for performing lookups on [[c_Observables|observables]] in Threat Intelligence and on observables in security incidents.
+After it is configured, VirusTotal can be selected for performing lookups on observables in Threat Intelligence and on observables in security incidents.
 
 **Related topics**  
 
 
-[[perform-lookups-on-observables|Perform lookups on observables]]
+[Perform lookups on observables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/perform-lookups-on-observables.md)
 
-## Related
-
-- [[download-app-first-time|Download an application from the ServiceNow Store for the first time]]
-- [[perform-lookups-on-observables|Perform lookups on observables]]
-- [[virustotal-landing-page|VirusTotal integration]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[security-operations-landing-page|Security Operations]]
-- [[tisc-threat-lookup|Threat Lookup]]
-- [[c_Observables|Observables]]

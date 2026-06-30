@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hs-landing-page|Instance Scan]]** &gt; **Checks**.
+1.  Navigate to **All** &gt; **Instance Scan** &gt; **Checks**.
 
     A list of checks appears.
 
@@ -30,7 +30,7 @@ Role required: admin
 
 3.  To start the test, select **Test Check**.
 
-    The status of the scan appears in the progress tracker. The **[[hs-findings|Findings]]**module in the application navigator shows the number of records found from running the check test.
+    The status of the scan appears in the progress tracker. The **Findings**module in the application navigator shows the number of records found from running the check test.
 
 
 **Parent Topic:**[Executing a scan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-execute-scans.md)
@@ -46,7 +46,3 @@ Role required: admin
 
 [Execute a reactive scan]()
 
-## Related
-
-- [[hs-landing-page|Instance Scan]]
-- [[hs-findings|Findings]]

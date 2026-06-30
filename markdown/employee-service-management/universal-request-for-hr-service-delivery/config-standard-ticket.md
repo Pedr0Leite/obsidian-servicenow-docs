@@ -14,7 +14,7 @@ breadcrumb: [Standard Ticket page for Universal Request, Configuring Universal R
 
 # Configure Standard Ticket page for Universal Request
 
-Use the Standard ticket page configuration for [[ur-landing-limitedaccess|Universal Request]] to provide a consistent layout across all tickets raised and associated.
+Use the Standard ticket page configuration for Universal Request to provide a consistent layout across all tickets raised and associated.
 
 ## Before you begin
 
@@ -43,6 +43,3 @@ By default, a standard ticket configuration is provided for UR. You can customiz
 
 **Parent Topic:**[Standard Ticket page for Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-std-ticket-page.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]

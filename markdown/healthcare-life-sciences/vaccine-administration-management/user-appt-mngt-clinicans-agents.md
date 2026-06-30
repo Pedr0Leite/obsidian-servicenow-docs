@@ -19,20 +19,15 @@ Manage user appointments as a clinician or as a vaccine agent for creating consu
 -   **[Search user records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/search-user-record.md)**  
 Search for a user record to check if the user record exists, before creating consumer users.
 -   **[Create consumer users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/hcls-create-consumer-user.md)**  
-Clinicians and vaccine agents can create consumer records using the [[hcls-vam|Vaccine Administration Management]] application.
+Clinicians and vaccine agents can create consumer records using the Vaccine Administration Management application.
 -   **[Search existing appointments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/search-existing-appointments.md)**  
 Search for an existing appointment on behalf of the consumer user.
 -   **[Schedule an appointment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/create-appt-for-consumer-user.md)**  
 Schedule vaccination appointments on behalf of the consumer user.
 -   **[Cancel existing appointments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/cancel-existing-appointment.md)**  
-[[cancel-existing-appointment|Cancel existing appointments]] on behalf of the consumer user.
+Cancel existing appointments on behalf of the consumer user.
 -   **[Reschedule existing appointments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/reschedule-existing-appointment.md)**  
-[[reschedule-existing-appointment|Reschedule existing appointments]] and choose the preferred method, date, time slot, or vaccination center.
+Reschedule existing appointments and choose the preferred method, date, time slot, or vaccination center.
 
 **Parent Topic:**[Using Vaccine Administration Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/using-vaccine-administration-management.md)
 
-## Related
-
-- [[hcls-vam|Vaccine Administration Management]]
-- [[cancel-existing-appointment|Cancel existing appointments]]
-- [[reschedule-existing-appointment|Reschedule existing appointments]]

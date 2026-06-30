@@ -96,15 +96,15 @@ Additional query parameters for the REST message selected. You can also use thes
 
 </td></tr><tr><td id="d354080e230">
 
-**Use [[mid-server-landing|MID Server]]**
+**Use MID Server**
 
 </td><td>
 
-[[check-box|Check box]] that determines if a MID Server should be used to invoke the REST web service.**Note:** If the REST web service message function defines a MID Server, that MID Server is used instead of the one selected here.
+Check box that determines if a MID Server should be used to invoke the REST web service.**Note:** If the REST web service message function defines a MID Server, that MID Server is used instead of the one selected here.
 
 </td></tr><tr><td id="d354080e242">
 
-**Required [[mid-server-capabilities|MID Server capabilities]]**
+**Required MID Server capabilities**
 
 </td><td>
 
@@ -183,7 +183,7 @@ Role required: web\_service\_admin, activity\_admin, activity\_creator
 
 2.  Define an appropriate MID Server, if requested.
 
-    The test fails if the MID Server cannot be found or if it cannot [[c_Connect|connect]] to the target.
+    The test fails if the MID Server cannot be found or if it cannot connect to the target.
 
 3.  Click **Test Activity** to test the input parameters.
 
@@ -234,7 +234,7 @@ web\_service\_message
 
 </td><td>
 
-[[reference|Reference]]
+Reference
 
 </td><td>
 
@@ -318,7 +318,7 @@ String \(comma separated\)
 
 </td><td>
 
-List of [[reference-document-management|references]] to required MID Server capabilities.
+List of references to required MID Server capabilities.
 
 </td></tr><tr><td>
 
@@ -350,7 +350,7 @@ Array of hashmap
 
 </td><td>
 
-Capability values used to select the MID Server. For more information, see [MID Server capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown). Use this example to customize the [[c_MIDServerSelector|MID Server selection]] if there are additional capabilities that are assigned by value:```
+Capability values used to select the MID Server. For more information, see [MID Server capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown). Use this example to customize the MID Server selection if there are additional capabilities that are assigned by value:```
 var valueCapability = {'NEW_MID_CAPABIILTY':'NEW_MID_CAPABILITY_VALUE'}; executionParam.valueCapabilities.push(valueCapability);
 ```
 
@@ -586,12 +586,4 @@ Profile for the OAuth provider for this REST message. See [Specify an OAuth prof
 
 4.  Click **Continue** to advance to the **Outputs** stage.
 
-## Related
 
-- [[mid-server-landing|MID Server]]
-- [[check-box|Check box]]
-- [[mid-server-capabilities|MID Server capabilities]]
-- [[c_Connect|Connect]]
-- [[reference|Reference]]
-- [[reference-document-management|References]]
-- [[c_MIDServerSelector|MID Server selection]]

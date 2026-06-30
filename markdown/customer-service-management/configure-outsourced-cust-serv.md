@@ -12,7 +12,7 @@ breadcrumb: [Outsourced Customer Service, Extend capabilities, Configure, Custom
 
 # Configure Outsourced Customer Service
 
-Configure various components of [[outsourced-service-provider|Outsourced Customer Service]] based on the specific requirements of your organization.
+Configure various components of Outsourced Customer Service based on the specific requirements of your organization.
 
 ## Set up Outsourced Customer Service
 
@@ -89,14 +89,14 @@ Onboard agents for an OSP for fulfilling cases. Once onboarding is complete, a p
 </td></tr></tbody>
 </table>4.  Go back to the Outsourced Customer Service Guided Setup page.
 
-5.  On the [[case-routing-and-asign|Case Routing and Assignment]] window, click **Get Started**.
+5.  On the Case Routing and Assignment window, click **Get Started**.
 
 6.  View the list of tasks to configure the feature.
 
     |Task|Description|
     |----|-----------|
     |Create Matching Rules|Rules to identify customer service cases that meet certain conditions.|
-    |Create Assignment Rules|Cases that meet certain conditions based on the [[gamification-components-rules|rules]] created are routed to customer service agents.|
+    |Create Assignment Rules|Cases that meet certain conditions based on the rules created are routed to customer service agents.|
 
 7.  To perform a task, select **Configure**.
 
@@ -105,7 +105,7 @@ Onboard agents for an OSP for fulfilling cases. Once onboarding is complete, a p
 
 ## Define outsourcing criteria
 
-OSP managers and agents [[osp-view-cases|view cases]] based on the defined outsourced criteria. Defining outsourcing criteria can be based on account, asset, consumer, or sold product. For example, consumer-based criteria could be defined for all Spanish speaking consumers and all consumers based out of Australia.
+OSP managers and agents view cases based on the defined outsourced criteria. Defining outsourcing criteria can be based on account, asset, consumer, or sold product. For example, consumer-based criteria could be defined for all Spanish speaking consumers and all consumers based out of Australia.
 
 ### Before you begin
 
@@ -230,7 +230,7 @@ Role required: user\_admin
     |**Business Phone**|The OSP manager or agent's business phone number.|
     |**Assignment Group**|Select the group that was created while creating an OSP.|
 
-    **Note:** A new OSP staff member record is created and the OSP is created in the **Organization** field of the service organization external staff \[sn\_csm\_service\_organization\_external\_staff\] table. Additionally, the same change applies to other related [[migration-lists|lists]], including Onboard Agent, ​Onboard Manager, ​Create Group​, Transfer Case, ​Register Staff​, and Register Member.
+    **Note:** A new OSP staff member record is created and the OSP is created in the **Organization** field of the service organization external staff \[sn\_csm\_service\_organization\_external\_staff\] table. Additionally, the same change applies to other related lists, including Onboard Agent, ​Onboard Manager, ​Create Group​, Transfer Case, ​Register Staff​, and Register Member.
 
 5.  Select **Submit**.
 
@@ -407,7 +407,7 @@ Role required: pa\_admin
 
     1.  Filter the indicator sources on the dashboard name.
 
-        This screenshot shows the indicator sources filtered on the [[ocs-dashboard|Outsourced Service Provider dashboard]] from the Self-Service Analytics for CSM Platform Analytics Solution.\[Omitted image "osp-indicator-dashboard.jpg"\] Alt text: The Indicator source for Outsourced Service Provider dashboard.
+        This screenshot shows the indicator sources filtered on the Outsourced Service Provider dashboard from the Self-Service Analytics for CSM Platform Analytics Solution.\[Omitted image "osp-indicator-dashboard.jpg"\] Alt text: The Indicator source for Outsourced Service Provider dashboard.
 
     2.  Review the facts table, conditions, and frequency of the indicator sources compared to the data structure on your own instance.
 
@@ -431,11 +431,4 @@ Role required: pa\_admin
 
 12. Edit and activate the scheduled data collection job for this Platform Analytics Solution, &lt;name of scheduled job&gt;
 
-## Related
 
-- [[outsourced-service-provider|Outsourced Customer Service]]
-- [[case-routing-and-asign|Case routing and assignment]]
-- [[gamification-components-rules|Rules]]
-- [[osp-view-cases|View cases]]
-- [[migration-lists|Lists]]
-- [[ocs-dashboard|Outsourced Service Provider dashboard]]

@@ -33,7 +33,7 @@ On the change request form, in the **Related Links**, click **Calculate risk**. 
 Click the icon against **Calculated Risk Score** to find which type of success probability definition is responsible to set the risk for the change. There are three types of calculated risk score:
 
 -   Calculated \(Impact + Success Probability\)
--   Calculated \(Impact + [[change-success-score|Change Success Score]]\)
+-   Calculated \(Impact + Change Success Score\)
 -   Calculated \(Impact + Change Model Success\)
 -   Not set: When the risk is not evaluated
 
@@ -43,6 +43,3 @@ Risk lookup supports domain separation. The **sn\_chg\_probability\_risk\_lookup
 
 **Parent Topic:**[Reference section for Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/reference-change-management.md)
 
-## Related
-
-- [[change-success-score|Change success score]]

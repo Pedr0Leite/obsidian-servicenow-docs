@@ -12,7 +12,7 @@ breadcrumb: [Sales promotion, MCO core, Explore, Manufacturing Commercial Operat
 
 # Sales promotion claim review and approval use case
 
-Use case scenarios demonstrate when and how to use the [[mco-sales-promotion|sales promotion]] application to review and approve the claims. It provides practical examples of common [[mco-sls-pro-mgmt|sales promotion management]] situations.
+Use case scenarios demonstrate when and how to use the sales promotion application to review and approve the claims. It provides practical examples of common sales promotion management situations.
 
 ## Use case: Sales Promotion claim review and approval
 
@@ -28,7 +28,7 @@ Angela Bolt, a claims agent at Alectri, must review and approve pending sales pr
 
 Solution
 
-Angela uses the [[manufacturing-overview|Manufacturing Commercial Operations]] \(MCO\) workspace to review and approve sales promotion claims efficiently:
+Angela uses the Manufacturing Commercial Operations \(MCO\) workspace to review and approve sales promotion claims efficiently:
 
 1.  Views consolidated claim list of 23 active claims with visibility into pending, approved, and rejected submissions
 2.  Opens a pending claim and reviews the claimed amount and associated incentives
@@ -53,8 +53,3 @@ Outcome
 
 Angela successfully reviews and approves the sales promotion claim after completing all validation checklist items. The automated expense line creation and real-time status visibility streamline the end-to-end claims process, reducing turnaround time and improving transparency for both claims agents and dealers.
 
-## Related
-
-- [[mco-sales-promotion|Sales promotion]]
-- [[mco-sls-pro-mgmt|Sales promotion management]]
-- [[manufacturing-overview|Manufacturing Commercial Operations]]

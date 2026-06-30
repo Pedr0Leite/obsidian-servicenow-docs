@@ -13,7 +13,7 @@ breadcrumb: [Security Simulation and Training Integration for Security Operation
 
 # Configure Microsoft Defender for Office 365 integration
 
-Gain valuable insights into phishing simulation metrics directly within the [[vr-unified-CISO-dashboard|Cybersecurity Executive Dashboard]] through seamless integration with Microsoft Defender for Office 365.
+Gain valuable insights into phishing simulation metrics directly within the Cybersecurity Executive Dashboard through seamless integration with Microsoft Defender for Office 365.
 
 ## Before you begin
 
@@ -65,6 +65,4 @@ To learn more about simulating a phishing attack and setting up a tenant, see:
 
 7.  Select **Execute Now** to execute and collect data from Microsoft.
 
-## Related
 
-- [[vr-unified-CISO-dashboard|Cybersecurity Executive Dashboard]]

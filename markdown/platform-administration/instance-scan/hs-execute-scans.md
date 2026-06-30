@@ -19,13 +19,13 @@ Use the following types of scans to execute checks, a scan or a suite scan.
 -   **[Execute a point scan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-execute-point-scan.md)**  
  Execute all applicable checks against a single record, update set or an application by selecting **Run Point Scan**.
 -   **[Execute a test scan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-execute-test-scan.md)**  
-[[hs-execute-test-scan|Execute a test scan]] to verify if the check works as expected. The test scan enables you to test a single check instead of a full scan by selecting a single check and selecting **Test Check** on the Check form.
+Execute a test scan to verify if the check works as expected. The test scan enables you to test a single check instead of a full scan by selecting a single check and selecting **Test Check** on the Check form.
 -   **[Execute a full scan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-execute-full-scan.md)**  
  Execute a scan for the entire instance by selecting **Execute Full Scan**. Implementing a full scan runs all the active checks present in your instance.
 -   **[Execute a suite scan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hc-execute-suite-scan.md)**  
-Execute suites of available checks against a specific target to have targeted [[hc-scan-results|scan results]] by selecting **Execute Suite Scan**.
+Execute suites of available checks against a specific target to have targeted scan results by selecting **Execute Suite Scan**.
 -   **[Execute a reactive scan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-reactive-scan.md)**  
-[[hs-reactive-scan|Execute a reactive scan]] to set up a scan that runs automatically on an execution tracker failure.
+Execute a reactive scan to set up a scan that runs automatically on an execution tracker failure.
 
 **Parent Topic:**[Using Instance Scan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-using-scans.md)
 
@@ -50,11 +50,5 @@ Execute suites of available checks against a specific target to have targeted [[
 
 [Cancel a scan]()
 
-[Using the [[hs-landing-page|Instance Scan]] dashboard]()
+[Using the Instance Scan dashboard]()
 
-## Related
-
-- [[hs-execute-test-scan|Execute a test scan]]
-- [[hc-scan-results|Scan results]]
-- [[hs-reactive-scan|Execute a reactive scan]]
-- [[hs-landing-page|Instance Scan]]

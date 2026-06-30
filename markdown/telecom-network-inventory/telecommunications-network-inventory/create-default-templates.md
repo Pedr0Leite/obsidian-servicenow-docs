@@ -14,7 +14,7 @@ breadcrumb: [Create inventory template for network asset instantiation, Use, Tel
 
 # Create a default template
 
-Create a default template in the [[telecom-network-inventory|Telecommunications Network Inventory]] application to capture the default attribute definition for a specific configuration item \(CI\) class.
+Create a default template in the Telecommunications Network Inventory application to capture the default attribute definition for a specific configuration item \(CI\) class.
 
 ## Before you begin
 
@@ -28,9 +28,9 @@ When you use the **Template** field to select the table that stores the CI class
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
-2.  Click the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then go to **[[using-templates-tni|Network Inventory Templates]]** &gt; **Default Templates**.
+2.  Click the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then go to **Network Inventory Templates** &gt; **Default Templates**.
 
 3.  Click **New**.
 
@@ -40,7 +40,7 @@ When you use the **Template** field to select the table that stores the CI class
 
 5.  Click **Save**.
 
-6.  To schedule the form, click **Schedule** and fill in the [[scheduled-entity-generation-form|Scheduled Entity Generation form]].
+6.  To schedule the form, click **Schedule** and fill in the Scheduled Entity Generation form.
 
     **Note:** Scheduling is only available in the classic environment.
 
@@ -49,9 +49,3 @@ When you use the **Template** field to select the table that stores the CI class
 
 **Parent Topic:**[Create inventory template for network asset instantiation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/preparing-inv-templates-network-asset-generation.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[using-templates-tni|Network inventory templates]]
-- [[scheduled-entity-generation-form|Scheduled Entity Generation form]]

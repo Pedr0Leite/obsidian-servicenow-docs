@@ -38,7 +38,7 @@ To see documentation for another review phase, click the relevant box in the dia
 
     1.  Click **Approve** on the **Home** page.
 
-        The Home page displays only information on service instances that [[c_ServiceMappingOverview|Service Mapping]] can discover or already discovered. The Home page does not display information on service instances that are created manually or using the API.
+        The Home page displays only information on service instances that Service Mapping can discover or already discovered. The Home page does not display information on service instances that are created manually or using the API.
 
     2.  Click **Fix Rejected**.
 
@@ -48,7 +48,7 @@ To see documentation for another review phase, click the relevant box in the dia
 
 2.  Click **Reject Messages** on the left.
 
-    The owner comments are displayed under the **Service [[r-discovery|Discovery]] Messages tab**.
+    The owner comments are displayed under the **Service Discovery Messages tab**.
 
 3.  Review the reject messages to see comments that the application service owner left.
 
@@ -64,11 +64,11 @@ To see documentation for another review phase, click the relevant box in the dia
 -   **[Manually add CIs to an application service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/manually-add-ci-to-business-service.md)**  
 Add configuration items to manually created application services or to services discovered by Service Mapping.
 -   **[Remove CIs not belonging to application services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/remove-cis-not-belonging-business-services.md)**  
-Remove CIs erroneously mapped as part of an application service by Service Mapping. Unnecessary CIs included in the map can generate irrelevant alerts in [[c_EM|Event Management]]. For example, when creating an application service for a web portal, Service Mapping might automatically discover a connection to unaffiliated external services, such as PayPal.
+Remove CIs erroneously mapped as part of an application service by Service Mapping. Unnecessary CIs included in the map can generate irrelevant alerts in Event Management. For example, when creating an application service for a web portal, Service Mapping might automatically discover a connection to unaffiliated external services, such as PayPal.
 -   **[Transfer a map segment into another application service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/add-segment-to-business-service-map.md)**  
 You can remove a branch of a service and place it into another application service, either new or existing. Transfer map segments to split large services or when you want to organize services differently from the initial mapping result.
 -   **[Link application services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/link-services-to-services.md)**  
-You can manually link two application services by adding a reference to one application service into another application service. The service that contains the reference, becomes a dependent service. The service that you include as a reference is a contained service. You can [[link-services-to-services|link application services]] to create dependencies for impact monitoring in Event Management.
+You can manually link two application services by adding a reference to one application service into another application service. The service that contains the reference, becomes a dependent service. The service that you include as a reference is a contained service. You can link application services to create dependencies for impact monitoring in Event Management.
 -   **[Discover CIs identified as generic applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/create-pattern-from-generic-application.md)**  
 Service Mapping identifies application configuration items \(CIs\) that it failed to properly discover as generic applications. Correctly identify generic applications by creating a simplified discovery pattern from an application service map, rather than creating a fully functional pattern from scratch using the Pattern Designer.
 
@@ -95,9 +95,3 @@ Service Mapping identifies application configuration items \(CIs\) that it faile
 
 [Application service analysis and maintenance using classic Service Mapping]()
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]
-- [[c_EM|Event Management]]
-- [[link-services-to-services|Link application services]]

@@ -12,7 +12,7 @@ breadcrumb: [Filters and breadcrumbs, Lists in the classic environment, Working 
 
 # Save and use filters in a list view
 
-Depending on your access rights, you may save [[c_Filters|filters]] for everyone, a user group, or yourself. You can apply saved filters and edit or delete them.
+Depending on your access rights, you may save filters for everyone, a user group, or yourself. You can apply saved filters and edit or delete them.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: varies depending on action. See procedure.
 
 ## Procedure
 
-1.  Navigate to a list and create or modify a filter as described in [[t_CreatingFilters|Create a filter in List]].
+1.  Navigate to a list and create or modify a filter as described in [Create a filter in List](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_CreatingFilters.md).
 
 2.  Select **Save...**.
 
@@ -76,10 +76,5 @@ Creates a group filter, which only members of the user group you select can acce
     4.  If you edited the filter, select **Update**.
 
 
-**Parent Topic:**[[c_UsingFiltersAndBreadcrumbs|Filters and breadcrumbs]]
+**Parent Topic:**[Filters and breadcrumbs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_UsingFiltersAndBreadcrumbs.md)
 
-## Related
-
-- [[t_CreatingFilters|Create a filter in List]]
-- [[c_UsingFiltersAndBreadcrumbs|Filters and breadcrumbs]]
-- [[c_Filters|Filters]]

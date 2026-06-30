@@ -14,9 +14,9 @@ breadcrumb: [Create a chat assistant, View assistants, Configuring assistants ov
 
 # Portal prerequisites for enhanced chat
 
-[[now-assist-in-va-landing|Now Assist in Virtual Agent]] provides users with a content-driven and search-driven generative AI experience. To benefit from chat and search capabilities, your portal must have AI Search enabled before configuring your assistant.
+Now Assist in Virtual Agent provides users with a content-driven and search-driven generative AI experience. To benefit from chat and search capabilities, your portal must have AI Search enabled before configuring your assistant.
 
-[[nava-standard-chat|Standard chat]] or [[nava-enhanced-chat|enhanced chat]] offers different experiences. Enhanced chat provides users with a resizable chat window and search experience. To understand the differences between standard chat, enhanced chat, and enhanced chat with an additional full-page experience option, see [Using Now Assist in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/using-now-assist-in-va.md). If you only want a chat experience, there's no dependency on a portal's search configuration. However, ensure that your portal has the default chat widget button.
+Standard chat or enhanced chat offers different experiences. Enhanced chat provides users with a resizable chat window and search experience. To understand the differences between standard chat, enhanced chat, and enhanced chat with an additional full-page experience option, see [Using Now Assist in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/using-now-assist-in-va.md). If you only want a chat experience, there's no dependency on a portal's search configuration. However, ensure that your portal has the default chat widget button.
 
 To benefit from enhanced chat's search capabilities, your portal should have AI Search enabled. To configure AI Search for your portal, navigate to **All** &gt; **AI Search Admin Home**. For more information, see [Enable and configure AI Search in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/enable-ais-sp.md).
 
@@ -32,8 +32,3 @@ The prerequisites for both the enhanced chat experience and the enhanced chat wi
 
 **Note:** If you customized the Faceted Search widget or the Typeahead Search widget, you must reconcile your customizations with the latest versions to ensure that you have all of the updates.
 
-## Related
-
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]
-- [[nava-standard-chat|Standard chat]]
-- [[nava-enhanced-chat|Enhanced chat]]

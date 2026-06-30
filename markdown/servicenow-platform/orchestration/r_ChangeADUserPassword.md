@@ -16,7 +16,7 @@ breadcrumb: [Active Directory activity pack, Orchestration activity packs, Class
 
 The Change AD User Password activity changes the password for an Active Directory user account.
 
-This activity requires the user's current password to run, unlike the [**Reset AD User Password**](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_ResetADUserPassword.md) activity. If the new password violates any Active Directory password requirements, such as length or character combinations, the activity fails and returns the appropriate error message. This error message appears in the ECC queue and in hint text when a user points to the activity in the [[workflow-editor|Workflow Editor]].
+This activity requires the user's current password to run, unlike the [**Reset AD User Password**](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_ResetADUserPassword.md) activity. If the new password violates any Active Directory password requirements, such as length or character combinations, the activity fails and returns the appropriate error message. This error message appears in the ECC queue and in hint text when a user points to the activity in the Workflow Editor.
 
 To access this activity in the Workflow Editor, select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Active Directory**.
 
@@ -82,11 +82,7 @@ The activity provides the following conditions:
 
 ## Active Directory credentials with LDAP
 
-If you are using an LDAP Server with MID Servers, note that Orchestration and Active Directory activities do not use the user name and password configured on LDAP Servers. You must create a [Windows type orchestration credential record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/r_WindowsCredentialsForm.md) [Windows credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/r_WindowsCredentialsForm.md). The username and password in the credentials record is used for LDAP queries that Orchestration and [[c_WorkflowActivities|workflow activities]] perform.
+If you are using an LDAP Server with MID Servers, note that Orchestration and Active Directory activities do not use the user name and password configured on LDAP Servers. You must create a [Windows type orchestration credential record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/r_WindowsCredentialsForm.md) [Windows credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/r_WindowsCredentialsForm.md). The username and password in the credentials record is used for LDAP queries that Orchestration and workflow activities perform.
 
 **Parent Topic:**[Active Directory activity pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchActiveDirectoryActivities.md)
 
-## Related
-
-- [[workflow-editor|Workflow editor]]
-- [[c_WorkflowActivities|Workflow activities]]

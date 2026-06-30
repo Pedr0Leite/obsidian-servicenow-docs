@@ -13,7 +13,7 @@ breadcrumb: [Using Social Benefits Playbook, Playbooks, Use, Public Sector Digit
 
 # Add a beneficiary to a social benefits application in Social Benefits Playbook
 
-As an agent, you can add multiple beneficiaries to an existing request for social benefits. Applicants, or the representatives of an applicant, can also add additional beneficiaries to an application through the [[gsp-overview-public-sector|Government Service Portal]]. Beneficiaries are people that share the household or are related to the applicant who will benefit from the assistance being provided.
+As an agent, you can add multiple beneficiaries to an existing request for social benefits. Applicants, or the representatives of an applicant, can also add additional beneficiaries to an application through the Government Service Portal. Beneficiaries are people that share the household or are related to the applicant who will benefit from the assistance being provided.
 
 ## Before you begin
 
@@ -39,6 +39,4 @@ Role required: admin
 
 8.  Select **Mark Complete**.
 
-## Related
 
-- [[gsp-overview-public-sector|Government Service Portal]]

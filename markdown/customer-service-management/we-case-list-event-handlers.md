@@ -32,7 +32,7 @@ Payload
 
 </td><td>
 
-This event is dispatched when a record is selected.**Note:** If the first column is the reference column, selecting the case record shows the error in the [[case-view-web-component|Case view component]].
+This event is dispatched when a record is selected.**Note:** If the first column is the reference column, selecting the case record shows the error in the Case view component.
 
 </td><td>
 
@@ -70,11 +70,7 @@ This event is dispatched when a property validation or internal error occurs.
 
 [Embed the Case list component instance on the third-party website](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/embed-case-list-component-on-third-party-website.md)
 
-[[component-properties-for-the-case-list|Component properties for the Case list]]
+[Component properties for the Case list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/component-properties-for-the-case-list.md)
 
 [Sample code for the Case list component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/we-case-list-sample-code.md)
 
-## Related
-
-- [[component-properties-for-the-case-list|Component properties for the Case list]]
-- [[case-view-web-component|Case view component]]

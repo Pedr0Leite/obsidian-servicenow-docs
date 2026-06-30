@@ -28,7 +28,7 @@ Failure and resolution codes are stored in the Asset service source \[Asset serv
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Admin center** &gt; **Failure and resolution**.
+1.  Navigate to **Workspaces** &gt; **Enterprise Asset Workspace** &gt; **Admin center** &gt; **Failure and resolution**.
 
 2.  In the Failure and resolution list, select **Codes**.
 
@@ -90,7 +90,7 @@ Code of the parent.**Note:** The parent code is of the same type as the child co
 
 </td></tr><tr><td>
 
-[[model-hierarchy|Model categories]]
+Model categories
 
 </td><td>
 
@@ -114,7 +114,3 @@ Source of the code. This field is required.
 
 The code that you created is shown in the Codes list.
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[model-hierarchy|Model categories]]

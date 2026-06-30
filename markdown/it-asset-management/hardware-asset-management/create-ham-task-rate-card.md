@@ -24,7 +24,7 @@ Activate the ServiceNow® Cost Management \(com.snc.cost\_management\) plugin. F
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Asset operations** &gt; **TCO configuration** &gt; **Task rate card**.
+1.  Navigate to **Workspaces** &gt; **Hardware Asset Workspace** &gt; **Asset operations** &gt; **TCO configuration** &gt; **Task rate card**.
 
 2.  Select **New**.
 
@@ -123,6 +123,3 @@ After a task rate card is defined for a task, expense lines are created by the *
 
 [Asset operations view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/asset-operations-view.md)
 
-## Related
-
-- [[using-ham-workspace|Hardware Asset Workspace]]

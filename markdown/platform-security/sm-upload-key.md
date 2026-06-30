@@ -12,7 +12,7 @@ breadcrumb: [Secrets Management dashboard, Secrets Management, Platform Security
 
 # Upload a public key for Secrets Management
 
-Upload a public key to encrypt your secrets in [[secrets-management|Secrets Management]].
+Upload a public key to encrypt your secrets in Secrets Management.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin
 
 2.  In the record, select the **Manage Client Side Access** button.
 
-    A new [[identity-landing|identity]] group record opens.
+    A new identity group record opens.
 
 3.  Select the **Upload Identity Key** button.
 
@@ -41,10 +41,5 @@ Role required: admin
 7.  Select **Submit** to save the identity group record.
 
 
-**Parent Topic:**[[secrets-dashboard|Secrets Management dashboard]]
+**Parent Topic:**[Secrets Management dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/secrets-dashboard.md)
 
-## Related
-
-- [[secrets-dashboard|Secrets Management dashboard]]
-- [[secrets-management|Secrets Management]]
-- [[identity-landing|Identity]]

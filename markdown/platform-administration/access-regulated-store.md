@@ -12,7 +12,7 @@ breadcrumb: [Using a regulated environment, ServiceNow Store, Administering appl
 
 # Access the ServiceNow Store for a regulated environment
 
-Log in to the isolated instance of the [[servicenow-store|ServiceNow Store]] contained in your regulated environment.
+Log in to the isolated instance of the ServiceNow Store contained in your regulated environment.
 
 ## Before you begin
 
@@ -31,6 +31,3 @@ You must have access to Now Support in a regulated environment.
 
 You’re logged in to the federal or regional instance of the ServiceNow Store that corresponds with your regulated environment.
 
-## Related
-
-- [[servicenow-store|ServiceNow Store]]

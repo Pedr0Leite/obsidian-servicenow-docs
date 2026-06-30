@@ -22,7 +22,7 @@ Role required: sn\_risk.asmt\_creator or sn\_risk.manager or sn\_risk.administra
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Risk** &gt; **[[Administration|Administration]]** &gt; **Assessment Types**.
+1.  Navigate to **All** &gt; **Risk** &gt; **Administration** &gt; **Assessment Types**.
 
 2.  Select **New**.
 
@@ -116,6 +116,3 @@ Additional user roles that can view the results and access records associated wi
 
 **Parent Topic:**[Assess risks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/assess-risk-old-way.md)
 
-## Related
-
-- [[Administration|Administration]]

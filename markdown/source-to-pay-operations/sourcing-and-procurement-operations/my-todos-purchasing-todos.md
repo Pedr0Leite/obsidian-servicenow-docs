@@ -24,10 +24,7 @@ In the **Purchase detail view**, you can also view all approval requests, includ
 
 ## Light view of purchasing to-dos
 
-You can select **View activity** on a purchasing to-do item to display a light view of the to-do, where you can view its [[activity-stream|activity stream]], and compose a message and post it as a comment in the activity stream. You can also tag a person you want to address, with "@&lt;primary contact name&gt;", in the **Comments** field. An instructional message is displayed above the Compose section, which dynamically shows who the primary contact is for the associated purchasing task. An email notification is sent to the user who is tagged such that they know when they have been mentioned in an activity stream post.
+You can select **View activity** on a purchasing to-do item to display a light view of the to-do, where you can view its activity stream, and compose a message and post it as a comment in the activity stream. You can also tag a person you want to address, with "@&lt;primary contact name&gt;", in the **Comments** field. An instructional message is displayed above the Compose section, which dynamically shows who the primary contact is for the associated purchasing task. An email notification is sent to the user who is tagged such that they know when they have been mentioned in an activity stream post.
 
 **Parent Topic:**[Shopping Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shopping-hub-overview.md)
 
-## Related
-
-- [[activity-stream|Activity stream]]

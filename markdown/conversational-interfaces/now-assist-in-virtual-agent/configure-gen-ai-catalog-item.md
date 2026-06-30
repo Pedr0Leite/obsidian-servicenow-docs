@@ -14,7 +14,7 @@ breadcrumb: [Configuring assistants overview, Now Assist in Virtual Agent, Conve
 
 # Configure Now Assist in Conversational Catalog Request
 
-Speed up and provide a conversational and streamlined experience based on generative AI while submitting a catalog item request in [[virtual-agent-landing-page|Virtual Agent]]. Your organization can increase self-service and reduce operating costs.
+Speed up and provide a conversational and streamlined experience based on generative AI while submitting a catalog item request in Virtual Agent. Your organization can increase self-service and reduce operating costs.
 
 ## Before you begin
 
@@ -102,7 +102,7 @@ Description
 
 </td><td>
 
-1.  [[create-subflow-extrnl-route|Create a subflow]] to return the sys\_id of a record producer. For information about Flow Designer subflows, see [Building subflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/subflows.md).
+1.  Create a subflow to return the sys\_id of a record producer. For information about Flow Designer subflows, see [Building subflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/subflows.md).
 2.  Navigate to **sys\_properties.list**.
 3.  Select the **sn\_nowassist\_va.now.assist.generic.ticket.fallback.subflow** property.
 4.  In the **Value** field, enter the scope and internal name of the subflow. For example, **global.subflow\_name**. Locate the **Internal name** field in the list of Flow Designer subflows.
@@ -115,9 +115,9 @@ Description
 
 
 </td></tr></tbody>
-</table>4.  Configure URL navigation settings to specify where the generated ticket link in the Virtual Agent chat opens, see [[ac-configure-url-navigation|Configure URL navigation for chat links]].
+</table>4.  Configure URL navigation settings to specify where the generated ticket link in the Virtual Agent chat opens, see [Configure URL navigation for chat links](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ac-configure-url-navigation.md).
 
-    For information about URL navigation in Virtual Agent, see [[url-navigation-ci|URL navigation in Conversational Interfaces]]. For information about [[virtual-agent-scripts|Virtual Agent scripts]], see [Virtual Agent scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/virtual-agent-scripts.md).
+    For information about URL navigation in Virtual Agent, see [URL navigation in Conversational Interfaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/url-navigation-ci.md). For information about Virtual Agent scripts, see [Virtual Agent scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/virtual-agent-scripts.md).
 
     \[Omitted image "va-link-cat-item.png"\] Alt text: Generated ticket link in the Virtual Agent chat
 
@@ -129,10 +129,3 @@ Description
 
 [Topic blocks to request catalog items through conversational experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/request-topic-blocks-va-llm.md)
 
-## Related
-
-- [[ac-configure-url-navigation|Configure URL navigation for chat links]]
-- [[url-navigation-ci|URL navigation in Conversational Interfaces]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[create-subflow-extrnl-route|Create a subflow]]
-- [[virtual-agent-scripts|Virtual Agent scripts]]

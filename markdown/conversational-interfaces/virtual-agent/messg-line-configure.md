@@ -14,7 +14,7 @@ breadcrumb: [Conversational Integration with LINE, Integrate VA with messaging a
 
 # Configure Conversational Integration with LINE
 
-Install and set up the [[messg-line|Conversational Integration with LINE]] application to enable your users to interact with virtual and live agents.
+Install and set up the Conversational Integration with LINE application to enable your users to interact with virtual and live agents.
 
 ## Before you begin
 
@@ -36,6 +36,4 @@ This task provides the general steps to integrate the LINE messaging app with a 
 
 5.  [Transfer LINE chat conversations to live agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-line-live-agent-conv.md).
 
-## Related
 
-- [[messg-line|Conversational Integration with LINE]]

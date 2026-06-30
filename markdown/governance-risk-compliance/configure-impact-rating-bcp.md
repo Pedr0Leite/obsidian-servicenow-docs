@@ -24,7 +24,7 @@ You can define the impact ratings to assess an impact category as low, moderate,
 
 ## Procedure
 
-1.  Navigate to **Business Continuity** &gt; **General [[Administration|Administration]]** &gt; **Impact Ratings**.
+1.  Navigate to **Business Continuity** &gt; **General Administration** &gt; **Impact Ratings**.
 
 2.  Click **New**.
 
@@ -41,6 +41,4 @@ You can define the impact ratings to assess an impact category as low, moderate,
 
 4.  Click **Submit**.
 
-## Related
 
-- [[Administration|Administration]]

@@ -18,7 +18,7 @@ As a user with the security incident administrator \(sn\_si.admin\) role, you cr
 
 ## Capability profiles
 
-You create profiles™ so you can group McAfee ePO capabilities and configure the settings for these capabilities from your ServiceNow AI Platform® instance. You have the flexibility to create multiple profiles for these capabilities, which allows you to determine which actions or queries are invoked when a [[sir-landing-page|Security Incident Response]] \(SIR\) incident is created. To fit the needs of your organization, you can create a single profile that runs queries for system details, initiates [[threat-intelligence-malware|malware]] scans, and isolates host machines, for example, or, you can create multiple profiles, each with its own, single McAfee ePO capability.
+You create profiles™ so you can group McAfee ePO capabilities and configure the settings for these capabilities from your ServiceNow AI Platform® instance. You have the flexibility to create multiple profiles for these capabilities, which allows you to determine which actions or queries are invoked when a Security Incident Response \(SIR\) incident is created. To fit the needs of your organization, you can create a single profile that runs queries for system details, initiates malware scans, and isolates host machines, for example, or, you can create multiple profiles, each with its own, single McAfee ePO capability.
 
 <table id="table_cg1_54q_sgb"><thead><tr><th>
 
@@ -66,7 +66,7 @@ Verify with your McAfee ePO administrator that you have created the security tag
 
 </td><td>
 
-**Initiate Malware Scan****Note:** As part of the McAfee ePO malware scan, the List Threat Events capability is invoked automatically. However, you are not required to add the List Threat Events capability to the profile with the malware scan capability. Results of the malware scan are displayed on the [[threat-event|Threat Event]] Details tab on the security incident.
+**Initiate Malware Scan****Note:** As part of the McAfee ePO malware scan, the List Threat Events capability is invoked automatically. However, you are not required to add the List Threat Events capability to the profile with the malware scan capability. Results of the malware scan are displayed on the Threat Event Details tab on the security incident.
 
 </td></tr><tr><td>
 
@@ -94,7 +94,7 @@ None
 
 </td></tr></tbody>
 </table>-   **[Create a capability profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcafee-epo-create-profile.md)**  
-[[arcsight-esm-create-profile|Create a profile]] and select the McAfee ePO capabilities that you want the profile to run.
+Create a profile and select the McAfee ePO capabilities that you want the profile to run.
 -   **[Defining triggering conditions with a Configuration item \(CI\) field](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcafee-epo-alternate-ci.md)**  
 After you create a profile and select the McAfee ePO capabilities that you want the profile to run, you configure the settings of the profile so that it runs only when a set of specific conditions are met.
 -   **[Configure settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcafee-epo-configuring-profile.md)**  
@@ -106,9 +106,3 @@ After you create a profile and select the McAfee ePO capabilities that you want 
 
 **Next topic:**[Create a capability profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcafee-epo-create-profile.md)
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[threat-intelligence-malware|Malware]]
-- [[threat-event|Threat Event]]
-- [[arcsight-esm-create-profile|Create a profile]]

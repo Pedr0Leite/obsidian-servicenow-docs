@@ -18,7 +18,7 @@ Enable a load balancer to ensure that you have functional MID Servers. A load ba
 
 ## Before you begin
 
-1.  Install the [[acc-landing-page|Agent Client Collector]] Framework.
+1.  Install the Agent Client Collector Framework.
 2.  Configure the Agent Client Collector web server.
 3.  Ensure that you have access to the internal application's load balancer configuration.
 4.  Verify that the file `<mid_server_install_path>/static/hello.txt` was created during MID Server setup.
@@ -52,7 +52,7 @@ Load balancers are not configured by default. Follow this procedure to configure
 
     You can place the file in another location that doesn't require credentials, to simplify the setup.
 
-4.  Update the acc.yml configuration file with the appropriate FQDN \(**backend-url** value\) and port number, and turn off [[acc-auto-mid-selection|automatic MID Server selection]].
+4.  Update the acc.yml configuration file with the appropriate FQDN \(**backend-url** value\) and port number, and turn off automatic MID Server selection.
 
     ```
     backend-url:
@@ -71,7 +71,3 @@ The Agent Client Collector data flow proceeds as described in [Agent Client Coll
 
 When working with SSL, all certificates or certificate chains used by the configured MID Servers must be signed by root certificate authorities whose certificates are bundled inside a single `.pem` file. To transfer the signed certificates to the agent, specify the `.pem` file in the **trusted-ca-file** property of the agent’s `.yml` configuration file. For information on enhancing security with SSL/TLS configuration, see the [ITOM Agent Client Collector documentation material](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1122613) article in the Now Support Knowledge Base.
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[acc-auto-mid-selection|Automatic MID Server selection]]

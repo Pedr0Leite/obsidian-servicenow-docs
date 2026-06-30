@@ -26,7 +26,7 @@ Growth plans are based on your individual needs and aspirations and can help you
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
 
 2.  At the **Your Career** drop-down list, select **Growth plans**.
 
@@ -38,13 +38,13 @@ Growth plans are based on your individual needs and aspirations and can help you
 
 6.  In the **About this plan** section, select the **Set due date** link to give your growth plan a due date.
 
-7.  Select the **Add an [[activity-lxp|activity]]** button to additional activities.
+7.  Select the **Add an activity** button to additional activities.
 
 8.  Create the activity by following the fly-out prompts.
 
 9.  Select **Finish editing** \(if viewing a published growth plan\).
 
-    **Note:** Different options might be available based on the Talent Development related plug-in installs and what skills you selected to focus on. The **Something else** option will always be available. If you selected skills for your growth plan, the **Skill validation** option will be available and might be displayed if you already have **Skill validation** tasks for all your focus skills. The **[[exploring-learning-exp|Learning]]** and **Check-in** options might be displayed when **Learning** and **[[egd-activities-conversations-module|Career Conversations]]** are installed.
+    **Note:** Different options might be available based on the Talent Development related plug-in installs and what skills you selected to focus on. The **Something else** option will always be available. If you selected skills for your growth plan, the **Skill validation** option will be available and might be displayed if you already have **Skill validation** tasks for all your focus skills. The **Learning** and **Check-in** options might be displayed when **Learning** and **Career Conversations** are installed.
 
 
 ## Result
@@ -59,9 +59,3 @@ The activity will be added to your growth plan.
 
 **Parent Topic:**[Using the Talent Development Core application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-use.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[activity-lxp|Activity]]
-- [[exploring-learning-exp|Learning]]
-- [[egd-activities-conversations-module|Career Conversations]]

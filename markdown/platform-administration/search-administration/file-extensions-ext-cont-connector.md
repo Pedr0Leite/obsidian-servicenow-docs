@@ -110,7 +110,7 @@ Rich Text Format
 `.rtf`
 
 </td></tr></tbody>
-</table>**Note:** Some [[ext-cont-connectors-landing-page|external content connectors]] include support for indexing searchable content and metadata from additional content formats, such as video transcriptions or source-specific native document formats. Examples of source-specific native document formats include `.aspx` pages in Microsoft SharePoint Online and Wiki pages in Atlassian Confluence Cloud.
+</table>**Note:** Some external content connectors include support for indexing searchable content and metadata from additional content formats, such as video transcriptions or source-specific native document formats. Examples of source-specific native document formats include `.aspx` pages in Microsoft SharePoint Online and Wiki pages in Atlassian Confluence Cloud.
 
 For details on defining file-extension inclusion and exclusion filters for external content connectors, see [Configuring crawl settings for external content connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/cfg-crawl-settings-ext-cont-connector.md).
 
@@ -120,6 +120,3 @@ Binary files may be retrieved as content items, or as attachments found on conte
 
 **Parent Topic:**[External Content Connectors reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/reference-ext-cont-connectors.md)
 
-## Related
-
-- [[ext-cont-connectors-landing-page|External Content Connectors]]

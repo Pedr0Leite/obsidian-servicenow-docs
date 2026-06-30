@@ -14,7 +14,7 @@ breadcrumb: [Use, Privacy Management, Governance, Risk, and Compliance]
 
 # Access a processing activity from the Employee Center
 
-Request edit access to a processing activity directly from the [[employee-center|Employee Center]] to update the details your team is responsible for.
+Request edit access to a processing activity directly from the Employee Center to update the details your team is responsible for.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_privacy.business\_user
 
 Privacy analysts can add any user as a key stakeholder to a processing activity, even those without privacy roles. To enable users without privacy roles to view and edit a processing activity, they must be granted the sn\_privacy.business\_user role, and then have their processing activity privilege modified by a privacy analyst. To understand processing activity privileges, see [Add key stakeholders to a processing activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/add-stakeholders-to-a-pa.md).
 
-All added stakeholders with the appropriate business user role can access the processing activity directly from the Employee Center by navigating to **GRC tasks** &gt; **Tasks** &gt; **My items** &gt; **[[ropa-record|Processing activities]]**. After they review the processing activity and find that it needs updating, they can request edit access. This enables them to edit the related lists of the processing activity they are assigned to.
+All added stakeholders with the appropriate business user role can access the processing activity directly from the Employee Center by navigating to **GRC tasks** &gt; **Tasks** &gt; **My items** &gt; **Processing activities**. After they review the processing activity and find that it needs updating, they can request edit access. This enables them to edit the related lists of the processing activity they are assigned to.
 
 **Note:** Edit access can be requested for processing activities in the **Discover** state.
 
@@ -66,7 +66,3 @@ Edit the processing activity related lists directly from the Employee Center by 
 
 [Respond to a privacy screening assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/respond-to-privacy-assmnt.md)
 
-## Related
-
-- [[employee-center|employee center]]
-- [[ropa-record|Processing activities]]

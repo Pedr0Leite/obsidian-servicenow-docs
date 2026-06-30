@@ -14,7 +14,7 @@ breadcrumb: [Components installed with Product Catalog, Product Catalog, Asset M
 
 # Business rules installed with Product Catalog
 
-[[c_ProductCatalog|Product Catalog]] plugin adds the following business rules.
+Product Catalog plugin adds the following business rules.
 
 |Business rule|Table|Description|
 |-------------|-----|-----------|
@@ -30,6 +30,3 @@ breadcrumb: [Components installed with Product Catalog, Product Catalog, Asset M
 
 [Business rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/c_BusinessRules.md)
 
-## Related
-
-- [[c_ProductCatalog|Product Catalog]]

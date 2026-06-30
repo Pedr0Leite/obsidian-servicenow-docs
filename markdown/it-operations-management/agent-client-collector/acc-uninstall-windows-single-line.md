@@ -14,7 +14,7 @@ breadcrumb: [Install ACC on a Windows machine using silent installation, ACC ins
 
 # Uninstall Agent Client Collector from a Windows system using a single-line command
 
-Uninstall the [[acc-landing-page|Agent Client Collector]] from a Windows machine by running an efficient single-line command. If the script is not connected to the instance, you might have to uninstall Agent Client Collector manually.
+Uninstall the Agent Client Collector from a Windows machine by running an efficient single-line command. If the script is not connected to the instance, you might have to uninstall Agent Client Collector manually.
 
 ## Before you begin
 
@@ -31,6 +31,3 @@ Role required: agent\_client\_collector\_admin
 
 **Parent Topic:**[Install the Agent Client Collector on a Windows machine using silent installation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-windows-install-silent.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

@@ -24,7 +24,7 @@ Before starting this procedure, verify that there’s an active conference call 
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[major-security-incident-management-landing-page|Major Security Incident Management]]**.
+1.  Navigate to **Workspaces** &gt; **Major Security Incident Management**.
 
 2.  From the Major Security Incident list, select the major security incident that you're trying to resolve on the conference call.
 
@@ -54,6 +54,3 @@ Before starting this procedure, verify that there’s an active conference call 
 
 [Integrate MSIM Conference Calls with Cisco Webex]()
 
-## Related
-
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]

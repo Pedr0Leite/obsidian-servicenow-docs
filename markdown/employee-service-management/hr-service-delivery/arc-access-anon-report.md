@@ -22,7 +22,7 @@ Role required: none
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self Service** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Self Service** &gt; **Employee Center**.
 
 2.  From the **Human resources** tab, select **Employee Conduct**.
 
@@ -54,6 +54,3 @@ Role required: none
 
 [Anonymously report discrimination]()
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

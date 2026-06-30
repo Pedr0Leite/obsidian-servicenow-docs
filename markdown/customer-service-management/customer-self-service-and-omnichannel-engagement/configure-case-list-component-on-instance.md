@@ -22,7 +22,7 @@ You must have the following setup to configure the Case list component instance:
 
 -   Enable Web Embeddables in your instance. For more information, see [Activate Web Embeddables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/act-web-embeddables.md).
 -   [Set up a custom URL as the instance URL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/set-up-custom-url.md).
--   Authenticate the [[servicenow-web-components-overview|ServiceNow components]] using OpenID Connect \(OIDC\) or non OIDC authentication. For more information, see [Authenticate the ServiceNow components using OIDC](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/authenticate-sn-webcomponents-oidc.md) and [Non OIDC authentication for ServiceNow components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/auth-sn-webcomponents-non-oidc.md).
+-   Authenticate the ServiceNow components using OpenID Connect \(OIDC\) or non OIDC authentication. For more information, see [Authenticate the ServiceNow components using OIDC](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/authenticate-sn-webcomponents-oidc.md) and [Non OIDC authentication for ServiceNow components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/auth-sn-webcomponents-non-oidc.md).
 
 Role required: sn\_embeddable\_core.emb\_admin
 
@@ -34,7 +34,7 @@ Role required: sn\_embeddable\_core.emb\_admin
 
     For more information on creating a new module, see [Create a module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/create-we-module.md).
 
-3.  On the module page, in the Components tab, add a [[case-list-component|Case list component]] instance to an existing or a new group.
+3.  On the module page, in the Components tab, add a Case list component instance to an existing or a new group.
 
     For more information on creating a group and then adding a component instance, see [Create a group and add a component instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/we-create-group-and-add-comp-instance.md).
 
@@ -45,8 +45,8 @@ Role required: sn\_embeddable\_core.emb\_admin
 5.  Configure the Case list component instance properties.
 
     -   The Preview tab displays real-time data according to choices set in the component properties.
-    -   For a description of the component properties related to the Case list component instance, see [[component-properties-for-the-case-list|Component properties for the Case list]].
-6.  Select the **CORS [[gamification-components-rules|rules]]** tab to configure the CORS rules.
+    -   For a description of the component properties related to the Case list component instance, see [Component properties for the Case list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/component-properties-for-the-case-list.md).
+6.  Select the **CORS rules** tab to configure the CORS rules.
 
     For more information about configuring CORS rules, see [Configure CORS \(Cross-Origin Resource Sharing\) rules before embedding ServiceNow components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/configure-cors-for-web-components.md).
 
@@ -96,7 +96,7 @@ Role required: sn\_embeddable\_core.emb\_admin
 
 10. In the Component Code tab, slide the **Enable event handler** toggle switch to handle events triggered by the user interactions on the webpage.
 
-    **Note:** Enabling the event handler also modifies the component code. For more information on event handlers in Web Embeddables, see [[we-case-list-event-handlers|Event handler in the Case list component]].
+    **Note:** Enabling the event handler also modifies the component code. For more information on event handlers in Web Embeddables, see [Event handler in the Case list component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/we-case-list-event-handlers.md).
 
 11. In the Component code tab, review the generated code and select the **Copy component code**.
 
@@ -140,7 +140,7 @@ Role required: sn\_embeddable\_core.emb\_admin
     		'SN_EMBEDX_CASE_LIST#RECORD_SELECTED' : (e) => {
     			// This event is dispatched when a record is selected.
     			var {table, record_sys_id} = e.detail.payload;
-    			// the logic to construct the URL for the [[case-view-web-component|Case View component]]. Add your portal URL here.
+    			// the logic to construct the URL for the Case View component. Add your portal URL here.
     			const caseViewURL = '/caseview?emb_table='+table+'&emb_recordid='+record_sys_id;
     			// Redirect to the Case View component page
     			open(caseViewURL,'_self');
@@ -178,11 +178,3 @@ The global and component codes are ready to be shared with the third-party admin
 
 [Sample code for the Case list component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/we-case-list-sample-code.md)
 
-## Related
-
-- [[component-properties-for-the-case-list|Component properties for the Case list]]
-- [[we-case-list-event-handlers|Event handler in the Case list component]]
-- [[servicenow-web-components-overview|ServiceNow components]]
-- [[case-list-component|Case list component]]
-- [[gamification-components-rules|Rules]]
-- [[case-view-web-component|Case view component]]

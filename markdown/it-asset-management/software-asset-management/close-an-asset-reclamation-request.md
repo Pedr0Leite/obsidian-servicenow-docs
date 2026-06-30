@@ -14,7 +14,7 @@ breadcrumb: [Create a catalog request to reclaim assets, Using Software Asset Wo
 
 # Close an asset reclamation request
 
-[[close-asset-reclamation-request|Close an asset reclamation request]] to efficiently [[reclaiming-software-sam|reclaim software]] assets when an employee leaves an organization or moves to a different role.
+Close an asset reclamation request to efficiently reclaim software assets when an employee leaves an organization or moves to a different role.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sam\_user or asset.
 
 ## Procedure
 
-1.  Navigate to **Inventory** &gt; **[[reclaim-asset|Asset Reclamation]]** &gt; **Asset Reclamation Requests**.
+1.  Navigate to **Inventory** &gt; **Asset Reclamation** &gt; **Asset Reclamation Requests**.
 
 2.  Open the request that you want to fulfill.
 
@@ -69,8 +69,3 @@ Role required: sam\_user or asset.
 
 **Parent Topic:**[Create a catalog request to reclaim assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-catalog-req-offboardingsam.md)
 
-## Related
-
-- [[close-asset-reclamation-request|Close an asset reclamation request]]
-- [[reclaiming-software-sam|Reclaim software]]
-- [[reclaim-asset|Asset reclamation]]

@@ -14,7 +14,7 @@ breadcrumb: [HR e-signature, HR Documents, HR Service Delivery, Employee Service
 
 # Migrate existing HR task templates and open HR tasks to e-signature
 
-Migrate existing HR task templates and open HR tasks to the new HR task type for e-signature with the **Migrate [[hr-e-signature|HR e-signature]] tasks** scheduled job. The scheduled job automatically updates the HR task type and e-signature template based on your existing configurations. It also disables the old HR task types for credential, e-signature, and sign document.
+Migrate existing HR task templates and open HR tasks to the new HR task type for e-signature with the **Migrate HR e-signature tasks** scheduled job. The scheduled job automatically updates the HR task type and e-signature template based on your existing configurations. It also disables the old HR task types for credential, e-signature, and sign document.
 
 ## Before you begin
 
@@ -88,6 +88,3 @@ Sign Document
     -   Open HR tasks are updated to the e-signature task type and an e-signature template.
     -   HR task types for **Credential**, **E-Signature**, and **Sign Document** are disabled.
 
-## Related
-
-- [[hr-e-signature|HR e-signature]]

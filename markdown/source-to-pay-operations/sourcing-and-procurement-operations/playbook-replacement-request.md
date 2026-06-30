@@ -28,7 +28,7 @@ As an agent, you can view the requests, complete tasks across multiple workflow 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[psd-overview|Procurement Case Management]]** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Procurement Case Management** &gt; **Source-to-Pay Workspace**.
 
 2.  Select the List icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon.\) and select **All work** &gt; **Cases**.
 
@@ -88,7 +88,7 @@ Replacement request is automatically assigned to the buyer assigned to the origi
 
 </td></tr><tr><td rowspan="2">
 
-Coordinate with [[supplier|Supplier]]
+Coordinate with Supplier
 
 </td><td>
 
@@ -152,9 +152,9 @@ Updates the case to Closed Completed.
 **Related topics**  
 
 
-[Process a [[purchase-order-table|purchase order]] edit in playbook]()
+[Process a purchase order edit in playbook]()
 
-[Process a [[purchase-requisition|purchase requisition]] edit request in playbook]()
+[Process a purchase requisition edit request in playbook]()
 
 [Process a return request in playbook]()
 
@@ -172,10 +172,3 @@ Updates the case to Closed Completed.
 
 [Streamlining the supplier risk assessment workflow]()
 
-## Related
-
-- [[psd-overview|Procurement Case Management]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supplier|Supplier]]
-- [[purchase-order-table|Purchase order]]
-- [[purchase-requisition|Purchase requisition]]

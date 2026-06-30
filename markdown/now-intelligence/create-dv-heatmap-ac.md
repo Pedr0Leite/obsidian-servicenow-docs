@@ -13,11 +13,11 @@ breadcrumb: [Create, Data visualizations, Platform Analytics experience, Platfor
 
 # Create a heatmap data visualization
 
-Use a heatmap visualization to show the relationship between two table fields or [[c_CreatingBreakdowns|indicator breakdowns]]. The changes in color as you move along the axes reveal patterns in the value of one or both fields/breakdowns.
+Use a heatmap visualization to show the relationship between two table fields or indicator breakdowns. The changes in color as you move along the axes reveal patterns in the value of one or both fields/breakdowns.
 
 ## Before you begin
 
-Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-view-access-control.md) and [[platform-analytics-roles|Platform Analytics roles]].
+Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-view-access-control.md) and [Platform Analytics roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/platform-analytics-roles.md).
 
 ## About this task
 
@@ -25,7 +25,7 @@ For information about the use of a Heatmap visualization in a dashboard, see [th
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Data Visualizations**, or open an in-line dashboard and select **Edit**.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**, or open an in-line dashboard and select **Edit**.
 
 2.  Select **Create data visualization**.
 
@@ -164,11 +164,11 @@ Specify the text color of the title. The default title color is black, but you c
 </td></tr></tbody>
 </table>5.  Choose a data source.
 
-    For general descriptions of the data sources, see [[data-sources-visualizations|Data sources for data visualizations]].
+    For general descriptions of the data sources, see [Data sources for data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/data-sources-visualizations.md).
 
     -   Table \(available in the base system\). When you select a table, you can filter it by conditions.
 
-        Configured [[c_ReportSources|report sources]] appear in the **Predefined conditions** list. For more information, see [Report sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_ReportSources.md).
+        Configured report sources appear in the **Predefined conditions** list. For more information, see [Report sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_ReportSources.md).
 
         To help you create a custom filter, there is a preview list of records that would be included in the visualization. You can change which fields are shown as columns and the width of columns in the list actions.
 
@@ -186,8 +186,8 @@ Specify the text color of the title. The default title color is black, but you c
 
 6.  Select the options for your data source.
 
-    -   If your visualization represents table data, go to [[config-dv-heatmap-table|Table data options for heatmap visualizations]].
-    -   If your visualization represents indicator data, go to [[config-dv-heatmap-ind|Indicator data options for heatmap visualizations]].
+    -   If your visualization represents table data, go to [Table data options for heatmap visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/config-dv-heatmap-table.md).
+    -   If your visualization represents indicator data, go to [Indicator data options for heatmap visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/config-dv-heatmap-ind.md).
 7.  Under **Presentation**, provide display and color information.
 
 <table id="table_gvk_2mr_qtb"><thead><tr><th>
@@ -291,13 +291,13 @@ Action
 
 </td><td>
 
-Choose the event that occurs when a user clicks in a visualization or one of its segments. Choices depend on the visualization type and data source. Applies only when **Allow chart interaction** is on. For more information, see [[dv-chart-interactions|Chart interactions in a data visualization]].
+Choose the event that occurs when a user clicks in a visualization or one of its segments. Choices depend on the visualization type and data source. Applies only when **Allow chart interaction** is on. For more information, see [Chart interactions in a data visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/dv-chart-interactions.md).
 
--   **Go to data view** opens a list view, [[kpi-details|KPI Details]] page, or [[user-exp-analytics-landing|Usage Insights]] overview page relevant to the associated segment or visualization. For table data, a system property determines whether a Core UI list or a Platform Analytics list opens. For more information, see [[visualization-drilldown-in-config-ws|Data views for different data sources]].
+-   **Go to data view** opens a list view, KPI Details page, or Usage Insights overview page relevant to the associated segment or visualization. For table data, a system property determines whether a Core UI list or a Platform Analytics list opens. For more information, see [Data views for different data sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/visualization-drilldown-in-config-ws.md).
 -   **Go to URL** opens the specified URL, which can be on the instance or external. You have the option of specifying a page name to appear in the tooltip, for those visualizations with tooltips.
 -   **Drill down to chart** \(Visualization Designer only\) Opens a different data visualization that is filtered by the selected data. You can add a drill-down visualization for each metric on the parent visualization.
 
-**Note:** The last level of drill down in the [[par-workspace|Platform Analytics experience]] is always a Core UI list. Records do not open in Workspace embedded lists.
+**Note:** The last level of drill down in the Platform Analytics experience is always a Core UI list. Records do not open in Workspace embedded lists.
 
 **Drill down to chart** supports only table data sources.
 
@@ -309,35 +309,16 @@ Choose the event that occurs when a user clicks in a visualization or one of its
 
 ## What to do next
 
--   [[add-dv-new-db|Add a visualization to a dashboard from the Visualization Designer]]
--   [[share-dv-ac|Share a data visualization in the Visualization Designer]]
--   [[bookmark-dv-ac|Bookmark a visualization in the Visualization Designer]]
+-   [Add a visualization to a dashboard from the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/add-dv-new-db.md)
+-   [Share a data visualization in the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/share-dv-ac.md)
+-   [Bookmark a visualization in the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/bookmark-dv-ac.md)
 
 -   **[Table data options for heatmap visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/config-dv-heatmap-table.md)**  
 When you select a table data source for a heatmap visualization, the following Data configuration options are available.
 -   **[Indicator data options for heatmap visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/config-dv-heatmap-ind.md)**  
 When you select an indicator data source for a heatmap visualization, the following Data configuration options are available.
--   **[[dv-example-heatmap|Heatmap visualization example]]**  
+-   **[Heatmap visualization example](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/dv-example-heatmap.md)**  
 The heatmap data visualization shows the relationship between two table fields or indicator breakdowns as a spectrum of shading between two colors. The changes in color as you move along the axes reveal patterns in the value of one or both fields or breakdowns.
 
-**Parent Topic:**[[creating-data-visualizations|Creating data visualizations]]
+**Parent Topic:**[Creating data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/creating-data-visualizations.md)
 
-## Related
-
-- [[platform-analytics-roles|Platform Analytics roles]]
-- [[data-sources-visualizations|Data sources for data visualizations]]
-- [[config-dv-heatmap-table|Table data options for heatmap visualizations]]
-- [[config-dv-heatmap-ind|Indicator data options for heatmap visualizations]]
-- [[dv-chart-interactions|Chart interactions in a data visualization]]
-- [[visualization-drilldown-in-config-ws|Data views for different data sources]]
-- [[add-dv-new-db|Add a visualization to a dashboard from the Visualization Designer]]
-- [[share-dv-ac|Share a data visualization in the Visualization Designer]]
-- [[bookmark-dv-ac|Bookmark a visualization in the Visualization Designer]]
-- [[dv-example-heatmap|Heatmap visualization example]]
-- [[creating-data-visualizations|Creating data visualizations]]
-- [[c_CreatingBreakdowns|Indicator breakdowns]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[c_ReportSources|Report sources]]
-- [[kpi-details|KPI Details]]
-- [[user-exp-analytics-landing|Usage Insights]]
-- [[par-workspace|Platform Analytics experience]]

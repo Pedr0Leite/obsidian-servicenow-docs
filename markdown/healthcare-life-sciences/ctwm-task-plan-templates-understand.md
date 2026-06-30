@@ -12,7 +12,7 @@ breadcrumb: [Configure, Care Team Work Management, Healthcare Operations, Health
 
 # Task Plan Templates in Care Team Work Management
 
-Understand how task plan templates can be leveraged from Customer Service Management in [[ctwm-landing|Care Team Work Management]].
+Understand how task plan templates can be leveraged from Customer Service Management in Care Team Work Management.
 
 Care Team Work Management enables for the creation of custom task plan templates to define the repeatable tasks and records that must be created for care team agents. When the template is applied, these tasks and records are automatically created.
 
@@ -28,7 +28,7 @@ You can create one or more template items, such as a task or record, for a task 
 
 Multiple template items can be created from the same configuration. For example, multiple Orchestration tasks can be generated from one single configuration. Or, a task plan for a medical device audit might be configured to generate Biomed cases as child cases to the parent Orchestration case.
 
-The following additional [[healthcare-operations-overview|healthcare operations]] case types are available to be configured as template items under Orchestration cases:
+The following additional healthcare operations case types are available to be configured as template items under Orchestration cases:
 
 -   Healthcare Operations cases
 -   Biomed cases
@@ -40,7 +40,3 @@ The following additional [[healthcare-operations-overview|healthcare operations]
 
 For a task plan template to open in a Playbook, a Playbook Record Generator must be associated in the Task Plan Template Configuration.
 
-## Related
-
-- [[ctwm-landing|Care Team Work Management]]
-- [[healthcare-operations-overview|Healthcare Operations]]

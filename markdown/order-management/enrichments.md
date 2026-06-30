@@ -12,9 +12,5 @@ breadcrumb: [CPQ app, Configure, price, quote apps, Configure, Sales Customer Re
 
 # Setting up enrichments and rules scripting
 
-Learn how to set up enrichments and write [[rules_101|rules]] [[scripts|scripts]] to control product behavior, automate calculations, and enhance configuration logic in your application.
+Learn how to set up enrichments and write rules scripts to control product behavior, automate calculations, and enhance configuration logic in your application.
 
-## Related
-
-- [[rules_101|Rules]]
-- [[scripts|Scripts]]

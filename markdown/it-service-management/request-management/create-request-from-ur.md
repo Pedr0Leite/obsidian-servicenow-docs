@@ -21,7 +21,7 @@ As a routing agent, create a request from a universal request and then assign it
 Ensure that you have the following plugins installed.
 
 -   Universal Request plugin \(com.snc.universal\_request\)
--   [[c_RequestManagement|Request Management]] plugin \(com.sn\_cs\_sm\_request\)
+-   Request Management plugin \(com.sn\_cs\_sm\_request\)
 
 **Note:** A request is associated with the parent Universal Request record only when you have the following conditions set:
 
@@ -47,6 +47,3 @@ On the Requested item form, the universal request number that was used for creat
 
 **Parent Topic:**[Request Management integration with Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/request-management/request-mgmt-integration-ur.md)
 
-## Related
-
-- [[c_RequestManagement|Request Management]]

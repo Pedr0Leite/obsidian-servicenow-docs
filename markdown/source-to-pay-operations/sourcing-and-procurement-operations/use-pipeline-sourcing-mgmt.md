@@ -17,11 +17,11 @@ breadcrumb: [Use, Sourcing and Procurement Operations, Finance and Supply Chain]
 Use Pipeline Sourcing Management to create pipeline projects that capture key financial and opportunity data while providing end-to-end visibility into all sourcing activities.
 
 -   **[Add a pipeline project to a sourcing request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/add-pipeline-sourcing-request.md)**  
-[[add-pipeline-sourcing-request|Add a pipeline project to a sourcing request]] to link project details, reduce manual data entry, and track sourcing progress against project timelines.
+Add a pipeline project to a sourcing request to link project details, reduce manual data entry, and track sourcing progress against project timelines.
 -   **[Create a pipeline project manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-pipeline-manually.md)**  
-[[create-pipeline-manually|Create a pipeline project manually]] to record project details that are not automatically generated through an intake request.
+Create a pipeline project manually to record project details that are not automatically generated through an intake request.
 -   **[Report savings when awarding a supplier](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/report-savings-pipeline.md)**  
-When awarding a [[supplier|supplier]], enter the spend and savings data for the sourcing event associated with the pipeline project.
+When awarding a supplier, enter the spend and savings data for the sourcing event associated with the pipeline project.
 -   **[Report savings when awarding multiple suppliers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/report-savings-multiple-suppliers.md)**  
 When awarding multiple suppliers, enter the spend and savings data for the sourcing event associated with the pipeline project.
 -   **[Close a pipeline project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/close-pipeline-project.md)**  
@@ -36,20 +36,13 @@ As a sourcing manager, you can create a pipeline project directly from an expiri
 
 [Using Shopping Hub]()
 
-[Using [[shopping-hub-overview|Shopping Hub]] Mobile]()
+[Using Shopping Hub Mobile]()
 
 [Using Procurement Case Management]()
 
-[Working with [[psm-overview|Sourcing and Procurement Operations]] playbooks in the Source-to-Pay Workspace]()
+[Working with Sourcing and Procurement Operations playbooks in the Source-to-Pay Workspace]()
 
 [Using Spend and Savings Management]()
 
 [Create a Universal Request]()
 
-## Related
-
-- [[add-pipeline-sourcing-request|Add a pipeline project to a sourcing request]]
-- [[create-pipeline-manually|Create a pipeline project manually]]
-- [[supplier|Supplier]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[psm-overview|Sourcing and Procurement Operations]]

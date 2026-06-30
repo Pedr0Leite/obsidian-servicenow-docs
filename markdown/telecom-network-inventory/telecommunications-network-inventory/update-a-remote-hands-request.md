@@ -18,7 +18,7 @@ Update a Remote Hands requests within the CSM/FSM Configurable Workspace.
 
 ## Before you begin
 
-Plugins: Activate the following plugins before you use the [[remote-hands-request-management|Remote Hands Request Management]] feature.
+Plugins: Activate the following plugins before you use the Remote Hands Request Management feature.
 
 -   Customer service install base management \(sn\_install\_base\)
 -   Customer service with request management \(sn\_cs\_sm\_request\)
@@ -45,7 +45,7 @@ The following procedure enables Remote Hands Agents to review the submitted case
     -   All: View all Remote Hands cases in the system
 5.  Select a case record to open and review the case details.
 
-    The case record fields are automatically populated with values submitted by the customers through the [[remote-hands-request-form|Remote Hands request form]] in the Customer Service Management \(CSM\) portal.
+    The case record fields are automatically populated with values submitted by the customers through the Remote Hands request form in the Customer Service Management \(CSM\) portal.
 
 6.  Select **Summarize**
 
@@ -56,7 +56,3 @@ The following procedure enables Remote Hands Agents to review the submitted case
 
 **Parent Topic:**[Remote Hands Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/remote-hands-request.md)
 
-## Related
-
-- [[remote-hands-request-management|Remote Hands Request Management]]
-- [[remote-hands-request-form|Remote Hands Request form]]

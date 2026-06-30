@@ -14,7 +14,7 @@ breadcrumb: [Use, Legal Invention Disclosure, Legal Service Delivery Practice Ap
 
 # Provide Legal Invention Disclosure request information to an outside counsel
 
-Provide the information related to a [[legal-invention-disclosure-landing|Legal Invention Disclosure]] request to an outside counsel for review to determine whether to apply for a patent.
+Provide the information related to a Legal Invention Disclosure request to an outside counsel for review to determine whether to apply for a patent.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_lg\_ip.patent\_fulfiller
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Counsel Center**.
 
 2.  Select the List icon \(\[Omitted image "lsd-lcc-list-icon.png"\] Alt text: List icon\) from the primary navigation and in the Legal Requests section of the **Lists** menu, select **All**.
 
@@ -63,7 +63,3 @@ Once you receive the decision from the outside counsel about whether the patent 
 
 **Parent Topic:**[Using the Legal Invention Disclosure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/use-legal-invention-disclosure.md)
 
-## Related
-
-- [[legal-invention-disclosure-landing|Legal Invention Disclosure]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]

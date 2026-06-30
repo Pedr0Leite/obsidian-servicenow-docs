@@ -13,9 +13,9 @@ breadcrumb: [Use, Now Assist Center, Enable AI experiences]
 
 # Using other Now Assist applications and features from Now Assist Center
 
-Access other [[platform-now-assist-landing|Now Assist]] applications within the [[now-assist-center-workspace|Now Assist Center workspace]] to configure and manage AI capabilities on your instance.
+Access other Now Assist applications within the Now Assist Center workspace to configure and manage AI capabilities on your instance.
 
-[[now-assist-center-landing-page|Now Assist Center]] is a unified administration workspace that consolidates the various Now Assist applications into a single, guided, conversational environment.
+Now Assist Center is a unified administration workspace that consolidates the various Now Assist applications into a single, guided, conversational environment.
 
 The following table lists the locations in Now Assist Center where you can access other Now Assist applications and use them within the workspace.
 
@@ -31,15 +31,15 @@ Location in Now Assist Center
 
 AI Agent Advisor
 
- See [[ai-agent-advisor-landing-page|AI Agent Advisor]].
+ See [AI Agent Advisor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-agent-advisor-landing-page.md).
 
 </td><td>
 
-AI Agent Advisor section of the Now Assist Center [[now-assist-center-home-page|home page]], Automation opportunities page, and Resolution Steps page
+AI Agent Advisor section of the Now Assist Center home page, Automation opportunities page, and Resolution Steps page
 
  Navigate to **Now Assist Center** &gt; **Home** and view the **AI Agent Advisor** section.
 
- For more information, see [[now-assist-center-using-ai-agent-advisor|Using AI Agent Advisor in Now Assist Center]].
+ For more information, see [Using AI Agent Advisor in Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-using-ai-agent-advisor.md).
 
 </td></tr><tr><td>
 
@@ -53,13 +53,13 @@ Asset inventory page.
 
  Navigate to **Now Assist Center** &gt; **Asset inventory**.
 
- For more information, see [[now-assist-center-using-asset-inventory|Using the asset inventory in Now Assist Center]].
+ For more information, see [Using the asset inventory in Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-using-asset-inventory.md).
 
 </td></tr><tr><td>
 
 Now Assist Admin console, Experiences
 
- See [[now-assist-experiences|Now Assist Experiences]].
+ See [Now Assist Experiences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-experiences.md).
 
 </td><td>
 
@@ -67,13 +67,13 @@ Admin page
 
  Navigate to **Now Assist Center** &gt; **Admin** and select one of the options under **Now Assist Experiences**.
 
- For more information, see [[now-assist-center-using-admin-console|Using Now Assist Admin console features in Now Assist Center]].
+ For more information, see [Using Now Assist Admin console features in Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-using-admin-console.md).
 
 </td></tr><tr><td>
 
 Now Assist Admin console, Performance
 
- See [[now-assist-analytics|Analyzing Now Assist performance]].
+ See [Analyzing Now Assist performance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-analytics.md).
 
 </td><td>
 
@@ -81,13 +81,13 @@ Analytics page
 
  Navigate to **Now Assist Center** &gt; **Monitor** and select the **Skills** tab.
 
- For more information, see [[now-assist-center-view-ai-usage|View AI assets usage and performance in Now Assist Center]].
+ For more information, see [View AI assets usage and performance in Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-view-ai-usage.md).
 
 </td></tr><tr><td>
 
 Now Assist Admin console, Settings
 
- See [[configure-now-assist-admin-settings|Now Assist Admin Settings]].
+ See [Now Assist Admin Settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-now-assist-admin-settings.md).
 
 </td><td>
 
@@ -109,11 +109,11 @@ Admin page
 
  Navigate to **Now Assist Center** &gt; **Admin** and select one of the options under **Now Assist Guardian**.
 
- For more information, see [[now-assist-center-use-guardian-features|Use Now Assist Guardian features in Now Assist Center]].
+ For more information, see [Use Now Assist Guardian features in Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-use-guardian-features.md).
 
 </td></tr><tr><td>
 
-[[now-assist-data-kit-landing|Now Assist Data Kit]]
+Now Assist Data Kit
 
  See [Now Assist Data Kit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-data-kit/now-assist-data-kit-landing.md).
 
@@ -123,11 +123,11 @@ Data page
 
  Navigate to **Now Assist Center** &gt; **Data**.
 
- For more information, see [[now-assist-center-use-data-kit-features|Use Now Assist Data Kit features in Now Assist Center]].
+ For more information, see [Use Now Assist Data Kit features in Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-use-data-kit-features.md).
 
 </td></tr><tr><td>
 
-[[now-assist-readiness-evaluation-landing-page|Now Assist Readiness Evaluation]]
+Now Assist Readiness Evaluation
 
  See [Now Assist Readiness Evaluation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-readiness-evaluation/now-assist-readiness-evaluation-landing-page.md).
 
@@ -137,7 +137,7 @@ AI Readiness section of the Now Assist Center home page, AI readiness page, and 
 
  Navigate to **Now Assist Center** &gt; **AI readiness**.
 
- For more information, see [[now-assist-center-using-readiness-evaluation|Using Now Assist Readiness Evaluation in Now Assist Center]].
+ For more information, see [Using Now Assist Readiness Evaluation in Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-using-readiness-evaluation.md).
 
 </td></tr></tbody>
 </table>-   **[Using Now Assist Admin console features in Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-using-admin-console.md)**  
@@ -147,14 +147,14 @@ Use Now Assist Data Kit on the data page in the Now Assist Center workspace.
 -   **[Use Now Assist Guardian features in Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-use-guardian-features.md)**  
 Use Now Assist Guardian features in the Now Assist Center workspace to detect offensive content, prompt injection attacks, and sensitive topics in generative AI interactions.
 
-**Parent Topic:**[[using-now-assist-center|Using Now Assist Center]]
+**Parent Topic:**[Using Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/using-now-assist-center.md)
 
 **Related topics**  
 
 
 [Using the conversational experience in Now Assist Center]()
 
-[Activating actionable use [[cases|cases]] from Now Assist Center]()
+[Activating actionable use cases from Now Assist Center]()
 
 [Using Now Assist Readiness Evaluation in Now Assist Center]()
 
@@ -162,24 +162,3 @@ Use Now Assist Guardian features in the Now Assist Center workspace to detect of
 
 [Using the asset inventory in Now Assist Center]()
 
-## Related
-
-- [[ai-agent-advisor-landing-page|AI Agent Advisor]]
-- [[now-assist-center-using-ai-agent-advisor|Using AI Agent Advisor in Now Assist Center]]
-- [[now-assist-center-using-asset-inventory|Using the asset inventory in Now Assist Center]]
-- [[now-assist-experiences|Now Assist Experiences]]
-- [[now-assist-center-using-admin-console|Using Now Assist Admin console features in Now Assist Center]]
-- [[now-assist-analytics|Analyzing Now Assist performance]]
-- [[now-assist-center-view-ai-usage|View AI assets usage and performance in Now Assist Center]]
-- [[configure-now-assist-admin-settings|Now Assist Admin Settings]]
-- [[now-assist-center-use-guardian-features|Use Now Assist Guardian features in Now Assist Center]]
-- [[now-assist-center-use-data-kit-features|Use Now Assist Data Kit features in Now Assist Center]]
-- [[now-assist-center-using-readiness-evaluation|Using Now Assist Readiness Evaluation in Now Assist Center]]
-- [[using-now-assist-center|Using Now Assist Center]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-center-workspace|Now Assist Center workspace]]
-- [[now-assist-center-landing-page|Now Assist Center]]
-- [[now-assist-center-home-page|Home page]]
-- [[now-assist-data-kit-landing|Now Assist Data Kit]]
-- [[now-assist-readiness-evaluation-landing-page|Now Assist Readiness Evaluation]]
-- [[cases|Cases]]

@@ -14,25 +14,25 @@ breadcrumb: [Use, Workplace Reservation Management, Workplace Service Delivery, 
 
 # Create a reservation in Microsoft Outlook add-in
 
-Employees can create a workplace reservation in Microsoft Outlook. They can use the [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] manifest add-in file for Microsoft Outlook add-in.
+Employees can create a workplace reservation in Microsoft Outlook. They can use the Workplace Reservation Management manifest add-in file for Microsoft Outlook add-in.
 
 ## Before you begin
 
 Install and configure the following:
 
 -   Workplace Reservation Management
--   [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]
--   [[workplace-safety-mgmt-hr|Workplace Core]]
--   [[workplace-case-mgmt-feat|Workplace Case Management]]
--   [[workplace-concierge-feat|Workplace Concierge]]
--   [[Indoor-mapping|Indoor Mapping]]
+-   Workplace Calendar Synchronization
+-   Workplace Core
+-   Workplace Case Management
+-   Workplace Concierge
+-   Indoor Mapping
 
 Verify that you have completed the following Microsoft Outlook add-in manifest file configuration:
 
 -   Add a manifest file for Microsoft Outlook add-in
 -   Upload the manifest file in Microsoft Outlook Add-in. Depending on your usage, complete the following:
 
-    -   [[upload-manifest-for-single-user|Upload the manifest file for a single user]]
+    -   Upload the manifest file for a single user
     -   Upload the manifest in Microsoft Outlook
     For more information, see [Activate the add-in for Microsoft Outlook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/add-outlook-addin.md).
 
@@ -41,7 +41,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
 ## Procedure
 
-1.  Open your mailbox in Microsoft Outlook to [[reservation-portal|make a reservation]].
+1.  Open your mailbox in Microsoft Outlook to make a reservation.
 
 2.  Perform any one of the following actions depending on the type of reservation that you want to make:
 
@@ -67,7 +67,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
 5.  The add-in opens in a sidebar and displays the Make a reservation form.
 
-    Employees can search for a space and add locations for a given date and time. You can [[create-multi-building-reservation|create multi-building reservations]], neighborhood reservations, or make a reservation near your colleague. Employees can add [[workplace-services|workplace services]] to a reservation. They can edit a reservation or workplace services added to a reservation.
+    Employees can search for a space and add locations for a given date and time. You can create multi-building reservations, neighborhood reservations, or make a reservation near your colleague. Employees can add workplace services to a reservation. They can edit a reservation or workplace services added to a reservation.
 
     \[Omitted image "outlook-make-rsv-first.png"\] Alt text: The Make a reservation form page shown on the Calendar invite for employees to make a workplace reservation.
 
@@ -256,20 +256,8 @@ Select this option to add another building to your reservation. You can create m
 
     Select your reservation to review the details on Workplace Reservation Management.
 
-    If you have delegated access to a team member to [[create-reservation-request-1|create a reservation]] on your behalf, the All Reservations page shows the reservation details along with updated **Requested for** and **Opened by** column values.
+    If you have delegated access to a team member to create a reservation on your behalf, the All Reservations page shows the reservation details along with updated **Requested for** and **Opened by** column values.
 
     \[Omitted image "delegate-fields-all-reservations-page.png"\] Alt text: Workplace Reservations page showing meeting delegate and meeting organizer.. For more information, see [Delegate reservations in Microsoft Outlook add-in](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/outlook-delegate-rsv.md).
 
-## Related
 
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[workplace-concierge-feat|Workplace Concierge]]
-- [[Indoor-mapping|Indoor Mapping]]
-- [[upload-manifest-for-single-user|Upload the manifest file for a single user]]
-- [[reservation-portal|Make a reservation]]
-- [[create-multi-building-reservation|Create multi-building reservations]]
-- [[workplace-services|Workplace Services]]
-- [[create-reservation-request-1|Create a reservation]]

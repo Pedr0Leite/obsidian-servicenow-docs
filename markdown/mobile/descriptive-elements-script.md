@@ -12,13 +12,13 @@ breadcrumb: [Data sources, Configure an input form screen, Input form screen, Mo
 
 # Configure descriptive elements for input form screens
 
-Add descriptive elements, such as an image, simple text, rich text, or a mobile card, before an input field within an [[parameter-input-screen|input form screen]]. This additional on-screen information provides a context to your users, enabling them to better understand what is required as they enter data into an input form.
+Add descriptive elements, such as an image, simple text, rich text, or a mobile card, before an input field within an input form screen. This additional on-screen information provides a context to your users, enabling them to better understand what is required as they enter data into an input form.
 
 ## Before you begin
 
 Role required: admin
 
-**Note:** Image, text, and rich text descriptive elements are configured in the [[mab-concept|Mobile App Builder]], whereas card descriptive elements are configured in the ServiceNow AI Platform. For the configuration of card descriptive elements see, [[descriptive-elements-card|Configure a card descriptive element for input form screens]].
+**Note:** Image, text, and rich text descriptive elements are configured in the Mobile App Builder, whereas card descriptive elements are configured in the ServiceNow AI Platform. For the configuration of card descriptive elements see, [Configure a card descriptive element for input form screens](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/descriptive-elements-card.md).
 
 ## About this task
 
@@ -26,7 +26,7 @@ You can add descriptive elements to input fields, sections that contain input fi
 
 You must have the following elements configured before you create descriptive elements:
 
--   A data source that contains at least one element identifier. Data sources facilitate the mapping of the descriptive element to the input form screen. For more information, see [[data-sources|Data sources]].
+-   A data source that contains at least one element identifier. Data sources facilitate the mapping of the descriptive element to the input form screen. For more information, see [Data sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/data-sources.md).
 -   A record section that can either be an input or an input form section:
     -   An input form section is a group of inputs in a defined area of the input form screen, usually with a defined header.
     -   Inputs are individual fields for users to complete within the input form screen. Inputs can be located either within a section or independent of a section.
@@ -47,7 +47,7 @@ The following stages are required when creating a descriptive element: First, de
 
 2.  Search for the application scope you're working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select the **All mobile records** from the menu.
 
@@ -199,10 +199,4 @@ Select **Fit** to ensure that the frame fits the image, maintaining its aspect r
 
 12. Select **Save**.
 
-## Related
 
-- [[descriptive-elements-card|Configure a card descriptive element for input form screens]]
-- [[data-sources|Data sources]]
-- [[parameter-input-screen|Input form screen]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]

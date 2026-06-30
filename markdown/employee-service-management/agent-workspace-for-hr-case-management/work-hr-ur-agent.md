@@ -14,7 +14,7 @@ breadcrumb: [HR Service Delivery Agent Workspace integration with Universal Requ
 
 # Work on an HR case of Universal Request in HR Service Delivery Agent Workspace
 
-Provide resolution to an HR case that is initiated from a [[ur-landing-limitedaccess|Universal Request]].
+Provide resolution to an HR case that is initiated from a Universal Request.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ The state changes described in the procedure can be configured to suit your requ
 
 3.  Click **Closed Complete** when the resolution is provided.
 
-    The state of the HR case is changed to **Awaiting acceptance** and the state of the universal request is automatically changed to **Awaiting response**. On the [[employee-center-landing-page|Employee Center]]:
+    The state of the HR case is changed to **Awaiting acceptance** and the state of the universal request is automatically changed to **Awaiting response**. On the Employee Center:
 
     -   If the user accepts the resolution, the state of the universal request is changed to **Closed**. The state of the HR case is automatically changed to **Closed Complete**.
     -   If the user rejects the resolution, the state of the universal request is changed to **In progress**. The state of the HR case is automatically changed to **Work in progress.**
@@ -43,7 +43,3 @@ The state changes described in the procedure can be configured to suit your requ
     -   If the **Needs Additional Review** check box is selected on the universal request, the universal request will be in the **In progress** state, and the HR case will be in the **Close Incomplete** state.
     -   If the **Needs Additional Review** check box is deselected on the universal request, the universal request gets closed based on the state mapping.
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[employee-center-landing-page|Employee Center]]

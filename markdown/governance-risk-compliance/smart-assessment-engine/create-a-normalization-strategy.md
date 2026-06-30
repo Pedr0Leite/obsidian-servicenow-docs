@@ -23,7 +23,7 @@ You can create a custom normalization strategy as required.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[smart-asmnt-engine-landing-page|Smart Assessment Engine]]** &gt; **[[Administration|Administration]]** &gt; **Normalization Strategies**.
+1.  Navigate to **All** &gt; **Smart Assessment Engine** &gt; **Administration** &gt; **Normalization Strategies**.
 
 2.  On the Scoring normalization strategies list, select **New** and then fill in the form.
 
@@ -169,7 +169,4 @@ Text that helps others to understand the purpose of this input.
 
     After creating a custom strategy, you can manage it further by moving it back to draft to make edits, retiring it when it's no longer needed, or deleting it permanently.
 
-## Related
 
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]
-- [[Administration|Administration]]

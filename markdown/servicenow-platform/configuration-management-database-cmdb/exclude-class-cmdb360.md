@@ -14,7 +14,7 @@ breadcrumb: [CMDB 360, Configuration Management Database \(CMDB\), Configuration
 
 # Exclude classes from CMDB 360
 
-Prevent [[multisource-cmdb|CMDB 360]] from collecting, storing, and analyzing data for classes for which it isn't needed. CMDB 360 processes large amounts of data. Therefore, excluding classes can help improve the performance of the Multisource Dashboard Analytics Population scheduled job and of CMDB 360 queries.
+Prevent CMDB 360 from collecting, storing, and analyzing data for classes for which it isn't needed. CMDB 360 processes large amounts of data. Therefore, excluding classes can help improve the performance of the Multisource Dashboard Analytics Population scheduled job and of CMDB 360 queries.
 
 ## Before you begin
 
@@ -42,6 +42,3 @@ Existing data for the specified class and its descending classes will be gradual
 
 You can deselect **Active** or completely delete a record for a class that you want to include in CMDB 360 data collection.
 
-## Related
-
-- [[multisource-cmdb|CMDB 360]]

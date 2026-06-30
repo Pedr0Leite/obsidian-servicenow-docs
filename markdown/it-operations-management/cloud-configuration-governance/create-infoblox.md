@@ -23,7 +23,7 @@ To integrate with Infoblox, you must create an Infoblox record and associate it 
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Manage** &gt; **Networks &amp; IPAM** &gt; **IPAM Providers** &gt; **Infoblox**.
+1.  In the Cloud Admin Portal, navigate to **Manage** &gt; **Networks &amp; IPAM** &gt; **IPAM Providers** &gt; **Infoblox**.
 
 2.  Click **New**, enter a unique and descriptive **Name**, fill in the form, and then click **Submit**.
 
@@ -32,6 +32,4 @@ To integrate with Infoblox, you must create an Infoblox record and associate it 
     |URL|Enter the URL of the Infoblox server.|
     |Credential|Select the Infoblox credential.|
 
-## Related
 
-- [[cloud-admin-portal|Cloud Admin Portal]]

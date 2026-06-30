@@ -70,7 +70,7 @@ If you select Workplace Entity as the group by option, the bars of the stack pla
 
 -   If **Neighborhood** is selected as the group by option, only assignments that have the **Neighborhood assignment** type are applicable. For any other group by option, assignments that have the **Location assignment** type are applicable.
 
--   Creating or viewing a scenario based on workplace entities is supported from [[workplace-space-mgmt-ovw|Workplace Space Management]] version 1.15.0. Workplace Entity is not supported for scenarios created in earlier versions.
+-   Creating or viewing a scenario based on workplace entities is supported from Workplace Space Management version 1.15.0. Workplace Entity is not supported for scenarios created in earlier versions.
 
 For earlier versions, you can view spaces based on their workplace entities for a building. For more information, see [Edit or view a building's spaces based on workplace entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/view-a-building-s-spaces-based-on-workplace-entities.md).
 
@@ -128,6 +128,3 @@ Location names are displayed based on the filter conditions. Select the refresh 
 
 [User Workplace Profile form]()
 
-## Related
-
-- [[workplace-space-mgmt-ovw|Workplace Space Management]]

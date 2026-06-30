@@ -14,7 +14,7 @@ breadcrumb: [Reference, Talent Profile, Hiring Experiences, HR Service Delivery,
 
 # Talent profile definition form
 
-The following table provides the field and its corresponding description. The fields are required to create a [[talent-profile-landing|talent profile]] definition.
+The following table provides the field and its corresponding description. The fields are required to create a talent profile definition.
 
 <table id="table_omn_dpv_tbc"><thead><tr><th>
 
@@ -81,7 +81,3 @@ Filter conditions to be met to be added to the definition.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[talent-profile-landing|Talent Profile]]

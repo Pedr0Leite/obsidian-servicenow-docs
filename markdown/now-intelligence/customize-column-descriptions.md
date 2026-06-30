@@ -21,7 +21,7 @@ Role required: sn\_query\_gen.admin or higher
 
 ## About this task
 
-The [[query-generation|Query Generation]] semantic layer uses column descriptions and usage instructions to help AI understand what each field represents and how to query it. You can override the auto-generated descriptions from the `sys_documentation` table and add usage instructions that guide query construction.
+The Query Generation semantic layer uses column descriptions and usage instructions to help AI understand what each field represents and how to query it. You can override the auto-generated descriptions from the `sys_documentation` table and add usage instructions that guide query construction.
 
 This procedure uses the Semantic Column Configuration table. Customizations made this way can be transferred between instances via update sets and override descriptions and usage instructions set directly in the Dimension table. For simpler, single-instance testing, you can edit the Semantic Label and Semantic Usage Instructions fields directly in the Dimension \[sn\_query\_gen\_dimension\] table instead. Such changes might be overridden by changes to the Dimension table included in a plugin upgrade.
 
@@ -66,9 +66,5 @@ The following examples show effective column descriptions and usage instructions
 
 Test your column configuration by asking questions that involve this field in Query Generation and verifying that the correct filters are generated.
 
-**Parent Topic:**[[customize-semantic-metadata|Customizing semantic metadata]]
+**Parent Topic:**[Customizing semantic metadata](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/customize-semantic-metadata.md)
 
-## Related
-
-- [[customize-semantic-metadata|Customizing semantic metadata]]
-- [[query-generation|Query Generation]]

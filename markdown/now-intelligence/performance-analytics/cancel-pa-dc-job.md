@@ -22,7 +22,7 @@ Role required: pa\_data\_collector and schedule\_admin, or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]] Administration** &gt; **Data Collector** &gt; **Jobs**.
+1.  Navigate to **All** &gt; **Platform Analytics Administration** &gt; **Data Collector** &gt; **Jobs**.
 
 2.  Select the job you want to cancel.
 
@@ -31,6 +31,3 @@ Role required: pa\_data\_collector and schedule\_admin, or admin
 
 **Parent Topic:**[Collecting indicator scores](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_ClctData.md)
 
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

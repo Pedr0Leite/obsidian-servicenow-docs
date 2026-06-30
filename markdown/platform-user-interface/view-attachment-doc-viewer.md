@@ -16,13 +16,13 @@ View documents within the platform using Document Viewer rather than having to d
 
 ## Before you begin
 
-Make sure that Document Viewer is enabled for the table containing the record. For more information, see [[enable-document-viewer|Enable Document Viewer]].
+Make sure that Document Viewer is enabled for the table containing the record. For more information, see [Enable Document Viewer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/enable-document-viewer.md).
 
 Role required: none
 
 ## About this task
 
-Document Viewer supports inline viewing of certain [[Documentviewer|document types]] within the platform.
+Document Viewer supports inline viewing of certain [document types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/Documentviewer.md) within the platform.
 
 ## Procedure
 
@@ -47,7 +47,3 @@ Document Viewer supports inline viewing of certain [[Documentviewer|document typ
 
 [Enable Document Viewer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/enable-document-viewer.md)
 
-## Related
-
-- [[enable-document-viewer|Enable Document Viewer]]
-- [[Documentviewer|Document Viewer]]

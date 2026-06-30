@@ -14,7 +14,7 @@ breadcrumb: [Observability - New Relic, Service Graph Connectors, Integrating th
 
 # Configure Service Graph Connector for Observability - New Relic using SGC Central
 
-Use the playbook available with the [[sgcc-landing|SGC Central]] application to set up the [[sgc-cmdb-integration-new-relic|Service Graph Connector for Observability - New Relic]] for pulling in New Relic project data into the CMDB.
+Use the playbook available with the SGC Central application to set up the Service Graph Connector for Observability - New Relic for pulling in New Relic project data into the CMDB.
 
 ## Before you begin
 
@@ -30,11 +30,11 @@ Role required: The following table shows the roles required for each stage of th
 |Prerequisites|admin|
 |Setup|SGC-Admin \(sn\_cmdb\_int\_util.sgc\_admin\) or admin|
 
-**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for [[cmdb-sgc-available|Service Graph Connectors]], see [Service Graph Connector user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md).
+**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md).
 
 ## About this task
 
-The playbook experience for onboarding connectors is activated with SGC Central in the [[sg-workspace|Service Graph Workspace]] or CMDB Workspace. To configure the SGC Central application, see [[sgcc-configuring|Configuring SGC Central]] and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/playbook-ui.md).
+The playbook experience for onboarding connectors is activated with SGC Central in the Service Graph Workspace or CMDB Workspace. To configure the SGC Central application, see [Configuring SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-configuring.md) and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/playbook-ui.md).
 
 ## Procedure
 
@@ -50,7 +50,7 @@ The playbook experience for onboarding connectors is activated with SGC Central 
 
 4.  Complete the initial prerequisites when setting up a connection for the first time using a connector.
 
-    **Note:** This step is required only during the first-time setup. See [[sgcc-first-time-setup|Perform initial setup tasks when creating a connection in SGC Central]].
+    **Note:** This step is required only during the first-time setup. See [Perform initial setup tasks when creating a connection in SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-first-time-setup.md).
 
 5.  Enter connection details and test the API connection for importing New Relic data.
 
@@ -81,7 +81,7 @@ The playbook experience for onboarding connectors is activated with SGC Central 
 
     3.  Expand the Parent scheduled data import within the Import schedules list to select the **SG-New Relic Hosts** import schedule.
 
-    4.  In the Configure import schedule dialog box, select the **Active** [[check-box|check box]], and then fill in the run schedule and time details.
+    4.  In the Configure import schedule dialog box, select the **Active** check box, and then fill in the run schedule and time details.
 
         For more information, see [Schedule a data import](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/t_ScheduleADataImport.md#table_r53_5hm_xp).
 
@@ -101,7 +101,7 @@ The playbook experience for onboarding connectors is activated with SGC Central 
 
     3.  Select **New Relic system properties**.
 
-    4.  On the System [[properties-form-survey-designer|Properties form]], select the **sn\_newrelic\_integ.alerts\_for\_unmatched\_ci.enabled** system property.
+    4.  On the System Properties form, select the **sn\_newrelic\_integ.alerts\_for\_unmatched\_ci.enabled** system property.
 
     5.  Set the **Value** of the system property to `true`.
 
@@ -117,13 +117,3 @@ Select **View all connections** to review the connection details. The configured
 
 [Service Graph Connector for Observability - New Relic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-integration-new-relic.md)
 
-## Related
-
-- [[sgcc-configuring|Configuring SGC Central]]
-- [[sgcc-first-time-setup|Perform initial setup tasks when creating a connection in SGC Central]]
-- [[sgcc-landing|SGC Central]]
-- [[sgc-cmdb-integration-new-relic|Service Graph Connector for Observability - New Relic]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[sg-workspace|Service Graph Workspace]]
-- [[check-box|Check box]]
-- [[properties-form-survey-designer|Properties form]]

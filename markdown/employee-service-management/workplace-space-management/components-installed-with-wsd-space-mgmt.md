@@ -14,7 +14,7 @@ breadcrumb: [Reference, Workplace Space Management, Workplace Service Delivery, 
 
 # Components installed with Workplace Space Management
 
-Several types of components are installed with the [[workplace-space-mgmt-ovw|Workplace Space Management]] application, including tables and user roles.
+Several types of components are installed with the Workplace Space Management application, including tables and user roles.
 
 Demo data is available for this feature.
 
@@ -62,7 +62,7 @@ sn\_wsd\_spcmgmt.space\_planner
 
 </td><td>
 
-As a workplace space planner, you can [[create-multi-building-scenario|create a scenario]] and deploy it
+As a workplace space planner, you can create a scenario and deploy it
 
 </td><td>
 
@@ -132,7 +132,7 @@ As a Project Owner, you can create and manage Schedule Plans.
 </td></tr></tbody>
 </table>## Tables installed with Workplace Space Management
 
-**Note:** Neighborhood is moved from Workplace Space Management \[version\] to [[workplace-safety-mgmt-hr|Workplace Core]] \[version\]. For more information, see [Components installed with Workplace Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/components-installed-with-workplace-service-delivery.md).
+**Note:** Neighborhood is moved from Workplace Space Management \[version\] to Workplace Core \[version\]. For more information, see [Components installed with Workplace Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/components-installed-with-workplace-service-delivery.md).
 
 <table id="table_t5k_1kj_qpb"><thead><tr><th>
 
@@ -188,7 +188,7 @@ View by Configuration\[sn\_wsd\_spcmgmt\_view\_by\_configuration\]
 
 </td><td>
 
-Stores information about the view by configurations created for [[scenario-planning|Scenario Planning]] or Building Overview.
+Stores information about the view by configurations created for Scenario Planning or Building Overview.
 
 </td></tr><tr><td>
 
@@ -242,9 +242,3 @@ Stores information about changes made to types of allocation, which can be revie
 
 [KPI Configuration form]()
 
-## Related
-
-- [[workplace-space-mgmt-ovw|Workplace Space Management]]
-- [[create-multi-building-scenario|Create a scenario]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[scenario-planning|Scenario Planning]]

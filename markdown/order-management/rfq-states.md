@@ -17,13 +17,9 @@ An RFQ can move through different states during its life cycle after being submi
 |State \(Business Portal\)|Status \(Workspace\)|Description|
 |-------------------------|--------------------|-----------|
 |Submitted|New|Customer has submitted an RFQ through the Business Portal.|
-|Submitted|In review|Agent has provided values for the **Assignment group** and **Assigned to** [[fields|fields]] for the RFQ in the CSM Configurable Workspace.|
+|Submitted|In review|Agent has provided values for the **Assignment group** and **Assigned to** fields for the RFQ in the CSM Configurable Workspace.|
 |Completed|Completed|Agent has converted the RFQ to a quote in the CSM Configurable Workspace and has changed the status of the RFQ record to Pending Customer Acceptance.|
 |Canceled|Canceled|Agent has manually changed the status of the RFQ to Canceled.|
 
-**Parent Topic:**[[som-business-portal-reference|Business Portal reference for Sales Customer Relationship Management]]
+**Parent Topic:**[Business Portal reference for Sales Customer Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-business-portal-reference.md)
 
-## Related
-
-- [[som-business-portal-reference|Business Portal reference for Sales Customer Relationship Management]]
-- [[fields|Fields]]

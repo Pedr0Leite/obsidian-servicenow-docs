@@ -23,11 +23,11 @@ Create and add a new test to an existing test case.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Test Management** &gt; **Test Repository** &gt; **[[c_TestCases|Test Cases]]**.
+1.  Navigate to **All** &gt; **Test Management** &gt; **Test Repository** &gt; **Test Cases**.
 
 2.  Open test case which you want to add the test to.
 
-3.  From the [[c_Tests|Tests]] related list, click **New**.
+3.  From the Tests related list, click **New**.
 
 4.  On the form, fill in the fields.
 
@@ -100,7 +100,3 @@ You can create a copy of this test by using the **Create Duplicate** related lin
 
 **Parent Topic:**[Test cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/c_TestCases.md)
 
-## Related
-
-- [[c_TestCases|Test cases]]
-- [[c_Tests|Tests]]

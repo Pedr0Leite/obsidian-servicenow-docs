@@ -21,12 +21,9 @@ The property value **com.snc.pdfsigning.validation.method** is used for identify
 |Value|Action|
 |-----|------|
 |common\_name|Uses the Common Name \(CN\) field in the Subject of the certificate to check if a certificate exists in the sys\_user\_certificate table that is associated with a user.​|
-|email|Uses the [[email|email]] IDs in the certificate to locate a user in ServiceNow with a matching email ID.|
+|email|Uses the email IDs in the certificate to locate a user in ServiceNow with a matching email ID.|
 |any \(default value\)|Utilizes both of the above validation methods to resolve a user.|
 |ignore|No user validation is performed on the signing fields.|
 
 **Parent Topic:**[Set up a document template for signing documents using a CAC or PIV smart card](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/create-document-template.md)
 
-## Related
-
-- [[email|Email]]

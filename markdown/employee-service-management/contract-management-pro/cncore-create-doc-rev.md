@@ -40,7 +40,7 @@ Steps
 
 </th></tr></thead><tbody><tr><td>
 
-[[cncore-contract-workspace|Contract Workspace]]
+Contract Workspace
 
 </td><td>
 
@@ -82,7 +82,7 @@ Workspace used by your application
 
             Select this option to upload a file from your system. The **Attachment** field appears upon selecting this option. Select **Attach File** and upload the updated contract from your system.
 
-        -   **[[activity-lxp|Activity]] stream**
+        -   **Activity stream**
 
             Select this option to select a document from the activity stream. The **Document** field appears upon selecting this option. Select the document in the activity stream.
 
@@ -101,7 +101,3 @@ Workspace used by your application
 
 **Parent Topic:**[Using Contract Management Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-use-cmpro.md)
 
-## Related
-
-- [[cncore-contract-workspace|Contract Workspace]]
-- [[activity-lxp|Activity]]

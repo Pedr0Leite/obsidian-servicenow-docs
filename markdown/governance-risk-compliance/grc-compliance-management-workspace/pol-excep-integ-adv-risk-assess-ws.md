@@ -14,7 +14,7 @@ breadcrumb: [Manage policy exceptions and extensions using the Compliance Worksp
 
 # Assess risks of policy exception using advanced risk assessments
 
-Take the [[advanced-risk-assessment|advanced risk assessment]] to evaluate the risk involved with the policy exception.
+Take the advanced risk assessment to evaluate the risk involved with the policy exception.
 
 ## Before you begin
 
@@ -60,6 +60,4 @@ After the policy exception is submitted, as a compliance manager you can do the 
 
     The score calculated based on the risk assessment responses that you provided is mapped with the value in the **Risk rating** field.
 
-## Related
 
-- [[advanced-risk-assessment|advanced risk assessment]]

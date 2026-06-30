@@ -21,7 +21,7 @@ The CRI framework profile aligns with NIST CSF v2.0. The CRI profile and assessm
 As part of the Cyber Risk Institute's \(CRI\) Accelerator, you can:
 
 -   Import a CRI profile containing relevant authority documents, citations, and control objectives based on NIST CSF.
--   Streamline the compliance process with automated tiering and selection of CRI assessments, conducted using the [[smart-asmnt-engine-landing-page|smart assessment engine]].
+-   Streamline the compliance process with automated tiering and selection of CRI assessments, conducted using the smart assessment engine.
 -   Create controls automatically based on tier and generate a compliance score from the CRI assessment responses, which roll up to the entity level.
 
 For more information, see:
@@ -31,6 +31,3 @@ For more information, see:
 
 **Parent Topic:**[Governance, Risk, and Compliance use case accelerators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/grc-use-case-accelerators.md)
 
-## Related
-
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]

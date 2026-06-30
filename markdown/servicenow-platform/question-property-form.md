@@ -36,7 +36,7 @@ Question
 
 </td><td>
 
-Text to display as the question on [[c_Quizzes|quizzes]]. Enter a clear, straightforward question that is easy to understand.
+Text to display as the question on quizzes. Enter a clear, straightforward question that is easy to understand.
 
 </td></tr><tr><td>
 
@@ -44,7 +44,7 @@ Type
 
 </td><td>
 
-\[Read-only\] Data type selected for this question. See the table in [[c_QuizDesigner|Controls]] for possible data types.
+\[Read-only\] Data type selected for this question. See the table in [Controls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_QuizDesigner.md) for possible data types.
 
 </td></tr><tr><td>
 
@@ -52,7 +52,7 @@ Active
 
 </td><td>
 
-[[check-box|Check box]] that determines whether this question is available on a quiz. If a question is marked inactive, it does not appear on quizzes generated after the question becomes inactive.
+Check box that determines whether this question is available on a quiz. If a question is marked inactive, it does not appear on quizzes generated after the question becomes inactive.
 
 </td></tr><tr><td>
 
@@ -60,7 +60,7 @@ Boolean option
 
 </td><td>
 
-Whether a check box or a **[[yes-no|Yes/No]]** list appears as the option for the Boolean question.
+Whether a check box or a **Yes/No** list appears as the option for the Boolean question.
 
 </td></tr><tr><td>
 
@@ -78,7 +78,7 @@ String option
 
 Setting for the appearance of a string field in a question. This field is available when the question type is **String**. The string options are: -   **Single line**: Single line text field 40 characters in length that allows strings of any length.
 -   **String line wide**: Full page width text field that allows a single line entry of any length.
--   **Multiline**: Full page width [[multi-line|multi-line text]] field that allows word wrap and returns.
+-   **Multiline**: Full page width multi-line text field that allows word wrap and returns.
 
 </td></tr><tr><td>
 
@@ -86,7 +86,7 @@ Min
 
 </td><td>
 
-Lowest positive whole number that users can enter or select to answer the question. This field is available when the question type is **Number**, **Percentage**, or **[[numeric-scale|Numeric Scale]]**.
+Lowest positive whole number that users can enter or select to answer the question. This field is available when the question type is **Number**, **Percentage**, or **Numeric Scale**.
 
 </td></tr><tr><td>
 
@@ -118,7 +118,7 @@ Details
 
 </td><td>
 
-Information about the question that is displayed on the quiz. Include details that help users understand how to answer the question. You can also enter [[html|HTML]] text in this field with the WYSIWYG editor. For example, include HTML to embed links and images.
+Information about the question that is displayed on the quiz. Include details that help users understand how to answer the question. You can also enter HTML text in this field with the WYSIWYG editor. For example, include HTML to embed links and images.
 
 </td></tr><tr><td>
 
@@ -149,21 +149,10 @@ Displayed when
 Condition builder that hides or displays the question depending on the answer to another question in the same category. Select an existing question from the list with a data type of **Boolean**, **Choice**, **Scale**, or **Template**. Create the condition that must exist for recipients to see the dependent question, using the **is** or **is one of** operator. The system prevents recursive dependencies between questions. For example, if Question A depends on Question B, Question B cannot depend on Question A.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[quizzes-reference|Quizzes reference]]
+</table>**Parent Topic:**[Quizzes reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/quizzes-reference.md)
 
 **Related topics**  
 
 
-[[t_CreateAQuizQuestion|Create quiz questions]]
+[Create quiz questions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateAQuizQuestion.md)
 
-## Related
-
-- [[c_QuizDesigner|Quiz designer]]
-- [[quizzes-reference|Quizzes reference]]
-- [[t_CreateAQuizQuestion|Create quiz questions]]
-- [[c_Quizzes|Quizzes]]
-- [[check-box|Check box]]
-- [[yes-no|Yes/No]]
-- [[multi-line|Multi-line text]]
-- [[numeric-scale|Numeric scale]]
-- [[html|HTML]]

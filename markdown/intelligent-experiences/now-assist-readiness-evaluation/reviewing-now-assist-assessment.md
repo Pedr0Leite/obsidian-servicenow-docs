@@ -15,9 +15,9 @@ breadcrumb: [Use, Now Assist Readiness Evaluation, Enable AI experiences]
 
 # Reviewing your Now Assist assessment
 
-This automated assessment process evaluates potential implementation impacts and provides actionable insights for [[platform-now-assist-landing|Now Assist]] products.
+This automated assessment process evaluates potential implementation impacts and provides actionable insights for Now Assist products.
 
-Navigate to **Workspaces** &gt; **[[now-assist-readiness-evaluation-landing-page|Now Assist Readiness Evaluation]]** and select the assessment icon \[Omitted image "na-assessment-icon.png"\] Alt text: to review your Now Assist assessment.
+Navigate to **Workspaces** &gt; **Now Assist Readiness Evaluation** and select the assessment icon \[Omitted image "na-assessment-icon.png"\] Alt text: to review your Now Assist assessment.
 
 **Note:** Before viewing your Now Assist assessments, you must first have run the scheduled jobs to get the assessment results. If you haven't run your scheduled jobs, you are prompted to do so on an individual job level. For more information on running scheduled jobs, see [Run the GenAI/AgenticAI Assessment scheduled job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-readiness-evaluation/run-genai-agenticai-assessment-scheduled-job.md) and [Configure the Now Assist Readiness Evaluation guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-readiness-evaluation/configure-nare-guided-setup.md).
 
@@ -29,7 +29,7 @@ To understand the estimated remediation effort, select the **Legends** button. T
 
 After reviewing the summary, select the individual assessment links to be redirected to that specific assessment in a new browser tab. The questions for each Now Assist assessment differs. For example, the questions and answers on the Now Assist for AI Search assessment are different than the questions and answers on the Now Assist for Virtual Agent assessment.
 
-**Note:** The assessments gather information from tables. To view any of the tables' available questions, answers, assessments, or assessment run successes or failures, search for the applicable table in the [[now-assist-global-navigation|navigation]] filter:
+**Note:** The assessments gather information from tables. To view any of the tables' available questions, answers, assessments, or assessment run successes or failures, search for the applicable table in the navigation filter:
 
 -   Questions \[sn\_assess\_question\] table
 -   Answers \[sn\_assess\_answer\] table
@@ -52,8 +52,3 @@ You can select **Download Report** to export the entire Now Assist assessment re
 
 After reviewing the assessment and making the suggested assessment changes, rerun your scheduled jobs to see how your results improve. For more information on rerunning a specific job or all jobs, see [Run the GenAI/AgenticAI Assessment scheduled job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-readiness-evaluation/run-genai-agenticai-assessment-scheduled-job.md).
 
-## Related
-
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-readiness-evaluation-landing-page|Now Assist Readiness Evaluation]]
-- [[now-assist-global-navigation|Navigation]]

@@ -15,7 +15,7 @@ breadcrumb: [Reference, Proactive Service Experience Workflows, Product Support 
 
 # Glossary Proactive Service Experience Workflows
 
-Learn about the terms and concepts that are unique to [[psew-landing-page|Proactive Service Experience Workflows]].
+Learn about the terms and concepts that are unique to Proactive Service Experience Workflows.
 
 ## A
 
@@ -141,6 +141,3 @@ Glossary terms are grouped alphabetically.
 
 A tool used to create and modify workflows, including subflows for different assignment groups and levels of escalation.
 
-## Related
-
-- [[psew-landing-page|Proactive Service Experience Workflows]]

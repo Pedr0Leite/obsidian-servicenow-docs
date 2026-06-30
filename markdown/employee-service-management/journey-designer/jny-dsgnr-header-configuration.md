@@ -18,7 +18,7 @@ Manage journey headers or customize journey headers for different journey types 
 
 ## Before you begin
 
--   The **Application scope** must be set to [[jny-dsgnr-landing-page-1|Journey designer]].
+-   The **Application scope** must be set to Journey designer.
 -   Role required: sn\_jny.admin
 
 ## About this task
@@ -69,6 +69,3 @@ There are default heading configurations for these personas:
 
 [Journey designer header configuration fields reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-header-config-fields-ref.md)
 
-## Related
-
-- [[jny-dsgnr-landing-page-1|Journey designer]]

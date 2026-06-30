@@ -12,19 +12,19 @@ breadcrumb: [Use, Purchase Order Management, Source-to-Pay Operations, Finance a
 
 # Create purchase order exception from Universal Request
 
-Operational buyers can convert universal requests into [[purchase-order-table|purchase order]] exceptions during triage, cutting down on manual effort and ensuring that purchase order related issues are tracked and resolved more efficiently.
+Operational buyers can convert universal requests into purchase order exceptions during triage, cutting down on manual effort and ensuring that purchase order related issues are tracked and resolved more efficiently.
 
 ## Before you begin
 
 Role required: Operational buyer
 
--   You must have the following plugin installed: [[universal-request|Universal Request]] for [[source-to-pay-operations-overview|Source-to-Pay Operations]] Plugin \[sn\_fsc\_ur\_common\].
+-   You must have the following plugin installed: Universal Request for Source-to-Pay Operations Plugin \[sn\_fsc\_ur\_common\].
 -   You must enable the Universal Request functionality.
--   You must maintain users in the [[purchase-order-mgmt-landing-page|Purchase Order Management]] Universal Request Group associated with the universal request service set.
+-   You must maintain users in the Purchase Order Management Universal Request Group associated with the universal request service set.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[purch-order-mgmt-ws|Source-to-Pay workspace]]**.
+1.  Navigate to **All** &gt; **Source-to-Pay workspace**.
 
 2.  Select the list icon.
 
@@ -32,13 +32,13 @@ Role required: Operational buyer
 
 4.  Select a Universal Request.
 
-5.  Select **Create [[purchase-order-exception-table|purchase order exception]]**.
+5.  Select **Create purchase order exception**.
 
 6.  In the Create New Purchase Order Exception form, fill in the details.
 
-    For a description of the field values, see [[create-new-poe-form|Create new purchase order exception form]].
+    For a description of the field values, see [Create new purchase order exception form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/create-new-poe-form.md).
 
-    The universal request number from which the purchase order exception is created appears in the **Universal Request** field on the [[purch-order-exception-form|purchase order exception form]].
+    The universal request number from which the purchase order exception is created appears in the **Universal Request** field on the purchase order exception form.
 
 7.  Select **Save**.
 
@@ -47,7 +47,7 @@ Role required: Operational buyer
 
 A purchase order exception record is created, which links to the original universal request.
 
-**Parent Topic:**[[use-purch-order-mgmt|Use Purchase Order Management]]
+**Parent Topic:**[Use Purchase Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/use-purch-order-mgmt.md)
 
 **Related topics**  
 
@@ -56,14 +56,3 @@ A purchase order exception record is created, which links to the original univer
 
 [Resolving purchase order exceptions]()
 
-## Related
-
-- [[create-new-poe-form|Create new purchase order exception form]]
-- [[use-purch-order-mgmt|Use Purchase Order Management]]
-- [[purchase-order-table|Purchase order]]
-- [[universal-request|Universal Request]]
-- [[source-to-pay-operations-overview|Source-to-Pay Operations]]
-- [[purchase-order-mgmt-landing-page|Purchase Order Management]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[purchase-order-exception-table|Purchase Order Exception]]
-- [[purch-order-exception-form|Purchase order exception form]]

@@ -22,7 +22,7 @@ Role required: safe\_scrum\_user or safe\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[SAFeoverview|Scaled Agile Framework \(SAFe\)]]** &gt; **SAFe Board**.
+1.  Navigate to **All** &gt; **Scaled Agile Framework \(SAFe\)** &gt; **SAFe Board**.
 
 2.  From the list at the top left corner, select the level as **Team**.
 
@@ -30,7 +30,7 @@ Role required: safe\_scrum\_user or safe\_admin
 
 4.  Click the **Sprint Tracking** tab, and select the **List** view.
 
-5.  From the list, select **[[c_Tests|Tests]]**.
+5.  From the list, select **Tests**.
 
 6.  Verify a story by clicking the **Run** button.
 
@@ -89,7 +89,3 @@ The overall status of the test is defined by statuses of the test steps:
 -   If at least one step of the test fails, the status of the test is **Failed**. This rule takes precedence over the previous rule.
 -   If at least one step of the test is blocked, the status of the test is **Blocked**. This rule takes precedence over the previous two rules.
 
-## Related
-
-- [[SAFeoverview|Scaled Agile Framework \(SAFe\)]]
-- [[c_Tests|Tests]]

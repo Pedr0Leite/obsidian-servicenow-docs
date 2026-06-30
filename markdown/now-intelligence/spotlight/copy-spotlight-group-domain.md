@@ -24,7 +24,7 @@ Role required: admin, pa\_spotlight\_copy\_domain
 
 ## About this task
 
-When you first [[create-spotlight-group|create a Spotlight group]], it is created in the domain that you are logged in to. To create identical Spotlight groups in other domains, use the copying function. The copying function follows the ServiceNow AI Platform® domain separation.
+When you first create a Spotlight group, it is created in the domain that you are logged in to. To create identical Spotlight groups in other domains, use the copying function. The copying function follows the ServiceNow AI Platform® domain separation.
 
 ## Procedure
 
@@ -123,6 +123,3 @@ If any error messages or warnings appeared during the copying process, read the 
 
 **Parent Topic:**[Ranking records with Spotlight](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/spotlight/spotlight.md)
 
-## Related
-
-- [[create-spotlight-group|Create a Spotlight group]]

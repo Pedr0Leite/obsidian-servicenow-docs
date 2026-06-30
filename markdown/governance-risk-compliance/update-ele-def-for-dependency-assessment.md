@@ -12,7 +12,7 @@ breadcrumb: [Setup by system administrators, Configure, Business Continuity Mana
 
 # Update the number of element definitions
 
-Update the number of the element definitions that are displayed on the **Dependency Assessment** tab in the [[business-continuity-mangmt-overview|Business Continuity Management]] \(BCM\) Workspace. You can configure the **dependencyAssessmentElementsLimit** system property to control the number of the element definitions that are used for the dependency assessment in a [[bia-uib|business impact analysis]].
+Update the number of the element definitions that are displayed on the **Dependency Assessment** tab in the Business Continuity Management \(BCM\) Workspace. You can configure the **dependencyAssessmentElementsLimit** system property to control the number of the element definitions that are used for the dependency assessment in a business impact analysis.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **sys\_declarative\_action\_assignment.list** in the BCM application instance.
 
-    A [[list-view-uib-ws|list view]] of the Action Assignments table is displayed as shown in the example.
+    A list view of the Action Assignments table is displayed as shown in the example.
 
     \[Omitted image "prop-update-action-assignments-table.png"\] Alt text: Action assignments table.
 
@@ -61,11 +61,5 @@ Role required: admin
     The updated number of the element definitions are displayed on the **Dependency Assessment** tab.
 
 
-**Parent Topic:**[[set-up-bcm-sys-admin-tasks|Setup by system administrators]]
+**Parent Topic:**[Setup by system administrators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/set-up-bcm-sys-admin-tasks.md)
 
-## Related
-
-- [[set-up-bcm-sys-admin-tasks|Setup by system administrators]]
-- [[business-continuity-mangmt-overview|Business Continuity Management]]
-- [[bia-uib|Business impact analysis]]
-- [[list-view-uib-ws|List view]]

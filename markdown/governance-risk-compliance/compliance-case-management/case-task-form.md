@@ -14,7 +14,7 @@ breadcrumb: [Create action task, Compliance case task workflow, Use, Compliance 
 
 # Case task form
 
-Use the Case Task form in the GRC: [[compliance-case-management|Compliance Case Management]] application to [[create-a-case-task|create a case task]] for a reported compliance case.
+Use the Case Task form in the GRC: Compliance Case Management application to create a case task for a reported compliance case.
 
 See the following table for a description of the field values.
 
@@ -77,7 +77,7 @@ Assessment template
 
 </td><td>
 
-Assessment template available to assess the case recorded. This field appears only when **Assessment** is selected from **Type**. **Note:** Each case type can be mapped to specific [[airc-assessment-templates|assessment templates]] during the configuration. Only the templates that are mapped to the case are available for selection. For example, if the case type is **Financial fraud**, then the assessment templates that are specific to the financial fraud type are available for selection. You can’t select the same assessment template if an open assessment with the selected assessment template is already being worked on.
+Assessment template available to assess the case recorded. This field appears only when **Assessment** is selected from **Type**. **Note:** Each case type can be mapped to specific assessment templates during the configuration. Only the templates that are mapped to the case are available for selection. For example, if the case type is **Financial fraud**, then the assessment templates that are specific to the financial fraud type are available for selection. You can’t select the same assessment template if an open assessment with the selected assessment template is already being worked on.
 
 </td></tr><tr><td>
 
@@ -178,8 +178,3 @@ Additional information about the case task.
 </td></tr></tbody>
 </table>**Parent Topic:**[Create an action task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/create-a-case-task.md)
 
-## Related
-
-- [[compliance-case-management|compliance case management]]
-- [[create-a-case-task|create a case task]]
-- [[airc-assessment-templates|Assessment templates]]

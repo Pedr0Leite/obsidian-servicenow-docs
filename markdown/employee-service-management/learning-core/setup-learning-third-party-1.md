@@ -14,13 +14,13 @@ breadcrumb: [Configuring Learning Core, Learning Core, HR Service Delivery, Empl
 
 # Integrating Learning Core with third-party learning management systems
 
-Connect your ServiceNow instance with third-party [[exploring-learning-exp|learning]] systems to pull learning content into a single repository.
+Connect your ServiceNow instance with third-party learning systems to pull learning content into a single repository.
 
 ## Before you begin
 
 Role required: learning\_admin
 
-Activating the [[learning-core_overview|Learning Core]] \(sn\_lc\) plugin automatically enables the following plugins:
+Activating the Learning Core \(sn\_lc\) plugin automatically enables the following plugins:
 
 -   [Enterprise Service Management Integrations Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-integrations-framework.md)
 
@@ -107,7 +107,7 @@ Integrate your SuccessFactors Learning application with your ServiceNow instance
 
     For more information, see [Configure a learning system](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-source-ln.md).
 
-    **Note:** Once you set up the Learning Core application, the source record for Cornerstone OnDemand, Pluralsight, and Udemy applications are automatically created in the Source module in [[hr-integrations-framework|Enterprise Service Management Integrations Framework]]. These source records contain a predefined set of properties and integration services. For more information, see [Sources for Learning Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/source-lnpst.md).
+    **Note:** Once you set up the Learning Core application, the source record for Cornerstone OnDemand, Pluralsight, and Udemy applications are automatically created in the Source module in Enterprise Service Management Integrations Framework. These source records contain a predefined set of properties and integration services. For more information, see [Sources for Learning Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/source-lnpst.md).
 
 4.  Refresh the entire third-party content or synchronize new and updated service content into your ServiceNow instance.
 
@@ -137,7 +137,7 @@ Udemy
 </td><td>
 
 -   Courses
--   User [[activity-lxp|activity]]
+-   User activity
 
 
 </td></tr><tr><td>
@@ -228,9 +228,3 @@ Activate the flows that run on a schedule basis to pull learning course items fr
 
 [Administration tasks in Learning Core]()
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[learning-core_overview|Learning Core]]
-- [[hr-integrations-framework|Enterprise Service Management Integrations Framework]]
-- [[activity-lxp|Activity]]

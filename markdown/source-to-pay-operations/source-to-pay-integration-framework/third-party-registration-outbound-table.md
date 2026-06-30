@@ -42,11 +42,11 @@ Boolean
 
 </td><td>
 
-[[supplier|Supplier]] allows orders to be split for multi-location shipping.
+Supplier allows orders to be split for multi-location shipping.
 
 </td></tr><tr><td>
 
-Allow [[purchase-order-table|purchase order]] revision
+Allow purchase order revision
 
 </td><td>
 
@@ -102,7 +102,7 @@ Boolean
 
 </td><td>
 
-Supplier is allowed to import [[invoices|invoices]].
+Supplier is allowed to import invoices.
 
 </td></tr><tr><td>
 
@@ -217,9 +217,3 @@ Name of the supplier in the ServiceNow records.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[supplier|Supplier]]
-- [[purchase-order-table|Purchase order]]
-- [[invoices|Invoices]]

@@ -15,7 +15,7 @@ breadcrumb: [Test a Knowledge Graph schema, Using Knowledge Graph Designer, Know
 
 # Analyze Knowledge Graph logs for debugging
 
-Review [[knowledge-graph-landing|Knowledge Graph]] logs and history to analyze performance and diagnose issues.
+Review Knowledge Graph logs and history to analyze performance and diagnose issues.
 
 ## Before you begin
 
@@ -43,6 +43,4 @@ Role required: admin
 
     The logs will now be added to **syslog**.
 
-## Related
 
-- [[knowledge-graph-landing|Knowledge Graph]]

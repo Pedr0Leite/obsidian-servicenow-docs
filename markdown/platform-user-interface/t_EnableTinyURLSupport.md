@@ -35,8 +35,5 @@ The Tiny URL Support plugin is activated and enabled automatically. Confirm that
 4.  Select **Save**.
 
 
-**Parent Topic:**[[navigate-using-url|Navigate to a record or module using a URL]]
+**Parent Topic:**[Navigate to a record or module using a URL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/navigate-using-url.md)
 
-## Related
-
-- [[navigate-using-url|Navigate to a record or module using a URL]]

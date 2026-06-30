@@ -12,14 +12,14 @@ breadcrumb: [Configure rules to manage findings, Implement, Unified Security Exp
 
 # Configuring lookup rules
 
-By configuring lookup rules, you can map security exposure data to the correct configuration items \(CIs\) in the CMDB. This [[mapping-logrhythm|mapping]] is a critical function because associating exposure findings with the right assets is essential for proper risk assessment, assignment, and remediation workflows.
+By configuring lookup rules, you can map security exposure data to the correct configuration items \(CIs\) in the CMDB. This mapping is a critical function because associating exposure findings with the right assets is essential for proper risk assessment, assignment, and remediation workflows.
 
-**Parent Topic:**[[sem-configure-rules-manage-findings|Configure rules to manage findings]]
+**Parent Topic:**[Configure rules to manage findings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-configure-rules-manage-findings.md)
 
 **Related topics**  
 
 
-[[sem-associate-finding-configuration-item-using-lookup-rules|Associating finding with a configuration item using lookup rules]]
+[Associating finding with a configuration item using lookup rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-associate-finding-configuration-item-using-lookup-rules.md)
 
 ## Create lookup rule
 
@@ -31,13 +31,13 @@ Role required: sn\_vul.vulnerability\_admin
 
 ### About this task
 
-Creating lookup rules requires advanced ServiceNow and [[unified-security-exposure-management-landing-page|Unified Security Exposure Management \(USEM\)]] expertise. Rather than modifying one of the existing lookup rules, consider copying it and modifying the copy. When you are satisfied that the new rule does what you want, deactivate the original.
+Creating lookup rules requires advanced ServiceNow and Unified Security Exposure Management \(USEM\) expertise. Rather than modifying one of the existing lookup rules, consider copying it and modifying the copy. When you are satisfied that the new rule does what you want, deactivate the original.
 
 **Note:** Rules, once removed, cannot be recovered. Rather than removing existing rules, deactivate them when creating new ones.
 
 ### Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sem-workspace-user-interface|Security Exposure Management Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Security Exposure Management Workspace**.
 
 2.  Select **Administration** \[gear icon\] in the navigation pane.
 
@@ -145,7 +145,7 @@ Applies to
 
 This field has no value by default.
 
- For third-party and ServiceNow® integrations that support both [[avr-landing|Application Vulnerability Response]] \(AVR\) and [[vuln-landing-page|Vulnerability Response]] \(VR\) like the Vulnerability Response Integration with Wiz, for example, select one as it applies to each rule:
+ For third-party and ServiceNow® integrations that support both Application Vulnerability Response \(AVR\) and Vulnerability Response \(VR\) like the Vulnerability Response Integration with Wiz, for example, select one as it applies to each rule:
 
 -   **Discovered Item** - for Vulnerability Response lookup rules.
 -   **Discovered Application** - for Application Vulnerability Response lookup rules.
@@ -163,7 +163,7 @@ Condition
 
 </td><td>
 
-Condition based on which the lookup rule is applied. This condition depends on the attribute from the third-party scanner.**Note:** The asset attribute is a part of the payload. It is received from the third-party scanner. See the [[cj-discovered-items|Discovered Items]] table for payload examples.
+Condition based on which the lookup rule is applied. This condition depends on the attribute from the third-party scanner.**Note:** The asset attribute is a part of the payload. It is received from the third-party scanner. See the Discovered Items table for payload examples.
 
 </td></tr><tr><td colspan="2">
 
@@ -252,7 +252,7 @@ Role required: admin
 
 The **ignoreCIClass** system property is available starting with Vulnerability Response v9.0. However, the property functionality is not available upon upgrade from any previous version.
 
-If you have upgraded from any [[security-operations-landing-page|Security Operations]] application, prior to version 9.0, see [KB0788209](https://support.servicenow.com/kb_view.do?sysparm_article=KB0788209) for instructions on how to enable this functionality.
+If you have upgraded from any Security Operations application, prior to version 9.0, see [KB0788209](https://support.servicenow.com/kb_view.do?sysparm_article=KB0788209) for instructions on how to enable this functionality.
 
 ### Procedure
 
@@ -271,7 +271,7 @@ If you have upgraded from any [[security-operations-landing-page|Security Operat
 
 ## Reapply lookup rules
 
-Reapply lookup rules to ensure updated or existing rules are applied to relevant items. This helps maintain accurate [[cc-prisma-import-data|data mapping]] and consistency after rule changes or additions.
+Reapply lookup rules to ensure updated or existing rules are applied to relevant items. This helps maintain accurate data mapping and consistency after rule changes or additions.
 
 ### Before you begin
 
@@ -367,15 +367,3 @@ For more information on the concepts of CI matching and the CMDB, discovered ite
     -   Total Items to be Processed: The total number of items remaining to be processed.
     -   Time Until Completion\(ms\): The time remaining until the background job is processed. These columns provide visibility into job progress. These columns are available for each form view for you to add according to requirement.
 
-## Related
-
-- [[sem-configure-rules-manage-findings|Configure rules to manage findings]]
-- [[sem-associate-finding-configuration-item-using-lookup-rules|Associating finding with a configuration item using lookup rules]]
-- [[mapping-logrhythm|Mapping]]
-- [[unified-security-exposure-management-landing-page|Unified Security Exposure Management \(USEM\)]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]
-- [[avr-landing|Application Vulnerability Response]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[cj-discovered-items|Discovered Items]]
-- [[security-operations-landing-page|Security Operations]]
-- [[cc-prisma-import-data|Data mapping]]

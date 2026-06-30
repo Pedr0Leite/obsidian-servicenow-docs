@@ -37,8 +37,5 @@ By default, the mobile app returns 50 results at a time in a search list. Increa
     |Value|&lt;pagination-size&gt;|
 
 
-**Parent Topic:**[[additional-mobile-configuration|Mobile system property configurations]]
+**Parent Topic:**[Mobile system property configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/additional-mobile-configuration.md)
 
-## Related
-
-- [[additional-mobile-configuration|Mobile system property configurations]]

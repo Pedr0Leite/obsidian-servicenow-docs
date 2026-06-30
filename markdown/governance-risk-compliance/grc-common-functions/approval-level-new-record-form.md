@@ -14,7 +14,7 @@ breadcrumb: [Assign an approval level, Use Approver Configurator for setting up 
 
 # Approval Level New Record form
 
-Use the Approval Level New Record form to create an [[bcm-approval-configuration|approval configuration]] on a policy record.
+Use the Approval Level New Record form to create an approval configuration on a policy record.
 
 ## Approval Level New Record
 
@@ -25,6 +25,3 @@ Use the Approval Level New Record form to create an [[bcm-approval-configuration
 
 **Parent Topic:**[Assign an approval level for the approval configuration record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/set-up-approval-levels.md)
 
-## Related
-
-- [[bcm-approval-configuration|Approval configuration]]

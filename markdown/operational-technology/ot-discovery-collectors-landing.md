@@ -22,27 +22,22 @@ Use the links to explore, configure, and use the OT Discovery Collector.
 
 Explore\[Omitted image "BUS\_64px\_Explore\_YG.png"\] Alt text:
 
- [[exploring-ot-collectors|Explore the OT Discovery Collector]]
+ [Explore the OT Discovery Collector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/exploring-ot-collectors.md)
 
 </td><td>
 
 Configure\[Omitted image "BUS\_64px\_SDLC\_YG.png"\] Alt text:
 
- [[configuring-the-collector|Configure the OT Discovery Collector]]
+ [Configure the OT Discovery Collector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/configuring-the-collector.md)
 
 </td></tr><tr><td colspan="2">
 
 Use\[Omitted image "IND\_64px\_Factory-Worker\_YG.png"\] Alt text:
 
- [[use-ot-discovery-collector|Use the OT Discovery Collector]]
+ [Use the OT Discovery Collector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/use-ot-discovery-collector.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
 
 If you have any errors or difficulties while using the OT Discovery Collector, [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[exploring-ot-collectors|Explore the OT Discovery Collector]]
-- [[configuring-the-collector|Configure the OT Discovery Collector]]
-- [[use-ot-discovery-collector|Use the OT Discovery Collector]]

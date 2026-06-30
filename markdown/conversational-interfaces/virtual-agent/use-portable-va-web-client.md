@@ -16,11 +16,11 @@ breadcrumb: [Configure, Virtual Agent, Conversational Interfaces]
 
 The portable chat widget can run on third-party web pages, in the service portal, or in UI Builder portals.
 
-The portable chat widget is a new Seismic component that makes it easy to add [[virtual-agent-landing-page|Virtual Agent]] chat to your page. It simplifies configuration and provides the following features:
+The portable chat widget is a new Seismic component that makes it easy to add Virtual Agent chat to your page. It simplifies configuration and provides the following features:
 
 -   Easily configurable
 -   Simpler single sign-on \(SSO\) authentication flow
--   Connect to Service Portal [[ci-use-agent-chat|Agent Chat]]
+-   Connect to Service Portal Agent Chat
 -   System parameters and context variables work the same as before
 
     **Note:** Do not use **/$sn-va-web-client-app.do?** or **/sn\_va\_web\_client\_app\_embed.do** as a standalone page configuration. Instead, refer to the information in [Virtual Agent URL parameters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-sysparm.md) for how to embed the Virtual Agent chat widget successfully.
@@ -50,10 +50,10 @@ This procedure requires that you set values for the following two system propert
 
 These properties determine the security policy for the embedded chat widget, namely how browsers render and secure HTML content for Virtual Agent and Live Agent chat, in an iframe, before you embed the web chat client. The HTTP header directives that you specify tell the browser whether a page can be embedded on certain domains to mitigate clickjacking attempts. Setting both properties ensures that there are security directives for major browsers and also older browsers, such as Internet Explorer.
 
-**Note:** If you're using the Content [[management|Management]] System \(CMS\) application to create custom interfaces for the ServiceNow AI Platform and ServiceNow® applications, be aware that it does not support Virtual Agent.
+**Note:** If you're using the Content Management System \(CMS\) application to create custom interfaces for the ServiceNow AI Platform and ServiceNow® applications, be aware that it does not support Virtual Agent.
 
 -   **[Configure the portable Virtual Agent chat widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-portable-va-web-client.md)**  
-[[configure-portable-va-web-client|Configure the portable Virtual Agent chat widget]] to run Virtual Agent on third-party web pages.
+Configure the portable Virtual Agent chat widget to run Virtual Agent on third-party web pages.
 -   **[Add the portable Virtual Agent chat widget to a third-party website](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/add-portable-va-client-website.md)**  
 To use the portable chat widget for Virtual Agent on third-party web pages, add the necessary code to your web page.
 -   **[Embed the Virtual Agent chat widget in an external web page \(legacy method\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-va-standalone-client.md)**  
@@ -68,9 +68,3 @@ Load the Virtual Agent chat widget interface in an external web page by using an
 
 [Add the portable Virtual Agent chat widget to a third-party website](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/add-portable-va-client-website.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[ci-use-agent-chat|Agent Chat]]
-- [[management|Management]]
-- [[configure-portable-va-web-client|Configure the portable Virtual Agent chat widget]]

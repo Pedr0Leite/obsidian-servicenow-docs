@@ -20,7 +20,7 @@ Role required: sn\_model\_risk\_mgmt.model\_risk\_coordinator, sn\_model\_risk\_
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[model-risk-workspace|Model Risk Workspace]]**.
+1.  Navigate to **All** &gt; **Model Risk Workspace**.
 
 2.  Select the list icon \[Omitted image "list-icon-mrm.png"\] Alt text:.
 
@@ -32,7 +32,7 @@ Role required: sn\_model\_risk\_mgmt.model\_risk\_coordinator, sn\_model\_risk\_
 
 6.  On the form, fill in the fields.
 
-    For a description of the field values on the Create an issue form, see [[create-an-issue-form-mrm|Create an issue form]].
+    For a description of the field values on the Create an issue form, see [Create an issue form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-an-issue-form-mrm.md).
 
 7.  Select **Save**.
 
@@ -40,10 +40,5 @@ Role required: sn\_model\_risk\_mgmt.model\_risk\_coordinator, sn\_model\_risk\_
 -   **[Create an issue form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-an-issue-form-mrm.md)**  
 Use the Create an issue form to capture validation findings or performance problems for a model.
 
-**Parent Topic:**[[using-mrm|Using Model Risk Management]]
+**Parent Topic:**[Using Model Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/using-mrm.md)
 
-## Related
-
-- [[create-an-issue-form-mrm|Create an issue form]]
-- [[using-mrm|Using Model Risk Management]]
-- [[model-risk-workspace|Model Risk Workspace]]

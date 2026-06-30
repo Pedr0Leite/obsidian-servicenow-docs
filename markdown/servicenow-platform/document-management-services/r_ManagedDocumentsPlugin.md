@@ -44,14 +44,14 @@ The following tables are added:
 |--------------|-----------|
 |DocumentManagement|Contains the main logics for the Managed Documents plugin.|
 |DocumentManagementDB|Contains methods to perform CRUD operations on the database.|
-|DocumentManagementSecurity|Helps manage the security of the [[c_ManagedDocuments|Managed Documents]] system.|
+|DocumentManagementSecurity|Helps manage the security of the Managed Documents system.|
 |DocumentManagementAjax|Updates the details of the temporary revision that is created when opening the upload/check in revision form.|
-|DocumentAttachmentAjax|Renames an [[attachment|attachment]] file.|
+|DocumentAttachmentAjax|Renames an attachment file.|
 |DocumentRevisionWorkflowHelper|Helps perform basic workflow operations on a revision.|
-|DocumentManagementApprovalMatcher|Helps obtain the user and group approvers for a document that matches [[c_ApprovalRules|approval rules]].|
+|DocumentManagementApprovalMatcher|Helps obtain the user and group approvers for a document that matches approval rules.|
 |DocumentApproverHelper|Contains logics to handle document approvers.|
 |DocumentManagementUtils|Useful methods.|
-|DocumentReferenceQualifiers|Static methods that return [[reference|reference]] qualifiers.|
+|DocumentReferenceQualifiers|Static methods that return reference qualifiers.|
 
 |Rule|Description|
 |----|-----------|
@@ -73,9 +73,3 @@ The Managed Documents plugin is available for activation by users with the admin
 
 **Parent Topic:**[Managed Documents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/c_ManagedDocuments.md)
 
-## Related
-
-- [[c_ManagedDocuments|Managed Documents]]
-- [[attachment|Attachment]]
-- [[c_ApprovalRules|Approval rules]]
-- [[reference|Reference]]

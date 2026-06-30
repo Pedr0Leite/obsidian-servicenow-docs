@@ -30,7 +30,7 @@ Once the users, teams, and opportunity data are added, along with selection of c
 
     \[Omitted image "New-group-salesforecasting.png"\] Alt text: New sales team
 
-3.  On the form, fill in the [[fields|fields]].
+3.  On the form, fill in the fields.
 
     |Field|Description|
     |-----|-----------|
@@ -49,12 +49,7 @@ Once the users, teams, and opportunity data are added, along with selection of c
 **Related topics**  
 
 
-[[using-sales-forecasting|Using Sales Forecasting]]
+[Using Sales Forecasting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-sales-forecasting.md)
 
-[[sales-forecasting|Sales Forecasting]]
+[Sales Forecasting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/sales-forecasting.md)
 
-## Related
-
-- [[using-sales-forecasting|Using Sales Forecasting]]
-- [[sales-forecasting|Sales Forecasting]]
-- [[fields|Fields]]

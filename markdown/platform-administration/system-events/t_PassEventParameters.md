@@ -14,7 +14,7 @@ breadcrumb: [Managing system events, System Events, Configure core features, Adm
 
 # Pass event parameters from a work-flow to a notification
 
-Pass two event [[r_DirectJDBCProbeParameters|parameters]] that send information about a record or related records from a work-flow to a notification.
+Pass two event parameters that send information about a record or related records from a work-flow to a notification.
 
 ## Before you begin
 
@@ -60,9 +60,5 @@ if (gr.next()){
 **Related topics**  
 
 
-[[c_ScriptingForEmailNotifications|Scripting for email notifications]]
+[Scripting for email notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ScriptingForEmailNotifications.md)
 
-## Related
-
-- [[c_ScriptingForEmailNotifications|Scripting for email notifications]]
-- [[r_DirectJDBCProbeParameters|Parameters]]

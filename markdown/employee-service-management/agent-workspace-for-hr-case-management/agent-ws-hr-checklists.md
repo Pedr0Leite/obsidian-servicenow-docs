@@ -24,9 +24,9 @@ When the configuration for an HR service or HR task template has checklists, the
 
 -   **Creating a checklist directly into an HR case**
 
-    To create a one-time checklist directly into an HR case, create the case in [[hr-service-delivery|HR Service Delivery]] Agent Workspace.
+    To create a one-time checklist directly into an HR case, create the case in HR Service Delivery Agent Workspace.
 
-    -   Go to the platform HR [[case-management-workspace|Case Management]] and open the case you created.
+    -   Go to the platform HR Case Management and open the case you created.
     -   Scroll down and select the down arrow and select **Create New**.\[Omitted image "checklist-create-new.png"\] Alt text: Checklist
     -   Enter instructions.
 -   **Creating a checklist directly into an HR Task**
@@ -40,7 +40,3 @@ When the configuration for an HR service or HR task template has checklists, the
 
 **Note:** These types of checklists are a one-time use and only appears for the specific case or task.
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[case-management-workspace|Case management]]

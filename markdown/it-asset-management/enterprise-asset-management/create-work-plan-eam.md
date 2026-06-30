@@ -18,7 +18,7 @@ Create and manage work plans to specify how and when the work should be performe
 
 ## About this task
 
-Use the Planned Work Management application's functionality to create work plans from within the [[using-eam-workspace|Enterprise Asset Workspace]]. This enables managers to create work orders for the future and allocate them to technicians so that the technicians can review and plan their work accordingly.
+Use the Planned Work Management application's functionality to create work plans from within the Enterprise Asset Workspace. This enables managers to create work orders for the future and allocate them to technicians so that the technicians can review and plan their work accordingly.
 
 **Note:** Ensure that you have activated the Planned Work Management plugin \[sn\_fsm\_planned\_wm\] plugin.
 
@@ -54,6 +54,4 @@ Role required: sn\_fsm\_planned\_wm.planned\_work\_admin
 
     You can view all your work plan records in the list view in the **Maintenance plans** tab. Every work plan record is prefixed with **WP**.
 
-## Related
 
-- [[using-eam-workspace|Enterprise Asset Workspace]]

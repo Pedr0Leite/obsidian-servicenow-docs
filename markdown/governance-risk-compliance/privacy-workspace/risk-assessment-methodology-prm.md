@@ -14,7 +14,7 @@ breadcrumb: [Risk assessments, Explore, Privacy Management, Governance, Risk, an
 
 # Risk Assessment Methodology \(RAM\)
 
-Risk Assessment Methodology \(RAM\) provides a systematic and repeatable approach to identifying, evaluating, and mitigating privacy risks associated with data [[ropa-record|processing activities]].
+Risk Assessment Methodology \(RAM\) provides a systematic and repeatable approach to identifying, evaluating, and mitigating privacy risks associated with data processing activities.
 
 RAM is central to establishing accountability in data handling practices and supports regulatory compliance by embedding risk management into daily operations. It helps privacy and compliance teams to assess data processing risks, identify exposure across systems, and implement timely strategies to reduce those risks. As organizations operate in an increasingly complex regulatory environment, the methodology confirms that risks are evaluated consistently and documented transparently.
 
@@ -22,19 +22,13 @@ For information about configuring your own RAMs, see [Create a Risk Assessment M
 
 ## Base Risk Assessment Methodologies
 
-The [[privacy-management|Privacy Management]] application provides the following RAMs in the Draft state:
+The Privacy Management application provides the following RAMs in the Draft state:
 
--   Automated criticality [[factors|factors]]
+-   Automated criticality factors
 -   Criticality assessment
 -   Privacy Risk Assessment
 
-**Note:** Starting with the Australia release, you can publish up to three [[airc-rams|Risk Assessment Methodologies]].
+**Note:** Starting with the Australia release, you can publish up to three Risk Assessment Methodologies.
 
 **Parent Topic:**[Risk assessments in Privacy Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/risk-assessments-in-privacy-management.md)
 
-## Related
-
-- [[ropa-record|Processing activities]]
-- [[privacy-management|privacy management]]
-- [[factors|factors]]
-- [[airc-rams|Risk assessment methodologies]]

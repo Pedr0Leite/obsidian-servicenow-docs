@@ -16,7 +16,7 @@ breadcrumb: [Managing projects with Project Workspace, Project Workspace, Projec
 
 Plan your project stages and assign specific actions to each stage using Playbooks.
 
-\[Omitted video\] Description: Demonstration of [[playbooks-in-pw|Playbooks in Project Workspace]].
+\[Omitted video\] Description: Demonstration of Playbooks in Project Workspace.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ As a system administrator, ensure that a playbook is activate or created before 
 
 A playbook defines the standard stages of a project \(for example, Initiation, Planning, Execution, Monitoring, and Closure\) and includes activities or action items to complete at each stage.
 
-There are two playbooks for [[project-workspace-landing-page|Project Workspace]]. This task topic follows the Project default playbook. It’s a PMBOK standard playbook comprising five stages: Initiation, Planning, Execution, Monitoring and Delivering, and Closure. Each stage consists of activities, action items, or steps that guide the project manager in successfully completing the project.
+There are two playbooks for Project Workspace. This task topic follows the Project default playbook. It’s a PMBOK standard playbook comprising five stages: Initiation, Planning, Execution, Monitoring and Delivering, and Closure. Each stage consists of activities, action items, or steps that guide the project manager in successfully completing the project.
 
 You can view the **Playbook** menu only if a playbook is active and the project matches the trigger condition defined for that playbook. The playbook is displayed only when the project meets the defined trigger conditions. Two playbooks are available in Workflow Studio for Project Workspace.
 
@@ -49,7 +49,7 @@ You can view the **Playbook** menu only if a playbook is active and the project 
         -   When you select **Mark Complete** or **Skip**, the activity becomes read-only.
         -   A stage is marked complete once all activities within it are either completed or skipped.
         -   Use the **Restart** option \(available at both the activity and stage levels\) to revisit or edit completed or skipped activities.
-    For more information on how to [[use-playbooks-spm-retail|use playbooks]], see [Building Playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/building-a-process.md) and [Designing Playbook Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/playbook-experience-admins.md).
+    For more information on how to use playbooks, see [Building Playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/building-a-process.md) and [Designing Playbook Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/playbook-experience-admins.md).
 
 
 **Parent Topic:**[Managing projects with Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/use-projects-pw.md)
@@ -65,8 +65,3 @@ You can view the **Playbook** menu only if a playbook is active and the project 
 
 [Playbooks in Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/playbooks-in-pw.md)
 
-## Related
-
-- [[playbooks-in-pw|Playbooks in Project Workspace]]
-- [[project-workspace-landing-page|Project Workspace]]
-- [[use-playbooks-spm-retail|Use playbooks]]

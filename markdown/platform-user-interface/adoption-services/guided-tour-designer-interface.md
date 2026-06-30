@@ -14,7 +14,7 @@ breadcrumb: [Guided Tour Designer, Explore Guided Tours, Guided Tours, Adoption 
 
 # GTD interface
 
-The [[guided-tours-designer|Guided Tour Designer]] \(GTD\) provides an easy way to [[add-guided-tour|create guided tours]]. You can easily drag a callout to the element you want to highlight and enter instructions for each step, along with the corresponding trigger. As you add steps, you have the option to test and modify them as needed.
+The Guided Tour Designer \(GTD\) provides an easy way to create guided tours. You can easily drag a callout to the element you want to highlight and enter instructions for each step, along with the corresponding trigger. As you add steps, you have the option to test and modify them as needed.
 
 The GTD has the following features:
 
@@ -74,7 +74,3 @@ The GTD has the following features:
 
 [Guided Tour Designer use case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/guided-tour-designer-use-case.md)
 
-## Related
-
-- [[guided-tours-designer|Guided Tour Designer]]
-- [[add-guided-tour|Create Guided Tours]]

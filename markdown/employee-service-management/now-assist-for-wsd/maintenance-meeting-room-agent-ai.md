@@ -34,7 +34,7 @@ The team of AI agents block a room for emergency maintenance and move any existi
 
     AI agents take confirmation from Workplace planners before blocking a location or before moving a reservation to another location. Workplace Event planners can respond to AI agents queries using the conversational interface of the Now Assist panel. For more information, see [Review notifications in the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/agentic-workflow-notifications-nowassist.md).
 
--   Updates the emergency maintenance request case notes with all the actions taken. Workplace Event planners can review the [[activity-lxp|activity]] log to know the actions taken by AI agents.
+-   Updates the emergency maintenance request case notes with all the actions taken. Workplace Event planners can review the activity log to know the actions taken by AI agents.
 
     For more information, see [View emergency maintenance case details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/view-emergency-maint-case.md).
 
@@ -209,6 +209,3 @@ Select this option to receive and review notifications send by AI agents in the 
 
 [AI Agent Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-agent-studio.md)
 
-## Related
-
-- [[activity-lxp|Activity]]

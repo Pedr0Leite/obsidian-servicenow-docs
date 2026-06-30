@@ -18,7 +18,7 @@ Use scripted extension points to manipulate URL parameters and REST API task par
 
 ## Before you begin
 
-Install the [[emr-exploring|EMR Help]] application. For more information, see [Install EMR Help](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/install-emr-help.md).
+Install the EMR Help application. For more information, see [Install EMR Help](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/install-emr-help.md).
 
 Role required: admin
 
@@ -83,6 +83,4 @@ Include the transformURLParams method in the sn\_ind\_rmt\_help.RemoteHelpParamT
 </td></tr></tbody>
 </table>5.  On the Extension Point form, click **Update**.
 
-## Related
 
-- [[emr-exploring|EMR Help]]

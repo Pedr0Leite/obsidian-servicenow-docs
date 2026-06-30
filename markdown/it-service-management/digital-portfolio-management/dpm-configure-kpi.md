@@ -14,7 +14,7 @@ breadcrumb: [Explore, Digital Portfolio Management, IT Service Management]
 
 # KPI groups in Digital Portfolio Management
 
-Define and configure the key performance indicator \(KPI\) groups in DPM that matter most to you. When you associate KPI groups with your services and [[dex-workspace-application-tab|applications]], you can analyze their performance in a centralized area.
+Define and configure the key performance indicator \(KPI\) groups in DPM that matter most to you. When you associate KPI groups with your services and applications, you can analyze their performance in a centralized area.
 
 \[Omitted video\] Description: Use KPI groups.
 
@@ -32,7 +32,7 @@ With KPI groups, you can analyze the performance of each solution in several way
     -   Last collected scores for all values in each KPI breakdown grid.
     -   Last 30 days of scores for trends and time series visualizations. You can set different time rangers per KPI.
     -   The date the score was collected \(shows on each KPI indicator card\).
-    **Note:** Starting with the June 2024 release of DPM, the latest score system property is set to true for new and zBoot customers. If not applicable, then the DPM admin can enable the latest score system property by navigating to **All** &gt; **[[dpm-landing|Digital Portfolio Management]]** &gt; **Administration** &gt; **KPI groups properties**. For more admin information, see [Configure the Digital Portfolio Management experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-configure-experience.md).
+    **Note:** Starting with the June 2024 release of DPM, the latest score system property is set to true for new and zBoot customers. If not applicable, then the DPM admin can enable the latest score system property by navigating to **All** &gt; **Digital Portfolio Management** &gt; **Administration** &gt; **KPI groups properties**. For more admin information, see [Configure the Digital Portfolio Management experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-configure-experience.md).
 
     When you access KPI drill down information in DPM, the system adds a timestamp at the end of the URL in the browser address field. The timestamp is in milliseconds and is based off epoch time.
 
@@ -41,11 +41,11 @@ The DPM base system comes with KPI groups that provide valuable indicators to ev
 
 ## KPI groups for enterprise portfolios
 
-Two KPI groups enable flexible reporting on solutions in [[dpm-enterprise-portfolios|enterprise portfolios]].
+Two KPI groups enable flexible reporting on solutions in enterprise portfolios.
 
 -   **Enterprise portfolio**
 
-    The enterprise portfolio KPI group \[**Portfolio success metrics**\] enables you to map to any enterprise portfolio type to view its portfolio performance. You can track availability, mean time to resolve \(MMTR\), incidents caused by changes, and successful changes. You can see these [[perf-metrics-mob|performance metrics]] when you view the details of any enterprise portfolio.
+    The enterprise portfolio KPI group \[**Portfolio success metrics**\] enables you to map to any enterprise portfolio type to view its portfolio performance. You can track availability, mean time to resolve \(MMTR\), incidents caused by changes, and successful changes. You can see these performance metrics when you view the details of any enterprise portfolio.
 
 -   **Business applications**
 
@@ -80,9 +80,3 @@ KPI groups aren’t inherited for service instances, but you can do the followin
 
 [Configure KPIs in Digital Portfolio Management with service availability example](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-configure-kpi-availability.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[dpm-landing|Digital Portfolio Management]]
-- [[dpm-enterprise-portfolios|Enterprise portfolios]]
-- [[perf-metrics-mob|Performance metrics]]

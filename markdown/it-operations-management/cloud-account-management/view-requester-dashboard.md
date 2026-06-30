@@ -21,8 +21,5 @@ You can access the home page in either of two ways.
 -   Navigate to **All** &gt; **Cloud Workspace**
 -   Navigate to **Workspaces** &gt; **Cloud Workspace**
 
-\[Omitted image "cam-dashboard.gif"\] Alt text: [[cam-landing|Cloud Account Management]] requester home page view
+\[Omitted image "cam-dashboard.gif"\] Alt text: Cloud Account Management requester home page view
 
-## Related
-
-- [[cam-landing|Cloud Account Management]]

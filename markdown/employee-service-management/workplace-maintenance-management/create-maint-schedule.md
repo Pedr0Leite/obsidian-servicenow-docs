@@ -28,7 +28,7 @@ For more information, see [Create plan service configuration](https://raw.github
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-central-feat|Workplace Central]].**
+1.  Navigate to **All** &gt; **Workplace Central.**
 
 2.  Select the **Preventive Maintenance** tab.
 
@@ -36,7 +36,7 @@ For more information, see [Create plan service configuration](https://raw.github
 
 4.  On the maintenance calendar view, select the **Schedules** tab.
 
-    \[Omitted image "wsd-maint-mgmt-schedules-tab.png"\] Alt text: [[cal-view-overview|Maintenance plan calendar view]] showing the Schedules tab.
+    \[Omitted image "wsd-maint-mgmt-schedules-tab.png"\] Alt text: Maintenance plan calendar view showing the Schedules tab.
 
 5.  Select **Copy schedule** to copy a maintenance schedule for an existing maintenance plan.
 
@@ -163,7 +163,3 @@ For example, if your **Due day of week** is next week Monday and your lead time 
 
 **Next topic:**[Workplace planned maintenance scheduled job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/sch-job-planned-nightly.md)
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]
-- [[cal-view-overview|Maintenance plan calendar view]]

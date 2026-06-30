@@ -14,7 +14,7 @@ breadcrumb: [Use feeds in Live Feed, Using Live Feed, Live Feed Core UI, Manage 
 
 # Subscribe to a feed
 
-Direct members of a feed can subscribe and unsubscribe to the feed in order to receive [[email|email]] notifications whenever any activity in the feed occurs, such as new messages being posted, replies, likes, polls, and @mentions.
+Direct members of a feed can subscribe and unsubscribe to the feed in order to receive email notifications whenever any activity in the feed occurs, such as new messages being posted, replies, likes, polls, and @mentions.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ All notifications related to a top-level message, such as replies, mentions, and
 
 1.  Navigate to **Live Feed** &gt; **Live Feed**.
 
-2.  Click either **Group Feeds** or **[[c_RecordFeeds|Record Feeds]]**, and then select the feed name.
+2.  Click either **Group Feeds** or **Record Feeds**, and then select the feed name.
 
 3.  Click the subscribe icon.
 
@@ -41,7 +41,3 @@ All notifications related to a top-level message, such as replies, mentions, and
 
 **Parent Topic:**[Use feeds in Live Feed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/c_UseFeedsInLiveFeed.md)
 
-## Related
-
-- [[email|Email]]
-- [[c_RecordFeeds|Record feeds]]

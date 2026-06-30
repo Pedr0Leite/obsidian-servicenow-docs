@@ -58,7 +58,7 @@ Service catalog category
 
 </td><td>
 
-Name of the [catalog category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/add-catalog-categories.md) under which the new intake forms for the practice area are organized in the Legal Service Portal.**Note:** This field is applicable only if you use the Legal Service Portal for legal services. To enable legal services on the [[employee-center-landing-page|Employee Center]], use the taxonomy mapping. For more information, see [Legal services on the Employee Center portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/legal-services-employee-center.md).
+Name of the [catalog category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/add-catalog-categories.md) under which the new intake forms for the practice area are organized in the Legal Service Portal.**Note:** This field is applicable only if you use the Legal Service Portal for legal services. To enable legal services on the Employee Center, use the taxonomy mapping. For more information, see [Legal services on the Employee Center portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/legal-services-employee-center.md).
 
 </td></tr><tr><td>
 
@@ -92,6 +92,3 @@ Description of the practice area.
 
 [Add an intake form to a practice area](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/associate-categories-practice-area.md) from the Intake Forms related list.
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **Case Creation Configuration**.
+1.  Navigate to **HR Administration** &gt; **Case Creation Configuration**.
 
 2.  Enable the **Force partial search** option.
 
@@ -32,6 +32,4 @@ Role required: admin
 
     For example, assume you have select last name in priority column. When an HR agent searches for an employee, search is first performed on the last name and then on the other columns.
 
-## Related
 
-- [[c_AdministerHRServiceManagement|HR Administration]]

@@ -14,7 +14,7 @@ breadcrumb: [Integrating Voice with other applications, ServiceNow Voice, Manage
 
 ServiceNow® Voice with Virtual Agent allows you to use the ServiceNow Virtual Agent conversation as an IVR \(Interactive Voice Response\) in phone and to use the existing ServiceNow Advanced Work Assignment to find an agent in case of an escalation and allows agents to work in ServiceNow Workspace to manage the incoming cases on the queue.
 
-The [[cloud-call-center-overview|ServiceNow Voice]] for Virtual Agent application provides seamless interactive voice response \(IVR\) and calling experiences for your customers and agents when integrated with a Contact Center In Australia release, we have Amazon [[c_Connect|Connect]], a pre-built adapter integrating the ServiceNow Voice with Virtual Agent to provide the robust capabilities of the Virtual Agent application.
+The ServiceNow Voice for Virtual Agent application provides seamless interactive voice response \(IVR\) and calling experiences for your customers and agents when integrated with a Contact Center In Australia release, we have Amazon Connect, a pre-built adapter integrating the ServiceNow Voice with Virtual Agent to provide the robust capabilities of the Virtual Agent application.
 
 To use our pre-built adapter connector with ServiceNow Voice with Virtual Agent, install the Virtual Agent API \(sn\_va\_as\_service\) plugin.
 
@@ -37,7 +37,7 @@ To use our pre-built adapter connector with ServiceNow Voice with Virtual Agent,
     -   Analyze sentiments of the utterances.
     -   Real-time transcription and storage of the recording.
 -   **User benefits**
-    -   Account log in [[use-ccc|using voice]] to receive enterprise service.
+    -   Account log in using voice to receive enterprise service.
     -   Callback options.
 
 ## Example workflow
@@ -55,16 +55,10 @@ The following example workflow shows the use of ServiceNow Voice for Virtual Age
     **Note:** This step in the flow applies only when the caller is an existing customer.
 
 
-**Parent Topic:**[[integrate-ccc-other-apps|Integrating Voice with other applications]]
+**Parent Topic:**[Integrating Voice with other applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/integrate-ccc-other-apps.md)
 
 **Related topics**  
 
 
 [Conversational IVR with Amazon Connect](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/va-ivr-voice.md)
 
-## Related
-
-- [[integrate-ccc-other-apps|Integrating Voice with other applications]]
-- [[cloud-call-center-overview|ServiceNow Voice]]
-- [[c_Connect|Connect]]
-- [[use-ccc|Using Voice]]

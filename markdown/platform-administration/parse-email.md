@@ -106,7 +106,7 @@ Language of the reply separator.**Note:** All email clients don't indicate a lan
 </table>4.  Click **Submit**.
 
 
-**Parent Topic:**[[c_EmailNotifications|Email and SMS notifications]]
+**Parent Topic:**[Email and SMS notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailNotifications.md)
 
 **Related topics**  
 
@@ -115,7 +115,7 @@ Language of the reply separator.**Note:** All email clients don't indicate a lan
 
 [Create an email notification]()
 
-[Email [[notifications|notifications]] dashboard]()
+[Email notifications dashboard]()
 
 [Email diagnostics dashboard]()
 
@@ -133,7 +133,3 @@ Language of the reply separator.**Note:** All email clients don't indicate a lan
 
 [Email FAQs and troubleshooting notification emails]()
 
-## Related
-
-- [[c_EmailNotifications|Email and SMS notifications]]
-- [[notifications|Notifications]]

@@ -21,7 +21,7 @@ Optimize the distribution of agents by allowing redistribution from one MID Serv
 Ensure that the following settings are configured:
 
 -   The **sn\_agent.enable\_auto\_mid\_selection** system property is set to true. When using the `acc.yml` file, the property is **enable\_auto\_mid\_selection**.
--   On the MID Server page \(**[[acc-landing-page|Agent Client Collector]]** &gt; **MID Server**\):
+-   On the MID Server page \(**Agent Client Collector** &gt; **MID Server**\):
     -   Status: Up
     -   Validated: Yes
 
@@ -48,6 +48,3 @@ Only validated MID Servers can accept connections from agents.
 
 **Parent Topic:**[Deploying Agent Client Collector on servers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-server-deployment.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

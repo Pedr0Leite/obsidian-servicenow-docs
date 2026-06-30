@@ -26,14 +26,14 @@ As an admin or process owner, you can facilitate shoppers with a process to rais
 
 As a shopper, you can raise the edit or cancel requests for the following objects from ShoppingHub or Service Catalog:
 
--   **[[purchase-requisition|Purchase requisition]]**: A purchase request that tracks all tasks and approvals, and associates the purchase to a contract and [[supplier|supplier]]. Purchase requisitions contain one or more purchase line items. A [[purchase-order-table|purchase order]] is created from a purchase requisition task.​​
+-   **Purchase requisition**: A purchase request that tracks all tasks and approvals, and associates the purchase to a contract and supplier. Purchase requisitions contain one or more purchase line items. A purchase order is created from a purchase requisition task.​​
 -   **Purchase line**: An individual line item that includes all the details of the goods or services for procurement. Purchase requisitions contain multiple purchase line items.
--   **Purchase order**: A purchase order includes one or more [[purchase-order-lines|purchase order lines]]. Once the business unit approves the purchase requisition, a purchase order is issued to the supplier with the requested goods or services.
+-   **Purchase order**: A purchase order includes one or more purchase order lines. Once the business unit approves the purchase requisition, a purchase order is issued to the supplier with the requested goods or services.
 -   **Purchase order line**: An individual line item that includes all the details of the goods or services for procurement. Purchase orders contain multiple purchase order line items.
 
 ## Agent
 
-As an agent or fulfiller or buyer, you can process these requests from the [[purch-order-mgmt-ws|Source-to-Pay Workspace]] [playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/process-automation-designer-flows-psm.md):
+As an agent or fulfiller or buyer, you can process these requests from the Source-to-Pay Workspace [playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/process-automation-designer-flows-psm.md):
 
 -   Approve or reject an **Edit** order with the revised quantity or delivery location of the purchase requisitions.
 -   Reject or approve a **Cancel** request of the entire order or line items.
@@ -46,17 +46,9 @@ You can use these steps to raise an edit request for purchase line item. The fol
 
 ## Cancel flows
 
-You can use these steps to [[cancel-request|raise a cancel request]] for purchase line items or an entire purchase. Here's an overview of the process from request creation and request resolution.
+You can use these steps to raise a cancel request for purchase line items or an entire purchase. Here's an overview of the process from request creation and request resolution.
 
 \[Omitted image "cancel-flow.png"\] Alt text: Raise a cancel request from ShoppingHub
 
 **Parent Topic:**[Purchase revision flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-revision-flows.md)
 
-## Related
-
-- [[purchase-requisition|Purchase requisition]]
-- [[supplier|Supplier]]
-- [[purchase-order-table|Purchase order]]
-- [[purchase-order-lines|Purchase order lines]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[cancel-request|Raise a cancel request]]

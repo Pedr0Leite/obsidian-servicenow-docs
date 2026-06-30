@@ -16,7 +16,7 @@ breadcrumb: [Accelerate your DevOps change process, DevOps Change Velocity, IT S
 
 Use the Pipeline UI to visualize interactions and results across a pipeline execution. This graphical view shows pipeline step progression and other details for each pipeline.
 
-From DevOps, get a quick view of how everything is connected to see exactly what is happening with the pipeline and when. From the ServiceNow [[c_ITILChangeManagement|Change Management]] application, you can access the Pipeline UI and quickly see the commits, the committers, and other details for the change request in one place.
+From DevOps, get a quick view of how everything is connected to see exactly what is happening with the pipeline and when. From the ServiceNow Change Management application, you can access the Pipeline UI and quickly see the commits, the committers, and other details for the change request in one place.
 
 The Pipeline UI displays parallel stages as modeled in Azure DevOps release pipelines. The pipeline UI displays the real-time state of the pipeline as it appears in Azure DevOps. The associated artifact details sourced from the build pipeline, Test Results, Software Quality Summary Results also display on the pipeline UI. For more information, see [Parallel stages in Azure DevOps release pipelines](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/parallel-stages-ado-release-pipelines.md).
 
@@ -179,7 +179,7 @@ View the build test results to see what tests passed or failed. The quality card
 
 </td></tr><tr><td>
 
-[[dev-ops-software-quality-results|Software Quality Results]]
+Software Quality Results
 
 </td><td>
 
@@ -218,7 +218,3 @@ Click directly into DevOps change requests, step executions, artifacts, artifact
 
 **Parent Topic:**[Accelerating your DevOps change process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/dev-ops-change-acceleration.md)
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]
-- [[dev-ops-software-quality-results|Software Quality Results]]

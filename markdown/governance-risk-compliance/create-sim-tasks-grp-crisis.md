@@ -20,15 +20,15 @@ Role required: sn\_bcm.planner, sn\_bcm.program\_manager
 
 ## About this task
 
-You can [[create-similar-tasks-group|create a similar tasks group]] and add tasks to it only in the **Draft** state of the event.
+You can create a similar tasks group and add tasks to it only in the **Draft** state of the event.
 
-For information on identifying and grouping duplicate event tasks, see [[identifying-running-dup-tasks-once|Creating similar tasks groups]].
+For information on identifying and grouping duplicate event tasks, see [Creating similar tasks groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/identifying-running-dup-tasks-once.md).
 
-For information on the state changes for event tasks in similar tasks groups, see [[transition-states-of-event-task|State changes for event tasks in groups]].
+For information on the state changes for event tasks in similar tasks groups, see [State changes for event tasks in groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/transition-states-of-event-task.md).
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **Business Continuity Workspace** &gt; **[[exercise-management-uib|Exercises]]** &gt; **Pending** and select the event from the list.
+1.  Navigate to **Workspaces** &gt; **Business Continuity Workspace** &gt; **Exercises** &gt; **Pending** and select the event from the list.
 
 2.  To create a similar event tasks group, use one of these options.
 
@@ -68,12 +68,5 @@ For information on the state changes for event tasks in similar tasks groups, se
     The event task is deleted from the event.
 
 
-**Parent Topic:**[[perform-tasks-to-manage-crisis-events|Structured workflows for Crisis events]]
+**Parent Topic:**[Structured workflows for Crisis events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/perform-tasks-to-manage-crisis-events.md)
 
-## Related
-
-- [[identifying-running-dup-tasks-once|Creating similar tasks groups]]
-- [[transition-states-of-event-task|State changes for event tasks in groups]]
-- [[perform-tasks-to-manage-crisis-events|Structured workflows for Crisis events]]
-- [[create-similar-tasks-group|Create a similar tasks group]]
-- [[exercise-management-uib|Exercises]]

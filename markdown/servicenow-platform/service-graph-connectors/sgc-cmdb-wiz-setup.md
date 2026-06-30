@@ -14,7 +14,7 @@ breadcrumb: [Wiz, Service Graph Connectors, Integrating third-party data into CM
 
 # Set up the Wiz environment
 
-You must obtain the credentials associated with the Wiz service account to configure Wiz for use with the [[sgc-cmdb-integration-wiz|Service Graph Connector for Wiz]].
+You must obtain the credentials associated with the Wiz service account to configure Wiz for use with the Service Graph Connector for Wiz.
 
 ## Before you begin
 
@@ -58,6 +58,4 @@ For more information on obtaining Wiz details, see [Add a Service Account](https
 
     8.  Select **Finish** to return to the Wiz dashboard.
 
-## Related
 
-- [[sgc-cmdb-integration-wiz|Service Graph Connector for Wiz]]

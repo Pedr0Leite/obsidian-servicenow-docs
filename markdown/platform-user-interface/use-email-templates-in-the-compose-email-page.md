@@ -12,7 +12,7 @@ breadcrumb: [Full email composer, Emails, Use, Configurable Workspace UI, Config
 
 # Use email templates in the full email composer
 
-Quickly [[activity-stream-compose-configurable-workspace|compose]] emails for common issues by selecting an email template in the Compose Email page instead of manually drafting an email.
+Quickly compose emails for common issues by selecting an email template in the Compose Email page instead of manually drafting an email.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: email\_composer
 
 2.  Open the Compose Email page by selecting the More actions icon \(\[Omitted image "x-more-actions-icon.png"\] Alt text: More actions icon\) and **Compose Email**.
 
-3.  Apply an email template from the [[agent-assist-configurable-workspace|Agent Assist]] panel.
+3.  Apply an email template from the Agent Assist panel.
 
     1.  From the Agent Assist panel, select the Email Templates icon \(\[Omitted image "email-templates-icon.png"\] Alt text: Email Templates icon\).
 
@@ -56,7 +56,4 @@ Role required: email\_composer
 
     4.  Add the template to your email by selecting **Apply**.
 
-## Related
 
-- [[activity-stream-compose-configurable-workspace|Compose]]
-- [[agent-assist-configurable-workspace|Agent assist]]

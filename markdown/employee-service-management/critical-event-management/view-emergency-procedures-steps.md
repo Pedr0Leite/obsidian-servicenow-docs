@@ -14,7 +14,7 @@ breadcrumb: [Self-report your status, Reporting critical events, Critical Event 
 
 # View emergency procedures
 
-View the emergency procedures as an employee by logging in to the [[employee-center-portal-overview|employee portal]].
+View the emergency procedures as an employee by logging in to the employee portal.
 
 ## Before you begin
 
@@ -22,9 +22,9 @@ Role required: sn\_critical.user
 
 ## Procedure
 
-1.  Log in to the [[employee-center-landing-page|employee center]].
+1.  Log in to the employee center.
 
-2.  Navigate to **[[health-safety-overview|Health and Safety]]** &gt; **Workplace Emergency**.
+2.  Navigate to **Health and Safety** &gt; **Workplace Emergency**.
 
 3.  Select **Policies and Procedures**.
 
@@ -35,8 +35,4 @@ Role required: sn\_critical.user
     -   To view when and how to submit an emergency request, select the Emergency submission guidelines page.
     For more information on the types of emergency procedures, see [Employee portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/employee-center-portal-overview.md).
 
-## Related
 
-- [[employee-center-portal-overview|Employee portal]]
-- [[employee-center-landing-page|Employee Center]]
-- [[health-safety-overview|Health and Safety]]

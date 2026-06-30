@@ -14,13 +14,13 @@ breadcrumb: [Operational Technology Incident Management, Operational Technology]
 
 # Configuring Operational Technology Incident Management
 
-Configure the [[operational-technology-incident-management-landing-page|Operational Technology Incident Management]] application so that you can create the data foundation for the ServiceNow® [[operational-technology-overview|Operational Technology]] solution.
+Configure the Operational Technology Incident Management application so that you can create the data foundation for the ServiceNow® Operational Technology solution.
 
 Operational Technology Incident Management v2 is dependent on Tokyo P5 or later.
 
 **Note:**
 
-If you have the admin role, you can use the Guided Setup to lead you through the setup of the Operational Technology Incident Management application. To access the Guided Setup, navigate to **[[industrial-workspace-for-operational-technology|Industrial Workspace]] Admin** &gt; **Guided Setup**.
+If you have the admin role, you can use the Guided Setup to lead you through the setup of the Operational Technology Incident Management application. To access the Guided Setup, navigate to **Industrial Workspace Admin** &gt; **Guided Setup**.
 
 <table id="table_dt5_rxj_4nb"><thead><tr><th>
 
@@ -72,7 +72,7 @@ Configures state models for OT incident sites.
 
 </td></tr><tr><td>
 
-6. \(Optional\) [[create-assignment-rule|Create an assignment rule]].
+6. \(Optional\) Create an assignment rule.
 
 </td><td>
 
@@ -84,7 +84,7 @@ You can install the Operational Technology Incident Management application \(sn\
 -   **[Migrate incidents to the new incident table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/migrate-operational-technology-incidents.md)**  
 Migrate Operational Technology incidents from the old incident table to the new incident table. Migrating incidents lets the Operational Technology Incident Management application know that the old table is no longer applicable.
 -   **[Assign roles to your users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/assign-operational-technology-incident-management-roles.md)**  
-[[assign-operational-technology-incident-management-roles|Assign roles to your users]] in the Operational Technology Incident Management application so that you can control their access to the features, capabilities, and data.
+Assign roles to your users in the Operational Technology Incident Management application so that you can control their access to the features, capabilities, and data.
 -   **[Create an assignment group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/create-ot-specific-assignment-groups.md)**  
 Create an Operational Technology \(OT\) specific assignment group to assign to OT incident records.
 -   **[Incident categories and subcategories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/ot-incident-categories-subcategories.md)**  
@@ -94,17 +94,9 @@ Create an Operational Technology \(OT\) incident state model for your sites. By 
 -   **[Define a priority lookup rule for incidents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/define-priority-lookup-rules.md)**  
 Define the impact and urgency of an Operational Technology incident to calculate its priority. You can then use the priority calculation to prioritize your work and to drive service level agreements \(SLAs\) in your organization.
 -   **[Set the system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/configure-ot-incident-management-properties.md)**  
-[[configure-ot-incident-management-properties|Set the system properties]] for the Operational Technology Incident Management application so that you can enable the incident properties as needed.
+Set the system properties for the Operational Technology Incident Management application so that you can enable the incident properties as needed.
 -   **[Create an assignment rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/create-assignment-rule.md)**  
 Create an assignment rule to automatically assign an Operational Technology \(OT\) incident to a group or user according to one or more conditions in the assignment rule. You use assignment rules to run at the time that you open an OT incident.
 
 **Parent Topic:**[Operational Technology Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/operational-technology-incident-management-landing-page.md)
 
-## Related
-
-- [[operational-technology-incident-management-landing-page|Operational Technology Incident Management]]
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[create-assignment-rule|Create an assignment rule]]
-- [[assign-operational-technology-incident-management-roles|Assign roles to your users]]
-- [[configure-ot-incident-management-properties|Set the system properties]]

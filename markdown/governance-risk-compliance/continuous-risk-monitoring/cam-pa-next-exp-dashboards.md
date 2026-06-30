@@ -22,16 +22,11 @@ Platform Analytics Solutions contain prepackaged Performance Analytics and Repor
 
 The following roles and tasks are associated with this solution:
 
--   CAM Administrator \(sn\_irm\_cont\_auth.admin\): View the reports in the [[cam-overvw-pa-db|CAM Overview dashboard]].
--   Authorization Official \(sn\_irm\_cont\_auth.authorization\_official\): View the reports in the [[reports-ao-overview|AO Overview dashboard]].
--   Security Control Assessor \(sn\_irm\_cont\_auth.sec\_control\_assessor\): View the [[reports-sca-ov|SCA Overview dashboard]].
+-   CAM Administrator \(sn\_irm\_cont\_auth.admin\): View the reports in the CAM Overview dashboard.
+-   Authorization Official \(sn\_irm\_cont\_auth.authorization\_official\): View the reports in the AO Overview dashboard.
+-   Security Control Assessor \(sn\_irm\_cont\_auth.sec\_control\_assessor\): View the SCA Overview dashboard.
 -   Executive Reader \(sn\_irm\_cont\_auth.executive\_read\): View the reports in all the CAM dashboards.
 -   System Owner \(sn\_irm\_cont\_auth.system\_owner\): Access all the dashboards.
 -   Information System Security Manager \(sn\_irm\_cont\_auth.info\_system\_sec\_manager\): Access all the dashboards.
 -   Information System Security Officer \(sn\_irm\_cont\_auth.info\_system\_sec\_officer\): Access all the dashboards.
 
-## Related
-
-- [[cam-overvw-pa-db|CAM Overview dashboard]]
-- [[reports-ao-overview|AO Overview dashboard]]
-- [[reports-sca-ov|SCA Overview dashboard]]

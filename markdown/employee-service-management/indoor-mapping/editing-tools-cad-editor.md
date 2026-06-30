@@ -14,7 +14,7 @@ breadcrumb: [Configure CAD objects using the CAD Editor tab, Autocad import tool
 
 # Drawing and editing tools in the CAD editor
 
-The [[autocad-editor|CAD Editor tab]] provides editing and drawing tools to configure, optimize, and edit your CAD files before importing it to the Map Studio.
+The CAD Editor tab provides editing and drawing tools to configure, optimize, and edit your CAD files before importing it to the Map Studio.
 
 It provides the following editing and drawing capabilities:
 
@@ -42,6 +42,3 @@ Close an unclosed line in a layer on the CAD editor.
 
 [Hide or show a layer in the CAD editor]()
 
-## Related
-
-- [[autocad-editor|CAD Editor tab]]

@@ -14,19 +14,19 @@ breadcrumb: [Configure, Workplace Reservations for Microsoft Outlook Add-in, Wor
 
 # Install Workplace Reservations for Microsoft Outlook Add-in
 
-Install the [[workplace-rsv-for-outlook-addin-feat|Workplace Reservations for Microsoft Outlook Add-in]] application from ServiceNow Store applications. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
+Install the Workplace Reservations for Microsoft Outlook Add-in application from ServiceNow Store applications. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
 ## Before you begin
 
-Also install the [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] Components application from the store as the Workplace Reservations for Microsoft Outlook Add-in application is built on the Seismic workspace. The Workplace Service Delivery Components store the components built on Seismic to enhance the experience brought to employees while using the Workplace Reservations for Microsoft Outlook Add-in application.
+Also install the Workplace Service Delivery Components application from the store as the Workplace Reservations for Microsoft Outlook Add-in application is built on the Seismic workspace. The Workplace Service Delivery Components store the components built on Seismic to enhance the experience brought to employees while using the Workplace Reservations for Microsoft Outlook Add-in application.
 
 Complete the following setup instructions:
 
 1.  Navigate to **Subscription Management** &gt; **Subscriptions** in your instance. The list displays the subscriptions that your organization has purchased.
 2.  Verify that the following plugins are activated:
-    -   [[workplace-safety-mgmt-hr|Workplace Core]] \(sn\_wsd\_core\) minimum version 2.6.
-    -   Latest version of [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] \(sn\_wsd\_rsv\).
-    -   Latest version of [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]] \( sn\_wsd\_rsvsync\).
+    -   Workplace Core \(sn\_wsd\_core\) minimum version 2.6.
+    -   Latest version of Workplace Reservation Management \(sn\_wsd\_rsv\).
+    -   Latest version of Workplace Calendar Synchronization \( sn\_wsd\_rsvsync\).
 
 Use the following details when required:
 
@@ -73,10 +73,3 @@ Role required: admin
 
 [Upload the manifest file in Microsoft Office 365]()
 
-## Related
-
-- [[workplace-rsv-for-outlook-addin-feat|Workplace Reservations for Microsoft Outlook Add-in]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]

@@ -26,13 +26,13 @@ If you have created COEs \(Center of Excellence\), then create service configura
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ur-landing-limitedaccess|Universal Request]]** &gt; **Administration**.
+1.  Navigate to **All** &gt; **Universal Request** &gt; **Administration**.
 
 2.  Create your service set and services for Universal Request.
 
 3.  Assign the assignment groups for service sets and services.
 
-4.  [[ur-assign-roles|Assign roles to UR users]].
+4.  Assign roles to UR users.
 
 5.  Map a custom state to that of a universal request.
 
@@ -40,7 +40,7 @@ If you have created COEs \(Center of Excellence\), then create service configura
 
     \[Omitted image "ur-hr-mapping.png"\] Alt text: State mapping
 
-6.  Set the [[configure-route-state|transfer configuration]] for any custom state of an HR case.
+6.  Set the transfer configuration for any custom state of an HR case.
 
     This transfer configuration allows you to determine what happens to the departmental ticket when the request is transferred to another department or back to UR.
 
@@ -48,7 +48,7 @@ If you have created COEs \(Center of Excellence\), then create service configura
 
 7.  Create record producers specific to an HR service.
 
-    A record producer is a specific type of catalog item that allows end users to create task-based records from the service catalog. On the record producer, if you select the **[[ur-create-universal-request-record|Create Universal Request]]** check box, an HR case created from that record producer automatically creates a universal request record.
+    A record producer is a specific type of catalog item that allows end users to create task-based records from the service catalog. On the record producer, if you select the **Create Universal Request** check box, an HR case created from that record producer automatically creates a universal request record.
 
     Following is an example of a record producer for General Inquiry HR service. When a user selects the catalog item as General Inquiry and creates a ticket, automatically a universal request is created and associated to that HR case.
 
@@ -57,9 +57,3 @@ If you have created COEs \(Center of Excellence\), then create service configura
 
 **Parent Topic:**[Universal Request for HR Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/universal-request-hr.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[ur-assign-roles|Assign roles to UR users]]
-- [[configure-route-state|Transfer configuration]]
-- [[ur-create-universal-request-record|Create Universal Request]]

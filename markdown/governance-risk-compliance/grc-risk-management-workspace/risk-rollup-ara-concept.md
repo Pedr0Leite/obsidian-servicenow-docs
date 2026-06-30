@@ -14,13 +14,13 @@ breadcrumb: [Advanced Risk Assessment, Explore, Risk Management, Governance, Ris
 
 # Risk score rollup in Advanced Risk Assessment
 
-In [[advanced-risk-assessment|Advanced Risk Assessment]], risk scores are calculated across risk statement hierarchy, entity hierarchy, or a combination of both. These methods enable stakeholders to monitor their risk posture and provide visibility of the overall aggregated risk score.
+In Advanced Risk Assessment, risk scores are calculated across risk statement hierarchy, entity hierarchy, or a combination of both. These methods enable stakeholders to monitor their risk posture and provide visibility of the overall aggregated risk score.
 
 Before you understand the rollup feature, consider the following points:
 
--   Each entity might have multiple scores based on the different [[airc-rams|risk assessment methodologies]].
--   Only the [[risk-assessments|risk assessments]] in the **Monitor** state contribute to the risk score.
--   Each risk assessment methodology might have a different formula to calculate the rollup qualitative score and the rollup quantitative score. The formula is specified in the **Rollup configurations** section in the [[risk-assessment-methodology-form|risk assessment methodology form]].
+-   Each entity might have multiple scores based on the different risk assessment methodologies.
+-   Only the risk assessments in the **Monitor** state contribute to the risk score.
+-   Each risk assessment methodology might have a different formula to calculate the rollup qualitative score and the rollup quantitative score. The formula is specified in the **Rollup configurations** section in the risk assessment methodology form.
 -   Whenever the Advanced Risk plugin is activated the risk scores get rolled up.
 
 ## Risk statement hierarchy
@@ -42,7 +42,7 @@ Using the Manage Aggregated Risk report, customers can define additional reporti
 
 ## Changes in reports and risk rollup method after migrating to Advanced Risk Assessment
 
-To utilize the new rollup score calculation, the risk administrator, with the role sn\_risk.admin, must first enable the **Migrate to Advanced Risk Assessments** property by navigating to **Advanced Risk Assessment** &gt; **[[Administration|Administration]]** &gt; **Properties**. This property is not enabled by default.
+To utilize the new rollup score calculation, the risk administrator, with the role sn\_risk.admin, must first enable the **Migrate to Advanced Risk Assessments** property by navigating to **Advanced Risk Assessment** &gt; **Administration** &gt; **Properties**. This property is not enabled by default.
 
 **Note:** It is crucial to note that when you enable the mentioned property, any customizations in the risk overview dashboard will be hidden. Contact ServiceNow for assistance. Also, the following properties in risk are not hidden when you migrate to advanced risk rollup:
 
@@ -81,10 +81,3 @@ When you migrate to advanced risk assessment, individual risk score values do no
 
 **Parent Topic:**[Advanced Risk Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/advanced-risk-assessment.md)
 
-## Related
-
-- [[advanced-risk-assessment|advanced risk assessment]]
-- [[airc-rams|Risk assessment methodologies]]
-- [[risk-assessments|risk assessments]]
-- [[risk-assessment-methodology-form|risk assessment methodology form]]
-- [[Administration|Administration]]

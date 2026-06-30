@@ -22,7 +22,7 @@ Role required: sn\_grc\_metric.manager, sn\_risk.user and sn\_compliance.user.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Risk** &gt; **[[risk-workspace|Risk Workspace]]** &gt; **Metrics** &gt; **Units**.
+1.  Navigate to **All** &gt; **Risk** &gt; **Risk Workspace** &gt; **Metrics** &gt; **Units**.
 
 2.  Click **New**.
 
@@ -42,6 +42,3 @@ The metric unit is saved in the Units list.
 
 **Parent Topic:**[Configuring metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/configuring-irm-metrics.md)
 
-## Related
-
-- [[risk-workspace|risk workspace]]

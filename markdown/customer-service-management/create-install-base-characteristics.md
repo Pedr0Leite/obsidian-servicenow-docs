@@ -12,7 +12,7 @@ breadcrumb: [Install base characteristics, Install base items, Configure install
 
 # Create the install base characteristics for an install base item
 
-Create a set of configurable characteristics for an install base item on the [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) application. You can then view the details about the install base item and the services that are associated to it.
+Create a set of configurable characteristics for an install base item on the Customer Service Management \(CSM\) application. You can then view the details about the install base item and the services that are associated to it.
 
 ## Before you begin
 
@@ -20,11 +20,11 @@ Role required: sn\_customerservice\_manager
 
 ## About this task
 
-Each product has its own set of attributes, some of which are configurable by the user and some that are non-configurable. Configurable characteristics are a set of characteristics related to an install base item that the user can choose or customize at the time of purchase. These characteristics differ from user to user and product to product. However, non-configurable characteristics are a set of fixed characteristics that are related to an install base item and can't be chosen or customized by the user at the time of purchase. To know more about characteristics, see [[attributes-and-configuration-of-install-base-management|Install base characteristics]].
+Each product has its own set of attributes, some of which are configurable by the user and some that are non-configurable. Configurable characteristics are a set of characteristics related to an install base item that the user can choose or customize at the time of purchase. These characteristics differ from user to user and product to product. However, non-configurable characteristics are a set of fixed characteristics that are related to an install base item and can't be chosen or customized by the user at the time of purchase. To know more about characteristics, see [Install base characteristics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/attributes-and-configuration-of-install-base-management.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Customer Service** &gt; **Products** &gt; **[[install-base-item|Install Base Items]]**.
+1.  Navigate to **All** &gt; **Customer Service** &gt; **Products** &gt; **Install Base Items**.
 
 2.  Open an install base item from the list.
 
@@ -51,8 +51,3 @@ Each product has its own set of attributes, some of which are configurable by th
 
 After creating an install base characteristic, the characteristic appears in the related list on the install base item form.
 
-## Related
-
-- [[attributes-and-configuration-of-install-base-management|Install base characteristics]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[install-base-item|Install base items]]

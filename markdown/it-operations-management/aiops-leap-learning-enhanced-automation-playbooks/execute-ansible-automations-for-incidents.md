@@ -15,7 +15,7 @@ breadcrumb: [Using LEAP, Learning Enhanced Automation Platform \(LEAP\), Now Ass
 
 # Execute Ansible automations for incidents
 
-Use the Ansible Execution Agent to automatically launch mapped Ansible job templates during incident [[ccg-remediation|remediation]] in the [[workspace-dashboard-use|Service Operations Workspace]], reducing manual effort and accelerating mean time to resolution..
+Use the Ansible Execution Agent to automatically launch mapped Ansible job templates during incident remediation in the Service Operations Workspace, reducing manual effort and accelerating mean time to resolution..
 
 ## Before you begin
 
@@ -102,7 +102,3 @@ After execution:
 -   Document any issues or improvements for future automation opportunity mappings.
 -   Consider updating step-to-job mappings based on execution results and feedback.
 
-## Related
-
-- [[ccg-remediation|Remediation]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

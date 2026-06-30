@@ -18,7 +18,7 @@ Suspend an entitlement by creating an order on the CSM Configurable Workspace. B
 
 You can suspend an entitlement when the associated root sold product is in Active state. For product inventory records, you can suspend an entitlement when the associated product inventory record is in Active state.
 
-**Note:** You can only [[Suspend|suspend]] entitlements associated with an account. You cannot suspend entitlements associated to customer contract lines.
+**Note:** You can only suspend entitlements associated with an account. You cannot suspend entitlements associated to customer contract lines.
 
 Role required: sn\_customerservice\_manager and sn\_ind\_tmt\_orm.order\_agent
 
@@ -36,7 +36,7 @@ Role required: sn\_customerservice\_manager and sn\_ind\_tmt\_orm.order\_agent
 
 6.  In the Suspend entitlement window, enter the period of suspension for the entitlement in the **Start date and time** and the **End date and time** field.
 
-    **Note:** If you do not enter a value in the **End date and time**, the entitlement will be suspended You can [[Resume|resume]] the entitlement manually by using the resume option. For more info, see [[cce-resume-entitlement|Resume an entitlement]].
+    **Note:** If you do not enter a value in the **End date and time**, the entitlement will be suspended You can resume the entitlement manually by using the resume option. For more info, see [Resume an entitlement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cce-resume-entitlement.md).
 
 7.  Add a reason for a suspension in the **Reason for suspension** field.
 
@@ -53,8 +53,3 @@ Role required: sn\_customerservice\_manager and sn\_ind\_tmt\_orm.order\_agent
 
 If you specify an end date and time, a resume order line item is created as a part of the same order. After this period of suspension, the entitlement will be in Active state again. After the end date of the entitlement, the suspended entitlement will move to Expired state.
 
-## Related
-
-- [[cce-resume-entitlement|Resume an entitlement]]
-- [[Suspend|Suspend]]
-- [[Resume|Resume]]

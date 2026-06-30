@@ -56,8 +56,6 @@ When you select a case, a form opens with the following sections:
     -   Reported on
     -   Assigned to agency
     -   Assigned to
-    For a detailed description of these fields, see [[government-service-case-form|Government Service Case form]].
+    For a detailed description of these fields, see [Government Service Case form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/government-service-case-form.md).
 
-## Related
 
-- [[government-service-case-form|Government Service Case form]]

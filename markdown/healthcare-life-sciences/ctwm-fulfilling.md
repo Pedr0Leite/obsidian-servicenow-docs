@@ -15,17 +15,12 @@ breadcrumb: [Care Team Work Management, Healthcare Operations, Healthcare and Li
 
 Fulfill the cases and task generated from care team task plans.
 
--   [[ctwm-fulfill-healthcare-orchestration-cases-tasks|Fulfill healthcare orchestration cases and tasks]]
+-   [Fulfill healthcare orchestration cases and tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/ctwm-fulfill-healthcare-orchestration-cases-tasks.md)
 
-    Fulfill the [[healthcare-operations-overview|healthcare operations]] orchestration cases and tasks created from task plans.
+    Fulfill the healthcare operations orchestration cases and tasks created from task plans.
 
--   [[ctwm-fulfill-care-team-cases-tasks|Fulfill care team case and tasks]]
+-   [Fulfill care team case and tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/ctwm-fulfill-care-team-cases-tasks.md)
 
-    Fulfill the [[ctwm-care-team-case|care team cases and tasks]] created from task plans.
+    Fulfill the care team cases and tasks created from task plans.
 
-## Related
 
-- [[ctwm-fulfill-healthcare-orchestration-cases-tasks|Fulfill healthcare orchestration cases and tasks]]
-- [[ctwm-fulfill-care-team-cases-tasks|Fulfill care team case and tasks]]
-- [[healthcare-operations-overview|Healthcare Operations]]
-- [[ctwm-care-team-case|Care team cases and tasks]]

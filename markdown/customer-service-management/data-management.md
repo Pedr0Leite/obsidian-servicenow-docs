@@ -12,7 +12,7 @@ breadcrumb: [Set up your environment, Configure, Customer Service Management]
 
 # Getting started with Customer Service Management
 
-Activate the Customer Service plugin and plan your [[c_CustomerServiceManagement|Customer Service Management]] implementation by installing additional plugins.
+Activate the Customer Service plugin and plan your Customer Service Management implementation by installing additional plugins.
 
 <table id="table_h5y_mp5_41c"><thead><tr><th>
 
@@ -24,7 +24,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[t_ActivateCustomerService|Activate Customer Service Management]]
+[Activate Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/t_ActivateCustomerService.md)
 
 </td><td>
 
@@ -32,7 +32,7 @@ As an admin, activate the Customer Service plugin \(com.sn\_customerservice\). T
 
 </td></tr><tr><td>
 
-[[plugins-activated-with-csm|Plugins activated with Customer Service Management]]
+[Plugins activated with Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/plugins-activated-with-csm.md)
 
 </td><td>
 
@@ -40,7 +40,7 @@ Refer the list of related CSM plugins that are activated after activating the Cu
 
 </td></tr><tr><td>
 
-[[r_CustServMgmtAddtlPluginsTable|Additional plugins for Customer Service Management]]
+[Additional plugins for Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_CustServMgmtAddtlPluginsTable.md)
 
 </td><td>
 
@@ -48,33 +48,19 @@ Refer the list of additional CSM plugins that you can activate after activating 
 
 </td></tr><tr><td>
 
-[[configure-csm-properties|Customer Service properties]]
+[Customer Service properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-csm-properties.md)
 
 </td><td>
 
-Customize settings for several different features, including email communication, asset [[c_ContactRelationships|contact relationships]], and the Consumer Service Portal.
+Customize settings for several different features, including email communication, asset contact relationships, and the Consumer Service Portal.
 
 </td></tr><tr><td>
 
-[[configure-csm-foundation-data|Configure foundation data]]
+[Configure foundation data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-csm-foundation-data.md)
 
 </td><td>
 
-Import customer information including names, addresses, and phone numbers; accounts, contacts, consumers, users, groups, group members, [[product-models|product models]], and assets.[[configure-data-model-roles|Assign roles]] to groups or to individual users. [[create-csm-service-contracts|Create service contracts]] and entitlements. [[c_CustomerServiceRelationships|Create customer relationships]], asset relationships, and account teams.
+Import customer information including names, addresses, and phone numbers; accounts, contacts, consumers, users, groups, group members, product models, and assets.Assign roles to groups or to individual users. Create service contracts and entitlements. Create customer relationships, asset relationships, and account teams.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[t_ActivateCustomerService|Activate Customer Service Management]]
-- [[plugins-activated-with-csm|Plugins activated with Customer Service Management]]
-- [[r_CustServMgmtAddtlPluginsTable|Additional plugins for Customer Service Management]]
-- [[configure-csm-properties|Customer Service properties]]
-- [[configure-csm-foundation-data|Configure foundation data]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[c_ContactRelationships|Contact relationships]]
-- [[product-models|Product models]]
-- [[configure-data-model-roles|Assign roles]]
-- [[create-csm-service-contracts|Create service contracts]]
-- [[c_CustomerServiceRelationships|Create customer relationships]]

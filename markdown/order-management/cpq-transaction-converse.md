@@ -14,7 +14,7 @@ breadcrumb: [CPQ, Configure, price, quote, Explore, Sales Customer Relationship 
 
 With Transaction Converse, you can use natural language to manage line items in transactions and quotes. Add, update, and delete items quickly and intuitively with conversational commands, even in complex transactions with many line items.
 
-The new Transaction Converse feature in [[transaction-manager|Transaction Manager]] simplifies and accelerates the way users manage line items in transactions and quotes. Using natural language to interact add, delete, and update line items makes dealing with complex transactions with numerous line items easier.
+The new Transaction Converse feature in Transaction Manager simplifies and accelerates the way users manage line items in transactions and quotes. Using natural language to interact add, delete, and update line items makes dealing with complex transactions with numerous line items easier.
 
 ## Key features
 
@@ -38,7 +38,7 @@ The new Transaction Converse feature in [[transaction-manager|Transaction Manage
 
     Users can upload files to quickly add products and update price and quantity.
 
-    -   If the uploaded file includes non-[[configurable-products-explore|configurable products]] that are not currently in the transaction, the products are added to the transaction with their corresponding prices and quantities. \(Configurable products cannot be added at this time.\)
+    -   If the uploaded file includes non-configurable products that are not currently in the transaction, the products are added to the transaction with their corresponding prices and quantities. \(Configurable products cannot be added at this time.\)
     -   If the uploaded file includes products that are already in the transaction, their prices and quantities are updated to match the file. Both configurable and non-configurable products can be updated in this way.
     -   Products that are in the transaction but not in the uploaded file are not updated and remain unchanged.
     Transaction Converse supports comma-separated value \(.csv\) files and Excel format \(.xlsx\) files for upload.
@@ -60,7 +60,3 @@ The new Transaction Converse feature in [[transaction-manager|Transaction Manage
 
 Using Transaction Converse, Transaction Manager customers can transform how they manage transaction data, making the process faster, more intuitive, and increasingly tailored to their needs.
 
-## Related
-
-- [[transaction-manager|Transaction Manager]]
-- [[configurable-products-explore|Configurable products]]

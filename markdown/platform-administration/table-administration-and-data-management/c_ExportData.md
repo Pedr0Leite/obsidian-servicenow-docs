@@ -20,7 +20,7 @@ Export data from the ServiceNow AI Platform in a variety of formats.
 
 -   Export an individual record to a PDF or XML file directly from a form. See [Export data from a record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/export-form-data.md).
 -   Export multiple records to a CSV, Excel, PDF, XML, or Google Sheets file directly from a list. See [Export data from a list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/export-list-data.md).
--   Export multiple records from a table using the CSV, Excel, PDF, or XML processor in a URL with optional [[r_DirectJDBCProbeParameters|parameters]]. See [Export directly from a URL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/t_ExportDirectlyFromTheURL.md).
+-   Export multiple records from a table using the CSV, Excel, PDF, or XML processor in a URL with optional parameters. See [Export directly from a URL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/t_ExportDirectlyFromTheURL.md).
 
 You can also export data from your instance using the following options:
 
@@ -58,7 +58,7 @@ CSV
 
 Export table records as a comma-separated value text file. Use this option to export the currently displayed fields in the list or form as a text file. Configure the list or form to add or remove fields from the export. When exported to CSV, dot-walked fields appear using their full field name, such as u\_assignment\_group.parent.
 
- **Note:** By default, ServiceNow exports all CSV files in Windows-1252 encoding. If you need to export translated data, set the **glide.export.csv.charset** [[r_AvailableSystemProperties|system property]] to UTF-8.
+ **Note:** By default, ServiceNow exports all CSV files in Windows-1252 encoding. If you need to export translated data, set the **glide.export.csv.charset** [system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md) to UTF-8.
 
 </td></tr><tr><td>
 
@@ -115,7 +115,3 @@ The file type you export to, such as CSV or PDF, determines how column headers a
 |XML|field\_name|
 |JSON|field\_name|
 
-## Related
-
-- [[r_AvailableSystemProperties|Available system properties]]
-- [[r_DirectJDBCProbeParameters|Parameters]]

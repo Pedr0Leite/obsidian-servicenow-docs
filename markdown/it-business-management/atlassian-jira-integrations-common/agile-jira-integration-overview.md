@@ -14,9 +14,9 @@ breadcrumb: [Strategic Portfolio Management]
 
 # Atlassian Jira Integration for Agile Development
 
-Enable bidirectional synchronization of records between Atlassian Jira and ServiceNow® [[agile-development|Agile Development]] by integrating the two applications.
+Enable bidirectional synchronization of records between Atlassian Jira and ServiceNow® Agile Development by integrating the two applications.
 
-If the source of your work is in the ServiceNow platform while the progress of the work is tracked in Jira, you can perform integrated tracking of your product development efforts by integrating [[agile-landing-page|Agile Development 2.0]] with Jira.
+If the source of your work is in the ServiceNow platform while the progress of the work is tracked in Jira, you can perform integrated tracking of your product development efforts by integrating Agile Development 2.0 with Jira.
 
 For example, if you update a record in Jira, you can find that update in Agile Development 2.0. Similarly, if you update a record in Agile Development 2.0, you can find the same update in Jira.
 
@@ -60,10 +60,5 @@ Understand the workflow for the import and export of issues between Agile Develo
 -   **[Troubleshooting issues of Jira integration with Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/atlassian-jira-integrations-common/agile-jira-integration-troubleshooting.md)**  
 Resolve common issues that you might face while working with the integration of Jira and Agile Development 2.0.
 
-**Parent Topic:**[[r_ITBusinessManagement|Strategic Portfolio Management]]
+**Parent Topic:**[Strategic Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/r_ITBusinessManagement.md)
 
-## Related
-
-- [[r_ITBusinessManagement|Strategic Portfolio Management]]
-- [[agile-development|Agile Development]]
-- [[agile-landing-page|Agile Development 2.0]]

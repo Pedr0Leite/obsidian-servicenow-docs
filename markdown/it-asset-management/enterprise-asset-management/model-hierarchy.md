@@ -14,7 +14,7 @@ breadcrumb: [Enterprise Asset Management data model, Explore, Enterprise Asset M
 
 # Model categories
 
-Model categories define the relationships between enterprise model classes, enterprise asset classes, and Configuration Management Database \(CMDB\) CI classes in [[enterprise-asset-management|Enterprise Asset Management]]. Model categories connect every enterprise asset to the correct model class, asset class, and CI class.
+Model categories define the relationships between enterprise model classes, enterprise asset classes, and Configuration Management Database \(CMDB\) CI classes in Enterprise Asset Management. Model categories connect every enterprise asset to the correct model class, asset class, and CI class.
 
 ## Overview of model categories
 
@@ -37,7 +37,7 @@ Beyond routing records into the correct classes, model categories serve three pu
 
 1.  Asset and CI record creation: EAM uses the model category to place assets in the correct asset class and create linked CI records in the correct CI class.
 2.  Bi-directional asset-CI synchronization: The model category mapping keeps asset and CI records in sync. Changes to state, location, or assignment are reflected in both records.
-3.  Discovery and identification rules: Model categories use configured CMDB IRE rules to define asset unique identifiers. These identifiers determine how the system recognizes assets when data arrives from Discovery or [[c_Procurement|Procurement]].
+3.  Discovery and identification rules: Model categories use configured CMDB IRE rules to define asset unique identifiers. These identifiers determine how the system recognizes assets when data arrives from Discovery or Procurement.
 
 ## Parent and child model categories
 
@@ -59,7 +59,3 @@ Custom model categories must be children of one of the nine seeded parent catego
 
 **Parent Topic:**[Enterprise Asset Management data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/eam-data-model.md)
 
-## Related
-
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[c_Procurement|Procurement]]

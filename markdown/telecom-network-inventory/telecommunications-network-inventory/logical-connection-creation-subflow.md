@@ -14,7 +14,7 @@ breadcrumb: [Subflows, Reference, Telecommunications Network Inventory]
 
 # Logical Connection Creation subflow
 
-The Logical Connection Creation subflow enables you to create a logical connection record in the [[telecom-network-inventory|Telecommunications Network Inventory]] application based on the input that you receive when you instantiate an inventory.
+The Logical Connection Creation subflow enables you to create a logical connection record in the Telecommunications Network Inventory application based on the input that you receive when you instantiate an inventory.
 
 You can use the Logical Connection subflow to create a logical connection on your network interface cards.
 
@@ -36,7 +36,7 @@ The following table lists the input fields in the Logical Connection Creation su
 |Interface Z|Ending network interface where this logical connection is configured.|Reference.Network Interface|
 |Bandwidth|Bandwidth of the logical connection.|Reference.Bandwidth|
 |Connection Type|Type of connection. This field information updates the product model that is associated with the physical connection.|Reference.Logical Connection Model|
-|Connection elements|Connection elements that are added for the [[design-logical-connection-design-assign-playbook|logical connections]]. Select the add icon \(\[Omitted image "add-icon-1.png"\] Alt text: Add icon.\) to add a connection element.|Array.String|
+|Connection elements|Connection elements that are added for the logical connections. Select the add icon \(\[Omitted image "add-icon-1.png"\] Alt text: Add icon.\) to add a connection element.|Array.String|
 
 To learn more about the variable data types, see Flow Designer input and output data variables.
 
@@ -81,7 +81,3 @@ The following table lists the information about the subflow's output.
 
 [Workflows in Flow Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telecommunication-network-inventory-workflows-flow-designer.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[design-logical-connection-design-assign-playbook|Logical connections]]

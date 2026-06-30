@@ -14,15 +14,15 @@ breadcrumb: [Configure, Industrial Process Manager, Operational Technology]
 
 # Importing equipment model data
 
-The scheduled import function enables you to import your existing equipment model data from a populated Microsoft Excel flat-file spreadsheet. You can use it to import your [[isa-95-equipment-model|ISA-95 Equipment Model]] data to the Configuration Management Database \(CMDB\).
+The scheduled import function enables you to import your existing equipment model data from a populated Microsoft Excel flat-file spreadsheet. You can use it to import your ISA-95 Equipment Model data to the Configuration Management Database \(CMDB\).
 
-You must [[install-manufacturing-process-mgr|install the Industrial Process Manager]] before importing equipment model data.
+You must install the Industrial Process Manager before importing equipment model data.
 
 Several methods are available for importing the equipment model data into the ServiceNow AI Platform:
 
 1.  If you use the spreadsheet to import the data, you must populate the Microsoft Excel spreadsheet with your existing ISA-95 Equipment Model data and run the **SG-Equipment Model Scheduled Import Using Spreadsheet** scheduled import. Many legacy record systems contain functions that enable you to export this data to an Excel spreadsheet, which means that you don't have to populate it manually.
 2.  Several ServiceNow partners are also developing integrations to third-party legacy record systems that store equipment model data.
-    -   When these integrations become available, you can find them on the ServiceNow Store by searching for [[operational-technology-overview|Operational Technology]] certified integrations for the [[industrial-process-manager-overview|Industrial Process Manager]].
+    -   When these integrations become available, you can find them on the ServiceNow Store by searching for Operational Technology certified integrations for the Industrial Process Manager.
     -   Install those integrations that are applicable to your environment, and run them as needed.
 
 By using these import methods, you can update existing equipment models in the ServiceNow AI Platform with the data that is stored in your authoritative source when needed. For newly imported data, the ServiceNow AI Platform automatically creates Equipment Model Entity CI class records in the Configuration Management Database \(CMDB\).
@@ -57,9 +57,3 @@ After you complete your Microsoft Excel spreadsheet with your equipment model da
 
 **Parent Topic:**[Configuring the Industrial Process Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/configuring-manufacturing-process-mgr.md)
 
-## Related
-
-- [[isa-95-equipment-model|ISA-95 equipment model]]
-- [[install-manufacturing-process-mgr|Install the Industrial Process Manager]]
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-process-manager-overview|Industrial Process Manager]]

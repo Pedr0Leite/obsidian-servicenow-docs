@@ -24,7 +24,7 @@ Playbooks provide a structured way to manage work by guiding teams through prede
 
 ## Playbook benefits
 
-[[use-playbooks-pw|Use playbooks in Project Workspace]] to guide project teams through standard project stages and activities and ensure consistency across all projects. For example:
+Use playbooks in Project Workspace to guide project teams through standard project stages and activities and ensure consistency across all projects. For example:
 
 -   Set up a new project using predefined stages and action items.
 -   Provide self-educating guidance for first-time users.
@@ -52,6 +52,3 @@ In a Stage-gate playbook, the stages and tasks must be completed in a linear ord
 
 [Use Playbooks in Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/use-playbooks-pw.md)
 
-## Related
-
-- [[use-playbooks-pw|Use Playbooks in Project Workspace]]

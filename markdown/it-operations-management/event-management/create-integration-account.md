@@ -19,7 +19,7 @@ Create a dedicated account with the evt\_mgmt\_integration role for third-party 
 
 ## Before you begin
 
-Verify that the [[itom-health-landing-page|ITOM AIOps]] and Now Assist for [[r_ITOMApplications|IT Operations Management]] plugins are installed.
+Verify that the ITOM AIOps and Now Assist for IT Operations Management plugins are installed.
 
 Ensure you're in the Configure IT Operations Management page.
 
@@ -33,7 +33,7 @@ A dedicated integration account ensures third-party monitoring systems have secu
 
 ## Procedure
 
-1.  Navigate to **Configuration Summary** &gt; **[[c_EM|Event Management]]** &gt; **Platform foundations**.
+1.  Navigate to **Configuration Summary** &gt; **Event Management** &gt; **Platform foundations**.
 
 2.  Expand **Platform foundations**.
 
@@ -53,8 +53,4 @@ A dedicated integration account ensures third-party monitoring systems have secu
 
 8.  To complete the setup, select **Mark as configured**.
 
-## Related
 
-- [[itom-health-landing-page|ITOM AIOps]]
-- [[r_ITOMApplications|IT Operations Management]]
-- [[c_EM|Event Management]]

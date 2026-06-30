@@ -14,7 +14,7 @@ breadcrumb: [Managing projects with Project Workspace, Project Workspace, Projec
 
 # Generate and track project details from AI insights page
 
-Generate and monitor project insights directly from AI insights page in [[project-workspace-landing-page|Project Workspace]].
+Generate and monitor project insights directly from AI insights page in Project Workspace.
 
 ## Before you begin
 
@@ -68,6 +68,3 @@ The project insights are generated from the AI insights page with access to curr
 
 **Parent Topic:**[Managing projects with Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/use-projects-pw.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]

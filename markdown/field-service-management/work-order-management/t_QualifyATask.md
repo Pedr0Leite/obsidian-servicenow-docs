@@ -14,7 +14,7 @@ breadcrumb: [Qualify a work order, Manage work orders, Prepare work orders, Use,
 
 # Qualify a work order
 
-When a work order is assigned to you for qualification, review and qualify its tasks to ensure that they contain enough information for the groups that are dispatched to work on them. Qualifying work order tasks is required only when [[fsm-application-landing-page|Field Service Management]] is configured for manual qualification.
+When a work order is assigned to you for qualification, review and qualify its tasks to ensure that they contain enough information for the groups that are dispatched to work on them. Qualifying work order tasks is required only when Field Service Management is configured for manual qualification.
 
 ## Before you begin
 
@@ -50,6 +50,4 @@ On the Work Order form, you can qualify tasks from the Work Order Tasks related 
 
     2.  From the **Actions** choice list, select **Qualified**.
 
-## Related
 
-- [[fsm-application-landing-page|Field Service Management]]

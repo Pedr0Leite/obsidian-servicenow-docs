@@ -12,17 +12,17 @@ breadcrumb: [Care Team Operations for Environmental Services, Healthcare Operati
 
 # Exploring Care Team Operations for Environmental Services
 
-Use the [[cto-evs-landing|Care Team Operations for Environmental Services]] application to support your care team in resolving environmental support issues quickly and efficiently.
+Use the Care Team Operations for Environmental Services application to support your care team in resolving environmental support issues quickly and efficiently.
 
 ## Care Team Operations for Environmental Services overview
 
 Care Team Operations for Environmental Services contains the case types to report and fulfill environmental support issues in hospitals.
 
-Care Team Operations for Environmental Services provides care teams with a streamlined platform to report issues for environmental support. Using the [[care-team-portal-landing|Care Team Portal]], care team members can raise an issue with the Environmental Services case type. A work order is then automatically created from this case, which support agents in the Environmental Services department then manage using the Service Operations workspace as they fix the issue.
+Care Team Operations for Environmental Services provides care teams with a streamlined platform to report issues for environmental support. Using the Care Team Portal, care team members can raise an issue with the Environmental Services case type. A work order is then automatically created from this case, which support agents in the Environmental Services department then manage using the Service Operations workspace as they fix the issue.
 
 A range of service requests come preconfigured for use with Care Team Operations for Environmental Services. The Healthcare EVS case \[sn\_cto\_evs\_case\] type can also be extended to create custom request types.
 
-**Note:** Care Team Operations for Environmental Services requires installation of the [[hcls-cto-app|Healthcare Operations Core]] and Care Team Portal plugins.
+**Note:** Care Team Operations for Environmental Services requires installation of the Healthcare Operations Core and Care Team Portal plugins.
 
 ## Care Team Operations for Environmental Services users
 
@@ -47,28 +47,16 @@ A range of service requests come preconfigured for use with Care Team Operations
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Automate [[healthcare-operations-overview|healthcare operations]] by enabling Environmental Services support request creation and fulfillment.|[[cto-evs-case-overview|Healthcare EVS case overview]]|Admin|
-|Create support requests [[care-team-portal-using|using Care Team Portal]].|[[cto-evs-create-requests|Creating service requests for Care Team Operations for Environmental Services]]|Care team|
-|Use CSM/FSM Configurable Workspace to fulfill EVS service requests as work orders when FSM is installed, or as cases.|[[cto-evs-fulfill-requests|Fulfilling requests in Care Team Operations for Environmental Services]]|Agent|
+|Automate healthcare operations by enabling Environmental Services support request creation and fulfillment.|[Healthcare EVS case overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/cto-evs-case-overview.md)|Admin|
+|Create support requests using Care Team Portal.|[Creating service requests for Care Team Operations for Environmental Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/cto-evs-create-requests.md)|Care team|
+|Use CSM/FSM Configurable Workspace to fulfill EVS service requests as work orders when FSM is installed, or as cases.|[Fulfilling requests in Care Team Operations for Environmental Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/cto-evs-fulfill-requests.md)|Agent|
 
 ## What to explore next
 
 To learn more about configuring and using Care Team Operations for Environmental Services, see:
 
--   [[cto-evs-configuring|Configuring Care Team Operations for Environmental Services]]
+-   [Configuring Care Team Operations for Environmental Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/cto-evs-configuring.md)
 -   [Creating service requests for Care Team Operations for Environmental Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/cto-evs-create-requests.md)
 -   [Fulfilling requests in Care Team Operations for Environmental Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/cto-evs-fulfill-requests.md)
--   [[cto-evs-reference|Care Team Operations for Environmental Services Reference]]
+-   [Care Team Operations for Environmental Services Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/cto-evs-reference.md)
 
-## Related
-
-- [[cto-evs-case-overview|Healthcare EVS case overview]]
-- [[cto-evs-create-requests|Creating service requests for Care Team Operations for Environmental Services]]
-- [[cto-evs-fulfill-requests|Fulfilling requests in Care Team Operations for Environmental Services]]
-- [[cto-evs-configuring|Configuring Care Team Operations for Environmental Services]]
-- [[cto-evs-reference|Care Team Operations for Environmental Services Reference]]
-- [[cto-evs-landing|Care Team Operations for Environmental Services]]
-- [[care-team-portal-landing|Care Team Portal]]
-- [[hcls-cto-app|Healthcare Operations Core]]
-- [[healthcare-operations-overview|Healthcare Operations]]
-- [[care-team-portal-using|Using Care Team Portal]]

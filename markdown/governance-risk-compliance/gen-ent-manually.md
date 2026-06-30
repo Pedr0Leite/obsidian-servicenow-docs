@@ -12,7 +12,7 @@ breadcrumb: [Setting up pillars, entity types, entity filters, and entities, Con
 
 # Add entities manually
 
-Add entities manually from the [[grc-opres-landing-page|Operational Resilience]] Workspace as an optional step once pillars, [[entity-type-in-risk-ws|entity types]], and [[what-is-an-entity-filter|entity filters]] are active. Entities are individual records matching your filter criteria. Automatic generation is recommended for most scenarios; manual addition is available for exceptions.
+Add entities manually from the Operational Resilience Workspace as an optional step once pillars, entity types, and entity filters are active. Entities are individual records matching your filter criteria. Automatic generation is recommended for most scenarios; manual addition is available for exceptions.
 
 ## Before you begin
 
@@ -20,11 +20,11 @@ Role required: sn\_oper\_res.admin, sn\_oper\_res.manager
 
 ## About this task
 
-For automatic generation of the entities, see [[gen-ent-auto|Generate entities automatically using a scheduled job]].
+For automatic generation of the entities, see [Generate entities automatically using a scheduled job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/gen-ent-auto.md).
 
 ## Procedure
 
-1.  Navigate to the **Workspaces** &gt; **Operational Resilience Workspace** &gt; **[[list-view-uib-ws|List view]]** and select a business service or business process for which you want to generate entities.
+1.  Navigate to the **Workspaces** &gt; **Operational Resilience Workspace** &gt; **List view** and select a business service or business process for which you want to generate entities.
 
 2.  To add a business service or business process, select **New**.
 
@@ -34,7 +34,7 @@ For automatic generation of the entities, see [[gen-ent-auto|Generate entities a
 
 3.  On the form, fill in the fields.
 
-    The form for creating a business service is shown in the example. For information on the fields in the record form, see [[create-new-business-service-form|Create New Business Service form]] and [[create-new-business-process-form|Create New Business Process form]].
+    The form for creating a business service is shown in the example. For information on the fields in the record form, see [Create New Business Service form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-new-business-service-form.md) and [Create New Business Process form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-new-business-process-form.md).
 
     \[Omitted image "add-ent-manually-opres-ws-2.png"\] Alt text: Create a new business service.
 
@@ -52,12 +52,4 @@ For automatic generation of the entities, see [[gen-ent-auto|Generate entities a
 
 6.  To view the entity record, select **Go to entity** from the record header.
 
-## Related
 
-- [[gen-ent-auto|gen ent auto]]
-- [[create-new-business-service-form|Create New Business Service form]]
-- [[create-new-business-process-form|Create New Business Process form]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[entity-type-in-risk-ws|Entity types]]
-- [[what-is-an-entity-filter|Entity filters]]
-- [[list-view-uib-ws|List view]]

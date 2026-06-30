@@ -15,7 +15,7 @@ breadcrumb: [Reference, AI Search, Search administration, Configure core feature
 
 # Semantic Index Configuration form
 
-The Semantic Index Configuration form enables you to define semantic indexing settings for an [[ia-ai-search|AI Search]] indexed source.
+The Semantic Index Configuration form enables you to define semantic indexing settings for an AI Search indexed source.
 
 For details on defining and modifying semantic indexing settings for an indexed source, see [Configure semantic indexing settings for an indexed source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-semantic-indexing-ais.md).
 
@@ -56,7 +56,7 @@ Active
 
 </td><td>
 
-Option to make the semantic index configuration active for your instance. AI Search ignores inactive semantic index [[clone-configurations-tab|configurations]] when indexing content from the specified index source.
+Option to make the semantic index configuration active for your instance. AI Search ignores inactive semantic index configurations when indexing content from the specified index source.
 
 </td></tr><tr><td>
 
@@ -64,7 +64,7 @@ Indexed Source
 
 </td><td>
 
-[[reference-email-admin|Reference]] to the AI Search indexed source that you want to apply this semantic index configuration to. This field is automatically set. For more details on indexed sources, see [Indexed sources in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/indexed-sources-ais.md).
+Reference to the AI Search indexed source that you want to apply this semantic index configuration to. This field is automatically set. For more details on indexed sources, see [Indexed sources in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/indexed-sources-ais.md).
 
 </td></tr><tr><td>
 
@@ -144,8 +144,3 @@ Maximum number of words to index for semantic vector search from the concatenate
 </td></tr></tbody>
 </table>**Parent Topic:**[AI Search reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/reference-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[clone-configurations-tab|Configurations]]
-- [[reference-email-admin|Reference]]

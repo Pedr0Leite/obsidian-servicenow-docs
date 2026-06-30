@@ -51,7 +51,7 @@ Find answers to common questions about setting up and running evaluations.
     -   Assess deployment readiness
     -   Analyze tool performance for issues with inputs or descriptions
     -   Drill down into individual executions and metric scores
-    Return to [[ai-agent-studio|AI Agent Studio]] to refine your configuration, then rerun evaluations to track improvements.
+    Return to AI Agent Studio to refine your configuration, then rerun evaluations to track improvements.
 
 -   **How do I create a custom metric?**
 
@@ -74,6 +74,4 @@ Find answers to common questions about setting up and running evaluations.
 
     When creating a custom metric for agentic evaluations, providing a metric input is optional—we include the 'execution plan record sys\_id' by default. We also provide a parser tool that pulls structured data from your execution logs, so you won't need to manually parse through the XML or JSON. You can access the parser tool's outputs with tool output.
 
-## Related
 
-- [[ai-agent-studio|AI Agent Studio]]

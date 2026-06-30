@@ -16,7 +16,7 @@ breadcrumb: [Configure, Vaccine Administration Management, Healthcare and Life S
 
 Administer multi-vaccine appointment bookings based on auto-selection and manual selection of the vaccine method. You can select your preferred vaccine method based on the eligibility criteria, order of method selection, and inventory availability.
 
-You can manage multi-vaccine appointment bookings after making configuration changes to the [[vam-system-properties|Vaccine Administration Management system properties]]. Multi-vaccine functionality can be broadly categorized into auto-selection of the vaccine method and manual selection of the vaccine method.
+You can manage multi-vaccine appointment bookings after making configuration changes to the Vaccine Administration Management system properties. Multi-vaccine functionality can be broadly categorized into auto-selection of the vaccine method and manual selection of the vaccine method.
 
 **Note:** If your first appointment has been completed, you can’t change the method. However, you have the flexibility to change the method while rescheduling your first dose. While rescheduling your appointment, if you change the method, it automatically applies to the second dose as well.
 
@@ -42,6 +42,3 @@ If the slot selection system property \(**sn\_vaccine\_sm.enable\_appointment\_s
 
 **Parent Topic:**[Configuring Vaccine Administration Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/vaccine-mgmt-config.md)
 
-## Related
-
-- [[vam-system-properties|Vaccine Administration Management system properties]]

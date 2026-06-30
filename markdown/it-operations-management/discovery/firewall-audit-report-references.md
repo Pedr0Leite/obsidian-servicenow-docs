@@ -20,7 +20,7 @@ Explore further details on Firewall Audits and Reporting calibration by reviewin
 
 -   **Palo Alto Firewall Manager**
 
-    This serverless pattern utilizes the large payload feature for persisting security policies. [[r-discovery|Discovery]] admins can establish a schedule using this pattern. When **Run Child Patterns** is enabled, the following child patterns are automatically executed in the specified order:
+    This serverless pattern utilizes the large payload feature for persisting security policies. Discovery admins can establish a schedule using this pattern. When **Run Child Patterns** is enabled, the following child patterns are automatically executed in the specified order:
 
     -   PaloAlto - Firewall Manager
     -   PaloAlto Firewall Devices
@@ -29,6 +29,3 @@ Explore further details on Firewall Audits and Reporting calibration by reviewin
 
 **Parent Topic:**[Firewall Audits and Reporting reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/firewall-audit-report-reference.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

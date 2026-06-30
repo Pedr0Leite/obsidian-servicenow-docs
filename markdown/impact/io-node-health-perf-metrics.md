@@ -12,7 +12,7 @@ breadcrumb: [Overview of Instance Observer metrics, Instance Observer reference,
 
 # Node health performance metrics
 
-The metrics provide the node health [[instance-observer-performance|performance]] snapshot within the ServiceNow AI Platform®.
+The metrics provide the node health performance snapshot within the ServiceNow AI Platform®.
 
 ## Node CPU Time
 
@@ -32,7 +32,7 @@ Node Memory Max is the in use memory max \(Megabytes\) per node at a given data 
 
 Garbage Collection Mean Time is the percentage of time spent doing Java garbage collection. It is the average of three samples; one sample being collected every 20 seconds. The values are collected for specific nodes and do not distinguish between the type of garbage collection. For example, young vs. old.
 
-**Parent Topic:**[[instance-observer-ovr-metric|Overview of Instance Observer metrics]]
+**Parent Topic:**[Overview of Instance Observer metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/instance-observer-ovr-metric.md)
 
 **Related topics**  
 
@@ -41,7 +41,7 @@ Garbage Collection Mean Time is the percentage of time spent doing Java garbage 
 
 [Anomaly insights]()
 
-[Feature [[io-availability|availability]] based on package]()
+[Feature availability based on package]()
 
 [Auriga Intelligent Alert report]()
 
@@ -77,8 +77,3 @@ Garbage Collection Mean Time is the percentage of time spent doing Java garbage 
 
 [Instance Data Replication]()
 
-## Related
-
-- [[instance-observer-ovr-metric|Overview of Instance Observer metrics]]
-- [[instance-observer-performance|Performance]]
-- [[io-availability|Availability]]

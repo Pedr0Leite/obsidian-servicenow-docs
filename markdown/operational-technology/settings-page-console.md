@@ -47,7 +47,7 @@ The Console tab on the main Settings page is divided into the following sections
 
 **Certificate**
 
-On the [[certificate-tab|Certificate tab]], you can check the Console Certificate status. You can also update the certificate by selecting Generate New Bundle or Upload Bundle \(.p12\) and then selecting the **Generate Bundle** button.
+On the Certificate tab, you can check the Console Certificate status. You can also update the certificate by selecting Generate New Bundle or Upload Bundle \(.p12\) and then selecting the **Generate Bundle** button.
 
 **Note:** The Certificate tab does not function the same as the **Certificates** page.
 
@@ -87,7 +87,7 @@ CVE Database Package
 
 Enables you to import a CVE package.You can use the **Import CVE Package** button to import a package locally saved on your computer.
 
-**Note:** You can obtain a current CVE database file from your ServiceNow [[operational-technology-discovery-landing|Operational Technology Discovery]] representative.
+**Note:** You can obtain a current CVE database file from your ServiceNow Operational Technology Discovery representative.
 
 </td></tr><tr><td>
 
@@ -124,7 +124,7 @@ In the Package tab, you can use the package source options under the **Package M
 
 **Reprocess**
 
-The Reprocess feature allows the system to reevaluate previously collected Auto Query scan results using the latest query driver logic. See [[reprocess-tab-results|Reprocess Auto Query results]] for more information.
+The Reprocess feature allows the system to reevaluate previously collected Auto Query scan results using the latest query driver logic. See [Reprocess Auto Query results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/reprocess-tab-results.md) for more information.
 
 **Syslog**
 
@@ -134,11 +134,5 @@ In the Syslog tab, you can configure a syslog server. After configuring these se
 
 From the Logs tab, you can download Discovery Console for OT logs. You have the option to choose whether to download logs on the current day, on a custom date, or on a date range.
 
-For further information on Console and Sensor log files, see [[download-console-log-files|Download Console log files]].
+For further information on Console and Sensor log files, see [Download Console log files](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/download-console-log-files.md).
 
-## Related
-
-- [[reprocess-tab-results|Reprocess Auto Query results]]
-- [[download-console-log-files|Download Console log files]]
-- [[certificate-tab|Certificate tab]]
-- [[operational-technology-discovery-landing|Operational Technology Discovery]]

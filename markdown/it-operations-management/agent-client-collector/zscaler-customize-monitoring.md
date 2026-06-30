@@ -26,7 +26,7 @@ For details on customizing the Zscaler monitoring check, see [Perform Zscaler re
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-landing-page|Agent Client Collector]]** &gt; **Configuration** &gt; **Policies**.
+1.  Navigate to **All** &gt; **Agent Client Collector** &gt; **Configuration** &gt; **Policies**.
 
 2.  Select the **Zscaler Monitoring Policy** entry.
 
@@ -43,6 +43,3 @@ For details on customizing the Zscaler monitoring check, see [Perform Zscaler re
 
 Zscaler monitoring checks run according to the frequency specified in the Interval \(sec\) field.
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

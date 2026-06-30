@@ -14,10 +14,10 @@ breadcrumb: [Legal Invention Disclosure, Legal Service Delivery Practice Applica
 
 # Using the Legal Invention Disclosure
 
-[[legal-invention-disclosure-landing|Legal Invention Disclosure]] provides a streamlined process for inventors to request an application for a patent and for that request to be reviewed both internally and externally by outside counsels. The application is then submitted to patent authorities. You can choose to reward inventors at selected stages of the application process.
+Legal Invention Disclosure provides a streamlined process for inventors to request an application for a patent and for that request to be reviewed both internally and externally by outside counsels. The application is then submitted to patent authorities. You can choose to reward inventors at selected stages of the application process.
 
 -   **[Create a Legal Invention Disclosure request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/submit-legal-invention-disclosure.md)**  
-[[submit-legal-invention-disclosure|Create a Legal Invention Disclosure request]] to provide detailed information about the invention.
+Create a Legal Invention Disclosure request to provide detailed information about the invention.
 -   **[Review the Legal Invention Disclosure request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/request-for-clarification.md)**  
 Review a Legal Invention Disclosure request and either approve it to be sent for a patent approval or request clarification from the requester.
 -   **[Respond to a request for clarification for a Legal Invention Disclosure request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/submit-request-for-review.md)**  
@@ -35,7 +35,3 @@ Update the tracking information through the final resolution of the patent revie
 
 **Parent Topic:**[Legal Invention Disclosure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/legal-invention-disclosure-landing.md)
 
-## Related
-
-- [[legal-invention-disclosure-landing|Legal Invention Disclosure]]
-- [[submit-legal-invention-disclosure|Create a Legal Invention Disclosure request]]

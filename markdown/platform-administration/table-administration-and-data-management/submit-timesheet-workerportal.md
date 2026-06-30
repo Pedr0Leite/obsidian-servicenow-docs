@@ -14,7 +14,7 @@ breadcrumb: [Time Sheet Portal, Time Card management, Working with Task table, T
 
 # Submit time sheet through Time Sheet Portal
 
-Once you update the time sheet with [[c_TimeWorked|time worked]] for a given week, submit it for approval.
+Once you update the time sheet with time worked for a given week, submit it for approval.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: timecard\_user
 
 ## About this task
 
-When you [[submit-time-sheet|submit a time sheet]], [[c_TimeCards|time cards]] are verified against the assigned [time sheet policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/time-sheet-policies.md). If there is no time sheet policy assigned, time cards are verified against the default time sheet policy. Business rules prevent you from submitting a time sheet in case any violation is found.
+When you submit a time sheet, time cards are verified against the assigned [time sheet policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/time-sheet-policies.md). If there is no time sheet policy assigned, time cards are verified against the default time sheet policy. Business rules prevent you from submitting a time sheet in case any violation is found.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[time-sheets|Time Sheets]]** &gt; **[[worker-portal|Time Sheet Portal]]**.
+1.  Navigate to **All** &gt; **Time Sheets** &gt; **Time Sheet Portal**.
 
 2.  Click **Submit**.
 
@@ -42,10 +42,3 @@ When you [[submit-time-sheet|submit a time sheet]], [[c_TimeCards|time cards]] a
 
 [Log time and submit time sheets of your resources]()
 
-## Related
-
-- [[c_TimeWorked|Time worked]]
-- [[submit-time-sheet|Submit a time sheet]]
-- [[c_TimeCards|Time cards]]
-- [[time-sheets|Time Sheets]]
-- [[worker-portal|Time Sheet Portal]]

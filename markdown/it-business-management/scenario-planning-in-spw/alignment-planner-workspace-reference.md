@@ -14,7 +14,7 @@ breadcrumb: [Portfolio Planning in Strategic Planning Workspace, Strategic Plann
 
 # Strategic Planning Workspace reference
 
-Reference information to provide additional details about [[alignment-planner-workspace-landing-page|Strategic Planning]] such as the fields, user roles, tables, guidelines, and domain separation information.
+Reference information to provide additional details about Strategic Planning such as the fields, user roles, tables, guidelines, and domain separation information.
 
 -   **[Customizing milestones display on roadmap in Strategic Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/personalizing-the-milestones-display-on-the-roadmap.md)**  
 Easily track the milestones of your roadmap timeline or its planning items by choosing how the milestones are displayed on the roadmap view.
@@ -25,22 +25,15 @@ Several types of components are installed with installation of the Strategic Pla
 -   **[Domain separation and Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/alignment-planner-domain-separation.md)**  
  Domain separation is supported for Strategic Planning. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 -   **[Planning item reorder errors in Strategic Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/prioritization-item-reorder-guidelines-in-alignment-planner-workspace.md)**  
-Review the scenarios when the reordering of items can fail in the List view of [[backlog-management-in-alignment-planner-workspace|Prioritization in Strategic Planning]] Workspace.
+Review the scenarios when the reordering of items can fail in the List view of Prioritization in Strategic Planning Workspace.
 -   **[Item milestone errors in Strategic Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/error-states-for-planning-item-milestones.md)**  
 Learn about the scenarios when the planning item milestones on the portfolio plan roadmap or free-form roadmap can be in an error state in Strategic Planning Workspace.
 -   **[Item dependency errors in Strategic Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/error-state-for-planning-item-dependencies.md)**  
-Learn about the scenarios when the planning item dependencies on the portfolio plan roadmap or free-form roadmap in Strategic Planning and [[portfolio-planning-app-landing-page|Portfolio Planning]] can be in an error state.
+Learn about the scenarios when the planning item dependencies on the portfolio plan roadmap or free-form roadmap in Strategic Planning and Portfolio Planning can be in an error state.
 -   **[Managing Strategic Planning with Project Portfolio Management, Agile Development 2.0, and SAFe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/troubleshooting-apw-integrations.md)**  
-Ensure that Strategic Planning is integrated properly with PPM, [[agile-landing-page|Agile Development 2.0]], and SAFe with these guidelines.
+Ensure that Strategic Planning is integrated properly with PPM, Agile Development 2.0, and SAFe with these guidelines.
 -   **[Form field information for Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/form-field-information-for-strategic-planning.md)**  
-Field information for [[form-field-information-for-dw|forms]] used in the Strategic Planning application.
+Field information for forms used in the Strategic Planning application.
 
 **Parent Topic:**[Portfolio Planning in Strategic Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/planning-in-spw.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[backlog-management-in-alignment-planner-workspace|Prioritization in Strategic Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[agile-landing-page|Agile Development 2.0]]
-- [[form-field-information-for-dw|Forms]]

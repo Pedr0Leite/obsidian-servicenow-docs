@@ -31,7 +31,7 @@ You can use a connector instance to receive the events coming from external sour
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Integrations** &gt; **Push Connector Instances**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Integrations** &gt; **Push Connector Instances**.
 
 2.  Select the connector instance that you want to configure, or select **New** to create a push connector instance.
 
@@ -44,9 +44,5 @@ You can use a connector instance to receive the events coming from external sour
 
 ## Result
 
-The [[push-connector-instance-form|push connector instance form]] is saved and now you can receive the events from an external system.
+The push connector instance form is saved and now you can receive the events from an external system.
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[push-connector-instance-form|Push connector instance form]]

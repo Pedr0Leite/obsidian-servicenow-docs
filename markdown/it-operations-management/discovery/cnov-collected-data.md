@@ -15,12 +15,9 @@ breadcrumb: [Kubernetes Visibility Agent Reference, Kubernetes discovery using K
 
 # Data collected by Kubernetes Visibility Agent
 
-The [[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]] Informer collects data on Kubernetes resources and populates various CMDB tables.
+The Kubernetes Visibility Agent Informer collects data on Kubernetes resources and populates various CMDB tables.
 
 For the information about the data Kubernetes Visibility Agent Informer collects on the Kubernetes resources and OpenShift resources, and about the CMDB tables it populates, see the KB article [KB2669848](https://support.servicenow.com/kb?id=kb_article_view&sys_kb_id=5883b26493ca3a10d9743f986cba1060)
 
 **Parent Topic:**[Kubernetes Visibility Agent Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cnov-reference.md)
 
-## Related
-
-- [[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]]

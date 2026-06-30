@@ -29,7 +29,7 @@ In order for the global search to work properly, it is important to ensure that 
 
 ## Search Results \(Global\)
 
-Before you use the **Search Results \(Global\)** dynamic block, define [[configure-onboarding-modals|Configure]] [[c_ContentTypes|content types]] to control the behavior a search result is clicked. If no content type is defined for a table, selecting a link on that table renders the results according to the **DEFAULT** content type. It is good practice to point the **DEFAULT** content type to a page with a normal "Current Document" detailed block. Set the content type detail \(**Detail Template** field\) to have just an iFrame.
+Before you use the **Search Results \(Global\)** dynamic block, define Configure content types to control the behavior a search result is clicked. If no content type is defined for a table, selecting a link on that table renders the results according to the **DEFAULT** content type. It is good practice to point the **DEFAULT** content type to a page with a normal "Current Document" detailed block. Set the content type detail \(**Detail Template** field\) to have just an iFrame.
 
 The **Search Results \(No Global\)** dynamic block does not require any additional configuration.
 
@@ -50,7 +50,3 @@ The **Search Results \(No Global\)** dynamic block does not require any addition
 
 [CMS translation]()
 
-## Related
-
-- [[configure-onboarding-modals|Configure]]
-- [[c_ContentTypes|Content types]]

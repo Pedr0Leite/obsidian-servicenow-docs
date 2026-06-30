@@ -14,7 +14,7 @@ breadcrumb: [Risk assessment project, Use Risk Workspace, Risk Management, Gover
 
 # Workflow of risk assessment project
 
-The [[risk-assessment-project|risk assessment project]] workflow is a structured process to assess multiple risks and controls simultaneously [[using-risk-workspace|using Risk Workspace]].
+The risk assessment project workflow is a structured process to assess multiple risks and controls simultaneously using Risk Workspace.
 
 ## Exploring the user journey for a risk assessment project
 
@@ -25,7 +25,7 @@ The following diagram shows the workflow of a risk assessment project.
 The stages of a risk assessment project are as follows:
 
 1.  **Define**: In this stage, the risk assessment project is created. A risk assessment project user \(\[sn\_risk\_advanced.risk\_asmt\_project\_user\]\) or a risk assessment project manager \(\[sn\_risk\_advanced.risk\_asmt\_project\_manager\]\) can create a risk assessment project and complete the following tasks:
-    1.  Define the context by including the assessable entity and the [[risk-assessment-methodology-prm|risk assessment methodology \(RAM\)]].
+    1.  Define the context by including the assessable entity and the risk assessment methodology \(RAM\).
     2.  Specify the project name and description.
     3.  Identify and add the relevant stakeholders, including the project owner, assessors, and watchlist users.
 2.  **Risk scoping**: In this stage, the risk assessment project owner is responsible for defining the risks to be assessed. The following options are available to map risks for the selected composite or single entity:
@@ -59,8 +59,3 @@ The stages of a risk assessment project are as follows:
 
 **Parent Topic:**[Risk assessment project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/risk-assessment-project.md)
 
-## Related
-
-- [[risk-assessment-project|risk assessment project]]
-- [[using-risk-workspace|using risk workspace]]
-- [[risk-assessment-methodology-prm|Risk Assessment Methodology \(RAM\)]]

@@ -14,7 +14,7 @@ breadcrumb: [Working with Skill feedback in Talent Feedback, Working with Skill 
 
 # View and submit feedback
 
-You can view any feedback request sent to you and submit the feedback on [[talent-feedback-landing|Talent Feedback]].
+You can view any feedback request sent to you and submit the feedback on Talent Feedback.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: manager/employee
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **My tasks**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **My tasks**.
 
 2.  Select the feedback request that you want to view or submit feedback.
 
@@ -69,7 +69,4 @@ Text box to write your feedback.
 
     **Note:** Repeat these steps for other skills requested \(if any\) and then select **Submit**.
 
-## Related
 
-- [[talent-feedback-landing|Talent Feedback]]
-- [[employee-center-landing-page|Employee Center]]

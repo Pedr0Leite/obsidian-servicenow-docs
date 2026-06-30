@@ -14,16 +14,12 @@ breadcrumb: [Configure, Telecommunications Network Inventory]
 
 # Configuring an attribute pack table
 
-After you create an attribute pack table with the attributes that you define in the [[telecom-network-inventory|Telecommunications Network Inventory]] application, you can configure the mapping between the table and the inventory object that you want to use it with.
+After you create an attribute pack table with the attributes that you define in the Telecommunications Network Inventory application, you can configure the mapping between the table and the inventory object that you want to use it with.
 
 -   **[Create table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-pack-table.md)**  
 Create an attribute pack table with the attributes that you define in the Telecommunications Network Inventory application so that you can use these attributes in the CI record.
 -   **[Configure an attribute pack table against a configuration item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/configure-packs-for-a-ci-form.md)**  
-[[configure-packs-for-a-ci-form|Configure an attribute pack table against a configuration item]] \(CI\) with filter conditions in the Telecommunications Network Inventory application. As you configure the pack table, you can use the packs for creating a CI record.
+Configure an attribute pack table against a configuration item \(CI\) with filter conditions in the Telecommunications Network Inventory application. As you configure the pack table, you can use the packs for creating a CI record.
 
 **Parent Topic:**[Configuring Telecommunications Network Inventory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/configuring-telecom-network-inventory.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[configure-packs-for-a-ci-form|Configure an attribute pack table against a configuration item]]

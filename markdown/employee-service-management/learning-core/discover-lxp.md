@@ -14,9 +14,9 @@ breadcrumb: [My Learning, Exploring Learning, Learning, Growth Experiences, HR S
 
 # Discover
 
-The **Discover** tab on [[overview-lxp|My Learning]] provides a variety of widgets that help you browse through courses, paths, and collections.
+The **Discover** tab on My Learning provides a variety of widgets that help you browse through courses, paths, and collections.
 
-The **Discover** tab has the following widgets that help you with a seamless [[exploring-learning-exp|learning]] experience:
+The **Discover** tab has the following widgets that help you with a seamless learning experience:
 
 \[Omitted image "discover-lxp.png"\] Alt text: Discover tab
 
@@ -26,7 +26,3 @@ The **Discover** tab has the following widgets that help you with a seamless [[e
 |Round out your skills|Recommends courses based on the skills you may want to improve for your role.|
 |Search|Enables you to search within Learning to find a course.|
 
-## Related
-
-- [[overview-lxp|My Learning]]
-- [[exploring-learning-exp|Learning]]

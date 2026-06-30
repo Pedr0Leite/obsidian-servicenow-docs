@@ -22,7 +22,7 @@ Role required: sn\_cm\_core.contract\_config
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Contracts Core** &gt; **Contracts Administration** &gt; **[[cncore-expl-clause-mgmt|Clause Management]]**.
+1.  Navigate to **All** &gt; **Contracts Core** &gt; **Contracts Administration** &gt; **Clause Management**.
 
 2.  Choose whether you are creating a new clause or modifying an existing clause.
 
@@ -114,6 +114,3 @@ Create clause variations to use them in the document template for a predefined c
 
 **Parent Topic:**[Configure dynamic clauses for contract templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-clause-and-cv.md)
 
-## Related
-
-- [[cncore-expl-clause-mgmt|Clause Management]]

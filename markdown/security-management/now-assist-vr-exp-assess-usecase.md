@@ -12,11 +12,11 @@ breadcrumb: [References for generative AI, Reference, Unified Security Exposure 
 
 # Vulnerability Response AI agent collection for the Assess vulnerability exposure agentic workflow
 
-The [[tools|tools]] and AI agents for the Assess vulnerability exposure agentic workflow.
+The tools and AI agents for the Assess vulnerability exposure agentic workflow.
 
 ## Agentic workflow overview
 
-The following agentic workflows are included with the [[now-assist-for-vulnerability-response-landing|Now Assist for Vulnerability Response]] application:
+The following agentic workflows are included with the Now Assist for Vulnerability Response application:
 
 -   Assess vulnerability exposure agentic workflow
 -   Analyze vulnerability remediation status workflow
@@ -27,26 +27,17 @@ If you want to modify this agentic workflow, you can [duplicate](https://raw.git
 
 Use the Assess vulnerability exposure agentic workflow from the Now Assist panel to help you:
 
--   Determine if your configuration items \(CIs\) and business services are exposed to known [[vulnerabilities|vulnerabilities]].
+-   Determine if your configuration items \(CIs\) and business services are exposed to known vulnerabilities.
 -   Determine the potential impact a specific vulnerability might have throughout your environment.
--   Check CIs for any new Cybersecurity and [[threat-intelligence-infrastructure|Infrastructure]] Security Agency \(CISA\) exploitable \(zero-day\) vulnerabilities.
--   Create watch topics in the [[vulnerability-manager-workspace-landing-page|Vulnerability Manager workspace]] to remediate vulnerable items.
+-   Check CIs for any new Cybersecurity and Infrastructure Security Agency \(CISA\) exploitable \(zero-day\) vulnerabilities.
+-   Create watch topics in the Vulnerability Manager workspace to remediate vulnerable items.
 -   Adjust content in natural language​.
 
 ## Agents used in the Assess vulnerability exposure agentic workflow
 
--   [[vuln-landing-page|Vulnerability Response]] Action Executor
+-   Vulnerability Response Action Executor
 -   CISA Known Exploited Vulnerabilities Analyzer
 -   Vulnerability Exposure Assessment Advisor
 
-**Parent Topic:**[[now-assist-vulnerability-response-reference|Now Assist for Vulnerability Response reference information]]
+**Parent Topic:**[Now Assist for Vulnerability Response reference information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/now-assist-vulnerability-response-reference.md)
 
-## Related
-
-- [[now-assist-vulnerability-response-reference|Now Assist for Vulnerability Response reference information]]
-- [[tools|Tools]]
-- [[now-assist-for-vulnerability-response-landing|Now Assist for Vulnerability Response]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[threat-intelligence-infrastructure|Infrastructure]]
-- [[vulnerability-manager-workspace-landing-page|Vulnerability Manager Workspace]]
-- [[vuln-landing-page|Vulnerability Response]]

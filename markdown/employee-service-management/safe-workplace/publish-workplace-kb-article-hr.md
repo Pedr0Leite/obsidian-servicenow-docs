@@ -24,7 +24,7 @@ Before you publish, create a knowledge base article. For more information, see [
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-safety-mgmt-hr|Workplace Core]]** &gt; **Knowledge management** &gt; **Unpublished articles**.
+1.  Navigate to **All** &gt; **Workplace Core** &gt; **Knowledge management** &gt; **Unpublished articles**.
 
 2.  Select the knowledge base article that you want to publish.
 
@@ -39,6 +39,3 @@ For more information on how to view the published knowledge base article, see [V
 
 For more information on how to edit the publish knowledge base article, see [Modify a workplace knowledge base article](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/modify-workplace-kb-article-wsd.md).
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]

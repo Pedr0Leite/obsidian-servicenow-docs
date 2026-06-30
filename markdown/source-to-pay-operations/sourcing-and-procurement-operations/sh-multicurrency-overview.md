@@ -14,7 +14,7 @@ breadcrumb: [Shopping Hub, Explore, Sourcing and Procurement Operations, Finance
 
 # Multi-currency support in Shopping Hub
 
-Shoppers can view and select their local currency during shopping in [[shopping-hub-overview|Shopping Hub]], providing a seamless multi-currency experience.
+Shoppers can view and select their local currency during shopping in Shopping Hub, providing a seamless multi-currency experience.
 
 ## Key benefits
 
@@ -22,7 +22,7 @@ The multi-currency functionality provides the following benefits:
 
 -   Enables shoppers to view prices in their familiar local currency, helping them make more informed purchasing decisions.
 -   Enables shoppers operating across multiple geographies to toggle between currencies, providing better context for purchase decisions.
--   Enables approvers to view product prices in their local currency alongside the original [[supplier|supplier]] currency across email notifications and To-dos.
+-   Enables approvers to view product prices in their local currency alongside the original supplier currency across email notifications and To-dos.
 
 ## How to configure
 
@@ -44,7 +44,7 @@ Ensure that you complete the following configurations for the multi-currency fun
 
     \[Omitted image "sh-local-currency.png"\] Alt text: Local currency for the organization.
 
-    **Note:** This is the [[legal-entity|Legal Entity]] record. On this record, you can view the local currency associated with the legal entity.
+    **Note:** This is the Legal Entity record. On this record, you can view the local currency associated with the legal entity.
 
 -   To display a currency in the **View prices in** drop-down list on the Shopping Hub home page, a corresponding Currency record must exist in the fx\_rate table and be active.
 
@@ -71,8 +71,3 @@ The following points describe how the multi-currency feature works:
 
 **Parent Topic:**[Shopping Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shopping-hub-overview.md)
 
-## Related
-
-- [[shopping-hub-overview|Shopping Hub]]
-- [[supplier|Supplier]]
-- [[legal-entity|Legal entity]]

@@ -12,7 +12,7 @@ breadcrumb: [ServiceNow Voice, Manage people and work capabilities, Extend Servi
 
 # Exploring ServiceNow Voice
 
-Use ServiceNow Voice to facilitate inbound and outbound telephone calls by integrating your ServiceNow instance with a third-party phone system such as Amazon [[c_Connect|Connect]].
+Use ServiceNow Voice to facilitate inbound and outbound telephone calls by integrating your ServiceNow instance with a third-party phone system such as Amazon Connect.
 
 ## Key features
 
@@ -58,7 +58,7 @@ As an agent, you can:
 
 As a caller, you can:
 
--   Create a task [[use-ccc|using voice]]-based interactions. For example, create an incident or a case, or unlock your account.
+-   Create a task using voice-based interactions. For example, create an incident or a case, or unlock your account.
 -   Get your requests fulfilled within the integrated ServiceNow instance through bot interactions using the voice or dual-tone multi-frequency \(DTMF\) inputs. These bot interactions are defined in contact flows in the third-party phone system.
 -   Speak to an agent who can help fulfill a request.
 
@@ -73,10 +73,5 @@ Here is an example workflow.
 
 \[Omitted image "amazon-connect-integration.png"\] Alt text: Amazon Connect Integration
 
-**Parent Topic:**[[cloud-call-center-overview|ServiceNow Voice]]
+**Parent Topic:**[ServiceNow Voice](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cloud-call-center-overview.md)
 
-## Related
-
-- [[cloud-call-center-overview|ServiceNow Voice]]
-- [[c_Connect|Connect]]
-- [[use-ccc|Using Voice]]

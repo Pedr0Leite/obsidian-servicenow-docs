@@ -57,7 +57,7 @@ This feature is applicable for the following record types:
         -   Change notification
     2.  Edit the required information, such as the notification category, who to send it to and when to send it.
 
-        **Who to send** and **When will receive** tabs contain the notification [[settings-mobile|settings]].
+        **Who to send** and **When will receive** tabs contain the notification settings.
 
         **Note:** Keep in mind the following information when editing these notifications:
 
@@ -75,6 +75,4 @@ This feature is applicable for the following record types:
 
     3.  Select **Update**.
 
-## Related
 
-- [[settings-mobile|Settings]]

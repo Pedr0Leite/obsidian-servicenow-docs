@@ -33,7 +33,7 @@ Role required: none
 
 3.  To help narrow your search results, you can select the campus, building, and floor number for your search.
 
-    **Note:** The facilities administrator configures the number of search results returned. See [[r_WorkbenchConfiguration|Facilities visualization workbench configuration]].
+    **Note:** The facilities administrator configures the number of search results returned. See [Facilities visualization workbench configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_WorkbenchConfiguration.md).
 
     \[Omitted image "CampusFloorSelection.png"\] Alt text: In this figure, a facilities map image displays a building floor and its designated spaces.
 
@@ -74,9 +74,5 @@ Click the pin \[Omitted image "PinIcon.png"\] Alt text: pin icon icon, beside th
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[[c_InteractiveFacilityMaps|Interactive facility maps]]
+**Parent Topic:**[Interactive facility maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_InteractiveFacilityMaps.md)
 
-## Related
-
-- [[r_WorkbenchConfiguration|Facilities visualization workbench configuration]]
-- [[c_InteractiveFacilityMaps|Interactive facility maps]]

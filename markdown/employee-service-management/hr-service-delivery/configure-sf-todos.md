@@ -14,7 +14,7 @@ breadcrumb: [Configure, HR Service Delivery Integration with SuccessFactors, Int
 
 # Configure pull todos
 
-Store one-time configuration parameters to pull tasks from [[hr-service-delivery-integration-success-factors|HR Service Delivery Integration with SuccessFactors]] into the ServiceNow application.
+Store one-time configuration parameters to pull tasks from HR Service Delivery Integration with SuccessFactors into the ServiceNow application.
 
 ## Before you begin
 
@@ -28,6 +28,4 @@ Role required: sn\_hr\_sf.admin
 
 3.  On the Integration Services, set **Pull Todos**to true.
 
-## Related
 
-- [[hr-service-delivery-integration-success-factors|HR Service Delivery Integration with SuccessFactors]]

@@ -14,21 +14,21 @@ breadcrumb: [Explore, Dashboards, Platform Analytics experience, Platform Analyt
 
 Elements refer to the visual objects you can place on a dashboard, including filters.
 
-Dashboards contain a combination of visual elements or funnels to show data. Available elements include Data visualization, Divider, Filter, Filter Group, Heading, Image, List, Now Assist Context Menu, [[process-mining|Process Mining]] - Map, Rich Text, Workbench, and [[user-exp-analytics-landing|Usage Insights]] funnel.
+Dashboards contain a combination of visual elements or funnels to show data. Available elements include Data visualization, Divider, Filter, Filter Group, Heading, Image, List, Now Assist Context Menu, Process Mining - Map, Rich Text, Workbench, and Usage Insights funnel.
 
 \[Omitted image "add-new-element-menu.png"\] Alt text: Add new element menu showing filter group, heading, image, list, Now Assist Context Menu, Process Mining Map, Rich text, and Usage Insights Funnel. Not shown: Data visualization, divider, Filter, Workbench
 
--   **[[analytics-center-data-visualizations|Data visualization]]**
+-   **[Data visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-data-visualizations.md)**
 
     Data visualizations enable you to present a visual representation of current instance data or temporary data that you’ve imported. Data visualizations include visualizations that you create in the dashboard designer and data visualizations from the library.
 
-    **Important:** You cannot place reports or [[c_Widgets|Performance Analytics widgets]] on a [[c_performanceAnalyticsAndReporting|Platform Analytics]] dashboard. You must create data visualizations instead.
+    **Important:** You cannot place reports or Performance Analytics widgets on a Platform Analytics dashboard. You must create data visualizations instead.
 
--   **[[interactive-filters-workspace|Filter]]**
+-   **[Filter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters-workspace.md)**
 
     Filters enable users to filter the visualizations on a dashboard based on specified criteria. You can put filters either on the individual tabs or above the tabs so that the filter applies to elements every tab. Filters include both data filters and domain filters. You can create filters in the dashboard designer or select them from the library.
 
--   **[[create-filter-group|Filter group]]**
+-   **[Filter group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-filter-group.md)**
 
     A set of filters that you can apply simultaneously. Use when you have multiple filters that can apply to multiple visualizations.
 
@@ -42,11 +42,11 @@ Dashboards contain a combination of visual elements or funnels to show data. Ava
 
     Image elements hold static or animated images on the dashboard.
 
--   **[[configure-po-map|Process Mining - Map]]**
+-   **[Process Mining - Map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configure-po-map.md)**
 
     Map the different states that are part of your process and the transitions between those states. See which states the objects of the process are in and the speed with which they change state. Requires an existing Process Mining project.
 
--   **[[create-dv-analytics-list|List]]**
+-   **[List](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-analytics-list.md)**
 
     Lists show table records. They support Platform Analytics filters and drilling down from data visualizations by default.
 
@@ -60,7 +60,7 @@ Dashboards contain a combination of visual elements or funnels to show data. Ava
 
 -   **Workbench**
 
-    The workbench option is available if the property com.snc.pae.workbench\_enabled is set to true. Workbench elements are migrated from Core UI in iframes. Choose from existing workbench elements.They can only be created in Core UI and are added to [[par-workspace|Platform Analytics experience]] in iframes.
+    The workbench option is available if the property com.snc.pae.workbench\_enabled is set to true. Workbench elements are migrated from Core UI in iframes. Choose from existing workbench elements.They can only be created in Core UI and are added to Platform Analytics experience in iframes.
 
 -   **Funnel**
 
@@ -84,24 +84,10 @@ Each element has a default height and width when you place it on the stage to co
     11 columns by 11 rows
 
 
-**Parent Topic:**[[ac-elements|Exploring Platform Analytics dashboards]]
+**Parent Topic:**[Exploring Platform Analytics dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/ac-elements.md)
 
 **Related topics**  
 
 
-[[add-elements-to-a-dashboard|Add visual elements to an in-line dashboard]]
+[Add visual elements to an in-line dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/add-elements-to-a-dashboard.md)
 
-## Related
-
-- [[analytics-center-data-visualizations|Data visualizations in Platform Analytics]]
-- [[interactive-filters-workspace|Filters in Platform Analytics]]
-- [[create-filter-group|Create a filter group]]
-- [[configure-po-map|Configure a Process Mining map on a dashboard]]
-- [[create-dv-analytics-list|Create a list visualization in the Visualization Designer]]
-- [[ac-elements|Exploring Platform Analytics dashboards]]
-- [[add-elements-to-a-dashboard|Add visual elements to an in-line dashboard]]
-- [[process-mining|Process Mining]]
-- [[user-exp-analytics-landing|Usage Insights]]
-- [[c_Widgets|Performance Analytics widgets]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[par-workspace|Platform Analytics experience]]

@@ -17,11 +17,7 @@ Provides information about the Finance and Supply Chain \(FSC\) applications.
 -   **[Common applications in FSC](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/common-service-delivery/fsc-common-apps.md)**  
 Finance and Supply Chain \(FSC\) enhances operational efficiency by utilizing shared applications across multiple products and workflows.
 -   **[Finance Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/fin-case-mgmt-landing-page.md)**  
-The ServiceNow® [[fin-case-mgmt-landing-page|Finance Case Management]] application enables your employees and finance teams to raise, track, and resolve finance-related requests.
+The ServiceNow® Finance Case Management application enables your employees and finance teams to raise, track, and resolve finance-related requests.
 
-**Parent Topic:**[[finance-supply-chain-landing|Finance and Supply Chain]]
+**Parent Topic:**[Finance and Supply Chain](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-supply-chain-landing.md)
 
-## Related
-
-- [[finance-supply-chain-landing|Finance and Supply Chain]]
-- [[fin-case-mgmt-landing-page|Finance Case Management]]

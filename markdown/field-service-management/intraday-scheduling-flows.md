@@ -19,7 +19,7 @@ The flows and subflows for configuring intra-day schedule automation.
 -   Agent time off created – The agent records time off, blocking availability.
 -   FSM agent not take action – The agent fails to act as expected-for example, not marking travel start- triggering a dispatcher alert.
 -   Work order task progressed – A task progresses, but the agent is early or late, affecting schedule timing.
--   Canceled task-A task is canceled. [[schedule-optimization|Schedule Optimization]] fills the gap.
+-   Canceled task-A task is canceled. Schedule Optimization fills the gap.
 -   High priority task- A high-priority task is added. Schedule Optimization reschedules to minimize disruption.
 
 ## Intra-day scheduling subflows
@@ -36,9 +36,5 @@ The flows and subflows for configuring intra-day schedule automation.
 |FSM wait for work start|Checks that the agent started work at the specified time.|
 |Run task recommendation|Recommends tasks for an agent with free time. For example, the task recommendation runs if the agent has canceled tasks or ended a task early.|
 
-**Parent Topic:**[[fsm-reference|Field Service Management reference]]
+**Parent Topic:**[Field Service Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/fsm-reference.md)
 
-## Related
-
-- [[fsm-reference|Field Service Management reference]]
-- [[schedule-optimization|Schedule Optimization]]

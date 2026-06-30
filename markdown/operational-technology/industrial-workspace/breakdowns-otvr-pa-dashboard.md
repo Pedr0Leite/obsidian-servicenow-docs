@@ -14,7 +14,7 @@ breadcrumb: [Use, Industrial Workspace, Operational Technology]
 
 # Operational Technology Vulnerability Response \(PA\) dashboard breakdowns
 
-The [[oper-tech-vulnerability-response-landing-page|Operational Technology Vulnerability Response]] uses breakdowns to filter and group the collected records.
+The Operational Technology Vulnerability Response uses breakdowns to filter and group the collected records.
 
 The following breakdowns apply to the indicators on the dashboard.
 
@@ -132,6 +132,3 @@ The following breakdown sources apply to the indicators on the dashboard for vul
 
 **Parent Topic:**[Using the Industrial Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/using-industrial-workspace.md)
 
-## Related
-
-- [[oper-tech-vulnerability-response-landing-page|Operational Technology Vulnerability Response]]

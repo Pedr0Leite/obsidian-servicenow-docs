@@ -32,7 +32,7 @@ Submit Catalog Request
 
 </td><td>
 
-Tracks when a user submits a request through the [[sc-catalog-item-widget|SC Catalog Item widget]]. You can view the request ID and the number of items in each request.
+Tracks when a user submits a request through the SC Catalog Item widget. You can view the request ID and the number of items in each request.
 
  Use these analytics to optimize the Service Catalog.
 
@@ -72,9 +72,9 @@ Initiate Search
 
 </td><td>
 
-Tracks when a user searches the portal using the Faceted Search and Typeahead [[search-widgets|Search widgets]]. You can view the search keywords that users enter. You can also compare usage of the two search widgets.
+Tracks when a user searches the portal using the Faceted Search and Typeahead Search widgets. You can view the search keywords that users enter. You can also compare usage of the two search widgets.
 
- Use these analytics to improve search in [[c_ServicePortal|Service Portal]].
+ Use these analytics to improve search in Service Portal.
 
 </td></tr><tr><td>
 
@@ -82,7 +82,7 @@ Search Result Selected
 
 </td><td>
 
-Tracks when a user selects a search result when using the [[faceted-search|Faceted Search widget]]. You can view the click rank and sys\_id of the selected search item.
+Tracks when a user selects a search result when using the Faceted Search widget. You can view the click rank and sys\_id of the selected search item.
 
  Use these analytics to improve search in Service Portal.
 
@@ -130,9 +130,3 @@ Tracks how users attach files to records from portal pages: by navigating the fi
 
 [Typeahead Search widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/typeahead-search-widget.md)
 
-## Related
-
-- [[sc-catalog-item-widget|SC Catalog Item widget]]
-- [[search-widgets|Search widgets]]
-- [[c_ServicePortal|Service Portal]]
-- [[faceted-search|Faceted Search widget]]

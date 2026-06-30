@@ -14,7 +14,7 @@ breadcrumb: [ITOM Visibility reference, ITOM Visibility, IT Operations Managemen
 
 # Data collected by ITOM Visibility
 
-[[itom-visibility-landing-page|ITOM Visibility]] collects unique data for each type of device and stores it in dedicated tables, fields, and relationships.
+ITOM Visibility collects unique data for each type of device and stores it in dedicated tables, fields, and relationships.
 
 ## Operating system
 
@@ -186,7 +186,7 @@ Containers
 -   [Printers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_DataCollDiscoNetworkPrinters.md) and [power supplies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_DataCollDiscoUnintPowerSupp.md)
 -   [IP services and daemons](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_DataCollDiscoServicesAndDaemons.md)
 
- You can also find devices based on [TCP connections](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_DataCollDiscoTCPConnections.md) and [Layer-2, SNMP-level](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_Layer2Discovery.md) [[r-discovery|discovery]].
+ You can also find devices based on [TCP connections](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_DataCollDiscoTCPConnections.md) and [Layer-2, SNMP-level](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_Layer2Discovery.md) discovery.
 
 </td></tr></tbody>
 </table>## Storage
@@ -211,13 +211,13 @@ Containers
 
 </td></tr></tbody>
 </table>-   **[Detailed information on products discovered by ITOM Visibility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_SupportedApplications.md)**  
-Discovery and [[c_ServiceMappingOverview|Service Mapping]] can discover a wide range of operating systems and applications.
+Discovery and Service Mapping can discover a wide range of operating systems and applications.
 -   **[Cloud resource discovery references](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/cloud-discovery-collected-data.md)**  
 ITOM Visibility discovers resources on cloud platforms.
 -   **[Operating systems discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_Computers.md)**  
 Discovery identifies the following computers, clusters, and virtual machines.
 -   **[Set the preferred IP version for network adapter discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/set-network-adapter-preferred-ip.md)**  
-Control which IP version Discovery populates on a Network Adapter CI during Linux, Windows, and [[r_DataCollDiscoSolarisComputers|Solaris discovery]].
+Control which IP version Discovery populates on a Network Adapter CI during Linux, Windows, and Solaris discovery.
 -   **[Operating system-level virtualization discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c-oslv-discovery.md)**  
 Discovery can collect image and container information from Operating system-level virtualization \(OS-level virtualization\) engines.
 -   **[Software discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_Software.md)**  
@@ -225,16 +225,9 @@ Discovery identifies several types of software.
 -   **[Database discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/database-discovery.md)**  
 Discovery can find database applications, such as MySQL, Oracle, and MongoDB. Discovery can also find database management system software, such as MSSQL Server.
 -   **[Network device discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_NetworkDevices.md)**  
-Discovery identifies several network devices, including load balancers, routers, TCP connections, IP networks, and so on. It can find devices through traditional [[r_PortProbes|port probes]], and then through identifications and exploration probes, or through patterns. It also supports discovery by identifying HTTP and TCP connections.
+Discovery identifies several network devices, including load balancers, routers, TCP connections, IP networks, and so on. It can find devices through traditional port probes, and then through identifications and exploration probes, or through patterns. It also supports discovery by identifying HTTP and TCP connections.
 -   **[Storage discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_Storage.md)**  
 Discovery collects information on Direct Attached Storage \(DAS\), Storage Area Networks \(SAN\), and Network Attached Storage \(NAS\).
 
 **Parent Topic:**[ITOM Visibility reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/visibility-reference.md)
 
-## Related
-
-- [[itom-visibility-landing-page|ITOM Visibility]]
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r_DataCollDiscoSolarisComputers|Solaris discovery]]
-- [[r_PortProbes|Port probes]]

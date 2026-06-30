@@ -20,12 +20,12 @@ You can leverage a few Service Operations Workspace integrations to start operat
 
 -   An agent can start the day by looking at an overview of assignments, outages, service announcements, and assignments in Service Operations Workspace to prioritize work based on service level agreements \(SLAs\), priority level, and urgency​.
 -   The agent can look at the incoming interactions and resolve it through existing help resources.
--   If more help is required, the agent can [[create-an-incident|create an incident]] from the interaction based on the issue reported. Since the agent has access to related incidents and recent interactions, better and faster support can be provided. Agent also has access to all related information from the incident record page.
+-   If more help is required, the agent can create an incident from the interaction based on the issue reported. Since the agent has access to related incidents and recent interactions, better and faster support can be provided. Agent also has access to all related information from the incident record page.
 
 -   **[Play a guided tour in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/play-guided-tour-sow.md)**  
-Use the guided tours in [[sow-landing-page|Service Operations Workspace for ITSM]] through a sequence of interactive steps that guide you through a specific concept or process.
+Use the guided tours in Service Operations Workspace for ITSM through a sequence of interactive steps that guide you through a specific concept or process.
 -   **[Add a user-specific quick link on the ITSM landing page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/add-quick-link.md)**  
-Refer to a URL quickly from the Service Operations Workspace [[dex-workspace-dashboard-tab|landing page]].
+Refer to a URL quickly from the Service Operations Workspace landing page.
 -   **[Create a list in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-list-sow.md)**  
 Create a list or use an existing list to create a list.
 -   **[Live Agent chat in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configure-liveagent-sow.md)**  
@@ -35,9 +35,9 @@ Interactions are a centralized location for all communication channels in Servic
 -   **[Incident Management in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/incident-sow.md)**  
 You can create and manage your incidents in Service Operations Workspace.
 -   **[Request Management in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/request-sow.md)**  
-Service Operations Workspace for [[c_RequestManagement|Request Management]] integrates the platform functionality for tier 1 agents into a multi-tab interface that helps agents efficiently manage multiple incidents, catalog requests, and catalog tasks.
+Service Operations Workspace for Request Management integrates the platform functionality for tier 1 agents into a multi-tab interface that helps agents efficiently manage multiple incidents, catalog requests, and catalog tasks.
 -   **[Change Management in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/change-sow.md)**  
-When a change to your infrastructure or a business service is required, you can [[t_CreateAChange|create a change request]] and track it in Service Operations Workspace.
+When a change to your infrastructure or a business service is required, you can create a change request and track it in Service Operations Workspace.
 
 **Parent Topic:**[Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/sow-landing-page.md)
 
@@ -48,10 +48,3 @@ When a change to your infrastructure or a business service is required, you can 
 
 [Optimizing IT services in your organization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/optimizing-services-operations-in-organization.md)
 
-## Related
-
-- [[create-an-incident|Create an incident]]
-- [[sow-landing-page|Service Operations Workspace for ITSM]]
-- [[dex-workspace-dashboard-tab|Landing page]]
-- [[c_RequestManagement|Request Management]]
-- [[t_CreateAChange|Create a change request]]

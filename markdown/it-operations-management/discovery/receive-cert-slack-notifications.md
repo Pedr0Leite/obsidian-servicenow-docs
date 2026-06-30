@@ -14,7 +14,7 @@ breadcrumb: [Certificate alerts and notifications, Configuring Certificate Inven
 
 # Receive certificate notifications on Slack
 
-In Version 1.2.0 of [[cert-inventory-mgmt|Certificate Inventory and Management]], set up Slack notifications to stay informed about expiring and expired certificates. Receive detailed alerts with convenient URL links for additional information.
+In Version 1.2.0 of Certificate Inventory and Management, set up Slack notifications to stay informed about expiring and expired certificates. Receive detailed alerts with convenient URL links for additional information.
 
 ## Before you begin
 
@@ -48,7 +48,7 @@ A scheduled job in Certificate Inventory and Management regularly checks the exp
 
 6.  Configure the Slack Channel ID property.
 
-    1.  Navigate to **[[r-discovery|Discovery]]** &gt; **Properties**.
+    1.  Navigate to **Discovery** &gt; **Properties**.
 
     2.  Enter value in the Slack Channel ID property **glide.discovery.certs.slack\_channel\_id**.
 
@@ -57,12 +57,7 @@ A scheduled job in Certificate Inventory and Management regularly checks the exp
 
 ## Result
 
-Notifications are directed to the Slack channel specified in [[r_DiscoveryProperties|Discovery properties]]. If a certificate is assigned to a user, and their configured email matches the Slack email, the user is tagged in the Slack message. The Slack scheduled job runs weekly, and you can adjust its frequency by modifying the Certificate Notification scheduled job settings.
+Notifications are directed to the Slack channel specified in Discovery properties. If a certificate is assigned to a user, and their configured email matches the Slack email, the user is tagged in the Slack message. The Slack scheduled job runs weekly, and you can adjust its frequency by modifying the Certificate Notification scheduled job settings.
 
 **Parent Topic:**[Certificate alerts and notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cert-inventory-mgmt-workflow.md)
 
-## Related
-
-- [[cert-inventory-mgmt|Certificate Inventory and Management]]
-- [[r-discovery|Discovery]]
-- [[r_DiscoveryProperties|Discovery properties]]

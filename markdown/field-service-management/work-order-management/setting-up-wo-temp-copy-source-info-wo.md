@@ -16,7 +16,7 @@ breadcrumb: [Template Management, Work orders, Set up work orders and tasks, Con
 
 Configure the work order templates to fetch data from a source table to populate fields in a work order form while creating a work order. The source table can be case, incident, change, or others depending on the source of origin for a work order.
 
-You first create a table map to specify the fields to be copied from the source table to the work order table and then link the table mapping to a work order template. The extension points in template management, enables your work order template to process the followings configuration. For more information, see [[extension-points-field-service|Extension points in Field Service Management]].
+You first create a table map to specify the fields to be copied from the source table to the work order table and then link the table mapping to a work order template. The extension points in template management, enables your work order template to process the followings configuration. For more information, see [Extension points in Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/extension-points-field-service.md).
 
 ## Configuration overview
 
@@ -30,6 +30,4 @@ The steps for setting up data mapping configurations are:
 
     Enable work order template to identify the source of work order and then map data from that source table to the work order fields.
 
-## Related
 
-- [[extension-points-field-service|Extension points in Field Service Management]]

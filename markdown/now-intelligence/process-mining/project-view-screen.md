@@ -14,7 +14,7 @@ breadcrumb: [Workspace, Explore, Process Mining, Platform Analytics]
 
 # Process details page
 
-The process details page for [[process-mining|Process Mining]] provides access to high level insights and opportunities in addition to the interactive visualized process map.
+The process details page for Process Mining provides access to high level insights and opportunities in addition to the interactive visualized process map.
 
 From the process details page, you can do the following:
 
@@ -24,7 +24,7 @@ From the process details page, you can do the following:
 -   Select the **Automation opportunities** tab to find automation opportunities using machine learning and process-based analysis.
 -   Select the **KPI dashboard** tab to see any KPI dashboard that you have configured in the project configuration.
 
-**Note:** To go back to the [[landing-page|projects landing page]] where you can see all the project cards, select the **Process Models** tab.
+**Note:** To go back to the projects landing page where you can see all the project cards, select the **Process Models** tab.
 
 ## Overview panel
 
@@ -198,7 +198,7 @@ Any analysis
 
 </td><td>
 
-You can do a transition analysis, [[worknotes-analysis|work notes analysis]], root cause analysis, or [[cluster-analysis|cluster analysis]] from any transition or node from the graph.
+You can do a transition analysis, work notes analysis, root cause analysis, or cluster analysis from any transition or node from the graph.
 
 </td></tr><tr><td>
 
@@ -218,13 +218,13 @@ The notes, initiatives, and scheduled tasks panel provides tools for creating an
 |Model options icon \(\[Omitted image "model-options-icon.png"\] Alt text: Model options icon\)|View and use of the bottleneck analysis.|
 |Global metrics icon \(\[Omitted image "global-met-icon.png"\] Alt text: Global metrics icon\)|View the primary and secondary metrics.|
 |Notes icon\[Omitted image "notes-icon.png"\] Alt text: Notes icon|View the notes list, create a note, and edit or delete a note.|
-|Improvement initiatives icon \(\[Omitted image "improve-initiative-icon.png"\] Alt text: Initiatives icon\)|View the initiatives list, create a new initiative, link to an existing initiative, or [[delete-cim-initiative|remove an initiative]].|
+|Improvement initiatives icon \(\[Omitted image "improve-initiative-icon.png"\] Alt text: Initiatives icon\)|View the initiatives list, create a new initiative, link to an existing initiative, or remove an initiative.|
 |Scheduled tasks icon \(\[Omitted image "scheduled-tasks-icon.png"\] Alt text: Scheduled tasks icon\)|View the status of scheduled mining, filtering, and requested cluster analysis tasks.|
 
 -   **[Summary and insights page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/summary-insights-dashboard.md)**  
-The [[summary-insights-dashboard|Summary and insights page]] enables you to view opportunities for optimizing your process. Access the page from a Process Mining project.
+The Summary and insights page enables you to view opportunities for optimizing your process. Access the page from a Process Mining project.
 -   **[Opportunity details page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/opportunity-details.md)**  
-The [[opportunity-details|Opportunity details page]] displays details about the improvement opportunities for a project. Access the page from a Process Mining project.
+The Opportunity details page displays details about the improvement opportunities for a project. Access the page from a Process Mining project.
 -   **[Analyst workbench page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/analyst-workbench-dashboard.md)**  
 View the visualized process map with tools for managing visualizations and performing analysis tasks from a project's page.
 -   **[KPI dashboard page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/kpi-dashboard.md)**  
@@ -232,12 +232,3 @@ On the **KPI dashboard** page, see any KPI dashboard that you have configured fo
 
 **Parent Topic:**[Process Mining workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/analyst-workbench-overview.md)
 
-## Related
-
-- [[process-mining|Process Mining]]
-- [[landing-page|Projects landing page]]
-- [[worknotes-analysis|Work notes analysis]]
-- [[cluster-analysis|Cluster analysis]]
-- [[delete-cim-initiative|Remove an initiative]]
-- [[summary-insights-dashboard|Summary and insights page]]
-- [[opportunity-details|Opportunity details page]]

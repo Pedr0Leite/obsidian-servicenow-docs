@@ -14,7 +14,7 @@ breadcrumb: [Microsoft Defender for Endpoint integration, Security Incident Resp
 
 # Create a capability profile for the Microsoft Defender for Endpoint integration
 
-[[arcsight-esm-create-profile|Create a profile]] and select the Microsoft Defender for Endpoint capabilities that you want the profile to run.
+Create a profile and select the Microsoft Defender for Endpoint capabilities that you want the profile to run.
 
 ## Before you begin
 
@@ -39,7 +39,7 @@ You cannot club Isolate Host and Remove Host Isolation capabilities with other c
 
     The Microsoft Defender for Endpoint capability profiles list is displayed.
 
-    \[Omitted image "capability\_profile.png"\] Alt text: Create a new capability profile for the [[microsoft-defender-for-endpoint-integration|Microsoft Defender for Endpoint integration]]
+    \[Omitted image "capability\_profile.png"\] Alt text: Create a new capability profile for the Microsoft Defender for Endpoint integration
 
 2.  Click **New**.
 
@@ -111,7 +111,3 @@ Option to indicate that the profile is active. After the profile is active, the 
 
 The next step is to configure your profile. Before you configure the settings for the profile, you may prefer to review the how profiles and configured and triggering conditions. For more information, see [Trigger conditions in a configuration item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/trigger-conditions-configuration-item.md).
 
-## Related
-
-- [[arcsight-esm-create-profile|Create a profile]]
-- [[microsoft-defender-for-endpoint-integration|Microsoft Defender for Endpoint integration]]

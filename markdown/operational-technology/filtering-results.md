@@ -12,11 +12,11 @@ breadcrumb: [Results page, Use the Console pages, Discovery Console for Operatio
 
 # Filter results
 
-The [[results-page-console|Results page]] provides a filter to find specific types of queries of information.
+The Results page provides a filter to find specific types of queries of information.
 
 ## Filtering the query results
 
-Much like the [[assets-page-console|Assets page]], the Results page provides a filter to the left of the Results list. To open the Filter type list, select the plus sign \[Omitted image "filter-plus-icon.png"\] Alt text: under the Filter header. This opens the drop-down selection field.
+Much like the Assets page, the Results page provides a filter to the left of the Results list. To open the Filter type list, select the plus sign \[Omitted image "filter-plus-icon.png"\] Alt text: under the Filter header. This opens the drop-down selection field.
 
 \[Omitted image "add-filter.png"\] Alt text: Drop-down selection field
 
@@ -41,7 +41,3 @@ If you select Operating System, for example, another drop-down menu opens with a
 
 After you have made your selection, any query that matches the filter displays on the Result page.
 
-## Related
-
-- [[results-page-console|Results page]]
-- [[assets-page-console|Assets page]]

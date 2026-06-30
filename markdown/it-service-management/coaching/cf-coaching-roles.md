@@ -34,7 +34,7 @@ sn\_coaching.trainee\[Coaching trainee\]
 
 </td><td>
 
-Able to view [[cf-coaching-landing|coaching]] assessments to which they belong.
+Able to view coaching assessments to which they belong.
 
  Able to add work notes in a coaching assessment by clicking **Review Assessments**.
 
@@ -93,6 +93,3 @@ Grants administrative rights to create, read, or update learning libraries based
 </td></tr></tbody>
 </table>**Parent Topic:**[Coaching reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-coaching-reference.md)
 
-## Related
-
-- [[cf-coaching-landing|Coaching]]

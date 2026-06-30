@@ -18,7 +18,7 @@ Add other manager relationships to set up dotted-line reporting for an employee.
 
 ## Before you begin
 
-An [[emp-slate-employee-profile|employee profile]] definition must be created and opted in to add other manager relationships. For more information, see [Opt in to the employee profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/profile-opt-in.md).
+An employee profile definition must be created and opted in to add other manager relationships. For more information, see [Opt in to the employee profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/profile-opt-in.md).
 
 Role required: sn\_employee.admin
 
@@ -46,6 +46,4 @@ Use the Other Manager Relationships module to create many-to-many dotted-line re
 
 4.  Select **Submit**.
 
-## Related
 
-- [[emp-slate-employee-profile|Employee profile]]

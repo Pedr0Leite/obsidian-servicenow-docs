@@ -20,7 +20,7 @@ Role required: sn\_nb\_action.next\_best\_action\_author, sn\_nb\_action.resourc
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[configure-nba|Recommended Actions]]** &gt; **Resource Generators**.
+1.  Navigate to **All** &gt; **Recommended Actions** &gt; **Resource Generators**.
 
 2.  Select **New** from the Resource Generators list.
 
@@ -51,9 +51,5 @@ Role required: sn\_nb\_action.next\_best\_action\_author, sn\_nb\_action.resourc
 
 ## What to do next
 
-[[ex-create-field-recommendation-assg-grp|Create a field recommendation]] that you can use while creating recommended action for recommending assignment group field value.
+[Create a field recommendation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ex-create-field-recommendation-assg-grp.md) that you can use while creating recommended action for recommending assignment group field value.
 
-## Related
-
-- [[ex-create-field-recommendation-assg-grp|Create a field recommendation for recommending assignment group field value]]
-- [[configure-nba|Recommended Actions]]

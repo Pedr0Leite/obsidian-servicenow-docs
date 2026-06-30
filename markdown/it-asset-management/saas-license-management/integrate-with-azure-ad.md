@@ -137,7 +137,7 @@ Create a Microsoft Entra ID integration profile in your ServiceNow instance.
 
 ### Before you begin
 
-To create a Microsoft Entra ID integration profile, request the [[c_SoftwareAssetMgmt|Software Asset Management]] - [[sam-subscription-management|SaaS License Management]] plugin \(sn\_sam\_saas\_int\) from the [ServiceNow Store](https://store.servicenow.com/).
+To create a Microsoft Entra ID integration profile, request the Software Asset Management - SaaS License Management plugin \(sn\_sam\_saas\_int\) from the [ServiceNow Store](https://store.servicenow.com/).
 
 ServiceNow Role required: sam\_integrator
 
@@ -147,7 +147,7 @@ ServiceNow Role required: sam\_integrator
 
 **Note:** Starting with version 7.0.0 of Software Asset Management - SaaS License Management and version 3.1.0 of the Microsoft Entra ID spoke, your ServiceNow instance creates a separate Entra ID connection for each Microsoft Entra ID integration profile that you create. Each connection runs independently of each other, enabling your instance to support multiple independent Microsoft Entra ID integration profiles.
 
-If you’re [[using-sam-workspace|using Software Asset Workspace]], the option to create the Microsoft Entra ID integration profile in Core UI is inactive.
+If you’re using Software Asset Workspace, the option to create the Microsoft Entra ID integration profile in Core UI is inactive.
 
 ### Procedure
 
@@ -174,7 +174,7 @@ Action
 
 </td></tr><tr><td id="d54509e635">
 
-**[[sam-workspace|Software Asset Workspace]]**
+**Software Asset Workspace**
 
 </td><td>
 
@@ -297,7 +297,7 @@ OAuth Redirect URL
 
     -   The **Validate connection** button shows up on the form.
     -   The last activity for users of the connected applications isn't pulled anymore.
-    Scheduled jobs and directory jobs download a list of all your applications, users, and groups. For more information, see [Viewing SSO subscription information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/sso-subscriptions.md). View the status of your jobs in the Scheduled Job Results and Directory Job Results related lists of the integration profile. [[c_CreatingSoftwareModels|Software models]] are automatically created for applications with an **External Catalog ID** that matches an **Identifier** in the Subscription Product Definitions \[samp\_sw\_subscription\_product\_definition\] table.
+    Scheduled jobs and directory jobs download a list of all your applications, users, and groups. For more information, see [Viewing SSO subscription information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/sso-subscriptions.md). View the status of your jobs in the Scheduled Job Results and Directory Job Results related lists of the integration profile. Software models are automatically created for applications with an **External Catalog ID** that matches an **Identifier** in the Subscription Product Definitions \[samp\_sw\_subscription\_product\_definition\] table.
 
 
 ### Result
@@ -342,7 +342,7 @@ SaaS License Management offers direct integrations with select applications. Dir
 
 4.  Select the **Enable group based software model** check box for mapping an SSO group with a specific software model for the application.
 
-    For example, if an application has multiple license [[c_Models|models]] that are linked to specific groups, then you can map a group to a software model to optimize license usage.
+    For example, if an application has multiple license models that are linked to specific groups, then you can map a group to a software model to optimize license usage.
 
     **Important:** If you select this option, you must create a mapping for the SSO group before connecting the application. After the mapping is complete, the SSO subscriptions get automatically created or updated according to the mapped software model. For more information, see [Create an SSO group software model mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/create-ssogrp-swmodel-mapping.md).
 
@@ -368,7 +368,7 @@ After the SSO application connects, your ServiceNow instance automatically creat
 
 ### What to do next
 
-Review all automatically generated reclamation rules to meet your specifications for [[reclaiming-user-subscriptions-saas|reclaiming user subscriptions]]. For more information, see [Review a software reclamation rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/add-reclamation-rule-sub.md).
+Review all automatically generated reclamation rules to meet your specifications for reclaiming user subscriptions. For more information, see [Review a software reclamation rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/add-reclamation-rule-sub.md).
 
 After connecting the SSO application, view information about the SSO profile in the Software Asset Workspace by navigating to **License operations** &gt; **User subscription** &gt; **SSO integration profiles**. You can select an integration profile to view the following related lists:
 
@@ -386,12 +386,3 @@ Create software entitlements for the automatically generated software models to 
 
 Reconciliation also runs on your subscriptions as a scheduled job or on-demand. You can view your reconciliation results in the [License Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sam-license-workbench.md) \(Software Asset Management classic application\) or the [License usage view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sam-workspace-workbench.md) \(Software Asset Workspace\). Use these results to determine your license compliance position and to remediate any non-compliance. For more information on running reconciliation in the Software Asset Management classic application, see [Run software reconciliation in Software Asset Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_RunReconciliation.md). For more information on running reconciliation in the Software Asset Workspace, see [Run software reconciliation in the workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/run-recon-workspace.md).
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-subscription-management|SaaS License Management]]
-- [[using-sam-workspace|Using Software Asset Workspace]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[c_Models|Models]]
-- [[reclaiming-user-subscriptions-saas|Reclaiming user subscriptions]]

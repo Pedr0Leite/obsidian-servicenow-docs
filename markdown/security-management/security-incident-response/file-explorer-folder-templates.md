@@ -30,7 +30,7 @@ Role required: sn\_msi.workspace\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[major-security-incident-management-landing-page|Major Security Incident Management]]** &gt; **File Explorer** &gt; **Folder Templates**.
+1.  Navigate to **All** &gt; **Major Security Incident Management** &gt; **File Explorer** &gt; **Folder Templates**.
 
 2.  Click **New** for Root Folder Configuration.
 
@@ -65,6 +65,3 @@ Role required: sn\_msi.workspace\_admin
 
 **Parent Topic:**[Configure File Explorer Component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/file-explorer.md)
 
-## Related
-
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]

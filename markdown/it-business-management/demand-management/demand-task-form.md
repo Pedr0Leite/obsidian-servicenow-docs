@@ -48,7 +48,7 @@ Assigned to
 
 Primary resource assigned to the demand task. The following conditions apply:-   If an assignment group is defined, only users in the assignment group are listed.
 -   If skills are defined, only users with those skills are listed.
--   If no assignment groups or skills are defined, only users with one of the [[c_ProjectApplicationOverview|Project Management]] application user roles are listed.
+-   If no assignment groups or skills are defined, only users with one of the Project Management application user roles are listed.
 -   Users with `timecard_user` role are also listed.
 
 </td></tr><tr><td>
@@ -135,13 +135,8 @@ Work notes
 
 </td><td>
 
-Information about the demand task. Work notes are added throughout the [[c_DemandManagement|demand management]] life cycle to communicate with other users associated with the demand.**Note:** Users with the [[business-stakeholder-role-ppm|business stakeholder role for PPM]] can view this field. For more information, see [Business stakeholder role for PPM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/business-stakeholder-role-ppm.md).
+Information about the demand task. Work notes are added throughout the demand management life cycle to communicate with other users associated with the demand.**Note:** Users with the business stakeholder role for PPM can view this field. For more information, see [Business stakeholder role for PPM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/business-stakeholder-role-ppm.md).
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Demand Management forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/demand-management-forms.md)
 
-## Related
-
-- [[c_ProjectApplicationOverview|Project Management]]
-- [[c_DemandManagement|Demand Management]]
-- [[business-stakeholder-role-ppm|Business stakeholder role for PPM]]

@@ -42,7 +42,7 @@ Action
 
 </th></tr></thead><tbody><tr><td>
 
-**Enable [[user-hierarchy-risk-remed-task|user hierarchy access control]]**
+**Enable user hierarchy access control**
 
 </td><td>
 
@@ -94,11 +94,7 @@ For information on how to configure the user hierarchy access control on your cu
 **Note:** You must log in to Now Support to view the Knowledge Base articles.
 
 -   **[Create a user hierarchy configuration record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/configure-a-new-user-hierarchy-configuration-record.md)**  
-[[configure-a-new-user-hierarchy-configuration-record|Create a user hierarchy configuration record]] for a table so that you can enable your managers to view the records of the users who report to them.
+Create a user hierarchy configuration record for a table so that you can enable your managers to view the records of the users who report to them.
 
 **Parent Topic:**[Common Governance, Risk, and Compliance features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/common-grc-features.md)
 
-## Related
-
-- [[user-hierarchy-risk-remed-task|User hierarchy access control]]
-- [[configure-a-new-user-hierarchy-configuration-record|Create a user hierarchy configuration record]]

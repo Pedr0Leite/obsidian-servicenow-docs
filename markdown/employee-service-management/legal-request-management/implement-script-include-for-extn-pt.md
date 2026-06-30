@@ -44,7 +44,7 @@ Input:TableName: Name of the table of which the current record is being processe
 
 Use: This function is used to identify whether this implementation should be executed if the TableName you are passing is using the same condition that is defined in the function.
 
-Example: In [[legal-request-management-landing-page|Legal Request Management]], you have the input as tableName to identify if this implementation is for the same table.
+Example: In Legal Request Management, you have the input as tableName to identify if this implementation is for the same table.
 
 The possible script would be as follows:
 
@@ -80,6 +80,3 @@ The possible script would be as follows:
 </table>
 **Parent Topic:**[Create implementation in Scripted Extension Point](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/create-scripted-extension-point.md)
 
-## Related
-
-- [[legal-request-management-landing-page|Legal Request Management]]

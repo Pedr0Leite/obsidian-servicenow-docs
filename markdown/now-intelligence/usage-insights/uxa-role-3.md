@@ -14,7 +14,7 @@ breadcrumb: [Roles installed with Usage Insights, Usage Insights reference, Usag
 
 # Web analytics admin\[web\_analytics\_admin\]
 
-View the settings under [[user-exp-analytics-landing|Usage Insights]] in the application navigator and control the Usage Insights settings for each web application. Assigned users have admin role permissions to create funnel and cohort reports from within the Usage Insights application.
+View the settings under Usage Insights in the application navigator and control the Usage Insights settings for each web application. Assigned users have admin role permissions to create funnel and cohort reports from within the Usage Insights application.
 
 ## Contains Roles
 
@@ -37,6 +37,3 @@ None.
 
 **Parent Topic:**[Roles installed with Usage Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/components-installed-user-exp-analytics.md)
 
-## Related
-
-- [[user-exp-analytics-landing|Usage Insights]]

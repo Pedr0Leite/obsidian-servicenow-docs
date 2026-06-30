@@ -14,7 +14,7 @@ breadcrumb: [Reference, Collaborative Work Management, Strategic Portfolio Manag
 
 # Grouping of tasks in status reports of CWM My Work
 
-Learn how various tasks assigned to you are grouped based on their State and Priority in My Work reports of [[cwm-landing|Collaborative Work Management]] \(CWM\).
+Learn how various tasks assigned to you are grouped based on their State and Priority in My Work reports of Collaborative Work Management \(CWM\).
 
 ## State buckets
 
@@ -47,6 +47,3 @@ Your ServiceNow instance may have some extended task types that have custom stat
 
 [My Work in CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/my-work-in-cwm.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

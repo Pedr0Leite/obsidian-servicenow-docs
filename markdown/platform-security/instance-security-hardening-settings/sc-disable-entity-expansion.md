@@ -18,7 +18,7 @@ If customizations do not require entity expansion, use the **glide.stax.allow\_e
 
 If the **glide.stax.allow\_entity\_resolution** is not set to the recommended value of **false**, then this property allow XML entities to be expanded during parsing by the streaming parser \(XMLDocument2\).
 
-Ensure that the property **glide.stax.allow\_entity\_resolution** exists in the [[ca-system-properties|System Properties]] \[sys\_properties\] table and is set to **false**. If the property does not appear in the System Properties \[sys\_properties\] table the default value is **true**.
+Ensure that the property **glide.stax.allow\_entity\_resolution** exists in the System Properties \[sys\_properties\] table and is set to **false**. If the property does not appear in the System Properties \[sys\_properties\] table the default value is **true**.
 
 **Warning:** This is a safe harbor property, meaning the value can't be altered once it's changed. It is non-revertible.
 
@@ -34,7 +34,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -120,7 +120,3 @@ Before setting this property:
 </td></tr></tbody>
 </table>**Parent Topic:**[Validation, sanitization, and encoding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/validation-sanitization-encoding.md)
 
-## Related
-
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]

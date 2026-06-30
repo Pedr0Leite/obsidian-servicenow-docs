@@ -14,11 +14,11 @@ breadcrumb: [AI Search analytics dashboard, Advanced AI Search Management Tools,
 
 # Configure Service Portal to send analytics data
 
-Enable loading of the [[ai-search-analytics-dashboard|AI Search Analytics dashboard]] by configuring Service Portal to send analytics data.
+Enable loading of the AI Search Analytics dashboard by configuring Service Portal to send analytics data.
 
 ## Before you begin
 
-The [[adv-ais-mgmt-tools-content-pack|Platform Analytics Solution for Advanced AI Search Management Tools]] must be activated on your instance. For details on activating this solution, see [Activate the Platform Analytics Solution for Advanced AI Search Management Tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/install-adv-ais-mgmt-tools.md).
+The Platform Analytics Solution for Advanced AI Search Management Tools must be activated on your instance. For details on activating this solution, see [Activate the Platform Analytics Solution for Advanced AI Search Management Tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/install-adv-ais-mgmt-tools.md).
 
 Role required: admin
 
@@ -41,7 +41,3 @@ If the AI Search Analytics dashboard doesn't load, you must configure tracking o
 
 The AI Search Analytics dashboard should now load correctly.
 
-## Related
-
-- [[ai-search-analytics-dashboard|AI Search analytics dashboard]]
-- [[adv-ais-mgmt-tools-content-pack|Platform Analytics Solution for Advanced AI Search Management Tools]]

@@ -24,7 +24,7 @@ Role required: admin
 
 1.  Add the glide.quota.manager.debug system property, and set the value to true.
 
-2.  Navigate to **[[sys-diag|System Diagnostics]]** &gt; **Session Debug** &gt; **Debug Quotas**.
+2.  Navigate to **System Diagnostics** &gt; **Session Debug** &gt; **Debug Quotas**.
 
     The Debug Quota script runs to enable debugging.
 
@@ -36,9 +36,5 @@ After setting the above system property to **true**, go to your system log to se
 **Related topics**  
 
 
-[[t_AddAPropertyUsingSysPropsList|Add a system property]]
+[Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddAPropertyUsingSysPropsList.md)
 
-## Related
-
-- [[t_AddAPropertyUsingSysPropsList|Add a system property]]
-- [[sys-diag|System Diagnostics]]

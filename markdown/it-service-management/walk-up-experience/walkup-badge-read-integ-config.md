@@ -14,7 +14,7 @@ breadcrumb: [Badge Reader Integration for Walk-up Experience, Configure, Walk-up
 
 # Walk-up Experience Badge Reader Integration setup and configuration
 
-Badge Reader Integration set up and configuration enables your on-site [[walkup-experience-landing-page|Walk-up Experience]] users to scan a badge to quickly check into the queue.
+Badge Reader Integration set up and configuration enables your on-site Walk-up Experience users to scan a badge to quickly check into the queue.
 
 The Walk-up Experience \(com.snc.walkup\) and Badge Reader Integration \(com.snc.badge\_reader\) plugins must be activated before you set up and configure the integration. Refer to [Activate Walk-up Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/activate-walkup-experience.md) and [Activate Badge Reader Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/activate-badge-reader-integration.md) for details regarding activation.
 
@@ -38,13 +38,9 @@ Define the table from where the user ID and Badge ID mapping information is retr
 -   **[Request activation approval for a badge reader device](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/request-badge-reader-device-approval.md)**  
 Request activation approval for your badge reader device. Badge Reader Integration will not trigger event handlers until the badge reader is activated. Badge reader device approval and activation is granted by users with the itil role.
 -   **[Configure Walk-up Experience for Badge Reader Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/config-walkup-for-badge-read-integ.md)**  
-Associate badge reader [[dex-workspace-devices-tab|devices]] with an on-site Walk-up Experience queue. While you can associate more than one badge reader device to a walk-up location, individual badge reader devices are mapped to only one walk-up location.
+Associate badge reader devices with an on-site Walk-up Experience queue. While you can associate more than one badge reader device to a walk-up location, individual badge reader devices are mapped to only one walk-up location.
 -   **[Customize badge Reader Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/badge-reader-integ-customization.md)**  
 Badge Reader Integration includes several scripted extension points for you to customize script includes installed with the feature.
 
 **Parent Topic:**[Badge Reader Integration for Walk-up Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/badge-scan-walkup-onsite.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]
-- [[dex-workspace-devices-tab|Devices]]

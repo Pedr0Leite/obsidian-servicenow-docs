@@ -23,17 +23,17 @@ Role required: sn\_ap\_apm.accounts\_payable\_specialist
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-pay-mgmt-landing-page|Accounts Payable Operations]]** &gt; **Accounts Payable Workspace**.
+1.  Navigate to **All** &gt; **Accounts Payable Operations** &gt; **Accounts Payable Workspace**.
 
 2.  Select the list icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon\).
 
 3.  Do one of the following:
 
-    -   Navigate to **Lists** &gt; **My Work** &gt; **My open [[working-with-ingestion-cases|invoice processing cases]]**.
+    -   Navigate to **Lists** &gt; **My Work** &gt; **My open invoice processing cases**.
     -   Navigate to **Lists** &gt; **All Work** &gt; **All open invoice processing cases**.
 4.  Open the invoice processing case.
 
-5.  Select **[[create-invoice|Create invoice]]**.
+5.  Select **Create invoice**.
 
     The invoice is created and the invoice processing case displays the following message:
 
@@ -46,8 +46,3 @@ Role required: sn\_ap\_apm.accounts\_payable\_specialist
 
 **Parent Topic:**[Invoice ingestion process when Document Intelligence is unavailable](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/invoice-ingest-docintel-unavailable.md)
 
-## Related
-
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[working-with-ingestion-cases|Invoice processing cases]]
-- [[create-invoice|create invoice]]

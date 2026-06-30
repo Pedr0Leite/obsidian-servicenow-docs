@@ -14,7 +14,7 @@ breadcrumb: [Install and configure, Leader Hub, HR Service Delivery, Employee Se
 
 # Create support relationships
 
-Use the [[td-lh-orgsupportrel-form|Org Support Relationships table]] to create a relationship between an organizational leader and an organizational supporter. After the relationship is established, supporters can use [[td-lh-landing|Leader Hub]] to view their designated leader's organization and provide support accordingly.
+Use the Org Support Relationships table to create a relationship between an organizational leader and an organizational supporter. After the relationship is established, supporters can use Leader Hub to view their designated leader's organization and provide support accordingly.
 
 ## Before you begin
 
@@ -43,7 +43,3 @@ The organizational supporter that you specified in the **Supporter** field can v
 
 **Parent Topic:**[Installing and configuring Leader Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/td-lh-install-config.md)
 
-## Related
-
-- [[td-lh-orgsupportrel-form|Org Support Relationships table]]
-- [[td-lh-landing|Leader Hub]]

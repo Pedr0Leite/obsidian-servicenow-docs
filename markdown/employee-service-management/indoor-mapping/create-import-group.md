@@ -22,7 +22,7 @@ Role required: sn\_map\_core.map\_admin, sn\_map\_core.map\_editor
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[Indoor-mapping|Indoor Mapping]]** &gt; **Bulk imports** &gt; **Import Groups**.
+1.  Navigate to **All** &gt; **Indoor Mapping** &gt; **Bulk imports** &gt; **Import Groups**.
 
     You can also navigate to **All** &gt; **Indoor Mapping** &gt; **Map Studio**.
 
@@ -53,7 +53,7 @@ After the import tasks are created, the Automate map updates AI agentic workflow
 
 For more information about the Automate map updates AI agentic workflow, see [Automate map updates agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/automate-map-updates-agent-ai.md).
 
-**Note:** If you selected **Supervised AI execution** in the [[import-group-form|Floor map import group form]], you must manually trigger the AI agent for every import task.
+**Note:** If you selected **Supervised AI execution** in the Floor map import group form, you must manually trigger the AI agent for every import task.
 
 **Parent Topic:**[Bulk update floor plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/bulk-import-cad-files.md)
 
@@ -61,7 +61,3 @@ For more information about the Automate map updates AI agentic workflow, see [Au
 
 **Next topic:**[Work on an import task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/work-import-task.md)
 
-## Related
-
-- [[Indoor-mapping|Indoor Mapping]]
-- [[import-group-form|Floor map import group form]]

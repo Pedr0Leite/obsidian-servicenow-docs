@@ -14,11 +14,11 @@ breadcrumb: [Explore, Industrial Workspace, Operational Technology]
 
 # Operational Technology Hardware Vulnerability Assessment
 
-The [[operational-technology-overview|Operational Technology]] \(OT\) Hardware Vulnerability Assessment \(HVA\) application enables you to assess the firmware vulnerabilities of the OT devices in inventory and create vulnerable items \(VIT\) against the impacted OT devices.
+The Operational Technology \(OT\) Hardware Vulnerability Assessment \(HVA\) application enables you to assess the firmware vulnerabilities of the OT devices in inventory and create vulnerable items \(VIT\) against the impacted OT devices.
 
 ## Hardware Vulnerability Assessment overview
 
-Hardware Vulnerability Assessment uses normalized content for firmware discovery model to perform assessments. The normalized content contains OT device data, such as manufacturer, firmware version, and product model. It's based on the normalization process available in Enterprise Asset Management. The normalized content for OT devices is mapped according to the Common Platform Enumeration \(CPE\) format provided by the National Vulnerability Database \(NVD\). An OT device is considered at risk, when the Common Vulnerabilities and Exposures \(CVEs\) data available in the NVD database, matches the OT device data available in the CPE-mapped normalized content. The Hardware Vulnerability Assessment menu available in the [[industrial-workspace-for-operational-technology|Industrial Workspace]] displays the OT devices that are at risk.
+Hardware Vulnerability Assessment uses normalized content for firmware discovery model to perform assessments. The normalized content contains OT device data, such as manufacturer, firmware version, and product model. It's based on the normalization process available in Enterprise Asset Management. The normalized content for OT devices is mapped according to the Common Platform Enumeration \(CPE\) format provided by the National Vulnerability Database \(NVD\). An OT device is considered at risk, when the Common Vulnerabilities and Exposures \(CVEs\) data available in the NVD database, matches the OT device data available in the CPE-mapped normalized content. The Hardware Vulnerability Assessment menu available in the Industrial Workspace displays the OT devices that are at risk.
 
 HVA can assess firmware discovery models, which don’t have normalized content and they haven’t been CPE-mapped yet. HVA uses a matching score algorithm to compare CPE values with existing firmware discovery values. The matching algorithm searches for CPEs that matches OT devices with the same discovery publisher name, model name, and version. The HVA matching algorithm compares the data from CPEs and unmapped firmware discovery model. Based on the comparison, the matching algorithm evaluates the best possible CPE match for unmapped firmware discovery models. Even though the results may not be fully accurate, it helps in vulnerability assessments until CPE-mapped normalized content is available.
 
@@ -86,7 +86,3 @@ Reference values used to calculate the confidence score.
 
 [Use the Hardware Vulnerability Assessment menu in the Industrial Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/using-hva-tabs-.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

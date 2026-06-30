@@ -14,7 +14,7 @@ breadcrumb: [Working with Event planner, Use, Workplace Central, Workplace Servi
 
 # Track reservations using the Event planner
 
-As a reservation planner and a reservation viewer, the [[event-planner|Event planner]] enables you to monitor the reservations that are requested in your workplace.
+As a reservation planner and a reservation viewer, the Event planner enables you to monitor the reservations that are requested in your workplace.
 
 ## Before you begin
 
@@ -39,11 +39,11 @@ You can view all the reservations that are currently active and also the reserva
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-central-feat|Workplace Central]]** &gt; **Workplace Central**.
+1.  Navigate to **All** &gt; **Workplace Central** &gt; **Workplace Central**.
 
-    You can also open Workplace Central from the [[employee-center-landing-page|Employee Center]] directly. Navigate to **Workspaces** &gt; **Workplace Central**.
+    You can also open Workplace Central from the Employee Center directly. Navigate to **Workspaces** &gt; **Workplace Central**.
 
-    The [[workplace-analytics|Workplace Analytics]] dashboard opens.
+    The Workplace Analytics dashboard opens.
 
 2.  On the left pane, select the **Event planner** icon \(\[Omitted image "event-planner-icon.png"\] Alt text: Event planner icon.\).
 
@@ -82,9 +82,3 @@ You can view all the reservations that are currently active and also the reserva
 
 **Parent Topic:**[Working with Event planner](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/working-with-event-planner.md)
 
-## Related
-
-- [[event-planner|Event Planner]]
-- [[workplace-central-feat|Workplace Central]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-analytics|Workplace Analytics]]

@@ -26,8 +26,5 @@ To migrate your Workspace form header to Configurable Workspace, add an addition
 -   Legacy form headers function without modification, but may affect the functionality of Configurable Workspace.
 -   Add the Form header component to your Configurable Workspace for additional functionality.
 
-For additional information, see [[config-csm-config-ws-form-header|Set up a form header in Configurable Workspace]].
+For additional information, see [Set up a form header in Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-csm-config-ws-form-header.md).
 
-## Related
-
-- [[config-csm-config-ws-form-header|Set up a form header in CSM Configurable Workspace]]

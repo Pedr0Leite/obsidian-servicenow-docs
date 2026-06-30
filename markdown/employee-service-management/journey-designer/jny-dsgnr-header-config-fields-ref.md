@@ -14,7 +14,7 @@ breadcrumb: [Reference, Journey designer, Employee Journey Management, HR Servic
 
 # Journey designer header configuration fields reference
 
-[[jny-dsgnr-landing-page-1|Journey designer]] headers can be configured for different journeys so that the different users can have a unique view for their role in the journey.
+Journey designer headers can be configured for different journeys so that the different users can have a unique view for their role in the journey.
 
 ## Heading Configuration
 
@@ -96,7 +96,7 @@ The default name of a field that is given to the label identified in a table.
 
 </td><td>
 
-The name of the table that contains the field names and custom labels used in the user interface. The header fields for journeys are in these tables.-   [[journey-accelerator-1|Journey Accelerator]] Plan Header Field \[sn\_ja\_plan\]
+The name of the table that contains the field names and custom labels used in the user interface. The header fields for journeys are in these tables.-   Journey Accelerator Plan Header Field \[sn\_ja\_plan\]
 -   Journey \[sn\_jny\_journey\]
 
  A journey header configuration can have labels identifies in multiple tables.
@@ -104,7 +104,3 @@ The name of the table that contains the field names and custom labels used in th
 </td></tr></tbody>
 </table>**Parent Topic:**[Journey designer reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsnr-reference.md)
 
-## Related
-
-- [[jny-dsgnr-landing-page-1|Journey designer]]
-- [[journey-accelerator-1|Journey Accelerator]]

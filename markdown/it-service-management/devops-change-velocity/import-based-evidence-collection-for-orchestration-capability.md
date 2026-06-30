@@ -14,7 +14,7 @@ breadcrumb: [Accelerate your DevOps change process, DevOps Change Velocity, IT S
 
 # Import based evidence collection
 
-Reduce instance overhead by skipping step-level pipeline processing for accelerated [[c_ITILChangeManagement|change management]] and evidence collection for GitHub Actions, Azure DevOps \(ADO\), Jenkins and GitLab orchestration tools.
+Reduce instance overhead by skipping step-level pipeline processing for accelerated change management and evidence collection for GitHub Actions, Azure DevOps \(ADO\), Jenkins and GitLab orchestration tools.
 
 All relevant evidence in the pipeline is attached to the change request using import request instead of webhook notifications.
 
@@ -71,6 +71,3 @@ When the change step in a pipeline is triggered, a callback record is created wi
 
 **Parent Topic:**[Accelerating your DevOps change process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/dev-ops-change-acceleration.md)
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]

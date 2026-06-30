@@ -14,7 +14,7 @@ breadcrumb: [Use Data Foundations advisor, CMDB success advisor, Configuration M
 
 # Principal classes in CMDB success advisor
 
-Principal classes are CI classes that your organization designates as important. In [[cmdb-sa|CMDB success advisor]], the CI classes you select define the Data Foundations advisor scope, and CMDB success advisor automatically marks them as principal on your instance.
+Principal classes are CI classes that your organization designates as important. In CMDB success advisor, the CI classes you select define the Data Foundations advisor scope, and CMDB success advisor automatically marks them as principal on your instance.
 
 A principal CI class is a CI class that your organization has designated as important. When you set up your Data Foundations scope, the CI classes you select are automatically marked as principal on your ServiceNow instance.
 
@@ -85,7 +85,7 @@ Keyword value \(`PREDEFINED`\) that causes CMDB success advisor to recommend a s
 
 ## Principal class synchronization
 
-The Data Foundations advisor stores its own record of which CI classes are in scope. The advisor does not automatically reflect changes to principal class designations made through [[ci-class-manager-landing-page|CI Class Manager]] or directly on the instance. A comparison runs when you open the dashboard to identify any discrepancies.
+The Data Foundations advisor stores its own record of which CI classes are in scope. The advisor does not automatically reflect changes to principal class designations made through CI Class Manager or directly on the instance. A comparison runs when you open the dashboard to identify any discrepancies.
 
 Consider the following behavior:
 
@@ -96,7 +96,3 @@ To keep the Data Foundations advisor dashboard scope accurate, make all principa
 
 If other tools or processes change principal classes outside the advisor, an out-of-sync notification appears when you open the Data Foundations advisor dashboard. For more information, see [Principal class sync in Data Foundations advisor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sa-df-class-sync.md).
 
-## Related
-
-- [[cmdb-sa|CMDB success advisor]]
-- [[ci-class-manager-landing-page|CI Class Manager]]

@@ -22,7 +22,7 @@ Role required: wm\_manager, sn\_fsm\_tp.fsm\_territory\_resource\_manager
 
 ## Procedure
 
-1.  Open [[manager-mobile-app|Field Service Manager Mobile]].
+1.  Open Field Service Manager Mobile.
 
 2.  Tap **Tasks**.
 
@@ -62,7 +62,3 @@ To see one of the tasks currently being worked on, by default five tasks show.**
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[manager-mobile-app|Field Service Manager Mobile]]

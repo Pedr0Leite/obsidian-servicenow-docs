@@ -18,7 +18,7 @@ Users who cannot create their own global reports can modify a global report, and
 
 ## Before you begin
 
-Role required: itil, report\_user, report\_group, report\_global, report\_admin, or admin. On upgraded instances, other users may have the right to copy a report using these instructions based on [[access-control|access control]]. To create Core UI reports in the Australia release, the system property **com.snc.par.coreui.report\_create.enabled** must be set to true.
+Role required: itil, report\_user, report\_group, report\_global, report\_admin, or admin. On upgraded instances, other users may have the right to copy a report using these instructions based on access control. To create Core UI reports in the Australia release, the system property **com.snc.par.coreui.report\_create.enabled** must be set to true.
 
 ## About this task
 
@@ -29,7 +29,7 @@ If you save a global report as a group or personal report, the platform copies t
 -   If you open a personal report and save it as a group or global report, only the security state is changed. The report itself is not copied.
 -   When you select **Insert and Stay** to copy a report, sharing settings are not copied to the new report.
 
-This topic refers to [[reporting-landing-page|Reporting]] in the Core UI. If your instance is a new Australia instance or migrated to [[par-workspace|Platform Analytics experience]], see [[duplicate-dv-ac|Duplicate a visualization in the Visualization Designer]].
+This topic refers to Reporting in the Core UI. If your instance is a new Australia instance or migrated to Platform Analytics experience, see [Duplicate a visualization in the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/duplicate-dv-ac.md).
 
 ## Procedure
 
@@ -67,9 +67,3 @@ This topic refers to [[reporting-landing-page|Reporting]] in the Core UI. If you
 
 [Share a Core UI report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/t_ShareASetting.md)
 
-## Related
-
-- [[duplicate-dv-ac|Duplicate a visualization in the Visualization Designer]]
-- [[access-control|Access control]]
-- [[reporting-landing-page|Reporting]]
-- [[par-workspace|Platform Analytics experience]]

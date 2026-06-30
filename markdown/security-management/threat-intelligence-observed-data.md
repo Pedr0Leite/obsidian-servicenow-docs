@@ -16,14 +16,14 @@ Observed Data conveys information about cyber security-related entities such as 
 
 Observed Data captures both a single observation of a single entity \(file, network connection\) as well as the aggregation of multiple observations of an entity.
 
-You can use Observed Data by itself \(without [[stix-relationships|relationships]]\) to convey raw data collected from any source. Sources include analyst reports, sandboxes, and network and host-based detection [[tools|tools]].
+You can use Observed Data by itself \(without relationships\) to convey raw data collected from any source. Sources include analyst reports, sandboxes, and network and host-based detection tools.
 
 For example, Observed Data can capture information about an IP address, a network connection, a file, or a registry key. Observed Data is not an intelligence assertion, it is simply the raw information without any context for what it means.
 
--   **[[observed-data|Define observed data]]**  
+-   **[Define observed data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/observed-data.md)**  
 Define observed data that conveys information about cyber security-related entities such as files, systems, and networks using the STIX Cyber-observable Objects \(SCOs\).
 
-**Parent Topic:**[[ioc-repository|IoC Repository]]
+**Parent Topic:**[IoC Repository](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/ioc-repository.md)
 
 **Related topics**  
 
@@ -74,9 +74,3 @@ Define observed data that conveys information about cyber security-related entit
 
 [STIX Visualizer]()
 
-## Related
-
-- [[observed-data|Define observed data]]
-- [[ioc-repository|IoC Repository]]
-- [[stix-relationships|Relationships]]
-- [[tools|Tools]]

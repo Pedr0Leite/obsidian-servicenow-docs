@@ -14,7 +14,7 @@ breadcrumb: [Application Manager, Administering applications, Get started, Admin
 
 # Exploring Application Manager
 
-[[application-manager|Application Manager]] provides admins the ability to install, update, and manage licensed applications and plugins for their instance.
+Application Manager provides admins the ability to install, update, and manage licensed applications and plugins for their instance.
 
 ## Application Manager overview
 
@@ -28,7 +28,7 @@ ServiceNow AI Platform administrators can access the Application Manager by navi
 
 ## Application Manager workflow
 
-1.  Install applications and plugins with the Application Manager. You can install applications and plugins that are included in your license, or install applications that have been procured from the [[servicenow-store|ServiceNow Store]].
+1.  Install applications and plugins with the Application Manager. You can install applications and plugins that are included in your license, or install applications that have been procured from the ServiceNow Store.
 2.  Update applications and plugins as new versions become available to get the latest features.
 3.  If you no longer need an installed application, you can sometimes uninstall it using the Application Manager. Not all applications can be uninstalled.
 4.  If an application or plugin has been corrupted or accidentally changed, you can use the Application Manager to repair it.
@@ -44,7 +44,7 @@ ServiceNow AI Platform administrators can access the Application Manager by navi
 |Review a list of all installed applications and plugins that can be updated to a newer version and complete the update process.|[View applications and plugins with available updates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/updates-app-mgr.md)|Administrators|
 |View a list of all applications and plugins that have been installed on your ServiceNow AI Platform instance. Select an application or plugin from the list to display its description and technical details.|[View all installed applications and plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/installed-app-mgr.md)|Administrators|
 |View the description and technical details ofan application or plugin. Technical details include dependencies and system requirements. Any options to update, uninstall, or repair the application or plugin are also included.|[View technical details of applications and plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/app-details-app-mgr.md)|Administrators|
-|Access an overview of recent and upcoming Application Manager activity, including installations, updates, [[c_ScheduledJobs|scheduled jobs]], and errors.|[View the Activity log](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/app-mgr-activity-log.md)|Administrators|
+|Access an overview of recent and upcoming Application Manager activity, including installations, updates, scheduled jobs, and errors.|[View the Activity log](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/app-mgr-activity-log.md)|Administrators|
 
 ## What to explore next
 
@@ -57,8 +57,3 @@ To learn more about configuring and using Application Manager, see:
 -   [Repairing applications and plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/repairing-apps-app-manager.md)
 -   [Application Manager reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/app-mgr-reference.md)
 
-## Related
-
-- [[application-manager|Application Manager]]
-- [[servicenow-store|ServiceNow Store]]
-- [[c_ScheduledJobs|Scheduled jobs]]

@@ -14,7 +14,7 @@ breadcrumb: [Manage API data, API Insights, Configuration Management Database \(
 
 # Compare APIs in API Insights
 
-Compare APIs available within your organization in the [[api-insights|API Insights]] workspace.
+Compare APIs available within your organization in the API Insights workspace.
 
 ## Before you begin
 
@@ -36,6 +36,4 @@ Role required: sn\_api\_insights\_ws.api\_mgmt\_architect or sn\_cmdb\_admin
 
 6.  On the Compare APIs page, compare the selected APIs based on version, type, business context also called as business application, managed by group, life cycle stage, and sources.
 
-## Related
 
-- [[api-insights|API Insights]]

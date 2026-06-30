@@ -53,7 +53,7 @@ Associate an existing user with a consumer record. For more information, see [As
 
 ## Associate an existing user with a consumer record
 
-Associate a user with a consumer record in the [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) application. After the association is done, you can access the Consumer Service Portal \(CSP\) as a consumer to search for information, create cases, and more.
+Associate a user with a consumer record in the Customer Service Management \(CSM\) application. After the association is done, you can access the Consumer Service Portal \(CSP\) as a consumer to search for information, create cases, and more.
 
 ### Before you begin
 
@@ -78,6 +78,3 @@ Role required: sn\_crm\_consumer\_data\_manager, sn\_crm\_consumer\_relationship
 
 The sys\_user is associated with the consumer record. You can access the Consumer Service Portal \(CSP\) as a consumer.
 
-## Related
-
-- [[c_CustomerServiceManagement|Customer Service Management]]

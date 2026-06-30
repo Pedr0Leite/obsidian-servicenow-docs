@@ -54,8 +54,5 @@ Role required: admin
 
 ## Result
 
-The asset is created and added to the [[assets-page-console|Assets page]].
+The asset is created and added to the Assets page.
 
-## Related
-
-- [[assets-page-console|Assets page]]

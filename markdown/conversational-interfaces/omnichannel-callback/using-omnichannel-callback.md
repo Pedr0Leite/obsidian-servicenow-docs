@@ -14,7 +14,7 @@ breadcrumb: [Omnichannel Callback, Manage people and work, Conversational Interf
 
 # Working on callback records
 
-Use Workspace to work on callback records originating from [[omnichannel-callback|Omnichannel Callback]].
+Use Workspace to work on callback records originating from Omnichannel Callback.
 
 Agents can work on the records for the following callback scenarios.
 
@@ -22,6 +22,3 @@ Agents can work on the records for the following callback scenarios.
 -   Scheduled voice callback: When a user requests a voice callback at their preferred date and time, an interaction record with callback details is created a minute before the scheduled call time and an agent receives the callback work item. When the agent accepts the callback work item, auto-dial initiates a call to the user. Based on the outcome, the agent can either close the interaction as **Closed Complete** or **Closed Abandoned**.\[Omitted image "Callback-phone.png"\] Alt text: Scheduled phone callback
 -   Scheduled video callback: When a user requests a video callback at their preferred date and time, an interaction record with callback details is created which includes a URL to initiate the video call. Based on the outcome, the agent can either close the interaction as **Closed Complete** or **Closed Abandoned**.\[Omitted image "Callback-video.png"\] Alt text: Scheduled video callback
 
-## Related
-
-- [[omnichannel-callback|Omnichannel Callback]]

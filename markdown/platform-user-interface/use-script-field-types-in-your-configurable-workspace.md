@@ -12,7 +12,7 @@ breadcrumb: [Forms, Administer, Configurable Workspace UI, Configure UIs and por
 
 # Configure script fields for a workspace
 
-[[configure-onboarding-modals|Configure]] a Configurable Workspace to support script fields.
+Configure a Configurable Workspace to support script fields.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin
 
     The entire list of properties in the System Properties \[sys\_properties\] table opens.
 
-2.  Show script fields in [[form-configurable-workspace|forms]] with a code editor component.
+2.  Show script fields in forms with a code editor component.
 
     1.  Add a system property named **glide.ui.workspace.script.code\_editor.enable**.
 
@@ -42,7 +42,4 @@ Role required: admin
 
     2.  Select **Submit**.
 
-## Related
 
-- [[configure-onboarding-modals|Configure]]
-- [[form-configurable-workspace|Forms]]

@@ -14,7 +14,7 @@ breadcrumb: [Using Skills Foundation, Skills Foundation, Growth Experiences, HR 
 
 # Update your skill proficiency level
 
-Update and track your proficiency level for each skill that you list in your skills profile by using the [[skills-intelligence|Skills Foundation]] application.
+Update and track your proficiency level for each skill that you list in your skills profile by using the Skills Foundation application.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_skills\_int.emp
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Employee Center**.
 
 2.  In the Employee Center, navigate to **Profile** &gt; **Career** tab.
 
@@ -45,7 +45,3 @@ Your skill proficiency level is successfully updated in your skills profile.
 
 **Parent Topic:**[Using Skills Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/using-skills-intelligence.md)
 
-## Related
-
-- [[skills-intelligence|Skills Foundation]]
-- [[employee-center-landing-page|Employee Center]]

@@ -26,7 +26,7 @@ Role required: password\_reset\_admin
 
     **Note:** Starting with the Kingston release, following a zBoot, the script actions **SNC User Lockout Check with Auto Unlock** and **SNC User Clear** are activated.
 
-    To learn more about properties that affect failed login attempts, see [Managing failed login attempts \(instance security hardening\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-managing-failed-login-attempts.md) in the Instance [[sc-hardening|Security Hardening]] Settings.
+    To learn more about properties that affect failed login attempts, see [Managing failed login attempts \(instance security hardening\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-managing-failed-login-attempts.md) in the Instance Security Hardening Settings.
 
 <table id="table_yzs_qcf_g1b"><thead><tr><th>
 
@@ -68,10 +68,6 @@ Updates the user record after a successful login: Resets the number of failed lo
 
 Each time a user attempts to log in, the action is recorded in an event log. You can view a log of failed login attempts.
 
-1.  Navigate to **System Policy** &gt; **[[r_EventLogs|Event Logs]]**.
+1.  Navigate to **System Policy** &gt; **Event Logs**.
 2.  Filter for **login.failed** in the **Name** field. You can view the attempted login name, date, and IP address logged for the attempt.
 
-## Related
-
-- [[sc-hardening|Security hardening]]
-- [[r_EventLogs|Event logs]]

@@ -14,7 +14,7 @@ breadcrumb: [Set up a custom service channel, Configure, Advanced Work Assignmen
 
 # Create a service channel to route requests
 
-Create a service channel in [[awa-application-landing-page|Advanced Work Assignment]] so that you can route change requests to agents.
+Create a service channel in Advanced Work Assignment so that you can route change requests to agents.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: awa\_admin or admin
 
     -   **All** &gt; **Advanced Work Assignment** &gt; **Home**.
 
-        In the Essential settings section, select **Set up [[awa-service-channels|service channels]]**.
+        In the Essential settings section, select **Set up service channels**.
 
     -   **All** &gt; **Advanced Work Assignment** &gt; **Service Channels**.
 2.  Select **New**.
@@ -40,7 +40,4 @@ Role required: awa\_admin or admin
     -   Utilization condition: \[Active\] \[is\] \[true\]
 4.  Select **Submit**.
 
-## Related
 
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[awa-service-channels|Service channels]]

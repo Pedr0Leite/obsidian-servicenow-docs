@@ -18,7 +18,7 @@ Set your user's password for the instance based on the password policy that is c
 
 ## Before you begin
 
-[[users|Users]] created for setting the password for their first login. For more information, see [Create a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAUser.md).
+Users created for setting the password for their first login. For more information, see [Create a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAUser.md).
 
 To populate the **Password** field directly on the user form, enable the **Enable to show the password field on the sys\_user Form** \(glide.user.show.password.field\). To know more about the properties, see [Password policy properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/password-policy-properties.md).
 
@@ -56,6 +56,4 @@ Role required: password\_policy\_admin
 
     The user during the first login must use the same password for login and change the password upon login adhering to the password policy configured by the administrators.
 
-## Related
 
-- [[users|Users]]

@@ -14,9 +14,5 @@ breadcrumb: [Personal Lines Claims, Exploring insurance claims applications, Ins
 
 # Setting up Personal Lines Claims
 
-Install and [[configure-personal-lines-claims|configure Personal Lines Claims]] so that your first-notice-of-loss \(FNOL\) representatives, processors, adjusters, and others can begin servicing your personal [[insurance-claims-flow|insurance claims]].
+Install and configure Personal Lines Claims so that your first-notice-of-loss \(FNOL\) representatives, processors, adjusters, and others can begin servicing your personal insurance claims.
 
-## Related
-
-- [[configure-personal-lines-claims|Configure Personal Lines Claims]]
-- [[insurance-claims-flow|Insurance claims]]

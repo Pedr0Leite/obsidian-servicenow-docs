@@ -12,7 +12,7 @@ breadcrumb: [Configure, Field Service Management]
 
 # Planning your Field Service Management implementation
 
-Before starting on your implementation journey, take some time to plan your implementation, understand [[fsm-application-landing-page|Field Service Management]] packaging and licensing, and take some training for the features you want to implement.
+Before starting on your implementation journey, take some time to plan your implementation, understand Field Service Management packaging and licensing, and take some training for the features you want to implement.
 
 ## Planning
 
@@ -30,19 +30,13 @@ The following on-demand training is available for Field Service Management. Thes
 
 [Field Service Management \(FSM\) Fundamentals](https://learning.servicenow.com/lxp/en/field-service-management/field-service-management-fsm-fundamentals-on?id=learning_course_prev&course_id=ef8e060797afde50f6913ce0f053af7a)- Learn about ServiceNow Field Service Management applications and modules.
 
-[Dynamic Scheduling Essentials](https://learning.servicenow.com/lxp/en/field-service-management/field-service-management-fsm-dynamic-scheduling?id=learning_course_prev&course_id=853fa0d247232114c00af235126d43b8)- Learn how to [[create-dynamic-scheduling-config|configure Dynamic Scheduling]] to auto-assign work order tasks based on defined assignment criteria.
+[Dynamic Scheduling Essentials](https://learning.servicenow.com/lxp/en/field-service-management/field-service-management-fsm-dynamic-scheduling?id=learning_course_prev&course_id=853fa0d247232114c00af235126d43b8)- Learn how to configure Dynamic Scheduling to auto-assign work order tasks based on defined assignment criteria.
 
 [Field Service Management \(FSM\) Implementation \(on demand\)](https://learning.servicenow.com/lxp/en/field-service-management/field-service-management-fsm-implementation-on?id=learning_course_prev&course_id=0bc52eb5932452d056aeb94c5cba102f)- Learn practical skills to accelerate the implementation of ServiceNow Field Service Management applications and related functionality, most of which may be configured using a low-code or no-code approach.
 
-[Schedule Optimization Implementation](https://learning.servicenow.com/lxp/en/field-service-management/schedule-optimization-essentials?id=learning_course_prev&course_id=885c17f8c31fb91c1ac0f60f050131b7)- Master [[schedule-optimization|Schedule Optimization]] in ServiceNow Field Service Management.
+[Schedule Optimization Implementation](https://learning.servicenow.com/lxp/en/field-service-management/schedule-optimization-essentials?id=learning_course_prev&course_id=885c17f8c31fb91c1ac0f60f050131b7)- Master Schedule Optimization in ServiceNow Field Service Management.
 
 [Field Service Contractor Management Essentials](https://learning.servicenow.com/lxp/en/field-service-management/field-service-contractor-management-essentials?id=learning_course_prev&course_id=600f46cf47eb5e54ca332a81736d436b)- Learn how to implement and administer the ServiceNow Field Service Contractor Management application.
 
-[Now Assist for Field Service Management \(FSM\) Essentials](https://learning.servicenow.com/lxp/en/field-service-management/now-assist-for-field-service-management-fsm?id=learning_course_prev&course_id=75cd3a5e973816d06eedb30e6253af7e)- Learn how to implement [[now-assist-fsm|Now Assist for Field Service Management \(FSM\)]].
+[Now Assist for Field Service Management \(FSM\) Essentials](https://learning.servicenow.com/lxp/en/field-service-management/now-assist-for-field-service-management-fsm?id=learning_course_prev&course_id=75cd3a5e973816d06eedb30e6253af7e)- Learn how to implement Now Assist for Field Service Management \(FSM\).
 
-## Related
-
-- [[fsm-application-landing-page|Field Service Management]]
-- [[create-dynamic-scheduling-config|Configure dynamic scheduling]]
-- [[schedule-optimization|Schedule Optimization]]
-- [[now-assist-fsm|Now Assist for Field Service Management \(FSM\)]]

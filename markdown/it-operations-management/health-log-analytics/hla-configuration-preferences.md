@@ -14,7 +14,7 @@ breadcrumb: [Health Log Analytics reference, Health Log Analytics, ITOM AIOps, I
 
 # Health Log Analytics configuration preferences
 
-Commonly used settings for [[hla-landing-page|Health Log Analytics]] properties and general configuration.
+Commonly used settings for Health Log Analytics properties and general configuration.
 
 ## MID Server settings
 
@@ -73,6 +73,3 @@ When using Health Log Analytics application, Version 22.0.12 - December 2021 and
 
 **Parent Topic:**[Health Log Analytics reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-reference.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

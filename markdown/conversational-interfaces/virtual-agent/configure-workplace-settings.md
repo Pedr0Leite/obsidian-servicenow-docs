@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings**.
 
 2.  In **General Settings** under **Channels and integrations**, click **View All**.
 
@@ -40,9 +40,9 @@ Role required: admin
 
     **Note:** Any changes made to these settings will reflect in all the channels.
 
-    -   **System Messages**: Customize the default system messages displayed during [[virtual-agent-landing-page|Virtual Agent]] conversations.
+    -   **System Messages**: Customize the default system messages displayed during Virtual Agent conversations.
 
-        For more information about changing or updating a system message, see [[ac-change-system-messages|Change system messages]].
+        For more information about changing or updating a system message, see [Change system messages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ac-change-system-messages.md).
 
     -   **Contextual Actions**: Customize the supported actions per user command inputs.
 
@@ -51,8 +51,3 @@ Role required: admin
 
 **Parent Topic:**[Configuring Conversational Integration with Workplace from Facebook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configuring-ci-workplace-fb.md)
 
-## Related
-
-- [[ac-change-system-messages|Change Virtual Agent and Agent Chat system messages]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[virtual-agent-landing-page|Virtual Agent]]

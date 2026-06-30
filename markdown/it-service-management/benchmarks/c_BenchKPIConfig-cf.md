@@ -16,11 +16,11 @@ breadcrumb: [Reference, Benchmarks, IT Service Management]
 
 You can enable or disable a benchmark KPI, and customize KPI conditions. Integration with Performance Analytics provides daily data collection and drill down capabilities on KPI data.
 
-[[benchmarks-landing|Benchmarks]] offers ITSM, ITOM, Virtual Agent, Security Operations KPIs, Success Dashboard, and Strategic Portfolio Management.
+Benchmarks offers ITSM, ITOM, Virtual Agent, Security Operations KPIs, Success Dashboard, and Strategic Portfolio Management.
 
 **Note:** Upgrading Benchmarks does not change KPI status or configuration from the previous release. New KPIs are enabled by default.
 
-Benchmarks uses anonymous, aggregated usage data from customers who have opted in to calculate global and industry benchmarks. The KPIs in the Benchmarks application are performance analytics indicators that only collect the usage count data, for example, the total number of incidents in a month, based on the monthly aggregates. During data collection, the Benchmarks application does not consider any other details such as description of incidents, or information about requests, changes, or [[dex-workspace-application-tab|applications]].
+Benchmarks uses anonymous, aggregated usage data from customers who have opted in to calculate global and industry benchmarks. The KPIs in the Benchmarks application are performance analytics indicators that only collect the usage count data, for example, the total number of incidents in a month, based on the monthly aggregates. During data collection, the Benchmarks application does not consider any other details such as description of incidents, or information about requests, changes, or applications.
 
 The participating customer count for each cohort bucket in Industry Category, User Size, and Three geo regions aggregates are large enough to calculate monthly benchmarks values and to maintain full anonymity. To further ensure data anonymity, the Benchmarks user interface allows you to use only one filter at a time.
 
@@ -689,10 +689,5 @@ Users with the Benchmarks admin \(sn\_bm\_client.benchmark\_admin\) and Benchmar
         You can see the updated Benchmarks by visiting Benchmarks Dashboard &lt;Benchmark Dashboard Portal Link&gt;.
 
 
-Benchmarks notification emails are accessed using the **System [[settings-mobile|Settings]]** &gt; **Notifications** navigation menu.
+Benchmarks notification emails are accessed using the **System Settings** &gt; **Notifications** navigation menu.
 
-## Related
-
-- [[benchmarks-landing|Benchmarks]]
-- [[dex-workspace-application-tab|Applications]]
-- [[settings-mobile|Settings]]

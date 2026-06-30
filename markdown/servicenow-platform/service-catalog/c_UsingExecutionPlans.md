@@ -14,7 +14,7 @@ breadcrumb: [Execution Plans, Service Catalog request fulfillment, Configuring S
 
 # Service catalog execution plans
 
-[[service-catalog|Service catalog]] enables you to associate [[c_ExecutionPlans|execution plans]] with catalog items.
+Service catalog enables you to associate execution plans with catalog items.
 
 Once you have created the execution plan record, you can associate it with catalog items, create task templates, and associate any catalog item variables to tasks, if required.
 
@@ -47,7 +47,4 @@ This association can be done later, but doing it at this stage enables you to ac
 
 4.  Click **Update**.
 
-## Related
 
-- [[service-catalog|Service Catalog]]
-- [[c_ExecutionPlans|Execution Plans]]

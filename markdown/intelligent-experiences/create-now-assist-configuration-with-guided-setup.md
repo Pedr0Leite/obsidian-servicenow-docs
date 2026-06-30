@@ -12,19 +12,19 @@ breadcrumb: [Use Now Assist context menu for custom skill deployment, Now Assist
 
 # Create Now Assist context Menu configuration
 
-Create a new [[now-assist-write-overview|Now Assist context Menu]] configuration to deploy and activate a custom skill.
+Create a new Now Assist context Menu configuration to deploy and activate a custom skill.
 
 ## Before you begin
 
-To configure custom skills in action, ensure that the skill is activated in [[platform-now-assist-landing|Now Assist]].
+To configure custom skills in action, ensure that the skill is activated in Now Assist.
 
 Role required: sn\_skill\_builder.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Now Assist Admin** &gt; **[[now-assist-experiences|Now Assist Experiences]]** &gt; **Now Assist Context Menu**.
+1.  Navigate to **All** &gt; **Now Assist Admin** &gt; **Now Assist Experiences** &gt; **Now Assist Context Menu**.
 
-2.  Select **[[exploring-ai-governance|Configurations]]** tab in the Now Assist context menu [[now-assist-center-home-page|home page]].
+2.  Select **Configurations** tab in the Now Assist context menu home page.
 
 3.  Select **Create New**.
 
@@ -85,13 +85,5 @@ Role required: sn\_skill\_builder.admin
 15. Select **Preview** and **Done**.
 
 
-**Parent Topic:**[[use-now-assist-context-menu-for-custom-skill-deployment|Use Now Assist context menu for custom skill deployment]]
+**Parent Topic:**[Use Now Assist context menu for custom skill deployment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/use-now-assist-context-menu-for-custom-skill-deployment.md)
 
-## Related
-
-- [[use-now-assist-context-menu-for-custom-skill-deployment|Use Now Assist context menu for custom skill deployment]]
-- [[now-assist-write-overview|Now Assist context menu]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-experiences|Now Assist Experiences]]
-- [[exploring-ai-governance|Configurations]]
-- [[now-assist-center-home-page|Home page]]

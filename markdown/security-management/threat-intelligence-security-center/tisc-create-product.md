@@ -14,7 +14,7 @@ breadcrumb: [Vulnerability Artifacts, TISC Library Repository, Threat Intelligen
 
 # Create a Product
 
-Create New Product feature allows you to record the product’s version, vendor, and classification details, to ensure products are accurately linked to [[vulnerabilities|vulnerabilities]] and related records.
+Create New Product feature allows you to record the product’s version, vendor, and classification details, to ensure products are accurately linked to vulnerabilities and related records.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_sec\_tisc.analyst
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Workspaces** &gt; **[[threat-intel-landing-page|Threat Intelligence]] Library** &gt; **[[vulnerability|Vulnerability Artifacts]]** &gt; **Product**.
+1.  Navigate to **All** &gt; **Workspaces** &gt; **Threat Intelligence Library** &gt; **Vulnerability Artifacts** &gt; **Product**.
 
 2.  Select **New**.
 
@@ -76,8 +76,3 @@ The product identifier record is created and appears in the **Product Identifier
 
 [Create Remediations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-create-remediation-record.md)
 
-## Related
-
-- [[vulnerabilities|Vulnerabilities]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[vulnerability|Vulnerability Artifacts]]

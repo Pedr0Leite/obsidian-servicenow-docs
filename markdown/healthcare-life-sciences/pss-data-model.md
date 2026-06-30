@@ -12,7 +12,7 @@ breadcrumb: [Configure, Patient Support Services, Healthcare and Life Sciences S
 
 # Patient Support Services data model
 
-The [[pss-app|Patient Support Services]] application provides a data model for use in the Patient Support Services workflow.
+The Patient Support Services application provides a data model for use in the Patient Support Services workflow.
 
 **Important:**
 
@@ -20,12 +20,12 @@ Starting with the Yokohama release, Patient Support Services is being prepared f
 
 For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base.
 
-The Patient Support Services data model extends the [[hcls-serv-mgmt-core|Healthcare and Life Sciences data model]].
+The Patient Support Services data model extends the Healthcare and Life Sciences data model.
 
 The Patient Support Services data model uses a combination of tables to store data:
 
 -   Tables that are included within the Patient Support Services application.
--   Tables that are included within the [[hcls-core-app|Healthcare and Life Sciences Service Management Core]] application.
+-   Tables that are included within the Healthcare and Life Sciences Service Management Core application.
 
 You can install the Patient Support Services application to use its data model.
 
@@ -143,8 +143,3 @@ Supports the program service tasks.
 </td></tr></tbody>
 </table>For more information, see [Healthcare and Life Sciences data model]().
 
-## Related
-
-- [[pss-app|Patient Support Services]]
-- [[hcls-serv-mgmt-core|Healthcare and Life Sciences data model]]
-- [[hcls-core-app|Healthcare and Life Sciences Service Management Core]]

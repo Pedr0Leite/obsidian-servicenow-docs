@@ -14,11 +14,11 @@ breadcrumb: [Digital Product Release, IT Service Management]
 
 # Exploring Digital Product Release
 
-The ServiceNow® [[dpr-landing-page|Digital Product Release]] application enables you to streamline the process of delivering digital products and services by managing the process from planning to delivery.
+The ServiceNow® Digital Product Release application enables you to streamline the process of delivering digital products and services by managing the process from planning to delivery.
 
 ## Digital Product Release overview
 
-Digital Product Release \(DPR\) is a [[c_ITILReleaseManagement|release management]] solution that helps release managers, product managers, and program managers manage the release process. They can track the progress of releases while ensuring that the releases adhere to the company's policies.
+Digital Product Release \(DPR\) is a release management solution that helps release managers, product managers, and program managers manage the release process. They can track the progress of releases while ensuring that the releases adhere to the company's policies.
 
 This solution automates processes that enable collaboration between stakeholders, so everyone can track release status, from start to finish.
 
@@ -146,7 +146,7 @@ Engineering lead
 
 
 -   **[Digital Product Release Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-workspace.md)**  
-The [[dpr-workspace|Digital Product Release Workspace]] provides a single location for release admins to define release processes and release readiness targets. Product managers can use it to create and manage products and features, define the scope in versions, and plan and execute releases.
+The Digital Product Release Workspace provides a single location for release admins to define release processes and release readiness targets. Product managers can use it to create and manage products and features, define the scope in versions, and plan and execute releases.
 -   **[Release for a product or service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-product-release.md)**  
 A release groups all the tasks \(projects, epics, stories, enhancements, defects, problems, incidents, and so on\) planned for a specific version of a product or service. Digital Product Release provides two different processes: timeline-oriented and stage-oriented, to help you in executing your releases.
 -   **[AI-powered release notes generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-ai-release-notes-generation.md)**  
@@ -160,15 +160,9 @@ Digital Product Release provides flow actions that you can use to build custom r
 -   **[DPR and GRC integration for release compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-policy-compliance-grc-integ.md)**  
 The integration between Digital Product Release \(DPR\) and ServiceNow® GRC: Policy and Compliance Management connects your release management processes with the enterprise risk and compliance controls. This integration helps you deliver faster, safer, and reliable releases.
 -   **[Managing releases in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-sow-integration.md)**  
-Service Operations Workspace \(SOW\) and Digital Product Release \(DPR\) workspaces provide a unified release and [[c_ITILChangeManagement|change management]] experience. You can manage releases, view release details, and associate change requests with releases — all from SOW.
+Service Operations Workspace \(SOW\) and Digital Product Release \(DPR\) workspaces provide a unified release and change management experience. You can manage releases, view release details, and associate change requests with releases — all from SOW.
 -   **[Associating change requests with releases in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-sow-integration-cr.md)**  
 The integration between Service Operations Workspace \(SOW\) and Digital Product Release \(DPR\) workspaces provide a unified release and change management experience. You can associate releases with change requests across both workspaces.
 
 **Parent Topic:**[Digital Product Release](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-landing-page.md)
 
-## Related
-
-- [[dpr-landing-page|Digital Product Release]]
-- [[c_ITILReleaseManagement|Release Management]]
-- [[dpr-workspace|Digital Product Release Workspace]]
-- [[c_ITILChangeManagement|Change Management]]

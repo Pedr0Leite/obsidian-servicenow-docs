@@ -14,13 +14,13 @@ breadcrumb: [Configure Journey designer features, Configure, Journey designer, E
 
 # Recommended learning in journey configurations
 
-Administrators add relevant [[exploring-learning-exp|learning]] recommendations to a journey configuration.
+Administrators add relevant learning recommendations to a journey configuration.
 
-The recommendations are based on the courses taken by similar employees with the same [[hr-lifecycle-events-landing-page-1|Lifecycle Events]] type \(LE\), [[jny-dsgnr-landing-page-1|Journey designer]] journeys, and [[journey-accelerator-1|Journey Accelerator]] plans.
+The recommendations are based on the courses taken by similar employees with the same Lifecycle Events type \(LE\), Journey designer journeys, and Journey Accelerator plans.
 
 -   Recommended courses that are added to a journey configuration by an administrator can be modified or deleted only by an administrator.
 -   Recommended external courses are only available for the designated duration of the course.
--   Recommended learning courses are accessible to managers and mentors that have **Can add recommended learning** permission in a journey configuration. Managers and mentors can add courses only as recommendations to an individual journey from the [[employee-center-landing-page|Employee Center]]. See, [Display learning recommendations to the Manager creating a journey](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-learning-recom-manager-ml.md).
+-   Recommended learning courses are accessible to managers and mentors that have **Can add recommended learning** permission in a journey configuration. Managers and mentors can add courses only as recommendations to an individual journey from the Employee Center. See, [Display learning recommendations to the Manager creating a journey](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-learning-recom-manager-ml.md).
 
 -   **[Add or modify recommended learning in Journey designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-config-reco-lrnng.md)**  
 Configure and manage recommended learning for employee journeys.
@@ -31,10 +31,3 @@ Configure a solution definition to display learning recommendation to users with
 
 **Parent Topic:**[Configure Journey designer features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-configuration.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[jny-dsgnr-landing-page-1|Journey designer]]
-- [[journey-accelerator-1|Journey Accelerator]]
-- [[employee-center-landing-page|Employee Center]]

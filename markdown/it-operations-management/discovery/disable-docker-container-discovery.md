@@ -15,11 +15,11 @@ breadcrumb: [Discovery for containerized resources, Discovery, ITOM Visibility, 
 
 # Disable Docker container CI discovery
 
-Configure Docker [[r-discovery|discovery]] to collect image CIs only, instead of both image and container CIs.
+Configure Docker discovery to collect image CIs only, instead of both image and container CIs.
 
 ## Before you begin
 
--   Verify that you have at least version 1.31.0 of Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns.
+-   Verify that you have at least version 1.31.0 of Discovery and Service Mapping Patterns.
 -   Check your entitlements to determine whether you have access to 2026 Container Packaging.
 
 Role required: discovery\_admin \(granted automatically with 2026 Container Packaging\)
@@ -49,7 +49,3 @@ Run discovery again to apply the changes.
 
 **Parent Topic:**[Discovery for containerized resources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/container-discovery.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

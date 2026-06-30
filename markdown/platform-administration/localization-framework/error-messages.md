@@ -26,7 +26,7 @@ Error messages are displayed when the appropriate settings are not configured fo
 |Error message|Scenario|
 |-------------|--------|
 |Contains invalid Email Address\(es\): \{comma-separated email addresses\}.|When some of the email addresses fail the validation.|
-|Selected [[ia-localization-il|Localization]] Fulfiller group does not have localization\_fulfiller role.|When the selected user group does not have the localization\_fulfiller role.|
+|Selected Localization Fulfiller group does not have localization\_fulfiller role.|When the selected user group does not have the localization\_fulfiller role.|
 |Selected Business Approver group does not have localization\_fulfiller role.|When the selected user group doesn’t have the localization\_fulfiller role.|
 |Selected Translation Approver group does not have localization\_fulfiller role.|When the selected user group does not have the localization\_fulfiller role.|
 |Ensure that the corresponding translation preference for your auto translation option is enabled.|When auto translate is selected in the workflow preference.|
@@ -57,7 +57,7 @@ Scenario
 
 </th></tr></thead><tbody><tr><td>
 
-Failed to machine translate using \{translator name\}. \{Reason for failure\}.**Note:** The reason is fetched from [[dynamic-translation|Dynamic Translation]].
+Failed to machine translate using \{translator name\}. \{Reason for failure\}.**Note:** The reason is fetched from Dynamic Translation.
 
 </td><td>
 
@@ -266,13 +266,8 @@ When publishing translations or when sending translations for approval.
 </table>|Error message|Scenario|
 |-------------|--------|
 |Insights generation job is already running, please try again later|When you try to generate the insights record multiple times.|
-|Your request for translations failed for the selected insights. Click here to see the list of insights for failed requests and reinitiate the request.|Lists the insights records for which it failed to [[language-picker-ui|request translations]].|
+|Your request for translations failed for the selected insights. Click here to see the list of insights for failed requests and reinitiate the request.|Lists the insights records for which it failed to request translations.|
 |Localization setting does not exist for the following table and language pair\(s\): \{pair of table name and language\}. Uncheck the record\(s\) of the mentioned pair\(s\) and resubmit.|Lists the language pair\(s\): \{pair of table name and language\} for which a settings record does not exist.|
 
 **Parent Topic:**[Localization Framework reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/reference-localization-framework.md)
 
-## Related
-
-- [[ia-localization-il|Localization]]
-- [[dynamic-translation|Dynamic translation]]
-- [[language-picker-ui|Request translations]]

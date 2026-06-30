@@ -14,7 +14,7 @@ breadcrumb: [Setting up communication templates and plans in Major Incident Mana
 
 # Configure a communications template for SMS in Major Incident Management
 
-Configure a communication template for SMS in Major [[c_IncidentManagement|Incident Management]] to help reduce the efforts and time spent in creating and composing communication SMS.
+Configure a communication template for SMS in Major Incident Management to help reduce the efforts and time spent in creating and composing communication SMS.
 
 ## Before you begin
 
@@ -87,6 +87,4 @@ Field variables added to the **Template**.
 
     The SMS template record is added to the list of available communication SMS templates.
 
-## Related
 
-- [[c_IncidentManagement|Incident Management]]

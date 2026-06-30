@@ -14,11 +14,11 @@ breadcrumb: [Conversational custom chat integrations, Integrate VA with other ch
 
 # Supported Virtual Agent and Agent Chat features for custom chat integrations
 
-The chat integrations framework supports a multitude of [[virtual-agent-landing-page|Virtual Agent]] and [[ci-use-agent-chat|Agent Chat]] features to provide a robust conversational experience.
+The chat integrations framework supports a multitude of Virtual Agent and Agent Chat features to provide a robust conversational experience.
 
 ## User authentication, authorization, and secure connection setup
 
--   **[[ccci-synch-auth-msgs|Synchronous authentication of messages]]**
+-   **Synchronous authentication of messages**
 
     Provider authentication is synchronous. They will get an immediate response with the request successful or failure code. For configuration information, see [Synchronous authentication of messages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/ccci-synch-auth-msgs.md).
 
@@ -61,9 +61,9 @@ No configuration or scripting required to implement these features in Custom Cha
 
     Custom chat integrations can avail topic discovery via keywords or NLU depending on how Virtual Agent is set up on your instance.
 
--   **[[nava-standard-chat|Standard chat]] and long-running conversations**
+-   **Standard chat and long-running conversations**
 
-    Channels can be set up as either chat or messaging. For more information on long-running conversations, see [[async-chat|Using Asynchronous Chat in messaging channels]].
+    Channels can be set up as either chat or messaging. For more information on long-running conversations, see [Using Asynchronous Chat in messaging channels](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/async-chat.md).
 
 -   **[Custom Virtual Agent chat experiences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-default-chat-experience.md)**
 
@@ -73,7 +73,7 @@ No configuration or scripting required to implement these features in Custom Cha
 
     Display a message in chat client that messages are being translated if dynamic translation is enabled.
 
--   **[[ac-change-system-messages|Customize Virtual Agent and Agent Chat system messages]]**
+-   **[Customize Virtual Agent and Agent Chat system messages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ac-change-system-messages.md)**
 
     System messages are a set of pre-built messages that can be served as bot response in common conversation scenarios such as greeting a user or transferring to a live agent. Admins can override the message text to suit their business needs.
 
@@ -99,7 +99,7 @@ No configuration or scripting required to implement these features in Custom Cha
 
 -   **Specify the default portal for URL navigation at the Provider Channel Identities level**
 
-    For a provider channel, specify the portal in which chat links, including links in output cards and cards for Virtual Agent notifications and AI Search results, are opened. For details on setting the default portal in the Provider Channel Identities \[sys\_cs\_provider\_application\] table, see [Create a channel identifier for your custom chat integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-channel-id-va-cccif.md). To learn more about URL navigation, see [[ac-configure-url-navigation|Configure URL navigation for chat links]].
+    For a provider channel, specify the portal in which chat links, including links in output cards and cards for Virtual Agent notifications and AI Search results, are opened. For details on setting the default portal in the Provider Channel Identities \[sys\_cs\_provider\_application\] table, see [Create a channel identifier for your custom chat integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-channel-id-va-cccif.md). To learn more about URL navigation, see [Configure URL navigation for chat links](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ac-configure-url-navigation.md).
 
 
 ## Supported Agent Chat features
@@ -121,19 +121,19 @@ No configuration or scripting required to implement these features in Custom Cha
 
     When the **Agent Names and Avatars** field is enabled in Agent Chat settings, the Custom Chat Integration Framework supports the display of the agent name and avatar in the chat. For more information, see [Setting up Agent Chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/ac-configure-agent-chat.md).
 
--   **Pre-chat and post-[[ci-conversational-chat-surveys|chat surveys]]**
+-   **Pre-chat and post-chat surveys**
 
     After an agent ends a chat, the post-chat survey runs automatically when the following criteria are met:
 
     -   The Virtual Agent Feedback setup topic is enabled.
-    -   The chat service channel and the queues that your live agents support are configured in [[awa-application-landing-page|Advanced Work Assignment]].
+    -   The chat service channel and the queues that your live agents support are configured in Advanced Work Assignment.
 
 -   **[Synchronous authentication of messages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/ccci-synch-auth-msgs.md)**  
 Inbound message authentication is performed before the message is added to the hybrid queue.
 -   **[Outbound authentication using a token](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/ccci-outbound-auth.md)**  
 Pass an outbound token from the authentication API to the sender script.
 -   **[Message delivery order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/ccci-message-delivery-order.md)**  
-Control [[ccci-message-delivery-order|message delivery order]] by enabling the **Maintain message ordering** option in the Provider Channel \[sys\_cs\_provider\] table. You can view the message order and status in the Custom Adapter Message \[sys\_cs\_ca\_message\] table.
+Control message delivery order by enabling the **Maintain message ordering** option in the Provider Channel \[sys\_cs\_provider\] table. You can view the message order and status in the Custom Adapter Message \[sys\_cs\_ca\_message\] table.
 -   **[Virtual Agent action scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-action-scripts.md)**  
 You need to write a set of mandatory Workflow Studio action and subflow scripts to pass the user data to VACS, apply transformations and send the response back to your chat interface endpoint.
 -   **[Set up trusted media domains for secure file upload](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/ccif-secure-file-upload.md)**  
@@ -147,7 +147,7 @@ An example of multi-step response is a set of images in a carousel or a date con
 -   **[Multi-response output controls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/ccci-multi-flow-output-controls.md)**  
 Implement controls that involve multiple steps to get user input.
 -   **[Send previous control to client](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/send-previous-control-client.md)**  
-Provide the ability to [[send-previous-control-client|send previous control to client]].
+Provide the ability to send previous control to client.
 -   **[Implement a skip option](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-skip-option-script.md)**  
 Use a rich control to provide the option for users to skip a question.
 -   **[Pass branding to a chat client](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-ccif-pass-branding.md)**  
@@ -159,16 +159,3 @@ Display a typing indicator when a bot or live agent is preparing a response to a
 
 **Parent Topic:**[Creating conversational custom chat integrations in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-custom-adapter-framework.md)
 
-## Related
-
-- [[async-chat|Using Asynchronous Chat in messaging channels]]
-- [[ac-change-system-messages|Change Virtual Agent and Agent Chat system messages]]
-- [[ac-configure-url-navigation|Configure URL navigation for chat links]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[ci-use-agent-chat|Agent Chat]]
-- [[ccci-synch-auth-msgs|Synchronous authentication of messages]]
-- [[nava-standard-chat|Standard chat]]
-- [[ci-conversational-chat-surveys|Chat surveys]]
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[ccci-message-delivery-order|Message delivery order]]
-- [[send-previous-control-client|Send previous control to client]]

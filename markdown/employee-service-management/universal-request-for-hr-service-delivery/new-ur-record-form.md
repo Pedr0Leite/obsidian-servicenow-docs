@@ -14,7 +14,7 @@ breadcrumb: [Universal Request reference, Universal Request, Employee Service Ma
 
 # Universal Request form
 
-Use the **[[ur-landing-limitedaccess|Universal Request]]** form to create a universal request task record.
+Use the **Universal Request** form to create a universal request task record.
 
 <table id="table_un2_dyl_n3b"><thead><tr><th>
 
@@ -219,6 +219,3 @@ How or why the universal request was closed.
 </td></tr></tbody>
 </table>**Parent Topic:**[Universal Request reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-reference-topic.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]

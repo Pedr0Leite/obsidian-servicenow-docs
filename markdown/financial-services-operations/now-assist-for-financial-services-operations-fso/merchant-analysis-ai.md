@@ -26,7 +26,7 @@ This agent retrieves dispute task details, performs a web search to assess merch
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[fso-overview|Financial Services]] Workspace** and open a card dispute.
+1.  Navigate to **Workspaces** &gt; **Financial Services Workspace** and open a card dispute.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -60,7 +60,7 @@ This agent retrieves dispute task details, performs a web search to assess merch
 
         If the dispute agent disagrees with the analysis, then a rationale is prompted by the AI agent for the disagreement. On providing a valid rationale, the task proceeds to the next task.
 
-    \[Omitted image "now-assist-merchant-analysis.png"\] Alt text: [[fso-ach-evaluate-merchant|Evaluate merchant analysis]] AI agent in ACH disputes
+    \[Omitted image "now-assist-merchant-analysis.png"\] Alt text: Evaluate merchant analysis AI agent in ACH disputes
 
 11. Once the dispute agent selects the appropriate action, the **Merchant analysis action** is updated with the **Final action** and **Resolution reason**.
 
@@ -73,7 +73,3 @@ Based on the response from the dispute agent, the **Final action** field is upda
 
 **Parent Topic:**[Resolve ACH disputes with AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/resolve-ach-disputes-with-ai-agents.md)
 
-## Related
-
-- [[fso-overview|Financial Services]]
-- [[fso-ach-evaluate-merchant|Evaluate merchant analysis]]

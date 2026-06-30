@@ -12,7 +12,7 @@ breadcrumb: [Impact Value Management Data Collection Content Pack for IRM, Enabl
 
 # Review IRM artifacts
 
-The Data Collection app contains a pre-build data metric structure for the ServiceNow Performance/Platform [[io-analytics|Analytics]] application.
+The Data Collection app contains a pre-build data metric structure for the ServiceNow Performance/Platform Analytics application.
 
 The content pack comes with the following artifact types.
 
@@ -68,6 +68,3 @@ The app contains the following artifacts for each of the above-specified artifac
 |Manual|Outsourced risk mgmt. spend as % of avg. risk mgmt. spend|
 |Manual|Legacy IRM and privacy systems annual run-rate|
 
-## Related
-
-- [[io-analytics|Analytics]]

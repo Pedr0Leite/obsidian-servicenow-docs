@@ -14,13 +14,13 @@ breadcrumb: [Using Notify, Notify, Manage service capabilities, Extend ServiceNo
 
 # Using Notify for making conference calls
 
-[[notify-landing-page|Notify]] administrators, major incident managers, or communications managers can manage conference calls.
+Notify administrators, major incident managers, or communications managers can manage conference calls.
 
 Conference call records are stored on the Notify Conference Calls \[notify\_conference\_call\] table. Conference call participant records are stored on the Notify Conference Call Participants \[notify\_participant\] table.
 
 Conference call and participant records are created automatically when starting and connecting to a conference call. Most fields, such as the **Duration** of a call, are set automatically using business rules.
 
-**Note:** If a participant attempts to [[join-cisco-webex-notify-call|join a conference call]] using an invalid phone number, the caller is added to the participant list and the phone number is marked with a status of **Invalid**.
+**Note:** If a participant attempts to join a conference call using an invalid phone number, the caller is added to the participant list and the phone number is marked with a status of **Invalid**.
 
 Notify administrators, major incident managers, or communications managers can manage conference call participants.
 
@@ -36,9 +36,9 @@ Several conference call workflows are available by default. These workflows can 
 The number groups Conference Call Group and Notify On Task Group use these conference call workflows by default.
 
 -   **[Start a conference call](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/start-a-conference-call.md)**  
-[[t_StartAConferenceCallFromATask|Start a conference call from a task]] or an incident communication plan by inviting one or more users to join a call. The conference will not start until at least two participants join.
+Start a conference call from a task or an incident communication plan by inviting one or more users to join a call. The conference will not start until at least two participants join.
 -   **[Add participants to a conference call](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/t_AddParticipantToConferenceCall.md)**  
-Add a participant to a conference call [[using-notify|using Notify]].
+Add a participant to a conference call using Notify.
 -   **[Mute or unmute all participants](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/t_MuteOrUnmuteAll.md)**  
 As a communications manager or a conference call host, mute/unmute all the conference participants from the workbench.
 -   **[Mute or remove a conference call participant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/t_MuteOrKickAConfCallParty.md)**  
@@ -52,9 +52,3 @@ If you are a Notify administrator, you can view a list of calls and the status o
 
 **Parent Topic:**[Using Notify](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/using-notify.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]
-- [[join-cisco-webex-notify-call|Join a conference call]]
-- [[t_StartAConferenceCallFromATask|Start a conference call from a task]]
-- [[using-notify|Using Notify]]

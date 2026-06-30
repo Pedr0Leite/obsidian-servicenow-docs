@@ -14,27 +14,18 @@ breadcrumb: [Grants Management, Playbooks and Solutions, Configure agent workspa
 
 Configure the foundational details of Grants Management.
 
-1.  [[psds-config-gmp-fdtn-doc-template-rca|Configure Restricted Caller Access \(RCA\) for Document Templates]]  
+1.  [Configure Restricted Caller Access \(RCA\) for Document Templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-fdtn-doc-template-rca.md)  
 Allow secure, controlled access for generating results letters.
-2.  [[psds-config-gmp-assign-user-roles-responsibilities|Assign user personas, roles, groups, and responsibilities in Grants Management]]  
+2.  [Assign user personas, roles, groups, and responsibilities in Grants Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-assign-user-roles-responsibilities.md)  
 By default, Grants Management comes with roles, personas, and responsibilities that can be assigned to existing users on the platform.
-3.  [[psds-gmp-config-show-character-count|Toggle character count display for form fields in Grants Management]]  
+3.  [Toggle character count display for form fields in Grants Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-gmp-config-show-character-count.md)  
 Toggle the character count for form fields in the Grants Management to display the remaining number of characters available in the text field.
-4.  [[psds-config-gmp-setup-retention-policy|Configure a retention policy for grant cases in Grants Management]]  
+4.  [Configure a retention policy for grant cases in Grants Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-setup-retention-policy.md)  
 Set up an Archive Rule to automatically purge active grant cases and their associated data after a set period of time.
-5.  [[psds-config-gmp-single-currency-setup|Configure a currency in Grants Management]]  
+5.  [Configure a currency in Grants Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-single-currency-setup.md)  
 Grants Management currently only supports single-currency mode.
-6.  [[psds-config-gmp-export-pdf|Configure export application functionality in Grants Management]]  
+6.  [Configure export application functionality in Grants Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-export-pdf.md)  
 Configure the export to PDF functionality so that grants program can export grants proposals directly to PDF.
 
-**Parent Topic:**[[configuring-grants-management-playbook|Configuring Grants Management]]
+**Parent Topic:**[Configuring Grants Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/configuring-grants-management-playbook.md)
 
-## Related
-
-- [[psds-config-gmp-fdtn-doc-template-rca|Configure Restricted Caller Access \(RCA\) for Document Templates]]
-- [[psds-config-gmp-assign-user-roles-responsibilities|Assign user personas, roles, groups, and responsibilities in Grants Management]]
-- [[psds-gmp-config-show-character-count|Toggle character count display for form fields in Grants Management]]
-- [[psds-config-gmp-setup-retention-policy|Configure a retention policy for grant cases in Grants Management]]
-- [[psds-config-gmp-single-currency-setup|Configure a currency in Grants Management]]
-- [[psds-config-gmp-export-pdf|Configure export application functionality in Grants Management]]
-- [[configuring-grants-management-playbook|Configuring Grants Management]]

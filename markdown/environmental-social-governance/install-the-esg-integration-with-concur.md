@@ -52,8 +52,5 @@ The following items are installed with Operational Sustainability Integration wi
 6.  Select **Install**.
 
 
-**Parent Topic:**[[integrate-esg-with-concur|Integrating Operational Sustainability Management \(formerly ESG\) with SAP Concur]]
+**Parent Topic:**[Integrating Operational Sustainability Management \(formerly ESG\) with SAP Concur](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/integrate-esg-with-concur.md)
 
-## Related
-
-- [[integrate-esg-with-concur|Integrating Operational Sustainability Management \(formerly ESG\) with SAP Concur]]

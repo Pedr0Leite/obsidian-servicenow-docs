@@ -14,13 +14,13 @@ breadcrumb: [Dashboards for real-time visualization of log data, Health Log Anal
 
 # Monitor visualized log data on a predefined dashboard in Health Log Analytics
 
-Use visualizations to monitor log data on the built-in Operational Dashboard in [[workspace-dashboard-use|Service Operations Workspace]] Log Analytics and address issues as they occur in the system.
+Use visualizations to monitor log data on the built-in Operational Dashboard in Service Operations Workspace Log Analytics and address issues as they occur in the system.
 
 ## Before you begin
 
 Role required: evt\_mgmt\_operator or viz\_admin
 
-**Important:** From the Vancouver release onward, this feature is deprecated and replaced with the AIOps [HLA Operational dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/hla-operational-dashboard.md). For more information about AIOps [[otto-aiops-dashboards|dashboards]], see [AIOps Dashboards in Service Operations Workspace for ITOM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/aiops-dashboards-sow-itom.md). You can also build a custom dashboard per your needs. For more information, see [Create log data dashboards and visualizations in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-log-data-dashboard-create.md).
+**Important:** From the Vancouver release onward, this feature is deprecated and replaced with the AIOps [HLA Operational dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/hla-operational-dashboard.md). For more information about AIOps dashboards, see [AIOps Dashboards in Service Operations Workspace for ITOM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/aiops-dashboards-sow-itom.md). You can also build a custom dashboard per your needs. For more information, see [Create log data dashboards and visualizations in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-log-data-dashboard-create.md).
 
 ## Procedure
 
@@ -84,7 +84,7 @@ Error rate per Application Service
 
 </td><td>
 
-The number of logs with errors for each application service in the selected period.**Note:** [[hla-landing-page|Health Log Analytics]] automatically creates alerts for Error anomalies.
+The number of logs with errors for each application service in the selected period.**Note:** Health Log Analytics automatically creates alerts for Error anomalies.
 
 </td><td>
 
@@ -128,9 +128,3 @@ Ensure that Critical and Error level rates are as expected.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[otto-aiops-dashboards|Dashboards]]
-- [[hla-landing-page|Health Log Analytics]]

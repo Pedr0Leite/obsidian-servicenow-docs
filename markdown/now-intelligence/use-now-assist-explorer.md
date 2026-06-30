@@ -14,42 +14,28 @@ breadcrumb: [AI Data Explorer, Now Assist in Platform Analytics, Platform Analyt
 
 Create "explorations"—editable documents where you analyze data with the help of AI. Set goals to guide smarter follow-up suggestions. Refine responses and add your own input. Collaborate easily with others and make data-informed decisions faster.
 
--   **[[launch-now-assist-explorer|Launch AI Data Explorer]]**  
+-   **[Launch AI Data Explorer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/launch-now-assist-explorer.md)**  
 You can launch AI Data Explorer from either unified navigation or a data visualization or list . If you have the right role, you can create an exploration.
--   **[[ask-expl-questions|Questions and responses in an exploration]]**  
+-   **[Questions and responses in an exploration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/ask-expl-questions.md)**  
 Ask the AI specific questions in AI Data Explorer, to which it responds with data visualizations, a summary, and suggested follow-up questions.
--   **[[goals-questions|Setting exploration goals]]**  
+-   **[Setting exploration goals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/goals-questions.md)**  
 Help Now Assist understand your intent and what you hope to get from the data exploration by setting a goal for an exploration. The goal can improve the relevance of AI outputs.
--   **[[write-text-exploration|Write or edit text in an exploration]]**  
+-   **[Write or edit text in an exploration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/write-text-exploration.md)**  
 Edit text that the AI generated, or share your thoughts in AI Data Explorer by adding text to an exploration.
--   **[[import-data-viz-list-exploration|Add an existing visualization to an exploration]]**  
+-   **[Add an existing visualization to an exploration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/import-data-viz-list-exploration.md)**  
 You can add a data visualization or a list to a new or existing AI Data Explorer exploration from a dashboard, the data visualization library, or other areas of your workspace.
--   **[[expl-view-recommended-actions|View recommended actions in AI Data Explorer]]**  
+-   **[View recommended actions in AI Data Explorer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/expl-view-recommended-actions.md)**  
 Receive AI recommendations of actions to take based on your current exploration in AI Data Explorer.
--   **[[summarize-exploration|Summarize an exploration]]**  
+-   **[Summarize an exploration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/summarize-exploration.md)**  
 Use AI to generate a summary of an exploration. If you update the exploration, you can regenerate the summary.
--   **[[nowass-expl-duplicate-exploration|Duplicate an exploration]]**  
+-   **[Duplicate an exploration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/nowass-expl-duplicate-exploration.md)**  
 Create multiple copies of a AI Data Explorer exploration to repeat analyses, give yourself editing rights without affecting the original, or experiment with multiple variations of an exploration.
--   **[[share-now-assist-explorer|Share and collaborate on an exploration]]**  
+-   **[Share and collaborate on an exploration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/share-now-assist-explorer.md)**  
 Work with others to generate, discuss, refine, and follow up on insights related to a shared project, concern, or goal.
--   **[[open-existing-exploration|Open an existing exploration]]**  
+-   **[Open an existing exploration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/open-existing-exploration.md)**  
 In AI Data Explorer, you can open any exploration that you own or that has been shared with you.
--   **[[delete-an-exploration|Delete an exploration]]**  
+-   **[Delete an exploration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/delete-an-exploration.md)**  
 Authorized users can delete an exploration in several ways.
 
-**Parent Topic:**[[now-assist-explorer|Use AI to explore data with AI Data Explorer]]
+**Parent Topic:**[Use AI to explore data with AI Data Explorer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/now-assist-explorer.md)
 
-## Related
-
-- [[launch-now-assist-explorer|Launch AI Data Explorer]]
-- [[ask-expl-questions|Questions and responses in an exploration]]
-- [[goals-questions|Setting exploration goals]]
-- [[write-text-exploration|Write or edit text in an exploration]]
-- [[import-data-viz-list-exploration|Add an existing visualization to an exploration]]
-- [[expl-view-recommended-actions|View recommended actions in AI Data Explorer]]
-- [[summarize-exploration|Summarize an exploration]]
-- [[nowass-expl-duplicate-exploration|Duplicate an exploration]]
-- [[share-now-assist-explorer|Share and collaborate on an exploration]]
-- [[open-existing-exploration|Open an existing exploration]]
-- [[delete-an-exploration|Delete an exploration]]
-- [[now-assist-explorer|Use AI to explore data with AI Data Explorer]]

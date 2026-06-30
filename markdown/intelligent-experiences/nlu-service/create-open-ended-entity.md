@@ -18,7 +18,7 @@ Use an open-ended entity when you want to improve intent prediction accuracy. Op
 
 ## Before you begin
 
--   Make sure that the NLU Workbench plugin, NLU Workbench - Core plugin, NLU Common Model plugin, and [[predictive-intelligence-landing|Predictive Intelligence]] plugin are all installed and activated on your instance.
+-   Make sure that the NLU Workbench plugin, NLU Workbench - Core plugin, NLU Common Model plugin, and Predictive Intelligence plugin are all installed and activated on your instance.
 -   Create or use an existing NLU model for Virtual Agent or AI Search.
 -   Create or use an existing intent.
 -   Role required: nlu\_editor, nlu\_admin, or admin. The nlu\_editor must be assigned to the model.
@@ -37,7 +37,7 @@ In other scenarios you should use a simple entity, as there could be multiple in
 
 For this example scenario, you've created an NLU model with an intent for your users to order company merchandise.
 
-In the following example procedure, you create an entity from one of your utterances so the system can recognize it as open-ended and reusable in other [[nlu-models|NLU models]] in your instance.
+In the following example procedure, you create an entity from one of your utterances so the system can recognize it as open-ended and reusable in other NLU models in your instance.
 
 **Note:** You can use only one open-ended entity per intent.
 
@@ -65,7 +65,7 @@ In the following example procedure, you create an entity from one of your uttera
 
 7.  On the Create a new entity screen, configure the fields.
 
-    For this example, use the following [[exploring-ai-governance|configurations]]:
+    For this example, use the following configurations:
 
     -   **Entity Name**: `merch`
     -   **Type**: Select **Open-Ended**
@@ -82,7 +82,7 @@ In the following example procedure, you create an entity from one of your uttera
 
 Train your model to save the entities. You can try your model to see if it interprets the utterance based on the context of the entity, rather than the entity itself.
 
-For this example, you can [[test-your-model|test your model]] with a different merchandise item.
+For this example, you can test your model with a different merchandise item.
 
 1.  Select **Try Model**.
 2.  Enter `I want to order a polo`.
@@ -92,9 +92,3 @@ For this example, you can [[test-your-model|test your model]] with a different m
 
 The model predicts the intent and shows that it used the merch entity for the a polo value.
 
-## Related
-
-- [[predictive-intelligence-landing|Predictive Intelligence]]
-- [[nlu-models|NLU models]]
-- [[exploring-ai-governance|Configurations]]
-- [[test-your-model|Test your model]]

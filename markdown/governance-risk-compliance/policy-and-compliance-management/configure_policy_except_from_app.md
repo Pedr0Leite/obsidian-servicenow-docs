@@ -14,7 +14,7 @@ breadcrumb: [Allow policy exception requests, Enhancement steps, Implement, Poli
 
 # Configure policy exceptions from other applications
 
-Before you can request policy exceptions from applications other than [[r_PolicyComplianceMgmt|Policy and Compliance Management]], you must add a UI action for making the request and, optionally, create a new [[list-view-uib-ws|list view]] to see policy exception target records on the Policy Exception form.
+Before you can request policy exceptions from applications other than Policy and Compliance Management, you must add a UI action for making the request and, optionally, create a new list view to see policy exception target records on the Policy Exception form.
 
 ## Before you begin
 
@@ -70,7 +70,3 @@ Starting with Version 10.1 of Policy and Compliance Management, if you have inst
 
 **Parent Topic:**[Allow policy exception requests from other applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/allow-other-app-policy-except.md)
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[list-view-uib-ws|List view]]

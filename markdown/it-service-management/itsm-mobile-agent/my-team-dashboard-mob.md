@@ -14,7 +14,7 @@ breadcrumb: [Managing teams and incidents using My Team applet, ITSM Mobile Agen
 
 # My team dashboard
 
-As a group manager, with the My team dashboard, gain insights into the data like [[incidents-at-risk|incidents at risk]], [[breached-incidents|breached incidents]] or [[overdue-change-mobile|overdue changes]].
+As a group manager, with the My team dashboard, gain insights into the data like incidents at risk, breached incidents or overdue changes.
 
 Tap on the sections to process the incidents.
 
@@ -30,8 +30,3 @@ Tap on the sections to process the incidents.
 
 [Overdue changes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/overdue-change-mobile.md)
 
-## Related
-
-- [[incidents-at-risk|Incidents at risk]]
-- [[breached-incidents|Breached Incidents]]
-- [[overdue-change-mobile|Overdue changes]]

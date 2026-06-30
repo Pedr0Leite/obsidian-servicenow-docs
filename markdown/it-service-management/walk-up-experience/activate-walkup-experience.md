@@ -14,7 +14,7 @@ breadcrumb: [Administration, Configure, Walk-up Experience, IT Service Managemen
 
 # Activate Walk-up Experience
 
-You can activate the [[walkup-experience-landing-page|Walk-up Experience]] plugin \(com.snc.walkup\) if you have the admin role. This plugin includes demo data.
+You can activate the Walk-up Experience plugin \(com.snc.walkup\) if you have the admin role. This plugin includes demo data.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ The Walk-up Experience application is for pre-built support lounges. The applica
 
 The Interaction Logging, Routing, and Queuing \(com.glide.interaction\) plugin are activated with the Walk-up Experience plugin \(com.snc.walkup\). The following plugins must also be activated in order to use the Walk-up Experience application:
 
--   [[c_AssetManagement|Asset Management]] \(com.snc.asset\_management\)
+-   Asset Management \(com.snc.asset\_management\)
 -   Service Portal \(com.glide.service-portal\)
 
 To activate Walk-up Experience Badge Reader Integration and for more information about this feature, refer to [Badge Reader Integration for Walk-up Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/badge-scan-walkup-onsite.md).
@@ -37,7 +37,7 @@ For enhanced security, activate the Explicit Role \(com.glide.explicit\_roles\) 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System [[dex-workspace-application-tab|Applications]]** &gt; **All Available Applications** &gt; **All**.
+1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
 2.  Find the plugin using the filter criteria and search bar.
 
@@ -57,8 +57,3 @@ For enhanced security, activate the Explicit Role \(com.glide.explicit\_roles\) 
 
 [List of plugins \(Australia\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]
-- [[c_AssetManagement|Asset Management]]
-- [[dex-workspace-application-tab|Applications]]

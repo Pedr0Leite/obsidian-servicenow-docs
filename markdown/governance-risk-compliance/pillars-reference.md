@@ -12,7 +12,7 @@ breadcrumb: [Set up pillars and entity types from Workspace UI, Setting up pilla
 
 # GRC Choices form
 
-Use the [[important-choices-reference|GRC Choices form]] to set up a pillar to define the core areas for your business entity.
+Use the GRC Choices form to set up a pillar to define the core areas for your business entity.
 
 ## GRC Choices form
 
@@ -20,18 +20,12 @@ For a description of the field values, see the following table.
 
 |Field|Description|
 |-----|-----------|
-|Set|View that is set to [[grc-opres-landing-page|Operational Resilience]].|
+|Set|View that is set to Operational Resilience.|
 |Name|Name that the pillar belongs to such as Process, Suppliers, Technology, Facilities, People, Services, and Processes.|
 |Label|Label for the pillar that is displayed in the UI.|
-|Active|Field to activate the pillars. The pillars are shipped in an inactive state by default. You must activate the pillars from the [[list-view-uib-ws|list view]] before activating the [[entity-type-in-risk-ws|entity types]], as the entity types depend on the pillars. Activation of entity types can only occur after pillar activation.|
+|Active|Field to activate the pillars. The pillars are shipped in an inactive state by default. You must activate the pillars from the list view before activating the entity types, as the entity types depend on the pillars. Activation of entity types can only occur after pillar activation.|
 |Choice category|Category that is set to **Pillar** by default.|
 |Value|Value of the pillar.|
 |Order|Order for the pillar.|
 |Parent|Parent entity that is associated with the selected pillar.|
 
-## Related
-
-- [[important-choices-reference|GRC Choices form]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[list-view-uib-ws|List view]]
-- [[entity-type-in-risk-ws|Entity types]]

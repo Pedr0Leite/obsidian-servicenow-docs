@@ -14,7 +14,7 @@ breadcrumb: [Using ITSM Virtual Agent pre-built topics, ITSM Virtual Agent, IT S
 
 # Microsoft Exchange Server meeting management pre-built topics for ITSM Virtual Agent
 
-[[itsm-virtual-agent|ITSM Virtual Agent]] helps you manage meetings in Microsoft Exchange Server. Using the Manage Meetings EXS topic, you can schedule, reschedule, and cancel a meeting.
+ITSM Virtual Agent helps you manage meetings in Microsoft Exchange Server. Using the Manage Meetings EXS topic, you can schedule, reschedule, and cancel a meeting.
 
 ## Manage Meetings EXS
 
@@ -74,6 +74,3 @@ Basic flow:
 
 **Parent Topic:**[Using ITSM Virtual Agent pre-built topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/using-itsm-va.md)
 
-## Related
-
-- [[itsm-virtual-agent|ITSM Virtual Agent]]

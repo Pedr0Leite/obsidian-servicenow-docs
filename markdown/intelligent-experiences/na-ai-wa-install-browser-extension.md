@@ -66,11 +66,7 @@ When you log out of the ServiceNow instance, the message `Disconnected` appears 
 
 ## What to do next
 
-After installing the browser extension, configure websites that AI agents can access for automating web tasks. For detailed instructions, see [[na-ai-wa-configure-allowed-websites|Configure allowed websites for adaptive desktop actions]].
+After installing the browser extension, configure websites that AI agents can access for automating web tasks. For detailed instructions, see [Configure allowed websites for adaptive desktop actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/na-ai-wa-configure-allowed-websites.md).
 
-**Parent Topic:**[[ad-adaptive-path-da|Configuration for adaptive path desktop actions]]
+**Parent Topic:**[Configuration for adaptive path desktop actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ad-adaptive-path-da.md)
 
-## Related
-
-- [[na-ai-wa-configure-allowed-websites|Configure allowed websites for adaptive desktop actions]]
-- [[ad-adaptive-path-da|Configuration for adaptive path desktop actions]]

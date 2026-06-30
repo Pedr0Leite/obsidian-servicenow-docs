@@ -22,7 +22,7 @@ Role required: sn\_privacy.analyst who owns the processing activity or sn\_priva
 
 ## About this task
 
-You can add or [[c_GRCControls|manage controls]] to a processing activity in the following ways:
+You can add or manage controls to a processing activity in the following ways:
 
 -   Selecting control objectives: You can add existing control objectives to a processing activity. When you add a control objective to a processing activity, the controls associated with that particular control objective are added to the processing activity.
 -   Creating controls: You can create controls and add them to the processing activity.
@@ -35,7 +35,7 @@ You can add or [[c_GRCControls|manage controls]] to a processing activity in the
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Privacy Workspace** &gt; **[[ropa-record|Processing activities]]** &gt; **All processing activities**.
+1.  Navigate to **All** &gt; **Privacy Workspace** &gt; **Processing activities** &gt; **All processing activities**.
 
 2.  Select and open the processing activity to which you want to add controls.
 
@@ -53,7 +53,7 @@ Description
 
 </th></tr></thead><tbody><tr><td id="d112908e132">
 
-**To [[t_CreateAControl|create a control]]**
+**To create a control**
 
 </td><td>
 
@@ -88,8 +88,3 @@ The mitigating controls are added to the processing activity.
 
 **Parent Topic:**[Using Privacy Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/using-privacy-mgmt.md)
 
-## Related
-
-- [[c_GRCControls|Manage controls]]
-- [[ropa-record|Processing activities]]
-- [[t_CreateAControl|Create a control]]

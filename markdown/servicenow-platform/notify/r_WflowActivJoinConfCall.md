@@ -14,9 +14,9 @@ breadcrumb: [Notify workflow activities, Notify reference, Notify, Manage servic
 
 # Join conference call workflow activity
 
-The **Join Conference Call** activity connects an incoming or outgoing call to a [[notify-landing-page|Notify]] conference call.
+The **Join Conference Call** activity connects an incoming or outgoing call to a Notify conference call.
 
-Notify includes the workflows Notify: \(Re\)join Conference Call and Notify: Join Conference Call Via SMS to demonstrate how to use the **join conference call** activity to [[c_Connect|connect]] inbound and outbound calls, and inbound SMS messages to a conference call.
+Notify includes the workflows Notify: \(Re\)join Conference Call and Notify: Join Conference Call Via SMS to demonstrate how to use the **join conference call** activity to connect inbound and outbound calls, and inbound SMS messages to a conference call.
 
 ## Input variables
 
@@ -24,7 +24,7 @@ Input variables determine the initial behavior of the activity.
 
 |Variable|Description|
 |--------|-----------|
-|Record|Select this [[check-box|check box]] to record the conference call.|
+|Record|Select this check box to record the conference call.|
 |Advanced|Select this check box to display advanced configuration options.|
 |Script|Specify advanced configuration options using JavaScript, such as if the new participant should be muted upon joining the conference call. You can access values from the workflow scratchpad.|
 
@@ -69,7 +69,7 @@ System administrators can enable any or all of the below attributes and use them
 
 To enable any of the above attributes, perform the following steps:
 
-1.  Navigate to **Workflow** &gt; **Administration** &gt; **[[c_WorkflowVersions|Workflow Versions]]**.
+1.  Navigate to **Workflow** &gt; **Administration** &gt; **Workflow Versions**.
 2.  Open the Notify: \(Re\)join Conference Call workflow.
 3.  Click the **Show Workflow** related link.
 4.  To modify the workflow, click the WorkFlow Actions icon and click **Checkout**.
@@ -81,9 +81,3 @@ To enable any of the above attributes, perform the following steps:
 
 Similarly, you can enable the other attributes.
 
-## Related
-
-- [[notify-landing-page|Notify]]
-- [[c_Connect|Connect]]
-- [[check-box|Check box]]
-- [[c_WorkflowVersions|Workflow versions]]

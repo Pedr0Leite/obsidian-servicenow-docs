@@ -32,11 +32,11 @@ Before you begin, ensure the following:
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center**.
 
 2.  Select the **Threat Intel Library** icon on the workspace.
 
-3.  Go to **[[vulnerability|Vulnerability Artifacts]]** &gt; **All [[vulnerabilities|Vulnerabilities]]**.
+3.  Go to **Vulnerability Artifacts** &gt; **All Vulnerabilities**.
 
 4.  Open a vulnerability record.
 
@@ -60,7 +60,7 @@ Before you begin, ensure the following:
 **Verify your assessments**
 
 1.  Navigate to the **Internal Intelligence** section on the Vulnerability record.
-2.  View all associated vulnerability assessments under the **[[vuln-landing-page|Vulnerability Response]]** section.
+2.  View all associated vulnerability assessments under the **Vulnerability Response** section.
 
     \[Omitted image "tisc-view-vul-assessments.png"\] Alt text: Vulnerability Assessments list showing assessment details in the Internal Intelligence tab.
 
@@ -68,9 +68,3 @@ Before you begin, ensure the following:
 
 **Parent Topic:**[Access Vulnerability Downstream actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/downstream-actions-from-the-vulnerability-form-view.md)
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[vulnerability|Vulnerability Artifacts]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[vuln-landing-page|Vulnerability Response]]

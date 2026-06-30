@@ -15,7 +15,7 @@ breadcrumb: [Audit hardware asset inventory, Use, Hardware Asset Management, IT 
 
 # Complete multi scan inventory audit using the ServiceNow Agent app
 
-Scan your inventory assets by using the [[agent-mobile-asset|ServiceNow Agent app]] for the multi scan audit records.
+Scan your inventory assets by using the ServiceNow Agent app for the multi scan audit records.
 
 ## Before you begin
 
@@ -48,7 +48,7 @@ Role required: asset, sn\_itam\_common.asset\_audit\_admin, or sn\_itam\_common.
 
 7.  Select the **Review** tab to review the list of scanned assets.
 
-    On the review screen, you can [[t_DeletingAssets|delete assets]] if needed. However, [[ham-landing-page|Hardware Asset Management]] automatically removes duplicates for assets that you accidentally scan twice.
+    On the review screen, you can delete assets if needed. However, Hardware Asset Management automatically removes duplicates for assets that you accidentally scan twice.
 
 8.  Tap **Next**.
 
@@ -58,7 +58,7 @@ Role required: asset, sn\_itam\_common.asset\_audit\_admin, or sn\_itam\_common.
 
     The Stockroom audit **Details** tab screen is displayed.
 
-    **Note:** If the scanned asset record doesn't exist in your ServiceNow instance, a new asset record is created using the provided Asset tag. The new asset record is created with an unknown product model and an unknown model category value. Additionally, an asset remediation task is also created to notify you that an asset record has been created with an unknown model category and an unknown product model. Open the asset remediation task from the [[using-ham-workspace|Hardware Asset Workspace]] and update the **Model category** and **Model** fields value for the asset. For more information, see [Close an asset remediation task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/close-an-asset-remediation-task.md).
+    **Note:** If the scanned asset record doesn't exist in your ServiceNow instance, a new asset record is created using the provided Asset tag. The new asset record is created with an unknown product model and an unknown model category value. Additionally, an asset remediation task is also created to notify you that an asset record has been created with an unknown model category and an unknown product model. Open the asset remediation task from the Hardware Asset Workspace and update the **Model category** and **Model** fields value for the asset. For more information, see [Close an asset remediation task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/close-an-asset-remediation-task.md).
 
 11. After you’re finished scanning assets, mark the audit as complete.
 
@@ -78,9 +78,3 @@ Role required: asset, sn\_itam\_common.asset\_audit\_admin, or sn\_itam\_common.
 
 [Close an asset remediation task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/close-an-asset-remediation-task.md)
 
-## Related
-
-- [[agent-mobile-asset|ServiceNow Agent app]]
-- [[t_DeletingAssets|Delete assets]]
-- [[ham-landing-page|Hardware Asset Management]]
-- [[using-ham-workspace|Hardware Asset Workspace]]

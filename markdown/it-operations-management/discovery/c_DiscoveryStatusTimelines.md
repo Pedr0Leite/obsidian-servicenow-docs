@@ -14,7 +14,7 @@ breadcrumb: [Discovery status, Configuring Discovery, Discovery, ITOM Visibility
 
 # Discovery timelines
 
-A [[r-discovery|Discovery]] timeline generates a graphical display of a [[c_DiscoveryStatus|Discovery Status]] record, including information about each probe and sensor that was used in the discovery.
+A Discovery timeline generates a graphical display of a Discovery Status record, including information about each probe and sensor that was used in the discovery.
 
 Use Discovery timelines to display the following:
 
@@ -33,7 +33,7 @@ This example shows the Discovery timeline for the first two phases of Discovery 
 
 \[Omitted image "disco-timeline-early-phases.png"\] Alt text: Discovery early phases on the timeline
 
-In this example, the Shazzam probe and sensor run, followed by the Unix classifier probe and sensor. The classifier calls the [[r-HorizontalPatternProbe|Horizontal Pattern probe]], which runs a specific pattern.
+In this example, the Shazzam probe and sensor run, followed by the Unix classifier probe and sensor. The classifier calls the Horizontal Pattern probe, which runs a specific pattern.
 
 **Parent Topic:**[Discovery status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoveryStatus.md)
 
@@ -95,8 +95,4 @@ Role required: discovery\_admin or admin
 
     \[Omitted image "DiscoveryTimelineECCQueue.png"\] Alt text: Discovery Timeline ECC Queue
 
-## Related
 
-- [[r-discovery|Discovery]]
-- [[c_DiscoveryStatus|Discovery status]]
-- [[r-HorizontalPatternProbe|Horizontal Pattern probe]]

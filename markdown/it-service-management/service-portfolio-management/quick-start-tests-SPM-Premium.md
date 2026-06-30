@@ -14,7 +14,7 @@ breadcrumb: [Configure, Service Portfolio Management, IT Service Management]
 
 # Quick start tests for Service Portfolio Management Premium
 
-Validate that [[SPM2-landing-page|Service Portfolio Management]] Premium still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
+Validate that Service Portfolio Management Premium still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
 
 Service Portfolio Management Premium quick start tests require activating the Service Portfolio Management Premium plugin \(com.snc.spm\).
 
@@ -318,6 +318,3 @@ Paris
 
 [Quick start tests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/quick-start-tests.md)
 
-## Related
-
-- [[SPM2-landing-page|Service Portfolio Management]]

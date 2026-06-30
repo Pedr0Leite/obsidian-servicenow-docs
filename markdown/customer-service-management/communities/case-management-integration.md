@@ -16,7 +16,7 @@ breadcrumb: [Configuring communities, Communities, Customer Service Management]
 
 In order to engage your internal experts to reply to discussion threads, you can create cases directly from community questions.
 
-Creating cases from community questions requires activation of the [[c_CustomerServiceManagement|Customer Service Management]] \(com.sn\_customerservice\) plugin.
+Creating cases from community questions requires activation of the Customer Service Management \(com.sn\_customerservice\) plugin.
 
 This feature is available for questions that have been posted by community users who are also contacts or consumers in the Customer Service Management application. Questions can be either answered or unanswered.
 
@@ -51,7 +51,7 @@ Configure parameters for the case generated from the community discussion so tha
 
 [Enable knowledge harvesting]()
 
-[Activate [[servicenow-communities|Communities]] plugins]()
+[Activate Communities plugins]()
 
 [Community setup guide for admins]()
 
@@ -75,7 +75,3 @@ Configure parameters for the case generated from the community discussion so tha
 
 [Community Service Portal]()
 
-## Related
-
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[servicenow-communities|Communities]]

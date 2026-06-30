@@ -15,7 +15,7 @@ breadcrumb: [Explore, Cloud Account Management, ITOM Cloud Accelerate, IT Operat
 
 # About provision modes in Cloud Account Management
 
-[[cam-landing|Cloud Account Management]] supports both Terraform \(Cloud and Enterprise\) and cloud native interface provision modes.
+Cloud Account Management supports both Terraform \(Cloud and Enterprise\) and cloud native interface provision modes.
 
 ## Terraform support
 
@@ -27,6 +27,3 @@ An AWS or Azure admin creates the IAM user with the specified permissions, and t
 
 \[Omitted image "terraform.png"\] Alt text: Terraform and cloud native interface support in a Cloud Account Management instance
 
-## Related
-
-- [[cam-landing|Cloud Account Management]]

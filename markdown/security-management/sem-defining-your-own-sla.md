@@ -12,7 +12,7 @@ breadcrumb: [Automating prioritization and triaging, Security Exposure Managemen
 
 # Defining your own service level agreements \(SLAs\) using remediation target rules
 
-Remediation target rules set the expected time frame for addressing findings, similar to how service level agreements \(SLAs\) set deadlines for fixing [[vulnerabilities|vulnerabilities]]. You can also send notifications to users and groups when target dates are approaching and when they are past due.
+Remediation target rules set the expected time frame for addressing findings, similar to how service level agreements \(SLAs\) set deadlines for fixing vulnerabilities. You can also send notifications to users and groups when target dates are approaching and when they are past due.
 
 For instance, if an asset contains Payment Card Industry \(PCI\) data, such as credit card information, the vulnerability must be resolved within 30 days, as per the PCI Data Security Standard \(PCI DSS\). You can create remediation target rules by specifying:
 
@@ -33,7 +33,7 @@ A summary email is sent for each remediation target rule when one or more findin
 
 ## Recalculation of remediation target date
 
-Starting with Unified Security Exposure Management version 30.1.4 and [[vuln-landing-page|Vulnerability Response]] version 26.4.4, administrators can configure how the system recalculates the remediation target date when a finding’s risk rating changes.
+Starting with Unified Security Exposure Management version 30.1.4 and Vulnerability Response version 26.4.4, administrators can configure how the system recalculates the remediation target date when a finding’s risk rating changes.
 
 -   Under normal conditions, the system calculates the RT date as:
 
@@ -89,7 +89,7 @@ Recalculate from risk change date and set to earliest target date only when risk
 If the risk increases: Compares the existing RT date and the recalculated RT date and applies the earliest date. If the risk decreases: Applies Field change time + Target \(days\) without comparison.
 
 </td></tr></tbody>
-</table>For configuration steps, see [[sem-configure-remediation-target-rules|Recalculate a remediation target date]].
+</table>For configuration steps, see [Recalculate a remediation target date](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-configure-remediation-target-rules.md).
 
 ## Deactivating or deleting remediation target rules
 
@@ -136,19 +136,12 @@ When you modify a remediation target rule, use the **Reapply** button on the Rem
 **Note:**
 
 -   If the **Evaluate remediation targets** job is running, you can’t initiate a reapply process. However, if a reapply process is already running and the scheduled job is triggered, they run in parallel.
--   As a vulnerability admin or analyst, you can obtain the latest remediation target date for selected findings in the [[sem-workspace-user-interface|Security Exposure Management Workspace]]. This method is more efficient than running the remediation target rules for all findings in the classic UI, which can be time-consuming.
+-   As a vulnerability admin or analyst, you can obtain the latest remediation target date for selected findings in the Security Exposure Management Workspace. This method is more efficient than running the remediation target rules for all findings in the classic UI, which can be time-consuming.
 
-**Parent Topic:**[[sem-automating-prioritization-triaging|Automating prioritization and triaging]]
+**Parent Topic:**[Automating prioritization and triaging](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-automating-prioritization-triaging.md)
 
 **Related topics**  
 
 
 [Configuring remediation target rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-configure-remediation-target-rules.md)
 
-## Related
-
-- [[sem-configure-remediation-target-rules|Configuring remediation target rules]]
-- [[sem-automating-prioritization-triaging|Automating prioritization and triaging]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]

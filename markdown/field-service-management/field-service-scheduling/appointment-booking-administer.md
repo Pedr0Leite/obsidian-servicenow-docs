@@ -24,7 +24,7 @@ Both application-level and corresponding service-level configurations must be ac
 
 **Application-Level configuration**
 
-Appointment booking requires an active **application-level configuration** for [[fsm-application-landing-page|Field Service Management]]. This configuration includes global settings that apply to all services supporting appointment booking within the application. Only a system administrator can create, modify, and enable an application-level configuration.
+Appointment booking requires an active **application-level configuration** for Field Service Management. This configuration includes global settings that apply to all services supporting appointment booking within the application. Only a system administrator can create, modify, and enable an application-level configuration.
 
 The appointment booking feature provides predefined application-level configurations:
 
@@ -41,7 +41,7 @@ In addition to the application-level configuration, each service offering schedu
 
 -   Create new configurations for individual services.
 -   Modify existing service configurations as needed.
--   Enable service configurations to [[activate-plugins-for-appointment-booking|activate appointment booking]] functionality.
+-   Enable service configurations to activate appointment booking functionality.
 
 ## Configuration overview
 
@@ -56,7 +56,7 @@ The steps for configuring Appointment Booking are:
 
     The system administrator can customize email and SMS notifications for appointment confirmation and cancellation notices and appointment reminders.
 
-4.  \(Optional\) [[extension-points-field-service|Extension points in Field Service Management]]
+4.  \(Optional\) [Extension points in Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/extension-points-field-service.md)
 
     Use extension points to customize appointment booking configurations.
 
@@ -68,22 +68,13 @@ The steps for configuring Appointment Booking are:
 **Related topics**  
 
 
-[[appointment-booking|Appointment booking]]
+[Appointment booking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/appointment-booking.md)
 
 [Managing appointments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/appointment-booking/managing-appointments.md)
 
-[[appointment-booking-components|Appointment booking components]]
+[Appointment booking components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/appointment-booking-components.md)
 
-[[appt-booking-task-assignment|Learn about appointment availability settings]]
+[Learn about appointment availability settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/appt-booking-task-assignment.md)
 
-[[appt-booking-config-overview|Learn about task assignment]]
+[Learn about task assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/appt-booking-config-overview.md)
 
-## Related
-
-- [[extension-points-field-service|Extension points in Field Service Management]]
-- [[appointment-booking|Appointment booking]]
-- [[appointment-booking-components|Appointment booking components]]
-- [[appt-booking-task-assignment|Learn about appointment availability settings]]
-- [[appt-booking-config-overview|Learn about task assignment]]
-- [[fsm-application-landing-page|Field Service Management]]
-- [[activate-plugins-for-appointment-booking|Activate Appointment Booking]]

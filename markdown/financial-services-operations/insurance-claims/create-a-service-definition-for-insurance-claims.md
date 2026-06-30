@@ -14,7 +14,7 @@ breadcrumb: [Creating a service definition for Insurance claims, Configure, Insu
 
 # Create a service definition for Insurance claims
 
-Create a service definition for each claim type in your [[insurance-claims-flow|Insurance claims]] workflow. You can also create a service definition to generate [[adjuster-tasks-workspace-pers|adjuster tasks]] in the workflow.
+Create a service definition for each claim type in your Insurance claims workflow. You can also create a service definition to generate adjuster tasks in the workflow.
 
 ## Before you begin
 
@@ -69,7 +69,3 @@ The service definition for the claim type and the adjuster service definition ar
 
 **Parent Topic:**[Creating a service definition for Insurance claims](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/create-service-definitions-for-insurance-claims.md)
 
-## Related
-
-- [[insurance-claims-flow|Insurance claims]]
-- [[adjuster-tasks-workspace-pers|Adjuster tasks]]

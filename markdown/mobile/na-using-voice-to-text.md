@@ -18,8 +18,5 @@ The Voice Input feature allows users to easily transcribe spoken words into writ
 
 To begin, tap the microphone button \[Omitted image "image.na-voice-icon"\] Alt text: in your Now Assist chat search bar to start the transcription. To show that Now Assist is listening, the listening icon \[Omitted image "image.na-listen-icon"\] Alt text: will display while you are speaking. Once your message has been transcribed, it will appear as text in your search bar.
 
-**Parent Topic:**[[using-now-assist-mobile|Using Now Assist for Mobile]]
+**Parent Topic:**[Using Now Assist for Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/using-now-assist-mobile.md)
 
-## Related
-
-- [[using-now-assist-mobile|Using Now Assist for Mobile]]

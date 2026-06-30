@@ -12,7 +12,7 @@ breadcrumb: [Survey designer, Survey administration, Use surveys, Surveys, Asses
 
 # Edit a survey in the survey designer
 
-You can modify [[r_SurveyManagementLandingPage|surveys]] using the survey designer.
+You can modify surveys using the survey designer.
 
 ## Before you begin
 
@@ -43,7 +43,7 @@ You can edit a survey even after it has been distributed, with the following res
     When you publish the edited survey, the system generates survey instances for any associated survey users.
 
 
-**Parent Topic:**[[c_SurveyDesigner|Survey designer]]
+**Parent Topic:**[Survey designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyDesigner.md)
 
 **Related topics**  
 
@@ -62,7 +62,3 @@ You can edit a survey even after it has been distributed, with the following res
 
 [Configure category weights for a survey]()
 
-## Related
-
-- [[c_SurveyDesigner|Survey designer]]
-- [[r_SurveyManagementLandingPage|Surveys]]

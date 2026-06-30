@@ -45,10 +45,7 @@ Role required: sn\_fin\_ops.requester/ sn\_cbs.requestor
 
 ## What to do next
 
-Select **[[my-requests|My Requests]]** to view and track the progress of your requests.
+Select **My Requests** to view and track the progress of your requests.
 
 **Parent Topic:**[Use the Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/using-ec-fin-case-mgmt.md)
 
-## Related
-
-- [[my-requests|My requests]]

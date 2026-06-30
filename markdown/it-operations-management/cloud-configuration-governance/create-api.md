@@ -28,7 +28,7 @@ This topic provides instructions for creating a CAPI API. It also cover the conf
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Design** &gt; **Cloud API**.
+1.  In the Cloud Admin Portal, navigate to **Design** &gt; **Cloud API**.
 
 2.  Click the **API** tab.
 
@@ -152,7 +152,7 @@ Provide a description for this API.
         
         ```
 
-        Notice that the code calls the **AzureComputeVirtualMachine** script include, which is available by default with the [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] application. It contains all the API calls to Azure against virtual machines.
+        Notice that the code calls the **AzureComputeVirtualMachine** script include, which is available by default with the Cloud Provisioning and Governance application. It contains all the API calls to Azure against virtual machines.
 
 7.  Create an API config override to pass the necessary credential information to the cloud provider.
 
@@ -329,7 +329,3 @@ You typically do not need to change this value.Change the **Supported in** versi
 
 **Parent Topic:**[Cloud Provisioning and Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-management-v2-landing-page.md)
 
-## Related
-
-- [[cloud-admin-portal|Cloud Admin Portal]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]

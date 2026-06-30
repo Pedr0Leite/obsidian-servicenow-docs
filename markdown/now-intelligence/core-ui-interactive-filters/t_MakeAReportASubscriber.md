@@ -14,7 +14,7 @@ breadcrumb: [Interactive Filters on dashboards, Interactive Filters, Reporting, 
 
 # Make a report follow interactive filters
 
-When you add [[c_HomepagePublishers|interactive filters]] to a Core dashboard, you can configure the reports on the dashboard to accept input from interactive filters. For example, you add a filter on the Incident table's Active field. Reports on the Incident table can reflect the user's choice from that filter.
+When you add interactive filters to a Core dashboard, you can configure the reports on the dashboard to accept input from interactive filters. For example, you add a filter on the Incident table's Active field. Reports on the Incident table can reflect the user's choice from that filter.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: report\_admin
 
 ## About this task
 
-**Note:** This task refers to interactive filters in the Core UI. For information about filters in Platform Analytics experience, see [[interactive-filters-workspace|Filters in Platform Analytics]].
+**Note:** This task refers to interactive filters in the Core UI. For information about filters in Platform Analytics experience, see [Filters in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters-workspace.md).
 
 Interactive Filters allow you to filter all reports on a dashboard dynamically, without modifying the original reports. To be effective, interactive filters must be based on the same tables as the reports they filter. Reports based on the user table, for example, do not follow Interactive Filters that are based on the incident table.
 
@@ -36,7 +36,7 @@ Interactive Filters allow you to filter all reports on a dashboard dynamically, 
 
 4.  Select **Follow interactive filter**.
 
-    This option is available for all report [[widgets|widgets]]. If you don’t see the **Follow interactive filter** option, the widget is a list, PA, or other non-report widget.
+    This option is available for all report widgets. If you don’t see the **Follow interactive filter** option, the widget is a list, PA, or other non-report widget.
 
 5.  To show a filter icon \(\[Omitted image "InteractiveFilterFilteringIcon.png"\] Alt text: Filter icon\) on the top-left corner of the report when it’s following an interactive filter, select **Show when following**.
 
@@ -64,8 +64,3 @@ Add one or more interactive filters to the dashboard.
 
 [Edit a responsive dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_EditADashboard.md)
 
-## Related
-
-- [[interactive-filters-workspace|Filters in Platform Analytics]]
-- [[c_HomepagePublishers|Interactive Filters]]
-- [[widgets|Widgets]]

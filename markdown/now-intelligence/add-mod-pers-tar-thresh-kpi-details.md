@@ -53,7 +53,7 @@ Role required: Any role for your own personal thresholds. The pa\_threshold\_adm
 9.  Click **Save** if you are creating a threshold or **Update** if you are modifying a threshold.
 
 
-**Parent Topic:**[[kpi-details-targets|Indicator targets and thresholds in KPI Details]]
+**Parent Topic:**[Indicator targets and thresholds in KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/kpi-details-targets.md)
 
 **Related topics**  
 
@@ -68,6 +68,3 @@ Role required: Any role for your own personal thresholds. The pa\_threshold\_adm
 
 [Responsibility for indicator targets]()
 
-## Related
-
-- [[kpi-details-targets|Indicator targets and thresholds in KPI Details]]

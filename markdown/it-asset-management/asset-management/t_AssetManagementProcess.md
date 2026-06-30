@@ -22,7 +22,7 @@ Role required: asset
 
 ## About this task
 
-These steps are one possible process for getting started with [[am-landing-page|Asset Management]].
+These steps are one possible process for getting started with Asset Management.
 
 ## Procedure
 
@@ -36,7 +36,7 @@ These steps are one possible process for getting started with [[am-landing-page|
 
     Remove information that is obsolete or invalid. Ensure that all remaining information is accurate and complete. Add any necessary information.
 
-3.  Create categories of asset [[c_Models|models]] such as computers, servers, printers, and software.
+3.  Create categories of asset models such as computers, servers, printers, and software.
 
 4.  Create asset models.
 
@@ -48,7 +48,4 @@ These steps are one possible process for getting started with [[am-landing-page|
 
 6.  Manage assets by counting software licenses, viewing assets that are in stock, setting asset states and substates, and analyzing unallocated software.
 
-## Related
 
-- [[am-landing-page|Asset Management]]
-- [[c_Models|Models]]

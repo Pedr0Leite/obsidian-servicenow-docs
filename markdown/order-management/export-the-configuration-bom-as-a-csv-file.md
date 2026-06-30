@@ -20,11 +20,11 @@ Role required: Admin
 
 ## Enhanced shopping cart with CSV export
 
-CPQ lets you export the configuration bill of materials \(BOM\) before the quote is finalized by exporting the BOM to a CSV file. The BOM UI has been enhanced to enable on-screen manipulation of [[fields|fields]], such as resizing of columns, pinning of fields, and hiding of fields.
+CPQ lets you export the configuration bill of materials \(BOM\) before the quote is finalized by exporting the BOM to a CSV file. The BOM UI has been enhanced to enable on-screen manipulation of fields, such as resizing of columns, pinning of fields, and hiding of fields.
 
 ## Procedure
 
-1.  In your blueprint, navigate to [[layouts|Layouts]].
+1.  In your blueprint, navigate to Layouts.
 
 2.  In your layout, scroll to Product List and select Product List Settings.\[Omitted image "cpq-product-list.png"\] Alt text: Product List
 
@@ -61,7 +61,4 @@ CPQ lets you export the configuration bill of materials \(BOM\) before the quote
 
     **Note:** The process requires the Quoting tool.
 
-## Related
 
-- [[fields|Fields]]
-- [[layouts|Layouts]]

@@ -14,7 +14,7 @@ breadcrumb: [Export project data, Project export to Microsoft Project, Importing
 
 # Export project tasks
 
-The task being exported must be associated with a project that uses either the [[c_ProjectApplicationOverview|Project Management]] Schedule or the Default MS Project schedule.
+The task being exported must be associated with a project that uses either the Project Management Schedule or the Default MS Project schedule.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: it\_project\_manager
 
 2.  Open the project.
 
-3.  Scroll to the **[[t_CreateAProjectTask|Project Tasks]]** related list and select a task number to open the [[project-task-form|Project Task form]].
+3.  Scroll to the **Project Tasks** related list and select a task number to open the Project Task form.
 
 4.  Right-click the form header and select **Export Task to MS Project** from the context menu.
 
@@ -39,8 +39,3 @@ Role required: it\_project\_manager
 
 **Parent Topic:**[Export project data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_ExportAProjectWithTheProjectForm.md)
 
-## Related
-
-- [[c_ProjectApplicationOverview|Project Management]]
-- [[t_CreateAProjectTask|Project tasks]]
-- [[project-task-form|Project task form]]

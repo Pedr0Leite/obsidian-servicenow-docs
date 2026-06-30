@@ -15,11 +15,11 @@ breadcrumb: [ITOM AIOps, IT Operations Management]
 
 # Service Operations Workspace for ITOM
 
-ServiceNow® [[workspace-dashboard-use|Service Operations Workspace]] \(SOW\) is a configurable workspace designed to streamline [[r_ITOMApplications|IT Operations Management]] \(ITOM\) workflows, offering a unified experience for multiple IT operational processes. Configurable and user-friendly, it consolidates various tasks into a single interface, allowing seamless navigation and easy access to tools and information.
+ServiceNow® Service Operations Workspace \(SOW\) is a configurable workspace designed to streamline IT Operations Management \(ITOM\) workflows, offering a unified experience for multiple IT operational processes. Configurable and user-friendly, it consolidates various tasks into a single interface, allowing seamless navigation and easy access to tools and information.
 
 By centralizing workflows, it enhances collaboration, facilitates efficient task management, and provides real-time insights through different metrics. Highly customizable, it enables you to tailor the workspace to your specific needs, optimizing productivity and workflow efficiency. With its comprehensive set of features, including generative AI assistance, automation and collaboration tools, Service Operations Workspace empowers users to work more effectively across different workflows, boosting productivity organization-wide. Scalable to accommodate evolving business needs, it ensures continued support for IT environments of all sizes, delivering superior services and driving operational excellence.
 
-For information regarding subscriptions for ITOM Service Operations Workspace, check the [[itom-health-landing-page|ITOM AIOps]] subscription at [[itom-license-module|Subscription ITOM AIOps]].
+For information regarding subscriptions for ITOM Service Operations Workspace, check the ITOM AIOps subscription at [Subscription ITOM AIOps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-license-module.md).
 
 When setting up the Service Operations Workspace, it's crucial to configure both IT Operations Management \(ITOM\) for managing alerts and IT Service Management \(ITSM\) for resolving incidents and delivering services. This integrated setup ensures access to the full range of features, facilitating comprehensive management of IT operations and service quality.
 
@@ -52,9 +52,3 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[itom-license-module|itom license module]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[r_ITOMApplications|IT Operations Management]]
-- [[itom-health-landing-page|ITOM AIOps]]

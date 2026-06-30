@@ -14,7 +14,7 @@ breadcrumb: [Managing record producers for legal services, Configure, Legal Requ
 
 # Create or modify a record producer for legal services through Catalog Builder
 
-Create or modify a record producer using a catalog template to define an intake form for a legal service. Employees can use these intake forms on the Legal Service Portal to [[submit-legal-request|submit a legal request]] or legal matter.
+Create or modify a record producer using a catalog template to define an intake form for a legal service. Employees can use these intake forms on the Legal Service Portal to submit a legal request or legal matter.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_lg\_ops.request\_config or sn\_lg\_matter.matter\_config
 
 ## About this task
 
-Use the following base system catalog item templates installed with [[legal-request-management-landing-page|Legal Request Management]] to create a record producer for legal services:
+Use the following base system catalog item templates installed with Legal Request Management to create a record producer for legal services:
 
 -   Legal request intake form template: For creating a record producer for legal requests
 -   Legal matter intake form template: For creating a record producer for legal matters
@@ -134,7 +134,3 @@ Select users with specific roles who are granted access to the record producer.
 
 **Parent Topic:**[Managing record producers for legal services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/record-producers-legal-services.md)
 
-## Related
-
-- [[submit-legal-request|Submit a legal request]]
-- [[legal-request-management-landing-page|Legal Request Management]]

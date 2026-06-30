@@ -12,7 +12,7 @@ breadcrumb: [Analytics and reporting, Field Service Management]
 
 # Field Service Territory Capacity Analytics dashboard
 
-Use the Field Service Territory Capacity Analytics dashboard to track [[capacity|capacity]] trends with interactive charts and graphs, perform gap analysis with a customizable pivot table, and apply filters for targeted data viewing and informed decision-making.
+Use the Field Service Territory Capacity Analytics dashboard to track capacity trends with interactive charts and graphs, perform gap analysis with a customizable pivot table, and apply filters for targeted data viewing and informed decision-making.
 
 \[Omitted image "field-service-capacity-analytics-dashboard.jpg"\] Alt text: Dashboard showing interactive charts and graphs for tracking capacity trends, a customizable pivot table for gap analysis by territory and demand channel, and filter options to view data.
 
@@ -202,9 +202,5 @@ Reference
 Filter the results based on a selected demand channel and other filter selections such as Territory, Frequency, Capacity By etc.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[analytics-reporting-fsm|Analytics and reporting for Field Service Management]]
+</table>**Parent Topic:**[Analytics and reporting for Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/analytics-reporting-fsm.md)
 
-## Related
-
-- [[analytics-reporting-fsm|Analytics and reporting for Field Service Management]]
-- [[capacity|Capacity]]

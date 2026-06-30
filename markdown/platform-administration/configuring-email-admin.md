@@ -12,7 +12,7 @@ breadcrumb: [Email Administration, Notifications, Configure core features, Admin
 
 # Configure email administration
 
-Setup basic and advanced email, configure [[c_EmailProperties|email properties]], activate email filter and services and grandt non admin user access to email APIs.
+Setup basic and advanced email, configure email properties, activate email filter and services and grandt non admin user access to email APIs.
 
 <table id="table_emh_h1r_bzb" class="nav-card"><tbody><tr><td>
 
@@ -28,7 +28,7 @@ Setup basic and advanced email, configure [[c_EmailProperties|email properties]]
 
 </td></tr><tr><td>
 
-[Activate\[Omitted image "bus-manage.svg"\] Alt text:[[t_ActivateEmailFilters|Activate email filters]] and services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/activate-email-admin.md)
+[Activate\[Omitted image "bus-manage.svg"\] Alt text:Activate email filters and services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/activate-email-admin.md)
 
 </td><td>
 
@@ -40,8 +40,3 @@ Setup basic and advanced email, configure [[c_EmailProperties|email properties]]
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_EmailProperties|Email properties]]
-- [[t_ActivateEmailFilters|Activate email filters]]

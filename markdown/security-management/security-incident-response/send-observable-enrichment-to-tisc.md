@@ -26,9 +26,9 @@ Role required: sn\_si.analyst
 
     **Note:**
 
-    -   You can also navigate to the **Investigation** tab, and navigate to the **Entry Points Lists** section displayed on the left side of the page and select **Associated [[c_Observables|Observables]]** to perform the push operation.
-    -   On the **Investigation** tab, click **View Associated Info** to view all the associated [[tisc-threat-lookup|threat lookup]], sighting search, and enrichment data for the selected observable. For more information, see [Explore Investigation Canvas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/explore-investigation-in-sir-workspace.md).
-2.  Select **[[tisc-observable-enrichment|Observable Enrichment]]** &gt; **Observable Enrichment Results** to perform the push operation and manually push the data into TISC.
+    -   You can also navigate to the **Investigation** tab, and navigate to the **Entry Points Lists** section displayed on the left side of the page and select **Associated Observables** to perform the push operation.
+    -   On the **Investigation** tab, click **View Associated Info** to view all the associated threat lookup, sighting search, and enrichment data for the selected observable. For more information, see [Explore Investigation Canvas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/explore-investigation-in-sir-workspace.md).
+2.  Select **Observable Enrichment** &gt; **Observable Enrichment Results** to perform the push operation and manually push the data into TISC.
 
 3.  Select one or more observable record to perform **Send Results to TISC** operation to push the data.
 
@@ -54,7 +54,7 @@ Role required: sn\_si.analyst
     -   **View Associated Info** will show all the associated observable enrichment data of the selected observables.
 6.  View the results.
 
-7.  Click on any observable enrichment results record to view the record in the form view, which also shows the push or **Ingestion Type** \(automatic or manual\) and **Source** will be [[tisc-landing-page|Threat Intelligence Security Center]].
+7.  Click on any observable enrichment results record to view the record in the form view, which also shows the push or **Ingestion Type** \(automatic or manual\) and **Source** will be Threat Intelligence Security Center.
 
     \[Omitted image "tisc-observable-enrichment-result.png"\] Alt text: Observable Enrichment Results
 
@@ -76,9 +76,3 @@ Role required: sn\_si.analyst
 
 [Send Sighting Search to TISC]()
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[tisc-threat-lookup|Threat Lookup]]
-- [[tisc-observable-enrichment|Observable Enrichment]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]

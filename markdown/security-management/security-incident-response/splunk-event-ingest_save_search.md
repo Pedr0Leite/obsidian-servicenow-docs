@@ -20,7 +20,7 @@ The following steps for saving searches in your Splunk Enterprise console are pr
 
 If you already have existing saved searches and triggered alerts in your Splunk Enterprise console, you are not required to modify these searches for this integration.
 
-The integration of the ServiceNow AI Platform® [[security-operations-landing-page|Security Operations]] product with the Splunk event notification service pulls event and alert information from Splunk.
+The integration of the ServiceNow AI Platform® Security Operations product with the Splunk event notification service pulls event and alert information from Splunk.
 
 Prior to ingesting alerts into your Security Operations environment, configure searches in your Splunk Enterprise console so that you automatically pull the relevant security events in Splunk Enterprise that you want to save as alerts.
 
@@ -34,7 +34,7 @@ Role required: Splunk Enterprise administrator
 
 2.  Click the **Search** tab.
 
-3.  In the New Search field that is displayed, enter a value for the alert, for example, [[threat-intelligence-malware|Malware]].
+3.  In the New Search field that is displayed, enter a value for the alert, for example, Malware.
 
 4.  To view the events related to your search, to the right of the New Search field, click the search icon or press enter.
 
@@ -58,7 +58,7 @@ Description
 
 </td><td>
 
-Descriptive name for the alert, for example, Malware Events. After you save this search as an alert, events from a fired alert in the Splunk service are automatically processed into triggered alerts using this search data. This triggered alert title is used in the event profile that you create in your ServiceNow AI Platform instance to identify which events are ingested into your instance for ServiceNow AI Platform® [[sir-landing-page|Security Incident Response]] SIR [[si-creation|security incident creation]].
+Descriptive name for the alert, for example, Malware Events. After you save this search as an alert, events from a fired alert in the Splunk service are automatically processed into triggered alerts using this search data. This triggered alert title is used in the event profile that you create in your ServiceNow AI Platform instance to identify which events are ingested into your instance for ServiceNow AI Platform® Security Incident Response SIR security incident creation.
 
 </td></tr><tr><td id="d334532e189">
 
@@ -108,9 +108,3 @@ You have successfully completed the required setup for the integration in your S
 
 **Parent Topic:**[Integration architecture and external systems connection for the Splunk Enterprise Event Ingestion integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/splunk-event-ingest-integration-architecture.md)
 
-## Related
-
-- [[security-operations-landing-page|Security Operations]]
-- [[threat-intelligence-malware|Malware]]
-- [[sir-landing-page|Security Incident Response]]
-- [[si-creation|Security incident creation]]

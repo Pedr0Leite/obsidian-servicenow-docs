@@ -16,11 +16,7 @@ Changes to a CI relationship \(CI Relations, CI/User Relations, or CI/Group Rela
 
 For example, if the computer alpha has a used by CI Relation with the computer beta, then the history for alpha has a record of when the relationship with beta was established, and likewise, the history for beta has a record of when the relationship with alpha was established. This example illustrates the history displayed when some CI Relations are established, and then one of the relations is removed:
 
-\[Omitted image "CIRelationshipHistory.png"\] Alt text: CI Relationship [[r_HistoryList|History list]]
+\[Omitted image "CIRelationshipHistory.png"\] Alt text: CI Relationship History list
 
-The created bullet indicates the date that the CI, user, or group was created. The last activity bullet refers to when the relationships were last changed. If you don't want to show CI relationship history for any or all CI relationship types, you can turn it off by disabling [[c_AuditedTables|auditing]] on the CI relationship tables \(CI Relationship \[`cmdb_rel_ci`\], CI/User Relationship Type \[`cmdb_rel_user_type`\], or Group Relationship \[`cmdb_rel_group`\]\).
+The created bullet indicates the date that the CI, user, or group was created. The last activity bullet refers to when the relationships were last changed. If you don't want to show CI relationship history for any or all CI relationship types, you can turn it off by disabling auditing on the CI relationship tables \(CI Relationship \[`cmdb_rel_ci`\], CI/User Relationship Type \[`cmdb_rel_user_type`\], or Group Relationship \[`cmdb_rel_group`\]\).
 
-## Related
-
-- [[r_HistoryList|History List]]
-- [[c_AuditedTables|Auditing]]

@@ -71,8 +71,5 @@ The Platform Encryption subscription bundle is a group commercial entitlement th
 
 Field Encryption Enterprise is the unlimited license of Field Encryption. The Enterprise plugin is available with the activation of the com.glide.now.platform.encryption plugin. For details, see [Encryption and Key Management subscription bundle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/encryption-sku.md).
 
-**Parent Topic:**[[now-platform-security-rn-landing|ServiceNow AI Platform security release notes]]
+**Parent Topic:**[ServiceNow AI Platform security release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/now-platform-security-rn-landing.md)
 
-## Related
-
-- [[now-platform-security-rn-landing|ServiceNow AI Platform security release notes]]

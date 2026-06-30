@@ -26,7 +26,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Set up and [[pace-installation|install PaCE]].
+Set up and install PaCE.
 
 </td><td>
 
@@ -84,7 +84,3 @@ See [Execute policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDo
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[pace-installation|Install PaCE]]

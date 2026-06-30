@@ -12,7 +12,7 @@ breadcrumb: [Digital resilience third-party registers reference, Reference, Oper
 
 # Properties installed with Digital Operational Resilience Management
 
-When you install the Digital [[grc-opres-landing-page|Operational Resilience]] Management application, several system properties are added to your instance. You can access the properties by navigating to **All &gt; Digital Operational Resilience Management &gt; Properties** &gt; **.**
+When you install the Digital Operational Resilience Management application, several system properties are added to your instance. You can access the properties by navigating to **All &gt; Digital Operational Resilience Management &gt; Properties** &gt; **.**
 
 <table><thead><tr><th>
 
@@ -126,9 +126,5 @@ Configuration for preparing the DORA plain-CSV reporting package. Framework code
 |GLEIF API unavailable|Row saved \(always\)|Row saved \(always\)|
 |Name or country mismatch \(UI\)|Warning shown, save OK|Row blocked \(error\)|
 
-**Parent Topic:**[[digi-resi-ref|Digital resilience third-party registers reference]]
+**Parent Topic:**[Digital resilience third-party registers reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/digi-resi-ref.md)
 
-## Related
-
-- [[digi-resi-ref|Digital resilience third-party registers reference]]
-- [[grc-opres-landing-page|Operational Resilience]]

@@ -47,7 +47,7 @@ Description
 
 </th></tr></thead><tbody><tr><td id="d311624e126">
 
-**Create [[change-tasks|change tasks]] for delegation**
+**Create change tasks for delegation**
 
 </td><td>
 
@@ -216,6 +216,3 @@ Select  **Close**  after entering the  **Close code ** and  **Close no
 
 [Conduct a CAB meeting in the CAB workbench]()
 
-## Related
-
-- [[change-tasks|Change tasks]]

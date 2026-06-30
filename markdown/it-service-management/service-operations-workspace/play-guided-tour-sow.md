@@ -14,7 +14,7 @@ breadcrumb: [Operating IT services in your organization, Service Operations Work
 
 # Play a guided tour in Service Operations Workspace
 
-Use the guided tours in [[sow-landing-page|Service Operations Workspace for ITSM]] through a sequence of interactive steps that guide you through a specific concept or process.
+Use the guided tours in Service Operations Workspace for ITSM through a sequence of interactive steps that guide you through a specific concept or process.
 
 ## Before you begin
 
@@ -54,6 +54,3 @@ Role required: admin
 
 [Change Management in Service Operations Workspace]()
 
-## Related
-
-- [[sow-landing-page|Service Operations Workspace for ITSM]]

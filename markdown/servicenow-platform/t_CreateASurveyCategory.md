@@ -24,7 +24,7 @@ Only one category is required for each survey, but you can add additional catego
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Survey** &gt; **View [[r_SurveyManagementLandingPage|Surveys]]**.
+1.  Navigate to **All** &gt; **Survey** &gt; **View Surveys**.
 
 2.  Open a survey definition.
 
@@ -40,20 +40,15 @@ Only one category is required for each survey, but you can add additional catego
     -   There is only one category and its name is different from the survey definition name. If you create a survey using the survey creator, the category name is the same as the survey definition name.
 5.  Right-click the form header and click **Save**.
 
-    The **[[c_AssessmentMetrics|Assessment Metrics]]** and **Users** related lists appear.
+    The **Assessment Metrics** and **Users** related lists appear.
 
 6.  Click **Update**.
 
 
-**Parent Topic:**[[c_SurveyCategory|Survey categories]]
+**Parent Topic:**[Survey categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyCategory.md)
 
 **Related topics**  
 
 
 [Create a category in the survey designer]()
 
-## Related
-
-- [[c_SurveyCategory|Survey categories]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[c_AssessmentMetrics|Assessment metrics]]

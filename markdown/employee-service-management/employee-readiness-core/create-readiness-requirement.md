@@ -22,7 +22,7 @@ Role required: sn\_imt\_core.admin
 
 ## About this task
 
-Use [[health-safety-overview|health and safety]] requirements to define the requirements that employees must fulfill before they can return to the workplace, or that visitors must fulfill before entering the workplace. Create separate requirements for employees and visitors. A requirement must apply to either employees or visitors, not both. [[employee-readiness-core|Employee Readiness Core]] provides some [pre-built requirements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-readiness-core/included-health-safety-requirements.md). However, you can create additional requirements using data from any of the [[safe-workplace|Safe Workplace]] suite or [[emergency-response-management|Emergency Response Management]] apps.
+Use health and safety requirements to define the requirements that employees must fulfill before they can return to the workplace, or that visitors must fulfill before entering the workplace. Create separate requirements for employees and visitors. A requirement must apply to either employees or visitors, not both. Employee Readiness Core provides some [pre-built requirements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-readiness-core/included-health-safety-requirements.md). However, you can create additional requirements using data from any of the Safe Workplace suite or Emergency Response Management apps.
 
 Health and safety requirements are built with [Flow Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/flow-designer.md). Before creating a requirement, make sure that you're familiar with the basics of ServiceNow® Workflow Studio.
 
@@ -96,7 +96,7 @@ The following steps show how to create a requirement using the pre-built Employe
 
 2.  Create a health and safety requirement.
 
-    1.  Navigate to **[[employee-health-safety-status|Employee Health and Safety Status]]** &gt; **Health and Safety Requirements**.
+    1.  Navigate to **Employee Health and Safety Status** &gt; **Health and Safety Requirements**.
 
     2.  Click **New**.
 
@@ -150,7 +150,7 @@ Default status
 
 </td><td>
 
-The default status is assigned to health and safety users who don't have any [[activity-lxp|activity]] towards completing the requirement. The options are **Cleared** and **Not Cleared**.For example, employees who don't have a health verification record are assigned a default status of **Not Cleared** for the Employee Health Verification Requirement.
+The default status is assigned to health and safety users who don't have any activity towards completing the requirement. The options are **Cleared** and **Not Cleared**.For example, employees who don't have a health verification record are assigned a default status of **Not Cleared** for the Employee Health Verification Requirement.
 
 </td></tr><tr><td>
 
@@ -292,11 +292,3 @@ When you create the requirement, it's not active by default. You must activate t
 
 **Parent Topic:**[Employee Health and Safety Status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-readiness-core/employee-health-safety-status.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[employee-readiness-core|Employee Readiness Core]]
-- [[safe-workplace|Safe Workplace]]
-- [[emergency-response-management|Emergency Response Management]]
-- [[employee-health-safety-status|Employee Health and Safety Status]]
-- [[activity-lxp|Activity]]

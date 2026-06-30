@@ -27,7 +27,7 @@ Role required: sn\_ta\_hiring\_core.interviewer
 
 1.  Open the interview invitation email you received from the recruitment team.
 
-    If you're a [[hiring-tab-concept|hiring]] manager or recruiter, you can substitute yourself as an interviewer from the [[employee-center-landing-page|Employee Center]] portal or [[recruitment-workspace-concept|Recruitment workspace]] respectively.
+    If you're a hiring manager or recruiter, you can substitute yourself as an interviewer from the Employee Center portal or Recruitment workspace respectively.
 
 2.  Select **Substitute myself**.
 
@@ -62,15 +62,9 @@ After the substitution request is submitted:
 -   An interview invite email is sent to the substitute interviewer. The original interviewer is copied on the email if they opted to stay informed.
 -   The calendar of the original and substitute interviewer are updated accordingly.
 -   A notification email about the interviewer substitution is sent to the recruiter, recruitment coordinator, hiring manager, and the interviewers associated with the interview. An admin can turn off this notification by setting the **sn\_ta\_int\_mgmt.notify\_hiring\_team\_on\_substitution** property to false.
--   The substitution details are recorded in the [[activity-lxp|activity]] log of the interview record.
+-   The substitution details are recorded in the activity log of the interview record.
 -   The substitute interviewer is added to the hiring team, if not already part of it.
 -   The associated interview feedback task is reassigned to the substitute interviewer.
 
 **Parent Topic:**[Managing interviews as an interviewer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/manage-interviews-interviewer.md)
 
-## Related
-
-- [[hiring-tab-concept|Hiring]]
-- [[employee-center-landing-page|Employee Center]]
-- [[recruitment-workspace-concept|Recruitment workspace]]
-- [[activity-lxp|Activity]]

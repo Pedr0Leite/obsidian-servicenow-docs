@@ -18,7 +18,7 @@ Role required: sn\_asc.alumni
 
 ## Procedure
 
-1.  Navigate to [[alumni-service-center|Alumni Center]] website.
+1.  Navigate to Alumni Center website.
 
 2.  Select **Register as alumni** on the login page.
 
@@ -54,7 +54,7 @@ Personal email address
 
 </td><td>
 
-Your personal email address.**Note:** The First name, Last name, and Personal email address fields are required. The email address that you provide here is verified with the existing personal email addresses in your [[c_HRProfileRecords|HR profile]] to create the alumni record.
+Your personal email address.**Note:** The First name, Last name, and Personal email address fields are required. The email address that you provide here is verified with the existing personal email addresses in your HR profile to create the alumni record.
 
 </td></tr><tr><td>
 
@@ -168,7 +168,3 @@ A mail is sent to your personal email, which contains a verification link. After
 
 [Edit personal details]()
 
-## Related
-
-- [[alumni-service-center|Alumni Center]]
-- [[c_HRProfileRecords|HR Profile]]

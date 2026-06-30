@@ -26,7 +26,7 @@ Role required: AWSSecurityHubFullAccess
 
 1.  Log in to the AWS portal.
 
-2.  Navigate to **[[identity|Identity]] and Access Management \(IAM\)** &gt; **Users** &gt; **Create New User**.
+2.  Navigate to **Identity and Access Management \(IAM\)** &gt; **Users** &gt; **Create New User**.
 
 3.  The following table describes the fields that you must configure to create a user profile:
 
@@ -103,6 +103,4 @@ Review all the details that you added in the user profile.
 
     The code for **US East \(Ohio\)** is **us-east-2**. All ServiceNow® resources are assigned to this region code.
 
-## Related
 
-- [[identity|Identity]]

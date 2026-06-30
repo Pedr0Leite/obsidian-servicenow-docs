@@ -22,7 +22,7 @@ Role required: service\_mapping\_user, sm\_app\_owner, evt\_mgmt\_admin, evt\_mg
 
 ## About this task
 
-By default, service maps are concise and contain every detail about all CIs that you added manually or that [[c_ServiceMappingOverview|Service Mapping]] mapped. While it provides a complete picture, using such a map might be difficult. Customizing maps allows you to:
+By default, service maps are concise and contain every detail about all CIs that you added manually or that Service Mapping mapped. While it provides a complete picture, using such a map might be difficult. Customizing maps allows you to:
 
 -   make it easier to navigate the map.
 -   hide irrelevant information.
@@ -30,7 +30,7 @@ By default, service maps are concise and contain every detail about all CIs that
 
 Attributes you show or hide when you customize maps are not removed permanently and can be displayed or hidden again as you need. The system saves the changes to the map view and displays the last map view when you reopen a service instance.
 
-The service instance map in the [[c_EM|Event Management]] view reflects the severity status of CIs belonging to the service instance.
+The service instance map in the Event Management view reflects the severity status of CIs belonging to the service instance.
 
 ## Procedure
 
@@ -68,7 +68,7 @@ When Disabled
 
 **Display in Host View** The host view also simplifies the map especially when many applications are running on a few hosts.
 
- The Host View is useful only for service instances discovered [[using-service-mapping|using Service Mapping]]. This view does not offer additional information for manually created service instances.
+ The Host View is useful only for service instances discovered using Service Mapping. This view does not offer additional information for manually created service instances.
 
 </td><td>
 
@@ -134,7 +134,7 @@ The map reflects the actual structure of a service instance.
 
 </td><td>
 
-The service instance map displays CIs and hosts that Service Mapping discovered using both patterns and traffic-based [[r-discovery|discovery]].
+The service instance map displays CIs and hosts that Service Mapping discovered using both patterns and traffic-based discovery.
 
  While detecting CIs inbound and outbound traffic creates an inclusive map, it may also result in mapping many redundant CIs that do not influence the service instance operation.
 
@@ -174,9 +174,3 @@ No map indicators appear next to the application service name.
 </table>
 **Parent Topic:**[Application service analysis and maintenance using legacy Agent Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/service-analysis-maintenance-legacy-workspace.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[c_EM|Event Management]]
-- [[using-service-mapping|Using Service Mapping]]
-- [[r-discovery|Discovery]]

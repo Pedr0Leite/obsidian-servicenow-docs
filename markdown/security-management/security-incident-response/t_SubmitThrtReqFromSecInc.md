@@ -14,11 +14,11 @@ breadcrumb: [Manage lookups and scans, Managing security incidents and inbound r
 
 # Submit an IoC Lookup request from a security incident
 
-An IoC lookup automatically runs whenever [[c_Observables|observables]] are added to a security incident. Also, if your security incident has attachments, they can be easily found with the press of a button.
+An IoC lookup automatically runs whenever observables are added to a security incident. Also, if your security incident has attachments, they can be easily found with the press of a button.
 
 ## Before you begin
 
-For automatic IoC lookups, the [[threat-intel-landing-page|Threat Intelligence]] plugin must be activated.
+For automatic IoC lookups, the Threat Intelligence plugin must be activated.
 
 Role required: sn\_si.basic
 
@@ -44,7 +44,4 @@ Role required: sn\_si.basic
 
     \[Omitted image "LookupRequestFromSI.png"\] Alt text: Lookup request message
 
-## Related
 
-- [[c_Observables|Observables]]
-- [[threat-intel-landing-page|Threat Intelligence]]

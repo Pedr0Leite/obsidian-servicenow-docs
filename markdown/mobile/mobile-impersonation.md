@@ -14,7 +14,7 @@ breadcrumb: [Configuring the Mobile Platform, Mobile Platform]
 
 Use mobile impersonation to impersonate authenticated users for testing purposes and view impersonation logs.
 
-For instructions to enable and disable this feature, see [[mobile-impersonate-2|Enable or disable impersonation in mobile apps]].
+For instructions to enable and disable this feature, see [Enable or disable impersonation in mobile apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-impersonate-2.md).
 
 <table id="table_bl4_qlf_14b"><tbody><tr><td>
 
@@ -34,13 +34,9 @@ As an administrator or an impersonator, use impersonation to view a ServiceNow m
 In addition to the limitations listed in [Impersonate a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ImpersonateAUser.md), the following are not supported when using impersonation in ServiceNow mobile:
 
 -   Virtual Agent
--   [[mobile-offline-mode|Offline mode]].
+-   Offline mode.
 -   Security PIN
 
 -   **[Enable or disable impersonation in mobile apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-impersonate-2.md)**  
 Learn how to enable or disable impersonation in your ServiceNow mobile apps.
 
-## Related
-
-- [[mobile-impersonate-2|Enable or disable impersonation in mobile apps]]
-- [[mobile-offline-mode|Offline mode]]

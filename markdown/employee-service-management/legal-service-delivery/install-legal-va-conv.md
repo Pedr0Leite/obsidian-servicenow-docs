@@ -14,7 +14,7 @@ breadcrumb: [Legal Virtual Agent Conversations, Legal Service Delivery, Legal an
 
 # Install Legal Virtual Agent Conversations
 
-You can install the [[legal-va-conversations|Legal Virtual Agent Conversations]] application \(sn\_lg\_va\) if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Legal Virtual Agent Conversations application \(sn\_lg\_va\) if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -46,6 +46,3 @@ Role required: admin
 
 **Parent Topic:**[Legal Virtual Agent Conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/legal-va-conversations.md)
 
-## Related
-
-- [[legal-va-conversations|Legal Virtual Agent Conversations]]

@@ -25,7 +25,7 @@ To add documents from external cloud storage, verify that your administrator has
 
 ## About this task
 
-The file picker opens from within the [[doc-management-landing|Document Management]] component and provides access to documents across three source types: the Documents repository, external cloud storage providers, and your local desktop. After attaching, all selected items appear in the Documents panel.
+The file picker opens from within the Document Management component and provides access to documents across three source types: the Documents repository, external cloud storage providers, and your local desktop. After attaching, all selected items appear in the Documents panel.
 
 ## Procedure
 
@@ -94,7 +94,7 @@ Select **Browse documents**. Your system file browser opens. Navigate to and sel
 </td></tr></tbody>
 </table>6.  Select the documents or folders you want to add.
 
-7.  For external drives, select the **Link only URL of the external document to the record** [[check-box|check box]] to create links instead of copying files.
+7.  For external drives, select the **Link only URL of the external document to the record** check box to create links instead of copying files.
 
 8.  Select **Add**.
 
@@ -103,7 +103,3 @@ Select **Browse documents**. Your system file browser opens. Navigate to and sel
 
 **Parent Topic:**[Document Management in Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/document-management-workspace.md)
 
-## Related
-
-- [[doc-management-landing|Document Management]]
-- [[check-box|Check box]]

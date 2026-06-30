@@ -18,7 +18,7 @@ You can install Workplace PPE Inventory Management if you have the admin role.
 
 ## Before you begin
 
-[[ppe-inventory-management|Workplace PPE Inventory Management]] requires the Asset Management plugin \(com.snc.asset\_management\). Asset Management is active by default.
+Workplace PPE Inventory Management requires the Asset Management plugin \(com.snc.asset\_management\). Asset Management is active by default.
 
 Role required: admin
 
@@ -44,7 +44,7 @@ Federal hosted
 
 </td><td>
 
-See the [Federal downloads for the [[emergency-response-management|Emergency Response Management]] and [[safe-workplace|Safe Workplace]] suite apps \[KB0030260\]](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030260) article in the Store Help Center for more information.
+See the [Federal downloads for the Emergency Response Management and Safe Workplace suite apps \[KB0030260\]](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030260) article in the Store Help Center for more information.
 
 </td></tr><tr><td>
 
@@ -67,19 +67,19 @@ See the [Commercial downloads for the Emergency Response Management and Safe Wor
 </td></tr></tbody>
 </table>If you've subscribed to the Safe Workplace suite and you already have some of the apps installed, refer to the following order of installation for the remaining apps.
 
--   [[emergency-outreach|Emergency Outreach]] \(sn\_imt\_checkin\)
--   [[employee-health-screening|Employee Health Screening]] \(sn\_imt\_monitoring\)
+-   Emergency Outreach \(sn\_imt\_checkin\)
+-   Employee Health Screening \(sn\_imt\_monitoring\)
 -   Workplace PPE Inventory Management \(sn\_imt\_ppe\)
--   [[employee-readiness-surveys|Employee Readiness Surveys]] \(sn\_imt\_readiness\)
+-   Employee Readiness Surveys \(sn\_imt\_readiness\)
 -   COVID-19 Global Health Data Set \(sn\_imt\_c19datafeed\)
--   [[contact-tracing|Contact Tracing]] \(sn\_imt\_tracing\)
--   [[emergency-self-report|Emergency Self Report]] \(sn\_imt\_quarantine\)
--   [[workplace-safety-mgmt-hr|Workplace Core]] \(sn\_wsd\_core\)
--   [[safe-workplace-dashboard|Safe Workplace Dashboard]] \(sn\_imt\_dashboard\)
+-   Contact Tracing \(sn\_imt\_tracing\)
+-   Emergency Self Report \(sn\_imt\_quarantine\)
+-   Workplace Core \(sn\_wsd\_core\)
+-   Safe Workplace Dashboard \(sn\_imt\_dashboard\)
 -   Emergency Response Management for Now Mobile \(sn\_imt\_mobile\)
--   [[employee-travel-safety|Employee Travel Safety]] \(sn\_imt\_travel\)
--   [[health-safety-testing|Health and Safety Testing]] \(sn\_imt\_health\_test\)
--   [[vaccination-status|Vaccination Status]] \(sn\_imt\_vaccine\)
+-   Employee Travel Safety \(sn\_imt\_travel\)
+-   Health and Safety Testing \(sn\_imt\_health\_test\)
+-   Vaccination Status \(sn\_imt\_vaccine\)
 
 ## Procedure
 
@@ -130,7 +130,7 @@ PPE Inventory Management admin\[sn\_imt\_ppe.ppe\_admin\]
 
 </td><td>
 
-Can create PPE models, manage PPE inventory, and [[assign-ppe|assign PPE to employees]].
+Can create PPE models, manage PPE inventory, and assign PPE to employees.
 
 </td><td>
 
@@ -182,20 +182,3 @@ Contains a log of PPE assignments over time.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[ppe-inventory-management|Workplace PPE Inventory Management]]
-- [[emergency-response-management|Emergency Response Management]]
-- [[safe-workplace|Safe Workplace]]
-- [[emergency-outreach|Emergency Outreach]]
-- [[employee-health-screening|Employee Health Screening]]
-- [[employee-readiness-surveys|Employee Readiness Surveys]]
-- [[contact-tracing|Contact Tracing]]
-- [[emergency-self-report|Emergency Self Report]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[safe-workplace-dashboard|Safe Workplace Dashboard]]
-- [[employee-travel-safety|Employee Travel Safety]]
-- [[health-safety-testing|Health and Safety Testing]]
-- [[vaccination-status|Vaccination Status]]
-- [[assign-ppe|Assign PPE to employees]]

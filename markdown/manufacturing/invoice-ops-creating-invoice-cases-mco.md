@@ -12,7 +12,7 @@ breadcrumb: [Order Management, Additional workflows, Use, Manufacturing Commerci
 
 # Create an invoice case
 
-Agents can create invoice cases from the Invoice Cases list view in CSM Configurable Workspace in [[manufacturing-overview|Manufacturing Commercial Operations]].
+Agents can create invoice cases from the Invoice Cases list view in CSM Configurable Workspace in Manufacturing Commercial Operations.
 
 Agents can create invoice cases by selecting **New** from the Invoice Cases list view. From the Invoice case record, agents can:
 
@@ -29,7 +29,7 @@ Selecting **Save** on the Invoice case record moves the invoice case and the inv
 
 An agent can create the following types of invoice cases:
 
--   Cases that [[manufacturing-reference|reference]] one or more invoice lines from a single customer invoice.
+-   Cases that reference one or more invoice lines from a single customer invoice.
 -   Cases that reference multiple customer invoices.
 
 The Invoice case record includes the **Request source** field. An agent can select the following values in this field:
@@ -45,10 +45,5 @@ Once an invoice case has been created, agents can add invoices or invoice lines 
 
 The agent can select an invoice line or invoice for the Invoice Case Line record and then select **Save** to add it to the invoice case as an invoice case line.
 
-**Parent Topic:**[[mco-som-using|Order Management]]
+**Parent Topic:**[Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-som-using.md)
 
-## Related
-
-- [[mco-som-using|Order Management]]
-- [[manufacturing-overview|Manufacturing Commercial Operations]]
-- [[manufacturing-reference|Reference]]

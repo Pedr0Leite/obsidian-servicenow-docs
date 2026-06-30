@@ -32,7 +32,7 @@ Using portfolio plans, you can:
 
 ## High-level planning using portfolio plans
 
-In [[alignment-planner-workspace-landing-page|Strategic Planning]], you can roadmap work for your organization at a high level by building portfolio plans for strategic items such as initiatives. High-level planning items usually span across multiple [[c_BusinessUnits|business units]], departments, or portfolios of a company. These strategic work items help you further breakdown a company's priorities.
+In Strategic Planning, you can roadmap work for your organization at a high level by building portfolio plans for strategic items such as initiatives. High-level planning items usually span across multiple business units, departments, or portfolios of a company. These strategic work items help you further breakdown a company's priorities.
 
 -   Initiative: Used to achieve long-term goals. Initiatives are designed to create a sustainable competitive advantage for the organization. They often involve large-scale effort that requires coordination and collaboration across multiple departments or business units.
 -   Strategic Program: Used to achieve specific milestones and outcomes of an Initiative.
@@ -55,7 +55,3 @@ Start creating portfolio plans to align work with strategy. See [Managing portfo
 
 **Parent Topic:**[Exploring Portfolio Planning in Strategic Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/alignment-planner-workspace.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[c_BusinessUnits|Business units]]

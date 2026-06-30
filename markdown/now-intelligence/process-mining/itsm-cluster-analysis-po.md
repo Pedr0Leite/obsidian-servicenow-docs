@@ -14,7 +14,7 @@ breadcrumb: [ITSM, Activate content packs, Activate, Process Mining, Platform An
 
 # Cluster analysis configurations for ITSM work items
 
-The [[process-mining|Process Mining]] application provides solution definitions for incidents, problems, change requests, and requested items. You can use these definitions to configure [[cluster-analysis|cluster analysis]] for those work items.
+The Process Mining application provides solution definitions for incidents, problems, change requests, and requested items. You can use these definitions to configure cluster analysis for those work items.
 
 **Important:** This feature is available with the ServiceNow Store Process Mining ITSM content pack v1.2. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
@@ -85,12 +85,7 @@ Requested item
 -   Assigned to
 
 </td></tr></tbody>
-</table>For information on how to [[request-cluster-analysis|perform a cluster analysis]] from the Process Mining application, see [Perform a cluster analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/cluster-analysis.md).
+</table>For information on how to perform a cluster analysis from the Process Mining application, see [Perform a cluster analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/cluster-analysis.md).
 
 **Parent Topic:**[Content pack for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/itsm-proc-opti-content-pack.md)
 
-## Related
-
-- [[process-mining|Process Mining]]
-- [[cluster-analysis|Cluster analysis]]
-- [[request-cluster-analysis|Perform a cluster analysis]]

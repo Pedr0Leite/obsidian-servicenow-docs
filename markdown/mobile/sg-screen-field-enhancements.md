@@ -84,7 +84,7 @@ When configuring a details screen, you select fields to display on your form. Wh
 
 </td></tr><tr><td>
 
-**Date** Use a date screen field to display a date value on your form. This value comes from a date or date/time field on the current record. Dates are displayed in the format that are defined by your instance. This field type has a**Value only** option, which displays the value of the field without the field label. If the field is configured with an action function, users can change the values of these fields. For more information, see [[sg-studio-config-action-function|Configure an action function]].
+**Date** Use a date screen field to display a date value on your form. This value comes from a date or date/time field on the current record. Dates are displayed in the format that are defined by your instance. This field type has a**Value only** option, which displays the value of the field without the field label. If the field is configured with an action function, users can change the values of these fields. For more information, see [Configure an action function](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-studio-config-action-function.md).
 
 </td><td>
 
@@ -111,18 +111,11 @@ When configuring a details screen, you select fields to display on your form. Wh
 
 </td><td>
 
-\[Omitted image "record-script-screen-platform.png"\] Alt text: Script screen option in a [[form-screen|record screen]].
+\[Omitted image "record-script-screen-platform.png"\] Alt text: Script screen option in a record screen.
 
 </td></tr></tbody>
-</table>-   **[[sg-mobile-add-screen-field|Add screen fields to a record screen]]**  
+</table>-   **[Add screen fields to a record screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-add-screen-field.md)**  
 Add screen fields to improve the usability of your record screens. Screen fields enable you to change how information is shown in your form or you can provide access to additional elements, such as attachments, videos, or links.
--   **[[sg-mobile-add-video-field|Add a video screen field to a record screen]]**  
-Learn how to use a video screen field to view embedded videos in your [[mobile-screens-landing|mobile screens]].
+-   **[Add a video screen field to a record screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-add-video-field.md)**  
+Learn how to use a video screen field to view embedded videos in your mobile screens.
 
-## Related
-
-- [[sg-studio-config-action-function|Configure an action function]]
-- [[sg-mobile-add-screen-field|Add screen fields to a record screen]]
-- [[sg-mobile-add-video-field|Add a video screen field to a record screen]]
-- [[form-screen|Record screen]]
-- [[mobile-screens-landing|Mobile screens]]

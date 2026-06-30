@@ -21,23 +21,17 @@ The following base system fields are provided on certain tables to track how lon
 -   [Time worked](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_RecordTimeWorked.md): A timer that runs when you view the record, and pauses while you close it, or when you manually pause it. Used to track the time spent by the help desk while working on the record.
 -   [Resolve time](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_ResolveTime.md): A calculated field that measures the time from the moment the record is opened, to the moment the record is closed. Used to track how long it takes to resolve the record.
 
-These fields provide different [[c_MetricDefinitionSupport|metrics]] for request response.
+These fields provide different metrics for request response.
 
 The following additional tools are available for tracking work time:
 
 -   **Service level agreements \(SLAs\)**: Measures how long it takes a record fulfill certain conditions \(such as an incident being marked **Resolved**\).
--   **[[c_TimeCards|Time cards]]**: Use the **[[c_TimeWorked|Time worked]]** field to break down how much time was spent by day of the week.
+-   **Time cards**: Use the **Time worked** field to break down how much time was spent by day of the week.
 
 -   **[Time worked](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_TimeWorked.md)**  
 The Task \[task\] table provides a time-tracking field called **Time worked**.
 -   **[Resolve time](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_ResolveTime.md)**  
-The **[[c_ResolveTime|Resolve time]]** field is available on the Incident \[incident\] and Request \[sc\_request\] tables. This field allows for easy reporting on how long it takes for requests to be closed, and is stored as an integer number of seconds.
+The **Resolve time** field is available on the Incident \[incident\] and Request \[sc\_request\] tables. This field allows for easy reporting on how long it takes for requests to be closed, and is stored as an integer number of seconds.
 
 **Parent Topic:**[Default date and time fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_DefaultDateAndTimeFields.md)
 
-## Related
-
-- [[c_MetricDefinitionSupport|Metrics]]
-- [[c_TimeCards|Time cards]]
-- [[c_TimeWorked|Time worked]]
-- [[c_ResolveTime|Resolve time]]

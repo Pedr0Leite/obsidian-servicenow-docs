@@ -58,15 +58,10 @@ Feedback is an important part of the Feature Preview Program. When you test pre-
 
 You can activate or deactivate pre-release features from this page. After activating and testing a feature, provide feedback to the product team.
 
--   **[[activate-prerelease-feature|Activate a pre-release feature]]**  
+-   **[Activate a pre-release feature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/activate-prerelease-feature.md)**  
  Activate a pre-release feature on the instance so your users can try it out and provide feedback to the product team.
--   **[[deactivate-prerelease-feature|Deactivate a pre-release feature]]**  
+-   **[Deactivate a pre-release feature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/deactivate-prerelease-feature.md)**  
 Deactivate a pre-release feature if it is not working as expected or if you no longer need the feature.
 
-**Parent Topic:**[[p_CoreConfigurationOverview|Basic system configuration]]
+**Parent Topic:**[Basic system configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/p_CoreConfigurationOverview.md)
 
-## Related
-
-- [[activate-prerelease-feature|Activate a pre-release feature]]
-- [[deactivate-prerelease-feature|Deactivate a pre-release feature]]
-- [[p_CoreConfigurationOverview|Basic system configuration]]

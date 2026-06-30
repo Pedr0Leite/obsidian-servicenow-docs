@@ -14,7 +14,7 @@ breadcrumb: [Configure a Lifecycle Events trigger for activity sets, Lifecycle E
 
 # Lifecycle Events activity set trigger types
 
-Administrators can configure [[activity-lxp|activity]] set triggers to make activities in an activity set available.
+Administrators can configure activity set triggers to make activities in an activity set available.
 
 ## Activity set trigger types
 
@@ -107,6 +107,3 @@ The number of offset units to be evaluated.
 
 **Parent Topic:**[Configure a Lifecycle Events trigger for activity sets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/le-config-event-trigger.md)
 
-## Related
-
-- [[activity-lxp|Activity]]

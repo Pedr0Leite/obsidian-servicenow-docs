@@ -28,7 +28,7 @@ Role required: cmdb\_inst\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Configuration** &gt; **[[integrationhub-etl|IntegrationHub ETL]]**.
+1.  Navigate to **All** &gt; **Configuration** &gt; **IntegrationHub ETL**.
 
     The landing page of the IntegrationHub ETL lists all integrations that exist in the system, including integrations that were downloaded from the ServiceNow Store.
 
@@ -104,6 +104,3 @@ Data for the new duplicated ETL transform map is imported, and the **Import Sour
 
 Continue with the next steps on the guided setup steps to review the imported data and complete the integration using the duplicated ETL transform map.
 
-## Related
-
-- [[integrationhub-etl|IntegrationHub ETL]]

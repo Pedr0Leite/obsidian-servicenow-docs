@@ -14,7 +14,7 @@ breadcrumb: [Oracle reconciliation, Software Asset Management publisher pack for
 
 # Set up domain-specific reconciliation properties for Oracle
 
-Use domain separation application properties for [[c_SoftwareAssetMgmt|Software Asset Management]] to set up [[oracle-recon|Oracle reconciliation]] properties for specific domains.
+Use domain separation application properties for Software Asset Management to set up Oracle reconciliation properties for specific domains.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sam\_admin
 
 ## About this task
 
-Domain separation application properties are available for the Software Asset Management application. These properties correspond directly to the existing [[sam-properties|Software Asset Management properties]] and enable you to specify the domain that you want each property to apply to.
+Domain separation application properties are available for the Software Asset Management application. These properties correspond directly to the existing Software Asset Management properties and enable you to specify the domain that you want each property to apply to.
 
 Domain separation is supported on the following Oracle reconciliation properties:
 
@@ -58,8 +58,3 @@ For more information on the existing Software Asset Management properties, see [
 
 **Parent Topic:**[Oracle reconciliation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/oracle-recon.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[oracle-recon|Oracle reconciliation]]
-- [[sam-properties|Software Asset Management properties]]

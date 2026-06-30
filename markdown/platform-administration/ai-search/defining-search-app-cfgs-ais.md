@@ -14,11 +14,11 @@ breadcrumb: [Configuring AI Search, AI Search, Search administration, Configure 
 
 # Search application configurations
 
-A search application configuration specifies the search engine and settings to use for search in a ServiceNow AI Platform® application. When you choose [[ia-ai-search|AI Search]] as an application's search engine, you can select a search profile for the application and configure its search result display and refinement settings.
+A search application configuration specifies the search engine and settings to use for search in a ServiceNow AI Platform® application. When you choose AI Search as an application's search engine, you can select a search profile for the application and configure its search result display and refinement settings.
 
-A search application configuration contains a [[reference-email-admin|reference]] to a search profile, along with settings that affect how search [[hs-results|results]] are displayed to users of the application. The search profile specifies settings that determine how AI Search generates search results for a given search. To learn more about search profile configuration settings, see [Search profiles in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/defining-search-profiles-ais.md).
+A search application configuration contains a reference to a search profile, along with settings that affect how search results are displayed to users of the application. The search profile specifies settings that determine how AI Search generates search results for a given search. To learn more about search profile configuration settings, see [Search profiles in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/defining-search-profiles-ais.md).
 
-Some ServiceNow AI Platform applications install their own AI Search application [[clone-configurations-tab|configurations]] when you activate them. For example, activating the [Customer Service Management \(CSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_CustomerServiceManagement.md) application installs AI Search application configurations for the Customer Service Portal and Consumer Service Portal.
+Some ServiceNow AI Platform applications install their own AI Search application configurations when you activate them. For example, activating the [Customer Service Management \(CSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_CustomerServiceManagement.md) application installs AI Search application configurations for the Customer Service Portal and Consumer Service Portal.
 
 AI Search includes search application configurations for use in the following ServiceNow AI Platform applications:
 
@@ -53,9 +53,3 @@ A search result sort option enables users to display search results in an order 
 
 **Parent Topic:**[Configuring AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configuring-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[reference-email-admin|Reference]]
-- [[hs-results|Results]]
-- [[clone-configurations-tab|Configurations]]

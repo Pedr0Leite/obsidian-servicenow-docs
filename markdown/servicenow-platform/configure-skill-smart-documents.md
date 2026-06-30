@@ -12,7 +12,7 @@ breadcrumb: [Configure, Now Assist in Document Management, Manage content capabi
 
 # Configure the Smart Documents Skill for Now Assist in Document Management
 
-Configure the Smart Document skill to get document insights through seamless conversational interactions by using [[now-assist-document-management|Now Assist in Document Management]] application.
+Configure the Smart Document skill to get document insights through seamless conversational interactions by using Now Assist in Document Management application.
 
 ## Before you begin
 
@@ -47,9 +47,5 @@ Role required: sn\_nowassist\_admin.nsa\_admin
 
 ## What to do next
 
-System property to use Smart Documents skill features [[system-property-smart-documents|System property for Smart Documents skill]].
+System property to use Smart Documents skill features [System property for Smart Documents skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/system-property-smart-documents.md).
 
-## Related
-
-- [[system-property-smart-documents|System property for Smart Documents skill]]
-- [[now-assist-document-management|Now Assist in Document Management]]

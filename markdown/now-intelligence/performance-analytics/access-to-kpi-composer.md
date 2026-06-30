@@ -51,7 +51,7 @@ pa\_viewer
 -   Full access to all components of KPI Composer, including records.
 -   Full access to all projects.
 -   Can share or assign responsibility for projects.
--   Can associate indicator and breakdown definitions with [[c_Indicators|Performance Analytics indicators]] and breakdowns.
+-   Can associate indicator and breakdown definitions with Performance Analytics indicators and breakdowns.
 
 </td></tr><tr><td>
 
@@ -71,7 +71,7 @@ None
  A user with this role may have access to more projects based on responsibility or on projects being shared with them.
 
 </td></tr></tbody>
-</table>The appropriate [[r_PARoles|Performance Analytics roles]] are also necessary to implement KPI Composer designs in Performance Analytics.
+</table>The appropriate Performance Analytics roles are also necessary to implement KPI Composer designs in Performance Analytics.
 
 ## Responsibility for projects
 
@@ -103,7 +103,3 @@ For more information, see [Share a KPI Composer project](https://raw.githubuserc
 
 **Parent Topic:**[Design your Performance Analytics solution with KPI Composer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/designing-pa-solution.md)
 
-## Related
-
-- [[c_Indicators|Performance Analytics indicators]]
-- [[r_PARoles|Performance Analytics roles]]

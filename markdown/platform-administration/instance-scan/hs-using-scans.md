@@ -14,12 +14,12 @@ breadcrumb: [Instance Scan, Maintain and monitor, Administer the ServiceNow AI P
 
 # Using Instance Scan
 
-Execute and schedule the following scans within [[hs-landing-page|Instance Scan]]. You can also analyze the [[hs-results|results]] of the scans in your instance on a dashboard.
+Execute and schedule the following scans within Instance Scan. You can also analyze the results of the scans in your instance on a dashboard.
 
 -   **[Create a check](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-create-health-check.md)**  
 Create your own checks by implementing the following procedure.
 -   **[Create a check suite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hc-create-check-suite.md)**  
-[[hc-create-check-suite|Create a check suite]] to bundle a group of checks into a suite and execute it.
+Create a check suite to bundle a group of checks into a suite and execute it.
 -   **[Executing a scan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-execute-scans.md)**  
 Use the following types of scans to execute checks, a scan or a suite scan.
 -   **[Schedule a full scan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-schedule-full-scan.md)**  
@@ -31,7 +31,7 @@ You can check the progress status of a scan by checking the progress tracker.
 -   **[Parallel scans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-parallel-scan.md)**  
 Parallel scan is a functionality in Instance Scan that allows multiple scans to run in parallel instead of sequential execution. This improves efficiency and reduces wait times when several scans are executed concurrently.
 -   **[Reviewing of scans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-review-scans.md)**  
-After the scans have been executed, you can review them with the [[hs-findings|findings]] and results components.
+After the scans have been executed, you can review them with the findings and results components.
 -   **[Queue your scan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-queue-scan.md)**  
 Leverage the scan queue feature to line up your scans for automatic execution following the current scan.
 -   **[Cancel a scan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-cancel-scan.md)**  
@@ -39,12 +39,5 @@ Cancel or abort an ongoing scan by either selecting Cancel Scan in the scan exec
 -   **[Using the Instance Scan dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-implement-dashboard.md)**  
 Compare and analyze the results of the scans in your instance by representing it on the premium Performance Analytics \(PA\) dashboard.
 
-**Parent Topic:**[[maintain-monitor-now-platform|Maintaining and monitoring the ServiceNow AI Platform]]
+**Parent Topic:**[Maintaining and monitoring the ServiceNow AI Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/maintain-monitor-now-platform.md)
 
-## Related
-
-- [[maintain-monitor-now-platform|Maintaining and monitoring the ServiceNow AI Platform]]
-- [[hs-landing-page|Instance Scan]]
-- [[hs-results|Results]]
-- [[hc-create-check-suite|Create a check suite]]
-- [[hs-findings|Findings]]

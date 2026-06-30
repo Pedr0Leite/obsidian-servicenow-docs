@@ -14,7 +14,7 @@ breadcrumb: [Self-health monitors for Event Management, Manage and monitor alert
 
 # Create a self-health monitor to use custom health monitor script
 
-You can create a self-health monitor to use custom health monitor script to monitor specified [[c_EM|Event Management]] components.
+You can create a self-health monitor to use custom health monitor script to monitor specified Event Management components.
 
 ## Before you begin
 
@@ -294,11 +294,7 @@ Ensure that the custom script includes:Run the monitor function, which is called
 
 ## Result
 
-To monitor the Event Management components that you specify, you can [[configure-threshold-monitoring|configure a self-health monitor]] that uses the custom health monitor script that you created.
+To monitor the Event Management components that you specify, you can configure a self-health monitor that uses the custom health monitor script that you created.
 
 **Parent Topic:**[Self-health monitors for Event Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/self-monitoring.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[configure-threshold-monitoring|Configure a self-health monitor]]

@@ -22,7 +22,7 @@ Role required: none
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[password-reset-landing-page|Password Reset]]** &gt; **Enroll**.
+1.  Navigate to **All** &gt; **Password Reset** &gt; **Enroll**.
 
 2.  Select the **Soft PIN Verification** tab.
 
@@ -44,6 +44,4 @@ Role required: none
 
     You're enrolled for the Soft PIN verification.
 
-## Related
 
-- [[password-reset-landing-page|Password Reset]]

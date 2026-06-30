@@ -14,7 +14,7 @@ breadcrumb: [Field Service Contractor for mobile, ServiceNow Agent mobile app, C
 
 # Reassign a work order task to yourself on a mobile device
 
-Reassign a work order task to yourself through the [[wot-fsc|Field Service Contractor for mobile]] feature of the ServiceNow Agent application.
+Reassign a work order task to yourself through the Field Service Contractor for mobile feature of the ServiceNow Agent application.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ Role required: wm\_ext\_agent or wm\_ext\_manager
 
 The work order task is successfully assigned to yourself and can be accessed from the **Open tasks** screen. The Notification navigation tab shows a message confirming that the work order task has been reassigned to you.
 
-## Related
-
-- [[wot-fsc|Field Service Contractor for mobile]]

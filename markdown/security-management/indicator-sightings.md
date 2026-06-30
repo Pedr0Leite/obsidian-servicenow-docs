@@ -12,26 +12,26 @@ breadcrumb: [IoC Repository, Threat Intelligence, Enterprise security case manag
 
 # Sightings
 
-Sightings denote that an indicator or object was seen. Objects may be a [[threat-intelligence-malware|malware]], tool, [[threat-actor|threat actor]], and so on.
+Sightings denote that an indicator or object was seen. Objects may be a malware, tool, threat actor, and so on.
 
 Sightings track who and what is the target, how attacks are carried out, and to track trends in attack behavior.
 
-The Sighting relationship object contains extra properties not present in the generic relationship objects. These extra properties represent data specific to sighting [[stix-relationships|relationships]].
+The Sighting relationship object contains extra properties not present in the generic relationship objects. These extra properties represent data specific to sighting relationships.
 
 For example, a count, or representing how many times something was seen.
 
 Sighting is captured as a relationship because you cannot have a sighting unless you have something that has been sighted.
 
--   What was sighted, such as the malware, [[campaign|campaign]], or other SDO
--   Who sighted it and/or where it was sighted, represented as an [[identity|identity]]
--   What was seen on systems and networks, represented as [[threat-intelligence-observed-data|observed data]]
+-   What was sighted, such as the malware, campaign, or other SDO
+-   Who sighted it and/or where it was sighted, represented as an identity
+-   What was seen on systems and networks, represented as observed data
 
--   **[[define-indicator-sightings|Define indicator sightings]]**  
+-   **[Define indicator sightings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/define-indicator-sightings.md)**  
 Define sightings that denote that an indicator was seen.
--   **[[define-object-sightings|Define object sightings]]**  
-[[define-object-sighting|Define object sighting]] that describes that an object \(malware, tool, threat actor, and so on\) was seen.
+-   **[Define object sightings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/define-object-sightings.md)**  
+Define object sighting that describes that an object \(malware, tool, threat actor, and so on\) was seen.
 
-**Parent Topic:**[[ioc-repository|IoC Repository]]
+**Parent Topic:**[IoC Repository](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/ioc-repository.md)
 
 **Related topics**  
 
@@ -82,15 +82,3 @@ Define sightings that denote that an indicator was seen.
 
 [STIX Visualizer]()
 
-## Related
-
-- [[define-indicator-sightings|Define indicator sightings]]
-- [[define-object-sightings|Define object sightings]]
-- [[ioc-repository|IoC Repository]]
-- [[threat-intelligence-malware|Malware]]
-- [[threat-actor|Threat Actor]]
-- [[stix-relationships|Relationships]]
-- [[campaign|Campaign]]
-- [[identity|Identity]]
-- [[threat-intelligence-observed-data|Observed data]]
-- [[define-object-sighting|Define Object Sighting]]

@@ -14,7 +14,7 @@ breadcrumb: [Report compliance case, Use, Compliance Case Management, Governance
 
 # Create a compliance case in the Compliance Workspace
 
-Report any violation of the organization's policies or guidelines by using the [[compliance-case-management|Compliance Case Management]] application. By reporting a case, you reduce and avert the adverse regulatory actions that could impact the company's financials, reputation, and growth.
+Report any violation of the organization's policies or guidelines by using the Compliance Case Management application. By reporting a case, you reduce and avert the adverse regulatory actions that could impact the company's financials, reputation, and growth.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ Your users can report a case to the compliance teams through phone calls or emai
 
 4.  On the form, fill in the fields.
 
-    For a description of the field values on the Create a [[compliance-case-form|Compliance Case form]], see [Compliance Case form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/compliance-case-form.md).
+    For a description of the field values on the Create a Compliance Case form, see [Compliance Case form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/compliance-case-form.md).
 
 5.  Select **Save**.
 
@@ -44,7 +44,3 @@ Use the Create Compliance Case form in the GRC: Compliance Case Management appli
 
 **Parent Topic:**[Reporting a compliance case in GRC: Compliance Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/reporting-compliance-case.md)
 
-## Related
-
-- [[compliance-case-management|compliance case management]]
-- [[compliance-case-form|compliance case form]]

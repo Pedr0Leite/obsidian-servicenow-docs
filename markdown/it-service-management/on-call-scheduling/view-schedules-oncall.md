@@ -30,7 +30,7 @@ On-Call schedules enable you to view the presence of on-call members. For more i
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_OnCallScheduling|On-Call Scheduling]]** &gt; **On-Call Schedules**.
+1.  Navigate to **All** &gt; **On-Call Scheduling** &gt; **On-Call Schedules**.
 
     **Note:** For a group with overlapping shifts, shift cards are displayed based on the escalation setting.
 
@@ -68,6 +68,3 @@ On-Call schedules enable you to view the presence of on-call members. For more i
 
 **Parent Topic:**[Viewing schedules and request time-off](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/viewing-schedules-and-escalation.md)
 
-## Related
-
-- [[c_OnCallScheduling|On-Call Scheduling]]

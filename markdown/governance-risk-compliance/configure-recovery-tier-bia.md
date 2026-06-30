@@ -38,7 +38,7 @@ Although there is no limitation to the number of recovery tiers, an organization
 
 ## Procedure
 
-1.  Navigate to **Business Continuity** &gt; **General [[Administration|Administration]]** &gt; **Recovery Tiers**.
+1.  Navigate to **Business Continuity** &gt; **General Administration** &gt; **Recovery Tiers**.
 
 2.  Click **New**.
 
@@ -51,6 +51,4 @@ Although there is no limitation to the number of recovery tiers, an organization
 
 4.  Click **Submit**.
 
-## Related
 
-- [[Administration|Administration]]

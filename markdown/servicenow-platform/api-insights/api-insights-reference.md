@@ -14,7 +14,7 @@ breadcrumb: [API Insights, Configuration Management Database \(CMDB\), Configura
 
 # API Insights reference
 
-[[reference|Reference]] topics provide additional information about [[api-insights|API Insights]] components, [[api-insights-props|API Insights properties]], and [[domain-separation-relationship-formatter-editor|domain separation]].
+Reference topics provide additional information about API Insights components, API Insights properties, and domain separation.
 
 -   **[Components installed with API Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights-components-installed.md)**  
 Several types of components are installed with activation of the API Insights plugin, including tables, user roles, and scheduled jobs.
@@ -25,9 +25,3 @@ Domain separation is unsupported for API Insights. Domain separation enables you
 
 **Parent Topic:**[API Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights.md)
 
-## Related
-
-- [[reference|Reference]]
-- [[api-insights|API Insights]]
-- [[api-insights-props|API Insights properties]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]

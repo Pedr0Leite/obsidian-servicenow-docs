@@ -12,7 +12,7 @@ breadcrumb: [Order case pages, Order Operations Case Management, Case management
 
 # Order case record page
 
-The Order case record page displays information about order cases and the associated list of order case line items in [[csm-workspaces-configure|CSM Configurable Workspace]].
+The Order case record page displays information about order cases and the associated list of order case line items in CSM Configurable Workspace.
 
 \[Omitted image "csm-order-ops-order-case-page.png"\] Alt text: Order case page with customer and account information, SLA, and case details. Center panel displays the Order Case Line list. Page also includes the configurable side panel.
 
@@ -38,7 +38,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[order-case-form|Order case form]] heading
+Order case form heading
 
 </td><td>
 
@@ -50,9 +50,9 @@ Order case action bar
 
 </td><td>
 
-The action bar contains the actions available to users while working on order case records. The specific actions are determined by factors such as the user role, order case state, and other attributes.-   **In-progress Actions**: This icon provides a list of minimized [[csm-front-line-case-page-modeless-dialogs|modeless dialogs]]. It includes a badge that displays the number of items in the list. From this list, an agent can select an item to open the minimized comment, work note, or email.
+The action bar contains the actions available to users while working on order case records. The specific actions are determined by factors such as the user role, order case state, and other attributes.-   **In-progress Actions**: This icon provides a list of minimized [modeless dialogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-front-line-case-page-modeless-dialogs.md). It includes a badge that displays the number of items in the list. From this list, an agent can select an item to open the minimized comment, work note, or email.
 -   **Compose**: Compose comments, work notes, and emails in modeless dialogs.
--   **Manage case**: Perform [[case-management|case management]] actions such as requesting information or proposing a solution.
+-   **Manage case**: Perform case management actions such as requesting information or proposing a solution.
 -   **Save**: Save changes to the order case record.
 -   **More Actions**: Perform additional actions such as proposing a major case or reporting a knowledge gap.
 
@@ -62,7 +62,7 @@ Account lookup
 
 </td><td>
 
-Agents can use the account [[csm-record-page-lookup-component|lookup component]] to do the following:-   Search for an account.
+Agents can use the account lookup component to do the following:-   Search for an account.
 -   Link or unlink an account.
 -   Select a reference field on a lookup card, such as a contact name, to open the reference in a sub-tab.
 -   Select a phone number on a lookup card to make a call.
@@ -137,7 +137,7 @@ After selecting an order case line item, agents can edit selected order case lin
 
 </td></tr><tr><td>
 
-[[csm-config-ws-activity-stream|Activity stream]]
+Activity stream
 
 </td><td>
 
@@ -153,15 +153,15 @@ The contextual side panel component includes different tools that agents can use
 
 -   Activity stream
 -   Attachments
--   [[configure-nba|Recommended Actions]] search
--   [[csm-front-line-case-page|Related Lists]]
+-   Recommended Actions search
+-   [Related Lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-front-line-case-page.md)
 -   Email Templates
 -   Response Templates
 -   Form Templates
 
- For more information about related [[migration-lists|lists]], see the [Order case record page related lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-order-ops-order-case-record-page.md) section below.
+ For more information about related lists, see the [Order case record page related lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-order-ops-order-case-record-page.md) section below.
 
- **Note:** The [[csm-case-mgmt-order-ops|Order Operations Case Management]] application does not include response templates. To configure a response template, see [Create or modify a response template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/create-modify-templated-snippet.md).
+ **Note:** The Order Operations Case Management application does not include response templates. To configure a response template, see [Create or modify a response template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/create-modify-templated-snippet.md).
 
 </td></tr></tbody>
 </table>## Order case record page settings
@@ -182,7 +182,7 @@ Active
 
 </td><td>
 
-Enabling the **Active** check box makes the page available to the selected audience. The Order case record page is active by default.The active setting combined with the page order determines the page that CSM Configurable Workspace uses to display record information. For more information, see [[config-csm-ws-set-record-page-order|Set record page order]].
+Enabling the **Active** check box makes the page available to the selected audience. The Order case record page is active by default.The active setting combined with the page order determines the page that CSM Configurable Workspace uses to display record information. For more information, see [Set record page order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-csm-ws-set-record-page-order.md).
 
 </td></tr><tr><td>
 
@@ -262,16 +262,3 @@ The email templates should be accessed from email dialog.
 
 For more information about composing emails, comments, and work notes, see [Modeless dialogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-front-line-case-page-modeless-dialogs.md).
 
-## Related
-
-- [[csm-front-line-case-page-modeless-dialogs|Modeless dialogs]]
-- [[csm-front-line-case-page|Front-line case page]]
-- [[config-csm-ws-set-record-page-order|Set record page order]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[order-case-form|Order case form]]
-- [[case-management|Case management]]
-- [[csm-record-page-lookup-component|Lookup component]]
-- [[csm-config-ws-activity-stream|Activity stream]]
-- [[configure-nba|Recommended Actions]]
-- [[migration-lists|Lists]]
-- [[csm-case-mgmt-order-ops|Order Operations Case Management]]

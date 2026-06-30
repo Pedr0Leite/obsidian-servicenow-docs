@@ -14,7 +14,7 @@ breadcrumb: [SRM interface, Get started with Service Reliability Management, Exp
 
 # Export list information to a file
 
-You can export live information to a file in [[sr-landing-page|Service Reliability Management]] \(SRM\).
+You can export live information to a file in Service Reliability Management \(SRM\).
 
 ## Before you begin
 
@@ -24,9 +24,9 @@ Role required: srm\_admin, srm\_manager, or srm\_responder
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-    You're taken to your [[sr-home-page|SRM Home page]].
+    You're taken to your SRM Home page.
 
     **Note:** If you use other Service Operations Workspace \(SOW\) applications, you may see the SOW Home page instead of the SRM Home page. The SOW Home page includes SRM alerts and incidents in its metrics.
 
@@ -59,8 +59,3 @@ Role required: srm\_admin, srm\_manager, or srm\_responder
 
 **Parent Topic:**[SRM interface](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-navigate-interface.md)
 
-## Related
-
-- [[sr-landing-page|Service Reliability Management]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[sr-home-page|SRM Home page]]

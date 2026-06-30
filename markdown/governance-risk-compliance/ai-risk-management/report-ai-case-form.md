@@ -14,7 +14,7 @@ breadcrumb: [Report an AI case, Use, AI Risk and Compliance, Governance, Risk, a
 
 # Report an AI case form
 
-Use the Report an AI case form in the [[employee-center|Employee Center]] to report an AI case with the necessary details.
+Use the Report an AI case form in the Employee Center to report an AI case with the necessary details.
 
 See the following table for a description of the field values.
 
@@ -25,7 +25,7 @@ See the following table for a description of the field values.
 |Description|Description about the AI case in detail. For example, include information such as the expected recommendation, actual suggestion, context, impact, and steps to reproduce the issue, especially for cases like Incorrect AI Recommendation.|
 |Classification|
 |Case type|Type of the AI case. This field is automatically set to **AI case**.|
-|Case subtype|Subtype of the case. For example, Adversarial attacks \(Deliberate manipulation of [[ai-model-airc|AI models]] to produce incorrect results\).|
+|Case subtype|Subtype of the case. For example, Adversarial attacks \(Deliberate manipulation of AI models to produce incorrect results\).|
 |Schedule|
 |Date of occurrence|Date when the AI case occurred. For example, the case may have occurred on 18-02-2025.|
 |Date of discovery|Date when the case was discovered. For example, the case may have occurred on 18-02-2025, but was discovered on 12-03-2025.|
@@ -37,7 +37,3 @@ See the following table for a description of the field values.
 
 **Parent Topic:**[Report an AI case from the Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/report-ai-case.md)
 
-## Related
-
-- [[employee-center|employee center]]
-- [[ai-model-airc|AI models]]

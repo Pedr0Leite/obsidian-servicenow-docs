@@ -26,7 +26,7 @@ Migration of the form headers from ITSM Agent Workspace to Service Operations Wo
 
 ## How the migration utility identifies form headers for migration
 
-The SOW [[migration-utility|migration utility]] identifies the eligible set of form headers to be [[migrated-records|migrated]] based on the following sequence:
+The SOW migration utility identifies the eligible set of form headers to be migrated based on the following sequence:
 
 1.  Filters all the form header records that have **Workspace** set to **Agent Workspace** from the sys\_aw\_form\_header table.
 2.  Filters all the form header records that are mapped to the SOW Header Configuration record from the sys\_ux\_m2m\_workspace\_header\_ux\_header\_config table.
@@ -45,7 +45,7 @@ The SOW migration utility uses the following sequence to migrate the form header
 
 
 -   **[Perform post-migration tasks for form headers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/verify-migration-status-form-headers-sow.md)**  
-Verify that the form header in Service Operations Workspace \(SOW\) are consistent with the form header in ITSM Agent Workspace \(ITSM AW\) and are ready for use in SOW. You can update the migrated form header [[settings-mobile|settings]] in SOW based on your requirements.
+Verify that the form header in Service Operations Workspace \(SOW\) are consistent with the form header in ITSM Agent Workspace \(ITSM AW\) and are ready for use in SOW. You can update the migrated form header settings in SOW based on your requirements.
 
 **Parent Topic:**[Configurations and customizations that can be migrated from ITSM Agent workspace to SOW for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configurations-and-customizations-from-itsm-aw-sow-itsm.md)
 
@@ -74,8 +74,3 @@ Verify that the form header in Service Operations Workspace \(SOW\) are consiste
 
 [Migration of field decorators from ITSM Agent Workspace to Service Operations Workspace for ITSM]()
 
-## Related
-
-- [[migration-utility|Migration Utility]]
-- [[migrated-records|Migrated]]
-- [[settings-mobile|Settings]]

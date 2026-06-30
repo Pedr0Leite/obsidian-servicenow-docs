@@ -75,7 +75,7 @@ Location
 </td><td>
 
 Where you want your content to appear. Your choices are:-   Service Portal
--   Mobile \(for [[ec-news-articles|News articles]] only\)
+-   Mobile \(for News articles only\)
 -   Workspace: Requires the Human Resources Scoped App: Workspace \(com.sn\_hr\_agent\_workspace\) plugin to be activated.
 
 
@@ -93,7 +93,7 @@ Page
 
 </td><td>
 
-This option appears when you select **Service portal** or **Workspace**.The page on your [[employee-center-landing-page|Employee Center]] you want your content to appear.
+This option appears when you select **Service portal** or **Workspace**.The page on your Employee Center you want your content to appear.
 
 A page is a pre-existing record that contains code and structure that define how to display content you want to schedule and make available to your employees.
 
@@ -127,7 +127,7 @@ Taxonomy
 
 The taxonomy or top level in the organization hierarchy you want your content to appear under. Also allows you to filter your preview by taxonomy.
 
- Taxonomy is a collection of hierarchical topics that brings together different content types, like requests, articles, [[emp-center-quick-link-config|quick links]], and [[eslate-employee-comms|employee communications]].
+ Taxonomy is a collection of hierarchical topics that brings together different content types, like requests, articles, quick links, and employee communications.
 
  A taxonomy is the top-level of the hierarchy and can have multiple topics under it.
 
@@ -199,15 +199,8 @@ Content is available for use, but does not appear on the Employee Center.
 </td></tr></tbody>
 </table>7.  Select **Save publish plan**.
 
-    After you create a publish plan, the **Preview on portal** button appears in the **Publish** tab, which redirects you to view how the content will appear on the [[employee-center-portal-overview|employee portal]] once published.
+    After you create a publish plan, the **Preview on portal** button appears in the **Publish** tab, which redirects you to view how the content will appear on the employee portal once published.
 
-    Once rich or [[ec-streamline-content|portal content]] is published, you must checkout the content to edit it. See [Checkout published content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-checkout-published-content.md).
+    Once rich or portal content is published, you must checkout the content to edit it. See [Checkout published content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-checkout-published-content.md).
 
-## Related
 
-- [[ec-news-articles|News articles]]
-- [[employee-center-landing-page|Employee Center]]
-- [[emp-center-quick-link-config|Quick links]]
-- [[eslate-employee-comms|Employee communications]]
-- [[employee-center-portal-overview|Employee portal]]
-- [[ec-streamline-content|Portal content]]

@@ -18,9 +18,9 @@ After the resource plan is requested, as a resource manager, you can directly al
 
 ## Before you begin
 
-**Important:** [[c_ResourcePlans|Resource plans]] in Resource Management will no longer be available for new customers from future releases.
+**Important:** Resource plans in Resource Management will no longer be available for new customers from future releases.
 
-You're encouraged [migrate your existing resource plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rsrc-plans-rsrc-asgmnts.md) to work on resource assignments which offers more flexibility and [Create resource assignments and operation resource assignments in Resource Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/create-ra-rmw.md) [[using-rmw|using Resource Management Workspace]] or [[project-workspace-landing-page|Project Workspace]].
+You're encouraged [migrate your existing resource plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rsrc-plans-rsrc-asgmnts.md) to work on resource assignments which offers more flexibility and [Create resource assignments and operation resource assignments in Resource Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/create-ra-rmw.md) using Resource Management Workspace or Project Workspace.
 
 Resource managers can [assign and approve the unassigned resource assignments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/allocate-resources-rmw.md) using Resource Management Workspace.
 
@@ -30,7 +30,7 @@ Role required: resource\_manager
 
 Modify or [cancel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/t_CancelAResourcePlan.md) a resource plan that is in the Allocated state.
 
-If the resource type in a resource plan is a group, you can [[t_RequestResourcePlanApproval|request resources]] only if that group has active members.
+If the resource type in a resource plan is a group, you can request resources only if that group has active members.
 
 ## Procedure
 
@@ -43,7 +43,7 @@ If the resource type in a resource plan is a group, you can [[t_RequestResourceP
 
 The resource plan automatically moves to the Allocated state from the Requested state. Soft allocations are converted to [hard allocations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/r_AllocatingResources.md) when the resource plan moves to the Allocated state.
 
-Any errors or warnings during allocations are logged in the Resource Plan Logs related list on the [[rsrc-plan-form|Resource Plan form]]. The log is generated if a resource is allocated over 24 hours for a given day. You can review these logs to take correct actions for further [[r_AllocatingResources|resource allocation]].
+Any errors or warnings during allocations are logged in the Resource Plan Logs related list on the Resource Plan form. The log is generated if a resource is allocated over 24 hours for a given day. You can review these logs to take correct actions for further resource allocation.
 
 **Parent Topic:**[Resource plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/c_ResourcePlans.md)
 
@@ -84,11 +84,3 @@ Any errors or warnings during allocations are logged in the Resource Plan Logs r
 
 [Associate a time card with a resource plan]()
 
-## Related
-
-- [[c_ResourcePlans|Resource plans]]
-- [[using-rmw|Using Resource Management Workspace]]
-- [[project-workspace-landing-page|Project Workspace]]
-- [[t_RequestResourcePlanApproval|Request resources]]
-- [[rsrc-plan-form|Resource Plan form]]
-- [[r_AllocatingResources|Resource allocation]]

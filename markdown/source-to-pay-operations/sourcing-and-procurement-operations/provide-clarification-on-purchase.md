@@ -18,7 +18,7 @@ Provide clarification on your purchase by answering the question that the approv
 
 ## Before you begin
 
-To provide clarification on your purchase, you should have received a clarification request from the approver. Only then, this task is displayed to you on your My purchases page on [[shopping-hub-overview|Shopping Hub]] Home.
+To provide clarification on your purchase, you should have received a clarification request from the approver. Only then, this task is displayed to you on your My purchases page on Shopping Hub Home.
 
 Role required: sn\_shop.shopper
 
@@ -34,16 +34,10 @@ Role required: sn\_shop.shopper
 
 5.  Select **Post comment**.
 
-    This correspondence is tracked through the [[activity-stream|activity stream]] of the corresponding [[purchase-requisition|purchase requisition]] or [[sourcing-request|sourcing request]] here in Shopping Hub. The same is also tracked through the activity stream of the approval plan in Employee Center.
+    This correspondence is tracked through the activity stream of the corresponding purchase requisition or sourcing request here in Shopping Hub. The same is also tracked through the activity stream of the approval plan in Employee Center.
 
     An email notification is sent to the approver that clarification is provided for the purchase. You can configure this email notification based on your requirements. For details, see [Approval email notification templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/approval-email-notifications-template.md).
 
 
 **Parent Topic:**[Shopper to-dos](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shopper-todos.md)
 
-## Related
-
-- [[shopping-hub-overview|Shopping Hub]]
-- [[activity-stream|Activity stream]]
-- [[purchase-requisition|Purchase requisition]]
-- [[sourcing-request|Sourcing request]]

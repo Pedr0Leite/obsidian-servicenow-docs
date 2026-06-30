@@ -14,56 +14,37 @@ breadcrumb: [Assessment administrator tasks, Using assessments, Assessments, Ass
 
 The system generates a unique scheduled job for each metric type with the **Schedule type** field set to **Scheduled**.
 
-The system generates a unique scheduled job for each metric type with the **Schedule type** field set to **Scheduled**. Each scheduled job generates assessment components for the related metric type. By default, the scheduled job runs when an administrator executes it manually, but administrators can set a schedule to generate [[r_Assessments|assessments]] automatically on a recurring basis.
+The system generates a unique scheduled job for each metric type with the **Schedule type** field set to **Scheduled**. Each scheduled job generates assessment components for the related metric type. By default, the scheduled job runs when an administrator executes it manually, but administrators can set a schedule to generate assessments automatically on a recurring basis.
 
-For the system to properly generate scheduled assessments, the metric type must be active and [[t_PublishAMetricType|published]]. The metric type must also be associated to at least one metric category. That metric category must be associated to one or more of each of the following items:
+For the system to properly generate scheduled assessments, the metric type must be active and [published](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_PublishAMetricType.md). The metric type must also be associated to at least one metric category. That metric category must be associated to one or more of each of the following items:
 
--   [[r_ManageAssessablRecordAssociation|Assessable record]]
--   [[r_CategoryUsersAndStakeholders|Stakeholder]] associated to one of the [[c_assessable-records|assessable records]]
--   [[c_AssessmentMetrics|Metric]]
+-   [Assessable record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_ManageAssessablRecordAssociation.md)
+-   [Stakeholder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_CategoryUsersAndStakeholders.md) associated to one of the assessable records
+-   [Metric](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentMetrics.md)
 
--   **[[t_ScheduledAssessment|Schedule an assessment]]**  
-After you have evaluated your questionnaires using [[c_OnDemandAssessments|on-demand assessments]], edit your categories and metrics as needed, reset your metric type record, and select the users who are qualified to evaluate the assessable records.
--   **[[c_ScheduleTypes|Schedule types]]**  
+-   **[Schedule an assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ScheduledAssessment.md)**  
+After you have evaluated your questionnaires using on-demand assessments, edit your categories and metrics as needed, reset your metric type record, and select the users who are qualified to evaluate the assessable records.
+-   **[Schedule types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_ScheduleTypes.md)**  
 You can schedule assessments for preconfigured users or send them to any user on demand.
--   **[[t_SetAssesstGenerationSchedule|Set an assessment generation schedule]]**  
-You can set [[c_AssessmentGeneration|assessment generation]] schedules. You must set a schedule for each metric type individually.
+-   **[Set an assessment generation schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_SetAssesstGenerationSchedule.md)**  
+You can set assessment generation schedules. You must set a schedule for each metric type individually.
 -   **[Publish a metric type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_PublishAMetricType.md)**  
 Before it is possible to generate assessments, an assessment administrator must publish the associated metric type.
--   **[[t_GenSchedAssessmentManually|Generate a scheduled assessment manually]]**  
+-   **[Generate a scheduled assessment manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_GenSchedAssessmentManually.md)**  
 Administrators can generate scheduled assessments manually.
--   **[[t_GenAVendorTypeAssmtManually|Generate a vendor type assessment manually]]**  
+-   **[Generate a vendor type assessment manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_GenAVendorTypeAssmtManually.md)**  
 The Vendor Performance feature provides a direct method of generating assessments for the Vendor metric type.
--   **[[t_CleanUpAssessmentData|Clean up assessment data]]**  
+-   **[Clean up assessment data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CleanUpAssessmentData.md)**  
 The assessment process generates a considerable amount of data, some of which is not useful after a short time.
--   **[[c_AssessmentInstances|Assessment instances]]**  
+-   **[Assessment instances](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentInstances.md)**  
 An assessment instance represents one occurrence of a questionnaire assigned to one user.
--   **[[t_ViewAnAssessmentInstance|View an assessment instance]]**  
+-   **[View an assessment instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAnAssessmentInstance.md)**  
 An assessment instance represents one occurrence of a questionnaire assigned to one user.
 
-**Parent Topic:**[[c_AssessmentProcess|Assessment administrator tasks]]
+**Parent Topic:**[Assessment administrator tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentProcess.md)
 
 **Related topics**  
 
 
 [Assessment metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentMetrics.md)
 
-## Related
-
-- [[t_PublishAMetricType|Publish a metric type]]
-- [[r_ManageAssessablRecordAssociation|Assessable record associations]]
-- [[r_CategoryUsersAndStakeholders|Category users and stakeholders]]
-- [[c_AssessmentMetrics|Assessment metrics]]
-- [[t_ScheduledAssessment|Schedule an assessment]]
-- [[c_ScheduleTypes|Schedule types]]
-- [[t_SetAssesstGenerationSchedule|Set an assessment generation schedule]]
-- [[t_GenSchedAssessmentManually|Generate a scheduled assessment manually]]
-- [[t_GenAVendorTypeAssmtManually|Generate a vendor type assessment manually]]
-- [[t_CleanUpAssessmentData|Clean up assessment data]]
-- [[c_AssessmentInstances|Assessment instances]]
-- [[t_ViewAnAssessmentInstance|View an assessment instance]]
-- [[c_AssessmentProcess|Assessment administrator tasks]]
-- [[r_Assessments|Assessments]]
-- [[c_assessable-records|Assessable records]]
-- [[c_OnDemandAssessments|On-demand assessments]]
-- [[c_AssessmentGeneration|Assessment generation]]

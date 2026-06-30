@@ -12,9 +12,9 @@ breadcrumb: [Order case pages, Order Operations Case Management, Case management
 
 # Order case line item page
 
-The Order case line item page displays information about an order case line item associated with an order case in [[csm-workspaces-configure|CSM Configurable Workspace]].
+The Order case line item page displays information about an order case line item associated with an order case in CSM Configurable Workspace.
 
-\[Omitted image "csm-order-ops-order-case-line-page.png"\] Alt text: Order case line item page includes case line item details, [[csm-config-ws-activity-stream|activity stream]], and contextual side panel.
+\[Omitted image "csm-order-ops-order-case-line-page.png"\] Alt text: Order case line item page includes case line item details, activity stream, and contextual side panel.
 
 The order case line item record shows the details of an order case line item, including customer and product information, the requested change to the ordered quantity, the shipping location, and estimated dates. This record also includes the following components:
 
@@ -26,7 +26,3 @@ The order case line item record shows the details of an order case line item, in
     -   Attachments
     -   Templates
 
-## Related
-
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[csm-config-ws-activity-stream|Activity stream]]

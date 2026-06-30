@@ -12,21 +12,21 @@ breadcrumb: [OPSWAT Metadefender Integration, Threat Intelligence integrations, 
 
 # OPSWAT Metadefender integration overview
 
-OPSWAT Metadefender is a security solution that provides access to multiple anti-[[threat-intelligence-malware|malware]] machines and easily integrates with [[security-operations-landing-page|Security Operations]].
+OPSWAT Metadefender is a security solution that provides access to multiple anti-malware machines and easily integrates with Security Operations.
 
-Before you can use the [[metadefender-landing-page|OPSWAT Metadefender integration]], you must activate the plugin and configure the integration. If necessary, you can also update your X509 SSL certification.
+Before you can use the OPSWAT Metadefender integration, you must activate the plugin and configure the integration. If necessary, you can also update your X509 SSL certification.
 
 ## Threat Lookup - OPSWAT Metadefender flow
 
-The [[tisc-threat-lookup|Threat Lookup]] - OPSWAT Metadefender flow performs a lookup on selected [[c_Observables|observables]]. If the observables are of a type recognized by OPSWAT Metadefender, the observables are scanned for malware, and the results are returned.
+The Threat Lookup - OPSWAT Metadefender flow performs a lookup on selected observables. If the observables are of a type recognized by OPSWAT Metadefender, the observables are scanned for malware, and the results are returned.
 
-This flow is triggered by the [[sec-ops-threat-lookups-capability|Security Operations Integration - Threat Lookup capability]] when you perform a threat lookup on one or more observables, and the OPSWAT Metadefender implementation is selected. For more information, see [[perform-lookups-on-observables|Perform lookups on observables]].
+This flow is triggered by the [Security Operations Integration - Threat Lookup capability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sec-ops-threat-lookups-capability.md) when you perform a threat lookup on one or more observables, and the OPSWAT Metadefender implementation is selected. For more information, see [Perform lookups on observables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/perform-lookups-on-observables.md).
 
 Role required: sn\_si.admin
 
 \[Omitted image "flows-metadefender.png"\] Alt text: Threat Lookup - OPSWAT Metadefender flow
 
-For information on the activities used by this flow, see [[common-wf-activities|Common Security Operations integration flows and orchestration activities]].
+For information on the activities used by this flow, see [Common Security Operations integration flows and orchestration activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/common-wf-activities.md).
 
 ## Activate and configure the OPSWAT Metadefender integration
 
@@ -38,7 +38,7 @@ Role required: admin
 
 ### Procedure
 
-1.  [[download-app-first-time|Download the integration from the ServiceNow Store]].
+1.  [Download the integration from the ServiceNow Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/download-app-first-time.md).
 
 2.  When the integration is complete, access the OPSWAT portal and obtain the Metadefender Cloud API Key
 
@@ -55,7 +55,7 @@ Role required: admin
 
 ### Result
 
-After it is configured, OPSWAT Metadefender can be selected for performing lookups on observables in [[threat-intel-landing-page|Threat Intelligence]] and on observables in security incidents.
+After it is configured, OPSWAT Metadefender can be selected for performing lookups on observables in Threat Intelligence and on observables in security incidents.
 
 **Related topics**  
 
@@ -98,7 +98,7 @@ Role required: admin
 
 4.  In **PEM Certificate**, paste in the certificate you downloaded and copied into the clipboard earlier.
 
-5.  Add the certificate to the [[identity|Identity]] Provider record.
+5.  Add the certificate to the Identity Provider record.
 
     1.  Navigate to **Multi-Provider SSO** &gt; **Identity Providers**.
 
@@ -114,16 +114,4 @@ Role required: admin
 
     **Note:** If you have a certificate that has expired, you need to remove it. For information on how to remove the expired certificate, refer to [KB0691439 Replacing an expiring SAML certificate](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0691439).
 
-## Related
 
-- [[sec-ops-threat-lookups-capability|Security Operations Integration - Threat Lookup capability]]
-- [[perform-lookups-on-observables|Perform lookups on observables]]
-- [[common-wf-activities|Common Security Operations integration flows and orchestration activities]]
-- [[download-app-first-time|Download an application from the ServiceNow Store for the first time]]
-- [[threat-intelligence-malware|Malware]]
-- [[security-operations-landing-page|Security Operations]]
-- [[metadefender-landing-page|OPSWAT Metadefender Integration]]
-- [[tisc-threat-lookup|Threat Lookup]]
-- [[c_Observables|Observables]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[identity|Identity]]

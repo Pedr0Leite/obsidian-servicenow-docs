@@ -36,7 +36,7 @@ The configurator displays active allocation types in the left pane. Each type sh
 
     A new blank row is added at the bottom of the list. The Effective Date is pre-filled with the opportunity's estimated close date.
 
-6.  Fill in the row [[fields|fields]]:
+6.  Fill in the row fields:
 
     -   Team Member: Select the opportunity team member.
     -   Territory: Select one among the active sales territory from the active territory model.
@@ -46,7 +46,7 @@ The configurator displays active allocation types in the left pane. Each type sh
     -   Product Offering Family: High-level product grouped under which the product offering belongs to. Shows the product offering family for products added to opportunity lines.
     -   Allocation Percentage: Allocation percentage assigned to the team member for their allocation.
     -   Allocation Amount: Monetary value of the allocation.
-    -   Effective Date: Date on which the allocation becomes effective for crediting. Used for [[sales-forecasting|sales forecasting]].
+    -   Effective Date: Date on which the allocation becomes effective for crediting. Used for sales forecasting.
     -   Reason: Additional notes.
     **Note:**
 
@@ -64,19 +64,12 @@ The configurator displays active allocation types in the left pane. Each type sh
     The allocation rows are saved. The Allocations tab count updates to reflect the new total.
 
 
-**Parent Topic:**[[manage-allocations|Manage allocations]]
+**Parent Topic:**[Manage allocations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/manage-allocations.md)
 
 **Related topics**  
 
 
-[[configure-opportunity-mgmt|Install and configure Opportunity Management]]
+[Install and configure Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-opportunity-mgmt.md)
 
-[[opportunity-management|Opportunity Management]]
+[Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management.md)
 
-## Related
-
-- [[manage-allocations|Manage allocations]]
-- [[configure-opportunity-mgmt|Install and configure Opportunity Management]]
-- [[opportunity-management|Opportunity Management]]
-- [[fields|Fields]]
-- [[sales-forecasting|Sales Forecasting]]

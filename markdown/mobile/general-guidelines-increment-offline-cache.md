@@ -14,7 +14,7 @@ breadcrumb: [Incremental offline caching, Configure offline cache to devices, Of
 
 When working with incremental offline caching keep these general guidelines in mind for usability and a good user experience.
 
--   **Enable incremental sync for [[mobile-offline-mode|offline mode]]**
+-   **Enable incremental sync for offline mode**
 
     Incremental synchronization allows the mobile app to fetch only the changes since the last sync, such as new, updated, or deleted records, without requiring a full cache refresh. Incremental updates are disabled by default and can be enabled by setting the following system property: `glide.sg.offline.incremental.enabled = true`.
 
@@ -28,7 +28,7 @@ When working with incremental offline caching keep these general guidelines in m
 
 -   **Understand incremental sync frequency and limitations**
 
-    Incremental sync uses silent [[sg-mobile-security-push-notif|push notifications]] to keep offline data updated. Two system properties control how frequently updates are delivered.
+    Incremental sync uses silent push notifications to keep offline data updated. Two system properties control how frequently updates are delivered.
 
     |System property|Description|
     |---------------|-----------|
@@ -41,10 +41,5 @@ When working with incremental offline caching keep these general guidelines in m
     -   Any updates beyond 10 in that hour are deferred to the next hour.
     -   If changes occur in quick succession, the push schedule follows the minimum wait constraint, even if fewer than the maximum pushes have been used.
 
-**Parent Topic:**[[offline-cache-incremental|Incremental offline caching]]
+**Parent Topic:**[Incremental offline caching](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/offline-cache-incremental.md)
 
-## Related
-
-- [[offline-cache-incremental|Incremental offline caching]]
-- [[mobile-offline-mode|Offline mode]]
-- [[sg-mobile-security-push-notif|Push notifications]]

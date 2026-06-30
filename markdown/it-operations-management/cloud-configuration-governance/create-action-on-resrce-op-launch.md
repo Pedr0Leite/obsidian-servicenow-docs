@@ -14,7 +14,7 @@ breadcrumb: [Create a cloud policy, Policies for Cloud Provisioning, Cloud Admin
 
 # Create an action for an 'on Resource operation launch' policy
 
-The on Resource operation launch trigger fires before the catalog for a resource operation is loaded from the [[cloudmgt-cloud-user-portal|Cloud User Portal]]. A policy that is triggered by the on Resource operation launch trigger can run a script or can override a user-requested value \(text values only\).
+The on Resource operation launch trigger fires before the catalog for a resource operation is loaded from the Cloud User Portal. A policy that is triggered by the on Resource operation launch trigger can run a script or can override a user-requested value \(text values only\).
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ The on Resource operation launch trigger fires before the catalog for a resource
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Govern** &gt; **Policies**.
+1.  In the Cloud Admin Portal, navigate to **Govern** &gt; **Policies**.
 
 2.  Open a cloud policy and set the policy to the **Draft** state if needed.
 
@@ -138,8 +138,3 @@ customScript : function( formData){
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cloudmgt-cloud-user-portal|Cloud User Portal]]
-- [[cloud-admin-portal|Cloud Admin Portal]]

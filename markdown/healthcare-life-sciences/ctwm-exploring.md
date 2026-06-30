@@ -12,7 +12,7 @@ breadcrumb: [Care Team Work Management, Healthcare Operations, Healthcare and Li
 
 # Exploring Care Team Work Management
 
-[[ctwm-landing|Care Team Work Management]] provides a structured way for hospitals to design, coordinate, and execute operational work across care teams. By standardizing how work is defined, assigned, and completed, it reduces administrative overhead, gives clinicians more time for patient care, and improves operational reliability and regulatory readiness.
+Care Team Work Management provides a structured way for hospitals to design, coordinate, and execute operational work across care teams. By standardizing how work is defined, assigned, and completed, it reduces administrative overhead, gives clinicians more time for patient care, and improves operational reliability and regulatory readiness.
 
 ## Care Team Work Management overview
 
@@ -38,7 +38,7 @@ The playbook automates the creation of all related work across units and organiz
 
 1.  An administrator configures the Care Team Work Management application.
 
-2.  An operational leader creates a task plan composed of orchestration cases and tasks and [[ctwm-care-team-case|care team cases and tasks]] for select units.
+2.  An operational leader creates a task plan composed of orchestration cases and tasks and care team cases and tasks for select units.
 
 3.  Units receive a care team case and assign it to a unit manager.
 
@@ -51,26 +51,17 @@ The playbook automates the creation of all related work across units and organiz
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Standardize and automate routine operational tasks.|[[ctwm-operational-rounding-playbook|Create a care team task plan using the Operational rounding playbook]]|Operational Leader|
-|Improve visibility into operational performance at a unit level.|[[ctwm-track-care-team-task-plans|Track care team task plans]]|Operational Leader, Care Team Agent Manager|
-|Fulfill cases and task created from task plans.|[[ctwm-fulfilling|Fulfilling care team task plans]]|Care Team Agent, Care Team Agent Manager, Support Agents|
+|Standardize and automate routine operational tasks.|[Create a care team task plan using the Operational rounding playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/ctwm-operational-rounding-playbook.md)|Operational Leader|
+|Improve visibility into operational performance at a unit level.|[Track care team task plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/ctwm-track-care-team-task-plans.md)|Operational Leader, Care Team Agent Manager|
+|Fulfill cases and task created from task plans.|[Fulfilling care team task plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/ctwm-fulfilling.md)|Care Team Agent, Care Team Agent Manager, Support Agents|
 
 ## What to explore next
 
 To learn more about configuring and using Care Team Work Management, see:
 
--   [[ctwm-configuring|Configuring Care Team Work Management]]
+-   [Configuring Care Team Work Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/ctwm-configuring.md)
 -   [Create a care team task plan using the Operational rounding playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/ctwm-operational-rounding-playbook.md)
 -   [Track care team task plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/ctwm-track-care-team-task-plans.md)
 -   [Fulfilling care team task plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/ctwm-fulfilling.md)
--   [[ctwm-reference|Care Team Work Management reference]]
+-   [Care Team Work Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/ctwm-reference.md)
 
-## Related
-
-- [[ctwm-operational-rounding-playbook|Create a care team task plan using the Operational rounding playbook]]
-- [[ctwm-track-care-team-task-plans|Track care team task plans]]
-- [[ctwm-fulfilling|Fulfilling care team task plans]]
-- [[ctwm-configuring|Configuring Care Team Work Management]]
-- [[ctwm-reference|Care Team Work Management reference]]
-- [[ctwm-landing|Care Team Work Management]]
-- [[ctwm-care-team-case|Care team cases and tasks]]

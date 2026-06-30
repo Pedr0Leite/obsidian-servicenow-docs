@@ -14,7 +14,7 @@ breadcrumb: [Using Cloud Cost Management, Cloud Cost Management, IT Asset Manage
 
 # Compare MetricBase data with spend data
 
-Compare MetricBase \(Clotho\) data with your Spend data for Amazon Web Services \(AWS\), Microsoft Azure, and Google Cloud Platform \(GCP\) to diagnose and troubleshoot [[cloud-insights-landing-page|Cloud Cost Management]] billing issues.
+Compare MetricBase \(Clotho\) data with your Spend data for Amazon Web Services \(AWS\), Microsoft Azure, and Google Cloud Platform \(GCP\) to diagnose and troubleshoot Cloud Cost Management billing issues.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Verify that the Billing Download job has been completed successfully for the clo
 
 ## Procedure
 
-1.  Navigate to **[[ci-workspace|Cloud Cost Management Workspace]]** &gt; **Operations** &gt; **Tools**.
+1.  Navigate to **Cloud Cost Management Workspace** &gt; **Operations** &gt; **Tools**.
 
 2.  Select **Compare MetricBase with spend data**.
 
@@ -89,7 +89,3 @@ Select the **Requested Items** tab and then select the Requested Items number to
 
 **Parent Topic:**[Using Cloud Cost Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/using-cloud-insights.md)
 
-## Related
-
-- [[cloud-insights-landing-page|Cloud Cost Management]]
-- [[ci-workspace|Cloud Cost Management Workspace]]

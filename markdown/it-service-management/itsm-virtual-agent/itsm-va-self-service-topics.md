@@ -157,7 +157,7 @@ When creating an incident, if you also want to create an associated Universal Re
 
 This topic is recommended to create an IT incident. Users can leverage machine-learning algorithms with application logic for predicting similar open tickets. Prevent users from opening duplicate incidents by finding similar incidents and asking if the user wants to add comments to the similar incident.
 
-Requirement: [[request-predictive-intelligence-for-im|Predictive Intelligence for Incident plugin]] \(com.snc.incident.ml\)
+Requirement: [Predictive Intelligence for Incident plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/request-predictive-intelligence-for-im.md) \(com.snc.incident.ml\)
 
 This topic uses the following [topic blocks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/itsm-va-topic-blocks.md):
 
@@ -165,7 +165,7 @@ This topic uses the following [topic blocks](https://raw.githubusercontent.com/S
 -   Contextual Search
 -   Create Incident
 
-This topic was formerly called Intelligent Open IT Ticket. Both the Open IT Ticket and Report IT issue topics have been deprecated and replaced with this topic. If you have been using any of these three topics directly prior to the [[itsm-virtual-agent|ITSM Virtual Agent]] Conversations version 5.6 release, the deprecated topic name will display in the portal and must be updated. To update to the new template, navigate to **All** &gt; **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Designer**. Duplicate the Open IT Ticket 2.0 topic, save it, and then select **Publish**.
+This topic was formerly called Intelligent Open IT Ticket. Both the Open IT Ticket and Report IT issue topics have been deprecated and replaced with this topic. If you have been using any of these three topics directly prior to the ITSM Virtual Agent Conversations version 5.6 release, the deprecated topic name will display in the portal and must be updated. To update to the new template, navigate to **All** &gt; **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Designer**. Duplicate the Open IT Ticket 2.0 topic, save it, and then select **Publish**.
 
 ## Process Approval
 
@@ -215,7 +215,7 @@ When the user selects the required item, the following scenarios are possible:
 
 ## Walk-up Check-in
 
-Users can check into a ServiceNow® [[walkup-experience-landing-page|Walk-up Experience]] location and secure a place in the queue, or they can schedule an appointment at a walk-up location for themselves. Users can also schedule an appointment on behalf of someone else.
+Users can check into a ServiceNow® Walk-up Experience location and secure a place in the queue, or they can schedule an appointment at a walk-up location for themselves. Users can also schedule an appointment on behalf of someone else.
 
 Requirement: [Walk-up Experience plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/activate-walkup-experience.md) \(com.snc.walkup\)
 
@@ -240,8 +240,3 @@ This topic uses the Create Incident [topic block](https://raw.githubusercontent.
 
 **Parent Topic:**[Using ITSM Virtual Agent pre-built topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/using-itsm-va.md)
 
-## Related
-
-- [[request-predictive-intelligence-for-im|Request Predictive Intelligence for Incident]]
-- [[itsm-virtual-agent|ITSM Virtual Agent]]
-- [[walkup-experience-landing-page|Walk-up Experience]]

@@ -14,7 +14,7 @@ breadcrumb: [Configuring Discovery, Discovery, ITOM Visibility, IT Operations Ma
 
 # Discovery IP address configuration
 
-Use one or more of these methods in any combination to define the network or network segment for [[r-discovery|Discovery]] to query. You can include or exclude specific IP ranges from your query.
+Use one or more of these methods in any combination to define the network or network segment for Discovery to query. You can include or exclude specific IP ranges from your query.
 
 **Note:** If you do not know the IP addresses in the network, run [Network discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_NetworkDiscovery.md) first to determine the IP networks. Then, convert the IP networks into IP address range sets.
 
@@ -75,7 +75,7 @@ You can also scan an entire IP network. [An IP network](https://raw.githubuserco
  This built-in control makes IP networks the best method of defining which IP address ranges to query.
 
 </td></tr></tbody>
-</table>After you define your IP collections, you can use [[disco-generic-attributes|Discovery generic attributes]] to automatically set field values on CIs discovered within a schedule, range set, or IP address range. For example, you can assign different locations to CIs based on which IP range they were discovered in. For more information, see [Define CI field attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/define-ci-attributes.md).
+</table>After you define your IP collections, you can use Discovery generic attributes to automatically set field values on CIs discovered within a schedule, range set, or IP address range. For example, you can assign different locations to CIs based on which IP range they were discovered in. For more information, see [Define CI field attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/define-ci-attributes.md).
 
 ## IP address selection properties
 
@@ -165,7 +165,7 @@ Role required: discovery\_admin
 
 Common groups of IP addresses, known as [ranges](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-ip-address-configuration.md) can be used in Advanced Discovery schedules.
 
-**Note:** You can also use [[IPAM-integration|IPAM integration]] for entering large numbers of IP networks into Discovery schedules. See [IPAM Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/IPAM-integration.md) for more information.
+**Note:** You can also use IPAM integration for entering large numbers of IP networks into Discovery schedules. See [IPAM Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/IPAM-integration.md) for more information.
 
 Use a data source that can be mapped. Include these fields:
 
@@ -316,11 +316,5 @@ When the scheduled Discovery runs, it skips the discovery of all IPs that are pa
 
 **Note:** Overriding behavior is not applicable when the Discovery schedule has active Global IP exclusions.
 
-If you try to [[quick-disco|run a Quick Discovery]] that includes an excluded IP, you will see an error message and Discovery will not be triggered.
+If you try to run a Quick Discovery that includes an excluded IP, you will see an error message and Discovery will not be triggered.
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[disco-generic-attributes|Discovery generic attributes]]
-- [[IPAM-integration|IPAM integration]]
-- [[quick-disco|Run a Quick Discovery]]

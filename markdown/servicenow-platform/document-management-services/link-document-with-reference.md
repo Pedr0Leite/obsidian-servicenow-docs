@@ -26,7 +26,7 @@ Role required: none
 
 2.  Select the document.
 
-3.  In the **[[doc-mgt-references|Document References]]** tab, select **New**.
+3.  In the **Document References** tab, select **New**.
 
     In the dialog box, the **Document** field reflects the document you selected.
 
@@ -43,6 +43,3 @@ Role required: none
 
 **Parent Topic:**[Document references](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/doc-mgt-references.md)
 
-## Related
-
-- [[doc-mgt-references|Document references]]

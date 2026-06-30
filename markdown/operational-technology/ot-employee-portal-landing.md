@@ -12,13 +12,13 @@ breadcrumb: [Operational Technology]
 
 # Employee Center for OT
 
-The Employee Center for [[operational-technology-overview|Operational Technology]] \(OT\) is a central location where you can submit requests related to OT and industrial services.
+The Employee Center for Operational Technology \(OT\) is a central location where you can submit requests related to OT and industrial services.
 
 ## Get started
 
 <table id="table_hg3_hng_b3c" class="nav-card presentation"><tbody><tr><td>
 
-[[exploring-ot-employee-portal|Explore]]
+[Explore](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/exploring-ot-employee-portal.md)
 
  [\[Omitted image "bus-explore.svg"\] Alt text:](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/exploring-ot-employee-portal.md)
 
@@ -26,7 +26,7 @@ The Employee Center for [[operational-technology-overview|Operational Technology
 
 </td><td>
 
-[[configuring-ot-employee-portal|Configure]]
+[Configure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/configuring-ot-employee-portal.md)
 
  [\[Omitted image "bus-sdlc.svg"\] Alt text:](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/configuring-ot-employee-portal.md)
 
@@ -34,7 +34,7 @@ The Employee Center for [[operational-technology-overview|Operational Technology
 
 </td><td>
 
-[[using-ot-employee-portal|Use]]
+[Use](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/using-ot-employee-portal.md)
 
  [\[Omitted image "bus-supervised-machine-learning.svg"\] Alt text:](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/using-ot-employee-portal.md)
 
@@ -54,10 +54,3 @@ The Employee Center for [[operational-technology-overview|Operational Technology
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[exploring-ot-employee-portal|Exploring the Employee Center for OT]]
-- [[configuring-ot-employee-portal|Configuring the Employee Center for OT]]
-- [[using-ot-employee-portal|Using the Employee Center for OT]]
-- [[operational-technology-overview|Operational Technology]]

@@ -30,7 +30,7 @@ The Case and Knowledge Management application enables you to standardize the doc
 
 </td><td>
 
-[Request [[hr-service-administration|HR services]]\[Omitted image "bus-start-discussion.svg"\] Alt text:Employees open HR cases to get help or make requests.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_HRProfileRecords.md)
+[Request HR services\[Omitted image "bus-start-discussion.svg"\] Alt text:Employees open HR cases to get help or make requests.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_HRProfileRecords.md)
 
 </td></tr><tr><td>
 
@@ -49,6 +49,3 @@ The Case and Knowledge Management application enables you to standardize the doc
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[hr-service-administration|HR services]]

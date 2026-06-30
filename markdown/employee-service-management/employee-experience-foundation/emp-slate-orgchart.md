@@ -17,7 +17,7 @@ breadcrumb: [Working with Employee Slate capabilities, Employee Slate, Unified E
 
 The organizational chart provides an interactive visualization of company structure, reporting relationships, and team hierarchies with search and navigation capabilities.
 
-[[employee-slate-landing-page|Employee Slate]] brings org chart and [[emp-slate-employee-profile|employee profile]] functionality together in a single experience. Employees explore the organizational structure and view colleague information without switching between HR systems or directory tools.
+Employee Slate brings org chart and employee profile functionality together in a single experience. Employees explore the organizational structure and view colleague information without switching between HR systems or directory tools.
 
 \[Omitted image "es-org-chart.png"\] Alt text: Employee org chart and team structure
 
@@ -32,7 +32,7 @@ With Now Assist Chat, the org chart adds the following AI-driven interactions:
 
 ## Admin configuration
 
-Administrators configure org chart and profile content through two records in the [[employee-center-landing-page|Employee Center]] application:
+Administrators configure org chart and profile content through two records in the Employee Center application:
 
 -   Use the organization chart configuration to define eligible users and to select the fields that appear on org chart cards.
 -   Use the overview UI configuration to select the fields that appear in the **About**, **Work details**, **Personal details**, and **Team** sections.
@@ -61,8 +61,3 @@ With Now Assist Chat, employees find and open profiles conversationally:
 
 The chart updates automatically to reflect organizational changes, new hires, role changes, and departures. Visual indicators show direct reports and temporary assignments.
 
-## Related
-
-- [[employee-slate-landing-page|Employee Slate]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[employee-center-landing-page|Employee Center]]

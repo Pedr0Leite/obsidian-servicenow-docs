@@ -14,7 +14,7 @@ breadcrumb: [Indicators, Configure fundamentals, Performance Analytics \(Indicat
 
 # Exclude time series from an indicator
 
-Some time series aggregations are inappropriate to apply to some indicators. You can exclude time series on automated, formula, and [[t_CreateAManualIndicator|manual indicators]]. Excluded time series are not selectable from the [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]], [[kpi-details|KPI Details]], or [[widgets|widgets]]. Other time series remain selectable.
+Some time series aggregations are inappropriate to apply to some indicators. You can exclude time series on automated, formula, and manual indicators. Excluded time series are not selectable from the Analytics Hub, KPI Details, or widgets. Other time series remain selectable.
 
 To exclude a time series from an indicator, select the time series in the **Time series exclusions** related list on the indicator form.
 
@@ -31,9 +31,3 @@ You may also want to exclude time series based on the indicator unit type. For e
 
 As a final point, consider the subject matter of the indicator. Some time series aggregations may not be appropriate for an indicator for qualitative reasons.
 
-## Related
-
-- [[t_CreateAManualIndicator|Manual indicators]]
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]
-- [[kpi-details|KPI Details]]
-- [[widgets|Widgets]]

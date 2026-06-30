@@ -14,11 +14,11 @@ breadcrumb: [Testing using Test Management 2.0, Test Management 2.0, Test Manage
 
 # Test Board in Test Management 2.0
 
-Test Board gives you a comprehensive view of your [[c_TestPlans|test plans]] and enables you to manage test plans more efficiently.
+Test Board gives you a comprehensive view of your test plans and enables you to manage test plans more efficiently.
 
 In Test Board, you can:
 
--   Aggregate all your test plans and view them as cards at a single location. Each card displays key details of your test plan such as the start and end date, percentage of [[c_Tests|tests]] that have passed, percentage of tests that have failed, percentage of tests that have been blocked, and number of days left for completion.
+-   Aggregate all your test plans and view them as cards at a single location. Each card displays key details of your test plan such as the start and end date, percentage of tests that have passed, percentage of tests that have failed, percentage of tests that have been blocked, and number of days left for completion.
 -   Search for specific test plans by defining filter conditions such as name, duration, or owner.
 -   Track, manage, and complete your test plans from a single interface, which saves you time and effort.
     1.  [Define how a product or feature must be tested by creating a test plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/create-test-plan.md).
@@ -38,7 +38,7 @@ You can structure a test plan in the Test Board **Planning** tab, which provides
     -   Modify the attributes \(such as start and end time\) of the test plan, test cycles, and test execution suites rather than opening each form and modifying the field values one by one.
     -   Add or delete test cycles and test execution suites, adjust their start and end dates, and then assess the overall progress of the test plan.
     -   Configure the columns displayed in the Test plan work item hierarchy.
--   **[[c_GanttChart|Gantt chart]]**
+-   **Gantt chart**
 
     The Gantt chart provides a visual representation of the timeline of the test plan and its child tasks using a blue task bar. The length of the task bar pertaining to the test plan increases and decreases depending on the adjustments you make to the duration of its child tasks. You can also manually increase or decrease the duration by dragging the edge of the task bar to the required location.
 
@@ -46,7 +46,7 @@ You can structure a test plan in the Test Board **Planning** tab, which provides
 -   **[Create a test plan using Test Board in Test Management 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/create-test-plan.md)**  
 Define how to test a product or feature by creating a test plan.
 -   **[Add and modify test cycles and test execution suites in Test Management 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/use-planning-tab.md)**  
-Add and modify test cycles and test execution suites from a single user interface without having to switch between multiple user interfaces and [[form-field-information-for-dw|forms]].
+Add and modify test cycles and test execution suites from a single user interface without having to switch between multiple user interfaces and forms.
 -   **[Define a custom column in the Planning tab of Test Board in Test Management 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/add-custom-column.md)**  
 Define a custom column to display information important to you in the Test plan work item hierarchy section of the Planning tab. For example, define a column to view the percentage of test plan that has been completed.
 
@@ -63,9 +63,3 @@ Define a custom column to display information important to you in the Test plan 
 
 [Run your test assignments in Test Management 2.0]()
 
-## Related
-
-- [[c_TestPlans|Test plans]]
-- [[c_Tests|Tests]]
-- [[c_GanttChart|Gantt chart]]
-- [[form-field-information-for-dw|Forms]]

@@ -12,7 +12,7 @@ breadcrumb: [Filters, Filters and breadcrumbs, Lists in the classic environment,
 
 # OR conditions
 
-The [[c_ConditionBuilder|condition builder]] uses two different types of OR conditions: top-level and dependent.
+The condition builder uses two different types of OR conditions: top-level and dependent.
 
 Using a dependent OR condition, you can specify alternative criteria to a single operation. Dependent OR conditions work in the manner A and \(B or C\). When you have an OR condition in the query, the magnifying glass is no longer available. The conditions you put in the quick search headers are ANDed together. Having an OR makes it ambiguous as to where the new condition should go, for example before the OR, or after the OR.
 
@@ -34,7 +34,7 @@ For example, to return a single list of all active incidents with a category of 
 
 Top-level and dependent OR conditions can be used together. Filters using both types of OR conditions work in the manner \(A or B\) or \(C or D\). By mixing AND conditions with top-level and dependent OR conditions, you can create very specific filters.
 
-**Parent Topic:**[[c_Filters|Filters]]
+**Parent Topic:**[Filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_Filters.md)
 
 **Related topics**  
 
@@ -47,7 +47,3 @@ Top-level and dependent OR conditions can be used together. Filters using both t
 
 [Dynamic operators]()
 
-## Related
-
-- [[c_Filters|Filters]]
-- [[c_ConditionBuilder|Condition builder]]

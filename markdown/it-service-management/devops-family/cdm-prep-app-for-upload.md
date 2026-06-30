@@ -16,7 +16,7 @@ breadcrumb: [Uploading your config data, Configuring DevOps Config, DevOps Confi
 
 An application in CDM is the full collection of config data for an application service, application model, or dynamic CI group \[infrastructure\] in the CMDB. After you upload your source config data, the application can support all potential deployables that make up each version of the development, test, and production environments of the service.
 
-**Important:** Starting with the Washington D.C. release, [[devops-config-landing-page|DevOps Config]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+**Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 ## Overview: Preparing an application to accept uploaded config data
 
@@ -31,7 +31,7 @@ You follow this general process to prepare an application to accept the upload o
     The application supports creation of multiple deployables. For example, you might create a deployable for each typical environment: Development, Test, and Production. You might also create multiple versions of each deployable for each environment type.
 
 2.  Working in the CDM code editor, you now create a changeset — a draft copy of the application that you can edit.
-3.  While working in the changeset, you create the following types of nodes in the appropriate folders. This process [[c_Models|models]] the config data, that is, it prepares the application to map your source config data into the CDM data structure.
+3.  While working in the changeset, you create the following types of nodes in the appropriate folders. This process models the config data, that is, it prepares the application to map your source config data into the CDM data structure.
 
     **Note:**
 
@@ -53,7 +53,7 @@ You follow this general process to prepare an application to accept the upload o
 
         A collection is the set of components that together define a release — You can think of a collection as a release composition.
 
-        A collection can contain variable or override [[settings-mobile|settings]] that are specific to the particular version. For example, the VM config data used in release-1 is different from the data used in release-2. release-1 might use the value `2Gb` for the *memory* setting \(`"memory": "2Gb"`\) and release-2 might specify a different value \(`"memory": "4Gb"`\). In addition, a collection might include config settings that do not appear in its components. You might think of such values as "overlays".
+        A collection can contain variable or override settings that are specific to the particular version. For example, the VM config data used in release-1 is different from the data used in release-2. release-1 might use the value `2Gb` for the *memory* setting \(`"memory": "2Gb"`\) and release-2 might specify a different value \(`"memory": "4Gb"`\). In addition, a collection might include config settings that do not appear in its components. You might think of such values as "overlays".
 
     -   **Deployables**
 
@@ -88,8 +88,3 @@ The source config data is now held in CDM tables. You can now manage the data as
 
 [Validating and correcting configuration data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-validating-cfg-data.md)
 
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]
-- [[c_Models|Models]]
-- [[settings-mobile|Settings]]

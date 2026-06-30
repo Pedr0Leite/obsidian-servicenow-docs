@@ -12,7 +12,7 @@ breadcrumb: [Partner Workspace, Configure Partner Relationship Management, Confi
 
 # Update deal registration record
 
-Create a [[deal-registration-management|deal registration]] record or perform actions on an existing record on the CSM Configurable Workspace.
+Create a deal registration record or perform actions on an existing record on the CSM Configurable Workspace.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_prm\_dr.deal\_reg\_ui
 
 ## About this task
 
-After a deal is created on the Partner portal and is in the **Submitted** state, an agent on the **CSM/FSM Configurable Workspace** can see the same deal. The information in the [[fields|fields]] is automatically populated from the Partner portal.
+After a deal is created on the Partner portal and is in the **Submitted** state, an agent on the **CSM/FSM Configurable Workspace** can see the same deal. The information in the fields is automatically populated from the Partner portal.
 
 ## Procedure
 
@@ -28,7 +28,7 @@ After a deal is created on the Partner portal and is in the **Submitted** state,
 
 2.  Select **Deal Registration** &gt; **Submitted** to see a list of submitted deals.
 
-    To learn how to create a deal and submit it, see [[register-a-deal-partner-portal|Register a deal on Partner portal]]. The details in the deal registration form are auto-filled based on the selections made in the Partner portal by the B2B deal registration initiator \(sn\_prm\_dr.partner \_b2b\_deal\_reg\_initiator\), B2C deal registration initiator \(sn\_prm\_dr.partner \_b2c\_deal\_reg\_initiator\), deal registration initiator \(sn\_prm\_dr-partner\_deal\_reg\_initiator\), and deal registration manager \(sn\_prm\_dr.partner\_deal\_reg\_manager\).
+    To learn how to create a deal and submit it, see [Register a deal on Partner portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/register-a-deal-partner-portal.md). The details in the deal registration form are auto-filled based on the selections made in the Partner portal by the B2B deal registration initiator \(sn\_prm\_dr.partner \_b2b\_deal\_reg\_initiator\), B2C deal registration initiator \(sn\_prm\_dr.partner \_b2c\_deal\_reg\_initiator\), deal registration initiator \(sn\_prm\_dr-partner\_deal\_reg\_initiator\), and deal registration manager \(sn\_prm\_dr.partner\_deal\_reg\_manager\).
 
 3.  Perform one of the following actions based to update the status of the deal.
 
@@ -38,7 +38,7 @@ After a deal is created on the Partner portal and is in the **Submitted** state,
 
         -   **Reject** the deal and fill in the **Closure notes**.
         -   **Mark as Duplicate** and fill in the **Closure notes**.
-        -   **[[cancel|Cancel]] Deal Registration** to cancel the deal.
+        -   **Cancel Deal Registration** to cancel the deal.
     -   Select **Submit for approval** to submit the deal.
 
         The deal registration is moved to the **Approvals** related list. The state of the deal registration changes to **Pending Approval** and an approval request is sent to the deal registration relationship contributor \(dn\_prm\_dr.enterprise\_deal\_reg\_rel\_contributor\) and the deal registration relationship manager \(sn\_prm\_dr.enterprise\_deal\_reg\_rel\_manager\) for the channel partner associated with the deal registration. After the deal registration is approved, the state changes to **Approved**.
@@ -61,17 +61,10 @@ After a deal is created on the Partner portal and is in the **Submitted** state,
     All line items from the deal registration form are transferred to opportunity line items with the help of Primitives. To learn more about Primitives, see [LeadtoCashCore - Scoped](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/LeadToCashCoreAPI.md).
 
 
-**Parent Topic:**[[partner-workspace|Partner Workspace]]
+**Parent Topic:**[Partner Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/partner-workspace.md)
 
 **Related topics**  
 
 
 [Register a deal on Partner portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/register-a-deal-partner-portal.md)
 
-## Related
-
-- [[register-a-deal-partner-portal|Register a deal on Partner portal]]
-- [[partner-workspace|Partner Workspace]]
-- [[deal-registration-management|Deal Registration]]
-- [[fields|Fields]]
-- [[cancel|Cancel]]

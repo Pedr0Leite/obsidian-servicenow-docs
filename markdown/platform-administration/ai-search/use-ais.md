@@ -14,7 +14,7 @@ breadcrumb: [AI Search, Search administration, Configure core features, Administ
 
 # Searching in AI Search
 
-See how [[ia-ai-search|AI Search]] displays search [[hs-results|results]], refinement filter options, and Genius Result answers. Learn how to search using the [[query-language-ais|AI Search query language]]. Understand when and how AI Search automatically resubmits queries.
+See how AI Search displays search results, refinement filter options, and Genius Result answers. Learn how to search using the AI Search query language. Understand when and how AI Search automatically resubmits queries.
 
 **Note:** For more details on using AI Search features in global and workspace search, see [Using global search with AI Search for Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/using-ais-next-experience-app.md).
 
@@ -29,14 +29,7 @@ When a search query returns too few results, AI Search automatically modifies an
 -   **[Fuzzy numeric search in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/fuzzy-numeric-search.md)**  
 Fuzzy numeric search lets you find indexed records by their Number field values without needing to enter alphabetic prefixes or leading zeroes.
 -   **[Provide feedback on Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/genius-result-feedback-ais.md)**  
-Users can submit feedback for each Genius Result answer card, specifying whether it was helpful for their search or not. For cards from default Genius Result [[clone-configurations-tab|configurations]], users can also select the reason they found an answer unhelpful. AI Search records feedback responses as [[search-signals|search signals]] that you can use to assess the relevancy of your Genius Result configurations.
+Users can submit feedback for each Genius Result answer card, specifying whether it was helpful for their search or not. For cards from default Genius Result configurations, users can also select the reason they found an answer unhelpful. AI Search records feedback responses as search signals that you can use to assess the relevancy of your Genius Result configurations.
 
 **Parent Topic:**[AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/overview-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]
-- [[query-language-ais|AI Search query language]]
-- [[clone-configurations-tab|Configurations]]
-- [[search-signals|Search signals]]

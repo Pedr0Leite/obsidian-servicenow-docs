@@ -20,7 +20,7 @@ Role required: sn\_csm\_ocs.ext\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[outsourced-service-provider|Outsourced Customer Service]]** &gt; **Onboard Agent**.
+1.  Navigate to **All** &gt; **Outsourced Customer Service** &gt; **Onboard Agent**.
 
 2.  Fill in the fields on the Onboard Outsourced Service Provider agent or manager form, as appropriate.
 
@@ -38,6 +38,4 @@ Role required: sn\_csm\_ocs.ext\_manager
 
     **Note:** Once onboarding is complete, a password reset email is sent to the agent's email address.
 
-## Related
 
-- [[outsourced-service-provider|Outsourced Customer Service]]

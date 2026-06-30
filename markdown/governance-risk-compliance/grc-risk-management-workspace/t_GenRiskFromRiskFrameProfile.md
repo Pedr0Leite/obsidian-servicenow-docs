@@ -28,13 +28,10 @@ Role required: sn\_risk.admin and sn\_risk.manager
 
 3.  In the **Entity Type** related list, click **Edit**.
 
-4.  Select the [[entity-type-in-risk-ws|entity types]] to associate to the risk statement, and click **Save**.
+4.  Select the entity types to associate to the risk statement, and click **Save**.
 
     One risk is generated for each entity in the entity type based on the risk statement.
 
 
 **Parent Topic:**[Using Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/using-risk-mgmt.md)
 
-## Related
-
-- [[entity-type-in-risk-ws|Entity types]]

@@ -26,9 +26,9 @@ By default, you can source, deploy, and retire the assets of a stockroom only wi
 
 ## Procedure
 
-1.  From the [[using-eam-workspace|Enterprise Asset Workspace]], open the [[inventory-view-am|Inventory view]].
+1.  From the Enterprise Asset Workspace, open the Inventory view.
 
-2.  On the **All [[c_Stockrooms|stockrooms]]** tab, select the stockroom that you want to add service locations to.
+2.  On the **All stockrooms** tab, select the stockroom that you want to add service locations to.
 
     The stockroom record opens.
 
@@ -43,8 +43,3 @@ By default, you can source, deploy, and retire the assets of a stockroom only wi
 
 **Parent Topic:**[Create stockroom for enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-eamstockroom.md)
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[inventory-view-am|Inventory view]]
-- [[c_Stockrooms|Stockrooms]]

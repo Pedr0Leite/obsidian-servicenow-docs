@@ -30,7 +30,7 @@ The following items are installed with Commercial Lines Servicing.
 -   Roles
 -   Tables
 
-For more information, see [[components-installed-with-insurance-policy-operations-business-lines-servicing|Components installed with Commercial Lines Servicing]].
+For more information, see [Components installed with Commercial Lines Servicing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/components-installed-with-insurance-policy-operations-business-lines-servicing.md).
 
 ## Procedure
 
@@ -53,9 +53,5 @@ For more information, see [[components-installed-with-insurance-policy-operation
 5.  Select **Install**.
 
 
-**Parent Topic:**[[fso-ins-commercial-policy-ops-landing-page|Commercial Lines Servicing]]
+**Parent Topic:**[Commercial Lines Servicing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-ins-commercial-policy-ops-landing-page.md)
 
-## Related
-
-- [[components-installed-with-insurance-policy-operations-business-lines-servicing|Components installed with Commercial Lines Servicing]]
-- [[fso-ins-commercial-policy-ops-landing-page|Commercial Lines Servicing]]

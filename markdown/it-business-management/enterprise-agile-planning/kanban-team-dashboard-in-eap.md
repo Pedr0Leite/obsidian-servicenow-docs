@@ -26,7 +26,7 @@ sn\_apw\_advanced.eap\_read\_only or the sn\_apw\_advanced.eap\_user.
 
 To open the dashboard:
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** &gt; **Enterprise Agile Planning**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Enterprise Agile Planning**.
 2.  From the Agile structure section of the navigation panel, choose your Kanban EAP Portfolio.
 3.  Select the **Home** tab.
 
@@ -164,7 +164,3 @@ Stories assigned to this team, grouped by their current state.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

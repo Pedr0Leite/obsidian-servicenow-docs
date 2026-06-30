@@ -20,7 +20,7 @@ Configure the HCLS Case request definition to support the newly created healthca
 
 Role required: admin
 
-Set your scope to [[emr-exploring|EMR Help]].
+Set your scope to EMR Help.
 
 ## About this task
 
@@ -47,6 +47,3 @@ You have configured the HCLS Case request definition to support your healthcare 
 
 [Configure the healthcare record page to support your custom healthcare case type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/configure-the-workspace-healthcare-page.md).
 
-## Related
-
-- [[emr-exploring|EMR Help]]

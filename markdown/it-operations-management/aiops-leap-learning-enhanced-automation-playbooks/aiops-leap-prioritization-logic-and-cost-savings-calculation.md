@@ -14,7 +14,7 @@ breadcrumb: [LEAP savings metrics, Exploring LEAP, Learning Enhanced Automation 
 
 # LEAP prioritization logic and cost savings calculation
 
-LEAP uses built-in prioritization logic to identify the highest-impact [[automation-opportunities|automation opportunities]]. This logic helps you focus on the most valuable automation tasks. The calculations provide an estimate of potential cost and time savings. It's best to validate these values in a non-production environment before implementing them in production.
+LEAP uses built-in prioritization logic to identify the highest-impact automation opportunities. This logic helps you focus on the most valuable automation tasks. The calculations provide an estimate of potential cost and time savings. It's best to validate these values in a non-production environment before implementing them in production.
 
 The automation priority is calculated by combining the following key factors:
 
@@ -131,6 +131,3 @@ The actual cost savings post automation = `AWN x Cost per Work Note` = `20 x 20 
 
 So, if you use automation, then the projected cost savings can be up to $400. Thus, the calculation provides actionable insights for ongoing process improvement and resource allocation.
 
-## Related
-
-- [[automation-opportunities|Automation opportunities]]

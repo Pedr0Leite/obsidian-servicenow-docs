@@ -22,7 +22,7 @@ Role required: sn\_hr\_core.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **[[hr-service-administration|HR Services]]** &gt; **Manage HR Catalog**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **HR Services** &gt; **Manage HR Catalog**.
 
 2.  Hover over the HR catalog item and click **Edit catalog item**.
 
@@ -97,7 +97,7 @@ Expand help for all questions
 
     -   Checkbox
     -   Multiple Choice
-    -   [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
+    -   Reference
     -   Select Box
     -   Single Line Text
     To learn more about the different types of variables and how to configure them, see [Types of service catalog variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_VariableTypes.md).
@@ -106,7 +106,7 @@ Expand help for all questions
 
     User criteria controls which employees can access and request the HR catalog item in the HR service catalog. To learn more about user criteria and how they are used to control access to HR catalog items, see [Set security for items and categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_ServiceCatalogAccessControls.md).
 
-    **Note:** User criteria applied to the HR catalog item is employee-facing only, and has no relation to the [[hr-criteria|HR criteria]] that is used to control what HR services an HR agent can request for an employee from the **Create New Case** module. See [Configure an HR service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-hr-service.md) for more information.
+    **Note:** User criteria applied to the HR catalog item is employee-facing only, and has no relation to the HR criteria that is used to control what HR services an HR agent can request for an employee from the **Create New Case** module. See [Configure an HR service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-hr-service.md) for more information.
 
 7.  Click **Update**.
 
@@ -117,9 +117,3 @@ Expand help for all questions
 
 **Next topic:**[Edit the HR case template for an HR catalog item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/edit-hr-case-template-for-hr-catalog-item.md)
 
-## Related
-
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[hr-service-administration|HR services]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[hr-criteria|HR criteria]]

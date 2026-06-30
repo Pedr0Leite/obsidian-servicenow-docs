@@ -12,7 +12,7 @@ breadcrumb: [Configuring SGC Central, SGC Central, Integrating third-party data 
 
 # Install SGC Central
 
-You can install the [[sgcc-landing|SGC Central]] application \(sn\_sgc\_central\) if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the SGC Central application \(sn\_sgc\_central\) if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -65,7 +65,7 @@ The following items are installed with SGC Central:
 -   Scheduled jobs
 -   Tables
 
-For more information, see [[sgcc-installed-components|Components installed with SGC Central]].
+For more information, see [Components installed with SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-installed-components.md).
 
 ## Procedure
 
@@ -83,14 +83,10 @@ For more information, see [[sgcc-installed-components|Components installed with 
 
 4.  If you're prompted, follow the links to the ServiceNow Store to get any additional entitlements for dependencies.
 
-5.  If demo data is available and you want to install it, select the **Load demo data** [[check-box|check box]].
+5.  If demo data is available and you want to install it, select the **Load demo data** check box.
 
     Demo data are the sample records that describe application features for common use cases. Load the demo data when you first install the application on a development or test instance.
 
 6.  Select **Install**.
 
-## Related
 
-- [[sgcc-installed-components|Components installed with SGC Central]]
-- [[sgcc-landing|SGC Central]]
-- [[check-box|Check box]]

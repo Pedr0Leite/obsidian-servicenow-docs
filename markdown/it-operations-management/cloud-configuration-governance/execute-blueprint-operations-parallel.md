@@ -26,7 +26,7 @@ By default, the blueprint resource operations are listed serially and follow an 
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Design** &gt; **Blueprints**.
+1.  In the Cloud Admin Portal, navigate to **Design** &gt; **Blueprints**.
 
 2.  Click a blueprint, click the **Deployment Model** tab and then click **Operations**.
 
@@ -36,7 +36,7 @@ By default, the blueprint resource operations are listed serially and follow an 
 
     You can rearrange the graph by deleting and adding operations.
 
-4.  Click **Optimize Plan** for the [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] application to suggest an optimized plan for you.
+4.  Click **Optimize Plan** for the Cloud Provisioning and Governance application to suggest an optimized plan for you.
 
     The Cloud Provisioning and Governance application looks at the blueprint that you created and based on the attributes, the mappings, and the dependencies of each resource, the application suggests an optimized plan to execute.
 
@@ -52,7 +52,3 @@ By default, the blueprint resource operations are listed serially and follow an 
 
 [Configure a blueprint rule]()
 
-## Related
-
-- [[cloud-admin-portal|Cloud Admin Portal]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]

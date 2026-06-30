@@ -12,7 +12,7 @@ breadcrumb: [Calendar screen, Mobile screen types, Mobile screens, Mobile app co
 
 # Configure a calendar screen
 
-[[sg-studio-configure-applet-screens|Create a screen]] that displays a calendar with a list of related records. Users can see which records are related to dates on the calendar.
+Create a screen that displays a calendar with a list of related records. Users can see which records are related to dates on the calendar.
 
 ## Before you begin
 
@@ -20,13 +20,13 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select the **Screens** category, and then select **New**.
 
@@ -52,7 +52,7 @@ Name
 
 </td><td>
 
-The name of your [[calendar-screen|calendar screen]]. This name appears as a tile in the mobile application.
+The name of your calendar screen. This name appears as a tile in the mobile application.
 
 </td></tr><tr><td>
 
@@ -72,7 +72,7 @@ Fetch type
 
 </td><td>
 
-Control when the data is loaded onto the screen. Select the On-demand option for optimum load time performance. For more information, see [[applet-fetch-types|Mobile fetch types]].
+Control when the data is loaded onto the screen. Select the On-demand option for optimum load time performance. For more information, see [Mobile fetch types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/applet-fetch-types.md).
 
 </td></tr><tr><td>
 
@@ -104,7 +104,7 @@ Custom filters
 
 </td><td>
 
-Option to determine the fields that users can filter by. Use this option to help users find the events that they need.Users can bookmark the selected filters for future reference, by selecting the bookmark icon. For more information, see [[mobile-list-filters|Mobile list screen filters]].
+Option to determine the fields that users can filter by. Use this option to help users find the events that they need.Users can bookmark the selected filters for future reference, by selecting the bookmark icon. For more information, see [Mobile list screen filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-list-filters.md).
 
 </td></tr><tr><td>
 
@@ -124,7 +124,7 @@ Option to create a quick action button to display directly on the user’s calen
 
 If more than one quick action function is configured, a menu from the bottom displays and the user selects the relevant event. For example, create a new incident or create a work order task.
 
-For more information, see [[sg-config-quick-actions|Quick actions]].
+For more information, see [Quick actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-config-quick-actions.md).
 
 **Note:** Quick action function instances can’t be reused so you must configure a new one. However, you can use an existing function to configure your quick action function instance.
 
@@ -134,7 +134,7 @@ Top menu function instances
 
 </td><td>
 
-Option to determine whether to use top menu functions to display additional options.Use the top menu function location for less frequently used actions. You can also use the option on forms when you have more actions listed than conveniently fit in the footer. For more information, see [[sg-launcher-navigation-example-3|Use your navigation function as a top menu selection]].
+Option to determine whether to use top menu functions to display additional options.Use the top menu function location for less frequently used actions. You can also use the option on forms when you have more actions listed than conveniently fit in the footer. For more information, see [Use your navigation function as a top menu selection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-launcher-navigation-example-3.md).
 
 </td></tr><tr><td>
 
@@ -142,7 +142,7 @@ Input form screen
 
 </td><td>
 
-Option for a calendar screen to display content from a record. For example, the user selects a contact from a menu in a preconfigured input form screen. After tapping this option, the calendar screen opens with filtered data for the selected contact.For more information, see [[parameter-input-screen|Input form screen]].
+Option for a calendar screen to display content from a record. For example, the user selects a contact from a menu in a preconfigured input form screen. After tapping this option, the calendar screen opens with filtered data for the selected contact.For more information, see [Input form screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/parameter-input-screen.md).
 
 </td></tr><tr><td>
 
@@ -163,9 +163,9 @@ Determine which user roles can access this screen. If you've selected no roles, 
 </td></tr></tbody>
 </table>6.  In the Icon section, either select an existing icon or create an icon.
 
-    This icon represents the calendar screen in a launcher screen. For more information about creating icons, see [[sg-mobile-icon|Mobile icons]].
+    This icon represents the calendar screen in a launcher screen. For more information about creating icons, see [Mobile icons](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-icon.md).
 
-7.  In the Quick [[mobile-actions|action functions]] instance area, either select an existing function instance or create a new one.
+7.  In the Quick action functions instance area, either select an existing function instance or create a new one.
 
     You can create more than one quick action function instance. For more information see, [Quick actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-config-quick-actions.md).
 
@@ -182,7 +182,7 @@ Determine which user roles can access this screen. If you've selected no roles, 
     |Order|The order in which the segment appears on the screen. Segments display from the lowest to the highest value.|
     |Screen|Displays the calendar name from the calendar screen record.|
     |Max number of offline rows|The number of rows displayed for offline viewing.|
-    |Streams|Records that connect [[sg-data-item|data items]] and list item config records to the [[list-screen|list screen]].|
+    |Streams|Records that connect data items and list item config records to the list screen.|
     |**Interleave sort**|
     |Interleave sort|Determine whether the list stream interleave field is sorted in ascending or descending order.|
 
@@ -210,7 +210,7 @@ Determine which user roles can access this screen. If you've selected no roles, 
     4.  \(Optional\) **Interleaved field** - Select the field that sorts the event stream containing your data items. If you don't select a field, the data items are separated by source.
 13. In the **Data Item** section, select **New** to create a data item for your calendar event stream, or select **Choose** to reference an existing data item.
 
-    The data items displayed corresponds to the data table that you selected from the **Table** field in the Calendar event stream record. For more information on creating data items, see [[sg-studio-create-data-item|Configure a standard data item]].
+    The data items displayed corresponds to the data table that you selected from the **Table** field in the Calendar event stream record. For more information on creating data items, see [Configure a standard data item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-studio-create-data-item.md).
 
 14. In the **List item config** section, select **New**, to ensure a visual display appears on your mobile device, or select **Choose** to reference an existing list item config.
 
@@ -288,7 +288,7 @@ On tap function instance
 
 Determine what actions appear when a user taps on a list item.
 
- Select a navigation function or select **New** to create one. For more information about creating a navigation function, see [[mobile-nav-functions|Navigation functions]].
+ Select a navigation function or select **New** to create one. For more information about creating a navigation function, see [Navigation functions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-nav-functions.md).
 
  **Note:** This option only appears when **Use a function instance** is selected for **On tap**.
 
@@ -352,25 +352,8 @@ Determines the actions performed or appears when a user initiates a swipe gestur
 
         The Mobile Card Builder tool displays in a new tab.
 
-    2.  Make any required changes to your incident list card. For more information about working with Mobile Card Builder, see [[mobile-card-builder|Mobile Card Builder]].
+    2.  Make any required changes to your incident list card. For more information about working with Mobile Card Builder, see [Mobile Card Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-card-builder.md).
     3.  Select **Save**.
 25. Select **Save**.
 
-## Related
 
-- [[applet-fetch-types|Mobile fetch types]]
-- [[mobile-list-filters|Mobile list screen filters]]
-- [[sg-config-quick-actions|Quick actions]]
-- [[sg-launcher-navigation-example-3|Use your navigation function as a top menu selection]]
-- [[parameter-input-screen|Input form screen]]
-- [[sg-mobile-icon|Mobile icons]]
-- [[sg-studio-create-data-item|Configure a standard data item]]
-- [[mobile-nav-functions|Navigation functions]]
-- [[mobile-card-builder|Mobile Card Builder]]
-- [[sg-studio-configure-applet-screens|Create a screen]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]
-- [[calendar-screen|Calendar screen]]
-- [[mobile-actions|Action functions]]
-- [[sg-data-item|Data items]]
-- [[list-screen|List screen]]

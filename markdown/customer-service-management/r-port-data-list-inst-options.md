@@ -12,7 +12,7 @@ breadcrumb: [Configurable Portal widgets instance options, Configurable Portal W
 
 # Portal Data List widget instance options form
 
-The instance options enable you to configure the [[portal-data-list-widget|Portal Data List widget]] on a portal page.
+The instance options enable you to configure the Portal Data List widget on a portal page.
 
 <table id="table_csm_base_entities"><thead><tr><th>
 
@@ -110,7 +110,7 @@ Data List Condition Script
 
 Script to show or hide the data list category on the widget. For more information, see [Hide or show categories in the Data List widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/create-cond-script-datalist-widget.md).Script to modify the view on the data list widget. For details, see, [Modify view in the Data List widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/update-view-in-datalist-widget.md).
 
-Script to [[filter-records-in-datalist-widget|filter records in the Data List widget]]. For details, [Filter records in the Data List widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/filter-records-in-datalist-widget.md).
+Script to filter records in the Data List widget. For details, [Filter records in the Data List widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/filter-records-in-datalist-widget.md).
 
 The default script is **DataListCategoryConditionScript**.
 
@@ -124,7 +124,3 @@ The default script is **DataListCategoryConditionScript**.
 
 [Hide or show categories in the Data List widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/create-cond-script-datalist-widget.md)
 
-## Related
-
-- [[portal-data-list-widget|Portal Data List widget]]
-- [[filter-records-in-datalist-widget|Filter records in the Data List widget]]

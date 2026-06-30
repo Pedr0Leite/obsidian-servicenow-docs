@@ -15,7 +15,7 @@ breadcrumb: [Using Now Assist in Virtual Agent, Now Assist in Virtual Agent, Con
 
 # Standard chat
 
-[[now-assist-in-va-landing|Now Assist in Virtual Agent]] standard chat is a conversational support experience within a static chat window.
+Now Assist in Virtual Agent standard chat is a conversational support experience within a static chat window.
 
 Now Assist in Virtual Agent enhances the user experience by combining AI Search with generative AI chat skills. These skills can speed up issue resolution and reduce deflection to a live agent.
 
@@ -23,7 +23,7 @@ Now Assist in Virtual Agent enhances the user experience by combining AI Search 
 
 Now Assist in Virtual Agent provides your users with an interactive generative AI experience. A friendly, natural language conversation is easier to understand and helps users to be more comfortable with chatting with a bot.
 
-The following sections highlight how a conversation powered by generative AI might look in [[virtual-agent-landing-page|Virtual Agent]].
+The following sections highlight how a conversation powered by generative AI might look in Virtual Agent.
 
 ## Starting the conversation
 
@@ -200,7 +200,7 @@ The following example is of a conversation showing 3 out of 12 requests and the 
 A fallback state can occur whenever search results are unavailable. Scenarios where search results are unavailable include the Virtual Agent didn't understand the query, complaint small talk was found, or an error occurred. When search results are unavailable, a single or multiple fallback options may appear. These fallback options include:
 
 -   **Request a live chat**: Triggers live agent mode and routes you to a human support representative.
--   **Search the web**: Triggers [[web-search-requestor|web search]] mode and uses the internet to search for the results.
+-   **Search the web**: Triggers web search mode and uses the internet to search for the results.
 
     **Note:** Only the last query entered into the conversation is considered when entering web search mode via this **Search the web** fallback option.
 
@@ -215,8 +215,3 @@ Select a fallback option to launch that mode or action.
 
 \[Omitted image "standard-chat-multiple-fallback-options.png"\] Alt text: Search the web and Create a generic ticket buttons are fallback options for end users.
 
-## Related
-
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[web-search-requestor|Web search]]

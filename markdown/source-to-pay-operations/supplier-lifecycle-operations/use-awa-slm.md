@@ -14,12 +14,12 @@ breadcrumb: [Advanced Work Assignment for Supplier Lifecycle Operations, Configu
 
 # Using Advanced Work Assignment for Supplier Lifecycle Operations
 
-Enables [[supplier|supplier]] contacts to interact with supplier owners and resolve their issues and get answers to questions.
+Enables supplier contacts to interact with supplier owners and resolve their issues and get answers to questions.
 
 The [Advanced Work Assignment for Supplier Lifecycle Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/slo-glossary.md) application enables the following:
 
--   Supplier fulfillers can accept a chat request from the [[supp-mgmt-landing-page|Supplier Lifecycle Operations]] to interact with supplier contacts. For more information, see [Accept an incoming chat request from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/accept-chat-supp-ws.md).
--   Supplier contacts can [[start-chat-portal|start a chat session from the Supplier Collaboration Portal]] to interact with supplier fulfillers. For more information see [Start a chat session from the Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/start-chat-portal.md).
+-   Supplier fulfillers can accept a chat request from the Supplier Lifecycle Operations to interact with supplier contacts. For more information, see [Accept an incoming chat request from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/accept-chat-supp-ws.md).
+-   Supplier contacts can start a chat session from the Supplier Collaboration Portal to interact with supplier fulfillers. For more information see [Start a chat session from the Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/start-chat-portal.md).
 
 **Parent Topic:**[Advanced Work Assignment for Supplier Lifecycle Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supplier-awa.md)
 
@@ -30,15 +30,9 @@ The [Advanced Work Assignment for Supplier Lifecycle Operations](https://raw.git
 
 [Activate Agent Chat and load demo data]()
 
-[Setting up [[advanced-work-assignment|Advanced Work Assignment]] for Supplier Lifecycle Operations]()
+[Setting up Advanced Work Assignment for Supplier Lifecycle Operations]()
 
 [Configure Advanced Work Assignment for Supplier Lifecycle Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/setup-awa-slm.md)
 
 [Setting up Advanced Work Assignment for Supplier Lifecycle Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/awa-slm-config.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[start-chat-portal|Start a chat session from the Supplier Collaboration Portal]]
-- [[advanced-work-assignment|advanced work assignment]]

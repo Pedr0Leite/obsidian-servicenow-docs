@@ -22,7 +22,7 @@ Role required: admin
 
 1.  Either choose to mark specific records for deletion or mark all records in a list for deletion.
 
-    -   To mark only specific records for deletion, navigate to **All** &gt; **System [[c_DataManagement|Data Management]]** &gt; **Delete Jobs**.
+    -   To mark only specific records for deletion, navigate to **All** &gt; **System Data Management** &gt; **Delete Jobs**.
     -   To mark all records in a list for deletion, in any list of records, right-click a column heading, and then select **Data Management** &gt; **Delete All with preview**.
 2.  Select the table that contains the records you want to delete.
 
@@ -57,12 +57,7 @@ The job is saved and the form displays options to schedule the job or execute it
 
 ## What to do next
 
-[[preview-affected-records-for-deletion|Preview affected records for deletion]].
+[Preview affected records for deletion](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/preview-affected-records-for-deletion.md).
 
-**Parent Topic:**[[deleting-records-safely|Deleting records safely in Core UI]]
+**Parent Topic:**[Deleting records safely in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/deleting-records-safely.md)
 
-## Related
-
-- [[preview-affected-records-for-deletion|Preview affected records for deletion]]
-- [[deleting-records-safely|Deleting records safely in Core UI]]
-- [[c_DataManagement|Data Management]]

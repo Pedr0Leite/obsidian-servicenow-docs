@@ -37,8 +37,5 @@ See [Audit Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDo
     **Note:** An administrator must manually assign the sn\_audit\_ws.third\_line\_manager role to a user to use this feature.
 
 
-**Parent Topic:**[[grc-rn-landing|Governance, Risk, and Compliance release notes]]
+**Parent Topic:**[Governance, Risk, and Compliance release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/grc-rn-landing.md)
 
-## Related
-
-- [[grc-rn-landing|Governance, Risk, and Compliance release notes]]

@@ -28,7 +28,7 @@ If the left pane is hidden, point the cursor over a span to view the tooltip.
 
 ## Span focus and zoom
 
-You can use keyboard shortcuts when using [[c_UsingTimelines|timelines]].
+You can use keyboard shortcuts when using timelines.
 
 |Operating System|Shortcut|
 |----------------|--------|
@@ -49,6 +49,3 @@ Move the entire span horizontally to adjust the start and end dates but not the 
 
 **Parent Topic:**[Timelines](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_UsingTimelines.md)
 
-## Related
-
-- [[c_UsingTimelines|Timelines]]

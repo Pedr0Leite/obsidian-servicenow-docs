@@ -12,7 +12,7 @@ breadcrumb: [View Sightings Search Results, Create sightings search configuratio
 
 # Share Sightings Search results
 
-You can share local [[indicator-sightings|sightings]] details or results that are associated with a particular search with your Trusted Security Circle.
+You can share local sightings details or results that are associated with a particular search with your Trusted Security Circle.
 
 ## Before you begin
 
@@ -20,10 +20,10 @@ Role required: sn\_si.analyst
 
 ## About this task
 
-Sharing can be automated using the following [[sir-landing-page|Security Incident Response]] **Properties**.
+Sharing can be automated using the following Security Incident Response **Properties**.
 
 -   Automatically share the results of a sightings search to the default ServiceNow trusted circle
--   Include [[c_Observables|observables]] with no local sightings when automatically sharing sightings search results
+-   Include observables with no local sightings when automatically sharing sightings search results
 -   Respond with local sightings whenever a threat share is received from a trusted circle
 
 ## Procedure
@@ -49,11 +49,5 @@ Sharing can be automated using the following [[sir-landing-page|Security Inciden
     The observable\(s\) are shared with the specified Trusted Circle.
 
 
-**Parent Topic:**[[view-sightings-search-results|View Sightings Search Results]]
+**Parent Topic:**[View Sightings Search Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/view-sightings-search-results.md)
 
-## Related
-
-- [[view-sightings-search-results|View Sightings Search Results]]
-- [[indicator-sightings|Sightings]]
-- [[sir-landing-page|Security Incident Response]]
-- [[c_Observables|Observables]]

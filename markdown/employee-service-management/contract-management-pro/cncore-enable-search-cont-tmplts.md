@@ -52,7 +52,7 @@ The table will be indexed. For more information on how to search for a keyword i
 
 [Activate a system property to generate a certificate of completion]()
 
-[Enable users to view email details in [[activity-lxp|activity]] stream]()
+[Enable users to view email details in activity stream]()
 
 [Configuring contract summarization for Contract Management Pro]()
 
@@ -62,6 +62,3 @@ The table will be indexed. For more information on how to search for a keyword i
 
 [Manage notifications in Contract Management Pro]()
 
-## Related
-
-- [[activity-lxp|Activity]]

@@ -12,30 +12,20 @@ breadcrumb: [Assessment administrator tasks, Using assessments, Assessments, Ass
 
 # Assessment generation
 
-In the [[r_Assessments|Assessments]] application, administrators or assessment administrators can trigger the system to generate [[c_ScheduledAssessments|scheduled assessments]] or [[c_OnDemandAssessments|on-demand assessments]] when all the prerequisite steps are completed.
+In the Assessments application, administrators or assessment administrators can trigger the system to generate scheduled assessments or on-demand assessments when all the prerequisite steps are completed.
 
 An assessment administrator must publish the metric type to enable assessment generation.
 
 The system performs these tasks when it generates assessments:
 
--   Creates [[c_AssessmentQuestionnaires|assessment questionnaires]] from non-scripted metrics and assigns the questionnaires to users. When users complete their assigned questionnaires, the system uses their responses to calculate assessment results.
+-   Creates assessment questionnaires from non-scripted metrics and assigns the questionnaires to users. When users complete their assigned questionnaires, the system uses their responses to calculate assessment results.
 -   Runs scripted metrics from each category to query the database and calculate assessment results.
 
 Each time the system generates assessments, it creates some or all of the following components. Consider having an administrator set a schedule for recurring data cleanup, as the system can potentially generate a considerable amount of assessment data.
 
--   [[c_AssessmentGroups|Assessment group]]
--   [[c_AssessmentInstances|Assessment instances]]
--   [[r_AssessmentResults|Assessment results]]
+-   [Assessment group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentGroups.md)
+-   [Assessment instances](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentInstances.md)
+-   [Assessment results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_AssessmentResults.md)
 
-**Parent Topic:**[[c_AssessmentProcess|Assessment administrator tasks]]
+**Parent Topic:**[Assessment administrator tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentProcess.md)
 
-## Related
-
-- [[c_AssessmentGroups|Assessment groups]]
-- [[c_AssessmentInstances|Assessment instances]]
-- [[r_AssessmentResults|Assessment results]]
-- [[c_AssessmentProcess|Assessment administrator tasks]]
-- [[r_Assessments|Assessments]]
-- [[c_ScheduledAssessments|Scheduled assessments]]
-- [[c_OnDemandAssessments|On-demand assessments]]
-- [[c_AssessmentQuestionnaires|Assessment questionnaires]]

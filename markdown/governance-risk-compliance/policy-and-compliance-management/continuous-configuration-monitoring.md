@@ -14,7 +14,7 @@ breadcrumb: [Policy and Compliance Management, Governance, Risk, and Compliance]
 
 # Manage continuous monitoring for controls between Configuration Compliance and Policy and Compliance Management
 
-Continuous monitoring for controls is a feature integration between the GRC: [[r_PolicyComplianceMgmt|Policy and Compliance Management]] product and the Security Operations Configuration Compliance products. This feature integrates the scan results from third-party applications, like Qualys to determine the compliance status for each associated control.
+Continuous monitoring for controls is a feature integration between the GRC: Policy and Compliance Management product and the Security Operations Configuration Compliance products. This feature integrates the scan results from third-party applications, like Qualys to determine the compliance status for each associated control.
 
 Continuous monitoring is a pro-active security management approach. Customers monitor and validate compliance and manage risks against authority documents.
 
@@ -90,6 +90,4 @@ The Configuration Compliance plugin must be activated to access this feature and
 
     The configuration test scan results are updated at regular intervals. If the scan results indicate that the failure has been remediated, then the control is marked compliant and the issue is automatically closed.
 
-## Related
 
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Use, Telecommunications Network Inventory]
 
 # Create inventory models
 
-As an inventory catalog manager, you can use a series of forms to define the metadata for each network model in the [[telecom-network-inventory|Telecommunications Network Inventory]]. During this process, you also specify the relationships between each of these models.
+As an inventory catalog manager, you can use a series of forms to define the metadata for each network model in the Telecommunications Network Inventory. During this process, you also specify the relationships between each of these models.
 
 ## Inventory models overview
 
@@ -32,7 +32,7 @@ To create a comprehensive digital model of your telecommunications network, do t
 
 1.  In the Equipment Model form, create inventory models for your telecommunications equipment.
     -   Creating an equipment inventory model is the first requirement for setting up the process to generate network asset instances when using inventory templates.
-    -   You [[create-equipment-models|create an equipment model]] record every time a vendor or original equipment manufacturer \(OEM\) introduces new equipment for your use. To learn more, see [Create an equipment model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-equipment-models.md).
+    -   You create an equipment model record every time a vendor or original equipment manufacturer \(OEM\) introduces new equipment for your use. To learn more, see [Create an equipment model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-equipment-models.md).
 2.  In the Equipment Holder Model form, create the inventory model records for your equipment holders. To learn more, see [Create an equipment holder model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-equipment-holder-models.md).
 3.  In the Network Interface Model form, create the inventory model records for your network interfaces. To learn more, see [Create a card model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-interface-card-models.md).
 4.  In the Interface Cards Model form, create the inventory model records for your network interface cards. To learn more, see [Create a network interface model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-network-interface-model.md).
@@ -106,29 +106,29 @@ Network Model Relationships
 
 </td><td>
 
-Related [[using-inventory-models-tni|network inventory models]].
+Related network inventory models.
 
 </td></tr></tbody>
 </table>-   **[Create a facility model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-facility-model.md)**  
-[[create-facility-model|Create a facility model]] in the Telecommunications Network Inventory application to define the physical characteristics data of the facility record according to the product manufacturer's recommendations.
+Create a facility model in the Telecommunications Network Inventory application to define the physical characteristics data of the facility record according to the product manufacturer's recommendations.
 -   **[Create an equipment model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-equipment-models.md)**  
 Create an equipment model in the Telecommunications Network Inventory application as the first requirement for setting up the process to generate your network asset instances. You create an equipment model record every time a vendor or original equipment manufacturer \(OEM\) introduces new equipment for your use.
 -   **[Create an equipment holder model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-equipment-holder-models.md)**  
-[[create-equipment-holder-models|Create an equipment holder model]] in the Telecommunications Network Inventory application to define the physical characteristics data of the equipment holder according to the product manufacturer's recommendations. You create an equipment holder model every time a vendor or original equipment manufacturer \(OEM\) introduces a new equipment holder for your use.
+Create an equipment holder model in the Telecommunications Network Inventory application to define the physical characteristics data of the equipment holder according to the product manufacturer's recommendations. You create an equipment holder model every time a vendor or original equipment manufacturer \(OEM\) introduces a new equipment holder for your use.
 -   **[Create a card model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-interface-card-models.md)**  
-[[create-interface-card-models|Create a card model]] in the Telecommunications Network Inventory application to define the physical characteristics data of the card as per the product manufacturer's recommendations.
+Create a card model in the Telecommunications Network Inventory application to define the physical characteristics data of the card as per the product manufacturer's recommendations.
 -   **[Create a network interface model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-network-interface-model.md)**  
-[[create-network-interface-model|Create a network interface model]] in the Telecommunications Network Inventory application to define the physical characteristics data of the network interface as per the product recommendations of the manufacturer.
+Create a network interface model in the Telecommunications Network Inventory application to define the physical characteristics data of the network interface as per the product recommendations of the manufacturer.
 -   **[Create a cable model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-a-cable-model.md)**  
-[[create-a-cable-model|Create a cable model]] in the Telecommunications Network Inventory application to define the physical characteristics data of the cable according to the product recommendations of the manufacturer.
+Create a cable model in the Telecommunications Network Inventory application to define the physical characteristics data of the cable according to the product recommendations of the manufacturer.
 -   **[Create a strand model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-a-strand-model.md)**  
-[[create-a-strand-model|Create a strand model]] in the Telecommunications Network Inventory application to define the physical characteristics data of the strand according to the product recommendations of the manufacturer.
+Create a strand model in the Telecommunications Network Inventory application to define the physical characteristics data of the strand according to the product recommendations of the manufacturer.
 -   **[Create a physical connection model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-physical-connection-models.md)**  
-[[create-physical-connection-models|Create a physical connection model]] in the Telecommunications Network Inventory application to define the metadata for the different physical connections. In the physical connection model, you can [[import-inventory|import models]], attach a file or an image, add or remove optional fields, and add compatibilities and substitutions.
+Create a physical connection model in the Telecommunications Network Inventory application to define the metadata for the different physical connections. In the physical connection model, you can import models, attach a file or an image, add or remove optional fields, and add compatibilities and substitutions.
 -   **[Create a logical connection model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-logical-connection-models.md)**  
-[[create-logical-connection-models|Create a logical connection model]] in the ServiceNow Telecommunications Network Inventory application to define the metadata for the different [[design-logical-connection-design-assign-playbook|logical connections]]. In the logical connection model, you can import models, attach a file or an image, add or remove optional fields, and add compatibilities and substitutions.
+Create a logical connection model in the ServiceNow Telecommunications Network Inventory application to define the metadata for the different logical connections. In the logical connection model, you can import models, attach a file or an image, add or remove optional fields, and add compatibilities and substitutions.
 -   **[Create a network topology model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-network-topology-model.md)**  
-[[create-network-topology-model|Create a network topology model]] in the Telecommunications Network Inventory application to define the metadata for the topology according to your recommendations. You can use a topology model to create a record by using the [[using-playbooks-design-assign-inventory-record|design and assign function]].
+Create a network topology model in the Telecommunications Network Inventory application to define the metadata for the topology according to your recommendations. You can use a topology model to create a record by using the design and assign function.
 -   **[Define a network model relationship](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-network-model-relationships.md)**  
 Create a network model relationship in the Telecommunications Network Inventory application that captures the relationships between your network model entities.
 
@@ -139,20 +139,3 @@ Create a network model relationship in the Telecommunications Network Inventory 
 
 [Network inventory models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/using-inventory-models-tni.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[create-equipment-models|Create an equipment model]]
-- [[using-inventory-models-tni|Network inventory models]]
-- [[create-facility-model|Create a facility model]]
-- [[create-equipment-holder-models|Create an equipment holder model]]
-- [[create-interface-card-models|Create a card model]]
-- [[create-network-interface-model|Create a network interface model]]
-- [[create-a-cable-model|Create a cable model]]
-- [[create-a-strand-model|Create a strand model]]
-- [[create-physical-connection-models|Create a physical connection model]]
-- [[import-inventory|Import models]]
-- [[create-logical-connection-models|Create a logical connection model]]
-- [[design-logical-connection-design-assign-playbook|Logical connections]]
-- [[create-network-topology-model|Create a network topology model]]
-- [[using-playbooks-design-assign-inventory-record|Design and Assign function]]

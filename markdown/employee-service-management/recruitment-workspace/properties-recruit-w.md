@@ -14,7 +14,7 @@ breadcrumb: [Reference, Recruitment Workspace, Hiring Experiences, HR Service De
 
 # Properties installed with Recruitment workspace
 
-The system properties installed with the [[recruitment-workspace-concept|Recruitment workspace]] plugin is required to configure different functionality in the Recruitment Workspace environment.
+The system properties installed with the Recruitment workspace plugin is required to configure different functionality in the Recruitment Workspace environment.
 
 These properties are available for Recruitment workspace.
 
@@ -88,7 +88,7 @@ duplicate\_allowed\_fieldssn\_ta\_recruiter.duplicate\_allowed\_fields
 </td><td>
 
 Replicable fields while duplicating a job requisition.-   Type: String
--   Value: job\_title, preferred\_job\_title, seniority\_level, compensation\_range, position\_count, primary\_location, [[hiring-tab-concept|hiring]]\_manager, cost\_center,department, employment\_type, working\_hours, travel\_requirement, relocation\_support, immigration\_sponsorship, min\_yrs\_experience, minimum\_qualification, certification, required\_skills, preferred\_skills, preferred\_companies, job\_description
+-   Value: job\_title, preferred\_job\_title, seniority\_level, compensation\_range, position\_count, primary\_location, hiring\_manager, cost\_center,department, employment\_type, working\_hours, travel\_requirement, relocation\_support, immigration\_sponsorship, min\_yrs\_experience, minimum\_qualification, certification, required\_skills, preferred\_skills, preferred\_companies, job\_description
 -   Other possible values:
     -   Read roles: sn\_ta\_hiring\_core.admin
     -   Write roles: admin
@@ -107,7 +107,3 @@ Property to enable the outlook integration for Interview scheduling.-   Type: tr
 </td></tr></tbody>
 </table>**Parent Topic:**[Recruitment Workspace reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/recruitment-workspace-reference.md)
 
-## Related
-
-- [[recruitment-workspace-concept|Recruitment workspace]]
-- [[hiring-tab-concept|Hiring]]

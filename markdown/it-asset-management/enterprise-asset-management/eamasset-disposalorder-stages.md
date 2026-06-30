@@ -45,7 +45,7 @@ Closing a task in the asset disposal process completes that task and automatical
 
 [Audit results]()
 
-[Enterprise [[model-hierarchy|model categories]] and corresponding classes]()
+[Enterprise model categories and corresponding classes]()
 
 [Mandatory fields in the bulk import spreadsheets]()
 
@@ -73,6 +73,3 @@ Closing a task in the asset disposal process completes that task and automatical
 
 [Asset put away task fields]()
 
-## Related
-
-- [[model-hierarchy|Model categories]]

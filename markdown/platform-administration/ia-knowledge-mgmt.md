@@ -23,8 +23,5 @@ Implement the following steps to complete the configuration:
 
 See [Knowledge Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-center.md) for more information.
 
-**Parent Topic:**[[ia-config-platform-il|Platform module configuration in Setup Hub]]
+**Parent Topic:**[Platform module configuration in Setup Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-config-platform-il.md)
 
-## Related
-
-- [[ia-config-platform-il|Platform module configuration in Setup Hub]]

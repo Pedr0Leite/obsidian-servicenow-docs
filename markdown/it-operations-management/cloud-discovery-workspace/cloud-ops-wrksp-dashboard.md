@@ -16,7 +16,7 @@ breadcrumb: [Cloud Discovery Workspace, ITOM Visibility, IT Operations Managemen
 
 The ServiceNow® Cloud Discovery Workspace dashboard provides a summary of the cloud operations of your organization and shows the ServiceNow applications that you can use to manage them.
 
-**Important:** [[cow-landing-page|Cloud Discovery Workspace]] is now deprecated and no longer supported or available for new activation. [Discovery Admin Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-admin-workspace.md) provides the latest experience for this functionality. For details, see the [Application/Plugin Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184) article in the Now Support knowledge base.
+**Important:** Cloud Discovery Workspace is now deprecated and no longer supported or available for new activation. [Discovery Admin Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-admin-workspace.md) provides the latest experience for this functionality. For details, see the [Application/Plugin Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184) article in the Now Support knowledge base.
 
 ## Required ServiceNow AI Platform roles
 
@@ -42,7 +42,7 @@ sn\_cloud\_ops\_ws.cloud\_ops\_admin
 
 </td><td>
 
--   Gain insight into the trend of CI [[r-discovery|discovery]], trend of Cloud Discovery events, and Cloud Discovery errors
+-   Gain insight into the trend of CI discovery, trend of Cloud Discovery events, and Cloud Discovery errors
 -   Select the cloud provider of your organization.
 -   Access the applications that you can use to manage the cloud operations of your organization.
 
@@ -111,7 +111,3 @@ This report displays the trend of the cloud events received over the last 24 hou
 
 [List of workspaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/list-of-workspaces.md)
 
-## Related
-
-- [[cow-landing-page|Cloud Discovery Workspace]]
-- [[r-discovery|Discovery]]

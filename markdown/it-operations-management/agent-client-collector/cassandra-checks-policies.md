@@ -14,7 +14,7 @@ breadcrumb: [Agent Client Collector Monitoring default checks and policies, ACC-
 
 # Cassandra default checks and policies
 
-[[acc-landing-page|Agent Client Collector]] provides the following policies for Cassandra health monitoring. Policies come with the checks specified in the indicated table. Policies and checks are available for Linux only.
+Agent Client Collector provides the following policies for Cassandra health monitoring. Policies come with the checks specified in the indicated table. Policies and checks are available for Linux only.
 
 <table id="table_mqy_xzd_2tb"><thead><tr><th>
 
@@ -70,6 +70,3 @@ Cassandra JMX port
 </td></tr></tbody>
 </table>**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-policies-checks.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

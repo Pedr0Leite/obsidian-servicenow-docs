@@ -20,7 +20,7 @@ The ServiceNow® Localization Framework application standardizes and enhances th
 
 <table id="table_zmk_3kf_3yb" class="nav-card"><tbody><tr><td>
 
-[Explore Localization Framework\[Omitted image "bus-explore.svg"\] Alt text:Learn how the Localization Framework handles translations and artifacts.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/exploring-[[ia-localization-il|localization]]-framework.md)
+[Explore Localization Framework\[Omitted image "bus-explore.svg"\] Alt text:Learn how the Localization Framework handles translations and artifacts.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/exploring-localization-framework.md)
 
 </td><td>
 
@@ -40,7 +40,7 @@ The ServiceNow® Localization Framework application standardizes and enhances th
 
 </td><td>
 
-[Localization Framework [[reference-email-admin|reference]]\[Omitted image "bus-datasheet.svg"\] Alt text:Get familiar with specific terminology and other [[reference-localization-framework|Localization Framework reference]] materials.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/reference-localization-framework.md)
+[Localization Framework reference\[Omitted image "bus-datasheet.svg"\] Alt text:Get familiar with specific terminology and other Localization Framework reference materials.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/reference-localization-framework.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -50,8 +50,3 @@ The ServiceNow® Localization Framework application standardizes and enhances th
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[ia-localization-il|Localization]]
-- [[reference-email-admin|Reference]]
-- [[reference-localization-framework|Localization Framework reference]]

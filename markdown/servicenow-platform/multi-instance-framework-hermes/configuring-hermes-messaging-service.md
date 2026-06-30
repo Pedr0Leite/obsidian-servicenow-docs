@@ -14,11 +14,11 @@ breadcrumb: [Hermes Messaging Service, Manage service capabilities, Extend Servi
 
 # Configuring Hermes Messaging Service
 
-Learn how the [[hermes-messaging-service|Hermes Messaging Service]] is activated. [[set-up-secure-connection-to-hermes|Set up a secure connection to the Hermes Messaging Service]].
+Learn how the Hermes Messaging Service is activated. Set up a secure connection to the Hermes Messaging Service.
 
 ## Configuration overview
 
-The Hermes Messaging Service is a ServiceNow AI Platform capability that is available as part of Stream [[c_Connect|Connect]], Log Export Service \(LES\), and [[instance-data-replication|Instance Data Replication]] \(IDR\).
+The Hermes Messaging Service is a ServiceNow AI Platform capability that is available as part of Stream Connect, Log Export Service \(LES\), and Instance Data Replication \(IDR\).
 
 To successfully set up and configure Stream Connect or Log Export Service, you must complete the steps in [Set up a secure connection to the Hermes Messaging Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/set-up-secure-connection-to-hermes.md).
 
@@ -29,16 +29,7 @@ Secure your Kafka topics by generating a ServiceNow® instance-signed certificat
 -   **[Revoke a Hermes certificate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/revoke-certificate.md)**  
 Revoke a ServiceNow® instance-signed certificate so that it can't be used in secure connections to the Hermes Messaging Service.
 -   **[Restricting access to Hermes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/restricting-access-hermes-topics.md)**  
-[[t_ContrlAccessByCDGUOrLoc|Restrict access]] to Hermes by [[ip-address|IP address]].
+Restrict access to Hermes by IP address.
 
-**Parent Topic:**[[manage-services|Manage service capabilities]]
+**Parent Topic:**[Manage service capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/manage-services.md)
 
-## Related
-
-- [[manage-services|Manage service capabilities]]
-- [[hermes-messaging-service|Hermes Messaging Service]]
-- [[set-up-secure-connection-to-hermes|Set up a secure connection to the Hermes Messaging Service]]
-- [[c_Connect|Connect]]
-- [[instance-data-replication|Instance Data Replication]]
-- [[t_ContrlAccessByCDGUOrLoc|Restrict access]]
-- [[ip-address|IP Address]]

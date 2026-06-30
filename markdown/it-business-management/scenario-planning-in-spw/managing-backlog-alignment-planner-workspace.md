@@ -15,7 +15,7 @@ breadcrumb: [Portfolio Planning in Strategic Planning Workspace, Strategic Plann
 
 # Prioritizing portfolio plan work in Strategic Planning Workspace
 
-Review the work pipeline for your portfolio in [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace. Add, update, and [[rank-and-prioritize-work-portfolio-planning-workspace|rank planning items]] so that you can prioritize the right work for the right time.
+Review the work pipeline for your portfolio in Strategic Planning Workspace. Add, update, and rank planning items so that you can prioritize the right work for the right time.
 
 ## Views for prioritizing planning items
 
@@ -29,7 +29,7 @@ By default, portfolio plans show only the records that are created within the Pl
 
 Consider that you want to manage projects through a portfolio plan. Project records that are only stored in the Planning Item Project \[sn\_align\_project\] table are displayed in the Prioritization, Kanban, and Hierarchy tabs. But any projects created using the PPM Standard aren't shown by default because these project records are stored in the PPM Project \[pm\_project\] table. To enable their display in Strategic Planning Workspace, set up integration with PPM so that the tables of Strategic Planning are mapped to the tables of PPM.
 
-The same is the case with Epics created using [[agile-landing-page|Agile Development 2.0]] and SAFe applications. See [Configuring Strategic Planning with PPM, Agile 2.0, and SAFe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/configuring-apw-with-agile-safe-and-ppm.md).
+The same is the case with Epics created using Agile Development 2.0 and SAFe applications. See [Configuring Strategic Planning with PPM, Agile 2.0, and SAFe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/configuring-apw-with-agile-safe-and-ppm.md).
 
 ## Prioritization features
 
@@ -163,9 +163,3 @@ Reorder the position of the columns in the Prioritization tab by dragging them h
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[rank-and-prioritize-work-portfolio-planning-workspace|Rank planning items]]
-- [[agile-landing-page|Agile Development 2.0]]

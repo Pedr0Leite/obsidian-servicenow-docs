@@ -44,13 +44,13 @@ The services are operational, which means that you can select them for ITSM Inci
 -   Service instance \(a logical representation of a deployed system or application stack\)**Depends on::Used by** /**Sends Data To::** Service instance.
 -   Service instance **Depends on::Used by** Application.
 -   Application **Runs on::Runs** Infrastructure CIs.
--   Technology management service uses a [[reference|reference]] attribute to specify the relationship with Infrastructure Technology management offering. Published to service owners and typically underpins one or more business services. A Technology management service may have an operational view made up of one or more Technology management offerings.
+-   Technology management service uses a reference attribute to specify the relationship with Infrastructure Technology management offering. Published to service owners and typically underpins one or more business services. A Technology management service may have an operational view made up of one or more Technology management offerings.
 -   Technology management offering **Contains::Contained by** Service instance. Stratification of the Technical Service into options, including localization/geography, environment, pricing, availability, capability, support group \(INCIDENT\), technical approval group \(CHANGE\) and packaging options.
 -   Technology management offering **Contains::Contained by** Dynamic CI Group.
--   Dynamic CI Group \(a dynamic grouping of CIs, based on results of [[cmdb-groups|CMDB Groups]] queries\) uses a related list to specify the relationship with Infrastructure CIs.
+-   Dynamic CI Group \(a dynamic grouping of CIs, based on results of CMDB Groups queries\) uses a related list to specify the relationship with Infrastructure CIs.
 -   Business Service Offering **Depends on::Used by** Service instance.
 
-**Note:** Business services and Technology management services [[c_Connect|connect]] to the spm\_service\_portfolio through the spm\_taxonomy\_node. See [Service Portfolio Management taxonomy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/SPM2-taxonomy.md).
+**Note:** Business services and Technology management services connect to the spm\_service\_portfolio through the spm\_taxonomy\_node. See [Service Portfolio Management taxonomy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/SPM2-taxonomy.md).
 
 ## Tables used during the Service Delivery phase of the service life cycle
 
@@ -64,7 +64,7 @@ The services are operational, which means that you can select them for ITSM Inci
 
 \[Omitted image "service-lifecycle-tech-net-tables.png"\] Alt text: AI component tables in the Service Delivery phase.
 
-API: The API data model is made available within the CMDB to assist in managing your API data. As part of [[api-insights|API Insights]], you can centralize your management of APls including, but not limited to, viewing API details, comparing APls, identify and resolve data gaps, and manage service relationships. API Function: from a virtual perspective. API Application: From an on-premises perspective.
+API: The API data model is made available within the CMDB to assist in managing your API data. As part of API Insights, you can centralize your management of APls including, but not limited to, viewing API details, comparing APls, identify and resolve data gaps, and manage service relationships. API Function: from a virtual perspective. API Application: From an on-premises perspective.
 
 Al Function: Al SaaS applications deployed on public cloud platforms that offer scalable, on-demand services for machine learning, data processing, and Al-driven tasks. The applications provide flexible solutions without the need for on-premises infrastructure management.
 
@@ -106,7 +106,7 @@ Technology management offerings typically have the following components:
     -   Support for a non-production-level offering: Limited availability and criticality for non-production instances. Includes a 60-minute response time guarantee between 8:00 a.m. and 5:00 p.m., Monday through Friday.
 -   **A service offering subscription that records which users have access to an offering**
 
-    A Technology management offering [[reference-document-management|references]] the **Service Categorization** attribute in service tables to denote whether a Technology management offering or offering is related to a business service or to a Technology management service. Technology management offerings that are mapped to the \[service\_offering\] table are classified as “technology management service" and are derived from the service. The Technology management offering is based on how the parent serves a specific technical need. Every Technology management service should have at least one Technology management offering.
+    A Technology management offering references the **Service Categorization** attribute in service tables to denote whether a Technology management offering or offering is related to a business service or to a Technology management service. Technology management offerings that are mapped to the \[service\_offering\] table are classified as “technology management service" and are derived from the service. The Technology management offering is based on how the parent serves a specific technical need. Every Technology management service should have at least one Technology management offering.
 
     **Important:** Each CI associated through a Dynamic CI Group can be related to only one Technology management service or Technology management offering. Conflicts can result when one service includes multiple offerings with different SLAs, OLAs, Support Groups, and commitments.
 
@@ -154,7 +154,7 @@ New types of service instances are extensions of \[cmdb\_ci\_service\_auto\]:
 
 The Service Instance \[cmdb\_ci\_service\_auto\] table \(formerly Application Service table\) supports service instances. A service instance is a set of interconnected applications and hosts that are configured to offer a service. A service instance is a logical representation of a deployed system or an application stack. Using service instances, you can view maps and change history for services. For example, the Event Management application can monitor service performance and identify health issues for service instances.
 
-Service instances can be internal, like an organization's [[email|email]] system or customer-facing, like an organization's website. For example, creating financial reports through a web-based application requires a computer, web server, application server, databases, middleware, and network infrastructure. The applications and hosts are configured to offer the service of financial reporting. A service instance represents an instance of such a business application or system in the development, test, or production environment.
+Service instances can be internal, like an organization's email system or customer-facing, like an organization's website. For example, creating financial reports through a web-based application requires a computer, web server, application server, databases, middleware, and network infrastructure. The applications and hosts are configured to offer the service of financial reporting. A service instance represents an instance of such a business application or system in the development, test, or production environment.
 
 Service instances are the entry points for the Service Mapping feature. Service instances underpin a business or Technology management service and are mapped to the CMDB Service Instance \[cmdb\_ci\_service\_auto\] table \(formerly Application Service table\) for common reporting.
 
@@ -211,11 +211,3 @@ The underlying infrastructure components or CIs can be complicated. The complexi
 
 [Synchronize user groups for a technology management offering](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-enable-tso.md)
 
-## Related
-
-- [[reference|Reference]]
-- [[cmdb-groups|CMDB groups]]
-- [[c_Connect|Connect]]
-- [[api-insights|API Insights]]
-- [[reference-document-management|References]]
-- [[email|Email]]

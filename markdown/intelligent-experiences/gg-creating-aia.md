@@ -29,7 +29,7 @@ Follow these guidelines when writing AI instructions for an AI agent or agentic 
     -   Clarify boundaries and limitations. Example: "NEVER modify incident status without supervisor approval."
     -   Limit technical jargon. Technical jargon can limit applicability because it may not be accessible or universal.
 -   **Context**
-    -   Embed requirements within context. Specify when certain requirements should be used within the task. Example: "When generating answers to present to the user, apply standard quality [[controls|controls]]."
+    -   Embed requirements within context. Specify when certain requirements should be used within the task. Example: "When generating answers to present to the user, apply standard quality controls."
     -   Only include the context that affects decision making. Avoid extraneous information to help prevent the AI agent or agentic workflow from incorporating unwanted details.
     -   Define what good outcomes look like. Include examples. Missing or vague descriptions of results could cause AI agents or agentic workflows to exit before the end state is reached. Example: "Present the user with a report that includes a minimum of 3 relevant graphs pertaining to the list of records."
 -   **Constraints**
@@ -51,7 +51,7 @@ Follow these guidelines when writing AI instructions for an AI agent or agentic 
 The description, AI agent role, and list of steps give the LLM the context and instructions to perform a task. Together, they form the blueprint that's necessary for the LLM to complete its role in a complex workflow. Follow these guidelines to improve the accuracy, adaptability, and optimization of the AI agent:
 
 -   **AI agent description**
-    -   Specify the key areas or tasks that you want the agent to handle. Example: "Specializes in handling [[inquiries|inquiries]] and resolving customer issues."
+    -   Specify the key areas or tasks that you want the agent to handle. Example: "Specializes in handling inquiries and resolving customer issues."
     -   Use clear, focused language and avoid vague terminology.
     -   Define the agent's inputs, outputs, and context.
     -   Differentiate the agent's unique role from other agents. Provide distinct and detailed descriptions of what that specific agent should do that is different than other agents.
@@ -130,7 +130,3 @@ When creating agentic workflows with more than one assigned agent, make sure tha
 
 For more prompting recommendations, see the Community [Now Assist AI Agents prompting guide](https://www.servicenow.com/community/now-assist-articles/now-assist-ai-agents-prompting-guide/ta-p/3386242).
 
-## Related
-
-- [[controls|Controls]]
-- [[inquiries|Inquiries]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure the supporting components for a lifecycle event, Building
 
 # Configure an activity configuration for a lifecycle event
 
-Create or modify an [[activity-lxp|activity]] configuration to define the fulfillment process and conditions for closure for a lifecycle event activity.
+Create or modify an activity configuration to define the fulfillment process and conditions for closure for a lifecycle event activity.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ A key benefit of the Enterprise Onboarding and Transitions application is that y
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hr-lifecycle-events-landing-page-1|Lifecycle Events]]** &gt; **Administration** &gt; **Manage Activity Configuration**.
+1.  Navigate to **All** &gt; **Lifecycle Events** &gt; **Administration** &gt; **Manage Activity Configuration**.
 
 2.  Click **New** or open a record.
 
@@ -222,7 +222,3 @@ Field that is being mapped to.**Note:** Make sure that the data type matches tha
 
 **Parent Topic:**[Configure the supporting components for a lifecycle event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/configure-supporting-components-for-lifecycle-event.md)
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]

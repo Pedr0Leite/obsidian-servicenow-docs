@@ -26,7 +26,7 @@ Role required: admin
 
     You can find the Product2 ID by selecting the product in Salesforce and locating the ID in the URL.
 
-    \[Omitted image "cpq-[[blueprints|blueprints]]-product2-id.png"\] Alt text: Import blueprint
+    \[Omitted image "cpq-blueprints-product2-id.png"\] Alt text: Import blueprint
 
 3.  Unzip the blueprint ZIP file you downloaded.
 
@@ -38,9 +38,9 @@ Role required: admin
 
     \[Omitted image "cpq-blueprints-old-product2-id.png"\] Alt text: Products
 
-6.  Rezip your exported blueprint with the updated blueprints.yaml file, blueprints folder, [[fields|fields]] folder, and [[rules_101|rules]] folder.
+6.  Rezip your exported blueprint with the updated blueprints.yaml file, blueprints folder, fields folder, and rules folder.
 
-    You will drag the ZIP file into the file upload area in the [[matrix_loader_table_of_contents|Matrix Loader]] in a later step.
+    You will drag the ZIP file into the file upload area in the Matrix Loader in a later step.
 
 7.  Open the Matrix Loader from the Admin area of the environment you are migrating the blueprint into.
 
@@ -48,7 +48,7 @@ Role required: admin
 
     \[Omitted image "cpq-blueprints-file-import-drag.png"\] Alt text: Matrix loader
 
-9.  In the new org, navigate to **[[cpq-utilities|Utilities]]** &gt; **Settings**.
+9.  In the new org, navigate to **Utilities** &gt; **Settings**.
 
     \[Omitted image "cpq-blueprints-utilities-and-settings.png"\] Alt text: Menu
 
@@ -67,7 +67,7 @@ Role required: admin
 
 Keep the following notes in mind:
 
--   After the import, configurable product IDs will not be the same as in the original blueprint. They are unique across organizations. To keep the references in rules accurate, if the setting for the **Product Id** field is set to **Product Code**, you can create [[configurable-products-explore|configurable products]] as needed and assign them the same product code.
+-   After the import, configurable product IDs will not be the same as in the original blueprint. They are unique across organizations. To keep the references in rules accurate, if the setting for the **Product Id** field is set to **Product Code**, you can create configurable products as needed and assign them the same product code.
 -   Importing a blueprint does not replace the current blueprint if it already exists in the target environment. Any items removed in the older environment, such as rules, must be manually removed in the target environment unless they are specified in the YAML file.
 
 **Related topics**  
@@ -75,14 +75,5 @@ Keep the following notes in mind:
 
 [Migrate a blueprint between environments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-[[cpq-export-a-blueprint|Export a blueprint]]
+[Export a blueprint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-export-a-blueprint.md)
 
-## Related
-
-- [[cpq-export-a-blueprint|Export a blueprint]]
-- [[blueprints|Blueprints]]
-- [[fields|Fields]]
-- [[rules_101|Rules]]
-- [[matrix_loader_table_of_contents|Matrix Loader]]
-- [[cpq-utilities|Utilities]]
-- [[configurable-products-explore|Configurable products]]

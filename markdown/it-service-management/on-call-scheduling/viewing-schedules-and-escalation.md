@@ -25,7 +25,7 @@ As an itil user you can perform these tasks:
 -   **[View On-Call schedules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/view-schedules-oncall.md)**  
 The tiled grouping of on-call shift schedules helps you to review shifts rather than having to search through all shifts in the system.
 -   **[Configure my availability and contact preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/config-my-contact-prefs-oncall.md)**  
-You specify your availability and the methods to use to contact you for On-Call escalations. The instance notifies you if an admin overrides your [[settings-mobile|settings]] for some reason.
+You specify your availability and the methods to use to contact you for On-Call escalations. The instance notifies you if an admin overrides your settings for some reason.
 -   **[View my group schedules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/view-my-group-schedule-oncall.md)**  
 You can see the on-call schedules for your groups.
 -   **[View my personal schedule on the My Schedule report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/view-my-schedule-oncall.md)**  
@@ -37,6 +37,3 @@ You can subscribe to your On-Call calendar using your personal calendar client.
 
 **Parent Topic:**[On-Call Scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/c_OnCallScheduling.md)
 
-## Related
-
-- [[settings-mobile|Settings]]

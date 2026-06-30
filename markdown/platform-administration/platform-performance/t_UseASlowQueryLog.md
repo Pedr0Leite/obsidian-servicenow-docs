@@ -14,7 +14,7 @@ breadcrumb: [Resolving slow queries, Resolve issues, Platform performance, Maint
 
 # Use a slow query log
 
-Administrators can use slow query logs to gain insight into how queries are affecting [[platform-performance-landing|platform performance]]. The Slow Queries log aggregates data for similar queries. Use slow query data to evaluate the need for new indexes, changes to existing indexes, or changes to frequent queries.
+Administrators can use slow query logs to gain insight into how queries are affecting platform performance. The Slow Queries log aggregates data for similar queries. Use slow query data to evaluate the need for new indexes, changes to existing indexes, or changes to frequent queries.
 
 ## Before you begin
 
@@ -33,7 +33,7 @@ Aggregating similar query data allows administrators to monitor the performance 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[sys-diag|System Diagnostics]]** &gt; **Stats** &gt; **Slow Queries**
+1.  Navigate to **All** &gt; **System Diagnostics** &gt; **Stats** &gt; **Slow Queries**
 
 2.  Open a query record for more details.
 
@@ -45,15 +45,10 @@ Aggregating similar query data allows administrators to monitor the performance 
 
     This feature works on other supported databases, including MongoDB and Oracle.
 
-4.  To [[generate-index-suggestion|generate an index suggestion for a slow query]], click **Index Suggestion**.
+4.  To generate an index suggestion for a slow query, click **Index Suggestion**.
 
     For details, see [Generate an index suggestion for a slow query](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/generate-index-suggestion.md).
 
 
 **Parent Topic:**[Resolving slow queries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/resolving-slow-queries.md)
 
-## Related
-
-- [[platform-performance-landing|Platform performance]]
-- [[sys-diag|System Diagnostics]]
-- [[generate-index-suggestion|Generate an index suggestion for a slow query]]

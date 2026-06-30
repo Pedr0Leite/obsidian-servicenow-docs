@@ -14,7 +14,7 @@ breadcrumb: [Cross-channel favorites, Setup Employee Center browse experience fe
 
 # Remove favorites
 
-Enable the RCAs to manage the favorites options from the [[employee-center-landing-page|Employee Center]].
+Enable the RCAs to manage the favorites options from the Employee Center.
 
 ## Before you begin
 
@@ -49,6 +49,3 @@ Role required: admin
 
 The **Favorite** functionality is enabled and you can perform the specified CRUD operations.
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

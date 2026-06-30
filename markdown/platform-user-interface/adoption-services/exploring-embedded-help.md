@@ -14,7 +14,7 @@ breadcrumb: [Embedded Help, In-product help, Adoption services, Configure user e
 
 # Exploring Embedded Help
 
-[[embedded-help|Embedded help]] provides targeted help content to a user in a UI page, based on their role. Some embedded help content comes with the base instance. Your organization can add or replace embedded help content.
+Embedded help provides targeted help content to a user in a UI page, based on their role. Some embedded help content comes with the base instance. Your organization can add or replace embedded help content.
 
 ## Embedded Help overview
 
@@ -50,6 +50,3 @@ When a user accesses a UI page, the embedded help process displays a custom topi
 
 The administrator can modify the default 15-day synchronization duration in [system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/embedded-help-sys-properties.md)
 
-## Related
-
-- [[embedded-help|Embedded Help]]

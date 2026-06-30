@@ -14,7 +14,7 @@ breadcrumb: [Explore, Now Assist for SPO, Sourcing and Procurement Operations, F
 
 # Supporting information for Now Assist for Sourcing and Procurement Operations \(SPO\)
 
-Get a quick overview of the important information that is related to the [[now-assist-spo|Now Assist for Sourcing and Procurement Operations \(SPO\)]] application.
+Get a quick overview of the important information that is related to the Now Assist for Sourcing and Procurement Operations \(SPO\) application.
 
 ## Supported versions
 
@@ -44,7 +44,7 @@ Virtual Agent
 
 </td></tr><tr><td>
 
-[[purch-order-mgmt-ws|Source-to-Pay Workspace]]
+Source-to-Pay Workspace
 
 </td><td>
 
@@ -52,9 +52,9 @@ Virtual Agent
 -   Email response for negotiation
 -   Email response for procurement case
 -   Email response for procurement task
--   Email response for [[purchase-requisition|purchase requisition]]
+-   Email response for purchase requisition
 -   Email response for sourcing event
--   Email response for [[sourcing-request|sourcing request]]
+-   Email response for sourcing request
 -   Email response for sourcing task
 -   Negotiation summarization for fulfillers
 -   Procurement case summarization for fulfillers
@@ -67,11 +67,11 @@ Virtual Agent
 
 </td></tr><tr><td>
 
-[[shopping-hub-overview|Shopping Hub]]
+Shopping Hub
 
 </td><td>
 
--   [[purchase-order-table|Purchase order]] summarization for requesters
+-   Purchase order summarization for requesters
 -   Purchase requisition summarization for requesters
 -   Sourcing request summarization for requesters
 
@@ -98,7 +98,7 @@ Activate the Now Assist for SPO store app \(sn\_spend\_gen\_ai\) to use the Conv
 This store app has the following dependencies:
 
 -   Now Assist for Platform \(com.sn.now.platform\)
--   [[purchase-experience-workflow|Sourcing and Purchasing Automation]]\(sn\_pr\)
+-   Sourcing and Purchasing Automation\(sn\_pr\)
 -   Now Assist for FSC Common \(sn\_fsc\_genai\)
 
 Activate the applications in the following order:
@@ -117,12 +117,3 @@ For more information, see [Configure Now Assist for Sourcing and Procurement Ope
 
 [Automatically assign categories during SR and PR creation]()
 
-## Related
-
-- [[now-assist-spo|Now Assist for Sourcing and Procurement Operations \(SPO\)]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[purchase-requisition|Purchase requisition]]
-- [[sourcing-request|Sourcing request]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[purchase-order-table|Purchase order]]
-- [[purchase-experience-workflow|Sourcing and Purchasing Automation]]

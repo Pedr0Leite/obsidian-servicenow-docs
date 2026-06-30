@@ -21,7 +21,7 @@ Agents can use the case line item form to create a new case line item record and
 
 To access a case line item record, navigate to **All** &gt; **Customer Service** &gt; **Cases** &gt; **All Line Items** and select a record. Users with the following roles can access this list: system administrator, customer service agent, and customer service manager.
 
-The case line item form includes the following related [[migration-lists|lists]]:
+The case line item form includes the following related lists:
 
 -   Case Line Tasks
 -   Case Line Characteristics
@@ -181,7 +181,7 @@ Install base
 
 </td><td>
 
-This field is a reference to the Install Base Item table \[sn\_install\_base\_item\].If the **Account** field is populated, this field displays the [[install-base-item|install base items]] for the selected account.
+This field is a reference to the Install Base Item table \[sn\_install\_base\_item\].If the **Account** field is populated, this field displays the install base items for the selected account.
 
 </td></tr><tr><td>
 
@@ -214,7 +214,7 @@ The agent can use this field to specify how they reached the decision to either 
 
 </td></tr><tr><td>
 
-[[customer-service-contributor-users|Contributor Users]]
+Contributor Users
 
 </td><td>
 
@@ -238,9 +238,3 @@ Enables users to post work notes to the record.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[migration-lists|Lists]]
-- [[install-base-item|Install base items]]
-- [[customer-service-contributor-users|Contributor users]]

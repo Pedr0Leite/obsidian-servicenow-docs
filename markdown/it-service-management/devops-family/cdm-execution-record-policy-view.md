@@ -18,7 +18,7 @@ View the execution record to analyze policy execution.
 
 ## Before you begin
 
-**Important:** Starting with the Washington D.C. release, [[devops-config-landing-page|DevOps Config]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+**Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 Role required: cdm\_viewer or cdm\_editor or cdm\_exporter\_editor or cdm\_policy\_editor or cdm\_admin
 
@@ -74,7 +74,3 @@ Result of policy execution.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]

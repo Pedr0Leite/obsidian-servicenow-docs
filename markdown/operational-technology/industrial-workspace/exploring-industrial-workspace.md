@@ -14,7 +14,7 @@ breadcrumb: [Industrial Workspace, Operational Technology]
 
 # Exploring the Industrial Workspace
 
-The [[industrial-workspace-for-operational-technology|Industrial Workspace]] is a user interface that provides [[operational-technology-overview|Operational Technology]] \(OT\) users with the tools they need to manage their OT data.
+The Industrial Workspace is a user interface that provides Operational Technology \(OT\) users with the tools they need to manage their OT data.
 
 ## Industrial Workspace navigation
 
@@ -46,7 +46,7 @@ When you select the **Dashboard Library** \(\[Omitted image "dashboards-icon.png
 
 Contains the data related to your OT devices.
 
--   **[[operational-technology-vulnerability-response-dashboard|Operational Technology Vulnerability Response \(PA\) dashboard]]**
+-   **Operational Technology Vulnerability Response \(PA\) dashboard**
 
 Tracks the volume, performance, and progress of the OT vulnerable items from the initial analysis and detection to the containment, or remediation.
 
@@ -71,7 +71,7 @@ Industrial Workspace list view
 
 When you select the **List** \(\[Omitted image "icon-list.png"\] Alt text: List icon\) icon, you're taken to the Industrial Workspace list view, which gives you access to all the lists related to your OT data records. You can access the following list modules and their subsequent lists:-   Operational Technology \(OT\)
 -   Information Technology \(IT\) Hardware
--   [[industrial-process-manager-overview|Industrial Process Manager]]
+-   Industrial Process Manager
 -   OT Incidents
 -   OT Change Requests
 -   OT Remediation Tasks
@@ -91,7 +91,7 @@ When you select the **Equipment Model** \(\[Omitted image "equip-model-manager-b
 </table>-   **[Operational Technology Action-Oriented Landing Page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/oper-tech-task-oriented-landing-page.md)**  
 You can use the Operational Technology \(OT\) Action-Oriented Landing Page to track critical tasks related to your OT network.
 -   **[Dashboard Library in the Industrial Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/dashboard-library-industrial-workspace.md)**  
-The [[dashboard-library-industrial-workspace|Dashboard Library in the Industrial Workspace]] contains the [[ot-manager-dashboard|Operational Technology Visibility dashboard]], the Operational Technology Vulnerability Response \(PA\) dashboard, and the [[ot-risk-rollup-dashboard|Operational Technology Vulnerability Risk Rollup dashboard]].
+The Dashboard Library in the Industrial Workspace contains the Operational Technology Visibility dashboard, the Operational Technology Vulnerability Response \(PA\) dashboard, and the Operational Technology Vulnerability Risk Rollup dashboard.
 -   **[Operational Technology Progress Scorecard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/ot-progress-scorecard.md)**  
 The Operational Technology \(OT\) Progress Scorecard lets you compare device and vulnerable item data between your sites.
 -   **[Operational Technology Unified Map experience in the Industrial Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/unified-maps-experience-iw.md)**  
@@ -103,12 +103,3 @@ The Operational Technology \(OT\) Network Map is an interactive map that visuali
 
 **Parent Topic:**[Industrial Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/industrial-workspace-for-operational-technology.md)
 
-## Related
-
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[operational-technology-overview|Operational Technology]]
-- [[operational-technology-vulnerability-response-dashboard|Operational Technology Vulnerability Response \(PA\) dashboard]]
-- [[industrial-process-manager-overview|Industrial Process Manager]]
-- [[dashboard-library-industrial-workspace|Dashboard Library in the Industrial Workspace]]
-- [[ot-manager-dashboard|Operational Technology Visibility dashboard]]
-- [[ot-risk-rollup-dashboard|Operational Technology Vulnerability Risk Rollup dashboard]]

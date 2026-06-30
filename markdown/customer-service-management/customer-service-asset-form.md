@@ -28,7 +28,7 @@ Display name
 
 </td><td>
 
-Name of the asset as it appears in the record [[migration-lists|lists]]. This field is automatically set when you [[c_CreateAnAsset|create an asset]], based on the **Asset Tag** and **Model** fields.
+Name of the asset as it appears in the record lists. This field is automatically set when you create an asset, based on the **Asset Tag** and **Model** fields.
 
 </td></tr><tr><td>
 
@@ -60,7 +60,7 @@ Quantity
 
 </td><td>
 
-Number of items this asset represents. An asset always has a quantity of one unless one or more of these [[gamification-components-points|points]] are true.-   If the asset is a consumable, the quantity is unrestricted because consumables are tracked in groups.
+Number of items this asset represents. An asset always has a quantity of one unless one or more of these points are true.-   If the asset is a consumable, the quantity is unrestricted because consumables are tracked in groups.
 -   If the asset is pre-allocated, the quantity is unrestricted when the **Model category** and **Model** values are defined and **Substate** is set to **Pre-allocated**.
 
 </td></tr><tr><td class="sub-head" colspan="2">
@@ -780,9 +780,3 @@ Return Merchandise Authorization associated with the asset.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[migration-lists|Lists]]
-- [[c_CreateAnAsset|Create an asset]]
-- [[gamification-components-points|Points]]

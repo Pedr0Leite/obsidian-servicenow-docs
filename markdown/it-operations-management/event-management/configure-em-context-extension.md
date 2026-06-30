@@ -18,7 +18,7 @@ Configure the MID WebService Event Collector Context to provide a URL method to 
 
 ## Before you begin
 
-Ensure that the [[c_EM|Event Management]] Connectors \(sn\_em\_connector\) plugin is installed on the ServiceNow AI Platform instance.
+Ensure that the Event Management Connectors \(sn\_em\_connector\) plugin is installed on the ServiceNow AI Platform instance.
 
 Role required: evt\_mgmt\_admin
 
@@ -80,7 +80,7 @@ Enter a brief, meaningful description of this collector.
 
 </td></tr><tr><td>
 
-[[mid-web-server|MID Web Server]] Extension
+MID Web Server Extension
 
 </td><td>
 
@@ -234,7 +234,3 @@ curl --location -g --request POST 'http://{MID_Server_IP}:{MID_Web_Server_Port}/
 
 [Event collection from Google Cloud Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/event-collection-GCP.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[mid-web-server|MID Web Server]]

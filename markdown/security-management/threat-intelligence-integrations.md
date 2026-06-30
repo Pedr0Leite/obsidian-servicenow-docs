@@ -12,11 +12,11 @@ breadcrumb: [Threat Intelligence, Enterprise security case management applicatio
 
 # Threat Intelligence integrations
 
-The [[threat-intel-landing-page|Threat Intelligence]] base system includes integrations to third-party [[threat-intelligence-malware|malware]]-detection software packages. This section provides instructions for activating the plugins and configuring both ServiceNow and third-party integrations. Also included are some basic guidelines for developing your own integrations, as well as details on specific integrations included in the base system.
+The Threat Intelligence base system includes integrations to third-party malware-detection software packages. This section provides instructions for activating the plugins and configuring both ServiceNow and third-party integrations. Also included are some basic guidelines for developing your own integrations, as well as details on specific integrations included in the base system.
 
 ## Integration Configurations
 
-The base system includes a series of "cards" for each of the integration implementations you can activate and use. Also, cards are displayed for any integrations posted on the ServiceNow Store that have dependencies on [[security-operations-landing-page|Security Operations]] plugins. The integration cards can be viewed by selecting **Security Operations** &gt; **Integration Configurations**.
+The base system includes a series of "cards" for each of the integration implementations you can activate and use. Also, cards are displayed for any integrations posted on the ServiceNow Store that have dependencies on Security Operations plugins. The integration cards can be viewed by selecting **Security Operations** &gt; **Integration Configurations**.
 
 \[Omitted image "threat-cards.png"\] Alt text: Threat Intelligence integrations
 
@@ -33,8 +33,3 @@ Integration cards display different buttons depending on the current state of th
 |New|Certain integrations, such as Carbon Black and IBM QRadar, allow you to define multiple implementations of the same integration. For those integrations, click **New** after the plugin is activated. The cards allow you to install plugins \(where applicable\) and configure the implementations for use.|
 |Open Page|In the base system, your instance performs a query to the ServiceNow Store for any applications that have dependencies on Security Operations plugins. When those applications are found, and the associated application plugins are activated, integration cards for them are displayed with the other security integration cards. Click **Open Page** to access the website of the third-party application to configure the integration. After you have completed the configuration, the **Open Page** button changes to **Configure**.|
 
-## Related
-
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[threat-intelligence-malware|Malware]]
-- [[security-operations-landing-page|Security Operations]]

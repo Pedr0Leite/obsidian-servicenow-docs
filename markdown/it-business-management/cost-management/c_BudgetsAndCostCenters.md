@@ -14,7 +14,7 @@ breadcrumb: [Cost Management, Strategic Portfolio Management]
 
 # Budgets and cost centers
 
-Understand what budgets and cost centers are and how to manage them in the [[r_CostManagement|Cost Management]] application.
+Understand what budgets and cost centers are and how to manage them in the Cost Management application.
 
 -   **Budgets**
 
@@ -40,6 +40,3 @@ You create cost centers and associate budgets and expense allocations with them.
 
 **Parent Topic:**[Cost Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/cost-management/r_CostManagement.md)
 
-## Related
-
-- [[r_CostManagement|Cost Management]]

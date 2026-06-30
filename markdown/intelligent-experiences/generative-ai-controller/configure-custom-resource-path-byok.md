@@ -14,7 +14,7 @@ breadcrumb: [Configuring Generative AI Controller, Generative AI Controller, Now
 
 # Configure a custom resource path for BYOK models
 
-Enter a custom resource path in your bring your own key \(BYOK\) model configuration so that [[generative-ai-controller|Generative AI Controller]] can connect to AI service providers, such as Azure OpenAI, that use a different web address than the default.
+Enter a custom resource path in your bring your own key \(BYOK\) model configuration so that Generative AI Controller can connect to AI service providers, such as Azure OpenAI, that use a different web address than the default.
 
 ## Before you begin
 
@@ -59,6 +59,3 @@ The Resource Path field in the model configuration record is where you provide t
 
 Generative AI Controller now connects to your AI provider using the resource path you entered. Your agentic AI skills are ready to use this provider.
 
-## Related
-
-- [[generative-ai-controller|Generative AI Controller]]

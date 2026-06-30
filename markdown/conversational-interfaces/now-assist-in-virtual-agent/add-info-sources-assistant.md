@@ -44,7 +44,7 @@ Each assistant has its own search configuration. If you have configured AI Searc
 
     Copying an existing configuration imports an existing search configuration to the assistant's search profile and search configuration.
 
-    Using existing search application configurations saves time building assistant search configurations. In addition, for the display experience that uses [[nava-enhanced-chat|enhanced chat]], the assistant search configuration takes over the portal, mobile app, and the platform search experience to ensure that search and the assistant always provide consistent answers.
+    Using existing search application configurations saves time building assistant search configurations. In addition, for the display experience that uses enhanced chat, the assistant search configuration takes over the portal, mobile app, and the platform search experience to ensure that search and the assistant always provide consistent answers.
 
 4.  Select a search application configuration from the **Copy configuration** drop-down list.
 
@@ -52,7 +52,7 @@ Each assistant has its own search configuration. If you have configured AI Searc
 
     For the Now Assist panel - Platform \(default\) assistant, copy the Global Search application configuration if you want the answers from the assistant and the platform Global Search to be consistent. The name of the default Global Search app is \[AIS\] Next Experience Search Configuration. However, AI Search admins can change which search app is configured for the Global Search.
 
-    When a user starts a chat with the Now Assist - Platform \(default\) assistant from the sparkle icon, search typeahead or the \(+\) button, the Now Assist - Platform \(default\) assistant search application configuration is used for both [[virtual-agent-landing-page|Virtual Agent]] and platform searches.
+    When a user starts a chat with the Now Assist - Platform \(default\) assistant from the sparkle icon, search typeahead or the \(+\) button, the Now Assist - Platform \(default\) assistant search application configuration is used for both Virtual Agent and platform searches.
 
     When a user selects **Ask a follow up** or requests a catalog item from the search results page of a specific workspace, the specific workspace search application configuration is used for both Virtual Agent and search.
 
@@ -66,7 +66,7 @@ Each assistant has its own search configuration. If you have configured AI Searc
 
     All search sources are copied into the assistant search profile. However, only knowledge base, conversational catalog items, and external content are used for the LLM-generated conversational responses. Other search sources are used for the query-based search results, and when the user selects **View more search results**, Virtual Agent responses are seamless with the portal or mobile app search results page.
 
-    **Note:** For [[nava-integrated-chat|premium chat]], catalog items have improved fluidity, but some will no longer be conversational. They’ll open in a catalog form instead. For more information, see .
+    **Note:** For premium chat, catalog items have improved fluidity, but some will no longer be conversational. They’ll open in a catalog form instead. For more information, see .
 
 6.  Select the ellipsis at the end of each table row to edit conditions or add a new condition set.
 
@@ -100,7 +100,7 @@ Each assistant has its own search configuration. If you have configured AI Searc
 
     \[Omitted image "NAinVA-publish-profile.png"\] Alt text: Review and publish profile in AI Search Admin console
 
-    When navigating back to your assistant admin configuration in [[assistant-designer|Assistant Designer]], refresh your browser page to reflect published updates from the AI Search Admin console. For more information about the AI Search Admin console, see [Using AI Search Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/using-ais-admin-console.md).
+    When navigating back to your assistant admin configuration in Assistant Designer, refresh your browser page to reflect published updates from the AI Search Admin console. For more information about the AI Search Admin console, see [Using AI Search Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/using-ais-admin-console.md).
 
     **Note:** If you rename an assistant, the assistant's search profile name is automatically renamed to match the latest assistant's name.
 
@@ -115,9 +115,3 @@ Each assistant has its own search configuration. If you have configured AI Searc
 
 See [Brand and personalize an assistant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/brand-assistant.md).
 
-## Related
-
-- [[nava-enhanced-chat|Enhanced chat]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[nava-integrated-chat|Premium chat]]
-- [[assistant-designer|Assistant Designer]]

@@ -14,7 +14,7 @@ breadcrumb: [Spend and Savings Management, Explore, Sourcing and Procurement Ope
 
 # Category analytics
 
-Within the [[purch-order-mgmt-ws|Source-to-Pay Workspace]], the Category analytics module includes the [[spo-savings-dashboard|Savings dashboard]] that offers procurement teams a unified view of savings opportunities across the sourcing pipeline.
+Within the Source-to-Pay Workspace, the Category analytics module includes the Savings dashboard that offers procurement teams a unified view of savings opportunities across the sourcing pipeline.
 
 Open the Source-to-Pay Workspace and select the Category Analytics icon \(\[Omitted image "category-analytics-icon.png"\] Alt text: Category analytics icon.\). The Category analytics module opens, displaying the Savings dashboard.
 
@@ -25,7 +25,3 @@ The Savings dashboard provides procurement teams with a consolidated view of sav
 
 **Parent Topic:**[Spend and Savings Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-spend-mgmt.md)
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[spo-savings-dashboard|Savings dashboard]]

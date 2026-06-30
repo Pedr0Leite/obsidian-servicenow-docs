@@ -22,7 +22,7 @@ Role required: sn\_bom\_clo\_b2b.manager, sn\_bom\_clo\_b2b.relationship\_manage
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select a Customer Lifecycle Operations case to work on.
 
@@ -50,6 +50,3 @@ A new contact case is created and linked to the parent case. The assigned docume
 
 Return to the parent case and continue the Customer Lifecycle Operations workflow.
 
-## Related
-
-- [[fso-overview|Financial Services]]

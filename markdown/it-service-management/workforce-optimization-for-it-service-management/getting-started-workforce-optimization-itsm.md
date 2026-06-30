@@ -14,9 +14,9 @@ breadcrumb: [Workforce Optimization for ITSM, IT Service Management]
 
 # Getting started with Workforce Optimization for ITSM
 
-Learn the basics of getting [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]] up and running.
+Learn the basics of getting Workforce Optimization for ITSM up and running.
 
-To get started, you must first [[activate-configurable-workforce-optimization-itsm|activate Workforce Optimization for ITSM]], then organize your teams into assignment groups, and [[setup-primary-group-wfo-itsm|assign a primary assignment group for each agent]].
+To get started, you must first activate Workforce Optimization for ITSM, then organize your teams into assignment groups, and assign a primary assignment group for each agent.
 
 -   **[Activate Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/activate-configurable-workforce-optimization-itsm.md)**  
 The Workforce Optimization for ITSM Configurable Workspace plugin \(sn\_wfo\_cfg\_itsm\) is available with the ITSM Enterprise subscription package.
@@ -27,8 +27,3 @@ Use a guided approach to simplify the setup and configuration of groups within W
 
 **Parent Topic:**[Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/workforce-optimization-itsm-landing-page.md)
 
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]
-- [[activate-configurable-workforce-optimization-itsm|Activate Workforce Optimization for ITSM]]
-- [[setup-primary-group-wfo-itsm|Assign a primary assignment group for each agent]]

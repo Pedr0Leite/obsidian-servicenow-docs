@@ -20,7 +20,7 @@ Clear the plugin and configuration file cache folder and control plugin download
 
 Ensure that the following are installed on your system:
 
--   [[acc-landing-page|Agent Client Collector]] Framework \(ACC-F\), starting with version 3.5.5
+-   Agent Client Collector Framework \(ACC-F\), starting with version 3.5.5
 -   MID Server
 -   CMDB
 -   Agent Client Collector agent, starting with version 3.5.5
@@ -47,6 +47,3 @@ Role required: agent\_client\_collector\_admin
 
 **Parent Topic:**[Enabling Agent Client Collector data collection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/data-collection-enabling.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

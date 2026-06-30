@@ -14,7 +14,7 @@ breadcrumb: [Managing Entity View Action Mapper, Entity view action mapper, Mana
 
 # Create an EVAM action definition
 
-You can associate a declarative action with a view template. The [[entity-view-action-mapper|Entity View Action Mapper]] \(EVAM\) also enables user interactions to trigger a server script or UXF client action.
+You can associate a declarative action with a view template. The Entity View Action Mapper \(EVAM\) also enables user interactions to trigger a server script or UXF client action.
 
 ## Before you begin
 
@@ -36,7 +36,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Action [[label|label]]
+Action label
 
 </td><td>
 
@@ -101,7 +101,4 @@ Description of the EVAM action.
 </td></tr></tbody>
 </table>3.  Select **Submit**.
 
-## Related
 
-- [[entity-view-action-mapper|Entity view action mapper]]
-- [[label|Label]]

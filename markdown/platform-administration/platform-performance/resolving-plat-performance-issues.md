@@ -14,7 +14,7 @@ breadcrumb: [Platform performance, Maintain and monitor, Administer the ServiceN
 
 # Resolving platform performance issues
 
-If [[platform-performance-landing|platform performance]] issues are identified, administrators can resolve problems and improve performance.
+If platform performance issues are identified, administrators can resolve problems and improve performance.
 
 ## Overview of resolving platform performance issues
 
@@ -25,16 +25,11 @@ Minimize actions that purge and rebuild the instance cache during core business 
 -   **[Improving response times on forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/improving-response-time-forms.md)**  
 Learn the techniques that can be used to improve form response times. If you notice latency or slow response times on forms, using these techniques can help improve performance.
 -   **[Resolving slow queries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/resolving-slow-queries.md)**  
-Identifying and [[resolving-slow-queries|resolving slow queries]] is an important aspect of improving platform performance. The ServiceNow AI Platform generates index suggestions to help resolve slow queries.
+Identifying and resolving slow queries is an important aspect of improving platform performance. The ServiceNow AI Platform generates index suggestions to help resolve slow queries.
 -   **[Transaction cancellation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/transaction-cancellation.md)**  
 You can cancel transactions that take longer than expected to load. Canceling long-running transactions can help prevent excessive resource consumption.
 -   **[Add a module to test connection speed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/t_CreateAConnectionTestModule.md)**  
 A connection test can indicate the connection speed between your computer and your instance. A connection speed test \(/connection\_test.do\) is available as a UI page.
 
-**Parent Topic:**[[maintain-monitor-now-platform|Maintaining and monitoring the ServiceNow AI Platform]]
+**Parent Topic:**[Maintaining and monitoring the ServiceNow AI Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/maintain-monitor-now-platform.md)
 
-## Related
-
-- [[maintain-monitor-now-platform|Maintaining and monitoring the ServiceNow AI Platform]]
-- [[platform-performance-landing|Platform performance]]
-- [[resolving-slow-queries|Resolving slow queries]]

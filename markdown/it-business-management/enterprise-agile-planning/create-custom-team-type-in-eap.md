@@ -18,7 +18,7 @@ Create a custom team type to include in the Agile configurations for Enterprise 
 
 ## Before you begin
 
-Set the application scope in your instance to [[portfolio-planning-app-landing-page|Portfolio Planning]] Core.
+Set the application scope in your instance to Portfolio Planning Core.
 
 Role required: sn\_apw\_advanced.eap\_admin
 
@@ -36,6 +36,4 @@ Role required: sn\_apw\_advanced.eap\_admin
 
 5.  Select **Submit**.
 
-## Related
 
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

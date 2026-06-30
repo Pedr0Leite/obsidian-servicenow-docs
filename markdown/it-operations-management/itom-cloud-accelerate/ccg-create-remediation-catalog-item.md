@@ -14,7 +14,7 @@ breadcrumb: [Remediation, Using Cloud Configuration Governance, Cloud Configurat
 
 # Create a remediation catalog item
 
-Create a custom [[ccg-remediation|remediation]] catalog item in [[cloud-configuration-governance|Cloud Configuration Governance]] for the remediations that require additional input parameters to execute.
+Create a custom remediation catalog item in Cloud Configuration Governance for the remediations that require additional input parameters to execute.
 
 ## Before you begin
 
@@ -161,7 +161,3 @@ Status of the catalog item.The copied catalog item is active by default.
 
 Run the remediation action to fix the identified violation. For more information, see [Run remediation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/ccg-run-remediation.md).
 
-## Related
-
-- [[ccg-remediation|Remediation]]
-- [[cloud-configuration-governance|Cloud Configuration Governance]]

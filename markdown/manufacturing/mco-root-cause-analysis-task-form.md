@@ -12,7 +12,7 @@ breadcrumb: [Quality issue management form, Reference, Manufacturing Commercial 
 
 # Root cause analysis task form
 
-Root cause analysis task form enables you to enter the root cause of the [[mco-product-non-conformances|product non-conformance]].
+Root cause analysis task form enables you to enter the root cause of the product non-conformance.
 
 <table id="table_pdd_b4r_whc"><thead><tr><th>
 
@@ -111,9 +111,5 @@ Assigned to
 User to whom the RCA has been assigned.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[mco-qim-form|Quality issue management form]]
+</table>**Parent Topic:**[Quality issue management form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-qim-form.md)
 
-## Related
-
-- [[mco-qim-form|Quality issue management form]]
-- [[mco-product-non-conformances|Product non-conformance]]

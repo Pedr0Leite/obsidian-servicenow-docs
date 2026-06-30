@@ -16,7 +16,7 @@ breadcrumb: [Reference, Indoor Mapping, Workplace Service Delivery, Employee Ser
 
 You can define the behavior of sync operations by configuring the Enhanced Sync properties.
 
-To access the Enhanced Sync properties, navigate to **All** &gt; **[[workplace-safety-mgmt-hr|Workplace Core]]** &gt; **Enhanced Sync** &gt; **Enhanced Sync Properties**
+To access the Enhanced Sync properties, navigate to **All** &gt; **Workplace Core** &gt; **Enhanced Sync** &gt; **Enhanced Sync Properties**
 
 You must have the sn\_wsd\_indoor\_map.admin role or the sn\_wsd\_core.workplace\_manager role to configure the enhanced sync properties.
 
@@ -109,7 +109,7 @@ sn\_wsd\_indoor\_map.es\_sync\_name\_to\_im
 
 </td><td>
 
-Enables synchronizing name changes from WSD to [[Indoor-mapping|Indoor Mapping]].You can enter the following options to enable synchronization of location records.
+Enables synchronizing name changes from WSD to Indoor Mapping.You can enter the following options to enable synchronization of location records.
 
 -   campus
 -   building
@@ -171,7 +171,3 @@ You can enter multiple options by separating them with a comma.
 
 **Next topic:**[Bulk upload Excel columns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/bulk-template-columns.md)
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[Indoor-mapping|Indoor Mapping]]

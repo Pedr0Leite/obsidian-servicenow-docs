@@ -53,7 +53,7 @@ Can view and perform assessments related to Hardware Vulnerability Assessment.
 </td></tr></tbody>
 </table>## Procedure
 
-1.  Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]] Admin** &gt; **Guided Setup** &gt; **[[oper-tech-vulnerability-response-landing-page|Operational Technology Vulnerability Response]]** &gt; **Hardware Vulnerability Assessment** &gt; **Configure User Roles assignment** &gt; **Configure**.
+1.  Navigate to **All** &gt; **Industrial Workspace Admin** &gt; **Guided Setup** &gt; **Operational Technology Vulnerability Response** &gt; **Hardware Vulnerability Assessment** &gt; **Configure User Roles assignment** &gt; **Configure**.
 
     Alternatively, you can navigate to **User Roles assignment** &gt; **Configure** &gt; **Users**.
 
@@ -67,7 +67,3 @@ Can view and perform assessments related to Hardware Vulnerability Assessment.
 
 **Parent Topic:**[Set up the Hardware Vulnerability Assessment of Operational Technology devices using guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/configure-hva-using-guided-setup.md)
 
-## Related
-
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[oper-tech-vulnerability-response-landing-page|Operational Technology Vulnerability Response]]

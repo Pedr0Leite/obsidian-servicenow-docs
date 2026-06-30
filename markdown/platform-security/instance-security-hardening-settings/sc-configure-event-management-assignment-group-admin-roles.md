@@ -16,7 +16,7 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 Use the **evt\_mgmt.connector\_assignment\_group\_admin\_roles** property to set which roles are authorized for admin access over the assignment group field in connector instances.
 
-The **evt\_mgmt.connector\_assignment\_group\_admin\_roles** property contains a comma separated string which indicates the role names that have admin access over the assignment group field in connector instances. Changing the default roles in this list may enable unauthorized [[users|users]] to alter event integrations on the instance. To prevent unauthorized access to roles, set **evt\_mgmt.connector\_assignment\_group\_admin\_roles** to the value of `admin,evt_mgmt_admin,sn_sow_srm.srm_admin`. Review any additional roles in the recommended value string to ensure that the role should be included.
+The **evt\_mgmt.connector\_assignment\_group\_admin\_roles** property contains a comma separated string which indicates the role names that have admin access over the assignment group field in connector instances. Changing the default roles in this list may enable unauthorized users to alter event integrations on the instance. To prevent unauthorized access to roles, set **evt\_mgmt.connector\_assignment\_group\_admin\_roles** to the value of `admin,evt_mgmt_admin,sn_sow_srm.srm_admin`. Review any additional roles in the recommended value string to ensure that the role should be included.
 
 ## More information
 
@@ -30,7 +30,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -42,7 +42,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -113,8 +113,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

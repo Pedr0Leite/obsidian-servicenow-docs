@@ -14,9 +14,9 @@ breadcrumb: [Configuring Edge Encryption, Edge Encryption, Encryption]
 
 # Encrypt fields using encryption configurations
 
-Encrypt fields by creating [[encryption-landing|encryption]] configurations.
+Encrypt fields by creating encryption configurations.
 
-To configure [[edge-encryption|Edge Encryption]], you must be connected to the instance through the proxy. Test all changes on a non-production instance before applying them to the production instance.
+To configure Edge Encryption, you must be connected to the instance through the proxy. Test all changes on a non-production instance before applying them to the production instance.
 
 ## Define encryption keys
 
@@ -34,7 +34,7 @@ Marking a field to be encrypted expands the field size to store the encrypted da
 
 ## API support
 
-[[field-encryption|Field Encryption]] updates the `setDisplayValue()` and `setValue()` APIs so they can insert encrypted data for encrypted fields. It also enables `getDisplayValue()` and `getValue()` to return cleartext values.
+Field Encryption updates the `setDisplayValue()` and `setValue()` APIs so they can insert encrypted data for encrypted fields. It also enables `getDisplayValue()` and `getValue()` to return cleartext values.
 
 The following script illustrates these API changes when the Incident short description is encrypted:
 
@@ -61,7 +61,7 @@ Role required: security\_admin
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **Edge Encryption [[sc-configuration|Configuration]]** &gt; **Encryption Configurations** &gt; **Create New**.
+1.  Navigate to **All** &gt; **Edge Encryption Configuration** &gt; **Encryption Configurations** &gt; **Create New**.
 
 2.  Complete the form.
 
@@ -264,7 +264,7 @@ Process Historical Records
 
 </td><td>
 
-Select to process historical records in the Audit table if the field is audited. When encrypting historical records for a field in the Audit table, both new values and old values are encrypted. To learn more about audited fields, see [[c_AuditedTables|Auditing]].
+Select to process historical records in the Audit table if the field is audited. When encrypting historical records for a field in the Audit table, both new values and old values are encrypted. To learn more about audited fields, see [Auditing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_AuditedTables.md).
 
 </td></tr><tr><td>
 
@@ -415,10 +415,4 @@ Enter the date and time to run the job for the first time.
 
 7.  To run the job immediately, click **Execute Now**.
 
-## Related
 
-- [[c_AuditedTables|Auditing]]
-- [[encryption-landing|Encryption]]
-- [[edge-encryption|Edge Encryption]]
-- [[field-encryption|Field Encryption]]
-- [[sc-configuration|Configuration]]

@@ -84,13 +84,13 @@ The workflow for Recommended Actions for ITSM includes the following:
 2.  Set Rule: Configure the recommendations for required roles and conditions.
 3.  Create Recommendations: Create recommendations where you select a resource generator and action types.
 
-    -   Create Resource Generator: Resource generators provide information that you can use as inputs to actions such as recommendation guidance and field recommendations. The trained machine learning solution [[c_Models|models]] configured in Predictive Intelligence or [[c-itsm-task-intelligence|Task Intelligence for ITSM]] are used as solutions in the generator type to get the required recommendations for the incident forms in Service Operations Workspace.
+    -   Create Resource Generator: Resource generators provide information that you can use as inputs to actions such as recommendation guidance and field recommendations. The trained machine learning solution models configured in Predictive Intelligence or Task Intelligence for ITSM are used as solutions in the generator type to get the required recommendations for the incident forms in Service Operations Workspace.
 
         **Note:**
 
         -   The **Incident Fields value prediction \(TI\)** and **Similar Incidents \(TI\)** are the only recommendations where the trained models come from Task Intelligence for ITSM. For more information, see [Task Intelligence for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/c-itsm-task-intelligence.md).
 
-        -   All remaining recommendations use the trained model from Predictive Intelligence. For more information, see [[predictive-intelligence-for-incident|Predictive Intelligence for Incident Management]].
+        -   All remaining recommendations use the trained model from Predictive Intelligence. For more information, see [Predictive Intelligence for Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/predictive-intelligence-for-incident.md).
 
     -   Create Action type: Configure the actions that an agent can perform for Recommended Actions guidance. Update the following:
         -   Input: Select the input fields.
@@ -111,11 +111,5 @@ The workflow for Recommended Actions for ITSM includes the following:
 
 [Service Operations Workspace for ITSM landing page]()
 
-[Exploring [[c_OnCallScheduling|On-call Scheduling]] in Service Operations Workspace]()
+[Exploring On-call Scheduling in Service Operations Workspace]()
 
-## Related
-
-- [[predictive-intelligence-for-incident|Predictive Intelligence for Incident Management]]
-- [[c_Models|Models]]
-- [[c-itsm-task-intelligence|Task Intelligence for ITSM]]
-- [[c_OnCallScheduling|On-Call Scheduling]]

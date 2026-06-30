@@ -23,11 +23,11 @@ Role required: **sn\_oper\_res.admin**, **sn\_oper\_res.manager**
 
 A Simulation Assessment record is generated automatically for the selected service. The assessment is owned by the analyst or subject-matter expert assigned to complete it. The assessment opens with the **Scenario Understanding** section, which collects the input values required by the statistical model.
 
-**Note:** This task describes the **Statistical Modelling** method. If the scenario analysis uses the **Manual** method, the **Scenario Testing** step presents an SME assessment template instead of a simulation, and the playbook omits the **Reference Data** and **Results** steps. For more information, see [[scenario-analysis-ov|Scenario analysis]].
+**Note:** This task describes the **Statistical Modelling** method. If the scenario analysis uses the **Manual** method, the **Scenario Testing** step presents an SME assessment template instead of a simulation, and the playbook omits the **Reference Data** and **Results** steps. For more information, see [Scenario analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/scenario-analysis-ov.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[grc-opres-landing-page|Operational Resilience]]** &gt; **Scenario Analysis** and open the Scenario Analysis record form.
+1.  Navigate to **All** &gt; **Operational Resilience** &gt; **Scenario Analysis** and open the Scenario Analysis record form.
 
 2.  In the Playbook stage panel, select **Scenario Testing**.
 
@@ -69,7 +69,7 @@ A Simulation Assessment record is generated automatically for the selected servi
 
 7.  Return to the **Scenario Testing** step and select **Start Simulation**.
 
-    **Note:** The **Start Simulation** button is enabled only when all Simulation Assessment cards on the **Scenario Testing** step show Completed status. Before attempting to start the simulation, you must complete and [[submit-an-importance-and-impact-tolerance-assessment-in-ws|submit the assessment]].
+    **Note:** The **Start Simulation** button is enabled only when all Simulation Assessment cards on the **Scenario Testing** step show Completed status. Before attempting to start the simulation, you must complete and submit the assessment.
 
     The simulation runs and results are returned before you can proceed. After the simulation run, a success banner **Simulation Completed Successfully** is displayed, the **Mark as complete** button on the Scenario Testing card becomes enabled, and the result values are written to the output assessment shown on the Results step. The **Reopen Assessment** button remains visible so that you can change input answers and rerun the simulation any number of times before you select **Mark as complete**.
 
@@ -82,11 +82,5 @@ A Simulation Assessment record is generated automatically for the selected servi
 
 ## Result
 
-The simulation assessment is submitted and the simulation is running. Results are available in the **Results** step when the simulation completes. For information on reviewing results and making a treatment decision, see [[review-sca-results-treatment-decision|Review results and decide the treatment]].
+The simulation assessment is submitted and the simulation is running. Results are available in the **Results** step when the simulation completes. For information on reviewing results and making a treatment decision, see [Review results and decide the treatment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/review-sca-results-treatment-decision.md).
 
-## Related
-
-- [[scenario-analysis-ov|Scenario analysis]]
-- [[review-sca-results-treatment-decision|Review results and decide the treatment]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[submit-an-importance-and-impact-tolerance-assessment-in-ws|Submit the assessment]]

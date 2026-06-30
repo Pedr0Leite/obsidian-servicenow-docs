@@ -14,7 +14,7 @@ breadcrumb: [Customizing your map configuration for Azure DevOps integration, Se
 
 # Customize your field map configuration
 
-Create a custom field map configuration to map a field in an [[agile-landing-page|Agile Development 2.0]] table for Azure DevOps projects of a process type.
+Create a custom field map configuration to map a field in an Agile Development 2.0 table for Azure DevOps projects of a process type.
 
 ## Before you begin
 
@@ -42,7 +42,7 @@ The following field types are supported for custom field map configuration:
 
 3.  From the Process Mapping related list, open a process map for which you want to customize the map configuration.
 
-4.  From the Table maps related list, open a record to [[create-field-map-ppw|create a field map]] configuration for that table map.
+4.  From the Table maps related list, open a record to create a field map configuration for that table map.
 
 5.  From the Field Maps relates list, click **New**.
 
@@ -121,7 +121,5 @@ When you select a reference field for the **Internal Field** field, you must sel
 
 During import, the integration application searches for the record in the reference table using the **Lookup Column Name** field. If the record is not found, the value in the work item will be empty in Agile Development 2.0.
 
-## Related
 
-- [[agile-landing-page|Agile Development 2.0]]
-- [[create-field-map-ppw|Create a field map]]
+

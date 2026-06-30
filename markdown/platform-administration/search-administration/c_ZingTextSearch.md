@@ -18,17 +18,17 @@ Index and search record data by table.
 
 The ServiceNow® Zing text indexing and search engine is a legacy search engine that you can use to search ServiceNow AI Platform® record data. Its engine is created entirely with ServiceNow code and implemented within the relational model.
 
-**Note:** To learn about the [[ia-ai-search|AI Search]] engine, which is the default search engine for ServiceNow AI Platform record data, see [AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/overview-ais.md).
+**Note:** To learn about the AI Search engine, which is the default search engine for ServiceNow AI Platform record data, see [AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/overview-ais.md).
 
-The Zing text search index is split into multiple database shards for parallel querying. Its search engine logic yields fast [[hs-results|results]] and emphasizes relevancy scoring. Relevancy scores include frequency and proximity weighting. Scores also include weighting for specific indexed fields such as title, short description, and metadata.
+The Zing text search index is split into multiple database shards for parallel querying. Its search engine logic yields fast results and emphasizes relevancy scoring. Relevancy scores include frequency and proximity weighting. Scores also include weighting for specific indexed fields such as title, short description, and metadata.
 
-Zing provides type-ahead [[search-suggestions-overview|search suggestions]] and **Did you mean:** global search suggestions.
+Zing provides type-ahead search suggestions and **Did you mean:** global search suggestions.
 
 Administrators and users with the ts\_admin role can configure the following Zing text search settings:
 
 -   match relevance
 -   relevancy field weights for each indexed table
--   global [[stop-words-ais|stop words]]
+-   global stop words
 -   stop words for each index
 -   synonym dictionaries for each table
 -   tables with attachment indexing
@@ -107,14 +107,7 @@ Expand search results to include additional search terms.
 -   **[Zing displays search suggestions as users enter search terms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/search-suggestions-zing.md)**  
 Display possible search query completions as users enter search terms.
 -   **[Installed with Zing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/installed-with-zing.md)**  
-Several types of components are [[installed-with-zing|installed with Zing]].
+Several types of components are installed with Zing.
 
 **Parent Topic:**[Search administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/search-administration.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]
-- [[search-suggestions-overview|Search Suggestions]]
-- [[stop-words-ais|Stop words]]
-- [[installed-with-zing|Installed with Zing]]

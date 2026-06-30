@@ -22,7 +22,7 @@ Role required: sn\_si.admin
 
 ## Procedure
 
-1.  In your ServiceNow AI Platform instance, navigate to **[[security-operations-landing-page|Security Operations]]** &gt; **Integrations** &gt; **Integration Configurations**.
+1.  In your ServiceNow AI Platform instance, navigate to **Security Operations** &gt; **Integrations** &gt; **Integration Configurations**.
 
 2.  Locate the Microsoft Exchange Online tile.
 
@@ -184,7 +184,7 @@ From version 10.3 or later, you can specify an email delete threshold for approv
     |Option|Description|
     |------|-----------|
     |**Save**|Save your edits. This action doesn’t verify your connection.|
-    |**On the Connection Settings tab, select Validate.**|This action validates your Certificate authentication, your MID server connection, and OAuth credentials. If your credentials are valid, the **Validate** button and both [[indicator|indicators]] are green.|
+    |**On the Connection Settings tab, select Validate.**|This action validates your Certificate authentication, your MID server connection, and OAuth credentials. If your credentials are valid, the **Validate** button and both indicators are green.|
 
 
 If an error message is displayed, or one or more of the indicators to the right of the Validate button are red, verify that the user account credentials you entered are valid. Enter your credentials and select **Save** again.
@@ -232,7 +232,3 @@ Validate button is light red and one or all of the small colored indicators are 
 
 **Next topic:**[Define email search criteria and request a search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/verify-expected-results-ms-exchange-online.md)
 
-## Related
-
-- [[security-operations-landing-page|Security Operations]]
-- [[indicator|Indicators]]

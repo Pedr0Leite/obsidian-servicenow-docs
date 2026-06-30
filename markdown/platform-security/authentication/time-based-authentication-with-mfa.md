@@ -14,7 +14,7 @@ breadcrumb: [Time limited authentication, Token based authentication \(User logi
 
 # Time limited authentication with SMS - Twilio Tutorial
 
-Set up [[time-limited-authentication|time limited authentication]] with MFA factors such as SMS using Twilio.
+Set up time limited authentication with MFA factors such as SMS using Twilio.
 
 ## Before you begin
 
@@ -23,17 +23,17 @@ Role required: adaptive\_auth\_admin, user\_admin
 Plugins required:
 
 -   `com.snc.authenticate.time_limited_authentication` \(Time Limited Authentication\)
--   `com.snc.[[c_Authentication|authentication]].sms_mfa` \([[mfa-landing|Multi-factor authentication]] with SMS\)
+-   `com.snc.authentication.sms_mfa` \(Multi-factor authentication with SMS\)
 
-**Note:** Time limited authentication \(TLA\) is very specific to ServiceNow instance, the customized links for [[users|users]] can only be created within ServiceNow.
+**Note:** Time limited authentication \(TLA\) is very specific to ServiceNow instance, the customized links for users can only be created within ServiceNow.
 
 The tutorial instructions provided enable the admin to provide a link-based login with SMS as second factor \(MFA\) for users with a specific role.
 
-After a successful [[sc-configuration|configuration]], the system generates a link, and then shares the link with the user through notification \(Email/SMS\) channel. Clicking the link, the user is prompted to specify the OTP sent to [[email|Email]] or SMS factor based on user role \(configuration\).
+After a successful configuration, the system generates a link, and then shares the link with the user through notification \(Email/SMS\) channel. Clicking the link, the user is prompted to specify the OTP sent to Email or SMS factor based on user role \(configuration\).
 
 **Note:**
 
--   TLA should always be followed by MFA and MFA should be enabled by admin using [[adaptive-authentication|Adaptive Authentication]] for TLA login. To know more about how to configure MFA with Adaptive Authentication, see [Multi-factor Authentication context](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-auth-context.md).
+-   TLA should always be followed by MFA and MFA should be enabled by admin using Adaptive Authentication for TLA login. To know more about how to configure MFA with Adaptive Authentication, see [Multi-factor Authentication context](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-auth-context.md).
 -   TLA should be used for the users who have limited privileges.
 
 ## Procedure
@@ -71,7 +71,7 @@ After a successful [[sc-configuration|configuration]], the system generates a li
 
     4.  Navigate to **All** &gt; **Multi-Provider SSO** &gt; **Administration** &gt; **Properties** and enable the **Enable multiple provider SSO** property and **Save**.
 
-3.  Allowing TLA to only a specific user persona using the [[post-auth-context|post-authentication context]] policy.
+3.  Allowing TLA to only a specific user persona using the post-authentication context policy.
 
     1.  Navigate to **Roles** and create a role. For example: remote\_worker.
 
@@ -79,7 +79,7 @@ After a successful [[sc-configuration|configuration]], the system generates a li
 
     3.  Assign the role to the user. To know how to assign the role to the user, see [Assign a role to a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AssignARoleToAUser.md).
 
-    4.  To create a [[role-filter|role filter]] criteria, navigate to **All** &gt; **Adaptive Authentication** &gt; **Role Filter Criteria**, create a new filter **remoteworkerrole** and condition **Role is remote\_worker**.
+    4.  To create a role filter criteria, navigate to **All** &gt; **Adaptive Authentication** &gt; **Role Filter Criteria**, create a new filter **remoteworkerrole** and condition **Role is remote\_worker**.
 
         \[Omitted image "role-filter-tla.png"\] Alt text: Role Filter Criteria
 
@@ -125,7 +125,7 @@ After a successful [[sc-configuration|configuration]], the system generates a li
 
     1.  Navigate to **All** &gt; **Adaptive Authentication** &gt; **MFA Context**.
 
-    2.  On MFA Context page, click **MFA Factor [[ca-policies|Policies]]** and click on policy **Display SMS OTP as an MFA Factor Policy**.
+    2.  On MFA Context page, click **MFA Factor Policies** and click on policy **Display SMS OTP as an MFA Factor Policy**.
 
     3.  Click **Edit** and add **remoteworkerrole** in the **Policy Inputs**.
 
@@ -147,7 +147,7 @@ After a successful [[sc-configuration|configuration]], the system generates a li
         -   **Enable Multi-factor Authentication with SSO**
     3.  Save the record.
 
-    4.  Navigate to **All** &gt; **Adaptive Authentication** &gt; **[[authentication-policies|Authentication Policies]]** &gt; **Properties**.
+    4.  Navigate to **All** &gt; **Adaptive Authentication** &gt; **Authentication Policies** &gt; **Properties**.
 
     5.  Enable the **Enable Authentication Policy** checkbox.
 
@@ -173,16 +173,4 @@ After a successful [[sc-configuration|configuration]], the system generates a li
 
 8.  Click the URL, the following MFA screen is displayed for login.
 
-## Related
 
-- [[time-limited-authentication|Time limited authentication]]
-- [[c_Authentication|Authentication]]
-- [[mfa-landing|Multi-factor authentication]]
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[email|Email]]
-- [[adaptive-authentication|Adaptive authentication]]
-- [[post-auth-context|Post-authentication context]]
-- [[role-filter|Role Filter]]
-- [[ca-policies|Policies]]
-- [[authentication-policies|Authentication policies]]

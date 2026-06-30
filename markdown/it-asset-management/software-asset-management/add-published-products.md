@@ -14,7 +14,7 @@ breadcrumb: [Manage phase-wise Software Asset Management implementation, Using S
 
 # Publish a specific set of your software products
 
-Report only on the licensable software products that are part of the current implementation phase of [[c_SoftwareAssetMgmt|Software Asset Management]] by publishing those software products. By publishing only a few software products initially, you can assess the initial progress and gradually increase the scope of the implementation.
+Report only on the licensable software products that are part of the current implementation phase of Software Asset Management by publishing those software products. By publishing only a few software products initially, you can assess the initial progress and gradually increase the scope of the implementation.
 
 ## Before you begin
 
@@ -51,7 +51,7 @@ Role required: sam\_admin
 ## Result
 
 -   The software products are added to the Published products list that is grouped by the publisher.
--   After you publish the products and run software reconciliation, you can view reports specific to only those published products in the [[sam-workspace-workbench|License usage view]] and [[sam-workspace-landing|Software asset overview]].
+-   After you publish the products and run software reconciliation, you can view reports specific to only those published products in the License usage view and Software asset overview.
 
 **Parent Topic:**[Manage phase-wise Software Asset Management implementation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/manage-phasewise-imp-of-sam.md)
 
@@ -62,8 +62,3 @@ Role required: sam\_admin
 
 [Remove published software products]()
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-workspace-workbench|License usage view]]
-- [[sam-workspace-landing|Software asset overview]]

@@ -16,11 +16,11 @@ Space administrators configure properties on the workbench. In the application n
 
 ## Map properties
 
-Map properties allow some customization on the floor plan. For a full description of each property, see [[SpaceMgmntProperties|Space Management properties]].
+Map properties allow some customization on the floor plan. For a full description of each property, see [Space Management properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/SpaceMgmntProperties.md).
 
 ## Parsing configuration
 
-Map features \[fm\_facility\_feature\] define how to handle features during processing map set files and running transforms. A basic set of Map Features are pre-loaded for your use under **[[r_SpaceManagement|Space Management]]** &gt; **Map Configuration** &gt; **Feature Definitions**.
+Map features \[fm\_facility\_feature\] define how to handle features during processing map set files and running transforms. A basic set of Map Features are pre-loaded for your use under **Space Management** &gt; **Map Configuration** &gt; **Feature Definitions**.
 
 To create spaces for a feature type during parsing:
 
@@ -61,7 +61,7 @@ Specify which **Tasks** to show and search on the workbench.
 
 Specify filters to apply to the map, coloring spaces based on conditions specified.
 
--   Limit showing [[r_MapFilters|map filters]] to **Roles** or specific users with the **Owner**, **Public**, and **Roles** fields.
+-   Limit showing map filters to **Roles** or specific users with the **Owner**, **Public**, and **Roles** fields.
 -   Example filters are provided as a default.
 
 ## Map menu items
@@ -105,7 +105,7 @@ The URL parameters supported are:
 |sysparm\_drawingId|Loads the map to a Building \[alm\_building\] identified by its external\_building\_id \(requires sysparm\_campusSysId\).|
 |sysparm\_levelId|Loads the map to a Level \[fm\_level\] identified by its external\_level\_id \(requires sysparm\_drawingId\).|
 |sysparm\_spaceid|Loads the map to a space \[fm\_space\] identified by its external\_space\_id \(requires sysparm\_levelId\).|
-|sysparm\_scenarioSysId|Loads the map to a Scenario \[enterprise\_move\_scenario\] identified by its sys\_id \(requires [[c_FacMoveMgmt|Facilities Move Management]] plugin\).|
+|sysparm\_scenarioSysId|Loads the map to a Scenario \[enterprise\_move\_scenario\] identified by its sys\_id \(requires Facilities Move Management plugin\).|
 |sysparm\_zoneSysId|Loads the map to a zone \[fm\_zone\] identified by its sys\_id. Multiple spaces make up a zone.|
 |sysparm\_filterSysId|Applies a filter \[fm\_map\_filter\] for a loaded map. Filters highlight spaces based on conditions.|
 |sysparm\_refreshInterval|Enter a whole number value to specify a rate in minutes to automatically refresh applied filters.|
@@ -114,12 +114,5 @@ The URL parameters supported are:
 |sysparm\_tab|Specify the number of the tab to default to on the map.|
 |sysparm\_fromWidget|Triggers event "space.clicked" on a space click, which returns \{'sys\_id': SPACESYSID, 'displayName': SPACEDISPLAYNAME\}, or hiding space which returns \{'sys\_id':", 'displayName':"\};|
 
-**Parent Topic:**[[t_ActivateFacVisWorkbench|Activate Facilities Visualization Workbench]]
+**Parent Topic:**[Activate Facilities Visualization Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_ActivateFacVisWorkbench.md)
 
-## Related
-
-- [[SpaceMgmntProperties|Space Management properties]]
-- [[t_ActivateFacVisWorkbench|Activate Facilities Visualization Workbench]]
-- [[r_SpaceManagement|Space management]]
-- [[r_MapFilters|Map filters]]
-- [[c_FacMoveMgmt|Facilities move management]]

@@ -14,26 +14,16 @@ breadcrumb: [Run Enrichment operations in TISC, Observables, TISC Library Reposi
 
 # Observable Enrichment
 
-The [[enrich-observable-whois-wf|Enrich Observable WhoIs workflow]] performs enrichment on selected [[c_Observables|observables]]. If the observables are of a type recognized by the [[whois-landing-page|WhoisXML API Integration]], the observables are enriched.
+The Enrich Observable WhoIs workflow performs enrichment on selected observables. If the observables are of a type recognized by the WhoisXML API Integration, the observables are enriched.
 
-**Note:** The [[tisc-landing-page|Threat Intelligence Security Center]] supports Observable Enrichment only for the [[tisc-whoisxml-integration|WHOIS Integration]].
+**Note:** The Threat Intelligence Security Center supports Observable Enrichment only for the WHOIS Integration.
 
 -   **[Run Have I Been Pwned enrichment integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-hibp-enrichment-integration.md)**  
 Run the Have I Been Pwned \(HIBP\) enrichment on an email address or domain name observable to determine whether it has been involved in a known data breach.
 -   **[Whois integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-whoisxml-integration.md)**  
-Submit Whois lookups on domain names and URLs to gather [[threat-intel-landing-page|threat intelligence]] and assess potential security risks. Use this integration to obtain registration details, ownership information, and other contextual data for suspicious domains.
+Submit Whois lookups on domain names and URLs to gather threat intelligence and assess potential security risks. Use this integration to obtain registration details, ownership information, and other contextual data for suspicious domains.
 -   **[Shodan integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-shodan.md)**  
-Configure [[shodan-lookups|Shodan integration]] to enable automated discovery and analysis of internet-connected devices in your network [[threat-intelligence-infrastructure|infrastructure]].
+Configure Shodan integration to enable automated discovery and analysis of internet-connected devices in your network infrastructure.
 
 **Parent Topic:**[Run Enrichment operations in TISC](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-unified-experience-capabilities-and-modal-screens.md)
 
-## Related
-
-- [[enrich-observable-whois-wf|Enrich Observable WhoIs workflow]]
-- [[c_Observables|Observables]]
-- [[whois-landing-page|WhoisXML API integration]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[tisc-whoisxml-integration|Whois integration]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[shodan-lookups|Shodan integration]]
-- [[threat-intelligence-infrastructure|Infrastructure]]

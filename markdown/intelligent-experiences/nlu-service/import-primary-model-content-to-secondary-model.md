@@ -34,7 +34,7 @@ You can import primary model content to only one secondary model at a time.
 
     The Virtual Agent tab opens by default. Select the appropriate tab for your model.
 
-2.  Access a secondary model that has been translated under the primary model, and on **[[managing-model-content|Build and train your model]]**, select **View phase**.
+2.  Access a secondary model that has been translated under the primary model, and on **Build and train your model**, select **View phase**.
 
     By default you are taken to the **Intents** tab.
 
@@ -59,6 +59,3 @@ You can import primary model content to only one secondary model at a time.
 
 Make sure that each of your secondary models receive the new content from the primary model. Review all the new, translated content before publishing the secondary models.
 
-## Related
-
-- [[managing-model-content|Build and train your model]]

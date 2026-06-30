@@ -14,11 +14,11 @@ breadcrumb: [Manage regulatory tasks, Regulatory Change Management, Governance, 
 
 # Import the regulatory event alerts in bulk
 
-Populate the Workspace with your own regulatory event alerts. You can then import multiple alerts in the [[reg-change-mgmt-landing-page|Regulatory Change Management]] application.
+Populate the Workspace with your own regulatory event alerts. You can then import multiple alerts in the Regulatory Change Management application.
 
 ## About this task
 
-Importing the [[list-view-of-reg-alerts|regulatory alerts]] in bulk offers the following benefits:
+Importing the regulatory alerts in bulk offers the following benefits:
 
 -   Savings in time and efforts.
 -   Reduced errors by eliminating the need to manually enter data.
@@ -42,7 +42,7 @@ Before importing the data, you must review the following checklist:
 
 ## Procedure
 
-1.  Log in with the admin role and navigate to the **All** &gt; **Regulatory Change Management** &gt; **Regulatory Alerts** [[list-view-uib-ws|list view]].
+1.  Log in with the admin role and navigate to the **All** &gt; **Regulatory Change Management** &gt; **Regulatory Alerts** list view.
 
 2.  Select **Download Template**.
 
@@ -83,8 +83,3 @@ The imported regulatory event alerts are assigned to the coordinator.
 
 [Assess the impact of a regulatory event alert](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/assess-impact-of-reg-change-using-ws.md)
 
-## Related
-
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]
-- [[list-view-of-reg-alerts|Regulatory alerts]]
-- [[list-view-uib-ws|List view]]

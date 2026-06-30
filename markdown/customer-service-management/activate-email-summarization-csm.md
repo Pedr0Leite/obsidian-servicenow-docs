@@ -13,7 +13,7 @@ breadcrumb: [Email Interaction, Email channel, Enable communication channels, Co
 
 # Activate email interaction summarization for CSM
 
-Activate the [[email-as-an-interaction|Email Interaction]] Summarization skill in Now Assist Skill Kit to generate AI-powered summaries of email interactions for CSM agents, reducing the time spent reviewing full email conversation histories.
+Activate the Email Interaction Summarization skill in Now Assist Skill Kit to generate AI-powered summaries of email interactions for CSM agents, reducing the time spent reviewing full email conversation histories.
 
 ## Before you begin
 
@@ -53,6 +53,3 @@ The Email Interaction Summarization skill generates summaries of email threads, 
 
 The Email Interaction Summarization skill is active. Agents can select the summarize option on an email interaction to generate an on-demand summary of the email thread.
 
-## Related
-
-- [[email-as-an-interaction|Email Interaction]]

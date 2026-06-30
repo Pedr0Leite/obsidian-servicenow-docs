@@ -18,7 +18,7 @@ You can personalize the format in which time values appear in your instance.
 
 ## Before you begin
 
-An administrator must add the **Time format** field to the Self-Service view of the User form. For more information, see [[configure-form-layout|Configuring the form layout]].
+An administrator must add the **Time format** field to the Self-Service view of the User form. For more information, see [Configuring the form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md).
 
 Role required: Admin
 
@@ -42,6 +42,3 @@ Personalizing the time format does not change global settings or impact the way 
 
 [Personalize the system date format]()
 
-## Related
-
-- [[configure-form-layout|Configuring the form layout]]

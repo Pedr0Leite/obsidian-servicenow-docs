@@ -14,7 +14,7 @@ breadcrumb: [Service Catalog for managers and end users, Explore, Service Catalo
 
 # Service Catalog request screens
 
-To [[t_PlaceARequest|place a request]] from a [[service-catalog|service catalog]], navigate to the catalog home page and select the item to order.
+To place a request from a service catalog, navigate to the catalog home page and select the item to order.
 
 When an item is ordered, the base system generates a request to track the order and displays a summary that includes the order status in the **Stage** column:
 
@@ -50,7 +50,7 @@ Request REQ0000001 -- 4 Things
 -   Requested item RITM0000002 -- 1 X Chair
 -   Requested item RITM0000003 -- 1 X Desk
 
-After a service catalog request is submitted, a fulfiller may determine that the item is not in stock. The full filler can select the **Backordered** [[check-box|check box]], and enter comments about when the item may be back in stock. The backorder status can be used in reports and dashboards.
+After a service catalog request is submitted, a fulfiller may determine that the item is not in stock. The full filler can select the **Backordered** check box, and enter comments about when the item may be back in stock. The backorder status can be used in reports and dashboards.
 
 If a service catalog request is canceled, all associated purchase orders and transfer orders that have not been received are canceled.
 
@@ -59,8 +59,3 @@ If a service catalog request is canceled, all associated purchase orders and tra
 
 [Service Catalog home page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_ViewNavSvrCat.md)
 
-## Related
-
-- [[t_PlaceARequest|Place a request]]
-- [[service-catalog|Service Catalog]]
-- [[check-box|Check box]]

@@ -72,7 +72,7 @@ Ensure that the customer's selections are correct.
 
 </td><td>
 
-In the service order form, click **Approve.** **Note:** If you and your enterprise customer are using [[tmt-service-bridge-both-landing-page|Service Exchange]], a message appears that states the customer's instance has been updated accordingly.
+In the service order form, click **Approve.** **Note:** If you and your enterprise customer are using Service Exchange, a message appears that states the customer's instance has been updated accordingly.
 
 Only service order managers with an assigned \[sn\_ind\_tmt\_orm.service\_order\_manager\] role can approve service orders.
 
@@ -86,7 +86,3 @@ Ensure that the service order is properly fulfilled.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]

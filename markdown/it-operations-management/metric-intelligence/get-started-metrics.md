@@ -14,7 +14,7 @@ breadcrumb: [Configuring Metric Intelligence, Metric Intelligence, IT Operations
 
 # Get started with Metric Intelligence
 
-Complete the following setup and initial configuration steps to start using [[operational-metrics|Metric Intelligence]].
+Complete the following setup and initial configuration steps to start using Metric Intelligence.
 
 ## Before you begin
 
@@ -46,6 +46,4 @@ Alternatively, you can complete the following procedure.
 
 6.  About 10 minutes after the Metric Intelligence Metrics extension has started, run the [quick start tests for Metric Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/quick-start-tests-ops-intelligence.md) to verify functionality.
 
-## Related
 
-- [[operational-metrics|Metric Intelligence]]

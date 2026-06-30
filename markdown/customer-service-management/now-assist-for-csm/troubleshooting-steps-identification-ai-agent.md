@@ -21,7 +21,7 @@ The Troubleshooting steps identification AI agent fetches the context from a cas
 
 \[Omitted image "nowassist-troubleshooting-agent.png"\] Alt text: Troubleshooting steps identification AI agent providing suggested resolution steps for a case.
 
-This agent is typically used in standalone mode. Any agentic workflow that interacts with [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) cases can use it.
+This agent is typically used in standalone mode. Any agentic workflow that interacts with Customer Service Management \(CSM\) cases can use it.
 
 This AI agent does the following actions:
 
@@ -61,6 +61,3 @@ When fetching text from knowledge articles, this AI agent can fetch only the **a
 
 [Install Now Assist AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-ai-agents-plugins.md)
 
-## Related
-
-- [[c_CustomerServiceManagement|Customer Service Management]]

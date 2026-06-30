@@ -354,8 +354,5 @@ Australia
  See [\[Placeholder link text to key bundle-finso.agentic-contact-centre-for-insurance-landing\]](https://www.servicenow.com/docs/access?context=agentic-contact-centre-for-insurance-landing&family=australia&ft:locale=en-US) for an overview of features and capabilities.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[rn-combined-intro|Products combined by family]]
+</table>**Parent Topic:**[Products combined by family](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/delta-zurich-australia/rn-combined-intro.md)
 
-## Related
-
-- [[rn-combined-intro|Products combined by family]]

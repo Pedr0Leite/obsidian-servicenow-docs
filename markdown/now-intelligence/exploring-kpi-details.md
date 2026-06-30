@@ -12,7 +12,7 @@ breadcrumb: [KPI Details, Platform Analytics experience, Platform Analytics]
 
 # Exploring KPI Details
 
-[[kpi-details|KPI Details]] is an exploratory view of indicators, used for more detailed analysis. It lets you see trends, predictions, breakdowns, and associated records for a specific indicator.
+KPI Details is an exploratory view of indicators, used for more detailed analysis. It lets you see trends, predictions, breakdowns, and associated records for a specific indicator.
 
 \[Omitted video\] Description: Tour of KPI Details
 
@@ -28,12 +28,12 @@ KPI Details lets you answer questions such as:
 
 Learn how to use KPI Details to accomplish the following tasks:
 
--   [[chart-options|Review the overall health of an indicator]].
--   [[kpi-details-components|Explore trends for any indicator]].
--   [[show-compare-edit-records|Review individual records corresponding to any date]].
--   Manage [[kpi-details-targets|Indicator targets and thresholds in KPI Details]] for your indicators.
+-   [Review the overall health of an indicator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/chart-options.md).
+-   [Explore trends for any indicator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/kpi-details-components.md).
+-   [Review individual records corresponding to any date](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/show-compare-edit-records.md).
+-   Manage [Indicator targets and thresholds in KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/kpi-details-targets.md) for your indicators.
 
-Enhance KPI Details by configuring notifications of significant trends in [[process-behavior-charts-for-kpis|KPI Signals]].
+Enhance KPI Details by configuring notifications of significant trends in [KPI Signals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-behavior-charts-for-kpis.md).
 
 **Tip:** A free training for KPI Details is available from the [NOW Learning Center](https://nowlearning.service-now.com/lxp?id=overview&sys_id=5c6c5f8687963c14ed3b74c9cebb3514&type=course).
 
@@ -44,11 +44,3 @@ Enhance KPI Details by configuring notifications of significant trends in [[proc
 
 [Performance Analytics \(Indicator data sources\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-## Related
-
-- [[chart-options|Chart options in KPI Details]]
-- [[kpi-details-components|Examining indicators with KPI Details]]
-- [[show-compare-edit-records|Show, compare, create, and edit records in KPI Details]]
-- [[kpi-details-targets|Indicator targets and thresholds in KPI Details]]
-- [[process-behavior-charts-for-kpis|KPI Signals]]
-- [[kpi-details|KPI Details]]

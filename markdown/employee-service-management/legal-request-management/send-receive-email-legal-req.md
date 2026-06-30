@@ -14,7 +14,7 @@ breadcrumb: [Work on a legal request, Managing legal requests, Use, Legal Reques
 
 # Communicate using emails from Legal Counsel Center
 
-Compose and send emails directly from legal request record form in the [[legal-counsel-center-landing|Legal Counsel Center]]. You can also save the email as draft to send it later.
+Compose and send emails directly from legal request record form in the Legal Counsel Center. You can also save the email as draft to send it later.
 
 ## Before you begin
 
@@ -52,13 +52,9 @@ Role required: sn\_lg\_ops.legal\_fulfiller
 
 ## Result
 
-After the email is sent, it is added to the [[activity-lxp|activity]] stream on the legal request form. Emails you receive from others are also added to the activity stream.
+After the email is sent, it is added to the activity stream on the legal request form. Emails you receive from others are also added to the activity stream.
 
 Legal requests marked as Privileged and Confidential, contain confidentiality markers to comply with legal requirements. This applies to both system-generated notifications and fulfiller-initiated outbound emails.
 
 **Parent Topic:**[Work on a legal request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/work-on-legal-request.md)
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[activity-lxp|Activity]]

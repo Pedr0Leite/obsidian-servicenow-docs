@@ -22,7 +22,7 @@ Role required: SM admin
 
 ## About this task
 
-Maintenance schedules are run regularly using the [[c_SMPlanMaint|Planned Maintenance]] Nightly Run scheduled job. When the scheduled job is run, the appropriate Service Orders are created for all records that meet the schedule criteria \(including all records for the current day\).
+Maintenance schedules are run regularly using the Planned Maintenance Nightly Run scheduled job. When the scheduled job is run, the appropriate Service Orders are created for all records that meet the schedule criteria \(including all records for the current day\).
 
 To configure the nightly planned maintenance scheduled job:
 
@@ -49,6 +49,3 @@ To configure the nightly planned maintenance scheduled job:
 
 **Parent Topic:**[Managing maintenance plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/planned-maintenance-family/c_MaintPlanMgmt.md)
 
-## Related
-
-- [[c_SMPlanMaint|Planned Maintenance]]

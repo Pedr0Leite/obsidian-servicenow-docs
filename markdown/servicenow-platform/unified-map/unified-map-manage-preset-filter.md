@@ -14,7 +14,7 @@ breadcrumb: [Filter CIs, Use, Unified Map, Configuration Management Database \(C
 
 # Create or manage a user preset
 
-Save useful [[cmdb-workspace-unified-map|Unified Map]] filter settings as a user preset that you can apply to a map at any time. For example, define a filter to display only CIs of a particular class and then save the filter settings as a user preset.
+Save useful Unified Map filter settings as a user preset that you can apply to a map at any time. For example, define a filter to display only CIs of a particular class and then save the filter settings as a user preset.
 
 ## Before you begin
 
@@ -80,6 +80,3 @@ Role required:
 
 [Use filters to specify which nodes should appear on a map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/unified-map-configure-filters.md)
 
-## Related
-
-- [[cmdb-workspace-unified-map|Unified Map]]

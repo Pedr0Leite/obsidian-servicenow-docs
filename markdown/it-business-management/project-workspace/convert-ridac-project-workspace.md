@@ -14,7 +14,7 @@ breadcrumb: [Managing projects with Project Workspace, Project Workspace, Projec
 
 # Convert one RIDAC record to another for a project in Project Workspace
 
-Convert one RIDAC \(Risk, Issue, Decision, Action, and Request Change\) record to another for a project in the [[project-workspace-landing-page|Project Workspace]]. Keep a record of risks or issues and their outcome for analysis at project closure and planning. Track the risks and issues throughout the project life cycle.
+Convert one RIDAC \(Risk, Issue, Decision, Action, and Request Change\) record to another for a project in the Project Workspace. Keep a record of risks or issues and their outcome for analysis at project closure and planning. Track the risks and issues throughout the project life cycle.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ You can also specify to close the parent record on creation of the new record in
 
 2.  Open the RIDAC page of the project by selecting **RIDAC** from the list.
 
-3.  On the [[create-a-project-form|Project form]], select **Row context menu** for an individual risk, issue, decision, action, or request change record.
+3.  On the Project form, select **Row context menu** for an individual risk, issue, decision, action, or request change record.
 
 4.  Select **Convert to RIDAC**.
 
@@ -55,7 +55,3 @@ You can also specify to close the parent record on creation of the new record in
 
 **Parent Topic:**[Managing projects with Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/use-projects-pw.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]
-- [[create-a-project-form|Project form]]

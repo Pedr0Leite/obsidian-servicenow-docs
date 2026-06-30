@@ -18,7 +18,7 @@ Configure security controls to restrict copy/paste, enforce PIN, or block attach
 
 Copy/paste restrictions are defined in the system properties \[sys\_properties\] table. There are two applicable security properties.
 
-glide.sg.clear\_pasteboard\_when\_background: Clears the copy/paste clipboard when a ServiceNow app enters the background. For more information on clearing the clipboard, see [[additional-mobile-configuration|Configure clear clipboard]].
+glide.sg.clear\_pasteboard\_when\_background: Clears the copy/paste clipboard when a ServiceNow app enters the background. For more information on clearing the clipboard, see [Configure clear clipboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/additional-mobile-configuration.md).
 
 ## Require an app PIN
 
@@ -61,16 +61,11 @@ To improve security on your mobile device, block the logging in of mobile apps w
 
 **glide.sg.allow\_rooted\_jailbroken\_devices system**
 
-For more information, see [[configure-rooted-jailbroken-devices|Configure the status for rooted and jailbroken devices]].
+For more information, see [Configure the status for rooted and jailbroken devices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/configure-rooted-jailbroken-devices.md).
 
 ## Penetration testing
 
 ServiceNow engages a third party to perform penetration testing of a mobile app. This typically happens annually but sometimes occurs more frequently. The results of these tests are available to customers on CORE. Customers can test the mobile application in conjunction with a pen test of their instance per the process outlined in [KB0538598](https://support.servicenow.com/kb_view.do?sysparm_article=KB0538598).
 
-**Parent Topic:**[[sg-mobile-security-practices|Mobile security practices]]
+**Parent Topic:**[Mobile security practices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-security-practices.md)
 
-## Related
-
-- [[additional-mobile-configuration|Mobile system property configurations]]
-- [[configure-rooted-jailbroken-devices|Configure the status for rooted and jailbroken devices]]
-- [[sg-mobile-security-practices|Mobile security practices]]

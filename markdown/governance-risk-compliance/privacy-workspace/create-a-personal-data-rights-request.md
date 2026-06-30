@@ -22,13 +22,13 @@ Role required: sn\_grc\_pdr.pdr\_requester
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[personal-data-rights-workspace|Personal Data Rights Workspace]]**.
+1.  Navigate to **All** &gt; **Personal Data Rights Workspace**.
 
 2.  From the **Create** drop-down, select **Request**.
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values on the [[new-pdr-request-form|personal data rights request form]], see [Personal data rights request form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/new-pdr-request-form.md).
+    For a description of the field values on the personal data rights request form, see [Personal data rights request form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/new-pdr-request-form.md).
 
 4.  Select **Save**.
 
@@ -42,12 +42,7 @@ Role required: sn\_grc\_pdr.pdr\_requester
 
 
 -   **[Personal data rights request form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/new-pdr-request-form.md)**  
-Use the Personal data rights request form in the [[personal-data-rights|Personal Data Rights]] application to initiate a process to access, correct, or delete personal data.
+Use the Personal data rights request form in the Personal Data Rights application to initiate a process to access, correct, or delete personal data.
 
 **Parent Topic:**[Using Personal Data Rights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/using-personal-data-right.md)
 
-## Related
-
-- [[personal-data-rights-workspace|Personal Data Rights workspace]]
-- [[new-pdr-request-form|Personal data rights request form]]
-- [[personal-data-rights|personal data rights]]

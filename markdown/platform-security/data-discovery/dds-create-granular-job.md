@@ -14,7 +14,7 @@ breadcrumb: [Data Discovery scheduled discovery, Data Discovery Store, Data Disc
 
 # Create granular job
 
-Scan specific table columns in [[dds-data-discovery|Data Discovery Store]].
+Scan specific table columns in Data Discovery Store.
 
 ## Before you begin
 
@@ -22,9 +22,9 @@ Role required: discovery.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[data-discovery-landing|Data Discovery]]** &gt; **Scheduled Discovery**.
+1.  Navigate to **All** &gt; **Data Discovery** &gt; **Scheduled Discovery**.
 
-2.  Select **Granular [[sc-configuration|Configuration]]** in the right side navigation pane.
+2.  Select **Granular Configuration** in the right side navigation pane.
 
 3.  Select **Create new**.
 
@@ -72,8 +72,3 @@ Sensitive data will only be discovered for the day of and after the scan start p
 
 A granular scan is scheduled to run on the target table and column, after it executes you can [review the scan findings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-discovery/dds-review-granular-findings.md).
 
-## Related
-
-- [[dds-data-discovery|Data Discovery Store]]
-- [[data-discovery-landing|Data Discovery]]
-- [[sc-configuration|Configuration]]

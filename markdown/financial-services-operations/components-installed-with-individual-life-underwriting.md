@@ -93,8 +93,5 @@ Individual Life Underwriting Service Task
 Stores all underwriting tasks for individual policy service requests for all applications. This table extends the Financial Task \[sn\_bom\_task\] table.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[individual-life-servicing-reference|Individual Life Servicing reference]]
+</table>**Parent Topic:**[Individual Life Servicing reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/individual-life-servicing-reference.md)
 
-## Related
-
-- [[individual-life-servicing-reference|Individual Life Servicing reference]]

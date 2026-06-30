@@ -100,7 +100,7 @@ The parent location of this healthcare location.
 
  Set your parent location to create a hierarchy of locations in which the current healthcare location is nested under that parent location.
 
- For more information, see Example - [[untitled3|Organizing your healthcare locations]].
+ For more information, see Example - Organizing your healthcare locations.
 
 </td></tr><tr><td>
 
@@ -215,6 +215,4 @@ A description of this healthcare location.
 </td></tr></tbody>
 </table>4.  Select **Submit**.
 
-## Related
 
-- [[untitled3|Organizing your healthcare locations]]

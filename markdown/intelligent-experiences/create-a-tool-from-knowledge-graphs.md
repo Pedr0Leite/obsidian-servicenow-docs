@@ -13,7 +13,7 @@ breadcrumb: [Create a tool, Configure, MCP Server Console, Enable AI experiences
 
 # Create a tool from Knowledge Graph
 
-Create a tool from Knowledge Graph to expose it to Model Context Protocol \(MCP\) clients from an MCP Server. [[knowledge-graph-landing|Knowledge Graph]] provides agents with accurate, relationship-aware access to live instance data. This enables more precise, context-aware responses in every workflow by directly querying relationships.
+Create a tool from Knowledge Graph to expose it to Model Context Protocol \(MCP\) clients from an MCP Server. Knowledge Graph provides agents with accurate, relationship-aware access to live instance data. This enables more precise, context-aware responses in every workflow by directly querying relationships.
 
 ## Before you begin
 
@@ -82,9 +82,6 @@ One or more servers you want to add your tool to.
     -   tags: Include one or more tags to prioritize a specific group of tables. For example, you can use tags like 'CSM', 'HR'. These tags are required for the Enterprise Graph.
     -   description: Your query or request that will use Knowledge Graph.
     -   apioptions
-    See [[create-tool-mcp-server|Create a tool for a Model Context Protocol server]] to learn more. The tool is now published on the MCP Server and discoverable by MCP clients.
+    See [Create a tool for a Model Context Protocol server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/create-tool-mcp-server.md) to learn more. The tool is now published on the MCP Server and discoverable by MCP clients.
 
-## Related
 
-- [[create-tool-mcp-server|Create a tool for a Model Context Protocol server]]
-- [[knowledge-graph-landing|Knowledge Graph]]

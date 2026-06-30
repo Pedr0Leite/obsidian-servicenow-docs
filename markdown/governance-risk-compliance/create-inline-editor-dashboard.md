@@ -20,7 +20,7 @@ Role required: sn\_bcm.manager, sn\_bcm.user
 
 ## About this task
 
-You can create an inline-editor dashboard from scratch, or duplicate the **[[business-continuity-mangmt-overview|Business continuity management]] dashboard** as part of the base system and edit the copy. Duplicating is recommended when you want to preserve the default My items and My actions cards, which you can then extend with additional visualizations.
+You can create an inline-editor dashboard from scratch, or duplicate the **Business continuity management dashboard** as part of the base system and edit the copy. Duplicating is recommended when you want to preserve the default My items and My actions cards, which you can then extend with additional visualizations.
 
 ## Procedure
 
@@ -40,7 +40,7 @@ You can create an inline-editor dashboard from scratch, or duplicate the **[[bus
 
 5.  Select a data source.
 
-    You can select a data source such as an event \[sn\_recovery\_event\] to report on [[crisis-management-uib|crisis events]].
+    You can select a data source such as an event \[sn\_recovery\_event\] to report on crisis events.
 
     \[Omitted image "add-pie-chart-report.jpg"\] Alt text: Add data source panel showing the Event table selected as the data source for a new visualization.
 
@@ -72,10 +72,5 @@ You created an inline-editor dashboard that can be shared across pages and works
 **Related topics**  
 
 
-[[conf-record-ov-db|Configure a record overview dashboard]]
+[Configure a record overview dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/conf-record-ov-db.md)
 
-## Related
-
-- [[conf-record-ov-db|Configure a record overview dashboard]]
-- [[business-continuity-mangmt-overview|Business Continuity Management]]
-- [[crisis-management-uib|Crisis events]]

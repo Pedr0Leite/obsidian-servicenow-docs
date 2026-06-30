@@ -12,7 +12,7 @@ breadcrumb: [Manage customer complaints, Retail]
 
 # Track a customer complaint case in workspace
 
-Track the status of a [[rahi-retail-operations-overview|retail]] [[rahi-retail-retail-customer-complaint|customer complaint case]] in Workspace.
+Track the status of a retail customer complaint case in Workspace.
 
 ## Before you begin
 
@@ -25,10 +25,5 @@ Roles required: sn\_rtl\_cs\_cmplnt.agent, sn\_rtl\_cs\_cmplnt.agent\_manager
 2.  Select the case using the case number to track the case.
 
 
-**Parent Topic:**[[rahi-retail-manage-customer-complaints|Manage customer complaints]]
+**Parent Topic:**[Manage customer complaints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-manage-customer-complaints.md)
 
-## Related
-
-- [[rahi-retail-manage-customer-complaints|Manage customer complaints]]
-- [[rahi-retail-operations-overview|Retail]]
-- [[rahi-retail-retail-customer-complaint|Customer complaint case]]

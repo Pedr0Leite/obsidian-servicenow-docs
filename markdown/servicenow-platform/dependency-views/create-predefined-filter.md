@@ -14,7 +14,7 @@ breadcrumb: [Administer, Dependency Views, Configuration Management Database \(C
 
 # Create a predefined filter
 
-Create filters to narrow down the CIs that are displayed on a [[c_NextGenBSMMaps|Dependency Views map]]. You can create filters that are based on CIs' class, CIs' attributes, or CIs' relationships.
+Create filters to narrow down the CIs that are displayed on a Dependency Views map. You can create filters that are based on CIs' class, CIs' attributes, or CIs' relationships.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Create a predefined filter that you can then select to determine the scope of th
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_BusinesssServiceManagementMaps|Dependency Views]]** &gt; **Predefined Filters**.
+1.  Navigate to **All** &gt; **Dependency Views** &gt; **Predefined Filters**.
 
 2.  On the **Predefined Filters** page, click **New**.
 
@@ -42,7 +42,7 @@ Create a predefined filter that you can then select to determine the scope of th
 
     1.  Click **Configuration Types**, and then click **Edit**.
 
-    2.  In the **Collection** [[list-collector|list collector]], select the classes that CIs must belong to in order to be displayed on the map, and move them to the **Configuration Types List**.
+    2.  In the **Collection** list collector, select the classes that CIs must belong to in order to be displayed on the map, and move them to the **Configuration Types List**.
 
     3.  Click **Save**.
 
@@ -92,8 +92,3 @@ After creating a predefined filter, you can apply it to a map:
 
 [Filter the view of a Dependency Views map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/t_FilterViewNGBSMMap.md)
 
-## Related
-
-- [[c_NextGenBSMMaps|Dependency Views map]]
-- [[c_BusinesssServiceManagementMaps|Dependency Views]]
-- [[list-collector|List collector]]

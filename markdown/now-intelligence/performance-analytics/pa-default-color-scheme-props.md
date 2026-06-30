@@ -14,7 +14,7 @@ breadcrumb: [Properties, Reference, Performance Analytics \(Indicator data sourc
 
 # Default color scheme Performance Analytics properties
 
-These properties set the default colors for the chart overall and for [[pa-targets|indicator targets]].
+These properties set the default colors for the chart overall and for indicator targets.
 
 <table id="table_pgg_lvz_gbb"><thead><tr><th>
 
@@ -43,6 +43,3 @@ Default visualization color schemeDefault: Default UI14
 </td></tr></tbody>
 </table>**Parent Topic:**[Performance Analytics properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/pa-properties.md)
 
-## Related
-
-- [[pa-targets|Indicator targets]]

@@ -14,7 +14,7 @@ breadcrumb: [Findings, Reviewing of scans, Using Instance Scan, Instance Scan, M
 
 # Mute a finding
 
-Mute a finding on the Scan Finding form to avoid the finding from being reported in the later [[hc-scan-results|scan results]].
+Mute a finding on the Scan Finding form to avoid the finding from being reported in the later scan results.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hs-landing-page|Instance Scan]]** &gt; **[[hs-results|Results]]**.
+1.  Navigate to **All** &gt; **Instance Scan** &gt; **Results**.
 
     A list of Scan Results shows up.
 
@@ -30,7 +30,7 @@ Role required: admin.
 
     The Scan Result form for the scan shows up.
 
-3.  Select the Scan [[hs-findings|Findings]] related list.
+3.  Select the Scan Findings related list.
 
     A list of findings for the scan shows up.
 
@@ -49,9 +49,3 @@ Role required: admin.
 
 **Parent Topic:**[Findings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-findings.md)
 
-## Related
-
-- [[hc-scan-results|Scan results]]
-- [[hs-landing-page|Instance Scan]]
-- [[hs-results|Results]]
-- [[hs-findings|Findings]]

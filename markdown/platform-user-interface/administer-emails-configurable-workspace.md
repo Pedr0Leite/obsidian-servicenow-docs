@@ -14,26 +14,20 @@ breadcrumb: [Administer, Configurable Workspace UI, Configure UIs and portals, C
 
 Administer email features that aren't configured in UI Builder with components.
 
--   **[[config-email-digital-signature-encryption|Digital signature and encryption]]**
+-   **[Digital signature and encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/config-email-digital-signature-encryption.md)**
 
-    [[configure-onboarding-modals|Configure]] emails that send a digital signature to verify you as an authentic sender and an email encryption to certify authentic recipients.
+    Configure emails that send a digital signature to verify you as an authentic sender and an email encryption to certify authentic recipients.
 
--   **[[configure-email-templates|Configure an email template]]**
+-   **[Configure an email template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-email-templates.md)**
 
     Configure an email template in Configurable Workspace to quickly create emails for common issues.
 
--   **[[configure-collapsible-email-templates|Configure a collapsible template]]**
+-   **[Configure a collapsible template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-collapsible-email-templates.md)**
 
     Configure an email template with collapsed content by hiding it behind an ellipsis.
 
--   **[[configure-response-templates|Disable response templates]]**
+-   **[Disable response templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-response-templates.md)**
 
     Disable response templates for journal fields in Configurable Workspace.
 
-## Related
 
-- [[config-email-digital-signature-encryption|Configuring digital signature and encryption for emails]]
-- [[configure-email-templates|Configure an email template]]
-- [[configure-collapsible-email-templates|Configure an email template with collapsed content]]
-- [[configure-response-templates|Disable response templates]]
-- [[configure-onboarding-modals|Configure]]

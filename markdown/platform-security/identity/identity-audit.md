@@ -14,11 +14,11 @@ breadcrumb: [Identity]
 
 # Identity and Access Audit
 
-Use the Identity and Access Audit to understand changes made to [[users|users]], groups, roles, and ACLs.
+Use the Identity and Access Audit to understand changes made to users, groups, roles, and ACLs.
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore\[Omitted image "icon-explore.png"\] Alt text: Explore](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/identity/explore-[[identity-landing|identity]]-audit.md)
+[Explore\[Omitted image "icon-explore.png"\] Alt text: Explore](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/identity/explore-identity-audit.md)
 
  [Learn about the features and business value of Identity and Access Audit.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/identity/explore-identity-audit.md)
 
@@ -40,8 +40,3 @@ Use the Identity and Access Audit to understand changes made to [[users|users]],
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[users|Users]]
-- [[identity-landing|Identity]]

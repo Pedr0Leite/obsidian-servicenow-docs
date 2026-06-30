@@ -14,7 +14,7 @@ breadcrumb: [Consumables life cycle, Use, Asset Management, IT Asset Management]
 
 # Dispose of consumable assets
 
-Dispose of those [[c_ReceiveAConsumableAsset|consumable assets]] that are no longer required in your [[c_Stockrooms|stockrooms]].
+Dispose of those consumable assets that are no longer required in your stockrooms.
 
 ## Before you begin
 
@@ -53,7 +53,3 @@ Know that the Planned for disposal column in the Consumable \[alm\_consumable\] 
 
 **Parent Topic:**[Consumables life cycle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/c_FollowLifeCycleConsumbl.md)
 
-## Related
-
-- [[c_ReceiveAConsumableAsset|Consumable assets]]
-- [[c_Stockrooms|Stockrooms]]

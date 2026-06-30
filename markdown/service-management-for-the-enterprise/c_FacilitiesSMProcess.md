@@ -16,7 +16,7 @@ The facilities administrator creates the campus and configures the application w
 
 The Facilities Service Management process is as follows:
 
-1.  A ServiceNow administrator activates and configures the [[FacilitiesLandingPage|Facilities Service Management]] application according to the needs and requirements for your organization.
+1.  A ServiceNow administrator activates and configures the Facilities Service Management application according to the needs and requirements for your organization.
 2.  A facilities administrator creates the campus and configures the spaces and assets contained within.
 3.  Users submit facilities requests.
 4.  Facilities staff qualify facilities requests. Which is the process of checking that the information in the request is complete, so facilities tasks can be assigned.
@@ -39,16 +39,10 @@ Be sure to identify people within your organization that can be assigned the fol
     Schedules and assigns the tasks to facilities staff.
 
 
--   **[[c_FacilitiesRequests|Facilities requests]]**  
+-   **[Facilities requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_FacilitiesRequests.md)**  
 A facilities request is a record in the system that tracks a proposed change to the physical facility of the organization. Typical facilities requests include the reporting of something bring broken or an issue like a beeping smoke alarm.
--   **[[c_FacRequestTasks|Facilities request tasks]]**  
+-   **[Facilities request tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_FacRequestTasks.md)**  
 A facilities request contains one or more tasks. These tasks allow qualifiers to define separate activities that must be done to complete a facilities request.
 
-**Parent Topic:**[[c_FacilitiesServiceManagement|Facilities Service Management overview]]
+**Parent Topic:**[Facilities Service Management overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_FacilitiesServiceManagement.md)
 
-## Related
-
-- [[c_FacilitiesRequests|Facilities requests]]
-- [[c_FacRequestTasks|Facilities request tasks]]
-- [[c_FacilitiesServiceManagement|Facilities Service Management overview]]
-- [[FacilitiesLandingPage|Facilities Service Management]]

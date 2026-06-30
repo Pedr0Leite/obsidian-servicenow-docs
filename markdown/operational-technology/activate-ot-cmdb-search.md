@@ -12,7 +12,7 @@ breadcrumb: [Configure, OT Manager Foundation, Operational Technology]
 
 # Activate the OT CMDB Search feature
 
-If you have the admin role, you can configure the [[now-assist-for-otm-landing|Operational Technology \(OT\) Manager Foundation]] so that teams can use the OT Configuration Management Database \(CMDB\) search feature in the [[industrial-workspace-for-operational-technology|Industrial Workspace]].
+If you have the admin role, you can configure the Operational Technology \(OT\) Manager Foundation so that teams can use the OT Configuration Management Database \(CMDB\) search feature in the Industrial Workspace.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ The following table lists the features and skills that you can access from the N
 
 1.  Install the OT Manager Foundation plugin \(sn\_otm\_gen\_ai\).
 
-    -   For information about the application dependencies, see [[supporting-information-for-now-assist-otm|Supporting information for OT Manager Foundation]].
+    -   For information about the application dependencies, see [Supporting information for OT Manager Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/supporting-information-for-now-assist-otm.md).
     -   For information about the installation process, see [Install Now Assist plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md).
 2.  Navigate to **All** &gt; **Now Assist Admin**.
 
@@ -65,11 +65,5 @@ The following table lists the features and skills that you can access from the N
     3.  In the **Toggle display** screen, select the **Status** toggle if the toggle isn't already selected.
 
 
-**Parent Topic:**[[configuring-na-otm|Configuring the OT Manager Foundation]]
+**Parent Topic:**[Configuring the OT Manager Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/configuring-na-otm.md)
 
-## Related
-
-- [[supporting-information-for-now-assist-otm|Supporting information for OT Manager Foundation]]
-- [[configuring-na-otm|Configuring the OT Manager Foundation]]
-- [[now-assist-for-otm-landing|Operational Technology \(OT\) Manager Foundation]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

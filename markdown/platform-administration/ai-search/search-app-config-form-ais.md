@@ -14,7 +14,7 @@ breadcrumb: [Reference, AI Search, Search administration, Configure core feature
 
 # Search Application Configuration form
 
-The Search Application Configuration form enables you to create a search application configuration for an [[ia-ai-search|AI Search]] application.
+The Search Application Configuration form enables you to create a search application configuration for an AI Search application.
 
 For details on creating or modifying a search application configuration for use with AI Search, see [Create a search application configuration for AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-search-app-config-ais.md).
 
@@ -47,7 +47,7 @@ Search engine to use in the ServiceNow AI Platform® search application that lin
  Supported values:
 
 -   **AI Search**: Use AI Search as the search engine for the application. Select this search engine if your search application has the **Enable AI Search** option enabled.
--   **Zing**: Use the [[c_ZingTextSearch|Zing text indexing and search engine]] as the search engine for the application. Select this engine if your search application has the **Enable AI Search** option disabled, or if it lacks this option.
+-   **Zing**: Use the Zing text indexing and search engine as the search engine for the application. Select this engine if your search application has the **Enable AI Search** option disabled, or if it lacks this option.
 
  **Note:** If your search engine selection conflicts with your search application's **Enable AI Search** setting, the system displays an error message. Before changing search engines, first make sure that your search application has the proper **Enable AI Search** setting.
 
@@ -57,15 +57,15 @@ Search Profile
 
 </td><td>
 
-Search profile to use for searches in the application. This field appears only when you select **AI Search** as the application's search engine. Type: [[reference-email-admin|reference]] to a record from the Search Profile \[ais\_search\_profile\] table
+Search profile to use for searches in the application. This field appears only when you select **AI Search** as the application's search engine. Type: reference to a record from the Search Profile \[ais\_search\_profile\] table
 
 </td></tr><tr><td>
 
-Search [[hs-results|Results]] Limit
+Search Results Limit
 
 </td><td>
 
-Maximum number of search results the application should display on each search results page. This limit also specifies the minimum number of search results each query should return. When a search query returns less than this number of results, AI Search attempts to broaden the result set by automatically resubmitting the query with modified [[r_DirectJDBCProbeParameters|parameters]]. For more details on query resubmission, see [Automatic search query resubmission](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/auto-query-resubmission-ais.md).
+Maximum number of search results the application should display on each search results page. This limit also specifies the minimum number of search results each query should return. When a search query returns less than this number of results, AI Search attempts to broaden the result set by automatically resubmitting the query with modified parameters. For more details on query resubmission, see [Automatic search query resubmission](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/auto-query-resubmission-ais.md).
 
  Type: integer
 
@@ -75,7 +75,7 @@ Maximum number of search results the application should display on each search r
 
 </td></tr><tr><td>
 
-[[genius-results-ais|Genius Results]] Limit
+Genius Results Limit
 
 </td><td>
 
@@ -87,7 +87,7 @@ When **Genius Results Limit** is set to 2 or greater and a search returns multip
 
 **Note:** Search applications display a maximum of 10 answer cards per search query. If you set this limit to 11 or more, the search application still displays a maximum of 10 answer cards.
 
-Starting with version 6 of [Now Assist in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/now-assist-ais.md), installing [[now-assist-ais|Now Assist in AI Search]] makes the value of this field default to 10 instead of 1 when you create a new search application configuration or edit an existing one.
+Starting with version 6 of [Now Assist in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/now-assist-ais.md), installing Now Assist in AI Search makes the value of this field default to 10 instead of 1 when you create a new search application configuration or edit an existing one.
 
 </td></tr><tr><td>
 
@@ -105,7 +105,7 @@ Maximum number of grouped attachments to display by default on a parent search r
 
 </td></tr><tr><td>
 
-Enable [[typo-handling-ais|Typo Handling]]
+Enable Typo Handling
 
 </td><td>
 
@@ -162,11 +162,11 @@ Filter Genius Results by tab
 
 </td><td>
 
-Option to filter Genius Result searches based on the selected source facet bucket.In a search application that has this option enabled, when you select a source from the application's source facet, Genius Result searches honor the source filter and so can only return results from the selected source. This means that only Genius Result [[clone-configurations-tab|configurations]] that include information from the selected source can generate Genius Result answers in the search application. Genius Result configurations that don't include information from the selected source don't return any search results and thus can't generate Genius Result answers.
+Option to filter Genius Result searches based on the selected source facet bucket.In a search application that has this option enabled, when you select a source from the application's source facet, Genius Result searches honor the source filter and so can only return results from the selected source. This means that only Genius Result configurations that include information from the selected source can generate Genius Result answers in the search application. Genius Result configurations that don't include information from the selected source don't return any search results and thus can't generate Genius Result answers.
 
-As an example, suppose you select the Knowledge source facet bucket in a search application that has this option selected. With that Knowledge source selection applied, [[genius-result-q-a-ais|Q&amp;A Genius Results]], which include information from the Knowledge source, can still find search results and generate Genius Result answers. But [[genius-result-catalog-item-ais|Catalog Item Genius Results]], which include information from the Catalog Item source which isn't selected, can't find search results and so can't generate Genius Result answers.
+As an example, suppose you select the Knowledge source facet bucket in a search application that has this option selected. With that Knowledge source selection applied, Q&amp;A Genius Results, which include information from the Knowledge source, can still find search results and generate Genius Result answers. But Catalog Item Genius Results, which include information from the Catalog Item source which isn't selected, can't find search results and so can't generate Genius Result answers.
 
-**Note:** The [[now-assist-multi-content-qna-genius-results|Now Assist Multi-Content Response Genius Results]] configuration \(from the Now Assist in AI Search [[servicenow-store|ServiceNow Store]] application\) includes information from multiple sources, so it can generate Genius Result answers no matter which source is selected. To learn more about Now Assist Multi-Content Response Genius Results, see [Now Assist Multi-Content Response Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/now-assist-multi-content-qna-genius-results.md).
+**Note:** The Now Assist Multi-Content Response Genius Results configuration \(from the Now Assist in AI Search ServiceNow Store application\) includes information from multiple sources, so it can generate Genius Result answers no matter which source is selected. To learn more about Now Assist Multi-Content Response Genius Results, see [Now Assist Multi-Content Response Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/now-assist-multi-content-qna-genius-results.md).
 
 </td></tr><tr><td>
 
@@ -188,18 +188,3 @@ Option to display search result counts for facets on the search application's re
 </td></tr></tbody>
 </table>**Parent Topic:**[AI Search reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/reference-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[c_ZingTextSearch|Zing text indexing and search engine]]
-- [[reference-email-admin|Reference]]
-- [[hs-results|Results]]
-- [[r_DirectJDBCProbeParameters|Parameters]]
-- [[genius-results-ais|Genius Results]]
-- [[now-assist-ais|Now Assist in AI Search]]
-- [[typo-handling-ais|Typo handling]]
-- [[clone-configurations-tab|Configurations]]
-- [[genius-result-q-a-ais|Q&amp;A Genius Results]]
-- [[genius-result-catalog-item-ais|Catalog Item Genius Results]]
-- [[now-assist-multi-content-qna-genius-results|Now Assist Multi-Content Response Genius Results]]
-- [[servicenow-store|ServiceNow Store]]

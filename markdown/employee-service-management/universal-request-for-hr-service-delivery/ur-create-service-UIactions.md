@@ -14,7 +14,7 @@ breadcrumb: [Configure service to use Universal Request, Setting up and configur
 
 # Create service specific UI actions
 
-Create a UI action or modify an existing one to enable your service to create department tickets under a [[ur-landing-limitedaccess|universal request]].
+Create a UI action or modify an existing one to enable your service to create department tickets under a universal request.
 
 ## Before you begin
 
@@ -45,6 +45,3 @@ To perform this action, you must create a UI action for your service.
 
 **Parent Topic:**[Configure service to use Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/config-service-for-ur.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]

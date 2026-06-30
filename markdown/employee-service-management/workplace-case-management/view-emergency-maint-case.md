@@ -20,10 +20,10 @@ Workplace Event planners can view the emergency maintenance case details and the
 
 The following applications should be installed:
 
--   [[workplace-safety-mgmt-hr|Workplace Core]]
--   [[workplace-case-mgmt-feat|Workplace Case Management]]
--   [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
--   [[workplace-concierge-feat|Workplace Concierge]]
+-   Workplace Core
+-   Workplace Case Management
+-   Workplace Reservation Management
+-   Workplace Concierge
 
 Role required: sn\_wsd\_rsv.reservation\_planner, sn\_wsd\_case.case\_writer
 
@@ -35,7 +35,7 @@ Role required: sn\_wsd\_rsv.reservation\_planner, sn\_wsd\_case.case\_writer
 
     When an emergency maintenance request is submitted, a workplace case is created. For more information about the emergency maintenance request, see [Submit an emergency maintenance request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/submit-emergency-maint-request.md).
 
-    The change event request workplace case is automatically assigned to the Workplace [[event-planner|Event Planner]] assignment group. It is then assigned manually to a user in the Workplace Event Planners assignment group. When it is assigned to a Workplace Event Planner, AI agentic workflow Manage temporary space closures is triggered. AI agents block a location for maintenance and move any impacted reservations from the blocked location to an available new location. For more information, see [Manage temporary space closures agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/maintenance-meeting-room-agent-ai.md).
+    The change event request workplace case is automatically assigned to the Workplace Event Planner assignment group. It is then assigned manually to a user in the Workplace Event Planners assignment group. When it is assigned to a Workplace Event Planner, AI agentic workflow Manage temporary space closures is triggered. AI agents block a location for maintenance and move any impacted reservations from the blocked location to an available new location. For more information, see [Manage temporary space closures agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/maintenance-meeting-room-agent-ai.md).
 
     Event planners can review the notifications sent by AI agents in the Now Assist panel. AI agents notifies Workplace Event Planners about actions taken through case resolution and case summarization notes in the conversational interface. For more information, see [Review notifications in the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/agentic-workflow-notifications-nowassist.md).
 
@@ -45,7 +45,7 @@ Role required: sn\_wsd\_rsv.reservation\_planner, sn\_wsd\_case.case\_writer
 
 3.  Scroll down and select the Comments and Work Notes section.
 
-    The emergency maintenance case activities are also added to the work notes of a case. Workplace Event planners can review the work notes to understand the activities performed by AI agents. Review the [[activity-lxp|activity]] log and resolution notes provided by AI agents for an emergency maintenance case.
+    The emergency maintenance case activities are also added to the work notes of a case. Workplace Event planners can review the work notes to understand the activities performed by AI agents. Review the activity log and resolution notes provided by AI agents for an emergency maintenance case.
 
     \[Omitted image "wsd-case-comments-notes.png"\] Alt text: Comments and Work notes section showing the emergency maintenance case activity log and resolution notes.
 
@@ -81,11 +81,3 @@ Role required: sn\_wsd\_rsv.reservation\_planner, sn\_wsd\_case.case\_writer
 
 [Managing print cases]()
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-concierge-feat|Workplace Concierge]]
-- [[event-planner|Event Planner]]
-- [[activity-lxp|Activity]]

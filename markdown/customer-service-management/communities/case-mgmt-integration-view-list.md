@@ -38,7 +38,7 @@ This page displays questions from the forums to which the user has access.
     -   Sort by the question status: all, solved, unsolved, or unreplied
 3.  To create a case from one of the questions in the list, select a question to open the question page.
 
-4.  Select the overflow icon \(**...**\) and then select **Create Case** to open a Create [[r_CustomerServiceCaseForm|Case form]].
+4.  Select the overflow icon \(**...**\) and then select **Create Case** to open a Create Case form.
 
     The **Create Case** action is available if a case has not yet been created from a question. Once a case has been created, this action is no longer available.
 
@@ -94,6 +94,3 @@ This page displays questions from the forums to which the user has access.
 
 [Gamification]()
 
-## Related
-
-- [[r_CustomerServiceCaseForm|Case form]]

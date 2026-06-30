@@ -29,12 +29,9 @@ For more information, see [Enable chat access for guest users](https://raw.githu
 As a guest user, you can import chat only if you are present in the allowed-domain but you can initiate a chat. A tag with the label **External** appears by your name to indicate that you are a guest user and not present in the allowed-domain. For more information, see [Add or invite people outside your Teams org to a chat](https://support.microsoft.com/en-us/office/add-or-invite-people-outside-your-teams-org-to-a-chat-6897ab47-9f60-4db6-8b95-18599714fe57).
 
 -   **[Start a Microsoft Teams chat as a guest user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/start-chat-as-guest-user.md)**  
-[[start-chat-as-guest-user|Start a Microsoft Teams chat as a guest user]] with an external organization user.
+Start a Microsoft Teams chat as a guest user with an external organization user.
 -   **[Import a Microsoft Teams chat as a guest user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/import-chat-as-guest-user.md)**  
 Import your Microsoft Teams chat with an external organization user as a guest user.
 
 **Parent Topic:**[Agent actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/agent-sn-ms-teams.md)
 
-## Related
-
-- [[start-chat-as-guest-user|Start a Microsoft Teams chat as a guest user]]

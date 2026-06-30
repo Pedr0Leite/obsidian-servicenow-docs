@@ -14,7 +14,7 @@ breadcrumb: [Setting up Major Incident Management in Service Operations Workspac
 
 # Activate Major Incident Management in Service Operations Workspace
 
-Activate the Major [[c_IncidentManagement|Incident Management]] \(app-sow-mim\) plugin in Service Operations Workspace using Admin Center.
+Activate the Major Incident Management \(app-sow-mim\) plugin in Service Operations Workspace using Admin Center.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-Activating this plugin enables the **Major incident** button on incident records in Service Operations Workspace and unlocks the major incident management workflow, including the [[major-incident-workbench|major incident workbench]], communication plans and post-incident review.
+Activating this plugin enables the **Major incident** button on incident records in Service Operations Workspace and unlocks the major incident management workflow, including the major incident workbench, communication plans and post-incident review.
 
 ## Procedure
 
@@ -37,7 +37,3 @@ Activating this plugin enables the **Major incident** button on incident records
 
 After Major Incident Management has been activated, you can configure the available features by selecting the Configure option, which redirects you to the **Configuration** tab of the Admin Center. For more information, see [Configuring Major Incident Management in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configuring-mim-in-sow.md).
 
-## Related
-
-- [[c_IncidentManagement|Incident Management]]
-- [[major-incident-workbench|Major incident workbench]]

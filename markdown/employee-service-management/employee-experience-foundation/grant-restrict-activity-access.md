@@ -14,7 +14,7 @@ breadcrumb: [My active items widget configuration, Setup task management, Config
 
 # Restrict access to an activity
 
-Apply user criteria to an [[activity-lxp|activity]] to define which users, groups, and roles can access the activity.
+Apply user criteria to an activity to define which users, groups, and roles can access the activity.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ In the My active items widget, the activity that a user does not have access to 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Activity Configuration**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **Activity Configuration**.
 
     The Activity Configurations module displays the list of existing activity configurations.
 
@@ -66,8 +66,3 @@ Do this
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[activity-lxp|Activity]]
-- [[employee-center-landing-page|Employee Center]]

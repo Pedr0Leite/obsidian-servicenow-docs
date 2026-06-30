@@ -15,14 +15,14 @@ breadcrumb: [Configure, External Content Connectors, Search administration, Conf
 
 # Microsoft OneDrive external content connector
 
-The Microsoft OneDrive external content connector retrieves files from individual drives in your Microsoft OneDrive source system and makes their content and metadata searchable in [[ia-ai-search|AI Search]] applications.
+The Microsoft OneDrive external content connector retrieves files from individual drives in your Microsoft OneDrive source system and makes their content and metadata searchable in AI Search applications.
 
 Connector administrators can run or schedule content crawls to retrieve updated content and access permissions from your source system, or user permission crawls to retrieve updated security principals from your source system. Both types of crawl feed their data to AI Search for indexing.
 
 The indexed content and metadata are stored as records in a connector-specific indexed source. Search administrators can create search sources from this indexed source and link them to search profiles to make the indexed records searchable in AI Search applications.
 
 -   **[Create a public/private key pair for the Microsoft OneDrive external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/gen-cert-msod-ext-cont-connector.md)**  
-Generate a public/private key pair for the Microsoft OneDrive external content connector. Extract the public key as a DER-encoded binary X.509 format certificate for use in configuring API access for the connector in the Microsoft Entra [[admin-center-intro|admin center]].
+Generate a public/private key pair for the Microsoft OneDrive external content connector. Extract the public key as a DER-encoded binary X.509 format certificate for use in configuring API access for the connector in the Microsoft Entra admin center.
 -   **[Configure Microsoft OneDrive for external content indexing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/configure-microsoft-onedrive-external-content-indexing.md)**  
 Register an OAuth 2.0 application in the Microsoft Entra admin center to allow the Microsoft OneDrive external content connector to access your Microsoft OneDrive source system.
 -   **[Create a Microsoft OneDrive external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/create-ext-cont-connector-microsoft-onedrive.md)**  
@@ -39,7 +39,3 @@ Specify the individual drives you want your Microsoft OneDrive external content 
 
 [Create a user permission crawl for an external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/create-user-mapping-crawl-external-content-connector.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[admin-center-intro|Admin Center]]

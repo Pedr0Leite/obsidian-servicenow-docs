@@ -12,7 +12,7 @@ breadcrumb: [Survey questions, Survey administration, Use surveys, Surveys, Asse
 
 # Add a metric category and metric in the question bank for surveys
 
-Reuse the question categories \(metric categories\) and questions \(metrics\) added in the question bank for [[r_SurveyManagementLandingPage|surveys]]. You can add metric categories or metrics from the question bank to a survey, or from the survey to a question bank.
+Reuse the question categories \(metric categories\) and questions \(metrics\) added in the question bank for surveys. You can add metric categories or metrics from the question bank to a survey, or from the survey to a question bank.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Activate the Survey Question Bank Sample Data plugin \(com.snc.question\_bank\_d
 
 2.  Click **New**.
 
-3.  On the [[metric-category-form|Metric Category form]], fill in the fields.
+3.  On the Metric Category form, fill in the fields.
 
     |Field|Description|
     |-----|-----------|
@@ -36,19 +36,19 @@ Activate the Survey Question Bank Sample Data plugin \(com.snc.question\_bank\_d
 
 4.  Right-click on the title bar and click **Save**.
 
-5.  In the [[c_AssessmentMetrics|Assessment Metrics]] related list, click **New**.
+5.  In the Assessment Metrics related list, click **New**.
 
-6.  In the [[survey-question-form|Survey Question form]], fill the fields.
+6.  In the Survey Question form, fill the fields.
 
-    For information on these fields, see [[t_CreateOrModifySurveyQuestions|Create or modify survey questions]].
+    For information on these fields, see [Create or modify survey questions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateOrModifySurveyQuestions.md).
 
 7.  Click **Submit**.
 
 
--   **[[configure-questionbank-survey|Configure metric categories or metrics for a survey using the question bank]]**  
+-   **[Configure metric categories or metrics for a survey using the question bank](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configure-questionbank-survey.md)**  
 Reuse question categories \(metric categories\) and questions \(metrics\) from the **Question Bank** module while creating or updating a survey.
 
-**Parent Topic:**[[c_SurveyQuestion|Survey questions]]
+**Parent Topic:**[Survey questions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyQuestion.md)
 
 **Related topics**  
 
@@ -63,12 +63,3 @@ Reuse question categories \(metric categories\) and questions \(metrics\) from t
 
 [Change the order of survey questions]()
 
-## Related
-
-- [[t_CreateOrModifySurveyQuestions|Create or modify survey questions]]
-- [[configure-questionbank-survey|Configure metric categories or metrics for a survey using the question bank]]
-- [[c_SurveyQuestion|Survey questions]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[metric-category-form|Metric Category form]]
-- [[c_AssessmentMetrics|Assessment metrics]]
-- [[survey-question-form|Survey Question form]]

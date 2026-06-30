@@ -14,7 +14,7 @@ breadcrumb: [Interaction Management, Using Source-to-Pay Workspace, Use, Supplie
 
 # View or create an interaction for a supplier
 
-Typically, an interaction record is automatically created when you accept a chat through the chat queue in the [[purch-order-mgmt-ws|Source-to-Pay Workspace]]. However, you can also manually create an interaction from the list page of the Source-to-Pay Workspace. You can link an interaction record to an existing [[supplier|supplier]] case or can assign a task, which needs a supplier manager's involvement for investigation.
+Typically, an interaction record is automatically created when you accept a chat through the chat queue in the Source-to-Pay Workspace. However, you can also manually create an interaction from the list page of the Source-to-Pay Workspace. You can link an interaction record to an existing supplier case or can assign a task, which needs a supplier manager's involvement for investigation.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_slm.owner
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **Source-to-Pay Workspace**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
 2.  Select the list icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon.\) to open the List page.
 
@@ -76,7 +76,7 @@ Supplier
 
 </td><td>
 
-Name of the supplier company the [[supplier-contact|supplier contact]] belongs to.
+Name of the supplier company the supplier contact belongs to.
 
 </td></tr><tr><td>
 
@@ -103,7 +103,7 @@ Work notes
 Additional information or comments added to the interaction.
 
 </td></tr></tbody>
-</table>6.  Select **Save**.\[Omitted image "create-interaction.png"\] Alt text: Selected button to save the [[details-tab-fin-ops-interaction|Interaction form]].
+</table>6.  Select **Save**.\[Omitted image "create-interaction.png"\] Alt text: Selected button to save the Interaction form.
 
 
 ## Result
@@ -119,10 +119,3 @@ The interaction record is created and linked to an existing supplier case or tas
 
 [Associate an interaction record to a supplier case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supplier|Supplier]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[supplier-contact|Supplier contact]]
-- [[details-tab-fin-ops-interaction|Interaction form]]

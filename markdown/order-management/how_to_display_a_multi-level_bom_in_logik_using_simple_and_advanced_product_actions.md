@@ -30,7 +30,7 @@ Image 2: Multi-BOM expanded to display all sub-products in the BOM:
 
 ## Configuration
 
-To begin building a bill of materials, navigate to the [[rules_101|Rules]] section of your CPQ interface and build a new rule. In your rule, add a new product action. From here, add the products as you normally would when building a product action.
+To begin building a bill of materials, navigate to the Rules section of your CPQ interface and build a new rule. In your rule, add a new product action. From here, add the products as you normally would when building a product action.
 
 1.  Add a simple product action rule.
 2.  Add your product list in order, as you would for a basic BOM.
@@ -54,6 +54,3 @@ When you have many products that require scripted configuration, you can use the
 
 \[Omitted image "cpq-multilevel-bom-advanced-2.png"\] Alt text: Advanced function
 
-## Related
-
-- [[rules_101|Rules]]

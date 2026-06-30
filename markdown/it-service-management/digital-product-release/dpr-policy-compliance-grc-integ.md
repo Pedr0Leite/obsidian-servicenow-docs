@@ -15,7 +15,7 @@ breadcrumb: [Explore, Digital Product Release, IT Service Management]
 
 # DPR and GRC integration for release compliance
 
-The integration between [[dpr-landing-page|Digital Product Release]] \(DPR\) and ServiceNow® GRC: Policy and Compliance Management connects your [[c_ITILReleaseManagement|release management]] processes with the enterprise risk and compliance controls. This integration helps you deliver faster, safer, and reliable releases.
+The integration between Digital Product Release \(DPR\) and ServiceNow® GRC: Policy and Compliance Management connects your release management processes with the enterprise risk and compliance controls. This integration helps you deliver faster, safer, and reliable releases.
 
 Starting with Digital Product Release version 2.3, the DPR integration with GRC: Policy and Compliance Management unifies release management with the organization's risk and compliance operations. This compliance-driven, risk-aware approach automates compliance validation, helping you deliver releases faster and more safely while reducing manual effort.
 
@@ -55,7 +55,7 @@ For more information, see [Manage control objectives and policies using the Comp
 
 </td></tr><tr><td>
 
-2. In the [[dpr-workspace|Digital Product Release Workspace]], the product manager, release admin, or release coordinator maps policies with a phase of a release.
+2. In the Digital Product Release Workspace, the product manager, release admin, or release coordinator maps policies with a phase of a release.
 
 </td><td>
 
@@ -106,8 +106,3 @@ The policy execution status is listed in the **PaCE results** tab in the newly c
 </td></tr></tbody>
 </table>**Parent Topic:**[Exploring Digital Product Release](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-exploring-digital-product-release.md)
 
-## Related
-
-- [[dpr-landing-page|Digital Product Release]]
-- [[c_ITILReleaseManagement|Release Management]]
-- [[dpr-workspace|Digital Product Release Workspace]]

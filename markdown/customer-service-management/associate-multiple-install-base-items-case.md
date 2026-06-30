@@ -12,7 +12,7 @@ breadcrumb: [Install base items, Configure install base, Configure product data,
 
 # Associate multiple install base items to a case
 
-In the [[c_CustomerServiceManagement|Customer Service Management]] application, you can associate one or more related [[install-base-item|install base items]] to a case to access all items associated with the parent install base item.
+In the Customer Service Management application, you can associate one or more related install base items to a case to access all items associated with the parent install base item.
 
 ## Before you begin
 
@@ -34,7 +34,4 @@ Role required: sn\_customerservice\_manager and admin
 
 6.  Select **Save**.
 
-## Related
 
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[install-base-item|Install base items]]

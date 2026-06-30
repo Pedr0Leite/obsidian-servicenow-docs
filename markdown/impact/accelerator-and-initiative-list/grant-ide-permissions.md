@@ -18,7 +18,7 @@ Review and approve Initiative and Accelerator activities access using **Manage P
 
 ## About this task
 
-If you have pending [[impact-initiatives|Initiatives and Accelerators]] that require permissions to be granted, a message displays on the [[impact-landing-page|Impact]] homepage that directs you to **Manage Permissions**.
+If you have pending Initiatives and Accelerators that require permissions to be granted, a message displays on the Impact homepage that directs you to **Manage Permissions**.
 
 \[Omitted image "permissions-manager-pending.png"\] Alt text: Banner linking to Manage Permissions on the Impact homepage.
 
@@ -76,7 +76,7 @@ A requested Initiative or Accelerator has been declined and may not be started
 </td></tr></tbody>
 </table>## Restricted and protected environments
 
-As part of our mission to continually deliver the best customer experience and as part of the evolution of the [[impact-packages1|Impact packages]], certain Impact deliverables, Impact Accelerators, or other Impact components require supplemental terms and conditions because of the manner in which they operate.
+As part of our mission to continually deliver the best customer experience and as part of the evolution of the Impact packages, certain Impact deliverables, Impact Accelerators, or other Impact components require supplemental terms and conditions because of the manner in which they operate.
 
 -   **U.S. Public Sector \(USPS\)**
 
@@ -116,8 +116,4 @@ Role required: Impact Permissions Authorizer
 
     The option to **Start Initiative** becomes available.\[Omitted image "permissions-yes.png"\] Alt text: Impact Accelerator granted permissions
 
-## Related
 
-- [[impact-initiatives|Initiatives and Accelerators]]
-- [[impact-landing-page|Impact]]
-- [[impact-packages1|Impact Packages]]

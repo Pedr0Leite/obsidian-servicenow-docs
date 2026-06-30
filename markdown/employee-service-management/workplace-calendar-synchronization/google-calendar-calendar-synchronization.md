@@ -14,7 +14,7 @@ breadcrumb: [Setup Workplace Calendar Synchronization, Configure, Workplace Cale
 
 # Google Calendar - Calendar synchronization
 
-Create a connection with Google Calendar and synchronize reservations made using the [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] application. You can synchronize all the reservations that are made using the Workplace Reservation Management to the Google Calendar and vice versa.
+Create a connection with Google Calendar and synchronize reservations made using the Workplace Reservation Management application. You can synchronize all the reservations that are made using the Workplace Reservation Management to the Google Calendar and vice versa.
 
 The reservation synchronization from a Google Calendar to the Workplace Reservation Management is performed using various approaches like events, and occurrences.
 
@@ -40,7 +40,7 @@ The reservation synchronization from the Google Calendar to Reservation portal i
 
 The scheduled job, **WSDRS Sync Calendar items**, is provided with the application to get the latest changes for all the active reservable sync configurations. The scheduled job is set to **False** by default and it must be enabled to start synchronizing. By default, the scheduled job is set to run for every five minutes. However, you can set the scheduled job time as you want. At any time, you can also manually execute it.
 
-An approach called, Delta synchronization is used by the [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]] application. With Delta synchronization, you retrieve only the incremental changes made on a resource email id of the calendar using a [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] point called as synchronization token. That is, for each room \(each reservable sync record\), linked to the on-premises calendar provider you get the synchronization tokens, which are the reference points to get the update from the calendar in increments.
+An approach called, Delta synchronization is used by the Workplace Calendar Synchronization application. With Delta synchronization, you retrieve only the incremental changes made on a resource email id of the calendar using a reference point called as synchronization token. That is, for each room \(each reservable sync record\), linked to the on-premises calendar provider you get the synchronization tokens, which are the reference points to get the update from the calendar in increments.
 
 -   Based on the **Page size**, **Sync batch size** and the **Sync batch interval**, the information is retrieved by the synchronization tokens. For example, if you specified the values as **5**, **500**, and **60** respectively \(in the previous fields\). It means that you can raise 500 requests in an interval of 60 seconds. The synchronization results five changes in a page.
 -   When you create a reservable sync configuration record under the Google calendar, you must ensure that it is activated.
@@ -57,7 +57,7 @@ An approach called, Delta synchronization is used by the [[workplace-calendar-sy
 he Workplace Calendar Synchronization enables you to also synchronize reservations made in the past. You can specify the date and time range in the **Sync start date time** and **Sync end date time** fields. For the on-premises calendar, the following conditions must be met to sync past reservations:
 
 -   The calendar provider that is the Google Calendar calendar provider that you configured must be active.
--   The **[[sync-past-reservation|Synchronize past reservations]]** field must be selected.
+-   The **Synchronize past reservations** field must be selected.
 -   The reservable sync configuration for which you want to sync past reservations must be active.
 
     **Note:** After you enable the **Synchronize past reservations**, you must navigate to the locations of each reservable sync configuration record and select **Sync Location**.
@@ -67,9 +67,3 @@ he Workplace Calendar Synchronization enables you to also synchronize reservatio
 
 No request is a mechanism to validate the generated syntax of the payload of an event created for the calendar. But, instead of sending the event to the calendar provider, it is only created. The admin can validate the payload content of the event \(JSON\) to ensure that is generated as expected. 'No request' ensures that the application does not make any API calls to the calendar provider when you create, update, or cancel a reservation in the Workplace Reservation Management application.
 
-## Related
-
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[sync-past-reservation|Synchronize past reservations]]

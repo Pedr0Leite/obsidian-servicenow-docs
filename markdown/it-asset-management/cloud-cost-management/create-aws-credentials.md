@@ -75,8 +75,5 @@ You might instead prefer to create a policy or combine multiple policies to gran
 
 ## What to do next
 
-Create a record of the AWS credentials in [[cloud-insights-landing-page|Cloud Cost Management]].
+Create a record of the AWS credentials in Cloud Cost Management.
 
-## Related
-
-- [[cloud-insights-landing-page|Cloud Cost Management]]

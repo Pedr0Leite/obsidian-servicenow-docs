@@ -14,7 +14,7 @@ breadcrumb: [Activate content packs, Activate, Process Mining, Platform Analytic
 
 # Content pack for Telecommunications orders
 
-Using the [[process-mining|Process Mining]] content pack for Order Management for Telecommunications and Media enables you to analyze processes relevant to your KPIs, and identify bottlenecks associated with Telecommunications orders.
+Using the Process Mining content pack for Order Management for Telecommunications and Media enables you to analyze processes relevant to your KPIs, and identify bottlenecks associated with Telecommunications orders.
 
 For information about enabling the Process Mining for Telecommunications, see [Activate content packs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/activate-po-content-pack.md).
 
@@ -79,6 +79,3 @@ You can analyze the case process flow and suggest ways to improve the processes 
 
 [Content pack for Telecommunications orders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/integration-with-telecommunications-orders.md)
 
-## Related
-
-- [[process-mining|Process Mining]]

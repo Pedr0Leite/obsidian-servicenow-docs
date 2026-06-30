@@ -14,7 +14,7 @@ breadcrumb: [Verify expected results for RISKIQ SSL certificate lookups, RISKIQ 
 
 # RISKIQ SSL certificate lookups that return multiple certificates or no certificates
 
-A security incident analyst can use multiple SSL certificate results to determine whether a site is part of a common, recognizable entity. No SSL certificate results may indicate sites with obscure or suspicious names have no trusted certificates. Lookup results for [[c_Observables|observables]] that don't return SSL certificates, or that return multiple SSL certificates, are displayed on the [[tisc-observable-enrichment|Observable Enrichment]] Results tab on the security incident record.
+A security incident analyst can use multiple SSL certificate results to determine whether a site is part of a common, recognizable entity. No SSL certificate results may indicate sites with obscure or suspicious names have no trusted certificates. Lookup results for observables that don't return SSL certificates, or that return multiple SSL certificates, are displayed on the Observable Enrichment Results tab on the security incident record.
 
 ## No SSL certificate results or multiple SSL certificate results
 
@@ -41,7 +41,3 @@ Follow the steps to view the results for observables that do not return SSL cert
 
 **Parent Topic:**[Verify expected results for RISKIQ SSL certificate lookups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/verify-expected-rslts-for-riskiq.md)
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[tisc-observable-enrichment|Observable Enrichment]]

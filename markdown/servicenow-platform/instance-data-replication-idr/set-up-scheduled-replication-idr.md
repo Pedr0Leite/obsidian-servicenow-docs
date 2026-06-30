@@ -14,7 +14,7 @@ breadcrumb: [Replicate data, Instance Data Replication, Manage instance data sou
 
 # Set up scheduled replication
 
-Replicate data from a producer to a consumer at scheduled times each day in [[instance-data-replication|Instance Data Replication]] \(IDR\).
+Replicate data from a producer to a consumer at scheduled times each day in Instance Data Replication \(IDR\).
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Verify that the producer and consumer instances belong to the same customer.
 
 Plan your data replication strategy by reviewing the important considerations described in [Preparing for Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/prepare-instance-data-replication.md).
 
-**Note:** You can only create one [[scheduled-replication|scheduled replication]] sets, with only one outbound entry in that set.
+**Note:** You can only create one scheduled replication sets, with only one outbound entry in that set.
 
 Role required: idr\_admin or admin
 
@@ -87,7 +87,7 @@ Filter
 Filter criteria to control the records in the table that the system is replicating. -   Use the filter to limit the number of records in your replication set. For example, if the table has an **Active** field, add a filter condition like **\[Active\] \[is\] \[True\]** to replicate only active records.
 -   If you want to replicate and preserve a parent and child table hierarchy, add a filter for the sys\_class\_name column to each outbound entry. This ensures that all of the child table columns are replicated, and not just the parent the columns.
 
-For example, to replicate both the Task \[task\] parent table and the Incident \[incident\] child table, you must add **\[Task type\] \[is\] \[Task\]** as a filter in the parent table entry and **\[Task type\] \[is\] \[Incident\]** as a filter in the child table entry. In this example, Task type is the [[label|label]] for the sys\_class\_name column on each table. For details, see [Preserving table hierarchy in Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/preserving-table-hierarchy.md).
+For example, to replicate both the Task \[task\] parent table and the Incident \[incident\] child table, you must add **\[Task type\] \[is\] \[Task\]** as a filter in the parent table entry and **\[Task type\] \[is\] \[Incident\]** as a filter in the child table entry. In this example, Task type is the label for the sys\_class\_name column on each table. For details, see [Preserving table hierarchy in Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/preserving-table-hierarchy.md).
 
 </td></tr><tr><td>
 
@@ -160,13 +160,7 @@ Scheduled replication begins on the scheduled start date and time. Until then, c
 -   Monitor the progress of all scheduled replication sets in the IDR Monitoring Dashboard.
 
 -   **[Cancel scheduled replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/cancel-seeding.md)**  
-[[cancel-seeding|Cancel scheduled replication]] by deactivating or deleting a producer replication set.
+Cancel scheduled replication by deactivating or deleting a producer replication set.
 
 **Parent Topic:**[Replicating data with Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/replicating-data.md)
 
-## Related
-
-- [[instance-data-replication|Instance Data Replication]]
-- [[scheduled-replication|Scheduled replication]]
-- [[label|Label]]
-- [[cancel-seeding|Cancel scheduled replication]]

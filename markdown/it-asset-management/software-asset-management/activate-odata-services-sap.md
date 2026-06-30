@@ -15,7 +15,7 @@ breadcrumb: [Set up SAP integration to establish a connection with SAP, Software
 
 # Activate OData services and assign a system alias
 
-Activate the OData services and assign a system alias to support OAuth 2.0 authentication for integration with the [[c_SoftwareAssetMgmt|Software Asset Management]] application.
+Activate the OData services and assign a system alias to support OAuth 2.0 authentication for integration with the Software Asset Management application.
 
 ## Before you begin
 
@@ -70,6 +70,3 @@ The OData services are active and the LOCAL system alias is assigned as the defa
 
 Create a system user for OAuth authentication. For details, see [Create a system user for OAuth authentication in SAP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-system-user-oauth-sap.md).
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

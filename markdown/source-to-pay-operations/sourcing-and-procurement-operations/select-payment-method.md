@@ -14,7 +14,7 @@ breadcrumb: [Complete your checkout, Using Shopping Hub, Use, Sourcing and Procu
 
 # Select a payment method
 
-You can pay using one of your preferred payment methods or use another [[cost-center|cost center]] to make the payment. You can even pay using multiple cost centers for the various products in your cart.
+You can pay using one of your preferred payment methods or use another cost center to make the payment. You can even pay using multiple cost centers for the various products in your cart.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: sn\_shop.shopper.
 
 1.  On the Checkout page, select **Continue to payment method**.
 
-    \[Omitted image "spo-continue-to-payment.png"\] Alt text: Reviewing items in the [[shopping-cart|shopping cart]] before selecting a payment method.
+    \[Omitted image "spo-continue-to-payment.png"\] Alt text: Reviewing items in the shopping cart before selecting a payment method.
 
     You can also select **Payment method** from the stepper pages to directly go to the page.
 
@@ -46,7 +46,3 @@ As a shopper, you have the option to pay using one of your preferred payment met
 
 **Parent Topic:**[Complete your checkout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/complete-your-checkout.md)
 
-## Related
-
-- [[cost-center|Cost center]]
-- [[shopping-cart|Shopping cart]]

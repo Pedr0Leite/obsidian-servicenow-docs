@@ -12,7 +12,7 @@ breadcrumb: [Threat Lookup Finding Calculators, Threat Intelligence administrati
 
 # Using Threat Lookup Finding Calculators
 
-Use the [[tisc-threat-lookup|Threat Lookup]] Finding Calculator to calculate the observable findings for your integration.
+Use the Threat Lookup Finding Calculator to calculate the observable findings for your integration.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_ti.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[threat-intel-landing-page|Threat Intelligence]]** &gt; **Administration** &gt; **[[threat-lookup-finding-calculators|Threat Lookup Finding Calculators]]**.
+1.  Navigate to **All** &gt; **Threat Intelligence** &gt; **Administration** &gt; **Threat Lookup Finding Calculators**.
 
 2.  Click **New**.
 
@@ -29,14 +29,9 @@ Role required: sn\_ti.admin
     |Field|Description|
     |-----|-----------|
     |**Threat Lookup vendor**|Name of the threat look-up vendor.|
-    |**Observable Type**|Specify the classification of the observable type to which the script applies. For example, IP address or file hash, and so on. The script applies to all [[c_Observables|observables]] if you do not select any observable type.|
+    |**Observable Type**|Specify the classification of the observable type to which the script applies. For example, IP address or file hash, and so on. The script applies to all observables if you do not select any observable type.|
     |**Finding Script**|Script editor to determine how you want to identify the various observable findings. The Threat Lookup Finding Calculator contains a sample script with the base system. You can use this script to determine the observable findings, or you can modify this script according to your requirements.|
 
 4.  Click **Update**.
 
-## Related
 
-- [[tisc-threat-lookup|Threat Lookup]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[threat-lookup-finding-calculators|Threat Lookup Finding Calculators]]
-- [[c_Observables|Observables]]

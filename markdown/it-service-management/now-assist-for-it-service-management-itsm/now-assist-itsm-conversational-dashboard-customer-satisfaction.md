@@ -21,7 +21,7 @@ Track comprehensive metrics to help you evaluate how well Virtual Agent and live
 
 ## Track metrics for the Customer Satisfaction \(CSAT\) analytics - Overview
 
-Analyze CSAT metrics by comparing [[itsm-virtual-agent|ITSM Virtual Agent]] performance against live agents and also analyze customer satisfaction trends over time.
+Analyze CSAT metrics by comparing ITSM Virtual Agent performance against live agents and also analyze customer satisfaction trends over time.
 
 |Example of CSAT metrics|Description|
 |-----------------------|-----------|
@@ -87,6 +87,3 @@ You can drill down into the data by selecting the thumbs-up or thumbs-down icon 
 
 \[Omitted image "now-assist-itsm-va-csat-feedback-drilldown.png"\] Alt text: Number of chat messages that received feedback from different portals
 
-## Related
-
-- [[itsm-virtual-agent|ITSM Virtual Agent]]

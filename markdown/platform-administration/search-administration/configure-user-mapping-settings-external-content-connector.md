@@ -23,7 +23,7 @@ Role required: sn\_ext\_conn.xcc\_admin or admin
 
 ## About this task
 
-User permission crawls for [[ext-cont-connectors-landing-page|external content connectors]] retrieve user security principals from your source system and map them to users in your ServiceNow AI Platform instance. A user security principal from the source system should map to no more than one user in your instance.
+User permission crawls for external content connectors retrieve user security principals from your source system and map them to users in your ServiceNow AI Platform instance. A user security principal from the source system should map to no more than one user in your instance.
 
 Each external content connector specifies a predefined source system field that the connector uses as the unique identifier for user security principals in the source system. As an example, a connector might specify a username or email address field as the principal identifier for its source system. All connectors default to using the email field from the Users \[sys\_user\] table as the unique identifier for users in your ServiceNow AI Platform instance.
 
@@ -47,7 +47,7 @@ If you need to specify a different field as the identifier for source system pri
 
     **Warning:** The system executes your custom script for each user security principal retrieved by the external content connector's user permission crawl. A long-running script can affect performance for the user mapping crawl. Keep your scripts as simple as possible.
 
-    The custom script must include a function that [[c_FieldTransformations|transforms]] the incoming field value for a user from the connector's source system to an output value that will be used to match a user in the ServiceNow AI Platform's User \[sys\_user\] table. Continuing the previous example, you might define this custom script to transform bare usernames into user email addresses in your domain:
+    The custom script must include a function that transforms the incoming field value for a user from the connector's source system to an output value that will be used to match a user in the ServiceNow AI Platform's User \[sys\_user\] table. Continuing the previous example, you might define this custom script to transform bare usernames into user email addresses in your domain:
 
     ```javascript
     /**
@@ -84,7 +84,7 @@ If you need to specify a different field as the identifier for source system pri
 
         The system uses your user permission settings to look for a ServiceNow AI Platform instance user that matches the specified user security principal from the source system. You can interrupt this process and cancel the test by selecting **Cancel** or closing the modal window.
 
-    3.  View the test [[hs-results|results]].
+    3.  View the test results.
 
         -   **Match**
 
@@ -117,8 +117,3 @@ To retrieve updated user permissions from your source system using your modified
 
 **Parent Topic:**[Configuring External Content Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/configuring-ext-cont-connectors.md)
 
-## Related
-
-- [[ext-cont-connectors-landing-page|External Content Connectors]]
-- [[c_FieldTransformations|Transforms]]
-- [[hs-results|Results]]

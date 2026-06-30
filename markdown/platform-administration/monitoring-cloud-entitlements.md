@@ -12,7 +12,7 @@ breadcrumb: [Viewing account-level entitlements, Explore, Subscription Managemen
 
 # Monitoring cloud capacity in Subscription Management
 
-View an account-level summary of your cloud capacity and track usage across all the instances associated with your account in [[subscription-management-landing-page-v2|Subscription Management]].
+View an account-level summary of your cloud capacity and track usage across all the instances associated with your account in Subscription Management.
 
 ## Key benefits
 
@@ -58,7 +58,7 @@ You might have a combination of shared capacity and dedicated cloud capacity. Be
     -   In a shared capacity type, view the total amount of capacity consumed by an instance in the **Used capacity \(TB\)** column. View the amount of capacity initially included in each instance in the **Included capacity column \(TB\)**. View the amount of capacity each instance has consumed beyond its included capacity in the **Used pool capacity \(TB\)** column.
     In some scenarios, data isn't displayed in the **Instances** list.
 
-    -   If data sharing is restricted on an instance, usage data for that instance is hidden. You can disable the restriction by updating the trust configuration on that instance. See [[share-subscription-data|Share subscription data from another instance]].
+    -   If data sharing is restricted on an instance, usage data for that instance is hidden. You can disable the restriction by updating the trust configuration on that instance. See [Share subscription data from another instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/share-subscription-data.md).
     -   Capacity values are displayed only for instances on Xanadu or higher. If an instance appears in the list but isn't on at least Xanadu, the capacity value appears as Not available.
     The sum of all the values in the **Used pool capacity \(TB\)** column equals the value in the Used pool capacity \(TB\) card. Only instances on at least Xanadu are included in the count.
 
@@ -67,10 +67,5 @@ You might have a combination of shared capacity and dedicated cloud capacity. Be
     -   The sum of all the values in **Total purchased pool capacity \(TB\)** column equals the value in the **Total purchased pool capacity \(TB\)** card.
     -   With shared capacity, additional capacity you might receive based on your purchase history appears in the **Subscriptions** list without an end date. The amount of additional capacity you receive can fluctuate depending on your future purchases and renewals of existing subscriptions.
 -   View the tables consuming the most amount of capacity on your current instance by selecting the **Top 10 table view** link.
--   After identifying the tables consuming the most amount of capacity, manage the growth of data on your instance by selecting the **[[c_DataManagement|Data management]] policies** link and reviewing each table's data management policy.
+-   After identifying the tables consuming the most amount of capacity, manage the growth of data on your instance by selecting the **Data management policies** link and reviewing each table's data management policy.
 
-## Related
-
-- [[share-subscription-data|Share subscription data from another instance]]
-- [[subscription-management-landing-page-v2|Subscription Management]]
-- [[c_DataManagement|Data Management]]

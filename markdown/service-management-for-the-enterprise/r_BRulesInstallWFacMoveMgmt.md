@@ -14,7 +14,7 @@ breadcrumb: [Installed with Facilities Move Management, Activate Facilities Move
 
 A business rule is a server-side script that runs when a record is displayed, inserted, updated, deleted, or when a table is queried.
 
-[[c_FacMoveMgmt|Facilities Move Management]] adds the following business rules.
+Facilities Move Management adds the following business rules.
 
 <table id="table_ngl_zwx_dt"><thead><tr><th>
 
@@ -34,7 +34,7 @@ Force Workflow Update
 
 </td><td>
 
-[[c_EnterpriseMove|Enterprise Move]] Request Task\[enterprise\_move\_request\_task\]
+Enterprise Move Request Task\[enterprise\_move\_request\_task\]
 
 </td><td>
 
@@ -269,10 +269,5 @@ Enterprise Move Request Task\[enterprise\_move\_request\_task\]
 Set the state to Assigned when Assigned to is not empty and State is Pending Assignment
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[r_InstallWFacMoveMgmt|Installed with Facilities Move Management]]
+</table>**Parent Topic:**[Installed with Facilities Move Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_InstallWFacMoveMgmt.md)
 
-## Related
-
-- [[r_InstallWFacMoveMgmt|Installed with Facilities Move Management]]
-- [[c_FacMoveMgmt|Facilities move management]]
-- [[c_EnterpriseMove|Enterprise move]]

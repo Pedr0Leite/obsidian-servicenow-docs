@@ -12,13 +12,13 @@ breadcrumb: [Design defined-path desktop actions, AI Desktop Actions, Enable AI 
 
 # Test and activate a desktop action in AI Desktop Actions
 
-Test the desktop action and then activate it so that it’s available as a tool in the [[ai-agent-studio|AI Agent Studio]]. You can add this tool to the AI agents that execute desktop actions in your desktop environment.
+Test the desktop action and then activate it so that it’s available as a tool in the AI Agent Studio. You can add this tool to the AI agents that execute desktop actions in your desktop environment.
 
 ## Before you begin
 
--   Capture your automation steps. For more information, see [[record-with-ai-ad|Automate repetitive tasks by recording steps with AI in AI Desktop Actions]], [[auto-create-desktop-action-ad|Automate repetitive tasks by auto-capturing steps in AI Desktop Actions]], or [[manual-create-desktop-action-ad|Extend a desktop action by manually capturing steps in AI Desktop Actions]].
--   Configure the properties for screens, anchors, and steps. For more information, see [[screen-anchor-and-action-properties-ad|Screen, anchor, and step properties in AI Desktop Actions]].
--   Add desktop action details, such as name, description, and associated applications, and review inputs and outputs. For more information, see [[add-details-desktop-action-ad|Add details to desktop actions in AI Desktop Actions]].
+-   Capture your automation steps. For more information, see [Automate repetitive tasks by recording steps with AI in AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/record-with-ai-ad.md), [Automate repetitive tasks by auto-capturing steps in AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/auto-create-desktop-action-ad.md), or [Extend a desktop action by manually capturing steps in AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/manual-create-desktop-action-ad.md).
+-   Configure the properties for screens, anchors, and steps. For more information, see [Screen, anchor, and step properties in AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/screen-anchor-and-action-properties-ad.md).
+-   Add desktop action details, such as name, description, and associated applications, and review inputs and outputs. For more information, see [Add details to desktop actions in AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/add-details-desktop-action-ad.md).
 
 Role required: sn\_aia.admin
 
@@ -28,7 +28,7 @@ You can test the desktop action before you activate it. You can also test indivi
 
 Execution workspace is launched to run and test the selected screen orthe desktop action.
 
-\[Omitted image "execution-workspace-ad.png"\] Alt text: [[agentic-desktop-landing-page|AI Desktop Actions]] showing the Shipping Management app with fields on a Windows 10 background.
+\[Omitted image "execution-workspace-ad.png"\] Alt text: AI Desktop Actions showing the Shipping Management app with fields on a Windows 10 background.
 
 After you run the test by entering the required inputs manually, test results are shown either for a screen orfor entire desktop action in the Execution workspace. While running tests, if you do not see the Execution workspace coming forth, switch to the Execution workspace manually.
 
@@ -103,24 +103,11 @@ While working on a desktop action, the test values you enter are retained across
     **Note:** After activation, save the desktop action to make it available as a tool in AI Agent Studio.
 
 
-If you get en error that the file size is beyond 10 MB, you can increase the file size in a payload by creating system properties in the ServiceNow instance. For more information, see [[increase-payload-limit-ad|Increase payload limit through system properties]].
+If you get en error that the file size is beyond 10 MB, you can increase the file size in a payload by creating system properties in the ServiceNow instance. For more information, see [Increase payload limit through system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/increase-payload-limit-ad.md).
 
 ## What to do next
 
-[[configure-next-best-action-agent|Create an AI agent]]. For more information, see [[create-ai-agents-ad|Creating AI agents for AI Desktop Actions]].
+Create an AI agent. For more information, see [Creating AI agents for AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/create-ai-agents-ad.md).
 
-Enable AI agents to perform desktop actions by adding desktop actions as tools. For more information, see [[add-desktop-action-ai-agent|Add a defined desktop action tool to an AI agent for desktop and web-based task]].
+Enable AI agents to perform desktop actions by adding desktop actions as tools. For more information, see [Add a defined desktop action tool to an AI agent for desktop and web-based task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/add-desktop-action-ai-agent.md).
 
-## Related
-
-- [[record-with-ai-ad|Automate repetitive tasks by recording steps with AI in AI Desktop Actions]]
-- [[auto-create-desktop-action-ad|Automate repetitive tasks by auto-capturing steps in AI Desktop Actions]]
-- [[manual-create-desktop-action-ad|Extend a desktop action by manually capturing steps in AI Desktop Actions]]
-- [[screen-anchor-and-action-properties-ad|Screen, anchor, and step properties in AI Desktop Actions]]
-- [[add-details-desktop-action-ad|Add details to desktop actions in AI Desktop Actions]]
-- [[increase-payload-limit-ad|Increase payload limit through system properties in AI Desktop Actions]]
-- [[create-ai-agents-ad|Creating AI agents for AI Desktop Actions]]
-- [[add-desktop-action-ai-agent|Add a defined desktop action tool to an AI agent for desktop and web-based task]]
-- [[ai-agent-studio|AI Agent Studio]]
-- [[agentic-desktop-landing-page|AI Desktop Actions]]
-- [[configure-next-best-action-agent|Create an AI agent]]

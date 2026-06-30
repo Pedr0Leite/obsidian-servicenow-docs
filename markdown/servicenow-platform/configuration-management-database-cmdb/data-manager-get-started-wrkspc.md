@@ -14,7 +14,7 @@ breadcrumb: [Administer CMDB Data Manager, CMDB data management, Configuration M
 
 # Get started with CMDB Data Manager
 
-The Data Manager overview page in CMDB Workspaceand in [[sg-workspace|Service Graph Workspace]] provides a dashboard view of Data Manager tasks, and lets you get started in using the CMDB Data Manager.
+The Data Manager overview page in CMDB Workspaceand in Service Graph Workspace provides a dashboard view of Data Manager tasks, and lets you get started in using the CMDB Data Manager.
 
 ## Before you begin
 
@@ -74,6 +74,3 @@ Role required: sn\_cmdb\_admin
 -   [View CMDB Data Manager analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/data-manager-view-analytics-wrkspc.md).
 -   View properties and other settings for CMDB Data Manager by selecting **Settings** in the left navigation pane. For details about the system properties associated with those settings, see [Components related to CMDB Data Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/components-cmdb-data-manager.md).
 
-## Related
-
-- [[sg-workspace|Service Graph Workspace]]

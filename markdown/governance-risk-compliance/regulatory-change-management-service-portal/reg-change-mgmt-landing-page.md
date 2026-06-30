@@ -36,7 +36,7 @@ The ServiceNow® Regulatory Change Management application enables you to check u
 
 </td><td>
 
-[Manage \[Omitted image "bus-manage.svg"\] Alt text: [[manage-regulatory-change-tasks|Manage the regulatory change tasks]] in Compliance Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/manage-tasks-compliance-workspace.md)
+[Manage \[Omitted image "bus-manage.svg"\] Alt text: Manage the regulatory change tasks in Compliance Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/manage-tasks-compliance-workspace.md)
 
 </td><td>
 
@@ -55,6 +55,3 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 -   [Developer training](https://developer.servicenow.com/app.do#!/training/landing)
 -   [Developer documentation](https://developer.servicenow.com/app.do#!/documentation)
 
-## Related
-
-- [[manage-regulatory-change-tasks|Manage the regulatory change tasks]]

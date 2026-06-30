@@ -15,7 +15,7 @@ breadcrumb: [Use generative AI, Now Assist for FSO, Financial Services Operation
 
 # Summarize an insurance customer interaction in Agentic Contact Center for Insurance
 
-Use the Insurance interaction context summary skill in the Interaction page of [[landing-agentic-contact-centre-for-insurance|Agentic Contact Center for Insurance]] to generate an AI-powered summary of a customer's insurance context, recent cases, and the reason for their call so that you can provide faster, more informed service during a live interaction.
+Use the Insurance interaction context summary skill in the Interaction page of Agentic Contact Center for Insurance to generate an AI-powered summary of a customer's insurance context, recent cases, and the reason for their call so that you can provide faster, more informed service during a live interaction.
 
 ## Before you begin
 
@@ -31,7 +31,7 @@ The summary is displayed in the **Relevant details for this call** card in the I
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Accept an inbound call or create an interaction record to open the Interaction page.
 
@@ -60,7 +60,3 @@ To get additional AI-powered assistance during the call, select **Ask Now Assist
 
 [Request AI agent support in the Interaction page for Agentic Contact Center for Insurance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/request-insurance-ai-agent-interaction-workspace.md)
 
-## Related
-
-- [[landing-agentic-contact-centre-for-insurance|Agentic Contact Center for Insurance]]
-- [[fso-overview|Financial Services]]

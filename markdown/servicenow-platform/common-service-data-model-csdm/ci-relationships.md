@@ -14,7 +14,7 @@ breadcrumb: [Reference, CSDM, Configuration Management, Extend ServiceNow AI Pla
 
 # CI relationships in the CSDM
 
-For [[manage-cmdb|configuration management]] to be most effective, establish relationships between the objects and CIs in the conceptual CSDM.
+For configuration management to be most effective, establish relationships between the objects and CIs in the conceptual CSDM.
 
 ## Required CSDM relationships
 
@@ -28,11 +28,11 @@ For [[manage-cmdb|configuration management]] to be most effective, establish rel
 
 \[Omitted image "csdm-ci-relationships.png"\] Alt text: CSDM relationships.
 
-**Note:** Business services and Technology management services [[c_Connect|connect]] to the spm\_service\_portfolio through the spm\_taxonomy\_node. See [Service Portfolio Management taxonomy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/SPM2-taxonomy.md).
+**Note:** Business services and Technology management services connect to the spm\_service\_portfolio through the spm\_taxonomy\_node. See [Service Portfolio Management taxonomy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/SPM2-taxonomy.md).
 
 ## Resources in the ServiceNow Community
 
-For an extended explanation of the business application [[reference|reference]] attribute's role in managing platforms from a CSDM perspective, [see this article](https://www.servicenow.com/community/common-service-data-model-forum/mapping-business-application-to-business-application-in-csdm/m-p/337115) in the ServiceNow community.
+For an extended explanation of the business application reference attribute's role in managing platforms from a CSDM perspective, [see this article](https://www.servicenow.com/community/common-service-data-model-forum/mapping-business-application-to-business-application-in-csdm/m-p/337115) in the ServiceNow community.
 
 [Playlist of all CSDM videos](https://www.youtube.com/playlist?list=PLkGSnjw5y2U7QNr9jL6TAgwQvYBI_LEtK)
 
@@ -43,8 +43,3 @@ For an extended explanation of the business application [[reference|reference]] 
 
 [CSDM resources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-resources.md)
 
-## Related
-
-- [[manage-cmdb|Configuration Management]]
-- [[c_Connect|Connect]]
-- [[reference|Reference]]

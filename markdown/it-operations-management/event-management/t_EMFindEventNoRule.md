@@ -14,7 +14,7 @@ breadcrumb: [Event rules, Processing Events, Configuring Event Management, Event
 
 # Find events that are not matched to rules
 
-Find events that are not matched to any rules, and determine if it is necessary to create [[create-event-rules|event rules]] to manage them.
+Find events that are not matched to any rules, and determine if it is necessary to create event rules to manage them.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ This task describes how to find events that are not matched to rules.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Rules** &gt; **Event Rules**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Rules** &gt; **Event Rules**.
 
 2.  Near the top of the form, click the link for events or grouped events that are not mapped to rules.
 
@@ -41,7 +41,3 @@ Create an event rule. For example, event rules are useful for managing events th
 
 **Parent Topic:**[Event rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/create-event-rules.md)
 
-## Related
-
-- [[create-event-rules|Event rules]]
-- [[c_EM|Event Management]]

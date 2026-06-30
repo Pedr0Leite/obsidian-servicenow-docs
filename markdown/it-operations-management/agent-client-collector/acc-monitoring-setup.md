@@ -14,7 +14,7 @@ breadcrumb: [Configuring ACC with a MID Server, ACC deployment - servers, Config
 
 # Enable Agent Client Collector monitoring on the MID Server
 
-Enable Agent Client Collector monitoring on the MID Server by configuring the [[acc-landing-page|Agent Client Collector]] framework \(ACC-F\) and [[operational-metrics|Metric Intelligence]] extensions in a single action. Enabling [[acc-monitoring-landing-page|Agent Client Collector monitoring]] also enables monitoring on agents connected to the MID Server.
+Enable Agent Client Collector monitoring on the MID Server by configuring the Agent Client Collector framework \(ACC-F\) and Metric Intelligence extensions in a single action. Enabling Agent Client Collector monitoring also enables monitoring on agents connected to the MID Server.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: evt\_mgmt\_admin
 
 2.  On the MID Server page, select a MID Server to view the MID Server's details.
 
-3.  In the **Related Links** section, select **Setup ACC Monitoring** and enter the relevant port number in the **[[mid-web-server|MID Web Server]] Port** field of the dialog box.
+3.  In the **Related Links** section, select **Setup ACC Monitoring** and enter the relevant port number in the **MID Web Server Port** field of the dialog box.
 
 
 ## Result
@@ -37,9 +37,3 @@ The MID Server is configured to support both the Agent Client Collector and Metr
 
 **Parent Topic:**[Configuring Agent Client Collector with a MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-configuring-with-mid.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[operational-metrics|Metric Intelligence]]
-- [[acc-monitoring-landing-page|Agent Client Collector Monitoring]]
-- [[mid-web-server|MID Web Server]]

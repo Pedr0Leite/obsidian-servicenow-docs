@@ -14,7 +14,7 @@ breadcrumb: [Set up dynamic approval configuration on a policy record, Policy an
 
 # Policy dynamic approval setup
 
-Set up dynamic [[bcm-approval-configuration|approval configuration]] on a policy. Based on the configured approval levels, the [[r_PolicyComplianceMgmt|Policy and Compliance Management]] application configures one or more approval rules on the policy record.
+Set up dynamic approval configuration on a policy. Based on the configured approval levels, the Policy and Compliance Management application configures one or more approval rules on the policy record.
 
 ## Before you begin
 
@@ -57,7 +57,4 @@ A user with the sn\_compliance\_ws.corporate\_compliance\_manager role can creat
 
     If the policy gets rejected at any level, it is reset to the **Draft** state. When all levels are approved, the policy moves to the **Published** state.
 
-## Related
 
-- [[bcm-approval-configuration|Approval configuration]]
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

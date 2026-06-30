@@ -14,7 +14,7 @@ breadcrumb: [Setting up data privacy consent settings for Contact Tracing, Setti
 
 # Modify or add a privacy consent template for Contact Tracing
 
-[[define-privacy-consent-common-template|Modify or add a privacy consent template]] to be used in the location privacy configuration.
+Modify or add a privacy consent template to be used in the location privacy configuration.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_imt\_tracing.admin
 
 ## Procedure
 
-1.  **[[contact-tracing|Contact Tracing]]** &gt; **Privacy** &gt; **Privacy Consent Templates**.
+1.  **Contact Tracing** &gt; **Privacy** &gt; **Privacy Consent Templates**.
 
 2.  Open a **Default Template** record to modify it or click **New** to create one.
 
@@ -43,7 +43,3 @@ Use the privacy consent template to update the privacy statement in the applicab
 
 **Parent Topic:**[Setting up data privacy consent settings for Contact Tracing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/set-up-privacy-consent-settings.md)
 
-## Related
-
-- [[define-privacy-consent-common-template|Modify or add a privacy consent template]]
-- [[contact-tracing|Contact Tracing]]

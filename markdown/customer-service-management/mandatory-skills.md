@@ -26,8 +26,5 @@ Mandatory skills are an optional feature. Mandatory skills can be identified on 
 **Related topics**  
 
 
-[[case-assignment-workbench|Use the assignment workbench]]
+[Use the assignment workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-assignment-workbench.md)
 
-## Related
-
-- [[case-assignment-workbench|Assignment workbench overview]]

@@ -55,17 +55,13 @@ Before you can use Dispute Rules Content Pack for Mastercard, you must first dow
 -   **[Exploring Dispute Rules Content Pack for Mastercard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/exploring-the-dispute-rules-content-pack-for-mastercard.md)**  
 Learn how the Dispute Rules Content Pack for Mastercard application uses dispute mapping to ensure that your organization can properly categorize and process disputes.
 -   **[Install the Dispute Rules Content Pack for Mastercard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/install-the-dispute-rules-content-pack-for-mastercard.md)**  
-If you have the admin role, you can [[install-the-dispute-rules-content-pack-for-mastercard|install the Dispute Rules Content Pack for Mastercard]] application.
+If you have the admin role, you can install the Dispute Rules Content Pack for Mastercard application.
 -   **[Setting up Dispute Rules Content Pack for Mastercard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/configuring-the-dispute-rules-content-pack-for-mastercard.md)**  
 You can set up your implementation of the Dispute Rules Content Pack for Mastercard application by installing the application from the ServiceNow Store.
 -   **[Using the Dispute Rules Content Pack for Mastercard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/using-the-dispute-rules-content-pack-for-mastercard.md)**  
-By [[using-the-dispute-rules-content-pack-for-mastercard|using the Dispute Rules Content Pack for Mastercard]]'s questionnaire, your agents can help customers complete the reason code mapping for their disputes. This mapping enables the agents to categorize the dispute and determine the chargeback eligibility according to the Mastercard Chargeback Guide.
+By using the Dispute Rules Content Pack for Mastercard's questionnaire, your agents can help customers complete the reason code mapping for their disputes. This mapping enables the agents to categorize the dispute and determine the chargeback eligibility according to the Mastercard Chargeback Guide.
 -   **[Dispute Rules Content Pack for Mastercard reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/dispute-rules-content-pack-for-mastercard-reference.md)**  
 Learn about the components and properties that are installed with the Dispute Rules Content Pack for Mastercard application.
 
 **Parent Topic:**[Dispute Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/dispute-management.md)
 
-## Related
-
-- [[install-the-dispute-rules-content-pack-for-mastercard|Install the Dispute Rules Content Pack for Mastercard]]
-- [[using-the-dispute-rules-content-pack-for-mastercard|Using the Dispute Rules Content Pack for Mastercard]]

@@ -14,7 +14,7 @@ breadcrumb: [Task Plan Templates, Case management, Organize agent workspaces, Co
 
 Template items have an available set of actions, including row-level actions that enable users to create new template items and to edit, clone, and delete template items.
 
-The [[task-plan-template-form|Task Plan Template form]] includes a Template Items tab that shows the included template items in a hierarchical view. This view shows the relationship between case tasks, child cases, child case tasks, and other records.
+The Task Plan Template form includes a Template Items tab that shows the included template items in a hierarchical view. This view shows the relationship between case tasks, child cases, child case tasks, and other records.
 
 From the Template Items tab, users can select **New** to create new template items. This action is available when the task plan template is in the Draft state.
 
@@ -79,7 +79,7 @@ New
 
 </td><td>
 
-Select a template item and then select the Conditions tab to display the Template Item Condition list.Select **New** to create a new template item condition. Fill in the fields on the [[task-plan-template-item-condition-form|Template Item Condition form]] and then select **Save**.
+Select a template item and then select the Conditions tab to display the Template Item Condition list.Select **New** to create a new template item condition. Fill in the fields on the Template Item Condition form and then select **Save**.
 
 </td></tr><tr><td>
 
@@ -91,8 +91,3 @@ Select a template item and then select the Conditions tab to display the Templat
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[task-plan-template-form|Task Plan Template form]]
-- [[task-plan-template-item-condition-form|Template item condition form]]

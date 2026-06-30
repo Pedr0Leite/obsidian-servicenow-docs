@@ -34,7 +34,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Allow Ownership for [[ecpro-audience|Audiences]] \(sn\_cd.activate\_audience\_delegation\_controls\)
+Allow Ownership for Audiences \(sn\_cd.activate\_audience\_delegation\_controls\)
 
 </td><td>
 
@@ -75,7 +75,7 @@ Indicates you want to exclude groups or non-applicable content managers \(specif
 </td></tr></tbody>
 </table>|Properties|Description|
 |----------|-----------|
-|sn-cd.activate\_content\_snapshots|Select the checkbox to enable [[ec-content-versioning|Content Versioning]] for the Content Library. See [Content versioning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-versioning.md)|
+|sn-cd.activate\_content\_snapshots|Select the checkbox to enable Content Versioning for the Content Library. See [Content versioning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-versioning.md)|
 
 <table id="table_uxj_qz3_jdb"><thead><tr><th>
 
@@ -199,14 +199,14 @@ Service Portal URL suffix you want to use for portal previews \(sn\_cd.preview.p
 
 </td><td>
 
-The URL suffix of the service portal or [[employee-center-landing-page|Employee Center]] \(EC\) your company uses for portal previews.You can change this system property when you want to preview your content on a different portal.
+The URL suffix of the service portal or Employee Center \(EC\) your company uses for portal previews.You can change this system property when you want to preview your content on a different portal.
 
  Default value: esc
 
 </td></tr></tbody>
 </table>|Properties|Description|
 |----------|-----------|
-|Limits how many [[ec-news-articles|news articles]] are shown in the News widgets \(sn\_cd.content\_page\_limit\)|Sets a maximum of news articles that can appear in any of the news widgets, with a system maximum of 500 articles.|
+|Limits how many news articles are shown in the News widgets \(sn\_cd.content\_page\_limit\)|Sets a maximum of news articles that can appear in any of the news widgets, with a system maximum of 500 articles.|
 |Page ID you want to use for News Center \(sn\_cd.news\_center\_page\_id\)|Defines the landing page for news content. The **News Center** button in the main navigation redirects to this page, as well as breadcrumbs and the Call to action button in the widgets.|
 |Page ID you want to display News articles in \(sn\_cd.news\_article\_page\_id\)|Defines the page where a full news article is viewed. When a user clicks a news article in a News widget, the widget redirects to this page.|
 |Sys ID \(sys\_id\) from the Record Section \(sys\_sg\_item\_section\) table for where news articles will be displayed in the mobile app \(sn\_cd.mobile\_record\_section\)|Defines the section in the mobile app where the news article is viewed.|
@@ -271,9 +271,3 @@ The URL suffix of the service portal or [[employee-center-landing-page|Employee 
 
 [To-do content form]()
 
-## Related
-
-- [[ecpro-audience|Audiences]]
-- [[ec-content-versioning|Content versioning]]
-- [[employee-center-landing-page|Employee Center]]
-- [[ec-news-articles|News articles]]

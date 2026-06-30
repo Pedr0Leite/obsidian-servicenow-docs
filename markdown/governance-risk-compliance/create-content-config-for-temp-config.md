@@ -20,9 +20,9 @@ Role required: sn\_grc\_doc\_design.admin and sn\_bcm.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Business Continuity** &gt; **General [[Administration|Administration]]** &gt; **Template Configurations**.
+1.  Navigate to **All** &gt; **Business Continuity** &gt; **General Administration** &gt; **Template Configurations**.
 
-2.  Open the template for which you want to [[create-content-configurations-action-tasks|create content configurations]].
+2.  Open the template for which you want to create content configurations.
 
 3.  On the Content configurations related list, select **New**.
 
@@ -67,10 +67,5 @@ Role required: sn\_grc\_doc\_design.admin and sn\_bcm.admin
 
 ## What to do next
 
-Create a scripted variable for the report. For more information, see [[create-scripted-vari-for-temp-config|Define the scripted variables]].
+Create a scripted variable for the report. For more information, see [Define the scripted variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-scripted-vari-for-temp-config.md).
 
-## Related
-
-- [[create-scripted-vari-for-temp-config|Define the scripted variables]]
-- [[Administration|Administration]]
-- [[create-content-configurations-action-tasks|Create Content configurations]]

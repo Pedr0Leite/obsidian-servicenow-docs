@@ -14,7 +14,7 @@ breadcrumb: [Using Dispatcher Workspace, Assigning tasks from Dispatcher Workspa
 
 # Customize information on task cards and agent cards
 
-Customize the fields that appear on the task cards and agent cards to display certain information in [[dispatcher-activities|Dispatcher Workspace]].
+Customize the fields that appear on the task cards and agent cards to display certain information in Dispatcher Workspace.
 
 ## Before you begin
 
@@ -45,6 +45,3 @@ On the task cards and agent cards, the administrator has to configure what field
 
 The card reflects the selected fields.
 
-## Related
-
-- [[dispatcher-activities|Dispatcher Workspace]]

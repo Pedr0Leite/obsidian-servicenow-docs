@@ -14,7 +14,7 @@ breadcrumb: [Reclaim hardware assets, Use, Hardware Asset Management, IT Asset M
 
 # Close an asset reclamation request
 
-Efficiently [[manage-asset-reclaim|reclaim hardware assets]] when an employee leaves an organization or moves to a different role.
+Efficiently reclaim hardware assets when an employee leaves an organization or moves to a different role.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: inventory\_user or inventory\_admin
 
 ## About this task
 
-For each reclaimed asset, a Hardware [[reclaim-asset|Asset Reclamation]] Line is created. For each Hardware Asset Reclamation Line, at most three Hardware Asset Reclamation Tasks are created.
+For each reclaimed asset, a Hardware Asset Reclamation Line is created. For each Hardware Asset Reclamation Line, at most three Hardware Asset Reclamation Tasks are created.
 
 You must close all the tasks of a Hardware Asset Reclamation Line to close the Hardware Asset Reclamation Line. After all Hardware Asset Reclamation Lines are closed, the Asset Reclamation Request is closed.
 
@@ -111,7 +111,7 @@ Any additional information that you want to mention.
 
     The **Stage** field of the Hardware Asset Reclamation Line form changes from **Ready** to **Pending received**.
 
-    A [[receive-rma-asset|Receive asset]] task is created in the Hardware Asset Reclamation Line.
+    A Receive asset task is created in the Hardware Asset Reclamation Line.
 
 6.  Open the Receive asset task.
 
@@ -197,8 +197,3 @@ Any additional information that you want to mention.
 
 **Parent Topic:**[Reclaim hardware assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/manage-asset-reclaim.md)
 
-## Related
-
-- [[manage-asset-reclaim|Reclaim hardware assets]]
-- [[reclaim-asset|Asset reclamation]]
-- [[receive-rma-asset|Receive asset]]

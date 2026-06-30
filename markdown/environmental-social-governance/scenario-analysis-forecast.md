@@ -52,26 +52,18 @@ The following example shows a generated comparison graph for two different analy
 
 **Note:** You can select up to five analysis records for comparison. If the selected analysis have adjusted values, those are plotted in the comparison. Otherwise, the standard forecast values are plotted.
 
-**Parent Topic:**[[esg-new-explore|Exploring Operational Sustainability Management \(formerly ESG Management\)]]
+**Parent Topic:**[Exploring Operational Sustainability Management \(formerly ESG Management\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/esg-new-explore.md)
 
 **Related topics**  
 
 
-[[set-up-scenarios|Set up analysis contexts and analyses]]
+[Set up analysis contexts and analyses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/set-up-scenarios.md)
 
-[[create-an-analysis-context|Create an analysis context]]
+[Create an analysis context](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/create-an-analysis-context.md)
 
-[[create-a-scenario-analysis|Create an analysis]]
+[Create an analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/create-a-scenario-analysis.md)
 
-[[create-a-forecast-intervention|Adjust parameters]]
+[Adjust parameters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/create-a-forecast-intervention.md)
 
-[[create-forecast-comparison|Create a forecast comparison graph]]
+[Create a forecast comparison graph](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/create-forecast-comparison.md)
 
-## Related
-
-- [[esg-new-explore|Exploring Operational Sustainability Management \(formerly ESG Management\)]]
-- [[set-up-scenarios|Set up analysis contexts and analyses]]
-- [[create-an-analysis-context|Create an analysis context]]
-- [[create-a-scenario-analysis|Create an analysis]]
-- [[create-a-forecast-intervention|Adjust parameters]]
-- [[create-forecast-comparison|Create a forecast comparison graph]]

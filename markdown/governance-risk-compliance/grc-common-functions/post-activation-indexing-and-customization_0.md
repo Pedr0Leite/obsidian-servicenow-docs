@@ -30,7 +30,7 @@ Indexing can take a couple of minutes to several hours, depending on the volume 
 
 ## Customizing issue definition
 
-The [[issue-submission-ai-agent|report a GRC issue AI agent]] uses a predefined issue definition provided by default in the system. If your organization’s issue definition differs, you can update it in the configuration settings.
+The report a GRC issue AI agent uses a predefined issue definition provided by default in the system. If your organization’s issue definition differs, you can update it in the configuration settings.
 
 The sn\_grc\_context\_definition table holds definitions for all GRC terms, including issues. Updating this table ensures that issue reporting aligns with organizational governance without any additional changes to the agent’s functionality.
 
@@ -41,6 +41,3 @@ The sn\_grc\_context\_definition table holds definitions for all GRC terms, incl
 
 [Report a GRC issue](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/report-a-grc-issue.md)
 
-## Related
-
-- [[issue-submission-ai-agent|Report a GRC issue AI agent]]

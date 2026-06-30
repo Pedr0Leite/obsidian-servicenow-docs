@@ -12,9 +12,9 @@ breadcrumb: [Create a company profile, User interface configuration, Working in 
 
 # Examples of how to modify the banner
 
-There are various ways that you can [[c_ModifyTheBanner|modify the banner]] on your instances.
+There are various ways that you can modify the banner on your instances.
 
-**Note:** From the San Diego release on, [[configure-onboarding-modals|configure]] banner announcements instead of updating **glide.product.description**. For more information, see [[next-experience-banner-announcements|Configure Next Experience banner announcements]].
+**Note:** From the San Diego release on, configure banner announcements instead of updating **glide.product.description**. For more information, see [Configure Next Experience banner announcements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-banner-announcements.md).
 
 ## Label multiple instances differently
 
@@ -66,7 +66,7 @@ background-repeat: ${banner.background.repeat};}
 
 **Note:** The banner image and banner text associated with the primary company or specific companies may be used instead of the **glide.product.image** and **glide.product.description** properties to get the same effect.
 
-**Parent Topic:**[[t_CreateACompanyProfile|Create a company profile]]
+**Parent Topic:**[Create a company profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_CreateACompanyProfile.md)
 
 **Related topics**  
 
@@ -79,9 +79,3 @@ background-repeat: ${banner.background.repeat};}
 
 [Modify the banner]()
 
-## Related
-
-- [[next-experience-banner-announcements|Next Experience banner announcements]]
-- [[t_CreateACompanyProfile|Create a company profile]]
-- [[c_ModifyTheBanner|Modify the banner]]
-- [[configure-onboarding-modals|Configure]]

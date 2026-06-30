@@ -14,7 +14,7 @@ breadcrumb: [Reference, Advanced Work Assignment, Manage people and work, Conver
 
 # Assignment Rule form
 
-When creating or changing an [[awa-application-landing-page|Advanced Work Assignment]] assignment rule, the Assignment Rule form contains the following fields.
+When creating or changing an Advanced Work Assignment assignment rule, the Assignment Rule form contains the following fields.
 
 <table id="table_dkx_dpy_h5b"><thead><tr><th>
 
@@ -63,7 +63,7 @@ Auto-assign handling
 
 </td><td>
 
-[[awa-work-items|Work items]] are automatically accepted without agents having to select **Accept** or **Reject**.-   **Enable auto-assign work items**: Select this option to have work items automatically accepted on behalf of agents. Agents are unable to manually **Accept** or **Reject** work items.
+Work items are automatically accepted without agents having to select **Accept** or **Reject**.-   **Enable auto-assign work items**: Select this option to have work items automatically accepted on behalf of agents. Agents are unable to manually **Accept** or **Reject** work items.
 -   **Display options**: Select one of the following values:
     -   Select **Inbox card** to accept the chat interactions and add them to the agent inbox. Agents can open the accepted interaction from the inbox.
     -   Select **Inbox card and workspace tab** to accept chat interactions and open a tab for each accepted interaction.
@@ -87,7 +87,7 @@ Skill handling
 
 </td><td>
 
-Skill-based [[awa-assignment|work assignments]].-   **Enable skills**: Route work items to agents with the appropriate skills. When selected, the **Evaluate skill level** and **Enforce mandatory skills** check boxes appear cleared.
+Skill-based work assignments.-   **Enable skills**: Route work items to agents with the appropriate skills. When selected, the **Evaluate skill level** and **Enforce mandatory skills** check boxes appear cleared.
 -   **Evaluate skill level**: Route work items to the most qualified agents based on their skill level.
 -   **Enforce mandatory skills**: Route work items to agents with required skills.
 
@@ -120,9 +120,3 @@ This field appears only when the **Add time constraints** option is selected.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[awa-work-items|Work items]]
-- [[awa-assignment|Work assignments]]

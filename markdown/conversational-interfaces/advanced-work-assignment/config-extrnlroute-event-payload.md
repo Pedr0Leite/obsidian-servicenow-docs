@@ -14,7 +14,7 @@ breadcrumb: [Configure, Advanced Work Assignment, Manage people and work, Conver
 
 # Configure External Routing events and payload
 
-Configure [[awa-application-landing-page|Advanced Work Assignment]] with external routing using AWA External Service API for CCaaS and third-party providers to enable them to submit events.
+Configure Advanced Work Assignment with external routing using AWA External Service API for CCaaS and third-party providers to enable them to submit events.
 
 ## Before you begin
 
@@ -78,19 +78,14 @@ Configuring AWA with external routing enables you to consolidate the routing of 
     -   payload script = Contains scriptable APIs.
 8.  Select **Update**.
 
-    The [[ci-use-agent-chat|Agent chat]] queue is configured to the external routing queue.
+    The Agent chat queue is configured to the external routing queue.
 
 
 ## Result
 
-After the configuration, all the incoming chats are routed to the external queue and you can see the list of [[awa-work-items|work items]] sent to the external queue in the Work Items \[awa\_work\_items\] table. You can find the recorded event logs of the subflows associated with the provider in the Flow engine contexts \[sys\_flow\_context\] table.
+After the configuration, all the incoming chats are routed to the external queue and you can see the list of work items sent to the external queue in the Work Items \[awa\_work\_items\] table. You can find the recorded event logs of the subflows associated with the provider in the Flow engine contexts \[sys\_flow\_context\] table.
 
 To view the execution details of the event payload, open an event record from the Flow engine contexts \[sys\_flow\_context\] table and select **Open in Operations View**. You will see the AWA Post External Routing Events flow with the payload.
 
 \[Omitted image "executed-external-routing.png"\] Alt text: Executed external event payload.
 
-## Related
-
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[ci-use-agent-chat|Agent Chat]]
-- [[awa-work-items|Work items]]

@@ -28,23 +28,17 @@ Role required: order\_approver, order\_viewer, sn\_ind\_tmt\_orm.order-fulfillme
 
 4.  Select an order or order line items you want to delete.
 
-    **Note:** If the **PONR** option is selected, the **[[cancel|Cancel]] Order** button is turned off because it is too far along in the process to request a cancellation.
+    **Note:** If the **PONR** option is selected, the **Cancel Order** button is turned off because it is too far along in the process to request a cancellation.
 
 5.  Select **Delete** from the More actions icon \[Omitted image "icon-three-dot-menu.png"\] Alt text:.
 
 
-**Parent Topic:**[[inflight-order-change-mgt-overview|Managing inflight order changes and cancellation requests]]
+**Parent Topic:**[Managing inflight order changes and cancellation requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/inflight-order-change-mgt-overview.md)
 
 **Related topics**  
 
 
-[[order-mgt-configuring|Configuring Order Management]]
+[Configuring Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-configuring.md)
 
-[[explore-order-management|Order management]]
+[Order management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-order-management.md)
 
-## Related
-
-- [[inflight-order-change-mgt-overview|Managing inflight order changes and cancellation requests]]
-- [[order-mgt-configuring|Configuring Order Management]]
-- [[explore-order-management|Order management]]
-- [[cancel|Cancel]]

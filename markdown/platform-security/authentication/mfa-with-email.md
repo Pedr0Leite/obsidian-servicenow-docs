@@ -14,21 +14,13 @@ breadcrumb: [MFA factor policies, MFA verification methods, Configuring MFA, Mul
 
 # Email as an MFA factor
 
-[[mfa-landing|Multi-factor authentication]] \(MFA\) with [[email|Email]] as a factor for your [[c_Authentication|authentication]].
+Multi-factor authentication \(MFA\) with Email as a factor for your authentication.
 
-Admin can [[configure-servicenow|configure ServiceNow]] instance to require [[users|users]] who attempt to login to the instance using Email based OTP.
+Admin can configure ServiceNow instance to require users who attempt to login to the instance using Email based OTP.
 
 **Note:** MFA with Email is activated with the Integration - Multifactor Authentication \(`com.snc.integration.multifactor.authentication`\) plugin by default. You need to configure the policy inputs and conditions.
 
 \[Omitted image "email-screen-mfa.png"\] Alt text: MFA-Email
 
-When users attempt to login to ServiceNow, Email OTP is sent to the Email address associated. User's can enter the six-digit verification code that it sent to the email address and verify their [[identity-landing|identity]].
+When users attempt to login to ServiceNow, Email OTP is sent to the Email address associated. User's can enter the six-digit verification code that it sent to the email address and verify their identity.
 
-## Related
-
-- [[mfa-landing|Multi-factor authentication]]
-- [[email|Email]]
-- [[c_Authentication|Authentication]]
-- [[configure-servicenow|Configure ServiceNow]]
-- [[users|Users]]
-- [[identity-landing|Identity]]

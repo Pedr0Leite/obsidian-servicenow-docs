@@ -12,7 +12,7 @@ breadcrumb: [ServiceNow Voice reference, ServiceNow Voice, Manage people and wor
 
 # Components installed with ServiceNow Voice Core
 
-Several types of components are installed with activation of the [[cloud-call-center-overview|ServiceNow Voice]] Core application \(sn\_cti\_core\), including user roles, plugins, and operation handlers.
+Several types of components are installed with activation of the ServiceNow Voice Core application \(sn\_cti\_core\), including user roles, plugins, and operation handlers.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -125,7 +125,7 @@ authenticate
 
 </td><td>
 
-Authenticates a user based on the PIN. For information on PIN configuration, see [[set-pin-ccc|Configuring a phone PIN]].
+Authenticates a user based on the PIN. For information on PIN configuration, see [Configuring a phone PIN](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/set-pin-ccc.md).
 
 </td></tr><tr><td>
 
@@ -136,10 +136,5 @@ fetchVoiceInteraction
 Fetches interaction and processes createConversation flag for creating conversation.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[ccc-reference|ServiceNow Voice reference]]
+</table>**Parent Topic:**[ServiceNow Voice reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/ccc-reference.md)
 
-## Related
-
-- [[set-pin-ccc|Configuring a phone PIN]]
-- [[ccc-reference|ServiceNow Voice reference]]
-- [[cloud-call-center-overview|ServiceNow Voice]]

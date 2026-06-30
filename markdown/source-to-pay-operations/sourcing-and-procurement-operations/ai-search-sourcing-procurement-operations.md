@@ -16,7 +16,7 @@ breadcrumb: [Explore, Sourcing and Procurement Operations, Finance and Supply Ch
 
 The AI Search application provides a modern consumer-grade search engine for the Service Portal, Employee Center \(EC\), Mobile, and Virtual Agent.
 
-New customers automatically have the AI Search application configured with their base system for [[psm-overview|Sourcing and Procurement Operations]]. Existing customers can configure the PSM-specific [[shopping-hub-overview|Shopping Hub]] search application to use the AI Search application by following the configuration steps.
+New customers automatically have the AI Search application configured with their base system for Sourcing and Procurement Operations. Existing customers can configure the PSM-specific Shopping Hub search application to use the AI Search application by following the configuration steps.
 
 For more information, see [AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/overview-ais.md).
 
@@ -32,7 +32,7 @@ For more information, see [AI Search](https://raw.githubusercontent.com/ServiceN
 
     Under each search profile, there are a series of tabs that enhance the AI search. The base system provides the following that you can also modify:
 
-    -   **Search Sources**: Along with the default search sources, **[[supplier|Supplier]]** and **Purchasing** are provided on EC and Service Portal for Sourcing and Procurement Operations, so that the applications are capable of searching through suppliers and supplier products for purchasing as well. For the PSM-specific Shopping Hub search application however, only the **Purchasing** search source is available, allowing you to search only for supplier products. These search sources are rendered as separate tabs when you search on these applications, and are listed under **Navigation Tabs**.
+    -   **Search Sources**: Along with the default search sources, **Supplier** and **Purchasing** are provided on EC and Service Portal for Sourcing and Procurement Operations, so that the applications are capable of searching through suppliers and supplier products for purchasing as well. For the PSM-specific Shopping Hub search application however, only the **Purchasing** search source is available, allowing you to search only for supplier products. These search sources are rendered as separate tabs when you search on these applications, and are listed under **Navigation Tabs**.
 
         **Note:** You can find more information on reviewing and updating your search sources [here](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/review-update-search-sources.md).
 
@@ -97,8 +97,3 @@ For more information, see [AI Search](https://raw.githubusercontent.com/ServiceN
 
 [Universal Request in Sourcing and Procurement Operations]()
 
-## Related
-
-- [[psm-overview|Sourcing and Procurement Operations]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[supplier|Supplier]]

@@ -18,7 +18,7 @@ You can change a normalized company name several different ways. In all cases, t
 
 You have several options for changing a normalized company name:
 
--   Edit the Normalized Name field in the [[r_NormalizedMappings|Normalized Mappings table]]. This method is preferred.
+-   Edit the Normalized Name field in the Normalized Mappings table. This method is preferred.
 -   Edit the Normalized Company name table.
 -   Edit the Company Name field on any table that refers to the Company \[core\_company\] table.
 
@@ -36,19 +36,14 @@ Role required: nds\_admin
 
 ### About this task
 
-You can add and edit records in the [[r_NormalizedCompanyNames|Normalized Company Names table]].
+You can add and edit records in the Normalized Company Names table.
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[c_UserAdministration|User Administration]]** &gt; **[[c_NormalizationOverview|Normalization Data Services]]** &gt; **Normalized Mappings**.
+1.  Navigate to **All** &gt; **User Administration** &gt; **Normalization Data Services** &gt; **Normalized Mappings**.
 
 2.  Find the record with the name that you want to replace and edit the Normalized name field.
 
     The system changes the Normalized Company name for every discovered name that maps to that normalized name.
 
-## Related
 
-- [[r_NormalizedMappings|Normalized Mappings table]]
-- [[r_NormalizedCompanyNames|Normalized company names table]]
-- [[c_UserAdministration|User administration]]
-- [[c_NormalizationOverview|Normalization data services]]

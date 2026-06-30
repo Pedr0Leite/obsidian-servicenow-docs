@@ -24,7 +24,7 @@ Role required: resource\_user, resource\_manager, it\_project\_manager, demand\_
 
 1.  Navigate to **All** &gt; **Resource Assignment** &gt; **Create Operational Resource Assignments**.
 
-2.  On the [[pw-resource-assignment-form|Resource Assignment form]], fill in the fields.
+2.  On the Resource Assignment form, fill in the fields.
 
     For a description of the field names, see [Resource assignment form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/resource-assignment-form.md).
 
@@ -37,6 +37,3 @@ Operational resource assignment is created. You can navigate to **All** &gt; **R
 
 **Parent Topic:**[Migration of resource plans, operational resource plans, and cost plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rsrc-plans-rsrc-asgmnts.md)
 
-## Related
-
-- [[pw-resource-assignment-form|Resource assignment form]]

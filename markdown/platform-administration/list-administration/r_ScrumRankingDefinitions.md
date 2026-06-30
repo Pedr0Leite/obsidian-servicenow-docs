@@ -14,7 +14,7 @@ breadcrumb: [Context ranking, Administer, List administration, Forms, fields, an
 
 # Scrum ranking definitions
 
-Ranking [[clone-exclusions-preservers-cleanupscripts|definitions]] for user stories are part of the SDLC \(scrum process\) application.
+Ranking definitions for user stories are part of the SDLC \(scrum process\) application.
 
 These ranking definitions enable scrum users with the proper roles to rank related lists of stories in these tables:
 
@@ -29,7 +29,7 @@ Story points for each story are listed in a ranked view, which is useful for pri
 \[Omitted image "RankingStoryPoints.png"\] Alt text: Ranking story points
 
 -   **[Rank stories in a related list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-administration/t_RankingStories.md)**  
-The [[r_ContextRanking|Context Ranking]] feature enables all scrum users to manually sort a related list of stories by priority.
+The Context Ranking feature enables all scrum users to manually sort a related list of stories by priority.
 
 **Parent Topic:**[Context ranking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-administration/r_ContextRanking.md)
 
@@ -38,7 +38,3 @@ The [[r_ContextRanking|Context Ranking]] feature enables all scrum users to manu
 
 [Agile Development](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development.md)
 
-## Related
-
-- [[clone-exclusions-preservers-cleanupscripts|Definitions]]
-- [[r_ContextRanking|Context ranking]]

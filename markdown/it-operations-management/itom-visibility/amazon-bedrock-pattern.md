@@ -15,7 +15,7 @@ breadcrumb: [Reference, AI Agent Topology Mapping, ITOM Visibility, IT Operation
 
 # Amazon Bedrock pattern-based discovery
 
-[[ai-agent-topology-mapping-landing|AI Agent Topology Mapping]] discovers Amazon Bedrock AI services, agents, and models during horizontal [[r-discovery|discovery]].
+AI Agent Topology Mapping discovers Amazon Bedrock AI services, agents, and models during horizontal discovery.
 
 ## Request new or enhanced Patterns on the ServiceNow® Store
 
@@ -39,12 +39,12 @@ The following diagram illustrates the tables and relationships that the AI Agent
     Discovering these resources may require updating to the latest version of the following applications from the ServiceNow Store:
 
     -   AI Agent Topology Mapping
-    -   Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns
+    -   Discovery and Service Mapping Patterns
     -   Visibility Content
     -   CMDB CI Class Models
 -   **Update the method used for pointed discovery for the AWS CloudFormation Template \(CFT\) stack**
 
-    If you use [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]], you must update the **getOperationGR\(type\)** method. This update enables the pointed discovery to list the resources correctly for the AWS CFT stack after provisioning. For further information about the steps required to update this method, see the Knowledge Base article [KB0858437](https://support.servicenow.com/nav_to.do?uri=kb_knowledge.do?sys_id=54ecb719db1f1cd0fb115583ca961917).
+    If you use Cloud Provisioning and Governance, you must update the **getOperationGR\(type\)** method. This update enables the pointed discovery to list the resources correctly for the AWS CFT stack after provisioning. For further information about the steps required to update this method, see the Knowledge Base article [KB0858437](https://support.servicenow.com/nav_to.do?uri=kb_knowledge.do?sys_id=54ecb719db1f1cd0fb115583ca961917).
 
 -   **Activate the cloud-related CI relationships**
 
@@ -64,13 +64,13 @@ The following diagram illustrates the tables and relationships that the AI Agent
 
         When you run Discovery on your cloud resources, you don’t need separate credentials for each member account. The Cloud Discovery process handles credentials automatically by acquiring a temporary credential for each member via an AWS API. You can elect to use the default configuration or customize the MID Server to assume other roles for additional controls and security.
 
-    For more information, see [[setup-aws-service-accounts|Setting up AWS service accounts]].
+    For more information, see [Setting up AWS service accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/setup-aws-service-accounts.md).
 
 -   **Use IAM user policy on the AWS Management Console**
 
-    To use the IAM user policy instead of credentials during discovery, configure the MID Server for AWS IAM roles. For more information, see [[config-mid-iam-roles|configure the MID Server for AWS IAM roles]].
+    To use the IAM user policy instead of credentials during discovery, configure the MID Server for AWS IAM roles. For more information, see [configure the MID Server for AWS IAM roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/config-mid-iam-roles.md).
 
-    To create the IAM user policy for provisioning AWS resources, see [[aws-create-user-policy-cloud-mgt|Control AWS access and permissions using policies]]. Ensure that the IAM user policy covers the following AWS resources:
+    To create the IAM user policy for provisioning AWS resources, see [Control AWS access and permissions using policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/aws-create-user-policy-cloud-mgt.md). Ensure that the IAM user policy covers the following AWS resources:
 
     ```
     {
@@ -109,11 +109,11 @@ The following diagram illustrates the tables and relationships that the AI Agent
 
 -   **Configure access to the AWS resources**
 
-    To discover a single account, create an IAM account in the AWS Management Console, and ensure that it has the "ReadOnlyAccess" policy applied. To discover several member or child accounts, configure the credentials as described in [[access-aws-accounts|Access setup for AWS service accounts]].
+    To discover a single account, create an IAM account in the AWS Management Console, and ensure that it has the "ReadOnlyAccess" policy applied. To discover several member or child accounts, configure the credentials as described in [Access setup for AWS service accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/access-aws-accounts.md).
 
 -   **Configure the Discovery schedule to support GovCloud**
 
-    Discovering AWS GovCloud \(US\) accounts requires using a datacenter URL when setting up an AWS service account. For more information, see [[create-aws-service-accounts|Create AWS service accounts]].
+    Discovering AWS GovCloud \(US\) accounts requires using a datacenter URL when setting up an AWS service account. For more information, see [Create AWS service accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/create-aws-service-accounts.md).
 
 -   **Configure a discovery schedule**
 
@@ -359,7 +359,7 @@ Install Status \[install\_status\]
 Install status of the resource. Default value is Installed.
 
 </td></tr></tbody>
-</table>## [[dependency-views-map|Dependency Views map]]
+</table>## Dependency Views map
 
 On the Dependency Views map, you can view discovered Amazon Bedrock resources and the relationships between them.
 
@@ -406,15 +406,3 @@ The Amazon AWS - Bedrock Agents pattern collects tags and populates them in the 
 
 [AWS discovery using patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/data-discovered-aws-patterns.md)
 
-## Related
-
-- [[setup-aws-service-accounts|Setting up AWS service accounts]]
-- [[config-mid-iam-roles|Configure the MID Server for AWS IAM roles]]
-- [[aws-create-user-policy-cloud-mgt|Control AWS access and permissions using policies]]
-- [[access-aws-accounts|Access setup for AWS service accounts]]
-- [[create-aws-service-accounts|Create AWS service accounts]]
-- [[ai-agent-topology-mapping-landing|AI Agent Topology Mapping]]
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[dependency-views-map|Dependency Views map]]

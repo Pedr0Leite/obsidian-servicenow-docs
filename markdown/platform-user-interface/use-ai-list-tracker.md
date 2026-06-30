@@ -24,10 +24,10 @@ Role required: sn\_ai\_filter\_tracker.user, workspace\_user
 
     **Note:**
 
-    -   This feature doesn't work on [[c_RelatedLists|related lists]].
+    -   This feature doesn't work on related lists.
     -   This feature is limited to tables that extend task.
     -   The list must have less than 100 records.
-    -   You can only track five [[lists-configurable-workspace|lists]] at a time.
+    -   You can only track five lists at a time.
 2.  Select the AI tracking icon \(\[Omitted image "icon-ai-tracking.png"\] Alt text: AI tracking icon\).
 
     When records within the list change, you can summarize the changes.
@@ -43,7 +43,3 @@ A summary of recent changes made to the list is generated.
 
 \[Omitted image "summary-ai-list-tracker.png"\] Alt text: Summary of recent changes
 
-## Related
-
-- [[c_RelatedLists|Related lists]]
-- [[lists-configurable-workspace|Lists]]

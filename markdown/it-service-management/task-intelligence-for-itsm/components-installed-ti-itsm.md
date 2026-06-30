@@ -14,7 +14,7 @@ breadcrumb: [Reference, Task Intelligence for ITSM, IT Service Management]
 
 # Components installed with Task Intelligence for ITSM
 
-Several types of components are installed with the activation of the [[c-itsm-task-intelligence|Task Intelligence for ITSM]] application plugin \(com.snc.itsm\_ml\_task\), including tables, user roles, and ServiceNow store [[dex-workspace-application-tab|applications]].
+Several types of components are installed with the activation of the Task Intelligence for ITSM application plugin \(com.snc.itsm\_ml\_task\), including tables, user roles, and ServiceNow store applications.
 
 ## Roles installed
 
@@ -38,7 +38,7 @@ Task Intelligence Admin
 
 </td><td>
 
-Admin user with rights to all actions in the application. Creates, edits, and monitors all Task Intelligence [[c_Models|models]].
+Admin user with rights to all actions in the application. Creates, edits, and monitors all Task Intelligence models.
 
 </td><td>
 
@@ -88,7 +88,7 @@ Task Intelligence Admin Template \[sn\_ti\_admin\_template\]
 
 </td><td>
 
-Contains template records, which are inserted by other applications, that specify the defaults for model training [[settings-mobile|settings]], implementation plans, and UI display information.
+Contains template records, which are inserted by other applications, that specify the defaults for model training settings, implementation plans, and UI display information.
 
 </td></tr><tr><td>
 
@@ -192,7 +192,7 @@ Task Intelligence Admin Landing Card \[sn\_ti\_admin\_landing\_card\]
 
 </td><td>
 
-Contains data related to the information cards displayed on the [[dex-workspace-dashboard-tab|landing page]] of Task Intelligence for ITSM.
+Contains data related to the information cards displayed on the landing page of Task Intelligence for ITSM.
 
 </td></tr><tr><td>
 
@@ -232,10 +232,3 @@ Enables you to setup, manage, and monitor incident prediction models that help c
 </td></tr></tbody>
 </table>**Parent Topic:**[Task Intelligence for ITSM reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/task-intelligence-itsm-reference.md)
 
-## Related
-
-- [[c-itsm-task-intelligence|Task Intelligence for ITSM]]
-- [[dex-workspace-application-tab|Applications]]
-- [[c_Models|Models]]
-- [[settings-mobile|Settings]]
-- [[dex-workspace-dashboard-tab|Landing page]]

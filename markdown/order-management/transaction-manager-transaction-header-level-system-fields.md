@@ -14,10 +14,10 @@ breadcrumb: [Transaction Manager: Fields, Transaction Manager, CPQ app, Configur
 
 Learn about the Transaction Manager fields that provide information about a transaction, such as the quote number and account information.
 
-The [[fields|fields]] available in [[transaction-manager|Transaction Manager]] are categorized into two levels in the user interface \(UI\):
+The fields available in Transaction Manager are categorized into two levels in the user interface \(UI\):
 
 -   Transaction-level fields: Also known as header-level fields, these fields provide general information about the transaction, such as the quote number, opportunity details, and account information.
--   Transaction line-level fields: Also referred to as line-level fields, these fields capture specific information about the products associated with the transaction lines, including price, product details, and order information. For more information about line-level fields, see [[transaction-manager-line-level-system-fields|Transaction Manager: Line-level system fields]].
+-   Transaction line-level fields: Also referred to as line-level fields, these fields capture specific information about the products associated with the transaction lines, including price, product details, and order information. For more information about line-level fields, see [Transaction Manager: Line-level system fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/transaction-manager-line-level-system-fields.md).
 
 ## System-provided fields in Transaction Manager
 
@@ -35,8 +35,8 @@ The following table outlines the system-provided fields at the transaction level
 -   Variable name: The system-defined name of the field as configured in the environment.
 -   Description: A brief overview of the purpose and use case of the system field.
 -   Modifiable by: Indicates who can edit the field configurations:
-    -   System: The values of system-modifiable fields can only be set by the application. End-users cannot edit these fields. Administrators cannot determine the values of these fields via [[rules_101|rules]].
-    -   User: Any authorized end user with the appropriate permissions can update the field value. Determination rule actions can also [[Modify|modify]] the field value.
+    -   System: The values of system-modifiable fields can only be set by the application. End-users cannot edit these fields. Administrators cannot determine the values of these fields via rules.
+    -   User: Any authorized end user with the appropriate permissions can update the field value. Determination rule actions can also modify the field value.
 -   Default value: The initial value assigned to the system field, specifying what can be set as the default during configuration.
 
 <table id="table_sv1_4s4_ghc"><thead><tr><th>
@@ -275,18 +275,9 @@ System
 </table>**Related topics**  
 
 
-[[transaction-manager-fields|Transaction Manager: Fields]]
+[Transaction Manager: Fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/transaction-manager-fields.md)
 
 [Transaction Manager: Line-level system fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/transaction-manager-line-level-system-fields.md)
 
-[[transaction-manager-date-and-time-fields|Transaction Manager: Date and time fields]]
+[Transaction Manager: Date and time fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/transaction-manager-date-and-time-fields.md)
 
-## Related
-
-- [[transaction-manager-line-level-system-fields|transaction manager line level system fields]]
-- [[transaction-manager-fields|transaction manager fields]]
-- [[transaction-manager-date-and-time-fields|transaction manager date and time fields]]
-- [[fields|Fields]]
-- [[transaction-manager|Transaction Manager]]
-- [[rules_101|Rules]]
-- [[Modify|Modify]]

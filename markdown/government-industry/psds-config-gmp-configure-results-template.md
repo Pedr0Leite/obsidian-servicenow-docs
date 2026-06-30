@@ -12,7 +12,7 @@ breadcrumb: [Set up a grant program, Grants Management, Playbooks and Solutions,
 
 # Create a Grants Program results letter template
 
-As an agent or Grants Program manager, you can leverage templates to compose letters informing applicants of the result, choosing from Award, Rejection \(ineligible\), and Rejection \(decline\). These letters are displayed to applicants on the [[psds-gmp-overview|Grants Management Portal]], once a decision has been communicated.
+As an agent or Grants Program manager, you can leverage templates to compose letters informing applicants of the result, choosing from Award, Rejection \(ineligible\), and Rejection \(decline\). These letters are displayed to applicants on the Grants Management Portal, once a decision has been communicated.
 
 ## About this task
 
@@ -31,17 +31,12 @@ Role required: sn\_gsm\_grnt\_mgmt.program\_manager, sn\_gsm\_grnt\_mgmt.grant\_
 3.  Navigate to the Decision activity, and select create letter.
 
 
--   **[[psds-config-results-template-rca|Configure Restricted Caller Access for a results letter]]**  
+-   **[Configure Restricted Caller Access for a results letter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-results-template-rca.md)**  
 Once the Grant Program Manager is ready to release the results letters for the applicants, the letters can be configured using Restricted Caller Access.
 
-**Parent Topic:**[[psds-config-gmp-grant-pgr|Set up a grant program in Grants Management]]
+**Parent Topic:**[Set up a grant program in Grants Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-grant-pgr.md)
 
 **Previous topic:**[Set up a grant program in Grants Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-grant-pgr.md)
 
 **Next topic:**[Configure Restricted Caller Access for a results letter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-results-template-rca.md)
 
-## Related
-
-- [[psds-config-results-template-rca|Configure Restricted Caller Access for a results letter]]
-- [[psds-config-gmp-grant-pgr|Set up a grant program in Grants Management]]
-- [[psds-gmp-overview|Grants Management Portal]]

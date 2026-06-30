@@ -52,8 +52,8 @@ You can filter the data using the following filter types and sources:-   Time: S
 
 **Note:** If you do not select a category in the Category filter, the dashboard displays all data associated with the root categories. If you select a category, the dashboard displays data for that category and its child categories. In both cases, this data is displayed in the Hard savings, Cost avoidance, and Savings by year bar graphs.
 
--   Business Unit: Multi-select drop-down list populated from the Business [[kpi-unit-table|unit table]].
--   [[supplier|Supplier]]: Multi-select drop-down populated from the 'Supplier' table.
+-   Business Unit: Multi-select drop-down list populated from the Business unit table.
+-   Supplier: Multi-select drop-down populated from the 'Supplier' table.
 -   Team member: Searchable multi-select drop-down list based on the spend category manager column in the Spend category table.
 
 To apply a filter, select a filter type \(for example, Supplier\), and choose one or more filter values \(such as Adobe Systems or Apple, Inc.\), and then move the selected filter value from the Available list to the Applied list.
@@ -193,7 +193,3 @@ Displays count of projects segmented by state \(Draft, Planned, Work in Progress
 </td></tr></tbody>
 </table>**Parent Topic:**[Category analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-category-analytics.md)
 
-## Related
-
-- [[kpi-unit-table|Unit table]]
-- [[supplier|Supplier]]

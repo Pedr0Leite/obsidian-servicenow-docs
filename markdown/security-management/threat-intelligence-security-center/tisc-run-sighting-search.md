@@ -24,19 +24,19 @@ To perform this action select the implementation and add common run time inputs 
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center**.
 
-2.  Click **[[threat-analyst-workbench|Threat Analyst Workbench]]** icon.
+2.  Click **Threat Analyst Workbench** icon.
 
-3.  Go to **[[c_Observables|Observables]]** &gt; **All Observables**.
+3.  Go to **Observables** &gt; **All Observables**.
 
 4.  Open any observable record.
 
 5.  Click **Run Sighting Search**.
 
-    The Run Sighting Search **[[implementation-selection|Select Implementations]]** modal screen is displayed.
+    The Run Sighting Search **Select Implementations** modal screen is displayed.
 
-    **Note:** The Run Sighting Search performs the [[threat-intel-landing-page|threat intelligence]] lookups to determine whether the observables are associated with any known threats.
+    **Note:** The Run Sighting Search performs the threat intelligence lookups to determine whether the observables are associated with any known threats.
 
 6.  Select the required implementation\(s\) from the list.
 
@@ -46,7 +46,7 @@ To perform this action select the implementation and add common run time inputs 
 
 8.  Select the common run time input value such as Select Date/Time frequency and Number of hours.
 
-    \[Omitted image "tisc-run-sighting-search-modal02.png"\] Alt text: Run Sighting Search - [[common-inputs|Common inputs]]
+    \[Omitted image "tisc-run-sighting-search-modal02.png"\] Alt text: Run Sighting Search - Common inputs
 
 9.  Click **Submit**.
 
@@ -55,17 +55,8 @@ To perform this action select the implementation and add common run time inputs 
     **Note:**
 
     -   Once the execution initiated or completed, a work notes is posted on the activity stream of the form view.
-    -   The enrichment results pushed from SIR workspace can be found in the **Enrichment Results** tab of that corresponding Observables details page in [[view-threat-intelligence-security-center-homepage|TISC Workspace]].
+    -   The enrichment results pushed from SIR workspace can be found in the **Enrichment Results** tab of that corresponding Observables details page in TISC Workspace.
     -   The enrichment results pushed from SIR workspace can be identified using **Source** field of the enrichment result table.
 
 **Parent Topic:**[Run Enrichment operations in TISC](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-unified-experience-capabilities-and-modal-screens.md)
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-analyst-workbench|Threat Analyst Workbench]]
-- [[c_Observables|Observables]]
-- [[implementation-selection|Select implementations]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[common-inputs|common inputs]]
-- [[view-threat-intelligence-security-center-homepage|TISC Workspace]]

@@ -23,7 +23,7 @@ You can delete a normalization strategy only if it is in draft state. Deleting a
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[smart-asmnt-engine-landing-page|Smart Assessment Engine]]** &gt; **[[Administration|Administration]]** &gt; **Normalization Strategies**.
+1.  Navigate to **All** &gt; **Smart Assessment Engine** &gt; **Administration** &gt; **Normalization Strategies**.
 
 2.  On the Scoring normalization strategies list, select the normalization strategy you want to delete.
 
@@ -37,7 +37,4 @@ You can delete a normalization strategy only if it is in draft state. Deleting a
 
 5.  Select **Delete**.
 
-## Related
 
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]
-- [[Administration|Administration]]

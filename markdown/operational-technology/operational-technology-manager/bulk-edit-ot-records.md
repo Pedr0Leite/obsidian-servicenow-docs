@@ -14,7 +14,7 @@ breadcrumb: [OT device related items and related lists, Edit or view OT devices 
 
 # Convert your OT devices to IT hardware devices in a bulk edit
 
-Bulk edit your [[operational-technology-overview|Operational Technology]] \(OT\) devices to remove the OT device details. Then convert your OT devices to IT hardware devices.
+Bulk edit your Operational Technology \(OT\) devices to remove the OT device details. Then convert your OT devices to IT hardware devices.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ If you encounter OT devices that don't have an OT function and should be classif
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]] Admin** &gt; **Industrial Workspace.**
+1.  Navigate to **All** &gt; **Industrial Workspace Admin** &gt; **Industrial Workspace.**
 
 2.  In the list view, select one of the following lists.
 
@@ -52,7 +52,3 @@ The OT device details are removed from the selected OT devices and the OT device
 
 **Parent Topic:**[OT device related items and related lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/ot-assets-related-links-and-lists.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

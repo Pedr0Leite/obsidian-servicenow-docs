@@ -28,7 +28,7 @@ Aggregation Conditions define additional incident field criteria that enable an 
 
 ## Procedure
 
-1.  If you aren’t continuing from the previous section of the [[mapping-logrhythm|Mapping]] criteria, access the profile you’re defining.
+1.  If you aren’t continuing from the previous section of the Mapping criteria, access the profile you’re defining.
 
     1.  Navigate to **All** &gt; **Microsoft Defender Integration** &gt; **Defender Incident Profiles**.
 
@@ -56,13 +56,13 @@ Aggregation Conditions define additional incident field criteria that enable an 
     -   If **OR** is selected, either condition can be matched.
 5.  To set a second filter condition, select **New Criteria**.
 
-    \[Omitted image "ms-def-fil-and-agg.png"\] Alt text: [[filtering-and-aggregation-cs-ng-siem|Define filter and aggregation criteria]]
+    \[Omitted image "ms-def-fil-and-agg.png"\] Alt text: Define filter and aggregation criteria
 
 6.  Select **Aggregation Conditions** check box to define additional incident field criteria that enables an incoming incident to be appended to an open security incident instead of creating one.
 
 7.  In the **Incident fields with matching values** field, enter the field values that you want to match on existing security incidents in your ServiceNow AI Platform instance.
 
-    All field values that you selected in the multi selection input field must match so that the aggregation criterion is met and that this incoming incident can be appended to an existing security incident. This selection implies it’s an `AND` condition where fields, such as [[c_Observables|Observables]] and Configuration Items that may have multiple field values, are mapped to them. If only a subset of the values is matched, the Microsoft Incident aggregation conditions aren’t met and a new security incident is created.
+    All field values that you selected in the multi selection input field must match so that the aggregation criterion is met and that this incoming incident can be appended to an existing security incident. This selection implies it’s an `AND` condition where fields, such as Observables and Configuration Items that may have multiple field values, are mapped to them. If only a subset of the values is matched, the Microsoft Incident aggregation conditions aren’t met and a new security incident is created.
 
 8.  Select **Add New Criteria** to add multiple field matching conditions.
 
@@ -79,8 +79,3 @@ Aggregation Conditions define additional incident field criteria that enable an 
 
 Set a schedule to retrieve the incident data and ingested incidents that match the criteria in the profile. For more information, see [Schedule incident retrieval](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/ms-defender-schedule-inc.md).
 
-## Related
-
-- [[mapping-logrhythm|Mapping]]
-- [[filtering-and-aggregation-cs-ng-siem|Define filter and aggregation criteria]]
-- [[c_Observables|Observables]]

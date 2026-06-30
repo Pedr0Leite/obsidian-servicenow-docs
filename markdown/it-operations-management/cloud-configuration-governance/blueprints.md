@@ -20,7 +20,7 @@ A blueprint is a specialized catalog item template for offering cloud services, 
 
 **Note:**
 
--   Starting with Orlando, Cloud Provisioning blueprints are available on instances upgraded from a previous release but you cannot create new blueprints. [[cloud-resource-profiles|Resource profiles]] and custom-created blueprints will no longer be supported starting with the Australia release.
+-   Starting with Orlando, Cloud Provisioning blueprints are available on instances upgraded from a previous release but you cannot create new blueprints. Resource profiles and custom-created blueprints will no longer be supported starting with the Australia release.
 -   Use Cloud Provisioning cloud templates to create catalog items in place of blueprints. Cloud Provisioning [cloud templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-cloud-template.md) allow you to ingest Azure ARM, AWS CFT, Google Deployment Manager \(GDM\) and Terraform specification syntax in cloud catalog items to run your cloud deployment orchestration.
 
 The blueprint is the mechanism that is passed to the cloud provider to establish the cloud assets. Requesting a cloud catalog item is called launching a stack. After the cloud asset is obtained, it can then be discovered, managed, and maintained.
@@ -66,7 +66,7 @@ Before creating blueprints, plan the stacks you want to offer in the service cat
 
     To plan a service offering or stack, diagram the resource blocks that it needs, and how they are connected.
 
--   **[[cloud-accounts|Cloud accounts]] and datacenters**
+-   **Cloud accounts and datacenters**
 
     Obtain a list of the cloud accounts and datacenters that the cloud administrator has configured. Determine whether any are constrained.
 
@@ -80,14 +80,9 @@ Before creating blueprints, plan the stacks you want to offer in the service cat
 [Build a Cloud Provisioning blueprint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-blueprint-cmp.md)
 
 -   **[Build a Cloud Provisioning blueprint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-blueprint-cmp.md)**  
-Use the blueprint designer to create custom blueprints for the [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] application. Blueprints are deprecated in the Orlando release.
+Use the blueprint designer to create custom blueprints for the Cloud Provisioning and Governance application. Blueprints are deprecated in the Orlando release.
 -   **[Form configuration with blueprints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/blueprint-form-configuration.md)**  
 Blueprints control what the user sees on the catalog order form. You can configure the form to show or hide fields, populate fields with default values, and otherwise create a unique form for the user based on criteria.
 
 **Parent Topic:**[Cloud Admin Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-admin-portal.md)
 
-## Related
-
-- [[cloud-resource-profiles|Resource Profiles]]
-- [[cloud-accounts|Cloud accounts]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]

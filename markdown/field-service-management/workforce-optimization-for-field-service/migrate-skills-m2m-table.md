@@ -14,7 +14,7 @@ breadcrumb: [Mandatory skills, Manage skills, Users, Set up workforce, Configure
 
 # Migrate skills to the Task Skill table
 
-Migrate data from the **Skills** field to the Task Skills table to utilize [[mandatory-skills|mandatory skills]] support for executing tasks in a case or work order.
+Migrate data from the **Skills** field to the Task Skills table to utilize mandatory skills support for executing tasks in a case or work order.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ The Task Skills \[task\_m2m\_skill\] table stores skills and mandatory skills.
 
 In the Customer Service Management application, the assignment workbench uses the Task Skills table instead of the **Skills** field in the Case table to display agents based on the evaluation criteria for task assignments.
 
-In the [[fsm-application-landing-page|Field Service Management]] application, the work order task assignments done using auto-assignment, [[dynamic-scheduling|dynamic scheduling]], and [[dispatcher-activities|Dispatcher Workspace]] use the Task Skills table instead of the **Skills** field in the Work Order and Work Order Task tables to assign agents for task assignments.
+In the Field Service Management application, the work order task assignments done using auto-assignment, dynamic scheduling, and Dispatcher Workspace use the Task Skills table instead of the **Skills** field in the Work Order and Work Order Task tables to assign agents for task assignments.
 
 ## Procedure
 
@@ -71,9 +71,4 @@ In the **Name** field, enter the name of the system property in the following fo
 
     The skills are copied to the task\_m2m\_skill table. The name of the table from which the skills are copied gets appended to the **com.snc.skills\_management.task\_skill\_migrated\_tables** system property. When the script is run again, it ignores all tables from which skills have already been migrated.
 
-## Related
 
-- [[mandatory-skills|Mandatory skills]]
-- [[fsm-application-landing-page|Field Service Management]]
-- [[dynamic-scheduling|Dynamic scheduling]]
-- [[dispatcher-activities|Dispatcher Workspace]]

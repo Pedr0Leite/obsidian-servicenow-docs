@@ -22,7 +22,7 @@ Role required: pa\_admin or admin
 
 ## About this task
 
-**Note:** This feature is part of the Core UI front end. It is not supported on [[c_performanceAnalyticsAndReporting|Platform Analytics]] dashboards or UI Builder pages, except to a limited extent when migrated in compatibility mode. To build Platform Analytics components, see [[analytics-center-data-visualizations|Data visualizations in Platform Analytics]] or [[interactive-filters-workspace|Filters in Platform Analytics]].
+**Note:** This feature is part of the Core UI front end. It is not supported on Platform Analytics dashboards or UI Builder pages, except to a limited extent when migrated in compatibility mode. To build Platform Analytics components, see [Data visualizations in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-data-visualizations.md) or [Filters in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters-workspace.md).
 
 This feature is deprecated, meaning it is in maintenance mode and is no longer being augmented or changed. Only security fixes to this feature will be addressed.
 
@@ -33,13 +33,13 @@ These visualizations can be unclear in the following cases:
 -   The breakdown has many elements.
 -   Several elements in the breakdown are much smaller than the others.
 
-In these cases, or to [[scorecard-compare-tab|compare scores]] instead of proportions, consider using a column visualization.
+In these cases, or to compare scores instead of proportions, consider using a column visualization.
 
 \[Omitted image "pie-breakdown.png"\] Alt text: Pie visualization applied to open incidents by priority \[Omitted image "donut-breakdown.png"\] Alt text: Donut visualization applied to open incidents by priority \[Omitted image "semi-donut-breakdown.png"\] Alt text: Semi donut visualization applied to open incidents by priority
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Performance Analytics** &gt; **[[widgets|Widgets]]** and click **New**.
+1.  Navigate to **All** &gt; **Performance Analytics** &gt; **Widgets** and click **New**.
 
 2.  In the **Name** field, give the widget a name that reflects the information being displayed.
 
@@ -145,10 +145,3 @@ To view the widget, add it to a dashboard or a portal.
 
 [Interacting with breakdown widgets on dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_WidgetInteractivity.md)
 
-## Related
-
-- [[analytics-center-data-visualizations|Data visualizations in Platform Analytics]]
-- [[interactive-filters-workspace|Filters in Platform Analytics]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[scorecard-compare-tab|Compare scores]]
-- [[widgets|Widgets]]

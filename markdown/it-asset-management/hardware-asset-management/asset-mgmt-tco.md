@@ -16,7 +16,7 @@ breadcrumb: [Explore, Hardware Asset Management, IT Asset Management]
 
 Assets incur costs throughout their life cycle, including initial capital costs and operational costs. Asset Total Cost of Ownership helps Asset managers to understand, analyze, and track the Total Cost of Ownership \(TCO\) of assets, where the total cost includes initial capital cost and operation cost.
 
-**Important:** You must install [[ham-landing-page|Hardware Asset Management]] 10.0.0 version or later to access the Asset Total Cost of Ownership feature.
+**Important:** You must install Hardware Asset Management 10.0.0 version or later to access the Asset Total Cost of Ownership feature.
 
 ## TCO benefits
 
@@ -74,16 +74,16 @@ TCO enables you to perform the following actions:
 
     -   Disposal
     -   Donation
-    -   [[zero-touch-asset-refresh|Zero Touch Refresh]]
+    -   Zero Touch Refresh
     -   Contract renewal
 
         **Note:** For Contract cost, allocate and distribute amount asset options are used on the contract rate card to distribute the contract cost evenly. You must add assets to the Asset covered for the contract rate card.
 
-    -   [[return-merchandise-authorization|Return Merchandise Authorization]] \(RMA\)
+    -   Return Merchandise Authorization \(RMA\)
     -   Lease
     -   Loaner
     -   Hardware asset refresh
-    -   [[reclaim-asset|Asset reclamation]]
+    -   Asset reclamation
     **Note:**
 
     Rate cards are included for the Hardware Asset Management workflows. To activate these rate cards, select the **Active** check box on the Task Rate Card form.
@@ -97,7 +97,7 @@ TCO enables you to perform the following actions:
     , where the TCO benchmark threshold percentage is set to 75% of the TCO benchmark cost by default. For more information, see [Hardware model details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/hardware-model-fields.md).
 
 -   Create a report and compare TCO for a group of assets. For more information on the TCO dashboard and reports, see [Asset analytics view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/asset-analytics-view.md).
--   For real-time or offline TCO reports, normalize the asset TCO over its useful life and compare the normalized TCO for different [[c_Models|models]] and assets.
+-   For real-time or offline TCO reports, normalize the asset TCO over its useful life and compare the normalized TCO for different models and assets.
     -   When the useful life of the asset is equal to or greater than asset life, the Normalized TCO \(TCO per month\) is calculated by using the following formula:
 
         ```
@@ -114,20 +114,11 @@ TCO enables you to perform the following actions:
 **Note:** TCO isn't calculated and tracked for the following assets and consumables:
 
 -   Bundle assets
--   [[pallet-assets|Pallet assets]]
+-   Pallet assets
 -   Individual consumables
 
     If you have used consumables as child assets, their expense lines are added to the parent asset.
 
 -   Excluded assets
--   Assets that are a part of the opted out [[model-hierarchy|model categories]].
+-   Assets that are a part of the opted out model categories.
 
-## Related
-
-- [[ham-landing-page|Hardware Asset Management]]
-- [[zero-touch-asset-refresh|Zero Touch Refresh]]
-- [[return-merchandise-authorization|Return Merchandise Authorization]]
-- [[reclaim-asset|Asset reclamation]]
-- [[c_Models|Models]]
-- [[pallet-assets|Pallet assets]]
-- [[model-hierarchy|Model categories]]

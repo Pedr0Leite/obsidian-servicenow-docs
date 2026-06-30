@@ -12,7 +12,7 @@ breadcrumb: [Transaction Manager, CPQ app, Configure, price, quote apps, Configu
 
 # Transaction Manager: Integrate Salesforce approvals
 
-Integrate Salesforce approvals into [[transaction-manager|Transaction Manager]].
+Integrate Salesforce approvals into Transaction Manager.
 
 \[Omitted image "cpq-txn-mgr-integrate-SF-approvals-1.png"\] Alt text: Menu
 
@@ -65,7 +65,7 @@ This streamlines the approval process and ensures consistency.
     \[Omitted image "cpq-txn-mgr-integrate-SF-approvals-sf-setup-7.png"\] Alt text: Layout
 
 9.  Go back to the approval process, click **Initial Submission Actions**, click **Add New**, and then select **Field Update**. Configure it with the required values.
-10. To ensure that the relevant [[fields|fields]] are updated based on the outcome of the approval process, repeat step 9 for the Approval Actions and Rejection Actions sections. The following screenshot shows the final rejection option.
+10. To ensure that the relevant fields are updated based on the outcome of the approval process, repeat step 9 for the Approval Actions and Rejection Actions sections. The following screenshot shows the final rejection option.
 
     \[Omitted image "cpq-txn-mgr-integration-get-retrieve-opp-8.png"\] Alt text: Transaction
 
@@ -334,7 +334,3 @@ WHERE TargetObjectId-'006bm000002IUI4AAO' -- This is the sf oppy/transaction obj
 ORDER BY CreatedDate DESC
 ```
 
-## Related
-
-- [[transaction-manager|Transaction Manager]]
-- [[fields|Fields]]

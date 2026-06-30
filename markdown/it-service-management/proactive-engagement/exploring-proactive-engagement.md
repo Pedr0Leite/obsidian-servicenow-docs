@@ -18,7 +18,7 @@ It is a solution where the self-resolution remediation process is proactive, sea
 
 ## Proactive Engagement overview
 
-ServiceNow® [[proactive-engagement-landing-page|Proactive Engagement]] helps an organization in improving employee digital experience, productivity, and satisfaction by proactively enabling employees to self-solve digital issues they experience on a day-to-day basis. The self-remediation process is seamless and consistent without the organization having to publish all solution sets.
+ServiceNow® Proactive Engagement helps an organization in improving employee digital experience, productivity, and satisfaction by proactively enabling employees to self-solve digital issues they experience on a day-to-day basis. The self-remediation process is seamless and consistent without the organization having to publish all solution sets.
 
 Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do) website to view all the available apps and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
@@ -26,15 +26,15 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do) 
 
 ## Proactive Engagement Key features
 
--   Enables employees to self-solve digital experience issues by leveraging the proactive issue detection and resolution capability of the ServiceNow [[dex-landing|Digital End-User Experience]] product.
+-   Enables employees to self-solve digital experience issues by leveraging the proactive issue detection and resolution capability of the ServiceNow Digital End-User Experience product.
 -   Engages employees to provide a seamless resolution experience through remedial actions \(automations\) and self-service content.
--   Provides quick scaling and consistent support for increasing the range of [[dex-workspace-application-tab|applications]].
+-   Provides quick scaling and consistent support for increasing the range of applications.
 
 ## ServiceNow Digital End-User Experience integration with Proactive Engagement
 
-ServiceNow Digital End-User Experience empowers IT to take proactive measures and offers a clear view of end-user applications, [[dex-workspace-devices-tab|devices]], and networks. It further along with Proactive Engagement enables employees to independently resolve issues, troubleshoot, and engage with the Virtual Agent.
+ServiceNow Digital End-User Experience empowers IT to take proactive measures and offers a clear view of end-user applications, devices, and networks. It further along with Proactive Engagement enables employees to independently resolve issues, troubleshoot, and engage with the Virtual Agent.
 
-ServiceNow Proactive Engagement is part of the ServiceNow Digital End-User Experience now. The Proactive Engagement application is installed as part of the Digital End-User Experience bundle. It assists in defining issue detection rules, resolution content, and engagement [[settings-mobile|settings]] that help employees to self-solve digital experience issues by leveraging proactive identification of issues.
+ServiceNow Proactive Engagement is part of the ServiceNow Digital End-User Experience now. The Proactive Engagement application is installed as part of the Digital End-User Experience bundle. It assists in defining issue detection rules, resolution content, and engagement settings that help employees to self-solve digital experience issues by leveraging proactive identification of issues.
 
 For information on the ServiceNow Digital End-User Experience, see [Digital End-User Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-landing.md).
 
@@ -47,7 +47,7 @@ For information on the ServiceNow Digital End-User Experience, see [Digital End-
 -   Customize the Proactive Engagement base system resolutions that are shipped by ServiceNow.
 -   Manage the Proactive Engagement resolutions through the Proactive Engagement workbench.
 
-**Note:** The Engagement Admin role is required to [[add-alert-action|add an alert action]].
+**Note:** The Engagement Admin role is required to add an alert action.
 
 ## Employee experience
 
@@ -65,7 +65,7 @@ For information on the ServiceNow Digital End-User Experience, see [Digital End-
 
     -   When the employee accepts help, the employee is engaged through the configured engagement channel.
     -   Currently, only Virtual Agent is the supported configured channel to send notifications to the employee.
-3.  Proactive Engagement retrieves the configured proactive resolution for the metric rule and engages the employee by providing solutions such as URLs, self-help instructions, or executes the relevant [[remedial-action|remedial action]] on the employees device with their consent.
+3.  Proactive Engagement retrieves the configured proactive resolution for the metric rule and engages the employee by providing solutions such as URLs, self-help instructions, or executes the relevant remedial action on the employees device with their consent.
 
     -   If the resolution has successfully resolved the issue, the engagement is marked as successful.
     -   If the resolution has not resolved the issue, the employee is given fallback options such as incident creation or will be connected to an agent.
@@ -77,12 +77,3 @@ For information on the ServiceNow Digital End-User Experience, see [Digital End-
 
 **Parent Topic:**[Proactive Engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/proactive-engagement/proactive-engagement-landing-page.md)
 
-## Related
-
-- [[proactive-engagement-landing-page|Proactive Engagement]]
-- [[dex-landing|Digital End-User Experience]]
-- [[dex-workspace-application-tab|Applications]]
-- [[dex-workspace-devices-tab|Devices]]
-- [[settings-mobile|Settings]]
-- [[add-alert-action|Add an alert action]]
-- [[remedial-action|Remedial action]]

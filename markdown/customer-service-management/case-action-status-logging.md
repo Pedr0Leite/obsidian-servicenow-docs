@@ -12,13 +12,13 @@ breadcrumb: [Case action status, Configure case management, Case management, Org
 
 # Case action status logging
 
-Logging for the [[case-action-status-csm-workspace|case action status]] feature uses a metric definition to view information about [[case-action-status-blocking-tasks|blocking tasks]] associated with customer service cases.
+Logging for the case action status feature uses a metric definition to view information about blocking tasks associated with customer service cases.
 
 Defined metrics can track how long a specific field holds a certain value. The **Case Actor Duration** metric definition logs the events related to case blocking tasks.
 
 When a case blocking task is created or resolved, the system logs the information. This information can be used to report on the duration of the case with the customer, the agent, or other internal stakeholders.
 
-As a case gets blocked and unblocked by a customer or an internal user, the metric definition [[gamification-components-tracks|tracks]] the duration of the case with each of these actors.
+As a case gets blocked and unblocked by a customer or an internal user, the metric definition tracks the duration of the case with each of these actors.
 
 The metrics include:
 
@@ -36,8 +36,3 @@ To access the **Case Actor Duration** metric definition, navigate to **All** &gt
 -   [Metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_MetricDefinitionSupport.md)
 -   [Define a metric](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-metric.md)
 
-## Related
-
-- [[case-action-status-csm-workspace|Case action status]]
-- [[case-action-status-blocking-tasks|Blocking tasks]]
-- [[gamification-components-tracks|Tracks]]

@@ -22,9 +22,9 @@ Role required: sn\_icw.safety\_incident\_user
 
 ## About this task
 
-The [[icw-mobile-exp-landing-page|Industrial Connected Workforce Mobile Experience]] enables operators to quickly report safety incidents while on the shop floor. This mobile reporting flow is designed for rapid incident capture, with your functional location automatically pre-filled.
+The Industrial Connected Workforce Mobile Experience enables operators to quickly report safety incidents while on the shop floor. This mobile reporting flow is designed for rapid incident capture, with your functional location automatically pre-filled.
 
-**Note:** The mobile experience is optimized for quick incident reporting. For detailed investigation and triage, use the [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]].
+**Note:** The mobile experience is optimized for quick incident reporting. For detailed investigation and triage, use the Digital Factory Workspace.
 
 ## Procedure
 
@@ -32,7 +32,7 @@ The [[icw-mobile-exp-landing-page|Industrial Connected Workforce Mobile Experien
 
 2.  From the **Actions** menu, select **New safety incident**.
 
-3.  On the [[icw-safety-incident-form|Safety Incident form]], fill in the required fields.
+3.  On the Safety Incident form, fill in the required fields.
 
     Your functional location is pre-filled based on your user profile.
 
@@ -63,8 +63,3 @@ The safety incident is created and submitted for triage. You can view the incide
 
 [Using ICW Health and Safety Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/using-icw-health-and-safety-integration.md)
 
-## Related
-
-- [[icw-mobile-exp-landing-page|Industrial Connected Workforce Mobile Experience]]
-- [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]
-- [[icw-safety-incident-form|Safety Incident form]]

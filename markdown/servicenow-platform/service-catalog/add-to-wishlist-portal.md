@@ -26,7 +26,7 @@ Role required: requester
 
     The Service Portal homepage is displayed.
 
-2.  Select a catalog item or [[c_RecordProducer|record producer]] from [[service-catalog|Service Catalog]].
+2.  Select a catalog item or record producer from Service Catalog.
 
 3.  Click the Add to Wish List icon \(\[Omitted image "SPWishList.png"\] Alt text: Icon to add to the wishlist\) in the Ordering widget.
 
@@ -73,7 +73,7 @@ To navigate to the Service Catalog landing page, click **View the Catalog**.
 **Related topics**  
 
 
-[Access [[c_ServiceCatalogCategories|Service Catalog categories]] in Service Portal]()
+[Access Service Catalog categories in Service Portal]()
 
 [Add a catalog item to the shopping cart]()
 
@@ -83,8 +83,3 @@ To navigate to the Service Catalog landing page, click **View the Catalog**.
 
 [SC Wish List Cart widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/sc-wish-list.md)
 
-## Related
-
-- [[c_RecordProducer|Record Producer]]
-- [[service-catalog|Service Catalog]]
-- [[c_ServiceCatalogCategories|Service catalog categories]]

@@ -12,7 +12,7 @@ breadcrumb: [Customer Service Management]
 
 # Using Customer Service Management
 
-Agents and managers can use [[c_CustomerServiceManagement|Customer Service Management]] application to create cases for customers, route cases to agents with the required skills and availability, manage customer information and case activity, and connect with other applications and departments to assist with case resolution.
+Agents and managers can use Customer Service Management application to create cases for customers, route cases to agents with the required skills and availability, manage customer information and case activity, and connect with other applications and departments to assist with case resolution.
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
@@ -24,7 +24,7 @@ Agents and managers can use [[c_CustomerServiceManagement|Customer Service Manag
 
 </td><td>
 
-[Automate and optimize \[Omitted image "bus-artificial-[[intelligence-csm|intelligence]].svg"\] Alt text: Find tools to automate your work, and use AI tools to streamline cases.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/automate-and-optimize.md)
+[Automate and optimize \[Omitted image "bus-artificial-intelligence.svg"\] Alt text: Find tools to automate your work, and use AI tools to streamline cases.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/automate-and-optimize.md)
 
 </td></tr><tr><td>
 
@@ -39,44 +39,32 @@ Agents and managers can use [[c_CustomerServiceManagement|Customer Service Manag
 [Customer communication \[Omitted image "bus-chat.svg"\] Alt text: Learn about tools for portals and case deflection. Find examples and information on using self-service tools and contacting agents for assistance.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-communication.md)
 
 </td></tr></tbody>
-</table>-   **[[manage-cases|Manage cases]]**
+</table>-   **Manage cases**
 
     Efficiently manage customer and consumer interactions by creating, assigning, and resolving cases received through various channels like chat, email, and calls.
 
     Use advanced tools, configurable workspaces, and knowledge resources to streamline workflows, and ensure personalized and timely support.
 
--   **[[manage-schedules-and-sites|Manage schedules and sites]]**
+-   **Manage schedules and sites**
 
     Manage agent schedules, customer service cases, and install base plans using tools like agent calendars, Microsoft Outlook integrated with CSM, and the CSM mobile app.
 
     You can get real-time updates, streamlined collaboration, and service contracts to enhance customer service efficiency and support.
 
--   **[[automate-and-optimize|Automate and optimize]]**
+-   **Automate and optimize**
 
-    Integrate Virtual Agent for automation and [[proactive-service-operations|Proactive Customer Service Operations]] for early issue resolution. Use Task Intelligence, Guided Decisions, and Playbooks to streamline [[case-management|case management]].
+    Integrate Virtual Agent for automation and Proactive Customer Service Operations for early issue resolution. Use Task Intelligence, Guided Decisions, and Playbooks to streamline case management.
 
--   **[[agent-management|Agent management]]**
+-   **Agent management**
 
     Agent Management involves recruiting, training, and monitoring agents to improve customer service. Key tasks include time entries, case assignment, managing special handling note, chat support and overseeing outsourced service provider tasks.
 
--   **[[customer-management|Customer management]]**
+-   **Customer management**
 
     Streamline customer access, contract management, and social media integration to enhance service efficiency. Support B2B2C models for better customer relationships and improve workflows across multiple service channels.
 
--   **[[customer-communication|Customer communication]]**
+-   **Customer communication**
 
-    Optimize customer service with Playbooks, reducing resolution time and guiding users through tasks. Empower customers with seamless service via auto-responders, [[omnichannel|omnichannel]] callbacks, and personalized portal experiences for faster, smarter support.
+    Optimize customer service with Playbooks, reducing resolution time and guiding users through tasks. Empower customers with seamless service via auto-responders, omnichannel callbacks, and personalized portal experiences for faster, smarter support.
 
-## Related
 
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[intelligence-csm|Intelligence]]
-- [[manage-cases|Manage cases]]
-- [[manage-schedules-and-sites|Manage schedules and sites]]
-- [[automate-and-optimize|Automate and optimize]]
-- [[proactive-service-operations|Proactive Customer Service Operations]]
-- [[case-management|Case management]]
-- [[agent-management|Agent management]]
-- [[customer-management|Customer management]]
-- [[customer-communication|Customer communication]]
-- [[omnichannel|Omnichannel]]

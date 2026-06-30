@@ -16,7 +16,7 @@ Support your business-to-business \(B2B\) customers by enabling self-service cap
 
 ## Business Portal overview
 
-The Business Portal is a self‑service, customer‑facing web interface in [[order-mgt-overview|Sales Customer Relationship Management]] that enables B2B customers to discover products, configure offerings, and place orders directly through a secure, web‑based experience. The portal complements internal sales workflows, enabling your customers to engage with the sales process independently while remaining fully integrated with core CRM data and processes. The Business Portal, which is based on Customer Service Management, streamlines order placement, reduces dependency on manual sales interactions, and accelerates revenue generation. It also provides integrated access to knowledge articles, community forums, service catalogs, and chatbots.
+The Business Portal is a self‑service, customer‑facing web interface in Sales Customer Relationship Management that enables B2B customers to discover products, configure offerings, and place orders directly through a secure, web‑based experience. The portal complements internal sales workflows, enabling your customers to engage with the sales process independently while remaining fully integrated with core CRM data and processes. The Business Portal, which is based on Customer Service Management, streamlines order placement, reduces dependency on manual sales interactions, and accelerates revenue generation. It also provides integrated access to knowledge articles, community forums, service catalogs, and chatbots.
 
 ## Business Portal benefits
 
@@ -36,7 +36,7 @@ Enable customers to place orders independently, reducing sales cycle time and ac
 
 </td><td>
 
-[[order-mgt-create-an-order-using-customer-portal|Create orders from the Business Portal]]
+[Create orders from the Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-create-an-order-using-customer-portal.md)
 
 </td></tr><tr><td>
 
@@ -44,7 +44,7 @@ Accelerate pricing and proposal turnaround by enabling customers to request quot
 
 </td><td>
 
-[[create-rfq-business-portal|Submit a request for quote from the Business Portal]]
+[Submit a request for quote from the Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-rfq-business-portal.md)
 
 </td></tr><tr><td>
 
@@ -52,7 +52,7 @@ Enable customers to view quotes generated from requests for quotes \(RFQs\) or q
 
 </td><td>
 
-[[view-quotes-business-portal|View quotes from the Business Portal]]
+[View quotes from the Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/view-quotes-business-portal.md)
 
 </td></tr><tr><td>
 
@@ -60,9 +60,9 @@ Reduce customer dependency on customer service agents for routine order inquirie
 
 </td><td>
 
-[[create-order-case-for-multiple-orders|Request updates for one or more orders]]
+[Request updates for one or more orders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-order-case-for-multiple-orders.md)
 
- [[create-order-case-specific-order-lines|Request updates for items in a single order]]
+ [Request updates for items in a single order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-order-case-specific-order-lines.md)
 
 </td></tr><tr><td>
 
@@ -70,7 +70,7 @@ Provide customers access to their invoice and invoice line details so they can t
 
 </td><td>
 
-[[view-invoices-business-portal|View invoices on the Business Portal]]
+[View invoices on the Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/view-invoices-business-portal.md)
 
 </td></tr><tr><td>
 
@@ -78,9 +78,9 @@ Simplify invoice inquiries and dispute management through a direct, trackable se
 
 </td><td>
 
-[[create-invoice-case-single|Dispute a specific line item on an invoice against your account using the Business Portal]]
+[Dispute a specific line item on an invoice against your account using the Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-invoice-case-single.md)
 
- [[create-invoice-case-multiple|Dispute multiple invoices against your account using the Business Portal]]
+ [Dispute multiple invoices against your account using the Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-invoice-case-multiple.md)
 
 </td></tr></tbody>
 </table>## Business Portal and sales agents
@@ -91,24 +91,10 @@ Sales agents don’t directly use the Business Portal, but work on orders, order
 
 The following topics provide more information about configuring and using the Business Portal:
 
--   [[order-management-configure-business-portal|Configuring the Business Portal]]
--   [[order-mgt-business-portal|Customer self-service using the Business Portal]]
+-   [Configuring the Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-management-configure-business-portal.md)
+-   [Customer self-service using the Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-business-portal.md)
 -   Getting started with the Business Portal: [Configure Business and Consumer Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-business-portal.md)
--   [[som-business-portal-reference|Business Portal reference for Sales Customer Relationship Management]]
+-   [Business Portal reference for Sales Customer Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-business-portal-reference.md)
 -   [Using the Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/use-the-business-portal.md)
 -   [Business Portal user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_BusinessPortalUserRoles.md)
 
-## Related
-
-- [[order-mgt-create-an-order-using-customer-portal|Create orders from the Business Portal]]
-- [[create-rfq-business-portal|Submit a request for quote from the Business Portal]]
-- [[view-quotes-business-portal|View quotes from the Business Portal]]
-- [[create-order-case-for-multiple-orders|Request updates for one or more orders]]
-- [[create-order-case-specific-order-lines|Request updates for items in a single order]]
-- [[view-invoices-business-portal|View invoices on the Business Portal]]
-- [[create-invoice-case-single|Dispute a specific line item on an invoice against your account using the Business Portal]]
-- [[create-invoice-case-multiple|Dispute multiple invoices against your account using the Business Portal]]
-- [[order-management-configure-business-portal|Configuring the Business Portal]]
-- [[order-mgt-business-portal|Customer self-service using the Business Portal]]
-- [[som-business-portal-reference|Business Portal reference for Sales Customer Relationship Management]]
-- [[order-mgt-overview|Sales Customer Relationship Management]]

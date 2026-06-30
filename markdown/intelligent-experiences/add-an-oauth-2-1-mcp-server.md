@@ -12,7 +12,7 @@ breadcrumb: [Adding an MCP Server in AI Agent Studio, Configuring Model Context 
 
 # Add an MCP Server with OAuth 2.1
 
-Add an MCP Server with OAuth 2.1 in the [[ai-agent-studio|AI Agent Studio]].
+Add an MCP Server with OAuth 2.1 in the AI Agent Studio.
 
 ## Before you begin
 
@@ -63,7 +63,7 @@ MCP Server URL
 The web address of your MCP Server.
 
 </td></tr></tbody>
-</table>    \[Omitted image "mcp-server-oauth.png"\] Alt text: [[add-mcp-client-on-ai-agent-studio|Adding an MCP Server in AI Agent Studio]] with OAuth 2.1.
+</table>    \[Omitted image "mcp-server-oauth.png"\] Alt text: Adding an MCP Server in AI Agent Studio with OAuth 2.1.
 
 4.  Select **Next**.
 
@@ -251,7 +251,7 @@ Web address to revoke the previously provided token.
 
 7.  Select **Add**.
 
-    Selecting Add takes you to the [[view-the-mcp-server-record|MCP Server record]] where you must authenticate it for adding an MCP tool to an AI agent.
+    Selecting Add takes you to the MCP Server record where you must authenticate it for adding an MCP tool to an AI agent.
 
 8.  Select **Authenticate**.
 
@@ -259,8 +259,4 @@ Web address to revoke the previously provided token.
 
     **Note:** When the OAuth access or refresh tokens aren’t available, you must authenticate the OAuth configuration on the MCP Server record to add it as a tool to an AI agent.
 
-## Related
 
-- [[ai-agent-studio|AI Agent Studio]]
-- [[add-mcp-client-on-ai-agent-studio|Adding an MCP Server in AI Agent Studio]]
-- [[view-the-mcp-server-record|MCP server record]]

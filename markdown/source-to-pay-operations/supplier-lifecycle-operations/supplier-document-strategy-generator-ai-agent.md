@@ -14,7 +14,7 @@ breadcrumb: [AI driven supplier onboarding, Use, Now Assist for SLO, Supplier Li
 
 # Supplier document strategy generator AI agent
 
-Generate a customized onboarding task list that meets the [[supplier|supplier]]'s compliance and regulatory requirements using the Supplier document strategy generator AI agent.
+Generate a customized onboarding task list that meets the supplier's compliance and regulatory requirements using the Supplier document strategy generator AI agent.
 
 The Supplier document strategy generator AI agent analyzes all published knowledge base articles using the RAG \(Retrieval-Augmented Generation\) framework to gather information on compliance and regulation-related tasks. Based on the analysis, the AI agent generates a contextualized list of tasks specific to the supplier's region and industry.
 
@@ -30,6 +30,3 @@ Supplier Managers can view the list of tasks identified by the AI agent on the *
 
 After the tasks are generated, Supplier Managers can update the details of the tasks by adding notes and comments. They can also create tasks manually.
 
-## Related
-
-- [[supplier|Supplier]]

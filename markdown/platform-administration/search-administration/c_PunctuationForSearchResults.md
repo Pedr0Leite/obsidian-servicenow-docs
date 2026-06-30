@@ -14,7 +14,7 @@ breadcrumb: [Zing indexes words, Zing text indexing and search engine, Search ad
 
 # Zing indexes punctuation as part of some words
 
-Zing indexes some punctuation marks as part of some words to improve search [[hs-results|results]] for common search terms.
+Zing indexes some punctuation marks as part of some words to improve search results for common search terms.
 
 <table id="table_vyb_g1w_1q"><thead><tr><th>
 
@@ -186,6 +186,3 @@ Zing locates product numbers that follow a typical pattern. To meet this pattern
 
 [Configure tables to use the Japanese tokenizer]()
 
-## Related
-
-- [[hs-results|Results]]

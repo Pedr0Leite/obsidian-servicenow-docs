@@ -16,13 +16,13 @@ You must activate policies before you can view which threats to your assets are 
 
 ## Before you begin
 
-Verify you have completed the requirements listed in [[spc-install-config-controls|Install and configure the CrowdStrike integrations for mitigation controls monitoring]], [[spc-install-config-sccm-defender|Install and configure the Service Graph Connector for Microsoft SCCM and the Microsoft Defender Mitigation Control Integration]] and [[spc-install-config-f5-controls|Configure the F5 BIG-IP integrations for mitigation controls monitoring]].
+Verify you have completed the requirements listed in [Install and configure the CrowdStrike integrations for mitigation controls monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-install-config-controls.md), [Install and configure the Service Graph Connector for Microsoft SCCM and the Microsoft Defender Mitigation Control Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-install-config-sccm-defender.md) and [Configure the F5 BIG-IP integrations for mitigation controls monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-install-config-f5-controls.md).
 
 Roles required: SPC Admin Group and SPC Analyst Group.
 
 ## Procedure
 
-1.  To view assets with mitigations detected by [[spc-landing|Security Posture Control]] with the ‘Assets with MITRE mitigations’ widget on the dashboard, follow these steps.
+1.  To view assets with mitigations detected by Security Posture Control with the ‘Assets with MITRE mitigations’ widget on the dashboard, follow these steps.
 
     1.  Navigate to **Workspaces** &gt; **Security Posture Control** &gt; **Home**.
 
@@ -38,12 +38,6 @@ Roles required: SPC Admin Group and SPC Analyst Group.
 
     7.  Select the **Mitigated vulnerable items** tab to see the list of vulnerable items mitigated by this mitigation control.
 
-        **Note:** For this tab to be populated, the [[vuln-landing-page|Vulnerability Response]] application must be installed and activated.
+        **Note:** For this tab to be populated, the Vulnerability Response application must be installed and activated.
 
-## Related
 
-- [[spc-install-config-controls|Install and configure the CrowdStrike integrations for mitigation controls monitoring]]
-- [[spc-install-config-sccm-defender|Install and configure the Service Graph Connector for Microsoft SCCM and the Microsoft Defender Mitigation Control Integration]]
-- [[spc-install-config-f5-controls|Configure the F5 BIG-IP integrations for mitigation controls monitoring]]
-- [[spc-landing|Security Posture Control]]
-- [[vuln-landing-page|Vulnerability Response]]

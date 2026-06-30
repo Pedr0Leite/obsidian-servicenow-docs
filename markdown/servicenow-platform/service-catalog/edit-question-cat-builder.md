@@ -28,11 +28,11 @@ You can’t edit the questions that belong to single-row and multi-row variable 
 
 -   If the question is used in a published catalog item, you can’t delete it but you can mark it as inactive. You can include such questions again in the catalog item by using the **Insert De-activated questions** option.
 -   Removing a new question that has never been published deletes the question.
--   You can’t remove questions of types that aren't allowed in the template or supported in the [[catalog-builder|Catalog Builder]].
+-   You can’t remove questions of types that aren't allowed in the template or supported in the Catalog Builder.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[service-catalog|Service Catalog]]** &gt; **Catalog Builder**.
+1.  Navigate to **All** &gt; **Service Catalog** &gt; **Catalog Builder**.
 
 2.  Select the **Catalog items** tab.
 
@@ -62,7 +62,3 @@ You can’t edit the questions that belong to single-row and multi-row variable 
 
 [UI policy form in Catalog Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/ui-policy-form-in-catalog-builder.md)
 
-## Related
-
-- [[catalog-builder|Catalog Builder]]
-- [[service-catalog|Service Catalog]]

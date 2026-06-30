@@ -14,13 +14,13 @@ breadcrumb: [Request a false positive for a vulnerable item or remediate task, U
 
 # Request a false positive for a set of test results
 
-Raise a false positive request for a set of test results within a remediation task in the [[it-remediation-workspace-landing-page|IT Remediation Workspace]].
+Raise a false positive request for a set of test results within a remediation task in the IT Remediation Workspace.
 
 ## About this task
 
 The following conditions must be met for you to request a false positive for a set of test results within a Remediation Task:
 
--   Version 22.0 of [[vuln-landing-page|Vulnerability Response]] must be installed.
+-   Version 22.0 of Vulnerability Response must be installed.
 -   At least one selected test result must be in the Active state
 -   The remediation task must have at least two test results
 -   At least one test result is unselected
@@ -35,7 +35,7 @@ Role required: sn\_vulc.remediation\_owner
 
 2.  Select the List icon \(\[Omitted image "listview-icon.png"\] Alt text: List icon\).
 
-3.  On the List page, select the [[vuln-config-compl-remediation|Configuration Compliance Remediation]] Task.
+3.  On the List page, select the Configuration Compliance Remediation Task.
 
 4.  In the Overview related list, under the Test Results tab, select the test results that you want to mark as false positive.
 
@@ -68,8 +68,4 @@ You will receive an email notification on the approval or rejection of your requ
 
     The remediation task will revert to the Open state after the specified date and the State is rolled down to the test results.
 
-## Related
 
-- [[it-remediation-workspace-landing-page|IT Remediation Workspace]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[vuln-config-compl-remediation|Configuration Compliance remediation]]

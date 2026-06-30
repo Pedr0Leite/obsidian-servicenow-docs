@@ -14,13 +14,13 @@ breadcrumb: [Reference, Interview Management, Hiring Experiences, HR Service Del
 
 # Components installed with Interview Management
 
-With activation of the [[interview-management-landing|Interview Management]] plugin, the associated tables and scheduled jobs are installed.
+With activation of the Interview Management plugin, the associated tables and scheduled jobs are installed.
 
 ## Scheduled jobs installed
 
 |Scheduled job|Description|
 |-------------|-----------|
-|Notify Recruiter and [[hiring-tab-concept|Hiring]] manager on alternate days|Send notifications to Recruiter and Hiring manager.|
+|Notify Recruiter and Hiring manager on alternate days|Send notifications to Recruiter and Hiring manager.|
 |Remind share availability|Reminder to share scheduling preferences|
 |Sync interview availability preference status|Update future slots available flag of preferences|
 |Purge Interview Preference and Availability Request table data|Purge the data in the Interview Preference and Availability Request tables.|
@@ -36,7 +36,3 @@ With activation of the [[interview-management-landing|Interview Management]] plu
 
 **Parent Topic:**[Interview Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/interview-management-reference.md)
 
-## Related
-
-- [[interview-management-landing|Interview Management]]
-- [[hiring-tab-concept|Hiring]]

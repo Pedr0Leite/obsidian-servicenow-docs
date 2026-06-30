@@ -20,11 +20,11 @@ The Predictor Result table includes entries for each prediction result, includin
 
 ## Viewing prediction data
 
-Navigate to **All** &gt; **[[csm-task-intelligence|Task Intelligence for Customer Service]]** &gt; **History** to view the Predictor Result list.
+Navigate to **All** &gt; **Task Intelligence for Customer Service** &gt; **History** to view the Predictor Result list.
 
 Users with the following roles can access the **History** module:
 
--   Task [[intelligence-csm|Intelligence]] admin \[sn\_csm\_ml\_task.ti\_admin\]
+-   Task Intelligence admin \[sn\_csm\_ml\_task.ti\_admin\]
 -   Customer Service manager \[sn\_customerservice\_manager\]
 
 Categorization feedback captures values when the status of a case changes to Closed. It captures these values if:
@@ -32,7 +32,7 @@ Categorization feedback captures values when the status of a case changes to Clo
 -   Case categorization is active.
 -   The predicted field value is different from the case field value.
 
-Categorization feedback works for [[case-categorization-overview|record categorization]] solutions and for solutions with and without attachments. Email categorization solutions are trained using data from the Email \[sys\_email\] table. Case categorization solutions are trained using data from the Case \[sn\_customerservice\_case\] table or from tables that extend the Case table. Interaction categorization solutions are trained using data from the Interaction \[interaction\] table.
+Categorization feedback works for record categorization solutions and for solutions with and without attachments. Email categorization solutions are trained using data from the Email \[sys\_email\] table. Case categorization solutions are trained using data from the Case \[sn\_customerservice\_case\] table or from tables that extend the Case table. Interaction categorization solutions are trained using data from the Interaction \[interaction\] table.
 
 Categorization feedback is triggered by a flow.
 
@@ -63,8 +63,3 @@ If the values for a case or interaction have been predicted using a record categ
 
 Duplicate entries can be posted in the Predictor Result table for email sentiment replies. To help prevent these duplicate entries, deactivate the **Predict Sentiment for Cases** inbound email action. For more information, see [Inbound email actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_InboundEmailActions.md).
 
-## Related
-
-- [[csm-task-intelligence|Task Intelligence for Customer Service]]
-- [[intelligence-csm|Intelligence]]
-- [[case-categorization-overview|Record categorization]]

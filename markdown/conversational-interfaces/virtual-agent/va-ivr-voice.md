@@ -14,7 +14,7 @@ breadcrumb: [Integrating Virtual Agent with Voice channels, Integrate VA with ot
 
 # Conversational IVR with Amazon Connect
 
-Use Conversational IVR with Amazon Connect to enable Conversational Interactive Voice Response \(IVR\) on your instance. Users will be able to conduct conversations with a bot via the phone channel, powered by ServiceNow [[virtual-agent-landing-page|Virtual Agent]].
+Use Conversational IVR with Amazon Connect to enable Conversational Interactive Voice Response \(IVR\) on your instance. Users will be able to conduct conversations with a bot via the phone channel, powered by ServiceNow Virtual Agent.
 
 ## Get started with Conversational IVR with Amazon Connect
 
@@ -28,7 +28,7 @@ Select a tile to get started.
 
 </td><td>
 
-[Install\[Omitted image "bus-root-cause-issue-resolution.svg"\] Alt text:[[install-va-ivr|Install Conversational IVR with Amazon Connect]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/install-va-ivr.md)
+[Install\[Omitted image "bus-root-cause-issue-resolution.svg"\] Alt text:Install Conversational IVR with Amazon Connect.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/install-va-ivr.md)
 
 </td><td>
 
@@ -40,7 +40,7 @@ Select a tile to get started.
 Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
 -   **[Exploring Conversational IVR with Amazon Connect](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/exploring-conv-ivr-amazon-connect.md)**  
-Use this application to build an integration with Amazon Connect. This allows your users to initiate an IVR \(Interactive Voice Response\) conversation with Virtual Agent. This integration also allows the user to connect with an agent [[using-awa|using Advanced Work Assignment]] \(AWA\) over SoftPhone.
+Use this application to build an integration with Amazon Connect. This allows your users to initiate an IVR \(Interactive Voice Response\) conversation with Virtual Agent. This integration also allows the user to connect with an agent using Advanced Work Assignment \(AWA\) over SoftPhone.
 -   **[Install Conversational IVR with Amazon Connect](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/install-va-ivr.md)**  
 Install Conversational IVR with Amazon Connect application, to use interactive voice response \(IVR\) with Virtual Agent.
 -   **[Configuring Conversational IVR with Amazon Connect](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configuring-ci-ivr-amazon-connect.md)**  
@@ -48,8 +48,3 @@ Install and configure the Conversational Integration with Amazon Connect applica
 
 **Parent Topic:**[Integrating Virtual Agent with Voice channels](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-integ-voice-apps.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[install-va-ivr|Install Conversational IVR with Amazon Connect]]
-- [[using-awa|Using Advanced Work Assignment]]

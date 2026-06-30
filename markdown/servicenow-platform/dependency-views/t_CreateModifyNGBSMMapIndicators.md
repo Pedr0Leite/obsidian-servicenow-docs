@@ -14,7 +14,7 @@ breadcrumb: [Administer, Dependency Views, Configuration Management Database \(C
 
 # Create or modify map indicators
 
-[[c_BusinesssServiceManagementMaps|Dependency Views]] maps and application service maps, use icons to display additional information for a CI by displaying its related records such as alerts, outages, incidents and problems. These icons are called map indicator.
+Dependency Views maps and application service maps, use icons to display additional information for a CI by displaying its related records such as alerts, outages, incidents and problems. These icons are called map indicator.
 
 ## Before you begin
 
@@ -154,7 +154,7 @@ Enable to make the toggle for the specified table available in the Settings dial
 
 </td></tr><tr><td>
 
-[[label|Label]]
+Label
 
 </td><td>
 
@@ -182,7 +182,7 @@ Suffix portion of the tooltip \(Tooltip Label : Tooltip info\).
 
 ## Result
 
-For an indicator to appear in a [[c_NextGenBSMMaps|Dependency Views map]], a CI must meet all filter conditions, and **Active Dependencies** must be selected.
+For an indicator to appear in a Dependency Views map, a CI must meet all filter conditions, and **Active Dependencies** must be selected.
 
 **Parent Topic:**[Administer Dependency Views](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/p_AdministerNGBSM.md)
 
@@ -203,8 +203,3 @@ For an indicator to appear in a [[c_NextGenBSMMaps|Dependency Views map]], a CI 
 
 [Create or edit a dependency type]()
 
-## Related
-
-- [[c_BusinesssServiceManagementMaps|Dependency Views]]
-- [[label|Label]]
-- [[c_NextGenBSMMaps|Dependency Views map]]

@@ -23,8 +23,5 @@ Define your organization's mitigation coverage so that you can effectively measu
 |Very Good|61|80|\#C3DDF0|You have a very good technique mitigation coverage. The chances of an attack are low, and your defence controls can prevent an attack in 61 to 80 percent of the scenarios.|
 |Excellent|81|100|\#68ABDA|You have an excellent technique mitigation coverage and the chances of an attack using this technique is very low and your defence controls can prevent an attack in 81 to 100 percent of the scenarios.|
 
-**Parent Topic:**[[define-the-mitigation-coverage|Define the mitigation coverage]]
+**Parent Topic:**[Define the mitigation coverage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/define-the-mitigation-coverage.md)
 
-## Related
-
-- [[define-the-mitigation-coverage|Define the mitigation coverage]]

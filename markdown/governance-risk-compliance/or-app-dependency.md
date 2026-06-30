@@ -12,7 +12,7 @@ breadcrumb: [Explore, Operational Resilience, Governance, Risk, and Compliance]
 
 # Key dependencies for Operational Resilience
 
-Before you install the [[grc-opres-landing-page|Operational Resilience]] application, you must install the required GRC applications in your instance.
+Before you install the Operational Resilience application, you must install the required GRC applications in your instance.
 
 The following example shows the Operational Resilience hierarchy, required GRC applications, and optional GRC applications that you can add to the reporting dashboard.
 
@@ -25,27 +25,20 @@ The Operational Resilience application \(com.sn\_grc\_oper\_res\) is available f
 1.  GRC: Common Workspace Elements \(com.sn\_grc\_workspace\)
 2.  GRC: Profiles \(com.sn\_grc\)
 3.  GRC: Core Case Management \(com.sn\_grc\_case\_mgmt\)
-4.  [[data-relationship-framework|Data Relationships Framework]] \(com.sn\_app\_grc\_relationship\_config\)
+4.  Data Relationships Framework \(com.sn\_app\_grc\_relationship\_config\)
 5.  Data registry \(com.sn\_app\_grc\_data\_registry\)
 6.  GRC: Risk Shared Common Components \(com.irm-shared-common-components\)
 7.  Document Templates \(com.snc.app-document-templates\)
 
 The following plugins are optional \(soft dependencies\) for Operational Resilience.
 
-1.  GRC: [[r_PolicyComplianceMgmt|Policy and Compliance Management]] \(com.sn\_compliance\)
+1.  GRC: Policy and Compliance Management \(com.sn\_compliance\)
 2.  Advanced Risk \(com.sn\_risk\_advanced\)
 3.  GRC: Risk Management \(com.sn\_risk\)
-4.  GRC: [[bcp-uib|Business Continuity Planning]] \(com.snc.bcm.app\_bcm\_planning\)
-5.  GRC: [[bia-uib|Business Impact Analysis]] \(com.snc.bcm.app\_bcm\_bia\)
+4.  GRC: Business Continuity Planning \(com.snc.bcm.app\_bcm\_planning\)
+5.  GRC: Business Impact Analysis \(com.snc.bcm.app\_bcm\_bia\)
 6.  GRC: Crisis Management \(com.snc.bcm.app\_bcm\_exercise\)
 7.  Vulnerability Response \(com.snc.vulnerability\)
 
 Depending on the applications installed in your instance, you can view the reports on the Operational Resilience reporting dashboard.
 
-## Related
-
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[data-relationship-framework|Data Relationships Framework]]
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[bcp-uib|Business continuity planning]]
-- [[bia-uib|Business impact analysis]]

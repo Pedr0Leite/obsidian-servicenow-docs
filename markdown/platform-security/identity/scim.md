@@ -14,7 +14,7 @@ breadcrumb: [Identity]
 
 # System for Cross-domain Identity Management \(SCIM\)
 
-The System for Cross-domain Identity Management \(SCIM\) API provides endpoints to create, read, update, and delete operations on [[users|users]] and groups using the SCIM protocol.
+The System for Cross-domain Identity Management \(SCIM\) API provides endpoints to create, read, update, and delete operations on users and groups using the SCIM protocol.
 
 <table id="table_qty_rnd_2yb" class="nav-card"><tbody><tr><td>
 
@@ -29,11 +29,7 @@ The System for Cross-domain Identity Management \(SCIM\) API provides endpoints 
  [The SCIM Client is used for creating, updating, and deleting identity resources in a system that supports SCIM compliant REST requests.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/identity/scim-client-app.md)
 
 </td></tr></tbody>
-</table>The SCIM protocol is an application-level HTTP-based protocol based on the HTTP \([RFC7230](https://datatracker.ietf.org/doc/html/rfc7230)\) standard. Use this API for provisioning and managing [[identity-landing|identity]] data, such as users and groups. Use the API on the web and in cross-domain environments, such as enterprise-to-cloud service providers or inter-cloud scenarios.
+</table>The SCIM protocol is an application-level HTTP-based protocol based on the HTTP \([RFC7230](https://datatracker.ietf.org/doc/html/rfc7230)\) standard. Use this API for provisioning and managing identity data, such as users and groups. Use the API on the web and in cross-domain environments, such as enterprise-to-cloud service providers or inter-cloud scenarios.
 
 To access this API, you must activate the SCIM v2 - ServiceNow® Cross-domain Identity Management \(com.snc.integration.scim2\) plugin. To know more about the SCIM API, see [System for Cross-domain Identity Management \(SCIM\) API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scim-api.md).
 
-## Related
-
-- [[users|Users]]
-- [[identity-landing|Identity]]

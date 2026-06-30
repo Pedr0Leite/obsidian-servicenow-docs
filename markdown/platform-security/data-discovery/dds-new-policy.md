@@ -14,7 +14,7 @@ breadcrumb: [Data Discovery policy, Data Discovery Store, Data Discovery, Platfo
 
 # Create new policy
 
-[[create-a-data-discovery-policy|Create a Data Discovery policy]] to begin scanning tables for data patterns.
+Create a Data Discovery policy to begin scanning tables for data patterns.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: discovery.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[data-discovery-landing|Data Discovery]]** &gt; **Policy**.
+1.  Navigate to **All** &gt; **Data Discovery** &gt; **Policy**.
 
 2.  Select the **Create new policy** button.
 
@@ -80,7 +80,3 @@ Displays a list of currently selected tables and columns for the policy
 
 By default the new policy will be set to **Active**. Select the three dots \[Omitted image "dds-dot-icon.png"\] Alt text: Three dots expandable icon and select **Deactivate policy**/**Activate policy** to switch its state.
 
-## Related
-
-- [[create-a-data-discovery-policy|Create a Data Discovery policy]]
-- [[data-discovery-landing|Data Discovery]]

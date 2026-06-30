@@ -48,7 +48,7 @@ Use price ramps to specify how the price of a configurable product offering in a
 
     The Price ramps dialog displays the default settings for the ramp.
 
-6.  On the Price ramps form, fill in the [[fields|fields]].
+6.  On the Price ramps form, fill in the fields.
 
     Default values are set for the **Term,** **Ramp type,** and **Segments**. You can change them as needed.
 
@@ -73,17 +73,12 @@ Use price ramps to specify how the price of a configurable product offering in a
 
     -   Select the check box for the segment to be adjusted.
     -   Select the type of adjustment to be made.
-10. If you are amending a quote, [[Modify|modify]] ramp segments in the price ramps details section as needed.
+10. If you are amending a quote, modify ramp segments in the price ramps details section as needed.
 
     -   To split a segment into two shorter segments within the original term, select the check box for the segment and select **Split segment**. The system automatically divides the segment and assigns the correct effective dates for each resulting segment. If the segment is currently active, the first segment ends on the current date and the second segment begins the following day. If the segment is a future segment, it is divided into two equal segments.
     -   To remove a split segment, select the check box for the segment and select **Remove segment**. The split segments are re-merged and the ramp returns to its previous state.
     **Note:** Only segments created by splitting can be removed. Original ramp segments cannot be removed.
 
 
-**Parent Topic:**[[quote-mgmt-using|Using Quote Management]]
+**Parent Topic:**[Using Quote Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-mgmt-using.md)
 
-## Related
-
-- [[quote-mgmt-using|Using Quote Management]]
-- [[fields|Fields]]
-- [[Modify|Modify]]

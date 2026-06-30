@@ -14,7 +14,7 @@ breadcrumb: [Use generative AI skills, Now Assist for FSM]
 
 # Summarize a Sidebar discussion
 
-Generate a summary of the Sidebar discussions between agents, dispatchers, and subject matter experts by using the Sidebar summarization skill in the [[now-assist-fsm|Now Assist for Field Service Management \(FSM\)]] application.
+Generate a summary of the Sidebar discussions between agents, dispatchers, and subject matter experts by using the Sidebar summarization skill in the Now Assist for Field Service Management \(FSM\) application.
 
 ## Before you begin
 
@@ -103,7 +103,7 @@ On the ServiceNow Agent application, generate a summary of the Sidebar discussio
 
 Role required: wm\_agent
 
-Ensure the Sidebar for [[fsm-application-landing-page|Field Service Management]] plugin \(com.sn\_fsm\_sidebar\) is activated. For more information, see [Activate Sidebar for the Field Service Mobile Agent application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/mobile-experience-for-field-service-management-glide-family/activate-sidebar-mobile.md).
+Ensure the Sidebar for Field Service Management plugin \(com.sn\_fsm\_sidebar\) is activated. For more information, see [Activate Sidebar for the Field Service Mobile Agent application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/mobile-experience-for-field-service-management-glide-family/activate-sidebar-mobile.md).
 
 ### About this task
 
@@ -119,7 +119,4 @@ Summarize the Sidebar discussion at any point during the discussion using the /S
 
 3.  Generate a summary of the Sidebar discussion during the conversation either by using the Summarize quick action \(enter `/Summarize` in the Active sidebar discussion window\), or by selecting the quick action icon \(\[Omitted image "now-assist-sidebar-lightning-bolt-icon.png"\] Alt text: quick action\).
 
-## Related
 
-- [[now-assist-fsm|Now Assist for Field Service Management \(FSM\)]]
-- [[fsm-application-landing-page|Field Service Management]]

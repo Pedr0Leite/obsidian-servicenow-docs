@@ -22,7 +22,7 @@ Role required: sn\_si.write
 
 ## About this task
 
-This workflow runs at the same time as the create task activity to be evaluated. The evaluation script queries the artifacts \(such as [[indicator-sightings|sightings]] search records or running processes\) of the configured capability. It uses context information from the response task \(such as its parent security incident\) to determine the appropriate outcome. The outcome is generally yes or no, but can be workflow activity dependent. When creating an outcome evaluator record, only capabilities that have a configured workflow, with the **Is task based capability** check box selected, and a task input variable set are available to select.
+This workflow runs at the same time as the create task activity to be evaluated. The evaluation script queries the artifacts \(such as sightings search records or running processes\) of the configured capability. It uses context information from the response task \(such as its parent security incident\) to determine the appropriate outcome. The outcome is generally yes or no, but can be workflow activity dependent. When creating an outcome evaluator record, only capabilities that have a configured workflow, with the **Is task based capability** check box selected, and a task input variable set are available to select.
 
 ## Procedure
 
@@ -50,6 +50,3 @@ This workflow runs at the same time as the create task activity to be evaluated.
 
 [Run procdump flow]()
 
-## Related
-
-- [[indicator-sightings|Sightings]]

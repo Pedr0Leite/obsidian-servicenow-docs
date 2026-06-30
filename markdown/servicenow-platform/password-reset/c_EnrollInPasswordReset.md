@@ -14,7 +14,7 @@ breadcrumb: [Password Reset, Manage service capabilities, Extend ServiceNow AI P
 
 # Enrolling in the Password Reset application to reset your password
 
-The [[self-service-landing|self-service]] process is a typical process that you might follow to reset your password. Your experience might differ.
+The self-service process is a typical process that you might follow to reset your password. Your experience might differ.
 
 ## Example experience of the self-service process
 
@@ -22,11 +22,11 @@ The [[self-service-landing|self-service]] process is a typical process that you 
 
     \[Omitted image "forgot-password.png"\] Alt text: Login page
 
-2.  On the Identify page, enter your identifying information \(generally your user name or [[email|email]] address\). The example includes the CAPTCHA security feature.
+2.  On the Identify page, enter your identifying information \(generally your user name or email address\). The example includes the CAPTCHA security feature.
 
     \[Omitted image "identify-enduser-page.png"\] Alt text: Identify page
 
-3.  On the Verify page, verify your identity by providing your verification information. The admin configured the method of verification and can require multiple verifications. In the following example, the admin has configured the Security Questions verification. You must answer questions to prove your identity. \(Earlier, while enrolling for the [[password-reset-landing-page|password reset]] process, you selected these questions and provided secure, private answers.\) Other possible verifications require you to enter a code that was sent to a mobile device by SMS text, through the authenticator app, or by email.
+3.  On the Verify page, verify your identity by providing your verification information. The admin configured the method of verification and can require multiple verifications. In the following example, the admin has configured the Security Questions verification. You must answer questions to prove your identity. \(Earlier, while enrolling for the password reset process, you selected these questions and provided secure, private answers.\) Other possible verifications require you to enter a code that was sent to a mobile device by SMS text, through the authenticator app, or by email.
 
     \[Omitted image "verify-enduser-page.png"\] Alt text: Verify page
 
@@ -44,7 +44,7 @@ Some organizations auto-enroll users in a Password Reset program. Your organizat
 End users might enroll for any combination of the following methods:
 
 -   **Verify your identity using an authenticator app**
-    -   You enroll on a computer that you normally use to access the instance \(you use an authenticator app to reset your password, but can’t use an authenticator to enroll for [[win-password-reset-overview|Password Reset Windows Application]].\). After you’ve enrolled, you install an authenticator app on one or more devices and then authorize the devices for authenticator verification.
+    -   You enroll on a computer that you normally use to access the instance \(you use an authenticator app to reset your password, but can’t use an authenticator to enroll for Password Reset Windows Application.\). After you’ve enrolled, you install an authenticator app on one or more devices and then authorize the devices for authenticator verification.
     -   Later, when you want to reset your password, read the authenticator code on your device and then enter the code on the web page to verify your identity.
 -   **Verify your identity using an SMS code \(SMS verification\)**
     -   To enroll, you authorize a mobile device for SMS verification.
@@ -56,9 +56,3 @@ End users might enroll for any combination of the following methods:
     -   To enroll, you choose multiple questions that only you can answer \(like the name of your first pet\) and then supply answers. The system stores your answers securely.
     -   Later, when you want to reset your password, the system presents one or more of the questions. You answer the questions to verify your identity.
 
-## Related
-
-- [[self-service-landing|Self-service]]
-- [[email|Email]]
-- [[password-reset-landing-page|Password Reset]]
-- [[win-password-reset-overview|Password Reset Windows Application]]

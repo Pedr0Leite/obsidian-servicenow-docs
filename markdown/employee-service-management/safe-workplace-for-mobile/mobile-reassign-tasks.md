@@ -14,7 +14,7 @@ breadcrumb: [Mobile experience for Emergency Response Management, Safe Workplace
 
 # Reassign tasks to your team members in Now Mobile
 
-As a manager, view a list of tasks [[manager-view-lxp|assigned to your team]] members and reassign the tasks to other team members.
+As a manager, view a list of tasks assigned to your team members and reassign the tasks to other team members.
 
 ## Before you begin
 
@@ -24,13 +24,13 @@ Role required: none
 
 ## About this task
 
-From the [[mobile-emergency-response|Safe Workplace for mobile]] app, users can access applications from the [[emergency-response-management|Emergency Response Management]] and [[safe-workplace|Safe Workplace]] product suites.
+From the Safe Workplace for mobile app, users can access applications from the Emergency Response Management and Safe Workplace product suites.
 
 **Note:** The Emergency Response Management for Now® Mobile app was renamed to Safe Workplace for mobile.
 
 ## Procedure
 
-1.  Open the [[mobile-employee-experience|Now Mobile app]].
+1.  Open the Now Mobile app.
 
 2.  Scroll down to the My Team section and click **My Direct Reports Open Tasks**.
 
@@ -51,10 +51,3 @@ From the [[mobile-emergency-response|Safe Workplace for mobile]] app, users can 
 
 **Parent Topic:**[Safe Workplace for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace-for-mobile/mobile-emergency-response.md)
 
-## Related
-
-- [[manager-view-lxp|Assigned to your team]]
-- [[mobile-emergency-response|Safe Workplace for mobile]]
-- [[emergency-response-management|Emergency Response Management]]
-- [[safe-workplace|Safe Workplace]]
-- [[mobile-employee-experience|Now Mobile app]]

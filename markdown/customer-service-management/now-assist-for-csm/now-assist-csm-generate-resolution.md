@@ -15,7 +15,7 @@ breadcrumb: [Use generative AI, Now Assist for CSM, Customer Service Management]
 
 # Generate the resolution notes for a case by using Now Assist for Customer Service Management \(CSM\)
 
-Generate the resolution notes for a case, propose the resolution to the customer, and add the resolution information to the case record by using the resolution notes generation skill in the [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]] application. By generating the resolution notes, you can wrap up cases faster and provide information about the case resolution to other agents who might encounter similar issues.
+Generate the resolution notes for a case, propose the resolution to the customer, and add the resolution information to the case record by using the resolution notes generation skill in the Now Assist for Customer Service Management \(CSM\) application. By generating the resolution notes, you can wrap up cases faster and provide information about the case resolution to other agents who might encounter similar issues.
 
 ## About this task
 
@@ -29,7 +29,7 @@ Role required: sn\_customerservice\_agent, sn\_customerservice.consumer\_agent
 
 ## About this task
 
-In [[csm-workspaces-configure|CSM Configurable Workspace]] and Core UI, you can generate the resolution information for a case by selecting **Propose Solution** on the case record. This UI Action displays the Propose Solution modal. Using this modal, you can select a resolution code, add information about the cause of the issue, and review and edit the resolution notes text.
+In CSM Configurable Workspace and Core UI, you can generate the resolution information for a case by selecting **Propose Solution** on the case record. This UI Action displays the Propose Solution modal. Using this modal, you can select a resolution code, add information about the cause of the issue, and review and edit the resolution notes text.
 
 **Note:** The Propose Solution UI action is available to the customer service agents who have assigned cases in the Open state.
 
@@ -69,7 +69,7 @@ You can also generate resolution information on demand from the Now Assist panel
 
     Because the information in this field is automatically generated, it's a good idea to review the text and make sure it's accurate. Any changes that you make are saved when you save the case record.
 
-6.  If you want to add the resolution information to the case [[csm-config-ws-activity-stream|activity stream]], select the **Add resolution notes to comments** check box.
+6.  If you want to add the resolution information to the case activity stream, select the **Add resolution notes to comments** check box.
 
     Selecting this check box makes the resolution notes available to anyone who can view the case activity stream.
 
@@ -83,7 +83,7 @@ You can also generate resolution information on demand from the Now Assist panel
 
 ## Generate resolution notes in case form
 
-Use the Now Assist context menu in the resolution notes field of the [[r_CustomerServiceCaseForm|case form]] in both Core UI \(UI16\) and Workspace to create resolution note.
+Use the Now Assist context menu in the resolution notes field of the case form in both Core UI \(UI16\) and Workspace to create resolution note.
 
 ### Before you begin
 
@@ -120,9 +120,4 @@ An agent can do these actions by using the Now Assist icon \[Omitted image "ic
 
     \[Omitted image "now-assist-csm-resolutionnotes-caseform-refine.png"\] Alt text: Shorten or elaborate the resolution note
 
-## Related
 
-- [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[csm-config-ws-activity-stream|Activity stream]]
-- [[r_CustomerServiceCaseForm|Case form]]

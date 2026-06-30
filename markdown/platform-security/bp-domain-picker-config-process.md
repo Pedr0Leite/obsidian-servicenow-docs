@@ -22,7 +22,7 @@ If your session times out and even if you don't get logged out, your session fal
 
 ## Configuring at the TOP domain or the global domain
 
-Domain separation works best when you are providing services to customers that are mostly standard in their [[sc-configuration|configuration]] and user and group definition. The more that you customize and create "one-off" solutions, the more you create a margin for error. When you create your processes and [[sc-business-logic|business logic]], any variations should be in properties that work automatically for each customer. While processes can still be adjusted as needed, use great care when you decide when, and to what degree, to create a unique configuration for a single customer.
+Domain separation works best when you are providing services to customers that are mostly standard in their configuration and user and group definition. The more that you customize and create "one-off" solutions, the more you create a margin for error. When you create your processes and business logic, any variations should be in properties that work automatically for each customer. While processes can still be adjusted as needed, use great care when you decide when, and to what degree, to create a unique configuration for a single customer.
 
 You need to use an "80-15-5" approach in configuring your domains to avoid too large a margin for customization, and therefore error.
 
@@ -36,7 +36,7 @@ You need to use an "80-15-5" approach in configuring your domains to avoid too l
     -   Look for no-code solutions.
     -   Use server-side scripts, build modular APIs, and build in domain-separated properties.
     -   If you must use client scripting, use only ServiceNow APIs. Limit "synchronous" calls \(those that go back and forth from client to server, also called AJAX\).
-    -   Write all scripts logically to keep them simple and effective. Enforce peer reviews of code changes and make sure everyone is following the [[bp-domain-sep-recommended|Domain separation recommended practices for service providers]] in this section.
+    -   Write all scripts logically to keep them simple and effective. Enforce peer reviews of code changes and make sure everyone is following the [Domain separation recommended practices for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-domain-sep-recommended.md) in this section.
 
 **Parent Topic:**[Domain separation recommended practices for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-domain-sep-recommended.md)
 
@@ -75,7 +75,7 @@ You need to use an "80-15-5" approach in configuring your domains to avoid too l
 
 [Setting up domain hierarchies]()
 
-[Checking domain [[logs|logs]] for errors and warnings]()
+[Checking domain logs for errors and warnings]()
 
 [Importance of the Default domain]()
 
@@ -93,9 +93,3 @@ You need to use an "80-15-5" approach in configuring your domains to avoid too l
 
 [Domain separation and the Customer Service Management \(CSM\) plugin]()
 
-## Related
-
-- [[bp-domain-sep-recommended|Domain separation recommended practices for service providers]]
-- [[sc-configuration|Configuration]]
-- [[sc-business-logic|Business Logic]]
-- [[logs|Logs]]

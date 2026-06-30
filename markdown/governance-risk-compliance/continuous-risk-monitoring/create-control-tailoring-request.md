@@ -34,7 +34,7 @@ When you submit the request, the AO receives an email notification. After approv
 
 2.  From the **Authorization packages in the RMF** list, select an authorization package record.
 
-3.  Select the more options icon \(...\) and then select **[[request-control-tailoring|Request control tailoring]]**.
+3.  Select the more options icon \(...\) and then select **Request control tailoring**.
 
 4.  In the **Request control tailoring** pop-up page, enter a brief explanation for the baseline changes you're requesting.
 
@@ -99,7 +99,7 @@ When you submit the request, the AO receives an email notification. After approv
         -   Mark as Not Applicable
         -   Create Hybrid
         -   Inherit from Single Provider
-        -   [[inherit-from-multiple-providers|Inherit from Multiple Providers]]
+        -   Inherit from Multiple Providers
         -   Return to Baseline
     4.  If marking controls as not applicable, enter a justification in the confirmation page and select **Confirm**.
 
@@ -160,7 +160,3 @@ When you submit the request, the AO receives an email notification. After approv
 
 The request state changes to In Review, and the system assigns the request to the AO for approval. The AO receives an email notification. The authorization package displays an indicator showing that baseline changes are under review. You can view the request status in the **My Items** view under the **CAM Workspace task page**, which shows all control tailoring requests you have created.
 
-## Related
-
-- [[request-control-tailoring|Request control tailoring]]
-- [[inherit-from-multiple-providers|Inherit from multiple providers]]

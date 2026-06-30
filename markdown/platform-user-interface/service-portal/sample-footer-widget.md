@@ -16,7 +16,7 @@ breadcrumb: [Example widgets, Widget library, Using portal widgets, Configuring 
 
 The Sample Footer widget is an example of a footer you can use in your portal. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 
-Unlike other widgets in [[c_ServicePortal|Service Portal]], you add a footer to your portal by configuring it in the Theme form. For more information on adding a footer to a portal, see [Add a header or footer to a portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/configure-header-menu.md).
+Unlike other widgets in Service Portal, you add a footer to your portal by configuring it in the Theme form. For more information on adding a footer to a portal, see [Add a header or footer to a portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/configure-header-menu.md).
 
 ## Instance options
 
@@ -33,6 +33,3 @@ The Sample footer widget does not include instance options.
 
 [Clone a widget]()
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]

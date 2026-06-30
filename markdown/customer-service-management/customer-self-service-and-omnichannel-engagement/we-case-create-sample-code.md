@@ -51,7 +51,7 @@ var secondaryURL = '/browse'; // Replace with the URL of the secondary page
 
 if(button_variant == 'primary') { 
 
-// Construct the URL for the [[case-view-web-component|Case view component]] with URL parameters 
+// Construct the URL for the Case view component with URL parameters 
 
 const caseViewURL = primaryURL+'?emb_table='+table+'&emb_recordid='+record_sys_id; 
 
@@ -103,12 +103,7 @@ console.log(items);
 
 [Embed the Case create component instance on the third-party website](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/embed-case-create-component-on-third-party-website.md)
 
-[[we-case-create-event-handlers|Event handlers in the Case create component]]
+[Event handlers in the Case create component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/we-case-create-event-handlers.md)
 
-[[comp-properties-case-create|Component properties for the Case create]]
+[Component properties for the Case create](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/comp-properties-case-create.md)
 
-## Related
-
-- [[we-case-create-event-handlers|Event handlers in the Case create component]]
-- [[comp-properties-case-create|Component properties for the Case create]]
-- [[case-view-web-component|Case view component]]

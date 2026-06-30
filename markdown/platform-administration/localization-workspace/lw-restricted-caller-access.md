@@ -14,13 +14,13 @@ breadcrumb: [Configuring Localization Workspace, Localization Workspace, Transla
 
 # Restricted Caller Access for Localization Workspace
 
-Give [[localization-workspace|Localization Workspace]] access to your content by setting Restricted Caller Access privileges. Setting these privileges is required only when target tables or scripts are restricted.
+Give Localization Workspace access to your content by setting Restricted Caller Access privileges. Setting these privileges is required only when target tables or scripts are restricted.
 
 ## Before you begin
 
 Set your application scope to Global.
 
-Role required: admin. The [[ia-localization-il|localization]]\_admin role can't complete this procedure.
+Role required: admin. The localization\_admin role can't complete this procedure.
 
 ## About this task
 
@@ -59,7 +59,7 @@ For further information see **Related Content** on this page.
     -   `Status is Requested`
 4.  Select **Run** to execute the query.\[Omitted image "lw-restricted-caller-access1.png"\] Alt text: The list view of Restricted Caller Access Privileges table, displaying three rows having a Source Scope of Localization Workspace.
 
-5.  In the list of [[hs-results|results]], open any record by selecting the value in the first column \(by default the first column is Operation\).
+5.  In the list of results, open any record by selecting the value in the first column \(by default the first column is Operation\).
 
 6.  In the record's form, change the **Status** field from `Requested` to `Allowed`, then select **Update**.
 
@@ -85,8 +85,3 @@ Continue with setup of Localization Workspace. See [Configuring Localization Wor
 
 [Restricted caller access privilege settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/restricted-caller-access-privilege.md)
 
-## Related
-
-- [[localization-workspace|Localization Workspace]]
-- [[ia-localization-il|Localization]]
-- [[hs-results|Results]]

@@ -12,7 +12,7 @@ breadcrumb: [Manage cases, Use, Customer Service Management]
 
 # Use the Activity Stream
 
-Enhancements to [[csm-config-ws-activity-stream|Activity stream]] help reduce cluttering the Activity Stream and the agent effort to understand the case context.
+Enhancements to Activity stream help reduce cluttering the Activity Stream and the agent effort to understand the case context.
 
 ## Before you begin
 
@@ -64,6 +64,3 @@ Enhancements in the Activity Stream include the following:
 
 [Configure Activity stream](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-activity-stream-general.md)
 
-## Related
-
-- [[csm-config-ws-activity-stream|Activity stream]]

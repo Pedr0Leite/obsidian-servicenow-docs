@@ -62,7 +62,7 @@ MID
 
 -   You can select only MID Servers that support basic authentication. MID Servers that support mTLS are not listed.
 -   The default maximum number of data inputs streaming logs to a single MID Server is 10. You can modify this number in the MID Server properties.
--   If log ingestion is not enabled for the selected MID Server, [[hla-landing-page|Health Log Analytics]] enables it automatically.
+-   If log ingestion is not enabled for the selected MID Server, Health Log Analytics enables it automatically.
 
 This field is required.
 
@@ -254,7 +254,7 @@ logs
 |Field|Description|Default value|
 |-----|-----------|-------------|
 |Timeout|The time, in milliseconds, spent waiting in the poll if data is not available in the topics.|500|
-|Node [[r-discovery|discovery]] timeout|The time, in milliseconds, before node discovery times out.|30|
+|Node discovery timeout|The time, in milliseconds, before node discovery times out.|30|
 |Default timezone|The default timezone if the log doesn't include timezone information.|GMT|
 |Sub sample drop ratio|The number of events to batch together, out of which one will be discarded. This setting is used to reduce the number of fetched events.|-1|
 |Sub sample receive ratio|The number of events to batch together, out of which all but one will be discarded. This setting is used to decrease the number of received events.|-1|
@@ -267,7 +267,3 @@ Description of the fields on the Kafka SSL credentials form.
 
 **Parent Topic:**[Data input configuration fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-input-config-fields.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]
-- [[r-discovery|Discovery]]

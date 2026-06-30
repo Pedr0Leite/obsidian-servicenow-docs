@@ -14,7 +14,7 @@ breadcrumb: [Import models and templates, Use, Telecommunications Network Invent
 
 # Import templates
 
-Import Template enables you to capture all required inventory details in a prescribed, predefined Excel format and upload them in bulk to the system. Create an import template request to import your inventory templates, enforce data formatting, and streamline the process using the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+Import Template enables you to capture all required inventory details in a prescribed, predefined Excel format and upload them in bulk to the system. Create an import template request to import your inventory templates, enforce data formatting, and streamline the process using the Telecommunications Network Inventory application.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ After you create an import template request, a detailed summary is generated tha
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then go to **Import** &gt; **Imports**.
 
@@ -60,12 +60,7 @@ The **Import Results** tab appears next to the Details tab where you can view, a
 ## What to do next
 
 -   Redirect to the generated inventory template from the **Import Results** tab.
--   [[delete-inventory-record|Delete a record]]. To learn more, see [Delete a record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/delete-inventory-record.md).
+-   Delete a record. To learn more, see [Delete a record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/delete-inventory-record.md).
 
 **Parent Topic:**[Import models and templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/import-models-and-templates.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[delete-inventory-record|Delete a record]]

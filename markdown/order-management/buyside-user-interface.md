@@ -15,7 +15,7 @@ breadcrumb: [CPQ, Configure, price, quote, Explore, Sales Customer Relationship 
 The configurator buyside user interface is a modern, intuitive platform designed to simplify the configuration of complex products and services. Integrated with Salesforce CPQ and other enterprise systems, it enables users to create, manage, and visualize detailed product configurations, ensuring accuracy and efficiency throughout the sales and fulfillment process.
 
 -   The buyside user interface \(UI\) in CPQ is where sales reps or customers configure products in Salesforce CPQ.
--   Provides guided, attribute-based product configuration with [[rules_101|rules]], enrichments, and integrations.
+-   Provides guided, attribute-based product configuration with rules, enrichments, and integrations.
 -   Ensures accurate Bills of Materials \(BOMs\) are generated for quoting, manufacturing, or service operations.
 
 ## Key capabilities
@@ -24,7 +24,7 @@ The configurator buyside user interface is a modern, intuitive platform designed
 -   Dynamic field grids: Collect and manage structured data \(like sales figures or configuration attributes\) in intuitive, tabular formats.
 -   Guided configuration: Use sections, subsections, and nested tiers to break down complex product lists, making selection and customization effortless.
 -   Rule-based automation: Automate calculations, field updates, and validation, ensuring accuracy and compliance with business logic.
--   Enrichment [[scripts|scripts]]: Apply advanced logic—such as surcharges or custom [[fields|fields]]—at the end of the configuration process, before passing data to downstream systems.
+-   Enrichment scripts: Apply advanced logic—such as surcharges or custom fields—at the end of the configuration process, before passing data to downstream systems.
 -   No-code/low-code administration: Empower business admins to manage and update configurations without deep technical skills, using point-and-click tools
 
 ## Key personas
@@ -72,11 +72,5 @@ Jack, a sales representative, receives a request from a SaaS customer for a tail
 **Related topics**  
 
 
-[[understand-the-commerce-logic-engine|The CPQ Configurator]]
+[The CPQ Configurator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/understand-the-commerce-logic-engine.md)
 
-## Related
-
-- [[understand-the-commerce-logic-engine|The CPQ Configurator]]
-- [[rules_101|Rules]]
-- [[scripts|Scripts]]
-- [[fields|Fields]]

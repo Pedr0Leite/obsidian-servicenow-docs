@@ -14,7 +14,7 @@ breadcrumb: [Certificate Inventory and Management reference, Certificate Invento
 
 # IP-Based Discovery Schedule Form Table
 
-A table of the fields and values to set up an IP-based Certificate [[r-discovery|Discovery]] schedule.
+A table of the fields and values to set up an IP-based Certificate Discovery schedule.
 
 <table id="table_lhb_ppz_wfc"><thead><tr><th>
 
@@ -70,7 +70,7 @@ Application
 
 </td><td>
 
-[[cert-inventory-mgmt|Certificate Inventory and Management]]
+Certificate Inventory and Management
 
 </td></tr><tr><td>
 
@@ -107,7 +107,3 @@ Optional value
 </td></tr></tbody>
 </table>**Parent Topic:**[Certificate Inventory and Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cert-invt-mgmt-references.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[cert-inventory-mgmt|Certificate Inventory and Management]]

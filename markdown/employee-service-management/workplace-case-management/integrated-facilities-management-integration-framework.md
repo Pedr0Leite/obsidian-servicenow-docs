@@ -25,7 +25,7 @@ This integration framework eliminates manual work order creation and tracking, a
 The IFM Framework integration enables you to perform the following actions:
 
 -   Create work orders automatically in external FM systems directly from ServiceNow workplace cases.
--   [[Configure-facilities-management-provider-routing-rules|Configure provider routing rules]] to automatically assign workplace cases or tasks requests to appropriate FM providers based on service type, location, building, or custom criteria.
+-   Configure provider routing rules to automatically assign workplace cases or tasks requests to appropriate FM providers based on service type, location, building, or custom criteria.
 -   Track work order synchronization status in real-time using the FM Provider and FM Work Order ID fields on workplace cases.
 -   Add comments to workplace case or task, and any updates will automatically appear in external work order.
 -   Cancel workplace case and automatically trigger cancellation of corresponding work orders in FM provider systems.
@@ -55,12 +55,7 @@ The following task types are excluded from synchronization:
 
 The following plugins must be installed:
 
--   [[workplace-safety-mgmt-hr|Workplace Core]] \(sn\_wsd\_core\)
--   [[workplace-case-mgmt-feat|Workplace Case Management]] \(sn\_wsd\_case\)
+-   Workplace Core \(sn\_wsd\_core\)
+-   Workplace Case Management \(sn\_wsd\_case\)
 -   Integration Hub \(com.glide.hub.integrations.professional\)
 
-## Related
-
-- [[Configure-facilities-management-provider-routing-rules|Configure provider routing rules]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]

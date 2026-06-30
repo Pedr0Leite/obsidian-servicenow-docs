@@ -106,7 +106,7 @@ Configure advanced chat options
 
 </td><td>
 
-Determines the chat options for managing various conversation features.For more information, see [[em-advanced-chat-setup|Chat Setup configuration form]].
+Determines the chat options for managing various conversation features.For more information, see [Chat Setup configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/em-advanced-chat-setup.md).
 
 </td></tr><tr><td>
 
@@ -129,7 +129,3 @@ Determines the email settings for sending email summaries for unread messages.Fo
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[em-advanced-chat-setup|Chat Setup configuration form]]

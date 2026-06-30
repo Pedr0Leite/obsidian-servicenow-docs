@@ -22,27 +22,17 @@ Anita first creates a flowchart to document the flow of a decision tree to deter
 
 |No.|Element|Name|Description|
 |---|-------|----|-----------|
-|1|Start node|[[ask-card-holder-and-transaction-details|Card holder and transaction details]]|Start node that collects customer, credit card, and transaction details.|
-|2|Path|[[configuring-paths-for-next-nodes|Amount is debited]]|Path with condition: Amount is debited.|
-|3|Guidance node|[[configure-guidance-node-initiate-transaction-tracking|Initiate transaction tracking]]|Guidance to initiate transaction tracking when amount is debited.|
-|4|Question node|[[configure-a-question-node-for-further-assistance|Further assistance needed]]|Ask whether the customer needs further assistance.|
+|1|Start node|[Card holder and transaction details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ask-card-holder-and-transaction-details.md)|Start node that collects customer, credit card, and transaction details.|
+|2|Path|[Amount is debited](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configuring-paths-for-next-nodes.md)|Path with condition: Amount is debited.|
+|3|Guidance node|[Initiate transaction tracking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-guidance-node-initiate-transaction-tracking.md)|Guidance to initiate transaction tracking when amount is debited.|
+|4|Question node|[Further assistance needed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-a-question-node-for-further-assistance.md)|Ask whether the customer needs further assistance.|
 |5|Guidance node|Provide more options|Guidance to provide more options such as talk to an agent or request a new card.|
 |6|Path|[Amount is not debited](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configuring-paths-for-next-nodes.md)|Path with condition: amount isn’t debited.|
-|7|Question node|[[configure-question-node-to-ask-failure-codes|Failure codes]]|Collect transaction failure codes when amount isn’t debited.|
-|8|Path|[[configure-path-for-200-failure-code|Error 200]]|Error code received is 200.|
-|9|Guidance node|[[associate-guidances-for-different-failure-codes|Reassign case]]|Guidance to reassign the case to someone else.|
+|7|Question node|[Failure codes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-question-node-to-ask-failure-codes.md)|Collect transaction failure codes when amount isn’t debited.|
+|8|Path|[Error 200](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-path-for-200-failure-code.md)|Error code received is 200.|
+|9|Guidance node|[Reassign case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/associate-guidances-for-different-failure-codes.md)|Guidance to reassign the case to someone else.|
 |10|Path|[Error 300](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-path-for-200-failure-code.md)|Error code received is 300.|
-|11|Guidance node|[Create work order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/associate-guidances-for-different-failure-codes.md)|Guidance to [[create-work-orders|create a work order]] for dispatching a new credit card.|
+|11|Guidance node|[Create work order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/associate-guidances-for-different-failure-codes.md)|Guidance to create a work order for dispatching a new credit card.|
 |12|Path|[Error 500](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-path-for-200-failure-code.md)|Error code received is 500.|
 |13|Guidance node|[Assign IT technician](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/associate-guidances-for-different-failure-codes.md)|Guidance to assign an IT technician to resolve the issue.|
 
-## Related
-
-- [[ask-card-holder-and-transaction-details|Configure the start node for cardholder and transaction details]]
-- [[configuring-paths-for-next-nodes|Configuring paths with conditions whether the amount is debited or not]]
-- [[configure-guidance-node-initiate-transaction-tracking|Configure a guidance node to initiate the transaction tracking]]
-- [[configure-a-question-node-for-further-assistance|Configure a question node for further assistance]]
-- [[configure-question-node-to-ask-failure-codes|Configure a question node to ask failure codes]]
-- [[configure-path-for-200-failure-code|Configure paths for different failure code conditions]]
-- [[associate-guidances-for-different-failure-codes|Associate guidances for different failure codes]]
-- [[create-work-orders|Create a work order]]

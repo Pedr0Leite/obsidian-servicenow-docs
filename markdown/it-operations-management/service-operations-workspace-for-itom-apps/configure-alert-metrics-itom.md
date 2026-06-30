@@ -14,17 +14,17 @@ breadcrumb: [Service Operations Workspace, Configuring SOW for ITOM, Service Ope
 
 # Configure alert metrics
 
-Configure the metrics you want to be visible for [[workspace-dashboard-use|Service Operations Workspace]] alerts or use the metrics configured with the base system to focus on relevant data for faster troubleshooting.
+Configure the metrics you want to be visible for Service Operations Workspace alerts or use the metrics configured with the base system to focus on relevant data for faster troubleshooting.
 
 ## Before you begin
 
-Ensure you have the [[operational-metrics|Metric Intelligence]] \(sn\_metrics\_ng\) plugin installed.
+Ensure you have the Metric Intelligence \(sn\_metrics\_ng\) plugin installed.
 
 Role required: evt\_mgmt\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Administration** &gt; **Metrics View Configuration**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Administration** &gt; **Metrics View Configuration**.
 
     \[Omitted image "sow-metrics-view-config.png"\] Alt text: Metrics view configuration page
 
@@ -39,8 +39,3 @@ Role required: evt\_mgmt\_admin
 
 **Parent Topic:**[Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/workspace-dashboard-use.md)
 
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[operational-metrics|Metric Intelligence]]
-- [[c_EM|Event Management]]

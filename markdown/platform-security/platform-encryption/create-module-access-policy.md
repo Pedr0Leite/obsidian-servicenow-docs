@@ -14,7 +14,7 @@ breadcrumb: [Configuring the Key Management Framework, Key Management Framework,
 
 # Create a module access policy
 
-Create module access [[ca-policies|policies]] to decide which [[users|users]] and scripts can access data encrypted by a cryptographic module.
+Create module access policies to decide which users and scripts can access data encrypted by a cryptographic module.
 
 ## Before you begin
 
@@ -22,13 +22,13 @@ Role required: sn\_kmf.cryptographic\_manager or sn\_kmf.admin
 
 ## About this task
 
-[[field-encryption|Field Encryption]] supports role-based module access policies and additional [[sc-configuration|configuration]] options become available with \(CLE\_Ent\) functionality.
+Field Encryption supports role-based module access policies and additional configuration options become available with \(CLE\_Ent\) functionality.
 
 -   Configure the specific cryptographic operation in module access policies for cryptographic modules that support symmetric operations. For instance, a user can be enabled to encrypt data but not decrypt data.
 -   Set a default module access policy value or according to a cryptographic module.
 -   Associate script versions where changes to the script are tracked and invalidate the script policy providing better security for script-type module access policies.
 
-CLE\_Ent functionality is available with a paid subscription. Refer to for supported features and options available with each offering. For more information, see [[now-platform-encryption|Field Encryption Enterprise]].
+CLE\_Ent functionality is available with a paid subscription. Refer to for supported features and options available with each offering. For more information, see Field Encryption Enterprise.
 
 **Note:** The default behavior of the module access policies \(MAPs\) is Reject to help prevent any unauthorized access, unless explicitly declared in MAP records.
 
@@ -36,7 +36,7 @@ CLE\_Ent functionality is available with a paid subscription. Refer to for suppo
 
 1.  Navigate to **All** &gt; **Key Management** &gt; **Module Access Policies** &gt; **** **All**.
 
-    If you don't [[create-cryptographic-module|create a cryptographic module]] configured for Symmetric Data Encryption/Decryption, an auto-generated module access policy is created and listed in the table.
+    If you don't create a cryptographic module configured for Symmetric Data Encryption/Decryption, an auto-generated module access policy is created and listed in the table.
 
 2.  Select **New**.
 
@@ -187,7 +187,7 @@ Select one of the following: -   **StrictReject** rejects access under all circu
 
     **Warning:**
 
-    -   **For legacy [[encryption-landing|encryption]] support users:**
+    -   **For legacy encryption support users:**
 
         If you're using the non-enterprise version of Field Encryption, you're limited to five modules. If you have exceeded this limit, you receive the following warning:
 
@@ -206,12 +206,3 @@ Select one of the following: -   **StrictReject** rejects access under all circu
 
 **Parent Topic:**[Configuring the Key Management Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/configure-kmf.md)
 
-## Related
-
-- [[ca-policies|Policies]]
-- [[users|Users]]
-- [[field-encryption|Field Encryption]]
-- [[sc-configuration|Configuration]]
-- [[now-platform-encryption|Field Encryption Enterprise]]
-- [[create-cryptographic-module|Create a cryptographic module]]
-- [[encryption-landing|Encryption]]

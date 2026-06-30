@@ -15,11 +15,11 @@ breadcrumb: [Configure, External Content Connectors, Search administration, Conf
 
 # ServiceNow product documentation external content connector
 
-The ServiceNow® product documentation external content connector retrieves topics from the ServiceNow product documentation and makes their content and metadata searchable in [[ia-ai-search|AI Search]] applications.
+The ServiceNow® product documentation external content connector retrieves topics from the ServiceNow product documentation and makes their content and metadata searchable in AI Search applications.
 
-**Note:** This external content connector is not included in the [[ext-cont-connectors-landing-page|External Content Connectors]] Application Suite application. To use this connector, you must install it separately. For details on installation, see [Install External Content Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/install-ext-cont-connectors.md).
+**Note:** This external content connector is not included in the External Content Connectors Application Suite application. To use this connector, you must install it separately. For details on installation, see [Install External Content Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/install-ext-cont-connectors.md).
 
-The system automatically [[c_UseSchedules|schedules]] monthly content crawls to retrieve updated content from the product documentation for a family release that you specify. Search administrators can run one-time content crawls to update content ahead of schedule.
+The system automatically schedules monthly content crawls to retrieve updated content from the product documentation for a family release that you specify. Search administrators can run one-time content crawls to update content ahead of schedule.
 
 The indexed content and metadata are stored as records in a connector-specific indexed source. Search administrators can create search sources from this indexed source and link them to search profiles to make the indexed records searchable in AI Search applications.
 
@@ -35,8 +35,3 @@ Choose the products that you want your ServiceNow product documentation external
 
 [Create a content crawl for an external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/create-content-crawl-external-content-connector.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[ext-cont-connectors-landing-page|External Content Connectors]]
-- [[c_UseSchedules|Schedules]]

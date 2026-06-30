@@ -14,7 +14,7 @@ breadcrumb: [Skills Management, Manage people and work capabilities, Extend Serv
 
 # Reference for Skills Management
 
-Validate that [[skills-management|Skills Management]] still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
+Validate that Skills Management still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
 
 Skills Management quick start tests require activating the Skills Management plugin \(com.snc.skills\_management\).
 
@@ -31,6 +31,3 @@ Skills Management quick start tests require activating the Skills Management plu
 |Skills MGMT: Select a skill and add users to the skill in the Manage IT Skills user interface.|Verify that you can select a skill and add the skill and associated skill levels to one or more users in the Manage IT Skills user interface.|Orlando|
 |Skills MGMT: Select a skill that does not have a skill level and add users to that skill in the Manage IT Skills user interface.|Verify that you can select a skill that does not have a skill level and add the skill to one or more users in the Manage IT skills user interface.|Orlando|
 
-## Related
-
-- [[skills-management|Skills Management]]

@@ -16,7 +16,7 @@ As an admin, you can add or remove the relationship types used to classify the r
 
 ## About this task
 
-For more information about relating entities to a case, see [[psds-using-icm-associate-evidence-entities|Associate and link evidence to entities]].
+For more information about relating entities to a case, see [Associate and link evidence to entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-using-icm-associate-evidence-entities.md).
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ The relationship type definition is now created, and will display in the relatio
 
 An investigator can use this relationship type to define the relationship between an evidence record and an entity. For more information on how to link evidence to an entity, see [Associate and link evidence to entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-using-icm-associate-evidence-entities.md).
 
-## Related
-
-- [[psds-using-icm-associate-evidence-entities|Associate and link evidence to entities]]

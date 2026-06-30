@@ -16,7 +16,7 @@ Create a containment action report to address issues for the impacted assets.
 
 ## Before you begin
 
-Role required: [[mco-quality-issue-management|Quality Issue Management]] Admin or [[mco-product-non-conformances|product non-conformance]] resolver \(sn\_mfg\_qm.product\_non\_conformance\_resolver\)
+Role required: Quality Issue Management Admin or product non-conformance resolver \(sn\_mfg\_qm.product\_non\_conformance\_resolver\)
 
 ## Procedure
 
@@ -26,33 +26,21 @@ Role required: [[mco-quality-issue-management|Quality Issue Management]] Admin o
 
 3.  On the Containment Action form, fill in the fields.
 
-    For a description of the field values, see [[mco-containment-actions-form|Containment action form]].
+    For a description of the field values, see [Containment action form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-containment-actions-form.md).
 
 4.  Select **Save**.
 
-    The [[mco-copq-expense-line|Create a CoPQ expense line]], [[mco-impacted-asset-action|Impacted asset action]], and [[work-order-form|Work order form]] forms are displayed.
+    The [Create a CoPQ expense line](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-copq-expense-line.md), [Impacted asset action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-impacted-asset-action.md), and [Work order form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/work-order-form.md) forms are displayed.
 
 
-**Parent Topic:**[[mco-related-lists-product-non-conformance|Product Non-conformance without playbook]]
+**Parent Topic:**[Product Non-conformance without playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-related-lists-product-non-conformance.md)
 
 **Related topics**  
 
 
-[[mco-notes|Notes form]]
+[Notes form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-notes.md)
 
-[[mco-resolution-information-form|Resolution information form]]
+[Resolution information form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-resolution-information-form.md)
 
-[[mco-effectiveness-form|Effectiveness form]]
+[Effectiveness form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-effectiveness-form.md)
 
-## Related
-
-- [[mco-containment-actions-form|Containment action form]]
-- [[mco-copq-expense-line|Create a CoPQ expense line]]
-- [[mco-impacted-asset-action|Impacted asset action]]
-- [[work-order-form|Work order form]]
-- [[mco-related-lists-product-non-conformance|Product Non-conformance without playbook]]
-- [[mco-notes|Notes form]]
-- [[mco-resolution-information-form|Resolution information form]]
-- [[mco-effectiveness-form|Effectiveness form]]
-- [[mco-quality-issue-management|Quality issue management]]
-- [[mco-product-non-conformances|Product non-conformance]]

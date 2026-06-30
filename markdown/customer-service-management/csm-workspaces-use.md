@@ -12,13 +12,13 @@ breadcrumb: [Manage cases, Use, Customer Service Management]
 
 # Using CSM Configurable Workspace in Customer Service Management
 
-Use [[csm-workspaces-configure|CSM Configurable Workspace]] to interact with customers, create and work on cases, and resolve questions and issues.
+Use CSM Configurable Workspace to interact with customers, create and work on cases, and resolve questions and issues.
 
 Customer service agents can complete most tasks in CSM Configurable Workspace, while other tasks only apply to the platform interface. This information is noted at the top of each task.
 
 The tables below describe some of the basic tasks that agents can perform in CSM Configurable Workspace as well as additional features that are available for use.
 
-For additional task information, see [[manage-cases|Manage cases]].
+For additional task information, see [Manage cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/manage-cases.md).
 
 <table id="table_csm_workspace_agent_tasks"><thead><tr><th>
 
@@ -42,13 +42,13 @@ Search for knowledge articles and attach them to cases or open articles in sub-t
 
 </td><td>
 
-[[csm-workspace-search-knowledge|Search for knowledge articles]]
+[Search for knowledge articles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-workspace-search-knowledge.md)
 
- [[csm-workspace-open-knowledge|Open a knowledge article]]
+ [Open a knowledge article](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-workspace-open-knowledge.md)
 
- [[csm-workspace-report-knowledge-gap|Report a knowledge gap]]
+ [Report a knowledge gap](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-workspace-report-knowledge-gap.md)
 
- [[csm-workspace-create-knowledge|Create a knowledge article]]
+ [Create a knowledge article](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-workspace-create-knowledge.md)
 
 </td></tr><tr><td>
 
@@ -60,7 +60,7 @@ If a case is created from a community discussion, you can respond to the discuss
 
 </td><td>
 
-[[csm-workspace-respond-to-thread|Respond to a community thread from a case]]
+[Respond to a community thread from a case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-workspace-respond-to-thread.md)
 
 </td></tr><tr><td>
 
@@ -72,11 +72,11 @@ Quickly respond to customers using different types of predefined information.
 
 </td><td>
 
-[[csm-aw-agent-use-response-template|Use response templates to add information to cases and case tasks]]
+[Use response templates to add information to cases and case tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-aw-agent-use-response-template.md)
 
 </td></tr><tr><td>
 
-[[overview-email-tasks|Manage email tasks]]
+Manage email tasks
 
 </td><td>
 
@@ -84,13 +84,13 @@ Preview emails and compose and send responses from cases.
 
 </td><td>
 
-[[compose-email-cases|Compose an email from a case]]
+[Compose an email from a case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/compose-email-cases.md)
 
- [[open-email-customer-360|Compose an email from the ribbon component]]
+ [Compose an email from the ribbon component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/open-email-customer-360.md)
 
- [[respond-cases-reply-forward|Send an email response from a case activity stream]]
+ [Send an email response from a case activity stream](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/respond-cases-reply-forward.md)
 
- [[preview-email-cases|Preview an email from the Emails related list]]
+ [Preview an email from the Emails related list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/preview-email-cases.md)
 
 </td></tr></tbody>
 </table><table id="table_pph_mww_b4b"><thead><tr><th>
@@ -115,7 +115,7 @@ Create a case for a specific type of customer issue.
 
 </td><td>
 
-[[create-case-of-specific-case-type|Create a customer service case of a specific type]]
+[Create a customer service case of a specific type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-case-of-specific-case-type.md)
 
 </td></tr><tr><td>
 
@@ -127,7 +127,7 @@ Quickly look up contacts or consumers using information such as the name, phone 
 
 </td><td>
 
-[[lookup-verify-contact-consumer|Look up and verify a contact or consumer]]
+[Look up and verify a contact or consumer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/lookup-verify-contact-consumer.md)
 
 </td></tr><tr><td>
 
@@ -139,11 +139,11 @@ Look up customer information and recent activity to find out more about the cust
 
 </td><td>
 
-[[use-customer-central|Use Customer Central]]
+[Use Customer Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/use-customer-central.md)
 
 </td></tr><tr><td>
 
-View [[product-data|product data]]
+View product data
 
 </td><td>
 
@@ -151,9 +151,9 @@ View details about customer instances, products, and components.
 
 </td><td>
 
-[[install-base-aw-csm|View install base information]]
+[View install base information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/install-base-aw-csm.md)
 
- [[view-sold-product-info-workspace|View sold product information]]
+ [View sold product information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/view-sold-product-info-workspace.md)
 
 </td></tr><tr><td>
 
@@ -177,13 +177,13 @@ A guided decision prompts you to answer questions and provide inputs and then of
 
 </td><td>
 
-[[use-guided-decisions|Use Guided Decisions in playbooks to resolve cases]]
+[Use Guided Decisions in playbooks to resolve cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/use-guided-decisions.md)
 
- [[use-guided-decisions-ra|Use Guided Decisions in recommended actions to resolve cases]]
+ [Use Guided Decisions in recommended actions to resolve cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/use-guided-decisions-ra.md)
 
 </td></tr><tr><td>
 
-Use [[configure-nba|recommended actions]]
+Use recommended actions
 
 </td><td>
 
@@ -191,11 +191,11 @@ A recommended action is a suggested helpful action for resolving a case. A recom
 
 </td><td>
 
-[[nba_use|Use Recommended Actions to resolve cases]]
+[Use Recommended Actions to resolve cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/nba_use.md)
 
 </td></tr><tr><td>
 
-Use [[trending-case-topics|trending case topics]]
+Use trending case topics
 
 </td><td>
 
@@ -203,11 +203,11 @@ Use trending case topics to identify cases with similar issues.
 
 </td><td>
 
-[[view-trending-case-topics|View trending case topics]]
+[View trending case topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/view-trending-case-topics.md)
 
- [[trending-case-topics-mim|Add trending case topics to existing major cases]]
+ [Add trending case topics to existing major cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/trending-case-topics-mim.md)
 
- [[major-cases-trending-topics|Create major cases for trending case topics]]
+ [Create major cases for trending case topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/major-cases-trending-topics.md)
 
 </td></tr><tr><td>
 
@@ -219,9 +219,9 @@ Use machine learning to predict the estimated time to resolve a case based on ca
 
 </td><td>
 
-[[ettr|Estimated time to resolve a case]]
+[Estimated time to resolve a case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ettr.md)
 
- [[csm-agent-workspace-ribbon|Time to resolve ribbon component]]
+ [Time to resolve ribbon component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-agent-workspace-ribbon.md)
 
 </td></tr><tr><td>
 
@@ -233,40 +233,7 @@ Call a customer back either immediately or at the date and time requested by the
 
 </td><td>
 
-[[callback-customer|Address a callback request from a customer]]
+[Address a callback request from a customer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/callback-customer.md)
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[manage-cases|Manage cases]]
-- [[csm-workspace-search-knowledge|Search for knowledge articles in CSM Configurable Workspace]]
-- [[csm-workspace-open-knowledge|Open a knowledge article in a sub-tab]]
-- [[csm-workspace-report-knowledge-gap|Report a knowledge gap]]
-- [[csm-workspace-create-knowledge|Create a knowledge article from a case]]
-- [[csm-workspace-respond-to-thread|Respond to a community thread from a case]]
-- [[csm-aw-agent-use-response-template|Use response templates to add information to cases and case tasks]]
-- [[compose-email-cases|Compose an email from a case]]
-- [[open-email-customer-360|Compose an email from the ribbon component]]
-- [[respond-cases-reply-forward|Send an email response from a case activity stream]]
-- [[preview-email-cases|Preview an email from the Emails related list]]
-- [[create-case-of-specific-case-type|Create a customer service case of a specific type]]
-- [[lookup-verify-contact-consumer|Look up and verify a contact or consumer]]
-- [[use-customer-central|Use Customer Central]]
-- [[install-base-aw-csm|View the install base in CSM Configurable Workspace]]
-- [[view-sold-product-info-workspace|View sold product information in CSM Configurable Workspace]]
-- [[use-guided-decisions|Use Guided Decisions in playbooks to resolve cases]]
-- [[use-guided-decisions-ra|Use Guided Decisions in recommended actions to resolve cases]]
-- [[nba_use|Use Recommended Actions to resolve cases]]
-- [[view-trending-case-topics|View trending case topics]]
-- [[trending-case-topics-mim|Add trending case topics to existing major cases]]
-- [[major-cases-trending-topics|Create major cases for trending case topics]]
-- [[ettr|Estimated time to resolve a case]]
-- [[csm-agent-workspace-ribbon|CSM Configurable Workspace form ribbon and components]]
-- [[callback-customer|Address a callback request from a customer]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[overview-email-tasks|Manage email tasks]]
-- [[product-data|Product data]]
-- [[configure-nba|Recommended Actions]]
-- [[trending-case-topics|Trending case topics]]

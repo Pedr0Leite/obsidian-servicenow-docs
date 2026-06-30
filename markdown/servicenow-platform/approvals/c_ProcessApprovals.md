@@ -14,13 +14,13 @@ breadcrumb: [Approval rules, Classic approvals, Exploring Service Administration
 
 # Process approvals
 
-Once a request has passed its [[c_GatingApprovals|gating approvals]], any relevant [[c_ExecutionPlans|execution plans]] are initiated.
+Once a request has passed its gating approvals, any relevant execution plans are initiated.
 
-**Important:** Classic [[c_ApprovalRules|approval rules]] have been replaced by the Workflow Studio [Ask for Approval action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/ask-approval-flow-designer.md). Use Workflow Studio to create workflow-driven approval logic that is easier to maintain and provides better reporting information.
+**Important:** Classic approval rules have been replaced by the Workflow Studio [Ask for Approval action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/ask-approval-flow-designer.md). Use Workflow Studio to create workflow-driven approval logic that is easier to maintain and provides better reporting information.
 
 Those plans, in turn, create a sequence of required tasks. You can add an approval step to an execution plan, which is configured to occur at the appropriate point.
 
-From the left navigation pane, select **[[service-catalog|Service Catalog]]** &gt; **Execution Plans**, and then select the plan to which to add an approval step. Then click the **New Approval** button.
+From the left navigation pane, select **Service Catalog** &gt; **Execution Plans**, and then select the plan to which to add an approval step. Then click the **New Approval** button.
 
 \[Omitted image "AddApproval.png"\] Alt text: Add an approval
 
@@ -44,9 +44,3 @@ In the example above, this security approval task must be approved by Fred Luddy
 
 **Parent Topic:**[Approval rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/c_ApprovalRules.md)
 
-## Related
-
-- [[c_GatingApprovals|Gating approvals]]
-- [[c_ExecutionPlans|Execution Plans]]
-- [[c_ApprovalRules|Approval rules]]
-- [[service-catalog|Service Catalog]]

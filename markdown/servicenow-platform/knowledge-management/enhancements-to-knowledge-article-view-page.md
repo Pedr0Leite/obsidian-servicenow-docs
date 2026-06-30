@@ -14,10 +14,7 @@ breadcrumb: [Exploring Knowledge Management, Knowledge Management, Manage conten
 
 # Enhancements to knowledge article view page
 
-Enhancement to the UI components on the article view page improves their visibility and utility. The mobile responsive UI has been built to enhance the visual experience for those [[using-knowledge-management|using Knowledge Management]] on a mobile device.
+Enhancement to the UI components on the article view page improves their visibility and utility. The mobile responsive UI has been built to enhance the visual experience for those using Knowledge Management on a mobile device.
 
 Beginning with Zurich, the mobile responsive design is introduced in Knowledge article view pages. In the new page design the interactive feedback section for articles has been shifted to the conclusion of each article. Additionally, elements such as default language, article version, author, and article number have been repositioned to improve their visibility and usefulness.
 
-## Related
-
-- [[using-knowledge-management|Using Knowledge Management]]

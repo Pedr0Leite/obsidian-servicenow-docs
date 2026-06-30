@@ -14,7 +14,7 @@ breadcrumb: [Application service mapping using classic Service Mapping, Using Se
 
 # Fix application service errors in bulk
 
-[[c_ServiceMappingOverview|Service Mapping]] classifies errors by their root cause, for example, missing credentials or task timeout. For a fast and efficient process, fix errors belonging to the same category in bulk.
+Service Mapping classifies errors by their root cause, for example, missing credentials or task timeout. For a fast and efficient process, fix errors belonging to the same category in bulk.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ As part of the Service Mapping workflow, after you map application services in b
 
 \[Omitted image "SMMapFlowFixBulk.png"\] Alt text: Fixing errors in bulk as part of the Service Mapping workflow
 
-After performing initial mapping, Service Mapping rediscovers configuration items \(CIs\) regularly, constantly updating the list of errors. [[r-discovery|Discovery]] schedules define how often Service Mapping runs the discovery process for CIs. Service Mapping discovers only CIs belonging to application services with Operational status.
+After performing initial mapping, Service Mapping rediscovers configuration items \(CIs\) regularly, constantly updating the list of errors. Discovery schedules define how often Service Mapping runs the discovery process for CIs. Service Mapping discovers only CIs belonging to application services with Operational status.
 
 There may be discovery errors not assigned to any category:
 
@@ -142,7 +142,3 @@ There may be discovery errors not assigned to any category:
 
 [Application service analysis and maintenance using classic Service Mapping]()
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]

@@ -14,7 +14,7 @@ breadcrumb: [Create a service catalog variable, Service catalog variables, Servi
 
 # Define help information for a service catalog variable
 
-Enter help information for a variable to help users determine what info they must provide for a [[service-catalog|service catalog]] variable.
+Enter help information for a variable to help users determine what info they must provide for a service catalog variable.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: admin
 
 2.  In the **Variables** related list, click the variable.
 
-3.  In the **Annotation** section of the Variable form, select the **Show help** [[check-box|check box]].
+3.  In the **Annotation** section of the Variable form, select the **Show help** check box.
 
     The **Help tag**, **Help text**, and **Instructions** fields appear.
 
@@ -38,7 +38,7 @@ Role required: admin
 
 5.  In the **Help text** field, enter the help text that displays for users who clicks the **Help tag** on the page for the catalog item.
 
-    **Note:** The **Help** and **Help text** fields do not support [[html|HTML]] tags.
+    **Note:** The **Help** and **Help text** fields do not support HTML tags.
 
     \[Omitted image "DefineHelpInfoG.png"\] Alt text: screenshot for help text
 
@@ -52,8 +52,3 @@ Role required: admin
 
 [Define a question choice for a variable]()
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[check-box|Check box]]
-- [[html|HTML]]

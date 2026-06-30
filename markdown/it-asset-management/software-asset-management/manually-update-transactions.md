@@ -22,7 +22,7 @@ Role required: sam\_user
 
 ## About this task
 
-Sometimes, [[software-spend-detection|Software Spend Detection]] can't match a transaction to a software publisher and product. If Software Spend Detection can identify the publisher but not the product, the transaction is categorized as Unnormalized in the list of products for that publisher in the Software Spend Detection dashboard. The transaction amount is added to the total cost for that publisher. If Software Spend Detection can't identify the publisher, the transaction is added to **Unnormalized Transactions** and is excluded from the Software Spend Detection dashboard. The transaction amount isn't included in any of the spend amounts shown on the dashboard.
+Sometimes, Software Spend Detection can't match a transaction to a software publisher and product. If Software Spend Detection can identify the publisher but not the product, the transaction is categorized as Unnormalized in the list of products for that publisher in the Software Spend Detection dashboard. The transaction amount is added to the total cost for that publisher. If Software Spend Detection can't identify the publisher, the transaction is added to **Unnormalized Transactions** and is excluded from the Software Spend Detection dashboard. The transaction amount isn't included in any of the spend amounts shown on the dashboard.
 
 ## Procedure
 
@@ -45,6 +45,3 @@ Sometimes, [[software-spend-detection|Software Spend Detection]] can't match a t
 
 **Parent Topic:**[Software Spend Detection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/software-spend-detection.md)
 
-## Related
-
-- [[software-spend-detection|Software Spend Detection]]

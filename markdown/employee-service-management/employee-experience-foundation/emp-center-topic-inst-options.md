@@ -17,7 +17,7 @@ breadcrumb: [Employee Center Pro Kiosk, Employee Center Integrations, Unified Em
 You can configure the widget instance options to control how data is displayed within the widget.
 
 -   **[Modify the Upcoming shift widget display](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-shift-instanceoptions.md)**  
-The upcoming shift widget displays the shift information of the [[deskless-kiosk-overview|Employee Center Pro Kiosk]] user. You can configure the instance options based on your display preferences.
+The upcoming shift widget displays the shift information of the Employee Center Pro Kiosk user. You can configure the instance options based on your display preferences.
 -   **[Modify the Time off widget display](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-timeoff-instanceoptions.md)**  
 The widget displays the time off balances. You can configure the instance options based on your display preferences.
 -   **[Modify Send to self widget display](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-sendtoself-instanceoptions.md)**  
@@ -29,6 +29,3 @@ The widget displays the support resources for the Employee Center Pro Kiosk user
 
 **Parent Topic:**[Employee Center Pro Kiosk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/deskless-kiosk-overview.md)
 
-## Related
-
-- [[deskless-kiosk-overview|Employee Center Pro Kiosk]]

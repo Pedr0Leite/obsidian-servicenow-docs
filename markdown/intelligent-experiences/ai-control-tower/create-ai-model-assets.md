@@ -15,7 +15,7 @@ breadcrumb: [Creating AI assets, Use, AI Control Tower, Enable AI experiences]
 
 # Create AI model assets
 
-Create [[ai-assets|AI assets]] to track and manage the life cycles of your [[ai-models|AI models]].
+Create AI assets to track and manage the life cycles of your AI models.
 
 ## Before you begin
 
@@ -27,11 +27,11 @@ An AI model is a program that is trained to process data and generate outputs, s
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[ai-control-tower-landing|AI Control Tower]]**.
+1.  Navigate to **Workspaces** &gt; **AI Control Tower**.
 
 2.  From the AI Control Tower, open the AI assets view.
 
-3.  From the [[now-assist-global-navigation|navigation]] menu of the AI assets view, navigate to either **[[ai-inventory|AI asset inventory]] - Managed** &gt; **AI Models** or **AI asset inventory - Unmanaged** &gt; **AI Models**.
+3.  From the navigation menu of the AI assets view, navigate to either **AI asset inventory - Managed** &gt; **AI Models** or **AI asset inventory - Unmanaged** &gt; **AI Models**.
 
 4.  Select **Add AI model**.
 
@@ -208,7 +208,7 @@ Report that provides data for the metrics that you’re using to evaluate the ef
 </td></tr></tbody>
 </table>6.  Select **Next**.
 
-7.  In the Related assets section of the Add AI model form, associate the AI model with related [[ai-datasets|datasets]].
+7.  In the Related assets section of the Add AI model form, associate the AI model with related datasets.
 
     Related datasets include any collections of data that can help test or train the AI model.
 
@@ -255,11 +255,3 @@ Users who are assigned the AI steward \(sn\_ai\_governance.ai\_steward\) role ca
 
 **Parent Topic:**[Creating AI assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/creating-ai-assets.md)
 
-## Related
-
-- [[ai-assets|AI assets]]
-- [[ai-models|AI models]]
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[now-assist-global-navigation|Navigation]]
-- [[ai-inventory|AI asset inventory]]
-- [[ai-datasets|Datasets]]

@@ -14,7 +14,7 @@ breadcrumb: [Reference, Contract Management Pro, Legal and Contract Operations, 
 
 # Components installed with Contract Workspace
 
-User roles are installed with activation of the [[cncore-contract-workspace|Contract Workspace]] plugin.
+User roles are installed with activation of the Contract Workspace plugin.
 
 ## Roles
 
@@ -48,7 +48,7 @@ Contract Workspace Admin \[sn\_cm\_workspace.admin\]
 
 </td><td>
 
-Grants permissions to all administrators to change the Contract Workspace for [[cncore-cmpro-landing-page|Contract Management Pro]] to fit into the business or user requirements.
+Grants permissions to all administrators to change the Contract Workspace for Contract Management Pro to fit into the business or user requirements.
 
 </td><td>
 
@@ -62,11 +62,11 @@ Workspace administrator \[workspace\_admin\]
 -   Workspace list admin \[workspace\_list\_admin\] - The workspace\_list\_admin role enables you to manage Workspace lists and categories.
 -   UI action admin \[ui\_action\_admin\] - The UI action admin role enables you to manage UI actions.
 -   UI Builder admin \[ui\_builder\_admin\] - The UI builder admin role provides permission to use the UI Builder APIs so you can create, update, read, and delete UX pages.
--   UX framework user \[uxframework\_user\] - The UX framework user role enables you to browse and select from the library of UX component records so they can set a component [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] field on any accessible table.
+-   UX framework user \[uxframework\_user\] - The UX framework user role enables you to browse and select from the library of UX component records so they can set a component reference field on any accessible table.
 -   Similarity Analyzer \[sn\_intel\_analyzer.similarity \_analyzer\_admin\] - The Similarity Analyzer role enables you to administer the Similarity Analyzer. The Similarity Analyzer defines patterns and trends that can help you resolve a record.
 -   Form admin \[form\_admin\] - The form\_admin role manages forms, form sections, and section elements.
 -   Personalize form \[personalize\_form\] - The personalize\_form role enables you to personalize forms.
--   UI notification admin \[ui\_notification\_admin\] - The UI notification admin role enables you to [[setup-notif-content-triggers|configure notification triggers]].
+-   UI notification admin \[ui\_notification\_admin\] - The UI notification admin role enables you to configure notification triggers.
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Contract Management Pro reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-ref.md)
@@ -102,9 +102,3 @@ Workspace administrator \[workspace\_admin\]
 
 [Contract Management solutions]()
 
-## Related
-
-- [[cncore-contract-workspace|Contract Workspace]]
-- [[cncore-cmpro-landing-page|Contract Management Pro]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[setup-notif-content-triggers|Configure notification triggers]]

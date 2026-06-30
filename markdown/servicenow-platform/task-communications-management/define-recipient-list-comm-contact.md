@@ -26,7 +26,7 @@ Sometimes, the contacts that you want to include in a plan can only be known dyn
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[tcm-landing-page|Task Communications Management]]** &gt; **Administration** &gt; **Recipients Lists**.
+1.  Navigate to **All** &gt; **Task Communications Management** &gt; **Administration** &gt; **Recipients Lists**.
 
 2.  Click **New** to create a new recipient list.
 
@@ -86,11 +86,7 @@ The method used to generate the recipient list.-   Upload File: Upload an Excel 
 
 ## What to do next
 
-[[create-comm-contact-definition|Define a communication contact]] for the task.
+Define a communication contact for the task.
 
 **Parent Topic:**[Working with Task Communications Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/task-communications-management/working-with-tcm.md)
 
-## Related
-
-- [[tcm-landing-page|Task Communications Management]]
-- [[create-comm-contact-definition|Define a communication contact]]

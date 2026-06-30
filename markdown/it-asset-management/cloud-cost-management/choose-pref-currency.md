@@ -14,7 +14,7 @@ breadcrumb: [Using Cloud Cost Management, Cloud Cost Management, IT Asset Manage
 
 # Choose preferred currency for cost and usage data
 
-Choose your preferred currency from the available options that will be shown for all the billing and usage data. The currency that you choose becomes the display currency on all the dashboard widgets, recommendations \(rightsizing, [[bh-cloudin|business hours]], [[um-cloudin|unused resources]], reservation/savings plan\), budgets, and billing data.
+Choose your preferred currency from the available options that will be shown for all the billing and usage data. The currency that you choose becomes the display currency on all the dashboard widgets, recommendations \(rightsizing, business hours, unused resources, reservation/savings plan\), budgets, and billing data.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: insights\_admin, insights\_owner or insights\_user
 
 ## Procedure
 
-1.  Navigate to **[[ci-workspace|Cloud Cost Management Workspace]]** &gt; **Operations** &gt; **My preferences** &gt; **Currency preference**.
+1.  Navigate to **Cloud Cost Management Workspace** &gt; **Operations** &gt; **My preferences** &gt; **Currency preference**.
 
 2.  Select your preferred display currency from the **Currency display preference** drop-down list.
 
@@ -37,8 +37,3 @@ The preferred currency is shown as the display currency in all dashboard widgets
 
 **Parent Topic:**[Using Cloud Cost Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/using-cloud-insights.md)
 
-## Related
-
-- [[bh-cloudin|Business hours]]
-- [[um-cloudin|Unused resources]]
-- [[ci-workspace|Cloud Cost Management Workspace]]

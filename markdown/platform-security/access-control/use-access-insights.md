@@ -14,7 +14,7 @@ breadcrumb: [Access Insights, Access Analyzer, Access Management]
 
 # Using Access Insights
 
-Use [[access-insights|Access Insights]] to understand [[users|users]]' peer-level access to a selected resource.
+Use Access Insights to understand users' peer-level access to a selected resource.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ The following procedure describes the steps for viewing the peer level role or g
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[access-analyzer|Access Analyzer]]** &gt; **Analyze Permissions**.
+1.  Navigate to **All** &gt; **Access Analyzer** &gt; **Analyze Permissions**.
 
 2.  On the Analyze access and permissions home page, select the **Compare user access** tab.
 
@@ -97,7 +97,7 @@ Specify a field name to select from the list.
 
     For example, click the **read** operation.
 
-6.  Select an **[[sc-access-control|Access Control]]** to learn more about access.
+6.  Select an **Access Control** to learn more about access.
 
 7.  Select **Show role Hierarchy** to view a peer-level access comparison.
 
@@ -112,9 +112,3 @@ Specify a field name to select from the list.
 
 Based on the insights gained, you can decide if a user has inappropriate access \(either too much or too little\) and make the necessary adjustments to their roles and groups to ensure consistency and compliance.
 
-## Related
-
-- [[access-insights|Access Insights]]
-- [[users|Users]]
-- [[access-analyzer|Access Analyzer]]
-- [[sc-access-control|Access control]]

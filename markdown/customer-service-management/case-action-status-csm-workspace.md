@@ -18,7 +18,7 @@ The case action status feature displays the status of cases in the Case list. Wi
 
 ## Action status column
 
-The case action status feature provides visual indicators in the **Action status** column on the My Cases and My Open [[migration-lists|lists]] to highlight case status. In addition to the colored indicators, the **Action status** column also displays a brief status message.
+The case action status feature provides visual indicators in the **Action status** column on the My Cases and My Open lists to highlight case status. In addition to the colored indicators, the **Action status** column also displays a brief status message.
 
 <table id="table_u1t_cqp_nhc"><thead><tr><th>
 
@@ -42,7 +42,7 @@ Needs attention
 
 </td><td>
 
-A blue indicator [[migration-form-highlights|highlights]] cases that need attention, such as cases that have been updated by customers or internal users and are waiting for input or review.
+A blue indicator highlights cases that need attention, such as cases that have been updated by customers or internal users and are waiting for input or review.
 
 </td></tr><tr><td>
 
@@ -61,18 +61,18 @@ A red indicator highlights cases that are blocked, such as cases that have open 
 </td></tr></tbody>
 </table>## Actionable case flows
 
-The case action status feature uses actionable case flows to automatically determine the action status for customer service cases. These flows create and resolve blocking tasks for different case-related actions and update the action status indicators. Certain agent actions trigger these case flows, which in turn create and resolve the blocking tasks. Customer service agents and managers can also manually set the action status for cases by enabling the **Needs Attention** field on the [[r_CustomerServiceCaseForm|Case form]].
+The case action status feature uses actionable case flows to automatically determine the action status for customer service cases. These flows create and resolve blocking tasks for different case-related actions and update the action status indicators. Certain agent actions trigger these case flows, which in turn create and resolve the blocking tasks. Customer service agents and managers can also manually set the action status for cases by enabling the **Needs Attention** field on the Case form.
 
 For more information, see the following topics:
 
--   [[case-action-status-triggers|Actionable case flows]]
--   [[configure-case-action-status-flows|Configure actionable case flows]]
+-   [Actionable case flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-action-status-triggers.md)
+-   [Configure actionable case flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-case-action-status-flows.md)
 
 ## Blocking tasks
 
 A blocking task is something that prevents an agent from making progress toward case resolution. For example, a case might have one or more open related case task records or be waiting for customer feedback.
 
-Certain agent actions trigger case flows that create and resolve blocking tasks for customer service cases. These tasks determine the case action status. Additionally, there are actions that resolve these blocking tasks, such as the customer responding to an agent’s question or an internal user resolving a problem task. For more information, see [[case-action-status-blocking-tasks|Blocking tasks]].
+Certain agent actions trigger case flows that create and resolve blocking tasks for customer service cases. These tasks determine the case action status. Additionally, there are actions that resolve these blocking tasks, such as the customer responding to an agent’s question or an internal user resolving a problem task. For more information, see [Blocking tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-action-status-blocking-tasks.md).
 
 ## Blocked by related list
 
@@ -102,17 +102,7 @@ Users with the admin role can configure notification triggers by navigating to *
 **Related topics**  
 
 
-[[configure-case-action-status|Configure case action status]]
+[Configure case action status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-case-action-status.md)
 
-[[customer-service-case-action-status|Administering case action status]]
+[Administering case action status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-case-action-status.md)
 
-## Related
-
-- [[case-action-status-triggers|Actionable case flows]]
-- [[configure-case-action-status-flows|Configure actionable case flows]]
-- [[case-action-status-blocking-tasks|Blocking tasks]]
-- [[configure-case-action-status|Configure case action status]]
-- [[customer-service-case-action-status|Case action status]]
-- [[migration-lists|Lists]]
-- [[migration-form-highlights|Highlights]]
-- [[r_CustomerServiceCaseForm|Case form]]

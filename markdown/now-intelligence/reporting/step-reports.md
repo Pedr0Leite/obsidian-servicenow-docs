@@ -20,7 +20,7 @@ The values of an item at specific dates or times are displayed as data points co
 
 For example, you can create a step line report for incident counts, to show how the number of incidents changes over time.
 
-**Note:** On instances with Unified Analytics enabled, and on new Australia instances, both Core UI reports and [[par-workspace|Platform Analytics experience]] data visualizations are found in the [[c_performanceAnalyticsAndReporting|Platform Analytics]] library. Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**. For more information, see [[explore-data-vis-library|Exploring the Data Visualizations library]].
+**Note:** On instances with Unified Analytics enabled, and on new Australia instances, both Core UI reports and Platform Analytics experience data visualizations are found in the Platform Analytics library. Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**. For more information, see [Exploring the Data Visualizations library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/explore-data-vis-library.md).
 
 This data visualization is supported on the mobile platform. For more information, see  and .
 
@@ -36,7 +36,7 @@ Create a step line report to show how the value of one or more items changes ove
 
 Roles required: itil, report\_user, report\_group, report\_global, report\_admin, or admin. To create a meaningful report, you must have the right to access the data you want to report on.
 
-For a step line report use case, [[dv-example-line|Time series data visualization example]].
+For a step line report use case, [Time series data visualization example](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/dv-example-line.md).
 
 ### About this task
 
@@ -46,7 +46,7 @@ This task refers to the Australia release using Core UI.
 
 1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations** and select **New**.
 
-2.  On instances with Unified Analytics enabled, and on new Australia instances, both Core UI reports and Platform Analytics experience data visualizations are found in the Platform Analytics library. Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**. For more information, see [[differences-between-core-ui-ne-dbs|Differences between Core UI and Platform Analytics dashboards]].
+2.  On instances with Unified Analytics enabled, and on new Australia instances, both Core UI reports and Platform Analytics experience data visualizations are found in the Platform Analytics library. Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**. For more information, see [Differences between Core UI and Platform Analytics dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/differences-between-core-ui-ne-dbs.md).
 
 3.  On the **Data** tab, give the report a name that reflects the information being grouped.
 
@@ -66,7 +66,7 @@ Also called a report source, a data source is a table with filters applied to pr
 
 </td><td>
 
-The raw data from a table with no filters applied. When you select a table, its short description appears below the table name. For trend [[reporting-landing-page|reporting]], you can also select a remote table, which aggregates, in memory, data retrieved from an external source. Then select a **Trend by** field option to aggregate its data. To learn more about remote tables, see Retrieving external data using remote tables and scripts
+The raw data from a table with no filters applied. When you select a table, its short description appears below the table name. For trend reporting, you can also select a remote table, which aggregates, in memory, data retrieved from an external source. Then select a **Trend by** field option to aggregate its data. To learn more about remote tables, see Retrieving external data using remote tables and scripts
 
 </td></tr><tr><td id="d212481e328">
 
@@ -228,7 +228,7 @@ Enables you to configure how to show numerical values in reports, including deci
 
     2.  Select the sort plus icon \(\[Omitted image "sort-order-plus-icon.png"\] Alt text: Sort plus icon\) to configure additional sorting order conditions. \(Select the sort minus icon \( \[Omitted image "sort-order-minus-icon.png"\] Alt text: Sort minus icon\) to delete configured sorting order conditions.\)
     3.  Select **Save**.
-    For fields of the type Choice list, sort order is not determined alphabetically based on Label, it is sorted based on the **Value** of the choice field. For multi-level pivot table and [[c_HeatmapCharts|heatmap reports]], sort order is determined by the sequence of the choices in the list.
+    For fields of the type Choice list, sort order is not determined alphabetically based on Label, it is sorted based on the **Value** of the choice field. For multi-level pivot table and heatmap reports, sort order is determined by the sequence of the choices in the list.
 
     \[Omitted image "choice-list-sort-order.png"\] Alt text: Report sorted by priority choice list
 
@@ -236,7 +236,7 @@ Enables you to configure how to show numerical values in reports, including deci
 
     To learn how to construct conditions, see Condition builder.
 
-    **Note:** In aggregated and [[list-reports|list reports]], language-dependent filter conditions may return zero results on localized instances.
+    **Note:** In aggregated and list reports, language-dependent filter conditions may return zero results on localized instances.
 
 10. On the **Style** tab, fill in the fields as appropriate to configure the appearance of the report.
 
@@ -276,9 +276,9 @@ Source of colors used in the report.If you do not group or stack the report, **U
 
  If you group or stack the report, select one of the following options:
 
--   **Use color palette**: Select a color palette from the predefined system [[color-palettes|color palettes]].
+-   **Use color palette**: Select a color palette from the predefined system color palettes.
 -   **Use several colors**: Define a custom set of **Colors** using hex codes. You can add any number of colors.
--   **Use [[c_ChartColors|chart colors]]**: Use the colors defined in **Reports** &gt; **Chart Colors**.
+-   **Use chart colors**: Use the colors defined in **Reports** &gt; **Chart Colors**.
 
  For more information about the differences between these options, see [Predefined colors in reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/colors-reports.md).
 
@@ -582,16 +582,3 @@ Enable this option to show the labels of the report in a bold typeface.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[explore-data-vis-library|Exploring the Data Visualizations library]]
-- [[dv-example-line|Time series data visualization example]]
-- [[differences-between-core-ui-ne-dbs|Differences between Core UI and Platform Analytics dashboards]]
-- [[par-workspace|Platform Analytics experience]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[reporting-landing-page|Reporting]]
-- [[c_HeatmapCharts|Heatmap reports]]
-- [[list-reports|List reports]]
-- [[color-palettes|Color palettes]]
-- [[c_ChartColors|Chart colors]]

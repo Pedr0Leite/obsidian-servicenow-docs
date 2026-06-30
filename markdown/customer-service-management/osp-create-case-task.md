@@ -20,9 +20,9 @@ Role required: sn\_csm\_ocs.ext\_agent
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[outsourced-service-provider|Outsourced Customer Service]]** &gt; **Cases** &gt; **My Cases** and open a case.
+1.  Navigate to **All** &gt; **Outsourced Customer Service** &gt; **Cases** &gt; **My Cases** and open a case.
 
-    **Note:** The timeline of the case is displayed at the top of the [[r_CustomerServiceCaseForm|case form]].
+    **Note:** The timeline of the case is displayed at the top of the case form.
 
 2.  Click **Tasks** related list.
 
@@ -44,7 +44,4 @@ Role required: sn\_csm\_ocs.ext\_agent
 
     **Note:** You can also close the case task.
 
-## Related
 
-- [[outsourced-service-provider|Outsourced Customer Service]]
-- [[r_CustomerServiceCaseForm|Case form]]

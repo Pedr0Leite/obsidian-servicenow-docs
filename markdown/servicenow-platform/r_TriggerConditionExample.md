@@ -12,7 +12,7 @@ breadcrumb: [Survey trigger conditions, Survey administration, Use surveys, Surv
 
 # Trigger condition example
 
-You can send out auto-triggered [[r_SurveyManagementLandingPage|surveys]] when an incident is closed or resolved.
+You can send out auto-triggered surveys when an incident is closed or resolved.
 
 A trigger condition is configured as follows:
 
@@ -50,9 +50,5 @@ To create a report on incident-triggered survey responses by Assignment group, s
 
 \[Omitted image "SurveyReportCreate.png"\] Alt text: Defining a report on survey responses that are triggered by an incident
 
-**Parent Topic:**[[c_TriggerConditions|Survey trigger conditions]]
+**Parent Topic:**[Survey trigger conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_TriggerConditions.md)
 
-## Related
-
-- [[c_TriggerConditions|Survey trigger conditions]]
-- [[r_SurveyManagementLandingPage|Surveys]]

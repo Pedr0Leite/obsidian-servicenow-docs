@@ -14,7 +14,7 @@ breadcrumb: [Discovery status, Configuring Discovery, Discovery, ITOM Visibility
 
 # Cancel a Discovery from a Discovery Status
 
-You can manually cancel a [[r-discovery|discovery]] while it is in progress from the [[c_DiscoveryStatus|Discovery Status]] record.
+You can manually cancel a discovery while it is in progress from the Discovery Status record.
 
 ## Before you begin
 
@@ -39,7 +39,3 @@ When a Discovery status cancels, any associated sensor transactions are immediat
 
 **Parent Topic:**[Discovery status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoveryStatus.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_DiscoveryStatus|Discovery status]]

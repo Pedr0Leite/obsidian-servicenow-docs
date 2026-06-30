@@ -14,7 +14,7 @@ breadcrumb: [Notify reference, Notify, Manage service capabilities, Extend Servi
 
 # Migrate to Notify-Twilio Direct driver
 
-Migrating to [[notify-landing-page|Notify]]-Twilio Direct driver provides next-generation integration with Twilio and Notify.
+Migrating to Notify-Twilio Direct driver provides next-generation integration with Twilio and Notify.
 
 ## Before you begin
 
@@ -35,6 +35,3 @@ Role required: notify\_admin
 
 **Parent Topic:**[Notify reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/notify-reference-section.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]

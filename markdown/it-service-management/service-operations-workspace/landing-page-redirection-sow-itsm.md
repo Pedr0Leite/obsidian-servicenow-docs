@@ -14,7 +14,7 @@ breadcrumb: [Getting started with Service Operations Workspace for ITSM, Configu
 
 # Landing page redirection in Service Operations Workspace for ITSM
 
-Redirection enables you to automatically route users to the SOW [[dex-workspace-dashboard-tab|landing page]] upon login.
+Redirection enables you to automatically route users to the SOW landing page upon login.
 
 Landing page redirection can be configured in any of the following ways:
 
@@ -31,6 +31,3 @@ Verify that the agents aren't automatically redirected to Service Operations Wor
 
 **Parent Topic:**[Getting started with Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/getting-started-sow.md)
 
-## Related
-
-- [[dex-workspace-dashboard-tab|Landing page]]

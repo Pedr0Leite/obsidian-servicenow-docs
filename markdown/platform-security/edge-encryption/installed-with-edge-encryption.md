@@ -14,13 +14,13 @@ breadcrumb: [Exploring Edge Encryption, Edge Encryption, Encryption]
 
 # Installed with Edge Encryption
 
-[[edge-encryption|Edge Encryption]] installs tables to store [[encryption-landing|encryption]]-related data, [[ca-system-properties|system properties]] to configure default behavior, and the edge\_encryption role to administer Edge Encryption.
+Edge Encryption installs tables to store encryption-related data, system properties to configure default behavior, and the edge\_encryption role to administer Edge Encryption.
 
 ## Tables installed with Edge Encryption
 
 Edge Encryption adds the following tables.
 
--   **Edge Encryption [[sc-configuration|Configuration]] \[sys\_encryption\_configuration\]**
+-   **Edge Encryption Configuration \[sys\_encryption\_configuration\]**
 
     Contains encrypted fields and tables for which attachments are encrypted.
 
@@ -114,9 +114,3 @@ Edge Encryption adds the following properties.
 
 **Parent Topic:**[Exploring Edge Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/c_EdgeEncryptionOverview.md)
 
-## Related
-
-- [[edge-encryption|Edge Encryption]]
-- [[encryption-landing|Encryption]]
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]

@@ -43,14 +43,9 @@ Role required: sn\_customerservice.customer
 **Related topics**  
 
 
-[[create-invoice-case-single|Dispute a specific line item on an invoice against your account using the Business Portal]]
+[Dispute a specific line item on an invoice against your account using the Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-invoice-case-single.md)
 
-[[create-invoice-case-multiple|Dispute multiple invoices against your account using the Business Portal]]
+[Dispute multiple invoices against your account using the Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-invoice-case-multiple.md)
 
-[[view-invoice-cases-business-portal|View invoice case details in the Business Portal]]
+[View invoice case details in the Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/view-invoice-cases-business-portal.md)
 
-## Related
-
-- [[create-invoice-case-single|Dispute a specific line item on an invoice against your account using the Business Portal]]
-- [[create-invoice-case-multiple|Dispute multiple invoices against your account using the Business Portal]]
-- [[view-invoice-cases-business-portal|View invoice case details in the Business Portal]]

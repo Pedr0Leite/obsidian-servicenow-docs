@@ -24,8 +24,5 @@ Select a link from the following table to learn about key features and benefits 
 
 ## What to explore next
 
-Configure the post-sales engagement applications to enable post-sales workflows. For more information, see [[configuring-post-sales-engagement|Post-sales engagement]].
+Configure the post-sales engagement applications to enable post-sales workflows. For more information, see [Post-sales engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configuring-post-sales-engagement.md).
 
-## Related
-
-- [[configuring-post-sales-engagement|Post-sales engagement]]

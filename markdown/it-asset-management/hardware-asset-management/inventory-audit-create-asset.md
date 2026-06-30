@@ -23,7 +23,7 @@ Role required: asset, and sn\_itam\_common.asset\_audit\_admin, or sn\_itam\_com
 
 ## About this task
 
-When scanning an asset in the inventory, if a new asset is detected that doesn’t exist in your ServiceNow® instance, you can create a record for it. You can add the asset directly from the audit screen in the [[agent-mobile-asset|ServiceNow Agent app]].
+When scanning an asset in the inventory, if a new asset is detected that doesn’t exist in your ServiceNow® instance, you can create a record for it. You can add the asset directly from the audit screen in the ServiceNow Agent app.
 
 **Note:** This procedure applies when you scan assets for a single scan audit record.
 
@@ -51,7 +51,7 @@ When scanning an asset in the inventory, if a new asset is detected that doesn�
 
 9.  Select **Submit**.
 
-    The List of assets and [[c_Models|models]] screen is displayed.
+    The List of assets and models screen is displayed.
 
 10. Tap the three dots icon \[Omitted image "list-of-assets-and-models-three-dot-icon.png"\] Alt text:.
 
@@ -84,12 +84,7 @@ When scanning an asset in the inventory, if a new asset is detected that doesn�
 
 ## Result
 
-In the [[audit-results-eam|audit results]], the **New** field value is incremented for each new asset scanned in the inventory.
+In the audit results, the **New** field value is incremented for each new asset scanned in the inventory.
 
 **Parent Topic:**[Audit hardware asset inventory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/ham-inventory-audit.md)
 
-## Related
-
-- [[agent-mobile-asset|ServiceNow Agent app]]
-- [[c_Models|Models]]
-- [[audit-results-eam|Audit results]]

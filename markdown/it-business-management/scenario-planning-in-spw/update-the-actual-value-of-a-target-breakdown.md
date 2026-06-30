@@ -14,7 +14,7 @@ breadcrumb: [Target breakdowns in Strategic Planning, Manage portfolio plan goal
 
 # Update the actual value of a target breakdown
 
-[[update-the-actual-value-of-a-target-breakdown-gf|Update the actual value of a target breakdown]] when its status is changed.
+Update the actual value of a target breakdown when its status is changed.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_apw\_advanced.spw\_goal\_user and \(sn\_align\_core.apw\_user
 
 Updating the actual value of a target breakdown automatically updates the actual value of its target. After the **Actual to date** field of the target is updated, the progress value for the target and its goal are auto-updated.
 
-**Note:** Only the owner or contributors of the goal can update the [[target-breakdowns-gf|target breakdowns]].
+**Note:** Only the owner or contributors of the goal can update the target breakdowns.
 
 ## Procedure
 
@@ -44,7 +44,7 @@ Steps
 
 </td><td>
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]]**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Portfolio Planning**.
 2.  Select **Portfolio Plans**.
 3.  From the list of portfolio plans, select the required portfolio plan that the goal belongs to.
 4.  In the Goals view, select the **Goals and targets** tab.
@@ -68,7 +68,7 @@ Alternatively, you can select the cell in the Actual column of the target breakd
 
 The target record opens with the **Progress** tab.
 
-6.  In the side panel, select **Edit planned target** to open the [[target-form|target form]].
+6.  In the side panel, select **Edit planned target** to open the target form.
 
 The target form opens with the **Target breakdowns** tab.
 
@@ -93,10 +93,3 @@ After the **Actual** field is updated, the progress value for the target and its
 
 [Update the progress of an automated target](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/update-progress-of-target-agf-apw.md)
 
-## Related
-
-- [[update-the-actual-value-of-a-target-breakdown-gf|Update the actual value of a target breakdown]]
-- [[target-breakdowns-gf|Target breakdowns]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[target-form|Target form]]

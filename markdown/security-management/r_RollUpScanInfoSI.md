@@ -12,7 +12,7 @@ breadcrumb: [Common Security Operations integration flows and orchestration acti
 
 # Roll up lookup info to security incident activity
 
-The **Roll up lookup info to security incident** activity can be used with any workflow to gather information from a [[tisc-threat-lookup|threat lookup]] and output a summary of the contents as well as the ID of the originating security incident in task work notes.
+The **Roll up lookup info to security incident** activity can be used with any workflow to gather information from a threat lookup and output a summary of the contents as well as the ID of the originating security incident in task work notes.
 
 ## Results
 
@@ -36,9 +36,5 @@ The output variables contain data that can be used in subsequent activities.
 |siId\[string\]|Security incident identifier.|
 |response \[string\]|Summary of lookup results including: IoC value, Result, Failure reason, lookup reference, and so on.|
 
-**Parent Topic:**[[common-wf-activities|Common Security Operations integration flows and orchestration activities]]
+**Parent Topic:**[Common Security Operations integration flows and orchestration activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/common-wf-activities.md)
 
-## Related
-
-- [[common-wf-activities|Common Security Operations integration flows and orchestration activities]]
-- [[tisc-threat-lookup|Threat Lookup]]

@@ -14,7 +14,7 @@ breadcrumb: [Reference, EMR Help, Healthcare and Life Sciences Service Managemen
 
 # Encryption options in EMR Help
 
-[[emr-exploring|EMR Help]] provides encryption support to secure sensitive information.
+EMR Help provides encryption support to secure sensitive information.
 
 Encryption prevents unauthorized users from viewing sensitive EMR system data.
 
@@ -41,6 +41,3 @@ Beginning with the Quebec release, the migration of keys and encrypted data from
 
 **Parent Topic:**[EMR Help reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/emr-reference.md)
 
-## Related
-
-- [[emr-exploring|EMR Help]]

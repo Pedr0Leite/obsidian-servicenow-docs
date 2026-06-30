@@ -33,7 +33,7 @@ View detailed metrics for a user's Microsoft Teams calls, including call quality
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  In the primary navigation pane, select the [[dex-workspace-application-tab|Applications]] icon \(\[Omitted image "icon-applications.png"\] Alt text: The Applications icon.\).
+2.  In the primary navigation pane, select the Applications icon \(\[Omitted image "icon-applications.png"\] Alt text: The Applications icon.\).
 
 3.  Select **Teams**.
 
@@ -77,6 +77,3 @@ View detailed metrics for a user's Microsoft Teams calls, including call quality
     -   **Audio codecs used**: A bar chart based on the audio codecs used.
     -   **Operating system**: A bar chart based on the user's operating system.
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]

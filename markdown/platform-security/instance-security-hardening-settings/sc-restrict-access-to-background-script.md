@@ -16,7 +16,7 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 Use a system property to set a role requirement for accessing the Script Background module.
 
-Use the **glide.script\_processor.admin** system property to set a required role to access the **Scripts - Background** module. If this property isn't set to the recommended value of `background_script_admin` or another high privileged role, [[users|users]] with lower privileged roles are able to run background scripts on your instance.
+Use the **glide.script\_processor.admin** system property to set a required role to access the **Scripts - Background** module. If this property isn't set to the recommended value of `background_script_admin` or another high privileged role, users with lower privileged roles are able to run background scripts on your instance.
 
 Ensure the property **glide.script\_processor.admin** is set to `background_script_admin`. This is also the default value.
 
@@ -34,7 +34,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -46,7 +46,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -117,8 +117,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

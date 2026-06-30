@@ -22,7 +22,7 @@ Role required: admin or sp\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ServicePortal|Service Portal]]** &gt; **Portals**, then click **New**.
+1.  Navigate to **All** &gt; **Service Portal** &gt; **Portals**, then click **New**.
 
 2.  On the form, fill in the fields.
 
@@ -80,7 +80,7 @@ Logo
 
 </td><td>
 
-Logo that appears in the page header. You can also [[configure-onboarding-modals|configure]] the logo in the Branding Editor.
+Logo that appears in the page header. You can also configure the logo in the Branding Editor.
 
 </td></tr><tr><td>
 
@@ -136,7 +136,7 @@ Main menu
 
 </td><td>
 
-[[onboarding-modals-reference|Reference]] to the menu in the Instances with Menu \[sp\_instance\_menu\] table that appears in the header.
+Reference to the menu in the Instances with Menu \[sp\_instance\_menu\] table that appears in the header.
 
 </td></tr><tr><td>
 
@@ -297,8 +297,3 @@ Your end users can initiate and maintain an Agent Chat conversation in any porta
 
 **Parent Topic:**[Configuring Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/configuring-service-portal.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[configure-onboarding-modals|Configure]]
-- [[onboarding-modals-reference|Reference]]

@@ -14,9 +14,9 @@ breadcrumb: [Resource Management Workspace, Project Portfolio Management, Strate
 
 # Exploring Resource Management Workspace
 
-Learn about the features, functionalities, and business value that the [[rsrc-mgmt-wrkspc|Resource Management Workspace]] provides.
+Learn about the features, functionalities, and business value that the Resource Management Workspace provides.
 
-This provides a centralized view of the [[r_AllocatingResources|resource allocation]] and requests. As a Resource manager, you get a dedicated workspace to view the team's allocation and breakdown of the work assigned to the resources.
+This provides a centralized view of the resource allocation and requests. As a Resource manager, you get a dedicated workspace to view the team's allocation and breakdown of the work assigned to the resources.
 
 Resource Management Workspace provides a centralized view of the resource allocations and resource requests. This workspace eases resource management problems and is designed to cover a wider set of use cases.
 
@@ -78,7 +78,3 @@ Follow these steps to begin using the workspace.
 
 **Parent Topic:**[Resource Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rsrc-mgmt-wrkspc.md)
 
-## Related
-
-- [[rsrc-mgmt-wrkspc|Resource Management Workspace]]
-- [[r_AllocatingResources|Resource allocation]]

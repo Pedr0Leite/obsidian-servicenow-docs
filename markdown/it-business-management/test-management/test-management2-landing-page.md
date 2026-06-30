@@ -14,7 +14,7 @@ breadcrumb: [Test Management applications, Strategic Portfolio Management]
 
 # Test Management 2.0
 
-The ServiceNow® Test Management 2.0 application streamlines the management of testing processes to help you deliver software products more efficiently and with fewer errors. You can create multiple versions of a test and integrate with [[agile-landing-page|Agile Development 2.0]].
+The ServiceNow® Test Management 2.0 application streamlines the management of testing processes to help you deliver software products more efficiently and with fewer errors. You can create multiple versions of a test and integrate with Agile Development 2.0.
 
 To learn about the different versions of Test Management and to choose the version that helps you meet your testing requirements, see [Test Management applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/test-management-overview.md).
 
@@ -61,7 +61,3 @@ Troubleshoot and get help
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]

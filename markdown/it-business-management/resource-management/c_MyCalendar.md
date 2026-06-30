@@ -18,7 +18,7 @@ Any user with the resource\_user role can open My Calendar to view, add, and mod
 
 After a user adds an event to the calendar, the time blocks for that event appear as red, indicating busy, on the resource console and the resource availability dashboard.
 
-Resource managers view users' calendars to determine who has open time to complete tasks, and can add tasks to any resource's personal calendar. For every event that is created on a user's calendar, a record is created in the User Calendar Event \[user\_calendar\_event\] table. [[c_ResourceEvents|Resource events]] are chunks of busy time for the user. Users and resource managers can sometimes modify these records. See [Resource event modifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/c_ModifyAResourceEvent.md).
+Resource managers view users' calendars to determine who has open time to complete tasks, and can add tasks to any resource's personal calendar. For every event that is created on a user's calendar, a record is created in the User Calendar Event \[user\_calendar\_event\] table. Resource events are chunks of busy time for the user. Users and resource managers can sometimes modify these records. See [Resource event modifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/c_ModifyAResourceEvent.md).
 
 The calendar uses time zones. Time is displayed to users in their local time zone according to user preferences. See [Time zones in resource plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/c_TimeZonesInResourcePlans.md).
 
@@ -35,11 +35,7 @@ View the calendar of a user to check availability.
 -   **[Add events to a user calendar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/t_AddEventsToAUserCalendar.md)**  
 Resource managers can add events to user calendars.
 -   **[Delete events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/t_DeleteEvents.md)**  
-You can [[t_DeleteEvents|delete events]] you created at any time.
+You can delete events you created at any time.
 
 **Parent Topic:**[Resource Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/c_ResourceManagement.md)
 
-## Related
-
-- [[c_ResourceEvents|Resource events]]
-- [[t_DeleteEvents|Delete events]]

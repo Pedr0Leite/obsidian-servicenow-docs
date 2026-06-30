@@ -14,7 +14,7 @@ breadcrumb: [Use, Recommended Actions for OTSM, Operational Technology]
 
 # Apply Recommended Actions to your Operational Technology incidents
 
-Apply Recommended Actions to your [[operational-technology-overview|Operational Technology]] \(OT\) incidents to display relevant actions to users based on the context of an OT incident record.
+Apply Recommended Actions to your Operational Technology \(OT\) incidents to display relevant actions to users based on the context of an OT incident record.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ For more information about Recommended Actions, see [Using the Recommended Actio
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]]**.
+1.  Navigate to **All** &gt; **Industrial Workspace**.
 
 2.  Open the Industrial Workspace list view.
 
@@ -45,7 +45,3 @@ For more information about Recommended Actions, see [Using the Recommended Actio
 
 **Parent Topic:**[Using Recommended Actions for Operational Technology Service Management \(OTSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/recommended-actions-for-otsm/using-recommended-actions-otsm.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

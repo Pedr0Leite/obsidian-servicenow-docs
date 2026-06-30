@@ -22,7 +22,7 @@ In a domain-separated environment, the software lifecycle report is generated at
 
 The following table shows how the reconciliation should behave. In this example:
 
--   The SP is managing Cisco's [[c_SoftwareAssetMgmt|software asset management]] \(SAM\) program at the Cisco corporate level. That means the lifecycle report must run at the Cisco corporate level.
+-   The SP is managing Cisco's software asset management \(SAM\) program at the Cisco corporate level. That means the lifecycle report must run at the Cisco corporate level.
 -   The SP is managing Walmart's SAM program for each Walmart division \(US and Mexico\). That means the lifecycle report must run at the Walmart division level.
 
 Here is the SP hierarchy:
@@ -44,7 +44,7 @@ Here is the SP hierarchy:
 |TOP/Walmart/US|True|Yes|
 |TOP/Walmart/Mexico|True|Yes|
 
-If the SP sets up [[c_CreatingSoftwareModels|software models]] for Cisco corporate as well as Cisco Mexico, even though their intent is to manage compliance for Cisco at the Cisco Corporate level, the lifecycle report may show duplicate lifecycle records with the same install count.
+If the SP sets up software models for Cisco corporate as well as Cisco Mexico, even though their intent is to manage compliance for Cisco at the Cisco Corporate level, the lifecycle report may show duplicate lifecycle records with the same install count.
 
 |Model domain| |Date| |Software Model|Domain|
 |------------|---|----|---|--------------|------|
@@ -57,7 +57,3 @@ To learn more about software lifecycles, see [Create software models in Software
 
 **Parent Topic:**[Domain separation and Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/domain-separation-software-asset-management.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[c_CreatingSoftwareModels|Software models]]

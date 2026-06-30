@@ -12,7 +12,7 @@ breadcrumb: [Create sightings search configuration records, Security Operations 
 
 # View Sightings Search Results
 
-You can review [[indicator-sightings|Sightings]] Search Results for internal and external malicious [[indicator|indicators]].
+You can review Sightings Search Results for internal and external malicious indicators.
 
 ## Before you begin
 
@@ -33,7 +33,7 @@ Role required: sn\_si.analyst
     |Result|Description|
     |------|-----------|
     |Number|Sightings Search identifier.|
-    |Observable count|Number of [[c_Observables|observables]] searched for.|
+    |Observable count|Number of observables searched for.|
     |Internal Sightings|Aggregated count of internal sightings.|
     |External Sightings|Aggregated count of external sightings. \(Received from threat sharing.\)|
     |Matched configuration items|Aggregated count of configuration items that matched an existing record in your `cmdb`.|
@@ -63,19 +63,10 @@ Role required: sn\_si.analyst
     |Threat Shares|List of the threats shared with Trusted Security Circle.|
 
 
--   **[[share-sightings-search-results|Share Sightings Search results]]**  
+-   **[Share Sightings Search results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/share-sightings-search-results.md)**  
 You can share local sightings details or results that are associated with a particular search with your Trusted Security Circle.
--   **[[share-observable|Share observables from a security incident]]**  
-Observables can be shared from a security incident in [[sir-landing-page|Security Incident Response]] to members in your trusted circle.
+-   **[Share observables from a security incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/share-observable.md)**  
+Observables can be shared from a security incident in Security Incident Response to members in your trusted circle.
 
-**Parent Topic:**[[sightings-search-configurations|Create sightings search configuration records]]
+**Parent Topic:**[Create sightings search configuration records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sightings-search-configurations.md)
 
-## Related
-
-- [[share-sightings-search-results|Share Sightings Search results]]
-- [[share-observable|Share observables from a security incident]]
-- [[sightings-search-configurations|Create sightings search configuration records]]
-- [[indicator-sightings|Sightings]]
-- [[indicator|Indicators]]
-- [[c_Observables|Observables]]
-- [[sir-landing-page|Security Incident Response]]

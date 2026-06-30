@@ -14,7 +14,7 @@ breadcrumb: [Interview Management, Hiring Experiences, HR Service Delivery, Empl
 
 # Exploring Interview Management
 
-Learn more about [[interview-management-landing|Interview management]] and review the benefits it can provide for different users in your organization.
+Learn more about Interview management and review the benefits it can provide for different users in your organization.
 
 ## Interview management overview
 
@@ -22,15 +22,15 @@ Interview management streamlines the entire interview process through structured
 
 The in-system setup offers full transparency and supports faster execution. Scheduling becomes more efficient with flexible options that support both candidate-led and recruiter-led slot bookings, while considering calendar availability and individual scheduling preferences to reduce conflicts. It provides full visibility into interview progress, supported by automated reminders and notifications to keep all stakeholders aligned.
 
-Additionally, it facilitates seamless feedback sharing and tracking, empowering [[hiring-tab-concept|hiring]] managers to efficiently compare applicants and make well-informed decisions.
+Additionally, it facilitates seamless feedback sharing and tracking, empowering hiring managers to efficiently compare applicants and make well-informed decisions.
 
 ## Interview management users
 
 |User|Description|
 |----|-----------|
-|Recruiter|Recruiters configure interview phases for job requisitions, schedule and [[manage-interviews-recruiter|manage interviews]], provide feedback, and so on.|
+|Recruiter|Recruiters configure interview phases for job requisitions, schedule and manage interviews, provide feedback, and so on.|
 |Recruitment coordinator|Recruitment coordinators assist recruiters in the interview process.|
-|Interviewer|Interviewers [[share-availability-applicant-ac|share scheduling preferences]], take interviews, and [[provide-interview-feedback-hm-interviewer|provide interview feedback]].|
+|Interviewer|Interviewers share scheduling preferences, take interviews, and provide interview feedback.|
 
 ## Interview management benefits
 
@@ -51,17 +51,9 @@ Additionally, it facilitates seamless feedback sharing and tracking, empowering 
 
 ## What to explore next
 
-To learn more about configuring and [[using-interview-management|using Interview management]], see:
+To learn more about configuring and using Interview management, see:
 
 -   [Configuring Interview Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/configuring-interview-management.md)
 -   [Using Interview Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/using-interview-management.md)
 -   [Interview Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/interview-management-reference.md)
 
-## Related
-
-- [[interview-management-landing|Interview Management]]
-- [[hiring-tab-concept|Hiring]]
-- [[manage-interviews-recruiter|Manage interviews]]
-- [[share-availability-applicant-ac|Share scheduling preferences]]
-- [[provide-interview-feedback-hm-interviewer|Provide interview feedback]]
-- [[using-interview-management|Using Interview Management]]

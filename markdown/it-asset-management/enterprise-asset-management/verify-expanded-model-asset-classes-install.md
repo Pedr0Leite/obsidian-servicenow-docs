@@ -14,7 +14,7 @@ breadcrumb: [Install Expanded Model and Asset Classes, Expanded Model and Asset 
 
 # Verify successful installation of the Expanded Model and Asset Classes application
 
-After you request and install the [[enterprise-model-asset-classes-app|Expanded Model and Asset Classes]] application, verify that all [[enterprise-model-asset-classes|enterprise model and asset classes]] have been added to the CMDB class hierarchy successfully.
+After you request and install the Expanded Model and Asset Classes application, verify that all enterprise model and asset classes have been added to the CMDB class hierarchy successfully.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-**Warning:** Uninstalling the Expanded Model and Asset Classes application may compromise the integrity of the [[enterprise-asset-management|Enterprise Asset Management]] application, resulting in unexpected behavior.
+**Warning:** Uninstalling the Expanded Model and Asset Classes application may compromise the integrity of the Enterprise Asset Management application, resulting in unexpected behavior.
 
 ## Procedure
 
@@ -34,8 +34,4 @@ Role required: admin
 
     Select any class to verify the corresponding class description, identification rules, identifier entries, and dependent relationships.
 
-## Related
 
-- [[enterprise-model-asset-classes-app|Expanded Model and Asset Classes]]
-- [[enterprise-model-asset-classes|Enterprise model and asset classes]]
-- [[enterprise-asset-management|Enterprise Asset Management]]

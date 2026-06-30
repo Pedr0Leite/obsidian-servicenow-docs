@@ -20,7 +20,7 @@ Role required: sn\_fsm\_tp.fsm\_territory\_planner
 
 ## About this task
 
-The [[territory-planning-fsm|Field Service Territory Planning]] configuration enables filtering of the most eligible territories for a work order or work order task. This configuration is stored in a matching rule that is based on the **Selection criteria** matching type.
+The Field Service Territory Planning configuration enables filtering of the most eligible territories for a work order or work order task. This configuration is stored in a matching rule that is based on the **Selection criteria** matching type.
 
 The default configuration uses the **Field Service Territory Planning: Get eligible territories for Work Orders** and **Field Service Territory Planning: Get eligible territories for Work Order Tasks** matching rules, which use the following matching criteria:
 
@@ -97,6 +97,3 @@ Either the Work Order Task \[wm\_task\] or Work Order \[wm\_order\] table.This f
 
 The conditions to help determine the best matched territories for a work order or work order task are set.
 
-## Related
-
-- [[territory-planning-fsm|Field Service Territory Planning]]

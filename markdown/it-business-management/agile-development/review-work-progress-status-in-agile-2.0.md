@@ -14,7 +14,7 @@ breadcrumb: [Work Progress Status for Agile Teams, Agile Development, Strategic 
 
 # Reviewing progress status for Agile Development 2.0 epics
 
-Understand if your work would be completed by the planned end dates by reviewing progress status of your [[agile-landing-page|Agile Development 2.0]] epics.
+Understand if your work would be completed by the planned end dates by reviewing progress status of your Agile Development 2.0 epics.
 
 Navigate to **Agile Development 2.0** &gt; **Epics** and filter the epics for your team.
 
@@ -46,6 +46,3 @@ The color of the progress status indicator is determined using the following con
 
 [Agile 2.0 Epic Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/agile-development-epic-dashboard.md)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]

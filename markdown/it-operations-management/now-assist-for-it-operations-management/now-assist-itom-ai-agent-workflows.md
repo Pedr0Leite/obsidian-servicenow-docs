@@ -15,7 +15,7 @@ breadcrumb: [Now Assist for ITOM, IT Operations Management]
 
 # Use agentic AI in Now Assist for ITOM
 
-Use the [[r_ITOMApplications|IT Operations Management]] \(ITOM\) agentic workflows to complete tasks autonomously.
+Use the IT Operations Management \(ITOM\) agentic workflows to complete tasks autonomously.
 
 **Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 
@@ -49,7 +49,7 @@ Triages alerts by updating assignments, analyzing alerts, detecting recurring pa
 
 </td></tr><tr><td>
 
-[[use-acc-diagnostic-workflow|Agent Client Collector \(ACC\) Diagnostic Workflow]]
+Agent Client Collector \(ACC\) Diagnostic Workflow
 
 </td><td>
 
@@ -57,7 +57,7 @@ Displays error analysis created by Now Assist using generative AI. Error analyse
 
 </td><td>
 
-[[acc-landing-page|Agent Client Collector]] \(ACC\) Diagnostic
+Agent Client Collector \(ACC\) Diagnostic
 
 </td></tr><tr><td>
 
@@ -101,7 +101,7 @@ View all certificates about to expire and renew then automatically all at once.
 
 </td></tr><tr><td>
 
-[[c_ServiceAnalyticsOverview|Alert grouping]] recommendations
+Alert grouping recommendations
 
 </td><td>
 
@@ -126,12 +126,5 @@ Enable security settings to run AI agents and agentic workflows using Access Con
 
 There might be AI agents installed with the Now Assist application that are not used in agentic workflows. To learn how to see all agents that are available to you, see [Find AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/find-ai-agents.md).
 
-Visit the following links to learn about the [[now-assist-itom|Now Assist for ITOM]] agentic workflows.
+Visit the following links to learn about the Now Assist for ITOM agentic workflows.
 
-## Related
-
-- [[r_ITOMApplications|IT Operations Management]]
-- [[use-acc-diagnostic-workflow|Agent Client Collector \(ACC\) diagnostic workflow]]
-- [[acc-landing-page|Agent Client Collector]]
-- [[c_ServiceAnalyticsOverview|Alert grouping]]
-- [[now-assist-itom|Now Assist for ITOM]]

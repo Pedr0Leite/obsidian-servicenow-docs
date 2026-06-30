@@ -14,7 +14,7 @@ breadcrumb: [API Insights, Configuration Management Database \(CMDB\), Configura
 
 # Managing API data in API Insights
 
-You can use the [[api-insights|API Insights]] workspace to centralize and manage API data for informed decision-making.
+You can use the API Insights workspace to centralize and manage API data for informed decision-making.
 
 Within the API Insights workspace, you can:
 
@@ -44,7 +44,7 @@ Within the API Insights workspace, you can:
 
 -   [Manage your team's API data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights-team-api.md).
 
-    Improve the operational efficiency of the API ecosystem within your organization by creating a relationship for APIs that lack key attributes such as business context, [[enable-ownership-group|ownership groups]], product models, or designs.
+    Improve the operational efficiency of the API ecosystem within your organization by creating a relationship for APIs that lack key attributes such as business context, ownership groups, product models, or designs.
 
 -   [View details of an API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights-api-details-page.md).
 
@@ -58,7 +58,4 @@ Within the API Insights workspace, you can:
 
     Configure and automate creating CMDB relationships between APIs and application services or business applications based on API tags.
 
-## Related
 
-- [[api-insights|API Insights]]
-- [[enable-ownership-group|Ownership groups]]

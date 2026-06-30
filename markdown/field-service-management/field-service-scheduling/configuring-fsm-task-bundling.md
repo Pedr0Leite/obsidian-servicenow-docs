@@ -28,8 +28,5 @@ For information about activating the Field Service Task Bundling plugin \(com.sn
 
 ## Components
 
-For a detailed list of components added by Field Service Task Bundling, see [[task-bundling-components|Field Service Task Bundling components]].
+For a detailed list of components added by Field Service Task Bundling, see [Field Service Task Bundling components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/task-bundling-components.md).
 
-## Related
-
-- [[task-bundling-components|Field Service Task Bundling components]]

@@ -12,7 +12,7 @@ breadcrumb: [Using Knowledge Center, Knowledge Center, Manage content capabiliti
 
 # Identify and resolve duplicate articles
 
-Learn how to find and manage duplicate knowledge articles in the [[knowledge-center|Knowledge Center]].
+Learn how to find and manage duplicate knowledge articles in the Knowledge Center.
 
 ## Before you begin
 
@@ -48,6 +48,3 @@ The duplicate articles are resolved, improving content accuracy and reducing red
 
 [Merge duplicate articles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/merge-duplicate-articles.md)
 
-## Related
-
-- [[knowledge-center|Knowledge Center]]

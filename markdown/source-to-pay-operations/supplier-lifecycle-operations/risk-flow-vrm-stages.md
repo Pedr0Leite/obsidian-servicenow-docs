@@ -14,7 +14,7 @@ breadcrumb: [Risk assessment flow when only Vendor Risk Management is installed,
 
 # Playbook stages and activities when only Vendor Risk Management is installed
 
-The following table lists the [[perform-risk-playbook|Perform risk assessment playbook]] stages and activities when only Vendor Risk Management \(VRM\) is installed.
+The following table lists the Perform risk assessment playbook stages and activities when only Vendor Risk Management \(VRM\) is installed.
 
 <table><thead><tr><th>
 
@@ -38,7 +38,7 @@ Assign case
 
 </td><td>
 
-As a [[supplier|supplier]] manager or fulfiller, you can use this activity to assign the case to a different person or keep the case assigned to you.You can do the following:
+As a supplier manager or fulfiller, you can use this activity to assign the case to a different person or keep the case assigned to you.You can do the following:
 
  -   In the **Assigned to** search field, search for and select the person that you want to assign the case to.
 -   In the **Short description** field, update the description for the case.
@@ -64,7 +64,7 @@ Waiting on the risk assessment to be completed
 
 </td><td>
 
-Waits for the risk assessment questionnaires to be completed by the [[supplier-contact|supplier contact]].Select **View Record** to see the risk assessment record.
+Waits for the risk assessment questionnaires to be completed by the supplier contact.Select **View Record** to see the risk assessment record.
 
 </td></tr><tr><td>
 
@@ -72,7 +72,7 @@ Mark risk assessment as completed
 
 </td><td>
 
-Select **Mark Complete** to mark this activity as completed after the supplier contact completes the risk assessment questionnaires from the [[supplier-central|Supplier Collaboration Portal]].
+Select **Mark Complete** to mark this activity as completed after the supplier contact completes the risk assessment questionnaires from the Supplier Collaboration Portal.
 
 </td></tr><tr><td rowspan="2">
 
@@ -104,17 +104,10 @@ Add closing comments to complete the case.In the **Close notes** field, add your
 The state of the due diligence case is updated to Closed completed.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[risk-flow-slo-vrm|Risk assessment flow when only Vendor Risk Management is installed]]
+</table>**Parent Topic:**[Risk assessment flow when only Vendor Risk Management is installed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/risk-flow-slo-vrm.md)
 
 **Related topics**  
 
 
 [Risk assessment flow when only Vendor Risk Management is installed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/risk-flow-slo-vrm.md)
 
-## Related
-
-- [[risk-flow-slo-vrm|Risk assessment flow when only Vendor Risk Management is installed]]
-- [[perform-risk-playbook|Perform risk assessment playbook]]
-- [[supplier|Supplier]]
-- [[supplier-contact|Supplier contact]]
-- [[supplier-central|Supplier Collaboration Portal]]

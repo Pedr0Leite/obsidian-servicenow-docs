@@ -12,7 +12,7 @@ breadcrumb: [Product pricing, Configure, price, quote apps, Configure, Sales Cus
 
 # Configure volume pricing
 
-Set volume pricing [[rules_101|rules]] by using the Standard Price Adjustment matrix.
+Set volume pricing rules by using the Standard Price Adjustment matrix.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_csm\_pricing.pricelist\_administrator, sn\_csm\_pricing.price
 
 2.  Navigate to **Pricing** &gt; **Pricing Matrices**.
 
-3.  In the Pricing Matrices list, select the Standard Price Adjustment matrix and [[create-matrix-versions|create a new matrix version]].
+3.  In the Pricing Matrices list, select the Standard Price Adjustment matrix and [create a new matrix version](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-matrix-versions.md).
 
 4.  In the Context variables section of the new matrix version, select the Search \[Omitted image "search.png"\] Alt text: icon and in the list of Context variables, select the Quantity variable.
 
@@ -77,7 +77,4 @@ Role required: sn\_csm\_pricing.pricelist\_administrator, sn\_csm\_pricing.price
 
     The volume pricing adjustment is available to sales or order agents as they work on quotes or orders. For example, a pricing adjustment has a quantity range for a particular product, such as 1 through 10 door sensors. When a sales agent adds five door sensors to a quote, the pricing adjustment is applied. The pricing adjustment doesn't apply to quantities outside this range.
 
-## Related
 
-- [[create-matrix-versions|Create a matrix version]]
-- [[rules_101|Rules]]

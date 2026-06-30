@@ -14,7 +14,7 @@ breadcrumb: [Reference, Industrial Connected Workforce Mobile Experience, Indust
 
 # Deviation form
 
-The following table describes the field values for the [[deviation-form|Deviation form]] in [[icw-mobile-exp-landing-page|Industrial Connected Workforce Mobile Experience]].
+The following table describes the field values for the Deviation form in Industrial Connected Workforce Mobile Experience.
 
 <table id="table_n4l_kgc_1gc"><thead><tr><th>
 
@@ -210,7 +210,3 @@ Resolution code for the impact. Options are:-   None
 </td></tr></tbody>
 </table>**Parent Topic:**[Industrial Connected Workforce Mobile Experience reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/industrial-connected-workforce-mobile-experience-reference.md)
 
-## Related
-
-- [[deviation-form|Deviation form]]
-- [[icw-mobile-exp-landing-page|Industrial Connected Workforce Mobile Experience]]

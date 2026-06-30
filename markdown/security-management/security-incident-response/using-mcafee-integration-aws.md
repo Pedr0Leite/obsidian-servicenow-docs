@@ -14,19 +14,19 @@ breadcrumb: [McAfee ePO integration, Security Incident Response integrations, Se
 
 # Using McAfee ePO integration in Analyst Workspace
 
-Use the [[mcaffee-epo-overview-arch|McAfee ePO integration]] to leverage the McAfee ePO capabilities on the SIR Analyst workspace.
+Use the McAfee ePO integration to leverage the McAfee ePO capabilities on the SIR Analyst workspace.
 
 ## Before you begin
 
 Role required: sn\_si.admin
 
-Before you use McAfee ePO integration on the [[sir-workspace-landing-page|Security Incident Response workspace]], you must download it from the ServiceNow Store and configure it. For more information, see [Set up your ServiceNow AI Platform instance for the McAfee ePO integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcaffee-epo-setup-now.md).
+Before you use McAfee ePO integration on the Security Incident Response workspace, you must download it from the ServiceNow Store and configure it. For more information, see [Set up your ServiceNow AI Platform instance for the McAfee ePO integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcaffee-epo-setup-now.md).
 
 ## About this task
 
 You can use the McAfee ePO integration to make remediation actions on the endpoints in real-time, use profiles to gather details about the host, and make specific queries or actions on the endpoint using the Security Incident Response workspace.
 
-The McAfee ePO integration enables analysts to use the following McAfee ePO capabilities on the [[sir-landing-page|Security Incident Response]] Analyst workspace:
+The McAfee ePO integration enables analysts to use the following McAfee ePO capabilities on the Security Incident Response Analyst workspace:
 
 -   **Get Host Details**
 -   **Isolate Host**
@@ -72,8 +72,3 @@ The McAfee ePO integration enables analysts to use the following McAfee ePO capa
 
 **Next topic:**[Test security incidents to initiate malware scan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcafee-epo-test-incident-malscan.md)
 
-## Related
-
-- [[mcaffee-epo-overview-arch|McAfee ePO integration]]
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[sir-landing-page|Security Incident Response]]

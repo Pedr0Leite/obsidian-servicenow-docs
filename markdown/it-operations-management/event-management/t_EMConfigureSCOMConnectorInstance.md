@@ -22,15 +22,15 @@ Role required: evt\_mgmt\_admin
 
 ## About this task
 
-The SCOM connector instance requires configuration before receiving alerts and [[operational-metrics|Metric Intelligence]] raw data from the SCOM server. You can limit the collection of SCOM alerts to only those alerts that belong to the SCOM group that you specify.
+The SCOM connector instance requires configuration before receiving alerts and Metric Intelligence raw data from the SCOM server. You can limit the collection of SCOM alerts to only those alerts that belong to the SCOM group that you specify.
 
 ## Procedure
 
-1.  [[t_EMConfigureSCOMConnector|Configure the SCOM connector instance]].
+1.  Configure the SCOM connector instance.
 
 2.  Configure the Microsoft System Center Operations Manager \(SCOM\) connector instance to receive alerts and Metric Intelligence raw data from the SCOM server.
 
-3.  [[t_EMAssignRoleSCOMGroup|Limit collected SCOM alerts to specific SCOM groups]].
+3.  Limit collected SCOM alerts to specific SCOM groups.
 
 
 -   **[Configure the SCOM connector instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMConfigureSCOMConnector.md)**  
@@ -38,14 +38,7 @@ Configure the Microsoft System Center Operations Manager \(SCOM\) connector inst
 -   **[Limit collected SCOM alerts to specific SCOM groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMAssignRoleSCOMGroup.md)**  
 Limit the collection of SCOM alerts to only those alerts that belong to the specified SCOM group.
 -   **[SCOM metric event rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/scom-event-rules.md)**  
-The base system comes with Microsoft System Center Operations Manager \(SCOM\) metric [[create-event-rules|event rules]]. [[scom-event-rules|SCOM metric event rules]] bind event metrics to configuration items \(CIs\).
+The base system comes with Microsoft System Center Operations Manager \(SCOM\) metric event rules. SCOM metric event rules bind event metrics to configuration items \(CIs\).
 
 **Parent Topic:**[Configure a pull connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMConfigureConnectorInstance.md)
 
-## Related
-
-- [[operational-metrics|Metric Intelligence]]
-- [[t_EMConfigureSCOMConnector|Configure the SCOM connector instance]]
-- [[t_EMAssignRoleSCOMGroup|Limit collected SCOM alerts to specific SCOM groups]]
-- [[create-event-rules|Event rules]]
-- [[scom-event-rules|SCOM metric event rules]]

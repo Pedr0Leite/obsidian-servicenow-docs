@@ -14,9 +14,9 @@ breadcrumb: [Web Authentication, MFA verification methods, Configuring MFA, Mult
 
 # Authenticator configuration options
 
-Use the Authenticator [[sc-configuration|Configuration]] page to manage authenticator options on your instance.
+Use the Authenticator Configuration page to manage authenticator options on your instance.
 
-Navigate to **[[mfa-landing|Multi-factor Authentication]]** &gt; **[[mfa-web-auth|Web Authentication]]** &gt; **Authenticator Configuration** to view and edit the default configuration options.
+Navigate to **Multi-factor Authentication** &gt; **Web Authentication** &gt; **Authenticator Configuration** to view and edit the default configuration options.
 
 <table id="table_uds_zcj_zpb"><thead><tr><th>
 
@@ -67,7 +67,7 @@ User verification
 
 </td><td>
 
-Select from **Preferred** or **Required**. If required, web authentication flow prompts [[users|users]] for verification using PIN or Biometrics.
+Select from **Preferred** or **Required**. If required, web authentication flow prompts users for verification using PIN or Biometrics.
 
 </td></tr><tr><td>
 
@@ -91,15 +91,7 @@ Timeout \(In ms\)
 
 </td><td>
 
-Maximum time limit for completing web authentication registration and [[c_Authentication|authentication]]. Time is in milliseconds.
+Maximum time limit for completing web authentication registration and authentication. Time is in milliseconds.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sc-configuration|Configuration]]
-- [[mfa-landing|Multi-factor authentication]]
-- [[mfa-web-auth|Web Authentication]]
-- [[users|Users]]
-- [[c_Authentication|Authentication]]

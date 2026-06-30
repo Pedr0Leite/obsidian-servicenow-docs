@@ -22,11 +22,11 @@ Role required: evt\_mgmt\_user, evt\_mgmt\_operator
 
 ## About this task
 
-To create CMDB-based [[c_ServiceAnalyticsOverview|alert grouping]], you can also create a grouping automation in [[workspace-dashboard-use|Service Operations Workspace]]. For more information, see [Create Group automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/group-alert-sow-itom.md).
+To create CMDB-based alert grouping, you can also create a grouping automation in Service Operations Workspace. For more information, see [Create Group automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/group-alert-sow-itom.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **All Alerts**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **All Alerts**.
 
 2.  Search for the CMDB group.
 
@@ -44,8 +44,4 @@ To create CMDB-based [[c_ServiceAnalyticsOverview|alert grouping]], you can also
 
     \[Omitted image "view-dependency-map.png"\] Alt text: View dependency map for CMDB alerts.
 
-## Related
 
-- [[c_ServiceAnalyticsOverview|Alert grouping]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[c_EM|Event Management]]

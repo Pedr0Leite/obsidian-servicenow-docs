@@ -12,7 +12,7 @@ breadcrumb: [Configure, Patient Support Services, Healthcare and Life Sciences S
 
 # Determine who can conduct a training for Patient Support Services
 
-Add users who can conduct the trainings for [[pss-app|Patient Support Services]] to the Nurse Training Support assignment group.
+Add users who can conduct the trainings for Patient Support Services to the Nurse Training Support assignment group.
 
 ## Before you begin
 
@@ -38,6 +38,4 @@ In the Patient Support Services application, the sn\_patientservice.nurse\_educa
 
     For more information, see [Assign a role to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AssignRoleToGroup.md).
 
-## Related
 
-- [[pss-app|Patient Support Services]]

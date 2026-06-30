@@ -14,7 +14,7 @@ breadcrumb: [Define model state transitions, Configure, Compliance Case Manageme
 
 # GRC Model State Transition Condition form
 
-Use the GRC Model State Transition Condition form to define the transition conditions to control how a compliance case or request traverses through the different workflow states by using the GRC: [[compliance-case-management|Compliance Case Management]] application.
+Use the GRC Model State Transition Condition form to define the transition conditions to control how a compliance case or request traverses through the different workflow states by using the GRC: Compliance Case Management application.
 
 See the following table for a description of the field values.
 
@@ -105,6 +105,3 @@ Script to be defined for this state transition. This field appears only when **T
 </td></tr></tbody>
 </table>**Parent Topic:**[Define model state transitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/create-a-model-state-transition-for-compliance-case.md)
 
-## Related
-
-- [[compliance-case-management|compliance case management]]

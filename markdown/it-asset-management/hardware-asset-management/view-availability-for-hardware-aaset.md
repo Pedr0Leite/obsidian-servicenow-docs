@@ -32,7 +32,7 @@ The Asset KPIs report is available for a hardware asset under the following cond
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Asset estate**.
+1.  Navigate to **Workspaces** &gt; **Hardware Asset Workspace** &gt; **Asset estate**.
 
 2.  Select the **All assets** tab.
 
@@ -53,6 +53,3 @@ The Asset KPIs report is available for a hardware asset under the following cond
     -   **End**: The date and time when the asset KPI values were last calculated.
     -   **Outages During Interval** tab: A list of outages with details like start and end time of the outage and the duration of the outage. For more details on outage record creation and handling, see [Asset performance reports in the Hardware Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/asset-performance-reports-ham.md).
 
-## Related
-
-- [[using-ham-workspace|Hardware Asset Workspace]]

@@ -14,7 +14,7 @@ breadcrumb: [ACC-M reference, Agent Client Collector reference, Agent Client Col
 
 # Azure metrics script
 
-When creating a new policy for [[azure-cloud-metrics|Azure cloud metrics]], create a .json script to determine the metrics to be monitored. The format for the script appears below, followed by a table explaining the script contents.
+When creating a new policy for Azure cloud metrics, create a .json script to determine the metrics to be monitored. The format for the script appears below, followed by a table explaining the script contents.
 
 ```
 {
@@ -75,6 +75,3 @@ The granularity of how often metrics are to be collected. Possible values are:- 
 </td></tr></tbody>
 </table>**Parent Topic:**[Agent Client Collector Monitoring reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-monitoring-reference.md)
 
-## Related
-
-- [[azure-cloud-metrics|Azure cloud metrics]]

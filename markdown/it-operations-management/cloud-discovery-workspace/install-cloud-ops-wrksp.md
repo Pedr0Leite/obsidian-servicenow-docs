@@ -14,7 +14,7 @@ breadcrumb: [Cloud Discovery Workspace, ITOM Visibility, IT Operations Managemen
 
 # Install Cloud Discovery Workspace
 
-You can install the [[cow-landing-page|Cloud Discovery Workspace]] application \(com.cloud\_operations\_workspace\) if you have the admin role.
+You can install the Cloud Discovery Workspace application \(com.cloud\_operations\_workspace\) if you have the admin role.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ When Cloud Discovery Workspace is installed, several plugins and applications ar
 -   Ensure that the application and all of its associated ServiceNow Store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
 -   Cloud Discovery Workspace requires the following plugin. Ensure that the following plugin is activated before you install Cloud Discovery Workspace.
     -   **Required ServiceNow plugins**
-        -   **[[r-discovery|Discovery]] \(com.snc.discovery\)**
+        -   **Discovery \(com.snc.discovery\)**
 
             ServiceNow Cloud Discovery finds applications and devices on your network, and then updates the CMDB 360 with the information it finds. For more information on activating Discovery, see [Request Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_ActivateTheDiscoveryPlugin.md).
 
@@ -54,7 +54,7 @@ sn\_cloud\_ops\_ws.cloud\_ops\_admin
 
 </td><td>
 
-The Cloud Discovery Workspace admin can perform the following actions:-   View the [[cloud-ops-wrksp-dashboard|Cloud Discovery Workspace dashboard]]
+The Cloud Discovery Workspace admin can perform the following actions:-   View the Cloud Discovery Workspace dashboard
 -   Create Cloud Discovery schedules
 -   Monitor Cloud Discovery operations
 -   View Cloud Discovery reports
@@ -86,8 +86,4 @@ The Cloud Discovery Workspace admin can perform the following actions:-   View t
 
 5.  Select **Install**.
 
-## Related
 
-- [[cow-landing-page|Cloud Discovery Workspace]]
-- [[r-discovery|Discovery]]
-- [[cloud-ops-wrksp-dashboard|Cloud Discovery Workspace dashboard]]

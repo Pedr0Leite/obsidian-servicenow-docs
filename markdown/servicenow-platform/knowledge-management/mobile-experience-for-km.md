@@ -28,14 +28,14 @@ Using Now Mobile app, even external users can access and provide feedback to the
 
 ## Activation information
 
-The Information applet is available on the Now Mobile app. The ServiceNow Mobile Request - [[knowledge-management|Knowledge Management]] Screens and Applet Launcher plugin \(com.glideapp.knowledge.mobile\_requestor\) activates the Information applet. The Information applet is activated by default for both new and upgrade customers.
+The Information applet is available on the Now Mobile app. The ServiceNow Mobile Request - Knowledge Management Screens and Applet Launcher plugin \(com.glideapp.knowledge.mobile\_requestor\) activates the Information applet. The Information applet is activated by default for both new and upgrade customers.
 
 -   **[View the most popular or recently viewed articles in the Now Mobile Information applet](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/access-articles-now-mobile.md)**  
 The Information applet on the Now Mobile app enables you to access knowledge articles from a mobile device.
 -   **[Browse articles in the Now Mobile Information applet](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/browse-articles-now-mobile.md)**  
 You can browse articles within a category in the Now Mobile Information applet to see articles related to a particular subject or grouping.
 -   **[Search for an article in the Now Mobile Information applet](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/search-article-now-mobile.md)**  
-You can [[search-article-now-mobile|search for an article in the Now Mobile Information applet]].
+You can search for an article in the Now Mobile Information applet.
 -   **[View an article in the Now Mobile Information applet](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/view-article-now-mobile.md)**  
 You can view the author, published date, number of views, and the overall rating details of the article in the Now Mobile Information applet. In addition, you can respond to and evaluate articles and view related items and related articles.
 -   **[Provide feedback for a knowledge article in the Now Mobile Information applet](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/respond-evaluate-articles.md)**  
@@ -56,7 +56,3 @@ You can contribute to feedback on knowledge articles by rating an article, marki
 
 [Provide feedback for a knowledge article in the Now Mobile Information applet](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/respond-evaluate-articles.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]
-- [[search-article-now-mobile|Search for an article in the Now Mobile Information applet]]

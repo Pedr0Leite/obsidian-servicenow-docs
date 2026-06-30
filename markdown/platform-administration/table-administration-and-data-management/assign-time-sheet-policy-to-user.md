@@ -26,7 +26,7 @@ You can assign only one time sheet policy to a user.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[time-sheets|Time Sheets]]** &gt; **Administration** &gt; **[[time-sheet-policies|Time Sheet Policies]]**.
+1.  Navigate to **All** &gt; **Time Sheets** &gt; **Administration** &gt; **Time Sheet Policies**.
 
 2.  Open the time sheet policy record.
 
@@ -43,7 +43,3 @@ The selected users appear on the **Users** related list. The time sheet policy i
 
 **Parent Topic:**[Time sheet policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/time-sheet-policies.md)
 
-## Related
-
-- [[time-sheets|Time Sheets]]
-- [[time-sheet-policies|Time sheet policies]]

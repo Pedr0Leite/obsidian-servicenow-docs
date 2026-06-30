@@ -19,7 +19,7 @@ The Patient \[sn\_hcls\_patient\] table stores the details of a patient in your 
 ## Key features
 
 -   Extends the Consumer profile \[sn\_csm\_consumer\_profile\] table.
--   Stores details of a patient, the central object in the [[hcls-serv-mgmt-core|Healthcare and Life Sciences data model]].
+-   Stores details of a patient, the central object in the Healthcare and Life Sciences data model.
 -   Stores basic patient information including first name, last name, date of birth, gender, primary and secondary emails, home, work and mobile phones.
 -   Includes the consumer attribute associated with the patient that is a reference to the Consumer \[csm\_consumer\] table. A Consumer record is automatically created when a patient is created in the Patient \[sn\_hcls\_patient\] table.
 
@@ -438,6 +438,3 @@ Work phone number of the patient.
 </td></tr></tbody>
 </table>**Parent Topic:**[Healthcare and Life Sciences data model tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-healthcare-data-tables.md)
 
-## Related
-
-- [[hcls-serv-mgmt-core|Healthcare and Life Sciences data model]]

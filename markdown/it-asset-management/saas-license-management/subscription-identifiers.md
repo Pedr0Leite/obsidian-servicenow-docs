@@ -14,7 +14,7 @@ breadcrumb: [SaaS License Management, Software Asset Management, IT Asset Manage
 
 # Subscription identifiers for SaaS and SSO applications
 
-Use the [[sam-subscription-management|SaaS License Management]] application to view, manage, and resolve subscription identifiers for your SaaS and SSO applications.
+Use the SaaS License Management application to view, manage, and resolve subscription identifiers for your SaaS and SSO applications.
 
 Subscription identifiers uniquely identify your SaaS and SSO applications. Each subscription identifier is associated with a discovery map and software model that help to normalize the software that is installed in your environment. You can use this information to track your software subscriptions and understand your license positions.
 
@@ -67,11 +67,11 @@ Role required: sam\_integrator or admin
 
 ### About this task
 
-When a SaaS or SSO provider updates an existing subscription identifier, the ServiceNow AI Platform automatically detects and pushes the changes to your ServiceNow instance through twice a week content updates. Changes include the product name, edition, version, platform, and language. Your instance uses this information to update subscription identifiers on existing [[c_CreatingSoftwareModels|software models]], which can help prevent the creation of multiple software models for the same subscription software.
+When a SaaS or SSO provider updates an existing subscription identifier, the ServiceNow AI Platform automatically detects and pushes the changes to your ServiceNow instance through twice a week content updates. Changes include the product name, edition, version, platform, and language. Your instance uses this information to update subscription identifiers on existing software models, which can help prevent the creation of multiple software models for the same subscription software.
 
 Subscription identifiers update either automatically or manually depending on the associated software model type. If a subscription identifier is associated with an auto-generated software model, it updates automatically. If a subscription identifier is associated with a customized software model, you must update it manually using software model suggestions. Software model suggestions identify changes to your existing subscription identifiers. You can use this information to determine whether you should update your customized software models based on the latest subscription identifiers. For example, if a SaaS provider updates the product name for an application, the software model suggestions identify both the current and updated values of the product name. If the changes are correct, you can accept the software model suggestions to update your software model with the latest product name.
 
-**Note:** The navigation mentioned in the following procedure is in the Core UI and is available when the [[sam-workspace|Software Asset Workspace]] isn't installed.
+**Note:** The navigation mentioned in the following procedure is in the Core UI and is available when the Software Asset Workspace isn't installed.
 
 ### Procedure
 
@@ -141,7 +141,7 @@ The ServiceNow AI Platform marks a subscription identifier as unrecognized when 
 
 ### Procedure
 
-1.  Send unrecognized subscription identifiers back to the ServiceNow content team by opting in to the [[c_SAMContentService|Software Asset Management content service]].
+1.  Send unrecognized subscription identifiers back to the ServiceNow content team by opting in to the Software Asset Management content service.
 
     When you opt in to the Software Asset Management content service, verify that the **Unrecognized Subscription Identifier** KPI is enabled. See [Enable sharing information with Software Asset Management content service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_EnableSAMContentService.md) for detailed instructions.
 
@@ -168,9 +168,3 @@ After the subscription identifier associates with the specified software model, 
 
 If you opted to share your unrecognized subscription identifier data with ServiceNow, your ServiceNow instance sends the unrecognized subscription identifier back to the ServiceNow content team. The content team can use this information to further research and improve the normalization process.
 
-## Related
-
-- [[sam-subscription-management|SaaS License Management]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_SAMContentService|Software Asset Management Content Service]]

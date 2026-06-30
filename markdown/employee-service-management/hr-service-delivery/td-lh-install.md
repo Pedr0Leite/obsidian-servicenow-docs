@@ -14,7 +14,7 @@ breadcrumb: [Install and configure, Leader Hub, HR Service Delivery, Employee Se
 
 # Install the Leader Hub application
 
-Install the Leader Hub application to equip your organizational and HR leaders with the necessary tools to cultivate growth, develop talent, and make critical decisions that guide their organization toward long-term prosperity. The [[td-lh-landing|Leader Hub]] app gives leaders access to data about their organization's talent from the [[employee-center-landing-page|Employee Center]].
+Install the Leader Hub application to equip your organizational and HR leaders with the necessary tools to cultivate growth, develop talent, and make critical decisions that guide their organization toward long-term prosperity. The Leader Hub app gives leaders access to data about their organization's talent from the Employee Center.
 
 ## Before you begin
 
@@ -47,7 +47,3 @@ Role required: admin
 
 **Parent Topic:**[Installing and configuring Leader Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/td-lh-install-config.md)
 
-## Related
-
-- [[td-lh-landing|Leader Hub]]
-- [[employee-center-landing-page|Employee Center]]

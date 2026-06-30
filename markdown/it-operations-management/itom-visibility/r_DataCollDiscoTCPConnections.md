@@ -14,7 +14,7 @@ breadcrumb: [Network device discovery, Data collected by ITOM Visibility, ITOM V
 
 # TCP connection discovery
 
-[[r-discovery|Discovery]] identifies and classifies information about TCP connections using the ADM and ADME probes.
+Discovery identifies and classifies information about TCP connections using the ADM and ADME probes.
 
 Discovery populates this data in the TCP Connections \[cmdb\_tcp\] table.
 
@@ -269,7 +269,7 @@ UNIX - ADM netstat
 
 </td><td>
 
-Performs the same functions as the UNIX ADM probe relying on netstat to support continuous TCP-based discovery. [[c_ServiceMappingOverview|Service Mapping]] uses this probe for traffic-based discovery.
+Performs the same functions as the UNIX ADM probe relying on netstat to support continuous TCP-based discovery. Service Mapping uses this probe for traffic-based discovery.
 
 </td><td>
 
@@ -328,7 +328,3 @@ Controls the size of the result, including the payload.**Note:** If this is grea
 
 [Application Dependency Mapping \(ADM\) for Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_ApplicationDependencyMapping.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

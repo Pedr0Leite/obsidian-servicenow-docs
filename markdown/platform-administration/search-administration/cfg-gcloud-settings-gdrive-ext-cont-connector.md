@@ -15,7 +15,7 @@ breadcrumb: [Google Drive external content connector, Configure, External Conten
 
 # Configure Google Drive for external content indexing
 
-Enable the Google Drive and Admin SDK APIs and create a Google Cloud service account to allow the [[google-drive-external-content-connector|Google Drive external content connector]] to crawl eligible shared drives and security principals in your Google Drive source system.
+Enable the Google Drive and Admin SDK APIs and create a Google Cloud service account to allow the Google Drive external content connector to crawl eligible shared drives and security principals in your Google Drive source system.
 
 ## Before you begin
 
@@ -119,6 +119,3 @@ For details on creating and configuring a Google Drive external content connecto
 
 **Parent Topic:**[Google Drive external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/google-drive-external-content-connector.md)
 
-## Related
-
-- [[google-drive-external-content-connector|Google Drive external content connector]]

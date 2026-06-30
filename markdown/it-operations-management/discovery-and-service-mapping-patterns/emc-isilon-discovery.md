@@ -14,9 +14,9 @@ breadcrumb: [Available on-premise discovery patterns, Discovery patterns used by
 
 # Dell EMC Isilon discovery
 
-The ServiceNow [[r-discovery|Discovery]] application uses the Dell EMC Isilon pattern to find components of Dell EMC Isilon. Discovering some of these resources may require updating to the latest version of the Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns application from the ServiceNow Store.
+The ServiceNow Discovery application uses the Dell EMC Isilon pattern to find components of Dell EMC Isilon. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
-For a complete list of devices and applications that [[itom-visibility-landing-page|ITOM Visibility]] can discover, see [Detailed information on products discovered by ITOM Visibility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_SupportedApplications.md).
+For a complete list of devices and applications that ITOM Visibility can discover, see [Detailed information on products discovered by ITOM Visibility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_SupportedApplications.md).
 
 ## Request apps on the Store
 
@@ -115,7 +115,7 @@ Discovery populates the data in the CMDB when running the EMC Isilon pattern.
 
 The graphic illustrates CIs that are part of Isilon discovery.
 
-**Note:** This [[dependency-views-map|Dependency Views map]] was simplified for clarity. Your Isilon deployments can contain many more CIs.
+**Note:** This Dependency Views map was simplified for clarity. Your Isilon deployments can contain many more CIs.
 
 \[Omitted image "Isilon-components.png"\] Alt text: Isilon components
 
@@ -141,9 +141,3 @@ The graphic illustrates CIs that are part of Isilon discovery.
 
 **Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/available-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[itom-visibility-landing-page|ITOM Visibility]]
-- [[dependency-views-map|Dependency Views map]]

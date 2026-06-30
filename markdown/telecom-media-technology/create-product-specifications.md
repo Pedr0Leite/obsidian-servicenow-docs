@@ -228,7 +228,7 @@ You can't change this field.
     |---|-----------|
     |Catalog Hierarchy|[View the complete hierarchy of a product offering and any associated specifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-catalog-hierarchy.md). Use the **Show specification** toggle to view the hierarchy of specifications.|
     |Specification Characteristics|[Associate the characteristics and characteristic options with your specification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-specification-characteristic.md).|
-    |Specification Relationships|[[create-specification-relationships-somt|Create specification relationships, quantity mapping, and decomposition rules for Sales CRM for Telecommunications]]|
+    |Specification Relationships|[Create specification relationships, quantity mapping, and decomposition rules for Sales CRM for Telecommunications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/create-specification-relationships-somt.md)|
     |Product Offerings|Create a product offering from the specification. For details, see [Create product offerings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-create-product-offering.md).|
     |Attribute Mappings|.|
     |Versions|Create another version of the specification.|
@@ -272,7 +272,3 @@ Copy the data in this specification so that you can create a specification from 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[create-specification-relationships-somt|Create specification relationships, quantity mapping, and decomposition rules for Sales CRM for Telecommunications]]

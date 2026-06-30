@@ -14,7 +14,7 @@ breadcrumb: [Employee profile, Setup task management, Configuring Employee Cente
 
 # Manage profile tabs and visibility in Employee Profile
 
-Enable the display of work-related content in the [[emp-slate-employee-profile|employee profile]] to help customize the public profile visibility settings.
+Enable the display of work-related content in the employee profile to help customize the public profile visibility settings.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ You can use the profile tab UI only as follows:
 
 -   When the admin opts in to the employee profile
 -   When the employee meets the employee definition
--   When the employee has a corresponding profile record in the [[employee-profile|employee profile table]]
+-   When the employee has a corresponding profile record in the employee profile table
 
 Role required: sn\_hr\_sp.esc\_admin
 
@@ -37,7 +37,7 @@ Provide employees with a professional landing page and help control the informat
 
 For employees, the tab UI appears only when more than one tab is available for display.
 
-**Note:** For non-employees, the profile information appears as a flat page with the Employee Profile Overview, Employee Profile My Team, Employee Documents List, [[granular-delegation|Granular Delegation]] List, and HRI Contacts widgets.
+**Note:** For non-employees, the profile information appears as a flat page with the Employee Profile Overview, Employee Profile My Team, Employee Documents List, Granular Delegation List, and HRI Contacts widgets.
 
 ## Procedure
 
@@ -63,7 +63,7 @@ For employees, the tab UI appears only when more than one tab is available for d
 
 5.  From the Tab widget mappings related list, select **New** or edit an existing record.
 
-6.  On the [[tab-widget-mapping-form|Tab widget mapping form]], fill in the fields.
+6.  On the Tab widget mapping form, fill in the fields.
 
     For a description of the field values, see [Tab widget mapping form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/tab-widget-mapping-form.md). The Tab widget mapping **sys\_id** is available in the **tabWidgetMappingId** variable of the widget options object.
 
@@ -83,9 +83,3 @@ The admin can use the instance options to configure the visibility of the naviga
 
 [Employee profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/employee-profile-portal.md)
 
-## Related
-
-- [[emp-slate-employee-profile|Employee profile]]
-- [[employee-profile|Employee Profile table]]
-- [[granular-delegation|Granular Delegation]]
-- [[tab-widget-mapping-form|Tab widget mapping form]]

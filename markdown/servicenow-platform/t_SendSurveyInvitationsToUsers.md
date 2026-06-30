@@ -22,9 +22,9 @@ Role required: admin or survey\_admin
 
 Use the **Send Invitations** button to immediately assign survey instances to each survey user that is listed in the survey definition. Use the **Assign Survey** button to assign a survey instance to any one user at a time.
 
-Each of the buttons generates survey instances assigned to the appropriate users. In addition, if the instance is configured to send [[email|email]], the system generates survey notifications. For either button to be available, the survey definition must meet all of the following conditions.
+Each of the buttons generates survey instances assigned to the appropriate users. In addition, if the instance is configured to send email, the system generates survey notifications. For either button to be available, the survey definition must meet all of the following conditions.
 
--   **Active** [[check-box|check box]] is selected.
+-   **Active** check box is selected.
 -   **State** is **Published**.
 -   Survey is associated with at least one question.
 
@@ -32,7 +32,7 @@ Each of the buttons generates survey instances assigned to the appropriate users
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Survey** &gt; **View [[r_SurveyManagementLandingPage|Surveys]]**.
+1.  Navigate to **All** &gt; **Survey** &gt; **View Surveys**.
 
 2.  Select an active, published survey.
 
@@ -58,7 +58,7 @@ Click **Assign Survey** and select one or more users, and then click **OK**.
 </table>    The system creates a survey instance assigned to the user or users, assuming the user is eligible to receive a new survey instance. When you use the **Assign Survey** button, the selected user is not saved as a survey user.
 
 
-**Parent Topic:**[[c_SurveyDistribution|Survey distribution]]
+**Parent Topic:**[Survey distribution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyDistribution.md)
 
 **Related topics**  
 
@@ -79,12 +79,5 @@ Click **Assign Survey** and select one or more users, and then click **OK**.
 
 [Sharing surveys]()
 
-[Configure a survey in the [[c_Collaboration|Connect chat]] support]()
+[Configure a survey in the Connect chat support]()
 
-## Related
-
-- [[c_SurveyDistribution|Survey distribution]]
-- [[email|Email]]
-- [[check-box|Check box]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[c_Collaboration|Connect Chat]]

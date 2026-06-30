@@ -18,11 +18,11 @@ When assets are received and delivered to a stockroom, they’re added to the sy
 
 ## Before you begin
 
-Role required: [[c_Procurement|procurement]]\_admin or procurement\_user
+Role required: procurement\_admin or procurement\_user
 
 ## About this task
 
-When you [[c_ReceiveAssets|receive assets]]:
+When you receive assets:
 
 -   If you haven’t pre-created hardware assets, you can enter asset details and reserve them for users.
 -   You can over receive an order wherein, the received quantity can be higher than the ordered quantity.
@@ -137,13 +137,13 @@ Navigate to **All** &gt; **Procurement** &gt; **Orders** &gt; **Purchase Orders*
         -   **Serial number**
         -   **MAC address**
         -   **Reserved for**
-        If you have activated the Enterprise [[c_AssetManagement|Asset Management]] or OT Asset Management application, then the **MAC address** field is also displayed.
+        If you have activated the Enterprise Asset Management or OT Asset Management application, then the **MAC address** field is also displayed.
 
     6.  In the **Capture asset tags** dialog box, select **Insert a new row**.
 
     7.  Enter the asset details that are required to proceed with receiving the assets.
 
-        If the assets that you are receiving belong to [[c_ModelCategories|model categories]] linked to a CI class with identification rules defined for fields like the Asset tag, Serial number, or MAC address, you should provide details for at least one of these fields. For example, if identification rules are defined for the Serial number and MAC address, you should provide a value for either of these fields to proceed. The Capture asset tags dialog box will display a message indicating the specific field values you should provide.
+        If the assets that you are receiving belong to model categories linked to a CI class with identification rules defined for fields like the Asset tag, Serial number, or MAC address, you should provide details for at least one of these fields. For example, if identification rules are defined for the Serial number and MAC address, you should provide a value for either of these fields to proceed. The Capture asset tags dialog box will display a message indicating the specific field values you should provide.
 
         The identification rules for a CI class are defined in the CMDB Identification and Reconciliation engine \(IRE\). For more details, see [Identification rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_IdentificationRules.md) and [Create a CI identification rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateCIIdentificationRule.md). These rules help to uniquely identify the asset through these required fields and maintain accurate asset records.
 
@@ -177,9 +177,3 @@ Navigate to **All** &gt; **Procurement** &gt; **Orders** &gt; **Purchase Orders*
 
 [Consumable assets]()
 
-## Related
-
-- [[c_Procurement|Procurement]]
-- [[c_ReceiveAssets|Receive assets]]
-- [[c_AssetManagement|Asset Management]]
-- [[c_ModelCategories|Model categories]]

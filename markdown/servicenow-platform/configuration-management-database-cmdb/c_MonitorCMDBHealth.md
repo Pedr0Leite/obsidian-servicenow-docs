@@ -14,7 +14,7 @@ breadcrumb: [CMDB Health, Configuration Management Database \(CMDB\), Configurat
 
 # View CMDB Health Dashboard
 
-The [[c_CMDBHealth|CMDB Health]] Dashboard serves as a central location to view detailed health reports for your CMDB at a glance. Also, it provides functions to remediate issues that CMDB Health detected, to improve CMDB health.
+The CMDB Health Dashboard serves as a central location to view detailed health reports for your CMDB at a glance. Also, it provides functions to remediate issues that CMDB Health detected, to improve CMDB health.
 
 Once you configure CMDB Health and the CMDB Health Dashboard Jobs are enabled, the CMDB Health Dashboard shows meaningful data that is automatically collected and calculated on a recurring schedule. For more information, see [Configuring CMDB Health](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CMDBHealthSetupandConfig.md).
 
@@ -24,7 +24,7 @@ Once you configure CMDB Health and the CMDB Health Dashboard Jobs are enabled, t
 
 Use either of the following ways to access the CMDB Health Dashboard:
 
--   **[[sg-workspace|Service Graph Workspace]]:**
+-   **Service Graph Workspace:**
     1.  Navigate to **Workspaces &gt; Service Graph Workspace**.
     2.  Select the Insights icon in the navigation panel.
     3.  Select **CMDB Health** in the Insights navigation panel.
@@ -37,7 +37,7 @@ Use either of the following ways to access the CMDB Health Dashboard:
 
     -   **Class View**: Default view for the CMDB Health Dashboard, showing health reports for CIs and classes in the CMDB hierarchy.
     -   **Service View**: Health reports for services with details for CIs per service.
-    -   **Health Group View**: Health reports for [[cmdb-groups|CMDB groups]] of type Health with details for CIs per group.
+    -   **Health Group View**: Health reports for CMDB groups of type Health with details for CIs per group.
 
 Role requirement: Using the CMDB Health Dashboard requires the asset, sn\_cmdb\_editor, cmdb\_user, or itil role.
 
@@ -121,8 +121,3 @@ Settings affecting the service view:
 
 [CMDB Health reference]()
 
-## Related
-
-- [[c_CMDBHealth|CMDB Health]]
-- [[sg-workspace|Service Graph Workspace]]
-- [[cmdb-groups|CMDB groups]]

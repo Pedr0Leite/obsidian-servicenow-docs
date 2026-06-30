@@ -26,17 +26,12 @@ This flow is triggered by the **Delete from Email Server\(s\)** and **Search on 
 
 \[Omitted image "email-search-and-delete-flow.png"\] Alt text: Security Operations integration - Email Search and Delete flow
 
-Activities specific to this flow are described here. For more information on other activities, see [[common-wf-activities|Common Security Operations integration flows and orchestration activities]].
+Activities specific to this flow are described here. For more information on other activities, see [Common Security Operations integration flows and orchestration activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/common-wf-activities.md).
 
 The flow process activities include:
 
--   **[[execution-tracking-begins-mail-search-activity|Execution Tracking Begin \(Mail Search\) action]]**  
+-   **[Execution Tracking Begin \(Mail Search\) action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/execution-tracking-begins-mail-search-activity.md)**  
 The Execution Tracking - Begin \(Mail Search\) capability execution action creates an execution tracking record and marks the record state as Started. This action is used by all capability and implementation flows to keep track of their state.
 
-**Parent Topic:**[[email-search-capability|Security Operations Integration- Email Search and Delete capability]]
+**Parent Topic:**[Security Operations Integration- Email Search and Delete capability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/email-search-capability.md)
 
-## Related
-
-- [[common-wf-activities|Common Security Operations integration flows and orchestration activities]]
-- [[execution-tracking-begins-mail-search-activity|Execution Tracking Begin \(Mail Search\) action]]
-- [[email-search-capability|Security Operations Integration- Email Search and Delete capability]]

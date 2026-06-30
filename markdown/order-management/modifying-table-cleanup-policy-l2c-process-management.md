@@ -12,7 +12,7 @@ breadcrumb: [Lead-to-Cash Process Management, Order operations apps, Configure, 
 
 # Modifying data retention and table cleanup policy for Lead-to-Cash Process Management
 
-[[Modify|Modify]] the default data retention and table cleanup policy for [[explore-lead-cash-process-management|Lead-to-Cash Process Management]] to match your organizations requirements.
+Modify the default data retention and table cleanup policy for Lead-to-Cash Process Management to match your organizations requirements.
 
 By default, records are deleted from the Business Process Record \[sn\_bo\_core\_process\_record\] and Sales Process Record \[sn\_l2c\_cockpit\_sales\_process\_record\] tables and child records in the Business Process Task \[sn\_bo\_core\_process\_task\] and Business Process Resource \[sn\_bo\_core\_process\_resource\] tables if they meet either of the following conditions:
 
@@ -30,7 +30,3 @@ To find out how to modify the data retention and table cleanup frequency for Lea
 
 [Autoflush form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/atf-auto-flush.md)
 
-## Related
-
-- [[Modify|Modify]]
-- [[explore-lead-cash-process-management|Lead-to-Cash Process Management]]

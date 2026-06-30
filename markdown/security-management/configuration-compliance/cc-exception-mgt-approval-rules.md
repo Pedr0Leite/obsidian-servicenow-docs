@@ -14,7 +14,7 @@ breadcrumb: [Configure, Configuration Compliance, Unified Security Exposure Mana
 
 # Configure approval rules for Exception Management in Configuration Compliance
 
-Use the flow designer to approve exception requests for exception management, and exception rules. If you are deploying [[vr-config-compliance-landing|Configuration Compliance]] for the first time, the flow designer is enabled by default.
+Use the flow designer to approve exception requests for exception management, and exception rules. If you are deploying Configuration Compliance for the first time, the flow designer is enabled by default.
 
 ## Before you begin
 
@@ -63,6 +63,3 @@ To use the flow designer, create rules using the Approval Rules module. Using th
 
 Based on different use cases, you can define different approval processes for the same test results found on different remediation tasks.
 
-## Related
-
-- [[vr-config-compliance-landing|Configuration Compliance]]

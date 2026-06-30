@@ -15,7 +15,7 @@ breadcrumb: [Invoice processing case form, Reference, Accounts Payable Operation
 
 # Invoice processing case form tabs
 
-Tab descriptions for the [[invoice-processing-case-form|Invoice processing case form]], including invoice details, exceptions, approvals, and related processing information.
+Tab descriptions for the Invoice processing case form, including invoice details, exceptions, approvals, and related processing information.
 
 <table id="table_bv2_qsd_2xb"><thead><tr><th>
 
@@ -51,11 +51,11 @@ Exceptions that are identified on the invoice.
 
 </td></tr><tr><td>
 
-[[purchase-order-lines|Purchase order lines]]
+Purchase order lines
 
 </td><td>
 
-Purchase order lines of the [[purchase-order-table|purchase order]] for which the invoice has been raised.This tab is shown only for [[invoices|invoices]] of type **PO Invoice**.
+Purchase order lines of the purchase order for which the invoice has been raised.This tab is shown only for invoices of type **PO Invoice**.
 
 </td></tr><tr><td>
 
@@ -87,7 +87,7 @@ Related invoices
 
 </td><td>
 
-Related invoices from the same [[supplier|supplier]].
+Related invoices from the same supplier.
 
 </td></tr><tr><td>
 
@@ -108,10 +108,3 @@ The service level agreements that are associated with this case.
 </td></tr></tbody>
 </table>**Parent Topic:**[Invoice processing case form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/invoice-processing-case-form.md)
 
-## Related
-
-- [[invoice-processing-case-form|Invoice processing case form]]
-- [[purchase-order-lines|Purchase order lines]]
-- [[purchase-order-table|Purchase order]]
-- [[invoices|Invoices]]
-- [[supplier|Supplier]]

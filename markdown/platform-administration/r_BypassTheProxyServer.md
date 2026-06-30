@@ -36,16 +36,12 @@ glide.http.proxy\_bypass\_list
 
 Specify the semicolon-separated list of addresses that bypass the proxy server. Use an asterisk as a wildcard character to specify all or part of an address. -   Type: string
 -   Default value: none
--   Location: [[r_SetArchiveRuleProcessingBehavior|System Properties]] `[sys_properties]` table
+-   Location: System Properties `[sys_properties]` table
 
 </td><td>
 
 127.0.0.1;\*.internal.com;localhost
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[c_WebProxy|Web proxy]]
+</table>**Parent Topic:**[Web proxy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_WebProxy.md)
 
-## Related
-
-- [[c_WebProxy|Web proxy]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

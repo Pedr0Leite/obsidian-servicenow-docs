@@ -14,7 +14,7 @@ breadcrumb: [Configuring MID Servers, Configuring MID Server, MID Server, Manage
 
 # Configure a MID Server cluster
 
-Group multiple MID Servers to form clusters, then configure clusters for fail-over protection or load balancing. Load-balancing clusters automatically balance work between each [[mid-server-landing|MID Server]] to improve stability and performance, as well as handle fail-over. Fail-over clusters have a configured order used to determine which MID Server to use next if a failure occurs.
+Group multiple MID Servers to form clusters, then configure clusters for fail-over protection or load balancing. Load-balancing clusters automatically balance work between each MID Server to improve stability and performance, as well as handle fail-over. Fail-over clusters have a configured order used to determine which MID Server to use next if a failure occurs.
 
 ## Before you begin
 
@@ -64,7 +64,7 @@ For performance and reliability reasons, these data sources should not be used w
 
 ### How clusters work
 
-MID Servers in clusters must be able to [[c_Connect|connect]] to the instance and to all the devices with which they are expected to communicate. If all MID Servers in a cluster are down, the discovery is canceled. Make sure all the MID Servers are added to any Access Control List \(ACL\) in use. MID Server clusters are managed by a business rule called MID Server Cluster Management, which checks to see if the MID Server assigned to a job in the ECC Queue belongs to a cluster.
+MID Servers in clusters must be able to connect to the instance and to all the devices with which they are expected to communicate. If all MID Servers in a cluster are down, the discovery is canceled. Make sure all the MID Servers are added to any Access Control List \(ACL\) in use. MID Server clusters are managed by a business rule called MID Server Cluster Management, which checks to see if the MID Server assigned to a job in the ECC Queue belongs to a cluster.
 
 -   **Load balancing**
 
@@ -83,7 +83,7 @@ MID Servers in clusters must be able to [[c_Connect|connect]] to the instance an
 
 ### MID Server cluster event
 
-The following event is triggered when the platform cannot find a MID Server with the appropriate capabilities to replace a MID Server in a fail-over cluster. Use this event to create an [[email|email]] to [[notify-landing-page|notify]] appropriate users that the cluster has failed.
+The following event is triggered when the platform cannot find a MID Server with the appropriate capabilities to replace a MID Server in a fail-over cluster. Use this event to create an email to notify appropriate users that the cluster has failed.
 
 |Event|Table|Description|Business Rule|
 |-----|-----|-----------|-------------|
@@ -105,14 +105,7 @@ The distributed MID Server cluster type is used exclusively in Operational Intel
 
 ### Smart Workload Manager
 
-Using Smart Workload Manager, an application assigns jobs to MID Servers based on true load. The application may used cluster based [[c_MIDServerSelector|MID Server selection]]. In cases where some MID Servers in the cluster slow in processing jobs, the MID Servers which are processing records faster are assigned more jobs.
+Using Smart Workload Manager, an application assigns jobs to MID Servers based on true load. The application may used cluster based MID Server selection. In cases where some MID Servers in the cluster slow in processing jobs, the MID Servers which are processing records faster are assigned more jobs.
 
 The instance is aware of individual MID Servers in the cluster and their work load capacity. Work assignments are dynamically distributed based on the real-time performance and metric data of each MID Server. By considering key factors such as current task queue size, processing speed, and system load, tasks will be assigned more efficiently to prevent overloading any single server and enhance overall system stability. MID Servers with lower workload and higher processing speed receive more tasks.
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[c_Connect|Connect]]
-- [[email|Email]]
-- [[notify-landing-page|Notify]]
-- [[c_MIDServerSelector|MID Server selection]]

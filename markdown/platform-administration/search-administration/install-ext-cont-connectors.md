@@ -15,11 +15,11 @@ breadcrumb: [External Content Connectors, Search administration, Configure core 
 
 # Install External Content Connectors
 
-Install the [[ext-cont-connectors-landing-page|External Content Connectors]] applications from the ServiceNow® Store.
+Install the External Content Connectors applications from the ServiceNow® Store.
 
 ## Before you begin
 
--   Ensure that the application and all of its associated [[servicenow-store|ServiceNow Store]] applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
+-   Ensure that the application and all of its associated ServiceNow Store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
 
 Your ServiceNow AI Platform® instance must be cloud-hosted. The External Content Connectors applications aren't supported on on-premise \(self-hosted\) instances.
 
@@ -27,15 +27,15 @@ Role required: admin
 
 ## About this task
 
-To make content from your external source systems accessible in [[ia-ai-search|AI Search]], you must install the External Content Connectors Application Suite plugin from the ServiceNow Store.
+To make content from your external source systems accessible in AI Search, you must install the External Content Connectors Application Suite plugin from the ServiceNow Store.
 
 When you install this plugin, it automatically installs plugins for the following applications:
 
 -   External Content Connectors
 -   External Content Connectors Admin
 -   All available External Content Connectors connector applications except for the following, which you must install separately if you want them:
-    -   [[servicenow-product-documentation-external-content-connector|ServiceNow product documentation external content connector]]
-    -   [[webcrawler-external-content-connector|Webcrawler external content connector]]
+    -   ServiceNow product documentation external content connector
+    -   Webcrawler external content connector
 
 Your instance needs inbound mTLS support to run external content connector crawls. If inbound mTLS support isn't already activated for your instance, it should be automatically activated after you install the External Content Connectors Application Suite plugin.
 
@@ -67,10 +67,3 @@ Check whether inbound mTLS support is activated for your ServiceNow AI Platform�
 
 **Parent Topic:**[External Content Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/ext-cont-connectors-landing-page.md)
 
-## Related
-
-- [[ext-cont-connectors-landing-page|External Content Connectors]]
-- [[servicenow-store|ServiceNow Store]]
-- [[ia-ai-search|AI Search]]
-- [[servicenow-product-documentation-external-content-connector|ServiceNow product documentation external content connector]]
-- [[webcrawler-external-content-connector|Webcrawler external content connector]]

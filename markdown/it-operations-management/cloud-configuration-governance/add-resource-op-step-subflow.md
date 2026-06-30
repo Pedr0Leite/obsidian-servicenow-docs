@@ -24,7 +24,7 @@ Role required: Cloud user, designer, or admin
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Design** &gt; **Resource Blocks**.
+1.  In the Cloud Admin Portal, navigate to **Design** &gt; **Resource Blocks**.
 
 2.  Set the resource block to **Draft** state by toggling the publish and then select **Operations** &gt; **Steps** &gt; **Add Step**.
 
@@ -71,6 +71,3 @@ Role required: Cloud user, designer, or admin
 
 **Parent Topic:**[Add operation steps to a resource block](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/add-operation-steps.md)
 
-## Related
-
-- [[cloud-admin-portal|Cloud Admin Portal]]

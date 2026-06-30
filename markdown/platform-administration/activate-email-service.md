@@ -12,7 +12,7 @@ breadcrumb: [Activate email administration, Configure, Email Administration, Not
 
 # Activate Email Service
 
-Users with the admin role can activate the [[email-service|Email Service]] plugin \(com.glide.email.service\) to enable the Email API.
+Users with the admin role can activate the Email Service plugin \(com.glide.email.service\) to enable the Email API.
 
 ## Before you begin
 
@@ -30,23 +30,17 @@ Role required: admin
 
     **Note:** When domain separation and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
 
-    You will see a message after installation is completed. For information about the components installed with a plugin, see [[find-components|Find components installed with an application]].
+    You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
 
 ## What to do next
 
-[[create-system-address-filter|Create a system address filter]]
+[Create a system address filter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-system-address-filter.md)
 
-**Parent Topic:**[[activate-email-admin|Activate email administration]]
+**Parent Topic:**[Activate email administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/activate-email-admin.md)
 
 **Related topics**  
 
 
 [List of plugins \(Australia\)]()
 
-## Related
-
-- [[find-components|Find components installed with an application]]
-- [[create-system-address-filter|Create a system address filter]]
-- [[activate-email-admin|Activate email administration]]
-- [[email-service|Email service]]

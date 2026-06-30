@@ -26,7 +26,7 @@ Use the case playbook that provides the activities and tasks required to researc
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -84,6 +84,4 @@ Select **Approve** to approve or **Reject** to reject the request.
 </td></tr></tbody>
 </table>7.  Select **Update**.
 
-## Related
 
-- [[fso-overview|Financial Services]]

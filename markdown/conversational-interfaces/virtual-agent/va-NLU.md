@@ -14,7 +14,7 @@ breadcrumb: [Explore, Virtual Agent, Conversational Interfaces]
 
 # Natural Language Understanding \(NLU\) topic discovery in Virtual Agent
 
-Apply Natural Language Understanding \(NLU\) models that enable [[virtual-agent-landing-page|Virtual Agent]] to process user statements in automated conversations. An NLU model provides information that your virtual agent uses to determine what users want to do and to extract relevant values from their input. With NLU, Virtual Agent can offer a more natural and engaging conversational experience.
+Apply Natural Language Understanding \(NLU\) models that enable Virtual Agent to process user statements in automated conversations. An NLU model provides information that your virtual agent uses to determine what users want to do and to extract relevant values from their input. With NLU, Virtual Agent can offer a more natural and engaging conversational experience.
 
 ## NLU components
 
@@ -64,7 +64,7 @@ Virtual Agent supports models from different services. You can use the following
 
 -   ServiceNow NLU models that you create using NLU Workbench.
 
-    ServiceNow provides pre-built \(read-only\) NLU models and topics for various ServiceNow business applications, such as Customer Service [[management|Management]], HR Service Delivery, and ITSM. You can use the intents defined in these pre-built models and reuse them when you create your own models.
+    ServiceNow provides pre-built \(read-only\) NLU models and topics for various ServiceNow business applications, such as Customer Service Management, HR Service Delivery, and ITSM. You can use the intents defined in these pre-built models and reuse them when you create your own models.
 
 -   If you're using IBM Watson Assistant as your NLU service provider, NLU intents and entities are created in IBM Watson Assistant.
 -   If you're using Google Dialogflow ES as your NLU service provider, NLU intents and entities are defined in the Google Cloud platform.
@@ -137,7 +137,3 @@ ServiceNow NLU model groups contain a primary language and secondary languages. 
 
 As you work on your topics, Virtual Agent Designer provides language-mapping views for previewing and testing topics with their associated language-specific models. For more information, see [Localizing Virtual Agent conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/localize-va-topic.md).
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[management|Management]]

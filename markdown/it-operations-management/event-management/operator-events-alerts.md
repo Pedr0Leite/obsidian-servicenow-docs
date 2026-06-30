@@ -14,7 +14,7 @@ breadcrumb: [Event Management Operator Tutorial, Using Event Management, Event M
 
 # An overview of alerts for Event Management operators
 
-As an [[c_EM|Event Management]] operator, you need to understand how an alert is generated from an event, what to look for in an alert, and how alerts can be grouped together.
+As an Event Management operator, you need to understand how an alert is generated from an event, what to look for in an alert, and how alerts can be grouped together.
 
 This is the first lesson in the Event Management tutorial.
 
@@ -77,7 +77,7 @@ As an Event Management operator, your role is to view alerts and, depending on h
 
 The two most common characteristics of an alert are the priority and the severity.
 
--   The priority of an alert is a score that helps you determine how important the impact is to application services. Multiple factors determine the [[alert-priority|alert priority]] score. Your Event Management administrator can configure the algorithm that the Event Management application uses to calculate priority.
+-   The priority of an alert is a score that helps you determine how important the impact is to application services. Multiple factors determine the alert priority score. Your Event Management administrator can configure the algorithm that the Event Management application uses to calculate priority.
 -   The severity of an alert is an indicator of how serious the underlying issue is. The event monitoring tool in your organization usually sends severity values with the event, which then gets carried over in the alert. These are the default severity types that you will see in this tutorial:
 
 <table id="table_egv_c31_gdb"><thead><tr><th>
@@ -166,7 +166,3 @@ Proceed to the next lesson: [Application services for Event Management operators
 
 **Parent Topic:**[Event Management Operator Tutorial](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-guide-em.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[alert-priority|Alert priority]]

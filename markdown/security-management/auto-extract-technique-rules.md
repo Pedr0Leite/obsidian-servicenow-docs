@@ -14,7 +14,7 @@ breadcrumb: [MITRE-ATT&amp;CK administration, MITRE-ATT&amp;CK framework overvie
 
 Use the base system auto-extraction rules to import the MITRE-ATT&amp;CK information from any existing third-party integrations.
 
-**Parent Topic:**[[mitre-att-ck-administration|MITRE-ATT&amp;CK administration]]
+**Parent Topic:**[MITRE-ATT&amp;CK administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/mitre-att-ck-administration.md)
 
 **Related topics**  
 
@@ -47,7 +47,7 @@ Use the base system auto-extraction rules to import the MITRE-ATT&amp;CK informa
 
 [Define the data source and detection tool mapping]()
 
-[Define the data source and [[data-component|data component]] mapping]()
+[Define the data source and data component mapping]()
 
 [Define the technique detection coverage]()
 
@@ -67,7 +67,7 @@ Use the base system auto-extraction rules to import the MITRE-ATT&amp;CK informa
 
 ## Use threat-lookup auto-extraction rules
 
-Use the [[tisc-threat-lookup|threat lookup]] auto-extraction rules to import the MITRE-ATT&amp;CK information from any existing [[threat-intel-landing-page|Threat Intelligence]] third-party integrations.
+Use the threat lookup auto-extraction rules to import the MITRE-ATT&amp;CK information from any existing Threat Intelligence third-party integrations.
 
 ### Before you begin
 
@@ -78,9 +78,9 @@ Role required:
 
 ### About this task
 
-When any Threat Intelligence integration, such as Sandbox or a TIP, supports the MITRE-ATT&amp;CK framework and if the MITRE-ATT&amp;CK information is parsed at each integration level, then the information is displayed in each threat lookup result record. However, not all [[threat-intelligence-integrations|Threat Intelligence integrations]] parse the MITRE-ATT&amp;CK information. The threat lookup global auto-extraction rule can extract MITRE-ATT&amp;CK information from all Threat Intelligence integrations.
+When any Threat Intelligence integration, such as Sandbox or a TIP, supports the MITRE-ATT&amp;CK framework and if the MITRE-ATT&amp;CK information is parsed at each integration level, then the information is displayed in each threat lookup result record. However, not all Threat Intelligence integrations parse the MITRE-ATT&amp;CK information. The threat lookup global auto-extraction rule can extract MITRE-ATT&amp;CK information from all Threat Intelligence integrations.
 
-You can choose to roll up the MITRE-ATT&amp;CK information automatically from the threat lookup results to a security incident. For automatic rollup of threat lookup results to security incidents, [[configure-mitre-att-ck-properties|enable the system property]]. Alternatively, you can [[associate-mitre-observables|rollup the information manually]] for each individual threat lookup.
+You can choose to roll up the MITRE-ATT&amp;CK information automatically from the threat lookup results to a security incident. For automatic rollup of threat lookup results to security incidents, [enable the system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/configure-mitre-att-ck-properties.md). Alternatively, you can [rollup the information manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/associate-mitre-observables.md) for each individual threat lookup.
 
 The base system Threat Intelligence automatically extracts the MITRE-ATT&amp;CK information from the third-party integrations raw payload to the threat lookup result record, if the Threat Intelligence integration provides you with MITRE-ATT&amp;CK information like the technique or tactic.
 
@@ -190,7 +190,7 @@ Option that you specify to extract tactic related information from the raw paylo
 
 ## Use SIEM auto-extraction rules
 
-Use the SIEM auto-extraction rules to import the MITRE-ATT&amp;CK information from any existing [[security-operations-landing-page|Security Operations]] SIEM third-party integrations.
+Use the SIEM auto-extraction rules to import the MITRE-ATT&amp;CK information from any existing Security Operations SIEM third-party integrations.
 
 ### Before you begin
 
@@ -234,13 +234,4 @@ Enable either the SIEM auto-extraction rule or the alert rule at a time.
 
 4.  Click **Submit**.
 
-## Related
 
-- [[mitre-att-ck-administration|MITRE-ATT&amp;CK administration]]
-- [[configure-mitre-att-ck-properties|Review the MITRE-ATT&amp;CK system properties]]
-- [[associate-mitre-observables|Associate MITRE-ATT&amp;CK information with observables]]
-- [[data-component|Data Component]]
-- [[tisc-threat-lookup|Threat Lookup]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[threat-intelligence-integrations|Threat Intelligence integrations]]
-- [[security-operations-landing-page|Security Operations]]

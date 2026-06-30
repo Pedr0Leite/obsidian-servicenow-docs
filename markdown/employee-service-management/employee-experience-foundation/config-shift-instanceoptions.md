@@ -14,7 +14,7 @@ breadcrumb: [Customize Employee Center Pro Kiosk widgets, Employee Center Pro Ki
 
 # Modify the Upcoming shift widget display
 
-The upcoming shift widget displays the shift information of the [[deskless-kiosk-overview|Employee Center Pro Kiosk]] user. You can configure the instance options based on your display preferences.
+The upcoming shift widget displays the shift information of the Employee Center Pro Kiosk user. You can configure the instance options based on your display preferences.
 
 ## Before you begin
 
@@ -69,6 +69,3 @@ Number of shifts to show. The choices are 7, 14, and 30 days. Default value: 7**
 
 [Configure Employee Center Pro Kiosk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/deskless-kiosk-config.md)
 
-## Related
-
-- [[deskless-kiosk-overview|Employee Center Pro Kiosk]]

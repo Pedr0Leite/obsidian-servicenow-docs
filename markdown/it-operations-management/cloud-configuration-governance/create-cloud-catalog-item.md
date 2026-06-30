@@ -26,7 +26,7 @@ While creating a catalog item, you can associate the catalog item with a templat
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Design** &gt; **Cloud Catalog items**.
+1.  In the Cloud Admin Portal, navigate to **Design** &gt; **Cloud Catalog items**.
 
     All the catalog items that you've created are listed in a card layout view. You can click an inactive catalog item to provision it.
 
@@ -66,7 +66,7 @@ Icon
 
 </td><td>
 
-Image to appear as an icon beside the item name in the catalog. You can upload a 16 x16 pixel image. If no image is uploaded, the default icon appears beside this item. The uploaded image overwrites the default image. The image you upload appears in the service catalog; not in the ServiceNow® [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] application.
+Image to appear as an icon beside the item name in the catalog. You can upload a 16 x16 pixel image. If no image is uploaded, the default icon appears beside this item. The uploaded image overwrites the default image. The image you upload appears in the service catalog; not in the ServiceNow® Cloud Provisioning and Governance application.
 
 </td></tr><tr><td>
 
@@ -74,7 +74,7 @@ Picture
 
 </td><td>
 
-Image for the catalog item. The image that you select is displayed for the catalog item in the [[cloudmgt-cloud-user-portal|Cloud User Portal]] \(after you click **[[cloudmgt-launch-stack|Launch a Stack]]**\).
+Image for the catalog item. The image that you select is displayed for the catalog item in the Cloud User Portal \(after you click **Launch a Stack**\).
 
 </td></tr><tr><td>
 
@@ -169,9 +169,3 @@ Full description of the catalog item. This description appears in the service ca
 
 [Create a catalog item from a Terraform template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/catalog-item-terraform-template.md)
 
-## Related
-
-- [[cloud-admin-portal|Cloud Admin Portal]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[cloudmgt-cloud-user-portal|Cloud User Portal]]
-- [[cloudmgt-launch-stack|Launch a stack]]

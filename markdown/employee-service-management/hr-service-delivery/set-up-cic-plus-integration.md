@@ -54,7 +54,7 @@ Role required: sn\_hr\_integrations.admin
 
 3.  Configure the source credentials to include the login URL of the identity provider service:
 
-    1.  Navigate to **[[scoped-hr-third-party-integrations|HR Integrations]]** &gt; **Sources**.
+    1.  Navigate to **HR Integrations** &gt; **Sources**.
 
     2.  Open the **CIC Plus** record.
 
@@ -64,6 +64,4 @@ Role required: sn\_hr\_integrations.admin
 
         \[Omitted image "cic-plus-source-credentials-idp-url.png"\] Alt text: Provide the login URL of the identity provider service you are using with the CIC Plus integration.
 
-## Related
 
-- [[scoped-hr-third-party-integrations|HR Integrations]]

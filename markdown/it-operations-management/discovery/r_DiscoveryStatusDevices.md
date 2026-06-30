@@ -14,9 +14,9 @@ breadcrumb: [Discovery status, Configuring Discovery, Discovery, ITOM Visibility
 
 # Discovery device history
 
-The **Devices** Related list in the [[c_DiscoveryStatus|Discovery Status]] form provides a summary list of all the devices scanned.
+The **Devices** Related list in the Discovery Status form provides a summary list of all the devices scanned.
 
-During a [[r-discovery|Discovery]], the list tracks current and completed activity and displays an incremental scan counter. When Discovery is finished for a device, the final disposition is displayed in the Completed activity column. Successful discoveries that result in updated or created configuration items \(CIs\) are highlighted in green. When device history or duplicate IP record is created, the classification\_probe is also populated. To view the log entries for errors \(such as connection failure\) on a specific device, select the **Details** link in the Issues column.
+During a Discovery, the list tracks current and completed activity and displays an incremental scan counter. When Discovery is finished for a device, the final disposition is displayed in the Completed activity column. Successful discoveries that result in updated or created configuration items \(CIs\) are highlighted in green. When device history or duplicate IP record is created, the classification\_probe is also populated. To view the log entries for errors \(such as connection failure\) on a specific device, select the **Details** link in the Issues column.
 
 \[Omitted image "discovery\_device\_list.png"\] Alt text: Discovery device list
 
@@ -86,7 +86,3 @@ For Classified devices, Discovery might identify the type of device in the Curre
 
 **Parent Topic:**[Discovery status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoveryStatus.md)
 
-## Related
-
-- [[c_DiscoveryStatus|Discovery status]]
-- [[r-discovery|Discovery]]

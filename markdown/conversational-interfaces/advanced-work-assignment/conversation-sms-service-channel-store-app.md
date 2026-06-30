@@ -14,7 +14,7 @@ breadcrumb: [Explore, Advanced Work Assignment, Manage people and work, Conversa
 
 # Conversational SMS service channel
 
-Using the Conversational SMS service channel app on the ServiceNow Store, workspace agents can provide support for long-running SMS conversations and conversations that use multiple [[awa-service-channels|service channels]].
+Using the Conversational SMS service channel app on the ServiceNow Store, workspace agents can provide support for long-running SMS conversations and conversations that use multiple service channels.
 
 ## Request apps on the Store
 
@@ -22,7 +22,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 ## Overview
 
-Requesters can initiate support conversations through SMS. Since these support conversations can be long-running, workspace agents need the ability to track ongoing conversations while also addressing requesters on other service channels. With the Conversational SMS service channel store app, workspace agents can initiate or continue SMS conversations and also accept SMS [[awa-work-items|work items]] from the Workspace Inbox. Requesters in SMS conversations see a limited subset of system messages. This minimizes the number of system messages in case the conversation is long-running.
+Requesters can initiate support conversations through SMS. Since these support conversations can be long-running, workspace agents need the ability to track ongoing conversations while also addressing requesters on other service channels. With the Conversational SMS service channel store app, workspace agents can initiate or continue SMS conversations and also accept SMS work items from the Workspace Inbox. Requesters in SMS conversations see a limited subset of system messages. This minimizes the number of system messages in case the conversation is long-running.
 
 ## Messaging profiles
 
@@ -60,7 +60,7 @@ New message received from a requester who does not have a phone number match in 
 
 </td><td>
 
--   An interaction record is associated to the guest user \([[virtual-agent-landing-page|Virtual agent]] or live agent can manually verify\)​.
+-   An interaction record is associated to the guest user \(Virtual agent or live agent can manually verify\)​.
 -   A messaging profile record is generated for the phone number but not associated to a user​.
 
 </td></tr><tr><td>
@@ -130,7 +130,7 @@ The Agent Inbox displays new SMS messages and agents can locate currently assign
 
 ## Requester initiated SMS conversations
 
-When a requester initiates a support conversation, a virtual agent or a live agent addresses the conversation. Like other service channels, [[awa-application-landing-page|Advanced Work Assignment]] handles the routing of SMS conversations to live agents. This is how requester-initiated SMS conversations are handled:
+When a requester initiates a support conversation, a virtual agent or a live agent addresses the conversation. Like other service channels, Advanced Work Assignment handles the routing of SMS conversations to live agents. This is how requester-initiated SMS conversations are handled:
 
 <table id="table_mfj_b1k_gmb"><thead><tr><th>
 
@@ -225,9 +225,3 @@ There is an active interaction involving a different contact/consumer/user​
 </td></tr></tbody>
 </table>An active SMS interaction represents an ongoing conversation between a requester’s phone number and a company’s phone number​.
 
-## Related
-
-- [[awa-service-channels|Service channels]]
-- [[awa-work-items|Work items]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[awa-application-landing-page|Advanced Work Assignment]]

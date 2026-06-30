@@ -14,7 +14,7 @@ breadcrumb: [Talent Development Core application reference, Talent Development C
 
 # Talent Activity template reference
 
-[[activity-lxp|Activity]] templates are used by managers and individuals to create activities in a growth plan. Administrators create activity templates.
+Activity templates are used by managers and individuals to create activities in a growth plan. Administrators create activity templates.
 
 <table id="table_uv3_lfj_twb"><thead><tr><th>
 
@@ -107,6 +107,3 @@ Select a criterion for the users that the template is intended for.
 </td></tr></tbody>
 </table>**Parent Topic:**[Talent Development Core application reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-reference.md)
 
-## Related
-
-- [[activity-lxp|Activity]]

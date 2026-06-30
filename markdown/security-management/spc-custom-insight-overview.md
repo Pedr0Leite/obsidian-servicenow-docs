@@ -21,13 +21,13 @@ The criteria used for the assessments of your assets are provided by the policie
 -   Key insights use the policies that are included with the application.
 -   Configured insights can be created using the policies included with the application, your own custom policies, or a combination of both.
 
-On the Home \(landing page\) in the [[spc-landing|Security Posture Control]] workspace, the Key insights section below the Overview displays visual reports that are created and updated by the policies that are included with the application. These insights are also included with the application and display the following information:
+On the Home \(landing page\) in the Security Posture Control workspace, the Key insights section below the Overview displays visual reports that are created and updated by the policies that are included with the application. These insights are also included with the application and display the following information:
 
 -   Endpoint protection agent installed: Total number of assets that have or do not have endpoint protection.
 -   Managed device coverage: Number of managed assets compared to those that are unmanaged.
--   Vulnerability scan coverage: Total number of scanned assets compared to the those that are not scanned for known [[vulnerabilities|vulnerabilities]] by a third-party vulnerability scanner.
+-   Vulnerability scan coverage: Total number of scanned assets compared to the those that are not scanned for known vulnerabilities by a third-party vulnerability scanner.
 -   Assets with critical vulnerabilities: Number of assets out of the total number of assets that have critical vulnerabilities.
--   Vulnerable items by criticality: Total number of vulnerable items broken down by their severity. A known vulnerability that matches an asset in your CMDB results in a vulnerable item. This insight requires you to install the [[vuln-landing-page|Vulnerability Response]] application and at least one scanner integration: Qualys, Rapid7, or the Tenable Vulnerability Integration. All these applications are available on the ServiceNow® Store.
+-   Vulnerable items by criticality: Total number of vulnerable items broken down by their severity. A known vulnerability that matches an asset in your CMDB results in a vulnerable item. This insight requires you to install the Vulnerability Response application and at least one scanner integration: Qualys, Rapid7, or the Tenable Vulnerability Integration. All these applications are available on the ServiceNow® Store.
 -   Top 3 policies by findings: Policies that return the most findings \(matches\) on your assets.
 
 ## Configured insights
@@ -41,7 +41,7 @@ Following types of insights can be configured.
 -   Policy match percentage chart: View the percentage of devices that match a policy in a pie chart. You can choose the total asset pool as either all the assets monitored by SPC or the assets that match the base policy from which the current selected policy is created.
 -   Policy trend chart: View the trends of assets that match various policies.
 
-See [[spc-create-custom-insight|Create and activate a configured insight for Security Posture Control]] for more information about the steps for creating a configured insight.
+See [Create and activate a configured insight for Security Posture Control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-create-custom-insight.md) for more information about the steps for creating a configured insight.
 
 ## Groups
 
@@ -49,9 +49,3 @@ You must create or assign groups to your configured insights when you create new
 
 Insights can be organized into groups. Each group can have 21 widgets or insights.
 
-## Related
-
-- [[spc-create-custom-insight|Create and activate a configured insight for Security Posture Control]]
-- [[spc-landing|Security Posture Control]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[vuln-landing-page|Vulnerability Response]]

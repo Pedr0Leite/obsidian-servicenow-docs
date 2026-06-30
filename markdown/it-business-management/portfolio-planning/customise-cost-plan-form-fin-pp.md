@@ -14,7 +14,7 @@ breadcrumb: [Configure financials for Portfolio Planning, Configure, Portfolio P
 
 # Customise cost plan form
 
-Manage the fields required on the new [[demand-plan-form|cost plan form]] as per your organization needs.
+Manage the fields required on the new cost plan form as per your organization needs.
 
 ## Before you begin
 
@@ -36,6 +36,4 @@ Role required: admin
     -   Remove the existing fields using the Remove field icon.
 6.  Select **Save**.
 
-## Related
 
-- [[demand-plan-form|Cost plan form]]

@@ -38,7 +38,7 @@ This procedure describes how an ITIL agent completes the Incident form. Incident
 
 3.  On the form, fill in the fields.
 
-    Your organization has configured the Incident form to adhere to its [[c_IncidentManagement|incident management]] process. Enter information in the form field is based on the process. The following table describes typical Incident form fields.
+    Your organization has configured the Incident form to adhere to its incident management process. Enter information in the form field is based on the process. The following table describes typical Incident form fields.
 
 <table id="table_wjm_hsv_vy"><thead><tr><th>
 
@@ -309,7 +309,7 @@ The incident is created.
 
 -   When an incident is created from a case, the Customer Service with Service Management plugin \(com.sn\_cs\_sm\) is installed and you have a customer service agent \(sn\_customerservice\_agent\) role, you can view the **Customer Cases** tab in the Related Links section of the Incident form. This tab contains the list of the customer cases associated with the incident record.
 -   When there are one or more interaction records associated with the incident record, you can view the **Interaction** tab in the Related Links section of the Incident form that contains the list of the interaction records.
--   A **Primary device health** link appears on the Related Links section of the Incident form. Select to launch the [[dex-landing|Digital End-User Experience]] application and [[user-health-card|device health page]] for the selected CI in Service Operations Workspace on a separate browser tab. This tab enables agents to view all the available metrics and the device health for the selected CI, which were collected by DEX. You can also access this feature using the **View device health** option on the classic U16 CI record.
+-   A **Primary device health** link appears on the Related Links section of the Incident form. Select to launch the Digital End-User Experience application and device health page for the selected CI in Service Operations Workspace on a separate browser tab. This tab enables agents to view all the available metrics and the device health for the selected CI, which were collected by DEX. You can also access this feature using the **View device health** option on the classic U16 CI record.
 
     **Note:**
 
@@ -328,8 +328,3 @@ The incident is created.
 
 [Managing major incidents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/major-incident-management.md)
 
-## Related
-
-- [[c_IncidentManagement|Incident Management]]
-- [[dex-landing|Digital End-User Experience]]
-- [[user-health-card|Device health page]]

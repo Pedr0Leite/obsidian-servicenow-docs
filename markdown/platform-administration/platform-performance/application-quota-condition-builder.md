@@ -14,7 +14,7 @@ breadcrumb: [Reference, Platform performance, Maintain and monitor, Administer t
 
 # Application quota condition builder
 
-A description of the options available in the condition builder for the [[application-quota-rule-form|Application Quota Rule form]].
+A description of the options available in the condition builder for the Application Quota Rule form.
 
 <table id="table_cgn_hw1_rp"><thead><tr><th>
 
@@ -166,6 +166,3 @@ The user performing the transaction.
 </td></tr></tbody>
 </table>**Parent Topic:**[Platform performance reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/platform-performance-references.md)
 
-## Related
-
-- [[application-quota-rule-form|Application quota rule form]]

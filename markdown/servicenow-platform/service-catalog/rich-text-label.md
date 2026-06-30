@@ -14,9 +14,9 @@ breadcrumb: [Types of service catalog variables, Service catalog variables, Serv
 
 # Rich Text Label
 
-This variable displays a formatted [[label|label]] on a [[catalog-item-form|catalog item form]].
+This variable displays a formatted label on a catalog item form.
 
-In the TinyMCE rich text editor, you can format the label and add images or links. This variable supports the [[html|HTML]] tags.
+In the TinyMCE rich text editor, you can format the label and add images or links. This variable supports the HTML tags.
 
 **Note:**
 
@@ -95,8 +95,3 @@ In the TinyMCE rich text editor, you can format the label and add images or link
 
 [Variable support in various channels]()
 
-## Related
-
-- [[label|Label]]
-- [[catalog-item-form|Catalog Item form]]
-- [[html|HTML]]

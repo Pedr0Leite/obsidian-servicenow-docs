@@ -14,7 +14,7 @@ breadcrumb: [AI Search logging and debugging, Administer, AI Search, Search admi
 
 # Enable session debugging for AI Search
 
-Capture and review detailed [[ia-ai-search|AI Search]] log messages for a user session.
+Capture and review detailed AI Search log messages for a user session.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ After enabled, session debugging remains active for the user session until you d
 
 ## Procedure
 
-1.  To enable debugging, navigate to **All** &gt; **[[sys-diag|System Diagnostics]]** &gt; **Session Debug** &gt; **Debug AI Search**.
+1.  To enable debugging, navigate to **All** &gt; **System Diagnostics** &gt; **Session Debug** &gt; **Debug AI Search**.
 
     A message reports completion of the Debug AI Search session debug script.
 
@@ -49,7 +49,3 @@ After enabled, session debugging remains active for the user session until you d
 
 **Parent Topic:**[AI Search logging and debugging](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/logging-debugging-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[sys-diag|System Diagnostics]]

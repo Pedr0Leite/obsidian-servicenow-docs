@@ -22,7 +22,7 @@ Role required: sn\_cmp.cloud\_governor
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Manage** &gt; **Resource Pools**.
+1.  In the Cloud Admin Portal, navigate to **Manage** &gt; **Resource Pools**.
 
 2.  Click **New**, enter a unique and descriptive **Resource Pool Name**, and then fill in the form.
 
@@ -56,7 +56,7 @@ Lookup Field\[Not necessary if using a script. This field is ignored if you conf
 
 </td><td>
 
-Select the table field that contains the values to display to the user. The display value for the lookup field is not used on the [[cloudmgt-cloud-user-portal|Cloud User Portal]]. Instead, use the **Lookup label field\(s\)**.
+Select the table field that contains the values to display to the user. The display value for the lookup field is not used on the Cloud User Portal. Instead, use the **Lookup label field\(s\)**.
 
 </td></tr><tr><td>
 
@@ -181,7 +181,4 @@ Enter an order number that determines when the value applies, relative to other 
 
     The resource pool filter is created.
 
-## Related
 
-- [[cloud-admin-portal|Cloud Admin Portal]]
-- [[cloudmgt-cloud-user-portal|Cloud User Portal]]

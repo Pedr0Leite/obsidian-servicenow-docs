@@ -28,7 +28,7 @@ Role required: sn\_hr\_sp.esc\_admin, playbook.write
 
 1.  Follow the instructions available in [Create an activity definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/create-activity-definition.md).
 
-2.  On the Workflow Studio, use the existing questionnaire [[activity-lxp|activity]] available from **Add activity** &gt; **Common Activities** &gt; **Questionnaire** for authoring question and answer flow.
+2.  On the Workflow Studio, use the existing questionnaire activity available from **Add activity** &gt; **Common Activities** &gt; **Questionnaire** for authoring question and answer flow.
 
     Here is a sample illustration of the entire flow.
 
@@ -38,7 +38,7 @@ Role required: sn\_hr\_sp.esc\_admin, playbook.write
 
 3.  On the Workflow Studio, use the new GSS-specific activities.
 
-    -   **Add activity** &gt; **[[gss-guided-self-service-overview|Guided Self-Service in Employee Center]]** &gt; **Catalog Item Guidance**.
+    -   **Add activity** &gt; **Guided Self-Service in Employee Center** &gt; **Catalog Item Guidance**.
     -   **Add activity** &gt; **Guided Self-Service in Employee Center** &gt; **Show Knowledge Article Guidance**.
     -   **Add activity** &gt; **Common Activities** &gt; **Instruction Activity**.
     \[Omitted image "gss-add-activity-ec-interactive.png"\] Alt text: Add activity for GSS
@@ -66,7 +66,3 @@ Role required: sn\_hr\_sp.esc\_admin, playbook.write
 
 GSS is configured to guide employees. For more information, see [Use Guided Self-Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/gss-guided-self-service-homepage.md).
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[gss-guided-self-service-overview|Guided Self-Service in Employee Center]]

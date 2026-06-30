@@ -18,7 +18,7 @@ Create a Discovery behavior to determine which probes Shazzam launches and which
 
 ## Before you begin
 
-Role required: [[r-discovery|discovery]]\_admin
+Role required: discovery\_admin
 
 ## Procedure
 
@@ -155,6 +155,3 @@ Enter the actual name of the MID Server \(`mid_server`\) or domain \(`win_domain
 
 [Access an ACL-protected SNMP device]()
 
-## Related
-
-- [[r-discovery|Discovery]]

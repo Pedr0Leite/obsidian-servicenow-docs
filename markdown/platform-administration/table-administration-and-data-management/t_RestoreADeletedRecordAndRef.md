@@ -26,7 +26,7 @@ The instance can track deletions on any table, and references on audited tables,
 
 -   Record deletions are not tracked on tables with the `no_audit_delete=true` [dictionary attribute](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_DictionaryAttributes.md).
 -   Not all tables with a sys prefix track deletions by default. You can [Enable auditing for a system table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_ConSysTablDelAud.md).
--   References are restored only if the [[reference-email-admin|reference]] field is on an audited table and the Restore Deleted Record plugin is activated.
+-   References are restored only if the reference field is on an audited table and the Restore Deleted Record plugin is activated.
 -   References that use an **Image** field type are not restored.
 
 ## Procedure
@@ -79,6 +79,3 @@ When the process completes, a Restore Summary itemizes the changes and provides 
 
 **Parent Topic:**[Roll back and delete recovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/rollback-delete-recovery.md)
 
-## Related
-
-- [[reference-email-admin|Reference]]

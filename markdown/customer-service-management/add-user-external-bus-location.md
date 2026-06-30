@@ -35,7 +35,7 @@ You can add both internal users with the snc\_internal role and external users w
 
 3.  Select the **Register Member** related link to open the Register Member at External Business Location record.
 
-    You can use the record to register new location staff or move existing staff between locations managed by the Location manager, and [[csm-assign-responsibilities|assign responsibilities]] to staff accordingly.
+    You can use the record to register new location staff or move existing staff between locations managed by the Location manager, and assign responsibilities to staff accordingly.
 
 4.  On the form, fill in the fields.
 
@@ -121,6 +121,4 @@ Field used to assign responsibility for the selected business location.-   **Non
 
     A new external staff member record is created for the selected external business location. The admin must assign responsibilities to the staff members. However, if you have selected **None** as a member type, then you must not create a responsibility record.
 
-## Related
 
-- [[csm-assign-responsibilities|Assign responsibilities]]

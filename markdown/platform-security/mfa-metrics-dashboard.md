@@ -12,15 +12,15 @@ breadcrumb: [Monitor instance metrics, Instance Security Center, Platform Securi
 
 # MFA metrics dashboard
 
-The MFA metrics dashboard shows information on your instances [[mfa-landing|multi-factor authentication]] [[sc-configuration|configuration]]. Use the dashboard to ensure your MFA configuration meets your security standards.
+The MFA metrics dashboard shows information on your instances multi-factor authentication configuration. Use the dashboard to ensure your MFA configuration meets your security standards.
 
 ## Required ServiceNow AI Platform roles
 
-security\_dashboard\_user or admin, needed to view the [[pci-comp-score-dashboard|PCI compliance score dashboard]].
+security\_dashboard\_user or admin, needed to view the PCI compliance score dashboard.
 
 ## Access the MFA metrics dashboard
 
-To open the dashboard, navigate to **System Security** &gt; **[[instance-security-center|Instance Security Center]]**. From the instance security center, click **[[ca-metrics|Metrics]]** in the header, then select **[[faq-familiar-with-mfa|MFA Metrics]]**.
+To open the dashboard, navigate to **System Security** &gt; **Instance Security Center**. From the instance security center, click **Metrics** in the header, then select **MFA Metrics**.
 
 ## Use cases
 
@@ -33,7 +33,7 @@ For examples of how different people in your organization would use this dashboa
 
 ## Indicators
 
--   **[[users|Users]] Enrolled for MFA**
+-   **Users Enrolled for MFA**
 
     Displays the total number of users on the instance enrolled in MFA . Click to open the Analytics hub for more detail.
 
@@ -93,15 +93,5 @@ MFA User Trend
  
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[monitoring-user-email-antivirus-metrics|Monitor instance metrics]]
+</table>**Parent Topic:**[Monitor instance metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/monitoring-user-email-antivirus-metrics.md)
 
-## Related
-
-- [[monitoring-user-email-antivirus-metrics|Monitor instance metrics]]
-- [[mfa-landing|Multi-factor authentication]]
-- [[sc-configuration|Configuration]]
-- [[pci-comp-score-dashboard|PCI compliance score dashboard]]
-- [[instance-security-center|Instance Security Center]]
-- [[ca-metrics|Metrics]]
-- [[faq-familiar-with-mfa|MFA metrics]]
-- [[users|Users]]

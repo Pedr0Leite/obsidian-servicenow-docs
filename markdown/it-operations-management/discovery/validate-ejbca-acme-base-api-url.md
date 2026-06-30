@@ -18,7 +18,7 @@ Validate that your base API URL for EJBCA ACME has been updated to your organiza
 
 ## Before you begin
 
-Role required: [[r-discovery|discovery]]\_admin, Public Key infrastructure \(PKI\) admin, admin
+Role required: discovery\_admin, Public Key infrastructure \(PKI\) admin, admin
 
 ## Procedure
 
@@ -41,6 +41,3 @@ Review the URL and confirm that it's not the standard default settings.
 
 To connect with EJBCA, you must change the default URL to your specific environment \(env\) URL. If you still see the default setting, reconfigure your base API URL. For more information, see [Configure your base API URL for EJBCA ACME](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/configure-base-api-url-for-ejbca-acme.md).
 
-## Related
-
-- [[r-discovery|Discovery]]

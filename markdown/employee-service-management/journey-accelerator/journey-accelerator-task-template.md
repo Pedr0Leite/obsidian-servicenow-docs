@@ -30,7 +30,7 @@ Description
 
 </td><td>
 
-Descriptive name for the [[activity-lxp|activity]] that is associated with the task.
+Descriptive name for the activity that is associated with the task.
 
 </td></tr><tr><td>
 
@@ -38,7 +38,7 @@ Descriptive name for the [[activity-lxp|activity]] that is associated with the t
 
 </td><td>
 
-Table that is used to track tasks and fields. Select the [[journey-accelerator-1|Journey Accelerator]] Task \[sn\_ja\_task\] table to enable access to the template fields.
+Table that is used to track tasks and fields. Select the Journey Accelerator Task \[sn\_ja\_task\] table to enable access to the template fields.
 
 </td></tr><tr><td>
 
@@ -140,7 +140,3 @@ For example: If the `Relative Due Date Trigger = Start On`, `Date Offset type = 
 </td></tr></tbody>
 </table>**Parent Topic:**[Journey Accelerator reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-accelerator/ja-reference.md)
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[journey-accelerator-1|Journey Accelerator]]

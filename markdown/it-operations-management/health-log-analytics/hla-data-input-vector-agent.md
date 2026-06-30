@@ -15,7 +15,7 @@ breadcrumb: [Manual data input configuration, Set up data inputs manually, Set u
 
 # Configure a Vector Agent data input in Health Log Analytics manually
 
-Set up a Vector Agent data input to enable [[hla-landing-page|Health Log Analytics]] to process log messages that are streaming into your ServiceNow instance via a Vector Agent.
+Set up a Vector Agent data input to enable Health Log Analytics to process log messages that are streaming into your ServiceNow instance via a Vector Agent.
 
 ## Before you begin
 
@@ -82,6 +82,3 @@ Health Log Analytics adds the data input record to the **Data Inputs** table. Th
 
 **Parent Topic:**[Configuring data inputs for Health Log Analytics manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-inputs-configuring.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

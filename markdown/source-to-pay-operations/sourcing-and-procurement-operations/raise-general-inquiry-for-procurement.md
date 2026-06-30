@@ -73,10 +73,7 @@ Describe your query. Based on your input here, related search results are displa
 
 ## What to do next
 
-A procurement case of type Inquiry is created under **Procurement Cases** in [[purch-order-mgmt-ws|Source-to-Pay Workspace]], which is assigned to a fulfiller. The fulfiller can then help you with your inquiry.
+A procurement case of type Inquiry is created under **Procurement Cases** in Source-to-Pay Workspace, which is assigned to a fulfiller. The fulfiller can then help you with your inquiry.
 
 **Parent Topic:**[Sourcing and Procurement Operations integration with Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/employee-center-integration-psm.md)
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

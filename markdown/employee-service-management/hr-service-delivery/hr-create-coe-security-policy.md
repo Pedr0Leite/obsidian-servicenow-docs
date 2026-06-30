@@ -14,7 +14,7 @@ breadcrumb: [Configuring Employee Relations, Employee Relations, Case and Knowle
 
 # Create a COE security policy
 
-Use **COE Security Configuration** to define group restrictions for a COE and for all or specific [[hr-service-administration|HR services]] under it.
+Use **COE Security Configuration** to define group restrictions for a COE and for all or specific HR services under it.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ COE security policies are a way to easily restrict access to different COEs via 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **COE Security Configuration**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **COE Security Configuration**.
 
 2.  Click **New**.
 
@@ -139,7 +139,4 @@ Condition statement that filters an HR case.If the HR case matches the condition
 
 6.  Click **Update**.
 
-## Related
 
-- [[hr-service-administration|HR services]]
-- [[c_AdministerHRServiceManagement|HR Administration]]

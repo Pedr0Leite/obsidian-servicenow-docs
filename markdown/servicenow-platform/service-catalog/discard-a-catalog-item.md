@@ -14,7 +14,7 @@ breadcrumb: [Edit a catalog item in Catalog Builder, Creating or editing catalog
 
 # Discard a catalog item
 
-Discard a catalog item that’s in the Draft state in [[catalog-builder|Catalog Builder]].
+Discard a catalog item that’s in the Draft state in Catalog Builder.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ If you no longer want a draft item, you can discard it in Catalog Builder. When 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[service-catalog|Service Catalog]]** &gt; **Catalog Builder**.
+1.  Navigate to **All** &gt; **Service Catalog** &gt; **Catalog Builder**.
 
 2.  Select the **Catalog items** tab.
 
@@ -41,7 +41,3 @@ If you no longer want a draft item, you can discard it in Catalog Builder. When 
 
 **Parent Topic:**[Edit a catalog item in Catalog Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/edit-cat-item-cat-builder.md)
 
-## Related
-
-- [[catalog-builder|Catalog Builder]]
-- [[service-catalog|Service Catalog]]

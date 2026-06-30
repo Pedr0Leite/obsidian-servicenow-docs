@@ -14,16 +14,11 @@ breadcrumb: [Deleted hardening settings, Baseline versions, Hardening settings, 
 
 # Deleted hardening settings for baseline version 8.0
 
-Some [[security-hardening-settings|hardening settings]] have been removed with the release of [[sec-center-v2|Security Center]] baseline version 8.0.
+Some hardening settings have been removed with the release of Security Center baseline version 8.0.
 
--   [[certificate-api-auth|Certificate Based Authentication]] Not Enforced
+-   Certificate Based Authentication Not Enforced
 -   Enable Updated Version of Multi SSO Plugin
 -   Set Allowed MIME Child Types
 
 **Parent Topic:**[Deleted hardening settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/hardening-settings-deleted.md)
 
-## Related
-
-- [[security-hardening-settings|Hardening settings]]
-- [[sec-center-v2|Security Center]]
-- [[certificate-api-auth|Certificate based authentication]]

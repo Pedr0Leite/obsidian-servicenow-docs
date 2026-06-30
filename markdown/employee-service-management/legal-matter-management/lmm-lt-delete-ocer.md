@@ -34,7 +34,7 @@ Action
 
 </th></tr></thead><tbody><tr><td id="d529568e60">
 
-**Using [[legal-counsel-center-landing|Legal Counsel Center]] homepage**
+**Using Legal Counsel Center homepage**
 
 </td><td>
 
@@ -118,6 +118,3 @@ Yes
 </td></tr></tbody>
 </table>**Parent Topic:**[Engage with outside counsel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/lmm-eng-outcounsel.md)
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]

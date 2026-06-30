@@ -12,7 +12,7 @@ breadcrumb: [Platform Analytics KPIs and dashboards, Platform Analytics ITSM Das
 
 # Change dashboard
 
-Dashboard providing a view into Change request workflow with metrics around successful and failed Change Request for different Change [[c_Models|models]] and types.
+Dashboard providing a view into Change request workflow with metrics around successful and failed Change Request for different Change models and types.
 
 KPIs for Change.
 
@@ -35,10 +35,5 @@ KPIs for Change.
 |% Successful change without issues \(by model and type\)|Distribution of the change requests that are successfully closed with some issues by change model and change type.|% Successful changes|
 |% Failed changes|Percentage of the change requests that are not successfully completed.|% unsuccessful changes|
 
-**Note:** Access all the [[change-success-score|change success score]] related metrics categorized under the **Change Success Score** tab in the [[change-management-dashboard|Change Management dashboard]].
+**Note:** Access all the change success score related metrics categorized under the **Change Success Score** tab in the Change Management dashboard.
 
-## Related
-
-- [[c_Models|Models]]
-- [[change-success-score|Change success score]]
-- [[change-management-dashboard|change management dashboard]]

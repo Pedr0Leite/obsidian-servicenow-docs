@@ -14,7 +14,7 @@ breadcrumb: [Argo CD, Integrate, DevOps Change Velocity, IT Service Management]
 
 # Onboard Argo CD to DevOps Change Velocity — Classic
 
-Connect your Argo CD instance using the Classic UI in [[devops-landing-page-new|DevOps Change Velocity]].
+Connect your Argo CD instance using the Classic UI in DevOps Change Velocity.
 
 ## Before you begin
 
@@ -82,6 +82,3 @@ Password of your Argo CD instance.
 
 **Parent Topic:**[Argo CD integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/argo-cd-integration-with-devops-change-velocity.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]

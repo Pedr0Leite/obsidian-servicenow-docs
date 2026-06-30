@@ -18,7 +18,7 @@ Prescriptive guidance on enabling Citizen Development and utilizing App Engine S
 
 ## Accelerator Overview
 
-Jumpstart Your App Engine provides [[impact-landing-page|Impact]] customers with an introduction to Citizen Development and how to empower users to develop applications on the ServiceNow platform. It includes an applied demonstration on using App Engine Studio \(AES\) and App Engine Management Center, a guided tour of its features and benefits via a temporary cloned instance, and leading practices on getting started.
+Jumpstart Your App Engine provides Impact customers with an introduction to Citizen Development and how to empower users to develop applications on the ServiceNow platform. It includes an applied demonstration on using App Engine Studio \(AES\) and App Engine Management Center, a guided tour of its features and benefits via a temporary cloned instance, and leading practices on getting started.
 
 ## Package Availability
 
@@ -67,6 +67,3 @@ This Impact Accelerator in its entirety or portions of the Impact Accelerator Ac
 
 ServiceNow is not responsible for implementing App Engine recommendations on Customer’s sub-production or production instances.
 
-## Related
-
-- [[impact-landing-page|Impact]]

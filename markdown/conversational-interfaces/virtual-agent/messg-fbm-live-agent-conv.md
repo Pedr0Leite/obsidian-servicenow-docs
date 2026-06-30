@@ -15,7 +15,7 @@ breadcrumb: [Use, Conversational Integration with Facebook Messenger, Integrate 
 
 # Transfer Facebook Messenger chat conversations to live agents
 
-Configure the [[awa-application-landing-page|Advanced Work Assignment]] application to transfer a Facebook Messenger chat conversation initiated by a requester \(customer contact or consumer\) to a live agent.
+Configure the Advanced Work Assignment application to transfer a Facebook Messenger chat conversation initiated by a requester \(customer contact or consumer\) to a live agent.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Your administrator must have completed the following tasks:
 
 -   [Activate Advanced Work Assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-activate.md).
 -   [Install Conversational Integration with Facebook Messenger](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-fbm-install.md).
--   Set the application scope to [[messg-fbm|Conversational Integration with Facebook Messenger]] using the application picker. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
+-   Set the application scope to Conversational Integration with Facebook Messenger using the application picker. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
 -   Activate the Conversational Messaging plugin \(com.glide.messaging.awa\). For more information, see [Activate Conversational Messaging](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/activate-messaging-actions.md).
 
 Role required: admin
@@ -34,7 +34,7 @@ Role required: admin
 
 1.  Enable the Facebook Messenger service channel.
 
-    1.  Navigate to **Advanced Work Assignment** &gt; **Settings** &gt; **[[awa-service-channels|Service Channels]]**.
+    1.  Navigate to **Advanced Work Assignment** &gt; **Settings** &gt; **Service Channels**.
 
     2.  In the **Name** column of the Queues list, search for `Line`.
 
@@ -46,7 +46,7 @@ Role required: admin
 
     For more information, see [Service channels](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-service-channels.md).
 
-2.  Automatically route [[awa-work-items|work items]] for Facebook Messenger chat conversations to agents by configuring the queue for the Facebook Messenger service channel.
+2.  Automatically route work items for Facebook Messenger chat conversations to agents by configuring the queue for the Facebook Messenger service channel.
 
     1.  Navigate to **Advanced Work Assignment** &gt; **Settings** &gt; **Queues**.
 
@@ -60,7 +60,7 @@ Role required: admin
 
     **Note:** By default, the **Facebook Messenger - Most Capacity** assignment rule is associated with the Agent Facebook Messenger Queue. You can create another assignment rule and associate it with the queue. For more information, see [Configure agent assignment rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-create-assignment-rule.md) and [Work item queues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-queues.md).
 
-3.  [[awa-configure-agent-presence|Configure agent presence states]] for the Facebook Messenger service channel.
+3.  Configure agent presence states for the Facebook Messenger service channel.
 
     1.  Navigate to **Advanced Work Assignment** &gt; **Settings** &gt; **Presence States**.
 
@@ -79,10 +79,3 @@ Role required: admin
 
 **Parent Topic:**[Using Conversational Integration with Facebook Messenger](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-fbm-using.md)
 
-## Related
-
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[messg-fbm|Conversational Integration with Facebook Messenger]]
-- [[awa-service-channels|Service channels]]
-- [[awa-work-items|Work items]]
-- [[awa-configure-agent-presence|Configure agent presence states]]

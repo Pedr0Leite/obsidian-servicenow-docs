@@ -46,7 +46,7 @@ Role required: it\_project\_manager
 
 [Create a project cost plan]()
 
-[Recalculating costs of all [[c_ResourcePlans|resource plans]] in a project]()
+[Recalculating costs of all resource plans in a project]()
 
 [Create an expense line]()
 
@@ -78,6 +78,3 @@ Role required: it\_project\_manager
 
 [Migrate financial baselines of projects to Next Experience]()
 
-## Related
-
-- [[c_ResourcePlans|Resource plans]]

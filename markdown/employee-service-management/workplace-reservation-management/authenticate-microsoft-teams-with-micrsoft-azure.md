@@ -14,7 +14,7 @@ breadcrumb: [Connect Workplace Reservation Management with Microsoft Teams, Conf
 
 # Authenticate Microsoft Teams with Microsoft Azure
 
-Set up authentication with Microsoft Azure to connect Microsoft Teams with [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] application.
+Set up authentication with Microsoft Azure to connect Microsoft Teams with Workplace Reservation Management application.
 
 ## Before you begin
 
@@ -192,6 +192,3 @@ The Microsoft Teams is set up with Microsoft Azure.
 
 **Next topic:**[Setup OAuth connectivity with Microsoft Teams Connections spoke for virtual meeting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/setup-connectivity-between-servicenow-and-microsoft-teams-connection-spoke.md)
 
-## Related
-
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]

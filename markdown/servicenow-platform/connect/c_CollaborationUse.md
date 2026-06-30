@@ -14,10 +14,7 @@ breadcrumb: [Connect Chat, Connect, ServiceNow AI Platform Additional Capabiliti
 
 # Connect Chat use
 
-All users have access to [[c_Collaboration|Connect Chat]], a convenient way to stay updated on all the people and documents you work with in a familiar chat interface.
+All users have access to Connect Chat, a convenient way to stay updated on all the people and documents you work with in a familiar chat interface.
 
 You can start using Connect Chat right away with virtually no setup. Connect Chat supports a few different types of conversations so you can use it as a social tool or a quick way to follow specific records.
 
-## Related
-
-- [[c_Collaboration|Connect Chat]]

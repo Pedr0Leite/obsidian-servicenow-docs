@@ -15,15 +15,15 @@ breadcrumb: [Change Management, IT Service Management]
 
 # Agentic AI in change management
 
-Use the ITSM [[c_ITILChangeManagement|change management]] agentic workflows to manage and complete tasks autonomously.
+Use the ITSM change management agentic workflows to manage and complete tasks autonomously.
 
 ## Agentic workflows for the change management application
 
 **Important:**
 
-To access the change request agentic workflows, make sure that you install the following [[dex-workspace-application-tab|applications]]:
+To access the change request agentic workflows, make sure that you install the following applications:
 
-1.  [[now-assist-itsm|Now Assist for IT Service Management \(ITSM\)]] \(sn\_itsm\_gen\_ai\) plugin.
+1.  Now Assist for IT Service Management \(ITSM\) \(sn\_itsm\_gen\_ai\) plugin.
 2.  Change Management application. For more information, see [Configuring Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/configure-change-management.md).
 
 **Note:**
@@ -33,7 +33,7 @@ To access the change request agentic workflows, make sure that you install the f
 
 |Agentic workflow name|Description|Available AI agents|
 |---------------------|-----------|-------------------|
-|[Assess conflicts for a change request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/now-assist-itsm-aiagents-assess-conflicts-workflow.md)|Runs [[c_ConflictDetection|conflict detection]] for change requests and assesses conflicts, identifies affected CIs and impacted services|Change conflict assessor AI agent|
+|[Assess conflicts for a change request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/now-assist-itsm-aiagents-assess-conflicts-workflow.md)|Runs conflict detection for change requests and assesses conflicts, identifies affected CIs and impacted services|Change conflict assessor AI agent|
 |[Assess quality of a Change Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/now-assist-itsm-aiagents-assess-quality-change-request-workflow.md)|Assesses information quality for new change requests by analyzing closed change requests with matching descriptions.|Change quality assessor AI agent|
 |[Explain SLA](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/now-assist-itsm-aiagents-explain-sla-workflow.md)|Provides insight into priority SLAs, task assignment, and frequency of pause and resume events of SLA for an incident, problem, case, or change request.|Explain SLA|
 |[Schedule a change](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/now-assist-itsm-aiagents-schedule-change-agentic-workflow.md)|Schedule change requests by identifying the available schedule slots.|Schedule Change Request AI agent|
@@ -44,9 +44,3 @@ To access the change request agentic workflows, make sure that you install the f
 
 **Parent Topic:**[Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/c_ITILChangeManagement.md)
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]
-- [[dex-workspace-application-tab|Applications]]
-- [[now-assist-itsm|Now Assist for IT Service Management \(ITSM\)]]
-- [[c_ConflictDetection|Conflict detection]]

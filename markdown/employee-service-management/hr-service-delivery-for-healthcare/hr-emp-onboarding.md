@@ -14,7 +14,7 @@ breadcrumb: [HR Service Delivery for Healthcare reference, HR Service Delivery f
 
 # Healthcare Employee Onboarding form
 
-A [[hiring-tab-concept|hiring]] agent or a manager places an onboarding request for a healthcare professional via the Healthcare Employee onboarding form in [[employee-center-landing-page|Employee Center]].
+A hiring agent or a manager places an onboarding request for a healthcare professional via the Healthcare Employee onboarding form in Employee Center.
 
 |Field|Description|
 |-----|-----------|
@@ -39,7 +39,7 @@ A [[hiring-tab-concept|hiring]] agent or a manager places an onboarding request 
 **Related topics**  
 
 
-[Installed with [[hr-service-delivery|HR Service Delivery]] for Healthcare]()
+[Installed with HR Service Delivery for Healthcare]()
 
 [Healthcare professional profile form]()
 
@@ -47,7 +47,7 @@ A [[hiring-tab-concept|hiring]] agent or a manager places an onboarding request 
 
 [Professional liability Insurances form]()
 
-[Professional [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] form]()
+[Professional reference form]()
 
 [Professional speciality form]()
 
@@ -65,9 +65,3 @@ A [[hiring-tab-concept|hiring]] agent or a manager places an onboarding request 
 
 [Payers Enrollment form]()
 
-## Related
-
-- [[hiring-tab-concept|Hiring]]
-- [[employee-center-landing-page|Employee Center]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

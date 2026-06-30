@@ -14,7 +14,7 @@ breadcrumb: [Create multi-store cases, Retail Task Management, Retail]
 
 # Retail multi-store case states
 
-The following table lists all possible states for the [[rahi-retail-operations-overview|Retail]] multi-store parent case.
+The following table lists all possible states for the Retail multi-store parent case.
 
 ## Retail multi-store parent case states
 
@@ -121,7 +121,3 @@ Indicates that the child case is closed.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[rahi-retail-operations-overview|Retail]]

@@ -14,11 +14,11 @@ breadcrumb: [Workspace, Source-to-Pay Operations, Finance and Supply Chain]
 
 # Use Source-to-Pay Workspace
 
-[[purch-order-mgmt-ws|Source-to-Pay Workspace]] provides a unified environment where procurement specialists, sourcing managers, [[supplier|supplier]] managers, supplier contacts, and accounts payable specialists manage requests, cases, [[negotiations|negotiations]], supplier onboarding, supplier risk, and invoice processing.
+Source-to-Pay Workspace provides a unified environment where procurement specialists, sourcing managers, supplier managers, supplier contacts, and accounts payable specialists manage requests, cases, negotiations, supplier onboarding, supplier risk, and invoice processing.
 
--   For more information on using [[psm-overview|Sourcing and Procurement Operations]], see [Use Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/using-spo.md).
--   For more information on using [[supp-mgmt-landing-page|Supplier Lifecycle Operations]], see [Use Supplier Lifecycle Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/use-supp-mgmt.md).
--   For more information on [[use-supp-mgr-wsp|using Source-to-Pay Workspace]], see [Use Accounts Payable Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/use-acc-pay-mgmt.md).
+-   For more information on using Sourcing and Procurement Operations, see [Use Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/using-spo.md).
+-   For more information on using Supplier Lifecycle Operations, see [Use Supplier Lifecycle Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/use-supp-mgmt.md).
+-   For more information on using Source-to-Pay Workspace, see [Use Accounts Payable Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/use-acc-pay-mgmt.md).
 
 -   **[Create a known error article from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-workspace/create-kb-article-s2p.md)**  
 Create known error articles to document the root cause and the workaround of a problem to help with resolving incidents.
@@ -36,11 +36,3 @@ Create knowledge base articles within a knowledge base to share information acro
 
 [Source-to-Pay Workspace Reference]()
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supplier|Supplier]]
-- [[negotiations|Negotiations]]
-- [[psm-overview|Sourcing and Procurement Operations]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[use-supp-mgr-wsp|Using Source-to-Pay Workspace]]

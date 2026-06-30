@@ -15,7 +15,7 @@ breadcrumb: [Discovery for containerized resources, Discovery, ITOM Visibility, 
 
 # Kubernetes Visibility Agent
 
-Kubernetes Visibility Agent detects changes on resources in a Kubernetes cluster. It performs continuous [[r-discovery|discovery]], reports any changes back to your instance, and updates the Configuration Management Database \(CMDB\) with the latest data.
+Kubernetes Visibility Agent detects changes on resources in a Kubernetes cluster. It performs continuous discovery, reports any changes back to your instance, and updates the Configuration Management Database \(CMDB\) with the latest data.
 
 ## Get started
 
@@ -29,7 +29,7 @@ Kubernetes Visibility Agent detects changes on resources in a Kubernetes cluster
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Reference information, such as collected data, the [[cnov-support-matrix|Kubernetes Visibility Agent support matrix]], and advanced configuration options.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cnov-reference.md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Reference information, such as collected data, the Kubernetes Visibility Agent support matrix, and advanced configuration options.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cnov-reference.md)
 
 </td></tr></tbody>
 </table>## Helpful resources
@@ -51,7 +51,3 @@ Reference information about Kubernetes Visibility Agent.
 
 **Parent Topic:**[Discovery for containerized resources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/container-discovery.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[cnov-support-matrix|Kubernetes Visibility Agent support matrix]]

@@ -14,16 +14,16 @@ breadcrumb: [Track your SAFe team work from the list view, SAFe Board — Team l
 
 # Create a test for a SAFe story
 
-[[t_CreateATest|Create a test]], add steps to the test, and create and maintain different versions of the test. A test is a collection of conditions or steps used to determine whether a SAFe story is working correctly. A test can also include an expected result that determines whether the test passes or fails.
+Create a test, add steps to the test, and create and maintain different versions of the test. A test is a collection of conditions or steps used to determine whether a SAFe story is working correctly. A test can also include an expected result that determines whether the test passes or fails.
 
 ## Before you begin
 
 -   Role required: safe\_scrum\_user or safe\_admin
--   You can create a test from the List view only when the [[test-management2-landing-page|Test Management 2.0]] plugin is installed.
+-   You can create a test from the List view only when the Test Management 2.0 plugin is installed.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[SAFeoverview|Scaled Agile Framework \(SAFe\)]]** &gt; **SAFe Board**.
+1.  Navigate to **All** &gt; **Scaled Agile Framework \(SAFe\)** &gt; **SAFe Board**.
 
 2.  From the list at the top left corner, select the level as **Team**.
 
@@ -31,7 +31,7 @@ breadcrumb: [Track your SAFe team work from the list view, SAFe Board — Team l
 
 4.  Click the **Sprint Tracking** tab, and select the **List** view.
 
-5.  From the **Show** list at the top right corner, select **[[c_Tests|Tests]]**.
+5.  From the **Show** list at the top right corner, select **Tests**.
 
 6.  Click **Add Test**.
 
@@ -172,9 +172,3 @@ View information in the following related lists:
 |Test Results|Displays the run results of each test version.|
 |Test Sets|Displays related tests in a test set.|
 
-## Related
-
-- [[t_CreateATest|Create a test]]
-- [[test-management2-landing-page|Test Management 2.0]]
-- [[SAFeoverview|Scaled Agile Framework \(SAFe\)]]
-- [[c_Tests|Tests]]

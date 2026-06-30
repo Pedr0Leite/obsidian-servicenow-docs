@@ -14,13 +14,13 @@ breadcrumb: [Explore, AI Search, Search administration, Configure core features,
 
 # Index searchable content from ServiceNow AI Platform tables and external sources
 
-Make alphanumeric content from text and string fields on your records searchable by configuring an indexed source. Each indexed source retrieves data from a table and adds it to the [[ia-ai-search|AI Search]] index.
+Make alphanumeric content from text and string fields on your records searchable by configuring an indexed source. Each indexed source retrieves data from a table and adds it to the AI Search index.
 
 Define an indexed source for each ServiceNow AI Platform table with records that you want to make searchable. Search administrators can configure settings for each indexed source:
 
 -   Enable indexing for child tables of the source table.
 -   Configure indexing of alphanumeric content from source record tags, attachments, translated fields, and referenced fields.
--   Map source table fields to [[index-fields-list-ais|AI Search index fields]] for ease of search.
+-   Map source table fields to AI Search index fields for ease of search.
 
 The base system includes preconfigured indexed sources for Knowledge Base articles, Catalog Items, and user records. You can create your own indexed sources to index records from other ServiceNow AI Platform tables.
 
@@ -32,7 +32,3 @@ By activating the External Content for AI Search plugin \(com.glide.ais.external
 
 **Parent Topic:**[Exploring AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/explore-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[index-fields-list-ais|AI Search index fields]]

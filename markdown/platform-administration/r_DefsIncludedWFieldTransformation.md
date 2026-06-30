@@ -28,7 +28,7 @@ Description
 
 </th><th>
 
-[[r_DirectJDBCProbeParameters|Parameters]]
+Parameters
 
 </th></tr></thead><tbody><tr><td>
 
@@ -245,7 +245,3 @@ No parameters
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[r_DirectJDBCProbeParameters|Parameters]]

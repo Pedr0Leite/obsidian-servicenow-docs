@@ -14,7 +14,7 @@ breadcrumb: [Mobile experience for Health and Safety, Health and Safety, Employe
 
 # Access safety knowledge articles through the Now Mobile app
 
-Access your company's [[health-safety-overview|health and safety]] knowledge base on your mobile device using the ServiceNow [[mobile-employee-experience|Now Mobile app]].
+Access your company's health and safety knowledge base on your mobile device using the ServiceNow Now Mobile app.
 
 ## Before you begin
 
@@ -33,7 +33,3 @@ Role required: sn\_ohs\_im.requestor
 
 **Parent Topic:**[Mobile experience for Health and Safety](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-health-safety-mobile.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[mobile-employee-experience|Now Mobile app]]

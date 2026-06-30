@@ -14,7 +14,7 @@ breadcrumb: [Out Of Box Catalogs using Cloud Services Catalog, Cloud Services Ca
 
 # Microsoft Azure Windows Out Of Box Catalog items
 
-[[csc-home|Cloud Services Catalog]] Windows VM, up to 10 additional disks on Microsoft Azure or with security groups.
+Cloud Services Catalog Windows VM, up to 10 additional disks on Microsoft Azure or with security groups.
 
 This is a fully functional sample catalog item that can be used to request a Windows instance of any instance type from Microsoft Azure.
 
@@ -28,7 +28,7 @@ Features
 
 </th></tr></thead><tbody><tr><td>
 
-Order a Microsoft Windows VM that allows installation of [[acc-landing-page|agent client collector]]. VM sizes other than Standard\_A1\_v2 and Standard\_A2\_v2 require approval. Cloud configuration scan is run for compliance checking.
+Order a Microsoft Windows VM that allows installation of agent client collector. VM sizes other than Standard\_A1\_v2 and Standard\_A2\_v2 require approval. Cloud configuration scan is run for compliance checking.
 
 </td><td>
 
@@ -59,7 +59,3 @@ Tag \(key-value\) is assigned to all deployed resources. Example: VM, network, s
 
 **Parent Topic:**[Out Of Box Catalogs using Cloud Services Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/out-of-the-box-catalog-items.md)
 
-## Related
-
-- [[csc-home|Cloud Services Catalog]]
-- [[acc-landing-page|Agent Client Collector]]

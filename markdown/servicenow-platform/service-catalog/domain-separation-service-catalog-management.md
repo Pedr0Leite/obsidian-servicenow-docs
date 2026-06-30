@@ -14,7 +14,7 @@ breadcrumb: [Service Catalog Reference, Service Catalog, Manage service capabili
 
 # Domain separation and Service Catalog
 
-[[domain-separation-relationship-formatter-editor|Domain separation]] is supported in [[service-catalog|Service Catalog]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported in Service Catalog. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Standard
 
@@ -42,7 +42,7 @@ If Service Catalog has already been domain separated as a custom solution, activ
 
 Service providers supporting multiple customers in a single ServiceNow instance can ensure data privacy across domains using domain separation. Service providers can ensure that items created or published in a specific domain can only be requested by users in that domain without adding additional user criteria to the individual catalog items.
 
-In Service Catalog, catalog items \(catalog items, record producers, content items, and [[c_ServiceCatalogOrderGuides|order guides]]\) are domain-separated as data. Catalogs, categories, and variables are not domain-separated, and belong to the global domain. Also, items that need to be shared across multiple domains must be published in the global domain and restricted by user criteria.
+In Service Catalog, catalog items \(catalog items, record producers, content items, and order guides\) are domain-separated as data. Catalogs, categories, and variables are not domain-separated, and belong to the global domain. Also, items that need to be shared across multiple domains must be published in the global domain and restricted by user criteria.
 
 Domain separation in Service Catalog is applicable to all requester views in the ServiceNow AI Platform, Service Portal, Agent Workspace, mobile application, as well as to all API calls requesting for items.
 
@@ -99,7 +99,7 @@ For example, consider that A is the parent domain and B is its child domain. A c
 
 ## Catalog builder
 
-An item can only be edited in the domain that it has been created. Catalog UI policies and actions added in [[catalog-builder|catalog builder]] are created in the same domain as that of the item.
+An item can only be edited in the domain that it has been created. Catalog UI policies and actions added in catalog builder are created in the same domain as that of the item.
 
 -   **[Request for domain separation in Service Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/activate-domain-sep-catalog.md)**  
 Enable domain separation in Service Catalog by requesting for the activation of the Service Catalog - Domain Separation plugin \(com.glideapp.servicecatalog.domain\_separation\).
@@ -111,9 +111,3 @@ Enable domain separation in Service Catalog by requesting for the activation of 
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[domain-separation-relationship-formatter-editor|Domain separation]]
-- [[service-catalog|Service Catalog]]
-- [[c_ServiceCatalogOrderGuides|Order guides]]
-- [[catalog-builder|Catalog Builder]]

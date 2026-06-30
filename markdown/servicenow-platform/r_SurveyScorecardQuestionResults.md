@@ -12,11 +12,11 @@ breadcrumb: [View a survey scorecard, Survey responses and results, Use surveys,
 
 # Survey scorecard question results
 
-The [[r_QuestionResults|Question Results]] filter displays the result of all questions or an individual question using charts or lists. For the String, [[attachment|Attachment]], Date, Date/time, [[reference|Reference]], and Ranking data types, the results are displayed in the list view. The results of all other data types are displayed in the pie chart view.
+The Question Results filter displays the result of all questions or an individual question using charts or lists. For the String, Attachment, Date, Date/time, Reference, and Ranking data types, the results are displayed in the list view. The results of all other data types are displayed in the pie chart view.
 
 ## Pie chart
 
-The pie chart shows question results for all data types other than those that are displayed in the list view. See [[r_SurveyQuestionDataTypes|Survey question data types]].
+The pie chart shows question results for all data types other than those that are displayed in the list view. See [Survey question data types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_SurveyQuestionDataTypes.md).
 
 -   Checkbox.
 -   Boolean.
@@ -24,7 +24,7 @@ The pie chart shows question results for all data types other than those that ar
 -   Likert Scale.
 -   Number.
 -   Percentage.
--   [[yes-no|Yes/No]].
+-   Yes/No.
 -   Image Scale.
 -   Multiple Selection.
 -   Template. The question result shows the aggregated net promoter score \(NPS\) with promoters, detractors, and passives.
@@ -42,7 +42,7 @@ The pie chart shows question results for all data types other than those that ar
     -   %Passives = Number of passives / Sample size
     -   NPS = %Promoters - %Detractors
 
-**Note:** The **Checkbox** and **Yes/No** data types are combined into the **Boolean** data type in the [[c_SurveyDesigner|survey designer]].
+**Note:** The **Checkbox** and **Yes/No** data types are combined into the **Boolean** data type in the survey designer.
 
 When a user submits a survey, three records \(one for each Timeframe\) will be created/ updated- **Year**, **Quarter**, and **Monthly** in the **asmt\_nps\_result** table. For example, if a user submits a survey on November month of 2023, which falls under Quarter 3. Then three records are generated for the dates.
 
@@ -54,7 +54,7 @@ Now if a second user submits in December month of 2023, which falls under same Q
 
 \[Omitted image "SurveyScorecardQuestionPie.png"\] Alt text: Survey scorecard question results - pie chart
 
-**Parent Topic:**[[t_ViewAScorecard|View a survey scorecard]]
+**Parent Topic:**[View a survey scorecard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAScorecard.md)
 
 **Related topics**  
 
@@ -67,12 +67,3 @@ Now if a second user submits in December month of 2023, which falls under same Q
 
 [Export a survey scorecard as an image]()
 
-## Related
-
-- [[r_SurveyQuestionDataTypes|Survey question data types]]
-- [[t_ViewAScorecard|View a survey scorecard]]
-- [[r_QuestionResults|Question results]]
-- [[attachment|Attachment]]
-- [[reference|Reference]]
-- [[yes-no|Yes/No]]
-- [[c_SurveyDesigner|Survey designer]]

@@ -152,8 +152,5 @@ Details of the metric definition thresholds, such as threshold type, metric defi
 8.  To visually explore the 360° relationship view of the metric definition, select **360° view**.
 
 
-**Parent Topic:**[[configuring-grc-metrics|Configuring GRC: Metrics]]
+**Parent Topic:**[Configuring GRC: Metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/configuring-grc-metrics.md)
 
-## Related
-
-- [[configuring-grc-metrics|configuring grc metrics]]

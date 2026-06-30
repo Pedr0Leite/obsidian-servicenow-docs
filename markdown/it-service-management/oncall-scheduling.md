@@ -14,7 +14,7 @@ breadcrumb: [Platform Analytics KPIs and dashboards, Platform Analytics ITSM Das
 
 Dashboard providing view into the performance of On-call Escalations handled by the team.
 
-KPIs for [[c_OnCallScheduling|On-Call Scheduling]].
+KPIs for On-Call Scheduling.
 
 |Data Visualization|Description|KPI \(Performance Analytics Indicator\)|
 |------------------|-----------|---------------------------------------|
@@ -31,6 +31,3 @@ KPIs for [[c_OnCallScheduling|On-Call Scheduling]].
 |Average time to acknowledge escalation notification|Average time taken to acknowledge the escalation notification.|Average time to acknowledge escalation notification|
 |Total On-call hours \(by user\)|Total number of hours the user was available for On-call.|Total On-call hours|
 
-## Related
-
-- [[c_OnCallScheduling|On-Call Scheduling]]

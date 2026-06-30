@@ -147,7 +147,7 @@ Include the person whose action triggered the notification: Option to include th
 
 [Connected Content form]()
 
-[Default [[emp-slate-employee-profile|Employee Profile]] Header Configuration record]()
+[Default Employee Profile Header Configuration record]()
 
 [Employee Center widgets]()
 
@@ -177,7 +177,7 @@ Include the person whose action triggered the notification: Option to include th
 
 [Portal notification configuration form]()
 
-[Portal [[ec-notification-content|notification content]] form]()
+[Portal notification content form]()
 
 [Quick Link form]()
 
@@ -197,7 +197,3 @@ Include the person whose action triggered the notification: Option to include th
 
 [Website configuration form]()
 
-## Related
-
-- [[emp-slate-employee-profile|Employee profile]]
-- [[ec-notification-content|Notification content]]

@@ -22,7 +22,7 @@ Role required: sn\_align\_core\_apw.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]]** &gt; **Integrations**.
+1.  Navigate to **All** &gt; **Portfolio Planning** &gt; **Integrations**.
 
 2.  Select **ServiceNow Internal** to view the alignment integrations for the internal applications.
 
@@ -30,6 +30,4 @@ Role required: sn\_align\_core\_apw.admin
 
     **Note:** Mapping configurations consist of table, field, and choice maps.
 
-## Related
 
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

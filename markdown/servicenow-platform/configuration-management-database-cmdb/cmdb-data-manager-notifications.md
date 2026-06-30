@@ -14,7 +14,7 @@ breadcrumb: [CMDB data management, Configuration Management Database \(CMDB\), C
 
 # Manage notifications for CMDB Data Manager
 
-The CMDB Data Manager supports several types of notifications that alert administrators, task assignees, and approvers about policy execution outcomes, task life-cycle events, and pending actions. All notifications are delivered via [[email|email]] using ServiceNow® event-driven email actions.
+The CMDB Data Manager supports several types of notifications that alert administrators, task assignees, and approvers about policy execution outcomes, task life-cycle events, and pending actions. All notifications are delivered via email using ServiceNow® event-driven email actions.
 
 The following system properties control different behaviors of notifications:
 
@@ -271,7 +271,7 @@ System property **sn\_cmdb\_ws.glide.cmdb.data\_manager.rejected.task.notificati
 </td></tr></tbody>
 </table>-   **CMDB Data Manager task \{task\_number\} has been assigned to you/to a group you belong to**
 
-    The notification email lists the newly created task with links to the task details view in CMDB Workspace or [[sg-workspace|Service Graph Workspace]].
+    The notification email lists the newly created task with links to the task details view in CMDB Workspace or Service Graph Workspace.
 
 <table><tbody><tr><td>
 
@@ -328,8 +328,3 @@ None
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[email|Email]]
-- [[sg-workspace|Service Graph Workspace]]

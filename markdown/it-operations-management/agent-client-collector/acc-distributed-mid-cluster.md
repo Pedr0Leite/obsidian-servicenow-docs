@@ -14,13 +14,13 @@ breadcrumb: [ACC deployment - shared between servers and endpoints, Configuring 
 
 # Enable metrics collection and evaluation
 
-To enable a ServiceNow instance to collect and evaluate metrics, you must create a distributed MID Server cluster, associate MID Servers with the cluster, and enable [[operational-metrics|Metric Intelligence]] for your MID Server.
+To enable a ServiceNow instance to collect and evaluate metrics, you must create a distributed MID Server cluster, associate MID Servers with the cluster, and enable Metric Intelligence for your MID Server.
 
 ## Before you begin
 
 Ensure that the following plugins are installed on your instance:
 
--   [[c_EM|Event Management]] \(com.glideapp.itom.snac\)
+-   Event Management \(com.glideapp.itom.snac\)
 -   Metric Intelligence - com.snc.sa.metric plugin
 -   MetricBase
 
@@ -113,7 +113,3 @@ Role required: agent\_client\_collector\_admin
 
 [Limit metrics collection and evaluation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-limit-metrics-collection.md)
 
-## Related
-
-- [[operational-metrics|Metric Intelligence]]
-- [[c_EM|Event Management]]

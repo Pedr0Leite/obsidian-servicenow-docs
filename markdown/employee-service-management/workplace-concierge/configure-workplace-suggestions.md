@@ -16,13 +16,13 @@ breadcrumb: [Configure, Workplace Concierge, Workplace Service Delivery, Employe
 
 Configure the workplace space suggestions table to fetch workspace suggestions. Application provides workspace suggestions based on employee preferences when they are reserving a space.
 
-[[workplace-concierge-feat|Workplace Concierge]] and [[workplace-safety-mgmt-hr|Workplace Core]] administrators can configure workplace suggestions while suggesting a space to an employee. Employees can have access to a space matching their needs to complete a set of [[activity-lxp|activity]] like reserving a space, selecting their in-office presence days, preferred collaborators, and [[workplace-services|workplace services]].
+Workplace Concierge and Workplace Core administrators can configure workplace suggestions while suggesting a space to an employee. Employees can have access to a space matching their needs to complete a set of activity like reserving a space, selecting their in-office presence days, preferred collaborators, and workplace services.
 
-**Note:** The option to add your workplace preferences and suggestions are also available on the [[employee-center-landing-page|Employee Center]] portal. Employees are expected to use the [[wsd-mobile-overview|Workplace Service Delivery for Mobile]] app to reserve a space and to view or modify their preferred workplace locations and workplace schedule suggestions. Reserve a workspace using the Workplace Service Delivery for Mobile app. Get desk suggestions based on your preferred location, past and future reservations, proximity \(preferred collaborators\), favorite spaces, neighborhoods, and [[standard-service|standard services]].
+**Note:** The option to add your workplace preferences and suggestions are also available on the Employee Center portal. Employees are expected to use the Workplace Service Delivery for Mobile app to reserve a space and to view or modify their preferred workplace locations and workplace schedule suggestions. Reserve a workspace using the Workplace Service Delivery for Mobile app. Get desk suggestions based on your preferred location, past and future reservations, proximity \(preferred collaborators\), favorite spaces, neighborhoods, and standard services.
 
-When an employee searches for a workspace [[using-wsd-mobile|using Workplace Service Delivery for Mobile]], the application provides space suggestions to an employee based on the following criteria:
+When an employee searches for a workspace using Workplace Service Delivery for Mobile, the application provides space suggestions to an employee based on the following criteria:
 
--   Availability of the space based on the Reservable module \(Desks\) configuration in [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
+-   Availability of the space based on the Reservable module \(Desks\) configuration in Workplace Reservation Management
 -   Employee presence preferences set in Workplace Concierge for primarily \(or solely\) suggesting the building or location the employee plans to visit while in office.
 -   Favorite locations \(campus, building, floor, or neighborhoods\) set by an employee
 -   Preferred workplace services added in workplace preferences
@@ -33,7 +33,7 @@ When an employee searches for a workspace [[using-wsd-mobile|using Workplace Ser
 The employee can set their workplace schedule and in-office preferences in Workplace Service Delivery for Mobile. When suggesting a space to an employee, application uses these preferences. For more information see, [Manage workplace schedule and in-office presence using Workplace Service Delivery for Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/workplace-preference-schedule.md).
 
 -   **[User Space Suggestions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/userspace-suggestions.md)**  
-Employee recommended workspace suggestions are cached in the [[userspace-suggestions|User Space Suggestions]] \(sn\_wsd\_core\_user\_space\_suggestions\) table record. This table gets automatically updated when employees use the workplace preferences option to update their reservations, workplace services, presence and collaborators information. Application uses this cached data while proposing a workspace suggestion to an employee.
+Employee recommended workspace suggestions are cached in the User Space Suggestions \(sn\_wsd\_core\_user\_space\_suggestions\) table record. This table gets automatically updated when employees use the workplace preferences option to update their reservations, workplace services, presence and collaborators information. Application uses this cached data while proposing a workspace suggestion to an employee.
 -   **[Space suggestion Configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/space-suggestion-configuration.md)**  
 Administrators can configure space suggestions for employees to help employees reserve their preferred workspace. Employees can reserve a workspace based on their preferences using the Workplace Service Delivery for Mobile app. Workplace suggestions for an employee are derived from employee presence data, location preferences, employee's favorite workspaces, past and future reservation data, preferred collaborators, and standard services.
 
@@ -52,15 +52,3 @@ Administrators can configure space suggestions for employees to help employees r
 
 [Set Employee Presence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/use-workplace-concierge.md)
 
-## Related
-
-- [[workplace-concierge-feat|Workplace Concierge]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[activity-lxp|Activity]]
-- [[workplace-services|Workplace Services]]
-- [[employee-center-landing-page|Employee Center]]
-- [[wsd-mobile-overview|Workplace Service Delivery for Mobile]]
-- [[standard-service|Standard services]]
-- [[using-wsd-mobile|Using Workplace Service Delivery for Mobile]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[userspace-suggestions|User Space Suggestions]]

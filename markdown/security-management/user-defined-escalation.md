@@ -14,13 +14,8 @@ breadcrumb: [Security Operations common functionality, Security Operations]
 
 You can create an escalation path for security incidents for issues requiring more attention or expertise. Once an escalation group exists, a button appears on any security incident in that group.
 
--   **[[create-user-defined-escalation-group|Create a Security Operations user-defined escalation group]]**  
-[[escalate-security-incident|Escalate a security incident]] to any group associated with the incident using Escalations.
+-   **[Create a Security Operations user-defined escalation group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/create-user-defined-escalation-group.md)**  
+Escalate a security incident to any group associated with the incident using Escalations.
 
-**Parent Topic:**[[sec-ops-common-functionality|Security Operations common functionality]]
+**Parent Topic:**[Security Operations common functionality](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sec-ops-common-functionality.md)
 
-## Related
-
-- [[create-user-defined-escalation-group|Create a Security Operations user-defined escalation group]]
-- [[sec-ops-common-functionality|Security Operations common functionality]]
-- [[escalate-security-incident|Escalate a security incident]]

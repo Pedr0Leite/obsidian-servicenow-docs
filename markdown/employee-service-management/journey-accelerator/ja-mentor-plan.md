@@ -22,7 +22,7 @@ Role required: You must be assigned as a mentor to an action plan.
 
 ## About this task
 
-Managers create plans for different employee transition events. Some transitions include having a mentor. Mentors access plans from the [[employee-center-landing-page|Employee Center]] portal.
+Managers create plans for different employee transition events. Some transitions include having a mentor. Mentors access plans from the Employee Center portal.
 
 There are two types of mentor permissions:
 
@@ -58,6 +58,3 @@ There are two types of mentor permissions:
 
 **Parent Topic:**[Working with Journey Accelerator plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-accelerator/working-with-journey-accelerator-plans.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

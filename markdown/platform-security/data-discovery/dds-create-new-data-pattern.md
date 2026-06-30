@@ -14,7 +14,7 @@ breadcrumb: [Data Discovery sources, Data Discovery Store, Data Discovery, Platf
 
 # Create new data pattern
 
-Create a new [[dds-data-discovery|Data Discovery store]] pattern.
+Create a new Data Discovery store pattern.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: discovery.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[data-discovery-landing|Data Discovery]]** &gt; **Sources**.
+1.  Navigate to **All** &gt; **Data Discovery** &gt; **Sources**.
 
 2.  Select **All Patterns** in the navigation pane.
 
@@ -80,7 +80,7 @@ How far from the expression to search for keywords. Must be used with **Keyword*
 
 </td></tr><tr><td>
 
-Privacy Technique [[sc-configuration|Configuration]]
+Privacy Technique Configuration
 
 </td><td>
 
@@ -128,8 +128,3 @@ Scope of the pattern.
 
 The new data pattern must be set as active to be used in discovery jobs. See [Select active data patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-discovery/dds-active-data-patterns.md) for more information.
 
-## Related
-
-- [[dds-data-discovery|Data Discovery Store]]
-- [[data-discovery-landing|Data Discovery]]
-- [[sc-configuration|Configuration]]

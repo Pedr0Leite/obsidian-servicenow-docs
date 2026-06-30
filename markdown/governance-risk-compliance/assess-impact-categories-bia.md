@@ -12,7 +12,7 @@ breadcrumb: [Structured workflows for BIA, Using BCM Classic Workspace, Manage, 
 
 # Assess impact categories and dependencies of a process
 
-Assess the different components of a [[bia-uib|business impact analysis]] \(BIA\). First by assessing and determining the impact categories of a business process. Second, by identifying any underlying dependencies that the business process requires across different dependency types.
+Assess the different components of a business impact analysis \(BIA\). First by assessing and determining the impact categories of a business process. Second, by identifying any underlying dependencies that the business process requires across different dependency types.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: sn\_bcm.program\_manager or sn\_bcm.planner
 
     By default the records in the **In Draft** state of the Business Impact Analysis list opens.
 
-3.  To [[create-bia-in-uib-ws|create a business impact analysis]] \(BIA\) record, click **New**.
+3.  To create a business impact analysis \(BIA\) record, click **New**.
 
 4.  To update an existing BIA, click the link to the record in the **Name** column.
 
@@ -63,15 +63,15 @@ Role required: sn\_bcm.program\_manager or sn\_bcm.planner
 
 5.  To assess the different types of business impact categories on the business process, click the **RTO Impact Assessment** tab.
 
-    All impact categories are configurable. A business process draws a set of impact categories, by default, from the template that you have used for the business impact analysis. For more information, see: [[review-impact-category-bia|Review an impact category and assess its downtime]].
+    All impact categories are configurable. A business process draws a set of impact categories, by default, from the template that you have used for the business impact analysis. For more information, see: [Review an impact category and assess its downtime](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/review-impact-category-bia.md).
 
 6.  To answer questions on the data value of the asset in terms of its impact on the business and its data change frequency, click **RPO Impact Assessment** tab.
 
-    For more information, see [[RPO-asset-impact-assessment|Assess RPO impact of technology assets on the business]].
+    For more information, see [Assess RPO impact of technology assets on the business](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/RPO-asset-impact-assessment.md).
 
 7.  To review the dependency groups and identify the items within each group that your business process depends on, click the **Dependency Assessment** tab.
 
-    You can prioritize your business continuity and recovery plans based on the criticality of the assets that your business process utilizes. For more information, see: [[identify-dependent-items-bia|Identify dependent items to prioritize recovery plans]].
+    You can prioritize your business continuity and recovery plans based on the criticality of the assets that your business process utilizes. For more information, see: [Identify dependent items to prioritize recovery plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/identify-dependent-items-bia.md).
 
     -   **Order of impact categories**
 
@@ -87,7 +87,7 @@ Role required: sn\_bcm.program\_manager or sn\_bcm.planner
 
         \[Omitted image "GridConfigBCMSetup.png"\] Alt text: Grid configuration setup.
 
-        For ad hoc reporting of variables created for dependency: Add the columns in Dependency report source \[sn\_bia\_dependency\_report\_source\] table to match the variables that you defined in Element variable where the **Enable reporting** option is set to **true**. A scheduled job that runs weekly retrieves the dependencies \(sn\_bia\_dependency\), where the impact analysis is in approved state, updated in the last seven days, and has not expired, and the corresponding element and updates the data in the reporting table. To display the columns that you require you must set up the [[setup-bcm-element-variable|element variable]] and [[setup-bcm-grid-config|grid configuration]]. For more information, see, [[grid-config-dependency-assessment|Grid configuration for column display]].
+        For ad hoc reporting of variables created for dependency: Add the columns in Dependency report source \[sn\_bia\_dependency\_report\_source\] table to match the variables that you defined in Element variable where the **Enable reporting** option is set to **true**. A scheduled job that runs weekly retrieves the dependencies \(sn\_bia\_dependency\), where the impact analysis is in approved state, updated in the last seven days, and has not expired, and the corresponding element and updates the data in the reporting table. To display the columns that you require you must set up the [element variable](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/setup-bcm-element-variable.md) and [grid configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/setup-bcm-grid-config.md). For more information, see, [Grid configuration for column display](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grid-config-dependency-assessment.md).
 
 8.  To change the order of appearance of the impact categories in RTO, RPO, and dependency groups in dependency assessment, navigate to **Business Continuity** &gt; **Business Impact Analysis** &gt; **Impact Category Results**.
 
@@ -97,13 +97,4 @@ Role required: sn\_bcm.program\_manager or sn\_bcm.planner
 
     3.  To change the order of dependency groups, click the Impact Dependency Groups related list and change the order.
 
-## Related
 
-- [[review-impact-category-bia|Review an impact category and assess its recovery time]]
-- [[RPO-asset-impact-assessment|Assess RPO impact of technology assets on the business]]
-- [[identify-dependent-items-bia|Identify critical dependencies to prioritize recovery plans]]
-- [[setup-bcm-element-variable|Set up element variable for BIA dependency assessment grid]]
-- [[setup-bcm-grid-config|Set up grid configuration for BIA dependency assessment]]
-- [[grid-config-dependency-assessment|Grid configuration in BIA dependency assessment]]
-- [[bia-uib|Business impact analysis]]
-- [[create-bia-in-uib-ws|Create a business impact analysis]]

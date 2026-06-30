@@ -14,13 +14,13 @@ breadcrumb: [Display recommended learning courses, Work with journeys in Employe
 
 # Add recommended learning to a journey
 
-Managers and mentors with **Can add recommended [[exploring-learning-exp|learning]]** are able to add courses to a journey.
+Managers and mentors with **Can add recommended learning** are able to add courses to a journey.
 
 ## Before you begin
 
 Role required: Manager or mentor
 
-**Note:** Select the option **Can add recommended learning** in **Manage journey configuration** &gt; **Journey owners permissions** to display the **Add courses** button on the [[employee-center-landing-page|Employee Center]].
+**Note:** Select the option **Can add recommended learning** in **Manage journey configuration** &gt; **Journey owners permissions** to display the **Add courses** button on the Employee Center.
 
 ## Procedure
 
@@ -41,7 +41,3 @@ Role required: Manager or mentor
 
 **Parent Topic:**[Display learning recommendations to the Manager creating a journey](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-learning-recom-manager-ml.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[employee-center-landing-page|Employee Center]]

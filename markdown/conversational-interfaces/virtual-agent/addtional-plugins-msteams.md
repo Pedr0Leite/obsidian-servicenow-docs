@@ -14,7 +14,7 @@ breadcrumb: [Explore, Conversational Integration with Microsoft Teams, Integrate
 
 # Plugins for Conversational Integration with Microsoft Teams
 
-Activate the Glide [[virtual-agent-landing-page|Virtual Agent]] \[com.glide.cs.chatbot\] plugin, the [[teams-conv-integration|Conversational Integration with Microsoft Teams]] \[sn\_va\_teams\] plugin, and verify its additional plugins to enable other features for conversation design.
+Activate the Glide Virtual Agent \[com.glide.cs.chatbot\] plugin, the Conversational Integration with Microsoft Teams \[sn\_va\_teams\] plugin, and verify its additional plugins to enable other features for conversation design.
 
 You must have either the virtual\_agent\_admin or admin role and the external\_app\_install\_admin role to activate these additional plugins. For details, see [Activate a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md).
 
@@ -40,7 +40,3 @@ Verify the following plugins for Conversational Integration with Microsoft Teams
 
 **Parent Topic:**[Exploring Conversational Integration with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/exploring-ci-microsoft-teams.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[teams-conv-integration|Conversational Integration with Microsoft Teams]]

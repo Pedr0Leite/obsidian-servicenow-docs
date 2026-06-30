@@ -14,7 +14,7 @@ breadcrumb: [Azure DevOps, Integrate, DevOps Change Velocity, IT Service Managem
 
 # Configure SonarQube scans on Azure DevOps pipelines
 
-Configure SonarQube or SonarCloud scans on MS Azure DevOps pipelines. Check Azure DevOps pipeline executions for SonarQube scans on every stage of the pipeline's execution and fetch lists and details of scans from any stage to [[devops-landing-page-new|DevOps Change Velocity]]. Drill down on the Scan Details based on categories.
+Configure SonarQube or SonarCloud scans on MS Azure DevOps pipelines. Check Azure DevOps pipeline executions for SonarQube scans on every stage of the pipeline's execution and fetch lists and details of scans from any stage to DevOps Change Velocity. Drill down on the Scan Details based on categories.
 
 ## Before you begin
 
@@ -137,7 +137,7 @@ Based on the scan results on various stages of pipeline's execution, the results
     3.  Click a relevant Scan ID record.
     The Software Quality Scan Summary and Scan Details are displayed.
 
--   View scan details as part of Change Request. View all the scans that were part of this build/release pipeline in the **[[dev-ops-software-quality-results|Software Quality Results]]** &gt; **Software Quality Summary** related list.
+-   View scan details as part of Change Request. View all the scans that were part of this build/release pipeline in the **Software Quality Results** &gt; **Software Quality Summary** related list.
 
     1.  Navigate to **DevOps** &gt; **Orchestrate** &gt; **Pipeline Change Requests**
     2.  Click the Software Quality Summary related list.
@@ -147,7 +147,3 @@ Based on the scan results on various stages of pipeline's execution, the results
 
 **Parent Topic:**[Azure DevOps integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/azure-devops-integration-dev-ops.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[dev-ops-software-quality-results|Software Quality Results]]

@@ -15,7 +15,7 @@ breadcrumb: [Use generative AI skills, Now Assist, Third-party Risk Management, 
 
 # Generate a summary of a TPRM issue
 
-Generate a summary of a TPRM issue to support efficient triaging, remediation, and reporting using the [[issue-summarization-tprm|TPRM issue summarization skill]]. Summarized issues help risk assessors and analysts quickly review issue content and take informed action.
+Generate a summary of a TPRM issue to support efficient triaging, remediation, and reporting using the TPRM issue summarization skill. Summarized issues help risk assessors and analysts quickly review issue content and take informed action.
 
 ## Before you begin
 
@@ -107,6 +107,3 @@ If you think that data might have changed after you viewed the summary, select t
 </table>
 **Parent Topic:**[Using Now Assist for Third-party Risk Management \(TPRM\) skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/using-now-assist-for-tprm.md)
 
-## Related
-
-- [[issue-summarization-tprm|TPRM issue summarization skill]]

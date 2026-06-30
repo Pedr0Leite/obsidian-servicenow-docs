@@ -38,7 +38,7 @@ Steps
 
 </th></tr></thead><tbody><tr><td id="d208534e87">
 
-**From the [[project-workspace-landing-page|Project Workspace]]**
+**From the Project Workspace**
 
 </td><td>
 
@@ -50,7 +50,7 @@ Steps
 
 </td></tr><tr><td id="d208534e135">
 
-**From the [[create-a-project-form|Project form]]**
+**From the Project form**
 
 </td><td>
 
@@ -99,7 +99,3 @@ Steps
 
 **Parent Topic:**[Create baseline of a project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateAProjectBaseline.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]
-- [[create-a-project-form|Project form]]

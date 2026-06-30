@@ -12,7 +12,7 @@ breadcrumb: [Platform Analytics, Financial Services Operations \(FSO\)]
 
 # Process Mining for Financial Services Operations
 
-The [[fso-overview|Financial Services]] Operations Process Mining Content Pack has preconfigured Process Mining models for Financial Services Operations processes that help analysts and process owners analyze how effective their business processes are.
+The Financial Services Operations Process Mining Content Pack has preconfigured Process Mining models for Financial Services Operations processes that help analysts and process owners analyze how effective their business processes are.
 
 **Important:** Starting with the Vancouver release, the Process Optimization application has been renamed to Process Mining.
 
@@ -25,18 +25,18 @@ The content pack adds pre-built Process Mining project model definitions for the
 -   Financial Services Business Deposit Operations
 -   Financial Services Business Loan Operations
 -   Financial Services Business Lifecycle
--   [[card-ops-landing-page|Financial Services Card Operations]]
+-   Financial Services Card Operations
 -   Financial Services Client Lifecycle
--   [[fso-complaint-mgmt-landing-page|Financial Services Complaint Management]]
--   [[payment-ops-landing-page|Financial Services Payment Operations]]
+-   Financial Services Complaint Management
+-   Financial Services Payment Operations
 -   Financial Services Personal Loan Operations
 -   Financial Services Personal Deposit Operations
--   [[fso-treasury-ops-landing-page|Financial Services Treasury Operations]]
--   [[individual-life-servicing|Individual Life Servicing]]
--   [[group-life-servicing|Group Life Servicing]]
--   [[commercial-lines-claims-landing-page|Commercial Lines Claims]]
--   [[personal-lines-claims-landing-page|Personal Lines Claims]]
--   [[intelligent-servicing-for-fraud-landing-page|Intelligent Servicing for Fraud]]
+-   Financial Services Treasury Operations
+-   Individual Life Servicing
+-   Group Life Servicing
+-   Commercial Lines Claims
+-   Personal Lines Claims
+-   Intelligent Servicing for Fraud
 
 You can also configure a new process project that is based on a pre-built project. For more information, see [Create a project or template using Project Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/define-workflow-model.md).
 
@@ -62,18 +62,5 @@ Based on the Financial Services Operations application that you're using the Pro
 |Group Life Servicing|sn\_ins\_group\_life.manager and sn\_process\_optimization\_analyst|
 |Intelligent Servicing for Fraud|sn\_bom\_fraud.manager and sn\_process\_optimization\_analyst|
 
-**Parent Topic:**[[fso-content-pack|Implementing Platform Analytics solutions]]
+**Parent Topic:**[Implementing Platform Analytics solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-content-pack.md)
 
-## Related
-
-- [[fso-content-pack|Implementing Platform Analytics solutions]]
-- [[fso-overview|Financial Services]]
-- [[card-ops-landing-page|Financial Services Card Operations]]
-- [[fso-complaint-mgmt-landing-page|Financial Services Complaint Management]]
-- [[payment-ops-landing-page|Financial Services Payment Operations]]
-- [[fso-treasury-ops-landing-page|Financial Services Treasury Operations]]
-- [[individual-life-servicing|Individual Life Servicing]]
-- [[group-life-servicing|Group Life Servicing]]
-- [[commercial-lines-claims-landing-page|Commercial Lines Claims]]
-- [[personal-lines-claims-landing-page|Personal Lines Claims]]
-- [[intelligent-servicing-for-fraud-landing-page|Intelligent Servicing for Fraud]]

@@ -27,7 +27,7 @@ Consider applying the Hierarchical Density Based Spatial Clustering of Applicati
 
 You can apply the HDBSCAN algorithm to help the system identify data samples that aren't assigned to any cluster. For example, you can apply HDBSCAN to support Topic Discovery.
 
-[[predictive-intelligence-landing|Predictive Intelligence]] implements the k-means algorithm by default in its clustering framework. HDBSCAN is similar to the DBSCAN clustering algorithm except that it works with minimum-sized clusters and can help deliver more stable and persistent clusters. For a summary of how HDBSCAN works, see [this article](https://hdbscan.readthedocs.io/en/latest/how_hdbscan_works.html). For a comparison between DBSCAN and HDBSCAN, see [this article](https://hdbscan.readthedocs.io/en/latest/comparing_clustering_algorithms.html#dbscan) and [this article](https://hdbscan.readthedocs.io/en/latest/comparing_clustering_algorithms.html#hdbscan).
+Predictive Intelligence implements the k-means algorithm by default in its clustering framework. HDBSCAN is similar to the DBSCAN clustering algorithm except that it works with minimum-sized clusters and can help deliver more stable and persistent clusters. For a summary of how HDBSCAN works, see [this article](https://hdbscan.readthedocs.io/en/latest/how_hdbscan_works.html). For a comparison between DBSCAN and HDBSCAN, see [this article](https://hdbscan.readthedocs.io/en/latest/comparing_clustering_algorithms.html#dbscan) and [this article](https://hdbscan.readthedocs.io/en/latest/comparing_clustering_algorithms.html#hdbscan).
 
 **Note:** Clustering solutions trained with HDBSCAN do not support cluster updates. Updates on these solutions fail and the solutions are not logged in the ml\_cluster\_detail\_table. Use DBSCAN or k-means training methods if you want to enable cluster updates.
 
@@ -35,7 +35,7 @@ You can apply the HDBSCAN algorithm to help the system identify data samples tha
 
 1.  Navigate to **All** &gt; **Predictive Intelligence** &gt; **Clustering** &gt; **Solution Definitions**.
 
-    \[Omitted image "configure-hdbscan-clustering-solution1.png"\] Alt text: The Predictive Intelligence [[now-assist-global-navigation|navigation]] path to the Clustering Definitions list view where you create a new clustering solution definition.
+    \[Omitted image "configure-hdbscan-clustering-solution1.png"\] Alt text: The Predictive Intelligence navigation path to the Clustering Definitions list view where you create a new clustering solution definition.
 
 2.  Select **New**.
 
@@ -87,7 +87,3 @@ You can apply the HDBSCAN algorithm to help the system identify data samples tha
 
 [Create and train a clustering solution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/create-clustering-solution.md)
 
-## Related
-
-- [[predictive-intelligence-landing|Predictive Intelligence]]
-- [[now-assist-global-navigation|Navigation]]

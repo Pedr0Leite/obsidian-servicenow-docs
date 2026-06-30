@@ -14,7 +14,7 @@ breadcrumb: [Integrate, Integration for Agent Experience, Setup for integrating 
 
 # Create a Service user to make calls from Microsoft Teams
 
-[[config-notify-ms-teams|Configure Notify connector for Microsoft Teams]] in your environment by creating a Service user to have a seamless conference call experience in Microsoft Teams.
+Configure Notify connector for Microsoft Teams in your environment by creating a Service user to have a seamless conference call experience in Microsoft Teams.
 
 ## Before you begin
 
@@ -73,7 +73,7 @@ Role required: Microsoft Azure admin
 
     Run the following command in PowerShell.
 
-    Use the App ID `ced2c8b2-7075-49fb-8dc9-7ebb41f89769` to grant permission to the Notify connector app. You can find the App ID in Microsoft Azure portal in the path: **Home** &gt; **Enterprise applications** &gt; **All applications**. Select the app created for [[notify-connector-ms-teams|Notify connector for Microsoft Teams]].
+    Use the App ID `ced2c8b2-7075-49fb-8dc9-7ebb41f89769` to grant permission to the Notify connector app. You can find the App ID in Microsoft Azure portal in the path: **Home** &gt; **Enterprise applications** &gt; **All applications**. Select the app created for Notify connector for Microsoft Teams.
 
     \[Omitted image "app-id.12png.png"\] Alt text: Notify connector app
 
@@ -141,7 +141,3 @@ Role required: Microsoft Azure admin
 
 **Parent Topic:**[Integrate Notify connector pre-published app with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-notify-ms-teams-multi-tenant.md)
 
-## Related
-
-- [[config-notify-ms-teams|Configure Notify connector for Microsoft Teams]]
-- [[notify-connector-ms-teams|Notify connector for Microsoft Teams]]

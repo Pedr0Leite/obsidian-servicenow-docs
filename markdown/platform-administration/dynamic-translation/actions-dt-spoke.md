@@ -14,7 +14,7 @@ breadcrumb: [Reference for Dynamic Translation, Dynamic Translation, Translation
 
 # Actions in Dynamic Translation spoke
 
-Actions in the [[dynamic-translation-spoke|Dynamic Translation spoke]] are built to access the [[dynamic-translation|Dynamic Translation]] APIs from Workflow Studio.
+Actions in the Dynamic Translation spoke are built to access the Dynamic Translation APIs from Workflow Studio.
 
 <table id="table_lj3_3bz_vnb"><thead><tr><th>
 
@@ -75,7 +75,3 @@ When an error occurs, error codes populate with the reason for the error. Refer 
 
 **Parent Topic:**[Reference for Dynamic Translation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/reference-for-dynamic-translation.md)
 
-## Related
-
-- [[dynamic-translation-spoke|Dynamic Translation spoke]]
-- [[dynamic-translation|Dynamic translation]]

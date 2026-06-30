@@ -14,7 +14,7 @@ breadcrumb: [Strategic Portfolio Management]
 
 # Now Assist for Strategic Portfolio Management \(SPM\)
 
-Use the ServiceNow® Now Assist for Strategic Portfolio Management \(SPM\) application to summarize feedback in [[alignment-planner-workspace-landing-page|Strategic Planning]] or text in Docs, [[t_CreatingDemands|create a demand]] with a conversational experience, generate insights for projects, and generate stories from epics. Product, project, and demand managers can use the Now Assist skills and AI agents to streamline their projects and workflows.
+Use the ServiceNow® Now Assist for Strategic Portfolio Management \(SPM\) application to summarize feedback in Strategic Planning or text in Docs, create a demand with a conversational experience, generate insights for projects, and generate stories from epics. Product, project, and demand managers can use the Now Assist skills and AI agents to streamline their projects and workflows.
 
 ## Get started
 
@@ -36,7 +36,7 @@ Use the ServiceNow® Now Assist for Strategic Portfolio Management \(SPM\) appli
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Learn about [[form-field-information-for-dw|forms]] and fields of Now Assist for SPM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/now-assist-spm-reference.md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Learn about forms and fields of Now Assist for SPM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/now-assist-spm-reference.md)
 
 </td><td>
 
@@ -75,8 +75,3 @@ For more information, see the [Now Assist documentation](https://raw.githubuserc
 
 **Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[t_CreatingDemands|Create a demand]]
-- [[form-field-information-for-dw|Forms]]

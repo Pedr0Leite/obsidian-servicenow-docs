@@ -18,13 +18,13 @@ Avoid loss or leakage of sensitive data by disabling deprecated TLS versions.
 
 Confirm that your instance only negotiates for communication via Transport Layer Security \(TLS\) versions 1.2 when communicating with other servers to help prevent data transfer over weaker TLS 1 and TLS 1.1 protocol versions.
 
-Set the **com.glide.[[sc-communications|communications]].disable.deprecated.tls** to **true** to use only TLS versions 1.2 and up.
+Set the **com.glide.communications.disable.deprecated.tls** to **true** to use only TLS versions 1.2 and up.
 
 ## More information
 
 |Attribute|Description|
 |---------|-----------|
-|Technical [[sc-configuration|configuration]] name|com.glide.communications.disable.deprecated.tls|
+|Technical configuration name|com.glide.communications.disable.deprecated.tls|
 |Plugin applicability|None|
 |Security risk|Using outdated and unsupported TLS versions could result in loss and leakage of sensitive data.|
 |Common Vulnerability Scoring System \(CVSS\) score|4.4|
@@ -40,7 +40,3 @@ To learn more about adding or creating a system property, see [Add a system prop
 
 **Parent Topic:**[Communications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-communications.md)
 
-## Related
-
-- [[sc-communications|Communications]]
-- [[sc-configuration|Configuration]]

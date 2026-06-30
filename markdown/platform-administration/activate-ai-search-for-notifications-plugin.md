@@ -12,7 +12,7 @@ breadcrumb: [Preferences in Next Experience, Notification Preferences, Notificat
 
 # Activate AI Search for Notifications
 
-You can activate the [[ia-ai-search|AI Search]] for [[notifications|Notifications]] plugin \(com.glide.notification.ais\) for Notifications if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can activate the AI Search for Notifications plugin \(com.glide.notification.ais\) for Notifications if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -34,22 +34,15 @@ The following items are installed with Notifications:
 
     **Note:** When domain separation and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
 
-    You will see a message after installation is completed. For information about the components installed with a plugin, see [[find-components|Find components installed with an application]].
+    You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
 
 ## What to do next
 
-[[index-ai-search-for-notification|Index AI Search for notifications]]
+[Index AI Search for notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/index-ai-search-for-notification.md)
 
 -   **[Index AI Search for notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/index-ai-search-for-notification.md)**  
 Make content from multiple internal indexed sources searchable by performing a full table index. This procedure indexes existing records from the source tables and any child tables configured for indexing.
 
-**Parent Topic:**[[advanced-notification-prefrences|System and custom notification and delivery channel preferences in Next Experience]]
+**Parent Topic:**[System and custom notification and delivery channel preferences in Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/advanced-notification-prefrences.md)
 
-## Related
-
-- [[find-components|Find components installed with an application]]
-- [[index-ai-search-for-notification|Index AI Search for notifications]]
-- [[advanced-notification-prefrences|System and custom notification and delivery channel preferences in Next Experience]]
-- [[ia-ai-search|AI Search]]
-- [[notifications|Notifications]]

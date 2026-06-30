@@ -24,11 +24,11 @@ Role required: sn\_gf.goal\_admin
 
 ## About this task
 
-The Context variable provides information that can be used to fetch the required data and auto-update the Actual value on the [[target-form|target form]]. After a context variable is created for the target source, the goal user can configure the Actual Value Source Configuration section on the Target form so that the Actual value gets auto-updated.
+The Context variable provides information that can be used to fetch the required data and auto-update the Actual value on the target form. After a context variable is created for the target source, the goal user can configure the Actual Value Source Configuration section on the Target form so that the Actual value gets auto-updated.
 
 Creating a context variable is similar to creating a column on a table.
 
-To [[create-context-variable-for-a-target-source-type-pa-indicator|create a context variable for the target source type PA Indicator]] and the breakdown is of Choice list type, see [Create a context variable for the target source type PA Indicator]().
+To create a context variable for the target source type PA Indicator and the breakdown is of Choice list type, see [Create a context variable for the target source type PA Indicator]().
 
 ## Procedure
 
@@ -44,7 +44,4 @@ To [[create-context-variable-for-a-target-source-type-pa-indicator|create a cont
 
 5.  Click **Submit**.
 
-## Related
 
-- [[target-form|Target form]]
-- [[create-context-variable-for-a-target-source-type-pa-indicator|Create a context variable for the target source type PA Indicator]]

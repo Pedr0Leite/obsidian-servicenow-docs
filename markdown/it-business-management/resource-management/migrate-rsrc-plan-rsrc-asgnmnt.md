@@ -14,7 +14,7 @@ breadcrumb: [Migration of resource plans and cost plans, Resource Management cla
 
 # Migrate resource plans and cost plans for projects and demands
 
-Migrate [[c_ResourcePlans|resource plans]] and cost plans of your projects or demands to resource assignments and attribute-bases cost plans and work on the resource allocations and project financials using [[project-workspace-landing-page|Project Workspace]].
+Migrate resource plans and cost plans of your projects or demands to resource assignments and attribute-bases cost plans and work on the resource allocations and project financials using Project Workspace.
 
 ## Before you begin
 
@@ -45,12 +45,7 @@ Resource plans are migrated to resource assignments, cost plans are migrated to 
 
 ## What to do next
 
-[[create-rsrc-asgnmnts-ppm|Create resource assignments]] to manage resource efforts.
+Create resource assignments to manage resource efforts.
 
 **Parent Topic:**[Migration of resource plans, operational resource plans, and cost plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rsrc-plans-rsrc-asgmnts.md)
 
-## Related
-
-- [[c_ResourcePlans|Resource plans]]
-- [[project-workspace-landing-page|Project Workspace]]
-- [[create-rsrc-asgnmnts-ppm|Create resource assignments]]

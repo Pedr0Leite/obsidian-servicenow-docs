@@ -59,7 +59,7 @@ Role required: pa\_data\_collector or higher
 
 ### Procedure
 
-1.  Navigate to **[[c_performanceAnalyticsAndReporting|Platform Analytics]] Administration** &gt; **Indicators** &gt; **Scripts**.
+1.  Navigate to **Platform Analytics Administration** &gt; **Indicators** &gt; **Scripts**.
 
 2.  Select **New**.
 
@@ -119,6 +119,3 @@ Create a breakdown source that uses the Bucket \[pa\_buckets\] facts table, the 
 
 [Scripting in Performance Analytics]()
 
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

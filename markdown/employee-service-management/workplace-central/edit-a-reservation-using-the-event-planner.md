@@ -14,7 +14,7 @@ breadcrumb: [Working with Event planner, Use, Workplace Central, Workplace Servi
 
 # Edit a reservation using the event planner
 
-As a reservation planner, edit a reservation directly using the [[event-planner|event planner]].
+As a reservation planner, edit a reservation directly using the event planner.
 
 ## Before you begin
 
@@ -40,11 +40,11 @@ To manage a multi-location or a group reservation, you must open the reservation
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-central-feat|Workplace Central]]** &gt; **Workplace Central**.
+1.  Navigate to **All** &gt; **Workplace Central** &gt; **Workplace Central**.
 
-    You can also open Workplace Central from the [[employee-center-landing-page|Employee Center]] directly. Navigate to **Workspaces** &gt; **Workplace Central**.
+    You can also open Workplace Central from the Employee Center directly. Navigate to **Workspaces** &gt; **Workplace Central**.
 
-    The [[workplace-analytics|Workplace Analytics]] dashboard opens.
+    The Workplace Analytics dashboard opens.
 
 2.  On the left pane, select the **Event planner** icon \(\[Omitted image "event-planner-icon.png"\] Alt text: Event planner icon.\).
 
@@ -86,9 +86,3 @@ The changes are saved. To change the reservation timings or change the location,
 
 **Parent Topic:**[Working with Event planner](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/working-with-event-planner.md)
 
-## Related
-
-- [[event-planner|Event Planner]]
-- [[workplace-central-feat|Workplace Central]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-analytics|Workplace Analytics]]

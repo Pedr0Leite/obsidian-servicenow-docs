@@ -12,7 +12,7 @@ breadcrumb: [Reference field type, Reference, Field administration, Forms, field
 
 # Display values
 
-[[reference-email-admin|Reference]] fields store a sys\_id for each referenced record in the database, but the sys\_id is not shown.
+Reference fields store a sys\_id for each referenced record in the database, but the sys\_id is not shown.
 
 The reference field shows the display value. For example, an incident's **Assigned to** field stores the sys\_id of a particular user, but actually displays the user's name. The following example shows how **Charlie Witherspoon**, which is the display value of a user record, is shown in the **Assigned to** field.
 
@@ -27,16 +27,11 @@ Reference fields show display values in:
 -   [Lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_UseLists.md)
 -   Forms
 -   Reports
--   [[c_AutoCompleteForReferenceFields|Auto-complete suggestions]]
+-   [Auto-complete suggestions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_AutoCompleteForReferenceFields.md)
 -   Slushbuckets
 
 **Related topics**  
 
 
-[[c_UniqueRecordIdentifier|Unique record identifier \(sys\_id\)]]
+[Unique record identifier \(sys\_id\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_UniqueRecordIdentifier.md)
 
-## Related
-
-- [[c_AutoCompleteForReferenceFields|Auto-complete for reference fields]]
-- [[c_UniqueRecordIdentifier|Unique record identifier \(sys\_id\)]]
-- [[reference-email-admin|Reference]]

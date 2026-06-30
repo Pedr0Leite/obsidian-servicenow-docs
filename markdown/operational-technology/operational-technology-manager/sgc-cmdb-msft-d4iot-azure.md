@@ -14,7 +14,7 @@ breadcrumb: [Service Graph Connector for Microsoft Defender for IoT \(Azure\), I
 
 # Accessing the connection details of the Service Graph Connector for Microsoft Defender for IoT \(Azure\)
 
-You can access the connection details of the [[integration-sgc-microsoft-defender-iot-azure|Service Graph Connector for Microsoft Defender for IoT \(Azure\)]] in a single view using the common connection framework \(CCF\) included within the Integration Commons for CMDB \(sn\_cmdb\_int\_util\) store app.
+You can access the connection details of the Service Graph Connector for Microsoft Defender for IoT \(Azure\) in a single view using the common connection framework \(CCF\) included within the Integration Commons for CMDB \(sn\_cmdb\_int\_util\) store app.
 
 With the CCF, you can access all the connections used by the Service Graph Connector for Microsoft Defender for IoT \(Azure\). The connection details include the connection alias, connection properties, data sources, and scheduled data imports associated with a connection. You can also test the connection. For more information, see [Accessing the connection details of Service Graph Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/integration-commons-conn-fw.md).
 
@@ -22,7 +22,7 @@ With the CCF, you can access all the connections used by the Service Graph Conne
 
 ## Access the details of a Microsoft Defender for IoT \(Azure\) connection
 
-Access the details of a Microsoft Defender for IoT \(Azure\) connection configured for the [[sgc-cmdb-integration-claroty-ctd|Service Graph Connector Integration for Claroty CTD]].
+Access the details of a Microsoft Defender for IoT \(Azure\) connection configured for the Service Graph Connector Integration for Claroty CTD.
 
 ### Before you begin
 
@@ -50,7 +50,4 @@ There are application modules available to navigate to the data sources, system 
 
     You can test your connection at any time. When the connection test is complete, you can find the status and suggestions for troubleshooting the failed steps under **Status** and **Suggestion** on the same page respectively.
 
-## Related
 
-- [[integration-sgc-microsoft-defender-iot-azure|Service Graph Connector for Microsoft Defender for IoT \(Azure\)]]
-- [[sgc-cmdb-integration-claroty-ctd|Service Graph Connector Integration for Claroty CTD]]

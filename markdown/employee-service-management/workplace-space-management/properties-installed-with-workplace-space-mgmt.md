@@ -14,7 +14,7 @@ breadcrumb: [Reference, Workplace Space Management, Workplace Service Delivery, 
 
 # Properties installed with Workplace Space Management
 
-Customize the properties available with [[workplace-space-mgmt-ovw|Workplace Space Management]].
+Customize the properties available with Workplace Space Management.
 
 These properties are available for Workplace Space Management.
 
@@ -50,6 +50,3 @@ This property enables you to specify the default measuring unit of an area.-   T
 
 [KPI Configuration form]()
 
-## Related
-
-- [[workplace-space-mgmt-ovw|Workplace Space Management]]

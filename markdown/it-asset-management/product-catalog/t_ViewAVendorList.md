@@ -14,7 +14,7 @@ breadcrumb: [Vendor catalog items, Product Catalog, IT Asset Management]
 
 # View a vendor list
 
-You can view a list of vendors from the [[c_ProductCatalog|product catalog]].
+You can view a list of vendors from the product catalog.
 
 ## Before you begin
 
@@ -40,6 +40,3 @@ The list includes every company that has the **Vendor** option selected on its r
 
 [Create a vendor catalog item]()
 
-## Related
-
-- [[c_ProductCatalog|Product Catalog]]

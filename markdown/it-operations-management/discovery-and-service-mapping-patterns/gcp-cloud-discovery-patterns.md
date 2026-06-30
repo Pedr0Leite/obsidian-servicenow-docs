@@ -15,7 +15,7 @@ breadcrumb: [Available cloud discovery patterns, Discovery patterns used by ITOM
 
 # Google Cloud Platform \(GCP\) Cloud discovery using Patterns
 
-[[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] Patterns uses patterns to discover components of the Google Cloud Platform \(GCP\) deployment during horizontal discovery. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
+Discovery and Service Mapping Patterns uses patterns to discover components of the Google Cloud Platform \(GCP\) deployment during horizontal discovery. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 ## Request apps on the Store
 
@@ -30,7 +30,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 -   **Verify the MID Server requirements**
     -   Use a dedicated MID Server for cloud discovery. The MID Server must have 16 Cores, 8 GB with 4 GB Java Virtual Machine \(JVM\) memory allocation. For information on verifying MID Server specifications, see KB article [KB2156327](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2156327).
     -   Deploy and connect the dedicated MID Server with internet access.
-    -   For more information on the MID Server configurations, see [[mid-server-configuration-cloud|Install and configure MID Servers to access cloud environments]].
+    -   For more information on the MID Server configurations, see [Install and configure MID Servers to access cloud environments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/mid-server-configuration-cloud.md).
 -   **Verify Google Cloud BigQuery and Google Cloud Bigtable requirements**
 
     To discover Google Cloud BigQuery and Google Cloud Bigtable, navigate to **All** &gt; **Discovery** &gt; **MID Server** &gt; **Properties** and ensure that the **sn\_itom\_pattern.google\_dbservice\_table\_collection** property is set to **True**.
@@ -45,11 +45,11 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
     4.  Click **Save**.
 -   **Configure Google API Credentials**
 
-    For more information, see [[itom-create-google-api-credentials|Configure the Google API credentials for Cloud Discovery]].
+    For more information, see [Configure the Google API credentials for Cloud Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-create-google-api-credentials.md).
 
 -   **Create a Google Cloud Platform service account**
 
-    For more information, see [[create-gcp-service-accounts|Create GCP service accounts]].
+    For more information, see [Create GCP service accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/create-gcp-service-accounts.md).
 
 -   **Enable collecting cloud logging events**
 
@@ -110,10 +110,3 @@ Discovery and Service Mapping Patterns finds GCP Virtual Machine \(VM\) instance
 
 [GCP Certificate Manager discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/gcp-certificate-discovery-pattern.md)
 
-## Related
-
-- [[mid-server-configuration-cloud|Install and configure MID Servers to access cloud environments]]
-- [[itom-create-google-api-credentials|Configure the Google API credentials for Cloud Discovery]]
-- [[create-gcp-service-accounts|Create GCP service accounts]]
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

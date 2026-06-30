@@ -14,7 +14,7 @@ breadcrumb: [Create product offerings, Configuring product offerings and catalog
 
 When you create product offerings and technical specifications, you can identify single-use products and services as transient, to differentiate them from persistent products. Examples of one-time use products include installation or consulting services.
 
-When new orders with transient products are submitted for fulfillment in ServiceNow® [[explore-order-management|Order Management]], the sold product or product inventory records are created with an Installation pending state. After new orders with transient products are fulfilled, the sold product or product inventory state changes to Inactive. Your fulfillment managers can then quickly see which products aren’t part of the active inventory. Agents can’t perform Move, Add, Change, Delete \(MACD\) actions on inactive sold product or product inventory records.
+When new orders with transient products are submitted for fulfillment in ServiceNow® Order Management, the sold product or product inventory records are created with an Installation pending state. After new orders with transient products are fulfilled, the sold product or product inventory state changes to Inactive. Your fulfillment managers can then quickly see which products aren’t part of the active inventory. Agents can’t perform Move, Add, Change, Delete \(MACD\) actions on inactive sold product or product inventory records.
 
 ## Guidelines for defining transient products
 
@@ -27,18 +27,12 @@ When defining transient products, note the following restrictions:
 -   Linking product offerings to product specifications: A transient product offering must be linked to a transient product specification and vice versa.
 -   Specification relationships: When defining specification relationships for a transient product, you can associate only a transient service specification or resource specification. Transient product orders are decomposed as indicated in the associated specification.
 
-For details on setting the **Transient** option for product offerings and specifications, see [[som-create-product-offering|Create product offerings]]
+For details on setting the **Transient** option for product offerings and specifications, see [Create product offerings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-create-product-offering.md)
 
 **Related topics**  
 
 
-[[using-product-catalog|Using product catalogs]]
+[Using product catalogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-product-catalog.md)
 
-[[product-catalog-managment|Product Catalog Management]]
+[Product Catalog Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/product-catalog-managment.md)
 
-## Related
-
-- [[som-create-product-offering|Create product offerings]]
-- [[using-product-catalog|Using product catalogs]]
-- [[product-catalog-managment|Product Catalog Management]]
-- [[explore-order-management|Order management]]

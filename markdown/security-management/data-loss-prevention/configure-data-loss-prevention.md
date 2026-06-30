@@ -14,7 +14,7 @@ breadcrumb: [Administer, Data Loss Prevention Incident Response, Security Operat
 
 # DLP default configuration settings
 
-Define the default [[qradar-ibm-intg-settings|configuration settings]] for [[dlp-landing|Data Loss Prevention Incident Response]] \(DLP IR\) incidents to identify and set up the incident notification and incident assignment preferences for your end users.
+Define the default configuration settings for Data Loss Prevention Incident Response \(DLP IR\) incidents to identify and set up the incident notification and incident assignment preferences for your end users.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ Role required:
 
 You can use this module to define the default configuration settings when the core assignment rules and identifier rules are exhausted and unable to match to a condition or user. You can also define and reapply End user lookup rules and Assignment rules to existing Active DLP incidents.
 
-The end user incident notification enables you to specify the frequency at which [[tisc-email-notifications|email notifications]] are sent to your end users. For example, you can set up notification preferences to accumulate incidents and to send an email digest once a week. By assigning an incident, you can specify which group you initially assign the DLP incidents to. You can also specify how the end users are further identified by the DLP operations team.
+The end user incident notification enables you to specify the frequency at which email notifications are sent to your end users. For example, you can set up notification preferences to accumulate incidents and to send an email digest once a week. By assigning an incident, you can specify which group you initially assign the DLP incidents to. You can also specify how the end users are further identified by the DLP operations team.
 
 For example, let's say that a user has stored credit card information in a file on a network. When the third-party DLP integration product creates an incident for a sensitive data policy violation, the incident data that the ServiceNow AI Platform DLP ingests would contain information about the end user. You would then be able to assign the incident to the right end user.
 
@@ -179,8 +179,3 @@ Option to reapply assignment rules to existing Active DLP incidents. You can sel
 
 [DLP Incidents Archival]()
 
-## Related
-
-- [[qradar-ibm-intg-settings|Configuration settings]]
-- [[dlp-landing|Data Loss Prevention Incident Response]]
-- [[tisc-email-notifications|Email Notifications]]

@@ -14,7 +14,7 @@ breadcrumb: [Initiating privacy assessments, Types of privacy assessments, Use, 
 
 # Send a privacy assessment from an entity
 
-Send a privacy assessment to an entity owner to determine if there's personal data involved in the [[ropa-record|processing activities]].
+Send a privacy assessment to an entity owner to determine if there's personal data involved in the processing activities.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ You can send a privacy screening assessment from an entity if you do not have a 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[privacy-management|Privacy Management]]** &gt; **Privacy Workspace** &gt; **Scoping** &gt; **My entities**.
+1.  Navigate to **All** &gt; **Privacy Management** &gt; **Privacy Workspace** &gt; **Scoping** &gt; **My entities**.
 
 2.  Select and open the entity from which you want to send the assessments to the entity owner.
 
@@ -42,12 +42,7 @@ You can send a privacy screening assessment from an entity if you do not have a 
 
 
 -   **[New privacy assessment creation form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/new-privacy-assessment-creation-form.md)**  
-Use the fields on the [[new-privacy-assessment-creation-form|new privacy assessment creation form]] to create a new privacy assessment.
+Use the fields on the new privacy assessment creation form to create a new privacy assessment.
 
 **Parent Topic:**[Initiating privacy assessments for an entity or a processing activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/trigger-privacy-assessmt-on-entities.md)
 
-## Related
-
-- [[ropa-record|Processing activities]]
-- [[privacy-management|privacy management]]
-- [[new-privacy-assessment-creation-form|New privacy assessment creation form]]

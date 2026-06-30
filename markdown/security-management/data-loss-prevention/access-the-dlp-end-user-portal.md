@@ -14,7 +14,7 @@ breadcrumb: [Data Loss Prevention Incident Response User Workspace, Manage incid
 
 # Report or respond to DLP incidents
 
-Access the [[dlp-landing|Data Loss Prevention Incident Response]] \(DLP\) User workspace, review the assigned DLP incidents, and report or respond to the incidents.
+Access the Data Loss Prevention Incident Response \(DLP\) User workspace, review the assigned DLP incidents, and report or respond to the incidents.
 
 ## Before you begin
 
@@ -184,6 +184,3 @@ Respond to an incident by selecting an incident response option. For example, us
 
 **Parent Topic:**[Data Loss Prevention Incident Response User Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/using-dlp-end-user-portal.md)
 
-## Related
-
-- [[dlp-landing|Data Loss Prevention Incident Response]]

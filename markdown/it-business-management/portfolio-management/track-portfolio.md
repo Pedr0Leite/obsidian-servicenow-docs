@@ -22,7 +22,7 @@ Role required: it\_portfolio\_manager
 
 ## Procedure
 
-1.  Navigate to [[portfolio-planning-app-landing-page|Portfolio Planning]] Workbench from either of two starting points.
+1.  Navigate to Portfolio Planning Workbench from either of two starting points.
 
 <table id="choicetable_xfs_1fh_jlb"><thead><tr><th align="left" id="d273187e71">
 
@@ -56,14 +56,14 @@ Steps
 </td></tr></tbody>
 </table>2.  In the Portfolio Planning Workbench, click the **Track** tab.
 
-    The status of projects and demands is displayed in the **Timeline View** tab with a [[c_GanttChart|Gantt chart]] over time and a **KPIs** tab.
+    The status of projects and demands is displayed in the **Timeline View** tab with a Gantt chart over time and a **KPIs** tab.
 
 3.  Track the progress of your portfolio by reviewing the status of key parameters in the **Timeline View** tab.
 
     -   Details such as planned and actual costs, variance, planned and end dates, and priorities for the selected demands and projects.
     -   Identify the projects that are dependent on each other by viewing external dependencies between projects in a portfolio. For more information, see [Review external dependencies between projects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-management/sp-review-ext-dependencies-between-prj.md).
     -   Track the current status of an individual project by viewing the latest project status report by selecting the **Status Report** option.
-    -   Track the progress of [[t_CreateAProjectTask|project tasks]] in an individual project in your portfolio using the **Planning Console** option. This option is available in the context menu for a project.
+    -   Track the progress of project tasks in an individual project in your portfolio using the **Planning Console** option. This option is available in the context menu for a project.
 4.  Check status information such as the overall health, schedule, cost, resources, and scope of all selected projects in the portfolio in the **Project KPIs** tab.
 
     The most recent status report created for a project populates this information. Point to a status indicator to view comments entered by the project manager for that KPI.
@@ -78,15 +78,9 @@ Steps
 
     -   You can view only Capex or Opex or both by selecting the respective option from the list.
 
-    -   Check how the allocated resources are being used by viewing the comparison of actual resource time spent on all project tasks with the resource hours allocated to execute the selected projects and demands in the portfolio shown in the **Resource \(Allocated vs. Actual\)** chart. The actual time spent is taken from processed [[c_TimeCards|time cards]] for the projects.
+    -   Check how the allocated resources are being used by viewing the comparison of actual resource time spent on all project tasks with the resource hours allocated to execute the selected projects and demands in the portfolio shown in the **Resource \(Allocated vs. Actual\)** chart. The actual time spent is taken from processed time cards for the projects.
 6.  Track the risks, issues, decisions, actions, and the project change requests across all selected projects in the portfolio by going to the **Risks**, **Issues**, **Decisions**, **Actions**, and **Changes** tabs.
 
 
 **Parent Topic:**[Scenario Planning for PPM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-management/portfolio-planning-overview.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[c_GanttChart|Gantt chart]]
-- [[t_CreateAProjectTask|Project tasks]]
-- [[c_TimeCards|Time cards]]

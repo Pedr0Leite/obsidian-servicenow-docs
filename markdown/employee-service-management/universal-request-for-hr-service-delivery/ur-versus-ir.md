@@ -14,7 +14,7 @@ breadcrumb: [Exploring Universal Request, Universal Request, Employee Service Ma
 
 # Universal Request versus Interaction Records \(New Call record\)
 
-[[ur-landing-limitedaccess|Universal request]] and interaction records are created and used by agents of various departments. However, they differ in the way they are handled. The following information provides an overview of both the records and how they differ from each other.
+Universal request and interaction records are created and used by agents of various departments. However, they differ in the way they are handled. The following information provides an overview of both the records and how they differ from each other.
 
 ## Interaction Record
 
@@ -43,6 +43,3 @@ The following table lists the high-level differences between an Interaction Reco
 
 **Parent Topic:**[Exploring Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/explore-universal-request.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]

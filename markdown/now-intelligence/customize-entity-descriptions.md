@@ -21,7 +21,7 @@ Role required: sn\_query\_gen.admin or higher
 
 ## About this task
 
-The [[query-generation|Query Generation]] semantic layer uses natural-language descriptions to help AI understand what each table represents. By default, descriptions are auto-derived from the Field Label \[sys\_documentation\] table, but you can override these descriptions with custom descriptions that better explain the business purpose of your tables. When you clear a custom description, the system falls back to the Field Label value.
+The Query Generation semantic layer uses natural-language descriptions to help AI understand what each table represents. By default, descriptions are auto-derived from the Field Label \[sys\_documentation\] table, but you can override these descriptions with custom descriptions that better explain the business purpose of your tables. When you clear a custom description, the system falls back to the Field Label value.
 
 This procedure uses the Semantic Table Configuration table. Customizations made this way can be transferred between instances via update sets and override descriptions set directly in the Entity table. For simpler, single-instance testing, you can edit the Semantic Description field directly in the Entity \[sn\_query\_gen\_entity\] table instead.
 
@@ -33,7 +33,7 @@ This procedure uses the Semantic Table Configuration table. Customizations made 
 
 2.  Open the record for your table, or create a record if one does not exist.
 
-    If creating a new record, set **Table Name** to your table name and **Enable Semantic Generation** to selected. For more information, see [[add-table-semantic-layer|Add a table to the semantic data layer]].
+    If creating a new record, set **Table Name** to your table name and **Enable Semantic Generation** to selected. For more information, see [Add a table to the semantic data layer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/add-table-semantic-layer.md).
 
 3.  In the **Entity Semantic Description** field, enter your custom description.
 
@@ -93,10 +93,5 @@ Base inventory table for all AI-related digital assets within the AI Control Tow
 
 Test your custom description by asking questions about the table in Query Generation and verifying that the correct table is selected.
 
-**Parent Topic:**[[customize-semantic-metadata|Customizing semantic metadata]]
+**Parent Topic:**[Customizing semantic metadata](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/customize-semantic-metadata.md)
 
-## Related
-
-- [[add-table-semantic-layer|Add a table to the semantic data layer]]
-- [[customize-semantic-metadata|Customizing semantic metadata]]
-- [[query-generation|Query Generation]]

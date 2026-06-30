@@ -14,7 +14,7 @@ breadcrumb: [Condition builder, Create a condition statement using the condition
 
 When you filter on fields of type date/time, such as the **Created** field on any task record, several time-related options are available, such as **Today**, **This week**, **Last 3 months**, and so on.
 
-For example, at 12:00 on June 1, a user in New York [[c_Filters|filters]] a list of incidents using the **Created on Today** condition. The resulting list shows all incidents created during the last twelve hours: between midnight \(00:00:00\) and the user's current time, noon \(12:00:00\), on June 1. A filter for **This week** returns incidents created between the previous Monday at midnight to the current day and time.
+For example, at 12:00 on June 1, a user in New York filters a list of incidents using the **Created on Today** condition. The resulting list shows all incidents created during the last twelve hours: between midnight \(00:00:00\) and the user's current time, noon \(12:00:00\), on June 1. A filter for **This week** returns incidents created between the previous Monday at midnight to the current day and time.
 
 A filter for **Last 3 months** returns incidents between midnight on the first of the month three full months ago and the current day and time. For example, if you choose the **Last 3 months** filter on April 15, the results show records created since January 1 up until April 15. A filter for **Last 12 months** returns results from January to January.
 
@@ -22,7 +22,7 @@ A filter for **Last week** returns incidents from midnight on Sunday the week pr
 
 For the **at or before** and **at or after** filters, use midnight as a start or end point. For example, if you filter a list of incidents created **\[at or after\] \[Yesterday\]**, the resulting list shows all incidents created at midnight yesterday or later. If it is Thursday, August 7, and you filter a list of incidents created **\[at or before\] \[Last week\]**, the resulting list shows all incidents created at and before midnight on Sunday August 3, which is the end of last week.
 
-**Parent Topic:**[[c_ConditionBuilder|Condition builder]]
+**Parent Topic:**[Condition builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_ConditionBuilder.md)
 
 **Related topics**  
 
@@ -166,8 +166,3 @@ A filter run **\[on\] \[Yesterday\]** on April 18, 2018 will return records from
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_ConditionBuilder|Condition builder]]
-- [[c_Filters|Filters]]

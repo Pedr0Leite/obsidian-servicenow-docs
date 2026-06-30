@@ -22,7 +22,7 @@ Role required: sn\_dlir.admin
 
 ## Procedure
 
-1.  Navigate to **Proofpoint DLP integration** &gt; **Incident** &gt; **Incident Status [[mapping-logrhythm|Mapping]]**.
+1.  Navigate to **Proofpoint DLP integration** &gt; **Incident** &gt; **Incident Status Mapping**.
 
 2.  Provide a **Name** to identify the mapping.
 
@@ -50,6 +50,3 @@ When you change the status of any DLP incident on your ServiceNow instance, then
 
 **Parent Topic:**[Data Loss Prevention Incident Response Integration with Proofpoint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/dlp-incident-response-integration-proofpoint.md)
 
-## Related
-
-- [[mapping-logrhythm|Mapping]]

@@ -12,18 +12,12 @@ reading_time_minutes: 1
 
 IT Operations Management has new and updated features in the Australia release.
 
--   **[[event-management-rn|Event Management release notes]]**  
+-   **[Event Management release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/event-management-rn.md)**  
 The ServiceNow® Event Management application helps you to identify health issues across the datacenter on a single management console. Event Management was enhanced and updated in the Australia release.
--   **[[itom-visibility-rn|ITOM Visibility release notes]]**  
+-   **[ITOM Visibility release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/itom-visibility-rn.md)**  
 The ServiceNow® ITOM Visibility application provides a unified, connected view of your entire IT infrastructure and the services that it supports. ITOM Visibility was enhanced and updated in the Australia release.
--   **[[itom-aiops-rn|ITOM AIOps release notes]]**  
+-   **[ITOM AIOps release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/itom-aiops-rn.md)**  
 The ServiceNow® ITOM AIOps application helps you to keep track and maintain the health of the services in your organization. ITOM AIOps was enhanced and updated in the Australia release.
 
-**Parent Topic:**[[new-features-changes|Features and changes by product]]
+**Parent Topic:**[Features and changes by product](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/new-features-changes.md)
 
-## Related
-
-- [[event-management-rn|Event Management release notes]]
-- [[itom-visibility-rn|ITOM Visibility release notes]]
-- [[itom-aiops-rn|ITOM AIOps release notes]]
-- [[new-features-changes|Features and changes by product]]

@@ -12,7 +12,7 @@ breadcrumb: [Care Team Mobile, Healthcare Operations, Healthcare and Life Scienc
 
 # Exploring Care Team Mobile
 
-Discover how to use the [[care-team-mobile-landing|Care Team Mobile]] application to create requests for care team support departments from the convenience of your mobile device.
+Discover how to use the Care Team Mobile application to create requests for care team support departments from the convenience of your mobile device.
 
 ## Care Team Mobile overview
 
@@ -24,12 +24,12 @@ Care Team Mobile includes the following features:
 -   Browse locations to view healthcare location information and create support requests for specific locations as needed.
 -   Secure mobile access through identity management solutions supports both hospital-provided and personal devices.
 
-Care Team Mobile requires [[hcls-cto-app|Healthcare Operations Core]] and can be used with the following Care Team Operations plugins:
+Care Team Mobile requires Healthcare Operations Core and can be used with the following Care Team Operations plugins:
 
--   [[hcls-cto-it-app|Care Team Operations for Healthcare IT]]
--   [[care-team-operations-for-biomed|Care Team Operations for Biomed]]
--   [[cto-facilities-landing|Care Team Operations for Facilities]]
--   [[cto-evs-landing|Care Team Operations for Environmental Services]]
+-   Care Team Operations for Healthcare IT
+-   Care Team Operations for Biomed
+-   Care Team Operations for Facilities
+-   Care Team Operations for Environmental Services
 
 ## Care Team Mobile users
 
@@ -52,27 +52,14 @@ Care Team Mobile requires [[hcls-cto-app|Healthcare Operations Core]] and can be
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Create support requests based on installed [[healthcare-operations-overview|Healthcare Operations]] case types directly from your mobile device.|[[cto-mobile-create-requests|Create support requests using Care Team Mobile]]|Nurse, Nurse Assistant, Unit Secretary|
-|Scan tags on medical equipment and be redirected to the asset's record, where you can view its history, status, and associated cases.|[[cto-mobile-asset-scan|Asset Scan in Care Team Mobile]]|Nurse, Nurse Assistant, Unit Secretary|
-|View requests for specific locations, such as patient rooms or supply closets, and access relevant details and preconfigured workflows for reporting issues like sanitation requests or facility repairs.|[[cto-mobile-browse-locations|Browse locations in Care Team Mobile]]|Nurse, Nurse Assistant, Unit Secretary|
+|Create support requests based on installed Healthcare Operations case types directly from your mobile device.|[Create support requests using Care Team Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/cto-mobile-create-requests.md)|Nurse, Nurse Assistant, Unit Secretary|
+|Scan tags on medical equipment and be redirected to the asset's record, where you can view its history, status, and associated cases.|[Asset Scan in Care Team Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/cto-mobile-asset-scan.md)|Nurse, Nurse Assistant, Unit Secretary|
+|View requests for specific locations, such as patient rooms or supply closets, and access relevant details and preconfigured workflows for reporting issues like sanitation requests or facility repairs.|[Browse locations in Care Team Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/cto-mobile-browse-locations.md)|Nurse, Nurse Assistant, Unit Secretary|
 
 ## What to explore next
 
 To learn more about configuring and using Care Team Mobile, see:
 
--   [[care-team-mobile-configuring|Configure Care Team Mobile]]
+-   [Configure Care Team Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/care-team-mobile-configuring.md)
 -   [Create support requests using Care Team Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/cto-mobile-create-requests.md)
 
-## Related
-
-- [[cto-mobile-create-requests|Create support requests using Care Team Mobile]]
-- [[cto-mobile-asset-scan|Asset Scan in Care Team Mobile]]
-- [[cto-mobile-browse-locations|Browse locations in Care Team Mobile]]
-- [[care-team-mobile-configuring|Configure Care Team Mobile]]
-- [[care-team-mobile-landing|Care Team Mobile]]
-- [[hcls-cto-app|Healthcare Operations Core]]
-- [[hcls-cto-it-app|Care Team Operations for Healthcare IT]]
-- [[care-team-operations-for-biomed|Care Team Operations for Biomed]]
-- [[cto-facilities-landing|Care Team Operations for Facilities]]
-- [[cto-evs-landing|Care Team Operations for Environmental Services]]
-- [[healthcare-operations-overview|Healthcare Operations]]

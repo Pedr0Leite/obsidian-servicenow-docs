@@ -14,7 +14,7 @@ breadcrumb: [Reference, AI Search, Search administration, Configure core feature
 
 # Dictionary Term form
 
-The Dictionary Term form enables you to create a [[typo-handling-ais|typo handling]] entry, a stop word, or a synonym in a dictionary linked to an [[ia-ai-search|AI Search]] search profile.
+The Dictionary Term form enables you to create a typo handling entry, a stop word, or a synonym in a dictionary linked to an AI Search search profile.
 
 For more details on creating or modifying dictionary terms, see [Exclude a term from a typo handling dictionary](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/exclude-typo-handling-terms-ais.md), [Create stop words](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-stop-word-ais.md), and [Create synonyms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-synonym-ais.md).
 
@@ -89,7 +89,3 @@ Application scope for the dictionary term. This field only displays when editing
 </td></tr></tbody>
 </table>**Parent Topic:**[AI Search reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/reference-ais.md)
 
-## Related
-
-- [[typo-handling-ais|Typo handling]]
-- [[ia-ai-search|AI Search]]

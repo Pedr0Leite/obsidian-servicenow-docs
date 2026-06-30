@@ -22,11 +22,11 @@ Role required: sn\_kmf.cryptographic\_manager
 
 ## About this task
 
-Cryptographic managers have the choice to use ServiceNow supplied keys or their own customer-supplied keys \(CSK\) for [[encryption-landing|encryption]] on the ServiceNow AI Platform with [[now-platform-encryption|Field Encryption Enterprise]]. For information on CSK, see [[customer-supplied-keys|Configure properties for customer-supplied keys]].
+Cryptographic managers have the choice to use ServiceNow supplied keys or their own customer-supplied keys \(CSK\) for encryption on the ServiceNow AI Platform with Field Encryption Enterprise. For information on CSK, see [Configure properties for customer-supplied keys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/customer-supplied-keys.md).
 
 ## Procedure
 
-1.  Set [[field-encryption|field encryption]] settings to use ServiceNow Generated Keys.
+1.  Set field encryption settings to use ServiceNow Generated Keys.
 
     See [Configure field encryption settings to select key type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/configure-field-encryption-settings.md) for details.
 
@@ -60,17 +60,10 @@ Cryptographic managers have the choice to use ServiceNow supplied keys or their 
 
     \[Omitted image "module-keys.png"\] Alt text: Shows the Module Keys tab and the generated keys in the table.
 
-11. Select a key to perform [[key-management-actions|key management actions]].
+11. Select a key to perform key management actions.
 
     See [Key management actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/key-management-actions.md) for details.
 
 
 **Parent Topic:**[Create a cryptographic module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/create-cryptographic-module.md)
 
-## Related
-
-- [[customer-supplied-keys|Configure properties for customer-supplied keys]]
-- [[encryption-landing|Encryption]]
-- [[now-platform-encryption|Field Encryption Enterprise]]
-- [[field-encryption|Field Encryption]]
-- [[key-management-actions|Key management actions]]

@@ -49,13 +49,9 @@ Release bundles offer the following features and benefits:
 
 
 -   **[Create a release bundle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-create-release-bundle.md)**  
-[[dpr-create-release-bundle|Create a release bundle]] to manage and track multiple releases from a single place. These releases can have different release readiness targets. However grouping them together in bundles helps you manage them all efficiently.
+Create a release bundle to manage and track multiple releases from a single place. These releases can have different release readiness targets. However grouping them together in bundles helps you manage them all efficiently.
 -   **[Track multiple releases from a release bundle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-track-release-bundle.md)**  
-Track the progress of releases in a release bundle concurrently to improve efficiency and streamline the [[c_ITILReleaseManagement|release management]] process. You can also identify dependencies and potential conflicts in your releases and coordinate with team members working on different releases.
+Track the progress of releases in a release bundle concurrently to improve efficiency and streamline the release management process. You can also identify dependencies and potential conflicts in your releases and coordinate with team members working on different releases.
 
 **Parent Topic:**[Manage releases for digital products and services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-manage-releases.md)
 
-## Related
-
-- [[dpr-create-release-bundle|Create a release bundle]]
-- [[c_ITILReleaseManagement|Release Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Workforce Optimization for Customer Service, Agent management, Use,
 
 Coaching lets you review and assess the quality of completed interactions and tasks, enhance your teams' skill set by assigning training based on the assessments, add skills to their profile when they get trained, and identify skill gaps to train your agents effectively.
 
-Here's an example of how [[configurable-wfo-cs|Workforce Optimization for Customer Service]] uses Predictive [[intelligence-csm|Intelligence]] to recommend skills for agents:
+Here's an example of how Workforce Optimization for Customer Service uses Predictive Intelligence to recommend skills for agents:
 
 <table id="table_dsl_tmr_cmb"><thead><tr><th>
 
@@ -127,24 +127,17 @@ Amy Jones can manage all of these actions by doing the following:
 2.  Assess agents' skills and assign training.
 3.  Add skills to agent profile when they complete training or using recommendations from Predictive Intelligence.
 
-For detailed instructions to use Coaching in Workforce Optimization for Customer Service, see [[coaching-configurable-wfo-cs|Coaching]].
+For detailed instructions to use Coaching in Workforce Optimization for Customer Service, see [Coaching](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/coaching-configurable-wfo-cs.md).
 
 -   **[Using Coaching in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/coaching-configurable-wfo-cs.md)**  
 By using Coaching in Workforce Optimization for Customer Service, you can assess your team's abilities to efficiently resolve cases by reviewing their work at critical moments of customer service.
 
-**Parent Topic:**[[use-configurable-wfo-cs|Workforce Optimization for Customer Service]]
+**Parent Topic:**[Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/use-configurable-wfo-cs.md)
 
 **Related topics**  
 
 
-[[setting-up-skill-prediction-configurable-cs|Setting up skill prediction in Workforce Optimization for Customer Service]]
+[Setting up skill prediction in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/setting-up-skill-prediction-configurable-cs.md)
 
 [Using Coaching in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/coaching-configurable-wfo-cs.md)
 
-## Related
-
-- [[coaching-configurable-wfo-cs|Using Coaching in Workforce Optimization for Customer Service]]
-- [[use-configurable-wfo-cs|Workforce Optimization for Customer Service]]
-- [[setting-up-skill-prediction-configurable-cs|Setting up skill prediction in Workforce Optimization for Customer Service]]
-- [[configurable-wfo-cs|Workforce Optimization for Customer Service]]
-- [[intelligence-csm|Intelligence]]

@@ -26,7 +26,7 @@ Role required: sn\_msi.workspace\_manager.
 
 2.  Select the **Playbook** tab.
 
-    You can view the [[tisc-playbooks-admin|playbooks]] that have been enabled for the major security incident.
+    You can view the playbooks that have been enabled for the major security incident.
 
     **Note:** If you don’t see the playbooks listed, then you need to go to PAD and enable them to see it in the **Playbook** tab.
 
@@ -44,6 +44,4 @@ Role required: sn\_msi.workspace\_manager.
 
 7.  If there’s any remaining activity or user action required in any of the phases, click the respective phase and perform the action to complete the activity.
 
-## Related
 
-- [[tisc-playbooks-admin|Playbooks]]

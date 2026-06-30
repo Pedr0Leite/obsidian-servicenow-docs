@@ -14,7 +14,7 @@ breadcrumb: [Explore, Platform performance, Maintain and monitor, Administer the
 
 # Import set performance
 
-The algorithm [[c_FieldTransformations|transforms]] import sets from their staging table into their final destination.
+The algorithm transforms import sets from their staging table into their final destination.
 
 Importing data via an import set requires two phases:
 
@@ -29,13 +29,9 @@ Any customer using import sets should expect to see a performance improvement in
 
 What kinds of transformations benefit the most from these changes?
 
-Transformations with a large number of [[reference-email-admin|reference]] or choice type columns see the largest improvement.
+Transformations with a large number of reference or choice type columns see the largest improvement.
 
 What kind of transformations benefit the least?
 
 Transformations that with complex or unkeyed coalesce conditions see a proportionately smaller benefit.
 
-## Related
-
-- [[c_FieldTransformations|Transforms]]
-- [[reference-email-admin|Reference]]

@@ -14,7 +14,7 @@ breadcrumb: [CI relations formatter, CI relationships in the CMDB, Configuration
 
 # Legacy CI relations formatter
 
-On instances that do not meet the internet browser requirements for the latest [[c_CIRelationsFormatterNG|CI relations formatter]], the default CI form includes the legacy CI relations formatter instead.
+On instances that do not meet the internet browser requirements for the latest CI relations formatter, the default CI form includes the legacy CI relations formatter instead.
 
 This element contains the list of related CIs and a toolbar with controls for viewing the relationships between the current CI and related CIs. For information about the latest CI relations formatter, see [CI relations formatter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CIRelationsFormatterNG.md).
 
@@ -25,6 +25,3 @@ Configure the controls in this formatter with two properties that restrict varyi
 
 **Parent Topic:**[CI relations formatter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CIRelationsFormatterNG.md)
 
-## Related
-
-- [[c_CIRelationsFormatterNG|CI relations formatter]]

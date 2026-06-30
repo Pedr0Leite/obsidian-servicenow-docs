@@ -12,7 +12,7 @@ breadcrumb: [Auto Query page, Use the Console pages, Discovery Console for Opera
 
 # Create an Auto Query ignore list
 
-[[add-auto-query-console|Create an Auto Query]] to exclude specified asset IP addresses from receiving scanning traffic.
+Create an Auto Query to exclude specified asset IP addresses from receiving scanning traffic.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to the [[auto-query-console|Auto Query page]].
+1.  Navigate to the Auto Query page.
 
 2.  Select the add icon \[Omitted image "add-icon-msi.jpg"\] Alt text:.
 
@@ -73,7 +73,3 @@ The Auto Query results are added to the Auto Query page. The **Ignored** column 
 
 \[Omitted image "auto-query-ignore-columns.png"\] Alt text: Number of ignored IP addresses
 
-## Related
-
-- [[add-auto-query-console|Create an Auto Query]]
-- [[auto-query-console|Auto Query page]]

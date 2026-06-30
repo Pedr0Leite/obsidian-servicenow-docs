@@ -31,17 +31,12 @@ Role required: sales\_agent
 4.  Select **Save**.
 
 
-**Parent Topic:**[[opportunity-mgmt-using|Using Opportunity Management]]
+**Parent Topic:**[Using Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-mgmt-using.md)
 
 **Related topics**  
 
 
-[[configure-opportunity-mgmt|Install and configure Opportunity Management]]
+[Install and configure Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-opportunity-mgmt.md)
 
-[[opportunity-management|Opportunity Management]]
+[Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management.md)
 
-## Related
-
-- [[opportunity-mgmt-using|Using Opportunity Management]]
-- [[configure-opportunity-mgmt|Install and configure Opportunity Management]]
-- [[opportunity-management|Opportunity Management]]

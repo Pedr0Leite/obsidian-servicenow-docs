@@ -16,7 +16,7 @@ breadcrumb: [GCP, Service Graph Connectors, Integrating third-party data into CM
 
 Manage the data source failure when importing resources from GCP.
 
-When importing large GCP resources, the data sources in the [[sgc-cmdb-integration-gcp|Service Graph Connector for GCP]] might fail because of a Direct REST response exceeding the 1024-MB limit. For more information, see [REST step](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/rest-request-action-designer.md).
+When importing large GCP resources, the data sources in the Service Graph Connector for GCP might fail because of a Direct REST response exceeding the 1024-MB limit. For more information, see [REST step](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/rest-request-action-designer.md).
 
 You can use one or more of the following options to handle the REST response size limitation error in the Service Graph Connector for GCP:
 
@@ -25,7 +25,7 @@ You can use one or more of the following options to handle the REST response siz
 
 ## Save the response as an attachment
 
-With the save response as an [[attachment|attachment]] feature, the response of each data source is temporarily stored as an attachment and after the response is read, the attachment is deleted automatically. The save response as an attachment feature is activated by default and is triggered by the **sn\_gcp\_integ.save\_rest\_response\_as\_attachment** system property.
+With the save response as an attachment feature, the response of each data source is temporarily stored as an attachment and after the response is read, the attachment is deleted automatically. The save response as an attachment feature is activated by default and is triggered by the **sn\_gcp\_integ.save\_rest\_response\_as\_attachment** system property.
 
 As a user with the admin role, you can deactivate the save response as an attachment feature by setting the **sn\_gcp\_integ.save\_rest\_response\_as\_attachment** property to `false`. When the feature is deactivated and the response size is within the limit, the data sources run normally.
 
@@ -63,7 +63,3 @@ By default, the maximum batch size of the environment variable for a data source
 
 **Note:** You must add these system properties as they aren't available by default. You must have the admin role to add or modify a system property. For more information, see [Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddAPropertyUsingSysPropsList.md).
 
-## Related
-
-- [[sgc-cmdb-integration-gcp|Service Graph Connector for GCP]]
-- [[attachment|Attachment]]

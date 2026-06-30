@@ -22,7 +22,7 @@ Role required: sn\_hr\_sp.esc\_admin
 
 ## Procedure
 
-1.  Navigate to [[deskless-kiosk-overview|Employee Center Pro kiosk]] home page.
+1.  Navigate to Employee Center Pro kiosk home page.
 
     The kiosk home page is displayed.
 
@@ -48,6 +48,3 @@ Role required: sn\_hr\_sp.esc\_admin
 
 [Configure Employee Center Pro Kiosk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/deskless-kiosk-config.md)
 
-## Related
-
-- [[deskless-kiosk-overview|Employee Center Pro Kiosk]]

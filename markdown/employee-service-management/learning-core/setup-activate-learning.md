@@ -14,13 +14,13 @@ breadcrumb: [Install and configure Learning, Learning, Growth Experiences, HR Se
 
 # Activate and setup Learning
 
-Learn how to set up and start using [[exploring-learning-exp|Learning]].
+Learn how to set up and start using Learning.
 
 ## Activating application
 
 You can activate the Learning from the ServiceNow store. This application includes demo data and activates related plugins if they aren’t already active.
 
-**Note:** Learning is available with the [[employee-center-landing-page|Employee Center]] application. Some of the features of Learning work only when the [[hr-service-delivery|HR Service Delivery]] and [[employee-journey-management|Employee Journey Management]] applications are activated.
+**Note:** Learning is available with the Employee Center application. Some of the features of Learning work only when the HR Service Delivery and Employee Journey Management applications are activated.
 
 ## Request apps on the Store
 
@@ -28,7 +28,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 ## Licensing
 
-Learning leverages the new, Talent Development licensing module. This licensing feature allows registered ServiceNow applications to grant users licenses for the apps based on [[emp-slate-employee-profile|employee profile]] and other additional criteria.
+Learning leverages the new, Talent Development licensing module. This licensing feature allows registered ServiceNow applications to grant users licenses for the apps based on employee profile and other additional criteria.
 
 ## Configuring data
 
@@ -38,15 +38,7 @@ For more information, see [Install and configure Learning](https://raw.githubuse
 
 ## Skills Foundation integration with Learning
 
-Learning integrates [[skills-intelligence|Skills Foundation]] to skill based recommendations for a learner. Learning admins can add skills to a learning course by searching and selecting skills using the skills Intelligent widget.
+Learning integrates Skills Foundation to skill based recommendations for a learner. Learning admins can add skills to a learning course by searching and selecting skills using the skills Intelligent widget.
 
 For more information, see [Using My Learning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/manage-your-learning.md).
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[employee-center-landing-page|Employee Center]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[employee-journey-management|Employee Journey Management]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[skills-intelligence|Skills Foundation]]

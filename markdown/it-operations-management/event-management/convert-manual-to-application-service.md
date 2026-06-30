@@ -14,7 +14,7 @@ breadcrumb: [Application services in Event Management, Configuring Event Managem
 
 # Convert manual services to application services using API
 
-You can use a JavaScript API to convert existing manual services to application services. [[c_EM|Event Management]] can use application services to monitor service performance and identify health issues.
+You can use a JavaScript API to convert existing manual services to application services. Event Management can use application services to monitor service performance and identify health issues.
 
 Manual services are no longer supported and this service type, as well as discovered services, have been replaced by application services. Any existing manual services must be converted to application services. Ensure that any automation of manual services \(such as business rules or scheduled jobs\) have been built and tested before converting to application services.
 
@@ -73,6 +73,3 @@ var res = bsManager.migrateManualToApplicationService("451047c6c0a8016400de0ae6d
 
 [BusinessServiceManager - Global](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/BusinessServiceManagerAPI.md)
 
-## Related
-
-- [[c_EM|Event Management]]

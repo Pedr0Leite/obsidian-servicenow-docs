@@ -12,7 +12,7 @@ breadcrumb: [Preferences in Core UI, Notification Preferences, Notifications, Co
 
 # Create notification channels
 
-You can add channels to receive your [[notifications|notifications]]. A notification channel is an email account or voice message system that you have access to.
+You can add channels to receive your notifications. A notification channel is an email account or voice message system that you have access to.
 
 ## Before you begin
 
@@ -95,12 +95,7 @@ The service provider for SMS messages.
 
 ## What to do next
 
-To receive notifications on your new notification channel, you must enable the channel for individual notifications. After you enable the channel for a notification, you can set conditions to further control the notifications that you receive on the channel. For more information, see [[apply-notification-conditions|Apply notification conditions]].
+To receive notifications on your new notification channel, you must enable the channel for individual notifications. After you enable the channel for a notification, you can set conditions to further control the notifications that you receive on the channel. For more information, see [Apply notification conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/apply-notification-conditions.md).
 
-**Parent Topic:**[[user-notification-preferences|Setting notification preferences in Core UI]]
+**Parent Topic:**[Setting notification preferences in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-notification-preferences.md)
 
-## Related
-
-- [[apply-notification-conditions|Apply notification conditions]]
-- [[user-notification-preferences|Setting notification preferences in Core UI]]
-- [[notifications|Notifications]]

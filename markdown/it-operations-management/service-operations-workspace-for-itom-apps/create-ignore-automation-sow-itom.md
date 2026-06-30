@@ -22,17 +22,17 @@ Role required: evt\_mgmt\_admin, evt\_team\_operator, or srm\_responder
 
 ## About this task
 
-Ignore automations filter out alerts from source monitoring systems that match specific conditions. Separately, [[c_EM|Event Management]] ignores alerts that have a duplicated message key field or where the severity is **Clear**.
+Ignore automations filter out alerts from source monitoring systems that match specific conditions. Separately, Event Management ignores alerts that have a duplicated message key field or where the severity is **Clear**.
 
-For users familiar with the classic Event Management experience, ignore automations provide a simpler interface with enhanced team support for the event filter section of [[create-event-rules|event rules]].
+For users familiar with the classic Event Management experience, ignore automations provide a simpler interface with enhanced team support for the event filter section of event rules.
 
 **Note:** Ignoring alerts before enriching them improves performance and simplifies the processing flow. The condition filter in ignore automations applies only to the original event, not the enriched one. Enrich automations do not run if **Don't run other enrich alert automations** is set to false, and another enrich automation with a lower order, the same source, and matching filter conditions already applies. To avoid conflicts, consider the enrich automation order, source, and filter conditions when creating enrichments or event rules.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  From the bottom of the navigation pane, select the AIOps configuration center icon \[Omitted image "icon-itom-aiops-config.png"\] Alt text: [[itom-aiops-conf-center|ITOM AIOps configuration center]] icon.
+2.  From the bottom of the navigation pane, select the AIOps configuration center icon \[Omitted image "icon-itom-aiops-config.png"\] Alt text: ITOM AIOps configuration center icon.
 
     The ITOM AIOps configuration center page appears. The configuration center is a centralized workspace. Use it to configure and manage AIOps features from a single place.
 
@@ -90,9 +90,3 @@ For users familiar with the classic Event Management experience, ignore automati
 
 You can transform raw events into an understandable format by creating [Create Enrich automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/enrich-alert-sow-itom.md).
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[create-event-rules|Event rules]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[itom-aiops-conf-center|ITOM AIOps configuration center]]

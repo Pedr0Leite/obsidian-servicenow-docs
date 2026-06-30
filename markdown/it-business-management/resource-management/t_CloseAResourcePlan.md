@@ -28,7 +28,7 @@ Project and demand managers can [complete resource plans from a project, project
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Resource** &gt; **[[c_ResourcePlans|Resource Plans]]** &gt; **Allocated**.
+1.  Navigate to **All** &gt; **Resource** &gt; **Resource Plans** &gt; **Allocated**.
 
 2.  Open the resource plan that you want to complete.
 
@@ -57,7 +57,7 @@ Project and demand managers can [complete resource plans from a project, project
 
 Example 1: A resource plan of Allocation type **Monthly** from 1 November to 31 January is completed on 15 December. On completion,
 
--   the [[r_AllocatingResources|resource allocation]] entry for January is deleted from the \[Resource\_Allocation\] table.
+-   the resource allocation entry for January is deleted from the \[Resource\_Allocation\] table.
 -   the resource allocation end date for December is updated to the completion date of the resource plan.
 -   the entries in the \[Resource\_Allocation\_Daily\] table for the December month post the completion date are deleted.
 
@@ -105,7 +105,3 @@ If a project or a project task is marked Closed, the project manager can complet
 
 [Associate a time card with a resource plan]()
 
-## Related
-
-- [[c_ResourcePlans|Resource plans]]
-- [[r_AllocatingResources|Resource allocation]]

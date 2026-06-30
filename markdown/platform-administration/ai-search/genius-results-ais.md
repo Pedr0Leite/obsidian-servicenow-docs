@@ -14,7 +14,7 @@ breadcrumb: [Search profiles, Configuring AI Search, AI Search, Search administr
 
 # Genius Results
 
-Optionally display the best answers for a search query as actionable Genius Result cards included with search [[hs-results|results]].
+Optionally display the best answers for a search query as actionable Genius Result cards included with search results.
 
 A Genius Result configuration includes a trigger condition and logic for creating answers. The trigger condition determines whether the Genius Result configuration activates for a search query. When activated, the configuration checks for search results with extremely high relevancy. If it finds any, its answer logic populates one or more Genius Result cards with information and actions derived from these results. The Genius Result cards appear alongside normal search results, giving the user immediate access to the most relevant answers and actions.
 
@@ -22,7 +22,7 @@ To use a Genius Result configuration in searches, link it to one or more of your
 
 ## Genius Result evaluation order and result limit
 
-[[ia-ai-search|AI Search]] evaluates active Genius Result [[clone-configurations-tab|configurations]] for a search profile in an order determined by their numeric **Order** field values, as defined in the search profile's Genius Results related list. Genius Result configurations with lower **Order** field values are evaluated before those with higher field values. As an example, a Genius Result configuration with **Order** 100 is evaluated before one with **Order** 200. To learn how to change the evaluation order, see [Set the evaluation order for Genius Result configurations in a search profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/set-gr-eval-order-srch-profile-ais.md).
+AI Search evaluates active Genius Result configurations for a search profile in an order determined by their numeric **Order** field values, as defined in the search profile's Genius Results related list. Genius Result configurations with lower **Order** field values are evaluated before those with higher field values. As an example, a Genius Result configuration with **Order** 100 is evaluated before one with **Order** 200. To learn how to change the evaluation order, see [Set the evaluation order for Genius Result configurations in a search profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/set-gr-eval-order-srch-profile-ais.md).
 
 **Note:** **Order** field values for linked Genius Result configurations are set separately for each search profile. A Genius Result configuration that's linked to multiple search profiles can have a different **Order** field value in each profile. For instance, you might set an **Order** value of 100 for the Q&amp;A Genius Result configuration in one search profile but set a value of 750 for the same Genius Result configuration in a second search profile that it's linked to.
 
@@ -92,15 +92,9 @@ Link a Genius Result configuration to one or more search profiles.
 -   **[Set the evaluation order for Genius Result configurations in a search profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/set-gr-eval-order-srch-profile-ais.md)**  
 Change the order in which AI Search evaluates Genius Result configurations linked to a search profile.
 -   **[Create a Genius Result configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-genius-results-config-ais.md)**  
-[[create-genius-results-config-ais|Create a Genius Result configuration]], set its trigger condition, and configure the results displayed on its answer card.
+Create a Genius Result configuration, set its trigger condition, and configure the results displayed on its answer card.
 -   **[Link an NLU model and intents to a Genius Result configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/link-nlu-model-genius-result-ais.md)**  
 Specify the NLU model and intents to use for a Genius Result configuration with an NLU trigger condition.
 
 **Parent Topic:**[Search profiles in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/defining-search-profiles-ais.md)
 
-## Related
-
-- [[hs-results|Results]]
-- [[ia-ai-search|AI Search]]
-- [[clone-configurations-tab|Configurations]]
-- [[create-genius-results-config-ais|Create a Genius Result configuration]]

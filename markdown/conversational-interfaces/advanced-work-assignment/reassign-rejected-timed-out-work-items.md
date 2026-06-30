@@ -24,7 +24,7 @@ Role required: admin
 
 1.  Navigate to the reject reasons settings through one of the following navigation paths:
 
-    -   **All** &gt; **[[awa-application-landing-page|Advanced Work Assignment]]** &gt; **Home**.
+    -   **All** &gt; **Advanced Work Assignment** &gt; **Home**.
 
         In the Additional settings section, select **Set up reject reasons**.
 
@@ -36,6 +36,3 @@ Role required: admin
     -   If you want to have an agent who rejected a work item be eligible to be offered the same work item, select the **Reassignable** field.
     -   If you don’t want to have an agent who rejected a work item be eligible to be offered the same work item, unselect the **Reassignable** field.
 
-## Related
-
-- [[awa-application-landing-page|Advanced Work Assignment]]

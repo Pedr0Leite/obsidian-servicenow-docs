@@ -14,7 +14,7 @@ breadcrumb: [Salesforce, Service Graph Connectors for AI Control Tower, AI conne
 
 # APIs used for Salesforce
 
-Explore the APIs used in [[salesforce|AI Service Graph Connector for Salesforce]].
+Explore the APIs used in AI Service Graph Connector for Salesforce.
 
 The following table lists all the Salesforce API endpoints used by the connector.
 
@@ -76,7 +76,7 @@ https://&lt;domain\_name&gt;.salesforce.com//services/data/v65.0/query?q=SELECT 
 
 </td><td>
 
-Fetch all [[ai-prompts|prompts]] information associated or used by AI Agents
+Fetch all prompts information associated or used by AI Agents
 
 </td></tr><tr><td>
 
@@ -92,8 +92,3 @@ Fetch Usage Information for AI Agents.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[salesforce|AI Service Graph Connector for Salesforce]]
-- [[ai-prompts|Prompts]]

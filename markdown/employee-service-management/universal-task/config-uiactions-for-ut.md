@@ -32,9 +32,9 @@ Administrators and users with the ui\_action\_admin role can define UI actions. 
 
     For example, enter the name as `Assign Task`.
 
-4.  Select the service-specific table that [[universal-task-landing|Universal Task]] is being configured for.
+4.  Select the service-specific table that Universal Task is being configured for.
 
-    For example, select the [[ur-landing-limitedaccess|Universal Request]] \[universal\_request\] table for placing the Assign Task UI action on the [[universal-task-form|Universal Task form]] view or workspace.
+    For example, select the Universal Request \[universal\_request\] table for placing the Assign Task UI action on the Universal Task form view or workspace.
 
     **Note:** For any new UI action, ensure that you always select the appropriate service table.
 
@@ -71,8 +71,3 @@ Administrators and users with the ui\_action\_admin role can define UI actions. 
 
 **Next topic:**[Add a Universal Task related list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/create-relatedlist-ur.md)
 
-## Related
-
-- [[universal-task-landing|Universal Task]]
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[universal-task-form|Universal Task form]]

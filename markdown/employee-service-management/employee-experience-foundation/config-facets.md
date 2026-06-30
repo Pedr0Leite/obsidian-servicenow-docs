@@ -24,7 +24,7 @@ Role required: esc\_admin
 
 The topic facets help filter out content by the hierarchy; topics and sub-topics. You can choose a single or multiple facets to narrow down your search results.
 
-The supported content types for the feature are Service Catalog items, Knowledge Base, and [[exploring-learning-exp|learning]] content.
+The supported content types for the feature are Service Catalog items, Knowledge Base, and learning content.
 
 The base system facet level support is two. You can add up to 10 levels of facets.
 
@@ -36,6 +36,4 @@ The base system facet level support is two. You can add up to 10 levels of facet
 
 3.  Create a facet with the relevant details according to the topic or sub-topic.
 
-## Related
 
-- [[exploring-learning-exp|Learning]]

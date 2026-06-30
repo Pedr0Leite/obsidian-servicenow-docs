@@ -43,8 +43,5 @@ The get\_activity\_of\_case\_and\_related\_interaction\_for\_email script retrie
 **Related topics**  
 
 
-[[send-case-email-replies-interaction-emails-activity-history|Send case email replies containing interaction emails in activity history]]
+[Send case email replies containing interaction emails in activity history](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/send-case-email-replies-interaction-emails-activity-history.md)
 
-## Related
-
-- [[send-case-email-replies-interaction-emails-activity-history|Send case email replies containing interaction emails in activity history]]

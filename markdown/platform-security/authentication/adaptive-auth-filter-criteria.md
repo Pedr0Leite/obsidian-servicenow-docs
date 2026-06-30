@@ -14,21 +14,21 @@ breadcrumb: [Adaptive authentication, Authentication, Access Management]
 
 # Filter criteria
 
-Filter criteria \(also called policy inputs\) are used as inputs for policy conditions to verify and meet the requirements of an [[c_Authentication|authentication]] [[c_requestAPI|request]].
+Filter criteria \(also called policy inputs\) are used as inputs for policy conditions to verify and meet the requirements of an authentication request.
 
-Use filter criteria to supply information [[authentication-policies|authentication policies]] such as a user's IP address, roles, or groups. Add these criteria in the **Policy conditions** section of your [[ca-policies|policies]].
+Use filter criteria to supply information authentication policies such as a user's IP address, roles, or groups. Add these criteria in the **Policy conditions** section of your policies.
 
-There are seven types of filter criteria used in [[adaptive-authentication|adaptive authentication]]. Your authentication policies can use one or more of these criteria to evaluate authentication requests.
+There are seven types of filter criteria used in adaptive authentication. Your authentication policies can use one or more of these criteria to evaluate authentication requests.
 
-**Note:** [[location-filter|Location filter]] and [[identity-landing|Identity]] Provider filter are available with Zero Trust Access feature. For more information, see [[session-access|Zero Trust Access \(ZTA\)]].
+**Note:** Location filter and Identity Provider filter are available with Zero Trust Access feature. For more information, see [Zero Trust Access \(ZTA\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/session-access.md).
 
 |Type|Description|
 |----|-----------|
-|IP filter criteria|Use [[ip-filter|IP filter]] criteria to filter [[users|users]] based on the user's IP addresses. Both IPv4 and IPv6 are supported.|
-|Role filter criteria|Use [[role-filter|role filter]] criteria to filter users based on their roles.|
-|Group filter criteria|Use [[group-filter|group filter]] criteria to filter users based on the user group to which the user belongs.|
+|IP filter criteria|Use IP filter criteria to filter users based on the user's IP addresses. Both IPv4 and IPv6 are supported.|
+|Role filter criteria|Use role filter criteria to filter users based on their roles.|
+|Group filter criteria|Use group filter criteria to filter users based on the user group to which the user belongs.|
 |Location filter criteria|Use location filter criteria to filter users based on the user location.|
-|Identity Provider Attribute filter criterias|Use the Identity Provider attributes that are received from [[c_SAML2.0WebBrowserSSOProfile|SAML]] response from the IdP as a filter criteria for authentication.|
+|Identity Provider Attribute filter criterias|Use the Identity Provider attributes that are received from SAML response from the IdP as a filter criteria for authentication.|
 
 ## Generic Criteria
 
@@ -87,19 +87,3 @@ Trusted mobile app filter for enabling instance access from mobile app.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[session-access|Zero Trust Access \(ZTA\)]]
-- [[c_Authentication|Authentication]]
-- [[c_requestAPI|request]]
-- [[authentication-policies|Authentication policies]]
-- [[ca-policies|Policies]]
-- [[adaptive-authentication|Adaptive authentication]]
-- [[location-filter|Location Filter]]
-- [[identity-landing|Identity]]
-- [[ip-filter|IP Filter]]
-- [[users|Users]]
-- [[role-filter|Role Filter]]
-- [[group-filter|Group Filter]]
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]

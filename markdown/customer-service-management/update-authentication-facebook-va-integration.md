@@ -27,7 +27,7 @@ For information on integrating the Virtual Agent with Facebook Messenger and for
 
 ## About this task
 
-With this integration, you can get help using Virtual Agent chatbot conversations. For more information on getting help, see [[csm-virtual-agent-chatbot|Customer Service Virtual Agent conversations]] .
+With this integration, you can get help using Virtual Agent chatbot conversations. For more information on getting help, see [Customer Service Virtual Agent conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-virtual-agent-chatbot.md) .
 
 ## Procedure
 
@@ -52,6 +52,3 @@ With this integration, you can get help using Virtual Agent chatbot conversation
     -   In the **Secret** field, enter the app secret for the messenger application.
     -   Click **Update**.
 
-## Related
-
-- [[csm-virtual-agent-chatbot|Customer Service Virtual Agent conversations]]

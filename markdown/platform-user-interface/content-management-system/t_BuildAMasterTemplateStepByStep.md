@@ -36,7 +36,7 @@ Follow these steps to create a single base page and generate all important compo
 
 3.  Build the common blocks.
 
-    Pages are composed of [[c_ContentBlocks|content blocks]]. Most content blocks are reused on multiple pages. For the base template, create basic blocks such as a header, side navigation, and some basic content for the main content area of the page. More detailed content can be added later, but define content for reuse on many of the site pages here. For more information, see [Content blocks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_ContentBlocks.md).
+    Pages are composed of content blocks. Most content blocks are reused on multiple pages. For the base template, create basic blocks such as a header, side navigation, and some basic content for the main content area of the page. More detailed content can be added later, but define content for reuse on many of the site pages here. For more information, see [Content blocks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_ContentBlocks.md).
 
 4.  Build a site entry page.
 
@@ -53,6 +53,3 @@ Follow these steps to create a single base page and generate all important compo
 
 **Parent Topic:**[Content Management templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_ContentManagementTemplates.md)
 
-## Related
-
-- [[c_ContentBlocks|Content blocks]]

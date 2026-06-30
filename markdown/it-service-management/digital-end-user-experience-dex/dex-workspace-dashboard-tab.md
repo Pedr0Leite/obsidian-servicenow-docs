@@ -14,7 +14,7 @@ breadcrumb: [DEX Application and Device Health pages, Monitor, Digital End-User 
 
 # Landing page
 
-The DEX landing page serves as the starting point for the information on the total number of alerts, impacted [[dex-workspace-devices-tab|devices]], and a device world map.
+The DEX landing page serves as the starting point for the information on the total number of alerts, impacted devices, and a device world map.
 
 To access the landing page, navigate to **Workspaces** &gt; **Service Operations Workspace**. The Home icon \(\[Omitted image "icon-dex-home.png"\] Alt text: The Home icon that displays the Home page.\) is selected by default and you can view the landing page of the Service Operations Workspace Performance Analytics dashboard.
 
@@ -30,6 +30,3 @@ The Employee experience overview section provides details such as active alerts,
 
 The devices world map shows device counts by location, allows you to drill down into specific regions, and redirects to the Devices page for detailed insights.
 
-## Related
-
-- [[dex-workspace-devices-tab|Devices]]

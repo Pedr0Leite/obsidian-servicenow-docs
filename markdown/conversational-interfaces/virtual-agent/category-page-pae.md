@@ -15,7 +15,7 @@ breadcrumb: [Topics tab, Using the Conversational Analytics Dashboard, Conversat
 
 # Topic categories
 
-Use the Category page in the Conversational Analytics dashboard to view the performance of [[virtual-agent-landing-page|Virtual Agent]] \(VA\) topics by the selected topic category.
+Use the Category page in the Conversational Analytics dashboard to view the performance of Virtual Agent \(VA\) topics by the selected topic category.
 
 Topic categories group related conversation topics. Topics can belong to more than one category. Select the drop-down list to show the categories that you can display in the visualizations. The visualizations show the aggregate performance of Virtual Agent conversations that ran in the topics belonging to a category.
 
@@ -74,6 +74,3 @@ Number of users using a specified channel over the course of the date range for 
 </td></tr></tbody>
 </table>**Parent Topic:**[Topics tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/topics-tab-pae.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

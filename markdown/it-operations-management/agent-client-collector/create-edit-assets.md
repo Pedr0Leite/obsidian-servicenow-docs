@@ -14,7 +14,7 @@ breadcrumb: [ACC deployment - servers, Configuring Agent Client Collector, Agent
 
 # Create and edit Agent Client Collector plugins
 
-You can edit the default plugins, or you can add new plugins, as needed. Creating and editing plugins customizes the [[acc-monitoring-landing-page|Agent Client Collector monitoring]] capabilities.
+You can edit the default plugins, or you can add new plugins, as needed. Creating and editing plugins customizes the Agent Client Collector monitoring capabilities.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: agent\_client\_collector\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-landing-page|Agent Client Collector]]** &gt; **Configuration** &gt; **ACC Plugins**.
+1.  Navigate to **All** &gt; **Agent Client Collector** &gt; **Configuration** &gt; **ACC Plugins**.
 
 2.  Click **New**.
 
@@ -48,7 +48,3 @@ When you customize or create an Agent Client Collector plugin, you can secure th
 
 **Parent Topic:**[Deploying Agent Client Collector on servers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-server-deployment.md)
 
-## Related
-
-- [[acc-monitoring-landing-page|Agent Client Collector Monitoring]]
-- [[acc-landing-page|Agent Client Collector]]

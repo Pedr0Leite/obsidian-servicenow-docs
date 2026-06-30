@@ -25,12 +25,12 @@ Role required: wm\_dispatcher.
 You must have at least two out of three of the following types of task assignment enabled to determine the correct method to use:
 
 -   Automatically adjust overlapping tasks - For more information, see [Enable Dispatcher Workspace settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/dispatcher-wrkspc-settings.md)
--   Double booking - For more information, see [[dispatcher-ws-dy-scheduling|Setting up dynamic scheduling in Dispatcher Workspace]]
+-   Double booking - For more information, see [Setting up dynamic scheduling in Dispatcher Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/dispatcher-ws-dy-scheduling.md)
 -   Auto-assignment - For more information, see [Configuring Auto Assignment scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/c_UseAutoAssignment.md)
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Field Service** &gt; **Dispatching** &gt; **[[dispatcher-activities|Dispatcher Workspace]]**.
+1.  Navigate to **All** &gt; **Field Service** &gt; **Dispatching** &gt; **Dispatcher Workspace**.
 
 2.  Select **Dispatcher Workspace**.
 
@@ -42,7 +42,4 @@ You must have at least two out of three of the following types of task assignmen
 
 6.  Select **Apply**.
 
-## Related
 
-- [[dispatcher-ws-dy-scheduling|Setting up dynamic scheduling in Dispatcher Workspace]]
-- [[dispatcher-activities|Dispatcher Workspace]]

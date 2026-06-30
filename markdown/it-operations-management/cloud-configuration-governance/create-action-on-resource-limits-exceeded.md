@@ -34,9 +34,9 @@ The **On resource limit exceeded** base system policy action has a default Servi
 
 ## Procedure
 
-1.  Modify or [[create-cloud-policy|create a cloud policy]] action to use the **on Resource limit exceeded** trigger.
+1.  Modify or create a cloud policy action to use the **on Resource limit exceeded** trigger.
 
-    1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Govern** &gt; **Policies**.
+    1.  In the Cloud Admin Portal, navigate to **Govern** &gt; **Policies**.
 
     2.  Modify a base system policy or create a new policy record.
 
@@ -106,7 +106,3 @@ The base system notification email for the 'on Resource Limit exceeded' policy a
 
 **Parent Topic:**[Create a cloud policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-cloud-policy.md)
 
-## Related
-
-- [[create-cloud-policy|Create a cloud policy]]
-- [[cloud-admin-portal|Cloud Admin Portal]]

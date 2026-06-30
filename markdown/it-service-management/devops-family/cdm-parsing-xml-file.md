@@ -16,7 +16,7 @@ breadcrumb: [Uploading your config data, Configuring DevOps Config, DevOps Confi
 
 The CDM XML parser enables the parsing of attribute key-value pairs in XML files, so when you upload config data from an XML file into CDM, you can easily identify the attributes of each element in the CDM editor or list view.
 
-**Important:** Starting with the Washington D.C. release, [[devops-config-landing-page|DevOps Config]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+**Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 This parsing of attribute key-value pairs from an XML file to a JSON format in CDM helps you in the following ways:
 
@@ -85,6 +85,3 @@ To keep the XML attributes and enclosing text in their original format when expo
 
 [Parsing of CSV files in CDM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-parsing-csv-file.md)
 
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]

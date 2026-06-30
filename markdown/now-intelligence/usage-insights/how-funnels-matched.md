@@ -14,7 +14,7 @@ breadcrumb: [Conversion funnels, Using Usage Insights, Usage Insights, Platform 
 
 # How Usage Insights matches funnels
 
-Learn how [[user-exp-analytics-landing|Usage Insights]] matches sequences of pages you anticipate users seeing before they reach a goal.
+Learn how Usage Insights matches sequences of pages you anticipate users seeing before they reach a goal.
 
 Usage Insights bases funnel matching on unique users, and not on sessions, so steps can be matched between sessions. For example, a user may start the first step of a funnel in their first session, and continue the next step in another session. Users are counted only once for a selected time range, and step completions are only counted once per user.
 
@@ -46,6 +46,3 @@ When filtering by application versions, the analysis shows only the users who pe
 
 **Parent Topic:**[Funnel reports in Usage Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/funnel-reports-uxa.md)
 
-## Related
-
-- [[user-exp-analytics-landing|Usage Insights]]

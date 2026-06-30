@@ -46,11 +46,11 @@ Steps
 
 </td><td>
 
-Navigate to **[[workplace-rsv-mgmt-feat|Workplace Reservation Management]]** &gt; **Portal** &gt; **My Reservations**.
+Navigate to **Workplace Reservation Management** &gt; **Portal** &gt; **My Reservations**.
 
 </td></tr><tr><td id="d419872e96">
 
-**[[employee-center-landing-page|Employee Center]]**
+**Employee Center**
 
 </td><td>
 
@@ -60,7 +60,7 @@ Navigate to **[[workplace-rsv-mgmt-feat|Workplace Reservation Management]]** &gt
 
 2.  Open **My reservations,** and do one of the following:
     1.  Click **Reservations** &gt; **My reservations**
-    2.  Select **Open my reservation list** from the [[workplace-services|Workplace services]] catalog, and do the following:
+    2.  Select **Open my reservation list** from the Workplace services catalog, and do the following:
         1.  Select **Catalog** &gt; **Browse by categories** &gt; **Workplace Services Catalog**
 
 **Note:** If there are multiple catalogs configured on the portal, then go to the Catalogs list and select **Workplace Services Catalog**.
@@ -129,8 +129,3 @@ The reservation is added to your calendar.
 
 [Reserve a workplace using the Quick Reservation widget]()
 
-## Related
-
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-services|Workplace Services]]

@@ -18,7 +18,7 @@ Configure and activate the carbon calculation workflow that uses AI agents and t
 
 Install the Now Assist for Operational Sustainability plugin \(sn\_esg\_gen\_ai\).
 
-Attach the Calculation Guidance document to the relevant record in the Emission Calculation Guidelines table. For further details, refer to [[attaching-calculation-guidance-document|Attaching calculation guidance document]].
+Attach the Calculation Guidance document to the relevant record in the Emission Calculation Guidelines table. For further details, refer to [Attaching calculation guidance document](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/attaching-calculation-guidance-document.md).
 
 Role required: sn\_nowassist\_admin.nsa\_admin
 
@@ -46,9 +46,9 @@ You can perform the following actions on Now Assist workflows if you have the sn
 
 3.  Under the **Define key requirements**, scroll to the section **Add AI agents that can perform these steps** and activate the agents **Calculation operand AI agent CMD** and **Calculation creation AI agent**.
 
-4.  To activate the **Calculation operand AI agent CMD** agent, refer to [[activate-calculation-operand-ai-agent-cmd|Activate calculation operand AI agent CMD]].
+4.  To activate the **Calculation operand AI agent CMD** agent, refer to [Activate calculation operand AI agent CMD](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/activate-calculation-operand-ai-agent-cmd.md).
 
-5.  To activate the **Calculation creation AI agent**, refer to [[activate-calculation-creation-ai-agent|Activate calculation creation AI agent]].
+5.  To activate the **Calculation creation AI agent**, refer to [Activate calculation creation AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/activate-calculation-creation-ai-agent.md).
 
 6.  On the **Generate calculations for metrics** page, perform the following steps:
 
@@ -82,11 +82,5 @@ The calculation operand AI agent CMD identifies and retrieves relevant metric de
 -   **[Attaching calculation guidance document](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/attaching-calculation-guidance-document.md)**  
 Attach the Calculation Guidance PDF to the designated emission calculation guidelines table record to enable the carbon calculations agentic workflow. The agent relies on this document to extract calculation methods, formulas, and category details for automated metric definition creation.
 
-**Parent Topic:**[[configure-now-assist-for-esg|Configure Now Assist for Operational Sustainability \(formerly ESG\)]]
+**Parent Topic:**[Configure Now Assist for Operational Sustainability \(formerly ESG\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/configure-now-assist-for-esg.md)
 
-## Related
-
-- [[attaching-calculation-guidance-document|Attaching calculation guidance document]]
-- [[activate-calculation-operand-ai-agent-cmd|Activate calculation operand AI agent CMD]]
-- [[activate-calculation-creation-ai-agent|Activate calculation creation AI agent]]
-- [[configure-now-assist-for-esg|Configure Now Assist for Operational Sustainability \(formerly ESG\)]]

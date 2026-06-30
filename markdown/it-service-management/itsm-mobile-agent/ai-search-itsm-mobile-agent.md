@@ -14,12 +14,12 @@ breadcrumb: [Exploring ITSM Mobile Agent, ITSM Mobile Agent, IT Service Manageme
 
 # AI Search in ITSM Mobile Agent
 
-Intelligent query features enable agents to quickly find the required answers in [[itsm-mobile-agent|ITSM Mobile Agent]].
+Intelligent query features enable agents to quickly find the required answers in ITSM Mobile Agent.
 
 Using AI search, agents can easily search find the following records:
 
--   Incidents \(MIM, [[breached-incidents|Breached Incidents]], At Risk\)
--   [[change-tasks|Change tasks]]
+-   Incidents \(MIM, Breached Incidents, At Risk\)
+-   Change tasks
 -   Catalog tasks
 -   Changes
 -   System users
@@ -46,8 +46,3 @@ The following configurations are added for AI search experience in ITSM Mobile A
 -   A search application configuration, \[AIS\] ITSM Mobile Agent Search Configuration. For information about search application configurations, see [Search application configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/defining-search-app-cfgs-ais.md).
 -   A search profile, ITSM Mobile Agent Search Profile. For information about search profiles, see [Search profiles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/defining-search-profiles-ais.md).
 
-## Related
-
-- [[itsm-mobile-agent|ITSM Mobile Agent]]
-- [[breached-incidents|Breached Incidents]]
-- [[change-tasks|Change tasks]]

@@ -18,11 +18,11 @@ Job postings forms can be viewed from the Job Posting \[sn\_ta\_hiring\_core\_jo
 
 ## Before you begin
 
-Role required: All [[egd-oppt-mrktplc-landing|Opportunity Marketplace]] users
+Role required: All Opportunity Marketplace users
 
 ## About this task
 
-The Job Posting \[sn\_ta\_hiring\_core\_job\_posting\] is contained in the [[hiring-core|Hiring Core]] application. The Job Posting table stores and tracks [[hiring-tab-concept|hiring]] information that you create or received from third party talent acquisition platforms for your hiring requirements.
+The Job Posting \[sn\_ta\_hiring\_core\_job\_posting\] is contained in the Hiring Core application. The Job Posting table stores and tracks hiring information that you create or received from third party talent acquisition platforms for your hiring requirements.
 
 You must view job postings forms from the Job Posting \[sn\_ta\_hiring\_core\_job\_posting\] table.
 
@@ -41,8 +41,3 @@ You must view job postings forms from the Job Posting \[sn\_ta\_hiring\_core\_jo
 
 **Parent Topic:**[Use Opportunity Marketplace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/opportunity-marketplace/egd-oppt-mrktplc-using.md)
 
-## Related
-
-- [[egd-oppt-mrktplc-landing|Opportunity Marketplace]]
-- [[hiring-core|Hiring Core]]
-- [[hiring-tab-concept|Hiring]]

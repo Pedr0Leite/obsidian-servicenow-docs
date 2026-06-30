@@ -14,7 +14,7 @@ breadcrumb: [Configure, Legal Invention Disclosure, Legal Service Delivery Pract
 
 # Set up Outside Firms for Legal Invention Disclosure
 
-Configure Outside Firm records to enable the assignment of outside counsels to review and process the patent filing of [[legal-invention-disclosure-landing|Legal Invention Disclosure]] requests.
+Configure Outside Firm records to enable the assignment of outside counsels to review and process the patent filing of Legal Invention Disclosure requests.
 
 ## Before you begin
 
@@ -49,6 +49,3 @@ Role required: sn\_lg\_matter.matter\_config
 
 **Parent Topic:**[Configure Legal Invention Disclosure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/configure-legal-invention-disclosure.md)
 
-## Related
-
-- [[legal-invention-disclosure-landing|Legal Invention Disclosure]]

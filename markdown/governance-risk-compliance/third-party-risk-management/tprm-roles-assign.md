@@ -26,7 +26,7 @@ The roles discussed in this procedure are described in [Roles in Third-party Ris
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Third-party Risk Management** &gt; **[[Administration|Administration]]** &gt; **User Groups**.
+1.  Navigate to **All** &gt; **Third-party Risk Management** &gt; **Administration** &gt; **User Groups**.
 
 2.  Select the Roles related list to assign roles to the group.
 
@@ -54,6 +54,3 @@ The roles discussed in this procedure are described in [Roles in Third-party Ris
 
 [TPRM and the Explicit Roles plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/vrm-and-explicit-roles-plugin.md)
 
-## Related
-
-- [[Administration|Administration]]

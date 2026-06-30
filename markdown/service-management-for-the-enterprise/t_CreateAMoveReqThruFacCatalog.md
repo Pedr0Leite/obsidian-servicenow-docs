@@ -22,7 +22,7 @@ Role required: none
 
 1.  Navigate to **All** &gt; **Self-Service** &gt; **Facilities Catalog**.
 
-2.  Select the **[[r_SpaceManagement|Space Management]]** category.
+2.  Select the **Space Management** category.
 
 3.  Select the subcategory for your move request.
 
@@ -126,9 +126,5 @@ Provides filtering and condition statements to help narrow your search for asset
 </table>5.  Click **Submit**.
 
 
-**Parent Topic:**[[c_FacMoveRequests|Facilities move requests]]
+**Parent Topic:**[Facilities move requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_FacMoveRequests.md)
 
-## Related
-
-- [[c_FacMoveRequests|Facilities move requests]]
-- [[r_SpaceManagement|Space management]]

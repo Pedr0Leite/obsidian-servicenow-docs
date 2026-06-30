@@ -12,11 +12,11 @@ breadcrumb: [Use, Legacy Application Manager, Administering applications, Get st
 
 # Accessing unpurchased recommended apps on ServiceNow Store
 
-Administrators can access the list of unpurchased [[servicenow-store|ServiceNow Store]] apps, view recommended apps, and view details of the required app without navigating to the ServiceNow Store.
+Administrators can access the list of unpurchased ServiceNow Store apps, view recommended apps, and view details of the required app without navigating to the ServiceNow Store.
 
 **Note:**
 
-[[legacy-application-manager-landing|Legacy Application Manager]] is being deprecated. Starting with Australia patch 1, Legacy Application Manager is no longer available and bookmarks will redirect to the new [[application-manager|Application Manager]] experience.
+Legacy Application Manager is being deprecated. Starting with Australia patch 1, Legacy Application Manager is no longer available and bookmarks will redirect to the new Application Manager experience.
 
 A known issue affects the use of bookmarks to access the Legacy Application Manager before Australia patch 1. For details about possible issues with accessing the Legacy Application Manager, see the [Deprecated Classic App Manager URL usage causes issues on instances running ZP5 / YP10 and above \[KB2804238\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2804238) article in the Now Support knowledge base.
 
@@ -43,11 +43,5 @@ To access the list of unpurchased ServiceNow Store apps, navigate to **System Ap
     You will be redirected to the ServiceNow Store from where you can purchase the app.
 
 
-**Parent Topic:**[[using-legacy-application-manager|Using Legacy Application Manager]]
+**Parent Topic:**[Using Legacy Application Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/using-legacy-application-manager.md)
 
-## Related
-
-- [[using-legacy-application-manager|Using Legacy Application Manager]]
-- [[servicenow-store|ServiceNow Store]]
-- [[legacy-application-manager-landing|Legacy Application Manager]]
-- [[application-manager|Application Manager]]

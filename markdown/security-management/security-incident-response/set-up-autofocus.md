@@ -22,11 +22,11 @@ Role required: sn\_si\_admin
 
 ## Procedure
 
-1.  [[download-app-first-time|Download an application from the ServiceNow Store for the first time]].
+1.  [Download an application from the ServiceNow Store for the first time](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/download-app-first-time.md).
 
 2.  When the installation is complete, access Palo Alto Networks support site and obtain the API Key.
 
-3.  In your instance, navigate to **[[security-operations-landing-page|Security Operations]]** &gt; **Integration Configuration**.
+3.  In your instance, navigate to **Security Operations** &gt; **Integration Configuration**.
 
 4.  In the Palo Alto Networks AutoFocus card, click **Configure**.
 
@@ -34,7 +34,4 @@ Role required: sn\_si\_admin
 
 6.  Click **Submit**.
 
-## Related
 
-- [[download-app-first-time|Download an application from the ServiceNow Store for the first time]]
-- [[security-operations-landing-page|Security Operations]]

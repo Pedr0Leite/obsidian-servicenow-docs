@@ -20,7 +20,7 @@ There are five \(5\) sections that provide information:
 
 ## Employee Relations Case Volume by Month
 
-A bar chart showing the number of ER cases per month and year. Click a bar and the [[hr-case-employee-relations|Employee Relations]] Cases list appears.
+A bar chart showing the number of ER cases per month and year. Click a bar and the Employee Relations Cases list appears.
 
 ## Employee Relations Case Volume by Allegation Type
 
@@ -42,6 +42,3 @@ Provides a holistic view of all related tables for all the ER cases.
 
 \[Omitted image "hr-er-db-view.png"\] Alt text: ER Dashboards
 
-## Related
-
-- [[hr-case-employee-relations|Employee Relations]]

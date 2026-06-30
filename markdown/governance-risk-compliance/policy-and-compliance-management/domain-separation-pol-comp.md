@@ -33,7 +33,7 @@ For more information on support levels, see [Application support for domain sepa
 Domain separation is best for those customers who:
 
 -   Need to enforce absolute data segregation between business entities \(data separation\).
--   Customize business process definitions and user interfaces for each domain \(delegated [[Administration|administration]]\).
+-   Customize business process definitions and user interfaces for each domain \(delegated administration\).
 -   Maintain some global processes and global reporting in a single instance.
 
 These users can choose to expand or collapse the domain scope to show or hide data from other domains.
@@ -84,9 +84,9 @@ If you need complete and total separation of all system properties and do not re
 
 ## Allocation of domain values to Policy and Compliance Management objects
 
-Records that are automatically generated either through scheduled jobs or background scripts are domain separated based on their parent object or user domain for all Policy and Compliance objects. Similarly, controls, risks, or [[risk-assessments|risk assessments]] that are auto-generated based on the entities must also be domain separated.
+Records that are automatically generated either through scheduled jobs or background scripts are domain separated based on their parent object or user domain for all Policy and Compliance objects. Similarly, controls, risks, or risk assessments that are auto-generated based on the entities must also be domain separated.
 
-The following changes are made to the domain assignment process to manage data segregation by the Managed Service Providers related to [[r_PolicyComplianceMgmt|Policy and Compliance Management]] tables:
+The following changes are made to the domain assignment process to manage data segregation by the Managed Service Providers related to Policy and Compliance Management tables:
 
 |Policy and Compliance Management objects|Domain source|
 |----------------------------------------|-------------|
@@ -125,8 +125,3 @@ The following changes are made to the domain assignment process to manage data s
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[Administration|Administration]]
-- [[risk-assessments|risk assessments]]
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

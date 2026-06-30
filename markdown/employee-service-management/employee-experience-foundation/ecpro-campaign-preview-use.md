@@ -14,7 +14,7 @@ breadcrumb: [Campaign preview, Creating campaigns, Authoring and managing employ
 
 # Preview your portal
 
-Use [[ecpro-campaign-preview|campaign preview]] to view the campaign content that appears on your portal. Use the Preview filters to fine-tune what you want to preview.
+Use campaign preview to view the campaign content that appears on your portal. Use the Preview filters to fine-tune what you want to preview.
 
 ## Before you begin
 
@@ -74,7 +74,7 @@ Select a taxonomy
 
 </td><td>
 
-Allows you to filter your preview by taxonomy.Taxonomy is a collection of hierarchical topics that brings together different content types, like requests, articles, [[emp-center-quick-link-config|quick links]], and [[eslate-employee-comms|employee communications]].
+Allows you to filter your preview by taxonomy.Taxonomy is a collection of hierarchical topics that brings together different content types, like requests, articles, quick links, and employee communications.
 
  A taxonomy is the top-level of the hierarchy and can have multiple topics under it.
 
@@ -109,8 +109,4 @@ Provides messages in the banner identifying content that is inactive. Toggle swi
 
     **Note:** Select the **View content details** \(\[Omitted image "view-content-details-icon.png"\] Alt text: View content details icon\) icon to see additional details about the content.
 
-## Related
 
-- [[ecpro-campaign-preview|Campaign preview]]
-- [[emp-center-quick-link-config|Quick links]]
-- [[eslate-employee-comms|Employee communications]]

@@ -23,7 +23,7 @@ Indicators collect data to monitor controls and risks, and collect audit evidenc
 Indicator templates allow the creation of multiple indicators for similar controls or risks.
 
 -   **[Engagement Overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/c_AuditEngagementOverview.md)**  
-The [[c_AuditEngagementOverview|Engagement Overview]] is contained in the [[c_GRCAudits|Audit Management]] application and provides an executive view into audit results, engagement breakdowns by task, and allows areas of concern to be identified quickly.
+The Engagement Overview is contained in the Audit Management application and provides an executive view into audit results, engagement breakdowns by task, and allows areas of concern to be identified quickly.
 -   **[Create a GRC indicator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/t_CreateAnIndicator.md)**  
 Create an Indicator to monitor the controls and risks and collect evidence of performance.
 -   **[Create a GRC indicator template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/t_CreateIndicatorTemplate.md)**  
@@ -31,7 +31,3 @@ Compliance or risk managers create indicator templates from which many indicator
 
 **Parent Topic:**[Using Audit Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/using-audit-management.md)
 
-## Related
-
-- [[c_AuditEngagementOverview|Engagement Overview]]
-- [[c_GRCAudits|Audit Management]]

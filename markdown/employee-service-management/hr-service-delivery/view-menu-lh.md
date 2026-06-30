@@ -22,11 +22,11 @@ Role required: organizational leader \[sn\_egd\_lh.leader\]
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
 
-2.  From the [[td-lh-landing|Leader hub]] drop-down list, select **Org talent**.
+2.  From the Leader hub drop-down list, select **Org talent**.
 
-    The [[td-lh-org-talent|Org talent page]] appears.
+    The Org talent page appears.
 
 3.  Use the organizational chart or the **Search for employees in your org** field to select an employee in your organization.
 
@@ -78,8 +78,3 @@ Send an email to an employee.This action opens a link with the work email of you
 </table>
 **Parent Topic:**[Using Leader Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/td-lh-using.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[td-lh-landing|Leader Hub]]
-- [[td-lh-org-talent|Org talent page]]

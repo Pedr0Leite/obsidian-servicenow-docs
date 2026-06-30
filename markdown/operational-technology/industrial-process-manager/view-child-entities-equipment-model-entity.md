@@ -26,7 +26,7 @@ You can view equipment model entities for any site, if the cmdb\_ot\_isa\_admin 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]] Admin** &gt; **[[industrial-process-manager-overview|Industrial Process Manager]]** &gt; **Equipment Model Manager**.
+1.  Navigate to **All** &gt; **Industrial Workspace Admin** &gt; **Industrial Process Manager** &gt; **Equipment Model Manager**.
 
 2.  In the **Equipment model view for** field, select the site that you want to view the equipment model information for.
 
@@ -50,7 +50,3 @@ You can view equipment model entities for any site, if the cmdb\_ot\_isa\_admin 
 
 **Parent Topic:**[Review and update the equipment model details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/equipment-model-workspace.md)
 
-## Related
-
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[industrial-process-manager-overview|Industrial Process Manager]]

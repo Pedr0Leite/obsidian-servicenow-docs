@@ -12,7 +12,7 @@ breadcrumb: [Government Service Portal, Portals, Use, Public Sector Digital Serv
 
 # Track the status of a public service request from the Government Service Portal
 
-Monitor the status of a case that you submitted through the [[gsp-overview-public-sector|Government Service Portal]] in Public Sector Digital Services. On the case page, you can see when the case was created, when it was last updated, and whether it’s awaiting a response from you or from an agent.
+Monitor the status of a case that you submitted through the Government Service Portal in Public Sector Digital Services. On the case page, you can see when the case was created, when it was last updated, and whether it’s awaiting a response from you or from an agent.
 
 ## Before you begin
 
@@ -108,7 +108,7 @@ State
 
 </td><td>
 
-Current status of the case for the given stage. For a detailed explanation of each case state, see [[government-service-case-states|Government Service Portal Case states]].
+Current status of the case for the given stage. For a detailed explanation of each case state, see [Government Service Portal Case states](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/government-service-case-states.md).
 
 </td></tr><tr><td>
 
@@ -132,7 +132,7 @@ Stage
 
 </td><td>
 
-Phase through which a case moves. For a detailed explanation of each case stage, see [[government-service-case-type|Government Service Case type]].
+Phase through which a case moves. For a detailed explanation of each case stage, see [Government Service Case type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/government-service-case-type.md).
 
 </td></tr><tr><td>
 
@@ -163,9 +163,3 @@ Additional case information, activity, or comments. The Related tabs show the fo
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[government-service-case-states|Life cycle of a Public Service case]]
-- [[government-service-case-type|Public Sector Digital Services case types]]
-- [[gsp-overview-public-sector|Government Service Portal]]

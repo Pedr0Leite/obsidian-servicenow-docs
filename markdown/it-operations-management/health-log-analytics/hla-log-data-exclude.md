@@ -15,7 +15,7 @@ breadcrumb: [Log data auto-mapping and mapping, Set up HLA on your instance, Con
 
 # Stop extraction of unneeded log data in Health Log Analytics
 
-If an extracted string of data is not descriptive enough or contains redundant text or information, you can set [[hla-landing-page|Health Log Analytics]] to stop extracting such data from your logs.
+If an extracted string of data is not descriptive enough or contains redundant text or information, you can set Health Log Analytics to stop extracting such data from your logs.
 
 ## Before you begin
 
@@ -44,6 +44,3 @@ Role required: evt\_mgmt\_admin
 
 **Parent Topic:**[Log data auto-mapping and mapping in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-input-automapping.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

@@ -14,7 +14,7 @@ breadcrumb: [View system health alerts on the service map, Viewing system featur
 
 # Identify Health Log Analytics system health issues on the service map
 
-View [[hla-landing-page|Health Log Analytics]] \(HLA\) system health issues on the ServiceNow [[c_EM|Event Management]] service map.
+View Health Log Analytics \(HLA\) system health issues on the ServiceNow Event Management service map.
 
 ## Before you begin
 
@@ -48,7 +48,3 @@ Address the alert by performing the action proposed in the notification. For mor
 
 [Health Log Analytics system health notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-sys-health-notifications-ref.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]
-- [[c_EM|Event Management]]

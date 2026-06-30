@@ -30,7 +30,7 @@ You can use the retroactive pause property to apply pause times to the new SLA.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[service-level-mgmt-landing-page|Service Level Management]]** &gt; **SLA** &gt; **SLA Definitions**.
+1.  Navigate to **All** &gt; **Service Level Management** &gt; **SLA** &gt; **SLA Definitions**.
 
 2.  Open the relevant SLA definition record.
 
@@ -55,6 +55,3 @@ When retroactive start is enabled, it may result in task SLAs being breached as 
 
 **Parent Topic:**[Configuring Service Level Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/configuring-service-level-management.md)
 
-## Related
-
-- [[service-level-mgmt-landing-page|Service Level Management]]

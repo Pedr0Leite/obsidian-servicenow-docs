@@ -20,9 +20,9 @@ During an asset's life span, assets incur costs, which include initial capital c
 
 ## Benefits of TCO
 
--   Track and analyze expenses such as [[c_Procurement|procurement]], maintenance, repairs, and disposal across the asset hierarchy.
+-   Track and analyze expenses such as procurement, maintenance, repairs, and disposal across the asset hierarchy.
 -   Gain better visibility and control over asset-related expenses throughout the life-cycle.
--   Bench mark asset costs against similar assets and asset [[c_Models|models]] to compare performance.
+-   Bench mark asset costs against similar assets and asset models to compare performance.
 
 ## TCO calculation
 
@@ -56,7 +56,7 @@ If you update the TCO benchmark, the TCO benchmark threshold gets recalculated.
 
 ## Rate cards, expense lines, and expense categories
 
-The [[enterprise-asset-management|Enterprise Asset Management]] application automatically sums the time worked records and calculates the total cost by multiplying the rate cards. Rate cards are created for each task across all workflows. Rate cards capture costs on a per task basis or on the time consumed. The Enterprise Asset Management application supports the following rate cards:
+The Enterprise Asset Management application automatically sums the time worked records and calculates the total cost by multiplying the rate cards. Rate cards are created for each task across all workflows. Rate cards capture costs on a per task basis or on the time consumed. The Enterprise Asset Management application supports the following rate cards:
 
 -   task rate cards: Cost captured by tasks.
 -   labor rate cards: Cost captured by the time consumed on an hourly basis. Labor rates can be defined at the user level.
@@ -122,7 +122,7 @@ Configuring TCO involves the following procedures:
 
     For detailed instructions, see [Create a TCO report in Enterprise Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-eam-tco-report.md).
 
--   [[create-tco-report-source-ham|Create a TCO report source]] to add sources to a TCO report.
+-   Create a TCO report source to add sources to a TCO report.
 
     For detailed instructions, see [Create a TCO report source in Enterprise Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-tco-report-source-eam.md).
 
@@ -130,9 +130,4 @@ Configuring TCO involves the following procedures:
 
     For detailed instructions, see [Create expense lines for closed tasks in Enterprise Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-expenselines-closed-tasks-eam.md).
 
-## Related
 
-- [[c_Procurement|Procurement]]
-- [[c_Models|Models]]
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[create-tco-report-source-ham|Create a TCO report source]]

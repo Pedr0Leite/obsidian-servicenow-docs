@@ -14,7 +14,7 @@ breadcrumb: [Configure, Legal Content Review, Legal Service Delivery Practice Ap
 
 # Reconfigure forms to use new components
 
-As an administrator, after installing [[legal-content-review|Legal Content Review]] reconfigure forms to use the new content review record producer, catalog category, and content taxonomy.
+As an administrator, after installing Legal Content Review reconfigure forms to use the new content review record producer, catalog category, and content taxonomy.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-The content review request, that was part of [[legal-request-management-landing-page|Legal Request Management]], has been moved to a new application Legal Content Review. With the new application, new content review components are available for Legal Content Review. You can reconfigure the intake forms to use the new content review record producer, catalog category, and content taxonomy depending on the following points.
+The content review request, that was part of Legal Request Management, has been moved to a new application Legal Content Review. With the new application, new content review components are available for Legal Content Review. You can reconfigure the intake forms to use the new content review record producer, catalog category, and content taxonomy depending on the following points.
 
 -   If you use the new content review components, you must redo any customizations you made to the previous forms.
 -   The previous content review components won’t be enhanced for new functionalities.
@@ -104,7 +104,3 @@ The content review request, that was part of [[legal-request-management-landing-
 
 **Parent Topic:**[Configure Legal Content Review](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-content-review/setting-up-legal-content-review.md)
 
-## Related
-
-- [[legal-content-review|Legal Content Review]]
-- [[legal-request-management-landing-page|Legal Request Management]]

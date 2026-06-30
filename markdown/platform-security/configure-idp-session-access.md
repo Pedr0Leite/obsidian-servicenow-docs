@@ -12,7 +12,7 @@ breadcrumb: [Tutorial: Use ZTA, Zero Trust Access, Access Management]
 
 # Configure Identity Provider attribute for Session Access
 
-Use [[identity-landing|Identity]] Provider \(IDP\) attribute created from the Security Assertion Markup Language \([[c_SAML2.0WebBrowserSSOProfile|SAML]]\) response and OpenID Connect \(OIDC\) for removing or restricting user session access to the instance.
+Use Identity Provider \(IDP\) attribute created from the Security Assertion Markup Language \(SAML\) response and OpenID Connect \(OIDC\) for removing or restricting user session access to the instance.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: security\_admin
 
 Enable the **Enable Session Access property**.
 
-**Note:** To use the Session Access role [[sc-configuration|configuration]], you must elevate your role to `security_admin`.
+**Note:** To use the Session Access role configuration, you must elevate your role to `security_admin`.
 
 Session Access can be controlled by the created policy and selected action when performing the configuration. Some of the scenarios are as follows:
 
@@ -51,7 +51,7 @@ The following procedure shows steps to configure the IDP attribute from the SAML
 
     3.  Choose the **Policy**.
 
-        To know more on how to create policy using different [[adaptive-auth-filter-criteria|filter criteria]] using [[adaptive-authentication|Adaptive Authentication]] policy creation, see [Filter criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/adaptive-auth-filter-criteria.md).
+        To know more on how to create policy using different filter criteria using Adaptive Authentication policy creation, see [Filter criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/adaptive-auth-filter-criteria.md).
 
     4.  Choose Action as Remove Roles.
 
@@ -67,17 +67,10 @@ The following procedure shows steps to configure the IDP attribute from the SAML
 
         Based on this configuration, when the risk score attribute value from the Okta \(IDP\) beyond 80, the user isn’t authenticated with the roles \(**employee**\) and its child roles that were removed to the instance, the user is only authenticated with other roles assigned. If the risk score is from 60 through 80, the user is authenticated to the instance with all the roles.
 
-        For more information on how to create Post [[c_Authentication|Authentication]] Context's Policy with Policy inputs and Condition, see [Post-authentication context](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/post-auth-context.md).
+        For more information on how to create Post Authentication Context's Policy with Policy inputs and Condition, see [Post-authentication context](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/post-auth-context.md).
 
         **Note:** If the **Enable Session Access** property is inactive, then the configuration for Session Access doesn’t restrict or remove the roles of the user.
 
     6.  Select **Submit**.
 
-## Related
 
-- [[identity-landing|Identity]]
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[sc-configuration|Configuration]]
-- [[adaptive-auth-filter-criteria|Filter criteria]]
-- [[adaptive-authentication|Adaptive authentication]]
-- [[c_Authentication|Authentication]]

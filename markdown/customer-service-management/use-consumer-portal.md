@@ -62,7 +62,7 @@ My hub
 
 </td><td>
 
-Manage products, [[install-base-item|install base items]] and household members.
+Manage products, install base items and household members.
 
 </td></tr><tr><td>
 
@@ -95,7 +95,7 @@ Tours
 
 </td><td>
 
-View a tour for additional guidance on how the [[c_CustomerServiceManagement|Customer Service Management]] application works. **Note:** Your administrator determines whether tours appear on pages or not.
+View a tour for additional guidance on how the Customer Service Management application works. **Note:** Your administrator determines whether tours appear on pages or not.
 
 </td></tr><tr><td>
 
@@ -171,7 +171,3 @@ To customize this portal, navigate to **Service Portal** &gt; **Portals** and se
 
 [Usage calculation of self-service experiences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-## Related
-
-- [[install-base-item|Install base items]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

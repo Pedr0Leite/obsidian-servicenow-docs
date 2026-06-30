@@ -14,7 +14,7 @@ breadcrumb: [Setting up the integration between Microsoft Azure DevOps and Agile
 
 # Import work items from Azure DevOps to Agile Development 2.0
 
-Import work items and iterations of an Azure DevOps project into [[agile-development|Agile Development]] to track and update the status of your work.
+Import work items and iterations of an Azure DevOps project into Agile Development to track and update the status of your work.
 
 ## Before you begin
 
@@ -57,7 +57,7 @@ Import work items and iterations of an Azure DevOps project into [[agile-develop
         |Future|Draft|
         |Current|Current|
 
-    -   Sprints are not created in [[agile-landing-page|Agile Development 2.0]] for the following conditions:
+    -   Sprints are not created in Agile Development 2.0 for the following conditions:
         -   If the date fields of the iteration in Azure DevOps are empty.
         -   If the iteration has a child iteration associated to it.
         -   If the sprints have overlapping dates.
@@ -71,7 +71,3 @@ Import work items and iterations of an Azure DevOps project into [[agile-develop
 
 **Parent Topic:**[Setting up the integration between Microsoft Azure DevOps and Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/microsoft-azure-devops-integrations-comm/setting-up-agile-azure-integration.md)
 
-## Related
-
-- [[agile-development|Agile Development]]
-- [[agile-landing-page|Agile Development 2.0]]

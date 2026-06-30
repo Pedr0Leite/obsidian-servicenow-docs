@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to the [[users-page|Users page]].
+1.  Navigate to the Users page.
 
 2.  Select the user account that you want to modify.
 
@@ -30,6 +30,4 @@ Role required: admin
 
 5.  Select **Save**.
 
-## Related
 
-- [[users-page|Users page]]

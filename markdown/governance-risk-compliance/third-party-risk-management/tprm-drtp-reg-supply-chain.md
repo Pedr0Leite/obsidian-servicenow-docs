@@ -25,7 +25,7 @@ Role required: sn\_vdr\_risk\_asmt.vendor\_assessor
 
 Rank 1 ICT service supply chain records are generated automatically when you save a Contractual Arrangements – Specific Information record. The Type of ICT services value on the Specific Information record determines which supply chain records are created. If you update that value, the Rank 1 supply chain records update automatically. If you remove a value, the corresponding Rank 1 and higher supply chain records are deleted automatically. Use this task to create Rank 2 and higher supply chain records manually, or to view and edit existing supply chain records. For more information, see [Create a contract and enhance digital resilience data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-drtp-reg-contract.md).
 
-LEI codes on supply chain records are validated against the GLEIF database during Register of Information reporting. For more information, see [Validate Legal Entity Identifier codes for DORA reporting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-valid-lei.md). To [[opres-drtp-gen-roi-pkg|generate a Register of Information package]], see [Generate a register of information package](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-drtp-roi-packages.md).
+LEI codes on supply chain records are validated against the GLEIF database during Register of Information reporting. For more information, see [Validate Legal Entity Identifier codes for DORA reporting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-valid-lei.md). To generate a Register of Information package, see [Generate a register of information package](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-drtp-roi-packages.md).
 
 ## Procedure
 
@@ -79,6 +79,3 @@ LEI codes on supply chain records are validated against the GLEIF database durin
 
 [Validate Legal Entity Identifier codes for DORA reporting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-valid-lei.md)
 
-## Related
-
-- [[opres-drtp-gen-roi-pkg|Generate a Register of Information package]]

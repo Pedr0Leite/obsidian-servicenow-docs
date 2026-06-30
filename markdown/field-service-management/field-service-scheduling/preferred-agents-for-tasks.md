@@ -16,10 +16,10 @@ breadcrumb: [Assigning tasks using Dynamic Scheduling, Scheduling and dispatchin
 
 Preferred agents are agents who are most familiar with the context of tasks they've been assigned and are preferred by customers. For example, they could be agents who work on-site at a customer premise or are associated with the customer contracts or entitlements.
 
-You can assign preferred agents to tasks using [[dynamic-scheduling|dynamic scheduling]] when you assign tasks using any of the following methods:
+You can assign preferred agents to tasks using dynamic scheduling when you assign tasks using any of the following methods:
 
 -   Auto-assign using agent recommendation
--   Book an appointment using [[appointment-booking|Appointment Booking]]
+-   Book an appointment using Appointment Booking
 
 Here are a few scenarios on how tasks can get assigned to preferred agents.
 
@@ -68,7 +68,7 @@ This example shows how tasks that are high priority can get assigned to preferre
 
 **Note:** Lisa Ray is logged in as a dispatcher.
 
-1.  Navigate to **Field Service** &gt; **Dispatching** &gt; **[[dispatcher-activities|Dispatcher Workspace]]**
+1.  Navigate to **Field Service** &gt; **Dispatching** &gt; **Dispatcher Workspace**
 2.  Locate a task for Acme Corporation that must be assigned to a preferred technician. Let's say Mona Lisa is the preferred technician available to work on this task.
 3.  Drag the task and drop it to Mona Lisa's schedule in the calendar. The task has now been scheduled.
 4.  Now, a high-priority task from Acme Corporation enters the task queue. This task must be assigned to the same preferred agent Mona Lisa and has to be scheduled at the same time when the previous task was scheduled.
@@ -90,8 +90,3 @@ This example shows how when a customer books an appointment, it’s automaticall
 
 For more information on adding a preferred agent to a work order task see, [Set technician preferences for tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/assign-preferred-agents-tasks.md).
 
-## Related
-
-- [[dynamic-scheduling|Dynamic scheduling]]
-- [[appointment-booking|Appointment booking]]
-- [[dispatcher-activities|Dispatcher Workspace]]

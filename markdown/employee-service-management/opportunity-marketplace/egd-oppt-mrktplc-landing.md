@@ -18,7 +18,7 @@ Opportunity Marketplace enhances career mobility. It provides employees an intui
 
 Opportunity Marketplace enables the creation, posting, and tracking of several types of opportunities. Base system opportunities include:
 
--   **[[egd-oppt-mrktplc-internal-job|Internal jobs]]**
+-   **Internal jobs**
 -   **Projects**
 -   **Gigs**
 -   **Volunteer**
@@ -35,7 +35,7 @@ You can also create custom opportunities. For more details about custom opportun
 
 </td><td>
 
-[Using\[Omitted image "bus-explore-careers.svg"\] Alt text: Talent Development Users access OPM from the [[employee-center-landing-page|Employee Center]] portal to view, manage, and track job opportunities.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/opportunity-marketplace/egd-oppt-mrktplc-using.md)
+[Using\[Omitted image "bus-explore-careers.svg"\] Alt text: Talent Development Users access OPM from the Employee Center portal to view, manage, and track job opportunities.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/opportunity-marketplace/egd-oppt-mrktplc-using.md)
 
 </td></tr><tr><td>
 
@@ -51,8 +51,3 @@ You can also create custom opportunities. For more details about custom opportun
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[egd-oppt-mrktplc-internal-job|Internal jobs]]
-- [[employee-center-landing-page|Employee Center]]

@@ -14,7 +14,7 @@ breadcrumb: [Alert management rules for resolving alerts, Manage and monitor ale
 
 # Create an alert management rule
 
-Create an alert management rule to track alerts and resolve them by determining the required response, for example, to open an incident or launch [[ccg-remediation|remediation]] action.
+Create an alert management rule to track alerts and resolve them by determining the required response, for example, to open an incident or launch remediation action.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: evt\_mgmt\_admin, flow\_designer
 
 Use alert management rules to track and resolve alerts.
 
-To automate alert responses with an easier interface, you can also create a respond automation in [[workspace-dashboard-use|Service Operations Workspace]]. For more information, see [Create Respond automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/respond-alert-sow-itom.md).
+To automate alert responses with an easier interface, you can also create a respond automation in Service Operations Workspace. For more information, see [Create Respond automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/respond-alert-sow-itom.md).
 
 While working in the alert management rule designer, you can work in multiple sections without losing information in any section.
 
@@ -45,7 +45,7 @@ Alert management rules do not necessarily complete in the order in which they ar
 You can configure alert management rules to:
 
 -   Automatically generate and link incidents, tasks, or knowledge articles to alerts.
--   Automatically apply a remediation workflow or enable users to manually [[ccg-run-remediation|run remediation]].
+-   Automatically apply a remediation workflow or enable users to manually run remediation.
 -   Automatically construct a URL according to the value of specified fields in the alert.
 
 To assist you, several alert management rules are provided with the base system. You can use them as presented or you can use them as examples to build custom alert management rules.
@@ -76,7 +76,7 @@ Yes
 
 </td></tr><tr><td>
 
-Oracle EM Launch Target Status and [[t_EMManageEvent|View Events]]
+Oracle EM Launch Target Status and View Events
 
 </td><td>
 
@@ -178,7 +178,7 @@ Alert management rules run 5 seconds after an alert is updated, resetting the ti
 
 ## Procedure
 
-1.  Navigate to **[[c_EM|Event Management]]** &gt; **Rules** &gt; **Alert Management Rules**.
+1.  Navigate to **Event Management** &gt; **Rules** &gt; **Alert Management Rules**.
 
 2.  Click **New** and then fill in the fields.
 
@@ -370,10 +370,3 @@ The alert management rule is added to the list of available rules that can be us
 
 [Apply a quick response in an alert](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/apply-quick-response-in-alert.md)
 
-## Related
-
-- [[ccg-remediation|Remediation]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[ccg-run-remediation|Run remediation]]
-- [[t_EMManageEvent|View events]]
-- [[c_EM|Event Management]]

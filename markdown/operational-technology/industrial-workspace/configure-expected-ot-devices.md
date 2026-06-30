@@ -24,7 +24,7 @@ Role required: ot\_progress\_scorecard\_editor and cmdb\_ot\_isa\_viewer with si
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]] Admin** &gt; **OT Progress Scorecard Attributes**.
+1.  Navigate to **All** &gt; **Industrial Workspace Admin** &gt; **OT Progress Scorecard Attributes**.
 
 2.  If you need to create a record with your site, complete these actions.
 
@@ -46,6 +46,3 @@ Role required: ot\_progress\_scorecard\_editor and cmdb\_ot\_isa\_viewer with si
 
 **Parent Topic:**[Setting up the Operational Technology Progress Scorecard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/setting-up-the-ot-progress-scorecard.md)
 
-## Related
-
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

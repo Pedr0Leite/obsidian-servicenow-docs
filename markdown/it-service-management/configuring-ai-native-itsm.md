@@ -18,7 +18,7 @@ Configure your ITSM workflows using an AI-first, centralized, and intuitive admi
 ## Configuration overview
 
 1.  Ensure that the Setup Hub application is installed on ServiceNow instance. See [Set up Now Assist with Setup Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-setup-now-assist.md).
-2.  Based on your subscription, one of the following relevant ITSM [[dex-workspace-application-tab|applications]] should be auto-installed. If not auto-installed, request for the entitlement of the required application from  and install it. See [[install-native-ai-itsm|Install IT Service Management]].
+2.  Based on your subscription, one of the following relevant ITSM applications should be auto-installed. If not auto-installed, request for the entitlement of the required application from  and install it. See [Install IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/install-native-ai-itsm.md).
 
 <table><thead><tr><th>
 
@@ -30,13 +30,13 @@ Features
 
 </th></tr></thead><tbody><tr><td>
 
-[[r_ITServiceManagement|IT Service Management]] \(sn\_ai\_itsm\_cont\)
+IT Service Management \(sn\_ai\_itsm\_cont\)
 
 </td><td>
 
--   Access to basic ITSM workflows, that is, [[c_IncidentManagement|Incident Management]] and [[c_RequestManagement|Request Management]]
+-   Access to basic ITSM workflows, that is, Incident Management and Request Management
 -   Single-click install and single-click upgrade option to apply default configurations for these workflows
--   Seamless experience to configure these workflows further. See [[configure-ai-native-itsm|Configure integrations and ITSM experiences in Simplified IT Service Management]].
+-   Seamless experience to configure these workflows further. See [Configure integrations and ITSM experiences in Simplified IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/configure-ai-native-itsm.md).
 
 
 </td></tr><tr><td>
@@ -45,7 +45,7 @@ IT Service Management Advanced \(sn\_itsm\_adv\_cont\)
 
 </td><td>
 
--   Access to advanced ITSM workflows such as [[c_ITILChangeManagement|Change Management]], [[c_ProblemManagement|Problem Management]], Major Incident Management, [[c_OnCallScheduling|On-Call Scheduling]], and [[walkup-experience-landing-page|Walk-up Experience]]
+-   Access to advanced ITSM workflows such as Change Management, Problem Management, Major Incident Management, On-Call Scheduling, and Walk-up Experience
 -   Single-click install and single-click upgrade option to apply default configurations for these workflows
 -   Seamless experience to configure Change Management workflow further. See [Configure integrations and ITSM experiences in Simplified IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/configure-ai-native-itsm.md).
 -   Redirection to Service Operations Workspace Admin Center to configure advanced ITSM workflows
@@ -56,7 +56,7 @@ IT Service Management Advanced \(sn\_itsm\_adv\_cont\)
 
     For configuration information, see [Configure integrations and ITSM experiences in Simplified IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/configure-ai-native-itsm.md).
 
-    For information about available AI agents, see [[agents-ai-native-it-service-desk|AI agents and agentic workflows in Simplified IT Service Management]].
+    For information about available AI agents, see [AI agents and agentic workflows in Simplified IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/agents-ai-native-it-service-desk.md).
 
 
 -   **[Install IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/install-native-ai-itsm.md)**  
@@ -64,19 +64,5 @@ Set up and get started with IT Service Management \(ITSM\) on your instance.
 -   **[Configure integrations and ITSM experiences in Simplified IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/configure-ai-native-itsm.md)**  
 Enable ITSM requester and fulfiller experiences by completing the essential configurations.
 
-**Parent Topic:**[[ai-native-it-service-desk-landing-page|Simplified IT Service Management]]
+**Parent Topic:**[Simplified IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/ai-native-it-service-desk-landing-page.md)
 
-## Related
-
-- [[install-native-ai-itsm|Install IT Service Management]]
-- [[configure-ai-native-itsm|Configure integrations and ITSM experiences in Simplified IT Service Management]]
-- [[agents-ai-native-it-service-desk|AI agents and agentic workflows in Simplified IT Service Management]]
-- [[ai-native-it-service-desk-landing-page|Simplified IT Service Management]]
-- [[dex-workspace-application-tab|Applications]]
-- [[r_ITServiceManagement|IT Service Management]]
-- [[c_IncidentManagement|Incident Management]]
-- [[c_RequestManagement|Request Management]]
-- [[c_ITILChangeManagement|Change Management]]
-- [[c_ProblemManagement|Problem Management]]
-- [[c_OnCallScheduling|On-Call Scheduling]]
-- [[walkup-experience-landing-page|Walk-up Experience]]

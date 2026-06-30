@@ -20,7 +20,7 @@ Complimentary Performance Analytics for Incident Management is a limited version
 
 Complimentary Performance Analytics for Incident Management has the following features and limitations:
 
--   Includes the [[pa-admin-console|Performance Analytics Admin Console]], which you can use to activate the full set of Performance Analytics features.
+-   Includes the Performance Analytics Admin Console, which you can use to activate the full set of Performance Analytics features.
 -   Indicators cannot be added or deleted
 -   A maximum of 180 days of historic scores are visualized, counting from today's date.
 -   Is usable only in the global domain
@@ -34,6 +34,3 @@ Complimentary Performance Analytics for Incident Management has the following fe
 
 [Ranking records with Spotlight](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/spotlight/spotlight.md)
 
-## Related
-
-- [[pa-admin-console|Performance Analytics Admin Console]]

@@ -25,7 +25,7 @@ Role required: sn\_itom\_cam.cw\_admin
 
 1.  Navigate to **All** &gt; **Cloud Workspace** &gt; **View accounts**.
 
-2.  Under **All [[cloud-accounts|cloud accounts]]**, select an account.
+2.  Under **All cloud accounts**, select an account.
 
     The **Overview** tab displays General details, Ownership details, and Certification details.
 
@@ -68,6 +68,4 @@ Role required: sn\_itom\_cam.cw\_admin
 
 6.  Select the Save icon \(\[Omitted image "save-icon-workspace.png"\] Alt text: save icon\).
 
-## Related
 
-- [[cloud-accounts|Cloud accounts]]

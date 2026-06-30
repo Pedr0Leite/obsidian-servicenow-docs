@@ -24,7 +24,7 @@ Role required: sn\_cti\_core.user\_manager
 
 When an agent interacts with an external caller, the call gets recorded and transcribed. The application tags every statement within a transcript with a sentiment score. After a call has been completed, a sentiment report is automatically generated.
 
-**Note:** The manager must have an active session with Amazon Connect to view the transcripts and sentiments. The transcripts and sentiments are generated in the Amazon Connect application. They are then displayed in the Channels application in [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]].
+**Note:** The manager must have an active session with Amazon Connect to view the transcripts and sentiments. The transcripts and sentiments are generated in the Amazon Connect application. They are then displayed in the Channels application in Workforce Optimization for ITSM.
 
 ## Procedure
 
@@ -66,7 +66,7 @@ Do this
 
 </td></tr><tr><td id="d67405e160">
 
-**From [[cf-coaching-landing|Coaching]]**
+**From Coaching**
 
 </td><td>
 
@@ -84,7 +84,3 @@ Do this
 
 **Parent Topic:**[Using Voice with Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/voice-configurable-wfo-itsm.md)
 
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]
-- [[cf-coaching-landing|Coaching]]

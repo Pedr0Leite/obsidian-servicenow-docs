@@ -29,13 +29,13 @@ For free-form roadmaps, milestones are supported only if the source table is Pla
 
 **Important:**
 
-You can’t add a project milestone from the roadmap view. Creating or updating project milestones may impact the associated project plans. So, it’s recommended to create or update project milestones using [[project-workspace-landing-page|Project Workspace]] in [[c_ProjectPortfolioSuite|Project Portfolio Management]] \(PPM\).
+You can’t add a project milestone from the roadmap view. Creating or updating project milestones may impact the associated project plans. So, it’s recommended to create or update project milestones using Project Workspace in Project Portfolio Management \(PPM\).
 
 However, any existing milestones of the project are visible on the roadmap if you've [integrated Strategic Planning with PPM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/configuring-apw-with-agile-safe-and-ppm.md).
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]]** and open your roadmap.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Portfolio Planning** and open your roadmap.
 
 <table id="choicetable_vwv_t4z_5wb"><thead><tr><th align="left" id="d262751e139">
 
@@ -88,9 +88,3 @@ From the Free-form Roadmaps tab, select a roadmap.
 
 [Customizing milestones display on roadmap in Strategic Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/personalizing-the-milestones-display-on-the-roadmap.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

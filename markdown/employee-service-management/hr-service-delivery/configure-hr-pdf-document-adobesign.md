@@ -26,7 +26,7 @@ You can use an existing or create an HR PDF document template. You can add signe
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **[[document-templates-overview|Document Templates]]**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **Document Templates**.
 
 2.  Click **New** or open a record.
 
@@ -96,7 +96,7 @@ Select the adhoc template to use.
 
 </td></tr><tr><td>
 
-[[hr-criteria|HR criteria]]
+HR criteria
 
 </td><td>
 
@@ -127,8 +127,3 @@ Defines the conditions that the subject person of an HR case must meet for an HR
 
 **Parent Topic:**[Integrating with the Adobe Sign service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/integrating-with-adobe-sign-service.md)
 
-## Related
-
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[document-templates-overview|Document Templates]]
-- [[hr-criteria|HR criteria]]

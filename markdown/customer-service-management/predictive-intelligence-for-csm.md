@@ -12,11 +12,11 @@ breadcrumb: [Machine learning solutions, Implement Intelligence, Configure, Cust
 
 # Predictive Intelligence for CSM solution definitions
 
-Use your instance records to build [[c_CustomerServiceManagement|Customer Service Management]] specific solutions.
+Use your instance records to build Customer Service Management specific solutions.
 
 ## Solution definitions
 
-These solution definitions are available as templates on instances where both Predictive [[intelligence-csm|Intelligence]] and Customer Service Management are active. Create your own solution definition records to customize the behavior.
+These solution definitions are available as templates on instances where both Predictive Intelligence and Customer Service Management are active. Create your own solution definition records to customize the behavior.
 
 <table id="table_bdh_nzs_kbb"><thead><tr><th>
 
@@ -149,10 +149,10 @@ Similarity
 
 </td><td>
 
-Recommends similar knowledge articles by comparing fields in the Knowledge View database view \[sn\_customerservice\_knowledge\_view\] with the **Short description** of the customer service case. **Note:** This solution definition is used in the Auto-Responder feature. For more information, see [[train-sol-defn-auto-responder|Train the similarity solution for finding Auto-Responder notification content]].
+Recommends similar knowledge articles by comparing fields in the Knowledge View database view \[sn\_customerservice\_knowledge\_view\] with the **Short description** of the customer service case. **Note:** This solution definition is used in the Auto-Responder feature. For more information, see [Train the similarity solution for finding Auto-Responder notification content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/train-sol-defn-auto-responder.md).
 
 </td></tr></tbody>
-</table>## Business [[gamification-components-rules|rules]] for classification solutions
+</table>## Business rules for classification solutions
 
 These business rules apply only to the CSM Case Assignment, CSM Case Categorization, and CSM Case Prioritization solution definitions. The rules are available only on instances where both Predictive Intelligence and Customer Service Management are active. Create your own business rules on the Case \[sn\_customerservice\_case\] table to customize prediction and reporting behaviors.
 
@@ -172,18 +172,10 @@ If your instance is running on the Kingston release and you are upgrading to the
 
 **Maintaining prediction accuracy**
 
-You can manage prediction drift by retraining, modifying, or creating solutions to reflect changes in your business conditions. Test and modify your business rule over time to verify it works as desired across multiple consumption [[gamification-components-points|points]] and user personas.
+You can manage prediction drift by retraining, modifying, or creating solutions to reflect changes in your business conditions. Test and modify your business rule over time to verify it works as desired across multiple consumption points and user personas.
 
 **Related topics**  
 
 
-[[customer-service-similar-cases|Similar case/recommendation]]
+[Similar case/recommendation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-similar-cases.md)
 
-## Related
-
-- [[train-sol-defn-auto-responder|Train the similarity solution for finding Auto-Responder notification content]]
-- [[customer-service-similar-cases|Similar case recommendations]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[intelligence-csm|Intelligence]]
-- [[gamification-components-rules|Rules]]
-- [[gamification-components-points|Points]]

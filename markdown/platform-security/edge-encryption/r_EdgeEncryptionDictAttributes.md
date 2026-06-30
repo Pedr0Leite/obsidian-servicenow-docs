@@ -14,13 +14,13 @@ breadcrumb: [Configuring Edge Encryption, Edge Encryption, Encryption]
 
 # Edge Encryption dictionary attributes
 
-Add dictionary attributes to tables and fields to control how they work with [[edge-encryption|Edge Encryption]].
+Add dictionary attributes to tables and fields to control how they work with Edge Encryption.
 
 To set a dictionary attribute to true, you must enter `attribute=true` in the **Attributes** field. To add a dictionary attribute to a record, see [Altering tables and fields using dictionary attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_DictionaryAttributes.md).
 
 -   **Edge Encryption Excluded \[edge\_encryption\_excluded\]**
 
-    Determines whether the field is excluded from [[encryption-landing|encryption]].
+    Determines whether the field is excluded from encryption.
 
     When set to `true`, the field or table can’t be encrypted. When set to `false`, the field can be encrypted.
 
@@ -29,7 +29,7 @@ To set a dictionary attribute to true, you must enter `attribute=true` in the **
     -   Default value: false
 -   **Edge Encryption Enabled \[edge\_encryption\_enabled\]**
 
-    Determines whether the field is eligible for encryption through an encryption [[sc-configuration|configuration]].
+    Determines whether the field is eligible for encryption through an encryption configuration.
 
     When set to `true`, the field is eligible for encryption. When set to `false`, the field isn't eligible for encryption. Because this attribute is used by the system and can’t be modified, it isn’t displayed to the user.
 
@@ -50,8 +50,3 @@ To set a dictionary attribute to true, you must enter `attribute=true` in the **
 
 **Parent Topic:**[Configuring Edge Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/edge-config.md)
 
-## Related
-
-- [[edge-encryption|Edge Encryption]]
-- [[encryption-landing|Encryption]]
-- [[sc-configuration|Configuration]]

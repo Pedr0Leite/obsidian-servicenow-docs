@@ -14,7 +14,7 @@ breadcrumb: [Using Knowledge Management, Knowledge Management, Manage content ca
 
 # Import a Word document to a knowledge base
 
-Import a Word document to [[create-knowledge-article|create a knowledge article]].
+Import a Word document to create a knowledge article.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: knowledge
 
 ## About this task
 
-Beginning with Madrid, the Import a Word document feature is enabled by default and the Import Articles module is displayed in the application navigator. All existing customers will be able to use the **Import Articles** option on the [[knowledge-management|Knowledge Management]] v3 homepage. For customers who are in versions prior to Madrid can enable the Import a Word document feature, an administrator must first disable the **Import Articles** option on the Knowledge Management v3 homepage by setting the **glide.knowman.import.hide\_import\_functionality** property to true and adding the Import Articles module to the application navigator.
+Beginning with Madrid, the Import a Word document feature is enabled by default and the Import Articles module is displayed in the application navigator. All existing customers will be able to use the **Import Articles** option on the Knowledge Management v3 homepage. For customers who are in versions prior to Madrid can enable the Import a Word document feature, an administrator must first disable the **Import Articles** option on the Knowledge Management v3 homepage by setting the **glide.knowman.import.hide\_import\_functionality** property to true and adding the Import Articles module to the application navigator.
 
 These styles and elements are preserved when importing a .doc or .docx file into a knowledge base. Styles and elements not included in this list may not be preserved when importing a document.
 
@@ -64,7 +64,7 @@ Starting with the Washington DC release, the Knowledge Management v3 homepage \(
 
     **Note:** Use the category picker to add a category. The picker does not differentiate between the different category levels. You can select a category or sub category and add it to the **Category** field.
 
-4.  Select the **Publish** [[check-box|check box]] to start the publishing workflow for each imported article immediately after the import finishes.
+4.  Select the **Publish** check box to start the publishing workflow for each imported article immediately after the import finishes.
 
     **Note:** The **Publish** check box appears only when the **Show publish checkbox on the knowledge import pop-up** property is enabled. To enable the property, navigate to **Knowledge** &gt; **Administration** &gt; **Properties** and select the check box for the **Show publish checkbox on the knowledge import pop-up** property.
 
@@ -90,8 +90,3 @@ Starting with the Washington DC release, the Knowledge Management v3 homepage \(
 
 [Import a Word document to a knowledge base using Knowledge Management V3](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/t_ImportADocument.md)
 
-## Related
-
-- [[create-knowledge-article|Create a knowledge article]]
-- [[knowledge-management|Knowledge Management]]
-- [[check-box|Check box]]

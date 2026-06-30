@@ -14,7 +14,7 @@ breadcrumb: [CI class recommendations, Use Data Foundations advisor, CMDB succes
 
 # Create the principal class recommendation criteria property
 
-Create the **sn\_cmdb\_advisor.principal\_class\_recommendation\_criteria** system property to filter which CI classes [[cmdb-sa|CMDB success advisor]] considers when generating principal class recommendations for the Data Foundations advisor.
+Create the **sn\_cmdb\_advisor.principal\_class\_recommendation\_criteria** system property to filter which CI classes CMDB success advisor considers when generating principal class recommendations for the Data Foundations advisor.
 
 ## Before you begin
 
@@ -81,6 +81,3 @@ CMDB success advisor uses the predefined set of CI classes as recommendations on
 
 [Principal classes in CMDB success advisor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sa-principal-class.md)
 
-## Related
-
-- [[cmdb-sa|CMDB success advisor]]

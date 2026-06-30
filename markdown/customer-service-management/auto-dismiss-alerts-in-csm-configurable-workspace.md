@@ -12,7 +12,7 @@ breadcrumb: [Set up CSM Configurable Workspace, CSM Configurable Workspace, Orga
 
 # Auto-dismiss alerts in CSM Configurable Workspace
 
-In [[csm-workspaces-configure|CSM Configurable Workspace]], alerts automatically dismiss after a set time to reduce alert fatigue and help agents stay focused. By default, Info, Low, and Moderate alerts dismiss after 5 seconds, while Critical and High alerts remain persistent until manually dismissed. Admins can customize the auto-dismiss behavior and timer duration for each alert level.
+In CSM Configurable Workspace, alerts automatically dismiss after a set time to reduce alert fatigue and help agents stay focused. By default, Info, Low, and Moderate alerts dismiss after 5 seconds, while Critical and High alerts remain persistent until manually dismissed. Admins can customize the auto-dismiss behavior and timer duration for each alert level.
 
 Admins can configure auto-dismiss alert behavior at the experience level either using UI Builder or UX Page Properties. This configuration provides control over timer duration and display options. Agents view alerts based on the configuration created by the admin.
 
@@ -88,6 +88,3 @@ Shows a visible countdown before the alert disappears. Set to true.
 </td></tr></tbody>
 </table>5.  Select **Save**.
 
-## Related
-
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

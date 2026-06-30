@@ -16,7 +16,7 @@ With the 360-degree view of a patient in Workspace, you can access the patient d
 
 **Important:**
 
-Starting with the Yokohama release, [[pre-visit-mgmt-app|Pre-Visit Management]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+Starting with the Yokohama release, Pre-Visit Management is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base.
 
@@ -154,7 +154,3 @@ Contextual side panel used for searching for cases. By default, the available se
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[pre-visit-mgmt-app|Pre-Visit Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Forms, Reference, Next Experience for Demand Management in Strategi
 
 # Risk value lookup form
 
-The [[risk-value-lookup-form-ppw|risk value lookup form]] information is used to rate the impact and probability of a risk.
+The risk value lookup form information is used to rate the impact and probability of a risk.
 
 <table><thead><tr><th>
 
@@ -60,7 +60,7 @@ Risk Value
 
 The value for the specified risk impact and probability combination.The available values are High, Medium, and Low.
 
-This value is displayed in the **Risk value** field of the [[risk-form|Risk form]].
+This value is displayed in the **Risk value** field of the Risk form.
 
 </td></tr><tr><td>
 
@@ -85,8 +85,3 @@ Numerical value to indicate the probability of the risk. This value is multiplie
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[risk-value-lookup-form-ppw|Risk value lookup form]]
-- [[risk-form|Risk form]]

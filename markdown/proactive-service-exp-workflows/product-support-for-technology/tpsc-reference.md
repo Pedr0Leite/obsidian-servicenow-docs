@@ -14,13 +14,10 @@ breadcrumb: [Technology Product Support Case, Product Support for Technology]
 
 # Technology Product Support Case reference
 
-Reference topics provide additional information about the [[tpsc-landing-page|Technology Product Support Case]] feature.
+Reference topics provide additional information about the Technology Product Support Case feature.
 
 -   **[Tech Product Support Case table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/tech-product-support-case-table.md)**  
 The Technology Product Support Case application adds the Tech Product Support Case \(sn\_tech\_product\_support\_case\) table.
 
 **Parent Topic:**[Technology Product Support Case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/tpsc-landing-page.md)
 
-## Related
-
-- [[tpsc-landing-page|Technology Product Support Case]]

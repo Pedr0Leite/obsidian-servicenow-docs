@@ -14,22 +14,16 @@ breadcrumb: [Security metrics, Security monitoring console, Security Center, Pla
 
 # Active Sessions
 
-View the trend line of the active [[users|users]] on the ServiceNow AI Platform.
+View the trend line of the active users on the ServiceNow AI Platform.
 
-This page displays cards with information on [[ca-metrics|metrics]] related to active sessions. Each card displays a trend line for the following metrics:
+This page displays cards with information on metrics related to active sessions. Each card displays a trend line for the following metrics:
 
 -   User sessions: Metrics related to active user sessions on your instance.
--   Privileged user sessions: Metrics related to [[privileged-users|privileged users]] or those who have been assigned additional roles.
+-   Privileged user sessions: Metrics related to privileged users or those who have been assigned additional roles.
 
 Select the cards to view the individual metrics page with additional details.
 
-Select the **+Create task** button to create a Security Task related to a metric. For details on [[security-task-manager|Security Tasks]], see [Security Tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/security-task-manager.md).
+Select the **+Create task** button to create a Security Task related to a metric. For details on Security Tasks, see [Security Tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/security-task-manager.md).
 
 **Parent Topic:**[Security metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sc-metrics.md)
 
-## Related
-
-- [[users|Users]]
-- [[ca-metrics|Metrics]]
-- [[privileged-users|Privileged Users]]
-- [[security-task-manager|Security Tasks]]

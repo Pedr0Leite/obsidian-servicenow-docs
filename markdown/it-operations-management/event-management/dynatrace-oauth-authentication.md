@@ -14,7 +14,7 @@ breadcrumb: [Integrate Dynatrace platform events, Integrate with push connectors
 
 # Integrate Dynatrace with OAuth authentication
 
-Integrate Dynatrace with [[c_EM|Event Management]] by authenticating Dynatrace V1 or V2 tokens in the Dynatrace Monitor.
+Integrate Dynatrace with Event Management by authenticating Dynatrace V1 or V2 tokens in the Dynatrace Monitor.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Ensure that the Event Management Connectors \(sn\_em\_connector\) plugin is inst
 
 The Event Management plugin must be installed on the ServiceNow AI Platform instance.
 
-Verify Configuration Items for the hosts managed by Dynatrace exist in ServiceNow. These CIs can be physical or virtual, and can be either manually created or discovered using IP [[r-discovery|discovery]] or Cloud discovery.
+Verify Configuration Items for the hosts managed by Dynatrace exist in ServiceNow. These CIs can be physical or virtual, and can be either manually created or discovered using IP discovery or Cloud discovery.
 
 Role required: evt\_mgmt\_integration
 
@@ -97,10 +97,5 @@ Dynatrace integration with OAuth authentication is available starting from the W
 
 Alerts start flowing from Dynatrace agents into the Event Management plugin. The plugin extracts information from the original Dynatrace alert message to populate the required event fields and inserts the event into the database. In your ServiceNow AI Platform instance, navigate to All Events to see the events.
 
-**Note:** By default, host binding is enabled for Dynatrace events for \(AWS/Azure/GCP\) providers. If all hosts in the environment are discovered using Cloud Discovery by providing credentials and discovered resources are in the cmdb\_ci\_vm\_object list, then the VM binding may not occur. To resolve this, you must enable the Dynatrace - General event rule. For further information about [[create-event-rules|Event rules]], see [Event rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/create-event-rules.md).
+**Note:** By default, host binding is enabled for Dynatrace events for \(AWS/Azure/GCP\) providers. If all hosts in the environment are discovered using Cloud Discovery by providing credentials and discovered resources are in the cmdb\_ci\_vm\_object list, then the VM binding may not occur. To resolve this, you must enable the Dynatrace - General event rule. For further information about Event rules, see [Event rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/create-event-rules.md).
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[r-discovery|Discovery]]
-- [[create-event-rules|Event rules]]

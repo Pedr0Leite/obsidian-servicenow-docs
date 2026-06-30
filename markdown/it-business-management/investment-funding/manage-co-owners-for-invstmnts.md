@@ -41,7 +41,7 @@ Steps
 
 </td><td>
 
-1.  Navigate to **All** &gt; **[[investment-funding-overview|Investment Funding]]** &gt; **Top level Investments**.
+1.  Navigate to **All** &gt; **Investment Funding** &gt; **Top level Investments**.
 2.  Click an investment tile.
 
 
@@ -67,6 +67,3 @@ Steps
 
 **Parent Topic:**[Co-owners for an investment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/investment-funding/co-owner-for-investments.md)
 
-## Related
-
-- [[investment-funding-overview|Investment Funding]]

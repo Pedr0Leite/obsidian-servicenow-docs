@@ -14,7 +14,7 @@ breadcrumb: [Using Software Asset Workspace, Software Asset Management, IT Asset
 
 # Import bulk entitlements in workspace
 
-You can import multiple entitlements at one go in the [[sam-workspace|Software Asset Workspace]].
+You can import multiple entitlements at one go in the Software Asset Workspace.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sam\_user or sam\_admin
 
 The entitlement import records are stored in the Entitlement import \[samp\_bulk\_import\] table. The **Publisher part number**, **Product**, and **Publisher** columns in the Entitlement import \[samp\_bulk\_import\] table offer drop-down lists for value selection.
 
-You can leverage the Activity center in the [[sam-workspace-landing|Software asset overview]] landing page to view import errors and the import status.
+You can leverage the Activity center in the Software asset overview landing page to view import errors and the import status.
 
 ## Procedure
 
@@ -38,13 +38,13 @@ You can leverage the Activity center in the [[sam-workspace-landing|Software ass
 
 4.  In the Create New Entitlement Import page, select **Download template** to download a spreadsheet template \(.xlsx\).
 
-    You can add [[software-entitlement-fields|software entitlement fields]] to the template to include additional fields in your import. Add each field as a new column in the template. The column name must match the field label exactly. Besides the Publisher, Product, Version, Edition, Platform and Language, the Install condition name column is also taken into account to find the correct software model while importing entitlements.
+    You can add software entitlement fields to the template to include additional fields in your import. Add each field as a new column in the template. The column name must match the field label exactly. Besides the Publisher, Product, Version, Edition, Platform and Language, the Install condition name column is also taken into account to find the correct software model while importing entitlements.
 
     You can include base system software entitlement fields as well as your custom software entitlement fields. Custom choice columns \(where the type is Choice\) created in the Asset \[alm\_asset\] or Software Entitlement \[alm\_license\] table are also supported.
 
-    **Note:** By default, the **Unit cost** column in the spreadsheet takes into account the currency that your system is set to. However you can manually change the currency and the [[c_SoftwareAssetMgmt|Software Asset Management]] application will honor the currency that you specify. To specify a currency, enter the currency code followed by a semicolon and the cost. For example, `EUR;200`. Valid currency codes are the ones listed in the Currency \[fix\_currency\] table and have the **Active** column set to true.
+    **Note:** By default, the **Unit cost** column in the spreadsheet takes into account the currency that your system is set to. However you can manually change the currency and the Software Asset Management application will honor the currency that you specify. To specify a currency, enter the currency code followed by a semicolon and the cost. For example, `EUR;200`. Valid currency codes are the ones listed in the Currency \[fix\_currency\] table and have the **Active** column set to true.
 
-    In the spreadsheet template, if the **Publisher Part Number** column doesn't have a value or the value is invalid and the **Publisher** and **Product** columns have valid values, then during the import process, a software model is automatically created. The source type **entitlement\_import** gets stamped to the automatically created software model. The system property com.snc.samp.smcreation\_on\_entitlement\_import is used to control the software model creation on entitlement import. If you don't want the [[duplicate-sw-models|automatic creation of software models]] during the import process, you can set this property to false.
+    In the spreadsheet template, if the **Publisher Part Number** column doesn't have a value or the value is invalid and the **Publisher** and **Product** columns have valid values, then during the import process, a software model is automatically created. The source type **entitlement\_import** gets stamped to the automatically created software model. The system property com.snc.samp.smcreation\_on\_entitlement\_import is used to control the software model creation on entitlement import. If you don't want the automatic creation of software models during the import process, you can set this property to false.
 
 5.  Enter the entitlement details in the template and select **Attach File** to upload the spreadsheet.
 
@@ -58,7 +58,7 @@ You can leverage the Activity center in the [[sam-workspace-landing|Software ass
 
 7.  Select the link in the confirmation message to check the status of the record.
 
-    The [[operations-workspace|License operations view]] appears displaying the entitlement record in the Entitlement Import page
+    The License operations view appears displaying the entitlement record in the Entitlement Import page
 
 8.  Open the entitlement record to view its details.
 
@@ -76,22 +76,12 @@ You can leverage the Activity center in the [[sam-workspace-landing|Software ass
 
     If an import error record doesn't have a software model but the **Publisher** and **Product** fields have valid values, then on selecting **Import**, a software model is automatically created and the status of the record changes to **Manually fixed**.
 
-    For a detailed description of the [[entitlement-import-error-fields|entitlement import error fields]], see [Entitlement import error fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/entitlement-import-error-fields.md)
+    For a detailed description of the entitlement import error fields, see [Entitlement import error fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/entitlement-import-error-fields.md)
 
 12. Correct the errors and select **Import**.
 
-    The entitlement is successfully created. Further processing of the entitlement continues such as validation of downgrade [[c_Models|models]] for the entitlement. For more information on resolving errors, see [Entitlement import error actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/import-software-rights-form.md).
+    The entitlement is successfully created. Further processing of the entitlement continues such as validation of downgrade models for the entitlement. For more information on resolving errors, see [Entitlement import error actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/import-software-rights-form.md).
 
 
 **Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/using-sam-workspace.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]
-- [[sam-workspace-landing|Software asset overview]]
-- [[software-entitlement-fields|Software entitlement fields]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[duplicate-sw-models|Automatic creation of software models]]
-- [[operations-workspace|License operations view]]
-- [[entitlement-import-error-fields|Entitlement import error fields]]
-- [[c_Models|Models]]

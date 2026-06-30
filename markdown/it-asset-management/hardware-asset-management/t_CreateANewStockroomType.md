@@ -14,7 +14,7 @@ breadcrumb: [Manage stockrooms, Use, Hardware Asset Management, IT Asset Managem
 
 # Create a new stockroom type
 
-If you need [[r_StockroomTypes|stockroom types]] that are not included in the base system, you can create a custom stockroom type.
+If you need stockroom types that are not included in the base system, you can create a custom stockroom type.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ Check the [priority level](https://raw.githubusercontent.com/ServiceNow/ServiceN
     |-----|-----------|
     |Name|Display name of the stockroom type.|
     |Description|General information about the stockroom type.|
-    |External stockroom|Whether [[c_Stockrooms|stockrooms]] of this type are managed internally \(check box cleared\) or managed externally by a third party \(check box selected\).|
+    |External stockroom|Whether stockrooms of this type are managed internally \(check box cleared\) or managed externally by a third party \(check box selected\).|
     |Priority|Level of precedence for this type of stockroom.|
     |Shipment required|Option that determines if stockrooms of this type require shipment by default.|
     |Value|Internal identifier of the stockroom type.|
@@ -42,7 +42,3 @@ Check the [priority level](https://raw.githubusercontent.com/ServiceNow/ServiceN
 
 **Parent Topic:**[Manage stockrooms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/manage-your-stockrooms.md)
 
-## Related
-
-- [[r_StockroomTypes|Stockroom types]]
-- [[c_Stockrooms|Stockrooms]]

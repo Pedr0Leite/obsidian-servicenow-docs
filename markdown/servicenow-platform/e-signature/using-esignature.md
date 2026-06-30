@@ -14,7 +14,7 @@ breadcrumb: [E-signature, Manage people and work capabilities, Extend ServiceNow
 
 # Using e-signature
 
-Users with the assigned [[e-signature|e-signature]] roles can create templates for documents that require an electronic signature.
+Users with the assigned e-signature roles can create templates for documents that require an electronic signature.
 
 ## Role assignment
 
@@ -27,13 +27,9 @@ Users with the e-signature administrator \[sn\_esign.admin\] or manager \[sn\_es
 You can then use the e-signature template in task forms to request electronic signatures from users. In the HR Service Delivery application, for example, you can add HR tasks to HR cases or configure HR task templates to request electronic signatures per the selected e-signature template. See [E-signature for HR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-e-signature.md) for HR-specific examples.
 
 -   **[Create or modify an e-signature template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/e-signature/configure-e-signature-configuration.md)**  
-[[configure-e-signature-configuration|Create or modify an e-signature template]] to define an electronic document and signature configuration for use in task forms.
+Create or modify an e-signature template to define an electronic document and signature configuration for use in task forms.
 -   **[Using e-signature template for non-HR tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/e-signature/configure-e-signature-non-hr.md)**  
 Create or modify an e-signature template to define an electronic document and signature configuration for use in non-HR task forms.
 
 **Parent Topic:**[E-signature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/e-signature/e-signature.md)
 
-## Related
-
-- [[e-signature|E-signature]]
-- [[configure-e-signature-configuration|Create or modify an e-signature template]]

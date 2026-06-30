@@ -14,7 +14,7 @@ breadcrumb: [Upgrading to Employee Center Pro, Admin configurations, Configuring
 
 # Upgrade to Employee Center Pro from Employee Service Center \(HR\)
 
-Migrate to the [[employee-center-pro-landing|Employee Center Pro]] portal to provide employees with a unified portal and content experiences.
+Migrate to the Employee Center Pro portal to provide employees with a unified portal and content experiences.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-[[employee-center-landing-page|Employee Center]] is delivered to all customer as a default application, and Employee Center Pro is a licensed application and must be separately installed. For more information, see [Install Employee Center Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/install-ec-pro.md).
+Employee Center is delivered to all customer as a default application, and Employee Center Pro is a licensed application and must be separately installed. For more information, see [Install Employee Center Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/install-ec-pro.md).
 
 **Note:** If you are an existing customer using Employee Service Center, to experience the enhanced content experience capabilities, you must update to the latest Employee Center Pro application from ServiceNow Store. For more information on the installation steps, see [Install Employee Center Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/install-ec-pro.md).
 
@@ -50,7 +50,7 @@ Role required: admin
 
     For more information, see [My active items widget configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/my-activity-config.md).
 
-10. Configure **[[emp-center-quick-link-config|Quick Links]]**.
+10. Configure **Quick Links**.
 
     For more information, see [Quick links](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/emp-center-quick-link-config.md).
 
@@ -65,8 +65,3 @@ This upgrades the Employee Service Center with the latest Employee Center Pro th
 
 **Parent Topic:**[Upgrading to Employee Center Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/upgrade-steps.md)
 
-## Related
-
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[employee-center-landing-page|Employee Center]]
-- [[emp-center-quick-link-config|Quick links]]

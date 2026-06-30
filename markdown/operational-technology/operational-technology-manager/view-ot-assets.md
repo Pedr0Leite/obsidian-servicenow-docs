@@ -14,13 +14,13 @@ breadcrumb: [Use, Operational Technology Manager, Operational Technology]
 
 # Edit or view OT devices after import or discovery
 
-Use the options on the [[operational-technology-overview|Operational Technology]] \(OT\) menu to edit or view detailed information for the OT devices in your enterprise.
+Use the options on the Operational Technology \(OT\) menu to edit or view detailed information for the OT devices in your enterprise.
 
 ## Before you begin
 
 Import your Operational Technology device data in any of the following ways:
 
--   Run IT Discovery for OT Networks. For more information, see [[discovery-for-operational-technology|IT Discovery for Operational Technology \(OT\) Networks]].
+-   Run IT Discovery for OT Networks. For more information, see [IT Discovery for Operational Technology \(OT\) Networks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/discovery-for-operational-technology.md).
 -   Use an Operational Technology Certified Service Graph Connector from the ServiceNow Store.
 
 Role required: cmdb\_ot\_viewer, cmdb\_ot\_editor, cmdb\_ot\_admin, or admin
@@ -30,7 +30,7 @@ Role required: cmdb\_ot\_viewer, cmdb\_ot\_editor, cmdb\_ot\_admin, or admin
 If you have an assigned cmdb\_ot\_viewer role, you can only view OT devices. If you have an assigned cmdb\_ot\_editor or cmdb\_ot\_admin role, you can edit OT device records in the following ways:
 
 -   Edit OT device records individually on the ServiceNow AI Platform.
--   Bulk edit multiple OT device records from the [[industrial-workspace-for-operational-technology|Industrial Workspace]] list view.
+-   Bulk edit multiple OT device records from the Industrial Workspace list view.
 
 ## Procedure
 
@@ -91,8 +91,3 @@ The All OT Devices, All OT Devices by IP Address, and All OT Devices by CI menu 
 
 **Parent Topic:**[Using the Operational Technology Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/using-operational-technology-manager.md)
 
-## Related
-
-- [[discovery-for-operational-technology|IT Discovery for Operational Technology \(OT\) Networks]]
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

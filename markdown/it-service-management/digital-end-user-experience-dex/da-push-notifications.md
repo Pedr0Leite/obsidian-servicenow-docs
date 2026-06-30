@@ -14,7 +14,7 @@ breadcrumb: [Desktop Assistant, Digital End-User Experience, IT Service Manageme
 
 # Desktop Assistant notifications
 
-Desktop Assistant notifications enable your organization to communicate important updates to end users instantly, regardless of their device activity. This feature enables delivering critical information, supporting Major [[c_IncidentManagement|Incident Management]] and [[proactive-engagement-landing-page|Proactive Engagement]].
+Desktop Assistant notifications enable your organization to communicate important updates to end users instantly, regardless of their device activity. This feature enables delivering critical information, supporting Major Incident Management and Proactive Engagement.
 
 Desktop Assistant notifications provide a reliable way to inform end users of critical updates with minimal effort. These notifications provide updates for awareness but aren’t directly actionable.
 
@@ -22,7 +22,7 @@ Desktop Assistant supports an optimum number of 400,000 notifications per day, w
 
 ## Accessing notifications
 
-Access Desktop Assistant notifications as system push notifications on Windows and macOS [[dex-workspace-devices-tab|devices]], or from the Desktop Assistant notifications list. For more information, see [View Desktop Assistant notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/view-notifications.md).
+Access Desktop Assistant notifications as system push notifications on Windows and macOS devices, or from the Desktop Assistant notifications list. For more information, see [View Desktop Assistant notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/view-notifications.md).
 
 Notifications should appear on end users’ devices within two minutes of generation.
 
@@ -63,8 +63,3 @@ You can define how long the system attempts to deliver notifications by configur
 
 You can also enable and disable Desktop Assistant notifications. For more information, see [Enable or disable notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/enable-notification.md).
 
-## Related
-
-- [[c_IncidentManagement|Incident Management]]
-- [[proactive-engagement-landing-page|Proactive Engagement]]
-- [[dex-workspace-devices-tab|Devices]]

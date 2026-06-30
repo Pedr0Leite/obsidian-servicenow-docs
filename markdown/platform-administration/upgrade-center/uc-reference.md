@@ -14,24 +14,16 @@ breadcrumb: [Upgrade Center, Upgrade, Administer the ServiceNow AI Platform]
 
 # Upgrade Center references
 
-These [[reference-email-admin|reference]] topics provide additional information about your upgrade properties, roles and skipped rules.
+These reference topics provide additional information about your upgrade properties, roles and skipped rules.
 
 -   **[Upgrade Center properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-properties.md)**  
-On the properties form, you can set [[r_DirectJDBCProbeParameters|parameters]] that control how the system executes.
+On the properties form, you can set parameters that control how the system executes.
 -   **[Upgrade Center VTB Labels list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-vtb-labels-list.md)**  
-The [[uc-vtb-labels-list|Upgrade Center VTB Labels list]] under Administration module shows all the labels in the Upgrade Visual Task Board \(VTB\). You can also change the color of the existing labels.
+The Upgrade Center VTB Labels list under Administration module shows all the labels in the Upgrade Visual Task Board \(VTB\). You can also change the color of the existing labels.
 -   **[Default skipped rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-default-skipped-rules.md)**  
-Reduce considerable processing time with the [[uc-default-skipped-rules|default skipped rules]] to auto-retain high friction causing configuration metadata types.
+Reduce considerable processing time with the default skipped rules to auto-retain high friction causing configuration metadata types.
 -   **[Upgrade Center roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-roles.md)**  
-[[uc-landing-page|Upgrade Center]] is installed with these roles.
+Upgrade Center is installed with these roles.
 
-**Parent Topic:**[[upgrade-now-platform|Using ServiceNow AI Platform upgrade tools]]
+**Parent Topic:**[Using ServiceNow AI Platform upgrade tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-now-platform.md)
 
-## Related
-
-- [[upgrade-now-platform|Using ServiceNow AI Platform upgrade tools]]
-- [[reference-email-admin|Reference]]
-- [[r_DirectJDBCProbeParameters|Parameters]]
-- [[uc-vtb-labels-list|Upgrade Center VTB Labels list]]
-- [[uc-default-skipped-rules|Default skipped rules]]
-- [[uc-landing-page|Upgrade Center]]

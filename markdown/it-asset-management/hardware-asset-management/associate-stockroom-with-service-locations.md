@@ -14,7 +14,7 @@ breadcrumb: [Manage stockrooms, Use, Hardware Asset Management, IT Asset Managem
 
 # Associate a stockroom with service locations
 
-Manage sourcing requests that consume from local [[c_Stockrooms|stockrooms]] effectively by associating your stockroom with multiple service locations. Optimize your loaner asset workflow and automated asset tasks by serving multiple locations using a single stockroom.
+Manage sourcing requests that consume from local stockrooms effectively by associating your stockroom with multiple service locations. Optimize your loaner asset workflow and automated asset tasks by serving multiple locations using a single stockroom.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ You can't add service locations to a stockroom that is excluded from providing l
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Inventory**.
+1.  Navigate to **All** &gt; **Hardware Asset Workspace** &gt; **Inventory**.
 
 2.  Select the **All stockrooms** tab.
 
@@ -62,7 +62,3 @@ The selected locations are added to the list shown in the **Service locations** 
 
 [Asset life-cycle automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/asset-lifecycle-automation.md)
 
-## Related
-
-- [[c_Stockrooms|Stockrooms]]
-- [[using-ham-workspace|Hardware Asset Workspace]]

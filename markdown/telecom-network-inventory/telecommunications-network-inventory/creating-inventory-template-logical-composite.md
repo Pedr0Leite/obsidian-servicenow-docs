@@ -14,7 +14,7 @@ breadcrumb: [Create inventory template relationship, Use, Telecommunications Net
 
 # Create an inventory template for a logical composite
 
-[[create-inventory-templates|Create an inventory template]] for the logical composite in the [[telecom-network-inventory|Telecommunications Network Inventory]] application. You can use this template to instantiate a logical composite record and its related equipment and rack records.
+Create an inventory template for the logical composite in the Telecommunications Network Inventory application. You can use this template to instantiate a logical composite record and its related equipment and rack records.
 
 ## Use case
 
@@ -44,7 +44,7 @@ You can edit the **Name Pattern** field.
 
 ## What's next
 
-Use a this template to instantiate logical composites and related equipment and rack records using [[telecommunications-circuit-design-resource-assignment|design and assign]]. To learn more, see [Create an equipment record by using design and assign](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-equipment-record-design-and-assign.md).
+Use a this template to instantiate logical composites and related equipment and rack records using design and assign. To learn more, see [Create an equipment record by using design and assign](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-equipment-record-design-and-assign.md).
 
 **Parent Topic:**[Create inventory template relationship](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/creating-inventory-templates-telco-equipment.md)
 
@@ -61,8 +61,3 @@ Use a this template to instantiate logical composites and related equipment and 
 
 [Equipment extension classes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/equipment-extension-classes.md)
 
-## Related
-
-- [[create-inventory-templates|Create an inventory template]]
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[telecommunications-circuit-design-resource-assignment|Design and assign]]

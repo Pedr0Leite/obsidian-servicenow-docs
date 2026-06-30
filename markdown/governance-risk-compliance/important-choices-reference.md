@@ -32,7 +32,7 @@ Set
 
 </td><td>
 
-View that is set to [[grc-opres-landing-page|Operational Resilience]].
+View that is set to Operational Resilience.
 
 </td></tr><tr><td>
 
@@ -86,7 +86,3 @@ Indicates whether the configuration record is currently active and available for
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[grc-opres-landing-page|Operational Resilience]]

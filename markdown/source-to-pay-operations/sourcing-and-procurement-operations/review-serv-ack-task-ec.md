@@ -14,11 +14,11 @@ breadcrumb: [Sourcing Procurement Operations integration Employee, Integrate, So
 
 # Review your service acknowledgment task from Employee Center
 
-Review and acknowledge the receipt status of your ordered service from your [[supplier|supplier]] from Employee Center.
+Review and acknowledge the receipt status of your ordered service from your supplier from Employee Center.
 
 ## Before you begin
 
-Service acknowledgment tasks are auto-created the first time on [[purchase-order-table|purchase order]] creation, and are triggered on a monthly basis by the Create Service Acknowledgment Task scheduled job. This scheduled job automatically picks all [[purchase-order-lines|purchase order lines]] that have started and are yet to reach their end dates, and have some remaining amount or percentage or quantity to be delivered.
+Service acknowledgment tasks are auto-created the first time on purchase order creation, and are triggered on a monthly basis by the Create Service Acknowledgment Task scheduled job. This scheduled job automatically picks all purchase order lines that have started and are yet to reach their end dates, and have some remaining amount or percentage or quantity to be delivered.
 
 To review your service acknowledgments, your service request should have been reviewed and approved by a Procurement Specialist and converted to a purchase order. Only then, this task is displayed to you on Employee Center.
 
@@ -62,7 +62,7 @@ Displays the **Confirm you didn't receive any services** dialog box to record yo
 
 </td><td>
 
-Displays the **Specify the quantity you received** dialog box, where you can enter the received quantity for the selected purchase line for that particular month \(if the unit of the supplier product is individual unit\), or the received percentage \(if the unit of the supplier product is fixed fee\). This information is now displayed in the **Confirmed** tab.**Note:** If you select multiple [[purchase-lines|purchase lines]], you can't specify individual amounts or percentages for them, and the entire lines must be marked as received. Also, if the purchase order line has fixed fee as the unit, then it’s automatically set up for percentage.
+Displays the **Specify the quantity you received** dialog box, where you can enter the received quantity for the selected purchase line for that particular month \(if the unit of the supplier product is individual unit\), or the received percentage \(if the unit of the supplier product is fixed fee\). This information is now displayed in the **Confirmed** tab.**Note:** If you select multiple purchase lines, you can't specify individual amounts or percentages for them, and the entire lines must be marked as received. Also, if the purchase order line has fixed fee as the unit, then it’s automatically set up for percentage.
 
 </td></tr><tr><td id="d86446e162">
 
@@ -73,7 +73,7 @@ Displays the **Specify the quantity you received** dialog box, where you can ent
 Displays the **Confirm you didn't receive all services** dialog box to record your confirmation for that particular month. On confirmation, the task is marked as Closed Complete and moved to the **Completed** tab.
 
 </td></tr></tbody>
-</table>    **Note:** Every time you confirm receiving a percentage of your order, a receipt of type Services is automatically created. This receipt can be viewed by a Procurement Specialist against your purchase order on [[purch-order-mgmt-ws|Source-to-Pay Workspace]].
+</table>    **Note:** Every time you confirm receiving a percentage of your order, a receipt of type Services is automatically created. This receipt can be viewed by a Procurement Specialist against your purchase order on Source-to-Pay Workspace.
 
 
 ## What to do next
@@ -82,10 +82,3 @@ You can view the completed task in the **Completed** tab.
 
 **Parent Topic:**[Sourcing and Procurement Operations integration with Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/employee-center-integration-psm.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[purchase-order-table|Purchase order]]
-- [[purchase-order-lines|Purchase order lines]]
-- [[purchase-lines|Purchase lines]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure to support chat history, Use, Virtual Agent API, Build an
 
 # Setting logo for the primary bot in Virtual Agent API
 
-You can customize your [[ci-use-agent-chat|agent chat]] interface by setting a logo for the primary bot that appears in the chat history.
+You can customize your agent chat interface by setting a logo for the primary bot that appears in the chat history.
 
 ## Before you begin
 
@@ -87,6 +87,3 @@ Text that describes the live profile.
 
 **Parent Topic:**[Configure to support chat history in Virtual Agent API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-api-support-chat-history.md)
 
-## Related
-
-- [[ci-use-agent-chat|Agent Chat]]

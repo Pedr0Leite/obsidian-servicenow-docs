@@ -45,10 +45,7 @@ Assignment Rules
 
 </td></tr></tbody>
 </table>-   **[Grant a time-limited user role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/time-limited-roles.md)**  
-Learn how to [[t_AssignARoleToAUser|assign a role to a user]] temporarily. Use this feature if you have a user who needs to perform a one-time action that is normally outside their roles.
+Learn how to assign a role to a user temporarily. Use this feature if you have a user who needs to perform a one-time action that is normally outside their roles.
 
 **Parent Topic:**[Managing roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/ua-creating-roles.md)
 
-## Related
-
-- [[t_AssignARoleToAUser|Assign a role to a user]]

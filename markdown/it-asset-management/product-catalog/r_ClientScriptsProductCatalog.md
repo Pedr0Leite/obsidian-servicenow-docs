@@ -14,7 +14,7 @@ breadcrumb: [Components installed with Product Catalog, Product Catalog, IT Asse
 
 # Client scripts installed with Product Catalog
 
-[[c_ProductCatalog|Product Catalog]] plugin adds the following client script.
+Product Catalog plugin adds the following client script.
 
 |Client script|Table|Script contents|
 |-------------|-----|---------------|
@@ -22,6 +22,3 @@ breadcrumb: [Components installed with Product Catalog, Product Catalog, IT Asse
 
 **Parent Topic:**[Components installed with Product Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/r_InstalledWithProductCatalog.md)
 
-## Related
-
-- [[c_ProductCatalog|Product Catalog]]

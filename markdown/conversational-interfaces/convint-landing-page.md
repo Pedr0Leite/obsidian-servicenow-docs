@@ -27,7 +27,7 @@ Select a tile to get started with one of Conversational Interfaces products.
 
 </td><td>
 
-[Now Assist in [[virtual-agent-landing-page|Virtual Agent]]\[Omitted image "bus-ai-sparkle.svg"\] Alt text:Use large language models \(LLMs\) to create a natural-language conversational experience that can improve the success of your self-service workflows.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/now-assist-in-va-landing.md)
+[Now Assist in Virtual Agent\[Omitted image "bus-ai-sparkle.svg"\] Alt text:Use large language models \(LLMs\) to create a natural-language conversational experience that can improve the success of your self-service workflows.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/now-assist-in-va-landing.md)
 
 </td></tr><tr><td>
 
@@ -55,7 +55,3 @@ Select a tile to get started with one of Conversational Interfaces products.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

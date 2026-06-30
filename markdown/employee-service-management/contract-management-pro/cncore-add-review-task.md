@@ -42,7 +42,7 @@ Steps
 
 </th></tr></thead><tbody><tr><td id="d481816e98">
 
-**[[cncore-contract-workspace|Contract Workspace]] listing**
+**Contract Workspace listing**
 
 </td><td>
 
@@ -132,13 +132,9 @@ Description to specify the content to be reviewed.
 
 ## Result
 
-A review task is created, listed in the Reviews tab and the change request details are added to the [[activity-lxp|Activity]] stream. The Contract status updates to Awaiting review. If the new task doesn't appear in the list, click the refresh list button \(\[Omitted image "refresh-icon.png"\] Alt text: Refresh button\).
+A review task is created, listed in the Reviews tab and the change request details are added to the Activity stream. The Contract status updates to Awaiting review. If the new task doesn't appear in the list, click the refresh list button \(\[Omitted image "refresh-icon.png"\] Alt text: Refresh button\).
 
 \[Omitted image "cmpro-internal-review-task.png"\] Alt text: Submit internal review task to get the contract document reviewed by the internal subject matter experts.
 
 **Parent Topic:**[Internal review overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-expert-review.md)
 
-## Related
-
-- [[cncore-contract-workspace|Contract Workspace]]
-- [[activity-lxp|Activity]]

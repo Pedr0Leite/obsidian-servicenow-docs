@@ -30,7 +30,7 @@ Role required: admin and sn\_hs\_rm.permit\_coordinator
 
 4.  Create a variable set with grouped variables by selecting **single row variable set** .
 
-5.  On the [[hs-variable-set-new-record-form|Variable set new record form]], fill in the fields.
+5.  On the Variable set new record form, fill in the fields.
 
     For a description of the field values, see [Variable set new record form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-variable-set-new-record-form.md).
 
@@ -97,11 +97,7 @@ Role required: admin and sn\_hs\_rm.permit\_coordinator
 
 ## Result
 
-The checklist is configured and displayed in the checklist tab of the [[hs-permit-to-work-form|permit-to-work request form]] when the permit type is selected.
+The checklist is configured and displayed in the checklist tab of the permit-to-work request form when the permit type is selected.
 
 **Parent Topic:**[Configure permit-to-work](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-configure-permit-to-work.md)
 
-## Related
-
-- [[hs-variable-set-new-record-form|Variable set new record form]]
-- [[hs-permit-to-work-form|Permit-to-work request form]]

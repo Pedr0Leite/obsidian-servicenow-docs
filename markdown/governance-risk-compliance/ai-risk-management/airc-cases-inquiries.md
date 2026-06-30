@@ -15,13 +15,13 @@ breadcrumb: [AI governance life cycle, Explore, AI Risk and Compliance, Governan
 
 # AI cases and inquiries
 
-AI cases and inquiries provide a structured way to report, track, and manage AI-related concerns and questions as part of AI governance in AI Control Tower and [[ai-risk-and-compliance|AI Risk and Compliance]].
+AI cases and inquiries provide a structured way to report, track, and manage AI-related concerns and questions as part of AI governance in AI Control Tower and AI Risk and Compliance.
 
 ## AI cases and inquiries overview
 
-The AI Case Management application is used as part of AI Risk and Compliance \(AIRC\). It provides the workflows used to review, investigate, and respond to AI‑related risks, incidents, and governance questions associated with [[ai-system-airc|AI systems]], models, and [[dataset-airc|datasets]] governed in AI Control Tower \(AICT\). AI cases and inquiries help identify potential issues, capture governance signals, and ensure that AI systems align with organizational policies, regulatory expectations, and ethical principles across the AI life cycle. You can view AI cases and inquiries from the AI Risk and Compliance dashboard.
+The AI Case Management application is used as part of AI Risk and Compliance \(AIRC\). It provides the workflows used to review, investigate, and respond to AI‑related risks, incidents, and governance questions associated with AI systems, models, and datasets governed in AI Control Tower \(AICT\). AI cases and inquiries help identify potential issues, capture governance signals, and ensure that AI systems align with organizational policies, regulatory expectations, and ethical principles across the AI life cycle. You can view AI cases and inquiries from the AI Risk and Compliance dashboard.
 
-\[Omitted image "ai-case-landing-page.png"\] Alt text: [[ai-cases-tab-airc|AI cases tab]] on the AI risk and compliance dashboard.
+\[Omitted image "ai-case-landing-page.png"\] Alt text: AI cases tab on the AI risk and compliance dashboard.
 
 \[Omitted image "ai-cases-inquiries-tab.png"\] Alt text: Inquiries tab on the AI risk and compliance dashboard.
 
@@ -35,7 +35,7 @@ AI cases are typically used to report observed AI-related concerns, risks, incid
 
 ## Submission and intake
 
-AI Case Business Users \[sn\_ai\_case\_mgmt.ai\_case\_business\_user\] submit AI cases and inquiries through the [[employee-center|Employee Center]] to report concerns or request guidance. Submissions include descriptive information that helps reviewers understand context, such as the AI system, model, or dataset involved, observed behavior or concern, impacted users or business areas, and any supporting details or attachments. For more information, see [Report an AI case from the Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/report-ai-case.md).
+AI Case Business Users \[sn\_ai\_case\_mgmt.ai\_case\_business\_user\] submit AI cases and inquiries through the Employee Center to report concerns or request guidance. Submissions include descriptive information that helps reviewers understand context, such as the AI system, model, or dataset involved, observed behavior or concern, impacted users or business areas, and any supporting details or attachments. For more information, see [Report an AI case from the Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/report-ai-case.md).
 
 After upgrading to version 22.0.3 and installing the AI Case Management application, organizations can enable anonymous submission of AI cases through the Employee Center. Anonymous reporting supports broader participation in AI governance while protecting the identity of the reporter.
 
@@ -53,7 +53,7 @@ For more information, see [Report an AI case anonymously](https://raw.githubuser
 
 ## Case management and follow-up
 
-After submission, AI cases and inquiries are managed in the [[ai-risk-and-compliance-workspace|AI Risk and Compliance Workspace]]. AI Risk and Compliance analysts \[sn\_ai\_case\_mgmt.ai\_case\_analyst\] review case details, investigate reported issues, assess potential impact, and work assigned governance tasks.
+After submission, AI cases and inquiries are managed in the AI Risk and Compliance Workspace. AI Risk and Compliance analysts \[sn\_ai\_case\_mgmt.ai\_case\_analyst\] review case details, investigate reported issues, assess potential impact, and work assigned governance tasks.
 
 AI Risk and Compliance managers \[sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_manager\] who inherit the AI case manager \[sn\_ai\_case\_mgmt.ai\_case\_manager\] role oversee case status, prioritize work, and coordinate follow-up across governance teams. Cases can result in tasks, identification of impacted areas such as policies or regulations, and the creation of related issues to support remediation, escalation, or ongoing governance activities across the AI life cycle.
 
@@ -78,11 +78,3 @@ For more information, see [Roles installed with AI Risk and Compliance](https://
 
 [AI Risk and Compliance workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/ai-risk-and-compliance-workspace.md)
 
-## Related
-
-- [[ai-risk-and-compliance|AI Risk and Compliance]]
-- [[ai-system-airc|AI systems]]
-- [[dataset-airc|Datasets]]
-- [[ai-cases-tab-airc|AI cases tab]]
-- [[employee-center|employee center]]
-- [[ai-risk-and-compliance-workspace|AI Risk and Compliance workspace]]

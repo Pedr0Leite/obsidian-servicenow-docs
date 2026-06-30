@@ -14,7 +14,7 @@ breadcrumb: [Reference, Payment Operations, Banking applications, Financial Serv
 
 # Properties installed with Financial Services Payment Operations
 
-Customize the properties that are available with [[payment-ops-landing-page|Financial Services Payment Operations]].
+Customize the properties that are available with Financial Services Payment Operations.
 
 **Note:** To open the System Properties \[sys\_properties\] table, enter `sys_properties.list` in the navigation filter.
 
@@ -53,6 +53,3 @@ The system creates a follow-up inquiry task for the payment inquiry case if the 
 </td></tr></tbody>
 </table>**Parent Topic:**[Financial Services Payment Operations reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-payment-operations/payment-operations-reference.md)
 
-## Related
-
-- [[payment-ops-landing-page|Financial Services Payment Operations]]

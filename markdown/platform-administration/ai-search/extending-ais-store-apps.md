@@ -14,7 +14,7 @@ breadcrumb: [AI Search, Search administration, Configure core features, Administ
 
 # Extending AI Search with ServiceNow Store applications and integrations
 
-Applications and integrations from the ServiceNow® Store extend [[ia-ai-search|AI Search]] functionality and provide insight into search usage and behavior.
+Applications and integrations from the ServiceNow® Store extend AI Search functionality and provide insight into search usage and behavior.
 
 -   **[AI Search spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/ai-search-spoke.md)**
 
@@ -22,19 +22,14 @@ Applications and integrations from the ServiceNow® Store extend [[ia-ai-search|
 
 -   **[Platform Analytics Solution for Advanced AI Search Management Tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/adv-ais-mgmt-tools-content-pack.md)**
 
-    This Platform Analytics Solution helps AI Search administrators analyze search query traffic trends, review indexed record and configuration settings, and preview search query [[hs-results|results]].
+    This Platform Analytics Solution helps AI Search administrators analyze search query traffic trends, review indexed record and configuration settings, and preview search query results.
 
 -   **[AI Search for Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/ais-next-experience-app.md)**
 
-    The [[ais-next-experience-app|AI Search for Next Experience]] ServiceNow® Store application enables administrators to configure AI Search as the search engine for Unified Navigation searches in Next Experience, including global search and configurable workspace search.
+    The AI Search for Next Experience ServiceNow® Store application enables administrators to configure AI Search as the search engine for Unified Navigation searches in Next Experience, including global search and configurable workspace search.
 
 -   **[Now Assist in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/now-assist-ais.md)**
 
-    The [[now-assist-ais|Now Assist in AI Search]] ServiceNow® Store application combines the power of search with the Now LLM Service agentic AI model to answer questions in user searches with actionable AI-generated summaries of relevant knowledge articles.
+    The Now Assist in AI Search ServiceNow® Store application combines the power of search with the Now LLM Service agentic AI model to answer questions in user searches with actionable AI-generated summaries of relevant knowledge articles.
 
-## Related
 
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]
-- [[ais-next-experience-app|AI Search for Next Experience]]
-- [[now-assist-ais|Now Assist in AI Search]]

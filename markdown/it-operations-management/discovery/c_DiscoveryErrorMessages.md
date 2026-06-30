@@ -14,7 +14,7 @@ breadcrumb: [Discovery monitoring and issue resolution, Using Discovery, Discove
 
 # Discovery error messages
 
-Review common Discovery error messages and their causes to identify and resolve issues that occur during [[r-discovery|discovery]] runs.
+Review common Discovery error messages and their causes to identify and resolve issues that occur during discovery runs.
 
 ## Common error messages
 
@@ -115,7 +115,7 @@ Review common Discovery error messages and their causes to identify and resolve 
 
 -   **Message: Please run sneep as root to ensure correct serial number from fserial data source**
 
-    The Oracle **Sneep** command line tool must be installed for the Solaris - Serial Number probe to work correctly. There is a [known limitation](https://wikis.oracle.com/display/proactive/SneepFAQ) with Fujitsu PRIMEPOWER devices. To work around this limitation, run the [[r_DataCollDiscoSolarisComputers|Solaris discovery]] with root credentials.
+    The Oracle **Sneep** command line tool must be installed for the Solaris - Serial Number probe to work correctly. There is a [known limitation](https://wikis.oracle.com/display/proactive/SneepFAQ) with Fujitsu PRIMEPOWER devices. To work around this limitation, run the Solaris discovery with root credentials.
 
 
 ## Discovery sensor error messages
@@ -185,7 +185,3 @@ Verify the correct sys\_id of the probe associated with the **probe** parameter 
 
 **Parent Topic:**[Discovery monitoring and issue resolution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoveryTroubleshooting.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[r_DataCollDiscoSolarisComputers|Solaris discovery]]

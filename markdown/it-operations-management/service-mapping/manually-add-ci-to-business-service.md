@@ -14,7 +14,7 @@ breadcrumb: [Fine-tune application services to implement owner requests, Applica
 
 # Manually add CIs to an application service
 
-Add configuration items to manually created application services or to services discovered by [[c_ServiceMappingOverview|Service Mapping]].
+Add configuration items to manually created application services or to services discovered by Service Mapping.
 
 ## Before you begin
 
@@ -75,7 +75,7 @@ For additional information related to Service Mapping, see [Pattern customizatio
 
 2.  If needed, click **Edit** to ensure that the map is in Edit mode.
 
-    If Service Mapping is deployed, then in Edit mode, the [[r-discovery|Discovery]] Messages section appears below the map.
+    If Service Mapping is deployed, then in Edit mode, the Discovery Messages section appears below the map.
 
 3.  To connect a CI to another CI on the map, right-click the CI to which you want to connect the new CI, and then select **Add a CI**.
 
@@ -160,7 +160,3 @@ Select the CI from the list of CIs of the selected CI type.**Note:** To eliminat
 
 [addCI\(\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/BusinessServiceManagerAPI.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]

@@ -14,7 +14,7 @@ breadcrumb: [Alert impact calculation, Manage and monitor alerts, Configuring Ev
 
 # Adjust impact rules for a CI
 
-Configure impact rules to customize the impact calculation for [[r-discovery|discovery]] services and manual services. The impact rules update the overall alert and show the impact on related CIs. When you change impact rules, the updates apply to alert severity in places such as the [[c_EM|Event Management]] dashboard and Operator Workspace.
+Configure impact rules to customize the impact calculation for discovery services and manual services. The impact rules update the overall alert and show the impact on related CIs. When you change impact rules, the updates apply to alert severity in places such as the Event Management dashboard and Operator Workspace.
 
 ## Before you begin
 
@@ -71,7 +71,7 @@ Name
 
 The name of the impact rule.-   **Application Cluster Member**: Determines how application cluster members affect the overall impact of the cluster. For example, if a three-member cluster requires **90% Influence** to set the severity for the entire cluster to **Major**, each member has **30% Influence** \(90% divided by 3\). The severity of the entire cluster can only change to **Major** when all three members have a severity of **Major**.
 
-**Note:** To [[configure-manual-cluster|configure a manual cluster]], see [Configure a manual cluster](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-manual-cluster.md)
+**Note:** To configure a manual cluster, see [Configure a manual cluster](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-manual-cluster.md)
 
 -   **Application Impact**: Determines how impact is applied to a specific CI, the overall application service, or parent/child entities within an application service. For the Application Impact rule, you can choose from the following Impact options: **Application Service** or **Parent**.
     -   If no CI is selected, the alert rule applies to the entire application service.
@@ -173,8 +173,3 @@ The alternative impact to use when the calculated severity is **Warning**. To ma
 
 Review the changes on the impact tree. For example, if you changed a number or percentage influence for child CIs, review the impact tree updates accordingly.
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_EM|Event Management]]
-- [[configure-manual-cluster|Configure a manual cluster]]

@@ -12,7 +12,7 @@ breadcrumb: [Setup for a BIA, Configure, Business Continuity Management, Governa
 
 # Create Smart Assessment templates for BIA
 
-Create Smart [[airc-assessment-templates|Assessment templates]] in the Assessment Workspace for the [[bia-uib|Business Impact Analysis]] \(BIA\) workflow.
+Create Smart Assessment templates in the Assessment Workspace for the Business Impact Analysis \(BIA\) workflow.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_bcm.admin
 
 ## Required and optional apps
 
-The store apps for using the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] application in BIA are listed.
+The store apps for using the Smart Assessment Engine application in BIA are listed.
 
 1.  Required apps: Smart Assessment Core \[com.sn\_smart\_asmt\], Smart Assessment Designer \[com.sn\_smart\_asmt\_desg\], Smart Assessment Connected \[com.sn\_smart\_asmt\_conn\]
 2.  Optional apps: Smart Assessment Post-assessment Actions \[com.sn\_smart\_imp\_auto\]
@@ -33,7 +33,7 @@ For information about the initial setup checklist for Smart Assessment Engine, s
 
 ## About this task
 
-To configure a BIA template using Smart Assessment, see [[conf-bia-temp-smart-asmt-type|Configure BIA templates with Smart Assessment]].
+To configure a BIA template using Smart Assessment, see [Configure BIA templates with Smart Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/conf-bia-temp-smart-asmt-type.md).
 
 ## Procedure
 
@@ -43,7 +43,7 @@ To configure a BIA template using Smart Assessment, see [[conf-bia-temp-smart-as
 
     \[Omitted image "asmt-workspace.png"\] Alt text: Assessment Workspace.
 
-    The [[create-assessment-template-form|Create assessment template form]] is displayed.
+    The Create assessment template form is displayed.
 
     \[Omitted image "create-asmt-template.png"\] Alt text: Create assessment template form.
 
@@ -163,24 +163,14 @@ To configure a BIA template using Smart Assessment, see [[conf-bia-temp-smart-as
 
         \[Omitted image "bia-sae-quick-edit-menu.png"\] Alt text: Quick edit option in the three-dot menu of a question in a published Smart Assessment template.\[Omitted image "bia-sae-quick-edit-history.png"\] Alt text: Edit history showing Before and After question text for a quick edit, with user and timestamp.
 
-    -   For functional changes \(for example, changing the question type, adding or removing choices, moving a question between sections, or changing the referenced table on a Reference question\), publish a new version of the template. The previous version is retired automatically, future BIAs use the new version, and a copy of the existing Post Assessment Actions is created in the Draft state on the new version. Review and publish the Post Assessment Actions on the new version before relying on them to update RTO, RPO, MTPD, or Recovery Tier fields. For more information, see [[using-smart-asmt-template|Using latest assessment template for conducting BIAs]].
+    -   For functional changes \(for example, changing the question type, adding or removing choices, moving a question between sections, or changing the referenced table on a Reference question\), publish a new version of the template. The previous version is retired automatically, future BIAs use the new version, and a copy of the existing Post Assessment Actions is created in the Draft state on the new version. Review and publish the Post Assessment Actions on the new version before relying on them to update RTO, RPO, MTPD, or Recovery Tier fields. For more information, see [Using latest assessment template for conducting BIAs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/using-smart-asmt-template.md).
     -   Open BIA assessments based on the retired version are either retained or canceled depending on the **Assessment handling on version retirement** option configured on the **Business impact assessment** template category. Configure this option before publishing a new version.
-    **Note:** Starting with GRC: [[business-continuity-mangmt-overview|Business Continuity Management]] - Core, version 11.0.1, Smart Assessment templates support version control, and version details are displayed on each template.
+    **Note:** Starting with GRC: Business Continuity Management - Core, version 11.0.1, Smart Assessment templates support version control, and version details are displayed on each template.
 
 
 ## Result
 
 You can use the published Smart Assessment template for the Business Impact Analysis \(BIA\) workflow.
 
-**Parent Topic:**[[bcm-admin-tasks|Setup for a business impact analysis]]
+**Parent Topic:**[Setup for a business impact analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bcm-admin-tasks.md)
 
-## Related
-
-- [[conf-bia-temp-smart-asmt-type|Configure BIA templates with Smart Assessment]]
-- [[using-smart-asmt-template|Using latest assessment template for conducting BIAs]]
-- [[bcm-admin-tasks|Setup for a business impact analysis]]
-- [[airc-assessment-templates|Assessment templates]]
-- [[bia-uib|Business impact analysis]]
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]
-- [[create-assessment-template-form|Create assessment template form]]
-- [[business-continuity-mangmt-overview|Business Continuity Management]]

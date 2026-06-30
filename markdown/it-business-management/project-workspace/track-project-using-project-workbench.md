@@ -18,7 +18,7 @@ As a project manager, track and manage a project in Project Workbench.
 
 **Important:**
 
-Classic [[project-workspace-landing-page|Project Workspace]] is being prepared for future deprecation. It will be hidden and no longer available for installation but will continue to be supported. For details, see the [Deprecation Process \[KB0867184\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base. Use new Project Workspace with enhanced UI to help you efficiently manage your projects.
+Classic Project Workspace is being prepared for future deprecation. It will be hidden and no longer available for installation but will continue to be supported. For details, see the [Deprecation Process \[KB0867184\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base. Use new Project Workspace with enhanced UI to help you efficiently manage your projects.
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ You can use the **Planning** tab in project workspace to displays the selected p
 
 **Parent Topic:**[Project workspace classic - Legacy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/project-workspace-classic.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]

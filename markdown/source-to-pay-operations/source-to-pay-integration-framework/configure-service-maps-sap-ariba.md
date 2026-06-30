@@ -26,15 +26,15 @@ If the application requires multiple SAP Ariba instances, create separate entiti
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Finance – ERP Integration** &gt; **[[erp-source-configuration|ERP Source Configuration]]**.
+1.  Navigate to **All** &gt; **Finance – ERP Integration** &gt; **ERP Source Configuration**.
 
-2.  Open the [[erp-source|ERP source]] for which you must configure integration services.
+2.  Open the ERP source for which you must configure integration services.
 
     For example, select SAP Ariba REST.
 
 3.  In the Integration Services list, select the service that you want to configure.
 
-    For example, select **[[invoices|Invoices]]**.
+    For example, select **Invoices**.
 
 4.  To edit the ERP source, select **here** from the label **To edit this record click here**.
 
@@ -62,7 +62,7 @@ Application
 
 </td><td>
 
-Name of the application. For example, [[master-data-integration|Primary Data Integration]] with SAP Ariba.
+Name of the application. For example, Primary Data Integration with SAP Ariba.
 
 </td></tr><tr><td>
 
@@ -130,14 +130,7 @@ The order in which the entity should be displayed.
 
 [ERP source configuration for SAP Ariba]()
 
-[Define [[erp-source-configuration-sap|ERP source configuration for SAP]] Ariba]()
+[Define ERP source configuration for SAP Ariba]()
 
 [Look up primary data in SAP Ariba]()
 
-## Related
-
-- [[erp-source-configuration|ERP source configuration]]
-- [[erp-source|ERP source]]
-- [[invoices|Invoices]]
-- [[master-data-integration|Primary data integration]]
-- [[erp-source-configuration-sap|ERP Source Configuration for SAP]]

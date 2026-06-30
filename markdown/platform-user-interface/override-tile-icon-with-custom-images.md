@@ -24,7 +24,7 @@ Verify that your custom images use the desired colors and meet your branding req
 
 ## About this task
 
-**Important:** Custom images apply to Workspaces and aren’t supported in the [[c_UI16|Core UI]].
+**Important:** Custom images apply to Workspaces and aren’t supported in the Core UI.
 
 ## Procedure
 
@@ -83,12 +83,7 @@ Verify that your custom images use the desired colors and meet your branding req
 
 ## Result
 
-If your theme is published, your custom images are visible to users who have your theme applied on refresh. For more information about publishing themes, see [[tb-apply-theme|Publish your themes with Theme Builder]].
+If your theme is published, your custom images are visible to users who have your theme applied on refresh. For more information about publishing themes, see [Publish your themes with Theme Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tb-apply-theme.md).
 
-**Parent Topic:**[[tile-icons-in-tb|Tile icon illustrations in Theme Builder]]
+**Parent Topic:**[Tile icon illustrations in Theme Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tile-icons-in-tb.md)
 
-## Related
-
-- [[tb-apply-theme|Publish your themes with Theme Builder]]
-- [[tile-icons-in-tb|Tile icon illustrations in Theme Builder]]
-- [[c_UI16|Core UI]]

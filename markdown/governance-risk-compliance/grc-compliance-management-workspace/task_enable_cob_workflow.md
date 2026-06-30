@@ -30,12 +30,10 @@ Disabling the property after it has been enabled reverts the form to its previou
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Policy and Compliance** &gt; **[[Administration|Administration]]** &gt; **Properties**.
+1.  Navigate to **All** &gt; **Policy and Compliance** &gt; **Administration** &gt; **Properties**.
 
 2.  Locate the **Enable control objective workflow** property.
 
 3.  Select the check box to enable the property, then select **Save**.
 
-## Related
 
-- [[Administration|Administration]]

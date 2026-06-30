@@ -18,7 +18,7 @@ Receive the purchase order for assets covered in the contract by using the Renew
 
 ## Before you begin
 
-This task is not created if you haven't selected or added any hardware assets or entitlements or the [[c_Procurement|Procurement]] plugin \(com.snc.procurement\) is not active. You must instead manually track the financial expenses.
+This task is not created if you haven't selected or added any hardware assets or entitlements or the Procurement plugin \(com.snc.procurement\) is not active. You must instead manually track the financial expenses.
 
 Role required: procurement\_user
 
@@ -55,6 +55,3 @@ The substate of the old contract is set to Renewed. A contract history record is
 
 After you receive the purchase order, the state of the renewal contract is no longer Draft and the contract becomes active. If the start date of the renewed contract has been reached but the purchase order has not been received, the status of the contract renewal request remains set to Draft. After the new contract becomes active, the old contract becomes expired and the covered assets have an end date.
 
-## Related
-
-- [[c_Procurement|Procurement]]

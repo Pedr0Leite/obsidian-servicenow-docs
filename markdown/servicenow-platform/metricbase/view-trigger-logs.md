@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[metricbase|MetricBase]]** &gt; **MetricBase Triggers** &gt; **Trigger logs**.
+1.  Navigate to **All** &gt; **MetricBase** &gt; **MetricBase Triggers** &gt; **Trigger logs**.
 
 2.  Click one of the trigger logs.
 
@@ -30,6 +30,4 @@ Role required: admin
 
 4.  Change the default values in the **Enter parameters for log file entries to browse** form to select the log entries to view and click **Submit**.
 
-## Related
 
-- [[metricbase|MetricBase]]

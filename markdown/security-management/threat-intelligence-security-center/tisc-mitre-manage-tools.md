@@ -14,7 +14,7 @@ breadcrumb: [MITRE-ATT&amp;CK Repository, TISC Library Repository, Threat Intell
 
 # Manage Tools
 
-Manage the [[tools|tools]] information that you imported from the MITRE TAXII collections. Tools are legitimate software that are used by [[threat-actors|threat actors]] to perform attacks.
+Manage the tools information that you imported from the MITRE TAXII collections. Tools are legitimate software that are used by threat actors to perform attacks.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: sn\_sec\_tisc.analyst
 
 ## About this task
 
-Tools enable you to know how and when threat actors use them for executing [[threat-intelligence-campaigns|campaigns]]. Unlike [[threat-intelligence-malware|malware]], these tools or software packages are often found on a system and have legitimate purposes for power users, administrators, network administrators, or even normal users.
+Tools enable you to know how and when threat actors use them for executing campaigns. Unlike malware, these tools or software packages are often found on a system and have legitimate purposes for power users, administrators, network administrators, or even normal users.
 
 ## Procedure
 
-1.  To view the MITRE ATT&amp;CK Repository data, navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Threat Intel Library** &gt; **MITRE ATT&amp;CK** &gt; **Tools**.
+1.  To view the MITRE ATT&amp;CK Repository data, navigate to **Workspaces** &gt; **Threat Intelligence Security Center** &gt; **Threat Intel Library** &gt; **MITRE ATT&amp;CK** &gt; **Tools**.
 
     You can view the listed tools.
 
@@ -55,16 +55,8 @@ Tools enable you to know how and when threat actors use them for executing [[thr
 
 5.  Click **Save**.
 
-6.  To view how these objects are related, click **[[stix-relationships|Relationships]]**.
+6.  To view how these objects are related, click **Relationships**.
 
 
 **Parent Topic:**[MITRE-ATT&amp;CK Repository](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-mitre-att-ck-framework-overview.md)
 
-## Related
-
-- [[tools|Tools]]
-- [[threat-actors|Threat actors]]
-- [[threat-intelligence-campaigns|Campaigns]]
-- [[threat-intelligence-malware|Malware]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[stix-relationships|Relationships]]

@@ -18,10 +18,10 @@ Many organizations rely on an approval process to ensure that requests are reaso
 
 **Important:** Classic approval rules have been replaced by the Workflow Studio [Ask for Approval action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/ask-approval-flow-designer.md). Use Workflow Studio to create workflow-driven approval logic that is easier to maintain and provides better reporting information.
 
-The [[service-catalog|service catalog]] can use these classes of approvals:
+The service catalog can use these classes of approvals:
 
--   [[c_GatingApprovals|Gating approvals]]: Must occur before a request can be initiated. For example, allow a manager to reject an employee's request for a company car. To learn more about gating approvals, see [Gating approvals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/c_GatingApprovals.md).
--   [[c_ProcessApprovals|Process approvals]]: Take place within an execution plan process that has been initiated. For example, allow the security group to reject a request for access to SSN even though the employee's manager approved it. To learn more about process approvals, see [Process approvals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/c_ProcessApprovals.md).
+-   Gating approvals: Must occur before a request can be initiated. For example, allow a manager to reject an employee's request for a company car. To learn more about gating approvals, see [Gating approvals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/c_GatingApprovals.md).
+-   Process approvals: Take place within an execution plan process that has been initiated. For example, allow the security group to reject a request for access to SSN even though the employee's manager approved it. To learn more about process approvals, see [Process approvals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/c_ProcessApprovals.md).
 
 **Note:** To enable approval processes to operate smoothly, make sure that the appropriate users have the correct role, and that the role grants access to the necessary tables for users in all the relevant departments and domains.
 
@@ -30,7 +30,7 @@ Approval rules can automatically set the approval state to something other than 
 -   **[Gating approvals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/c_GatingApprovals.md)**  
 A gating approval acts as a gate through which a request must pass before it can start.
 -   **[Process approvals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/c_ProcessApprovals.md)**  
-Once a request has passed its gating approvals, any relevant [[c_ExecutionPlans|execution plans]] are initiated.
+Once a request has passed its gating approvals, any relevant execution plans are initiated.
 -   **[Approve with a process guide](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/t_ProcessGuideApprovals.md)**  
 Process guides work similarly to approval rules in that their execution is controlled via a condition.
 -   **[Schematic of a hypothetical approval process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/c_SchematicOfAHypoApprovalProc.md)**  
@@ -38,9 +38,3 @@ In the diagram below of a hypothetical approval process, the gating approval is 
 
 **Parent Topic:**[Classic approvals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/r_Approvals.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[c_GatingApprovals|Gating approvals]]
-- [[c_ProcessApprovals|Process approvals]]
-- [[c_ExecutionPlans|Execution Plans]]

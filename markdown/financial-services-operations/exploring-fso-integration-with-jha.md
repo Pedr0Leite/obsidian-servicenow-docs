@@ -16,7 +16,7 @@ The Financial Services Operations Integration with Jack Henry jXchange applicati
 
 ## Architectural overview
 
-The following diagram is a high-level overview of the design of the Jack Henry jXchange integration and the role that each layer plays in [[fso-overview|Financial Services]] Operations \(FSO\). The table that follows the diagram describes the different layers.
+The following diagram is a high-level overview of the design of the Jack Henry jXchange integration and the role that each layer plays in Financial Services Operations \(FSO\). The table that follows the diagram describes the different layers.
 
 \[Omitted image "jha-thirdparty-integ.png"\] Alt text: Diagram of a high-level overview of the design of the JHA integration and the role each layer plays in Financial Services Operations applications. For description of the layers, refer to the following table.
 
@@ -63,9 +63,5 @@ Layer that includes the Jack Henry jXchange spoke plugin. This layer provides th
 -   Look up Financial Transactions Stream
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[fso-integration-with-jha-integthub-landing-page|Financial Services Operations Integration with Jack Henry jXchange]]
+</table>**Parent Topic:**[Financial Services Operations Integration with Jack Henry jXchange](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-integration-with-jha-integthub-landing-page.md)
 
-## Related
-
-- [[fso-integration-with-jha-integthub-landing-page|Financial Services Operations Integration with Jack Henry jXchange]]
-- [[fso-overview|Financial Services]]

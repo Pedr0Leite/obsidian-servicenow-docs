@@ -18,9 +18,9 @@ Use the AI reporting assistant to generate report from ServiceNow data using pro
 
 ## Before you begin
 
-[[install-document-designer-referencing-for-cam-ato2|Install the ServiceNow Document designer add-in]]. For more information, see [Install the ServiceNow Document Designer add-in](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/install-document-designer.md).
+Install the ServiceNow Document designer add-in. For more information, see [Install the ServiceNow Document Designer add-in](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/install-document-designer.md).
 
-**Note:** The [[ai-reporting-assistant|AI reporting assistant]] is part of the AI for document designer app and is available only if the AI for document designer app is installed.
+**Note:** The AI reporting assistant is part of the AI for document designer app and is available only if the AI for document designer app is installed.
 
 Role required: sn\_grc\_doc\_design.reader
 
@@ -53,7 +53,3 @@ To view all AI-generated content inserted during a tracked conversation, see [Ma
 
 **Parent Topic:**[AI reporting assistant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/ai-reporting-assistant.md)
 
-## Related
-
-- [[install-document-designer-referencing-for-cam-ato2|Install the ServiceNow Document Designer add-in]]
-- [[ai-reporting-assistant|AI reporting assistant]]

@@ -14,7 +14,7 @@ breadcrumb: [Standard change catalog, Configure, Change Management, IT Service M
 
 # Create a standard change task template
 
-You can [[create-a-change-task|create a change task]] template to add to a standard change proposal. If the standard change proposal is approved, the related [[change-tasks|change tasks]] are created when the standard change request is created.
+You can create a change task template to add to a standard change proposal. If the standard change proposal is approved, the related change tasks are created when the standard change request is created.
 
 ## Before you begin
 
@@ -60,7 +60,7 @@ Order
 
 </td><td>
 
-Order in which change tasks are created in the change request.The **Order** field determines the order in which you add the change tasks to the change request when you select it from the [[c_StandardChangeCatalogPlugin|standard change catalog]].
+Order in which change tasks are created in the change request.The **Order** field determines the order in which you add the change tasks to the change request when you select it from the standard change catalog.
 
 </td></tr><tr><td>
 
@@ -98,8 +98,3 @@ Propose a new standard change template when you identify a need while creating a
 
 [Modify or retire a standard change template]()
 
-## Related
-
-- [[create-a-change-task|Create a change task]]
-- [[change-tasks|Change tasks]]
-- [[c_StandardChangeCatalogPlugin|Standard change catalog]]

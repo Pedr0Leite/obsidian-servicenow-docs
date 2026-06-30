@@ -20,7 +20,7 @@ Manage problems and problem tasks through their life cycle, share workarounds or
 
 If you aren't using the base problem life cycle, you will continue to use the classic experience to manage problems or problem tasks through their life cycle. From the problem task record page, select **Continue problem task** to be redirected to the ServiceNow AI Platform user interface where you can make state transitions. For information about state transitions of a problem, see [Life cycle of a problem](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/understanding-state-mgmt-transitions.md).
 
-The base problem life cycle is included with the [[c_ProblemManagement|Problem Management]]  Best Practice - Madrid - State Model \(com.snc.best\_practice.problem.madrid.state\_model\) plugin. Use the Problem Management [[migration-utility|Migration Utility]] [store application](https://store.servicenow.com/sn_appstore_store.do#!/store/application/d03b7539dbbb3300f21e7ffdbf9619a8) to enable this plugin and migrate your records to the base problem life cycle.
+The base problem life cycle is included with the Problem Management  Best Practice - Madrid - State Model \(com.snc.best\_practice.problem.madrid.state\_model\) plugin. Use the Problem Management Migration Utility [store application](https://store.servicenow.com/sn_appstore_store.do#!/store/application/d03b7539dbbb3300f21e7ffdbf9619a8) to enable this plugin and migrate your records to the base problem life cycle.
 
 Role required: itil or problem\_task\_analyst \(for changing the state of the problem task or deleting it\)
 
@@ -52,7 +52,7 @@ Select **Assign to me**.
 
 </td></tr><tr><td id="d388718e123">
 
-**[[assess-a-problem-task|Assess a problem task]]**
+**Assess a problem task**
 
 </td><td>
 
@@ -110,7 +110,7 @@ Select the more actions icon \(\[Omitted image "more-actions-icon.png"\] Alt tex
 
 </td></tr><tr><td id="d388718e237">
 
-**[[complete-a-problem-task|Complete a problem task]]**
+**Complete a problem task**
 
 </td><td>
 
@@ -143,16 +143,9 @@ From a problem task in the **Work in Progress** or **Closed** state, select **Re
 
 [Work on a problem in Service Operations Workspace]()
 
-[Problem Management [[c_Models|models]] in Service Operations Workspace]()
+[Problem Management models in Service Operations Workspace]()
 
 [Create a problem task in Service Operations Workspace]()
 
 [Problem Management in Service Operations Workspace reference]()
 
-## Related
-
-- [[c_ProblemManagement|Problem Management]]
-- [[migration-utility|Migration Utility]]
-- [[assess-a-problem-task|Assess a problem task]]
-- [[complete-a-problem-task|Complete a problem task]]
-- [[c_Models|Models]]

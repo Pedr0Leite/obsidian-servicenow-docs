@@ -26,7 +26,7 @@ The \[sn\_hs\_connector\_co.3e\_source\] property value is the unique identifier
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[health-safety-overview|Health and Safety]]** &gt; **Health and Safety administration** &gt; **Properties**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety administration** &gt; **Properties**.
 
 2.  In the **3E API call require ‘’Source’’ as mandatory field to be passed to API to unique identify client account. Default value is set to ‘’CS”** field, enter the unique identifier value for your organization.
 
@@ -37,6 +37,3 @@ The \[sn\_hs\_connector\_co.3e\_source\] property value is the unique identifier
 
 **Parent Topic:**[3E Protect](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-3e-protect.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]

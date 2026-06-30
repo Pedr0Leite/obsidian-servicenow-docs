@@ -12,7 +12,7 @@ breadcrumb: [View a quiz result, Quiz designer, Using Quizzes, Quizzes, Assessme
 
 # Modify the weight of a category
 
-View [[r_CategoryResults|category results]] stored in the Assessment Category Result \[asmt\_category\_result\] table, which display the overall ratings for each category based on the weighted value for each scored question, and edit the default Weight value.
+View category results stored in the Assessment Category Result \[asmt\_category\_result\] table, which display the overall ratings for each category based on the weighted value for each scored question, and edit the default Weight value.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: none
 
 ## Procedure
 
-1.  Navigate to **[[c_Quizzes|Quizzes]]** &gt; **Category Results**.
+1.  Navigate to **Quizzes** &gt; **Category Results**.
 
     \[Omitted image "QuizCategoryResults.png"\] Alt text: Category results
 
@@ -28,25 +28,17 @@ Role required: none
 
 2.  Navigate to**Quizzes** &gt; **Categories**, and select a category from the list.
 
-3.  In the [[metric-category-form|Metric Category form]], edit the default value in the **Weight** field.
+3.  In the Metric Category form, edit the default value in the **Weight** field.
 
 4.  Click **Update**.
 
-    **Note:** You can also edit the weight of a question in the Quiz view of the [[assessment-metric-form|Assessment Metric form]].
+    **Note:** You can also edit the weight of a question in the Quiz view of the Assessment Metric form.
 
 
-**Parent Topic:**[[t_ViewAQuizResult|View a quiz result]]
+**Parent Topic:**[View a quiz result](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAQuizResult.md)
 
 **Related topics**  
 
 
-[[c_QuizDesigner|Quiz designer]]
+[Quiz designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_QuizDesigner.md)
 
-## Related
-
-- [[t_ViewAQuizResult|View a quiz result]]
-- [[c_QuizDesigner|Quiz designer]]
-- [[r_CategoryResults|Category results]]
-- [[c_Quizzes|Quizzes]]
-- [[metric-category-form|Metric Category form]]
-- [[assessment-metric-form|Assessment Metric form]]

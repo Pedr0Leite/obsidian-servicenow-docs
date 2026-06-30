@@ -14,7 +14,7 @@ breadcrumb: [Create custom mapping configurations, Configuring Strategic Plannin
 
 # Create a field map
 
-Map the fields for each table map from [[alignment-planner-workspace-landing-page|Strategic Planning]] to [[agile-landing-page|Agile Development 2.0]], SAFe, [[c_ProjectPortfolioSuite|Project Portfolio Management]] and vice-versa.
+Map the fields for each table map from Strategic Planning to Agile Development 2.0, SAFe, Project Portfolio Management and vice-versa.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Role required: sn\_align\_core.apw\_admin
 
 2.  Select **ServiceNow Internal.**
 
-3.  In the **Table Maps** related list, select the table map for which you want to [[create-field-map-ppw|create a field map]].
+3.  In the **Table Maps** related list, select the table map for which you want to create a field map.
 
 4.  Create a new field map by selecting **New** in the Field Maps tab.
 
@@ -38,9 +38,4 @@ Role required: sn\_align\_core.apw\_admin
 
 6.  Click **Submit**.
 
-## Related
 
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[agile-landing-page|Agile Development 2.0]]
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]
-- [[create-field-map-ppw|Create a field map]]

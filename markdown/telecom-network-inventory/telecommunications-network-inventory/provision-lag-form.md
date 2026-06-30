@@ -14,7 +14,7 @@ breadcrumb: [Reference, Telecommunications Network Inventory]
 
 # Provision LAG form
 
-The Provision LAG form enables you to create, review, and modify the network asset details for Link Aggregation Group \(LAG\) connection in the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+The Provision LAG form enables you to create, review, and modify the network asset details for Link Aggregation Group \(LAG\) connection in the Telecommunications Network Inventory application.
 
 <table id="table_bqz_nww_wxb"><thead><tr><th>
 
@@ -107,6 +107,3 @@ Text field where you can select a destination interface.**Note:** The interface 
 
 [Create a Link Aggregation Group using design and assign function](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create_a_change_request_by_using_the_design_assign_link_aggregation_group.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]

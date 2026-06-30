@@ -30,7 +30,7 @@ If an individual page has a specific tag with the same name as the site tag, the
 
 2.  Open the site.
 
-3.  If not already included, add the **Meta [[c_Tags|Tags]]** related list to the form.
+3.  If not already included, add the **Meta Tags** related list to the form.
 
 4.  In the **Meta Tags** related list, click **New**.
 
@@ -41,6 +41,3 @@ If an individual page has a specific tag with the same name as the site tag, the
 
 **Parent Topic:**[Content Management meta tags](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_ContentManagementMetaTags.md)
 
-## Related
-
-- [[c_Tags|Tags]]

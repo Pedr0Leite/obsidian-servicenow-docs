@@ -10,11 +10,11 @@ reading_time_minutes: 1
 
 # Alumni job opportunities
 
-[[discover-lxp|Discover]] job opportunities tailored to your skills and interests, and explore roles that align with your experience.
+Discover job opportunities tailored to your skills and interests, and explore roles that align with your experience.
 
 Role required: sn\_asc.alumni
 
-Job opportunities are displayed based on your preferences and current role, using scoring from your legacy and current employment details. The Job Opportunities tab shows external roles sourced from the Job Posting table \[sn\_ta\_hiring\_core\_job\_posting\] in [[hiring-core|Hiring Core]].
+Job opportunities are displayed based on your preferences and current role, using scoring from your legacy and current employment details. The Job Opportunities tab shows external roles sourced from the Job Posting table \[sn\_ta\_hiring\_core\_job\_posting\] in Hiring Core.
 
 **Note:** Organizations can import external job data into the Hiring Core plugin to display these roles as job opportunities for alumni.
 
@@ -85,8 +85,3 @@ View job details like description and applicant criteria. Select **Apply**, whic
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[discover-lxp|Discover]]
-- [[hiring-core|Hiring Core]]

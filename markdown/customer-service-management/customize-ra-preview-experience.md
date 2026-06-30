@@ -12,7 +12,7 @@ breadcrumb: [Creating guidance and field recommendation in Recommended Actions, 
 
 # Customize a guidance preview experience in the UI Builder
 
-Customize a preview of a [[configure-nba|Recommended Actions]] card that displays in the contextual side panel using UI Builder. The preview experience includes a hint, an icon, a message, and an action button.
+Customize a preview of a Recommended Actions card that displays in the contextual side panel using UI Builder. The preview experience includes a hint, an icon, a message, and an action button.
 
 ## Before you begin
 
@@ -231,6 +231,4 @@ api.emit(LOG_SEARCH_RESULT_EVENT, {actionData: {actionName: actionId}})
 </td></tr></tbody>
 </table>    For more information, see [Define and bind client scripts to components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/define-client-scripts.md).
 
-## Related
 
-- [[configure-nba|Recommended Actions]]

@@ -14,7 +14,7 @@ breadcrumb: [Create a prompt, Using Now Assist Skill Kit, Now Assist Skill Kit, 
 
 # Add a retriever
 
-Add a retriever to your prompt to augment and add context to your [[ai-prompts|prompts]] with AI search results.
+Add a retriever to your prompt to augment and add context to your prompts with AI search results.
 
 ## Before you begin
 
@@ -28,9 +28,9 @@ A retriever enables the chatbot to access external knowledge by fetching relevan
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[now-assist-skill-kit-landing|Now Assist Skill Kit]]** &gt; **Home**.
+1.  Navigate to **All** &gt; **Now Assist Skill Kit** &gt; **Home**.
 
-2.  [[create-new-skill|Create a skill]] or select the skill that you want to add a retriever to.
+2.  Create a skill or select the skill that you want to add a retriever to.
 
 3.  Select the **2. Add tools** tab.
 
@@ -150,8 +150,3 @@ When you’re building a skill prompt that uses a retriever you can use chunking
 
 **Parent Topic:**[Create a prompt](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/create-prompt-template.md)
 
-## Related
-
-- [[ai-prompts|Prompts]]
-- [[now-assist-skill-kit-landing|Now Assist Skill Kit]]
-- [[create-new-skill|Create a skill]]

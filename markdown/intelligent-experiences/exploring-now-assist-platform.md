@@ -13,7 +13,7 @@ breadcrumb: [Now Assist, Enable AI experiences]
 
 # Exploring Now Assist Admin
 
-Learn how [[platform-now-assist-landing|Now Assist]] Admin brings generative AI capabilities to the ServiceNow AI Platform. With Now Assist Admin, you can improve the productivity and efficiency in your organization, deliver better self-service, recommend actions and provide answers, and empower your users to search more effectively.
+Learn how Now Assist Admin brings generative AI capabilities to the ServiceNow AI Platform. With Now Assist Admin, you can improve the productivity and efficiency in your organization, deliver better self-service, recommend actions and provide answers, and empower your users to search more effectively.
 
 ## Now Assist Admin overview
 
@@ -23,7 +23,7 @@ A skill delivers a feature plus the use case to the user. An example of a skill 
 
 ## Now Assist framework
 
-The Now Assist framework is supported across the ServiceNow AI Platform. To use [[now-assist-skills|Now Assist skills]], activate one or more of the following Now Assist products.
+The Now Assist framework is supported across the ServiceNow AI Platform. To use Now Assist skills, activate one or more of the following Now Assist products.
 
 <table id="table_bdm_bpk_rcc" class="custom-rows"><thead><tr><th class="filter">
 
@@ -168,8 +168,8 @@ The Other workflow accommodates additional plugins and skills that don't fit int
 </td></tr></tbody>
 </table>Now Assist products include some or all of the following foundational platform tools for Now Assist. For more information, see [Now Assist skills in the Platform workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills/now-assist-on-now-platform.md).
 
--   Administrators install plugins, manage skills, and analyze usage and performance with the [[configuring-now-assist|Overview tab in Now Assist Admin]].
--   Users can take advantage of Now Assist skills by using the [[now-assist-panel-overview|Now Assist panel]] on the instance.
+-   Administrators install plugins, manage skills, and analyze usage and performance with the [Overview tab in Now Assist Admin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configuring-now-assist.md).
+-   Users can take advantage of Now Assist skills by using the [Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-overview.md) on the instance.
 -   Use [Now Assist in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/now-assist-ais.md) to generate answers for AI Search.
 -   Use [Now Assist for Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/now-assist-mobile-landing.md) to run generative AI skills in a mobile environment.
 -   Use  to create conversational catalog experiences and author topics that use LLM topic discovery.
@@ -177,30 +177,19 @@ The Other workflow accommodates additional plugins and skills that don't fit int
 
 The following diagram shows what's available in the Now Assist framework.
 
-\[Omitted image "now-assist-framework-overview.png"\] Alt text: The Now Assist framework includes Now Assist Admin, [[now-assist-center-now-assist-panel|Now Assist panel]], and [[generative-ai-controller|Generative AI Controller]]. Framework components become available once you install a product such as Now Assist for IT Service Management \(ITSM\).
+\[Omitted image "now-assist-framework-overview.png"\] Alt text: The Now Assist framework includes Now Assist Admin, Now Assist panel, and Generative AI Controller. Framework components become available once you install a product such as Now Assist for IT Service Management \(ITSM\).
 
 ## Now Assist benefits
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
 |Leverage the power of search with the Now LLM generative AI model to answer questions in user searches with actionable AI-generated summaries of relevant knowledge articles.|[Now Assist in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/now-assist-ais.md)|Everyone|
-|Install and configure Now Assist applications and the skills they provide.|[[install-now-assist-feature-plugins|Now Assist Admin console]]|Administrators|
-|Choose which skills to turn on, and which users can access them.|[[configure-a-now-assist-skill|Now Assist Admin console]]|Administrators|
-|Monitor the usage and performance of generative AI features and capabilities offered under Now Assist.|[[now-assist-analytics|Now Assist Analytics]]|Administrators|
+|Install and configure Now Assist applications and the skills they provide.|[Now Assist Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md)|Administrators|
+|Choose which skills to turn on, and which users can access them.|[Now Assist Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-a-now-assist-skill.md)|Administrators|
+|Monitor the usage and performance of generative AI features and capabilities offered under Now Assist.|[Now Assist Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-analytics.md)|Administrators|
 |Access generative AI skills in context through a user-friendly interface.|[Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-overview.md)|Everyone|
 |Use Now Assist skills on mobile devices.|[Now Assist for Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/now-assist-mobile-landing.md)|Everyone|
 |Customize your workflows and use your own third-party LLM license.|[Generative AI Controller](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/generative-ai-controller/generative-ai-controller.md)|Administrators or developers|
 |Use Now Assist in other platform features.|[Now Assist skills in the Platform workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills/now-assist-on-now-platform.md)|Administrators or developers|
 |Monitor Now Assist consumption on your instance.|[Monitoring Now Assist usage in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/monitoring-now-assist-usage.md)|Administrators|
 
-## Related
-
-- [[configuring-now-assist|Overview tab in Now Assist Admin]]
-- [[now-assist-panel-overview|Now Assist panel]]
-- [[install-now-assist-feature-plugins|Install Now Assist plugins]]
-- [[configure-a-now-assist-skill|Activate a Now Assist skill]]
-- [[now-assist-analytics|Analyzing Now Assist performance]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-skills|Now Assist skills]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[generative-ai-controller|Generative AI Controller]]

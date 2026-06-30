@@ -26,7 +26,7 @@ Cloning a synonym dictionary copies the source dictionary's settings and all of 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ia-ai-search|AI Search]]** &gt; **Search Query Settings** &gt; **Dictionaries**.
+1.  Navigate to **All** &gt; **AI Search** &gt; **Search Query Settings** &gt; **Dictionaries**.
 
 2.  Expand the Synonym record group if necessary and open the synonym dictionary that you want to clone.
 
@@ -37,11 +37,7 @@ Cloning a synonym dictionary copies the source dictionary's settings and all of 
 
 ## Result
 
-The new synonym [[dictionary-form-ais|dictionary form]] opens. All synonym terms defined in the source dictionary appear in the AI Search Dictionary Terms related list.
+The new synonym dictionary form opens. All synonym terms defined in the source dictionary appear in the AI Search Dictionary Terms related list.
 
 **Parent Topic:**[Synonyms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/synonyms-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[dictionary-form-ais|Dictionary form]]

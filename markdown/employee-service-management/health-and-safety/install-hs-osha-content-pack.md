@@ -14,7 +14,7 @@ breadcrumb: [Configure settings, Health and Safety Incident Management OSHA Cont
 
 # Install Health and Safety Incident Management OSHA Content Pack
 
-You can install the [[generating-osha-forms|Health and Safety Incident Management OSHA Content Pack]] application \(com.snc.sn\_hs\_im\_osha\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they aren’t already installed.
+You can install the Health and Safety Incident Management OSHA Content Pack application \(com.snc.sn\_hs\_im\_osha\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they aren’t already installed.
 
 ## Before you begin
 
@@ -57,6 +57,3 @@ For more information, see [Components installed with Health and Safety Incident 
 
 **Parent Topic:**[Setting up the OSHA Content Pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/configuring-osha-forms.md)
 
-## Related
-
-- [[generating-osha-forms|Health and Safety Incident Management OSHA Content Pack]]

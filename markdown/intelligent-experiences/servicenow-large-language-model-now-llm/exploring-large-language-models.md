@@ -18,7 +18,7 @@ ServiceNow AI Platform® utilises large language models \(LLM\) for generative A
 
 ## Third-party model strategy
 
-ServiceNow® supports third-party AI model providers, which signifies that the admin persona can select a third-party large language or an AI model provider for [[now-assist-skills|Now Assist skills]] that are available out of box. The Now LLM Service is the default LLM. Find the supported model providers, the LLM services and the version.
+ServiceNow® supports third-party AI model providers, which signifies that the admin persona can select a third-party large language or an AI model provider for Now Assist skills that are available out of box. The Now LLM Service is the default LLM. Find the supported model providers, the LLM services and the version.
 
 <table id="table_l55_qlf_xfc"><thead><tr><th>
 
@@ -105,7 +105,7 @@ Claude 3.7 Sonnet
 
 ## Large language model selection
 
-This selection is supported at various levels such as, skill, skill group and instance levels. However, the [[controls|controls]] that define LLMs mapping to different skills, allowed at various global locations, are configured and approved in [[ai-control-tower-landing|AI Control Tower]] by the AI steward. The model provider options for custom skills created in [[now-assist-skill-kit-landing|Now Assist skill kit]] and [[ai-agent-studio|AI Agent Studio]] are also configured in AI Control Tower. See [Configure third-party LLMs using AI Control Tower](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/configure-third-party-llms-using-ai-control-tower.md) to learn more.
+This selection is supported at various levels such as, skill, skill group and instance levels. However, the controls that define LLMs mapping to different skills, allowed at various global locations, are configured and approved in AI Control Tower by the AI steward. The model provider options for custom skills created in Now Assist skill kit and AI Agent Studio are also configured in AI Control Tower. See [Configure third-party LLMs using AI Control Tower](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/configure-third-party-llms-using-ai-control-tower.md) to learn more.
 
 The **Manage large language models** feature enables the admin persona to perform additional actions like:
 
@@ -114,14 +114,14 @@ The **Manage large language models** feature enables the admin persona to perfor
 -   View audit history on policy updates by AI steward in AI Control Tower
 -   Select allowed model providers across domain separated instances.
 
-See [[manage-large-language-models|Manage AI models]] to learn about managing.
+See [Manage AI models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/manage-large-language-models.md) to learn about managing.
 
-For more information on selecting and updating model providers, see [[edit-model-providers|Manage model providers]].
+For more information on selecting and updating model providers, see [Manage model providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/edit-model-providers.md).
 
 -   **[Now LLM Service updates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-large-language-model-now-llm/now-llm-model-updates.md)**  
 The Now LLM Service provides access to specialized large language models \(LLMs\) that are developed by ServiceNow. It also provides access to open-source LLMs that are selected, configured, or enhanced by ServiceNow, from the ServiceNow community and partners. Review these reference materials and model cards for additional information about the Now LLM Service and about the models used.
 -   **[General guidelines for writing instructions for generative AI large language models \(LLMs\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-large-language-model-now-llm/llm-instruction-guidelines.md)**  
-When using [[platform-now-assist-landing|Now Assist]] products and skills, you may have the option to give specific instructions or other guidance to the LLM. Writing generative AI instructions is different from conducting a keyword search. Use the following general guidelines when crafting your instructions.
+When using Now Assist products and skills, you may have the option to give specific instructions or other guidance to the LLM. Writing generative AI instructions is different from conducting a keyword search. Use the following general guidelines when crafting your instructions.
 -   **[Long term stable models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-large-language-model-now-llm/long-term-stable-models.md)**  
 Long term stable \(LTS\) models support regulated industries, such as financial institutions, with stronger AI lifecycle management, governance, transparency, and compliance tools.
 -   **[Discrepancies when using different AI search tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-large-language-model-now-llm/aisearch-differences.md)**  
@@ -129,16 +129,5 @@ Different AI search tools may return different answers for the same or similar s
 -   **[Providers and Models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-large-language-model-now-llm/providers-and-models.md)**  
 You can bring your own large language model \(LLM\) provider and API to use with Now Assist.
 
-**Parent Topic:**[[ai-products|Enable AI experiences]]
+**Parent Topic:**[Enable AI experiences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-products.md)
 
-## Related
-
-- [[manage-large-language-models|Manage AI models]]
-- [[edit-model-providers|Manage model providers]]
-- [[ai-products|Enable AI experiences]]
-- [[now-assist-skills|Now Assist skills]]
-- [[controls|Controls]]
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[now-assist-skill-kit-landing|Now Assist Skill Kit]]
-- [[ai-agent-studio|AI Agent Studio]]
-- [[platform-now-assist-landing|Now Assist]]

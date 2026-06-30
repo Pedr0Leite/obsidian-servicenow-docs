@@ -15,7 +15,7 @@ breadcrumb: [Configure, External Content Connectors, Search administration, Conf
 
 # monday.com external content connector
 
-The monday.com external content connector crawls workspaces, boards, board items, and workdocs from your monday.com source system and makes their content and metadata searchable in [[ia-ai-search|AI Search]] applications.
+The monday.com external content connector crawls workspaces, boards, board items, and workdocs from your monday.com source system and makes their content and metadata searchable in AI Search applications.
 
 Connector administrators can run or schedule content crawls to retrieve updated content and access permissions from your source system, or user permission crawls to retrieve updated security principals from your source system. Both types of crawl feed their data to AI Search for indexing.
 
@@ -37,6 +37,3 @@ Specify the workspaces you want your monday.com external content connector to cr
 
 [Create a user permission crawl for an external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/create-user-mapping-crawl-external-content-connector.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]

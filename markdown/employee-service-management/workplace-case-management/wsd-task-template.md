@@ -14,7 +14,7 @@ breadcrumb: [Configure, Workplace Case Management, Workplace Service Delivery, E
 
 # Create a Workplace task template
 
-A Task template simplifies the process of creating tasks in [[workplace-case-mgmt-feat|Workplace Case Management]] by populating fields automatically.
+A Task template simplifies the process of creating tasks in Workplace Case Management by populating fields automatically.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_wsd\_case.admin or sn\_wsd\_case.manager
 
 ## About this task
 
-[[jny-dsgnr-create-task-template|Create a task template]] for use when creating a workplace service.
+Create a task template for use when creating a workplace service.
 
 **Note:** Administrators may use task assignment rules to control the automatic assignment of workplace tasks as long as the task template is not already assigning a person or group to the task. For more information on assignment rules, see [Define assignment rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_DefineAssignmentRules.md).
 
@@ -43,7 +43,7 @@ Role required: sn\_wsd\_case.admin or sn\_wsd\_case.manager
 
 ## Result
 
-The task template is created. You can use this template for [[workplace-services|Workplace services]].
+The task template is created. You can use this template for Workplace services.
 
 **Parent Topic:**[Configuring Workplace Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/workplace-case-mgmt-setup.md)
 
@@ -82,8 +82,3 @@ The task template is created. You can use this template for [[workplace-services
 
 [Group similar workplace cases under a parent case]()
 
-## Related
-
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[jny-dsgnr-create-task-template|Create a task template]]
-- [[workplace-services|Workplace Services]]

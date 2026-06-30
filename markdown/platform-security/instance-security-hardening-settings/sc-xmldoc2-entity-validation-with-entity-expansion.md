@@ -16,7 +16,7 @@ breadcrumb: [Validation, sanitization, and encoding, Hardening settings, Platfor
 
 If customizations do not require entity expansion, use the **glide.xmlutil.max\_entity\_expansion** property to completely disable external entity expansion. The XML completes parsing but doesn't include any internal or external entities.
 
-If the glide property **glide.stax.whitelist\_enabled** doesn't exist in the [[ca-system-properties|System Properties]] \[sys\_properties\] table, or is not set to the recommended value of **true**, then all external entities are allowed when the glide property **glide.stax.allow\_entity\_resolution** is set to the value of **true**.
+If the glide property **glide.stax.whitelist\_enabled** doesn't exist in the System Properties \[sys\_properties\] table, or is not set to the recommended value of **true**, then all external entities are allowed when the glide property **glide.stax.allow\_entity\_resolution** is set to the value of **true**.
 
 If customizations don't require entity expansion, use the **glide.stax.allow\_entity\_resolution** property to completely disable external entity expansion. The XML completes parsing but doesn't include any internal or external entities.
 
@@ -55,6 +55,3 @@ For more information about OWASp resources, see [OWASp](https://owasp.org/www-pr
 
 **Parent Topic:**[Validation, sanitization, and encoding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/validation-sanitization-encoding.md)
 
-## Related
-
-- [[ca-system-properties|System properties]]

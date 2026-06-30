@@ -14,7 +14,7 @@ breadcrumb: [ACC certificates, ACC deployment - shared between servers and endpo
 
 # Manually refresh Agent Client Collector certificates
 
-Refresh [[acc-landing-page|Agent Client Collector]] self-signed certificates manually to validate [[acc-assets|Agent Client Collector plugins]], instead of waiting for the scheduled synchronization. For example, you can use this feature when the agent can't validate a plugin and you don't want to wait for the scheduled synchronization.
+Refresh Agent Client Collector self-signed certificates manually to validate Agent Client Collector plugins, instead of waiting for the scheduled synchronization. For example, you can use this feature when the agent can't validate a plugin and you don't want to wait for the scheduled synchronization.
 
 ## Before you begin
 
@@ -39,7 +39,3 @@ When an agent fails to perform a certificate check, the agent synchronizes certi
 
 **Parent Topic:**[Agent Client Collector certificates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-certificates.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[acc-assets|Agent Client Collector plugins]]

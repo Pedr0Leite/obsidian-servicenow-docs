@@ -18,11 +18,11 @@ Configure the Case create component instance so that your users can embed it wit
 
 ## Before you begin
 
-You must have the following setup to configure the [[case-create-component|Case create component]]:
+You must have the following setup to configure the Case create component:
 
 -   Enable Web Embeddables in your instance. For more information, see [Activate Web Embeddables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/act-web-embeddables.md).
 -   [Set up a custom URL as the instance URL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/set-up-custom-url.md).
--   Authenticate the [[servicenow-web-components-overview|ServiceNow components]] using OpenID Connect \(OIDC\) or non OIDC authentication. For more information, see [Authenticate the ServiceNow components using OIDC](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/authenticate-sn-webcomponents-oidc.md) and [Non OIDC authentication for ServiceNow components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/auth-sn-webcomponents-non-oidc.md).
+-   Authenticate the ServiceNow components using OpenID Connect \(OIDC\) or non OIDC authentication. For more information, see [Authenticate the ServiceNow components using OIDC](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/authenticate-sn-webcomponents-oidc.md) and [Non OIDC authentication for ServiceNow components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/auth-sn-webcomponents-non-oidc.md).
 
 Role required: sn\_embeddable\_core.emb\_admin
 
@@ -45,8 +45,8 @@ Role required: sn\_embeddable\_core.emb\_admin
 5.  Configure the Case create component instance properties.
 
     -   The Preview tab displays real-time data according to choices set in the component properties.
-    -   For a description of the component properties related to the Case create component instance, see [[comp-properties-case-create|Component properties for the Case create]].
-6.  Select the **CORS [[gamification-components-rules|rules]]** tab to configure the CORS rules.
+    -   For a description of the component properties related to the Case create component instance, see [Component properties for the Case create](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/comp-properties-case-create.md).
+6.  Select the **CORS rules** tab to configure the CORS rules.
 
     For more information about configuring CORS rules, see [Configure CORS \(Cross-Origin Resource Sharing\) rules before embedding ServiceNow components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/configure-cors-for-web-components.md).
 
@@ -96,7 +96,7 @@ Role required: sn\_embeddable\_core.emb\_admin
 
 10. In the Component Code tab, slide the **Enable event handler** toggle switch to handle events triggered by the user interactions on the webpage.
 
-    **Note:** Enabling the event handler also modifies the component code. For more information on event handlers in Web Embeddables, see [[we-case-create-event-handlers|Event handlers in the Case create component]].
+    **Note:** Enabling the event handler also modifies the component code. For more information on event handlers in Web Embeddables, see [Event handlers in the Case create component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/we-case-create-event-handlers.md).
 
 11. In the Component code tab, review the generated code and select the **Copy component code**.
 
@@ -166,7 +166,7 @@ Role required: sn\_embeddable\_core.emb\_admin
     			var secondaryURL = '/browse'; // Replace with the URL of the secondary page
     
     			if(button_variant == 'primary') {
-    				// Construct the URL for the [[case-view-web-component|Case View component]] with URL parameters
+    				// Construct the URL for the Case View component with URL parameters
     				const caseViewURL = primaryURL+'?emb_table='+table+'&emb_recordid='+record_sys_id;
     				open(caseViewURL,'_self'); // Open case record when primary button is clicked
     			}
@@ -213,11 +213,3 @@ The global and component codes are ready to be shared with the third-party admin
 
 [Sample code for the Case create component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/we-case-create-sample-code.md)
 
-## Related
-
-- [[comp-properties-case-create|Component properties for the Case create]]
-- [[we-case-create-event-handlers|Event handlers in the Case create component]]
-- [[case-create-component|Case create component]]
-- [[servicenow-web-components-overview|ServiceNow components]]
-- [[gamification-components-rules|Rules]]
-- [[case-view-web-component|Case view component]]

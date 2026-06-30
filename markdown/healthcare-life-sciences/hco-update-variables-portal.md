@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-Record producers are used for case intake in the [[care-team-portal-landing|Care Team Portal]]. The variables on record producers are used to store data that is sent within the authorization token from Epic. A distinct format is used within the variables in a record producer to capture that data in ServiceNow. Use the out of box record producer titled "Report an EMR issue" as a foundational example for how to do this. To create additional record producers it's highly recommended to copy this Record Producer and the out of the box Catalog Client Scripts to ensure that the data in the authorization token from Epic is copied into the record producer. Variables can be created directly on the record producer or may be created within a variable set to apply across multiple record producers.
+Record producers are used for case intake in the Care Team Portal. The variables on record producers are used to store data that is sent within the authorization token from Epic. A distinct format is used within the variables in a record producer to capture that data in ServiceNow. Use the out of box record producer titled "Report an EMR issue" as a foundational example for how to do this. To create additional record producers it's highly recommended to copy this Record Producer and the out of the box Catalog Client Scripts to ensure that the data in the authorization token from Epic is copied into the record producer. Variables can be created directly on the record producer or may be created within a variable set to apply across multiple record producers.
 
 The value set in the "CONTEXT" field of the FDI record in Epic is what controls which data is sent from Epic to ServiceNow. For a full list of available data that can be sent from Epic as well as the contexts in which that data can be sent, refer to the Epic Token Library within Epic's product documentation.
 
@@ -36,6 +36,4 @@ The value set in the "CONTEXT" field of the FDI record in Epic is what controls 
 
 5.  Select **Submit**.
 
-## Related
 
-- [[care-team-portal-landing|Care Team Portal]]

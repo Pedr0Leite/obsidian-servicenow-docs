@@ -12,7 +12,7 @@ breadcrumb: [Email properties, Configure, Email Administration, Notifications, C
 
 # Inbound email configuration
 
-The **Inbound Email Configuration** section of the Email Properties page contains properties to control [[ia-inbound-email-il|inbound email]].
+The **Inbound Email Configuration** section of the Email Properties page contains properties to control inbound email.
 
 <table id="table_bbt_1ry_bp"><thead><tr><th>
 
@@ -103,7 +103,7 @@ Specifies the password for new users created from incoming email. Users must res
 
 </td><td id="entry_TrustedDomainsProperty">
 
-Trusted domains when [[ua-creating-users|creating users]] from incoming email.
+Trusted domains when creating users from incoming email.
 
 </td><td id="entry_TrustedDomainsDesc">
 
@@ -112,7 +112,7 @@ Comma-separated list of trusted domains for which the instance automatically cre
 -   Learn More:Enabling Automatic User Creation
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[c_EmailProperties|Email properties]]
+</table>**Parent Topic:**[Email properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailProperties.md)
 
 **Related topics**  
 
@@ -125,8 +125,3 @@ Comma-separated list of trusted domains for which the instance automatically cre
 
 [Advanced email properties]()
 
-## Related
-
-- [[c_EmailProperties|Email properties]]
-- [[ia-inbound-email-il|Inbound email]]
-- [[ua-creating-users|Creating users]]

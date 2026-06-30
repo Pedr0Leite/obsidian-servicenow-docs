@@ -14,7 +14,7 @@ breadcrumb: [ITOM Cloud Accelerate, IT Operations Management]
 
 # Cloud Provisioning and Governance
 
-The ServiceNow® Cloud Provisioning and Governance \(CPG\) application serves as a unified interface for accessing cloud resources, delivering cloud offerings to a catalog, and overseeing resource usage. This application is transformed as [[csc-home|Cloud Services Catalog]] application, offering refined and streamlined management of usage and life cycle of cloud resources.
+The ServiceNow® Cloud Provisioning and Governance \(CPG\) application serves as a unified interface for accessing cloud resources, delivering cloud offerings to a catalog, and overseeing resource usage. This application is transformed as Cloud Services Catalog application, offering refined and streamlined management of usage and life cycle of cloud resources.
 
 Cloud Provisioning and Governance is integrated with both private and public cloud providers, such as Amazon Web Services, Microsoft Azure, Google Cloud Platform and VMware.
 
@@ -104,6 +104,3 @@ Cloud Provisioning and Governance guided setup provides a sequence of tasks that
 
 For more information about using the guided setup interface, see [Using guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/guided-setup.md).
 
-## Related
-
-- [[csc-home|Cloud Services Catalog]]

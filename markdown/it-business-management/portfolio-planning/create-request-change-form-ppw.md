@@ -14,7 +14,7 @@ breadcrumb: [Form field information, Reference, Next Experience for Demand Manag
 
 # Create request change form
 
-The [[request-change-form|request change form]] information is used to [[create-project-change-request|create a request change]] for a demand.
+The request change form information is used to create a request change for a demand.
 
 <table id="table_igb_mx2_1vb"><thead><tr><th>
 
@@ -148,8 +148,3 @@ Additional information to indicate progress on the demand request change.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[request-change-form|Request change form]]
-- [[create-project-change-request|Create a request change]]

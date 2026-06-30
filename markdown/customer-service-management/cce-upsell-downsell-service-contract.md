@@ -12,7 +12,7 @@ breadcrumb: [Using Contracts and Entitlements Workflows, Customer Contracts and 
 
 # Upsell or Downsell a customer contract line
 
-Upsell or downsell a customer contract line on the [[csm-workspaces-configure|CSM Configurable Workspace]]. You can reduce or increase the quantities of the products specified in the customer contract line.
+Upsell or downsell a customer contract line on the CSM Configurable Workspace. You can reduce or increase the quantities of the products specified in the customer contract line.
 
 ## Before you begin
 
@@ -31,7 +31,7 @@ Role required:
 
 2.  In the list view, navigate to **Contracts and Entitlements** &gt; **Customer Contracts**.
 
-3.  In the customer contract [[migration-lists|lists]], select the customer contract that you want to update.
+3.  In the customer contract lists, select the customer contract that you want to update.
 
 4.  In the customer contract lines related list, select one or more customer contract lines that you want to modify.
 
@@ -49,7 +49,7 @@ Role required:
 
 8.  Select **Modify**.
 
-    The target entity is created depending on the [[gamification-components-rules|rules]] set in the Customer Life Cycle Workflows Policy decision table. For more info, see [[create-cont-ent-workflows-csm|Configuring Customer Life Cycle Workflows Policy decision table]].
+    The target entity is created depending on the rules set in the Customer Life Cycle Workflows Policy decision table. For more info, see [Configuring Customer Life Cycle Workflows Policy decision table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-cont-ent-workflows-csm.md).
 
     -   In case of a partial swap, three quote lines are created. You can select the quote number from the confirmation message to view the quote line items. The quote is approved and the status changes to **Complete** to create an order with three order line items.
     -   In case of a full swap, two quote lines are created. You can select the quote number from the confirmation message to view the quote line items. The quote is approved and the status changes to **Complete** to create an order with two order line items.
@@ -59,9 +59,4 @@ Role required:
 
     **Note:** You can perform a partial or a full swap with a new product from the catalog by following the same procedure.
 
-## Related
 
-- [[create-cont-ent-workflows-csm|Creating contracts and entitlements using workflows]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[migration-lists|Lists]]
-- [[gamification-components-rules|Rules]]

@@ -42,7 +42,7 @@ In JSON format:
 
 ## Procedure
 
-1.  To add this option in the solution definition form, navigate to **All** &gt; **[[predictive-intelligence-landing|Predictive Intelligence]]** &gt; **Classification** &gt; **Solution Definitions**.
+1.  To add this option in the solution definition form, navigate to **All** &gt; **Predictive Intelligence** &gt; **Classification** &gt; **Solution Definitions**.
 
 2.  Open an existing classification solution or create a new one.
 
@@ -72,6 +72,3 @@ Retrain your solution.
 
 [Create and train a classification solution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/create-solution-definition.md)
 
-## Related
-
-- [[predictive-intelligence-landing|Predictive Intelligence]]

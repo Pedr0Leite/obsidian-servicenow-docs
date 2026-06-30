@@ -16,7 +16,7 @@ breadcrumb: [Setup employee communications, Configuring Employee Center Pro, Emp
 
 Modify the out-of-the-box widgets settings according to your organization's needs.
 
-Widgets are containers that display dynamic content from ServiceNow® applications and plug-ins on the [[employee-center-landing-page|Employee Center]] portal. Employees can use widgets to view company announcements, complete to-dos, access SSO-integrated apps, or navigate to popular topics without leaving the portal. Portal admins can customize the widgets, rearranging their size and order and modifying their display.
+Widgets are containers that display dynamic content from ServiceNow® applications and plug-ins on the Employee Center portal. Employees can use widgets to view company announcements, complete to-dos, access SSO-integrated apps, or navigate to popular topics without leaving the portal. Portal admins can customize the widgets, rearranging their size and order and modifying their display.
 
 -   **[Modify the Featured News widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/modify-featured-news-widget.md)**  
 The Featured News widget displays featured articles on company news and announcements.
@@ -25,11 +25,7 @@ The News feed widget displays articles on company news and announcements. All ne
 -   **[Modify the Content Experiences widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-edit-cew.md)**  
 You can edit the banner of your Content Experiences widget to create a modern and unique layout for your content in the Content Experiences widget.
 -   **[Modify banner width options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/change-default-width-of-employee-center-pro-home-page-banner.md)**  
-Modify the width of the [[employee-center-pro-landing|Employee Center Pro]] banner widget, on the home page, to suit your preference.
+Modify the width of the Employee Center Pro banner widget, on the home page, to suit your preference.
 
 **Parent Topic:**[Setup employee communications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-employee-comms.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[employee-center-pro-landing|Employee Center Pro]]

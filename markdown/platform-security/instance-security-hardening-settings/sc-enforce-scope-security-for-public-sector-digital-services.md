@@ -18,7 +18,7 @@ Use the **glide.enforce\_security\_scope.sn\_gsm** property to control how the a
 
 The ServiceNow Public Sector Digital Services application lets you develop public sector applications that deliver digital services to constituents, businesses, and agencies.
 
-When **glide.enforce\_security\_scope.sn\_gsm** is set to false, access to the application data within the global tables of the Public Sector Digital Services app may be accessible based on the [[sc-access-control|access control]] lists \(ACLs\) of those global tables. When this property is set to true, access to data residing in global tables are only evaluated based off the ACLs shipped directly in the Public Sector Digital Services app. Setting this property to false may lead to information disclosure from over permissive ACLs.
+When **glide.enforce\_security\_scope.sn\_gsm** is set to false, access to the application data within the global tables of the Public Sector Digital Services app may be accessible based on the access control lists \(ACLs\) of those global tables. When this property is set to true, access to data residing in global tables are only evaluated based off the ACLs shipped directly in the Public Sector Digital Services app. Setting this property to false may lead to information disclosure from over permissive ACLs.
 
 To remediate this security risk, set **glide.enforce\_security\_scope.sn\_gsm** to true.
 
@@ -34,7 +34,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -46,7 +46,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -109,8 +109,3 @@ References
 </td></tr></tbody>
 </table>**Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[sc-access-control|Access control]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

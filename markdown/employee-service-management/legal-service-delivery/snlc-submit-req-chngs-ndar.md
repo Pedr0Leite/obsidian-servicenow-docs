@@ -28,7 +28,7 @@ Role required: sn\_cm\_core.contract\_user and sn\_lg\_ops.legal\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Employee Center**.
 
     **Note:** If you’re using Legal Service Portal, open a request by navigating to the Legal Service Portal and selecting **My Requests** &gt; **View all requests** from the header.
 
@@ -99,18 +99,13 @@ Submit a change request.
 3.  Describe the desired changes in the **Comments** box.
 4.  Select **Submit**.
 
-The change request is submitted for the contract document. The change request details and the attached document are added to the [[activity-lxp|activity]] stream.
+The change request is submitted for the contract document. The change request details and the attached document are added to the activity stream.
 
  -   When a contract request has been assigned to a contract fulfiller, its status updates to Changes requested and the Contract state remain in Work in progress.
--   If a contract request isn’t assigned to anyone, its state changes to New and it is listed as unassigned in the [[cncore-contract-workspace|contract workspace]] for a contract fulfiller to work on.
+-   If a contract request isn’t assigned to anyone, its state changes to New and it is listed as unassigned in the contract workspace for a contract fulfiller to work on.
 
 
 </td></tr></tbody>
 </table>
 **Parent Topic:**[Reviewing and finalizing a self-served contract document](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-review-finalize-contract.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[activity-lxp|Activity]]
-- [[cncore-contract-workspace|Contract Workspace]]

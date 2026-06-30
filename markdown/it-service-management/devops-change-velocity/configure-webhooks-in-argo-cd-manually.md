@@ -14,7 +14,7 @@ breadcrumb: [Argo CD, Integrate, DevOps Change Velocity, IT Service Management]
 
 # Configure webhooks in Argo CD manually
 
-Configure webhooks in Argo CD to send sync notifications to the [[devops-landing-page-new|DevOps Change Velocity]] application.
+Configure webhooks in Argo CD to send sync notifications to the DevOps Change Velocity application.
 
 ## Before you begin
 
@@ -89,6 +89,3 @@ The subscription to Argo CD application events can be defined using the `notific
 
 **Parent Topic:**[Argo CD integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/argo-cd-integration-with-devops-change-velocity.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]

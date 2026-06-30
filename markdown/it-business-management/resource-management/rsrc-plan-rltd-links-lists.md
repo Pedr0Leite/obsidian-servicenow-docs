@@ -38,7 +38,7 @@ Update Cost Plan
 
 </td><td>
 
-If you are using [[c_ProjectPortfolioSuite|Project Portfolio Management]], [[c_ResourcePlans|resource plans]] automatically create cost plans for a [project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateAProjectCostPlan.md) or [demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_CreateADemandCostPlan.md).
+If you are using Project Portfolio Management, resource plans automatically create cost plans for a [project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateAProjectCostPlan.md) or [demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_CreateADemandCostPlan.md).
 
  Whenever you update the resource plan, click **Update Cost Plan** to [keep the cost plan up-to-date](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/t_UpdateRelatedCostPlan.md).
 
@@ -87,13 +87,8 @@ Resource Plan Logs
 
 </td><td>
 
-Lists any error or warnings that might occur during [[r_AllocatingResources|resource allocation]].
+Lists any error or warnings that might occur during resource allocation.
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Resource Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rsrc-mgmt-reference.md)
 
-## Related
-
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]
-- [[c_ResourcePlans|Resource plans]]
-- [[r_AllocatingResources|Resource allocation]]

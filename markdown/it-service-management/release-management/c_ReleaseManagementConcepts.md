@@ -14,7 +14,7 @@ breadcrumb: [Release Management, IT Service Management]
 
 # Release Management concepts
 
-The [[c_ITILReleaseManagement|Release Management]] application encompasses the planning, design, build, configuration, and testing of hardware and software releases to create a defined set of release components.
+The Release Management application encompasses the planning, design, build, configuration, and testing of hardware and software releases to create a defined set of release components.
 
 Release management comprises of a series of activities performed to ensure that the changes are applied successfully to both pre-production and product environments.
 
@@ -36,6 +36,3 @@ Understand how the different states of the Release \[rm\_release\] and Release T
 
 **Parent Topic:**[Release Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/release-management/c_ITILReleaseManagement.md)
 
-## Related
-
-- [[c_ITILReleaseManagement|Release Management]]

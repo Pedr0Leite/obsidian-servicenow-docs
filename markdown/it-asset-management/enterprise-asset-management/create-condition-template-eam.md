@@ -14,7 +14,7 @@ breadcrumb: [Asset conditions, Create and manage enterprise assets, Managing ent
 
 # Create condition templates for condition attributes
 
-Create a condition template and associate the template to condition attributes for enterprise [[c_Models|models]] and assets.
+Create a condition template and associate the template to condition attributes for enterprise models and assets.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Create condition templates before defining condition attributes on enterprise mo
 
 ## Procedure
 
-1.  From the [[using-eam-workspace|Enterprise Asset Workspace]], navigate to either of the views:
+1.  From the Enterprise Asset Workspace, navigate to either of the views:
 
     -   Admin center
     -   Enterprise asset estate
@@ -75,7 +75,3 @@ Create condition templates before defining condition attributes on enterprise mo
 
 [Define condition attributes on enterprise models and assets]()
 
-## Related
-
-- [[c_Models|Models]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]

@@ -12,7 +12,7 @@ breadcrumb: [Reference, KPI Details, Platform Analytics experience, Platform Ana
 
 # KPI Details Performance Analytics properties
 
-[[kpi-details|KPI Details]] supports several [[pa-properties|Performance Analytics properties]]. These system properties control the behavior of Performance Analytics elements in the context of KPI Details.
+KPI Details supports several Performance Analytics properties. These system properties control the behavior of Performance Analytics elements in the context of KPI Details.
 
 To configure properties, navigate to **Performance Analytics** &gt; **System** &gt; **Properties** or to **sys\_properties.list**.
 
@@ -62,7 +62,7 @@ com.snc.pa.default\_chart\_line\_color
 
 </td><td>
 
-Color of the scores in a KPI Details page and [[widgets|widgets]], including the trend line and bullet chart.
+Color of the scores in a KPI Details page and widgets, including the trend line and bullet chart.
 
 </td></tr><tr><td>
 
@@ -97,11 +97,5 @@ com.snc.pa.default\_chart\_personal\_threshold\_color
 The line color for personal thresholds displayed on a KPI Details page.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[kpi-details-reference|KPI Details reference]]
+</table>**Parent Topic:**[KPI Details reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/kpi-details-reference.md)
 
-## Related
-
-- [[kpi-details-reference|KPI Details reference]]
-- [[kpi-details|KPI Details]]
-- [[pa-properties|Performance Analytics properties]]
-- [[widgets|Widgets]]

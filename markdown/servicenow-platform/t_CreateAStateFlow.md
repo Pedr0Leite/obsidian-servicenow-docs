@@ -80,7 +80,7 @@ Event
 
 </td><td>
 
-Name of an existing event to trigger when this transition occurs. See [[c_StateFlows|evernts triggered on state changes]] for more information.
+Name of an existing event to trigger when this transition occurs. See [evernts triggered on state changes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_StateFlows.md) for more information.
 
 </td></tr><tr><td>
 
@@ -131,7 +131,7 @@ Work notes
 
 </td><td>
 
-Noteworthy comments about this state flow transition. For details about how these notes are used, see [[c_WorkNotes|Work Notes]].
+Noteworthy comments about this state flow transition. For details about how these notes are used, see [Work Notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_WorkNotes.md).
 
 </td></tr><tr><td>
 
@@ -175,7 +175,7 @@ UI action
 
 </td><td>
 
-\[Read Only\] Name of the button that the system creates to enable this transition. The system creates the [[label|label]] using the same name as the state flow record that created it.
+\[Read Only\] Name of the button that the system creates to enable this transition. The system creates the label using the same name as the state flow record that created it.
 
 </td></tr><tr><td colspan="2">
 
@@ -203,7 +203,7 @@ Automatic script
 
 </td><td>
 
-Script that performs additional work when the condition is true. This script can do tasks such as update the date and time the transition occurred or [[notify-landing-page|notify]] someone using [[email|email]] when a specific state change occurs. Automatic state transitions occur when changes are made to the task record.
+Script that performs additional work when the condition is true. This script can do tasks such as update the date and time the transition occurred or notify someone using email when a specific state change occurs. Automatic state transitions occur when changes are made to the task record.
 
 </td></tr><tr><td>
 
@@ -275,18 +275,10 @@ Hides the selected fields when this transition occurs, or when the end state is 
 5.  Configure the fields in the Field Controls section to control how specific fields display when a task record changes states.
 
 
-**Parent Topic:**[[c_UseStateFlows|Use state flows]]
+**Parent Topic:**[Use state flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_UseStateFlows.md)
 
 **Related topics**  
 
 
 [Use state flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_UseStateFlows.md)
 
-## Related
-
-- [[c_StateFlows|State flows]]
-- [[c_WorkNotes|Work notes]]
-- [[c_UseStateFlows|Use state flows]]
-- [[label|Label]]
-- [[notify-landing-page|Notify]]
-- [[email|Email]]

@@ -14,7 +14,7 @@ breadcrumb: [Accelerator request, Initiatives and Accelerators, Using Impact, Im
 
 # Request Accelerators and Initiatives for Impact Store Application
 
-From [[impact-landing-page|Impact]] Store application, request a designated number of concurrent Impact Accelerators according to your subscription and complete the setup.
+From Impact Store application, request a designated number of concurrent Impact Accelerators according to your subscription and complete the setup.
 
 ## Before you begin
 
@@ -53,7 +53,7 @@ Both the Accelerators and the Initiatives in the Impact Store App follow a simil
     |Instance type to copy|Instance type such as Production or Sub-production|
     |Instance to copy|Name of the instance in selected instance type|
     |Use ServiceNow demonstration instance|Option to use ServiceNow demo instance for the Accelerator request|
-    |Do not upgrade the temporary instance|Option to use the copied instance for the [[accelerator-request|Accelerator request]] without upgrade|
+    |Do not upgrade the temporary instance|Option to use the copied instance for the Accelerator request without upgrade|
     |Temporary instance access|User to receive access for the temporary instance|
     |Preferred start date|Preferred start date for the Accelerator|
     |Assign to business objective|Business goal expected for this Accelerator|
@@ -72,7 +72,7 @@ Both the Accelerators and the Initiatives in the Impact Store App follow a simil
 
     If you requested to copy an instance, the progress of the instance copy appears on the navigation pane.
 
-10. Respond to the [[impact-squad|Impact squad]] by using **Notes**, **Comments**, and adding **Attachments**.
+10. Respond to the Impact squad by using **Notes**, **Comments**, and adding **Attachments**.
 
 11. Select **Complete Accelerator** when all the activities listed on the navigation pane are complete.
 
@@ -92,8 +92,3 @@ You might want to request an initiative by following similar on-screen guidance.
 
 If you use IDI, see [Request an Accelerator from IDI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/request-accelerator.md) to request an Accelerator.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[accelerator-request|Accelerator request]]
-- [[impact-squad|Impact Squad]]

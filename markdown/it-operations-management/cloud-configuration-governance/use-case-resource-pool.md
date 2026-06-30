@@ -30,7 +30,7 @@ In this example, the cost of the cloud asset is charged against the budget of th
 ## Components
 
 -   **Review resource pool filter**
-    1.  On the [[cloud-admin-portal|Cloud Admin portal]] navigate to **Manage** &gt; **Resource Pools**.
+    1.  On the Cloud Admin portal navigate to **Manage** &gt; **Resource Pools**.
     2.  Open the **CostCenterPool** and review the related Resource Pool Filters.
 
         -   **All** is a query filter that returns all cost centers in the table.
@@ -86,7 +86,7 @@ In this example, the cost of the cloud asset is charged against the budget of th
     7.  Set the blueprint to **Published**.
 -   **Cost center user**
 
-    Identify a user who is a member of a cost center and who has access to the [[cloudmgt-cloud-user-portal|Cloud User Portal]].
+    Identify a user who is a member of a cost center and who has access to the Cloud User Portal.
 
     \[Omitted image "cost-center-user.png"\] Alt text: User who is a member of the sales cost center.
 
@@ -96,7 +96,7 @@ In this example, the cost of the cloud asset is charged against the budget of th
 After reviewing the components that comprise this use case, test the cloud catalog item to verify that users can select only their cost center.
 
 1.  Impersonate the user, **Alene Rabeck** in this example.
-2.  On the Cloud User Portal, click **[[cloudmgt-launch-stack|Launch a Stack]]**, and then select the cloud catalog item \(**AWS Virtual Server** in this example\).
+2.  On the Cloud User Portal, click **Launch a Stack**, and then select the cloud catalog item \(**AWS Virtual Server** in this example\).
 3.  Review the selections in the **Cost Center** list.
 
     \[Omitted image "catalog-item-cost-center-choice.png"\] Alt text: Sales is the only selection for this user's cost center.
@@ -124,8 +124,4 @@ Test that the resource pool filter is controlling the behavior of the **Cost Cen
 
     \[Omitted image "catalog-item-cost-centers.png"\] Alt text: All cost centers are now displayed for selection.
 
-## Related
 
-- [[cloud-admin-portal|Cloud Admin Portal]]
-- [[cloudmgt-cloud-user-portal|Cloud User Portal]]
-- [[cloudmgt-launch-stack|Launch a stack]]

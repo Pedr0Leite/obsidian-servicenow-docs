@@ -26,7 +26,7 @@ Role required: Permission to create environments in GitHub
 
 ## Procedure
 
-1.  Navigate to **[[settings-mobile|Settings]] &gt; Environments** from a repository and click **New environment** to create an environment. \[Omitted image "github-app-deployment-gate-02.png"\] Alt text: Add new environment for GitHub App
+1.  Navigate to **Settings &gt; Environments** from a repository and click **New environment** to create an environment. \[Omitted image "github-app-deployment-gate-02.png"\] Alt text: Add new environment for GitHub App
 
 2.  In the Deployment protection rules section, select the installed GitHub App name, and select **Save protection rules**. \[Omitted image "github-app-deployment-gate-01.png"\] Alt text: Configure deployment gate in GitHub App environment
 
@@ -47,6 +47,3 @@ Role required: Permission to create environments in GitHub
 
 **Parent Topic:**[GitHub integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/github-integration-dev-ops.md)
 
-## Related
-
-- [[settings-mobile|Settings]]

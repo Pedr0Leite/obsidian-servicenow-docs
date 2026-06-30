@@ -14,7 +14,7 @@ breadcrumb: [Using Dispatcher Workspace, Assigning tasks from Dispatcher Workspa
 
 # Suggest agents to assign to a work order task
 
-Quickly sort a list of the best agents to [[t_AssignATask|assign a work order task]] based on the criteria that you choose from.
+Quickly sort a list of the best agents to assign a work order task based on the criteria that you choose from.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Quickly sort a list of the best agents to [[t_AssignATask|assign a work order ta
 
 Role required: wm\_dispatcher
 
-[[dynamic-scheduling|Dynamic Scheduling]] must be enabled in order to use Assignment assistance. For more information see, [Configuring Dynamic Scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/Configure-dynamic-scheduling.md).
+Dynamic Scheduling must be enabled in order to use Assignment assistance. For more information see, [Configuring Dynamic Scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/Configure-dynamic-scheduling.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Field Service** &gt; **Dispatching** &gt; **[[dispatcher-activities|Dispatcher Workspace]]**.
+1.  Navigate to **All** &gt; **Field Service** &gt; **Dispatching** &gt; **Dispatcher Workspace**.
 
 2.  Select **Dispatcher Workspace**.
 
@@ -49,8 +49,4 @@ Role required: wm\_dispatcher
 
 7.  Select **Save**.
 
-## Related
 
-- [[t_AssignATask|Assign a work order task]]
-- [[dynamic-scheduling|Dynamic scheduling]]
-- [[dispatcher-activities|Dispatcher Workspace]]

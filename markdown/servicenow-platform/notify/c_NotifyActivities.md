@@ -14,7 +14,7 @@ breadcrumb: [Notify reference, Notify, Manage service capabilities, Extend Servi
 
 # Notify workflow activities
 
-Notify workflow activities manage calls and SMS messages in [[notify-landing-page|Notify]].
+Notify workflow activities manage calls and SMS messages in Notify.
 
 All Notify workflows that manage a phone call must run on the notify\_call table. Call-related Notify activities can be added only to workflows where the **Table** field value is **Notify Call \[notify\_call\]**.
 
@@ -29,7 +29,7 @@ The **Join Conference Call** activity connects an incoming or outgoing call to a
 -   **[Call workflow activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/r_WorkflowActivityCall.md)**  
 The **Call** activity makes outbound phone calls using a Notify workflow. This workflow activity can be added to any table.
 -   **[Send SMS workflow activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/r_WorkflowActivitySendSMS.md)**  
-The **send SMS** workflow activity to send short text messages [[using-notify|using Notify]] to users' phones. This workflow activity can be added to any table.
+The **send SMS** workflow activity to send short text messages using Notify to users' phones. This workflow activity can be added to any table.
 -   **[Forward call workflow activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/r_WorkflowActivityForwardCall.md)**  
 The **Forward Call** activity forwards a Notify call to an E.164-compliant phone number.
 -   **[Input workflow activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/r_WorkflowActivityGather.md)**  
@@ -64,7 +64,3 @@ When creating Notify workflow activities, you can use event-handler functions to
 
 [Using variables in Notify workflow activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/c_UsingVariablesInNotifyActivities.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]
-- [[using-notify|Using Notify]]

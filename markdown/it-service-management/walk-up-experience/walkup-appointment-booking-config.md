@@ -14,7 +14,7 @@ breadcrumb: [Walk-up Experience appointment booking administration, Book Walk-up
 
 # Configure Walk-up Experience appointment booking
 
-Create or modify appointment booking configurations for the [[walkup-experience-landing-page|Walk-up Experience]]. You can view or modify the Walk-up Experience application appointment booking configuration and create or modify related service appointment configurations.
+Create or modify appointment booking configurations for the Walk-up Experience. You can view or modify the Walk-up Experience application appointment booking configuration and create or modify related service appointment configurations.
 
 The base system Walk-up Experience application includes a default appointment booking configuration that can be modified. By default, the information stored in the Walk-up Experience application appointment booking configuration applies to all services within that application. Services within the Walk-up Experience application are defined as the actual walk-up queue locations. You can create new appointment booking service configurations for the Walk-up Experience application or modify existing configurations.
 
@@ -41,6 +41,3 @@ Configure scheduled appointment reminders for Walk-up Experience users. Reminder
 
 **Parent Topic:**[Walk-up Experience appointment booking administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walkup-appointment-administration.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]

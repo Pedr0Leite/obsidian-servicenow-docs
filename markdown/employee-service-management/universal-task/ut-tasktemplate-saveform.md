@@ -14,7 +14,7 @@ breadcrumb: [Universal Task templates, Using Universal Task, Universal Task, Emp
 
 # Create a task template by saving a form
 
-Save a populated [[universal-task-form|Universal Task form]] as a template. This is an alternative method for creating a task template.
+Save a populated Universal Task form as a template. This is an alternative method for creating a task template.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Role required: sn\_uni\_task.template\_admin
 
 3.  Right-click the form header and click **Save**.
 
-4.  Click **Create [[universal-task-landing|Universal Task]] Template**.
+4.  Click **Create Universal Task Template**.
 
     The task template with the filled forms appears.
 
@@ -47,7 +47,3 @@ Role required: sn\_uni\_task.template\_admin
 
 **Parent Topic:**[Universal Task templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/ut-task-template-landing.md)
 
-## Related
-
-- [[universal-task-form|Universal Task form]]
-- [[universal-task-landing|Universal Task]]

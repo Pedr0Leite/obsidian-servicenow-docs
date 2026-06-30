@@ -15,7 +15,7 @@ breadcrumb: [Configure Advanced Work Assignment for Accounts Payable Operations,
 
 # Configure the Accounts Payable Operations queues
 
-Configure [[advanced-work-assignment|Advanced Work Assignment]] queues to automatically route [[supplier|supplier]] communications, including email and chat to the appropriate accounts payable agents.
+Configure Advanced Work Assignment queues to automatically route supplier communications, including email and chat to the appropriate accounts payable agents.
 
 ## Before you begin
 
@@ -51,7 +51,3 @@ Role required: admin
 
 **Parent Topic:**[Configure Advanced Work Assignment for Accounts Payable Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/configure-advanced-work-assignment-for-apo.md)
 
-## Related
-
-- [[advanced-work-assignment|advanced work assignment]]
-- [[supplier|Supplier]]

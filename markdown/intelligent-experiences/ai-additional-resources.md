@@ -77,7 +77,7 @@ Glossary
 
 </td><td>
 
-[[now-assist-glossary|Now Assist and Agentic AI glossary]]
+[Now Assist and Agentic AI glossary](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-glossary.md)
 
 </td></tr><tr><td>
 
@@ -103,7 +103,7 @@ Training
 
 </td></tr><tr><td>
 
-[[ai-control-tower-landing|AI Control Tower]]
+AI Control Tower
 
 </td><td>
 
@@ -127,7 +127,7 @@ Getting started
 
 </td></tr><tr><td>
 
-[[document-intelligence-landing|Document Intelligence]]
+Document Intelligence
 
 </td><td>
 
@@ -203,7 +203,7 @@ Training
 
 </td></tr><tr><td>
 
-[[nlu-landing|Natural Language Understanding]] and [[natural-language-query|Natural Language Query]]
+Natural Language Understanding and Natural Language Query
 
 </td><td>
 
@@ -277,7 +277,7 @@ Training
 
 </td></tr><tr><td>
 
-[[platform-now-assist-landing|Now Assist]]
+Now Assist
 
 </td><td>
 
@@ -417,7 +417,7 @@ Training
 
 </td></tr><tr><td>
 
-[[predictive-intelligence-landing|Predictive Intelligence]]
+Predictive Intelligence
 
 </td><td>
 
@@ -491,7 +491,7 @@ Training
 
 </td></tr><tr><td>
 
-[[task-intelligence|Task Intelligence]]
+Task Intelligence
 
 </td><td>
 
@@ -549,14 +549,3 @@ Training
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[now-assist-glossary|Now Assist and Agentic AI glossary]]
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[document-intelligence-landing|Document Intelligence]]
-- [[nlu-landing|Natural Language Understanding]]
-- [[natural-language-query|Natural Language Query]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[predictive-intelligence-landing|Predictive Intelligence]]
-- [[task-intelligence|Task Intelligence]]

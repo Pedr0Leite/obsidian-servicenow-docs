@@ -33,7 +33,7 @@ The steps in this procedure use the example of a formula column that calculates 
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[cwm-landing|Collaborative Work Management]]**.
+1.  Navigate to **Workspaces** &gt; **Collaborative Work Management**.
 
 2.  From a Space, open the Board where you want to add a formula column.
 
@@ -73,6 +73,3 @@ The Board refreshes to display the new formula column, and its values populated 
 
 [Add custom columns for tasks in a CWM Board](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/add-custom-columns-for-tasks-in-board.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

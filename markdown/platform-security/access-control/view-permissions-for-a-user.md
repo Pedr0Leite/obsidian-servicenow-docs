@@ -14,7 +14,7 @@ breadcrumb: [Using Evaluate access, Using Access Analyzer, Access Analyzer, Acce
 
 # View permissions for a user
 
-Use [[access-analyzer|Access Analyzer]] to view permissions for a selected user.
+Use Access Analyzer to view permissions for a selected user.
 
 ## Before you begin
 
@@ -101,13 +101,13 @@ Specify a field name to select from the list. This field can be used to analyze 
 
 4.  Click **Analyze permissions**.
 
-    \[Omitted image "view-permissions-for-a-user.png"\] Alt text: [[permission-evaluation|Permission evaluation]] of Abel Tuter
+    \[Omitted image "view-permissions-for-a-user.png"\] Alt text: Permission evaluation of Abel Tuter
 
     The system displays **Access results** for the **ITIL User**.
 
     \[Omitted image "permissions-for-a-user.png"\] Alt text: Permission results
 
-    The results can be read by referring to the Legends, [[sc-access-control|access control]] list \(ACL\), IAccesshandler, and Data filters.
+    The results can be read by referring to the Legends, access control list \(ACL\), IAccesshandler, and Data filters.
 
     Let's take the example of **read** operation. For the **ITIL User** overall access is Passed, which means the user is able to read the record with the correct permissions \(ACL\).
 
@@ -115,7 +115,7 @@ Specify a field name to select from the list. This field can be used to analyze 
 
     **Note:** In the example, **write** and **delete** operations are blocked for the selected user and the user can’t edit or delete the selected record \(INC0000001\).
 
-5.  Select read operation to know more about the Debug [[logs|logs]].
+5.  Select read operation to know more about the Debug logs.
 
     \[Omitted image "acl-details-for-user.png"\] Alt text: ACL Details
 
@@ -135,9 +135,4 @@ Specify a field name to select from the list. This field can be used to analyze 
 
     \[Omitted image "script-for-a-user.png"\] Alt text: Script Condition in Access Control
 
-## Related
 
-- [[access-analyzer|Access Analyzer]]
-- [[permission-evaluation|Permission evaluation]]
-- [[sc-access-control|Access control]]
-- [[logs|Logs]]

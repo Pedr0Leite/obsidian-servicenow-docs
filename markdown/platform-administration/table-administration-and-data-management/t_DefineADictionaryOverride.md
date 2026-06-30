@@ -22,7 +22,7 @@ Role required: admin.
 
 ## About this task
 
-[[c_DictionaryOverrides|Dictionary overrides]] are only available for tables that support [table extension](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/table-extension-and-classes.md).
+Dictionary overrides are only available for tables that support [table extension](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/table-extension-and-classes.md).
 
 Dictionary overrides are inherited by extended tables, so it may be necessary to define additional overrides to change the value of fields on extended tables. For example, if you define the default value of cmdb\_ci.install\_status to be 3, and create an override for the same field on cmdb\_ci\_hardware to be 5, all tables extended from the Hardware table will also default to 5. So if you want the default cmdb\_ci\_computer.install\_status to be 3, you will need another override.
 
@@ -76,11 +76,11 @@ The list shows only tables and database views that are in the same scope as the 
 
 </td></tr><tr><td>
 
-Override [[reference-email-admin|reference]] qualifier
+Override reference qualifier
 
 </td><td>
 
-Select the check box to display the **Reference qualifier** field, which overrides the [[c_ReferenceQualifiers|Reference qualifiers]] for the field on the extended table.
+Select the check box to display the **Reference qualifier** field, which overrides the [Reference qualifiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ReferenceQualifiers.md) for the field on the extended table.
 
 </td></tr><tr><td>
 
@@ -150,8 +150,3 @@ Select the check box to use this field as the display value on the extended tabl
 
 **Parent Topic:**[Dictionary overrides](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_DictionaryOverrides.md)
 
-## Related
-
-- [[c_ReferenceQualifiers|Reference qualifiers]]
-- [[c_DictionaryOverrides|Dictionary overrides]]
-- [[reference-email-admin|Reference]]

@@ -15,7 +15,7 @@ breadcrumb: [Docusign external content connector, Configure, External Content Co
 
 # Configure crawl settings for a Docusign external content connector
 
-Define inclusion or exclusion filters to control which agreements you want your [[docusign-external-content-connector|Docusign external content connector]] to make searchable.
+Define inclusion or exclusion filters to control which agreements you want your Docusign external content connector to make searchable.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Role required: sn\_ext\_conn.xcc\_admin
 
 ## About this task
 
-This task is optional. By default, the Docusign external content connector retrieves agreements from all envelopes in its specified source system and sends them to [[ia-ai-search|AI Search]] for indexing. Only perform this task if you want to apply any of the following filters to limit which envelopes the connector retrieves agreements from when running content crawls:
+This task is optional. By default, the Docusign external content connector retrieves agreements from all envelopes in its specified source system and sends them to AI Search for indexing. Only perform this task if you want to apply any of the following filters to limit which envelopes the connector retrieves agreements from when running content crawls:
 
 -   Inclusion or exclusion filter based on the sent date of the envelope
 -   Inclusion or exclusion filter based on the name of the envelope
@@ -39,7 +39,7 @@ By default, each external content connector can index up to one million \(1,000,
 
 When a connector's indexed content item count exceeds 800,000, a warning message appears in the connector's UI to indicate that it's approaching the indexing limit. If the connector reaches the indexing limit, an error message appears in its UI.
 
-[[ext-cont-connectors-landing-page|External content connectors]] that support user permissions crawls can handle permissions for up to five hundred thousand \(500,000\) users and their groups. If a connector retrieves users in excess of this limit, user and group permissions may not be correctly applied to the connector's retrieved content. As a result, the content may not be searchable.
+External content connectors that support user permissions crawls can handle permissions for up to five hundred thousand \(500,000\) users and their groups. If a connector retrieves users in excess of this limit, user and group permissions may not be correctly applied to the connector's retrieved content. As a result, the content may not be searchable.
 
 If one of your connectors reaches the content indexing limit, you can update its crawl settings and file inclusion/exclusion filters to reduce the number of content items it retrieves. Alternatively, if you need a connector to index more than 1,000,000 content items, you can create a Customer Service and Support case at [https://support.servicenow.com/now](https://support.servicenow.com/now) to request a limit increase for the connector.
 
@@ -100,8 +100,3 @@ To retrieve content from your Docusign source system using your modified crawl s
 
 **Parent Topic:**[Docusign external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/docusign-external-content-connector.md)
 
-## Related
-
-- [[docusign-external-content-connector|Docusign external content connector]]
-- [[ia-ai-search|AI Search]]
-- [[ext-cont-connectors-landing-page|External Content Connectors]]

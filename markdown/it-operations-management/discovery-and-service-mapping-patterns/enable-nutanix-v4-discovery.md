@@ -18,7 +18,7 @@ Enable Nutanix v4 discovery by setting the MID Server property value to the exac
 
 ## Before you begin
 
-Verify that you have [[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] Patterns installed \(starting with version 1.29.0\).
+Verify that you have Discovery and Service Mapping Patterns installed \(starting with version 1.29.0\).
 
 Role required: discovery\_admin
 
@@ -39,7 +39,3 @@ Role required: discovery\_admin
 
 **Parent Topic:**[Nutanix Acropolis discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/nutanix-pattern.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

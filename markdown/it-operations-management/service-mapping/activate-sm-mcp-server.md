@@ -32,7 +32,7 @@ Role required: admin assigned with the sn\_mcp\_server.admin role, and the oauth
 
 ## About this task
 
-The [[service-mapping-mcp-server|Service Mapping MCP tools]] are delivered as part of the Now Assist CMDB MCP Server \(sn\_cmdb\_gen\_ai.now\_assist\_cmdb\_mcp\_server\). Activating it exposes five read-only tools that AI clients can use to query live application service data. The OAuth inbound integration for this server is auto-generated when the server is installed. You must locate this integration, verify its configuration, and add the redirect URL for the AI client before users can authenticate.
+The Service Mapping MCP tools are delivered as part of the Now Assist CMDB MCP Server \(sn\_cmdb\_gen\_ai.now\_assist\_cmdb\_mcp\_server\). Activating it exposes five read-only tools that AI clients can use to query live application service data. The OAuth inbound integration for this server is auto-generated when the server is installed. You must locate this integration, verify its configuration, and add the redirect URL for the AI client before users can authenticate.
 
 For detailed information, see [Service Mapping MCP tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/service-mapping-mcp-server.md)
 
@@ -44,7 +44,7 @@ For detailed information, see [Service Mapping MCP tools](https://raw.githubuser
 
 3.  Select the **Now Assist CMDB MCP Server** tile.
 
-    **Note:** If the server does not appear, change the application scope to **ITOM [[service-mapping-ai-specialists|AI Agents for Service Mapping]]**. The MCP Server Console screen opens with all fields populated, including the server URL and short description.
+    **Note:** If the server does not appear, change the application scope to **ITOM AI Agents for Service Mapping**. The MCP Server Console screen opens with all fields populated, including the server URL and short description.
 
 4.  From the **Deactivate** menu, select **Activate**.
 
@@ -87,7 +87,3 @@ Share the following details with users so they can connect their AI clients: the
 
 **Parent Topic:**[Service Mapping MCP tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/service-mapping-mcp-server.md)
 
-## Related
-
-- [[service-mapping-mcp-server|Service Mapping MCP tools]]
-- [[service-mapping-ai-specialists|AI Agents for Service Mapping]]

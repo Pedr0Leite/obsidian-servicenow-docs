@@ -14,7 +14,7 @@ breadcrumb: [Migration of resource plans and cost plans, Resource Management cla
 
 # Migrate operational resource plans
 
-Migrate the required Operational [[c_ResourcePlans|resource plans]] to attribute-based Operational resource assignments.
+Migrate the required Operational resource plans to attribute-based Operational resource assignments.
 
 ## Before you begin
 
@@ -35,6 +35,3 @@ Role required: resource\_manager, it\_project\_manager, demand\_manager, admin
 
 **Parent Topic:**[Migration of resource plans, operational resource plans, and cost plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rsrc-plans-rsrc-asgmnts.md)
 
-## Related
-
-- [[c_ResourcePlans|Resource plans]]

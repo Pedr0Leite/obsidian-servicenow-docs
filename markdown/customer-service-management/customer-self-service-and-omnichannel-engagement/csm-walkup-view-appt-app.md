@@ -14,7 +14,7 @@ breadcrumb: [Appointment booking configuration, Walk-up Experience appointment b
 
 # View or modify a Walk-up Experience appointment booking configuration
 
-View the base system default appointment booking configuration to determine if the criteria meets your walk-up appointment booking requirement. You can modify the configuration to manage appointment booking. The information stored in the [[csm-walkup-appt-booking-config|Walk-up Experience appointment booking configuration]] applies to all the services within the application.
+View the base system default appointment booking configuration to determine if the criteria meets your walk-up appointment booking requirement. You can modify the configuration to manage appointment booking. The information stored in the Walk-up Experience appointment booking configuration applies to all the services within the application.
 
 ## Before you begin
 
@@ -93,6 +93,4 @@ Display available appointments for a single day or for a week on the online **Se
 </td></tr></tbody>
 </table>4.  Click **Submit**.
 
-## Related
 
-- [[csm-walkup-appt-booking-config|Walk-up Experience appointment booking configuration]]

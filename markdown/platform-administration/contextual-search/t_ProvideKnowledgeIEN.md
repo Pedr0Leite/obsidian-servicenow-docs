@@ -14,7 +14,7 @@ breadcrumb: [Define email configuration for contextual search, Managing contextu
 
 # Provide knowledge in incident email notification
 
-[[c_ContextualSearch|Contextual search]] [[hs-results|results]] are included in email [[notifications|notifications]] that are sent to users who create a new incident.
+Contextual search results are included in email notifications that are sent to users who create a new incident.
 
 ## Before you begin
 
@@ -54,8 +54,3 @@ You can configure notification options, such as changing the number of links pro
 
 [Edit an email notification for the search results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/t_ConfigureAnEmailNotification.md)
 
-## Related
-
-- [[c_ContextualSearch|Contextual search]]
-- [[hs-results|Results]]
-- [[notifications|Notifications]]

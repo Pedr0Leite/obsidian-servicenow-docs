@@ -14,7 +14,7 @@ breadcrumb: [Activate Procurement, Procurement, Asset Management, IT Service Man
 
 # Components installed with Procurement
 
-Several types of components are installed with [[c_Procurement|Procurement]].
+Several types of components are installed with Procurement.
 
 Demo data is available with Procurement. The demo data provides sample requests, purchase orders, purchase order line items, and receiving slips.
 
@@ -31,6 +31,3 @@ Procurement plugin adds the following user roles.
 
 **Parent Topic:**[Activate Procurement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/procurement/t_ActivateProcurement.md)
 
-## Related
-
-- [[c_Procurement|Procurement]]

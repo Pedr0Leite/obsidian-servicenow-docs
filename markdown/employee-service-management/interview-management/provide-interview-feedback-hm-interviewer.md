@@ -14,7 +14,7 @@ breadcrumb: [Managing interviews as an interviewer, Use, Interview Management, H
 
 # Provide interview feedback
 
-As an interviewer or [[hiring-tab-concept|hiring]] manager, provide feedback for interviews that you're part of.
+As an interviewer or hiring manager, provide feedback for interviews that you're part of.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_ta\_hiring\_core.interviewer or sn\_ta\_hiring\_core.hiring\_
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **My Tasks**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **My Tasks**.
 
 2.  From the **Open** tab, select the interview for which you're providing feedback.
 
@@ -55,7 +55,3 @@ Role required: sn\_ta\_hiring\_core.interviewer or sn\_ta\_hiring\_core.hiring\_
 
 **Parent Topic:**[Managing interviews as an interviewer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/manage-interviews-interviewer.md)
 
-## Related
-
-- [[hiring-tab-concept|Hiring]]
-- [[employee-center-landing-page|Employee Center]]

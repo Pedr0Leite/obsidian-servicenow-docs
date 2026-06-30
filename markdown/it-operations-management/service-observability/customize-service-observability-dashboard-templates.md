@@ -14,7 +14,7 @@ breadcrumb: [Configuring Service Observability, Service Observability, ITOM AIOp
 
 # Customize Service Observability dashboard templates
 
-You can customize the [[service-observability|Service Observability]] [[otto-aiops-dashboards|dashboards]] on both the Overview and Observability tabs of the Service Details page. You can change or add metrics and related data to fit your business needs.
+You can customize the Service Observability dashboards on both the Overview and Observability tabs of the Service Details page. You can change or add metrics and related data to fit your business needs.
 
 Service Observability dashboards are built using templates specific for each observability vendor and entity tab. They're built using Platform Analytics, letting you customize templates to meet your business needs. For example, you might want to display metrics from your observability vendor that aren't available by default.
 
@@ -35,7 +35,7 @@ The Service Observability dashboards use vendor-specific templates. You can see 
 
 **Note:** When you make a customization, you're changing the template and not the individual service's dashboard. This means that dashboards for any services that also use the same data source are also changed.
 
-Along with observability data, you can also add charts for data from ServiceNow tables and also from data stored in the MetricBase and [[hla-landing-page|Health Log Analytics]] applications.
+Along with observability data, you can also add charts for data from ServiceNow tables and also from data stored in the MetricBase and Health Log Analytics applications.
 
 When you customize a template, a copy of the original is saved so that you can reimplement it if needed. Default dashboards display a `Certified` tag.
 
@@ -52,8 +52,3 @@ Add Splunk Enterprise data to charts on Service Observability dashboard template
 
 **Parent Topic:**[Configuring Service Observability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/configuring-service-observability.md)
 
-## Related
-
-- [[service-observability|Service Observability]]
-- [[otto-aiops-dashboards|Dashboards]]
-- [[hla-landing-page|Health Log Analytics]]

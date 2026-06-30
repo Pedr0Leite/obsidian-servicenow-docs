@@ -14,7 +14,7 @@ breadcrumb: [Scheduling, Workforce Optimization for ITSM, IT Service Management]
 
 # Scheduling your teams' work in Workforce Optimization for ITSM
 
-Manage your workforce efficiently by planning shifts for each day and assigning users to the shifts. With Scheduling, you can use your resources efficiently by planning and managing schedules and staffing needs across your teams from one location. You can also integrate with [[c_OnCallScheduling|on-call scheduling]] and create shifts and schedule for on-call rotations.
+Manage your workforce efficiently by planning shifts for each day and assigning users to the shifts. With Scheduling, you can use your resources efficiently by planning and managing schedules and staffing needs across your teams from one location. You can also integrate with on-call scheduling and create shifts and schedule for on-call rotations.
 
 You can add meeting, training, time-off request, or an ad hoc work shift using the team calendar. You can also filter agents in the team calendar based on their location, region, assignment groups, schedule plan, list of team members, or any field in the agent's record.
 
@@ -41,6 +41,3 @@ Swap an agent's shift in your assignment group with another agent who can work o
 
 **Parent Topic:**[Scheduling in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/explore-schedule-configurable-wfo-itsm.md)
 
-## Related
-
-- [[c_OnCallScheduling|On-Call Scheduling]]

@@ -14,7 +14,7 @@ breadcrumb: [Edit a catalog item in Catalog Builder, Creating or editing catalog
 
 # Create UI policies in Catalog Builder
 
-Configure catalog UI policies with scripts and multiple catalog UI policy actions in [[catalog-builder|Catalog Builder]] to facilitate the creation of complex catalog items.
+Configure catalog UI policies with scripts and multiple catalog UI policy actions in Catalog Builder to facilitate the creation of complex catalog items.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: catalog\_builder\_editor, catalog\_admin, or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[service-catalog|Service Catalog]]** &gt; **Catalog Builder**.
+1.  Navigate to **All** &gt; **Service Catalog** &gt; **Catalog Builder**.
 
 2.  Create a new catalog item or edit an existing one.
 
@@ -39,7 +39,3 @@ Role required: catalog\_builder\_editor, catalog\_admin, or admin
 
 **Parent Topic:**[Edit a catalog item in Catalog Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/edit-cat-item-cat-builder.md)
 
-## Related
-
-- [[catalog-builder|Catalog Builder]]
-- [[service-catalog|Service Catalog]]

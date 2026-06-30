@@ -20,7 +20,7 @@ Role required: admin, sn\_gd\_core.decision\_tree\_author
 
 ## About this task
 
-You can edit or extend existing decision trees in the Core UI but you can no longer create them. Use Decision Tree Builder to create new decision trees. For more information, see [[decision-trees-in-gdb|Configuring decision trees in Decision Tree Builder]].
+You can edit or extend existing decision trees in the Core UI but you can no longer create them. Use Decision Tree Builder to create new decision trees. For more information, see [Configuring decision trees in Decision Tree Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/decision-trees-in-gdb.md).
 
 ## Procedure
 
@@ -52,7 +52,7 @@ Action Label
 
 </td><td>
 
-The label of the call-to-action button on the [[configure-nba|Recommended Actions]] card.
+The label of the call-to-action button on the Recommended Actions card.
 
 </td></tr><tr><td>
 
@@ -94,10 +94,5 @@ Shows or hides the **Dismiss** button that cancels the flow of a decision tree. 
 
 ## What to do next
 
-[[create-decision-input|Add questions or instructions to a decision input]]
+[Add questions or instructions to a decision input](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-decision-input.md)
 
-## Related
-
-- [[decision-trees-in-gdb|Configuring decision trees in Decision Tree Builder]]
-- [[create-decision-input|Add questions or instructions to a decision input]]
-- [[configure-nba|Recommended Actions]]

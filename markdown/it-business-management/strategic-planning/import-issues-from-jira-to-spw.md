@@ -14,7 +14,7 @@ breadcrumb: [Configure, SPW Jira Integrations, Strategic Planning, Strategic Por
 
 # Import issues from Jira to SPW
 
-Import work items such as epics, features, capabilities, and stories from Jira to [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace \(SPW\) to enable end-to-end visibility in SPW.
+Import work items such as epics, features, capabilities, and stories from Jira to Strategic Planning Workspace \(SPW\) to enable end-to-end visibility in SPW.
 
 ## Before you begin
 
@@ -46,6 +46,3 @@ After the State of the import request changes to Complete, all the work items fr
 1.  [Activate Jira configuration in Enterprise Agile Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/activate-jira-configuration-in-eap.md).
 2.  [Define Agile structure in EAP for Jira Configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/define-agile-structure-eap-teams-spw-jira-integrations.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

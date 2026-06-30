@@ -13,7 +13,7 @@ breadcrumb: [Configure, price, quote, Explore, Sales Customer Relationship Manag
 
 # CPQ Configurator
 
-[[understand-the-commerce-logic-engine|The CPQ Configurator]] interface streamlines the process of configuring and pricing customizable products that are added to [[order-mgt-overview|Sales Customer Relationship Management]] transactions.
+The CPQ Configurator interface streamlines the process of configuring and pricing customizable products that are added to Sales Customer Relationship Management transactions.
 
 ## CPQ Configurator overview
 
@@ -21,7 +21,7 @@ The CPQ Configurator is an attribute-based interface embedded in Sales Customer 
 
 -   **Product catalog admin experience**
 
-    Product catalog admins create configurable product offerings using [[product-catalog-managment|Product Catalog Management]]. After saving a configurable product, they run a synchronization process that generates an associated blueprint for the product. The blueprint contains all the product attribute values \(also called [[fields|fields]]\), product and pricing configuration [[rules_101|rules]], product relationships, and child products that were defined for the product offering. The blueprint controls the product configuration experience for the product offering and is managed using the CPQ Configurator. When configuration is complete, catalog admins publish the product offering to a product catalog, which also deploys the corresponding blueprint for use.
+    Product catalog admins create configurable product offerings using Product Catalog Management. After saving a configurable product, they run a synchronization process that generates an associated blueprint for the product. The blueprint contains all the product attribute values \(also called fields\), product and pricing configuration rules, product relationships, and child products that were defined for the product offering. The blueprint controls the product configuration experience for the product offering and is managed using the CPQ Configurator. When configuration is complete, catalog admins publish the product offering to a product catalog, which also deploys the corresponding blueprint for use.
 
 -   **Agent experience**
 
@@ -36,8 +36,8 @@ The CPQ Configurator is an attribute-based interface embedded in Sales Customer 
 
 |User|Description|
 |----|-----------|
-|Product catalog admin|Create configurable product offerings and generate the associated [[blueprints|blueprints]] that contain the attributes \(fields\), product characteristics, product and pricing rules, product relationships, and child products, that guide valid product configuration by agents and customers.|
-|Sales and order agents|Add [[configurable-products-explore|configurable products]] to opportunities, quotes, orders, and other transactions such as sold products and contracts that involve configurable products in Sales Customer Relationship Management.|
+|Product catalog admin|Create configurable product offerings and generate the associated blueprints that contain the attributes \(fields\), product characteristics, product and pricing rules, product relationships, and child products, that guide valid product configuration by agents and customers.|
+|Sales and order agents|Add configurable products to opportunities, quotes, orders, and other transactions such as sold products and contracts that involve configurable products in Sales Customer Relationship Management.|
 |Customers|Add configurable products for self-service transactions in the Business Portal.|
 
 ## CPQ Configurator workflow
@@ -59,27 +59,15 @@ The following workflow describes the tasks involved in configuring and using the
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Generate and maintain blueprints that contain configuration logic \(rules, attributes, product relationships\) for complex products.|[[som-create-configurable-prod-offerings|Create configurable product offerings and associated blueprints]]|Product catalog admins|
-|Quickly and accurately configure complex products based on requirements and product attributes, without requiring extensive knowledge of product structure and hierarchies.|[[using-servicenowcpq|Using the CPQ Configurator]]|Sales and order agents, customers|
+|Generate and maintain blueprints that contain configuration logic \(rules, attributes, product relationships\) for complex products.|[Create configurable product offerings and associated blueprints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-create-configurable-prod-offerings.md)|Product catalog admins|
+|Quickly and accurately configure complex products based on requirements and product attributes, without requiring extensive knowledge of product structure and hierarchies.|[Using the CPQ Configurator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-servicenowcpq.md)|Sales and order agents, customers|
 
 ## What to explore next
 
 To learn more about configuring and using the CPQ Configurator, see:
 
--   [[configuring-servicenow-cpq|Configuring CPQ Configurator]]
+-   [Configuring CPQ Configurator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configuring-servicenow-cpq.md)
 -   [Create configurable product offerings and associated blueprints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-create-configurable-prod-offerings.md)
 -   [Using the CPQ Configurator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-servicenowcpq.md)
 -   Online help \(access Logik help topics in the CPQ Configurator interface for product catalog admins\)
 
-## Related
-
-- [[som-create-configurable-prod-offerings|Create configurable product offerings and associated blueprints]]
-- [[using-servicenowcpq|Using the CPQ Configurator]]
-- [[configuring-servicenow-cpq|Configuring CPQ Configurator]]
-- [[understand-the-commerce-logic-engine|The CPQ Configurator]]
-- [[order-mgt-overview|Sales Customer Relationship Management]]
-- [[product-catalog-managment|Product Catalog Management]]
-- [[fields|Fields]]
-- [[rules_101|Rules]]
-- [[blueprints|Blueprints]]
-- [[configurable-products-explore|Configurable products]]

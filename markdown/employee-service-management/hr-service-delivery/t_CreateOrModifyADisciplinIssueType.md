@@ -22,7 +22,7 @@ Role required: sn\_hr\_core.basic, or sn\_hr\_core.manager
 
 ## About this task
 
-Disciplinary issue types can be viewed at **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **[[c_ManagedLists|Managed Lists]]** &gt; **Disciplinary Issue Types**.
+Disciplinary issue types can be viewed at **HR Administration** &gt; **Managed Lists** &gt; **Disciplinary Issue Types**.
 
 Default types of disciplinary issues include:
 
@@ -70,7 +70,3 @@ Default types of disciplinary issues include:
 
 **Parent Topic:**[Managed lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_ManagedLists.md)
 
-## Related
-
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[c_ManagedLists|Managed lists]]

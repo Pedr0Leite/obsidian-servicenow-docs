@@ -24,7 +24,7 @@ Role required: sn\_hr\_core.admin, security\_admin
 
 Use **Access Control** \(ACL\) on a field to secure it.
 
-**Note:** This example shows how to secure the **Ethnicity** field on an **[[c_HRProfileRecords|HR Profile]]** form so users with the HR Manager \[hr\_manager\] role or below cannot view it.
+**Note:** This example shows how to secure the **Ethnicity** field on an **HR Profile** form so users with the HR Manager \[hr\_manager\] role or below cannot view it.
 
 ## Procedure
 
@@ -70,6 +70,3 @@ Use **Access Control** \(ACL\) on a field to secure it.
 
 [Access control list rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control-rules.md)
 
-## Related
-
-- [[c_HRProfileRecords|HR Profile]]

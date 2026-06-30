@@ -14,7 +14,7 @@ breadcrumb: [HR Success Dashboard indicators, HR Service Delivery, Employee Serv
 
 # Measure the performance of the HR implementation
 
-Use the [[success-dashboard-landing|HR Success Dashboard indicators]] to measure the performance of your HR implementation using different KPIs.
+Use the HR Success Dashboard indicators to measure the performance of your HR implementation using different KPIs.
 
 For more information on how to share the Dashboard with your leadership, see [Share the Success Dashboard indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/share-itsm-success-dashboard.md).
 
@@ -40,6 +40,3 @@ For more information on the dashboard components, see [HR Success Dashboard indi
 
 For more information on the KPI definitions and formulas, see [HR Success Dashboard indicators KPI definitions and formulas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/sd-formulae.md).
 
-## Related
-
-- [[success-dashboard-landing|HR Success Dashboard indicators]]

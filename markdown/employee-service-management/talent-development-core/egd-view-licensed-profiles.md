@@ -22,7 +22,7 @@ Role required: sn\_egd\_core.admin
 
 ## About this task
 
-The **[[emp-slate-employee-profile|Employee Profile]]** licenses users by the employee profile number. Each number is associated with a user. You can view the user name in the profile.
+The **Employee Profile** licenses users by the employee profile number. Each number is associated with a user. You can view the user name in the profile.
 
 ## Procedure
 
@@ -39,6 +39,3 @@ The **[[emp-slate-employee-profile|Employee Profile]]** licenses users by the em
 
 **Parent Topic:**[Administer and maintain the Talent Development Core app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-administration.md)
 
-## Related
-
-- [[emp-slate-employee-profile|Employee profile]]

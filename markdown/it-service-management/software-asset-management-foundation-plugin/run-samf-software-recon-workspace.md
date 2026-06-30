@@ -123,7 +123,7 @@ Progress summary
 
 </td><td>
 
-Specific step within the reconciliation process.**Note:** This list column is not shown by default. You can personalize your list column [[settings-mobile|settings]] to add it, if desired.
+Specific step within the reconciliation process.**Note:** This list column is not shown by default. You can personalize your list column settings to add it, if desired.
 
 </td></tr><tr><td>
 
@@ -137,6 +137,3 @@ The date and time when the particular reconciliation process was completed.
 </table>
 **Parent Topic:**[License usage view for Software Asset Management Foundation plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/license-usage-view-for-samf.md)
 
-## Related
-
-- [[settings-mobile|Settings]]

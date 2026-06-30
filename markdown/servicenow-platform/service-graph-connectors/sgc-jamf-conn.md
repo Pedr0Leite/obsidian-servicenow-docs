@@ -15,7 +15,7 @@ breadcrumb: [Jamf, Service Graph Connectors, Integrating third-party data into C
 
 # Accessing the connection details of Service Graph Connector for Jamf
 
-You can access the connection details of the [[cmdb-integration-jamf|Service Graph Connector for Jamf]] in a single view using the common connection framework \(CCF\) included within the [[integration-commons-for-cmdb|Integration Commons for CMDB]] \(sn\_cmdb\_int\_util\) store app.
+You can access the connection details of the Service Graph Connector for Jamf in a single view using the common connection framework \(CCF\) included within the Integration Commons for CMDB \(sn\_cmdb\_int\_util\) store app.
 
 With the CCF feature, you can access all connections for a connector. Connection details include the alias, properties, data sources, and associated scheduled data imports. In addition, you can test a connection. Additional details may appear depending on the connector type. For more information, see [Accessing the connection details of Service Graph Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-integration-commons/integration-commons-conn-fw.md).
 
@@ -29,7 +29,7 @@ Role required: admin
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[cmdb-sgc-available|Service Graph Connectors]]** &gt; **Jamf** &gt; **Connections**.
+1.  Navigate to **All** &gt; **Service Graph Connectors** &gt; **Jamf** &gt; **Connections**.
 
 2.  From the **Name** column of the Service Graph Connections list, select a connection.
 
@@ -39,8 +39,4 @@ Role required: admin
 
 5.  Select the **Test Connection** related link to test the connection.
 
-## Related
 
-- [[cmdb-integration-jamf|Service Graph Connector for Jamf]]
-- [[integration-commons-for-cmdb|Integration Commons for CMDB]]
-- [[cmdb-sgc-available|Service Graph Connectors]]

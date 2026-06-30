@@ -12,7 +12,7 @@ breadcrumb: [CPQ, Configure, price, quote, Explore, Sales Customer Relationship 
 
 # Cosmo SmartPredict
 
-Cosmo SmartPredict delivers AI-powered, in-context recommendations during configuration, helping users make informed decisions. It learns from live or uploaded data to generate accurate suggestions, improving configuration speed and consistency across [[blueprints|blueprints]]. For clarity, suggestions are labeled Good, Better, or Best.
+Cosmo SmartPredict delivers AI-powered, in-context recommendations during configuration, helping users make informed decisions. It learns from live or uploaded data to generate accurate suggestions, improving configuration speed and consistency across blueprints. For clarity, suggestions are labeled Good, Better, or Best.
 
 Cosmo SmartPredict provides users with fast, in-context, predictive recommendations as they complete their configurations. SmartPredict can be trained either on existing configurations that are stored in the CPQ environment or on data that is uploaded via a CSV file.
 
@@ -30,7 +30,7 @@ To create a SmartPredict model, click **Create** to start defining the model par
 
 -   Training with live data
 
-    If you choose to use live data to train your model, existing and future configurations in CPQ that use this blueprint will serve as inputs to refine the model for the [[fields|fields]] in the blueprint. You can further refine the training data by defining a start date and by specifying inclusion or exclusion of fields. You can create additional filters based on field values. Any filtering of the training data is optional. If all other parameters are left blank, the model will be trained on all existing configurations of the blueprint. Once finished setting parameters, click **Save &amp; Train** to begin training the model.
+    If you choose to use live data to train your model, existing and future configurations in CPQ that use this blueprint will serve as inputs to refine the model for the fields in the blueprint. You can further refine the training data by defining a start date and by specifying inclusion or exclusion of fields. You can create additional filters based on field values. Any filtering of the training data is optional. If all other parameters are left blank, the model will be trained on all existing configurations of the blueprint. Once finished setting parameters, click **Save &amp; Train** to begin training the model.
 
     Optional filtering parameters include:
 
@@ -43,7 +43,7 @@ To create a SmartPredict model, click **Create** to start defining the model par
 
     When formatting the CSV file, you can choose to provide only a subset of the available fields on the blueprint.
 
-    -   Fields: The column header should be the variable name of the field that the values are provided for. Only fields that are of a type that can be predicted are used in training: Boolean, number, picklist, [[cpq-sets|sets]], and [[product_picker_overview|product pickers]]. Text fields are not predicted and are not used in training.
+    -   Fields: The column header should be the variable name of the field that the values are provided for. Only fields that are of a type that can be predicted are used in training: Boolean, number, picklist, sets, and product pickers. Text fields are not predicted and are not used in training.
     -   Multiselect picklists: Provide multiple values of a picklist using commas with no spaces.
     -   Sets and product pickers: The formatting for set and product picker fields is `SetVariableName_index_fieldVariableName` or `ProductPickerVariableName_index_fieldVariableName`, using: 0, 1, or 2 for indexes, and the variable name for the fields, sets, or product pickers.
 
@@ -90,9 +90,3 @@ In general, about 400 configurations are required to have a robust data set on w
 
 As with any AI model, the quality of the training data is the main factor in the quality of the predictions.
 
-## Related
-
-- [[blueprints|Blueprints]]
-- [[fields|Fields]]
-- [[cpq-sets|Sets]]
-- [[product_picker_overview|Product pickers]]

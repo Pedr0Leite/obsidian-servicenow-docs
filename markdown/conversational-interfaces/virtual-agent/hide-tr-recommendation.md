@@ -29,7 +29,7 @@ Topic recommendations are hidden only when **View** is set to **All** \(aggregat
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **[[virtual-agent-landing-page|Virtual Agent]]** &gt; **Topic Recommendations**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Topic Recommendations**.
 
 2.  Select the info icon \[Omitted image "icon-info-blue.png"\] Alt text: Info icon. to open the overlay card for a topic that has a New status.
 
@@ -44,7 +44,3 @@ The recommendation is hidden from the list. To view hidden recommendations, slid
 
 To return a recommendation's status to New, select the info icon \[Omitted image "icon-info-blue.png"\] Alt text: Info icon. to open the overlay card for the topic, and then select **Don't hide**.
 
-## Related
-
-- [[convint-landing-page|Conversational Interfaces]]
-- [[virtual-agent-landing-page|Virtual Agent]]

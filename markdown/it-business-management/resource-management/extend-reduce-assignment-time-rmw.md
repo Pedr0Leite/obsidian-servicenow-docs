@@ -15,7 +15,7 @@ breadcrumb: [Using Resource Management Workspace, Use, Resource Management Works
 
 # Extend or reduce duration of an assignment
 
-Extend or reduce the duration of an assignment from the grid view in the [[rsrc-mgmt-wrkspc|Resource Management Workspace]] when the work duration shifts. The system updates the assignment dates and recalculates the allocated effort across the new date range based on the effort redistribution property.
+Extend or reduce the duration of an assignment from the grid view in the Resource Management Workspace when the work duration shifts. The system updates the assignment dates and recalculates the allocated effort across the new date range based on the effort redistribution property.
 
 ## Before you begin
 
@@ -46,6 +46,3 @@ The resource assignment reflects the updated start and end dates and the allocat
 
 **Parent Topic:**[Using Resource Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/using-rmw.md)
 
-## Related
-
-- [[rsrc-mgmt-wrkspc|Resource Management Workspace]]

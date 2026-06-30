@@ -33,7 +33,7 @@ You can classify your metrics into qualitative and quantitative measurements.
 
 Qualitative metrics in Risk Management are derived from the subjective opinion that you form based on other information. Some examples of qualitative metrics in the Risk Management are categorizing risk severity as Low, Medium, or High, or assessing control effectiveness using descriptive scales.
 
-Quantitative metrics in Risk Management are the metrics that you can measure in a specific number through certain formulas. Some examples of quantitative metrics for an organization include the number of overdue [[risk-assessments|risk assessments]], number of failed controls, and so on.
+Quantitative metrics in Risk Management are the metrics that you can measure in a specific number through certain formulas. Some examples of quantitative metrics for an organization include the number of overdue risk assessments, number of failed controls, and so on.
 
 ## Examples of metrics
 
@@ -65,6 +65,3 @@ To learn more about configuring and using GRC: Metrics, see:
 -   [Using GRC: Metrics to provide data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/using-metrics-irm.md)
 -   [GRC: Metrics reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/grc-metrics-reference-irm.md)
 
-## Related
-
-- [[risk-assessments|risk assessments]]

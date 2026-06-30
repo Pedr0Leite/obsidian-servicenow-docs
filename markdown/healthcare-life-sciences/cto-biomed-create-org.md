@@ -12,7 +12,7 @@ breadcrumb: [Configure, Care Team Operations for Biomed, Healthcare Operations, 
 
 # Create healthcare organizations for your biomed support teams
 
-[[hcls-sm-configure-healthcare-organizations|Create a healthcare organization]] to represent the fulfilling healthcare organization for healthcare biomed cases.
+Create a healthcare organization to represent the fulfilling healthcare organization for healthcare biomed cases.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[healthcare-operations-overview|Healthcare Operations]]** &gt; **Healthcare Organizations** &gt; **Hospital Departments**.
+1.  Navigate to **All** &gt; **Healthcare Operations** &gt; **Healthcare Organizations** &gt; **Hospital Departments**.
 
 2.  Select **New**.
 
@@ -37,7 +37,3 @@ Role required: admin
 
 Assign members to your newly created healthcare biomed support organization.
 
-## Related
-
-- [[hcls-sm-configure-healthcare-organizations|Create a healthcare organization]]
-- [[healthcare-operations-overview|Healthcare Operations]]

@@ -12,7 +12,7 @@ breadcrumb: [Product inventory configurations, Customer Life Cycle Management Wo
 
 # Resume product inventory records
 
-Perform the **Resume** operation on single or multiple product inventory records that result in the creation of orders or quotes on the [[csm-workspaces-configure|CSM Configurable Workspace]]. By resuming a product inventory, you can restart a product or service.
+Perform the **Resume** operation on single or multiple product inventory records that result in the creation of orders or quotes on the CSM Configurable Workspace. By resuming a product inventory, you can restart a product or service.
 
 ## Before you begin
 
@@ -49,6 +49,3 @@ After performing the **Resume** action, a resume order is created and the fulfil
 
 An order for resuming the product inventory records are created.
 
-## Related
-
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

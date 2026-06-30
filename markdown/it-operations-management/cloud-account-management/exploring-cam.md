@@ -15,7 +15,7 @@ breadcrumb: [Cloud Account Management, ITOM Cloud Accelerate, IT Operations Mana
 
 # Exploring Cloud Account Management
 
-The ServiceNow [[cam-landing|Cloud Account Management]] in Cloud Workspace application provides a framework to streamline the cloud account creation and management process.
+The ServiceNow Cloud Account Management in Cloud Workspace application provides a framework to streamline the cloud account creation and management process.
 
 ## Cloud Account Management overview
 
@@ -29,21 +29,21 @@ As a Cloud Account Management admin, you can view the account statistics display
 
 Cloud Account Management dynamically adjusts the features available to you based on your entitlements.
 
--   Cloud Account Management entitlement becomes available with the [[itom-cloud-accelerate-landing-page|ITOM Cloud Accelerate]] license.
--   The [[cloud-governance|Cloud Governance]] Suite \(CGS\) license is a prerequisite to have Cloud Workspace. The CGS license provides the following capabilities:
+-   Cloud Account Management entitlement becomes available with the ITOM Cloud Accelerate license.
+-   The Cloud Governance Suite \(CGS\) license is a prerequisite to have Cloud Workspace. The CGS license provides the following capabilities:
     -   Access the home page
     -   Access the asset explorer, which provides an overview of your cloud assets and asset details
 -   The Cloud Governance Suite with the Cloud Account Management entitlements \(CGS + CAM\) provides the following additional capabilities:
     -   View an overview of your accounts and account details
     -   Submit, view, or approve account requests
-    -   [[certify-account|Certify an account]]
+    -   Certify an account
     -   View the compliance dashboard
     -   Configure Cloud Account Management or view configuration details
     -   Create request policies to automate the complete account creation and suspension process
 
 ## Compliance dashboard in Cloud Workspace
 
-The compliance dashboard consolidates data from [[itom-visibility-landing-page|ITOM Visibility]], Cloud Account Management to provide a unified view of cloud data and key metrics critical for security and compliance reporting.
+The compliance dashboard consolidates data from ITOM Visibility, Cloud Account Management to provide a unified view of cloud data and key metrics critical for security and compliance reporting.
 
 For more details, see [Viewing the compliance dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/viewing-compliance-dashboard.md).
 
@@ -155,10 +155,3 @@ Certifier
 
 [About provision modes in Cloud Account Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/about-provision-modes.md)
 
-## Related
-
-- [[cam-landing|Cloud Account Management]]
-- [[itom-cloud-accelerate-landing-page|ITOM Cloud Accelerate]]
-- [[cloud-governance|Cloud Governance]]
-- [[certify-account|Certify an account]]
-- [[itom-visibility-landing-page|ITOM Visibility]]

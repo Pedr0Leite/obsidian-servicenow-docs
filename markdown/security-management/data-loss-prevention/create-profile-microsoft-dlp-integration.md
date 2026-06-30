@@ -14,7 +14,7 @@ breadcrumb: [Data Loss Prevention Incident Response with Microsoft, Integrate, D
 
 # Create a new incident profile for Microsoft DLP integration
 
-[[ms-defender-profile|Create an incident profile]] in your  ServiceNow AI Platform instance to retrieve the data from the Microsoft Purview and add the data into the ServiceNow DLP IR incident table.
+Create an incident profile in your  ServiceNow AI Platform instance to retrieve the data from the Microsoft Purview and add the data into the ServiceNow DLP IR incident table.
 
 ## Before you begin
 
@@ -99,6 +99,3 @@ Set a schedule to retrieve the incident data and ingest Microsoft DLP IR inciden
 
 **Parent Topic:**[Data Loss Prevention Incident Response with Microsoft](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/dlp-integration-microsoft.md)
 
-## Related
-
-- [[ms-defender-profile|Create an incident profile]]

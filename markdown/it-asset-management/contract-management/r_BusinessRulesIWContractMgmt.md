@@ -14,7 +14,7 @@ breadcrumb: [Components installed with Contract Management, Contract Management,
 
 # Business rules installed with Contract Management
 
-Business rules are added with [[c_ContractManagement|Contract Management]].
+Business rules are added with Contract Management.
 
 <table id="table_hmk_t3f_4r"><thead><tr><th>
 
@@ -62,7 +62,7 @@ Contract \[ast\_contract\]
 
 </td><td>
 
-Stores history when the start, end, or [[c_TermsAndConditions|terms and conditions]] of a contract change.
+Stores history when the start, end, or terms and conditions of a contract change.
 
 </td></tr><tr><td>
 
@@ -196,13 +196,8 @@ Contract \[ast\_contract\]
 
 </td><td>
 
-For [[c_Contracts|contracts]] with the contract model **Purchase Agreement**, the business rule validates that the **Discount** field does not contain a value less than zero or greater than 99.
+For contracts with the contract model **Purchase Agreement**, the business rule validates that the **Discount** field does not contain a value less than zero or greater than 99.
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Components installed with Contract Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/r_ComponentsInstalledWContractMgmt.md)
 
-## Related
-
-- [[c_ContractManagement|Contract Management]]
-- [[c_TermsAndConditions|Terms and conditions]]
-- [[c_Contracts|Contracts]]

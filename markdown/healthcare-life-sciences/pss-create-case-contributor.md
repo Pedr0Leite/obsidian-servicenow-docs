@@ -16,12 +16,9 @@ Create enrollment cases for your patients from a service portal as a user with t
 
 **Important:**
 
-Starting with the Yokohama release, [[pss-app|Patient Support Services]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+Starting with the Yokohama release, Patient Support Services is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base.
 
 Your administrator can configure the option for creating enrollment cases. By default, the option is available from the Case menu on the Consumer Service Portal page. If you have the [contributor role in CSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-contributor-user-roles.md), you can use the option to create enrollment cases from your Consumer Service Portal.
 
-## Related
-
-- [[pss-app|Patient Support Services]]

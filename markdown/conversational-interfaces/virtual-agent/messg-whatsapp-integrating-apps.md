@@ -14,16 +14,11 @@ breadcrumb: [Configure, Conversational Integration with WhatsApp \(powered by Tw
 
 # Integrating the WhatsApp messaging app with other applications
 
-Other ServiceNow applications and features can use the [[messg-whatsapp-twilio|Conversational Integration with WhatsApp \(powered by Twilio\)]] application.
+Other ServiceNow applications and features can use the Conversational Integration with WhatsApp \(powered by Twilio\) application.
 
 As a live agent, when you accept a request from the WhatsApp service channel, you can converse with the requester within the same channel.
 
 ## Integrating with Customer Service Management
 
-Integrate the Conversational Integration with WhatsApp \(powered by Twilio\) application with the ServiceNow® Customer Service [[management|Management]] application to enable your customer contacts and consumers to initiate a WhatsApp chat conversation with a [[virtual-agent-landing-page|virtual agent]] or live agent. An agent can initiate a conversation, or accept a conversation initiated from a WhatsApp chat conversation. For more information, see Integrate WhatsApp with Customer Service Management through Twilio.
+Integrate the Conversational Integration with WhatsApp \(powered by Twilio\) application with the ServiceNow® Customer Service Management application to enable your customer contacts and consumers to initiate a WhatsApp chat conversation with a virtual agent or live agent. An agent can initiate a conversation, or accept a conversation initiated from a WhatsApp chat conversation. For more information, see Integrate WhatsApp with Customer Service Management through Twilio.
 
-## Related
-
-- [[messg-whatsapp-twilio|Conversational Integration with WhatsApp \(powered by Twilio\)]]
-- [[management|Management]]
-- [[virtual-agent-landing-page|Virtual Agent]]

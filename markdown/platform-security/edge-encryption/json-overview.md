@@ -14,12 +14,12 @@ breadcrumb: [Encryption rule objects and APIs, Define a custom encryption rule, 
 
 # JSON APIs
 
-JSON APIs can be used after calling getAsJsonContent\(\) on either the [[c_requestAPI|request]] object or a ParameterValue property.
+JSON APIs can be used after calling getAsJsonContent\(\) on either the request object or a ParameterValue property.
 
-When using JSON APIs to write your [[encryption-landing|encryption]] rule, you can follow a general format:
+When using JSON APIs to write your encryption rule, you can follow a general format:
 
-1.  Call getAsJsonContent\(\) on the request object. This returns an iterable object of the [[c_JsonNodeAPI|JsonNode]] underlying class.
-2.  Call iterator\(\) or getIterator\(String xPath\) on the JsonNode object. This returns a [[c_JsonNodeIteratorAPI|JsonNodeIterator]] object that can be used to iterate over nodes in the JSON object.
+1.  Call getAsJsonContent\(\) on the request object. This returns an iterable object of the JsonNode underlying class.
+2.  Call iterator\(\) or getIterator\(String xPath\) on the JsonNode object. This returns a JsonNodeIterator object that can be used to iterate over nodes in the JSON object.
 3.  Call the hasNext\(\) method on the JsonNodeIterator object to determine whether another element is available.
 4.  Call next\(\) on the JsonNodeIterator object to return the next JSON element. You cannot call next\(\) without first calling hasNext\(\).
 5.  Call valueFor\(String tableName, String fieldName\) on the JSON element. This method tells the proxy that the value for this element maps to the specified field in the specified table. The proxy then checks whether the field must be encrypted.
@@ -148,9 +148,3 @@ You get a JsonNodeIterator object by calling the getIterator\(\) or iterator\(\)
 
 **Parent Topic:**[Encryption rule objects and APIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/api-overview.md)
 
-## Related
-
-- [[c_requestAPI|request]]
-- [[encryption-landing|Encryption]]
-- [[c_JsonNodeAPI|JsonNode]]
-- [[c_JsonNodeIteratorAPI|JsonNodeIterator]]

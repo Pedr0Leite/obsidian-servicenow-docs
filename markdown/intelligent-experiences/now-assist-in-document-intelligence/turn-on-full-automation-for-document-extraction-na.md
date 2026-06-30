@@ -15,18 +15,18 @@ breadcrumb: [Configure, Now Assist in Document Intelligence, Enable AI experienc
 
 # Turn on Full automation mode for a use case
 
-Turn on Full automation mode to automatically complete and submit document tasks without an agent review. Full automation mode is turned off by default in use [[cases|cases]].
+Turn on Full automation mode to automatically complete and submit document tasks without an agent review. Full automation mode is turned off by default in use cases.
 
 ## Before you begin
 
--   Set up a use case fora [[docintel-nowassist-landing|Now Assist in Document Intelligence]] skill. For more information, see [Set up a use case for Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/set-up-use-case-for-now-assist-document-intelligence.md).
+-   Set up a use case fora Now Assist in Document Intelligence skill. For more information, see [Set up a use case for Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/set-up-use-case-for-now-assist-document-intelligence.md).
 -   Role required: sn\_docintel.manager
 
 ## About this task
 
 The extraction mode determines how Now Assist in Document Intelligence processes document tasks for a use case. For more information, see [Data extraction modes in Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/data-extraction-modes-now-assist-document-intelligence.md).
 
-Turn on Full automation mode if you want [[platform-now-assist-landing|Now Assist]] to bypass the agent review used to check the accuracy of the predicted values. Now Assist auto-fills the values for all required fields or marks them as missing in the document. Document tasks created for the use case are automatically completed and submitted by Now Assist.
+Turn on Full automation mode if you want Now Assist to bypass the agent review used to check the accuracy of the predicted values. Now Assist auto-fills the values for all required fields or marks them as missing in the document. Document tasks created for the use case are automatically completed and submitted by Now Assist.
 
 **Warning:** Now Assist may not always produce accurate, complete, or appropriate information. By choosing to bypass the agent review, there is no way to check the accuracy of the predicted values before using the data in your workflows.
 
@@ -36,7 +36,7 @@ Turn on Full automation mode if you want [[platform-now-assist-landing|Now Assis
 
 2.  In the workflow list, select **Platform**.
 
-3.  In the Platform skills list, find the applicable [[document-intelligence-landing|document intelligence]] skill and select **Edit** in the options menu \( \[Omitted image "icon-docintel-field-options-menu.png"\] Alt text: Field options menu icon\).
+3.  In the Platform skills list, find the applicable document intelligence skill and select **Edit** in the options menu \( \[Omitted image "icon-docintel-field-options-menu.png"\] Alt text: Field options menu icon\).
 
 4.  Select the use case you would like to configure.
 
@@ -68,9 +68,3 @@ Turn on Full automation mode if you want [[platform-now-assist-landing|Now Assis
 
 [Delete a use case in Now Assist in Document Intelligence]()
 
-## Related
-
-- [[cases|Cases]]
-- [[docintel-nowassist-landing|Now Assist in Document Intelligence]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[document-intelligence-landing|Document Intelligence]]

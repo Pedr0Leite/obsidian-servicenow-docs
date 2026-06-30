@@ -14,7 +14,7 @@ breadcrumb: [Configuring goals in Strategic Planning, Configure, Portfolio Plann
 
 # Configure a table for an assigned entity
 
-[[configure-assigned-entity|Configure a table for an assigned entity]] type, so that the goal user can associate goals with the required assigned entity.
+Configure a table for an assigned entity type, so that the goal user can associate goals with the required assigned entity.
 
 ## Before you begin
 
@@ -22,8 +22,8 @@ Role required: sn\_gf.goal\_admin
 
 ## About this task
 
--   By default, with the installation of [[alignment-planner-workspace-landing-page|Strategic Planning]], the assigned entities, Business Unit \[business\_unit\], Department \[cmn\_department\], and Company \[core\_company\], Product Model \[cmdb\_model\], Value Stream \[cmn\_value\_stream\], Intiative \[sn\_align\_core\_initiative\], and Strategic Program \[sn\_align\_core\_program\] are installed.
--   With the activation of [[c_ProjectPortfolioSuiteWithFinancials|PPM Standard \(Project Portfolio Management\)]], the Portfolio \[pm\_portfolio\] assigned entity is installed.
+-   By default, with the installation of Strategic Planning, the assigned entities, Business Unit \[business\_unit\], Department \[cmn\_department\], and Company \[core\_company\], Product Model \[cmdb\_model\], Value Stream \[cmn\_value\_stream\], Intiative \[sn\_align\_core\_initiative\], and Strategic Program \[sn\_align\_core\_program\] are installed.
+-   With the activation of PPM Standard \(Project Portfolio Management\), the Portfolio \[pm\_portfolio\] assigned entity is installed.
 
 ## About this task
 
@@ -44,8 +44,3 @@ An assigned entity is an organizational unit or structure that a goal can be ass
 
 **Parent Topic:**[Configuring goals in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/configuring-goal-framework-apw.md)
 
-## Related
-
-- [[configure-assigned-entity|Configure a table for an assigned entity]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[c_ProjectPortfolioSuiteWithFinancials|PPM Standard \(Project Portfolio Management\)]]

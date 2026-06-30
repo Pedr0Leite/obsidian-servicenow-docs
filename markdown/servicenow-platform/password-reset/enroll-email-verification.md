@@ -14,7 +14,7 @@ breadcrumb: [Enrolling in the Password Reset application to reset your password,
 
 # Enroll for the Password Reset program using emailed codes
 
-To verify your identity while resetting your password, you enter a code that was sent to your [[email|email]] address. You can enroll for this program on a mobile device.
+To verify your identity while resetting your password, you enter a code that was sent to your email address. You can enroll for this program on a mobile device.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: none
 
 ## About this task
 
-During this enrollment process, you add the email address, the system sends you a code so you can verify the address, and then you authorize the address to be used for the [[password-reset-landing-page|Password Reset]] process. By default, the system sends the code to the email address that is associated with your ServiceNow profile. You can send the code to additional email addresses.
+During this enrollment process, you add the email address, the system sends you a code so you can verify the address, and then you authorize the address to be used for the Password Reset process. By default, the system sends the code to the email address that is associated with your ServiceNow profile. You can send the code to additional email addresses.
 
 ## Procedure
 
@@ -42,7 +42,7 @@ During this enrollment process, you add the email address, the system sends you 
 
     **Note:** If this process fails, click **Send a New Code** to send a different code and try again.
 
-5.  After you verify each email address, select the **Authorized** [[check-box|check box]] for each address that you expect to use to change or reset your password.
+5.  After you verify each email address, select the **Authorized** check box for each address that you expect to use to change or reset your password.
 
     **Note:** To deauthorize an email address so that it does not receive Password Reset codes, clear the **Authorized** check box.
 
@@ -56,8 +56,3 @@ During this enrollment process, you add the email address, the system sends you 
     -   [Enroll for the Password Reset program using SMS codes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/t_EnrollUsingSMS.md)
     -   [Enroll for the Password Reset program using an authenticator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/authenticator-app-verification.md)
 
-## Related
-
-- [[email|Email]]
-- [[password-reset-landing-page|Password Reset]]
-- [[check-box|Check box]]

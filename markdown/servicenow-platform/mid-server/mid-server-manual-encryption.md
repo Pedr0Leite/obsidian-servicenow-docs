@@ -14,7 +14,7 @@ breadcrumb: [Securing and encrypting MID Server data, MID Server, Manage instanc
 
 # Encrypt or decrypt MID Server configuration file values
 
-The value of any [[mid-server-landing|MID Server]] parameter in the `config.xml` file can be encrypted. The attributes for all encrypted values are managed from within the configuration file, including the security attribute of the login password.
+The value of any MID Server parameter in the `config.xml` file can be encrypted. The attributes for all encrypted values are managed from within the configuration file, including the security attribute of the login password.
 
 ## Before you begin
 
@@ -99,6 +99,3 @@ Role required: admin
 
 [MID Server Governance]()
 
-## Related
-
-- [[mid-server-landing|MID Server]]

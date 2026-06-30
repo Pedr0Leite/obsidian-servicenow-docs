@@ -14,13 +14,13 @@ breadcrumb: [Create exam catalogs, Using Career Assessment, Career Assessment, G
 
 # Add exams to a catalog
 
-Add exams to an exam catalog in [[exam-engine|Career Assessment]].
+Add exams to an exam catalog in Career Assessment.
 
 ## Before you begin
 
 Role required: sn\_exam.catalog\_admin
 
-[[create-exam|Create an exam]] catalog. For more information, see [Create exam catalogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/create-exam-catalog.md).
+Create an exam catalog. For more information, see [Create exam catalogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/create-exam-catalog.md).
 
 ## Procedure
 
@@ -39,7 +39,3 @@ Role required: sn\_exam.catalog\_admin
 
 **Parent Topic:**[Create exam catalogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/create-exam-catalog.md)
 
-## Related
-
-- [[exam-engine|Career Assessment]]
-- [[create-exam|Create an exam]]

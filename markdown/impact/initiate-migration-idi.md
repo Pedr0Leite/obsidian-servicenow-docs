@@ -12,11 +12,11 @@ breadcrumb: [Configure the Impact Store Application, Configuring Impact, Impact]
 
 # Initiate data migration from IDI
 
-After the connection is established between your [[impact-landing-page|Impact]] Store Application and the Impact Delivery Instance, next migrate your data.
+After the connection is established between your Impact Store Application and the Impact Delivery Instance, next migrate your data.
 
 ## Before you begin
 
-**Note:** [[start-automated-registration-IDI|Use automated registration to connect to the Impact Delivery Instance]] prior to migrating data.
+**Note:** [Use automated registration to connect to the Impact Delivery Instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/start-automated-registration-IDI.md) prior to migrating data.
 
 Role required: impact app admin, admin
 
@@ -34,30 +34,20 @@ Role required: impact app admin, admin
 
 5.  Refresh the page to re-populate the migration statuses in the table data.
 
-    The **Overall Migration Status** for each table will update to `Completed` when successfully transferred. Reach out to your [[impact-squad|Impact Squad]] if you require assistance or a table failed to migrate.
+    The **Overall Migration Status** for each table will update to `Completed` when successfully transferred. Reach out to your Impact Squad if you require assistance or a table failed to migrate.
 
 6.  Select **Mark as Complete** on the Initiate Migration page when the data transfer is complete.
 
 
 ## What to do next
 
--   [[hop-access-impact-squad|Grant temporary instance access to your Impact Squad]]
--   See [[instance-integration-scan-engine|Scan Engine integrations]] to connect instances and external agile systems to synchronize definitions, manage exception reasons, create user stories, and enforce governance over app deployments.
--   With successful connection and registration, see [[impact-in-app|Using Impact]] to get started with your Impact Store Application.
+-   [Grant temporary instance access to your Impact Squad](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/hop-access-impact-squad.md)
+-   See [Scan Engine integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/instance-integration-scan-engine.md) to connect instances and external agile systems to synchronize definitions, manage exception reasons, create user stories, and enforce governance over app deployments.
+-   With successful connection and registration, see [Using Impact](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/impact-in-app.md) to get started with your Impact Store Application.
 
-**Parent Topic:**[[configuring-impact-platform|Configure the Impact Store Application]]
+**Parent Topic:**[Configure the Impact Store Application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configuring-impact-platform.md)
 
-**Previous topic:**[[verify-impact-data-connection|Verify Impact data connection]]
+**Previous topic:**[Verify Impact data connection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/verify-impact-data-connection.md)
 
 **Next topic:**[Scan Engine integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/instance-integration-scan-engine.md)
 
-## Related
-
-- [[start-automated-registration-IDI|Use automated registration to connect to the Impact Delivery Instance]]
-- [[hop-access-impact-squad|Grant temporary instance access to your Impact Squad]]
-- [[instance-integration-scan-engine|Scan Engine integrations]]
-- [[impact-in-app|Using Impact]]
-- [[configuring-impact-platform|Configure the Impact Store Application]]
-- [[verify-impact-data-connection|Verify Impact data connection]]
-- [[impact-landing-page|Impact]]
-- [[impact-squad|Impact Squad]]

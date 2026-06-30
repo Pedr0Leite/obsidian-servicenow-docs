@@ -22,13 +22,13 @@ Role required: virtual\_agent\_admin or sn\_vad\_genai.topic\_migration\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **[[virtual-agent-landing-page|Virtual Agent]]** &gt; **Designer**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Designer**.
 
 2.  Select **Migrate Topics to LLM**.
 
-    \[Omitted image "llm-topic-migration-vad.png"\] Alt text: Migrate Topics to LLM is an option in the [[vad-topics-page|Assistant Designer Asset library]] side panel.
+    \[Omitted image "llm-topic-migration-vad.png"\] Alt text: Migrate Topics to LLM is an option in the Assistant Designer Asset library side panel.
 
-    **Note:** An updated Assistant Designer Asset library user interface is available when you install [[now-assist-in-va-landing|Now Assist in Virtual Agent]] and turn on the Now Assist Topics skill. This content assumes that you have activated this skill and can see the list view. If this skill is not activated, you see the legacy UI and topics page. For more information, see [Virtual Agent Designer legacy topics page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/vad-prev-topics-page.md).
+    **Note:** An updated Assistant Designer Asset library user interface is available when you install Now Assist in Virtual Agent and turn on the Now Assist Topics skill. This content assumes that you have activated this skill and can see the list view. If this skill is not activated, you see the legacy UI and topics page. For more information, see [Virtual Agent Designer legacy topics page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/vad-prev-topics-page.md).
 
     The Topic Migration workflow opens in a new browser tab.
 
@@ -42,9 +42,9 @@ Role required: virtual\_agent\_admin or sn\_vad\_genai.topic\_migration\_admin
 
     **Important:** If you leave the topic migration workflow, you’re unable to return to where you left off and you must restart the process.
 
-5.  Review the affected topic blocks, Virtual Agent notifications, and [[proactive-triggers-landing-page|Proactive Triggers]], and then select **Next** on the Review connections step.
+5.  Review the affected topic blocks, Virtual Agent notifications, and Proactive Triggers, and then select **Next** on the Review connections step.
 
-    On the Topic blocks tab, only topic blocks and topic blocks connected with the selected topics are displayed in this list. Dynamic topic blocks must be manually selected for migration. You can select the link in the Topic Block column to view the topic block in the Virtual Agent [[assistant-designer|Assistant Designer]] canvas in a new browser tab. Although dynamic topic blocks can be optionally published, topic blocks are automatically published after migration. The Virtual Agent Notifications and Proactive Triggers tabs only appear if the topics you've selected for migration have notifications or Proactive Triggers associated with the original NLU topic. You can select the link in the Topic Name column on their respective tabs to view the NLU topic in the Virtual Agent Designer canvas in a new browser tab. The LLM-compatible Virtual Agent notifications and Proactive Triggers are created and connected to the new LLM topics only after those topics are published through the last Publish step in the topic migration workflow.
+    On the Topic blocks tab, only topic blocks and topic blocks connected with the selected topics are displayed in this list. Dynamic topic blocks must be manually selected for migration. You can select the link in the Topic Block column to view the topic block in the Virtual Agent Assistant Designer canvas in a new browser tab. Although dynamic topic blocks can be optionally published, topic blocks are automatically published after migration. The Virtual Agent Notifications and Proactive Triggers tabs only appear if the topics you've selected for migration have notifications or Proactive Triggers associated with the original NLU topic. You can select the link in the Topic Name column on their respective tabs to view the NLU topic in the Virtual Agent Designer canvas in a new browser tab. The LLM-compatible Virtual Agent notifications and Proactive Triggers are created and connected to the new LLM topics only after those topics are published through the last Publish step in the topic migration workflow.
 
     **Note:** The Proactive Triggers tab is only applicable if you've installed the Proactive Triggers \[sn\_pt\] app version 3.0.1 or later and have turned on this feature. If you'd prefer to manually migrate your actions for Virtual Agent notifications and Proactive Triggers rather than them automatically migrating after the Publish step, set the **com.glide.cs.notification.create\_llm\_actions\_after\_topic\_migration** and **com.glide.cs.proactive\_trigger.create\_llm\_actions\_after\_topic\_migration** system properties to `false` in **All** &gt; **System Properties** &gt; **All Properties**.
 
@@ -176,11 +176,3 @@ After you navigate away from the topic migration workflow, the topics that you m
 
 **Parent Topic:**[Migrating NLU/keyword Virtual Agent topics to LLM topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/llm-topic-migration.md)
 
-## Related
-
-- [[convint-landing-page|Conversational Interfaces]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[vad-topics-page|Assistant Designer Asset library]]
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]
-- [[proactive-triggers-landing-page|Proactive Triggers]]
-- [[assistant-designer|Assistant Designer]]

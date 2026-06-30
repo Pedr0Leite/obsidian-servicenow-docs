@@ -15,7 +15,7 @@ breadcrumb: [Reference, Microsoft Azure, Service Graph Connectors, Integrating t
 
 # Microsoft Azure discovery solutions comparison
 
-ITOM Visibility applications discover a variety of Microsoft Azure resources and populate the relevant configuration item \(CI\) classes in the [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]] with their attributes.
+ITOM Visibility applications discover a variety of Microsoft Azure resources and populate the relevant configuration item \(CI\) classes in the Configuration Management Database \(CMDB\) with their attributes.
 
 ## ITOM Visibility solutions
 
@@ -48,7 +48,7 @@ Discovery and Service Mapping Patterns and Visibility Content
 
 </td></tr><tr><td>
 
-[[cmdb-integration-azure|Service Graph Connector for Microsoft Azure]]
+Service Graph Connector for Microsoft Azure
 
 </td><td>
 
@@ -73,7 +73,7 @@ Supported by Cloud Discovery and Service Mapping Patterns
 
 </th><th>
 
-Supported by Cloud [[cmdb-sgc-available|Service Graph Connectors]]
+Supported by Cloud Service Graph Connectors
 
 </th><th>
 
@@ -1286,8 +1286,3 @@ cmdb\_azure\_service\_endpoint\_policy\_service\_endpoint\_policy
 </td></tr></tbody>
 </table>**Parent Topic:**[Service Graph Connector for Microsoft Azure reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-azure-reference.md)
 
-## Related
-
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[cmdb-integration-azure|Service Graph Connector for Microsoft Azure]]
-- [[cmdb-sgc-available|Service Graph Connectors]]

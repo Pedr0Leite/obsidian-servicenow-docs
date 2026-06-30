@@ -20,7 +20,7 @@ Configure prioritized intraday optimization to use matching rules that narrow jo
 
 Matching rules for prioritized intraday optimization require [Territory-Based Optimization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/territory-based-optimization.md) to be enabled. Configurations using assignment groups don’t support matching rules.
 
-Install the [[fsm-application-landing-page|Field Service Management]] Demo Data \[com.snc.work\_management.demo\] plugin to access example matching rules. For more information see, [[t_ActivateFieldServiceManagement|Activate Field Service Management]].
+Install the Field Service Management Demo Data \[com.snc.work\_management.demo\] plugin to access example matching rules. For more information see, [Activate Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/t_ActivateFieldServiceManagement.md).
 
 Role required: wm\_admin
 
@@ -37,7 +37,7 @@ You can use these example matching rules or create your own.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[schedule-optimization|Schedule Optimization]]** &gt; **Intraday Optimization** &gt; **Configurations**.
+1.  Navigate to **All** &gt; **Schedule Optimization** &gt; **Intraday Optimization** &gt; **Configurations**.
 
 2.  Select or create the configuration where you want to add the matching rule.
 
@@ -95,8 +95,3 @@ When intraday optimization runs for the selected qualifier and detects an event 
 
 [Configure intraday optimization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/configure-intraday-optimization.md)
 
-## Related
-
-- [[t_ActivateFieldServiceManagement|Activate Field Service Management]]
-- [[fsm-application-landing-page|Field Service Management]]
-- [[schedule-optimization|Schedule Optimization]]

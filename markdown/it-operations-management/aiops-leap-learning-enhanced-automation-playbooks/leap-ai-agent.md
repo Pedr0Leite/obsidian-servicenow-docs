@@ -22,10 +22,7 @@ Use the information on this page to learn about the actions related to the LEAP 
 
 |AI agent|AI agent role|
 |--------|-------------|
-|LEAP AI agent|Uses the [[automation-opportunities|automation opportunities]] created by LEAP analysis, and creates artifacts \(problem records, knowledge base articles, or playbooks\) requested by user.|
+|LEAP AI agent|Uses the automation opportunities created by LEAP analysis, and creates artifacts \(problem records, knowledge base articles, or playbooks\) requested by user.|
 
 **Important:** This agent is turned on by default. For more information, see [Now Assist skills, agents, and agentic workflows on by default](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills-on-by-default.md).
 
-## Related
-
-- [[automation-opportunities|Automation opportunities]]

@@ -23,8 +23,5 @@ After you clone an instance, your secrets groups and client secrets groups may r
 |Cloned instance secrets groups from source instance|Doesn’t work unless manually set up|
 |Cloned client secrets groups from source instance|Work if manually config sg/identity group/alias/mid|
 
-**Parent Topic:**[[client-access-secret-landing|Configuring client accessible secrets]]
+**Parent Topic:**[Configuring client accessible secrets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/client-access-secret-landing.md)
 
-## Related
-
-- [[client-access-secret-landing|Configuring client accessible secrets]]

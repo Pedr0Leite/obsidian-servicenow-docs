@@ -18,7 +18,7 @@ This accelerator assesses your current HR Service Delivery \(HRSD\) processes an
 
 ## Accelerator Overview
 
-The HRSD Maturity Assessment provides [[impact-landing-page|Impact]] customers with prescriptive recommendations based on a structured assessment conducted by key stakeholders within the customer's business.  By offering customers a snapshot of their current process maturity and targeted next-step recommendations, this accelerator helps maximize the value of their ServiceNow investment.
+The HRSD Maturity Assessment provides Impact customers with prescriptive recommendations based on a structured assessment conducted by key stakeholders within the customer's business.  By offering customers a snapshot of their current process maturity and targeted next-step recommendations, this accelerator helps maximize the value of their ServiceNow investment.
 
 This accelerator is designed to address the following HRSD capabilities:
 
@@ -43,13 +43,13 @@ This accelerator is designed to address the following HRSD capabilities:
 
     Your assessment participants will each be asked to independently fill out a prebuilt HRSD Maturity Assessment Questionnaire that asks them to grade targeted statements to assess gaps and opportunities with your HRSD deployment.
 
--   **Questionnaire Results Analysis \(time as needed determined by the [[impact-squad|Impact Squad]]\) **
+-   **Questionnaire Results Analysis \(time as needed determined by the Impact Squad\) **
 
     The Impact Squad performs the following: 
 
     -   Reviews and analyzes the questionnaire scores
     -   Compiles tailored recommendations and leading practices
-    -   Provides guidance that will [[io-help|help]] you understand how to best maximize your HRSD investment
+    -   Provides guidance that will help you understand how to best maximize your HRSD investment
 -   **HSRD Maturity Assessment report**
 
     The assessment report is compiled from the responses to the questionnaire and includes the following:
@@ -153,8 +153,4 @@ We request that the HRSD Maturity questionnaire is completed by the customer vir
 
 -   ServiceNow is not responsible for implementing the recommendations made based on the HR Service Delivery Maturity Assessment.
 
-## Related
 
-- [[impact-landing-page|Impact]]
-- [[impact-squad|Impact Squad]]
-- [[io-help|Help]]

@@ -14,10 +14,10 @@ breadcrumb: [Legacy Software Asset Management plugin, ITSM Software Asset Manage
 
 # Determine where software is installed using the legacy Software Asset Management plugin
 
-When using the legacy Software [[c_AssetManagement|Asset Management]] \(com.snc.software\_asset\_management\) plugin to determine where your software is installed, you must keep the following points in mind.
+When using the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin to determine where your software is installed, you must keep the following points in mind.
 
 -   The software instance no longer contains discovered information. The information previously went to the Software Instance \[cmdb\_software\_instance\] table, but now goes to the Software Installation \[cmdb\_sam\_sw\_install\] table. Because the table has changed, you must change your transform maps to point to the new table.
--   [[c_Models|Models]] identified by a discovery tool are linked to [[c_CreatingSoftwareModels|software models]].
+-   Models identified by a discovery tool are linked to software models.
 -   Use grouping to obtain more specific information from a software counter.
 -   Software installations link a computer with a software model \(via a discovery model\).
 
@@ -57,13 +57,7 @@ The legacy Software Asset Management \(com.snc.software\_asset\_management\) plu
 
 [Legacy IBM PVU Process Pack]()
 
-[Software [[c_Contracts|contracts]] for the legacy Software Asset Management plugin]()
+[Software contracts for the legacy Software Asset Management plugin]()
 
 [Legacy Oracle process pack]()
 
-## Related
-
-- [[c_AssetManagement|Asset Management]]
-- [[c_Models|Models]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[c_Contracts|Contracts]]

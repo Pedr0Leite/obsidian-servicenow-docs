@@ -12,7 +12,7 @@ breadcrumb: [Configure Now Assist for CSM Major Issue Management, Configure case
 
 # Now Assist for CSM Major Issue Management Properties
 
-The [[na-for-csm-major-issue-management|Now Assist for CSM Major Issue Management]] application is configured through the `NowAssistMajorIssueExtPoint` extension point and the trigger conditions on the **Major case agentic workflow** flow. This reference describes every configurable property, the valid values, the default, and the impact.
+The Now Assist for CSM Major Issue Management application is configured through the `NowAssistMajorIssueExtPoint` extension point and the trigger conditions on the **Major case agentic workflow** flow. This reference describes every configurable property, the valid values, the default, and the impact.
 
 ## Flow trigger properties
 
@@ -55,6 +55,3 @@ The `NowAssistMajorIssueExtPoint` extension point exposes three methods that you
 |`getConfigForMajorCase(glideRecord)`|limit: 10, threshold: 0.75|Returns the search configuration used when scanning for existing major cases.|
 |`getConfigForNonMajorCase(glideRecord)`|limit: 10, threshold: 0.70|Returns the search configuration used when scanning for similar non-major cases.|
 
-## Related
-
-- [[na-for-csm-major-issue-management|Now Assist for CSM Major Issue Management]]

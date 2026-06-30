@@ -22,7 +22,7 @@ Role required: admin or impersonator
 
 ## Procedure
 
-1.  In your ServiceNow mobile app, tap the **Settings** \(\[Omitted image "settings.png"\] Alt text: Settings icon\) tab in the [[sg-mobile-tab-bar|navigation bar]].
+1.  In your ServiceNow mobile app, tap the **Settings** \(\[Omitted image "settings.png"\] Alt text: Settings icon\) tab in the navigation bar.
 
     **Note:** If you do not see a **Settings** tab, tap **More** \(\[Omitted image "mobile-more-icon.png"\] Alt text: More icon\) and then tap **Settings** from the list.
 
@@ -45,9 +45,5 @@ Role required: admin or impersonator
     \[Omitted image "mobile-imperson-4.png"\] Alt text: End impersonation option in the settings screen.
 
 
-**Parent Topic:**[[mobile-impersonation|Mobile impersonation]]
+**Parent Topic:**[Mobile impersonation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-impersonation.md)
 
-## Related
-
-- [[mobile-impersonation|Mobile impersonation]]
-- [[sg-mobile-tab-bar|Navigation bar]]

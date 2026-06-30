@@ -21,11 +21,8 @@ This integration supports the following:
 -   Discovery of IBM QRadar offenses that are candidates for security incidents.
 -   Fetching recent events or flows associated with an offense.
 -   Track key updates to offenses periodically.
--   [[mapping-logrhythm|Mapping]] of offense, event, and flow fields to security incident fields.
+-   Mapping of offense, event, and flow fields to security incident fields.
 -   Preliminary view of the mapped fields.
 -   Setup scheduled ingestions of offenses to create security incidents periodically.
 -   Close the offenses when the security incidents are closed.
 
-## Related
-
-- [[mapping-logrhythm|Mapping]]

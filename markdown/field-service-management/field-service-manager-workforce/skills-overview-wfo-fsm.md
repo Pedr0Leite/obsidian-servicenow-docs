@@ -51,7 +51,7 @@ The data displayed in the MTTR of incidents of skill indicator is calculated bas
 
 ## Reports
 
-**Important:** The Pending Users and Assigned Tasks reports display when you enable the [[coaching-with-learning-wfo-fsm|Coaching with Learning]] application from the ServiceNow® Store. To enable this application, see [Activate Workforce Optimization for Field Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/activate-wfo-fsm.md).
+**Important:** The Pending Users and Assigned Tasks reports display when you enable the Coaching with Learning application from the ServiceNow® Store. To enable this application, see [Activate Workforce Optimization for Field Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/activate-wfo-fsm.md).
 
 <table id="table_r1n_xnm_v4b"><thead><tr><th>
 
@@ -260,6 +260,3 @@ Actions
 
 Skills Overview displays the skill data, such as how many skills are assigned to users and tasks along with the data providing the number of experts for a particular skill and the overall skill coverage by your teams.
 
-## Related
-
-- [[coaching-with-learning-wfo-fsm|Coaching with Learning]]

@@ -12,7 +12,7 @@ breadcrumb: [References for generative AI, Reference, Unified Security Exposure 
 
 # Vulnerability Response AI agent collection for the Analyze vulnerability remediation status agentic workflow
 
-The [[tools|tools]] and AI agents for the Analyze vulnerability remediation status agentic workflow.
+The tools and AI agents for the Analyze vulnerability remediation status agentic workflow.
 
 ## Analyze vulnerability remediation status agentic workflow overview
 
@@ -28,9 +28,5 @@ If you want to modify this agentic workflow, you can [duplicate](https://raw.git
 
 The Remediation Compliance Insights Provider is used by the Analyze vulnerability remediation status agentic workflow.
 
-**Parent Topic:**[[now-assist-vulnerability-response-reference|Now Assist for Vulnerability Response reference information]]
+**Parent Topic:**[Now Assist for Vulnerability Response reference information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/now-assist-vulnerability-response-reference.md)
 
-## Related
-
-- [[now-assist-vulnerability-response-reference|Now Assist for Vulnerability Response reference information]]
-- [[tools|Tools]]

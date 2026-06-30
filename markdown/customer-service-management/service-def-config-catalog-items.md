@@ -22,9 +22,9 @@ Role required: sn\_csm\_case\_types.service\_definition\_manager, sn\_csm\_case\
 
 A catalog item is a product or service that is available within a service catalog. A record producer is a specific type of catalog item that enables users to create task-based records.
 
-From the Customer and Consumer Portals, end users can select available services from the [[csm-service-definitions|Services portal widget]]. Selecting a service displays the record producer associated with the service definition. Submitting the record producer creates a case of the correct case type.
+From the Customer and Consumer Portals, end users can select available services from the [Services portal widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-service-definitions.md). Selecting a service displays the record producer associated with the service definition. Submitting the record producer creates a case of the correct case type.
 
-A variable set for service definitions is available with the [[customer-service-case-types|Customer Service Case Types]] plugin \(com.snc.csm\_case\_types\). This variable set populates the service definition based on the product and/or service selected on the record producer.
+A variable set for service definitions is available with the Customer Service Case Types plugin \(com.snc.csm\_case\_types\). This variable set populates the service definition based on the product and/or service selected on the record producer.
 
 ## Procedure
 
@@ -50,7 +50,3 @@ A variable set for service definitions is available with the [[customer-service-
 
 [Create or edit a catalog item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_DefineACatalogItem.md)
 
-## Related
-
-- [[csm-service-definitions|Service definitions]]
-- [[customer-service-case-types|Customer service case types]]

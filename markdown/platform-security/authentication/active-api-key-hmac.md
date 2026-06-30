@@ -14,7 +14,7 @@ breadcrumb: [API Key and HMAC Authentication for inbound REST APIs, Token-based 
 
 # Activate API Key and HMAC Authentication
 
-You can activate the plugin API Key and HMAC [[c_Authentication|Authentication]] \(`com.glide.tokenbased_auth`\) in your ServiceNow® instance.
+You can activate the plugin API Key and HMAC Authentication \(`com.glide.tokenbased_auth`\) in your ServiceNow® instance.
 
 ## Before you begin
 
@@ -22,9 +22,9 @@ You can activate the plugin API Key and HMAC [[c_Authentication|Authentication]]
 
 1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
-2.  Find the API Key and HMAC Authentication plugin \(`com.glide.tokenbased_auth`\) using the [[adaptive-auth-filter-criteria|filter criteria]] and search bar.
+2.  Find the API Key and HMAC Authentication plugin \(`com.glide.tokenbased_auth`\) using the filter criteria and search bar.
 
-    You can search for the plugin by its name or ID. If you cannot find a plugin, you might have to [[c_requestAPI|request]] it from ServiceNow personnel.
+    You can search for the plugin by its name or ID. If you cannot find a plugin, you might have to request it from ServiceNow personnel.
 
 3.  Select **Install** to start the installation process.
 
@@ -32,8 +32,4 @@ You can activate the plugin API Key and HMAC [[c_Authentication|Authentication]]
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
-## Related
 
-- [[c_Authentication|Authentication]]
-- [[adaptive-auth-filter-criteria|Filter criteria]]
-- [[c_requestAPI|request]]

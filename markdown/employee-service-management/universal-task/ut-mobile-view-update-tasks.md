@@ -14,7 +14,7 @@ breadcrumb: [Using Universal Task, Universal Task, Employee Service Management]
 
 # View and update Universal Task using Now Mobile
 
-View and update the universal tasks that are assigned to you by using the [[mobile-employee-experience|Now Mobile app]].
+View and update the universal tasks that are assigned to you by using the Now Mobile app.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: Requester
 
     To view Universal tasks for a particular request, tap **My Requests**, open the request and go to the **Tasks** tab.
 
-3.  Tap a [[universal-task-landing|universal task]] to open it.
+3.  Tap a universal task to open it.
 
 4.  Go to each tab to do the following.
 
@@ -50,7 +50,7 @@ View and complete the tasks that are assigned to you. -   If the task type is Up
 -   If the task type is Submit Catalog Item, the task is automatically marked complete after you submit the catalog item.
 -   If the task type is Mark when Complete, mark the task complete once the task described in the Description is completed.
 -   If the task type is Checklist, mark at least one of the items as complete to mark the task complete.
--   If the task type is [[employee-form-configuration|Collect Employee Input]], tap the \[Omitted image "icon-view-empform.png"\] Alt text: View [[ut-emp-form|employee form]] icon to open the employee form. After you submit the form, the task is marked complete. If you leave the form midway, your responses are saved. You can complete and submit the form later.
+-   If the task type is Collect Employee Input, tap the \[Omitted image "icon-view-empform.png"\] Alt text: View employee form icon to open the employee form. After you submit the form, the task is marked complete. If you leave the form midway, your responses are saved. You can complete and submit the form later.
 
 
 </td></tr><tr><td id="d595739e159">
@@ -73,9 +73,3 @@ View or add comments or attachments to the task.
 </table>
 **Parent Topic:**[Using Universal Task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/use-universal-task.md)
 
-## Related
-
-- [[mobile-employee-experience|Now Mobile app]]
-- [[universal-task-landing|Universal Task]]
-- [[employee-form-configuration|Collect employee input]]
-- [[ut-emp-form|Employee form]]

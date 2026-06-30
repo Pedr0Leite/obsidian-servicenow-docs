@@ -12,7 +12,7 @@ breadcrumb: [Activity stream, Administer, Configurable Workspace UI, Configure U
 
 # Configure journal field tile icons and colors in Configurable Workspace
 
-[[configure-onboarding-modals|Configure]] custom icons for tiles in the [[activity-stream-configurable-workspace|Activity stream]].
+Configure custom icons for tiles in the Activity stream.
 
 ## Before you begin
 
@@ -37,7 +37,4 @@ Role required: admin
 
 7.  Select **Submit**.
 
-## Related
 
-- [[configure-onboarding-modals|Configure]]
-- [[activity-stream-configurable-workspace|Activity stream]]

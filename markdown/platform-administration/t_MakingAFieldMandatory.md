@@ -22,7 +22,7 @@ Role required: personalize\_dictionary
 
 A mandatory field that is pre-populated by the platform with default data, such as a value from a client script, does not display the indicator. If you delete this value from the field, however, the indicator appears. The color of the indicator depends on the field state.
 
-Using a dictionary entry to make a field mandatory does not work when using web services or background scripts. You can use a data policy instead. For more information on data policies, see [[c_DataPolicy|Data policy]].
+Using a dictionary entry to make a field mandatory does not work when using web services or background scripts. You can use a data policy instead. For more information on data policies, see [Data policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_DataPolicy.md).
 
 ## Procedure
 
@@ -38,12 +38,12 @@ Using a dictionary entry to make a field mandatory does not work when using web 
 
     Making a **True/False** mandatory will have no effect. **True/False** fields are always considered to have a value. A selected check box has a value of true and an unselected check box has a value of false. Either of these values satisfies the requirement of a mandatory field.
 
-    A form can be saved with an empty mandatory field if that field is a [[reference-email-admin|reference]] field, and if the parent field is also blank. However, if the mandatory reference field shows a value from the parent field, then the form cannot be saved if this value is deleted. If the value in the referenced field is changed, the value for that field is changed everywhere it appears.
+    A form can be saved with an empty mandatory field if that field is a reference field, and if the parent field is also blank. However, if the mandatory reference field shows a value from the parent field, then the form cannot be saved if this value is deleted. If the value in the referenced field is changed, the value for that field is changed everywhere it appears.
 
 4.  Use **dictionary override&gt;override mandatory** to make a field that is mandatory only in the child table and not the parent table.
 
 
-**Parent Topic:**[[customize-fields-now-platform-landing|Customizing fields on the ServiceNow AI Platform]]
+**Parent Topic:**[Customizing fields on the ServiceNow AI Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/customize-fields-now-platform-landing.md)
 
 **Related topics**  
 
@@ -52,8 +52,3 @@ Using a dictionary entry to make a field mandatory does not work when using web 
 
 [Define a dictionary override](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/t_DefineADictionaryOverride.md)
 
-## Related
-
-- [[c_DataPolicy|Data policy]]
-- [[customize-fields-now-platform-landing|Customizing fields on the ServiceNow AI Platform]]
-- [[reference-email-admin|Reference]]

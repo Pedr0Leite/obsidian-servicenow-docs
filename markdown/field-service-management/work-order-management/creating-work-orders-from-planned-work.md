@@ -19,8 +19,5 @@ Planned work records enable the scheduler to create future, everyday \(on regula
 **Related topics**  
 
 
-[[planned-work-management|Planned Work Management]]
+[Planned Work Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/planned-work-management.md)
 
-## Related
-
-- [[planned-work-management|Planned Work Management]]

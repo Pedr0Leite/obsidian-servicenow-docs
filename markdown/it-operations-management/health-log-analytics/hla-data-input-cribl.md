@@ -15,7 +15,7 @@ breadcrumb: [Manual data input configuration, Set up data inputs manually, Set u
 
 # Configure a Cribl data input in Health Log Analytics manually
 
-Configure a dedicated Cribl data input to enable [[hla-landing-page|Health Log Analytics]] to process Cribl log messages streaming into your ServiceNow instance.
+Configure a dedicated Cribl data input to enable Health Log Analytics to process Cribl log messages streaming into your ServiceNow instance.
 
 ## Before you begin
 
@@ -78,6 +78,3 @@ For resolving issues related to the ingestion of log data from Cribl, see the [C
 
 **Parent Topic:**[Configuring data inputs for Health Log Analytics manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-inputs-configuring.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

@@ -26,7 +26,7 @@ You can assign levels to an equipment model template for sorting purposes. For e
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]] Admin** &gt; **[[industrial-process-manager-overview|Industrial Process Manager]]** &gt; **Equipment Model Template**.
+1.  Navigate to **All** &gt; **Industrial Workspace Admin** &gt; **Industrial Process Manager** &gt; **Equipment Model Template**.
 
 2.  Select an equipment model template.
 
@@ -105,7 +105,3 @@ Create granular types within an equipment model template hierarchical level.
 
 **Parent Topic:**[Defining equipment model templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/defining-equipment-model-templates.md)
 
-## Related
-
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[industrial-process-manager-overview|Industrial Process Manager]]

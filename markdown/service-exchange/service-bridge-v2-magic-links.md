@@ -14,7 +14,7 @@ breadcrumb: [Use for providers, Service Exchange for Providers, Service Exchange
 
 # Enable magic links
 
-Configure [[service-bridge-v2-explore-magic-link|magic links]] to enable consumer users to access provider instance resources directly without manual authentication. Magic links streamline cross-instance navigation by automatically handling login credentials.
+Configure magic links to enable consumer users to access provider instance resources directly without manual authentication. Magic links streamline cross-instance navigation by automatically handling login credentials.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_sb.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[tmt-service-bridge-both-landing-page|Service Exchange]] Provider** &gt; **Consumers**.
+1.  Navigate to **All** &gt; **Service Exchange Provider** &gt; **Consumers**.
 
 2.  Open the appropriate Consumer Connection form.
 
@@ -66,10 +66,5 @@ Option to specify the number of seconds taken to redirect consumer user to provi
 </table>5.  Select **Update**.
 
 
-**Parent Topic:**[[service-bridge-v2-administer|Using Service Exchange for providers]]
+**Parent Topic:**[Using Service Exchange for providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-administer.md)
 
-## Related
-
-- [[service-bridge-v2-administer|Using Service Exchange for providers]]
-- [[service-bridge-v2-explore-magic-link|Magic links]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]

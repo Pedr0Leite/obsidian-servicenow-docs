@@ -12,17 +12,17 @@ breadcrumb: [Managing Operational vulnerability, Manage, Operational Resilience,
 
 # Reporting Operational vulnerability
 
-Any [[grc-opres-landing-page|Operational Resilience]] application user can report an [[exploring-op-vul|operational vulnerability]] that needs the attention of the Operational Resilience team.
+Any Operational Resilience application user can report an operational vulnerability that needs the attention of the Operational Resilience team.
 
 Users of the Operational Resilience feature can report an operational vulnerability using one the following options:
 
--   To create an operational vulnerability from the [[employee-center|Employee Center]], see [[reporting-op-vul|Report operational vulnerability from the Employee Center]]. The user must have the Operational Resilience business user \[sn\_oper\_res.operational\_resilience\_business\_user\] role.
--   To create an operational vulnerability from the Operational vulnerability menu in the Operational Resilience Workspace, see [[set-up-op-vul-record|Report an operational vulnerability from the module]]. The user must have the Operational Resilience manager \[sn\_oper\_res.operational\_resilience\_manager\] role.
+-   To create an operational vulnerability from the Employee Center, see [Report operational vulnerability from the Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/reporting-op-vul.md). The user must have the Operational Resilience business user \[sn\_oper\_res.operational\_resilience\_business\_user\] role.
+-   To create an operational vulnerability from the Operational vulnerability menu in the Operational Resilience Workspace, see [Report an operational vulnerability from the module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/set-up-op-vul-record.md). The user must have the Operational Resilience manager \[sn\_oper\_res.operational\_resilience\_manager\] role.
 -   To create an operational vulnerability from the records in the Operational Resilience Workspace, see the following topics:
-    -   [[create-op-vul-from-other-records-in-or-ws|Report Operational vulnerability from Importance assessment]]
-    -   [[report-op-vul-from-sce-analysis|Report an operational vulnerability from the Scenario analysis]]
-    -   [[report-op-vul-from-attestation|Report an operational vulnerability from the Self-attestation module]]
-    -   [[report-op-vul-from-service|Report an operational vulnerability from the Service record]]
+    -   [Report Operational vulnerability from Importance assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-op-vul-from-other-records-in-or-ws.md)
+    -   [Report an operational vulnerability from the Scenario analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/report-op-vul-from-sce-analysis.md)
+    -   [Report an operational vulnerability from the Self-attestation module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/report-op-vul-from-attestation.md)
+    -   [Report an operational vulnerability from the Service record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/report-op-vul-from-service.md)
 
 ## States of the vulnerability
 
@@ -46,14 +46,3 @@ When the vulnerability is assigned to the users, they receive email notification
 2.  When the vulnerability is approved or rejected, the analyst receives the email notification.
 3.  When the vulnerability is canceled, the approver, requester, analyst, and people on the watchlist receive the email notifications.
 
-## Related
-
-- [[reporting-op-vul|Report operational vulnerability from the Employee Center]]
-- [[set-up-op-vul-record|Report an operational vulnerability from the module]]
-- [[create-op-vul-from-other-records-in-or-ws|Report Operational vulnerability from Importance assessment]]
-- [[report-op-vul-from-sce-analysis|Report an operational vulnerability from the Scenario analysis]]
-- [[report-op-vul-from-attestation|Report an operational vulnerability from the Self-attestation module]]
-- [[report-op-vul-from-service|Report an operational vulnerability from the Service record]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[exploring-op-vul|Operational vulnerability]]
-- [[employee-center|employee center]]

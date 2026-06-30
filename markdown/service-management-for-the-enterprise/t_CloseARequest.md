@@ -27,15 +27,10 @@ When you close a request, you can add details that you want the submitter to be 
 5.  Click **Update**.
 
 
--   **[[c_ClosedAndCompletedRequests|Closed and completed requests]]**  
+-   **[Closed and completed requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_ClosedAndCompletedRequests.md)**  
 When the **Request lifecycle** option is set to **request-driven**, the assigned agent can complete and close the request once all the tasks in the request are complete.
 
-**Parent Topic:**[[c_FacilitiesRequests|Facilities requests]]
+**Parent Topic:**[Facilities requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_FacilitiesRequests.md)
 
-**Parent Topic:**[[rm-sm-application|Request Management in a Service Management application]]
+**Parent Topic:**[Request Management in a Service Management application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/rm-sm-application.md)
 
-## Related
-
-- [[c_ClosedAndCompletedRequests|Closed and completed requests]]
-- [[c_FacilitiesRequests|Facilities requests]]
-- [[rm-sm-application|Request Management in a Service Management application]]

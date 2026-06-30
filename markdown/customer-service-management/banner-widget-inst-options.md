@@ -12,7 +12,7 @@ breadcrumb: [Configurable Portal widgets instance options, Configurable Portal W
 
 # Portal Banner widget instance options form
 
-Instance options enable you to configure the [[portal-banner-widget|Portal Banner widget]] on a portal page.
+Instance options enable you to configure the Portal Banner widget on a portal page.
 
 <table id="table_csm_base_entities"><thead><tr><th>
 
@@ -208,6 +208,3 @@ Defines the parameters of the widget that you want to add.For more information, 
 
 [Add and configure the Portal Banner widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/config-portal-banner-widget-inst-opt.md)
 
-## Related
-
-- [[portal-banner-widget|Portal Banner widget]]

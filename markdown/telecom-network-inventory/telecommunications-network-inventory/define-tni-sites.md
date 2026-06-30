@@ -14,7 +14,7 @@ breadcrumb: [Manually creating and reviewing your network asset instances, Defin
 
 # Define the network site details
 
-Review, update, or create your network site records in the [[telecom-network-inventory|Telecommunications Network Inventory]] application. These records enable you to view the location-specific attributes for each network site, including the network centers, buildings, floors, and rooms where your equipment is located.
+Review, update, or create your network site records in the Telecommunications Network Inventory application. These records enable you to view the location-specific attributes for each network site, including the network centers, buildings, floors, and rooms where your equipment is located.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Your network sites are those physical locations where you keep your network equi
 
 When you create a network site record, it creates a corresponding configuration item \(CI\) record in the Network Site \[cmdb\_ci\_ni\_site\] table. To learn more, see [Data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/uses-for-network-inventory-data.md).
 
-The Telecommunications Network Inventory application stores the physical network connections, the logical network connections, and the resources that contain the overall network and the services provisioned on the network. The TNI [[uses-for-network-inventory-data|data model]] adheres to a hierarchical structure. The foundation is the Network Site \(referred to here as a network site\).
+The Telecommunications Network Inventory application stores the physical network connections, the logical network connections, and the resources that contain the overall network and the services provisioned on the network. The TNI data model adheres to a hierarchical structure. The foundation is the Network Site \(referred to here as a network site\).
 
 The Network Site class represents the physical locations on the network where the equipment and resources are stored and maintained, and where the network connections originate and terminate. The network site has a reference to a physical location and derives the key attributes like the address, latitude, and longitude from it.
 
@@ -36,21 +36,21 @@ You can relate your physical locations to your network sites in TNI so that you 
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Click the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon..\) and then go to **Sites** &gt; **Network Sites**.
 
     You can view the sites that you manage by going to **Sites** &gt; **My Sites**.
 
-    **Note:** You can also access the Total Sites list by clicking the **Total sites** or **In maintenance sites** counts in the Network sites overview widget in the Network Inventory Workspace [[network-inventory-workspace-landing-page|landing page]]. To learn more, see [Reviewing and updating your network inventory with the Network Inventory Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/tni-workspace.md).
+    **Note:** You can also access the Total Sites list by clicking the **Total sites** or **In maintenance sites** counts in the Network sites overview widget in the Network Inventory Workspace landing page. To learn more, see [Reviewing and updating your network inventory with the Network Inventory Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/tni-workspace.md).
 
 3.  Click **New**.
 
 4.  On the **Details** tab, in the Network Site section, fill in the fields.
 
-    To learn more about the fields that are unique to the [[tni-network-site-form|Network Site form]], see [Network site form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/tni-network-site-form.md).
+    To learn more about the fields that are unique to the Network Site form, see [Network site form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/tni-network-site-form.md).
 
-    To learn about the remaining identification fields that are common to most of the Inventory and [[inventory_number_allocation|Inventory number allocation]] menu forms, see [Commonly used network asset instance identification fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/commonly-used-tni-identification-fields.md).
+    To learn about the remaining identification fields that are common to most of the Inventory and Inventory number allocation menu forms, see [Commonly used network asset instance identification fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/commonly-used-tni-identification-fields.md).
 
 5.  On the **Details** tab, in the Site Details section, fill in the site detail information.
 
@@ -123,7 +123,7 @@ Altitude of the network site that is measured in meters.
 
     If you click **Save** without clicking **Set Inventory Attributes**, it creates a CI record but not a Telecommunications Network Inventory CI record.
 
-7.  On the [[ci-attribue-form|TNI CI Attributes form]], fill in the fields.
+7.  On the TNI CI Attributes form, fill in the fields.
 
     To learn more about the Telecommunications Network Inventory attribute fields, see [TNI CI Attributes form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/ci-attribue-form.md).
 
@@ -169,12 +169,3 @@ Altitude of the network site that is measured in meters.
 
 [Modeling your workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telecommunications-network-inventory-workflow.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[uses-for-network-inventory-data|Data model]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[network-inventory-workspace-landing-page|Landing page]]
-- [[tni-network-site-form|Network site form]]
-- [[inventory_number_allocation|Inventory number allocation]]
-- [[ci-attribue-form|TNI CI Attributes form]]

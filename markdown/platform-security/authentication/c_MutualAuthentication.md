@@ -14,9 +14,9 @@ breadcrumb: [Web service security, Authentication, Access Management]
 
 # Configure mutual authentication
 
-Mutual [[c_Authentication|authentication]] establishes trust by exchanging secure sockets layer \(SSL\) [[c_Certificates|certificates]].
+Mutual authentication establishes trust by exchanging secure sockets layer \(SSL\) certificates.
 
-During the SSL handshake, the server presents its certificate to the client. Subsequently, depending on the server's [[sc-configuration|configuration]], it may [[c_requestAPI|request]] a certificate from the client. Both server and client perform certificate validation procedures to ensure the authenticity and integrity of the presented certificates.
+During the SSL handshake, the server presents its certificate to the client. Subsequently, depending on the server's configuration, it may request a certificate from the client. Both server and client perform certificate validation procedures to ensure the authenticity and integrity of the presented certificates.
 
 Following a successful validation, acknowledgments are exchanged before the initiating the HTTPS connection.
 
@@ -101,9 +101,3 @@ Create a new Certificate entry with the type of "Trust Store Cert" and attach a 
 
 The server responds by sending a certificate. Is this a certificate that the client accepts? If yes, a message is sent to the server accepting the certificate and a secure channel is initiated. If the certificate is not accepted, it may mean that the root authority is needed for certification.
 
-## Related
-
-- [[c_Authentication|Authentication]]
-- [[c_Certificates|Certificates]]
-- [[sc-configuration|Configuration]]
-- [[c_requestAPI|request]]

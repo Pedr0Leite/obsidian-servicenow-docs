@@ -14,7 +14,7 @@ breadcrumb: [Configure, price, quote, Explore, Sales Customer Relationship Manag
 
 Sales Agreement Management is an application that captures the scope and conditions from a quote for future sales transactions, over a specified period between a buyer and a seller.​
 
-Sales Agreement Management can be a separate application or part of the [[order-mgt-overview|Sales Customer Relationship Management]] application.
+Sales Agreement Management can be a separate application or part of the Sales Customer Relationship Management application.
 
 A quote is a formal offer for products and services, proposed at specific prices and related payment terms, which is sent to a prospective customer. Only after a quote is completed or closed, a sales agreement can be generated.
 
@@ -35,6 +35,3 @@ In a sales agreement, a line item refers to any product or service being sold by
 
 In a sales agreement, the prices for products and services that are negotiated and finalized are called price lists. These lists specify the agreed-upon prices for various items included in the agreement. When a sales order is placed based on a sales agreement, these price lists are used to determine the pricing of the order. This ensures that the terms negotiated in the sales agreement are consistently applied to all sales transactions under that agreement.
 
-## Related
-
-- [[order-mgt-overview|Sales Customer Relationship Management]]

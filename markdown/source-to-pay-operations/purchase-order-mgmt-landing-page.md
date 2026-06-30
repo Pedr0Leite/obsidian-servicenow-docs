@@ -26,7 +26,7 @@ The ServiceNow® Purchase Order Management application enables your suppliers an
 
 </td></tr><tr><td>
 
-[Use\[Omitted image "bus-supervised-machine-learning.svg"\] Alt text:Learn how buyers and suppliers can [[use-purch-order-mgmt|use Purchase Order Management]] to work on exceptions.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/use-purch-order-mgmt.md)
+[Use\[Omitted image "bus-supervised-machine-learning.svg"\] Alt text:Learn how buyers and suppliers can use Purchase Order Management to work on exceptions.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/use-purch-order-mgmt.md)
 
 </td><td>
 
@@ -34,7 +34,3 @@ The ServiceNow® Purchase Order Management application enables your suppliers an
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[use-purch-order-mgmt|Use Purchase Order Management]]

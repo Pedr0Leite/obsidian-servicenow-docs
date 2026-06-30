@@ -14,7 +14,7 @@ breadcrumb: [Palo Alto Networks Next-Generation Firewall integration, Security I
 
 # \(Optional\) Edit the security tag name for Palo Alto Networks Next-Generation Firewall
 
-If the **Display tag** check box is selected when you create the External Dynamic List \(EDL\) record, you can edit the tag names and colors of the security tags. Security tags help you track [[c_Observables|observables]] that are already blocked.
+If the **Display tag** check box is selected when you create the External Dynamic List \(EDL\) record, you can edit the tag names and colors of the security tags. Security tags help you track observables that are already blocked.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_si.admin
 
 ## About this task
 
-Security tags help you quickly identify which security incidents have observables on a block list. Tags also help you identify whether an observable is already blocked, or, if it has been removed from an EDL. By default, the color of the security tag is black for [[cs-fal-insight-block-list-entries|block list entries]] and gray for [[cs-fal-insight-allow-list-entries|allow list entries]]. You can change the names and colors of the tags to help you recognize certain tags more easily.
+Security tags help you quickly identify which security incidents have observables on a block list. Tags also help you identify whether an observable is already blocked, or, if it has been removed from an EDL. By default, the color of the security tag is black for block list entries and gray for allow list entries. You can change the names and colors of the tags to help you recognize certain tags more easily.
 
 ## Procedure
 
@@ -30,7 +30,7 @@ Security tags help you quickly identify which security incidents have observable
 
 2.  Select an item in the **Name** column to open it
 
-    The EDL record is displayed. By default, the security tag name is the same value you entered in the **Name** field of the EDL when you created it. By default, the name also includes an EDL prefix, for example, EDL – [[threat-intelligence-malware|Malware]] Malicious URLs.
+    The EDL record is displayed. By default, the security tag name is the same value you entered in the **Name** field of the EDL when you created it. By default, the name also includes an EDL prefix, for example, EDL – Malware Malicious URLs.
 
 3.  Select the information icon \(\[Omitted image "i-icon.png"\] Alt text: Information icon\) next to **EDL tag for observables** then **Open record**.
 
@@ -38,7 +38,7 @@ Security tags help you quickly identify which security incidents have observable
 
 4.  In the **Name** field, modify the security tag name and click **Update**.
 
-    The updated EDL record is displayed with the modified tag name. `Outbound` has been added to the tag name. Keep the `EDL` prefix in your new tag name to help you identify the tag is associated with the [[paloalto_integration|Palo Alto Networks Next-Generation Firewall integration]].
+    The updated EDL record is displayed with the modified tag name. `Outbound` has been added to the tag name. Keep the `EDL` prefix in your new tag name to help you identify the tag is associated with the Palo Alto Networks Next-Generation Firewall integration.
 
     The security tags are displayed for each observable type \(IP, URL, Domain\) on the Security Incident record and the Observable record each time that observable is added to an EDL.
 
@@ -53,10 +53,3 @@ Security tags help you quickly identify which security incidents have observable
 
 **Next topic:**[Uninstall](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/paloalto-unistall.md)
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[cs-fal-insight-block-list-entries|Block List Entries]]
-- [[cs-fal-insight-allow-list-entries|Allow List Entries]]
-- [[threat-intelligence-malware|Malware]]
-- [[paloalto_integration|Palo Alto Networks Next-Generation Firewall integration]]

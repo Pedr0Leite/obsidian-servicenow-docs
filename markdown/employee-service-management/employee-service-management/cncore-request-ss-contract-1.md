@@ -10,7 +10,7 @@ reading_time_minutes: 5
 
 # Use self-served contract request
 
-Use [[cncore-cmpro-landing-page|Contract Management Pro]] to submit contract requests that will generate contract documents using a predefined contract template and template rules.
+Use Contract Management Pro to submit contract requests that will generate contract documents using a predefined contract template and template rules.
 
 ## Features
 
@@ -65,7 +65,7 @@ A workflow for a self-served contract request might progress as follows:
 
 **Note:**
 
-The contract requester can [[cncore-cancel-request-tpc|cancel a contract request]] when the state is in Draft, New, Awaiting Approval, Awaiting signature, or Work in progress.
+The contract requester can cancel a contract request when the state is in Draft, New, Awaiting Approval, Awaiting signature, or Work in progress.
 
 -   **[Work on self-served contract requests as a contract fulfiller](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-work-ss-cntr-request-fulfiller.md)**  
 Review and finalize a contract document according to the contract request.
@@ -80,12 +80,7 @@ As a contract user or contract fulfiller, regenerate the contract document for s
 -   **[Updating and synchronizing signatories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-update-sync-signatories.md)**  
 As a contract user or fulfiller, update and sync signatory details when the contract submission has failed, or contract document cannot be sent due to incomplete signatory information.
 -   **[Reviewing and finalizing a self-serve contract document](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-review-finalize-contract.md)**  
-[[finalize-contract-document-nda|Review and finalize the contract document]] generated after the self-serve contract request is submitted, then send it for signature.
+Review and finalize the contract document generated after the self-serve contract request is submitted, then send it for signature.
 
 **Parent Topic:**[Using Contract Management Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-use-cmpro.md)
 
-## Related
-
-- [[cncore-cmpro-landing-page|Contract Management Pro]]
-- [[cncore-cancel-request-tpc|Cancel a contract request]]
-- [[finalize-contract-document-nda|Review and finalize the contract document]]

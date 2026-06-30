@@ -14,7 +14,7 @@ breadcrumb: [Custom instance URLs, Authentication, Access Management]
 
 # Generate SP metadata for SAML/SSO custom URL installations
 
-A [[c_SAML2.0WebBrowserSSOProfile|SAML]] or SSO installation needs the SP metadata generated for the IdP before the custom URL instance generates.
+A SAML or SSO installation needs the SP metadata generated for the IdP before the custom URL instance generates.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ The IdP needs SP metadata for the instance to authenticate and forward requests.
 
 </td><td>
 
-Navigate to **Multi-Provider SSO** &gt; **[[identity-landing|Identity]] Providers**. Choose an IdP and click the **Generate Metadata** button. The integration automatically generates the instance's SP metadata from the system property settings.
+Navigate to **Multi-Provider SSO** &gt; **Identity Providers**. Choose an IdP and click the **Generate Metadata** button. The integration automatically generates the instance's SP metadata from the system property settings.
 
 </td></tr><tr><td id="d39650e105">
 
@@ -84,19 +84,13 @@ Navigate to **SAML 2 Single Sign-on** &gt; **Metadata**. The integration automat
 
         **Note:**
 
-        -   Disable the **Disable Force [[c_Authentication|Authentication]]** within the Okta [[sc-configuration|configuration]] for the **Test Connection** to run successfully.
+        -   Disable the **Disable Force Authentication** within the Okta configuration for the **Test Connection** to run successfully.
         -   If you're testing the Identity Provider record associated with the base URL, ensure you've to login to the instance with the base URL.
         -   If you're testing the Identity Provider associated with the Custom URL, ensure you've to login to the instance with the Custom URL.
-6.  To use [[oauth-inbound-and-outbound|OAuth]] authentication, set up the redirect URL as all the registered custom URLs in the OAuth application endpoint configuration for the external client applications.
+6.  To use OAuth authentication, set up the redirect URL as all the registered custom URLs in the OAuth application endpoint configuration for the external client applications.
 
     The redirect URL is synonymous with the callback URL that the authorization server redirects to.
 
 7.  To use Google reCAPTCHA service, [set up an API key pair.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ConfigureGoogleRecaptcha.md)
 
-## Related
 
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[identity-landing|Identity]]
-- [[c_Authentication|Authentication]]
-- [[sc-configuration|Configuration]]
-- [[oauth-inbound-and-outbound|OAuth]]

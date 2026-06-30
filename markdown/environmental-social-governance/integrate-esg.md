@@ -20,9 +20,9 @@ If you integrate Operational Sustainability Management with Project Portfolio Ma
 
 When you create goals for your material topics, you perform some activity to accomplish those goals. The work that you do is captured in the form of programs and projects. When you integrate with Project Portfolio Management, you can create programs and projects for your goals. To learn more about program management and how to create programs, see [Program Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/c_ProgramManagement.md).
 
-To see the configurations that you must perform on the project form, see [[configure-project-form|Display the priorities and goals on the project form]].
+To see the configurations that you must perform on the project form, see [Display the priorities and goals on the project form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/configure-project-form.md).
 
-To see the tables installed with Goal Framework, see [[tables-installed-with-goals|Roles installed with the Goal Framework]].
+To see the tables installed with Goal Framework, see [Roles installed with the Goal Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/tables-installed-with-goals.md).
 
 The following image shows the Operational Sustainability Management home page with Project Portfolio Management integration. The integration adds new actions in the Quick Actions section, and it creates the Programs/Projects column in the Top Level Goals Summary section.
 
@@ -36,38 +36,25 @@ If you integrate Operational Sustainability Management with IRM, you can add ris
 
 After you integrate with IRM, the Goal form lists additional options.\[Omitted image "goals-form-with-risk-intg.png"\] Alt text: Goals form with IRM integration.
 
-For more information on the roles and tables that are installed with the Operational Sustainability Management, see [[components-installed-with-esg|Components installed with Operational Sustainability Management \(formerly ESG Management\)]].
+For more information on the roles and tables that are installed with the Operational Sustainability Management, see [Components installed with Operational Sustainability Management \(formerly ESG Management\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/components-installed-with-esg.md).
 
--   **[[integrating-o365-with-servicenow|Integrating Microsoft 365 with ServiceNow reporting]]**  
+-   **[Integrating Microsoft 365 with ServiceNow reporting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/integrating-o365-with-servicenow.md)**  
 The Microsoft 365 for ServiceNow Reporting \(sn\_esg\_msoff\_intg\) integration provides disclosure reporting capabilities to ESG reporting disclosure managers to seamlessly report ServiceNow Operational Sustainability Management system data, list reports, charts, pivot, and multi pivot reports using Microsoft Word.
--   **[[esg-risk-management|Integrating Operational Sustainability Management \(formerly ESG\) with Advanced risk assessment]]**  
+-   **[Integrating Operational Sustainability Management \(formerly ESG\) with Advanced risk assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/esg-risk-management.md)**  
 The Operational Sustainability Risk Management capability enables you to assess and evaluate operational sustainability risks for businesses. This capability is an integration of Operational Sustainability Management with Advanced risk assessment. To use the risk assessment feature, you must install and activate the sn\_esg\_risk\_mgmt plugin.
--   **[[integrate-esg-with-watershed|Integrating Operational Sustainability Management \(formerly ESG\) with Watershed]]**  
+-   **[Integrating Operational Sustainability Management \(formerly ESG\) with Watershed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/integrate-esg-with-watershed.md)**  
 Watershed is a tool that enables organizations to measure their carbon emissions and renewable energy and its impact. It also enables organizations to act to reduce emissions, and to report on the progress to reduce their carbon footprint.
--   **[[integrating-esg-management-with-urjanet|Integrating Operational Sustainability Management \(formerly ESG\) with Urjanet]]**  
+-   **[Integrating Operational Sustainability Management \(formerly ESG\) with Urjanet](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/integrating-esg-management-with-urjanet.md)**  
 Urjanet is a cloud-based platform that extracts different utility bills directly from the source, and delivers it into the business systems and applications that rely on it. As an ESG program manager or a metrics manager you can get your utilities data automatically from Urjanet and avoid manual data entry from your various facilities or office owners.
--   **[[integrate-esg-with-concur|Integrating Operational Sustainability Management \(formerly ESG\) with SAP Concur]]**  
+-   **[Integrating Operational Sustainability Management \(formerly ESG\) with SAP Concur](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/integrate-esg-with-concur.md)**  
 Use the Operational Sustainability Integration with Concur to calculate your carbon emissions when your employees travel by car, airplane, and train for business. Tracking these emissions enables you to manage them and take the necessary actions to reduce them.
--   **[[integrate-operational-sustainability-with-SocialSuite|Integrating Operational Sustainability Management with Socialsuite]]**  
+-   **[Integrating Operational Sustainability Management with Socialsuite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/integrate-operational-sustainability-with-SocialSuite.md)**  
 Socialsuite is a platform for conducting materiality assessments. You can import material topics from Socialsuite into your ServiceNow instance and manage them in the Operational Sustainability Management application.
 
-**Parent Topic:**[[esg-landing-page|Operational Sustainability Management \(formerly Environmental, Social, and Governance\)]]
+**Parent Topic:**[Operational Sustainability Management \(formerly Environmental, Social, and Governance\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/esg-landing-page.md)
 
 **Related topics**  
 
 
-[[migrate-existing-goals-to-new-data-model|Migrate existing goals data to Goal Framework]]
+[Migrate existing goals data to Goal Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/migrate-existing-goals-to-new-data-model.md)
 
-## Related
-
-- [[configure-project-form|Display the priorities and goals on the project form]]
-- [[tables-installed-with-goals|Roles installed with the Goal Framework]]
-- [[components-installed-with-esg|components installed with esg]]
-- [[integrating-o365-with-servicenow|Integrating Microsoft 365 with ServiceNow reporting]]
-- [[esg-risk-management|Integrating Operational Sustainability Management \(formerly ESG\) with Advanced risk assessment]]
-- [[integrate-esg-with-watershed|Integrating Operational Sustainability Management \(formerly ESG\) with Watershed]]
-- [[integrating-esg-management-with-urjanet|Integrating Operational Sustainability Management \(formerly ESG\) with Urjanet]]
-- [[integrate-esg-with-concur|Integrating Operational Sustainability Management \(formerly ESG\) with SAP Concur]]
-- [[integrate-operational-sustainability-with-SocialSuite|Integrating Operational Sustainability Management with Socialsuite]]
-- [[esg-landing-page|Operational Sustainability Management \(formerly Environmental, Social, and Governance\)]]
-- [[migrate-existing-goals-to-new-data-model|Migrate existing goals data to Goal Framework]]

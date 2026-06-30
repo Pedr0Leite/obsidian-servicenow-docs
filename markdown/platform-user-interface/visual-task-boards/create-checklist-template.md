@@ -24,7 +24,7 @@ Role required: none
 
 ## About this task
 
-There are two ways that you can [[t_CreateAChecklist|create a checklist]] template:
+There are two ways that you can create a checklist template:
 
 -   In the Visual Task Board interface,
 -   or in the ServiceNow AI Platform.
@@ -34,7 +34,7 @@ There are two ways that you can [[t_CreateAChecklist|create a checklist]] templa
 1.  Adding a checklist template in Visual Task Board
 2.  In Visual Task Board, open the card details for a task.
 
-    **Note:** You cannot give a checklist template a name when you create a checklist template in the Visual Task Board interface. To give a checklist a name, you must [[configure-onboarding-modals|configure]] the checklist template in the ServiceNow AI Platform.
+    **Note:** You cannot give a checklist template a name when you create a checklist template in the Visual Task Board interface. To give a checklist a name, you must configure the checklist template in the ServiceNow AI Platform.
 
 3.  Click the checklist tab \(\[Omitted image "IconChecklist.png"\] Alt text: Checklist tab\).
 
@@ -129,7 +129,3 @@ Create a checklist from a checklist template by selecting the template from the 
 
 **Parent Topic:**[Visual Task Board checklists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/c_VisualTaskBoardChecklists.md)
 
-## Related
-
-- [[t_CreateAChecklist|Create a checklist]]
-- [[configure-onboarding-modals|Configure]]

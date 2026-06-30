@@ -12,7 +12,7 @@ breadcrumb: [Completing general administrative tasks, Configure, Operational Res
 
 # Create an event group for the scenario
 
-Create an event group in the [[grc-opres-landing-page|Operational Resilience]] application so that you can categorize the events that are defined in a scenario.
+Create an event group in the Operational Resilience application so that you can categorize the events that are defined in a scenario.
 
 ## Before you begin
 
@@ -38,9 +38,6 @@ Classify the events of a similar type into an event group for your scenario. For
 
 5.  In the **Order** field, enter the order for the event group and click **Submit**.
 
-    For more information on the fields in the Event group form, see [[event-group-reference|GRC Choice New record form]].
+    For more information on the fields in the Event group form, see [GRC Choice New record form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/event-group-reference.md).
 
-## Related
 
-- [[event-group-reference|GRC Choice New record form]]
-- [[grc-opres-landing-page|Operational Resilience]]

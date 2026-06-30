@@ -54,7 +54,7 @@ Sub-category
 Sub-category of the invoice inquiry case. The choices are:-   **Payment inquiry**
 -   **Invoice inquiry**
 -   **Expedite payment request**
--   **[[payment-terms|Payment terms]] issue**
+-   **Payment terms issue**
 -   **Invoice entry assistance**
 
 </td></tr><tr><td>
@@ -135,7 +135,7 @@ Summary
 
 </td></tr><tr><td>
 
-[[supplier|Supplier]]
+Supplier
 
 </td><td>
 
@@ -193,7 +193,7 @@ Whether the case is closed or not.
 </table>-   **[Invoice case form tabs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/inquiry-case-related-list.md)**  
 Descriptions of the tabs on the Invoice case form, including case details, tasks, service level agreements, emails, and related cases.
 -   **[Invoice status messages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/invoice-status.md)**  
-Reference information for [[invoice-status|invoice status messages]] and the conditions that trigger each status during invoice processing in [[acc-pay-mgmt-landing-page|Accounts Payable Operations]].
+Reference information for invoice status messages and the conditions that trigger each status during invoice processing in Accounts Payable Operations.
 
 **Parent Topic:**[Accounts Payable Operations reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/acc-pay-reference.md)
 
@@ -204,7 +204,7 @@ Reference information for [[invoice-status|invoice status messages]] and the con
 
 [Create New Invoice Line form]()
 
-[Create [[invoice-line-cost-allocation|invoice cost allocation]] form]()
+[Create invoice cost allocation form]()
 
 [Outbound cost allocation staging table]()
 
@@ -230,10 +230,3 @@ Reference information for [[invoice-status|invoice status messages]] and the con
 
 [Accounts Payable Operations glossary]()
 
-## Related
-
-- [[payment-terms|Payment terms]]
-- [[supplier|Supplier]]
-- [[invoice-status|Invoice status messages]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[invoice-line-cost-allocation|Invoice cost allocation]]

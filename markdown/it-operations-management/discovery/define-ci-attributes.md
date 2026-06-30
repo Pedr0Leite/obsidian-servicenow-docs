@@ -14,7 +14,7 @@ breadcrumb: [Discovery generic attributes, Configuring Discovery, Discovery, ITO
 
 # Define CI field attributes
 
-Define attributes on a [[r-discovery|Discovery]] schedule, IP network, IP range set, or IP address range to automatically populate configuration item \(CI\) field values during discovery.
+Define attributes on a Discovery schedule, IP network, IP range set, or IP address range to automatically populate configuration item \(CI\) field values during discovery.
 
 ## Before you begin
 
@@ -63,6 +63,3 @@ When the Discovery schedule runs, Discovery evaluates the attributes defined at 
 
 To define more granular attributes, navigate to the range set or IP address range record. From the Discovery Attributes related list on that record, repeat the previous steps.
 
-## Related
-
-- [[r-discovery|Discovery]]

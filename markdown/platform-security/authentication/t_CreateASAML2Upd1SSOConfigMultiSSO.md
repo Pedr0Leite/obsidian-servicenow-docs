@@ -14,7 +14,7 @@ breadcrumb: [SAML, Multi-Provider single sign-on \(SSO\), Authentication, Access
 
 # SAML 2.0 configuration using Multi-Provider SSO
 
-You can create or update a [[c_SAML2.0WebBrowserSSOProfile|SAML]] 2.0 SSO [[sc-configuration|configuration]] from the Multi-Provider SSO feature.
+You can create or update a SAML 2.0 SSO configuration from the Multi-Provider SSO feature.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Multi-Provider SSO** &gt; **[[identity-landing|Identity]] Providers**.
+1.  Navigate to **All** &gt; **Multi-Provider SSO** &gt; **Identity Providers**.
 
 2.  Do one of the following options.
 
@@ -95,7 +95,7 @@ Yes
 
 </td><td>
 
-Active should be set to true for the IdP to be used for [[c_Authentication|authentication]].**Note:** The option to set this property only comes after a successful test connection.
+Active should be set to true for the IdP to be used for authentication.**Note:** The option to set this property only comes after a successful test connection.
 
 </td></tr><tr><td>
 
@@ -107,7 +107,7 @@ No
 
 </td><td>
 
-The Auto Redirect IdP, formerly known as the Primary IdP, automatically redirects [[users|users]] to access the base instance URL. This property sets this IdP configuration as the default.
+The Auto Redirect IdP, formerly known as the Primary IdP, automatically redirects users to access the base instance URL. This property sets this IdP configuration as the default.
 
 </td></tr><tr><td>
 
@@ -242,16 +242,16 @@ No
 Choose the client type, based on the type of your client. Options:**Iframe Embedded**.**Note:** If client type field is required for your configuration, you can edit the form and add the field. To know more, see [Configure client type for OAuth and SSO records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/client-type.md).
 
 </td></tr></tbody>
-</table>4.  [[encryption-landing|Encryption]] And Signing tab
+</table>4.  Encryption And Signing tab
 
     **Note:**
 
-    -   You should use your own self-signed or CA-signed certificate. The following types of [[c_Certificates|certificates]] are supported:
+    -   You should use your own self-signed or CA-signed certificate. The following types of certificates are supported:
         -   [BCFKS \(FIPS-compliant\) keystore](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/create-fips-certificate-for-saml.md) \(Recommended\)
         -   Java keystore
     -   The **FIPS approved mode** requires different certificates for **Encryption** and **Signing**.
     -   Use different certificates for **Encryption** and **Signing** for a better security posture.
-    -   While using the certificates, make sure to update the following [[ca-system-properties|system properties]] with the sys\_id of the certificates \(x.509 Certificates\):
+    -   While using the certificates, make sure to update the following system properties with the sys\_id of the certificates \(x.509 Certificates\):
         -   **Signing** \(`glide.authenticate.sso.saml2.keystore`\)
         -   **Encryption** \(`glide.authenticate.sso.saml2.encryption.keystore`\)
     -   Make sure to update the key alias and key password of the **Signing** and **Encryption** keystores in the Identity Provider record and generate the metadata \(Select **Generate Metadata**\).
@@ -276,7 +276,7 @@ Choose the client type, based on the type of your client. Options:**Iframe Embed
     |Property|Description|
     |--------|-----------|
     |Auto Provisioning User|Enable automatic user provisioning, creates the users when user doesn't exists in the instance User Table based on the information provided by the IdP.|
-    |Update User Record Upon Each Login|Updates user information in the instance User table with the information in the IdP each time the user [[logs|logs]] in using SAML.|
+    |Update User Record Upon Each Login|Updates user information in the instance User table with the information in the IdP each time the user logs in using SAML.|
 
 6.  Advanced tab
 
@@ -380,7 +380,7 @@ The IdP properties import from this URL. If set, it enables the automatic import
 
 </td></tr><tr><td>
 
-[[c_requestAPI|Request]]
+Request
 
 </td><td>
 
@@ -400,7 +400,7 @@ An unique id as part of response, the id can be user name, employee id, and so o
     **Note:**
 
     -   The Continuous Authentication tab appears only when you install the **Zero Trust - Continuous Authentication** \(`com.snc.zero_trust_continuous_authentication`\) plugin that requires license.
-    -   If you're using continuous authentication policy to protect access to table or data class, see [[ca-homepage|Continuous Authentication \(CA\)]].
+    -   If you're using continuous authentication policy to protect access to table or data class, see [Continuous Authentication \(CA\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ca-homepage.md).
     \[Omitted image "ca-tab.png"\] Alt text: Continuous Authentication - tab information
 
 <table id="table_vvj_d5x_4dc"><thead><tr><th>
@@ -437,17 +437,3 @@ Select the look-up icon to choose the script provided from the platform. In this
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[ca-homepage|Continuous Authentication \(CA\)]]
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[sc-configuration|Configuration]]
-- [[identity-landing|Identity]]
-- [[c_Authentication|Authentication]]
-- [[users|Users]]
-- [[encryption-landing|Encryption]]
-- [[c_Certificates|Certificates]]
-- [[ca-system-properties|System properties]]
-- [[logs|Logs]]
-- [[c_requestAPI|request]]

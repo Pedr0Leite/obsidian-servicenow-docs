@@ -22,7 +22,7 @@ Role required: sn\_cmp.cloud\_service\_designer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]** &gt; **[[cloud-admin-portal|Cloud Admin Portal]]** &gt; **Design** &gt; **Resource Blocks** and click **New**.
+1.  Navigate to **All** &gt; **Cloud Provisioning and Governance** &gt; **Cloud Admin Portal** &gt; **Design** &gt; **Resource Blocks** and click **New**.
 
 2.  Enter a unique and meaningful **Name** and **Description** for the resource block, and then enter the following settings:
 
@@ -166,7 +166,3 @@ You can configure endpoint mapping on a storage volume to make a connection to a
 
 **Parent Topic:**[Resource blocks in Cloud Provisioning and Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/resource-blocks.md)
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[cloud-admin-portal|Cloud Admin Portal]]

@@ -15,7 +15,7 @@ breadcrumb: [Now Assist for IT Service Management \(ITSM\), IT Service Managemen
 
 # Configure Now Assist for IT Service Management \(ITSM\)
 
-If you have the admin role, you can configure the [[now-assist-itsm|Now Assist for IT Service Management \(ITSM\)]] application so that agents can use the generative AI capabilities in [[sow-landing-page|Service Operations Workspace for ITSM]] and in Core UI.
+If you have the admin role, you can configure the Now Assist for IT Service Management \(ITSM\) application so that agents can use the generative AI capabilities in Service Operations Workspace for ITSM and in Core UI.
 
 ## Before you begin
 
@@ -31,7 +31,7 @@ Domain separation is supported in Now Assist for IT Service Management \(ITSM\).
 
 ## Procedure
 
-1.  Install the Now Assist for [[r_ITServiceManagement|IT Service Management]] plugin \(sn\_itsm\_gen\_ai\).
+1.  Install the Now Assist for IT Service Management plugin \(sn\_itsm\_gen\_ai\).
 
     -   For information about the application dependencies, see [Supporting information for Now Assist for IT Service Management \(ITSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/supporting-information-now-assist-itsm.md).
     -   For information about the installation process, see [Install Now Assist plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md).
@@ -78,8 +78,3 @@ Domain separation is supported in Now Assist for IT Service Management \(ITSM\).
 
 [Configuring Now Assist Admin features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configuring-na-landing.md)
 
-## Related
-
-- [[now-assist-itsm|Now Assist for IT Service Management \(ITSM\)]]
-- [[sow-landing-page|Service Operations Workspace for ITSM]]
-- [[r_ITServiceManagement|IT Service Management]]

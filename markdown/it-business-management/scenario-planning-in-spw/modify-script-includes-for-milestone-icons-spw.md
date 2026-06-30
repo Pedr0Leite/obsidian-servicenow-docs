@@ -39,13 +39,10 @@ Role required: admin
     -   important\_date: `'calendar-clock-fill'`
     -   key\_milestone: `'diamond-fill'`
     -   deadline: `'star-fill'`
-    \[Omitted image "milestone-icon-types-spw.png"\] Alt text: Milestone types in [[alignment-planner-workspace-landing-page|Strategic Planning]].
+    \[Omitted image "milestone-icon-types-spw.png"\] Alt text: Milestone types in Strategic Planning.
 
 4.  Select **Update**.
 
 
 **Parent Topic:**[Prioritization display settings in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/configuring-prioritization-and-roadmap-settings-strategic-planning.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

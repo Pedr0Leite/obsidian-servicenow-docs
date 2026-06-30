@@ -14,7 +14,7 @@ breadcrumb: [Configuring access to CI data on your Google Cloud account, Configu
 
 # Proxy server configuration for Cloud Cost Management MID Server
 
-You can configure any MID Server to use a proxy server for [[cloud-insights-landing-page|Cloud Cost Management]] operations. Proxy servers support all cloud-based activities such as running Discovery, Billing Download jobs, and Price Sheet Download jobs.
+You can configure any MID Server to use a proxy server for Cloud Cost Management operations. Proxy servers support all cloud-based activities such as running Discovery, Billing Download jobs, and Price Sheet Download jobs.
 
 ## Detailed instructions
 
@@ -56,6 +56,3 @@ See [Proxy server configuration for MID Servers used for Cloud Discovery and Clo
 
 [Install a MID Server on Linux](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_InstallAMIDServerOnLinux.md)
 
-## Related
-
-- [[cloud-insights-landing-page|Cloud Cost Management]]

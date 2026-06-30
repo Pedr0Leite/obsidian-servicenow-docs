@@ -12,7 +12,7 @@ breadcrumb: [Manage cases, Use, Customer Service Management]
 
 # Add an entitlement to a case line
 
-Add one or more entitlements to a case line in [[csm-workspaces-configure|CSM Configurable Workspace]].
+Add one or more entitlements to a case line in CSM Configurable Workspace.
 
 ## Before you begin
 
@@ -34,6 +34,4 @@ Role required: sn\_customerservice\_agent
 
     The selected entitlements are added to the Case Line Entitlements tab.
 
-## Related
 
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

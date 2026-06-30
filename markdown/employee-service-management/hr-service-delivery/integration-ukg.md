@@ -14,7 +14,7 @@ breadcrumb: [Integration of HR Service Delivery with third-party systems, HR Ser
 
 # HR Service Delivery with Ultimate Kronos Group
 
-With the HR Service Delivery with Ultimate Kronos Group application, provide employee assistance through conversations in the Virtual Agent conversational \(client\) interface. Enable employees to view their accrual leave balances, schedules, and upcoming shifts from the Ultimate Kronos Group application in ServiceNow [[employee-center-landing-page|Employee Center]].
+With the HR Service Delivery with Ultimate Kronos Group application, provide employee assistance through conversations in the Virtual Agent conversational \(client\) interface. Enable employees to view their accrual leave balances, schedules, and upcoming shifts from the Ultimate Kronos Group application in ServiceNow Employee Center.
 
 Key features include:
 
@@ -23,7 +23,7 @@ Key features include:
 
 ## Application setup
 
-First, you must activate the [[hr-service-delivery|HR Service Delivery]] Integration with the Ultimate Kronos Group \[sn\_hr\_ukg\] application from the ServiceNow Store. Next, you must set up [HR Service Delivery Integration with Ultimate Kronos Group application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/set-up-ukg.md).
+First, you must activate the HR Service Delivery Integration with the Ultimate Kronos Group \[sn\_hr\_ukg\] application from the ServiceNow Store. Next, you must set up [HR Service Delivery Integration with Ultimate Kronos Group application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/set-up-ukg.md).
 
 ## Overview of HR Service Delivery with Ultimate Kronos Group
 
@@ -107,8 +107,3 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[hr-service-delivery|HR Service Delivery]]

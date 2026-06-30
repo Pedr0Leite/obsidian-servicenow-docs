@@ -14,7 +14,7 @@ breadcrumb: [Configuring MID Servers, Configuring MID Server, MID Server, Manage
 
 # Install and uninstall Nmap on a MID Server
 
-If you decide to use credential-less Discovery in your network, you must install Nmap on each Windows [[mid-server-landing|MID Server]] that you want to use for this purpose. Self-hosted customers whose network security does not permit downloads from `install.service-now.com` must use a specific manual process to install and configure Nmap.
+If you decide to use credential-less Discovery in your network, you must install Nmap on each Windows MID Server that you want to use for this purpose. Self-hosted customers whose network security does not permit downloads from `install.service-now.com` must use a specific manual process to install and configure Nmap.
 
 ## Before you begin
 
@@ -25,13 +25,13 @@ Role required: agent\_admin
 ![Setup indicator for configuration phase](../image/ProgressBarConfig.png)
 
 </td></tr></tbody>
-</table>-   Assign MID Server IP ranges to all deployed MID Servers. The quickest and most reliable way to do this is with the [Using MID Server IP range auto-assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-servers-auto-assignment.md) feature available in the [Discovery Quick Start](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-quick-start.md) wizard. This method ensures that the set of MID Servers configured to access an [[ip-address|IP address]] range is comprehensive.
+</table>-   Assign MID Server IP ranges to all deployed MID Servers. The quickest and most reliable way to do this is with the [Using MID Server IP range auto-assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-servers-auto-assignment.md) feature available in the [Discovery Quick Start](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-quick-start.md) wizard. This method ensures that the set of MID Servers configured to access an IP address range is comprehensive.
 -   Identify the IP ranges you want to explore with credential-less Discovery. Ensure that these ranges can only be accessed by MID Servers with Nmap installed, running on supported Windows hosts.
 -   Use the **All** option for selecting IP ranges and observe these requirements:
     -   Restrict the use of this feature to Windows MID Servers only.
     -   Ensure that Nmap is installed on each of these MID Servers.
     -   Ensure that the MID Servers can access the entire customer network.
--   When you create a Discovery schedule with Nmap enabled, observe these requirements for the [[c_MIDServerSelector|MID Server selection]] options:
+-   When you create a Discovery schedule with Nmap enabled, observe these requirements for the MID Server selection options:
     -   **Specific MID Cluster**: Verify that Nmap is installed on all MID Servers in the cluster, where each MID Server in the cluster is configured to access the same set of IP ranges.
     -   **Auto-Select Mid Server**: When running horizontal Discovery, verify that Nmap is installed on at least one of the MID Servers that can access the Discovery schedule’s configured MID Server IP ranges.
     -   **Specific MID Server**: Verify that Nmap is installed on each MID Server that can access the schedule’s configured MID Server IP Ranges.
@@ -236,8 +236,4 @@ Nmap must be manually uninstalled from each MID Server host machine and then dis
 
     4.  Remove **Nmap** from the active capabilities list and click **Save**.
 
-## Related
 
-- [[mid-server-landing|MID Server]]
-- [[ip-address|IP Address]]
-- [[c_MIDServerSelector|MID Server selection]]

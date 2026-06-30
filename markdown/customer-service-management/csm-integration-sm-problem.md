@@ -34,7 +34,7 @@ The following roles enable customer service agents to view and create problems f
 -   sn\_problem\_read
 -   sn\_problem\_write
 
-For more information, see [[assign-csm-itsm-integration-roles|Assign CSM/ITSM integration roles]].
+For more information, see [Assign CSM/ITSM integration roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/assign-csm-itsm-integration-roles.md).
 
 ## Synchronizing data between the problem and the case
 
@@ -51,6 +51,3 @@ With the Problem Management Best Practice – Madrid plugin activated, customer 
 
 With the Problem Management Best Practice - Madrid - Knowledge Integration plugin activated, the customer service agent can view information in the case work notes when a Known Error Article is created for or associated with a related problem. The work note includes a link to the article.
 
-## Related
-
-- [[assign-csm-itsm-integration-roles|Assigning CSM/ITSM integration roles]]

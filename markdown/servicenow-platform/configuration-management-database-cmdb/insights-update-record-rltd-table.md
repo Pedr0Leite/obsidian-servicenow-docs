@@ -14,7 +14,7 @@ breadcrumb: [CMDB Workspace, Configuration Management Database \(CMDB\), Configu
 
 # Edit a related table from CMDB performance insights
 
-Edit a related table on the Related Entries \[cmdb\_related\_entry\] table directly from the CMDB performance insights tool in the CMDB Workspace Insights view. Update the related table to correctly [[reference|reference]] another CI in the Referenced field when a reference is missing from the related table.
+Edit a related table on the Related Entries \[cmdb\_related\_entry\] table directly from the CMDB performance insights tool in the CMDB Workspace Insights view. Update the related table to correctly reference another CI in the Referenced field when a reference is missing from the related table.
 
 ## Before you begin
 
@@ -34,9 +34,9 @@ You can see the full list of related tables and associated referenced fields in 
 
 3.  Navigate to the Related records tile of the **Payloads &amp; CIs** tab and then select a slice of the chart in the Related records missing reference by table card.
 
-4.  Select a [[check-box|check box]] next to a record and then select **Edit**.
+4.  Select a check box next to a record and then select **Edit**.
 
-5.  Specify applicable CMDB CI [[reference-document-management|references]] and then select **Update**.
+5.  Specify applicable CMDB CI references and then select **Update**.
 
 
 **Parent Topic:**[CMDB Workspace store app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-workspace.md)
@@ -48,8 +48,3 @@ You can see the full list of related tables and associated referenced fields in 
 
 [Insights view in CMDB Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-workspace-insights-view.md)
 
-## Related
-
-- [[reference|Reference]]
-- [[check-box|Check box]]
-- [[reference-document-management|References]]

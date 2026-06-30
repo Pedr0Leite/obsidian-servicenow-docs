@@ -12,11 +12,11 @@ breadcrumb: [Explore, Unified Security Exposure Management, Security Operations]
 
 # Now Assist in Unified Security Exposure Management
 
-Set up, manage, and optimize your generative‑AI solutions on the ServiceNow AI Platform in the Unified [[sem-workspace-user-interface|Security Exposure Management workspace]].
+Set up, manage, and optimize your generative‑AI solutions on the ServiceNow AI Platform in the Unified Security Exposure Management workspace.
 
 ## Get started with AI
 
-Starting with the Australia release, [[now-assist-for-vulnerability-response-landing|Now Assist for Vulnerability Response]] is being prepared for future deprecation. It will be hidden and no longer installed on new instances but will continue to be supported. For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
+Starting with the Australia release, Now Assist for Vulnerability Response is being prepared for future deprecation. It will be hidden and no longer installed on new instances but will continue to be supported. For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
 
 The ServiceNow AI Platform now brings you a new AI experience with three licensing tiers available:
 
@@ -26,11 +26,11 @@ The ServiceNow AI Platform now brings you a new AI experience with three licensi
 
 For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 
-See [[using-now-assist-skills-vulnerability-response|Using generative AI skills]] for more information about using generative AI skills with Unified Security Exposure Management.
+See [Using generative AI skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/using-now-assist-skills-vulnerability-response.md) for more information about using generative AI skills with Unified Security Exposure Management.
 
-See [[using-now-assist-ai-agents-vr|Using agentic workflows]] for more information about using agentic workflows with Unified Security Exposure Management.
+See [Using agentic workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/using-now-assist-ai-agents-vr.md) for more information about using agentic workflows with Unified Security Exposure Management.
 
-See [[configuring-now-assist-for-vulnerability-response|Configuring AI skills and agentic workflows for Now Assist for Vulnerability Response]] for more information about customizing AI skills and agentic workflows.
+See [Configuring AI skills and agentic workflows for Now Assist for Vulnerability Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/configuring-now-assist-for-vulnerability-response.md) for more information about customizing AI skills and agentic workflows.
 
 For information about AI assets that are available on the ServiceNow AI Platform, see the following topics:
 
@@ -54,10 +54,3 @@ ServiceNow collects and uses the inputs, outputs, and edits to outputs of this a
 
 For more information, see the [Now Assist documentation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-now-assist-landing.md).
 
-## Related
-
-- [[using-now-assist-skills-vulnerability-response|Using generative AI skills]]
-- [[using-now-assist-ai-agents-vr|Using agentic workflows]]
-- [[configuring-now-assist-for-vulnerability-response|Configuring AI skills and agentic workflows for Now Assist for Vulnerability Response]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]
-- [[now-assist-for-vulnerability-response-landing|Now Assist for Vulnerability Response]]

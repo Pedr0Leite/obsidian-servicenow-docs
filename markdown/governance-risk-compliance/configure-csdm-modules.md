@@ -12,7 +12,7 @@ breadcrumb: [Gathering data aligned with the CSDM setup, Manage, Operational Res
 
 # Add a service to Operational Resilience reporting
 
-Manage services, business services, service offerings, business processes, and application services from the CSDM modules in the [[grc-opres-landing-page|Operational Resilience]] Workspace.
+Manage services, business services, service offerings, business processes, and application services from the CSDM modules in the Operational Resilience Workspace.
 
 ## Before you begin
 
@@ -40,11 +40,11 @@ When the **Compute Operational Resilience Compliance** scheduled job runs in the
 
     A list of the available services is displayed in the form.
 
-2.  To add a service to Operational Resilience, select **New** in the Services [[list-view-uib-ws|list view]] and fill in the details regarding the service on the Create New service form.
+2.  To add a service to Operational Resilience, select **New** in the Services list view and fill in the details regarding the service on the Create New service form.
 
     **Note:** You must have the itil user role to create a service. If you do not have the itil user role, the **New** button for creating a service is not displayed.
 
-    For a description of the field values on the Service form, see [[service-form-lists-ws-reference|Create Service form]].
+    For a description of the field values on the Service form, see [Create Service form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/service-form-lists-ws-reference.md).
 
     The Create New Service form is displayed.
 
@@ -108,8 +108,4 @@ When the **Compute Operational Resilience Compliance** scheduled job runs in the
 
     \[Omitted image "sample-service-form.png"\] Alt text: Service form with the related tabs.
 
-## Related
 
-- [[service-form-lists-ws-reference|Create Service form]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[list-view-uib-ws|List view]]

@@ -12,16 +12,16 @@ breadcrumb: [Configuring Column Level Encryption, Column Level Encryption, Encry
 
 # Migrating to Column Level Encryption
 
-Scheduled jobs migrate your keys and encrypted data from [[encryption-landing|Encryption]] Support to [[column-level-encryption-landing|Column Level Encryption]].
+Scheduled jobs migrate your keys and encrypted data from Encryption Support to Column Level Encryption.
 
-You can review the scheduled jobs by navigating to **System Security** &gt; **[[c_HighSecuritySettings|High Security Settings]]** &gt; **Security Jobs**:
+You can review the scheduled jobs by navigating to **System Security** &gt; **High Security Settings** &gt; **Security Jobs**:
 
--   **autoKeyMigration**: Migrates encryption context keys to [[encryption|Key Management Framework]] \(KMF\) cryptographic module keys.
+-   **autoKeyMigration**: Migrates encryption context keys to Key Management Framework \(KMF\) cryptographic module keys.
 -   **autoDataMigration**: Migrates data that you already encrypted to use the KMF cryptographic module key.
 
 You can modify when these scheduled jobs run, and can pause or restart them at any time.
 
-Verify that the encrypted field configurations are using your newly migrated module keys by navigating to **System Security** &gt; **[[field-encryption|Field Encryption]]** &gt; **Encrypted Field Configurations**. Look for the following items:
+Verify that the encrypted field configurations are using your newly migrated module keys by navigating to **System Security** &gt; **Field Encryption** &gt; **Encrypted Field Configurations**. Look for the following items:
 
 -   The **Method** field is **Single Module**.
 -   The **Crypto module** field is populated with the name of the cryptographic module that the system automatically creates. You can review that module and the module access policy, both of which are active and published.
@@ -37,17 +37,8 @@ Because of this, field encryption modules on the target clone instance may have 
 
     The active module encryption key is used to encrypt inserted data as needed on the target clone instance. The deactivated module is used to decrypt existing data that was cloned over as part of the system clone.
 
-    To use a single key to decrypt and encrypt all data, you can run a module rekeying job. For more information about module rekeying jobs, see [[schedule-mass-jobs|Schedule mass encryption, decryption, and rekeying jobs]].
+    To use a single key to decrypt and encrypt all data, you can run a module rekeying job. For more information about module rekeying jobs, see [Schedule mass encryption, decryption, and rekeying jobs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/schedule-mass-jobs.md).
 
 
-**Parent Topic:**[[configuring-column-level-encryption-2|Configuring Column Level Encryption]]
+**Parent Topic:**[Configuring Column Level Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/configuring-column-level-encryption-2.md)
 
-## Related
-
-- [[schedule-mass-jobs|Schedule mass encryption, decryption, and rekeying jobs]]
-- [[configuring-column-level-encryption-2|Configuring Column Level Encryption]]
-- [[encryption-landing|Encryption]]
-- [[column-level-encryption-landing|Column Level Encryption]]
-- [[c_HighSecuritySettings|High Security Settings]]
-- [[encryption|Key Management Framework]]
-- [[field-encryption|Field Encryption]]

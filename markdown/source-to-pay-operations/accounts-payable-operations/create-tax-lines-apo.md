@@ -26,7 +26,7 @@ The following table displays the fields in the tax lines tab.
 |Invoice Case|
 |Number|A unique system-generated number, which identifies the tax line.|
 |Tax type|Type of the tax applicable on the invoice.|
-|Supplier tax rate|The tax rate charged by the [[supplier|supplier]].|
+|Supplier tax rate|The tax rate charged by the supplier.|
 |Supplier tax|The amount charged by the supplier.|
 |System tax rate|The tax rate calculated by the third-party tax calculation engine.|
 |Final tax|The tax amount paid for this invoice|
@@ -36,7 +36,7 @@ The following table displays the fields in the tax lines tab.
 -   **[Invoice Tax lines fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/tax-lines.md)**  
 Field descriptions for the Invoice Tax Lines tab used to record tax details for invoiced purchases.
 -   **[Tax status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/tax-status.md)**  
-The [[tax-status|tax status]] field in the invoice record is used to track the current status of tax validation processing throughout the tax integration workflow.
+The tax status field in the invoice record is used to track the current status of tax validation processing throughout the tax integration workflow.
 
 **Parent Topic:**[Accounts Payable Operations reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/acc-pay-reference.md)
 
@@ -47,7 +47,7 @@ The [[tax-status|tax status]] field in the invoice record is used to track the c
 
 [Create New Invoice Line form]()
 
-[Create [[invoice-line-cost-allocation|invoice cost allocation]] form]()
+[Create invoice cost allocation form]()
 
 [Outbound cost allocation staging table]()
 
@@ -73,8 +73,3 @@ The [[tax-status|tax status]] field in the invoice record is used to track the c
 
 [Accounts Payable Operations glossary]()
 
-## Related
-
-- [[supplier|Supplier]]
-- [[tax-status|Tax status]]
-- [[invoice-line-cost-allocation|Invoice cost allocation]]

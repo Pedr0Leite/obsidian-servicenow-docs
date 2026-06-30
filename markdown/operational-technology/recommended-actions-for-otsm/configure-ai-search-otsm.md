@@ -14,7 +14,7 @@ breadcrumb: [Configure, Recommended Actions for OTSM, Operational Technology]
 
 # Configure AI Search for Operational Technology Service Management
 
-Configure AI Search for [[recommended-actions-for-otsm|Recommended Actions for Operational Technology Service Management \(OTSM\)]] to enable intelligent query features that help you quickly find the answers you need for OT incidents.
+Configure AI Search for Recommended Actions for Operational Technology Service Management \(OTSM\) to enable intelligent query features that help you quickly find the answers you need for OT incidents.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-For [[operational-technology-overview|Operational Technology]] Service Management users, you must define the OT incident \[sn\_ot\_incident\] table as an indexed source in order to use AI Search for OT incident records. For more information about indexing, see [Indexed sources in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/indexed-sources-ais.md).
+For Operational Technology Service Management users, you must define the OT incident \[sn\_ot\_incident\] table as an indexed source in order to use AI Search for OT incident records. For more information about indexing, see [Indexed sources in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/indexed-sources-ais.md).
 
 **Note:** Knowledge \[kb\_knowledge\] is also used as an indexed source for Recommended Actions for OTSM, but Knowledge is already indexed.
 
@@ -43,7 +43,3 @@ To define indexed sources, you can use the Guided Setup for AI Search. The follo
 
 **Parent Topic:**[Configuring Recommended Actions for Operational Technology Service Management \(OTSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/recommended-actions-for-otsm/configuring-recommended-actions-otsm.md)
 
-## Related
-
-- [[recommended-actions-for-otsm|Recommended Actions for Operational Technology Service Management \(OTSM\)]]
-- [[operational-technology-overview|Operational Technology]]

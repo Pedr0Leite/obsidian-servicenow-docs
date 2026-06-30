@@ -12,7 +12,7 @@ breadcrumb: [Selecting data sources, Configure, Data visualizations, Platform An
 
 # Usage Insights data sources for data visualizations
 
-You can show metrics related to [[user-exp-analytics-landing|Usage Insights]] in a data visualization component. The available metrics depend on the visualization type.
+You can show metrics related to Usage Insights in a data visualization component. The available metrics depend on the visualization type.
 
 **Note:** Users require the admin, analytics\_admin, or analytics\_viewer role to add Usage Insights data sources to a visualization.
 
@@ -92,7 +92,7 @@ Events
 -   Time series
 -   Bars, including Pareto
 -   Pies and donuts
--   [[c_PivotTables|Pivot tables]]
+-   Pivot tables
 
 </td><td>
 
@@ -174,12 +174,12 @@ Time series: Number of active or new users in the date range
 
     Funnels are a visual element that tell a story. Funnels can show conversion rates and trends in aggregate user behavior to uncover the reasons behind success or failure of a specific in-application user goal. Investigating a conversion funnel can help you measure and optimize the conversion rates of relevant processes within your application.
 
-    You can view your funnel directly from [[c_performanceAnalyticsAndReporting|Platform Analytics]]. When you create a new dashboard in Platform Analytics, select **add new element** and then **Usage Insights Funnel**.
+    You can view your funnel directly from Platform Analytics. When you create a new dashboard in Platform Analytics, select **add new element** and then **Usage Insights Funnel**.
 
     \[Omitted image "uxa-view-funnnel-pa.png"\] Alt text: View Usage Insights funnel in Platform Analytics
 
 
-**Parent Topic:**[[selecting-data-sources|Selecting data sources for data visualizations]]
+**Parent Topic:**[Selecting data sources for data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/selecting-data-sources.md)
 
 **Related topics**  
 
@@ -192,9 +192,3 @@ Time series: Number of active or new users in the date range
 
 [Multiple data sources]()
 
-## Related
-
-- [[selecting-data-sources|Selecting data sources for data visualizations]]
-- [[user-exp-analytics-landing|Usage Insights]]
-- [[c_PivotTables|Pivot tables]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

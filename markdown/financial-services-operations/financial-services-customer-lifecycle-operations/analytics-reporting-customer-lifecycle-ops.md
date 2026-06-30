@@ -14,17 +14,12 @@ breadcrumb: [Customer Lifecycle Operations, Common applications, Financial Servi
 
 # Analytics and Reporting for Financial Services Customer Lifecycle Operations
 
-[[customer-lifecycle-ops-landing-page|Financial Services Customer Lifecycle Operations]] contains preconfigured dashboards with actionable data visualizations that can help your organization improve your business processes and quantify the value of self-service.
+Financial Services Customer Lifecycle Operations contains preconfigured dashboards with actionable data visualizations that can help your organization improve your business processes and quantify the value of self-service.
 
 Use the ServiceNow® Performance Analytics widgets on a dashboard to visualize data over time, analyze your business processes, and identify areas of improvement.
 
 The following dashboards are available for Financial Services Customer Lifecycle Operations:
 
--   [[fso-business-lifecycle-dashboard|Business Lifecycle Operations dashboard]]
--   [[fso-client-lifecycle-dashboard|Client Lifecycle dashboard]]
+-   [Business Lifecycle Operations dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-business-lifecycle-dashboard.md)
+-   [Client Lifecycle dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-client-lifecycle-dashboard.md)
 
-## Related
-
-- [[fso-business-lifecycle-dashboard|Business Lifecycle Operations dashboard]]
-- [[fso-client-lifecycle-dashboard|Client Lifecycle dashboard]]
-- [[customer-lifecycle-ops-landing-page|Financial Services Customer Lifecycle Operations]]

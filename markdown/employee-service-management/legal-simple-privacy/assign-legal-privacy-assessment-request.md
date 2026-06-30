@@ -26,7 +26,7 @@ When an employee submits a legal request, it is automatically assigned to a grou
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Legal Request** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
 2.  Select the List icon \(\[Omitted image "lsd-lcc-list-icon.png"\] Alt text: List icon.\).
 
@@ -63,6 +63,3 @@ The assigned user can start working on the legal request. For more information, 
 
 [Cancel a privacy assessment request]()
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]

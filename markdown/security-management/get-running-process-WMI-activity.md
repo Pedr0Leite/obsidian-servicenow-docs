@@ -85,8 +85,5 @@ The MID Server must support **PowerShell**.
 
 SHA-256 hash requires PowerShell V4.
 
-**Parent Topic:**[[common-wf-activities|Common Security Operations integration flows and orchestration activities]]
+**Parent Topic:**[Common Security Operations integration flows and orchestration activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/common-wf-activities.md)
 
-## Related
-
-- [[common-wf-activities|Common Security Operations integration flows and orchestration activities]]

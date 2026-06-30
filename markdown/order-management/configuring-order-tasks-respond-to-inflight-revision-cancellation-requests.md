@@ -19,7 +19,7 @@ The Create Order Task action contains flow actions that you use to define the or
 To learn more about creating a flow and inflight order change processing, see:
 
 -   [Create a flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/create-flow.md)
--   [[inflight-order-change-mgt-overview|Managing inflight order changes and cancellation requests]]
+-   [Managing inflight order changes and cancellation requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/inflight-order-change-mgt-overview.md)
 
 To see a sample Create Flow action, see the sample Change Cisco Firepower Monitoring system flow, in your demo data, which is installed with the ServiceNow AI Platform.
 
@@ -74,7 +74,7 @@ The order task should not respond to any characteristic changes made to the orde
 
 -   **Characteristics From Request Definition**
 
-The order task should respond to the specific set of characteristics that you define in the Request Definition Characteristic \[sn\_ind\_tmt\_orm\_req\_def\_char\] table. These records contain the mappings of the order tasks to specific [[cpq-sets|sets]] of characteristics.
+The order task should respond to the specific set of characteristics that you define in the Request Definition Characteristic \[sn\_ind\_tmt\_orm\_req\_def\_char\] table. These records contain the mappings of the order tasks to specific sets of characteristics.
 
 -   **Any Characteristics**
 
@@ -83,7 +83,7 @@ The order task should respond to any revisions made to the order line item chara
 
 </td></tr><tr><td>
 
-**Inflight Task [[fields|Fields]] \(Order Task\)**
+**Inflight Task Fields \(Order Task\)**
 
 </td><td>
 
@@ -91,14 +91,14 @@ Flow action to attach scripting that designates what redo actions, or field upda
 
 </td></tr><tr><td>
 
-**[[cancel|Cancel]] Task Fields \(Order Task\)**
+**Cancel Task Fields \(Order Task\)**
 
 </td><td>
 
 Flow action to attach scripting that designates what undo actions, or cancellations, if any, should take place in the order task.It is applied for revisions or cancellation requests for inflight orders that contain the inflight change types and options that are defined in the Inflight Change Type and Inflight Change Option flow actions.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[configure-inflight-order-change-mgt|Configuring inflight changes]]
+</table>**Parent Topic:**[Configuring inflight changes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-inflight-order-change-mgt.md)
 
 **Related topics**  
 
@@ -107,10 +107,3 @@ Flow action to attach scripting that designates what undo actions, or cancellati
 
 [Flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/flows.md)
 
-## Related
-
-- [[inflight-order-change-mgt-overview|Managing inflight order changes and cancellation requests]]
-- [[configure-inflight-order-change-mgt|Configuring inflight changes]]
-- [[cpq-sets|Sets]]
-- [[fields|Fields]]
-- [[cancel|Cancel]]

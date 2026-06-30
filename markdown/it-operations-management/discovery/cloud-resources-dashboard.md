@@ -16,7 +16,7 @@ breadcrumb: [Cloud discovery reporting, Discovery for cloud environment, Discove
 
 The Cloud Resources dashboard shows the aggregated view of all your cloud resources, their combined analytical views, and a visual summary and detail of all your cloud resources.
 
-**Important:** The Cloud Resources dashboard has been replaced by the [[cloud-resources-inventory-dashboard|Cloud Resources explorer]] in the [[cow-landing-page|Cloud Discovery Workspace]] store application. For more information, see [Cloud Resources Explorer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cloud-resources-inventory-dashboard.md).
+**Important:** The Cloud Resources dashboard has been replaced by the Cloud Resources explorer in the Cloud Discovery Workspace store application. For more information, see [Cloud Resources Explorer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cloud-resources-inventory-dashboard.md).
 
 \[Omitted image "cloud-resources-dashboard.gif"\] Alt text: Animated gif of the four Cloud Resources dashboard tabs
 
@@ -26,8 +26,8 @@ For examples of how someone in your organization could use this dashboard, see t
 
 |User|Dashboard use|
 |----|-------------|
-|Cloud user|Discovery customers have an enormous number of CIs obtained from Cloud [[r-discovery|Discovery]] which can be viewed in one place.|
-|Cloud user with sn\_disco\_cd.admin role|Use the analytics tables that are available to build custom [[otto-aiops-dashboards|dashboards]]. These tables are specific baseline database views with resource tags. See [Customize the Cloud Resources dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cloud-resources-dashboard.md) for more information.|
+|Cloud user|Discovery customers have an enormous number of CIs obtained from Cloud Discovery which can be viewed in one place.|
+|Cloud user with sn\_disco\_cd.admin role|Use the analytics tables that are available to build custom dashboards. These tables are specific baseline database views with resource tags. See [Customize the Cloud Resources dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cloud-resources-dashboard.md) for more information.|
 
 ## Data visualizations
 
@@ -86,7 +86,7 @@ For examples of how someone in your organization could use this dashboard, see t
 
 ## Access the Cloud Resources dashboard
 
-To access the Cloud Resources dashboard, navigate to **Discovery** &gt; **Cloud Resource Dashboard** or **[[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]** &gt; **Cloud Resource Dashboard**.
+To access the Cloud Resources dashboard, navigate to **Discovery** &gt; **Cloud Resource Dashboard** or **Cloud Provisioning and Governance** &gt; **Cloud Resource Dashboard**.
 
 ## Customize the Cloud Resources dashboard
 
@@ -188,10 +188,3 @@ Synchronization is not needed if:
 -   The System Administrator should not delete the records from the analytics table since records deleted from the analytics table are not populated again by the scheduled job. Deletion of records leads to data inconsistency in the analytics table.
 -   To ensure complete refresh of the VMware records \(including the service accounts\) after changing the VMware resource discovery mechanism, delete the VMware records from the Cloud Dashboard Job Status \[sn\_disco\_cd\_cloud\_dashboard\_job\_status\] table and run the schedule job. In the Cloud Dashboard Job Status table, the provider field of all the VMware resources is set to **vmware**. You can use either vCenter IP discovery or service account discovery to discover the VMware resources.
 
-## Related
-
-- [[cloud-resources-inventory-dashboard|Cloud Resources Explorer]]
-- [[cow-landing-page|Cloud Discovery Workspace]]
-- [[r-discovery|Discovery]]
-- [[otto-aiops-dashboards|Dashboards]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]

@@ -14,7 +14,7 @@ breadcrumb: [Security scanner, Security configuration console, Security Center, 
 
 # Auditor suite findings
 
-Review [[sec-center-v2|Security Center]] Auditor suite findings over time.
+Review Security Center Auditor suite findings over time.
 
 \[Omitted image "sec-center-sc-auditor.png"\] Alt text: SC Auditor suite findings
 
@@ -81,6 +81,3 @@ Lists the checks performed as part of the suite.
 
 **Parent Topic:**[Security scanner](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sc-scanning.md)
 
-## Related
-
-- [[sec-center-v2|Security Center]]

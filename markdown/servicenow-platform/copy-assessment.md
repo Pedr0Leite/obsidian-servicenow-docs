@@ -20,21 +20,16 @@ Role required: assessment\_admin or admin
 
 ## About this task
 
-All associated questions \(type\), configurations, categories, metrics, [[domain-separation-relationship-formatter-editor|domain separation]] rules, and role-based categories are copied. Assigned users, category users, instances, and trigger conditions are not copied.
+All associated questions \(type\), configurations, categories, metrics, domain separation rules, and role-based categories are copied. Assigned users, category users, instances, and trigger conditions are not copied.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[r_Assessments|Assessments]]** &gt; **Metric Definition** &gt; **Types**.
+1.  Navigate to **All** &gt; **Assessments** &gt; **Metric Definition** &gt; **Types**.
 
 2.  Select an assessment metric type.
 
 3.  In the title bar, click **Copy**, or click the menu icon, and select **Copy**.
 
 
-**Parent Topic:**[[c_AssessmentProcess|Assessment administrator tasks]]
+**Parent Topic:**[Assessment administrator tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentProcess.md)
 
-## Related
-
-- [[c_AssessmentProcess|Assessment administrator tasks]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]
-- [[r_Assessments|Assessments]]

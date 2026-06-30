@@ -12,11 +12,11 @@ breadcrumb: [Advanced Approval Management, Configure, price, quote apps, Configu
 
 # Define an approval user
 
-Define an approver in [[explore-advanced-approval-for-sales|Advanced Approval Management]] and the associated approval rule that they review during the approval process.
+Define an approver in Advanced Approval Management and the associated approval rule that they review during the approval process.
 
 ## Before you begin
 
-[[create-approval-rules|Create the approval rule]] to be associated with the approver.
+[Create the approval rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-approval-rules.md) to be associated with the approver.
 
 Role required: sn\_adv\_appr\_mgmt.approval\_rule\_admin, sn\_adv\_appr\_mgmt.approval\_rule\_writer
 
@@ -45,10 +45,5 @@ An approval user is a [user of your instance](https://raw.githubusercontent.com/
 
 ## What to do next
 
-[[create-approval-groups|Define an approval group]].
+[Define an approval group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-approval-groups.md).
 
-## Related
-
-- [[create-approval-rules|Create approval rules]]
-- [[create-approval-groups|Define an approval group]]
-- [[explore-advanced-approval-for-sales|Advanced Approval Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Event Management reference, Event Management, ITOM AIOps, IT Operat
 
 # Components installed with Event Management
 
-Activating the [[c_EM|Event Management]] \(com.glideapp.itom.snac\) plugin adds several roles, scheduled jobs, and tables.
+Activating the Event Management \(com.glideapp.itom.snac\) plugin adds several roles, scheduled jobs, and tables.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -175,7 +175,7 @@ Release connector instances that are stuck. Runs every 2 minutes.
 
 </td></tr><tr><td>
 
-Event Management — [[alert-priority|Alert Priority]] Queue
+Event Management — Alert Priority Queue
 
 </td><td>
 
@@ -283,7 +283,7 @@ Job that runs and processes each Ready event \(apply event rule, mapping rule, a
 
 </td></tr><tr><td>
 
-Event Management — Process [[metric-binding|Metric Binding]]
+Event Management — Process Metric Binding
 
 </td><td>
 
@@ -351,7 +351,7 @@ Event Management — Convert IT Service
 
 </td><td>
 
-Run this property on demand to [[migrate-manual-2-application-service|convert manual services to application services]].Runs every 30 minutes.
+Run this property on demand to convert manual services to application services.Runs every 30 minutes.
 
 </td></tr><tr><td>
 
@@ -452,7 +452,7 @@ Cleans the Impact Status \(em\_impact\_status\) table by removing records more t
 |Service Analytics Check File System Space on Analytics MID — Daily|Checks disk usage on the dedicated MID Server, and generates an event if it exceeds the threshold set in the **sa\_analytics.rca.mid\_max\_allowed\_space** property.|
 |Service Analytics Gather Value Report Data — Daily|Gathers data for the Value Report.|
 |Service Analytics — Update virtual alerts for aggregation groups|Update the virtual alerts that were created to represent alert aggregation groups, with any changes to alerts belonging to that group. Runs every minute.|
-|Service Analytics Attribute Populator for Historical Alerts|Populate attributes used in feature identifier for historical alert data using [[create-event-rules|event rules]]. Runs on demand.|
+|Service Analytics Attribute Populator for Historical Alerts|Populate attributes used in feature identifier for historical alert data using event rules. Runs on demand.|
 |Event Management - Analytics Alert Syncer|Gathers alert data that is used by grouping job.|
 
 ## Properties for personalizing domain separation for Event Management connectors
@@ -660,7 +660,7 @@ Event Management License Usage\[em\_unique\_nodes\]
 
 </td><td>
 
-When events are received by [[itom-health-landing-page|ITOM AIOps]], an entry is added or updated in this table based on the monitored target specified in the received message. The entry links to its corresponding CMDB CI. If none is found, the entry is assigned **Type = Unknown**.
+When events are received by ITOM AIOps, an entry is added or updated in this table based on the monitored target specified in the received message. The entry links to its corresponding CMDB CI. If none is found, the entry is assigned **Type = Unknown**.
 
 </td></tr><tr><td>
 
@@ -768,11 +768,11 @@ Event binding to specific processes.
 
 </td></tr><tr><td>
 
-[[ci-remediation|CI Remediation]] \[em\_ci\_remediation\]
+CI Remediation \[em\_ci\_remediation\]
 
 </td><td>
 
-[[ccg-remediation|Remediation]] rule definitions.
+Remediation rule definitions.
 
 </td></tr><tr><td>
 
@@ -914,7 +914,7 @@ EM XMLStats Data\[em\_xmlstats\_data\]
 
 </td><td>
 
-Self-health statistics and diagnostic details for [[operational-metrics|Metric Intelligence]] and Event Management, which are used to produce the XMLStats page.
+Self-health statistics and diagnostic details for Metric Intelligence and Event Management, which are used to produce the XMLStats page.
 
 </td></tr></tbody>
 </table>Event Management adds the following tables to support alert aggregation and RCA.
@@ -1057,15 +1057,3 @@ Alert predictions for alert groups.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_EM|Event Management]]
-- [[alert-priority|Alert priority]]
-- [[metric-binding|Metric binding]]
-- [[migrate-manual-2-application-service|Convert manual services to application services]]
-- [[create-event-rules|Event rules]]
-- [[itom-health-landing-page|ITOM AIOps]]
-- [[ci-remediation|CI Remediation]]
-- [[ccg-remediation|Remediation]]
-- [[operational-metrics|Metric Intelligence]]

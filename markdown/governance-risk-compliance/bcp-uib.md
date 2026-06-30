@@ -20,7 +20,7 @@ When you create a comprehensive business continuity plan for different possible 
 
 Creating a business continuity plan involves these steps:
 
--   BCM program manager or planner creates a business continuity plan either from the Home page or the Planning record page in the [[list-view-uib-ws|List view]] of the BCM UIB Workspace.
+-   BCM program manager or planner creates a business continuity plan either from the Home page or the Planning record page in the List view of the BCM UIB Workspace.
 -   BCM program manager or planner adds additional details for the business continuity plan such as its scope, documentation section, recovery teams, related plans, and so on.
 -   BIA owner reviews the information and submits the analysis for a review and approval to the business manager for services or IT manager for applications respectively.
 -   Business manager, IT manager, or BCM lead review the details of the business continuity plan and approve it.
@@ -33,7 +33,7 @@ A sample business continuity plan workflow is shown in the example:
 
 ## Setup tasks for business continuity planning
 
-If you are the BCP administrator, you can view [[bcp-admin-tasks|Setup for a business continuity plan]] for information on the BCP setup tasks.
+If you are the BCP administrator, you can view [Setup for a business continuity plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bcp-admin-tasks.md) for information on the BCP setup tasks.
 
 ## Creating a business continuity plan in Business Continuity Workspace
 
@@ -43,16 +43,9 @@ if you are the business continuity plan owner, you can create a business continu
 
     \[Omitted image "bcp-homepage-uib.png"\] Alt text: Planning tab in the Home page.
 
-    For the description of the cards and action buttons in the **Planning** tab of the Home page, see [[home-page-uib-ws|Home page view]].
+    For the description of the cards and action buttons in the **Planning** tab of the Home page, see [Home page view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/home-page-uib-ws.md).
 
 -   You can also navigate to the List view and select **New** in the Planning records.
 
-To create a business continuity plan in Business Continuity Workspace, see [[create-bcp-plan-in-uib-ws|Create a business continuity plan]]. For information on managing tasks related to a business continuity plan, see [[bcp-tasks-performed-by-bcp-owner|Structured workflows for BCPs]].
+To create a business continuity plan in Business Continuity Workspace, see [Create a business continuity plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-bcp-plan-in-uib-ws.md). For information on managing tasks related to a business continuity plan, see [Structured workflows for BCPs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bcp-tasks-performed-by-bcp-owner.md).
 
-## Related
-
-- [[bcp-admin-tasks|Setup for a business continuity plan]]
-- [[home-page-uib-ws|Home page view]]
-- [[create-bcp-plan-in-uib-ws|Create a business continuity plan]]
-- [[bcp-tasks-performed-by-bcp-owner|Structured workflows for BCPs]]
-- [[list-view-uib-ws|List view]]

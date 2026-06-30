@@ -14,7 +14,7 @@ breadcrumb: [Using Evidence Management, Using HR Service Delivery Employee Relat
 
 # Add case evidence in Agent Workspace for HR Case Management
 
-Create evidence records to attach to an [[hr-case-employee-relations|Employee Relations]] case to help with investigations [[agent-ws-hr-case-mgmt-use|using Agent Workspace for HR Case Management]].
+Create evidence records to attach to an Employee Relations case to help with investigations using Agent Workspace for HR Case Management.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_hr\_er.case\_writer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **[[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **Agent Workspace for HR Case Management**.
 
 2.  Select the **Lists** icon \(\[Omitted image "agent-ws-hr-list-icon.png"\] Alt text: Lists icon\).
 
@@ -170,9 +170,4 @@ Description of the evidence.
 </td></tr></tbody>
 </table>8.  Select **Save**.
 
-## Related
 
-- [[hr-case-employee-relations|Employee Relations]]
-- [[agent-ws-hr-case-mgmt-use|Using Agent Workspace for HR Case Management]]
-- [[case-management-workspace|Case management]]
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]

@@ -13,7 +13,7 @@ breadcrumb: [Reviewing apps, ServiceNow Store, Administering applications, Get s
 
 # Review an app
 
-Use your Now Support credentials to log in to the [[servicenow-store|ServiceNow Store]] and leave a review on any app or integration you have used.
+Use your Now Support credentials to log in to the ServiceNow Store and leave a review on any app or integration you have used.
 
 ## Before you begin
 
@@ -51,9 +51,5 @@ Reviews left on an application only show up in the environment where the review 
 
 For commercial customers, your company, review, and rating are visible in a review posted to the app listing details. For customers using a federal or regulated ServiceNow Store instance, only the rating and review fields are made visible.
 
-**Parent Topic:**[[reviewing-apps|Reviewing apps]]
+**Parent Topic:**[Reviewing apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/reviewing-apps.md)
 
-## Related
-
-- [[reviewing-apps|Reviewing apps]]
-- [[servicenow-store|ServiceNow Store]]

@@ -14,7 +14,7 @@ breadcrumb: [Landing page configurations in Service Operations Workspace for ITS
 
 # Configure the donuts in the tier 1 landing page
 
-Configure the data displayed in donuts in the **Overview** section of the tier 1 [[dex-workspace-dashboard-tab|landing page]].
+Configure the data displayed in donuts in the **Overview** section of the tier 1 landing page.
 
 ## Before you begin
 
@@ -84,7 +84,7 @@ You can customize header label, data source, metric, group by field, and viewAll
                         "myWorkQuery": "active=true^assigned_toISEMPTY^assignment_groupDYNAMICd6435e965f510100a9ad2572f2b47744",
                         "myTeamQuery": "active=true^assigned_toISEMPTY^assignment_groupDYNAMICd6435e965f510100a9ad2572f2b47744",
                         "listView": mode == "your_work" ? "sow_landing_page_assigned" : "sow_landing_page",
-                        "header": await helpers.translate("[[process-unassigned-incident|Unassigned incidents]]"),
+                        "header": await helpers.translate("Unassigned incidents"),
                         "groupByField": "priority",
                         "evamId": evamDef['incidentEvamDefinitionId'],
                         "updated_on": "^ORDERBYDESCsys_updated_on",
@@ -205,7 +205,3 @@ You can customize header label, data source, metric, group by field, and viewAll
 
 **Parent Topic:**[Landing page configurations in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/landing-page-configurations-sow-itsm.md)
 
-## Related
-
-- [[dex-workspace-dashboard-tab|Landing page]]
-- [[process-unassigned-incident|Unassigned incidents]]

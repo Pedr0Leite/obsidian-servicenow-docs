@@ -18,11 +18,11 @@ Switch to the demand currency view to track the planned costs of a demand in the
 
 **Important:**
 
-Demands are available in the Next Experience for [[c_DemandManagement|Demand Management]]. For more information, see [Next Experience for Demand Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/demand-workspace-ppw.md).
+Demands are available in the Next Experience for Demand Management. For more information, see [Next Experience for Demand Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/demand-workspace-ppw.md).
 
 The workspace provides additional value beyond the legacy experience, including Playbook, Docs, and the ability to define different governance processes using playbooks.
 
-If you have [[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace or [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace, you can use the Next Experience for Demand Management to create and manage your demands.
+If you have Portfolio Planning Workspace or Strategic Planning Workspace, you can use the Next Experience for Demand Management to create and manage your demands.
 
 -   New customers: Use Next Experience for Demand Management to create and manage your demands.
 -   Existing customers: If you already have demands in the classic UI, you can continue using it. However, we recommend moving to the Next Experience for Demand Management, as your existing demands are automatically available there.
@@ -39,13 +39,13 @@ To manage your demands in a currency different than the functional currency, the
 
 |Table name|Description|
 |----------|-----------|
-|Demand \[dmn\_demand\] table|Track a demand in a different currency. [[t_CreatingDemands|Create a demand]] and select another currency by navigating to the **Financial** tab and selecting a currency in the **Demand Currency** field. To create a demand, see [Create a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_CreatingDemands.md).|
-|Demand Task \[dmn\_demand\_task\] table|Demand tasks are used to delegate the cost, effort, risk, and benefit assessment activities. To [[create-demand-task|create a demand task]], see [Create a demand task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/create-demand-task.md).|
-|Cost Plans \[cost\_plan\] table|Cost plans capture the costs of demands. To navigate to the [[demand-plan-form|Cost Plan form]], see [Create a demand cost plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_CreateADemandCostPlan.md).|
-|Cost Plan Breakdown \[cost\_plan\_breakdown\] table|Cost plan breakdowns specify the estimated cost and actual cost at a granular level for a fiscal period. To navigate to the [[cost-plan-breakdown-form|Cost Plan Breakdown form]], see [Create a demand cost plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_CreateADemandCostPlan.md).|
-|Benefit Plan \[benefit\_plan\] table|If you open the [[demand-form|demand form]] in **Demand Currency** view, then by default the fields related to the demand currency appear in the Benefit Plans related list. To create a demand benefit plan, see [Create a monetary benefit plan for a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/create-demand-benefit-plan.md).|
+|Demand \[dmn\_demand\] table|Track a demand in a different currency. Create a demand and select another currency by navigating to the **Financial** tab and selecting a currency in the **Demand Currency** field. To create a demand, see [Create a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_CreatingDemands.md).|
+|Demand Task \[dmn\_demand\_task\] table|Demand tasks are used to delegate the cost, effort, risk, and benefit assessment activities. To create a demand task, see [Create a demand task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/create-demand-task.md).|
+|Cost Plans \[cost\_plan\] table|Cost plans capture the costs of demands. To navigate to the Cost Plan form, see [Create a demand cost plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_CreateADemandCostPlan.md).|
+|Cost Plan Breakdown \[cost\_plan\_breakdown\] table|Cost plan breakdowns specify the estimated cost and actual cost at a granular level for a fiscal period. To navigate to the Cost Plan Breakdown form, see [Create a demand cost plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_CreateADemandCostPlan.md).|
+|Benefit Plan \[benefit\_plan\] table|If you open the demand form in **Demand Currency** view, then by default the fields related to the demand currency appear in the Benefit Plans related list. To create a demand benefit plan, see [Create a monetary benefit plan for a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/create-demand-benefit-plan.md).|
 |Benefit Plan Breakdowns \[benefit\_plan\_breakdown\] table|Benefit plans capture the potential benefits accrued by the demand when the demand is executed. To update a benefit plan breakdown, see [Create a monetary benefit plan for a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/create-demand-benefit-plan.md).|
-|Expense Line \[fm\_expense\_line\] table|Expense lines are part of the demand cost plans and stores cost associated with a specific resource. To navigate to the [[expense-line-form-demand|Expense line form]], see [Create an expense line for a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/create_expense_line_demand.md).|
+|Expense Line \[fm\_expense\_line\] table|Expense lines are part of the demand cost plans and stores cost associated with a specific resource. To navigate to the Expense line form, see [Create an expense line for a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/create_expense_line_demand.md).|
 |Project Funding \[project\_funding\] table|Stores the demand target and budget expense values for both capital and operating expenses for a single fiscal period. To allocate the budget for a demand, see [Allocate budget to a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/allocate-budget-to-demand.md).|
 
 ## Procedure
@@ -64,7 +64,7 @@ To manage your demands in a currency different than the functional currency, the
 Refer to the form fields that are exclusive to the **Demand Currency** view that you have selected. All the other form tabs and fields remain the same both for the default view and the demand currency view. Continue to enter values in the fields as you would for the default view.
 
 -   **[Multicurrency fields in demand-related forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/multicurrency-fields-demand.md)**  
-When you enable the **Demand Currency** view in a Demand, Cost Plan, and [[cost-plan-breakdown|Cost Plan Breakdown]] [[form-field-information-for-dw|forms]], you can observe the multicurrency fields in the Financials section of the forms.
+When you enable the **Demand Currency** view in a Demand, Cost Plan, and Cost Plan Breakdown forms, you can observe the multicurrency fields in the Financials section of the forms.
 -   **[Allocate demand budget in demand currency](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/allocate-budget-demand-currency.md)**  
 Set the capital expense \(Capex\) and operating expense \(Opex\) budgets in demand or functional currency according to the fiscal years. The sum of the Capex and Opex budgets is calculated as the total budget in demand currency.
 -   **[Cost plan updates and cost recalculation in demand currency](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/cost-recalculation-demand-multicurrency.md)**  
@@ -74,16 +74,3 @@ Updating the entered currency, entered benefit, offset type, or the fiscal perio
 
 **Parent Topic:**[Multicurrency in Demand Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/multicurrency-demand.md)
 
-## Related
-
-- [[c_DemandManagement|Demand Management]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[t_CreatingDemands|Create a demand]]
-- [[create-demand-task|Create a demand task]]
-- [[demand-plan-form|Cost plan form]]
-- [[cost-plan-breakdown-form|Cost plan breakdown form]]
-- [[demand-form|Demand form]]
-- [[expense-line-form-demand|Expense line form]]
-- [[cost-plan-breakdown|Cost plan breakdown]]
-- [[form-field-information-for-dw|Forms]]

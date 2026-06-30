@@ -14,7 +14,7 @@ breadcrumb: [Configuring Localization Workspace, Localization Workspace, Transla
 
 # Creating email notifications for Localization Workspace
 
-As an admin, you can set up email [[notifications|notifications]] for events in [[localization-workspace|Localization Workspace]].
+As an admin, you can set up email notifications for events in Localization Workspace.
 
 Keep your requestors and fulfillers informed by configuring email notifications in the system. Emails can be triggered by events or dates.
 
@@ -28,16 +28,9 @@ As an admin, you can create email notifications triggered by translation request
 **Related topics**  
 
 
-[[t_CreateANotification|Create an email notification]]
+[Create an email notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateANotification.md)
 
-[[create-notification-categories|Create notification categories]]
+[Create notification categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-notification-categories.md)
 
-[[t_PreviewingNotifications|Preview email notifications]]
+[Preview email notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_PreviewingNotifications.md)
 
-## Related
-
-- [[t_CreateANotification|Create an email notification]]
-- [[create-notification-categories|Create notification categories]]
-- [[t_PreviewingNotifications|Preview email notifications]]
-- [[notifications|Notifications]]
-- [[localization-workspace|Localization Workspace]]

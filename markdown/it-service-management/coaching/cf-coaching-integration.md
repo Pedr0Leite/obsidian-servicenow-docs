@@ -14,13 +14,13 @@ breadcrumb: [Reference, Coaching, IT Service Management]
 
 # Integrating Coaching with other applications
 
-Bring in data from other ServiceNow [[dex-workspace-application-tab|applications]] to enhance the training of your agents.
+Bring in data from other ServiceNow applications to enhance the training of your agents.
 
 -   [Continual Improvement Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/cim-landing-page.md)
 
-    One example of a [[cf-coaching-landing|coaching]] opportunity with CIM would be to use improvement initiatives to set up external training tasks.
+    One example of a coaching opportunity with CIM would be to use improvement initiatives to set up external training tasks.
 
-    **Note:** The [[cim-landing-page|Continual Improvement Management]] \(com.sn\_cim\) plugin must be active to create an improvement initiative. Continual Improvement Management requires a separate subscription and must be activated by ServiceNow personnel.
+    **Note:** The Continual Improvement Management \(com.sn\_cim\) plugin must be active to create an improvement initiative. Continual Improvement Management requires a separate subscription and must be activated by ServiceNow personnel.
 
 -   [Skills Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/skills-management.md)
 
@@ -33,8 +33,3 @@ Bring in data from other ServiceNow [[dex-workspace-application-tab|applications
 
 **Parent Topic:**[Coaching reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-coaching-reference.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[cf-coaching-landing|Coaching]]
-- [[cim-landing-page|Continual Improvement Management]]

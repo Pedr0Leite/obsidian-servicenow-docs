@@ -14,7 +14,7 @@ breadcrumb: [Reference Opportunity Marketplace roles and tables, Opportunity Mar
 
 # Opportunity Type Configuration for Opportunity Marketplace
 
-[[egd-oppt-mrktplc-landing|Opportunity Marketplace]] \(OPM\) supports different opportunity types that are designed for unique types of opportunities and roles.
+Opportunity Marketplace \(OPM\) supports different opportunity types that are designed for unique types of opportunities and roles.
 
 Admins can create opportunity types. There are three opportunity types that automatically come with OPM. Admins can create other opportunity types.
 
@@ -38,7 +38,7 @@ Description
 
 </td><td>
 
-A title for the opportunity that is visible from the Opportunity Marketplace in the [[employee-center-landing-page|Employee Center]].
+A title for the opportunity that is visible from the Opportunity Marketplace in the Employee Center.
 
 </td></tr><tr><td>
 
@@ -55,7 +55,7 @@ Controls the number of roles that can be added to an opportunity.-   **Embedded 
 
 </td><td>
 
-A list of available opportunity descriptions. The **Opportunity details** are visible in the opportunity. **Opportunity details** are stored in the [[egd-oppt-mrktplc-project|Project opportunity]] creation details \[sn\_opp\_market\_opportunity\] table.
+A list of available opportunity descriptions. The **Opportunity details** are visible in the opportunity. **Opportunity details** are stored in the Project opportunity creation details \[sn\_opp\_market\_opportunity\] table.
 
  Opportunity details and Roles and requirements are record producer records in the Catalog Item \[sc\_cat\_item\] table. The record producer is a configuration of the layout for which fields are shown. There are 3 opportuntiy types included with the base system \(Gigs, Project, and Volunteer\). Clone one of the base opportunity types to create a custom **Opportunity type**.
 
@@ -79,7 +79,7 @@ The text for the description of the opportunity that is displayed in Opportunity
 
 </td></tr><tr><td>
 
-**[[hiring-tab-concept|Hiring]] approval flow**
+**Hiring approval flow**
 
 </td><td>
 
@@ -128,9 +128,3 @@ The URL that is associated with the **Help link label**.
 </td></tr></tbody>
 </table>**Parent Topic:**[Reference Opportunity Marketplace roles and tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/opportunity-marketplace/egd-oppt-mrktplc-references.md)
 
-## Related
-
-- [[egd-oppt-mrktplc-landing|Opportunity Marketplace]]
-- [[employee-center-landing-page|Employee Center]]
-- [[egd-oppt-mrktplc-project|Project opportunity]]
-- [[hiring-tab-concept|Hiring]]

@@ -14,7 +14,7 @@ breadcrumb: [Now Assist for Software Asset Management \(SAM\), Software Asset Ma
 
 # Configuring Now Assist for Software Asset Management \(SAM\)
 
-If you have the admin role, you can configure the [[now-assist-sam|Now Assist for Software Asset Management \(SAM\)]] application to use generative AI skills in the [[sam-workspace|Software Asset Workspace]].
+If you have the admin role, you can configure the Now Assist for Software Asset Management \(SAM\) application to use generative AI skills in the Software Asset Workspace.
 
 ## Before you begin
 
@@ -60,12 +60,7 @@ Starting with the Zurich Patch 4 release, generative AI skills for Now Assist fo
 -   **[Install Now Assist for Software Asset Management \(SAM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/now-assist-for-software-asset-management-sam/install-now-assist-sam.md)**  
 If you have the admin role, you can install the Now Assist for Software Asset Management \(SAM\) application. The Now Assist for Software Asset Management \(SAM\) application integrates generative AI capabilities into your daily workflow tasks.
 -   **[Skill inputs and triggers for Now Assist for Software Asset Management \(SAM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/now-assist-for-software-asset-management-sam/now-assist-sam-skills-inputs.md)**  
-Get a quick overview of the [[now-assist-sam-skills-inputs|skill inputs and triggers for Now Assist for Software Asset Management \(SAM\)]]. By configuring the inputs or triggers for a skill, you can determine how and when a skill is used.
+Get a quick overview of the skill inputs and triggers for Now Assist for Software Asset Management \(SAM\). By configuring the inputs or triggers for a skill, you can determine how and when a skill is used.
 
 **Parent Topic:**[Now Assist for Software Asset Management \(SAM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/now-assist-for-software-asset-management-sam/now-assist-sam.md)
 
-## Related
-
-- [[now-assist-sam|Now Assist for Software Asset Management \(SAM\)]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[now-assist-sam-skills-inputs|Skill inputs and triggers for Now Assist for Software Asset Management \(SAM\)]]

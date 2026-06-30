@@ -18,7 +18,7 @@ Delete a component to remove a custom component and all its instances from the W
 
 ## Before you begin
 
-You must [[create-custom-comp|create a custom component]]. For more information, see [Create a custom component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/create-custom-comp.md).
+You must create a custom component. For more information, see [Create a custom component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/create-custom-comp.md).
 
 Role required: sn\_embeddable\_core.emb\_admin
 
@@ -51,6 +51,3 @@ This action cannot be undone. Before proceeding, review all dependencies and con
 
 The custom component and its instances disappear from the **Manage components** section on the Web Embeddables application homepage and the website where it’s embedded.
 
-## Related
-
-- [[create-custom-comp|Create a custom component]]

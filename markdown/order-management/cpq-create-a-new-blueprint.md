@@ -13,7 +13,7 @@ breadcrumb: [Set up blueprints, CPQ app, Configure, price, quote apps, Configure
 
 # Create a blueprint
 
-Create a blueprint to standardize product configurations and reduce setup time. [[blueprints|Blueprints]] define the structure, behavior, and configuration experience for your product models, ensuring consistency across your catalog.
+Create a blueprint to standardize product configurations and reduce setup time. Blueprints define the structure, behavior, and configuration experience for your product models, ensuring consistency across your catalog.
 
 ## Before you begin
 
@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-Blueprints serve as reusable templates that streamline product creation and ensure consistent configuration experiences. Use blueprints to define product hierarchies, set default values, and establish configuration [[rules_101|rules]] that apply across multiple products.
+Blueprints serve as reusable templates that streamline product creation and ensure consistent configuration experiences. Use blueprints to define product hierarchies, set default values, and establish configuration rules that apply across multiple products.
 
 ## Procedure
 
@@ -53,13 +53,7 @@ You can now use the blueprint as a template when creating new products. The blue
 **Related topics**  
 
 
-[[cpq-export-a-blueprint|Export a blueprint]]
+[Export a blueprint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-export-a-blueprint.md)
 
-[[cpq-import-a-blueprint|Import a blueprint]]
+[Import a blueprint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-import-a-blueprint.md)
 
-## Related
-
-- [[cpq-export-a-blueprint|Export a blueprint]]
-- [[cpq-import-a-blueprint|Import a blueprint]]
-- [[blueprints|Blueprints]]
-- [[rules_101|Rules]]

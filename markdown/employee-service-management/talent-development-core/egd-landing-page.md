@@ -32,7 +32,7 @@ Helps employees identify growth and development areas, create a plan, and track 
 
 </td></tr><tr><td>
 
-[Using \[Omitted image "bus-agent-workspace-1.svg"\] Alt text:From the ServiceNow® [[employee-center-landing-page|Employee Center]], managers and employees work with the Talent app and related features on career growth and development.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-use.md)
+[Using \[Omitted image "bus-agent-workspace-1.svg"\] Alt text:From the ServiceNow® Employee Center, managers and employees work with the Talent app and related features on career growth and development.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-use.md)
 
 </td><td>
 
@@ -40,7 +40,7 @@ Helps employees identify growth and development areas, create a plan, and track 
 
 </td><td>
 
-[Reference \[Omitted image "bus-learn.svg"\] Alt text: [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] information provides important details related to how the Talent Development Core app works.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-reference.md)
+[Reference \[Omitted image "bus-learn.svg"\] Alt text: Reference information provides important details related to how the Talent Development Core app works.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-reference.md)
 
 </td></tr></tbody>
 </table>## Request apps on the Store
@@ -55,7 +55,3 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

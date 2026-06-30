@@ -20,7 +20,7 @@ The GDS Service Portal uses widgets for configuration. Widgets are what define t
 
 When you create or update a page in the Service Portal Designer, you can add widgets to that page by searching in the widget filter and dragging a widget onto the page. You can then configure widget behavior, visual appearance, and content to update the information presented on the widgets. Each time you add a widget to a page, an instance of that widget is created that can be modified individually for use on that page. For each instance of a base system widget that you add to a page, you can configure the instance options available for that widget.
 
-For a list of base system widgets that enable you to configure various pages within the GOV.UK Design System Service Portal, see [[psds-config-govuk-widget-lib|Widget Library]]. You can also access all widget records from the platform at **All** &gt; **Service Portal** &gt; **Widgets**.
+For a list of base system widgets that enable you to configure various pages within the GOV.UK Design System Service Portal, see [Widget Library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-govuk-widget-lib.md). You can also access all widget records from the platform at **All** &gt; **Service Portal** &gt; **Widgets**.
 
 There are four main categories of widgets available for use with the GDS Service Portal.
 
@@ -49,7 +49,7 @@ Constituents can use Knowledge Management widgets to do the following:
 -   See popular, featured, or top‑rated articles.
 -   Interact with articles by rating or commenting, when available.
 
-These widgets organize knowledge content in a clear, navigational way. Some widgets help users discover articles through search and filters, while others display article details and related information on the article page. As an admin, you can use Knowledge Management widgets to build a knowledge base for your portal. For more information on maintaining a knowledge base within a portal, see [[psds-config-govuk-dev-tk-portal-kb|Configure Knowledge Base]].
+These widgets organize knowledge content in a clear, navigational way. Some widgets help users discover articles through search and filters, while others display article details and related information on the article page. As an admin, you can use Knowledge Management widgets to build a knowledge base for your portal. For more information on maintaining a knowledge base within a portal, see [Configure Knowledge Base](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-govuk-dev-tk-portal-kb.md).
 
 ## Service Portal configuration page widgets
 
@@ -94,20 +94,12 @@ As an admin, you can use the example widgets to see how to use HTML, CSS, or cli
 
 For more information on using configurable widgets in portals, see [Using portal widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal-widgets.md).
 
--   **[[psds-config-govuk-dev-tk-portal-widgets-edit|Customize Widgets for GOV.UK Design System Service Portal pages]]**  
+-   **[Customize Widgets for GOV.UK Design System Service Portal pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-govuk-dev-tk-portal-widgets-edit.md)**  
 You can use base system widgets as-is in the GDS Service Portal, or you may clone them to suit your needs.
--   **[[psds-config-govuk-dev-tk-portal-widgets-add|Add Widgets to GOV.UK Design System Service Portal pages]]**  
+-   **[Add Widgets to GOV.UK Design System Service Portal pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-govuk-dev-tk-portal-widgets-add.md)**  
 Add widgets to your portal pages and modify its data, presentation, and behavior. You can use base system widgets as-is in the GDS Service Portal, or you may clone them to suit your needs.
--   **[[psds-config-govuk-dev-tk-portal-widgets-instances|Configure Widgets Instances for GDS Service Portal pages]]**  
+-   **[Configure Widgets Instances for GDS Service Portal pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-govuk-dev-tk-portal-widgets-instances.md)**  
 You can use widget instances to configure the location, properties, and CSS specific to that instance of the widget. Create unique instances of widgets by configuring the options for each instance.
 
-**Parent Topic:**[[psds-config-gds-content-pack-gsp|Configure the GOV.UK Design System \(GDS\) Service Portal]]
+**Parent Topic:**[Configure the GOV.UK Design System \(GDS\) Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gds-content-pack-gsp.md)
 
-## Related
-
-- [[psds-config-govuk-widget-lib|GOV.UK Developer Toolkit GDS Service Portal Widget Library]]
-- [[psds-config-govuk-dev-tk-portal-kb|Configure GOV.UK Design System Service Portal Knowledge Base]]
-- [[psds-config-govuk-dev-tk-portal-widgets-edit|Customize Widgets for GOV.UK Design System Service Portal pages]]
-- [[psds-config-govuk-dev-tk-portal-widgets-add|Add Widgets to GOV.UK Design System Service Portal pages]]
-- [[psds-config-govuk-dev-tk-portal-widgets-instances|Configure Widgets Instances for GDS Service Portal pages]]
-- [[psds-config-gds-content-pack-gsp|Configure the GOV.UK Design System \(GDS\) Service Portal]]

@@ -14,13 +14,13 @@ breadcrumb: [Create internal Learning content, Manage Learning, Using My Learnin
 
 # Define user access to course within internal learning content
 
-Define user access to define who has read access to internal [[exploring-learning-exp|learning]] content.
+Define user access to define who has read access to internal learning content.
 
 ## Before you begin
 
 Role required: admin
 
-[[create-internal-learning-content|Create internal learning content]]. For more information, see [Create internal Learning content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-internal-learning-content.md).
+Create internal learning content. For more information, see [Create internal Learning content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-internal-learning-content.md).
 
 ## Procedure
 
@@ -41,7 +41,3 @@ Role required: admin
 
 **Parent Topic:**[Create internal Learning content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-internal-learning-content.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[create-internal-learning-content|Create internal Learning content]]

@@ -14,7 +14,7 @@ breadcrumb: [Discovery error messages, Discovery monitoring and issue resolution
 
 # Find the cause of a sensor error message
 
-Use this procedure to identify a [[r-discovery|Discovery]] sensor error.
+Use this procedure to identify a Discovery sensor error.
 
 ## Before you begin
 
@@ -33,11 +33,11 @@ This process requires that you identify the following:
 
 1.  Depending on the application you are using, do one of the following:
 
-    -   To view the **Discovery Log** in [[cow-landing-page|Cloud Discovery Workspace]], navigate to **Cloud Discovery Workspace** &gt; **Cloud Discovery** &gt; **Discovery Log**.
+    -   To view the **Discovery Log** in Cloud Discovery Workspace, navigate to **Cloud Discovery Workspace** &gt; **Cloud Discovery** &gt; **Discovery Log**.
     -   To view the **Discovery Log** in Discovery, navigate to **All** &gt; **Discovery** &gt; **Discovery Log**.
 2.  To find the error, filter on the **Level name** of **Error**.
 
-    If you are [[using-discovery|using Discovery]], you can also view the error and the date stamp in the Error Report. The report is available on the Discovery dashboard.
+    If you are using Discovery, you can also view the error and the date stamp in the Error Report. The report is available on the Discovery dashboard.
 
 3.  Note the **Created** field of the error record.
 
@@ -69,8 +69,3 @@ This process requires that you identify the following:
 
 [Find the cause of a "Probe not found" error]()
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[cow-landing-page|Cloud Discovery Workspace]]
-- [[using-discovery|Using Discovery]]

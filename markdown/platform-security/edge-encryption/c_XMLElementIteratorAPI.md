@@ -16,7 +16,7 @@ breadcrumb: [XML APIs, Encryption rule objects and APIs, Define a custom encrypt
 
 Provides methods for iterating over XML elements.
 
-You get an XMLElementIterator object by calling the getIterator\(\) method of the [[c_XMLContentAPI|XMLContent]] class.
+You get an XMLElementIterator object by calling the getIterator\(\) method of the XMLContent class.
 
 **Parent Topic:**[XML APIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/xml-overview.md)
 
@@ -46,6 +46,3 @@ You cannot call next\(\) without first calling hasNext\(\).
 |----|-----------|
 |XMLElement|The next XML element.|
 
-## Related
-
-- [[c_XMLContentAPI|XMLContent]]

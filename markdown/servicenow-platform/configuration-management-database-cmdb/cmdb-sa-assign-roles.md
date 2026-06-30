@@ -14,7 +14,7 @@ breadcrumb: [Configure, CMDB success advisor, Configuration Management Database 
 
 # Assign roles for CMDB success advisor users
 
-Assign roles to control access to features, capabilities, and data in the [[cmdb-sa|CMDB success advisor]] application.
+Assign roles to control access to features, capabilities, and data in the CMDB success advisor application.
 
 ## Before you begin
 
@@ -56,7 +56,7 @@ sn\_cmdb\_user
 
 </td><td>
 
-Provides read-only access to CMDB success advisor from the Insights section in [[sg-workspace|Service Graph Workspace]]. Users with this role can view the Dashboard tab only. Users with this role can't access the Settings and Integrations tabs.
+Provides read-only access to CMDB success advisor from the Insights section in Service Graph Workspace. Users with this role can view the Dashboard tab only. Users with this role can't access the Settings and Integrations tabs.
 
 </td><td>
 
@@ -80,7 +80,7 @@ cmdb\_inst\_admin
 
 </td><td>
 
-Required to manage Service Graph Connector connections in [[sgcc-landing|SGC Central]] through CMDB success advisor.**Note:** Service Graph Connector data can be read without any additional role. The cmdb\_inst\_admin role is required for creating or modifying connector configurations through CMDB success advisor.
+Required to manage Service Graph Connector connections in SGC Central through CMDB success advisor.**Note:** Service Graph Connector data can be read without any additional role. The cmdb\_inst\_admin role is required for creating or modifying connector configurations through CMDB success advisor.
 
 </td><td>
 
@@ -120,8 +120,3 @@ Data Foundations and HAM dashboards
     -   To assign a role to a user, see [Assign a role to a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AssignARoleToAUser.md).
     -   To assign a role to a group, see [Assign a role to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AssignRoleToGroup.md).
 
-## Related
-
-- [[cmdb-sa|CMDB success advisor]]
-- [[sg-workspace|Service Graph Workspace]]
-- [[sgcc-landing|SGC Central]]

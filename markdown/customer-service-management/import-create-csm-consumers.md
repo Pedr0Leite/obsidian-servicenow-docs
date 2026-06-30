@@ -12,7 +12,7 @@ breadcrumb: [Configure consumers, Customer data, Set up your environment, Config
 
 # Create consumers
 
-A consumer is a customer in the business-to-consumer \(B2C\) business model. Use the [[c_CustomerServiceManagement|Customer Service Management]] application to create consumer records.
+A consumer is a customer in the business-to-consumer \(B2C\) business model. Use the Customer Service Management application to create consumer records.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Role required: One of the following roles:
 
 Consumers can have multiple addresses, one of which is the primary address.
 
-**Note:** Note: Creating a consumer record is only one part of setting up a consumer persona. The user must also be assigned a consumer role \(sn\_customerservice.consumer or sn\_customerservice.unified\_consumer\) to access consumer functionality. Without both the consumer record and the role, you can't perform consumer activities such as viewing cases, [[sold-product|sold products]], or [[install-base-item|install base items]].
+**Note:** Note: Creating a consumer record is only one part of setting up a consumer persona. The user must also be assigned a consumer role \(sn\_customerservice.consumer or sn\_customerservice.unified\_consumer\) to access consumer functionality. Without both the consumer record and the role, you can't perform consumer activities such as viewing cases, sold products, or install base items.
 
 ## Procedure
 
@@ -50,8 +50,4 @@ Consumers can have multiple addresses, one of which is the primary address.
 
     The record is added to the Consumers table \(csm\_consumer\). The primary address is added to the **Addresses** related list and the **Primary** field is set to **true**.
 
-## Related
 
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[sold-product|Sold products]]
-- [[install-base-item|Install base items]]

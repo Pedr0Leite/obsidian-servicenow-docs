@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Portfolio Planning, Reference, Portfolio
 
 # Roadmap configuration form
 
-Learn about the fields of the roadmap configuration form. Use this form to add new tables to roadmap preferences and configure their details in [[portfolio-planning-app-landing-page|Portfolio Planning]].
+Learn about the fields of the roadmap configuration form. Use this form to add new tables to roadmap preferences and configure their details in Portfolio Planning.
 
 <table id="table_o13_czc_m4b"><thead><tr><th>
 
@@ -121,6 +121,3 @@ List of fields used as the metrics for the roadmap items.
 </td></tr></tbody>
 </table>**Parent Topic:**[Form field information for Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/form-field-information-for-portfolio-planning.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

@@ -14,11 +14,11 @@ breadcrumb: [Knowledge Graph, Enable AI experiences]
 
 # Exploring Knowledge Graph
 
-[[knowledge-graph-landing|Knowledge Graph]] provides a connected representation of data that maps entities and their relationships, adding context and meaning to information to enable intelligent search, insights, and AI-driven experiences.
+Knowledge Graph provides a connected representation of data that maps entities and their relationships, adding context and meaning to information to enable intelligent search, insights, and AI-driven experiences.
 
 ## Knowledge Graph overview
 
-ServiceNow Knowledge Graph application enhances the ServiceNow AI Platform® by creating a semantic layer that connects data, relationships, and context across the enterprise. It structures information as a graph of entities and connections, bringing context and meaning to the available raw data. By leveraging AI, it powers personalized and intelligent experiences across the [[platform-now-assist-landing|Now Assist]] ecosystem including Now Assist Virtual Agent, AI Agents, and AI Search to deliver more relevant insights and automation.
+ServiceNow Knowledge Graph application enhances the ServiceNow AI Platform® by creating a semantic layer that connects data, relationships, and context across the enterprise. It structures information as a graph of entities and connections, bringing context and meaning to the available raw data. By leveraging AI, it powers personalized and intelligent experiences across the Now Assist ecosystem including Now Assist Virtual Agent, AI Agents, and AI Search to deliver more relevant insights and automation.
 
 By linking data and embedding semantic meaning, ServiceNow Knowledge Graph transforms raw data into actionable knowledge, fueling faster resolutions, richer insights, and more personalized AI-powered experiences.
 
@@ -34,9 +34,9 @@ ServiceNow Knowledge Graph application:
 
 ServiceNow Knowledge Graph is a graphical representation of real-world entities \(tables\) and their relationships, stored in a database. Each graphical representation is called as a Knowledge Graph Schema that consist of relevant entities called nodes. The relationship between each entity is called an edge.
 
-To create, edit and manage Knowledge Graph schemas for your specific use [[cases|cases]], ServiceNow Knowledge Graph has introduced, Knowledge Graph designer.
+To create, edit and manage Knowledge Graph schemas for your specific use cases, ServiceNow Knowledge Graph has introduced, Knowledge Graph designer.
 
-Users can use these schema to customize and extend Knowledge Graph integrations with Now Assist Virtual Agent and AI agents, and [[now-assist-center-now-assist-panel|Now Assist panel]]. Servicenow also provides some Prebuilt integrations, that connect the Knowledge Graph with Now Assist Virtual Agent and AI agents, and other ServiceNow applications, enabling seamless AI-powered workflows and personalized experiences.
+Users can use these schema to customize and extend Knowledge Graph integrations with Now Assist Virtual Agent and AI agents, and Now Assist panel. Servicenow also provides some Prebuilt integrations, that connect the Knowledge Graph with Now Assist Virtual Agent and AI agents, and other ServiceNow applications, enabling seamless AI-powered workflows and personalized experiences.
 
 ## Knowledge Graph Designer
 
@@ -49,7 +49,7 @@ The Knowledge Graph Designer streamlines the entire process, from schema creatio
 
 ## Prebuilt Integrations
 
-By unifying Knowledge across platforms and integrating with Now Assist, AI Search, AI agents, and skill kit, the prebuilt integrations of Knowledge Graph helps the customer drive productivity, enhance decision-making, and unlock the full potential of enterprise data, while maintaining robust data governance and permission [[controls|controls]].
+By unifying Knowledge across platforms and integrating with Now Assist, AI Search, AI agents, and skill kit, the prebuilt integrations of Knowledge Graph helps the customer drive productivity, enhance decision-making, and unlock the full potential of enterprise data, while maintaining robust data governance and permission controls.
 
 In this release, the available prebuilt integrations are:
 
@@ -74,7 +74,7 @@ In this release, the available prebuilt integrations are:
 |Simple and easy to use|Creates a complex data model called Knowledge Graph schema with numerous entities and their relation within a few steps.|kg\_admin|
 |Easy to manage|Editing Knowledge Graph schemas to add new nodes or edges is simple.|kg\_admin|
 |Customizable Knowledge Graph schema|Provides an option to copy the ServiceNow Knowledge Graph schemas for customization.|kg\_admin|
-|Test a Knowledge Graph schema|Provides an option to [[test-a-knowledge-graph-schema|test a Knowledge Graph schema]] by running a query.|kg\_admin|
+|Test a Knowledge Graph schema|Provides an option to test a Knowledge Graph schema by running a query.|kg\_admin|
 |Use Workflow Data Fabric to retrieve information without saving or copying them from the source entity. This ensures efficiency and security.|Leverage Workflow Data Fabric tables in Knowledge Graph to retrieve data.|Requester|
 |Create a Knowledge Graph schema with Workflow Data Fabric tables.|To create and manage Workflow Data Fabric tables, see |kg\_admin|
 
@@ -86,11 +86,3 @@ To learn more about configuring and using Knowledge Graph, see:
 -   [Using Knowledge Graph Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/using-knowledge-graph-designer.md)
 -   [Reference for Knowledge Graph](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/reference-for-knowledge-graph.md)
 
-## Related
-
-- [[knowledge-graph-landing|Knowledge Graph]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[cases|Cases]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[controls|Controls]]
-- [[test-a-knowledge-graph-schema|Test a Knowledge Graph schema]]

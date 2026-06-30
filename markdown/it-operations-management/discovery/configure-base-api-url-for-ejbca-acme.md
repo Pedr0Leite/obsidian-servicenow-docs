@@ -18,7 +18,7 @@ Configure your base API URL for EJBCA ACME to your organization's root URL addre
 
 ## Before you begin
 
-Role required: [[r-discovery|discovery]]\_admin, Public Key infrastructure \(PKI\) admin, admin
+Role required: discovery\_admin, Public Key infrastructure \(PKI\) admin, admin
 
 ## Procedure
 
@@ -43,6 +43,3 @@ Role required: [[r-discovery|discovery]]\_admin, Public Key infrastructure \(PKI
 
 The base API URL for your EJBCA ACME environment is configured to your systems.
 
-## Related
-
-- [[r-discovery|Discovery]]

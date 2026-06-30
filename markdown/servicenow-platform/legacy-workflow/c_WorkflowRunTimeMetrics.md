@@ -16,7 +16,7 @@ breadcrumb: [Workflow administration, Classic Workflow, ServiceNow AI Platform A
 
 You can enable the collection of workflow run time metrics to determine whether workflows are performing as expected or consuming additional resources.
 
-Outlying run times for a workflow are identified by comparing actual run times to an outlier range calculated with the outlier threshold and estimated run time defined in the [[r_WorkflowProperties|workflow properties]].
+Outlying run times for a workflow are identified by comparing actual run times to an outlier range calculated with the outlier threshold and estimated run time defined in the workflow properties.
 
 You can monitor the results of these metrics on the Workflow Operations Dashboard and custom homepages with workflow gauges.
 
@@ -43,7 +43,7 @@ For baseline workflows, you must also manually enable the collection of run time
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **Workflow** &gt; **[[workflow-editor|Workflow Editor]]**.
+1.  Navigate to **All** &gt; **Workflow** &gt; **Workflow Editor**.
 
 2.  Open and check out the workflow.
 
@@ -136,7 +136,3 @@ For example:
 
 You can also manually update the estimated run time in the workflow properties.
 
-## Related
-
-- [[r_WorkflowProperties|Workflow properties]]
-- [[workflow-editor|Workflow editor]]

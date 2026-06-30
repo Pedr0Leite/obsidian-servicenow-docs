@@ -14,7 +14,7 @@ breadcrumb: [Reference, Smart Assessment Engine, Governance, Risk, and Complianc
 
 # Trigger Smart Assessment action form
 
-Use the Trigger smart assessment action form to add assessment actions to a flow or to obtain a code snippet for a script as part of the process for triggering [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] assessments.
+Use the Trigger smart assessment action form to add assessment actions to a flow or to obtain a code snippet for a script as part of the process for triggering Smart Assessment Engine assessments.
 
 ## Trigger Smart assessment action form
 
@@ -139,7 +139,3 @@ List of all scope items that the generated assessments are applied to.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]

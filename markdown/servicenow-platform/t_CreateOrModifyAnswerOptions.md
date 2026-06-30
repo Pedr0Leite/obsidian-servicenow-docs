@@ -64,7 +64,7 @@ Numeric value, greater than or equal to zero, to which the answer option equates
 
 ## Example
 
-On [[c_SurveyQuestionnairesForUsers|survey questionnaires]], the answer options for a question appear in order from smallest to largest **Value**. For example, consider the survey question **How do you feel?** with the answer options **Good**, **Neutral**, and **Bad**. The following table shows the answer option order based on the **Value**.
+On survey questionnaires, the answer options for a question appear in order from smallest to largest **Value**. For example, consider the survey question **How do you feel?** with the answer options **Good**, **Neutral**, and **Bad**. The following table shows the answer option order based on the **Value**.
 
 |Answer option|Value|Order|
 |-------------|-----|-----|
@@ -74,7 +74,7 @@ On [[c_SurveyQuestionnairesForUsers|survey questionnaires]], the answer options 
 
 If you use survey result calculations, ensure the question **Scale definition** is set appropriately based on the answer options. In the previous example, if you want the answer option **Good** to earn the highest score, the scale definition should be **Low** because **Good** has the smallest value.
 
-**Parent Topic:**[[c_SurveyQuestion|Survey questions]]
+**Parent Topic:**[Survey questions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyQuestion.md)
 
 **Related topics**  
 
@@ -89,7 +89,3 @@ If you use survey result calculations, ensure the question **Scale definition** 
 
 [Change the order of survey questions]()
 
-## Related
-
-- [[c_SurveyQuestion|Survey questions]]
-- [[c_SurveyQuestionnairesForUsers|Survey questionnaires]]

@@ -14,7 +14,7 @@ breadcrumb: [People Genius Results, Genius Result configurations in the base sys
 
 # Activate People Genius Results
 
-Enable [[ia-ai-search|AI Search]]'s People default Genius Result configuration for use in your search profiles.
+Enable AI Search's People default Genius Result configuration for use in your search profiles.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ Role required: ais\_admin
 -   Location \[cmn\_location\]
 -   User \[sys\_user\]
 
-These tables are configured as vocabulary sources in the Default AI Search [[genius-results-ais|Genius Results]] Model specified in the People configuration's NLU trigger condition. If your instance has more than 100,000 records in any of the listed tables, training will fail for the NLU model and the People Genius Result configuration won't operate correctly.
+These tables are configured as vocabulary sources in the Default AI Search Genius Results Model specified in the People configuration's NLU trigger condition. If your instance has more than 100,000 records in any of the listed tables, training will fail for the NLU model and the People Genius Result configuration won't operate correctly.
 
 ## About this task
 
@@ -43,7 +43,7 @@ For more information on the People default Genius Result configuration, see [Peo
 
 1.  Train and publish the Default AI Search Genius Results Model.
 
-    1.  Navigate to **All** &gt; **System Definition** &gt; **[[c_ScheduledJobs|Scheduled Jobs]]**.
+    1.  Navigate to **All** &gt; **System Definition** &gt; **Scheduled Jobs**.
 
     2.  Open the **AI Search Create Train Model** job.
 
@@ -59,7 +59,7 @@ For more information on the People default Genius Result configuration, see [Peo
 
     2.  Open the People Genius Result configuration.
 
-    3.  On the [[genius-result-cfg-form-ais|AI Search Genius Result Configuration form]], select **Change Active State**.
+    3.  On the AI Search Genius Result Configuration form, select **Change Active State**.
 
         For a description of the field values, see [AI Search Genius Result Configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/genius-result-cfg-form-ais.md).
 
@@ -72,9 +72,3 @@ The People Genius Result configuration is available for use in search profiles.
 
 **Parent Topic:**[People Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/genius-result-people-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[genius-results-ais|Genius Results]]
-- [[c_ScheduledJobs|Scheduled jobs]]
-- [[genius-result-cfg-form-ais|AI Search Genius Result Configuration form]]

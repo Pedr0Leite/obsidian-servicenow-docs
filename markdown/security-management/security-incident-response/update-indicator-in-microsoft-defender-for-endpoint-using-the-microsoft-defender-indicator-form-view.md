@@ -14,7 +14,7 @@ breadcrumb: [Create indicators, Microsoft Defender for Endpoint integration, Sec
 
 # Update indicators in Microsoft Defender for Endpoint
 
-Update the existing [[indicator|indicators]] in Microsoft Defender for Endpoint from the list context-menu or from the form view of the Microsoft Defender Indicator respectively.
+Update the existing indicators in Microsoft Defender for Endpoint from the list context-menu or from the form view of the Microsoft Defender Indicator respectively.
 
 ## Before you begin
 
@@ -129,6 +129,4 @@ RBAC group names that the indicator is applied to. The names are in a comma-sepa
 
 6.  Validate the activity and UI messages.
 
-## Related
 
-- [[indicator|Indicators]]

@@ -14,7 +14,7 @@ breadcrumb: [Certification filters, CMDB Compliance, Configuration Management Da
 
 # Delete a certification filter
 
-Delete [[c_CertificationFilters|certification filters]] that are no longer needed and no longer in use.
+Delete certification filters that are no longer needed and no longer in use.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ You can't delete a certification filter that is being used in a template or a sc
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Configuration** &gt; **[[ci-class-manager-landing-page|CI Class Manager]]**, and:
+1.  Navigate to **All** &gt; **Configuration** &gt; **CI Class Manager**, and:
 
     1.  Select **Hierarchy** to show the CI Classes list.
 
@@ -39,7 +39,7 @@ You can't delete a certification filter that is being used in a template or a sc
 2.  Or, navigate to one of these modules:
 
     -   **Compliance** &gt; **Filters**
-    -   **[[c_DataCertification|Data Certification]]** &gt; **Schedules** &gt; **Certification Filters**
+    -   **Data Certification** &gt; **Schedules** &gt; **Certification Filters**
 3.  Open the filter record you want to delete.
 
     1.  To delete a single filter version, open that version record and click **Delete**.
@@ -52,8 +52,4 @@ You can't delete a certification filter that is being used in a template or a sc
 
     The system deletes unused filter versions. A message in the header bar identifies filter versions that cannot be deleted because they are used in a template or scripted audit.
 
-## Related
 
-- [[c_CertificationFilters|Certification filters]]
-- [[ci-class-manager-landing-page|CI Class Manager]]
-- [[c_DataCertification|Data Certification]]

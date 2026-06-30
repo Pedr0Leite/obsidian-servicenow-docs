@@ -22,7 +22,7 @@ Role required: sn\_hr\_sp.esc\_admin
 
 ## Procedure
 
-1.  Navigate to **[[employee-center-landing-page|Employee Center]]** &gt; **Requests** &gt; **Filter definitions**.
+1.  Navigate to **Employee Center** &gt; **Requests** &gt; **Filter definitions**.
 
 2.  From the Request filter definitions list, select the required definition to open it.
 
@@ -34,6 +34,4 @@ Role required: sn\_hr\_sp.esc\_admin
 
     For a description of the field values, see [Request filter condition form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/filter-cond-form-req.md).
 
-## Related
 
-- [[employee-center-landing-page|Employee Center]]

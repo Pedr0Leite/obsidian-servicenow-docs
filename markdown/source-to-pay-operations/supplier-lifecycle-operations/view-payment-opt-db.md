@@ -20,11 +20,11 @@ The Payment optimization dashboard provides an overview of the total spend and p
 
 Role required: sn\_slm.manager or sn\_slm.admin
 
-**Important:** Check your entitlements to determine whether you have access to [[supplier-pmnt-opt|Supplier Payment Optimization]].
+**Important:** Check your entitlements to determine whether you have access to Supplier Payment Optimization.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
 2.  Select the **Payment optimization** icon \[Omitted image "pymt-opt-db-icon.png"\].
 
@@ -36,7 +36,7 @@ Role required: sn\_slm.manager or sn\_slm.admin
 The Payment Optimization dashboard is displayed. It contains information on the following:
 
 -   All time spend and total spend for the current month, quarter, and year.
--   Total potential savings and the top 10 [[supplier|supplier]] opportunities by potential savings.
+-   Total potential savings and the top 10 supplier opportunities by potential savings.
 -   Average propensity score of the supplier-base for accepting credit card payments.
 -   Credit card insights including status of all the active credit card enablement cases and industry-wise potential credit card savings.
 
@@ -49,9 +49,3 @@ The Payment Optimization dashboard is displayed. It contains information on the 
 
 [Estimate savings using the saving estimator tool](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/estimate-savings.md)
 
-## Related
-
-- [[supplier-pmnt-opt|Supplier Payment Optimization]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supplier|Supplier]]

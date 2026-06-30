@@ -24,7 +24,7 @@ Legal Invention Disclosure is a workflow that enables inventors to disclose thei
 
 </td><td>
 
-[Configure\[Omitted image "bus-sdlc.svg"\] Alt text:Install and [[configure-legal-invention-disclosure|configure Legal Invention Disclosure]], set up outside firms and outside counsels, and set up and configure inventor rewards.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/configure-legal-invention-disclosure.md)
+[Configure\[Omitted image "bus-sdlc.svg"\] Alt text:Install and configure Legal Invention Disclosure, set up outside firms and outside counsels, and set up and configure inventor rewards.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/configure-legal-invention-disclosure.md)
 
 </td></tr><tr><td>
 
@@ -32,7 +32,7 @@ Legal Invention Disclosure is a workflow that enables inventors to disclose thei
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about components such as roles, tables, and forms.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/legal-invention-disclosure-[[reference-hr-service-delivery-advanced-integration-with-workday|reference]].md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about components such as roles, tables, and forms.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/legal-invention-disclosure-reference.md)
 
 </td></tr></tbody>
 </table>## Request apps on the Store
@@ -49,7 +49,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 -   **[Exploring Legal Invention Disclosure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/explore-legal-invention-disclosure.md)**  
 Learn more about Legal Invention Disclosure through a sample workflow and review the benefits it can provide.
 -   **[Configure Legal Invention Disclosure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/configure-legal-invention-disclosure.md)**  
-[[install-legal-invention-disclosure|Install Legal Invention Disclosure]] and configure the requirements to enable efficient processing and tracking of patent requests.
+Install Legal Invention Disclosure and configure the requirements to enable efficient processing and tracking of patent requests.
 -   **[Using the Legal Invention Disclosure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/use-legal-invention-disclosure.md)**  
 Legal Invention Disclosure provides a streamlined process for inventors to request an application for a patent and for that request to be reviewed both internally and externally by outside counsels. The application is then submitted to patent authorities. You can choose to reward inventors at selected stages of the application process.
 -   **[Legal Invention Disclosure reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/legal-invention-disclosure-reference.md)**  
@@ -80,8 +80,3 @@ Reference topics provide additional information about the forms that you use in 
 
 [Legal Hold Notification]()
 
-## Related
-
-- [[configure-legal-invention-disclosure|Configure Legal Invention Disclosure]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[install-legal-invention-disclosure|install legal invention disclosure]]

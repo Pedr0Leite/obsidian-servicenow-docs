@@ -20,7 +20,7 @@ As of the Paris release, no user can simultaneously have the explicit roles snc\
 
 Groups and role containment structures also cannot include both roles, as this would result in any group member or user assigned to such a group or role automatically holding both roles. The ServiceNow AI Platform aborts any operation that would create such a scenario.
 
-You must install the Explicit Roles \[com.glide.explicit\_roles\] plugin while installing [[supplier-case-management|Supplier Case Management]]. Supplier Case Management is dependent on the Explicit Roles \[com.glide.explicit\_roles\] plugin.
+You must install the Explicit Roles \[com.glide.explicit\_roles\] plugin while installing Supplier Case Management. Supplier Case Management is dependent on the Explicit Roles \[com.glide.explicit\_roles\] plugin.
 
 For more information about ServiceNow AI Platform explicit roles, see [Explicit Roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/explicit-roles.md).
 
@@ -35,6 +35,3 @@ For more information about ServiceNow AI Platform explicit roles, see [Explicit 
 
 [Configure properties for Supplier Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/config-prop-supp-mgmt.md)
 
-## Related
-
-- [[supplier-case-management|Supplier Case Management]]

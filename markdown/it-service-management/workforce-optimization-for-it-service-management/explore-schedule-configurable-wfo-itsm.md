@@ -14,11 +14,11 @@ breadcrumb: [Workforce Optimization for ITSM, IT Service Management]
 
 # Scheduling in Workforce Optimization for ITSM
 
-Learn how you can plan shifts with automatically staggered break times for your agents to manage their schedule effectively in [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]. Publish schedules for the next scheduling period to get a snapshot of which agent is lined up to solve issues for that time period.
+Learn how you can plan shifts with automatically staggered break times for your agents to manage their schedule effectively in Workforce Optimization for ITSM. Publish schedules for the next scheduling period to get a snapshot of which agent is lined up to solve issues for that time period.
 
 ## Shift planning
 
-Manage the scheduling for your organization from a central location. Use [[c_OnCallScheduling|On-Call Scheduling]] with Workforce Optimization for ITSM to have dedicated team members to resolve issues as they arise.
+Manage the scheduling for your organization from a central location. Use On-Call Scheduling with Workforce Optimization for ITSM to have dedicated team members to resolve issues as they arise.
 
 The image provides a high-level overview of the Scheduling application.
 
@@ -70,7 +70,3 @@ Easily find the tasks that you must complete in the Scheduling module.
 |Evaluate if your agents are adhering to their schedules and fine-tune your staffing requirements based on their adherence.|[Scheduling manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/configurable-wfo-itsm-scheduling-reference.md)|[Monitor schedule adherence of your agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/configurable-workspace-view-schedule-adherence-itsm.md)|
 |Predict resources based on historical data.|[Scheduling admin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/configurable-wfo-itsm-scheduling-reference.md)|[Demand Forecast in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/explore-demand-forecast-configurable-wfo-itsm.md)|
 
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]
-- [[c_OnCallScheduling|On-Call Scheduling]]

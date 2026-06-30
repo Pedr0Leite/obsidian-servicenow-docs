@@ -12,7 +12,7 @@ breadcrumb: [Set up layouts, CPQ app, Configure, price, quote apps, Configure, S
 
 # Layout: a deeper dive
 
-Learn advanced layout concepts in CPQ, including tiers, column [[cpq-sets|sets]], and product list [[layouts|layouts]]. Understand how to structure pages, tabs, and sections in CSV files to create dynamic, responsive configuration interfaces with organized and intuitive user experiences.
+Learn advanced layout concepts in CPQ, including tiers, column sets, and product list layouts. Understand how to structure pages, tabs, and sections in CSV files to create dynamic, responsive configuration interfaces with organized and intuitive user experiences.
 
 ## Tiers and tierDef
 
@@ -44,7 +44,7 @@ Do not define label or variablename at the tierDef level \(row 8 in the image\).
 
 ## Label column
 
-For both [[fields|fields]] and tiers, the text entered in the label column is the text that appears on screen in the layout. The label for the yellow rows appears as the label for each tab. The label column is also used for fields.
+For both fields and tiers, the text entered in the label column is the text that appears on screen in the layout. The label for the yellow rows appears as the label for each tab. The label column is also used for fields.
 
 \[Omitted image "cpq-layout-deeper-dive-labelcolumn.png"\] Alt text: Tiers and tierDef
 
@@ -54,7 +54,7 @@ Variables are used to define the path and call specific fields created in CPQ. I
 
 \[Omitted image "cpq-layout-deeper-dive-variablename-1.png"\] Alt text: Tiers and tierDef
 
-Variables pertaining to layout must be different than variables defined in CPQ for fields or [[rules_101|rules]]. This is because variables defined in CPQ are also used in the layout CSV. The variables names assigned to a field in CPQ UI are used to add the field to the layout. The following images show the CSV file referencing a field variable \(variablename=**desiredIrons**\) that was created in CPQ resulting in the field appearing in the layout.
+Variables pertaining to layout must be different than variables defined in CPQ for fields or rules. This is because variables defined in CPQ are also used in the layout CSV. The variables names assigned to a field in CPQ UI are used to add the field to the layout. The following images show the CSV file referencing a field variable \(variablename=**desiredIrons**\) that was created in CPQ resulting in the field appearing in the layout.
 
 \[Omitted image "cpq-layout-deeper-dive-variablename-2.png"\] Alt text: Tiers and tierDef
 
@@ -219,10 +219,3 @@ Display tiers as pages with a progress nav bar at the top, including labels that
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cpq-sets|Sets]]
-- [[layouts|Layouts]]
-- [[fields|Fields]]
-- [[rules_101|Rules]]

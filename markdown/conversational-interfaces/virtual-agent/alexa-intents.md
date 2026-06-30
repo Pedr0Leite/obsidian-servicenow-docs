@@ -14,7 +14,7 @@ breadcrumb: [Set up Conversational Integration with Alexa, Configure Conversatio
 
 # Supported Alexa intents
 
-Use the Alexa intents supported by [[conv-integ-alexa|Conversational Integration with Alexa]] to receive an appropriate response during custom chat integrations with Alexa.
+Use the Alexa intents supported by Conversational Integration with Alexa to receive an appropriate response during custom chat integrations with Alexa.
 
 ## Supported custom intents
 
@@ -29,6 +29,3 @@ Use the Alexa intents supported by [[conv-integ-alexa|Conversational Integration
 
 **Parent Topic:**[Set up Conversational Integration with Alexa](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/setup-alexa.md)
 
-## Related
-
-- [[conv-integ-alexa|Conversational Integration with Alexa]]

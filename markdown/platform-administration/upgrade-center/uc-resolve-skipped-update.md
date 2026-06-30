@@ -37,7 +37,7 @@ When an object is customized, the system adds a corresponding record to the Cust
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[uc-landing-page|Upgrade Center]]** &gt; **Upgrade History**.
+1.  Navigate to **All** &gt; **Upgrade Center** &gt; **Upgrade History**.
 
 2.  Select the desired software version.
 
@@ -77,7 +77,7 @@ Retain the customization by merging changes from the updated object.
 
 </td><td>
 
-1.  Click**Resolve Conflicts** to navigate to the [[uc-resolve-conflicts-form|Resolve Conflicts form]].
+1.  Click**Resolve Conflicts** to navigate to the Resolve Conflicts form.
 2.  Review the differences.
 3.  To merge a field:
     -   Click the right-arrow button for the field.
@@ -99,7 +99,7 @@ After reviewing the changes, click **Revert to Base System**.-   **Disposition**
 -   **Resolution Status** changes to **Reviewed and Reverted**.
 -   The system creates a Customer Update record.
 -   The record moves from the Skipped Changes to Review to the Skipped Changes Reviewed related list.
- **Note:** At any time after you [[uc-revert-customization|revert a customization]], you can click **Reapply Changes** to reapply the customization.
+ **Note:** At any time after you revert a customization, you can click **Reapply Changes** to reapply the customization.
 
 </td></tr><tr><td>
 
@@ -127,8 +127,3 @@ From the **Resolution** list, choose **Not Reviewed** to defer the decision on h
 
 Only skipped updates with a **Resolution Status** of **Not Reviewed** or without a resolution set appear in the Skipped Changes to Review related list. Any action you take that changes the **Resolution Status** to a value other than **Not Reviewed** or **--None--** removes the skipped update from list and moves it to the Skipped Changes Reviewed related list.
 
-## Related
-
-- [[uc-landing-page|Upgrade Center]]
-- [[uc-resolve-conflicts-form|Resolve Conflicts form]]
-- [[uc-revert-customization|Revert a customization]]

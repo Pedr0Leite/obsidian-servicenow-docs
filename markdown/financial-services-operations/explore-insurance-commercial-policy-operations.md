@@ -88,8 +88,5 @@ Processors in the middle or back office of financial institutions who work with 
 -   Insurance underwriters
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[fso-ins-commercial-policy-ops-landing-page|Commercial Lines Servicing]]
+</table>**Parent Topic:**[Commercial Lines Servicing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-ins-commercial-policy-ops-landing-page.md)
 
-## Related
-
-- [[fso-ins-commercial-policy-ops-landing-page|Commercial Lines Servicing]]

@@ -54,8 +54,8 @@ Procedure
 
 </td><td>
 
-Add the AI Search topic block to a conversation topic. For details, see [Add a reusable topic block to a calling topic or topic block](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/add-topic-blocks-to-topic.md).1.  Navigate to **[[convint-landing-page|Conversational Interfaces]]** &gt; **[[virtual-agent-landing-page|Virtual Agent]]** &gt; **Designer** and select the topic or [create a new topic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-virtual-agent-topic.md).
-2.  In the Flow tab, drag the [[va-topic-blocks|Topic Block utility]] onto the canvas.
+Add the AI Search topic block to a conversation topic. For details, see [Add a reusable topic block to a calling topic or topic block](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/add-topic-blocks-to-topic.md).1.  Navigate to **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Designer** and select the topic or [create a new topic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-virtual-agent-topic.md).
+2.  In the Flow tab, drag the Topic Block utility onto the canvas.
 3.  Complete the Topic Block Properties sheet:
     -   In the **Topic Block** field, select AI Search.
     -   In the **Search Term \(String\)** field, use dot-walking or a script to specify the input variable for the search.
@@ -82,8 +82,3 @@ Create or update a custom chat experience that uses the Run AI Search topic bloc
 
 **Parent Topic:**[Improving the user experience with AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-ai-search.md)
 
-## Related
-
-- [[convint-landing-page|Conversational Interfaces]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[va-topic-blocks|Topic Block utility]]

@@ -14,7 +14,7 @@ breadcrumb: [Security Incident Response Integration with Cortex XSIAM by Palo Al
 
 # Install and Configure
 
-Install and configure Palo Alto Networks XSIAM integration for [[security-operations-landing-page|Security Operations]] application from the ServiceNow Store on your ServiceNow AI Platform® instance.
+Install and configure Palo Alto Networks XSIAM integration for Security Operations application from the ServiceNow Store on your ServiceNow AI Platform® instance.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_si.admin, sn\_si.ingestion\_profile\_admin
 
 ## Procedure
 
-1.  Download **[[sir-landing-page|Security Incident Response]] Integration with Palo Alto Networks XSIAM** integration from the ServiceNow® Store and install it.
+1.  Download **Security Incident Response Integration with Palo Alto Networks XSIAM** integration from the ServiceNow® Store and install it.
 
 2.  Navigate to **All** &gt; **Security Operations** &gt; **Integrations** &gt; **Integration Configurations**.
 
@@ -84,7 +84,3 @@ URL of the XSIAM tenant.
 
 [Create an incident profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/pan-cortex-xsiam-profile.md)
 
-## Related
-
-- [[security-operations-landing-page|Security Operations]]
-- [[sir-landing-page|Security Incident Response]]

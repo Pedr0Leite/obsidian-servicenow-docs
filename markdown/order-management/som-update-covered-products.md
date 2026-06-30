@@ -47,7 +47,7 @@ You can add multiple covered products to an order line item.
     -   **Covered install base item**: Add an install base item to the order line.
 8.  Select **Save**.
 
-    **Note:** You can't [[Modify|modify]] a covered product added to an order line. To make changes, delete the covered product by selecting **More Actions icon \[Omitted image "icon-three-dot-menu.png"\] Alt text:** &gt; **Delete** and add the covered product again by selecting **New**.
+    **Note:** You can't modify a covered product added to an order line. To make changes, delete the covered product by selecting **More Actions icon \[Omitted image "icon-three-dot-menu.png"\] Alt text:** &gt; **Delete** and add the covered product again by selecting **New**.
 
 9.  On the order line item page, select the contract start date and the contract end date.
 
@@ -59,9 +59,5 @@ You can add multiple covered products to an order line item.
 **Related topics**  
 
 
-[[adding-cov-prod-cceworkflows|Add Covered Products using Contracts and Entitlement Workflow]]
+[Add Covered Products using Contracts and Entitlement Workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/adding-cov-prod-cceworkflows.md)
 
-## Related
-
-- [[adding-cov-prod-cceworkflows|Add Covered Products using Contracts and Entitlement Workflow]]
-- [[Modify|Modify]]

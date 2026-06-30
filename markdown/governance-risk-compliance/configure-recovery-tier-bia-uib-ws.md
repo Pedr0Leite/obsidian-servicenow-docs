@@ -12,7 +12,7 @@ breadcrumb: [General administration setup for BCM, Configure, Business Continuit
 
 # Configure recovery tiers for BIA
 
-Configure a recovery tier with a set of business applications that follow a similar range of recovery time objective \(RTO\) values. Use the **Recovery Tiers** module in the [[business-continuity-mangmt-overview|Business Continuity Management]] application navigator to configure a recovery tier.
+Configure a recovery tier with a set of business applications that follow a similar range of recovery time objective \(RTO\) values. Use the **Recovery Tiers** module in the Business Continuity Management application navigator to configure a recovery tier.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_bcm.admin
 
 ## Procedure
 
-1.  Navigate to **Business Continuity** &gt; **General [[Administration|Administration]]** &gt; **Recovery Tiers**.
+1.  Navigate to **Business Continuity** &gt; **General Administration** &gt; **Recovery Tiers**.
 
 2.  Select **New**.
 
@@ -30,7 +30,7 @@ Role required: sn\_bcm.admin
 
     \[Omitted image "new-recovery-tier-rto.png"\] Alt text: Recovery tier and its recovery time objective.
 
-    For more information on the fields in the form, see [[recovery-tier-record-form|Recovery Tier record form]].
+    For more information on the fields in the form, see [Recovery Tier record form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/recovery-tier-record-form.md).
 
 4.  Select **Submit**.
 
@@ -38,11 +38,5 @@ Role required: sn\_bcm.admin
 -   **[Recovery Tier record form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/recovery-tier-record-form.md)**  
 Use the Recovery Tier record form to configure a recovery tier with a set of business applications by using BCM UIB Workspace.
 
-**Parent Topic:**[[set-up-bcm-bcmadmin-tasks|General administration setup for BCM]]
+**Parent Topic:**[General administration setup for BCM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/set-up-bcm-bcmadmin-tasks.md)
 
-## Related
-
-- [[recovery-tier-record-form|Recovery Tier record form]]
-- [[set-up-bcm-bcmadmin-tasks|General administration setup for BCM]]
-- [[business-continuity-mangmt-overview|Business Continuity Management]]
-- [[Administration|Administration]]

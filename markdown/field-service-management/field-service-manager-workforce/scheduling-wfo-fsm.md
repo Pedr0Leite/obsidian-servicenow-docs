@@ -20,7 +20,7 @@ Scheduling in Workforce Optimization for Field Service enables you to manage you
 
 With Scheduling, you can do the following:
 
--   Add meetings, training, time-off requests, or ad hoc work shifts by [[using-team-calendar|using the team calendar]].
+-   Add meetings, training, time-off requests, or ad hoc work shifts by using the team calendar.
 -   Filter agents in the team calendar based on their location, region, assignment groups, or any field in the agent's record.
 -   Create shift and schedule plans for agents.
 -   Approve or reject agent time off and shift-swap requests.
@@ -43,6 +43,3 @@ For more information about key performance indicators and sidebars, see [Explori
     -   **Conformance**= \(Minutes worked in shift + Overtime\)/Scheduled shift time in minutes
 -   The ideal adherence percentage by default is above 70, and conformance is between 80 to 120. However, your administrator can change the threshold values. For more information, see [Scheduling in Workforce Optimization for Field Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/scheduling-wfo-fsm.md). The agents who do not qualify to the defined threshold values are considered as non-adherent and are highlighted in red.
 
-## Related
-
-- [[using-team-calendar|Using the team calendar]]

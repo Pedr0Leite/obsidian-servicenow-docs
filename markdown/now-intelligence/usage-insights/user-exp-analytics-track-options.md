@@ -14,7 +14,7 @@ breadcrumb: [Configuring Usage Insights, Usage Insights, Platform Analytics]
 
 # User privacy, tracking, and user consent management in Usage Insights
 
-[[user-exp-analytics-landing|Usage Insights]] relies on tracking user activity to measure the adoption, retention, and usage of KPIs to help you make better product and implementation decisions.
+Usage Insights relies on tracking user activity to measure the adoption, retention, and usage of KPIs to help you make better product and implementation decisions.
 
 ## Tracking users in Usage Insights
 
@@ -47,6 +47,3 @@ Usage Insights tracks data from several sources, including web and mobile analyt
 
 **Parent Topic:**[Configuring Usage Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/configuring-user-exp-analytics.md)
 
-## Related
-
-- [[user-exp-analytics-landing|Usage Insights]]

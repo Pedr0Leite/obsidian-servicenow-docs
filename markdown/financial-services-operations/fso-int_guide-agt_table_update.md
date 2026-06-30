@@ -22,9 +22,9 @@ In this scenario, a script in a ServiceNow workflow makes a request to the remot
 
 \[Omitted image "fso-update\_external\_record-flow.png"\] Alt text: FSO case flow that shows how to update a system of record within the bank application
 
-The table that is accessed in this scenario is the [[fso-int_guide-table_defs|Consumer]] \[csm\_consumer\] table which contains the business-to-customer records.
+The table that is accessed in this scenario is the [Consumer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-int_guide-table_defs.md) \[csm\_consumer\] table which contains the business-to-customer records.
 
-The following diagram shows the flow of the REST API calls for this use case and provides brief remarks on any required processing. It assumes that you have used the steps outlined in [[fso-int_guide-agt_table_lookup|Lookup remote information in the system of record]] to obtain the customer account information.
+The following diagram shows the flow of the REST API calls for this use case and provides brief remarks on any required processing. It assumes that you have used the steps outlined in [Lookup remote information in the system of record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-int_guide-agt_table_lookup.md) to obtain the customer account information.
 
 <table id="table_rmq_ywq_bpb"><tbody><tr><td>
 
@@ -75,7 +75,3 @@ var requestBody = {
 updateCreditLimit (requestBody);
 ```
 
-## Related
-
-- [[fso-int_guide-table_defs|FSO table definitions]]
-- [[fso-int_guide-agt_table_lookup|Lookup remote information in the system of record]]

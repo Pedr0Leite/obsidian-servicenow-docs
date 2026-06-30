@@ -14,7 +14,7 @@ breadcrumb: [Use, Workplace Service Delivery for Mobile, Workplace Service Deliv
 
 # Scan the QR code to reserve a space
 
-Scan the QR code of a workplace and quickly reserve a space using the [[mobile-employee-experience|Now Mobile app]].
+Scan the QR code of a workplace and quickly reserve a space using the Now Mobile app.
 
 ## Before you begin
 
@@ -77,7 +77,7 @@ Role required: sn\_wsd\_core.workplace\_user
     -   Share reservation
 12. To submit a general inquiry or raise a complaint request, select **Submit a request**.
 
-    **Note:** This option appears only if the [[workplace-case-mgmt-feat|Workplace Case Management]] plugin is installed.
+    **Note:** This option appears only if the Workplace Case Management plugin is installed.
 
     1.  In the **What can we help you with?** field, enter your inquiry details.
 
@@ -106,7 +106,3 @@ Role required: sn\_wsd\_core.workplace\_user
 
 **Next topic:**[Work with Location Directory for Now Mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/view-location-directory-mobile.md)
 
-## Related
-
-- [[mobile-employee-experience|Now Mobile app]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]

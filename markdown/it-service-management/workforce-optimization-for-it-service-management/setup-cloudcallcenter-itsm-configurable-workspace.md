@@ -14,11 +14,11 @@ breadcrumb: [Using Voice, Routing work items, Channels, Workforce Optimization f
 
 # Associate Amazon Connect queues for ITSM to a ServiceNow instance
 
-Set up phone queues for Amazon Connect to gain visibility into the queues using [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]].
+Set up phone queues for Amazon Connect to gain visibility into the queues using Workforce Optimization for ITSM.
 
 ## Before you begin
 
-Enable the Advanced Work Assignment plugin \(com.glide.awa\) to create the Amazon Connect queues. You must activate this plugin before you activate the Cloud Call Center Core \(sn\_cti\_core\) plugin so that you can successfully integrate the two [[dex-workspace-application-tab|applications]].
+Enable the Advanced Work Assignment plugin \(com.glide.awa\) to create the Amazon Connect queues. You must activate this plugin before you activate the Cloud Call Center Core \(sn\_cti\_core\) plugin so that you can successfully integrate the two applications.
 
 After you [install the Cloud Call Center applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/install-ccc-apps.md), when you enable the Advanced Work Assignment plugin \(com.glide.awa\), the Amazon Connect \(phone\) service channel appears in the Workforce Optimization for ITSM.
 
@@ -80,7 +80,3 @@ A routing profile links queues to agents. Every agent must have a routing profil
 
 **Parent Topic:**[Using Voice with Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/voice-configurable-wfo-itsm.md)
 
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]
-- [[dex-workspace-application-tab|Applications]]

@@ -18,7 +18,7 @@ Associate a business application with a JFrog project in the JFrog tool record t
 
 ## Before you begin
 
-The required business [[dex-workspace-application-tab|applications]] must be created in ServiceNow. For more information, see [Business application form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-business-application-form.md).
+The required business applications must be created in ServiceNow. For more information, see [Business application form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-business-application-form.md).
 
 Role required: sn\_devops.admin or sn\_devops.tool\_owner
 
@@ -37,6 +37,3 @@ Role required: sn\_devops.admin or sn\_devops.tool\_owner
 
 **Parent Topic:**[Integration with JFrog AppTrust application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/integration-with-jfrog-apptrust-application.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]

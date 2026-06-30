@@ -14,18 +14,18 @@ breadcrumb: [Viewing Cloud Account Management dashboards, Using Cloud Account Ma
 
 # Viewing the cloud accounts page
 
-The [[cloud-accounts|Cloud accounts]] page displays information used to access and manage the life cycle of multiple cloud subscription accounts.
+The Cloud accounts page displays information used to access and manage the life cycle of multiple cloud subscription accounts.
 
 ## Access the dashboard
 
-As a [[cam-landing|Cloud Account Management]] \(CAM\) admin, you can access the Accounts page in either of two ways.
+As a Cloud Account Management \(CAM\) admin, you can access the Accounts page in either of two ways.
 
 -   Navigate to **All** &gt; **Cloud Workspace**
 -   -   Navigate to **Workspaces** &gt; **Cloud Workspace**
 
 \[Omitted image "cloud-accounts-page.png"\] Alt text: Cloud accounts page
 
-**Note:** The configuration violations data is populated only if the user is a CAM admin or account manager and the [[cloud-configuration-governance|Cloud Configuration Governance]] content pack is installed.
+**Note:** The configuration violations data is populated only if the user is a CAM admin or account manager and the Cloud Configuration Governance content pack is installed.
 
 The following metrics are displayed:
 
@@ -37,8 +37,3 @@ The following metrics are displayed:
 
 For more information, see [Cloud account details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/cloud-accounts-details.md).
 
-## Related
-
-- [[cloud-accounts|Cloud accounts]]
-- [[cam-landing|Cloud Account Management]]
-- [[cloud-configuration-governance|Cloud Configuration Governance]]

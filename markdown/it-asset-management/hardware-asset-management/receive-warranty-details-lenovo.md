@@ -14,12 +14,12 @@ breadcrumb: [Use, Hardware Asset Management, IT Asset Management]
 
 # Receive asset warranty details from Lenovo
 
-[[connect-to-lenovo-api|Connect to the Lenovo Warranty API]] and get the warranty details of your hardware assets.
+Connect to the Lenovo Warranty API and get the warranty details of your hardware assets.
 
 -   **[Connect to the Lenovo Warranty API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/connect-to-lenovo-api.md)**  
 Create a connection and credential to connect to the Lenovo Warranty API and download the warranty information for hardware assets.
 -   **[Track the warranty details of your Lenovo assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/view-asset-warranty-details.md)**  
-View and track the warranty details of your Lenovo hardware assets from a central location in the [[asset-operations-view|Asset operations view]] of the [[using-ham-workspace|Hardware Asset Workspace]].
+View and track the warranty details of your Lenovo hardware assets from a central location in the Asset operations view of the Hardware Asset Workspace.
 
 **Parent Topic:**[Using Hardware Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/using-ham-classic.md)
 
@@ -30,7 +30,7 @@ View and track the warranty details of your Lenovo hardware assets from a centra
 
 [Work with hardware normalization]()
 
-[Manage [[asset-bundles-concept|asset bundles]] from your inventory]()
+[Manage asset bundles from your inventory]()
 
 [Manage your inventory through pallet assets]()
 
@@ -52,13 +52,13 @@ View and track the warranty details of your Lenovo hardware assets from a centra
 
 [Request a Hardware Asset Refresh]()
 
-[Manage your expiring [[c_Contracts|contracts]] for leased hardware assets]()
+[Manage your expiring contracts for leased hardware assets]()
 
 [Reclaim hardware assets]()
 
 [View RFID information of assets]()
 
-[Manage the lifecycle of hardware [[c_Models|models]] with calculated lifecycle templates]()
+[Manage the lifecycle of hardware models with calculated lifecycle templates]()
 
 [Create an internal lifecycle in the Hardware Asset Workspace]()
 
@@ -74,7 +74,7 @@ View and track the warranty details of your Lenovo hardware assets from a centra
 
 [Configure the Total Cost of Ownership of assets]()
 
-[Manage [[ham-landing-page|Hardware Asset Management]] subscriptions]()
+[Manage Hardware Asset Management subscriptions]()
 
 [Manage repair of defective assets in your stockroom in the Hardware Asset Workspace]()
 
@@ -92,12 +92,3 @@ View and track the warranty details of your Lenovo hardware assets from a centra
 
 [Integration with Lenovo for asset warranty details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/integration-with-lenovo-asset-warranty.md)
 
-## Related
-
-- [[connect-to-lenovo-api|Connect to the Lenovo Warranty API]]
-- [[asset-operations-view|Asset operations view]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[asset-bundles-concept|Asset bundles]]
-- [[c_Contracts|Contracts]]
-- [[c_Models|Models]]
-- [[ham-landing-page|Hardware Asset Management]]

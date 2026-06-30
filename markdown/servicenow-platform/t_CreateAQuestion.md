@@ -12,7 +12,7 @@ breadcrumb: [Create quizzes with forms, Using Quizzes, Quizzes, Assessments and 
 
 # Create questions
 
-[[t_CreateAQuizQuestion|Create quiz questions]]. A category can have multiple questions associated with it.
+Create quiz questions. A category can have multiple questions associated with it.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Each question can only be associated with one category. Each question has an ans
 
     -   By accessing the Assessment Metrics related list and selecting **New**.
     -   Navigate to **Quiz Management** &gt; **Questions** and select **New**.
-    **Warning:** When you create a **Choice**or **Likert Scale** question, you must reopen the [[assessment-metric-form|Assessment Metric form]] after you submit it to create answers. If you distribute a questionnaire without creating the answers for questions with these data types, recipients are unable to answer the questions. If the questions are mandatory, the recipients are unable to submit their questionnaires.
+    **Warning:** When you create a **Choice**or **Likert Scale** question, you must reopen the Assessment Metric form after you submit it to create answers. If you distribute a questionnaire without creating the answers for questions with these data types, recipients are unable to answer the questions. If the questions are mandatory, the recipients are unable to submit their questionnaires.
 
     On the form, fill in the fields.
 
@@ -56,7 +56,7 @@ Category
 
 </td><td>
 
-\[Required\] Category the question belongs to. The system populates this category if you create a new question from the [[metric-category-form|Metric Category form]].**Note:** You cannot change the category if the **Depends on** field is set or if another metric depends on this metric.
+\[Required\] Category the question belongs to. The system populates this category if you create a new question from the Metric Category form.**Note:** You cannot change the category if the **Depends on** field is set or if another metric depends on this metric.
 
 </td></tr><tr><td>
 
@@ -65,7 +65,7 @@ Method
 </td><td>
 
 Setting that determines how to use the question.-   **Assessment**: Makes the question available on a quiz distributed to users. The **Assessment** method is compatible with all data types except **Duration**.
--   **Script**: Queries the database without user participation. Scripted questions are of limited value for [[c_Quizzes|quizzes]], because they do not assess a user's knowledge of a topic.
+-   **Script**: Queries the database without user participation. Scripted questions are of limited value for quizzes, because they do not assess a user's knowledge of a topic.
  **Note:** If you select a **Data type** that is incompatible with the selected **Method**, the system automatically changes the **Method** to the correct value.
 
 </td></tr><tr><td>
@@ -74,7 +74,7 @@ Weight
 
 </td><td>
 
-Numeric value that represents the importance of this question relative to other questions in the same category. By default, the weight is 10. For weighting suggestions, see [[c_AssessmentMetrics|weight categories and metrics]]. This field is available and required unless the **Data type** is **Date**, **Date/Time**, or **String**. These data types are not included in results calculations.
+Numeric value that represents the importance of this question relative to other questions in the same category. By default, the weight is 10. For weighting suggestions, see [weight categories and metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentMetrics.md). This field is available and required unless the **Data type** is **Date**, **Date/Time**, or **String**. These data types are not included in results calculations.
 
 </td></tr><tr><td>
 
@@ -90,7 +90,7 @@ Active
 
 </td><td>
 
-[[check-box|Check box]] that determines whether this question appears on quizzes. If a question is inactive, it does not appear on quizzes generated after the question becomes inactive.
+Check box that determines whether this question appears on quizzes. If a question is inactive, it does not appear on quizzes generated after the question becomes inactive.
 
 </td></tr><tr><td>
 
@@ -126,7 +126,7 @@ Details
 
 </td><td>
 
-Information about the question and what it evaluates. Include details that help users understand how to answer the question or when you need [[html|HTML]] enhanced details for your question. You can create HTML text in this field with the WYSIWYG editor, such as embedding links and images.
+Information about the question and what it evaluates. Include details that help users understand how to answer the question or when you need HTML enhanced details for your question. You can create HTML text in this field with the WYSIWYG editor, such as embedding links and images.
 
 </td></tr><tr><td>
 
@@ -134,7 +134,7 @@ Depends on
 
 </td><td>
 
-An existing question that this question is dependent on. You can select **Checkbox**,**Choice**, **Likert Scale**, **Template**, and **[[yes-no|Yes/No]]** questions from the same category as this question. Then use the Displayed when field to set the conditions for displaying this question. The system prevents the creation of recursive dependencies between questions. For example, if Question A depends on Question B, Question B cannot depend on Question A.
+An existing question that this question is dependent on. You can select **Checkbox**,**Choice**, **Likert Scale**, **Template**, and **Yes/No** questions from the same category as this question. Then use the Displayed when field to set the conditions for displaying this question. The system prevents the creation of recursive dependencies between questions. For example, if Question A depends on Question B, Question B cannot depend on Question A.
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -162,7 +162,7 @@ Scale definition
 
 </td><td>
 
-Setting that determines whether lesser or greater numerical values equate to a good score in quiz result calculations. Select **Low** if lesser numerical values are better. Select **High** if greater numerical values are better. The default value is**High**. This field is available and required unless the **Data type** is **Date**, **Date/Time**, or **String**. The results for these data types are not included in results calculations. When the Scored check box is selected, the scale value is set to **High** and the field is hidden. **Note:** For information about how to set the scale definition for data types that do not require you to set a numerical value, see [[r_DataTypes|Data types for assessments]].
+Setting that determines whether lesser or greater numerical values equate to a good score in quiz result calculations. Select **Low** if lesser numerical values are better. Select **High** if greater numerical values are better. The default value is**High**. This field is available and required unless the **Data type** is **Date**, **Date/Time**, or **String**. The results for these data types are not included in results calculations. When the Scored check box is selected, the scale value is set to **High** and the field is hidden. **Note:** For information about how to set the scale definition for data types that do not require you to set a numerical value, see [Data types for assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_DataTypes.md).
 
 </td></tr><tr><td>
 
@@ -197,7 +197,7 @@ Scored
 
 </td><td>
 
-Check box for using answers in scoring the [[r_CategoryResults|category results]] and showing them in the quiz results. Scored questions are available for these data types:-   Choice
+Check box for using answers in scoring the category results and showing them in the quiz results. Scored questions are available for these data types:-   Choice
 -   Likert Scale
 -   Template
 -   Checkbox
@@ -210,7 +210,7 @@ Correct answer
 
 </td><td>
 
-\[Required\] Desired answer to a scored question. This field is available when the **Scored** check box is selected. Multiple correct answers are supported for a few data types. See [[r_AvailableDataTypes|Data types for quizzes]].
+\[Required\] Desired answer to a scored question. This field is available when the **Scored** check box is selected. Multiple correct answers are supported for a few data types. See [Data types for quizzes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_AvailableDataTypes.md).
 
 </td></tr><tr><td>
 
@@ -234,7 +234,7 @@ List of options for this question. This related list is available only if the **
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[[c_CreateQuizzesWithForms|Create quizzes with forms]]
+**Parent Topic:**[Create quizzes with forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_CreateQuizzesWithForms.md)
 
 **Related topics**  
 
@@ -243,30 +243,13 @@ List of options for this question. This related list is available only if the **
 
 [Create quizzes with forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_CreateQuizzesWithForms.md)
 
-[[t_CreateaQuiz|Create a quiz]]
+[Create a quiz](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateaQuiz.md)
 
-[[t_SetUpACategory|Set up a category]]
+[Set up a category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_SetUpACategory.md)
 
-[[t_SelectAUserForACategory|Select a user for a category]]
+[Select a user for a category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_SelectAUserForACategory.md)
 
 [Data types for quizzes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_AvailableDataTypes.md)
 
 [Create questions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateAQuestion.md)
 
-## Related
-
-- [[c_AssessmentMetrics|Assessment metrics]]
-- [[r_DataTypes|Data types for assessments]]
-- [[r_AvailableDataTypes|Data types for quizzes]]
-- [[c_CreateQuizzesWithForms|Create quizzes with forms]]
-- [[t_CreateaQuiz|Create a quiz]]
-- [[t_SetUpACategory|Set up a category]]
-- [[t_SelectAUserForACategory|Select a user for a category]]
-- [[t_CreateAQuizQuestion|Create quiz questions]]
-- [[assessment-metric-form|Assessment Metric form]]
-- [[metric-category-form|Metric Category form]]
-- [[c_Quizzes|Quizzes]]
-- [[check-box|Check box]]
-- [[html|HTML]]
-- [[yes-no|Yes/No]]
-- [[r_CategoryResults|Category results]]

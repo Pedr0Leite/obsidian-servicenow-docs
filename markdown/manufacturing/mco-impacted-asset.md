@@ -20,7 +20,7 @@ Role required: sn\_rcl\_claim\_mgmt.recall\_manager
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace** &gt; **Lists** &gt; **[[mco-recall-management|Recall Management]]** &gt; **My Campaigns** &gt; **Impacted asset**.
+1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace** &gt; **Lists** &gt; **Recall Management** &gt; **My Campaigns** &gt; **Impacted asset**.
 
 2.  Select **New**.
 
@@ -28,7 +28,7 @@ Role required: sn\_rcl\_claim\_mgmt.recall\_manager
 
     |Fields|Description|
     |------|-----------|
-    |Recall campaign|Name of the [[mco-rcl-clms|recall campaign]].|
+    |Recall campaign|Name of the recall campaign.|
     |Recall campaign phase|Recall campaign phase that you want to recall.|
     |Repair claim case|Repair claim case number.|
     |Asset|Asset that you want to recall.|
@@ -37,10 +37,5 @@ Role required: sn\_rcl\_claim\_mgmt.recall\_manager
 4.  Select **Save**.
 
 
-**Parent Topic:**[[mco-rc-my-campaigns|Create a campaign]]
+**Parent Topic:**[Create a campaign](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-rc-my-campaigns.md)
 
-## Related
-
-- [[mco-rc-my-campaigns|Create a campaign]]
-- [[mco-recall-management|Recall management]]
-- [[mco-rcl-clms|Recall campaign]]

@@ -75,7 +75,7 @@ Account
 
 </td><td>
 
-If created from the [[customer-service-account-form|Account form]], this field displays the name of the account.
+If created from the Account form, this field displays the name of the account.
 
 </td></tr><tr><td>
 
@@ -92,9 +92,5 @@ The link to the user's social media account.
 **Related topics**  
 
 
-[[social-media-integration|Social media communication channel]]
+[Social media communication channel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/social-media-integration.md)
 
-## Related
-
-- [[social-media-integration|Social media communication channel]]
-- [[customer-service-account-form|Account form]]

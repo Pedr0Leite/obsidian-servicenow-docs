@@ -30,7 +30,7 @@ Using portfolio plans, you can:
 
 ## High-level planning using portfolio plans
 
-In [[portfolio-planning-app-landing-page|Portfolio Planning]], you can prioritize and roadmap programs \(pm\_program\) for your organization by building high-level portfolio plans. High-level planning items usually span across multiple [[c_BusinessUnits|business units]], departments, or portfolios of a company. These high-level planning items help you further breakdown a company's priorities and achieve specific milestones and outcomes.
+In Portfolio Planning, you can prioritize and roadmap programs \(pm\_program\) for your organization by building high-level portfolio plans. High-level planning items usually span across multiple business units, departments, or portfolios of a company. These high-level planning items help you further breakdown a company's priorities and achieve specific milestones and outcomes.
 
 Using the Hierarchy view, review the work pipeline and drill down to the low-level planning items that are associated with your programs.
 
@@ -44,7 +44,3 @@ Start creating portfolio plans to align work with your company's objectives. See
 
 **Parent Topic:**[Exploring Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/exploring-portfolio-planning.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[c_BusinessUnits|Business units]]

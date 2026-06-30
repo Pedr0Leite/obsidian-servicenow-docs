@@ -12,7 +12,7 @@ breadcrumb: [Configure inputs, Configure an input form screen, Input form screen
 
 # Date/time input setup for different action item types
 
-After you create an [[parameter-input-screen|input form screen]] and define its IncludeTimezone attribute for date/time inputs, you must associate the input form screen with an action item. How you set up the date/time inputs depends on the type of action item you use.
+After you create an input form screen and define its IncludeTimezone attribute for date/time inputs, you must associate the input form screen with an action item. How you set up the date/time inputs depends on the type of action item you use.
 
 <table id="table_iz4_xnx_t5b"><thead><tr><th>
 
@@ -140,6 +140,4 @@ The following example sets fields of the GlideScheduleDateTime type.
 
     **Note:** The `date_time_value` is expected to be in the User Profile Time Zone \(the value provided is expected to be the `Display Value` of a `GlideDateTime`\). This configuration makes it possible to call the GlideDateTime.getDisplayValueInternal\(\) method, which returns a date/time string in the internal format of YYYY-MM-DD hh:mm:ss and in the User Profile Time Zone.
 
-## Related
 
-- [[parameter-input-screen|Input form screen]]

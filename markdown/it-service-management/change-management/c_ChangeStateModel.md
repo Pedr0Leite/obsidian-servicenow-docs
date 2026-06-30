@@ -14,9 +14,9 @@ breadcrumb: [Configure, Change Management, IT Service Management]
 
 # Legacy: State model and transitions
 
-[[c_ITILChangeManagement|Change Management]] offers a state model to move and track change requests through several states.
+Change Management offers a state model to move and track change requests through several states.
 
-**Note:** The change states functionality has been replaced with change [[c_Models|models]] since the Quebec release. For more information, see [Create a Change model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/create-a-change-model.md).
+**Note:** The change states functionality has been replaced with change models since the Quebec release. For more information, see [Create a Change model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/create-a-change-model.md).
 
 \[Omitted image "change-state-model.png"\] Alt text: State transitions in a normal change request
 
@@ -141,7 +141,7 @@ A change can be canceled at any point when it is no longer required. However, a 
 
 ## Revert a change request to a New change
 
-Change Management allows the Emergency and Normal [[change-types|change types]] to be reverted to the new state which is the first approval state using the **Revert to New** action from the **Context** Menu. This action is performed if the approval was requested and the submitter recognizes that not all configuration item in the scope of the change is included before submitting for approval.
+Change Management allows the Emergency and Normal change types to be reverted to the new state which is the first approval state using the **Revert to New** action from the **Context** Menu. This action is performed if the approval was requested and the submitter recognizes that not all configuration item in the scope of the change is included before submitting for approval.
 
 -   To modify the Normal change request to the New state, modify the state of a change request from **Assess** state to **New** state by clicking **Revert to New** from the Context menu.
 -   To modify the Emergency change request to the New state, modify the state of a change request from **Authorized** state to **New** state by clicking **Revert to New** from the Context menu.
@@ -176,8 +176,3 @@ You can use script includes or UI policies to configure state models and the cri
 
 **Parent Topic:**[Configuring Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/configure-change-management.md)
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]
-- [[c_Models|Models]]
-- [[change-types|Change types]]

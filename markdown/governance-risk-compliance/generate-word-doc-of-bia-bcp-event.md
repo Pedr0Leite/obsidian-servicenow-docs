@@ -26,7 +26,7 @@ You can control whether to retain or replace the existing report attachments by 
 
 1.  Navigate to **All** &gt; **Business Continuity** &gt; **Business Continuity Workspace**.
 
-2.  Open a BIA, BCP, or event record from the [[list-view-uib-ws|list view]].
+2.  Open a BIA, BCP, or event record from the list view.
 
 3.  To generate a report of the record in Microsoft Word format, select **More \(...\)** and then choose **Generate MS Word** in the record view.
 
@@ -52,6 +52,4 @@ You can control whether to retain or replace the existing report attachments by 
 
     You can save the generated reports of the BIAs, BCP, and events in your ServiceNow instances or in Microsoft Office 365 for future references.
 
-## Related
 
-- [[list-view-uib-ws|List view]]

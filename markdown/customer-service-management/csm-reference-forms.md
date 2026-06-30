@@ -12,7 +12,7 @@ breadcrumb: [Reference, Customer Service Management]
 
 # Customer Service forms
 
-Use [[migration-forms|forms]] to view and update [[c_CustomerServiceManagement|Customer Service Management]] information.
+Use forms to view and update Customer Service Management information.
 
 ## Customer Service forms overview
 
@@ -20,7 +20,3 @@ Customer Service Management provides an intuitive platform for creating and mana
 
 With options for creating incident reports, service requests, or even feedback forms, you can enable your support agents to manage customer queries easily. By using dynamic form elements, workflows, and automatic data routing, customer service teams can streamline the support process, reduce response times, and improve customer satisfaction. Forms can be integrated into portals, emails, or other channels, giving customers multiple ways to reach out for help. Whether you’re addressing a simple query or managing complex service requests, these forms help ensure that your support team is well equipped to deliver timely, effective service.
 
-## Related
-
-- [[migration-forms|Forms]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

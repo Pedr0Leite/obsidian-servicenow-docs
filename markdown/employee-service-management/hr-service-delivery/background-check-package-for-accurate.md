@@ -28,7 +28,7 @@ Role required: sn\_hr\_integrations.admin
 
 ## Procedure
 
-1.  Navigate to **[[scoped-hr-third-party-integrations|HR Integrations]]** &gt; **Background Check Package**.
+1.  Navigate to **HR Integrations** &gt; **Background Check Package**.
 
 2.  Click **New** or open a record.
 
@@ -59,6 +59,3 @@ Role required: sn\_hr\_integrations.admin
 
 [Provide source credentials for the Accurate service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-integrations-sources-accurate.md)
 
-## Related
-
-- [[scoped-hr-third-party-integrations|HR Integrations]]

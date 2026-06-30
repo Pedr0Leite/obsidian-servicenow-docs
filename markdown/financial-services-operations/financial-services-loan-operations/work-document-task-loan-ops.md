@@ -29,7 +29,7 @@ The Document Processor service determines which documents \(inbound and outbound
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -98,6 +98,3 @@ If the customer is not able to submit a document and seeks an exemption from sub
 -   The document task moves to the Closed Complete state and the associated loan case moves to the next stage.
 -   A new task that is based on the workflow is automatically generated in the **Tasks** tab of the associated case. The new task is assigned to an assignment group or agent based on the assignment rule.
 
-## Related
-
-- [[fso-overview|Financial Services]]

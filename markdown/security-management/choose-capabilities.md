@@ -37,14 +37,11 @@ Role required: sn\_si\_int\_kit.integration\_creator
     -   Remove Isolation
     -   Sandbox Submission
     -   Sighting Search
-    -   [[tisc-threat-lookup|Threat Lookup]]
+    -   Threat Lookup
     \[Omitted image "capability-details.png"\] Alt text: Selected capabilities
 
 2.  Select **Save changes**.
 
-3.  Select **Next** to [[add-apis|add APIs]].
+3.  Select **Next** to add APIs.
 
-## Related
 
-- [[tisc-threat-lookup|Threat Lookup]]
-- [[add-apis|Add APIs]]

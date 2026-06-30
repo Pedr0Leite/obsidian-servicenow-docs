@@ -15,7 +15,7 @@ breadcrumb: [Using AI Search Admin console, AI Search Admin console, Search admi
 
 # Configure and manage AI Search in search applications
 
-Configure and manage the [[ia-ai-search|AI Search]] settings for search applications that support the AI Search engine.
+Configure and manage the AI Search settings for search applications that support the AI Search engine.
 
 ## Before you begin
 
@@ -23,11 +23,11 @@ Role required: ais\_admin
 
 ## About this task
 
-You can modify existing [[defining-search-app-cfgs-ais|search application configurations]], or create and configure your own search application configurations with AI Search when you specify it as the search engine. By configuring the AI Search settings for a search application, you can customize the search experience for your specific needs. To set up the [[ai-search-configuration|AI Search configuration]], you do the following tasks from the search application configuration landing page:
+You can modify existing search application configurations, or create and configure your own search application configurations with AI Search when you specify it as the search engine. By configuring the AI Search settings for a search application, you can customize the search experience for your specific needs. To set up the AI Search configuration, you do the following tasks from the search application configuration landing page:
 
 1.  Assign a search profile.
 
-    -   [[create-search-profile-ais|Create a search profile]].
+    -   Create a search profile.
     -   Set the search sources as a priority to define the behavior of your search application.
     For more information, see [Search profiles in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/defining-search-profiles-ais.md).
 
@@ -81,9 +81,9 @@ Select **Create new**.A new search profile is created automatically. You can ren
 
 
 </td></tr></tbody>
-</table>    Each search profile contains the settings that determine how AI Search generates the search [[hs-results|results]] for a search. The search profile settings include Search sources, Dictionaries, [[result-improvement-rules-ais|Result improvement rules]], [[genius-results-ais|Genius results]], and Review &amp; publish.
+</table>    Each search profile contains the settings that determine how AI Search generates the search results for a search. The search profile settings include Search sources, Dictionaries, Result improvement rules, Genius results, and Review &amp; publish.
 
-    \[Omitted image "ai-search-profile.png"\] Alt text: [[ais-admin-console|AI Search Admin console]] search profile view.
+    \[Omitted image "ai-search-profile.png"\] Alt text: AI Search Admin console search profile view.
 
     1.  Add Search sources to a search profile to make your searchable content available for your users.
 
@@ -100,7 +100,7 @@ Select **Create new**.A new search profile is created automatically. You can ren
             3.  Select **Link**.
         For more information, see [Search sources in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/search-sources-ais.md).
 
-    2.  Define the language-specific dictionaries of terms, such as equivalent terms \([[synonyms-ais|synonyms]]\), common terms, and spell check.
+    2.  Define the language-specific dictionaries of terms, such as equivalent terms \(synonyms\), common terms, and spell check.
 
         -   Create a AI Search term:
             1.  On the **Dictionaries** tab, select **New**.
@@ -128,7 +128,7 @@ Select **Create new**.A new search profile is created automatically. You can ren
         5.  Select **Update**.
         For more information, see [Result improvement rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/result-improvement-rules-ais.md).
 
-    4.  Populate one or more Genius Result cards with concise, actionable answers that are derived from the relevant search results by linking AI Search Genius results [[clone-configurations-tab|configurations]] to your search profile.
+    4.  Populate one or more Genius Result cards with concise, actionable answers that are derived from the relevant search results by linking AI Search Genius results configurations to your search profile.
 
         A search profile can include multiple Genius Result configuration links.
 
@@ -273,15 +273,3 @@ The AI Search engine is ready to use AI Search in the search application.
 
 [AI Search Admin console Applications page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/ais-admin-console-applications.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[defining-search-app-cfgs-ais|Search application configurations]]
-- [[ai-search-configuration|AI Search configuration]]
-- [[create-search-profile-ais|Create a search profile]]
-- [[hs-results|Results]]
-- [[result-improvement-rules-ais|Result improvement rules]]
-- [[genius-results-ais|Genius Results]]
-- [[ais-admin-console|AI Search Admin console]]
-- [[synonyms-ais|Synonyms]]
-- [[clone-configurations-tab|Configurations]]

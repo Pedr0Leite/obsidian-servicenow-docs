@@ -26,7 +26,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[emp-slate-employee-profile|Employee profile]]
+Employee profile
 
 </td><td>
 
@@ -161,7 +161,7 @@ Postal code of area in which the educational institute is located.
 **Related topics**  
 
 
-[Installed with [[hr-service-delivery|HR Service Delivery]] for Healthcare]()
+[Installed with HR Service Delivery for Healthcare]()
 
 [Healthcare professional profile form]()
 
@@ -169,7 +169,7 @@ Postal code of area in which the educational institute is located.
 
 [Professional liability Insurances form]()
 
-[Professional [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] form]()
+[Professional reference form]()
 
 [Professional speciality form]()
 
@@ -187,8 +187,3 @@ Postal code of area in which the educational institute is located.
 
 [Healthcare Employee Onboarding form]()
 
-## Related
-
-- [[emp-slate-employee-profile|Employee profile]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

@@ -14,9 +14,9 @@ breadcrumb: [Inbound integrations, OAuth Inbound, OAuth authentication, Authenti
 
 # Authorization code grant
 
-The [[oauth-inbound-and-outbound|OAuth]] authorization code grant is a secure and widely used flow for web, mobile, or desktop apps that access user data with user consent. It supports both private clients \(using a client secret\), and public clients \(using PKCE\).
+The OAuth authorization code grant is a secure and widely used flow for web, mobile, or desktop apps that access user data with user consent. It supports both private clients \(using a client secret\), and public clients \(using PKCE\).
 
-In this flow, ServiceNow functions as both the authorization server \(handling user [[c_Authentication|authentication]] and token issuance\) and the resource server \(hosting the APIs\). If SSO is enabled, ServiceNow redirects the user to the configured [[identity-landing|Identity]] Provider \(IdP\) for authentication. After the IdP successfully authenticates the user, control returns to ServiceNow, which then issues the authorization code. This process ensures that even with external authentication, ServiceNow remains the authority for issuing tokens and managing API access.
+In this flow, ServiceNow functions as both the authorization server \(handling user authentication and token issuance\) and the resource server \(hosting the APIs\). If SSO is enabled, ServiceNow redirects the user to the configured Identity Provider \(IdP\) for authentication. After the IdP successfully authenticates the user, control returns to ServiceNow, which then issues the authorization code. This process ensures that even with external authentication, ServiceNow remains the authority for issuing tokens and managing API access.
 
 -   **Ideal for:**
 
@@ -24,7 +24,7 @@ In this flow, ServiceNow functions as both the authorization server \(handling u
 
 -   **How it works:**
 
-    The user initiates the login process from the client application, which redirects them to a ServiceNow login page. After the user [[logs|logs]] in and grants consent, the client application receives an authorization code, which it exchanges with the ServiceNow instance for an access token. This is the most secure and widely used flow for user-facing integrations. It supports both confidential clients \(with a client secret\) and public clients \(using PKCE\).
+    The user initiates the login process from the client application, which redirects them to a ServiceNow login page. After the user logs in and grants consent, the client application receives an authorization code, which it exchanges with the ServiceNow instance for an access token. This is the most secure and widely used flow for user-facing integrations. It supports both confidential clients \(with a client secret\) and public clients \(using PKCE\).
 
 
 **Note:** If you want to use your own identity provider \(such as Azure AD or Okta\) as the authorization server, consider using the  flow.
@@ -36,9 +36,3 @@ In this flow, ServiceNow functions as both the authorization server \(handling u
 
 [Configure an OAuth authorization code grant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/configure-an-oauth-authorization-code-grant.md)
 
-## Related
-
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[c_Authentication|Authentication]]
-- [[identity-landing|Identity]]
-- [[logs|Logs]]

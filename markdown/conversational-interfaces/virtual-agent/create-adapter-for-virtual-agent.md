@@ -14,7 +14,7 @@ breadcrumb: [Conversational custom chat integrations, Integrate VA with other ch
 
 # Create a Virtual Agent conversational custom chat integration
 
-Use the Custom Chat Configuration Integration Framework \(CCCIF\) to create a conversational custom chat integration to support third-party chat clients so they can connect to the [[virtual-agent-landing-page|Virtual Agent]] Chat Server \(VACS\).
+Use the Custom Chat Configuration Integration Framework \(CCCIF\) to create a conversational custom chat integration to support third-party chat clients so they can connect to the Virtual Agent Chat Server \(VACS\).
 
 ## Before you begin
 
@@ -52,7 +52,7 @@ Create a new provider for your custom chat integration. Providers are defined in
 -   **[Set up message authentication for your custom chat configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/set-up-msg-auth-va-cccif.md)**  
 Create a Hash Message Verification record and Message Auth record to set up message authentication for your custom chat integration. This is configured in the Hash Message Verifications \[hash\_message\_verification\] table.
 -   **[Create a channel identifier for your custom chat integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-channel-id-va-cccif.md)**  
-[[create-channel-id-va-cccif|Create a channel identifier for your custom chat integration]] in the Provider Channel Identities \[sys\_cs\_provider\_application\] table.
+Create a channel identifier for your custom chat integration in the Provider Channel Identities \[sys\_cs\_provider\_application\] table.
 -   **[Map rich controls to the channel in your custom chat integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/map-rich-controls-va-cccif.md)**  
 Create records for rich controls in the Custom Adapter Configurations \[sys\_cs\_custom\_adapter\_config\] table. If a rich control is missing an outbound transformer implementation, a response is not served to the end user and that user may get an unsatisfactory chat experience.
 -   **[Create and configure a scripted REST API for your custom chat integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-rest-api-va-cccif.md)**  
@@ -62,7 +62,3 @@ Set up the transforms that your custom chat integration needs to communicate thr
 
 **Parent Topic:**[Creating conversational custom chat integrations in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-custom-adapter-framework.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[create-channel-id-va-cccif|Create a channel identifier for your custom chat integration]]

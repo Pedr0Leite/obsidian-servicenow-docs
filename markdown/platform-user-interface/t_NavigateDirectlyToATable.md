@@ -33,20 +33,14 @@ Commands work only for tables you are permitted to access.
     |&lt;table name&gt;.list|Opens the list view of the table in the same window or tab.|
     |&lt;table name&gt;.form or &lt;table name&gt;.do|Opens the form view of the table in the same window or tab.|
     |&lt;table name&gt;.config|Opens the configuration view \[personalize\_all.do\] of the table in the same window or tab.|
-    |&lt;table name&gt;.filter|Opens an empty list view of the table in the same window or tab, so that you can apply [[c_Filters|filters]] without loading the list. This is helpful for large [[lists-configurable-workspace|lists]] that take a long time to load.|
+    |&lt;table name&gt;.filter|Opens an empty list view of the table in the same window or tab, so that you can apply filters without loading the list. This is helpful for large lists that take a long time to load.|
 
     For example, enter `change_request.form` to open a new change request.
 
     **Note:** You can also enter any of the commands above in uppercase to open the list or form in a new window or tab. For example, enter `change_request.FORM` to open a new change request in a new window or tab.
 
-2.  In [[c_UI16|Core UI]], press the Enter key.
+2.  In Core UI, press the Enter key.
 
 
-**Parent Topic:**[[p_CommonUIElements|Common UI elements]]
+**Parent Topic:**[Common UI elements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/p_CommonUIElements.md)
 
-## Related
-
-- [[p_CommonUIElements|Common UI elements]]
-- [[c_Filters|Filters]]
-- [[lists-configurable-workspace|Lists]]
-- [[c_UI16|Core UI]]

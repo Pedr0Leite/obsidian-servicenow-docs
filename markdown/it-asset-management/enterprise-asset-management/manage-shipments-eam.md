@@ -14,7 +14,7 @@ breadcrumb: [Configure, Enterprise Asset Management, IT Asset Management]
 
 # Managing enterprise asset shipments
 
-Track and manage your enterprise asset shipments in real-time by integrating the [[enterprise-asset-management|Enterprise Asset Management]] application with third-party shipping carriers using the IT Asset Management integration framework.
+Track and manage your enterprise asset shipments in real-time by integrating the Enterprise Asset Management application with third-party shipping carriers using the IT Asset Management integration framework.
 
 \[Omitted image "itam-carrier-integration-eam.png"\] Alt text: Shipping carrier integration overview.
 
@@ -65,13 +65,13 @@ After the shipping carrier completes these prerequisites, you must complete thes
 -   Associate the shipping carrier with the integration profile.
 
 -   **[Create a shipping carrier record in the Enterprise Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-shipment-carrier-record-eam.md)**  
-[[create-shipment-carrier-record-eam|Create a shipping carrier record in the Enterprise Asset workspace]] to associate the carrier with an integration profile.
+Create a shipping carrier record in the Enterprise Asset workspace to associate the carrier with an integration profile.
 -   **[Script include for third-party shipping carrier integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/script-include-shipping-carrier-integrations-eam.md)**  
 Before you can integrate the Enterprise Asset Management application with a third-party shipping carrier, that shipping carrier must create a script include that extends the base ITAMShipmentIntegration script. By extending this script, you can connect to the third-party shipping carrier application and retrieve shipment details in real-time.
 -   **[Integrate with a third-party shipping carrier in the Enterprise Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/integrate-shipping-carriers-eam.md)**  
 Integrate the Enterprise Asset Management application with a third-party shipping carrier so that you can track the real-time status of your enterprise asset shipments.
 -   **[View integration profiles for third-party shipping carriers in the Enterprise Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/view-shipping-carrier-integration-profiles-eam.md)**  
-View the integration profiles for your third-party shipping carriers in the [[asset-operations-view|Asset operations view]] of the [[using-eam-workspace|Enterprise Asset Workspace]]. These integration profiles enable you to connect to third-party shipping carrier applications so that you can retrieve shipment details for your enterprise assets.
+View the integration profiles for your third-party shipping carriers in the Asset operations view of the Enterprise Asset Workspace. These integration profiles enable you to connect to third-party shipping carrier applications so that you can retrieve shipment details for your enterprise assets.
 -   **[Associate a third-party shipping carrier with an integration profile in the Enterprise Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/associate-shipping-carrier-integration-profile-eam.md)**  
 Associate a third-party shipping carrier with an integration profile so that you can successfully connect to that shipping carrier.
 -   **[Remove a third-party shipping carrier from an integration profile in the Enterprise Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/remove-shipping-carrier-integration-profile-eam.md)**  
@@ -79,12 +79,5 @@ Remove a third-party shipping carrier that you no longer want to associate with 
 -   **[Test the integration profile for a third-party shipping carrier in the Enterprise Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/test-shipping-carrier-integration-profile-eam.md)**  
 Test the integration profile for a third-party shipping carrier so that you can mitigate any connection issues that arise.
 
-**Parent Topic:**[[it-asset-management|IT Asset Management]]
+**Parent Topic:**[IT Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/it-asset-management.md)
 
-## Related
-
-- [[it-asset-management|IT Asset Management]]
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[create-shipment-carrier-record-eam|Create a shipping carrier record in the Enterprise Asset Workspace]]
-- [[asset-operations-view|Asset operations view]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]

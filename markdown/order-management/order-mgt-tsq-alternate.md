@@ -34,17 +34,12 @@ Select the Number link to view the alternate proposal. It contains the following
 |Available date|The date on which the alternate proposal will be available.|
 |Order characteristics|The specification characteristics \(in JSON format\) provided as part of the alternate proposal in the response from the inventory system.|
 
-**Parent Topic:**[[order-mgt-tsq-about|Service qualification requests]]
+**Parent Topic:**[Service qualification requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-tsq-about.md)
 
 **Related topics**  
 
 
-[[order-mgt-configuring|Configuring Order Management]]
+[Configuring Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-configuring.md)
 
-[[explore-order-management|Order management]]
+[Order management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-order-management.md)
 
-## Related
-
-- [[order-mgt-tsq-about|Service qualification requests]]
-- [[order-mgt-configuring|Configuring Order Management]]
-- [[explore-order-management|Order management]]

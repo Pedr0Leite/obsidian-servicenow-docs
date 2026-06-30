@@ -24,7 +24,7 @@ Role required: sn\_align\_core\_apw\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]]** &gt; **Scoring Frameworks**.
+1.  Navigate to **All** &gt; **Strategic Planning** &gt; **Scoring Frameworks**.
 
 2.  Select **New**.
 
@@ -41,6 +41,3 @@ Role required: sn\_align\_core\_apw\_admin
 
 **Parent Topic:**[Custom scoring frameworks in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/custom-scoring-frameworks-in-strategic-planning.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

@@ -25,7 +25,7 @@ Role required: sn\_prm\_gen\_ai.user
 
 **Important:** This Now Assist skill is turned on by default. The skill will be automatically available to appropriate role users for the application. For more information, see [Now Assist skills, agents, and agentic workflows on by default](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills-on-by-default.md).
 
-The [[issue-summarization-skill|Issue summarization skill]] analyzes the issue records including the description, activity log, and remediation tasks, and generates a concise summary that captures the essential information that you need.
+The Issue summarization skill analyzes the issue records including the description, activity log, and remediation tasks, and generates a concise summary that captures the essential information that you need.
 
 ## Procedure
 
@@ -53,6 +53,3 @@ The [[issue-summarization-skill|Issue summarization skill]] analyzes the issue r
     -   To add the summary to the issue work notes, select **Share to work notes**. You can add or modify information before saving.
     -   Additionally, you also have the options to generate the summary again, expand or collapse the panel, provide feedback, or copy the information.
 
-## Related
-
-- [[issue-summarization-skill|Issue Summarization skill]]

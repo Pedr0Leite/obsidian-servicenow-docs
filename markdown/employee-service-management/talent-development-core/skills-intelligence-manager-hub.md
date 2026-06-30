@@ -14,7 +14,7 @@ breadcrumb: [Using Skills Foundation, Skills Foundation, Growth Experiences, HR 
 
 # Validate skills in Manager Hub
 
-Affirm the skills that your employee claims to have by reviewing and validating them in [[manager-hub-overview|Manager Hub]].
+Affirm the skills that your employee claims to have by reviewing and validating them in Manager Hub.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_skills\_int.manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Employee Center**.
 
 2.  In the Employee Center home page, navigate to **Your team** &gt; **Manager Hub** &gt; **Conversations**.
 
@@ -47,7 +47,3 @@ The validated skills are marked with a green tick in the employee skills profile
 
 **Parent Topic:**[Using Skills Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/using-skills-intelligence.md)
 
-## Related
-
-- [[manager-hub-overview|Manager Hub]]
-- [[employee-center-landing-page|Employee Center]]

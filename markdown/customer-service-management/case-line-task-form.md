@@ -128,7 +128,7 @@ Work notes
 
 </td><td>
 
-Information about the case task and the steps taken to resolve it. Work notes are posted to the [[csm-config-ws-activity-stream|activity stream]] and are visible only to internal users.
+Information about the case task and the steps taken to resolve it. Work notes are posted to the activity stream and are visible only to internal users.
 
 </td></tr><tr><td>
 
@@ -140,7 +140,3 @@ Customer-viewable comments and information about the case task. Additional comme
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[csm-config-ws-activity-stream|Activity stream]]

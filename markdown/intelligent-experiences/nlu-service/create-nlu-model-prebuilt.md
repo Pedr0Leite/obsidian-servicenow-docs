@@ -14,12 +14,12 @@ breadcrumb: [Creating models, Model management, Natural Language Understanding, 
 
 # Create an NLU model using a pre-built model
 
-Use the prebuilt [[nlu-landing|Natural Language Understanding]] \(NLU\) models in the NLU Workbench to create a new one.
+Use the prebuilt Natural Language Understanding \(NLU\) models in the NLU Workbench to create a new one.
 
 ## Before you begin
 
--   Make sure that the NLU Workbench plugin, NLU Workbench - Core plugin, and [[predictive-intelligence-landing|Predictive Intelligence]] plugin are all installed and activated on your instance.
--   You can create [[nlu-models|NLU models]] for Virtual Agent and AI Search.
+-   Make sure that the NLU Workbench plugin, NLU Workbench - Core plugin, and Predictive Intelligence plugin are all installed and activated on your instance.
+-   You can create NLU models for Virtual Agent and AI Search.
 -   Role required: nlu\_admin or admin.
 
 ## About this task
@@ -85,8 +85,3 @@ Add more intents and training utterances to continue building the model. Update 
 
 Add test utterances and intents to build the model's default test set. For more information, see [Test set creation and management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/nlu-test-set-creation-management.md).
 
-## Related
-
-- [[nlu-landing|Natural Language Understanding]]
-- [[predictive-intelligence-landing|Predictive Intelligence]]
-- [[nlu-models|NLU models]]

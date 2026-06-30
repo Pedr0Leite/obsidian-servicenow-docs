@@ -30,7 +30,7 @@ Role required: ui\_builder\_admin
 
 4.  On the HR Agent Workspace Experience page, navigate to the Side navigation section.
 
-    This section displays all modules in the left navigation pane in [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]].
+    This section displays all modules in the left navigation pane in Agent Workspace for HR Case Management.
 
 5.  Drag the modules in the required order.
 
@@ -44,9 +44,5 @@ Role required: ui\_builder\_admin
 
 [Enable a detailed data display within a report]()
 
-[Configure [[emp-center-quick-link-config|quick links]] in Agent Workspace for HR Case Management]()
+[Configure quick links in Agent Workspace for HR Case Management]()
 
-## Related
-
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[emp-center-quick-link-config|Quick links]]

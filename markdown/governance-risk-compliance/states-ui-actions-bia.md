@@ -12,11 +12,11 @@ breadcrumb: [Structured workflows for BIAs, Manage, Business Continuity Manageme
 
 # BIA states and UI actions
 
-When you [[create-bia-in-uib-ws|create a business impact analysis]] \(BIA\), certain UI actions are associated with each state.
+When you create a business impact analysis \(BIA\), certain UI actions are associated with each state.
 
 ## States and associated UI actions in BIA
 
-The states and their UI associated actions in a [[bia-uib|business impact analysis]] are described in the table.
+The states and their UI associated actions in a business impact analysis are described in the table.
 
 <table id="table_amh_4kb_cv"><thead><tr><th>
 
@@ -42,7 +42,7 @@ In the Business Impact Analysis record Lists view, select **New**.
 
 </td><td>
 
-When you select **New** in the [[create-new-impact-analysis-reference-form-bcm-uib-ws|Create New Impact analysis form]] or **Create BIA** in the Home page, a record is created in the **Draft** state by default.
+When you select **New** in the Create New Impact analysis form or **Create BIA** in the Home page, a record is created in the **Draft** state by default.
 
  On the **Details** tab, you can add details of the business impact analysis \(BIA\). On the **Assessments** tab, you can respond to the Recovery point objective assessment, Recovery time objective assessment, and Dependency assessment.
 
@@ -110,7 +110,7 @@ When you select **Archive** in the Create New Impact analysis form, the state of
 
 Download the PDF of the business impact analysis for reference. The PDF attachment is available in the **Activity** panel on the **Details** tab.
 
-For information on generating the PDF of a business impact analysis, see [[generate-pdf-for-bia|Generate BIA reports in PDF or Microsoft Word formats]].
+For information on generating the PDF of a business impact analysis, see [Generate BIA reports in PDF or Microsoft Word formats](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/generate-pdf-for-bia.md).
 
 -   **Copy**
 
@@ -120,7 +120,7 @@ Save a copy of the PDF of the business impact analysis for future reference as a
 
 Visualize 360º representation of the business impact analysis such as its name, template used, dependencies, and BIA result.
 
-For information on how to view 360º relationships of a business impact analysis, see [[visualize-360-degree-view-for-bia|Visualize 360° relationships for BIAs]].
+For information on how to view 360º relationships of a business impact analysis, see [Visualize 360° relationships for BIAs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/visualize-360-degree-view-for-bia.md).
 
 -   **Delete**
 
@@ -150,13 +150,5 @@ If you select **Reject** in the Create New Impact analysis form, the state of th
 </td></tr></tbody>
 </table>**Note:** A scheduled job runs weekly to move the expired business impact analyses to the **Archived** state.
 
-**Parent Topic:**[[bia-tasks-performed-by-bia-owner|Structured workflows for BIAs]]
+**Parent Topic:**[Structured workflows for BIAs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bia-tasks-performed-by-bia-owner.md)
 
-## Related
-
-- [[generate-pdf-for-bia|Generate BIA reports in PDF or Microsoft Word formats]]
-- [[visualize-360-degree-view-for-bia|Visualize 360° relationships for BIAs]]
-- [[bia-tasks-performed-by-bia-owner|Structured workflows for BIAs]]
-- [[create-bia-in-uib-ws|Create a business impact analysis]]
-- [[bia-uib|Business impact analysis]]
-- [[create-new-impact-analysis-reference-form-bcm-uib-ws|Create New Impact analysis form]]

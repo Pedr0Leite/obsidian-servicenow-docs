@@ -16,13 +16,10 @@ breadcrumb: [Crew operations, Using Dispatcher Workspace, Assigning tasks from D
 
 You can view the crew's schedule, availability, and tasks that are assigned to the crew or their work in progress.
 
-In [[dispatcher-activities|Dispatcher Workspace]], the calendar displays crew information for a selected day, work day, or week. The tasks that are assigned to a crew appear in the crew's calendar slots. A horizontal line that appears on the left side of a task can indicate the following information:
+In Dispatcher Workspace, the calendar displays crew information for a selected day, work day, or week. The tasks that are assigned to a crew appear in the crew's calendar slots. A horizontal line that appears on the left side of a task can indicate the following information:
 
 -   Estimated travel start time
 -   Actual travel start time
 
 **Note:** No visual indicator appears for tasks that don't have a specified travel start time.
 
-## Related
-
-- [[dispatcher-activities|Dispatcher Workspace]]

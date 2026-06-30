@@ -12,7 +12,7 @@ breadcrumb: [Configure, Care Team Work Management, Healthcare Operations, Health
 
 # Create assignment groups for Care Team Work Management
 
-Associate assignment groups within your care team units so [[ctwm-care-team-case|care team cases and tasks]] can be fulfilled.
+Associate assignment groups within your care team units so care team cases and tasks can be fulfilled.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Once created under the PICU healthcare organization, that group becomes availabl
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[healthcare-operations-overview|Healthcare Operations]]** &gt; **Healthcare Organizations**.
+1.  Navigate to **All** &gt; **Healthcare Operations** &gt; **Healthcare Organizations**.
 
 2.  Select the healthcare organization that you want to associate an assignment group with.
 
@@ -63,7 +63,4 @@ Name of the assignment group that is to be added.
 </td></tr></tbody>
 </table>5.  Select **Submit**.
 
-## Related
 
-- [[ctwm-care-team-case|Care team cases and tasks]]
-- [[healthcare-operations-overview|Healthcare Operations]]

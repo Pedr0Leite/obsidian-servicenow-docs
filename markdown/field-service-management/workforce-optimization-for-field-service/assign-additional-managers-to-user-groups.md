@@ -14,7 +14,7 @@ breadcrumb: [Users, Set up workforce, Configure, Field Service Management]
 
 # Assign additional managers to user groups when Workforce Optimization for Field Service is installed
 
-When [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]] is active, you can appoint additional managers for your user groups, ensuring the continuity of work in the absence of a manager.
+When Workforce Optimization for Field Service is active, you can appoint additional managers for your user groups, ensuring the continuity of work in the absence of a manager.
 
 ## Before you begin
 
@@ -40,6 +40,4 @@ Role required: sn\_wfo.admin
 
     You can assign multiple managers to a user group by repeating the steps for each manager.
 
-## Related
 
-- [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]]

@@ -27,7 +27,7 @@ Change Registration captures changes controlled by external teams or vendors, su
 
 1.  Open the **Change Registration** change model in the Configuration Console.
 
-    For navigation steps, see [[configure-change-models-scm|Configure change models for Simplified Change Management]].
+    For navigation steps, see [Configure change models for Simplified Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/configure-change-models-scm.md).
 
 2.  In the **Availability** section, set the **Available for new change requests** toggle.
 
@@ -54,11 +54,7 @@ The Change Registration change model configuration is saved. Only the designated
 
 ## What to do next
 
-To configure additional change [[c_Models|models]], return to [Configure change models for Simplified Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/configure-change-models-scm.md).
+To configure additional change models, return to [Configure change models for Simplified Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/configure-change-models-scm.md).
 
 **Parent Topic:**[Configure change models for Simplified Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/configure-change-models-scm.md)
 
-## Related
-
-- [[configure-change-models-scm|Configure change models for Simplified Change Management]]
-- [[c_Models|Models]]

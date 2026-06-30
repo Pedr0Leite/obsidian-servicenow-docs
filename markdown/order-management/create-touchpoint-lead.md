@@ -35,7 +35,7 @@ Touchpoints are interaction records that you associate with a specific lead. Whe
 
     **Note:** The **Create** button is only visible when you have permission to create CRM Touchpoints and the lead is in a non-closed state.
 
-4.  In the touchpoint form, complete the required [[fields|fields]].
+4.  In the touchpoint form, complete the required fields.
 
     The following fields are automatically set and can't be edited:
 
@@ -58,21 +58,14 @@ The touchpoint is created and linked to the lead. It appears in the **Touchpoint
 
 To view all touchpoints for the lead, select the **Touchpoints** tab.
 
-**Parent Topic:**[[manage-touchpoints-lead|Manage touchpoints on a lead]]
+**Parent Topic:**[Manage touchpoints on a lead](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/manage-touchpoints-lead.md)
 
 **Related topics**  
 
 
-[[explore-crm-touchpoints|CRM Touchpoints]]
+[CRM Touchpoints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-crm-touchpoints.md)
 
-[[install-crm-touchpoints|Install CRM Touchpoints]]
+[Install CRM Touchpoints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/install-crm-touchpoints.md)
 
-[[create-crm-touchpoint-form|Create new CRM touchpoint form]]
+[Create new CRM touchpoint form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-crm-touchpoint-form.md)
 
-## Related
-
-- [[manage-touchpoints-lead|Manage touchpoints on a lead]]
-- [[explore-crm-touchpoints|CRM Touchpoints]]
-- [[install-crm-touchpoints|Install CRM Touchpoints]]
-- [[create-crm-touchpoint-form|Create new CRM touchpoint form]]
-- [[fields|Fields]]

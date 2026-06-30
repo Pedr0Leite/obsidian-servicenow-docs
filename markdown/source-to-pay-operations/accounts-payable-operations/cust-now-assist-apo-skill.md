@@ -15,7 +15,7 @@ breadcrumb: [Configure Now Assist for Accounts Payable Operations \(APO\), Now A
 
 # Customize a Now Assist for Accounts Payable Operations \(APO\) skill
 
-Customize a Now Assist skill as an admin to configure how AP fulfillers use generative AI capabilities in the [[purch-order-mgmt-ws|Source-to-Pay Workspace]] and Core UI.
+Customize a Now Assist skill as an admin to configure how AP fulfillers use generative AI capabilities in the Source-to-Pay Workspace and Core UI.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ From the Now Assist Admin console, you can select the input table, related recor
 
 1.  Navigate to **All** &gt; **Now Assist Admin** &gt; **Skills** to access the **Now Assist skills** tab of the Now Assist Admin console.
 
-2.  In the **[[finance-supply-chain-landing|Finance and Supply Chain]]** workflow group, select **[[acc-pay-mgmt-landing-page|Accounts Payable Operations]]** to view the skills for the APO features.
+2.  In the **Finance and Supply Chain** workflow group, select **Accounts Payable Operations** to view the skills for the APO features.
 
 3.  Create a copy of a skill and customize the input fields.
 
@@ -98,7 +98,7 @@ Description of the base input field value.
 
         You can build the condition out further by selecting **+New condition set** and configuring additional parameters.
 
-    3.  For each input template state, select **+New data source** to configure the additional related table and [[activity-stream|activity stream]] data, as needed.
+    3.  For each input template state, select **+New data source** to configure the additional related table and activity stream data, as needed.
 
         You can add input data sources like related tables, activity streams, and relationships to provide more context to the Now LLM Service. You can also add rule conditions to these additional data sources.
 
@@ -201,12 +201,6 @@ Closed
 
     Review your choices and select **Activate** to complete the skill customization.
 
-    You can now leverage the generative AI skill for matching invoice lines with [[purchase-order-table|purchase order]].
+    You can now leverage the generative AI skill for matching invoice lines with purchase order.
 
-## Related
 
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[finance-supply-chain-landing|Finance and Supply Chain]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[activity-stream|Activity stream]]
-- [[purchase-order-table|Purchase order]]

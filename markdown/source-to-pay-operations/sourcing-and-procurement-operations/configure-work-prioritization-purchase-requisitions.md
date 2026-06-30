@@ -19,9 +19,9 @@ Configure the **Priority defaulting for purchase requisitions** decision table t
 
 ## Before you begin
 
-Before [[configuring-work-prioritization|configuring work prioritization]] for purchase requisitions, confirm the following:
+Before configuring work prioritization for purchase requisitions, confirm the following:
 
--   The [[shopping-hub-overview|Shopping Hub]] application \(`sn_shop`\) is installed and active on the instance.
+-   The Shopping Hub application \(`sn_shop`\) is installed and active on the instance.
 -   The following priority levels exist and are active in the instance's priority choice list: Critical, High, Moderate, Low, and Planning.
 -   If demo data is loaded in the instance, review whether the default rules in the decision table reflect your organization's criteria before adding or modifying rules.
 
@@ -29,15 +29,15 @@ Role required: decision\_table\_admin
 
 ## About this task
 
-The **Priority defaulting for purchase requisitions** decision table contains the rules that determine how priority is assigned to purchase requisitions. Each rule evaluates one or more conditions on the [[purchase-requisition|purchase requisition]] or its line items and returns a priority level when those conditions are met.
+The **Priority defaulting for purchase requisitions** decision table contains the rules that determine how priority is assigned to purchase requisitions. Each rule evaluates one or more conditions on the purchase requisition or its line items and returns a priority level when those conditions are met.
 
 The decision table includes example rules that evaluate the total line amount against four financial thresholds. These rules ship as demo data and may not be loaded in your production instance. Review the table before testing to confirm whether rules are present.
 
-Any field on the purchase requisition or purchase line record can be used as a condition input, not just line amount. Administrators can replace or supplement the default rules with conditions based on spend category, [[supplier|supplier]], requesting department, or other relevant fields.
+Any field on the purchase requisition or purchase line record can be used as a condition input, not just line amount. Administrators can replace or supplement the default rules with conditions based on spend category, supplier, requesting department, or other relevant fields.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[purchase-experience-workflow|Sourcing and Purchasing Automation]]** &gt; **Decision Tables**.
+1.  Navigate to **All** &gt; **Sourcing and Purchasing Automation** &gt; **Decision Tables**.
 
 2.  In the decision tables list, select **Priority defaulting for purchase requisitions**.
 
@@ -82,10 +82,3 @@ Purchase requisitions are automatically assigned a priority level when they are 
 
 **Parent Topic:**[Configuring work prioritization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/configuring-work-prioritization.md)
 
-## Related
-
-- [[configuring-work-prioritization|Configuring work prioritization]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[purchase-requisition|Purchase requisition]]
-- [[supplier|Supplier]]
-- [[purchase-experience-workflow|Sourcing and Purchasing Automation]]

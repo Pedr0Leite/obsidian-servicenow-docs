@@ -12,15 +12,15 @@ breadcrumb: [Survey administration, Use surveys, Surveys, Assessments and Survey
 
 # Surveys in ITSM Virtual Agent
 
-You can use surveys in ITSM Virtual Agent to collect survey responses from users through conversational questionnaires \(pre-chat and post-chat [[r_SurveyManagementLandingPage|surveys]]\) in the chat client.
+You can use surveys in ITSM Virtual Agent to collect survey responses from users through conversational questionnaires \(pre-chat and post-chat surveys\) in the chat client.
 
 A chat survey is available in ITSM Virtual Agent through the Provide Virtual Agent Feedback topic. The logic that renders the survey dynamically is called from the re-usable Survey topic block. It is common to use the Provide Virtual Agent Feedback topic as the survey setup topic in the general definitions of ITSM Virtual Agent, so that users automatically receive a survey at the end of their conversations. For information about the Survey topic block, see [ITSM Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent.md).
 
-When you select the **Chat Survey** [[check-box|check box]] for a survey, the following conditions are validated for surveys on ITSM Virtual Agent.
+When you select the **Chat Survey** check box for a survey, the following conditions are validated for surveys on ITSM Virtual Agent.
 
 -   Survey should contain only one metric category.
 -   Survey can contain only these metric types.
-    -   [[attachment|Attachment]]
+    -   Attachment
     -   Boolean
     -   Check box
     -   Choice
@@ -28,12 +28,12 @@ When you select the **Chat Survey** [[check-box|check box]] for a survey, the fo
     -   Date/Time
     -   Image scale
     -   Number
-    -   [[numeric-scale|Numeric scale]]
+    -   Numeric scale
     -   Percentage
     -   Scale
     -   String
 
-For information on configuring a survey, see [[t_ModifySurveyDefinitions|Modify a survey definition]] and [[t_ConfigSurveyInSurveyDesgnr|Configure a survey in the survey designer]].
+For information on configuring a survey, see [Modify a survey definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ModifySurveyDefinitions.md) and [Configure a survey in the survey designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ConfigSurveyInSurveyDesgnr.md).
 
 The following capabilities are supported for the survey:
 
@@ -47,7 +47,7 @@ After a survey is submitted in a Virtual Agent conversation, a survey instance i
 -   Trigger ID, which is the sys\_id of the associated interaction ID created in the Virtual Agent chat
 -   Trigger table, which is the interaction table
 
-**Parent Topic:**[[r_SurveyAdminTasks|Survey administration]]
+**Parent Topic:**[Survey administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_SurveyAdminTasks.md)
 
 **Related topics**  
 
@@ -68,7 +68,7 @@ After a survey is submitted in a Virtual Agent conversation, a survey instance i
 
 [Survey definitions]()
 
-[Create a [[c_SurveyDesigner|survey designer]] template question]()
+[Create a survey designer template question]()
 
 [Survey questions]()
 
@@ -86,13 +86,3 @@ After a survey is submitted in a Virtual Agent conversation, a survey instance i
 
 [ITSM Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent.md)
 
-## Related
-
-- [[t_ModifySurveyDefinitions|Modify a survey definition]]
-- [[t_ConfigSurveyInSurveyDesgnr|Configure a survey in the survey designer]]
-- [[r_SurveyAdminTasks|Survey administration]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[check-box|Check box]]
-- [[attachment|Attachment]]
-- [[numeric-scale|Numeric scale]]
-- [[c_SurveyDesigner|Survey designer]]

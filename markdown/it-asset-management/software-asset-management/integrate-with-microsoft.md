@@ -14,7 +14,7 @@ breadcrumb: [Microsoft 365 integration, Software Asset Management publisher pack
 
 # Integrating with Microsoft 365
 
-Integrating the [[c_SoftwareAssetMgmt|Software Asset Management]] application with the Microsoft 365 service enables you to track your software subscriptions and software usage to determine license compliance and act on optimization opportunities.
+Integrating the Software Asset Management application with the Microsoft 365 service enables you to track your software subscriptions and software usage to determine license compliance and act on optimization opportunities.
 
 **Important:** Minimize security risks and protect information by granting access only to the necessary user or API permissions.
 
@@ -147,7 +147,7 @@ Allows license assignment to users in the Microsoft 365 portal.
 These permissions only enable Microsoft 365 license assignment.
 
 </td></tr></tbody>
-</table>## Setting up [[microsoft-o365|Microsoft 365 integration]]
+</table>## Setting up Microsoft 365 integration
 
 Manage Microsoft 365 license compliance and optimization by performing the following steps:
 
@@ -161,11 +161,11 @@ Manage Microsoft 365 license compliance and optimization by performing the follo
 
     2.  [Install ITAM Health Check application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/health-check-dboard.md)
 
-        Install the ITAM [[health-check-dboard|Health Check]] application to get an overview of your Software Asset Management configurations and receive recommendations for correcting errors.
+        Install the ITAM Health Check application to get an overview of your Software Asset Management configurations and receive recommendations for correcting errors.
 
     3.  [Install Software Asset Management - SaaS License Management plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/request-saas-license-management.md)
 
-        Install the Software Asset Management - [[sam-subscription-management|SaaS License Management]] plugin \(com.sn\_sam\_saas\_int\) to create and manage integrations with your SaaS and Single Sign-On \(SSO\) applications. These integrations enable you to track license usage and reclaim unused licenses effectively.
+        Install the Software Asset Management - SaaS License Management plugin \(com.sn\_sam\_saas\_int\) to create and manage integrations with your SaaS and Single Sign-On \(SSO\) applications. These integrations enable you to track license usage and reclaim unused licenses effectively.
 
     4.  [Install Microsoft Entra ID Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/microsoft-azure-ad-spoke.md)
 
@@ -173,7 +173,7 @@ Manage Microsoft 365 license compliance and optimization by performing the follo
 
     5.  [Receive latest updates from Software Asset Management Content Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_SAMContentService.md)
 
-        Update your instance with new content twice every week on a scheduled basis through [[c_SAMContentService|Software Asset Management Content Service]]. The Software Asset Management application provides automated content to simplify the normalization of software installations and subscriptions, offering enriched data such as lifecycle information, [[downgrade-rights|downgrade rights]], and suite definitions. This data is essential for maintaining accurate license compliance and optimization.
+        Update your instance with new content twice every week on a scheduled basis through Software Asset Management Content Service. The Software Asset Management application provides automated content to simplify the normalization of software installations and subscriptions, offering enriched data such as lifecycle information, downgrade rights, and suite definitions. This data is essential for maintaining accurate license compliance and optimization.
 
     6.  [Create a success goal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-success-goals.md)
 
@@ -189,7 +189,7 @@ Manage Microsoft 365 license compliance and optimization by performing the follo
 
     2.  [Configure Power BI usage to get usage information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/enable-service-principal-authentication-microsoft.md)
 
-        [[enable-service-principal-authentication-microsoft|Enable service principal authentication for Power BI read-only APIs]] to enable your application access to Power BI service content and APIs. This access helps optimize your Microsoft 365 subscriptions, such as downgrading subscriptions from Office 365 E5 to Office 365 E3 or removing Power BI low-usage subscriptions​.
+        Enable service principal authentication for Power BI read-only APIs to enable your application access to Power BI service content and APIs. This access helps optimize your Microsoft 365 subscriptions, such as downgrading subscriptions from Office 365 E5 to Office 365 E3 or removing Power BI low-usage subscriptions​.
 
     3.  [Prevent anonymous user information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/conf-update-micro-admin.md)
 
@@ -197,7 +197,7 @@ Manage Microsoft 365 license compliance and optimization by performing the follo
 
     4.  [Set up a Microsoft 365 integration profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/set-up-microsoft-office-365.md)
 
-        [[set-up-microsoft-office-365|Create a Microsoft 365 integration profile]] in the Software Asset Management application to import user subscription data, determine license compliance, and identify optimization opportunities. If you manage multiple tenants, create a separate integration profile for each.
+        Create a Microsoft 365 integration profile in the Software Asset Management application to import user subscription data, determine license compliance, and identify optimization opportunities. If you manage multiple tenants, create a separate integration profile for each.
 
     5.  [Configure the integration profile to get data for government customers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/update-o365-gov-plans.md)
 
@@ -223,7 +223,7 @@ Manage Microsoft 365 license compliance and optimization by performing the follo
 
     10. [Set up software models and entitlements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/view-user-subscription-workspace.md)
 
-        The Software Asset Management application integrates with the Microsoft 365 admin center to generate [[c_CreatingSoftwareModels|software models]] automatically based on assigned subscriptions. These [[c_Models|models]] include suite components, downgrades, and lifecycle details to confirm compliance and optimize licensing. For these automatically created software models, remember to add your entitlements. If you have previously set up entitlements using Publisher Part Number, the software models from that setup are used in this integration, avoiding the creation of duplicate models.
+        The Software Asset Management application integrates with the Microsoft 365 admin center to generate software models automatically based on assigned subscriptions. These models include suite components, downgrades, and lifecycle details to confirm compliance and optimize licensing. For these automatically created software models, remember to add your entitlements. If you have previously set up entitlements using Publisher Part Number, the software models from that setup are used in this integration, avoiding the creation of duplicate models.
 
         **Note:** Verify that no software models are created without Discovery Maps \(DMAPs\) and no entitlements are created without a Publisher Part Number \(PPN\) for a smoother implementation.
 
@@ -257,11 +257,11 @@ Manage Microsoft 365 license compliance and optimization by performing the follo
 
     5.  [Add Microsoft 365 and associated products to the published product list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/add-published-products.md)
 
-        Add Microsoft 365 and associated products to the published product list to improve readability and declutter the [[sam-workspace|Software Asset Workspace]]. Scale your SAM efforts strategically by evaluating progress based on resource needs, work quality, and configuration management.
+        Add Microsoft 365 and associated products to the published product list to improve readability and declutter the Software Asset Workspace. Scale your SAM efforts strategically by evaluating progress based on resource needs, work quality, and configuration management.
 
     6.  [Run reconciliation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/run-recon-workspace.md)
 
-        Run reconciliation on the [[sam-workspace-landing|Software asset overview]] page to verify that the licenses are consumed according to the Software Asset Management configurations. You must run reconciliation only for Microsoft as the publisher to verify Microsoft 365 license consumption.
+        Run reconciliation on the Software asset overview page to verify that the licenses are consumed according to the Software Asset Management configurations. You must run reconciliation only for Microsoft as the publisher to verify Microsoft 365 license consumption.
 
     7.  [Check license position report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sam-license-position-report.md)
 
@@ -289,17 +289,3 @@ Manage Microsoft 365 license compliance and optimization by performing the follo
 
 [Evaluating software usage activity for Microsoft 365 subscriptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/o365-usage-activity.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[microsoft-o365|Microsoft 365 integration]]
-- [[health-check-dboard|Health check]]
-- [[sam-subscription-management|SaaS License Management]]
-- [[c_SAMContentService|Software Asset Management Content Service]]
-- [[downgrade-rights|Downgrade Rights]]
-- [[enable-service-principal-authentication-microsoft|Enable service principal authentication for Power BI read-only APIs]]
-- [[set-up-microsoft-office-365|Create a Microsoft 365 integration profile]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[c_Models|Models]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[sam-workspace-landing|Software asset overview]]

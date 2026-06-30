@@ -18,11 +18,11 @@ Request for a job requisition for a vacancy you want to fill in your organizatio
 
 ## Before you begin
 
-Role required: sn\_ta\_hiring\_core.[[hiring-tab-concept|hiring]]\_manager
+Role required: sn\_ta\_hiring\_core.hiring\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Your team** &gt; **Hiring**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **Your team** &gt; **Hiring**.
 
 2.  Select **Request a job opening**.
 
@@ -41,7 +41,7 @@ Role required: sn\_ta\_hiring\_core.[[hiring-tab-concept|hiring]]\_manager
 
     **Note:**
 
-    When a job request is created by a hiring manager, the recruiter can see the open request on the overview page of the [[recruitment-workspace-concept|Recruitment Workspace]]. For more information, see [Get overview of recruitment workload](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/recruitment-workspace-oveview.md).
+    When a job request is created by a hiring manager, the recruiter can see the open request on the overview page of the Recruitment Workspace. For more information, see [Get overview of recruitment workload](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/recruitment-workspace-oveview.md).
 
 
 ## Result
@@ -49,13 +49,7 @@ Role required: sn\_ta\_hiring\_core.[[hiring-tab-concept|hiring]]\_manager
 A job requisition is created and in New state.
 
 -   **[Use Now Assist to open a job requisition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/request-req-hm-now-assist.md)**  
-Use Now Assist in Virtual Agent to create or [[duplicate-job-req|duplicate a job requisition]] for a vacancy that you want to fill in your organization.
+Use Now Assist in Virtual Agent to create or duplicate a job requisition for a vacancy that you want to fill in your organization.
 
 **Parent Topic:**[Using Hiring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/use-hiring.md)
 
-## Related
-
-- [[hiring-tab-concept|Hiring]]
-- [[employee-center-landing-page|Employee Center]]
-- [[recruitment-workspace-concept|Recruitment workspace]]
-- [[duplicate-job-req|Duplicate a job requisition]]

@@ -16,13 +16,13 @@ breadcrumb: [Account recovery \(ACR\), Multi-Provider SSO configurations, Multi-
 
 Configure an account recovery user to perform account recovery activities on your instance.
 
-An account recovery user is a user account that administrators can use to perform account recovery tasks, such as addressing an SSO misconfiguration or addressing expired [[c_Certificates|certificates]].
+An account recovery user is a user account that administrators can use to perform account recovery tasks, such as addressing an SSO misconfiguration or addressing expired certificates.
 
 **Note:** If you are using account recovery on your instance, you must configure an account recovery user. This step is necessary before enabling multiple-provider single sign-on on an instance.
 
 ## Configure an account recovery user from the Account Recovery Properties page
 
-Configure an account recovery from the [[acr-properties|Account Recovery properties]] page.
+Configure an account recovery from the Account Recovery properties page.
 
 ### Before you begin
 
@@ -44,7 +44,7 @@ For an upgraded instance to use ACR, you must do the following:
 
 -   Before enabling SSO property \(`glide.authenticate.multisso.enabled`\), the administrator must enroll as an ACR user.
 
-    **Note:** Setting this property to false will not disable multi-provider SSO if [[sso-acct-recovery|Account Recovery \(ACR\)]] is also enabled on the instance. To log in with a username and password ACR must also be disabled using the **glide.sso.acr.enabled** property. For details on this property see [Account recovery properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/acr-properties.md).
+    **Note:** Setting this property to false will not disable multi-provider SSO if Account Recovery \(ACR\) is also enabled on the instance. To log in with a username and password ACR must also be disabled using the **glide.sso.acr.enabled** property. For details on this property see [Account recovery properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/acr-properties.md).
 
 -   Administrator must set a password for local login and register MFA before enrolling as an ACR user.
 
@@ -52,9 +52,9 @@ For an upgraded instance to use ACR, you must do the following:
 
 1.  Navigate to **All** &gt; **Account Recovery** &gt; **Properties**.
 
-2.  Select **[[sc-account-recovery|Enable account recovery]]**.
+2.  Select **Enable account recovery**.
 
-    **Note:** You need to enable account recovery when SSO is enable. Account recovery [[users|users]] will be limited to SSO [[sc-configuration|configuration]] and troubleshooting-related tasks.
+    **Note:** You need to enable account recovery when SSO is enable. Account recovery users will be limited to SSO configuration and troubleshooting-related tasks.
 
 3.  Select the **here** text in the Step 2.
 
@@ -112,11 +112,3 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
 You have configured your user account as an account recovery user. You can verify this account, and see any other configured account recovery users by navigating to **Multi-Provider SSO** &gt; **Account Recovery** &gt; **Users**.
 
-## Related
-
-- [[c_Certificates|Certificates]]
-- [[acr-properties|Account recovery properties]]
-- [[sso-acct-recovery|Account recovery \(ACR\)]]
-- [[sc-account-recovery|Enable account recovery]]
-- [[users|Users]]
-- [[sc-configuration|Configuration]]

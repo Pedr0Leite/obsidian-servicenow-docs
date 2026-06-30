@@ -14,7 +14,7 @@ breadcrumb: [Reference, Proactive Engagement, Digital End-User Experience, IT Se
 
 # Limitations in Proactive Engagement
 
-You must be aware of a few limitations when you create a new metric rule and choose the [[remedial-action|remedial action]].
+You must be aware of a few limitations when you create a new metric rule and choose the remedial action.
 
 Limitations in Proactive Engagement:
 
@@ -23,6 +23,3 @@ Limitations in Proactive Engagement:
 
 **Parent Topic:**[Proactive Engagement reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/proactive-engagement/proactive-engagement-reference.md)
 
-## Related
-
-- [[remedial-action|Remedial action]]

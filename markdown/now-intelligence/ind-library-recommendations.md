@@ -28,8 +28,5 @@ The following types of recommendations are currently available:
 |----|-----------|
 |n Unused indicators|Number of indicators with inactive jobs, empty sources, or no recent views.|
 
-**Parent Topic:**[[pa-library-recommendations|Platform Analytics library recommendations]]
+**Parent Topic:**[Platform Analytics library recommendations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/pa-library-recommendations.md)
 
-## Related
-
-- [[pa-library-recommendations|Platform Analytics library recommendations]]

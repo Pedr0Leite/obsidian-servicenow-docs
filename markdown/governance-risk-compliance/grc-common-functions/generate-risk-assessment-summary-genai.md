@@ -28,7 +28,7 @@ Role required: The sn\_grc\_sharegenai.risk\_asmt\_user role must be assigned ma
 
 Assessor can generate the risk assessment summary and save the summary in the **Risk assessment summary field** only when they are submitting the assessment. After submission, both assessors and approvers can generate the summary and share it in the work notes. You can also summarize the assessment for object based assessments.
 
-**Note:** This feature is available only on the [[risk-workspace|Risk Workspace]].
+**Note:** This feature is available only on the Risk Workspace.
 
 ## Procedure
 
@@ -42,11 +42,8 @@ Assessor can generate the risk assessment summary and save the summary in the **
 
 4.  Generate a risk assessment summary while submitting the assessment by selecting the generate summary \[Omitted image "risk-assessment-summarization-icon.png"\] Alt text: Summarize button on the risk assessment landing page. icon.
 
-    \[Omitted image "risk-assessment-summary-submit-assessment-genai.png"\] Alt text: Generate risk assessment summary button on the [[submit-an-assessment|submit an assessment]] dialog box.
+    \[Omitted image "risk-assessment-summary-submit-assessment-genai.png"\] Alt text: Generate risk assessment summary button on the submit an assessment dialog box.
 
     A summary is generated; you can edit it and save it for reference and reporting purposes. After submission of the risk assessment, the **Assessment summary** field becomes read only.
 
-## Related
 
-- [[risk-workspace|risk workspace]]
-- [[submit-an-assessment|Submit an assessment]]

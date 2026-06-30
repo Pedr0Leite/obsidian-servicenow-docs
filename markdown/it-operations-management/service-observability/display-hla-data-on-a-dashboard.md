@@ -14,11 +14,11 @@ breadcrumb: [Customize dashboard templates, Configuring Service Observability, S
 
 # Add Health Log Analytics data
 
-Add a graph showing logs from [[hla-landing-page|Health Log Analytics]] \(HLA\) in a [[service-observability|Service Observability]] dashboard.
+Add a graph showing logs from Health Log Analytics \(HLA\) in a Service Observability dashboard.
 
 ## About this task
 
-You can add logs from [HLA](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-landing-page.md) to your Service Observability [[otto-aiops-dashboards|dashboards]]. These charts display with data scoped to the selected service.
+You can add logs from [HLA](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-landing-page.md) to your Service Observability dashboards. These charts display with data scoped to the selected service.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: sn\_sow\_svcobs.admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]** and then navigate to a service record.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace** and then navigate to a service record.
 
     You can access a service record from these pages in the SOW:
 
@@ -71,9 +71,3 @@ Role required: sn\_sow\_svcobs.admin
 
 **Parent Topic:**[Customize Service Observability dashboard templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/customize-service-observability-dashboard-templates.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]
-- [[service-observability|Service Observability]]
-- [[otto-aiops-dashboards|Dashboards]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

@@ -19,7 +19,7 @@ Choose one of these tiles to get started.
 
 <table id="table_kqk_ttx_r5b" class="nav-card"><tbody><tr><td>
 
-[Manage the [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]] \[Omitted image "bus-database.svg"\] Alt text: Configure connected devices, apps, and services you use with a powerful decision support tool.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/manage-cmdb.md)
+[Manage the Configuration Management Database \(CMDB\) \[Omitted image "bus-database.svg"\] Alt text: Configure connected devices, apps, and services you use with a powerful decision support tool.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/manage-cmdb.md)
 
 </td><td>
 
@@ -31,7 +31,7 @@ Choose one of these tiles to get started.
 
 </td></tr><tr><td>
 
-[Manage Services \[Omitted image "bus-gender-neutral-leader-c-suite.svg"\] Alt text: Manage service-related applications like [[self-service-landing|self-service]], and the [[service-catalog|service catalog]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/manage-services.md)
+[Manage Services \[Omitted image "bus-gender-neutral-leader-c-suite.svg"\] Alt text: Manage service-related applications like self-service, and the service catalog.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/manage-services.md)
 
 </td><td>
 
@@ -60,15 +60,9 @@ Give your customers tailored catalogs for products and create portals for servic
 
 ## Manage People and Work
 
-Supervise personnel, assignments, and tasks all on the ServiceNow AI Platform using tools to centralize communications, [[c_Connect|connect]] agents and users across apps, assess and associate skills with people, and assign tasks based on available personnel.
+Supervise personnel, assignments, and tasks all on the ServiceNow AI Platform using tools to centralize communications, connect agents and users across apps, assess and associate skills with people, and assign tasks based on available personnel.
 
 ## Legacy Capabilities
 
 Explore the various ServiceNow Legacy options for past releases of the ServiceNow AI Platform, including automated work processes, communications process management, and voice and text messaging integrations.
 
-## Related
-
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[self-service-landing|Self-service]]
-- [[service-catalog|Service Catalog]]
-- [[c_Connect|Connect]]

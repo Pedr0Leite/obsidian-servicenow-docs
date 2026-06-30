@@ -14,7 +14,7 @@ breadcrumb: [SIR Integration References, Security Incident Response integrations
 
 # Allow and Block Request List Entries
 
-Field descriptions for Allow and Block List properties outline how each field controls the behavior of [[c_Observables|observables]] when they are added to Allow or Block lists within the [[CrowdStrike-Falcon-Insight-for-Security-Operations-integration|CrowdStrike Falcon Insight integration]].
+Field descriptions for Allow and Block List properties outline how each field controls the behavior of observables when they are added to Allow or Block lists within the CrowdStrike Falcon Insight integration.
 
 <table id="table_ev4_dyb_k3c"><thead><tr><th>
 
@@ -107,8 +107,3 @@ Additional context or details related to the block request
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_Observables|Observables]]
-- [[CrowdStrike-Falcon-Insight-for-Security-Operations-integration|CrowdStrike Falcon Insight integration]]

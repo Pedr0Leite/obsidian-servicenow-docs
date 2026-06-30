@@ -14,7 +14,7 @@ breadcrumb: [Floor map, Network visualization view, Use, Telecommunications Netw
 
 # Open floor map from an incident or alert
 
-Open datacenter [[using-floor-map|floor map]] from an incident or alert in [[service-operations-workspace-network-inventory|Service Operations Workspace for Telecommunications Network Inventory]]. You can view the affected hardware details in the floor map.
+Open datacenter floor map from an incident or alert in Service Operations Workspace for Telecommunications Network Inventory. You can view the affected hardware details in the floor map.
 
 ## Before you begin
 
@@ -39,7 +39,3 @@ The floor map opens and the affected hardware is highlighted. If the issue is re
 
 **Parent Topic:**[Floor map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/using-floor-map.md)
 
-## Related
-
-- [[using-floor-map|Floor map]]
-- [[service-operations-workspace-network-inventory|Service Operations Workspace for Telecommunications Network Inventory]]

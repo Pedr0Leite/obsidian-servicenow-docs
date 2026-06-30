@@ -14,7 +14,7 @@ breadcrumb: [Reference, Hardware Asset Management, IT Asset Management]
 
 # Components installed with Hardware Model Normalization
 
-Several types of components are installed with activation of the [[hardware-normalization|Hardware Model Normalization]] plugin, including tables.
+Several types of components are installed with activation of the Hardware Model Normalization plugin, including tables.
 
 **Note:** To view all other components that are installed with this application, see the Application Files table. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -31,6 +31,3 @@ Several types of components are installed with activation of the [[hardware-norm
 
 **Parent Topic:**[Hardware Asset Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/reference-hardware-asset-management.md)
 
-## Related
-
-- [[hardware-normalization|Hardware Model Normalization]]

@@ -12,7 +12,7 @@ breadcrumb: [Use generative AI, Now Assist for MCO, Manufacturing Commercial Ope
 
 # Report an issue using Now Assist for Manufacturing Commercial Operations \(MCO\)
 
-Use the MCO portal to submit [[mco-product-non-conformances|product non-conformance]] issues with AI-guided playbook workflows for duplicate detection, completeness assessment, cost tracking, and review. This improves data consistency, traceability, and efficiency.
+Use the MCO portal to submit product non-conformance issues with AI-guided playbook workflows for duplicate detection, completeness assessment, cost tracking, and review. This improves data consistency, traceability, and efficiency.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ The Enhance non conformance description AI skill evaluates the non-conformance d
 
 ## Procedure
 
-1.  Navigate to **[[mco-dealer-portal|Dealer Portal]]** &gt; **[[mco-report-an-issue|Report an issue]]**.
+1.  Navigate to **Dealer Portal** &gt; **Report an issue**.
 
 2.  In the Create New Product Non-conformance Case, select **Quick start** activity.
 
@@ -82,11 +82,6 @@ The Enhance non conformance description AI skill evaluates the non-conformance d
 
     Review and edit any values. Add additional information if needed, then select **Submit**.
 
-    The submitted issue [[manufacturing-reference|reference]] number is generated.
+    The submitted issue reference number is generated.
 
-## Related
 
-- [[mco-product-non-conformances|Product non-conformance]]
-- [[mco-dealer-portal|Dealer portal]]
-- [[mco-report-an-issue|Report an issue]]
-- [[manufacturing-reference|Reference]]

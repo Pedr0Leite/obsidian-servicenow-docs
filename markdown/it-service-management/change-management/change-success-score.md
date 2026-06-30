@@ -16,7 +16,7 @@ breadcrumb: [Configure, Change Management, IT Service Management]
 
 Use team historical data for insights into team performance. The score value helps you to determine how likely the team is to complete your change request without issues.
 
-**Note:** The change success score feature is installed after you activate the [[c_ITILChangeManagement|Change Management]] - change success score plugin available with the ITSM Professional subscription only. Contact your account manager for more information.
+**Note:** The change success score feature is installed after you activate the Change Management - change success score plugin available with the ITSM Professional subscription only. Contact your account manager for more information.
 
 The change success score can help you evaluate a team's success in handling prior change requests.
 
@@ -36,7 +36,7 @@ For more information on the indicators, see [Success score indicators](https://r
 
 ## Change Type Success dashboard
 
-This dashboard displays trends in the resolution efficiency for [[change-types|change types]]. To view the trends of all the change types, clear the selected type.
+This dashboard displays trends in the resolution efficiency for change types. To view the trends of all the change types, clear the selected type.
 
 ## Change Model Success dashboard
 
@@ -51,7 +51,3 @@ Based on the change success score rating, a color and text is associated that is
 
 **Parent Topic:**[Configuring Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/configure-change-management.md)
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]
-- [[change-types|Change types]]

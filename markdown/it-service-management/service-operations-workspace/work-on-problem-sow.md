@@ -20,7 +20,7 @@ Manage problems and problem tasks through their life cycle, share workarounds or
 
 If you aren't using the base problem life cycle, you will continue to use the classic experience to manage problems or problem tasks through their life cycle. From the problem record page, select **Continue problem** to be redirected to the ServiceNow AI Platform user interface where you can make state transitions. For information about state transitions of a problem, see [Life cycle of a problem](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/understanding-state-mgmt-transitions.md).
 
-The base problem life cycle is included with the [[c_ProblemManagement|Problem Management]]  Best Practice - Madrid - State Model \(com.snc.best\_practice.problem.madrid.state\_model\) plugin. Use the Problem Management [[migration-utility|Migration Utility]] [store application](https://store.servicenow.com/sn_appstore_store.do#!/store/application/d03b7539dbbb3300f21e7ffdbf9619a8) to enable this plugin and migrate your records to the base problem life cycle.
+The base problem life cycle is included with the Problem Management  Best Practice - Madrid - State Model \(com.snc.best\_practice.problem.madrid.state\_model\) plugin. Use the Problem Management Migration Utility [store application](https://store.servicenow.com/sn_appstore_store.do#!/store/application/d03b7539dbbb3300f21e7ffdbf9619a8) to enable this plugin and migrate your records to the base problem life cycle.
 
 Role required: itil, problem\_coordinator or higher \(for managing the life cycle of the problem\), problem\_admin \(for deleting the problem\)
 
@@ -46,11 +46,11 @@ Description
 
 </td><td>
 
-For the [[reference-for-itsm-mobile-agent|reference]] fields such as **Configuration item**, **Service offering** and **Service**, select the **Dependency view** icon \(\[Omitted image "dependency-icon-r.png"\] Alt text: Dependency icon\).
+For the reference fields such as **Configuration item**, **Service offering** and **Service**, select the **Dependency view** icon \(\[Omitted image "dependency-icon-r.png"\] Alt text: Dependency icon\).
 
 </td></tr><tr><td id="d414840e137">
 
-**[[create-problem-task|Create a problem task]] associated with the problem**
+**Create a problem task associated with the problem**
 
 </td><td>
 
@@ -58,7 +58,7 @@ Select **Create problem task**, or select **New** from the **Problem Tasks** tab
 
 </td></tr><tr><td id="d414840e164">
 
-**[[assess-a-problem|Assess a problem]]**
+**Assess a problem**
 
 </td><td>
 
@@ -85,7 +85,7 @@ For more information about creating a problem task, see [Create a problem task i
 
 </td></tr><tr><td id="d414840e225">
 
-**[[t_CreateAChange|Create a change request]] from the problem**
+**Create a change request from the problem**
 
 </td><td>
 
@@ -101,7 +101,7 @@ From the drop-down list next to **Create problem task**, select **Create outage*
 
 </td></tr><tr><td id="d414840e270">
 
-**[[create-known-error-from-problem|Create a known error article]]**
+**Create a known error article**
 
 </td><td>
 
@@ -229,7 +229,7 @@ From a problem in the closed or resolved state, select **Re-analyze**. The state
 
 [Create a problem in Service Operations Workspace]()
 
-[Problem Management [[c_Models|models]] in Service Operations Workspace]()
+[Problem Management models in Service Operations Workspace]()
 
 [Create a problem task in Service Operations Workspace]()
 
@@ -237,13 +237,3 @@ From a problem in the closed or resolved state, select **Re-analyze**. The state
 
 [Problem Management in Service Operations Workspace reference]()
 
-## Related
-
-- [[c_ProblemManagement|Problem Management]]
-- [[migration-utility|Migration Utility]]
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[create-problem-task|Create a problem task]]
-- [[assess-a-problem|Assess a problem]]
-- [[t_CreateAChange|Create a change request]]
-- [[create-known-error-from-problem|Create a known error article]]
-- [[c_Models|Models]]

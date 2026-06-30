@@ -18,7 +18,7 @@ Cloud credential types manage access to cloud-based applications, including Amaz
 
 ## AWS Identity and Access Management \(IAM\) roles
 
-If you have a MID Server installed on Amazon EC2 in an AWS cloud, and if that MID Server is configured to discover resources within the cloud, you can use security credentials provided by AWS [[identity-landing|Identity]] and [[access-management-landing|Access Management]] \(IAM\) roles rather than credentials managed on your instance. These AWS credentials grant permissions in the cloud through an instance profile, based on roles. These credentials are temporary and rotate automatically on a configurable interval. When an IAM role is defined on the MID server. For details, see [Configure the MID Server for AWS IAM roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/config-mid-iam-roles.md).
+If you have a MID Server installed on Amazon EC2 in an AWS cloud, and if that MID Server is configured to discover resources within the cloud, you can use security credentials provided by AWS Identity and Access Management \(IAM\) roles rather than credentials managed on your instance. These AWS credentials grant permissions in the cloud through an instance profile, based on roles. These credentials are temporary and rotate automatically on a configurable interval. When an IAM role is defined on the MID server. For details, see [Configure the MID Server for AWS IAM roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/config-mid-iam-roles.md).
 
 Discovery ignores any credentials stored on the instance in favor of the credentials granted by the role in the instance profile. For more information on AWS instance profiles, see [IAM Roles for Amazon EC2](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/iam-roles-for-amazon-ec2.html).
 
@@ -101,7 +101,7 @@ Paste the Azure **Application ID** value of the application that you registered 
 
 </td></tr><tr><td>
 
-[[c_Authentication|Authentication]] Method
+Authentication Method
 
 </td><td>
 
@@ -216,7 +216,7 @@ Privacy protocol
 
 </td><td>
 
-Enter one of the following privacy protocols that describes [[encryption-landing|encryption]] for the **Privacy Key**: -   **3DES** for Triple Data Encryption Standard \(DES\)
+Enter one of the following privacy protocols that describes encryption for the **Privacy Key**: -   **3DES** for Triple Data Encryption Standard \(DES\)
 -   **AES128** for Advanced Encryption Standard \(AES\) with 128 bit encryption
 -   **AES192** for AES with 192 bit encryption
 -   **AES256** for AES with 256 bit encryption
@@ -240,7 +240,7 @@ External credential store
 
 </td><td>
 
-Select this check box to use an [[c_ExternalCredentialStorage|external credential storage]] system. When you select this option the **User name** and **Password** fields are replaced with the **Credential ID** field. Currently, the only supported external storage system is CyberArk.
+Select this check box to use an external credential storage system. When you select this option the **User name** and **Password** fields are replaced with the **Credential ID** field. Currently, the only supported external storage system is CyberArk.
 
 </td></tr><tr><td>
 
@@ -264,7 +264,7 @@ Order
 
 </td><td>
 
-Order \(sequence\) in which Discovery tries this credential as it attempts to log on to devices. The smaller the number, the higher in the list this credential appears. Establish credential order when using large numbers of credentials or when security locks out [[users|users]] after three failed login attempts. If all the credentials have the same order number \(or none\), the instance tries the credentials in a random order.
+Order \(sequence\) in which Discovery tries this credential as it attempts to log on to devices. The smaller the number, the higher in the list this credential appears. Establish credential order when using large numbers of credentials or when security locks out users after three failed login attempts. If all the credentials have the same order number \(or none\), the instance tries the credentials in a random order.
 
 </td></tr></tbody>
 </table>## Cloud Management \(CMP\) node credentials
@@ -367,11 +367,3 @@ Cloud Management \(CMP\) SSH key pairs store the keys that the Cloud Management 
 |SSH Public Key|The public key.|
 |SSH Private Key|A secure private key that can be used instead of a password for SSH logins.|
 
-## Related
-
-- [[identity-landing|Identity]]
-- [[access-management-landing|Access Management]]
-- [[c_Authentication|Authentication]]
-- [[encryption-landing|Encryption]]
-- [[c_ExternalCredentialStorage|External credential storage]]
-- [[users|Users]]

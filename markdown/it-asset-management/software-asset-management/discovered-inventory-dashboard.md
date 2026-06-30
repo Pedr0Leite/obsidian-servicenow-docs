@@ -14,7 +14,7 @@ breadcrumb: [Software asset analytics view, Software Asset Workspace, Exploring 
 
 # Discovered inventory dashboard
 
-View your licensable discovered software and devices on the Discovered inventory dashboard in the [[analytics-workspace|Software asset analytics view]] of [[sam-workspace|Software Asset Workspace]].
+View your licensable discovered software and devices on the Discovered inventory dashboard in the Software asset analytics view of Software Asset Workspace.
 
 Discovered inventory dashboard enables you to view all your licensable discovered software and devices. This dashboard also provides an insight into software products with multiple and potentially older versions that can result in security and compliance risk.
 
@@ -172,7 +172,7 @@ Products with highest number of versions
 
 </td><td>
 
-[[sam-software-discovery|Software Discovery]] [[c_Models|Models]] \[cmdb\_sam\_sw\_discovery\_model\]
+Software Discovery Models \[cmdb\_sam\_sw\_discovery\_model\]
 
 </td><td>
 
@@ -180,10 +180,3 @@ Software products with the highest number of versions in descending order.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[analytics-workspace|Software asset analytics view]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[sam-software-discovery|Software discovery]]
-- [[c_Models|Models]]

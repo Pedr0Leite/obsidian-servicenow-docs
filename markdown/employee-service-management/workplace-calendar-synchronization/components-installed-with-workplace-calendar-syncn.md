@@ -14,7 +14,7 @@ breadcrumb: [Reference, Workplace Calendar Synchronization, Workplace Service De
 
 # Components installed with Workplace Calendar Synchronization
 
-Several types of components are installed with the [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]] application, including tables and user roles.
+Several types of components are installed with the Workplace Calendar Synchronization application, including tables and user roles.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -44,7 +44,7 @@ As a system admin, you can do the following:-   Access the application completel
 -   Create, manage, and edit a Connection configuration.
 -   Establish OAuth credentials.
 -   Create, manage, and edit Calendar providers.
--   [[retrieve-reservations|Retrieve reservations]].
+-   Retrieve reservations.
 
  As a Workplace Calendar Synchronization admin, you can create, manage, and edit a Reservable Sync Configuration.
 
@@ -132,7 +132,7 @@ Retrieve reservations\[sn\_wsd\_rsvsync.admin\]
 
 </td><td>
 
-Retrieves all the events for the active **Reservable Sync Configurations** fromMicrosoft Outlook to [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
+Retrieves all the events for the active **Reservable Sync Configurations** fromMicrosoft Outlook to Workplace Service Delivery
 
 </td></tr><tr><td>
 
@@ -168,9 +168,3 @@ Displays the type of records.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]
-- [[retrieve-reservations|Retrieve reservations]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]

@@ -30,7 +30,7 @@ Modify the embed code of Engagement Messenger to enable recommendations and pass
 
 3.  In the Edit module column, click **Edit**.
 
-4.  In the [[create-engagement-messenger-module|Configure Engagement Messenger]] module, select the **Implement** tab.
+4.  In the Configure Engagement Messenger module, select the **Implement** tab.
 
 5.  In a text editor, open the HTML file of the web page on your website where you integrate Engagement Messenger.
 
@@ -104,6 +104,3 @@ The following example shows the modified code to generate default proactive reco
   </script>
 ```
 
-## Related
-
-- [[create-engagement-messenger-module|Configure Engagement Messenger]]

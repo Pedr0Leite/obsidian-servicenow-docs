@@ -16,7 +16,7 @@ breadcrumb: [Export to PowerPoint for Strategic Portfolio Management, Strategic 
 
 The Export to PowerPoint application helps you generate and download your project status report. Use this file to present your project status report to stakeholders or teams for collaboration and to identify the next steps.
 
-Use the following data types to [[create-ppt-template|create a Microsoft PowerPoint template]].
+Use the following data types to create a Microsoft PowerPoint template.
 
 <table id="table_rfq_jfv_d5b"><thead><tr><th>
 
@@ -69,6 +69,3 @@ A token used to generate data for all the entries in a record by retaining the t
 </td></tr></tbody>
 </table>**Parent Topic:**[Export to PowerPoint for Strategic Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/export-to-powerpoint-for-application-portfolio-management/export-ppt-landing-page.md)
 
-## Related
-
-- [[create-ppt-template|Create a Microsoft PowerPoint template]]

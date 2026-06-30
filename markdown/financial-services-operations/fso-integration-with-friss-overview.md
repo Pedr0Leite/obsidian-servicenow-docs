@@ -16,7 +16,7 @@ The ServiceNow® Financial Services Operations Integration with FRISS applicatio
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore \[Omitted image "bus-explore.svg"\] Alt text: Learn about the benefits for your organization by integrating [[fso-overview|Financial Services]] Operations with FRISS.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/explore-fso-integration-with-friss.md)
+[Explore \[Omitted image "bus-explore.svg"\] Alt text: Learn about the benefits for your organization by integrating Financial Services Operations with FRISS.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/explore-fso-integration-with-friss.md)
 
 </td><td>
 
@@ -31,22 +31,14 @@ The ServiceNow® Financial Services Operations Integration with FRISS applicatio
 [Reference \[Omitted image "bus-learn.svg"\] Alt text: Get details about components like fields, tables, and properties.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/components-installed-with-friss-integration.md)
 
 </td></tr></tbody>
-</table>-   **[[explore-fso-integration-with-friss|Exploring Financial Services Operations Integration with FRISS]]**  
+</table>-   **[Exploring Financial Services Operations Integration with FRISS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/explore-fso-integration-with-friss.md)**  
 With Financial Services Operations Integration with FRISS, your insurance company can embed the FRISS API for Claims in workflows, detect and prevent fraud, and improve your underwriting and claims processes.
--   **[[configure-fso-integ-with-friss|Configure Financial Services Operations Integration with FRISS]]**  
+-   **[Configure Financial Services Operations Integration with FRISS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-fso-integ-with-friss.md)**  
 Select and configure the Financial Services Operations Integration with FRISS subflows to obtain the fraud score for your organization.
--   **[[setting-up-fso-integration-with-friss|Setting up Financial Services Operations Integration with FRISS]]**  
+-   **[Setting up Financial Services Operations Integration with FRISS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/setting-up-fso-integration-with-friss.md)**  
 Integrate your FRISS account with your ServiceNow® instance so that you determine whether the claim is legitimate or fraudulent.
--   **[[components-installed-with-friss-integration|Components installed with Financial Services Operations Integration with FRISS]]**  
+-   **[Components installed with Financial Services Operations Integration with FRISS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/components-installed-with-friss-integration.md)**  
 Several types of components are installed with activation of the Financial Services Operations Integration with FRISS \(com.sn\_fso\_intg\_friss\) plugin, including tables.
 
-**Parent Topic:**[[fso-integrate-other-applications|Integrate applications]]
+**Parent Topic:**[Integrate applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-integrate-other-applications.md)
 
-## Related
-
-- [[explore-fso-integration-with-friss|Exploring Financial Services Operations Integration with FRISS]]
-- [[configure-fso-integ-with-friss|Configure Financial Services Operations Integration with FRISS]]
-- [[setting-up-fso-integration-with-friss|Setting up Financial Services Operations Integration with FRISS]]
-- [[components-installed-with-friss-integration|Components installed with Financial Services Operations Integration with FRISS]]
-- [[fso-integrate-other-applications|Integrate applications]]
-- [[fso-overview|Financial Services]]

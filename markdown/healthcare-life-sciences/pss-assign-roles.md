@@ -12,7 +12,7 @@ breadcrumb: [Configure, Patient Support Services, Healthcare and Life Sciences S
 
 # Assign roles for Patient Support Services users
 
-Assign roles to control access to features, capabilities, and data in the [[pss-app|Patient Support Services]] application.
+Assign roles to control access to features, capabilities, and data in the Patient Support Services application.
 
 ## Before you begin
 
@@ -100,7 +100,7 @@ sn\_patientservice.agent\_connector
 
 Views, creates, and updates enrollment cases for all associated objects.
 
- You can combine this role with other roles for a user with the agent connector profile. For more information, see [[pss-connector-contributor|Determining additional user profiles in Patient Support Services]].
+ You can combine this role with other roles for a user with the agent connector profile. For more information, see [Determining additional user profiles in Patient Support Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-connector-contributor.md).
 
 </td><td>
 
@@ -173,7 +173,3 @@ sn\_patientservice.case\_creator
     -   To assign a role to a user, see [Assign a role to a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AssignARoleToAUser.md).
     -   To assign a role to a group, see [Assign a role to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AssignRoleToGroup.md).
 
-## Related
-
-- [[pss-connector-contributor|Determining additional user profiles in Patient Support Services]]
-- [[pss-app|Patient Support Services]]

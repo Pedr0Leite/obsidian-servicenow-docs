@@ -18,7 +18,7 @@ Default conditions of active inbound actions are used to manage incoming email. 
 
 If you customize or deactivate the default inbound actions, the conditions of the active inbound actions are checked. If an inbound action with matching conditions cannot be found, the state is set to Processed.
 
-\[Omitted image "processing-email-no-matching-inbound-action.png"\] Alt text: Flowchart showing how inbound emails are processed when default inbound email actions are enabled or when an email matches an active [[ia-inbound-email-il|inbound email]] action
+\[Omitted image "processing-email-no-matching-inbound-action.png"\] Alt text: Flowchart showing how inbound emails are processed when default inbound email actions are enabled or when an email matches an active inbound email action
 
 <table id="table_axb_pk4_m4"><thead><tr><th>
 
@@ -93,9 +93,5 @@ Create new record
 </td></tr></tbody>
 </table>If more than one inbound action is available for a particular type of email, the instance uses the Table field to match the email to a particular table. If there is also more than one action for the inbound action's table, the instance uses the **Order** field to determine the order in which the actions run.
 
-**Parent Topic:**[[actions-inbound-email|Inbound email actions]]
+**Parent Topic:**[Inbound email actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/actions-inbound-email.md)
 
-## Related
-
-- [[actions-inbound-email|Inbound email actions]]
-- [[ia-inbound-email-il|Inbound email]]

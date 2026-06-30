@@ -14,7 +14,7 @@ breadcrumb: [Industrial Standards, Use, Digital Factory Workspace, Industrial Co
 
 # Industrial Standards Library
 
-Use the Industrial Standards Library \(Standards hub\) to manage standards for the [[industrial-connected-workforce-overview|Industrial Connected Workforce]] \(ICW\).
+Use the Industrial Standards Library \(Standards hub\) to manage standards for the Industrial Connected Workforce \(ICW\).
 
 ## Standards hub overview
 
@@ -25,7 +25,7 @@ Standards establish consistency and uniformity in how tasks and activities are p
 -   View and manage knowledge articles
 -   View embedded shopfloor insights on published standards to analyze execution performance
 
-For more information about [[icw-knowledge-management-landing-page|Industrial Knowledge Management]], see [Industrial Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-knowledge-management/icw-knowledge-management-landing-page.md).
+For more information about Industrial Knowledge Management, see [Industrial Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-knowledge-management/icw-knowledge-management-landing-page.md).
 
 The following image shows an example of the main page in the Standards hub.
 
@@ -136,7 +136,3 @@ Knowledge expert
 </td></tr></tbody>
 </table>**Parent Topic:**[Using Industrial Standards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/using-industrial-standards.md)
 
-## Related
-
-- [[industrial-connected-workforce-overview|Industrial Connected Workforce]]
-- [[icw-knowledge-management-landing-page|Industrial Knowledge Management]]

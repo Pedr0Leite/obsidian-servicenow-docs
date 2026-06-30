@@ -18,19 +18,14 @@ Privacy analysts manage the privacy compliance posture of the processing activit
 
 A privacy analyst has the sn\_privacy.analyst role. The primary tasks for a privacy analyst are as follows.
 
--   Assess the [[ropa-record|processing activities]] regularly by sending and reviewing privacy impact assessments​.
--   Work with the management and business users to identify and [[c_GRCControls|manage controls]] related to a processing activity​.
+-   Assess the processing activities regularly by sending and reviewing privacy impact assessments​.
+-   Work with the management and business users to identify and manage controls related to a processing activity​.
 -   Manage and resolve the concerns of business users about compliance-related issues and policy exceptions​.
 -   Test and monitor control effectiveness​.
 
-The following image shows the [[processing-activity-homepage|processing activity overview page]] for the privacy analyst.
+The following image shows the processing activity overview page for the privacy analyst.
 
 \[Omitted image "processing-activity-prm-hr-onboarding-sample.png"\] Alt text: Home page for the Privacy analyst.
 
 **Parent Topic:**[Exploring Privacy Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/explore-privacy-management.md)
 
-## Related
-
-- [[ropa-record|Processing activities]]
-- [[c_GRCControls|Manage controls]]
-- [[processing-activity-homepage|Processing activity overview page]]

@@ -32,9 +32,9 @@ Similarly, if plans are activated beyond 10 levels or hierarchical links involvi
 
 \[Omitted image "cyclic-plan-levels.png"\] Alt text: Plan levels.
 
-Starting from version 6.1.x of the [[business-continuity-mangmt-overview|Business Continuity Management]] application, the integration of recovery task automation into the [[bcp-uib|business continuity planning]] process is introduced. This automation aims to enhance efficiency, save time, and minimize the risk of human errors. Users who have the necessary access to the recovery task can classify it as either manual or automated. These tasks are organized in a sequential manner with dependencies.
+Starting from version 6.1.x of the Business Continuity Management application, the integration of recovery task automation into the business continuity planning process is introduced. This automation aims to enhance efficiency, save time, and minimize the risk of human errors. Users who have the necessary access to the recovery task can classify it as either manual or automated. These tasks are organized in a sequential manner with dependencies.
 
-To automate a recovery task, administrators or application developers create an automation flow and associate it with the task. When the task moves to the **Open** state \(when the plan is activated as part of an exercise or an actual event\), the automated flow is triggered. However, there may be instances where the automated flow fails due to system errors. In such cases, the user with access to the recovery task can activate the manual task as a backup and assign it to a designated backup assignee. The backup assignee receives a system-generated email to complete the task flow. Plan users have the opportunity to practice business continuity plan [[exercise-management-uib|exercises]] and make improvements based on the results obtained.
+To automate a recovery task, administrators or application developers create an automation flow and associate it with the task. When the task moves to the **Open** state \(when the plan is activated as part of an exercise or an actual event\), the automated flow is triggered. However, there may be instances where the automated flow fails due to system errors. In such cases, the user with access to the recovery task can activate the manual task as a backup and assign it to a designated backup assignee. The backup assignee receives a system-generated email to complete the task flow. Plan users have the opportunity to practice business continuity plan exercises and make improvements based on the results obtained.
 
 Tasks can also be added in bulk by applying a task template group using the **Add groups** toolbar control on the **Recovery tasks** tab. Select **Add groups**, choose one or more groups from the **Select task template groups** dialog, and select **Add**. Each task template in the group becomes a recovery task on the parent record. Use the parallel **Add tasks** control to add individual task templates without a group context.
 
@@ -56,7 +56,7 @@ When you open **Add groups** or **Add tasks** from a list that is itself filtere
 
 1.  Navigate to **Workspaces** &gt; **Business Continuity Workspace**.
 
-2.  In the [[list-view-uib-ws|List view]], open the plan record and navigate to the Recovery tasks tab.
+2.  In the List view, open the plan record and navigate to the Recovery tasks tab.
 
     When no recovery tasks exist, the tab shows an empty list with an Insert button.
 
@@ -87,7 +87,7 @@ When you open **Add groups** or **Add tasks** from a list that is itself filtere
 
 4.  On the form, fill in the fields.
 
-    For more information on the fields in the form, see [[create-new-recovery-task-form|Create New Recovery task form]].
+    For more information on the fields in the form, see [Create New Recovery task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-new-recovery-task-form.md).
 
 5.  Assign a phase to the recovery task.
 
@@ -171,16 +171,7 @@ From the **Recovery tasks** tab toolbar, select one or more rows and use the **S
 \[Omitted image "qi-save-tasks.png"\] Alt text: Recovery tasks tab toolbar showing the Save as group dropdown expanded with Save tasks and Add to group options.
 
 -   **[Create New Recovery task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-new-recovery-task-form.md)**  
-Use the Create New Recovery task form in the [[bcm-workspace|BCM Configurable Workspace]] to input the necessary details regarding the recovery task.
+Use the Create New Recovery task form in the BCM Configurable Workspace to input the necessary details regarding the recovery task.
 
-**Parent Topic:**[[bcp-tasks-performed-by-bcp-owner|Structured workflows for BCPs]]
+**Parent Topic:**[Structured workflows for BCPs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bcp-tasks-performed-by-bcp-owner.md)
 
-## Related
-
-- [[create-new-recovery-task-form|Create New Recovery task form]]
-- [[bcp-tasks-performed-by-bcp-owner|Structured workflows for BCPs]]
-- [[business-continuity-mangmt-overview|Business Continuity Management]]
-- [[bcp-uib|Business continuity planning]]
-- [[exercise-management-uib|Exercises]]
-- [[list-view-uib-ws|List view]]
-- [[bcm-workspace|BCM Configurable Workspace]]

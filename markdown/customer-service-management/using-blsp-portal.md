@@ -12,13 +12,13 @@ breadcrumb: [Customer communication, Use, Customer Service Management]
 
 # Using the Business Location Service Portal
 
-Use the Business Location Service Portal \(BLSP\) available with the [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) application as a one-stop shop to manage the internal and external business locations.
+Use the Business Location Service Portal \(BLSP\) available with the Customer Service Management \(CSM\) application as a one-stop shop to manage the internal and external business locations.
 
 As a user with the sn\_customerservice.svc\_location\_manager, sn\_customerservice.svc\_location\_manager\_contributor, and admin role, you can use the Business Location Service Portal page to:
 
 -   Get a 360º view of a business location.
 -   Add and manage staff members.
--   Submit cases against business locations, [[sold-product|sold products]], or [[install-base-item|install base items]] deployed at a service organization.
+-   Submit cases against business locations, sold products, or install base items deployed at a service organization.
 -   Access Knowledge Base articles and engage with the community.
 
 \[Omitted image "patient-portal.png"\] Alt text: Landing page for Business Location Service Portal. For more information, refer to information that follows.
@@ -47,7 +47,7 @@ Knowledge
 
 </td><td>
 
-Selecting **Knowledge** on the header takes you to the kb\_home page. You can [[t_SearchTheKnowledgeBase|search the Knowledge Base]] or view a list of top-rated or most viewed Knowledge Base articles.
+Selecting **Knowledge** on the header takes you to the kb\_home page. You can search the Knowledge Base or view a list of top-rated or most viewed Knowledge Base articles.
 
 </td></tr><tr><td>
 
@@ -203,18 +203,9 @@ View a list of the most viewed articles.
 **Related topics**  
 
 
-[[add-staff-memers-to-biz-location|Add staff members to a business location in the Business Location Service Portal]]
+[Add staff members to a business location in the Business Location Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/add-staff-memers-to-biz-location.md)
 
-[[report-cases-on-behalf-of-biz-location|Create cases for a business location in the Business Location Service Portal]]
+[Create cases for a business location in the Business Location Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/report-cases-on-behalf-of-biz-location.md)
 
-[[track-cases-for-blsp-portal|Track cases on the Business Location Service Portal]]
+[Track cases on the Business Location Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/track-cases-for-blsp-portal.md)
 
-## Related
-
-- [[add-staff-memers-to-biz-location|Add staff members to a business location in the Business Location Service Portal]]
-- [[report-cases-on-behalf-of-biz-location|Create cases for a business location in the Business Location Service Portal]]
-- [[track-cases-for-blsp-portal|Track cases on the Business Location Service Portal]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[sold-product|Sold products]]
-- [[install-base-item|Install base items]]
-- [[t_SearchTheKnowledgeBase|Search the knowledge base]]

@@ -14,7 +14,7 @@ breadcrumb: [Configuring Cloud Services Catalog, Cloud Services Catalog, ITOM Cl
 
 # Cloud Services Catalog administration guide
 
-After you set up the [[csc-home|Cloud Services Catalog]] application, you must set up some additional items so that your users can request and manage any cloud resource.
+After you set up the Cloud Services Catalog application, you must set up some additional items so that your users can request and manage any cloud resource.
 
 ## Configuring governance
 
@@ -28,11 +28,11 @@ After you apply the governance quotas and policies, you must create Cloud Servic
 2.  Use or modify an [out-of-the-box](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/out-of-the-box-catalog-items.md) catalog item.
 3.  Use a [Terraform template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/catalog-item-terraform-template.md).
 
-For information about domain separation, multi-repo support with Terraform app, [[cloud-accounts|cloud accounts]], the [[cloud-admin-portal|Cloud admin portal]], or the Cloud API, see the following topics:
+For information about domain separation, multi-repo support with Terraform app, cloud accounts, the Cloud admin portal, or the Cloud API, see the following topics:
 
 -   [Use multiple repositories structure with Terraform Connector app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/use-multiple-repositories-structure-with-terraform-connector.md)
 -   [Domain separation and Cloud Services Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/domain-separation-and-cloud-services-catalog.md): Get additional information about domain separation.
--   [Cloud accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-accounts.md): Learn about the logical representation in [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] of all or part of your managed cloud infrastructure.
+-   [Cloud accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-accounts.md): Learn about the logical representation in Cloud Provisioning and Governance of all or part of your managed cloud infrastructure.
 -   [Cloud Admin Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-admin-portal.md): Manage, design, govern, operate, and analyze all your cloud resources from this portal.
 -   [Cloud API \(CAPI\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-management-api.md): Integrate Cloud Provisioning and Governance with cloud providers by using REST APIs.
 
@@ -45,9 +45,3 @@ Configure policies with the necessary level of permissions to provide access to 
 
 **Parent Topic:**[Configuring Cloud Services Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/configuring-csc.md)
 
-## Related
-
-- [[csc-home|Cloud Services Catalog]]
-- [[cloud-accounts|Cloud accounts]]
-- [[cloud-admin-portal|Cloud Admin Portal]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]

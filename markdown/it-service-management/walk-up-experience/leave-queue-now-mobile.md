@@ -14,7 +14,7 @@ breadcrumb: [Walk-up Experience on Now Mobile, Walk-up Experience, IT Service Ma
 
 # Leave a queue at the Walk-up Experience Tech Lounge
 
-Leave a ServiceNow [[walkup-experience-landing-page|Walk-up Experience]] Tech Lounge queue at any time by using the Now® Mobile app on your mobile device.
+Leave a ServiceNow Walk-up Experience Tech Lounge queue at any time by using the Now® Mobile app on your mobile device.
 
 ## Before you begin
 
@@ -43,6 +43,3 @@ Role required: user
 
 **Parent Topic:**[Walk-up Experience on Now Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walk-up-experience-now-mobile.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]

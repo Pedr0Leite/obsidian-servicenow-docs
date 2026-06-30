@@ -38,9 +38,9 @@ CSC Content- Post Provisioning- Deploy ACC in Stack VMs
 
 </td><td>
 
-ACC \([[acc-landing-page|agent client collector]]\) is deployed through a Flow Designer action. This is called as post-provision step for the Linux basic VM deployment catalog item. Pre-requisites:
+ACC \(agent client collector\) is deployed through a Flow Designer action. This is called as post-provision step for the Linux basic VM deployment catalog item. Pre-requisites:
 
- 1.  ACC Listener must be configured in any MID Server. This will generate a [[mid-web-server|mid web server]] endpoint and a MID Server API Key.
+ 1.  ACC Listener must be configured in any MID Server. This will generate a mid web server endpoint and a MID Server API Key.
 2.  In the post provisioning operation parameters of the Basic Linux VM catalog, these two parameters – web server end point \(typically in format wss://&lt;IP\_Address&gt;:3389/ws/events\) and MID Server API Keys, need to be set. Out of the box, these parameters have empty values.
 
 **Note:** If the generated WS endpoint URL returns the private IP of the MID Server, then that private IP needs to be replaced with public IP of the MID Server VM for the internet-based connectivity.
@@ -120,7 +120,3 @@ This action is added as a post provision operation in 'CSC Microsoft Azure Funct
 </td></tr></tbody>
 </table>**Parent Topic:**[Out Of Box Catalogs using Cloud Services Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/out-of-the-box-catalog-items.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[mid-web-server|MID Web Server]]

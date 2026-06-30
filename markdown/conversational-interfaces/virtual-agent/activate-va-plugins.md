@@ -14,7 +14,7 @@ breadcrumb: [Activate and get started, Virtual Agent, Conversational Interfaces]
 
 # Install Virtual Agent plugins
 
-Install Virtual Agent plugins for your business areas. These plugins contain predefined conversations and [[virtual-agent-landing-page|Virtual Agent]] assets that help users with common self-service tasks, such as creating or updating cases or providing answers to frequently asked questions.
+Install Virtual Agent plugins for your business areas. These plugins contain predefined conversations and Virtual Agent assets that help users with common self-service tasks, such as creating or updating cases or providing answers to frequently asked questions.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin or virtual\_agent\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Home**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Home**.
 
 2.  Under Choose what type of requests you want your bot to support, select an available plugin, such as **Get ITSM plugin**.
 
@@ -39,7 +39,3 @@ Role required: admin or virtual\_agent\_admin
 
 For more information about available Virtual Agent plugins, see [Additional plugins for Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/additional-va-plugins.md) and [Prebuilt Virtual Agent topics, topic blocks, and ServiceNow NLU models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/prebuilt-topics-ITSM.md).
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]

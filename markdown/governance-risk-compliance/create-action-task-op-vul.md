@@ -12,7 +12,7 @@ breadcrumb: [Creating an action task for the operational vulnerability, Managing
 
 # Manage an assessment-type action task
 
-Create and manage an action task for the [[exploring-op-vul|Operational vulnerability]], where the type of the task is assessment. You can then assign it to an appropriate task owner.
+Create and manage an action task for the Operational vulnerability, where the type of the task is assessment. You can then assign it to an appropriate task owner.
 
 ## Before you begin
 
@@ -24,13 +24,13 @@ After completing the steps outlined in this section, the state of the Operationa
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[grc-opres-landing-page|Operational Resilience]] Workspace** &gt; **All Operational Vulnerabilities** and open the Operational vulnerability record that is in the **Assessment** state.
+1.  Navigate to **Workspaces** &gt; **Operational Resilience Workspace** &gt; **All Operational Vulnerabilities** and open the Operational vulnerability record that is in the **Assessment** state.
 
 2.  In the Operational vulnerability record, select the **Action tasks** related list and select **New**.
 
 3.  On the Create New Action task form, fill in the fields.
 
-    For more information, see [[action-task-form|Create New Action task form]].
+    For more information, see [Create New Action task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/action-task-form.md).
 
 4.  In the **Type** field, select **Assessment**.
 
@@ -69,12 +69,5 @@ After completing the steps outlined in this section, the state of the Operationa
 
 The task owner then logs in, reviews the assigned action task, and creates an investigation-type action task if necessary, or directly requests for an approval for the assessment-type action task.
 
-For more information, see [[update-state-of-action-task|Manage an investigation-type action task]] and [[request-approval-for-action-task|Request an approval for the action task]].
+For more information, see [Manage an investigation-type action task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/update-state-of-action-task.md) and [Request an approval for the action task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/request-approval-for-action-task.md).
 
-## Related
-
-- [[action-task-form|Create New Action task form]]
-- [[update-state-of-action-task|Manage an investigation-type action task]]
-- [[request-approval-for-action-task|Request an approval for the action task]]
-- [[exploring-op-vul|Operational vulnerability]]
-- [[grc-opres-landing-page|Operational Resilience]]

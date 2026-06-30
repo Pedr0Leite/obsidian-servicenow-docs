@@ -14,7 +14,7 @@ breadcrumb: [SPM Benchmarks reference, SPM Benchmarks, Strategic Portfolio Manag
 
 # SPM Benchmarks KPIs
 
-The [[r_ITBusinessManagement|Strategic Portfolio Management]] KPIs are performance analytic indicators that collect the usage count data. Strategic, Alignment, and Execution KPIs are available by default in the [[benchmarks-for-spm|SPM Benchmarks]] application.
+The Strategic Portfolio Management KPIs are performance analytic indicators that collect the usage count data. Strategic, Alignment, and Execution KPIs are available by default in the SPM Benchmarks application.
 
 |KPI|Formula|
 |---|-------|
@@ -42,7 +42,3 @@ The [[r_ITBusinessManagement|Strategic Portfolio Management]] KPIs are performan
 
 **Parent Topic:**[SPM Benchmarks reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/benchmarks-for-strategic-portfolio-management/benchmarks-reference.md)
 
-## Related
-
-- [[r_ITBusinessManagement|Strategic Portfolio Management]]
-- [[benchmarks-for-spm|SPM Benchmarks]]

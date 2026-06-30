@@ -14,9 +14,9 @@ breadcrumb: [Configure, Source-to-Pay integration with Coupa, Integration with t
 
 # ERP Source Configuration for Coupa
 
-Configure your Source-to-Pay \(S2P\) instance to support inbound and outbound integration with your ERP system. This integration configuration enables you to post [[purchase-order-table|purchase order]], receipt, invoice, and download primary data from the ERP automatically.
+Configure your Source-to-Pay \(S2P\) instance to support inbound and outbound integration with your ERP system. This integration configuration enables you to post purchase order, receipt, invoice, and download primary data from the ERP automatically.
 
-[[erp-source-configuration|ERP source configuration]] includes all service mappings defined between Source-to-Pay \(S2P\) and the third-party ERP system. In cases where multiple ERP sources exist, they’re stored as distinct [[erp-source|ERP source]] entries with their corresponding service mappings.
+ERP source configuration includes all service mappings defined between Source-to-Pay \(S2P\) and the third-party ERP system. In cases where multiple ERP sources exist, they’re stored as distinct ERP source entries with their corresponding service mappings.
 
 To meet specific requirements, you can modify the service-mapping logic by updating the relevant service element map entry within the service map record. For organizations using multiple ERP systems, an ERP Source field has been incorporated into the tables to ensure accurate identification of the respective integrated ERP system.
 
@@ -61,8 +61,3 @@ You have configured the ERP source for Coupa.
 
 [Looking up primary data in Coupa]()
 
-## Related
-
-- [[purchase-order-table|Purchase order]]
-- [[erp-source-configuration|ERP source configuration]]
-- [[erp-source|ERP source]]

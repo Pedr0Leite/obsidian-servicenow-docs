@@ -36,7 +36,7 @@ For example, topics relevant to an e-commerce site can be orders, returns, payme
 
     If a message appears about the application scope, select **here** to be able to edit the record.
 
-4.  In Related [[migration-lists|Lists]], select **Taxonomy**.
+4.  In Related Lists, select **Taxonomy**.
 
 5.  Select **Edit**.
 
@@ -58,6 +58,3 @@ Create and associate topics to the new taxonomy and associate catalog items and 
 
 [Create and associate topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/create-topics-for-taxonomy.md)
 
-## Related
-
-- [[migration-lists|Lists]]

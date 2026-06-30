@@ -22,7 +22,7 @@ Role required: sn\_sec\_tisc.admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Administration** &gt; **Outbound Intel Sharing**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center** &gt; **Administration** &gt; **Outbound Intel Sharing**.
 
 2.  Select **Outbound Intel Sharing Groups**.
 
@@ -76,6 +76,3 @@ Role required: sn\_sec\_tisc.admin
 
 [Working on the Redaction Library]()
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]

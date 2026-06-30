@@ -14,9 +14,9 @@ breadcrumb: [Use, Task Mining, Platform Analytics]
 
 # Defining the scope of Task Mining projects
 
-[[create-task-mining-projects|Create a Task Mining project]] to specify what activities you want to analyze, from which workstation users, and over what period.
+Create a Task Mining project to specify what activities you want to analyze, from which workstation users, and over what period.
 
-The process to define the scope of a [[task-mining|Task Mining]] project is as follows:
+The process to define the scope of a Task Mining project is as follows:
 
 1.  Create a Task Mining project to analyze data for a specific purpose and define how long project data is collected for. Determine how the Task Mining project aggregates your workstation data, and select the cadence of workstation user activity collection.
 
@@ -39,7 +39,3 @@ Other procedures in the life-cycle of a Task Mining project are:
 -   [Refine the presentation of your data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/preview-data-based-on-categorization-rules.md)
 -   [Share a Task Mining analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/share-projects.md)
 
-## Related
-
-- [[create-task-mining-projects|Create a Task Mining project]]
-- [[task-mining|Task Mining]]

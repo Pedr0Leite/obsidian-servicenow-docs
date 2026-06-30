@@ -14,7 +14,7 @@ breadcrumb: [Using Access Analyzer, Access Analyzer, Access Management]
 
 # Comparing user access
 
-Use [[access-analyzer|Access Analyzer]] to compare two [[users|users]]' [[sc-access-control|access control]].
+Use Access Analyzer to compare two users' access control.
 
 ## Before you begin
 
@@ -97,7 +97,7 @@ Specify a field name to select from the list.
 
     \[Omitted image "comparing-access-controls-results.png"\] Alt text: Compare user access results
 
-5.  Click an **Operation** in the list for details about the [[permission-evaluation|permission evaluation]] and assigned roles.
+5.  Click an **Operation** in the list for details about the permission evaluation and assigned roles.
 
     In this example, click the **read** operation.
 
@@ -119,9 +119,4 @@ Specify a field name to select from the list.
 
     Select a node to learn more about the role, resources the role can access, or the group.
 
-## Related
 
-- [[access-analyzer|Access Analyzer]]
-- [[users|Users]]
-- [[sc-access-control|Access control]]
-- [[permission-evaluation|Permission evaluation]]

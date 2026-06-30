@@ -101,8 +101,5 @@ The Now Assist Identify duplicate articles skill is configured.
 **Related topics**  
 
 
-[[identify-duplicate-articles|Identify and resolve duplicate articles]]
+[Identify and resolve duplicate articles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/identify-duplicate-articles.md)
 
-## Related
-
-- [[identify-duplicate-articles|Identify and resolve duplicate articles]]

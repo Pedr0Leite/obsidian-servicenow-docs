@@ -14,7 +14,7 @@ breadcrumb: [Working with automated flows, Administer, Threat Intelligence Secur
 
 # Analyze, assess, and disseminate observables
 
-Learn how to analyze and disseminate [[c_Observables|observables]] which are related to threat.
+Learn how to analyze and disseminate observables which are related to threat.
 
 ## Before you begin
 
@@ -25,11 +25,11 @@ Role required:
 
 ## About this task
 
-Whenever a sighting search enrichment is requested, it returns with no [[indicator-sightings|sightings]].
+Whenever a sighting search enrichment is requested, it returns with no sightings.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Administration**.
+1.  Navigate to **All** &gt; **Threat Intelligence Security Center** &gt; **Administration**.
 
 2.  Select **Automated Flows**.
 
@@ -69,7 +69,7 @@ Whenever a sighting search enrichment is requested, it returns with no [[indicat
 
 [Automated sharing of high-risk IOC's with trusted partners]()
 
-[Automatically add [[threat-intel-landing-page|threat intelligence]] to a TAXII collection]()
+[Automatically add threat intelligence to a TAXII collection]()
 
 [Create vulnerability assessment for zero day]()
 
@@ -79,14 +79,7 @@ Whenever a sighting search enrichment is requested, it returns with no [[indicat
 
 [Zero-day vulnerability tracking]()
 
-[Automatic [[threat-actor|Threat Actor]] priority tagging]()
+[Automatic Threat Actor priority tagging]()
 
 [Automated flows tables]()
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[indicator-sightings|Sightings]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[threat-actor|Threat Actor]]

@@ -37,7 +37,7 @@ Watch this short video for an introduction to the Telecommunications Network Inv
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get [[telecommunications-network-inventory-reference|Telecommunications Network Inventory reference]] information.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telecommunications-network-inventory-reference.md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get Telecommunications Network Inventory reference information.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telecommunications-network-inventory-reference.md)
 
 </td><td>
 
@@ -52,6 +52,3 @@ Watch this short video for an introduction to the Telecommunications Network Inv
 -   Find useful resources related to your role and explore best practices at the [ServiceNow Impact](https://www.servicenow.com/success.html).
 -   Connect with other Telecommunications Network Inventory users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[telecommunications-network-inventory-reference|Telecommunications Network Inventory reference]]

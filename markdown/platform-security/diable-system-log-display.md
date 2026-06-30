@@ -12,7 +12,7 @@ breadcrumb: [System logs, Logs, Platform Security]
 
 # Disable stack trace formatting in system logs
 
-Enable viewing original unformatted log messages by disabling the collapsible stack trace formatting in [[system-logs|system logs]].
+Enable viewing original unformatted log messages by disabling the collapsible stack trace formatting in system logs.
 
 ## Before you begin
 
@@ -30,6 +30,4 @@ Role required: admin
 
 5.  Select **Update**.
 
-## Related
 
-- [[system-logs|System logs]]

@@ -24,7 +24,7 @@ Role required: sn\_grc\_doc\_design.admin and sn\_audit.admin
 
 1.  Navigate to **All** &gt; **Audit** &gt; **Audit Report** &gt; **Template configurations**.
 
-2.  Open the template for which you want to [[create-content-configurations-action-tasks|create content configurations]].
+2.  Open the template for which you want to create content configurations.
 
 3.  On the Content configurations related list, select **New**.
 
@@ -58,6 +58,4 @@ Role required: sn\_grc\_doc\_design.admin and sn\_audit.admin
 
 9.  Select **Update**.
 
-## Related
 
-- [[create-content-configurations-action-tasks|Create Content configurations]]

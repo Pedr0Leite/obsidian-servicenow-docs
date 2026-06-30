@@ -14,7 +14,7 @@ breadcrumb: [OAuth Code Grant, Inbound integrations, OAuth Inbound, OAuth authen
 
 # Authorization code grant workflow
 
-ServiceNow® handles both [[c_Authentication|authentication]] and API access by acting as the authorization and resource server. When single sign-on \(SSO\) is enabled, it redirects [[users|users]] to the configured IdP for authentication and issues tokens after successful login.
+ServiceNow® handles both authentication and API access by acting as the authorization and resource server. When single sign-on \(SSO\) is enabled, it redirects users to the configured IdP for authentication and issues tokens after successful login.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: `oauth_admin, mi_admin, admin`
 
 ## About this task
 
-This topic collection provides information about how ServiceNow manages authentication and API access when acting as both the authorization server and the resource server. It describes the behavior when SSO is enabled, including redirection to the [[identity-landing|identity]] provider \(IdP\) for user authentication and the issuance of an authorization code by ServiceNow after successful authentication. The usage of authorization code ensures that ServiceNow retains control over token issuance and access to protected resources.
+This topic collection provides information about how ServiceNow manages authentication and API access when acting as both the authorization server and the resource server. It describes the behavior when SSO is enabled, including redirection to the identity provider \(IdP\) for user authentication and the issuance of an authorization code by ServiceNow after successful authentication. The usage of authorization code ensures that ServiceNow retains control over token issuance and access to protected resources.
 
 \[Omitted image "mic-authorization-flow.png"\] Alt text: Authorization Workflow
 
@@ -32,7 +32,7 @@ This topic collection provides information about how ServiceNow manages authenti
 
     The user begins the login process from the client application interface.
 
-2.  Initiate the authorization [[c_requestAPI|request]].
+2.  Initiate the authorization request.
 
     The client redirects the user to ServiceNow authorization endpoint to initiate the authorization request. The authorization request can be initiated either by including the `Client Secret` or `PKCE Code Challenge` in the request body, based on the client type- private or public. In the authorization request body, include `Client Secret` for private clients, and `PKCE Code Challenge` for public clients.
 
@@ -228,7 +228,7 @@ Yes
 A client-generated value used to avoid CSRF attacks. The value is returned unchanged in the redirect URI, enabling the client to validate it.
 
 </td></tr></tbody>
-</table>        **Note:** Starting with the Madrid release, the system property `glide.[[oauth-inbound-and-outbound|oauth]].state.parameter.required` mandates the use of the `state` parameter in the OAuth requests. The `state` property is set to `true` by default in the new instances, and `optional` in upgraded instances. In case of missing `state` parameter, the authorization request fails and the following error is displayed: `Missing State parameter in request`.
+</table>        **Note:** Starting with the Madrid release, the system property `glide.oauth.state.parameter.required` mandates the use of the `state` parameter in the OAuth requests. The `state` property is set to `true` by default in the new instances, and `optional` in upgraded instances. In case of missing `state` parameter, the authorization request fails and the following error is displayed: `Missing State parameter in request`.
 
 3.  Grant access consent to the client application.
 
@@ -473,10 +473,4 @@ A client-generated value used to help prevent CSRF attacks. The value is returne
     |`client_id`|Yes|The unique identifier for your client application.|
     |`client_secret`|Yes|The client secret used to authenticate with the token endpoint.|
 
-## Related
 
-- [[c_Authentication|Authentication]]
-- [[users|Users]]
-- [[identity-landing|Identity]]
-- [[c_requestAPI|request]]
-- [[oauth-inbound-and-outbound|OAuth]]

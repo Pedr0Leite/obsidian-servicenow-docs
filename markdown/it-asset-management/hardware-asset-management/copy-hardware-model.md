@@ -26,7 +26,7 @@ You can create a product model record by duplicating an existing model from the 
 
 ## Procedure
 
-1.  Navigate to **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Content lookup**.
+1.  Navigate to **Hardware Asset Workspace** &gt; **Content lookup**.
 
 2.  Search for a hardware model record.
 
@@ -39,7 +39,7 @@ You can create a product model record by duplicating an existing model from the 
     |Field|Description|
     |-----|-----------|
     |Model type|Type of the model.|
-    |Model categories|Model categories that the model can be associated with. [[model-hierarchy|Model categories]] are used to create configuration items \(CIs\) and assets.|
+    |Model categories|Model categories that the model can be associated with. Model categories are used to create configuration items \(CIs\) and assets.|
 
 6.  Select **Create new model**.
 
@@ -53,7 +53,7 @@ The model record is created and you’re redirected to the Model record form.
 ## What to do next
 
 -   To publish the model to the Hardware Catalog, select **Publish to Hardware Catalog**. For more information about publishing the model to the hardware catalog, see [Publish an item to the hardware catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/t_PublishAnItemToTheHardwareCatalog.md).
--   To revert the normalization of the hardware or consumable model, select **[[revert-norm-eam|Revert Normalization]]**. For more information about reverting normalization, see [Revert normalization of hardware and consumable models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/revert-norm-ham.md).
+-   To revert the normalization of the hardware or consumable model, select **Revert Normalization**. For more information about reverting normalization, see [Revert normalization of hardware and consumable models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/revert-norm-ham.md).
 -   To save the changes made to the model record, select **Save**.
 
 **Parent Topic:**[Work with hardware normalization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/Work-with-hardware-normalization.md)
@@ -65,8 +65,3 @@ The model record is created and you’re redirected to the Model record form.
 
 [Content lookup portal for Hardware Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/content-lookup-ham.md)
 
-## Related
-
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[model-hierarchy|Model categories]]
-- [[revert-norm-eam|Revert normalization]]

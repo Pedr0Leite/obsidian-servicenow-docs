@@ -18,7 +18,7 @@ You can add assignments directly from a request to source rights from software l
 
 ## Before you begin
 
-Role required: [[c_Procurement|procurement]]\_admin or procurement\_user
+Role required: procurement\_admin or procurement\_user
 
 ## Procedure
 
@@ -50,7 +50,7 @@ Role required: [[c_Procurement|procurement]]\_admin or procurement\_user
 
 11. Run the conuter to make sure that you are in compliance.
 
-    You are prompted to run the software counter if the [[c_SoftwareAssetMgmt|Software Asset Management]] is active.
+    You are prompted to run the software counter if the Software Asset Management is active.
 
 12. Select **OK**.
 
@@ -68,7 +68,3 @@ Role required: [[c_Procurement|procurement]]\_admin or procurement\_user
 
 [Source requests from local stockrooms]()
 
-## Related
-
-- [[c_Procurement|Procurement]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

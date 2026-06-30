@@ -14,9 +14,9 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 # Restrict email domains for external user registration \[Updated in Security Center 1.3, 1.5, and 2.0\]
 
-Use the **sn\_ext\_usr\_reg.allowed\_email\_domains** property to list acceptable external [[email|email]] domains.
+Use the **sn\_ext\_usr\_reg.allowed\_email\_domains** property to list acceptable external email domains.
 
-The **sn\_ext\_usr\_reg.allowed\_email\_domains** system property defines which email addresses are allowed to self-register to a ServiceNow instance. The format should be a comma separated list of acceptable email domains such as `domain1.com,domain2.com` where emails such as `example@domain2.com` will be accepted. If **sn\_ext\_usr\_reg.allowed\_email\_domains** is not set with a list of acceptable domains, then [[users|users]] with any email address are allowed to register accounts on the instances. If not defined, malicious actors could perform registration using emails addresses from unwanted domains to gain authenticated access to the instance.
+The **sn\_ext\_usr\_reg.allowed\_email\_domains** system property defines which email addresses are allowed to self-register to a ServiceNow instance. The format should be a comma separated list of acceptable email domains such as `domain1.com,domain2.com` where emails such as `example@domain2.com` will be accepted. If **sn\_ext\_usr\_reg.allowed\_email\_domains** is not set with a list of acceptable domains, then users with any email address are allowed to register accounts on the instances. If not defined, malicious actors could perform registration using emails addresses from unwanted domains to gain authenticated access to the instance.
 
 ## More information
 
@@ -38,11 +38,11 @@ Property name
 
 </td></tr><tr><td>
 
-[[sc-configuration|Configuration]] type
+Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\), Communities Properties
+System Properties \(/sys\_properties\_list.do\), Communities Properties
 
 </td></tr><tr><td>
 
@@ -113,9 +113,3 @@ References
 
 **Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[email|Email]]
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

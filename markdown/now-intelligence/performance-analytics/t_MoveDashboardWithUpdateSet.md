@@ -25,7 +25,7 @@ Role required: admin.
 
 This procedure describes moving the dashboard structure to an update set. The dashboard structure includes the dashboard itself, tabs, the related security configuration, and dashboard-specific widget settings such as header color, and borders.
 
-This procedure doesn’t move the content of the dashboard \(such as reports, PA [[widgets|widgets]], content blocks, and other widgets\) to the update set. You can add dashboard content to the update set using default platform functionality.
+This procedure doesn’t move the content of the dashboard \(such as reports, PA widgets, content blocks, and other widgets\) to the update set. You can add dashboard content to the update set using default platform functionality.
 
 **Important:** Make sure that the dashboard content is either in the same update set as the dashboard record or is already present in the target instance. Errors result if the moved dashboard points to content that doesn’t exist on the target instance.
 
@@ -41,7 +41,7 @@ Additional steps may be necessary if you are moving a dashboard on a scoped appl
 
 3.  Verify that there’s a portal page record associated with each tab.
 
-    1.  Select the context menu icon \(\[Omitted image "icon-context-p.png"\] Alt text:\) and select **[[launch-dependency-assessment|Launch Dependency Assessment]]**.
+    1.  Select the context menu icon \(\[Omitted image "icon-context-p.png"\] Alt text:\) and select **Launch Dependency Assessment**.
 
         \[Omitted image "move-dp-update-da-ex.png"\] Alt text: Dependency assessment example highlighting dashboard and dashboard tab tiles
 
@@ -87,7 +87,3 @@ Additional steps may be necessary if you are moving a dashboard on a scoped appl
 
 The dashboard and its tabs are moved to the target instance.
 
-## Related
-
-- [[widgets|Widgets]]
-- [[launch-dependency-assessment|Launch Dependency Assessment]]

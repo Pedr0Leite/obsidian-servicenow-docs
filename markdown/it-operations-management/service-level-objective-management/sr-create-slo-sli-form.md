@@ -14,7 +14,7 @@ breadcrumb: [SLO Management reference, Service Level Objective Management, ITOM 
 
 # Create SLO form
 
-Learn about the available fields for adding a service level objective \(SLO\) to [[sr-landing-page|Service Reliability Management]].
+Learn about the available fields for adding a service level objective \(SLO\) to Service Reliability Management.
 
 ## Service level objective form
 
@@ -140,6 +140,3 @@ Period for which the metrics are calculated. The available options are:-   **Mon
 
 **Parent Topic:**[SLO Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-level-objective-management/service-level-objective-management-reference.md)
 
-## Related
-
-- [[sr-landing-page|Service Reliability Management]]

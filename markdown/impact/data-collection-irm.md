@@ -16,18 +16,10 @@ Install and configure the Data Collection Content Pack for IRM.
 
 Perform the steps in the following order:
 
-1.  [[dc-irm-install|Install the Data Collection Pack for IRM]]
-2.  [[dc-irm-config|Configure Data Collection for IRM]]
-3.  [[dc-irm-activate|Activate Data Collection for IRM]]
-4.  [[dc-irm-install-artifacts|Review IRM artifacts]]
+1.  [Install the Data Collection Pack for IRM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-irm-install.md)
+2.  [Configure Data Collection for IRM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-irm-config.md)
+3.  [Activate Data Collection for IRM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-irm-activate.md)
+4.  [Review IRM artifacts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-irm-install-artifacts.md)
 
-You can also modify the configuration at any point, and maintain customizations when you are ready to upgrade. For more information, see [[dc-all-modify|Modifying the Data Collection configuration]] and [[dc-all-upgrade|Upgrading the Data Collection Content Pack]].
+You can also modify the configuration at any point, and maintain customizations when you are ready to upgrade. For more information, see [Modifying the Data Collection configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-all-modify.md) and [Upgrading the Data Collection Content Pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-all-upgrade.md).
 
-## Related
-
-- [[dc-irm-install|Install the Data Collection Pack for IRM]]
-- [[dc-irm-config|Configure Data Collection for IRM]]
-- [[dc-irm-activate|Activate Data Collection for IRM]]
-- [[dc-irm-install-artifacts|Review IRM artifacts]]
-- [[dc-all-modify|Modifying the Data Collection configuration]]
-- [[dc-all-upgrade|Upgrading the Data Collection Content Pack]]

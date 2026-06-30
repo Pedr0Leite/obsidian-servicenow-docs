@@ -28,11 +28,11 @@ The catalog is organized in three layers that connect what an organization offer
 
 Product models in the catalog are referenced by sold products. When a product is sold, the sold product record points back to the catalog entry that defines it. Service offerings associated with a product model flow through to sold product records, giving agents visibility into a customer's entitlements when a case is opened.
 
-In a [[crm-about-som-in-crm|Sales CRM]] context, the product catalog also underpins CPQ. The product definitions, pricing tiers, and bundling rules that CPQ enforces at the quoting stage are built on the same catalog foundation, ensuring consistency between what is sold and what is supported.
+In a Sales CRM context, the product catalog also underpins CPQ. The product definitions, pricing tiers, and bundling rules that CPQ enforces at the quoting stage are built on the same catalog foundation, ensuring consistency between what is sold and what is supported.
 
 ## Product catalog across CRM and Industries
 
-The product catalog is a shared resource across the CRM portfolio and its [[crm-about-industry-solutions-in-crm|industry solutions]]. Because all [[crm-product-portfolio|CRM products]] reference the same catalog, what is defined once is available consistently across selling, fulfillment, and service.
+The product catalog is a shared resource across the CRM portfolio and its industry solutions. Because all CRM products reference the same catalog, what is defined once is available consistently across selling, fulfillment, and service.
 
 |Product|How the catalog works|
 |-------|---------------------|
@@ -41,8 +41,3 @@ The product catalog is a shared resource across the CRM portfolio and its [[crm-
 |Self-service portals|Customers interacting with the Customer Service Portal can view their purchased products and raise service requests directly from the catalog items associated with those products, without agent involvement.|
 |Industry solutions|Industry solutions extend the product catalog with vertical-specific product models and service offerings. Telecommunications organizations use the catalog to define network services and bundles. Manufacturers define equipment and warranty offerings. Financial services organizations define financial products available for self-service requests.|
 
-## Related
-
-- [[crm-about-som-in-crm|Sales CRM]]
-- [[crm-about-industry-solutions-in-crm|Industry Solutions]]
-- [[crm-product-portfolio|CRM products]]

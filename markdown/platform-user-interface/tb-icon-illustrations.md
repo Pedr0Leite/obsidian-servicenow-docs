@@ -18,7 +18,7 @@ Icons are used to visually represent actions and concepts through simple, themed
 
 Icons are simple visual symbols used to represent actions, statuses, and concepts. They automatically inherit color and style from the surrounding UI to maintain visual consistency across the experience.
 
-**Important:** Icon illustrations apply to Workspaces and are not supported in the [[c_UI16|Core UI]].
+**Important:** Icon illustrations apply to Workspaces and are not supported in the Core UI.
 
 \[Omitted image "tb-icon-variants-illustration.png"\] Alt text: Action icon with outline and fill variants.
 
@@ -61,13 +61,8 @@ The size and format limitations for each of the four file sizes are as follows:
 |Format|SVG|
 |File size limit|2 MB|
 
--   **[[override-icon-with-custom-image|Override icon illustrations with custom images]]**  
+-   **[Override icon illustrations with custom images](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/override-icon-with-custom-image.md)**  
 Modify or override the default icon illustrations with your own custom images to promote visual elements that reflect your company's branding. When you override an icon, Theme Builder updates the icon wherever it is used across the interface.
 
-**Parent Topic:**[[working-with-image-styles|Working with Image styles]]
+**Parent Topic:**[Working with Image styles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/working-with-image-styles.md)
 
-## Related
-
-- [[override-icon-with-custom-image|Override icon illustrations with custom images]]
-- [[working-with-image-styles|Working with Image styles]]
-- [[c_UI16|Core UI]]

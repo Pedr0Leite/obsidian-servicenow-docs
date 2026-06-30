@@ -16,7 +16,7 @@ Create a root cause analysis \(RCA\) to identify the underlying cause of an issu
 
 ## Before you begin
 
-Role required: [[mco-quality-issue-management|Quality Issue Management]] Admin or [[mco-product-non-conformances|product non-conformance]] resolver \(sn\_mfg\_qm.product\_non\_conformance\_case\_resolver\)
+Role required: Quality Issue Management Admin or product non-conformance resolver \(sn\_mfg\_qm.product\_non\_conformance\_case\_resolver\)
 
 ## Procedure
 
@@ -26,7 +26,7 @@ Role required: [[mco-quality-issue-management|Quality Issue Management]] Admin o
 
 3.  On the Root Cause Analysis Task form, fill in the fields.
 
-    For a description of the field values, see [[mco-root-cause-analysis-task-form|Root cause analysis task form]].
+    For a description of the field values, see [Root cause analysis task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-root-cause-analysis-task-form.md).
 
 4.  Select **Save**.
 
@@ -39,24 +39,15 @@ Role required: [[mco-quality-issue-management|Quality Issue Management]] Admin o
 6.  Select **Save**.
 
 
--   **[[mco-task-cause-associations|Associating a task cause]]**  
+-   **[Associating a task cause](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-task-cause-associations.md)**  
 Associate a cause to a RCA for the root cause analysis of the product non-conformance.
 
-**Parent Topic:**[[mco-related-lists-product-non-conformance|Product Non-conformance without playbook]]
+**Parent Topic:**[Product Non-conformance without playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-related-lists-product-non-conformance.md)
 
 **Related topics**  
 
 
-[[mco-notes|Notes form]]
+[Notes form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-notes.md)
 
-[[mco-resolution-information-form|Resolution information form]]
+[Resolution information form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-resolution-information-form.md)
 
-## Related
-
-- [[mco-root-cause-analysis-task-form|Root cause analysis task form]]
-- [[mco-task-cause-associations|Associating a task cause]]
-- [[mco-related-lists-product-non-conformance|Product Non-conformance without playbook]]
-- [[mco-notes|Notes form]]
-- [[mco-resolution-information-form|Resolution information form]]
-- [[mco-quality-issue-management|Quality issue management]]
-- [[mco-product-non-conformances|Product non-conformance]]

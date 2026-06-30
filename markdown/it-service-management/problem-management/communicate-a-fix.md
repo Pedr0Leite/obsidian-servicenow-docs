@@ -24,7 +24,7 @@ Role required: admin, problem\_admin, problem\_manager or problem\_coordinator
 
 When you communicate a fix, notification is sent to related incidents that a fix is available. The Incident process is designed to use the fix information or to notify the user of the same. For more information on notification, refer [Synchronization between incident and problem records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/sync-btwn-inci-prob.md).
 
-**Note:** The topic applies to Problems where you have activated the [[c_ProblemManagement|Problem Management]] Best Practice — Madrid \(com.snc.best\_practice.problem.madrid\) plugin.
+**Note:** The topic applies to Problems where you have activated the Problem Management Best Practice — Madrid \(com.snc.best\_practice.problem.madrid\) plugin.
 
 ## Procedure
 
@@ -38,12 +38,8 @@ When you communicate a fix, notification is sent to related incidents that a fix
 
 5.  Under Related Links, click **Communicate Fix**.
 
-    The fix information is copied from the **Fix notes** field on the [[problem-form|Problem form]] to the **Additional Comments** field on the Incident form. An email notification is sent to the caller and the user who is assigned to the Incident.
+    The fix information is copied from the **Fix notes** field on the Problem form to the **Additional Comments** field on the Incident form. An email notification is sent to the caller and the user who is assigned to the Incident.
 
 
 **Parent Topic:**[Communicating the outcome of a problem](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/communicate-outcome-of-problem.md)
 
-## Related
-
-- [[c_ProblemManagement|Problem Management]]
-- [[problem-form|Problem form]]

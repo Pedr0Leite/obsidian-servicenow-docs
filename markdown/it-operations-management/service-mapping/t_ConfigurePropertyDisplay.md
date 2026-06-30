@@ -24,7 +24,7 @@ Decide for which CI classes you need to modify display.
 
 Decide whether you want to modify display for parent CI classes to see the view change in all their child CI classes. To check the parent CI class of a CI class, perform the steps below:
 
-**Note:** The [[c_ServiceMappingOverview|Service Mapping]] user interface refers to CI classes as CI types.
+**Note:** The Service Mapping user interface refers to CI classes as CI types.
 
 1.  Navigate to **System Definition** &gt; **Tables**.
 2.  Set the search field to **Name**, and enter the relevant CI class.
@@ -110,6 +110,3 @@ You can modify the view at any time.
 
 [View CI attributes in an application service map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/t_ViewCIDetails.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]

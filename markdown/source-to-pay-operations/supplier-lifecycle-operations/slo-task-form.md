@@ -14,7 +14,7 @@ breadcrumb: [Create new task form, Reference, Supplier Lifecycle Operations, Fin
 
 # Task form
 
-Use the **Details** tab of the task form to provide details about the [[supplier|supplier]] or employee task.
+Use the **Details** tab of the task form to provide details about the supplier or employee task.
 
 <table id="table_u4m_243_btb"><thead><tr><th>
 
@@ -205,6 +205,3 @@ Duration to complete the case.
 
 [Create a task for a supplier case from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-new-task-for-supp-case.md)
 
-## Related
-
-- [[supplier|Supplier]]

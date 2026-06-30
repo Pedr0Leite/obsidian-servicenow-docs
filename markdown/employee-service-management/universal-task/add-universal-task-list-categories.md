@@ -14,7 +14,7 @@ breadcrumb: [Using Universal Task, Universal Task, Employee Service Management]
 
 # Adding a Universal Task list category in SOW core
 
-Add the [[universal-task-landing|Universal Task]] list category to the new Service Operations Workspace core so that agents can access and navigate through various modules directly from the new workspace.
+Add the Universal Task list category to the new Service Operations Workspace core so that agents can access and navigate through various modules directly from the new workspace.
 
 ## Before you begin
 
@@ -48,6 +48,3 @@ Add lists under the newly created Universal Task list category in Service Operat
 
 **Parent Topic:**[Using Universal Task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/use-universal-task.md)
 
-## Related
-
-- [[universal-task-landing|Universal Task]]

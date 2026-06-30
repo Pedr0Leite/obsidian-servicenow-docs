@@ -16,9 +16,9 @@ breadcrumb: [Legacy Software Asset Management plugin Overview module, Legacy Sof
 
 The Overview module is a homepage that displays charts and graphs to help you manage software assets in the organization.
 
-To use the Overview module for the legacy Software [[c_AssetManagement|Asset Management]] \(com.snc.software\_asset\_management\) plugin, navigate to **Software Asset Management** &gt; **Overview**. Click an element within a report to see more information or add and move widgets as needed.
+To use the Overview module for the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin, navigate to **Software Asset Management** &gt; **Overview**. Click an element within a report to see more information or add and move widgets as needed.
 
-\[Omitted image "SAMDashOver.png"\] Alt text: [[c_SWAssetMgmtOverviewMod|Legacy Software Asset Management plugin Overview module]]
+\[Omitted image "SAMDashOver.png"\] Alt text: Legacy Software Asset Management plugin Overview module
 
 The overview shows the following compliance types:
 
@@ -36,7 +36,3 @@ The graphs show important statistics about the software being tracked, including
 
 [Installed with the legacy Software Asset Management plugin]()
 
-## Related
-
-- [[c_AssetManagement|Asset Management]]
-- [[c_SWAssetMgmtOverviewMod|Legacy Software Asset Management plugin Overview module]]

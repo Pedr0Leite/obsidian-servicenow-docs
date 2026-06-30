@@ -50,12 +50,9 @@ The task with the highest recommendation score is automatically assigned to you.
 **Related topics**  
 
 
-[[fsm-task-recommendation|Intelligent Task Recommendation]]
+[Intelligent Task Recommendation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/fsm-task-recommendation.md)
 
 [Configuring Intelligent Task Recommendations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/administer-task-recommendations.md)
 
 [Assign work order tasks to agents using Intelligent Task Recommendation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/manage-work-order-tasks-dw.md)
 
-## Related
-
-- [[fsm-task-recommendation|Intelligent Task Recommendation]]

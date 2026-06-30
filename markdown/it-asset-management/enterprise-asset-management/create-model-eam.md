@@ -14,11 +14,11 @@ breadcrumb: [Create and manage enterprise models, Managing enterprise models and
 
 # Create enterprise models
 
-Create a model based on a top tier [[enterprise-asset-management|Enterprise Asset Management]] model category. Use [[c_Models|models]] to manage and keep track of your assets.
+Create a model based on a top tier Enterprise Asset Management model category. Use models to manage and keep track of your assets.
 
 ## Before you begin
 
-You can create a model based on any of the following Enterprise Asset Management [[model-hierarchy|model categories]]:
+You can create a model based on any of the following Enterprise Asset Management model categories:
 
 -   Construction
 -   Medical
@@ -39,7 +39,7 @@ Role required: sn\_eam.enterprise\_admin or sn\_eam.enterptrise\_asset\_manager
 
 ## Procedure
 
-1.  Navigate to **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Enterprise model management**
+1.  Navigate to **Enterprise Asset Workspace** &gt; **Enterprise model management**
 
 2.  Select the tab for the model type that you want to create.
 
@@ -100,7 +100,7 @@ The category that the model belongs to.
 
 7.  Select **Save**.
 
-    The model is created along with the related tabs such as **Model Components**, **Assets**, **Enterprise Model Lifecycles**, **Compatibles**,**Substitutes**, and **[[c_ManageVendorCatalogItems|Vendor Catalog Items]]**. You can perform additional configuration on the model by entering details in the related tabs.
+    The model is created along with the related tabs such as **Model Components**, **Assets**, **Enterprise Model Lifecycles**, **Compatibles**,**Substitutes**, and **Vendor Catalog Items**. You can perform additional configuration on the model by entering details in the related tabs.
 
 8.  Change the status of the model to **In Production** once you are done configuring the model.
 
@@ -115,10 +115,3 @@ The category that the model belongs to.
 
 **Parent Topic:**[Create and manage enterprise models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-manage-enterprise-models.md)
 
-## Related
-
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[c_Models|Models]]
-- [[model-hierarchy|Model categories]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[c_ManageVendorCatalogItems|Vendor catalog items]]

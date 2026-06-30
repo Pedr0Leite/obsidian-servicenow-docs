@@ -14,7 +14,7 @@ breadcrumb: [Hardware Asset Workspace, Explore, Hardware Asset Management, IT As
 
 # Hardware asset overview
 
-Enhance your [[ham-landing-page|Hardware Asset Management]] experience by using the modernized and user-friendly [[hardware-asset-overview-am|Hardware asset overview]] view. The Hardware asset overview is a simplified and intuitive environment that helps you use the application more effectively by reducing complexity.
+Enhance your Hardware Asset Management experience by using the modernized and user-friendly Hardware asset overview view. The Hardware asset overview is a simplified and intuitive environment that helps you use the application more effectively by reducing complexity.
 
 Use the Hardware asset overview view to:
 
@@ -25,11 +25,11 @@ Use the Hardware asset overview view to:
 
 Select any widget or chart to view detailed information and take appropriate actions. You can also use **Location**, **Stockroom**, and **Model category** lists to filter your results.
 
-\[Omitted image "hardware-asset-overview.png"\] Alt text: Hardware asset overview in [[using-ham-workspace|Hardware Asset Workspace]].
+\[Omitted image "hardware-asset-overview.png"\] Alt text: Hardware asset overview in Hardware Asset Workspace.
 
 |Widget or chart|Description|
 |---------------|-----------|
-|Model normalization|Percentage of hardware and consumable [[c_Models|models]] that are normalized.|
+|Model normalization|Percentage of hardware and consumable models that are normalized.|
 |Asset requests|Number of requested items where the item’s model is hardware, consumable, or bundle.|
 |Transfer orders|Number of active transfer orders.|
 |Stock orders|Number of requested hardware inventory stock order items.|
@@ -63,9 +63,3 @@ The system property **sn\_itam\_workspace.asset\_overview\_enable\_lazy\_loading
 
 [Analytics and Reporting Solutions for Hardware Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/hardware-asset-content-pack.md)
 
-## Related
-
-- [[ham-landing-page|Hardware Asset Management]]
-- [[hardware-asset-overview-am|Hardware asset overview]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[c_Models|Models]]

@@ -18,10 +18,10 @@ Real-time prevention monitoring provides the following capabilities:
 
 -   **Immediate detection:** Identifies potential violations in scripts, includes, and other fields at the moment of edit.
 -   **On-screen alerts:** Displays findings in real time with severity levels.
--   **Guided resolution:** Provides details such as line numbers, [[impact-landing-page|impact]] levels, and steps to resolve found issues.
+-   **Guided resolution:** Provides details such as line numbers, impact levels, and steps to resolve found issues.
 -   **Governance:** Supports exception workflows and links to supporting documentation for compliance.
 
-**Note:** Real-time prevention monitoring must be enabled on the Scan Engine properties page for this feature to function. For more information, refer to [[configure-real-time-scanning-properties|Configure real-time scanning properties]].
+**Note:** Real-time prevention monitoring must be enabled on the Scan Engine properties page for this feature to function. For more information, refer to [Configure real-time scanning properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configure-real-time-scanning-properties.md).
 
 ## Finding levels
 
@@ -64,7 +64,7 @@ Red
 </td><td>
 
 -   Prevents users from saving the record unless they resolve the issue or provide an exception reason.
--   For more information, refer to [[submitting-exception-reasons-scan-engine|Submit exceptions for Scan Engine findings]].
+-   For more information, refer to [Submit exceptions for Scan Engine findings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/submitting-exception-reasons-scan-engine.md).
 
 </td></tr><tr><td>
 
@@ -170,11 +170,5 @@ Real-time messaging enforcement can be disabled on the Scan Engine properties pa
 
 Visibility of real-time messaging can also be configured to limit which users receive finding notifications. You can restrict messaging to a specific group if necessary.
 
-For more information, refer to [[configure-scan-engine-properties|Configure Scan Engine properties]].
+For more information, refer to [Configure Scan Engine properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configure-scan-engine-properties.md).
 
-## Related
-
-- [[configure-real-time-scanning-properties|Configure real-time scanning properties]]
-- [[submitting-exception-reasons-scan-engine|Submit exceptions for Scan Engine findings]]
-- [[configure-scan-engine-properties|Configure Scan Engine properties]]
-- [[impact-landing-page|Impact]]

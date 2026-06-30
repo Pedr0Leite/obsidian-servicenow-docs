@@ -14,11 +14,11 @@ breadcrumb: [Configure, Healthcare and Life Sciences Service Management Core, He
 
 # Healthcare and Life Sciences data model
 
-The [[hcls-core-app|Healthcare and Life Sciences Service Management Core]] application provides a data model that is used in the [[hcls-service-mgmt-overview|Healthcare and Life Sciences Service Management]] workflows.
+The Healthcare and Life Sciences Service Management Core application provides a data model that is used in the Healthcare and Life Sciences Service Management workflows.
 
 ## Healthcare and Life Sciences overview
 
-The Healthcare and Life Sciences data model is compatible with the Health Level Seven International \(HL7\) industry standard including the Fast Healthcare Interoperability Resources \(FHIR\) standard. The data model applies to all [[hcls-overview|Healthcare and Life Sciences]] industry solutions including providers, life sciences, and payers. The model includes data tables for organizations, patients, practitioners, insurance, revenue cycle, and clinical data.
+The Healthcare and Life Sciences data model is compatible with the Health Level Seven International \(HL7\) industry standard including the Fast Healthcare Interoperability Resources \(FHIR\) standard. The data model applies to all Healthcare and Life Sciences industry solutions including providers, life sciences, and payers. The model includes data tables for organizations, patients, practitioners, insurance, revenue cycle, and clinical data.
 
 The data model uses a combination of tables to store data:
 
@@ -149,7 +149,7 @@ Stores the information about medication product dosage associated with a program
 
 </td><td>
 
-Stores the variables configured for a dosage specification displayed on the [[hcls-med-prescription-form|Medication Prescription form]] of a Healthcare and Life Sciences Service Management application.
+Stores the variables configured for a dosage specification displayed on the Medication Prescription form of a Healthcare and Life Sciences Service Management application.
 
 </td></tr><tr><td>
 
@@ -647,9 +647,3 @@ ServiceNow AI Platform
 </td></tr></tbody>
 </table>**Note:** To learn about ServiceNow AI Platform, CSM, and Product Catalog Management Core tables, see [Industry data model tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-data-model-tables.md), and [Tables installed with Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_TIWCustomerService.md).
 
-## Related
-
-- [[hcls-core-app|Healthcare and Life Sciences Service Management Core]]
-- [[hcls-service-mgmt-overview|Healthcare and Life Sciences Service Management]]
-- [[hcls-overview|Healthcare and Life Sciences]]
-- [[hcls-med-prescription-form|Medication Prescription form]]

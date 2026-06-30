@@ -48,8 +48,5 @@ See [Access Control List Rules](https://raw.githubusercontent.com/ServiceNow/Ser
 
 Access Management is a ServiceNow AI Platform feature that is active by default.
 
-**Parent Topic:**[[now-platform-security-rn-landing|ServiceNow AI Platform security release notes]]
+**Parent Topic:**[ServiceNow AI Platform security release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/now-platform-security-rn-landing.md)
 
-## Related
-
-- [[now-platform-security-rn-landing|ServiceNow AI Platform security release notes]]

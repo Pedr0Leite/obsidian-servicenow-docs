@@ -36,7 +36,7 @@ You can see the following trends on the dashboard.
 
 ## Feedback Analytics Overview
 
-\[Omitted image "overview\_feedback\_dashboard.png"\] Alt text: [[overview-lxp-widgets|Overview tab]] in the Feedback Analytics dashboard displays overview of feedback received.
+\[Omitted image "overview\_feedback\_dashboard.png"\] Alt text: Overview tab in the Feedback Analytics dashboard displays overview of feedback received.
 
 **Average rating \(last 6 months\):** Shows the average rating gathered in the last six months.
 
@@ -90,6 +90,3 @@ You can see the following trends on the dashboard.
 
 **Top pages by feedback tasks**: Top pages where feedback is shared and the number of tasks displayed by their respective states.
 
-## Related
-
-- [[overview-lxp-widgets|Overview tab]]

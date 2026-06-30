@@ -14,9 +14,9 @@ breadcrumb: [Data anonymization, Data privacy, Data Privacy, Platform Privacy]
 
 # Anonymization of encrypted columns
 
-When creating [[data-privacy-landing|data privacy]] [[ca-policies|policies]], you may include columns that are also protected by [[column-level-encryption-landing|Column Level Encryption]] \(CLE\). How you handle those columns depends on your organization’s compliance requirements.
+When creating data privacy policies, you may include columns that are also protected by Column Level Encryption \(CLE\). How you handle those columns depends on your organization’s compliance requirements.
 
-If you consider [[encryption-landing|encryption]] sufficient protection for the data, you can configure the policy to take no action on those columns. If your requirements demand that the data itself be anonymized—for example, to fulfill a data subject erasure [[c_requestAPI|request]]—the system supports running anonymization directly on encrypted columns.
+If you consider encryption sufficient protection for the data, you can configure the policy to take no action on those columns. If your requirements demand that the data itself be anonymized—for example, to fulfill a data subject erasure request—the system supports running anonymization directly on encrypted columns.
 
 When anonymization runs on a CLE-encrypted column, the system decrypts the data, applies the anonymization technique, and re-encrypts the result before storing it in the database. This process requires specific prerequisites to be in place and explicit admin consent before a job can run.
 
@@ -25,14 +25,14 @@ When anonymization runs on a CLE-encrypted column, the system decrypts the data,
 Before you can run an anonymization job on CLE-encrypted columns, the following must be true:
 
 -   The **Data Privacy Store** application is installed.
--   The **[[field-encryption|Field Encryption]] Starter** plugin is active.
--   The glide property `dp.job.enable_map_creation` is set to `true`. Only [[users|users]] with the `sn_kmf.admin` or `sn_kmf.cryptographic_manager` role can modify this property.
+-   The **Field Encryption Starter** plugin is active.
+-   The glide property `dp.job.enable_map_creation` is set to `true`. Only users with the `sn_kmf.admin` or `sn_kmf.cryptographic_manager` role can modify this property.
 
 If any of these conditions are not met, the system will display an error message identifying the missing item. You will not be able to activate a policy, create a job, or schedule a job until all prerequisites are satisfied. These validations occur at policy creation, job creation, and job scheduling.
 
 **Note:**
 
-Anonymization of encrypted columns is not supported when an active row encryption [[sc-configuration|configuration]] exists on the same column. If a policy includes a CLE-encrypted column that also has an active encrypted row configuration, the system will block policy activation and job scheduling and display a message identifying the conflict.
+Anonymization of encrypted columns is not supported when an active row encryption configuration exists on the same column. If a policy includes a CLE-encrypted column that also has an active encrypted row configuration, the system will block policy activation and job scheduling and display a message identifying the conflict.
 
 ## Admin consent
 
@@ -60,13 +60,3 @@ After anonymization, the data remains visible to users who had access to it befo
 
 If decryption or encryption fails for any column during a job, an error is logged. Only one error is logged per table-column combination to avoid duplicate entries.
 
-## Related
-
-- [[data-privacy-landing|Data Privacy]]
-- [[ca-policies|Policies]]
-- [[column-level-encryption-landing|Column Level Encryption]]
-- [[encryption-landing|Encryption]]
-- [[c_requestAPI|request]]
-- [[field-encryption|Field Encryption]]
-- [[users|Users]]
-- [[sc-configuration|Configuration]]

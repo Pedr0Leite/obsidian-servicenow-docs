@@ -41,8 +41,5 @@ Copying a threshold duplicates all threshold parameters including type, color, v
 
 A new threshold is created for the metric with the configuration from the original threshold. You can now modify either threshold independently.
 
-**Parent Topic:**[[configuring-grc-metrics|Configuring GRC: Metrics]]
+**Parent Topic:**[Configuring GRC: Metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/configuring-grc-metrics.md)
 
-## Related
-
-- [[configuring-grc-metrics|configuring grc metrics]]

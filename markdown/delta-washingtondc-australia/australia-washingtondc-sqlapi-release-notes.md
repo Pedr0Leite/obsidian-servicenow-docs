@@ -621,8 +621,5 @@ Australia
  For more information, see [Access your ServiceNow data using SQL API](https://www.servicenow.com/docs/access?context=accessing-your-servicenow-data-using-sql-api&family=australia&ft:locale=en-US).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[rn-combined-intro|Products combined by family]]
+</table>**Parent Topic:**[Products combined by family](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/delta-washingtondc-australia/rn-combined-intro.md)
 
-## Related
-
-- [[rn-combined-intro|Products combined by family]]

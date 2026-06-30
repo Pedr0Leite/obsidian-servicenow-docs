@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Strategic Planning, Reference, Portfolio
 
 # Goal Preferences form
 
-Use the [[goal-preferences-form|Goal Preferences form]] to manage goals such as the calendar type used for goal setting, weighted average calculation for goal progress, and deletion of goals and targets.
+Use the Goal Preferences form to manage goals such as the calendar type used for goal setting, weighted average calculation for goal progress, and deletion of goals and targets.
 
 <table id="table_demand_benefit_plan_form"><thead><tr><th>
 
@@ -64,7 +64,7 @@ Calendar type that is used for setting goals. The available calendar types are G
 
 </td></tr><tr><td>
 
-Disable [[target-breakdowns-gf|target breakdowns]] at the instance level.
+Disable target breakdowns at the instance level.
 
 </td><td>
 
@@ -73,7 +73,3 @@ Can disable the target breakdowns feature. When the feature is enabled, target b
 </td></tr></tbody>
 </table>**Parent Topic:**[Form field information for Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/form-field-information-for-strategic-planning.md)
 
-## Related
-
-- [[goal-preferences-form|Goal Preferences form]]
-- [[target-breakdowns-gf|Target breakdowns]]

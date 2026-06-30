@@ -26,7 +26,7 @@ In order to reduce the number of API calls sent to the webhook endpoints, batchi
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Administration**.
+1.  Navigate to **All** &gt; **Threat Intelligence Security Center** &gt; **Administration**.
 
 2.  Select **Webhooks Configurations** &gt; **Webhooks**.
 
@@ -180,6 +180,3 @@ Contains an array of events which are triggered as part of that webhook. Each ev
 
 **Parent Topic:**[Configure webhooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/setup-webhooks.md)
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]

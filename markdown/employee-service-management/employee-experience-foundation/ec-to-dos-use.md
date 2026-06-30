@@ -18,7 +18,7 @@ Use the To-dos page to review all tasks that are assigned to you and prioritize 
 
 -   **My Tasks**
 
-    The **My Tasks** tab on the [[employee-center-landing-page|Employee Center]] and [[employee-center-pro-landing|Employee Center Pro]] helps you organize your assigned tasks and allows your employees to view all assigned work in one place. The **My Tasks** tab appears at the top right with the task count. When the tasks are more than 10, tasks count displays 9+.
+    The **My Tasks** tab on the Employee Center and Employee Center Pro helps you organize your assigned tasks and allows your employees to view all assigned work in one place. The **My Tasks** tab appears at the top right with the task count. When the tasks are more than 10, tasks count displays 9+.
 
     Open: After selecting **My Tasks**, the left side of the form shows the Open and Completed tabs. Lists all to-dos that have not been completed.
 
@@ -53,7 +53,7 @@ Use the To-dos page to review all tasks that are assigned to you and prioritize 
     To-do Summary Area: To the right of the **Open** and **Completed** columns is the **To-do Summary Area**. When you highlight a to-do, details appear in this area. The **To-do Summary Area** has two columns:
 
     -   Details: Provides information, buttons, and fields about the task so you can complete it.
-    -   [[activity-lxp|Activity]]: Provides information, buttons, and fields about the activity so you can complete it. You can also access activities from the Lifecycle Event Ticket page.
+    -   Activity: Provides information, buttons, and fields about the activity so you can complete it. You can also access activities from the Lifecycle Event Ticket page.
 
         **Note:** Previously, this tab was the **History** pop-over.
 
@@ -81,9 +81,9 @@ Use the To-dos page to review all tasks that are assigned to you and prioritize 
 
         **Note:** For more information, see [Configure a service activity for an HR service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-service-activity-for-hr-service.md).
 
-        For example, the base system provides the Tuition Reimbursement Request and Request Corporate Credit Card [[hr-service-administration|HR services]] and they require an approval.
+        For example, the base system provides the Tuition Reimbursement Request and Request Corporate Credit Card HR services and they require an approval.
 
-    -   [[granular-delegation|Granular Delegation]]: Granular delegation allows employees to delegate their tasks, like approvals, to other employees for specific date and time ranges based on delegation rules.
+    -   Granular Delegation: Granular delegation allows employees to delegate their tasks, like approvals, to other employees for specific date and time ranges based on delegation rules.
 
         **Note:** For more information, see [Granular Delegation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/granular-delegation/granular-delegation.md).
 
@@ -126,7 +126,7 @@ Use the To-dos page to review all tasks that are assigned to you and prioritize 
 
 [Task filters on My tasks]()
 
-[View the [[rfy-ec|Recommended for you]] content]()
+[View the Recommended for you content]()
 
 [Use Employee Center from Zoom]()
 
@@ -144,11 +144,3 @@ Use the To-dos page to review all tasks that are assigned to you and prioritize 
 
 [Use Guided Self-Service]()
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[activity-lxp|Activity]]
-- [[hr-service-administration|HR services]]
-- [[granular-delegation|Granular Delegation]]
-- [[rfy-ec|Recommended for you]]

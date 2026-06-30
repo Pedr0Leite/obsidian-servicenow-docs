@@ -12,7 +12,7 @@ breadcrumb: [Use, Unified Security Exposure Management, Security Operations]
 
 # Create a remediation task manually in the Security Exposure Management Workspace
 
-You can create remediation tasks manually from the findings on the List page of [[sem-workspace-user-interface|Security Exposure Management Workspace]]. You can also create remediation tasks from the drill-down lists that appear when you click on the visualizations on the Home page.
+You can create remediation tasks manually from the findings on the List page of Security Exposure Management Workspace. You can also create remediation tasks from the drill-down lists that appear when you click on the visualizations on the Home page.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ Manual creation of Remediation Tasks \(RTs\) in Security Exposure Management Wor
 
 You can create a remediation task manually, when you want to:
 
--   group vulnerable items by something other than the Remediation Task Rules criteria. For example, you can create remediation tasks for a particular manager, or for active, new exploits, such as ransomware that includes different [[vulnerabilities|vulnerabilities]].
+-   group vulnerable items by something other than the Remediation Task Rules criteria. For example, you can create remediation tasks for a particular manager, or for active, new exploits, such as ransomware that includes different vulnerabilities.
 -   group ungrouped records.
 -   remediation task rules are inactive.
 
@@ -104,13 +104,7 @@ Choices are:-   **Skip records for new remediation tasks**: No action is taken o
 
 ## Result
 
-Remediation tasks are created based on the grouping criteria. An email notification is sent to the remediation owners in the assignment group, informing them that a remediation task has been created and assigned to their group. For examples on how remediation tasks are created based on the grouping criteria, see [[sem-create-remediation-task-examples|Examples for remediation task creation in the Security Exposure Management Workspace]].
+Remediation tasks are created based on the grouping criteria. An email notification is sent to the remediation owners in the assignment group, informing them that a remediation task has been created and assigned to their group. For examples on how remediation tasks are created based on the grouping criteria, see [Examples for remediation task creation in the Security Exposure Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-create-remediation-task-examples.md).
 
-**Parent Topic:**[[using-unified-security-exposure-management|Using Unified Security Exposure Management]]
+**Parent Topic:**[Using Unified Security Exposure Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/using-unified-security-exposure-management.md)
 
-## Related
-
-- [[sem-create-remediation-task-examples|Examples for remediation task creation in the Security Exposure Management Workspace]]
-- [[using-unified-security-exposure-management|Using Unified Security Exposure Management]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]
-- [[vulnerabilities|Vulnerabilities]]

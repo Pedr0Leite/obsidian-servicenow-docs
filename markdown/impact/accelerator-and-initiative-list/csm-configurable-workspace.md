@@ -18,7 +18,7 @@ The Jumpstart Your Customer Service Management \(CSM\) Configurable Workspace Ac
 
 ## Accelerator overview
 
-Jumpstart Your \(CSM\) Configurable Workspace helps [[impact-landing-page|Impact]] customers gain a deeper understanding of how to get started with CSM Configurable Workspace by providing a comprehensive overview and applied  demonstration. This Accelerator guides you through the setup process and clearly illustrates the value of the workspace. Additionally, key resources and leading practices are offered to enhance [[product-adoption|product adoption]] and usage.
+Jumpstart Your \(CSM\) Configurable Workspace helps Impact customers gain a deeper understanding of how to get started with CSM Configurable Workspace by providing a comprehensive overview and applied  demonstration. This Accelerator guides you through the setup process and clearly illustrates the value of the workspace. Additionally, key resources and leading practices are offered to enhance product adoption and usage.
 
 For additional information on the feature, see [CSM Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-workspaces-configure.md).
 
@@ -68,7 +68,7 @@ One or more customer resource is requested. The specific number of resources pro
 |System Administrators|Maintains the stability and usability of the ServiceNow platform by performing application maintenance, managing support for cases related to ServiceNow applications, and contributing to ServiceNow software releases by delivering configuration tasks R and features.|✓| |
 |Process owners|A senior leader within each business unit for each major process or service \(e.g., customer service, incident\) who is accountable for ensuring the process is fit for purpose.|✓| |
 |Contact center / Service Desk managers|Subject matter expert responsible for managing Contact Center or Service Desk, agent productivity and customer experience.| |✓|
-|Other customer roles|Primary stakeholders responsible for agent experience and engagement, including Customer Service Agents, team leaders and [[user-experience-insights|User Experience]] champions.| |✓|
+|Other customer roles|Primary stakeholders responsible for agent experience and engagement, including Customer Service Agents, team leaders and User Experience champions.| |✓|
 |Developers|Makes changes within the ServiceNow platform to meet process requirements| |✓|
 |Trusted Service Partners|Attends ServiceNow Impact Accelerator coaching session\(s\) to understand leading practices and potentially support customer going forward.| |✓|
 
@@ -82,8 +82,3 @@ This Impact Accelerator in its entirety or portions of the Impact Accelerator ac
 
 ServiceNow resources are not responsible for implementing recommendations on customer’s sub-production or production instances.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[product-adoption|Product Adoption]]
-- [[user-experience-insights|User Experience]]

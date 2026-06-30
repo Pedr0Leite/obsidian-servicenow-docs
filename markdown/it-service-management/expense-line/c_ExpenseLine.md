@@ -22,7 +22,7 @@ The ServiceNow AI Platform generates expense lines automatically when you create
 
 Users with the financial\_mgmt\_admin and financial\_mgmt\_user roles can work with expense lines.
 
-Expense lines integrate closely with [[c_AssetManagement|asset management]], CMDB, cost management, and [[c_ContractManagement|contract management]], but can be used with any application. The **Source ID** field on an expense line record can be linked to any record in any table. This identifier allows expenses to be associated with a wide variety of items, such as a contract, an individual asset, a single configuration item, a software installation, a lease, a service contract, a user, or a group.
+Expense lines integrate closely with asset management, CMDB, cost management, and contract management, but can be used with any application. The **Source ID** field on an expense line record can be linked to any record in any table. This identifier allows expenses to be associated with a wide variety of items, such as a contract, an individual asset, a single configuration item, a software installation, a lease, a service contract, a user, or a group.
 
 \[Omitted image "ExpenseLines.png"\] Alt text: Expense line for a monthly lease
 
@@ -35,7 +35,7 @@ The Expense lines application tracks costs and record expenses incurred. Expense
 -   **[Domain separation and Expense Line](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/expense-line/domain-separation-expense-line.md)**  
 Domain separation is unsupported in Expense Line processing. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
-**Parent Topic:**[[r_ITServiceManagement|IT Service Management]]
+**Parent Topic:**[IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/r_ITServiceManagement.md)
 
 **Related topics**  
 
@@ -48,8 +48,3 @@ Domain separation is unsupported in Expense Line processing. Domain separation e
 
 [Contract Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/contract-management/c_ContractManagement.md)
 
-## Related
-
-- [[r_ITServiceManagement|IT Service Management]]
-- [[c_AssetManagement|Asset Management]]
-- [[c_ContractManagement|Contract Management]]

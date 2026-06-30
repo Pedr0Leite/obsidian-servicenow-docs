@@ -34,7 +34,7 @@ The following table describes the fields for the Breakdown analysis form. Most q
 |Was this breakdown similar to past events?|Option to indicate if this issue resembles previous failures.|
 |What event?|Reference to the past event or breakdown for comparison.|
 |What were the estimated costs?|Approximate financial impact of the breakdown and repair.|
-|Follow-up actions|Button to [[create-follow-up-action|create a follow-up action]] related to the analysis.|
+|Follow-up actions|Button to create a follow-up action related to the analysis.|
 |Monitoring: Is all relevant documentation attached \(e.g., photos, work orders, other attachments\)?|Option to confirm if supporting materials have been uploaded.|
 |Have all follow-up actions necessary been created?|Option to make sure that tasks for further investigation or prevention are logged.|
 |Have all questions been answered accurately?|Option to verify completeness and correctness of the form.|
@@ -42,6 +42,3 @@ The following table describes the fields for the Breakdown analysis form. Most q
 
 **Parent Topic:**[Digital Factory Workspace reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/digital-factory-workspace-reference.md)
 
-## Related
-
-- [[create-follow-up-action|Create a follow-up action]]

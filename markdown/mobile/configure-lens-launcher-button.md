@@ -20,23 +20,23 @@ Role required: admin
 
 **Note:**
 
-ServiceNow AI Lens is currently not supported in ALP / [[sg-config-quick-actions|Quick Actions]] and is only supported on input form screens that use the screen presentation style.
+ServiceNow AI Lens is currently not supported in ALP / Quick Actions and is only supported on input form screens that use the screen presentation style.
 
-If any Inputs in an [[parameter-input-screen|input form screen]] have the **DisableAILensAutoFill** attribute set to true, the input won’t be updated.
+If any Inputs in an input form screen have the **DisableAILensAutoFill** attribute set to true, the input won’t be updated.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select the input form screen on which you want to configure the launcher button, or select **New** to create an input form screen.
 
-    See [[parameter-screen-config|Configure an input form screen]] for instructions on how to create an input form screen.
+    See [Configure an input form screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/parameter-screen-config.md) for instructions on how to create an input form screen.
 
 4.  Under the **Presentation style** category, set the style to **Screen** to allow the addition of function instances.
 
@@ -88,23 +88,12 @@ Creates a button under the three-dot menu in the top header. -   **Name** — En
 
 A lens launcher button now appears in the location you selected — either in the top header or under the three-dot menu. When a user taps the button, Lens opens in the context of the table you configured, allowing users to interact with the associated data directly from the mobile interface.
 
--   **[[add-optional-prompts|Add optional prompts to the ServiceNow AI Lens Launcher]]**  
+-   **[Add optional prompts to the ServiceNow AI Lens Launcher](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/add-optional-prompts.md)**  
 Add optional prompts to the ServiceNow AI Lens launcher button.
--   **[[making-attachment-ids-available-for-write-back-actions|Enable attachment IDs for write-back actions]]**  
+-   **[Enable attachment IDs for write-back actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/making-attachment-ids-available-for-write-back-actions.md)**  
 Enable write-back actions to use attachment IDs in your ServiceNow AI Lens launcher button.
--   **[[config-lens-launcher-scripted-screen|Configure Lens launcher using scripted screen]]**  
+-   **[Configure Lens launcher using scripted screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/config-lens-launcher-scripted-screen.md)**  
 Configure a ServiceNow AI Lens launcher button with scripted screen.
 
-**Parent Topic:**[[configuring-now-assist-mobile|Configuring Now Assist for Mobile]]
+**Parent Topic:**[Configuring Now Assist for Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/configuring-now-assist-mobile.md)
 
-## Related
-
-- [[parameter-screen-config|Configure an input form screen]]
-- [[add-optional-prompts|Add optional prompts to the ServiceNow AI Lens Launcher]]
-- [[making-attachment-ids-available-for-write-back-actions|Enable attachment IDs for write-back actions]]
-- [[config-lens-launcher-scripted-screen|Configure Lens launcher using scripted screen]]
-- [[configuring-now-assist-mobile|Configuring Now Assist for Mobile]]
-- [[sg-config-quick-actions|Quick actions]]
-- [[parameter-input-screen|Input form screen]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]

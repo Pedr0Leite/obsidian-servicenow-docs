@@ -28,13 +28,13 @@ ServiceNow® has an extensive modeling of virtual machines \(VMs\) environment, 
 
 Virtual machines are modeled just like any other server, but with the **IsVirtual** attribute set to **true**.
 
-\[Omitted image "ClassVMWare.png"\] Alt text: Relationships and [[reference-document-management|references]] in VMWare vCenter Instance schema.
+\[Omitted image "ClassVMWare.png"\] Alt text: Relationships and references in VMWare vCenter Instance schema.
 
 In the diagram above, the 'Discovered' virtual server is referred to as the 'Guest' \(VM object\). Follow the preceding diagram for any further modeling of VMWare components.
 
 ## Key reference structures
 
-The Guest has the following important key [[reference|reference]] structures:
+The Guest has the following important key reference structures:
 
 -   An Instantiates::InstantiatedBy relationship with the cmdb\_ci\_vmware\_instance \(which is the VM instance reported by Center\).
 -   A Virtualizes::Virtualized by relationship with ESXi Server \(the hardware with the ESXi virtualization software installed\).
@@ -42,12 +42,7 @@ The Guest has the following important key [[reference|reference]] structures:
 
 ## Identification rules
 
--   Guest operating system: Guest operating system is modeled as Server \(with **IsVirtual** set to **true**\) and therefore [[c_IdentificationRules|identification rules]] follow the rules for the Server class. In most operating systems, BIOS UUID is reported as serial number. It is essential that you follow proper VMware guidelines to ensure that BIOS UUID is not being reused. Having a cloned BIOS UUID causes issues with identification rules.
+-   Guest operating system: Guest operating system is modeled as Server \(with **IsVirtual** set to **true**\) and therefore identification rules follow the rules for the Server class. In most operating systems, BIOS UUID is reported as serial number. It is essential that you follow proper VMware guidelines to ensure that BIOS UUID is not being reused. Having a cloned BIOS UUID causes issues with identification rules.
 -   VM Instances: IRE uses instance MosRef ID as key identifier​.
 -   ESX Server: Server is modeled as bare metal Server \(with **IsVirtual** set to **false**\) and therefore applies the Server class identification rules.
 
-## Related
-
-- [[reference-document-management|References]]
-- [[reference|Reference]]
-- [[c_IdentificationRules|Identification rules]]

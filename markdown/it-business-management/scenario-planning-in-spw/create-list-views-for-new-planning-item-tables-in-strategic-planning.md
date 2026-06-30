@@ -19,7 +19,7 @@ For every new planning item table that you create, you must create the necessary
 ## Before you begin
 
 -   [Define a new planning item type in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-planning-organization-and-planning-item-type.md).
--   Ensure that the application scope in your instance is set to [[portfolio-planning-app-landing-page|Portfolio Planning]].
+-   Ensure that the application scope in your instance is set to Portfolio Planning.
 
 Role required: admin
 
@@ -58,6 +58,3 @@ Create the APW Default and APW Prioritization list views for the planning item t
 
 [Create related list views for new planning item types in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-related-list-views-new-planning-item-types-strategic-planning.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

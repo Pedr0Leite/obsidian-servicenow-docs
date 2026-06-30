@@ -22,7 +22,7 @@ Role required: sn\_hr\_core.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **Assignment Rules** &gt; **HR Matching Rules**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **Assignment Rules** &gt; **HR Matching Rules**.
 
 2.  Complete or edit the form.
 
@@ -110,6 +110,3 @@ Script to define advanced matching rule functionality. Current.variable\_pool se
 
 **Parent Topic:**[Assignment and matching rules in HR]()
 
-## Related
-
-- [[c_AdministerHRServiceManagement|HR Administration]]

@@ -16,11 +16,11 @@ breadcrumb: [Authentication, Hardening settings, Platform Security]
 
 A script action is available that enables site administrators to manage the number of times a user can provide an incorrect password before being locked out from the ServiceNow AI Platform. You can enable this script action to manage failed login attempts.
 
-Help [[platsec-landing|secure your instance]] against brute force attacks by defining a time period during which a user cannot attempt to log in after being locked out. The **glide.user.unlock\_timeout\_in\_mins** system property unlocks the user account after the time period that is specified in it's value. If no value is specified, your instance unlocks the user account after the default period of 15 minutes.
+Help secure your instance against brute force attacks by defining a time period during which a user cannot attempt to log in after being locked out. The **glide.user.unlock\_timeout\_in\_mins** system property unlocks the user account after the time period that is specified in it's value. If no value is specified, your instance unlocks the user account after the default period of 15 minutes.
 
 Set the **glide.user.unlock\_timeout\_in\_mins** system property value to a minimum of **15**. If **glide.user.unlock\_timeout\_in\_mins** does not exist, the default lockout time is set to 15 minutes.
 
-Ensure that the **SNC User Lockout Check with Auto Unlock** script action \(found on the Script Action \[sysevent\_script\_action\] table\) is present and active. The **SNC User Lockout Check with Auto Unlock** script action is installed with the [[c_HighSecuritySettings|High Security Settings]] \(com.glide.high\_security\) plugin.
+Ensure that the **SNC User Lockout Check with Auto Unlock** script action \(found on the Script Action \[sysevent\_script\_action\] table\) is present and active. The **SNC User Lockout Check with Auto Unlock** script action is installed with the High Security Settings \(com.glide.high\_security\) plugin.
 
 ## More information
 
@@ -34,7 +34,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -101,8 +101,3 @@ Security risk
 
 **Parent Topic:**[Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-authentication.md)
 
-## Related
-
-- [[platsec-landing|Secure your instance]]
-- [[c_HighSecuritySettings|High Security Settings]]
-- [[sc-configuration|Configuration]]

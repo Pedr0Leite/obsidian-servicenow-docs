@@ -35,7 +35,7 @@ Third-party assessment reviewers can view SBOM component records on engagement a
 
 2.  Select the list icon \[Omitted image "ws-list-icon.png"\] Alt text:.
 
-3.  Navigate to **External [[risk-assessments|risk assessments]]** &gt; **All open**.
+3.  Navigate to **External risk assessments** &gt; **All open**.
 
 4.  Select the External assessment \(VRA\) number of an assessment that is in the **Responses received** state.
 
@@ -89,6 +89,3 @@ After reviewing the submission outcome, use the information to support your risk
 
 [SBOM records and relationships in Third-party Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-sbom-relationship.md)
 
-## Related
-
-- [[risk-assessments|risk assessments]]

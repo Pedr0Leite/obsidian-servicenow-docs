@@ -14,7 +14,7 @@ breadcrumb: [Use, Benchmarks, IT Service Management]
 
 # New Benchmarks Dashboard
 
-The [[benchmarks-landing|Benchmarks]] dashboard displays KPI data, performance trends, and indicator scorecards.
+The Benchmarks dashboard displays KPI data, performance trends, and indicator scorecards.
 
 The Benchmarks KPI dashboard view, which shows all KPIs, is launched in Service Portal.
 
@@ -292,7 +292,7 @@ Number of knowledge article views per user
 
 </td></tr><tr><td class="sub-head" colspan="3" align="left">
 
-[[itsm-virtual-agent|ITSM Virtual Agent]]
+ITSM Virtual Agent
 
 </td></tr><tr><td>
 
@@ -632,8 +632,3 @@ First assignment resolution
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[benchmarks-landing|Benchmarks]]
-- [[itsm-virtual-agent|ITSM Virtual Agent]]

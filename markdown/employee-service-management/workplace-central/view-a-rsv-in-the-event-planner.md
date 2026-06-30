@@ -24,13 +24,13 @@ Role required: sn\_wsd\_rsv.reservation\_planner or sn\_wsd\_rsv.reservation\_vi
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-central-feat|Workplace Central]]** &gt; **Workplace Central**.
+1.  Navigate to **All** &gt; **Workplace Central** &gt; **Workplace Central**.
 
-    You can also open Workplace Central from the [[employee-center-landing-page|Employee Center]] directly. Navigate to **Workspaces** &gt; **Workplace Central**.
+    You can also open Workplace Central from the Employee Center directly. Navigate to **Workspaces** &gt; **Workplace Central**.
 
-    The [[workplace-analytics|Workplace Analytics]] dashboard opens.
+    The Workplace Analytics dashboard opens.
 
-2.  On the left pane, select the **[[event-planner|Event planner]]** icon \(\[Omitted image "event-planner-icon.png"\] Alt text: Event planner icon.\).
+2.  On the left pane, select the **Event planner** icon \(\[Omitted image "event-planner-icon.png"\] Alt text: Event planner icon.\).
 
     The Event Planner dashboard opens.
 
@@ -74,9 +74,3 @@ If you want to edit the reservation, refer to [Edit a reservation using the even
 
 **Parent Topic:**[Working with Event planner](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/working-with-event-planner.md)
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-analytics|Workplace Analytics]]
-- [[event-planner|Event Planner]]

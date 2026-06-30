@@ -14,7 +14,7 @@ breadcrumb: [Outbound staging tables for Supplier Lifecycle Operations, Outbound
 
 # Supplier location outbound staging table
 
-The [[supplier|Supplier]] location outbound \[sn\_spend\_intg\_supplier\_location\_outbound\] staging table stores important data about the geographical location of a supplier so that an ERP integrator can export this data to a third-party ERP system.
+The Supplier location outbound \[sn\_spend\_intg\_supplier\_location\_outbound\] staging table stores important data about the geographical location of a supplier so that an ERP integrator can export this data to a third-party ERP system.
 
 ## Supplier location outbound staging table
 
@@ -54,6 +54,3 @@ The following table lists the mandatory fields for the Supplier location outboun
 |Time zone|String|Time zone of the supplier location.|
 |Zip/Postal code|String|ZIP or postal code of the supplier location.|
 
-## Related
-
-- [[supplier|Supplier]]

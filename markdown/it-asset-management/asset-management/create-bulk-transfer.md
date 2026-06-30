@@ -18,7 +18,7 @@ Update tasks for multiple transfer order lines at one go to streamline the trans
 
 ## Before you begin
 
-Transfer order lines enable the transfer of multiple assets on a transfer order. When you [[create-a-transfer-order|create a transfer order]] line, a transfer order line task is automatically created. Transfer order line tasks are created to move transfer order lines from one stage to the other. Each transfer order line can have multiple tasks such as **Requested**, **Shipment Preparation**, **In Transit**. For information on the stages of a transfer order line task, see [Summary of transfer order line tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/r_SummaryOfTransferOrderStages.md).
+Transfer order lines enable the transfer of multiple assets on a transfer order. When you create a transfer order line, a transfer order line task is automatically created. Transfer order line tasks are created to move transfer order lines from one stage to the other. Each transfer order line can have multiple tasks such as **Requested**, **Shipment Preparation**, **In Transit**. For information on the stages of a transfer order line task, see [Summary of transfer order line tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/r_SummaryOfTransferOrderStages.md).
 
 Role required: asset\_system\_admin or inventory\_user
 
@@ -46,7 +46,7 @@ Role required: asset\_system\_admin or inventory\_user
 
 5.  Select the transfer order lines in the **Available** box and move them to the **Selected** box.
 
-    When you select the transfer order lines, you can view the model and asset display names for hardware and [[c_ReceiveAConsumableAsset|consumable assets]]. For consumable assets, you can view additional details such as quantity requested and quantity received.
+    When you select the transfer order lines, you can view the model and asset display names for hardware and consumable assets. For consumable assets, you can view additional details such as quantity requested and quantity received.
 
 6.  Select **Update**.
 
@@ -57,7 +57,3 @@ Role required: asset\_system\_admin or inventory\_user
 
 **Parent Topic:**[Transfer order tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/work-with-transfer-orders.md)
 
-## Related
-
-- [[create-a-transfer-order|Create a transfer order]]
-- [[c_ReceiveAConsumableAsset|Consumable assets]]

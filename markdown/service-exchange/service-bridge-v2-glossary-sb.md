@@ -15,7 +15,7 @@ breadcrumb: [Reference, Service Exchange]
 
 # Service Exchange glossary
 
-A list of terms used in [[tmt-service-bridge-both-landing-page|Service Exchange]].
+A list of terms used in Service Exchange.
 
 ## A
 
@@ -100,7 +100,7 @@ Glossary terms are grouped alphabetically.
 
 ### entitlement
 
-A configuration mechanism in Service Exchange that determines which remote content, such as catalog items, record producers, [[service-bridge-v2-remote-task-overview|remote tasks]] definitions, a consumer instance is allowed to access.
+A configuration mechanism in Service Exchange that determines which remote content, such as catalog items, record producers, remote tasks definitions, a consumer instance is allowed to access.
 
 **Related topics**  
 
@@ -236,7 +236,7 @@ The Service Exchange component installed on the service provider's instance. It 
 
 ### provider task
 
-A task created in the provider instance to [[service-bridge-v2-proactive-customer-care-csp|fulfill a consumer request]], with status and updates synchronized to the consumer instance.
+A task created in the provider instance to fulfill a consumer request, with status and updates synchronized to the consumer instance.
 
 **Related topics**  
 
@@ -258,7 +258,7 @@ A catalog of services created by the provider and made available to consumers as
 **Related topics**  
 
 
-[Create [[service-bridge-v2-create-apps|remote catalogs]] in Service Exchange for providers]()
+[Create remote catalogs in Service Exchange for providers]()
 
 ### remote record producer
 
@@ -336,9 +336,3 @@ A form field that collects user input data in catalog items or remote record pro
 
 A modular collection of variables that can be reused across multiple remote record producers to ensure consistency in data collection.
 
-## Related
-
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]
-- [[service-bridge-v2-remote-task-overview|Remote tasks]]
-- [[service-bridge-v2-proactive-customer-care-csp|Fulfill a consumer request]]
-- [[service-bridge-v2-create-apps|Remote catalogs]]

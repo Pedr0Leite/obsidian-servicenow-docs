@@ -14,11 +14,11 @@ breadcrumb: [List categories and modules migration from ITSM Agent Workspace to 
 
 # Perform post-migration tasks for list categories and modules
 
-Verify that the list categories and modules in Service Operations Workspace \(SOW\) are consistent with the list categories and modules in ITSM Agent Workspace \(ITSM AW\) and the list categories and modules are ready for use in SOW. You can update the [[migrated-records|migrated]] list categories and modules [[settings-mobile|settings]] in SOW based on your requirements.
+Verify that the list categories and modules in Service Operations Workspace \(SOW\) are consistent with the list categories and modules in ITSM Agent Workspace \(ITSM AW\) and the list categories and modules are ready for use in SOW. You can update the migrated list categories and modules settings in SOW based on your requirements.
 
 ## Before you begin
 
-When performing the migration, you must have selected the **List categories and modules** option for ITSM Agent Workspace features. For example, the **List categories and modules** option for [[c_IncidentManagement|Incident Management]]. For information about the migration process, see [Migrate from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/migrate-itsm-agent-workspace-to-sow.md).
+When performing the migration, you must have selected the **List categories and modules** option for ITSM Agent Workspace features. For example, the **List categories and modules** option for Incident Management. For information about the migration process, see [Migrate from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/migrate-itsm-agent-workspace-to-sow.md).
 
 Role required: admin
 
@@ -38,7 +38,7 @@ At the end of the migration process, a confirmation message specifies if the mig
 
         Ensure that the columnar layout and list applicabilities are correctly applied.
 
-        The existing SOW list categories must be updated, and new categories must be created if ITSM Agent Workspace contains additional categories. The [[migration-utility|migration utility]] does not delete any existing or out-of-the-box categories from Service Operations Workspace.
+        The existing SOW list categories must be updated, and new categories must be created if ITSM Agent Workspace contains additional categories. The migration utility does not delete any existing or out-of-the-box categories from Service Operations Workspace.
 
 2.  If the migration fails, perform the following steps.
 
@@ -53,9 +53,3 @@ At the end of the migration process, a confirmation message specifies if the mig
 
 **Parent Topic:**[List categories and modules migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/list-categories-modules-migration-itsm-aw-sow.md)
 
-## Related
-
-- [[migrated-records|Migrated]]
-- [[settings-mobile|Settings]]
-- [[c_IncidentManagement|Incident Management]]
-- [[migration-utility|Migration Utility]]

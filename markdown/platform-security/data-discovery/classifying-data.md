@@ -14,7 +14,7 @@ breadcrumb: [Exploring Data Discovery \(Classic\), Data Discovery, Platform Priv
 
 # Classify data in Data Discovery Findings page
 
-Classify sensitive data found by all successful jobs through [[data-discovery-landing|Data Discovery]] Findings.
+Classify sensitive data found by all successful jobs through Data Discovery Findings.
 
 ## Before you begin
 
@@ -38,6 +38,4 @@ The Data Discovery Findings page shows all data entries that have been found by 
 
 5.  Select **Classify**.
 
-## Related
 
-- [[data-discovery-landing|Data Discovery]]

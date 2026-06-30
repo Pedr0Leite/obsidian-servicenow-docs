@@ -14,14 +14,14 @@ breadcrumb: [Contract Management Pro for Legal Service Delivery, Integration wit
 
 # Configure Contract Management Pro for Legal Service Delivery
 
-[[snlc-install-legal-contracts|Install Contract Management Pro for Legal Service Delivery]] and [[cncore-expl-snc-addin|Microsoft Word add-in for ServiceNow Contracts]]. Set up the requirements for managing legal contract requests.
+Install Contract Management Pro for Legal Service Delivery and Microsoft Word add-in for ServiceNow Contracts. Set up the requirements for managing legal contract requests.
 
 -   **[Install Contract Management Pro for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-install-legal-contracts.md)**  
-Install the [[snlc-expl-legal-contracts|Contract Management Pro for Legal Service Delivery]] \(sn\_lg\_cnt\) application. The application installs demo data and related ServiceNow® Store applications and plugins if they aren’t already installed.
+Install the Contract Management Pro for Legal Service Delivery \(sn\_lg\_cnt\) application. The application installs demo data and related ServiceNow® Store applications and plugins if they aren’t already installed.
 -   **[Install Microsoft Word add-in for ServiceNow Contracts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-install-word-addin.md)**  
 You can activate the Microsoft Word add-in for ServiceNow Contracts plugin \(sn\_cm\_word\_addin\) if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they are not already installed.
 -   **[Create a legal contract intake workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-create-legal-contract.md)**  
-[[snlc-create-legal-contract|Create a legal contract intake workflow]] by creating a record producer and configuring base system settings so users can request the legal department's guidance on legal contracts.
+Create a legal contract intake workflow by creating a record producer and configuring base system settings so users can request the legal department's guidance on legal contracts.
 -   **[Set up Contracts Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-setup-clauses-wdt.md)**  
 As a contract configurator, create and manage a library of clauses, clause variations and contract templates that will be used to generate contract document when a legal request is submitted.
 -   **[Configuring external applications for legal contracts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-set-legal-ext-app-config.md)**  
@@ -33,9 +33,3 @@ Add the external signatories widget to a record producer enabling you to add ext
 
 **Parent Topic:**[Contract Management Pro for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-mgmt-pro-landing-page.md)
 
-## Related
-
-- [[snlc-install-legal-contracts|Install Contract Management Pro for Legal Service Delivery]]
-- [[cncore-expl-snc-addin|Microsoft Word add-in for ServiceNow Contracts]]
-- [[snlc-expl-legal-contracts|Contract Management Pro for Legal Service Delivery]]
-- [[snlc-create-legal-contract|Create a legal contract intake workflow]]

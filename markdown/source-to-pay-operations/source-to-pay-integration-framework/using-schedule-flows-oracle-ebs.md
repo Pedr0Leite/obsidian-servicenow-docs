@@ -14,7 +14,7 @@ breadcrumb: [Use, Source-to-Pay integration with Oracle EBS, Integration with th
 
 # Use schedule flows in Oracle EBS
 
-Use the schedule flows to retrieve information from Oracle EBS, including [[invoices|invoices]], cost centers, product models, [[payment-terms|payment terms]], purchasing organizations, departments, GL accounts, currencies, FX rates, invoice payment details, suppliers, plant addresses, and legal entities.
+Use the schedule flows to retrieve information from Oracle EBS, including invoices, cost centers, product models, payment terms, purchasing organizations, departments, GL accounts, currencies, FX rates, invoice payment details, suppliers, plant addresses, and legal entities.
 
 You can either use the subflows to perform the required tasks or you can create a copy of the subflows and then customize it according to your requirements.
 
@@ -26,7 +26,7 @@ The Source-to-Pay with Oracle EBS integration supports the following subflows.
 
 ## Primary Data Integration with Oracle
 
-The [[master-data-integration|Primary Data Integration]] with Oracle supports the following subflows and system properties:
+The Primary Data Integration with Oracle supports the following subflows and system properties:
 
 **Subflows for Primary Data Integration with Oracle**
 
@@ -177,7 +177,7 @@ Use this subflow for fetching purchase groups from the Oracle system.
 
 </td></tr><tr><td>
 
-sn\_orcl\_data\_int.[[supplier|supplier]]\_service\_flow\_name
+sn\_orcl\_data\_int.supplier\_service\_flow\_name
 
 </td><td>
 
@@ -192,7 +192,7 @@ sn\_orcl\_data\_int.timeout\_value
 Maximum timeout duration \(in milliseconds\) for subflow execution.Default value: 10000000
 
 </td></tr></tbody>
-</table>## [[supp-mgmt-landing-page|Supplier Lifecycle Operations]] Integration with Oracle
+</table>## Supplier Lifecycle Operations Integration with Oracle
 
 The Supplier Lifecycle Operations Integration with Oracle supports the following subflows:
 
@@ -223,15 +223,15 @@ Role required:
 
 ## Sourcing and Procurement Operations Integration with Oracle EBS
 
-The [[psm-overview|Sourcing and Procurement Operations]] Integration with Oracle EBS supports the following subflows:
+The Sourcing and Procurement Operations Integration with Oracle EBS supports the following subflows:
 
 |Flow|Description|
 |----|-----------|
-|Create or updates or cancels purchase order|Creates or updates or cancels [[purchase-order-table|purchase order]] in Oracle EBS.|
+|Create or updates or cancels purchase order|Creates or updates or cancels purchase order in Oracle EBS.|
 
 ## Accounts Payable Operations Integration with Oracle EBS
 
-The [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] Integration with Oracle EBS supports the following subflows:
+The Accounts Payable Operations Integration with Oracle EBS supports the following subflows:
 
 |Flow|Description|
 |----|-----------|
@@ -246,13 +246,3 @@ You can create a copy of the a flow or subflow and make the necessary modificati
 
 **Parent Topic:**[Use Source-to-Pay integration with Oracle EBS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/using-source-to-pay-oracle-ebs-integration.md)
 
-## Related
-
-- [[invoices|Invoices]]
-- [[payment-terms|Payment terms]]
-- [[master-data-integration|Primary data integration]]
-- [[supplier|Supplier]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[psm-overview|Sourcing and Procurement Operations]]
-- [[purchase-order-table|Purchase order]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]

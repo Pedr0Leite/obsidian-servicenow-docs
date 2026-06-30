@@ -12,11 +12,11 @@ breadcrumb: [Structured workflows for BIAs, Manage, Business Continuity Manageme
 
 # Using latest assessment template for conducting BIAs
 
-Beginning with the Yokohama release, you can use the latest assessment template for conducting a [[bia-uib|Business Impact Analysis]] \(BIA\). The BIA template is now integrated with the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]], enabling you to use the Smart Assessment along with the legacy assessment.
+Beginning with the Yokohama release, you can use the latest assessment template for conducting a Business Impact Analysis \(BIA\). The BIA template is now integrated with the Smart Assessment Engine, enabling you to use the Smart Assessment along with the legacy assessment.
 
 ## Integrating BIA with the Smart Assessment Engine
 
-Integrating business impact analysis \(BIA\) with the Smart Assessment Engine allows you to configure impact analysis assessments with various question types, set up multiple impact [[airc-assessment-templates|assessment templates]] for a single BIA, and calculate metrics such as Recovery Time Objective \(RTO\), Recovery Point Objective \(RPO\), Recovery Tier \(RT\), Maximum tolerable period of disruption \(MTPD\), and other based on user responses.
+Integrating business impact analysis \(BIA\) with the Smart Assessment Engine allows you to configure impact analysis assessments with various question types, set up multiple impact assessment templates for a single BIA, and calculate metrics such as Recovery Time Objective \(RTO\), Recovery Point Objective \(RPO\), Recovery Tier \(RT\), Maximum tolerable period of disruption \(MTPD\), and other based on user responses.
 
 A BIA created with the Smart Assessment template includes Smart Assessment instances in the assessment section. The assessment template introduced with the Smart Assessment Engine allows you to create various question types and automate responses from existing data sources. BCM users can complete the assessment, and upon submission, the automation set up by BCM administrators updates impact analysis data, including recovery time objective \(RTO\), recovery point objective \(RPO\), recovery tier, or maximum tolerable downtime, based on the defined configuration.
 
@@ -32,7 +32,7 @@ For BIA integration with the Smart Assessment Engine, these BCM components are u
 
 The ServiceNow® Smart Assessment Engine \(SAE\) application helps you to reduce the manual burden and costs of your assessment processes through automation.
 
-You can create the assessment templates and add instructions, questions, and reference information by [[sae-template-designer|using the template designer]] in the Smart Assessment Engine application.
+You can create the assessment templates and add instructions, questions, and reference information by using the template designer in the Smart Assessment Engine application.
 
 The Smart Assessment Engine uses the rule engine, where the rules are based on user responses. You can fill one assessment template \(only one assessment for RTO, RPO, and RT\) or multiple assessment templates \(one for each RTO, RPO, and RT\).
 
@@ -42,7 +42,7 @@ The workflow for integrating BIA with the Smart Assessment Engine is shown in th
 
 ## Configuring BIA templates
 
-You can configure the BIA template with the legacy or Smart Assessment. The legacy assessment shows only drop-down questions, while the Smart Assessment enables multiple question types and configures RTO, RPO, and recovery tier calculations based on the responses to the questionnaire. For more information, see [[bcm-admin-tasks|Setup for a business impact analysis]].
+You can configure the BIA template with the legacy or Smart Assessment. The legacy assessment shows only drop-down questions, while the Smart Assessment enables multiple question types and configures RTO, RPO, and recovery tier calculations based on the responses to the questionnaire. For more information, see [Setup for a business impact analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bcm-admin-tasks.md).
 
 ## Managing life cycle of Smart Assessment templates in BIAs
 
@@ -124,7 +124,7 @@ BCM administrator role that can perform these tasks:-   Read and write the Smart
 
 </td><td>
 
--   \[sn\_smart\_asmt.template\_manager\]: Provides access to [[create-sm-asmt-temp-as-ws|create a Smart Assessment template]].
+-   \[sn\_smart\_asmt.template\_manager\]: Provides access to create a Smart Assessment template.
 -   \[sn\_smart\_imp\_auto.automation\_creator\]: Contains the Smart Assessment impact automation creator role.
 
 </td></tr><tr><td>
@@ -248,14 +248,5 @@ The UI page containing only the Smart Assessment component is created in the BCM
 -   The **Open assessment** action opens the Smart Assessment page for you to read the responses.
 -   The **Edit assessment** action opens the Smart Assessment page for you to edit the responses.
 
-**Parent Topic:**[[bia-tasks-performed-by-bia-owner|Structured workflows for BIAs]]
+**Parent Topic:**[Structured workflows for BIAs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bia-tasks-performed-by-bia-owner.md)
 
-## Related
-
-- [[bcm-admin-tasks|Setup for a business impact analysis]]
-- [[bia-tasks-performed-by-bia-owner|Structured workflows for BIAs]]
-- [[bia-uib|Business impact analysis]]
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]
-- [[airc-assessment-templates|Assessment templates]]
-- [[sae-template-designer|Using the template designer]]
-- [[create-sm-asmt-temp-as-ws|Create a Smart Assessment template]]

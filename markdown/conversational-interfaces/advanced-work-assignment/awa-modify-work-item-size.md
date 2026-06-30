@@ -24,9 +24,9 @@ Role required: awa\_admin or admin
 
 1.  Navigate to the service channel settings through one of the following navigation paths:
 
-    -   **All** &gt; **[[awa-application-landing-page|Advanced Work Assignment]]** &gt; **Home**.
+    -   **All** &gt; **Advanced Work Assignment** &gt; **Home**.
 
-        In the Essential settings section, select **Set up [[awa-service-channels|service channels]]**.
+        In the Essential settings section, select **Set up service channels**.
 
     -   **All** &gt; **Advanced Work Assignment** &gt; **Service Channels**.
 2.  Select the service channel.
@@ -83,7 +83,7 @@ Condition mode
 
 </td><td>
 
-Type of condition for routing [[awa-work-items|work items]] using this size override:
+Type of condition for routing work items using this size override:
 
 -   Simple: Specify a routine condition using the condition builder.
 -   Advanced: Specify a JavaScript scripted condition.
@@ -108,8 +108,4 @@ JavaScript condition statement that specifies the override work item size. The c
 </td></tr></tbody>
 </table>5.  Select **Submit** to create the override or **Update** to change the override.
 
-## Related
 
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[awa-service-channels|Service channels]]
-- [[awa-work-items|Work items]]

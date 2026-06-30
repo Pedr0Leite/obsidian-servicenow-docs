@@ -15,13 +15,13 @@ breadcrumb: [Virtual Agent, Conversational Interfaces]
 
 # Exploring Virtual Agent
 
-The ServiceNow [[virtual-agent-landing-page|Virtual Agent]] platform provides user assistance through conversations within an intelligent messaging interface. Design and build automated conversations with an out-of-the-box system that help your users quickly obtain information, make decisions, and perform common work tasks with Virtual Agent.
+The ServiceNow Virtual Agent platform provides user assistance through conversations within an intelligent messaging interface. Design and build automated conversations with an out-of-the-box system that help your users quickly obtain information, make decisions, and perform common work tasks with Virtual Agent.
 
 ## Overview of Virtual Agent
 
 Virtual Agent helps solve ordinary issues and delivers results for common requests, leaving your agents and technicians free to focus on more complex user issues. You can change the look and feel of the chat experience to suit each audience for your business, including running your chatbot in a variety of common or custom messaging channels. Monitor your bot's success with the Conversational Analytics dashboard.
 
-When you add [[now-assist-in-va-landing|Now Assist in Virtual Agent]] skills, your developers have access to large language model \(LLM\) topic discovery. The Now Assist topics skill includes LLM controls that make topic authoring easier so that you can deliver self-service solutions more quickly.
+When you add Now Assist in Virtual Agent skills, your developers have access to large language model \(LLM\) topic discovery. The Now Assist topics skill includes LLM controls that make topic authoring easier so that you can deliver self-service solutions more quickly.
 
 \[Omitted image "va-landing-page-overview.png"\] Alt text: Virtual Agent increases deflection and improves self-service in a customizable environment. With Now Assist in Virtual Agent, development time is faster and uses generative AI LLM topic discovery.
 
@@ -39,7 +39,7 @@ Pre-built Virtual Agent topics are available from the ServiceNow Store. These to
 
 ## Virtual Agent and Virtual Agent Lite
 
-The Virtual Agent platform is available as a professional subscription or in a limited version \([[va-lite|Virtual Agent Lite]]\) that is automatically included with the ServiceNow AI Platform®.
+The Virtual Agent platform is available as a professional subscription or in a limited version \(Virtual Agent Lite\) that is automatically included with the ServiceNow AI Platform®.
 
 Virtual Agent Professional provides all the core functionality for creating and deploying Virtual Agent conversations. Virtual Agent includes the following features, which are automatically installed with the Glide Virtual Agent plugin \(com.glide.cs.chatbot\):
 
@@ -47,7 +47,7 @@ Virtual Agent Professional provides all the core functionality for creating and 
 -   Virtual Agent chat widget
 -   Virtual Agent notifications
 -   Conversational custom chat integration framework
--   [[ci-console|Conversational Interfaces console]] for admin configuration
+-   Conversational Interfaces console for admin configuration
 -   Topic Recommendations \(ServiceNow Store app\)
 -   Conversational Analytics \(ServiceNow Store app\)
 
@@ -81,7 +81,7 @@ virtual\_agent\_admin or admin
 
 </td></tr><tr><td>
 
-Empower users to self-serve, using NLU or LLM topic discovery, or a combination of both. Options include AI agents, [[nava-enhanced-chat|enhanced chat]] with AI Search, conversational catalog skills, and more.
+Empower users to self-serve, using NLU or LLM topic discovery, or a combination of both. Options include AI agents, enhanced chat with AI Search, conversational catalog skills, and more.
 
 </td><td>
 
@@ -113,7 +113,7 @@ Create custom chat experiences for users from where they run Virtual Agent.
 
 [Configuring assistants overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/configure-now-assist-va.md)
 
- [[branding-chat-client|Branding your chat client]]
+ [Branding your chat client](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/branding-chat-client.md)
 
  [Customizing a Virtual Agent chat experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-conversation-settings.md)
 
@@ -183,7 +183,7 @@ virtual\_agent\_admin or admin
 
 </td></tr><tr><td>
 
-Integrate with other ServiceNow AI Platform applications, such as AI Search. Use Workflow Studio to add automated workflows to conversation topics, and access many third-party services using Integration Hub [[topic-spokes-subtab-pae|spokes]].
+Integrate with other ServiceNow AI Platform applications, such as AI Search. Use Workflow Studio to add automated workflows to conversation topics, and access many third-party services using Integration Hub spokes.
 
 </td><td>
 
@@ -199,7 +199,7 @@ virtual\_agent\_admin or admin
 
 </td></tr><tr><td>
 
-The [[virtual-agent-api-landing-page|Virtual Agent API]] enables developers, advanced users, and admins to use Virtual Agent as a standalone or secondary bot in your chat environment. Use Virtual Agent Bot Interconnect as the primary bot in a diverse chat environment.
+The Virtual Agent API enables developers, advanced users, and admins to use Virtual Agent as a standalone or secondary bot in your chat environment. Use Virtual Agent Bot Interconnect as the primary bot in a diverse chat environment.
 
 </td><td>
 
@@ -214,13 +214,3 @@ virtual\_agent\_admin or admin
 </td></tr></tbody>
 </table>**Note:** For developer training, go to the [Developer's Portal](https://developer.servicenow.com/dev.do) \(login required\). Navigate to **Learn** &gt; **Courses** &gt; **Virtual Agent**.
 
-## Related
-
-- [[branding-chat-client|Branding your chat client]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]
-- [[va-lite|Virtual Agent Lite]]
-- [[ci-console|Conversational Interfaces Console]]
-- [[nava-enhanced-chat|Enhanced chat]]
-- [[topic-spokes-subtab-pae|Spokes]]
-- [[virtual-agent-api-landing-page|Virtual Agent API]]

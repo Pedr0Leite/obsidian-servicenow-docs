@@ -16,7 +16,7 @@ Add optional activities to different stages in a playbook. Although customer pro
 
 ## Before you begin
 
-This feature must be configured by an administrator. If optional activities aren’t configured for a playbook, the **Add Activity** menu item isn’t available. For more information, see [[playbook-config-activity-visibility|Configure playbook stage and activity visibility]].
+This feature must be configured by an administrator. If optional activities aren’t configured for a playbook, the **Add Activity** menu item isn’t available. For more information, see [Configure playbook stage and activity visibility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/playbook-config-activity-visibility.md).
 
 Role required: agent
 
@@ -24,11 +24,11 @@ Role required: agent
 
 You can add some optional activities to any stage while you can add others only to a single stage. You can't insert an optional activity as the first activity in a stage or between two completed activities. An approval request optional activity is supported only for a business-to-business \(B2B\) use case.
 
-An agent or a fulfiller can insert an approval request optional activity during a  playbook  run in process-based page variants for complaint case type \(in the triage and research stage\) or [[onboarding-case-type-overview|onboarding case type]] \(in the due diligence stage\).
+An agent or a fulfiller can insert an approval request optional activity during a  playbook  run in process-based page variants for complaint case type \(in the triage and research stage\) or onboarding case type \(in the due diligence stage\).
 
 ## Procedure
 
-1.  Open a playbook in **[[csm-workspaces-configure|CSM Configurable Workspace]]**.
+1.  Open a playbook in **CSM Configurable Workspace**.
 
 2.  Find a stage by selecting the More actions menu.
 
@@ -44,8 +44,4 @@ An agent or a fulfiller can insert an approval request optional activity during 
 
 6.  Select **Done**.
 
-## Related
 
-- [[playbook-config-activity-visibility|Configure playbook stage and activity visibility]]
-- [[onboarding-case-type-overview|Onboarding case type]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

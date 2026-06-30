@@ -14,14 +14,14 @@ breadcrumb: [Configuring Edge Encryption, Edge Encryption, Encryption]
 
 # Increase debug logging for the Edge Encryption proxy
 
-Increase the level of logging to interpret the [[logs|logs]] and debug issues with the proxy.
+Increase the level of logging to interpret the logs and debug issues with the proxy.
 
-There are currently three options for increasing debug logging in the [[edge-encryption|Edge Encryption]] proxy. Increase the level of logging to debug issues provide technical support with information to look into the issue with the benefit of more verbose log statements.
+There are currently three options for increasing debug logging in the Edge Encryption proxy. Increase the level of logging to debug issues provide technical support with information to look into the issue with the benefit of more verbose log statements.
 
 Depending on the issue being debugged, set up debug logging in one of three ways:
 
 -   Debugging issues other than SSL connectivity
--   Logging timing [[ca-metrics|metrics]] for requests through the proxy
+-   Logging timing metrics for requests through the proxy
 -   Debugging issues with SSL connectivity between the Edge Encryption Proxy and the instance
 
 For all debug cases, you may view and interpret the logs in your own or open an incident to get an interpretation from ServiceNow technical support providing the description of the issue and how it’s reproduced.
@@ -67,7 +67,7 @@ After making the property change, you can see additional detail in your `$proxy_
 
 ## Logging timing metrics for requests through the proxy
 
-Enable timing metric logging to add a metric statement for each [[c_requestAPI|request]] handled by the Edge Encryption proxy. Each of these timing metric log statements contains useful information about the request, such as processing times and which [[encryption-landing|encryption]] rule was used.
+Enable timing metric logging to add a metric statement for each request handled by the Edge Encryption proxy. Each of these timing metric log statements contains useful information about the request, such as processing times and which encryption rule was used.
 
 ### Before you begin
 
@@ -88,7 +88,7 @@ The additional logging settings are added to the `$proxy_installation_location/c
     appender.timinglog.filePattern=../logs/$${date:yyyy-MM}/edgenetwork-%d{yyyy-MM-dd-HH}-%i.log.gz
     appender.timinglog.layout.type=PatternLayout
     appender.timinglog.layout.pattern=%d [%t] %-5p %m%n
-    appender.timinglog.[[ca-policies|policies]].type=Policies
+    appender.timinglog.policies.type=Policies
     appender.timinglog.policies.size.type=SizeBasedTriggeringPolicy
     appender.timinglog.policies.size.size=500MB
     appender.timinglog.strategy.type=DefaultRolloverStrategy
@@ -178,11 +178,3 @@ Role required: admin
 
 After reproducing the issue debug log statements related to the SSL exchange can be found in the`$proxy_installation_location/logs/wrapper_<current date>.log` file. When you are finished debugging. You can remote the additional logging by removing or commenting out the line created in the previous steps.
 
-## Related
-
-- [[logs|Logs]]
-- [[edge-encryption|Edge Encryption]]
-- [[ca-metrics|Metrics]]
-- [[c_requestAPI|request]]
-- [[encryption-landing|Encryption]]
-- [[ca-policies|Policies]]

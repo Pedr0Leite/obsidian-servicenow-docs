@@ -24,7 +24,7 @@ Role required: none
 
 1.  Navigate to **All** &gt; **Vaccination Status** &gt; **Request vaccine exemption**.
 
-    **Note:** To request a vaccine exemption in the [[mobile-employee-experience|Now Mobile app]], navigate to **Health** &gt; **Follow These Safety Practices** &gt; **Request Vaccine Exemption**.
+    **Note:** To request a vaccine exemption in the Now Mobile app, navigate to **Health** &gt; **Follow These Safety Practices** &gt; **Request Vaccine Exemption**.
 
 2.  On the form, fill in the fields.
 
@@ -44,9 +44,5 @@ Role required: none
 
 Your vaccine exemption request is submitted to your organization for an administrator or a managerto review.
 
-**Parent Topic:**[[vaccination-status|Vaccination Status]]
+**Parent Topic:**[Vaccination Status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/vaccination-status.md)
 
-## Related
-
-- [[vaccination-status|Vaccination Status]]
-- [[mobile-employee-experience|Now Mobile app]]

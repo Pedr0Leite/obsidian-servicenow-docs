@@ -14,7 +14,7 @@ breadcrumb: [Zing computes document scores using three components, Zing text ind
 
 # Set the relative weight of a field
 
-To improve search [[hs-results|results]], the Zing search engine assigns to each potential match a numeric score that represents its relevancy to the query.
+To improve search results, the Zing search engine assigns to each potential match a numeric score that represents its relevancy to the query.
 
 ## Before you begin
 
@@ -42,11 +42,11 @@ When scoring records, Zing compares the relative weights of fields that produced
 
 1.  Navigate to **All** &gt; **System Definition** &gt; **Dictionary**.
 
-2.  Open the [[c_SystemDictionary|system dictionary]] record for the field's table and column.
+2.  Open the system dictionary record for the field's table and column.
 
     For example, to modify the ts\_weight for the kb\_knowledge.number field, open the dictionary record with **Table** "kb\_knowledge" and **Column name** "number".
 
-3.  In the [[r_DictionaryEntryForm|Dictionary Entry form]]'s **Attributes** field, perform one of the following steps:
+3.  In the Dictionary Entry form's **Attributes** field, perform one of the following steps:
 
     -   If a ts\_weight attribute appears in the list of attributes, change its integer value to the relative weight you want to set for the field.
     -   If no ts\_weight attribute appears in the list, add a new `ts_weight=<value>` comma-separated list entry, where &lt;value&gt; is the relative weight you want to set for the field.
@@ -72,8 +72,3 @@ Once Zing finishes regenerating the text index for the table, search result scor
 
 [Score search terms by inverse document frequency \(IDF\)]()
 
-## Related
-
-- [[hs-results|Results]]
-- [[c_SystemDictionary|System dictionary]]
-- [[r_DictionaryEntryForm|Dictionary entry form]]

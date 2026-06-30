@@ -14,7 +14,7 @@ breadcrumb: [Configure Now Assist for HAM, Configure, Hardware Asset Management,
 
 # Install Now Assist for Hardware Asset Management \(HAM\)
 
-If you have the admin role, you can install the [[now-assist-ham|Now Assist for Hardware Asset Management \(HAM\)]] application. Now Assist for HAM enables asset managers and [[c_Procurement|procurement]] users to use the capabilities of agentic workflows in [[ham-landing-page|Hardware Asset Management]].
+If you have the admin role, you can install the Now Assist for Hardware Asset Management \(HAM\) application. Now Assist for HAM enables asset managers and procurement users to use the capabilities of agentic workflows in Hardware Asset Management.
 
 ## Before you begin
 
@@ -48,8 +48,4 @@ The agentic workflow and the AI agents included in the Now Assist for Hardware A
 
         **Note:** The activation process can take up to 24 hours.
 
-## Related
 
-- [[now-assist-ham|Now Assist for Hardware Asset Management \(HAM\)]]
-- [[c_Procurement|Procurement]]
-- [[ham-landing-page|Hardware Asset Management]]

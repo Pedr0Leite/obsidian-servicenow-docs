@@ -14,7 +14,7 @@ breadcrumb: [Permit-to-work system, Use, Health and Safety Risk Management, Heal
 
 # Add an action to a health and safety permit-to-work request
 
-Create a [[health-safety-overview|Health and Safety]] action to a requested permit-to-work. This helps to address the root cause of any reported safety occurrence.
+Create a Health and Safety action to a requested permit-to-work. This helps to address the root cause of any reported safety occurrence.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ You can add actions from the Actions tab on a Health and Safety record or by usi
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Health and Safety** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
 2.  Select the risk management icon \(\[Omitted image "icon-risk-assessment.png"\] Alt text: Risk assessment icon\).
 
@@ -47,7 +47,3 @@ You can add actions from the Actions tab on a Health and Safety record or by usi
 
 **Parent Topic:**[Permit-to-work system](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-permit-to-work.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]

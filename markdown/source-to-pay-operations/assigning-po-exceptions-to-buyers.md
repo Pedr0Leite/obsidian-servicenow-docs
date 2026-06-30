@@ -13,7 +13,7 @@ breadcrumb: [Configure, Purchase Order Management, Source-to-Pay Operations, Fin
 
 # Assigning purchase order exceptions to buyers
 
-Use queues in [[advanced-work-assignment|Advanced Work Assignment]] to assign [[purchase-order-table|purchase order]] exceptions to the appropriate buyer.
+Use queues in Advanced Work Assignment to assign purchase order exceptions to the appropriate buyer.
 
 You can leverage the following default queues:
 
@@ -24,7 +24,7 @@ These queues are preconfigured to assign purchase order exceptions depending on 
 
 Modify these existing queues or create a queue by selecting the purchase order exceptions channel. For information on configuring a queue, see [Configure the Sourcing and Procurement Operations queues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/configure-awa-spo-queues.md).
 
-**Parent Topic:**[[configure-purch-order-mgmt|Configure Purchase Order Management]]
+**Parent Topic:**[Configure Purchase Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/configure-purch-order-mgmt.md)
 
 **Related topics**  
 
@@ -35,8 +35,3 @@ Modify these existing queues or create a queue by selecting the purchase order e
 
 [Domain separation and Purchase Order Management]()
 
-## Related
-
-- [[configure-purch-order-mgmt|Configure Purchase Order Management]]
-- [[advanced-work-assignment|advanced work assignment]]
-- [[purchase-order-table|Purchase order]]

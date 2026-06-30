@@ -15,11 +15,11 @@ breadcrumb: [Now Assist Q&amp;A Genius Results, Configuring Now Assist in AI Sea
 
 # Enabling Now Assist Q&amp;A Genius Results
 
-As a search administrator, you can use the [[now-assist-qna-genius-results|Now Assist Q&amp;A Genius Results]] skill in [[ia-ai-search|AI Search]] portals and mobile applications by enabling Now Assist Q&amp;A Genius Results in search profiles. You can also use the skill in global search by enabling Now Assist Q&amp;A Genius Results in the [[ais-next-experience-app|AI Search for Next Experience]] application.
+As a search administrator, you can use the Now Assist Q&amp;A Genius Results skill in AI Search portals and mobile applications by enabling Now Assist Q&amp;A Genius Results in search profiles. You can also use the skill in global search by enabling Now Assist Q&amp;A Genius Results in the AI Search for Next Experience application.
 
 ## Enable Now Assist Q&amp;A Genius Results in AI Search portals and mobile applications
 
-For details on how to enable Now Assist Q&amp;A Genius Results and other Now Assist [[genius-results-ais|Genius Results]] in your AI Search portals and mobile applications, see [Enable Now Assist Genius Results in AI Search portals and mobile applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/enable-now-assist-gr-ais-apps.md).
+For details on how to enable Now Assist Q&amp;A Genius Results and other Now Assist Genius Results in your AI Search portals and mobile applications, see [Enable Now Assist Genius Results in AI Search portals and mobile applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/enable-now-assist-gr-ais-apps.md).
 
 **Parent Topic:**[Now Assist Q&amp;A Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/now-assist-qna-genius-results.md)
 
@@ -39,7 +39,7 @@ Role required: ais\_admin
 
 ### About this task
 
-As a search administrator, you can enable agentic AI model answer generation for Knowledge article [[hs-results|results]] in global searches by adding the Now Assist Q&amp;A Genius Result configuration to the Next Experience Search Configuration search profile used by [AI Search for Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/ais-next-experience-app.md).
+As a search administrator, you can enable agentic AI model answer generation for Knowledge article results in global searches by adding the Now Assist Q&amp;A Genius Result configuration to the Next Experience Search Configuration search profile used by [AI Search for Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/ais-next-experience-app.md).
 
 **Note:** Linking the Now Assist Q&amp;A Genius Result configuration to the Next Experience Search Configuration search profile changes the status of the Now Assist Q&amp;A Genius Results skill to **Active** in the Now Assist Admin console. The skill remains active as long as any search profile includes a link to the Now Assist Q&amp;A Genius Result configuration.
 
@@ -53,13 +53,13 @@ When you enable Now Assist Q&amp;A Genius Results in global search, they're enab
 
     If you have version 3.x or a later version of the AI Search for Next Experience installed, or are on Vancouver or a later release, go to the next step.
 
-    1.  Navigate to **All** &gt; **Entity View Action Mapper \(EVAM\)** &gt; **EVAM [[clone-exclusions-preservers-cleanupscripts|Definitions]]**.
+    1.  Navigate to **All** &gt; **Entity View Action Mapper \(EVAM\)** &gt; **EVAM Definitions**.
 
     2.  Open the AI Search For Next Search definition record by selecting it from the list.
 
     3.  In the EVAM Datasource M2Ms related list, select **Link Existing**.
 
-    4.  On the EVAM Datasource M2M form, populate the **Datasource** field with a [[reference-email-admin|reference]] to the Genius Result Data Source record from the EVAM Datasources table by using the Lookup using list icon \[Omitted image "icon-lookup-using-list.png"\] Alt text:.
+    4.  On the EVAM Datasource M2M form, populate the **Datasource** field with a reference to the Genius Result Data Source record from the EVAM Datasources table by using the Lookup using list icon \[Omitted image "icon-lookup-using-list.png"\] Alt text:.
 
     5.  Select **Submit**.
 
@@ -73,7 +73,7 @@ When you enable Now Assist Q&amp;A Genius Results in global search, they're enab
 
     3.  In the Genius Results related list, select **Link Existing**.
 
-    4.  On the [[search-prof-gr-mapping-form-ais|Search Profile - Genius Result Mapping form]], fill in the following field values.
+    4.  On the Search Profile - Genius Result Mapping form, fill in the following field values.
 
 <table id="table_hjh_qzj_k1c"><thead><tr><th>
 
@@ -97,7 +97,7 @@ Order
 
 </td><td>
 
-Specify the evaluation order for the Now Assist Q&amp;A Genius Result configuration in the search profile. AI Search evaluates active Genius Result [[clone-configurations-tab|configurations]] for a search profile in order, from lowest **Order** field value to highest. For more details on the evaluation order for Genius Results, see [Set the evaluation order for Genius Result configurations in a search profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/set-gr-eval-order-srch-profile-ais.md).
+Specify the evaluation order for the Now Assist Q&amp;A Genius Result configuration in the search profile. AI Search evaluates active Genius Result configurations for a search profile in order, from lowest **Order** field value to highest. For more details on the evaluation order for Genius Results, see [Set the evaluation order for Genius Result configurations in a search profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/set-gr-eval-order-srch-profile-ais.md).
 
 </td></tr></tbody>
 </table>    5.  Select **Submit**.
@@ -113,14 +113,3 @@ The Now Assist Q&amp;A Genius Result configuration is enabled for global searche
 
 In the Now Assist Admin console, the status for the Now Assist Q&amp;A Genius Results skill is **Active**.
 
-## Related
-
-- [[now-assist-qna-genius-results|Now Assist Q&amp;A Genius Results]]
-- [[ia-ai-search|AI Search]]
-- [[ais-next-experience-app|AI Search for Next Experience]]
-- [[genius-results-ais|Genius Results]]
-- [[hs-results|Results]]
-- [[clone-exclusions-preservers-cleanupscripts|Definitions]]
-- [[reference-email-admin|Reference]]
-- [[search-prof-gr-mapping-form-ais|Search Profile - Genius Result Mapping form]]
-- [[clone-configurations-tab|Configurations]]

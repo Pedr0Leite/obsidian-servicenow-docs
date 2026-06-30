@@ -14,7 +14,7 @@ breadcrumb: [Rightsizing resources, Exploring Cloud Cost Management, Cloud Cost 
 
 # Rightsizing analysis for Google Cloud
 
-[[cloud-insights-landing-page|Cloud Cost Management]] uses an optimized Rightsizing process for each provider.
+Cloud Cost Management uses an optimized Rightsizing process for each provider.
 
 ## How Rightsizing analysis works for Google Cloud
 
@@ -22,11 +22,7 @@ The Google Cloud compute engine generates the recommendations that appear in the
 
 For details on how the values are generated, see [Google Cloud documentation](https://cloud.google.com/docs).
 
-**Note:** The Google Cloud console may show the same resources for both [[um-cloudin|Unused resources]] and Rightsizing recommendations. If the same resources are displayed, Cloud Cost Management shows the information in Unused resources and excludes it from the Rightsizing recommendations with the reason, `Recommendation already present in unused`.
+**Note:** The Google Cloud console may show the same resources for both Unused resources and Rightsizing recommendations. If the same resources are displayed, Cloud Cost Management shows the information in Unused resources and excludes it from the Rightsizing recommendations with the reason, `Recommendation already present in unused`.
 
 To get the recommendations from the Google Cloud console and perform start, stop, resize, and delete operations, you must have specific roles and permissions. For detailed information on these permissions, see [Setup roles for Google Cloud billing download](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/gcp-user-policy-create-cloudin.md).
 
-## Related
-
-- [[cloud-insights-landing-page|Cloud Cost Management]]
-- [[um-cloudin|Unused resources]]

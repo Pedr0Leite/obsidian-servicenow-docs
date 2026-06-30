@@ -14,7 +14,7 @@ breadcrumb: [Service Operations Workspace, Configuring SOW for ITOM, Service Ope
 
 # Delete a user view in Service Operations Workspace
 
-Delete a [[workspace-dashboard-use|Service Operations Workspace]] user view you no longer need. You perform this action from the [[c_EM|Event Management]] menu, outside of Service Operations Workspace.
+Delete a Service Operations Workspace user view you no longer need. You perform this action from the Event Management menu, outside of Service Operations Workspace.
 
 ## Before you begin
 
@@ -37,7 +37,3 @@ Role required: evt\_mgmt\_admin
 
 **Parent Topic:**[Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/workspace-dashboard-use.md)
 
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[c_EM|Event Management]]

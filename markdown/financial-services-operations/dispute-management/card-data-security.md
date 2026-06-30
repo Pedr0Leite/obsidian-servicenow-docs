@@ -15,7 +15,7 @@ breadcrumb: [Dispute Management, Banking applications, Financial Services Operat
 
 # Card Data Security
 
-The Card data security application embeds a tokenization service that enables [[fso-overview|Financial Services]] Operations \(FSO\) customers to configure the data that is tokenized and detokenized for Dispute Cases and Dispute Transactions to meet [[payment-card-application|Payment Card]] Industry \(PCI\) requirements \("Card Data Security"\).
+The Card data security application embeds a tokenization service that enables Financial Services Operations \(FSO\) customers to configure the data that is tokenized and detokenized for Dispute Cases and Dispute Transactions to meet Payment Card Industry \(PCI\) requirements \("Card Data Security"\).
 
 ## Get started
 
@@ -48,7 +48,3 @@ The Card data security application embeds a tokenization service that enables [[
 
 **Important:** Customer is responsible for implementation of this application, including decisions relating to tokenization/detokenization of data. Customer remains solely responsible for complying with applicable legal obligations, including Payment Card Industry Data Security Standards \(PCI DSS\).
 
-## Related
-
-- [[fso-overview|Financial Services]]
-- [[payment-card-application|Payment card]]

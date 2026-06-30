@@ -14,7 +14,7 @@ breadcrumb: [Legacy: Performance Analytics ITSM Dashboards, Platform Analytics I
 
 View the open incidents, problems, and requests that belong to you and your assignment groups through personalized reports. You can also see which incidents that belong to your assignment groups exceed the Spotlight threshold.
 
-Agents can use [[it-agent-dashboard-sow|IT Agent dashboard for Service Operations Workspace]] to see their own and their team's assignments and set priorities.
+Agents can use [IT Agent dashboard for Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/it-agent-dashboard-sow.md) to see their own and their team's assignments and set priorities.
 
 \[Omitted image "itsm-it-agent.gif"\] Alt text: Animated tour of the IT Agent dashboard
 
@@ -40,7 +40,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Open [[process-unassigned-incident|unassigned incidents]]
+Open unassigned incidents
 
 </td><td>
 
@@ -231,10 +231,5 @@ List\[Omitted image "score-list-tile.svg"\] Alt text: List icon
 A list of all incidents that one of your groups own and that exceed the Spotlight threshold
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[itsm-dashboards-content-pack|Legacy: Performance Analytics ITSM Dashboards]]
+</table>**Parent Topic:**[Legacy: Performance Analytics ITSM Dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-dashboards-content-pack.md)
 
-## Related
-
-- [[it-agent-dashboard-sow|IT Agent dashboard for Service Operations Workspace]]
-- [[itsm-dashboards-content-pack|itsm dashboards content pack]]
-- [[process-unassigned-incident|Unassigned incidents]]

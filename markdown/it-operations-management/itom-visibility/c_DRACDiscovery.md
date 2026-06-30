@@ -16,7 +16,7 @@ breadcrumb: [Network device discovery, Data collected by ITOM Visibility, ITOM V
 
 The Dell™ Remote Assistant Card \(DRAC\) and Integrated Remote Assistance Card \(iDRAC\) provide users with tools and functionality to monitor, troubleshoot, and repair servers. You can generate DNS URLs to access out-of-band devices when security prevents access from IP addresses.
 
-To identify the DRAC, [[r-discovery|Discovery]] uses the **SNMP – DRAC** probe. This probe uses SNMPv1 and SMNPv2c. Out-of-band devices have a dedicated management channel for device maintenance. System administrators can remotely monitor and manage devices with the dedicated management channel, including hardware sensor monitoring, access to local media drives, or adjusting BIOS settings. DNS URLs can be generated for out-of-band devices to access the out-of-band device page when the SSL certificate forbids navigating through the IP address.
+To identify the DRAC, Discovery uses the **SNMP – DRAC** probe. This probe uses SNMPv1 and SMNPv2c. Out-of-band devices have a dedicated management channel for device maintenance. System administrators can remotely monitor and manage devices with the dedicated management channel, including hardware sensor monitoring, access to local media drives, or adjusting BIOS settings. DNS URLs can be generated for out-of-band devices to access the out-of-band device page when the SSL certificate forbids navigating through the IP address.
 
 ## Prerequisites
 
@@ -24,7 +24,7 @@ To identify the DRAC, [[r-discovery|Discovery]] uses the **SNMP – DRAC** probe
 
     SNMP credentials are required to discover DRAC devices. For more information, see [SNMP credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_SNMPCredentials.md).
 
--   **Run [[c_NetworkDiscovery|network discovery]]**
+-   **Run network discovery**
 
     For information on configuring and running network discovery to discover DRAC devices, see [Run network Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_NetworkDiscovery.md).
 
@@ -49,7 +49,3 @@ A **DNS URL** is generated for configuration items in the **Out-Of-Band Device**
 
 **Parent Topic:**[Network device discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_NetworkDevices.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_NetworkDiscovery|Network discovery]]

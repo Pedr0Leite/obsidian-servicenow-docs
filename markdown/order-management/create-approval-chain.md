@@ -12,7 +12,7 @@ breadcrumb: [Advanced Approval Management, Configure, price, quote apps, Configu
 
 # Create approval chains
 
-Optionally create approval chains that control the sequence in which two or more approval [[rules_101|rules]] \(steps\) are run.
+Optionally create approval chains that control the sequence in which two or more approval rules \(steps\) are run.
 
 ## Before you begin
 
@@ -42,9 +42,6 @@ Use chains to control the execution of approval steps that are run based on the 
 
     For example, entering 1 as the **Order** indicates that this chain is run first in the approval workflow sequence.
 
-7.  Select the **Approval configuration** that identifies the [[order-mgt-overview|Sales Customer Relationship Management]] entity for the approval workflows, such as Quote.
+7.  Select the **Approval configuration** that identifies the Sales Customer Relationship Management entity for the approval workflows, such as Quote.
 
-## Related
 
-- [[rules_101|Rules]]
-- [[order-mgt-overview|Sales Customer Relationship Management]]

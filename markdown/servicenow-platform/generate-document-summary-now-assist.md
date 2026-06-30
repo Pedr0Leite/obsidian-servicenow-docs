@@ -12,11 +12,11 @@ breadcrumb: [Use, Now Assist in Document Management, Manage content capabilities
 
 # Generate a document summary by using Now Assist in Document Management
 
-Generate a document summary to get quick insights into key information from documents by using [[now-assist-document-management|Now Assist in Document Management]].
+Generate a document summary to get quick insights into key information from documents by using Now Assist in Document Management.
 
 ## Before you begin
 
-Configure the Smart documents skill. For more information, see [[configure-skill-smart-documents|Configure the Smart Documents Skill for Now Assist in Document Management]].
+Configure the Smart documents skill. For more information, see [Configure the Smart Documents Skill for Now Assist in Document Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configure-skill-smart-documents.md).
 
 Role required: sn\_nowassist\_admin.nsa\_admin
 
@@ -28,7 +28,7 @@ Role required: sn\_nowassist\_admin.nsa\_admin
 
     For example, an incident record.
 
-3.  Open the attached document to view it in the [[Documentviewer|document viewer]].
+3.  Open the attached document to view it in the document viewer.
 
 4.  Generate a summary of the document by selecting **Ask Now Assist**.
 
@@ -40,8 +40,4 @@ Role required: sn\_nowassist\_admin.nsa\_admin
 
     The summary is copied and can easily be shared across emails, reports, or collaboration tools.
 
-## Related
 
-- [[configure-skill-smart-documents|Configure the Smart Documents Skill for Now Assist in Document Management]]
-- [[now-assist-document-management|Now Assist in Document Management]]
-- [[Documentviewer|Document Viewer]]

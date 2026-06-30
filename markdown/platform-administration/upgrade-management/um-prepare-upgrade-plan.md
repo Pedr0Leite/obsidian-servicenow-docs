@@ -26,14 +26,14 @@ Role required: admin
 
     |Option|Navigation|
     |------|----------|
-    |Using left navigation|Navigate to **All** &gt; **[[admin-center-intro|Admin Center]]** &gt; **Upgrade Management** &gt; **Upgrade Plan**.|
+    |Using left navigation|Navigate to **All** &gt; **Admin Center** &gt; **Upgrade Management** &gt; **Upgrade Plan**.|
     |Using Admin tab option|Navigate to **Admin** &gt; **Upgrade Management** &gt; **Upgrade Plan**.|
 
     The upgrade plan that is installed shows up on the list.
 
 2.  Select the upgrade plan.
 
-    The upgrade plan form view shows up with all its [[clone-configurations-tab|configurations]].
+    The upgrade plan form view shows up with all its configurations.
 
 3.  To ensure that all the applications and plugins are ready to be implemented in the upgrade, select **Refresh** in the context menu of the Upgrade Plan.
 
@@ -74,7 +74,3 @@ Preview your upgrade plan before being implemented in the upgrades. Once the upg
 
 [Apply Upgrade Plan on your upgrade]()
 
-## Related
-
-- [[admin-center-intro|Admin Center]]
-- [[clone-configurations-tab|Configurations]]

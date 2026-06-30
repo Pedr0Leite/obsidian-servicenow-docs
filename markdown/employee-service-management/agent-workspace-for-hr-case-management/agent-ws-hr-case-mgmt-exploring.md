@@ -14,7 +14,7 @@ breadcrumb: [Agent Workspace, HR Service Delivery, Employee Service Management]
 
 # Exploring Agent Workspace for HR Case Management
 
-Use [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]] to manage your employee HR requests from one place.
+Use Agent Workspace for HR Case Management to manage your employee HR requests from one place.
 
 ## Agent Workspace for HR Case Management home page
 
@@ -54,11 +54,11 @@ The Home page provides you with an overview of your work at a glance. It provide
 
 </td><td>
 
-[[exploring-learning-exp|Learning]] icon
+Learning icon
 
 </td><td>
 
-Learning helps you explore and manage coursework, view course [[activity-lxp|activity]] and history, and engage with career development content through customizable catalogs from various sources.
+Learning helps you explore and manage coursework, view course activity and history, and engage with career development content through customizable catalogs from various sources.
 
 </td></tr><tr><td>
 
@@ -154,8 +154,3 @@ Information related to the teams your HR agents belong to display in the **My te
 
 The bottom of the landing page provides company information, links, and tools available. This section is part of Content Delivery. For more information, see [Portal content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-streamline-content.md).
 
-## Related
-
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[exploring-learning-exp|Learning]]
-- [[activity-lxp|Activity]]

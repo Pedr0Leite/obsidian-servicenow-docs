@@ -14,7 +14,7 @@ breadcrumb: [Automated Certificate Management Environment, Certificate Inventory
 
 # Using ACME
 
-Use the [[automated-certificate-management-environment_0|Automated Certificate Management Environment]] \(ACME\) to request, renew, or revoke SSL/TLS certificates.
+Use the Automated Certificate Management Environment \(ACME\) to request, renew, or revoke SSL/TLS certificates.
 
 ACME comes with two options:
 
@@ -35,6 +35,3 @@ Perform the following tasks to start using ACME:
 -   [Renew certificate using ACME automated flow of DNS challenge](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/renew-certificate-using-acme-automated-flow-dns.md)
 -   [Revoke certificate using ACME automated flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/revoke-certificate-using-acme-automated-flow.md)
 
-## Related
-
-- [[automated-certificate-management-environment_0|Automated Certificate Management Environment]]

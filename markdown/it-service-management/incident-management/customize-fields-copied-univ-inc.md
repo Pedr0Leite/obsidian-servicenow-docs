@@ -14,7 +14,7 @@ breadcrumb: [Universal Request integration - Incident Management, Incident Manag
 
 # Customize fields copied from Universal Request to incident
 
-Customize fields so that the values of some fields in the universal request automatically get copied to an incident record when an incident is associated with a universal request record. It saves your time from manually entering the information every time you [[create-an-incident|create an incident]].
+Customize fields so that the values of some fields in the universal request automatically get copied to an incident record when an incident is associated with a universal request record. It saves your time from manually entering the information every time you create an incident.
 
 ## Before you begin
 
@@ -33,6 +33,3 @@ Role required: incident\_manager or admin
 
 **Parent Topic:**[Universal Request integration - Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/inci-mgmt-integ-with-univ-req.md)
 
-## Related
-
-- [[create-an-incident|Create an incident]]

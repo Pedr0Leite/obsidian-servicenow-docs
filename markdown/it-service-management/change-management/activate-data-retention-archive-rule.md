@@ -14,7 +14,7 @@ breadcrumb: [Change Management plugins, Configure, Change Management, IT Service
 
 # Activate Change Management - Data Archiving
 
-You can activate the [[c_ITILChangeManagement|Change Management]] - Data Archiving plugin \(com.glide.auxdb\) if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
+You can activate the Change Management - Data Archiving plugin \(com.glide.auxdb\) if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ The Change Management - Data Archiving plugin \(com.glide.auxdb\) enables to mov
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System [[dex-workspace-application-tab|Applications]]** &gt; **All Available Applications** &gt; **All**.
+1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
 2.  Find the plugin using the filter criteria and search bar.
 
@@ -86,7 +86,3 @@ The Change Management - Data Archiving plugin \(com.glide.auxdb\) enables to mov
 
 [Activate Change Management Success Probability]()
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]
-- [[dex-workspace-application-tab|Applications]]

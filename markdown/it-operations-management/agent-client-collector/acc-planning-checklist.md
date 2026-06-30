@@ -14,7 +14,7 @@ breadcrumb: [Preparing for Agent Client Collector implementation, Configuring Ag
 
 # Agent Client Collector planning checklist
 
-Successful [[acc-landing-page|Agent Client Collector]] \(ACC\) implementations, especially involving large numbers of endpoints or servers, require careful planning. Before proceeding with a large-scale ACC deployment, follow the steps described in the planning checklist.
+Successful Agent Client Collector \(ACC\) implementations, especially involving large numbers of endpoints or servers, require careful planning. Before proceeding with a large-scale ACC deployment, follow the steps described in the planning checklist.
 
 <table id="table_rnf_xjd_dhc"><thead><tr><th>
 
@@ -38,7 +38,7 @@ Define use cases, targeted devices, and success metrics
 
 </td><td>
 
-Typical ACC use cases include [[itom-visibility-landing-page|ITOM Visibility]], ITAM \(SAM/HAM\), ITSM \(DEX\), ITOM Health \(HLA/Metric Intelligence\). Many customers have success metrics targeting a percentage of devices with successful data collection for a use case over a 7 to 14-day window \(for example, “95% of endpoints report software usage over a 14-day period”\).
+Typical ACC use cases include ITOM Visibility, ITAM \(SAM/HAM\), ITSM \(DEX\), ITOM Health \(HLA/Metric Intelligence\). Many customers have success metrics targeting a percentage of devices with successful data collection for a use case over a 7 to 14-day window \(for example, “95% of endpoints report software usage over a 14-day period”\).
 
 </td></tr><tr><td align="center">
 
@@ -74,7 +74,7 @@ Assess Software Requirements
 
 </td><td>
 
-1.  Ensure that all CPU architectures and operating systems for your use cases are supported. If not, determine whether non-ACC solutions such as Service Graph Connector or [[r-discovery|Discovery]] Patterns can be used.
+1.  Ensure that all CPU architectures and operating systems for your use cases are supported. If not, determine whether non-ACC solutions such as Service Graph Connector or Discovery Patterns can be used.
 2.  Determine whether your use cases require elevated system privileges on endpoints or servers \(for example, root access on Linux for device serial number tracking\).
 
 </td></tr><tr><td align="center">
@@ -140,8 +140,3 @@ Work with internal teams and your stakeholders to review your deployment plan, s
 </td></tr></tbody>
 </table>**Parent Topic:**[Preparing for Agent Client Collector implementation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-preparation.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[itom-visibility-landing-page|ITOM Visibility]]
-- [[r-discovery|Discovery]]

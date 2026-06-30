@@ -132,18 +132,12 @@ Manage the behavior of outgoing emails with Properties.
     -   Enable internationalization of email address
 -   Outbound debugging and access: You can configure the following:
     -   Email address to be used to send all test emails
-    -   Number of journal entries to be included in email [[notifications|notifications]]
-    -   Roles that can view email in the [[c_ActivityFormatter|Activity formatter]]
+    -   Number of journal entries to be included in email notifications
+    -   Roles that can view email in the Activity formatter
 
 **Note:** Select **Save** to save the recent property settings. You can also undo the most recent change by selecting **Undo**. By selecting **Undo**, the values are reverted back to the most recent saved values.
 
-See [[r_OutboundMailConfiguration|Outbound email configuration]] for more information.
+See [Outbound email configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_OutboundMailConfiguration.md) for more information.
 
-**Parent Topic:**[[ia-config-platform-il|Platform module configuration in Setup Hub]]
+**Parent Topic:**[Platform module configuration in Setup Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-config-platform-il.md)
 
-## Related
-
-- [[r_OutboundMailConfiguration|Outbound email configuration]]
-- [[ia-config-platform-il|Platform module configuration in Setup Hub]]
-- [[notifications|Notifications]]
-- [[c_ActivityFormatter|Activity formatter]]

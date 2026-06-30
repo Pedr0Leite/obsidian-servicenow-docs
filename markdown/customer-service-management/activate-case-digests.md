@@ -25,15 +25,15 @@ The Case Digests plugin automatically activates the following plugins:
 -   Customer Service \(com.sn\_customerservice\)
 -   Customer Service Document Template \(com.sn\_csm\_doc\_template\)
 -   ServiceNow Document Viewer \(com.snc.documentviewer\)
--   [[c_TargetedCommunications|Targeted Communications]] \(com.sn\_publications\)
+-   Targeted Communications \(com.sn\_publications\)
 
-The Case Digests feature uses the recipient [[migration-lists|lists]] feature from the Targeted Communications plugin \(sn\_publications\).
+The Case Digests feature uses the recipient lists feature from the Targeted Communications plugin \(sn\_publications\).
 
 When creating a case action summary record, users with the sn\_esm\_agent role can select a recipient list of the type Internal Users. Selecting the **Publish to Case &amp; Notify** UI action on the Case Action Summary form sends an email notification to the users included in the selected recipient list.
 
 **Note:** The **Publish to Case &amp; Notify** UI action is available when a list has been selected in the **Additional internal recipients** field.
 
-For more information, see [[targeted-comm-dynamic-list|Recipient lists]].
+For more information, see [Recipient lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/targeted-comm-dynamic-list.md).
 
 ## Procedure
 
@@ -43,8 +43,4 @@ For more information, see [[targeted-comm-dynamic-list|Recipient lists]].
 
 3.  Click **Activate**.
 
-## Related
 
-- [[targeted-comm-dynamic-list|Recipients lists]]
-- [[c_TargetedCommunications|Targeted communications]]
-- [[migration-lists|Lists]]

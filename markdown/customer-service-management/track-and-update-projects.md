@@ -12,7 +12,7 @@ breadcrumb: [Using the Business Location Service Portal, Customer communication,
 
 # Track and update projects
 
-Enable your location staff to track projects for their business locations [[using-blsp-portal|using the Business Location Service Portal]] \(BLSP\). You can manage projects, enabling efficient monitoring of progress and updates of your locations.
+Enable your location staff to track projects for their business locations using the Business Location Service Portal \(BLSP\). You can manage projects, enabling efficient monitoring of progress and updates of your locations.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Role required: admin, sn\_bus\_loc.location\_project\_stakeholder, sn\_customers
 
 5.  Register a staff member to the business location by selecting **Add Member**.
 
-    To learn more, see [[add-staff-memers-to-biz-location|Add staff members to a business location in the Business Location Service Portal]].
+    To learn more, see [Add staff members to a business location in the Business Location Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/add-staff-memers-to-biz-location.md).
 
 6.  To see **Project Tasks**, **Sub-Projects** and **Cases**, select a project.
 
@@ -42,7 +42,4 @@ Role required: admin, sn\_bus\_loc.location\_project\_stakeholder, sn\_customers
 
     **State** and **Actual end date** is updated automatically.
 
-## Related
 
-- [[add-staff-memers-to-biz-location|Add staff members to a business location in the Business Location Service Portal]]
-- [[using-blsp-portal|Using the Business Location Service Portal]]

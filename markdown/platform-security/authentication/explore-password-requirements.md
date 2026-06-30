@@ -18,7 +18,7 @@ Passwords in your ServiceNow® instance must meet complexity requirements.
 
 The Passwords complexity requirements policy setting determines whether passwords must meet a series of strong-password guidelines.
 
-[[password-complexity-requirements|Password complexity requirements]] are enforced when a password is changed or created.
+Password complexity requirements are enforced when a password is changed or created.
 
 Password complexity requirements adhere and work based on the following:
 
@@ -30,7 +30,7 @@ If needed, you can require that passwords are changed regularly, at least every 
 
 ## Requirements and banned characters
 
-To enable a secure network environment, it is necessary for [[users|users]] to use strong passwords that include combination of letters, numbers, and symbols. These combinations help to prevent unauthorized users who usually use manual or automated methods to guess weak passwords.
+To enable a secure network environment, it is necessary for users to use strong passwords that include combination of letters, numbers, and symbols. These combinations help to prevent unauthorized users who usually use manual or automated methods to guess weak passwords.
 
 The password to your instance must meet the following requirements:
 
@@ -51,7 +51,3 @@ You can ban a list of common bad passwords, such as the following:
 
 **Note:** User, brand, or company-specific characters that cannot be used in the password can be configured in the Password Policy or Exclude Password page.
 
-## Related
-
-- [[password-complexity-requirements|Password complexity requirements]]
-- [[users|Users]]

@@ -14,7 +14,7 @@ breadcrumb: [Exploring Data Discovery \(Classic\), Data Discovery, Platform Priv
 
 # Data Discovery jobs
 
-[[data-discovery-landing|Data Discovery]] reviews your targeted information using user-defined data patterns and target tables.
+Data Discovery reviews your targeted information using user-defined data patterns and target tables.
 
 Data Discovery works by first scheduling a job in the **Data Discovery Job** section. When a scheduled job runs, all active data patterns are searched for on the current target tables. For more information on creating and configuring a Data Discovery job, see [Configure a Data Discovery job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-discovery/configure-data-discovery-jobs.md).
 
@@ -62,10 +62,5 @@ The following tables aren’t supported:
 
 ## Granular Configuration
 
-The [Granular Configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-discovery/granular-configuration.md) tool enables more specific and fine tuned controls for discovering sensitive data in a table. However there are key differences in its operation compared to a traditional data discovery job. A granular [[sc-configuration|configuration]] scans only specified columns of a table for discovery, reporting its findings by the record. Findings from the scan of Granular Configurations, called [[granular-findings|Granular Findings]] have their actions specified per record, and require the data\_privacy\_admin role to be anonymized.
+The [Granular Configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-discovery/granular-configuration.md) tool enables more specific and fine tuned controls for discovering sensitive data in a table. However there are key differences in its operation compared to a traditional data discovery job. A granular configuration scans only specified columns of a table for discovery, reporting its findings by the record. Findings from the scan of Granular Configurations, called Granular Findings have their actions specified per record, and require the data\_privacy\_admin role to be anonymized.
 
-## Related
-
-- [[data-discovery-landing|Data Discovery]]
-- [[sc-configuration|Configuration]]
-- [[granular-findings|Granular Findings]]

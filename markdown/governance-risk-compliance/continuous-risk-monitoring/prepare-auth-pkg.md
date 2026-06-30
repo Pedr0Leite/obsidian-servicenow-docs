@@ -24,11 +24,7 @@ In the Prepare step, you set up authorization boundaries, control overlays, and 
 -   **[Define the authorization boundary](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/define-auth-boundaries.md)**  
 An authorization boundary defines the scope of a particular system that can be continuously managed and monitored using the CAM application.
 -   **[Create an authorization package](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/create-auth-package.md)**  
-After you have defined the authorization boundaries for the assets or systems to send through the Authorization to Operate process, you must [[create-auth-package|create an authorization package]] for that purpose. The package is processed through the seven steps mandated by the RMF.
+After you have defined the authorization boundaries for the assets or systems to send through the Authorization to Operate process, you must create an authorization package for that purpose. The package is processed through the seven steps mandated by the RMF.
 
-**Parent Topic:**[[r_WhatIsGRC|Governance, Risk, and Compliance]]
+**Parent Topic:**[Governance, Risk, and Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/r_WhatIsGRC.md)
 
-## Related
-
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]
-- [[create-auth-package|Create an authorization package]]

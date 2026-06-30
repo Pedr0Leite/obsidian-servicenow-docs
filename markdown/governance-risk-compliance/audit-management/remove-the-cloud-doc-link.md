@@ -14,7 +14,7 @@ breadcrumb: [Cloud Document Management, Audit Management Overview, Audit Managem
 
 # Remove a linked cloud file from a record
 
-Remove a linked cloud file from a record in the [[audit-management-overview-ws|Audit Workspace]].
+Remove a linked cloud file from a record in the Audit Workspace.
 
 ## Before you begin
 
@@ -36,11 +36,8 @@ Role required: sn\_audit.admin, sn\_grc\_workspace.user
 
 6.  Select **Remove linked file** in the pop-up.
 
-    When a cloud file is linked to a record, the [[file-access-permissions|file access permissions]] are refreshed according to the set permissions on the table. For information on File access permissions, see [Create Cloud File Access on engagements and audit tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/document-access-configuration.md).
+    When a cloud file is linked to a record, the file access permissions are refreshed according to the set permissions on the table. For information on File access permissions, see [Create Cloud File Access on engagements and audit tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/document-access-configuration.md).
 
     A confirmation message is displayed that the cloud file is removed from the record.
 
-## Related
 
-- [[audit-management-overview-ws|Audit Workspace]]
-- [[file-access-permissions|File access permissions]]

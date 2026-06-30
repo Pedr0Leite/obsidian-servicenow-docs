@@ -18,7 +18,7 @@ The Customer Interaction Context Summary skill is used in the Interaction page. 
 
 ## Before you begin
 
-This skill uses indexed sources for AI search that requires configuration after install. For more information, see [[configure-ai-indexing-fso-contact-center|Configure AI indexing for Agentic Contact Center for Banking]].
+This skill uses indexed sources for AI search that requires configuration after install. For more information, see [Configure AI indexing for Agentic Contact Center for Banking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-ai-indexing-fso-contact-center.md).
 
 Role required: sn\_fso\_csr.business\_agent, sn\_fso\_csr.personal\_agent
 
@@ -26,13 +26,13 @@ Role required: sn\_fso\_csr.business\_agent, sn\_fso\_csr.personal\_agent
 
 ## About this task
 
-The customer interaction context summary skill provides a structured, context-aware summary of a customer service interaction in the Interaction page as part of [[agentic-contact-center-for-banking-landing|Agentic Contact Center for Banking]].
+The customer interaction context summary skill provides a structured, context-aware summary of a customer service interaction in the Interaction page as part of Agentic Contact Center for Banking.
 
 \[Omitted image "agentic-contact-center-interaction-context-summary.png"\] Alt text: Customer context summary panel showing customer information, contact reason, related cases, and related products with balances.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[fso-overview|Financial Services]] Workspace**.
+1.  Navigate to **Workspaces** &gt; **Financial Services Workspace**.
 
 2.  Initiate an interaction.
 
@@ -91,8 +91,3 @@ Engage with an AI agent to get further analysis and suggested responses for this
 
 [Configure banking customer interaction context summary skill in Now Assist for FSO](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/configure-customer-contextual-summarization-fso.md)
 
-## Related
-
-- [[configure-ai-indexing-fso-contact-center|Configure AI indexing for Agentic Contact Center for Banking]]
-- [[agentic-contact-center-for-banking-landing|Agentic Contact Center for Banking]]
-- [[fso-overview|Financial Services]]

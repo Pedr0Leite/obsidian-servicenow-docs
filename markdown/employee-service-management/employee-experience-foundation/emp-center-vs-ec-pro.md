@@ -15,7 +15,7 @@ breadcrumb: [Employee Center Pro, Unified Employee Experience, Employee Service 
 
 # Exploring Employee Center Pro
 
-[[employee-center-pro-landing|Employee Center Pro]] is a modern, multi-department employee destination site to drive employee engagement and productivity.
+Employee Center Pro is a modern, multi-department employee destination site to drive employee engagement and productivity.
 
 ## Employee Center Pro overview
 
@@ -40,17 +40,17 @@ Employee Center Pro expands the portal experience beyond service delivery with e
 
 ## Employee Center Pro workflow
 
-The Employee Center Pro enables organizations to assemble an [[employee-center-portal-overview|employee portal]] tailored to their needs. The following illustration provides an overview of how users interact with Employee Center Pro.
+The Employee Center Pro enables organizations to assemble an employee portal tailored to their needs. The following illustration provides an overview of how users interact with Employee Center Pro.
 
 \[Omitted image "ecpro-roles-workflow.png"\] Alt text: Infographic showing the end-to-end workflow to configure and use the Employee Center Pro
 
 1.  System admin installs plugins and assigns roles.
-2.  Taxonomy admin configures the Unified taxonomy, [[dynamic-topic-page|dynamic topic pages]], and [[emp-center-quick-link-config|quick links]].
-3.  [[employee-center-landing-page|Employee Center]] admin configures Employee Center portal, widgets, and features including the [[action-group-framework|action framework]], [[emp-slate-employee-profile|employee profile]], [[rfy-ec|recommended for you]], Guided Self-service, and [[app-launcher-usability|cross-channel favorites]].
-4.  Content admin, Engagement admin, and [[ecpro-content-automation-analytics|Content analytics]] admins configure [[eslate-employee-comms|employee communications]] features.
+2.  Taxonomy admin configures the Unified taxonomy, dynamic topic pages, and quick links.
+3.  Employee Center admin configures Employee Center portal, widgets, and features including the action framework, employee profile, recommended for you, Guided Self-service, and cross-channel favorites.
+4.  Content admin, Engagement admin, and Content analytics admins configure employee communications features.
 5.  Content manager creates and publishes content, as well as monitors the content performance metrics.
 
-    Campaign manager assembles the content into campaigns to send targeted communications to specific [[ecpro-audience|audiences]] across multiple channels.
+    Campaign manager assembles the content into campaigns to send targeted communications to specific audiences across multiple channels.
 
 6.  Employees use the Employee Center to complete tasks and trainings, submit requests, read knowledge articles, and more.
 
@@ -76,7 +76,7 @@ For more information on Employee Center Pro user roles, see [Employee Center Pro
 |View in one place all tasks, surveys, and requests that require action.|[My active items widget configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/my-activity-config.md)|Employee|
 |One-click access to frequently-used internal and external sites.|[Cross-channel favorites](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)|Employee|
 |Access self-serve capabilities through guided experiences to improve productivity and efficiency.|[Guided Self-Service in Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/gss-guided-self-service-overview.md)|Employee|
-|Employees comment and react to [[ec-news-articles|news articles]]; Content authors measure the effectiveness of their content using engagement metrics.|[Content engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-engagement.md)|Employee, Content author|
+|Employees comment and react to news articles; Content authors measure the effectiveness of their content using engagement metrics.|[Content engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-engagement.md)|Employee, Content author|
 |Find information about other employees and understand the team structure|[Organization chart in Employee Center Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/employee-profile-org-chart.md)|Employee, Manager|
 |View employees' work-related information.|[Employee profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/employee-profile-portal.md)|Employee, Manager|
 |Manage and approve requests from internal and external applications from one location.|[Approvals hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/approval-hub-intro.md)|Manager|
@@ -88,25 +88,9 @@ For more information on Employee Center Pro user roles, see [Employee Center Pro
 
 ## What to explore next
 
-To learn more about configuring and [[ec-pro-use|using Employee Center Pro]], see:
+To learn more about configuring and using Employee Center Pro, see:
 
 -   [Configuring Employee Center Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/configuring-employee-center-pro.md)
 -   [Authoring and managing employee communications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/manage-emp-center.md)
 -   [Employee Center Pro reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/emp-center-pro-reference.md)
 
-## Related
-
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[employee-center-portal-overview|Employee portal]]
-- [[dynamic-topic-page|Dynamic topic pages]]
-- [[emp-center-quick-link-config|Quick links]]
-- [[employee-center-landing-page|Employee Center]]
-- [[action-group-framework|Action framework]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[rfy-ec|Recommended for you]]
-- [[app-launcher-usability|Cross-channel favorites]]
-- [[ecpro-content-automation-analytics|Content Analytics]]
-- [[eslate-employee-comms|Employee communications]]
-- [[ecpro-audience|Audiences]]
-- [[ec-news-articles|News articles]]
-- [[ec-pro-use|Using Employee Center Pro]]

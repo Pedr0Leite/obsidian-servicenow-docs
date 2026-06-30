@@ -17,14 +17,9 @@ breadcrumb: [Classic Orchestration, ServiceNow AI Platform Additional Capabiliti
 Orchestration provides several applications with your subscription.
 
 -   **[Orchestration ROI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchestrationROI.md)**  
-The [[c_OrchestrationROI|Orchestration ROI]] application allows you to estimate and compute cost savings for tasks in your system that could be automated with Orchestration.
+The Orchestration ROI application allows you to estimate and compute cost savings for tasks in your system that could be automated with Orchestration.
 -   **[Client Software Distribution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_ClientSoftwareDistribution.md)**  
-The [[c_ClientSoftwareDistribution|Client Software Distribution]] \(CSD\) application allows administrators to distribute software from the [[service-catalog|service catalog]] using third-party management systems.
+The Client Software Distribution \(CSD\) application allows administrators to distribute software from the service catalog using third-party management systems.
 
 **Parent Topic:**[Classic Orchestration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r-orchestration.md)
 
-## Related
-
-- [[c_OrchestrationROI|Orchestration ROI]]
-- [[c_ClientSoftwareDistribution|Client Software Distribution]]
-- [[service-catalog|Service Catalog]]

@@ -30,7 +30,7 @@ Add cable
 
 </td><td>
 
-Change model to create a change task for adding a card. To learn more, see the add [[tni-interface-card-form|card form]] in [Change request and change task forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/change_request_forms.md).
+Change model to create a change task for adding a card. To learn more, see the add card form in [Change request and change task forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/change_request_forms.md).
 
 </td></tr><tr><td>
 
@@ -46,7 +46,7 @@ Create inventory equipment
 
 </td><td>
 
-Change model to create a change request for creating inventory equipment. To learn more, see the create [[equipment-form|equipment form]] in [Change request and change task forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/change_request_forms.md).**Note:** To see the [[compute-and-create-logical-connection-form|compute and create logical connection form]], see [Compute and Create Logical Connection form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/compute-and-create-logical-connection-form.md).
+Change model to create a change request for creating inventory equipment. To learn more, see the create equipment form in [Change request and change task forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/change_request_forms.md).**Note:** To see the compute and create logical connection form, see [Compute and Create Logical Connection form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/compute-and-create-logical-connection-form.md).
 
 </td></tr><tr><td>
 
@@ -68,7 +68,7 @@ Create physical connection
 Change model to create a change request for creating a physical connection. To learn more, see [Change request and change task forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/change_request_forms.md).**Note:**
 
 -   To update or revise a physical connection CI, see [Revise a configuration item using design and assign](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/revise-a-configuration-item.md).
--   To [[create-a-change-request-by-using-modify-physical-connection|modify physical connection endpoints]], see [Modify physical connection endpoints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-a-change-request-by-using-modify-physical-connection.md).
+-   To modify physical connection endpoints, see [Modify physical connection endpoints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-a-change-request-by-using-modify-physical-connection.md).
 
 </td></tr><tr><td>
 
@@ -124,7 +124,7 @@ Change model to create a change request for a phone number allocation. To learn 
 </td></tr></tbody>
 </table>|Fields|Description|
 |------|-----------|
-|Model|Change model that is associated with the [[telecom-network-inventory|Telecommunications Network Inventory]] change request.|
+|Model|Change model that is associated with the Telecommunications Network Inventory change request.|
 |Customer Site|Network site.|
 |ONT equipment template|Equipment template.|
 |Splitter|Equipment.|
@@ -406,7 +406,7 @@ This type of request definition enables you to select a network site and an inve
 
 -   **Create Physical Connection and Create Logical Connection**
 
-These types of request definitions have similar sets of site and equipment selection fields for the physical or [[design-logical-connection-design-assign-playbook|logical connections]] between your start \(A\) and end \(Z\) locations. You can only select those interfaces that are associated with the designated equipment model for the A-start and Z-end interfaces.
+These types of request definitions have similar sets of site and equipment selection fields for the physical or logical connections between your start \(A\) and end \(Z\) locations. You can only select those interfaces that are associated with the designated equipment model for the A-start and Z-end interfaces.
 
 For the instantiation of physical or logical connections, you must select a physical connection model or a logical connection model, depending on the type of connection that you want to create between the two sites. For a logical connection, this internal code creates a CI record, and additional path elements.
 
@@ -418,7 +418,7 @@ For initiation of the path compute of the logical connection, you must select lo
 
 -   **Modify members of a topology**
 
-This type of request definition enables you to create a cable record. o learn more about modifying a [[using-network-topology|network topology]] record, see [Add or remove a member to network topology record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/modify-network-topology-record-design-assign.md).
+This type of request definition enables you to create a cable record. o learn more about modifying a network topology record, see [Add or remove a member to network topology record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/modify-network-topology-record-design-assign.md).
 
 -   **IP Address Allocation**
 
@@ -731,12 +731,3 @@ Enter your required line number in xxxx-xxxx or xxx-xxx or xxx, xxx-xxx format.*
 
 [Instantiating your network inventory by using design and assign](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/instantiate-asset-using-template-relationship-model.md)
 
-## Related
-
-- [[tni-interface-card-form|Card form]]
-- [[equipment-form|Equipment form]]
-- [[compute-and-create-logical-connection-form|Compute and Create Logical Connection form]]
-- [[create-a-change-request-by-using-modify-physical-connection|Modify physical connection endpoints]]
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[design-logical-connection-design-assign-playbook|Logical connections]]
-- [[using-network-topology|Network topology]]

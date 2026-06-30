@@ -14,9 +14,9 @@ breadcrumb: [Discovery for AWS, Discovery for cloud environment, Discovery, ITOM
 
 # AWS cloud discovery methods and use cases
 
-Comparison of use cases and requirements for cloud [[r-discovery|discovery]] methods in AWS.
+Comparison of use cases and requirements for cloud discovery methods in AWS.
 
-[[itom-visibility-landing-page|ITOM Visibility]] offers several methods for AWS cloud discovery. Each method supports different use cases and has its own requirements.
+ITOM Visibility offers several methods for AWS cloud discovery. Each method supports different use cases and has its own requirements.
 
 ## AWS cloud discovery use cases
 
@@ -54,7 +54,7 @@ Service Graph Connectors
 
 </th><th>
 
-[[acc-landing-page|Agent Client Collector]] for Visibility - Content \(without MID Server\)
+Agent Client Collector for Visibility - Content \(without MID Server\)
 
 </th><th>
 
@@ -290,9 +290,3 @@ Yes
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[r-discovery|Discovery]]
-- [[itom-visibility-landing-page|ITOM Visibility]]
-- [[acc-landing-page|Agent Client Collector]]

@@ -26,11 +26,11 @@ Review the changes you made to baseline records, such as business rules and scri
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[uc-landing-page|Upgrade Center]]** &gt; **Upgrade Monitor**.
+1.  Navigate to **All** &gt; **Upgrade Center** &gt; **Upgrade Monitor**.
 
     If the upgrade is still in progress, the system displays the [Upgrade Progress](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-monitor-progress.md) screen. When the upgrade finishes, the system displays the [Upgrade Summary Report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-complete-summary.md).
 
-2.  After the system displays the [[uc-complete-summary|Upgrade Summary Report]], click the Review changes link in the Skipped box.
+2.  After the system displays the Upgrade Summary Report, click the Review changes link in the Skipped box.
 
     The system displays the [System Upgrades form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-system-upgrades-form.md).
 
@@ -89,7 +89,7 @@ After reviewing the changes, click **Revert to Base System**.-   The **Dispositi
 -   The system creates a Customer Update record.
 -   The record moves from the Skipped Changes to Review to the Skipped Changes Reviewed related list.
 
-**Note:** At any time after you [[uc-revert-customization|revert a customization]], you can click **Reapply Changes** to reapply the customization \(undo the revert\).
+**Note:** At any time after you revert a customization, you can click **Reapply Changes** to reapply the customization \(undo the revert\).
 
 </td></tr><tr><td>
 
@@ -116,8 +116,4 @@ From the **Resolution** list, choose **Not Reviewed** to defer the decision on h
 
     Post-upgrade, thoroughly test all changes you made to the records on the skipped record list.
 
-## Related
 
-- [[uc-landing-page|Upgrade Center]]
-- [[uc-complete-summary|Upgrade Summary Report]]
-- [[uc-revert-customization|Revert a customization]]

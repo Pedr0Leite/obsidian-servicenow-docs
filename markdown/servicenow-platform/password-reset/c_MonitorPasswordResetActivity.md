@@ -14,7 +14,7 @@ breadcrumb: [Password Reset reference, Password Reset, Manage service capabiliti
 
 # Password Reset and Password Change reports and logs
 
-The [[password-reset-landing-page|Password Reset]] application provides several tools for monitoring and troubleshooting password reset activities.
+The Password Reset application provides several tools for monitoring and troubleshooting password reset activities.
 
 Users with the password\_reset\_credential\_manager or password\_reset\_admin role can view the status of password reset activities, identify potential security threats, and monitor for compliance with password security policies.
 
@@ -61,7 +61,7 @@ You must have the password\_reset\_credential\_manager or password\_reset\_admin
 
 ## Password Reset blocked user notification
 
-You can receive [[email|email]] notifications when the number of users that are blocked or locked exceeds the password blocked threshold. Notifications can alert you to suspicious activities. The default threshold is 10.
+You can receive email notifications when the number of users that are blocked or locked exceeds the password blocked threshold. Notifications can alert you to suspicious activities. The default threshold is 10.
 
 To subscribe: Add an email notification device or modify an existing device and then subscribe to the **Password Reset-Activity Monitor Lockout** notification.
 
@@ -154,7 +154,3 @@ Purge interval
 
 [Unblock a Password Reset user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/t_UnblockAUser.md)
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]
-- [[email|Email]]

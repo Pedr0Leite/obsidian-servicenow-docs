@@ -26,7 +26,7 @@ As a collaborator added to a legal matter, you can access and work on the legal 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Legal Request** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
 2.  In the Legal Counsel Center tab, select the list icon \[Omitted image "lsd-lcc-list-icon.png"\] Alt text:.
 
@@ -93,7 +93,7 @@ The state of the legal matter updates to Work in Progress.
 
 7.  Remove any existing custodial or non-custodial data that doesn't need further investigation or was mistakenly added to the matter by selecting the record in the **Custodial Data** tab or **Non-custodial Data** tab and clicking **Remove**.
 
-8.  Review the phases and tasks in the respective tabs and, if needed, [create more phases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/add-phases-to-legal-matter.md) and [[create-dft-matter-task|create digital forensic matter tasks]] to organize the data processing of custodial and non-custodial data.
+8.  Review the phases and tasks in the respective tabs and, if needed, [create more phases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/add-phases-to-legal-matter.md) and [create digital forensic matter tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/create-dft-matter-task.md) to organize the data processing of custodial and non-custodial data.
 
     **Note:** The phases and tasks are available in the legal matter only if you created the matter using the digital forensic matter template.
 
@@ -136,10 +136,5 @@ The state of the legal matter updates to Work in Progress.
 -   **[Create a task for a digital forensic legal matter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/create-dft-matter-task.md)**  
 Create a task for a digital forensic legal matter and add instructions and to-do items in a checklist for the task owner to work on.
 
-**Parent Topic:**[[managing-legal-dft-request|Managing digital forensics requests]]
+**Parent Topic:**[Managing digital forensics requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/managing-legal-dft-request.md)
 
-## Related
-
-- [[create-dft-matter-task|Create a task for a digital forensic legal matter]]
-- [[managing-legal-dft-request|Managing digital forensics requests]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]

@@ -19,7 +19,7 @@ Assess a problem to determine whether the problem requires a thorough investigat
 ## Before you begin
 
 -   Role required: admin, problem\_admin, problem\_manager, or problem\_coordinator
--   Activate the [[c_ProblemManagement|Problem Management]] Best Practice — Madrid — State Model \(com.snc.best\_practice.problem.madrid.state\_model\) to get the new best practice states and guided actions to navigate the lifecycle of a problem. For details, see [Activate Problem Management Best Practice — Madrid — State Model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/act-pm-best-prac-madrid-state-mod.md).
+-   Activate the Problem Management Best Practice — Madrid — State Model \(com.snc.best\_practice.problem.madrid.state\_model\) to get the new best practice states and guided actions to navigate the lifecycle of a problem. For details, see [Activate Problem Management Best Practice — Madrid — State Model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/act-pm-best-prac-madrid-state-mod.md).
 
 ## About this task
 
@@ -77,6 +77,3 @@ After you confirm that the problem needs investigation and a resolution, the pro
 
 **Parent Topic:**[Managing Problems](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/problem-mgmt-lifecycle.md)
 
-## Related
-
-- [[c_ProblemManagement|Problem Management]]

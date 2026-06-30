@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-The following mobile properties are set to `True` by default for the date/time fields in mobile cards, [[form-screen|record screen]] details pages, and activity streams:
+The following mobile properties are set to `True` by default for the date/time fields in mobile cards, record screen details pages, and activity streams:
 
 -   **mobileCardsShowSeconds**
 -   **recordScreenDetailsShowSeconds**
@@ -67,7 +67,7 @@ Application
 
 </td><td>
 
-Application scope where the mobile property is applied. To select a different application scope, select the globe icon \(\[Omitted image "globe-icon.png"\] Alt text: Globe image\) on the instance banner. Then select **Application scope:_application\_scope_**. For information about how mobile properties are affected by application scope, see [[mobile-properties|Mobile properties]].
+Application scope where the mobile property is applied. To select a different application scope, select the globe icon \(\[Omitted image "globe-icon.png"\] Alt text: Globe image\) on the instance banner. Then select **Application scope:_application\_scope_**. For information about how mobile properties are affected by application scope, see [Mobile properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-properties.md).
 
 </td></tr><tr><td>
 
@@ -151,7 +151,3 @@ After updating this property, the end user must refresh the app to get the lates
 
 **Parent Topic:**[Mobile properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-properties.md)
 
-## Related
-
-- [[mobile-properties|Mobile properties]]
-- [[form-screen|Record screen]]

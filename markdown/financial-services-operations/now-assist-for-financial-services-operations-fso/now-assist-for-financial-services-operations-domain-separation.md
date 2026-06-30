@@ -15,7 +15,7 @@ breadcrumb: [Reference, Now Assist for FSO, Financial Services Operations \(FSO\
 
 # Domain separation and Now Assist for Financial Services Operations \(FSO\)
 
-[[domain-separation-dispute-content-pack-for-mastercard|Domain separation]] is supported for [[now-assist-for-financial-services-operations|Now Assist for Financial Services Operations \(FSO\)]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported for Now Assist for Financial Services Operations \(FSO\). Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic
 
@@ -56,7 +56,3 @@ For example, you can grant certain roles access to the Now Assist panel in one d
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[domain-separation-dispute-content-pack-for-mastercard|Domain separation]]
-- [[now-assist-for-financial-services-operations|Now Assist for Financial Services Operations \(FSO\)]]

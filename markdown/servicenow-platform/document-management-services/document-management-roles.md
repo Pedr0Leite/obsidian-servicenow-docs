@@ -14,7 +14,7 @@ breadcrumb: [References, Document Management, Document Services, Manage content 
 
 # Document Management roles
 
-[[doc-management-landing|Document Management]] is installed with these roles.
+Document Management is installed with these roles.
 
 To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/managing-user-subscriptions-v2.md) and contact your account representative.
 
@@ -52,6 +52,3 @@ None.
 
 **Note:** Avoid granting an admin role when more specialized roles are available.
 
-## Related
-
-- [[doc-management-landing|Document Management]]

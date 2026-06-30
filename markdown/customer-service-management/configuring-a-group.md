@@ -12,7 +12,7 @@ breadcrumb: [Setting up assignment groups, Configure Service Model Foundation, D
 
 # Configuring a group
 
-Set up the group by adding members and assigning them the necessary roles. The group members inherit the roles of the group, so you don’t have to [[configure-data-model-roles|assign roles]] to each member separately. This setup enables members within a group to perform specific field service tasks, filtered by location, skills, [[product-models|product models]], and so on.
+Set up the group by adding members and assigning them the necessary roles. The group members inherit the roles of the group, so you don’t have to assign roles to each member separately. This setup enables members within a group to perform specific field service tasks, filtered by location, skills, product models, and so on.
 
 ## Add members to a group
 
@@ -62,10 +62,5 @@ Role required: user\_admin
 
 ### Result
 
-The roles are successfully added to the assignment group. You can now start associating these groups to a business location. For more information, see [[associate-a-group-to-a-business-location-so|Associate a group to a business location]].
+The roles are successfully added to the assignment group. You can now start associating these groups to a business location. For more information, see [Associate a group to a business location](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/associate-a-group-to-a-business-location-so.md).
 
-## Related
-
-- [[associate-a-group-to-a-business-location-so|Associate a group to a business location]]
-- [[configure-data-model-roles|Assign roles]]
-- [[product-models|Product models]]

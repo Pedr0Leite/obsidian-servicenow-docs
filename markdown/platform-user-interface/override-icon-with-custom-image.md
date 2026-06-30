@@ -37,7 +37,7 @@ Use per‑size overrides when:
 -   Fine details get lost at 12×12 or 16×16, and you want simplified small-size art.
 -   Your design team maintains a bespoke icon set according to size.
 
-**Important:** Custom images apply to Workspaces and aren’t supported in the [[c_UI16|Core UI]].
+**Important:** Custom images apply to Workspaces and aren’t supported in the Core UI.
 
 ## Procedure
 
@@ -70,7 +70,7 @@ Use per‑size overrides when:
 
     -   Select **Browse**, choose your custom image file from your computer's file browser, and select **Open**.
     -   Drag your custom image file from your computer's file browser and drop the image directly into the modal.
-    Refer to the upload image modal for size and format limitations or see [[tb-icon-illustrations|Icon illustrations in Theme Builder]]. If your custom image doesn’t meet the required size and format, your image isn’t saved.
+    Refer to the upload image modal for size and format limitations or see [Icon illustrations in Theme Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tb-icon-illustrations.md). If your custom image doesn’t meet the required size and format, your image isn’t saved.
 
 8.  Preview your image within the modal and select **Save**.
 
@@ -95,12 +95,7 @@ Use per‑size overrides when:
 
 ## Result
 
-If your theme is published, your custom images are visible to users who have your theme applied on refresh. For more information about publishing themes, see [[tb-apply-theme|Publish your themes with Theme Builder]].
+If your theme is published, your custom images are visible to users who have your theme applied on refresh. For more information about publishing themes, see [Publish your themes with Theme Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tb-apply-theme.md).
 
 **Parent Topic:**[Icon illustrations in Theme Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tb-icon-illustrations.md)
 
-## Related
-
-- [[tb-icon-illustrations|Icon illustrations in Theme Builder]]
-- [[tb-apply-theme|Publish your themes with Theme Builder]]
-- [[c_UI16|Core UI]]

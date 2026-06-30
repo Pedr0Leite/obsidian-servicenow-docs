@@ -32,7 +32,7 @@ Immediate provisional credit \(IPC\)
 
 </td><td>
 
-A task is created to [[convert-provisional-credit-to-final-credit|convert provisional credit to final credit]], and the dispute life cycle ends for the transaction. For more information, see [Convert provisional credit to final credit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/convert-provisional-credit-to-final-credit_mc.md).If collaboration outcome is **Resolved**, and IPC was given, then a task is created to [[fso-ach-dispute-reverse-provisional|reverse provisional credit]]. For more information, see [Reverse provisional credit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/reverse-provisional-credit-mc.md).
+A task is created to convert provisional credit to final credit, and the dispute life cycle ends for the transaction. For more information, see [Convert provisional credit to final credit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/convert-provisional-credit-to-final-credit_mc.md).If collaboration outcome is **Resolved**, and IPC was given, then a task is created to reverse provisional credit. For more information, see [Reverse provisional credit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/reverse-provisional-credit-mc.md).
 
 </td></tr><tr><td>
 
@@ -88,7 +88,3 @@ The **Issue final credit and write off** drop-down is displayed. If the option s
 </td></tr></tbody>
 </table>**Parent Topic:**[Processing a Mastercard dispute](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/processing-mastercard-dispute-case.md)
 
-## Related
-
-- [[convert-provisional-credit-to-final-credit|Convert provisional credit to final credit]]
-- [[fso-ach-dispute-reverse-provisional|Reverse provisional credit]]

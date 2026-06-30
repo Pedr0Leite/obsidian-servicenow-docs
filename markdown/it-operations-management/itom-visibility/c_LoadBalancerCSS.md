@@ -14,7 +14,7 @@ breadcrumb: [Load balancers, Network device discovery, Data collected by ITOM Vi
 
 # Cisco CSS load balancer
 
-[[r-discovery|Discovery]] of Cisco CSS load balancers is performed by SNMP.
+Discovery of Cisco CSS load balancers is performed by SNMP.
 
 **Note:** For information on Probe to Pattern migration see the knowledge article [KB0694477](https://support.servicenow.com/kb_view.do?sysparm_article=KB0694477).
 
@@ -39,6 +39,3 @@ Discovery creates a record for each CSS device in the Cisco CSS \[cmdb\_ci\_lb\_
 
 **Parent Topic:**[Load balancer discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_LoadBalancers.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

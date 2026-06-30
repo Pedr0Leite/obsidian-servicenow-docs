@@ -14,11 +14,11 @@ breadcrumb: [Manage Learning, Using My Learning, Learning, Growth Experiences, H
 
 # Create a content collection
 
-Create a content collection in [[exploring-learning-exp|Learning]] to dynamically group Learning content that includes multiple internal and external courses.
+Create a content collection in Learning to dynamically group Learning content that includes multiple internal and external courses.
 
 ## Before you begin
 
-Every collection must be a part of a course catalog. [[create-course-catalog|Create a course catalog]] before you create a collection. For more information, see [Create a course catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-course-catalog.md).
+Every collection must be a part of a course catalog. Create a course catalog before you create a collection. For more information, see [Create a course catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-course-catalog.md).
 
 Role required: sn\_lc.learning\_admin, sn\_lc.learning\_course\_catalog\_admin
 
@@ -28,7 +28,7 @@ Role required: sn\_lc.learning\_admin, sn\_lc.learning\_course\_catalog\_admin
 
 2.  Select **New**.
 
-3.  On the [[collection-form-lc|Collection form]], fill in the fields.
+3.  On the Collection form, fill in the fields.
 
     For a description of the field values, see [Collection form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/collection-form-lxp.md).
 
@@ -40,7 +40,7 @@ After you create a collection, add course items as groupings of courses that are
 -   **[Define user access to course within a collection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/define-course-user-access.md)**  
 Define user access to the collection to define who has read access to the collections.
 -   **[Add learning course sections](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/add-learning-course-sections-lxp.md)**  
-[[add-learning-course-sections-lxp|Add learning course sections]] to collections.
+Add learning course sections to collections.
 -   **[Assign topics to a collection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/assign-collection-topics.md)**  
 Add assigned topics to collections.
 
@@ -71,9 +71,3 @@ Add assigned topics to collections.
 
 [Add learning course sections](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/add-learning-course-sections.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[create-course-catalog|Create a course catalog]]
-- [[collection-form-lc|Collection form]]
-- [[add-learning-course-sections-lxp|Add learning course sections]]

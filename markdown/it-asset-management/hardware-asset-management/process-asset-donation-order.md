@@ -22,9 +22,9 @@ Role required: asset
 
 ## About this task
 
-You can cancel an [[asset-donation|Asset Donation]] Order until it reaches the transit stage in the workflow. After your Asset Donation Order reaches the Confirmation stage, you can't cancel it.
+You can cancel an Asset Donation Order until it reaches the transit stage in the workflow. After your Asset Donation Order reaches the Confirmation stage, you can't cancel it.
 
-**Note:** You can process Asset Donation Orders only in [[using-ham-workspace|Hardware Asset Workspace]] and not in [[ham-landing-page|Hardware Asset Management]] Core UI.
+**Note:** You can process Asset Donation Orders only in Hardware Asset Workspace and not in Hardware Asset Management Core UI.
 
 ## Procedure
 
@@ -34,7 +34,7 @@ You can cancel an [[asset-donation|Asset Donation]] Order until it reaches the t
 
     A list of asset donation orders is shown.
 
-3.  [[select-daas-asset|Select an Asset]] Donation Order that is in the **Scheduling** stage.
+3.  Select an Asset Donation Order that is in the **Scheduling** stage.
 
 4.  Add assets to the Asset Donation Order.
 
@@ -83,7 +83,7 @@ You can cancel an [[asset-donation|Asset Donation]] Order until it reaches the t
         1.  In the **Pickup contact name** field, enter the name of the vendor to pick up the assets for donation.
         2.  \(Optional\) In the **Shipping carrier** field, select your shipping carrier.
         3.  \(Optional\) In the **Tracking number** field, enter the tracking number for the shipment.
-        **Note:** The Shipping carrier and Tracking number fields are used to track shipments from the Shipment list in the [[asset-operations-view|Asset operations view]] of the Hardware Asset Workspace. For details, see [View hardware asset shipment details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/view-hardware-asset-shipments.md).
+        **Note:** The Shipping carrier and Tracking number fields are used to track shipments from the Shipment list in the Asset operations view of the Hardware Asset Workspace. For details, see [View hardware asset shipment details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/view-hardware-asset-shipments.md).
 
     3.  Select **Close task**.
 
@@ -127,10 +127,3 @@ All the asset donation tasks are in the Closed Complete state and the Asset Dona
 
 [Add a charity organization for donating assets]()
 
-## Related
-
-- [[asset-donation|Asset donation]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[ham-landing-page|Hardware Asset Management]]
-- [[select-daas-asset|Select an asset]]
-- [[asset-operations-view|Asset operations view]]

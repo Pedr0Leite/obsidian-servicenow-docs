@@ -14,7 +14,7 @@ breadcrumb: [Managing incidents, Incident Management, IT Service Management]
 
 # Reopening an incident
 
-Reopen a resolved incident from the incident’s resolution notification email or from the incident form in [[c_IncidentManagement|Incident Management]] to further investigate an issue that is still impacting you.
+Reopen a resolved incident from the incident’s resolution notification email or from the incident form in Incident Management to further investigate an issue that is still impacting you.
 
 When an incident is resolved, an incident resolution email notification is sent to you. If you are not satisfied with the resolution of your incident, you can request to reopen the incident using any of the following methods:
 
@@ -39,12 +39,8 @@ The following conditions are applicable when reopening an incident:
 -   If you do not have any roles in the system \(ESS\) and you change the incident state to **Resolved**, you receive a notification with a **Reopen incident** link.
 -   If you do not have any roles in the system \(ESS\) and you are the caller, you can click **Reopen** on the incident form to reopen the incident.
 
-    **Note:** An ESS user is not able to resolve, reopen, or [[close-major-incident|close a major incident]] even if the user is the caller.
+    **Note:** An ESS user is not able to resolve, reopen, or close a major incident even if the user is the caller.
 
 
 If the incident is already closed, you cannot reopen that incident. However, if you request to reopen the incident by replying to the resolution notification email, a new incident is opened with selected field values that are copied from the closed incident. To enable this feature, you must add fields as values in the **List of fields \(comma-separated\) to copy from the original incident when an incident is reopened by email** \(**com.snc.incident.clone\_fields\_on\_reopen**\) incident property. These fields are copied from the closed incident to the new incident. Add the text `Please reopen` to the subject line of the email.
 
-## Related
-
-- [[c_IncidentManagement|Incident Management]]
-- [[close-major-incident|Close a major incident]]

@@ -14,7 +14,7 @@ breadcrumb: [Reference, Resource Management Workspace, Project Portfolio Managem
 
 # New Resource Assignment form
 
-Fill in the following fields to create a resource assignment [[using-rmw|using Resource Management Workspace]].
+Fill in the following fields to create a resource assignment using Resource Management Workspace.
 
 <table id="table_s2p_rdy_bcc"><thead><tr><th>
 
@@ -167,6 +167,3 @@ Enter details about the assignment to help resource manager or project manager w
 </td></tr></tbody>
 </table>**Parent Topic:**[Resource Management Workspace references](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rmw-references.md)
 
-## Related
-
-- [[using-rmw|Using Resource Management Workspace]]

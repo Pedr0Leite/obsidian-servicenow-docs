@@ -14,7 +14,7 @@ breadcrumb: [Event-driven management rules, Classic assessments, Configure, Thir
 
 # Recall event-driven questionnaires and doc requests
 
-You can recall third-party [[risk-assessments|risk assessments]] \(questionnaires and document requests\) that were sent by an event-driven management rule. The items are removed from the Third-party portal for all third parties or engagements that haven’t yet responded.
+You can recall third-party risk assessments \(questionnaires and document requests\) that were sent by an event-driven management rule. The items are removed from the Third-party portal for all third parties or engagements that haven’t yet responded.
 
 ## Before you begin
 
@@ -34,6 +34,4 @@ Role required: sn\_vdr\_risk\_asmt.vendor\_risk\_manager
 
     The third-party risk assessments are removed from the affected Third-party portals and the **State** value of the rule is set to **Recalled**.
 
-## Related
 
-- [[risk-assessments|risk assessments]]

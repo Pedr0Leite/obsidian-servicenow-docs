@@ -14,7 +14,7 @@ breadcrumb: [Plan sprints, Agile in CWM, Use, Collaborative Work Management, Str
 
 # Start or complete a sprint in CWM
 
-Start a sprint so that your team can start work on the planned items. After your team finishes the assigned work, you can mark this sprint complete, all directly from the Sprint planning view in [[cwm-landing|Collaborative Work Management]].
+Start a sprint so that your team can start work on the planned items. After your team finishes the assigned work, you can mark this sprint complete, all directly from the Sprint planning view in Collaborative Work Management.
 
 ## Before you begin
 
@@ -55,6 +55,3 @@ Role required: sn\_cwm.cwm\_user
 
 **Parent Topic:**[Sprint planning in CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/agile-sprint-planning-in-cwm.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Skills Foundation, Growth Experiences, HR Service Delivery, Employe
 
 # Configuring Skills Foundation
 
-As an admin, add skills and import data into job architecture tables in your ServiceNow instance to start [[using-skills-intelligence|using Skills Foundation]] in your organization.
+As an admin, add skills and import data into job architecture tables in your ServiceNow instance to start using Skills Foundation in your organization.
 
 ## Plugin dependencies
 
@@ -24,18 +24,18 @@ As an admin, add skills and import data into job architecture tables in your Ser
 
 ## App dependencies
 
-[[emp-slate-employee-profile|Employee profile]] \(sn\_employee\) version 8.0.2.
+Employee profile \(sn\_employee\) version 8.0.2.
 
 ## Other requirements
 
--   To access multi-channel prompts, you must have [[proactive-prompts-for-hrsd|Proactive Prompts]] \(com.sn\_pp\) version 2.0.0 installed.
+-   To access multi-channel prompts, you must have Proactive Prompts \(com.sn\_pp\) version 2.0.0 installed.
 -   Employee profiles must exist. For more information, see [Employee profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/employee-profile-portal.md).
 
 ## Setup process
 
-The following procedure describes the steps to [[install-skills-intelligence|install Skills Foundation]], upload or create the required data, and start using Skills Foundation in your organization.
+The following procedure describes the steps to install Skills Foundation, upload or create the required data, and start using Skills Foundation in your organization.
 
-**Note:** A successful [[skills-intelligence|Skills Foundation]] installation requires the [[skills-intelligence-workspace|Skills Workspace]] plugin, use the Guided setup to install and configure the Skills Foundation application instead of a manual process.
+**Note:** A successful Skills Foundation installation requires the Skills Workspace plugin, use the Guided setup to install and configure the Skills Foundation application instead of a manual process.
 
 1.  Install the Skills Foundation \[com.sn\_skills\_int\] plugin.
 2.  Install the Skills Library Data for Skills Management \(com.snc.skills\_management.seed\_data\) plugin.
@@ -49,17 +49,7 @@ The following procedure describes the steps to [[install-skills-intelligence|ins
 7.  \(Optional\) Create a configuration that sets the proficiency automatically for skills across role levels based on the skill level type and role group. For more information, see [Set the job proficiency level automatically](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/proficiency-autofill-config.md).
 8.  \(Optional\) Create role groups and role levels based on the type of roles in your organization. For more information, see [Adding role groups and role levels for skills administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/skills-int-add-role-group.md).
 9.  Create role-level mapping to industry titles. For more information, see [Map industry titles to role levels](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/skills-int-map-ind-titles-role-level.md).
-10. Assign a role level to an employee [[proactive-prompts-using|using Proactive Prompts]] or manually. For more information, see [Map a role level to the employee profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/skills-int-attach-role-level-emp.md).
+10. Assign a role level to an employee using Proactive Prompts or manually. For more information, see [Map a role level to the employee profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/skills-int-attach-role-level-emp.md).
 11. Assign users to roles to enable them to perform tasks in Skills Foundation. For more information, see [Components installed with Skills Foundation]().
-12. Provide access to the Skills widget where employees can view and edit skills in their profile in [[employee-center-portal-overview|Employee Portal]] by setting the **sn\_skills\_int.enable\_skills** system property to True.
+12. Provide access to the Skills widget where employees can view and edit skills in their profile in Employee Portal by setting the **sn\_skills\_int.enable\_skills** system property to True.
 
-## Related
-
-- [[using-skills-intelligence|Using Skills Foundation]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[proactive-prompts-for-hrsd|Proactive Prompts]]
-- [[install-skills-intelligence|Install Skills Foundation]]
-- [[skills-intelligence|Skills Foundation]]
-- [[skills-intelligence-workspace|Skills Workspace]]
-- [[proactive-prompts-using|Using Proactive Prompts]]
-- [[employee-center-portal-overview|Employee portal]]

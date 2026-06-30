@@ -14,7 +14,7 @@ breadcrumb: [Asset Audit Response, IT Asset Management]
 
 # Fulfilling evidence requests for financial regulatory audit engagements
 
-If you are an asset manager, you can fulfill evidence requests for financial regulatory audit engagements in the [[asset-governance-workspace|Asset Governance Workspace]].
+If you are an asset manager, you can fulfill evidence requests for financial regulatory audit engagements in the Asset Governance Workspace.
 
 ## Overview of fulfilling evidence requests
 
@@ -24,6 +24,3 @@ Fulfill evidence requests for financial regulatory audit engagements by performi
 
 Use the Asset Response Guided Experience to fulfill and respond to evidence requests for your financial regulatory audit engagements.
 
-## Related
-
-- [[asset-governance-workspace|Asset Governance Workspace]]

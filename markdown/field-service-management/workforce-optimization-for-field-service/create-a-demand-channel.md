@@ -14,17 +14,17 @@ breadcrumb: [Capacity and Reservations Management, Set up workforce, Configure, 
 
 # Create a demand channel
 
-Demand channels help organize and manage work by efficiently distributing resources. When creating a reservation rule, you can allocate a specific percentage of [[capacity|capacity]] to a particular demand channel. By tagging work orders or tasks with demand channels, you ensure they are routed correctly, improving resource allocation and scheduling accuracy.
+Demand channels help organize and manage work by efficiently distributing resources. When creating a reservation rule, you can allocate a specific percentage of capacity to a particular demand channel. By tagging work orders or tasks with demand channels, you ensure they are routed correctly, improving resource allocation and scheduling accuracy.
 
 ## Before you begin
 
 Role required: wm\_admin
 
-Ensure the [[territory-planning-fsm|Field Service Territory Planning]] \(com.snc.fsm\_territory\_planning\) plugin is installed.
+Ensure the Field Service Territory Planning \(com.snc.fsm\_territory\_planning\) plugin is installed.
 
 ## About this task
 
-The scheduling system uses demand channel attributes \(conditions and order\) for [[capacity-reservations|capacity reservation rules]] based on demand channels. For more information, see [Create a reservation rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/capacity-reservations.md)
+The scheduling system uses demand channel attributes \(conditions and order\) for capacity reservation rules based on demand channels. For more information, see [Create a reservation rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/capacity-reservations.md)
 
 ## Procedure
 
@@ -64,11 +64,5 @@ By defining these fields, the "Install" demand channel in the reservation rule w
 **Related topics**  
 
 
-[[capacity-dashboard|Field Service Territory Capacity Analytics dashboard]]
+[Field Service Territory Capacity Analytics dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/capacity-dashboard.md)
 
-## Related
-
-- [[capacity-dashboard|Field Service Territory Capacity Analytics dashboard]]
-- [[capacity|Capacity]]
-- [[territory-planning-fsm|Field Service Territory Planning]]
-- [[capacity-reservations|Capacity reservation rules]]

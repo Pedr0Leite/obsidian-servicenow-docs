@@ -16,13 +16,13 @@ breadcrumb: [Reference, Workspace, Source-to-Pay Operations, Finance and Supply 
 
 With Source-to-Pay Workspace Analytics Center, you can ask a question about your data, and see how things are performing now and trends over time.
 
-This Analytics Center is modeled using Natural Language Query \(NLQ\) which is helpful in converting natural language into database queries, thus fetching relevant data from the respective database tables. In this case, NLQ is developed with the help of configurable synonyms and semantic shortcuts. In synonyms, for example, to fetch data from the [[supplier|Supplier]] column in the Purchase Line table, a synonym "vendor" is added. Similarly, multiple synonyms can be configured to further improve search results. In semantics, conditions can be configured for the synonym such that search results can be further optimized. For example, to render appropriate search results for closed [[contracts|contracts]], a condition "active=false" is configured against the synonym "closed" for the Contract Task table.
+This Analytics Center is modeled using Natural Language Query \(NLQ\) which is helpful in converting natural language into database queries, thus fetching relevant data from the respective database tables. In this case, NLQ is developed with the help of configurable synonyms and semantic shortcuts. In synonyms, for example, to fetch data from the Supplier column in the Purchase Line table, a synonym "vendor" is added. Similarly, multiple synonyms can be configured to further improve search results. In semantics, conditions can be configured for the synonym such that search results can be further optimized. For example, to render appropriate search results for closed contracts, a condition "active=false" is configured against the synonym "closed" for the Contract Task table.
 
 \[Omitted image "workspace-analytics-center.png"\] Alt text: Source-to-Pay Workspace Analytics Center
 
 Based on these synonyms and semantic conditions, some of the predefined supported questions are listed here.
 
--   [[purchase-requisition|Purchase requisition]]
+-   Purchase requisition
     -   Order type
         -   Show me purchase requisitions of type standard
         -   Show me purchase requisitions of type blanket
@@ -34,27 +34,27 @@ Based on these synonyms and semantic conditions, some of the predefined supporte
     -   Active
         -   Show me all open purchase requisitions
         -   Show me all closed purchase requisitions
--   [[sourcing-request|Sourcing request]]: Active
+-   Sourcing request: Active
     -   Show me all open sourcing requests
     -   Show me all closed sourcing requests
 -   Negotiation: Active
-    -   Show me all open [[negotiations|negotiations]]
+    -   Show me all open negotiations
     -   Show me all closed negotiations
 -   Purchase line: Product type
-    -   Show me all [[purchase-lines|purchase lines]] of type good
+    -   Show me all purchase lines of type good
     -   Show me all purchase lines of type goods
     -   Show me all purchase lines of type service
 -   Purchasing tasks and all extensions of purchasing tasks: Active
     -   Show me all open &lt;task type&gt;
     -   Show me all closed &lt;task type&gt;
--   [[purchase-order-table|Purchase order]]: Order type
+-   Purchase order: Order type
     -   Show me purchase orders of type standard
     -   Show me purchase orders of type blanket
 -   Purchase order line: Product type
-    -   Show me all [[purchase-order-lines|purchase order lines]] of type good
+    -   Show me all purchase order lines of type good
     -   Show me all purchase order lines of type goods
     -   Show me all purchase order lines of type service
--   [[milestones|Milestones]]
+-   Milestones
     -   Completion date
         -   Show me upcoming milestones
         -   Show me today's milestones
@@ -63,7 +63,7 @@ Based on these synonyms and semantic conditions, some of the predefined supporte
     -   Active
         -   Show me all open milestones
         -   Show me all closed milestones
--   [[receipt-tasks|Receipt tasks]]: Active
+-   Receipt tasks: Active
     -   Show me all open receipt tasks
     -   Show me all closed receipt tasks
 -   Procurement cases: Active
@@ -76,15 +76,3 @@ If you do not get the desired search results, select **How can I improve my resu
 
 **Parent Topic:**[Source-to-Pay Workspace Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-workspace/source-to-pay-ws-reference.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[contracts|Contracts]]
-- [[purchase-requisition|Purchase requisition]]
-- [[sourcing-request|Sourcing request]]
-- [[negotiations|Negotiations]]
-- [[purchase-lines|Purchase lines]]
-- [[purchase-order-table|Purchase order]]
-- [[purchase-order-lines|Purchase order lines]]
-- [[milestones|Milestones]]
-- [[receipt-tasks|Receipt tasks]]

@@ -19,7 +19,7 @@ Configure delay rules to postpone incident creation for alerts that may resolve 
 
 ## Before you begin
 
-Verify that you have installed the [[itom-health-landing-page|ITOM AIOps]] and Now Assist for [[r_ITOMApplications|IT Operations Management]] \(ITOM\) plugins.
+Verify that you have installed the ITOM AIOps and Now Assist for IT Operations Management \(ITOM\) plugins.
 
 Ensure you're in the Configure IT Operations Management page.
 
@@ -31,7 +31,7 @@ Delay incident rules help reduce unnecessary incident creation by waiting for a 
 
 ## Procedure
 
-1.  Navigate to **Configuration Summary** &gt; **[[c_EM|Event Management]]** &gt; **Reduce Noise**.
+1.  Navigate to **Configuration Summary** &gt; **Event Management** &gt; **Reduce Noise**.
 
 2.  Expand **Reduce Noise**.
 
@@ -49,8 +49,4 @@ Delay incident rules help reduce unnecessary incident creation by waiting for a 
 
 6.  To complete the setup, select **Mark as configured**.
 
-## Related
 
-- [[itom-health-landing-page|ITOM AIOps]]
-- [[r_ITOMApplications|IT Operations Management]]
-- [[c_EM|Event Management]]

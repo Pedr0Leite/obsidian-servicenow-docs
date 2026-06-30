@@ -14,7 +14,7 @@ breadcrumb: [Now Assist in Knowledge Management, Manage content capabilities, Ex
 
 # Configuring Now Assist in Knowledge Management
 
-If you have the admin role, you can configure the Now Assist in the [[knowledge-management|Knowledge Management]] application, enabling agents to use its generative AI skills within their application workspace and the classic environment.
+If you have the admin role, you can configure the Now Assist in the Knowledge Management application, enabling agents to use its generative AI skills within their application workspace and the classic environment.
 
 ## Configuration overview
 
@@ -23,9 +23,9 @@ Configure how agents use generative AI capabilities to generate new knowledge ar
 -   **[Configuring the KB generation skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/Now-Assist-configuring-km-skills.md)**  
 Configure the KB generation skill that agents can use to draft a knowledge article with Now Assist.
 -   **[Configure skill for Now Assist context menu](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/Now-Assist-configuring-context-menu-skill.md)**  
-Configure the knowledge content recommendation skill so that the agents can use the Now Assist context menu to expand or shorten a knowledge article in TinyMCE. With the new content editor available in the [[knowledge-center|Knowledge Center]], agents can create and edit knowledge articles using custom instructions.
+Configure the knowledge content recommendation skill so that the agents can use the Now Assist context menu to expand or shorten a knowledge article in TinyMCE. With the new content editor available in the Knowledge Center, agents can create and edit knowledge articles using custom instructions.
 -   **[Configure skills with custom prompts for knowledge article templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/Now-assist-configure-custom-prompts-for-templates.md)**  
-[[now-assist-knowledge-management|Now Assist in Knowledge Management]] has extended the out-of-box \(OOB\) KB generation skill to create custom prompts for OOB and custom [[knowledge-article-templates|knowledge article templates]].
+Now Assist in Knowledge Management has extended the out-of-box \(OOB\) KB generation skill to create custom prompts for OOB and custom knowledge article templates.
 -   **[Configure and activate the Now Assist Identify duplicate articles skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/Now-Assist-configuring-identify-duplicate-article-skill.md)**  
 Configure the Knowledge content management skill to enable admins and managers to activate the Now Assist Identify duplicate articles skill.
 -   **[Configuring Article Optimization skill and prompts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/configure-kc-AO-skill.md)**  
@@ -35,20 +35,11 @@ The Out-of-Box \(OOB\) Knowledge Center settings provide default configurations 
 -   **[Configure Now Assist Skills for potential gaps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/configure-na-km.md)**  
 The Potential Gaps also known as the knowledge gaps feature identifies missing knowledge articles. This functionality is available only when the Knowledge Gaps skill is activated in Now Assist Admin. Configuring this skill is necessary when working with gaps.
 -   **[Configure Now Assist skills for merging articles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/configure-merge-article.md)**  
-To merge the duplicate knowledge articles, activate Now Assist skills for merging the duplicate articles. Once configured, these skills enable the system to [[merge-duplicate-articles|merge duplicate articles]] effectively, ensuring consistent and streamlined content management.
+To merge the duplicate knowledge articles, activate Now Assist skills for merging the duplicate articles. Once configured, these skills enable the system to merge duplicate articles effectively, ensuring consistent and streamlined content management.
 -   **[Enable multilingual service in Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/Now-assist-enable-multilingual-service.md)**  
-[[Now-assist-enable-multilingual-service|Enable multilingual service in Now Assist]] Admin for Knowledge Management to support different languages in various third-party AI model providers. Select the languages that you want enabled for each of the AI model providers and enable native and dynamic translation support.
+Enable multilingual service in Now Assist Admin for Knowledge Management to support different languages in various third-party AI model providers. Select the languages that you want enabled for each of the AI model providers and enable native and dynamic translation support.
 -   **[Enable article optimization recommendations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/enable-ao-recommendations.md)**  
-[[enable-ao-recommendations|Enable article optimization recommendations]] in Now Assist to activate AI-powered improvement suggestions for knowledge articles.
+Enable article optimization recommendations in Now Assist to activate AI-powered improvement suggestions for knowledge articles.
 
 **Parent Topic:**[Now Assist in Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/now-assist-knowledge-management.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]
-- [[knowledge-center|Knowledge Center]]
-- [[now-assist-knowledge-management|Now Assist in Knowledge Management]]
-- [[knowledge-article-templates|Knowledge article templates]]
-- [[merge-duplicate-articles|Merge duplicate articles]]
-- [[Now-assist-enable-multilingual-service|Enable multilingual service in Now Assist]]
-- [[enable-ao-recommendations|Enable article optimization recommendations]]

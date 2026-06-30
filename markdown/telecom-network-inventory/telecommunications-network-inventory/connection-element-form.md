@@ -14,7 +14,7 @@ breadcrumb: [Reference, Telecommunications Network Inventory]
 
 # Connection Element form
 
-The Connection Element form enables you to define the connection elements for the physical connections and [[design-logical-connection-design-assign-playbook|logical connections]] in the [[telecom-network-inventory|Telecommunications Network Inventory]] application. You can create, review, update, and delete the elements in this form.
+The Connection Element form enables you to define the connection elements for the physical connections and logical connections in the Telecommunications Network Inventory application. You can create, review, update, and delete the elements in this form.
 
 <table id="table_rlf_45m_x5b"><thead><tr><th>
 
@@ -96,7 +96,3 @@ Cable number of the physical element.
 </td></tr></tbody>
 </table>**Parent Topic:**[Telecommunications Network Inventory reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telecommunications-network-inventory-reference.md)
 
-## Related
-
-- [[design-logical-connection-design-assign-playbook|Logical connections]]
-- [[telecom-network-inventory|Telecommunications Network Inventory]]

@@ -14,7 +14,7 @@ breadcrumb: [Configuring Sidebar, Sidebar, Conversational Interfaces]
 
 # Setting up Sidebar
 
-Enabling [[sidebar-participant-suggestions|participant suggestions in Sidebar]] displays a list of knowledgeable users who can help with the issue. After you enable participant suggestions, you can configure who [[sidebar-landing|Sidebar]] decides is knowledgeable user and which groups have access. After [[install-sidebar|installing Sidebar]], activate and configure Sidebar so agents can collaborate with others to resolve issues.
+Enabling participant suggestions in Sidebar displays a list of knowledgeable users who can help with the issue. After you enable participant suggestions, you can configure who Sidebar decides is knowledgeable user and which groups have access. After installing Sidebar, activate and configure Sidebar so agents can collaborate with others to resolve issues.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings**.
 
 2.  Select **Sidebar** from the left menu.
 
@@ -123,7 +123,7 @@ If Sidebar isn't already integrated with Microsoft Teams, select **Set up** to c
 
 -   View configuration \(for more information, see [Enable or configure the Microsoft Teams integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/enable-teams-integration.md)\).
 -   View permissions \(for more information, see [Manage Microsoft Teams permissions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/manage-teams-permissions.md)\)
--   Remove integration - if you select this option, a warning message displays that the integration between [[sidebar-teams-overview|Sidebar and Microsoft Teams]] will be removed. Select Cancel if you don't want to remove the integration or select Remove if you want to remove the integration.
+-   Remove integration - if you select this option, a warning message displays that the integration between Sidebar and Microsoft Teams will be removed. Select Cancel if you don't want to remove the integration or select Remove if you want to remove the integration.
 
 
 </td></tr><tr><td>
@@ -137,7 +137,7 @@ If Sidebar isn't already integrated with Slack, select **Set up** to configure t
  If Sidebar has already been integrated with Slack, the Manage drop-down list appears. Select a configuration option:
 
 -   View configuration
--   Remove - if you select this option, a warning message displays that the integration between [[sidebar-slack-overview|Sidebar and Slack]] will be removed. Select Cancel if you don't want to remove the integration or select Remove if you want to remove the integration.
+-   Remove - if you select this option, a warning message displays that the integration between Sidebar and Slack will be removed. Select Cancel if you don't want to remove the integration or select Remove if you want to remove the integration.
 
 
 </td></tr></tbody>
@@ -145,11 +145,4 @@ If Sidebar isn't already integrated with Slack, select **Set up** to configure t
 
 5.  Select **Save**.
 
-## Related
 
-- [[sidebar-participant-suggestions|Participant suggestions in Sidebar]]
-- [[sidebar-landing|Sidebar]]
-- [[install-sidebar|Installing Sidebar]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[sidebar-teams-overview|Sidebar and Microsoft Teams]]
-- [[sidebar-slack-overview|Sidebar and Slack]]

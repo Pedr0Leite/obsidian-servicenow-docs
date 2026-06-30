@@ -14,11 +14,11 @@ breadcrumb: [Service Level Management reference, Service Level Management, IT Se
 
 # SLA timeline
 
-The SLA timeline is a feature of the [[service-level-mgmt-landing-page|Service Level Management]] application. The SLA timeline detail helps you understand the progress of an SLA. The timeline provides detailed insight to the task updates which triggered stage changes during the life cycle of a task SLA.
+The SLA timeline is a feature of the Service Level Management application. The SLA timeline detail helps you understand the progress of an SLA. The timeline provides detailed insight to the task updates which triggered stage changes during the life cycle of a task SLA.
 
 The SLA timeline detail helps you to:
 
--   View the progress of SLAs, OLAs, and underpinning [[c_Contracts|contracts]].
+-   View the progress of SLAs, OLAs, and underpinning contracts.
 -   View related task updates.
 -   Identify the reason a task update triggered a specific stage in the task SLA.
 -   Debug and verify a task SLA and the SLA definition.
@@ -224,7 +224,3 @@ When a new SLA Definition is created the SLA Timeline can be used to see how the
 
 [Understand why an SLA did not trigger as expected](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/why-sla-did-not-trigger.md)
 
-## Related
-
-- [[service-level-mgmt-landing-page|Service Level Management]]
-- [[c_Contracts|Contracts]]

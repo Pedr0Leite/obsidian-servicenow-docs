@@ -25,15 +25,11 @@ Request an extension for the policy exception that you created.
 -   **[Review the policy exception and extension request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/review-policy-exception-request.md)**  
 After reviewing a policy exception request, a compliance manager can accept or reject the request. However, if the compliance manager doesn't have enough information decide, they can request a risk assessment by the risk manager.
 -   **[Request a policy exception through Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/request-policy-exception-service-portal.md)**  
-Your employees and business users within your company can [[request-policy-exception|request a policy exception]] through the ServiceNow® Service Portal.
+Your employees and business users within your company can request a policy exception through the ServiceNow® Service Portal.
 -   **[Request a policy extension through Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/request-policy-extension.md)**  
 From the ServiceNow® Portal, anyone who has requested a policy exception can request an extension before the policy deadline.
 -   **[Policy Exception Integration with Vulnerability Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/request-pe-from-vr.md)**  
-Starting with Version 10.1, you can request policy exceptions using the GRC policy exception management capability inherent in the [[r_PolicyComplianceMgmt|Policy and Compliance Management]] application from within version 10.3 of the Vulnerability Response application.
+Starting with Version 10.1, you can request policy exceptions using the GRC policy exception management capability inherent in the Policy and Compliance Management application from within version 10.3 of the Vulnerability Response application.
 
 **Parent Topic:**[Classic UI for Policy and Control Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/using-policy-compliance-legacy-ui.md)
 
-## Related
-
-- [[request-policy-exception|Request a policy exception]]
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

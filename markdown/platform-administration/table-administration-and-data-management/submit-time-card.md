@@ -14,7 +14,7 @@ breadcrumb: [Time cards, Time Card management, Working with Task table, Table ad
 
 # Submit a time card
 
-As a time card user, once a time card for the week is updated with the [[c_TimeWorked|time worked]], you can submit the time card individually.
+As a time card user, once a time card for the week is updated with the time worked, you can submit the time card individually.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ When a user submits a time card, the [time sheet policy](https://raw.githubuserc
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[time-sheets|Time Sheets]]** &gt; **My Time Sheets** &gt; **All**.
+1.  Navigate to **All** &gt; **Time Sheets** &gt; **My Time Sheets** &gt; **All**.
 
 2.  Select the time sheet that you want to submit the time card for.
 
@@ -35,7 +35,7 @@ When a user submits a time card, the [time sheet policy](https://raw.githubuserc
 
 4.  Select **Submit Time Card**.
 
-    **Note:** Submit multiple [[c_TimeCards|time cards]] by selecting **Submit Time Card** from the actions on selected rows menu.
+    **Note:** Submit multiple time cards by selecting **Submit Time Card** from the actions on selected rows menu.
 
 
 ## Result
@@ -48,8 +48,3 @@ When a user submits a time card, the [time sheet policy](https://raw.githubuserc
 
 **Parent Topic:**[Time cards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_TimeCards.md)
 
-## Related
-
-- [[c_TimeWorked|Time worked]]
-- [[time-sheets|Time Sheets]]
-- [[c_TimeCards|Time cards]]

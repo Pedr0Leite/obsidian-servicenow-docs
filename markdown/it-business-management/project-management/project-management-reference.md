@@ -14,9 +14,5 @@ breadcrumb: [Project Management, Project Portfolio Management, Strategic Portfol
 
 # Project Management reference
 
-Reference information to provide additional details about [[c_ProjectApplicationOverview|Project Management]] such as the fields, user [[spmr-roles-tables-properties|roles, tables, and properties]].
+Reference information to provide additional details about Project Management such as the fields, user roles, tables, and properties.
 
-## Related
-
-- [[c_ProjectApplicationOverview|Project Management]]
-- [[spmr-roles-tables-properties|Roles, tables, and properties]]

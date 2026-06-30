@@ -14,7 +14,7 @@ breadcrumb: [Managed Documents, Document Services, Manage content capabilities, 
 
 # Knowledge Document plugin
 
-The Knowledge Document plugin extends the [[r_ManagedDocumentsPlugin|Managed Documents plugin]] by providing the functionality for [[c_ManagedDocuments|managed documents]] to be published to the Knowledge Base.
+The Knowledge Document plugin extends the Managed Documents plugin by providing the functionality for managed documents to be published to the Knowledge Base.
 
 -   **[Installed with Knowledge Document plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/r_InstalledWithKnowledgeDocument.md)**  
 These elements are installed with the Knowledge Document plugin.
@@ -23,7 +23,3 @@ Manage a document and access the latest version of the document from an article 
 
 **Parent Topic:**[Managed Documents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/c_ManagedDocuments.md)
 
-## Related
-
-- [[r_ManagedDocumentsPlugin|Managed Documents plugin]]
-- [[c_ManagedDocuments|Managed Documents]]

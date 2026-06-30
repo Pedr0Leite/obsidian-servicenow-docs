@@ -25,7 +25,7 @@ Role required: admin
 
 ## About this task
 
-Guardian filters analyze case conversation content using Now Assist's [[case-sentiment-analysis|sentiment analysis]] engine and detect sensitive or high-risk content. When a filter detects content matching its configured criteria, it redirects the user to a Virtual Agent topic to handle that type of sensitive issue. Now Assist Guardian filters for CSM identify cases that contain sensitive content such as data breaches, legal threats, or reputational risks. By activating these filters, you can confirm that cases involving critical issues are flagged and handled appropriately, reducing response times and improving risk mitigation.
+Guardian filters analyze case conversation content using Now Assist's sentiment analysis engine and detect sensitive or high-risk content. When a filter detects content matching its configured criteria, it redirects the user to a Virtual Agent topic to handle that type of sensitive issue. Now Assist Guardian filters for CSM identify cases that contain sensitive content such as data breaches, legal threats, or reputational risks. By activating these filters, you can confirm that cases involving critical issues are flagged and handled appropriately, reducing response times and improving risk mitigation.
 
 |Filter name|What it detects|Example use case|
 |-----------|---------------|----------------|
@@ -86,6 +86,3 @@ Test the filter by creating a test case with sample phrases that should trigger 
 
 [Now Assist Guardian](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/now-assist-guardian.md)
 
-## Related
-
-- [[case-sentiment-analysis|Sentiment Analysis]]

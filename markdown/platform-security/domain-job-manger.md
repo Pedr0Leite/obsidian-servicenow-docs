@@ -14,7 +14,7 @@ breadcrumb: [Setup and administration, Domain separation for service providers, 
 
 Queue multiple Domain Separation updates sequentially into a single background job using the Domain Job Manager.
 
-When a Domain record is modified such as reparenting or a change in hierarchy, by default, a job executes to fix all the records in [[domain-separated-tables|domain separated tables]]. You can control when this behavior occurs with the **Domain Job Manager** and monitor ongoing job progress with the **View Job Progress** button.
+When a Domain record is modified such as reparenting or a change in hierarchy, by default, a job executes to fix all the records in domain separated tables. You can control when this behavior occurs with the **Domain Job Manager** and monitor ongoing job progress with the **View Job Progress** button.
 
 Use the **Domain Job Manager** to pause domain jobs, queue multiple domain table changes and trigger the queued job when ready with all the changes.
 
@@ -54,7 +54,3 @@ Job State
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[domain-separated-tables|Domain Separated Tables]]

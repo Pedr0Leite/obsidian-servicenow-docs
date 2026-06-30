@@ -14,7 +14,7 @@ breadcrumb: [Reference, Now Assist for Health and Safety, Health and Safety, Emp
 
 # Now Assist Health and Safety skills, AI agents, and agentic workflows
 
-You can identify whether a [[now-assist-hs-landing|Now Assist for Health and Safety]] skill or agentic workflow is active by default or if it must be activated.
+You can identify whether a Now Assist for Health and Safety skill or agentic workflow is active by default or if it must be activated.
 
 To activate a skill, see [Activate a Now Assist for Health and Safety skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/now-assist-hs-activate-skill.md).
 
@@ -24,7 +24,7 @@ For more information on Now Assist AI assets that are on by default, see [Now As
 |-----|-----------------|-----------|
 |Health and Safety incident summarization|Active by default.|Uses Now Assist to summarize safety incidents.|
 |HS incident pattern recommendations|Active by default.|Generates prioritized and actionable safety actions for a safety incident and saves users time.|
-|HS incident pattern summarization|Active by default.|Generates a summary of [[health-safety-overview|Health and Safety]] incidents including the details, actions taken, and root cause analysis.|
+|HS incident pattern summarization|Active by default.|Generates a summary of Health and Safety incidents including the details, actions taken, and root cause analysis.|
 |HS list incident patterns summarization|Active by default.|Analyzes a list of Health and Safety incident patterns to identify which patterns pose the highest risk and requires immediate resolution.|
 |HS Action planner|Active by default.|Analyzes safety records along with historical actions from similar records.|
 
@@ -36,12 +36,7 @@ For more information on Now Assist AI assets that are on by default, see [Now As
 
 |Agentic workflows|Activation status|Description|
 |-----------------|-----------------|-----------|
-|Create actions for safety incidents|Active by default.|Suggests actions automatically for a specific incident and create actions in the [[health-safety-core-workspace|Health and Safety workspace]].|
+|Create actions for safety incidents|Active by default.|Suggests actions automatically for a specific incident and create actions in the Health and Safety workspace.|
 |Help resolve health and safety cases|User must activate the agentic workflow.|Enables faster resolution of case.|
 |Health safety incident patterns assistant|Active by default.|Analyzes Health and safety incident pattern|
 
-## Related
-
-- [[now-assist-hs-landing|Now Assist for Health and Safety]]
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]

@@ -14,15 +14,15 @@ breadcrumb: [Installing and configuring Employee Goals, Employee Goals, Growth E
 
 # Install the Employee Goals application
 
-Install the Employee Goals application to incorporate goals as a tool for developing your organizational talent. The [[egd-goals-landing|Employee Goals]] app gives employees access to their goals from the [[employee-center-landing-page|Employee Center]].
+Install the Employee Goals application to incorporate goals as a tool for developing your organizational talent. The Employee Goals app gives employees access to their goals from the Employee Center.
 
 ## Before you begin
 
 The Employee Goals app has dependency on the following applications:
 
--   [[egd-activities-conversations-module|Career Conversations]]
--   [[egd-landing-page|Talent Development Core]]
--   Employee Center or [[employee-center-pro-landing|Employee Center Pro]]
+-   Career Conversations
+-   Talent Development Core
+-   Employee Center or Employee Center Pro
 
 Role required: admin
 
@@ -48,10 +48,4 @@ Role required: admin
 
 6.  Select **Install**.
 
-## Related
 
-- [[egd-goals-landing|Employee Goals]]
-- [[employee-center-landing-page|Employee Center]]
-- [[egd-activities-conversations-module|Career Conversations]]
-- [[egd-landing-page|Talent Development Core]]
-- [[employee-center-pro-landing|Employee Center Pro]]

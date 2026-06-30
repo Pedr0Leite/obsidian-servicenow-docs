@@ -98,7 +98,7 @@ In this example scenario, your primary model uses the English language and you'r
 
 5.  Select the **Add** button.
 
-    The secondary model is created and the **[[managing-model-content|Build and train your model]]** phase of the secondary model loads.
+    The secondary model is created and the **Build and train your model** phase of the secondary model loads.
 
 
 ## What to do next
@@ -107,6 +107,3 @@ If you chose to enable the model without translation, you must manually enter tr
 
 Entering training utterances and reviewing secondary models can be delegated to users who have the nlu\_editor role. For more information, see [Assign an NLU editor to a model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/assign-nlu-editor-to-model.md) and [Resolve intent issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/resolve-intent-issues.md).
 
-## Related
-
-- [[managing-model-content|Build and train your model]]

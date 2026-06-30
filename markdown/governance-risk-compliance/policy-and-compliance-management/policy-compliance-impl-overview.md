@@ -14,7 +14,7 @@ breadcrumb: [Policy and Compliance Management, Governance, Risk, and Compliance]
 
 # Implementing Policy and Compliance Management
 
-Use the steps in the GRC: [[r_PolicyComplianceMgmt|Policy and Compliance Management]] application checklist to download the Policy and Compliance Management from the ServiceNow Store, and get it ready for operation. Mandatory and optional setup steps, as well as an implementation checklist are provided to simplify the setup.
+Use the steps in the GRC: Policy and Compliance Management application checklist to download the Policy and Compliance Management from the ServiceNow Store, and get it ready for operation. Mandatory and optional setup steps, as well as an implementation checklist are provided to simplify the setup.
 
 The flow of mandatory steps in the checklist are illustrated here.
 
@@ -22,6 +22,3 @@ The flow of mandatory steps in the checklist are illustrated here.
 
 When you have completed the [mandatory steps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/policy-compliance-mandatory-setup.md) outlined above, other [optional setup procedures](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/policy-compliance-optional-steps.md) are available.
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

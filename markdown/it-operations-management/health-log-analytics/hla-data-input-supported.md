@@ -15,7 +15,7 @@ breadcrumb: [Health Log Analytics reference, Health Log Analytics, ITOM AIOps, I
 
 # Supported data inputs for Health Log Analytics
 
-[[hla-landing-page|Health Log Analytics]] \(HLA\) enables you to connect your ServiceNow instance to several types of data input.
+Health Log Analytics \(HLA\) enables you to connect your ServiceNow instance to several types of data input.
 
 HLA supports the following data input types:
 
@@ -29,7 +29,7 @@ HLA supports the following data input types:
     -   [MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-input-mid-server.md)
     -   [GCP PubSub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-input-gcp-pubsub.md)
     -   [REST API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-input-rest-api.md)
-    The [[acc-landing-page|Agent Client Collector]] data input is supported for use with the [Agent Client Collector Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-log-analytics.md) application, available from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
+    The Agent Client Collector data input is supported for use with the [Agent Client Collector Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-log-analytics.md) application, available from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
 
 -   Active data inputs \(pullers\), which pull data from repositories:
 
@@ -70,7 +70,3 @@ In addition, Health Log Analytics supports [Crible](https://raw.githubuserconten
 
 [Set up Health Log Analytics on your ServiceNow instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-implement.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]
-- [[acc-landing-page|Agent Client Collector]]

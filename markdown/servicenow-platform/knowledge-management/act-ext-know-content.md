@@ -14,7 +14,7 @@ breadcrumb: [Integration with external knowledge sources, Configuring Knowledge 
 
 # Activate the External Content Integration plugin
 
-The External Content Integration feature is activated with the [[knowledge-management|Knowledge Management]] - External Content Integration plugin \(com.snc.knowledge.external\_integration\).
+The External Content Integration feature is activated with the Knowledge Management - External Content Integration plugin \(com.snc.knowledge.external\_integration\).
 
 ## Before you begin
 
@@ -44,14 +44,10 @@ Starting with the Washington DC release, the Knowledge Management v3 homepage \(
 
 3.  Select **Install** to start the installation process.
 
-    **Note:** When [[domain-separation-relationship-formatter-editor|domain separation]] and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
+    **Note:** When domain separation and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
 
 **Parent Topic:**[Integration with external knowledge sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/knowledge-external-content-integration.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]

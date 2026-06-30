@@ -26,7 +26,7 @@ You can download a sample file in either CSV or XLSX format, populate it with re
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center**.
 
 2.  Select **Administration** icon on the workspace.
 
@@ -76,6 +76,3 @@ This property sets the maximum number of rows allowed when bulk importing data i
 </table>
 **Parent Topic:**[Working on the Redaction Library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-redaction-library.md)
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]

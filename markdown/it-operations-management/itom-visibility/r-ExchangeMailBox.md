@@ -14,7 +14,7 @@ breadcrumb: [Software discovery, Data collected by ITOM Visibility, ITOM Visibil
 
 # Exchange MailBox discovery
 
-[[r-discovery|Discovery]] creates or updates a CMDB record when it detects a running instance of Exchange Mailbox.
+Discovery creates or updates a CMDB record when it detects a running instance of Exchange Mailbox.
 
 **Note:** For information on Probe to Pattern migration see the knowledge article [KB0694477](https://support.servicenow.com/kb_view.do?sysparm_article=KB0694477).
 
@@ -75,6 +75,3 @@ The following data is collected on the Exchange Mailboxes \[cmdb\_ci\_exchange\_
 
 **Parent Topic:**[Software discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_Software.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

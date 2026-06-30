@@ -16,7 +16,7 @@ breadcrumb: [Ranking records with Spotlight, Configure advanced features, Perfor
 
 When a Spotlight group is copied, the steps of the copying process are recorded in logs. Use these logs to debug any issues.
 
-Users with the pa\_spotlight or admin roles can read and delete [[spotlight-logs|Spotlight job logs]].
+Users with the pa\_spotlight or admin roles can read and delete Spotlight job logs.
 
 The logs are listed at the following locations:
 
@@ -35,6 +35,3 @@ Clicking **Check the logs for details** opens the Spotlight group copy log for t
 
 **Parent Topic:**[Ranking records with Spotlight](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/spotlight/spotlight.md)
 
-## Related
-
-- [[spotlight-logs|Spotlight job logs]]

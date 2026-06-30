@@ -16,7 +16,7 @@ A field represents an individual item of data on a record.
 
 Users can view and modify field data on a form. For more detailed information, see [Field administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_IntroductionToFields.md).
 
-**Parent Topic:**[[c_UsingForms|Forms in the classic environment]]
+**Parent Topic:**[Forms in the classic environment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_UsingForms.md)
 
 ## Field status indicators
 
@@ -49,7 +49,7 @@ Populated — savedPopulated — unsaved
 Required field contains a value that was saved or must be saved. Default color is gray.
 
 </td></tr></tbody>
-</table>\[Omitted image "FieldStatusIndicatorsUI15.png"\] Alt text: [[c_UI16|Core UI]] field status indicators
+</table>\[Omitted image "FieldStatusIndicatorsUI15.png"\] Alt text: Core UI field status indicators
 
 **Related topics**  
 
@@ -64,7 +64,3 @@ The AI indicator, \[Omitted image "AI-indicator-sparkle.png"\] Alt text: AI indi
 
 \[Omitted image "AI-indicator-label-sparkle.png"\] Alt text: AI indicator by field label
 
-## Related
-
-- [[c_UsingForms|Forms in the classic environment]]
-- [[c_UI16|Core UI]]

@@ -14,7 +14,7 @@ breadcrumb: [Discovery for AWS, Discovery for cloud environment, Discovery, ITOM
 
 # AWS SSM discovery
 
-AWS Systems Manager \(SSM\) Agent [[r-discovery|discovery]] introduces a streamlined, agent-based approach to discovering Amazon Elastic Compute Cloud \(EC2\) using AWS SSM. This integration enhances Discovery by leveraging SSM agents to reduce dependency on traditional MID Server configurations, simplify credential management, and improve scalability across multi-region environments.
+AWS Systems Manager \(SSM\) Agent discovery introduces a streamlined, agent-based approach to discovering Amazon Elastic Compute Cloud \(EC2\) using AWS SSM. This integration enhances Discovery by leveraging SSM agents to reduce dependency on traditional MID Server configurations, simplify credential management, and improve scalability across multi-region environments.
 
 ## Workflow
 
@@ -31,7 +31,7 @@ The overall process from a high level is as follows:
 The following examples highlight the primary advantages and practical uses of AWS SSM Agent discovery:
 
 -   Execute discovery without needing additional credentials local to the operating system.
--   Simplify deployment without the need of [[acc-landing-page|Agent Client Collector]] \(ACC\) or Virtual Private Cloud \(VPC\) access.
+-   Simplify deployment without the need of Agent Client Collector \(ACC\) or Virtual Private Cloud \(VPC\) access.
 -   Minimize the need for multiple MID Servers and direct network access to target devices.
 -   Securely manage credentials and command execution using AWS services.
 
@@ -40,11 +40,11 @@ The following examples highlight the primary advantages and practical uses of AW
 Confirm that you have the required versions of the following applications and plugins:
 
 -   Discovery
--   [[cow-landing-page|Cloud Discovery Workspace]] version 1.7.1 or later.
+-   Cloud Discovery Workspace version 1.7.1 or later.
 -   CMDB CI Class Models version 1.74.0 or later.
--   Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns version 1.27.0 or later.
+-   Discovery and Service Mapping Patterns version 1.27.0 or later.
 
-Install the MID Server. For more information, see [[mid-server-configuration-cloud|Install and configure the MID Servers]].
+Install the MID Server. For more information, see [Install and configure the MID Servers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/mid-server-configuration-cloud.md).
 
 Verify that you have an AWS user account with administrative access.
 
@@ -54,7 +54,7 @@ Verify that you have a ServiceNow AI Platform® user account with the discovery\
 
 Currently, the following features don’t support AWS SSM discovery:
 
--   [[file-based-discovery|File-based discovery]]
+-   File-based discovery
 -   Certificate-based discovery
 -   Top-down discovery
 -   Enhanced ADM
@@ -122,14 +122,6 @@ For more information on AWS Management Console configuration, see the [Amazon SS
 
 -   **Create a Cloud Discovery schedule**
 
-    SSM discovery can be deployed within an AWS-based Cloud Discovery schedule in the [[discovery-admin-workspace|Discovery Admin Workspace]]. To do this, go to the Deep discovery step, enable the **Create an IP-based discovery schedule** toggle, and select **Discover servers though AWS Systems Manager \(SSM\) Agent** as the Discovery method. For more information, see [Create an AWS Discovery schedule in Discovery Admin Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/create-AWS-schedule-DAW.md).
+    SSM discovery can be deployed within an AWS-based Cloud Discovery schedule in the Discovery Admin Workspace. To do this, go to the Deep discovery step, enable the **Create an IP-based discovery schedule** toggle, and select **Discover servers though AWS Systems Manager \(SSM\) Agent** as the Discovery method. For more information, see [Create an AWS Discovery schedule in Discovery Admin Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/create-AWS-schedule-DAW.md).
 
-## Related
 
-- [[mid-server-configuration-cloud|Install and configure MID Servers to access cloud environments]]
-- [[r-discovery|Discovery]]
-- [[acc-landing-page|Agent Client Collector]]
-- [[cow-landing-page|Cloud Discovery Workspace]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[file-based-discovery|File-based Discovery]]
-- [[discovery-admin-workspace|Discovery Admin Workspace]]

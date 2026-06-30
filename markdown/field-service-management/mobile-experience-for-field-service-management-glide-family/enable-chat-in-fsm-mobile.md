@@ -18,7 +18,7 @@ Activate the Chat quick action so that field service agents can chat with a virt
 
 ## Before you begin
 
-Make sure that virtual chat is set up for use in the Employee Service Center. For more information about virtual chat, see [[virtual-agent-fsm|Virtual Agent for Field Service Management]].
+Make sure that virtual chat is set up for use in the Employee Service Center. For more information about virtual chat, see Virtual Agent for Field Service Management.
 
 Role required: admin
 
@@ -34,6 +34,4 @@ Role required: admin
 
 5.  Click **Update**.
 
-## Related
 
-- [[virtual-agent-fsm|Virtual Agent for Field Service Management]]

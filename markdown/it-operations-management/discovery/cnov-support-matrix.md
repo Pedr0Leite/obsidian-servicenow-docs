@@ -15,7 +15,7 @@ breadcrumb: [Kubernetes Visibility Agent Reference, Kubernetes discovery using K
 
 # Kubernetes Visibility Agent support matrix
 
-The [[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]] component is supported on several versions of Kubernetes and OpenShift and in various Kubernetes environments.
+The Kubernetes Visibility Agent component is supported on several versions of Kubernetes and OpenShift and in various Kubernetes environments.
 
 **Note:** To deploy KVA in the OKE \(Oracle Kubernetes Engine\) environment, you need to create a Kubernetes Cluster on Oracle Cloud Infrastructure. For more information, see the [Oracle](https://www.oracle.com/) documentation.
 
@@ -30,6 +30,3 @@ When you run Kubernetes Visibility Agent \(KVA\) \(formerly CNO for Visibility\)
 
 **Parent Topic:**[Kubernetes Visibility Agent Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cnov-reference.md)
 
-## Related
-
-- [[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]]

@@ -24,11 +24,11 @@ Premium chat is a conversational interface powered by Now Assist. Instead of fil
 -   Catalog items use client-side scripts that change the form dynamically as the user fills it in. For example, hiding certain fields based on earlier answers, or running a calculation. These scripts only work in a traditional browser form and can't be replicated inside a chat window, so the item can't be made conversational while these scripts are active.
 -   Similar to scripts, UI policies are rules that change what requesters see on the form based on their inputs. Because these rules depend on the form rendering in a browser, they aren't compatible with the step-by-step chat approach.
 -   Every field on the catalog item is either hidden from the user, pre-filled with a default value, or set to read-only. Since there are no questions left, there is nothing for a conversational experience to do.
--   Some questions types, such as [[check-box|check box]], Custom, Render [[ui-page|UI Page]], Custom with [[label|Label]], [[lookup-select-box|Lookup Select Box]], [[list-collector|List Collector]], [[lookup-multiple-choice|Lookup Multiple Choice]], [[masked|Masked]], Table Question, [[requested-for|Requested For]], [[attachment|Attachment]] Question, Table Name aren't supported.
+-   Some questions types, such as check box, Custom, Render UI Page, Custom with Label, Lookup Select Box, List Collector, Lookup Multiple Choice, Masked, Table Question, Requested For, Attachment Question, Table Name aren't supported.
 -   Some fields let users pick a value from a list \(for example, choosing a specific laptop model from a catalog\). Items with this kind of advanced filtering fall back to the traditional form.
 -   If any question on the catalog item influences the cost or pricing of what is being requested, the item can't be handled conversationally. Pricing implications aren't yet supported in the chat interface.
 -   Some catalog items include a section where the user can add multiple rows of information. For example, ordering accessories for several employees at once. This kind of repeating, table-style input is not yet supported in a Premium chat interface.
--   Certain catalog item types, such as [[c_ServiceCatalogOrderGuides|order guides]], wizard, content items, or standard change templates, have a structure that is more complex than a simple request. These types are not eligible for the conversational experience and open as a traditional form.
+-   Certain catalog item types, such as order guides, wizard, content items, or standard change templates, have a structure that is more complex than a simple request. These types are not eligible for the conversational experience and open as a traditional form.
 
 **Note:**
 
@@ -37,15 +37,3 @@ Premium chat is a conversational interface powered by Now Assist. Instead of fil
 
 **Parent Topic:**[Conversational catalog request reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/conversational-catalog-request-reference.md)
 
-## Related
-
-- [[check-box|Check box]]
-- [[ui-page|UI page]]
-- [[label|Label]]
-- [[lookup-select-box|Lookup select box]]
-- [[list-collector|List collector]]
-- [[lookup-multiple-choice|Lookup multiple choice]]
-- [[masked|Masked]]
-- [[requested-for|Requested for]]
-- [[attachment|Attachment]]
-- [[c_ServiceCatalogOrderGuides|Order guides]]

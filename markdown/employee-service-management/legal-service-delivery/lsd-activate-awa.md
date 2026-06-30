@@ -14,7 +14,7 @@ breadcrumb: [Configure, Advanced work assignment for Legal Service Delivery, Int
 
 # Activate Advanced Work Assignment for Legal Service Delivery
 
-You can activate the [[lsd-awa-landing|Advanced Work Assignment for Legal Service Delivery]] plugin \(sn\_lg\_awa\) for [[legal-management-overview|Legal Service Delivery]] if you have the admin role.
+You can activate the Advanced Work Assignment for Legal Service Delivery plugin \(sn\_lg\_awa\) for Legal Service Delivery if you have the admin role.
 
 ## Before you begin
 
@@ -55,10 +55,5 @@ For more information, see [Components installed for Advanced Work Assignment for
 
     **Note:** If you're using skill management, ensure you have the right subscription.
 
--   Configure [[legal-va-live-agent|live agent support for legal services]]. For more information, see [Configure Virtual Agent conversation topics for legal services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/configure-legal-va.md).
+-   Configure live agent support for legal services. For more information, see [Configure Virtual Agent conversation topics for legal services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/configure-legal-va.md).
 
-## Related
-
-- [[lsd-awa-landing|Advanced work assignment for Legal Service Delivery]]
-- [[legal-management-overview|Legal Service Delivery]]
-- [[legal-va-live-agent|Live agent support for legal services]]

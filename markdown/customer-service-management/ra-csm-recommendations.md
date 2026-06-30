@@ -22,7 +22,7 @@ There are three types of recommendations that are provided to agents:
 
 ## Creating a recommendation
 
-When you create a recommendation, you can select the type from the New Recommendation screen. This screen [[migration-lists|lists]] the available types.
+When you create a recommendation, you can select the type from the New Recommendation screen. This screen lists the available types.
 
 \[Omitted image "ra-new-recommendation-screen.png"\] Alt text: New Recommendation screen that presents available recommendation types.
 
@@ -36,7 +36,7 @@ When you create a recommendation, you select an action type and an action. The n
 
 When you create a recommendation, provide this information and save the record. After saving, you can see the Action inputs form section. Inputs are parameters that go into an action and enable agents to complete that action. You can select relevant inputs manually, from the context record, context inputs,or from the resource generator.
 
-You can access the recommendation records by navigating to **All** &gt; **[[configure-nba|Recommended Actions]]** &gt; **Recommendations**. New recommendations can be created only inside the [[gamification-components-rules|rules]]. For more information, see [[ra-csm-recommendations-create|Create a recommendation]].
+You can access the recommendation records by navigating to **All** &gt; **Recommended Actions** &gt; **Recommendations**. New recommendations can be created only inside the rules. For more information, see [Create a recommendation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-recommendations-create.md).
 
 <table id="table_ic2_qzz_ztb"><thead><tr><th>
 
@@ -140,15 +140,8 @@ Group
 
 </td><td>
 
-Group created by a defined grouping strategy that displays relevant recommendations together.**Note:** You might need to configure the Recommendation form to display the **Group** field. This field is available by default for Workforce [[optimization|Optimization]] for ITSM users.
+Group created by a defined grouping strategy that displays relevant recommendations together.**Note:** You might need to configure the Recommendation form to display the **Group** field. This field is available by default for Workforce Optimization for ITSM users.
 
 </td></tr></tbody>
 </table>**Note:** The **Action type**, **Action**, and **Recommendation hint** fields aren’t shown for the AI search resource generator. You can configure the **Action type** and **Action** fields, and mapping between AI search outputs and guidance actions inputs in the Search result mapping related list.
 
-## Related
-
-- [[ra-csm-recommendations-create|Create a recommendation in Recommended Actions]]
-- [[migration-lists|Lists]]
-- [[configure-nba|Recommended Actions]]
-- [[gamification-components-rules|Rules]]
-- [[optimization|Optimization]]

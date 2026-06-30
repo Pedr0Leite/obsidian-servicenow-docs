@@ -24,7 +24,7 @@ Role required: admin
 
 You can configure the audiences that define who can access the SOW landing pages. For information about audiences, see [Learn about audiences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/add-audiences.md).
 
-By default, the SOW [[dex-workspace-dashboard-tab|landing page]] is associated with the following audiences. To access SOW, a user must align with the following criteria.
+By default, the SOW landing page is associated with the following audiences. To access SOW, a user must align with the following criteria.
 
 -   The user has the admin role
 -   The user has the sn\_incident\_write role and belongs to the Service Desk user group.
@@ -51,11 +51,11 @@ By default, the SOW [[dex-workspace-dashboard-tab|landing page]] is associated w
 
 3.  From the **Experiences** section, select **Service Operations Workspace**.
 
-4.  From the **Pages and Variants** section, select **[[settings-mobile|Settings]]** for **Home Landing Page**.
+4.  From the **Pages and Variants** section, select **Settings** for **Home Landing Page**.
 
 5.  On the Variant: Service desk landing page SNC page, from the **Pages and variants** section, select **Service Desk landing page SNC**.
 
-6.  Change the application scope to [[c_IncidentManagement|Incident management]] for Service Operations Workspace.
+6.  Change the application scope to Incident management for Service Operations Workspace.
 
 7.  From the **Audiences** section, select **Edit all audiences**.
 
@@ -63,8 +63,4 @@ By default, the SOW [[dex-workspace-dashboard-tab|landing page]] is associated w
 
 9.  Search for your audience and select **Save**.
 
-## Related
 
-- [[dex-workspace-dashboard-tab|Landing page]]
-- [[settings-mobile|Settings]]
-- [[c_IncidentManagement|Incident Management]]

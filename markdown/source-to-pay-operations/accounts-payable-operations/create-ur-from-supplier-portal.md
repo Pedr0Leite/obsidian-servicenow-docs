@@ -15,7 +15,7 @@ breadcrumb: [Using Supplier Collaboration Portal in APO, Use, Accounts Payable O
 
 # Create Universal Request from Supplier portal
 
-[[create-universal-request-spo|Create a Universal Request]] \(UR\) from the [[supplier-central|Supplier Collaboration Portal]] to submit invoice inquiries directly to the [[purch-order-mgmt-ws|Source-to-Pay Workspace]] for processing.
+Create a Universal Request \(UR\) from the Supplier Collaboration Portal to submit invoice inquiries directly to the Source-to-Pay Workspace for processing.
 
 ## Before you begin
 
@@ -23,11 +23,11 @@ Role required: sn\_slm.contact
 
 Plugins required:
 
--   [[universal-request|Universal Request]] for [[source-to-pay-operations-overview|Source-to-Pay Operations]] Plugin \[sn\_fsc\_ur\_common\] plugin \(contains dependent plugin Universal Request Plugin \[com.snc.universal\_request\]\)
--   [[supplier-common|Supplier Common Architecture]] \[com.snc.sn\_slm\]
--   [[acc-pay-case-mgmt-overview|Invoice Case Management]] \[com.sn\_ap\_cm\].
+-   Universal Request for Source-to-Pay Operations Plugin \[sn\_fsc\_ur\_common\] plugin \(contains dependent plugin Universal Request Plugin \[com.snc.universal\_request\]\)
+-   Supplier Common Architecture \[com.snc.sn\_slm\]
+-   Invoice Case Management \[com.sn\_ap\_cm\].
 
-This video shows you how to create a Universal Request.\[Omitted video\] Description: The video shows you how to create a Universal Request from the [[supplier|Supplier]] Portal.
+This video shows you how to create a Universal Request.\[Omitted video\] Description: The video shows you how to create a Universal Request from the Supplier Portal.
 
 ## Procedure
 
@@ -35,7 +35,7 @@ This video shows you how to create a Universal Request.\[Omitted video\] Descrip
 
 2.  Select **Request Help** to create a UR.
 
-    The [[ur-request-help-form|Request Help form]] appears. For more information on the fields in the form, see [Request Help form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/ur-request-help-form.md).\[Omitted image "ur-request-help-form.png"\] Alt text: Request help form
+    The Request Help form appears. For more information on the fields in the form, see [Request Help form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/ur-request-help-form.md).\[Omitted image "ur-request-help-form.png"\] Alt text: Request help form
 
 3.  Select **Submit**.\[Omitted image "ur-inquiry.png"\] Alt text: UR inquiry
 
@@ -51,14 +51,3 @@ The Universal Request is created.
 
 [Universal Request in Accounts Payable Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/universal-request-in-apo.md)
 
-## Related
-
-- [[create-universal-request-spo|Create a Universal Request]]
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[universal-request|Universal Request]]
-- [[source-to-pay-operations-overview|Source-to-Pay Operations]]
-- [[supplier-common|Supplier Common Architecture]]
-- [[acc-pay-case-mgmt-overview|Invoice Case Management]]
-- [[supplier|Supplier]]
-- [[ur-request-help-form|Request Help form]]

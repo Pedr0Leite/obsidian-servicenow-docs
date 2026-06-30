@@ -14,7 +14,7 @@ breadcrumb: [Manage your network functions, Define inventory records, Use, Telec
 
 # Define the network function details
 
-Create a network function record in the [[telecom-network-inventory|Telecommunications Network Inventory]] application. You can manage the network functions such as 5Physical Network Function \(PNF\), Virtual Network Function \(VNF\) and so on.
+Create a network function record in the Telecommunications Network Inventory application. You can manage the network functions such as 5Physical Network Function \(PNF\), Virtual Network Function \(VNF\) and so on.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ When you create a network function record, it creates a corresponding configurat
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then select **Inventory** &gt; **Network Function**.
 
@@ -41,7 +41,3 @@ When you create a network function record, it creates a corresponding configurat
 
 **Parent Topic:**[Manage your network functions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/services.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]

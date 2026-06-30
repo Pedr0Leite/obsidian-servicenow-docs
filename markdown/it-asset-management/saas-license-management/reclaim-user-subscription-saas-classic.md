@@ -14,13 +14,13 @@ breadcrumb: [Reclaiming user subscriptions, SaaS License Management, Software As
 
 # Reclaim user subscriptions in Software Asset Management classic
 
-Reclaim unused SaaS and SSO subscriptions in the [[c_SoftwareAssetMgmt|Software Asset Management]] classic application.
+Reclaim unused SaaS and SSO subscriptions in the Software Asset Management classic application.
 
 ## Before you begin
 
 Role required: sam\_user
 
-**Important:** The [[sam-subscription-management|SaaS License Management]] SurveyMonkey integration does not support reclamation through the ServiceNow AI Platform. To reclaim a SurveyMonkey user subscription, you must reassign or delete the user from your SurveyMonkey team directly using the SurveyMonkey admin portal. After the user is removed from your team, you must update the state of the corresponding removal candidate to **Closed Skipped** so that the user subscription is removed from the Software Subscriptions \[samp\_sw\_subscription\] table. See [Reclaim SurveyMonkey user subscriptions in Software Asset Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/reclaim-surveymonkey-subscription.md) for detailed instructions.
+**Important:** The SaaS License Management SurveyMonkey integration does not support reclamation through the ServiceNow AI Platform. To reclaim a SurveyMonkey user subscription, you must reassign or delete the user from your SurveyMonkey team directly using the SurveyMonkey admin portal. After the user is removed from your team, you must update the state of the corresponding removal candidate to **Closed Skipped** so that the user subscription is removed from the Software Subscriptions \[samp\_sw\_subscription\] table. See [Reclaim SurveyMonkey user subscriptions in Software Asset Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/reclaim-surveymonkey-subscription.md) for detailed instructions.
 
 **Important:** The SaaS License Management monday.com integration does not support reclamation through the ServiceNow AI Platform. To reclaim a monday.com user subscription, you must deactivate the user on your monday.com account. After the user is deactivated, you must update the state of the corresponding removal candidate to **Closed Skipped** so that the user subscription is removed from the Software Subscriptions \[samp\_sw\_subscription\] table. See [Reclaim monday.com user subscriptions in Software Asset Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/reclaim-monday-subscription.md) for detailed instructions.
 
@@ -57,7 +57,3 @@ Reclaim unused Roadmunk subscriptions to reduce your total software costs.
 
 **Parent Topic:**[Reclaiming user subscriptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/reclaiming-user-subscriptions-saas.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-subscription-management|SaaS License Management]]

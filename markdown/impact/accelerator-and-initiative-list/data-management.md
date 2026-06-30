@@ -18,7 +18,7 @@ The Jumpstart Your Database Management Accelerator provides a demonstration of t
 
 ## Accelerator overview
 
-Jumpstart Your Database Management provides [[impact-landing-page|Impact]] customers with a comprehensive overview and practical demonstration of effective database management. It focuses on how to properly purge and archive data, initiating discussions on customer database management enablement. This Accelerator demonstrates the possibilities and capabilities of database management and provides key resources and leading practices to [[io-help|help]] efficiently manage your database footprint and alleviate [[instance-observer-performance|performance]] issues.
+Jumpstart Your Database Management provides Impact customers with a comprehensive overview and practical demonstration of effective database management. It focuses on how to properly purge and archive data, initiating discussions on customer database management enablement. This Accelerator demonstrates the possibilities and capabilities of database management and provides key resources and leading practices to help efficiently manage your database footprint and alleviate performance issues.
 
 ## Package Availability
 
@@ -70,8 +70,3 @@ This Impact Accelerator in its entirety or portions of the Impact Accelerator ac
 
 ServiceNow resources are not responsible for implementing recommendations on customer’s sub-production or production instances.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[io-help|Help]]
-- [[instance-observer-performance|Performance]]

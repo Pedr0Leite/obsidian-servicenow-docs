@@ -14,7 +14,7 @@ breadcrumb: [Using Now Assist Skill Kit, Now Assist Skill Kit, Enable AI experie
 
 # Use prompt assistance
 
-Use prompt assistance to get a jump start with your prompt development by selecting an example from the prompt library or using [[platform-now-assist-landing|Now Assist]] to generate one.
+Use prompt assistance to get a jump start with your prompt development by selecting an example from the prompt library or using Now Assist to generate one.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_skill\_builder.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[now-assist-skill-kit-landing|Now Assist Skill Kit]]** &gt; **Home**.
+1.  Navigate to **All** &gt; **Now Assist Skill Kit** &gt; **Home**.
 
 2.  Create a new skill or select the skill that you want to use prompt assistance for.
 
@@ -32,7 +32,7 @@ Role required: sn\_skill\_builder.admin
 
 5.  \[Omitted image "nask-pa-library.png"\] Alt text: Prompt assistance prompt library search panel
 
-6.  Select the **AI generated** tab to have AI help you [[create-prompt-template|create a prompt]] based on your needs.
+6.  Select the **AI generated** tab to have AI help you create a prompt based on your needs.
 
     \[Omitted image "nask-pa-ai.png"\] Alt text: Prompt assistance AI generated panel
 
@@ -56,8 +56,3 @@ Role required: sn\_skill\_builder.admin
 
 [Call a custom skill from a script]()
 
-## Related
-
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-skill-kit-landing|Now Assist Skill Kit]]
-- [[create-prompt-template|Create a prompt]]

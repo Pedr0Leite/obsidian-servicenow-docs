@@ -20,9 +20,9 @@ Role required: admin
 
 Perform the following tasks.
 
--   Activate the Predictive [[intelligence-csm|Intelligence]] for [[c_CustomerServiceManagement|Customer Service Management]] plugin \(com.snc.csm\_ml\). For more information, see [Activate a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md) and [[predictive-intelligence-for-csm|Predictive Intelligence for CSM solution definitions]].
+-   Activate the Predictive Intelligence for Customer Service Management plugin \(com.snc.csm\_ml\). For more information, see [Activate a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md) and [Predictive Intelligence for CSM solution definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/predictive-intelligence-for-csm.md).
 -   Set the application scope to Customer Service using the application picker. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
--   Ensure that the required channel is already set up for use. For more information, see [[enable-comm-channels|Enable communication channels]].
+-   Ensure that the required channel is already set up for use. For more information, see [Enable communication channels](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/enable-comm-channels.md).
 
 ## About this task
 
@@ -42,9 +42,4 @@ By default, the Case auto-responder recommendations notification is configured t
 
     For example, to send Auto-Responder notifications for customer service cases logged using a mobile phone in addition to email, you would click **Add Filter Condition** and create the condition **\[Channel\] \[is\] \[Phone\] AND \[Active\] \[is\] \[true\]**.
 
-## Related
 
-- [[predictive-intelligence-for-csm|Predictive Intelligence for CSM solution definitions]]
-- [[enable-comm-channels|Enable communication channels]]
-- [[intelligence-csm|Intelligence]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Assistant Designer bot responses, Assistant Designer interface refe
 
 # Multi-response bot response control
 
-Use the Multi-response bot response control in a [[virtual-agent-landing-page|Virtual Agent]] topic to sequentially display two or more outputs. Outputs can be text, image, link, or HTML. Users can move from one output to the next through a provided navigation button.
+Use the Multi-response bot response control in a Virtual Agent topic to sequentially display two or more outputs. Outputs can be text, image, link, or HTML. Users can move from one output to the next through a provided navigation button.
 
 ## Multi-response bot response control properties
 
@@ -116,6 +116,3 @@ Multi-response output
 </td></tr></tbody>
 </table>**Parent Topic:**[Assistant Designer bot responses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-bot-responses.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

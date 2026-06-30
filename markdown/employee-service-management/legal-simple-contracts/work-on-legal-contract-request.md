@@ -30,7 +30,7 @@ As a collaborator added to a request, you can access and work on the request jus
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Legal Request** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
 2.  Click the list icon \(\[Omitted image "lsd-lcc-list-icon.png"\] Alt text: List icon\).
 
@@ -77,7 +77,7 @@ The state of the legal request is Work in progress and the document is Legal rev
 
 6.  In the **Signatories** tab, review the signatories for the contract document and their status.
 
-7.  In the [[activity-lxp|Activity]] section, review the changes requested by the requester and make necessary changes in the contract document.
+7.  In the Activity section, review the changes requested by the requester and make necessary changes in the contract document.
 
     For the contract documents is in DOCX format,
 
@@ -106,7 +106,3 @@ The updated document is sent to the requester for the review. The document statu
 
 **Parent Topic:**[Non-disclosure agreement requests in Legal Simple Contracts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/legal-request-nda.md)
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[activity-lxp|Activity]]

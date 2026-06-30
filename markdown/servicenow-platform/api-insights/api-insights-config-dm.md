@@ -22,7 +22,7 @@ Role required: sn\_cmdb\_admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[api-insights|API Insights]]**.
+1.  Navigate to **Workspaces** &gt; **API Insights**.
 
 2.  Select the **Settings** tab.
 
@@ -35,6 +35,4 @@ Role required: sn\_cmdb\_admin
 
 4.  Select **Save**.
 
-## Related
 
-- [[api-insights|API Insights]]

@@ -14,17 +14,17 @@ breadcrumb: [Sourcing and Purchasing Automation, Explore, Sourcing and Procureme
 
 # Create an approval rule
 
-Approve a [[purchase-requisition|purchase requisition]], [[purchase-order-table|purchase order]], [[sourcing-request|sourcing request]], or invoice, by defining an approval strategy and creating approval rules. This is a one-place configuration that can drive any kind of approval process that your organization may need.
+Approve a purchase requisition, purchase order, sourcing request, or invoice, by defining an approval strategy and creating approval rules. This is a one-place configuration that can drive any kind of approval process that your organization may need.
 
 ## Before you begin
 
-To [[invoice-approval-rule|create an approval rule]], you must have set up your product catalog \(with the necessary product categories, product models, and [[supplier|supplier]] products\) and should be able to raise a purchase requisition or sourcing request. For more information on how to set up your product catalog, see [Create a product category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-product-model-categories.md), [Create a product model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-product-models.md), and [Add a supplier product](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/add-supplier-product.md). You should have also set up the sys\_user record appropriately to include relevant details such as job codes, managers.
+To create an approval rule, you must have set up your product catalog \(with the necessary product categories, product models, and supplier products\) and should be able to raise a purchase requisition or sourcing request. For more information on how to set up your product catalog, see [Create a product category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-product-model-categories.md), [Create a product model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-product-models.md), and [Add a supplier product](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/add-supplier-product.md). You should have also set up the sys\_user record appropriately to include relevant details such as job codes, managers.
 
 Role required: sn\_shop.procurement\_administrator
 
 ## About this task
 
-You can create an approval rule to determine how approval plans are generated and routed when conditions are met, from the [[purchase-experience-workflow|Sourcing and Purchasing Automation]] module.
+You can create an approval rule to determine how approval plans are generated and routed when conditions are met, from the Sourcing and Purchasing Automation module.
 
 \[Omitted image "create\_approval\_rule.png"\] Alt text: Approval rule.
 
@@ -102,7 +102,7 @@ Type of approval rule that determines how approval plans are generated and route
 -   Managerial Job Code Hierarchy
 -   Managerial Hierarchy
 -   Specified Users or Groups
--   [[cost-center|Cost Center]] Managers
+-   Cost Center Managers
 
 **Note:** This option is available only when the approving object is a purchase requisition.
 
@@ -219,7 +219,7 @@ Conditions based on the approving object that determine the conditions under whi
 
 
 -   **[Approval rule types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/approval-rule-types.md)**  
-[[invoice-approval-rule-types|Approval rule types]] determine the methods by which approvals are created during the purchase requisition process.
+Approval rule types determine the methods by which approvals are created during the purchase requisition process.
 -   **[Approval rule considerations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/approval-rule-considerations.md)**  
 Factors like currency, which includes foreign exchange, reference, and transactional, decide the approval rules to be triggered. Some of the other factors are purchasing limit, line amount, and received lines, among others.
 -   **[Approval rule grouping and sequencing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/approval-rule-sequencing.md)**  
@@ -227,13 +227,3 @@ As a Procurement Administrator, you can associate approval rules with approval g
 
 **Parent Topic:**[Sourcing and Purchasing Automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-experience-workflow.md)
 
-## Related
-
-- [[purchase-requisition|Purchase requisition]]
-- [[purchase-order-table|Purchase order]]
-- [[sourcing-request|Sourcing request]]
-- [[invoice-approval-rule|Create an approval rule]]
-- [[supplier|Supplier]]
-- [[purchase-experience-workflow|Sourcing and Purchasing Automation]]
-- [[cost-center|Cost center]]
-- [[invoice-approval-rule-types|Approval rule types]]

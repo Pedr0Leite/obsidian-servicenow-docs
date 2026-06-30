@@ -24,19 +24,12 @@ The Facilities Move Management application benefits your organization in the fol
 
 **Note:** This feature is no longer available for new customers.
 
--   **[[c_FacMoveRequests|Facilities move requests]]**  
-Both employees and managers can request a move, which initiates the workflow of tasks to complete that move. Any user can submit a move request through the Facilities catalog. Users with the Facilities staff role can also create and update [[c_FacilitiesRequests|facilities requests]] using the move request form directly.
--   **[[c_FacMoveReqTemplates|Facilities move request templates]]**  
+-   **[Facilities move requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_FacMoveRequests.md)**  
+Both employees and managers can request a move, which initiates the workflow of tasks to complete that move. Any user can submit a move request through the Facilities catalog. Users with the Facilities staff role can also create and update facilities requests using the move request form directly.
+-   **[Facilities move request templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_FacMoveReqTemplates.md)**  
 The facilities staff adds templates to the facilities catalog, so users can select from subcategories for their request type.
--   **[[c_EnterpriseMove|Enterprise move]]**  
+-   **[Enterprise move](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_EnterpriseMove.md)**  
 Facility teams use Enterprise Move to plan and execute move scenarios in support of large or complex employee move requests.
 
-**Parent Topic:**[[c_FacilitiesServiceManagement|Facilities Service Management overview]]
+**Parent Topic:**[Facilities Service Management overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_FacilitiesServiceManagement.md)
 
-## Related
-
-- [[c_FacMoveRequests|Facilities move requests]]
-- [[c_FacMoveReqTemplates|Facilities move request templates]]
-- [[c_EnterpriseMove|Enterprise move]]
-- [[c_FacilitiesServiceManagement|Facilities Service Management overview]]
-- [[c_FacilitiesRequests|Facilities requests]]

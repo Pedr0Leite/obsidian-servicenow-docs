@@ -14,7 +14,7 @@ breadcrumb: [Custom interactive filters, Interactive Filters, Reporting, dashboa
 
 # Custom interactive filter limitations
 
-[[c_CustomPublishers|Custom interactive filters]] are a fallback for use when standard [[c_HomepagePublishers|interactive filters]] do not provide certain functionality.
+Custom interactive filters are a fallback for use when standard interactive filters do not provide certain functionality.
 
 **Note:** The exposed [DashboardMessageHandler](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/core-ui-interactive-filters/c_DashboardMessageHandler.md) API for custom interactive filters is limited and does not provide parity with standard interactive filters. The API does not support these features.
 
@@ -46,7 +46,7 @@ breadcrumb: [Custom interactive filters, Interactive Filters, Reporting, dashboa
 
     Reports following a custom interactive filter on a dashboard continue to follow that filter even when the filter is deleted from the dashboard.
 
--   **Filtering [[widgets|widgets]] in Export to PDF**
+-   **Filtering widgets in Export to PDF**
 
     When you create custom content to be placed as widgets on dashboards and home pages, you must perform extra tests before you export the content to PDF. In the exported PDF, report widgets that are filtered using custom interactive filters may appear as blank squares or the widget content does not respect the filter.
 
@@ -57,8 +57,3 @@ breadcrumb: [Custom interactive filters, Interactive Filters, Reporting, dashboa
 
 **Parent Topic:**[Custom interactive filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/core-ui-interactive-filters/c_CustomPublishers.md)
 
-## Related
-
-- [[c_CustomPublishers|Custom interactive filters]]
-- [[c_HomepagePublishers|Interactive Filters]]
-- [[widgets|Widgets]]

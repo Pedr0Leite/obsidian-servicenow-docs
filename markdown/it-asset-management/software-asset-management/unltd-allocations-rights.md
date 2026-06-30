@@ -26,7 +26,7 @@ While creating or importing an entitlement, you can select the **Unlimited licen
 -   License metric results are generated separately for unlimited licenses.
 -   An unlimited license perpetual entitlement can be associated to only one unlimited license maintenance entitlement.
 -   Unit cost is equal to the total cost.
--   [[downgrade-rights|Downgrade rights]] are supported for unlimited licenses.
+-   Downgrade rights are supported for unlimited licenses.
 -   **Purchased rights**, **Active rights**, and **Allocations available** fields are not displayed for an unlimited license on the Software Entitlement page.
 
 ## Supported license metrics and license types
@@ -50,6 +50,3 @@ The following license types are supported for unlimited licenses:
 
 **Parent Topic:**[Software license metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_SAMLicenseMetrics.md)
 
-## Related
-
-- [[downgrade-rights|Downgrade Rights]]

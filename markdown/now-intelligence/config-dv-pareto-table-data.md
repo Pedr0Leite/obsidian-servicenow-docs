@@ -32,7 +32,7 @@ Data source
 
 </td><td>
 
-You have selected a Table data source in [[create-dv-bar-ac|Create a horizontal or vertical bar data visualization]].
+You have selected a Table data source in [Create a horizontal or vertical bar data visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-bar-ac.md).
 
 **Note:** For pareto visualizations, only one data source can be defined at any given time.
 
@@ -144,10 +144,10 @@ Field for \[table\]
 
 </td><td>
 
-The field to group by. For example, in a visualization of incident data grouped by **Assignment group**, all incidents that belong to Software, Service Desk, and Network are placed in separate groups. If the table contains variables or question fields, you have the option to group by one of them at the end of the list of fields. Only one **Group by** can be defined in the Pareto chart. The **Alternative Group By** can be defined for a Pareto visualization. For vertical bar, horizontal bar, and pivot reports with [[multiple-data-sources|multiple data sources]]: If you group the first source by a choice field, you can group the second source by any applicable choice field.
+The field to group by. For example, in a visualization of incident data grouped by **Assignment group**, all incidents that belong to Software, Service Desk, and Network are placed in separate groups. If the table contains variables or question fields, you have the option to group by one of them at the end of the list of fields. Only one **Group by** can be defined in the Pareto chart. The **Alternative Group By** can be defined for a Pareto visualization. For vertical bar, horizontal bar, and pivot reports with multiple data sources: If you group the first source by a choice field, you can group the second source by any applicable choice field.
 
 -   It is not possible to group or stack data by the **Tags** field, or by certain field types, such as MEDIUMTEXT.
--   If you want to group by a field with continuous values, such as date or integer, the values are automatically grouped according to any [[c_ReportRanges|report ranges]] that are defined for the data. For more information, see [Report ranges](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_ReportRanges.md).
+-   If you want to group by a field with continuous values, such as date or integer, the values are automatically grouped according to any report ranges that are defined for the data. For more information, see [Report ranges](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_ReportRanges.md).
 
 </td></tr><tr><td>
 
@@ -185,7 +185,7 @@ This selection opens a dialog in which you select additional items that the data
 
 Data snapshots indicators support only reference, boolean, and choice fields for alternative group bys.
 
-For more information about setting alternative group-bys for multiple metrics, see [[chart-options-multi-metrics|Options for time series data visualizations with multiple metrics]]. For more information about the viewer experience selecting from alternative group-by values, see [[select-group-runtime|Select a group-by value in a data visualization as a viewer]].
+For more information about setting alternative group-bys for multiple metrics, see [Options for time series data visualizations with multiple metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/chart-options-multi-metrics.md). For more information about the viewer experience selecting from alternative group-by values, see [Select a group-by value in a data visualization as a viewer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/select-group-runtime.md).
 
 **Important:**
 
@@ -277,13 +277,5 @@ Alignment
 The alignment of the illustration and text in the message.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[create-dv-pareto-vd|Create a Pareto bar data visualization]]
+</table>**Parent Topic:**[Create a Pareto bar data visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-pareto-vd.md)
 
-## Related
-
-- [[create-dv-bar-ac|Create a horizontal or vertical bar data visualization]]
-- [[chart-options-multi-metrics|Options for time series data visualizations with multiple metrics]]
-- [[select-group-runtime|Select a group-by value in a data visualization as a viewer]]
-- [[create-dv-pareto-vd|Create a Pareto bar data visualization]]
-- [[multiple-data-sources|multiple data sources]]
-- [[c_ReportRanges|Report ranges]]

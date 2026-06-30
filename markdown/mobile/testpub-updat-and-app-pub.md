@@ -31,7 +31,7 @@ Role required: admin
     -   EULA and privacy policy listed in the mobile app **Settings** tab under **Legal** link to the policies you specified.
 3.  Set up your Android app:
 
-    -   Set up [[sg-mobile-security-push-notif|push notifications]] by adding your Google Firebase Cloud Messaging HTTPv1 Oauth token to your app type's push application record.
+    -   Set up push notifications by adding your Google Firebase Cloud Messaging HTTPv1 Oauth token to your app type's push application record.
 
         See [KB1639289](https://support.servicenow.com/nav_to.do?uri=%2Fkb%3Fid%3Dkb_article_view%26sys_kb_id%3D68456c07471d86d030fba325126d43e5) for detailed instructions.
 
@@ -49,26 +49,19 @@ Role required: admin
     -   **Approve** the build to move forward with publishing the app to your end users.
 5.  Customize your app's workflows:
 
-    Use Mobile App Builder to customize your app. See [[mab-concept|Mobile App Builder]] for detailed information about how you can customize your branded app.
+    Use Mobile App Builder to customize your app. See [Mobile App Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mab-concept.md) for detailed information about how you can customize your branded app.
 
 6.  After you have tested your app, set it up, and customized its workflows, you are ready to publish your branded Android app for public distribution.
 
-    Deploy your AAB file to the Google Play console, or your [[enterprise-mobility-management|enterprise mobility management \(EMM\)]] provider:
+    Deploy your AAB file to the Google Play console, or your enterprise mobility management \(EMM\) provider:
 
     -   Upload your app to the Google Play console: to upload your public branded Android app to the Google, see [Google documentation](https://developer.android.com/studio/publish/upload-bundle). Also see [KB1157062](https://support.servicenow.com/kb?id=kb_article_view&sys_kb_id=a2a066bedb5155d0d0dc3feb68961951) for ServiceNow guidance on creating your Google Play console listing metadata.
     -   BlackBerry Portal: to publish your public branded Android app to the BlackBerry Portal if you're using BlackBerry mobile application management \(MAM\), see [KB0813295](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0813295).
     -   Microsoft Intune: to sync your public branded Android app from Google to Microsoft Intune, see [Microsoft documentation](https://learn.microsoft.com/en-us/mem/intune/apps/apps-add-android-for-work).
 7.  Update your app before you update your ServiceNow family version, or at least once per year to keep your push notifications working and to leverage the most up to date ServiceNow mobile features.
 
-    For more information, see [[mobile-supported-devices|Tested devices and supported versions for ServiceNow mobile apps]].
+    For more information, see [Tested devices and supported versions for ServiceNow mobile apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-supported-devices.md).
 
 
-**Parent Topic:**[[update-branded-app|Update a branded app]]
+**Parent Topic:**[Update a branded app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/update-branded-app.md)
 
-## Related
-
-- [[mab-concept|Mobile App Builder]]
-- [[mobile-supported-devices|Tested devices and supported versions for ServiceNow mobile apps]]
-- [[update-branded-app|update branded app]]
-- [[sg-mobile-security-push-notif|Push notifications]]
-- [[enterprise-mobility-management|Enterprise mobility management \(EMM\)]]

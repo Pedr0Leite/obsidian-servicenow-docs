@@ -18,7 +18,7 @@ Major issue management uses major case candidates to identify potential issues t
 
 A major case contains information about a specific issue that impacts multiple customers. It is not associated with any accounts, contacts, or consumers. This customer-specific information resides in the child cases associated with the major case.
 
-The recipients list associated with the major case identifies customers impacted by the issue. Select a list in the **Affected Customers** field in the Major Case Information form section of the Major [[r_CustomerServiceCaseForm|Case form]]. After adding the list, you can automatically create child cases for all customers on the list. These cases are added to the **Child Cases** related list on the Major Case form.
+The recipients list associated with the major case identifies customers impacted by the issue. Select a list in the **Affected Customers** field in the Major Case Information form section of the Major Case form. After adding the list, you can automatically create child cases for all customers on the list. These cases are added to the **Child Cases** related list on the Major Case form.
 
 With [synchronization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/major-candidate-child-case-types.md) enabled, updates to the parent major case are automatically synchronized to the associated child cases. When the major case is closed, the associated child cases in the following states are also closed: New, Open, Awaiting Customer Info.
 
@@ -36,7 +36,7 @@ In the form view, major cases and major case candidates display the Major Case I
 
 ## Major case candidates
 
-A customer service agent uses a major case candidate, or candidate case, to flag an issue that could be a wider issue impacting multiple customers. An agent can [[create-major-case-candidate|create a major case candidate]] in the following ways:
+A customer service agent uses a major case candidate, or candidate case, to flag an issue that could be a wider issue impacting multiple customers. An agent can create a major case candidate in the following ways:
 
 -   By promoting an existing customer service case with a reported issue to a major case candidate.
 -   By creating a new major case candidate.
@@ -79,7 +79,3 @@ When synchronization is enabled, saving changes to a major case results in a pop
 
 **Note:** In the base system, parent-child case synchronization is available only for the Case table \(sn\_customerservice\_case\). This feature must be configured for tables that extend the Case table.
 
-## Related
-
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[create-major-case-candidate|Create a major case candidate]]

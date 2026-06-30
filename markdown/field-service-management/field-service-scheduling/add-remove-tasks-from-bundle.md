@@ -31,7 +31,7 @@ When adding tasks to bundles, note the following restrictions:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Field Service** &gt; **Dispatching** &gt; **[[dispatcher-activities|Dispatcher Workspace]]**.
+1.  Navigate to **All** &gt; **Field Service** &gt; **Dispatching** &gt; **Dispatcher Workspace**.
 
 2.  In the left panel, select **Dispatcher Workspace**.
 
@@ -44,6 +44,3 @@ When adding tasks to bundles, note the following restrictions:
     -   To add a task, select **Add**, select the task, and select **Add**.
     -   To remove a task, select the task and select **Remove**.
 
-## Related
-
-- [[dispatcher-activities|Dispatcher Workspace]]

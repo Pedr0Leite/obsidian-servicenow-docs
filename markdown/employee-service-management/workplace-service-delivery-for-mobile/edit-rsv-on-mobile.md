@@ -14,7 +14,7 @@ breadcrumb: [Use, Workplace Service Delivery for Mobile, Workplace Service Deliv
 
 # Edit or cancel a reservation on Now Mobile app
 
-Modify your upcoming reservation or cancel the reservation at any time using the [[mobile-employee-experience|Now Mobile app]].
+Modify your upcoming reservation or cancel the reservation at any time using the Now Mobile app.
 
 ## Before you begin
 
@@ -36,7 +36,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
 5.  Modify the field information.
 
-    When you edit a reservation the [[standard-service|Standard services]] and Reservable purposes fields are auto-filled.
+    When you edit a reservation the Standard services and Reservable purposes fields are auto-filled.
 
     -   In case of a single reservations, where the reservation is created for a single location, the fields are already set with the standard services and reservable purposes mapped to the location.
     -   In case of multi-reservations, where the reservation is created for multiple locations, the fields are already set with the standard services and reservable purposes that are commonly available at all the locations.
@@ -67,7 +67,3 @@ The reservation is updated or canceled accordingly.
 
 **Next topic:**[Check in or check out a reservation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/check-in-out-rsv-on-mobile.md)
 
-## Related
-
-- [[mobile-employee-experience|Now Mobile app]]
-- [[standard-service|Standard services]]

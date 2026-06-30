@@ -29,7 +29,7 @@ Use the **glide.ip.authenticate.strict** property to reduce the scope of the IP 
 
 **Note:** The **glide.ip.authenticate.allow.secured** property contains the ServiceNow data center and secure VPN IP ranges used when **glide.ip.authenticate.strict** is set to true. This property is maintained and deployed automatically by ServiceNow. Customers do not need to configure it. The only customer action required by this hardening setting is to set **glide.ip.authenticate.strict** to `true`.
 
-**Note:** Regardless of the value of **glide.ip.authenticate.strict** or if the instance is self-hosted, the allow list includes IP addresses in the **glide.custom.ip.authenticate.allow** and **glide.custom.ip.outbound.authenticate.allow** [[ca-system-properties|system properties]], if defined.
+**Note:** Regardless of the value of **glide.ip.authenticate.strict** or if the instance is self-hosted, the allow list includes IP addresses in the **glide.custom.ip.authenticate.allow** and **glide.custom.ip.outbound.authenticate.allow** system properties, if defined.
 
 All IP list properties share the same format, which is a comma separated range of IP addresses in IPv4 or IPv6 format. IP ranges are specified using a hyphen \(10.0.10.14-10.0.10.19\), using CIDR notation \(10.0.10.0/24\), or consist of a single IP address \(10.0.10.5\). At runtime, you can make additions to the IP allow list by adding entries to the IP Address Access Controls \[ip\_access\] table. To restrict all inbound access to a defined set of IP addresses, add a deny-all entry to the \[ip\_access\] table and then add the specific IP addresses or ranges that you want to allow.
 
@@ -47,7 +47,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -114,7 +114,7 @@ Security risk
 
 -   Severity score: 4.3
 -   CVSS score: Medium
--   Security Risk Details: Broader access increases the risk of unauthorized or unnecessary access to the instance by non-essential internal [[users|users]], such as support or sales staff, and reduces control over privileged access. Enforcing strict IP [[c_Authentication|authentication]] limits connectivity to essential infrastructure, strengthening security and reducing exposure to insider threats or misconfiguration.
+-   Security Risk Details: Broader access increases the risk of unauthorized or unnecessary access to the instance by non-essential internal users, such as support or sales staff, and reduces control over privileged access. Enforcing strict IP authentication limits connectivity to essential infrastructure, strengthening security and reducing exposure to insider threats or misconfiguration.
 
 </td></tr><tr><td>
 
@@ -137,9 +137,3 @@ None
 
 **Parent Topic:**[Architecture, design, and threat modeling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-architecture-design-threat-molding.md)
 
-## Related
-
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]
-- [[users|Users]]
-- [[c_Authentication|Authentication]]

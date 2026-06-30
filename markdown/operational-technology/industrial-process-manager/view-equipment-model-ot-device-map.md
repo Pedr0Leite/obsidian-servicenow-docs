@@ -14,7 +14,7 @@ breadcrumb: [Review and update the equipment model details, Managing equipment m
 
 # View the equipment model OT device map
 
-View the graphical representation of the selected equipment model entity and its relationship to other [[operational-technology-overview|Operational Technology]] \(OT\) devices in the production process.
+View the graphical representation of the selected equipment model entity and its relationship to other Operational Technology \(OT\) devices in the production process.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Users with an assigned cmdb\_ot\_isa\_admin role can view equipment model entiti
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]] Admin** &gt; **[[industrial-process-manager-overview|Industrial Process Manager]]** &gt; **Equipment Model Manager**.
+1.  Navigate to **All** &gt; **Industrial Workspace Admin** &gt; **Industrial Process Manager** &gt; **Equipment Model Manager**.
 
 2.  In the **Equipment mode view for** field, select the site that you want to view equipment model information for.
 
@@ -41,8 +41,3 @@ Users with an assigned cmdb\_ot\_isa\_admin role can view equipment model entiti
 
 **Parent Topic:**[Review and update the equipment model details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/equipment-model-workspace.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[industrial-process-manager-overview|Industrial Process Manager]]

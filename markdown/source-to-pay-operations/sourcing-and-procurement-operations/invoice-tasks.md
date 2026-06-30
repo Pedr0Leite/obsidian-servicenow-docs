@@ -16,11 +16,11 @@ breadcrumb: [Sourcing and Purchasing Automation, Explore, Sourcing and Procureme
 
 Invoice tasks, an extension of acknowledgment tasks, lists invoice tasks in the Open, Work in Progress, and Closed Rejected status.
 
-**Note:** If you are a new customer, or an existing customer who has upgraded and installed the [[shopping-hub-overview|Shopping Hub]] \(sn\_spend\_uib\) plugin, these tasks aren't applicable for you. However, if you choose to continue with the existing Source-to-Pay Common Architecture \(sn\_shop\) plugin and skip the Shopping Hub plugin, these tasks are available for you to work on.
+**Note:** If you are a new customer, or an existing customer who has upgraded and installed the Shopping Hub \(sn\_spend\_uib\) plugin, these tasks aren't applicable for you. However, if you choose to continue with the existing Source-to-Pay Common Architecture \(sn\_shop\) plugin and skip the Shopping Hub plugin, these tasks are available for you to work on.
 
 When an invoice acknowledgment is triggered, a task is created against the invoice and displayed as an Invoice Task related list on the Invoice form view.
 
-You can view these invoice tasks from the **Receipt Acknowledgment** sub-module under the [[purchase-experience-workflow|Sourcing and Purchasing Automation]] module. The following are the key fields of an invoice task:
+You can view these invoice tasks from the **Receipt Acknowledgment** sub-module under the Sourcing and Purchasing Automation module. The following are the key fields of an invoice task:
 
 <table id="table_icy_vyy_hlb"><thead><tr><th>
 
@@ -52,7 +52,7 @@ Primary contact
 
 </td><td>
 
-Person within the procurement team who can be contacted with questions about [[receipts|receipts]], [[milestones|milestones]], [[invoices|invoices]], or other activities related to acknowledgment. This field is populated or updated with the same user in the **Assigned to** field of the parent task record, as follows: For an invoice or acknowledgment task, from the referenced [[purchase-order-table|purchase order]].
+Person within the procurement team who can be contacted with questions about receipts, milestones, invoices, or other activities related to acknowledgment. This field is populated or updated with the same user in the **Assigned to** field of the parent task record, as follows: For an invoice or acknowledgment task, from the referenced purchase order.
 
 </td></tr><tr><td>
 
@@ -139,11 +139,3 @@ Duration to complete this invoice task.
 
 **Parent Topic:**[Sourcing and Purchasing Automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-experience-workflow.md)
 
-## Related
-
-- [[shopping-hub-overview|Shopping Hub]]
-- [[purchase-experience-workflow|Sourcing and Purchasing Automation]]
-- [[receipts|Receipts]]
-- [[milestones|Milestones]]
-- [[invoices|Invoices]]
-- [[purchase-order-table|Purchase order]]

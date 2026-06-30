@@ -2008,8 +2008,5 @@ Australia
  See [API implementation and reference](https://www.servicenow.com/docs/access?context=api-implementation-reference&family=australia&ft:locale=en-US) for more information.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[rn-combined-intro|Products combined by family]]
+</table>**Parent Topic:**[Products combined by family](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/delta-zurich-australia/rn-combined-intro.md)
 
-## Related
-
-- [[rn-combined-intro|Products combined by family]]

@@ -15,7 +15,7 @@ breadcrumb: [Configure, Accounts Payable Operations, Finance and Supply Chain]
 
 # Domain separation and Accounts Payable Operations
 
-Domain separation is unsupported for [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is unsupported for Accounts Payable Operations. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: No support
 
@@ -35,6 +35,3 @@ For more information on support levels, see [Application support for domain sepa
 
 [Install Accounts Payable Operations integration with Document Intelligence]()
 
-## Related
-
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]

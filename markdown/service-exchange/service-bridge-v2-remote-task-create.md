@@ -14,7 +14,7 @@ breadcrumb: [Use for consumers, Service Exchange for Consumers, Service Exchange
 
 # Create remote tasks to sync data
 
-[[service-bridge-v2-remote-task-overview|Remote tasks]] provide linked tasks across multiple instances and enable business workflows without any custom integrations.
+Remote tasks provide linked tasks across multiple instances and enable business workflows without any custom integrations.
 
 ## Before you begin
 
@@ -52,7 +52,7 @@ As a consumer, you can integrate tasks like incidents, cases, and service reques
 
     **Note:** The Remote Task is created asynchronously and may not show initially if the parent task form is quickly loaded. You may need to refresh the form to see the newly created Remote Task.
 
-7.  Navigate to **[[tmt-service-bridge-both-landing-page|Service Exchange]] Consumer** &gt; **Remote Tasks**.
+7.  Navigate to **Service Exchange Consumer** &gt; **Remote Tasks**.
 
     The list of remote tasks is displayed. When the newly created Remote Task is received in the provider instance, a new parent task based on the Remote Task is created.
 
@@ -74,7 +74,3 @@ As a consumer, you can integrate tasks like incidents, cases, and service reques
     -   Once an attachment is shared with another instance through Service Exchange using a remote task or a provider task, it becomes part of that instance’s data. Service Exchange does not delete attachments on remote instances — the receiving instance must handle deletion.
     -   When you create a remote task on the consumer instance, the Provider Connection field is automatically populated when you select a Remote Task Definition.
 
-## Related
-
-- [[service-bridge-v2-remote-task-overview|Remote tasks]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]

@@ -12,9 +12,9 @@ breadcrumb: [Encryption]
 
 # Field Encryption
 
-Protect encrypted data on your instance from unauthorized [[users|users]], scripts, or system processes using Field Encryption.
+Protect encrypted data on your instance from unauthorized users, scripts, or system processes using Field Encryption.
 
-Field Encryption is an encryption product based on the ServiceNow [[encryption|Key Management Framework]]. Field Encryption allows for the encryption of specific fields or attachments within an instance. Use Field Encryption in combination with Cloud Encryption and [[sc-access-control|Access Control]] Lists \(ACLs\) to help protect sensitive information from logged in user who are not authorized to view it.
+Field Encryption is an encryption product based on the ServiceNow Key Management Framework. Field Encryption allows for the encryption of specific fields or attachments within an instance. Use Field Encryption in combination with Cloud Encryption and Access Control Lists \(ACLs\) to help protect sensitive information from logged in user who are not authorized to view it.
 
 Field Encryption has two available versions.
 
@@ -22,14 +22,14 @@ Field Encryption has two available versions.
 
     Field Encryption Starter is included on the ServiceNow platform at no cost and supports encryption for a limited number of fields.
 
--   **[[now-platform-encryption|Field Encryption Enterprise]]**
+-   **Field Encryption Enterprise**
 
-    Field Encryption Enterprise is a premium, subscription version of the product available when subscribing to [[servicenow-vault-landing|ServiceNow Vault]] or the Platform Encryption bundle.
+    Field Encryption Enterprise is a premium, subscription version of the product available when subscribing to ServiceNow Vault or the Platform Encryption bundle.
 
 
-For more information on the difference between these versions, see [[exploring-fe|Exploring Field Encryption]].
+For more information on the difference between these versions, see [Exploring Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/exploring-fe.md).
 
-Field Encryption replaces the [[column-level-encryption-landing|Column Level Encryption]] product available in Xanadu and earlier releases.
+Field Encryption replaces the Column Level Encryption product available in Xanadu and earlier releases.
 
 ## Get started
 
@@ -48,25 +48,12 @@ Field Encryption replaces the [[column-level-encryption-landing|Column Level Enc
 </td></tr></tbody>
 </table>-   **[Exploring Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/exploring-fe.md)**  
 Learn the details of Field Encryption Starter and Field Encryption Enterprise
--   **[[configuring-column-level-encryption|Configuring Field Encryption]]**  
+-   **[Configuring Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/configuring-column-level-encryption.md)**  
 Learn how to activate and configure Field Encryption and manage migration from Encryption Support.
--   **[[using-column-level-encryption|Using Field Encryption]]**  
+-   **[Using Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/using-column-level-encryption.md)**  
 Use Field Encryption to manage access to encrypted data on your instances.
--   **[[ekms-external-key-management|External Key Management Service]]**  
+-   **[External Key Management Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ekms-external-key-management.md)**  
 External Key Management Service \(EKMS\) enables you to integrate Field Encryption with your own external key management systems.
 
-**Parent Topic:**[[encryption-landing|Encryption]]
+**Parent Topic:**[Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/encryption-landing.md)
 
-## Related
-
-- [[exploring-fe|Exploring Field Encryption]]
-- [[configuring-column-level-encryption|Configuring Field Encryption]]
-- [[using-column-level-encryption|Using Field Encryption]]
-- [[ekms-external-key-management|External Key Management Service]]
-- [[encryption-landing|Encryption]]
-- [[users|Users]]
-- [[encryption|Key Management Framework]]
-- [[sc-access-control|Access control]]
-- [[now-platform-encryption|Field Encryption Enterprise]]
-- [[servicenow-vault-landing|ServiceNow Vault]]
-- [[column-level-encryption-landing|Column Level Encryption]]

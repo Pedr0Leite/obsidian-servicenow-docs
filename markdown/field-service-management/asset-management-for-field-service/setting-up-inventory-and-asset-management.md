@@ -14,13 +14,13 @@ breadcrumb: [Configure, Field Service Management]
 
 # Setting up inventory and asset management
 
-Inventory and asset management in [[fsm-application-landing-page|Field Service Management]] refers to the process of efficiently organizing, tracking, and controlling resources such as equipment, parts, stockrooms, and other assets used in field service operations.
+Inventory and asset management in Field Service Management refers to the process of efficiently organizing, tracking, and controlling resources such as equipment, parts, stockrooms, and other assets used in field service operations.
 
 Assets and model categories are created as needed, using Enterprise Asset Management. For more information, see [Create enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/create-asset-eam.md).
 
 ## Configuration overview
 
-If your organization needs to [[view-available-parts-inventory|track inventory]] or schedule equipment, use the following information to set up one or both of the following features.
+If your organization needs to track inventory or schedule equipment, use the following information to set up one or both of the following features.
 
 -   [Configuring stockrooms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/asset-management-for-field-service/configuring-stockrooms.md)
 
@@ -30,7 +30,4 @@ If your organization needs to [[view-available-parts-inventory|track inventory]]
 
     Create equipment categories and instances to use when assigning crews or work order tasks.
 
-## Related
 
-- [[fsm-application-landing-page|Field Service Management]]
-- [[view-available-parts-inventory|Track inventory]]

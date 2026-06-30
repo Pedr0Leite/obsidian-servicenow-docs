@@ -14,7 +14,7 @@ breadcrumb: [Configure for consumers, Service Exchange for Consumers, Service Ex
 
 # Service Exchange consumer pre-flows
 
-As a consumer, you can control when data should be synced between the [[service-bridge-v2-provider-tasks|provider tasks]] on the consumer and provider instances.
+As a consumer, you can control when data should be synced between the provider tasks on the consumer and provider instances.
 
 ## Before you begin
 
@@ -25,11 +25,11 @@ Role required: admin
 
 ## About this task
 
-You can attach a subflow with a [[tmt-service-bridge-both-landing-page|Service Exchange]] remote record producer and run processes such as approvals, before syncing a task with the provider. When a new provider task is created, the attached subflow is executed before the data is synced between the consumer and provider instances. The subflow must set a field called **Sync** on the Provider task to **true** for the record to sync to the provider. If the remote record producer doesn’t have an attached subflow, provider tasks are immediately synced to the provider instance.
+You can attach a subflow with a Service Exchange remote record producer and run processes such as approvals, before syncing a task with the provider. When a new provider task is created, the attached subflow is executed before the data is synced between the consumer and provider instances. The subflow must set a field called **Sync** on the Provider task to **true** for the record to sync to the provider. If the remote record producer doesn’t have an attached subflow, provider tasks are immediately synced to the provider instance.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Service Exchange Provider** &gt; **Provider [[se-connections-tab|Connections]]**.
+1.  Navigate to **All** &gt; **Service Exchange Provider** &gt; **Provider Connections**.
 
 2.  Select a remote record producer for which you want to attach a subflow.
 
@@ -41,8 +41,4 @@ You can attach a subflow with a [[tmt-service-bridge-both-landing-page|Service E
 
     Depending on the conditions defined in the subflow, the provider task is synced to the provider instance.
 
-## Related
 
-- [[service-bridge-v2-provider-tasks|Provider tasks]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]
-- [[se-connections-tab|Connections]]

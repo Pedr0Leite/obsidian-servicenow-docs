@@ -14,11 +14,11 @@ breadcrumb: [Jamf, Service Graph Connectors, Integrating third-party data into C
 
 # Configure Service Graph Connector for Jamf using the guided setup
 
-Set up authentication credentials and scheduled jobs to import Jamf data into your [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]].
+Set up authentication credentials and scheduled jobs to import Jamf data into your Configuration Management Database \(CMDB\).
 
 ## Before you begin
 
-**Important:** Unless there are configuration issues, use the [[sgcc-landing|SGC Central]] view in the [[sg-workspace|Service Graph Workspace]] or CMDB Workspace to configure the connection for the connector, as the guided setup method is planned for deprecation.
+**Important:** Unless there are configuration issues, use the SGC Central view in the Service Graph Workspace or CMDB Workspace to configure the connection for the connector, as the guided setup method is planned for deprecation.
 
 To use this Service Graph Connector, you need a subscription to a Subscription Unit that is based in the IT Operations Management \(ITOM\) Visibility application or in the ITOM Discovery application. As defined in the section titled "Managed IT Resource Types" in [ServiceNow Subscription Unit Overview](https://www.servicenow.com/products/entitlements-packages.html) for your subscription, for managed IT resources that are created or modified in the CMDB by this Service Graph Connector, but that aren’t yet managed by [ITOM Visibility or ITOM Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-license-module.md), these resources will increase Subscription Unit consumption from that application. Review your current Subscription Unit consumption within ITOM Visibility or ITOM Discovery to ensure available capacity.
 
@@ -42,13 +42,13 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[cmdb-sgc-available|Service Graph Connectors]]** &gt; **Jamf** &gt; **Setup**.
+1.  Navigate to **All** &gt; **Service Graph Connectors** &gt; **Jamf** &gt; **Setup**.
 
 2.  On the Getting Started page, select **Get started**.
 
 3.  Set configuration properties.
 
-    1.  On the [[cmdb-integration-jamf|Service Graph Connector for Jamf]] page, in the Set configuration properties section, select **Configure JSON data size limit**.
+    1.  On the Service Graph Connector for Jamf page, in the Set configuration properties section, select **Configure JSON data size limit**.
 
     2.  For the Configure JSON data size limit task, select **Configure**.
 
@@ -173,7 +173,7 @@ Connection URL
 
 </td><td>
 
-Connection URL for the connection. You can either manually enter a URL or use the URL builder to build the connection string.**Note:** You can't modify the **Connection URL** field if you select the **URL builder** [[check-box|check box]].
+Connection URL for the connection. You can either manually enter a URL or use the URL builder to build the connection string.**Note:** You can't modify the **Connection URL** field if you select the **URL builder** check box.
 
 </td></tr><tr><td>
 
@@ -193,7 +193,7 @@ Underlying protocol used by the connection. This field appears only when the **U
 
 </td></tr><tr><td>
 
-Use [[mid-server-landing|MID server]]
+Use MID server
 
 </td><td>
 
@@ -213,7 +213,7 @@ Host
 
 </td><td>
 
-Target host value used by the connection. This field appears only when the **URL builder** check box is selected.**Note:** Update the **Host** field with your Jamf base URL or [[ip-address|IP address]]. For example, `demojamfhost.com` or `127.0.0.1`.
+Target host value used by the connection. This field appears only when the **URL builder** check box is selected.**Note:** Update the **Host** field with your Jamf base URL or IP address. For example, `demojamfhost.com` or `127.0.0.1`.
 
 </td></tr><tr><td>
 
@@ -264,7 +264,7 @@ Connection URL
 
 </td><td>
 
-Base URL to [[c_Connect|connect]] to the Jamf API.**Note:** This field is automatically set to the URL to connect to the application. Leave the field value as is.
+Base URL to connect to the Jamf API.**Note:** This field is automatically set to the URL to connect to the application. Leave the field value as is.
 
 </td></tr></tbody>
 </table>        4.  \(Optional\) If a MID Server is required for the Jamf server connection, select the **Use MID Server** check box. Then, select the MID Server-related fields accordingly.
@@ -402,14 +402,4 @@ Client Secret of your Jamf client application as noted in the [Before you begin]
 
     6.  Set the Configure scheduled jobs task to complete by selecting **Mark as Complete** in the guided setup.
 
-## Related
 
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[sgcc-landing|SGC Central]]
-- [[sg-workspace|Service Graph Workspace]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[cmdb-integration-jamf|Service Graph Connector for Jamf]]
-- [[check-box|Check box]]
-- [[mid-server-landing|MID Server]]
-- [[ip-address|IP Address]]
-- [[c_Connect|Connect]]

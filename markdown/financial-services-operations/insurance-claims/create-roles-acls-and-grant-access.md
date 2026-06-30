@@ -14,7 +14,7 @@ breadcrumb: [Setting up an insurance policy for Insurance claims, Setting up the
 
 # Create a role to access insurance policy tables
 
-Create a role to enable an authorized agent to access tables that extend the Insurance Policy \(sn\_bom\_ins\_policy\) table by using the [[insurance-claims-flow|Insurance claims]] application. By creating a role, you ensure that only authorized agents can view the policies that are relevant to their roles.
+Create a role to enable an authorized agent to access tables that extend the Insurance Policy \(sn\_bom\_ins\_policy\) table by using the Insurance claims application. By creating a role, you ensure that only authorized agents can view the policies that are relevant to their roles.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Set the application scope in your instance to **[[financial-services-operations-core-data-model|Financial Services Operations Core]]**.
+1.  Set the application scope in your instance to **Financial Services Operations Core**.
 
 2.  Navigate to **All** &gt; **System Security** &gt; **Users and Groups** &gt; **Roles**.
 
@@ -47,7 +47,3 @@ Create an access control list \(ACL\) to define which roles can access an insura
 
 **Parent Topic:**[Setting up an insurance policy for Insurance claims](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/set-up-an-insurance-policy.md)
 
-## Related
-
-- [[insurance-claims-flow|Insurance claims]]
-- [[financial-services-operations-core-data-model|Financial Services Operations Core]]

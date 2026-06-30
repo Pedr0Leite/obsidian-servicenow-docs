@@ -14,7 +14,7 @@ breadcrumb: [Configuring Cloud Cost Management, Cloud Cost Management, IT Asset 
 
 # Configure Cloud Cost Management for Google Cloud
 
-The [[cloud-insights-landing-page|Cloud Cost Management]] application is available on the ServiceNow Store.
+The Cloud Cost Management application is available on the ServiceNow Store.
 
 ## General requirements and limitations
 
@@ -73,7 +73,7 @@ Here's an overview of your set up process. Detailed instructions appear in the t
 
 \[Omitted image "setup-procedure-cloudin.png"\] Alt text: Setup process for the Cloud Cost Management app
 
-Navigate to **Workspaces** &gt; **[[ci-workspace|Cloud Cost Management Workspace]]** &gt; **Admin**. The Admin page enables you to set up a provider and preferences.
+Navigate to **Workspaces** &gt; **Cloud Cost Management Workspace** &gt; **Admin**. The Admin page enables you to set up a provider and preferences.
 
 \[Omitted image "cloud\_insights\_home.png"\] Alt text: Admin page of the Cloud Cost Management Workspace
 
@@ -101,7 +101,7 @@ Action
 
 </td><td>
 
-You assign [[cloud-insights-roles|Cloud Cost Management roles]] to user groups and to individual users based on user activities and responsibilities.
+You assign Cloud Cost Management roles to user groups and to individual users based on user activities and responsibilities.
 
 </td><td>
 
@@ -161,7 +161,7 @@ Billing Download jobs download, organize, and store billing data for your payer 
 
 </td><td>
 
-A Price Sheet Download job downloads and stores price sheet data. The Rightsizing and [[um-cloudin|Unused resources]] processes use price sheet data when generating recommendations.
+A Price Sheet Download job downloads and stores price sheet data. The Rightsizing and Unused resources processes use price sheet data when generating recommendations.
 
 </td><td>
 
@@ -173,8 +173,8 @@ A Price Sheet Download job downloads and stores price sheet data. The Rightsizin
 
 -   Rightsizing
 -   Unused Machines
--   [[bh-cloudin|Business Hours]]
--   [[ur-cloudin|Unassigned Resources]]
+-   Business Hours
+-   Unassigned Resources
 
 </td><td>
 
@@ -192,12 +192,3 @@ A Price Sheet Download job downloads and stores price sheet data. The Rightsizin
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cloud-insights-landing-page|Cloud Cost Management]]
-- [[ci-workspace|Cloud Cost Management Workspace]]
-- [[cloud-insights-roles|Cloud Cost Management roles]]
-- [[um-cloudin|Unused resources]]
-- [[bh-cloudin|Business hours]]
-- [[ur-cloudin|Unassigned resources]]

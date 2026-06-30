@@ -14,7 +14,7 @@ breadcrumb: [Compliance Case Management, Governance, Risk, and Compliance]
 
 # Configuring Compliance Case Management
 
-You can configure the [[compliance-case-management|Compliance Case Management]] application to report, investigate, analyze, and resolve a compliance case or requests.
+You can configure the Compliance Case Management application to report, investigate, analyze, and resolve a compliance case or requests.
 
 Follow the order of the tasks here to configure the GRC: Compliance Case Management application. These tasks help you to manage the compliance cases and requests effectively.
 
@@ -29,17 +29,11 @@ Create a request type in the GRC: Compliance Case Management application to cate
 -   **[Create a compliance state model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/create-state-model.md)**  
 Create a state model to define the workflow states and transition conditions for compliance case types and request types.
 -   **[Create a workflow state for a compliance case or request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/create-workflow-state.md)**  
-[[create-workflow-state|Create a workflow state for a compliance case or request]] to define the life cycle of the case or request using the Compliance Case Management application. GRC State Model is to configure the states and the state transitions that are created as part of the table.
+Create a workflow state for a compliance case or request to define the life cycle of the case or request using the Compliance Case Management application. GRC State Model is to configure the states and the state transitions that are created as part of the table.
 -   **[Define model state transitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/create-a-model-state-transition-for-compliance-case.md)**  
 Define the transition conditions to control how a compliance case traverses through the different workflow states by using the GRC: Compliance Case Management application.
 -   **[Create an assessment template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/ccm-create-assessment-template.md)**  
-[[sae-asmnt-template-create|Create an assessment template]] to request responses from the assessor or reviewer. You can create this template by using the [[new-assessment-reference|assessment metric type form]] in the GRC: Compliance Case Management application.
+Create an assessment template to request responses from the assessor or reviewer. You can create this template by using the assessment metric type form in the GRC: Compliance Case Management application.
 
 **Parent Topic:**[Compliance Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/compliance-case-management.md)
 
-## Related
-
-- [[compliance-case-management|compliance case management]]
-- [[create-workflow-state|Create a workflow state for a compliance case or request]]
-- [[sae-asmnt-template-create|Create an assessment template]]
-- [[new-assessment-reference|Assessment Metric Type form]]

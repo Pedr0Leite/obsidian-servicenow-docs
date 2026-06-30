@@ -60,7 +60,7 @@ Role required: sn\_wsd\_case.workplace\_agent
 
 7.  To view the activities performed on the task, and to add any notes or attachments, do the following:
 
-    1.  Select the **[[activity-lxp|Activity]]** tab.
+    1.  Select the **Activity** tab.
 
     2.  To add a comment, select **Add Comment**.
 
@@ -97,7 +97,7 @@ Role required: sn\_wsd\_case.workplace\_agent
         2.  To edit an attachment, select the \[Omitted image "wsdagentmob-editattach.png"\] Alt text: Edit icon. icon.
         3.  To delete an attachment, select the \[Omitted image "wsdagentmob-deleteicon.png"\] Alt text: Delete icon. icon.
         4.  To preview an image, select the image directly.
-9.  To save the task for quick [[reference-hr-service-delivery-advanced-integration-with-workday|reference]], select the \[Omitted image "wsdagentmob-saveicon.png"\] Alt text: Quick reference icon. icon.
+9.  To save the task for quick reference, select the \[Omitted image "wsdagentmob-saveicon.png"\] Alt text: Quick reference icon. icon.
 
     The task is saved in the **Saved** tab. You can view the task at any time from this tab directly.
 
@@ -109,7 +109,7 @@ Role required: sn\_wsd\_case.workplace\_agent
 
 [Manage workplace cases and tasks]()
 
-[Edit or view case details on the [[workplace-agent-mobile-feat|Workplace Agent for mobile]] app]()
+[Edit or view case details on the Workplace Agent for mobile app]()
 
 [Print workplace cases]()
 
@@ -121,8 +121,3 @@ Role required: sn\_wsd\_case.workplace\_agent
 
 [Offline mode]()
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[workplace-agent-mobile-feat|Workplace Agent for mobile]]

@@ -14,13 +14,13 @@ breadcrumb: [AI Search for Next Experience, ServiceNow Store applications and in
 
 # Install AI Search for Next Experience
 
-Install the [[ais-next-experience-app|AI Search for Next Experience]] application from the ServiceNow® Store.
+Install the AI Search for Next Experience application from the ServiceNow® Store.
 
 ## Before you begin
 
 If your instance was zBooted in Australia, the AI Search for Next Experience application is already installed. You only need to install the application if you upgraded your instance from Tokyo or a previous release.
 
--   Ensure that the application and all of its associated [[servicenow-store|ServiceNow Store]] applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
+-   Ensure that the application and all of its associated ServiceNow Store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
 
 Role required: admin
 
@@ -39,12 +39,7 @@ Role required: admin
 
 ## What to do next
 
-With the plugin installed, you can walk through Guided Setup tasks to enable [[ia-ai-search|AI Search]] as the search engine for the Unified Navigation search field in Next Experience. To get started with Guided Setup, see [Verify that your instance meets the prerequisites for AI Search for Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/verify-ais-next-exp-prereqs.md).
+With the plugin installed, you can walk through Guided Setup tasks to enable AI Search as the search engine for the Unified Navigation search field in Next Experience. To get started with Guided Setup, see [Verify that your instance meets the prerequisites for AI Search for Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/verify-ais-next-exp-prereqs.md).
 
 **Parent Topic:**[AI Search for Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/ais-next-experience-app.md)
 
-## Related
-
-- [[ais-next-experience-app|AI Search for Next Experience]]
-- [[servicenow-store|ServiceNow Store]]
-- [[ia-ai-search|AI Search]]

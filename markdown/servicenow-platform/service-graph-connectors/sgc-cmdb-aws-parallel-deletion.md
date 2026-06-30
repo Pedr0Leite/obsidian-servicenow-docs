@@ -14,7 +14,7 @@ breadcrumb: [Additional features, AWS, Service Graph Connectors, Integrating thi
 
 # Handling parallel deletion of CIs in Service Graph Connector for AWS
 
-Parallel deletion of configuration items \(CIs\) in the [[cmdb-integration-aws-sg|Service Graph Connector for AWS]] optimizes performance.
+Parallel deletion of configuration items \(CIs\) in the Service Graph Connector for AWS optimizes performance.
 
 The parallel deletion feature is available for the following data sources from Washington DC patch 5 after the parallel job plugin is activated:
 
@@ -39,6 +39,3 @@ Multiple jobs are created for deleting CIs based on the number of accounts in yo
 
 **Note:** Only one job is created to import new and updated CIs.
 
-## Related
-
-- [[cmdb-integration-aws-sg|Service Graph Connector for AWS]]

@@ -15,11 +15,11 @@ breadcrumb: [Configure agentic workflow, Configure, Now Assist for Legal Service
 
 # Configure the semantic index settings for legal request tables
 
-Configure the semantic index settings to define how AI Search indexes the content from the legal request tables in the [[now-assist-lsd-landing|Now Assist for Legal Service Delivery \(LSD\)]] application.
+Configure the semantic index settings to define how AI Search indexes the content from the legal request tables in the Now Assist for Legal Service Delivery \(LSD\) application.
 
 ## Before you begin
 
-Set the application scope to **[[legal-counsel-center-landing|Legal Counsel Center]]** in the application picker. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
+Set the application scope to **Legal Counsel Center** in the application picker. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
 
 Role required: admin
 
@@ -79,7 +79,7 @@ Indexed Source
 
 </td><td>
 
-[[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] to the AI Search indexed source that you want to apply this semantic index configuration to.The **Indexed Source** field is automatically set to**Legal Counsel Center**.
+Reference to the AI Search indexed source that you want to apply this semantic index configuration to.The **Indexed Source** field is automatically set to**Legal Counsel Center**.
 
 </td></tr><tr><td>
 
@@ -103,8 +103,3 @@ The data from the legal request tables are indexed for AI Search according to th
 
 Add fields to the semantic index record by selecting **body**. For more information, see [Add fields to the semantic index for legal records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/add-field-legal-requests.md).
 
-## Related
-
-- [[now-assist-lsd-landing|Now Assist for Legal Service Delivery \(LSD\)]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

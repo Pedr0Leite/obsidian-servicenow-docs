@@ -14,7 +14,7 @@ breadcrumb: [Create inventory models, Use, Telecommunications Network Inventory]
 
 # Create a facility model
 
-Create a facility model in the [[telecom-network-inventory|Telecommunications Network Inventory]] application to define the physical characteristics data of the facility record according to the product manufacturer's recommendations.
+Create a facility model in the Telecommunications Network Inventory application to define the physical characteristics data of the facility record according to the product manufacturer's recommendations.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ When you create a facility model, it creates the model record in the facility mo
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then go to **Inventory Models** &gt; **Facility Models**.
 
@@ -89,7 +89,3 @@ The related tabs appear on the form. You can view or modify the tabs information
 
 [Network inventory models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/using-inventory-models-tni.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]

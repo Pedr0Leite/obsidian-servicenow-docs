@@ -14,15 +14,15 @@ breadcrumb: [Upgrade Console summary, Explore, Upgrade Console, Upgrade, Adminis
 
 # Explore Upgrade Monitor in Upgrade Console
 
-The [[uc-monitor-module|Upgrade Monitor module]] is a powerful tool for scheduling upgrades, monitoring their progress, and analyzing post-upgrade [[hs-results|results]], including conflict resolution.
+The Upgrade Monitor module is a powerful tool for scheduling upgrades, monitoring their progress, and analyzing post-upgrade results, including conflict resolution.
 
 ## Access Upgrade Monitor
 
-If you log in with the admin role while an upgrade is underway, the system automatically displays the [[uc-monitor-progress|Upgrade Progress]] screen. If no upgrade is in progress, you can follow one of the following ways.
+If you log in with the admin role while an upgrade is underway, the system automatically displays the Upgrade Progress screen. If no upgrade is in progress, you can follow one of the following ways.
 
 |Option|Navigation|
 |------|----------|
-|Using left navigation|Navigate to **All** &gt; **[[admin-center-intro|Admin Center]]** &gt; **[[um-landing-page|Upgrade Console]]** &gt; **Upgrade Monitor**.|
+|Using left navigation|Navigate to **All** &gt; **Admin Center** &gt; **Upgrade Console** &gt; **Upgrade Monitor**.|
 |Using Admin tab option|Navigate to **Admin** &gt; **Upgrade Console** &gt; **Upgrade Monitor**.|
 
 ## How the Upgrade Monitor fits into the upgrade process
@@ -49,7 +49,7 @@ Within this larger process, the Upgrade Monitor helps you upgrade individual ins
 
 While the upgrade is in progress the Upgrade Progress shows what the upgrade process has done, what it is doing, and what remains to be done.
 
-When the upgrade completes, the system displays the [[uc-complete-summary|Upgrade Summary Report]]. The Upgrade Summary Report provides information about conflicts between customizations versus changes in the upgrade and provides a link to reconcile these conflicts. For information about understanding and resolving these conflicts, see [Process the skipped records list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-process-skipped-records.md) list.
+When the upgrade completes, the system displays the Upgrade Summary Report. The Upgrade Summary Report provides information about conflicts between customizations versus changes in the upgrade and provides a link to reconcile these conflicts. For information about understanding and resolving these conflicts, see [Process the skipped records list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-process-skipped-records.md) list.
 
 When you upgrade a non-production instance, the Upgrade Summary Report can help you estimate how long the same upgrade might take on a production instance. For details about the elements on this report and how to use this information, see [Upgrade details form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-upgrade-details-form.md).
 
@@ -65,11 +65,3 @@ For details on reconciling conflicts, see [Process the skipped records list](htt
 
 See [Upgrade Monitor tool in Upgrade Console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-upgrade-monitor-tool.md) for more information.
 
-## Related
-
-- [[uc-monitor-module|Upgrade Monitor module]]
-- [[hs-results|Results]]
-- [[uc-monitor-progress|Upgrade Progress]]
-- [[admin-center-intro|Admin Center]]
-- [[um-landing-page|Upgrade Console]]
-- [[uc-complete-summary|Upgrade Summary Report]]

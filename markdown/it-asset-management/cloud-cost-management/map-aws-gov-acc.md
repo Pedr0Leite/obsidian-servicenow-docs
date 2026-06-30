@@ -14,7 +14,7 @@ breadcrumb: [Configure Cloud Cost Management for AWS, Configuring Cloud Cost Man
 
 # Create AWS Gov accounts mapping
 
-Create an AWS GovCloud account mapping with an associated standard AWS account to enable [[cloud-insights-landing-page|Cloud Cost Management]] to consolidate usage data and provide accurate cost recommendations across your government cloud environment.
+Create an AWS GovCloud account mapping with an associated standard AWS account to enable Cloud Cost Management to consolidate usage data and provide accurate cost recommendations across your government cloud environment.
 
 ## Before you begin
 
@@ -31,7 +31,7 @@ AWS GovCloud accounts are separate from standard AWS accounts and can't be used 
 
 ## Procedure
 
-1.  Navigate to **[[ci-workspace|Cloud Cost Management Workspace]]** &gt; **Operations** &gt; **Administration** &gt; **AWS Gov account mappings**.
+1.  Navigate to **Cloud Cost Management Workspace** &gt; **Operations** &gt; **Administration** &gt; **AWS Gov account mappings**.
 
 2.  Select **New**.
 
@@ -69,7 +69,3 @@ Standard AWS account that you want to link to the AWS Gov account.This account m
 
 The mapping you created gets displayed on the AWS Gov account mapping page with details such as Sys ID, tags.
 
-## Related
-
-- [[cloud-insights-landing-page|Cloud Cost Management]]
-- [[ci-workspace|Cloud Cost Management Workspace]]

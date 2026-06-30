@@ -18,7 +18,7 @@ When you create large language model \(LLM\) topics, you provide instructions th
 
 ## Overview of LLM description and instruction guidelines
 
-Topic authors can use plain text wording to tell the LLM how to discover an LLM topic, as well as tell the LLM how to respond. The [[virtual-agent-landing-page|Virtual Agent]] Designer interface provides text fields that let you provide both.
+Topic authors can use plain text wording to tell the LLM how to discover an LLM topic, as well as tell the LLM how to respond. The Virtual Agent Designer interface provides text fields that let you provide both.
 
 -   **Descriptions**
 
@@ -59,7 +59,7 @@ The following examples describe weak and strong topic descriptions. Stronger top
 
 |Strength|Description|
 |--------|-----------|
-|Weak description|This topic is related to the [[management|management]] and administration of Active Directory, a directory service provided by Microsoft.|
+|Weak description|This topic is related to the management and administration of Active Directory, a directory service provided by Microsoft.|
 |Strong description|This topic is related to the management and administration of Active Directory, a directory service provided by Microsoft. It involves making changes to the Active Directory, such as creating, modifying, or deleting directories and processes. The topic also includes tasks performed by administrators, such as managing user accounts, groups, and permissions within the Active Directory environment.|
 
 ## Example input control instructions
@@ -97,7 +97,3 @@ Collect AD Operation Type **Additional instructions for LLM**: For this input, t
 </td></tr></tbody>
 </table>\[Omitted image "llm-input-node-detail-desc-example.png"\] Alt text: Text input node with the Detail description field filled in to include specific entity information.
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[management|Management]]

@@ -37,11 +37,11 @@ As a user with the System Administrator role, verify that you have the GRC core 
  1.  To verify that the GRC: GRC Profile application is installed on your instance, navigate to **Plugins** and search for `GRC Profile`.
 2.  If the GRC Profile core application is not installed, select **Install**.
 3.  Also install the following applications as needed:
-    -   GRC: [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
+    -   GRC: Policy and Compliance Management
     -   GRC: Risk Management
-    -   GRC: [[c_GRCAudits|Audit Management]]
-4.  After the applications have been installed, install the [[grc-cam-landing-page|Continuous Authorization and Monitoring]] core application.
- If any application is not visible in your instance, you can download it from the ServiceNow Store. For more information about getting entitlement, downloading, and installing the GRC core applications, see [[grc-and-store|GRC and the ServiceNow Store]].
+    -   GRC: Audit Management
+4.  After the applications have been installed, install the Continuous Authorization and Monitoring core application.
+ If any application is not visible in your instance, you can download it from the ServiceNow Store. For more information about getting entitlement, downloading, and installing the GRC core applications, see [GRC and the ServiceNow Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-and-store.md).
 
 </td></tr><tr><td>
 
@@ -53,9 +53,3 @@ As a user with the CAM Administrator role, assigned users with the required role
 
 You have successfully set up the CAM base system. The elements included in the base system can be customized for your business needs. For more information, refer to the links in the checklist.
 
-## Related
-
-- [[grc-and-store|GRC and the ServiceNow Store]]
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[c_GRCAudits|Audit Management]]
-- [[grc-cam-landing-page|Continuous Authorization and Monitoring]]

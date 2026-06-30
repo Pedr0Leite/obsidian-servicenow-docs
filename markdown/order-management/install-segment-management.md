@@ -18,7 +18,7 @@ Install the Segment Management plugin \(com.snc.segment\_mgmt\), along with the 
 
 -   Ensure that the application and all of its associated ServiceNow Store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
 
-Depending on your entitlements, you must install demo data after installation. Demo data comprises the sample records that describe application features for the common [[use-cases|use cases]].
+Depending on your entitlements, you must install demo data after installation. Demo data comprises the sample records that describe application features for the common use cases.
 
 Role required: admin
 
@@ -81,20 +81,14 @@ Load the demo data after installing Segment Management.1.  Install Segment Manag
 
 You have successfully installed the Segment Management \(com.snc.segment\_mgmt\) application. You can now set up the data model and configure different roles.
 
-**Parent Topic:**[[configure-segment-management|Configure Segment Management]]
+**Parent Topic:**[Configure Segment Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-segment-management.md)
 
 **Related topics**  
 
 
 [Configure Segment Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-segment-management.md)
 
-[[segment-management|Segment Management]]
+[Segment Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/segment-management.md)
 
-[[data-model-for-segment-management|Data model for Segment Management]]
+[Data model for Segment Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/data-model-for-segment-management.md)
 
-## Related
-
-- [[configure-segment-management|Configure Segment Management]]
-- [[segment-management|Segment Management]]
-- [[data-model-for-segment-management|Data model for Segment Management]]
-- [[use-cases|Use cases]]

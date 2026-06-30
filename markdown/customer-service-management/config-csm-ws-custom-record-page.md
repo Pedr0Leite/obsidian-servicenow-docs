@@ -30,7 +30,7 @@ Role required: workspace\_admin, ui\_builder\_admin, admin
 
 4.  Select the desired default record page from the Variants list.
 
-    For example, select **[[csm-default-record-page|CSM default record page]]**.
+    For example, select **CSM default record page**.
 
 5.  Select the additional actions menu for this page and then select **Duplicate** to create a copy of the page variant.
 
@@ -61,6 +61,4 @@ Role required: workspace\_admin, ui\_builder\_admin, admin
 
     The system removes the page variant from the **Pages and variants** list.
 
-## Related
 
-- [[csm-default-record-page|CSM default record page]]

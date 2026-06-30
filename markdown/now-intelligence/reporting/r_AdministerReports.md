@@ -16,9 +16,9 @@ breadcrumb: [Administering reports, Reporting, Reporting, dashboards, and Perfor
 
 Learn how to administer reports on the ServiceNow platform using the **Reports** &gt; **Administration** module.
 
-This module is not enabled by default, and must be activated. For a list of the [[reporting-roles|reporting roles]] delivered with the ServiceNow platform, see [Reporting roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/reporting-roles.md).
+This module is not enabled by default, and must be activated. For a list of the reporting roles delivered with the ServiceNow platform, see [Reporting roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/reporting-roles.md).
 
-**Note:** Restricting a report by role restricts who can [[t_RunAReport|view a report]]. Users without the admin role cannot edit global reports. If a non-admin user edits a global report, saving that report creates a personalized version belonging to that user
+**Note:** Restricting a report by role restricts who can view a report. Users without the admin role cannot edit global reports. If a non-admin user edits a global report, saving that report creates a personalized version belonging to that user
 
 Use the record list view to filter, view, or modify reports using any of the standard record list controls. Click **New** to create reports or select any of the records to display the report as a form. All the standard ServiceNow form controls apply.
 
@@ -26,7 +26,7 @@ You can select the table and field on which to report and the characteristics of
 
 ## Report Security
 
-The Report Security enforce [[access-control|access control]] checks plugin allows administrators to use access control list \(ACL\) rules to restrict report access. This functionality prevents unauthorized users from editing, updating, or deleting reports either through the UI or through a URL construct. See Access control list rules for more information.
+The Report Security enforce access control checks plugin allows administrators to use access control list \(ACL\) rules to restrict report access. This functionality prevents unauthorized users from editing, updating, or deleting reports either through the UI or through a URL construct. See Access control list rules for more information.
 
 ## Available Report Fields
 
@@ -215,8 +215,3 @@ The field to track over time for [Trend](https://raw.githubusercontent.com/Servi
 </td></tr></tbody>
 </table>**Parent Topic:**[Administering reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_AdminsteringReports.md)
 
-## Related
-
-- [[reporting-roles|Reporting roles]]
-- [[t_RunAReport|View a report]]
-- [[access-control|Access control]]

@@ -18,12 +18,8 @@ The following logical diagram shows the tables and their relationships within th
 
 \[Omitted image "psds-datamodel-ir.png"\] Alt text: Public Sector Digital Services Information Request Data Model
 
--   **[[psds-data-model-ir-playbook-tables|Tables and Flows installed with Information Request Playbook]]**  
+-   **[Tables and Flows installed with Information Request Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-data-model-ir-playbook-tables.md)**  
 This section describes the tables installed with the Information Request Playbook application and shows how they store and manage information.
 
-**Parent Topic:**[[public-sector-digital-services-data-model|Public Sector Digital Services Data Model]]
+**Parent Topic:**[Public Sector Digital Services Data Model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/public-sector-digital-services-data-model.md)
 
-## Related
-
-- [[psds-data-model-ir-playbook-tables|Tables and Flows installed with Information Request Playbook]]
-- [[public-sector-digital-services-data-model|Public Sector Digital Services Data Model]]

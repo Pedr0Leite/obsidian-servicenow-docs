@@ -16,7 +16,7 @@ Some HealthScan definitions are deprecated or updated between releases.
 
 ## New definitions
 
-The following definitions have been added for the May 2025 release to improve [[instance-observer-performance|performance]], reduce false positives, and meet the latest coding practices. Some of these definitions will have a positive or negative [[impact-landing-page|impact]] on your customer instance scores.
+The following definitions have been added for the May 2025 release to improve performance, reduce false positives, and meet the latest coding practices. Some of these definitions will have a positive or negative impact on your customer instance scores.
 
 Due to process and technical constraints, a comprehensive impact analysis for the overall score impact could not be fully conducted for customer instances. As a result, there may be potential impact score drops that have not been identified or addressed.
 
@@ -243,7 +243,7 @@ Recommend
 
 </td><td>
 
-[[user-experience-insights|User Experience]]​
+User Experience​
 
 </td><td>
 
@@ -1048,11 +1048,5 @@ Security
 -   Altered documentation link to be more specific to this issue​
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[healthscan-definitions|HealthScan definitions]]
+</table>**Parent Topic:**[HealthScan definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/healthscan-definitions.md)
 
-## Related
-
-- [[healthscan-definitions|HealthScan definitions]]
-- [[instance-observer-performance|Performance]]
-- [[impact-landing-page|Impact]]
-- [[user-experience-insights|User Experience]]

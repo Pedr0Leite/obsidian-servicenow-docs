@@ -14,7 +14,7 @@ breadcrumb: [Work notes analysis, Analyzing and getting process insights, Use, P
 
 # Configure work notes analysis
 
-Configure work notes analysis for a process table to view the [[worknotes-analysis|work notes analysis]] for a project based on that process table.
+Configure work notes analysis for a process table to view the work notes analysis for a project based on that process table.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ Configure work notes analysis for a process table to view the [[worknotes-analys
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[process-mining|Process Mining]]** &gt; **Process Configurations**.
+1.  Navigate to **All** &gt; **Process Mining** &gt; **Process Configurations**.
 
 2.  Select a table from the list if you want to configure work notes analysis for a table available in the list.
 
@@ -88,7 +88,3 @@ Enter user names that are associated with system-generated work notes to exclude
 
 **Parent Topic:**[Work notes analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/worknotes-analysis.md)
 
-## Related
-
-- [[worknotes-analysis|Work notes analysis]]
-- [[process-mining|Process Mining]]

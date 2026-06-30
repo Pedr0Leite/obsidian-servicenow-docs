@@ -14,7 +14,7 @@ breadcrumb: [Setting up Software Asset Management Foundation plugin, Software As
 
 # Request Software Asset Management Foundation plugin
 
-The Software [[c_AssetManagement|Asset Management]] Foundation \(com.snc.sams\) plugin must be activated by ServiceNow personnel. This plugin includes demo data.
+The Software Asset Management Foundation \(com.snc.sams\) plugin must be activated by ServiceNow personnel. This plugin includes demo data.
 
 ## Before you begin
 
@@ -25,13 +25,13 @@ Role required: admin
 There are two ways to request a plugin:
 
 -   Access the Now Support Service Catalog directly by selecting **Automation Store** &gt; **Service Catalog** &gt; **Activate Plugin** on Now Support.
--   Access the Now Support Service Catalog through the All [[user-applications|Applications page]] on your instance by following these steps.
+-   Access the Now Support Service Catalog through the All Applications page on your instance by following these steps.
 
 For additional details about requesting a plugin, see [Requesting a Plugin from the Service Catalog \[KB0751715\] article in the Now Support Knowledge Base.](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0751715)
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System [[dex-workspace-application-tab|Applications]]** &gt; **All Available Applications** &gt; **All**.
+1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
 2.  Select **Request plugin** to open the **Activate Plugin** form on Now Support.
 
@@ -81,8 +81,3 @@ Select the date and time to activate the plugin.
 
 **Parent Topic:**[Setting up Software Asset Management Foundation plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/t_SAMSetupSAMF.md)
 
-## Related
-
-- [[c_AssetManagement|Asset Management]]
-- [[user-applications|Applications page]]
-- [[dex-workspace-application-tab|Applications]]

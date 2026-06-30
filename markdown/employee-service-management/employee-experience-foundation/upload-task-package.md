@@ -14,7 +14,7 @@ breadcrumb: [Integrating Employee Center with Microsoft Teams for GCC-H or DoD, 
 
 # Download and modify the manifest file for Employee Center for GCC-H or DoD
 
-Download and modify the package file to provide the information that is required to make [[employee-center-landing-page|Employee Center]] available in your organization.
+Download and modify the package file to provide the information that is required to make Employee Center available in your organization.
 
 ## Before you begin
 
@@ -56,6 +56,3 @@ To download, edit, and upload the manifest file, refer to this [Knowledge Base](
 
 **Parent Topic:**[Integrating Employee Center with Microsoft Teams for GCC-H or DoD](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-teams-integration-gcch.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

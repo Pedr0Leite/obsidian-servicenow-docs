@@ -15,7 +15,7 @@ breadcrumb: [Using Accounts Payable Invoice Processing, Use, Accounts Payable Op
 
 # Invoice ingestion using Application programming interface \(API\)
 
-The invoice ingestion API enables bulk import of AP [[invoices|invoices]] from external systems, such as [[supplier|supplier]] billing platforms and OCR solutions, into [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] using cXML, JSON, or XML.
+The invoice ingestion API enables bulk import of AP invoices from external systems, such as supplier billing platforms and OCR solutions, into Accounts Payable Operations using cXML, JSON, or XML.
 
 The system property \[ap.invoice.create.api.record\_limit\] enables users to set the maximum number of invoices that can be processed in a batch using the AP invoice create API.
 
@@ -25,8 +25,8 @@ The APO application verifies that users have valid authorization to access the A
 
 Look up logic for reference fields is enhanced for invoices ingested via APIs and integration. The reference fields are:
 
--   [[purchase-order-table|Purchase order]]
--   [[legal-entity|Legal entity]]
+-   Purchase order
+-   Legal entity
 -   Currency field
 -   Country
 -   Line quantity
@@ -53,10 +53,3 @@ For more information on the AP invoice API, see [AP Invoice API Developer Guide]
 
 [View invoice documents in the Source-to-Pay Workspace]()
 
-## Related
-
-- [[invoices|Invoices]]
-- [[supplier|Supplier]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[purchase-order-table|Purchase order]]
-- [[legal-entity|Legal entity]]

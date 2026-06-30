@@ -14,11 +14,11 @@ breadcrumb: [Working with block lists, Check Point Next Generation Threat Preven
 
 # Block list entry exceptions for the Check Point NGTP integration
 
-There are restrictions for adding [[cs-fal-insight-block-list-entries|Block List entries]] to Block Lists. If duplicate, compatibility, or CIDR \(Classless Inter-Domain Routing\) conflicts exist when you try to add Block List entries to Block Lists, error messages are displayed that help you resolve these errors.
+There are restrictions for adding Block List entries to Block Lists. If duplicate, compatibility, or CIDR \(Classless Inter-Domain Routing\) conflicts exist when you try to add Block List entries to Block Lists, error messages are displayed that help you resolve these errors.
 
 ## Compatibility exception
 
-Each Block List only accepts entries that are compatible with its observable type. If you create a Domain Block List and you try to attach an IP address observable to it, an incompatible error message is displayed. For example, a domain Block List can only accept domain [[c_Observables|observables]], as illustrated in the following figure.
+Each Block List only accepts entries that are compatible with its observable type. If you create a Domain Block List and you try to attach an IP address observable to it, an incompatible error message is displayed. For example, a domain Block List can only accept domain observables, as illustrated in the following figure.
 
 \[Omitted image "list-entry-exceptions.png"\] Alt text: Compatibility exception
 
@@ -34,7 +34,3 @@ If you attempt to attach a single IP address to an allow list, and this IP addre
 
 \[Omitted image "cidr-exception.png"\] Alt text: CIDR exception
 
-## Related
-
-- [[cs-fal-insight-block-list-entries|Block List Entries]]
-- [[c_Observables|Observables]]

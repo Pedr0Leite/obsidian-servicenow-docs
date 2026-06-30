@@ -14,7 +14,7 @@ breadcrumb: [Configuring SCCM, Client software distribution from SCCM, Client So
 
 # Create a catalog item for an SCCM application
 
-Using the applications discovered on the SCCM server, create a catalog item for an application you want to offer for distribution from the [[service-catalog|service catalog]].
+Using the applications discovered on the SCCM server, create a catalog item for an application you want to offer for distribution from the service catalog.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Before creating a catalog item, you must link the application to a software mode
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ClientSoftwareDistribution|Client Software Distribution]]** &gt; **SCCM** &gt; **SCCM Applications**.
+1.  Navigate to **All** &gt; **Client Software Distribution** &gt; **SCCM** &gt; **SCCM Applications**.
 
     A list of applications discovered on the SCCM server appears.
 
@@ -52,7 +52,7 @@ Skip approval \(skip\_approval\)
 
 </td><td>
 
-[[check-box|Check box]] that allows skipping approval for this item by the requester's manager when a user orders it from the service catalog. Use this field in conjunction with the **Order on behalf of** field to ensure that software ordered by a logged in user on behalf of another user is subject to approval. By default, this check box is cleared, requiring manager approval for all new catalog items.**Note:** There are two levels of approval possible. By default, all category items require group approval for items in excess of $1000. If that approval is given or skipped, the system evaluates the **Skip approval** check box to determine if the software item requires approval by the requester's manager.
+Check box that allows skipping approval for this item by the requester's manager when a user orders it from the service catalog. Use this field in conjunction with the **Order on behalf of** field to ensure that software ordered by a logged in user on behalf of another user is subject to approval. By default, this check box is cleared, requiring manager approval for all new catalog items.**Note:** There are two levels of approval possible. By default, all category items require group approval for items in excess of $1000. If that approval is given or skipped, the system evaluates the **Skip approval** check box to determine if the software item requires approval by the requester's manager.
 
 </td></tr><tr><td>
 
@@ -99,8 +99,3 @@ Name of the [SCCM configuration record](https://raw.githubusercontent.com/Servic
 
 **Parent Topic:**[Configuring SCCM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/configuring-sccm.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[c_ClientSoftwareDistribution|Client Software Distribution]]
-- [[check-box|Check box]]

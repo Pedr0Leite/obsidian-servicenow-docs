@@ -14,7 +14,7 @@ breadcrumb: [Sourcing and Purchasing Automation, Explore, Sourcing and Procureme
 
 # Shipping cost calculations
 
-A framework to integrate shipping cost calculations into [[purchase-experience-workflow|Sourcing and Purchasing Automation]] is implemented such that approvals can be done on the full value of purchases.
+A framework to integrate shipping cost calculations into Sourcing and Purchasing Automation is implemented such that approvals can be done on the full value of purchases.
 
 Shipping estimates can be provided by both the ShoppingHub administrator and the buyer.
 
@@ -22,9 +22,9 @@ Shipping estimates can be provided by both the ShoppingHub administrator and the
 
 A ShoppingHub administrator can set a default system-wide shipping estimate as a percentage. This can then be applied to all purchases that require shipping, when no other shipping estimates or data exist. This is enabled through a system property sn\_shop.default.shipping.estimate. Organizations that have a policy around an acceptable threshold shipping cost might want to enter the threshold in the sn\_shop.default.shipping.estimate.
 
-A ShoppingHub administrator can also configure shipping estimates to be included in purchase requests for the approval process. This is enabled through a system property sn\_shop.shipping.estimate.inclusion, which is included in purchase request approvals. If this inclusion is marked as true, the shipping estimate from the cart line or checkout is included as a field in the purchase line and in the total amount in the purchase request, while the estimate in cost allocation is not considered. However, if this inclusion is marked as false, not only would shipping be excluded in the purchase request approval process, but also not calculated at checkout, even if data is included at the product, [[supplier|supplier]], or system levels.
+A ShoppingHub administrator can also configure shipping estimates to be included in purchase requests for the approval process. This is enabled through a system property sn\_shop.shipping.estimate.inclusion, which is included in purchase request approvals. If this inclusion is marked as true, the shipping estimate from the cart line or checkout is included as a field in the purchase line and in the total amount in the purchase request, while the estimate in cost allocation is not considered. However, if this inclusion is marked as false, not only would shipping be excluded in the purchase request approval process, but also not calculated at checkout, even if data is included at the product, supplier, or system levels.
 
-**Note:** When a purchase request becomes a [[purchase-order-table|purchase order]], the shipping estimate is not included in the total amount.
+**Note:** When a purchase request becomes a purchase order, the shipping estimate is not included in the total amount.
 
 ## Shipping estimates from buyer
 
@@ -46,8 +46,3 @@ If the item in your cart is a good, a cart line shipping estimate prioritization
 
 **Parent Topic:**[Sourcing and Purchasing Automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-experience-workflow.md)
 
-## Related
-
-- [[purchase-experience-workflow|Sourcing and Purchasing Automation]]
-- [[supplier|Supplier]]
-- [[purchase-order-table|Purchase order]]

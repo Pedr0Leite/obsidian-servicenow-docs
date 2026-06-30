@@ -16,12 +16,8 @@ Use action-triggered cache updates to define specific user actions that automati
 
 When a user performs a defined action, such as tapping a button, the app automatically initiates a cache download or update upon successful completion of the assigned write-back action. This behavior is controlled by an optional button attribute \(sys\_sg\_button\_attribute\_name\), which can be configured to trigger an offline cache refresh after the write-back action completes successfully, with no additional user input required.
 
--   **[[trigger-offline-cache-download|Configure offline caching upon writeback actions]]**  
+-   **[Configure offline caching upon writeback actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/trigger-offline-cache-download.md)**  
 **Trigger offline cache download** is an optional button attribute \(**sys\_sg\_button\_atribute\_name**\) that will generate an offline cache after a successful completion of the assigned writeback action.
 
-**Parent Topic:**[[offline-cache|Configure offline cache downloads to user devices]]
+**Parent Topic:**[Configure offline cache downloads to user devices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/offline-cache.md)
 
-## Related
-
-- [[trigger-offline-cache-download|Configure offline caching upon writeback actions]]
-- [[offline-cache|Configure offline cache downloads to user devices]]

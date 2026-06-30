@@ -15,7 +15,7 @@ breadcrumb: [Virtual Agent Lite, Explore, Virtual Agent, Conversational Interfac
 
 # Preview and test ITSM Virtual Agent Lite topics
 
-Run a pre-built IT Service [[management|Management]] \(ITSM\) [[va-lite|Virtual Agent Lite]] topic to decide whether you want to deploy it to your end users.
+Run a pre-built IT Service Management \(ITSM\) Virtual Agent Lite topic to decide whether you want to deploy it to your end users.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Role required: virtual\_agent\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **[[virtual-agent-landing-page|Virtual Agent]]** &gt; **Designer**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Designer**.
 
 2.  On the home page, select the filter icon \[Omitted image "filter-icon.png"\] Alt text: Filter icon., and build a condition with the field **Category**, and **ITSM Self Service Lite** as the type to show only ITSM Virtual Agent Lite conversations.
 
@@ -48,9 +48,3 @@ Role required: virtual\_agent\_admin or admin
 
 If you'd like to deploy a topic, [duplicate and publish the topic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/duplicate-publish-valite-topic.md) so that it's available to your users.
 
-## Related
-
-- [[management|Management]]
-- [[va-lite|Virtual Agent Lite]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[virtual-agent-landing-page|Virtual Agent]]

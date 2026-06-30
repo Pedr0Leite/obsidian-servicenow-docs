@@ -14,7 +14,7 @@ breadcrumb: [HR Service Delivery Agent Workspace integration with Universal Requ
 
 # Transfer an HR case to Universal Request HR Service Delivery Agent Workspace
 
-[[reclassify-hr-case|Transfer an HR case]] back to the [[ur-landing-limitedaccess|Universal Request]] queue, or to another department with or without resolution.
+Transfer an HR case back to the Universal Request queue, or to another department with or without resolution.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: routing\_agent and sn\_hr\_core.case\_writer
 
 ## About this task
 
-Configure the **sn\_uni\_req.transfer\_type** property in the [[ur-properties|Universal Request properties]] page to determine how to handle the primary ticket transfers. For more information, see [Universal Request properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-properties.md).
+Configure the **sn\_uni\_req.transfer\_type** property in the Universal Request properties page to determine how to handle the primary ticket transfers. For more information, see [Universal Request properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-properties.md).
 
 ## Procedure
 
@@ -56,8 +56,3 @@ Configure the **sn\_uni\_req.transfer\_type** property in the [[ur-properties|Un
 
 **Note:** The state changes mentioned can be configured. See [Transfer configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/configure-route-state.md) for more information.
 
-## Related
-
-- [[reclassify-hr-case|Transfer an HR case]]
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[ur-properties|Universal Request properties]]

@@ -12,7 +12,7 @@ breadcrumb: [Scheduled assessments, Assessment administrator tasks, Using assess
 
 # Publish a metric type
 
-Before it is possible to generate [[r_Assessments|assessments]], an assessment administrator must publish the associated metric type.
+Before it is possible to generate assessments, an assessment administrator must publish the associated metric type.
 
 ## Before you begin
 
@@ -33,9 +33,5 @@ The **State** field on the Assessment Metric Type form indicates whether the typ
     **Note:** A metric type cannot be moved back to the **Draft** state after it has been published.
 
 
-**Parent Topic:**[[c_ScheduledAssessments|Scheduled assessments]]
+**Parent Topic:**[Scheduled assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_ScheduledAssessments.md)
 
-## Related
-
-- [[c_ScheduledAssessments|Scheduled assessments]]
-- [[r_Assessments|Assessments]]

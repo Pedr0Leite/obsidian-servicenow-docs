@@ -12,7 +12,7 @@ breadcrumb: [Integrating with Service Portfolio Management, Integrate, Customer 
 
 # Integrate with Service Portfolio Management using Guided Setup
 
-Use the Guided Setup to integrate [[c_CustomerServiceManagement|Customer Service Management]] with the Service Portfolio Management \(SPM\) application.
+Use the Guided Setup to integrate Customer Service Management with the Service Portfolio Management \(SPM\) application.
 
 ## Before you begin
 
@@ -33,8 +33,8 @@ To configure the integration with Service Portfolio Management, use the Customer
     |Task|Description|
     |----|-----------|
     |Activate Customer Service Management with Service Portfolio Management|Activate the CSM with Service Portfolio Management \(SPM\) plugin to use the integration with Service Portfolio Management.|
-    |Configure form views|Configure the form layout and related [[migration-lists|lists]] for the Sold Product, Case, Account, and Service Offering [[migration-forms|forms]]. Configuration provides users with information regarding which service offerings are associated with each sold product.|
-    |Assign roles|Assign the required roles to customer service managers based on your organization's existing [[personas-roles-and-tables-post-integration-oppMgmt|roles and responsibilities]].|
+    |Configure form views|Configure the form layout and related lists for the Sold Product, Case, Account, and Service Offering forms. Configuration provides users with information regarding which service offerings are associated with each sold product.|
+    |Assign roles|Assign the required roles to customer service managers based on your organization's existing roles and responsibilities.|
 
 4.  To perform a task, select **Configure**.
 
@@ -46,9 +46,3 @@ To configure the integration with Service Portfolio Management, use the Customer
 
 [Service Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/c_ServicePortfolioManagementv2.md)
 
-## Related
-
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[migration-lists|Lists]]
-- [[migration-forms|Forms]]
-- [[personas-roles-and-tables-post-integration-oppMgmt|Roles and responsibilities]]

@@ -27,8 +27,5 @@ The following table captures each screen in the tracking flow and the interactio
 |Store tasks|Shows list of store tasks with the state.|
 |Store task - details|Shows list of store task details.|
 
-**Parent Topic:**[[rahi-retail-explore-store-plans-tracking|Retail store plans tracking]]
+**Parent Topic:**[Retail store plans tracking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-explore-store-plans-tracking.md)
 
-## Related
-
-- [[rahi-retail-explore-store-plans-tracking|Retail store plans tracking]]

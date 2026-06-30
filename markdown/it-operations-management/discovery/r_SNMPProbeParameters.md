@@ -14,7 +14,7 @@ breadcrumb: [SNMP probes, List of Discovery probes, Discovery probes and sensors
 
 # SNMP probe parameters
 
-This list of parameters may be passed to the [[c_SNMPProbe|SNMP probes]].
+This list of parameters may be passed to the SNMP probes.
 
 For instructions on configuring probe parameters, see [Set probe parameters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_SetProbeParameters.md).
 
@@ -205,7 +205,7 @@ Enables the use of SNMP GETBULK requests to retrieve tabular data from SNMP devi
 -   SNMP - Switch - SpanningTreeTable
 -   SNMP - Network - ArpTable
 -   SNMP - Layer 2 Protocol Caches
--   SNMP - F5 BIG IP - System \(only for [[c_ServiceMappingOverview|Service Mapping]] customers\)
+-   SNMP - F5 BIG IP - System \(only for Service Mapping customers\)
 
  **Note:** These probes have a **timeout** value of 5000.
 
@@ -231,7 +231,7 @@ retries
 
 </td><td>
 
-The number of additional attempts [[r-discovery|Discovery]] makes to complete an individual GETBULK request \(see **use\_getbulk**\) or a GETNEXT request when the **use\_getscalar** parameter is set to **true**.
+The number of additional attempts Discovery makes to complete an individual GETBULK request \(see **use\_getbulk**\) or a GETNEXT request when the **use\_getscalar** parameter is set to **true**.
 
 </td><td>
 
@@ -240,8 +240,3 @@ The number of additional attempts [[r-discovery|Discovery]] makes to complete an
 </td></tr></tbody>
 </table>**Parent Topic:**[SNMP probes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_SNMPProbe.md)
 
-## Related
-
-- [[c_SNMPProbe|SNMP probes]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]

@@ -28,7 +28,7 @@ You can use URL queries to generate filtered lists of records programmatically b
 
 You must be familiar with the ServiceNow table and column names to export data directly from the URL. See [Navigate to a record or a module using a URL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/navigate-using-url.md).
 
-You can control whether to export the display value or raw value of fields and the field label or field name for headers using query [[r_DirectJDBCProbeParameters|parameters]] or [[r_SetArchiveRuleProcessingBehavior|system properties]].
+You can control whether to export the display value or raw value of fields and the field label or field name for headers using query parameters or system properties.
 
 -   For details on using query parameters, see [Query parameters for display value and header](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/query-parameters-display-value.md).
 -   For details on using system properties, see [System properties for display value and header](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/system-properties-display-value-header.md).
@@ -61,7 +61,7 @@ Query parameters, if present, override system properties.
     ?CSV
     ```
 
-    **Note:** The XML processor in a URL export doesn't export attachments or [[r_JournalFields|journal fields]]. To export attachments and journal fields like the **Work Notes** or **Additional Comments** fields, export the records from a list by using the **Export** &gt; **XML** option in the context menu.
+    **Note:** The XML processor in a URL export doesn't export attachments or journal fields. To export attachments and journal fields like the **Work Notes** or **Additional Comments** fields, export the records from a list by using the **Export** &gt; **XML** option in the context menu.
 
 4.  Query for specific records by adding the **sysparm\_query** parameter.
 
@@ -97,7 +97,7 @@ Query parameters, if present, override system properties.
 
     This URL exports incident fields visible from the Self Service \(ess\) view.
 
-    -   By default, [[c_ExportData|exporting data]] from a list exports only the fields that are visible from the current view. If you want to export fields from another list view, you can switch views from the UI. See [View management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/view-management-overview.md).
+    -   By default, exporting data from a list exports only the fields that are visible from the current view. If you want to export fields from another list view, you can switch views from the UI. See [View management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/view-management-overview.md).
     -   If you're exporting CSV or Excel data and don't specify a view, the export uses the default list view.
     -   If you're exporting XML data, all fields are exported by default unless you specify a particular view.
 7.  Export specific fields from the table using the **sysparm\_fields** parameter.
@@ -128,9 +128,3 @@ Query parameters, if present, override system properties.
 |https://&lt;instance name&gt;.service-now.com/incident\_list.do?CSV&amp;sysparm\_orderby=sys\_id|Export all incidents to a comma-separated value text file and sort the list by sys\_id.|
 |https://&lt;instance name&gt;.service-now.com/incident\_list.do?XML&amp;sysparm\_query=priority=1&amp;sysparm\_orderby=assigned\_to|Export a list of all priority 1 incidents to an XML file and sort the list by **Assigned to** field.|
 
-## Related
-
-- [[r_DirectJDBCProbeParameters|Parameters]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]
-- [[r_JournalFields|Journal fields]]
-- [[c_ExportData|Exporting data]]

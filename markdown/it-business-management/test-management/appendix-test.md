@@ -14,7 +14,7 @@ breadcrumb: [Migration from Test Management 1.0 to Test Management 2.0, Test Man
 
 # Appendix — Test Management 2.0
 
-[[test-management2-landing-page|Test Management 2.0]] offers a few enhancements over [[c_TestManagement|Test Management 1.0]].
+Test Management 2.0 offers a few enhancements over Test Management 1.0.
 
 These enhancements can be divided into the following categories:
 
@@ -22,7 +22,3 @@ These enhancements can be divided into the following categories:
 -   [Data model enhancements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/data-model-enhancements-test.md)
 -   [Usability enhancements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/usability-enhancements-test.md)
 
-## Related
-
-- [[test-management2-landing-page|Test Management 2.0]]
-- [[c_TestManagement|Test Management 1.0]]

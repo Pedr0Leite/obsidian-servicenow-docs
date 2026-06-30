@@ -14,7 +14,7 @@ breadcrumb: [Configure core features, Administer the ServiceNow AI Platform]
 
 # ServiceNow AI Platform translation and localization
 
-Provide service around the globe with language translation and [[ia-localization-il|localization]] for specified regions.
+Provide service around the globe with language translation and localization for specified regions.
 
 <table id="table_e44_4ym_y2c" class="nav-card"><tbody><tr><td>
 
@@ -26,7 +26,7 @@ Provide service around the globe with language translation and [[ia-localization
 
 </td></tr><tr><td>
 
-[Localization Workspace \[Omitted image "bus-global.svg"\] Alt text: [[localization-workspace|Localization Workspace]] is a targeted translation management experience for content owners and translation requesters. With Localization Workspace you can manage and deliver multilingual content at scale.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/localization-workspace.md)
+[Localization Workspace \[Omitted image "bus-global.svg"\] Alt text: Localization Workspace is a targeted translation management experience for content owners and translation requesters. With Localization Workspace you can manage and deliver multilingual content at scale.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/localization-workspace.md)
 
 </td><td>
 
@@ -37,11 +37,11 @@ Provide service around the globe with language translation and [[ia-localization
 
 ## Dynamic Translation
 
-Translate user-generated content live on your instance to streamline communication for your agents and end users. Integrate with the machine translation service provider of your choice to enable translation on forms, activity streams, and chats. Microsoft Azure and Google Cloud Translator Service are partially preconfigured with the activation of [[dynamic-translation|Dynamic Translation]], or you can configure a custom service provider using Integration Hub.
+Translate user-generated content live on your instance to streamline communication for your agents and end users. Integrate with the machine translation service provider of your choice to enable translation on forms, activity streams, and chats. Microsoft Azure and Google Cloud Translator Service are partially preconfigured with the activation of Dynamic Translation, or you can configure a custom service provider using Integration Hub.
 
 ## Localization Framework
 
-The [[localization-framework-landing|Localization Framework]] app uses configurable workflows to standardize the process of translating artifacts across the platform. Translate Service Catalog items, Knowledge Base articles, Document Templates, and more.
+The Localization Framework app uses configurable workflows to standardize the process of translating artifacts across the platform. Translate Service Catalog items, Knowledge Base articles, Document Templates, and more.
 
 ## Localization Workspace
 
@@ -49,12 +49,5 @@ Localization Workspace is a targeted translation management experience for conte
 
 ## System localization
 
-Give your users specialized support with [[system-localization-landing|System Localization]]. Define locales and adjust localization settings to display specific time/date and currency to users. Multiple languages are available on the ServiceNow AI Platform, along with options to create custom translations for ServiceNow materials, as well as for languages not translated on the platform.
+Give your users specialized support with System Localization. Define locales and adjust localization settings to display specific time/date and currency to users. Multiple languages are available on the ServiceNow AI Platform, along with options to create custom translations for ServiceNow materials, as well as for languages not translated on the platform.
 
-## Related
-
-- [[ia-localization-il|Localization]]
-- [[localization-workspace|Localization Workspace]]
-- [[dynamic-translation|Dynamic translation]]
-- [[localization-framework-landing|Localization Framework]]
-- [[system-localization-landing|System Localization]]

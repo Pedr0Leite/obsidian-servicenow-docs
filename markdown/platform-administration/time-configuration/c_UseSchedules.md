@@ -19,11 +19,11 @@ Use schedules to specify when service level agreements or inactivity monitors ar
 For example, if a service level agreement is set to an 8-5 Weekdays schedule, the SLA only counts time during those hours. Generate and validate schedules in the **System Scheduler** &gt; **Schedules** menu.
 
 -   **[Default schedules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/r_DefaultSchedules.md)**  
-[[r_DefaultSchedules|Default schedules]] are available in a base system.
+Default schedules are available in a base system.
 -   **[Holidays](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_Holidays.md)**  
 You can define each individual holiday as a schedule entry to create exceptions to existing schedules.
 -   **[Create a holiday schedule for multiple regions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_CreateAHolidaySchedMultiRegions.md)**  
-You can create holiday schedules for multiple regions that follow the same work schedule but have different [[c_Holidays|holidays]].
+You can create holiday schedules for multiple regions that follow the same work schedule but have different holidays.
 -   **[Parent and child schedules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_ParentAndChildSchedules.md)**  
 Schedules can have one of two parent-child relationships with other schedules.
 -   **[Define a schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_DefineASchedule.md)**  
@@ -31,7 +31,7 @@ Configure schedules using schedule and schedule entry records.
 -   **[Schedule for the fifth instance of a week date](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_FifthInstanceOfADayOfTheWeek.md)**  
 You can select a date that computes to the fifth instance of a weekday for a date near the end of a month for a repeating monthly schedule,
 -   **[Repeat a monthly schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_RepeatAMonthlySchedule.md)**  
-[[t_RepeatAMonthlySchedule|Repeat a monthly schedule]] to reduce the amount of time required to define schedules and to provide consistency in scheduling.
+Repeat a monthly schedule to reduce the amount of time required to define schedules and to provide consistency in scheduling.
 -   **[Using schedules and calendars](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/r_CreateCalendarsWithSchedulePages.md)**  
 Specific applications within the ServiceNow AI Platform generate graphical calendar displays based on schedule pages.
 -   **[Domain support and schedules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/domain-support-for-schedules.md)**  
@@ -39,8 +39,3 @@ Domain separation is supported in schedules. Domain separation enables you to se
 
 **Parent Topic:**[Exploring time configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/exploring-time-configuration.md)
 
-## Related
-
-- [[r_DefaultSchedules|Default schedules]]
-- [[c_Holidays|Holidays]]
-- [[t_RepeatAMonthlySchedule|Repeat a monthly schedule]]

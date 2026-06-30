@@ -14,7 +14,7 @@ breadcrumb: [Implement, Policy and Compliance Management, Governance, Risk, and 
 
 # Policy and Compliance Management enhancement steps
 
-After you have set up the [[r_PolicyComplianceMgmt|Policy and Compliance Management]] base system, you can perform the procedures listed in the following sections to enhance the functionality of the application.
+After you have set up the Policy and Compliance Management base system, you can perform the procedures listed in the following sections to enhance the functionality of the application.
 
 -   **[Create a GRC article template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/t_CreateArticleTemplate.md)**  
 Policy and Compliance managers can create templates for policy article publishing.
@@ -23,11 +23,11 @@ Usually, authority documents, citations, and control objectives are downloaded f
 -   **[Set notification properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/policy-compliance-properties.md)**  
 After an acknowledgement request has been sent to an audience, different reminder notifications are sent based on the timeliness and state of the response. Properties allow you to configure the notifications.
 -   **[Set up GRC Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/grc-virtual-agent-for-policy-exception.md)**  
-Set up the [[r_WhatIsGRC|Governance, Risk, and Compliance]] Virtual Agent to request an exception to a policy or a control objective from the Service Portal.
+Set up the Governance, Risk, and Compliance Virtual Agent to request an exception to a policy or a control objective from the Service Portal.
 -   **[Allow policy exception requests from other applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/allow-other-app-policy-except.md)**  
 Starting with Version 10.1, you can leverage new policy exception capabilities in Policy and Compliance Management from within other applications.
 -   **[GRC Approval Configurator for approving policy exceptions and extensions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/grc-approval-configurator-for-policy-extension-and-exception.md)**  
-Users can now [[manage-policy-exceptions|manage policy exceptions and extensions]] with granular, multi-level approval flows using the GRC Approval Configurator.
+Users can now manage policy exceptions and extensions with granular, multi-level approval flows using the GRC Approval Configurator.
 
 **Parent Topic:**[Implementing Policy and Compliance Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/policy-compliance-impl-overview.md)
 
@@ -46,8 +46,3 @@ Users can now [[manage-policy-exceptions|manage policy exceptions and extensions
 
 [Allow policy exception requests from other applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/allow-other-app-policy-except.md)
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]
-- [[manage-policy-exceptions|Manage policy exceptions and extensions]]

@@ -14,7 +14,7 @@ breadcrumb: [Scheduling in Workforce Optimization for HR, Using Workforce Optimi
 
 # Monitor schedule adherence
 
-Use schedule adherence to evaluate whether or not your agents are adhering to their assigned schedules. You can look for areas where low-value [[activity-lxp|activity]] can be eliminated or reduced and further analyze staffing levels throughout the day.
+Use schedule adherence to evaluate whether or not your agents are adhering to their assigned schedules. You can look for areas where low-value activity can be eliminated or reduced and further analyze staffing levels throughout the day.
 
 ## Before you begin
 
@@ -73,6 +73,3 @@ Example: A clock-in event gets generated when an agent logs in or changes the pr
 </table>
 **Parent Topic:**[Scheduling in Workforce Optimization for HR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/scheduling-configurable-wfo-hr.md)
 
-## Related
-
-- [[activity-lxp|Activity]]

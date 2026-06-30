@@ -12,22 +12,17 @@ breadcrumb: [Request evidence for model, Perform model validation, Use, Model Ri
 
 # Request evidence form
 
-Use this form to electronically request the information needed from the model owner to [[perform-model-risk-validation|perform model validation]].
+Use this form to electronically request the information needed from the model owner to perform model validation.
 
 See the following table for a description of the field values.
 
 |Field|Description|
 |-----|-----------|
-|Name|Unique name of the [[evidence-request|evidence request]].|
+|Name|Unique name of the evidence request.|
 |Due date|Expected date of evidence submission.|
 |Assignment group|Group assigned to provide evidence.|
 |Assigned to|User responsible for providing the evidence.|
 |Evidence collection instructions|Instructions for providing evidence. For example, list of supporting documents, files, and so on.|
 
-**Parent Topic:**[[request-evidence-for-model|Request evidence for model]]
+**Parent Topic:**[Request evidence for model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/request-evidence-for-model.md)
 
-## Related
-
-- [[request-evidence-for-model|Request evidence for model]]
-- [[perform-model-risk-validation|Perform model validation]]
-- [[evidence-request|Evidence request]]

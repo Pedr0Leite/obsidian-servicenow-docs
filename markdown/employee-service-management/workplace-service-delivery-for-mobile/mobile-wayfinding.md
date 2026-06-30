@@ -14,17 +14,17 @@ breadcrumb: [Configure, Workplace Service Delivery for Mobile, Workplace Service
 
 # Mobile Wayfinding Administration
 
-Configure map providers to enable [[wsd-mobile-overview|Workplace Service Delivery for Mobile]] users to get directions to another workplace easily.
+Configure map providers to enable Workplace Service Delivery for Mobile users to get directions to another workplace easily.
 
 Mobile wayfinding functionality is available for mobile users.
 
-**Note:** [[Indoor-mapping|Indoor Mapping]] spatial map data and objects can be integrated in [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] and viewed using responsive mobile.
+**Note:** Indoor Mapping spatial map data and objects can be integrated in Workplace Service Delivery and viewed using responsive mobile.
 
--   Create a custom Map provider. [[configure-ind-mapping|Configure Indoor mapping]] as your map providers so that directions are displayed from one location to another.
+-   Create a custom Map provider. Configure Indoor mapping as your map providers so that directions are displayed from one location to another.
 
     For more information, see [Configure a custom Map provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/configure-custom-map-provider.md).
 
--   [[create-custom-map-screen|Configure a custom Map screen]]. Configure map screens for wayfinding.
+-   Configure a custom Map screen. Configure map screens for wayfinding.
 
     For more information, see [Configure a custom map screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/create-custom-map-screen.md).
 
@@ -46,10 +46,3 @@ Configure map providers so that directions are displayed from one location to an
 
 **Next topic:**[Configure a custom map screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/create-custom-map-screen.md)
 
-## Related
-
-- [[wsd-mobile-overview|Workplace Service Delivery for Mobile]]
-- [[Indoor-mapping|Indoor Mapping]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[configure-ind-mapping|Configure Indoor Mapping]]
-- [[create-custom-map-screen|Configure a custom map screen]]

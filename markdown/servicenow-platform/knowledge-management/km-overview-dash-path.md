@@ -14,7 +14,7 @@ breadcrumb: [Knowledge Management Overview dashboard, Knowledge Management Platf
 
 # Update the navigation path for the Knowledge Management Overview dashboard
 
-Update the navigation path to access the [[km-overview-dash|Knowledge Management Overview dashboard]].
+Update the navigation path to access the Knowledge Management Overview dashboard.
 
 ## Before you begin
 
@@ -44,9 +44,5 @@ Role required: admin
 
 ## Result
 
-The navigation path for the [[knowledge-management-dashboard|Knowledge Management dashboard]] is updated to **All** &gt; **Knowledge** &gt; **Administration** &gt; **Overview**.
+The navigation path for the Knowledge Management dashboard is updated to **All** &gt; **Knowledge** &gt; **Administration** &gt; **Overview**.
 
-## Related
-
-- [[km-overview-dash|Knowledge Management Overview dashboard]]
-- [[knowledge-management-dashboard|Knowledge Management dashboard]]

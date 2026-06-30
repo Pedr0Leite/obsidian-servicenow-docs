@@ -25,7 +25,7 @@ Role required: none
 
 2.  Select the **General** tab.
 
-3.  [[configure-onboarding-modals|Configure]] your preferences for system notifications outside of the platform.
+3.  Configure your preferences for system notifications outside of the platform.
 
 <table id="choicetable_wgv_zk1_cwb"><thead><tr><th align="left" id="d118026e103">
 
@@ -88,6 +88,4 @@ Enable or disable individual delivery channels.
     |**\[Omitted image "pol-pref-badge.png"\] Alt text: Show badge count**|Displays a badge count of notifications.|
     |**\[Omitted image "pol-pref-banner-location.png"\] Alt text: Notification toast banner location**|The location on the screen where notification banners display.|
 
-## Related
 
-- [[configure-onboarding-modals|Configure]]

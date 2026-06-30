@@ -28,19 +28,19 @@ For more information on support levels, see [Application support for domain sepa
 
 ## Field Service Management domain separation overview
 
-Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data. In the [[fsm-application-landing-page|Field Service Management]] application, you can use the Company entity to drive domain separation. Assign a domain to each company and then any work orders and tasks created for a company are created within the company domain. Other entities and tasks related to work orders, such as dispatcher and assignment groups, [[c_PartRequirements|part requirements]], and transfer orders, are driven by the company and work order domains.
+Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data. In the Field Service Management application, you can use the Company entity to drive domain separation. Assign a domain to each company and then any work orders and tasks created for a company are created within the company domain. Other entities and tasks related to work orders, such as dispatcher and assignment groups, part requirements, and transfer orders, are driven by the company and work order domains.
 
 ## How domain separation works in Field Service Management
 
 Domain separation for Field Service Management uses the Company entity to drive the domain structure. To use domain separation, all companies must be assigned to a domain.
 
-When [[use-fsm|using Field Service Management]] in a domain separated instance, the **Company** field is a mandatory field on the Work Order form. When you create a work order for a company, the work order is created in the company domain. Any tasks created for the work order are also created in the company domain.
+When using Field Service Management in a domain separated instance, the **Company** field is a mandatory field on the Work Order form. When you create a work order for a company, the work order is created in the company domain. Any tasks created for the work order are also created in the company domain.
 
 When using Field Service Management integrated with Customer Service Management in a domain separated instance, the **Account** field is a mandatory field on the Work Order form. When you create a work order for an account through a customer service case, the work order is created in the account domain. Any tasks created for the work order are created in the same domain as the work order. In the event that the domain of the work order changes, the domain of the work order tasks is also updated.
 
 Modifying the company or account on a work order also modifies the domain of the work order and work order tasks. The domains of other related entities are not automatically updated. The company or account can be changed until the work order is qualified.
 
-**Note:** Field Service Management is configured at the application level and does not support domain-specific configuration. For example, if you select **use [[dynamic-scheduling|dynamic scheduling]]** as your task assignment method, this method is used to assign tasks in all domains.
+**Note:** Field Service Management is configured at the application level and does not support domain-specific configuration. For example, if you select **use dynamic scheduling** as your task assignment method, this method is used to assign tasks in all domains.
 
 ## Setting up domain separation in Field Service Management
 
@@ -74,9 +74,3 @@ The parts process, which includes sourcing and using assets, is also domain sepa
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[fsm-application-landing-page|Field Service Management]]
-- [[c_PartRequirements|Part requirements]]
-- [[use-fsm|Using Field Service Management]]
-- [[dynamic-scheduling|Dynamic scheduling]]

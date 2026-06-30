@@ -14,7 +14,7 @@ breadcrumb: [Search administration, Configure core features, Administer the Serv
 
 # Features of Search administration
 
-Enable and configure [[search-administration|Search administration]] features.
+Enable and configure Search administration features.
 
 <table id="table_w3c_t5p_fz"><thead><tr><th>
 
@@ -56,7 +56,7 @@ Active
 
 </td><td>
 
-Display search [[hs-results|results]] on forms and record producers when users enter text in a field.
+Display search results on forms and record producers when users enter text in a field.
 
 </td><td>
 
@@ -68,8 +68,3 @@ Active
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[search-administration|Search administration]]
-- [[hs-results|Results]]

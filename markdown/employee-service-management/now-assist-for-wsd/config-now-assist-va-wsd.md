@@ -18,7 +18,7 @@ Enable your employees to submit a reservation request using a conversational exp
 
 ## About this task
 
-Workplace users can leverage the Now Assist in Virtual Agent by configuring the Now Assist for WSD. [[now-assist-wsd-landing|Now Assist for Workplace Service Delivery \(WSD\)]] can be configurted to [[reserve-workplace-items|reserve workplace items]], invite visitors, and add extra services. The Now Assist in Virtual Agent application provides conversational experiences for [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] flows.
+Workplace users can leverage the Now Assist in Virtual Agent by configuring the Now Assist for WSD. Now Assist for Workplace Service Delivery \(WSD\) can be configurted to reserve workplace items, invite visitors, and add extra services. The Now Assist in Virtual Agent application provides conversational experiences for Workplace Service Delivery flows.
 
 For more information about Now Assist in Virtual Agent, see [Now Assist in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-va-landing.md).
 
@@ -27,12 +27,12 @@ For more information about Now Assist in Virtual Agent, see [Now Assist in Virtu
 Make sure that you have installed the following applications from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home):
 
 -   Installing Now Assist for Workplace Service Delivery \(WSD\) activates and installs Now Assist for Platform \(sn\_genai\_platform\)
--   [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
--   [[workplace-visitor-mgmt-feat|Workplace Visitor Management]]
+-   Workplace Reservation Management
+-   Workplace Visitor Management
 
     Workplace Visitor Management is applicable for the **Add Visitors to Reservation** topic block and is optional.
 
--   [[workplace-case-mgmt-feat|Workplace Case Management]]
+-   Workplace Case Management
 
     Workplace Case Management is applicable for the **Add Catering to Reservation** topic blocks, and is optional.
 
@@ -43,7 +43,7 @@ Make sure that you have installed the following applications from the [ServiceNo
 -   Add Zoom to Reservation
 -   Add Visitor to Reservation
 
-To run the related [[flows-ukg|subflows]], the required application must be installed and the feature must be enabled in the reservable module configuration.
+To run the related subflows, the required application must be installed and the feature must be enabled in the reservable module configuration.
 
 Role required: admin
 
@@ -64,21 +64,10 @@ Role required: admin
 
 -   Create a reservable module to group similar workplace items into a category. For more information, see [Configure a reservable module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/config-reservable-module.md).
     -   Enable virtual meeting links for your reservation by configuring a virtual meeting provider. For more information, see [Configure virtual meeting providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/configure-virtual-meeting-providers.md).
-    -   Provide extra services, such as catering, for the reservations by creating [[workplace-services|workplace services]] and adding them to workplace locations. For more information, see [Create a workplace service to provide an extra service for a reservation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-workplace-service-to-provide-extra-service.md).
+    -   Provide extra services, such as catering, for the reservations by creating workplace services and adding them to workplace locations. For more information, see [Create a workplace service to provide an extra service for a reservation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-workplace-service-to-provide-extra-service.md).
 -   Select the portals and channels that the Virtual Agent is displayed on. For more information, see [Configuring assistants overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/configure-now-assist-va.md).
 
-    **Note:** Selecting the [[workplace-services-portal-hr|Workplace Service Portal]] for Now Assist in Virtual Agent replaces the existing NLU experience.
+    **Note:** Selecting the Workplace Service Portal for Now Assist in Virtual Agent replaces the existing NLU experience.
 
 -   Use the Virtual Agent to reserve a workplace item, add services, and invite visitors. For more information, see  Using Now Assist in VA to reserve a workplace item .
 
-## Related
-
-- [[now-assist-wsd-landing|Now Assist for Workplace Service Delivery \(WSD\)]]
-- [[reserve-workplace-items|Reserve workplace items]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-visitor-mgmt-feat|Workplace Visitor Management]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[flows-ukg|Subflows]]
-- [[workplace-services|Workplace Services]]
-- [[workplace-services-portal-hr|Workplace Service Portal]]

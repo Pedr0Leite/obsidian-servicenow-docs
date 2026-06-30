@@ -15,7 +15,7 @@ breadcrumb: [Work on an invoice exception, Invoice exceptions, Using Accounts Pa
 
 # Confirm receipt of your order from Employee Center
 
-Confirm the receipt of the ordered items so that the payment is made to the [[supplier|supplier]].
+Confirm the receipt of the ordered items so that the payment is made to the supplier.
 
 ## Before you begin
 
@@ -29,14 +29,10 @@ Role required: sn\_shop.acknowledgement\_task\_owner
 
 3.  Select **Complete in ShoppingHub**.
 
-    [[shopping-hub-overview|Shopping Hub]] is opened in a new browser tab.
+    Shopping Hub is opened in a new browser tab.
 
 4.  Follow the steps starting from step 2 in [Confirm receipt of your order from Shopping Hub Home](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/work-receipt-todos.md).
 
 
 **Parent Topic:**[Work on an invoice exception](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/work-invoice-exception-case.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[shopping-hub-overview|Shopping Hub]]

@@ -14,7 +14,7 @@ breadcrumb: [Hermes Messaging Service, Manage service capabilities, Extend Servi
 
 # Managing namespaces and topics in Hermes
 
-Organize and manage namespaces and topics in the Hermes Kafka cluster using the [[hermes-messaging-service|Hermes Messaging Service]].
+Organize and manage namespaces and topics in the Hermes Kafka cluster using the Hermes Messaging Service.
 
 -   **[Managing namespaces in Hermes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/managing-namespaces-hermes.md)**  
 Group Kafka topics together for simplified topic management and access control specification using namespaces.
@@ -23,9 +23,5 @@ Manage topic records in your instance and Kafka topics in the Hermes Kafka clust
 -   **[Monitoring topics in the Hermes Kafka cluster](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/monitoring-topics-hermes-kafka-cluster.md)**  
 Monitor message processing and view topics in the Hermes Kafka cluster that belong to you using the Hermes Messaging Service topic inspector.
 
-**Parent Topic:**[[manage-services|Manage service capabilities]]
+**Parent Topic:**[Manage service capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/manage-services.md)
 
-## Related
-
-- [[manage-services|Manage service capabilities]]
-- [[hermes-messaging-service|Hermes Messaging Service]]

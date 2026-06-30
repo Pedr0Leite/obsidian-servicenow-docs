@@ -38,11 +38,7 @@ The semaphore sets widget lists the utilization of various semaphores available 
 
 ## Update Sets
 
-The update sets widget lists all the updates that are applied in the past 24 hours and their completion state. Use this widget to gain insight of any updates that may be responsible to new features or [[instance-observer-performance|performance]] changes within your instance.
+The update sets widget lists all the updates that are applied in the past 24 hours and their completion state. Use this widget to gain insight of any updates that may be responsible to new features or performance changes within your instance.
 
-**Parent Topic:**[[io-triage-sn-instance|Triage a ServiceNow instance]]
+**Parent Topic:**[Triage a ServiceNow instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-triage-sn-instance.md)
 
-## Related
-
-- [[io-triage-sn-instance|Triage a ServiceNow instance]]
-- [[instance-observer-performance|Performance]]

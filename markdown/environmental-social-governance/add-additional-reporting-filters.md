@@ -67,7 +67,7 @@ Related fields
 
 </td><td>
 
-Fields in the add-in pane that are dependent on the selected **Field name**. Only records relevant to the selected **Field name** will be displayed as choices. For example, only entities related to a selected metric definition will be available as a choice. For more information, see [[add-related-fields-0365|Add related fields to a Microsoft 365 configuration record]].
+Fields in the add-in pane that are dependent on the selected **Field name**. Only records relevant to the selected **Field name** will be displayed as choices. For example, only entities related to a selected metric definition will be available as a choice. For more information, see [Add related fields to a Microsoft 365 configuration record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/add-related-fields-0365.md).
 
 </td></tr><tr><td>
 
@@ -114,9 +114,5 @@ If an ESG reporting disclosure manager wants to understand the total emissions f
 -   **[Add related fields to a Microsoft 365 configuration record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/add-related-fields-0365.md)**  
 Add related fields to filter values based on the chosen primary field. These filter values will automatically adjust according to the selected filter criteria.
 
-**Parent Topic:**[[integrating-o365-with-servicenow|Integrating Microsoft 365 with ServiceNow reporting]]
+**Parent Topic:**[Integrating Microsoft 365 with ServiceNow reporting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/integrating-o365-with-servicenow.md)
 
-## Related
-
-- [[add-related-fields-0365|Add related fields to a Microsoft 365 configuration record]]
-- [[integrating-o365-with-servicenow|Integrating Microsoft 365 with ServiceNow reporting]]

@@ -16,7 +16,7 @@ For remote deployment at a facility or on a network, verify that the following r
 
 ## Infrastructure requirements
 
-You must have a Linux operating system installed that can operate in a virtualization environment or on a Bare-metal server. [[install-discovery-console-ot|Install the Discovery Console for OT]] on a virtual machine.
+You must have a Linux operating system installed that can operate in a virtualization environment or on a Bare-metal server. Install the Discovery Console for OT on a virtual machine.
 
 **Note:** After installing the Console and the Operating System \(OS\) on a virtual machine \(VM\), the VM must have a minimum of 10-GB of unused space available.
 
@@ -102,7 +102,7 @@ Enables Sensor devices to synchronize time \(real-time clock\) with the Discover
 
 ## Discovery Console for OT configuration wizard
 
-The Discovery Console for OT now provides a configuration wizard to guide you through your initial setup and configuration of the Console. If you choose to use the interactive configuration wizard after logging into the Console, it alerts you automatically to upload a Console license. See [[console-onboarding-wizard|Use the Discovery Console for OT interactive configuration wizard]] for more information.
+The Discovery Console for OT now provides a configuration wizard to guide you through your initial setup and configuration of the Console. If you choose to use the interactive configuration wizard after logging into the Console, it alerts you automatically to upload a Console license. See [Use the Discovery Console for OT interactive configuration wizard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/console-onboarding-wizard.md) for more information.
 
 ## Discovery Console for OT license
 
@@ -110,7 +110,7 @@ The Discovery Console for OT now provides a configuration wizard to guide you th
 
 When you first sign into the Console, a warning banner alerts you that there is no license. To upload a license for the Discovery Console for OT, do the following:
 
-1.  From the [[home-page|Home page]], navigate to the [[settings-page-console|Settings page]].
+1.  From the Home page, navigate to the Settings page.
 2.  On the Settings page in the License section, select the **Upload License** button.
 3.  Upload your license as a `.zip` file.
 4.  Verify the ZIP file contains the `license.pem` and `pubkey.pem` files.
@@ -132,9 +132,3 @@ The license:
 
 **Note:** You can't export RAW XML results if your Console license is invalid \(absent or expired\).
 
-## Related
-
-- [[console-onboarding-wizard|Use the Discovery Console for OT interactive configuration wizard]]
-- [[install-discovery-console-ot|Install the Discovery Console for OT]]
-- [[home-page|Home page]]
-- [[settings-page-console|Settings page]]

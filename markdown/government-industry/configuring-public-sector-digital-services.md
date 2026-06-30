@@ -51,7 +51,7 @@ In addition to installing the public sector application and playbooks, you can c
 
     The Service Request Playbook application provides a prebuilt Virtual Agent conversation topic, Create a service request, to help constituents submit non-emergency service requests.
 
-    For details on configuring Virtual Agent for public sector use, see [[psds-configuring-va|Configure Virtual Agent for Public Sector Digital Services]].
+    For details on configuring Virtual Agent for public sector use, see [Configure Virtual Agent for Public Sector Digital Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-configuring-va.md).
 
 -   **Service definitions**
 
@@ -59,16 +59,12 @@ In addition to installing the public sector application and playbooks, you can c
 
     As an admin, you can create service definitions that connect the services your agency offers to the services being requested by a constituent or business. When you create a service definition, you can configure the case management processes, such as the case types, for executing those services.
 
-    For more information, see [[psds-service-definitions|Service definitions for Public Sector Digital Services]].
+    For more information, see [Service definitions for Public Sector Digital Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-service-definitions.md).
 
 -   **Relabel menu items in CSM Configurable Workspace after upgrade**
 
     After you upgrade your instance to a new release, certain menus and menu items in the CSM Configurable Workspace might not be labeled appropriately for public sector use. You can relabel the following items for public sector use by changing them in the UX list categories for Customer and Service Organizations.
 
-    For details, see [[psds-relabel-after-upgrading|Relabel CSM Configurable Workspace items after upgrade]].
+    For details, see [Relabel CSM Configurable Workspace items after upgrade](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-relabel-after-upgrading.md).
 
-## Related
 
-- [[psds-configuring-va|Configure Virtual Agent for Public Sector Digital Services]]
-- [[psds-service-definitions|Service definitions for Public Sector Digital Services]]
-- [[psds-relabel-after-upgrading|Relabel CSM Configurable Workspace items after upgrade]]

@@ -16,7 +16,7 @@ Define a set of rules for managing table data on your instance.
 
 ## About this task
 
-[[c_DataManagement|Data management]] policies streamline administration by allowing you to define multiple archive and [[table-cleaner|table cleaner]] rules for a table within a single policy record. Additionally, you can easily activate or deactivate all rules simultaneously from the data management policy record.
+Data management policies streamline administration by allowing you to define multiple archive and table cleaner rules for a table within a single policy record. Additionally, you can easily activate or deactivate all rules simultaneously from the data management policy record.
 
 After upgrading to Xanadu or higher, data management policies are automatically created for any table with an archive rule or table cleaner rule. If a data management policy doesn't exist for a table on your instance, you can create one manually.
 
@@ -88,15 +88,8 @@ A data management policy is established for the designated table. You can now cr
 
 Define archive and cleanup rules for the table by creating rules in the data management policy.
 
--   [[t_CreateAnArchiveRule|Create an archive rule in Core UI]]
--   [[activate-table-cleanup|Create a table cleanup rule in Core UI]]
+-   [Create an archive rule in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAnArchiveRule.md)
+-   [Create a table cleanup rule in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/activate-table-cleanup.md)
 
-**Parent Topic:**[[data-management-policies|Managing data growth in Core UI]]
+**Parent Topic:**[Managing data growth in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/data-management-policies.md)
 
-## Related
-
-- [[t_CreateAnArchiveRule|Create an archive rule in Core UI]]
-- [[activate-table-cleanup|Create a table cleanup rule in Core UI]]
-- [[data-management-policies|Managing data growth in Core UI]]
-- [[c_DataManagement|Data Management]]
-- [[table-cleaner|Table cleaner]]

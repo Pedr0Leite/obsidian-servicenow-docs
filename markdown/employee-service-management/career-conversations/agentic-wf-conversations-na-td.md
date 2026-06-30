@@ -14,9 +14,9 @@ breadcrumb: [Using the Career Conversations application, Career Conversations, G
 
 # Create a growth conversation using an agent
 
-As a manager, use the growth conversation preparation AI agent to streamline your employee growth discussions. Leverage this agent to gather key employee talent [[activity-lxp|activity]] and journeys data to get a clear, structured summary that helps you prepare for the conversation faster and effectively. Rely on data-driven talking points, so every growth conversation is focused, meaningful, and impactful.
+As a manager, use the growth conversation preparation AI agent to streamline your employee growth discussions. Leverage this agent to gather key employee talent activity and journeys data to get a clear, structured summary that helps you prepare for the conversation faster and effectively. Rely on data-driven talking points, so every growth conversation is focused, meaningful, and impactful.
 
-**Note:** For the Growth conversation preparation AI agent to work, you need to be on 3.6.3 version of [[egd-activities-conversations-module|Career Conversations]] and have the [[now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\)]] plugin which will install Now Assist for Talent and HR Talent AI Agent Collection.
+**Note:** For the Growth conversation preparation AI agent to work, you need to be on 3.6.3 version of Career Conversations and have the Now Assist for HR Service Delivery \(HRSD\) plugin which will install Now Assist for Talent and HR Talent AI Agent Collection.
 
 |Agentic AI feature|AI agents|Description|
 |------------------|---------|-----------|
@@ -26,8 +26,3 @@ There might be AI agents installed with the Now Assist application that are not 
 
 **Parent Topic:**[Using the Career Conversations application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/egd-activities-use.md)
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[egd-activities-conversations-module|Career Conversations]]
-- [[now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\)]]

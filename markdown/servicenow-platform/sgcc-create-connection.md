@@ -12,7 +12,7 @@ breadcrumb: [Managing connections, SGC Central, Integrating third-party data int
 
 # Create a connection for a Service Graph Connector in SGC Central
 
-Create a connection added for a Service Graph Connector within the [[sgcc-landing|SGC Central]] view of the [[sg-workspace|Service Graph Workspace]] or CMDB Workspace.
+Create a connection added for a Service Graph Connector within the SGC Central view of the Service Graph Workspace or CMDB Workspace.
 
 ## Before you begin
 
@@ -35,10 +35,5 @@ Role required: SGC-admin or admin
     **Note:**
 
     -   When you select a connector type, the application scope changes to the selected type.
-    -   When setting up a connection using a Service Graph Connector for the first time, you might need to complete the initial setup tasks. See [[sgcc-first-time-setup|Perform initial setup tasks when creating a connection in SGC Central]].
+    -   When setting up a connection using a Service Graph Connector for the first time, you might need to complete the initial setup tasks. See [Perform initial setup tasks when creating a connection in SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-first-time-setup.md).
 
-## Related
-
-- [[sgcc-first-time-setup|Perform initial setup tasks when creating a connection in SGC Central]]
-- [[sgcc-landing|SGC Central]]
-- [[sg-workspace|Service Graph Workspace]]

@@ -14,7 +14,7 @@ breadcrumb: [Procurement, IT Asset Management]
 
 # Activate Procurement
 
-You can activate the [[c_Procurement|Procurement]] plugin that provides core procurement capabilities.
+You can activate the Procurement plugin that provides core procurement capabilities.
 
 ## Before you begin
 
@@ -57,6 +57,3 @@ Several types of components are installed with Procurement.
 
 [Domain separation and Procurement]()
 
-## Related
-
-- [[c_Procurement|Procurement]]

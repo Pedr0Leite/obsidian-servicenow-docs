@@ -14,18 +14,18 @@ breadcrumb: [Advanced Work Assignment Source-to-Pay Operations, Configure, Sourc
 
 # Setting up Advanced Work Assignment for Source-to-Pay Operations
 
-Plan and configure your implementation of [[awa-spo|Advanced Work Assignment for Source-to-Pay Operations]].
+Plan and configure your implementation of Advanced Work Assignment for Source-to-Pay Operations.
 
 Setting up Advanced Work Assignment for Source-to-Pay Operations involves configuring the following components:
 
--   Service channels: A means of providing optimum service to employees, shoppers, and requesters. [[advanced-work-assignment|Advanced Work Assignment]] \(AWA\) offers base system channels for chats, cases, incidents, and walk-up centers. You can assign the work to an appropriate skilled group. The quantum of work can also be assigned more equitably among the group. For each channel, you can set attributes such as agent capacity and utilization conditions to control the work handled in the channel.
+-   Service channels: A means of providing optimum service to employees, shoppers, and requesters. Advanced Work Assignment \(AWA\) offers base system channels for chats, cases, incidents, and walk-up centers. You can assign the work to an appropriate skilled group. The quantum of work can also be assigned more equitably among the group. For each channel, you can set attributes such as agent capacity and utilization conditions to control the work handled in the channel.
 -   Work item: A single piece of work handled by an agent from start to completion.
 -   Work item queue: A queue that stores a specific type of work item for a service channel.
 -   Assignment groups: Agents belong to specific groups organized by the type of work assigned to them.
 -   Assignment rules: Criteria that determine how work items are pushed to the appropriate agent within a qualified assignment group.
 -   Agent capacity: The maximum number of work items on a particular service channel that an agent may actively work on at a time. If you want to set a maximum capacity for an agent across all service channels, define the maximum universal capacity for that agent.
 -   Agent availability: States that indicate agent presence, and whether the agent is available for work, busy, or offline. AWA uses the agent availability state to determine if an agent is able to receive work.
--   Inbox layout: A configuration tied to a service channel that defines which fields of a record representing a work item are shown in agent inboxes. A layout defines what the agent sees in the [[purch-order-mgmt-ws|Source-to-Pay Workspace]].
+-   Inbox layout: A configuration tied to a service channel that defines which fields of a record representing a work item are shown in agent inboxes. A layout defines what the agent sees in the Source-to-Pay Workspace.
 
 For more information, see [Exploring Advanced Work Assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/awa-overview.md).
 
@@ -34,13 +34,7 @@ Configure various components, such as service channels, work item queues, and as
 -   **[Configure the Sourcing and Procurement Operations queues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/configure-awa-spo-queues.md)**  
 Configure the Advanced Work Assignment for Source-to-Pay Operations queues to ensure that email and chat requests are routed and assigned to specific agents belonging to defined groups.
 -   **[Configure Agent Chat for Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/configure-agent-chat-spo.md)**  
-Use Agent Chat Settings to [[configure-agent-chat-spo|configure Agent Chat for Source-to-Pay Workspace]].
+Use Agent Chat Settings to configure Agent Chat for Source-to-Pay Workspace.
 
 **Parent Topic:**[Advanced Work Assignment for Source-to-Pay Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/awa-spo.md)
 
-## Related
-
-- [[awa-spo|Advanced Work Assignment for Source-to-Pay Operations]]
-- [[advanced-work-assignment|advanced work assignment]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[configure-agent-chat-spo|Configure Agent Chat for Source-to-Pay Workspace]]

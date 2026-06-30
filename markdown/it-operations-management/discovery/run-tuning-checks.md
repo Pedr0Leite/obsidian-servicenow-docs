@@ -19,7 +19,7 @@ Tuning checks are scans aimed at optimizing configurations, grouped into suites 
 
 ## Before you begin
 
-Role required: [[r-discovery|discovery]]\_admin or admin
+Role required: discovery\_admin or admin
 
 ## About this task
 
@@ -31,7 +31,7 @@ The configured checks are listed under the following tabs:
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[discovery-admin-workspace|Discovery Admin Workspace]]** &gt; **Tuning**.
+1.  Navigate to **Workspaces** &gt; **Discovery Admin Workspace** &gt; **Tuning**.
 
 2.  Select **Checks**.
 
@@ -49,7 +49,3 @@ The configured checks are listed under the following tabs:
     -   To know more details on the issue, select the **Documentation on the check** link.
     -   To view the definition page, select the **Check definition page** link. To edit a check, see [Edit an existing check](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/edit-an-existing-check.md).
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[discovery-admin-workspace|Discovery Admin Workspace]]

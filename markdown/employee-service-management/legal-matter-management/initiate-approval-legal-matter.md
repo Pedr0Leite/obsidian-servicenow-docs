@@ -39,7 +39,7 @@ As a collaborator added to a legal matter, you can access and work on the legal 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Legal Request** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
 2.  In the Legal Counsel Center tab, select the list icon \[Omitted image "lsd-lcc-list-icon.png"\] Alt text:.
 
@@ -176,7 +176,7 @@ The assigned approvers get an email notification with a link to open the record 
 **Note:**
 
 -   An attachment cannot be deleted after an ad hoc approval is initiated and is in the Requested state. To remove such attachments, either cancel the ad hoc approval request or obtain the approval first.
--   When you remove an attachment from a legal matter, it also deletes the associated ad hoc approval records. A work note is posted with the deletion details in the [[activity-lxp|Activity]] stream of the legal matter.
+-   When you remove an attachment from a legal matter, it also deletes the associated ad hoc approval records. A work note is posted with the deletion details in the Activity stream of the legal matter.
 
 The approval details appear under the **Approvals** tab on the Standard Ticket page.
 
@@ -185,12 +185,7 @@ The approval details appear under the **Approvals** tab on the Standard Ticket p
 Approvers can review and [approve or reject the requested item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/approve-reject-legal-matter-artif.md).
 
 -   **[Cancel an ad hoc approval for a legal matter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/cancel-approval-legal-matter.md)**  
-[[cancel-approval-legal-matter|Cancel an ad hoc approval for a legal matter]] if it no longer requires any action.
+Cancel an ad hoc approval for a legal matter if it no longer requires any action.
 
 **Parent Topic:**[Work on a legal matter]()
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[activity-lxp|Activity]]
-- [[cancel-approval-legal-matter|Cancel an ad hoc approval for a legal matter]]

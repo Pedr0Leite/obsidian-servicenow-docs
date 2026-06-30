@@ -30,13 +30,13 @@ Role required: sn\_customerservice\_agent or sn\_customerservice\_manager
 
 4.  Manage your customer service cases based on your role.
 
-    For more information about the agent and manager tasks, see [[csm-mobile-agent-mgr-task|Use mobile application to perform agent and manager tasks]].
+    For more information about the agent and manager tasks, see [Use mobile application to perform agent and manager tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-mobile-agent-mgr-task.md).
 
 
 -   **[Use mobile application to perform agent and manager tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-mobile-agent-mgr-task.md)**  
-Customer service agents [[manage-cases|manage cases]] and real-time notifications help in taking immediate action. Customer service managers can approve escalations and perform tasks on major issues with a swipe.
+Customer service agents manage cases and real-time notifications help in taking immediate action. Customer service managers can approve escalations and perform tasks on major issues with a swipe.
 
-**Parent Topic:**[[customer-service-mobile-interface|Mobile experience for CSM]]
+**Parent Topic:**[Mobile experience for CSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-mobile-interface.md)
 
 **Related topics**  
 
@@ -45,8 +45,3 @@ Customer service agents [[manage-cases|manage cases]] and real-time notification
 
 [Agent mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-experience.md)
 
-## Related
-
-- [[csm-mobile-agent-mgr-task|Use mobile application to perform agent and manager tasks]]
-- [[customer-service-mobile-interface|Mobile experience for CSM]]
-- [[manage-cases|Manage cases]]

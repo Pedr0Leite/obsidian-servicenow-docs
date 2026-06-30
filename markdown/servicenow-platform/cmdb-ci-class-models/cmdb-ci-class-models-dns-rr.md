@@ -30,16 +30,16 @@ See the release notes for all CMDB CI class models.
 
 ## Supported DNS resource record types
 
--   A Record: Holds the [[ip-address|IP address]] of a domain.
+-   A Record: Holds the IP address of a domain.
 -   AAAA Record: Contains the IPv6 address of a domain.
 -   CNAME Record: Forwards one domain or subdomain to another domain. Does not provide an IP address.
--   MX Record: Directs mail to an [[email|email]] server.
+-   MX Record: Directs mail to an email server.
 
 The supported record types enable actions like the following:
 
 -   Capture domain name registration in the CMDB and create workflow to request, approve, and track life cycle.
 -   Auto-populate the data from integration to the registrar.
--   [[c_Connect|Connect]] the data to an IPAM record.
+-   Connect the data to an IPAM record.
 -   Connect the data to the certificate on the DNS.
 -   Connect the data to the CDN provider.
 
@@ -47,7 +47,7 @@ The supported record types enable actions like the following:
 
 ## Table: cmdb\_ci\_dns\_resource\_record
 
-This section lists the classes that the [[cmdb-ci-class-models|CMDB CI Class Models app]] adds or updates. For the list of classes in the base system, including classes that this app might extend, see [CMDB tables descriptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-tables-details.md).
+This section lists the classes that the CMDB CI Class Models app adds or updates. For the list of classes in the base system, including classes that this app might extend, see [CMDB tables descriptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-tables-details.md).
 
 DNS record detail from Domain Name Server \(DNS\) for a WWW domain.
 
@@ -312,10 +312,3 @@ glide\_date\_time
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[ip-address|IP Address]]
-- [[email|Email]]
-- [[c_Connect|Connect]]
-- [[cmdb-ci-class-models|CMDB CI Class Models app]]

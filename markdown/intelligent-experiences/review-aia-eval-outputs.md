@@ -27,7 +27,7 @@ Automated evaluations include scores and recommendations across the different me
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[now-assist-skill-kit-landing|Now Assist Skill Kit]]** &gt; **Agentic Evaluations**.
+1.  Navigate to **All** &gt; **Now Assist Skill Kit** &gt; **Agentic Evaluations**.
 
 2.  Select the automated evaluation you want to review the results of.
 
@@ -38,7 +38,7 @@ Automated evaluations include scores and recommendations across the different me
     The summary provides a high-level overview of your agent's performance across all evaluated metrics. Key information includes:
 
     -   Agentic AI asset information such as name and version
-    -   Total number of test [[cases|cases]] evaluated
+    -   Total number of test cases evaluated
     -   Average scores across all metrics
     -   Number of issues identified by severity level
 4.  Review the overall LLM-judged scores for each metric.
@@ -48,7 +48,7 @@ Automated evaluations include scores and recommendations across the different me
     -   Numerical score
     -   Performance rating \(Excellent, Good, Moderate, or Poor\)
     -   Individual record evaluations
-5.  [[aia-eval-review-issues|Investigate any issues]] and their [[aia-eval-analyze-traces|associated traces]].
+5.  [Investigate any issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-eval-review-issues.md) and their [associated traces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-eval-analyze-traces.md).
 
     If problems with the agentic AI asset's performance are found, they are categorized by severity level, metric, and use case. Issues can be tracked down to their sources in specific interactions, called "traces." Review issues and their traces to diagnose underlying issues. Issues are classified by severity level:
 
@@ -56,7 +56,7 @@ Automated evaluations include scores and recommendations across the different me
     -   High: Significant problems that impact user experience or accuracy
     -   Medium: Moderate issues that may affect performance in some scenarios
     -   Low: Minor issues that have minimal impact on overall functionality
-6.  [[aia-eval-apply-optimization|Apply optimizations]] based on the findings.
+6.  [Apply optimizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-eval-apply-optimization.md) based on the findings.
 
     The automated evaluation can include recommended optimizations to address issues found in the evaluation. After you have applied the optimization, you can rerun the evaluation to see the changes in behavior and performance. Track improvements by comparing results across evaluation runs.
 
@@ -65,10 +65,3 @@ Automated evaluations include scores and recommendations across the different me
 
 You have a comprehensive review of your agent's performance across all evaluated metrics. Use these insights to make informed decisions about deployment readiness or identify areas requiring additional development work.
 
-## Related
-
-- [[aia-eval-review-issues|Review issues discovered in agentic evaluations]]
-- [[aia-eval-analyze-traces|Analyze traces found in agentic evaluation run results]]
-- [[aia-eval-apply-optimization|Apply optimizations to agentic AI assets and reevaluate]]
-- [[now-assist-skill-kit-landing|Now Assist Skill Kit]]
-- [[cases|Cases]]

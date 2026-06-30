@@ -35,15 +35,10 @@ You can create a UI action to provide any of these controls:
 
 \[Omitted image "UIActionButton.png"\] Alt text: List UI elements controlled by UI actions.
 
--   **[[t_EditingAUIAction|Create a UI action]]**  
+-   **[Create a UI action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_EditingAUIAction.md)**  
 You can create a new UI action or edit an existing one.
--   **[[t_OverrideOrRmvAUIActionForExtTbl|Override a UI action for an extended table]]**  
+-   **[Override a UI action for an extended table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_OverrideOrRmvAUIActionForExtTbl.md)**  
 You can override or remove a UI action for a table that is extended from another table.
 
-**Parent Topic:**[[form-administration|Administering forms on the ServiceNow AI Platform]]
+**Parent Topic:**[Administering forms on the ServiceNow AI Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/form-administration.md)
 
-## Related
-
-- [[t_EditingAUIAction|Create a UI action]]
-- [[t_OverrideOrRmvAUIActionForExtTbl|Override a UI action for an extended table]]
-- [[form-administration|Administering forms on the ServiceNow AI Platform]]

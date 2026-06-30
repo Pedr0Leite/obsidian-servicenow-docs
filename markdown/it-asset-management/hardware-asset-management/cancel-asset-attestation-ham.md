@@ -22,11 +22,11 @@ Role required: asset or inventory\_admin
 
 ## About this task
 
-An [[asset-attestation-ham|asset attestation]] that's in the In progress state can only be canceled.
+An asset attestation that's in the In progress state can only be canceled.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Asset operations**.
+1.  Navigate to **Workspaces** &gt; **Hardware Asset Workspace** &gt; **Asset operations**.
 
 2.  From the **Attestation** list, select **Attestations**.
 
@@ -46,7 +46,3 @@ An [[asset-attestation-ham|asset attestation]] that's in the In progress state c
 
 **Parent Topic:**[Audit your hardware assets by using Asset Attestation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/audit-hardware-assets-attestation.md)
 
-## Related
-
-- [[asset-attestation-ham|Asset Attestation]]
-- [[using-ham-workspace|Hardware Asset Workspace]]

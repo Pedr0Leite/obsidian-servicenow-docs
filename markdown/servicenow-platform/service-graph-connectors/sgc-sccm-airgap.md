@@ -14,11 +14,11 @@ breadcrumb: [Microsoft SCCM, Service Graph Connectors, Integrating third-party d
 
 # Configuring air gap connections for Microsoft SCCM
 
-The [[cmdb-integration-sccm|Service Graph Connector for Microsoft SCCM]] supports an air gap solution for networks that are configured in a manner that doesn't support a MID agent.
+The Service Graph Connector for Microsoft SCCM supports an air gap solution for networks that are configured in a manner that doesn't support a MID agent.
 
-An air gap is a security measure that involves isolating a computer or network and preventing it from establishing an external connection. Air-gapped networks keep critical systems secure by isolating them from external connections to protect the systems from cyber threats. Air gap connections for the Service Graph Connector for Microsoft SCCM enable controlled data transfer for Microsoft SCCM instances that are deployed to a subnet that neither has internet access nor is reachable by a [[mid-server-landing|MID Server]] agent.
+An air gap is a security measure that involves isolating a computer or network and preventing it from establishing an external connection. Air-gapped networks keep critical systems secure by isolating them from external connections to protect the systems from cyber threats. Air gap connections for the Service Graph Connector for Microsoft SCCM enable controlled data transfer for Microsoft SCCM instances that are deployed to a subnet that neither has internet access nor is reachable by a MID Server agent.
 
-Air gap connections are available from version 3.7.0 of the Service Graph Connector for Microsoft SCCM. You can add either standard data sources or air gap data sources by using [[sgcc-landing|SGC Central]]. To access the SGC Central setup, see [Configure Service Graph Connector for Microsoft SCCM using SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgcc-configure-sccm-integ.md).
+Air gap connections are available from version 3.7.0 of the Service Graph Connector for Microsoft SCCM. You can add either standard data sources or air gap data sources by using SGC Central. To access the SGC Central setup, see [Configure Service Graph Connector for Microsoft SCCM using SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgcc-configure-sccm-integ.md).
 
 The air gap solution for the Service Graph Connector for Microsoft SCCM is presented in the architecture diagram.
 
@@ -32,8 +32,3 @@ Perform the following sequence of tasks to configure the air gap solution before
 4.  [Perform a test data load for the air gap solution for Microsoft SCCM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-sccm-airgap-test-load.md)
 5.  [Perform a full data load for the air gap solution for Microsoft SCCM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-sccm-airgap-data-load.md)
 
-## Related
-
-- [[cmdb-integration-sccm|Service Graph Connector for Microsoft SCCM]]
-- [[mid-server-landing|MID Server]]
-- [[sgcc-landing|SGC Central]]

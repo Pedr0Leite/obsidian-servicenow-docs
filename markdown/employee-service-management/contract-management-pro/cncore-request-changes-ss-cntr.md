@@ -40,7 +40,7 @@ Steps
 
 </th></tr></thead><tbody><tr><td id="d480474e78">
 
-**[[cncore-contract-workspace|Contract Workspace]] listing**
+**Contract Workspace listing**
 
 </td><td>
 
@@ -125,7 +125,7 @@ Submit a change request.
 3.  Describe the desired changes in the **Comments** box.
 4.  Select **Submit**.
 
-The change request is submitted for the contract document. The change request details and the attached document are added to the [[activity-lxp|activity]] stream.
+The change request is submitted for the contract document. The change request details and the attached document are added to the activity stream.
 
  -   When a contract request has been assigned to a contract fulfiller, its status updates to Changes requested and the Contract state remains in Work in progress.
 -   If a contract request isn’t assigned to anyone, its state changes to New and it is listed as unassigned in the contract workspace for a contract fulfiller to work on.
@@ -135,7 +135,3 @@ The change request is submitted for the contract document. The change request de
 </table>
 **Parent Topic:**[Reviewing and finalizing a self-serve contract document](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-review-finalize-contract.md)
 
-## Related
-
-- [[cncore-contract-workspace|Contract Workspace]]
-- [[activity-lxp|Activity]]

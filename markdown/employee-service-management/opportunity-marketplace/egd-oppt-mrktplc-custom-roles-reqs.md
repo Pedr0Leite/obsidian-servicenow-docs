@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[egd-oppt-mrktplc-landing|Opportunity Marketplace]]** &gt; **Opportunity type configuration**.
+1.  Navigate to **All** &gt; **Opportunity Marketplace** &gt; **Opportunity type configuration**.
 
 2.  Select an existing **Opportunity type**.
 
@@ -49,6 +49,3 @@ Role required: admin
 
 **Parent Topic:**[Creating custom opportunity types in Opportunity Marketplace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/opportunity-marketplace/egd-oppt-mrktplc-custom-oppt-type.md)
 
-## Related
-
-- [[egd-oppt-mrktplc-landing|Opportunity Marketplace]]

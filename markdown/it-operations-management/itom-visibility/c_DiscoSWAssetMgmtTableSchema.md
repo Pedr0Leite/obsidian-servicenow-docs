@@ -16,11 +16,11 @@ breadcrumb: [Software discovery, Data collected by ITOM Visibility, ITOM Visibil
 
 The table structure for managing software installations behaves differently when the Software Asset Management \(SAM\) application is activated.
 
-The presence of this application affects the way [[r-discovery|Discovery]] stores the software installation data it returns from a scan and require additional configuration within configuration item \(CI\) records.
+The presence of this application affects the way Discovery stores the software installation data it returns from a scan and require additional configuration within configuration item \(CI\) records.
 
 The following tables are created when the Software Asset Management plugin is activated:
 
--   [[c_Software|Software Discovery]] Model \[cmdb\_sam\_sw\_discovery\_model\]
+-   Software Discovery Model \[cmdb\_sam\_sw\_discovery\_model\]
 -   Software Model \[cmdb\_software\_product\_model\]
 -   Software Installation \[cmdb\_sam\_sw\_install\]
 
@@ -42,7 +42,3 @@ Configure computer configuration item \(CI\) forms to display data from the Soft
 
 **Parent Topic:**[Software discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_Software.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_Software|Software discovery]]

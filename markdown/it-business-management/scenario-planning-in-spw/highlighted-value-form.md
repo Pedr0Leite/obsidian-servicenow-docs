@@ -14,18 +14,13 @@ breadcrumb: [Form field information for Strategic Planning, Reference, Portfolio
 
 # Highlighted Value form
 
-Learn about the fields of the [[highlighted-value-form-portfolio-planning|Highlighted Value form]]. Use this form to customize the fields to be highlighted on the Prioritization page of a portfolio plan in [[alignment-planner-workspace-landing-page|Strategic Planning]] workspace.
+Learn about the fields of the Highlighted Value form. Use this form to customize the fields to be highlighted on the Prioritization page of a portfolio plan in Strategic Planning workspace.
 
 |Field|Description|
 |-----|-----------|
 |Table|Table which contains the highlighted columns. Enter **sn\_align\_core\_planning\_item**.|
-|Application|Scope of yourServiceNow instance. By default, this field is set to **[[portfolio-planning-app-landing-page|Portfolio Planning]]**.|
+|Application|Scope of yourServiceNow instance. By default, this field is set to **Portfolio Planning**.|
 |Field|Column of the table that is highlighted in the workspace.|
 
 **Parent Topic:**[Form field information for Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/form-field-information-for-strategic-planning.md)
 
-## Related
-
-- [[highlighted-value-form-portfolio-planning|Highlighted Value form]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

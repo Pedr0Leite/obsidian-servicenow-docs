@@ -89,17 +89,13 @@ Enter the minimum number of digits to use after the prefix \(default value is 7\
 </td></tr></tbody>
 </table>    When moving some applications these records may not be automatically included. Take care to ensure that all necessary records are present when moving applications.
 
-    **Note:** To change the default values for new number formats, change the **Default value** field on the [[c_SystemDictionary|system dictionary]] record for the **Number** or **Number of digits** field. These fields are on the Number table.
+    **Note:** To change the default values for new number formats, change the **Default value** field on the system dictionary record for the **Number** or **Number of digits** field. These fields are on the Number table.
 
 
-**Parent Topic:**[[c_ManagingRecordNumbering|Record numbering]]
+**Parent Topic:**[Record numbering](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ManagingRecordNumbering.md)
 
 **Related topics**  
 
 
 [System dictionary](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_SystemDictionary.md)
 
-## Related
-
-- [[c_ManagingRecordNumbering|Record numbering]]
-- [[c_SystemDictionary|System dictionary]]

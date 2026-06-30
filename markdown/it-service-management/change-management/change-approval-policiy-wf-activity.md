@@ -14,7 +14,7 @@ breadcrumb: [Creating change approval policies, Use, Change Management, IT Servi
 
 # Change Approval Policy workflow activity
 
-[[use-change-policy-wf-activity|Use the Change Approval Policy workflow activity]] to control the approval process for a change request by creating user and group approvals according to a change approval policy record. Multiple activities can be used in a workflow, where each activity can [[reference-for-itsm-mobile-agent|reference]] the same or different [[change-approval-policy|Change Approval Policies]].
+Use the Change Approval Policy workflow activity to control the approval process for a change request by creating user and group approvals according to a change approval policy record. Multiple activities can be used in a workflow, where each activity can reference the same or different Change Approval Policies.
 
 Using the current change request and additional inputs defined in the **Policy Input** script field in the activity, you can evaluate the Change Approval Policy record, which applies the approval definitions from matching decisions.
 
@@ -106,7 +106,7 @@ In this example, let us reference the Risk approvals activity in the **Change Re
 
 You can use this activity to access the risk of the change request of a normal change policy. When this activity runs, the associated decisions executes the approvals that needs to be requested.
 
-\[Omitted image "examplepolicyinput.png"\] Alt text: Example policy input script for [[c_RskAsmtCalc|risk assessment]]
+\[Omitted image "examplepolicyinput.png"\] Alt text: Example policy input script for risk assessment
 
 Use the **Policy Input** field to set up additional inputs. In the given example, the activity defines the manager\_approved property and performs the query to check if an approved record exists for the approved group's manager.
 
@@ -116,9 +116,3 @@ The **Finish condition** field is used to complete the activity by marking pendi
 
 **Parent Topic:**[Creating change approval policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/using-change-approval-policies-cf.md)
 
-## Related
-
-- [[use-change-policy-wf-activity|Use the Change Approval Policy workflow activity]]
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[change-approval-policy|Change approval policies]]
-- [[c_RskAsmtCalc|Risk assessment]]

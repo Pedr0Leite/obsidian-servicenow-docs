@@ -15,9 +15,9 @@ breadcrumb: [Using Accounts Payable Invoice Processing, Use, Accounts Payable Op
 
 # Invoice exceptions
 
-Invoice exceptions are discrepancies identified during invoice processing that must be resolved before payment, such as missing information, tax variances, or [[supplier|supplier]] issues.
+Invoice exceptions are discrepancies identified during invoice processing that must be resolved before payment, such as missing information, tax variances, or supplier issues.
 
-The [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] exception engine automatically identifies discrepancies in [[invoices|invoices]] and lists them as invoice exceptions in the [[purch-order-mgmt-ws|Source-to-Pay Workspace]] workspace. The Accounts Payable Specialist can analyze the identified invoice exceptions and take appropriate action to resolve them.
+The Accounts Payable Operations exception engine automatically identifies discrepancies in invoices and lists them as invoice exceptions in the Source-to-Pay Workspace workspace. The Accounts Payable Specialist can analyze the identified invoice exceptions and take appropriate action to resolve them.
 
 The Accounts Payable Operations exception engine is run for the PO invoices that are in either the PO matching completed or Exceptions found state.
 
@@ -48,8 +48,8 @@ Invalid or blocked supplier
 </td><td>
 
 This exception occurs in one of the following scenarios:-   The supplier information is missing on the invoice.
--   The supplier information on the invoice doesn’t match the information on the [[purchase-order-table|purchase order]] if invoice is of type PO.
--   The [[supplier-legal-entity-mapping|Supplier Legal Entity Mapping]] \(sn\_fin\_supplier\_detail\) table doesn’t have a record with a combination of Invoice.supplier and Invoice.legal\_entity fields
+-   The supplier information on the invoice doesn’t match the information on the purchase order if invoice is of type PO.
+-   The Supplier Legal Entity Mapping \(sn\_fin\_supplier\_detail\) table doesn’t have a record with a combination of Invoice.supplier and Invoice.legal\_entity fields
 -   In the Supplier Legal Entity Mapping \(sn\_fin\_supplier\_detail\) table, the supplier has one of the following attributes set to true:
     -   Hold Payment: Indicates that the invoice payment is put on hold for the supplier
     -   Hold Posting: Indicates that the invoice posting is put on hold for the supplier
@@ -60,7 +60,7 @@ This exception is a header-level exception.
 
 To resolve this invoice exception, do the following:-   If the supplier information is missing on the invoice, do the following:
     1.  Log in to the application with the Accounts Payable Specialist \(sn\_ap\_apm.accounts\_payable\_specialist\) role.
-    2.  Populate a valid supplier and [[legal-entity|legal entity]].
+    2.  Populate a valid supplier and legal entity.
 -   If the supplier information on the invoice doesn’t match with that on the purchase order, do the following:
     1.  Log in to the application with the Accounts Payable Specialist \(sn\_ap\_apm.accounts\_payable\_specialist\) role.
     2.  Update the supplier information on the invoice to match with that on the purchase order.
@@ -101,7 +101,7 @@ Insufficient Funds \(Line amount variance\)
 
 </td><td>
 
-This exception occurs when [[purchase-order-lines|purchase order lines]] don't have sufficient funds left to process the current invoice, which is in-process.This exception is a line-level exception.
+This exception occurs when purchase order lines don't have sufficient funds left to process the current invoice, which is in-process.This exception is a line-level exception.
 
 </td><td>
 
@@ -117,13 +117,13 @@ Insufficient Goods Receipt
 
 </td><td>
 
-This exception occurs when one or more lines of an invoice don’t have sufficient [[receipts|receipts]] to process the invoice.This exception is a line-level exception.
+This exception occurs when one or more lines of an invoice don’t have sufficient receipts to process the invoice.This exception is a line-level exception.
 
 </td><td>
 
 -   **Resolving the Insufficient Goods Receipt exception when PSM is installed**
 
-If [[psm-overview|Sourcing and Procurement Operations]] \(PSM\) is installed, and if no receipt task exists for the purchase order line, [[acc-pay-invoice-processing|Accounts Payable Invoice Processing]] creates a receipt task and displays the task in the **Related tasks** tab of the exception form. For more information, see [Invoice exception form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/exception-form-fields.md).
+If Sourcing and Procurement Operations \(PSM\) is installed, and if no receipt task exists for the purchase order line, Accounts Payable Invoice Processing creates a receipt task and displays the task in the **Related tasks** tab of the exception form. For more information, see [Invoice exception form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/exception-form-fields.md).
 
 The receipt task is assigned to the user specified in the **Recipient** field on the PO line. The recipient must have the sn\_shop.acknowledgement\_task\_owner role to complete the receipt task from Employee Center.
 
@@ -144,12 +144,12 @@ Valid coding required
 
 </td><td>
 
-This exception occurs when one or more lines of an invoice cost is distributed across multiple cost centers or general ledger accounts. When the cost is split across multiple cost centers, the [[cost-center|cost center]] field on the invoice line is read-only and allows one type of allocation type in the cost. This exception is a line-level exception and applies for general [[ledger-account|ledger account]].
+This exception occurs when one or more lines of an invoice cost is distributed across multiple cost centers or general ledger accounts. When the cost is split across multiple cost centers, the cost center field on the invoice line is read-only and allows one type of allocation type in the cost. This exception is a line-level exception and applies for general ledger account.
 
 </td><td>
 
 To resolve this invoice line exception, do the following:1.  Log in to the application with the Accounts Payable Specialist \(sn\_ap\_apm.accounts\_payable\_specialist\) role.
-2.  Populate the ledger account, enter the information for invoice lines or [[cost-allocations|cost allocations]]. For example: You can enter a ledger account in the invoice lines and add multiple cost allocations on the allocations page, or you can enter a cost center in the invoice lines and include several general ledger account allocations on the cost allocations page. You can also choose to enter general ledger and cost center both in the invoice line.
+2.  Populate the ledger account, enter the information for invoice lines or cost allocations. For example: You can enter a ledger account in the invoice lines and add multiple cost allocations on the allocations page, or you can enter a cost center in the invoice lines and include several general ledger account allocations on the cost allocations page. You can also choose to enter general ledger and cost center both in the invoice line.
 
 </td><td>
 
@@ -161,7 +161,7 @@ Missing required information
 
 </td><td>
 
-This exception occurs when one or more fields of the following are missing on the invoice:-   [[payment-terms|Payment terms]]
+This exception occurs when one or more fields of the following are missing on the invoice:-   Payment terms
 -   Invoice type
 -   Supplier
 -   Invoice amount
@@ -218,7 +218,7 @@ To resolve this invoice exception, do the following:1.  Log in to the applicatio
 
 </td><td>
 
-PO Invoice, Non-PO invoice, and [[invoice-type-credit-memo|Credit memo]]
+PO Invoice, Non-PO invoice, and Credit memo
 
 </td></tr><tr><td>
 
@@ -438,7 +438,7 @@ This exception occurs when tax line information is missing in an invoice. This i
 </td><td>
 
 To resolve this invoice exception, do the following:1.  Log in to the application with the Accounts Payable Specialist \(sn\_ap\_apm.accounts\_payable\_specialist\) role.
-2.  Add [[create-tax-lines-apo|tax lines]] details to the invoice using the **Add tax** button.
+2.  Add tax lines details to the invoice using the **Add tax** button.
 
 **Note:** The under tax amount variance and over tax amount variance are dependent on the Missing tax information exception.
 
@@ -492,7 +492,7 @@ This exception occurs when the sender's email address or domain cannot be recogn
 </td><td>
 
 To resolve this invoice exception, do the following: 1.  Log in to the application with the Accounts Payable Specialist \(sn\_ap\_apm.accounts\_payable\_specialist\) role.
-2.  Verify the exception, and add the sender as a new [[supplier-contact|supplier contact]] or reject the invoice.
+2.  Verify the exception, and add the sender as a new supplier contact or reject the invoice.
 
 </td><td>
 
@@ -525,7 +525,7 @@ View details about invoice lines to understand why a line-level invoice exceptio
 -   **[View related tasks for an Insufficient Goods Receipt invoice exception](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/view-psm-task-inv-exception.md)**  
 View purchase order tasks in Accounts Payable Operations to understand why an Insufficient Goods Receipt invoice exception has been raised.
 -   **[Create an invoice exception definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/define-new-invoice-exception.md)**  
-[[create-invoice|Create invoice]] exception definitions to flag PO, Non-PO, and credit memo invoices based on defined conditions.
+Create invoice exception definitions to flag PO, Non-PO, and credit memo invoices based on defined conditions.
 
 **Parent Topic:**[Using Accounts Payable Invoice Processing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/use-ap-invoice-processing.md)
 
@@ -546,24 +546,3 @@ View purchase order tasks in Accounts Payable Operations to understand why an In
 
 [View invoice documents in the Source-to-Pay Workspace]()
 
-## Related
-
-- [[supplier|Supplier]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[invoices|Invoices]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[purchase-order-table|Purchase order]]
-- [[supplier-legal-entity-mapping|Supplier Legal Entity Mapping]]
-- [[legal-entity|Legal entity]]
-- [[purchase-order-lines|Purchase order lines]]
-- [[receipts|Receipts]]
-- [[psm-overview|Sourcing and Procurement Operations]]
-- [[acc-pay-invoice-processing|Accounts Payable Invoice Processing]]
-- [[cost-center|Cost center]]
-- [[ledger-account|Ledger account]]
-- [[cost-allocations|Cost allocations]]
-- [[payment-terms|Payment terms]]
-- [[invoice-type-credit-memo|Credit memo]]
-- [[create-tax-lines-apo|Tax lines]]
-- [[supplier-contact|Supplier contact]]
-- [[create-invoice|create invoice]]

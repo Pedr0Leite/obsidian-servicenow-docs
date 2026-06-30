@@ -16,7 +16,7 @@ breadcrumb: [List of Discovery probes, Discovery probes and sensors, Using Disco
 
 The SNMP probes use the SNMP protocol to query a particular device for a list of OIDs, which are then traversed and the results passed back to the sensors. MID Servers support all SNMP protocol versions by default. You can set a MID Server to only support specific versions of SNMP.
 
-[[r-discovery|Discovery]] supports SNMP versions 1, 2c, and 3. The default value is ALL. If you select one of the versions, but don’t have that version’s credentials, the Use SNMP Version reverts back to ALL.
+Discovery supports SNMP versions 1, 2c, and 3. The default value is ALL. If you select one of the versions, but don’t have that version’s credentials, the Use SNMP Version reverts back to ALL.
 
 **Note:** SNMP version credentials must be active=true. If a particular version is inactive, it will also revert back to ALL. A message will appear similar to: `--- No SNMP credentials of type 'snmpv3' are active in this instance. Setting Use SNMP version back to All`.
 
@@ -33,6 +33,3 @@ A management information base module \(MIB\) is a database that is used to manag
 
 **Parent Topic:**[List of Discovery probes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_ListOfDiscoveryProbes.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

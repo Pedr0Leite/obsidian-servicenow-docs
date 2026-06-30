@@ -20,7 +20,7 @@ When performing selective upgrade of an agent in an instance, you can select mul
 
 Supported Operating Systems: Windows, Linux and macOS.
 
-[[acc-landing-page|Agent Client Collector]] installs need to access this URL: `https://install.service-now.com/`. MID connected agents can download the installer from the MID Server \(`https://<MID-WEBSERVER-URI:PORT>/static/acc_installers`\).
+Agent Client Collector installs need to access this URL: `https://install.service-now.com/`. MID connected agents can download the installer from the MID Server \(`https://<MID-WEBSERVER-URI:PORT>/static/acc_installers`\).
 
 Select the version to which you want to upgrade your agent.
 
@@ -62,6 +62,3 @@ You can select up to 50 agents at a time for upgrade. To upgrade large numbers o
 
 [Upgrade an agent in an instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/upgrade-agent-from-instance.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

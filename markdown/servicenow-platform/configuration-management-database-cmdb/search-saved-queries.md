@@ -14,7 +14,7 @@ breadcrumb: [CMDB Query Builder, Configuration Management Database \(CMDB\), Con
 
 # Search for a saved query
 
-The [[cmdb-query-builder-landing-page|CMDB Query Builder]] allows you to search for a specific saved query using any combination of search criteria such as the query's name, type, custom tags, and who created or updated the query.
+The CMDB Query Builder allows you to search for a specific saved query using any combination of search criteria such as the query's name, type, custom tags, and who created or updated the query.
 
 ## Before you begin
 
@@ -36,6 +36,4 @@ Role required: cmdb\_query\_builder
 
 4.  Refine the search by entering additional **Search Saved Queries** search strings as needed.
 
-## Related
 
-- [[cmdb-query-builder-landing-page|CMDB Query Builder]]

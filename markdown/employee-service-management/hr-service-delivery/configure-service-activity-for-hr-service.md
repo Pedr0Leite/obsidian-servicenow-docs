@@ -14,7 +14,7 @@ breadcrumb: [Configure an HR service, HR service configuration, HR services, HR 
 
 # Configure a service activity for an HR service
 
-If the fulfillment type of an HR service is set to **Service [[activity-lxp|Activity]]**, configure one or more service activities. Service activities can be approvals, tasks, or child [[hr-service-administration|HR services]].
+If the fulfillment type of an HR service is set to **Service Activity**, configure one or more service activities. Service activities can be approvals, tasks, or child HR services.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_hr\_core.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **HR Services** &gt; **[[hr-service-configuration|HR Service Configuration]]**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **HR Services** &gt; **HR Service Configuration**.
 
 2.  Filter cases by **Fulfillment type**.
 
@@ -55,9 +55,3 @@ Configure a service activity that is a child HR service.
 
 **Parent Topic:**[Configure an HR service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-hr-service.md)
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[hr-service-administration|HR services]]
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[hr-service-configuration|HR service configuration]]

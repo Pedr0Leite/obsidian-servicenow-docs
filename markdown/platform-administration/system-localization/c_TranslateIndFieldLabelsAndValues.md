@@ -24,7 +24,7 @@ Three types of fields support translated strings for fields and related list nam
 
 -   **Translated\_field**
 
-    Stores field labels, related list names, and certain field values. The value of the translated\_field replaces the label, list name, or field value when the user selects the matching language. Translated\_field values have a one-to-many relationship with their associated keys. As a result, multiple records can [[reference-email-admin|reference]] one translated\_field value. For more information, see the following topics:
+    Stores field labels, related list names, and certain field values. The value of the translated\_field replaces the label, list name, or field value when the user selects the matching language. Translated\_field values have a one-to-many relationship with their associated keys. As a result, multiple records can reference one translated\_field value. For more information, see the following topics:
 
     -   [Translate a field label](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/t_TranslateAFieldLabel.md)
     -   [Translate a related list name](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/t_TranslateARelatedListName.md)
@@ -44,6 +44,3 @@ The translated values are stored as separate records and display the proper valu
 
 Informational messages, confirmation messages, error messages, and other types of system messages across the platform can be translated. Messages that support translation come from HTML in a UI page in a customer-created application or Service Portal widget messages when these texts are wrapped correctly. When a client script contains a getMessage call or a server script contains a `gs.getMessage` call, the system checks the Messages \[sys\_ui\_message\] table for a translation. Fore more information, see [Translate a client script message](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/t_TranslateAClientScriptMessage.md).
 
-## Related
-
-- [[reference-email-admin|Reference]]

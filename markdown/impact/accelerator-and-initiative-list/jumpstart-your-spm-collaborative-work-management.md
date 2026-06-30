@@ -18,7 +18,7 @@ This accelerator provides a demonstration of the possibilities and capabilities 
 
 ## Accelerator Overview
 
-Jumpstart Your SPM - Collaboration Work Management \(CWM\) provides [[impact-landing-page|Impact]] customers with a comprehensive overview of the possibilities and capabilities of CWM. Our goal is to demonstrate how customers can set up and utilize CWM to plan, manage, visualize, and collaborate on work with their teams. Additionally, this accelerator offers key resources and leading practice guides on getting started.
+Jumpstart Your SPM - Collaboration Work Management \(CWM\) provides Impact customers with a comprehensive overview of the possibilities and capabilities of CWM. Our goal is to demonstrate how customers can set up and utilize CWM to plan, manage, visualize, and collaborate on work with their teams. Additionally, this accelerator offers key resources and leading practice guides on getting started.
 
 ## Package Availability
 
@@ -55,6 +55,3 @@ Jumpstart Your SPM - Collaboration Work Management \(CWM\) provides [[impact-lan
 
 Additional details on supplemental legal terms, prerequisites, specifications, requirements, and exclusions can be found by selecting the Impact [Accelerator Terms Matrix](https://www.servicenow.com/legal/servicenow-impact.html).
 
-## Related
-
-- [[impact-landing-page|Impact]]

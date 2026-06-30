@@ -14,7 +14,7 @@ breadcrumb: [Reference, HR Service Delivery Integration with Cornerstone OnDeman
 
 # Transform maps for HR Service Delivery Integration with Cornerstone OnDemand
 
-By default, when [[hr-cornerstone-int|HR Service Delivery Integration with Cornerstone OnDemand]] is set up, the CSOD user mapping transform and CSOD [[exploring-learning-exp|learning]] object mappings transformation maps are automatically available for HR Service Delivery Integration with Cornerstone OnDemand. These [[transform-maps-navex|transform maps]] specify data relationships between source table and target table.
+By default, when HR Service Delivery Integration with Cornerstone OnDemand is set up, the CSOD user mapping transform and CSOD learning object mappings transformation maps are automatically available for HR Service Delivery Integration with Cornerstone OnDemand. These transform maps specify data relationships between source table and target table.
 
 |Name|Description|
 |----|-----------|
@@ -27,7 +27,7 @@ By default, when [[hr-cornerstone-int|HR Service Delivery Integration with Corne
 **Related topics**  
 
 
-[Components installed with [[hr-service-delivery|HR Service Delivery]] Integration with Cornerstone OnDemand]()
+[Components installed with HR Service Delivery Integration with Cornerstone OnDemand]()
 
 [Source for HR Service Delivery Integration with Cornerstone OnDemand]()
 
@@ -39,9 +39,3 @@ By default, when [[hr-cornerstone-int|HR Service Delivery Integration with Corne
 
 [Status mapping in Cornerstone OnDemand System]()
 
-## Related
-
-- [[hr-cornerstone-int|HR Service Delivery Integration with Cornerstone OnDemand]]
-- [[exploring-learning-exp|Learning]]
-- [[transform-maps-navex|Transform maps]]
-- [[hr-service-delivery|HR Service Delivery]]

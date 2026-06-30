@@ -15,7 +15,7 @@ breadcrumb: [Set up integrations from Integrations Launchpad, Set up HLA on your
 
 # Set up a Splunk TCP integration for Health Log Analytics
 
-Set up an integration to stream log messages to your ServiceNow instance over the TCP transport protocol using a Splunk heavy forwarder. [[hla-landing-page|Health Log Analytics]] processes the ingested log data.
+Set up an integration to stream log messages to your ServiceNow instance over the TCP transport protocol using a Splunk heavy forwarder. Health Log Analytics processes the ingested log data.
 
 ## Before you begin
 
@@ -41,7 +41,7 @@ Role required: evt\_mgmt\_admin
 
 ## About this task
 
-Set up an integration from the Integrations Launchpad in [[workspace-dashboard-use|Service Operations Workspace]], which you access from the [[itom-aiops-conf-center|ITOM AIOps configuration center]]. The AIOps configuration center is a centralized workspace for configuring and managing AIOps features from a single place. The integrations setup process reduces implementation time compared to manual data input setup in the classic interface in Health Log Analytics. For more information, see [Integrations Launchpad in Service Operations Workspace for ITOM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/integrations-launchpad.md).
+Set up an integration from the Integrations Launchpad in Service Operations Workspace, which you access from the ITOM AIOps configuration center. The AIOps configuration center is a centralized workspace for configuring and managing AIOps features from a single place. The integrations setup process reduces implementation time compared to manual data input setup in the classic interface in Health Log Analytics. For more information, see [Integrations Launchpad in Service Operations Workspace for ITOM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/integrations-launchpad.md).
 
 ## Procedure
 
@@ -98,8 +98,3 @@ On the **Overview** tab, do the following:
 
 **Parent Topic:**[Set up Health Log Analytics on your ServiceNow instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-implement.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[itom-aiops-conf-center|ITOM AIOps configuration center]]

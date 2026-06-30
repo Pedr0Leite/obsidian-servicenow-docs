@@ -28,18 +28,12 @@ The flow of mandatory steps in the checklist are as follows:
 10. Create disclosures
 11. Integrate with other apps such as Watershed, PPM, and Urjanet \(optional\)
 
--   **[[install-esg|Install Operational Sustainability Management \(formerly ESG Management\)]]**  
+-   **[Install Operational Sustainability Management \(formerly ESG Management\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/install-esg.md)**  
 You can install the Operational Sustainability Management application \(sn\_esg\) if you have the sys\_admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
--   **[[complete-the-entitlements-for-esg-management|Complete the entitlements for Operational Sustainability Management \(formerly ESG Management\)]]**  
+-   **[Complete the entitlements for Operational Sustainability Management \(formerly ESG Management\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/complete-the-entitlements-for-esg-management.md)**  
 After you install the Operational Sustainability Management application from the ServiceNow® Store, you must complete the entitlements to gain complete access to the application and use it.
--   **[[setup-checklist-esg|Setup checklist for the Operational Sustainability Management \(formerly ESG Management\) application]]**  
+-   **[Setup checklist for the Operational Sustainability Management \(formerly ESG Management\) application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/setup-checklist-esg.md)**  
 This checklist includes the set up tasks that you're required to complete in your ServiceNow AI Platform® instance. When you have completed these tasks, the base system is ready for operation.
 
-**Parent Topic:**[[configuring-esg|Configure Operational Sustainability Management \(formerly ESG Management\)]]
+**Parent Topic:**[Configure Operational Sustainability Management \(formerly ESG Management\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/configuring-esg.md)
 
-## Related
-
-- [[install-esg|Install Operational Sustainability Management \(formerly ESG Management\)]]
-- [[complete-the-entitlements-for-esg-management|Complete the entitlements for Operational Sustainability Management \(formerly ESG Management\)]]
-- [[setup-checklist-esg|Setup checklist for the Operational Sustainability Management \(formerly ESG Management\) application]]
-- [[configuring-esg|Configure Operational Sustainability Management \(formerly ESG Management\)]]

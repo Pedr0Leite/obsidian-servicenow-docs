@@ -14,7 +14,7 @@ breadcrumb: [Agent Client Collector Monitoring, Agent Client Collector, IT Opera
 
 # Configuring Agent Client Collector Monitoring
 
-Plan and configure your [[acc-monitoring-landing-page|Agent Client Collector Monitoring]] implementation.
+Plan and configure your Agent Client Collector Monitoring implementation.
 
 To configure Agent Client Collector Monitoring, follow these steps:
 
@@ -31,6 +31,3 @@ Depending on the checks and metrics you want to monitor, perform the following a
 3.  [Select the Azure policies to activate for metric collection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/select-policies-azure.md).
 4.  [Create Azure policies for metric collection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/create-policies-azure.md).
 
-## Related
-
-- [[acc-monitoring-landing-page|Agent Client Collector Monitoring]]

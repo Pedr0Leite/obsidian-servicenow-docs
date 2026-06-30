@@ -14,7 +14,7 @@ breadcrumb: [Configuring SPM Benchmarks, SPM Benchmarks, Strategic Portfolio Man
 
 # Install SPM Benchmarks
 
-As an admin, you can install the [[benchmarks-for-spm|SPM Benchmarks]] application \(sn\_spm\_bm\) from the ServiceNow® Store.The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+As an admin, you can install the SPM Benchmarks application \(sn\_spm\_bm\) from the ServiceNow® Store.The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -53,6 +53,3 @@ For more information, see [Components installed with SPM Benchmarking](https://r
 
 **Parent Topic:**[Configuring SPM Benchmarks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/benchmarks-for-strategic-portfolio-management/configuring-benchmarks.md)
 
-## Related
-
-- [[benchmarks-for-spm|SPM Benchmarks]]

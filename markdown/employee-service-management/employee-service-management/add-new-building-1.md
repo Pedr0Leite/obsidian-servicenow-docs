@@ -24,7 +24,7 @@ Add details of your building. If your organization has several offices located a
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-safety-mgmt-hr|Workplace Core]]** &gt; **Space Administration**.
+1.  Navigate to **All** &gt; **Workplace Core** &gt; **Space Administration**.
 
 2.  Select **Buildings**.
 
@@ -180,7 +180,7 @@ Latitude
 
 </td><td>
 
-Latitude of a campus or a building. The latitude is displayed in the [[workplace-services-portal-hr|Workplace Service Portal]] Location directory map.
+Latitude of a campus or a building. The latitude is displayed in the Workplace Service Portal Location directory map.
 
 </td></tr><tr><td>
 
@@ -237,7 +237,7 @@ Enable employee location privacy and preference
 </td><td>
 
 Option to set location privacy preference for the building. Note the following:-   Set this option only if you want to have a different location privacy setup for the building.
--   By default, the location privacy preference that is set in the [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] system property **sn\_wsd\_core.ENABLE\_LOCATION\_PRIVACY** is considered.
+-   By default, the location privacy preference that is set in the Workplace Reservation Management system property **sn\_wsd\_core.ENABLE\_LOCATION\_PRIVACY** is considered.
 -   The field is set to **None** by default.
 -   You can specify if you want to set privacy on workplace profiles, or reservations, or on both.
 -   You can also select **No privacy** if you don't want any privacy for the building.
@@ -253,7 +253,7 @@ Allow employees to override location privacy on reservations
 Enables you to let employees override the location privacy while reserving spaces that belong to this building. The field is set to **None** by default. For more information, refer to [Location privacy settings and impact](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/location-privacy-settings-and-impact.md).
 
 </td></tr></tbody>
-</table>6.  Select **Unlink Building** to unlink a building from [[Indoor-mapping|Indoor Mapping]] map provider.
+</table>6.  Select **Unlink Building** to unlink a building from Indoor Mapping map provider.
 
     For more information about how to link and synchronize Indoor Mapping map data objects with Workplace Indoor Mapping see, [Synchronize Indoor Mapping with Workplace Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/synchronize-ind-mapping-wsd.md).
 
@@ -299,7 +299,7 @@ The building is added to the selected region, site, and campus.
 
 [Create a Space Recommender rule]()
 
-[Raise a [[space-assistance|space assistance]] request]()
+[Raise a space assistance request]()
 
 [Create a view-by configuration]()
 
@@ -307,10 +307,3 @@ The building is added to the selected region, site, and campus.
 
 [Reviewing allocation changes]()
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-services-portal-hr|Workplace Service Portal]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[Indoor-mapping|Indoor Mapping]]
-- [[space-assistance|Space assistance]]

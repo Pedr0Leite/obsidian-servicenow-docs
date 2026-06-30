@@ -15,7 +15,7 @@ breadcrumb: [Getting started with Virtual Agent Designer, Build and deploy, Virt
 
 # Designing a Virtual Agent topic
 
-Walk through the design of an example [[virtual-agent-landing-page|Virtual Agent]] topic that enables users to view incidents they submitted. The example highlights various design controls that can be used to build the conversation flow.
+Walk through the design of an example Virtual Agent topic that enables users to view incidents they submitted. The example highlights various design controls that can be used to build the conversation flow.
 
 Using Virtual Agent tools and features, you can develop conversations that address many issues that can be resolved without human intervention. Once you become familiar with the product and its capabilities, your creativity is one of the most important tools for developing conversations.
 
@@ -75,7 +75,7 @@ Use Virtual Agent Designer controls and reusable conversational elements to crea
 
 -   **Have knowledge in the following areas \(what to know before you begin\)**
     -   General knowledge of the ServiceNow platform and application table structures.
-    -   If you're using LLM, an understanding of how large language models and [[llm-assistants|LLM assistants]] work.
+    -   If you're using LLM, an understanding of how large language models and LLM assistants work.
     -   If you're using NLU, an understanding of how intents, entities, and utterances are used in your NLU models.
     -   If you're using scripts in conversation design, an understanding of HTML, JavaScript, and REST integrations.
 
@@ -168,7 +168,3 @@ Use the **Test** button to test the flow of the conversation. Preview topics oft
 
 **Parent Topic:**[Getting started with Virtual Agent Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/conversation-designer-virtual-agent.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[llm-assistants|LLM assistants]]

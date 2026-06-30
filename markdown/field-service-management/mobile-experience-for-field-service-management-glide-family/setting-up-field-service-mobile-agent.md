@@ -16,7 +16,7 @@ breadcrumb: [Configure, Field Service Management]
 
 Setting up the Field Service mobile application involves configuring the Mobile Agent application, customizing UI actions, and other functionalities to enable task management from your phone or other mobile device.
 
-The [[fsm-application-landing-page|Field Service Management]] application includes the Field Service Mobile plugin \(com.sn\_fsm\_mobile\) by default. This plugin enables the Field Service mobile application's functionality within your Field Service Management application.
+The Field Service Management application includes the Field Service Mobile plugin \(com.sn\_fsm\_mobile\) by default. This plugin enables the Field Service mobile application's functionality within your Field Service Management application.
 
 **Note:** The mobile plugin must be installed.
 
@@ -27,7 +27,7 @@ You can configure the following functionalities within this mobile application t
 -   Utilize the task briefing feature using the virtual agent capability. This enables agents to receive briefings and instructions for their tasks directly through the mobile application, ensuring they have all the necessary information to complete their assignments effectively.
 -   Implement indoor way finding functionality within the mobile application. This enables agents to navigate complex indoor environments more easily, improving their efficiency and reducing response times.
 
-If you have the wm\_manager, sn\_fsm\_tp.fsm\_territory\_resource\_manager role, and [[manager-mobile-app|Field Service Manager Mobile]] is activated, when you sign into the Mobile Agent you see Field Service Manager Mobile.
+If you have the wm\_manager, sn\_fsm\_tp.fsm\_territory\_resource\_manager role, and Field Service Manager Mobile is activated, when you sign into the Mobile Agent you see Field Service Manager Mobile.
 
 ## Configuration overview
 
@@ -39,11 +39,11 @@ The steps for setting up Field Service Mobile Agent are:
 
 2.  [Field Service Contractor for mobile feature of the Now Mobile Agent application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/mobile-experience-for-field-service-management-glide-family/field-service-contractor-portal-mobile.md)
 
-    The [[wot-fsc|Field Service Contractor for mobile]] feature of the ServiceNow Agent application enables contractors to [[manage-work-order-tasks-dw|manage work order tasks]].
+    The Field Service Contractor for mobile feature of the ServiceNow Agent application enables contractors to manage work order tasks.
 
 3.  [Configuring Field Service Virtual Agent Conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/mobile-experience-for-field-service-management-glide-family/fsm-va-conversation.md)
 
-    ServiceNow® [[virtual-agent-fsm|Virtual Agent for Field Service Management]] enables field service agents to get quick answers to their work-related queries by interacting with a virtual agent through the Now Agent mobile application.
+    ServiceNow® Virtual Agent for Field Service Management enables field service agents to get quick answers to their work-related queries by interacting with a virtual agent through the Now Agent mobile application.
 
 4.  [Configuring Site Mapping for Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/mobile-experience-for-field-service-management-glide-family/configuring-sitemap-fsm.md)
 
@@ -59,17 +59,10 @@ The steps for setting up Field Service Mobile Agent are:
 
 7.  [Activate Field Service Manager Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/mobile-experience-for-field-service-management-glide-family/activate-manager-mobile.md)
 
-    [[activate-manager-mobile|Activate Field Service Manager Mobile]] so users with the wm\_manager, sn\_fsm\_tp.fsm\_territory\_resource\_manager can access the app.
+    Activate Field Service Manager Mobile so users with the wm\_manager, sn\_fsm\_tp.fsm\_territory\_resource\_manager can access the app.
 
 8.  [Change Field Service Manager Mobile to use assignment groups or territories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/mobile-experience-for-field-service-management-glide-family/change-manager-territory.md)
 
     Change the Field Service Manager Mobile app to use territories instead of the default assignment groups.
 
-## Related
 
-- [[fsm-application-landing-page|Field Service Management]]
-- [[manager-mobile-app|Field Service Manager Mobile]]
-- [[wot-fsc|Field Service Contractor for mobile]]
-- [[manage-work-order-tasks-dw|Manage work order tasks]]
-- [[virtual-agent-fsm|Virtual Agent for Field Service Management]]
-- [[activate-manager-mobile|Activate Field Service Manager Mobile]]

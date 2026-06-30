@@ -27,8 +27,8 @@ You determine whether the scheduling process must run again based on the values 
 
 ## Scheduling Methods Included
 
--   [[schedule-optimization|Schedule Optimization]]
--   [[dynamic-scheduling|Dynamic Scheduling]]
+-   Schedule Optimization
+-   Dynamic Scheduling
 -   Manual Scheduling
 -   Intelligent Task Recommendations
 -   Route Optimization
@@ -51,10 +51,5 @@ While a WOT is being optimized or scheduled, users receive warning messages whil
 -   Agent shift: The shift during which the agent is available.
 -   Agent skills: The skills possessed by the agent.
 -   Agent skill levels: The proficiency levels of the agent's skills.
--   [[c_AgentLocation|Agent location]]: The physical location of the agent.
+-   Agent location: The physical location of the agent.
 
-## Related
-
-- [[schedule-optimization|Schedule Optimization]]
-- [[dynamic-scheduling|Dynamic scheduling]]
-- [[c_AgentLocation|Agent location]]

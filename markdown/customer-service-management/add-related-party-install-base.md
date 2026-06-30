@@ -12,7 +12,7 @@ breadcrumb: [Using customer access management, Customer management, Use, Custome
 
 # Add related parties to an install base item
 
-Add related parties to an install base item in the [[c_CustomerServiceManagement|Customer Service Management]] application so that you can enable another party to have access to an install base.
+Add related parties to an install base item in the Customer Service Management application so that you can enable another party to have access to an install base.
 
 ## Before you begin
 
@@ -20,13 +20,13 @@ Role required: admin and sn\_customerservice\_manager
 
 ## About this task
 
-An install base-related party is a list of contacts, consumers, contributors, service organization members, accounts, or service organizations. You add a related party to enable access to another party that isn't the owner of the install base. Related parties associated with an install base can access it and its related entities, including [[installed-products|installed products]], [[sold-product|sold products]], and associated cases.
+An install base-related party is a list of contacts, consumers, contributors, service organization members, accounts, or service organizations. You add a related party to enable access to another party that isn't the owner of the install base. Related parties associated with an install base can access it and its related entities, including installed products, sold products, and associated cases.
 
-**Note:** You can enable additional contacts by using the **Restrict Contact Access** field. For details, see [[manage-account-access-cam|Restrict contact access]].
+**Note:** You can enable additional contacts by using the **Restrict Contact Access** field. For details, see [Restrict contact access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/manage-account-access-cam.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Customer Service** &gt; **Products** &gt; **[[install-base-item|Install Base Items]]**.
+1.  Navigate to **All** &gt; **Customer Service** &gt; **Products** &gt; **Install Base Items**.
 
 2.  Open an install base item from the list.
 
@@ -51,7 +51,7 @@ An install base-related party is a list of contacts, consumers, contributors, se
     |Listed Member| |Not applicable|
     |Listed Service Organization| |Not applicable|
 
-    **Note:** The **Responsibility** field on the Install Base-Related Parties form is automatically populated based on the type of related party that is selected. For information on the type of related parties, see [[adding-related-party-config-to-case|Create related party configurations]].
+    **Note:** The **Responsibility** field on the Install Base-Related Parties form is automatically populated based on the type of related party that is selected. For information on the type of related parties, see [Create related party configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/adding-related-party-config-to-case.md).
 
 5.  To use the **Order** field to specify the sequence in which records are displayed, organized according to business preferences.
 
@@ -62,11 +62,3 @@ An install base-related party is a list of contacts, consumers, contributors, se
 
 The contact is assigned as a related party to the Install base item. The contact gets access to all the corresponding items, such as the child install base items and the cases on the install base item form.
 
-## Related
-
-- [[manage-account-access-cam|Restrict contact access]]
-- [[adding-related-party-config-to-case|Create related party configurations]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[installed-products|Installed products]]
-- [[sold-product|Sold products]]
-- [[install-base-item|Install base items]]

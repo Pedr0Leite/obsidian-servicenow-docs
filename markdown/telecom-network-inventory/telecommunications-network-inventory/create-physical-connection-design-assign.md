@@ -14,7 +14,7 @@ breadcrumb: [Using Design &amp; Assign Network, Use, Telecommunications Network 
 
 # Create physical connection using design and assign
 
-Create an physical connection record using the [[using-playbooks-design-assign-inventory-record|design and assign function]] in the [[telecom-network-inventory|Telecommunications Network Inventory]] application. By creating the physical connection and its related inventory records, you can fulfill an order request for an equipment record.
+Create an physical connection record using the design and assign function in the Telecommunications Network Inventory application. By creating the physical connection and its related inventory records, you can fulfill an order request for an equipment record.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ When you create a physical connection, it creates the corresponding configuratio
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon\), and then go to **Changes** &gt; **All**.
 
@@ -57,8 +57,3 @@ When you create a physical connection, it creates the corresponding configuratio
 
 **Parent Topic:**[Instantiating your network inventory by using design and assign](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/instantiate-asset-using-template-relationship-model.md)
 
-## Related
-
-- [[using-playbooks-design-assign-inventory-record|Design and Assign function]]
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]

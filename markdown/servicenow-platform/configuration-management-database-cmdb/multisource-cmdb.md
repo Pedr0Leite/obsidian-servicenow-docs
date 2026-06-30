@@ -14,7 +14,7 @@ breadcrumb: [Configuration Management Database \(CMDB\), Configuration Managemen
 
 # CMDB 360
 
-CMDB 360 retains complete history about discovery sources and proposed values, involved in updates of CI attributes. Use CMDB 360 data to track how the CMDB is populated by various discovery sources at the CI attribute level. Also, to revert CI updates from a specific discovery source, or to recompute attribute values using updated [[r_ReconciliationRulesPrinciples|reconciliation rules]].
+CMDB 360 retains complete history about discovery sources and proposed values, involved in updates of CI attributes. Use CMDB 360 data to track how the CMDB is populated by various discovery sources at the CI attribute level. Also, to revert CI updates from a specific discovery source, or to recompute attribute values using updated reconciliation rules.
 
 CMDB 360 provides all the functionality of the legacy Multisource CMDB feature with additional capabilities such as an analytics dashboard, and new query functionality. You can access all of the CMDB 360 capabilities in the [CMDB 360 view in CMDB Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb360-exp-cmdb-workspace.md)or in the [CMDB 360 insights dashboard in Service Graph Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/sg-workspace-insights-cmdb360.md).
 
@@ -40,9 +40,9 @@ Use CMDB 360 to:
 -   Control CI updates at the discovery source and CI attribute level.
 -   Visualize discovery sources of attribute values, at the attribute level.
 -   Modify reconciliation rules and then recompute CMDB data, reflecting the updated reconciliation rules.
--   Revert CMDB data integration from a specific discovery source, if, for example, you realize that the discovery source is not reliable. [[recompute-attribute-values|Recompute CI attribute values]], while excluding the discovery source that you want to ignore.
+-   Revert CMDB data integration from a specific discovery source, if, for example, you realize that the discovery source is not reliable. Recompute CI attribute values, while excluding the discovery source that you want to ignore.
 -   Validate a new discovery source by comparing its data to data from other discovery sources, which are known to be valid.
--   Improve data management, data quality, and operational insights, by querying on CMDB 360 data. Use the CMDB 360 query builder in CMDB Workspaceor in [[sg-workspace|Service Graph Workspace]] to create queries for CMDB 360 records, discovery sources, and CI records.
+-   Improve data management, data quality, and operational insights, by querying on CMDB 360 data. Use the CMDB 360 query builder in CMDB Workspaceor in Service Graph Workspace to create queries for CMDB 360 records, discovery sources, and CI records.
 
 ## Enable and configure CMDB 360
 
@@ -69,16 +69,10 @@ Use the [CMDB 360 view in CMDB Workspace](https://raw.githubusercontent.com/Serv
 
 CMDB 360 is highly verbose in the user interface:
 
--   On the [Reconcliation Rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/create-reconciliation-rule.md) page in [[ci-class-manager-landing-page|CI Class Manager]], click the **Preview Data** tab to see per attribute, discovery sources that are authorized to update that attribute, in precedence order.
+-   On the [Reconcliation Rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/create-reconciliation-rule.md) page in CI Class Manager, click the **Preview Data** tab to see per attribute, discovery sources that are authorized to update that attribute, in precedence order.
 -   On a CI form, click the **CMDB 360 Data Preview** related link to see per CI attribute, current value in the CMDB and incoming values from other discovery sources.
 
 ## Logging
 
 Enable logging for CMDB 360 by adding and enabling the system property ​ [glide.cmdb.logger.source.cmdb\_multisource](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/components-multisource-cmdb.md). In the Log \[syslog\] table, search for entries in which `source=“cmdb_multisource”`.
 
-## Related
-
-- [[r_ReconciliationRulesPrinciples|Reconciliation rules]]
-- [[recompute-attribute-values|Recompute CI attribute values]]
-- [[sg-workspace|Service Graph Workspace]]
-- [[ci-class-manager-landing-page|CI Class Manager]]

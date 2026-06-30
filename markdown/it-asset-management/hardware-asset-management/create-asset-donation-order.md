@@ -14,7 +14,7 @@ breadcrumb: [Donate assets to charity organizations, Use, Hardware Asset Managem
 
 # Create an Asset Donation Order
 
-Create a service catalog request to donate the in-stock hardware and [[c_ReceiveAConsumableAsset|consumable assets]] in your organization to charity organizations.
+Create a service catalog request to donate the in-stock hardware and consumable assets in your organization to charity organizations.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: none
 
     **Note:** You require admin role to add a category to the Service Catalog.
 
-2.  On the Asset Lifecycle page, select **[[asset-donation|Asset Donation]] Order**.
+2.  On the Asset Lifecycle page, select **Asset Donation Order**.
 
 3.  On the form, fill in the fields.
 
@@ -75,7 +75,3 @@ Name and quantity of the assets that you want to donate. For example, `Request t
 
 [Add a charity organization for donating assets]()
 
-## Related
-
-- [[c_ReceiveAConsumableAsset|Consumable assets]]
-- [[asset-donation|Asset donation]]

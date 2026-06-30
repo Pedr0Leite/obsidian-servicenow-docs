@@ -14,7 +14,7 @@ breadcrumb: [Configure dosage specifications, Configure, Healthcare and Life Sci
 
 # Configure a characteristic for a dosage specification
 
-Configure a characteristic for a dosage so that you can define the dosages for a medication product in [[hcls-overview|Healthcare and Life Sciences]] workflows.
+Configure a characteristic for a dosage so that you can define the dosages for a medication product in Healthcare and Life Sciences workflows.
 
 ## Before you begin
 
@@ -54,6 +54,4 @@ Role required: sn.hcls\_admin or admin
 
 7.  To associate a characteristic with a dosage specification, add the characteristic to a characteristic group included in the Dosage characteristic group.
 
-## Related
 
-- [[hcls-overview|Healthcare and Life Sciences]]

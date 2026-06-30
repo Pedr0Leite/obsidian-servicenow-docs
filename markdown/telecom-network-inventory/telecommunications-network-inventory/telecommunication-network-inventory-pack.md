@@ -14,7 +14,7 @@ breadcrumb: [Explore, Telecommunications Network Inventory]
 
 # Attribute packs
 
-Use an attribute pack to capture the attributes that you define against a set of records in a configuration item \(CI\) in the [[telecom-network-inventory|Telecommunications Network Inventory]] application. You can capture the additional information about the network asset in the inventory form that belongs to the CI.
+Use an attribute pack to capture the attributes that you define against a set of records in a configuration item \(CI\) in the Telecommunications Network Inventory application. You can capture the additional information about the network asset in the inventory form that belongs to the CI.
 
 ## Introduction to attribute packs
 
@@ -35,6 +35,3 @@ To use an attribute pack in an inventory form, you, as the administrator, must p
 
 After you create and configure a pack table, you can use it in a CI record. To learn more, see [Attribute pack for CI records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/using-pack-table-ci-record.md).
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]

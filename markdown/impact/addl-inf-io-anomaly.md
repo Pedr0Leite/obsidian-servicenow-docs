@@ -18,7 +18,7 @@ The reference topic gives additional information for anomaly charts.
 ## Additional information for anomaly
 
 -   In Anomaly charts, the x axis represents time series and the y-axis represents the actual metrics per date range you select. Anomalies are denoted by red color code on the chart. Each red point represents the occurrence of an anomaly in the data. The specific placement of the red mark depend on the criteria or algorithm used to detect anomalies.
--   In case of node level [[instance-observer-performance|performance]] chart \(like semaphore and node memory\), you must select the common grain for x axis \(1 minute roll up\) if you must tally the data between default and anomaly tab. Performance chart is represented at the node level, however, anomalies are aggregated at an instance level.
+-   In case of node level performance chart \(like semaphore and node memory\), you must select the common grain for x axis \(1 minute roll up\) if you must tally the data between default and anomaly tab. Performance chart is represented at the node level, however, anomalies are aggregated at an instance level.
 -   The anomalous points are selectable for semaphore and Node Memory max metrics in Anomaly chart that will be enabled with node metadata beyond the normal range. You must select **View detail** for the same. This Information will not reflect for non-anomalous points. In case of 10-min grain data, the anomaly is calculated based on 15-min average data point. Therefore, this will list all nodes beyond the range in the last 15 minutes.
 
 ## Aggregation level of each metric
@@ -345,14 +345,14 @@ Max
     -   Default chart metric values will not match with anomaly chart metric values for node-level metrics, because the default chart aggregates at the node level whereas the anomaly chart aggregates at the instance level. Note that the aggregation type \(Max\) remains the same across both charts for these metrics.
     -   Anomaly chart data is available for a maximum of 28 days from the current date.
 
-**Parent Topic:**[[instance-observer-ovr-metric|Overview of Instance Observer metrics]]
+**Parent Topic:**[Overview of Instance Observer metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/instance-observer-ovr-metric.md)
 
 **Related topics**  
 
 
 [Instance Observer reports overview]()
 
-[Feature [[io-availability|availability]] based on package]()
+[Feature availability based on package]()
 
 [Auriga Intelligent Alert report]()
 
@@ -390,8 +390,3 @@ Max
 
 [Instance Data Replication]()
 
-## Related
-
-- [[instance-observer-ovr-metric|Overview of Instance Observer metrics]]
-- [[instance-observer-performance|Performance]]
-- [[io-availability|Availability]]

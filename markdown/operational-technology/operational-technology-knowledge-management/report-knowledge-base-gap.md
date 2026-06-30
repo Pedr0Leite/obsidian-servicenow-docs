@@ -14,7 +14,7 @@ breadcrumb: [Use, Operational Technology Knowledge Management, Operational Techn
 
 # Report a knowledge gap from an OT incident record
 
-Report a knowledge gap from an [[operational-technology-overview|Operational Technology]] \(OT\) incident if you can't find relevant knowledge articles about the incident.
+Report a knowledge gap from an Operational Technology \(OT\) incident if you can't find relevant knowledge articles about the incident.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_ot\_incident\_read
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]]**.
+1.  Navigate to **All** &gt; **Industrial Workspace**.
 
 2.  In the list view under the OT Incident module, open one of the available lists.
 
@@ -47,12 +47,7 @@ The knowledge gap is reported and a feedback task is created.
 
 You can view the feedback task under the Knowledge Gaps related list in the incident record.
 
-To [[assign-feedback-tasks|assign feedback tasks]] to the correct user or user group, see [Assign feedback tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-knowledge-management/assign-feedback-tasks.md).
+To assign feedback tasks to the correct user or user group, see [Assign feedback tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-knowledge-management/assign-feedback-tasks.md).
 
 **Parent Topic:**[Using Operational Technology Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-knowledge-management/using-operational-technology-knowledge-management.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[assign-feedback-tasks|Assign feedback tasks]]

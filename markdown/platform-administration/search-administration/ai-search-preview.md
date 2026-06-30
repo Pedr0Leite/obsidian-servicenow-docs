@@ -14,7 +14,7 @@ breadcrumb: [Advanced AI Search Management Tools, Search administration, Configu
 
 # Search Preview UI for AI Search
 
-The Search Preview UI enables you to test [[ia-ai-search|AI Search]] queries using settings from a selected search profile. Administrator tools help you review search query performance data and feedback, debug queries, and override default query settings for testing purposes.
+The Search Preview UI enables you to test AI Search queries using settings from a selected search profile. Administrator tools help you review search query performance data and feedback, debug queries, and override default query settings for testing purposes.
 
 Access the Search Preview UI by navigating to **AI Search** &gt; **Preview** &gt; **Search Preview**.
 
@@ -26,7 +26,7 @@ Access the Search Preview UI by navigating to **AI Search** &gt; **Preview** &gt
 
 ## Search Preview UI components
 
-\[Omitted image "adv-ais-mgmt-search-preview.png"\] Alt text: Sample Search Preview UI screen displaying sales laptop search query [[hs-results|results]].
+\[Omitted image "adv-ais-mgmt-search-preview.png"\] Alt text: Sample Search Preview UI screen displaying sales laptop search query results.
 
 <table id="table_f15_qb3_b4b"><thead><tr><th>
 
@@ -84,16 +84,16 @@ Review the results the search query produces when executed with the selected sea
 
 </td><td>
 
-Select the icon for the administrator tool that you want to use:-   Process data tool \[Omitted image "icon-help.png"\] Alt text:: View summary information on the search query's triggered [[result-improvement-rules-ais|result improvement rules]], matched NLU model intents, and processing time.
+Select the icon for the administrator tool that you want to use:-   Process data tool \[Omitted image "icon-help.png"\] Alt text:: View summary information on the search query's triggered result improvement rules, matched NLU model intents, and processing time.
 -   Alerts tool \[Omitted image "icon-alert.png"\] Alt text:: Review alert feedback messages produced during processing of the search query.
 -   Dictionary and query feedback tool \[Omitted image "icon-book-open.png"\] Alt text:: Review dictionary and query feedback messages and NLU model intent data for the search query. Enable debugging.
 -   Context settings tool \[Omitted image "icon-boolean.png"\] Alt text:: Specify user context values for the search query to trigger result improvement rules.
 -   User impersonation tool \[Omitted image "icon-user.png"\] Alt text:: Change the search query's user or locale to test access settings and view translated documents.
 
- For more detailed descriptions of each administrator tool's output, controls, and fields, see the following [[reference-email-admin|reference]] section.
+ For more detailed descriptions of each administrator tool's output, controls, and fields, see the following reference section.
 
 </td></tr></tbody>
-</table>## [[search-preview-ui-new-admin-tools|Search preview admin tools]]
+</table>## Search preview admin tools
 
 Understand the output, controls, and fields provided by admin tools in the search preview UI.
 
@@ -122,7 +122,7 @@ This tool displays separate panes for dictionary feedback entries and query feed
 |Entry|Description|
 |-----|-----------|
 |Stop words|List of feedback messages relating to stop word removal for the search query.|
-|Spellcheck|List of feedback messages relating to [[typo-handling-ais|typo handling]] auto-correction for the search query.|
+|Spellcheck|List of feedback messages relating to typo handling auto-correction for the search query.|
 |Synonyms|List of feedback messages relating to synonym expansion for the search query.|
 
 <table id="table_khg_z43_b4b"><thead><tr><th>
@@ -201,7 +201,7 @@ Search as
 
 To submit search preview queries as another user, enter the user's name from the User \[sys\_users\] table. You must have the impersonator role. Use this control to see how content security affects search query results for specific user accounts.
 
- Searches performed while impersonating another user don't affect the **Search users** metric, trend, and report on the [[ai-search-analytics-dashboard|AI Search Analytics dashboard]].
+ Searches performed while impersonating another user don't affect the **Search users** metric, trend, and report on the AI Search Analytics dashboard.
 
  **Note:** Changing the value of this field terminates elevated privileges for the ais\_high\_security\_admin role. To bypass filters after changing this field's value, you must re-elevate to the ais\_high\_security\_admin role.
 
@@ -215,13 +215,3 @@ To submit search preview queries using a specific supported language, select the
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]
-- [[result-improvement-rules-ais|Result improvement rules]]
-- [[reference-email-admin|Reference]]
-- [[search-preview-ui-new-admin-tools|Search Preview admin tools]]
-- [[typo-handling-ais|Typo handling]]
-- [[ai-search-analytics-dashboard|AI Search analytics dashboard]]

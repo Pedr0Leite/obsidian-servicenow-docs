@@ -14,9 +14,9 @@ breadcrumb: [Content Management integration points, Content Management System, C
 
 # Dynamic methods
 
-While [[c_StaticMethods|static methods]] are a powerful navigational tool, you have more control over data rendering using the dynamic methods.
+While static methods are a powerful navigational tool, you have more control over data rendering using the dynamic methods.
 
-[[onboarding-modals-reference|Reference]] common code in the system to make long-term maintenance of the site easier. Coding skills are useful when implementing dynamic methods.
+Reference common code in the system to make long-term maintenance of the site easier. Coding skills are useful when implementing dynamic methods.
 
 \[Omitted image "Blocks.png"\] Alt text: The items in green denote dynamic method options the CMS module.
 
@@ -28,11 +28,11 @@ While [[c_StaticMethods|static methods]] are a powerful navigational tool, you h
 
     Frames are meant to be decorative wrappers around any block in the system. They are mentioned with dynamic blocks because frames are essentially UI macros with the category of **Frame**. Frames apply the `${body}` variable to a block and define where the block is inserted when rendered on the page.
 
--   **[[lists-configurable-workspace|Lists]]**
+-   **Lists**
 
     Lists generate links to records based on the filtering rules you define. Lists can be sorted for presentation by any field in the corresponding record. Lists help supplement navigation and pull data from outside the CMS. For more information, see [Customize the list block](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_DefineTheListBlock.md).
 
--   **[[c_ContentTypes|Content Types]]**
+-   **Content Types**
 
     Content types provide site-specific control of how system data defined as templates is rendered. The rendering of lists is considered first \(summary templates\). The next consideration is the detail template, which allows control over the record rendering.
 
@@ -47,9 +47,3 @@ While [[c_StaticMethods|static methods]] are a powerful navigational tool, you h
 
 **Parent Topic:**[Content Management integration points](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_CMSIntegrationPoints.md)
 
-## Related
-
-- [[c_StaticMethods|Static methods]]
-- [[onboarding-modals-reference|Reference]]
-- [[lists-configurable-workspace|Lists]]
-- [[c_ContentTypes|Content types]]

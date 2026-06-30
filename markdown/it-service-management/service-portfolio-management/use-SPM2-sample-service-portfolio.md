@@ -14,7 +14,7 @@ breadcrumb: [Install the Service Portfolio Management Sample Content Pack, Confi
 
 # View Service Portfolio Management sample IT services portfolio content
 
-Access, view, and analyze the [[SPM2-landing-page|Service Portfolio Management]] sample IT services portfolio content to plan and create your service portfolio. Consider the sample structure as a starting point. You can add to it or modify it to suit the specific needs of your organization.
+Access, view, and analyze the Service Portfolio Management sample IT services portfolio content to plan and create your service portfolio. Consider the sample structure as a starting point. You can add to it or modify it to suit the specific needs of your organization.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ The Sample IT service portfolio provides usable data in the form of portfolios, 
 
 You can view the Sample IT service portfolio content with any Service Portfolio Management role. To create portfolios or to manage the taxonomy nodes, you must have either the portfolio\_admin role or the service\_editor role.
 
-You can view the sample content in both the Service Portfolio Management application and in the [[dpm-landing|Digital Portfolio Management]] \(DPM\) Workspace.
+You can view the sample content in both the Service Portfolio Management application and in the Digital Portfolio Management \(DPM\) Workspace.
 
 ## Procedure
 
@@ -60,7 +60,3 @@ You can view the sample content in both the Service Portfolio Management applica
 
 [Work with portfolios in Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-explore-portfolios.md)
 
-## Related
-
-- [[SPM2-landing-page|Service Portfolio Management]]
-- [[dpm-landing|Digital Portfolio Management]]

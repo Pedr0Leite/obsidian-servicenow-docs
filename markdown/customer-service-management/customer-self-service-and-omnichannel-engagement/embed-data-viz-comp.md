@@ -14,11 +14,11 @@ breadcrumb: [Data visualization component, Configure web components, Web Embedda
 
 # Embed the Data visualization component instance on the third-party website
 
-Embed the global code and component code of the [[we-data-viz-comp-overview|Data visualization component]] instance that you configured so that you can enable your customers to start using the Data visualization component instance on your third-party website.
+Embed the global code and component code of the Data visualization component instance that you configured so that you can enable your customers to start using the Data visualization component instance on your third-party website.
 
 ## Before you begin
 
-You must [[config-data-viz-comp|configure the Data visualization component instance]]. For information, see [Configure the Data visualization component instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/config-data-viz-comp.md).
+You must configure the Data visualization component instance. For information, see [Configure the Data visualization component instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/config-data-viz-comp.md).
 
 Role required: admin
 
@@ -37,7 +37,3 @@ Role required: admin
 
 The Data Visualization component instance appears on your third-party website.
 
-## Related
-
-- [[we-data-viz-comp-overview|Data visualization component]]
-- [[config-data-viz-comp|Configure the Data visualization component instance]]

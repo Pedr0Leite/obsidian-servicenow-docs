@@ -14,7 +14,7 @@ breadcrumb: [Agile in CWM, Use, Collaborative Work Management, Strategic Portfol
 
 # Sprint planning in CWM
 
-Plan, track, and manage work for your teams in the Agile methodology using Sprint planning in [[cwm-landing|Collaborative Work Management]].
+Plan, track, and manage work for your teams in the Agile methodology using Sprint planning in Collaborative Work Management.
 
 \[Omitted video\] Description: Sprint planning in Collaborative Work Management
 
@@ -87,6 +87,3 @@ When marking a sprint complete, choose to create a sprint retrospective board fo
 
 **Parent Topic:**[Agile work management in CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/agile-in-cwm.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

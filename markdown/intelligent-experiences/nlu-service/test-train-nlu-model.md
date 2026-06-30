@@ -18,9 +18,9 @@ Train and try your model iteratively so that its intents and entities are valida
 
 ## Before you begin
 
--   Make sure that the NLU Workbench - Core plugin, NLU Workbench plugin, and [[predictive-intelligence-landing|Predictive Intelligence]] plugin are all installed and activated.
+-   Make sure that the NLU Workbench - Core plugin, NLU Workbench plugin, and Predictive Intelligence plugin are all installed and activated.
 -   Create an NLU model. For more information, see [Creating models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/creating-models.md).
--   Create one or more [[intents|NLU intents]] and their associated entities for your model. For more information, see [NLU intents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/intents.md).
+-   Create one or more NLU intents and their associated entities for your model. For more information, see [NLU intents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/intents.md).
 -   If any utterance references a table vocabulary source, ensure that the source has been synchronized so that its values are available to your model. For more information see [Sync a table vocabulary source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/sync-table-vocabulary-source.md).
 -   Role required: nlu\_editor, nlu\_admin, or admin. The NLU editor must be assigned to the model.
 
@@ -34,7 +34,7 @@ After training, you can try your model by manually entering individual utterance
 
 The mid-conversation responses of Dialog Acts can't be tried or tested in NLU Workbench.
 
-In this example scenario, you've already built sufficient model content by adding intents, utterances, entities, and their associated annotations. Following the example procedure, you first train your NLU model. Then you try your model by manually entering utterances so you can check the prediction results and [[docintel-confidence-scores|confidence scores]].
+In this example scenario, you've already built sufficient model content by adding intents, utterances, entities, and their associated annotations. Following the example procedure, you first train your NLU model. Then you try your model by manually entering utterances so you can check the prediction results and confidence scores.
 
 ## Procedure
 
@@ -46,7 +46,7 @@ In this example scenario, you've already built sufficient model content by addin
 
 3.  In the **Model details** tab of the model overview, make sure there is enough content in Intents, Entities, and Vocabulary.
 
-4.  On the **[[managing-model-content|Build and train your model]]** card on the model overview, select **View phase**.
+4.  On the **Build and train your model** card on the model overview, select **View phase**.
 
     \[Omitted image "managing-model-content2.png"\] Alt text: The Build and train your model phase card, on the model overview.
 
@@ -80,14 +80,7 @@ The **Try model** results also display thumbs-up and thumbs-down icons for you t
 ## What to do next
 
 -   Continue trying various utterances to check that your updates to model content are effective. See [Compare draft and published versions of your NLU model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/compare-draftmodel-to-last-published-version.md).
--   To [[test-your-model|test your model]] against a list of test utterances, use its default test set in the [Test and publish your model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/testing-your-model.md) phase, or navigate to [Multi-model Batch Testing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/batch-testing-nlu.md).
+-   To test your model against a list of test utterances, use its default test set in the [Test and publish your model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/testing-your-model.md) phase, or navigate to [Multi-model Batch Testing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/batch-testing-nlu.md).
 -   To adjust the model's confidence threshold, use the **Settings** tab on the model's overview page. For more information, see [NLU model settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/nlu-model-settings.md).
 -   If you're satisfied with the results of your testing, [Publish your NLU model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/publish-nlu-model.md).
 
-## Related
-
-- [[predictive-intelligence-landing|Predictive Intelligence]]
-- [[intents|NLU intents]]
-- [[docintel-confidence-scores|Confidence scores]]
-- [[managing-model-content|Build and train your model]]
-- [[test-your-model|Test your model]]

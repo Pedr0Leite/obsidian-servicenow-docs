@@ -14,7 +14,7 @@ breadcrumb: [Instance Data Replication, Manage instance data sources, Extend Ser
 
 # Exploring Instance Data Replication
 
-[[instance-data-replication|Instance Data Replication]] \(IDR\) replicates data updates on one instance, called the producer instance, to one or more other instances, called the consumer instances.
+Instance Data Replication \(IDR\) replicates data updates on one instance, called the producer instance, to one or more other instances, called the consumer instances.
 
 ## IDR overview
 
@@ -65,14 +65,14 @@ This image shows how IDR replicates data from multiple tables on a producer inst
     IDR does not replicate metadata tables, child metadata tables, and most user and system tables. IDR is designed to replicate data, not to clone instances. For example, the Application File \[sys\_metadata\] table and tables that extend \[sys\_metadata\] \(including the Business Rules \[sys\_script\], Catalog \[sc\_catalog\], and Workflow \[wf\_workflow\] tables\) are excluded and can't be replicated. For details on cloning, see [Instance Clone](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-clone-landing.md).
 
 -   Avoid using IDR to replicate a series of large attachments on a regular basis. If you need to include attachments that are larger than 10 MB regularly, monitor IDR to ensure that the lag time doesn't exceed expectations.
--   Avoid [[continuous-replication|continuous replication]] of CMDB tables. Replicating CMDB data as changes occur can create performance issues or unforeseen consequences with replication due to the number of records involved. If you must replicate CMDB tables, consider scheduling replication or use conditions to constrain the count of replicated records and ensure all required columns are included in the replication set.
+-   Avoid continuous replication of CMDB tables. Replicating CMDB data as changes occur can create performance issues or unforeseen consequences with replication due to the number of records involved. If you must replicate CMDB tables, consider scheduling replication or use conditions to constrain the count of replicated records and ensure all required columns are included in the replication set.
 -   You cannot replicate Edge Encrypted, Field Encryption, and Password \(2-Way Encrypted\) fields.
 -   IDR does not synchronize data archiving between instances. For example, archiving records or restoring archive records on a producer instance doesn't affect archived records on the consumer instance \(and vice versa\). You must create and manage archive rules for each instance independently.
 -   Additional replication limitations:
     -   Maximum record size is 10 MB.
     -   Continuous replication supports up to approximately 1 million records per day.
     -   Seeding must not take longer than seven days to complete.
-    -   You can only create one [[scheduled-replication|scheduled replication]] set, with only one outbound entry in that set.
+    -   You can only create one scheduled replication set, with only one outbound entry in that set.
     -   
 **Warning:** IDR overwrites data on instances and can replicate sensitive data. Avoid potential data loss and data exposure, by testing your IDR implementation in a pre-production environment. See [data privacy in IDR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/data-privacy-consumers-idr.md) for more information.
 
@@ -85,8 +85,3 @@ To learn more about configuring and using IDR, see:
 -   [Administering Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/administering-instance-data-replication.md)
 -   [Instance Data Replication reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/reference-instance-data-replication.md)
 
-## Related
-
-- [[instance-data-replication|Instance Data Replication]]
-- [[continuous-replication|Continuous replication]]
-- [[scheduled-replication|Scheduled replication]]

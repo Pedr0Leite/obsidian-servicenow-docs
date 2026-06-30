@@ -18,15 +18,15 @@ Define workflow, framework, regulation, and its associated versions, impacts, an
 
 ## Before you begin
 
--   The **[[enable-cam-workflow-configuration|Enable CAM workflow configuration]]** property must be turned on. For more information, see [Enable CAM workflow configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/enable-cam-workflow-configuration.md).
--   You must run the migration scheduled jobs to associate existing authorization packages and boundaries with the workflow after enabling the [[cam-workflow-configurator|CAM workflow configuration]] property. For more information, see [Run migration scheduled job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/run-migration-scheduled-job.md).
+-   The **Enable CAM workflow configuration** property must be turned on. For more information, see [Enable CAM workflow configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/enable-cam-workflow-configuration.md).
+-   You must run the migration scheduled jobs to associate existing authorization packages and boundaries with the workflow after enabling the CAM workflow configuration property. For more information, see [Run migration scheduled job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/run-migration-scheduled-job.md).
 -   With CAM advanced plugin \(app-grc-cont-auth-monitor-advanced\): You can create unlimited workflow configurations. If you don’t have CAM advanced plugin, you can create a maximum of two workflow configurations \(including the NIST workflow\).
 
 Role required: sn\_irm\_cont\_auth.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[grc-cam-landing-page|Continuous Authorization and Monitoring]]** &gt; **[[Administration|Administration]]** &gt; **Workflow Configurations**.
+1.  Navigate to **All** &gt; **Continuous Authorization and Monitoring** &gt; **Administration** &gt; **Workflow Configurations**.
 
 2.  To create a workflow configuration, select **New**.
 
@@ -78,9 +78,3 @@ To add versions, impact, and view rules to the workflow, see:
 -   [Add impact to version](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/add-impact-to-version.md)
 -   [Add view rules to workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/add-view-rules-to-workflow.md)
 
-## Related
-
-- [[enable-cam-workflow-configuration|Enable CAM workflow configuration]]
-- [[cam-workflow-configurator|CAM workflow configuration]]
-- [[grc-cam-landing-page|Continuous Authorization and Monitoring]]
-- [[Administration|Administration]]

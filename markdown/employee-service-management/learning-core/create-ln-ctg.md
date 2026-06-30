@@ -14,7 +14,7 @@ breadcrumb: [Managing course and catalog content, Learning Core, HR Service Deli
 
 # Create a learning library
 
-[[create-learning-library|Create a learning library]] that includes [[exploring-learning-exp|learning]] content from internal and external content repositories.
+Create a learning library that includes learning content from internal and external content repositories.
 
 ## Before you begin
 
@@ -59,7 +59,3 @@ You can add applicable users to a learning library.
 
 [Add users to learning library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/add-users-library.md)
 
-## Related
-
-- [[create-learning-library|Create a learning library]]
-- [[exploring-learning-exp|Learning]]

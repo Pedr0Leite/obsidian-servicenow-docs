@@ -20,7 +20,7 @@ If a contract is being negotiated with the engagement or third party, the due di
 
 The following infographic shows the contract risk process.
 
-\[Omitted image "mmasset0020744-contract-risk-process-horizontal.png"\] Alt text: Infographic that shows the approval process in the [[tprm-workflow-in-workspace|due diligence workflow]]. For the text description, refer to the text that follows.
+\[Omitted image "mmasset0020744-contract-risk-process-horizontal.png"\] Alt text: Infographic that shows the approval process in the due diligence workflow. For the text description, refer to the text that follows.
 
 **Note:** The \[sn\_vdr\_risk\_asmt.contract\_negotiator\] role is required and your contract negotiator performs all actions by using the Vendor Management Workspace or VRM Classic user interface.
 
@@ -151,6 +151,3 @@ After the contract risk process is completed, the owner receives an email notifi
 
 **Note:** For more information on viewing contracts associated with due diligence requests, see [Accessing DD requests that are in the contract risk process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-ws-dd-mgt-pg-contract-risk.md).
 
-## Related
-
-- [[tprm-workflow-in-workspace|Due diligence workflow]]

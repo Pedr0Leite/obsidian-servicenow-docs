@@ -15,7 +15,7 @@ breadcrumb: [Install Kubernetes Visibility Agent \(KVA\) Informer, Configuring K
 
 # Add custom Labels and Annotations to Kubernetes resources
 
-Add custom Labels and Annotations to all resources deployed by [[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]] in the Kubernetes cluster.
+Add custom Labels and Annotations to all resources deployed by Kubernetes Visibility Agent in the Kubernetes cluster.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ Role required: none
 
 **Parent Topic:**[Install Kubernetes Visibility Agent \(KVA\) Informer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cnov-deploy-install.md)
 
-## Related
-
-- [[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]]

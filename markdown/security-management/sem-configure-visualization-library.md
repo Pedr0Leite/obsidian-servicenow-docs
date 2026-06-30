@@ -13,15 +13,15 @@ breadcrumb: [Implement, Unified Security Exposure Management, Security Operation
 
 # Configure Visualization library
 
-The [[sem-visualization-library|Visualization library]] lists the available widgets for the Findings view page and their additional details, such as, the current activation status, additional conditions, and other columns. Configure the visualization library to select the columns you want to view.
+The Visualization library lists the available widgets for the Findings view page and their additional details, such as, the current activation status, additional conditions, and other columns. Configure the visualization library to select the columns you want to view.
 
 ## Before you begin
 
-Role required: See [[sem-acls-for-admin-rules|Access control lists \(ACLs\) for administration rules]]
+Role required: See [Access control lists \(ACLs\) for administration rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-acls-for-admin-rules.md)
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sem-workspace-user-interface|Security Exposure Management Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Security Exposure Management Workspace**.
 
 2.  In the navigation pane, select **Administration**.
 
@@ -85,7 +85,7 @@ Findings table
 
 </td><td>
 
-The tables the widgets to fetch data.The widgets can fetch data from one or more of the following tables:-   [[threat-intelligence-infrastructure|Infrastructure]] vulnerability
+The tables the widgets to fetch data.The widgets can fetch data from one or more of the following tables:-   Infrastructure vulnerability
 -   Application vulnerability
 -   Misconfigurations
 -   Container vulnerability
@@ -165,19 +165,10 @@ The name of the widget.
 
 </td></tr></tbody>
 </table>
--   **[[sem-create-widget|Create a custom widget]]**  
+-   **[Create a custom widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-create-widget.md)**  
 Create a custom widget in the Security exposure management \(SEM\) workspace to visualize findings data that meets your organization’s reporting needs. This feature enables administrators to extend the default widgets in the visualization library by adding new widgets that reflect organization-specific risk and exposure metrics.
--   **[[sem-update-widget|Update a widget]]**  
+-   **[Update a widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-update-widget.md)**  
 Update a widget in the Visualization Library to modify its configuration or presentation. You can update attributes to refine how data appears in Findings dashboards and ensure that the visualizations stay relevant to your reporting needs.
--   **[[sem-localize-widget-titles|Localize widget titles]]**  
+-   **[Localize widget titles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-localize-widget-titles.md)**  
 Update the widget title in the Messages \[sys\_ui\_message\_list\] table whenever you create a custom widget or rename an existing one to ensure it displays correctly in localized interfaces.
 
-## Related
-
-- [[sem-acls-for-admin-rules|Access control lists \(ACLs\) for administration rules]]
-- [[sem-create-widget|Create a custom widget]]
-- [[sem-update-widget|Update a widget]]
-- [[sem-localize-widget-titles|Localize widget titles]]
-- [[sem-visualization-library|Visualization library]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]
-- [[threat-intelligence-infrastructure|Infrastructure]]

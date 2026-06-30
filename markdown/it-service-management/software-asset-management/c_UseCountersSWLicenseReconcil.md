@@ -14,7 +14,7 @@ breadcrumb: [Legacy Software Asset Management plugin, ITSM Software Asset Manage
 
 # Software license reconciliation counters for the legacy Software Asset Management plugin
 
-Software counters for the legacy Software [[c_AssetManagement|Asset Management]] \(com.snc.software\_asset\_management\) plugin reconcile software rights with software installations to verify compliance.
+Software counters for the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin reconcile software rights with software installations to verify compliance.
 
 For asset managers, software counters answer the question: Is my number of installations equal to or lower than the number of rights purchased? Counters are useful for software that must be tracked; some software may not need to be tracked closely. Grouping—such as location, company, department, cost center, entitlement workstation and entitlement user—or no grouping can be used with software counters.
 
@@ -31,7 +31,7 @@ Use a software counter for the legacy Software Asset Management \(com.snc.softwa
 -   **[Create a software counter for the legacy Software Asset Management plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/t_CreateASoftwareCounter.md)**  
 How to create a software counter for the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin.
 -   **[Set up quick counters for the legacy Software Asset Management plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_SetUpQuickCounters.md)**  
-Quick counter [[settings-mobile|settings]] can help speed up the software counting process that is used by the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin.
+Quick counter settings can help speed up the software counting process that is used by the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin.
 -   **[View software counter results for the legacy Software Asset Management plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/t_ViewASoftwareCounterResult.md)**  
 Software counter results provide detailed information about each grouping that is formed through the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin.
 -   **[View software counter summaries for the legacy Software Asset Management plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/t_ViewASoftwareCounterSummary.md)**  
@@ -54,24 +54,17 @@ Usage counters for the legacy Software Asset Management \(com.snc.software\_asse
 
 [Software licenses in the legacy Software Asset Management plugin]()
 
-[Manage [[c_CreatingSoftwareModels|software models]] using the legacy Software Asset Management plugin]()
+[Manage software models using the legacy Software Asset Management plugin]()
 
 [License calculations with the legacy Software Asset Management plugin]()
 
-[Software discovery [[c_Models|models]] in the legacy Software Asset Management plugin]()
+[Software discovery models in the legacy Software Asset Management plugin]()
 
 [Legacy Software License Compliance Checker]()
 
 [Legacy IBM PVU Process Pack]()
 
-[Software [[c_Contracts|contracts]] for the legacy Software Asset Management plugin]()
+[Software contracts for the legacy Software Asset Management plugin]()
 
 [Legacy Oracle process pack]()
 
-## Related
-
-- [[c_AssetManagement|Asset Management]]
-- [[settings-mobile|Settings]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[c_Models|Models]]
-- [[c_Contracts|Contracts]]

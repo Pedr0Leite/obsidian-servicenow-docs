@@ -14,7 +14,7 @@ breadcrumb: [Incident Communications Management reference, Incident Communicatio
 
 # Domain separation and Incident Communications Management
 
-Domain separation is supported in [[c_IncidentAlertManagement|Incident Communications Management]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported in Incident Communications Management. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Standard
 
@@ -56,6 +56,3 @@ An Incident Communication Plan Admin or Major Incident Manager is able to view i
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[c_IncidentAlertManagement|Incident Communications Management]]

@@ -22,11 +22,11 @@ Role required: admin \[sn\_jny.admin\]
 
 ## About this task
 
-Use stages to create a logical sequence for completing tasks. Managers add stages to plans in the [[employee-center-landing-page|Employee Center]].
+Use stages to create a logical sequence for completing tasks. Managers add stages to plans in the Employee Center.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[jny-dsgnr-landing-page-1|Journey Designer]]** &gt; **Manage Stage Names**.
+1.  Navigate to **All** &gt; **Journey Designer** &gt; **Manage Stage Names**.
 
 2.  Select **New**.
 
@@ -39,7 +39,3 @@ Use stages to create a logical sequence for completing tasks. Managers add stage
 
 **Parent Topic:**[Configure Journey designer features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-configuration.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[jny-dsgnr-landing-page-1|Journey designer]]

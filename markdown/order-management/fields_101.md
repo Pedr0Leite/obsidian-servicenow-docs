@@ -12,7 +12,7 @@ breadcrumb: [CPQ app, Configure, price, quote apps, Configure, Sales Customer Re
 
 # Configure fields
 
-Learn about how [[fields|fields]] in CPQ help structure data collection efficiently and about the various types of field. Associate fields with [[blueprints|blueprints]] for consistent use across configurations, [[layouts|layouts]], and rules.
+Learn about how fields in CPQ help structure data collection efficiently and about the various types of field. Associate fields with blueprints for consistent use across configurations, layouts, and rules.
 
 A field is a designated space where users can enter specific information. Imagine fields as sections in a questionnaire, each awaiting a particular piece of data.
 
@@ -20,13 +20,13 @@ The usefulness of fields lies in their ability to structure data collection, mak
 
 In CPQ, fields are global. This means a field may be reused in any blueprint, rule, or layout without having to create a unique field for each.
 
--   [[layout_csv_101|Layouts]]
+-   [Layouts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/layout_csv_101.md)
     -   Fields are the most granular component that make up a layout. A layout consists of many fields arranged into a navigational flow or page.
-    -   Tabs, expandable sections, column [[cpq-sets|sets]], field grids, and headings provide additional organization to the fields in a configuration experience.
--   [[rules_101|Rules]]
+    -   Tabs, expandable sections, column sets, field grids, and headings provide additional organization to the fields in a configuration experience.
+-   [Rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/rules_101.md)
     -   Rules leverage fields as inputs to conditions, calculations, and logic.
     -   Rules act on fields. A rule may determine the value of a field, display a message associated with a field, hide a field, control the options available in a field, and send the information in a field to the Product List, all in the same rule.
--   [[blueprints_101|Blueprints]]
+-   [Blueprints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/blueprints_101.md)
     -   Because fields are global across an environment, the only way for them to be a part of a specific configuration is to be associated with a blueprint.
     -   When all of the fields referenced by a rule are associated with a blueprint, the rule is associated with the blueprint without the need to specify it.
     -   When a field is associated with a blueprint, the field can be added to the layouts of the blueprint.
@@ -61,7 +61,7 @@ Picklists are fields that only allow specified options to be selected, such as c
 
 \[Omitted image "cpq-fields-picklist.png"\] Alt text: Picklist
 
-A product picker is like a picklist with extended data. [[product_picker_overview|product pickers]] can add products to a bill of materials and map additional data to product list fields, including extended data, without writing standard rules.
+A product picker is like a picklist with extended data. product pickers can add products to a bill of materials and map additional data to product list fields, including extended data, without writing standard rules.
 
 \[Omitted image "cpq-fields-product-picker.png"\] Alt text: Picklist picker
 
@@ -78,23 +78,11 @@ The following blueprint includes all the different field options and display var
 **Related topics**  
 
 
-[[system_fields_vs_partner_fields|CPQ fields, system fields, and partner fields]]
+[CPQ fields, system fields, and partner fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/system_fields_vs_partner_fields.md)
 
 [Field type display options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-[[what_field_type_should_i_use_for_organizing_field_options_and_data|Grid-style fields and field collections]]
+[Grid-style fields and field collections](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/what_field_type_should_i_use_for_organizing_field_options_and_data.md)
 
 [Boundaries and limits](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-## Related
-
-- [[layout_csv_101|Set up layouts]]
-- [[rules_101|Rules]]
-- [[blueprints_101|Set up blueprints]]
-- [[system_fields_vs_partner_fields|CPQ fields, system fields, and partner fields]]
-- [[what_field_type_should_i_use_for_organizing_field_options_and_data|what_field_type_should_i_use_for_organizing_field_options_and_data]]
-- [[fields|Fields]]
-- [[blueprints|Blueprints]]
-- [[layouts|Layouts]]
-- [[cpq-sets|Sets]]
-- [[product_picker_overview|Product pickers]]

@@ -14,7 +14,7 @@ breadcrumb: [Interactive Analysis, Reporting, dashboards, and Performance Analyt
 
 # Add a filter to Interactive Analysis
 
-Add a filter to show more refined information in your [[interactive-analysis|Interactive Analysis]].
+Add a filter to show more refined information in your Interactive Analysis.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ You must have access to the list of records that you want to analyze.
 
 1.  Navigate to the table that you want to analyze.
 
-2.  Right-click on the header of the column you want to analyze and select **[[launch-interactive-analysis-pa|Launch Interactive Analysis]]**.
+2.  Right-click on the header of the column you want to analyze and select **Launch Interactive Analysis**.
 
 3.  Click the filter icon \(\[Omitted image "List\_FilterIcon.png"\] Alt text: filter icon\) and click **Add filters**.
 
@@ -47,7 +47,3 @@ The new filter is applied to the interactive analysis. Click the information ico
 
 **Parent Topic:**[Interactive Analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/interactive-analysis.md)
 
-## Related
-
-- [[interactive-analysis|Interactive Analysis]]
-- [[launch-interactive-analysis-pa|Launch Interactive Analysis]]

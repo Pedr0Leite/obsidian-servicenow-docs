@@ -22,7 +22,7 @@ For attributes supported by this variable, see [variable attributes](https://raw
 
 **Note:**
 
--   The [[reference|Reference]] Qualifier and glide\_list attribute applies to releases from Helsinki onward only. The attribute does not apply to Geneva.
+-   The Reference Qualifier and glide\_list attribute applies to releases from Helsinki onward only. The attribute does not apply to Geneva.
 -   You can set a value for this variable using the g\_form.setValue\(\) function in a catalog client script.
 -   When the glide\_list attribute is not true, you can only set the value that is visible in the **Available** list using the g\_form.setValue\(\) function. This functionality is not applicable when the setValue\(\) function is called onLoad.
 -   Table with large data causes performance issues when loading the page. Use reference qualifiers to reduce data or use the glide\_list attribute.
@@ -86,6 +86,3 @@ For attributes supported by this variable, see [variable attributes](https://raw
 
 [Variable support in various channels]()
 
-## Related
-
-- [[reference|Reference]]

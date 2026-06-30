@@ -30,7 +30,7 @@ One way to investigate incidents is to determine whether related records exist, 
 
     The show related incidents icon \(\[Omitted image "ShowRelatedIncidentsIcon.png"\] Alt text: Show related incidents icon\) appears beside the **Caller** field when it is populated. Click the icon to view the list of incidents for the same caller.
 
-    **Note:** Administrators can add this icon to any [[reference-for-itsm-mobile-agent|reference]] field by modifying the dictionary entry and adding the **ref\_contributions=user\_show\_incidents** dictionary attribute. The icon appears only for users who have read or write access to the field. A UI macro named user\_show\_incidents defines the behavior. The UI macro must be active to view the related incidents icon.
+    **Note:** Administrators can add this icon to any reference field by modifying the dictionary entry and adding the **ref\_contributions=user\_show\_incidents** dictionary attribute. The icon appears only for users who have read or write access to the field. A UI macro named user\_show\_incidents defines the behavior. The UI macro must be active to view the related incidents icon.
 
 -   **Incidents by Same Caller related list**
 
@@ -45,15 +45,15 @@ One way to investigate incidents is to determine whether related records exist, 
 
 ## Incident promotion
 
-When the [[c_IncidentManagement|incident management]] team has determined that the cause of an incident is an error or widespread problem, the team initiates the [[c_ProblemManagementProcess|problem management process]]. When the issue requires a change to the infrastructure or a business service, the team initiates the [[c_ITILChangeManagement|change management]] process.
+When the incident management team has determined that the cause of an incident is an error or widespread problem, the team initiates the problem management process. When the issue requires a change to the infrastructure or a business service, the team initiates the change management process.
 
-A menu item on the Incident form lets you [[create-a-problem-v2|create a problem]] or change record easily and associate the incident with the problem or change record. For more information, refer [Create a record from incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/t_PromoteAnIncident.md)
+A menu item on the Incident form lets you create a problem or change record easily and associate the incident with the problem or change record. For more information, refer [Create a record from incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/t_PromoteAnIncident.md)
 
 **Note:** If the incident already has an associated problem or change record, you cannot create another record of the same task type.
 
 Sometimes, the resolution for the user is to request hardware or software for them. For example, a user may report a problem that requires a new mouse device or keyboard. The service desk agent can create a request from the incident. The incident is associated with the requested item.
 
-**Note:** This feature is available only in new instances starting with Jakarta or a later release. The [[c_ProblemManagement|Problem Management]] Best Practice – Jakarta plugin \(com.snc.best\_practice.problem.jakarta\) plugin must be activated.
+**Note:** This feature is available only in new instances starting with Jakarta or a later release. The Problem Management Best Practice – Jakarta plugin \(com.snc.best\_practice.problem.jakarta\) plugin must be activated.
 
 ## Incident escalation
 
@@ -67,11 +67,4 @@ There are two escalation methods the platform uses to track and report on incide
 
     The inactivity monitor generates an event to prevent incidents from going unnoticed. When a certain amount of time has passed without an update to the incident, the event creates an email notification or triggers a script.
 
-## Related
 
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[c_IncidentManagement|Incident Management]]
-- [[c_ProblemManagementProcess|Problem Management process]]
-- [[c_ITILChangeManagement|Change Management]]
-- [[create-a-problem-v2|Create a problem]]
-- [[c_ProblemManagement|Problem Management]]

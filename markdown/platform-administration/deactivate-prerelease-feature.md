@@ -47,8 +47,5 @@ After deactivating a feature, review your instance for any residual artifacts th
 
 If you have questions or need assistance after deactivating a feature, contact the product team.
 
-**Parent Topic:**[[feature-preview-program|Feature Preview Program]]
+**Parent Topic:**[Feature Preview Program](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/feature-preview-program.md)
 
-## Related
-
-- [[feature-preview-program|Feature Preview Program]]

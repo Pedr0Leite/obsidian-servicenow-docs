@@ -14,7 +14,7 @@ breadcrumb: [Portal Knowledge Quick Links widget, Configurable Portal widgets, S
 
 # Add and configure the Portal Knowledge Quick Links widget
 
-Add a [[portal-know-quick-links-widget|Portal Knowledge Quick Links widget]] to the portal and modify its data, presentation, and behavior.
+Add a Portal Knowledge Quick Links widget to the portal and modify its data, presentation, and behavior.
 
 ## Before you begin
 
@@ -48,7 +48,7 @@ Role required: sp\_admin
 
 11. On the Instance form, fill in the fields.
 
-    For a description of the field values, see [[r-port-know-quick-links-inst-options|Portal Knowledge Quick Links widget instance options form]].
+    For a description of the field values, see [Portal Knowledge Quick Links widget instance options form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r-port-know-quick-links-inst-options.md).
 
 12. Select **Save**.
 
@@ -57,7 +57,3 @@ Role required: sp\_admin
 
 The Portal Knowledge Quick Links widget appears in the widget according to the configured instance options.
 
-## Related
-
-- [[r-port-know-quick-links-inst-options|Portal Knowledge Quick Links widget instance options form]]
-- [[portal-know-quick-links-widget|Portal Knowledge Quick Links widget]]

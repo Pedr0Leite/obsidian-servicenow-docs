@@ -12,7 +12,7 @@ breadcrumb: [Assignment workbench overview, Agent management, Use, Customer Serv
 
 # Assign a case from the assignment workbench
 
-Users with the customer service manager role can [[osp-assign-case|assign a case]] to an agent from the assignment workbench.
+Users with the customer service manager role can assign a case to an agent from the assignment workbench.
 
 ## Before you begin
 
@@ -40,13 +40,13 @@ Role required: sn\_customerservice\_manager
 
     The selected skills appear in a list below this field. The **Matching Skills** column updates to reflect the selected skills.
 
-    **Note:** [[mandatory-skills|Mandatory skills]] can’t be changed.
+    **Note:** Mandatory skills can’t be changed.
 
 5.  Sort the agents by selecting the column header for the desired matching criteria.
 
 6.  Select an agent by enabling the check box by the agent's name and then select **Assign**.
 
-    The assignment workbench closes and the name of the selected agent appears in the **Assigned to** field on the [[r_CustomerServiceCaseForm|Case form]].
+    The assignment workbench closes and the name of the selected agent appears in the **Assigned to** field on the Case form.
 
 7.  Select **Update** to save the agent assignment.
 
@@ -54,11 +54,5 @@ Role required: sn\_customerservice\_manager
 **Related topics**  
 
 
-[[case-assignment-workbench|Assignment workbench overview]]
+[Assignment workbench overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-assignment-workbench.md)
 
-## Related
-
-- [[case-assignment-workbench|Assignment workbench overview]]
-- [[osp-assign-case|Assign a case]]
-- [[mandatory-skills|Mandatory skills]]
-- [[r_CustomerServiceCaseForm|Case form]]

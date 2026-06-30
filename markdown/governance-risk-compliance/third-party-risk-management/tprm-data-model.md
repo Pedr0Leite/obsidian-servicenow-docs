@@ -18,7 +18,7 @@ Use the Third-party Risk Management \(TPRM\) data model to assess, monitor, and 
 
 ## TPRM data model overview
 
-The Third-party Risk Management application is one of the [[r_WhatIsGRC|Governance, Risk, and Compliance]] products.
+The Third-party Risk Management application is one of the Governance, Risk, and Compliance products.
 
 The following model is used to support TPRM's capabilities.
 
@@ -54,7 +54,7 @@ Relationships:
     -   Company
     -   Third-party engagements
     -   Third-party risk issues
-    -   [[airc-assessment-templates|Assessment templates]]
+    -   Assessment templates
 -   The Event-driven management histories component can have a many-to-one relationship with the Event-driven management rules component.
 -   The Event-driven management rules component can have a one-to-many relationship with the Assessment metric type component and the Assessment template component.
 -   The third-party engagement component can have a one-to-many relationship with the following components:
@@ -90,7 +90,7 @@ Relationships:
     -   Engagement risk scoring rule
     -   Engagement level risk rating
 -   The internal assessment component is an extension of the tiering assessment component.
--   The Control component is related to [[r_PolicyComplianceMgmt|Policy and Compliance Management]].
+-   The Control component is related to Policy and Compliance Management.
 -   The Risk component is related to Risk Management.
 -   The following components are Global:
     -   Vendor contact
@@ -104,7 +104,7 @@ The following table lists the roles that are required for the components in the 
 |sn\_vdr\_risk\_asmt.approver|Approve due diligence requests in the third-party risk management process.|
 |sn\_vdr\_risk\_asmt.contract\_negotiator|Work in the contract risk process stage of the onboarding process.|
 |sn\_vdr\_risk\_asmt.vendor\_assessment\_reviewer|Edit assessments.|
-|sn\_vdr\_risk\_asmt.vendor\_assessor|Manage third parties, third-party contacts, third-party [[risk-assessments|risk assessments]], and issues, and complete third-party risk assessment requests.|
+|sn\_vdr\_risk\_asmt.vendor\_assessor|Manage third parties, third-party contacts, third-party risk assessments, and issues, and complete third-party risk assessment requests.|
 |sn\_vdr\_risk\_asmt.vendor\_risk\_admin|Have full control over all vendor risk management data and assessment metric types.|
 |sn\_vdr\_risk\_asmt.vendor\_risk\_manager|Manage third parties, third-party contacts, third-party assessment templates, questionnaire templates, documentation request templates, and scheduled assessments.|
 
@@ -227,7 +227,7 @@ Relationships:
     -   Third party
     -   Vendor contact
 
-The following diagram shows the required roles, processes, and choices that are part of the [[tprm-workflow-in-workspace|due diligence workflow]].
+The following diagram shows the required roles, processes, and choices that are part of the due diligence workflow.
 
 \[Omitted image "tprm-ddw-data-model.png"\] Alt text: Work flow that shows the required roles, processes, and choices that exist as part of the due diligence workflow.
 
@@ -289,7 +289,7 @@ For more information on risk intelligence, see [Risk intelligence report request
 
 ## SAE TPRM data model
 
-The following model diagram shows the main tables that are used for [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] in TPRM.
+The following model diagram shows the main tables that are used for Smart Assessment Engine in TPRM.
 
 \[Omitted image "tprm-sae-data-model.png"\] Alt text: For a text description, refer to the text that follows.
 
@@ -326,11 +326,3 @@ The records, related lists, and relationships created when you collect SBOM data
 
 **Parent Topic:**[Third-party Risk Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-reference.md)
 
-## Related
-
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]
-- [[airc-assessment-templates|Assessment templates]]
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[risk-assessments|risk assessments]]
-- [[tprm-workflow-in-workspace|Due diligence workflow]]
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]

@@ -26,7 +26,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td><td>
 
-[Configure \[Omitted image "bus-optimize-manage.svg"\] Alt text: [[configure-payment-operations|Configure Financial Services Payment Operations]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-payment-operations/configure-payment-operations.md)
+[Configure \[Omitted image "bus-optimize-manage.svg"\] Alt text: Configure Financial Services Payment Operations.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-payment-operations/configure-payment-operations.md)
 
 </td><td>
 
@@ -46,7 +46,3 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[configure-payment-operations|Configure Financial Services Payment Operations]]

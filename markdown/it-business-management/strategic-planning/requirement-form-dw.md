@@ -14,7 +14,7 @@ breadcrumb: [Forms, Reference, Next Experience for Demand Management in Strategi
 
 # Create requirement form
 
-The [[requirement-form|requirement form]] information is used to create a requirement for a demand.
+The requirement form information is used to create a requirement for a demand.
 
 <table id="tbl_AddingRequirements"><thead><tr><th>
 
@@ -98,7 +98,3 @@ Detailed description of the requirement and any associated tasks. For example, d
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[requirement-form|Requirement form]]

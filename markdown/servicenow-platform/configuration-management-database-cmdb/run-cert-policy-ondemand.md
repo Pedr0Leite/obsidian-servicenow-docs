@@ -14,7 +14,7 @@ breadcrumb: [Data Certification, CMDB data management, Configuration Management 
 
 # Run a certification policy on-demand
 
-Run a certification policy in [[sg-workspace|Service Graph Workspace]] or in CMDB Workspace, when needed, regardless of the policy recurring schedule. A manual, on-demand run doesn't interfere with the policy's specified schedule.
+Run a certification policy in Service Graph Workspace or in CMDB Workspace, when needed, regardless of the policy recurring schedule. A manual, on-demand run doesn't interfere with the policy's specified schedule.
 
 ## Before you begin
 
@@ -38,6 +38,4 @@ Role required: sn\_cmdb\_admin
     -   In the Published policies tile, select the certification policy that you want to run and then, on the policy details page, select **Run Policy**.
 5.  In the Run Policy dialog box, select **Run**.
 
-## Related
 
-- [[sg-workspace|Service Graph Workspace]]

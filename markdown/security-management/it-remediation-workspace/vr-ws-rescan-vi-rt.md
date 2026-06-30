@@ -14,9 +14,9 @@ breadcrumb: [Use, IT Remediation Workspace, Vulnerability Response Workspaces, U
 
 # Rescan vulnerable items and remediation tasks in the IT Remediation Workspace
 
-Verify that your vulnerable items have been remediated between scheduled scanning cycles. Initiate rescans from the [[it-remediation-workspace-landing-page|IT Remediation Workspace]] in your ServiceNow AI Platform on-demand.
+Verify that your vulnerable items have been remediated between scheduled scanning cycles. Initiate rescans from the IT Remediation Workspace in your ServiceNow AI Platform on-demand.
 
-Rescans permit you to verify that your remediation activities, patches, and other actions have successfully fixed specific [[vulnerabilities|vulnerabilities]] on your configuration items \(CIs\).
+Rescans permit you to verify that your remediation activities, patches, and other actions have successfully fixed specific vulnerabilities on your configuration items \(CIs\).
 
 Rescan is supported for the following integrations in the IT Remediation Workspace. See the following topics for more information:
 
@@ -26,7 +26,3 @@ Rescan is supported for the following integrations in the IT Remediation Workspa
 
 Roles required: sn\_vul.remediation\_owner for the IT Remediation Workspace.
 
-## Related
-
-- [[it-remediation-workspace-landing-page|IT Remediation Workspace]]
-- [[vulnerabilities|Vulnerabilities]]

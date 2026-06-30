@@ -26,7 +26,7 @@ The different types of conflicts are as follows:
 
 You can also customize the list of validations that you want to run on a move request. You can add validations or change existing validations in the **WSDMoveRequestValidations** script include.
 
-**Parent Topic:**[[workplace-mov-mgmt-setup|Managing Workplace Move Management requests]]
+**Parent Topic:**[Managing Workplace Move Management requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-mov-mgmt-setup.md)
 
 **Related topics**  
 
@@ -41,6 +41,3 @@ You can also customize the list of validations that you want to run on a move re
 
 [Create a move-related knowledge base article]()
 
-## Related
-
-- [[workplace-mov-mgmt-setup|Managing Workplace Move Management requests]]

@@ -14,7 +14,7 @@ breadcrumb: [Collaborate with Docs, Use, Collaborative Work Management, Strategi
 
 # Manage pages and subpages in CWM Docs
 
-Flexibly organize information for your teams and work items by creating, duplicating, and deleting pages and subpages within a Doc in [[cwm-landing|Collaborative Work Management]] \(CWM\) workspace.
+Flexibly organize information for your teams and work items by creating, duplicating, and deleting pages and subpages within a Doc in Collaborative Work Management \(CWM\) workspace.
 
 ## Before you begin
 
@@ -55,6 +55,3 @@ Role required: sn\_cwm.cwm\_user
 
 **Parent Topic:**[Collaborative documentation using CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/cwm-docs.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

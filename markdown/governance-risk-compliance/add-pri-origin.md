@@ -12,7 +12,7 @@ breadcrumb: [Managing Operational vulnerability, Manage, Operational Resilience,
 
 # Add the primary origin
 
-Add a primary origin of an [[exploring-op-vul|operational vulnerability]] in its record. Once the primary origin of the operational vulnerability is specified, its upstream dependencies are automatically included in the impacted areas. It enables you to view the operational vulnerability from all affected perspectives. The source is automatically added as the primary origin on the **Primary origin** tab.
+Add a primary origin of an operational vulnerability in its record. Once the primary origin of the operational vulnerability is specified, its upstream dependencies are automatically included in the impacted areas. It enables you to view the operational vulnerability from all affected perspectives. The source is automatically added as the primary origin on the **Primary origin** tab.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: Analyst assigned to the operational vulnerability
 
 ## About this task
 
-Beginning with Release 20.1.x, the [[grc-opres-landing-page|Operational Resilience]] application supports the latest Common Service Data Model \(CSDM\). The enhanced functionality supports the roll up of the dependencies.
+Beginning with Release 20.1.x, the Operational Resilience application supports the latest Common Service Data Model \(CSDM\). The enhanced functionality supports the roll up of the dependencies.
 
 Consider the following example where the relationships are configured between objects.
 
@@ -78,7 +78,4 @@ If you have a business process BP1 as shown in the relationship diagram, it has 
 
     \[Omitted image "op-vul-pri-ori-view-progress.png"\] Alt text: Impacted areas.
 
-## Related
 
-- [[exploring-op-vul|Operational vulnerability]]
-- [[grc-opres-landing-page|Operational Resilience]]

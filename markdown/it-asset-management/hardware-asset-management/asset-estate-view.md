@@ -14,16 +14,16 @@ breadcrumb: [Hardware Asset Workspace, Explore, Hardware Asset Management, IT As
 
 # Asset estate view
 
-Use the [[asset-estate-view-am|Asset estate view]] in the [[using-ham-workspace|Hardware Asset Workspace]] to view the asset functions and notifications such as expiring assets, expiring lease [[c_Contracts|contracts]], and take appropriate actions.
+Use the Asset estate view in the Hardware Asset Workspace to view the asset functions and notifications such as expiring assets, expiring lease contracts, and take appropriate actions.
 
 \[Omitted image "asset-estate.png"\] Alt text: Asset estate view in Hardware asset workspace
 
-**Note:** The Software license tab is hidden when [[c_SoftwareAssetMgmt|Software Asset Management]] \(com.snc.software\_asset\_management\) or Software Asset Management Professional \(com.snc.pa.samp\) is active. You can view this Software license tab in [[sam-workspace|Software Asset Workspace]].
+**Note:** The Software license tab is hidden when Software Asset Management \(com.snc.software\_asset\_management\) or Software Asset Management Professional \(com.snc.pa.samp\) is active. You can view this Software license tab in Software Asset Workspace.
 
 |Widget or chart|Description|
 |---------------|-----------|
-|Hardware warranty expiration this year|Count of hardware and [[c_ReceiveAConsumableAsset|consumable assets]] that are expiring this current year.|
-|Lease contract expiration this year|Count of lease contract [[c_Models|models]] expiring this current year.|
+|Hardware warranty expiration this year|Count of hardware and consumable assets that are expiring this current year.|
+|Lease contract expiration this year|Count of lease contract models expiring this current year.|
 |Asset requests|Count of hardware, consumable, and bundle requests in the catalog.|
 |Refresh requests|Count of assets that are pending refresh.|
 |Asset lifecycle by state|Number of assets grouped by the life cycle state such as Retired, In use, In stock.|
@@ -45,12 +45,3 @@ The system property **sn\_itam\_workspace.asset\_estate\_enable\_lazy\_loading*
 
 \[Omitted image "ham-asset-estate-load.png"\] Alt text: Load reports on Asset estate view
 
-## Related
-
-- [[asset-estate-view-am|Asset estate view]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[c_Contracts|Contracts]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_ReceiveAConsumableAsset|Consumable assets]]
-- [[c_Models|Models]]

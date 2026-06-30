@@ -14,7 +14,7 @@ breadcrumb: [Create an event profile, Splunk Enterprise Event Ingestion integrat
 
 # Map alerts for the Splunk Enterprise Event Ingestion integration
 
-During the event field-[[mapping-logrhythm|mapping]] step, you map individual event fields from triggered alerts or imported event data to fields on a ServiceNow AI Platform [[sir-landing-page|Security Incident Response]] \(SIR\) security incident.
+During the event field-mapping step, you map individual event fields from triggered alerts or imported event data to fields on a ServiceNow AI Platform Security Incident Response \(SIR\) security incident.
 
 ## Before you begin
 
@@ -54,7 +54,7 @@ Create custom maps by adding or removing the fields on the mapping grid on the r
 
     2.  Navigate to the Search tab and enter a name for a search that has the event data that you want to export.
 
-        For example, [[threat-intelligence-malware|malware]] is a search term used for all malware events that you can forward with the workflow of this integration.
+        For example, malware is a search term used for all malware events that you can forward with the workflow of this integration.
 
     3.  Expand the event, and in the Field column, select the fields that you want to import.
 
@@ -102,9 +102,9 @@ Create custom maps by adding or removing the fields on the mapping grid on the r
 
         In the expanded list for the new field, some fields are shaded. In the following figure, `Category` has a gray background, because it has been mapped in the security incident. Similar to the color-coding for alert fields on the left side of the form, this color-coding for the security incident fields on the right helps you track the mapping.
 
-        \[Omitted image "214\_splunk\_map\_4.png"\] Alt text: [[location|Location]] field on choice list for new field.
+        \[Omitted image "214\_splunk\_map\_4.png"\] Alt text: Location field on choice list for new field.
 
-        **Note:** So that multiple [[c_Observables|observables]] can be displayed on the same security incident, the Observable field can be mapped multiple times with different values. Similarly, the Configuration Item and Work notes fields support multiple values. If you try to map two values to a field that cannot support multiple values, when you preview the incident, an error message is displayed that there is no value for the field. Similarly, if a field on a security incident has a list from which you can choose multiple options, and you try to map an option to that field that is not displayed on the list, the field is not populated on the security incident.
+        **Note:** So that multiple observables can be displayed on the same security incident, the Observable field can be mapped multiple times with different values. Similarly, the Configuration Item and Work notes fields support multiple values. If you try to map two values to a field that cannot support multiple values, when you preview the incident, an error message is displayed that there is no value for the field. Similarly, if a field on a security incident has a list from which you can choose multiple options, and you try to map an option to that field that is not displayed on the list, the field is not populated on the security incident.
 
     3.  Alternatively, type a value in the Search field for the new row.
 
@@ -236,10 +236,3 @@ The next step is to preview the values that you mapped on the security incident.
 
 **Parent Topic:**[Create and name an event profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/splunk-event-ingest-create-profile.md)
 
-## Related
-
-- [[mapping-logrhythm|Mapping]]
-- [[sir-landing-page|Security Incident Response]]
-- [[threat-intelligence-malware|Malware]]
-- [[location|Location]]
-- [[c_Observables|Observables]]

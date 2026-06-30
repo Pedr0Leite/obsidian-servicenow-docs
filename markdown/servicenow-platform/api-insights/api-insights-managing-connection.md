@@ -14,12 +14,8 @@ breadcrumb: [API Insights, Configuration Management Database \(CMDB\), Configura
 
 # Managing API data connections added for Service Graph Connectors in API Insights
 
-You can view the status of your API data connections, including success rates, processing status, and ongoing executions, and monitor the progress of connections added using [[cmdb-sgc-available|Service Graph Connectors]] in [[api-insights|API Insights]].
+You can view the status of your API data connections, including success rates, processing status, and ongoing executions, and monitor the progress of connections added using Service Graph Connectors in API Insights.
 
 -   [View the status of API data connections in API Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights-view-conn.md).
 -   [Monitor configuration progress of connections in API Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights-monitor-con.md).
 
-## Related
-
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[api-insights|API Insights]]

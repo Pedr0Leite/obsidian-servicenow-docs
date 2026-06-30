@@ -14,7 +14,7 @@ breadcrumb: [Agent Client Collector Monitoring default checks and policies, ACC-
 
 # Varnish default checks and policies
 
-[[acc-landing-page|Agent Client Collector]] provides the following default [[checks-policies|checks and policies]] for Varnish monitoring.
+Agent Client Collector provides the following default checks and policies for Varnish monitoring.
 
 <table id="table_bbw_1tt_f5b"><thead><tr><th>
 
@@ -46,7 +46,7 @@ app.varnish.metrics-varnish
 
 </td><td>
 
-Collects [[varnish-metrics|Varnish metrics]] from the host.
+Collects Varnish metrics from the host.
 
 </td><td>
 
@@ -85,8 +85,3 @@ hostname.MAIN_backend_req 0 1649420020
 </td></tr></tbody>
 </table>**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-policies-checks.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[checks-policies|Checks and policies]]
-- [[varnish-metrics|Varnish metrics]]

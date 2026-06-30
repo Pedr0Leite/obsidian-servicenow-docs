@@ -82,7 +82,7 @@ Related Item \[ngbsm\_related\_item\]
 
 </td><td>
 
-Stores which [[reference|reference]] fields should be treated as relationships when building the map. This allows users to include CI's that are related via a reference field instead of a relationship.
+Stores which reference fields should be treated as relationships when building the map. This allows users to include CI's that are related via a reference field instead of a relationship.
 
 </td></tr><tr><td>
 
@@ -158,7 +158,3 @@ CI attribute filters, limiting the CIs to be displayed, per predefined filter.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[reference|Reference]]

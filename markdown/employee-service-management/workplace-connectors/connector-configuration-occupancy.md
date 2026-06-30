@@ -26,7 +26,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-connectors-landing-page|Workplace Connectors]]** &gt; **Connector Configuration**.
+1.  Navigate to **All** &gt; **Workplace Connectors** &gt; **Connector Configuration**.
 
 2.  Select **New**.
 
@@ -84,6 +84,3 @@ Option to indicate the time \(in minutes\) beyond which occupancy data is consid
 
 **Next topic:**[Provider Connector Configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/provider-connector-config-occupancy.md)
 
-## Related
-
-- [[workplace-connectors-landing-page|Workplace Connectors]]

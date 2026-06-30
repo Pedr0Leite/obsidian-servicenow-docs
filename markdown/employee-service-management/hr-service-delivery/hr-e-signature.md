@@ -14,7 +14,7 @@ breadcrumb: [HR Documents, HR Service Delivery, Employee Service Management]
 
 # HR e-signature
 
-Sign electronic documents from any desktop or mobile device with e-signature. E-signature is a scoped application that enables users to sign managed documents, knowledge articles, or HR [[document-templates-overview|document templates]] with their typed or drawn e-signature, their credentials, or as an acknowledgment.
+Sign electronic documents from any desktop or mobile device with e-signature. E-signature is a scoped application that enables users to sign managed documents, knowledge articles, or HR document templates with their typed or drawn e-signature, their credentials, or as an acknowledgment.
 
 **Note:** Find answers to some common questions on E-signature. See this [KB0966931](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0966931).
 
@@ -54,14 +54,10 @@ For more information, see [Migrate existing HR task templates and open HR tasks 
 
 ## Activation information
 
-E-signature automatically activates when you activate [[case-knowledge-management-landing-page|Case and Knowledge Management]]. If it does not activate, you can manually [activate e-signature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/activate-e-signature.md). For information on what components install with the feature, see [Components installed with e-signature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/components-installed-with-e-signature.md).
+E-signature automatically activates when you activate Case and Knowledge Management. If it does not activate, you can manually [activate e-signature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/activate-e-signature.md). For information on what components install with the feature, see [Components installed with e-signature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/components-installed-with-e-signature.md).
 
 **Related topics**  
 
 
 [E-signature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/e-signature.md)
 
-## Related
-
-- [[document-templates-overview|Document Templates]]
-- [[case-knowledge-management-landing-page|Case and Knowledge Management]]

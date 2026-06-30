@@ -12,7 +12,7 @@ breadcrumb: [Quote Management, Configure, price, quote apps, Use, Sales Customer
 
 # Add covered products to a quote
 
-Add a covered product to line items in a quote in [[quote-management|Quote Management]].
+Add a covered product to line items in a quote in Quote Management.
 
 ## Before you begin
 
@@ -82,9 +82,5 @@ Add an install base item as a covered product.
     A contract is created with the contract details for the order line.
 
 
-**Parent Topic:**[[quote-mgmt-using|Using Quote Management]]
+**Parent Topic:**[Using Quote Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-mgmt-using.md)
 
-## Related
-
-- [[quote-mgmt-using|Using Quote Management]]
-- [[quote-management|Quote Management]]

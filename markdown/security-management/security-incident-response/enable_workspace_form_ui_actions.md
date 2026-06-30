@@ -16,9 +16,9 @@ breadcrumb: [Use, Security Incident Response Workspace, Security Incident Respon
 
 Following are the UI actions that are displayed on the security incident form.
 
-To navigate to the [[sir-new-ui-setup-form-uiaction|form UI actions]]:
+To navigate to the form UI actions:
 
-1.  Go to **Workspaces** &gt; **[[sir-workspace-landing-page|Security Incident Response Workspace]]**.
+1.  Go to **Workspaces** &gt; **Security Incident Response Workspace**.
 2.  Select any security incident from the list view.
 3.  All the UI actions are present in the top-right corner of the security incident form.
 
@@ -44,7 +44,7 @@ Create or start a sidebar discussion for the security incident.
 
 </td><td>
 
-Save or update the [[sir-landing-page|Security Incident Response]] record after making any changes.
+Save or update the Security Incident Response record after making any changes.
 
 </td></tr><tr><td>
 
@@ -52,7 +52,7 @@ Save or update the [[sir-landing-page|Security Incident Response]] record after 
 
 </td><td>
 
-[[create_response_task|Create a response task]] for the security incident.
+Create a response task for the security incident.
 
 </td></tr><tr><td>
 
@@ -124,7 +124,7 @@ Create an outage within the security incident.
 
 </td><td>
 
-[[calculate-si-severity|Calculate the severity of a security incident]] using predefined calculators. The severity is calculated based on the predefined rules in the calculators. The severity of an incident is based on the Risk score, Business Impact, and Priority.
+Calculate the severity of a security incident using predefined calculators. The severity is calculated based on the predefined rules in the calculators. The severity of an incident is based on the Risk score, Business Impact, and Priority.
 
 </td></tr><tr><td>
 
@@ -136,7 +136,7 @@ Select and run the EDR Profile for the required integration. **Note:** This opti
 
 </td></tr><tr><td>
 
-**[[link-si-msi|Link to Major Security Incident]]**
+**Link to Major Security Incident**
 
 </td><td>
 
@@ -160,7 +160,7 @@ Unlink from major security incident.
 
 </td></tr><tr><td>
 
-**[[propose-to-major-security-incident|Propose as Major Security Incident]]**
+**Propose as Major Security Incident**
 
 </td><td>
 
@@ -168,7 +168,7 @@ Propose a security incident as a major security incident.
 
 </td></tr><tr><td>
 
-**[[promote-to-major-security-incident|Promote to Major Security Incident]]**
+**Promote to Major Security Incident**
 
 </td><td>
 
@@ -254,7 +254,7 @@ Delete a security incident record.
 
 [Prerequisites for the Playbooks]()
 
-[Rebuilding existing [[tisc-playbooks-admin|playbooks]] in Workflow Studio]()
+[Rebuilding existing playbooks in Workflow Studio]()
 
 [Activity Definitions]()
 
@@ -266,14 +266,3 @@ Delete a security incident record.
 
 [Handle security incidents using Advanced Work Assignment]()
 
-## Related
-
-- [[sir-new-ui-setup-form-uiaction|Form UI actions]]
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[sir-landing-page|Security Incident Response]]
-- [[create_response_task|Create a Response Task]]
-- [[calculate-si-severity|Calculate the severity of a security incident]]
-- [[link-si-msi|Link to Major Security Incident]]
-- [[propose-to-major-security-incident|Propose as Major Security Incident]]
-- [[promote-to-major-security-incident|Promote to Major Security Incident]]
-- [[tisc-playbooks-admin|Playbooks]]

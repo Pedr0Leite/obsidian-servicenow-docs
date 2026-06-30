@@ -15,7 +15,7 @@ breadcrumb: [ITOM Content Service, ITOM Visibility, IT Operations Management]
 
 # Share data on ITOM Content Service
 
-Control data sharing by opting in or out of [[discovery-content-services|ITOM Content Service]] sharing options using the [[discovery-admin-workspace|Discovery Admin Workspace]].
+Control data sharing by opting in or out of ITOM Content Service sharing options using the Discovery Admin Workspace.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ To share Service Info, confirm that ITOM Content Service and Discovery Admin Wor
 -   ITOM Content Service \(at least version 1.6.2\)
 -   Discovery Admin Workspace \(at least version 1.11.0\)
 
-Role required: [[r-discovery|discovery]]\_admin
+Role required: discovery\_admin
 
 ## Procedure
 
@@ -100,8 +100,3 @@ ITOM Content Service stops using your data and your workspace presents only CIs 
 
 [ITOM Content Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/discovery-content-services.md)
 
-## Related
-
-- [[discovery-content-services|ITOM Content Service]]
-- [[discovery-admin-workspace|Discovery Admin Workspace]]
-- [[r-discovery|Discovery]]

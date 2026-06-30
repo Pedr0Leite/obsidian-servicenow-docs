@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-[[critical-updates|Customer Actions]] provides you step by step instructions for how to implement the changes on your instance to increase your security posture. Customer Actions pulls relevant content from the product documentation to guide you through each step of the implementation process. Follow the steps below to learn how to implement a Customer Action.
+Customer Actions provides you step by step instructions for how to implement the changes on your instance to increase your security posture. Customer Actions pulls relevant content from the product documentation to guide you through each step of the implementation process. Follow the steps below to learn how to implement a Customer Action.
 
 ## Procedure
 
@@ -53,6 +53,3 @@ Role required: admin
 
 **Parent Topic:**[Customer Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/critical-updates.md)
 
-## Related
-
-- [[critical-updates|Customer Actions]]

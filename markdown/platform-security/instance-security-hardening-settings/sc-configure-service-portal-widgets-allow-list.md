@@ -14,7 +14,7 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 # Configure Service Portal Widgets Allow List
 
-Learn how to configure the glide.service\_portal.widget.allow\_list property securely so that the [[sc-access-control|access control]] lists \(ACLs\) for the tables do not expose sensitive information.
+Learn how to configure the glide.service\_portal.widget.allow\_list property securely so that the access control lists \(ACLs\) for the tables do not expose sensitive information.
 
 The **glide.service\_portal.widget.allow\_list** system property determines the list of widgets that are allowed to attempt to access any table on the instance. ACLs for those tables will still be enforced. If there are misconfigured empty ACLs on tables on the instance, widgets in this list may allow access to those tables, leading to information disclosure. This property is only enforced if the widget makes use of SNCACLWidgetUtil, and the property **glide.service\_portal.widget.enforce\_public\_check** is set to '**true**.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -94,7 +94,7 @@ Security risk
 
 -   Severity score: 3.7
 -   CVSS score: Low
--   Security risk details: Unauthenticated [[users|users]] may gain unintended access to sensitive table data via Service Portal widgets, resulting in potential information disclosure.
+-   Security risk details: Unauthenticated users may gain unintended access to sensitive table data via Service Portal widgets, resulting in potential information disclosure.
 
 </td></tr><tr><td>
 
@@ -115,9 +115,3 @@ This property enables customers to access any table information if the widget is
 </td></tr></tbody>
 </table>**Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[sc-access-control|Access control]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]
-- [[users|Users]]

@@ -24,7 +24,7 @@ As a collaborator added to a legal matter, you can access and work on the legal 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Legal Request** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
 2.  In the Legal Counsel Center tab, select the list icon \[Omitted image "lsd-lcc-list-icon.png"\] Alt text:.
 
@@ -85,7 +85,7 @@ Search source
 
 </td><td>
 
-Source in which the digital evidence is to be investigated.One or more fields appear on the form based on the data source configuration. For more information, see [[configure-forensics-search-sources|Configure a data source for digital forensics]].
+Source in which the digital evidence is to be investigated.One or more fields appear on the form based on the data source configuration. For more information, see [Configure a data source for digital forensics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/configure-forensics-search-sources.md).
 
 </td></tr><tr><td>
 
@@ -141,13 +141,7 @@ Option for indicating that the custodian has been notified of the legal hold on 
 
 ## What to do next
 
-The assigned user can [[work-on-dft-matter-task|work on the matter task]] by following the instructions and completing the checklist items.
+The assigned user can [work on the matter task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/work-on-dft-matter-task.md) by following the instructions and completing the checklist items.
 
-**Parent Topic:**[[work-on-dft-legal-matter|Work on a digital forensic legal matter]]
+**Parent Topic:**[Work on a digital forensic legal matter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/work-on-dft-legal-matter.md)
 
-## Related
-
-- [[configure-forensics-search-sources|Configure a data source for digital forensics]]
-- [[work-on-dft-matter-task|Work on a task for a digital forensic legal matter]]
-- [[work-on-dft-legal-matter|Work on a digital forensic legal matter]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]

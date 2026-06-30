@@ -12,7 +12,7 @@ breadcrumb: [Using the Mobile App Builder, Mobile App Builder, Building tools, B
 
 # Create new records or select existing records from the categories home screen
 
-Select existing records or create new records in the [[mab-menu-screen|Mobile App Builder categories home screen]] to build your mobile app.
+Select existing records or create new records in the Mobile App Builder categories home screen to build your mobile app.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ For more information about the delegated developer role, see [Delegated developm
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
 2.  In the Mobile App Builder application scope selection screen, search and select the name of your application scope.
 
@@ -33,11 +33,5 @@ For more information about the delegated developer role, see [Delegated developm
 
 ## Result
 
-After you either select the **New** button or select an existing record, the [[mab-workspace|Mobile App Builder record screen]] opens. If you select **New**, the [[form-screen|record screen]] displays a record without any of the fields completed. Whereas if you select an existing record, predefined data is displayed for you to edit.
+After you either select the **New** button or select an existing record, the Mobile App Builder record screen opens. If you select **New**, the record screen displays a record without any of the fields completed. Whereas if you select an existing record, predefined data is displayed for you to edit.
 
-## Related
-
-- [[mab-menu-screen|Mobile App Builder categories home screen]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-workspace|Mobile App Builder record screen]]
-- [[form-screen|Record screen]]

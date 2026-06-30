@@ -18,7 +18,7 @@ Allow recipients to opt out of receiving text messages.
 
 ## Before you begin
 
-Role required: [[notify-landing-page|notify]]\_setup\_admin, notify\_admin
+Role required: notify\_setup\_admin, notify\_admin
 
 ## About this task
 
@@ -132,6 +132,3 @@ A customized confirmation message to send to customers when they opt in to recei
 
 **Parent Topic:**[Configuring Notify](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/configuring-notify.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]

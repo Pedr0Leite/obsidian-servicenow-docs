@@ -14,7 +14,7 @@ breadcrumb: [Attribute pack for CI records, Use, Telecommunications Network Inve
 
 # Review and update a pack for a CI record
 
-Review and update the attributes that you've defined in the pack table for a configuration item \(CI\) record in the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+Review and update the attributes that you've defined in the pack table for a configuration item \(CI\) record in the Telecommunications Network Inventory application.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_ni\_core.inventory\_agent
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then open the inventory record where you want to update the pack table attributes.
 
@@ -42,7 +42,3 @@ Role required: sn\_ni\_core.inventory\_agent
 
 [Use an attribute pack in the CI record]()
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]

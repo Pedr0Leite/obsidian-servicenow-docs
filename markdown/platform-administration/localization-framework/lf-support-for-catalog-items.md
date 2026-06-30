@@ -14,7 +14,7 @@ breadcrumb: [Explore Localization Framework, Localization Framework, Translation
 
 # Localization Framework support for Service Catalog items
 
-[[localization-framework-landing|Localization Framework]] enables translation of Service Catalog items when a catalog item is requested for translation into a language and a [[ia-localization-il|localization]] requested item \(LRITM\) is created.
+Localization Framework enables translation of Service Catalog items when a catalog item is requested for translation into a language and a localization requested item \(LRITM\) is created.
 
 ## Localizing Service Catalog items
 
@@ -25,21 +25,15 @@ You can do the following tasks in Localization Framework for translating the Ser
 -   Translate the content of the Service Catalog items directly using the edit translations option.
 -   Read, edit, and machine translate the content, send the content to TMS, send the content via email, export, and import the content of the Service Catalog item.
 
-    **Note:** Activate the [[dynamic-translation|Dynamic Translation]] plugin \(com.glide.dynamic\_translation\) to use machine translation in Localization Framework.
+    **Note:** Activate the Dynamic Translation plugin \(com.glide.dynamic\_translation\) to use machine translation in Localization Framework.
 
 -   Approve and publish the translated content.
 -   Monitor the overall localization health of the Service Catalog items from the [Localization Insights dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/localization-insights-dashboard.md).
 
-To [[language-picker-ui|request translations]] for a catalog item, see [Request translations for Service Catalog items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/request-translations-multiple-items.md).
+To request translations for a catalog item, see [Request translations for Service Catalog items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/request-translations-multiple-items.md).
 
 -   **[Localization Framework support for catalog builder in Service Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/lf-support-for-catalog-builder.md)**  
 Localization Framework enables translation of Service Catalog items directly from the catalog builder dashboard in Service Catalog.
 
 **Parent Topic:**[Explore Localization Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/exploring-localization-framework.md)
 
-## Related
-
-- [[localization-framework-landing|Localization Framework]]
-- [[ia-localization-il|Localization]]
-- [[dynamic-translation|Dynamic translation]]
-- [[language-picker-ui|Request translations]]

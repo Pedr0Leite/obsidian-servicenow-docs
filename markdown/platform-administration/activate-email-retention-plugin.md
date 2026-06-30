@@ -12,7 +12,7 @@ breadcrumb: [Multilingual email notifications, Email and SMS notifications, Syst
 
 # Activate Translated Email Retention
 
-You can activate the Translated [[email-retention|Email Retention]] plugin \(com.glide.email\_retention.translation\) for [[notifications|Notifications]] if you have the admin role.
+You can activate the Translated Email Retention plugin \(com.glide.email\_retention.translation\) for Notifications if you have the admin role.
 
 ## Before you begin
 
@@ -30,10 +30,6 @@ Role required: admin
 
     **Note:** When domain separation and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
 
-    You will see a message after installation is completed. For information about the components installed with a plugin, see [[find-components|Find components installed with an application]].
+    You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
-## Related
 
-- [[find-components|Find components installed with an application]]
-- [[email-retention|Email retention]]
-- [[notifications|Notifications]]

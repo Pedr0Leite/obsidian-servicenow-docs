@@ -12,7 +12,7 @@ breadcrumb: [Repair claim, MCO core, Explore, Manufacturing Commercial Operation
 
 # Repair claim review and approval use case
 
-Use case scenarios demonstrate when and how to use the [[mco-use-repair-claim|repair claim]] application to review and approve the claims. It provides practical examples of common repair or warranty management situations.
+Use case scenarios demonstrate when and how to use the repair claim application to review and approve the claims. It provides practical examples of common repair or warranty management situations.
 
 ## Use case: Repair claim review and approval
 
@@ -54,6 +54,3 @@ Outcome
 
 Angela successfully reviews and approves the warranty claim after James provides missing documentation. The line-level approval capability, automated amount population, and transparent feedback loop reduce processing time and improve decision accuracy, ensuring fair and timely claim resolution.
 
-## Related
-
-- [[mco-use-repair-claim|Repair claim]]

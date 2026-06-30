@@ -21,8 +21,5 @@ The Cause action plan form enables you to add the cause action details for a rem
 |Short description|Brief description of the issue cause.|
 |Description|Detailed description of the issue cause.|
 
-**Parent Topic:**[[mco-qim-form|Quality issue management form]]
+**Parent Topic:**[Quality issue management form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-qim-form.md)
 
-## Related
-
-- [[mco-qim-form|Quality issue management form]]

@@ -14,7 +14,7 @@ breadcrumb: [Create report, CMDB Query Builder, Configuration Management Databas
 
 # Create a dynamic report
 
-After running a saved query in the [[cmdb-query-builder-landing-page|CMDB Query Builder]], create a dynamic report that continuously updates to show the latest query results. You can use a dynamic report as any other report created using Reporting and you can add it to Performance Analytics dashboards.
+After running a saved query in the CMDB Query Builder, create a dynamic report that continuously updates to show the latest query results. You can use a dynamic report as any other report created using Reporting and you can add it to Performance Analytics dashboards.
 
 ## Before you begin
 
@@ -77,6 +77,3 @@ Use either of the following steps to view the new report source. The name of the
 -   In Query Builder, click **Saved Queries**. In the Saved Queries window, click the **Query Information** icon in the tile of the saved query. Scroll to the bottom of the information list and then click the link under **Report source**.
 -   Navigate to **All** &gt; **Reports** &gt; **Administration** &gt; **Report Sources** and locate the new report source.
 
-## Related
-
-- [[cmdb-query-builder-landing-page|CMDB Query Builder]]

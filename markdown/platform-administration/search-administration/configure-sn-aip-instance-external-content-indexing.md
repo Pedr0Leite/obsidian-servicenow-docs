@@ -15,7 +15,7 @@ breadcrumb: [ServiceNow instance external content connector, Configure, External
 
 # Configure your ServiceNow AI Platform instance for external content indexing
 
-Create and configure a non-interactive service user account on your ServiceNow AI Platform® source instance to allow access by the [[servicenow-instance-external-content-connector|ServiceNow instance external content connector]].
+Create and configure a non-interactive service user account on your ServiceNow AI Platform® source instance to allow access by the ServiceNow instance external content connector.
 
 ## Before you begin
 
@@ -55,9 +55,9 @@ Perform all of these steps on the ServiceNow AI Platform instance that you want 
 
 4.  On your source instance, create a new custom role in the Global application scope.
 
-    1.  Select the Global application scope, following the steps from [[t_SelectAnAppFromTheAppPicker|Select an application from the application picker]].
+    1.  Select the Global application scope, following the steps from [Select an application from the application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_SelectAnAppFromTheAppPicker.md).
 
-    2.  Navigate to **All** &gt; **[[c_UserAdministration|User Administration]]** &gt; **Roles**.
+    2.  Navigate to **All** &gt; **User Administration** &gt; **Roles**.
 
     3.  Select **New**.
 
@@ -178,8 +178,3 @@ For details on creating and configuring a ServiceNow instance external content c
 
 **Parent Topic:**[ServiceNow instance external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/servicenow-instance-external-content-connector.md)
 
-## Related
-
-- [[t_SelectAnAppFromTheAppPicker|Select an application from the application picker]]
-- [[servicenow-instance-external-content-connector|ServiceNow instance external content connector]]
-- [[c_UserAdministration|User administration]]

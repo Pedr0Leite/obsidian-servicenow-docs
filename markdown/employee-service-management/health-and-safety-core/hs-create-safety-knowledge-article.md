@@ -14,7 +14,7 @@ breadcrumb: [Manage safety knowledge articles, Use, Health and Safety Core, Heal
 
 # Create a Health and Safety knowledge article
 
-Create a safety-related knowledge article in the [[health-safety-core-workspace|Health and Safety Workspace]] to share information across your organization.
+Create a safety-related knowledge article in the Health and Safety Workspace to share information across your organization.
 
 ## Before you begin
 
@@ -68,6 +68,3 @@ The knowledge article appears in a **Knowledge** list under **Configuration**:
 
 **Parent Topic:**[Managing safety knowledge articles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/hs-managing-safety-knowledge-articles.md)
 
-## Related
-
-- [[health-safety-core-workspace|Health and Safety Workspace]]

@@ -12,12 +12,7 @@ breadcrumb: [Dealer management, Use, Manufacturing Commercial Operations]
 
 # Repair claim for the dealer
 
-The [[mco-dealer-portal|dealer portal]] enables the dealers to raise a claim request for the repair work that was performed for a product. The repair could have been done either under warranty or after the recall of the product.
+The dealer portal enables the dealers to raise a claim request for the repair work that was performed for a product. The repair could have been done either under warranty or after the recall of the product.
 
-You can perform the [[mco-submit-repair-claim|Submit a repair claim for warranty]] task for [[mco-use-repair-claim|repair claim]] on the dealer portal:
+You can perform the [Submit a repair claim for warranty](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-submit-repair-claim.md) task for repair claim on the dealer portal:
 
-## Related
-
-- [[mco-submit-repair-claim|Submit a repair claim for warranty]]
-- [[mco-dealer-portal|Dealer portal]]
-- [[mco-use-repair-claim|Repair claim]]

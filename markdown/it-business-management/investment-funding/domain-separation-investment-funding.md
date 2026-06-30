@@ -14,7 +14,7 @@ breadcrumb: [Investment Funding, Strategic Portfolio Management]
 
 # Domain separation and Investment Funding
 
-Domain separation is supported in [[investment-funding-overview|Investment Funding]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported in Investment Funding. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic
 
@@ -48,6 +48,3 @@ When a user in a parent domain accesses the financials of a project in a child d
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[investment-funding-overview|Investment Funding]]

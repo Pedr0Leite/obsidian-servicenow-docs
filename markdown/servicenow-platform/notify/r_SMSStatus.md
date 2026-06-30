@@ -14,7 +14,7 @@ breadcrumb: [Using Notify with SMS, Using Notify, Notify, Manage service capabil
 
 # SMS Statuses
 
-Every Twilio SMS message request has a status value which describes the current state of the message. Use this information for troubleshooting SMS related incidents/ issues. Here are few descriptions of possible statuses of SMS sent from [[notify-landing-page|Notify]] through Twilio REST API.
+Every Twilio SMS message request has a status value which describes the current state of the message. Use this information for troubleshooting SMS related incidents/ issues. Here are few descriptions of possible statuses of SMS sent from Notify through Twilio REST API.
 
 <table id="table_yv2_51g_xfb"><thead><tr><th align="left">
 
@@ -107,6 +107,3 @@ The driver does not support the status
 </td></tr></tbody>
 </table>**Parent Topic:**[Using Notify with SMS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/c_NotifySMS.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]

@@ -12,11 +12,11 @@ breadcrumb: [Platform Analytics Migration Center, Platform Analytics experience,
 
 # Roll back migrated dashboards
 
-Convert a migrated [[c_performanceAnalyticsAndReporting|Platform Analytics]] dashboard back to a Core UI dashboard.
+Convert a migrated Platform Analytics dashboard back to a Core UI dashboard.
 
 ## About this task
 
-You can return unchanged Platform Analytics dashboards to the Core UI format, but the content is iframed. This is useful when a dashboard has custom charts, custom content blocks, or [[c_CustomPublishers|custom interactive filters]].
+You can return unchanged Platform Analytics dashboards to the Core UI format, but the content is iframed. This is useful when a dashboard has custom charts, custom content blocks, or custom interactive filters.
 
 **Note:** It is not possible to roll back dashboards created in UI Builder \(also known as technical or advanced dashboards\).
 
@@ -30,18 +30,12 @@ Role required: dashboard\_admin
 
 2.  Check one or more boxes next to the names of dashboards on the list.
 
-    [[technical-dashboards|Technical dashboards]] are identified with the phrase Advanced Dashboards in the Experience column. You cannot roll these back to Core UI dashboards.
+    Technical dashboards are identified with the phrase Advanced Dashboards in the Experience column. You cannot roll these back to Core UI dashboards.
 
 3.  Select Rollback from the **Action on selected rows** menu.
 
 
 ## Result
 
-The version of the rolled back dashboard that is shown as **Active** in the Dashboard library is the Core UI version, not the version of the dashboard migrated to [[par-workspace|Platform Analytics experience]] version.
+The version of the rolled back dashboard that is shown as **Active** in the Dashboard library is the Core UI version, not the version of the dashboard migrated to Platform Analytics experience version.
 
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[c_CustomPublishers|Custom interactive filters]]
-- [[technical-dashboards|Technical dashboards]]
-- [[par-workspace|Platform Analytics experience]]

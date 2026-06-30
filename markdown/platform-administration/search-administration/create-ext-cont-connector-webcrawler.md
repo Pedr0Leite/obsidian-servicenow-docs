@@ -29,7 +29,7 @@ By default, you can configure up to three Webcrawler connectors for custom web s
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ext-cont-connectors-landing-page|External Content Connectors]]** &gt; **External Content Admin Home**.
+1.  Navigate to **All** &gt; **External Content Connectors** &gt; **External Content Admin Home**.
 
 2.  If prompted, select **Switch scope** to switch to the External Content Connectors Admin scope.
 
@@ -44,7 +44,7 @@ By default, you can configure up to three Webcrawler connectors for custom web s
     -   To retrieve searchable content from a web source in the list of predefined web sources, select the **Predefined web source** tile, then select your desired web source from the list.
     -   To retrieve searchable content from a public web source not included in the list, select the **Custom web source** tile. Enter a name for the connector and the URL for your selected web source, then select the legal disclaimer option.
 
-        **Note:** If you select this option, content crawls for the [[webcrawler-external-content-connector|Webcrawler external content connector]] retrieve content and links from URLs found in the source system's sitemaps that include the specified start point URL. The connector reads matching URLs from all sitemaps referenced in the source system's `robots.txt` file and all sitemaps located in common sitemap locations.
+        **Note:** If you select this option, content crawls for the Webcrawler external content connector retrieve content and links from URLs found in the source system's sitemaps that include the specified start point URL. The connector reads matching URLs from all sitemaps referenced in the source system's `robots.txt` file and all sitemaps located in common sitemap locations.
 
         As an example, suppose you select the **Use sitemap** option and then specify `https://example.com/mysite` as the start point URL for a content crawl. When you run the content crawl, the Webcrawler connector retrieves content and links from sitemap URLs that include `https://example.com/mysite`. In this case, the connector retrieves content and links from sitemap URLs `https://example.com/mysite/a` and `https://example.com/mysite/b` but ignores sitemap URLs `https://example.com/othersite/c` and `https://example.com/yoursite/d` because they don't include the start point URL.
 
@@ -90,15 +90,10 @@ To make content crawled by your new connector searchable in portals and search a
 
 -   **Custom search sources**
 
-    You can create your own search sources with filters to specify which content from the connector's indexed source is searchable. To view the connector's indexed source, navigate to **All** &gt; **[[ia-ai-search|AI Search]]** &gt; **AI Search Index** &gt; **Indexed Sources**. For information about creating search sources, see [Search sources in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/search-sources-ais.md).
+    You can create your own search sources with filters to specify which content from the connector's indexed source is searchable. To view the connector's indexed source, navigate to **All** &gt; **AI Search** &gt; **AI Search Index** &gt; **Indexed Sources**. For information about creating search sources, see [Search sources in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/search-sources-ais.md).
 
 
 You can link connector search sources to search profiles from the External Content Admin Home page. For details on this procedure, see [Connect an external content connector to a search profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/connect-external-content-connector-search-profile.md).
 
 **Parent Topic:**[Webcrawler external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/webcrawler-external-content-connector.md)
 
-## Related
-
-- [[ext-cont-connectors-landing-page|External Content Connectors]]
-- [[webcrawler-external-content-connector|Webcrawler external content connector]]
-- [[ia-ai-search|AI Search]]

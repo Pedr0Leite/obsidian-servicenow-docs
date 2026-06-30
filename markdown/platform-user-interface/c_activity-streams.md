@@ -12,17 +12,17 @@ breadcrumb: [Common UI elements, Working in Core UI, Configure UIs and portals, 
 
 # Activity streams
 
-An [[activity-stream-configurable-workspace|activity stream]] is a list of entries in records and conversations, such as journal fields, comments, and work notes that display in task records and Sidebar conversations. Activity streams are available [[c_UI16|Core UI]].
+An activity stream is a list of entries in records and conversations, such as journal fields, comments, and work notes that display in task records and Sidebar conversations. Activity streams are available Core UI.
 
 The three types of activity streams are as follows:
 
 -   **List activity stream**
 
-    Streams live activity information for all records on the current list. For more information, see [[c_DisplayActivityStreams|Activity streams in list view]]. You can click an item to open the record activity stream without opening the record.
+    Streams live activity information for all records on the current list. For more information, see [Activity streams in list view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_DisplayActivityStreams.md). You can click an item to open the record activity stream without opening the record.
 
 -   **Record activity stream**
 
-    Appears in [[form-configurable-workspace|forms]] that are configured with the [activity formatter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ActivityFormatter.md) . You can customize the activities to include in this type of stream.
+    Appears in forms that are configured with the [activity formatter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ActivityFormatter.md) . You can customize the activities to include in this type of stream.
 
     When you follow a record to view it in the Connect Chat interface, the conversation contains the same information as the record activity stream. Comments that are entered in the Connect Chat window update the record activity stream.
 
@@ -33,7 +33,7 @@ The three types of activity streams are as follows:
 
 ## Attachments and images
 
-You can add and preview [[attachments-configurable-workspace|attachments]] and images in the activity stream by doing the following actions:
+You can add and preview attachments and images in the activity stream by doing the following actions:
 
 -   Paste an image into a journal field and enter the inline text.
 -   Click an attachment to preview it. Use the download option to download the attachment locally.
@@ -66,13 +66,5 @@ You can filter out emails in the activity stream, for example, auto-generated an
 
 **Note:** The activity stream displays either a user's first and last name or their user name/user id, depending on the system property **glide.ui.activity.displayname**. It is possible that old entries in the activity stream will display a different user name/user id for the same user, if the value has changed. For more information, see [KB1706641](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1706641).
 
-**Parent Topic:**[[p_CommonUIElements|Common UI elements]]
+**Parent Topic:**[Common UI elements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/p_CommonUIElements.md)
 
-## Related
-
-- [[c_DisplayActivityStreams|Activity streams in list view]]
-- [[p_CommonUIElements|Common UI elements]]
-- [[activity-stream-configurable-workspace|Activity stream]]
-- [[c_UI16|Core UI]]
-- [[form-configurable-workspace|Forms]]
-- [[attachments-configurable-workspace|Attachments]]

@@ -15,7 +15,7 @@ breadcrumb: [AI governance life cycle, Explore, AI Risk and Compliance, Governan
 
 # Risk assessment methodologies
 
-The [[ai-risk-and-compliance|AI Risk and Compliance]] application uses risk assessment methodologies \(RAMs\) to define the scoring frameworks and classification criteria used during [[risk-assessments|risk assessments]].
+The AI Risk and Compliance application uses risk assessment methodologies \(RAMs\) to define the scoring frameworks and classification criteria used during risk assessments.
 
 ## Risk assessment methodologies overview
 
@@ -23,7 +23,7 @@ RAMs define the scoring frameworks and classification criteria used during risk 
 
 ## Risk assessment methodologies
 
-Risk assessment methodologies \(RAMs\) define the scoring frameworks, classification criteria, and contributing [[factors|factors]] used to evaluate risks associated with [[ai-assets-airc|AI assets]].
+Risk assessment methodologies \(RAMs\) define the scoring frameworks, classification criteria, and contributing factors used to evaluate risks associated with AI assets.
 
 RAMs are used during intake, asset-level risk assessments, and bulk risk assessment projects. The content pack provides default RAMs, and administrators can create custom RAMs to meet organizational requirements.
 
@@ -49,7 +49,7 @@ Risk classification for AI system
 
 </td><td>
 
-[[ai-system-airc|AI systems]]
+AI systems
 
 </td><td>
 
@@ -83,7 +83,7 @@ Risk assessment for AI inventory
 
 </td><td>
 
-AI systems, models, [[dataset-airc|datasets]]
+AI systems, models, datasets
 
 </td><td>
 
@@ -101,7 +101,7 @@ Risk classification for AI model or dataset
 
 </td><td>
 
-[[ai-model-airc|AI models]], datasets
+AI models, datasets
 
 </td><td>
 
@@ -138,7 +138,7 @@ For more information, see [Set up AI Risk and Compliance properties](https://raw
 
 Automated Risk Classification connects intake screening, assessments, and risk evaluation into a single governance flow. Information captured during the intake request, specifically responses provided by the Product Owner in the Use and Purpose section, is reused across subsequent assessments and contributes directly to how AI systems are classified as High, Medium, or Low risk.
 
-[[airc-assessment-templates|Assessment templates]], RAMs, and Post Assessment Actions work together to help ensure that qualitative context, regulatory impact, and quantitative risk scoring are consistently applied throughout the [[ai-gov-lifecycle|AI governance life cycle]].
+Assessment templates, RAMs, and Post Assessment Actions work together to help ensure that qualitative context, regulatory impact, and quantitative risk scoring are consistently applied throughout the AI governance life cycle.
 
 A typical assessment sequence for an AI system demonstrates how these components are interconnected:
 
@@ -153,14 +153,3 @@ Throughout this progression, assessment outcomes and risk scores inform governan
 
 **Note:** Automated risk classification provides early risk context only. It doesn't approve deployment, initiate life-cycle workflows, or replace downstream impact or risk assessments.
 
-## Related
-
-- [[ai-risk-and-compliance|AI Risk and Compliance]]
-- [[risk-assessments|risk assessments]]
-- [[factors|factors]]
-- [[ai-assets-airc|AI assets]]
-- [[ai-system-airc|AI systems]]
-- [[dataset-airc|Datasets]]
-- [[ai-model-airc|AI models]]
-- [[airc-assessment-templates|Assessment templates]]
-- [[ai-gov-lifecycle|AI governance life cycle]]

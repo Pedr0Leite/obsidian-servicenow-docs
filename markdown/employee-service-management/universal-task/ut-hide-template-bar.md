@@ -14,7 +14,7 @@ breadcrumb: [Configuring your service, Setting up and configuring Universal Task
 
 # Hide the template bar on the Universal Task form
 
-Hide the template bar for the [[universal-task-form|Universal Task form]] because it does not include [[ut-task-template-landing|Universal Task templates]].
+Hide the template bar for the Universal Task form because it does not include Universal Task templates.
 
 ## Before you begin
 
@@ -47,7 +47,3 @@ Role required: admin
 
 **Next topic:**[Remove the Universal Task admin role from the admin role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/ut-remove-admin-role.md)
 
-## Related
-
-- [[universal-task-form|Universal Task form]]
-- [[ut-task-template-landing|Universal Task templates]]

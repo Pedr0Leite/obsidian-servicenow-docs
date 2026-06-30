@@ -12,24 +12,16 @@ breadcrumb: [Use, Manufacturing Commercial Operations]
 
 # Additional workflows
 
-Additional workflows installed with the [[manufacturing-overview|Manufacturing Commercial Operations]].
+Additional workflows installed with the Manufacturing Commercial Operations.
 
--   **[[mco-use-cust-ser-mgmt|Customer Service Management for MCO]]**  
+-   **[Customer Service Management for MCO](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-use-cust-ser-mgmt.md)**  
 Agents and managers can use Customer Service Management application to create cases for customers, route cases to agents with the required skills and availability, manage customer information and case activity, and connect with other applications and departments to assist with case resolution.
--   **[[mco-som-using|Order Management]]**  
+-   **[Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-som-using.md)**  
 The Order Management application for Manufacturing Commercial Operations creates a seamless ordering experience for your manufacturing customers.
--   **[[mco-using-servicebridge-manufacturers|Service Exchange for Providers]]**  
+-   **[Service Exchange for Providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-using-servicebridge-manufacturers.md)**  
 As a manufacturer using Service Exchange for Providers in Manufacturing Commercial Operations, learn how to use Service Bridge to submit requests from the service catalog, and track order fulfillment from your ServiceNow® instances.
--   **[[using-servicebridge-mf-cons|Service Exchange for Consumers]]**  
+-   **[Service Exchange for Consumers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/using-servicebridge-mf-cons.md)**  
 As a manufacturer using Service Exchange for Consumers in Manufacturing Commercial Operations, learn how your consumers can use Manufacturing Commercial Operations with Service Bridge to submit requests from the service catalog, all from your ServiceNow® instance.
 
-**Parent Topic:**[[manufacturing-using|Using Manufacturing Commercial Operations]]
+**Parent Topic:**[Using Manufacturing Commercial Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/manufacturing-using.md)
 
-## Related
-
-- [[mco-use-cust-ser-mgmt|Customer Service Management for MCO]]
-- [[mco-som-using|Order Management]]
-- [[mco-using-servicebridge-manufacturers|Service Exchange for Providers]]
-- [[using-servicebridge-mf-cons|Service Exchange for Consumers]]
-- [[manufacturing-using|Using Manufacturing Commercial Operations]]
-- [[manufacturing-overview|Manufacturing Commercial Operations]]

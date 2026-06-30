@@ -14,7 +14,7 @@ breadcrumb: [Using Sourcing Pipeline Management, Use, Sourcing and Procurement O
 
 # Report savings when awarding a supplier
 
-When awarding a [[supplier|supplier]], enter the spend and savings data for the sourcing event associated with the pipeline project.
+When awarding a supplier, enter the spend and savings data for the sourcing event associated with the pipeline project.
 
 ## Before you begin
 
@@ -22,15 +22,15 @@ Role required: sn\_spend\_pipeline.pipeline\_management\_admin
 
 ## About this task
 
-The sourcing event that you plan to work on, and all its associated [[negotiations|negotiations]], sourcing requests, and [[purchase-lines|purchase lines]] must be in the Requires Decision state. When negotiations are complete for a sourcing event, you can award one or more suppliers. Awarding suppliers creates purchase requisitions for the selected suppliers and items.
+The sourcing event that you plan to work on, and all its associated negotiations, sourcing requests, and purchase lines must be in the Requires Decision state. When negotiations are complete for a sourcing event, you can award one or more suppliers. Awarding suppliers creates purchase requisitions for the selected suppliers and items.
 
 ## Procedure
 
-1.  Navigate to **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **Source-to-Pay Workspace**.
 
 2.  Select the list icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon.\) and do one of the following:
 
-    -   Navigate to **Lists** &gt; **My work** &gt; **[[negotiation-events|Sourcing events]]**.
+    -   Navigate to **Lists** &gt; **My work** &gt; **Sourcing events**.
     -   Navigate to **Lists** &gt; **All work** &gt; **Sourcing events**.
 3.  Open the sourcing event that is in Requires Decision state.
 
@@ -50,7 +50,7 @@ The sourcing event that you plan to work on, and all its associated [[negotiatio
 
     **Note:** The Review financials modal is displayed only if the sourcing event is associated with a pipeline project.
 
-    The **Hard savings** field is auto-populated and displays the cumulative savings from all sourcing events associated with the pipeline project. This value is calculated by summing the Negotiated savings from all closed [[purchase-requisition|purchase requisition]] lines \(PRLs\) within the sourcing events.
+    The **Hard savings** field is auto-populated and displays the cumulative savings from all sourcing events associated with the pipeline project. This value is calculated by summing the Negotiated savings from all closed purchase requisition lines \(PRLs\) within the sourcing events.
 
     You can edit the **Hard savings** field if you’d like. If you edit the **Hard savings** field, a warning message appears indicating that the entered value differs from the cumulative negotiated savings on PRLs. This warning is shown only if there are negotiated savings on any PRL.
 
@@ -59,11 +59,3 @@ The sourcing event that you plan to work on, and all its associated [[negotiatio
 
 **Parent Topic:**[Using Sourcing Pipeline Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/use-pipeline-sourcing-mgmt.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[negotiations|Negotiations]]
-- [[purchase-lines|Purchase lines]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[negotiation-events|Sourcing events]]
-- [[purchase-requisition|Purchase requisition]]

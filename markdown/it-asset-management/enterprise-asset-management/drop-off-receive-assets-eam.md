@@ -16,9 +16,9 @@ breadcrumb: [Managing work orders for your enterprise assets, Enterprise Asset M
 
 As an enterprise asset technician, manage the delivery of enterprise assets that you have in your personal stockroom to any other warehouse stockroom by creating Drop off tasks. The asset manager of the destination stockroom receives the assets that you dropped off, verifies the asset, and completes the Receive and Drop off tasks.
 
-You can drop off enterprise assets that aren't reserved and not part of any [[enterprise-asset-management|Enterprise Asset Management]] workflows.
+You can drop off enterprise assets that aren't reserved and not part of any Enterprise Asset Management workflows.
 
-As an enterprise asset technician, you can create drop off tasks in the [[using-eam-workspace|Enterprise Asset Workspace]] or through the Mobile Agent application.
+As an enterprise asset technician, you can create drop off tasks in the Enterprise Asset Workspace or through the Mobile Agent application.
 
 You should perform the following tasks to deliver assets to any stockroom:
 
@@ -83,13 +83,7 @@ Add enterprise assets to a Drop off task and deliver the assets to the required 
 -   **[Verify the enterprise assets received through a Drop off task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/verify-assets-eam-receive.md)**  
 As an asset manager, confirm that you received the enterprise assets that were delivered to your stockroom and complete the Receive task.
 -   **[Record time worked on Drop off and Receive tasks for enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/record-time-drop-receive.md)**  
-Manage and record time worked on Drop off and [[receive-rma-asset|Receive asset]] tasks in the Enterprise Asset Workspace. After you start work on a task, you can pause and resume work. You can also record the time worked manually.
+Manage and record time worked on Drop off and Receive asset tasks in the Enterprise Asset Workspace. After you start work on a task, you can pause and resume work. You can also record the time worked manually.
 
-**Parent Topic:**[[it-asset-management|IT Asset Management]]
+**Parent Topic:**[IT Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/it-asset-management.md)
 
-## Related
-
-- [[it-asset-management|IT Asset Management]]
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[receive-rma-asset|Receive asset]]

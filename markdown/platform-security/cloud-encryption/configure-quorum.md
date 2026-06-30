@@ -22,11 +22,11 @@ Roles required: sn\_kmf.admin
 
 ## About this task
 
-**Warning:** You must sign a legal addendum to activate the key withdrawal functionality. The [[quorum-ctrl-policy|Quorum Control Policy]] Settings option is available once the withdrawal feature is enabled, otherwise the module is not visible on the app menu. After key withdrawal, your instance is no longer available until the [[encryption-landing|encryption]] key is active again.
+**Warning:** You must sign a legal addendum to activate the key withdrawal functionality. The Quorum Control Policy Settings option is available once the withdrawal feature is enabled, otherwise the module is not visible on the app menu. After key withdrawal, your instance is no longer available until the encryption key is active again.
 
 ## Procedure
 
-1.  [[c_requestAPI|Request]] the key withdrawal functionality from Customer Service and Support.
+1.  Request the key withdrawal functionality from Customer Service and Support.
 
 2.  Navigate to **Cloud Encryption Key Management** &gt; **Quorum Control Policy Settings**.
 
@@ -36,7 +36,7 @@ Roles required: sn\_kmf.admin
 
     Additional fields appear that are required to configure quorum control.
 
-    \[Omitted image "quorum-config-settings.png"\] Alt text: Quorum Control Policy Settings [[sc-configuration|configuration]].
+    \[Omitted image "quorum-config-settings.png"\] Alt text: Quorum Control Policy Settings configuration.
 
 4.  Fill in the fields to complete the form.
 
@@ -54,7 +54,7 @@ Description
 
 </td><td>
 
-Designate the members of the quorum from the list of [[users|users]]. Select the lock icon \[Omitted image "lock-icon.png"\] Alt text: Lock icon. to open the user directory. There is no limit to the number of approvers that can be selected.
+Designate the members of the quorum from the list of users. Select the lock icon \[Omitted image "lock-icon.png"\] Alt text: Lock icon. to open the user directory. There is no limit to the number of approvers that can be selected.
 
 </td></tr><tr><td id="d107135e134">
 
@@ -84,10 +84,3 @@ The withdrawal actions are available in [Key management operations](https://raw.
 
 **Parent Topic:**[Quorum Control Policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/cloud-encryption/quorum-ctrl-policy.md)
 
-## Related
-
-- [[quorum-ctrl-policy|Quorum Control Policy]]
-- [[encryption-landing|Encryption]]
-- [[c_requestAPI|request]]
-- [[sc-configuration|Configuration]]
-- [[users|Users]]

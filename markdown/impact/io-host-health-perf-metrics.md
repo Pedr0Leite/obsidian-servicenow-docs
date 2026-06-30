@@ -12,7 +12,7 @@ breadcrumb: [Overview of Instance Observer metrics, Instance Observer reference,
 
 # Host health performance metrics
 
-The metrics provide the host health [[instance-observer-performance|performance]] snapshot within the ServiceNow AI Platform®.
+The metrics provide the host health performance snapshot within the ServiceNow AI Platform®.
 
 ## Memory
 
@@ -41,7 +41,7 @@ The metrics provide the host health [[instance-observer-performance|performance]
     Used when the amount of physical memory \(RAM\) is full.
 
 
-**Parent Topic:**[[instance-observer-ovr-metric|Overview of Instance Observer metrics]]
+**Parent Topic:**[Overview of Instance Observer metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/instance-observer-ovr-metric.md)
 
 **Related topics**  
 
@@ -50,7 +50,7 @@ The metrics provide the host health [[instance-observer-performance|performance]
 
 [Anomaly insights]()
 
-[Feature [[io-availability|availability]] based on package]()
+[Feature availability based on package]()
 
 [Auriga Intelligent Alert report]()
 
@@ -86,8 +86,3 @@ The metrics provide the host health [[instance-observer-performance|performance]
 
 [Instance Data Replication]()
 
-## Related
-
-- [[instance-observer-ovr-metric|Overview of Instance Observer metrics]]
-- [[instance-observer-performance|Performance]]
-- [[io-availability|Availability]]

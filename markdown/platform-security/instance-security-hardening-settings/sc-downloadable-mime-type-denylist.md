@@ -18,9 +18,9 @@ The **glide.ui.attachment.download\_mime\_types** property will force the specif
 
 If the **glide.ui.attachment.force\_download\_all\_mime\_types** system property is set to **true**, then the **glide.ui.attachment.download\_mime\_types** property is overridden so that all MIME types will be downloaded rather than rendered by the browser. For example, downloading text/html forces an HTML file to be downloaded to the client as a file rather than viewed inline in the browser, preventing a XSS attack.
 
-Ensure that the property **glide.ui.attachment.force\_download\_all\_mime\_types** is set to **true**. If the property does not exist in the [[ca-system-properties|System Properties]] \[sys\_properties\] table, the default value is **false**.
+Ensure that the property **glide.ui.attachment.force\_download\_all\_mime\_types** is set to **true**. If the property does not exist in the System Properties \[sys\_properties\] table, the default value is **false**.
 
-**Note:** The [[security-admin-role|security\_admin role]] is required to edit the property.
+**Note:** The security\_admin role is required to edit the property.
 
 ## More information
 
@@ -34,7 +34,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -117,8 +117,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Validation, sanitization, and encoding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/validation-sanitization-encoding.md)
 
-## Related
-
-- [[ca-system-properties|System properties]]
-- [[security-admin-role|Security\_admin role]]
-- [[sc-configuration|Configuration]]

@@ -26,7 +26,7 @@ When you calculate the number of agents for your staffing needs, you have the op
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]** &gt; **Demand Forecast** &gt; **Formula Parameters**.
+1.  Navigate to **All** &gt; **Workforce Optimization for ITSM** &gt; **Demand Forecast** &gt; **Formula Parameters**.
 
 2.  Create a formula parameter to set either the minimum or maximum number of agents you need every hour.
 
@@ -73,6 +73,3 @@ When you calculate the number of agents for your staffing needs, you have the op
 
 **Parent Topic:**[Configure Demand Forecast](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/configure-data-collection-configurable-wfo-itsm.md)
 
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]

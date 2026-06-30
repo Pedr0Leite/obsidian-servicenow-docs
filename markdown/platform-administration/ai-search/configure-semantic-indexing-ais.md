@@ -14,7 +14,7 @@ breadcrumb: [Semantic index configuration for indexed sources, Indexed sources, 
 
 # Configure semantic indexing settings for an indexed source
 
-Specify the semantic indexing configuration settings you want to apply when [[ia-ai-search|AI Search]] indexes records from your indexed sources.
+Specify the semantic indexing configuration settings you want to apply when AI Search indexes records from your indexed sources.
 
 ## Before you begin
 
@@ -32,13 +32,13 @@ As an AI Search admin, you can perform this task to choose the fields from and i
 
 2.  Select the indexed source that you want to configure semantic indexing settings for.
 
-    The selected indexed source opens in [[indexed-source-form-ais|Indexed Source form]] view.
+    The selected indexed source opens in Indexed Source form view.
 
 3.  In the Semantic Index Configuration related list, select **New**.
 
     **Note:** If you don't see the Semantic Index Configuration related list on the Indexed Source form, check with your administrator to make sure that your instance has at least one [Now Assist application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-now-assist-landing.md) installed. Installing any Now Assist application activates the AI Search Semantic Controller plugin \(com.glide.ais.semantic\_search\), which is required for semantic index configuration.
 
-4.  On the [[semantic-index-configuration-form|Semantic Index Configuration form]], fill in the fields.
+4.  On the Semantic Index Configuration form, fill in the fields.
 
     For a description of the field values, see [Semantic Index Configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/semantic-index-configuration-form.md).
 
@@ -52,7 +52,7 @@ As an AI Search admin, you can perform this task to choose the fields from and i
 
     1.  Select **New**.
 
-    2.  On the [[semantic-index-field-form|Semantic Index Field form]], fill in the fields.
+    2.  On the Semantic Index Field form, fill in the fields.
 
         For a description of the field values, see [Semantic Index Field form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/semantic-index-field-form.md).
 
@@ -69,9 +69,3 @@ After changing the semantic index configuration settings for an indexed source, 
 
 **Parent Topic:**[Semantic index configuration for indexed sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/semantic-index-cfg-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[indexed-source-form-ais|Indexed Source form]]
-- [[semantic-index-configuration-form|Semantic Index Configuration form]]
-- [[semantic-index-field-form|Semantic Index Field form]]

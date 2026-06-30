@@ -22,7 +22,7 @@ Role required: sn\_wsd\_visitor.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-visitor-mgmt-feat|Workplace Visitor Management]]** &gt; **Administration** &gt; **Visitor Policies**.
+1.  Navigate to **All** &gt; **Workplace Visitor Management** &gt; **Administration** &gt; **Visitor Policies**.
 
 2.  Select **New**.
 
@@ -64,11 +64,7 @@ Add one or more workplace location to a visitor policy. Visitors who are registe
 
 [Create a visitor badge template]()
 
-[Configuring Workplace Visitor Management for [[workplace-services|Workplace Services]] Kiosk]()
+[Configuring Workplace Visitor Management for Workplace Services Kiosk]()
 
 [Quick start test for Workplace Visitor Management]()
 
-## Related
-
-- [[workplace-visitor-mgmt-feat|Workplace Visitor Management]]
-- [[workplace-services|Workplace Services]]

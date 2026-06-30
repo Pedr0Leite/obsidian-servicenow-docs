@@ -14,26 +14,20 @@ breadcrumb: [Playbook page templates, Playbooks in Customer Service Management, 
 
 The playbook case summary component provides agents with a summary of a customer service case, including the issue and the actions taken. Agents can generate summaries to understand case context and post summaries to the case work notes.
 
-The case summarization component appears below the [[csm-record-page-lookup-component|lookup component]] on the [[csm-playbook-templates|playbook page templates]]. Upon first opening a case, agents see that the component is collapsed and in the default state.
+The case summarization component appears below the lookup component on the playbook page templates. Upon first opening a case, agents see that the component is collapsed and in the default state.
 
 Using this component, agents can:
 
 -   Select **Summarize** to create a summary of the case details.
--   Select **Share to work notes** to copy the summary text to the [[csm-config-ws-activity-stream|activity stream]].
+-   Select **Share to work notes** to copy the summary text to the activity stream.
     -   Review the summary text in the Share to work notes popup window and modify the text as needed.
     -   Select **Save to work notes** on the popup window to add the text to the activity stream.
 -   Select the refresh icon in the component footer to refresh the text and get the latest summary.
 
 **Note:** If the case does not contain enough text to summarize, the system displays the following message: "This case doesn't have the minimum number of words required for summarization yet."
 
-To use the case summarization component with the playbook page templates, activate the [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]] application and configure the case summarization skill in the Now Assist Admin console. For more information, see:
+To use the case summarization component with the playbook page templates, activate the Now Assist for Customer Service Management \(CSM\) application and configure the case summarization skill in the Now Assist Admin console. For more information, see:
 
 -   [Activate Now Assist for Customer Service Management \(CSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/now-assist-csm-supporting-info.md)
 -   [Configure the case summarization skill in the Now Assist Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/now-assist-csm-configuring.md).
 
-## Related
-
-- [[csm-record-page-lookup-component|Lookup component]]
-- [[csm-playbook-templates|Playbook page templates]]
-- [[csm-config-ws-activity-stream|Activity stream]]
-- [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]]

@@ -26,7 +26,7 @@ Role required: virtual\_agent\_admin or admin
 
 Define your greeting, closing messages, and fallback options.
 
-Depending on your configuration, different options may appear. Legacy messages \(chat messages\) and legacy fallbacks \(chat fallbacks\) are shown when at least one display experience has [[nava-standard-chat|standard chat]] or [[nava-enhanced-chat|enhanced chat]]. Premium messages and premium fallbacks are shown when at least one display experience has [[nava-integrated-chat|premium chat]].
+Depending on your configuration, different options may appear. Legacy messages \(chat messages\) and legacy fallbacks \(chat fallbacks\) are shown when at least one display experience has standard chat or enhanced chat. Premium messages and premium fallbacks are shown when at least one display experience has premium chat.
 
 A standard chat preview pane is shown for the default greeting topic and the default closing topic. Selecting custom topics won't show a preview pane.
 
@@ -42,7 +42,7 @@ Fallbacks appear in the preview pane when you toggle individual or all fallbacks
 
     \[Omitted image "NAinVA-chat-experience-legacy-messages-0426.png"\] Alt text: Greeting message screen.
 
-    Selecting a default topic shows its corresponding default message. You can also create your own topic from **All** &gt; **[[assistant-designer|Assistant Designer]]** &gt; **Asset Library**, and use it as the greeting or closing topic. When selecting a custom topic, the message field isn’t shown in the preview pane.
+    Selecting a default topic shows its corresponding default message. You can also create your own topic from **All** &gt; **Assistant Designer** &gt; **Asset Library**, and use it as the greeting or closing topic. When selecting a custom topic, the message field isn’t shown in the preview pane.
 
     Closing message only appears if you have a display experience with standard chat.
 
@@ -67,7 +67,7 @@ Description
 
 </th><th>
 
-[[now-assist-in-va-landing|Now Assist in Virtual Agent]] assistant
+Now Assist in Virtual Agent assistant
 
 </th><th>
 
@@ -264,7 +264,7 @@ No
 </td></tr></tbody>
 </table>3.  In the **Legacy fallbacks** or **Premium fallbacks** sections, activate one or more fallback options.
 
-    **Note:** For premium fallbacks, [[web-search-requestor|web search]] fallback is dependent on your web search mode setting in [Enable additional chat features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/additional-chat-features.md). If web search mode is turned off, web search fallback is unavailable \(grayed out\). If web search mode is turned on, web search fallback is available where you can turn it on or off.
+    **Note:** For premium fallbacks, web search fallback is dependent on your web search mode setting in [Enable additional chat features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/additional-chat-features.md). If web search mode is turned off, web search fallback is unavailable \(grayed out\). If web search mode is turned on, web search fallback is available where you can turn it on or off.
 
     \[Omitted image "NAinVA-chat-experience-legacy-fallbacks-0426.png"\] Alt text: Activate fallback options.
 
@@ -285,7 +285,7 @@ No
 
     1.  Route the user to an available agent by turning on **Live agent**. Selecting the **Live agent topic** field displays a drop-down for topics, and the text input is used for the fallback button in the assistant. The default **Live agent topic** is **Now Assist Live Agent**.The default button label is **Request a live chat**.
 
-        If your instance doesn't have Live Agent configured, the **Live Agent** fallback option is unavailable. To configure Live agent, select the **Configure** link and navigate to **CI Admin console** &gt; **Settings** &gt; **[[ci-use-agent-chat|Agent chat]]** tab. Use the default Now Assist Live Agent topic or select a topic.
+        If your instance doesn't have Live Agent configured, the **Live Agent** fallback option is unavailable. To configure Live agent, select the **Configure** link and navigate to **CI Admin console** &gt; **Settings** &gt; **Agent chat** tab. Use the default Now Assist Live Agent topic or select a topic.
 
     2.  Provide the user with web search results by turning on **Web search**. The web search option is useful when the synthesized response can't generate answers. The **Web search** check box displays a text input that is used for the name of the fallback button in the assistant. The default button label is **Search the web**. The default web search provider is Google Gemini.
 
@@ -312,12 +312,3 @@ No
 
 See [Review chat assistant settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/review-assistant-settings.md).
 
-## Related
-
-- [[nava-standard-chat|Standard chat]]
-- [[nava-enhanced-chat|Enhanced chat]]
-- [[nava-integrated-chat|Premium chat]]
-- [[assistant-designer|Assistant Designer]]
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]
-- [[web-search-requestor|Web search]]
-- [[ci-use-agent-chat|Agent Chat]]

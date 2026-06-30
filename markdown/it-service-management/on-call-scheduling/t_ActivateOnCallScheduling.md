@@ -14,7 +14,7 @@ breadcrumb: [Configuring On-Call Scheduling, On-Call Scheduling, IT Service Mana
 
 # Activate On-Call Scheduling
 
-You can activate the [[c_OnCallScheduling|On-Call Scheduling]] \(com.snc.on\_call\_rotation\) plugin if you have the admin role.
+You can activate the On-Call Scheduling \(com.snc.on\_call\_rotation\) plugin if you have the admin role.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ Activating the On-Call Scheduling plugin activates the following third-party lib
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System [[dex-workspace-application-tab|Applications]]** &gt; **All Available Applications** &gt; **All**.
+1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
 2.  Find the plugin using the filter criteria and search bar.
 
@@ -54,7 +54,3 @@ Activating the On-Call Scheduling plugin activates the following third-party lib
 
 [On-Call Scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/c_OnCallScheduling.md)
 
-## Related
-
-- [[c_OnCallScheduling|On-Call Scheduling]]
-- [[dex-workspace-application-tab|Applications]]

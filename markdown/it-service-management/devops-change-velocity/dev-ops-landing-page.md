@@ -14,7 +14,7 @@ breadcrumb: [DevOps Change Velocity, IT Service Management]
 
 # Exploring DevOps Change Velocity
 
-Learn how ServiceNow® [[devops-landing-page-new|DevOps Change Velocity]] helps your Development and [[c_ITILChangeManagement|Change Management]] teams accelerate change and connect their DevOps tool chain with ServiceNow so that the DevOps tool data can be used to automate change processes.
+Learn how ServiceNow® DevOps Change Velocity helps your Development and Change Management teams accelerate change and connect their DevOps tool chain with ServiceNow so that the DevOps tool data can be used to automate change processes.
 
 ## DevOps Change Velocity overview
 
@@ -162,12 +162,7 @@ Review the adoption journey of the DevOps Change Velocity application to enable 
 -   **[DevOps Change Velocity integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/dev-ops-overview.md)**  
 Get an overview of how DevOps Change Velocity integrates with your external DevOps toolchain and the tools supported for this integration.
 -   **[DevOps dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/insights-dashboard-dev-ops.md)**  
-Use the DevOps Insights dashboard to evaluate the results of your overall DevOps process. Use the [[dev-ops-pipeline-ui|DevOps Pipeline UI]] view to visually analyze your pipeline executions.
+Use the DevOps Insights dashboard to evaluate the results of your overall DevOps process. Use the DevOps Pipeline UI view to visually analyze your pipeline executions.
 
 **Parent Topic:**[DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/devops-landing-page-new.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[c_ITILChangeManagement|Change Management]]
-- [[dev-ops-pipeline-ui|DevOps Pipeline UI]]

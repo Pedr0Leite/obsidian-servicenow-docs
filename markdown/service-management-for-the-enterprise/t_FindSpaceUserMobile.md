@@ -36,8 +36,5 @@ Role required: none
     |**To see the location of the space or user on the floor plan**|Tap the pin \[Omitted image "PinIcon.png"\] Alt text: pin icon icon, beside the link for the user or space.|
 
 
-**Parent Topic:**[[c_InteractiveFacilityMaps|Interactive facility maps]]
+**Parent Topic:**[Interactive facility maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_InteractiveFacilityMaps.md)
 
-## Related
-
-- [[c_InteractiveFacilityMaps|Interactive facility maps]]

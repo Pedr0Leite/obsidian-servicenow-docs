@@ -15,7 +15,7 @@ breadcrumb: [Use agentic workflows, Now Assist for Security Incident Response, S
 
 # Security Incident Response AI agent collection Wrap up security incident agentic workflow
 
-The Wrap up security incident agentic workflow enables security analysts to [[close-sir-incident-aiagent|close a security incident]].
+The Wrap up security incident agentic workflow enables security analysts to close a security incident.
 
 ## Wrap up security incident agentic workflow overview
 
@@ -27,6 +27,3 @@ If you want to modify this agentic workflow, you can [duplicate](https://raw.git
 
 The Security incident wrap-up generator expert is used in the Wrap up security incident agentic workflow.
 
-## Related
-
-- [[close-sir-incident-aiagent|Close a security incident]]

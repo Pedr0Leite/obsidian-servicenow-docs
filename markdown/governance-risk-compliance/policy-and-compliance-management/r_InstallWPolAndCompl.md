@@ -14,7 +14,7 @@ breadcrumb: [Policy and Compliance Management reference, Policy and Compliance M
 
 # Components installed with Policy and Compliance Management
 
-Reference topics provide additional information about components that are installed with the activation of the [[r_PolicyComplianceMgmt|Policy and Compliance Management]] plugin. These components include tables, user roles, and properties.
+Reference topics provide additional information about components that are installed with the activation of the Policy and Compliance Management plugin. These components include tables, user roles, and properties.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -226,7 +226,7 @@ Policy to Entity Type\[sn\_compliance\_m2m\_policy\_profile\_type\]
 
 </td><td>
 
-Extends Document to Entity Type \[sn\_grc\_m2m\_document\_profile\_type\] and is a many-to-many relationship table that is used to manage the relationships between policies and [[entity-type-in-risk-ws|entity types]].
+Extends Document to Entity Type \[sn\_grc\_m2m\_document\_profile\_type\] and is a many-to-many relationship table that is used to manage the relationships between policies and entity types.
 
 </td></tr><tr><td>
 
@@ -340,7 +340,7 @@ The access limitations of users with GRC business user role and other roles for 
 
 -   **Control Objective**
     -   Users with GRC business user or business user lite role can read all control objectives.
-    -   If GRC: [[c_GRCAudits|Audit Management]] application is installed and the control objective has a published policy associated to it, then users with external auditor role can read such control objectives.
+    -   If GRC: Audit Management application is installed and the control objective has a published policy associated to it, then users with external auditor role can read such control objectives.
     -   Users with business user lite have read access to report an issue or policy exception.
 -   **Policy**
     -   Users with GRC business user or business user lite role can read all policies.
@@ -477,7 +477,7 @@ Entity hierarchy based scoringsn\_compliance.entity\_hierarchy\_based\_scoring
 
 -   **Type**: true or false
 -   **Default value**: false
--   **Location**: **All** &gt; **Policy and Compliance** &gt; **[[Administration|Administration]]** &gt; **Properties**
+-   **Location**: **All** &gt; **Policy and Compliance** &gt; **Administration** &gt; **Properties**
 
 </td></tr><tr><td>
 
@@ -536,7 +536,7 @@ Name of the knowledge base used to publish Policy articlessn\_compliance.knowled
 </td><td>
 
 Compliance administrators can change this setting.-   **Type**: string
--   **Default value**: [[r_WhatIsGRC|Governance, Risk, and Compliance]]
+-   **Default value**: Governance, Risk, and Compliance
 -   **Location**: **Policy and Compliance** &gt; **Administration** &gt; **Properties**
 
 </td></tr><tr id="smart-assessment"><td>
@@ -550,11 +550,3 @@ Property that enables the assessment of controls using the non-classic assessmen
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[entity-type-in-risk-ws|Entity types]]
-- [[c_GRCAudits|Audit Management]]
-- [[Administration|Administration]]
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]

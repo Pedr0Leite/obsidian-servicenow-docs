@@ -14,14 +14,14 @@ breadcrumb: [Cohesity storage system, Available on-premise discovery patterns, D
 
 # Create a serverless schedule for Cohesity storage system discovery
 
-Create a [[serverless-discovery|serverless discovery]] schedule to discover Cohesity storage systems.
+Create a serverless discovery schedule to discover Cohesity storage systems.
 
 ## Before you begin
 
 -   Verify the MID Server is set to Active and is reachable to Cohesity storage cluster.
 -   Create an alias for the basic authentication credential. For more information, see [Create an alias for a basic authentication credential for Cohesity storage system discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/create-alias-basic-auth-cred-cohesity.md).
 
-Role required: [[r-discovery|discovery]]\_admin
+Role required: discovery\_admin
 
 ## Procedure
 
@@ -82,7 +82,3 @@ Either execute discovery immediately by selecting **Discover now** or wait until
 
 [Cohesity storage system discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/cohesity-storage-system-discovery.md)
 
-## Related
-
-- [[serverless-discovery|Serverless Discovery]]
-- [[r-discovery|Discovery]]

@@ -30,9 +30,9 @@ Review a service order and approve or reject it for fulfillment.
 
 </td><td>
 
-A service order manager approves or rejects a service order for fulfillment. If it's approved, the sold product and [[sales-crm-order-decomposition|order decomposition]] processing can take place. If it's rejected, more investigation is needed. To learn more, see:-   [[approve-reject-service-order-fulfillment|Approve or reject a service order for fulfillment]]
--   [[service-order-mgt-sold-product-creation|Sold product creation for service orders]]
--   [[service-order-mgt-order-decomposition|Service order decomposition]]
+A service order manager approves or rejects a service order for fulfillment. If it's approved, the sold product and order decomposition processing can take place. If it's rejected, more investigation is needed. To learn more, see:-   [Approve or reject a service order for fulfillment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/approve-reject-service-order-fulfillment.md)
+-   [Sold product creation for service orders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/service-order-mgt-sold-product-creation.md)
+-   [Service order decomposition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/service-order-mgt-order-decomposition.md)
 
 </td></tr><tr><td>
 
@@ -40,8 +40,8 @@ Review the service specifications and domain service orders that are associated 
 
 </td><td>
 
-A service order manager reviews the domain service orders that were generated for the service order line item. To learn more, see:-   [[service-order-mgt-review-update-service-order-product-specifications|Review and update the service specifications for a service order line item]]
--   [[service-order-mgt-review-resource-orders|Review the domain resource orders that are associated with a service order]]
+A service order manager reviews the domain service orders that were generated for the service order line item. To learn more, see:-   [Review and update the service specifications for a service order line item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/service-order-mgt-review-update-service-order-product-specifications.md)
+-   [Review the domain resource orders that are associated with a service order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/service-order-mgt-review-resource-orders.md)
 
 </td></tr><tr><td>
 
@@ -59,7 +59,7 @@ Review and update the fulfillment tasks that are associated with a service order
 
 An order fulfillment or service order agent does the tasks that are required for post-approval customer order fulfillment, including marking the order tasks as complete. The order fulfillment or service manager then creates the order fallout records for the order tasks that can't be completed.To learn more, see:
 
--   [[service-order-mgt-service-order-tasks|Review and update the service order fulfillment tasks]]
+-   [Review and update the service order fulfillment tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/service-order-mgt-service-order-tasks.md)
 -   [Managing order fallout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/fallout-management-overview.md)
 
 </td></tr><tr><td>
@@ -72,13 +72,3 @@ An order fulfillment or service manager reviews the tasks that couldn't be compl
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[approve-reject-service-order-fulfillment|Approve or reject a service order for fulfillment]]
-- [[service-order-mgt-sold-product-creation|Sold product creation for service orders]]
-- [[service-order-mgt-order-decomposition|Service order decomposition]]
-- [[service-order-mgt-review-update-service-order-product-specifications|Review and update the service specifications for a service order line item]]
-- [[service-order-mgt-review-resource-orders|Review the domain resource orders that are associated with a service order]]
-- [[service-order-mgt-service-order-tasks|Review and update the service order fulfillment tasks]]
-- [[sales-crm-order-decomposition|Order decomposition]]

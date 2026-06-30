@@ -12,7 +12,7 @@ breadcrumb: [Install and configure Lead to Cash Core, Lead-to-cash foundation ap
 
 # Create an entity configuration
 
-Create an entity configuration to compose a workflow between two entities so that you can update their existing configurations and perform actions like [[Suspend|suspend]], [[Resume|resume]], or disconnect a sold product.
+Create an entity configuration to compose a workflow between two entities so that you can update their existing configurations and perform actions like suspend, resume, or disconnect a sold product.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: admin
 
 3.  On the form, in the **Name** field, enter the entity name and in the **Config ID** field, enter the entity ID.
 
-    For a description of the field values, see [[entity-configuration-and-mapping|Entity configuration and mapping]].
+    For a description of the field values, see [Entity configuration and mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/entity-configuration-and-mapping.md).
 
 4.  Select **Submit**.
 
@@ -34,7 +34,7 @@ Role required: admin
 
 5.  On the Lead to Cash Entity form, in the Lead To Cash Entity Definitions related list, create an entity definition by selecting **New**.
 
-6.  On the form, fill in the [[fields|fields]].
+6.  On the form, fill in the fields.
 
     For a description of the field values, see [Entity configuration and mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/entity-configuration-and-mapping.md).
 
@@ -51,21 +51,12 @@ Role required: admin
 
 ## Result
 
-You’ve created an entity configuration and defined its definition and attributes. You must now create a custom entity mapping. To learn how to create a mapping, see [[create-entity-mapping|Create an entity mapping]].
+You’ve created an entity configuration and defined its definition and attributes. You must now create a custom entity mapping. To learn how to create a mapping, see [Create an entity mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-entity-mapping.md).
 
 **Related topics**  
 
 
-[[using-lead-cash-foundation|Using lead-to-cash foundation applications]]
+[Using lead-to-cash foundation applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-lead-cash-foundation.md)
 
-[[lead-to-cash|Lead to Cash Core]]
+[Lead to Cash Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-to-cash.md)
 
-## Related
-
-- [[entity-configuration-and-mapping|Entity configuration and mapping]]
-- [[create-entity-mapping|Create an entity mapping]]
-- [[using-lead-cash-foundation|Using lead-to-cash foundation applications]]
-- [[lead-to-cash|Lead to Cash Core]]
-- [[Suspend|Suspend]]
-- [[Resume|Resume]]
-- [[fields|Fields]]

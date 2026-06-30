@@ -44,11 +44,8 @@ For additional details, see [Email API](https://raw.githubusercontent.com/Servic
 
 6.  Verify the non-admin user either has read access to all records in the notification target table or has read access to a specific record in the table.
 
-    For example, to work with incident [[notifications|notifications]] the non-admin user needs access to the Incident table. You can provide record access by:
+    For example, to work with incident notifications the non-admin user needs access to the Incident table. You can provide record access by:
 
     -   Granting the user an appropriate role, such as the itil role.
     -   Selecting a specific incident that was opened on behalf of the user.
 
-## Related
-
-- [[notifications|Notifications]]

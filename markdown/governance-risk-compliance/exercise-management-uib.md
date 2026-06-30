@@ -18,7 +18,7 @@ Exercises are used to provide continuous testing and improving of continuity pla
 
 Creating an exercise includes these steps:
 
--   BCM program manager creates an exercise either from the Home page or the Exercises record page in the [[list-view-uib-ws|List view]] of the BCM UIB Workspace.
+-   BCM program manager creates an exercise either from the Home page or the Exercises record page in the List view of the BCM UIB Workspace.
 -   BCM program manager adds additional details for the exercise such as an asset, plan, and event task.
 -   BCM program manager submits the event task related to the exercise for an approval.
 -   Assigned BCM program manager reviews the details on the event task and approves the exercise.
@@ -38,26 +38,19 @@ Technically, all exercises are treated in the same way. However, only Functional
 
 ## Creating an exercise in Business Continuity Workspace
 
-If you’re the BCM program manager, you can [[start-exercise-event-in-uib-ws|create an exercise]] in Business Continuity Workspace by using one of these options:
+If you’re the BCM program manager, you can create an exercise in Business Continuity Workspace by using one of these options:
 
 -   You can navigate to the **Exercises** tab and select **Create exercise** as shown in the example.
 
     \[Omitted image "exercises-homepage.png"\] Alt text: Exercises tab in the Home page.
 
-    For information on the cards and action buttons in the **Exercises** tab, see [[home-page-uib-ws|Home page view]].
+    For information on the cards and action buttons in the **Exercises** tab, see [Home page view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/home-page-uib-ws.md).
 
 -   You can also navigate to the List view and select **New** in the Exercises records.
 
-To create an exercise in Business Continuity Workspace, see [[performing-tasks-to-manage-exercise-events|Structured workflows for Exercises]].
+To create an exercise in Business Continuity Workspace, see [Structured workflows for Exercises](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/performing-tasks-to-manage-exercise-events.md).
 
 ## Grouping the event tasks
 
-For information on working with the grouped event tasks, see [[identifying-running-dup-tasks-once|Creating similar tasks groups]].
+For information on working with the grouped event tasks, see [Creating similar tasks groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/identifying-running-dup-tasks-once.md).
 
-## Related
-
-- [[home-page-uib-ws|Home page view]]
-- [[performing-tasks-to-manage-exercise-events|Structured workflows for Exercises]]
-- [[identifying-running-dup-tasks-once|Creating similar tasks groups]]
-- [[list-view-uib-ws|List view]]
-- [[start-exercise-event-in-uib-ws|Create an exercise]]

@@ -14,7 +14,7 @@ breadcrumb: [Add questions to an exam, Create an exam, Using Career Assessment, 
 
 # Add options to a question
 
-Add options for a question on [[exam-engine|Career Assessment]].
+Add options for a question on Career Assessment.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_exam.catalog\_admin
 
 Users configured as part of the admin list, can contribute user criteria or owner of the associated catalog can add options for questions in an exam.
 
-[[create-exam|Create an exam]]. See, [Create an exam](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/create-exam.md).
+Create an exam. See, [Create an exam](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/create-exam.md).
 
 Create a question. See, [Add questions to an exam](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/add-questions-exam.md).
 
@@ -47,7 +47,3 @@ Create a question. See, [Add questions to an exam](https://raw.githubusercontent
 
 **Parent Topic:**[Add questions to an exam](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/add-questions-exam.md)
 
-## Related
-
-- [[exam-engine|Career Assessment]]
-- [[create-exam|Create an exam]]

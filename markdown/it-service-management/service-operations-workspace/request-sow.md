@@ -14,11 +14,11 @@ breadcrumb: [Operating IT services in your organization, Service Operations Work
 
 # Request Management in Service Operations Workspace
 
-Service Operations Workspace for [[c_RequestManagement|Request Management]] integrates the platform functionality for tier 1 agents into a multi-tab interface that helps agents efficiently manage multiple incidents, catalog requests, and catalog tasks.
+Service Operations Workspace for Request Management integrates the platform functionality for tier 1 agents into a multi-tab interface that helps agents efficiently manage multiple incidents, catalog requests, and catalog tasks.
 
-As an agent, you can [[create-catalog-request-sow|create a catalog request in Service Operations Workspace]] to initiate a catalog request flow from a different [[r_ITServiceManagement|IT Service Management]] flow. For example, from an incident flow, you can create a request, and associate the request with the incident to help track requests associated with an incident and vice versa. You can also work on catalog tasks and update the state of the tasks, and manage approvals of requests and requested items.
+As an agent, you can create a catalog request in Service Operations Workspace to initiate a catalog request flow from a different IT Service Management flow. For example, from an incident flow, you can create a request, and associate the request with the incident to help track requests associated with an incident and vice versa. You can also work on catalog tasks and update the state of the tasks, and manage approvals of requests and requested items.
 
-The Service Operations Workspace ITSM [[dex-workspace-application-tab|Applications]] application \(sn-sow-itsm-cont\) that automatically installs the Request Management for Service Operations Workspace \(sn\_sow\_req\) application should be installed for the Request Management flows in Service Operations Workspace. For more information, see [Getting started with Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/getting-started-sow.md).
+The Service Operations Workspace ITSM Applications application \(sn-sow-itsm-cont\) that automatically installs the Request Management for Service Operations Workspace \(sn\_sow\_req\) application should be installed for the Request Management flows in Service Operations Workspace. For more information, see [Getting started with Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/getting-started-sow.md).
 
 ## Request Management categories in Service Operations Workspace
 
@@ -70,9 +70,3 @@ Access the My Approvals in SOW to manage the approval requests for change, reque
 
 [Change Management in Service Operations Workspace]()
 
-## Related
-
-- [[c_RequestManagement|Request Management]]
-- [[create-catalog-request-sow|Create a catalog request in Service Operations Workspace]]
-- [[r_ITServiceManagement|IT Service Management]]
-- [[dex-workspace-application-tab|Applications]]

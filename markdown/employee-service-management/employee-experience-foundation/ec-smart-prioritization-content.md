@@ -14,7 +14,7 @@ breadcrumb: [Content engagement, Setup employee communications, Configuring Empl
 
 # Smart prioritization
 
-Smart prioritization uses a numeric priority score to automatically rank AI content, such as Employee Hub and AIUX [[ec-streamline-content|Portal content]] types, for each content schedule.
+Smart prioritization uses a numeric priority score to automatically rank AI content, such as Employee Hub and AIUX Portal content types, for each content schedule.
 
 ## Overview of Smart prioritization
 
@@ -104,7 +104,3 @@ Scheduled job recalculates scores for all currently live or soon-to-be-live sche
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[ec-streamline-content|Portal content]]

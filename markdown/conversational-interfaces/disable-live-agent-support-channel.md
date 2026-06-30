@@ -50,8 +50,5 @@ The **disable\_live\_agent** parameter displays in the Channel Properties relate
 
 \[Omitted image "disable-live-agent-channel-param.png"\] Alt text: Alexa messaging channel record page, with disable\_live\_agent parameter highlighted.
 
-**Parent Topic:**[[ci-channels-overview|Channels in Conversational Interfaces]]
+**Parent Topic:**[Channels in Conversational Interfaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ci-channels-overview.md)
 
-## Related
-
-- [[ci-channels-overview|ci channels overview]]

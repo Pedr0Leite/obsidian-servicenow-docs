@@ -14,7 +14,7 @@ breadcrumb: [HR Service Delivery, Employee Service Management]
 
 # Agent Workspace for HR Case Management
 
-Agent Workspace for HR Case Management \(Configurable\) is one of two workspaces available for the [[hr-service-delivery|HR Service Delivery]] application and uses the Next Experience user interface. It is built on a configurable UI Builder version, which makes it easy to configure and extend according to business needs.
+Agent Workspace for HR Case Management \(Configurable\) is one of two workspaces available for the HR Service Delivery application and uses the Next Experience user interface. It is built on a configurable UI Builder version, which makes it easy to configure and extend according to business needs.
 
 \[Omitted video\]
 
@@ -117,7 +117,7 @@ Agent assist
 </td></tr><tr><td>
 
 Leverage UI Builder-   Edit component properties
--   Utilize variants and [[ecpro-audience|audiences]]
+-   Utilize variants and audiences
 -   Next Experience UI Branding
 -   Styling Configuration
 
@@ -327,7 +327,7 @@ ML-driven personalizations
 
 </td></tr><tr><td>
 
-Supports [[hr-employee-doc-management|employee document management]]
+Supports employee document management
 
 </td><td>
 
@@ -407,7 +407,7 @@ Custom My Lists
 
 </td></tr><tr><td>
 
-[[document-templates-overview|Document templates]]
+Document templates
 
 </td><td>
 
@@ -454,7 +454,7 @@ Response templates
 
 </td><td>
 
-[Reference \[Omitted image "bus-learn.svg"\] Alt text: [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] Get details about components like fields, tables, and properties.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/agent-ws-reference.md)
+[Reference \[Omitted image "bus-learn.svg"\] Alt text: Reference Get details about components like fields, tables, and properties.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/agent-ws-reference.md)
 
 </td></tr></tbody>
 </table>## Additional resources
@@ -465,10 +465,3 @@ Response templates
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[ecpro-audience|Audiences]]
-- [[hr-employee-doc-management|Employee Document Management]]
-- [[document-templates-overview|Document Templates]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

@@ -14,7 +14,7 @@ breadcrumb: [Job prospects, Use, Talent Profile, Hiring Experiences, HR Service 
 
 # Copy talent profiles as job prospects
 
-Copy talent profiles from a [[talent-pool-overview|Talent pool]] to a particular job requisition as prospects.
+Copy talent profiles from a Talent pool to a particular job requisition as prospects.
 
 ## Before you begin
 
@@ -22,9 +22,9 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[recruitment-workspace-concept|Recruitment workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Recruitment workspace**.
 
-    -   To copy talent profiles to [[job-leads|job prospects]] from a talent pool, go to the **Talent pool** tab, select the pool and select the talent profiles within to see the **Copy to prospects** button adjacent to the **Copy to another pool** button.
+    -   To copy talent profiles to job prospects from a talent pool, go to the **Talent pool** tab, select the pool and select the talent profiles within to see the **Copy to prospects** button adjacent to the **Copy to another pool** button.
     -   To copy talent profiles to prospects from the All talent section, select the talent profiles and select **Copy to prospects** adjacent to the **Copy to pool** button.
 2.  In the Copy talent to job prospects pop-up window, select a job requisition from the Select job requisition drop-down list, and select **Add**.
 
@@ -37,8 +37,3 @@ You have added the selected talent profiles as job prospect.
 
 **Parent Topic:**[Job prospects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/job-leads.md)
 
-## Related
-
-- [[talent-pool-overview|Talent pool]]
-- [[recruitment-workspace-concept|Recruitment workspace]]
-- [[job-leads|Job prospects]]

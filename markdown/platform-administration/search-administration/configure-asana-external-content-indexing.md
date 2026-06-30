@@ -15,7 +15,7 @@ breadcrumb: [Asana external content connector, Configure, External Content Conne
 
 # Configure Asana for external content indexing
 
-Create and authorize an OAuth 2.0 application in the Asana developer console to allow the [[asana-external-content-connector|Asana external content connector]] to access your Asana source system.
+Create and authorize an OAuth 2.0 application in the Asana developer console to allow the Asana external content connector to access your Asana source system.
 
 ## Before you begin
 
@@ -120,6 +120,3 @@ For details on creating and configuring an Asana external content connector, see
 
 **Parent Topic:**[Asana external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/asana-external-content-connector.md)
 
-## Related
-
-- [[asana-external-content-connector|Asana external content connector]]

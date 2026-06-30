@@ -23,18 +23,14 @@ View the labor cost expenses based on the resource assignments for your epics.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[agile-development|Agile Development]]** &gt; **Epics**.
+1.  Navigate to **All** &gt; **Agile Development** &gt; **Epics**.
 
 2.  Select the required epic.
 
-3.  Select the **[[generate-labor-cost-demand|Generate labor costs]]** related link.
+3.  Select the **Generate labor costs** related link.
 
     Refresh the page to view generated labor costs in the Cost Plan related list.
 
 
 **Parent Topic:**[Define an epic in SAFe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/create-SAFeepic.md)
 
-## Related
-
-- [[agile-development|Agile Development]]
-- [[generate-labor-cost-demand|Generate labor costs]]

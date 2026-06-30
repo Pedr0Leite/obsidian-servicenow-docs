@@ -14,7 +14,7 @@ breadcrumb: [Learn about the Australia release, Australia release notes]
 
 The Australia family includes patches and hotfixes.
 
-**Important:** For more information about how to upgrade an instance, see [[upgrade|ServiceNow upgrades]].
+**Important:** For more information about how to upgrade an instance, see [ServiceNow upgrades](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/upgrade.md).
 
 For more information about the release cycle, see the [ServiceNow Release Cycle](https://support.servicenow.com/kb_view.do?sysparm_article=KB0547244).
 
@@ -68,7 +68,7 @@ Available
 
 </td></tr><tr><td>
 
-[[australia-patch-3|Australia Patch 3]]
+[Australia Patch 3](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/australia-patch-3.md)
 
  [Australia Patch 3 security fixes](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB3035030)
 
@@ -118,7 +118,7 @@ Available
 
 </td></tr><tr><td>
 
-[[australia-patch-2-hf-1|Australia Patch 2 Hotfix 1]]
+[Australia Patch 2 Hotfix 1](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/australia-patch-2-hf-1.md)
 
 </td><td>
 
@@ -134,7 +134,7 @@ Unavailable
 
 </td></tr><tr><td>
 
-[[australia-patch-2|Australia Patch 2]]
+[Australia Patch 2](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/australia-patch-2.md)
 
  [Australia Patch 2 security fixes](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2977251)
 
@@ -152,7 +152,7 @@ Unavailable
 
 </td></tr><tr><td>
 
-[[australia-patch-1|Australia Patch 1]]
+[Australia Patch 1](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/australia-patch-1.md)
 
  [Australia Patch 1 security fixes](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2797601)
 
@@ -170,9 +170,9 @@ Available to Early Availability customers
 
 </td></tr><tr><td>
 
-[[australia-security-notables|Australia security and notable fixes]]
+[Australia security and notable fixes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/australia-security-notables.md)
 
- [[australia-all-other-fixes|All other Australia fixes]]
+ [All other Australia fixes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/australia-all-other-fixes.md)
 
 </td><td>
 
@@ -212,23 +212,12 @@ The Australia Patch 2 Hotfix 1 release contains fixes to these problems.
 The Australia Patch 2 release contains important problem fixes.
 -   **[Australia Patch 1](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/australia-patch-1.md)**  
 The Australia Patch 1 release contains important problem fixes.
--   **[[australia-patch-0-hf-1-PO|Australia EA Hotfix 1]]**  
+-   **[Australia EA Hotfix 1](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/australia-patch-0-hf-1-PO.md)**  
 The Australia EA Hotfix 1 release contains fixes to these problems.
 -   **[Australia security and notable fixes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/australia-security-notables.md)**  
 The Australia release contains important problem fixes.
 -   **[All other Australia fixes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/australia-all-other-fixes.md)**  
 The Australia release contains important problem fixes.
 
-**Parent Topic:**[[rn-learn-landing-page|Learn about the Australia release]]
+**Parent Topic:**[Learn about the Australia release](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/rn-learn-landing-page.md)
 
-## Related
-
-- [[upgrade|ServiceNow upgrades]]
-- [[australia-patch-3|Australia Patch 3]]
-- [[australia-patch-2-hf-1|Australia Patch 2 Hotfix 1]]
-- [[australia-patch-2|Australia Patch 2]]
-- [[australia-patch-1|Australia Patch 1]]
-- [[australia-security-notables|Australia security and notable fixes]]
-- [[australia-all-other-fixes|All other Australia fixes]]
-- [[australia-patch-0-hf-1-PO|Australia EA Hotfix 1]]
-- [[rn-learn-landing-page|Learn about the Australia release]]

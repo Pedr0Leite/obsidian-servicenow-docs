@@ -14,7 +14,7 @@ breadcrumb: [Configure, Legal Request Management, Legal Service Delivery, Legal 
 
 # Configure a practice area table
 
-Configure a practice area table so you can use fields from legal request and legal matter tables to include in the Lists section of [[legal-counsel-center-landing|Legal Counsel Center]].
+Configure a practice area table so you can use fields from legal request and legal matter tables to include in the Lists section of Legal Counsel Center.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin
 
 The record producer uses variables to store field information submitted via intake forms for a legal request or legal matter. If you have to use any of these variables as columns in the list view in Legal Counsel Center, you must add them as columns in the respective practice area tables. These practice area tables extend the Legal Request \[sn\_lg\_ops\_request\] table for legal requests and the Legal Matter \[sn\_lg\_matter\_matter\] table for legal matters. For more information, see [Practice area tables for legal requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/legal-request-pa-tables.md) and [Practice area tables for legal matters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/legal-matter-pa-tables.md).
 
-**Note:** For using [[legal-matter-pa-tables|practice area tables for legal matters]], you must have the [[legal-matter-management-landing-page|Legal Matter Management]] installed.
+**Note:** For using practice area tables for legal matters, you must have the Legal Matter Management installed.
 
 ## Procedure
 
@@ -53,8 +53,3 @@ The record producer uses variables to store field information submitted via inta
 
 **Parent Topic:**[Configuring Legal Request Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/legal-ops-administration.md)
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[legal-matter-pa-tables|Practice area tables for legal matters]]
-- [[legal-matter-management-landing-page|Legal Matter Management]]

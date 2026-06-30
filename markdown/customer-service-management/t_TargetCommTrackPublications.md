@@ -20,7 +20,7 @@ Role required: sn\_publications.author or sn\_publications.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_TargetedCommunications|Targeted Communications]]** &gt; **Active Publications**.
+1.  Navigate to **All** &gt; **Targeted Communications** &gt; **Active Publications**.
 
 2.  Open the desired publication.
 
@@ -28,6 +28,4 @@ Role required: sn\_publications.author or sn\_publications.admin
 
     For each recipient on this list, you can see if the customer has viewed the article.
 
-## Related
 
-- [[c_TargetedCommunications|Targeted communications]]

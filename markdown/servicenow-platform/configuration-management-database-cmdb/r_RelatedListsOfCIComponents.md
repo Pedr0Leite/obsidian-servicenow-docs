@@ -44,7 +44,7 @@ Any of the following icons may appear in lists of CI related items.
 The system looks five calendar days into the past and seven calendar days into the future when looking at recent outages and changes.
 
 -   **[Teams related list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/teams-related-list.md)**  
-The [[teams-related-list|Teams related list]] associates a user group to a CI based on group type, providing flexibility in tracking the different types of groups assigned to a CI. The Teams related list appears on CI forms for CIs of the Service \[cmdb\_ci\_service\] class and its descendent classes such as the Service Instance \[cmdb\_ci\_service\_auto\] class.
+The Teams related list associates a user group to a CI based on group type, providing flexibility in tracking the different types of groups assigned to a CI. The Teams related list appears on CI forms for CIs of the Service \[cmdb\_ci\_service\] class and its descendent classes such as the Service Instance \[cmdb\_ci\_service\_auto\] class.
 
 **Parent Topic:**[CMDB classifications and class dependency](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CMDBClassifications.md)
 
@@ -65,6 +65,3 @@ The [[teams-related-list|Teams related list]] associates a user group to a CI ba
 
 [Update the list of classes in the Principal Class filter]()
 
-## Related
-
-- [[teams-related-list|Teams related list]]

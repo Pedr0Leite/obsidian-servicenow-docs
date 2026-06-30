@@ -14,7 +14,7 @@ breadcrumb: [Service Operations Workspace for ITOM, ITOM AIOps, IT Operations Ma
 
 # Service Operations Workspace for ITOM reference
 
-Reference topics provide additional information about ServiceNow [[workspace-dashboard-use|Service Operations Workspace]].
+Reference topics provide additional information about ServiceNow Service Operations Workspace.
 
 -   **[Components installed with AIOps Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/components-installed-with-sow-itom.md)**  
 Several types of components are installed with activation of the AIOps Experience \[sn\_sow\_aiops\] application, including user role and plugins.
@@ -27,7 +27,7 @@ The parameters to be configured when sending data to other systems using an outb
 -   **[https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/automation-details-fields.md](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/automation-details-fields.md)**  
 
 -   **[Application service details page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/app-service-details.md)**  
-Provides comprehensive information about an application service, including its name, business criticality, ownership, process and operational status, traffic-based [[r-discovery|discovery]] details, [[c_DiscoveryStatus|discovery status]], and relevant comments. This enables thorough analysis of the application service's current state and usage, provides clarity on ownership and criticality, and aids in prioritizing resources and actions effectively.
+Provides comprehensive information about an application service, including its name, business criticality, ownership, process and operational status, traffic-based discovery details, discovery status, and relevant comments. This enables thorough analysis of the application service's current state and usage, provides clarity on ownership and criticality, and aids in prioritizing resources and actions effectively.
 -   **[Create list fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/forms-filtered-list-sow.md)**  
 Create customized lists with fields tailored to your needs.
 -   **[Metrics View Configuration form fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/metrics-view-config-fields.md)**  
@@ -35,7 +35,7 @@ Define how metrics are displayed within Service Operations Workspace.
 -   **[Integration and configuration health event fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/integration-config-health-event-fields.md)**  
 Populate the event fields to capture details such as the event time, description, alert number, state, severity, metric name, node, message key, and error message, enabling precise tracking, effective incident management, and improved error analysis.
 -   **[Datadog advanced settings fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/datadog-advanced-settings-fields.md)**  
-Populate the [[datadog-advanced-settings-fields|Datadog advanced settings fields]] to define API paths, batching limits, host filters, sync duration, connection details, and debugging options. These values control how the pull connector retrieves and processes metrics and host data from Datadog, ensuring the connector runs with the desired scope and behavior.
+Populate the Datadog advanced settings fields to define API paths, batching limits, host filters, sync duration, connection details, and debugging options. These values control how the pull connector retrieves and processes metrics and host data from Datadog, ensuring the connector runs with the desired scope and behavior.
 -   **[Dynatrace advanced settings fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/dynatrace-advanced-settings-fields.md)**  
 Populate the pull connector advanced settings fields to optimize event retrieval and synchronization based on specific requirements such as connection preferences, event frequency, and time zone settings.
 -   **[Pull connector fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/pull-connector-advanced-settings-fields.md)**  
@@ -43,9 +43,3 @@ Populate the pull connector advanced settings fields to optimize event retrieval
 
 **Parent Topic:**[Service Operations Workspace for ITOM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/sow-landing-page-itom.md)
 
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[r-discovery|Discovery]]
-- [[c_DiscoveryStatus|Discovery status]]
-- [[datadog-advanced-settings-fields|Datadog advanced settings fields]]

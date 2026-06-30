@@ -12,7 +12,7 @@ breadcrumb: [Create a legacy scenario analysis, Enable the legacy scenario analy
 
 # Create Scenario analysis form
 
-Use the [[create-sca-record-form|Create Scenario analysis form]] in [[grc-opres-landing-page|Operational Resilience]] Workspace to add the details about the [[scenario-analysis-ov|scenario analysis]], milestones, assignees, and so on.
+Use the Create Scenario analysis form in Operational Resilience Workspace to add the details about the scenario analysis, milestones, assignees, and so on.
 
 ## Create Scenario analysis form
 
@@ -148,7 +148,7 @@ Scenario Events
 
  Scenario events that an analysis owner can associate with the analysis. As an owner, select **Add** to associate a scenario event with the analysis.
 
- When you [[add-a-scenario-event|add a scenario event]] to the analysis, the following details about the event are displayed on the form:
+ When you add a scenario event to the analysis, the following details about the event are displayed on the form:
 
 -   Name. For example, Facility outage.
 -   Event group. For example, Infrastructure Events.
@@ -353,10 +353,3 @@ Approvers that are associated with the scenario analysis.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[create-sca-record-form|Create Scenario Analysis form]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[scenario-analysis-ov|Scenario analysis]]
-- [[add-a-scenario-event|Add a scenario event]]

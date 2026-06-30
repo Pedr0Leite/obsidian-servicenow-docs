@@ -12,7 +12,7 @@ breadcrumb: [Examples of using AI agents, Now Assist AI agents, Enable AI experi
 
 # Resolve an incident
 
-Help your live agents resolve an incident faster with [[na-ai-agents|Now Assist AI agents]] by using the [[now-assist-center-now-assist-panel|Now Assist panel]].
+Help your live agents resolve an incident faster with Now Assist AI agents by using the Now Assist panel.
 
 \[Omitted video\] Description: Description of resolving a request with AI agents and the behind the scenes of how AI agents work
 
@@ -24,7 +24,7 @@ Role required: none
 
 1.  Navigate to **All** &gt; **Incidents** &gt; **Assigned to you** and open an incident that you would like to resolve.
 
-    When you open an incident, the [[platform-now-assist-landing|Now Assist]] application checks if a plan is available by using AI agents and displays the `Now Assist has a plan for solving INCXXXXXXX. Open Now Assist Panel to view the plan.` message in a banner.
+    When you open an incident, the Now Assist application checks if a plan is available by using AI agents and displays the `Now Assist has a plan for solving INCXXXXXXX. Open Now Assist Panel to view the plan.` message in a banner.
 
     **Note:** You can select the banner and directly go to the conversation on the Now Assist panel to complete the task.
 
@@ -36,8 +36,4 @@ Role required: none
 
     When the live agent enters `Yes`, they can proceed with the execution plan that is proposed by the Now Assist AI agents. The live agent checks the conversation and adds further inputs, if needed, to resolve the incident.
 
-## Related
 
-- [[na-ai-agents|Now Assist AI agents]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[platform-now-assist-landing|Now Assist]]

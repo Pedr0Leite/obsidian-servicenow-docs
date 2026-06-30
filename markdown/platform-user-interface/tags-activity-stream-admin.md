@@ -12,7 +12,7 @@ breadcrumb: [Activity stream, Administer, Configurable Workspace UI, Configure U
 
 # Configure tags for the Activity stream
 
-[[configure-onboarding-modals|Configure]] custom [[c_Tags|tags]] to filter through entries in the [[activity-stream-configurable-workspace|Activity stream]].
+Configure custom tags to filter through entries in the Activity stream.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-Tags enable you to filter entries in the Activity stream by dynamic and static states not offered in filter [[lists-configurable-workspace|lists]].
+Tags enable you to filter entries in the Activity stream by dynamic and static states not offered in filter lists.
 
 **Important:** Tags are not available until you configure and create them.
 
@@ -30,7 +30,7 @@ Tags enable you to filter entries in the Activity stream by dynamic and static s
 
 1.  Open your Configurable Workspace experience in UI Builder.
 
-    For instructions, see [[open-your-configurable-workspace-experience-in-ui-builder|Open experience]].
+    For instructions, see [Open experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/open-your-configurable-workspace-experience-in-ui-builder.md).
 
 2.  Select a page from your experience.
 
@@ -77,10 +77,3 @@ All tags you created appear under the Tags section.
 
 \[Omitted image "x-activity-tags-admin.png"\] Alt text: Tags property
 
-## Related
-
-- [[open-your-configurable-workspace-experience-in-ui-builder|Open a Configurable Workspace experience in UI Builder]]
-- [[configure-onboarding-modals|Configure]]
-- [[c_Tags|Tags]]
-- [[activity-stream-configurable-workspace|Activity stream]]
-- [[lists-configurable-workspace|Lists]]

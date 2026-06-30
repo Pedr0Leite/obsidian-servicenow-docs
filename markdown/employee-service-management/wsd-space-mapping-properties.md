@@ -12,7 +12,7 @@ breadcrumb: [Reference, Workplace Space Mapping, Workplace Service Delivery, Emp
 
 # Properties installed with Workplace Space Mapping
 
-The following properties are installed with [[wsm-mappedin-admin|Workplace Space Mapping]]. Navigate to **All** &gt; **Workplace Space Mapping** &gt; **Properties** or enter sys\_properties.list in the context menu and search for Workplace Space Mapping properties.
+The following properties are installed with Workplace Space Mapping. Navigate to **All** &gt; **Workplace Space Mapping** &gt; **Properties** or enter sys\_properties.list in the context menu and search for Workplace Space Mapping properties.
 
 <table id="table_hs1_nrx_bbc"><thead><tr><th>
 
@@ -28,7 +28,7 @@ sn\_wsd\_space\_map.mapping\_technology
 
 </td><td>
 
-Map provider used for workplace reservations and wayfinding.You can select Mappedin or [[Indoor-mapping|Indoor Mapping]] as the map provider for your instance.
+Map provider used for workplace reservations and wayfinding.You can select Mappedin or Indoor Mapping as the map provider for your instance.
 
 </td></tr><tr><td>
 
@@ -171,10 +171,10 @@ sn\_wsd\_space\_map.default\_label\_on\_map\_reservation
 
 </td><td>
 
-Default value used to display labels on map on the reservation portal search page.**Note:** This property is displayed only when any of the following properties are enabled in Workplace Space Mapping and [[workplace-safety-mgmt-hr|Workplace Core]] respectively:
+Default value used to display labels on map on the reservation portal search page.**Note:** This property is displayed only when any of the following properties are enabled in Workplace Space Mapping and Workplace Core respectively:
 
 -   sn\_wsd\_space\_map.display\_seat\_assignment: Displays the permanent seat assignments on the location directory. For more information, see [Properties installed with Workplace Space Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/wsd-space-mapping-properties.md)
--   sn\_wsd\_core.floor\_plan.portal.show\_reservation\_details:Determines whether reservation details appear when users select booked spaces on the floor plan in [[workplace-services-portal-hr|Workplace Service Portal]]. For more information, see [Properties installed with Workplace Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/properties-installed-with-workplace-service-delivery.md).
+-   sn\_wsd\_core.floor\_plan.portal.show\_reservation\_details:Determines whether reservation details appear when users select booked spaces on the floor plan in Workplace Service Portal. For more information, see [Properties installed with Workplace Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/properties-installed-with-workplace-service-delivery.md).
     -   Type: true\|false
     -   Default value: false
 
@@ -207,17 +207,10 @@ The map label shows personalized option based on the employee's selection from t
 
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[wsm-reference|Workplace Space Mapping reference]]
+</table>**Parent Topic:**[Workplace Space Mapping reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/wsm-reference.md)
 
 **Related topics**  
 
 
 [Components installed with Workplace Space Mapping]()
 
-## Related
-
-- [[wsm-reference|Workplace Space Mapping reference]]
-- [[wsm-mappedin-admin|Workplace Space Mapping]]
-- [[Indoor-mapping|Indoor Mapping]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-services-portal-hr|Workplace Service Portal]]

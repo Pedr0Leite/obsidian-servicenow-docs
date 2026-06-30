@@ -16,7 +16,7 @@ breadcrumb: [Configure, Workplace Calendar Synchronization, Workplace Service De
 
 As an admin, create connections with your calendar providers and synchronize reservations.
 
-Perform the following actions to synchronize reservations using the [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]:
+Perform the following actions to synchronize reservations using the Workplace Calendar Synchronization:
 
 -   Authenticate ServiceNow with your calendar provider.
 -   Set up an OAuth connectivity with your calendar provider: Create an application registry and generate OAuth entities.
@@ -28,7 +28,7 @@ For more information about scheduled jobs and flows, refer to [Scheduled jobs in
 
 **Important:** You will not be notified when an event is rejected or declined by Microsoft Outlook. For the same reason, a scheduled job - **Clean-up Awaiting/Rejected Reservations**, is available that you can run on any suitable frequency to clear the reservations rejected or declined by the Microsoft Outlook calendar.
 
-**Warning:** Reservations that are created using calendar providers can’t be edited in the [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] application.
+**Warning:** Reservations that are created using calendar providers can’t be edited in the Workplace Reservation Management application.
 
 ## Workplace Calendar Synchronization version 1.6.1 and older
 
@@ -40,7 +40,3 @@ From Workplace Calendar Synchronization 2.0.1 and later, the application uses Mi
 
 Workplace Calendar Synchronization 2.0.1 and later uses Integration Hub the REST API to connect with Microsoft Exchange Online spoke.
 
-## Related
-
-- [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]

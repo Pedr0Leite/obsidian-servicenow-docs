@@ -18,7 +18,7 @@ Configure the automated email notification alerts that are sent to major inciden
 
 ## Before you begin
 
-The Major [[c_IncidentManagement|Incident Management]] plugin must be activated in Service Operations Workspace. For more information, see [Activate Major Incident Management in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/install-mim-sow.md).
+The Major Incident Management plugin must be activated in Service Operations Workspace. For more information, see [Activate Major Incident Management in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/install-mim-sow.md).
 
 Consider the following items when you create or update a notification:
 
@@ -28,7 +28,7 @@ Consider the following items when you create or update a notification:
 
 -   Your notification recipients must have the appropriate notification preferences enabled.
 
-    Each user or group member must have the option to subscribe to the notification. They should have that option enabled in their notification preferences, along with the [[dex-workspace-devices-tab|devices]] through which they want to receive the notification. Admins can impersonate users to review and configure their notification preferences. For more information, see [Setting notification preferences in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-notification-preferences.md)
+    Each user or group member must have the option to subscribe to the notification. They should have that option enabled in their notification preferences, along with the devices through which they want to receive the notification. Admins can impersonate users to review and configure their notification preferences. For more information, see [Setting notification preferences in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-notification-preferences.md)
 
 -   To have your email notification also send as an SMS notification, recipients must subscribe to the notification on an SMS channel. For more information on creating an SMS channel, see [Create notification channels](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-channel.md).
 -   After you create or update the notification, use the **Preview Notification** option to examine it. For example, you can test links that you have added and verify the notification recipients. For details, see [Preview email notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_PreviewingNotifications.md).
@@ -76,7 +76,3 @@ Use the **Preview Notification** option to preview what notifications look like 
 
 For more information, see [Preview email notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_PreviewingNotifications.md).
 
-## Related
-
-- [[c_IncidentManagement|Incident Management]]
-- [[dex-workspace-devices-tab|Devices]]

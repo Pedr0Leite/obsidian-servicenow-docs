@@ -18,7 +18,7 @@ Generate a new service \(an application service, application model, or dynamic C
 
 ## Before you begin
 
-**Important:** Starting with the Washington D.C. release, [[devops-config-landing-page|DevOps Config]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+**Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 Role required: CDM Admin \[sn\_cdm.cdm\_admin\]
 
@@ -28,7 +28,7 @@ For the application, you specify the number of deployables to generate and the S
 
 ## Procedure
 
-1.  Select the **[[dex-workspace-application-tab|Applications]]** icon \(\[Omitted image "icon-applications-nav.png"\] Alt text: Applications icon\) to open the Create new application page and then select **New application**.
+1.  Select the **Applications** icon \(\[Omitted image "icon-applications-nav.png"\] Alt text: Applications icon\) to open the Create new application page and then select **New application**.
 
     \[Omitted image "cdm-create-new-app-page.png"\] Alt text: Choose how to create the new CDM application
 
@@ -47,7 +47,7 @@ For the application, you specify the number of deployables to generate and the S
 
 3.  Select **Manage deployables** to open the **Edit deployables** tab where you can configure the deployables.
 
-4.  Select **Create deployables** and then fill in the [[settings-mobile|settings]] on the Create Deployables dialog box to specify the quantity and environment type of deployables to create and the CMDB services to connect them to.
+4.  Select **Create deployables** and then fill in the settings on the Create Deployables dialog box to specify the quantity and environment type of deployables to create and the CMDB services to connect them to.
 
 <table id="table_efn_lrs_xrb"><thead><tr><th>
 
@@ -164,8 +164,3 @@ The application is not yet structured to accept config data, so the next step is
 
 [CDM data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-data-model.md)
 
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]
-- [[dex-workspace-application-tab|Applications]]
-- [[settings-mobile|Settings]]

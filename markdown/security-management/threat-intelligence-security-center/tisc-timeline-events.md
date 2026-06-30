@@ -14,7 +14,7 @@ breadcrumb: [Working with Investigation Canvas, Threat Analyst Workbench, Use, T
 
 # Using Timeline in Investigation Canvas
 
-The Timeline feature of the Investigation Canvas within the [[tisc-landing-page|Threat Intelligence Security Center]] \(TISC\) empowers analysts to visualize, create, and edit timeline events associated to entities during investigations. This capability significantly enhances the effectiveness of temporal analysis.
+The Timeline feature of the Investigation Canvas within the Threat Intelligence Security Center \(TISC\) empowers analysts to visualize, create, and edit timeline events associated to entities during investigations. This capability significantly enhances the effectiveness of temporal analysis.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: sn\_sec\_tisc.analyst
 
 1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center**.
 
-2.  Select the **[[threat-analyst-workbench|Threat Analyst Workbench]]** icon.
+2.  Select the **Threat Analyst Workbench** icon.
 
 3.  Go to **Investigation Canvases** &gt; **All Canvases**.
 
@@ -90,7 +90,7 @@ Role required: sn\_sec\_tisc.analyst
 
     This functionality provides direct control over which events are linked to a node and by complementing the visualization on the Canvas.
 
-    **Important:** **Default events for [[c_Observables|Observables]]:** Certain events are automatically displayed for specific observables. For example, File observables include the **First Seen** and **Last Seen** fields.
+    **Important:** **Default events for Observables:** Certain events are automatically displayed for specific observables. For example, File observables include the **First Seen** and **Last Seen** fields.
 
     The system property `sn_sec_tisc.timeline_node_fields` provisioned in the base system that determines which fields are displayed on the timeline.
 
@@ -105,8 +105,3 @@ Add timeline events to the investigation canvas by adding the related entities t
 
 **Parent Topic:**[Working with Investigation Canvas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-investigation-canvases.md)
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-analyst-workbench|Threat Analyst Workbench]]
-- [[c_Observables|Observables]]

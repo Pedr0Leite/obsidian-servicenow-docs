@@ -40,11 +40,8 @@ For more information, see [Configuring Smart Assessment questionnaires for Now M
 
 **Note:**
 
--   Smart Assessment allows migration of [[survey-based-questionnaires|survey-based questionnaires]] to [[smart-assessment-questionnaire|Smart Assessment questionnaires]].
+-   Smart Assessment allows migration of survey-based questionnaires to Smart Assessment questionnaires.
 
 -   Usage of Smart Assessment questionnaire can't be disabled once enabled.
 
-## Related
 
-- [[survey-based-questionnaires|Survey-based questionnaires]]
-- [[smart-assessment-questionnaire|Smart Assessment Questionnaires]]

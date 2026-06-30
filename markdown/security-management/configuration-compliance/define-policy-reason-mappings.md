@@ -26,7 +26,7 @@ Role required: sn\_vul.compliance.manager and sn\_vulc.admin
 
     **Note:** You can either select a reason from the reason choices available in the Reason Choices table or add a new reason.
 
-2.  Click the [[cvr-landing|Container Vulnerability Response]] - CVIT integration registry.
+2.  Click the Container Vulnerability Response - CVIT integration registry.
 
 3.  To add an existing reason choice, perform the following steps:
 
@@ -97,6 +97,4 @@ Option to display the choice in the list of reason choices.
 </td></tr></tbody>
 </table>5.  Click **Submit**.
 
-## Related
 
-- [[cvr-landing|Container Vulnerability Response]]

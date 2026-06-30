@@ -24,7 +24,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Credentials &amp; Connections** &gt; **[[authentication-algorithms|Authentication Algorithms]]**, and click **New**.
+1.  Navigate to **All** &gt; **Credentials &amp; Connections** &gt; **Authentication Algorithms**, and click **New**.
 
 2.  On the form, fill in the fields.
 
@@ -33,16 +33,12 @@ Role required: admin
     |Field|Description|
     |-----|-----------|
     |Name|Unique name of this algorithm.|
-    |Algorithm|Outbound [[c_requestAPI|request]] type.|
+    |Algorithm|Outbound request type.|
     |Description|Description of what your algorithm does.|
     |Application|Scope that your application runs in.|
-    |Instance [[c_Authentication|Authentication]] Script|Script that you select from the Script Includes table.|
+    |Instance Authentication Script|Script that you select from the Script Includes table.|
     |MID Authentication Script|Script that you select from the MID Server Script Includes \[Discovery view\] table.|
 
 3.  Click **Submit**.
 
-## Related
 
-- [[authentication-algorithms|Authentication Algorithms]]
-- [[c_requestAPI|request]]
-- [[c_Authentication|Authentication]]

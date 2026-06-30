@@ -48,7 +48,7 @@ Select **Workspaces** &gt; **Vendor Management Workspace** and then select the *
 
 -   **\[Omitted image "unified-content-mgmt-icon.png"\] Alt text:Unified content management page**
 
-    After upgrading to version 22.0.1 and installing the Unified Content Management application, the Unified Content Management page provides access to a centralized library of Smart [[airc-assessment-templates|Assessment templates]]. TPR managers \[sn\_vdr\_risk\_asmt.vendor\_risk\_manager\] can use this library to activate and update ready-to-use questionnaires aligned with global regulations and industry standards, helping ensure consistent and comprehensive assessments. For more information, see [TPRM Unified content management page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-ws-ucm-page.md).
+    After upgrading to version 22.0.1 and installing the Unified Content Management application, the Unified Content Management page provides access to a centralized library of Smart Assessment templates. TPR managers \[sn\_vdr\_risk\_asmt.vendor\_risk\_manager\] can use this library to activate and update ready-to-use questionnaires aligned with global regulations and industry standards, helping ensure consistent and comprehensive assessments. For more information, see [TPRM Unified content management page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-ws-ucm-page.md).
 
 -   **\[Omitted image "icon-tprm-ws-list.png"\] Alt text: List page**
 
@@ -80,9 +80,5 @@ The unified content management page provides access to a centralized library of 
 -   **[TPRM List page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-ws-list-page.md)**  
 The List page is a general-purpose page that enables access to all items that you can view or act on in TPRM.
 
-**Parent Topic:**[[r_WhatIsGRC|Governance, Risk, and Compliance]]
+**Parent Topic:**[Governance, Risk, and Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/r_WhatIsGRC.md)
 
-## Related
-
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]
-- [[airc-assessment-templates|Assessment templates]]

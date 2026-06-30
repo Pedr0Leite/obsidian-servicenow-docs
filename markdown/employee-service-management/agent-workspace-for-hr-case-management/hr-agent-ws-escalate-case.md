@@ -14,7 +14,7 @@ breadcrumb: [Using the More icon in Agent Workspace for HR Case Management, Usin
 
 # Escalating a case in Agent Workspace for HR Case Management
 
-[[t_EscalateAnHRCase|Escalate an HR case]] when you are unable to resolve an issue and must amplify the importance of a case.
+Escalate an HR case when you are unable to resolve an issue and must amplify the importance of a case.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ The matching rules you have implemented will determine the group and agent the c
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **[[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **Agent Workspace for HR Case Management**.
 
 2.  Find the case you want to transfer.
 
@@ -40,8 +40,4 @@ The matching rules you have implemented will determine the group and agent the c
 
     The form refreshes and is now assigned to the next tier assignment group.
 
-## Related
 
-- [[t_EscalateAnHRCase|Escalate an HR case]]
-- [[case-management-workspace|Case management]]
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]

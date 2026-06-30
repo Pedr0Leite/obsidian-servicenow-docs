@@ -14,7 +14,7 @@ breadcrumb: [Mandatory skills, Manage skills, Users, Set up workforce, Configure
 
 # Configuring mandatory skills
 
-Configure the [[mandatory-skills|mandatory skills]] feature for use with the Customer Service Management and [[fsm-application-landing-page|Field Service Management]] applications.
+Configure the mandatory skills feature for use with the Customer Service Management and Field Service Management applications.
 
 Mandatory skills is an optional feature included with the Customer Service Management and Field Service Management plugins. Use the steps below to configure this feature with the desired application.
 
@@ -38,7 +38,7 @@ To configure the mandatory skills feature for use with Field Service Management:
 1.  Enable the **work.management.use.mandatory.skills** system property.
 2.  Configure the Work Order form and the Work Order Task form to use the Task Skills \[task\_m2m\_skill\] table.
 3.  \[Optional\] For existing work orders and tasks that have data populated in the **Skills** field on the Work Order and Work Order Task forms, run the **Migrate Skills to Task Skill M2M** script to move this data to the Task Skills table. By default, this fix script migrates the skills from existing entries in the Case, Work Order, and Work Order Task tables to the Task Skills table and configures them as optional skills. For more information, see [Migrate skills to the Task Skill table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/migrate-skills-m2m-table.md).
-4.  If you are using [[dynamic-scheduling|dynamic scheduling]], update the task filter for the dynamic scheduling configuration and replace the **Matching Skills for Dynamic Scheduling** matching criteria with the **Matching Mandatory Skills for Dynamic Scheduling** matching criteria. For more information, see [Create a task filter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/create-dynamic-scheduling-config.md).
+4.  If you are using dynamic scheduling, update the task filter for the dynamic scheduling configuration and replace the **Matching Skills for Dynamic Scheduling** matching criteria with the **Matching Mandatory Skills for Dynamic Scheduling** matching criteria. For more information, see [Create a task filter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/create-dynamic-scheduling-config.md).
 
 For configuring optional skills, navigate to **Field Service** &gt; **Administration** &gt; **Configuration**, click the **Assignment** tab and set **Auto-selection of agents for tasks requires them to have skills** to one of the following:
 
@@ -91,9 +91,3 @@ Contains a list of tables for which the **Skills** field has already been migrat
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[mandatory-skills|Mandatory skills]]
-- [[fsm-application-landing-page|Field Service Management]]
-- [[dynamic-scheduling|Dynamic scheduling]]

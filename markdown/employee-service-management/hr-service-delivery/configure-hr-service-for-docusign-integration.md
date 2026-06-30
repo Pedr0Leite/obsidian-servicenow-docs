@@ -22,7 +22,7 @@ Role required: sn\_hr\_core.admin
 
 ## About this task
 
-Depending on whether the user is signing an ad hoc document \(HR PDF document template\) or a DocuSign template, the following preconfigured [[hr-service-administration|HR services]], flows, and HR case templates are available for your use and example. See [HR services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-service-administration.md) to learn more about [[hr-service-configuration|HR service configuration]], generally.
+Depending on whether the user is signing an ad hoc document \(HR PDF document template\) or a DocuSign template, the following preconfigured HR services, flows, and HR case templates are available for your use and example. See [HR services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-service-administration.md) to learn more about HR service configuration, generally.
 
 |Flow|Component|Name|
 |----|---------|----|
@@ -37,7 +37,7 @@ Depending on whether the user is signing an ad hoc document \(HR PDF document te
 
 1.  Configure an HR service for the DocuSign integration.
 
-    1.  Navigate to **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **HR Service Configuration**.
+    1.  Navigate to **HR Administration** &gt; **HR Service Configuration**.
 
     2.  Click **New** or open a record.
 
@@ -64,7 +64,7 @@ Depending on whether the user is signing an ad hoc document \(HR PDF document te
 
     1.  In the **Template** field, click the Lookup icon.
 
-    2.  In the **[[hr-template-configuration|HR Templates]]** list, click **New** or open a record.
+    2.  In the **HR Templates** list, click **New** or open a record.
 
     3.  From the **Add fields** list, select **PDF Template.**
 
@@ -85,9 +85,3 @@ Depending on whether the user is signing an ad hoc document \(HR PDF document te
 
 **Parent Topic:**[Integrating with the DocuSign service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/docusign-integration-for-hr.md)
 
-## Related
-
-- [[hr-service-administration|HR services]]
-- [[hr-service-configuration|HR service configuration]]
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[hr-template-configuration|HR templates]]

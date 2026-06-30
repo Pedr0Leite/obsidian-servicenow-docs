@@ -17,15 +17,11 @@ breadcrumb: [Installing and configuring Password Reset Windows Application, Pass
 Install Password Reset Windows Application using different available methods.
 
 -   **[Use an EXE file from the command line](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/win-install-pwr-exe.md)**  
-As an alternative to command-line installation, you can [[win-install-pwr-wizard|use a wizard]].
+As an alternative to command-line installation, you can use a wizard.
 -   **[Use an MSI file from the command line](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/win-install-pwr-msi.md)**  
-Use the MSI file to install the [[win-password-reset-overview|Password Reset Windows Application]] on multiple computers over a network. As an alternative to MSI installation, you can also install from the command line.
+Use the MSI file to install the Password Reset Windows Application on multiple computers over a network. As an alternative to MSI installation, you can also install from the command line.
 -   **[Use a wizard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/win-install-pwr-wizard.md)**  
 As an alternative to wizard installation, you can run commands directly at the command line.
 
 **Parent Topic:**[Installing and configuring Password Reset Windows Application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/install-configure-password-reset-windows-app.md)
 
-## Related
-
-- [[win-install-pwr-wizard|Use a wizard]]
-- [[win-password-reset-overview|Password Reset Windows Application]]

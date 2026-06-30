@@ -14,7 +14,7 @@ breadcrumb: [High-level planning configuration in Strategic Planning, Configure,
 
 # Enable high-level planning for a lens entity
 
-To enable high-level planning on for an entity in [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace, update the lens entity configuration.
+To enable high-level planning on for an entity in Strategic Planning Workspace, update the lens entity configuration.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin
 
 ## About this task
 
-For the table that you want to enable high-level planning, set the **Planning enabled** field to **Yes** in the [[lens-form-portfolio-planning|Lens form]]. Completing this task would enable your planning managers to create portfolio plans using this table as a planning item, in Strategic Planning Workspace.
+For the table that you want to enable high-level planning, set the **Planning enabled** field to **Yes** in the Lens form. Completing this task would enable your planning managers to create portfolio plans using this table as a planning item, in Strategic Planning Workspace.
 
 For this task, consider the example of Strategic Investments as the lens and the Strategic Priority \[sn\_gf\_strategy\] table as the high-level planning entity.
 
@@ -57,7 +57,3 @@ Your planning managers can now create portfolio plans on the Strategic Investmen
 
 [Populate global rank for high-level planning items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/populate-global-rank-for-high-level-planning-items.md).
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[lens-form-portfolio-planning|Lens Form]]

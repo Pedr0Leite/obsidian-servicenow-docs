@@ -26,7 +26,7 @@ Role required: workspace\_user
 
 2.  From the list header, select the filter button \(\[Omitted image "list-filter-button.png"\] Alt text: filter button\).
 
-    A dialog box opens for generating [[c_Filters|filters]].
+    A dialog box opens for generating filters.
 
     \[Omitted image "dialog-ai-filter-assist.png"\] Alt text: AI filter assist dialog box
 
@@ -53,6 +53,4 @@ Role required: workspace\_user
 
 8.  View a list of filters you generated recently by selecting the history icon \(\[Omitted image "icon-history.png"\] Alt text: history icon\).
 
-## Related
 
-- [[c_Filters|Filters]]

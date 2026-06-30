@@ -14,7 +14,7 @@ breadcrumb: [Assistant Designer user input controls, Assistant Designer interfac
 
 # Grouped Choice user input control
 
-Use the Grouped Choice user input control in a [[virtual-agent-landing-page|Virtual Agent]] topic to list multiple groups of choices in one message.
+Use the Grouped Choice user input control in a Virtual Agent topic to list multiple groups of choices in one message.
 
 ## Grouped Choice list display
 
@@ -239,6 +239,3 @@ List prompt
 
 **Parent Topic:**[Assistant Designer user input controls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-user-inputs.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

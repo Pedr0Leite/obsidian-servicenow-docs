@@ -14,11 +14,11 @@ breadcrumb: [Error handling and logging, Hardening settings, Platform Security]
 
 # Prevent verbose HTTP request logging
 
-Help prevent access to sensitive information by reducing verbose HTTP [[c_requestAPI|request]] logging.
+Help prevent access to sensitive information by reducing verbose HTTP request logging.
 
 The two properties **glide.outbound\_http\_log.override** and **glide.outbound\_http\_log.override.level** work together to control the level of logging for outbound HTTP requests. When **glide.outbound\_http\_log.override** is set to **true**, the log level for requests and responses is controlled by **glide.outbound\_http\_log.override.level**. If the override level is set to **all** or **elevated**, then request and response headers are logged.
 
-Ensure that **glide.outbound\_http\_log.override** is not set to **true** and that **glide.outbound\_http\_log.override.level** is not set to **all** or **elevated**. If these properties do not appear in the [[ca-system-properties|System Properties]] \[sys\_properties table\], they are in a secure state.
+Ensure that **glide.outbound\_http\_log.override** is not set to **true** and that **glide.outbound\_http\_log.override.level** is not set to **all** or **elevated**. If these properties do not appear in the System Properties \[sys\_properties table\], they are in a secure state.
 
 ## More information
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -99,7 +99,7 @@ Security risk
 
 -   Severity score: 5.0
 -   CVSS rating: Medium
--   Security risk details: The headers logged through verbose settings for these properties can include sensitive information such as Authorization headers or cookies which can be used like credentials to access the requested resource. Any user who has access to the Outbound HTTP [[logs|Logs]] table \(sys\_outbound\_http\_log\) can view this information changing their scope of access. The severity would depend on what type of outbound requests are made.
+-   Security risk details: The headers logged through verbose settings for these properties can include sensitive information such as Authorization headers or cookies which can be used like credentials to access the requested resource. Any user who has access to the Outbound HTTP Logs table \(sys\_outbound\_http\_log\) can view this information changing their scope of access. The severity would depend on what type of outbound requests are made.
 
 </td></tr><tr><td>
 
@@ -126,9 +126,3 @@ None
 
 **Parent Topic:**[Error handling and logging](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-error-handling-logging.md)
 
-## Related
-
-- [[c_requestAPI|request]]
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]
-- [[logs|Logs]]

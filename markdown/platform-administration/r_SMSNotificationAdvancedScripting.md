@@ -97,8 +97,5 @@ device
 -   device.type
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[t_CreateAServiceProvider|Create a service provider]]
+</table>**Parent Topic:**[Create a service provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAServiceProvider.md)
 
-## Related
-
-- [[t_CreateAServiceProvider|Create a service provider]]

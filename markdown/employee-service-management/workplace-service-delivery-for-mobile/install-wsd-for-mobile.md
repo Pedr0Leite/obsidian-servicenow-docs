@@ -14,7 +14,7 @@ breadcrumb: [Configure, Workplace Service Delivery for Mobile, Workplace Service
 
 # Install Workplace Service Delivery for Mobile
 
-Install the [[wsd-mobile-overview|Workplace Service Delivery for Mobile]] application from the ServiceNow® Store.
+Install the Workplace Service Delivery for Mobile application from the ServiceNow® Store.
 
 ## Before you begin
 
@@ -22,8 +22,8 @@ Complete the following setup instructions.
 
 1.  Navigate to **Subscription Management** &gt; **Subscriptions** in your instance. The list displays the subscriptions that your organization has purchased.
 2.  Verify that the following plugins are activated:
-    -   [[workplace-safety-mgmt-hr|Workplace Core]]
-    -   [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
+    -   Workplace Core
+    -   Workplace Reservation Management
 
 Use the following details when required:
 
@@ -53,8 +53,3 @@ Role required: admin
 
 **Next topic:**[Mobile Wayfinding Administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/mobile-wayfinding.md)
 
-## Related
-
-- [[wsd-mobile-overview|Workplace Service Delivery for Mobile]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]

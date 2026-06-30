@@ -15,7 +15,7 @@ breadcrumb: [Analytics and reporting, Working with Employee Slate capabilities, 
 
 # Configure analytics and reporting
 
-Access conversion funnel analytics to track user behavior patterns and identify optimization opportunities in [[employee-slate-landing-page|Employee Slate]] experiences.
+Access conversion funnel analytics to track user behavior patterns and identify optimization opportunities in Employee Slate experiences.
 
 ## Before you begin
 
@@ -31,12 +31,12 @@ Conversion funnels help you understand how employees move through specific workf
 
 1.  Navigate to **All** &gt; **User Experience Analytics**.
 
-    The [[ued-ec|Usage Insights dashboard]] opens.
+    The Usage Insights dashboard opens.
 
 2.  Select the appropriate Employee Slate option based on your subscription.
 
     -   For standard Employee Slate deployments, select **Employee Slate**.
-    -   For Moveworks deployments, select **[[employee-slate-moveworks|Employee Slate for Moveworks]]**.
+    -   For Moveworks deployments, select **Employee Slate for Moveworks**.
     The selection determines which analytics data and funnel options are available.
 
 3.  Select one of the following options to see the list of available items.
@@ -89,8 +89,3 @@ To create custom funnels for specific workflows, see the funnel configuration do
 
 [Edit a conversion funnel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/edit-funnel.md)
 
-## Related
-
-- [[employee-slate-landing-page|Employee Slate]]
-- [[ued-ec|Usage Insights dashboard]]
-- [[employee-slate-moveworks|Employee Slate for Moveworks]]

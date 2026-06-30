@@ -14,7 +14,7 @@ breadcrumb: [Use, Privacy Management, Governance, Risk, and Compliance]
 
 # Assign a processing activity to a key stakeholder
 
-Assign a processing activity to a key stakeholder with edit access to let them update it directly from the [[employee-center|Employee Center]].
+Assign a processing activity to a key stakeholder with edit access to let them update it directly from the Employee Center.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ You can assign a processing activity to a key stakeholder when it is in the **Di
 
 ## Procedure
 
-1.  From the [[list-view-uib-ws|List view]] of the Privacy Workspace, navigate to **[[ropa-record|Processing activities]]** &gt; **Unassigned processing activities**.
+1.  From the List view of the Privacy Workspace, navigate to **Processing activities** &gt; **Unassigned processing activities**.
 
 2.  Select the processing activity to be assigned to a key stakeholder.
 
@@ -60,8 +60,3 @@ The assigned stakeholder receives an email notifying them of the processing acti
 
 [Integrating Employee Center and Risk portal with Privacy Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/integrate-privacy-and-employee-center.md)
 
-## Related
-
-- [[employee-center|employee center]]
-- [[list-view-uib-ws|List view]]
-- [[ropa-record|Processing activities]]

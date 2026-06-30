@@ -18,7 +18,7 @@ List reports display data in the form of an expandable list. You can configure w
 
 **Note:**
 
--   This topic refers to [[reporting-landing-page|Reporting]] in the Core UI. If your instance is migrated to [[par-workspace|Platform Analytics experience]], see [[create-dv-analytics-list|Create a list visualization in the Visualization Designer]].
+-   This topic refers to Reporting in the Core UI. If your instance is migrated to Platform Analytics experience, see [Create a list visualization in the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-analytics-list.md).
 -   List reports display in List v2, even if List v3 is enabled.
 -   The record count and pagination buttons appear only at the bottom of the list.
 
@@ -43,13 +43,7 @@ There are three types of list reports.
     List reports based on a data source or table that has questions associated with it. For example, if a form prompts a user to select the specific nature of a problem, you can create a list report with columns for their responses.
 
 
-Basic list reports can use a table, a data source, an imported Excel spreadsheet, or a MetricBase table for their [[c_ReportSources|report sources]]. List reports with variable and question columns use only tables and data sources.
+Basic list reports can use a table, a data source, an imported Excel spreadsheet, or a MetricBase table for their report sources. List reports with variable and question columns use only tables and data sources.
 
 There are extra steps to configure the question and variable columns.
 
-## Related
-
-- [[create-dv-analytics-list|Create a list visualization in the Visualization Designer]]
-- [[reporting-landing-page|Reporting]]
-- [[par-workspace|Platform Analytics experience]]
-- [[c_ReportSources|Report sources]]

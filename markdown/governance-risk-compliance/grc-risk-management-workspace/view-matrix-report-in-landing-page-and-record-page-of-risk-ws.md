@@ -20,7 +20,7 @@ Access and analyze the risk posture of your organization using entity-related da
 
 Role required: sn\_risk\_workspace.operational\_risk\_manager or sn\_risk\_workspace.IT\_risk\_manager or sn\_risk\_workspace.business\_op\_risk\_manager
 
-[[risk-workspace|Risk Workspace]] and Matrix report plugin should be installed to use the feature.
+Risk Workspace and Matrix report plugin should be installed to use the feature.
 
 ## About this task
 
@@ -28,7 +28,7 @@ Role required: sn\_risk\_workspace.operational\_risk\_manager or sn\_risk\_works
 
 1.  Navigate to **All** &gt; **Risk** &gt; **Risk Workspace**.
 
-2.  Select the Entity [[tprm-risk-profile-what-is|risk profile]] matrix \[Omitted image "entity-risk-profile-matrix-icon-risk-ws.png"\] Alt text: Matrix report icon. icon.
+2.  Select the Entity risk profile matrix \[Omitted image "entity-risk-profile-matrix-icon-risk-ws.png"\] Alt text: Matrix report icon. icon.
 
     For the landing page display type matrix configuration, you can view the Matrix report in the Risk Workspace.
 
@@ -41,7 +41,3 @@ Role required: sn\_risk\_workspace.operational\_risk\_manager or sn\_risk\_works
 
 **Parent Topic:**[Matrix report in Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/matrix-report-in-risk-workspace.md)
 
-## Related
-
-- [[risk-workspace|risk workspace]]
-- [[tprm-risk-profile-what-is|Risk profile]]

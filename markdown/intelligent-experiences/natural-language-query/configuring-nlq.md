@@ -16,7 +16,7 @@ breadcrumb: [Natural Language Query, Enable AI experiences]
 
 Enhance your users' query experience by supplementing NLQ with words and terms used in your environment. Review your users' actual requests in the NLQ logs to find possible synonyms and shortcuts to add.
 
-[[natural-language-query|Natural Language Query]] functionality is included in the base system. Admins can optionally expand NLQ's range of understanding by adding terms that commonly occur in users' requests. Review the following topics to learn more.
+Natural Language Query functionality is included in the base system. Admins can optionally expand NLQ's range of understanding by adding terms that commonly occur in users' requests. Review the following topics to learn more.
 
 For information about system properties related to NLQ, see [Natural Language Query References](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/natural-language-query/nlq-references.md).
 
@@ -29,9 +29,5 @@ Review NLQ logs to see how the system has handled your users' plain-language req
 -   **[View NLQ Table Guesser logs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/natural-language-query/view-nlq-table-guesser-logs.md)**  
 Use the Table Guesser logs to review the CMDB tables that were picked by NLQ in response to plain-language queries.
 
-**Parent Topic:**[[ai-products|Enable AI experiences]]
+**Parent Topic:**[Enable AI experiences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-products.md)
 
-## Related
-
-- [[ai-products|Enable AI experiences]]
-- [[natural-language-query|Natural Language Query]]

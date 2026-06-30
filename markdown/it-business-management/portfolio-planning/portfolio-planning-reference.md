@@ -14,7 +14,7 @@ breadcrumb: [Portfolio Planning, Strategic Portfolio Management]
 
 # Portfolio Planning reference
 
-Reference information to provide additional details about [[portfolio-planning-app-landing-page|Portfolio Planning]] such as user roles, tables, and domain separation information.
+Reference information to provide additional details about Portfolio Planning such as user roles, tables, and domain separation information.
 
 -   **[Components installed with Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/installed-with-portfolio-planning.md)**  
 Several types of components are installed with activation of the Portfolio Planning application, including tables and user roles.
@@ -27,14 +27,9 @@ Learn about the scenarios when the planning item milestones on the portfolio pla
 -   **[Item dependency errors in Portfolio Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/item-dependency-errors-in-portfolio-planning-wkspc.md)**  
 Learn about the scenarios when the planning item dependencies on the portfolio plan roadmap or free-form roadmap in Portfolio Planning Workspace can be in an error state.
 -   **[Managing Portfolio Planning with PPM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/managing-integration.md)**  
-Ensure that Portfolio Planning is integrated properly with [[c_ProjectPortfolioSuite|Project Portfolio Management]] \(PPM\) following these guidelines.
+Ensure that Portfolio Planning is integrated properly with Project Portfolio Management \(PPM\) following these guidelines.
 -   **[Form field information for Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/form-field-information-for-portfolio-planning.md)**  
-Field information for [[form-field-information-for-dw|forms]] used in the Portfolio Planning application.
+Field information for forms used in the Portfolio Planning application.
 
 **Parent Topic:**[Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/portfolio-planning-app-landing-page.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]
-- [[form-field-information-for-dw|Forms]]

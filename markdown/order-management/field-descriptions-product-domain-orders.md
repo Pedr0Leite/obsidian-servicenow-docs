@@ -12,30 +12,21 @@ breadcrumb: [Order Management reference, Reference, Sales Customer Relationship 
 
 # Domain order forms
 
-The domain order forms enable you to review and [[Modify|modify]] the domain product orders, service orders, and resource orders for a selected customer or service order.
+The domain order forms enable you to review and modify the domain product orders, service orders, and resource orders for a selected customer or service order.
 
--   **[[fields-product-order-form|Product Order form fields]]**  
+-   **[Product Order form fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/fields-product-order-form.md)**  
 The Product Order form enables you to review and modify the domain product orders that are associated with a selected customer order.
--   **[[fields-service-order-form|Service Order form fields]]**  
+-   **[Service Order form fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/fields-service-order-form.md)**  
 The Service Order form enables you to review and modify domain service orders that are associated with a selected customer order.
--   **[[field-resource-order-form|Resource Order form fields]]**  
+-   **[Resource Order form fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/field-resource-order-form.md)**  
 The Resource Order form enables you to review and modify domain resource orders associated with a selected customer order.
 
-**Parent Topic:**[[order-mgt-reference|Order Management reference]]
+**Parent Topic:**[Order Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-reference.md)
 
 **Related topics**  
 
 
-[[view-domain-orders|View domain orders]]
+[View domain orders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/view-domain-orders.md)
 
-[[som-order-types|Order types in Sales Customer Relationship Management]]
+[Order types in Sales Customer Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-order-types.md)
 
-## Related
-
-- [[fields-product-order-form|Product Order form fields]]
-- [[fields-service-order-form|Service Order form fields]]
-- [[field-resource-order-form|Resource Order form fields]]
-- [[order-mgt-reference|Order Management reference]]
-- [[view-domain-orders|View domain orders]]
-- [[som-order-types|Order types in Sales Customer Relationship Management]]
-- [[Modify|Modify]]

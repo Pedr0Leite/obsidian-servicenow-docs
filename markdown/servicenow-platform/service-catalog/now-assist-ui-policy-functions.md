@@ -18,7 +18,7 @@ Now Assist can generate UI policies with multiple actions from simple natural la
 
 ## What you can do with UI Policies using Now Assist
 
-As a [[catalog-builder|Catalog Builder]] editor, you can use Now Assist to create new UI policies, update existing ones, and deactivate them, all through simple, conversational prompts. Each UI policy can include multiple actions, and Now Assist can create that for you.
+As a Catalog Builder editor, you can use Now Assist to create new UI policies, update existing ones, and deactivate them, all through simple, conversational prompts. Each UI policy can include multiple actions, and Now Assist can create that for you.
 
 ## Making targeted changes
 
@@ -59,6 +59,3 @@ If a new instruction contradicts an existing UI policy, for example, one policy 
 
 **Parent Topic:**[Catalog item generation reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/catalog-item-generation-reference.md)
 
-## Related
-
-- [[catalog-builder|Catalog Builder]]

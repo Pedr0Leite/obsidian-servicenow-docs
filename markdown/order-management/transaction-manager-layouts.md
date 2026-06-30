@@ -12,7 +12,7 @@ breadcrumb: [Transaction Manager, CPQ app, Configure, price, quote apps, Configu
 
 # Transaction Manager: Layouts
 
-[[layouts|Layouts]] in [[transaction-manager|Transaction Manager]] can be managed in the Admin UI by using the [[layout_editor|layout editor]] or directly in the YAML format. This topic provides the details of the various layout structures, [[fields|fields]], buttons, and effects, and provides code snippets.
+Layouts in Transaction Manager can be managed in the Admin UI by using the layout editor or directly in the YAML format. This topic provides the details of the various layout structures, fields, buttons, and effects, and provides code snippets.
 
 In Transaction Manager, layouts retain much of the look and feel of the configuration user experience. In January 2026, a visual layout editor was introduced in Transaction Manager. Layouts can be edited in YAML format; however, the option to edit in JSON was retired in favor of the visual editor. Fields, events, UI effects, and lines are available for display and are detailed below.
 
@@ -84,7 +84,7 @@ Settings include the following:
 
 -   **Highlight field changes**
 
-    When enabled, fields are briefly highlighted. Recommended when fields are updated via [[rules_101|rules]] or integrations or if concurrent users are expected.
+    When enabled, fields are briefly highlighted. Recommended when fields are updated via rules or integrations or if concurrent users are expected.
 
 -   **Hide Header**
 
@@ -93,11 +93,11 @@ Settings include the following:
 
 ## Theming
 
-Transaction Manager layouts can be customized with themes. Themes can be enabled on the Customize Theme tab. For more information, see [[customizing-cpq-with-themes|Customizing CPQ with themes]].
+Transaction Manager layouts can be customized with themes. Themes can be enabled on the Customize Theme tab. For more information, see [Customizing CPQ with themes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/customizing-cpq-with-themes.md).
 
 ## Stage progress chevrons
 
-The Stages Progress Chevron component displays a horizontal chevron bar to visually represent a transaction’s progression through stages. It can be defined statically or dynamically and is configurable through layout YAML. For more information, see [[transaction-manager-layouts-the-stages-progress-chevron|Transaction Manager: Layouts - The stages progress chevron]].
+The Stages Progress Chevron component displays a horizontal chevron bar to visually represent a transaction’s progression through stages. It can be defined statically or dynamically and is configurable through layout YAML. For more information, see [Transaction Manager: Layouts - The stages progress chevron](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/transaction-manager-layouts-the-stages-progress-chevron.md).
 
 ## Tiers
 
@@ -552,18 +552,7 @@ productList:
 **Related topics**  
 
 
-[[transaction-manager-layouts-ui-effects|Transaction Manager: Layouts - UI effects]]
+[Transaction Manager: Layouts - UI effects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/transaction-manager-layouts-ui-effects.md)
 
-[[transaction-manager-layouts-theming-options|Transaction Manager: Layouts - Theming options]]
+[Transaction Manager: Layouts - Theming options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/transaction-manager-layouts-theming-options.md)
 
-## Related
-
-- [[customizing-cpq-with-themes|Customizing CPQ with themes]]
-- [[transaction-manager-layouts-the-stages-progress-chevron|transaction manager layouts the stages progress chevron]]
-- [[transaction-manager-layouts-ui-effects|transaction manager layouts ui effects]]
-- [[transaction-manager-layouts-theming-options|transaction manager layouts theming options]]
-- [[layouts|Layouts]]
-- [[transaction-manager|Transaction Manager]]
-- [[layout_editor|Layout editor]]
-- [[fields|Fields]]
-- [[rules_101|Rules]]

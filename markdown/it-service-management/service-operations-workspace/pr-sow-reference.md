@@ -14,7 +14,7 @@ breadcrumb: [Reset password, Managing IT services in your organization, Service 
 
 # Password Reset in Service Operations Workspace reference
 
-This [[reference-for-itsm-mobile-agent|reference]] topic provides additional information about the lists and forms that you use to configure and administer Password Reset.
+This reference topic provides additional information about the lists and forms that you use to configure and administer Password Reset.
 
 ## Identification methods
 
@@ -87,6 +87,3 @@ To reset a password for a user, refer [Reset password using service-desk assista
 
 **Parent Topic:**[Resetting password using Service-desk assisted Password Reset in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/resetting-password-pr-sow.md)
 
-## Related
-
-- [[reference-for-itsm-mobile-agent|Reference]]

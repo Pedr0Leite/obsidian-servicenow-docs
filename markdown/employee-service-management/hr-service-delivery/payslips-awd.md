@@ -14,12 +14,12 @@ breadcrumb: [Use, HR Service Delivery Advanced Integration with Workday, Integra
 
 # Report an issue with your payslip
 
-Report an issue with your Workday payslip from [[employee-center-landing-page|Employee Center]].
+Report an issue with your Workday payslip from Employee Center.
 
 ## Before you begin
 
 -   Role required: none
--   You might not be able to report payslip discrepancy if your [[c_HRProfileRecords|HR profile]] does not have a valid employee number and employment start date.
+-   You might not be able to report payslip discrepancy if your HR profile does not have a valid employee number and employment start date.
 
 ## Procedure
 
@@ -51,13 +51,7 @@ Report an issue with your Workday payslip from [[employee-center-landing-page|Em
 
 [Publish the VA topic template for legal name change]()
 
-[Now Assist Virtual Agent topics for [[hr-service-delivery|HR Service Delivery]] Advanced Integration with Workday]()
+[Now Assist Virtual Agent topics for HR Service Delivery Advanced Integration with Workday]()
 
-[Use [[conversational-agents|HCM AI agents]] for HR Service Delivery Advanced Integration with Workday]()
+[Use HCM AI agents for HR Service Delivery Advanced Integration with Workday]()
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[c_HRProfileRecords|HR Profile]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[conversational-agents|HCM AI agents]]

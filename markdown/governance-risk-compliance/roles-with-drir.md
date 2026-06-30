@@ -34,7 +34,7 @@ sn\_dri\_inc\_rptg.digital\_resilience\_incident\_admin
 
 Role for setting up administrative and Digital resilience incident activities.
 
- Users with this role can create and delete a few [[grc-opres-landing-page|Operational Resilience]] activities and Digital resilience incident activities. A user with this role has the following permissions:
+ Users with this role can create and delete a few Operational Resilience activities and Digital resilience incident activities. A user with this role has the following permissions:
 
 -   Create access to all cases
 -   Read access to all cases
@@ -70,7 +70,3 @@ Role for participating in Operational Resilience and Digital resilience incident
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[grc-opres-landing-page|Operational Resilience]]

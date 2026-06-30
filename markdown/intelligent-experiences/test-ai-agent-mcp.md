@@ -20,11 +20,11 @@ Role required: sn\_aia.admin
 
 ## About this task
 
-After you [[configure-next-best-action-agent|create an AI agent]] and a Model Context Protocol to it as a tool, test it to see that it functions the way that you defined it. Search for the AI agent that you want to test and select the version from the Version drop-down and provide a task with a concise summary and a reference number in the **Task** field to begin testing the AI agent.
+After you create an AI agent and a Model Context Protocol to it as a tool, test it to see that it functions the way that you defined it. Search for the AI agent that you want to test and select the version from the Version drop-down and provide a task with a concise summary and a reference number in the **Task** field to begin testing the AI agent.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ai-agent-studio|AI Agent Studio]]** &gt; **Testing**.
+1.  Navigate to **All** &gt; **AI Agent Studio** &gt; **Testing**.
 
 2.  In the **Test AI reasoning** tab, use the Search bar to search and select the AI agent that you want to test.
 
@@ -38,7 +38,7 @@ After you [[configure-next-best-action-agent|create an AI agent]] and a Model Co
 
     \[Omitted image "test-aia-mcp.png"\] Alt text: Selecting an AI agent for testing in the AI Agent Studio.
 
-    You’re directed to the **Chat responses** tab, where you can see [[platform-now-assist-landing|Now Assist]] executing operations to test the AI agent.
+    You’re directed to the **Chat responses** tab, where you can see Now Assist executing operations to test the AI agent.
 
     \[Omitted image "chat-response-mcp-test.png"\] Alt text: Initial chat response from testing an AI agent that has an MCP tool indicating that it requires authentication.
 
@@ -50,8 +50,4 @@ After you [[configure-next-best-action-agent|create an AI agent]] and a Model Co
     -   Enabling access to the MCP Server refreshes the whole Testing page and resumes testing in the Chat responses tab. The OAuth token used for the authentication is saved in the OAuth Credentials table \[oauth\_credential\].
     \[Omitted image "mcp-test-complete.png"\] Alt text: The AI agent with an MCP tool has been successfully tested.
 
-## Related
 
-- [[configure-next-best-action-agent|Create an AI agent]]
-- [[ai-agent-studio|AI Agent Studio]]
-- [[platform-now-assist-landing|Now Assist]]

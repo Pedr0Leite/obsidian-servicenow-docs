@@ -32,7 +32,7 @@ Here's how a service order is created:
 2.  In the Select Service form, you select one or more service specifications and destination locations for the service order.
 3.  In the Configure Service form, you configure each service order line item, apply those service configurations to one or more locations, and then configure the ordered service configurations by location.
 4.  In the Review Order form, you review and submit the service order.
-5.  A service manager can now review and approve it for fulfillment. To learn more, see [[service-order-mgt-fulfilling-service-orders|Creating, reviewing, approving, and fulfilling service orders]].
+5.  A service manager can now review and approve it for fulfillment. To learn more, see [Creating, reviewing, approving, and fulfilling service orders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/service-order-mgt-fulfilling-service-orders.md).
 
 When you directly enter a service order, it creates a service order record in the ServiceNow AI Platform to manage the service order fulfillment. A service order has one or more associated order line items, which describe the services being performed.
 
@@ -74,6 +74,4 @@ Description
 </td></tr></tbody>
 </table>4.  When the Choose an order type dialog appears, select **Order a new service** and select **Create**.
 
-## Related
 
-- [[service-order-mgt-fulfilling-service-orders|Creating, reviewing, approving, and fulfilling service orders]]

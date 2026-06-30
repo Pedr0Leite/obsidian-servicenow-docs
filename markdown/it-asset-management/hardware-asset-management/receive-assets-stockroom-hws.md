@@ -14,7 +14,7 @@ breadcrumb: [Manage the receiving of assets at stockrooms, Manage stockrooms, Us
 
 # Receive a hardware asset at a stockroom in the Hardware Asset Workspace
 
-Receive a single hardware asset that has arrived at your stockroom, whether it's part of a workflow or not, in the [[using-ham-workspace|Hardware Asset Workspace]].
+Receive a single hardware asset that has arrived at your stockroom, whether it's part of a workflow or not, in the Hardware Asset Workspace.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: inventory\_user or asset
 
 ## About this task
 
-This task enables you to [[c_ReceiveAssets|receive assets]] in the following scenarios:
+This task enables you to receive assets in the following scenarios:
 
 -   **Receiving a hardware asset with an existing record**
 
-    When you’re receiving a hardware asset from workflows such as a transfer order or [[return-merchandise-authorization|Return Merchandise Authorization]] \(RMA\), where a repaired asset has arrived at your stockroom, the asset record exists in your ServiceNow instance. You can search for the existing asset record using the Asset tag or Serial number and then receive the asset, which automatically closes the receive task of the source workflow.
+    When you’re receiving a hardware asset from workflows such as a transfer order or Return Merchandise Authorization \(RMA\), where a repaired asset has arrived at your stockroom, the asset record exists in your ServiceNow instance. You can search for the existing asset record using the Asset tag or Serial number and then receive the asset, which automatically closes the receive task of the source workflow.
 
 -   **Receiving a new hardware asset at your stockroom**
 
@@ -37,13 +37,13 @@ This task enables you to [[c_ReceiveAssets|receive assets]] in the following sce
     You can receive a hardware asset that isn't part of any workflow and has arrived at your stockroom.
 
 
-**Important:** You can also receive an enterprise asset only if the [[enterprise-asset-management|Enterprise Asset Management]] application is activated.
+**Important:** You can also receive an enterprise asset only if the Enterprise Asset Management application is activated.
 
 ## Procedure
 
 1.  Navigate to **Workspaces** &gt; **Hardware Asset Workspace** &gt; **Inventory**.
 
-2.  Select the **All [[c_Stockrooms|stockrooms]]** tab.
+2.  Select the **All stockrooms** tab.
 
 3.  Select the stockroom for which you want to receive the hardware asset.
 
@@ -155,7 +155,7 @@ Source ticket
 
 </td><td>
 
-Request number of the source workflow that's associated with the asset that you want to receive.-   To [[t_ReceiveAnAsset|receive an asset]] from a purchase order or asset refresh order, select the associated PO line number.
+Request number of the source workflow that's associated with the asset that you want to receive.-   To receive an asset from a purchase order or asset refresh order, select the associated PO line number.
 -   To receive an asset from an RMA order, select the associated RMA line number.
 **Note:** Source tickets are displayed based on the model and source type that you selected.
 
@@ -176,11 +176,3 @@ Request number of the source workflow that's associated with the asset that you 
 
 **Parent Topic:**[Manage the receiving of assets at stockrooms in the Hardware Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/manage-stockroom-receive-hws.md)
 
-## Related
-
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[c_ReceiveAssets|Receive assets]]
-- [[return-merchandise-authorization|Return Merchandise Authorization]]
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[c_Stockrooms|Stockrooms]]
-- [[t_ReceiveAnAsset|Receive an asset]]

@@ -15,11 +15,11 @@ breadcrumb: [OAuth Inbound, OAuth authentication, Authentication, Access Managem
 
 # New Inbound integrations experience
 
-The new inbound integration workflow in the ServiceNow [[machine-identity-console|Machine Identity Console]] provides enhanced experience for managing [[inbound-integrations|inbound integrations]].
+The new inbound integration workflow in the ServiceNow Machine Identity Console provides enhanced experience for managing inbound integrations.
 
 ## Inbound integrations methods
 
-Inbound Integrations allow you to configure and manage external applications to access ServiceNow APIs. To view detailed usage statistics for each [[oauth-inbound-and-outbound|OAuth]] client, see [View Inbound API Integration Usage dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/view-inbound-api-integration-usage-dashboard.md).
+Inbound Integrations allow you to configure and manage external applications to access ServiceNow APIs. To view detailed usage statistics for each OAuth client, see [View Inbound API Integration Usage dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/view-inbound-api-integration-usage-dashboard.md).
 
 On the instance, navigate to **All** &gt; **Machine Identity Console** &gt; **Inbound integrations** &gt; **New integration**. Choose the application connection type \(grant type\).
 
@@ -33,8 +33,3 @@ To learn more about the different grant types and how to configure them, refer t
 -   [JSON Web token bearer grant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/jwt-bearer-grant.md)
 -   [Resource owner password credential grant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/resource-owner-password-grant.md)
 
-## Related
-
-- [[machine-identity-console|Machine Identity Console]]
-- [[inbound-integrations|Inbound integrations]]
-- [[oauth-inbound-and-outbound|OAuth]]

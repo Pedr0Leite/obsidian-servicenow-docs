@@ -12,7 +12,7 @@ breadcrumb: [Reviewing and approving the sales promotion claims, Sales promotion
 
 # Partially approve a claims
 
-Partially approve a [[mco-sales-promotion|sales promotion]] claim by updating the approved amount, which is less than the claimed amount.
+Partially approve a sales promotion claim by updating the approved amount, which is less than the claimed amount.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: manufacturing operations admin \(sn\_mfg\_cmn.manufacturing\_oper
 
 1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace** &gt; **Lists** &gt; **Sales promotion**.
 
-    **Note:** To learn how to create and navigate to the Review &amp; approve form, see [[mco-create-sls-pro-claim-case|Create a sales promotion claim case]].
+    **Note:** To learn how to create and navigate to the Review &amp; approve form, see [Create a sales promotion claim case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-create-sls-pro-claim-case.md).
 
 2.  Select **Review &amp; approve** from **Activities**.
 
@@ -37,10 +37,5 @@ Role required: manufacturing operations admin \(sn\_mfg\_cmn.manufacturing\_oper
 6.  View the sales promotion summary details by selecting **Claim Summary**.
 
 
-**Parent Topic:**[[mco-approve-sales-promotion-claims|Reviewing and approving the sales promotion claims]]
+**Parent Topic:**[Reviewing and approving the sales promotion claims](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-approve-sales-promotion-claims.md)
 
-## Related
-
-- [[mco-create-sls-pro-claim-case|Create a sales promotion claim case]]
-- [[mco-approve-sales-promotion-claims|Reviewing and approving the sales promotion claims]]
-- [[mco-sales-promotion|Sales promotion]]

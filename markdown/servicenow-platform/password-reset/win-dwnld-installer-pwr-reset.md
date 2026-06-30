@@ -32,7 +32,7 @@ Role required: any user
 
     \[Omitted image "pwr-winapp-filter-ancillary.png"\] Alt text: Select the Ancillary Software App Type
 
-4.  Click **[[win-password-reset-overview|Password Reset Windows Application]]**.
+4.  Click **Password Reset Windows Application**.
 
     The application download location appears.
 
@@ -43,6 +43,3 @@ Role required: any user
 
 **Parent Topic:**[Installing and configuring Password Reset Windows Application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/install-configure-password-reset-windows-app.md)
 
-## Related
-
-- [[win-password-reset-overview|Password Reset Windows Application]]

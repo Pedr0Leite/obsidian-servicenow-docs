@@ -14,18 +14,18 @@ breadcrumb: [Push notification - Okta verify, Configure authentication factors f
 
 # Configure push notification \(Okta Verify\)
 
-Configure **Okta Verify** to receive push notifications for secure and convenient [[identity-landing|identity]] verification.
+Configure **Okta Verify** to receive push notifications for secure and convenient identity verification.
 
 ## Before you begin
 
 Role required: auth\_factors\_admin
 
-The push notification [[c_Authentication|authentication]] factor on **Okta** must be enabled. To learn more, see [Okta Support Center](https://support.okta.com/help/s/article/Enable-Okta-Verify-Push-Notification-in-OIE?language=en_US).
+The push notification authentication factor on **Okta** must be enabled. To learn more, see [Okta Support Center](https://support.okta.com/help/s/article/Enable-Okta-Verify-Push-Notification-in-OIE?language=en_US).
 
 **Note:**
 
 -   Currently, only **Okta Verify** is supported for push notifications with ServiceNow AI voice agents.
--   The [[users|users]] must have the **Okta Verify** app installed and configured on their phones.
+-   The users must have the **Okta Verify** app installed and configured on their phones.
 
 ## Procedure
 
@@ -45,7 +45,7 @@ The push notification [[c_Authentication|authentication]] factor on **Okta** mus
 
     For example, `<instance_url>/sys_alias.do?sys_id=692e16a0ffb72210d487ffffffffff1b`.
 
-    \[Omitted image "okta-[[sc-configuration|configuration]]-push.png"\] Alt text: Connection &amp; Credential Alias record
+    \[Omitted image "okta-configuration-push.png"\] Alt text: Connection &amp; Credential Alias record
 
 6.  Select **New** under the Connections tab.
 
@@ -56,7 +56,7 @@ The push notification [[c_Authentication|authentication]] factor on **Okta** mus
     -   Connection URL
     \[Omitted image "okta-configuration-push-1.png"\] Alt text: HTTP\(s\) Connections
 
-8.  Select the **Search** icon next to Credentials to add new **[[API-key-credential-form|API Key Credentials]]**.
+8.  Select the **Search** icon next to Credentials to add new **API Key Credentials**.
 
     \[Omitted image "okta-configuration-push-2.png"\] Alt text: API Key Credentials
 
@@ -72,10 +72,4 @@ The push notification [[c_Authentication|authentication]] factor on **Okta** mus
 
     \[Omitted image "okta-configuration-push-4.png"\] Alt text: HTTP\(s\) Connections record completion
 
-## Related
 
-- [[identity-landing|Identity]]
-- [[c_Authentication|Authentication]]
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[API-key-credential-form|API key credentials]]

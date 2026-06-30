@@ -14,13 +14,13 @@ breadcrumb: [Working in the classic environment, Working in Core UI, Configure U
 
 A list displays a set of records from a table.
 
-**Note:** This content pertains to the Classic Environment, which refers to working in [[lists-configurable-workspace|lists]] of records and on record [[form-configurable-workspace|forms]] directly, not in the [[workspace-landing-page|Configurable Workspace interface]]. You can work in the Classic Environment with Next Experience active, or with it inactive, which is referred to as [[c_UI16|Core UI]], \(formerly known as UI16\).
+**Note:** This content pertains to the Classic Environment, which refers to working in lists of records and on record forms directly, not in the [Configurable Workspace interface](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/workspace-landing-page.md). You can work in the Classic Environment with Next Experience active, or with it inactive, which is referred to as Core UI, \(formerly known as UI16\).
 
 Users can search, sort, filter, and edit data in lists. Lists may be embedded in forms and may be hierarchical \(have sublists\).
 
 The list interface consists of a title bar, filters and breadcrumbs, columns of data, and a footer. Each column in a list corresponds to a field on the table.
 
-A [[c_ResponseTimeIndicator|Response time indicator icon]] \(\[Omitted image "Response\_time\_indicator\_UI15.png"\] Alt text: Response time indicator\) may appear at the bottom right of some lists to indicate the processing time required to display the list.
+A [Response time indicator icon](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_ResponseTimeIndicator.md) \(\[Omitted image "Response\_time\_indicator\_UI15.png"\] Alt text: Response time indicator\) may appear at the bottom right of some lists to indicate the processing time required to display the list.
 
 \[Omitted image "800px-UI16\_list\_view.png"\] Alt text: Record list
 
@@ -32,9 +32,9 @@ The list interface consists of a title bar, filters and breadcrumbs, and columns
 
 ## Hierarchical lists
 
-Hierarchical lists allow users to view records from [[c_RelatedLists|related lists]] directly without navigating to a form.
+Hierarchical lists allow users to view records from related lists directly without navigating to a form.
 
-Lists can have sublists in a hierarchy that can also be accessed in list view. To expand or collapse the related lists on a record in a hierarchical list, click the arrow \(\[Omitted image "Arrow.png"\] Alt text: Arrow\) beside the [[onboarding-modals-reference|reference]] icon.
+Lists can have sublists in a hierarchy that can also be accessed in list view. To expand or collapse the related lists on a record in a hierarchical list, click the arrow \(\[Omitted image "Arrow.png"\] Alt text: Arrow\) beside the reference icon.
 
 \[Omitted image "HierarchicalList.png"\] Alt text: Hierarchical list
 
@@ -50,40 +50,22 @@ Detail rows, when enabled, appear below the field row for each record and displa
 
 Administrators can enable detail rows and add them to lists. For more information, see [Administer detail rows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_EnableDetailRows.md).
 
--   **[[r_Fields|List fields]]**  
+-   **[List fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/r_Fields.md)**  
 Fields display data and provide certain functions.
--   **[[configure-use-list-functions|Configure and use list functions]]**  
+-   **[Configure and use list functions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-use-list-functions.md)**  
 All users can interact with lists for the tables their role permits them to access. Some list and column header menu options are controlled by permissions grated to the user role.
--   **[[c_DisplayActivityStreams|Activity streams in list view]]**  
+-   **[Activity streams in list view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_DisplayActivityStreams.md)**  
 Stream live activity information for all records on the current list.
--   **[[t_SearchAList|Search a list]]**  
+-   **[Search a list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_SearchAList.md)**  
 You can search a list to find information quickly. The list title bar includes options for searching the list. Administrators can enable text searches for any list.
--   **[[c_GroupedLists|Grouped lists]]**  
+-   **[Grouped lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_GroupedLists.md)**  
 Grouping aggregates a list by a field and displays the record count per group. Grouping can help you find data quickly by organizing and providing a summary of search or filter results.
--   **[[c_UsingFiltersAndBreadcrumbs|Filters and breadcrumbs]]**  
+-   **[Filters and breadcrumbs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_UsingFiltersAndBreadcrumbs.md)**  
 A filter is a set of conditions applied to a table to help you find and work with a subset of the data in that table.
--   **[[r_MethodsForListEdits|Methods for list edits]]**  
+-   **[Methods for list edits](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/r_MethodsForListEdits.md)**  
 Users can edit data in lists using various methods.
--   **[[c_PersonalLists|Personal lists]]**  
+-   **[Personal lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_PersonalLists.md)**  
 You can create personal lists to customize which columns appear and the order in which they appear. Personal lists modify a specific list view according to your individual preferences.
 
-**Parent Topic:**[[working-in-classic-lists-and-forms|Working in the classic environment]]
+**Parent Topic:**[Working in the classic environment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/working-in-classic-lists-and-forms.md)
 
-## Related
-
-- [[workspace-landing-page|Configurable Workspace UI]]
-- [[c_ResponseTimeIndicator|Response time indicator icon]]
-- [[r_Fields|List fields]]
-- [[configure-use-list-functions|Configure and use list functions]]
-- [[c_DisplayActivityStreams|Activity streams in list view]]
-- [[t_SearchAList|Search a list]]
-- [[c_GroupedLists|Grouped lists]]
-- [[c_UsingFiltersAndBreadcrumbs|Filters and breadcrumbs]]
-- [[r_MethodsForListEdits|Methods for list edits]]
-- [[c_PersonalLists|Personal lists]]
-- [[working-in-classic-lists-and-forms|Working in the classic environment]]
-- [[lists-configurable-workspace|Lists]]
-- [[form-configurable-workspace|Forms]]
-- [[c_UI16|Core UI]]
-- [[c_RelatedLists|Related lists]]
-- [[onboarding-modals-reference|Reference]]

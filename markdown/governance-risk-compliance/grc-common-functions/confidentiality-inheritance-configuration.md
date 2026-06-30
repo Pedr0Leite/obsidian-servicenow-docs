@@ -22,7 +22,7 @@ Role required: sn\_grc.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **GRC [[Administration|Administration]]** &gt; **Confidentiality Configuration**.
+1.  Navigate to **All** &gt; **GRC Administration** &gt; **Confidentiality Configuration**.
 
 2.  Select the table that you want to configure the inheritance in.
 
@@ -47,6 +47,3 @@ Role required: sn\_grc.admin
 
 A new inheritance configuration record is created under the confidentiality inheritance configuration related list.
 
-## Related
-
-- [[Administration|Administration]]

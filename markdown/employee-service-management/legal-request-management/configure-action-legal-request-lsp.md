@@ -18,11 +18,11 @@ Add or modify an Action and its functionality on the Standard ticket page for a 
 
 ## Before you begin
 
--   Review the configuration of the script include, scripted extension points and service portal widgets for legal services installed with the [[legal-management-overview|Legal Service Delivery]] apps.
+-   Review the configuration of the script include, scripted extension points and service portal widgets for legal services installed with the Legal Service Delivery apps.
 -   The Actions is one of the sections of a standard ticket page of the Service Portal, so get familiar with the [Standard ticket page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/standard-ticket-page.md) and [Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_ServicePortal.md).
 -   For more information about configuring service portal widgets, see [Service Portal widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal-widgets.md).
 -   For more information about using and customizing the script includes, see [Script includes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/c_ScriptIncludes.md).
--   Ensure that you've set the application scope to [[legal-request-management-landing-page|Legal Request Management]].
+-   Ensure that you've set the application scope to Legal Request Management.
 
 Role required: admin
 
@@ -54,7 +54,7 @@ The base system `DefaultLegalTicketActions` script provides the configuration of
 
             2.  To add a new action, update the **process** method.
 
-                For [[reference-hr-service-delivery-advanced-integration-with-workday|reference]], see an existing **process** method of the `DefaultLegalTicketActions` script include or the implementation of another practice area.
+                For reference, see an existing **process** method of the `DefaultLegalTicketActions` script include or the implementation of another practice area.
 
         -   To modify an existing implementation, open a class from the Implementations related list.
 
@@ -67,7 +67,7 @@ The base system `DefaultLegalTicketActions` script provides the configuration of
             -   To add a new action, create a JSON object and change the name and other parameters as required.
     4.  Click **Update**.
 
-2.  [[config-approval-hub-actions|Configure Actions]] widgets on the standard ticket page for legal services.
+2.  Configure Actions widgets on the standard ticket page for legal services.
 
     1.  Navigate to **All** &gt; **Service Portal** &gt; **Widgets**.
 
@@ -80,9 +80,3 @@ The base system `DefaultLegalTicketActions` script provides the configuration of
 
 **Parent Topic:**[Configuring Legal Request Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/legal-ops-administration.md)
 
-## Related
-
-- [[legal-management-overview|Legal Service Delivery]]
-- [[legal-request-management-landing-page|Legal Request Management]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[config-approval-hub-actions|Configure actions]]

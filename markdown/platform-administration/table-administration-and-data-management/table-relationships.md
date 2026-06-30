@@ -24,7 +24,7 @@ Tables can be related to each other in several ways.
 
 -   **One-to-many**
 
-    Within a table, a field can hold a [[reference-email-admin|reference]] to a record on another table. There are three types of one-to-many relationship fields.
+    Within a table, a field can hold a reference to a record on another table. There are three types of one-to-many relationship fields.
 
     -   **Reference fields**
 
@@ -49,6 +49,3 @@ Tables can be related to each other in several ways.
 
 **Parent Topic:**[Exploring ServiceNow AI Platform tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/exploring-table-administration.md)
 
-## Related
-
-- [[reference-email-admin|Reference]]

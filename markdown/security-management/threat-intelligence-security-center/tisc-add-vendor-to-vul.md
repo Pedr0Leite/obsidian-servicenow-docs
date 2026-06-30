@@ -22,7 +22,7 @@ Role required: sn\_sec\_tisc.analyst
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Workspaces** &gt; **[[threat-intel-landing-page|Threat Intelligence]] Library** &gt; **[[vulnerability|Vulnerability Artifacts]]** &gt; **Vendor**.
+1.  Navigate to **All** &gt; **Workspaces** &gt; **Threat Intelligence Library** &gt; **Vulnerability Artifacts** &gt; **Vendor**.
 
 2.  Select **New**.
 
@@ -67,7 +67,3 @@ The vendor comment is created and appears in the **Vulnerability Vendor Comments
 
 **Parent Topic:**[Vulnerability Artifacts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/vulnerability.md)
 
-## Related
-
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[vulnerability|Vulnerability Artifacts]]

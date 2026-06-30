@@ -14,7 +14,7 @@ breadcrumb: [Atlassian Jira Integration for Agile Development, Strategic Portfol
 
 # Troubleshooting issues of Jira integration with Agile Development 2.0
 
-Resolve common issues that you might face while working with the integration of Jira and [[agile-landing-page|Agile Development 2.0]].
+Resolve common issues that you might face while working with the integration of Jira and Agile Development 2.0.
 
 <table id="table_gsp_wdx_hkb"><thead><tr><th>
 
@@ -43,7 +43,7 @@ The sprint is not associated to the imported stories.
 
 </td><td>
 
-Verify if the sprint is started in Jira. If the sprint that is associated with the stories is a future sprint, then it is not associated to the stories in [[agile-development|Agile Development]].
+Verify if the sprint is started in Jira. If the sprint that is associated with the stories is a future sprint, then it is not associated to the stories in Agile Development.
 
  Sprint data from Jira is updated in Agile Development only if the sprint is active in Jira.
 
@@ -181,7 +181,3 @@ Reduce the value of **MAX\_LIMIT** in the JiraConstants Script Include and then 
 
 To view all the details on project logging, enable the integration project logging property. For more information, see [Enable detailed project logging in Jira Integration with Agile Development](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/atlassian-jira-integrations-common/enable-integration-logs-jira.md).
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]
-- [[agile-development|Agile Development]]

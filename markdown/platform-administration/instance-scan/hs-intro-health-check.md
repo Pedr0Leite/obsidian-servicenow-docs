@@ -22,7 +22,7 @@ You can create your check by selecting one of these types.
 
 -   **Table Check**
 
-    [[hs-create-health-check|Create a check]] by selecting **Create a new Table Check** if you know which specific table and conditions you want to test. This check type is applied on only one table at a time. You can also include your own script for more complex capabilities by selecting the **Advanced** option on the form.
+    Create a check by selecting **Create a new Table Check** if you know which specific table and conditions you want to test. This check type is applied on only one table at a time. You can also include your own script for more complex capabilities by selecting the **Advanced** option on the form.
 
 -   **Column Type Check**
 
@@ -30,14 +30,10 @@ You can create your check by selecting one of these types.
 
 -   **Script Only Check**
 
-    Create a check without specifying a table or a column type by selecting **Create a new Script Only Check**. You can verify meta data, [[clone-configurations-tab|configurations]], and execute complex checks by writing your own script.
+    Create a check without specifying a table or a column type by selecting **Create a new Script Only Check**. You can verify meta data, configurations, and execute complex checks by writing your own script.
 
 -   **Linter Check**
 
-    [[hc-linter-check|Create a linter check]] to identify any issues in a script. When a linter check is run on a record, an abstract syntax tree for its code is generated. You can use the abstract syntax tree to analyze issues with the code.
+    Create a linter check to identify any issues in a script. When a linter check is run on a record, an abstract syntax tree for its code is generated. You can use the abstract syntax tree to analyze issues with the code.
 
-## Related
 
-- [[hs-create-health-check|Create a check]]
-- [[clone-configurations-tab|Configurations]]
-- [[hc-linter-check|Create a linter check]]

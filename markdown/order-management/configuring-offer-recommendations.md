@@ -23,17 +23,12 @@ As a catalog admin or manager, you configure product recommendations by identify
 -   Upsell: An upgraded or enhanced version of a product in the quote.
 -   Cross-sell: A related product that complements a product in the quote.
 
-For details on configuring product recommendations, see [[create-offer-recommendation|Create a product offering recommendation]].
+For details on configuring product recommendations, see [Create a product offering recommendation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-offer-recommendation.md).
 
 **Related topics**  
 
 
-[[using-product-catalog|Using product catalogs]]
+[Using product catalogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-product-catalog.md)
 
-[[product-catalog-managment|Product Catalog Management]]
+[Product Catalog Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/product-catalog-managment.md)
 
-## Related
-
-- [[create-offer-recommendation|Create a product offering recommendation]]
-- [[using-product-catalog|Using product catalogs]]
-- [[product-catalog-managment|Product Catalog Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Network device discovery, Data collected by ITOM Visibility, ITOM V
 
 # Uninterruptible power supply \(UPS\) discovery
 
-[[r-discovery|Discovery]] identifies and classifies information about an uninterruptible power supply \(UPS\).
+Discovery identifies and classifies information about an uninterruptible power supply \(UPS\).
 
 Discovery can identify and classify uninterruptible power supplies.
 
@@ -70,6 +70,3 @@ Discovery can identify and classify uninterruptible power supplies.
 
 **Parent Topic:**[Network device discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_NetworkDevices.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

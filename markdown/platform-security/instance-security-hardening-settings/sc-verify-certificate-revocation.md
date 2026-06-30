@@ -14,7 +14,7 @@ breadcrumb: [Communications, Hardening settings, Platform Security]
 
 # Verify certificate revocation
 
-The **com.glide.[[sc-communications|communications]].httpclient.verify\_revoked\_certificate** property checks certificate revocation during the Transport Layer Security \(TLS\) handshake to ensure that security checks are not bypassed.
+The **com.glide.communications.httpclient.verify\_revoked\_certificate** property checks certificate revocation during the Transport Layer Security \(TLS\) handshake to ensure that security checks are not bypassed.
 
 If the **com.glide.communications.httpclient.verify\_revoked\_certificate** system property isn't configured to the recommended value of **true**, certificate revocation checks will be skipped during the TLS handshake.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -107,8 +107,3 @@ This property should be set to true to ensure that a Transport Layer Security \(
 </td></tr></tbody>
 </table>**Parent Topic:**[Communications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-communications.md)
 
-## Related
-
-- [[sc-communications|Communications]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

@@ -15,7 +15,7 @@ breadcrumb: [monday.com external content connector, Configure, External Content 
 
 # Configure monday.com for external content indexing
 
-Obtain an API token for a monday.com user account with admin privileges to allow the [[monday-com-external-content-connector|monday.com external content connector]] to access searchable content and metadata from your monday.com source system.
+Obtain an API token for a monday.com user account with admin privileges to allow the monday.com external content connector to access searchable content and metadata from your monday.com source system.
 
 ## Before you begin
 
@@ -75,6 +75,3 @@ For details on creating and configuring a monday.com external content connector,
 
 **Parent Topic:**[monday.com external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/monday-com-external-content-connector.md)
 
-## Related
-
-- [[monday-com-external-content-connector|monday.com external content connector]]

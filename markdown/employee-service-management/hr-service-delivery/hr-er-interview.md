@@ -22,7 +22,7 @@ Role required: sn\_hr\_er.case\_writer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hr-case-employee-relations|Employee Relations]]** &gt; **Cases**.
+1.  Navigate to **All** &gt; **Employee Relations** &gt; **Cases**.
 
 2.  Select an ER case.
 
@@ -134,7 +134,7 @@ External URL
 
 </td><td>
 
-A URL that is relevant to the interview. For example, if your company maintains interview notes in a different or external system from [[hr-service-delivery|HR Service Delivery]], you can enter the URL to maintain a link and consistency.
+A URL that is relevant to the interview. For example, if your company maintains interview notes in a different or external system from HR Service Delivery, you can enter the URL to maintain a link and consistency.
 
 </td></tr><tr><td>
 
@@ -173,7 +173,4 @@ Notes from the interview or you can enter the answers to the questions from the 
 
     If you select **Save**, the Evidence related list appears. For more information, see [Evidence Management for Employee Relations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-er-evidence-mgmt.md).
 
-## Related
 
-- [[hr-case-employee-relations|Employee Relations]]
-- [[hr-service-delivery|HR Service Delivery]]

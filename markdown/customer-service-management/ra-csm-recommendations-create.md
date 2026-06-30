@@ -26,11 +26,11 @@ For the AI search resource generator, you can select guidances only as action ty
 
 Then you define the action inputs, which are the parameters that enable agents to complete an action. You can select static values for inputs or use a resource generator to supply values.
 
-**Note:** New recommendations can only be created inside the [[gamification-components-rules|rules]].
+**Note:** New recommendations can only be created inside the rules.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[configure-nba|Recommended Actions]]** &gt; **Contexts**.
+1.  Navigate to **All** &gt; **Recommended Actions** &gt; **Contexts**.
 
 2.  Select a context.
 
@@ -57,7 +57,7 @@ Then you define the action inputs, which are the parameters that enable agents t
 
     2.  In the **Document** field, select the desired action by clicking the lookup icon.
 
-        You can also create an action of type guidance, field recommendation, or guided decision tree. For more information, see [[ra-csm-config-recommendations|Creating guidance and field recommendation in Recommended Actions]].
+        You can also create an action of type guidance, field recommendation, or guided decision tree. For more information, see [Creating guidance and field recommendation in Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-config-recommendations.md).
 
     3.  Select **OK**.
 
@@ -67,9 +67,9 @@ Then you define the action inputs, which are the parameters that enable agents t
 
 8.  In the **Resource generator** field, select or create a resource generator and then save the record.
 
-    For more information, see [[ra-csm-resource-generators-create|Create a resource generator in Recommended Actions]]. Guidances and field value recommendations can use resource generators to find relevant resources for the action inputs.
+    For more information, see [Create a resource generator in Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-resource-generators-create.md). Guidances and field value recommendations can use resource generators to find relevant resources for the action inputs.
 
-    The **Action type**, **Action**, and **Recommendation hint** fields are not available for AI search resource generator. You can select the action type as a guidance and an action when you configure the search result mapping for AI search. For more information, see [[ra-create-search-result-mapping-for-ai-search|Map AI search results with guidance inputs in Recommended Actions]].
+    The **Action type**, **Action**, and **Recommendation hint** fields are not available for AI search resource generator. You can select the action type as a guidance and an action when you configure the search result mapping for AI search. For more information, see [Map AI search results with guidance inputs in Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-create-search-result-mapping-for-ai-search.md).
 
 9.  For guidances and guided decision trees: in the **Recommendation hint** field, enter a hint text.
 
@@ -77,7 +77,7 @@ Then you define the action inputs, which are the parameters that enable agents t
 
 10. Select a group in the **Group** field to show relevant recommendations together.
 
-    **Note:** You might need to configure the Recommendation form to display the **Group** field. This field is available by default for ITSM Workforce [[optimization|Optimization]] users.
+    **Note:** You might need to configure the Recommendation form to display the **Group** field. This field is available by default for ITSM Workforce Optimization users.
 
 11. Define the action inputs.
 
@@ -107,11 +107,4 @@ Enter the value in the field in the input field or use the lookup icon to select
 </td></tr></tbody>
 </table>12. Select **Update**.
 
-## Related
 
-- [[ra-csm-config-recommendations|Creating guidance and field recommendation in Recommended Actions]]
-- [[ra-csm-resource-generators-create|Create a resource generator in Recommended Actions]]
-- [[ra-create-search-result-mapping-for-ai-search|Map AI search results with guidance inputs in Recommended Actions]]
-- [[gamification-components-rules|Rules]]
-- [[configure-nba|Recommended Actions]]
-- [[optimization|Optimization]]

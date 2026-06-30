@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[awa-application-landing-page|Advanced Work Assignment]]** &gt; **Home**.
+1.  Navigate to **All** &gt; **Advanced Work Assignment** &gt; **Home**.
 
 2.  In the Available Plugins section, select **Conversational Messaging**.
 
@@ -32,6 +32,4 @@ Role required: admin
 
     **Note:** When domain separation and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
 
-## Related
 
-- [[awa-application-landing-page|Advanced Work Assignment]]

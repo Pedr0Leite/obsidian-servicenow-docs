@@ -14,7 +14,7 @@ breadcrumb: [Use, Dashboards, Strategic Planning, Strategic Portfolio Management
 
 # Add a Platform Analytics dashboard
 
-If you have existing dashboards created using Platform Analytics, you can add them to the [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace to access them directly from a single location.
+If you have existing dashboards created using Platform Analytics, you can add them to the Strategic Planning Workspace to access them directly from a single location.
 
 ## Before you begin
 
@@ -64,6 +64,3 @@ The dashboard appears in the Strategic Planning Workspace.
 
 [Share a dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/share-dashboard-spw.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

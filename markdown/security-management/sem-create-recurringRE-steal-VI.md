@@ -25,13 +25,13 @@ Role required:
 
 ## About this task
 
-You can automatically create recurring remediation efforts on a schedule that helps you track [[vulnerabilities|vulnerabilities]] that might come up and require immediate and ongoing attention.
+You can automatically create recurring remediation efforts on a schedule that helps you track vulnerabilities that might come up and require immediate and ongoing attention.
 
 Starting with version 18.0, because you can’t create a recurring remediation effort for an inactive watch topic, the **Create Recurring Effort** option is inactive. If you deactivate a watch topic that has a recurring effort already scheduled, then a new remediation effort is not created until the watch topic is activated. Also, the **Effort recurrence** and **Next recurrence date** details disappear on the upper right. After you activate the watch topic, a remediation effort is created at the upcoming schedule.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[vuln-landing-page|Vulnerability Response]]** &gt; **[[vulnerability-manager-workspace-landing-page|Vulnerability Manager Workspace]]** &gt; **Watch Topics**.
+1.  Navigate to **All** &gt; **Vulnerability Response** &gt; **Vulnerability Manager Workspace** &gt; **Watch Topics**.
 
 2.  On the Watch Topics page, select a watch topic that you want to create a recurring remediation effort for.
 
@@ -127,11 +127,5 @@ Schedules Remediation Effort everyday.**Note:** This option is available startin
     The date the remediation effort will be created is shown on the corresponding watch topic. For more information on how the Remediation Tasks associated with the Remediation Efforts are impacted by records transfer, see [Life cycles of remediation efforts, remediation tasks, and records in the Vulnerability Response Workspaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-manager-workspace/vr-ws-re-lifecycle.md).
 
 
-**Parent Topic:**[[sem-ws-remed-eff-rcd|Use Remediation Effort records]]
+**Parent Topic:**[Use Remediation Effort records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-ws-remed-eff-rcd.md)
 
-## Related
-
-- [[sem-ws-remed-eff-rcd|Use Remediation Effort records]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[vulnerability-manager-workspace-landing-page|Vulnerability Manager Workspace]]

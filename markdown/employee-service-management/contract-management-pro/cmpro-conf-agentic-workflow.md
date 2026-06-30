@@ -15,9 +15,9 @@ breadcrumb: [Configure, Now Assist in CM Pro, Contract Management Pro, Legal and
 
 # Configuring agentic workflows in Now Assist in Contract Management
 
-Configure agentic workflows in [[cncore-now-assit-landing|Now Assist in Contract Management]] so that contract fulfillers can use the AI agents to perform specific tasks autonomously.
+Configure agentic workflows in Now Assist in Contract Management so that contract fulfillers can use the AI agents to perform specific tasks autonomously.
 
-Complete the following steps to configure agentic workflows in [[cncore-cmpro-landing-page|Contract Management Pro]].
+Complete the following steps to configure agentic workflows in Contract Management Pro.
 
 1.  Install the Contract Management Pro - Prime plugin \(sn\_cm\_ai\_prime\).
 
@@ -25,7 +25,7 @@ Complete the following steps to configure agentic workflows in [[cncore-cmpro-la
 
 2.  Ensure Now Assist panel is turned on. For more information, see [Activate the Now Assist panel standard chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-now-assist-panel.md).
 3.  Ensure **Now Assist Panel - Platform \(default\)** assistant in the CI Admin Experience is turned on. For more information, see [Manage LLM virtual agents on the Assistants screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/manage-llm-va.md).
-4.  Configure the security controls to specify the users who can [[discover-lxp|discover]] or use the agentic workflow, and provide data permissions for the agentic workflow.
+4.  Configure the security controls to specify the users who can discover or use the agentic workflow, and provide data permissions for the agentic workflow.
 
     For more information, see [Configuring user access and data permissions for agentic workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-conf-users-agentic-wf.md).
 
@@ -45,7 +45,7 @@ Complete the following steps to configure agentic workflows in [[cncore-cmpro-la
     -   [Duplicate an agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/clone-aia-usecase.md)
     -   [Create an agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-use-case-ai-agents.md)
     -   [Modify an agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/modify-aia-use-case.md)
-9.  If you have customized the [[cmpro-na-reminder-agentic-wf|Manage contract repository agentic workflow]], update the script include to run it autonomously.
+9.  If you have customized the Manage contract repository agentic workflow, update the script include to run it autonomously.
 
     For more information, see [Update the contracts AI agents handler script include](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-script-includ-agenticAI.md).
 
@@ -65,7 +65,7 @@ Configure the security controls to specify the users who can discover or use the
 -   **[Configuring user access and data permissions for AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-conf-users-ai-agents.md)**  
 Configure the security controls to specify the users who can discover or use the agentic workflow, and provide data permissions for AI agents.
 -   **[Set the default notice period for the Manage contract repository agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/conf-sys-prop-default-np.md)**  
-Configure system properties to [[conf-sys-prop-default-np|set the default notice period for the Manage contract repository agentic workflow]].
+Configure system properties to set the default notice period for the Manage contract repository agentic workflow.
 -   **[Update the contracts AI agents handler script include](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-script-includ-agenticAI.md)**  
 Update the ContractsAIAgentsHelper script include to add the sys\_id of a customized Manage contract repository agentic workflow to run the agentic workflow autonomously.
 -   **[Enable notifications for AI extracted metadata and obligations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-me-agentic-ntf.md)**  
@@ -88,10 +88,3 @@ Enable the email notifications for metadata extraction and obligation extraction
 
 [Post-upgrade steps for Now Assist in Contract Management]()
 
-## Related
-
-- [[cncore-now-assit-landing|Now Assist in Contract Management]]
-- [[cncore-cmpro-landing-page|Contract Management Pro]]
-- [[discover-lxp|Discover]]
-- [[cmpro-na-reminder-agentic-wf|Manage contract repository agentic workflow]]
-- [[conf-sys-prop-default-np|Set the default notice period for the Manage contract repository agentic workflow]]

@@ -14,7 +14,7 @@ breadcrumb: [Set up a profile for scheduled notable event ingestion, Create an e
 
 # Map notable events
 
-During the notable event field-[[mapping-logrhythm|mapping]] step, you map individual event fields from notable events to fields on a ServiceNow AI Platform [[sir-landing-page|Security Incident Response]] \(SIR\) security incident.
+During the notable event field-mapping step, you map individual event fields from notable events to fields on a ServiceNow AI Platform Security Incident Response \(SIR\) security incident.
 
 ## Before you begin
 
@@ -68,7 +68,7 @@ Create custom mappings by adding or removing the fields on the mapping grid on t
 
         \[Omitted image "splunk\_es\_map\_4\_security.png"\] Alt text: Category field mapping
 
-        **Note:** So that multiple [[c_Observables|observables]] can be displayed on the same security incident, the Observable field can be mapped multiple times with different values. Similarly, the Configuration Item and Work notes fields support multiple values. If you try to map two values to a field that cannot support multiple values, when you preview the incident, an error message is displayed that there is no value for the field. Similarly, if a field on a security incident has a list from which you can choose multiple options, and you try to map an option to that field that is not displayed on the list, the field is not populated on the security incident.
+        **Note:** So that multiple observables can be displayed on the same security incident, the Observable field can be mapped multiple times with different values. Similarly, the Configuration Item and Work notes fields support multiple values. If you try to map two values to a field that cannot support multiple values, when you preview the incident, an error message is displayed that there is no value for the field. Similarly, if a field on a security incident has a list from which you can choose multiple options, and you try to map an option to that field that is not displayed on the list, the field is not populated on the security incident.
 
     3.  Alternatively, type a value in the Search field for the new row.
 
@@ -194,8 +194,3 @@ Delete this event profile and the Splunk Event Profiles list is displayed.
 
 The next step is to preview the values that you mapped on the security incident. For more information, see [Preview security incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/splunk-event-ingest-preview-security.md).
 
-## Related
-
-- [[mapping-logrhythm|Mapping]]
-- [[sir-landing-page|Security Incident Response]]
-- [[c_Observables|Observables]]

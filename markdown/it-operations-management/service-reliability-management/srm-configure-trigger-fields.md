@@ -14,7 +14,7 @@ breadcrumb: [Configuring Service Reliability Management, Service Reliability Man
 
 # Configure fields for escalation triggers
 
-Configure additional fields for on-call escalation triggers in [[sr-landing-page|Service Reliability Management]] \(SRM\).
+Configure additional fields for on-call escalation triggers in Service Reliability Management \(SRM\).
 
 ## Before you begin
 
@@ -88,6 +88,3 @@ To set up an escalation trigger, see [Create an escalation trigger for an SRM te
 
 **Next topic:**[Configure Twilio to send notifications in SRM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-add-twilio-key.md)
 
-## Related
-
-- [[sr-landing-page|Service Reliability Management]]

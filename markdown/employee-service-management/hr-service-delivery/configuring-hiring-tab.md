@@ -14,23 +14,16 @@ breadcrumb: [Hiring tab, Hiring Experiences, HR Service Delivery, Employee Servi
 
 # Configuring Hiring
 
-Install and [[config-hiring|configure Hiring]] to use it in the [[hiring-tab-concept|hiring]] process.
+Install and configure Hiring to use it in the hiring process.
 
 -   **[Install Hiring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/install-hiring-tab.md)**  
-You can install the [[hiring-dashboard|Hiring tab]] application \(sn\_ta\_hiring\_mgr\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Hiring tab application \(sn\_ta\_hiring\_mgr\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 -   **[Configure Hiring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/config-hiring.md)**  
-Set up the Hiring tab in the [[manager-hub-overview|Manager Hub]] to empower the hiring managers to make quality hires. Create a seamless process and easy communication with the recruiter.
+Set up the Hiring tab in the Manager Hub to empower the hiring managers to make quality hires. Create a seamless process and easy communication with the recruiter.
 -   **[Set up field data on the job requisition request form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/add-fields-reference.md)**  
-Add an entry to the [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] tables to provide the field values in the job requisition request form.
+Add an entry to the reference tables to provide the field values in the job requisition request form.
 -   **[Customize the fields on the job requisition request form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/customize-fields-req-form.md)**  
 Customize the fields you want to include in the job requisition request form, according to your organizational requirement.
 
 **Parent Topic:**[Hiring tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hiring-landing.md)
 
-## Related
-
-- [[config-hiring|Configure Hiring]]
-- [[hiring-tab-concept|Hiring]]
-- [[hiring-dashboard|Hiring tab]]
-- [[manager-hub-overview|Manager Hub]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

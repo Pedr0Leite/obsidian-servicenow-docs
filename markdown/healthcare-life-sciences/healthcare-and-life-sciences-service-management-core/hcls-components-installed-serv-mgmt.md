@@ -14,7 +14,7 @@ breadcrumb: [Reference, Healthcare and Life Sciences Service Management Core, He
 
 # Components installed with Healthcare and Life Sciences Service Management Core
 
-Several types of components are installed with installation of the [[hcls-core-app|Healthcare and Life Sciences Service Management Core]] application, including user roles, tables, plugins, ServiceNow Store applications, and business rules.
+Several types of components are installed with installation of the Healthcare and Life Sciences Service Management Core application, including user roles, tables, plugins, ServiceNow Store applications, and business rules.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -42,7 +42,7 @@ sn\_hcls.admin
 
 </td><td>
 
-Administers who can access sensitive data by restricting how users acquire roles in the [[hcls-overview|Healthcare and Life Sciences]] applications.
+Administers who can access sensitive data by restricting how users acquire roles in the Healthcare and Life Sciences applications.
 
 </td><td>
 
@@ -210,7 +210,7 @@ sn\_hcls.healthcare\_agent
 
 </td><td>
 
-Accesses and views healthcare data related to patients as a contact center agent. Can view and edit the CSM Households table, [[hcls-memb-plan-table|Member Plan table]], [[hcls-pre-auth-header-table|Pre-authorization Request table]], and all clinical tables.
+Accesses and views healthcare data related to patients as a contact center agent. Can view and edit the CSM Households table, Member Plan table, Pre-authorization Request table, and all clinical tables.
 
  Can create household members and pre-auth requests.
 
@@ -514,7 +514,7 @@ Stores the information about medication product dosage associated with a program
 
 </td><td>
 
-Stores the variables configured for a dosage specification displayed on the [[hcls-med-prescription-form|Medication Prescription form]] of a [[hcls-service-mgmt-overview|Healthcare and Life Sciences Service Management]] application.
+Stores the variables configured for a dosage specification displayed on the Medication Prescription form of a Healthcare and Life Sciences Service Management application.
 
 </td></tr><tr><td>
 
@@ -1030,7 +1030,7 @@ Runs the `Allergies - authorized to view` before query when a patient queries th
 
 </td></tr><tr><td>
 
-Patient access to [[hcls-appointment-table|appointment table]]
+Patient access to appointment table
 
 </td><td>
 
@@ -1062,7 +1062,7 @@ Runs the `Healthcare cases - authorized to view` before query when a patient que
 
 </td></tr><tr><td>
 
-Patient access to [[hcls-claim-header-table|claim header table]]
+Patient access to claim header table
 
 </td><td>
 
@@ -1078,7 +1078,7 @@ Runs the `Claim headers - authorized to view` before query when a patient querie
 
 </td></tr><tr><td>
 
-Patient access to [[hcls-claim-line-table|claim line table]]
+Patient access to claim line table
 
 </td><td>
 
@@ -1094,7 +1094,7 @@ Runs the `Claim lines - authorized to view` before query when a patient queries 
 
 </td></tr><tr><td>
 
-Patient access to [[hcls-condition-table|condition table]]
+Patient access to condition table
 
 </td><td>
 
@@ -1110,7 +1110,7 @@ Runs the `Conditions - authorized to view` before query when a patient queries t
 
 </td></tr><tr><td>
 
-Patient access to [[hcls-encounter-table|encounter table]]
+Patient access to encounter table
 
 </td><td>
 
@@ -1126,7 +1126,7 @@ Runs the `Encounters - authorized to view` before query when a patient queries t
 
 </td></tr><tr><td>
 
-Patient access to [[hcls-immunization-table|Immunization table]]
+Patient access to Immunization table
 
 </td><td>
 
@@ -1142,7 +1142,7 @@ Runs the `Immunization - authorized to view` before query when a patient queries
 
 </td></tr><tr><td>
 
-Patient access to [[hcls-medication-table|Medication table]]
+Patient access to Medication table
 
 </td><td>
 
@@ -1174,7 +1174,7 @@ Runs the `Member Plan - authorized to view` before query when a patient queries 
 
 </td></tr><tr><td>
 
-Patient access to [[hcls-observation-table|observation table]]
+Patient access to observation table
 
 </td><td>
 
@@ -1190,7 +1190,7 @@ Runs the `Observations - authorized to view` before query when a patient queries
 
 </td></tr><tr><td>
 
-Patient access to [[hcls-patient-table|patient table]]
+Patient access to patient table
 
 </td><td>
 
@@ -1206,7 +1206,7 @@ Runs the `Patients - represented by me` before query when a patient queries the 
 
 </td></tr><tr><td>
 
-Patient access to [[hcls-procedure-table|procedure table]]
+Patient access to procedure table
 
 </td><td>
 
@@ -1639,21 +1639,3 @@ Sets subscriber to the patient if the relationship is set to Self. Validates the
 </td></tr></tbody>
 </table>**Note:** To learn about before query business rules, see [Before Query business rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-before-query-business-rules.md).
 
-## Related
-
-- [[hcls-core-app|Healthcare and Life Sciences Service Management Core]]
-- [[hcls-overview|Healthcare and Life Sciences]]
-- [[hcls-memb-plan-table|Member plan table]]
-- [[hcls-pre-auth-header-table|Pre-authorization request table]]
-- [[hcls-med-prescription-form|Medication Prescription form]]
-- [[hcls-service-mgmt-overview|Healthcare and Life Sciences Service Management]]
-- [[hcls-appointment-table|Appointment table]]
-- [[hcls-claim-header-table|Claim header table]]
-- [[hcls-claim-line-table|Claim line table]]
-- [[hcls-condition-table|Condition table]]
-- [[hcls-encounter-table|Encounter table]]
-- [[hcls-immunization-table|Immunization table]]
-- [[hcls-medication-table|Medication table]]
-- [[hcls-observation-table|Observation table]]
-- [[hcls-patient-table|Patient table]]
-- [[hcls-procedure-table|Procedure table]]

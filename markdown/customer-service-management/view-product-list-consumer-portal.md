@@ -20,7 +20,7 @@ Role required: sn\_customerservice.consumer
 
 ## Procedure
 
-1.  [[log-in-to-consumer-service-portal|Log in to the Consumer Service Portal]].
+1.  Log in to the Consumer Service Portal.
 
 2.  Click **Support** &gt; **My Products** in the portal header.
 
@@ -28,6 +28,4 @@ Role required: sn\_customerservice.consumer
 
 3.  If desired, click a product to display more information about the product.
 
-## Related
 
-- [[log-in-to-consumer-service-portal|Log in to the Consumer Service Portal]]

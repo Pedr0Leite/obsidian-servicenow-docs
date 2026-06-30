@@ -24,10 +24,10 @@ Description of the form to request a permit to work.
 |Risk assessment|The risk assessment associated with the request if any.|
 |Risk before controls|Auto-populated when a risk assessment is selected.|
 |Risk after controls|Auto-populated when a risk assessment is selected.|
-|JSA|The [[hs-job-safety-analysis|job safety analysis]] \( JSA\) on the site that is associated with the request if any.|
+|JSA|The job safety analysis \( JSA\) on the site that is associated with the request if any.|
 |Safety register|Any safety register relevant to the request.|
 |Inspection|Option to add an inspection with the permit if needed.|
-|Work task|The [[health-safety-overview|Health and Safety]] record relevant to the request.|
+|Work task|The Health and Safety record relevant to the request.|
 |Location|The location of the job.|
 |Work area|The work area at the location.|
 |Start date and time|The shift start date and time.|
@@ -41,7 +41,3 @@ Description of the form to request a permit to work.
 
 **Parent Topic:**[Health and Safety Risk Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-risk-mgmt-reference.md)
 
-## Related
-
-- [[hs-job-safety-analysis|Job safety analysis]]
-- [[health-safety-overview|Health and Safety]]

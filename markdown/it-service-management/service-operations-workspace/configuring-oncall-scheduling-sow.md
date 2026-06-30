@@ -14,9 +14,9 @@ breadcrumb: [On-Call Scheduling in Service Operations Workspace, Managing IT ser
 
 # Configuring On-Call Scheduling in Service Operations Workspace
 
-Configure [[on-call-scheduling-in-sow|On-Call Scheduling in Service Operations Workspace]] \(SOW\) for their organizational needs, utilizing a suite of features to fulfill the various requirements.
+Configure On-Call Scheduling in Service Operations Workspace \(SOW\) for their organizational needs, utilizing a suite of features to fulfill the various requirements.
 
-You must configure the following [[c_OnCallScheduling|On-Call Scheduling]] features in SOW to schedule and manage your work shifts:
+You must configure the following On-Call Scheduling features in SOW to schedule and manage your work shifts:
 
 -   Create a on-call shift form.
 -   Create or edit on-call shift.
@@ -28,7 +28,7 @@ You must configure the following [[c_OnCallScheduling|On-Call Scheduling]] featu
 -   Create escalation trigger rules, levels and policies.
 
 -   **[Create new form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-shift-form.md)**  
-Use the [[create-shift-form|Create new form]] to create an on-call shift in Service Operations Workspace. If you select the **Create new** option on the Schedules page, provide the following field details.
+Use the Create new form to create an on-call shift in Service Operations Workspace. If you select the **Create new** option on the Schedules page, provide the following field details.
 -   **[Create and edit shift in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-a-schedule-in-sow.md)**  
 Shift manager can create a new shift using the **Schedule** menu or **Teams** menu in Service Operations Workspace
 -   **[Create notification preference rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-notification-preference-rule.md)**  
@@ -38,8 +38,3 @@ Configure the user, notification and on-call escalation preferences by creating 
 
 **Parent Topic:**[On-Call Scheduling in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/on-call-scheduling-in-sow.md)
 
-## Related
-
-- [[on-call-scheduling-in-sow|On-Call Scheduling in Service Operations Workspace]]
-- [[c_OnCallScheduling|On-Call Scheduling]]
-- [[create-shift-form|Create new form]]

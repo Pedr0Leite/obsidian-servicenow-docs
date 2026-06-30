@@ -18,7 +18,7 @@ Map individual offense, event, and flow fields to fields on a ServiceNow AI Plat
 
 ## Offense field mapping
 
-As a user with the sn\_si.admin role, use the fields from the Sample Offenses section on the left and map them to the security incident fields in the SIR Incident Field [[mapping-logrhythm|Mapping]] column. Edit the mapping configuration by dragging offense, event, or flow fields from the left side and dropping them on the ServiceNow SIR incident mapping section on the right. The mapping on the right associates the incoming offense field with an outgoing security incident field.
+As a user with the sn\_si.admin role, use the fields from the Sample Offenses section on the left and map them to the security incident fields in the SIR Incident Field Mapping column. Edit the mapping configuration by dragging offense, event, or flow fields from the left side and dropping them on the ServiceNow SIR incident mapping section on the right. The mapping on the right associates the incoming offense field with an outgoing security incident field.
 
 1.  After you have fetched the sample data, the next step is map the offense, event, or flow fields to the security incident. To map a field value from the left side of the form to a field on the security incident on the right side of the form, click-hold a blue field name on the left side of the form.
 2.  Drag the field name, for example, `description`, and drop it on a field in the Input Expression column next to a field name in the Security Incident column.
@@ -37,7 +37,7 @@ As a user with the sn\_si.admin role, use the fields from the Sample Offenses se
     1.  On the right of the form in the SIR Incident Field Mapping section, at the bottom of the grid, click the plus \(+\) icon. A new field is displayed.
     2.  In the Security Incident column, expand the choice list that is displayed, and select a field.
 
-        **Note:** As multiple [[c_Observables|observables]] can be displayed on the same security incident, the Observable field can be mapped multiple times with different values. Similarly, the Configuration Item and Work notes fields support multiple values. If you try to map two values to a field that cannot support multiple values, when you preview the incident, an error message is displayed that there is no value for the field. Similarly, if a field on a security incident has a choice list from which you can choose multiple options, and you try to map an option to that field that is not displayed on the choice list, the field is not populated on the security incident.
+        **Note:** As multiple observables can be displayed on the same security incident, the Observable field can be mapped multiple times with different values. Similarly, the Configuration Item and Work notes fields support multiple values. If you try to map two values to a field that cannot support multiple values, when you preview the incident, an error message is displayed that there is no value for the field. Similarly, if a field on a security incident has a choice list from which you can choose multiple options, and you try to map an option to that field that is not displayed on the choice list, the field is not populated on the security incident.
 
     3.  Alternatively, type a value in the Search field for the new row.
     4.  From the left side of the form, select the offense field and drag-and-drop it to an appropriate security incident field on the right.
@@ -56,14 +56,14 @@ As a user with the sn\_si.admin role, use the fields from the Sample Offenses se
     -   `remote_destination_ips`
     -   `rules_contributing_to_offense`
     -   `users`
-    If you need to map the above fields to any [[sir-landing-page|Security Incident Response]] fields apart from CI and Observable type fields, you must create new Security Incident Response fields of type **List** and use them for mapping.
+    If you need to map the above fields to any Security Incident Response fields apart from CI and Observable type fields, you must create new Security Incident Response fields of type **List** and use them for mapping.
 
     **Note:** By default, only non-reference **List** type fields are supported.
 
 
 **Format Field Translation**
 
-In certain cases, offense field values in IBM QRadar may not translate directly to the fields on the SIR security incident. For these values, you can use a script editor to format field values on the security incident during the mapping step. Use the script editor if you want to format values that are similar, but not identical. For example, with the script editor, a category value of [[threat-intelligence-malware|Malware]] Alert and Virus Infection may have different field values for the source category but both values can be translated to a common Malicious Code Activity in the Category field on the SIR security incident using the Format Field Translation functionality.
+In certain cases, offense field values in IBM QRadar may not translate directly to the fields on the SIR security incident. For these values, you can use a script editor to format field values on the security incident during the mapping step. Use the script editor if you want to format values that are similar, but not identical. For example, with the script editor, a category value of Malware Alert and Virus Infection may have different field values for the source category but both values can be translated to a common Malicious Code Activity in the Category field on the SIR security incident using the Format Field Translation functionality.
 
 To use the script editor, select the \[Omitted image "ibm-qradar-mapping-script-icon.png"\] Alt text: IBM QRadar: Create Profile: script icon. The script editor is displayed.
 
@@ -122,9 +122,3 @@ Define additional offense aggregation criteria that aggregates an incoming offen
 
 4.  Select **Continue** to continue with the profile configuration. The next step is to preview the fields you mapped on a SIR security incident
 
-## Related
-
-- [[mapping-logrhythm|Mapping]]
-- [[c_Observables|Observables]]
-- [[sir-landing-page|Security Incident Response]]
-- [[threat-intelligence-malware|Malware]]

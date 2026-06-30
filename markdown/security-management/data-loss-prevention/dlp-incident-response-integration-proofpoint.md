@@ -28,7 +28,7 @@ This integration includes the following key features:
 
 -   Multiple profile creation for different Proofpoint endpoints.
 -   Automating the creation of DLP incidents.
--   [[mapping-logrhythm|Mapping]] of the Proofpoint DLP incident state field to DLP incident state field.
+-   Mapping of the Proofpoint DLP incident state field to DLP incident state field.
 -   Filtering of Proofpoint DLP incidents.
 -   Ingestion of incidents in your ServiceNow instance as soon as the incidents are created on Proofpoint DLP tenant.
 -   Proofpoint DLP integration supports both endpoints and email type of incidents.
@@ -44,11 +44,11 @@ This integration includes the following key features:
 -   **[Getting started with Proofpoint integration for Data Loss Prevention](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/getting-started-with-proofpoint-integration-dlp.md)**  
 The Proofpoint DLP integration supports the ingestion of Data Loss Prevention incidents created on the Proofpoint Data Loss Prevention tenant. After ingestion, the incident management functionalities that remediate the DLP incidents will be used.
 -   **[Install and configure the Proofpoint integration for Data Loss Prevention](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/install-configure-proofpoint-integration-dlp.md)**  
-[[configure-cortex-xsiam-siem|Install and configure]] the  Proofpoint DLP integration from the  ServiceNow® Store on your  ServiceNow AI Platform instance. Start investigating DLP incidents using the  Proofpoint DLP incident data.
+Install and configure the  Proofpoint DLP integration from the  ServiceNow® Store on your  ServiceNow AI Platform instance. Start investigating DLP incidents using the  Proofpoint DLP incident data.
 -   **[Create an Application in Proofpoint and Obtain Client Credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/create-application-proofpoint-dlp.md)**  
 Create an Application in Proofpoint and configure the required settings to obtain client credentials. These credentials enable secure access to Proofpoint's API for seamless integration and automation.
 -   **[Create a Profile for Proofpoint DLP integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/create-profile-proofpoint-dlp-integration.md)**  
-[[ms-defender-profile|Create an incident profile]] in your  ServiceNow AI Platform instance. Determine the  Proofpoint DLP incidents that are suitable for creating DLP incidents.
+Create an incident profile in your  ServiceNow AI Platform instance. Determine the  Proofpoint DLP incidents that are suitable for creating DLP incidents.
 -   **[Map Proofpoint DLP incidents status with ServiceNow incident status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/map-proofpoint-dlp-incident-status.md)**  
 Synchronize the status of the DLP incidents ingested on your ServiceNow instance and DLP incidents of the Proofpoint. Map the ServiceNow Incident status with the Proofpoint Incident status.
 -   **[Configure Proofpoint DLP integration settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/configure-proofpoint-dlp-integration-settings.md)**  
@@ -69,8 +69,3 @@ Domain separation enables you to separate data, processes, and administrative ta
 
 [Data Loss Prevention Incident Response with Microsoft]()
 
-## Related
-
-- [[mapping-logrhythm|Mapping]]
-- [[configure-cortex-xsiam-siem|Install and Configure]]
-- [[ms-defender-profile|Create an incident profile]]

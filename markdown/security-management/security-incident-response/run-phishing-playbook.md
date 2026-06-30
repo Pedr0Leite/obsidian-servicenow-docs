@@ -19,11 +19,11 @@ Using the flow designer, you can define and automate tasks in the playbook to an
 ## Before you begin
 
 -   Role required: sn\_si.admin, flow\_designer, and action\_designer
--   [[configure-cortex-xsiam-siem|Install and configure]] the following integrations with the right credentials:
-    -   Block Request \([[security-operations-landing-page|Security Operations]] Palo Alto Networks NGFW Integration\)
-    -   [[tisc-observable-enrichment|Observable Enrichment]]
+-   Install and configure the following integrations with the right credentials:
+    -   Block Request \(Security Operations Palo Alto Networks NGFW Integration\)
+    -   Observable Enrichment
     -   Sighting search
-    -   [[tisc-threat-lookup|Threat Lookup]]
+    -   Threat Lookup
     -   Microsoft Office Exchange
 
 ## About this task
@@ -72,7 +72,7 @@ The following steps describe how to make a copy of the phishing playbook templat
 
 8.  In step 4, after the email has been sent, the response task is marked as closed.
 
-9.  In step 5, all the [[c_Observables|observables]] involved in the incident \(such as email subject, email address from which the phishing email was sent, phishing URL\) or observables belonging a selected category \(hash, file, or domain\) are collected to perform additional automated actions in the subsequent playbook steps.
+9.  In step 5, all the observables involved in the incident \(such as email subject, email address from which the phishing email was sent, phishing URL\) or observables belonging a selected category \(hash, file, or domain\) are collected to perform additional automated actions in the subsequent playbook steps.
 
     Select the action designer icon \[Omitted image "cj-sir-flow-actiondesign-icon.png"\] Alt text: Action designer icon to see a detailed view of the action.
 
@@ -110,7 +110,7 @@ The following steps describe how to make a copy of the phishing playbook templat
 
 19. Step 15 is an automated response task that captures the start and completion of the sighting search of observables task.
 
-20. In step 16, the Run [[indicator-sightings|Sightings]] Search on Observables subflow is called.
+20. In step 16, the Run Sightings Search on Observables subflow is called.
 
     This subflow performs a sightings search using the configured implementation.
 
@@ -150,11 +150,3 @@ You can drill down to the Subflow Designer to view detailed information about th
 
 **Parent Topic:**[Playbook for Automated Phishing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/flow-designer-and-phishing-response.md)
 
-## Related
-
-- [[configure-cortex-xsiam-siem|Install and Configure]]
-- [[security-operations-landing-page|Security Operations]]
-- [[tisc-observable-enrichment|Observable Enrichment]]
-- [[tisc-threat-lookup|Threat Lookup]]
-- [[c_Observables|Observables]]
-- [[indicator-sightings|Sightings]]

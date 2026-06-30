@@ -14,7 +14,7 @@ breadcrumb: [PowerShell for Discovery and Service Mapping, Advanced Discovery co
 
 # PowerShell commands run by Discovery
 
-These are the PowerShell cmdlets and their parameters that [[r-discovery|Discovery]] runs to control and automate the administration of Windows servers and applications. Included are the probe parameters and MID Server scripts that contain the commands.
+These are the PowerShell cmdlets and their parameters that Discovery runs to control and automate the administration of Windows servers and applications. Included are the probe parameters and MID Server scripts that contain the commands.
 
 <table id="table_xgb_4hp_pgb"><thead><tr><th>
 
@@ -917,6 +917,3 @@ Writes text to the verbose message stream in Windows PowerShell. Typically, the 
 </td></tr></tbody>
 </table>**Parent Topic:**[PowerShell for Discovery and Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_PowerShellForDiscovery.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

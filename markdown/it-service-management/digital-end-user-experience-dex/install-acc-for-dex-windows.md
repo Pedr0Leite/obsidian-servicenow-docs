@@ -14,7 +14,7 @@ breadcrumb: [Installing DEX on your local machine, Configure, Digital End-User E
 
 # Install ACC for DEX on Windows
 
-Install Agent Client Collector \(ACC\) to work with [[dex-landing|Digital End-User Experience]] \(DEX\) to monitor and collect data, provide insights into system performance, identify issues, and enable proactive maintenance.
+Install Agent Client Collector \(ACC\) to work with Digital End-User Experience \(DEX\) to monitor and collect data, provide insights into system performance, identify issues, and enable proactive maintenance.
 
 ## Before you begin
 
@@ -102,7 +102,7 @@ Optional string. To disable verification of the installer certification validati
 
     -   Performance Monitor: Viewing all performance counters in the system.
     -   Log on as a service: Starting network services and services that run continuously, even when no one is logged in to the console.
-    -   Debug program: Monitoring the installed [[dex-workspace-application-tab|applications]] and collecting in-depth metrics and remedial actions, such as restart and stop.
+    -   Debug program: Monitoring the installed applications and collecting in-depth metrics and remedial actions, such as restart and stop.
 4.  To collect DEX metrics, restart the ACC service using one of the following methods:
 
     -   Add **Remote Desktop user** to ServiceNow user.
@@ -118,7 +118,3 @@ Run Agent Client Collector \(ACC\) from a managed group account to meet your org
 
 **Parent Topic:**[Installing DEX on your local machine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/installing-dex-local.md)
 
-## Related
-
-- [[dex-landing|Digital End-User Experience]]
-- [[dex-workspace-application-tab|Applications]]

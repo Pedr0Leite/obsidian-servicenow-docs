@@ -12,35 +12,22 @@ breadcrumb: [Provider notifications, Notifications, Configure core features, Adm
 
 # Create provider notification
 
-Create and update provider notifications, add and implement actions, and customize [[notifications|notifications]]
+Create and update provider notifications, add and implement actions, and customize notifications
 
--   **[[noti-new-update-notification|Create and update a provider notification for all users]]**  
+-   **[Create and update a provider notification for all users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/noti-new-update-notification.md)**  
 Create a notification in the notification provider framework to send to both sys and non-sys users.
--   **[[make-notification-mandatory-provider|Make a notification mandatory for provider framework]]**  
+-   **[Make a notification mandatory for provider framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/make-notification-mandatory-provider.md)**  
 Enable admins to mark specific notifications as mandatory that their users cannot turn off.
--   **[[create-default-content|Create default content in a provider]]**  
+-   **[Create default content in a provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-default-content.md)**  
 Create and use the default content for a notification that doesn't have a content provider or some of the fields in the content provider aren’t present.
--   **[[create-custom-notifications-next-experience|Create custom notifications in Next Experience]]**  
+-   **[Create custom notifications in Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-custom-notifications-next-experience.md)**  
 Provide better context and information about users' work by creating custom content for in-product notifications in Next Experience.
--   **[[notification-action-script|Implementing notification action with a script]]**  
+-   **[Implementing notification action with a script](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/notification-action-script.md)**  
 Use the **Script** field in the Notification Action form to update and implement a notification action.
--   **[[noti-provider-action-capabilities|Select provider notification action capabilities]]**  
-Enable [[notification-provider|provider notification]] [[clone-exclusions-preservers-cleanupscripts|definitions]] to accept actions as scriptable action, flow actions, and virtual agent.
--   **[[noti-select-provider-actions-order|Add actions to the notification content]]**  
+-   **[Select provider notification action capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/noti-provider-action-capabilities.md)**  
+Enable provider notification definitions to accept actions as scriptable action, flow actions, and virtual agent.
+-   **[Add actions to the notification content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/noti-select-provider-actions-order.md)**  
 Use the Link Actions to Content related list to add actions to the notification content, selection of the provider notification and ordering of actions of an actionable content.
 
-**Parent Topic:**[[provider-notifications-landing|Provider notifications]]
+**Parent Topic:**[Provider notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/provider-notifications-landing.md)
 
-## Related
-
-- [[noti-new-update-notification|Create and update a provider notification for all users]]
-- [[make-notification-mandatory-provider|Make a notification mandatory for provider framework]]
-- [[create-default-content|Create default content in a provider]]
-- [[create-custom-notifications-next-experience|Create custom notifications in Next Experience]]
-- [[notification-action-script|Implementing notification action with a script]]
-- [[noti-provider-action-capabilities|Select provider notification action capabilities]]
-- [[noti-select-provider-actions-order|Add actions to the notification content]]
-- [[provider-notifications-landing|Provider notifications]]
-- [[notifications|Notifications]]
-- [[notification-provider|Provider notification]]
-- [[clone-exclusions-preservers-cleanupscripts|Definitions]]

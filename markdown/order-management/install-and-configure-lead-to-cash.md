@@ -20,23 +20,14 @@ Admins and users with various roles complete the following configurations tasks 
 
 |Task|Description|
 |----|-----------|
-|[[entity-configuration-and-mapping|Entity configuration and mapping]]|Map entities that define a structure and transfers data from the source entity to the target entity.|
-|[[create-entity-configuration|Create an entity configuration]]|Use entities to compose a workflow between two entities so that you can update their existing configurations and perform the required **[[Suspend|Suspend]]**, **[[Resume|Resume]]**, or **Disconnect** actions on a sold product.|
-|[[create-entity-mapping|Create an entity mapping]]|Create an entity mapping to perform the declarative actions like **Suspend**, **Resume**, or **Disconnect** actions on a sold product.|
+|[Entity configuration and mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/entity-configuration-and-mapping.md)|Map entities that define a structure and transfers data from the source entity to the target entity.|
+|[Create an entity configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-entity-configuration.md)|Use entities to compose a workflow between two entities so that you can update their existing configurations and perform the required **Suspend**, **Resume**, or **Disconnect** actions on a sold product.|
+|[Create an entity mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-entity-mapping.md)|Create an entity mapping to perform the declarative actions like **Suspend**, **Resume**, or **Disconnect** actions on a sold product.|
 
 **Related topics**  
 
 
-[[using-lead-cash-foundation|Using lead-to-cash foundation applications]]
+[Using lead-to-cash foundation applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-lead-cash-foundation.md)
 
-[[lead-to-cash|Lead to Cash Core]]
+[Lead to Cash Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-to-cash.md)
 
-## Related
-
-- [[entity-configuration-and-mapping|Entity configuration and mapping]]
-- [[create-entity-configuration|Create an entity configuration]]
-- [[create-entity-mapping|Create an entity mapping]]
-- [[using-lead-cash-foundation|Using lead-to-cash foundation applications]]
-- [[lead-to-cash|Lead to Cash Core]]
-- [[Suspend|Suspend]]
-- [[Resume|Resume]]

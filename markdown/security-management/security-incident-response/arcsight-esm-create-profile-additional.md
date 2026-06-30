@@ -61,7 +61,7 @@ Select a stage option from the Correlated Event Stage Update choice list that di
 
     -   Select **Use Previously Assigned Stage** in the Correlated Event Stage Update choice list.
     -   Select an existing stage from the Select Correlated Event Stage list.
-    -   Initial Comments posted back to Correlated Event: In addition to updating the correlation event stage value, you can also post comments to the correlation stage annotations. As indicated in the instructions, you may edit the default text displayed in the comments section including adding or modifying the substitution variables using format $⁠\{field name\}$ for any field on the [[sir-landing-page|Security Incident Response]] incident form.
+    -   Initial Comments posted back to Correlated Event: In addition to updating the correlation event stage value, you can also post comments to the correlation stage annotations. As indicated in the instructions, you may edit the default text displayed in the comments section including adding or modifying the substitution variables using format $⁠\{field name\}$ for any field on the Security Incident Response incident form.
     **Note:** You can either use the default stages defined in the ArcSight ESM console or create your own custom stages. To create a new stage, follow these steps:
 
     -   In the ArcSight ESM console, select **File** &gt; **New** &gt; **Stage**. The Inspect/Edit tab is displayed.
@@ -115,6 +115,4 @@ In addition to updating the correlation event status value, you can also post cl
 
     A confirmation dialog is displayed. You have successfully completed the setup and configuration for the integration. Activate this profile to pull correlation events from the ArcSight ESM console based on your scheduling.
 
-## Related
 
-- [[sir-landing-page|Security Incident Response]]

@@ -108,15 +108,11 @@ OCR processing needed
 
 </td><td>
 
-Option to require text or data to be automatically extracted from the document list item definition using optical character recognition. For more information, see [[integration-with-document-intelligence|Integrating with Document Intelligence]].
+Option to require text or data to be automatically extracted from the document list item definition using optical character recognition. For more information, see [Integrating with Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/integration-with-document-intelligence.md).
 
 </td></tr></tbody>
 </table>5.  Select **Submit**.
 
 
-**Parent Topic:**[[configuring-fso-document-processor|Configuring Financial Services Operations Document Processor]]
+**Parent Topic:**[Configuring Financial Services Operations Document Processor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configuring-fso-document-processor.md)
 
-## Related
-
-- [[integration-with-document-intelligence|Integrating with Document Intelligence]]
-- [[configuring-fso-document-processor|Configuring Financial Services Operations Document Processor]]

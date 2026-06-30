@@ -14,14 +14,14 @@ breadcrumb: [Health and Safety Testing, Safe Workplace, Health and Safety, Emplo
 
 # Confirm COVID-19 test results for a user
 
-Confirm a user's reported COVID-19 test results through the [[employee-readiness-core-approval-portal|Employee Readiness Core Approval Portal]].
+Confirm a user's reported COVID-19 test results through the Employee Readiness Core Approval Portal.
 
 ## Before you begin
 
-Your organization must install both [[health-safety-testing|Health and Safety Testing]] and [[vaccination-status|Vaccination Status]] to use the Approval Portal.
+Your organization must install both Health and Safety Testing and Vaccination Status to use the Approval Portal.
 
 -   For information on installing Health and Safety Testing, see [Install Health and Safety Testing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-testing/install-health-testing.md).
--   For information on installing Vaccination Status, see [[install-vaccination-status|Install Vaccination Status]].
+-   For information on installing Vaccination Status, see [Install Vaccination Status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/install-vaccination-status.md).
 
 Activate the **sn\_imt\_health\_test.allow\_managers\_ability\_to\_update\_test\_result\_records** property to enable all managers to review and verify COVID-19 tests of their direct reports. This property assigns the sn\_imt\_core.approval\_portal\_manager role to managers and grants access to the Approval Portal for test results.
 
@@ -33,11 +33,11 @@ Role required: sn\_imt\_vaccine.admin
 
 ## About this task
 
-Managers can only confirm the COVID-19 test results of their direct reports. Vaccine admins and [[health-safety-overview|health and safety]] approvers can confirm the test results of all users.
+Managers can only confirm the COVID-19 test results of their direct reports. Vaccine admins and health and safety approvers can confirm the test results of all users.
 
 ## Procedure
 
-1.  Navigate to **[[employee-health-safety-status|Employee Health and Safety Status]]** &gt; **Approval Portal**.
+1.  Navigate to **Employee Health and Safety Status** &gt; **Approval Portal**.
 
     The default view displays all health test, vaccine dose, and exemption request records that require review.
 
@@ -79,11 +79,3 @@ Managers can only confirm the COVID-19 test results of their direct reports. Vac
 
 **Parent Topic:**[Health and Safety Testing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-testing/health-safety-testing.md)
 
-## Related
-
-- [[install-vaccination-status|Install Vaccination Status]]
-- [[employee-readiness-core-approval-portal|Employee Readiness Core Approval Portal]]
-- [[health-safety-testing|Health and Safety Testing]]
-- [[vaccination-status|Vaccination Status]]
-- [[health-safety-overview|Health and Safety]]
-- [[employee-health-safety-status|Employee Health and Safety Status]]

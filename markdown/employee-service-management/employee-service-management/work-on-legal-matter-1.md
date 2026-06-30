@@ -31,7 +31,7 @@ As a collaborator added to a legal matter, you can access and work on the legal 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Legal Request** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
 2.  In the Legal Counsel Center tab, select the list icon \[Omitted image "lsd-lcc-list-icon.png"\] Alt text:.
 
@@ -137,7 +137,7 @@ The state of the legal matter updates to Work in Progress.
 
         **Note:** [Response templates configured for legal services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/create-lsd-response-template.md) are only available to use.
 
-    For legal matters enabled for [[lmm-acp-landing|attorney client privilege]], markers are added to the email content to indicate the privileged and confidential status.
+    For legal matters enabled for attorney client privilege, markers are added to the email content to indicate the privileged and confidential status.
 
 13. Create and manage a checklist of items in the Counsel Assist section to track what should be done to resolve the legal matter.
 
@@ -159,7 +159,7 @@ The state of the legal matter updates to Work in Progress.
 -   **[Initiate an ad hoc approval for a legal matter or its artifact](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/initiate-approval-legal-matter.md)**  
 Initiate an ad hoc approval for a legal matter or its artifacts from a user or a user group.
 -   **[Engage with outside counsel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/lmm-eng-outcounsel.md)**  
-[[lmm-eng-outcounsel|Engage with outside counsel]] to benefit from their expertise for resolving legal matters.
+Engage with outside counsel to benefit from their expertise for resolving legal matters.
 -   **[Approve or reject a legal matter or its artifact](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/approve-reject-legal-matter-artif.md)**  
 Review a legal matter or its artifact's content and approve or reject it.
 -   **[Communicate using emails from Legal Counsel Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/send-receive-email-legal-matter.md)**  
@@ -169,28 +169,19 @@ Add a phase to a matter to track specific tasks to complete the matter.
 -   **[Create a task for a legal matter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/add-tasks-to-legal-matter.md)**  
 Create a task in a legal matter or a phase of the matter that you or another user should perform to resolve the matter.
 -   **[Create an artifact for a legal matter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/add-artifact-to-legal-matter.md)**  
-[[add-artifact-to-legal-matter|Create an artifact for a legal matter]] to upload and store documents, emails, and files related to the matter.
+Create an artifact for a legal matter to upload and store documents, emails, and files related to the matter.
 -   **[Add a milestone to a legal matter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/add-milestone-to-legal-matter.md)**  
-[[add-milestone-to-legal-matter|Add a milestone to a legal matter]] to track important calendar events related to the matter.
+Add a milestone to a legal matter to track important calendar events related to the matter.
 -   **[Associate related legal requests with a legal matter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/associate-related-legal-requests-to-matter.md)**  
 Associate one or more legal requests with a legal matter to organize and resolve related requests through a single matter.
 -   **[Associate an existing legal matter with a legal request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/associate-existing-matter-to-legal-request.md)**  
-[[associate-existing-matter-to-legal-request|Associate an existing legal matter with a legal request]] that is similar to provide helpful information in resolving the request.
+Associate an existing legal matter with a legal request that is similar to provide helpful information in resolving the request.
 -   **[Disable attorney client privilege for legal matter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/lmm-acp-disable.md)**  
 Disable privileged and confidential status of a legal matter.
 -   **[Close a legal matter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/close-legal-matter.md)**  
-[[close-legal-matter|Close a legal matter]] assigned to you when you complete all activities for resolving the legal matter. You can also close the matter if you find that it doesn’t need any further action.
+Close a legal matter assigned to you when you complete all activities for resolving the legal matter. You can also close the matter if you find that it doesn’t need any further action.
 -   **[Reopen a legal matter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/reopen-legal-matter.md)**  
 If a legal matter requires further investigation after it was closed or canceled, you can reopen it to work on it again.
 
 **Parent Topic:**[Using Legal Matter Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/lmm-use-landing.md)
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[lmm-acp-landing|Attorney Client Privilege]]
-- [[lmm-eng-outcounsel|Engage with outside counsel]]
-- [[add-artifact-to-legal-matter|Create an artifact for a legal matter]]
-- [[add-milestone-to-legal-matter|Add a milestone to a legal matter]]
-- [[associate-existing-matter-to-legal-request|Associate an existing legal matter with a legal request]]
-- [[close-legal-matter|Close a legal matter]]

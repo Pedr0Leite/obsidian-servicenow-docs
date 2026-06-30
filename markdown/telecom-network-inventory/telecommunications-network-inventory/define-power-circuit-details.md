@@ -14,7 +14,7 @@ breadcrumb: [Manually creating and reviewing your network asset instances, Defin
 
 # Define the power circuit details
 
-Define the power circuit record to represent the electrical pathway that delivers power in a datacenter. By defining the power circuit records, you can track and manage your network assets in the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+Define the power circuit record to represent the electrical pathway that delivers power in a datacenter. By defining the power circuit records, you can track and manage your network assets in the Telecommunications Network Inventory application.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ When you create a power circuit connection record, it creates a corresponding co
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then select **Inventory** &gt; **Power Circuits**.
 
@@ -40,7 +40,7 @@ When you create a power circuit connection record, it creates a corresponding co
 
     To learn about the configuration fields, see [Commonly used network asset instance configuration fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/commonly-used-tni-configuration-fields.md).
 
-6.  To create the Telecommunications Network Inventory attributes for the [[power-circuit-form|Power Circuit form]], select **Set Inventory Attributes**.
+6.  To create the Telecommunications Network Inventory attributes for the Power Circuit form, select **Set Inventory Attributes**.
 
     When you select the **Set Inventory Attributes** button, it creates the TNI CI Attributes record in the CI table as well as the Telecommunications Network Inventory CI Attributes tables and makes a relationship with the CI record.
 
@@ -48,7 +48,7 @@ When you create a power circuit connection record, it creates a corresponding co
 
     If you select **Save** without selecting **Set Inventory Attributes**, it creates a CI record but not a Telecommunications Network Inventory CI record. In the network inventory workspace, the **Set Inventory Attributes** is visible only for the Telecommunications Network Inventory roles.
 
-7.  On the [[ci-attribue-form|TNI CI Attributes form]], fill in the fields.
+7.  On the TNI CI Attributes form, fill in the fields.
 
     To learn more about the Telecommunications Network Inventory attribute fields, see [TNI CI Attributes form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/ci-attribue-form.md).
 
@@ -78,9 +78,3 @@ If you want to establish relationships with the other network assets, enter the 
 
 [Data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/uses-for-network-inventory-data.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[power-circuit-form|Power circuit form]]
-- [[ci-attribue-form|TNI CI Attributes form]]

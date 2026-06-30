@@ -14,12 +14,12 @@ breadcrumb: [HR Service Delivery Advanced Integration with Oracle HCM, Integrati
 
 # Report a payslip issue in Oracle HCM
 
-Report an issue in your Oracle HCM payslip from [[employee-center-landing-page|Employee Center]].
+Report an issue in your Oracle HCM payslip from Employee Center.
 
 ## Before you begin
 
 -   Role required: none
--   You might not be able to report a payslip discrepancy if your [[c_HRProfileRecords|HR profile]] does not have a valid Correlation ID or Person ID, and Employment Start Date.
+-   You might not be able to report a payslip discrepancy if your HR profile does not have a valid Correlation ID or Person ID, and Employment Start Date.
 
 ## Procedure
 
@@ -43,7 +43,4 @@ Report an issue in your Oracle HCM payslip from [[employee-center-landing-page|E
 
     An HR case gets created under the Payroll cases category.
 
-## Related
 
-- [[employee-center-landing-page|Employee Center]]
-- [[c_HRProfileRecords|HR Profile]]

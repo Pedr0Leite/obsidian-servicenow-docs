@@ -22,7 +22,7 @@ Role required: sn\_hr\_core.case\_writer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **[[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **Agent Workspace for HR Case Management**.
 
 2.  Select the \[Omitted image "icon-inbox.png"\] Alt text: HR Agent WS - Inbox icon inbox icon.
 
@@ -34,10 +34,6 @@ Role required: sn\_hr\_core.case\_writer
 
 6.  Select the \[Omitted image "quick-action-icon.png"\] Alt text: HR Agent Workspace - Quick action icon quick action icon, or enter a back slash \(/\) in the chat area.
 
-7.  Select a quick action to quickly [[search-hr-case|create an HR case]], show related response templates, transfer chat to another agent, or transfer the chat to another queue.
+7.  Select a quick action to quickly create an HR case, show related response templates, transfer chat to another agent, or transfer the chat to another queue.
 
-## Related
 
-- [[case-management-workspace|Case management]]
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[search-hr-case|Create an HR case]]

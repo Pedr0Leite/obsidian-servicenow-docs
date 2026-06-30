@@ -28,7 +28,7 @@ Use either the standard template or one of the pre-defined How To, What Is, FAQ 
 
 **Note:**
 
-When you upgrade [[knowledge-management|Knowledge Management]] to Kingston or later releases, all the existing articles from the earlier version automatically use the standard template of the upgraded version. For example, if you upgrade Knowledge Management from Jakarta to Kingston, all existing articles use the standard template available in the Kingston version.
+When you upgrade Knowledge Management to Kingston or later releases, all the existing articles from the earlier version automatically use the standard template of the upgraded version. For example, if you upgrade Knowledge Management from Jakarta to Kingston, all existing articles use the standard template available in the Kingston version.
 
 All pre-defined templates are inactive by default. If you do not activate a template, the articles automatically use the standard template. As a knowledge admin, you can activate a template by navigating to **Knowledge** &gt; **Administration** &gt; **Article Templates**. Then in the article template list, set the **Active** field to true for one or more templates you would like to activate.
 
@@ -147,7 +147,7 @@ The Knowledge Article Templates feature is activated with the Knowledge Manageme
 
 ## Deactivating knowledge article templates
 
-You cannot delete an article template because article templates have an associated child table. Deleting a template would also require deleting the child table. Due to the limitations on dropping tables, article templates and template columns are explicitly made non-deletable. Instead, you can disable the Knowledge Article Templates feature by clearing the **Active** [[check-box|check box]] on the Article Template form.
+You cannot delete an article template because article templates have an associated child table. Deleting a template would also require deleting the child table. Due to the limitations on dropping tables, article templates and template columns are explicitly made non-deletable. Instead, you can disable the Knowledge Article Templates feature by clearing the **Active** check box on the Article Template form.
 
 **Note:** The Standard template is available by default and can’t be made inactive.
 
@@ -158,7 +158,3 @@ You cannot delete an article template because article templates have an associat
 
 [Configure knowledge article templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/configure-knowledge-article-templates.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]
-- [[check-box|Check box]]

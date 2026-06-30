@@ -14,7 +14,7 @@ breadcrumb: [Explore, Industrial Connected Workforce Mobile Experience, Industri
 
 # Standards hub in the Industrial Connected Workforce Mobile Experience
 
-The [[industrial-standards-library|Industrial Standards Library]] or Standards hub in the Industrial Connected Workforce Mobile Experience is a collection of published standards and knowledge articles available within your organization.
+The Industrial Standards Library or Standards hub in the Industrial Connected Workforce Mobile Experience is a collection of published standards and knowledge articles available within your organization.
 
 ## Standards hub overview
 
@@ -22,7 +22,7 @@ The Standards hub in the Industrial Connected Workforce Mobile Experience shows 
 
 The **Articles** tab within the Standards hub displays knowledge articles published within your organization. You can view, rate, and leave comments on the knowledge articles available from the list.
 
-The following image shows an example of the Standards hub that you can view with the [[icw-mobile-exp-landing-page|Industrial Connected Workforce Mobile Experience]].
+The following image shows an example of the Standards hub that you can view with the Industrial Connected Workforce Mobile Experience.
 
 \[Omitted image "standards-hub-icw-mobile.png"\] Alt text: Standards hub in the ICW Mobile experience where you can view standards and articles
 
@@ -34,8 +34,8 @@ After creating a task from a standard in the Standards hub on mobile, you can pe
 -   Perform or execute the task
 -   Add comments
 -   Attach files or images
--   [[create-follow-up-action|Create a follow-up action]]
--   [[create-industrial-deviation|Create a deviation]]
+-   Create a follow-up action
+-   Create a deviation
 -   Put the task on hold
 -   Cancel the task
 
@@ -43,9 +43,3 @@ For more information about requesting and creating a standard, see [Create an In
 
 **Parent Topic:**[Exploring Industrial Connected Workforce Mobile Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/exploring-icw-mobile-experience.md)
 
-## Related
-
-- [[industrial-standards-library|Industrial Standards Library]]
-- [[icw-mobile-exp-landing-page|Industrial Connected Workforce Mobile Experience]]
-- [[create-follow-up-action|Create a follow-up action]]
-- [[create-industrial-deviation|Create a deviation]]

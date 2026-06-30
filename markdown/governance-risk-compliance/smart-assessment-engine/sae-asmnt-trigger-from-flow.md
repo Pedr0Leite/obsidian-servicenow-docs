@@ -14,7 +14,7 @@ breadcrumb: [Triggering assessments, Configure, Smart Assessment Engine, Governa
 
 # Configure the Trigger Smart Assessment Flow action
 
-Configure the Trigger Smart Assessment flow action to initiate the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] assessments and send them to the specified assessors. You then add the action to your flow.
+Configure the Trigger Smart Assessment flow action to initiate the Smart Assessment Engine assessments and send them to the specified assessors. You then add the action to your flow.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: flow\_designer
 
 ## About this task
 
-The flow includes both a trigger condition and the [[sae-asmt-flow-actions-subflows|Trigger Smart Assessment flow action]].
+The flow includes both a trigger condition and the Trigger Smart Assessment flow action.
 
 An example trigger condition might be that the state in the control table changes to **Attest**.
 
@@ -32,7 +32,7 @@ An example trigger condition might be that the state in the control table change
 
 2.  On the **Action** tab, select **Trigger Smart Assessment**.
 
-3.  Fill in the [[sae-smart-asmnt-action-form|Trigger Smart Assessment action form]] to design the action.
+3.  Fill in the Trigger Smart Assessment action form to design the action.
 
     The settings on the form are described in [Trigger Smart Assessment action form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-smart-asmnt-action-form.md).
 
@@ -58,8 +58,3 @@ Assessments are triggered.
 
 [Create a flow in Workflow Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/create-flow.md)
 
-## Related
-
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]
-- [[sae-asmt-flow-actions-subflows|Trigger Smart Assessment flow action]]
-- [[sae-smart-asmnt-action-form|Trigger Smart Assessment action form]]

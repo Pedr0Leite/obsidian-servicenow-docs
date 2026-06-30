@@ -12,7 +12,7 @@ breadcrumb: [Configure reference qualifiers, Reference qualifiers, Reference fie
 
 # Constrain the assignment group field
 
-This example shows how to use an advanced [[reference-email-admin|reference]] qualifier with JavaScript and a script include to restrict the incident **Assignment group** choices to only the groups that contain the user specified in the **Assigned to** field.
+This example shows how to use an advanced reference qualifier with JavaScript and a script include to restrict the incident **Assignment group** choices to only the groups that contain the user specified in the **Assigned to** field.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ Role required: personalize\_dictionary or admin
 
 6.  Save the record.
 
-7.  Navigate to **System [[clone-exclusions-preservers-cleanupscripts|Definitions]]** &gt; **Script Includes**.
+7.  Navigate to **System Definitions** &gt; **Script Includes**.
 
 8.  Click **New**.
 
@@ -88,7 +88,3 @@ Role required: personalize\_dictionary or admin
 
 To test, create an incident and select a user in the **Assigned to** field. Click the **Assignment group** lookup icon. Only the groups that contain the user you selected appear. For example, you assign an incident to Bob Smith, who belongs to the **Database** group and the **Networking** group. The only options that appear in the assignment group are **Database** and **Networking**.
 
-## Related
-
-- [[reference-email-admin|Reference]]
-- [[clone-exclusions-preservers-cleanupscripts|Definitions]]

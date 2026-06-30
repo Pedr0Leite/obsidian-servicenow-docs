@@ -56,7 +56,7 @@ Order
 
 </td><td>
 
-When you have multiple pieces of content that appear in a carousel, you can define the order they appear.Enter a number defining the order the content appears on the service portal or [[employee-center-landing-page|Employee Center]]. Content appears closer to the beginning of the carousel when assigned a lower number.
+When you have multiple pieces of content that appear in a carousel, you can define the order they appear.Enter a number defining the order the content appears on the service portal or Employee Center. Content appears closer to the beginning of the carousel when assigned a lower number.
 
 **Note:** Use increments of 100 when determining the order. This method makes it easier to edit. For example, you numbered your links 1, 2, 3, 4, 5 and wanted to place a new content after 2. You would have to renumber 3, 4, and 5. If you use 100, 200, and 300 and wanted to place content from 100 through 200, you would simply use any number from 101 through 199.
 
@@ -90,11 +90,11 @@ The date and time the event ends.
 
 </td></tr><tr><td>
 
-User [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] table
+User reference table
 
 </td><td>
 
-Determines the variables you can use to personalize text for the block content.Select **[[c_HRProfileRecords|HR Profile]]** to select variables from the sn\_hr\_core\_profile table.
+Determines the variables you can use to personalize text for the block content.Select **HR Profile** to select variables from the sn\_hr\_core\_profile table.
 
 **Note:** When the Human Resources Scoped App: Core \(com.sn\_hr\_core\) plugin is activated, only **HR Profile** appears.
 
@@ -131,7 +131,7 @@ Variables that customize the rich text of the event.The table you select from th
 
     -   **Content Governance**
 
-        When [[ec-streamline-content|portal content]] is requested from Content Governance, the **Content Request Items** related list tab appears. Select the content request item to view information about the request. For more information, see [Edit a content request item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-gov-request.md).
+        When portal content is requested from Content Governance, the **Content Request Items** related list tab appears. Select the content request item to view information about the request. For more information, see [Edit a content request item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-gov-request.md).
 
         When the **Content Request Item** has a state of **Work in Progress**, the **Send for Review** button appears.
 
@@ -139,9 +139,4 @@ Variables that customize the rich text of the event.The table you select from th
 
         **Note:** To edit the content after a review, the content request item state must be changed to **Work in Progress**.
 
-## Related
 
-- [[employee-center-landing-page|Employee Center]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[c_HRProfileRecords|HR Profile]]
-- [[ec-streamline-content|Portal content]]

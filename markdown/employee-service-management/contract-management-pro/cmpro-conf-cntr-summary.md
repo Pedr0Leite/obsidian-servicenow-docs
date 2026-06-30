@@ -15,7 +15,7 @@ breadcrumb: [Configure additional features in CM Pro, Configure, Contract Manage
 
 # Configuring contract summarization for Contract Management Pro
 
-Configure the smart documents skill in Now Assist in Document Management to generate a contract summary in [[cncore-cmpro-landing-page|Contract Management Pro]].
+Configure the smart documents skill in Now Assist in Document Management to generate a contract summary in Contract Management Pro.
 
 You can summarize contracts, generate frequently asked questions \(FAQs\), and retrieve specific information from contracts in Contract Management Pro by using the Smart Documents feature.
 
@@ -51,7 +51,7 @@ To enable this feature in Contract Management Pro, do the following:
 
 [Activate a system property to generate a certificate of completion]()
 
-[Enable users to view email details in [[activity-lxp|activity]] stream]()
+[Enable users to view email details in activity stream]()
 
 [Enable keyword search for contract templates]()
 
@@ -61,7 +61,3 @@ To enable this feature in Contract Management Pro, do the following:
 
 [Manage notifications in Contract Management Pro]()
 
-## Related
-
-- [[cncore-cmpro-landing-page|Contract Management Pro]]
-- [[activity-lxp|Activity]]

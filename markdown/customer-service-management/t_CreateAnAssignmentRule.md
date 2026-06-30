@@ -58,7 +58,7 @@ Order
 
 </td><td>
 
-The order in which this assignment rule is executed. Similar to business [[gamification-components-rules|rules]], assignment rules are processed based on execution order, from the lowest to the highest.
+The order in which this assignment rule is executed. Similar to business rules, assignment rules are processed based on execution order, from the lowest to the highest.
 
 </td></tr><tr><td>
 
@@ -131,6 +131,3 @@ A script to determine advanced assignment rule functionality. Scripts provide ac
 
 [Define assignment rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_DefineAssignmentRules.md)
 
-## Related
-
-- [[gamification-components-rules|Rules]]

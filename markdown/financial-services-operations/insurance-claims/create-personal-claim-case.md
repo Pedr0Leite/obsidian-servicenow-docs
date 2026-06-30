@@ -22,7 +22,7 @@ Role required: sn\_ins\_claim\_pers.fnol\_representative or sn\_ins\_claim\_pers
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -68,6 +68,3 @@ A personal claim case is created in the New state and the workflow is triggered.
 
 As a claim processor, you can assign the case to yourself and start working on it. For more information, see [Process a personal claim](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/process-personal-claim.md).
 
-## Related
-
-- [[fso-overview|Financial Services]]

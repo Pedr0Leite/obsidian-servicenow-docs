@@ -30,7 +30,7 @@ You can zoom in or out of the chart view by clicking the magnifying glass icons 
 
 ## Instance options
 
-Use the instance options to [[configure-onboarding-modals|configure]] the Organization Chart widget for a portal page.
+Use the instance options to configure the Organization Chart widget for a portal page.
 
 **Note:** There are no valid values for several instance options. By default, you can set only the following instance options:
 
@@ -171,13 +171,9 @@ Portal page that opens when you click a card. Use the page ID.
 **Related topics**  
 
 
-[Create and edit a page using the [[c_ServicePortal|Service Portal]] Designer]()
+[Create and edit a page using the Service Portal Designer]()
 
 [Configure widget instances]()
 
 [Clone a widget]()
 
-## Related
-
-- [[configure-onboarding-modals|Configure]]
-- [[c_ServicePortal|Service Portal]]

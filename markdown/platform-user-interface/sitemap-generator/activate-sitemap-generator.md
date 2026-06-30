@@ -14,7 +14,7 @@ breadcrumb: [Sitemap Generator, Improving search engine optimization for portals
 
 # Activate Sitemap Generator
 
-You can activate the [[sitemap-generator|Sitemap Generator]] plugin \(sn\_ux\_seo\_sitemap\) for [[c_ServicePortal|Service Portal]] if you have the admin role.
+You can activate the Sitemap Generator plugin \(sn\_ux\_seo\_sitemap\) for Service Portal if you have the admin role.
 
 ## Before you begin
 
@@ -46,7 +46,3 @@ Several types of components are installed with activation of the Sitemap Generat
 
 **Parent Topic:**[Sitemap Generator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/sitemap-generator/sitemap-generator.md)
 
-## Related
-
-- [[sitemap-generator|Sitemap Generator]]
-- [[c_ServicePortal|Service Portal]]

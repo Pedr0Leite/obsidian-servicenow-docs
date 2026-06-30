@@ -20,14 +20,14 @@ Role required: sn\_crm\_foundation\_admin or sn\_crm\_escalation\_admin oradmin
 
 ## About this task
 
-The assigned severity allows agents to easily identify escalated cases and accounts on [[migration-lists|lists]] and [[migration-forms|forms]]. The escalation feature provides two escalation severity definitions:
+The assigned severity allows agents to easily identify escalated cases and accounts on lists and forms. The escalation feature provides two escalation severity definitions:
 
 -   **High Severity**: escalated records are highlighted in red.
 -   **Medium Severity**: escalated records are highlighted in orange.
 
 The user interface determines which fields are highlighted for escalated cases and accounts:
 
--   **Agent Workspace**: Field indicators and field [[migration-form-highlights|highlights]] appear on the **Short description** field for escalated cases and on the **Name** field for escalated accounts.
+-   **Agent Workspace**: Field indicators and field highlights appear on the **Short description** field for escalated cases and on the **Name** field for escalated accounts.
 
     **Note:** You can move indicators and highlights to any field that is not a hyperlinked field.
 
@@ -47,8 +47,4 @@ The user interface determines which fields are highlighted for escalated cases a
 
 5.  Click **Submit**.
 
-## Related
 
-- [[migration-lists|Lists]]
-- [[migration-forms|Forms]]
-- [[migration-form-highlights|Highlights]]

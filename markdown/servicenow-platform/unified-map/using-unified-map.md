@@ -15,13 +15,13 @@ breadcrumb: [Unified Map, Configuration Management Database \(CMDB\), Configurat
 
 # Working in Unified Map
 
-[[cmdb-workspace-unified-map|Unified Map]] presents a graphical display of CMDB CIs and the connections between to enable powerful insights.
+Unified Map presents a graphical display of CMDB CIs and the connections between to enable powerful insights.
 
 ## Opening a map
 
 Use any of the following methods to open Unified Map:
 
--   Navigate to **All** &gt; **[[sg-workspace|Service Graph Workspace]]** &gt; **Unified Map**.
+-   Navigate to **All** &gt; **Service Graph Workspace** &gt; **Unified Map**.
 -   Navigate to **All** &gt; **CMDB Workspace** &gt; **Unified Map**.
 -   While working in the Service Graph Workspace, select **Use Unified Map to view CI relationships** in the Recommended tools section.
 -   While working in the CMDB Workspace, select **Unified Map** in the Quick Links section.
@@ -46,7 +46,3 @@ Use any of the following methods to open Unified Map:
 -   [View historical changes for a CI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/unified-map-show-ci-changes.md)
 -   [Editing maps in Unified Map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/unified-map-editing-map.md)
 
-## Related
-
-- [[cmdb-workspace-unified-map|Unified Map]]
-- [[sg-workspace|Service Graph Workspace]]

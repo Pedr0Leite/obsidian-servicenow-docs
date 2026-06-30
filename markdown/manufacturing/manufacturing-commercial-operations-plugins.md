@@ -12,7 +12,7 @@ breadcrumb: [Getting started with Manufacturing Commercial Operations, Configure
 
 # Plugins installed with Manufacturing Commercial Operations
 
-With the ServiceNow® [[manufacturing-overview|Manufacturing Commercial Operations]] main plugin, you can install all the dependent plugins that a customer is entitled to with Manufacturing Commercial Operations.
+With the ServiceNow® Manufacturing Commercial Operations main plugin, you can install all the dependent plugins that a customer is entitled to with Manufacturing Commercial Operations.
 
 The following table lists the Manufacturing Commercial Operations plugins that are installed with the Manufacturing Commercial Operations plugin.
 
@@ -54,11 +54,11 @@ Manage all entities related to Base Claims within MCO.
 
 </td></tr><tr><td>
 
-[[mco-dealer-portal|Dealer Portal]]
+Dealer Portal
 
 </td><td>
 
-Manufacturing [[mco-use-dealer-portal|dealer management]]\[sn\_dealer\_mgmt\]
+Manufacturing dealer management\[sn\_dealer\_mgmt\]
 
 </td><td>
 
@@ -70,11 +70,11 @@ Sales Promotions and Claims
 
 </td><td>
 
-[[mco-sls-pro-mgmt|Sales promotion management]]\[sn\_sales\_prm\_mgmt\]
+Sales promotion management\[sn\_sales\_prm\_mgmt\]
 
 </td><td>
 
-Manage all the entities and flows related to [[mco-sales-promotion|sales promotion]] within MCO.
+Manage all the entities and flows related to sales promotion within MCO.
 
 </td></tr><tr><td>
 
@@ -82,7 +82,7 @@ Sales Promotions and Claims
 
 </td><td>
 
-[[mco-sls-pro-clm-mgmt|Sales promotion claim management]]\[sn\_sls\_prm\_clm\_mgt\]
+Sales promotion claim management\[sn\_sls\_prm\_clm\_mgt\]
 
 </td><td>
 
@@ -118,7 +118,7 @@ Repair Claims
 
 </td><td>
 
-Manufacturing [[mco-use-repair-claim|repair claim]] management advanced\[sn\_rep\_clm\_mgt\_adv\]
+Manufacturing repair claim management advanced\[sn\_rep\_clm\_mgt\_adv\]
 
 </td><td>
 
@@ -186,13 +186,3 @@ Provides integration functionality for all features
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[manufacturing-overview|Manufacturing Commercial Operations]]
-- [[mco-dealer-portal|Dealer portal]]
-- [[mco-use-dealer-portal|Dealer management]]
-- [[mco-sls-pro-mgmt|Sales promotion management]]
-- [[mco-sales-promotion|Sales promotion]]
-- [[mco-sls-pro-clm-mgmt|Sales promotion claim management]]
-- [[mco-use-repair-claim|Repair claim]]

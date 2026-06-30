@@ -16,17 +16,9 @@ Enhance customer engagement and satisfaction by managing all interactions to ens
 
 | | |
 |---|---|
-|[[using-cam|Using customer access management]]|Learn how customers, [[customer-service-contributor-users|contributor users]], and customer service agents use customer access management.|
-|[[using-post-sales-support|Using Customer Contracts and Entitlements]]|Learn how consumers, managers, agents, and administrators use the Customer Contracts and Entitlements application to generate service contracts and contract lines to work on the services.|
-|[[create-social-profile|Create a social media profile]]|Users with the customer service manager role can create a social media profile for an account, contact, or consumer.|
-|[[create-social-log|Create a social media log entry]]|Users with the customer service manager role can create a social media log entry for a case.|
-|[[using-b2b2c|Using customer data models for B2B2C]]|With the B2B2C model, organizations across industries can easily configure multi-level customer relationships and support business customers who, in turn, support their end consumers.|
+|[Using customer access management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/using-cam.md)|Learn how customers, contributor users, and customer service agents use customer access management.|
+|[Using Customer Contracts and Entitlements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/using-post-sales-support.md)|Learn how consumers, managers, agents, and administrators use the Customer Contracts and Entitlements application to generate service contracts and contract lines to work on the services.|
+|[Create a social media profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-social-profile.md)|Users with the customer service manager role can create a social media profile for an account, contact, or consumer.|
+|[Create a social media log entry](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-social-log.md)|Users with the customer service manager role can create a social media log entry for a case.|
+|[Using customer data models for B2B2C](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/using-b2b2c.md)|With the B2B2C model, organizations across industries can easily configure multi-level customer relationships and support business customers who, in turn, support their end consumers.|
 
-## Related
-
-- [[using-cam|Using customer access management]]
-- [[using-post-sales-support|Using Customer Contracts and Entitlements]]
-- [[create-social-profile|Create a social media profile]]
-- [[create-social-log|Create a social media log entry]]
-- [[using-b2b2c|Using customer data models for B2B2C]]
-- [[customer-service-contributor-users|Contributor users]]

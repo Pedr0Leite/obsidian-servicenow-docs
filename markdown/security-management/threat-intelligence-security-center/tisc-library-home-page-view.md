@@ -14,7 +14,7 @@ breadcrumb: [Threat Intelligence Security Center Library, Use, Threat Intelligen
 
 # TISC Library Objects form view
 
-The [[tisc-landing-page|Threat Intelligence Security Center]] objects home page consists of the following features.
+The Threat Intelligence Security Center objects home page consists of the following features.
 
 Use or navigate to these following sections and learn more about each SDOs in detail.
 
@@ -114,7 +114,7 @@ Lists the enrichment integrations associated with the objects.
 
 </td><td>
 
-This is read-only section, which contains the key fields such as Type, Confidence, Threat score, Number of [[indicator-sightings|Sightings]], Status and Expiration time.
+This is read-only section, which contains the key fields such as Type, Confidence, Threat score, Number of Sightings, Status and Expiration time.
 
 </td></tr><tr><td>
 
@@ -126,7 +126,7 @@ This is read-only section, which contains the key fields such as Type, Confidenc
 
 </td><td>
 
-These are the security control lists that are available for you to click if they are needed to be added to the allow list, removed from the allow list \(Deny list\), or add it to the watch list based on the [[c_Observables|observables]]. Click to:-   add to watch list
+These are the security control lists that are available for you to click if they are needed to be added to the allow list, removed from the allow list \(Deny list\), or add it to the watch list based on the observables. Click to:-   add to watch list
 -   add to deny list
 -   add to allow list
 
@@ -138,12 +138,12 @@ These are the security control lists that are available for you to click if they
 
 </td><td>
 
-**[[sir-new-ui-setup-form-uiaction|Form UI actions]]**
+**Form UI actions**
 
 </td><td>
 
-The available form UI actions are:1.  **[[add-to-case|Add to Case]]**: Add the objects to the case.
-2.  **[[tisc-run-observable-enrichment|Run Observable Enrichment]]**: Run the enrichments to the selected objects.
+The available form UI actions are:1.  **Add to Case**: Add the objects to the case.
+2.  **Run Observable Enrichment**: Run the enrichments to the selected objects.
 3.  **Save**: Save the record.
 4.  **Delete**: Delete the record.
 
@@ -161,7 +161,7 @@ Provides easy access to the quick controls such as attachments, notes, and so on
 
 1.  **Attachments**: Attach any file that are related to the objects.
 
-**Note:** Whenever you either create a new observable, [[indicator|indicators]], or any objects or view the existing objects, the **Attachments** pane is by default displayed on the respective form view. You can either click the **Attachments** icon on the right-contextual menu or go to **Preferences** &gt; **Workspaces** and disable the **Show the sidebar**. For more information, see [Configure Next Experience Workspace preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-workspace-preferences.md).
+**Note:** Whenever you either create a new observable, indicators, or any objects or view the existing objects, the **Attachments** pane is by default displayed on the respective form view. You can either click the **Attachments** icon on the right-contextual menu or go to **Preferences** &gt; **Workspaces** and disable the **Show the sidebar**. For more information, see [Configure Next Experience Workspace preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-workspace-preferences.md).
 
 2.  **Insights**: Add any additional information related to the observables or indicators which are associated with that object.
 
@@ -203,22 +203,11 @@ Use this search function to search for the source records across multiple source
 
 [Access Vulnerability Downstream actions]()
 
-[Deleting [[threat-intel-landing-page|threat intelligence]] library records]()
+[Deleting threat intelligence library records]()
 
 [Export intelligence data]()
 
-[Confirm [[potential-relationships|Potential Relationships]] from Related Records]()
+[Confirm Potential Relationships from Related Records]()
 
 [Automated Correlation]()
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[indicator-sightings|Sightings]]
-- [[c_Observables|Observables]]
-- [[sir-new-ui-setup-form-uiaction|Form UI actions]]
-- [[add-to-case|Add to Case]]
-- [[tisc-run-observable-enrichment|Run Observable Enrichment]]
-- [[indicator|Indicators]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[potential-relationships|Potential Relationships]]

@@ -14,7 +14,7 @@ breadcrumb: [Explore entities, Common GRC features, Governance, Risk, and Compli
 
 # Composite entity in Governance, Risk, and Compliance
 
-Composite entity in Governance, Risk, and Compliance is a combination of two or more entities created from different [[entity-class-in-risk-ws|entity classes]]. The Composite Entity Management application enables you to create multidimensional entities and manage them in a more granular level.
+Composite entity in Governance, Risk, and Compliance is a combination of two or more entities created from different entity classes. The Composite Entity Management application enables you to create multidimensional entities and manage them in a more granular level.
 
 ## Overview of a composite entity
 
@@ -31,10 +31,10 @@ The following are the key benefits of a composite entity:
 -   Manage risk and compliance workflows at multiple levels, combining different entity dimensions, such as Company \| Department \| Business Process for a clearer and more detailed assessment context.
 -   Aggregate risk and compliance posture automatically across impacted entity hierarchies, and confirming accurate risk score roll-ups.
 -   Add stakeholders with customizable roles relevant to composite entities, enabling effective team involvement in assessment projects.
--   Map relevant risks and controls to composite entities that can be used for the [[risk-assessment-project|risk assessment project]].
+-   Map relevant risks and controls to composite entities that can be used for the risk assessment project.
 
 -   **[Create a composite entity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/create-composite-entity-ws.md)**  
-Create multidimensional entities by combining two or more entities from different entity classes using the Composite Entity Management application. In [[r_WhatIsGRC|Governance, Risk, and Compliance]], entities can be people, processes, departments, applications, or objects.
+Create multidimensional entities by combining two or more entities from different entity classes using the Composite Entity Management application. In Governance, Risk, and Compliance, entities can be people, processes, departments, applications, or objects.
 
 **Parent Topic:**[Exploring the entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/exploring-the-entities.md)
 
@@ -45,8 +45,3 @@ Create multidimensional entities by combining two or more entities from differen
 
 [Create a composite entity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/create-composite-entity-ws.md)
 
-## Related
-
-- [[entity-class-in-risk-ws|Entity classes]]
-- [[risk-assessment-project|risk assessment project]]
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]

@@ -16,7 +16,7 @@ breadcrumb: [Analytics and Reporting solutions for GRC: Policy and Compliance Ma
 
 Policies Overview dashboard provides an executive view into compliance requirements, overall compliance, and compliance breakdowns so areas of concern can be identified quickly. Users with the compliance administrator and compliance manager roles view the Policies Overview dashboard.
 
-**Important:** Starting with version 18.1.1 of the [[r_PolicyComplianceMgmt|Policy and Compliance Management]] application, the Policy Overview dashboard is available in the Next Experience UI Framework.
+**Important:** Starting with version 18.1.1 of the Policy and Compliance Management application, the Policy Overview dashboard is available in the Next Experience UI Framework.
 
 If you are on Vancouver or Washington DC, you can view the dashboard in the Next Experience UI Framework.
 
@@ -50,6 +50,3 @@ To open the dashboard, navigate to **All** &gt; **Policy and Compliance** &gt; *
 
 **Parent Topic:**[Analytics and Reporting solutions for GRC: Policy and Compliance Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/grc-policy-compliance-content-pack.md)
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

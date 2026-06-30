@@ -14,17 +14,17 @@ breadcrumb: [Audit Management, Governance, Risk, and Compliance]
 
 # Configuring Audit Management
 
-You can run the GRC [[c_GRCAudits|Audit Management]] application by downloading it from the ServiceNow Store and then configuring the settings in the setup checklist to meet your needs. Mandatory and optional setup steps, as well as an implementation checklist, are provided to simplify the setup.
+You can run the GRC Audit Management application by downloading it from the ServiceNow Store and then configuring the settings in the setup checklist to meet your needs. Mandatory and optional setup steps, as well as an implementation checklist, are provided to simplify the setup.
 
 The flow of mandatory steps in the checklist are as follows:
 
-1.  [[t_CreateEngagement|Create an engagement]]
+1.  Create an engagement
 2.  Add entities to engagement scope
 3.  Move an engagement to validate state
-4.  [[t_CreateAControl|Create a control]] test or generate a test automatically
+4.  Create a control test or generate a test automatically
 5.  Create an activity
-6.  [[t_CreateAnInterview|Create an interview]]
-7.  [[t_CreateAWalkthrough|Create a walkthrough]]
+6.  Create an interview
+7.  Create a walkthrough
 8.  Generate an audit report
 
 ## Download Audit Management
@@ -35,10 +35,3 @@ Before you run GRC: Audit Management \(com.sn\_audit\) in your instance, you mus
 
 The checklist includes the setup tasks that you are required to complete in your ServiceNow AI Platform® instance. When you have completed these tasks, the base system is ready for operation. Optional setup procedures are also included to enhance Audit Management functionality.
 
-## Related
-
-- [[c_GRCAudits|Audit Management]]
-- [[t_CreateEngagement|Create an engagement]]
-- [[t_CreateAControl|Create a control]]
-- [[t_CreateAnInterview|Create an interview]]
-- [[t_CreateAWalkthrough|Create a walkthrough]]

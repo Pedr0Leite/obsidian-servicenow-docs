@@ -12,7 +12,7 @@ breadcrumb: [Configure, Log Export Service \(LES\), Platform Security]
 
 # MID server consumer
 
-Use guided setup to step through the initial [[sc-configuration|configuration]] of LES for MID server consumer.
+Use guided setup to step through the initial configuration of LES for MID server consumer.
 
 ## Guided setup home page
 
@@ -20,7 +20,7 @@ The home page for guided setup contains an overview of configuration types for y
 
 \[Omitted image "les-mid-server-setup.png"\] Alt text: LES guided setup for MID Server comsumer
 
-All three setups on this page, Quick Start/Best Experience/Custom provide the same tasks and functionality. A dedicated MID Server is required to continuously stream [[logs|logs]] from your instance to your log analytic system. The MID Server needs a one-time setup to establish a secure connection to the Hermes Messaging Service. Even if you have marked a task as completed, you can go back and uncheck it back to in-progress. To do so, first click on the **Edit** box on the upper right corner for the category. Then click on the **Edit** box for the task you want to uncheck. The **Mark as complete** box will be no longer marked.
+All three setups on this page, Quick Start/Best Experience/Custom provide the same tasks and functionality. A dedicated MID Server is required to continuously stream logs from your instance to your log analytic system. The MID Server needs a one-time setup to establish a secure connection to the Hermes Messaging Service. Even if you have marked a task as completed, you can go back and uncheck it back to in-progress. To do so, first click on the **Edit** box on the upper right corner for the category. Then click on the **Edit** box for the task you want to uncheck. The **Mark as complete** box will be no longer marked.
 
 ## Guided setup categories page
 
@@ -30,12 +30,12 @@ The categories page contains an overview and descriptions of the categories and 
 
 Complete the tasks under each category by following the setup instructions.
 
--   **[[les-guided-setup-mid-server|Guided setup for MID Server consumers]]**  
+-   **[Guided setup for MID Server consumers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/les-guided-setup-mid-server.md)**  
 Implement the following steps for a complete guided setup for MID Server consumers.
--   **[[les-multi-consumer|Multi-consumer support using unique mid servers]]**  
+-   **[Multi-consumer support using unique mid servers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/les-multi-consumer.md)**  
 You can now precisely manage log consumption with a new multi-consumer system, enabling dedicated consumers and MID servers for each specific log stream.
 
-**Parent Topic:**[[les-configure|Configuring Log Export Service \(LES\)]]
+**Parent Topic:**[Configuring Log Export Service \(LES\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/les-configure.md)
 
 **Related topics**  
 
@@ -44,10 +44,3 @@ You can now precisely manage log consumption with a new multi-consumer system, e
 
 [Set up a secure connection to the Hermes Messaging Service for LES]()
 
-## Related
-
-- [[les-guided-setup-mid-server|Guided setup for MID Server consumers]]
-- [[les-multi-consumer|Multi-consumer support using unique mid servers]]
-- [[les-configure|Configuring Log Export Service \(LES\)]]
-- [[sc-configuration|Configuration]]
-- [[logs|Logs]]

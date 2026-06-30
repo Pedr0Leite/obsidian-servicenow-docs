@@ -37,10 +37,7 @@ Role required: sn\_communities.admin
 
 ## What to do next
 
-[[add-topic-to-forum|Add a topic to a forum]]. For details, see [Add a topic to a forum](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/add-topic-to-forum.md).
+Add a topic to a forum. For details, see [Add a topic to a forum](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/add-topic-to-forum.md).
 
 **Parent Topic:**[Configure community forums](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/configure-forums-topics.md)
 
-## Related
-
-- [[add-topic-to-forum|Add a topic to a forum]]

@@ -16,11 +16,11 @@ breadcrumb: [Data Discovery Store, Data Discovery, Platform Privacy]
 
 Get visibility into sensitive data on your instance and work towards implementing security measures to prevent loss or exposure of sensitive data.
 
-The **Overview** tab provides an easy starting point for using [[data-discovery-landing|Data Discovery]], alongside showing important discovery [[ca-metrics|metrics]] and findings. Navigate to **All** &gt; **Data Discovery** &gt; **Overview** to begin using the tab.
+The **Overview** tab provides an easy starting point for using Data Discovery, alongside showing important discovery metrics and findings. Navigate to **All** &gt; **Data Discovery** &gt; **Overview** to begin using the tab.
 
 ## Create discovery policy and schedule discovery job
 
-You can begin using Data Discovery with the recommended action items. Select **Create Policy** to define what sensitive data patterns should be identified and how they should be handled. See [Data Discovery policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-discovery/dds-policy.md) for more information on creating a new policy. Select **Schedule Job** to schedule a [[data-discovery-jobs|data discovery jobs]] that will scan your instance for sensitive information. See [Data Discovery scheduled discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-discovery/dds-scheduled-discovery.md) for more information on scheduling a new discovery job.
+You can begin using Data Discovery with the recommended action items. Select **Create Policy** to define what sensitive data patterns should be identified and how they should be handled. See [Data Discovery policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-discovery/dds-policy.md) for more information on creating a new policy. Select **Schedule Job** to schedule a data discovery jobs that will scan your instance for sensitive information. See [Data Discovery scheduled discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-discovery/dds-scheduled-discovery.md) for more information on scheduling a new discovery job.
 
 ## Data discovery summary
 
@@ -41,8 +41,3 @@ You can review newly discovered data and recent discovery jobs in this section. 
 
 .
 
-## Related
-
-- [[data-discovery-landing|Data Discovery]]
-- [[ca-metrics|Metrics]]
-- [[data-discovery-jobs|Data Discovery jobs]]

@@ -14,29 +14,20 @@ breadcrumb: [Gamification, Using communities, Communities, Customer Service Mana
 
 # Gamification user interface components
 
-[[communities-gamification|Gamification]] information appears on leaderboards, the [[gamification-ui-user-profile|user profile page]], and content pages.
+Gamification information appears on leaderboards, the user profile page, and content pages.
 
 -   **[Leaderboard page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/gamification-ui-leaderboard.md)**  
-The [[gamification-ui-leaderboard|leaderboard page]] displays the top contributors in the community, in a forum, or in a topic.
+The leaderboard page displays the top contributors in the community, in a forum, or in a topic.
 -   **[Leaderboard widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/gamification-ui-leaderboard-widget.md)**  
-[[gamification-ui-leaderboard-widget|Leaderboard widgets]] appear on the Community homepage and on forum and topic landing pages. These widgets display the users with the highest point totals within the community, forum, or topic.
+Leaderboard widgets appear on the Community homepage and on forum and topic landing pages. These widgets display the users with the highest point totals within the community, forum, or topic.
 -   **[User profile page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/gamification-ui-user-profile.md)**  
 The user profile page displays gamification information that showcases the user's expertise.
 -   **[Community content pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/gamification-ui-content-pages.md)**  
-The user's gamification level and [[gamification-components-badges|badges]] are displayed on the content pages, so that other community users can view the reputation of the content contributor.
+The user's gamification level and badges are displayed on the content pages, so that other community users can view the reputation of the content contributor.
 -   **[Gamification notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/gamification-components-notify.md)**  
 Community users receive notifications about badge assignments and levels achieved through the activity feed.
 -   **[How to earn points](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/gamification-ui-how-to-earn-points.md)**  
-In order to be transparent to your users about gamification [[gamification-components-rules|rules]], you can share the [[gamification-components-points|points]] received for community activities.
+In order to be transparent to your users about gamification rules, you can share the points received for community activities.
 
 **Parent Topic:**[Gamification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/communities-gamification.md)
 
-## Related
-
-- [[communities-gamification|Gamification]]
-- [[gamification-ui-user-profile|User profile page]]
-- [[gamification-ui-leaderboard|Leaderboard page]]
-- [[gamification-ui-leaderboard-widget|Leaderboard widgets]]
-- [[gamification-components-badges|Badges]]
-- [[gamification-components-rules|Rules]]
-- [[gamification-components-points|Points]]

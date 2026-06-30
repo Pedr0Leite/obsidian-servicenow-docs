@@ -14,7 +14,7 @@ breadcrumb: [Technology Product Support Case, Product Support for Technology]
 
 # Exploring Technology Product Support Case
 
-The [[tpsc-landing-page|Technology Product Support Case]] feature in the [[assurance-workflows|Product Support for Technology]] application enables technology companies to provide support for digital products and services.
+The Technology Product Support Case feature in the Product Support for Technology application enables technology companies to provide support for digital products and services.
 
 The Technology Product Support Case application includes the following features:
 
@@ -24,8 +24,8 @@ The Technology Product Support Case application includes the following features:
 
 |Feature|Description|
 |-------|-----------|
-|[Case type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/tech-product-support-case-type.md)|The [[tech-product-support-case-type|Technology Product Support case type]] includes the tables, roles, SLAs, and other processes and data needed to resolve technology issues.|
-|[Record page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/tech-product-support-record-page.md)|The [[tech-product-support-record-page|Technology Product Support record page]] provides a simplified case view that enables agents to research and resolve technology cases.|
+|[Case type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/tech-product-support-case-type.md)|The Technology Product Support case type includes the tables, roles, SLAs, and other processes and data needed to resolve technology issues.|
+|[Record page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/tech-product-support-record-page.md)|The Technology Product Support record page provides a simplified case view that enables agents to research and resolve technology cases.|
 |[Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/tech-product-support-playbook.md)|The Technology Product Support process page includes a playbook that provides step-by-step guidance for resolving technology cases. This playbook guides agents through the case flow and provides the contextual information to complete each stage and the associated activities.|
 |[Playbook stages and activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/tech-product-support-playbook-stages.md)|The Technology Product Support playbook includes stages and activities that assist agents in researching and resolving technology cases.|
 |[Record producer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/tech-product-support-case-type.md)|The Technology Product Support Case application includes a record producer that customers can use to create cases from the Customer Service Portal.|
@@ -34,9 +34,3 @@ The Technology Product Support Case application includes the following features:
 
 To learn more about how to install and configure Technology Product Support Case application, see [Configuring Product Support for Technology](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/configure-technology-product-support-case.md).
 
-## Related
-
-- [[tpsc-landing-page|Technology Product Support Case]]
-- [[assurance-workflows|Product Support for Technology]]
-- [[tech-product-support-case-type|Technology Product Support case type]]
-- [[tech-product-support-record-page|Technology Product Support record page]]

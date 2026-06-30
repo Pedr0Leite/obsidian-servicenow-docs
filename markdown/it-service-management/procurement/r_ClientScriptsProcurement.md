@@ -14,7 +14,7 @@ breadcrumb: [Components installed with Procurement, Activate Procurement, Procur
 
 # Client scripts installed with Procurement
 
-[[c_Procurement|Procurement]] plugin adds the following client scripts.
+Procurement plugin adds the following client scripts.
 
 <table id="table_wmm_rtv_dp"><thead><tr><th>
 
@@ -55,6 +55,3 @@ Changes the **Purchase Order Line** field on the Receiving Slip Line form to man
 </td></tr></tbody>
 </table>**Parent Topic:**[Components installed with Procurement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/procurement/r_InstalledWithProcurement.md)
 
-## Related
-
-- [[c_Procurement|Procurement]]

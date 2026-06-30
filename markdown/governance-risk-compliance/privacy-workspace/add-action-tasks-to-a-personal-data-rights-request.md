@@ -14,7 +14,7 @@ breadcrumb: [Use, Personal Data Rights \(PDR\), Privacy Management, Governance, 
 
 # Add action tasks to a Personal Data Rights request
 
-Create action tasks for a [[personal-data-rights|Personal Data Rights]] request and assign them to the appropriate task owners. Action tasks are tasks that are created to facilitate and complete a valid personal data rights request
+Create action tasks for a Personal Data Rights request and assign them to the appropriate task owners. Action tasks are tasks that are created to facilitate and complete a valid personal data rights request
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_grc\_pdr.pdr\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[personal-data-rights-workspace|Personal Data Rights Workspace]]**.
+1.  Navigate to **All** &gt; **Personal Data Rights Workspace**.
 
 2.  Open the request for which you want to add action tasks.
 
@@ -38,12 +38,7 @@ Role required: sn\_grc\_pdr.pdr\_admin
 
 
 -   **[New action task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/new-action-task-form.md)**  
-Use the [[new-action-task-form|new action task form]] to create action tasks for the appropriate owners.
+Use the new action task form to create action tasks for the appropriate owners.
 
 **Parent Topic:**[Using Personal Data Rights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/using-personal-data-right.md)
 
-## Related
-
-- [[personal-data-rights|personal data rights]]
-- [[personal-data-rights-workspace|Personal Data Rights workspace]]
-- [[new-action-task-form|New action task form]]

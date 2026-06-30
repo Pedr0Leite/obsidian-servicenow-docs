@@ -28,9 +28,9 @@ It's important to test your assistant to simulate an end-to-end conversation bef
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[assistant-designer|Assistant Designer]]** &gt; **Assistants** tab and select **Test** for the assistant you wish to test.
+1.  Navigate to **All** &gt; **Assistant Designer** &gt; **Assistants** tab and select **Test** for the assistant you wish to test.
 
-    If selected portals only have the [[nava-standard-chat|standard chat]] experience or only the [[nava-enhanced-chat|enhanced chat]] experience enabled, the drop-down list doesn't appear. If both experience types are enabled, the drop-down list shows both of them.
+    If selected portals only have the standard chat experience or only the enhanced chat experience enabled, the drop-down list doesn't appear. If both experience types are enabled, the drop-down list shows both of them.
 
     \[Omitted image "NAinVA-test-052026.png"\] Alt text: Option to select a chat experience when testing an assistant.
 
@@ -42,8 +42,4 @@ It's important to test your assistant to simulate an end-to-end conversation bef
 
     **Note:** If a display experience hasn’t been configured, the test panel launches the enhanced chat experience.
 
-## Related
 
-- [[assistant-designer|Assistant Designer]]
-- [[nava-standard-chat|Standard chat]]
-- [[nava-enhanced-chat|Enhanced chat]]

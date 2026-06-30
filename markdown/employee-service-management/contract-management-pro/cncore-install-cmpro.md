@@ -14,7 +14,7 @@ breadcrumb: [Configure, Contract Management Pro, Legal and Contract Operations, 
 
 # Install Contract Management Pro
 
-Install the [[cncore-cmpro-landing-page|Contract Management Pro]] application. The application installs related ServiceNow® Store applications and plugins if they aren’t already installed.
+Install the Contract Management Pro application. The application installs related ServiceNow® Store applications and plugins if they aren’t already installed.
 
 ## Before you begin
 
@@ -51,6 +51,4 @@ For more information, see [Components installed with Contract Management Pro](ht
 
 5.  Select **Install**.
 
-## Related
 
-- [[cncore-cmpro-landing-page|Contract Management Pro]]

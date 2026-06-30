@@ -28,7 +28,7 @@ With Certificate Inventory and Management, you can discover, conduct an inventor
 
 </td><td>
 
-[Certificate Inventory and Management reference\[Omitted image "bus-integration-and-apis.svg"\] Alt text:Familiarize yourself with [[otto-aiops-dashboards|dashboards]], tables, patterns, and terms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cert-invt-mgmt-references.md)
+[Certificate Inventory and Management reference\[Omitted image "bus-integration-and-apis.svg"\] Alt text:Familiarize yourself with dashboards, tables, patterns, and terms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cert-invt-mgmt-references.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -37,6 +37,3 @@ With Certificate Inventory and Management, you can discover, conduct an inventor
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[otto-aiops-dashboards|Dashboards]]

@@ -15,7 +15,7 @@ breadcrumb: [Use, Resource Management Workspace, Project Portfolio Management, S
 
 # Using Resource Management Workspace
 
-Create custom resource board views of persistent portfolios to view the current [[r_AllocatingResources|resource allocation]] and resource requests for all of your resources and work.
+Create custom resource board views of persistent portfolios to view the current resource allocation and resource requests for all of your resources and work.
 
 Resource assignments from different planning workspaces are pulled into this dedicated view for Resource Managers to give you an overall work view. Resource Managers can access the dashboard to view the assignment details at high level and [create resource cards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rmw-create-rsrc-card.md) to build persistent portfolios and view the resource allocations.
 
@@ -25,7 +25,7 @@ Quickly create multiple portfolios using resource cards and navigate between the
 
 ## Overview dashboard
 
-[[rsrc-mgmt-wrkspc|Resource Management Workspace]] overview dashboard provides a high-level interactive resource assignment details that help Resource managers to focus on where to prioritize the efforts, identify conflicts, and review the upcoming or pending assignments. Using this dashboard, Resource managers can view the data around their resources and work for efficient resource forecast planning.
+Resource Management Workspace overview dashboard provides a high-level interactive resource assignment details that help Resource managers to focus on where to prioritize the efforts, identify conflicts, and review the upcoming or pending assignments. Using this dashboard, Resource managers can view the data around their resources and work for efficient resource forecast planning.
 
 The Overview dashboard is crafted to reduce the effort of navigate between different resource boards to view the unassigned work, pend activities, and prioritize day-today tasks.
 
@@ -231,7 +231,7 @@ Indicates changes to start or end date, allocated hours, and so on, to the appro
 -   View the priority and state of the project, demand, or epic in the Priority and State columns in the resource board and allocate resources to priority or high-risk planning items.
 -   View the actual hours vs allocated hours for a task.
 
-    Enable the **Show actuals** toggle \(\[Omitted image "rmw-show-actuals-toggle.png"\] Alt text: Toggle button to view actual hours in Resource Management Workspace\) from the settings side panel \(\[Omitted image "rmw-settings-panel-icon.png"\] Alt text: Gear icon to view or hide settings side panel.\) to view the efforts captured for a task via [[c_TimeCards|time cards]]. Approved time cards are reflected in the resource board view as actual hours.
+    Enable the **Show actuals** toggle \(\[Omitted image "rmw-show-actuals-toggle.png"\] Alt text: Toggle button to view actual hours in Resource Management Workspace\) from the settings side panel \(\[Omitted image "rmw-settings-panel-icon.png"\] Alt text: Gear icon to view or hide settings side panel.\) to view the efforts captured for a task via time cards. Approved time cards are reflected in the resource board view as actual hours.
 
 -   Get insights about the resource allocations using the new heatmap modal.
 -   View or hide requested work in the lower tray using **Unassigned tasks** toggle.
@@ -378,7 +378,7 @@ Extend or reduce the duration of an assignment from the grid view in the Resourc
 -   **[Edit allocated efforts for tasks with actual hours](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/edit-allocated-efforts-ra-rmw.md)**  
 Edit allocated efforts for tasks which have partial actual efforts logged directly from the grid view. This keeps reported time accurate without rolling back time entries through other channels.
 -   **[Move a resource assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/move-ra-rmw.md)**  
-[[move-ra-rmw|Move a resource assignment]] to a different start and end dates depending on the availability of the resource.
+Move a resource assignment to a different start and end dates depending on the availability of the resource.
 -   **[Reassign or unassign work using Resource Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rmw-reassign-unassign-work.md)**  
 Reassign or unassign any assigned work from the Resource Management Workspace. You can group the resource board by primary attributes to identify the resources with same primary attributes.
 -   **[Split resource assignments using Resource Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/split-resource-assignment-rmw.md)**  
@@ -390,9 +390,3 @@ Export your resource portfolio view in Resource Management Workspace as Microsof
 
 **Parent Topic:**[Use resource assignments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/use-resource-assignment.md)
 
-## Related
-
-- [[r_AllocatingResources|Resource allocation]]
-- [[rsrc-mgmt-wrkspc|Resource Management Workspace]]
-- [[c_TimeCards|Time cards]]
-- [[move-ra-rmw|Move a resource assignment]]

@@ -15,7 +15,7 @@ breadcrumb: [Reference, Accounts Payable Operations, Finance and Supply Chain]
 
 # Request Help form
 
-Field descriptions for the [[universal-request|Universal Request]] Help form in the [[supplier-central|Supplier Collaboration Portal]], which suppliers use to report an inquiry-related issue or request.
+Field descriptions for the Universal Request Help form in the Supplier Collaboration Portal, which suppliers use to report an inquiry-related issue or request.
 
 <table id="table_rtw_ytd_2xb"><thead><tr><th>
 
@@ -31,7 +31,7 @@ Invoice Exception
 
 </td></tr><tr><td>
 
-[[supplier|Supplier]]
+Supplier
 
 </td><td>
 
@@ -71,7 +71,7 @@ Attachments related to the request or issue.
 
 [Create New Invoice Line form]()
 
-[Create [[invoice-line-cost-allocation|invoice cost allocation]] form]()
+[Create invoice cost allocation form]()
 
 [Outbound cost allocation staging table]()
 
@@ -97,9 +97,3 @@ Attachments related to the request or issue.
 
 [Accounts Payable Operations glossary]()
 
-## Related
-
-- [[universal-request|Universal Request]]
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[supplier|Supplier]]
-- [[invoice-line-cost-allocation|Invoice cost allocation]]

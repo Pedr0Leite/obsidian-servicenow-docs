@@ -12,7 +12,7 @@ breadcrumb: [Activity stream, Administer, Configurable Workspace UI, Configure U
 
 # Display the most recent reply in the Activity stream
 
-[[configure-onboarding-modals|Configure]] the [[activity-stream-configurable-workspace|Activity stream]] to reduce visual clutter by displaying the most recent reply first.
+Configure the Activity stream to reduce visual clutter by displaying the most recent reply first.
 
 ## Before you begin
 
@@ -51,7 +51,4 @@ Displaying the most recent reply in the Activity stream relies on two types of c
 
 7.  Select **Submit**.
 
-## Related
 
-- [[configure-onboarding-modals|Configure]]
-- [[activity-stream-configurable-workspace|Activity stream]]

@@ -48,11 +48,7 @@ The appointment is scheduled and the chat is complete.
 **Related topics**  
 
 
-[[conv-ab-reschedule|Reschedule an appointment]]
+[Reschedule an appointment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/conv-ab-reschedule.md)
 
-[[conv-ab-cancel|Cancel an appointment]]
+[Cancel an appointment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/conv-ab-cancel.md)
 
-## Related
-
-- [[conv-ab-reschedule|Reschedule an appointment with Conversational Appointment Booking]]
-- [[conv-ab-cancel|Cancel an appointment with Conversational Appointment Booking]]

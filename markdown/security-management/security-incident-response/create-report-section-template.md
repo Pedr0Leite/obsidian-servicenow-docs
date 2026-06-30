@@ -22,7 +22,7 @@ Role required: sn\_msi.workspace\_manager
 
 ## Procedure
 
-1.  Navigate to **[[major-security-incident-management-landing-page|Major Security Incident Management]]** &gt; **MSI Administration** &gt; **Status Report Setup**.
+1.  Navigate to **Major Security Incident Management** &gt; **MSI Administration** &gt; **Status Report Setup**.
 
     The MSI Status Report Setup page displays.
 
@@ -68,7 +68,7 @@ Name of the report template table.
 
 </td><td>
 
-Select the check box to [[create-report-sir|create a report]] section for the selected template in the MSIM workspace.**Note:** If the check box is unselected, the MSI Manager can’t create a report section for this template in the MSIM workspace.
+Select the check box to create a report section for the selected template in the MSIM workspace.**Note:** If the check box is unselected, the MSI Manager can’t create a report section for this template in the MSIM workspace.
 
 </td></tr><tr><td id="d177250e160">
 
@@ -127,7 +127,3 @@ Define the template section body. You can define the section body by selecting t
 
 [Add system properties]()
 
-## Related
-
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]
-- [[create-report-sir|Create a report]]

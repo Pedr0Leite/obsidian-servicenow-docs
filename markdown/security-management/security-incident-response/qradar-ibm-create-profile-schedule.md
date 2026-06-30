@@ -24,7 +24,7 @@ Role required: sn\_si.admin
 
 You can choose whether you want to ingest any historical offenses during the Scheduling step. You also choose how often you will poll for future new offenses and updated offenses that match the profile configuration.
 
-As a user with the sn\_si.admin role, you configure these polling intervals on a per-profile basis. The performance of the [[qradar-ibm|IBM QRadar offense ingestion integration]] may be impacted by the different polling intervals. When scheduling, you may prefer to balance reducing polling overhead on the IBM QRadar server against a desire to be notified as soon as possible when an offense is created or updated. A five-minute default value is set for any profile, but you may prefer to modify this setting to as low as one minute if required.
+As a user with the sn\_si.admin role, you configure these polling intervals on a per-profile basis. The performance of the IBM QRadar offense ingestion integration may be impacted by the different polling intervals. When scheduling, you may prefer to balance reducing polling overhead on the IBM QRadar server against a desire to be notified as soon as possible when an offense is created or updated. A five-minute default value is set for any profile, but you may prefer to modify this setting to as low as one minute if required.
 
 **Pulling new and updated offenses**
 
@@ -89,6 +89,4 @@ After the offenses are pulled, this setting will not retrieve more offenses for 
 
 3.  Click **Continue** to navigate to the Additional Options page.
 
-## Related
 
-- [[qradar-ibm|IBM QRadar Offense Ingestion Integration]]

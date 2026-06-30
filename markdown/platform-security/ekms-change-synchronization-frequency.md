@@ -12,7 +12,7 @@ breadcrumb: [Using External Key Management Service, External Key Management Serv
 
 # Change synchronization frequency
 
-Modify the system property to change how often [[ekms-external-key-management|External Key Management Service]] \(EKMS\) synchronizes Amazon Web Service Key Management Service \(AWS KMS\) key status with your instance.
+Modify the system property to change how often External Key Management Service \(EKMS\) synchronizes Amazon Web Service Key Management Service \(AWS KMS\) key status with your instance.
 
 ## Before you begin
 
@@ -24,9 +24,9 @@ By default, EKMS synchronizes AWS KMS key status every 30 minutes through a back
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ca-system-properties|System Properties]]** &gt; **All Properties**.
+1.  Navigate to **All** &gt; **System Properties** &gt; **All Properties**.
 
-2.  In the system properties list, search for and open the `com.glide.[[encryption-landing|encryption]].ekms.scheduler.health_check_interval` property.
+2.  In the system properties list, search for and open the `com.glide.encryption.ekms.scheduler.health_check_interval` property.
 
 3.  Set the value to the synchronization interval you want to use, in minutes.
 
@@ -45,11 +45,5 @@ After changing the frequency, monitor the synchronization job to verify it runs 
 
 **Note:** The next synchronization will occur based on your new interval setting.
 
-**Parent Topic:**[[ekms-using-external-key-management|Using External Key Management Service]]
+**Parent Topic:**[Using External Key Management Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ekms-using-external-key-management.md)
 
-## Related
-
-- [[ekms-using-external-key-management|Using External Key Management Service]]
-- [[ekms-external-key-management|External Key Management Service]]
-- [[ca-system-properties|System properties]]
-- [[encryption-landing|Encryption]]

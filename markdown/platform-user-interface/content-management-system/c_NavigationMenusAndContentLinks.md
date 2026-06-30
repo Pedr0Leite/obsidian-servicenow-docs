@@ -16,7 +16,7 @@ breadcrumb: [Create a navigation menu block, Types of content blocks, Content bl
 
 The method for choosing a link target \(current window, iFrame, or new window\) and referencing the item linked \(page, attachment, or URL\) are similar. Review examples of how to link within these elements.
 
--   A content page [[onboarding-modals-reference|reference]] helps you select the desired page. For example, the value `home.do` links to the site homepage.
+-   A content page reference helps you select the desired page. For example, the value `home.do` links to the site homepage.
 -   An attachment reference allows you to reference a single file attached to the menu item or section record. If there is more than one attachment, only the first attachment is referenced. The link is then generated automatically and displays a **Browser File Save** prompt.
 -   The specified URL reference allows you to link to a full URL string in your instance or from another system. For example, `com.glideapp.servicecatalog_cat_item_view.do?sysparm_id=66c313e7c0a8016b008ebe1a8e3d97f5&sysparm_nameofstack=b654d15bef921000914304167b225638` links to the **Ask a Question** record producer. Use this reference to link to a page in an existing intranet system.
 
@@ -38,6 +38,3 @@ Menu sections define groups of links and how the links behave.
 
 [View links between system elements and URLs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_LinkToContent.md)
 
-## Related
-
-- [[onboarding-modals-reference|Reference]]

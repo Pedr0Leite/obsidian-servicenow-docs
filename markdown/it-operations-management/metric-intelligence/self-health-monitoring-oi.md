@@ -14,7 +14,7 @@ breadcrumb: [Exploring Metric Intelligence, Metric Intelligence, IT Operations M
 
 # Self-health monitoring for Metric Intelligence
 
-Use [[c_EM|Event Management]] self-health monitors to monitor the health of [[operational-metrics|Metric Intelligence]] infrastructure components and processes, and to alert about potential issues. Self-health monitoring allows you to proactively remediate issues and minimize data loss.
+Use Event Management self-health monitors to monitor the health of Metric Intelligence infrastructure components and processes, and to alert about potential issues. Self-health monitoring allows you to proactively remediate issues and minimize data loss.
 
 Metric Intelligence is pre-configured to use Event Management self-health monitors to ensure that essential components and processes are functioning properly. If a monitor detects a failure, then the Event Management self-health monitoring system creates an event for the issue. These events are then converted into an Event Management alert or get appended to a previous alert. Metric Intelligence self-health monitors run every 60 seconds.
 
@@ -74,7 +74,3 @@ Monitor checks the following essential scheduled jobs, to detect if any is inact
 
 [Scheduled jobs installed with Metric Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/installed-with-metrics.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[operational-metrics|Metric Intelligence]]

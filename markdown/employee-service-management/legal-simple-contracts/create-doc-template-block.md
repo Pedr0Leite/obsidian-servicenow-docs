@@ -14,7 +14,7 @@ breadcrumb: [Configure legal contract of type HTML, Legal contract templates, Co
 
 # Create a document block for legal contract templates
 
-Create document blocks that you can use in multiple [[document-templates-overview|document templates]] for legal contracts.
+Create document blocks that you can use in multiple document templates for legal contracts.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-**Note:** All document template blocks must be created in the [[legal-request-management-landing-page|Legal Request Management]] application scope only.
+**Note:** All document template blocks must be created in the Legal Request Management application scope only.
 
 ## Procedure
 
@@ -80,7 +80,3 @@ Information about the document template block.
 
 [Add block content in a document template block](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/create-doc-template-block-content.md).
 
-## Related
-
-- [[document-templates-overview|Document Templates]]
-- [[legal-request-management-landing-page|Legal Request Management]]

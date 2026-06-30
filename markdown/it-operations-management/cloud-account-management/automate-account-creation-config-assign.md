@@ -78,12 +78,9 @@ This procedure demonstrates how to assign account configuration using the assign
 
 ## What to do next
 
-To [[test-ccg-policy|test the policy]], see [Test updates to a PaCE policy version](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/pace-test-policy-version.md).
+To test the policy, see [Test updates to a PaCE policy version](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/pace-test-policy-version.md).
 
 To publish the policy, see [Publish a PaCE policy version](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/pace-publish-policy-version.md).
 
 To add a new approval step in the flow designer, see [Exploring Workflow Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/exploring-workflow-studio.md).
 
-## Related
-
-- [[test-ccg-policy|Test the policy]]

@@ -154,7 +154,7 @@ The following attributes in the Cloud Load Balancer \[cmdb\_ci\_cloud\_load\_bal
 
 <table id="table_edq_2mb_f1c"><thead><tr><th>
 
-Attribute [[label|label]]
+Attribute label
 
 </th><th>
 
@@ -336,7 +336,7 @@ The following attributes in the Cloud Organizations \[cmdb\_ci\_cloud\_org\] tab
 
 ## Cloud Public IP Address \[cmdb\_ci\_cloud\_public\_ipaddress\]
 
-The following attributes in the Cloud Public [[ip-address|IP Address]] \[cmdb\_ci\_cloud\_public\_ipaddress\] table are populated by collected data:
+The following attributes in the Cloud Public IP Address \[cmdb\_ci\_cloud\_public\_ipaddress\] table are populated by collected data:
 
 <table id="table_drz_h3s_g1c"><thead><tr><th>
 
@@ -1355,7 +1355,3 @@ The following attributes in the Windows Server \[cmdb\_ci\_win\_server\] table a
 |------------|-----------------|-----------|
 |Windows Server \[cmdb\_ci\_win\_server\]|Virtualized by::Virtualizes|Virtual Machine Instance \[cmdb\_ci\_vm\_instance\]|
 
-## Related
-
-- [[label|Label]]
-- [[ip-address|IP Address]]

@@ -14,7 +14,7 @@ breadcrumb: [Configuring Sidebar, Sidebar, Conversational Interfaces]
 
 # Adding the Discuss button for non-task tables
 
-To use [[sidebar-landing|Sidebar]] in non-task tables, follow this procedure to add the Discuss button to the layout.
+To use Sidebar in non-task tables, follow this procedure to add the Discuss button to the layout.
 
 ## Before you begin
 
@@ -40,6 +40,4 @@ Role required: admin
 
 9.  If you’re unsure of UX Macroponent being used within your Configurable Workspace, you can look up the Definition Record by navigating to UI Builder, selecting Menu &gt; Developer &gt; Open page definition.
 
-## Related
 
-- [[sidebar-landing|Sidebar]]

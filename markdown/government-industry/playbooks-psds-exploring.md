@@ -29,32 +29,24 @@ By using a playbook, you can visualize the entire life cycle of the public servi
 
 The following applications are available with Public Sector Digital Services that enable you to create and use playbooks:
 
--   **[[psds-exploring-pbs-social-benefits|Social Benefits Playbook]]**
+-   **[Social Benefits Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-exploring-pbs-social-benefits.md)**
 
     Provides an end-to-end workflow for handling applications for social benefit programs submitted by public sector end users.
 
--   **[[psds-exploring-pbs-license-permit|License and Permit Playbook]]**
+-   **[License and Permit Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-exploring-pbs-license-permit.md)**
 
     Provides an end-to-end workflow for handling license and permit requests submitted by public sector end users.
 
--   **[[psds-exploring-pbs-information-request|Information Request Playbook]]**
+-   **[Information Request Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-exploring-pbs-information-request.md)**
 
     Provides an end-to-end workflow for handling public record and information requests submitted by public sector end users.
 
--   **[[psds-exploring-pbs-service-request|Service Request Playbook]]**
+-   **[Service Request Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-exploring-pbs-service-request.md)**
 
     Provides an end-to-end workflow for handling non-emergency service requests submitted by public sector end users.
 
 
-The corresponding playbook for each case type automatically appears in the **Playbook** tab when an agent creates a public service request case in the CSM Configurable Workspace, or when a constituent puts in a request through the [[gsp-overview-public-sector|Government Service Portal]].
+The corresponding playbook for each case type automatically appears in the **Playbook** tab when an agent creates a public service request case in the CSM Configurable Workspace, or when a constituent puts in a request through the Government Service Portal.
 
-To learn more about playbooks, see [[psds-using-playbooks-overview|Using Playbooks Public Sector Digital Services]].
+To learn more about playbooks, see [Using Playbooks Public Sector Digital Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-using-playbooks-overview.md).
 
-## Related
-
-- [[psds-exploring-pbs-social-benefits|Exploring the Social Benefits Playbook]]
-- [[psds-exploring-pbs-license-permit|Exploring the License and Permit Playbook]]
-- [[psds-exploring-pbs-information-request|Exploring the Information Request Playbook]]
-- [[psds-exploring-pbs-service-request|Exploring the Service Request Playbook]]
-- [[psds-using-playbooks-overview|Using Playbooks Public Sector Digital Services]]
-- [[gsp-overview-public-sector|Government Service Portal]]

@@ -14,9 +14,9 @@ breadcrumb: [Using Notify with On-Call Scheduling, Using Notify, Notify, Manage 
 
 # Controlling the on-call communication channel with Notify
 
-Configure On-Call Scheduling with [[notify-landing-page|Notify]] to always use a user's preferred communication channel.
+Configure On-Call Scheduling with Notify to always use a user's preferred communication channel.
 
-If **Force communication channel** is specified in the **Escalation settings** for rosters, the preferred user device is used: SMS, voice, or [[email|email]].
+If **Force communication channel** is specified in the **Escalation settings** for rosters, the preferred user device is used: SMS, voice, or email.
 
 For example, if the preferred device is SMS and the on-call member does not have an SMS device defined, the user is not contacted even if the user has an email address. When forcing a communication channel on an escalation level does not succeed, no further communication attempts are made. The fact that the user could not be reached is logged.
 
@@ -36,7 +36,3 @@ The **On-Call: Assign by Acknowledgement** workflow is provided with Notify.
 
 [Subscription-based notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_SubscriptionBasedNotifications.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]
-- [[email|Email]]

@@ -14,11 +14,11 @@ breadcrumb: [Operator phase 2: Triage an alert, Operator responsibilities, Event
 
 # Associate a knowledge base article with an alert
 
-As an [[c_EM|Event Management]] operator, you can associate a knowledge base \(KB\) article with the alert to capture additional information about the alert. This might include a procedure that someone has to follow to resolve the underlying issue on your network, or a best practice to prevent the issue from reoccurring.
+As an Event Management operator, you can associate a knowledge base \(KB\) article with the alert to capture additional information about the alert. This might include a procedure that someone has to follow to resolve the underlying issue on your network, or a best practice to prevent the issue from reoccurring.
 
 ## Before you begin
 
-**Note:** The Operator Workspace interface is available only to customers who have upgraded from a release prior to the Utah release. New customers as of the Utah release can use the [[sow-landing-page-itom|Service Operations Workspace for ITOM]], which offers an enhanced UI for managing alerts.
+**Note:** The Operator Workspace interface is available only to customers who have upgraded from a release prior to the Utah release. New customers as of the Utah release can use the Service Operations Workspace for ITOM, which offers an enhanced UI for managing alerts.
 
 <table id="table_ss3_vg3_3db"><tbody><tr><td>
 
@@ -63,7 +63,7 @@ Role required: evt\_mgmt\_operator
 
 ## Procedure
 
-1.  From the [[workspace-dashboard-use|Service Operations Workspace]] dashboard, open the alert that you acknowledged in Phase 1: Analyze and acknowledge an alert.
+1.  From the Service Operations Workspace dashboard, open the alert that you acknowledged in Phase 1: Analyze and acknowledge an alert.
 
 2.  On the Alert form, click the lookup icon \(\[Omitted image "lookup-icon.png"\] Alt text: Lookup icon\) next to the **Knowledge article** field.
 
@@ -92,8 +92,3 @@ If you do not need to perform any other triage actions, proceed to [Phase 3: Clo
 
 **Parent Topic:**[Operator phase 2: Triage an alert](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-phase-triage-incident.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[sow-landing-page-itom|Service Operations Workspace for ITOM]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

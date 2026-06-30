@@ -26,7 +26,7 @@ To create an event that repeats daily, weekly, or monthly, see [Create repeatabl
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[c_MyCalendar|My Calendar]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **My Calendar**.
 
     The calendar appears in the week view by default, highlighting today's schedule. The user's off-duty schedule in gray.
 
@@ -38,7 +38,7 @@ To create an event that repeats daily, weekly, or monthly, see [Create repeatabl
     -   Select **Today** to reset your calendar view to show today's calendar.
 3.  Open the Add Event form by double-clicking an empty cell on the calendar.
 
-4.  On the [[new-event-form|New event form]], fill the fields.
+4.  On the New event form, fill the fields.
 
     For a description of the field names, see [New event form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/new-event-form.md).
 
@@ -63,7 +63,3 @@ To create an event that repeats daily, weekly, or monthly, see [Create repeatabl
 
 [Delete events]()
 
-## Related
-
-- [[c_MyCalendar|My Calendar]]
-- [[new-event-form|New event form]]

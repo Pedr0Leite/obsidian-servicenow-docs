@@ -28,11 +28,11 @@ Planning managers can create portfolio plans using only lenses that are active. 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]]** &gt; **Lenses**.
+1.  Navigate to **All** &gt; **Portfolio Planning** &gt; **Lenses**.
 
 2.  From the Lenses list, select a lens.
 
-3.  On the [[lens-form-portfolio-planning|lens form]], click the **Validate Lens** related link.
+3.  On the lens form, click the **Validate Lens** related link.
 
     -   If the lens configuration is valid, a success message prompts you that you can now activate it.
     -   If the lens configuration isn’t valid, use the error messages to understand the issues and fix the configuration.
@@ -47,7 +47,3 @@ Planning managers can create portfolio plans using only lenses that are active. 
 
 [Modify lens structure in Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/modify-lens-portfolio-planning.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[lens-form-portfolio-planning|Lens Form]]

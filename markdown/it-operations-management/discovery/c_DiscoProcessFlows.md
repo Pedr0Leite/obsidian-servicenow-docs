@@ -14,7 +14,7 @@ breadcrumb: [Exploring Discovery, Discovery, ITOM Visibility, IT Operations Mana
 
 # Horizontal discovery process flow with probes and sensors
 
-The horizontal [[r-discovery|discovery]] process passes through the four phases of discovery using probes, which gather information on the target machine, and then sensors, which help Discovery determine what to do with that information.
+The horizontal discovery process passes through the four phases of discovery using probes, which gather information on the target machine, and then sensors, which help Discovery determine what to do with that information.
 
 ## Kicking off Discovery
 
@@ -24,7 +24,7 @@ A user triggers horizontal discovery by configuring a discovery schedule or by l
 
 1.  Discovery first takes the Shazzam probe \(and then [port probes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_PortProbes.md)\) and places it in a request in the External Communication Channel \(ECC\) queue.
 2.  The MID Server checks the ECC queue, retrieves the discovery request, and runs the probes against the host and discovers open ports.
-3.  The [[r_PortProbes|port probes]] scan common ports using several protocols, such as WMI, HTTP, SSH, and SNMP.
+3.  The port probes scan common ports using several protocols, such as WMI, HTTP, SSH, and SNMP.
 4.  If one or more ports respond, the Shazzam probe sends information about the port back to the ECC queue through the MID Server.
 5.  Discovery checks the ECC queue to find out which ports responded, which identifies the type of machine. For example, if Shazzam detects that the machine is listening on port 22, Discovery treats the machine as a UNIX or Linux machine.
 
@@ -41,7 +41,7 @@ A user triggers horizontal discovery by configuring a discovery schedule or by l
 1.  Discovery determines which classifier to use based on the class of the CI and the criteria specified in all CI classifier records. The classifier specifies which probes to use for the next two phases.
 2.  Discovery puts the identification trigger probe for the CI classifier into the ECC queue. For example, a UNIX machine running HP-UX would require the HP-UX classifier, which specifies that the Multi Probe-HP-UX Identity identification trigger probe. These probes use identification rules to determine whether or not to insert or update a CI in the CMDB.
 
-    **Note:** The trigger probe could also be the [[r-HorizontalPatternProbe|Horizontal Pattern probe]], which tells Discovery to follow the operations in the specified pattern, rather than sending out additional probes. The operations in the pattern cover both the identification and exploration phases. Discovery knows which identification rules to use based on the CI type, and Discovery makes inserts or updates to the CMDB based on these rules. Probes and sensors are not used.
+    **Note:** The trigger probe could also be the Horizontal Pattern probe, which tells Discovery to follow the operations in the specified pattern, rather than sending out additional probes. The operations in the pattern cover both the identification and exploration phases. Discovery knows which identification rules to use based on the CI type, and Discovery makes inserts or updates to the CMDB based on these rules. Probes and sensors are not used.
 
 3.  The MID Server checks the ECC queue, retrieves the discovery request, and runs the identification trigger probe.
 4.  The identification probe accumulates identification data for each device and sends that data back to the instance via the MID Server.
@@ -64,8 +64,3 @@ A user triggers horizontal discovery by configuring a discovery schedule or by l
 
 [Patterns and horizontal discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c-UsingPatternsForHorizontalDiscovery.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[r_PortProbes|Port probes]]
-- [[r-HorizontalPatternProbe|Horizontal Pattern probe]]

@@ -25,7 +25,7 @@ Role required: sn\_vdr\_risk\_asmt.vendor\_risk\_manager
 Components are the entities for which you can assess risk. The base system comes with the following types of components:
 
 -   Third-party components
-    -   Third-party [[risk-assessments|risk assessments]] \(External risk assessments\)
+    -   Third-party risk assessments \(External risk assessments\)
     -   Subsidiaries
     -   Engagements
     -   Risk intelligence rating
@@ -60,6 +60,4 @@ You can view the third party or engagement components by navigating to **Third-p
 
 4.  When you have finished assigning weights, select **Update**.
 
-## Related
 
-- [[risk-assessments|risk assessments]]

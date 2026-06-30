@@ -14,14 +14,14 @@ breadcrumb: [Training your teams, Coaching, Workforce Optimization for ITSM, IT 
 
 # Learning in Workforce Optimization for ITSM
 
-Use [[cf-coaching-landing|Coaching]] with Learning to train your agents with internal and external learning content. Organize similar content into learning libraries. Assign learning tasks to your agents and track completion. Create learning paths that include a collection of courses on a specific topic associated with a set of skills.
+Use Coaching with Learning to train your agents with internal and external learning content. Organize similar content into learning libraries. Assign learning tasks to your agents and track completion. Create learning paths that include a collection of courses on a specific topic associated with a set of skills.
 
 **Important:** Coaching with Learning is available when you enable the Coaching with Learning application from the ServiceNow® Store. To enable this application, see [Activate Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/activate-configurable-workforce-optimization-itsm.md) .
 
 -   **[Create a course catalog in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/create-course-catalog-wfo-itsm.md)**  
 Create course catalogs and set user criteria to define user access to the course items and learning paths associated with it.
 -   **[Create a learning library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/create-learning-catalog-configurable-wfo-itsm.md)**  
-[[create-learning-catalog-configurable-wfo-itsm|Create a learning library]] to organize related content into categories.
+Create a learning library to organize related content into categories.
 -   **[Create internal learning content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/create-internal-learning-content-configurable-wfo-itsm.md)**  
 Add internal courses so that agents can learn new content and enhance their skill set.
 -   **[Access external courses using Coaching with Learning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/integrate-external-courses-configurable-wfo-itsm.md)**  
@@ -39,7 +39,3 @@ Access a quiz to analyze the details.
 
 **Parent Topic:**[Training your teams using Coaching in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/coaching-configurable-wfo-itsm.md)
 
-## Related
-
-- [[cf-coaching-landing|Coaching]]
-- [[create-learning-catalog-configurable-wfo-itsm|Create a learning library]]

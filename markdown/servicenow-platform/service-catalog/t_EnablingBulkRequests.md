@@ -14,7 +14,7 @@ breadcrumb: [Service Catalog customization, Types of catalog items, Explore, Ser
 
 # Create up to ten copies of Service Catalog request
 
-[[t_UsingBulkRequests|Clone a request]] to create up to ten copies \(clones\) of the same [[service-catalog|Service Catalog]] request, for different users, without having to enter the same information multiple times. For example, you can request a new piece of equipment for several specified people, generating multiple individual requests quickly from a single initial request.
+Clone a request to create up to ten copies \(clones\) of the same Service Catalog request, for different users, without having to enter the same information multiple times. For example, you can request a new piece of equipment for several specified people, generating multiple individual requests quickly from a single initial request.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: admin or catalog\_admin
 
 2.  Under the **Target type: Browser Screen** section, select **Order Status Screen**.
 
-3.  In the **Components** tab, select the **Clone Checkout** [[check-box|check box]].
+3.  In the **Components** tab, select the **Clone Checkout** check box.
 
 4.  Navigate to **Service Catalog** &gt; **Catalog Administration** &gt; **Properties**.
 
@@ -50,8 +50,3 @@ Role required: admin or catalog\_admin
 
 [Delegated request experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/delegated-request-exp.md)
 
-## Related
-
-- [[t_UsingBulkRequests|Clone a request]]
-- [[service-catalog|Service Catalog]]
-- [[check-box|Check box]]

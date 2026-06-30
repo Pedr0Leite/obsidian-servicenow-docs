@@ -24,7 +24,7 @@ Once the connection is activated and validated, an information message is displa
 
 ## Procedure
 
-1.  Navigate to **[[major-security-incident-management-landing-page|Major Security Incident Management]]** &gt; **Chat Provider Configuration**.
+1.  Navigate to **Major Security Incident Management** &gt; **Chat Provider Configuration**.
 
 2.  Select **Microsoft Teams record**.
 
@@ -43,6 +43,3 @@ Once the connection is activated and validated, an information message is displa
 
 **Parent Topic:**[Configure Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/chat-channel-provider-config.md)
 
-## Related
-
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]

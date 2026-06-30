@@ -14,7 +14,7 @@ breadcrumb: [Additional Configurations, Microsoft Defender for Endpoint integrat
 
 # Configure Get Related Machines from Defender Capability in Microsoft Defender for Endpoint
 
-Get the list of related machines of specific [[c_Observables|observables]].
+Get the list of related machines of specific observables.
 
 ## Before you begin
 
@@ -64,6 +64,3 @@ You can retrieve the list of machines that have accessed the particular observab
 
 [Configure Stop and Quarantine File capability in Microsoft Defender for Endpoint]()
 
-## Related
-
-- [[c_Observables|Observables]]

@@ -30,7 +30,7 @@ When creating a publication, you can also include an optional email notification
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_TargetedCommunications|Targeted Communications]]** &gt; **Active Publications**.
+1.  Navigate to **All** &gt; **Targeted Communications** &gt; **Active Publications**.
 
 2.  Select the desired publication.
 
@@ -43,6 +43,3 @@ When creating a publication, you can also include an optional email notification
     -   If the system administrator has configured a UI action, you can use this UI action for manually publishing the publication.
     -   For more info, see [Email templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailTemplates.md).
 
-## Related
-
-- [[c_TargetedCommunications|Targeted communications]]

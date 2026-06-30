@@ -14,7 +14,7 @@ breadcrumb: [Use, AI Control Tower, Enable AI experiences]
 
 # Using the access map
 
-Learn how to use the **Access map** in [[ai-control-tower-landing|AI Control Tower]].
+Learn how to use the **Access map** in AI Control Tower.
 
 ## Before you begin
 
@@ -156,7 +156,3 @@ The creator of the tool
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[ai-control-tower-landing|AI Control Tower]]

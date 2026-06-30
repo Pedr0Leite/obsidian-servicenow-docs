@@ -22,7 +22,7 @@ Use the [Known Error Portal](https://support.servicenow.com/kb?id=kb_article_vie
 
 -   **[Self-health](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/self-monitoring.md)**
 
-    By default, the self-health monitoring feature is not enabled. To enable it, navigate to **[[c_EM|Event Management]]** &gt; **Settings** &gt; **Properties** and select **Yes** for the **Enable Event Management self-health monitoring** \(evt\_mgmt.self\_health\_active\) property. Use this feature to monitor and track many Event Management features.
+    By default, the self-health monitoring feature is not enabled. To enable it, navigate to **Event Management** &gt; **Settings** &gt; **Properties** and select **Yes** for the **Enable Event Management self-health monitoring** \(evt\_mgmt.self\_health\_active\) property. Use this feature to monitor and track many Event Management features.
 
     **Note:** CIs used in the self-health service are created in the CMDB.
 
@@ -43,7 +43,7 @@ Business rules
 </td><td>
 
 -   Avoid writing business rules for event \[em\_event\] tables, as they do not run in the current default REST URL that is used for event injection.
--   Business rules that are written for alert \[em\_alert\] tables must be highly efficient or they may result in performance degradation. Instead of writing a business rule, consider whether it is more appropriate to write a job. An inefficient business rule can cause incident creation for an alert to fail and the [[c_EMImpactCalculation|alert impact calculation]] to fail.
+-   Business rules that are written for alert \[em\_alert\] tables must be highly efficient or they may result in performance degradation. Instead of writing a business rule, consider whether it is more appropriate to write a job. An inefficient business rule can cause incident creation for an alert to fail and the alert impact calculation to fail.
 -   Do not write async business rules for alert tables.
 -   Business rules must not change the **Category** field on event \[em\_event\] tables.
 
@@ -66,7 +66,7 @@ Configure for large-scale environments
 
 Enable multi-node in production environments and set values based on the size of the deployment and expected event rate.
 
--   Set the **Number of scheduled jobs [[processing-events|processing events]]** \(**evt\_mgmt.event\_processor\_job\_count**\) property to `4`.
+-   Set the **Number of scheduled jobs processing events** \(**evt\_mgmt.event\_processor\_job\_count**\) property to `4`.
 -   If you are sending events from a custom source, verify that events have**Message Key** or **Source**, **Node**, **Type**, and **Resource** data.
 
 
@@ -98,7 +98,7 @@ Archive events
 
 -   **SNMP traps**
     -   Use a monitoring tool to send SNMP traps, rather than sending them directly from devices.
-    -   To avoid having to rewrite [[create-event-rules|event rules]], upload MIBs prior to defining the event rules.
+    -   To avoid having to rewrite event rules, upload MIBs prior to defining the event rules.
 -   **Web service API**
     -   Using a web service API for integration can reduce the number of event rules needed. This action avoids having to transform events \(prepared data is sent in an event to the instance\).
     -   Use dedicated credentials for integration. Optionally, designate credentials specific to each event source.
@@ -200,7 +200,7 @@ Populate the **Resource** and **Metric Name** fields. **Note:** If CI is also bo
 -   An alert is reopened if an opening alert that has the same message key is sent within the timeframe defined in properties \(default is one hour\).
 -   If an alert is opened and closed at a high rate, as defined in properties, it becomes flapping. When this opening and closing rate stops, the alert goes out of flapping state.
 -   If an incident is opened from an alert, that alert remains open as long as the incident remains open. By default, when either the incident or the alert is closed the other is closed as well. This behavior can be configured using properties.
--   Do not [[t_EMCloseAlert|close an alert]] when creating a corresponding incident.
+-   Do not close an alert when creating a corresponding incident.
 -   Do not delete an open alert. Close an alert first and then delete it.
 -   Use `Acknowledge` to denote that the alert is known, and can temporarily be ignored.
 -   Do not use `Acknowledge` to mark an alert as needing attention.
@@ -236,7 +236,7 @@ Populate the **Resource** and **Metric Name** fields. **Note:** If CI is also bo
 
 ## Metric Intelligence collector logs and files
 
-[[operational-metrics|Metric Intelligence]] collector logs and files are located under the path `$(MID_SERVER_DIR)/agent`. Use these logs and files for troubleshooting and monitoring purposes.
+Metric Intelligence collector logs and files are located under the path `$(MID_SERVER_DIR)/agent`. Use these logs and files for troubleshooting and monitoring purposes.
 
 |Log or file|Path|
 |-----------|----|
@@ -253,11 +253,3 @@ Metric Intelligence performance numbers are available in the Performance Statist
 
 [Rotate event and alert table for cleanup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/rotate-tables-purge-data.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[c_EMImpactCalculation|Alert impact calculation]]
-- [[processing-events|Processing Events]]
-- [[create-event-rules|Event rules]]
-- [[t_EMCloseAlert|Close an alert]]
-- [[operational-metrics|Metric Intelligence]]

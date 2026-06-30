@@ -14,7 +14,7 @@ breadcrumb: [Use, Contract Management Pro, Legal and Contract Operations, Employ
 
 # Preview and download a signed contract document
 
-[[snlc-preview-contract|View and download a signed contract document]].
+View and download a signed contract document.
 
 ## Before you begin
 
@@ -84,6 +84,3 @@ Steps
 </table>
 **Parent Topic:**[Using Contract Management Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-use-cmpro.md)
 
-## Related
-
-- [[snlc-preview-contract|View and download a signed contract document]]

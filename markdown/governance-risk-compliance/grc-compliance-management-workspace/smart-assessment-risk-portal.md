@@ -14,7 +14,7 @@ breadcrumb: [Control assessment through attestation, Create control objective, M
 
 # Respond to attestations on the Risk Portal
 
-Respond to your attestations by logging in to the [[risk-portal|Risk Portal]].
+Respond to your attestations by logging in to the Risk Portal.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ As an attestation respondent of a control you can log in to the Risk Portal and 
 
 2.  Select the new task in My pending tasks section of the Risk Portal.
 
-    You can view the attestations on the left panel. The Control Attestations [[list-view-uib-ws|list view]] displays the Control and Entity columns alongside the existing assessment instance, assessment template, state, users, and due date columns, providing attestors with direct scope context for each assessment instance without opening individual records.
+    You can view the attestations on the left panel. The Control Attestations list view displays the Control and Entity columns alongside the existing assessment instance, assessment template, state, users, and due date columns, providing attestors with direct scope context for each assessment instance without opening individual records.
 
 3.  Select the assessment instance link on the right panel of the My pending tasks related list.
 
@@ -50,7 +50,4 @@ As an attestation respondent of a control you can log in to the Risk Portal and 
 
     All the questions are read only now that you have submitted the response.
 
-## Related
 
-- [[risk-portal|risk portal]]
-- [[list-view-uib-ws|List view]]

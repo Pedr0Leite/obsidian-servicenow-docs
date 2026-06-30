@@ -14,7 +14,7 @@ breadcrumb: [Scenario Planning for PPM, Portfolio Management, Project Portfolio 
 
 # Install Scenario Planning for PPM
 
-Install the [[portfolio-planning-overview|Scenario Planning for PPM]] application from ServiceNow Store applications. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
+Install the Scenario Planning for PPM application from ServiceNow Store applications. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
 ## Before you begin
 
@@ -38,7 +38,7 @@ Navigate to **Subscription Management** &gt; **Subscriptions** in your instance.
 
 </td></tr><tr><td>
 
-Verify that the [[investment-funding-overview|Investment Funding]] for PPM \(com.snc.investment\_planning\_pmo\) plugin is activated.**Note:** This plugin needs to be activated only when you want to retrieve the target amount for a portfolio for annual type of planning from Investment Funding.
+Verify that the Investment Funding for PPM \(com.snc.investment\_planning\_pmo\) plugin is activated.**Note:** This plugin needs to be activated only when you want to retrieve the target amount for a portfolio for annual type of planning from Investment Funding.
 
 </td><td>
 
@@ -86,7 +86,3 @@ Several types of components are installed with the installation of the Scenario 
 
 [List of plugins \(Australia\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-## Related
-
-- [[portfolio-planning-overview|Scenario Planning for PPM]]
-- [[investment-funding-overview|Investment Funding]]

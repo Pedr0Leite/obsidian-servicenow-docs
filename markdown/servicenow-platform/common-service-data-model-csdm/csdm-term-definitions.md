@@ -14,7 +14,7 @@ breadcrumb: [Reference, CSDM, Configuration Management, Extend ServiceNow AI Pla
 
 # CSDM terms
 
-Most ServiceNow products and ServiceNow AI Platform applications align closely with the [[csdm-landing-page|Common Service Data Model]]. This table defines terms as they are used across the ServiceNow AI Platform.
+Most ServiceNow products and ServiceNow AI Platform applications align closely with the Common Service Data Model. This table defines terms as they are used across the ServiceNow AI Platform.
 
 <table id="table_kqt_czw_hsb"><thead><tr><th>
 
@@ -86,7 +86,7 @@ A business service is a service type that is published to business users. A busi
 
 </td><td>
 
-Usually, business users order business services. Business users can select the desired offering and service commitment levels via the [[service-catalog|Service Catalog]]. For example, procurement, shipping, and finance.
+Usually, business users order business services. Business users can select the desired offering and service commitment levels via the Service Catalog. For example, procurement, shipping, and finance.
 
 -   A business service is an operational CI.
 -   A business service must be a one-level service and not a hierarchy of business services.
@@ -114,7 +114,7 @@ Configuration item \(CI\)
 
 </td><td>
 
-Physical and logical components of an infrastructure that are currently or soon will be under [[manage-cmdb|configuration management]].
+Physical and logical components of an infrastructure that are currently or soon will be under configuration management.
 
 </td><td>
 
@@ -258,8 +258,3 @@ The technical service offering comes from the service, based on how the parent s
 
 [CSDM resources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-resources.md)
 
-## Related
-
-- [[csdm-landing-page|Common Service Data Model]]
-- [[service-catalog|Service Catalog]]
-- [[manage-cmdb|Configuration Management]]

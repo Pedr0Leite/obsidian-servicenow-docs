@@ -14,7 +14,7 @@ breadcrumb: [Work order tasks \(WOTs\), Contractor Portal, Completing work order
 
 # View sibling tasks related to a work order
 
-View details of sibling work order task that are related to the same work order in Field Service [[field-service-contractor-portal|Contractor Portal]].
+View details of sibling work order task that are related to the same work order in Field Service Contractor Portal.
 
 ## Before you begin
 
@@ -34,6 +34,4 @@ Role required: wm\_ext\_agent and wm\_ext\_manager
 
     The sibling work order task provide details, such as parent work order task number, required asset, location, and so on.
 
-## Related
 
-- [[field-service-contractor-portal|Contractor Portal]]

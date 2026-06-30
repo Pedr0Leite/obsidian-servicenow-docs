@@ -16,7 +16,7 @@ breadcrumb: [Reviewing upgrade history, Using Upgrade Center, Upgrade Center, Up
 
 View the resolution status of any previous upgrade with skipped records using the visual task board \(VTB\) view. An upgrade history record is created for each upgrade that is run.
 
-To view the history report navigate to **[[uc-landing-page|Upgrade Center]]** &gt; **Upgrade History**. You can then select an upgrade from the list to view the upgrade history details. Click the **Skipped Record VTB** related link to view and manage the skipped records over VTB.
+To view the history report navigate to **Upgrade Center** &gt; **Upgrade History**. You can then select an upgrade from the list to view the upgrade history details. Click the **Skipped Record VTB** related link to view and manage the skipped records over VTB.
 
 **Note:** The **Skipped Record VTB** related link shows up only when there are skipped records for the version upgrade.
 
@@ -38,6 +38,3 @@ The skipped records are prioritized based on the importance of the file types. T
 
 \[Omitted image "uc-vtb.png"\] Alt text: Image showing the VTB view of skipped records resolution status
 
-## Related
-
-- [[uc-landing-page|Upgrade Center]]

@@ -16,7 +16,7 @@ Migrate draft proxy order carts to the new sales cart to avoid having your custo
 
 ## Before you begin
 
-Ensure that the Sales Cart application has been installed. For more information, see [[install-sales-cart-plugin|Install Sales Cart]].
+Ensure that the Sales Cart application has been installed. For more information, see [Install Sales Cart](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/install-sales-cart-plugin.md).
 
 Role required: admin
 
@@ -50,12 +50,7 @@ A system update cleared your cart. Please contact your administrator for help.
 **Related topics**  
 
 
-[[som-self-service-business-portal|Customer self-service for Sales Customer Relationship Management]]
+[Customer self-service for Sales Customer Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-self-service-business-portal.md)
 
-[[order-mgt-business-portal|Customer self-service using the Business Portal]]
+[Customer self-service using the Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-business-portal.md)
 
-## Related
-
-- [[install-sales-cart-plugin|Install Sales Cart]]
-- [[som-self-service-business-portal|Customer self-service for Sales Customer Relationship Management]]
-- [[order-mgt-business-portal|Customer self-service using the Business Portal]]

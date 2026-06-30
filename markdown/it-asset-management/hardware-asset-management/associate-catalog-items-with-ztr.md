@@ -14,7 +14,7 @@ breadcrumb: [Manage Service Catalog items, Zero Touch request flow, Use, Hardwar
 
 # Associate your catalog items with the Zero Touch request flow
 
-Set the flow of your catalog item to [[zero-touch-request|Zero Touch request flow]] for fulfilling all the requests for that catalog item through an external provider.
+Set the flow of your catalog item to Zero Touch request flow for fulfilling all the requests for that catalog item through an external provider.
 
 ## Before you begin
 
@@ -35,6 +35,3 @@ Role required: catalog\_admin
 
 [Create variables for the catalog item associated with the Zero Touch request flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-variables-for-items-consumer.md).
 
-## Related
-
-- [[zero-touch-request|Zero Touch request flow]]

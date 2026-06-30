@@ -14,11 +14,7 @@ breadcrumb: [Create an email notification, Email and SMS notifications, System n
 
 A system property controls the time zone that the instance uses for the date and time stamp of a message.
 
-The date and time stamp of a notification uses the system time zone, not the time zone of any recipient. The email property `glide.email.append.timezone` controls whether to append the time zone. If true, the system time zone of the instance is appended to any Date/Time fields in [[ia-outbound-email-il|outbound email]] messages \(for example, 2018-07-02 04:01:14 PST\).
+The date and time stamp of a notification uses the system time zone, not the time zone of any recipient. The email property `glide.email.append.timezone` controls whether to append the time zone. If true, the system time zone of the instance is appended to any Date/Time fields in outbound email messages \(for example, 2018-07-02 04:01:14 PST\).
 
-**Parent Topic:**[[t_CreateANotification|Create an email notification]]
+**Parent Topic:**[Create an email notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateANotification.md)
 
-## Related
-
-- [[t_CreateANotification|Create an email notification]]
-- [[ia-outbound-email-il|Outbound email]]

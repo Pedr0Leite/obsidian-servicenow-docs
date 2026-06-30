@@ -14,7 +14,7 @@ breadcrumb: [Available on-premise discovery patterns, Discovery patterns used by
 
 # Next-Generation Cisco Firewall discovery
 
-The ServiceNow [[r-discovery|Discovery]] application uses the Next Generation Cisco Firewall pattern to find Cisco firewalls. Discovering some of these resources may require updating to the latest version of the Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns application from the ServiceNow Store.
+The ServiceNow Discovery application uses the Next Generation Cisco Firewall pattern to find Cisco firewalls. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 The discovery pattern uses a set of SNMP calls to find the Cisco firewalls. Discovery uses the pattern to run horizontal discovery.
 
@@ -75,7 +75,7 @@ Discovery populates the data in the CMDB when running the Next Generation Cisco 
 |Name \[name\]|Name of the Domain Name System \(DNS\).|
 |IP Address \[ip\_address\]|IP address of the DNS.|
 
-This [[dependency-views-map|Dependency Views map]] on the Cisco Firewall Device CI shows the Cisco Firewall Device.
+This Dependency Views map on the Cisco Firewall Device CI shows the Cisco Firewall Device.
 
 \[Omitted image "cisco-fw-dependency-views.png"\] Alt text: CIs and connections on a Dependency Views map
 
@@ -96,8 +96,3 @@ These relationships are created to support Cisco firewall discovery.
 
 **Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/available-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[dependency-views-map|Dependency Views map]]

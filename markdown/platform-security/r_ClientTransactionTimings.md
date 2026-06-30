@@ -12,7 +12,7 @@ breadcrumb: [Transaction logs, System logs, Logs, Platform Security]
 
 # Client transaction timings
 
-The Client Transaction Timings plugin enhances the [[system-logs|system logs]] by providing additional information about the durations of transactions taking place between the client and the server.
+The Client Transaction Timings plugin enhances the system logs by providing additional information about the durations of transactions taking place between the client and the server.
 
 You can track down performance issues to their source by viewing where the time is being consumed, and how time was spent during a transaction.
 
@@ -144,6 +144,3 @@ A more detailed breakdown of the client timings for all Form rendering \(but not
 |Name|Descriptive name of this particular operation|
 |Duration|Number of ms this operation took to complete.|
 
-## Related
-
-- [[system-logs|System logs]]

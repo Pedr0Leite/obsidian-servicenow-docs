@@ -24,7 +24,7 @@ Role required: none
 
 2.  Select **Browse catalogs**.
 
-    The commonly requested catalog items are displayed. For information about catalog items available in the base system, see [[catalog-items-base-system|Catalog items installed with Simplified IT Service Management]].
+    The commonly requested catalog items are displayed. For information about catalog items available in the base system, see [Catalog items installed with Simplified IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/catalog-items-base-system.md).
 
 3.  Select a catalog item and specify the required details.
 
@@ -33,9 +33,5 @@ Role required: none
 5.  Select **Submit**.
 
 
-**Parent Topic:**[[employee-experience-employee-center|Employee experience using Employee Center]]
+**Parent Topic:**[Employee experience using Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/employee-experience-employee-center.md)
 
-## Related
-
-- [[catalog-items-base-system|Catalog items installed with Simplified IT Service Management]]
-- [[employee-experience-employee-center|Employee experience using Employee Center]]

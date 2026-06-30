@@ -16,7 +16,7 @@ Follow these suggestions to help you use segments in the semantic layer effectiv
 
 ## General guidelines for segments
 
--   Test segments by asking natural language questions that should match them. The segment should appear in **[[query-generation|Query Generation]]** &gt; **Logs**.
+-   Test segments by asking natural language questions that should match them. The segment should appear in **Query Generation** &gt; **Logs**.
 -   Monitor query logs to verify segments are being matched correctly and to identify the most valuable segments.
 -   Disable noisy auto-generated segments rather than trying to overfit with multiple manual ones.
 -   Use natural phrasing that matches how your users actually speak.
@@ -59,7 +59,7 @@ Manual segments are the recommended way to ship domain-specific saved searches w
 
 ## Property tuning suggestions
 
-Use these suggestions to adjust system properties when segments are not performing as expected. For a complete list of all segment properties and their defaults, see [[querygen-properties|Query Generation properties]].
+Use these suggestions to adjust system properties when segments are not performing as expected. For a complete list of all segment properties and their defaults, see [Query Generation properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/querygen-properties.md).
 
 -   **Segments are not matching user questions**
 
@@ -82,24 +82,16 @@ Use these suggestions to adjust system properties when segments are not performi
     Enable the AI Search property **segments.ais\_batch\_fetch\_enabled**. Without batch search, manual and automated segments compete for the same result slots. Batch search gives each type a dedicated search, significantly improving manual segment coverage.
 
 
-**Parent Topic:**[[querygen-segments|Segments in the Query Generation semantic layer]]
+**Parent Topic:**[Segments in the Query Generation semantic layer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/querygen-segments.md)
 
 **Related topics**  
 
 
-[[querygen-create-segment-manually|Create a manual segment]]
+[Create a manual segment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/querygen-create-segment-manually.md)
 
-[[manual-segment-data-model-sync|Manual segment data model and sync behavior]]
+[Manual segment data model and sync behavior](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/manual-segment-data-model-sync.md)
 
-[[shipping-manual-segments-plugins|Shipping manual segments via plugins]]
+[Shipping manual segments via plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/shipping-manual-segments-plugins.md)
 
 [manual-segment-system-properties]
 
-## Related
-
-- [[querygen-properties|Query Generation properties]]
-- [[querygen-segments|Segments in the Query Generation semantic layer]]
-- [[querygen-create-segment-manually|Create a manual segment]]
-- [[manual-segment-data-model-sync|Manual segment data model and sync behavior]]
-- [[shipping-manual-segments-plugins|Shipping manual segments via plugins]]
-- [[query-generation|Query Generation]]

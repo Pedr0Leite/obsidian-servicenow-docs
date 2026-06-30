@@ -12,7 +12,7 @@ breadcrumb: [Government Service Portal, Portals, Use, Public Sector Digital Serv
 
 # Create an information request with Public Sector Digital Services
 
-Create a case requesting public records from federal or state public agencies from the [[gsp-overview-public-sector|Government Service Portal]] in Public Sector Digital Services.
+Create a case requesting public records from federal or state public agencies from the Government Service Portal in Public Sector Digital Services.
 
 ## Before you begin
 
@@ -66,6 +66,4 @@ Users can submit a request for any public record, so long as it does not fall un
 
     You're now taken to the case page, where you can review or update the details of your request. On this page, you can view the exemption checklist, which is a list of categories of information that are not available due to regulatory reasons. After your request has been fulfilled, you must return to the portal to accept or reject the fee estimate for fulfilling your request. You can access pending fee approvals on the **Notifications** tab.
 
-## Related
 
-- [[gsp-overview-public-sector|Government Service Portal]]

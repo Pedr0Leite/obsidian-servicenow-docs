@@ -14,7 +14,7 @@ breadcrumb: [Notify workflow activities, Notify reference, Notify, Manage servic
 
 # Record workflow activity
 
-The **Record** workflow activity records audio from a user on a [[notify-landing-page|Notify]] call.
+The **Record** workflow activity records audio from a user on a Notify call.
 
 **Note:** The Record workflow activity records Notify call but not the Notify conference call. To record the Notify conference call, you can set the **Record** activity variable on the [Join Conference Call](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/r_WflowActivJoinConfCall.md) workflow activity.
 
@@ -44,6 +44,3 @@ The **record** activity adds the **recording** variable to the workflow scratchp
 
 **Parent Topic:**[Notify workflow activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/c_NotifyActivities.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]

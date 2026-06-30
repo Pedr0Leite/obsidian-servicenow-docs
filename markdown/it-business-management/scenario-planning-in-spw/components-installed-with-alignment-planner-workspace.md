@@ -14,7 +14,7 @@ breadcrumb: [Reference, Portfolio Planning in Strategic Planning Workspace, Stra
 
 # Components installed with Strategic Planning Workspace
 
-Several types of components are installed with installation of the [[alignment-planner-workspace-landing-page|Strategic Planning]] application, such as user roles, tables, scheduled jobs, system properties, and custom scripts.
+Several types of components are installed with installation of the Strategic Planning application, such as user roles, tables, scheduled jobs, system properties, and custom scripts.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -76,7 +76,7 @@ sn\_align\_core.ap\_read\_only
 -   Can add notes, comments, or attachments to portfolio plans and roadmaps that are shared with them.
 -   Can create, edit, and delete portfolio plan views and free-form roadmap views.
 
-**Note:** Only the owner can edit or [[delete-portfolio-plan-view-ppw|delete a portfolio plan view]] or a free-form roadmap view.
+**Note:** Only the owner can edit or delete a portfolio plan view or a free-form roadmap view.
 
 
 </td><td>
@@ -188,7 +188,7 @@ sn\_gf.goal\_admin
 
 -   Create goals and targets.
 -   Edit goals and targets created by other users.
--   Edit [[target-breakdowns-gf|target breakdowns]].
+-   Edit target breakdowns.
 
 **Note:** The user must also be assigned the sn\_apw\_advanced.spw\_goal\_user role to edit target breakdowns.
 
@@ -300,7 +300,7 @@ connection\_admin
 </td></tr></tbody>
 </table>|Role title \[name\]|Description|Contains roles|
 |-------------------|-----------|--------------|
-|sn\_align\_ws.spw\_capacity\_user|Can [[manage-rsrc-cap-pp|generate resource capacity]] details.|sn\_align\_ws.spw\_capacity\_read|
+|sn\_align\_ws.spw\_capacity\_user|Can generate resource capacity details.|sn\_align\_ws.spw\_capacity\_read|
 |sn\_align\_ws.spw\_capacity\_read|Can view resource capacity details.|None|
 
 <table id="table_n5v_r51_fdc"><thead><tr><th>
@@ -334,7 +334,7 @@ sn\_align\_ws.spw\_funding\_user
 
 </td><td>
 
-Can view the financial widgets while comparing scenarios and [[approve-a-scenario-in-portfolio-planning|approve a scenario]] with financial changes.
+Can view the financial widgets while comparing scenarios and approve a scenario with financial changes.
 
 </td><td>
 
@@ -657,7 +657,7 @@ Import Request
 
 </td><td>
 
-Stores the information for import requests created to import records from PPM, [[agile-landing-page|Agile Development 2.0]], or SAFe to Strategic Planning.
+Stores the information for import requests created to import records from PPM, Agile Development 2.0, or SAFe to Strategic Planning.
 
 </td></tr><tr><td>
 
@@ -791,9 +791,9 @@ Stores the information about the function or capability that adds value to a pro
 
 |Scheduled job|Description|
 |-------------|-----------|
-|Create Financial Baseline For Planning Items|Automatically [[create-financial-baselines-ppw|create financial baselines]] for your planning items at a defined cadence.|
+|Create Financial Baseline For Planning Items|Automatically create financial baselines for your planning items at a defined cadence.|
 |Migrate budget for active demands and projects|Migrate the budget of your planning items as a bulk action.|
-|Generate Labor Costs|Activate scheduled jobs to automatically [[generate-labor-cost-demand|generate labor costs]] for attribute-based resource assignments for Projects and Demands.|
+|Generate Labor Costs|Activate scheduled jobs to automatically generate labor costs for attribute-based resource assignments for Projects and Demands.|
 |Generate Labor Costs For Epic|Activate scheduled jobs to automatically generate labor costs for attribute-based resource assignments for Epics.|
 
 ## Custom scripts installed with Strategic Planning Workspace
@@ -812,7 +812,7 @@ Benefit PlansA target source with predefined script.
 
 </td><td>
 
-Predefined script that updates the **Actual value** field on the [[target-form|target form]] by fetching the required value from the **Actual benefit** field or **Non-monetary actual benefit** field from the monetary or non-monetary benefit plan records. For script template, see [Predefined target automation script for benefit plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/target-automation-script-benefit-plans-apw.md).**Note:** You can use the Benefit Plans custom script only when [[c_ProjectPortfolioSuiteWithFinancials|PPM Standard \(Project Portfolio Management\)]] is installed.
+Predefined script that updates the **Actual value** field on the target form by fetching the required value from the **Actual benefit** field or **Non-monetary actual benefit** field from the monetary or non-monetary benefit plan records. For script template, see [Predefined target automation script for benefit plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/target-automation-script-benefit-plans-apw.md).**Note:** You can use the Benefit Plans custom script only when PPM Standard \(Project Portfolio Management\) is installed.
 
 </td></tr></tbody>
 </table>## System properties installed with Strategic Planning Workspace
@@ -972,15 +972,3 @@ com.sn\_align\_cmn\_int.bulk\_import
 </td></tr></tbody>
 </table>**Parent Topic:**[Strategic Planning Workspace reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/alignment-planner-workspace-reference.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[delete-portfolio-plan-view-ppw|Delete a portfolio plan view]]
-- [[target-breakdowns-gf|Target breakdowns]]
-- [[manage-rsrc-cap-pp|Generate resource capacity]]
-- [[approve-a-scenario-in-portfolio-planning|Approve a scenario]]
-- [[agile-landing-page|Agile Development 2.0]]
-- [[create-financial-baselines-ppw|Create financial baselines]]
-- [[generate-labor-cost-demand|Generate labor costs]]
-- [[target-form|Target form]]
-- [[c_ProjectPortfolioSuiteWithFinancials|PPM Standard \(Project Portfolio Management\)]]

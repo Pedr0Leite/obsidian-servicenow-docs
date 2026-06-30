@@ -14,7 +14,7 @@ breadcrumb: [Raise an AI inquiry, Use, AI Risk and Compliance, Governance, Risk,
 
 # Raise an AI inquiry form
 
-Use the Raise an AI inquiry form in the [[employee-center|Employee Center]] to submit your questions about [[ai-system-airc|AI systems]], models, or [[dataset-airc|datasets]] and their business applications.
+Use the Raise an AI inquiry form in the Employee Center to submit your questions about AI systems, models, or datasets and their business applications.
 
 See the following table for a description of the field values.
 
@@ -93,8 +93,3 @@ Location where the request was raised. For example, Japan.
 </td></tr></tbody>
 </table>**Parent Topic:**[Raise an AI inquiry](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/raise-ai-inquiry.md)
 
-## Related
-
-- [[employee-center|employee center]]
-- [[ai-system-airc|AI systems]]
-- [[dataset-airc|Datasets]]

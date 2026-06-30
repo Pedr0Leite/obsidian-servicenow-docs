@@ -24,13 +24,13 @@ Role required: password\_reset\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[password-reset-landing-page|Password Reset]]** &gt; **Extensions** &gt; **Identification Types**.
+1.  Navigate to **All** &gt; **Password Reset** &gt; **Extensions** &gt; **Identification Types**.
 
 2.  Click **New**, enter a unique and meaningful **Name** and **Description**, and then fill in the form.
 
 <table id="table_npc_gdz_f1b"><tbody><tr><td>
 
-Identification field [[label|label]]
+Identification field label
 
 </td><td>
 
@@ -55,7 +55,3 @@ Identification processor script. Choose an existing script or create your own us
 
 [Create a Password Reset extension script](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/t_CreateAnExtensionScript.md)
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]
-- [[label|Label]]

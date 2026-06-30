@@ -12,7 +12,7 @@ breadcrumb: [Landing page and dashboard views, Operational Resilience, Governanc
 
 # Task page and List view
 
-The Tasks page in [[grc-opres-landing-page|Operational Resilience]] Workspace provides a single-pane view of your pending tasks, your group's tasks, and the tasks that are on your watchlist. You can also update the tasks directly from the dashboard. On the List page, you can configure your operational resilience tasks.
+The Tasks page in Operational Resilience Workspace provides a single-pane view of your pending tasks, your group's tasks, and the tasks that are on your watchlist. You can also update the tasks directly from the dashboard. On the List page, you can configure your operational resilience tasks.
 
 ## Tabs in the Tasks page
 
@@ -68,22 +68,13 @@ To view more information on the Tasks Page Configuration, see [Update the Tasks 
 
 ## List view in Operational Resilience Workspace
 
-From the [[list-view-uib-ws|List view]], you can set up a business service, analyze its importance and impact tolerance, perform a [[scenario-analysis-ov|scenario analysis]], and generate a self-attestation report.
+From the List view, you can set up a business service, analyze its importance and impact tolerance, perform a scenario analysis, and generate a self-attestation report.
 
-For more information on setting up a business service in Operational Resilience Workspace, see [[setting-up-services-in-ws|Data setup for business services]].
+For more information on setting up a business service in Operational Resilience Workspace, see [Data setup for business services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/setting-up-services-in-ws.md).
 
-For more information on analyzing the importance and impact tolerance of a business service in Operational Resilience Workspace, see [[analyze-impact-tolerance-importance-of-service-in-ws|Performing Importance and impact tolerance assessment]].
+For more information on analyzing the importance and impact tolerance of a business service in Operational Resilience Workspace, see [Performing Importance and impact tolerance assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/analyze-impact-tolerance-importance-of-service-in-ws.md).
 
-For more information on performing a scenario analysis in Operational Resilience Workspace, see [[scenario-analysis-in-ws|Scenario analysis using simulation]].
+For more information on performing a scenario analysis in Operational Resilience Workspace, see [Scenario analysis using simulation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/scenario-analysis-in-ws.md).
 
-For more information on self-attesting your business services in Operational Resilience Workspace, see [[self-attestation-in-ws|Certifying services using self-attestation]].
+For more information on self-attesting your business services in Operational Resilience Workspace, see [Certifying services using self-attestation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/self-attestation-in-ws.md).
 
-## Related
-
-- [[setting-up-services-in-ws|Data setup for business services]]
-- [[analyze-impact-tolerance-importance-of-service-in-ws|Performing Importance and impact tolerance assessment]]
-- [[scenario-analysis-in-ws|Scenario analysis using simulation]]
-- [[self-attestation-in-ws|Certifying services using self-attestation]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[list-view-uib-ws|List view]]
-- [[scenario-analysis-ov|Scenario analysis]]

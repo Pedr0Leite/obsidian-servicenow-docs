@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Workspace, Exploring Software Asset Management, Soft
 
 # License operations view
 
-Use the License operations view in [[sam-workspace|Software Asset Workspace]] to manage software asset operations. These operations include management of licenses, [[c_Contracts|contracts]], discovery, client access, resource value, user subscriptions, content suggestions, software asset success, [[cloud-cost-simulator|cloud cost simulation]], SAM implementation, IBM ASP, IBM ILMT V2 integrations, and engineering apps integrations.
+Use the License operations view in Software Asset Workspace to manage software asset operations. These operations include management of licenses, contracts, discovery, client access, resource value, user subscriptions, content suggestions, software asset success, cloud cost simulation, SAM implementation, IBM ASP, IBM ILMT V2 integrations, and engineering apps integrations.
 
 You can access the License operations view by navigating to **Software Asset Workspace** &gt; **License operations**.
 
@@ -29,7 +29,7 @@ The License operations view includes the following categories:
 
         View the details of the software entitlements that record the terms of your software licenses. You can also create entitlements to enter your license details and allocate purchased rights to users or devices. For more information, see [Create entitlements in workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-entitlements-workspace.md).
 
-    -   **[[c_CreatingSoftwareModels|Software models]]**
+    -   **Software models**
 
         View the details of the software models created and also create a software model. For more information, see [Create a software model in the Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-swmodels-workspace.md).
 
@@ -47,7 +47,7 @@ The License operations view includes the following categories:
 
     -   **Consumption rules**
 
-        [[create-consumption-rule|Create consumption rules]] to restrict license consumption to certain entities within your organization. You must link this rule to one or many entitlements. For more information, see [Create consumption rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-consumption-rule.md) and [Link consumption rules to entitlements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/link-consumption-rules.md).
+        Create consumption rules to restrict license consumption to certain entities within your organization. You must link this rule to one or many entitlements. For more information, see [Create consumption rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-consumption-rule.md) and [Link consumption rules to entitlements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/link-consumption-rules.md).
 
     -   **Product install condition**
 
@@ -62,9 +62,9 @@ The License operations view includes the following categories:
     Create a software contract to bind agreement between two parties. [Create a contract](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/t_CreateAContract.md).
 
 -   **Discovery**
-    -   **Discovery [[c_Models|models]]**
+    -   **Discovery models**
 
-        View and update [[sam-software-discovery|software discovery]] models that are created when a version of software is discovered in a network environment. For more information, see [Discovery models and software installations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_DiscoveryModels.md).
+        View and update software discovery models that are created when a version of software is discovered in a network environment. For more information, see [Discovery models and software installations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_DiscoveryModels.md).
 
     -   **Software usage**
 
@@ -84,7 +84,7 @@ The License operations view includes the following categories:
 
     -   **SAP price lists**
 
-        [[create-sap-pricelist|Create custom SAP price lists]] so that you can track and manage SAP licenses based on the contracts of your SAP system. For more information, see [Create custom SAP price lists in workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sap-prcielists-workspace.md).
+        Create custom SAP price lists so that you can track and manage SAP licenses based on the contracts of your SAP system. For more information, see [Create custom SAP price lists in workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sap-prcielists-workspace.md).
 
     -   **SAP USMM rules**
 
@@ -154,7 +154,7 @@ The License operations view includes the following categories:
 -   **Content suggestions**
     -   **Part number suggestions**
 
-        View Content Service suggestions for your [[customppn-swap|custom publisher part numbers \(PPN\)]]. For more information, see [Custom publisher part numbers \(PPN\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/customppn-swap.md).
+        View Content Service suggestions for your custom publisher part numbers \(PPN\). For more information, see [Custom publisher part numbers \(PPN\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/customppn-swap.md).
 
     -   **Normalization suggestions**
 
@@ -163,7 +163,7 @@ The License operations view includes the following categories:
 -   **Software asset success**
     -   **Software maturity**
 
-        View the list of [[c_SoftwareAssetMgmt|Software Asset Management]] [[maturity-item-details|maturity item details]]. For more information, see [View all maturity items for Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/view-maturity-items.md).
+        View the list of Software Asset Management maturity item details. For more information, see [View all maturity items for Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/view-maturity-items.md).
 
     -   **Success goals**
 
@@ -177,7 +177,7 @@ The License operations view includes the following categories:
 
         Create success categories to add categories to your success goal and view the list of already created ones. For more information, see [Create a success goal category for software assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-sam-suc-cat.md).
 
-    -   **All active [[sam-value-builder|value builder]] tasks**
+    -   **All active value builder tasks**
 
         Create Value builder tasks for publisher packs that aren’t being fully used and view the list of already created ones. For more information, see [Create a Value builder task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-valuebuilder-task.md).
 
@@ -256,17 +256,4 @@ The License operations view includes the following categories:
 
     View the list of software products published in a phase-wise implementation of Software Asset Management. For more information, see [Manage phase-wise Software Asset Management implementation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/manage-phasewise-imp-of-sam.md).
 
-## Related
 
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_Contracts|Contracts]]
-- [[cloud-cost-simulator|Cloud cost simulation]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[create-consumption-rule|Create consumption rules]]
-- [[c_Models|Models]]
-- [[sam-software-discovery|Software discovery]]
-- [[create-sap-pricelist|Create custom SAP price lists]]
-- [[customppn-swap|Custom publisher part numbers \(PPN\)]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[maturity-item-details|Maturity item details]]
-- [[sam-value-builder|Value builder]]

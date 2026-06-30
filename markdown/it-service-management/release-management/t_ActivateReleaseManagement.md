@@ -14,7 +14,7 @@ breadcrumb: [Release Management, IT Service Management]
 
 # Activate Release Management
 
-Activate the [[c_ITILReleaseManagement|Release Management]] plugin \(com.snc.release\_management\_v2\) with the admin role.
+Activate the Release Management plugin \(com.snc.release\_management\_v2\) with the admin role.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System [[dex-workspace-application-tab|Applications]]** &gt; **All Available Applications** &gt; **All**.
+1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
 2.  Find the plugin using the filter criteria and search bar.
 
@@ -40,7 +40,3 @@ Several types of components are installed with activation of the Release Managem
 
 **Parent Topic:**[Release Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/release-management/c_ITILReleaseManagement.md)
 
-## Related
-
-- [[c_ITILReleaseManagement|Release Management]]
-- [[dex-workspace-application-tab|Applications]]

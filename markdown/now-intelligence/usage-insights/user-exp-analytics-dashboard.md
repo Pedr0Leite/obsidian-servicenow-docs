@@ -14,9 +14,9 @@ breadcrumb: [Exploring Usage Insights, Usage Insights, Platform Analytics]
 
 # Navigating the Usage Insights application
 
-Understand how to navigate the [[user-exp-analytics-landing|Usage Insights]] application, including the **All Applications** and individual application views.
+Understand how to navigate the Usage Insights application, including the **All Applications** and individual application views.
 
-Users with any Usage Insights viewer role can access the application by navigating to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Usage Insights**.
+Users with any Usage Insights viewer role can access the application by navigating to **All** &gt; **Platform Analytics** &gt; **Usage Insights**.
 
 Different users have different rights and privileges in the Usage Insights application. For more information, see [Roles installed with Usage Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/components-installed-user-exp-analytics.md).
 
@@ -48,7 +48,7 @@ You can view basic application usage and event details for all applications with
 
 The individual application view has more detailed information for a specified application.
 
-The Analysis menu items provide access to the Retention, Cohort analysis, Conversion funnel, and [[view-navigation-paths|Navigation paths]] modules. The Data Foundation menu items provide access to the Users, Sessions, Events, and Pages modules.
+The Analysis menu items provide access to the Retention, Cohort analysis, Conversion funnel, and Navigation paths modules. The Data Foundation menu items provide access to the Users, Sessions, Events, and Pages modules.
 
 |Module|Description|
 |------|-----------|
@@ -160,8 +160,3 @@ List of pages with the most views and most sessions. Select any entry in the lis
 
 **Parent Topic:**[Exploring Usage Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/exploring-user-exp-analytics.md)
 
-## Related
-
-- [[user-exp-analytics-landing|Usage Insights]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[view-navigation-paths|Navigation paths]]

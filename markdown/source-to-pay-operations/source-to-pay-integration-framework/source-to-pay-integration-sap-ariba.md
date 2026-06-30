@@ -20,8 +20,8 @@ The Source-to-Pay integration with SAP Ariba enables you to handle sales orders,
 
 With this application, you can perform the following:
 
--   Integration hub actions for [[invoices|invoices]], cost centers, [[payment-terms|payment terms]], purchasing organizations, departments, GL accounts, currencies, FX rates, invoice payment details, suppliers, and legal entities.
--   Create goods [[receipts|receipts]] in SAP Ariba.
+-   Integration hub actions for invoices, cost centers, payment terms, purchasing organizations, departments, GL accounts, currencies, FX rates, invoice payment details, suppliers, and legal entities.
+-   Create goods receipts in SAP Ariba.
 
 ## Prerequisites
 
@@ -42,8 +42,3 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 The subflows enable a plug-and-play experience for the integration scenarios. Integration Hub Actions provide the building blocks for Source-to-Pay subflows and connects to the SAP Ariba system through REST APIs.
 
-## Related
-
-- [[invoices|Invoices]]
-- [[payment-terms|Payment terms]]
-- [[receipts|Receipts]]

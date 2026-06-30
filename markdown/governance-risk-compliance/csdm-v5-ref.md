@@ -25,7 +25,7 @@ Reference topics provide additional information about CSDM, including the associ
 |Contract \[ast\_contract\]|Details of the Contracts table.|
 |Contract CIs \[contract\_rel\_ci\]|Details of the Contract Configuration item \(CIs\) table.|
 |Core company \[core\_company\]|Details of the Core company table.|
-|Entity types \[sn\_grc\_profile\_type\]|Details of the [[entity-type-in-risk-ws|Entity types]] table.|
+|Entity types \[sn\_grc\_profile\_type\]|Details of the Entity types table.|
 |Location \[cmn\_location\]|Details of the Location table. Includes location details of the object.|
 |Pillars \[sn\_grc\_choice\]|Details of the Pillars table.|
 |Profile \[sn\_grc\_profile\]|Details of the Profile table.|
@@ -36,6 +36,3 @@ Reference topics provide additional information about CSDM, including the associ
 |Sys relationships \[sys\_relationship\]|Details of the System relationships table.|
 |Vendor \[sn\_risk\_asmt\_vendor\_engagement\]|Details of the vendor engagement covered in the Vendor table.|
 
-## Related
-
-- [[entity-type-in-risk-ws|Entity types]]

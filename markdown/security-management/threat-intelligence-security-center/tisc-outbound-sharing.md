@@ -22,7 +22,7 @@ Role required: sn\_sec\_tisc.admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Administration** &gt; **Outbound Intel Sharing**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center** &gt; **Administration** &gt; **Outbound Intel Sharing**.
 
 2.  Select **Outbound Intel Sharing Controls**.
 
@@ -46,7 +46,7 @@ Role required: sn\_sec\_tisc.admin
 5.  **Managing Entity-Level Sharing Controls:**
 6.  Go to **Sharing Controls** section to view all the sharing controls available for the entities.
 
-    By default all [[threat-intel-landing-page|threat intelligence]] library entities present in the application including the [[c_Observables|observables]], indicator, and objects are included.
+    By default all threat intelligence library entities present in the application including the observables, indicator, and objects are included.
 
 7.  Select any entity to view its required and optional attributes.
 
@@ -96,8 +96,3 @@ Refer to the following sections for guidance on external intelligence sharing us
 
 [Working on the Redaction Library]()
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[c_Observables|Observables]]

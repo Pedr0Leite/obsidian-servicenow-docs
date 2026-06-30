@@ -14,7 +14,7 @@ breadcrumb: [Footer configuration, Admin configurations, Configuring Employee Ce
 
 # Footer form
 
-Use the Footer form to create a new footer that you want to appear in the [[employee-center-landing-page|Employee Center]] or [[employee-center-pro-landing|Employee Center Pro]].
+Use the Footer form to create a new footer that you want to appear in the Employee Center or Employee Center Pro.
 
 |Field|Description|
 |-----|-----------|
@@ -40,7 +40,7 @@ Use the Footer form to create a new footer that you want to appear in the [[empl
 
 [Connected Content form]()
 
-[Default [[emp-slate-employee-profile|Employee Profile]] Header Configuration record]()
+[Default Employee Profile Header Configuration record]()
 
 [Employee Center widgets]()
 
@@ -68,7 +68,7 @@ Use the Footer form to create a new footer that you want to appear in the [[empl
 
 [Portal notification configuration form]()
 
-[Portal [[ec-notification-content|notification content]] form]()
+[Portal notification content form]()
 
 [Trigger conditions form]()
 
@@ -90,9 +90,3 @@ Use the Footer form to create a new footer that you want to appear in the [[empl
 
 [Website configuration form]()
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[ec-notification-content|Notification content]]

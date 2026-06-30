@@ -14,7 +14,7 @@ breadcrumb: [Reference, Leader Hub, HR Service Delivery, Employee Service Manage
 
 # Create a conversation form
 
-Use the [[create-conversation-form|Create a conversation form]] to schedule a conversation with an employee when the Microsoft Outlook integration isn’t enabled for [[td-lh-landing|Leader Hub]].
+Use the Create a conversation form to schedule a conversation with an employee when the Microsoft Outlook integration isn’t enabled for Leader Hub.
 
 <table id="table_a3r_m54_4cc"><thead><tr><th>
 
@@ -83,7 +83,3 @@ Close this conversation.
 </td></tr></tbody>
 </table>**Parent Topic:**[Leader Hub reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/td-lh-reference.md)
 
-## Related
-
-- [[create-conversation-form|Create a conversation form]]
-- [[td-lh-landing|Leader Hub]]

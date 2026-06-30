@@ -22,9 +22,9 @@ Role required: sn\_eam.enterprise\_asset\_manager, sn\_eam.asset\_technician, sn
 
 ## About this task
 
-You can use the [Mobile Agent application for Enterprise Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/eam-mobile-agent-app.md) to scan asset tags or enter them manually. If an asset is scanned but its asset tag does not exist in our database, then by default, that asset is mapped to an unknown model record. The unknown model record appears on the **All enterprise [[c_Models|models]]** tab of the **Model Management** view in the [[using-eam-workspace|Enterprise Asset Workspace]]. The asset manager manually associates this asset to the appropriate model. You can't change, update or delete an unknown model.
+You can use the [Mobile Agent application for Enterprise Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/eam-mobile-agent-app.md) to scan asset tags or enter them manually. If an asset is scanned but its asset tag does not exist in our database, then by default, that asset is mapped to an unknown model record. The unknown model record appears on the **All enterprise models** tab of the **Model Management** view in the Enterprise Asset Workspace. The asset manager manually associates this asset to the appropriate model. You can't change, update or delete an unknown model.
 
-**Note:** Starting with [[enterprise-asset-management|Enterprise Asset Management]] version 9.0, you can also audit the licensed hardware assets in the Enterprise Asset Workspace only if the [[ham-landing-page|Hardware Asset Management]] application is activated.
+**Note:** Starting with Enterprise Asset Management version 9.0, you can also audit the licensed hardware assets in the Enterprise Asset Workspace only if the Hardware Asset Management application is activated.
 
 ## Procedure
 
@@ -47,7 +47,7 @@ The asset audit inventory record is created and appears with the **Expected Asse
 
 ## What to do next
 
-Scan the assets in the inventory using the [[agent-mobile-asset|ServiceNow Agent app]].
+Scan the assets in the inventory using the ServiceNow Agent app.
 
 **Parent Topic:**[Stockroom audit access by role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/stockroom-audit-access-eam.md)
 
@@ -62,10 +62,3 @@ Scan the assets in the inventory using the [[agent-mobile-asset|ServiceNow Agent
 
 [Complete multi scan enterprise asset inventory audit using the ServiceNow Agent app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/complete-multi-scan-inventory-audit-using-mobile-app-eam.md)
 
-## Related
-
-- [[c_Models|Models]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[ham-landing-page|Hardware Asset Management]]
-- [[agent-mobile-asset|ServiceNow Agent app]]

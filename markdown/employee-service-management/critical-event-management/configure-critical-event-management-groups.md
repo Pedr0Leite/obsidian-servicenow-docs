@@ -59,16 +59,16 @@ After you configure group-to-location mapping, the responder groups are automati
 
 5.  Open the new group and add members and roles for the members.
 
-    **Note:** Assign the following roles to agent groups to enable them to create [[health-safety-overview|Health and Safety]] incidents through [[critical-event-management|Critical Event Management]]:
+    **Note:** Assign the following roles to agent groups to enable them to create Health and Safety incidents through Critical Event Management:
 
     -   sn\_ohs\_im.incident\_reader
     -   sn\_ohs\_im.incident\_writer
     -   sn\_ohs\_im.incident\_create
 
 -   **[Add members to the group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/add-members-group.md)**  
-[[add-members-group|Add members to the group]] mapped to a location.
+Add members to the group mapped to a location.
 -   **[Add roles to a member](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/add-member-roles.md)**  
-[[add-member-roles|Add roles to a member]] of the group mapped to a location.
+Add roles to a member of the group mapped to a location.
 -   **[Add roles to the group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/add-group-roles.md)**  
 Add roles to groups that are mapped to a location.
 -   **[Map on-site responder group with location](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/map-on-site-responder-group.md)**  
@@ -76,9 +76,3 @@ Map the on-site responder groups with the location, enabling these groups to be 
 
 **Parent Topic:**[Configuring Critical Event Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/configure-critical-event-management.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[critical-event-management|Critical Event Management]]
-- [[add-members-group|Add members to the group]]
-- [[add-member-roles|Add roles to a member]]

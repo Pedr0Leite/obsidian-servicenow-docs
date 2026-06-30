@@ -20,7 +20,7 @@ This section describes some common errors in Virtual Agent API and how they can 
 
 **Request structure:**
 
-[[virtual-agent-api-landing-page|Virtual Agent API]] expects the following JSON structure:
+Virtual Agent API expects the following JSON structure:
 
 ```
 {
@@ -250,6 +250,3 @@ The `emailId` must match a `sys_user` record that meets all of the below conditi
 
 **Parent Topic:**[Virtual Agent API reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/virtual-agent-api-reference.md)
 
-## Related
-
-- [[virtual-agent-api-landing-page|Virtual Agent API]]

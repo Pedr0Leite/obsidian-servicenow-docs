@@ -15,7 +15,7 @@ breadcrumb: [Install Kubernetes Visibility Agent \(KVA\) Informer, Configuring K
 
 # Create a cmdb\_ci\_linux\_server CI for each Kubernetes node
 
-Configure if you want the [[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]] Informer to create a cmdb\_ci\_linux\_server CI for each Kubernetes node.
+Configure if you want the Kubernetes Visibility Agent Informer to create a cmdb\_ci\_linux\_server CI for each Kubernetes node.
 
 ## Before you begin
 
@@ -37,6 +37,3 @@ By default, the Informer creates a cmdb\_ci\_linux\_server CI for every Kubernet
 
 **Parent Topic:**[Install Kubernetes Visibility Agent \(KVA\) Informer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cnov-deploy-install.md)
 
-## Related
-
-- [[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]]

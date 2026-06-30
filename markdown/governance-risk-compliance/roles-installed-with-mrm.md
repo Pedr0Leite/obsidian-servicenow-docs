@@ -12,7 +12,7 @@ breadcrumb: [Reference, Model Risk Management, Governance, Risk, and Compliance]
 
 # Roles installed with Model Risk Management
 
-The [[model-risk-management|Model Risk Management]] application installs the essential roles to perform respective day-to-day operational tasks for managing models.
+The Model Risk Management application installs the essential roles to perform respective day-to-day operational tasks for managing models.
 
 <table id="table_m2t_czq_mqb"><thead><tr><th>
 
@@ -36,7 +36,7 @@ MRM Admin
 
 The MRM \(Model Risk Management\) admin can perform the following tasks:-   Configure approval configurations for Model Risk Management.
 -   Create Model Risk Management scoring configurations.
--   Create or modify [[airc-assessment-templates|assessment templates]] that belong to Model Risk Management category from the [[model-risk-workspace|Model Risk Workspace]].
+-   Create or modify assessment templates that belong to Model Risk Management category from the Model Risk Workspace.
 
 </td><td>
 
@@ -150,7 +150,7 @@ Model Owner
 
 </td><td>
 
-Model Owner can perform the following tasks:-   Request new models from the [[employee-center|Employee Center]] or Service Portal.
+Model Owner can perform the following tasks:-   Request new models from the Employee Center or Service Portal.
 -   Perform a smart assessment from the GRC task page when either the business\_user or business\_user\_lite role is assigned.
 
 </td><td>
@@ -166,7 +166,7 @@ Model Risk Initiator
 
 </td><td>
 
-Model Risk Initiator can request new models from the Employee Center or Service Portal.**Note:** Model Risk initiators can only [[request-new-model|request a new model]] but cannot perform assessments. They must define a model owner when raising the model request.
+Model Risk Initiator can request new models from the Employee Center or Service Portal.**Note:** Model Risk initiators can only request a new model but cannot perform assessments. They must define a model owner when raising the model request.
 
 </td><td>
 
@@ -175,13 +175,5 @@ Model Risk Initiator can request new models from the Employee Center or Service 
 </td></tr></tbody>
 </table>For more information, see the [Employee Center](https://www.servicenow.com/products/employee-center.html).
 
-**Parent Topic:**[[mrm-reference|Model Risk Management reference]]
+**Parent Topic:**[Model Risk Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/mrm-reference.md)
 
-## Related
-
-- [[mrm-reference|Model Risk Management reference]]
-- [[model-risk-management|Model Risk Management]]
-- [[airc-assessment-templates|Assessment templates]]
-- [[model-risk-workspace|Model Risk Workspace]]
-- [[employee-center|employee center]]
-- [[request-new-model|Request a new model]]

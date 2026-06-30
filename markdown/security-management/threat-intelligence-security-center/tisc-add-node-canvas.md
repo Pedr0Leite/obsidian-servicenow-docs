@@ -14,7 +14,7 @@ breadcrumb: [Working with Investigation Canvas, Threat Analyst Workbench, Use, T
 
 # Adding a new node to the canvas
 
-Use this section to create and add new entities, including [[c_Observables|observables]] or objects, directly from the investigation canvas.
+Use this section to create and add new entities, including observables or objects, directly from the investigation canvas.
 
 ## Before you begin
 
@@ -24,9 +24,9 @@ Role required: sn\_sec\_tisc.analyst
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center**.
 
-2.  Select the **[[threat-analyst-workbench|Threat Analyst Workbench]]** icon.
+2.  Select the **Threat Analyst Workbench** icon.
 
 3.  Go to **Case Management** &gt; **All Cases**.
 
@@ -65,7 +65,7 @@ Select the entity category such as Observable, or Object.
 Select the entity type from the available options based on the select category.**Note:**
 
 -   When an entity type is selected, the corresponding object form is automatically displayed, showing the key fields such as Name and Description along with any required fields that are needed to identify the parent entity.
--   If you attempt to create a duplicate entity, which means if you select an entity, which is existing in the application and try to create one with the same value then an error message will appear indicating that the entity already exists in the [[threat-intel-landing-page|Threat Intelligence]] Library with the same value and type.
+-   If you attempt to create a duplicate entity, which means if you select an entity, which is existing in the application and try to create one with the same value then an error message will appear indicating that the entity already exists in the Threat Intelligence Library with the same value and type.
 
 
 </td></tr></tbody>
@@ -79,7 +79,7 @@ Select the entity type from the available options based on the select category.*
 
     **Important:** Newly added nodes are temporary and aren’t saved to the threat intelligence library or canvas. If you refresh the canvas before saving, these nodes will be lost. Make sure to save the canvas after adding any new nodes to retain your changes.
 
-9.  Right click on the new node and select **Add Relationship** option to create [[stix-relationships|relationships]] between the nodes.
+9.  Right click on the new node and select **Add Relationship** option to create relationships between the nodes.
 
     **Note:**
 
@@ -98,10 +98,3 @@ Select the entity type from the available options based on the select category.*
 
 **Parent Topic:**[Working with Investigation Canvas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-investigation-canvases.md)
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-analyst-workbench|Threat Analyst Workbench]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[stix-relationships|Relationships]]

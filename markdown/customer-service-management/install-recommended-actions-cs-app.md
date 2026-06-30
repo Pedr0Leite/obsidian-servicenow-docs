@@ -23,15 +23,15 @@ Role required: admin
 
 ## About this task
 
-The following items are installed with [[configure-nba|Recommended Actions]]:
+The following items are installed with Recommended Actions:
 
 -   Store applications: Recommended Actions
 -   Roles
 -   Tables
 
-For more information, see [[ra-csm-installed-components|Components installed with Recommended Actions]].
+For more information, see [Components installed with Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-installed-components.md).
 
-To create recommendations based on Artificial [[intelligence-csm|Intelligence]] and Machine Learning models developed using ServiceNow® Predictive Intelligence, install Recommended Actions - Advanced.
+To create recommendations based on Artificial Intelligence and Machine Learning models developed using ServiceNow® Predictive Intelligence, install Recommended Actions - Advanced.
 
 ## Procedure
 
@@ -55,8 +55,4 @@ To create recommendations based on Artificial [[intelligence-csm|Intelligence]] 
 
 6.  Select **Install**.
 
-## Related
 
-- [[ra-csm-installed-components|Components installed with Recommended Actions]]
-- [[configure-nba|Recommended Actions]]
-- [[intelligence-csm|Intelligence]]

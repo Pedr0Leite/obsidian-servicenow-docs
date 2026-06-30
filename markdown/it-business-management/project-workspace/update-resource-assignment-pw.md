@@ -24,7 +24,7 @@ In resource assignments, any changes made to the status of group resource assign
 
 ## About this task
 
-Before updating a resource assignment, verify the following to ensure accurate and effective [[r_AllocatingResources|resource allocation]]:
+Before updating a resource assignment, verify the following to ensure accurate and effective resource allocation:
 
 -   Resource availability: Check that the resource has available capacity during the assignment period. Overallocated resources are indicated with a warning icon.
 -   Primary attributes: Verify the resource has the required primary attributes such as, skills or roles matching the project task requirements.
@@ -34,7 +34,7 @@ Before updating a resource assignment, verify the following to ensure accurate a
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[project-workspace-landing-page|Project Workspace]]** and open a project.
+1.  Navigate to **Workspaces** &gt; **Project Workspace** and open a project.
 
 2.  View the resource assignment pane by enabling the **Resource assignments** toggle button.
 
@@ -62,7 +62,3 @@ Before updating a resource assignment, verify the following to ensure accurate a
 
 [Realign resource assignments with project dates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/realign-resource-assignment-to-task.md)
 
-## Related
-
-- [[r_AllocatingResources|Resource allocation]]
-- [[project-workspace-landing-page|Project Workspace]]

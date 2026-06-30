@@ -12,7 +12,7 @@ breadcrumb: [MITRE D3FEND framework, Threat Intelligence, Enterprise security ca
 
 # Ingest MITRE D3FEND data
 
-Ingest MITRE D3FEND data \(tactics, techniques, and artifacts\) from the MITRE website to [[integrating-threat-intelligence-security-center|integrate]] with the [[sir-landing-page|Security Incident Response]] application.
+Ingest MITRE D3FEND data \(tactics, techniques, and artifacts\) from the MITRE website to integrate with the Security Incident Response application.
 
 ## Before you begin
 
@@ -26,7 +26,4 @@ Role required: sn\_ti.admin
 
 3.  Select **Execute Now** to start the data ingestion.
 
-## Related
 
-- [[integrating-threat-intelligence-security-center|Integrate]]
-- [[sir-landing-page|Security Incident Response]]

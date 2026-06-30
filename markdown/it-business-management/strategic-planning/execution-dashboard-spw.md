@@ -20,7 +20,7 @@ The Execution Dashboard provides various analytics across different tabs, includ
 
 ## Overview tab in the Execution Dashboard
 
-\[Omitted image "execution-dashboard-overview-spw.gif"\] Alt text: Execution Dashbaord-Overview in [[alignment-planner-workspace-landing-page|Strategic Planning]].
+\[Omitted image "execution-dashboard-overview-spw.gif"\] Alt text: Execution Dashbaord-Overview in Strategic Planning.
 
 |Widget/Visualization|Description|
 |--------------------|-----------|
@@ -70,7 +70,7 @@ The Execution Dashboard provides various analytics across different tabs, includ
 
 ## Capacity tab in the Execution Dashboard
 
-\[Omitted image "execution-dashboard-capacity-spw.gif"\] Alt text: Execution Dashbaord-[[capacity-planning-spw|Capacity in Strategic Planning]].
+\[Omitted image "execution-dashboard-capacity-spw.gif"\] Alt text: Execution Dashbaord-Capacity in Strategic Planning.
 
 |Widget/Visualization|Description|
 |--------------------|-----------|
@@ -115,7 +115,3 @@ The Execution Dashboard provides various analytics across different tabs, includ
 
 **Parent Topic:**[Exploring Dashboards in Strategic Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/exploring-dashboards-spw.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[capacity-planning-spw|Capacity in Strategic Planning]]

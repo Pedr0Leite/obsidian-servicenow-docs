@@ -14,19 +14,19 @@ breadcrumb: [Configure, Smart Assessment Engine, Governance, Risk, and Complianc
 
 # Triggering assessments
 
-You can trigger a [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] assessment from the Workflow Studio or from a script. With either method, you specify a published assessment template, the assessors who respond, and other optional inputs.
+You can trigger a Smart Assessment Engine assessment from the Workflow Studio or from a script. With either method, you specify a published assessment template, the assessors who respond, and other optional inputs.
 
 **Important:** You can create an assessment only from a published assessment template.
 
 -   **Trigger an assessment from Workflow Studio**
 
-    [[sae-asmnt-trigger-from-flow|Configure the Trigger Smart Assessment flow action]] to initiate the Smart Assessment Engine assessments and send them to the specified assessors. You then add the action to your flow.
+    Configure the Trigger Smart Assessment flow action to initiate the Smart Assessment Engine assessments and send them to the specified assessors. You then add the action to your flow.
 
     For more information, see [Configure the Trigger Smart Assessment Flow action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-asmnt-trigger-from-flow.md).
 
 -   **Trigger an assessment from a script**
 
-    Use a script to execute the [[sae-asmt-flow-actions-subflows|Trigger Smart Assessment flow action]] to generate Smart Assessment Engine assessments and assign them to the assessors.
+    Use a script to execute the Trigger Smart Assessment flow action to generate Smart Assessment Engine assessments and assign them to the assessors.
 
     An example trigger condition might be that the state in the control table changes to **Attest**.
 
@@ -42,8 +42,3 @@ You can trigger a [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] as
 
 [Create a flow in Workflow Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/create-flow.md)
 
-## Related
-
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]
-- [[sae-asmnt-trigger-from-flow|Configure the Trigger Smart Assessment Flow action]]
-- [[sae-asmt-flow-actions-subflows|Trigger Smart Assessment flow action]]

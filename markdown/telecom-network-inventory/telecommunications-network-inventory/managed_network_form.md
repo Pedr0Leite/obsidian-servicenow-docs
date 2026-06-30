@@ -14,7 +14,7 @@ breadcrumb: [Reference, Telecommunications Network Inventory]
 
 # Managed Network form
 
-The Managed network form enables you to manage a network in the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+The Managed network form enables you to manage a network in the Telecommunications Network Inventory application.
 
 <table id="table_kpf_5rz_zxb"><thead><tr><th>
 
@@ -576,6 +576,3 @@ Configuration \(CI\) that you can select to create the Telecommunications Networ
 
 [Create Managed Network](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create_managed_network.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]

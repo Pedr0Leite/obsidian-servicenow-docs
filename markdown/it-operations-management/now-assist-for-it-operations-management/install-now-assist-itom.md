@@ -31,7 +31,7 @@ Install Now Assist plugins to enable generative AI and agentic AI on your instan
 
 1.  Go to the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) website.
 
-2.  In the search bar, enter `[[now-assist-itom|Now Assist for ITOM]]` and then select **Search**.
+2.  In the search bar, enter `Now Assist for ITOM` and then select **Search**.
 
 3.  Select the Now Assist for ITOM widget and then select **Get** to make this application available for installation on your instance\(s\).
 
@@ -39,7 +39,7 @@ Install Now Assist plugins to enable generative AI and agentic AI on your instan
 
     1.  Navigate to **All** &gt; **System Definition** &gt; **Plugins**.
 
-    2.  Search for Now Assist for [[r_ITOMApplications|IT Operations Management]] \(ITOM\).
+    2.  Search for Now Assist for IT Operations Management \(ITOM\).
 
     3.  Select **Install**.
 
@@ -51,7 +51,3 @@ Install Now Assist plugins to enable generative AI and agentic AI on your instan
 
 [View an alert analysis by Now Assist in Express List](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/alert-summary-now-assist-express-list.md)
 
-## Related
-
-- [[now-assist-itom|Now Assist for ITOM]]
-- [[r_ITOMApplications|IT Operations Management]]

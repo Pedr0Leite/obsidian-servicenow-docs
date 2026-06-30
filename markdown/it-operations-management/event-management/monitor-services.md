@@ -14,7 +14,7 @@ breadcrumb: [Monitor service health, Using Event Management, Event Management, I
 
 # View monitored services
 
-View all services that [[c_EM|Event Management]] supports, such as, alert groups, discovered services, application services, and technical services. According to the type of service, you can view service definition details or drill down into the service.
+View all services that Event Management supports, such as, alert groups, discovered services, application services, and technical services. According to the type of service, you can view service definition details or drill down into the service.
 
 ## Before you begin
 
@@ -48,6 +48,3 @@ Role required: evt\_mgmt\_user
 
 [Monitor service health](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMViewDashboard.md)
 
-## Related
-
-- [[c_EM|Event Management]]

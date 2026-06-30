@@ -14,7 +14,7 @@ breadcrumb: [Activate Service Level Management, Service Level Management plugins
 
 # Installed with Service Level Management
 
-Activating the [[service-level-mgmt-landing-page|Service Level Management]] plugin adds or modifies these components: tables, properties, UI actions, UI policies, script includes, client scripts, business rules, email notifications, scheduled jobs, and workflows.
+Activating the Service Level Management plugin adds or modifies these components: tables, properties, UI actions, UI policies, script includes, client scripts, business rules, email notifications, scheduled jobs, and workflows.
 
 **Parent Topic:**[Activate Service Level Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/activate-sla-plugin.md)
 
@@ -54,6 +54,3 @@ Scheduled jobs are added with Service Level Management.
 |SLA update \(breach within 10 min\)|Refreshes the timings in task SLA records where the breach time is in the next 10 minutes This job runs every minute.|
 |SLA update \(breach within 30 days\)|Refreshes the timings in task SLA records where the breach time is more than 1 day away and less than 30 days away. This job runs once a day.|
 
-## Related
-
-- [[service-level-mgmt-landing-page|Service Level Management]]

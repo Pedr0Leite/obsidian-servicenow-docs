@@ -14,11 +14,11 @@ breadcrumb: [Configure, Enterprise Asset Management, IT Asset Management]
 
 # Create model categories
 
-You can create model categories for the [[enterprise-asset-management|Enterprise Asset Management]] application.
+You can create model categories for the Enterprise Asset Management application.
 
 ## Before you begin
 
-Various base [[model-hierarchy|model categories]] are already available for you to choose from.
+Various base model categories are already available for you to choose from.
 
 Keep the following in mind while creating model categories:
 
@@ -33,7 +33,7 @@ Role required: sn\_eam.enterprise\_admin or sn\_eam.enterprise\_asset\_manager
 
 ## Procedure
 
-1.  Navigate to **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Admin center** &gt; **Model categories**.
+1.  Navigate to **Enterprise Asset Workspace** &gt; **Admin center** &gt; **Model categories**.
 
 2.  Select **New**.
 
@@ -105,9 +105,9 @@ Asset class
 
 Asset class that you want to associate the model category with. You can select a default asset class, such as **Enterprise Asset**, or any new asset class that you have created. If you select **Consumable** or **Software License**, the **CI class** field becomes read-only since consumables and software licenses do not create CIs. If you specify a CI class and then select **Consumable** or **Software License**, the**CI class** field automatically changes to **None**.
 
- **Important:** You can [[select-daas-asset|select an asset]] class after you have created the model category, but you can't change it after it has been selected.
+ **Important:** You can select an asset class after you have created the model category, but you can't change it after it has been selected.
 
- After you associate the model category with an asset class, the Enterprise Asset Management application can automatically [[t_CreatingAssets|create assets]] based on the given model category.
+ After you associate the model category with an asset class, the Enterprise Asset Management application can automatically create assets based on the given model category.
 
 </td></tr><tr><td>
 
@@ -115,7 +115,7 @@ Allow pre-allocation
 
 </td><td>
 
-Option to allow items under this model category to be added and tracked as [[pre-allocated-asset|pre-allocated assets]].
+Option to allow items under this model category to be added and tracked as pre-allocated assets.
 
 </td></tr><tr><td>
 
@@ -155,14 +155,5 @@ Option to prevent the Enterprise Asset Management application from automatically
 
 ## Result
 
-The model category is created. You can perform additional configurations on the model category by entering details in the **Product [[c_Models|Models]]** tab.
+The model category is created. You can perform additional configurations on the model category by entering details in the **Product Models** tab.
 
-## Related
-
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[model-hierarchy|Model categories]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[select-daas-asset|Select an asset]]
-- [[t_CreatingAssets|Create assets]]
-- [[pre-allocated-asset|Pre-allocated assets]]
-- [[c_Models|Models]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, Telecommunications Network Inventory]
 
 # Configuring decision tables for Telecommunications Network Inventory
 
-You can configure decision tables to resolve complex tasks in the [[telecom-network-inventory|Telecommunications Network Inventory]] application. For example, you can create, review, or delete an entry for tasks in a decision table in Decision Builder.
+You can configure decision tables to resolve complex tasks in the Telecommunications Network Inventory application. For example, you can create, review, or delete an entry for tasks in a decision table in Decision Builder.
 
 By using a decision table, you can add the required conditions to automate your tasks. Decision tables in Decision Builder embed business logic into a series of if-then decision rules. Decision tables read data from the inputs and evaluate the data according to the specified conditions. When all the conditions for a decision rule are met, the decision table returns one or more results. To learn more, see [Decision Tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/decision-table.md).
 
@@ -42,6 +42,3 @@ Customize the validation process of a CI \(Configuration Item\) using the Teleco
 
 [Exploring Decision Tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/decision-designer-overview.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]

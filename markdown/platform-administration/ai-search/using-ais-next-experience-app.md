@@ -14,7 +14,7 @@ breadcrumb: [AI Search for Next Experience, ServiceNow Store applications and in
 
 # Using global search with AI Search for Next Experience
 
-Global search enables you to search multiple record types at once from the Next Experience Unified Navigation search field. You can switch between global search [[hs-results|results]] and results from workspace applications that you have access to.
+Global search enables you to search multiple record types at once from the Next Experience Unified Navigation search field. You can switch between global search results and results from workspace applications that you have access to.
 
 ## Search in the Unified Navigation search field
 
@@ -26,7 +26,7 @@ To use global search, enter your search query in the Unified Navigation search f
 
 The search results page displays a list of previews for records that match your search query. You can open any search result record in a new browser tab by selecting its preview in the list. Your search remains open in your original browser tab, so you can return to it and refine it.
 
-**Note:** [[ia-ai-search|AI Search]] administrators can configure search results to open in the same browser tab as the search. To make this change, edit the EVAM configuration bundle from the EVAM definition for the **\[AIS\] Next Experience Search Configuration** search application, setting the **forceNewTab** property to false in the relevant Search Result card EVAM view [[clone-configurations-tab|configurations]]. For more details on editing EVAM display settings for search results, see [Configure EVAM display settings for search results in AI Search applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-search-result-card-opts.md) and [List of Search Result EVAM card properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/search-result-evam-card-opts.md).
+**Note:** AI Search administrators can configure search results to open in the same browser tab as the search. To make this change, edit the EVAM configuration bundle from the EVAM definition for the **\[AIS\] Next Experience Search Configuration** search application, setting the **forceNewTab** property to false in the relevant Search Result card EVAM view configurations. For more details on editing EVAM display settings for search results, see [Configure EVAM display settings for search results in AI Search applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-search-result-card-opts.md) and [List of Search Result EVAM card properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/search-result-evam-card-opts.md).
 
 \[Omitted image "unified-nav-ai-search-results.png"\] Alt text: Global search results page showing search results for a service desk search query.
 
@@ -52,7 +52,7 @@ For example, suppose you select the **Incident** source facet bucket to view onl
 
 To remove an applied facet filter, select **Clear** by the facet field name, or **Clear all** to remove all applied filters at once. You can hide the Filters list by selecting **Hide filters**.
 
-AI Search administrators can define facets in [[defining-search-app-cfgs-ais|search application configurations]]. For details, see [Create a facet in an AI Search application configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-facet-ais.md).
+AI Search administrators can define facets in search application configurations. For details, see [Create a facet in an AI Search application configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-facet-ais.md).
 
 In the base system, facets don't appear in the Filters list until you've selected a source facet bucket. Administrators can override this behavior and show all available facets in the Filters list by creating a **glide.ui.ais.show\_all\_facets** system property record and setting its value to **true**. For more details on this system property, see [AI Search for Next Experience properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/ai-search-next-experience-properties.md).
 
@@ -112,9 +112,9 @@ Exact matches open in the selected workspace application. For example, if you se
 
 ## Customize display fields for your search result previews
 
-Search result previews display a default set of [[index-fields-list-ais|AI Search index fields]]. If you have the ais\_admin role, you can customize the set of index fields a search result preview displays by modifying its EVAM view configuration. For information on EVAM view configurations, see [Entity View Action Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/exploring-entity-view-action-mapper.md).
+Search result previews display a default set of AI Search index fields. If you have the ais\_admin role, you can customize the set of index fields a search result preview displays by modifying its EVAM view configuration. For information on EVAM view configurations, see [Entity View Action Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/exploring-entity-view-action-mapper.md).
 
-When customizing a search result preview's EVAM view configuration, you can [[reference-email-admin|reference]] the AI Search index fields that exist on the previewed search result. To add a new AI Search index field to search results from an indexed source, define a **map\_to** field setting. This field setting populates the index field on each affected search result with the value of a field you specify from the search result's source record or document. For an overview of mapping source fields to AI Search index fields, see [Field settings for AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/field-settings-ais.md). To create a new **map\_to** field setting for one of your indexed sources, see [Create a field setting for an AI Search indexed source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-field-setting-ais.md).
+When customizing a search result preview's EVAM view configuration, you can reference the AI Search index fields that exist on the previewed search result. To add a new AI Search index field to search results from an indexed source, define a **map\_to** field setting. This field setting populates the index field on each affected search result with the value of a field you specify from the search result's source record or document. For an overview of mapping source fields to AI Search index fields, see [Field settings for AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/field-settings-ais.md). To create a new **map\_to** field setting for one of your indexed sources, see [Create a field setting for an AI Search indexed source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-field-setting-ais.md).
 
 ## Now Assist in Virtual Agent enhanced chat entry point
 
@@ -134,11 +134,3 @@ To learn about Now Assist in Virtual Agent enhanced chat, see [Enhanced chat](ht
 
 **Parent Topic:**[AI Search for Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/ais-next-experience-app.md)
 
-## Related
-
-- [[hs-results|Results]]
-- [[ia-ai-search|AI Search]]
-- [[clone-configurations-tab|Configurations]]
-- [[defining-search-app-cfgs-ais|Search application configurations]]
-- [[index-fields-list-ais|AI Search index fields]]
-- [[reference-email-admin|Reference]]

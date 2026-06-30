@@ -12,7 +12,7 @@ breadcrumb: [Operational Technology]
 
 # AI Enhanced Recommended Actions for Operational Technology Service Management \(OTSM\)
 
-The AI Enhanced Recommended Actions for Operational Technology Service Management \(OTSM\) feature accesses external sources related to an [[operational-technology-overview|Operational Technology]] \(OT\) incident, and contextualizes how the document is relevant to the incident.
+The AI Enhanced Recommended Actions for Operational Technology Service Management \(OTSM\) feature accesses external sources related to an Operational Technology \(OT\) incident, and contextualizes how the document is relevant to the incident.
 
 ## Get started
 
@@ -42,7 +42,3 @@ The AI Enhanced Recommended Actions for Operational Technology Service Managemen
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[operational-technology-overview|Operational Technology]]

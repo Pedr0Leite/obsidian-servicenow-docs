@@ -22,9 +22,9 @@ Role required: sn\_vul.exception\_approver
 
 ## About this task
 
-You can also request an extension from the [[vr-wkspace-overview-v16|Vulnerability Response Workspaces]]. For more information, see [Request an extension for a deferred vulnerable item in the Vulnerability Manager workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-manager-workspace/extend-defer-vul-item-ws.md).
+You can also request an extension from the Vulnerability Response Workspaces. For more information, see [Request an extension for a deferred vulnerable item in the Vulnerability Manager workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-manager-workspace/extend-defer-vul-item-ws.md).
 
-**Note:** Starting with v14.9 of [[vr-config-compliance-landing|Configuration Compliance]], the following terms have been renamed:
+**Note:** Starting with v14.9 of Configuration Compliance, the following terms have been renamed:
 
 |Terminology prior to v14.9|Terminology v14.9 onwards|
 |--------------------------|-------------------------|
@@ -91,7 +91,3 @@ Enter any other relevant information.
     -   The request goes through two levels of approval.
     -   If a deferred exception rule is extended again, the extend deferral count increases in the backend.
 
-## Related
-
-- [[vr-wkspace-overview-v16|Vulnerability Response Workspaces]]
-- [[vr-config-compliance-landing|Configuration Compliance]]

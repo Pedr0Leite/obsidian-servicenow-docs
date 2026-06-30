@@ -45,8 +45,5 @@ For more information about application scoping, see [Application scope](https://
 
 For more information about selecting update sets, see [Select the current update set in Unified Navigation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/select-update-set-system-settings.md).
 
-**Parent Topic:**[[using-legacy-application-manager|Using Legacy Application Manager]]
+**Parent Topic:**[Using Legacy Application Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/using-legacy-application-manager.md)
 
-## Related
-
-- [[using-legacy-application-manager|Using Legacy Application Manager]]

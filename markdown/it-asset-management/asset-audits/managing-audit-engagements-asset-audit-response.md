@@ -14,7 +14,7 @@ breadcrumb: [Asset Audit Response, IT Asset Management]
 
 # Managing engagements for financial regulatory audits
 
-If you are an audit manager, you can create and manage engagements for your financial regulatory audits in the [[audit-workspace|Audit Workspace]].
+If you are an audit manager, you can create and manage engagements for your financial regulatory audits in the Audit Workspace.
 
 ## Overview of managing engagements for financial regulatory audits
 
@@ -28,6 +28,4 @@ Create and manage engagements for your financial regulatory audits by performing
 
     Create an activity that explores and provides documented evidence of whether the associated control is operating correctly or not.
 
-## Related
 
-- [[audit-workspace|Audit Workspace]]

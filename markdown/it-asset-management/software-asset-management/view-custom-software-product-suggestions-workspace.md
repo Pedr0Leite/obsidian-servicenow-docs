@@ -14,7 +14,7 @@ breadcrumb: [Using Software Asset Workspace, Software Asset Management, IT Asset
 
 # View custom software product suggestions in workspace
 
-View the product suggestions that enable you to consolidate your custom software products with corresponding software products in the [[c_SoftwareAssetMgmt|Software Asset Management]] Content Library. By consolidating these software products, you can update all references to your custom software products with references to the software products in the Content Library. You can choose to accept or reject these suggestions.
+View the product suggestions that enable you to consolidate your custom software products with corresponding software products in the Software Asset Management Content Library. By consolidating these software products, you can update all references to your custom software products with references to the software products in the Content Library. You can choose to accept or reject these suggestions.
 
 ## Before you begin
 
@@ -29,9 +29,9 @@ You can add custom software products for any publicly available software product
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sam-workspace|Software Asset Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Software Asset Workspace**.
 
-2.  From the Software Asset Workspace, open the [[operations-workspace|License operations view]].
+2.  From the Software Asset Workspace, open the License operations view.
 
 3.  From the navigation menu of the License operations view, navigate to **Content** &gt; **Custom software product suggestions**.
 
@@ -44,8 +44,3 @@ You can add custom software products for any publicly available software product
 
 **Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/using-sam-workspace.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[operations-workspace|License operations view]]

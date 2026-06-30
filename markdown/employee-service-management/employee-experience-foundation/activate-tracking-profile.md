@@ -22,9 +22,9 @@ Role required: sn\_cda.analytics\_admin
 
 ## About this task
 
-[[ecpro-content-automation-analytics|Content Analytics]] contains two out-of-the-box profiles \(Content Experiences and Content Publishing\) that track metrics for the demo portal associated with the product.
+Content Analytics contains two out-of-the-box profiles \(Content Experiences and Content Publishing\) that track metrics for the demo portal associated with the product.
 
-You can use either tracking profile to track metrics for the [[employee-center-landing-page|Employee Center]] by setting it as the default profile.
+You can use either tracking profile to track metrics for the Employee Center by setting it as the default profile.
 
 ## Procedure
 
@@ -49,7 +49,3 @@ The out-of-the-box tracking profiles each have a scheduled job to collect data. 
 
 2.  To manually execute the script, click **Execute Now**.
 
-## Related
-
-- [[ecpro-content-automation-analytics|Content Analytics]]
-- [[employee-center-landing-page|Employee Center]]

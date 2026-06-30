@@ -14,7 +14,7 @@ breadcrumb: [Audit Task Management, Audit Supervisor Workspace, Audit Workspace 
 
 # Create a control test from an engagement
 
-[[t_CreateAControl|Create a control]] test that runs periodically and provides documented evidence of whether the associated control is operating correctly or not.
+Create a control test that runs periodically and provides documented evidence of whether the associated control is operating correctly or not.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_audit.manager, sn\_audit\_ws.supervisor
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Audit** &gt; **[[audit-management-overview-ws|Audit Workspace]]**.
+1.  Navigate to **All** &gt; **Audit** &gt; **Audit Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "ListsIcon.jpg"\] Alt text: List icon.\).
 
@@ -285,7 +285,4 @@ Option to enable confidentiality of the record. Only the assigned confidential u
 
     You can view the description and monitor the state of the control test in the **State** banner of the Overview page as the record progresses through the control test process flows.
 
-## Related
 
-- [[t_CreateAControl|Create a control]]
-- [[audit-management-overview-ws|Audit Workspace]]

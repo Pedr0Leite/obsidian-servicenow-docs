@@ -14,7 +14,7 @@ breadcrumb: [Service Level Management plugins, Configuring Service Level Managem
 
 # Activate Service Level Management - SLA Timer Config API
 
-You can activate the [[service-level-mgmt-landing-page|Service Level Management]] - [[sla-timer|SLA Timer]] Config API plugin \(com.sn\_slm\_timer\) if you have the admin role.
+You can activate the Service Level Management - SLA Timer Config API plugin \(com.sn\_slm\_timer\) if you have the admin role.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Activating this plugin provides the ability to set a preferred SLA for a given t
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System [[dex-workspace-application-tab|Applications]]** &gt; **All Available Applications** &gt; **All**.
+1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
 2.  Find the plugin using the filter criteria and search bar.
 
@@ -57,8 +57,3 @@ When SLA Timer Config API is activated, script includes are installed.
 
 [List of plugins \(Australia\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-## Related
-
-- [[service-level-mgmt-landing-page|Service Level Management]]
-- [[sla-timer|SLA timer]]
-- [[dex-workspace-application-tab|Applications]]

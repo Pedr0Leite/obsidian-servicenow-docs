@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Management publisher pack for Adobe, Supported softw
 
 # Integrating with Adobe Cloud
 
-Integrate your [[c_SoftwareAssetMgmt|Software Asset Management]] application with Adobe Cloud services to track your software subscriptions and to determine your license compliance.
+Integrate your Software Asset Management application with Adobe Cloud services to track your software subscriptions and to determine your license compliance.
 
 The Adobe Cloud integration supports the following Adobe Cloud services:
 
@@ -48,11 +48,11 @@ Manage Adobe Cloud license compliance and optimization by performing the followi
 
     2.  [Install Software Asset Management - SaaS License Management plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/request-saas-license-management.md)
 
-        Install the Software Asset Management - [[sam-subscription-management|SaaS License Management]] \(com.sn\_sam\_saas\_int\) plugin to create and manage integrations with your SaaS and Single Sign-On \(SSO\) applications. These integrations enable you to track license usage and reclaim unused licenses effectively.
+        Install the Software Asset Management - SaaS License Management \(com.sn\_sam\_saas\_int\) plugin to create and manage integrations with your SaaS and Single Sign-On \(SSO\) applications. These integrations enable you to track license usage and reclaim unused licenses effectively.
 
     3.  [Verify content updates for Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_SAMContentService.md)
 
-        The content library on your instance is updated regularly through the [[c_SAMContentService|Software Asset Management Content Service]]. The Software Asset Management application provides automated content to simplify [[sam-normalization|software normalization]], offering data such as life cycle information, [[downgrade-rights|downgrade rights]], and suite definitions. This data is essential for accurate license compliance and optimization.
+        The content library on your instance is updated regularly through the Software Asset Management Content Service. The Software Asset Management application provides automated content to simplify software normalization, offering data such as life cycle information, downgrade rights, and suite definitions. This data is essential for accurate license compliance and optimization.
 
     4.  [Create a success goal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-success-goals.md)
 
@@ -86,7 +86,7 @@ Manage Adobe Cloud license compliance and optimization by performing the followi
 
     5.  [Set up software models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/customppn-swap.md)
 
-        The Software Asset Management application integrates with Adobe Cloud to automatically generate [[c_CreatingSoftwareModels|software models]] based on assigned subscriptions. These [[c_Models|models]] include suite components, downgrades, and life cycle details to confirm compliance and optimize licensing.
+        The Software Asset Management application integrates with Adobe Cloud to automatically generate software models based on assigned subscriptions. These models include suite components, downgrades, and life cycle details to confirm compliance and optimize licensing.
 
         **Important:** You must verify that no software models are created without a Discovery Map \(DMAP\) to confirm inclusion of all required details.
 
@@ -110,7 +110,7 @@ Manage Adobe Cloud license compliance and optimization by performing the followi
 
     2.  [Run health check](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/run-healthcheck.md)
 
-        Run a [[health-check-dboard|health check]] on the Health check dashboard by selecting **SaaS** and **General** to verify the Adobe configurations and review the findings for each suite.
+        Run a health check on the Health check dashboard by selecting **SaaS** and **General** to verify the Adobe configurations and review the findings for each suite.
 
     3.  [Verify the pull of all required software usage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/view-sw-usage-workspace.md)
 
@@ -122,7 +122,7 @@ Manage Adobe Cloud license compliance and optimization by performing the followi
 
     5.  [Run reconciliation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/run-recon-workspace.md)
 
-        Run reconciliation on the [[sam-workspace-landing|Software asset overview]] page to verify that the licenses are consumed according to the Software Asset Management configurations. Reconciliation runs automatically each week, but you can also trigger it manually as needed. For quicker results, run reconciliation with Adobe as the publisher to verify the Adobe Cloud license consumption.
+        Run reconciliation on the Software asset overview page to verify that the licenses are consumed according to the Software Asset Management configurations. Reconciliation runs automatically each week, but you can also trigger it manually as needed. For quicker results, run reconciliation with Adobe as the publisher to verify the Adobe Cloud license consumption.
 
     6.  [Check license position report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sam-license-position-report.md)
 
@@ -138,14 +138,4 @@ Manage Adobe Cloud license compliance and optimization by performing the followi
 
         ​
 
-## Related
 
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-subscription-management|SaaS License Management]]
-- [[c_SAMContentService|Software Asset Management Content Service]]
-- [[sam-normalization|Software normalization]]
-- [[downgrade-rights|Downgrade Rights]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[c_Models|Models]]
-- [[health-check-dboard|Health check]]
-- [[sam-workspace-landing|Software asset overview]]

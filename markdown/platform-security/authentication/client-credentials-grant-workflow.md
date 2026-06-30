@@ -14,7 +14,7 @@ breadcrumb: [Client Credentials Grant, Inbound integrations, OAuth Inbound, OAut
 
 # Client credentials grant workflow
 
-Authenticate a client application using a [[client-credentials|client credentials]] workflow. The client credentials grant workflow is used by back-end services or system integrations to access ServiceNow® APIs without user involvement.
+Authenticate a client application using a client credentials workflow. The client credentials grant workflow is used by back-end services or system integrations to access ServiceNow® APIs without user involvement.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: `oauth_admin, mi_admin, admin`
 
 ## About this task
 
-This workflow describes how a client application \(back-end service or system integration\) authenticates directly with ServiceNow using its client credentials without user interaction. The application requests an access token using its client ID and client secret, which ServiceNow validates before issuing the token. The client then uses this token to access ServiceNow APIs. ServiceNow validates each [[c_requestAPI|request]] before returning the appropriate response.
+This workflow describes how a client application \(back-end service or system integration\) authenticates directly with ServiceNow using its client credentials without user interaction. The application requests an access token using its client ID and client secret, which ServiceNow validates before issuing the token. The client then uses this token to access ServiceNow APIs. ServiceNow validates each request before returning the appropriate response.
 
 \[Omitted image "mic-client-credentials-workflow.png"\] Alt text: Client credentials grant workflow
 
@@ -57,7 +57,7 @@ Yes
 
 </td><td>
 
-[[c_OAuthApplications|OAuth 2.0]] grant type.Example: `client_credentials`
+OAuth 2.0 grant type.Example: `client_credentials`
 
 </td></tr><tr><td>
 
@@ -112,8 +112,4 @@ Requested permissions for the access token.Example:`incident_read``incident_writ
 
     **Note:** Use the client credentials grant workflow only with trusted, server-side applications. Maintain the `client_secret` securely. Ensure that you don’t use the `client_secret` in client-side environments such as browsers or mobile apps.
 
-## Related
 
-- [[client-credentials|Client Credentials]]
-- [[c_requestAPI|request]]
-- [[c_OAuthApplications|OAuth 2.0]]

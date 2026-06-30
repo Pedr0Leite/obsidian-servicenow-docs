@@ -14,13 +14,13 @@ breadcrumb: [Enable AI experiences]
 
 # Now Assist Data Kit
 
-Use ServiceNow®Now Assist Data Kit to add [[ai-datasets|datasets]] to a data catalog. The curated data works with ServiceNow SDK to enable the AI skill development and evaluation.
+Use ServiceNow®Now Assist Data Kit to add datasets to a data catalog. The curated data works with ServiceNow SDK to enable the AI skill development and evaluation.
 
 \[Omitted video\] Description: Now Assist Data Kit user journey
 
 ## Get started
 
-[[platform-now-assist-landing|Now Assist]] Data KitNow Assist Data Kit
+Now Assist Data KitNow Assist Data Kit
 
 <table id="table_zhp_snh_jcc" class="nav-card presentation"><tbody><tr><td>
 
@@ -28,7 +28,7 @@ Use ServiceNow®Now Assist Data Kit to add [[ai-datasets|datasets]] to a data ca
 
 </td><td>
 
-[Configure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-data-kit/configuring-now-assist-data-kit.md)\[Omitted image "bus-sdlc.svg"\] Alt text: Configure Now Assist Data Kit for [[ai-prompts|prompts]] and skills
+[Configure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-data-kit/configuring-now-assist-data-kit.md)\[Omitted image "bus-sdlc.svg"\] Alt text: Configure Now Assist Data Kit for prompts and skills
 
 </td><td>
 
@@ -67,11 +67,5 @@ This application requires data to be transferred from ServiceNow customers' indi
 
 ## Data collection
 
-ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. Customers can opt out of future data collection at any time, as described in the [[opt-out-of-data-sharing-for-now-assist|Now Assist Opt-Out page]].
+ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/opt-out-of-data-sharing-for-now-assist.md).
 
-## Related
-
-- [[opt-out-of-data-sharing-for-now-assist|Opt out of data sharing for Now Assist]]
-- [[ai-datasets|Datasets]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[ai-prompts|Prompts]]

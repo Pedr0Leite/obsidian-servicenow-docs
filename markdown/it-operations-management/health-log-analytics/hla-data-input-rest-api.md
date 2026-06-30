@@ -23,9 +23,9 @@ Set up a REST API data input for streaming log data to your ServiceNow instance.
 
     \[Omitted image "hla-mid-log-ingestion.png"\] Alt text: MID Server configuration with Log Ingestion capability enabled.
 
-    **Important:** [[hla-landing-page|Health Log Analytics]] does not support IPv6. To work with the application, configure the MID Server to IPv4.
+    **Important:** Health Log Analytics does not support IPv6. To work with the application, configure the MID Server to IPv4.
 
-    On the [[mid-web-server|MID Web Server]] Context form, in the **Execute on** field, select Specific MID Server and not the cluster option. In the **MID Server** field, select the specific MID Server to which the log data is pulled.
+    On the MID Web Server Context form, in the **Execute on** field, select Specific MID Server and not the cluster option. In the **MID Server** field, select the specific MID Server to which the log data is pulled.
 
 -   Unless the MID Server and external clients are on the same network, the MID Server must have a public IP address. This is required when its IP is exposed through network address translation \(NAT\), a load balancer, or a similar device. The public IP address enables external clients, such as Filebeat agents located outside its network, to reach the MID Server. Private IP addresses are not routable over the internet. Without a public IP, external clients cannot connect to the MID Server even if they are configured with its address. In the MID Server properties, add a property named **mid.public\_ip** with the public IP address as the value. For more information, see [Create a MID Server property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_MIDServerProperties.md). If the MID Server and external clients are on the same network, connections can be made using the private IP address.
 
@@ -70,7 +70,3 @@ Role required: evt\_mgmt\_admin
 
 **Parent Topic:**[Configuring data inputs for Health Log Analytics manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-inputs-configuring.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]
-- [[mid-web-server|MID Web Server]]

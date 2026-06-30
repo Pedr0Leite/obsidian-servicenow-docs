@@ -14,22 +14,22 @@ breadcrumb: [Working with Space Optimization, Use, Workplace Central, Workplace 
 
 # Work on a space assist request
 
-As a space planner, fulfill workplace [[space-assistance|space assistance]] requests. View the selected space plan of the request and deploy accordingly. You can also assign the request to another assignment group or a user.
+As a space planner, fulfill workplace space assistance requests. View the selected space plan of the request and deploy accordingly. You can also assign the request to another assignment group or a user.
 
 ## Before you begin
 
 Ensure that you have the following:
 
--   [[workplace-central-feat|Workplace Central]]
--   [[workplace-case-mgmt-feat|Workplace Case Management]]
--   [[workplace-space-mgmt-ovw|Workplace Space Management]]
--   For Floor map view, the floor maps must be created using Workplace [[Indoor-mapping|Indoor Mapping]] Map studio.
+-   Workplace Central
+-   Workplace Case Management
+-   Workplace Space Management
+-   For Floor map view, the floor maps must be created using Workplace Indoor Mapping Map studio.
 
 Role required: sn\_wsd\_spcmgmt.space\_planner
 
 ## About this task
 
-When a space request is submitted, a workplace case is created in the application. The Workplace Central [[space-optimization|Space Optimization]] dashboard enables you to view all the space request-related workplace cases at one place. As a space planner you can perform the following actions on a request:
+When a space request is submitted, a workplace case is created in the application. The Workplace Central Space Optimization dashboard enables you to view all the space request-related workplace cases at one place. As a space planner you can perform the following actions on a request:
 
 -   View space requests submitted by users. You can view a request even if the user has not selected any option. Such workplace cases are set with the Work in progress state.
 -   Track the total number of space requests created in the organization using the Space Optimization metrics board. You can also view the detailed list of the space requests.
@@ -49,10 +49,10 @@ For a detailed information about the functionality, views, and states, refer to 
 1.  Navigate to any one of the following locations:
 
     -   **All** &gt; **Workplace Central** &gt; **Workplace Central**.
-    -   **All** &gt; **[[scenario-planning|Scenario Planning]]** &gt; **My Scenario Plans**
-    You can also open Workplace Central from the [[employee-center-landing-page|Employee Center]] directly. Navigate to **Workspaces** &gt; **Workplace Central**.
+    -   **All** &gt; **Scenario Planning** &gt; **My Scenario Plans**
+    You can also open Workplace Central from the Employee Center directly. Navigate to **Workspaces** &gt; **Workplace Central**.
 
-    The [[workplace-analytics|Workplace Analytics]] dashboard opens.
+    The Workplace Analytics dashboard opens.
 
 2.  On the left pane, select **Space Optimization** icon \(\[Omitted image "space-optimization-icon.png"\] Alt text: Space optimization.\).
 
@@ -75,7 +75,7 @@ For a detailed information about the functionality, views, and states, refer to 
     -   To assign the space request to another assignment group, edit the **Assignment group** field.
     -   To assign the space request to another user directly, specify the user in the **Assigned to** field.
     -   Scroll to view the request details and the variables provided by the requester.
-7.  In the **[[activity-lxp|Activity]]** panel, you can perform any of the following:
+7.  In the **Activity** panel, you can perform any of the following:
 
     -   Add comments in the **Comments** section and select **Post comments** to notify users with any information.
     -   Add work notes in the **Work notes** section and select **Post Work notes \(Private\)** to notify other space planners who are working on the request. Work notes are not displayed to the requester.
@@ -87,13 +87,13 @@ For a detailed information about the functionality, views, and states, refer to 
 
 9.  Select the **Approvals** tab to view the approver details of the space request.
 
-10. Select the **[[space-deployment-plan|Space Deployment plan]]** to view the space allocation details such as the type of change, current value, and the scenario value.
+10. Select the **Space Deployment plan** to view the space allocation details such as the type of change, current value, and the scenario value.
 
 11. Select the **Floor map** tab to view the space plan on a floor map.
 
     The legend of the color related with each department is displayed on the right panel.
 
-    **Note:** You can view the floor map only if the floor on which the space plan is made has a floor map configured. Ensure that you have configured Indoor Mapping as your map provider to view maps and have the Indoor Mapping components plugin. For more information, see [[wsm-configure-map-properties|Customize the map properties]].
+    **Note:** You can view the floor map only if the floor on which the space plan is made has a floor map configured. Ensure that you have configured Indoor Mapping as your map provider to view maps and have the Indoor Mapping components plugin. For more information, see [Customize the map properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/wsm-configure-map-properties.md).
 
 12. After making changes, select **Save**.
 
@@ -142,17 +142,3 @@ The space plan is deployed for the space request. The state of the request is ch
 
 [Map based space administration]()
 
-## Related
-
-- [[wsm-configure-map-properties|Customize the map properties]]
-- [[space-assistance|Space assistance]]
-- [[workplace-central-feat|Workplace Central]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[workplace-space-mgmt-ovw|Workplace Space Management]]
-- [[Indoor-mapping|Indoor Mapping]]
-- [[space-optimization|Space Optimization]]
-- [[scenario-planning|Scenario Planning]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-analytics|Workplace Analytics]]
-- [[activity-lxp|Activity]]
-- [[space-deployment-plan|Space Deployment Plan]]

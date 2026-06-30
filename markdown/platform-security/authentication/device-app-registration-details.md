@@ -16,7 +16,7 @@ breadcrumb: [Adaptive authentication for Trusted Mobile apps, Adaptive authentic
 
 View the details of devices that are registered with your ServiceNow instance.
 
-To view all the details of the registered device with the instance, navigate to **All** &gt; **[[adaptive-authentication|Adaptive Authentication]]** &gt; **Device Trust** &gt; **Device Registration**.
+To view all the details of the registered device with the instance, navigate to **All** &gt; **Adaptive Authentication** &gt; **Device Trust** &gt; **Device Registration**.
 
 Use the filter to identify the device. Click the **AppID** field to know more about the registered device.
 
@@ -37,6 +37,3 @@ The following details are displayed for the device:
 
 \[Omitted image "device-app-registration-details-device.png"\] Alt text: Device App Registration Detail
 
-## Related
-
-- [[adaptive-authentication|Adaptive authentication]]

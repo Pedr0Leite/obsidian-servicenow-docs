@@ -22,7 +22,7 @@ To view quota limits, navigate to the Overview page. For more information, see [
 
 The Stack Count is a default base system quota limit available beginning with the Australia release. It applies to all template-based stacks in the service catalog.
 
-If your [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] administrator has set a Stack Count quota for you or your user group, the system calculates the stack number when you provision a template-based stack. After provisioning, the system increases the Stack Count quota by a value of 1 for each provisioned stack.
+If your Cloud Provisioning and Governance administrator has set a Stack Count quota for you or your user group, the system calculates the stack number when you provision a template-based stack. After provisioning, the system increases the Stack Count quota by a value of 1 for each provisioned stack.
 
 ## Stack provisioning after exceeding quota limits
 
@@ -33,6 +33,3 @@ If the quota limit set for you or your user group has been exceeded, the system 
 
 \[Omitted image "policy-approval.png"\] Alt text: Policy triggered for provisioning a stack.
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]

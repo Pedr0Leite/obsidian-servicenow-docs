@@ -12,7 +12,7 @@ breadcrumb: [Configure Customer Contracts and Entitlements, Configure, price, qu
 
 # Components installed with Customer Contracts and Entitlements
 
-Several types of components are installed with the [[exploring-post-sales-support|Customer Contracts and Entitlements]] application, including tables and roles.
+Several types of components are installed with the Customer Contracts and Entitlements application, including tables and roles.
 
 The following roles are added with the activation of the Customer Contracts and Entitlements plugins.
 
@@ -157,6 +157,3 @@ Stores the runtime contract lines like a service plan.
 
 The default view on customer contracts and entitlements in Customer Service Management workspace is Service Contract Workspace view. It can be changed by an administrator.
 
-## Related
-
-- [[exploring-post-sales-support|Customer Contracts and Entitlements]]

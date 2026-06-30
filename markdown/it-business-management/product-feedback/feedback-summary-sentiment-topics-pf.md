@@ -14,7 +14,7 @@ breadcrumb: [Managing Feedback application in Strategic Planning, Feedback appli
 
 # Summarize the feedback by using Now Assist for Strategic Portfolio Management \(SPM\)
 
-Generate a summary from the name and description of the feedback records so that you can analyze a large volume of feedback quickly without reading each feedback record manually. You can do this task by using the multi feedback summarization skill in the [[now-assist-spm|Now Assist for Strategic Portfolio Management \(SPM\)]] application.
+Generate a summary from the name and description of the feedback records so that you can analyze a large volume of feedback quickly without reading each feedback record manually. You can do this task by using the multi feedback summarization skill in the Now Assist for Strategic Portfolio Management \(SPM\) application.
 
 \[Omitted video\] Description: Multi feedback summarization video.
 
@@ -32,7 +32,7 @@ With the feedback or multi feedback summarization skill, you can get enough deta
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** and select **Feedback**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** and select **Feedback**.
 
 2.  From the Feedback page, select any feedback filter card.
 
@@ -135,7 +135,4 @@ Select **Copy and create epic** to create a planning or non-planning item by usi
 
     Save time and streamline your work flow by linking the feedback with planning items, which eliminates the need to copy summaries. You can quickly create work items in Feedback and view them in the roadmap.
 
-## Related
 
-- [[now-assist-spm|Now Assist for Strategic Portfolio Management \(SPM\)]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

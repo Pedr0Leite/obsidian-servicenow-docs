@@ -14,7 +14,7 @@ breadcrumb: [Governance, Risk, and Compliance]
 
 # Privacy Management
 
-Use the [[r_WhatIsGRC|Governance, Risk, and Compliance]]: Privacy Management application to help protect your customers, employees, and suppliers with integrated data privacy risk and compliance management solutions and privacy by design concepts​.
+Use the Governance, Risk, and Compliance: Privacy Management application to help protect your customers, employees, and suppliers with integrated data privacy risk and compliance management solutions and privacy by design concepts​.
 
 The Privacy Management application helps you to manage multiple privacy regulations such as the General Data Protection Regulation \(GDPR\), the California Consumer Privacy Act \(CCPA\), and the Australian Privacy Act. It also helps you to manage frameworks such as the National Institute of Standards and Technology \(NIST\), ISO 27001, and so on. The Privacy Management solution enables you to implement privacy policies and acknowledgments to handle the personal data of customers and employees.
 
@@ -28,7 +28,7 @@ The Privacy Management application helps you to manage multiple privacy regulati
 
 </td><td>
 
-[Use \[Omitted image "bus-manage.svg"\] Alt text:](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/using-privacy-mgmt.md) Work on creating privacy assessments, [[ropa-record|processing activities]] and so on.
+[Use \[Omitted image "bus-manage.svg"\] Alt text:](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/using-privacy-mgmt.md) Work on creating privacy assessments, processing activities and so on.
 
 </td></tr><tr><td>
 
@@ -44,8 +44,3 @@ The Privacy Management application helps you to manage multiple privacy regulati
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]
-- [[ropa-record|Processing activities]]

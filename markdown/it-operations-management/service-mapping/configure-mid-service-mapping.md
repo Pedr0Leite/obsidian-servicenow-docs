@@ -14,11 +14,11 @@ breadcrumb: [Configuring Service Mapping, Service Mapping, ITOM Visibility, IT O
 
 # MID Server configuration for Service Mapping
 
-Configure [[c_ServiceMappingOverview|Service Mapping]] and MID Servers to work together.
+Configure Service Mapping and MID Servers to work together.
 
 ## What is the MID Server
 
-The Management, Instrumentation, and [[r-discovery|Discovery]] \(MID\) Server is a Java application that runs as a Windows service or UNIX daemon on a server. MID Servers, which are located in the enterprise private network, facilitate communication between servers on the network and some ServiceNow applications, such as Service Mapping, and Discovery.
+The Management, Instrumentation, and Discovery \(MID\) Server is a Java application that runs as a Windows service or UNIX daemon on a server. MID Servers, which are located in the enterprise private network, facilitate communication between servers on the network and some ServiceNow applications, such as Service Mapping, and Discovery.
 
 **Note:** If the Service Mapping \(com.sn\_itom\_pattern\) plugin is activated on the instance and a language plugin \(for example, Spanish\) is also activated, make sure that the MID Server language is also set to English/None on the user record.
 
@@ -27,7 +27,7 @@ The Management, Instrumentation, and [[r-discovery|Discovery]] \(MID\) Server is
 Most environments require multiple MID Servers, with Service Mapping using the relevant MID Server for discovery. MID Servers have the following selection criteria that Service Mapping can use to choose the relevant MID Server:
 
 -   Application — defines what application a MID Server works with. Set it to Service Mapping to reserve this MID Server exclusively to Service Mapping discovery requests. Alternatively, set it to ALL to allow any ServiceNow application to use this MID Server.
--   Capability — defines the network capability. For Service Mapping, set this parameter to ALL or any combination of SSH, WMI, SNMP, and [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] . See [Configure MID Server capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ConfigureCapabilities.md).
+-   Capability — defines the network capability. For Service Mapping, set this parameter to ALL or any combination of SSH, WMI, SNMP, and Cloud Provisioning and Governance . See [Configure MID Server capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ConfigureCapabilities.md).
 
 -   IP range — limits operation of this MID Server to this IP range. Service Mapping does not choose this MID Server for a discovery request whose endpoint is outside this IP range. See [Configure an IP address range for the MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ConfigureMIDIPRange.md).
 
@@ -56,7 +56,7 @@ ServiceNow now supports PowerShell 3.0 up to 5.1.
 
 ## MID Server credential-less discovery with Nmap
 
-If the MID Server does not have sufficient credentials to access a device or application, it can run Network Mapper \(Nmap\) commands to collect basic information without using credentials. [[nmap-credential-less-discovery|Credential-less discovery with Nmap]] requires additional configuration as described in [Install and uninstall Nmap on a MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/install-nmap-on-mid-server.md).
+If the MID Server does not have sufficient credentials to access a device or application, it can run Network Mapper \(Nmap\) commands to collect basic information without using credentials. Credential-less discovery with Nmap requires additional configuration as described in [Install and uninstall Nmap on a MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/install-nmap-on-mid-server.md).
 
 ServiceNow applications refer to devices and applications that comprise a service instance as configuration items \(CIs\).
 
@@ -102,9 +102,3 @@ In deployments upgraded to Istanbul or earlier, Service Mapping uses the default
 
 [MID Server properties used by Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/mid-server-properties-service-mapping.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[nmap-credential-less-discovery|Credential-less discovery with Nmap]]

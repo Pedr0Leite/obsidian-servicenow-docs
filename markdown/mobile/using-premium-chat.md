@@ -57,7 +57,7 @@ Web search mode in Now Assist enables you to search the internet directly from w
 
 While active, all user queries are answered using internet search results, and a banner shows that web search mode is enabled. The identifying banner disappears after you end web search.
 
-For additional information, see [[using-na-web-search-mobile|Using Now Assist web search on mobile]].
+For additional information, see [Using Now Assist web search on mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/using-na-web-search-mobile.md).
 
 ## Granular feedback
 
@@ -67,9 +67,9 @@ Rate Virtual Agent responses using the thumbs up or thumbs down icons. Tapping e
 
 ## Voice input
 
-Use your device microphone to speak your queries instead of typing with [[mobile-voice-agent|Mobile AI Voice Agent]]. Tap the microphone icon in the chat input field to start voice input. Your speech is transcribed and sent as a chat message.
+Use your device microphone to speak your queries instead of typing with Mobile AI Voice Agent. Tap the microphone icon in the chat input field to start voice input. Your speech is transcribed and sent as a chat message.
 
-For more information, see [[using-mobile-ai-voice-agent|Using Mobile AI Voice Agent]].
+For more information, see [Using Mobile AI Voice Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/using-mobile-ai-voice-agent.md).
 
 ## Additional resources
 
@@ -77,11 +77,5 @@ For more detailed information on all of standard chat’s specific skills, see [
 
 For information on configuring Virtual Agent, see [Configuring assistants overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/configure-now-assist-va.md).
 
-**Parent Topic:**[[using-now-assist-mobile|Using Now Assist for Mobile]]
+**Parent Topic:**[Using Now Assist for Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/using-now-assist-mobile.md)
 
-## Related
-
-- [[using-na-web-search-mobile|Using Now Assist web search on mobile]]
-- [[using-mobile-ai-voice-agent|Using Mobile AI Voice Agent]]
-- [[using-now-assist-mobile|Using Now Assist for Mobile]]
-- [[mobile-voice-agent|Mobile AI Voice Agent]]

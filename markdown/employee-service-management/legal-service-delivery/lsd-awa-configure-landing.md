@@ -14,13 +14,13 @@ breadcrumb: [Advanced work assignment for Legal Service Delivery, Integration wi
 
 # Configure Advanced Work Assignment for Legal Service Delivery
 
-Configure the [[lsd-awa-landing|Advanced Work Assignment for Legal Service Delivery]].
+Configure the Advanced Work Assignment for Legal Service Delivery.
 
 ## Configuration overview
 
 -   **[Activate Advanced Work Assignment for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-activate-awa.md)**
 
-    Activate the Advanced Work Assignment for Legal Service Delivery plugin \(sn\_lg\_awa\) for [[legal-management-overview|Legal Service Delivery]] if you have the admin role
+    Activate the Advanced Work Assignment for Legal Service Delivery plugin \(sn\_lg\_awa\) for Legal Service Delivery if you have the admin role
 
 -   **[Set up Advanced Work Assignment for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/setup-awa-lsd.md)**
 
@@ -32,7 +32,4 @@ Configure the [[lsd-awa-landing|Advanced Work Assignment for Legal Service Deliv
 
     **Note:** If you're using skill management, ensure you have the right subscription.
 
-## Related
 
-- [[lsd-awa-landing|Advanced work assignment for Legal Service Delivery]]
-- [[legal-management-overview|Legal Service Delivery]]

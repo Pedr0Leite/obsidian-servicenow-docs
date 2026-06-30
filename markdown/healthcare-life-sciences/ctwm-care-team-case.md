@@ -18,7 +18,7 @@ Care team cases group related operational work for a care team, while care team 
 
 Care team cases are generated from task plans and have associated care team tasks.
 
-The care team case \[sn\_cto\_case\] table contains cases pertaining to [[ctwm-landing|Care Team Work Management]] at the unit level.
+The care team case \[sn\_cto\_case\] table contains cases pertaining to Care Team Work Management at the unit level.
 
 Once a task plan is executed, the system generates care team cases and care team tasks for each impacted unit.
 
@@ -40,11 +40,7 @@ Care team tasks represent the hands‑on work care team agents must complete, su
 -   Documenting safety concerns
 -   Completing Smart Assessments
 
-Tasks are fulfilled in the [[healthcare-operations-overview|Healthcare Operations]] Workspace.
+Tasks are fulfilled in the Healthcare Operations Workspace.
 
 Care team agent managers monitor progress and complete the case once all tasks are finished.
 
-## Related
-
-- [[ctwm-landing|Care Team Work Management]]
-- [[healthcare-operations-overview|Healthcare Operations]]

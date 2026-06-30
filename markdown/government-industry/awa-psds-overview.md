@@ -75,7 +75,7 @@ Change the default Social Benefit Requests service channel attributes in Advance
 
 -   Activate the Advanced Work Assignment plugin \(com.glide.awa\).
 -   Activate the Agent Chat plugin \(com.glide.interaction.awa\).
--   [[install-psds-social-benefits-playbook|Install the Social Benefits Playbook application]].
+-   [Install the Social Benefits Playbook application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/install-psds-social-benefits-playbook.md).
 
 Role required: admin, awa\_admin
 
@@ -179,7 +179,7 @@ Change the default License and Permit Requests service channel attributes in Adv
 
 -   Activate the Advanced Work Assignment plugin \(com.glide.awa\).
 -   Activate the Agent Chat plugin \(com.glide.interaction.awa\).
--   [[install-psds-license-permit-request-playbook|Install the License and Permit Request Playbook application]].
+-   [Install the License and Permit Request Playbook application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/install-psds-license-permit-request-playbook.md).
 
 Role required: awa\_admin, admin
 
@@ -284,7 +284,7 @@ Change the default Information Requests service channel attributes in Advanced W
 
 -   Activate the Advanced Work Assignment plugin \(com.glide.awa\).
 -   Activate the Agent Chat plugin \(com.glide.interaction.awa\).
--   [[install-psds-information-request-playbook|Install the Information Request Playbook application]].
+-   [Install the Information Request Playbook application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/install-psds-information-request-playbook.md).
 
 Role required: sn\_gsm\_info\_req.admin, awa\_admin, admin
 
@@ -389,7 +389,7 @@ Change the default Service Requests service channel attributes in Advanced Work 
 
 -   Activate the Advanced Work Assignment plugin \(com.glide.awa\).
 -   Activate the Agent Chat plugin \(com.glide.interaction.awa\).
--   [[install-psds-service-request-playbook|Install the Service Request Playbook application]].
+-   [Install the Service Request Playbook application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/install-psds-service-request-playbook.md).
 
 Role required: awa\_admin or admin
 
@@ -469,10 +469,3 @@ For more information on changing inbox card layouts, see Create or modify an inb
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[install-psds-social-benefits-playbook|Install Social Benefits Playbook for Public Sector Digital Services]]
-- [[install-psds-license-permit-request-playbook|Install License and Permit Playbook for Public Sector Digital Services]]
-- [[install-psds-information-request-playbook|Install Information Request Playbook for Public Sector Digital Services]]
-- [[install-psds-service-request-playbook|Install Service Request Playbook for Public Sector Digital Services]]

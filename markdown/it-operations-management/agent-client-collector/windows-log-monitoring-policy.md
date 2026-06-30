@@ -14,7 +14,7 @@ breadcrumb: [Agent Client Collector Monitoring default checks and policies, ACC-
 
 # Windows log monitoring default checks and policies
 
-[[acc-landing-page|Agent Client Collector]] provides the following policy for Windows log monitoring.
+Agent Client Collector provides the following policy for Windows log monitoring.
 
 <table id="table_rdf_3r1_ktb"><thead><tr><th>
 
@@ -63,6 +63,3 @@ Windows Log CRITICAL: Found 4 criticals, 0 warnings for pattern SEVERE\|Exceptio
 </td></tr></tbody>
 </table>**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-policies-checks.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

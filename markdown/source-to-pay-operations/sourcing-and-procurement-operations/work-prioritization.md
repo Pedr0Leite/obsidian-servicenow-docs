@@ -17,7 +17,7 @@ breadcrumb: [Procurement Case Management, Explore, Sourcing and Procurement Oper
 
 Work prioritization automatically assigns a priority level to purchase requisitions, sourcing requests, and procurement cases so that procurement specialists can work the most urgent items first.
 
-When procurement records arrive in a specialist's queue, they have no automatic signal indicating which items are most urgent. Without prioritization, a minor catalog update and a high-value [[supplier|supplier]] renegotiation appear identical. Work prioritization solves this by evaluating each record against a set of administrator-defined rules and stamping it with a priority level before a specialist opens it. The result is a work queue that specialists can sort and filter by priority, with the most business-critical records surfaced at the top.
+When procurement records arrive in a specialist's queue, they have no automatic signal indicating which items are most urgent. Without prioritization, a minor catalog update and a high-value supplier renegotiation appear identical. Work prioritization solves this by evaluating each record against a set of administrator-defined rules and stamping it with a priority level before a specialist opens it. The result is a work queue that specialists can sort and filter by priority, with the most business-critical records surfaced at the top.
 
 Priority is assigned automatically. Specialists and requesters do not set it manually. Administrators control the rules that determine how priority is calculated, through decision tables they configure for each record type. For more information about configuring decision table rules to automatically assign priority to purchase requisitions, sourcing requests, and procurement cases, see [Configuring work prioritization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/configuring-work-prioritization.md).
 
@@ -47,7 +47,7 @@ There is one decision table per record type.
 |Priority defaulting for sourcing requests|Sourcing requests|Business owner job code \(organizational hierarchy\)|
 |Priority defaulting for procurement cases|Procurement cases|No default rules — administrators define all conditions|
 
-The [[purchase-requisition|purchase requisition]] and [[sourcing-request|sourcing request]] decision tables include example rules provided as demo data. These rules may not be loaded in production instances and require review before use. The procurement case decision table ships with no rules. Administrators define all conditions from scratch.
+The purchase requisition and sourcing request decision tables include example rules provided as demo data. These rules may not be loaded in production instances and require review before use. The procurement case decision table ships with no rules. Administrators define all conditions from scratch.
 
 ## How line items drive priority
 
@@ -78,8 +78,3 @@ This example shows how an organization might configure work prioritization rules
 
 **Parent Topic:**[Procurement Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/psd-overview.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[purchase-requisition|Purchase requisition]]
-- [[sourcing-request|Sourcing request]]

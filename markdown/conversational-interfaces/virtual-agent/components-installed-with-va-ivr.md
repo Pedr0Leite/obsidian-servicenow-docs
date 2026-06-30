@@ -14,22 +14,16 @@ breadcrumb: [Install Conversational IVR with Amazon Connect, Conversational IVR 
 
 # Components installed with Conversational IVR with Amazon Connect
 
-After installing the [[va-ivr-voice|Conversational IVR with Amazon Connect]] application from the ServiceNow Store, the additional dependant plugins and [[topic-spokes-subtab-pae|spokes]] get auto-installed to enable other features for interactive voice response.
+After installing the Conversational IVR with Amazon Connect application from the ServiceNow Store, the additional dependant plugins and spokes get auto-installed to enable other features for interactive voice response.
 
 |Plugin|Description|
 |------|-----------|
 |OpenFrame - \(com.sn\_openframe\)|An interface to integrate external communication systems with a ServiceNow instance. This plugin brings a UI frame that is accessible and available anywhere within a ServiceNow screens.|
-|Virtual Agent API - \(sn\_va\_as\_service\)|Connects a user with a [[virtual-agent-landing-page|Virtual Agent]] using the company's Amazon Connect account.|
-|Advanced Work Assignment - \(com.glide.awa\)|Automatically assigns [[awa-work-items|work items]] to agents based on their availability, capacity, and skills.|
+|Virtual Agent API - \(sn\_va\_as\_service\)|Connects a user with a Virtual Agent using the company's Amazon Connect account.|
+|Advanced Work Assignment - \(com.glide.awa\)|Automatically assigns work items to agents based on their availability, capacity, and skills.|
 |Amazon Connect Spoke - \(sn\_amzn\_connect\_spk\)\(ih-amazon-connect-actions\)|Simplifies how you integrate with Amazon Connect.|
 |Amazon S3 Spoke - \(ih-amazon-s3-action-pack\)\(ih-s3-actions\)|Simplifies how you integrate with Amazon S3.|
 |Omnichannel Callback - \(sn\_omni\_callback\) \(com.sn.omnichannel.callback\)|Provides a consistent omnichannel experience for requesters whether they are coming from the digital channel or from the phone.|
 
 **Parent Topic:**[Install Conversational IVR with Amazon Connect](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/install-va-ivr.md)
 
-## Related
-
-- [[va-ivr-voice|Conversational IVR with Amazon Connect]]
-- [[topic-spokes-subtab-pae|Spokes]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[awa-work-items|Work items]]

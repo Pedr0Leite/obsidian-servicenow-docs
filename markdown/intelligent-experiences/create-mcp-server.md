@@ -20,13 +20,13 @@ Role required: sn\_mcp\_server.admin or admin
 
 ## About this task
 
-Depending on your requirements, you can create one or more servers that expose different tools for different use [[cases|cases]], such as for HR or IT workflows, or for different clients. You can also use the preconfigured Quickstart Server.
+Depending on your requirements, you can create one or more servers that expose different tools for different use cases, such as for HR or IT workflows, or for different clients. You can also use the preconfigured Quickstart Server.
 
 This page also provides explore search, refresh and many other page view options.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[mcp-platform-manager-landing|MCP Server Console]]**.
+1.  Navigate to **All** &gt; **MCP Server Console**.
 
 2.  From the Configuration tab, select **Servers**.
 
@@ -49,7 +49,7 @@ This page also provides explore search, refresh and many other page view options
 
     2.  Search for tools from the list and select the tools to expose.
 
-        If you need to create a tool, select **Create tool**. For more information, see [[create-tool-mcp-server|Create a tool for a Model Context Protocol server]].
+        If you need to create a tool, select **Create tool**. For more information, see [Create a tool for a Model Context Protocol server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/create-tool-mcp-server.md).
 
     3.  Select **Add**.
 
@@ -64,11 +64,5 @@ This page also provides explore search, refresh and many other page view options
 
 ## What to do next
 
-Configure clients to connect to the server. For more information, see [[connect-mcp-server-client|Connecting to an MCP server from an MCP client]].
+Configure clients to connect to the server. For more information, see [Connecting to an MCP server from an MCP client](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/connect-mcp-server-client.md).
 
-## Related
-
-- [[create-tool-mcp-server|Create a tool for a Model Context Protocol server]]
-- [[connect-mcp-server-client|Connecting to an MCP server from an MCP client]]
-- [[cases|Cases]]
-- [[mcp-platform-manager-landing|MCP Server Console]]

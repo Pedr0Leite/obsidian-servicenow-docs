@@ -14,7 +14,7 @@ breadcrumb: [Resolving errors, Administer, Instance Data Replication, Manage ins
 
 # Run Instance Data Replication diagnostics
 
-Verify the status of services and the connection between your instance and the [[instance-data-replication|Instance Data Replication]] \(IDR\) message queue.
+Verify the status of services and the connection between your instance and the Instance Data Replication \(IDR\) message queue.
 
 ## Before you begin
 
@@ -62,7 +62,7 @@ Checks the Schedule Item \[sys\_trigger\] table for duplicate entries or missing
 
 </td><td>
 
-Verifies whether the [[hermes-messaging-service|Hermes Messaging Service]] is available.-   **Hermes Enabled**
+Verifies whether the Hermes Messaging Service is available.-   **Hermes Enabled**
 
 Determines whether Hermes is enabled by verifying that the Glide Hermes Message Queue plugin \(com.glide.hermes\) is activated.
 
@@ -82,7 +82,3 @@ The resulting messages validate enabled services or the connection to the messag
 
 **Parent Topic:**[Resolving data replication errors in Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/common-issues-idr.md)
 
-## Related
-
-- [[instance-data-replication|Instance Data Replication]]
-- [[hermes-messaging-service|Hermes Messaging Service]]

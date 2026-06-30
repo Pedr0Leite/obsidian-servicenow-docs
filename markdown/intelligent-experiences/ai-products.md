@@ -19,15 +19,15 @@ Choose one of these tiles to get started.
 
 <table id="table_kqk_ttx_r5b" class="nav-card"><tbody><tr><td>
 
-[ServiceNow AI implementation\[Omitted image "bus-rocketship.svg"\] Alt text:Understand the elements of [[platform-now-assist-landing|Now Assist]] and lay the groundwork for a seamless, intelligent experience across your workflows.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/sn-ai-implementation-landing.md)
+[ServiceNow AI implementation\[Omitted image "bus-rocketship.svg"\] Alt text:Understand the elements of Now Assist and lay the groundwork for a seamless, intelligent experience across your workflows.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/sn-ai-implementation-landing.md)
 
 </td><td>
 
-[Now Assist [[ai-assets|AI assets]]\[Omitted image "bus-ai-sparkle.svg"\] Alt text:Explore Now Assist generative AI skills, AI agents, and agentic workflows.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-ai-assets-section.md)
+[Now Assist AI assets\[Omitted image "bus-ai-sparkle.svg"\] Alt text:Explore Now Assist generative AI skills, AI agents, and agentic workflows.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-ai-assets-section.md)
 
 </td><td>
 
-[Large language models \(LLMs\) \[Omitted image "bus-innovation.svg"\] Alt text:Choose the Now LLM Service or supported third-party [[ai-models|AI models]] for skills and agents.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-large-language-model-now-llm/exploring-large-language-models.md)
+[Large language models \(LLMs\) \[Omitted image "bus-innovation.svg"\] Alt text:Choose the Now LLM Service or supported third-party AI models for skills and agents.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-large-language-model-now-llm/exploring-large-language-models.md)
 
 </td></tr><tr><td>
 
@@ -35,15 +35,15 @@ Choose one of these tiles to get started.
 
 </td><td>
 
-[Now Assist AI agents \[Omitted image "bus-3-buildings.svg"\] Alt text: Build and assemble use [[cases|cases]] that drive business outcomes.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/na-ai-agents.md)
+[Now Assist AI agents \[Omitted image "bus-3-buildings.svg"\] Alt text: Build and assemble use cases that drive business outcomes.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/na-ai-agents.md)
 
 </td><td>
 
-[Now Assist Data Kit\[Omitted image "bus-database.svg"\] Alt text:Add [[ai-datasets|datasets]] to a data catalog.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-data-kit/now-assist-data-kit-landing.md)
+[Now Assist Data Kit\[Omitted image "bus-database.svg"\] Alt text:Add datasets to a data catalog.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-data-kit/now-assist-data-kit-landing.md)
 
 </td></tr><tr><td>
 
-[Now Assist Skill Kit\[Omitted image "bus-innovation.svg"\] Alt text:Create custom skills and [[ai-prompts|prompts]] for your Now Assist experience.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/now-assist-skill-kit-landing.md)
+[Now Assist Skill Kit\[Omitted image "bus-innovation.svg"\] Alt text:Create custom skills and prompts for your Now Assist experience.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/now-assist-skill-kit-landing.md)
 
 </td><td>
 
@@ -63,7 +63,7 @@ Choose one of these tiles to get started.
 
 </td><td>
 
-[Natural Language Understanding\[Omitted image "bus-chat.svg"\] Alt text:Use [[nlu-landing|Natural Language Understanding]] \(NLU\) to help your system work with natural human expression and intent.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/nlu-landing.md)
+[Natural Language Understanding\[Omitted image "bus-chat.svg"\] Alt text:Use Natural Language Understanding \(NLU\) to help your system work with natural human expression and intent.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/nlu-landing.md)
 
 </td></tr><tr><td>
 
@@ -71,7 +71,7 @@ Choose one of these tiles to get started.
 
 </td><td>
 
-[Predictive Intelligence \[Omitted image "bus-artificial-intelligence.svg"\] Alt text: Develop ML-based solutions [[using-predictive-intelligence|using Predictive Intelligence]] to create improved work experiences in your instance.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/predictive-intelligence.md)
+[Predictive Intelligence \[Omitted image "bus-artificial-intelligence.svg"\] Alt text: Develop ML-based solutions using Predictive Intelligence to create improved work experiences in your instance.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/predictive-intelligence.md)
 
 </td><td>
 
@@ -79,7 +79,7 @@ Choose one of these tiles to get started.
 
 </td></tr><tr><td>
 
-[Now Assist in [[document-intelligence-landing|Document Intelligence]]\[Omitted image "bus-ai-sparkle.svg"\] Alt text: Use generative AI to analyze and extract information from documents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/docintel-nowassist-landing.md)
+[Now Assist in Document Intelligence\[Omitted image "bus-ai-sparkle.svg"\] Alt text: Use generative AI to analyze and extract information from documents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/docintel-nowassist-landing.md)
 
 </td><td>
 
@@ -106,17 +106,17 @@ Choose one of these tiles to get started.
 
 Enable generative AI features on the ServiceNow AI Platform using Now Assist applications. Generative AI can help your agents and developers work faster and be more productive.
 
-\[Omitted image "now-assist-framework-overview.png"\] Alt text: The Now Assist framework includes Now Assist Admin, [[now-assist-center-now-assist-panel|Now Assist panel]], and [[generative-ai-controller|Generative AI Controller]]. Framework components become available once you install a product such as Now Assist for ITSM.
+\[Omitted image "now-assist-framework-overview.png"\] Alt text: The Now Assist framework includes Now Assist Admin, Now Assist panel, and Generative AI Controller. Framework components become available once you install a product such as Now Assist for ITSM.
 
 ## Now Assist AI agents
 
 ServiceNow AI agents can solve essential business challenges autonomously, accelerating outcomes and empowering people with a skilled digital workforce without limits, so they can focus on their best work.
 
-Use [[ai-agent-studio|AI Agent Studio]] to create, manage, and test AI agents and use cases all in one place. The main Overview page has three sections that give you what you need to understand, begin, and continue developing AI agents and use cases.
+Use AI Agent Studio to create, manage, and test AI agents and use cases all in one place. The main Overview page has three sections that give you what you need to understand, begin, and continue developing AI agents and use cases.
 
 ## Now Assist Data Kit
 
-If the base system [[now-assist-skills|Now Assist skills]] don't fit your needs, you can use [[now-assist-data-kit-landing|Now Assist Data Kit]] to create custom datasets and data collections that can be used in [[now-assist-skill-kit-landing|Now Assist Skill Kit]] for evaluation.
+If the base system Now Assist skills don't fit your needs, you can use Now Assist Data Kit to create custom datasets and data collections that can be used in Now Assist Skill Kit for evaluation.
 
 \[Omitted image "na-data-kit-infographic.png"\] Alt text: Now Assist Data kit workflow
 
@@ -128,11 +128,11 @@ Use Now Assist Skill Kit to create custom skills. These custom skills give you g
 
 ## AI Control Tower
 
-[[ai-control-tower-landing|AI Control Tower]] can help organizations monitor, manage, and govern AI assets on the ServiceNow AI Platform. An AI Control Tower framework is a set of principles, practices, and protocols that guide the development, use, and deployment of [[ai-system|AI systems]]. The AI Control Tower framework helps organizations deliver AI consistent with their own responsible AI principles.
+AI Control Tower can help organizations monitor, manage, and govern AI assets on the ServiceNow AI Platform. An AI Control Tower framework is a set of principles, practices, and protocols that guide the development, use, and deployment of AI systems. The AI Control Tower framework helps organizations deliver AI consistent with their own responsible AI principles.
 
 ## Knowledge Graph
 
-[[knowledge-graph-landing|Knowledge Graph]] application enhances the Now Platform by creating a semantic layer that connects data, relationships, and context across the enterprise. It structures information as a graph of entities and connections, bringing context and meaning to the available raw data. By leveraging AI, it powers personalized and intelligent experiences across the Now Assist ecosystem including NAVA, AI Agents, and AI Search to deliver more relevant insights and automation.
+Knowledge Graph application enhances the Now Platform by creating a semantic layer that connects data, relationships, and context across the enterprise. It structures information as a graph of entities and connections, bringing context and meaning to the available raw data. By leveraging AI, it powers personalized and intelligent experiences across the Now Assist ecosystem including NAVA, AI Agents, and AI Search to deliver more relevant insights and automation.
 
 By linking data and embedding semantic meaning, Knowledge Graph transforms raw data into actionable knowledge, fueling faster resolutions, richer insights, and more personalized AI-powered experiences.
 
@@ -142,7 +142,7 @@ The Model Context Protocol defines a standard method of communication between la
 
 ## Now Assist Readiness Evaluation
 
-The [[now-assist-readiness-evaluation-landing-page|Now Assist Readiness Evaluation]] app is a solution designed to simplify and automate the agentic AI and Now Assist implementation assessment process. The app helps to determine whether your organization's instance is ready to implement generative and agentic AI features in Now Assist. Previously, manually assessing your organization's instance readiness was time consuming and took significant effort. Now, you can use the Now Assist Readiness Evaluation app to automate gathering, processing, and analyzing instance data so that you can review your instance readiness more quickly. The app provides results within seconds, helping to reduce manual effort and promoting rapid and reliable assessments.
+The Now Assist Readiness Evaluation app is a solution designed to simplify and automate the agentic AI and Now Assist implementation assessment process. The app helps to determine whether your organization's instance is ready to implement generative and agentic AI features in Now Assist. Previously, manually assessing your organization's instance readiness was time consuming and took significant effort. Now, you can use the Now Assist Readiness Evaluation app to automate gathering, processing, and analyzing instance data so that you can review your instance readiness more quickly. The app provides results within seconds, helping to reduce manual effort and promoting rapid and reliable assessments.
 
 ## Natural Language Understanding
 
@@ -152,13 +152,13 @@ Help users communicate with your system in naturally-expressed language, using N
 
 ## Natural Language Query
 
-Transform natural-language questions into formal database queries with [[natural-language-query|Natural Language Query]] \(NLQ\). Get data from your instance by using plain language requests in the supported languages American English, French, French Canadian, German, Japanese, and Spanish. NLQ is consumed by several other applications and features, including Analytics, Reporting, and CMDB \(English is the only supported language for CMDB\).
+Transform natural-language questions into formal database queries with Natural Language Query \(NLQ\). Get data from your instance by using plain language requests in the supported languages American English, French, French Canadian, German, Japanese, and Spanish. NLQ is consumed by several other applications and features, including Analytics, Reporting, and CMDB \(English is the only supported language for CMDB\).
 
 \[Omitted image "nlq-example.png"\] Alt text: Natural Language Query example: How many llamas have brown hair and weigh more than 20 pounds? Becomes from=llama, where hair=brown and weight is greater than 20.
 
 ## Predictive Intelligence
 
-Train your system to automate request handling with [[predictive-intelligence-landing|Predictive Intelligence]]. Three machine-learning frameworks \(classification, clustering, and similarity\) can help you address a range of business challenges. Discover patterns in your data, reduce task-handling times and interaction or error counts, highlight issues shared between similar records, and manage records collectively. Support is available for a set of languages.
+Train your system to automate request handling with Predictive Intelligence. Three machine-learning frameworks \(classification, clustering, and similarity\) can help you address a range of business challenges. Discover patterns in your data, reduce task-handling times and interaction or error counts, highlight issues shared between similar records, and manage records collectively. Support is available for a set of languages.
 
 \[Omitted image "predictive-intelligence-resolves-faster.png"\] Alt text: Shows users the Predictive Intelligence benefits
 
@@ -168,11 +168,11 @@ Get clear, concise data from your records quickly, and integrate it where you ne
 
 \[Omitted image "docintel-table-panel-image2.png"\] Alt text: Document Intelligence workspace showing side panels for data extraction.
 
-You can use [[docintel-nowassist-landing|Now Assist in Document Intelligence]] skills to extract information and find answers to questions about documents.
+You can use Now Assist in Document Intelligence skills to extract information and find answers to questions about documents.
 
 ## Task Intelligence
 
-Achieve faster response and task-solving times for your Agents, by using [[task-intelligence|Task Intelligence]]. This tool lets you engineer ML solutions that handle data and track the efficacy of those solutions. Build, train, edit, and retrain machine-learning models in the Admin Console, and export them for use across the ServiceNow AI Platform. Follow up with the Analytics dashboard, where you can track your models' performance and effects on your business, and determine which predictions are best for future reuse.
+Achieve faster response and task-solving times for your Agents, by using Task Intelligence. This tool lets you engineer ML solutions that handle data and track the efficacy of those solutions. Build, train, edit, and retrain machine-learning models in the Admin Console, and export them for use across the ServiceNow AI Platform. Follow up with the Analytics dashboard, where you can track your models' performance and effects on your business, and determine which predictions are best for future reuse.
 
 \[Omitted image "ti-admin-console.gif"\] Alt text: The Task Intelligence Admin Console displays the available models, key metrics, and helpful information.
 
@@ -180,38 +180,10 @@ Achieve faster response and task-solving times for your Agents, by using [[task-
 
 Set up, deploy, manage, and optimize your generative‑AI solutions on the ServiceNow AI Platform from a single workspace that consolidates the various Now Assist applications into a single, guided, conversational environment.
 
--   Use [[now-assist-center-landing-page|Now Assist Center]] to access and manage Now Assist AI capabilities from a single, unified workspace without switching between tools.
+-   Use Now Assist Center to access and manage Now Assist AI capabilities from a single, unified workspace without switching between tools.
 -   Describe business objectives in plain language and let the platform translate those objectives into deployable AI solutions, complete with guided configuration steps and automated workflows.
 -   Work with a conversational admin companion to complete setup and advanced configuration tasks through natural language, even when you do not know where settings live or which steps come first.
--   Rely on built‑in governance and safety [[controls|controls]] to protect data, filter content, and guard against prompt injection so that your AI solutions are deployed efficiently, consistently, and responsibly.
+-   Rely on built‑in governance and safety controls to protect data, filter content, and guard against prompt injection so that your AI solutions are deployed efficiently, consistently, and responsibly.
 
-\[Omitted image "now-assist-center-overview-2.png"\] Alt text: The [[now-assist-center-workspace|Now Assist Center workspace]] displays features that allow you to access and manage your Now Assist solutions from a single place.
+\[Omitted image "now-assist-center-overview-2.png"\] Alt text: The Now Assist Center workspace displays features that allow you to access and manage your Now Assist solutions from a single place.
 
-## Related
-
-- [[platform-now-assist-landing|Now Assist]]
-- [[ai-assets|AI assets]]
-- [[ai-models|AI models]]
-- [[cases|Cases]]
-- [[ai-datasets|Datasets]]
-- [[ai-prompts|Prompts]]
-- [[nlu-landing|Natural Language Understanding]]
-- [[using-predictive-intelligence|Using Predictive Intelligence]]
-- [[document-intelligence-landing|Document Intelligence]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[generative-ai-controller|Generative AI Controller]]
-- [[ai-agent-studio|AI Agent Studio]]
-- [[now-assist-skills|Now Assist skills]]
-- [[now-assist-data-kit-landing|Now Assist Data Kit]]
-- [[now-assist-skill-kit-landing|Now Assist Skill Kit]]
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[ai-system|AI systems]]
-- [[knowledge-graph-landing|Knowledge Graph]]
-- [[now-assist-readiness-evaluation-landing-page|Now Assist Readiness Evaluation]]
-- [[natural-language-query|Natural Language Query]]
-- [[predictive-intelligence-landing|Predictive Intelligence]]
-- [[docintel-nowassist-landing|Now Assist in Document Intelligence]]
-- [[task-intelligence|Task Intelligence]]
-- [[now-assist-center-landing-page|Now Assist Center]]
-- [[controls|Controls]]
-- [[now-assist-center-workspace|Now Assist Center workspace]]

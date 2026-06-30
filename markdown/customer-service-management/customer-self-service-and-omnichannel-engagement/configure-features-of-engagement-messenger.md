@@ -14,13 +14,13 @@ breadcrumb: [Engagement Messenger, Set up self-service, Configure, Customer Serv
 
 # Feature configuration for Engagement Messenger
 
-Configure the [[features-of-engagement-messenger|features of Engagement Messenger]] so that you can change the default settings to suit your customer needs.
+Configure the features of Engagement Messenger so that you can change the default settings to suit your customer needs.
 
 ## Before you begin
 
 Role required: sn\_csm\_ec.ec\_admin
 
-You must [[create-engagement-messenger-module|configure Engagement Messenger]] before configuring its features. For more information, see [Configure Engagement Messenger](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/create-engagement-messenger-module.md).
+You must configure Engagement Messenger before configuring its features. For more information, see [Configure Engagement Messenger](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/create-engagement-messenger-module.md).
 
 ## About this task
 
@@ -40,21 +40,21 @@ Use the Features section of the guided configuration to customize the messenger 
 
 4.  Open one of the following features and modify the values:
 
-    -   Greeting: See [[greeting-feature-configuration-fields|Greeting feature configuration]].
-    -   Knowledge: See [[knowledge-feature-configuration-fields|Knowledge feature configuration]].
-    -   Search: See [[search-feature-configuration-fields|Search feature configuration]].
-    -   Case: See [[case-management-feature-configuration-fields|Case management feature configuration]].
-    -   Catalog: See [[catalog-feature-configuration|Catalog feature configuration]].
-    -   Field service: See [[field-service-feature-configuration|Field service feature configuration]].
-    -   Walk-up: See [[walk-up-feature-configuration|Walk-up feature configuration]].
-    -   Chat with an agent: See [[agent-chat-feature-configuration-fields|Chat feature configuration form fields]].
+    -   Greeting: See [Greeting feature configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/greeting-feature-configuration-fields.md).
+    -   Knowledge: See [Knowledge feature configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/knowledge-feature-configuration-fields.md).
+    -   Search: See [Search feature configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/search-feature-configuration-fields.md).
+    -   Case: See [Case management feature configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-management-feature-configuration-fields.md).
+    -   Catalog: See [Catalog feature configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/catalog-feature-configuration.md).
+    -   Field service: See [Field service feature configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/field-service-feature-configuration.md).
+    -   Walk-up: See [Walk-up feature configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/walk-up-feature-configuration.md).
+    -   Chat with an agent: See [Chat feature configuration form fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/agent-chat-feature-configuration-fields.md).
 
         **Note:**
 
         -   The knowledge article, catalog item, and case links sent by an agent can be opened within Engagement Messenger. You can configure how links should be open in a messenger. For more information, see [Create a smart link preference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/create-smart-link-preference.md).
         -   You can also enable the Now Assist in Virtual Agent in Engagement Messenger by [Configuring assistants overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/configure-now-assist-va.md) and then [Display your assistant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/display-assistant-portal-channel.md) in Engagement Messenger.
-    -   Configurable Cards: See [[configurable-card|Configurable Cards feature configuration]].
-    -   Callback: See [[em-callback|Callback feature configuration form]].
+    -   Configurable Cards: See [Configurable Cards feature configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configurable-card.md).
+    -   Callback: See [Callback feature configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/em-callback.md).
 5.  You can also add a feature in the **Features** section using Configurable Cards.
 
     1.  Select **Add custom feature**.
@@ -80,17 +80,3 @@ Use the Features section of the guided configuration to customize the messenger 
 
 [Create an identity provider \(IdP\) for Engagement Messenger](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/create-identity-providers-for-engagement-messenger.md)
 
-## Related
-
-- [[greeting-feature-configuration-fields|Greeting feature configuration]]
-- [[knowledge-feature-configuration-fields|Knowledge feature configuration]]
-- [[search-feature-configuration-fields|Search feature configuration]]
-- [[case-management-feature-configuration-fields|Case management feature configuration]]
-- [[catalog-feature-configuration|Catalog feature configuration]]
-- [[field-service-feature-configuration|Field service feature configuration]]
-- [[walk-up-feature-configuration|Walk-up feature configuration]]
-- [[agent-chat-feature-configuration-fields|Chat feature configuration form fields]]
-- [[configurable-card|Configurable Cards feature configuration]]
-- [[em-callback|Callback feature configuration form]]
-- [[features-of-engagement-messenger|Features of Engagement Messenger]]
-- [[create-engagement-messenger-module|Configure Engagement Messenger]]

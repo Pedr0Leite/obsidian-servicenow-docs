@@ -15,7 +15,7 @@ breadcrumb: [Configure Advanced Work Assignment for Accounts Payable Operations,
 
 # Configure Agent chat for Accounts Payable Operations
 
-Configure agent chat settings in [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] to enable AP agents to interact with suppliers through live chat.
+Configure agent chat settings in Accounts Payable Operations to enable AP agents to interact with suppliers through live chat.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **[[purch-order-mgmt-ws|Source-to-Pay workspace]]** &gt; **All** &gt; **Conversational Interfaces** &gt; **Settings** &gt; **Agent control**.
+1.  Navigate to **Source-to-Pay workspace** &gt; **All** &gt; **Conversational Interfaces** &gt; **Settings** &gt; **Agent control**.
 
     \[Omitted image "apo-agent-chat.png"\] Alt text: Toggle agent names and avatars
 
@@ -46,7 +46,3 @@ The agent chat settings are configured to interact with an Accounts Payable Oper
 
 **Parent Topic:**[Configure Advanced Work Assignment for Accounts Payable Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/configure-advanced-work-assignment-for-apo.md)
 
-## Related
-
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

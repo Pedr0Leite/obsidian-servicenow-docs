@@ -18,13 +18,13 @@ Set up scheduled import jobs to pull in data from a Trellix project into your CM
 
 ## Before you begin
 
-**Important:** Unless there are configuration issues, use [[sgcc-landing|SGC Central]] to configure the connection. The guided setup method for configuration is being deprecated.
+**Important:** Unless there are configuration issues, use SGC Central to configure the connection. The guided setup method for configuration is being deprecated.
 
 To use this Service Graph Connector, you need a subscription to a Subscription Unit that is based in the IT Operations Management \(ITOM\) Visibility application or in the ITOM Discovery application. As defined in the section titled "Managed IT Resource Types" in [ServiceNow Subscription Unit Overview](https://www.servicenow.com/products/entitlements-packages.html) for your subscription, for managed IT resources that are created or modified in the CMDB by this Service Graph Connector, but that aren’t yet managed by [ITOM Visibility or ITOM Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-license-module.md), these resources will increase Subscription Unit consumption from that application. Review your current Subscription Unit consumption within ITOM Visibility or ITOM Discovery to ensure available capacity.
 
 Dependencies and requirements:
 
--   The [[integration-commons-for-cmdb|Integration Commons for CMDB]] store app, which is automatically installed. See [Integration Commons for CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-integration-commons/integration-commons-for-cmdb.md).
+-   The Integration Commons for CMDB store app, which is automatically installed. See [Integration Commons for CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-integration-commons/integration-commons-for-cmdb.md).
 -   The CMDB CI class models store app, which is automatically installed. See [CMDB CI Class Models app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models/cmdb-ci-class-models.md).
 -   The ITOM Licensing plugin \(com.snc.itom.license\). See [Request Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/t_ActivateTheDiscoveryPlugin.md).
 
@@ -32,11 +32,11 @@ Role required: admin
 
 ## Procedure
 
-1.  Verify that the application scope is set to the [[sgc-integration-trellix|Service Graph Connector for Trellix]] application by using the application picker.
+1.  Verify that the application scope is set to the Service Graph Connector for Trellix application by using the application picker.
 
     For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
 
-2.  Navigate to **All** &gt; **[[cmdb-sgc-available|Service Graph Connectors]]** &gt; **Trellix** &gt; **Setup**.
+2.  Navigate to **All** &gt; **Service Graph Connectors** &gt; **Trellix** &gt; **Setup**.
 
 3.  On the Service Graph Connector for Trellix page, verify that the **Quick Start** option is selected, and then select **Continue**.
 
@@ -54,7 +54,7 @@ Role required: admin
             |Order|The sequence in which the records are processed. The default value is `100`.|
             |User name|User name of your Trellix account.|
             |Password|Password of your Trellix account.|
-            |Active|Verify that the [[check-box|check box]] is selected.|
+            |Active|Verify that the check box is selected.|
 
         2.  Select **Update** to save the authentication credentials.
         3.  Set the Configure Trellix authentication credentials task to complete by selecting **Mark as complete**, and then select **Continue**.
@@ -120,7 +120,7 @@ Base URL of the connection. The base URL is the hostname of your Trellix instanc
 
 </td></tr><tr><td>
 
-Use [[mid-server-landing|MID server]]
+Use MID server
 
 </td><td>
 
@@ -304,11 +304,3 @@ Password of your Trellix account.
 
 [Accessing the connection details of Service Graph Connector for Trellix](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-trellix-conn.md)
 
-## Related
-
-- [[sgcc-landing|SGC Central]]
-- [[integration-commons-for-cmdb|Integration Commons for CMDB]]
-- [[sgc-integration-trellix|Service Graph Connector for Trellix]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[check-box|Check box]]
-- [[mid-server-landing|MID Server]]

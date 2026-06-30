@@ -14,21 +14,21 @@ breadcrumb: [Configure and customize the migration to SOW, Migrate from ITSM Age
 
 # New record menu items migration from ITSM Agent Workspace to Service Operations Workspace for ITSM
 
-Migration of the new record menu items from ITSM Agent Workspace to [[sow-landing-page|Service Operations Workspace for ITSM]] includes identifying the required tables, identifying new record menu items for migrations, and the migration process.
+Migration of the new record menu items from ITSM Agent Workspace to Service Operations Workspace for ITSM includes identifying the required tables, identifying new record menu items for migrations, and the migration process.
 
 ## System property
 
 `sys_property: sn_sow_migration.itsm_aw_migration_tables`
 
-Records corresponding to only these tables are [[migrated-records|migrated]] from ITSM Agent Workspace to Service Operations Workspace.
+Records corresponding to only these tables are migrated from ITSM Agent Workspace to Service Operations Workspace.
 
 ## Table used for migration
 
-New Record Menu Item \[sys\_aw\_new\_menu\_item\]: Contains the active records to [[migrate-itsm-agent-workspace-to-sow|migrate from ITSM Agent Workspace to Service Operations Workspace for ITSM]].
+New Record Menu Item \[sys\_aw\_new\_menu\_item\]: Contains the active records to migrate from ITSM Agent Workspace to Service Operations Workspace for ITSM.
 
 ## How the migration utility identifies new record menu items for migration
 
-The Service Operations Workspace [[migration-utility|migration utility]] identifies the new record menu items to migrate based on the following information:
+The Service Operations Workspace migration utility identifies the new record menu items to migrate based on the following information:
 
 -   Active records of ITSM Agent Workspace table specified by the New Record Menu Item \[sys\_aw\_new\_menu\_item\] table.
 -   The records of a table already mentioned in the new record menu item configuration for Service Operations Workspace aren’t migrated to avoid duplicates.
@@ -82,7 +82,7 @@ The Service Operations Workspace migration utility uses the following sequence t
 6.  Adds the code to the existing **chrome\_tab** JSON value for the new record menu.
 
 -   **[Perform post-migration tasks for new records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/verify-migration-status-new-records.md)**  
-Verify that the new record menus in Service Operations Workspace \(SOW\) are consistent with the new record menus in ITSM Agent Workspace \(ITSM AW\) and they are ready for use in SOW. You can update the migrated new record menu [[settings-mobile|settings]] in SOW based on your requirements.
+Verify that the new record menus in Service Operations Workspace \(SOW\) are consistent with the new record menus in ITSM Agent Workspace \(ITSM AW\) and they are ready for use in SOW. You can update the migrated new record menu settings in SOW based on your requirements.
 
 **Parent Topic:**[Configurations and customizations that can be migrated from ITSM Agent workspace to SOW for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configurations-and-customizations-from-itsm-aw-sow-itsm.md)
 
@@ -111,10 +111,3 @@ Verify that the new record menus in Service Operations Workspace \(SOW\) are con
 
 [Migration of field decorators from ITSM Agent Workspace to Service Operations Workspace for ITSM]()
 
-## Related
-
-- [[sow-landing-page|Service Operations Workspace for ITSM]]
-- [[migrated-records|Migrated]]
-- [[migrate-itsm-agent-workspace-to-sow|Migrate from ITSM Agent Workspace to Service Operations Workspace for ITSM]]
-- [[migration-utility|Migration Utility]]
-- [[settings-mobile|Settings]]

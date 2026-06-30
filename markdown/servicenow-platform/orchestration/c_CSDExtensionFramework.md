@@ -14,7 +14,7 @@ breadcrumb: [Client Software Distribution, Orchestration applications, Classic O
 
 # Client software distribution extension framework
 
-[[c_ClientSoftwareDistribution|Client software distribution]] \(CSD\) provides built-in extension points for integrating a ServiceNow instance with client software distribution providers, such as Casper, Altiris, or LANDesk.
+Client software distribution \(CSD\) provides built-in extension points for integrating a ServiceNow instance with client software distribution providers, such as Casper, Altiris, or LANDesk.
 
 **Important:** The use of CSD extension points is an advanced procedure intended for use by experienced ServiceNow AI Platform developers only. Instructions for customizing your instance to deploy and revoke software from a software distribution provider can be found in the CSD Extension Implementation Guide.
 
@@ -27,6 +27,3 @@ The client software distribution \(CSD\) extension points create the customizati
 
 **Parent Topic:**[Client Software Distribution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_ClientSoftwareDistribution.md)
 
-## Related
-
-- [[c_ClientSoftwareDistribution|Client Software Distribution]]

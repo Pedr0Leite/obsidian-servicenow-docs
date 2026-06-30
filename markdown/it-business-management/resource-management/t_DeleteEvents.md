@@ -26,7 +26,7 @@ You can’t delete any events added to your calendar by a resource manager.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[c_MyCalendar|My Calendar]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **My Calendar**.
 
 2.  Find the event to delete.
 
@@ -56,6 +56,3 @@ When you delete a calender event, the resource aggregate daily, weekly, and mont
 
 [Add events to a user calendar]()
 
-## Related
-
-- [[c_MyCalendar|My Calendar]]

@@ -26,10 +26,8 @@ If a cost allocation of the same type already exists for the referenced invoice 
 
 ## Procedure
 
-1.  Check existing [[cost-allocations|cost allocations]] for the invoice line — only one allocation per allocation type is permitted per line.
+1.  Check existing cost allocations for the invoice line — only one allocation per allocation type is permitted per line.
 
 2.  If a correction is needed, edit the existing allocation rather than creating a new one.
 
-## Related
 
-- [[cost-allocations|Cost allocations]]

@@ -14,13 +14,13 @@ breadcrumb: [File-based Discovery, Running discoveries in your network, Using Di
 
 # File-based Discovery references
 
-Review this reference material for further details on [[file-based-discovery|File-based Discovery]].
+Review this reference material for further details on File-based Discovery.
 
 ## How File-based Discovery minimizes performance impact
 
 Scanning large networks, particularly for Windows computers, can extend scan time considerably. Moreover, file scanning can create heavy CPU demands on target machines and produce large payloads that greatly increase processing time. To avoid performance issues, File-based Discovery allows you to optimize processing with many of the settings configured using the [Discovery Configuration Console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoveryConfigurationConsole.md).
 
--   **Multi-phase scan**: Probes are triggered in multiple phases to reduce long scan times. The first probe creates the scanning process on the target, which runs in the background. Subsequent probes check the progress of this scan each time [[r-discovery|Discovery]] runs and return the results when the scan is complete. For example, if a file scan is initiated via Quick Discovery or from a Discovery schedule, no information is returned if a background scan is still running. If the scan is finished the next time the server is discovered, the probe returns the data.
+-   **Multi-phase scan**: Probes are triggered in multiple phases to reduce long scan times. The first probe creates the scanning process on the target, which runs in the background. Subsequent probes check the progress of this scan each time Discovery runs and return the results when the scan is complete. For example, if a file scan is initiated via Quick Discovery or from a Discovery schedule, no information is returned if a background scan is still running. If the scan is finished the next time the server is discovered, the probe returns the data.
 
     **Important:** The multi-phase scan that File-based Discovery uses does not return results immediately. Do not expect any results from a file-based scan until Discovery runs again on those targets and fetches the list of files discovered by the previous scan.
 
@@ -29,7 +29,7 @@ Scanning large networks, particularly for Windows computers, can extend scan tim
 -   **Scan UNIX file names**: Because the number of unique file names used to identify installed software on UNIX is relatively small, the complete list of file names is included in the UNIX probe. This enables the probe to filter the files it discovers against the signature list on the target. No additional filtering is required until the results are returned to the instance.
 -   **Scan Windows file names**: For Windows File-based Discovery, the probe does not initiate a scan on target for full signature list. Instead, Discovery generates a list of file extensions that the probe attempts to match on the target. This reduced list is then filtered on the MID Server against the entire Windows signature list.
 -   **Reduced payloads**: By filtering the scan results with the file signature list before the results get to the instance, Discovery reduces the size of the payload from target servers. Only those files from the targets that match the files specified in this list are returned to the instance.
--   **Scan throttling**: To reduce the impact on Windows CPU and I/O performance on remote targets, Windows File-based Discovery is configured to sleep occasionally during scans. You can fine-tune this behavior with [[r_DiscoveryProperties|Discovery properties]]. Throttling Windows scans can make those scans take longer.
+-   **Scan throttling**: To reduce the impact on Windows CPU and I/O performance on remote targets, Windows File-based Discovery is configured to sleep occasionally during scans. You can fine-tune this behavior with Discovery properties. Throttling Windows scans can make those scans take longer.
 
 ## File-based Discovery tables
 
@@ -69,8 +69,3 @@ If you're experiencing any issues when setting up or running File-based Discover
 
 [File-based Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/file-based-discovery.md)
 
-## Related
-
-- [[file-based-discovery|File-based Discovery]]
-- [[r-discovery|Discovery]]
-- [[r_DiscoveryProperties|Discovery properties]]

@@ -38,7 +38,7 @@ ServiceNow supports PowerShell 3.0 to 5.1.
 
 </td><td>
 
-Use the variables you created to configure the command that Orchestration executes on the [[mid-server-landing|MID Server]].
+Use the variables you created to configure the command that Orchestration executes on the MID Server.
 
 </td></tr><tr><td id="d562257e129">
 
@@ -46,7 +46,7 @@ Use the variables you created to configure the command that Orchestration execut
 
 </td><td>
 
-Host name or [[ip-address|IP address]] of the target server for this PowerShell activity.
+Host name or IP address of the target server for this PowerShell activity.
 
 </td></tr><tr><td id="d562257e138">
 
@@ -96,11 +96,11 @@ If checked, this activity authenticates on the target host using the credentials
 
 </td><td>
 
-Credential tag this activity must use to run PowerShell commands on the host. If this field is left blank, the MID Server tries all the available credentials until it finds a valid one, ending with the MID Server service account. If a credential tag is defined, the MID Server tries the credentials with that tag specified only and does not try the MID Server service account. **Note:** This field is not available when the **Use MID service account** [[check-box|check box]] is selected.
+Credential tag this activity must use to run PowerShell commands on the host. If this field is left blank, the MID Server tries all the available credentials until it finds a valid one, ending with the MID Server service account. If a credential tag is defined, the MID Server tries the credentials with that tag specified only and does not try the MID Server service account. **Note:** This field is not available when the **Use MID service account** check box is selected.
 
 </td></tr><tr><td id="d562257e229">
 
-**Required [[mid-server-capabilities|MID Server capabilities]]**
+**Required MID Server capabilities**
 
 </td><td>
 
@@ -199,7 +199,7 @@ midScriptFile
 
 </td><td>
 
-[[reference|Reference]]
+Reference
 
 </td><td>
 
@@ -270,7 +270,7 @@ Array of hashmap
 
 </td><td>
 
-Capability values used to select the MID Server. For more information, see [MID Server capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown). If there are additional capabilities that are assigned by value, use this example to customize the [[c_MIDServerSelector|MID Server selection]]:```
+Capability values used to select the MID Server. For more information, see [MID Server capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown). If there are additional capabilities that are assigned by value, use this example to customize the MID Server selection:```
 var valueCapability = {'NEW_MID_CAPABIILTY':'NEW_MID_CAPABILITY_VALUE'};
 executionParam.valueCapabilities.push(valueCapability);
 ```
@@ -398,12 +398,3 @@ Contains any error messages retrieved from the PowerShell command. This value is
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[ip-address|IP Address]]
-- [[check-box|Check box]]
-- [[mid-server-capabilities|MID Server capabilities]]
-- [[reference|Reference]]
-- [[c_MIDServerSelector|MID Server selection]]

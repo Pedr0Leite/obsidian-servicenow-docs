@@ -12,7 +12,7 @@ breadcrumb: [Configuring product offer eligibility, Configuring product offering
 
 # Use extension points in product eligibility
 
-Use extension points to call custom [[scripts|scripts]] from external sources that control product eligibility logic used in the [[order-mgt-overview|Sales Customer Relationship Management]] \(Sales CRM\) applications.
+Use extension points to call custom scripts from external sources that control product eligibility logic used in the Sales Customer Relationship Management \(Sales CRM\) applications.
 
 To access the available extension points, navigate to **All** &gt; **Scripted Extension Points** and in the Extension Points list, select the desired extension point to view it.
 
@@ -23,13 +23,7 @@ To access the available extension points, navigate to **All** &gt; **Scripted Ex
 **Related topics**  
 
 
-[[using-product-catalog|Using product catalogs]]
+[Using product catalogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-product-catalog.md)
 
-[[product-catalog-managment|Product Catalog Management]]
+[Product Catalog Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/product-catalog-managment.md)
 
-## Related
-
-- [[using-product-catalog|Using product catalogs]]
-- [[product-catalog-managment|Product Catalog Management]]
-- [[scripts|Scripts]]
-- [[order-mgt-overview|Sales Customer Relationship Management]]

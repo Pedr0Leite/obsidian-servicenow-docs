@@ -14,7 +14,7 @@ breadcrumb: [Service offerings in Service Portfolio Management, Use, Service Por
 
 # View a service offering in Service Portfolio Management
 
-View [[SPM2-service-offerings|service offerings in Service Portfolio Management]] to find offerings that add value to your organization and external users. You can also view service offerings in the [[service-builder|Service Builder]] application.
+View service offerings in Service Portfolio Management to find offerings that add value to your organization and external users. You can also view service offerings in the Service Builder application.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: service\_editor
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[SPM2-landing-page|Service Portfolio Management]]** &gt; **Service Offerings**.
+1.  Navigate to **All** &gt; **Service Portfolio Management** &gt; **Service Offerings**.
 
 2.  Find the service offering by scrolling through the list or select the filter \(\[Omitted image "filter-outline-24.svg"\] Alt text: Filter icon.\) to adjust the filter conditions.
 
@@ -61,8 +61,3 @@ Role required: service\_editor
 
 [Create a service offering in Service Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-builder/create-edit-service-offering.md)
 
-## Related
-
-- [[SPM2-service-offerings|Service offerings in Service Portfolio Management]]
-- [[service-builder|Service Builder]]
-- [[SPM2-landing-page|Service Portfolio Management]]

@@ -32,14 +32,10 @@ Role required: sn\_telecom\_c360.admin
     |Task table query conditions|Query conditions that filter each task table to records related to the current context record. For example, filter cases by matching the case account sys\_id to the current account sys\_id.|
 
 
-**Parent Topic:**[[c360-configure-variables|Configure the Telecommunications Customer 360 variables]]
+**Parent Topic:**[Configure the Telecommunications Customer 360 variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/c360-configure-variables.md)
 
 **Related topics**  
 
 
-[[c360-tasks-card|All tasks card]]
+[All tasks card](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/c360-tasks-card.md)
 
-## Related
-
-- [[c360-configure-variables|Configure the Telecommunications Customer 360 variables]]
-- [[c360-tasks-card|All tasks card]]

@@ -56,14 +56,14 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
--   [[itom-visibility-landing-page|ITOM Visibility]]
--   [[itom-health-landing-page|ITOM AIOps]]
--   [[hla-landing-page|Health Log Analytics]]
--   [[itom-cloud-accelerate-landing-page|ITOM Cloud Accelerate]]
--   ITOM [[r-discovery|Discovery]]
--   [[itom-optimization-landing-page|ITOM Optimization]]
+-   ITOM Visibility
+-   ITOM AIOps
+-   Health Log Analytics
+-   ITOM Cloud Accelerate
+-   ITOM Discovery
+-   ITOM Optimization
 -   ITOM Digital End-User Experience \(DEX\)
--   ITOM [[service-observability|Service Observability]]
+-   ITOM Service Observability
 
 </td><td>
 
@@ -84,15 +84,5 @@ Hover over the vertical bar in the Subscription units area for the desired day t
 The third area shows which version of the ITOM Licensing is used on the instance each day. It helps explain spikes in count every time the new version is installed.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[itom-su-licensing-reference|ITOM/OT SU Licensing Reference]]
+</table>**Parent Topic:**[ITOM/OT SU Licensing Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-su-licensing-reference.md)
 
-## Related
-
-- [[itom-su-licensing-reference|ITOM/OT SU Licensing Reference]]
-- [[itom-visibility-landing-page|ITOM Visibility]]
-- [[itom-health-landing-page|ITOM AIOps]]
-- [[hla-landing-page|Health Log Analytics]]
-- [[itom-cloud-accelerate-landing-page|ITOM Cloud Accelerate]]
-- [[r-discovery|Discovery]]
-- [[itom-optimization-landing-page|ITOM Optimization]]
-- [[service-observability|Service Observability]]

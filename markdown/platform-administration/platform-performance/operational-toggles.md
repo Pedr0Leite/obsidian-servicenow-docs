@@ -22,7 +22,7 @@ You can use system run levels to map descriptive names to operational toggle lev
 
 Operational toggles can be used to throttle application performance during high-use periods. By adjusting operational toggles, you can limit the number of events or jobs running within an application's scope to help prevent system overload.
 
-You can also create operational toggles to enhance user experience. For example, a type-ahead search polling toggle might help users complete searches more quickly. You could add this toggle to enable users to perform type-ahead searches based on keystroke values, providing real-time [[search-suggestions-overview|search suggestions]] as they type.
+You can also create operational toggles to enhance user experience. For example, a type-ahead search polling toggle might help users complete searches more quickly. You could add this toggle to enable users to perform type-ahead searches based on keystroke values, providing real-time search suggestions as they type.
 
 ## Operational toggle levels
 
@@ -30,9 +30,5 @@ You can create different levels of your desired toggle. For example, you might w
 
 ## Run level toggle mapping
 
-You can associate the system run level to the toggle level with toggle mapping. Depending on your instance health, the API returns the appropriate toggle level value and exception roles. For information about how to [[create-run-level-toggle-mapping|create run level toggle mapping]], see. [Create run level toggle mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/create-run-level-toggle-mapping.md).
+You can associate the system run level to the toggle level with toggle mapping. Depending on your instance health, the API returns the appropriate toggle level value and exception roles. For information about how to create run level toggle mapping, see. [Create run level toggle mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/create-run-level-toggle-mapping.md).
 
-## Related
-
-- [[search-suggestions-overview|Search Suggestions]]
-- [[create-run-level-toggle-mapping|Create run level toggle mapping]]

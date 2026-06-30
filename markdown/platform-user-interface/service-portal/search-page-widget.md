@@ -14,7 +14,7 @@ breadcrumb: [Search widgets, Widget library, Using portal widgets, Configuring S
 
 # Legacy: Search Page widget
 
-The Search Page widget displays search results. The [[faceted-search|Faceted Search widget]] replaces the Search Page widget. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
+The Search Page widget displays search results. The Faceted Search widget replaces the Search Page widget. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 
 \[Omitted image "WidgetSearchPage.png"\] Alt text: Search Page widget showing results for "Email
 
@@ -34,13 +34,9 @@ For more information on configuring search, see [Configuring search in a portal]
 **Related topics**  
 
 
-[Create and edit a page using the [[c_ServicePortal|Service Portal]] Designer]()
+[Create and edit a page using the Service Portal Designer]()
 
 [Configure widget instances]()
 
 [Clone a widget]()
 
-## Related
-
-- [[faceted-search|Faceted Search widget]]
-- [[c_ServicePortal|Service Portal]]

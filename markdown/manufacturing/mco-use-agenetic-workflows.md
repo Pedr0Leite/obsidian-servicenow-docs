@@ -12,7 +12,7 @@ breadcrumb: [Now Assist for MCO, Manufacturing Commercial Operations]
 
 # Using agentic workflows in Now Assist for Manufacturing Commercial Operations \(MCO\)
 
-Use the MCO AI agents within an agentic workflow to extract relevant data from repair documents, enabling the generation of [[mco-corrective-actions|corrective actions]] and associated charges.
+Use the MCO AI agents within an agentic workflow to extract relevant data from repair documents, enabling the generation of corrective actions and associated charges.
 
 <table id="table_zyk_1c2_dhc"><thead><tr><th>
 
@@ -38,7 +38,7 @@ This workflow enhances the efficiency of recall execution by automatically creat
 
 Create recall corrective actions AI agent
 
- Plan and execute [[mco-rcl-clms|recall campaign]] phases and subphases AI agent
+ Plan and execute recall campaign phases and subphases AI agent
 
 </td></tr></tbody>
 </table>Enable security implementation to execute AI agents and agentic workflows through Access Control Lists \(ACLs\) and user identities. For more information, see [Implement access control in Now Assist AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-security-implementation.md)
@@ -56,12 +56,7 @@ To run the AI agents autonomously, you must first [duplicate the agentic workflo
 
 [Explore Now Assist AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/exploring-ai-agents.md)
 
-[[execute-recall-campaigns|Create recall corrective actions using Now Assist for Manufacturing Commercial Operations \(MCO\)]]
+[Create recall corrective actions using Now Assist for Manufacturing Commercial Operations \(MCO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/execute-recall-campaigns.md)
 
 [Large language models on the ServiceNow AI Platform®](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/exploring-large-language-models.md)
 
-## Related
-
-- [[execute-recall-campaigns|Create recall corrective actions using Now Assist for Manufacturing Commercial Operations \(MCO\)]]
-- [[mco-corrective-actions|Corrective actions]]
-- [[mco-rcl-clms|Recall campaign]]

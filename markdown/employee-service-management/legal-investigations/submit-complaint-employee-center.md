@@ -14,7 +14,7 @@ breadcrumb: [Requests, Legal Investigations, Legal Service Delivery Practice App
 
 # Submit a complaint through Employee Center
 
-Submit a complaint through the [[employee-center-landing-page|Employee Center]] portal to report a compliance violation incident for investigation and resolution.
+Submit a complaint through the Employee Center portal to report a compliance violation incident for investigation and resolution.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ To submit a complaint anonymously, see [Submit a complaint through the Anonymous
 
 ## Procedure
 
-1.  In the Employee Center portal, submit a complaint using either the **Help center** &gt; **Legal services** menu or the **[[emp-center-quick-link-config|Quick links]]** section.
+1.  In the Employee Center portal, submit a complaint using either the **Help center** &gt; **Legal services** menu or the **Quick links** section.
 
 
 **Parent Topic:**[Submitting a complaint for investigation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/submitting-legal-investigations-request.md)
@@ -74,7 +74,7 @@ Role required: sn\_lg\_ops.legal\_user
 
     3.  Click **Add**.
 
-        The involved party record appears in the Involved Parties list on the [[ethics-complaint-intake-form|Ethics Complaints intake form]].
+        The involved party record appears in the Involved Parties list on the Ethics Complaints intake form.
 
     Repeat these steps to add more involved parties.
 
@@ -95,7 +95,7 @@ Role required: sn\_lg\_ops.legal\_user
 
 ### About this task
 
-**Note:** This option is available if the admin has activated the record producer that is mapped to the [[ur-landing-limitedaccess|Universal Request]] \[universal\_request\] table. For more information, see [Record producers for legal investigations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/record-producers-legal-investigation.md).
+**Note:** This option is available if the admin has activated the record producer that is mapped to the Universal Request \[universal\_request\] table. For more information, see [Record producers for legal investigations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/record-producers-legal-investigation.md).
 
 ### Procedure
 
@@ -116,9 +116,3 @@ Role required: sn\_lg\_ops.legal\_user
 
 A universal request is created and is assigned to the [the assignment group as configured](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/integrate-lsd-hrsd.md). A universal request routing agent can triage and work on it.
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[emp-center-quick-link-config|Quick links]]
-- [[ethics-complaint-intake-form|Ethics complaints intake form]]
-- [[ur-landing-limitedaccess|Universal Request]]

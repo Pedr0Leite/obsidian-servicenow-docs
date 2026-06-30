@@ -29,8 +29,5 @@ Close multiple work order tasks in one go.
 -   **[Remediate an unsuccessful enterprise asset calibration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/remediate-unsuccessful-enterprise-asset-calibration.md)**  
 Remediate a failed enterprise asset calibration event by initiating a new work order and corresponding work order tasks for that event.
 
-**Parent Topic:**[[it-asset-management|IT Asset Management]]
+**Parent Topic:**[IT Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/it-asset-management.md)
 
-## Related
-
-- [[it-asset-management|IT Asset Management]]

@@ -24,7 +24,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-My open findings by [[impact-landing-page|impact]] to instance
+My open findings by impact to instance
 
 </td><td>
 
@@ -127,6 +127,3 @@ The following tables show the data source for each overview module and trend cha
 |My findings by file type|sn\_se\_summary\_scan\_detail|
 |My resolved findings|sn\_se\_resolved\_finding\_history|
 
-## Related
-
-- [[impact-landing-page|Impact]]

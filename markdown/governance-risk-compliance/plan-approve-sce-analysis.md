@@ -12,7 +12,7 @@ breadcrumb: [Request the plan approval, Enable the legacy scenario analysis flow
 
 # Approve the plan for the scenario analysis
 
-Approve the plan for the scenario analysis in [[grc-opres-landing-page|Operational Resilience]] Workspace if you're the plan approver. You can track the actions for the [[scenario-analysis-ov|scenario analysis]] by checking your email notifications.
+Approve the plan for the scenario analysis in Operational Resilience Workspace if you're the plan approver. You can track the actions for the scenario analysis by checking your email notifications.
 
 ## Before you begin
 
@@ -62,7 +62,4 @@ Role required: sn\_oper\_res.manager
 
     \[Omitted image "plan-approved-sca.png"\] Alt text: Scenario analysis that is approved.
 
-## Related
 
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[scenario-analysis-ov|Scenario analysis]]

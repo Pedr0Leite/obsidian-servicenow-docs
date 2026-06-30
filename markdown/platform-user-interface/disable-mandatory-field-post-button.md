@@ -12,7 +12,7 @@ breadcrumb: [Activity stream, Administer, Configurable Workspace UI, Configure U
 
 # Configure the Post button to display continuously
 
-[[configure-onboarding-modals|Configure]] the **Post** button in the [[activity-stream-configurable-workspace|Activity stream]] to display and function continuously.
+Configure the **Post** button in the Activity stream to display and function continuously.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin
 
 1.  Navigate to `sys_properties.list`.
 
-2.  Add the **glide.activity.[[activity-stream-compose-configurable-workspace|compose]].can\_post\_mandatory\_fields** system property.
+2.  Add the **glide.activity.compose.can\_post\_mandatory\_fields** system property.
 
     For more information on adding a system property, see [Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddAPropertyUsingSysPropsList.md).
 
@@ -32,8 +32,4 @@ Role required: admin
 
 4.  Select **Submit**.
 
-## Related
 
-- [[configure-onboarding-modals|Configure]]
-- [[activity-stream-configurable-workspace|Activity stream]]
-- [[activity-stream-compose-configurable-workspace|Compose]]

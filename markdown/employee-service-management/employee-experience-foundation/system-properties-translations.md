@@ -27,7 +27,7 @@ This new system property helps keep translated topic paths up-to-date automatica
 
 -   Ensure that topic paths and topic names changes are reflected in other languages.
 -   Capture the last run time of the **Generate topic path translations** job.
--   Track translations for localized [[employee-center-landing-page|Employee Center]] experiences.
+-   Track translations for localized Employee Center experiences.
 -   Improve reliability of the translated content during updates or content restructuring.
 
 ## Procedure
@@ -45,6 +45,3 @@ This new system property helps keep translated topic paths up-to-date automatica
 
 The system property tracks translation of topic names and path updates automatically. Employees can access localized or region-specific content with the latest topic labels and navigation paths.
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

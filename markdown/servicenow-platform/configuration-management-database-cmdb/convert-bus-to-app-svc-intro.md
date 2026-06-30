@@ -14,7 +14,7 @@ breadcrumb: [Service instances \(Application services\), Configuration Managemen
 
 # Convert business services to application services
 
-Unify the way you manage services in the organization by converting manually created records in the Service \[cmdb\_ci\_service\] table into application services. Conversion lets you streamline the different types of services in your organization, leverage ITOM Visibility capabilities, and align with the [[csdm-landing-page|Common Service Data Model]] \(CSDM\). The conversion is irreversible: You can't transform application services back into business services.
+Unify the way you manage services in the organization by converting manually created records in the Service \[cmdb\_ci\_service\] table into application services. Conversion lets you streamline the different types of services in your organization, leverage ITOM Visibility capabilities, and align with the Common Service Data Model \(CSDM\). The conversion is irreversible: You can't transform application services back into business services.
 
 Using application services has benefits such as:
 
@@ -63,7 +63,7 @@ If the original business service contains related items belonging to these CI ty
 
 ## Domain separation
 
-In environments with [[domain-separation-relationship-formatter-editor|domain separation]], only CIs belonging to the same domain as the service instance are added to the service instance. If there is a domain hierarchy, CIs must belong to the same child domain as the service instance.
+In environments with domain separation, only CIs belonging to the same domain as the service instance are added to the service instance. If there is a domain hierarchy, CIs must belong to the same child domain as the service instance.
 
 ## Convert business services to application services in bulk
 
@@ -129,7 +129,7 @@ Update service when CMDB updates
 
 </td><td>
 
-Select this [[check-box|check box]] to convert the business service into an application service of the dynamic type.
+Select this check box to convert the business service into an application service of the dynamic type.
 
 </td></tr></tbody>
 </table>5.  Select **Start Conversion**.
@@ -208,8 +208,3 @@ If the service is too large, perform the following actions:
 
 [Service instances \(Application services\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/application-services.md)
 
-## Related
-
-- [[csdm-landing-page|Common Service Data Model]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]
-- [[check-box|Check box]]

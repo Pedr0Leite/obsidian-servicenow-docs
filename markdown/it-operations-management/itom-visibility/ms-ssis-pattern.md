@@ -15,7 +15,7 @@ breadcrumb: [Software discovery, Data collected by ITOM Visibility, ITOM Visibil
 
 # Microsoft SQL Server Integration Services \(SSIS\) discovery
 
-The [[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] application uses the SSIS pattern to find SQL Server Integration Services \(SSIS\) on your infrastructure. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
+The Discovery and Service Mapping application uses the SSIS pattern to find SQL Server Integration Services \(SSIS\) on your infrastructure. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 ## Request new or enhanced Patterns on the ServiceNow® Store
 
@@ -53,7 +53,3 @@ Discovery populates the following data when running the SSIS pattern.
 
 **Parent Topic:**[Software discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_Software.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

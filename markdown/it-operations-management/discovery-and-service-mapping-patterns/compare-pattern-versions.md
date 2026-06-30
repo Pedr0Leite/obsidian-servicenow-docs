@@ -14,7 +14,7 @@ breadcrumb: [Choose the pattern version, Discovery patterns used by ITOM Visibil
 
 # Compare pattern versions
 
-If you have multiple versions of the same pattern, you can compare them to decide which pattern version to use for [[r-discovery|discovery]].
+If you have multiple versions of the same pattern, you can compare them to decide which pattern version to use for discovery.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: pd\_admin
 
 ## About this task
 
-[[c_ServiceMappingOverview|Service Mapping]] and Discovery use patterns in their discovery process. Every time you modify and save a pattern, you create a version of this pattern.
+Service Mapping and Discovery use patterns in their discovery process. Every time you modify and save a pattern, you create a version of this pattern.
 
 ## Procedure
 
@@ -66,7 +66,3 @@ Role required: pd\_admin
 
 **Parent Topic:**[Choose the pattern version](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/t_ChoosePatternVersionPatDef.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

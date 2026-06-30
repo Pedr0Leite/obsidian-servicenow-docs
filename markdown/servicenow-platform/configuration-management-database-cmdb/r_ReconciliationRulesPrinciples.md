@@ -30,7 +30,7 @@ There are two types of reconciliation rules:
 
 -   **Dynamic reconciliation rules**
 
-    Dynamic reconciliation rules are based on attribute values processed by [CMDB 360](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/multisource-cmdb.md) rather than on discovery source priority. First, [[multisource-cmdb|CMDB 360]] processes the current payload data into the CMDB 360 data store. Then, applying a dynamic reconciliation rule, IRE selects the largest or most reported value, for example, across all discovery sources. Because dynamic reconciliation rules leverage CMDB 360, you must enable that feature to use dynamic reconciliation rules.
+    Dynamic reconciliation rules are based on attribute values processed by [CMDB 360](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/multisource-cmdb.md) rather than on discovery source priority. First, CMDB 360 processes the current payload data into the CMDB 360 data store. Then, applying a dynamic reconciliation rule, IRE selects the largest or most reported value, for example, across all discovery sources. Because dynamic reconciliation rules leverage CMDB 360, you must enable that feature to use dynamic reconciliation rules.
 
     Creating dynamic reconciliation rules can be useful, for example, if it becomes difficult to set priority order for multiple discovery sources. Only a single dynamic reconciliation rule can exist per class attribute.
 
@@ -97,7 +97,7 @@ For more information about reconciliation rules, see the [CMDB - Data Precedence
 
 ## Domain separation
 
-If [[domain-separation-relationship-formatter-editor|Domain Separation]] is enabled, then you can scope reconciliation rules to specific domains. Rules of the parent domain, if not overridden, apply to CIs of child domain. All rules that are visible to a domain are applied, and a rule overriding the parent domain displays the child domain version.
+If Domain Separation is enabled, then you can scope reconciliation rules to specific domains. Rules of the parent domain, if not overridden, apply to CIs of child domain. All rules that are visible to a domain are applied, and a rule overriding the parent domain displays the child domain version.
 
 -   **[Create a CI reconciliation rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/create-reconciliation-rule.md)**  
 Create a static or a dynamic CI reconciliation rule.
@@ -106,7 +106,3 @@ Specify data refresh rules to determine if a CI is stale for a specific discover
 
 **Parent Topic:**[Configuring CMDB Identification and Reconciliation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/configuring-ire.md)
 
-## Related
-
-- [[multisource-cmdb|CMDB 360]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]

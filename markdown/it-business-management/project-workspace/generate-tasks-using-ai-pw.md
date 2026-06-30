@@ -20,7 +20,7 @@ Use project plan generation skill to populate an empty project with tasks by pro
 
 Role required: it\_project\_manager
 
--   Install [[now-assist-spm|Now Assist for Strategic Portfolio Management \(SPM\)]] plugin.
+-   Install Now Assist for Strategic Portfolio Management \(SPM\) plugin.
 -   To use attachments to generate a project, activate the document intelligence skill. The default LLM is Azure OpenAI. Switching to a different model may affect accuracy.
 
 -   The project plan generation skill is activated by default. For more information on how to activate the skill if it isn't automatically activated or if you want to change the skill configuration, see [Configure Now Assist Admin features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/configuring-na-spm.md).
@@ -28,7 +28,7 @@ Role required: it\_project\_manager
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[project-workspace-landing-page|Project Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Project Workspace**.
 
 2.  Create a project or open any project without tasks.
 
@@ -40,7 +40,7 @@ Role required: it\_project\_manager
 
 4.  Provide your project task input using one or more of these methods.
 
-    -   In the text field, describe your [[t_CreateAProjectTask|project tasks]] using natural language. If you provide only natural language input, the document intelligence skill is not required.
+    -   In the text field, describe your project tasks using natural language. If you provide only natural language input, the document intelligence skill is not required.
     -   Select Attach files and upload a word, pdf, excel, or powerpoint document. A preview of the attachment appears before you proceed. To use file attachments, activate the document intelligence skill. For more information, see [Activate a Now Assist in Document Intelligence skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-now-assist-in-document-intelligence-skill.md).
     **Note:** Attach a file or enter context as free-form text before proceeding. No input returns an error. Insufficient context may also trigger an error.
 
@@ -59,8 +59,3 @@ The project is created with the generated tasks, including task hierarchy and da
 
 **Parent Topic:**[Managing projects with Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/use-projects-pw.md)
 
-## Related
-
-- [[now-assist-spm|Now Assist for Strategic Portfolio Management \(SPM\)]]
-- [[project-workspace-landing-page|Project Workspace]]
-- [[t_CreateAProjectTask|Project tasks]]

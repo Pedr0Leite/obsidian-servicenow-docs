@@ -14,7 +14,7 @@ breadcrumb: [Setting up privacy consent settings, Maintaining privacy consent in
 
 # Modify or add a privacy consent template
 
-Modify or add a privacy consent template to be used in the location privacy configuration for [[safe-workplace|Safe Workplace]] suite applications.
+Modify or add a privacy consent template to be used in the location privacy configuration for Safe Workplace suite applications.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_imt\_core.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-health-safety-status|Employee Health and Safety Status]]** &gt; **Privacy** &gt; **Privacy Consent Templates**.
+1.  Navigate to **All** &gt; **Employee Health and Safety Status** &gt; **Privacy** &gt; **Privacy Consent Templates**.
 
 2.  Open a template record to modify it or click **New** to create one.
 
@@ -39,7 +39,3 @@ Role required: sn\_imt\_core.admin
 
 **Parent Topic:**[Setting up privacy consent settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-readiness-core/set-up-privacy-consent-common.md)
 
-## Related
-
-- [[safe-workplace|Safe Workplace]]
-- [[employee-health-safety-status|Employee Health and Safety Status]]

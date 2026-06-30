@@ -14,16 +14,16 @@ breadcrumb: [Security Incident Response playbooks, Playbook Resources, Security 
 
 # Process-based Playbooks
 
-The playbook component works only for [[tisc-playbooks-admin|playbooks]] built in Workflow Studio and not for flows. However, existing [[playbook-flow-based|flow-based playbooks]] will continue to work and the activities will be continuing to be rendered as response tasks.
+The playbook component works only for playbooks built in Workflow Studio and not for flows. However, existing flow-based playbooks will continue to work and the activities will be continuing to be rendered as response tasks.
 
-[[sir-landing-page|Security Incident Response]] provides the following playbooks with the base system.
+Security Incident Response provides the following playbooks with the base system.
 
 -   **[Playbook for Manual Phishing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbook-manual-phishing.md)**  
 The Manual Phishing Playbook provides step-by-step guidance for your analysts on how they can manually resolve specific types of security threats in your phishing activities.
 -   **[Playbook for Automated Phishing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbook-automated-phishing.md)**  
 The Automated Phishing playbook provides step-by-step guidance for your analysts on how they could resolve specific types of security threats in your Automated Phishing activities.
 -   **[Playbook for Manual Malware](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbook-malware-manual.md)**  
-The Manual [[threat-intelligence-malware|Malware]] playbook provides step-by-step guidance on how analysts can manually resolve malware alerts more efficiently.
+The Manual Malware playbook provides step-by-step guidance on how analysts can manually resolve malware alerts more efficiently.
 -   **[Playbook for Automated Malware](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbook-automated-malware.md)**  
 The Automated Malware playbook provides a sequence of automated steps that helps analysts resolve malware alerts more efficiently.
 -   **[Playbook for Failed Login Manual](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbook-failed-login.md)**  
@@ -36,9 +36,3 @@ The Failed Login Manual playbook provides guidance and helps optimize the invest
 
 [Flow-based Playbooks]()
 
-## Related
-
-- [[tisc-playbooks-admin|Playbooks]]
-- [[playbook-flow-based|Flow-based Playbooks]]
-- [[sir-landing-page|Security Incident Response]]
-- [[threat-intelligence-malware|Malware]]

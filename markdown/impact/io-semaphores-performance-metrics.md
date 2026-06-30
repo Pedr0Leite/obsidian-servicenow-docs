@@ -13,7 +13,7 @@ breadcrumb: [Overview of Instance Observer metrics, Instance Observer reference,
 
 # Semaphores performance metrics
 
-The metrics provide the key [[instance-observer-performance|performance]] indicators calculated at the instance level for the selected duration.
+The metrics provide the key performance indicators calculated at the instance level for the selected duration.
 
 ## Semaphore Default Mean
 
@@ -118,7 +118,7 @@ By default the AMB Receive semaphore pools request queue can hold a maximum of 5
 
 **Note:** The API\_INT is one of the semaphores used by the MID servers when communicating to the instance. If the API\_INT semaphores are exhausted, and the queue depth has reached the max queue depth, then the instance will return the error `Too Many Requests with code: 429` to any MID Server clients attempting communication. Because there are no available semaphores, the instance will not be able to receive any inputs from the MID Server. This could be due to the long-running transactions keeping the semaphores busy. Therefore, you can kill the transactions to free up the semaphores.
 
-**Parent Topic:**[[instance-observer-ovr-metric|Overview of Instance Observer metrics]]
+**Parent Topic:**[Overview of Instance Observer metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/instance-observer-ovr-metric.md)
 
 **Related topics**  
 
@@ -127,7 +127,7 @@ By default the AMB Receive semaphore pools request queue can hold a maximum of 5
 
 [Anomaly insights]()
 
-[Feature [[io-availability|availability]] based on package]()
+[Feature availability based on package]()
 
 [Auriga Intelligent Alert report]()
 
@@ -163,8 +163,3 @@ By default the AMB Receive semaphore pools request queue can hold a maximum of 5
 
 [Instance Data Replication]()
 
-## Related
-
-- [[instance-observer-ovr-metric|Overview of Instance Observer metrics]]
-- [[instance-observer-performance|Performance]]
-- [[io-availability|Availability]]

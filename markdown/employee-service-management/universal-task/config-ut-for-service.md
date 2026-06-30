@@ -14,7 +14,7 @@ breadcrumb: [Configuring your service, Setting up and configuring Universal Task
 
 # Configure Universal Task for your service
 
-Configure the [[universal-task-landing|Universal Task]] application for your service so that you can create and assign tasks to employees.
+Configure the Universal Task application for your service so that you can create and assign tasks to employees.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ Role required: sn\_uni\_task.admin
 
 **Next topic:**[Configure the catalog items for your service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/config-catalog-task.md)
 
-## Related
-
-- [[universal-task-landing|Universal Task]]

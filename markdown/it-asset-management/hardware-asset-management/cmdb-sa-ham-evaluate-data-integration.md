@@ -14,7 +14,7 @@ breadcrumb: [Analyze data integrations, Use HAM advisor, Asset and CI management
 
 # Evaluate HAM data integration coverage
 
-Identify supported [[model-hierarchy|model categories]] and attributes from a Discovery pattern or Service Graph Connector to evaluate data coverage and upgrade requirements.
+Identify supported model categories and attributes from a Discovery pattern or Service Graph Connector to evaluate data coverage and upgrade requirements.
 
 ## Before you begin
 
@@ -57,6 +57,3 @@ Role required: sn\_cmdb\_admin
         -   Select **Create connection** to configure a Service Graph Connector from SGC Central. For more information, see [Create a connection for a Service Graph Connector in SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-create-connection.md).
         -   Select **View connections** to open and review details of existing installed connections importing hardware asset data within SGC Central. For more information, see [Viewing connections for a Service Graph Connector in SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-viewing-installed-connection.md).
 
-## Related
-
-- [[model-hierarchy|Model categories]]

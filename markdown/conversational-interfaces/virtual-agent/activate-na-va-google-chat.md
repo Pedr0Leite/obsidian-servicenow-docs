@@ -15,7 +15,7 @@ breadcrumb: [Install Conversational Integration with Google Chat, Conversational
 
 # Activate Now Assist in Virtual Agent for Google Chat
 
-Add [[now-assist-in-va-landing|Now Assist in Virtual Agent]] to your Google Chat bot.
+Add Now Assist in Virtual Agent to your Google Chat bot.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ Create a self-configured bot for Google Chat. For more information, see [Integra
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **[[assistant-designer|Assistant Designer]]**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Assistant Designer**.
 
 2.  Under **Now Assist in Virtual Agent \(default\)**, select the **Edit** button.
 
@@ -58,8 +58,3 @@ Upload the manifest to Google Chat to make your bot experience available in the 
 
 **Parent Topic:**[Install Conversational Integration with Google Chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/install-ci-google-chat.md)
 
-## Related
-
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[assistant-designer|Assistant Designer]]

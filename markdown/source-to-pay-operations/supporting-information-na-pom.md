@@ -12,7 +12,7 @@ breadcrumb: [Exploring Now Assist for Purchase Order Management \(POM\), Now Ass
 
 # Supporting information for Now Assist for Purchase Order Management \(POM\)
 
-Get a quick overview of the important information that is related to the [[now-assist-for-purch-order-magmt|Now Assist for Purchase Order Management \(POM\)]] application.
+Get a quick overview of the important information that is related to the Now Assist for Purchase Order Management \(POM\) application.
 
 ## Supported versions
 
@@ -29,13 +29,13 @@ The Now Assist for POM application includes the workflows that are listed in the
 
 ## Application information
 
-Activate the Now Assist for POM store app \(sn\_poem\_gen\_ai\) to use the GenAI capabilities for streamlining the [[purchase-order-table|purchase order]] execution process.
+Activate the Now Assist for POM store app \(sn\_poem\_gen\_ai\) to use the GenAI capabilities for streamlining the purchase order execution process.
 
 This store app has the following dependencies:
 
 -   Now Assist for Platform \(com.sn.now.platform\)
 -   Now Assist for FSC Common \(com.snc.sn\_fsc\_genai\)
--   [[purchase-order-mgmt-landing-page|Purchase Order Management]] application \(com.snc.sn\_poem\_core\)
+-   Purchase Order Management application \(com.snc.sn\_poem\_core\)
 -   Now Assist for POM store app \(sn\_poem\_gen\_ai\)
 
 Activate the applications in the following order:
@@ -45,14 +45,7 @@ Activate the applications in the following order:
 -   Purchase Order Management application \(com.snc.sn\_poem\_core\)
 -   Now Assist for POM store app \(sn\_poem\_gen\_ai\)
 
-For more information, see [[configure-now-assist-purch-order-mgmt|Configure Now Assist for Purchase Order Management \(POM\)]].
+For more information, see [Configure Now Assist for Purchase Order Management \(POM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/configure-now-assist-purch-order-mgmt.md).
 
-**Parent Topic:**[[exploring-na-for-pom|Exploring Now Assist for Purchase Order Management \(POM\)]]
+**Parent Topic:**[Exploring Now Assist for Purchase Order Management \(POM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/exploring-na-for-pom.md)
 
-## Related
-
-- [[configure-now-assist-purch-order-mgmt|Configure Now Assist for Purchase Order Management \(POM\)]]
-- [[exploring-na-for-pom|Exploring Now Assist for Purchase Order Management \(POM\)]]
-- [[now-assist-for-purch-order-magmt|Now Assist for Purchase Order Management \(POM\)]]
-- [[purchase-order-table|Purchase order]]
-- [[purchase-order-mgmt-landing-page|Purchase Order Management]]

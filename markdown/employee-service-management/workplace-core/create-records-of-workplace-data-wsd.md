@@ -14,7 +14,7 @@ breadcrumb: [Providing your workplace data, Configure, Workplace Core, Workplace
 
 # Create records for your workplace data
 
-Create individual records of your workspaces, floors, office buildings, and workplace locations within the [[workplace-safety-mgmt-hr|Workplace Core]] application. Either insert new data or add records to the existing workplace data.
+Create individual records of your workspaces, floors, office buildings, and workplace locations within the Workplace Core application. Either insert new data or add records to the existing workplace data.
 
 ## Before you begin
 
@@ -216,7 +216,7 @@ Latitude
 
 </td><td>
 
-Latitude of a campus or a building. The latitude is displayed in the [[workplace-services-portal-hr|Workplace Service Portal]] Location directory map.
+Latitude of a campus or a building. The latitude is displayed in the Workplace Service Portal Location directory map.
 
 </td></tr><tr id="longitude"><td>
 
@@ -266,7 +266,3 @@ The workplace location record is added.
 
 **Parent Topic:**[Providing your workplace data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/providing-your-workplace-data-wsd.md)
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-services-portal-hr|Workplace Service Portal]]

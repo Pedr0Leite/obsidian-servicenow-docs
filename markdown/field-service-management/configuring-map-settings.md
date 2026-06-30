@@ -12,7 +12,7 @@ breadcrumb: [Dispatcher Workspace, CSM/FSM Configurable Workspace, Configure, Fi
 
 # Configure the appearance of the map in Dispatcher Workspace
 
-Configure map settings to define the style and appearance of the map in [[dispatcher-activities|Dispatcher Workspace]].
+Configure map settings to define the style and appearance of the map in Dispatcher Workspace.
 
 ## Before you begin
 
@@ -146,6 +146,4 @@ Determine whether clustered pins show the number of markers \(Marker value\) or 
 </td></tr></tbody>
 </table>3.  Select **Save**.
 
-## Related
 
-- [[dispatcher-activities|Dispatcher Workspace]]

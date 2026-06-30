@@ -15,7 +15,7 @@ breadcrumb: [Now Assist for APO, Accounts Payable Operations, Finance and Supply
 
 # Using AI agents in Now Assist for Accounts Payable Operations
 
-Use AI agents to resolve invoice inquiries and recommend business owners for Non-PO [[invoices|invoices]] and credit memos.
+Use AI agents to resolve invoice inquiries and recommend business owners for Non-PO invoices and credit memos.
 
 |Available AI agents|Description|
 |-------------------|-----------|
@@ -33,6 +33,3 @@ There might be AI agents installed with the Now Assist application that are not 
 
 [Case resolution using Inquiry resolution provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/case-resolution-using-agent.md)
 
-## Related
-
-- [[invoices|Invoices]]

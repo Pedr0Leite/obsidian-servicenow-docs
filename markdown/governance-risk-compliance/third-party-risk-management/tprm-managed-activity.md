@@ -39,7 +39,7 @@ If a third-party risk assessment or due diligence request is automatically creat
 
 The usage analytics activities table stores a record every time a managed activity occurs. This table is read only. Records that are two years or older are automatically archived. You must have the Third-party assessment reviewer \[sn\_vdr\_risk\_asmt.vendor\_assessment\_reviewer\] role to view this table.
 
-You can access the Usage analytics activities table by navigating to **All** &gt; **Third Party Risk Management** &gt; **[[Administration|Administration]]** &gt; **Managed Activity Analytics**.
+You can access the Usage analytics activities table by navigating to **All** &gt; **Third Party Risk Management** &gt; **Administration** &gt; **Managed Activity Analytics**.
 
 The following example and table show the Usage analytics activities \[sn\_vdr\_risk\_asmt\_ua\_activity\] table.
 
@@ -75,7 +75,7 @@ Activity type
 
 </td><td>
 
-Managed activities that can be associated with tiering assessments, internal assessments, third-party [[risk-assessments|risk assessments]] \(TPRA\), issues, and tasks.
+Managed activities that can be associated with tiering assessments, internal assessments, third-party risk assessments \(TPRA\), issues, and tasks.
 
 </td></tr><tr><td>
 
@@ -114,7 +114,3 @@ State of the activity:-   **Tracked**: The activity is logged.
 </td></tr></tbody>
 </table>**Note:** The calculated risk scores that are updated by assessments are managed activities. However, they aren’t logged in the Usage analytics activities \[sn\_vdr\_risk\_asmt\_ua\_activity\] table. The score updates from the risk intelligence score providers aren’t managed activities. For more information on the risk intelligence scores, see [Viewing risk intelligence scores](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-ws-tab-risk-intel-scores.md).
 
-## Related
-
-- [[Administration|Administration]]
-- [[risk-assessments|risk assessments]]

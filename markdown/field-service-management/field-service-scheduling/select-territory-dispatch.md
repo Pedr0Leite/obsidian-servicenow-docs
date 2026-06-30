@@ -14,7 +14,7 @@ breadcrumb: [Using Dispatcher Workspace, Assigning tasks from Dispatcher Workspa
 
 # Select Territories in Dispatcher Workspace
 
-Quickly select territories to [[advanced-filtering-dw|filter resources in Dispatcher Workspace]]. You can also save default territories to load each time you open [[dispatcher-activities|Dispatcher Workspace]].
+Quickly select territories to filter resources in Dispatcher Workspace. You can also save default territories to load each time you open Dispatcher Workspace.
 
 ## Before you begin
 
@@ -50,7 +50,4 @@ You must turn off **Enable single select groups / territories** in settings to s
 
 6.  Select **Apply**.
 
-## Related
 
-- [[advanced-filtering-dw|Filter resources in Dispatcher Workspace]]
-- [[dispatcher-activities|Dispatcher Workspace]]

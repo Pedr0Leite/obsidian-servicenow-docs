@@ -14,9 +14,9 @@ breadcrumb: [Use, Health and Safety Core, Health and Safety, Employee Service Ma
 
 # Managing safety knowledge articles
 
-As a safety manager or agent, you can manage safety-related knowledge base articles in the [[health-safety-core-workspace|Health and Safety Workspace]].
+As a safety manager or agent, you can manage safety-related knowledge base articles in the Health and Safety Workspace.
 
-The [[health-safety-overview|Health and Safety]] Knowledge is the same as the ServiceNow AI Platform Knowledge Management. For more information, see [Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management.md).
+The Health and Safety Knowledge is the same as the ServiceNow AI Platform Knowledge Management. For more information, see [Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management.md).
 
 ## Knowledge-related tasks in the Health and Safety Workspace
 
@@ -40,7 +40,7 @@ The following empty knowledge base articles are available with the Health and Sa
 -   **Investigation Plan**: Use it to enter your company's investigation plan.
 -   **Health and Safety submission guidelines**: Use it to enter your company's safety submission guidelines.
 
-Employees can access these knowledge articles from the [[employee-center-landing-page|Employee Center]] by navigating to **Health and Safety** &gt; **Policy and procedures**.
+Employees can access these knowledge articles from the Employee Center by navigating to **Health and Safety** &gt; **Policy and procedures**.
 
 ## Accessing knowledge articles in Health and Safety Workspace
 
@@ -59,8 +59,3 @@ Create a safety-related knowledge article in the Health and Safety Workspace to 
 
 **Parent Topic:**[Using Health and Safety Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/using-hs-core.md)
 
-## Related
-
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[health-safety-overview|Health and Safety]]
-- [[employee-center-landing-page|Employee Center]]

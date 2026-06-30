@@ -14,7 +14,7 @@ breadcrumb: [Create a project task from a project, Starting a project, Using Pro
 
 # Create a task from an incident, problem, or change request
 
-You can create a new project task from the Project Task related list on the Incident, Problem, and Change Request [[form-field-information-for-dw|forms]]. The tasks you create from these forms makes the project task a child of the incident, problem, or change, rather than a project.
+You can create a new project task from the Project Task related list on the Incident, Problem, and Change Request forms. The tasks you create from these forms makes the project task a child of the incident, problem, or change, rather than a project.
 
 ## Before you begin
 
@@ -28,14 +28,10 @@ Role required: it\_project\_manager
 
 3.  In the **Projects** related list, select **New**.
 
-4.  Fill in the [[create-a-project-form|project form]].
+4.  Fill in the project form.
 
     The project task becomes a child task of the incident, problem, or change record.
 
 
 **Parent Topic:**[Create a project task from a project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateATaskFromAProject.md)
 
-## Related
-
-- [[form-field-information-for-dw|Forms]]
-- [[create-a-project-form|Project form]]

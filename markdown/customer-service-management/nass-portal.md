@@ -50,11 +50,7 @@ The search results include links to the sources of information and related actio
 **Related topics**  
 
 
-[[nava-csp-csm-portals|Now Assist in Virtual Agent in self-service portal]]
+[Now Assist in Virtual Agent in self-service portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/nava-csp-csm-portals.md)
 
-[[va-csp-csm-portal|Using Virtual Agent in Customer and Consumer Service Portals]]
+[Using Virtual Agent in Customer and Consumer Service Portals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/va-csp-csm-portal.md)
 
-## Related
-
-- [[nava-csp-csm-portals|Now Assist in Virtual Agent in self-service portal]]
-- [[va-csp-csm-portal|Using Virtual Agent in Customer and Consumer Service Portals]]

@@ -12,7 +12,7 @@ breadcrumb: [Product pricing, Configure, price, quote apps, Configure, Sales Cus
 
 # Use extension points in Pricing Management
 
-Use extension points to call custom [[scripts|scripts]] from external sources that control pricing logic used in the [[pricing-management|Pricing Management]] feature of the [[order-mgt-overview|Sales Customer Relationship Management]] \(Sales CRM\) applications.
+Use extension points to call custom scripts from external sources that control pricing logic used in the Pricing Management feature of the Sales Customer Relationship Management \(Sales CRM\) applications.
 
 To access the available extension points, navigate to **All** &gt; **Scripted Extension Points** and in the Extension Points list, select the desired extension point to view it.
 
@@ -30,7 +30,7 @@ sn\_csm\_pricing.DefaultCostBookExtensionPoint
 
 </td><td>
 
-Customize the logic for determining the default cost book used by the calling application, such as [[quote-management|Quote Management]]. This extension point changes the default cost book logic for both the header and line of the calling application.
+Customize the logic for determining the default cost book used by the calling application, such as Quote Management. This extension point changes the default cost book logic for both the header and line of the calling application.
 
 </td></tr><tr><td>
 
@@ -38,7 +38,7 @@ sn\_csm\_pricing.DefaultPriceListExtensionPoint
 
 </td><td>
 
-Customize the default price list logic used by the calling Sales CRM applications such as Quote Management or [[explore-order-management|Order Management]]. This extension point changes the default logic for both the header and line of the calling application.**Note:** If you want to create additional context variables, use the Price List defaulting matrix to manage the price list default at the header level. Use this extension point only for [[use-cases|use cases]] that can’t use the Price List defaulting matrix. In this case, the request contains values for all the context variables, in addition to the default context variables.
+Customize the default price list logic used by the calling Sales CRM applications such as Quote Management or Order Management. This extension point changes the default logic for both the header and line of the calling application.**Note:** If you want to create additional context variables, use the Price List defaulting matrix to manage the price list default at the header level. Use this extension point only for use cases that can’t use the Price List defaulting matrix. In this case, the request contains values for all the context variables, in addition to the default context variables.
 
 </td></tr><tr><td>
 
@@ -74,12 +74,3 @@ Customize the logic for calculating renewal uplift pricing. Your inputs can incl
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[scripts|Scripts]]
-- [[pricing-management|Pricing Management]]
-- [[order-mgt-overview|Sales Customer Relationship Management]]
-- [[quote-management|Quote Management]]
-- [[explore-order-management|Order management]]
-- [[use-cases|Use cases]]

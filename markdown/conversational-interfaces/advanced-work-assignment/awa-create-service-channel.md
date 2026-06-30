@@ -14,7 +14,7 @@ breadcrumb: [Configure, Advanced Work Assignment, Manage people and work, Conver
 
 # Create or configure a service channel
 
-Create or configure a service channel that is used in [[awa-application-landing-page|Advanced Work Assignment]] \(AWA\).
+Create or configure a service channel that is used in Advanced Work Assignment \(AWA\).
 
 ## Before you begin
 
@@ -22,18 +22,18 @@ Role required: awa\_admin or admin
 
 ## About this task
 
-You can specify additional conditions to filter the [[awa-work-items|work items]] that are handled in the channel, change the agent capacity \(workload\) for the channel, set the inbox layouts that your agents use in Workspace, and view associated [[awa-queues|work item queues]].
+You can specify additional conditions to filter the work items that are handled in the channel, change the agent capacity \(workload\) for the channel, set the inbox layouts that your agents use in Workspace, and view associated work item queues.
 
 If you activate the corresponding plugins or install the corresponding store applications, AWA provides base system channels for these services:
 
 -   Cases plugin \(com.snc\_csm.awa\)
 -   Chats plugin \(com.glide.interaction.awa\)
 -   Chats - Asynchronous plugin \(com.glide.interaction.awa\)
--   [[messg-fbm|Conversational Integration with Facebook Messenger]] application \(sn\_va\_fb\_messenger\)
+-   Conversational Integration with Facebook Messenger application \(sn\_va\_fb\_messenger\)
 -   Incidents plugin \(com.snc.incident.awa\)
--   [[messg-line|Conversational Integration with LINE]] application \(sn\_va\_line\)
+-   Conversational Integration with LINE application \(sn\_va\_line\)
 -   Walk-up interactions plugin \(com.snc.walkup\)
--   [[messg-whatsapp-twilio|Conversational Integration with WhatsApp \(powered by Twilio\)]] application \(sn\_va\_whatsapp\_twi\)
+-   Conversational Integration with WhatsApp \(powered by Twilio\) application \(sn\_va\_whatsapp\_twi\)
 
 For each channel, you can change certain default settings, such as the default capacity \(workload\) for agents. You can also use the related lists to review associated queues, define the associated inbox layouts \(work item cards\) that are displayed in Workspace, and override the agent capacity value.
 
@@ -47,7 +47,7 @@ In addition to task-based and interaction-based tables, AWA now supports routing
 
     -   **All** &gt; **Advanced Work Assignment** &gt; **Home**.
 
-        In the Essential settings section, select **Set up [[awa-service-channels|service channels]]**.
+        In the Essential settings section, select **Set up service channels**.
 
     -   **All** &gt; **Advanced Work Assignment** &gt; **Service Channels**.
 2.  Choose a situation.
@@ -124,7 +124,7 @@ Short description
 
 Brief description of the service channel:
 
--   Chat: Live [[ci-use-agent-chat|Agent Chat]] Interactions
+-   Chat: Live Agent Chat Interactions
 -   Chat - Asynchronous: Asynchronous Live Agent Chat Interactions
 -   Case: Cases for Agents
 -   Facebook Messenger: Live Agent Facebook Messenger Interactions
@@ -302,13 +302,3 @@ For service channels that use history-based affinity routing, AWA reads the assi
 -   [Create or modify a work item queue](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-create-queue.md) for the channel.
 -   [Create or modify a work item size override](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-modify-work-item-size.md) for the channel.
 
-## Related
-
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[awa-work-items|Work items]]
-- [[awa-queues|Work item queues]]
-- [[messg-fbm|Conversational Integration with Facebook Messenger]]
-- [[messg-line|Conversational Integration with LINE]]
-- [[messg-whatsapp-twilio|Conversational Integration with WhatsApp \(powered by Twilio\)]]
-- [[awa-service-channels|Service channels]]
-- [[ci-use-agent-chat|Agent Chat]]

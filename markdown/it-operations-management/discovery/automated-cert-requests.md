@@ -14,7 +14,7 @@ breadcrumb: [Configuring Certificate Inventory and Management, Certificate Inven
 
 # Automated certificate management for TLS certificates
 
-From [[cert-inventory-mgmt|Certificate Inventory and Management]] Version 1.3.8, you can automate the request flow for new certificates, renewals, and revoking certificates.
+From Certificate Inventory and Management Version 1.3.8, you can automate the request flow for new certificates, renewals, and revoking certificates.
 
 Certificate Inventory and Management automatically fetches certificates from Certificate Authorities \(CAs\) without requiring manual intervention from the PKI team. Starting in Version 2.1.0, this feature supports DigiCert and Entrust CA Gateway for seamless automatic fulfillment flows, with the limitation that only OV DigiCert certificates can be requested. Version 2.3.2 introduces support for the Microsoft CA. For more information, refer to the respective provider documentation. For automated flows with DigiCert or Entrust CA Gateway in Certificate Inventory and Management, you must have permissions to request, renew, and revoke certificates.
 
@@ -62,7 +62,3 @@ Grant the user permissions: Read, Issue and Manage Certificates, Manage CA, and 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cert-inventory-mgmt|Certificate Inventory and Management]]

@@ -12,11 +12,11 @@ breadcrumb: [Data policy, Administer, Field administration, Forms, fields, and l
 
 # Create a data policy
 
-You can create a new [[c_DataPolicy|data policy]] to define data rules for a table.
+You can create a new data policy to define data rules for a table.
 
 ## About this task
 
-Create data policies to enforce consistency. You can create data policies only for tables and database views that are in the same scope as the data policy and for other tables that have at least one field in the same scope as the data policy. For tables that are in a different scope from the data policy record, you can create data policy rules only for fields in the same scope as the data policy and you cannot [[t_MakingAFieldMandatory|make a field mandatory]].
+Create data policies to enforce consistency. You can create data policies only for tables and database views that are in the same scope as the data policy and for other tables that have at least one field in the same scope as the data policy. For tables that are in a different scope from the data policy record, you can create data policy rules only for fields in the same scope as the data policy and you cannot make a field mandatory.
 
 ## Procedure
 
@@ -50,7 +50,4 @@ Create data policies to enforce consistency. You can create data policies only f
 
 8.  Add more rules by repeating steps 6 and 7.
 
-## Related
 
-- [[c_DataPolicy|Data policy]]
-- [[t_MakingAFieldMandatory|Make a field mandatory]]

@@ -18,7 +18,7 @@ The TuneUp Your Configuration Management Database \(CMDB\) Accelerator provides 
 
 ## Accelerator Overview
 
-TuneUp Your CMDB provides [[impact-landing-page|Impact]] Customers with an analysis of common CMDB problem areas through HealthScan along with recommendations on how to address those findings. It helps gain insight into CMDB health and leading practices and ultimately aims to assist you in improving the effectiveness of your instance data foundation. See [Configuration Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/manage-cmdb.md) for information on CMDB.
+TuneUp Your CMDB provides Impact Customers with an analysis of common CMDB problem areas through HealthScan along with recommendations on how to address those findings. It helps gain insight into CMDB health and leading practices and ultimately aims to assist you in improving the effectiveness of your instance data foundation. See [Configuration Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/manage-cmdb.md) for information on CMDB.
 
 ## Package Availability
 
@@ -62,6 +62,3 @@ This Impact Accelerator in its entirety or portions of the Impact Accelerator Ac
 
 ServiceNow is not responsible for implementing any of the recommended CMDB configuration changes in Customer’s sub-production or production instances.
 
-## Related
-
-- [[impact-landing-page|Impact]]

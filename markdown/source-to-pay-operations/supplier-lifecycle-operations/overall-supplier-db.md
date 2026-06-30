@@ -14,7 +14,7 @@ breadcrumb: [Using Source-to-Pay Workspace, Use, Supplier Lifecycle Operations, 
 
 # Overall supplier dashboard
 
-The Overall supplier dashboard provides a comprehensive view of the entire [[supplier|supplier]] base's performance in one centralized location, aggregating data across all suppliers to give you enterprise-wide insights.
+The Overall supplier dashboard provides a comprehensive view of the entire supplier base's performance in one centralized location, aggregating data across all suppliers to give you enterprise-wide insights.
 
 **Important:** Check your entitlements to determine whether you have access to the Overall supplier dashboard.
 
@@ -73,6 +73,3 @@ You can view the Overall supplier dashboard to get the enterprise-wide insights 
 
 [View Overall supplier dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/view-overall-supp-db.md)
 
-## Related
-
-- [[supplier|Supplier]]

@@ -14,9 +14,9 @@ breadcrumb: [Request the IBM License Compliance for Software Asset Management ap
 
 # License metrics added by the IBM License Compliance for Software Asset Management application
 
-The IBM License Compliance for [[c_SoftwareAssetMgmt|Software Asset Management]] application adds license metrics that enable you to classify your IBM software products.
+The IBM License Compliance for Software Asset Management application adds license metrics that enable you to classify your IBM software products.
 
-These additional license metrics are available only if you have activated the [[ibm-publisher-pack|Software Asset Management publisher pack for IBM]] and installed the IBM License Compliance for Software Asset Management application. They are not available if you have only activated the Software Asset Management publisher pack for IBM.
+These additional license metrics are available only if you have activated the Software Asset Management publisher pack for IBM and installed the IBM License Compliance for Software Asset Management application. They are not available if you have only activated the Software Asset Management publisher pack for IBM.
 
 You can also use license metrics to reconcile the software products that are discovered in your environment. The Software Asset Management application automatically adds [default license metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_SAMLicenseMetrics.md) for supported software publishers by using publisher-specific metric groups, such as the Adobe and Microsoft metric groups. These license metrics are then set in your corresponding software entitlements and used for reconciliation. Any additional license metric that is not included in an existing metric group must be added as a custom license metric in order to be used for reconciliation. Custom license metrics modify the reconciliation process by adding software license calculations that are not already included in the default list of supported license metrics.
 
@@ -38,7 +38,3 @@ All other license metrics that are added by the IBM License Compliance for Softw
 
 **Parent Topic:**[Request the IBM License Compliance for Software Asset Management application for Authorized Software Asset Management Provider \(ASP\) integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/request-ibm-license-compliance-sam-application.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[ibm-publisher-pack|Software Asset Management publisher pack for IBM]]

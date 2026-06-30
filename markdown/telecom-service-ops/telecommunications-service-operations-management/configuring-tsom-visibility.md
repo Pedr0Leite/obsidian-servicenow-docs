@@ -14,7 +14,7 @@ breadcrumb: [Configure, Telecommunications Service Operations Management]
 
 # Configure Telecom Visibility
 
-[[tsom-visibility|Telecom Visibility]] provides foundational capabilities that support both [[exploring-telecom-discovery|Telecom Discovery]] and Telecom Discrepancy Identification &amp; Reconciliation. It includes shared logic, enhanced CI class models, and Identification and Reconciliation Engine \(IRE\) updates tailored for telecom network elements.
+Telecom Visibility provides foundational capabilities that support both Telecom Discovery and Telecom Discrepancy Identification &amp; Reconciliation. It includes shared logic, enhanced CI class models, and Identification and Reconciliation Engine \(IRE\) updates tailored for telecom network elements.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: tsom\_visibility\_admin
 
 Confirm that:
 
--   Your ServiceNow AI Platform instance is licensed for [[telecommunications-service-operations-management|Telecommunications Service Operations Management]].
+-   Your ServiceNow AI Platform instance is licensed for Telecommunications Service Operations Management.
 -   You review any custom IRE rules applied to telecom CIs to help prevent overrides during upgrade.
 
 ## About this task
@@ -91,8 +91,3 @@ Confirm that the following are listed as active:
 
 [Telecom Visibility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/tsom-visibility.md)
 
-## Related
-
-- [[tsom-visibility|Telecom Visibility]]
-- [[exploring-telecom-discovery|Telecom Discovery]]
-- [[telecommunications-service-operations-management|Telecommunications Service Operations Management]]

@@ -49,8 +49,5 @@ Role required: admin
 9.  Select **Update**.
 
 
-**Parent Topic:**[[schedule-export-dboards-data-viz|Schedule the export of dashboards and data visualizations]]
+**Parent Topic:**[Schedule the export of dashboards and data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/schedule-export-dboards-data-viz.md)
 
-## Related
-
-- [[schedule-export-dboards-data-viz|Schedule the export of dashboards and data visualizations]]

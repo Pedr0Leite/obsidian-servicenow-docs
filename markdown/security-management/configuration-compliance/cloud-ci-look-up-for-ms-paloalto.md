@@ -26,7 +26,7 @@ The CI Lookup rules module contains the rules that help you to define the fields
 |AWS::ElasticLoadBalancing::LoadBalancer|Load balancer name|
 |AWS::S3::Bucket|arn:aws:s3:::&lt;Bucket Name&gt;|
 
-The CI match for a test result may not be found accurately in the Configuration Management Database \(CMDB\) unless the same format of the `object_id` is used in the lookup rule. Most of the times, the OOB CI lookup rules find a match for the most commonly used resource types for Microsoft Defender for Cloud Integration and Palo Alto Prisma Cloud. If the following CI lookup rules aren’t finding the CIs in the CMDB for your test results, you can [[avm-create-ci-lookup-rules|create a CI lookup rule]] for a resource type. For more information on how to create a CI lookup rule, see [Create a CI lookup rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-response/create-ci-identifier-rules.md).
+The CI match for a test result may not be found accurately in the Configuration Management Database \(CMDB\) unless the same format of the `object_id` is used in the lookup rule. Most of the times, the OOB CI lookup rules find a match for the most commonly used resource types for Microsoft Defender for Cloud Integration and Palo Alto Prisma Cloud. If the following CI lookup rules aren’t finding the CIs in the CMDB for your test results, you can create a CI lookup rule for a resource type. For more information on how to create a CI lookup rule, see [Create a CI lookup rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-response/create-ci-identifier-rules.md).
 
 ## CI lookup rules
 
@@ -49,6 +49,3 @@ The following CI lookup rules are specific to the Microsoft Defender for Cloud I
 
 **Note:** You can set the priority for a CI lookup rule in the **Order** field. The CI lookup rule with the least order value is executed first.
 
-## Related
-
-- [[avm-create-ci-lookup-rules|Create a CI lookup rule]]

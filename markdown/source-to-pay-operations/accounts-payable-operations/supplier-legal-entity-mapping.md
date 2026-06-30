@@ -15,7 +15,7 @@ breadcrumb: [Data required for invoice processing, Reference, Accounts Payable O
 
 # Supplier Legal Entity Mapping
 
-Field descriptions for the Supplier Legal Entity Mapping table in APO, which links [[supplier|supplier]] and customer legal entities to route [[invoices|invoices]], purchase orders, and payments correctly.
+Field descriptions for the Supplier Legal Entity Mapping table in APO, which links supplier and customer legal entities to route invoices, purchase orders, and payments correctly.
 
 ## Supplier Legal Entity Mapping table
 
@@ -28,7 +28,3 @@ Field descriptions for the Supplier Legal Entity Mapping table in APO, which lin
 
 **Parent Topic:**[Data required for invoice processing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/master-data-table-apo.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[invoices|Invoices]]

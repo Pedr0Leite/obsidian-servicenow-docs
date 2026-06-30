@@ -38,7 +38,7 @@ When act\[Omitted image "more-actions-icon.png"\] Alt text: more actionsivated, 
 
 4.  In the **New flow name** field, enter a name for the copied flow.
 
-5.  In the **Application** field, select **[[apo-docintel-integration|Accounts Payable Operations integration with Document Intelligence]]**.
+5.  In the **Application** field, select **Accounts Payable Operations integration with Document Intelligence**.
 
 6.  Select **Copy**.
 
@@ -56,6 +56,4 @@ When act\[Omitted image "more-actions-icon.png"\] Alt text: more actionsivated, 
 
 11. Select **Activate**.
 
-## Related
 
-- [[apo-docintel-integration|Accounts Payable Operations integration with Document Intelligence]]

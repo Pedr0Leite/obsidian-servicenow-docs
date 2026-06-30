@@ -43,7 +43,7 @@ An escalation policy includes the following configurations:
 -   A policy type that defines the order in which rosters and roster members receive escalation notifications.
 -   Other aspects of the escalation process like the contact methods to use and the number of reminders to send for each notification.
 
-You can create a custom escalation policy for a shift by overriding [[settings-mobile|settings]] in a default escalation type, for example, by configuring custom delays between escalation steps.
+You can create a custom escalation policy for a shift by overriding settings in a default escalation type, for example, by configuring custom delays between escalation steps.
 
 -   **[Configure a table for escalation trigger rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/configure-tables-for-escalation-trigger-rule.md)**  
 Configure escalation trigger rules for the tables that do not extend tasks.
@@ -65,6 +65,3 @@ Because escalation reports depend on the escalation type, report content can var
 
 [View details in an escalation log]()
 
-## Related
-
-- [[settings-mobile|Settings]]

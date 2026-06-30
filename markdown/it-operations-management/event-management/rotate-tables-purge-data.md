@@ -18,7 +18,7 @@ The growth of data tables impedes performance. Preserve instance performance by 
 
 ## Containing the growth of event tables
 
-By default, the [[c_EM|Event Management]] event \[em\_event\] table uses table rotation. The table rotation schedule ensures that new data is written to one of the tables in the rotation group. According to the value of **Clean base rotation** setting, the base table is deleted and then a new round of writing the tables in a daily rotation commences. By default, this table deletion occurs after seven rotations.
+By default, the Event Management event \[em\_event\] table uses table rotation. The table rotation schedule ensures that new data is written to one of the tables in the rotation group. According to the value of **Clean base rotation** setting, the base table is deleted and then a new round of writing the tables in a daily rotation commences. By default, this table deletion occurs after seven rotations.
 
 To back up events to a custom table, see [Event Management configuration preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/r_EMBestPractice.md).
 
@@ -44,6 +44,3 @@ The Scheduled Jobs feature runs a script to automatically close alerts in the Al
 
 [Table rotation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_TableRotation.md)
 
-## Related
-
-- [[c_EM|Event Management]]

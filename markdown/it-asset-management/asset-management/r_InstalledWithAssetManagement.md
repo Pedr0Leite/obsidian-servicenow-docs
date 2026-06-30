@@ -16,7 +16,7 @@ breadcrumb: [Reference, Asset Management, IT Asset Management]
 
 Several tables, user roles, UI policies, script includes, client scripts, and business rules are installed with Asset Management.
 
-Demo data is available with [[am-landing-page|asset management]]. The demo data provides information such as users, assets, and individual [[c_Stockrooms|stockrooms]].
+Demo data is available with asset management. The demo data provides information such as users, assets, and individual stockrooms.
 
 ## Tables
 
@@ -52,7 +52,7 @@ Consumable \[alm\_consumable\]
 
 </td><td>
 
-Stores data about [[c_ReceiveAConsumableAsset|consumable assets]] \(previously known as parts\).
+Stores data about consumable assets \(previously known as parts\).
 
 </td></tr><tr><td>
 
@@ -124,7 +124,7 @@ Stockroom Model \[alm\_m2m\_stockroom\_model\]
 
 </td><td>
 
-Tracks all [[c_Models|models]] that have ever been stocked in a stockroom. This table is automatically populated.
+Tracks all models that have ever been stocked in a stockroom. This table is automatically populated.
 
 </td></tr><tr><td>
 
@@ -132,7 +132,7 @@ Stockroom Type \[alm\_stockroom\_type\]
 
 </td><td>
 
-Stores general information about [[r_StockroomTypes|stockroom types]].
+Stores general information about stockroom types.
 
 </td></tr><tr><td>
 
@@ -140,7 +140,7 @@ Transfer Order \[alm\_transfer\_order\]
 
 </td><td>
 
-Contains data about transfer orders, including the state and stockrooms.**Note:** The inventory\_user, asset, or [[c_Procurement|procurement]]\_user role can only access the reports. You must activate the Procurement \(com.snc.procurement\) plugin for the inventory\_user, asset, and procurement\_user roles.
+Contains data about transfer orders, including the state and stockrooms.**Note:** The inventory\_user, asset, or procurement\_user role can only access the reports. You must activate the Procurement \(com.snc.procurement\) plugin for the inventory\_user, asset, and procurement\_user roles.
 
 </td></tr><tr><td>
 
@@ -206,7 +206,7 @@ inventory user
 </td><td>
 
 -   Create and delete stock information.
--   Edit [[c_StockRules|stock rules]], stockrooms, and stockroom types.
+-   Edit stock rules, stockrooms, and stockroom types.
 
 </td></tr><tr><td>
 
@@ -235,7 +235,7 @@ sam
 
 -   Create, edit, change, and manage software licenses.
 -   Edit the Software model field on a [Discovery models and software installations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_DiscoveryModels.md).
--   Approve a model. Has full control of the [[c_SoftwareAssetMgmt|Software Asset Management]] application.
+-   Approve a model. Has full control of the Software Asset Management application.
 -   Controls the Software Asset Management IBM PVU Process Pack, if activated.
 
 </td></tr></tbody>
@@ -303,7 +303,7 @@ asset\_system\_admin
     -   Custom Template Task \[alm\_custom\_template\_task\]
     -   Template Subtask \[alm\_template\_subtask\]
 -   Provides access to modules that include **Transfer Order Lines**, **Template Tasks**, and **Template Subtasks**.
--   Provides access to [[manage-transfer-orders|manage transfer order]] operations including copying default templates, closing tasks and subtasks.
+-   Provides access to manage transfer order operations including copying default templates, closing tasks and subtasks.
 
 </td></tr><tr><td>
 
@@ -339,7 +339,7 @@ contract\_system\_admin
 
 </td><td>
 
--   Provides access to **[[c_UseConditionCheckDefinitions|Condition check definitions]]** menu. Navigation path-**All** &gt; **Contract** &gt; **Administration** &gt; **Condition check definitions**
+-   Provides access to **Condition check definitions** menu. Navigation path-**All** &gt; **Contract** &gt; **Administration** &gt; **Condition check definitions**
 -   Provides read access to Condition check \[clm\_condition\_check\] table
 -   Provides list edit access for Asset Covered \[clm\_m2m\_contract\_asset\] table
 -   Provides access to the following system properties:
@@ -426,7 +426,7 @@ asset\_system\_admin
 
 </td><td>
 
-Provides access to [[t_CreatingAssets|create assets]] from [[model-hierarchy|model categories]].
+Provides access to create assets from model categories.
 
 </td></tr></tbody>
 </table>## UI policies
@@ -580,7 +580,7 @@ Asset Management includes the following script includes.
 |Consumables|Code to change \(for example, consume, split, and merge\) consumables.|
 |FixedAssetUtils|Methods for rolling up fixed asset costs.|
 |PortalFilters|Filters used in the My Assets portal.|
-|PreAllocatedAssets|Code to change [[pre-allocated-asset|pre-allocated assets]].|
+|PreAllocatedAssets|Code to change pre-allocated assets.|
 |StockRuleFilters|Reference qualifier code for filtering options on reference fields on stock rules.|
 |StockRuleTransfer|Transfer order creation code for when stock rules are triggered.|
 |TransferOrderDateTimeAjax|Date comparison utility for transfer orders.|
@@ -1256,7 +1256,7 @@ Stockroom \[alm\_stockroom\]
 
 </td><td>
 
-Ensures that you don’t [[view-create-stockroom|create a stockroom]] of the type Field Agent without Work Management or Field Service Management activated. Allows for only one personal stockroom per user.
+Ensures that you don’t create a stockroom of the type Field Agent without Work Management or Field Service Management activated. Allows for only one personal stockroom per user.
 
 </td></tr><tr><td>
 
@@ -1356,20 +1356,3 @@ Verifies that the selected default stockroom isn’t of the Field Agent type.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[am-landing-page|Asset Management]]
-- [[c_Stockrooms|Stockrooms]]
-- [[c_ReceiveAConsumableAsset|Consumable assets]]
-- [[c_Models|Models]]
-- [[r_StockroomTypes|Stockroom types]]
-- [[c_Procurement|Procurement]]
-- [[c_StockRules|Stock rules]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[manage-transfer-orders|Manage transfer order]]
-- [[c_UseConditionCheckDefinitions|Condition check definitions]]
-- [[t_CreatingAssets|Create assets]]
-- [[model-hierarchy|Model categories]]
-- [[pre-allocated-asset|Pre-allocated assets]]
-- [[view-create-stockroom|Create a stockroom]]

@@ -14,7 +14,7 @@ breadcrumb: [Platform performance, Maintain and monitor, Administer the ServiceN
 
 # Configuring the ServiceNow AI Platform to optimize performance
 
-Configure browser settings, transaction and [[c_ApplicationQuotas|application quotas]], and [[operational-toggles|operational toggles]] options to optimize performance. Optimizing ServiceNow AI [[platform-performance-landing|Platform performance]] supports a smooth a responsive user experience.
+Configure browser settings, transaction and application quotas, and operational toggles options to optimize performance. Optimizing ServiceNow AI Platform performance supports a smooth a responsive user experience.
 
 ## Configuration overview
 
@@ -22,7 +22,7 @@ Most configuration for platform performance optimization is completed by instanc
 
 -   [Set transaction quotas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/c_TransactionQuotas.md)
 
-    Instance administrators set [[c_TransactionQuotas|transaction quotas]] to help prevent poorly performing queries and scripts from consuming system resources. After determining normal [[r_DirectJDBCProbeParameters|parameters]] for transactions, you can create a transaction quota rule that defines when a long-running transaction should be canceled.
+    Instance administrators set transaction quotas to help prevent poorly performing queries and scripts from consuming system resources. After determining normal parameters for transactions, you can create a transaction quota rule that defines when a long-running transaction should be canceled.
 
 -   [Set application quotas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/c_ApplicationQuotas.md)
 
@@ -36,10 +36,4 @@ Most configuration for platform performance optimization is completed by instanc
 
     Verify that your browser supports data compression to support optimal performance. Any user can verify that their browser's settings.
 
-## Related
 
-- [[c_ApplicationQuotas|Application quotas]]
-- [[operational-toggles|Operational toggles]]
-- [[platform-performance-landing|Platform performance]]
-- [[c_TransactionQuotas|Transaction quotas]]
-- [[r_DirectJDBCProbeParameters|Parameters]]

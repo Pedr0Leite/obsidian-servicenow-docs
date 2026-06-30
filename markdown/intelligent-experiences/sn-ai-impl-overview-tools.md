@@ -13,7 +13,7 @@ breadcrumb: [ServiceNow AI implementation, Enable AI experiences]
 
 # Now Assist organization and tools
 
-The [[platform-now-assist-landing|Now Assist]] experience includes generative AI skills, agentic AI, and conversational user engagement layer. A good AI experience depends on quality data and a coherent AI policy that functions as its guiding star. AI Search capabilities and other tools help connect the pieces.
+The Now Assist experience includes generative AI skills, agentic AI, and conversational user engagement layer. A good AI experience depends on quality data and a coherent AI policy that functions as its guiding star. AI Search capabilities and other tools help connect the pieces.
 
 The following infographic illustrates the components of the Now Assist experience. You can think of each area as a layer, with AI policy as the basis for your implementation. Data plays an important role, since poor data will lead to poor outcomes, and the search experience drives both generative and agentic AI capabilities. The conversational engagement layer allows your users to communicate with AI and perform tasks and self-serve more easily.
 
@@ -21,7 +21,7 @@ The following infographic illustrates the components of the Now Assist experienc
 
 ## AI policy
 
-AI governance is defined by your organization and then implemented on the platform [[using-ai-control-tower|using AI Control Tower]]. [[ai-control-tower-landing|AI Control Tower]] is designed to scale with your organization’s AI maturity. It enables end-to-end life cycle management of AI agents and models, from intake and evaluation to deployment and optimization. It also acts as a bridge between governance committees and implementation teams, ensuring that policy decisions are translated into technical [[exploring-ai-governance|configurations]] and operational [[controls|controls]]. The platform includes the AI Risk and Compliance application, which comes with pre-built content aligned to the EU AI Act and NIST AI Risk Management Framework \(AI RMF\), helping organizations accelerate compliance and implement responsible AI practices from day one. For more information, see [[sn-ai-impl-governance|AI governance for Now Assist on the ServiceNow AI Platform]].
+AI governance is defined by your organization and then implemented on the platform using AI Control Tower. AI Control Tower is designed to scale with your organization’s AI maturity. It enables end-to-end life cycle management of AI agents and models, from intake and evaluation to deployment and optimization. It also acts as a bridge between governance committees and implementation teams, ensuring that policy decisions are translated into technical configurations and operational controls. The platform includes the AI Risk and Compliance application, which comes with pre-built content aligned to the EU AI Act and NIST AI Risk Management Framework \(AI RMF\), helping organizations accelerate compliance and implement responsible AI practices from day one. For more information, see [AI governance for Now Assist on the ServiceNow AI Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/sn-ai-impl-governance.md).
 
 For real-time guardrail enforcement for AI interactions, you can use Now Assist Guardian to monitor and mitigate risks related to offensive content, sensitive topics, and security threats in generative AI outputs. Admins can configure these guardrails directly in the Now Assist Admin console, and logs are available to track detection events and guide decisions about blocking or escalation.
 
@@ -41,7 +41,7 @@ Roles and responsibilities:
 
 -   **[Now Assist Admin \[sn\_nowassist\_admin.nsa\_admin\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/roles-installed-with-now-assist-admin.md)**
 
-    The Now Assist admin is responsible for enabling and managing the Now Assist Guardian guardrails within the Now Assist Admin console. This includes configuring detection settings for offensiveness, prompt injection, and sensitive topics, as well as monitoring logs to assess harmful or malicious AI outputs. The admin can toggle guardrails on or off, choose actions like “Block and Log,” and tailor the configuration to match organizational risk tolerance and use [[cases|cases]].
+    The Now Assist admin is responsible for enabling and managing the Now Assist Guardian guardrails within the Now Assist Admin console. This includes configuring detection settings for offensiveness, prompt injection, and sensitive topics, as well as monitoring logs to assess harmful or malicious AI outputs. The admin can toggle guardrails on or off, choose actions like “Block and Log,” and tailor the configuration to match organizational risk tolerance and use cases.
 
 
 For more information about these tools, see:
@@ -52,11 +52,11 @@ For more information about these tools, see:
 
 ## Data management
 
-You know the old saying, "Garbage in, garbage out?" Poor, incomplete, or unstructured data can lead to poor AI outcomes. To prepare your data for AI implementation, see [[sn-ai-impl-data-readiness|Data readiness for implementing Now Assist on the ServiceNow AI Platform]].
+You know the old saying, "Garbage in, garbage out?" Poor, incomplete, or unstructured data can lead to poor AI outcomes. To prepare your data for AI implementation, see [Data readiness for implementing Now Assist on the ServiceNow AI Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/sn-ai-impl-data-readiness.md).
 
-Now Assist provides several tools to help you manage data and provide user context on your instance. The [[now-assist-data-kit-landing|Now Assist Data Kit]] helps organizations manage AI training data on their ServiceNow instance. It provides a centralized workspace to curate, generate, cleanse, and evaluate [[ai-datasets|datasets]], including importing data from tables, adding ground truth, and creating derived datasets. It supports synthetic data generation—up to 1,000 records at a time—and includes tools to anonymize sensitive information for privacy compliance. Integrated with the [[now-assist-skill-kit-landing|Now Assist Skill Kit]], it enables teams to test custom AI skills and measure performance.
+Now Assist provides several tools to help you manage data and provide user context on your instance. The Now Assist Data Kit helps organizations manage AI training data on their ServiceNow instance. It provides a centralized workspace to curate, generate, cleanse, and evaluate datasets, including importing data from tables, adding ground truth, and creating derived datasets. It supports synthetic data generation—up to 1,000 records at a time—and includes tools to anonymize sensitive information for privacy compliance. Integrated with the Now Assist Skill Kit, it enables teams to test custom AI skills and measure performance.
 
-[[knowledge-graph-landing|Knowledge Graph]] makes AI in Now Assist more personal by using structured enterprise data to tailor responses to each user. It helps AI understand context, such as a user’s role, location, or assigned assets, making answers more relevant and accurate. It also supports intelligent slot-filling, automatically pulling in known information to streamline conversations and reduce repetitive questions. This results in faster, more personalized, and trustworthy AI interactions.
+Knowledge Graph makes AI in Now Assist more personal by using structured enterprise data to tailor responses to each user. It helps AI understand context, such as a user’s role, location, or assigned assets, making answers more relevant and accurate. It also supports intelligent slot-filling, automatically pulling in known information to streamline conversations and reduce repetitive questions. This results in faster, more personalized, and trustworthy AI interactions.
 
 Roles and responsibilities:
 
@@ -109,7 +109,7 @@ Use the Now Assist Admin console to install and configure Now Assist plugins, as
 -   Set up and configure skills to align with your business processes.
 -   Monitor and analyze usage, including adoption rates and performance metrics across the platform.
 -   Manage provider policies, data handling rules, and access controls.
--   Turn on and configure the [[now-assist-center-now-assist-panel|Now Assist panel]].
+-   Turn on and configure the Now Assist panel.
 -   Manage large language models \(LLMs\).
 -   Configure translation for Now Assist.
 
@@ -119,7 +119,7 @@ Roles and responsibilities:
 
 -   **[Now Assist Admin \[sn\_nowassist\_admin.nsa\_admin\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/roles-installed-with-now-assist-admin.md)**
 
-    This role is required to [[install-now-assist-feature-plugins|install Now Assist plugins]], activate skills, and configure Now Assist preferences and settings.
+    This role is required to install Now Assist plugins, activate skills, and configure Now Assist preferences and settings.
 
 -   **[Skill Kit admin \[sn\_skill\_builder.admin\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/na-skill-kit-roles.md)**
 
@@ -128,17 +128,17 @@ Roles and responsibilities:
 
 For more information about these tools and features, see:
 
--   [[configuring-now-assist|Overview tab in Now Assist Admin]]
-    -   [[now-assist-panel-overview|Now Assist panel]]
-    -   [[manage-large-language-models|Manage AI models]]
-    -   [[now-assist-analytics|Analyzing Now Assist performance]]
-    -   [[translation-for-now-assist|Multilingual service for Now Assist]]
+-   [Overview tab in Now Assist Admin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configuring-now-assist.md)
+    -   [Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-overview.md)
+    -   [Manage AI models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/manage-large-language-models.md)
+    -   [Analyzing Now Assist performance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-analytics.md)
+    -   [Multilingual service for Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/translation-for-now-assist.md)
     -   [Now Assist for Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/now-assist-mobile-landing.md)
 -   [Now Assist Skill Kit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/now-assist-skill-kit-landing.md)
 
 ## Agentic AI
 
-In an agentic AI system, autonomous agents perform complex tasks by reasoning, planning, and executing actions across multiple steps. These agents are not just reactive; they can break down goals, make decisions, and coordinate with other agents or systems to complete workflows. In AI Agent Studio, AI agents and agentic workflows are built to handle tasks such as resolving incidents, managing requests, or navigating service catalogs using generative AI and orchestration logic. For a list of available agentic workflows by product, see [[sn-aia-use-cases-list|Now Assist agentic workflows]].
+In an agentic AI system, autonomous agents perform complex tasks by reasoning, planning, and executing actions across multiple steps. These agents are not just reactive; they can break down goals, make decisions, and coordinate with other agents or systems to complete workflows. In AI Agent Studio, AI agents and agentic workflows are built to handle tasks such as resolving incidents, managing requests, or navigating service catalogs using generative AI and orchestration logic. For a list of available agentic workflows by product, see [Now Assist agentic workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/sn-aia-use-cases-list.md).
 
 Use AI Agent Studio to perform the following tasks:
 
@@ -150,7 +150,7 @@ Use AI Agent Studio to perform the following tasks:
 
 The Model Context Protocol \(MCP\) client enables you to access the Model Context Protocol tools that are hosted externally and published using an MCP Server. MCP facilitates communication between an AI host application \(like AI Agent Studio\) and one or more MCP servers that expose specific capabilities such as tools.
 
-The [[mcp-platform-manager-landing|MCP Server Console]] is a tool for administrators to set up and manage Model Context Protocol \(MCP\) servers. These servers provide AI applications with access to ServiceNow features like incident lookups, case summaries, and workflow actions. The console lets you choose which capabilities to make available, ensuring everything stays secure and compliant. Then, from an MCP client, users can request information from the server and automate functionality using the available tools and data that the server returns.
+The MCP Server Console is a tool for administrators to set up and manage Model Context Protocol \(MCP\) servers. These servers provide AI applications with access to ServiceNow features like incident lookups, case summaries, and workflow actions. The console lets you choose which capabilities to make available, ensuring everything stays secure and compliant. Then, from an MCP client, users can request information from the server and automate functionality using the available tools and data that the server returns.
 
 Roles and responsibilities:
 
@@ -169,12 +169,12 @@ Roles and responsibilities:
 
 For more information about these tools, see:
 
--   [[na-ai-agents|Now Assist AI agents]]
-    -   [[ai-agent-studio|AI Agent Studio]]
-    -   [[aia-security-implementation|Implement access control in Now Assist AI agents]]
-    -   [[ai-agent-dashboard|AI Agent Analytics dashboard]]
-    -   [[ai-agent-examples|Examples of using AI agents]]
--   [[mcp-client|Model Context Protocol Client]]
+-   [Now Assist AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/na-ai-agents.md)
+    -   [AI Agent Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-agent-studio.md)
+    -   [Implement access control in Now Assist AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-security-implementation.md)
+    -   [AI Agent Analytics dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-agent-dashboard.md)
+    -   [Examples of using AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-agent-examples.md)
+-   [Model Context Protocol Client](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/mcp-client.md)
 -   [MCP Server Console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
 ## Conversational AI engagement
@@ -221,32 +221,3 @@ For more information about these tools, see:
 -   [Now Assist for Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/now-assist-mobile-landing.md)
 -   [Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-overview.md)
 
-## Related
-
-- [[sn-ai-impl-governance|AI governance for Now Assist on the ServiceNow AI Platform]]
-- [[sn-ai-impl-data-readiness|Data readiness for implementing Now Assist on the ServiceNow AI Platform]]
-- [[configuring-now-assist|Overview tab in Now Assist Admin]]
-- [[now-assist-panel-overview|Now Assist panel]]
-- [[manage-large-language-models|Manage AI models]]
-- [[now-assist-analytics|Analyzing Now Assist performance]]
-- [[translation-for-now-assist|Multilingual service for Now Assist]]
-- [[sn-aia-use-cases-list|Now Assist agentic workflows]]
-- [[na-ai-agents|Now Assist AI agents]]
-- [[ai-agent-studio|AI Agent Studio]]
-- [[aia-security-implementation|Implement access control in Now Assist AI agents]]
-- [[ai-agent-dashboard|AI Agent Analytics dashboard]]
-- [[ai-agent-examples|Examples of using AI agents]]
-- [[mcp-client|Model Context Protocol Client]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[using-ai-control-tower|Using AI Control Tower]]
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[exploring-ai-governance|Configurations]]
-- [[controls|Controls]]
-- [[cases|Cases]]
-- [[now-assist-data-kit-landing|Now Assist Data Kit]]
-- [[ai-datasets|Datasets]]
-- [[now-assist-skill-kit-landing|Now Assist Skill Kit]]
-- [[knowledge-graph-landing|Knowledge Graph]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[install-now-assist-feature-plugins|Install Now Assist plugins]]
-- [[mcp-platform-manager-landing|MCP Server Console]]

@@ -22,7 +22,7 @@ Role required: sn\_sec\_tisc.analyst
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **[[threat-intel-landing-page|Threat Intelligence]] Sharing**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center** &gt; **Threat Intelligence Sharing**.
 
 2.  Select **TAXII Outbound Server** &gt; **TAXII Collections**.
 
@@ -50,7 +50,3 @@ Role required: sn\_sec\_tisc.analyst
 
 [Viewing Inbound Intelligence]()
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-intel-landing-page|Threat Intelligence]]

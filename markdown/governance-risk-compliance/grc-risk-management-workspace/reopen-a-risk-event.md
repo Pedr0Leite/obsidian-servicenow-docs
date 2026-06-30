@@ -22,7 +22,7 @@ Role required: sn\_risk\_advanced.risk\_event\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Risk** &gt; **[[risk-workspace|Risk Workspace]]**.
+1.  Navigate to **All** &gt; **Risk** &gt; **Risk Workspace**.
 
 2.  Select the list icon \[Omitted image "list-icon-riskworkspace.png"\] Alt text: List icon. and navigate to the closed risk events.
 
@@ -39,6 +39,3 @@ Role required: sn\_risk\_advanced.risk\_event\_admin
 
 **Parent Topic:**[Use Risk Events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/use-risk-events.md)
 
-## Related
-
-- [[risk-workspace|risk workspace]]

@@ -12,17 +12,11 @@ breadcrumb: [Configure, Manufacturing Commercial Operations]
 
 # Set up sales promotion
 
-A [[mco-sales-promotion|sales promotion]] setup enables the manufacturers to configure the sales promotion details. It includes the promotion name, start and end date of the promotion, sales promotion type, and incentive details.
+A sales promotion setup enables the manufacturers to configure the sales promotion details. It includes the promotion name, start and end date of the promotion, sales promotion type, and incentive details.
 
 |Task|Description|
 |----|-----------|
-|[[create-promotion-type|Create promotion type]]|Configure different promotion type that is applicable to the customers.|
-|[[mco-create-input-set|Create promotion questionnaire]]|Configure the MCO input set. Define the grouping for input attributes.|
-|[[mco-checklist-template|Create a checklist template]]|Create a checklist template applicable to user group or user.|
+|[Create promotion type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/create-promotion-type.md)|Configure different promotion type that is applicable to the customers.|
+|[Create promotion questionnaire](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-create-input-set.md)|Configure the MCO input set. Define the grouping for input attributes.|
+|[Create a checklist template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-checklist-template.md)|Create a checklist template applicable to user group or user.|
 
-## Related
-
-- [[create-promotion-type|Create promotion type]]
-- [[mco-create-input-set|Create promotion questionnaire]]
-- [[mco-checklist-template|Create a checklist template]]
-- [[mco-sales-promotion|Sales promotion]]

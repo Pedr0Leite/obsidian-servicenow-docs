@@ -14,11 +14,11 @@ breadcrumb: [Configuring Service Catalog, Service Catalog, Manage service capabi
 
 # Service catalog categories
 
-Categories organize [[c_IntroductionToCatalogItems|service catalog items]] into logical groups. Administrators and catalog administrators can create and configure categories, defining their characteristics and adding content such as catalog items to them.
+Categories organize service catalog items into logical groups. Administrators and catalog administrators can create and configure categories, defining their characteristics and adding content such as catalog items to them.
 
-Categories can have a parent-child relationship, for example, **IT** and **Laptops**. A child category is a subcategory of its parent category. Each catalog item, order guide, [[c_RecordProducer|record producer]], content item, and subcategory appears as a single item within the category. A catalog item can exist in multiple categories, giving you the flexibility to offer the same service from multiple places within your catalog.
+Categories can have a parent-child relationship, for example, **IT** and **Laptops**. A child category is a subcategory of its parent category. Each catalog item, order guide, record producer, content item, and subcategory appears as a single item within the category. A catalog item can exist in multiple categories, giving you the flexibility to offer the same service from multiple places within your catalog.
 
-Certain system properties control the following [[service-catalog|Service Catalog]] category configuration.
+Certain system properties control the following Service Catalog category configuration.
 
 -   How categories are displayed to users. For example, are subcategories displayed in a panel or as a list in the category view.
 -   What content types and search and navigation elements are available on the homepage. For example, searching the service catalog can be enabled or disabled for all users.
@@ -39,8 +39,3 @@ Dynamic categories let you organize and display commonly requested items and kno
 
 **Parent Topic:**[Configuring Service Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/configuring-service-catalog.md)
 
-## Related
-
-- [[c_IntroductionToCatalogItems|Service Catalog items]]
-- [[c_RecordProducer|Record Producer]]
-- [[service-catalog|Service Catalog]]

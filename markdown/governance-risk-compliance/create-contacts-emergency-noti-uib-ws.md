@@ -28,7 +28,7 @@ Delivery channels are imported from the Everbridge instance to the delivery chan
 
 1.  Navigate to **Business Continuity** &gt; **Everbridge Contact Configuration** &gt; **Contacts**.
 
-    The contacts are displayed in the [[list-view-uib-ws|list view]] as shown in the example.\[Omitted image "ebn-contacts-list-view.png"\] Alt text: Contacts in the list view.
+    The contacts are displayed in the list view as shown in the example.\[Omitted image "ebn-contacts-list-view.png"\] Alt text: Contacts in the list view.
 
 2.  Select **New**.
 
@@ -38,13 +38,13 @@ Delivery channels are imported from the Everbridge instance to the delivery chan
 
     You can delete a contact that you created manually from the User table. However, the contact must be in **New** state. If the referenced user record is deleted, then a scheduled job that runs weekly deletes the contact from the Contacts table.
 
-    For more information on the fields, see [[contact-form|Contact form]].
+    For more information on the fields, see [Contact form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/contact-form.md).
 
 4.  Select **Submit**.
 
 5.  To import contacts based on contact sync rules, select the **Import users** button.
 
-    To import the contacts using a sync rule, you must first [[create-contact-import-rules|Create the contact import rules]]. Refresh the form page to get the imported list of users.
+    To import the contacts using a sync rule, you must first [Create the contact import rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-contact-import-rules.md). Refresh the form page to get the imported list of users.
 
     **Import users** action reads the Users table \[sys\_user\] based on the contact sync rules and creates a record in the Contacts table.
 
@@ -58,11 +58,5 @@ Use the Contact form to create the contacts manually and then synchronize the co
 -   **[Create the contact import rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-contact-import-rules.md)**  
 Create a contact import rule to apply on the User table. You can then filter out the users as the contacts for emergency notifications.
 
-**Parent Topic:**[[setup-steps-for-emergency-notification-uib-ws|Setup for Everbridge notifications]]
+**Parent Topic:**[Setup for Everbridge notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/setup-steps-for-emergency-notification-uib-ws.md)
 
-## Related
-
-- [[contact-form|Contact form]]
-- [[create-contact-import-rules|Create the contact import rules]]
-- [[setup-steps-for-emergency-notification-uib-ws|Setup for Everbridge notifications]]
-- [[list-view-uib-ws|List view]]

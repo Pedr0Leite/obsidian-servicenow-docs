@@ -26,7 +26,7 @@ You can cancel a publication in any of the following stages: **Author**, **Revie
 
 1.  Navigate to one of the following:
 
-    -   **[[c_TargetedCommunications|Targeted Communications]]** &gt; **Active Publications**
+    -   **Targeted Communications** &gt; **Active Publications**
     -   **Targeted Communications** &gt; **Draft Publications**
 2.  Select the desired publication.
 
@@ -34,6 +34,4 @@ You can cancel a publication in any of the following stages: **Author**, **Revie
 
     The stage of the publication changes to **Cancelled**.
 
-## Related
 
-- [[c_TargetedCommunications|Targeted communications]]

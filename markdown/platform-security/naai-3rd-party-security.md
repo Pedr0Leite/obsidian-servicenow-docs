@@ -18,7 +18,7 @@ ServiceNow AI Platform supports integrating third-party AI agents into your agen
 
 ## Connections and credentials
 
-The following topics describe how to set up the [[r-credentials|connections and credentials]] required to authorize external AI agents on your instance.
+The following topics describe how to set up the connections and credentials required to authorize external AI agents on your instance.
 
 -   **[Integrating external AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/external-agent-protocols.md)**
 
@@ -42,9 +42,5 @@ The following topics describe how to integrate specific third-party AI agent pro
     Create an external AI agent by manually integrating a third-party agent in AI Agent Studio to use in agentic workflows.
 
 
-**Parent Topic:**[[now-assist-security|Agentic AI security and governance]]
+**Parent Topic:**[Agentic AI security and governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/now-assist-security.md)
 
-## Related
-
-- [[now-assist-security|Agentic AI security and governance]]
-- [[r-credentials|Connections and Credentials]]

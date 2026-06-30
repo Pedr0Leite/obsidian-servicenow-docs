@@ -12,7 +12,7 @@ breadcrumb: [Add a scenario event, Adding a scenario event to the analysis, Enab
 
 # Scenario event form
 
-Use the Scenario event form in [[grc-opres-landing-page|Operational Resilience]] Workspace to associate a scenario event with your [[scenario-analysis-ov|scenario analysis]].
+Use the Scenario event form in Operational Resilience Workspace to associate a scenario event with your scenario analysis.
 
 ## Scenario event form
 
@@ -226,8 +226,3 @@ Issues that are associated with the scenario event.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[scenario-analysis-ov|Scenario analysis]]

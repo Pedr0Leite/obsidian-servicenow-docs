@@ -12,7 +12,7 @@ breadcrumb: [Manage your teams, Navigate the Care Team Portal, Navigate, Care Te
 
 # Remove a member using the Care Team Portal
 
-Remove a member from your team directly within the [[care-team-portal-landing|Care Team Portal]].
+Remove a member from your team directly within the Care Team Portal.
 
 ## Before you begin
 
@@ -40,6 +40,3 @@ Role required: sn\_hco.care\_team\_manager
 
 The team member is removed from the designated care team.
 
-## Related
-
-- [[care-team-portal-landing|Care Team Portal]]

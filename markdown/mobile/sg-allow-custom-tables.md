@@ -12,7 +12,7 @@ breadcrumb: [Data items, Mobile app components, Building mobile apps, Mobile Pla
 
 # Allow or restrict access to custom tables in mobile data items
 
-Use system properties to control whether custom tables are available when creating or modifying [[sg-data-item|data items]].
+Use system properties to control whether custom tables are available when creating or modifying data items.
 
 ## Before you begin
 
@@ -30,6 +30,4 @@ Role required: admin
 
 4.  Click **Update**.
 
-## Related
 
-- [[sg-data-item|Data items]]

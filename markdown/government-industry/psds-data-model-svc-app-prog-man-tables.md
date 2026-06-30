@@ -23,8 +23,5 @@ This section describes the tables installed with the Service Applicant Program M
 |Funding Program \(sn\_svc\_appl\_pgm\_mg\_m2m\_funding\_program\)|Contains portfolio-level funding program definitions used to organize, govern, and track grant funding across one or more grant programs. Stores program details including the funding organization, program timeline, total program budget, and category.|N/A|
 |Funding Program M2M Grant Program \(sn\_svc\_appl\_pgm\_mg\_m2m\_funding\_program\_to\_grant\_program\)|Contains the many-to-many relationship mappings between funding programs and grant programs. Each record links exactly one funding program to one grant program.|N/A|
 
-**Parent Topic:**[[psds-data-model-service-applicant|Service Applicant Data Model]]
+**Parent Topic:**[Service Applicant Data Model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-data-model-service-applicant.md)
 
-## Related
-
-- [[psds-data-model-service-applicant|Service Applicant Data Model]]

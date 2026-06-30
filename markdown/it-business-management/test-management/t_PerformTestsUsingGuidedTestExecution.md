@@ -14,7 +14,7 @@ breadcrumb: [Performing tests and updating the test status, Test Management 1.0,
 
 # Perform tests using guided test execution
 
-Perform [[c_Tests|tests]] from an assigned test case and record results.
+Perform tests from an assigned test case and record results.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: none
 
 ## About this task
 
-When the guided testing is initiated, the testers assigned to the [[c_TestCases|test cases]] in the test plan are notified by email and can begin testing.
+When the guided testing is initiated, the testers assigned to the test cases in the test plan are notified by email and can begin testing.
 
 ## Procedure
 
@@ -51,7 +51,3 @@ When the guided testing is initiated, the testers assigned to the [[c_TestCases|
 
 **Parent Topic:**[Performing tests and updating the test status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/c_Tester.md)
 
-## Related
-
-- [[c_Tests|Tests]]
-- [[c_TestCases|Test cases]]

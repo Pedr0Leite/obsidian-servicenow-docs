@@ -14,7 +14,7 @@ breadcrumb: [Explore, Sourcing and Procurement Operations, Finance and Supply Ch
 
 # Understanding Punchout
 
-PunchOut is a technology that connects a buyer’s eProcurement application directly to their [[supplier|supplier]] is third-party punchout suppliers’ eCommerce sites
+PunchOut is a technology that connects a buyer’s eProcurement application directly to their supplier is third-party punchout suppliers’ eCommerce sites
 
 PunchOut enables a buyer’s employees to shop on supplier is third-party punchout suppliers’ eCommerce sites, but complete their purchase in their organization’s eProcurement application, where approval workflows can be applied, and spending can be tracked.
 
@@ -56,6 +56,3 @@ Level 2 \(L2\) PunchOut enables buying organizations to search for and discover 
 
 [Universal Request in Sourcing and Procurement Operations]()
 
-## Related
-
-- [[supplier|Supplier]]

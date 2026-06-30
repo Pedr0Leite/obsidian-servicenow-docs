@@ -14,7 +14,7 @@ breadcrumb: [Configure, Opportunity Marketplace, Hiring Experiences, HR Service 
 
 # Creating custom opportunity types in Opportunity Marketplace
 
-[[egd-oppt-mrktplc-landing|Opportunity Marketplace]] comes with 3 base system **Opportunity types**. If you need a different opportunity type, you can create custom opportunity types to meet the needs of your organization. You can also create custom user criteria, opportunity details, and roles and requirements.
+Opportunity Marketplace comes with 3 base system **Opportunity types**. If you need a different opportunity type, you can create custom opportunity types to meet the needs of your organization. You can also create custom user criteria, opportunity details, and roles and requirements.
 
 There are several fields that make up an **Opportunity type** record. To read details about **Opportunity type** fields, see [Opportunity Type Configuration for Opportunity Marketplace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/opportunity-marketplace/opm-oppt-types.md).
 
@@ -26,7 +26,7 @@ There are 2 of the fields that are included in the **Service Catalog** **Catalog
 The quickest way to create custom versions of these tables is to copy an existing record and make updates to customize it to your needs.
 
 -   **[Create a custom opportunity type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/opportunity-marketplace/egd-oppt-mrktplc-create-custom-oppt-type.md)**  
-Opportunity Marketplace comes with a few base system opportunity types. You can [[egd-oppt-mrktplc-create-custom-oppt-type|create a custom opportunity type]] to meet the needs of your organization.
+Opportunity Marketplace comes with a few base system opportunity types. You can create a custom opportunity type to meet the needs of your organization.
 -   **[Select or create user criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/opportunity-marketplace/egd-oppt-mrktplc-custom-user-criteria.md)**  
 Opportunity Marketplace user criteria are maintained in the Service Catalog under Catalog Definitions. There are several user criteria records to select from, or you can create your own user criteria.
 -   **[Create custom opportunity details records in Opportunity Marketplace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/opportunity-marketplace/egd-oppt-mrktplc-custom-oppt-details.md)**  
@@ -36,7 +36,3 @@ Create custom roles and requirements to meet the needs of your organization. Rol
 
 **Parent Topic:**[Install and configure Opportunity Marketplace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/opportunity-marketplace/egd-oppt-mrktplc-inst-config.md)
 
-## Related
-
-- [[egd-oppt-mrktplc-landing|Opportunity Marketplace]]
-- [[egd-oppt-mrktplc-create-custom-oppt-type|Create a custom opportunity type]]

@@ -13,7 +13,7 @@ breadcrumb: [ServiceNow Store, Administering applications, Get started, Administ
 
 # Getting apps as an on-premise customer
 
-If you have an on-premise \(self-hosted\) instance, you can procure apps from the [[servicenow-store|ServiceNow Store]]. Download encrypted apps and products to install on your instance, or connect your instance to the ServiceNow Store to sync purchases with your instance directly.
+If you have an on-premise \(self-hosted\) instance, you can procure apps from the ServiceNow Store. Download encrypted apps and products to install on your instance, or connect your instance to the ServiceNow Store to sync purchases with your instance directly.
 
 ## Overview of using the ServiceNow Store for on-premise instances
 
@@ -26,29 +26,22 @@ If you have an on-premise instance, there are two ways that you can procure apps
 
 Use the following steps to procure apps and products without connecting your instance to the ServiceNow Store.
 
-1.  [[get-app-on-prem|Get an app or product as an on-premise customer]]
+1.  [Get an app or product as an on-premise customer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/get-app-on-prem.md)
 
     Procure and download an encrypted app from the ServiceNow Store for use with your on-premise instance.
 
-2.  [[upload-app-on-prem-instance|Upload an app to an on-premise instance]]
+2.  [Upload an app to an on-premise instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upload-app-on-prem-instance.md)
 
     Upload an application's encrypted file to your on-premise instance to make it available for installation.
 
 3.  [Install the app or product using the Application Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/installing-apps-app-manager.md)
 
-    After uploading the encrypted app file, use the [[application-manager|Application Manager]] to install the application to your on-premise instance.
+    After uploading the encrypted app file, use the Application Manager to install the application to your on-premise instance.
 
 
 ## Procuring apps and products by connecting to the ServiceNow Store
 
 Contact [Customer Service and Support](https://support.servicenow.com/now) to connect your instance to the ServiceNow Store.
 
-After Customer Service and Support confirms that your instance is connected to the ServiceNow Store, follow the same steps used to procure and install applications in hosted instances. Refer to [[getting-apps-trials|Getting apps and trials from the ServiceNow Store]] for more details.
+After Customer Service and Support confirms that your instance is connected to the ServiceNow Store, follow the same steps used to procure and install applications in hosted instances. Refer to [Getting apps and trials from the ServiceNow Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/getting-apps-trials.md) for more details.
 
-## Related
-
-- [[get-app-on-prem|Get an app or product as an on-premise customer]]
-- [[upload-app-on-prem-instance|Upload an app to an on-premise instance]]
-- [[getting-apps-trials|Getting apps and trials from the ServiceNow Store]]
-- [[servicenow-store|ServiceNow Store]]
-- [[application-manager|Application Manager]]

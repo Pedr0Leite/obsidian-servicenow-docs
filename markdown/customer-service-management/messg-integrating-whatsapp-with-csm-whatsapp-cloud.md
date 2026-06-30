@@ -12,7 +12,7 @@ breadcrumb: [Integrating with consumer messaging apps, Integrate, Customer Servi
 
 # Integrating WhatsApp with Customer Service Management using the WhatsApp Cloud API
 
-Use WhatsApp messaging with [[c_CustomerServiceManagement|Customer Service Management]] to enable direct communication with customers through WhatsApp using the WhatsApp Cloud API.
+Use WhatsApp messaging with Customer Service Management to enable direct communication with customers through WhatsApp using the WhatsApp Cloud API.
 
 This WhatsApp direct integration connects to Meta’s WhatsApp business platform and enables agents to provide real‑time customer support with rich media, interactive controls, and full CSM workflow integration.
 
@@ -83,7 +83,7 @@ Customer-initiated conversations
 
 </td><td>
 
-These conversations begin when the customer sends the first message to your business. WhatsApp applies specific [[gamification-components-rules|rules]] for messages sent within this interaction window.Messaging window:
+These conversations begin when the customer sends the first message to your business. WhatsApp applies specific rules for messages sent within this interaction window.Messaging window:
 
 -   Opens when customer sends first message
 -   Remains open for 24 hours from last customer message
@@ -138,21 +138,14 @@ The users with the roles listed in the following table can use the Conversationa
 |admin|Configure and manage the WhatsApp Cloud API integration, including connection settings, routing rules, system properties, and security configurations.|
 |agent\_workspace\_user|Accept an ongoing WhatsApp chat conversation with a customer through the WhatsApp service channel in Advanced Work Assignment.|
 |sn\_customerservice\_manager|View details of a WhatsApp chat conversation by using interaction records of type Messaging and subtype WhatsApp.|
-|sn\_customerservice.consumer, sn\_customerservice.customer|Initiate WhatsApp chat conversations with a Virtual Agent or live agent so that you can search for articles in [[servicenow-communities|Communities]] and Knowledge Management, access service catalogs, and [[t_CreateACaseFromCustServApp|create a customer service case]].|
+|sn\_customerservice.consumer, sn\_customerservice.customer|Initiate WhatsApp chat conversations with a Virtual Agent or live agent so that you can search for articles in Communities and Knowledge Management, access service catalogs, and create a customer service case.|
 
 **Related topics**  
 
 
-[[direct-cloud-api-system-property-configuration|System properties for configuring WhatsApp \(WhatsApp Cloud API\)]]
+[System properties for configuring WhatsApp \(WhatsApp Cloud API\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/direct-cloud-api-system-property-configuration.md)
 
 [Configure Conversational Integration with WhatsApp \(WhatsApp Cloud API\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/messg-direct-whatsapp-configure.md)
 
 [Using Conversational Integration with WhatsApp \(WhatsApp Cloud API\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/messg-direct-whatsapp-using.md)
 
-## Related
-
-- [[direct-cloud-api-system-property-configuration|System properties for configuring WhatsApp \(WhatsApp Cloud API\)]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[gamification-components-rules|Rules]]
-- [[servicenow-communities|Communities]]
-- [[t_CreateACaseFromCustServApp|Create a customer service case]]

@@ -14,15 +14,15 @@ breadcrumb: [AI Search record producer for Service Portal, Integrate, AI Search,
 
 # Domain separation and AI Search Assist
 
-Domain separation is supported for [[ia-ai-search|AI Search]] Assist. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported for AI Search Assist. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## AI Search Assist overview
 
-The goal of AI Search Assist is to give a Service Portal record producer AI Search capabilities, which improve search [[hs-results|results]] over time. Domain separation is enabled in AI Search Assist.
+The goal of AI Search Assist is to give a Service Portal record producer AI Search capabilities, which improve search results over time. Domain separation is enabled in AI Search Assist.
 
 ## How domain separation works in AI Search Assist
 
-Domain separation for AI Search Assist is set in the record producer configuration. A related link for each record producer configuration enables you to expand or collapse the domain scope. If you expand the domain scope, any child domain record producer [[clone-configurations-tab|configurations]] can override a global or parent domain record configuration.
+Domain separation for AI Search Assist is set in the record producer configuration. A related link for each record producer configuration enables you to expand or collapse the domain scope. If you expand the domain scope, any child domain record producer configurations can override a global or parent domain record configuration.
 
 **Parent Topic:**[AI Search Assist record producer integration for Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/ai-search-assist.md)
 
@@ -31,8 +31,3 @@ Domain separation for AI Search Assist is set in the record producer configurati
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]
-- [[clone-configurations-tab|Configurations]]

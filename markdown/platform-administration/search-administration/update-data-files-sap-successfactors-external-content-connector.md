@@ -15,7 +15,7 @@ breadcrumb: [SAP SuccessFactors external content connector, Configure, External 
 
 # Update CSV data files for a SAP SuccessFactors external content connector
 
-Upload newly generated comma-separated value \(CSV\) data files to your [[sap-successfactors-external-content-connector|SAP SuccessFactors external content connector]]. The connector reads these files to retrieve updated content and metadata from your SAP SuccessFactors Learning source system.
+Upload newly generated comma-separated value \(CSV\) data files to your SAP SuccessFactors external content connector. The connector reads these files to retrieve updated content and metadata from your SAP SuccessFactors Learning source system.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ Role required: sn\_ext\_conn.xcc\_admin
 
 ## About this task
 
-Unlike most [[ext-cont-connectors-landing-page|external content connectors]], the SAP SuccessFactors connector doesn't automatically retrieve updated content and metadata from its source system every time it crawls. To make updated content and metadata available for retrieval in crawls, you must update the connector configuration, attaching the latest CSV-format data files exported from the source system.
+Unlike most external content connectors, the SAP SuccessFactors connector doesn't automatically retrieve updated content and metadata from its source system every time it crawls. To make updated content and metadata available for retrieval in crawls, you must update the connector configuration, attaching the latest CSV-format data files exported from the source system.
 
 ## Procedure
 
@@ -45,7 +45,7 @@ Unlike most [[ext-cont-connectors-landing-page|external content connectors]], th
 
     1.  In the Users data table, use the **Add file** link to attach the CSV data file that contains the User Mapping ID and Assignment Profile ID columns.
 
-        Data from this file populates the user mapping table for the connector. The connector crawls this table during user permission crawls. [[ia-ai-search|AI Search]] uses the retrieved data to find the original document access restrictions to apply for each search user.
+        Data from this file populates the user mapping table for the connector. The connector crawls this table during user permission crawls. AI Search uses the retrieved data to find the original document access restrictions to apply for each search user.
 
     2.  In the Library and assignment profiles data table, use the **Add file** link to attach the CSV data file that contains the Library ID and Assignment Profile ID columns.
 
@@ -57,16 +57,10 @@ Unlike most [[ext-cont-connectors-landing-page|external content connectors]], th
 
     4.  In the Trainings data table, enter the URL for one of your SAP SuccessFactors source system's training items.
 
-        AI Search analyzes this sample training item URL to determine the correct URL format for training item search [[hs-results|results]] from your source system.
+        AI Search analyzes this sample training item URL to determine the correct URL format for training item search results from your source system.
 
 5.  Select the **I agree to the following disclaimer** option, then select **Save**.
 
 
 **Parent Topic:**[SAP SuccessFactors external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/sap-successfactors-external-content-connector.md)
 
-## Related
-
-- [[sap-successfactors-external-content-connector|SAP SuccessFactors external content connector]]
-- [[ext-cont-connectors-landing-page|External Content Connectors]]
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]

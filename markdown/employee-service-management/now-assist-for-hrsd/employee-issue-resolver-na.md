@@ -29,7 +29,7 @@ The agents, tools, and triggers that are associated with the Resolve HR cases ag
 
 ## Prerequisites and setup
 
-You must have HRSD Pro plus for Now Assist installed for the [[hr-service-delivery|HR Service Delivery]] AI Agent Collection. When you modify an agentic workflow, AI agent, or tool, make sure that you update all instructions accordingly.
+You must have HRSD Pro plus for Now Assist installed for the HR Service Delivery AI Agent Collection. When you modify an agentic workflow, AI agent, or tool, make sure that you update all instructions accordingly.
 
 ## Accessing the Resolve noncritical HR cases agentic workflow
 
@@ -78,9 +78,5 @@ The AI agent assesses each HR case to determine its criticality.
 
 ## Example of event creation on Agent Workspace for HR Case Management
 
-This is an example of how the Resolve noncritical HR cases agentic workflow generates recommendations for a non-critical case, and sends email notifications to the requester.\[Omitted image "nc-request.png"\] Alt text: Event creation on [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]\[Omitted image "nc-request1.png"\] Alt text: Event creation on Agent Workspace for HR Case Management
+This is an example of how the Resolve noncritical HR cases agentic workflow generates recommendations for a non-critical case, and sends email notifications to the requester.\[Omitted image "nc-request.png"\] Alt text: Event creation on Agent Workspace for HR Case Management\[Omitted image "nc-request1.png"\] Alt text: Event creation on Agent Workspace for HR Case Management
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]

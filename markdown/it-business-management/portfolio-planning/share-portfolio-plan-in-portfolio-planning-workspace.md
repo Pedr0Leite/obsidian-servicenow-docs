@@ -32,7 +32,7 @@ When you share a portfolio plan with an individual user or a group, they can acc
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace** &gt; **Portfolio Planning**.
+1.  Navigate to **Workspaces** &gt; **Portfolio Planning Workspace** &gt; **Portfolio Planning**.
 
 2.  From the list of portfolio plans, select one.
 
@@ -79,6 +79,3 @@ You can change the access level or remove access for a user or a group.
 
 [Show or hide the features for a portfolio plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/show-or-hide-the-features-for-your-portfolio-plan-ppw.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

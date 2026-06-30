@@ -14,9 +14,9 @@ breadcrumb: [Explore, AI Search, Search administration, Configure core features,
 
 # Use AI Search for global search and configurable workspace search in Next Experience
 
-[[ia-ai-search|AI Search]] is the default search engine for Unified Navigation searches in Next Experience, including global search and configurable workspace search.
+AI Search is the default search engine for Unified Navigation searches in Next Experience, including global search and configurable workspace search.
 
-Search administrators can configure global search and configurable workspace search settings using the [[ais-next-experience-app|AI Search for Next Experience]] application.
+Search administrators can configure global search and configurable workspace search settings using the AI Search for Next Experience application.
 
 **Note:** The AI Search for Next Experience application is automatically installed and enabled in new Australia instances. If you upgrade to Australia from a previous release, your administrators can manually install and enable the application.
 
@@ -24,7 +24,3 @@ For details on AI Search for Next Experience, including configuration steps and 
 
 **Parent Topic:**[Exploring AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/explore-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[ais-next-experience-app|AI Search for Next Experience]]

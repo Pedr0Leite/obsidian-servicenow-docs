@@ -14,7 +14,7 @@ breadcrumb: [Configure, Employee Relations integration with Navex Ethicspoint, I
 
 # Configure properties
 
-[[oracle-hcm-properties|Configure properties]] to ensure that data is properly mapped between the Navex EthicsPoint system and the ServiceNow system.
+Configure properties to ensure that data is properly mapped between the Navex EthicsPoint system and the ServiceNow system.
 
 ## Before you begin
 
@@ -93,6 +93,4 @@ Option to provide the **Sync attachments** button on cases that are that are alr
 </td></tr></tbody>
 </table>3.  Click **Save**.
 
-## Related
 
-- [[oracle-hcm-properties|Configure properties]]

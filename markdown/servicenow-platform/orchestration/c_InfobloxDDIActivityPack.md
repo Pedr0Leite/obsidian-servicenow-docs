@@ -18,7 +18,7 @@ This activity pack supports Infoblox DDI management through ServiceNow Orchestra
 
 The Infoblox DDI activity pack manages the IP addresses used in a network by integrating DNS and DHCP. Custom Orchestration activities use Infoblox Web API \(WAPI\) REST web services to access the Infoblox GRID server.
 
-**Important:** Managing IP addresses through the Infoblox server requires a fully functional [[mid-server-landing|MID Server]].
+**Important:** Managing IP addresses through the Infoblox server requires a fully functional MID Server.
 
 Starting with the Jakarta release, the Infoblox activity pack updates to version 2. This update supports Infoblox network views, which can restrict the visibility of network data. The view parameter can be passed as a query parameter or payload content, to do operations in a specific view. Version 2 also supports specifying the version of WAPI to use in integration endpoints.
 
@@ -36,20 +36,13 @@ The Infobox DDI activity pack includes two default workflows, one that reserves 
 -   **[Infoblox roles and permissions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/infoblox-roles-permissions.md)**  
 Define the roles and permissions that the Infoblox activities need to access the various resources on the Infoblox server.
 -   **[Infoblox DHCP activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_InfobloxDHCPActivities.md)**  
-The [[c_InfobloxDHCPActivities|Infoblox DHCP activities]] manage the IP addresses reserved for DHCP in your network.
+The Infoblox DHCP activities manage the IP addresses reserved for DHCP in your network.
 -   **[Infoblox DNS activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_InfobloxDNSActivities.md)**  
-The [[c_InfobloxDNSActivities|Infoblox DNS activities]] manage DNS records in your network using an Infoblox DDI Grid Server.
+The Infoblox DNS activities manage DNS records in your network using an Infoblox DDI Grid Server.
 -   **[Infoblox IPAM activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_InfobloxIPAMActivities.md)**  
-The [[c_InfobloxIPAMActivities|Infoblox IPAM activities]] manage IP addresses in your network using an Infoblox DDI Grid Server.
+The Infoblox IPAM activities manage IP addresses in your network using an Infoblox DDI Grid Server.
 -   **[Infoblox network activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_InfobloxNetworkActivities.md)**  
-The [[c_InfobloxNetworkActivities|Infoblox network activities]] manage networks using an Infoblox DDI Grid Server.
+The Infoblox network activities manage networks using an Infoblox DDI Grid Server.
 
 **Parent Topic:**[Orchestration activity packs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchestrationActivityPacks.md)
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[c_InfobloxDHCPActivities|Infoblox DHCP activities]]
-- [[c_InfobloxDNSActivities|Infoblox DNS activities]]
-- [[c_InfobloxIPAMActivities|Infoblox IPAM activities]]
-- [[c_InfobloxNetworkActivities|Infoblox network activities]]

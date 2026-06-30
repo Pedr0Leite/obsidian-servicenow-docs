@@ -24,7 +24,7 @@ The following table lists the fields for the invoice tax line inbound \[sn\_shop
 |-----|---------|-----------|
 |Tax Type|String|Type of the tax applicable on the invoice.|
 |Taxable Amount|FX Currency|The amount of tax applicable on an invoice.|
-|Supplier Tax|String|The amount charged by the [[supplier|supplier]].|
+|Supplier Tax|String|The amount charged by the supplier.|
 |Supplier Tax Rate|Decimal|The tax rate calculated by the third-party tax calculation engine.|
 
 **Parent Topic:**[Inbound staging tables for Accounts Payable Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/inbound-staging-tables-for-apo.md)
@@ -46,6 +46,3 @@ The following table lists the fields for the invoice tax line inbound \[sn\_shop
 
 [Invoice line stage table]()
 
-## Related
-
-- [[supplier|Supplier]]

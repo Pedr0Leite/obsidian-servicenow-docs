@@ -14,11 +14,11 @@ breadcrumb: [Manage and monitor alerts, Configuring Event Management, Event Mana
 
 # Self-health monitors for Event Management
 
-Use the [[c_EM|Event Management]] self-health monitors to track Event Management features and resolve issues.
+Use the Event Management self-health monitors to track Event Management features and resolve issues.
 
 ## Monitor Event Management to detect and resolve issues
 
-Enable the self-health feature to help detect and troubleshoot Event Management health issues. Some configuration is required before the self-health feature can display meaningful data. Once configured and the related scheduled jobs are enabled, the [[workspace-dashboard-use|Service Operations Workspace]] displays data that is automatically collected and calculated on a recurring schedule.
+Enable the self-health feature to help detect and troubleshoot Event Management health issues. Some configuration is required before the self-health feature can display meaningful data. Once configured and the related scheduled jobs are enabled, the Service Operations Workspace displays data that is automatically collected and calculated on a recurring schedule.
 
 **Note:** Event Management Dashboard is not supported for new instances in the Paris release. However, instances upgraded from a release prior to Orlando that use Event Management Dashboard can continue to do so.
 
@@ -62,17 +62,11 @@ Determine what the Event Management - Insert Health Monitor scheduled job is to 
 -   **[Monitor self-health with domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/domain-self-health.md)**  
 Use domain separation to enable self-health to display Event Management health issues that are based on data, rules, and settings from the logged in user domain. The selected domain must not contain any child domains.
 -   **[Configure a self-health monitor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-threshold-monitoring.md)**  
-You can [[configure-threshold-monitoring|configure a self-health monitor]] to track Event Management components and see that they do not exceed the specified threshold.
+You can configure a self-health monitor to track Event Management components and see that they do not exceed the specified threshold.
 -   **[Create a self-health monitor to use custom health monitor script](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/custom-configure-threshold-monitoring.md)**  
-You can [[custom-configure-threshold-monitoring|create a self-health monitor to use custom health monitor script]] to monitor specified Event Management components.
+You can create a self-health monitor to use custom health monitor script to monitor specified Event Management components.
 -   **[View the Event Management self-health application services map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/view-self-health-manual-service.md)**  
 You can view Event Management application services maps to have a visualization of the data on configuration items \(CIs\) that comprise this service, and the relations and connections between these CIs.
 
 **Parent Topic:**[Manage and monitor alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/c_EMAlert.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[configure-threshold-monitoring|Configure a self-health monitor]]
-- [[custom-configure-threshold-monitoring|Create a self-health monitor to use custom health monitor script]]

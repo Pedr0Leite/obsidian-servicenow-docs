@@ -14,7 +14,7 @@ breadcrumb: [CMDB classifications and class dependency, Configuration Management
 
 # Delete CIs
 
-You can use the [[ci-class-manager-landing-page|CI Class Manager]] to delete CIs that are no longer needed.
+You can use the CI Class Manager to delete CIs that are no longer needed.
 
 ## Before you begin
 
@@ -36,7 +36,7 @@ For information about policy-based, large scale automated CI deletions, see [Wor
 
 4.  On the CI List form view, select the CIs that you want to delete.
 
-    Select the [[check-box|check box]] in the header to select all the CIs that are visible.
+    Select the check box in the header to select all the CIs that are visible.
 
 5.  Click **Actions on selected rows** and then click **Delete**.
 
@@ -66,7 +66,3 @@ After deleting CIs that a dependent CI depends on, the dependent relationship is
 
 [Update the list of classes in the Principal Class filter]()
 
-## Related
-
-- [[ci-class-manager-landing-page|CI Class Manager]]
-- [[check-box|Check box]]

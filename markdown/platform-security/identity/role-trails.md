@@ -21,7 +21,7 @@ For a given role, Role Trails show:
 -   Attribute changes
 -   Parent-child relation changes
 
-To access Role Trails, navigate to **All** &gt; **System Security** &gt; **[[identity-audit|Identity and Access Audit]]** &gt; **Role Trails**. The Role Trails page is displayed with the following information.
+To access Role Trails, navigate to **All** &gt; **System Security** &gt; **Identity and Access Audit** &gt; **Role Trails**. The Role Trails page is displayed with the following information.
 
 | | |
 |---|---|
@@ -34,6 +34,3 @@ To access Role Trails, navigate to **All** &gt; **System Security** &gt; **[[ide
 
 \[Omitted image "role-trails.png"\] Alt text: Role Trails
 
-## Related
-
-- [[identity-audit|Identity and Access Audit]]

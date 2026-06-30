@@ -12,7 +12,7 @@ breadcrumb: [Set up CSM Configurable Workspace, CSM Configurable Workspace, Orga
 
 # View unread email counters on interaction tabs
 
-Unread email counters display on [[email-as-an-interaction|email interaction]] tabs in [[csm-workspaces-configure|CSM Configurable Workspace]] to help agents track new email activity across multiple interactions.
+Unread email counters display on email interaction tabs in CSM Configurable Workspace to help agents track new email activity across multiple interactions.
 
 ## Before you begin
 
@@ -80,10 +80,5 @@ When configured agents receive new emails for interactions open in inactive tabs
 **Related topics**  
 
 
-[[csm-email-interaction-record-page|Email Interaction record page]]
+[Email Interaction record page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-email-interaction-record-page.md)
 
-## Related
-
-- [[csm-email-interaction-record-page|Email Interaction record page]]
-- [[email-as-an-interaction|Email Interaction]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

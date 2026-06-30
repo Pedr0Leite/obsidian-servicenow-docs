@@ -14,7 +14,7 @@ breadcrumb: [MCO core, Explore, Manufacturing Commercial Operations]
 
 OEMs create sales promotions and discounts targeted to specific criteria or customers. Channel partners extend these promotions to end customers during sales transactions, and the OEM reimburses dealers for the discounts offered.
 
-This feature enables the seamless collaboration between OEMs and their dealers to manage sales promotions and claims. The [[mco-sales-promotion|sales promotion]] framework enables the OEMs to publish and manage the promotional campaigns efficiently. The [[mco-dealer-portal|dealer portal]] enables the dealers to submit claims for reimbursement post product sales transactions.​ There are three parts to the sales promotion​.
+This feature enables the seamless collaboration between OEMs and their dealers to manage sales promotions and claims. The sales promotion framework enables the OEMs to publish and manage the promotional campaigns efficiently. The dealer portal enables the dealers to submit claims for reimbursement post product sales transactions.​ There are three parts to the sales promotion​.
 
 -   Creation of sales promotion by the OEM.
 -   Creation of claim against the promotion by the dealer.
@@ -49,34 +49,19 @@ This feature enables the seamless collaboration between OEMs and their dealers t
 
 Use the following to configure, use, and manage the sales promotions in MCO.
 
-Review the entities and relationships within the [[sales-promotion-campaign-claims|Sales promotion campaign data model]] application, including tables added or modified by the sales promotion plugin.
+Review the entities and relationships within the [Sales promotion campaign data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/sales-promotion-campaign-claims.md) application, including tables added or modified by the sales promotion plugin.
 
 1.  Configure the sales promotion: Complete the following tasks to set up sales promotion in your environment.
     1.  Install Sales promotion claim management \[sn\_sls\_prm\_clm\_mgt\]: [Installing applications, plugins, and products](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/installing-apps-app-manager.md).
-    2.  Set up product models and parts: [[mco-product-models|Configuring product models]]
-    3.  Set up assets and install base items: [[mco-assets|Configuring assets]] and [[mco-create-install-base-item|Create an install base item]]
-    4.  Set up dealers: [[set-up-dealer|Set up dealer]]
-    5.  Assign recall roles: [[assign-mco-roles|Assign roles]]
-    6.  [[mco-set-up-sls-prom|Set up sales promotion]]
+    2.  Set up product models and parts: [Configuring product models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-product-models.md)
+    3.  Set up assets and install base items: [Configuring assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-assets.md) and [Create an install base item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-create-install-base-item.md)
+    4.  Set up dealers: [Set up dealer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/set-up-dealer.md)
+    5.  Assign recall roles: [Assign roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/assign-mco-roles.md)
+    6.  [Set up sales promotion](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-set-up-sls-prom.md)
 2.  Work with sales promotion \(OEM\): Use the Agents \(CSM/FSM\) workspace to create and manage sales promotion campaigns and review claims.
-    -   [[mco-sls-pro-mgmt|Sales promotion management]]
-    -   [[mco-sls-pro-clm-mgmt|Sales promotion claim management]]
+    -   [Sales promotion management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-sls-pro-mgmt.md)
+    -   [Sales promotion claim management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-sls-pro-clm-mgmt.md)
 3.  Work with sales promotion \(Dealer\): Use the Dealer portal to submit and track sales promotion claims.
-    -   [[mco-sales-promotion-single-claim|Submit a sales promotion claim]]
-    -   [[mco-sales-promotion-bulk-upload|Upload a bulk sales promotion claim]]
+    -   [Submit a sales promotion claim](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-sales-promotion-single-claim.md)
+    -   [Upload a bulk sales promotion claim](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-sales-promotion-bulk-upload.md)
 
-## Related
-
-- [[sales-promotion-campaign-claims|Sales promotion campaign data model]]
-- [[mco-product-models|Configuring product models]]
-- [[mco-assets|Configuring assets]]
-- [[mco-create-install-base-item|Create an install base item]]
-- [[set-up-dealer|Set up dealer]]
-- [[assign-mco-roles|Assign roles]]
-- [[mco-set-up-sls-prom|Set up sales promotion]]
-- [[mco-sls-pro-mgmt|Sales promotion management]]
-- [[mco-sls-pro-clm-mgmt|Sales promotion claim management]]
-- [[mco-sales-promotion-single-claim|Submit a sales promotion claim]]
-- [[mco-sales-promotion-bulk-upload|Upload a bulk sales promotion claim]]
-- [[mco-sales-promotion|Sales promotion]]
-- [[mco-dealer-portal|Dealer portal]]

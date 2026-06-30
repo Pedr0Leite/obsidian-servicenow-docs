@@ -14,11 +14,11 @@ breadcrumb: [Reference, CMDB Identification and Reconciliation \(IRE\), Configur
 
 # IRE error messages
 
-The [[ire|Identification and Reconciliation Engine \(IRE\)]] generates the following errors and messages. Depending on settings, these messages appear in the Identification Logging pane and in the system logs.
+The Identification and Reconciliation Engine \(IRE\) generates the following errors and messages. Depending on settings, these messages appear in the Identification Logging pane and in the system logs.
 
 For information about lookup-based CI identification and qualifier chains, see [Create a CI identification rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/t_CreateCIIdentificationRule.md).
 
-**Note:** IRE performs an initial verification of a payload before processing [[c_IdentificationRules|identification rules]]. If IRE detects any duplicate CIs based on any class identifiers, the payload is rejected and processing stops.
+**Note:** IRE performs an initial verification of a payload before processing identification rules. If IRE detects any duplicate CIs based on any class identifiers, the payload is rejected and processing stops.
 
 For information about CMDB Identification Payload error: "FAILED TRYING TO EXECUTE ON CONNECTION", see [CMDB Identification Payload error - "Insertion failed with error Error during insert of cmdb\_ci...", where node logs show "FAILED TRYING TO EXECUTE ON CONNECTION" "Duplicate entry 'XXX' for key 'XXX'"](https://support.servicenow.com/kb_view.do?sysparm_article=KB0812609) knowledge base article.
 
@@ -198,7 +198,7 @@ Found invalid sys\_id in payload. No record with sys\_id \[xyz\] exist in table 
 
 -   **Description:**
 
-The payload has a [[reference|reference]] to an invalid sys\_id.
+The payload has a reference to an invalid sys\_id.
 
 -   **Resolution:**
 
@@ -258,7 +258,7 @@ Payload relations 'xyz' has invalid parent record index: \[0\]
 
 -   **Description:**
 
-Payload [[reference-document-management|references]] invalid parent indexes.
+Payload references invalid parent indexes.
 
 -   **Resolution:**
 
@@ -820,10 +820,3 @@ Or, wait for another permitted data source to create the same CI.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]
-- [[c_IdentificationRules|Identification rules]]
-- [[reference|Reference]]
-- [[reference-document-management|References]]

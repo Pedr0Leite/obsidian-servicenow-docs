@@ -15,7 +15,7 @@ breadcrumb: [Automation opportunities, Exploring LEAP, Learning Enhanced Automat
 
 # Automation opportunity sub-groups
 
-Large [[automation-opportunities|automation opportunities]] in LEAP can be broken into smaller, more manageable sub-groups to achieve more granular and accurate incident resolution.
+Large automation opportunities in LEAP can be broken into smaller, more manageable sub-groups to achieve more granular and accurate incident resolution.
 
 Large automation opportunities with over 150 records tend to generate overly lengthy resolution steps that lack precision and focus. These opportunities often represent a collection of related problems and issues that should be subdivided to produce more targeted and relevant solutions.
 
@@ -52,6 +52,3 @@ For example: An automation opportunity for "email delivery failures" has resolut
 
 For detailed steps, see [Create sub-groups for automation opportunities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/aiops-leap-learning-enhanced-automation-playbooks/creating-subgroups-for-automation-opportunities.md).
 
-## Related
-
-- [[automation-opportunities|Automation opportunities]]

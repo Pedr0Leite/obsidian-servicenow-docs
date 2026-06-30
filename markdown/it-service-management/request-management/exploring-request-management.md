@@ -15,13 +15,10 @@ breadcrumb: [Request Management, IT Service Management]
 
 # Exploring Request Management
 
-[[c_RequestManagement|Request Management]] allows catalog items to be requested and fulfilled based on defined flows.
+Request Management allows catalog items to be requested and fulfilled based on defined flows.
 
 -   **[Request Management architecture](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/request-management/request-management-architecture.md)**  
 Request Management allows catalog items to be requested and fulfilled based on defined flows.
 
 **Parent Topic:**[Request Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/request-management/c_RequestManagement.md)
 
-## Related
-
-- [[c_RequestManagement|Request Management]]

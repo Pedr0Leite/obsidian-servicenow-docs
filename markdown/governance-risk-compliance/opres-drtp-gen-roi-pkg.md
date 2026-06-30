@@ -24,7 +24,7 @@ Register of Information \(RoI\) reports can be generated for both individual and
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[grc-opres-landing-page|Operational Resilience]] Workspace** &gt; **Digital resilience third-party registers** &gt; **Excel download/upload requests**.
+1.  Navigate to **Workspaces** &gt; **Operational Resilience Workspace** &gt; **Digital resilience third-party registers** &gt; **Excel download/upload requests**.
 
 2.  Create an Excel download request by selecting **New**.
 
@@ -42,13 +42,8 @@ Register of Information \(RoI\) reports can be generated for both individual and
 
     \[Omitted image "roi-package-generation-result-panel.png"\] Alt text: Result panel after generating a Plain-CSV reporting package. Validation messages and attached consolidated reports appear at the bottom of the request record.
 
-    For more information on validation, see [[opres-drtp-validate-roi|Validate the Register of Information packages]].
+    For more information on validation, see [Validate the Register of Information packages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/opres-drtp-validate-roi.md).
 
 
-**Parent Topic:**[[using-dg-registers|Using Digital resilience third-party registers]]
+**Parent Topic:**[Using Digital resilience third-party registers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/using-dg-registers.md)
 
-## Related
-
-- [[opres-drtp-validate-roi|Validate the Register of Information packages]]
-- [[using-dg-registers|Using Digital resilience third-party registers]]
-- [[grc-opres-landing-page|Operational Resilience]]

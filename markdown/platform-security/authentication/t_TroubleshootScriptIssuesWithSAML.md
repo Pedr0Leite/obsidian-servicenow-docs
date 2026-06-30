@@ -14,7 +14,7 @@ breadcrumb: [Test IdP connections, Multi-Provider SSO configurations, Multi-Prov
 
 # Troubleshoot script issues with SAML
 
-Troubleshoot script issues with SAML. You might encounter script issues if [[c_SAML2.0WebBrowserSSOProfile|SAML]] is already active at the time that you activate Multiple Single Sign-On and if you already customized the [[r_InstallationExits|installation exits]].
+Troubleshoot script issues with SAML. You might encounter script issues if SAML is already active at the time that you activate Multiple Single Sign-On and if you already customized the installation exits.
 
 ## Before you begin
 
@@ -34,7 +34,4 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
 5.  Put the SAML2SingleSignon\_update1 installation exit changes into the baseline script include **MultiSSO\_SAML2\_Update1 and the SAML2\_update1** script include changes into the baseline SAML2\_update1 script include.
 
-## Related
 
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[r_InstallationExits|Installation exits]]

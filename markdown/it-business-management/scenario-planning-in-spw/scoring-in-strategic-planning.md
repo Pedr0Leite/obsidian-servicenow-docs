@@ -16,7 +16,7 @@ breadcrumb: [Explore, Portfolio Planning in Strategic Planning Workspace, Strate
 
 Scoring enables you to prioritize items, such as epics, projects, demands, initiatives, strategic programs, and other planning items, based on a defined quantitative metric.
 
-Before selecting a scoring framework for your portfolio plan, it's helpful to first learn about the pre-defined frameworks available for you to use. Later you can choose if you want to use one of the pre-defined scoring frameworks, or [[create-a-custom-scoring-framework|create a custom scoring framework]], based on your preferred scoring parameters.
+Before selecting a scoring framework for your portfolio plan, it's helpful to first learn about the pre-defined frameworks available for you to use. Later you can choose if you want to use one of the pre-defined scoring frameworks, or create a custom scoring framework, based on your preferred scoring parameters.
 
 The following are the three pre-defined scoring frameworks available to use for your portfolio plan:
 
@@ -103,7 +103,7 @@ The WSJF score is calculated with this formula:
 WSJF Score = (User Business value + Time criticality + Risk reduction)/Job Size
 ```
 
-To get started with Scoring your planning items in [[alignment-planner-workspace-landing-page|Strategic Planning]], see [Scoring planning items in Strategic Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/using-scoring-frameworks-in-startegic-planning-workspace.md).
+To get started with Scoring your planning items in Strategic Planning, see [Scoring planning items in Strategic Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/using-scoring-frameworks-in-startegic-planning-workspace.md).
 
 **Parent Topic:**[Exploring Portfolio Planning in Strategic Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/alignment-planner-workspace.md)
 
@@ -112,7 +112,3 @@ To get started with Scoring your planning items in [[alignment-planner-workspace
 
 [Custom scoring frameworks in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/custom-scoring-frameworks-in-strategic-planning.md)
 
-## Related
-
-- [[create-a-custom-scoring-framework|Create a custom scoring framework]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

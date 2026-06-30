@@ -14,7 +14,7 @@ breadcrumb: [Configuring Problem Management, Problem Management, IT Service Mana
 
 # Configure the problem form
 
-[[configure-problem-form-layout|Configure the problem form layout]] to conform to the workflow and the process of your organization. Add, remove, and customize fields and related lists, create problem categories, and modify links as needed.
+Configure the problem form layout to conform to the workflow and the process of your organization. Add, remove, and customize fields and related lists, create problem categories, and modify links as needed.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-The [[problem-form|Problem form]] in the base system is configured to follow recommended ITIL practices. Evaluate the form layout and design with your existing business processes, and plan the changes to make.
+The Problem form in the base system is configured to follow recommended ITIL practices. Evaluate the form layout and design with your existing business processes, and plan the changes to make.
 
 For additional form customization not described in this page, such as adding company-specific annotations or configuring related lists, see [Form administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/form-administration.md) and [Configuring the form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md).
 
@@ -42,7 +42,7 @@ Add the mandatory fields necessary to move a problem or a problem task record fr
 -   **[Redesign the problem form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/design-problem-form.md)**  
 The form designer allows you to customize elements in the problem form to create different form views, display a field navigator, or provide field properties.
 -   **[Configure problem categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/configure-problem-categories.md)**  
-[[configure-problem-categories|Configure problem categories]] to provide a refined way of monitoring and reporting problems. Add to or remove category and subcategory choices from the list of problem categories or subcategories.
+Configure problem categories to provide a refined way of monitoring and reporting problems. Add to or remove category and subcategory choices from the list of problem categories or subcategories.
 
 **Parent Topic:**[Configuring Problem Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/configuring-problem-mgmt.md)
 
@@ -50,8 +50,3 @@ The form designer allows you to customize elements in the problem form to create
 
 **Next topic:**[Configure the problem form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/configure-problem-form-layout.md)
 
-## Related
-
-- [[configure-problem-form-layout|Configure the problem form layout]]
-- [[problem-form|Problem form]]
-- [[configure-problem-categories|Configure problem categories]]

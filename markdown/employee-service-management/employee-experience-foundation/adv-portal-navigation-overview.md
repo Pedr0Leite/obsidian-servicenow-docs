@@ -35,14 +35,14 @@ Use the guided tour that provides a feature explainer to help understand what AP
 
 Create an APN record and select one of the following navigation options.
 
--   Top navigation: Supports up to four levels of hierarchy and surfaces a broad set of topics and [[emp-center-quick-link-config|quick links]] directly at the top of the portal, helping employees to navigate to deeper levels. This navigation is the existing mega‑menu in the header that supports deeper and more complex hierarchies. For more information, see [Configure advanced portal navigation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-adv-portal-nav-as-menu.md).
--   Simplified or side navigation: Use the new layout for simple visual access, iconography, and quick access to key destinations, helping employees browse topics with less effort and reduced visual complexity. Side navigation in [[employee-center-landing-page|Employee Center]] is a new left‑hand, icon‑driven, two‑level menu meant to simplify browsing. For more information, see [Configure simplified left navigation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-simplified-nav-as-menu.md).
+-   Top navigation: Supports up to four levels of hierarchy and surfaces a broad set of topics and quick links directly at the top of the portal, helping employees to navigate to deeper levels. This navigation is the existing mega‑menu in the header that supports deeper and more complex hierarchies. For more information, see [Configure advanced portal navigation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-adv-portal-nav-as-menu.md).
+-   Simplified or side navigation: Use the new layout for simple visual access, iconography, and quick access to key destinations, helping employees browse topics with less effort and reduced visual complexity. Side navigation in Employee Center is a new left‑hand, icon‑driven, two‑level menu meant to simplify browsing. For more information, see [Configure simplified left navigation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-simplified-nav-as-menu.md).
 
 Both options help define and navigate to root and subtopics, assign icons, and enable faster access.
 
 ## Advanced portal navigation benefits
 
-You can offer a [[simple-portal-navigation-ec|simplified navigation]] to the content.
+You can offer a simplified navigation to the content.
 
 -   Use the base system structure for better discovery and consumption.
 -   Customize the design and structure based on your preferences using the taxonomy or SP portal menu.
@@ -63,8 +63,3 @@ Admins can manage the information architecture and navigation. You can configure
 
 **Note:** By default, the APN record for EC and EC Pro is inactive for existing customers. When you upgrade to the latest release, ensure you activate the APN record.
 
-## Related
-
-- [[emp-center-quick-link-config|Quick links]]
-- [[employee-center-landing-page|Employee Center]]
-- [[simple-portal-navigation-ec|Simplified Navigation]]

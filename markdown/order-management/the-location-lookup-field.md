@@ -14,7 +14,7 @@ breadcrumb: [CPQ app, Configure, price, quote apps, Configure, Sales Customer Re
 
 Any text type can be defined as a LocationLookup component display type, which lets you use Google's API to pull address data.
 
-The LocationLookup field component display type leverages Googleʼs Places API to pull address data that can be used for unique location configuration and pricing. Any text field type can be defined as a LocationLookup component display type by using the [[layout_editor|layout editor]] or by directly editing a layout CSV file.
+The LocationLookup field component display type leverages Googleʼs Places API to pull address data that can be used for unique location configuration and pricing. Any text field type can be defined as a LocationLookup component display type by using the layout editor or by directly editing a layout CSV file.
 
 \[Omitted image "cpq-location-lookup-csv.png"\] Alt text: CSV file
 
@@ -35,7 +35,7 @@ The value of the field requires two properties: **key** and **fieldMapping**.
 
 The key property refers to the API key.
 
-Use the fieldMapping property to instruct the UI to map the returned place data to different [[fields|fields]] in the configuration. This property can take either a string or an object of key:value pairs \(both strings\).
+Use the fieldMapping property to instruct the UI to map the returned place data to different fields in the configuration. This property can take either a string or an object of key:value pairs \(both strings\).
 
 If a string is provided:
 
@@ -74,7 +74,7 @@ Example field value:
 }
 ```
 
-This mapping also works in [[cpq-sets|sets]]. Note that the location field, and all of the fields listed in the mapping, must also be part of the set. Cross-index or global fields are not supported in a set.
+This mapping also works in sets. Note that the location field, and all of the fields listed in the mapping, must also be part of the set. Cross-index or global fields are not supported in a set.
 
 Some common mappings from the Google Places API include:
 
@@ -86,8 +86,3 @@ Some common mappings from the Google Places API include:
 -   **address\_components.street\_number**
 -   **address\_components.route** \(returns only the street name\)
 
-## Related
-
-- [[layout_editor|Layout editor]]
-- [[fields|Fields]]
-- [[cpq-sets|Sets]]

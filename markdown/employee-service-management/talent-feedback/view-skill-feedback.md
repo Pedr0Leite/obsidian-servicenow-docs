@@ -22,7 +22,7 @@ Role required: manager
 
 ## Procedure
 
-1.  In [[employee-center-landing-page|Employee Center]] navigate to **Your team** &gt; **Skills**.
+1.  In Employee Center navigate to **Your team** &gt; **Skills**.
 
 2.  On the skill feedback requests sent widget, select **View details** on any of the feedback listed.
 
@@ -87,6 +87,4 @@ Contents of the feedback and the rating for selected skill. **Note:** If there a
 </td></tr></tbody>
 </table>4.  Select **Close** to close the feedback request form.
 
-## Related
 
-- [[employee-center-landing-page|Employee Center]]

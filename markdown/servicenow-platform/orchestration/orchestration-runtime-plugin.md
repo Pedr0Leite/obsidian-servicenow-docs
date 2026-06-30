@@ -16,7 +16,7 @@ breadcrumb: [Activate Orchestration, Classic Orchestration, ServiceNow AI Platfo
 
 The Orchestration – Runtime plugin enables other applications on the ServiceNow® platform to automate tasks, without requiring an Orchestration subscription.
 
-The Orchestration – Runtime plugin can be activated as part of another plugin or application. It is used by strategic technology partners and ServiceNow applications to distribute activity packs to customers who may not own Orchestration. For example, the Security Incident Response Management \(SIRM\) application provides orchestration content, which includes activities that are available from the **Packs** tab in the [[workflow-editor|Workflow Editor]]. Customers who purchase SIRM can consume and modify the activities that SIRM ships without having to purchase an Orchestration license.
+The Orchestration – Runtime plugin can be activated as part of another plugin or application. It is used by strategic technology partners and ServiceNow applications to distribute activity packs to customers who may not own Orchestration. For example, the Security Incident Response Management \(SIRM\) application provides orchestration content, which includes activities that are available from the **Packs** tab in the Workflow Editor. Customers who purchase SIRM can consume and modify the activities that SIRM ships without having to purchase an Orchestration license.
 
 ## Included with the plugin
 
@@ -39,6 +39,3 @@ Custom activities shipped with ServiceNow® applications are available in the **
 
 **Parent Topic:**[Activate Orchestration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_ActivateOrchestration.md)
 
-## Related
-
-- [[workflow-editor|Workflow editor]]

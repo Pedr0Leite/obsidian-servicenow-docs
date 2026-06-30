@@ -15,7 +15,7 @@ breadcrumb: [Configure, Virtual Agent, Conversational Interfaces]
 
 # Customizing a Virtual Agent chat experience
 
-Create different chat experiences for your end users based on the context in which they initiate a conversation with [[virtual-agent-landing-page|Virtual Agent]].
+Create different chat experiences for your end users based on the context in which they initiate a conversation with Virtual Agent.
 
 ## How chat experiences work
 
@@ -23,13 +23,13 @@ A chat experience defines the structure of a bot conversation \(setup topics\), 
 
 You can configure the default chat experience and also create custom chat experiences, tailored to the context in which different users run Virtual Agent, such as the service portal or channel that they're using. Custom chat experiences inherit the default chat experience settings, but you can override the defaults as needed for a given context.
 
-**Note:** If you're using [[va-lite|Virtual Agent Lite]], you can configure certain setup topics in the default chat experience but you can't create custom chat experiences.
+**Note:** If you're using Virtual Agent Lite, you can configure certain setup topics in the default chat experience but you can't create custom chat experiences.
 
 A chat experience consists of setup topics, promoted assets, and a search profile:
 
 -   **Setup topics**
 
-    Virtual Agent provides common conversational elements, such as a welcome greeting to begin a conversation and a conversation closing, and automatically includes them in virtual agent conversations. These pre-built elements, called setup topics, are part of a basic conversation structure that is applied to all your conversations. They are [[installed-wth-virtual-agent|installed with Virtual Agent]] and Virtual Agent Lite.
+    Virtual Agent provides common conversational elements, such as a welcome greeting to begin a conversation and a conversation closing, and automatically includes them in virtual agent conversations. These pre-built elements, called setup topics, are part of a basic conversation structure that is applied to all your conversations. They are installed with Virtual Agent and Virtual Agent Lite.
 
     These setup topics run automatically at appropriate points in a conversation, based on the context, utterances \(if NLU is enabled\), topic description \(if LLM is enabled\) or keywords that users enter during the conversation.
 
@@ -71,7 +71,7 @@ A chat experience consists of setup topics, promoted assets, and a search profil
 
 ## Get started with chat experiences
 
-Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings**, and then select **Virtual Agent**. Use the **Custom Greetings and Setup** tile to manage the default and custom chat experiences. You can do the following:
+Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings**, and then select **Virtual Agent**. Use the **Custom Greetings and Setup** tile to manage the default and custom chat experiences. You can do the following:
 
 -   Configure the default chat experience, including the setup topics, promoted assets, and search criteria used. For example, you can activate the Virtual Agent Feedback setup topic so that it is applied to all your bot conversations.
 -   Create different custom chat experiences based on the context in which your end users run Virtual Agent. The settings that you define in a custom chat experience override the default chat experience.
@@ -85,9 +85,3 @@ After you create or modify a Virtual Agent chat experience, you can test \(simul
 
 **Parent Topic:**[Configuring Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-virtual-agent.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[va-lite|Virtual Agent Lite]]
-- [[installed-wth-virtual-agent|Installed with Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]

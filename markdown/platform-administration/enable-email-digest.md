@@ -12,7 +12,7 @@ breadcrumb: [Email digests, Email and SMS notifications, System notifications, N
 
 # Enable an email digest in Core UI
 
-Reduce the number of [[notifications|notifications]] you receive for a selected target record during a specified time interval by enabling an email digest. The digest is a single email that collects individual notifications for a targeted record generated during the specified interval. The email digest of two different target records will not be clubbed in a single email.
+Reduce the number of notifications you receive for a selected target record during a specified time interval by enabling an email digest. The digest is a single email that collects individual notifications for a targeted record generated during the specified interval. The email digest of two different target records will not be clubbed in a single email.
 
 ## Before you begin
 
@@ -45,20 +45,14 @@ The email digest option is available only if your admin configured email digest 
     Soon after the interval ends, the system sends the email digest to you instead of sending the individual notifications generated during the digest interval. If you disabled the digest, the system immediately stops accumulating the notifications for the digest and does not send the email digest. The system resumes sending the notifications as they are generated.
 
 
-**Parent Topic:**[[email-digests|Email digests]]
+**Parent Topic:**[Email digests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/email-digests.md)
 
 **Related topics**  
 
 
-[[apply-notification-conditions|Apply notification conditions]]
+[Apply notification conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/apply-notification-conditions.md)
 
 [Email digests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/email-digests.md)
 
-[[configure-email-digest|Configure email digests]]
+[Configure email digests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-email-digest.md)
 
-## Related
-
-- [[email-digests|Email digests]]
-- [[apply-notification-conditions|Apply notification conditions]]
-- [[configure-email-digest|Configure email digests]]
-- [[notifications|Notifications]]

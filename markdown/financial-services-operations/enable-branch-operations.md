@@ -28,17 +28,17 @@ Branch operations for FSO includes these components:
 
 These FSO applications support branch operations by installing the branch location field and demo data components.
 
--   [[card-ops-landing-page|Financial Services Card Operations]]
--   [[fso-complaint-mgmt-landing-page|Financial Services Complaint Management]]
--   [[fso-credit-operations-landing-page|Financial Services Credit Operations]]
--   [[fso-overview|Financial Services]] Business Lifecycle
+-   Financial Services Card Operations
+-   Financial Services Complaint Management
+-   Financial Services Credit Operations
+-   Financial Services Business Lifecycle
 -   Financial Services Client Lifecycle
 -   Financial Services Business Deposit Operations
 -   Financial Services Personal Deposit Operations
 -   Financial Services Business Loan Operations
 -   Financial Services Personal Loan Operations
--   [[payment-ops-landing-page|Financial Services Payment Operations]]
--   [[fso-treasury-ops-landing-page|Financial Services Treasury Operations]]
+-   Financial Services Payment Operations
+-   Financial Services Treasury Operations
 
 The following additional plugins must be installed to fully enable branch operations.
 
@@ -47,7 +47,7 @@ The following additional plugins must be installed to fully enable branch operat
 The following plugins install the Location manager contributor role and workspace, location table field, branch location support, and demo data components that comprise branch operations.
 
 -   Financial Services Operations \(FSO\) application plugin - Applicable FSO application plugins install branch operations demo data and add the branch location field on case tables and records.
--   [[financial-services-operations-core-data-model|Financial Services Operations Core]] application plugin - The Financial Services Operations Core application plugin \(sn\_bom\) is automatically installed when you install an applicable FSO application. The sn\_bom plugin installs the Location manager contributor role \(sn\_bom.location\_manager\_contributor\). The Location manager contributor role enables a personalized Workspace with dashboard for viewing metrics and managing cases. The role can collect and submit case documents, and add staff members to a branch location.
+-   Financial Services Operations Core application plugin - The Financial Services Operations Core application plugin \(sn\_bom\) is automatically installed when you install an applicable FSO application. The sn\_bom plugin installs the Location manager contributor role \(sn\_bom.location\_manager\_contributor\). The Location manager contributor role enables a personalized Workspace with dashboard for viewing metrics and managing cases. The role can collect and submit case documents, and add staff members to a branch location.
 
     **Note:** The Business Location plugin must be activated for the sn\_bom.location\_manager\_contributor role to be enabled. For more information, see [Activate business locations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/activate-business-location.md)
 
@@ -63,9 +63,9 @@ The Location manager contributor workspace contains these pages.
 
 The Location manager contributor role can select metric numbers from the landing or Branch Performance Metrics dashboard pages to drill down to a breakdown list or KPI Details performance analytics view.
 
-For more information about analytics and reporting for Financial Services Operations, see [[fso-content-pack|Implementing Platform Analytics solutions]] and [KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/kpi-details.md).
+For more information about analytics and reporting for Financial Services Operations, see [Implementing Platform Analytics solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-content-pack.md) and [KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/kpi-details.md).
 
-For more information on workspaces in Financial Services Operations, see [[fso-workspace|Workspaces]].
+For more information on workspaces in Financial Services Operations, see [Workspaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-workspace.md).
 
 ## Branch Performance Metrics dashboard
 
@@ -91,14 +91,3 @@ The Branch Performance Metrics dashboard enables Location managers to get a oper
 |Initial deposit received|Initial deposit amount received from checking and savings deposit accounts opened in the last 30 days for the branch location.|
 |Write offs|Number of write-offs from cases closed in the last 30 days for the branch location.|
 
-## Related
-
-- [[fso-content-pack|Implementing Platform Analytics solutions]]
-- [[fso-workspace|Workspaces in Financial Services Operations]]
-- [[card-ops-landing-page|Financial Services Card Operations]]
-- [[fso-complaint-mgmt-landing-page|Financial Services Complaint Management]]
-- [[fso-credit-operations-landing-page|Financial Services Credit Operations]]
-- [[fso-overview|Financial Services]]
-- [[payment-ops-landing-page|Financial Services Payment Operations]]
-- [[fso-treasury-ops-landing-page|Financial Services Treasury Operations]]
-- [[financial-services-operations-core-data-model|Financial Services Operations Core]]

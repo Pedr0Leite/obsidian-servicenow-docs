@@ -16,7 +16,7 @@ Submit a request for an item or service from the Consumer Portal service catalog
 
 ## Before you begin
 
-**Note:** Creating a request from the Consumer Portal requires activation of the Customer Service with Request Management plugin \(com.sn\_cs\_sm\_request\). It also requires that the administrator to [[csm-itsm-integration-view-request|provide external customers with access to request records]].
+**Note:** Creating a request from the Consumer Portal requires activation of the Customer Service with Request Management plugin \(com.sn\_cs\_sm\_request\). It also requires that the administrator to [provide external customers with access to request records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-itsm-integration-view-request.md).
 
 Role required: sn\_customerservice.case\_authorized\_consumer or sn\_customerservice.consumer
 
@@ -94,6 +94,3 @@ Detailed description of the issue.**Note:** When you start entering the subject,
 
 The system processes the request, creates it along with related records, and shows the details on the record view page.
 
-## Related
-
-- [[csm-itsm-integration-view-request|Enable external customers to access problem, change, and request records]]

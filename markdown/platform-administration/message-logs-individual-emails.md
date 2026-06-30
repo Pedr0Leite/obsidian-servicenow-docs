@@ -28,17 +28,11 @@ Check these logs as the first step to diagnose issues with inbound actions. The 
 
 ## Reasons for including or excluding recipients
 
-For outbound [[notifications|notifications]], the email system log provides reasons that recipients were included or excluded.
+For outbound notifications, the email system log provides reasons that recipients were included or excluded.
 
 Each log entry corresponds to a reason for inclusion or exclusion. For example, all users who were excluded because they are inactive appear in a single log entry.
 
-A series of [[r_SetArchiveRuleProcessingBehavior|system properties]] can be used to fine-tune the information to be logged. Two properties, glide.notification.recipient.include\_logging and glide.notification.recipient.exclude\_logging, control all recipient inclusion and exclusion logging. Several other [[r_AdditionalProperties|properties]] allow you to tailor the information reported in the logs to meet your needs. All of the properties are enabled by default.
+A series of system properties can be used to fine-tune the information to be logged. Two properties, glide.notification.recipient.include\_logging and glide.notification.recipient.exclude\_logging, control all recipient inclusion and exclusion logging. Several other [properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AdditionalProperties.md) allow you to tailor the information reported in the logs to meet your needs. All of the properties are enabled by default.
 
-**Parent Topic:**[[troubleshooting-notification-emails|Email FAQs and troubleshooting notification emails]]
+**Parent Topic:**[Email FAQs and troubleshooting notification emails](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/troubleshooting-notification-emails.md)
 
-## Related
-
-- [[r_AdditionalProperties|Advanced email properties]]
-- [[troubleshooting-notification-emails|Email FAQs and troubleshooting notification emails]]
-- [[notifications|Notifications]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

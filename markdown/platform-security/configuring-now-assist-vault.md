@@ -12,7 +12,7 @@ breadcrumb: [Configuring ServiceNow Vault, ServiceNow Vault]
 
 # Install Now Assist for Vault
 
-Install the ServiceNow® [[now-assist-vault-landing|Now Assist for Vault]] application from the ServiceNow® Store to get Now Assist for Vault.
+Install the ServiceNow® Now Assist for Vault application from the ServiceNow® Store to get Now Assist for Vault.
 
 ## Before you begin
 
@@ -44,6 +44,4 @@ Role required: admin
 
     By default, the workflows are active when you install Now Assist for Vault. This step is in case a user deactivated them after installation.
 
-## Related
 
-- [[now-assist-vault-landing|Now Assist for Vault]]

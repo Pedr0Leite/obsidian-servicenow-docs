@@ -14,7 +14,7 @@ breadcrumb: [Risk assessment, Analyze change request risk and impact, Reference,
 
 # Define risk assessments
 
-[[c_ITILChangeManagement|Change Management]] - [[c_RskAsmtCalc|Risk Assessment]] provides a flexible way to capture information from the end user to calculate the risk of the associated change request. You can define the risk assessment questions, thresholds, and conditions that calculate risk for any change request.
+Change Management - Risk Assessment provides a flexible way to capture information from the end user to calculate the risk of the associated change request. You can define the risk assessment questions, thresholds, and conditions that calculate risk for any change request.
 
 ## Before you begin
 
@@ -282,7 +282,3 @@ The threshold against which the composite score is compared and evaluated.
 
 [Perform risk assessment]()
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]
-- [[c_RskAsmtCalc|Risk assessment]]

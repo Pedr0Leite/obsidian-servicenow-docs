@@ -14,7 +14,7 @@ breadcrumb: [Monitor, Digital End-User Experience, IT Service Management]
 
 # Create an insights report
 
-Build and run custom reports to uncover insights across your digital workspace. Use the capability to generate reports on any of the [[perf-metrics-mob|performance metrics]] on a device or application.
+Build and run custom reports to uncover insights across your digital workspace. Use the capability to generate reports on any of the performance metrics on a device or application.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_dex.admin, sn\_dex.engineer
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  In the primary navigation pane, select the [[dex-workspace-insights-tab|DEX Insights]] icon \(\[Omitted image "icon-insights.png"\] Alt text:\).
+2.  In the primary navigation pane, select the DEX Insights icon \(\[Omitted image "icon-insights.png"\] Alt text:\).
 
 3.  Select the metrics you want to include in your query.
 
@@ -38,7 +38,4 @@ Role required: sn\_dex.admin, sn\_dex.engineer
 
     For more details on the report fields, see [Custom insights report form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/custom-report-form.md).
 
-## Related
 
-- [[perf-metrics-mob|Performance metrics]]
-- [[dex-workspace-insights-tab|DEX Insights]]

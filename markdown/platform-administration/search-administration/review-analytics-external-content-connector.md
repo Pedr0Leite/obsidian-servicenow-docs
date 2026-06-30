@@ -23,18 +23,14 @@ Role required: sn\_ext\_conn.xcc\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ext-cont-connectors-landing-page|External Content Connectors]]** &gt; **External Content Admin Home**.
+1.  Navigate to **All** &gt; **External Content Connectors** &gt; **External Content Admin Home**.
 
 2.  In the Connectors list, select the record for the external content connector that you want to review analytics for.
 
 3.  In the connector editor, select the Analytics tab.
 
-    For details on the available analytics [[c_MetricDefinitionSupport|metrics]], see [Analytics for external content connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/analytics-external-content-connectors.md).
+    For details on the available analytics metrics, see [Analytics for external content connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/analytics-external-content-connectors.md).
 
 
 **Parent Topic:**[Reviewing external content connector crawl results and analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/reviewing-external-content-connector-results-and-analytics.md)
 
-## Related
-
-- [[ext-cont-connectors-landing-page|External Content Connectors]]
-- [[c_MetricDefinitionSupport|Metrics]]

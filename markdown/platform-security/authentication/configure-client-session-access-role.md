@@ -14,7 +14,7 @@ breadcrumb: [Web Embeddables, Authentication, Access Management]
 
 # Configure client session access role
 
-The **Embedded Session Role [[sc-configuration|Configuration]]** \(Client Access Role configuration\) record is created by default, which included removal of admin and security admin roles \(high privilege roles\) for the [[users|users]] using the UI components on the third-party portals.
+The **Embedded Session Role Configuration** \(Client Access Role configuration\) record is created by default, which included removal of admin and security admin roles \(high privilege roles\) for the users using the UI components on the third-party portals.
 
 ## Before you begin
 
@@ -40,14 +40,10 @@ Role required: admin
 
     The policy \(Remove high privilege roles Policy\) has the following details:
 
-    -   **Policy Inputs**: Embedded Session- the user-specific [[adaptive-auth-filter-criteria|filter criteria]] that is used to remove the configured roles.\[Omitted image "embedded-session-role-record-input.png"\] Alt text: Policy input record
+    -   **Policy Inputs**: Embedded Session- the user-specific filter criteria that is used to remove the configured roles.\[Omitted image "embedded-session-role-record-input.png"\] Alt text: Policy input record
     -   **Policy Conditions**: Remove high privilege roles in Embedded Session- the condition validates to true to remove the high privilege roles that are added for the configuration.\[Omitted image "embedded-session-role-record-role-true.png"\] Alt text: Condition set to true
     When the user is accessing the ServiceNow components in the third-party portal, based the above configurations, high- privilege roles are removed for that embedded session.
 
     You can also add more roles that needs to be removed to this **Embedded Session Role Configuration** record.
 
-## Related
 
-- [[sc-configuration|Configuration]]
-- [[users|Users]]
-- [[adaptive-auth-filter-criteria|Filter criteria]]

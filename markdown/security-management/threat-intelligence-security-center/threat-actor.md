@@ -14,22 +14,16 @@ breadcrumb: [Threat Entities, TISC Library Repository, Threat Intelligence Secur
 
 # Threat Actor
 
-[[threat-actors|Threat Actors]] are individuals, groups, or organizations who act with malicious intent. Threat actors applies for STIX 2.x.
+Threat Actors are individuals, groups, or organizations who act with malicious intent. Threat actors applies for STIX 2.x.
 
-A Threat Actor is not an [[threat-intelligence-intrusion-sets|Intrusion Set]] but may support or be affiliated with various Intrusion Sets, groups, or organizations over time.
+A Threat Actor is not an Intrusion Set but may support or be affiliated with various Intrusion Sets, groups, or organizations over time.
 
-Threat Actors use their resources, and the resources of an Intrusion Set, to conduct attacks, and run [[threat-intelligence-campaigns|Campaigns]] against targets.
+Threat Actors use their resources, and the resources of an Intrusion Set, to conduct attacks, and run Campaigns against targets.
 
 You can identify Threat Actors by their motives, capabilities, goals, sophistication level, past activities, resources they have access to, and their role in the organization.
 
 -   **[Define Threat Actor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/define-threat-actor.md)**  
-[[define-threat-actors|Define threat actors]] who are individuals, groups, or organizations who act with malicious intent.
+Define threat actors who are individuals, groups, or organizations who act with malicious intent.
 
 **Parent Topic:**[Threat Entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-threat-entities.md)
 
-## Related
-
-- [[threat-actors|Threat actors]]
-- [[threat-intelligence-intrusion-sets|Intrusion set]]
-- [[threat-intelligence-campaigns|Campaigns]]
-- [[define-threat-actors|Define threat actors]]

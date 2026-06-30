@@ -14,7 +14,7 @@ breadcrumb: [Security Incident Response Platform Analytics Solutions, Security I
 
 # Security Operations Efficiency dashboard
 
-[[security-operations-landing-page|Security operations]] center \(SOC\) managers can view overall efficiency metrics and measure the individual performance of the SOC team members in the organization.
+Security operations center \(SOC\) managers can view overall efficiency metrics and measure the individual performance of the SOC team members in the organization.
 
 The SOC manager can use the Performance Analytics dashboard to improve efficiency and develop a picture of how SOC is performing in both general and specific areas over time.
 
@@ -22,13 +22,13 @@ The SOC manager can use the Performance Analytics dashboard to improve efficienc
 
 \[Omitted image "cj-sir-soc-analyst.png"\] Alt text: Performance Analytics SOC Efficiency dashboard: Analyst Efficiency tab
 
-Select any of the [[indicator|indicators]] to drill down for further details. For example, select the indicator in the Average security incidents worked per analyst section.
+Select any of the indicators to drill down for further details. For example, select the indicator in the Average security incidents worked per analyst section.
 
 |Indicator|Description|
 |---------|-----------|
 |Average security incidents worked per analyst|Average number of open security incidents per analyst for the specified period. The formula used is `[[Number of open security incidents / By month AVG +]]/[[Number of Security Agents]]`|
 |Closed security incidents per analyst|The total number of incidents closed by each analyst in the selected category in the specified period. The formula used is `[Number of closed security incidents > Security Incident Category = <category_name> / By month SUM +]]/[[Number of Security Agents / By month AVG +]]`|
-|Average security incident resolution|The average time taken by each analyst to [[t_ClosingSecIncidents|close security incidents]] in the specified period. The formula used to show the result in days is `([[Summed duration of closed security incidents > Security Incident Category = <category_name> / By month AVG +]] / [[Number of closed security incidents > Security Incident Category = <category_name> / By month AVG +]]) / 24`|
+|Average security incident resolution|The average time taken by each analyst to close security incidents in the specified period. The formula used to show the result in days is `([[Summed duration of closed security incidents > Security Incident Category = <category_name> / By month AVG +]] / [[Number of closed security incidents > Security Incident Category = <category_name> / By month AVG +]]) / 24`|
 |Average security incident age|The average number of days for which security incidents remain open for each analyst. The formula used to show the result in days is `([[Summed age of open security incidents > Security Incident Category = <category_name> / By month AVG +]]/ [[Number of open security incidents > Security Incident Category = <category_name> / By month AVG +]]) / 24`|
 |Security incident backlog analysis|The total number of open security incidents in the specified period. Select an option from the Breakdown list to view the backlog for each analyst, security group, priority, and so on. You can also compare the number of open security incidents between two selected months.|
 |Closed security incident analysis|The total number of security incidents that are closed in the specified period. Select an option from the Breakdown list to view the count for each analyst, security group, priority, and so on. You can also compare the number of security incidents that were closed between two selected months.|
@@ -135,8 +135,3 @@ You can see the number of open incidents on a specific day and the status \(anal
 
 [Security Incident Explorer dashboard]()
 
-## Related
-
-- [[security-operations-landing-page|Security Operations]]
-- [[indicator|Indicators]]
-- [[t_ClosingSecIncidents|Close security incidents]]

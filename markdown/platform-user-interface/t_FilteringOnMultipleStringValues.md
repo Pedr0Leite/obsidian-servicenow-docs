@@ -47,7 +47,7 @@ This feature enables administrators to copy and paste search criteria from a Mic
     \[Omitted image "CommaDelimitedFilter2.png"\] Alt text: Comma-delimited filter string
 
 
-**Parent Topic:**[[c_Filters|Filters]]
+**Parent Topic:**[Filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_Filters.md)
 
 **Related topics**  
 
@@ -60,6 +60,3 @@ This feature enables administrators to copy and paste search criteria from a Mic
 
 [Dynamic operators]()
 
-## Related
-
-- [[c_Filters|Filters]]

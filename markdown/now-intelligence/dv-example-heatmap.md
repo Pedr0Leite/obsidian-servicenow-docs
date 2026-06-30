@@ -12,11 +12,11 @@ breadcrumb: [Heatmap visualizations, Create, Data visualizations, Platform Analy
 
 # Heatmap visualization example
 
-The heatmap data visualization shows the relationship between two table fields or [[c_CreatingBreakdowns|indicator breakdowns]] as a spectrum of shading between two colors. The changes in color as you move along the axes reveal patterns in the value of one or both fields or breakdowns.
+The heatmap data visualization shows the relationship between two table fields or indicator breakdowns as a spectrum of shading between two colors. The changes in color as you move along the axes reveal patterns in the value of one or both fields or breakdowns.
 
 ## Before you begin
 
-Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-view-access-control.md) and [[platform-analytics-roles|Platform Analytics roles]].
+Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-view-access-control.md) and [Platform Analytics roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/platform-analytics-roles.md).
 
 ## About this task
 
@@ -24,9 +24,9 @@ By observing how cell colors change across each axis, you can observe if there a
 
 ## Procedure
 
-1.  Follow the first steps to [[create-dv-heatmap-ac|Create a heatmap data visualization]]:
+1.  Follow the first steps to [Create a heatmap data visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-heatmap-ac.md):
 
-    1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Data Visualizations**, or open an in-line dashboard and select **Edit**.
+    1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**, or open an in-line dashboard and select **Edit**.
 
     2.  Select **Create data visualization**.
 
@@ -84,7 +84,7 @@ By observing how cell colors change across each axis, you can observe if there a
 
     1.  Select **Follow filters**.
 
-        This option enables the visualization to follow [[c_HomepagePublishers|interactive filters]] on the dashboards it's placed on that are based on the same table.
+        This option enables the visualization to follow interactive filters on the dashboards it's placed on that are based on the same table.
 
     2.  Select **Show filter icon** to show the number of filters applied to the visualization.
 
@@ -92,7 +92,7 @@ By observing how cell colors change across each axis, you can observe if there a
 
     3.  Under Chart interaction, select **Allow chart interaction**.
 
-        From the Action menu, select **Drill down to chart** to let viewers navigate to relevant information by selecting a data point in the chart. Some visualizations only drill down to the list of associated data. Table data is generally restricted by [[access-control|access control]] lists \(ACLs\) and viewers may not see all of the associated records.
+        From the Action menu, select **Drill down to chart** to let viewers navigate to relevant information by selecting a data point in the chart. Some visualizations only drill down to the list of associated data. Table data is generally restricted by access control lists \(ACLs\) and viewers may not see all of the associated records.
 
 9.  Choose how to show what the cells in the heatmap describe.
 
@@ -115,11 +115,3 @@ You have created a heatmap visualization sorted on two values and configured its
 
 **Parent Topic:**[Create a heatmap data visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-heatmap-ac.md)
 
-## Related
-
-- [[platform-analytics-roles|Platform Analytics roles]]
-- [[create-dv-heatmap-ac|Create a heatmap data visualization]]
-- [[c_CreatingBreakdowns|Indicator breakdowns]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[c_HomepagePublishers|Interactive Filters]]
-- [[access-control|Access control]]

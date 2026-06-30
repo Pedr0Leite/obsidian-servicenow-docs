@@ -33,7 +33,7 @@ A pattern is a sequence of commands designed to detect attributes of a CI and it
 
 Service Mapping starts pattern-based top-down discovery process from the entry point you define.
 
-An entry point is a point where clients access a service instance. Usually, it is either a URL or a combination of the [[ip-address|IP address]] and port. Service Mapping starts the mapping process from this point. For example, to map your electronic mailing service instance, define an IP address or host name of the [[email|email]] server as an entry point.
+An entry point is a point where clients access a service instance. Usually, it is either a URL or a combination of the IP address and port. Service Mapping starts the mapping process from this point. For example, to map your electronic mailing service instance, define an IP address or host name of the email server as an entry point.
 
 Entry points vary depending on the nature of the service instance. Service Mapping comes with a wide range of preconfigured entry point types that cover many commonly used applications.
 
@@ -61,7 +61,3 @@ Complete the generic procedure [Create an application service](https://raw.githu
 
 [Discovery patterns used by ITOM Visibility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/c_MappingPatternsCustomization.md)
 
-## Related
-
-- [[ip-address|IP Address]]
-- [[email|Email]]

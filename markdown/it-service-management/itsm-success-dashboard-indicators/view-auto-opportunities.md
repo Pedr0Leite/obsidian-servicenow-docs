@@ -24,7 +24,7 @@ Role required: sn\_sd.success\_dashboard\_details\_read
 
 1.  Navigate to **All** &gt; **Success Dashboard** &gt; **Success Dashboard**.
 
-2.  Select the **[[performance-overview-ref|Performance overview]]** tab.
+2.  Select the **Performance overview** tab.
 
 3.  Select the **Self solved - percentage** indicator.
 
@@ -37,6 +37,3 @@ Role required: sn\_sd.success\_dashboard\_details\_read
 
 **Parent Topic:**[Configuring ITSM Success Dashboard indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/configure-success-dashboards.md)
 
-## Related
-
-- [[performance-overview-ref|Performance overview]]

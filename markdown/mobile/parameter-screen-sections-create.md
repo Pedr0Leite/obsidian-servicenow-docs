@@ -16,19 +16,19 @@ Input form sections are reusable components consisting of grouped inputs. You ca
 
 ## Before you begin
 
-You must create an [[parameter-input-screen|input form screen]] that contains inputs before you create sections. For information about creating an input form screen and inputs, see [[parameter-screen-config|Configure an input form screen]] and [[param-screen-config-inputs|Configure input form screen inputs]].
+You must create an input form screen that contains inputs before you create sections. For information about creating an input form screen and inputs, see [Configure an input form screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/parameter-screen-config.md) and [Configure input form screen inputs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/param-screen-config-inputs.md).
 
 Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select the **Screens** category and then select the input form screen for which you want to configure a section.
 
@@ -95,10 +95,3 @@ There is an option that enables you to control the visibility of an entire secti
 3.  In the **Value** field enter the either true or false. If left blank the default value is false and the descriptive element is shown even if there isn't an input value field.
 4.  Select **Save**.
 
-## Related
-
-- [[parameter-screen-config|Configure an input form screen]]
-- [[param-screen-config-inputs|Configure input form screen inputs]]
-- [[parameter-input-screen|Input form screen]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]

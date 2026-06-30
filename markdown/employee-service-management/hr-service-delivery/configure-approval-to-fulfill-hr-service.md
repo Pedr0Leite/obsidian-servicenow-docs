@@ -14,7 +14,7 @@ breadcrumb: [Configure a service activity for an HR service, Configure an HR ser
 
 # Configure an approval
 
-Configure a service [[activity-lxp|activity]] that is an approval. Approvals require one or more users to approve the case before it can proceed.
+Configure a service activity that is an approval. Approvals require one or more users to approve the case before it can proceed.
 
 ## Before you begin
 
@@ -147,6 +147,3 @@ Groups to approve the task.
 
 **Parent Topic:**[Configure a service activity for an HR service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-service-activity-for-hr-service.md)
 
-## Related
-
-- [[activity-lxp|Activity]]

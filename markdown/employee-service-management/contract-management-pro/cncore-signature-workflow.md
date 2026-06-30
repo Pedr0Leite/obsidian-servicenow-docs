@@ -14,7 +14,7 @@ breadcrumb: [Use, Contract Management Pro, Legal and Contract Operations, Employ
 
 # Signature workflow for a contract request
 
-[[cncore-cmpro-landing-page|Contract Management Pro]] supports electronic signature, wet \(manual\) signature, and offline signature for a contract request.
+Contract Management Pro supports electronic signature, wet \(manual\) signature, and offline signature for a contract request.
 
 -   Electronic Signature: Enables signatories to sign the contract document electronically. For more information, see [Configure an e-signature provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-integrate-esign.md).
 
@@ -102,7 +102,7 @@ The Signatory status in the contract request changes to Delivery failed.
 
  A notification appears on the contract request informing about the undelivered signature request and the available actions for the fulfiller.
 
--   For Docusign, you can update the signatory's information and retry, [[cncore-cancel-a-manual-signature|cancel the signature process]] to restart it, or upload a manually signed contract.
+-   For Docusign, you can update the signatory's information and retry, cancel the signature process to restart it, or upload a manually signed contract.
 -   For Adobe Sign, you can cancel the signature process to restart it, or upload a manually signed contract.
 
 
@@ -187,7 +187,7 @@ Use the offline signature workflow when the contract is signed outside Contract 
 
 ## Modify signatories when the signature workflow is in progress
 
-The **[[cncore-pause-signature|Modify Signatories]]** option enables you to add, remove, edit, or reorder pending signatories while a signature workflow is in progress. Initiating this action pauses the signature workflow for a duration defined by the system property **maximum\_signature\_pause\_duration**. To continue the signature workflow after making changes, use the **Resume Signature** option to resume the workflow.
+The **Modify Signatories** option enables you to add, remove, edit, or reorder pending signatories while a signature workflow is in progress. Initiating this action pauses the signature workflow for a duration defined by the system property **maximum\_signature\_pause\_duration**. To continue the signature workflow after making changes, use the **Resume Signature** option to resume the workflow.
 
 The workflow might progress as follows:
 
@@ -197,7 +197,7 @@ The workflow might progress as follows:
     **Note:**
 
     -   For signature block-based contract templates, you can add, modify, remove, and reorder actions, whereas for participant based templates, only modify and reorder actions are enabled.
-    -   The Modify signatories option is available in the [[lsd-wet-signature-workflows|wet signature workflow]] and the electronic signature workflow with Docusign electronic signature provider integration.
+    -   The Modify signatories option is available in the wet signature workflow and the electronic signature workflow with Docusign electronic signature provider integration.
 -   Select **Resume signature** to resume the signature workflow after modifications are complete.
 
     **Note:** If the signature workflow is not resumed within the configured time duration, any changes made to the signatories are reverted, and the signature workflow resumes from its previous state.
@@ -223,21 +223,13 @@ Send the document for signature after a contract document has been reviewed and 
 -   **[Initiate an offline signature for a contract request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-initiate-offline-signature-workspace.md)**  
 Initiate an offline signature when a contract has been signed outside Contract Management Pro and record the signed document in Contract Management Pro.
 -   **[Upload a signed contract document](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-upload-doc-wsignature.md)**  
-[[cncore-upload-doc-wsignature|Upload a signed contract document]] that you have received from the signatories. You must upload a contract document for a wet signature workflow, an offline signature workflow when the contract was signed outside the system or if one of the signatories in the electronic signature workflow decides to do a wet signature.
+Upload a signed contract document that you have received from the signatories. You must upload a contract document for a wet signature workflow, an offline signature workflow when the contract was signed outside the system or if one of the signatories in the electronic signature workflow decides to do a wet signature.
 -   **[Modify signatories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-pause-signature.md)**  
 Modify signatories while a signature workflow is in progress.
 -   **[Resend signature request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-resend-sign-req.md)**  
-[[cncore-resend-sign-req|Resend signature request]] functionality enables contract fulfillers to manually trigger signature request when needed.
+Resend signature request functionality enables contract fulfillers to manually trigger signature request when needed.
 -   **[Cancel the signature process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-cancel-a-manual-signature.md)**  
 Cancel a signature process for contract documents that have been sent to signatories.
 
 **Parent Topic:**[Using Contract Management Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-use-cmpro.md)
 
-## Related
-
-- [[cncore-cmpro-landing-page|Contract Management Pro]]
-- [[cncore-cancel-a-manual-signature|Cancel the signature process]]
-- [[cncore-pause-signature|Modify signatories]]
-- [[lsd-wet-signature-workflows|Wet Signature workflow]]
-- [[cncore-upload-doc-wsignature|Upload a signed contract document]]
-- [[cncore-resend-sign-req|Resend signature request]]

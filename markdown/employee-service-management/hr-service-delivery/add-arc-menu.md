@@ -14,7 +14,7 @@ breadcrumb: [Configure, Anonymous Report Center \(ARC\), Employee Relations, Cas
 
 # Add ARC catalog items to the Employee Center
 
-Give employees access to the [[arc-portal|Anonymous Report Center \(ARC\)]] by adding the catalog items to the [[employee-center-landing-page|Employee Center]]. Once added, employees can report misconduct or discrimination or open the ARC homepage from the **Human Resources** &gt; **Employee Conduct** page or via search.
+Give employees access to the Anonymous Report Center \(ARC\) by adding the catalog items to the Employee Center. Once added, employees can report misconduct or discrimination or open the ARC homepage from the **Human Resources** &gt; **Employee Conduct** page or via search.
 
 ## Before you begin
 
@@ -48,7 +48,4 @@ The Anonymous Report Center plugin includes three out-of-the-box catalog items:
 
 4.  After adding the catalog items, verify that they appear as intended by navigating to the Employee Center to the **Human Resources** &gt; **Employee Conduct** topic.
 
-## Related
 
-- [[arc-portal|Anonymous Report Center \(ARC\)]]
-- [[employee-center-landing-page|Employee Center]]

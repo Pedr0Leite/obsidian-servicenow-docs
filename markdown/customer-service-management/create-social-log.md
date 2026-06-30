@@ -24,7 +24,7 @@ If necessary, a customer service manager or administrator can create an entry on
 
 ## Procedure
 
-1.  Navigate to the desired [[r_CustomerServiceCaseForm|Case form]].
+1.  Navigate to the desired Case form.
 
 2.  From the **Social Logs** related list, click **New**.
 
@@ -40,6 +40,4 @@ If necessary, a customer service manager or administrator can create an entry on
 
 4.  Click **Submit**.
 
-## Related
 
-- [[r_CustomerServiceCaseForm|Case form]]

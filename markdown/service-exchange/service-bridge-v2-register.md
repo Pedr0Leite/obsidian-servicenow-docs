@@ -33,7 +33,7 @@ Before proceeding, the provider should have requested the contact details of an 
 
     **Note:** The consumer admin completing the registration process must be the named contact on the provider’s registration task or an admin in the provider's instance. Registration will fail during the OAUTH authentication step if attempted by another user.
 
-2.  Navigate to **All** &gt; **[[tmt-service-bridge-both-landing-page|Service Exchange]] Consumer** &gt; **Provider [[se-connections-tab|Connections]]**.
+2.  Navigate to **All** &gt; **Service Exchange Consumer** &gt; **Provider Connections**.
 
 3.  On the Provider Connection form in the consumer instance, select the name of the Company that the provider is associated with and select **Save**.
 
@@ -65,16 +65,9 @@ If the state is **Validation Failed**, you must resolve all issues identified du
 **Related topics**  
 
 
-[[se-se-center|Service Exchange Center]]
+[Service Exchange Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/se-se-center.md)
 
-[[service-bridge-v2-scan-checks|Instance scan checks]]
+[Instance scan checks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-scan-checks.md)
 
-[[service-bridge-v2-onboarding|Register a Service Exchange consumer]]
+[Register a Service Exchange consumer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-onboarding.md)
 
-## Related
-
-- [[se-se-center|Service Exchange Center]]
-- [[service-bridge-v2-scan-checks|Instance scan checks]]
-- [[service-bridge-v2-onboarding|Register a Service Exchange consumer]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]
-- [[se-connections-tab|Connections]]

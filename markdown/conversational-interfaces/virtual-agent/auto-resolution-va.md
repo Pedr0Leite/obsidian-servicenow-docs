@@ -14,7 +14,7 @@ breadcrumb: [Case and incident deflection, Build and deploy, Virtual Agent, Conv
 
 # Using Issue Auto Resolution
 
-You can proactively deflect issues and expedite the resolution process for your agent and user with the Issue Auto Resolution \(IAR\) application. Through machine learning and Natural Language Understanding \(NLU\), users get immediate self-service and can access [[virtual-agent-landing-page|Virtual Agent]] topics, Knowledge articles, and catalog items.
+You can proactively deflect issues and expedite the resolution process for your agent and user with the Issue Auto Resolution \(IAR\) application. Through machine learning and Natural Language Understanding \(NLU\), users get immediate self-service and can access Virtual Agent topics, Knowledge articles, and catalog items.
 
 ## How Issue Auto Resolution works
 
@@ -43,6 +43,3 @@ Admin users can initiate a chat conversation to troubleshoot the settings and fu
 
 **Parent Topic:**[Case and incident deflection in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/case-incident-deflection-virtual-agent.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

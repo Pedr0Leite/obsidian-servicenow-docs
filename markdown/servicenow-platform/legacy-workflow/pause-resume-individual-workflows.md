@@ -18,7 +18,7 @@ Pause individual workflow contexts. Specify the date and time of day at which th
 
 ## Before you begin
 
-Install and activate the [[workflow-pause-utility|Workflow Pause Utility]] plugin.
+Install and activate the Workflow Pause Utility plugin.
 
 Role required: Workflow\_admin or workflow\_publisher, workflow\_creator
 
@@ -67,6 +67,3 @@ When a workflow context is paused, the system saves basic information about the 
 
 **Parent Topic:**[Workflow pause utility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/workflow-pause-utility.md)
 
-## Related
-
-- [[workflow-pause-utility|Workflow pause utility]]

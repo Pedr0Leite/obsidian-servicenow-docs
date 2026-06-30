@@ -12,7 +12,7 @@ breadcrumb: [Use Task Intelligence, Automate and optimize, Use, Customer Service
 
 # Review and submit values predicted by Document Intelligence
 
-Agents can extract, validate, and update the key values from valid attachments in the case using the Document [[intelligence-csm|Intelligence]] interface.
+Agents can extract, validate, and update the key values from valid attachments in the case using the Document Intelligence interface.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ The task definition includes an extraction mode that determines how the system h
 
 ## Procedure
 
-1.  Open a case in [[csm-workspaces-configure|CSM Configurable Workspace]].
+1.  Open a case in CSM Configurable Workspace.
 
 2.  Select **Review in DocIntel** to open the [Document Intelligence workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/doc-intel-workspace.md) in a separate tab and view the attachments and extracted values.
 
@@ -45,10 +45,6 @@ The task definition includes an extraction mode that determines how the system h
 
     3.  If a value for a field isn’t correct and the correct value doesn’t appear in the drop-down list, select the more actions button next to the field and select **Missing in this document**.
 
-5.  Select **Submit** to add these values to the fields on the [[r_CustomerServiceCaseForm|Case form]].
+5.  Select **Submit** to add these values to the fields on the Case form.
 
-## Related
 
-- [[intelligence-csm|Intelligence]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[r_CustomerServiceCaseForm|Case form]]

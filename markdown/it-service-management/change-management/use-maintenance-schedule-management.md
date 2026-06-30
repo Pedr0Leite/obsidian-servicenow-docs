@@ -22,7 +22,7 @@ Role required: itil
 
 ## About this task
 
-When the configuration item with an assigned maintenance schedule is used in the change request, the [[c_ConflictDetection|conflict detection]] determines the schedule change outside the maintenance window and displays a conflict error message.
+When the configuration item with an assigned maintenance schedule is used in the change request, the conflict detection determines the schedule change outside the maintenance window and displays a conflict error message.
 
 ## Procedure
 
@@ -30,7 +30,7 @@ When the configuration item with an assigned maintenance schedule is used in the
 
 2.  From the list of servers, select the server that you want to add the maintenance schedule to.
 
-    **Note:** If you don't see the **Maintenance schedule** field on the record, click the personalize list icon \( \[Omitted image "gearicon.png"\] Alt text: personalize list\) and modify the Personalize List [[settings-mobile|settings]] to add this field.
+    **Note:** If you don't see the **Maintenance schedule** field on the record, click the personalize list icon \( \[Omitted image "gearicon.png"\] Alt text: personalize list\) and modify the Personalize List settings to add this field.
 
 3.  Double-click the **Maintenance schedule** field and use the search icon to select a schedule and assign it to the server.
 
@@ -41,7 +41,3 @@ The selected maintenance schedule is assigned to the server.
 
 **Parent Topic:**[Create blackout and maintenance schedules in Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_CreateBlkoutMaintSched.md)
 
-## Related
-
-- [[c_ConflictDetection|Conflict detection]]
-- [[settings-mobile|Settings]]

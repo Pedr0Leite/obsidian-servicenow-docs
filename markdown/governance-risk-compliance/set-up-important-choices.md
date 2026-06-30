@@ -12,7 +12,7 @@ breadcrumb: [Completing general administrative tasks, Configure, Operational Res
 
 # Update the Important choices module
 
-Update the rating of the assessment in the [[grc-opres-landing-page|Operational Resilience]] application so that you can update the criticality and the order of the assessment for your business services.
+Update the rating of the assessment in the Operational Resilience application so that you can update the criticality and the order of the assessment for your business services.
 
 ## Before you begin
 
@@ -38,9 +38,6 @@ You can update the criticality and the order of the assessment rating by using t
 
 3.  On the form, fill in the fields and select **Submit**.
 
-    For a description of the field values on the GRC Choices form, see [[important-choices-reference|GRC Choices form]].
+    For a description of the field values on the GRC Choices form, see [GRC Choices form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/important-choices-reference.md).
 
-## Related
 
-- [[important-choices-reference|GRC Choices form]]
-- [[grc-opres-landing-page|Operational Resilience]]

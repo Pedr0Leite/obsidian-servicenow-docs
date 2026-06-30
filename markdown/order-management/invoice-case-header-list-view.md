@@ -230,8 +230,5 @@ Contact
 Customer contact for the invoice case.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[som-business-portal-reference|Business Portal reference for Sales Customer Relationship Management]]
+</table>**Parent Topic:**[Business Portal reference for Sales Customer Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-business-portal-reference.md)
 
-## Related
-
-- [[som-business-portal-reference|Business Portal reference for Sales Customer Relationship Management]]

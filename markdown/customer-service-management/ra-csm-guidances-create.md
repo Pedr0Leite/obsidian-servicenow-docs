@@ -12,7 +12,7 @@ breadcrumb: [Creating guidance and field recommendation in Recommended Actions, 
 
 # Create a guidance in Recommended Actions
 
-Create a guidance that you can select when creating a recommendation in [[configure-nba|Recommended Actions]].
+Create a guidance that you can select when creating a recommendation in Recommended Actions.
 
 ## Before you begin
 
@@ -92,6 +92,4 @@ Role required: sn\_nb\_action.next\_best\_action\_author, or admin
 
 7.  Select **Submit**.
 
-## Related
 
-- [[configure-nba|Recommended Actions]]

@@ -14,7 +14,7 @@ breadcrumb: [Reference, Proactive Engagement, Digital End-User Experience, IT Se
 
 # Components installed with Proactive Engagement
 
-Several types of components are installed with activation of the [[proactive-engagement-landing-page|Proactive Engagement]] application \(com.snc.self\_remediation\_framework\), including user roles.
+Several types of components are installed with activation of the Proactive Engagement application \(com.snc.self\_remediation\_framework\), including user roles.
 
 ## Roles installed with ServiceNow Proactive Engagement
 
@@ -59,7 +59,7 @@ sn\_pren.issue\_registry\_write
 </td><td>
 
 -   This persona is responsible for deploying the Issue registry templates.
--   Configuring the engagement [[settings-mobile|settings]], notification channels and fallback.
+-   Configuring the engagement settings, notification channels and fallback.
 -   Create a custom resolution and notification for an existing template.
 
  **Note:** SOW user role is required to access the Proactive Engagement workbench.
@@ -142,7 +142,7 @@ sn\_pren\_issue\_registry\_template
 
 </td><td>
 
-This table stores all the end-user issues for which a customer could potentially engage the end-user to self-solve in case of an issue occurrence. Issue registry template records can either come from a third-party DEX/DEX provider or be created directly by the customer, with a [[reference-for-itsm-mobile-agent|reference]] to the provider. This table specifies the resolution for the issue and how the end user should be engaged, and it holds descriptive fields for the issue, such as Short Description and Description. Additionally, it contains a Unique Issue Code, which is a combination of the Provider Code and Issue Code, ensuring uniqueness across all template records for a customer.
+This table stores all the end-user issues for which a customer could potentially engage the end-user to self-solve in case of an issue occurrence. Issue registry template records can either come from a third-party DEX/DEX provider or be created directly by the customer, with a reference to the provider. This table specifies the resolution for the issue and how the end user should be engaged, and it holds descriptive fields for the issue, such as Short Description and Description. Additionally, it contains a Unique Issue Code, which is a combination of the Provider Code and Issue Code, ensuring uniqueness across all template records for a customer.
 
 </td></tr><tr><td>
 
@@ -168,7 +168,7 @@ sn\_pren\_resolution
 
 </td><td>
 
-Record used to store the resolutions configured to be executed when a threshold breach occurs, as per the metric rule configuration. This record could include a self-help instruction with defined steps, a URL with a specified link, a [[remedial-action|remedial action]] with a reference to the configured remedial action, or of type incident creation.
+Record used to store the resolutions configured to be executed when a threshold breach occurs, as per the metric rule configuration. This record could include a self-help instruction with defined steps, a URL with a specified link, a remedial action with a reference to the configured remedial action, or of type incident creation.
 
 </td></tr><tr><td>
 
@@ -209,9 +209,3 @@ Record used to create a log of the alert that caused experience issue. This is a
 </td></tr></tbody>
 </table>**Parent Topic:**[Proactive Engagement reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/proactive-engagement/proactive-engagement-reference.md)
 
-## Related
-
-- [[proactive-engagement-landing-page|Proactive Engagement]]
-- [[settings-mobile|Settings]]
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[remedial-action|Remedial action]]

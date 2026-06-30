@@ -22,7 +22,7 @@ Role required: sn\_ohs\_im.operations\_manager, sn\_ohs\_im.manager, or sn\_ohs\
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[health-safety-overview|Health and Safety]]** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
 2.  Select the incident management icon \(\[Omitted image "list-icon-hs.png"\] Alt text: Incident Management icon.\).
 
@@ -34,7 +34,7 @@ Role required: sn\_ohs\_im.operations\_manager, sn\_ohs\_im.manager, or sn\_ohs\
 
 5.  On the form, fill in the fields.
 
-    -   For a safety incident, fill in the fields in the **Enter incident summary** [[activity-lxp|activity]] in the **Report an incident** tab.
+    -   For a safety incident, fill in the fields in the **Enter incident summary** activity in the **Report an incident** tab.
     -   For a safety observation, fill in the fields in the **Details** tab.
     **Note:** To enable the map component in the Health and Safety Workspace install the Geo map component \[sn\_geo\_map\] plugin. For more information, see [Additional features in Health and Safety](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/install-hs-incident-mgmt.md).
 
@@ -53,8 +53,3 @@ As a safety manager or agent, you can assign the incident or observation to your
 
 **Parent Topic:**[Submitting safety incidents and observations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/submitting-safety-incidents-obvs.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[activity-lxp|Activity]]

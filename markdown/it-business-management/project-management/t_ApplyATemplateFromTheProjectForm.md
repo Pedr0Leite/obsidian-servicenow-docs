@@ -14,7 +14,7 @@ breadcrumb: [Applying templates to projects, Using Project Management, Project M
 
 # Apply a template on the Project form
 
-While creating a project using the [[create-a-project-form|Project form]], you can apply a project template to include [[t_CreateAProjectTask|project tasks]] and subtasks, attachments, checklists, and other project information. You can apply a project template to a new project or an existing project.
+While creating a project using the Project form, you can apply a project template to include project tasks and subtasks, attachments, checklists, and other project information. You can apply a project template to a new project or an existing project.
 
 ## Before you begin
 
@@ -64,7 +64,3 @@ When applying a template to a project, the project state is set to the default s
 
 [Project template configuration]()
 
-## Related
-
-- [[create-a-project-form|Project form]]
-- [[t_CreateAProjectTask|Project tasks]]

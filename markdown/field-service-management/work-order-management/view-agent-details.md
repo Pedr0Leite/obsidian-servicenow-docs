@@ -26,7 +26,7 @@ Agents can view and edit only their own profile information.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Field Service [[field-service-contractor-portal|Contractor Portal]]** &gt; **Homepage**.
+1.  Navigate to **All** &gt; **Field Service Contractor Portal** &gt; **Homepage**.
 
 2.  Click **Agents**.
 
@@ -34,6 +34,4 @@ Agents can view and edit only their own profile information.
 
 4.  Review the agent profile information.
 
-## Related
 
-- [[field-service-contractor-portal|Contractor Portal]]

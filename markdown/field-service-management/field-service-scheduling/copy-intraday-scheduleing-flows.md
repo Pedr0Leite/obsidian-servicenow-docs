@@ -14,7 +14,7 @@ breadcrumb: [Configuring Intraday schedule automation, Additional scheduling con
 
 # Copy intraday schedule automation flows
 
-Duplicate the three intraday schedule automation flows installed with the [[fsm-application-landing-page|Field Service Management]] Scheduling Flow Designer Flows plugin so if something breaks in the flows you activated, you can copy the originals again.
+Duplicate the three intraday schedule automation flows installed with the Field Service Management Scheduling Flow Designer Flows plugin so if something breaks in the flows you activated, you can copy the originals again.
 
 ## Before you begin
 
@@ -42,9 +42,5 @@ Role required: admin
 **Related topics**  
 
 
-[[intraday-scheduling-flows|Intra-day schedule automation flows and subflows]]
+[Intra-day schedule automation flows and subflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/intraday-scheduling-flows.md)
 
-## Related
-
-- [[intraday-scheduling-flows|Intra-day schedule automation flows and subflows]]
-- [[fsm-application-landing-page|Field Service Management]]

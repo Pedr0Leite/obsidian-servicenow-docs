@@ -15,7 +15,7 @@ breadcrumb: [Use generative AI, Now Assist for CSM, Customer Service Management]
 
 # Summarize a case by using Now Assist for Customer Service Management \(CSM\)
 
-Generate a summary from the fields that you selected on the case record and quickly understand the case context by using the case summarization skill in the [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]] application.
+Generate a summary from the fields that you selected on the case record and quickly understand the case context by using the case summarization skill in the Now Assist for Customer Service Management \(CSM\) application.
 
 ## Before you begin
 
@@ -28,9 +28,9 @@ The case summarization skill provides you with a concise summary of a customer s
 -   Generate an initial summary of a case so that you can understand the case context.
 -   Summarize all the work that has been done on a case.
 
-The case summarization skill is available in [[csm-workspaces-configure|CSM Configurable Workspace]] and in Core UI.
+The case summarization skill is available in CSM Configurable Workspace and in Core UI.
 
--   In CSM Configurable Workspace, you use the Case summary by Now Assist component to generate a summary. This component appears before the [[csm-config-ws-activity-stream|activity stream]].
+-   In CSM Configurable Workspace, you use the Case summary by Now Assist component to generate a summary. This component appears before the activity stream.
 
     **Note:** You can also generate a case summary on demand from the Now Assist panel.
 
@@ -52,7 +52,7 @@ If there’s enough data the Case summary component displays the **Summarize** b
     The Case insights section by Now Assist component appears above the activity stream. When automatic triggering is enabled for case summarization, the system proactively generates a summary when a case is opened. When automatic triggering is turned off, **Generate** button is displayed, enabling agents to generate the summary on demand. The case summary appears in the **Case insights** section, which provides a consolidated view of key information—including the reported issue, actions taken, Service Level Agreement \(SLA\) details, and a trending topic banner when applicable. The **Case insights** section contains the following additional details:
 
     -   **Customer summary**- Displays key account details including lifetime value, plan type, average handling time, and iCSAT score. Also shows the number of recent cases and interactions, recent issue history. There are links to navigate to all case and all interactions.
-    -   **[[c_OnScreenAlerts|Special handling notes]]**- Creates notes that bring important information about individual records, such as a case or account record, to the user's attention.
+    -   **Special handling notes**- Creates notes that bring important information about individual records, such as a case or account record, to the user's attention.
     -   Feedback icons- Copy, thumbs up, thumbs down, and a more options menu.
     -   Access to the most needed information is displayed as buttons links- **Show similar resolved issues** and **Summarize customer’s recent history**.
     -   **Ask AI** button- Opens an AI prompt for follow-up questions in the Now Assist panel, with a drop down arrow for additional options
@@ -150,9 +150,3 @@ The **Ask A** button enables you to ask questions in natural language and receiv
 
 [Configure Case Summarization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/case-summarization-generation-in-now-assist.md)
 
-## Related
-
-- [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[csm-config-ws-activity-stream|Activity stream]]
-- [[c_OnScreenAlerts|Special handling notes]]

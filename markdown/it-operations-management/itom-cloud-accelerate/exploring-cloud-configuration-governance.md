@@ -14,17 +14,17 @@ breadcrumb: [Cloud Configuration Governance, ITOM Cloud Accelerate, IT Operation
 
 # Exploring Cloud Configuration Governance
 
-Understand the typical [[cloud-configuration-governance|Cloud Configuration Governance]] workflow and high-level tasks.
+Understand the typical Cloud Configuration Governance workflow and high-level tasks.
 
 To use Cloud Configuration Governance for managing the configuration of the cloud resources, perform the following tasks:
 
-1.  [[install-cloud-config-governance|Install Cloud Configuration Governance]]. For more information, see [Install Cloud Configuration Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/install-cloud-config-governance.md).
+1.  Install Cloud Configuration Governance. For more information, see [Install Cloud Configuration Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/install-cloud-config-governance.md).
 2.  Install the CCG Content Pack to access the base system Cloud Configuration Governance contents. For more information, see [Install the CCG Content Pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/install-ccg-content-pack.md).
 3.  Assign Cloud Configuration Governance roles to users. For more information on the Cloud Configuration Governance roles, see [Cloud Configuration Governance roles and system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/ccg-roles-and-system-properties.md).
 4.  To manage the configuration of the Amazon Web Services \(AWS\) resources through Cloud Configuration Governance, see [Set up Cloud Configuration Governance for AWS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/set-up-ccg-for-aws.md).
 5.  To manage the configuration of the Microsoft Azure resources through Cloud Configuration Governance, see [Set up Cloud Configuration Governance for Microsoft Azure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/set-up-ccg-for-azure.md).
-6.  [[create-ccg-scan-configuration|Create a scan configuration]] to scan the cloud resources against one or more [[aws-policy-set|policy sets]] and identify the policy violations. For more information, see [Create a scan configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/create-ccg-scan-configuration.md).
-7.  Run the appropriate [[ccg-remediation|remediation]] action to fix the non-compliant cloud configuration identified during the [[ccg-scan-run|scan run]]. For more information, see [Run remediation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/ccg-run-remediation.md).
+6.  Create a scan configuration to scan the cloud resources against one or more policy sets and identify the policy violations. For more information, see [Create a scan configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/create-ccg-scan-configuration.md).
+7.  Run the appropriate remediation action to fix the non-compliant cloud configuration identified during the scan run. For more information, see [Run remediation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/ccg-run-remediation.md).
 
 ## What to do next
 
@@ -35,7 +35,7 @@ You can install the Cloud Configuration Governance application \(com.sn.itom.ccg
 -   **[Install the CCG Content Pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/install-ccg-content-pack.md)**  
 You can install the CCG Content Pack application \(sn\_itom\_ccg\_cp\) if you have the admin role.
 -   **[Set up Cloud Configuration Governance for AWS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/set-up-ccg-for-aws.md)**  
-Set up access to the Amazon Web Services \(AWS\) [[cloud-accounts|cloud accounts]] in Cloud Configuration Governance to enable interaction between the application and the cloud. The application requires access to the cloud accounts to scan the cloud resources for non-compliant configurations and remediate them.
+Set up access to the Amazon Web Services \(AWS\) cloud accounts in Cloud Configuration Governance to enable interaction between the application and the cloud. The application requires access to the cloud accounts to scan the cloud resources for non-compliant configurations and remediate them.
 -   **[Set up Cloud Configuration Governance for Microsoft Azure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/set-up-ccg-for-azure.md)**  
 Set up access to the Microsoft Azure cloud accounts in Cloud Configuration Governance to enable interaction between the application and the cloud. The application requires access to the cloud accounts of your organization to scan the cloud resources for non-compliant configurations and remediate them.
 -   **[Domain separation and Cloud Configuration Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/domain-separation-and-cloud-configuration-governance.md)**  
@@ -43,12 +43,3 @@ Domain separation is not supported in Cloud Configuration Governance. Domain sep
 
 **Parent Topic:**[Cloud Configuration Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/cloud-configuration-governance.md)
 
-## Related
-
-- [[cloud-configuration-governance|Cloud Configuration Governance]]
-- [[install-cloud-config-governance|Install Cloud Configuration Governance]]
-- [[create-ccg-scan-configuration|Create a scan configuration]]
-- [[aws-policy-set|Policy sets]]
-- [[ccg-remediation|Remediation]]
-- [[ccg-scan-run|Scan run]]
-- [[cloud-accounts|Cloud accounts]]

@@ -14,7 +14,7 @@ breadcrumb: [Viewing reports and dashboards in the Software Bill of Materials wo
 
 # View upload status for Software Bill of Materials files
 
-Check the upload status for the [[sbom-landing|Software Bill of Materials]] \(SBOM\) files that you upload in the BOM Queue module in the Software Bill of Materials \(SBOM\) Workspace. Track the files that you upload successfully, your upload history, and errors.
+Check the upload status for the Software Bill of Materials \(SBOM\) files that you upload in the BOM Queue module in the Software Bill of Materials \(SBOM\) Workspace. Track the files that you upload successfully, your upload history, and errors.
 
 ## Before you begin
 
@@ -68,6 +68,4 @@ SBOM Response
 
 2.  Access more information about errors and upload status by selecting the gear icon \[Omitted image "gear-changes-outline-24.svg"\] Alt text: Gear icon and adding fields such as **Error category** and **Error detail**.
 
-## Related
 
-- [[sbom-landing|Software Bill of Materials]]

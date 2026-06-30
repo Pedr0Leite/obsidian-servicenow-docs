@@ -28,13 +28,13 @@ To add or edit a workflow stage field:
 
 ## Procedure
 
-1.  Navigate to **Workflow &gt; [[workflow-editor|Workflow Editor]]**.
+1.  Navigate to **Workflow &gt; Workflow Editor**.
 
 2.  Create or check out the workflow.
 
 3.  In the title bar, click the menu icon and select **Properties**.
 
-4.  In the [[r_WorkflowProperties|Workflow Properties]] dialog box, click the **General** tab.
+4.  In the Workflow Properties dialog box, click the **General** tab.
 
 5.  In the **Table** list, verify that the table containing the workflow field is selected.
 
@@ -47,7 +47,3 @@ To add or edit a workflow stage field:
 
 **Parent Topic:**[Create a workflow stage field](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/t_CreateAWorkflowStageField.md)
 
-## Related
-
-- [[workflow-editor|Workflow editor]]
-- [[r_WorkflowProperties|Workflow properties]]

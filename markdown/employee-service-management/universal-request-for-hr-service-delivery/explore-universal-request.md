@@ -14,7 +14,7 @@ breadcrumb: [Universal Request, Employee Service Management]
 
 # Exploring Universal Request
 
-The ServiceNow [[ur-landing-limitedaccess|Universal Request]] application enables cross-departmental reporting from the time of an initial employee request through the final issue resolution. You can map various departmental ticket states and [[activity-lxp|activity]] streams into a unified and simplified experience for your employees and agents.
+The ServiceNow Universal Request application enables cross-departmental reporting from the time of an initial employee request through the final issue resolution. You can map various departmental ticket states and activity streams into a unified and simplified experience for your employees and agents.
 
 Universal Request application supports the following two most common ESM or GBS service delivery models.
 
@@ -37,7 +37,7 @@ The Universal Request application provides the following key benefits to employe
 -   Enables agents to effectively resolve a case or request through cross-departmental interactions rather than working in silos.
 -   Provide an end-to-end user experience with complete visibility to the case details.
 -   Enables ticket transfers across departments or between a Tier-1 support desk and higher-level departmental support teams, with enhanced security.
--   Enables agents to task employees using the [[universal-task-landing|Universal Task]] application to complete a catalog item or upload a document to facilitate quick resolution of a request.
+-   Enables agents to task employees using the Universal Task application to complete a catalog item or upload a document to facilitate quick resolution of a request.
 -   Monitor and improve the end-to-end experience with cross-departmental SLAs and metrics.
 
 -   **[Universal Request versus Interaction Records \(New Call record\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-versus-ir.md)**  
@@ -55,8 +55,3 @@ Before you start using the ServiceNow® Universal Request application in your or
 
 **Parent Topic:**[Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-landing-limitedaccess.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[activity-lxp|Activity]]
-- [[universal-task-landing|Universal Task]]

@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-In addition to the three types of change available by default, you can add new [[change-types|change types]] based on your organization requirements. For example, you can create a change type **Expedited** for changes that you require to be processed immediately.
+In addition to the three types of change available by default, you can add new change types based on your organization requirements. For example, you can create a change type **Expedited** for changes that you require to be processed immediately.
 
 ## Procedure
 
@@ -99,7 +99,7 @@ In addition to the three types of change available by default, you can add new [
 
         For example, ChangeRequestStateModel\_expedited.
 
-    4.  Update the [[reference-for-itsm-mobile-agent|reference]] to the base script include for the new change type as created in step 3.
+    4.  Update the reference to the base script include for the new change type as created in step 3.
 
         Change the extended Object in line 2 to the base script include name. For example, ChangeRequestStateModelCust\_expedited, so the reference is similar to the following string.
 
@@ -109,7 +109,7 @@ In addition to the three types of change available by default, you can add new [
 
     5.  Click **Insert and Stay** create a copy of the script include ChangeRequestStateModel\_emergency with the new name ChangeRequestStateModel\_expedited.
 
-5.  Complete the following steps to modify the script include that controls the transition between states using one of the defined [[c_Models|models]] for the new change type.
+5.  Complete the following steps to modify the script include that controls the transition between states using one of the defined models for the new change type.
 
     1.  Navigate to **System Definition** &gt; **Script Includes**.
 
@@ -141,7 +141,7 @@ In addition to the three types of change available by default, you can add new [
 
         For example, **\[Type\] \[is\] \[Expedited\]** in the condition.
 
-    5.  Open the matching [[change-tasks|change tasks]] workflow that is called by the main workflow.
+    5.  Open the matching change tasks workflow that is called by the main workflow.
 
         For example, **Change Request - Emergency change tasks**.
 
@@ -167,9 +167,3 @@ In addition to the three types of change available by default, you can add new [
 
 [Legacy: Add a state to the state model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_AddANewState.md)
 
-## Related
-
-- [[change-types|Change types]]
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[c_Models|Models]]
-- [[change-tasks|Change tasks]]

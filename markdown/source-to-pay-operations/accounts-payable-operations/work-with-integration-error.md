@@ -15,7 +15,7 @@ breadcrumb: [Integration errors, Accounts Payable Operations integration framewo
 
 # Working with Integration error tasks
 
-Resolve integration error tasks, repost [[invoices|invoices]] to your ERP system, and schedule jobs to process invoices after errors are resolved.
+Resolve integration error tasks, repost invoices to your ERP system, and schedule jobs to process invoices after errors are resolved.
 
 ## Before you begin
 
@@ -37,6 +37,4 @@ Role required: Integration admin
 
     System-related integration error tasks are closed and invoices are auto-synchronized to outbound tables.
 
-## Related
 
-- [[invoices|Invoices]]

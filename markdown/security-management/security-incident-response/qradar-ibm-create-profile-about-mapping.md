@@ -18,13 +18,10 @@ After you have selected the rules, the next step is to map offense, event, or fl
 
 ## Overview of Mapping
 
-For the [[mapping-logrhythm|mapping]] step, you must first ingest sample offenses for one or more selected IBM QRadar rules. Then you must ensure that all relevant offense field data is mapped to the appropriate place on the SIR incident form and then visualize the SIR incident in the preview section.
+For the mapping step, you must first ingest sample offenses for one or more selected IBM QRadar rules. Then you must ensure that all relevant offense field data is mapped to the appropriate place on the SIR incident form and then visualize the SIR incident in the preview section.
 
 Mapping of the sample offense fields involves the following:
 
 -   Fetching and populating of the sample data: See [Ingesting the sample IBM QRadar offenses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/qradar-ibm-create-profile-ingestion.md).
 -   Mapping the offense fields to the security incident: See [Mapping IBM QRadar offense fields to security incident response fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/ibm-qradar-mapping-process.md).
 
-## Related
-
-- [[mapping-logrhythm|Mapping]]

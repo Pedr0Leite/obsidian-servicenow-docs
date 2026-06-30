@@ -14,7 +14,7 @@ breadcrumb: [Populate Cloud Account Management dependent tables, Setting up Clou
 
 # Create a service account
 
-Create a service account in CAM. A service account holds the credential and account information that you created in your provider account. [[r-discovery|Discovery]] uses the information to access your provider account and then obtain information on each logical datacenter that is associated with the account.
+Create a service account in CAM. A service account holds the credential and account information that you created in your provider account. Discovery uses the information to access your provider account and then obtain information on each logical datacenter that is associated with the account.
 
 ## Before you begin
 
@@ -26,11 +26,8 @@ Role required: discovery\_admin
 
 2.  Fill in the fields.
 
-    For more information, see [[create-aws-service-accounts|Cloud Service Account form]].
+    For more information, see [Cloud Service Account form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/create-aws-service-accounts.md).
 
 3.  Select **Submit**.
 
-## Related
 
-- [[create-aws-service-accounts|Create AWS service accounts]]
-- [[r-discovery|Discovery]]

@@ -14,7 +14,7 @@ breadcrumb: [Using Impact, Impact]
 
 # Initiatives and Accelerators
 
-Initiatives are the actionable engagements and work streams that support your digital transformation. [[impact-landing-page|Impact]] Accelerators are fixed-scope offerings with experts behind each option to provide value exactly where you need it.
+Initiatives are the actionable engagements and work streams that support your digital transformation. Impact Accelerators are fixed-scope offerings with experts behind each option to provide value exactly where you need it.
 
 Accelerators and initiatives are shared between the Impact store app and Impact Delivery Instance \(IDI\). There may be differences in navigation when accessing Accelerators and initiatives between the platforms.
 
@@ -22,7 +22,7 @@ Accelerators and initiatives are shared between the Impact store app and Impact 
 
 ## Overview of Initiatives
 
-Your [[impact-squad|Impact squad]] recommends Initiatives that are right for you, typically shared by you and your squad.
+Your Impact squad recommends Initiatives that are right for you, typically shared by you and your squad.
 
 -   **Your initiatives**: Initiatives that are delivered as part of your package entitlement
 -   **Initiatives roadmap**: Captures the work that other teams are doing in a consolidated view of all workstream initiatives that are underway
@@ -37,11 +37,11 @@ Your [[impact-squad|Impact squad]] recommends Initiatives that are right for you
 With Impact Accelerators, you receive:
 
 -   Valuable information, recommendations, and insights in a short time frame, so you get value quickly.
--   Expert attention on specific goals such as upgrade readiness, [[product-adoption|product adoption]], and more.
+-   Expert attention on specific goals such as upgrade readiness, product adoption, and more.
 
 Explore the Accelerators and initiatives page by navigating to **All &gt; Impact &gt; Accelerator and Initiatives &gt; Overview** from your ServiceNow instance. In the Impact Delivery Instance, **Impact &gt; Initiatives &amp; Accelerators.**. You will find usage status and a list of the Accelerators and initiatives that are associated with the instance.
 
-\[Omitted image "overview\_page\_accelerator\_new.png"\] Alt text: View the usage status of expert-led and [[on-demand-accelerators|on-demand accelerators]] and the initiatives
+\[Omitted image "overview\_page\_accelerator\_new.png"\] Alt text: View the usage status of expert-led and on-demand accelerators and the initiatives
 
 ## Consumption
 
@@ -61,7 +61,7 @@ View a default grid containing the available list of accelerators and initiative
 
 **Note:**
 
--   View the on-demand accelerators by selecting **Show on-demand accelerators only**. The **Engagement type** column displays **On-demand** to [[io-help|help]] users differentiate them from **Expert-led** accelerators.
+-   View the on-demand accelerators by selecting **Show on-demand accelerators only**. The **Engagement type** column displays **On-demand** to help users differentiate them from **Expert-led** accelerators.
 -   Select the roadmap icon to view the customized timeline view of the scheduled accelerators and initiatives on a calendar by quarter or year.
 
 ## Navigating your list
@@ -79,7 +79,7 @@ Navigate through the list view or roadmap view of the list of accelerators and i
 
 ## Accelerator sub-catalogs
 
-Accelerator [[io-availability|availability]] is defined by your Impact Package and is classified into one of the sub-catalogs, Architecture, Strategy, Optimization, or [[technical-accelerators|Technical Accelerators]].
+Accelerator availability is defined by your Impact Package and is classified into one of the sub-catalogs, Architecture, Strategy, Optimization, or Technical Accelerators.
 
 <table id="table_uqc_flp_fsb" class="nav-card"><tbody><tr><td>
 
@@ -93,13 +93,13 @@ Accelerator [[io-availability|availability]] is defined by your Impact Package a
 
  \[Omitted image "bus-strategic.svg"\] Alt text:
 
- Go deeper on organizational and governance best practices with the ServiceNow platform and upskill your team to enhance business [[instance-observer-performance|performance]] and drive success.
+ Go deeper on organizational and governance best practices with the ServiceNow platform and upskill your team to enhance business performance and drive success.
 
 </td><td>
 
 [Optimization Accelerators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/optimization-accelerators.md)
 
-\[Omitted image "bus-documentation.svg"\] Alt text:Expert-led guidance and support to design and configure ServiceNow capabilities to improve [[platform-health-idi|platform health]] and adoption
+\[Omitted image "bus-documentation.svg"\] Alt text:Expert-led guidance and support to design and configure ServiceNow capabilities to improve platform health and adoption
 
 .
 
@@ -113,12 +113,12 @@ Accelerator [[io-availability|availability]] is defined by your Impact Package a
 
 [Accelerator catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/accelerator-catalog.md)
 
- \[Omitted image "bus-service-catalog.svg"\] Alt text: Browse the complete [[accelerator-catalog|Accelerator catalog]] that combines all three sub-catalogs into one consolidated list.
+ \[Omitted image "bus-service-catalog.svg"\] Alt text: Browse the complete Accelerator catalog that combines all three sub-catalogs into one consolidated list.
 
 </td></tr></tbody>
 </table>## Accelerator Recommendations
 
-When requesting an Accelerator, in addition to the sub-catalog, Accelerators can also be sorted by recommendations. Accelerator recommendations are generated based on customer context using data gathered from product [[subscriptions|subscriptions]], objectives, instance data, and peer comparisons. Some of the recommendations are generated by the Artificial Intelligence \(AI\) engine, while the Impact squad manually recommends others. See [Request an Accelerator from IDI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/request-accelerator.md) for additional information for engaging Accelerators in the IDI and see [Request Accelerators and Initiatives for Impact Store Application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/accelerators.md) for the Impact Store Application
+When requesting an Accelerator, in addition to the sub-catalog, Accelerators can also be sorted by recommendations. Accelerator recommendations are generated based on customer context using data gathered from product subscriptions, objectives, instance data, and peer comparisons. Some of the recommendations are generated by the Artificial Intelligence \(AI\) engine, while the Impact squad manually recommends others. See [Request an Accelerator from IDI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/request-accelerator.md) for additional information for engaging Accelerators in the IDI and see [Request Accelerators and Initiatives for Impact Store Application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/accelerators.md) for the Impact Store Application
 
 **Related topics**  
 
@@ -127,16 +127,3 @@ When requesting an Accelerator, in addition to the sub-catalog, Accelerators can
 
 [Accelerator request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/accelerator-request.md)
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[impact-squad|Impact Squad]]
-- [[product-adoption|Product Adoption]]
-- [[on-demand-accelerators|On-demand accelerators]]
-- [[io-help|Help]]
-- [[io-availability|Availability]]
-- [[technical-accelerators|Technical Accelerators]]
-- [[instance-observer-performance|Performance]]
-- [[platform-health-idi|Platform Health]]
-- [[accelerator-catalog|Accelerator catalog]]
-- [[subscriptions|Subscriptions]]

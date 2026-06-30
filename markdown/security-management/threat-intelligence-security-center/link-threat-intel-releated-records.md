@@ -14,7 +14,7 @@ breadcrumb: [Observables, TISC Library Repository, Threat Intelligence Security 
 
 # Link Threat Intel Related Records
 
-Link the records that are related to the corresponding [[threat-intel-landing-page|threat intelligence]] objects.
+Link the records that are related to the corresponding threat intelligence objects.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_sec\_tisc.analyst
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Threat Intel Library** &gt; **[[c_Observables|Observables]]** &gt; **All Observables**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center** &gt; **Threat Intel Library** &gt; **Observables** &gt; **All Observables**.
 
 2.  Select any observable\(s\) record as an example.
 
@@ -45,8 +45,3 @@ Role required: sn\_sec\_tisc.analyst
 
 **Parent Topic:**[Observables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/observables.md)
 
-## Related
-
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[c_Observables|Observables]]

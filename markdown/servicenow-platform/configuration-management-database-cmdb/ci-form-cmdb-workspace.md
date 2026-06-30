@@ -14,9 +14,9 @@ breadcrumb: [CMDB Workspace, Configuration Management Database \(CMDB\), Configu
 
 # Manage CI details using CI Form in CMDB Workspace
 
-Use CI Form in CMDB Workspace or in another workspace, to view, edit, and manage a comprehensive set of details of a CI such as its attributes, related lists, and [[multisource-cmdb|CMDB 360]] records. When updating CIs, IRE rules are applied to avoid potential issues such as duplicate CIs. CI Form supports derivation of form configurations throughout the CMDB hierarchy.
+Use CI Form in CMDB Workspace or in another workspace, to view, edit, and manage a comprehensive set of details of a CI such as its attributes, related lists, and CMDB 360 records. When updating CIs, IRE rules are applied to avoid potential issues such as duplicate CIs. CI Form supports derivation of form configurations throughout the CMDB hierarchy.
 
-The CI Form feature is a centralized location with a comprehensive set of CI details, organized in sections. Anywhere CMDB Workspace provides a function to view a CI record, such as a list or a chart, CI Form is used for the selected CI when you select that function. Use the forms provided by CI Form to examine and edit CI attributes, relationships, tags, services and offerings, [[c_CMDBHealth|CMDB Health]] and CMDB 360 data associated with the CI, related lists, and activities.
+The CI Form feature is a centralized location with a comprehensive set of CI details, organized in sections. Anywhere CMDB Workspace provides a function to view a CI record, such as a list or a chart, CI Form is used for the selected CI when you select that function. Use the forms provided by CI Form to examine and edit CI attributes, relationships, tags, services and offerings, CMDB Health and CMDB 360 data associated with the CI, related lists, and activities.
 
 General operations you can perform in CI Form:
 
@@ -80,7 +80,7 @@ This section shows all the UI sections that are configured in the Explore CI vie
 
 Select **Attributes** to access the subsections within. By default, the Discovery and the Operational attribute subsections map to the Discovery and the Operational sections in the Explore CI view. The All subsection shows all the CI attributes. Mandatory attributes are noted on the form by an "\*" and must be set with a value.
 
-When updating CI attributes, any [[ire|Identification and Reconciliation Engine \(IRE\)]] rules that exist for the CI class are applied to help prevent potential problems with the update. IRE processes detect potential issues such as CI duplication and a dependent CI missing valid parent relationships. In these situations, the update is paused and you're presented with mitigation options to avoid the issue. Applying IRE processes might result in a partial update of attributes as [[r_ReconciliationRulesPrinciples|reconciliation rules]] might block updates to some attributes and enable updates of others.
+When updating CI attributes, any Identification and Reconciliation Engine \(IRE\) rules that exist for the CI class are applied to help prevent potential problems with the update. IRE processes detect potential issues such as CI duplication and a dependent CI missing valid parent relationships. In these situations, the update is paused and you're presented with mitigation options to avoid the issue. Applying IRE processes might result in a partial update of attributes as reconciliation rules might block updates to some attributes and enable updates of others.
 
 If there are no IRE rules for the class, the CI is updated directly without using IRE processes.
 
@@ -100,7 +100,7 @@ Role requirements for operations in this section:
 
 ## Tags
 
-This section shows the list of tags, stored as key/value pairs in the Key Values \[cmdb\_key\_value\] table. These tags are typically associated with CIs and resources for cloud providers such as Amazon Web Services and Google Cloud Platform, and in general are referred to as cloud tags. Cloud tags are used in ITOM applications, such as Tag Governance, and function as key dependencies in Tag-based discovery in Service Mapping. Discovery and [[cmdb-sgc-available|Service Graph Connectors]] automatically populate cloud tags, which can then be grouped and managed as needed in an organization.
+This section shows the list of tags, stored as key/value pairs in the Key Values \[cmdb\_key\_value\] table. These tags are typically associated with CIs and resources for cloud providers such as Amazon Web Services and Google Cloud Platform, and in general are referred to as cloud tags. Cloud tags are used in ITOM applications, such as Tag Governance, and function as key dependencies in Tag-based discovery in Service Mapping. Discovery and Service Graph Connectors automatically populate cloud tags, which can then be grouped and managed as needed in an organization.
 
 The Tags section in CI Form doesn't contain details about Platform tags, which are another type of tags that are stored in the **Tags** column that exists in most platform tables.
 
@@ -137,7 +137,7 @@ In this section, you can:
         For information about the Create CI experience, see [Create a CI manually in CMDB Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/create-ci-manual-cmdb-workspace.md).
 
     -   If the related list table doesn't have an IRE identification rule, then you're navigated to a basic list view page instead of CI Form.
-    -   The system automatically creates the matching [[reference|reference]] back to the current class. For example, for a dependent CI the system creates the file system and the necessary relationship to [[c_Connect|connect]] the file system to the computer CI.
+    -   The system automatically creates the matching reference back to the current class. For example, for a dependent CI the system creates the file system and the necessary relationship to connect the file system to the computer CI.
     -   For some resources such as CI IPs, **New** isn't available and the **Dependent-upon CI** isn't pre-populated. This behavior applies to CIs with scripted relationships.
     -   After creating a new related list item, select the Refresh List icon to show the new record in the list on the Resource section.
 -   Configure the Resources section in the Explore CI view by selecting the More actions icon and then selecting **Configure resources**. Use the related lists slushbucket to add or remove resources and then select **Save**: Requires the personalize\_list role.
@@ -189,7 +189,7 @@ In this section, you can:
 -   Switch between the following view types:
     -   Tree view: Shows the downstream and upstream relationships in a tree format. You can expand and collapse any level that you want to see more or less details for.
     -   Flat view: Shows the CI relationships in a flat view. You can adjust the number of levels of relationships to show, or filter to show only specific CIs.
--   Select **Edit relationships** to open [[cmdb-workspace-unified-map|Unified Map]] for the CI in edit mode and with the following map settings:
+-   Select **Edit relationships** to open Unified Map for the CI in edit mode and with the following map settings:
 
     -   Home node set to the current CI.
     -   Relationship levels set to 1 level.
@@ -257,13 +257,3 @@ More information:
 
 **Parent Topic:**[CMDB Workspace store app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-workspace.md)
 
-## Related
-
-- [[multisource-cmdb|CMDB 360]]
-- [[c_CMDBHealth|CMDB Health]]
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]
-- [[r_ReconciliationRulesPrinciples|Reconciliation rules]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[reference|Reference]]
-- [[c_Connect|Connect]]
-- [[cmdb-workspace-unified-map|Unified Map]]

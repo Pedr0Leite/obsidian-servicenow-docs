@@ -16,13 +16,13 @@ breadcrumb: [Digest token authentication, Token based authentication \(User logi
 
 The instance reads the HTTP header value and compares its computed hash value of the digest token.
 
-If the computed hash value matches the digest token value, then the instance searches for a matching value in the User table. If there is a matching value in the User table, the instance considers the user pre-authenticated and [[logs|logs]] the user in.
+If the computed hash value matches the digest token value, then the instance searches for a matching value in the User table. If there is a matching value in the User table, the instance considers the user pre-authenticated and logs the user in.
 
-[[c_DigestTokenAuthentication|Digest token authentication]] is more secure than simple unencrypted HTTP headers because any accidental or intentional change to the unencrypted HTTP header produces a different hash value. If the hash value fails to match, the instance denies the user access to the requested instance. This prevents [[users|users]] from attempting to login with another user's credentials.
+Digest token authentication is more secure than simple unencrypted HTTP headers because any accidental or intentional change to the unencrypted HTTP header produces a different hash value. If the hash value fails to match, the instance denies the user access to the requested instance. This prevents users from attempting to login with another user's credentials.
 
 To know more about digest link expiry, see this [KB article](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1186365).
 
-**Note:** Use [[time-limited-authentication|Time Limited Authentication]] \(TLA\) to configure time based expiry links. To know more, see [Time limited authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/time-limited-authentication.md).
+**Note:** Use Time Limited Authentication \(TLA\) to configure time based expiry links. To know more, see [Time limited authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/time-limited-authentication.md).
 
 ## Integration requirements
 
@@ -39,9 +39,3 @@ A Digest Token Authentication integration requires:
     -   MD5
     -   SHA 256 \(recommended\)
 
-## Related
-
-- [[logs|Logs]]
-- [[c_DigestTokenAuthentication|Digest token authentication]]
-- [[users|Users]]
-- [[time-limited-authentication|Time limited authentication]]

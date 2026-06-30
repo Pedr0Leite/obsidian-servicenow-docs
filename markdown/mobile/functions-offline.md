@@ -12,7 +12,7 @@ breadcrumb: [Align apps, screens, and functions, Offline mode setup options, Off
 
 # Supported functions for offline mode
 
-Functions define the actions users can perform from a screen, such as tapping a button, icon, or menu option. In [[mobile-offline-mode|offline mode]], only functions configured as available on offline are accessible to users without network connectivity.
+Functions define the actions users can perform from a screen, such as tapping a button, icon, or menu option. In offline mode, only functions configured as available on offline are accessible to users without network connectivity.
 
 Functions are the action layer of your mobile experience. Each function type performs a different kind of task, such as:
 
@@ -20,7 +20,7 @@ Functions are the action layer of your mobile experience. Each function type per
 -   Navigate to a list of records or a specific record. For example, navigate to another area of the app, or open a related record, list, or a specific form.
 -   Add attachments to records. For example, to add, or view attachments related to a record.
 
-Functions appear as buttons, icons, or [[sg-config-quick-actions|quick actions]] within screens or mobile cards. Each function is configured to define what it does, when it’s visible, and which users can use it.
+Functions appear as buttons, icons, or quick actions within screens or mobile cards. Each function is configured to define what it does, when it’s visible, and which users can use it.
 
 ## How functions relate to mobile apps and offline mode
 
@@ -29,27 +29,17 @@ For each screen configured as available offline, enable only the functions that 
 Here are some examples:
 
 -   An Add Comment or Update Record function can be available offline; storing changes locally until the device reconnects.
--   A navigation function that opens a [[list-screen|list screen]] for tasks assigned to the current user can be designated as offline, since those records are relevant and typically included in the offline payload. However, a navigation function that opens all tasks assigned to an entire group may not be suitable for offline use. Loading group-wide data would significantly increase the cache size and download data that is not relevant to the individual user.
+-   A navigation function that opens a list screen for tasks assigned to the current user can be designated as offline, since those records are relevant and typically included in the offline payload. However, a navigation function that opens all tasks assigned to an entire group may not be suitable for offline use. Loading group-wide data would significantly increase the cache size and download data that is not relevant to the individual user.
 -   Similarly, a function that navigates to a website, for example, opening a company portal or knowledge article in a browser, should not be available offline, as the website itself requires internet connectivity to load.
 
 **Note:** For function instances, a function is available offline only when both the button instance and the button itself are configured to be available offline.
 
--   **[[buttons-offline|Display and hide functions in offline mode]]**  
-Define whether to show or hide buttons while users are in offline mode on their [[mobile-experience|Mobile Agent app]].
--   **[[config-offline-properties-action-funct|Configure offline mode properties for action functions]]**  
+-   **[Display and hide functions in offline mode](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/buttons-offline.md)**  
+Define whether to show or hide buttons while users are in offline mode on their Mobile Agent app.
+-   **[Configure offline mode properties for action functions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/config-offline-properties-action-funct.md)**  
 Determine which fields and functions are available to users when working in offline mode.
--   **[[config-offline-property-function-instance|Configure offline mode properties for function instances]]**  
+-   **[Configure offline mode properties for function instances](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/config-offline-property-function-instance.md)**  
 Determine if the function instance available to users in online mode is also available in offline mode. This option gives you more control over how users manage their offline tasks.
 
-**Parent Topic:**[[align-app-screen-function|Set up and align the app, screen, and function hierarchy for offline mode]]
+**Parent Topic:**[Set up and align the app, screen, and function hierarchy for offline mode](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/align-app-screen-function.md)
 
-## Related
-
-- [[buttons-offline|Display and hide functions in offline mode]]
-- [[config-offline-properties-action-funct|Configure offline mode properties for action functions]]
-- [[config-offline-property-function-instance|Configure offline mode properties for function instances]]
-- [[align-app-screen-function|Set up and align the app, screen, and function hierarchy for offline mode]]
-- [[mobile-offline-mode|Offline mode]]
-- [[sg-config-quick-actions|Quick actions]]
-- [[list-screen|List screen]]
-- [[mobile-experience|Mobile Agent app]]

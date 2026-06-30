@@ -14,7 +14,7 @@ breadcrumb: [Event forwarding, Configuring Event Management, Event Management, I
 
 # Set up event forwarding
 
-Create an [[event-forwarding-em|event forwarding]] configuration record to enable events to flow from one ServiceNow instance to another instance. Forwarding events to multiple target instances requires creating separate configuration records for each target instance.
+Create an event forwarding configuration record to enable events to flow from one ServiceNow instance to another instance. Forwarding events to multiple target instances requires creating separate configuration records for each target instance.
 
 ## Before you begin
 
@@ -60,6 +60,3 @@ You must create a separate configuration record for each target instance to forw
 
 [Periodically run an event forwarding job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configuration-management-job-em.md)
 
-## Related
-
-- [[event-forwarding-em|Event forwarding]]

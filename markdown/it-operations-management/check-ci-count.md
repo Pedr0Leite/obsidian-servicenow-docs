@@ -22,17 +22,17 @@ Role required: sn\_itom\_license.reader
 
 ## About this task
 
-ITOM applications, such as [[itom-visibility-landing-page|ITOM Visibility]], ITOM [[r-discovery|Discovery]], [[itom-health-landing-page|ITOM AIOps]], [[hla-landing-page|Health Log Analytics]], [[itom-cloud-accelerate-landing-page|ITOM Cloud Accelerate]], and [[itom-optimization-landing-page|ITOM Optimization]] provide information on the resources they handle. These resources, called configuration items \(CIs\), are what ITOM applications find, monitor, and store in the CMDB. The ITOM/OT SU Licensing module combines this CI data with the subscription information of your organization to produce statistics on the subscription usage and consumption of the ITOM applications. For more information about the licensing workflow process, see [[data-collection-aggregation-licensing-process|Data collection and aggregation for licensing process]].
+ITOM applications, such as ITOM Visibility, ITOM Discovery, ITOM AIOps, Health Log Analytics, ITOM Cloud Accelerate, and ITOM Optimization provide information on the resources they handle. These resources, called configuration items \(CIs\), are what ITOM applications find, monitor, and store in the CMDB. The ITOM/OT SU Licensing module combines this CI data with the subscription information of your organization to produce statistics on the subscription usage and consumption of the ITOM applications. For more information about the licensing workflow process, see [Data collection and aggregation for licensing process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/data-collection-aggregation-licensing-process.md).
 
-This information does not include any statistics on subscriptions purchased in bundles. For complete information on subscriptions, [[view-itom-license-statistics|view subscription statistics for IT Operations Management]].
+This information does not include any statistics on subscriptions purchased in bundles. For complete information on subscriptions, [view subscription statistics for IT Operations Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/view-itom-license-statistics.md).
 
 ## Procedure
 
 1.  Navigate to **ITOM License** &gt; **License Report**.
 
-    \[Omitted image "itom-license-report.png"\] Alt text: The License Report window showing subscription statistics for the [[r_ITOMApplications|IT Operations Management]] applications a la carte.
+    \[Omitted image "itom-license-report.png"\] Alt text: The License Report window showing subscription statistics for the IT Operations Management applications a la carte.
 
-    To know more about the fields in the Licence Report window, see [[license-report-form|License Report form]].
+    To know more about the fields in the Licence Report window, see [License Report form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/license-report-form.md).
 
 2.  In the **Total Count** column, view the average daily CI counts for the last 90 days.
 
@@ -41,15 +41,3 @@ This information does not include any statistics on subscriptions purchased in b
     -   Set the **Aggregated** filter condition to **\[Aggregated\] \[is\] \[false\]** and select **Run**.
     -   Navigate to **ITOM License** &gt; **License Daily Usage Count**.
 
-## Related
-
-- [[data-collection-aggregation-licensing-process|Data collection and aggregation for licensing process]]
-- [[view-itom-license-statistics|View subscription statistics for ITOM]]
-- [[license-report-form|License Report form]]
-- [[itom-visibility-landing-page|ITOM Visibility]]
-- [[r-discovery|Discovery]]
-- [[itom-health-landing-page|ITOM AIOps]]
-- [[hla-landing-page|Health Log Analytics]]
-- [[itom-cloud-accelerate-landing-page|ITOM Cloud Accelerate]]
-- [[itom-optimization-landing-page|ITOM Optimization]]
-- [[r_ITOMApplications|IT Operations Management]]

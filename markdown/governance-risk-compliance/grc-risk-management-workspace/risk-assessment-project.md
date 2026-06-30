@@ -20,7 +20,7 @@ You can perform assessments on multiple risks and controls simultaneously by cre
 
 A Risk assessment project is a structured process designed to assess multiple risks and controls simultaneously, particularly within workshop-based RCSA \(Risk and Control Self-Assessment\) environments. It replaces manual data entry and fragmented workflows by enabling efficient data collection, collaborative input from stakeholders, and automated reporting. A Risk assessment project simplifies coordination, speeds up processes, and improves data accuracy by providing a unified workspace for evaluating risks collectively and reliably.
 
-**Note:** Assessment of multiple risks and controls is supported only in [[risk-workspace|Risk Workspace]].
+**Note:** Assessment of multiple risks and controls is supported only in Risk Workspace.
 
 ## Benefits of a risk assessment project
 
@@ -29,7 +29,7 @@ The following are the key benefits of a risk assessment project:
 -   Simplifies the RCSA process by enabling multiple risks and controls to be assessed at the same time, which saves time on manual data collection.
 -   Reduces the chances of errors and inconsistencies by using automated error handling and providing comprehensive error summaries before finalizing assessments.
 -   Reduces unnecessary back-and-forth interactions among stakeholders by involving all required participants in the assessment project.
--   Enables navigation between different stages of [[risk-assessments|risk assessments]] and access multiple risks and controls simultaneously, without switching screens.
+-   Enables navigation between different stages of risk assessments and access multiple risks and controls simultaneously, without switching screens.
 -   Provides detailed summary reports on the assessment results.
 -   Simplifies the process of signing off on all the risks together within the project.
 -   Enables access to reference information related to each risk in the sidebar panel.
@@ -44,7 +44,7 @@ The following personas are involved with the risk assessment project:
 
 -   **Assessor**
 
-    The project assessor performs assessment on multiple risks and controls within the risk assessment project. They analyze each risk, evaluate the effectiveness of existing controls, and create [[risk-response|risk response]] strategies.
+    The project assessor performs assessment on multiple risks and controls within the risk assessment project. They analyze each risk, evaluate the effectiveness of existing controls, and create risk response strategies.
 
 -   **Approver**
 
@@ -62,9 +62,9 @@ The following roles are required for a risk assessment project:
 For more information, see [Roles installed with the GRC Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/roles-installed-with-risk-ws.md).
 
 -   **[Workflow of risk assessment project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/workflow-of-risk-assessment-project.md)**  
-The risk assessment project workflow is a structured process to assess multiple risks and controls simultaneously [[using-risk-workspace|using Risk Workspace]].
+The risk assessment project workflow is a structured process to assess multiple risks and controls simultaneously using Risk Workspace.
 -   **[Create a risk assessment project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/create-risk-assessment-project.md)**  
-Create a risk assessment project to perform assessments on multiple risks and controls simultaneously using Risk Workspace. You can define the project context, including the assessable entity, [[risk-assessment-methodology-prm|Risk assessment methodology \(RAM\)]], project name, description, and identify and add stakeholders.
+Create a risk assessment project to perform assessments on multiple risks and controls simultaneously using Risk Workspace. You can define the project context, including the assessable entity, Risk assessment methodology \(RAM\), project name, description, and identify and add stakeholders.
 -   **[Perform assessment on a risk assessment project in stacked view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/perform-assessment-on-risk-assessment-project.md)**  
 Perform assessments on multiple risks and controls simultaneously in a risk assessment project using Risk Workspace. You can assess inherent risks, effectiveness of controls, residual risks, and target risks. You can define risk responses that enable you to manage and mitigate the risks identified during the risk assessment process.
 -   **[Perform assessment on a risk assessment project in grid view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/perform-assessment-risk-assessment-project-grid-view.md)**  
@@ -83,10 +83,3 @@ Reassign assessors for multiple in-progress risk assessment projects simultaneou
 
 [Create a risk assessment project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/create-risk-assessment-project.md)
 
-## Related
-
-- [[risk-workspace|risk workspace]]
-- [[risk-assessments|risk assessments]]
-- [[risk-response|risk response]]
-- [[using-risk-workspace|using risk workspace]]
-- [[risk-assessment-methodology-prm|Risk Assessment Methodology \(RAM\)]]

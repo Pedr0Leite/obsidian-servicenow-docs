@@ -17,11 +17,11 @@ Learn about the terms and concepts used in Configurable Workspace.
 
 ## Activity Stream
 
-Component that shows the list of changes made to a record, including journal entries, emails, and [[attachments-configurable-workspace|attachments]].
+Component that shows the list of changes made to a record, including journal entries, emails, and attachments.
 
 ## Activity Stream Compose
 
-Component that enables agents to create new journal entries for the [[activity-stream-configurable-workspace|Activity Stream]].
+Component that enables agents to create new journal entries for the Activity Stream.
 
 ## Attachments
 
@@ -49,15 +49,15 @@ Components are used in the UI Builder to build pages. Components have an interfa
 
 ## Contextual sidebar
 
-A column of content that relates to the main content of the page. For example, you can include the [[agent-assist-configurable-workspace|agent assist]] component to show possible solutions for a case in view. Components are stacked vertically as tabs.
+A column of content that relates to the main content of the page. For example, you can include the agent assist component to show possible solutions for a case in view. Components are stacked vertically as tabs.
 
 ## dashboard
 
-A canvas for organizing and sharing data visually. Dashboards contain data visualizations, [[c_Filters|filters]], and other visual elements. Users can share dashboards with other users, groups, or roles to create a shared view of data.
+A canvas for organizing and sharing data visually. Dashboards contain data visualizations, filters, and other visual elements. Users can share dashboards with other users, groups, or roles to create a shared view of data.
 
 ## declarative actions
 
-Declarative actions add custom functionality to your workspace [[form-configurable-workspace|forms]], fields, [[lists-configurable-workspace|lists]], and [[c_RelatedLists|related lists]] without writing custom scripts or learning APIs. Declarative actions include form actions, list actions, related list actions, and field decorators.
+Declarative actions add custom functionality to your workspace forms, fields, lists, and related lists without writing custom scripts or learning APIs. Declarative actions include form actions, list actions, related list actions, and field decorators.
 
 ## email template
 
@@ -93,7 +93,7 @@ A pre-defined set of questions arranged on a form provided by Creator Studio.
 
 ## full email composer
 
-The Email Composer component associated with a record that enables an agent to [[activity-stream-compose-configurable-workspace|compose]] emails and communicate with customers within a separate workspace tab.
+The Email Composer component associated with a record that enables an agent to compose emails and communicate with customers within a separate workspace tab.
 
 ## landing page
 
@@ -143,13 +143,3 @@ The version of a UI Builder page with access controlled by role or condition. Cr
 
 Suite of tools in a single focused work area that enables a user to efficiently complete an entire job.
 
-## Related
-
-- [[attachments-configurable-workspace|Attachments]]
-- [[activity-stream-configurable-workspace|Activity stream]]
-- [[agent-assist-configurable-workspace|Agent assist]]
-- [[c_Filters|Filters]]
-- [[form-configurable-workspace|Forms]]
-- [[lists-configurable-workspace|Lists]]
-- [[c_RelatedLists|Related lists]]
-- [[activity-stream-compose-configurable-workspace|Compose]]

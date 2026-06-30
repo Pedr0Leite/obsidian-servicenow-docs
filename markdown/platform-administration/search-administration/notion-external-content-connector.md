@@ -15,7 +15,7 @@ breadcrumb: [Configure, External Content Connectors, Search administration, Conf
 
 # Notion external content connector
 
-The Notion external content connector retrieves pages and files from your Notion source system and makes their content and metadata searchable in [[ia-ai-search|AI Search]] applications.
+The Notion external content connector retrieves pages and files from your Notion source system and makes their content and metadata searchable in AI Search applications.
 
 Search administrators can run or schedule content crawls to retrieve updated content from your source system, or user permission crawls to retrieve updated security principals from your source system. Both types of crawl feed their data to AI Search for indexing.
 
@@ -39,6 +39,3 @@ Specify the pages you want your Notion external content connector to crawl and f
 
 [Create a user permission crawl for an external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/create-user-mapping-crawl-external-content-connector.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]

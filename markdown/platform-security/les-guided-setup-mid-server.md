@@ -16,9 +16,9 @@ Implement the following steps for a complete guided setup for MID Server consume
 
 ## Before you begin
 
-Navigate to **[[les-intro|Log Export Service \(LES\)]]** &gt; **MID Server Consumer** &gt; **Guided Setup**. Select the type of setup you wish to configure and select **Continue**.
+Navigate to **Log Export Service \(LES\)** &gt; **MID Server Consumer** &gt; **Guided Setup**. Select the type of setup you wish to configure and select **Continue**.
 
-**Note:** During the Log [[export|Export]] Service application installation, ServiceNow will provision the underlying Hermes Messaging Service infrastructure. Be aware that this process can take up to a couple of hours to complete from the time you [[c_requestAPI|request]] the Log Export Service application installation.
+**Note:** During the Log Export Service application installation, ServiceNow will provision the underlying Hermes Messaging Service infrastructure. Be aware that this process can take up to a couple of hours to complete from the time you request the Log Export Service application installation.
 
 Role required: admin
 
@@ -38,13 +38,13 @@ Role required: admin
     -   View Topics: Select the listed topic to retrieve the timestamp of the last known message.
     **Note:** You can access Hermes Diagnostics in the future to troubleshoot potential connectivity issues by returning to this step of the guided setup or by navigating to **All** &gt; **Hermes Messaging Service** &gt; **Diagnostics**.
 
-2.  Generate [[c_Certificates|certificates]] for a secure connection to Hermes Messaging Service and pull log events from it.
+2.  Generate certificates for a secure connection to Hermes Messaging Service and pull log events from it.
 
-    Setup secure connection to Hermes Messaging Service. See [[les-hermes-cert|Set up a secure connection to the Hermes Messaging Service for LES]] for more information. You will need these certificates for [[c_Authentication|authentication]] and authorization in the client which will pull the [[logs|logs]] from Hermes.
+    Setup secure connection to Hermes Messaging Service. See [Set up a secure connection to the Hermes Messaging Service for LES](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/les-hermes-cert.md) for more information. You will need these certificates for authentication and authorization in the client which will pull the logs from Hermes.
 
     **Note:** admin or Hermes\_admin roles are required for this step.
 
-3.  Configure Log Producer: Choose [[les-log-sources-export|log sources]] to export and configure their filters.
+3.  Configure Log Producer: Choose log sources to export and configure their filters.
 
     Complete the following tasks to configure the Log Producer.
 
@@ -84,9 +84,9 @@ Role required: admin
 
     -   Install dedicated MID Server: The MID Server that Log Export Service uses should be dedicated for only this purpose and should not be expected to run other processes. This is important to ensure timely delivery of exported log messages to your REST endpoint. You can install the new MID Server either by using the [Use MID Server guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/use-mid-server-guidedsetup.md) or by installing it manually. For the manual installation, follow the [Configure MID Server network connectivity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_MIDServerConnectionPrerequisites.md) documentation first and then the [Installing the MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server-installation.md) documentation after that.
     -   Validate MID Server: You must manually validate the MID Server after it is installed to enable it to execute automation tasks. To validate the MID Server you are dedicating for LES, see [Validate the MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ValidateAMIDServer.md)
-    **Note:** If you configure a MID Server for this application, MID Server proxy settings do not apply to Hermes connectivity. MID Server proxy [[sc-configuration|configuration]] applies only to HTTP-based communication. Because Hermes uses Kafka-native TCP connections, traffic to the Hermes cluster bypasses proxy settings regardless of MID Server configuration.
+    **Note:** If you configure a MID Server for this application, MID Server proxy settings do not apply to Hermes connectivity. MID Server proxy configuration applies only to HTTP-based communication. Because Hermes uses Kafka-native TCP connections, traffic to the Hermes cluster bypasses proxy settings regardless of MID Server configuration.
 
-5.  Configure Log REST Push Destination: Setup the MID Server to be able to [[push-log|push logs]] to your log analytics system \(such as Splunk\).
+5.  Configure Log REST Push Destination: Setup the MID Server to be able to push logs to your log analytics system \(such as Splunk\).
 
     Complete the following tasks to configure log REST push destination.
 
@@ -119,7 +119,7 @@ Role required: admin
         1.  Navigate to **Log Export Service \(LES\)** &gt; **Destination Configurations** 
         2.  Create a new configuration record
         3.  Specify the URL for your desired endpoint for the exported log sources
-        4.  Search for or create new credentials to connect to your endpoint. When creating credentials for your endpoint, note that only the following credential types are valid with LES: Basic Auth and [[oauth-inbound-and-outbound|OAuth]]
+        4.  Search for or create new credentials to connect to your endpoint. When creating credentials for your endpoint, note that only the following credential types are valid with LES: Basic Auth and OAuth
         5.  Search for or create a new transform script. We ship with the prewritten script, **SplunkTransform** for Splunk
 6.  Configure LOG Consumer: Follow these tasks to configure your MID Server Extension for Log Export Service purposes.
 
@@ -163,19 +163,5 @@ Role required: admin
         **Note:** If you make any change in one of the Consumer records, it shows up on the Consumer Status view page. If you select a consumer record name on the Consumer Status list, the Consumer form for the selected record opens. You can then update the Name and Destination Configuration of the selected record.
 
 
-**Parent Topic:**[[les-mid-server-consumer|MID server consumer]]
+**Parent Topic:**[MID server consumer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/les-mid-server-consumer.md)
 
-## Related
-
-- [[les-hermes-cert|Set up a secure connection to the Hermes Messaging Service for LES]]
-- [[les-mid-server-consumer|MID server consumer]]
-- [[les-intro|Log Export Service \(LES\)]]
-- [[export|Export]]
-- [[c_requestAPI|request]]
-- [[c_Certificates|Certificates]]
-- [[c_Authentication|Authentication]]
-- [[logs|Logs]]
-- [[les-log-sources-export|Log sources]]
-- [[sc-configuration|Configuration]]
-- [[push-log|Push logs]]
-- [[oauth-inbound-and-outbound|OAuth]]

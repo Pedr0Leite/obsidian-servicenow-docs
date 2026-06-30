@@ -14,11 +14,11 @@ breadcrumb: [Explore, Major Security Incident Management, Security Incident Resp
 
 # Major Security Incident Management
 
-Track and manage various activities that are typically part of resolving a major security incident through [[major-security-incident-management-landing-page|Major Security Incident Management]]. Through an intuitive workspace, incident managers and those working on an incident can propose and promote incidents to major incidents, track major security incident activities, and easily collaborate with colleagues.
+Track and manage various activities that are typically part of resolving a major security incident through Major Security Incident Management. Through an intuitive workspace, incident managers and those working on an incident can propose and promote incidents to major incidents, track major security incident activities, and easily collaborate with colleagues.
 
 ## Major Security Incident Management Overview
 
-The major security incident management capabilities work in conjunction with the existing [[sir-landing-page|security incident response]] product capabilities. This includes an ability for a security analyst to escalate a standard security incident to a major security incident, so that the new product capabilities are available to support the remediation process.
+The major security incident management capabilities work in conjunction with the existing security incident response product capabilities. This includes an ability for a security analyst to escalate a standard security incident to a major security incident, so that the new product capabilities are available to support the remediation process.
 
 After you install on your ServiceNow instance, a security incident analyst can:
 
@@ -57,7 +57,7 @@ This feature supports Microsoft Teams, which is a chat-centered workspace in the
 
 This feature is supported on Rome and later releases.
 
-The following [[security-operations-landing-page|Security Operations]] applications are the standard Security Incident Response plugins that will likely be installed for most of the users if they’re using already Security Incident Response \(SIR\). If not installed, you must install and activate from ServiceNow Store. Install and then activate one application at a time in the order mentioned to ensure a smooth installation:
+The following Security Operations applications are the standard Security Incident Response plugins that will likely be installed for most of the users if they’re using already Security Incident Response \(SIR\). If not installed, you must install and activate from ServiceNow Store. Install and then activate one application at a time in the order mentioned to ensure a smooth installation:
 
 1.  Security Incident Response: com.snc.si\_dep is the dependent plugin. Installing this plugin activates the other Security Operations applications.
 2.  Security Integration Framework
@@ -75,8 +75,3 @@ The following [[security-operations-landing-page|Security Operations]] applicati
 
 [Major Security Incident Management roles]()
 
-## Related
-
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]
-- [[sir-landing-page|Security Incident Response]]
-- [[security-operations-landing-page|Security Operations]]

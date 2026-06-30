@@ -26,7 +26,7 @@ Events are grouped according to their source and description.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Rules** &gt; **[[create-event-rules|Event Rules]]**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Rules** &gt; **Event Rules**.
 
 2.  Wait for the group calculation to complete and then click the created link.
 
@@ -41,7 +41,3 @@ Events are grouped according to their source and description.
 
 **Parent Topic:**[Event rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/create-event-rules.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[create-event-rules|Event rules]]

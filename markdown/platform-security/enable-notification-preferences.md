@@ -12,17 +12,17 @@ breadcrumb: [Monitor security events, Instance Security Center, Platform Securit
 
 # Set preferences for security event notifications
 
-Configure preferences for the types of notifications you want to receive for occurrences of specific security events. For each type, you designate whether to receive notifications by [[email|email]], by push notification in Now Mobile, or in third party messaging applications such as Slack or Microsoft Teams.
+Configure preferences for the types of notifications you want to receive for occurrences of specific security events. For each type, you designate whether to receive notifications by email, by push notification in Now Mobile, or in third party messaging applications such as Slack or Microsoft Teams.
 
 ## Before you begin
 
-To enable third party messaging applications to send [[security-policies|security event notifications]], you must activate the Messaging Notification \(com.glide.notification.messaging\) plugin. Individual [[users|users]] must configure their own settings. For details, see [Notifications in messaging applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/messaging-integration.md).
+To enable third party messaging applications to send security event notifications, you must activate the Messaging Notification \(com.glide.notification.messaging\) plugin. Individual users must configure their own settings. For details, see [Notifications in messaging applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/messaging-integration.md).
 
 Role required: admin.
 
 ## Procedure
 
-1.  In the [[instance-security-center|Instance Security Center]] home page, click the profile menu, then click **Notification Preferences**.
+1.  In the Instance Security Center home page, click the profile menu, then click **Notification Preferences**.
 
 <table id="table_rpk_b5z_4lb"><thead><tr><th>
 
@@ -62,7 +62,7 @@ HP Role Added
 
 </td><td>
 
-Send the selected type of notification whenever a high privilege security role \(including [[oauth-inbound-and-outbound|oauth]]\_admin, admin, security\_admin, and impersonator roles\) is granted to another user.To learn more about elevating user security, see [[t_ElevateToAPrivilegedRole|Elevate to a privileged role]] and [[c_ElevatedPrivilege|Elevated privilege roles]].
+Send the selected type of notification whenever a high privilege security role \(including oauth\_admin, admin, security\_admin, and impersonator roles\) is granted to another user.To learn more about elevating user security, see [Elevate to a privileged role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_ElevateToAPrivilegedRole.md) and [Elevated privilege roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_ElevatedPrivilege.md).
 
 </td></tr><tr><td>
 
@@ -147,15 +147,5 @@ Select a specific type of notification for all types security events. For exampl
 </table>3.  Click **Save**.
 
 
-**Parent Topic:**[[instance-sec-center-event-ribbon|Monitor security events]]
+**Parent Topic:**[Monitor security events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-sec-center-event-ribbon.md)
 
-## Related
-
-- [[t_ElevateToAPrivilegedRole|Elevate to a privileged role]]
-- [[c_ElevatedPrivilege|Elevated privilege roles]]
-- [[instance-sec-center-event-ribbon|Monitor security events]]
-- [[email|Email]]
-- [[security-policies|Security Event Notifications]]
-- [[users|Users]]
-- [[instance-security-center|Instance Security Center]]
-- [[oauth-inbound-and-outbound|OAuth]]

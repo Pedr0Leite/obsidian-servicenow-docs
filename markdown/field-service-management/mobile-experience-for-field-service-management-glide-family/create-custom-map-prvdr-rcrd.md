@@ -45,7 +45,7 @@ Users with the admin or wm\_admin role can access the module menu and create, re
 
 ## Using demo data to create a Custom Map Provider for Building A
 
-Allie is an administrator who wants to configure Site Mapping for [[fsm-application-landing-page|Field Service Management]]. During configuration, they install demo data to practice the procedure.
+Allie is an administrator who wants to configure Site Mapping for Field Service Management. During configuration, they install demo data to practice the procedure.
 
 They navigate to the Custom Map Provider form and enter the following values:
 
@@ -61,6 +61,3 @@ After submitting the form, Allie proceeds to set the new record as the provider 
 
 The new record must be set as the default provider for the Custom Map Screen for agents to see the building on their Mobile Agent application. For more information, see.
 
-## Related
-
-- [[fsm-application-landing-page|Field Service Management]]

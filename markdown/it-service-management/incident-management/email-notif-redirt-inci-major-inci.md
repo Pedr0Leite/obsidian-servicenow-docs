@@ -14,7 +14,7 @@ breadcrumb: [View incident notifications, Configuring Incident Management, Incid
 
 # Email notification redirection for incident and major incident
 
-You can redirect the users to the incident or major incident record in Service Operations Workspace \(SOW\) instead of opening in the UI16 interface of [[c_IncidentManagement|Incident Management]] or Major Incident Management.
+You can redirect the users to the incident or major incident record in Service Operations Workspace \(SOW\) instead of opening in the UI16 interface of Incident Management or Major Incident Management.
 
 ## Email notification redirection for Incident Management
 
@@ -37,6 +37,3 @@ The ITSM Notifications Redirection \(com.snc.itsm.notifications\_redirection\) p
 
 **Parent Topic:**[View incident notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/t_ViewIncidentNotification.md)
 
-## Related
-
-- [[c_IncidentManagement|Incident Management]]

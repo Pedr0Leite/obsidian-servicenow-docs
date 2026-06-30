@@ -18,7 +18,7 @@ View the Reserved Instances \(RI\) report, implement recommendations, and config
 
 You can filter by payment option, term, and look back period to view specific results for the Reserved Instances report.
 
-\[Omitted image "reservation-ws.png"\] Alt text: Reservation/Saving plans in [[operation-view-ccm-ws|Operations view]].
+\[Omitted image "reservation-ws.png"\] Alt text: Reservation/Saving plans in Operations view.
 
 |Chart|Description|
 |-----|-----------|
@@ -76,7 +76,7 @@ Resources that aren’t converted to reservation plans. After a resource is move
 Accept
 
 </td></tr></tbody>
-</table>**Important:** When you move a resource to the **Accepted Recommendations** or **Declined Recommendations** tab, the [[cloud-insights-landing-page|Cloud Cost Management]] application doesn't perform any action. You can change payment plans on the provider management interface.
+</table>**Important:** When you move a resource to the **Accepted Recommendations** or **Declined Recommendations** tab, the Cloud Cost Management application doesn't perform any action. You can change payment plans on the provider management interface.
 
 Google Cloud recommendations are updated periodically and might not show the latest suggestions until the console is manually refreshed. In contrast, Cloud Cost Management fetches recommendations via API, ensuring it has the most current data. This difference can sometimes cause Google Cloud RI recommendations in Cloud Cost Management to diverge from what's shown in the Google Cloud console. A manual refresh is required to see the latest recommendations.
 
@@ -98,7 +98,7 @@ Role required: insights\_admin and insights\_owner
 
 ### Procedure
 
-1.  Navigate to **[[ci-workspace|Cloud Cost Management Workspace]]** &gt; **Operations** &gt; **Recommendations** &gt; **Reservation/Saving plans**.
+1.  Navigate to **Cloud Cost Management Workspace** &gt; **Operations** &gt; **Recommendations** &gt; **Reservation/Saving plans**.
 
 2.  On the Reserved Instances page, select **Settings**.
 
@@ -188,8 +188,3 @@ Sets the selected look back period as the default filter on the Reservation/Savi
 
 To view the changes, rerun the Billing Download job.
 
-## Related
-
-- [[operation-view-ccm-ws|Operations view]]
-- [[cloud-insights-landing-page|Cloud Cost Management]]
-- [[ci-workspace|Cloud Cost Management Workspace]]

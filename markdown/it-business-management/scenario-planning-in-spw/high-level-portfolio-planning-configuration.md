@@ -18,7 +18,7 @@ If your planning managers need high-level planning enabled for items other than 
 
 By default, Strategic Programs, Programs \(pm\_program\), and Initiatives are the items that are enabled for high-level planning. Also by default, the Product Enhancement entity with the Digital Product lens is enabled for high-level planning. To enable other planning item types, complete the following configuration tasks.
 
-**Note:** High-level planning is enabled for [[alignment-planner-workspace-landing-page|Strategic Planning]] v2.1.0 and higher.
+**Note:** High-level planning is enabled for Strategic Planning v2.1.0 and higher.
 
 ## For items that extend the Planning Item table
 
@@ -37,9 +37,5 @@ Consider the example of enabling high-level planning for the Strategic Priority 
 
 **Tip:** While choosing a table as your high-level planning entity, ensure that it has fields such as start date and end date, owner or assigned to, name or short description, so that this can be used as a planning item. For example, you cannot use the Organization or Product tables as your high-level planning entities. On the other hand, the Strategic Priority tables meets the requirements of a planning item and can be configured for high-level planning.
 
-Once all these tasks are complete, your planning manager can [[create-high-level-portfolio-plan-ppw|create a high-level portfolio plan]] for the desired entity - for this example, portfolio plans can be created to prioritize and roadmap the strategic priorities of the company, and to view how the work across the company is aligned to these strategic priorities.
+Once all these tasks are complete, your planning manager can create a high-level portfolio plan for the desired entity - for this example, portfolio plans can be created to prioritize and roadmap the strategic priorities of the company, and to view how the work across the company is aligned to these strategic priorities.
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[create-high-level-portfolio-plan-ppw|Create a high-level portfolio plan]]

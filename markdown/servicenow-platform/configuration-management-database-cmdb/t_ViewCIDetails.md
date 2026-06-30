@@ -24,7 +24,7 @@ Role required: service\_mapping\_admin or service\_mapping\_user
 
 You can view the following information for each CI:
 
--   **Name [[label|label]]**
+-   **Name label**
 
     The CI name. This attribute is either preconfigured on the CI or configured during CI installation.
 
@@ -72,6 +72,3 @@ If Service Mapping is deployed, the way CIs appear on the map depends on the [vi
     -   Review the list of files under **Tracked Files** in the **Properties** pane. Click the file name to open the actual file.
     -   Click the **Affected CIs** tab and view the list of configuration files. Click the file name to open the actual file.
 
-## Related
-
-- [[label|Label]]

@@ -13,11 +13,11 @@ breadcrumb: [Preferences, Use, Next Experience UI, Configure UIs and portals, Co
 
 # Select a theme in Next Experience
 
-Personalize your Next Experience instance by selecting a theme and it's variant or alternate color palette in the [[c_UserPreferences|user preferences]] menu.
+Personalize your Next Experience instance by selecting a theme and it's variant or alternate color palette in the user preferences menu.
 
 ## Before you begin
 
-**Note:** An administrator must enable at least one theme before you can select one as described in this task. For information about theme variants and alternate color palettes, see [[difference-themes-variants|Core styles, colors, variants, and alternate color palettes]].
+**Note:** An administrator must enable at least one theme before you can select one as described in this task. For information about theme variants and alternate color palettes, see [Core styles, colors, variants, and alternate color palettes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/difference-themes-variants.md).
 
 Role required: none
 
@@ -33,7 +33,4 @@ Role required: none
 
     \[Omitted image "select-a-theme.png"\] Alt text: Theme choices within the Theme user preference.
 
-## Related
 
-- [[difference-themes-variants|Core styles, colors, variants, and alternate color palettes]]
-- [[c_UserPreferences|User preferences]]

@@ -24,7 +24,7 @@ Role required: admin
 
 ## About this task
 
-Collation information must come from the underlying Relational Database Management System \(RDBMS\) used by the instance: MariaDB, RaptorDB, or Oracle. To determine which RDBMS an instance uses, navigate to **All** &gt; **[[sys-diag|System Diagnostics]]** &gt; **Database** &gt; **Information**. Refer to the documentation provided by the RDBMS to determine if the database includes a collation for a given language and the name of the collation.
+Collation information must come from the underlying Relational Database Management System \(RDBMS\) used by the instance: MariaDB, RaptorDB, or Oracle. To determine which RDBMS an instance uses, navigate to **All** &gt; **System Diagnostics** &gt; **Database** &gt; **Information**. Refer to the documentation provided by the RDBMS to determine if the database includes a collation for a given language and the name of the collation.
 
 ## Procedure
 
@@ -48,6 +48,3 @@ Collation information must come from the underlying Relational Database Manageme
 
 When sorting columns according to the session language is enabled, users can sort columns according to the collation of the unsupported language. For more information, see [Sorting according to the session language](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/sorting-session-language.md).
 
-## Related
-
-- [[sys-diag|System Diagnostics]]

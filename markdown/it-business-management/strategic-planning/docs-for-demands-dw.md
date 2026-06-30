@@ -14,7 +14,7 @@ breadcrumb: [Use, Next Experience for Demand Management in Strategic Planning, S
 
 # Collaborate with docs in Next Experience for Demand Management
 
-Store and manage documentation for demands from a centralized location in Next Experience for [[c_DemandManagement|Demand Management]].
+Store and manage documentation for demands from a centralized location in Next Experience for Demand Management.
 
 ## Docs overview
 
@@ -52,7 +52,7 @@ With the feature of real-time collaboration, edit a doc page concurrently with m
 
 Keep record information in your documentation always current and reduce manual effort with the Dynamic data linking feature in Docs. You can now reference any ServiceNow application record and Docs will automatically reflect the latest updates from those records.
 
-For example, if you add a reference to a Project record, the reference shows the latest field information of the project in Docs without requiring manual edits. Selecting the project reference opens up the [[create-a-project-form|project form]] so that you can view the full details of the project and make any necessary changes.
+For example, if you add a reference to a Project record, the reference shows the latest field information of the project in Docs without requiring manual edits. Selecting the project reference opens up the project form so that you can view the full details of the project and make any necessary changes.
 
 A hover popover displays the details of the mentioned record, providing quick access to additional information without leaving the current context.
 
@@ -74,7 +74,3 @@ Save images from your CWM documents directly to your device, making it easier to
 
 \[Omitted image "cwm-docs-image-download.png"\] Alt text: Options to align and download an image in a Doc page.
 
-## Related
-
-- [[c_DemandManagement|Demand Management]]
-- [[create-a-project-form|Project form]]

@@ -16,7 +16,7 @@ breadcrumb: [Authentication, Hardening settings, Platform Security]
 
 Use the **glide.security.use\_csrf\_token** property to ensure the use of a secure token to identify and validates incoming requests, which in turn are used to prevent these attacks.
 
-Cross-Site [[c_requestAPI|Request]] Forgery \(CSRF\) is an attack that forces an end user to execute unwanted actions on a web application in which they're currently authenticated. CSRF attacks specifically target state-changing requests, not theft of data, since the attacker has no way to see the response to the forged request.
+Cross-Site Request Forgery \(CSRF\) is an attack that forces an end user to execute unwanted actions on a web application in which they're currently authenticated. CSRF attacks specifically target state-changing requests, not theft of data, since the attacker has no way to see the response to the forged request.
 
 **Note:** By default, the **glide.security.use\_csrf\_token** property is set to `true` for zBoot instance.
 
@@ -42,6 +42,3 @@ To learn more about adding or creating a system property, see [Add a system prop
 
 **Parent Topic:**[Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-authentication.md)
 
-## Related
-
-- [[c_requestAPI|request]]

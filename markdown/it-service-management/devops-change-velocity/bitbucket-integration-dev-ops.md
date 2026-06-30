@@ -18,7 +18,7 @@ Connect to your Bitbucket instance to track Bitbucket repositories, commits, bra
 
 ## Bitbucket integration overview
 
-[[devops-landing-page-new|DevOps Change Velocity]] supports the Code \(Repository\) capability for the Bitbucket tool.
+DevOps Change Velocity supports the Code \(Repository\) capability for the Bitbucket tool.
 
 ## Authentication methods
 
@@ -26,7 +26,7 @@ You can connect to Bitbucket Cloud using one of the following authentication met
 
 -   **Basic Auth**
 
-    When you select the credential type as Basic Auth the repositories for all the workspaces in the organization are discovered. You need the email address and API token with scopes of your Bitbucket Cloud account to connect using Basic Auth. You can copy your email address by navigating to **Profile avatar &gt; Personal [[settings-mobile|settings]] &gt; Account settings &gt; Email** of your Bitbucket Cloud account.
+    When you select the credential type as Basic Auth the repositories for all the workspaces in the organization are discovered. You need the email address and API token with scopes of your Bitbucket Cloud account to connect using Basic Auth. You can copy your email address by navigating to **Profile avatar &gt; Personal settings &gt; Account settings &gt; Email** of your Bitbucket Cloud account.
 
     To get the API token with scopes, perform the following steps:
 
@@ -112,7 +112,3 @@ Create, connect, discover, and configure your Bitbucket instance using the Class
 
 **Parent Topic:**[Integrating DevOps Change Velocity with third party tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/integrating-devops-change-with-third-party-tools.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[settings-mobile|Settings]]

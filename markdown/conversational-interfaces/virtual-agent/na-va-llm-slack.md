@@ -14,7 +14,7 @@ breadcrumb: [Conversational Integration with Slack, Integrate VA with messaging 
 
 # Using Now Assist in Virtual Agent conversations with Slack
 
-The Now Assist provides you with the large language model \(LLM\)-based conversational experience during your conversations with a Now [[virtual-agent-landing-page|Virtual Agent]] bot or a Self-configured bot that is integrated with Slack.
+The Now Assist provides you with the large language model \(LLM\)-based conversational experience during your conversations with a Now Virtual Agent bot or a Self-configured bot that is integrated with Slack.
 
 To enable a bot with LLM-based capabilities and experience the LLM-based conversations with Now Assist, you must first integrate your Now Virtual Agent bot or a Self-configured bot with Slack.
 
@@ -76,6 +76,3 @@ Synthesized responses in Slack conversations provide a smarter experience with L
 
 **Parent Topic:**[Conversational Integration with Slack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/mssg-slack.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

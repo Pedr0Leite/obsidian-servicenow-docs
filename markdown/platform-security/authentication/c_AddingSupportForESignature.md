@@ -14,7 +14,7 @@ breadcrumb: [SAML, Multi-Provider single sign-on \(SSO\), Authentication, Access
 
 # Add E-Signature support for SAML
 
-Configure the following properties for E-Signature with Security Assertion Markup Language \([[c_SAML2.0WebBrowserSSOProfile|SAML]]\) 2.0 update 1.
+Configure the following properties for E-Signature with Security Assertion Markup Language \(SAML\) 2.0 update 1.
 
 When E-signature is active with Multi-SSO, SAML properties aren’t used. The system adds E-signature properties to the SAML2 Update1 Properties \[saml2\_update1\_properties\] table:
 
@@ -24,11 +24,7 @@ When E-signature is active with Multi-SSO, SAML properties aren’t used. The sy
 |Assertion Consumer URL for eSignature authentication|The URL that identifies the consumer.|`https://yourinstance.service-now.com/consumer.do`|
 |AuthnRequest URL for eSignature Authentication|The URL for authentication|none|
 
-If you’re using E-Signature with SAML 1.0 or SAML 2.0 \(not including update 1\), see the special [[sc-configuration|configuration]] instructions: [E-signature for Multi-Provider SSO](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/e-signature-for-multi-provider-sso.md).
+If you’re using E-Signature with SAML 1.0 or SAML 2.0 \(not including update 1\), see the special configuration instructions: [E-signature for Multi-Provider SSO](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/e-signature-for-multi-provider-sso.md).
 
 **Note:** If you’re a Life Science Customer using E-Signature, deactivate the User self-lockout prevention business rule.
 
-## Related
-
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[sc-configuration|Configuration]]

@@ -14,13 +14,13 @@ breadcrumb: [Knowledge Management widgets, Widget library, Using portal widgets,
 
 # KB View 2 widget
 
-The KB View 2 provides an alternative structure to the [[kb-view-widget|KB View widget]] to show a different example of how to display knowledge articles. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
+The KB View 2 provides an alternative structure to the KB View widget to show a different example of how to display knowledge articles. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 
 The KB View 2 widget displays each knowledge category as a card. Click a card to access the articles within that category.
 
 \[Omitted image "WidgetKBView2.png"\] Alt text: KB View 2 widget with KB articles displayed in tiles rather than a list
 
-Categories are determined by the list of Knowledge Categories provided for the Knowledge Base. To view a list of categories for a knowledge base, in the platform navigate to **Knowledge** &gt; **Administration** &gt; **Knowledge bases**, then select the name of the knowledge base, for example IT. Categories for the knowledge base appear in the [[c_RelatedLists|related lists]]. If a category does not have any associated articles, it does not appear in the portal. For more information on defining categories for a knowledge base, see [Define a knowledge article category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_DefineAKnowledgeCategory.md).
+Categories are determined by the list of Knowledge Categories provided for the Knowledge Base. To view a list of categories for a knowledge base, in the platform navigate to **Knowledge** &gt; **Administration** &gt; **Knowledge bases**, then select the name of the knowledge base, for example IT. Categories for the knowledge base appear in the related lists. If a category does not have any associated articles, it does not appear in the portal. For more information on defining categories for a knowledge base, see [Define a knowledge article category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_DefineAKnowledgeCategory.md).
 
 The knowledge base that a portal uses is determined in the portal form. For more information on associating your portal with a knowledge base, see [Associate a portal with a knowledge base](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/associate-portal-knowledge.md).
 
@@ -33,14 +33,9 @@ The KB View 2 widget does not have any included instance options.
 **Related topics**  
 
 
-[Create and edit a page using the [[c_ServicePortal|Service Portal]] Designer]()
+[Create and edit a page using the Service Portal Designer]()
 
 [Configure widget instances]()
 
 [Clone a widget]()
 
-## Related
-
-- [[kb-view-widget|KB View widget]]
-- [[c_RelatedLists|Related lists]]
-- [[c_ServicePortal|Service Portal]]

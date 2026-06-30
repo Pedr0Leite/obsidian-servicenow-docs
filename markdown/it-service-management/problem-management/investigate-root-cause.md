@@ -22,7 +22,7 @@ Role required: problem\_admin, problem\_coordinator, problem\_manager, or admin
 
 ## About this task
 
-Activate the [[c_ProblemManagement|Problem Management]] Best Practice — Madrid — State Model \(com.snc.best\_practice.problem.madrid.state\_model\) to get the new best practice states and guided actions to navigate the [[understanding-state-mgmt-transitions|life cycle of a problem]]. For details, see [Activate Problem Management Best Practice — Madrid — State Model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/act-pm-best-prac-madrid-state-mod.md).
+Activate the Problem Management Best Practice — Madrid — State Model \(com.snc.best\_practice.problem.madrid.state\_model\) to get the new best practice states and guided actions to navigate the life cycle of a problem. For details, see [Activate Problem Management Best Practice — Madrid — State Model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/act-pm-best-prac-madrid-state-mod.md).
 
 \[Omitted image "pm-fix.png"\] Alt text: root cause analysis state
 
@@ -45,7 +45,7 @@ Actions to be taken
 </td><td>
 
 -   If you are the subject matter expert for this problem area, carry out the investigation and provide the cause notes and fix notes on this problem.
--   If you are not the subject matter expert and you want help with the investigation, [[create-problem-task|create a problem task]] of type root cause analysis and assign that to the relevant team. Once the subject matter expert has completed the problem task, then you can manually copy the cause notes and proposed fix from the problem task to this problem.
+-   If you are not the subject matter expert and you want help with the investigation, create a problem task of type root cause analysis and assign that to the relevant team. Once the subject matter expert has completed the problem task, then you can manually copy the cause notes and proposed fix from the problem task to this problem.
  For more information about creating a problem task, see [Create a problem task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/create-problem-task.md).
 
 </td></tr><tr><td id="d218475e120">
@@ -73,21 +73,14 @@ Click **Accept Risk**. The problem directly enters the **Closed** or **Resolved*
 Click **Re-analyze**. The problem opens for reanalysis and the state is changed to **Root Cause Analysis**.
 
 </td></tr></tbody>
-</table>    If you had created any known error article for this problem or any similar problem, you can add the [[reference-for-itsm-mobile-agent|reference]] of that article in the **Primary Known Error article** field.
+</table>    If you had created any known error article for this problem or any similar problem, you can add the reference of that article in the **Primary Known Error article** field.
 
     **Note:** The **Primary Known Error article** field is available only when you activate the Problem Management Best Practice — Madrid — Knowledge Integration plugin \(com.snc.best\_practice.problem.madrid.knowledge\).
 
 
 ## What to do next
 
-You can resolve and complete the problem. You can also [[t_CreateAChange|create a change request]] to implement a fix for the problem.
+You can resolve and complete the problem. You can also create a change request to implement a fix for the problem.
 
 **Parent Topic:**[Managing Problems](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/problem-mgmt-lifecycle.md)
 
-## Related
-
-- [[c_ProblemManagement|Problem Management]]
-- [[understanding-state-mgmt-transitions|Life cycle of a problem]]
-- [[create-problem-task|Create a problem task]]
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[t_CreateAChange|Create a change request]]

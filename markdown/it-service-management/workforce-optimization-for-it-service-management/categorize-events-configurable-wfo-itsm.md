@@ -31,7 +31,7 @@ The following event category configurations are available by default:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]** &gt; **Scheduling** &gt; **Event Categories**.
+1.  Navigate to **All** &gt; **Workforce Optimization for ITSM** &gt; **Scheduling** &gt; **Event Categories**.
 
 2.  In the **Event Categories** list, click **New**.
 
@@ -120,6 +120,3 @@ Add a system property to display your preferred event categories first on the ca
 
 **Parent Topic:**[Setting up Scheduling in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/setup-scheduling-configurable-workforce-optimization-itsm.md)
 
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]

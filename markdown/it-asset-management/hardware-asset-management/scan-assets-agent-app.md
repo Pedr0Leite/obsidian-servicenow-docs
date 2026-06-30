@@ -14,11 +14,11 @@ breadcrumb: [Audit hardware asset inventory, Use, Hardware Asset Management, IT 
 
 # Complete a single scan inventory audit using the ServiceNow Agent app
 
-Scan your inventory assets by using the [[agent-mobile-asset|ServiceNow Agent app]] for single scan audit records.
+Scan your inventory assets by using the ServiceNow Agent app for single scan audit records.
 
 ## Before you begin
 
-The **sn\_hamp.migrate\_hamaudit** system property is set to **true** to enable the audit enhancements introduced in the [[ham-landing-page|Hardware Asset Management]] version 15.0.0.
+The **sn\_hamp.migrate\_hamaudit** system property is set to **true** to enable the audit enhancements introduced in the Hardware Asset Management version 15.0.0.
 
 Role required: asset, sn\_itam\_common.asset\_audit\_admin or sn\_itam\_common.asset\_audit\_user
 
@@ -46,7 +46,7 @@ Role required: asset, sn\_itam\_common.asset\_audit\_admin or sn\_itam\_common.a
 
 9.  Select **Submit**.
 
-    The List of assets and [[c_Models|models]] screen is displayed, showing the scanned asset record.
+    The List of assets and models screen is displayed, showing the scanned asset record.
 
     **Note:** When the scanned asset record doesn't exist in your ServiceNow instance, the List of assets and models screen is empty. You can create an asset record for the new asset in the inventory. For more information, see [Create an asset from the inventory audit screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/inventory-audit-create-asset.md).
 
@@ -89,8 +89,3 @@ The audit result field values are updated on the **Details** tab screen. For a d
 
 [Create an asset from the inventory audit screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/inventory-audit-create-asset.md)
 
-## Related
-
-- [[agent-mobile-asset|ServiceNow Agent app]]
-- [[ham-landing-page|Hardware Asset Management]]
-- [[c_Models|Models]]

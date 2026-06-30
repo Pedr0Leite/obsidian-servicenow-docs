@@ -18,17 +18,17 @@ Determine the survey field types that should display the **Create action** optio
 
 ## Before you begin
 
-Verify that the application scope is selected as [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]]. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
+Verify that the application scope is selected as Health and Safety Incident Management. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
 
 Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[health-safety-overview|Health and Safety]]** &gt; **Health and Safety administration** &gt; **Properties**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety administration** &gt; **Properties**.
 
 2.  In the property **Survey fields enabled for action creation** add the values, such as, `checkbox,boolean,choice,long,percentage,scale,numericscale` to determine whether a specific survey field should display the **Create action** check box.
 
-    `checkbox,boolean,choice,long,percentage,scale,numericscale,imagescale,string, multiplecheckboxranking,[[reference-hr-service-delivery-advanced-integration-with-workday|reference]]` is set as the default value for this property.
+    `checkbox,boolean,choice,long,percentage,scale,numericscale,imagescale,string, multiplecheckboxranking,reference` is set as the default value for this property.
 
 3.  Select **Save**.
 
@@ -39,8 +39,3 @@ The **Create action** check box is added to the type of the survey field mention
 
 **Parent Topic:**[Manage the safety inspection and audit surveys through mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-configure-manage-safety-inspections-audits-mobile.md)
 
-## Related
-
-- [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]]
-- [[health-safety-overview|Health and Safety]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

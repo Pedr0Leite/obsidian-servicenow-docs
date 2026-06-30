@@ -15,7 +15,7 @@ breadcrumb: [Integrating Virtual Agent with Workflow Studio workflows, Exploring
 
 # Add actions or subflows to Virtual Agent topics
 
-Use the [[va-action|Action utility]] to integrate ServiceNow Workflow Studio workflows in [[virtual-agent-landing-page|Virtual Agent]] topics. The Action utility node triggers the required Workflow Studio workflows used in the Virtual Agent conversation.
+Use the Action utility to integrate ServiceNow Workflow Studio workflows in Virtual Agent topics. The Action utility node triggers the required Workflow Studio workflows used in the Virtual Agent conversation.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ If you don't already have a Virtual Agent topic, create one. For more informatio
 Become familiar with the following features:
 
 -   Workflow Studio concepts and tasks. For more information, see [Workflow Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio.md).
--   [[va-utilities|Assistant Designer utilities]], such as the [[va-lookup|Lookup utility]], and the [[va-script-action|Script Action utility]].
+-   Assistant Designer utilities, such as the Lookup utility, and the Script Action utility.
 
     Use these utilities to control the actions within the Virtual Agent conversation. For more information about these utilities, see [Assistant Designer utilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-utilities.md).
 
@@ -37,13 +37,13 @@ Become familiar with the following features:
     For more information, see [Assistant Designer controls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/virtual-agent-controls.md).
 
 
-**Note:** If you have turned on and set up [[now-assist-in-va-landing|Now Assist in Virtual Agent]], you can work with conversational actions and subflows from the home page. For more information on conversational actions and subflows, see [Conversational actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/conversational-actions.md) and [Conversational subflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/conversational-subflows.md). You can still integrate actions and subflows that are not conversational from Workflow Studio into Virtual Agent topics via . The following content is only relevant to actions or subflows that can't be made conversational in Workflow Studio.
+**Note:** If you have turned on and set up Now Assist in Virtual Agent, you can work with conversational actions and subflows from the home page. For more information on conversational actions and subflows, see [Conversational actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/conversational-actions.md) and [Conversational subflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/conversational-subflows.md). You can still integrate actions and subflows that are not conversational from Workflow Studio into Virtual Agent topics via . The following content is only relevant to actions or subflows that can't be made conversational in Workflow Studio.
 
 Role required: virtual\_agent\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Virtual Agent** &gt; **Designer**, and in the Asset library, select the topic that you want to use.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Designer**, and in the Asset library, select the topic that you want to use.
 
 2.  From the Utilities section of the palette, drag the Action utility icon \[Omitted image "action-icon.png"\] Alt text: onto the canvas at the appropriate location on the conversation flow.
 
@@ -87,7 +87,7 @@ Spoke
 
 Name of the scoped application that contains Workflow Studio content that is dedicated to a particular application or record type.
 
- For a list of default [[topic-spokes-subtab-pae|spokes]], see [Spokes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/spokes.md).
+ For a list of default spokes, see [Spokes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/spokes.md).
 
 </td></tr><tr><td>
 
@@ -163,13 +163,3 @@ No-code condition statement or low-code script that specifies a condition for pr
 
 **Parent Topic:**[Integrating Virtual Agent with Workflow Studio workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-flow-designer-integration.md)
 
-## Related
-
-- [[va-action|Action utility]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[va-utilities|Assistant Designer utilities]]
-- [[va-lookup|Lookup utility]]
-- [[va-script-action|Script Action utility]]
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[topic-spokes-subtab-pae|Spokes]]

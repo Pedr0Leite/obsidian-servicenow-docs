@@ -16,17 +16,17 @@ Survey categories provide a way to group questions of a similar theme for a give
 
 There must be at least one survey category per survey definition and every survey question must be associated with a category. When you create a survey, the system generates one category, which all the questions belong to.
 
-For simple [[r_SurveyManagementLandingPage|surveys]], one category is usually enough. Consider creating additional categories if you want to accomplish any of the following tasks.
+For simple surveys, one category is usually enough. Consider creating additional categories if you want to accomplish any of the following tasks.
 
 -   Separate groups of questions into collapsible sections by category on the survey questionnaire.
 -   Report on category scores, which are calculated based on responses for all questions within each category.
 
--   **[[t_CreateCatInSurveyDesigr|Create a category in the survey designer]]**  
+-   **[Create a category in the survey designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateCatInSurveyDesigr.md)**  
 A category represents a theme for evaluating a specific element of the survey topic and contains questions pertaining to that theme.
--   **[[t_CreateASurveyCategory|Create a survey category in a survey]]**  
+-   **[Create a survey category in a survey](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateASurveyCategory.md)**  
 You can modify an existing survey to add one or more survey categories.
 
-**Parent Topic:**[[c_SurveyDesigner|Survey designer]]
+**Parent Topic:**[Survey designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyDesigner.md)
 
 **Related topics**  
 
@@ -45,9 +45,3 @@ You can modify an existing survey to add one or more survey categories.
 
 [Configure category weights for a survey]()
 
-## Related
-
-- [[t_CreateCatInSurveyDesigr|Create a category in the survey designer]]
-- [[t_CreateASurveyCategory|Create a survey category in a survey]]
-- [[c_SurveyDesigner|Survey designer]]
-- [[r_SurveyManagementLandingPage|Surveys]]

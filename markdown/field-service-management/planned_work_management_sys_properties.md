@@ -12,7 +12,7 @@ breadcrumb: [Planned Work Management components, Components installed with addit
 
 # Planned Work Management system properties
 
-[[planned-work-management|Planned Work Management]] uses the following system properties, which are located in the System Properties \[sys\_properties\] table.
+Planned Work Management uses the following system properties, which are located in the System Properties \[sys\_properties\] table.
 
 <table id="table_zwf_nnc_zxb"><thead><tr><th>
 
@@ -46,7 +46,7 @@ sn\_fsm\_planned\_wm.valid\_order\_states\_for\_update
 
 </td><td>
 
-Maintains a list of [[work-order-states|work order states]] that can be selected to reflect the appropriate state of work orders.
+Maintains a list of work order states that can be selected to reflect the appropriate state of work orders.
 
  -   Type: choice list
 -   Default value: 1, 10, 15
@@ -79,10 +79,5 @@ Enables the effective date of a work plan to be set in the past. Support for pas
 -   Default value: Advanced
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[planned-work-components|Planned Work Management components]]
+</table>**Parent Topic:**[Planned Work Management components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/planned-work-components.md)
 
-## Related
-
-- [[planned-work-components|Planned Work Management components]]
-- [[planned-work-management|Planned Work Management]]
-- [[work-order-states|Work order states]]

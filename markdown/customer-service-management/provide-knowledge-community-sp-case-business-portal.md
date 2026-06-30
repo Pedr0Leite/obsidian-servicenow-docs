@@ -20,7 +20,7 @@ Role required: sn\_customerservice\_customer
 
 ## About this task
 
-The business portal [[r_CustomerServiceCaseForm|Case form]] displays [[osp-contextual-search|contextual search]] results based on text entered in the Subject field. These search results provide targeted solutions to customers. Customers can search for information that is related to a case when opening a case. If the search results in any related content, the customer can preview the content.
+The business portal Case form displays contextual search results based on text entered in the Subject field. These search results provide targeted solutions to customers. Customers can search for information that is related to a case when opening a case. If the search results in any related content, the customer can preview the content.
 
 **Note:** By default, search results include knowledge articles, solved questions, and pinned articles.
 
@@ -44,7 +44,4 @@ The business portal [[r_CustomerServiceCaseForm|Case form]] displays [[osp-conte
 
 6.  Select **Submit**.
 
-## Related
 
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[osp-contextual-search|Contextual search]]

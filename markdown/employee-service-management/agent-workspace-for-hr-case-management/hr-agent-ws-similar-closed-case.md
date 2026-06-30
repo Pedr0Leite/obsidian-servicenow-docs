@@ -16,7 +16,7 @@ breadcrumb: [Machine learning solutions in Agent Workspace for HR Case Managemen
 
 Help an HR agent resolve the current case by displaying similar closed cases.
 
-**Important:** This feature is available with the HR Professional and HR Enterprise packages when you activate [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]] and Predictive Intelligence applications.
+**Important:** This feature is available with the HR Professional and HR Enterprise packages when you activate Agent Workspace for HR Case Management and Predictive Intelligence applications.
 
 ## Similar Closed HR Cases
 
@@ -42,6 +42,3 @@ The Similar Closed HR Cases \(ml\_sn\_sn\_hr\_core\_global\_similar\_closed\_hr\
 
 [Auto determination of assignment group in Agent Workspace for HR Case Management]()
 
-## Related
-
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]

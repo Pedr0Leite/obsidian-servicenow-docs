@@ -14,7 +14,7 @@ breadcrumb: [Configure, CMDB Identification and Reconciliation \(IRE\), Configur
 
 # Create an IRE data source rule
 
-When using [[ire|Identification and Reconciliation Engine \(IRE\)]], you can prevent a specific discovery \(data\) source from inserting new CIs for a specific class. Create IRE data source rules for discovery sources that you don't trust in creating CIs but continue to trust in updating those CIs that exist.
+When using Identification and Reconciliation Engine \(IRE\), you can prevent a specific discovery \(data\) source from inserting new CIs for a specific class. Create IRE data source rules for discovery sources that you don't trust in creating CIs but continue to trust in updating those CIs that exist.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: sn\_cmdb\_admin or itil\_admin
 
 ## About this task
 
-IRE data source rules have no impact when dynamic [[r_ReconciliationRulesPrinciples|reconciliation rules]] are in effect.
+IRE data source rules have no impact when dynamic reconciliation rules are in effect.
 
 For example, an IP scan tool that discovers network gear but does not discover servers and therefore creates server CIs without details. You can prevent such discovery source from creating specific CIs, while still permitting it to update those specific CIs if they exist. IRE data source rules are stored in the IRE Data Source Rule \[cmdb\_ire\_data\_source\_rule\] table.
 
--   Child classes derive IRE data source rules from parent classes like [[c_IdentificationRules|identification rules]] do.
+-   Child classes derive IRE data source rules from parent classes like identification rules do.
 -   IRE data source rules that are specified for a child class, override any IRE data source rules derived from a parent class.
 
 When IRE processes an insert operation that is prohibited by an IRE data source rule, the insert operation fails. This failure happens when the discovery source and CI class in the insert operation and in an IRE data source rule, match. When [CreateOrUpdateCIEnhanced\(\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/IdentificationEngineScopedAPI.md) is used, IRE stores the failed payload in the CMDB IRE Partial Payloads \[cmdb\_ire\_partial\_payloads\] table for future potential use.
@@ -72,8 +72,3 @@ If later, a permitted discovery source successfully inserts a CI that matches th
 
 **Parent Topic:**[Configuring CMDB Identification and Reconciliation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/configuring-ire.md)
 
-## Related
-
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]
-- [[r_ReconciliationRulesPrinciples|Reconciliation rules]]
-- [[c_IdentificationRules|Identification rules]]

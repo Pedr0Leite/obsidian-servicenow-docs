@@ -12,11 +12,11 @@ breadcrumb: [Security Operations]
 
 # Enterprise security case management applications
 
-Enterprise security case management applications include [[sir-landing-page|Security Incident Response]], a security orchestration and automation response \(SOAR\) solution that helps you rapidly respond to evolving threats while optimizing and orchestrating enterprise [[security-operations-landing-page|security operations]]. It eliminates the errors and friction inherent in manual hand-offs across systems, teams, and responsibilities.
+Enterprise security case management applications include Security Incident Response, a security orchestration and automation response \(SOAR\) solution that helps you rapidly respond to evolving threats while optimizing and orchestrating enterprise security operations. It eliminates the errors and friction inherent in manual hand-offs across systems, teams, and responsibilities.
 
 ## Get started
 
-The following Security Incident Response applications are available with separate subscriptions from the ServiceNow® Store. See [[secops-and-store|Security Operations and the ServiceNow Store]] for more information about how to locate, get entitlement, and download apps onto your instance.
+The following Security Incident Response applications are available with separate subscriptions from the ServiceNow® Store. See [Security Operations and the ServiceNow Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/secops-and-store.md) for more information about how to locate, get entitlement, and download apps onto your instance.
 
 <table id="table_ukz_qnx_y1c" class="nav-card"><tbody><tr><td>
 
@@ -24,15 +24,15 @@ The following Security Incident Response applications are available with separat
 
 </td><td>
 
-[Major Security Incident Management\[Omitted image "bus-incident.svg"\] Alt text:Learn about the [[major-security-incident-management-landing-page|Major Security Incident Management]] application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/major-security-incident-management-landing-page.md)
+[Major Security Incident Management\[Omitted image "bus-incident.svg"\] Alt text:Learn about the Major Security Incident Management application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/major-security-incident-management-landing-page.md)
 
 </td><td>
 
-[Threat Intelligence\[Omitted image "bus-observable.svg"\] Alt text:Learn about the [[threat-intel-landing-page|Threat Intelligence]] application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intel-landing-page.md)
+[Threat Intelligence\[Omitted image "bus-observable.svg"\] Alt text:Learn about the Threat Intelligence application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intel-landing-page.md)
 
 </td></tr><tr><td>
 
-[Threat Intelligence Security Center\[Omitted image "bus-management-console.svg"\] Alt text:Learn about the [[tisc-landing-page|Threat Intelligence Security Center]] application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-landing-page.md)
+[Threat Intelligence Security Center\[Omitted image "bus-management-console.svg"\] Alt text:Learn about the Threat Intelligence Security Center application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-landing-page.md)
 
 </td><td>
 
@@ -40,7 +40,7 @@ The following Security Incident Response applications are available with separat
 
 </td><td>
 
-[Shared features of Security Incident Response applications\[Omitted image "bus-[[threat-intelligence-security-center-overview|explore]].svg"\] Alt text:Learn about the features that are shared among the Security Incident Response applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sec-ops-common-functionality.md)
+[Shared features of Security Incident Response applications\[Omitted image "bus-explore.svg"\] Alt text:Learn about the features that are shared among the Security Incident Response applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sec-ops-common-functionality.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -50,12 +50,3 @@ The following Security Incident Response applications are available with separat
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[secops-and-store|Security Operations and the ServiceNow Store]]
-- [[sir-landing-page|Security Incident Response]]
-- [[security-operations-landing-page|Security Operations]]
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-intelligence-security-center-overview|Explore]]

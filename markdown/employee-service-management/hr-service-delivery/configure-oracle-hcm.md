@@ -14,12 +14,12 @@ breadcrumb: [HR Service Delivery integration with Oracle Cloud HCM, Integration 
 
 # Configuring HR Service Delivery integration with Oracle Cloud HCM
 
-Set up Oracle HCM for [[hr-service-delivery|HR Service Delivery]] to pull worker data from Oracle HCM into a ServiceNow instance. View worker profiles from Oracle HCM Cloud in ServiceNow HR Service Delivery.
+Set up Oracle HCM for HR Service Delivery to pull worker data from Oracle HCM into a ServiceNow instance. View worker profiles from Oracle HCM Cloud in ServiceNow HR Service Delivery.
 
 ## Before you begin
 
 -   Role required: None
--   Activate [[integration-hr-oracle-hcm|HR Service Delivery integration with Oracle Cloud HCM]] that automatically activates [[hr-integrations-framework|Enterprise Service Management Integrations Framework]] and Oracle HCM Cloud spoke.
+-   Activate HR Service Delivery integration with Oracle Cloud HCM that automatically activates Enterprise Service Management Integrations Framework and Oracle HCM Cloud spoke.
 
     **Note:** If you are upgrading from HR Service Delivery integration with Oracle Cloud HCM V 1.0.1 to a later version, follow the instructions in this [KB article](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0997699).
 
@@ -36,7 +36,7 @@ Set up Oracle HCM for [[hr-service-delivery|HR Service Delivery]] to pull worker
 
     Allow the Restricted Caller Access records with Status = **Requested** and Source Scope = **Enterprise Service Management Integrations Framework**.
 
-3.  For better performance, index the employee number field in [[c_HRProfileRecords|HR Profile]] table and index coalesce fields in [transform maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/oracle-hcm-transform-maps.md).
+3.  For better performance, index the employee number field in HR Profile table and index coalesce fields in [transform maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/oracle-hcm-transform-maps.md).
 
     For more information, see [create a table index](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateCustomIndex.md).
 
@@ -52,9 +52,4 @@ Set up Oracle HCM for [[hr-service-delivery|HR Service Delivery]] to pull worker
 
     For more information, see [Activate schedule flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/setup-the-job.md).
 
-## Related
 
-- [[hr-service-delivery|HR Service Delivery]]
-- [[integration-hr-oracle-hcm|HR Service Delivery integration with Oracle Cloud HCM]]
-- [[hr-integrations-framework|Enterprise Service Management Integrations Framework]]
-- [[c_HRProfileRecords|HR Profile]]

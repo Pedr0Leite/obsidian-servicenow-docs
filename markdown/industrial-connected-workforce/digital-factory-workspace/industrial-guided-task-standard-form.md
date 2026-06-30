@@ -235,7 +235,7 @@ Attachment that can be used for descriptive purposes.
 </td></tr></tbody>
 </table>## Insights Overview tab
 
-The Insights Overview tab displays embedded shopfloor insights for the published standard. This tab is visible on every IGT standard record in the [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]] when the standard is not in Draft or Review state.
+The Insights Overview tab displays embedded shopfloor insights for the published standard. This tab is visible on every IGT standard record in the Digital Factory Workspace when the standard is not in Draft or Review state.
 
 **Note:** The Insights Overview tab displays data related to the published standard, showing all execution results across versions.
 
@@ -290,6 +290,3 @@ Filter by standard version to compare execution results across versions and trac
 </td></tr></tbody>
 </table>**Parent Topic:**[Industrial Guided Tasks reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/industrial-guided-tasks-reference.md)
 
-## Related
-
-- [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]

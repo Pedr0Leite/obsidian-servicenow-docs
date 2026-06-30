@@ -22,11 +22,11 @@ Role required: admin
 
 ## Procedure
 
-1.  Access [[ac-configuration-hub|Configuration Hub]] in one of the following ways.
+1.  Access Configuration Hub in one of the following ways.
 
     |Option|Steps|
     |------|-----|
-    |**Using left navigation**|Navigate to **All** &gt; **[[admin-center-intro|Admin Center]]** &gt; **Configuration Hub**.|
+    |**Using left navigation**|Navigate to **All** &gt; **Admin Center** &gt; **Configuration Hub**.|
     |**Using Admin tab option**|Navigate to **Admin** &gt; **Configuration Hub**.|
 
 2.  Select one of the product families as per your requirement.
@@ -66,7 +66,3 @@ Role required: admin
 
 **Parent Topic:**[Configuration Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/admin-center/ac-configuration-hub.md)
 
-## Related
-
-- [[ac-configuration-hub|Configuration Hub]]
-- [[admin-center-intro|Admin Center]]

@@ -23,11 +23,11 @@ Role required: sn\_sec\_tisc.analyst
 
 ## About this task
 
-Currently, the export functionality is limited to [[c_Observables|observables]], [[indicator|indicators]], and case management. The following procedure describes how you can export the observables data, and follow the same procedure to export the indicators data.
+Currently, the export functionality is limited to observables, indicators, and case management. The following procedure describes how you can export the observables data, and follow the same procedure to export the indicators data.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Threat Intel Library** &gt; **Observables** &gt; **All Observables**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center** &gt; **Threat Intel Library** &gt; **Observables** &gt; **All Observables**.
 
 2.  Select any observable record.
 
@@ -41,7 +41,7 @@ Currently, the export functionality is limited to [[c_Observables|observables]],
     -   If the selection exceeds 10,000 records, then an error message displays indicating that the maximum limit for the selected format type has been surpassed, and only the first 10,000 records will be exported.
     -   If the export format is CSV and the record limit is exceeded, an alert message is displayed indicating that the export is **in progress** state, along with a link to view the export status. You can click the link to view the status, and refresh the record. Once it moves to **processed** state you can download the attachment.
 
-        **Note:** When you export records in STIX 2.1 format Traffic Light Protocol \(TLP\) definitions applied to the intelligence object are included in the export as TLP 2.0 [[marking-definition|marking definition]] objects. For more information, see [Define Marking Definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/define-market-definition.md).
+        **Note:** When you export records in STIX 2.1 format Traffic Light Protocol \(TLP\) definitions applied to the intelligence object are included in the export as TLP 2.0 marking definition objects. For more information, see [Define Marking Definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/define-market-definition.md).
 
 5.  Select **Export**.
 
@@ -63,17 +63,9 @@ Currently, the export functionality is limited to [[c_Observables|observables]],
 
 [Access Vulnerability Downstream actions]()
 
-[Deleting [[threat-intel-landing-page|threat intelligence]] library records]()
+[Deleting threat intelligence library records]()
 
-[Confirm [[potential-relationships|Potential Relationships]] from Related Records]()
+[Confirm Potential Relationships from Related Records]()
 
 [Automated Correlation]()
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[indicator|Indicators]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[marking-definition|Marking Definition]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[potential-relationships|Potential Relationships]]

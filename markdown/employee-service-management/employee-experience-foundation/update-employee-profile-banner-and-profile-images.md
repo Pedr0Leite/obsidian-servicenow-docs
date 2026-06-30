@@ -14,7 +14,7 @@ breadcrumb: [Employee profile, Setup task management, Configuring Employee Cente
 
 # Update the Employee Profile banner and profile images
 
-Upload or update the banner and profile images for your [[emp-slate-employee-profile|Employee Profile]] page with the upgraded edit features.
+Upload or update the banner and profile images for your Employee Profile page with the upgraded edit features.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Update the banner and profile images for Employee Profile page with the enhanced
 
 ## Procedure
 
-1.  Navigate to **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **Self-Service** &gt; **Employee Center**.
 
 2.  Go to the user avatar and select **Profile**.
 
@@ -53,7 +53,3 @@ Update the banner and profile images for Employee Profile page with the enhanced
 
 The user can customize the banner and profile images according to their preferences with the upgraded edit features.
 
-## Related
-
-- [[emp-slate-employee-profile|Employee profile]]
-- [[employee-center-landing-page|Employee Center]]

@@ -14,7 +14,7 @@ breadcrumb: [Working with Security Incident Records, Use, Security Incident Resp
 
 # Update information in security incident related records
 
-Edit related records for a security incident in [[sir-workspace-landing-page|Security Incident Response Workspace]] directly from the **Related Records** tab without having to leave the current context.
+Edit related records for a security incident in Security Incident Response Workspace directly from the **Related Records** tab without having to leave the current context.
 
 ## Before you begin
 
@@ -35,7 +35,7 @@ Role required: sn\_si.analyst
 
 4.  Open the related records tab for which you want to update information.
 
-    For example, to update the associated [[c_Observables|observables]] records of a security incident, you would select **Threat Intel** and then select **Associated Observables**.
+    For example, to update the associated observables records of a security incident, you would select **Threat Intel** and then select **Associated Observables**.
 
 5.  Select the fields to update.
 
@@ -71,7 +71,3 @@ Role required: sn\_si.analyst
 
 [View and filter the incident timeline]()
 
-## Related
-
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[c_Observables|Observables]]

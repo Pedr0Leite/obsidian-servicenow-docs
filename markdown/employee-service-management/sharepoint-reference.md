@@ -12,11 +12,11 @@ breadcrumb: [SharePoint Online Search Connector, Employee Service Management]
 
 # SharePoint Online Search Connector reference
 
-The [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] topics for the application provide additional information about the [[sharepoint-search-overview|SharePoint Online Search Connector]] settings, content types, and features.
+The reference topics for the application provide additional information about the SharePoint Online Search Connector settings, content types, and features.
 
 ## Crawl constraints
 
-For more information on crawl types, see [[sp-crawl-types|Microsoft SharePoint crawl types]].
+For more information on crawl types, see [Microsoft SharePoint crawl types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/sp-crawl-types.md).
 
 -   The time of crawling may vary, based on the content size.
 -   The documents are available for search after a successful crawl. For more information on crawl types, see [Microsoft SharePoint crawl types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/sp-crawl-types.md).
@@ -25,7 +25,7 @@ For more information on crawl types, see [[sp-crawl-types|Microsoft SharePoint c
 
 ## Scheduled job frequency
 
-The default-scheduled job frequency is set to maximize the performance. For more information, see [[sharepoint-scheduled-jobs-full-crawl|SharePoint Online Search Connector scheduled jobs]].
+The default-scheduled job frequency is set to maximize the performance. For more information, see [SharePoint Online Search Connector scheduled jobs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/sharepoint-scheduled-jobs-full-crawl.md).
 
 ## Look up file permissions
 
@@ -43,12 +43,5 @@ The **sn\_sp\_con.sharepoint\_batch\_size** property controls the size of the ba
 
 ## Delegated permissions and Application permissions
 
-When you want the search results to display only the published versions of a document, ensure you select **Application permissions** instead of the **Delegated permissions** while configuring the permissions explained in [[setup-sp-ovrvw|Configure the Microsoft SharePoint tenant]]. Admins can limit indexing only the published versions only, ensuring that drafts or unfinished work are not displayed in the search results.​
+When you want the search results to display only the published versions of a document, ensure you select **Application permissions** instead of the **Delegated permissions** while configuring the permissions explained in [Configure the Microsoft SharePoint tenant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/setup-sp-ovrvw.md). Admins can limit indexing only the published versions only, ensuring that drafts or unfinished work are not displayed in the search results.​
 
-## Related
-
-- [[sp-crawl-types|Microsoft SharePoint crawl types]]
-- [[sharepoint-scheduled-jobs-full-crawl|SharePoint Online Search Connector scheduled jobs]]
-- [[setup-sp-ovrvw|Setting up the SharePoint Online Search Connector]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[sharepoint-search-overview|SharePoint Online Search Connector]]

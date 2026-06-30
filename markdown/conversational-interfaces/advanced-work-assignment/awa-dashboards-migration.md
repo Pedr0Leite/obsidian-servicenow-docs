@@ -14,7 +14,7 @@ breadcrumb: [Platform Analytics Solutions for Advanced Work Assignment, Analytic
 
 # Migrating Advanced Work Assignment Dashboards
 
-Migrating the [[awa-application-landing-page|Advanced Work Assignment]] CoreUI dashboards to Next Experience increases the product adoption of key platform capabilities to drive customer benefit.
+Migrating the Advanced Work Assignment CoreUI dashboards to Next Experience increases the product adoption of key platform capabilities to drive customer benefit.
 
 The new Advanced Work Assignment users see the Next Experience dashboards by default.
 
@@ -24,7 +24,7 @@ The existing users will not see their custom changes on the new dashboards by de
 
 All the AWA Core UI dashboards have been migrated to Next Experience.
 
-\[Omitted image "NExp-awa-operations-dashboard.png"\] Alt text: AWA [[operations-dashboard|Operations dashboard]] migrated to Next Experience.
+\[Omitted image "NExp-awa-operations-dashboard.png"\] Alt text: AWA Operations dashboard migrated to Next Experience.
 
 \[Omitted image "NExp-awa-interactions-dashboard.png"\] Alt text: AWA Interactions dashboard migrated to Next Experience.
 
@@ -32,7 +32,3 @@ All the AWA Core UI dashboards have been migrated to Next Experience.
 
 \[Omitted image "NExp-awa-messaging-dashboard.png"\] Alt text: AWA Messaging dashboard migrated to Next Experience.
 
-## Related
-
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[operations-dashboard|Operations dashboard]]

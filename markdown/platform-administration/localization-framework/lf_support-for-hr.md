@@ -14,16 +14,16 @@ breadcrumb: [Explore Localization Framework, Localization Framework, Translation
 
 # Localization Framework support for HR Service Delivery
 
-[[localization-framework-landing|Localization Framework]] extends its framework capabilities to Document Templates and Document Template Block Contents in HR Service Delivery.
+Localization Framework extends its framework capabilities to Document Templates and Document Template Block Contents in HR Service Delivery.
 
 ## Localizing Document Templates
 
 The extension of the Localization Framework capabilities to HR Service Delivery enables you to do the following tasks:
 
--   Select multiple languages from the available languages in the instance to configure settings either with the Document Template Block Content or HTML Document Template artifacts. To configure [[ia-localization-il|localization]] settings, see [Localization Framework settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/localization-settings.md).
+-   Select multiple languages from the available languages in the instance to configure settings either with the Document Template Block Content or HTML Document Template artifacts. To configure localization settings, see [Localization Framework settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/localization-settings.md).
 -   Translate the template content manually, through machine translation, or by using export and import.
 
-    **Note:** Activate the [[dynamic-translation|Dynamic Translation]] plugin \(com.glide.dynamic\_translation\) to use machine translation in Localization Framework.
+    **Note:** Activate the Dynamic Translation plugin \(com.glide.dynamic\_translation\) to use machine translation in Localization Framework.
 
 -   Publish the translation.
 
@@ -31,8 +31,3 @@ For more information about translating the Document Templates, see [Use Localiza
 
 **Parent Topic:**[Explore Localization Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/exploring-localization-framework.md)
 
-## Related
-
-- [[localization-framework-landing|Localization Framework]]
-- [[ia-localization-il|Localization]]
-- [[dynamic-translation|Dynamic translation]]

@@ -96,7 +96,7 @@ Scope items follow the access model of the assessment instance:
 
 ## Tables used by the scope feature
 
-The assessment scope is supported by two tables in the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] data model:
+The assessment scope is supported by two tables in the Smart Assessment Engine data model:
 
 -   **Scope item \[sn\_smart\_asmt\_scope\_item\]**
 
@@ -109,6 +109,3 @@ The assessment scope is supported by two tables in the [[smart-asmnt-engine-land
 
 For a full list of tables installed by Smart Assessment Engine, see [Tables installed in Smart Assessment Engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/tables-installed-in-smart-assessment-engine.md).
 
-## Related
-
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]

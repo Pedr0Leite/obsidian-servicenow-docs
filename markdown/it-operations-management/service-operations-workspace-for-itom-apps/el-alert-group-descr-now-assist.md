@@ -34,7 +34,7 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
 2.  In the navigation bar, select the Express List icon \(\[Omitted image "express-list1.png"\] Alt text: Express List icon.\).
 
@@ -51,6 +51,3 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 
 **Parent Topic:**[Viewing an alert group analysis by Now Assist in Express List](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/el-alert-group-analysis.md)
 
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]

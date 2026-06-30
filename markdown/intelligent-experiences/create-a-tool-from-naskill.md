@@ -12,17 +12,17 @@ breadcrumb: [Create a tool, Configure, MCP Server Console, Enable AI experiences
 
 # Create a tool from Now Assist skill
 
-Create a tool from [[now-assist-skills|Now Assist skills]] to expose it to Model Context Protocol \(MCP\) clients from an MCP Server.
+Create a tool from Now Assist skills to expose it to Model Context Protocol \(MCP\) clients from an MCP Server.
 
 ## Before you begin
 
 Role required: sn\_mcp\_server.tools\_admin, sn\_mcp\_server.admin, or admin
 
-Prebuilt and custom Now Assist skills are organized as governed MCP tools, enabling seamless discovery and accessibility for any standards-conforming MCP client. This structure enhances usability and encourages effective integration of these skills across various platforms. See [[now-assist-skill-support-mcp|Now Assist skill support in MCP Server Console]] to learn about the pre-configured Now Assist skills.
+Prebuilt and custom Now Assist skills are organized as governed MCP tools, enabling seamless discovery and accessibility for any standards-conforming MCP client. This structure enhances usability and encourages effective integration of these skills across various platforms. See [Now Assist skill support in MCP Server Console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-support-mcp.md) to learn about the pre-configured Now Assist skills.
 
 ## Procedure
 
-1.  Select [[platform-now-assist-landing|Now Assist]] skill from these categories.
+1.  Select Now Assist skill from these categories.
 
     \[Omitted image "mcp-create-tool-moveworks.png"\] Alt text: Tool creation
 
@@ -75,11 +75,6 @@ MCP Servers
 One or more servers you want to add your tool to.
 
 </td></tr></tbody>
-</table>    In the Tool inputs section, the fields associated with the capability are added. See [[create-tool-mcp-server|Create a tool for a Model Context Protocol server]] to learn more. The tool is now published on the MCP Servers and discoverable by MCP clients.
+</table>    In the Tool inputs section, the fields associated with the capability are added. See [Create a tool for a Model Context Protocol server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/create-tool-mcp-server.md) to learn more. The tool is now published on the MCP Servers and discoverable by MCP clients.
 
-## Related
 
-- [[now-assist-skill-support-mcp|Now Assist skill support in MCP Server Console]]
-- [[create-tool-mcp-server|Create a tool for a Model Context Protocol server]]
-- [[now-assist-skills|Now Assist skills]]
-- [[platform-now-assist-landing|Now Assist]]

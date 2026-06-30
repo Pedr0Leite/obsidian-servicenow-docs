@@ -81,9 +81,9 @@ Track Versions
 
 </td><td>
 
-To view or create [[document-mgt-versions|document versions]], go to the document file1.  Select **Track Versions**.
+To view or create document versions, go to the document file1.  Select **Track Versions**.
 2.  To create a new version, select **Create new version**.
-3.  Enter the document name and select the **File type** as an **[[attachment|Attachment]]** or **URL**.
+3.  Enter the document name and select the **File type** as an **Attachment** or **URL**.
 4.  For attachment, select **Upload attachment** and attach the file, for URL, enter the URL.
 5.  Select **Save version**.
 
@@ -103,7 +103,7 @@ Manage Permissions
 
 </td></tr><tr><td>
 
-[[c_Connect|Connect]] external cloud
+Connect external cloud
 
 </td><td>
 
@@ -129,8 +129,3 @@ Select **Remove** to delete the document or the link to the document without act
 </table>
 **Parent Topic:**[Document Management in Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/document-management-workspace.md)
 
-## Related
-
-- [[document-mgt-versions|Document versions]]
-- [[attachment|Attachment]]
-- [[c_Connect|Connect]]

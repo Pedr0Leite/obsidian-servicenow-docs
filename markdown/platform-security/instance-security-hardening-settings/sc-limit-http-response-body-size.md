@@ -16,7 +16,7 @@ breadcrumb: [File and resources, Hardening settings, Platform Security]
 
 Configure the **glide.http.response.get\_body.limit.enabled** and **glide.http.response.get\_body.limit** properties to protect your instance against OutOfMemoryExceptions.
 
-Prevent `OutOfMemoryExceptions` that can result from a [[c_requestAPI|request]] response body being too large using the **glide.http.response.get\_body.limit.enabled** and **glide.http.response.get\_body.limit** [[ca-system-properties|system properties]]. These exceptions can cause denial of service \(DOS\) attacks as well as other issues that may aid attackers in compromising an instance. Not setting these properties to the recommended values could make your instance vulnerable to OutOfMemoryExceptions and denial of service attacks.
+Prevent `OutOfMemoryExceptions` that can result from a request response body being too large using the **glide.http.response.get\_body.limit.enabled** and **glide.http.response.get\_body.limit** system properties. These exceptions can cause denial of service \(DOS\) attacks as well as other issues that may aid attackers in compromising an instance. Not setting these properties to the recommended values could make your instance vulnerable to OutOfMemoryExceptions and denial of service attacks.
 
 To protect your instance against these security vulnerabilities:
 
@@ -35,7 +35,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -110,8 +110,3 @@ This property reduces the chances of an OutOfMemoryException due to a customer a
 </td></tr></tbody>
 </table>**Parent Topic:**[File and resources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-file-resources.md)
 
-## Related
-
-- [[c_requestAPI|request]]
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]

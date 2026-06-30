@@ -15,11 +15,11 @@ breadcrumb: [Legal and Contract Operations, Employee Service Management]
 
 # Contract Management Pro
 
-The ServiceNow® Contract Management Pro solution enables you to set up contract [[document-templates-overview|document templates]], clauses, and clause variations, and to initiate contract and amendmentrequests. It also supports Now Assist driven contract analysis and metadata extraction, e-signatures, wet signatures, and external storage systems.
+The ServiceNow® Contract Management Pro solution enables you to set up contract document templates, clauses, and clause variations, and to initiate contract and amendmentrequests. It also supports Now Assist driven contract analysis and metadata extraction, e-signatures, wet signatures, and external storage systems.
 
-You can use the actionable widgets on [[cncore-contract-workspace|Contract Workspace]] to categorize, prioritize, and efficiently work on contract requests.
+You can use the actionable widgets on Contract Workspace to categorize, prioritize, and efficiently work on contract requests.
 
-With [[cncore-contracts-dashboard|Contracts Dashboard]], you can analyze the various contract request trends and also get insights into the volume of contract requests that are handled by your team.
+With Contracts Dashboard, you can analyze the various contract request trends and also get insights into the volume of contract requests that are handled by your team.
 
 The following video provides an overview of Contract Management Pro.\[Omitted video\] Description: Video providing an overview of Contract Management Pro and its capabilities. Approximately four minutes long.
 
@@ -57,7 +57,7 @@ The following video provides an overview of Contract Management Pro.\[Omitted vi
 
 </td><td>
 
-[Now Assist in Contract Management\[Omitted image "bus-ai-sparkle.svg"\] Alt text:Use [[cncore-now-assit-landing|Now Assist in Contract Management]] to enhance user productivity using generative AI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-now-assit-landing.md)
+[Now Assist in Contract Management\[Omitted image "bus-ai-sparkle.svg"\] Alt text:Use Now Assist in Contract Management to enhance user productivity using generative AI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-now-assit-landing.md)
 
 </td><td>
 
@@ -80,7 +80,7 @@ Some ServiceNow resources that can provide you with helpful information are:
 
     Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html?).
 
--   **\[Omitted image "dcx-icon-[[exploring-learning-exp|learning]].svg"\] ServiceNow University**
+-   **\[Omitted image "dcx-icon-learning.svg"\] ServiceNow University**
 
     Access real-time courses, self-paced training, and career resources from [ServiceNow University](https://learning.servicenow.com/lxp/en/general/contract-management-pro-cmp-implementation-bootcamp-on-demand?id=learning_course_prev&course_id=87e103898707d21c3a3a84c7cebb35d9).
 
@@ -88,10 +88,4 @@ Some ServiceNow resources that can provide you with helpful information are:
 
     Learn more about specific known errors, along with workarounds if any, from the [Known Error Portal](https://support.servicenow.com/kb?id=known_error_portal).
 
-## Related
 
-- [[document-templates-overview|Document Templates]]
-- [[cncore-contract-workspace|Contract Workspace]]
-- [[cncore-contracts-dashboard|Contracts Dashboard]]
-- [[cncore-now-assit-landing|Now Assist in Contract Management]]
-- [[exploring-learning-exp|Learning]]

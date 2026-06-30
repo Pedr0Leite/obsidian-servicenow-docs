@@ -18,13 +18,9 @@ The following table describes some of the common IdP connection errors and their
 
 |Error messages|Solution|
 |--------------|--------|
-|User Field validation failed. Invalid User Field '&lt;field name&gt;' is not a field on sys\_user table.|Verify the contents of the User table field you selected matches the [[c_SAML2.0WebBrowserSSOProfile|SAML]] NameID token.|
-|Assertion issuer is invalid.|Verify **[[identity-landing|Identity]] Provider URL** contains a valid URL to your IdP. Each IdP URL must be unique.|
+|User Field validation failed. Invalid User Field '&lt;field name&gt;' is not a field on sys\_user table.|Verify the contents of the User table field you selected matches the SAML NameID token.|
+|Assertion issuer is invalid.|Verify **Identity Provider URL** contains a valid URL to your IdP. Each IdP URL must be unique.|
 |AudienceRestriction validation failed.|Verify the **Audience URI** contains a valid URL to your instance.|
 |Cannot logout of IdP's session.|Verify the **SingleLogoutRequest** URL contains a valid URL to your IdP's logout service.|
 |Signature did not validate against the credential's key.|Verify the IdP has a valid certificate installed.|
 
-## Related
-
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[identity-landing|Identity]]

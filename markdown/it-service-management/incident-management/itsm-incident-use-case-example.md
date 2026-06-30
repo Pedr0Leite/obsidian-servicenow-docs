@@ -14,11 +14,11 @@ breadcrumb: [Applying CSDM guidelines to Incident Management, Configuring Incide
 
 # Incident Management use case
 
-[[c_IncidentManagement|Incident Management]] restores normal service operation, while also minimizing impact to your business and maintaining the quality of your data.
+Incident Management restores normal service operation, while also minimizing impact to your business and maintaining the quality of your data.
 
 ## Incident Management Use Case
 
-Use Incident Management to [[create-an-incident|create an incident]] that captures information about the asset-related CIs. An incident keeps a record of the updated, repaired, swapped, or retired CIs.
+Use Incident Management to create an incident that captures information about the asset-related CIs. An incident keeps a record of the updated, repaired, swapped, or retired CIs.
 
 By keeping track of the assets, you can tell where the assets are located, how they are used, and when changes were made to them. This information helps you systematically monitor and manage the assets in your company.
 
@@ -47,7 +47,3 @@ Use the Incident form to see the impact of an incident and restore affected serv
 
 **Parent Topic:**[Applying CSDM guidelines to Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/itsm-incident-use-case-product-view.md)
 
-## Related
-
-- [[c_IncidentManagement|Incident Management]]
-- [[create-an-incident|Create an incident]]

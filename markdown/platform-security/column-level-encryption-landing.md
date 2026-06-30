@@ -16,13 +16,13 @@ Column Level Encryption permits and denies access to encrypted data based on use
 
 **Important:**
 
-Starting with the Zurich release, Column Level Encryption \(CLE\) and [[now-platform-encryption-2|Column Level Encryption Enterprise]] \(CLEE\) are being prepared for future deprecation. They will be hidden and no longer activated on new instances but will continue to be supported. [[field-encryption|Field Encryption]] and [[now-platform-encryption|Field Encryption Enterprise]] provide the latest experience for this functionality.
+Starting with the Zurich release, Column Level Encryption \(CLE\) and Column Level Encryption Enterprise \(CLEE\) are being prepared for future deprecation. They will be hidden and no longer activated on new instances but will continue to be supported. [Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/field-encryption.md) and [Field Encryption Enterprise](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/now-platform-encryption.md) provide the latest experience for this functionality.
 
 For details, see the Deprecation Process \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] article in the Now Support knowledge base.
 
 With Column Level Encryption, you can encrypt specific fields within your tables, as opposed to encrypting the entire table or database. Use this method to help ensure that your sensitive data remains protected without the need to encrypt and entire table. The ability to encrypt only the portions of your tables that require it helps to reduce the time spent encrypting and decrypting data.
 
-Column Level Encryption grants access to encrypted data based on a user's role. Because of this approach, [[users|users]] must be associated with a role to view data encrypted by Column Level Encryption. Users can be associated with a role directly, or they can be assigned to a group that is associated with a role. This role-based approach simplifies the process of making sure that your data is visible only to users who need it.
+Column Level Encryption grants access to encrypted data based on a user's role. Because of this approach, users must be associated with a role to view data encrypted by Column Level Encryption. Users can be associated with a role directly, or they can be assigned to a group that is associated with a role. This role-based approach simplifies the process of making sure that your data is visible only to users who need it.
 
 
 
@@ -53,22 +53,12 @@ In this example, you can see four users attempting to access data stored in two 
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
--   **[[exploring-column-level-encryption|Exploring Column Level Encryption]]**  
+-   **[Exploring Column Level Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/exploring-column-level-encryption.md)**  
 Learn more about Field Encryption.
--   **[[configuring-column-level-encryption-2|Configuring Column Level Encryption]]**  
+-   **[Configuring Column Level Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/configuring-column-level-encryption-2.md)**  
 Learn how to activate and configure Column Level Encryption and manage migration from Encryption Support.
--   **[[using-column-level-encryption-2|Using Column Level Encryption]]**  
+-   **[Using Column Level Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/using-column-level-encryption-2.md)**  
 Use Column Level Encryption to manage access to encrypted data on your instances.
 
-**Parent Topic:**[[encryption-landing|Encryption]]
+**Parent Topic:**[Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/encryption-landing.md)
 
-## Related
-
-- [[field-encryption|Field Encryption]]
-- [[now-platform-encryption|Field Encryption Enterprise]]
-- [[exploring-column-level-encryption|Exploring Column Level Encryption]]
-- [[configuring-column-level-encryption-2|Configuring Column Level Encryption]]
-- [[using-column-level-encryption-2|Using Column Level Encryption]]
-- [[encryption-landing|Encryption]]
-- [[now-platform-encryption-2|Column Level Encryption Enterprise]]
-- [[users|Users]]

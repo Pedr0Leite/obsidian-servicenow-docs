@@ -22,7 +22,7 @@ Role required: sn\_channel\_mgmt.admin
 
 ## About this task
 
-Add the [Channel Management reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/configurable-wfo-itsm-channel-management-reference.md) that are by default configured with [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]] or create a new KPI report that matters the most to you. Key performance indicators help managers perform the following actions:
+Add the [Channel Management reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/configurable-wfo-itsm-channel-management-reference.md) that are by default configured with Workforce Optimization for ITSM or create a new KPI report that matters the most to you. Key performance indicators help managers perform the following actions:
 
 -   Review real-time performance as the team is actively working on tasks across channels and queues.​
 -   Track progress against KPIs and drill down into agents, team, and individual performance.​
@@ -76,7 +76,7 @@ For more information on the properties, see [Channel Management components in Wo
     5.  Select **Channel Management Groups Filter**.
     6.  Select the Interactive filter references related list and select **New**.
 
-        The Interactive Filter [[reference-for-itsm-mobile-agent|Reference]] - Channel Management Groups Filter page appears.
+        The Interactive Filter Reference - Channel Management Groups Filter page appears.
 
     7.  Select the KPI report's table name and field name. For more information, see [Create a reference field interactive filter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/t_CreateAReferenceFieldPublisher.md).
     8.  Select **Submit**.
@@ -90,7 +90,3 @@ For more information on the properties, see [Channel Management components in Wo
 
 **Parent Topic:**[Setting up Channels in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/setup-channels-configurable-workforce-optimization-itsm.md)
 
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]
-- [[reference-for-itsm-mobile-agent|Reference]]

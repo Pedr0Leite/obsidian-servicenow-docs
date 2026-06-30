@@ -28,7 +28,7 @@ You can associate a feedback or product idea record with only one planning item 
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace**.
 
 2.  Select **Feedback**.
 
@@ -44,6 +44,4 @@ You can associate a feedback or product idea record with only one planning item 
 
     You can view associated Planning items from **Planning items** tab. Demands that are in the completed state cannot be associated with a product idea or feedback.
 
-## Related
 
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

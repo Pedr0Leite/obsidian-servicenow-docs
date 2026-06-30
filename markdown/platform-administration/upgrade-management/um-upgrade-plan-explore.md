@@ -20,7 +20,7 @@ Navigate to Upgrade Plan using one of the following ways.
 
 |Option|Navigation|
 |------|----------|
-|Using left navigation|Navigate to **All** &gt; **[[admin-center-intro|Admin Center]]** &gt; **[[um-landing-page|Upgrade Console]]** &gt; **Upgrade Plan**.|
+|Using left navigation|Navigate to **All** &gt; **Admin Center** &gt; **Upgrade Console** &gt; **Upgrade Plan**.|
 |Using Admin tab option|Navigate to **Admin** &gt; **Upgrade Console** &gt; **Upgrade Plan**.|
 
 You will need the following instances to use Upgrade Plan.
@@ -41,7 +41,7 @@ Starting in the Yokohama release, customizations and skipped records are not a p
 
 You will see one of the following modal messages depending on the scenario:
 
--   First time user: When you are [[uc-building-upgrade-plan|building your Upgrade Plan]] for the first time \(the property is disabled by default\)
+-   First time user: When you are building your Upgrade Plan for the first time \(the property is disabled by default\)
 
     \[Omitted image "uc\_up\_first\_time\_user.png"\] Alt text: Screenshot showing first time user for Upgrade Plan
 
@@ -118,8 +118,3 @@ During the consumption of the upgrade plan, the following operations are done in
 
 See [Upgrade Plans tool in Upgrade Console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-upgrade-plans-tool.md) for more information.
 
-## Related
-
-- [[admin-center-intro|Admin Center]]
-- [[um-landing-page|Upgrade Console]]
-- [[uc-building-upgrade-plan|Building your Upgrade Plan]]

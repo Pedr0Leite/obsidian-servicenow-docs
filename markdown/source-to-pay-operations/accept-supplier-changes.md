@@ -13,7 +13,7 @@ breadcrumb: [Resolving purchase order exceptions, Use, Purchase Order Management
 
 # Update a purchase order to accept supplier changes
 
-After an exception is assigned to you, check the impacted [[purchase-order-table|purchase order]] and accept the [[supplier|supplier]] suggested changes.
+After an exception is assigned to you, check the impacted purchase order and accept the supplier suggested changes.
 
 ## Before you begin
 
@@ -21,9 +21,9 @@ Role required: sn\_poem\_core.operational\_buyer
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Source-to-Pay Workspace**.
 
-2.  Select the **[[purchase-order-mgmt-landing-page|Purchase order management]]** tab.
+2.  Select the **Purchase order management** tab.
 
 3.  Select an open exception that you want to work on.
 
@@ -40,12 +40,5 @@ Role required: sn\_poem\_core.operational\_buyer
 
 The supplier proposed changes to the quantity or delivery date, or both are updated in the purchase order. This purchase order revision can then be routed for approval.
 
-**Parent Topic:**[[resolving-purchase-order-exceptions|Resolving purchase order exceptions]]
+**Parent Topic:**[Resolving purchase order exceptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/resolving-purchase-order-exceptions.md)
 
-## Related
-
-- [[resolving-purchase-order-exceptions|Resolving purchase order exceptions]]
-- [[purchase-order-table|Purchase order]]
-- [[supplier|Supplier]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[purchase-order-mgmt-landing-page|Purchase Order Management]]

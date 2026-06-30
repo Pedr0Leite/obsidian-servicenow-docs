@@ -14,7 +14,7 @@ breadcrumb: [Proofpoint Integration for Security Operations, Security Incident R
 
 # Configuring the Proofpoint Integration for Security Operations
 
-Configure your implementation of the [[proofpoint-integration-secops-landing|Proofpoint Integration for Security Operations]].
+Configure your implementation of the Proofpoint Integration for Security Operations.
 
 ## Configuration overview
 
@@ -30,6 +30,4 @@ Configure your implementation of the [[proofpoint-integration-secops-landing|Pro
 
     Review the integration settings for creating the event profiles.
 
-## Related
 
-- [[proofpoint-integration-secops-landing|Proofpoint Integration for Security Operations]]

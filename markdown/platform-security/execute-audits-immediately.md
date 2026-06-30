@@ -24,7 +24,7 @@ You cannot run individual audits manually. You can, however, run all audits that
 
 ## Procedure
 
-1.  In the [[domain-separation-center|Domain Separation Center]], click **Audit Schedules**.
+1.  In the Domain Separation Center, click **Audit Schedules**.
 
 2.  Click the name of the audit schedule you want to run \(for example, daily, weekly, or monthly\).
 
@@ -35,6 +35,3 @@ You cannot run individual audits manually. You can, however, run all audits that
 
 To see the status of a running audit, in the Domain Separation Center, click the number in the **Running Audits** box.
 
-## Related
-
-- [[domain-separation-center|Domain Separation Center]]

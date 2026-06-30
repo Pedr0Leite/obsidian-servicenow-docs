@@ -14,7 +14,7 @@ breadcrumb: [Mobile experience for Emergency Response Management, Safe Workplace
 
 # Report your health status in Now Mobile
 
-Use the Now® Mobile app to [[emp-check-in-emergency-outreach|report your health status]].
+Use the Now® Mobile app to report your health status.
 
 ## Before you begin
 
@@ -24,13 +24,13 @@ To access this content, you must have the [Now Mobile](https://raw.githubusercon
 
 ## About this task
 
-From the [[mobile-emergency-response|Safe Workplace for mobile]] app, users can access applications from the [[emergency-response-management|Emergency Response Management]] and [[safe-workplace|Safe Workplace]] product suites.
+From the Safe Workplace for mobile app, users can access applications from the Emergency Response Management and Safe Workplace product suites.
 
 **Note:** The Emergency Response Management for Now® Mobile app was renamed to Safe Workplace for mobile.
 
 ## Procedure
 
-1.  Open the [[mobile-employee-experience|Now Mobile app]].
+1.  Open the Now Mobile app.
 
 2.  At the top of the Health page, click the quick action icon \[Omitted image "quick-action-icon.png"\] Alt text: Quick action icon. to open the self-report applet.
 
@@ -45,10 +45,3 @@ From the [[mobile-emergency-response|Safe Workplace for mobile]] app, users can 
 
 **Parent Topic:**[Safe Workplace for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace-for-mobile/mobile-emergency-response.md)
 
-## Related
-
-- [[emp-check-in-emergency-outreach|Report your health status]]
-- [[mobile-emergency-response|Safe Workplace for mobile]]
-- [[emergency-response-management|Emergency Response Management]]
-- [[safe-workplace|Safe Workplace]]
-- [[mobile-employee-experience|Now Mobile app]]

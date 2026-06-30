@@ -34,7 +34,7 @@ Role required: it\_project\_manager
 
 6.  Select **Open Record**.
 
-7.  On the [[monetary-benefit-plan-breakdown-form|Monetary Benefit Plan Breakdown form]], view and update the enabled fields.
+7.  On the Monetary Benefit Plan Breakdown form, view and update the enabled fields.
 
     For more information, see [Monetary Benefit Plan Breakdown form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/monetary-benefit-plan-breakdown-form.md).
 
@@ -52,6 +52,3 @@ Role required: it\_project\_manager
 
 [Create a non-monetary benefit plan for a project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/create-a-non-monetary-benefit-plan-for-a-project.md)
 
-## Related
-
-- [[monetary-benefit-plan-breakdown-form|Monetary Benefit Plan Breakdown form]]

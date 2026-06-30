@@ -14,12 +14,12 @@ breadcrumb: [Use, Process Mining, Platform Analytics]
 
 # Viewing scheduled tasks
 
-From the **Scheduled Tasks** panel, view statuses and access the results of on-demand scheduled mining tasks, such as a requested [[cluster-analysis|cluster analysis]] or applied filter view.
+From the **Scheduled Tasks** panel, view statuses and access the results of on-demand scheduled mining tasks, such as a requested cluster analysis or applied filter view.
 
 The **Scheduled Tasks** panel shows the Queued, In progress, Error, or Complete statuses of these scheduled mining tasks:
 
 -   Cluster analysis requests
--   Linked [[process-mining|process mining]]
+-   Linked process mining
 -   Applying filters, breakdowns, transitions, and routes
 
 \[Omitted image "scheduled-tasks.png"\] Alt text: Scheduled Tasks panel - example task in progress
@@ -33,7 +33,3 @@ You can further access their results or views from the **Scheduled Tasks** panel
 
 **Parent Topic:**[Using Process Mining](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/use-process-mining.md)
 
-## Related
-
-- [[cluster-analysis|Cluster analysis]]
-- [[process-mining|Process Mining]]

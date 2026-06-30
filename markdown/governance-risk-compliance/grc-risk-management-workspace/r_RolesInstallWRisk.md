@@ -46,7 +46,7 @@ The risk reader can do the following in the Risk Management application:
 -   Have read-access to risks.
 -   Take old risk assessment.
 -   Have read-access to risk statement and risk framework.
--   Perform [[advanced-risk-assessment|advanced risk assessment]].
+-   Perform advanced risk assessment.
 -   Create risk events.
 -   Work on risk event tasks and issues.
 -   Access all risk events and risk dashboards.
@@ -64,7 +64,7 @@ Risk User\[sn\_risk.user\]
 
 </td><td>
 
-Contains the reader and business user roles in sn\_grc scope, and the reader role in the Risk Management application and business user role in the sn\_grc scope. In addition to the inherited permissions, the risk user can view:-   [[entity-type-in-risk-ws|entity types]]
+Contains the reader and business user roles in sn\_grc scope, and the reader role in the Risk Management application and business user role in the sn\_grc scope. In addition to the inherited permissions, the risk user can view:-   entity types
 -   entities
 -   risks
 -   remediation tasks
@@ -72,7 +72,7 @@ Contains the reader and business user roles in sn\_grc scope, and the reader rol
 -   control objectives
 -   policy exceptions
 
-The risk user can also create risks. The risk user can be assigned risks and has read-only access to the [[r_PolicyComplianceMgmt|Policy and Compliance Management]] application and modules. Risk user can do everything that the risk reader can do. The risk reader can do the following in the Risk Management application:
+The risk user can also create risks. The risk user can be assigned risks and has read-only access to the Policy and Compliance Management application and modules. Risk user can do everything that the risk reader can do. The risk reader can do the following in the Risk Management application:
 
 -   Work on risk acceptance tasks and remediation tasks.
 -   Create risks.
@@ -96,21 +96,21 @@ Risk Manager\[sn\_risk.manager\]
 </td><td>
 
 Contains the reader, user, and manager roles in sn\_grc scope, and the reader and user roles in the Risk Management application. In addition to the inherited permissions, the risk manager can do the following in the GRC scope-   Create issues and issue ratings.
--   Create entity, entity types, and [[entity-class-in-risk-ws|entity classes]] and class rules.
+-   Create entity, entity types, and entity classes and class rules.
 -   Create content references.
 -   Create indicators and indicator templates.
--   Have read-access to [[entity-tier|entity tier]].
+-   Have read-access to entity tier.
 
 In the Risk Management application, the risk manager can:
 
 -   Create risk frameworks
 -   Create risk statements
 -   Create risks
--   [[create-risk-event-response-template|Create risk event response template]].
+-   Create risk event response template.
 -   Create risk identifications and can view the dashboard related to risk identification.
 -   Create remediation tasks.
 -   Create assessment scheduler.
--   Associate risk statements to [[information-objects|Information objects]] using Associate risk statements module.
+-   Associate risk statements to Information objects using Associate risk statements module.
 
 </td><td>
 
@@ -123,7 +123,7 @@ Risk Admin\[sn\_risk.admin\]
 
 </td><td>
 
-Contains the reader, user, manager, and admin roles in sn\_grc scopes, and the reader, user, and manager roles in the Risk Management application. In addition to the inherited permissions, in the GRC scope, the risk admin can [[create-new-entity-tier-ws|create an entity tier]]. In the Risk Management application, the risk administrator can:-   Delete risk frameworks.
+Contains the reader, user, manager, and admin roles in sn\_grc scopes, and the reader, user, and manager roles in the Risk Management application. In addition to the inherited permissions, in the GRC scope, the risk admin can create an entity tier. In the Risk Management application, the risk administrator can:-   Delete risk frameworks.
 -   Delete entity, tables, indicator, risks, issues, tasks.
 -   Create risk statements and risks.
 -   Modify admin properties.
@@ -131,7 +131,7 @@ Contains the reader, user, manager, and admin roles in sn\_grc scopes, and the r
 -   Create causes and consequences of risk event.
 -   Access to risk, advanced risk related properties.
 -   Create risk identification configuration.
--   [[create-a-risk-assessment-methodology|Create a risk assessment methodology]], all types of [[factors|factors]].
+-   Create a risk assessment methodology, all types of factors.
 -   Perform administrative activities.
 -   Configure a feedback integration setup for any record type.
 
@@ -162,7 +162,7 @@ GRC Business User\[sn\_grc.business\_user\]
 </td><td>
 
 Users with this role can perform the following tasks:-   Take risk assessment.
--   Create [[risk-response|risk response]] tasks.
+-   Create risk response tasks.
 -   View risk statements.
 -   View risk assessment scope.
 -   View and report risk events.
@@ -179,7 +179,7 @@ Users with this role can perform the following tasks:-   Take risk assessment.
     -   View the Project Risk Overview dashboard
     -   Create risks from library.
     -   Elevate enterprise risks.
-    -   Initiate [[any-object-assessment|any object assessment]].
+    -   Initiate any object assessment.
 
 </td><td>
 
@@ -188,17 +188,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Components installed with Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/r_InstallWRisk.md)
 
-## Related
-
-- [[advanced-risk-assessment|advanced risk assessment]]
-- [[entity-type-in-risk-ws|Entity types]]
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[entity-class-in-risk-ws|Entity classes]]
-- [[entity-tier|entity tier]]
-- [[create-risk-event-response-template|create risk event response template]]
-- [[information-objects|information objects]]
-- [[create-new-entity-tier-ws|Create an entity tier]]
-- [[create-a-risk-assessment-methodology|Create a Risk Assessment Methodology]]
-- [[factors|factors]]
-- [[risk-response|risk response]]
-- [[any-object-assessment|any object assessment]]

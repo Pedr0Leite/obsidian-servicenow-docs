@@ -14,7 +14,7 @@ breadcrumb: [Configure SAP Solution Manager connector, Configure a pull connecto
 
 # SAP configurations enabling the SAP Solution Manager connector
 
-Configure your SAP environment to work with the ServiceNow [[c_EM|Event Management]] platform so you can use the SAP Solution Manager connector.
+Configure your SAP environment to work with the ServiceNow Event Management platform so you can use the SAP Solution Manager connector.
 
 When integrating your SAP environment with Event Management, the SAP Solution Manager sends events through a MID Server to Event Management, which generates an alert from the event.
 
@@ -42,7 +42,7 @@ Data moves between SAP and Event Management using both Push and Pull interfaces.
 
 -   **Push interface**: Because SAP can only push data to an external source, the integration uses the Push interface to store alerts sent from SAP to Event Management.
 
-    SAP alerts create events in Event Management that use both [[create-event-rules|event rules]] and CI identification rules to create Event Management alerts.
+    SAP alerts create events in Event Management that use both event rules and CI identification rules to create Event Management alerts.
 
     After Event Management creates alerts, a business rule listens for a change to the alert. If it detects a change, Event Management updates the SAP Solution Manager alerts.
 
@@ -65,7 +65,3 @@ The transaction code abbreviations that you can use in the SAP interface when wo
 
 [Use the SAP Solution Manager Pull connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/sap-pull-connector.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[create-event-rules|Event rules]]

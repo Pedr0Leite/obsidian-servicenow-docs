@@ -12,7 +12,7 @@ breadcrumb: [Dispatcher Workspace, CSM/FSM Configurable Workspace, Configure, Fi
 
 # Configure resources to load
 
-Administrators can configure the number of resources to load on the calendar in [[dispatcher-activities|Dispatcher Workspace]] so the page loads faster with fewer resources. Or the dispatcher can see more information at a glance if more resources are loaded.
+Administrators can configure the number of resources to load on the calendar in Dispatcher Workspace so the page loads faster with fewer resources. Or the dispatcher can see more information at a glance if more resources are loaded.
 
 ## Before you begin
 
@@ -40,6 +40,4 @@ The image below shows what Dispatcher Workspace looks like with the default numb
 
 4.  Select **Update**.
 
-## Related
 
-- [[dispatcher-activities|Dispatcher Workspace]]

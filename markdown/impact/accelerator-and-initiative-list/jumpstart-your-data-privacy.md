@@ -14,7 +14,7 @@ breadcrumb: [Technical Accelerators, Accelerator catalog, View the Initiatives a
 
 # Jumpstart Your Data Privacy
 
-This accelerator delivers a practical [[introduction-to-servicenow-vault|introduction to ServiceNow Vault]]’s Data Privacy capabilities, enabling platform owners and security administrators to discover, classify, and anonymize sensitive data to support compliance, security, and trust.
+This accelerator delivers a practical introduction to ServiceNow Vault’s Data Privacy capabilities, enabling platform owners and security administrators to discover, classify, and anonymize sensitive data to support compliance, security, and trust.
 
 ## Accelerator Overview
 
@@ -22,7 +22,7 @@ Jumpstart Your Data Privacy helps platform owners, security administrators, and 
 
 ## Package Availability
 
-**Note:** This Accelerator is available for [[impact-landing-page|Impact]] Guided, Guided+ \(SV or PG\), Advanced, and Total packages.
+**Note:** This Accelerator is available for Impact Guided, Guided+ \(SV or PG\), Advanced, and Total packages.
 
 ## Prerequisites
 
@@ -66,7 +66,3 @@ Jumpstart Your Data Privacy helps platform owners, security administrators, and 
 
 **Note:** Additional details on supplemental legal terms, prerequisites, specifications, requirements, and exclusions can be found in the [Impact Accelerator Terms Matrix](https://www.servicenow.com/legal/servicenow-impact.html).
 
-## Related
-
-- [[introduction-to-servicenow-vault|Introduction to ServiceNow Vault]]
-- [[impact-landing-page|Impact]]

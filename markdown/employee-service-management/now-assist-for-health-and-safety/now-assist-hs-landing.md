@@ -14,7 +14,7 @@ breadcrumb: [Health and Safety, Employee Service Management]
 
 # Now Assist for Health and Safety
 
-Use the ServiceNow® Now Assist for Health and Safety application to summarize a [[health-safety-overview|health and safety]] incident. You can enable your safety agent and safety manager to generate concise, informative flash reports that can be quickly shared with relevant stakeholders.
+Use the ServiceNow® Now Assist for Health and Safety application to summarize a health and safety incident. You can enable your safety agent and safety manager to generate concise, informative flash reports that can be quickly shared with relevant stakeholders.
 
 ## Get started
 
@@ -28,7 +28,7 @@ Use the ServiceNow® Now Assist for Health and Safety application to summarize a
 
 </td><td>
 
-[Use\[Omitted image "bus-supervised-machine-[[exploring-learning-exp|learning]].svg"\] Alt text:Use generative AI capabilities offered by Now Assist for Health and Safety](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/now-assist-hs-using.md)
+[Use\[Omitted image "bus-supervised-machine-learning.svg"\] Alt text:Use generative AI capabilities offered by Now Assist for Health and Safety](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/now-assist-hs-using.md)
 
 </td></tr></tbody>
 </table>**Important:**
@@ -58,7 +58,3 @@ ServiceNow collects and uses the inputs, outputs, and edits to outputs of this a
 
 For more information, see the [Now Assist documentation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-now-assist-landing.md).
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[exploring-learning-exp|Learning]]

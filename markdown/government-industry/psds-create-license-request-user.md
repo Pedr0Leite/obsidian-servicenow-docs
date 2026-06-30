@@ -12,7 +12,7 @@ breadcrumb: [Government Service Portal, Portals, Use, Public Sector Digital Serv
 
 # Create a license or permit request in the Public Sector Digital Services Government Service Portal
 
-Request a license or permit from a government agency using the [[gsp-overview-public-sector|Government Service Portal]].
+Request a license or permit from a government agency using the Government Service Portal.
 
 ## About this task
 
@@ -144,6 +144,3 @@ Your request is now routed to a License and Permit agent, who will process your 
 
 The constituent for which you were acting as a proxy, as well as any related constituents and business contacts added to the license/permit application, is now able to view the case details in the Government Service Portal.
 
-## Related
-
-- [[gsp-overview-public-sector|Government Service Portal]]

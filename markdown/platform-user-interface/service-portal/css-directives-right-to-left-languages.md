@@ -16,7 +16,7 @@ breadcrumb: [Styling for right-to-left languages in portals, Defining portal sty
 
 You can control the generation of CSS for right-to-left languages using a variety of methods.
 
-Base system portals besides [[c_ServicePortal|Service Portal]] \(/sp\) and custom portals might need additional CSS customization to mirror the direction of a portal for right-to-left languages completely.
+Base system portals besides Service Portal \(/sp\) and custom portals might need additional CSS customization to mirror the direction of a portal for right-to-left languages completely.
 
 Custom widgets might need some manual conversion for right-to-left languages.
 
@@ -44,6 +44,3 @@ transform: rotate(45deg) translateY(5px) #{"/*rtl:ignore*/"};
 
 **Parent Topic:**[Styling for right-to-left languages in portals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/styling-right-to-left-languages.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]

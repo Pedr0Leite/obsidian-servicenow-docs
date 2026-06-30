@@ -18,7 +18,7 @@ Use the **glide.basicauth.required.schema** property to require basic authorizat
 
 If the **glide.basicauth.required.schema** system property is not set to the recommended value of **true**, then basic authorization is not required for all Inbound Table Schema Processor requests. The Inbound Table Schema Processor handles incoming schema requests for the platform.
 
-Ensure that the property **glide.basicauth.required.schema** exists in the [[ca-system-properties|System Properties]] \[sys\_properties\] table and is set to **true**.
+Ensure that the property **glide.basicauth.required.schema** exists in the System Properties \[sys\_properties\] table and is set to **true**.
 
 **Warning:** This is a safe harbor property, meaning the value can't be altered once it's changed. It is non-revertible.
 
@@ -34,7 +34,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -96,7 +96,7 @@ Security risk
 
 -   Severity score: 5.3
 -   CVSS rating: Medium
--   Security risk details: Omitting [[c_Authentication|authentication]] from this processor will lead to unauthenticated access to instance schema data.
+-   Security risk details: Omitting authentication from this processor will lead to unauthenticated access to instance schema data.
 
 </td></tr><tr><td>
 
@@ -117,8 +117,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[API and web service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-api-web-service.md)
 
-## Related
-
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]
-- [[c_Authentication|Authentication]]

@@ -14,11 +14,11 @@ breadcrumb: [Configuring Agent Client Collector, Agent Client Collector, IT Oper
 
 # Deploying Agent Client Collector on servers
 
-When deploying the [[acc-landing-page|Agent Client Collector]], perform deployment and management tasks on your environment's servers.
+When deploying the Agent Client Collector, perform deployment and management tasks on your environment's servers.
 
 Server deployment uses MID Servers to connect your agents to a ServiceNow instance. Agents deployed on data center servers open WebSocket connections to your MID Servers, which relay data to your instance. You manage the sizing, certificates, and load balancing of the MID Server.
 
-Use server deployment when your agents are in controlled environments such as data centers, where you are already running MID Servers and want to keep traffic on your network. [[acc-monitoring-landing-page|Agent Client Collector Monitoring]] \(ACC-M\) and [[acc-log-analytics|Agent Client Collector Log Analytics]] \(ACC-L\) require server deployment, and you can deploy Agent Client Collector for Visibility - Content \(ACC-VC\) with servers as well.
+Use server deployment when your agents are in controlled environments such as data centers, where you are already running MID Servers and want to keep traffic on your network. Agent Client Collector Monitoring \(ACC-M\) and Agent Client Collector Log Analytics \(ACC-L\) require server deployment, and you can deploy Agent Client Collector for Visibility - Content \(ACC-VC\) with servers as well.
 
 -   **[Configuring Agent Client Collector with a MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-configuring-with-mid.md)**  
 Configure the Agent Client Collector with a MID Server to enable communication between network servers and the ServiceNow instance.
@@ -35,7 +35,7 @@ Optimize the distribution of agents by allowing redistribution from one MID Serv
 -   **[View the Agent Client Collector configuration file for an agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-yml-view.md)**  
 View the `acc.yml` Agent Client Collector configuration file without having to access the host server by retrieving the file from an agent.
 -   **[Create an Agent Client Collector configuration data file](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/create-acc-config-data-file.md)**  
-[[create-acc-config-data-file|Create an Agent Client Collector configuration data file]] and associate it with check definitions so that you can view the information about your instance. You can also add or delete an attachment to the configuration data files, which are used by check definitions during check executions.
+Create an Agent Client Collector configuration data file and associate it with check definitions so that you can view the information about your instance. You can also add or delete an attachment to the configuration data files, which are used by check definitions during check executions.
 -   **[Validate plugins on the MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/validate-assets-mid-server.md)**  
 Validate plugins on your MID Server to ensure that they match the plugins on your ServiceNow instance. Validating plugins ensures that the instance provides accurate data on all of your MID Server plugins.
 -   **[Validate plugins on agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/validate-assets-agents.md)**  
@@ -47,11 +47,11 @@ To enable monitoring logs in a Linux environment, select the relevant policy and
 -   **[Enable log monitoring in a Windows environment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-enable-log-monitoring-windows.md)**  
 To enable monitoring logs in a Windows environment, select the relevant policy and assign specific check parameters to the policy. When log monitoring is enabled and a specified string is discovered in the log being monitored, the system creates an event.
 -   **[Select the Azure policies to activate for metric collection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/select-policies-azure.md)**  
-Activate the [[azure-policies|Azure policies]] that come with the Agent Client Collector base system so that Azure virtual machines can collect metrics. These metrics help you monitor the configuration items \(CIs\) in the CMDB.
+Activate the Azure policies that come with the Agent Client Collector base system so that Azure virtual machines can collect metrics. These metrics help you monitor the configuration items \(CIs\) in the CMDB.
 -   **[Use the Agent Client Collector Health Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-health-dashboard.md)**  
 The Agent Client Collector Health Dashboard enables you to monitor the status of the agents in your system.
 -   **[Agent Client Collector Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-discovery.md)**  
-Discover CIs in your environment by using Agent Client Collector for Visibility - Content \(ACC-VC\) [[r-discovery|Discovery]]. ACC-VC works with both horizontal IP-based Discovery, and you can also use push-based Discovery.
+Discover CIs in your environment by using Agent Client Collector for Visibility - Content \(ACC-VC\) Discovery. ACC-VC works with both horizontal IP-based Discovery, and you can also use push-based Discovery.
 -   **[Agent Client Collector Log Analytics setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/accl-setup.md)**  
 Configure Agent Client Collector Log Analytics on your ServiceNow instance either with or without using guided setup.
 -   **[Collect web usage data using Agent Client Collector for Visibility - Content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/collect-web-data-usage-accvc.md)**  
@@ -59,11 +59,3 @@ Track website visits across your organization and gain visibility into web appli
 
 **Parent Topic:**[Agent Client Collector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-landing-page.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[acc-monitoring-landing-page|Agent Client Collector Monitoring]]
-- [[acc-log-analytics|Agent Client Collector Log Analytics]]
-- [[create-acc-config-data-file|Create an Agent Client Collector configuration data file]]
-- [[azure-policies|Azure policies]]
-- [[r-discovery|Discovery]]

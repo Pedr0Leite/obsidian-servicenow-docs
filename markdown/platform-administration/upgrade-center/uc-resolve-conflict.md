@@ -41,12 +41,10 @@ Role required: admin
     2.  Edit the right-hand side so that the script contains whichever content you want. To move a block of code from the left to right side, click the small arrows corresponding to that block in the middle column.
     3.  Click **OK**.
 
-        The system returns to the [[uc-resolve-conflicts-form|Resolve Conflicts form]].
+        The system returns to the Resolve Conflicts form.
 
 4.  To save your changes to the record, click **Save Merge**.
 
     The system sets the **Resolution** for this record to **Reviewed and Merged**.
 
-## Related
 
-- [[uc-resolve-conflicts-form|Resolve Conflicts form]]

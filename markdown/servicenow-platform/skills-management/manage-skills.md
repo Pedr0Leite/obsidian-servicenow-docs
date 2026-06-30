@@ -29,11 +29,7 @@ For each team, the skill coverage bar displays the number of users that have tha
 You can select the filter icon and narrow down the display of the skill matrix using the Users, Skills, and Location filters.
 
 -   **[Assign skill proficiency levels for skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/skills-management/assign-it-skills-users.md)**  
-[[t_CreateASkill|Add a skill]] and assign skill levels to users to facilitate the automatic assignment of skill-based tasks to agents.
+Add a skill and assign skill levels to users to facilitate the automatic assignment of skill-based tasks to agents.
 
-**Parent Topic:**[[manage-people|Manage people and work capabilities]]
+**Parent Topic:**[Manage people and work capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/manage-people.md)
 
-## Related
-
-- [[manage-people|Manage people and work capabilities]]
-- [[t_CreateASkill|Add a skill]]

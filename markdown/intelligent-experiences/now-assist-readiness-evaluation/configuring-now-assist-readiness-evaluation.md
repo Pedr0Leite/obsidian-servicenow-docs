@@ -15,7 +15,7 @@ breadcrumb: [Now Assist Readiness Evaluation, Enable AI experiences]
 
 # Configuring Now Assist Readiness Evaluation
 
-Run the scheduled jobs and complete the [[now-assist-readiness-evaluation-landing-page|Now Assist Readiness Evaluation]] guided setup configuration steps before viewing the generative AI and agentic AI assessment results.
+Run the scheduled jobs and complete the Now Assist Readiness Evaluation guided setup configuration steps before viewing the generative AI and agentic AI assessment results.
 
 ## Configuration overview
 
@@ -23,14 +23,10 @@ Before configuring the Now Assist Readiness Evaluation app, confirm that the Now
 
 1.  [Run the GenAI/AgenticAI Assessment scheduled job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-readiness-evaluation/run-genai-agenticai-assessment-scheduled-job.md)
 
-    [[run-genai-agenticai-assessment-scheduled-job|Run the GenAI/AgenticAI Assessment scheduled job]] so that agentic and generative AI assessment results populate in **Workspaces** &gt; **Now Assist Readiness Evaluation**.
+    Run the GenAI/AgenticAI Assessment scheduled job so that agentic and generative AI assessment results populate in **Workspaces** &gt; **Now Assist Readiness Evaluation**.
 
 2.  [Configure the Now Assist Readiness Evaluation guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-readiness-evaluation/configure-nare-guided-setup.md)
 
-    Complete the configuration for the five [[platform-now-assist-landing|Now Assist]] jobs. Additional configuration is required to work with the Now Assist for HRSD assessment.
+    Complete the configuration for the five Now Assist jobs. Additional configuration is required to work with the Now Assist for HRSD assessment.
 
-## Related
 
-- [[now-assist-readiness-evaluation-landing-page|Now Assist Readiness Evaluation]]
-- [[run-genai-agenticai-assessment-scheduled-job|Run the GenAI/AgenticAI Assessment scheduled job]]
-- [[platform-now-assist-landing|Now Assist]]

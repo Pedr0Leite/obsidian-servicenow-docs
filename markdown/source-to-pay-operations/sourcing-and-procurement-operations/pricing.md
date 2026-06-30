@@ -14,15 +14,15 @@ breadcrumb: [Sourcing and Purchasing Automation, Explore, Sourcing and Procureme
 
 # Pricing
 
-Pricing stores the relationship between [[supplier|supplier]] product, [[contracts|contracts]], and price of a product.
+Pricing stores the relationship between supplier product, contracts, and price of a product.
 
-You can store pricing as a single price or with a price break. Supplier quotes are stored in the Pricing table and are used to display in [[shopping-hub-overview|Shopping Hub]] to help with the decision of awarding a supplier.
+You can store pricing as a single price or with a price break. Supplier quotes are stored in the Pricing table and are used to display in Shopping Hub to help with the decision of awarding a supplier.
 
-A pricing record is created when the **Negotiated unit cost** field is populated on the purchase line within a [[sourcing-request|sourcing request]].
+A pricing record is created when the **Negotiated unit cost** field is populated on the purchase line within a sourcing request.
 
 Several scenarios are documented here for clarity.
 
--   One-time single price, no [[negotiations|negotiations]]:
+-   One-time single price, no negotiations:
     -   Sourcing request is automatically created.
     -   Procurement specialist directly enters price into the **Negotiated unit cost** field on the purchase line.
     -   Pricing record is automatically created when the **Negotiated unit cost** field is populated. Price value on the Pricing table is populated with the negotiated unit cost.
@@ -39,7 +39,7 @@ Several scenarios are documented here for clarity.
     -   Similar to the one-time single price, no negotiations scenario.
     -   Procurement specialist confirms the quantity with the shopper, if not indicated by the shopper already, and enters the appropriate negotiated unit cost on the purchase line.
 
-        **Note:** When quantity is revised on a line that has an underlying price break, the negotiated unit cost on the purchase line and [[purchase-order-table|purchase order]] line must be updated to reflect the corresponding pricing for that quantity tier.
+        **Note:** When quantity is revised on a line that has an underlying price break, the negotiated unit cost on the purchase line and purchase order line must be updated to reflect the corresponding pricing for that quantity tier.
 
     -   Pricing record is systematically created for a single price.
     -   Creating a price break entry in the Pricing table is optional.
@@ -68,7 +68,7 @@ A price for a supplier product is considered as an active contractual price when
 
 The **Price Duration Type** field determines if the price is for a one-time purchase or a term purchase. This is a read-only field, whose values are populated based on the **One-time pricing** field on the purchase line.
 
-**Note:** For a good, the value of this field on the Pricing table is always Term. This field is editable within the purchase line only when it is for a service, and the line is within the context of a sourcing request. Once a [[purchase-requisition|purchase requisition]] is created, the field becomes read-only. Any updates made to this field value on the purchase line is reflected accordingly on the Pricing table.
+**Note:** For a good, the value of this field on the Pricing table is always Term. This field is editable within the purchase line only when it is for a service, and the line is within the context of a sourcing request. Once a purchase requisition is created, the field becomes read-only. Any updates made to this field value on the purchase line is reflected accordingly on the Pricing table.
 
 If there are multiple overlapping active contracts for a specific supplier product, and they are mapped to the same or different contract models, the contract with the lowest price is used to display pricing in Shopping Hub.
 
@@ -80,12 +80,3 @@ A reference to the pricing record is added on the purchase line to allow procure
 
 **Parent Topic:**[Sourcing and Purchasing Automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-experience-workflow.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[contracts|Contracts]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[sourcing-request|Sourcing request]]
-- [[negotiations|Negotiations]]
-- [[purchase-order-table|Purchase order]]
-- [[purchase-requisition|Purchase requisition]]

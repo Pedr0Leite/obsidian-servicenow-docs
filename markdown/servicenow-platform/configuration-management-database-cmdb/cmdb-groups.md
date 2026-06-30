@@ -28,7 +28,7 @@ You can configure a CMDB group with one of the following group types:
 
 -   **Health**
 
-    Sets [[c_CMDBHealth|CMDB Health]] to monitor the health of the group CIs and aggregate health results for the group as a whole in the CMDB group view dashboard. For example, you can monitor health only for CIs in a specific location.
+    Sets CMDB Health to monitor the health of the group CIs and aggregate health results for the group as a whole in the CMDB group view dashboard. For example, you can monitor health only for CIs in a specific location.
 
     You can populate this type of group only by encoded queries. Dynamic filters are not supported when populating this type of CMDB groups.
 
@@ -37,7 +37,7 @@ You can configure a CMDB group with one of the following group types:
     Custom class group which is used as follows:
 
     -   Appears in the [Management view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-workspace-mangmnt-view.md) in the [CMDB Workspace store app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-workspace.md).
-    -   Used in the Explore and Search view in the [Service Graph Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/sg-workspace.md). When the [[sg-workspace|Service Graph Workspace]] - Content store app isn't installed, then CMDB group definitions in which type is **CMDB Workspace**, are used to structure the navigation panel in the Explore tab.
+    -   Used in the Explore and Search view in the [Service Graph Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/sg-workspace.md). When the Service Graph Workspace - Content store app isn't installed, then CMDB group definitions in which type is **CMDB Workspace**, are used to structure the navigation panel in the Explore tab.
 
         For more information, see [Explore and Search view in Service Graph Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/sg-workspace-search-explore-view.md).
 
@@ -184,7 +184,3 @@ If the CMDB group is based on a CMDB query, then the query runs in real-time and
 
 [CMDB CI Lifecycle Management \(legacy\)]()
 
-## Related
-
-- [[c_CMDBHealth|CMDB Health]]
-- [[sg-workspace|Service Graph Workspace]]

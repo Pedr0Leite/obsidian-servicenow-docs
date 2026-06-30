@@ -15,9 +15,5 @@ breadcrumb: [Outbound staging tables, Source-to-Pay integration framework, Integ
 
 # Outbound staging tables for Accounts Payable Operations
 
-The outbound staging tables in [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] store invoice data before export to a third-party ERP systems for review, validation, and [[troubleshooting|troubleshooting]].
+The outbound staging tables in Accounts Payable Operations store invoice data before export to a third-party ERP systems for review, validation, and troubleshooting.
 
-## Related
-
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[troubleshooting|Troubleshooting]]

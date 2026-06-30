@@ -14,7 +14,7 @@ breadcrumb: [Using the Capacity Console, Capacity, Managing workforce, Use, Fiel
 
 # View territory and demand channel summary in the contextual side panel
 
-The [[capacity-console|Capacity Console]] provides a comprehensive summary of territories and demand channels, enabling [[capacity|capacity]] planners and managers to make informed decisions about resource allocation and management.
+The Capacity Console provides a comprehensive summary of territories and demand channels, enabling capacity planners and managers to make informed decisions about resource allocation and management.
 
 ## Before you begin
 
@@ -85,7 +85,3 @@ The contextual side panel opens to display summaries tailored to the selected co
 
 You can change the capacity value and reservation in the contextual side panel.
 
-## Related
-
-- [[capacity-console|Capacity Console]]
-- [[capacity|Capacity]]

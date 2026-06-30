@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-Use the New Record module to create custom [[form-configurable-workspace|forms]] for adding table entries. Customize which fields appear by adding or removing them as needed.
+Use the New Record module to create custom forms for adding table entries. Customize which fields appear by adding or removing them as needed.
 
 ## Procedure
 
@@ -73,7 +73,7 @@ Action
 
 </td></tr><tr><td id="d87274e263">
 
-**[[configure-onboarding-modals|Configure]] section layout \(columns\)**
+**Configure section layout \(columns\)**
 
 </td><td>
 
@@ -118,7 +118,7 @@ Detach a section. You can split two previously merged sections apart into separa
 
 10. Customize the fields that display on the selected form view by performing one of the following actions.
 
-    **Note:** Certain field types are only supported in [[c_UI16|Core UI]].
+    **Note:** Certain field types are only supported in Core UI.
 
 <table id="choicetable_u3j_f5j_wrb"><thead><tr><th align="left" id="d87274e389">
 
@@ -165,11 +165,5 @@ Action
     \[Omitted image "neame-open-new-record-module.png"\] Alt text: Arrow pointing the open module icon in the header.
 
 
-**Parent Topic:**[[next-experience-all-menu-editing|Next Experience All Menu Editing]]
+**Parent Topic:**[Next Experience All Menu Editing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-all-menu-editing.md)
 
-## Related
-
-- [[next-experience-all-menu-editing|Next Experience All Menu Editing]]
-- [[form-configurable-workspace|Forms]]
-- [[configure-onboarding-modals|Configure]]
-- [[c_UI16|Core UI]]

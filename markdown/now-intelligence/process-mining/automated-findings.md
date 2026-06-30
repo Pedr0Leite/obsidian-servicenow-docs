@@ -18,7 +18,7 @@ Automated improvement opportunities highlight potential areas for process optimi
 
 **Note:** You can have a maximum of 15 automated improvement opportunity definitions for a project.
 
-In [[process-mining|Process Mining]] the following improvement opportunities are available:
+In Process Mining the following improvement opportunities are available:
 
 -   **[Configure ping-pong](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/automated-builder.md)**  
 Configure a ping-pong definition to view a pattern where a record bounces back and forth between two steps without interruption.
@@ -45,6 +45,3 @@ Configure an extreme touchpoints \(Node\) definition to view a pattern where a s
 
 **Parent Topic:**[Setting improvement opportunities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/working-with-imp-opp.md)
 
-## Related
-
-- [[process-mining|Process Mining]]

@@ -14,7 +14,7 @@ breadcrumb: [Discovery for cloud environment, Discovery, ITOM Visibility, IT Ope
 
 # Cloud discovery reporting
 
-Cloud discovery reporting provides a user-friendly interface for navigating and analyzing your cloud resource inventory. It offers drill-down and slice-and-dice views to gain granular insights into your cloud resource inventories, with details obtained from the [[r-discovery|discovery]]. It provides an easier and faster way to locate and identify the state and location of cloud resources, streamlining your management tasks.
+Cloud discovery reporting provides a user-friendly interface for navigating and analyzing your cloud resource inventory. It offers drill-down and slice-and-dice views to gain granular insights into your cloud resource inventories, with details obtained from the discovery. It provides an easier and faster way to locate and identify the state and location of cloud resources, streamlining your management tasks.
 
 Learn about Cloud Discovery reporting:
 
@@ -22,10 +22,5 @@ Learn about Cloud Discovery reporting:
 -   [Cloud Resources dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cloud-resources-dashboard.md)
 -   [Cloud Resources Explorer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cloud-resources-inventory-dashboard.md)
 
-**Note:** For better results, use the [[cloud-resources-inventory-dashboard|Cloud Resources Explorer]] instead of the Platform Analytics Solutions featured on the [[cloud-resources-dashboard|Cloud Resources dashboard]].
+**Note:** For better results, use the Cloud Resources Explorer instead of the Platform Analytics Solutions featured on the Cloud Resources dashboard.
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[cloud-resources-inventory-dashboard|Cloud Resources Explorer]]
-- [[cloud-resources-dashboard|Cloud Resources dashboard]]

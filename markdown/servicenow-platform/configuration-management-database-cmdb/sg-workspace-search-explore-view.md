@@ -18,7 +18,7 @@ Search through CMDB tables without having detailed knowledge of the CMDB data mo
 
 ## Access
 
-Navigate to **Workspaces** &gt; **[[sg-workspace|Service Graph Workspace]]**, and then in the navigation panel, select the Explore and Search icon.
+Navigate to **Workspaces** &gt; **Service Graph Workspace**, and then in the navigation panel, select the Explore and Search icon.
 
 Role required: sn\_cmdb\_user, sn\_cmdb\_editor, or sn\_cmdb\_admin
 
@@ -36,7 +36,7 @@ Explore classes and CIs using one of the following exploration modes:
 
     The top-level contexts expand into lists of classes.
 
-    If the Service Graph Workspace - Content store app isn't installed, then **Explore by classes** is the only mode of exploration available. In this case, existing [[cmdb-groups|CMDB groups]] definitions in which type = **CMDB Workspace** are used to organize the navigation panel. For more information, see [CMDB groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-groups.md).
+    If the Service Graph Workspace - Content store app isn't installed, then **Explore by classes** is the only mode of exploration available. In this case, existing CMDB groups definitions in which type = **CMDB Workspace** are used to organize the navigation panel. For more information, see [CMDB groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-groups.md).
 
 
 In either exploration mode, you can drill-down to see a list of CIs that belongs to the selected context or CMDB group.
@@ -88,7 +88,7 @@ You can:
 
     -   If there are any ambiguities with table names or relationship types in the search string, then the search string can't be converted into a valid CMDB query. In this case, the Refine your query dialog box appears letting you select from suggested CI classes and continue to parse your search string into a valid CMDB query. Those suggested CI classes are based on phrases in your search string. Use the drop-down lists to select the CI classes that match your intended search and then select **View search results** to run the query.
     -   If Intelligent Search is unable to convert your search string into a valid CMDB query, then selecting **Search** doesn't generate any query results. Instead, a feedback form appears. Fill out the form and select **Submit Feedback** to record your feedback for your CMDB Admin to review.
--   Use the Sample searches list to get you started in running a pre-defined search. This list consists of more common searches, or searches that are more difficult to construct such as searches that involve [[application-services|service instances \(application services\)]].
+-   Use the Sample searches list to get you started in running a pre-defined search. This list consists of more common searches, or searches that are more difficult to construct such as searches that involve service instances \(application services\).
 -   Use the Your recent searches list to rerun a previous search.
 -   Select **Results Feedback** to submit feedback on the search results for your CMDB Admin to review.
 
@@ -137,9 +137,3 @@ service\_viewer role
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sg-workspace|Service Graph Workspace]]
-- [[cmdb-groups|CMDB groups]]
-- [[application-services|Service instances \(Application services\)]]

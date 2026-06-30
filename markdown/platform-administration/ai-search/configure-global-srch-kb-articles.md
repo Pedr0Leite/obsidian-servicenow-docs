@@ -22,7 +22,7 @@ Role required: ais\_admin
 
 ## About this task
 
-By default, [[ia-ai-search|AI Search]] only matches translated content records, such as knowledge articles, that are in the user's ServiceNow AI Platform® session language. For example, a user searching from a Spanish user session only matches Spanish knowledge articles. For full details on this restriction, see [Searching translated content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/searching-translated-content-ais.md).
+By default, AI Search only matches translated content records, such as knowledge articles, that are in the user's ServiceNow AI Platform® session language. For example, a user searching from a Spanish user session only matches Spanish knowledge articles. For full details on this restriction, see [Searching translated content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/searching-translated-content-ais.md).
 
 **Note:** If you've configured a global fallback locale, search can match translated content records in that locale's language as well as in the user's session language. For more details on this approach, see [Enable a global fallback locale for translated content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/enable-global-fallback-lang-ais.md).
 
@@ -51,7 +51,7 @@ To enable users to search for knowledge articles in any language, you can define
 
 ## Result
 
-Knowledge articles that match your encoded query can be returned as [[hs-results|results]] for user searches in any language.
+Knowledge articles that match your encoded query can be returned as results for user searches in any language.
 
 ## Make knowledge articles in the Email category globally searchable
 
@@ -61,7 +61,3 @@ Here is an example that defines the encoded query `kb_category=5681bf8bff0221009
 
 **Parent Topic:**[Internationalization support for AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/international-language-support-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]

@@ -14,7 +14,7 @@ breadcrumb: [CEM Critical event record, Exploring, Critical Event Management, He
 
 # CEM Playbook tab
 
-The **Playbook** tab in [[critical-event-management|Critical Event Management]] \(CEM\) provides an agent a step-by-step guide for managing critical events. It tracks tasks across different phases and confirms that all necessary actions are completed.
+The **Playbook** tab in Critical Event Management \(CEM\) provides an agent a step-by-step guide for managing critical events. It tracks tasks across different phases and confirms that all necessary actions are completed.
 
 A playbook serves as a starting point for customers to set up processes tailored to their specific needs.
 
@@ -31,6 +31,3 @@ The **Playbook** tab has the following phases:
     -   Confirm the statuses of all potentially impacted individuals to account for everyone.
     -   Create incident records if needed or review the list of incidents generated.
 
-## Related
-
-- [[critical-event-management|Critical Event Management]]

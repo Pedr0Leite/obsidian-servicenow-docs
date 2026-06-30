@@ -12,7 +12,7 @@ breadcrumb: [Configure, Pre-Visit Management, Healthcare and Life Sciences Servi
 
 # Determining additional user profiles in Pre-Visit Management
 
-You can determine who can act as an agent connector or contributor for procedure request cases in the [[pre-visit-mgmt-app|Pre-Visit Management]] application.
+You can determine who can act as an agent connector or contributor for procedure request cases in the Pre-Visit Management application.
 
 **Important:**
 
@@ -124,7 +124,3 @@ sn\_previsit.contributor, sn\_customerservice.service\_organization\_contributor
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[pre-visit-mgmt-app|Pre-Visit Management]]

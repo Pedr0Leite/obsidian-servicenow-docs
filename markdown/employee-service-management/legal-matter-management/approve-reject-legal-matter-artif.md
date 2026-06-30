@@ -24,7 +24,7 @@ Role required: none
 
 ## Procedure
 
-1.  Open the approval record from the email notification, [[legal-counsel-center-landing|Legal Counsel Center]], Self-Service, or [[employee-center-landing-page|Employee Center]] portal.
+1.  Open the approval record from the email notification, Legal Counsel Center, Self-Service, or Employee Center portal.
 
 <table id="choicetable_ix4_gbl_trb"><thead><tr><th align="left" id="d332950e60">
 
@@ -116,7 +116,3 @@ If the requested item was assigned to a user group for approval, then the state 
 </td></tr></tbody>
 </table>**Parent Topic:**[Work on a legal matter]()
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[employee-center-landing-page|Employee Center]]

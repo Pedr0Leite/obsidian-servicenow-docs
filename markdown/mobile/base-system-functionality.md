@@ -16,7 +16,7 @@ Learn about the base system functionality included in with ServiceNow® mobile a
 
 ## Base system functionality for Mobile Agent
 
-Take advantage of the [[mobile-experience|Mobile Agent app]] by activating the base system applications available from ServiceNow. For a list of plugins available for Mobile Agent, see [[sg-mobile-plugins-agent|Mobile plugins for Mobile Agent]].
+Take advantage of the Mobile Agent app by activating the base system applications available from ServiceNow. For a list of plugins available for Mobile Agent, see [Mobile plugins for Mobile Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-plugins-agent.md).
 
 To use the Mobile Agent app, you must install additional plugins, which provide capability such as customer service, asset receiving, or IT service management.
 
@@ -24,7 +24,7 @@ To use the Mobile Agent app, you must install additional plugins, which provide 
 
 <table id="table_ghd_rml_vhb"><tbody><tr><td>
 
-\[Omitted image "homepage-alp.png"\] Alt text: [[now-mobile-app|Now Mobile app]] homepage.
+\[Omitted image "homepage-alp.png"\] Alt text: Now Mobile app homepage.
 
 </td><td>
 
@@ -64,7 +64,7 @@ Search for or browse company articles. Go here to look for a solution to a probl
 
 Enable or disable notifications here. Go here to view all of your notifications in one place.
 
--   **[[siri-shortcuts|Siri shortcuts]]**
+-   **Siri shortcuts**
 
 If you're an iOS user, you can use Siri to open some pages in the app. These Siri shortcuts are available:
 
@@ -74,12 +74,5 @@ If you're an iOS user, you can use Siri to open some pages in the app. These Sir
     -   Open your requests.
 
 </td></tr></tbody>
-</table>Add functionality to the Now Mobile app by installing plugins. For a list of the available plugins, see [[sg-mobile-plugins-now|Mobile plugins for Now Mobile]].
+</table>Add functionality to the Now Mobile app by installing plugins. For a list of the available plugins, see [Mobile plugins for Now Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-plugins-now.md).
 
-## Related
-
-- [[sg-mobile-plugins-agent|Mobile plugins for Mobile Agent]]
-- [[sg-mobile-plugins-now|Mobile plugins for Now Mobile]]
-- [[mobile-experience|Mobile Agent app]]
-- [[now-mobile-app|Now Mobile app]]
-- [[siri-shortcuts|Siri shortcuts]]

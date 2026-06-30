@@ -22,15 +22,15 @@ Role required: ais\_admin
 
 ## About this task
 
-Unlinking a stop word dictionary from a search profile doesn't delete the dictionary. To [[delete-stop-word-dict-ais|delete a stop word dictionary]], you must first unlink it from all search profiles. For steps to delete a stop word dictionary, see [Delete a stop word dictionary](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/delete-stop-word-dict-ais.md).
+Unlinking a stop word dictionary from a search profile doesn't delete the dictionary. To delete a stop word dictionary, you must first unlink it from all search profiles. For steps to delete a stop word dictionary, see [Delete a stop word dictionary](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/delete-stop-word-dict-ais.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ia-ai-search|AI Search]]** &gt; **Search Experience** &gt; **Search Profiles**.
+1.  Navigate to **All** &gt; **AI Search** &gt; **Search Experience** &gt; **Search Profiles**.
 
 2.  Open the search profile that you want to unlink the stop word dictionary from.
 
-3.  In the [[stop-words-ais|Stop Words]] related list, select the option for the stop word dictionary that you want to unlink from the search profile.
+3.  In the Stop Words related list, select the option for the stop word dictionary that you want to unlink from the search profile.
 
 4.  Select **Unlink Selected**.
 
@@ -45,8 +45,3 @@ To make the change in stop word dictionary linking take effect, publish the sear
 
 **Parent Topic:**[Stop words](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/stop-words-ais.md)
 
-## Related
-
-- [[delete-stop-word-dict-ais|Delete a stop word dictionary]]
-- [[ia-ai-search|AI Search]]
-- [[stop-words-ais|Stop words]]

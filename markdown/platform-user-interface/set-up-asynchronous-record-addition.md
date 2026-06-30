@@ -12,7 +12,7 @@ breadcrumb: [Lists, Administer, Configurable Workspace UI, Configure UIs and por
 
 # Configure related list background loading
 
-[[configure-onboarding-modals|Configure]] large selections of records added to a related list to load in the background for your entire workspace experience.
+Configure large selections of records added to a related list to load in the background for your entire workspace experience.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 When you select a large number of records to add to a related list, you can focus on other tasks while the records are added in the background.
 
-If background loading isn’t required for all modals, configure individual modals to load related list records in the background using declarative actions. For instructions, see [[set-up-asychronous-record-addition-declarative-actions|Configure background loading for a modal]].
+If background loading isn’t required for all modals, configure individual modals to load related list records in the background using declarative actions. For instructions, see [Configure background loading for a modal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/set-up-asychronous-record-addition-declarative-actions.md).
 
 ## Procedure
 
@@ -63,7 +63,3 @@ After the records are added, a notification informs you that the records were ad
 
 \[Omitted image "y-mra-notification-3.png"\] Alt text: MRA notification 3
 
-## Related
-
-- [[set-up-asychronous-record-addition-declarative-actions|Configure modal background loading]]
-- [[configure-onboarding-modals|Configure]]

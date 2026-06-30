@@ -22,13 +22,13 @@ Role required: sn\_slm.contact
 
 ## Procedure
 
-1.  Navigate to the [[supplier-central|Supplier Collaboration Portal]] home page by accessing your instance URL and adding a /supplier suffix.
+1.  Navigate to the Supplier Collaboration Portal home page by accessing your instance URL and adding a /supplier suffix.
 
     For example, `https://example.com/supplier`.
 
-2.  Select the [[supplier|supplier]] from the **My Company** drop-down list of suppliers associated with your profile.
+2.  Select the supplier from the **My Company** drop-down list of suppliers associated with your profile.
 
-    **Important:** The list of suppliers under **My Company** is available from the Xanadu December 2024 release onwards, only if **M2M mapping between [[supplier-contact|supplier contact]] and suppliers** is enabled.
+    **Important:** The list of suppliers under **My Company** is available from the Xanadu December 2024 release onwards, only if **M2M mapping between supplier contact and suppliers** is enabled.
 
 3.  In the portal header, select **Raise a request**.
 
@@ -36,7 +36,7 @@ Role required: sn\_slm.contact
 
     The **Supplier** field is auto-populated with the supplier you have currently selected. This field is available from the Xanadu December 2024 release onwards.
 
-5.  On the [[update-supp-banking-form|Update banking details form]], fill in the fields.
+5.  On the Update banking details form, fill in the fields.
 
     If you are adding a new account, you can auto-populate the Bank name, Account holder name, and Account number fields by selecting the **Extract values from the attachment to auto-populate from fields** checkbox. For more information about the form fields and descriptions, see [Update banking details form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/update-supp-banking-form.md) \[Omitted image "update-banking-details-supplier-collaboration-portal.png"\] Alt text: Selected option for adding a new account.
 
@@ -76,9 +76,3 @@ After the supplier manager approves the case, the banking details are updated in
 
 [Raising requests from the Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supp-catalog-req.md)
 
-## Related
-
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[supplier|Supplier]]
-- [[supplier-contact|Supplier contact]]
-- [[update-supp-banking-form|Update banking details form]]

@@ -15,7 +15,7 @@ breadcrumb: [Explore, Virtual Agent, Conversational Interfaces]
 
 # Agentic conversations in Virtual Agent
 
-When you ask a question to the [[virtual-agent-landing-page|virtual agent]], the agent understands the query. It can reason, plan, and execute across AI agents, virtual agent topics, conversational actions and subflows, catalogs, KB articles, custom skills, and any [[now-assist-in-va-landing|Now Assist in Virtual Agent]] supported skills to help you.
+When you ask a question to the virtual agent, the agent understands the query. It can reason, plan, and execute across AI agents, virtual agent topics, conversational actions and subflows, catalogs, KB articles, custom skills, and any Now Assist in Virtual Agent supported skills to help you.
 
 -   If for the given assistant, specific agents are available to perform user tasks or sub tasks, they’re used.
 -   If a specific agent isn’t available for the task or sub task, the system automatically employs the Search Agent to discover answers or appropriate skills within the system \(again based on the assistant scope\).
@@ -178,7 +178,3 @@ When the AI agent cannot understand a request, encounters a system error, or a s
 
 **Note:** Review AI generated responses for accuracy before taking action.
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]

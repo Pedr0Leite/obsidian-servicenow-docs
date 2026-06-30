@@ -14,7 +14,7 @@ breadcrumb: [Source-to-Pay Operations integration Contract Management, Integrate
 
 # Integrate with Contract Management Pro
 
-Contract Management Pro provides an integration with the [[psm-overview|Sourcing and Procurement Operations]] application. With this integration, procurement specialists can initiate contract requests \(CRs\) manually throughout the sourcing and purchasing process.
+Contract Management Pro provides an integration with the Sourcing and Procurement Operations application. With this integration, procurement specialists can initiate contract requests \(CRs\) manually throughout the sourcing and purchasing process.
 
 ## Before you begin
 
@@ -24,9 +24,9 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **System Definition** &gt; **Plugins**.
 
-2.  Search for the [[source-to-pay-operations-overview|Source-to-Pay Operations]] with Contract Management Pro plugin \(sn\_spend\_clm\).
+2.  Search for the Source-to-Pay Operations with Contract Management Pro plugin \(sn\_spend\_clm\).
 
-    **Note:** To activate this plugin, there is a dependency on the [[purchase-experience-workflow|Sourcing and Purchasing Automation]] plugin \(sn\_pr\) and the Microsoft Word add-in for ServiceNow [[contracts|Contracts]] plugin \(sn\_cm\_word\_addin\). These plugins must be installed to utilize the new better together feature for the contracting workflow.
+    **Note:** To activate this plugin, there is a dependency on the Sourcing and Purchasing Automation plugin \(sn\_pr\) and the Microsoft Word add-in for ServiceNow Contracts plugin \(sn\_cm\_word\_addin\). These plugins must be installed to utilize the new better together feature for the contracting workflow.
 
 3.  Select **Activate**.
 
@@ -37,9 +37,3 @@ Role required: admin
 
 **Parent Topic:**[Source-to-Pay Operations integration with Contract Management Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/integration-spo-cmpro.md)
 
-## Related
-
-- [[psm-overview|Sourcing and Procurement Operations]]
-- [[source-to-pay-operations-overview|Source-to-Pay Operations]]
-- [[purchase-experience-workflow|Sourcing and Purchasing Automation]]
-- [[contracts|Contracts]]

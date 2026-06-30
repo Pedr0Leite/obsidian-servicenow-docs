@@ -14,7 +14,7 @@ breadcrumb: [Using Shopping Hub, Use, Sourcing and Procurement Operations, Finan
 
 # Complete your checkout
 
-Proceed to checkout when you’ve completed your shopping and have reviewed your [[shopping-cart|shopping cart]].
+Proceed to checkout when you’ve completed your shopping and have reviewed your shopping cart.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ Role required: sn\_shop.shopper
 
 6.  Add relevant attachments, if applicable.
 
-    **Note:** You can add attachments at the entire purchase level and also at the individual product level. The purchase requisitions display the attachments added at both the levels. If approvals are required for this purchase, these attachments are available for all the approvers in both [[shopping-hub-overview|Shopping Hub]] and Employee Center. The automatic approval emails that are triggered also contain the attachments for reference, as needed.
+    **Note:** You can add attachments at the entire purchase level and also at the individual product level. The purchase requisitions display the attachments added at both the levels. If approvals are required for this purchase, these attachments are available for all the approvers in both Shopping Hub and Employee Center. The automatic approval emails that are triggered also contain the attachments for reference, as needed.
 
 7.  Provide any additional information, if applicable.
 
@@ -46,10 +46,10 @@ Role required: sn\_shop.shopper
 
     Your purchase is requested, and a confirmation page is displayed with the following information:
 
-    -   Message stating that your requested amount, if approved, shall be processed and sent to the [[supplier|supplier]], and that you’ll be notified of the same.
-    -   Link to view all your purchases. This takes you to the [[my-purchases|My purchases]] landing page.
+    -   Message stating that your requested amount, if approved, shall be processed and sent to the supplier, and that you’ll be notified of the same.
+    -   Link to view all your purchases. This takes you to the [My purchases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/my-purchases.md) landing page.
     -   What to expect, listing the next steps.
-    **Note:** On completing your checkout, an appropriate number of cart lines are created, which then result in the creation of [[purchase-lines|purchase lines]]. For more information, see [Purchase line creation scenarios](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-line-creation-scenarios.md).
+    **Note:** On completing your checkout, an appropriate number of cart lines are created, which then result in the creation of purchase lines. For more information, see [Purchase line creation scenarios](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-line-creation-scenarios.md).
 
 
 -   **[Select a delivery location](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/select-delivery-location.md)**  
@@ -57,11 +57,11 @@ You can select either a single delivery location or multiple delivery locations 
 -   **[Select a delivery date](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/select-delivery-date.md)**  
 You can select a single delivery date or multiple delivery dates for the various products in your cart. If you're unsure of a delivery date, you can provide an estimated time frame which then creates a blanket order.
 -   **[Select a payment method](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/select-payment-method.md)**  
-You can pay using one of your preferred payment methods or use another [[cost-center|cost center]] to make the payment. You can even pay using multiple cost centers for the various products in your cart.
+You can pay using one of your preferred payment methods or use another cost center to make the payment. You can even pay using multiple cost centers for the various products in your cart.
 -   **[Provide a reason for your purchase](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/provide-reason-for-purchase.md)**  
 You must provide a reason for making your purchase. This is mandatory and allows you to complete your checkout.
 -   **[Configure additional questions for checkout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/configure-additional-questions-for-checkout.md)**  
-As an administrator, you can configure additional questions for full checkout to collect more information from a shopper specific to a purchase. This information is first stored in the Requisition Additional Info staging table against the [[purchase-requisition|purchase requisition]] ID that is created on checkout, and then mapped to the Purchase Requisitions table for back-end consumption.
+As an administrator, you can configure additional questions for full checkout to collect more information from a shopper specific to a purchase. This information is first stored in the Requisition Additional Info staging table against the purchase requisition ID that is created on checkout, and then mapped to the Purchase Requisitions table for back-end consumption.
 -   **[Configure purchase requisition line-level questions in ShoppingHub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/configure-additional-information-prl.md)**  
 As a procurement administrator, you can create configurable, line-level questions for shoppers to provide the information needed to complete the purchase during the checkout process in Shopping Hub. These questions are defined in Catalog Builder and specific to certain products or product categories.
 -   **[Checkout data loss scenarios](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/checkout-value-retention-scenarios.md)**  
@@ -71,12 +71,3 @@ On completing your checkout, an appropriate number of cart lines are created, wh
 
 **Parent Topic:**[Using Shopping Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/use-shoppinghub-portal.md)
 
-## Related
-
-- [[my-purchases|My purchases on Shopping Hub]]
-- [[shopping-cart|Shopping cart]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[supplier|Supplier]]
-- [[purchase-lines|Purchase lines]]
-- [[cost-center|Cost center]]
-- [[purchase-requisition|Purchase requisition]]

@@ -14,9 +14,9 @@ breadcrumb: [Access simulator, Access Analyzer, Access Management]
 
 # Exploring Access Simulator
 
-[[access-simulator|Access Simulator]] helps you pre-validate how access to a specified table would change once a role or group is assigned or removed from the user.
+Access Simulator helps you pre-validate how access to a specified table would change once a role or group is assigned or removed from the user.
 
-Use Access Simulator to simulate access requirements of your [[users|users]] on a specified table and understand how the access controls changes for a user. It helps in quickly troubleshooting and validating the effectiveness of changes.
+Use Access Simulator to simulate access requirements of your users on a specified table and understand how the access controls changes for a user. It helps in quickly troubleshooting and validating the effectiveness of changes.
 
 \[Omitted video\] Description: Access Simulator
 
@@ -29,7 +29,3 @@ Use Access Simulator to pre-validate access for a selected user by:
 
 To learn more about Access Simulator settings and Enable Take Actions, see [Configuring the Access Simulator \(Take actions\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/configure-access-simulator.md).
 
-## Related
-
-- [[access-simulator|Access simulator]]
-- [[users|Users]]

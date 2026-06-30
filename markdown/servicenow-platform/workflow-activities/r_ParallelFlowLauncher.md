@@ -80,7 +80,7 @@ Advanced
 
 </td><td>
 
-Check **Advanced**, to enter a script that uses a [[c_WorkflowCoordinatorObject|WorkflowCoordinator object]] to manage the subflows. When you check Advanced, a text box appears where you can enter a script that specifies a unique workflow for each set of input variables. See [WorkflowCoordinator object](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/c_WorkflowCoordinatorObject.md) for more information.
+Check **Advanced**, to enter a script that uses a WorkflowCoordinator object to manage the subflows. When you check Advanced, a text box appears where you can enter a script that specifies a unique workflow for each set of input variables. See [WorkflowCoordinator object](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/c_WorkflowCoordinatorObject.md) for more information.
 
 </td></tr><tr><td class="subhead" colspan="2">
 
@@ -198,6 +198,3 @@ This example shows how to use the **Parallel Flow Launcher**activity with an arr
 
 **Parent Topic:**[Subflow activities in workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/c_SubflowActivities.md)
 
-## Related
-
-- [[c_WorkflowCoordinatorObject|WorkflowCoordinator object]]

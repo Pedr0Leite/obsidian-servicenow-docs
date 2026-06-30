@@ -14,7 +14,7 @@ breadcrumb: [Knowledge Graph, Enable AI experiences]
 
 # Reference for Knowledge Graph
 
-[[knowledge-graph-landing|Knowledge Graph]] uses the following terminologies.
+Knowledge Graph uses the following terminologies.
 
 |Term|Description|
 |----|-----------|
@@ -30,6 +30,3 @@ breadcrumb: [Knowledge Graph, Enable AI experiences]
 |Start Node|The start data point for creating an edge or relationship.|
 |End Node|The end data point for creating an edge or relationship.|
 
-## Related
-
-- [[knowledge-graph-landing|Knowledge Graph]]

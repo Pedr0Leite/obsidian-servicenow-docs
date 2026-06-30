@@ -14,7 +14,7 @@ breadcrumb: [Project Portfolio Management reference, Project Portfolio Managemen
 
 # Business stakeholder role for PPM
 
-For PPM users, the Business Stakeholder \(com.snc.business\_stakeholder\) plugin contains the business stakeholder roles for Enterprise Architecture \(formerly APM\), ITFM, and PPM. Users with this role can read records of the tables that are used to retrieve data for reports and dashboards and can [[approve-demands-ppw|approve demands]] and timecards. You can assign this role to any user who is a business stakeholder.
+For PPM users, the Business Stakeholder \(com.snc.business\_stakeholder\) plugin contains the business stakeholder roles for Enterprise Architecture \(formerly APM\), ITFM, and PPM. Users with this role can read records of the tables that are used to retrieve data for reports and dashboards and can approve demands and timecards. You can assign this role to any user who is a business stakeholder.
 
 ## Upgrade information
 
@@ -28,7 +28,7 @@ The Read only roles for PPM Standard plugin \(com.snc.pmo\_read\_roles\) install
 
 ## PPM tables accessible to users with the business stakeholder role
 
-Users with the business stakeholder role for PPM can access the following tables that store the data to load the widgets in the [[c_PortfolioManagerDashboard|Portfolio dashboard]], [[c_ProgramManagerDashboard|Program dashboard]], and Time Sheet dashboard, and Resource reports:
+Users with the business stakeholder role for PPM can access the following tables that store the data to load the widgets in the Portfolio dashboard, Program dashboard, and Time Sheet dashboard, and Resource reports:
 
 |Label|Table name|
 |-----|----------|
@@ -57,8 +57,3 @@ Users with the business stakeholder role for PPM can access the following tables
 
 **Parent Topic:**[Project Portfolio Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/project-portfolio-management-reference.md)
 
-## Related
-
-- [[approve-demands-ppw|Approve demands]]
-- [[c_PortfolioManagerDashboard|Portfolio Dashboard]]
-- [[c_ProgramManagerDashboard|Program Dashboard]]

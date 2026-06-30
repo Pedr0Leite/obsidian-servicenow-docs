@@ -14,7 +14,7 @@ breadcrumb: [Agent Client Collector Monitoring default checks and policies, ACC-
 
 # MSSQL default checks and policies
 
-The [[acc-landing-page|Agent Client Collector]] provides the following default [[checks-policies|checks and policies]] for MSSQL Metrics monitoring.
+The Agent Client Collector provides the following default checks and policies for MSSQL Metrics monitoring.
 
 <table id="table_rgw_psy_vrb"><thead><tr><th>
 
@@ -71,7 +71,3 @@ Custom metrics defined in the parameters, which also contain value and timestamp
 </td></tr></tbody>
 </table>**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-policies-checks.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[checks-policies|Checks and policies]]

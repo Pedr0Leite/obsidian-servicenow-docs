@@ -14,7 +14,7 @@ breadcrumb: [Administer, Instance Data Replication, Manage instance data sources
 
 # Avoiding insert and update errors in Instance Data Replication
 
-You can avoid insert and update failures in [[instance-data-replication|Instance Data Replication]] \(IDR\) by specifying a class name filter in the producer replication set.
+You can avoid insert and update failures in Instance Data Replication \(IDR\) by specifying a class name filter in the producer replication set.
 
 **Important:** This topic only applies to producer replication sets created prior to the Utah release.
 
@@ -27,7 +27,7 @@ If the table is a parent, decide if you want to replicate any of its child table
 
 -   If you want to replicate one or more child tables, you must identify the sys\_class\_name value for the parent table, and then add a corresponding sys\_class\_name filter to the parent table.
 
-    For example, **Task Type** is the [[label|label]] for sys\_class\_name on the Task \[task\] table. To start replicating the incidents in addition to tasks, you must add **\[Task Type\] \[is\] \[Task\]** to the outbound entry for the Task \[task\] table.
+    For example, **Task Type** is the label for sys\_class\_name on the Task \[task\] table. To start replicating the incidents in addition to tasks, you must add **\[Task Type\] \[is\] \[Task\]** to the outbound entry for the Task \[task\] table.
 
 -   If you only want to replicate the parent table, the filter is optional.
 -   If the parent table is already being replicated, you must edit the parent and add the sys\_class\_name filter.
@@ -60,7 +60,3 @@ If the table is a child, decide if you want to replicate its parent.
 
 [Resolving data replication errors in Instance Data Replication]()
 
-## Related
-
-- [[instance-data-replication|Instance Data Replication]]
-- [[label|Label]]

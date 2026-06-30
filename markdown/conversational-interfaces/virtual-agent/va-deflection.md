@@ -14,7 +14,7 @@ breadcrumb: [Assistant Designer utilities, Assistant Designer interface referenc
 
 # Deflection utility
 
-Use the Deflection utility in [[virtual-agent-landing-page|Virtual Agent]] to track issues that Virtual Agent helped to resolve or actually resolved for a user.
+Use the Deflection utility in Virtual Agent to track issues that Virtual Agent helped to resolve or actually resolved for a user.
 
 ## Deflection utility properties
 
@@ -91,11 +91,7 @@ No-code condition statement or low-code script that specifies a condition for pr
 </td></tr></tbody>
 </table>## Example Deflection utility
 
-\[Omitted image "flow-designer-deflection-properties.png"\] Alt text: [[va-action|Action utility]] properties.
+\[Omitted image "flow-designer-deflection-properties.png"\] Alt text: Action utility properties.
 
 **Parent Topic:**[Assistant Designer utilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-utilities.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[va-action|Action utility]]

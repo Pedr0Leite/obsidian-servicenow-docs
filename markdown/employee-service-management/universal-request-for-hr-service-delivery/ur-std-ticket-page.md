@@ -14,11 +14,11 @@ breadcrumb: [Configuring Universal Request, Setting up and configuring Universal
 
 # Standard Ticket page for Universal Request
 
-The [[ur-landing-limitedaccess|Universal Request]] standard ticket page enables requesters to view the details of their universal requests from the Service Portal.
+The Universal Request standard ticket page enables requesters to view the details of their universal requests from the Service Portal.
 
-A requester can view the aggregated and simplified view of the UR [[activity-lxp|activity]] and all activities from one or more child department tickets \(primary tickets\). Using the UR standard ticket page has the following advantages:
+A requester can view the aggregated and simplified view of the UR activity and all activities from one or more child department tickets \(primary tickets\). Using the UR standard ticket page has the following advantages:
 
--   A ticket [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] number \(UR number\) that is always consistent for the requester, even when the request is transferred between various departments.
+-   A ticket reference number \(UR number\) that is always consistent for the requester, even when the request is transferred between various departments.
 -   The UR state details that is derived from the mapping between the UR states and the states of the primary ticket associated with UR. With this state mapping enabled, the requester sees only the UR state.
 -   An activity stream that shows a logical and sequential record of comments to and from any fulfiller who worked on the UR or its primary tickets.
 -   An info region that displays department-specific fields of the current primary ticket. For example, configure the page to show **Opened For** and **Subject Person** fields from a child HR case, or to show **Caller** and **Urgency** fields from a child IT incident.
@@ -156,8 +156,3 @@ Use the Standard ticket page configuration for Universal Request to provide a co
 
 [Configure Standard Ticket page for Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/config-standard-ticket.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[activity-lxp|Activity]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

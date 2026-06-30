@@ -22,13 +22,13 @@ Role required: sn\_grc.admin.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **GRC [[Administration|Administration]]** &gt; **Issue Relationship Configurations**.
+1.  Navigate to **All** &gt; **GRC Administration** &gt; **Issue Relationship Configurations**.
 
 2.  Select any record that you want to configure the issue relationship to.
 
 3.  Enable or disable the configuration records by selecting or deselecting the **Active** field.
 
-    \[Omitted image "issue-relationship-configuration-form.png"\] Alt text: [[issue-relationship-configuration-fields|Issue relationship configuration form]].
+    \[Omitted image "issue-relationship-configuration-form.png"\] Alt text: Issue relationship configuration form.
 
     For more information about the fields in the issue relationship configuration form, see [Issue Relationship Configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/issue-relationship-configuration-fields.md).
 
@@ -38,7 +38,3 @@ Use the Issue Relationship Configuration form in the GRC application to automati
 
 **Parent Topic:**[Configuring an issue relationship](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/issue-relationship-configuration.md)
 
-## Related
-
-- [[Administration|Administration]]
-- [[issue-relationship-configuration-fields|Issue Relationship Configuration form]]

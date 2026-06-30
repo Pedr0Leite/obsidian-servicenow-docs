@@ -14,7 +14,7 @@ breadcrumb: [Set up a profile for manual event forwarding, Create an event profi
 
 # Create mappings for Splunk ES notable event incident review and contributing event details \(manual forwarding\)
 
-During the notable event field [[mapping-logrhythm|mapping]] step, you map individual event fields from notable events to fields on a ServiceNow AI Platform [[sir-landing-page|Security Incident Response]] \(SIR\) security incident.
+During the notable event field mapping step, you map individual event fields from notable events to fields on a ServiceNow AI Platform Security Incident Response \(SIR\) security incident.
 
 ## Before you begin
 
@@ -66,7 +66,4 @@ Create custom mappings by adding or removing the fields on the mapping grid on t
 
 3.  Follow steps 5 to 10 in the [Map notable events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/splunk-event-ingest-map-alerts-security.md) section.
 
-## Related
 
-- [[mapping-logrhythm|Mapping]]
-- [[sir-landing-page|Security Incident Response]]

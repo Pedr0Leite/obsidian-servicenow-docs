@@ -12,7 +12,7 @@ breadcrumb: [User interface configuration, Working in Core UI, Configure UIs and
 
 # Enabling accessibility features
 
-You can [[configure-onboarding-modals|configure]] accessibility features globally or for specific users. Users can also individually enable user preferences for themselves to meet their specific accessibility needs.
+You can configure accessibility features globally or for specific users. Users can also individually enable user preferences for themselves to meet their specific accessibility needs.
 
 The platform includes features that support Web Content Accessibility Guidelines \(WCAG\) 2.0 AA and WCAG 2.1 AA \(for some products\) to make the interface more accessible to all users. These features improve the user experience when accessing the instance with screen readers and keyboard navigation.
 
@@ -25,7 +25,7 @@ All of these options can be configured globally or for specific users.
 -   Use skip links.
 -   Turn off first field focus
 
-**Parent Topic:**[[p_NavigationAndUIConfiguration|User interface configuration]]
+**Parent Topic:**[User interface configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/p_NavigationAndUIConfiguration.md)
 
 ## Enable accessibility mode
 
@@ -37,7 +37,7 @@ Role required: none
 
 ### About this task
 
-Administrators can enable accessibility mode for specific users by navigating to **User Administration** &gt; **User Preferences** and searching for the `glide.ui.accessibility` user preference. For more information on configuring user preferences, see [[c_UserPreferences|User preferences]].
+Administrators can enable accessibility mode for specific users by navigating to **User Administration** &gt; **User Preferences** and searching for the `glide.ui.accessibility` user preference. For more information on configuring user preferences, see [User preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_UserPreferences.md).
 
 ### Procedure
 
@@ -47,12 +47,12 @@ Administrators can enable accessibility mode for specific users by navigating to
 
 3.  From the General tab, select the **Accessibility enabled** option.
 
-    Accessible tooltips on [[form-configurable-workspace|forms]] is enabled automatically the first time you enable accessibility mode.
+    Accessible tooltips on forms is enabled automatically the first time you enable accessibility mode.
 
 
 ### What to do next
 
-Alternatively, enable accessibility mode using the Enable Accessibility skip link. For more information on skip links, see [[keyboard-accessibility|Use skip links]].
+Alternatively, enable accessibility mode using the Enable Accessibility skip link. For more information on skip links, see [Use skip links](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/keyboard-accessibility.md).
 
 \[Omitted image "EnableAccessibiltySkipLink.png"\] Alt text: Enable accessibility skip link, which is the first focusable element on the page.
 
@@ -63,7 +63,7 @@ Alternatively, enable accessibility mode using the Enable Accessibility skip lin
 
 ## Enable the high contrast theme
 
-In [[c_UI16|Core UI]], administrators can enable the Contrast UI theme for users who need a greater contrast in color.
+In Core UI, administrators can enable the Contrast UI theme for users who need a greater contrast in color.
 
 ### Before you begin
 
@@ -71,7 +71,7 @@ Role required: admin
 
 ### About this task
 
-Individual users can enable the contrast theme for themselves by navigating to the Theme tab of the [[r_UI16BannerFrame|system settings]] menu. From the Theme tab, select the **Contrast UI** theme.
+Individual users can enable the contrast theme for themselves by navigating to the Theme tab of the [system settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/r_UI16BannerFrame.md) menu. From the Theme tab, select the **Contrast UI** theme.
 
 ### Procedure
 
@@ -231,12 +231,4 @@ The following example assumes:
     PROMPT> java -jar <edge encryption interactive file name>.jar
     ```
 
-## Related
 
-- [[p_NavigationAndUIConfiguration|User interface configuration]]
-- [[c_UserPreferences|User preferences]]
-- [[keyboard-accessibility|Using accessibility features]]
-- [[r_UI16BannerFrame|System settings for the Core UI]]
-- [[configure-onboarding-modals|Configure]]
-- [[form-configurable-workspace|Forms]]
-- [[c_UI16|Core UI]]

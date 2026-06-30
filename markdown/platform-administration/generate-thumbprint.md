@@ -12,7 +12,7 @@ breadcrumb: [OAuth profile to use certificates, Read email using Microsoft Graph
 
 # Generate a SHA-1 thumbprint
 
-[[generate-sha-1-thumbprint|Generate a SHA-1 thumbprint]] using the JWT provider's sys\_id and JKS certificate's sys\_id and certificate's alias to be added to the GraphCertificateOAuthTemplate script.
+Generate a SHA-1 thumbprint using the JWT provider's sys\_id and JKS certificate's sys\_id and certificate's alias to be added to the GraphCertificateOAuthTemplate script.
 
 ## Before you begin
 
@@ -41,12 +41,7 @@ Role required: admin
 
 ## What to do next
 
-[[oauth-api-script|Create an OAuth API script]]
+[Create an OAuth API script](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/oauth-api-script.md)
 
-**Parent Topic:**[[configure-oauth-profile-using-certificates|Configure an OAuth profile to use certificates for authentication with Microsoft Azure]]
+**Parent Topic:**[Configure an OAuth profile to use certificates for authentication with Microsoft Azure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-oauth-profile-using-certificates.md)
 
-## Related
-
-- [[oauth-api-script|Create an OAuth API script]]
-- [[configure-oauth-profile-using-certificates|Configure an OAuth profile to use certificates for authentication with Microsoft Azure]]
-- [[generate-sha-1-thumbprint|Generate a SHA-1 thumbprint]]

@@ -14,7 +14,7 @@ breadcrumb: [Connect Support, Connect, ServiceNow AI Platform Additional Capabil
 
 # Monitor incoming Connect Support conversations
 
-In the support tab of the [[c_Connect|Connect]] sidebar, you can monitor the queues for which you are an agent and accept incoming conversations.
+In the support tab of the Connect sidebar, you can monitor the queues for which you are an agent and accept incoming conversations.
 
 ## Before you begin
 
@@ -26,9 +26,9 @@ Role required: none
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Connect** &gt; **[[c_ConnectSupport|Connect Support]]**.
+1.  Navigate to **All** &gt; **Connect** &gt; **Connect Support**.
 
-    The [[c_CollaborationWorkspace|Connect workspace]] opens in a new tab.
+    The Connect workspace opens in a new tab.
 
 2.  Click the support tab of the Connect sidebar, indicated by a headset icon \(\[Omitted image "IconSupport.png"\] Alt text: Support icon\).
 
@@ -69,11 +69,5 @@ Under **Cases**, click **Accept** by a transfer request.\[Omitted image "Connect
 **Related topics**  
 
 
-[[take-survey-connect-chat|Configure a survey in the Connect chat support]]
+[Configure a survey in the Connect chat support](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/take-survey-connect-chat.md)
 
-## Related
-
-- [[take-survey-connect-chat|Configure a survey in the Connect chat support]]
-- [[c_Connect|Connect]]
-- [[c_ConnectSupport|Connect Support]]
-- [[c_CollaborationWorkspace|Connect workspace]]

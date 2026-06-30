@@ -16,7 +16,7 @@ breadcrumb: [Machine learning solutions for HR Service Delivery, Integration of 
 
 Auto determine the assignment group for a case. Enable an HR agent to transfer the case to correct assignment group rather than having to spend significant time manually identifying groups for HR cases.
 
-**Important:** This feature is available with the HR Professional and HR Enterprise packages when you activate the [[hr-service-delivery|HR Service Delivery]] and Predictive Intelligence applications. To use this feature, enable the **sn\_hr\_core.case\_auto\_assignment** system property.
+**Important:** This feature is available with the HR Professional and HR Enterprise packages when you activate the HR Service Delivery and Predictive Intelligence applications. To use this feature, enable the **sn\_hr\_core.case\_auto\_assignment** system property.
 
 ## Auto-determined assigned group displayed in a banner
 
@@ -39,9 +39,5 @@ By default the Auto Assignment Group for HR Cases solution definition is configu
 
 You can [manually train the predictive model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-predictive-intelligence-train.md) if it is not auto trained by default. After you manually train the predictive model, navigate to the **HR AI configuration** module, open the Case Assignment group record, and map the configured solution definition.
 
-**Parent Topic:**[Machine [[exploring-learning-exp|learning]] solutions for HR Service Delivery]()
+**Parent Topic:**[Machine learning solutions for HR Service Delivery]()
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[exploring-learning-exp|Learning]]

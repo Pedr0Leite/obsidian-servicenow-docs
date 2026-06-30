@@ -22,7 +22,7 @@ With notification preferences you can manage and choose the notifications you wa
 
 </td><td>
 
-[Notification Preferences in Next Experience\[Omitted image "bus-sdlc.svg"\] Alt text:Manage and [[set-notification-preferences|set notification preferences]], including customized notifications and channels](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/advanced-notification-prefrences.md)
+[Notification Preferences in Next Experience\[Omitted image "bus-sdlc.svg"\] Alt text:Manage and set notification preferences, including customized notifications and channels](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/advanced-notification-prefrences.md)
 
 </td><td>
 
@@ -31,26 +31,17 @@ With notification preferences you can manage and choose the notifications you wa
 </td></tr></tbody>
 </table>## Troubleshoot and get help
 
--   [[troubleshooting-notification-emails|Troubleshooting Notification emails]]
+-   [Troubleshooting Notification emails](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/troubleshooting-notification-emails.md)
 -   Ask or answer questions in the [Platform](https://community.servicenow.com/community/service-automation-platform) community
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
--   **[[exploring-preferences|Exploring preferences]]**  
-With notification preferences you can manage and choose the notifications you want to receive. Notification preferences enable you to set global preferences, search for notifications, enable and disable notifications, and customize the way you receive [[system-notifications-landing|system notifications]].
--   **[[advanced-notification-prefrences|System and custom notification and delivery channel preferences in Next Experience]]**  
+-   **[Exploring preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/exploring-preferences.md)**  
+With notification preferences you can manage and choose the notifications you want to receive. Notification preferences enable you to set global preferences, search for notifications, enable and disable notifications, and customize the way you receive system notifications.
+-   **[System and custom notification and delivery channel preferences in Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/advanced-notification-prefrences.md)**  
 You can manage and set your own notification preferences, including customized notifications and channels for receiving them.
--   **[[user-notification-preferences|Setting notification preferences in Core UI]]**  
+-   **[Setting notification preferences in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-notification-preferences.md)**  
 You can set your own notification preferences, including personal subscriptions and channels for receiving them. All users can set these preferences through the **Notifications** tab of the System Settings window.
 
-**Parent Topic:**[[notifications|Notifications]]
+**Parent Topic:**[Notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/notifications.md)
 
-## Related
-
-- [[troubleshooting-notification-emails|Email FAQs and troubleshooting notification emails]]
-- [[exploring-preferences|Exploring preferences]]
-- [[advanced-notification-prefrences|System and custom notification and delivery channel preferences in Next Experience]]
-- [[user-notification-preferences|Setting notification preferences in Core UI]]
-- [[notifications|Notifications]]
-- [[set-notification-preferences|Set notification preferences]]
-- [[system-notifications-landing|System notifications]]

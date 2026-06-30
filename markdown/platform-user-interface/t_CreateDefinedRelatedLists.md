@@ -20,7 +20,7 @@ Role required: related\_list\_admin
 
 ## About this task
 
-For example, you may include a list of related incidents at the bottom of a problem record, or a list of members at the bottom of a group record. This functionality depends on [[onboarding-modals-reference|reference]] fields or many-to-many table relationships. If two tables are related via the system dictionary, one can appear as a related list on the other.
+For example, you may include a list of related incidents at the bottom of a problem record, or a list of members at the bottom of a group record. This functionality depends on reference fields or many-to-many table relationships. If two tables are related via the system dictionary, one can appear as a related list on the other.
 
 Defined related lists allow relationships between arbitrary tables to be expressed as a related list. Any two tables that can have a logical relationship can appear as a parent/child pair via a related list. The following are some examples.
 
@@ -54,7 +54,7 @@ Name
 
 </td><td>
 
-Type the name of the related list. The form configuration page displays this name in the list of available [[lists-configurable-workspace|lists]].
+Type the name of the related list. The form configuration page displays this name in the list of available lists.
 
 </td></tr><tr><td>
 
@@ -130,12 +130,12 @@ Type a script to run after a successful insert action. This field is only visibl
 </table>4.  Click **Submit**.
 
 
--   **[[t_ExampleIncidentsBySameCaller|Add incidents by same caller related list]]**  
-This example adds the existing relationship, Incidents by Same Caller, to incident [[form-configurable-workspace|forms]].
--   **[[t_ExampleTransactionsByUser|Add transactions by user related list]]**  
+-   **[Add incidents by same caller related list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_ExampleIncidentsBySameCaller.md)**  
+This example adds the existing relationship, Incidents by Same Caller, to incident forms.
+-   **[Add transactions by user related list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_ExampleTransactionsByUser.md)**  
 This example adds a relationship, Last 20 transactions, to the user form.
 
-**Parent Topic:**[[c_RelatedLists|Related lists]]
+**Parent Topic:**[Related lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_RelatedLists.md)
 
 **Related topics**  
 
@@ -152,11 +152,3 @@ This example adds a relationship, Last 20 transactions, to the user form.
 
 [Create a default filter for list selector records]()
 
-## Related
-
-- [[t_ExampleIncidentsBySameCaller|Add incidents by same caller related list]]
-- [[t_ExampleTransactionsByUser|Add transactions by user related list]]
-- [[c_RelatedLists|Related lists]]
-- [[onboarding-modals-reference|Reference]]
-- [[lists-configurable-workspace|Lists]]
-- [[form-configurable-workspace|Forms]]

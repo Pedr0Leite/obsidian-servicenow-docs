@@ -14,11 +14,11 @@ breadcrumb: [New record menu items migration from ITSM Agent Workspace to Servic
 
 # Perform post-migration tasks for new records
 
-Verify that the new record menus in Service Operations Workspace \(SOW\) are consistent with the new record menus in ITSM Agent Workspace \(ITSM AW\) and they are ready for use in SOW. You can update the [[migrated-records|migrated]] new record menu [[settings-mobile|settings]] in SOW based on your requirements.
+Verify that the new record menus in Service Operations Workspace \(SOW\) are consistent with the new record menus in ITSM Agent Workspace \(ITSM AW\) and they are ready for use in SOW. You can update the migrated new record menu settings in SOW based on your requirements.
 
 ## Before you begin
 
-When performing the migration, you must have selected the **New Records** option for ITSM Agent Workspace features. For example, the **New Records** option for [[c_IncidentManagement|Incident Management]]. For information about the migration process, see [Migrate from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/migrate-itsm-agent-workspace-to-sow.md).
+When performing the migration, you must have selected the **New Records** option for ITSM Agent Workspace features. For example, the **New Records** option for Incident Management. For information about the migration process, see [Migrate from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/migrate-itsm-agent-workspace-to-sow.md).
 
 Role required: admin
 
@@ -38,7 +38,7 @@ At the end of the migration process, a confirmation message specifies if the mig
 
         By default, order is same as available in the ITSM Agent Workspace except for some menu items that are available in the SOW out-of-the-box.
 
-    3.  To make any [[migration-utility-modification|modifications]] in order in which the menu items appear on UI, navigate to **All** &gt; **sys\_ux\_page\_property.list**.
+    3.  To make any modifications in order in which the menu items appear on UI, navigate to **All** &gt; **sys\_ux\_page\_property.list**.
 
     4.  Filter the **Name** with **chrome\_tab** property.
 
@@ -61,9 +61,3 @@ At the end of the migration process, a confirmation message specifies if the mig
 
 **Parent Topic:**[New record menu items migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/new-record-menu-items-migration-itsm-aw-sow.md)
 
-## Related
-
-- [[migrated-records|Migrated]]
-- [[settings-mobile|Settings]]
-- [[c_IncidentManagement|Incident Management]]
-- [[migration-utility-modification|Modifications]]

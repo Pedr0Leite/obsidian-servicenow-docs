@@ -15,7 +15,7 @@ breadcrumb: [Scrum tasks for stories, Agile in CWM, Use, Collaborative Work Mana
 
 # Add scrum tasks to a story in CWM
 
-Break down a user story into scrum tasks in [[cwm-landing|Collaborative Work Management]] \(CWM\) to distribute work across team members and track daily progress during a sprint.
+Break down a user story into scrum tasks in Collaborative Work Management \(CWM\) to distribute work across team members and track daily progress during a sprint.
 
 ## Before you begin
 
@@ -63,6 +63,3 @@ To generate scrum tasks automatically based on the story content without manual 
 
 [Generate scrum tasks for a story with Now Assist for CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/generate-scrum-tasks-for-stories-cwm.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

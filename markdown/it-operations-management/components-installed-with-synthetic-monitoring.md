@@ -12,7 +12,7 @@ breadcrumb: [Synthetic monitoring reference, Synthetic monitoring, ITOM AIOps, I
 
 # Components installed with synthetic monitoring
 
-Several types of components are installed with activation of the [[synthetic-monitoring-landing-page|synthetic monitoring]] plugin, including tables and user roles.
+Several types of components are installed with activation of the synthetic monitoring plugin, including tables and user roles.
 
 ## Roles installed
 
@@ -155,7 +155,7 @@ Single API to Policy
 
 </td><td>
 
-Single API synthetic test data and its corresponding [[acc-landing-page|Agent Client Collector]] \(ACC\) policies.
+Single API synthetic test data and its corresponding Agent Client Collector \(ACC\) policies.
 
 </td></tr><tr><td>
 
@@ -241,7 +241,7 @@ sn\_sow\_synthetics\_check\_alert
 
 </td><td>
 
-A join table that links a synthetic check to an [[c_EM|Event Management]] alert. When a synthetic monitor detects a failure, the platform creates a record here to track the relationship between the failing check and the alert it generated. Records are cascade-deleted when either the check or the alert is removed.
+A join table that links a synthetic check to an Event Management alert. When a synthetic monitor detects a failure, the platform creates a record here to track the relationship between the failing check and the alert it generated. Records are cascade-deleted when either the check or the alert is removed.
 
 </td></tr><tr><td>
 
@@ -260,11 +260,5 @@ sn\_sow\_synthetics\_bulk\_job\_governance
 Defines governance metadata for rate limiting and auditing for bulk jobs.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[synthetic-monitoring-reference|Synthetic monitoring reference]]
+</table>**Parent Topic:**[Synthetic monitoring reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/synthetic-monitoring-reference.md)
 
-## Related
-
-- [[synthetic-monitoring-reference|Synthetic monitoring reference]]
-- [[synthetic-monitoring-landing-page|Synthetic monitoring]]
-- [[acc-landing-page|Agent Client Collector]]
-- [[c_EM|Event Management]]

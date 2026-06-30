@@ -14,7 +14,7 @@ breadcrumb: [Palo Alto Networks Next-Generation Firewall integration, Security I
 
 # Submit EDL entries from the blocklist for Palo Alto Networks Next-Generation Firewall
 
-For [[c_Observables|observables]] determined to be malicious, and not associated with a specific ServiceNow AI Platform security incident, you submit External Dynamic List \(EDL\) entries from the blocklist.
+For observables determined to be malicious, and not associated with a specific ServiceNow AI Platform security incident, you submit External Dynamic List \(EDL\) entries from the blocklist.
 
 ## Before you begin
 
@@ -98,7 +98,7 @@ Select **Unknown** or **Malicious**.
 
 </td><td>
 
-Source that performs a [[tisc-threat-lookup|threat lookup]] on the EDL entry, for example, ThreatCrowd, etc.
+Source that performs a threat lookup on the EDL entry, for example, ThreatCrowd, etc.
 
 </td></tr><tr><td id="d329588e221">
 
@@ -164,7 +164,3 @@ Approve EDL entries.
 
 [EDL entry exceptions for Palo Alto Networks Next-Generation Firewall](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/paloalto-edl-execptions.md)
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[tisc-threat-lookup|Threat Lookup]]

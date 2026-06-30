@@ -126,7 +126,7 @@ Option to enable debug level logging in System Logs table for all REST calls goi
 
 
 -   **[Use the script editor to format LogRhythm values](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/add-scripted-values-logrhythm.md)**  
-In addition to the directly mapped fields from the pulled alarm values, and the alarm values you enter manually, you can use the script editor to format field values on the security incident during the [[mapping-logrhythm|mapping]] step which is optional.
+In addition to the directly mapped fields from the pulled alarm values, and the alarm values you enter manually, you can use the script editor to format field values on the security incident during the mapping step which is optional.
 -   **[Copy an alarm profile for LogRhythm](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/copy-alarm-profile-logrhythm.md)**  
 Copy an existing profile and its associated settings instead of creating a new alarm profile. If you are creating multiple alarm profiles for different types of alarms and you want to reuse the settings of an existing profile, you can copy alarm profiles to save time. This process is optional.
 -   **[Disable automated alarm closure for LogRhythm](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/disable-auto-alarm-logrhythm.md)**  
@@ -140,6 +140,3 @@ View the related raw or base events for a LogRhythm alarm in the security incide
 
 **Next topic:**[Use the script editor to format LogRhythm values](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/add-scripted-values-logrhythm.md)
 
-## Related
-
-- [[mapping-logrhythm|Mapping]]

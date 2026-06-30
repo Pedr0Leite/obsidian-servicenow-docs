@@ -18,7 +18,7 @@ You can enable users to request for an item or service, and track or approve req
 
 ## Activation of Now Mobile for Service Catalog
 
-If you have the admin role, activate the ServiceNow Mobile Request Native Application Screens and Applet Launcher plugin \(com.glide.mobile-employee\). See [Now Mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/mobile-employee-experience.md). This plugin enables the [[service-catalog|Service Catalog]] functionality by default.
+If you have the admin role, activate the ServiceNow Mobile Request Native Application Screens and Applet Launcher plugin \(com.glide.mobile-employee\). See [Now Mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/mobile-employee-experience.md). This plugin enables the Service Catalog functionality by default.
 
 ## For Me tab
 
@@ -51,10 +51,10 @@ You can submit or track requests.
     -   Standard change template
 -   All items hidden in Service Portal are also hidden in the mobile app.
 -   In the RITM and record view, these variable types are not supported.
-    -   [[html|HTML]]
+    -   HTML
     -   Custom
-    -   Custom with [[label|Label]]
-    -   [[ui-page|UI Page]]
+    -   Custom with Label
+    -   UI Page
 -   In the RITM and request view, a multi-row variable set is not supported. A message is displayed in this view that this variable set is not viewable.
 -   On-load catalog UI policies \(non-scripted\) are supported for variables in record views, for example, requested item and incident.
 
@@ -65,8 +65,8 @@ You can submit or track requests.
 
 From Now Mobile, you can also perform the following tasks:
 
--   [[now-mob-browse-cat-item-catalog|Browse catalog items using the catalog hierarchy]] in addition to the category hierarchy. For information about its configuration, see [Browse catalog items using the catalog hierarchy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/now-mob-browse-cat-item-catalog.md).
--   Change the label of the **Submit** button for a [[c_RecordProducer|record producer]]. For information on editing the button label, see [Edit the label of Submit button for a record producer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/edit-recprdcr-submit-label.md).
+-   Browse catalog items using the catalog hierarchy in addition to the category hierarchy. For information about its configuration, see [Browse catalog items using the catalog hierarchy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/now-mob-browse-cat-item-catalog.md).
+-   Change the label of the **Submit** button for a record producer. For information on editing the button label, see [Edit the label of Submit button for a record producer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/edit-recprdcr-submit-label.md).
 -   Use the mobile camera to scan bar codes for identifying a variable value of a catalog item. This is only applicable by using the **barcode** attribute for the Single Line Text variable. For information about this variable attribute, see [Service Catalog variable attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/variable-attributes.md).
 
 ## Quick actions
@@ -121,11 +121,3 @@ Define the behavior of various catalog entities in Now Mobile.
 
 [Mobile plugins and upgrades](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/plugins-upgrades.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[html|HTML]]
-- [[label|Label]]
-- [[ui-page|UI page]]
-- [[now-mob-browse-cat-item-catalog|Browse catalog items using the catalog hierarchy]]
-- [[c_RecordProducer|Record Producer]]

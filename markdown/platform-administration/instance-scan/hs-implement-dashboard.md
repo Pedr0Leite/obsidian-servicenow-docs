@@ -14,7 +14,7 @@ breadcrumb: [Using Instance Scan, Instance Scan, Maintain and monitor, Administe
 
 # Using the Instance Scan dashboard
 
-Compare and analyze the [[hs-results|results]] of the scans in your instance by representing it on the premium Performance Analytics \(PA\) dashboard.
+Compare and analyze the results of the scans in your instance by representing it on the premium Performance Analytics \(PA\) dashboard.
 
 ## Before you begin
 
@@ -24,13 +24,13 @@ Role required: admin.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hs-landing-page|Instance Scan]]** &gt; **Dashboard**.
+1.  Navigate to **All** &gt; **Instance Scan** &gt; **Dashboard**.
 
 2.  Select an option from the **Instance Scan Category** or **Instance Scan Priority** list.
 
     **Note:** The dashboard is applicable only for full scans. The **Instance Scan Category** appears only if you have data or a finding in the result set that are applicable to the categories.
 
-3.  Select the scan result from the [[hc-scan-results|Scan Results]] list that generates an unexpected number of check [[hs-findings|findings]].
+3.  Select the scan result from the Scan Results list that generates an unexpected number of check findings.
 
     A related list of findings related to only that scan is expanded.
 
@@ -72,9 +72,3 @@ A dashboard showing the results of scans is created.
 
 [Cancel a scan]()
 
-## Related
-
-- [[hs-results|Results]]
-- [[hs-landing-page|Instance Scan]]
-- [[hc-scan-results|Scan results]]
-- [[hs-findings|Findings]]

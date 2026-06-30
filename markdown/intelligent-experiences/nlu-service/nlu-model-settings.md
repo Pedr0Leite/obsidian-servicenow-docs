@@ -22,7 +22,7 @@ Access the model's settings by navigating to **All** &gt; **NLU Workbench** &gt;
 
 In the upper section of the model settings page, you can change the model's name, short description, and business area. You cannot change the model's language, purpose, or scope. To make a model with a different language, purpose, or scope, see [Creating models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/creating-models.md).
 
-By default, the **Ignore punctuation** check box is active. Ignoring punctuation makes it so that there is less variance between predicted intents and [[docintel-confidence-scores|confidence scores]] for utterances with slightly different punctuation. For best results, keep the check box active.
+By default, the **Ignore punctuation** check box is active. Ignoring punctuation makes it so that there is less variance between predicted intents and confidence scores for utterances with slightly different punctuation. For best results, keep the check box active.
 
 ## Model threshold settings
 
@@ -32,7 +32,7 @@ A threshold is a confidence score represented by a percentage. The confidence th
 
 There are two types of model threshold settings:
 
--   **Automatic** - Allow the system to choose the optimal confidence threshold for your model. The value is updated dynamically based on test results. This happens in the **[[testing-your-model|Test and publish your model]]** phase, where your model's default test set is used.
+-   **Automatic** - Allow the system to choose the optimal confidence threshold for your model. The value is updated dynamically based on test results. This happens in the **Test and publish your model** phase, where your model's default test set is used.
 -   **Manual** - You can manually set the confidence threshold. The system may also recommend a better threshold for the model during testing. You can choose to accept recommendations.
 
 Prebuilt models come with a tuned threshold. The confidence threshold on prebuilt models was chosen specifically for that model.
@@ -50,7 +50,3 @@ Test results with a recommended threshold contain a second graphic. The second g
 
 Applying the threshold recommendation may improve the prediction percentages of your model. Select **Apply recommendations** to change the threshold. The system automatically retrains the model, and the test results show the prediction percentages with the new threshold.
 
-## Related
-
-- [[docintel-confidence-scores|Confidence scores]]
-- [[testing-your-model|Test and publish your model]]

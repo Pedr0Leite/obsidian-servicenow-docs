@@ -14,7 +14,7 @@ breadcrumb: [Setting up AWS cloud, Configuring cloud providers, Configuring Clou
 
 # Set up an Identity Access Manager in AWS GovCloud
 
-Create AWS CloudFormation Identity Access Manager \(IAM\) resources for three AWS account types in the management account using the CloudFormation templates \(CFT\) to integrate ServiceNow [[cam-landing|Cloud Account management]] \(CAM\) with AWS GovCloud.
+Create AWS CloudFormation Identity Access Manager \(IAM\) resources for three AWS account types in the management account using the CloudFormation templates \(CFT\) to integrate ServiceNow Cloud Account management \(CAM\) with AWS GovCloud.
 
 ## Before you begin
 
@@ -116,7 +116,7 @@ AWS GovCloud accounts are always linked to commercial accounts, which means IAM 
                       - 'organizations:DetachPolicy'
                       - 'sts:AssumeRole'
                     Resource: '*'
-                  # [[r-discovery|Discovery]] Workflow Permissions
+                  # Discovery Workflow Permissions
                   - Sid: ServiceNowDiscoveryAccess
                     Effect: Allow
                     Action:
@@ -395,7 +395,4 @@ AWS GovCloud accounts are always linked to commercial accounts, which means IAM 
 
         **Note:** Share the access key and secret key with the Terraform admin and ServiceNow AI Platform admin.
 
-## Related
 
-- [[cam-landing|Cloud Account Management]]
-- [[r-discovery|Discovery]]

@@ -16,30 +16,30 @@ The VirusTotal integration enables you to request the analysis of suspicious IP 
 
 <table id="simpletable_g33_wwg_vt" class="simpletableBody"><tbody><tr><td>
 
-[[threat-intelligence-security-center-overview|Explore]]
+Explore
 
- [[threat-intelligence-integrations|Threat Intelligence integrations]]
+ [Threat Intelligence integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-integrations.md)
 
 </td><td>
 
 Set up
 
- -   [[virustotal-setup|VirusTotal integration setup]]
--   [[activate-configure-virustotal|Activate and configure the VirusTotal integration]]
+ -   [VirusTotal integration setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/virustotal-setup.md)
+-   [Activate and configure the VirusTotal integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/activate-configure-virustotal.md)
 
 </td></tr><tr><td>
 
 Use
 
- -   [[perform-lookups-on-observables|Perform lookups on observables]]
--   [[threat-lookup-virustotal-wf|Threat Lookup - VirusTotal workflow]]
+ -   [Perform lookups on observables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/perform-lookups-on-observables.md)
+-   [Threat Lookup - VirusTotal workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-lookup-virustotal-wf.md)
 
 </td><td>
 
 Develop
 
- -   [[c_IntegrationWritingGuidelines|ServiceNow Security Operations integration development guidelines]]
--   [[c_BestPractisesIntegrations|Tips for writing integrations]]
+ -   [ServiceNow Security Operations integration development guidelines](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/c_IntegrationWritingGuidelines.md)
+-   [Tips for writing integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/c_BestPractisesIntegrations.md)
 -   [Developer training](https://developer.servicenow.com/app.do#!/training/landing)
 -   [Developer documentation](https://developer.servicenow.com/app.do#!/documentation)
 -   [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md)
@@ -48,7 +48,7 @@ Develop
 
 Troubleshoot and get help
 
- -   [[c_IntegrationTroubleshooting|Integration troubleshooting]]
+ -   [Integration troubleshooting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/c_IntegrationTroubleshooting.md)
 -   [Ask or answer questions in the Security Operations community](https://community.servicenow.com/community/security-operations)
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
@@ -59,15 +59,3 @@ Troubleshoot and get help
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[threat-intelligence-integrations|Threat Intelligence integrations]]
-- [[virustotal-setup|VirusTotal integration setup]]
-- [[activate-configure-virustotal|Activate and configure the VirusTotal integration]]
-- [[perform-lookups-on-observables|Perform lookups on observables]]
-- [[threat-lookup-virustotal-wf|Threat Lookup - VirusTotal workflow]]
-- [[c_IntegrationWritingGuidelines|ServiceNow Security Operations integration development guidelines]]
-- [[c_BestPractisesIntegrations|Tips for writing integrations]]
-- [[c_IntegrationTroubleshooting|Integration troubleshooting]]
-- [[threat-intelligence-security-center-overview|Explore]]

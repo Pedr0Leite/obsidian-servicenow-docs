@@ -15,7 +15,7 @@ breadcrumb: [Supplier Lifecycle Operations, Finance and Supply Chain]
 
 # Now Assist for Supplier Lifecycle Operations \(SLO\)
 
-Use the ServiceNow® Now Assist for Supplier Lifecycle Operations \(SLO\) application to guide your [[supplier|supplier]] managers through a conversation-like experience for their supplier needs.
+Use the ServiceNow® Now Assist for Supplier Lifecycle Operations \(SLO\) application to guide your supplier managers through a conversation-like experience for their supplier needs.
 
 ## Get started
 
@@ -58,6 +58,3 @@ ServiceNow collects and uses the inputs, outputs, and edits to outputs of this a
 
 For more information, see the [Now Assist documentation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-now-assist-landing.md).
 
-## Related
-
-- [[supplier|Supplier]]

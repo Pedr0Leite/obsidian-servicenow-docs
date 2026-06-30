@@ -14,11 +14,11 @@ breadcrumb: [ACL Assessment for Reports, Administering reports, Reporting, Repor
 
 # The report\_view ACLs list
 
-View the entire list of report\_view ACLs and their associated roles to have a higher-level view of the [[access-control|access control]] on your instance.
+View the entire list of report\_view ACLs and their associated roles to have a higher-level view of the access control on your instance.
 
 Each instance has a different number of report\_view ACLs. The number depends on the plugins activated on the instance.
 
-To view the report\_view ACLs list, navigate to **All** &gt; **Reports** &gt; **[[report-view-acl-dashboard|ACL Assessment for Reports]]** &gt; **Report View ACLs List**.
+To view the report\_view ACLs list, navigate to **All** &gt; **Reports** &gt; **ACL Assessment for Reports** &gt; **Report View ACLs List**.
 
 ## report\_view ACLs list columns
 
@@ -36,7 +36,3 @@ ACLs apply to only one role at a time. There can be multiple instances of an ACL
 
 **Parent Topic:**[ACL Assessment for Reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-view-acl-dashboard.md)
 
-## Related
-
-- [[access-control|Access control]]
-- [[report-view-acl-dashboard|ACL Assessment for Reports]]

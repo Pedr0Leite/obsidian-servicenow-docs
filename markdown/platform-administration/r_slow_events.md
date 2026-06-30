@@ -12,7 +12,7 @@ breadcrumb: [Stats Tools, System Diagnostics, Maintain and monitor, Administer t
 
 # Slow events log record detail
 
-As an administrator, you can use Slow Events logs to gain insight into how events are affecting [[platform-performance-landing|platform performance]]. To aid in debugging, you can filter slow event log detail by application scope, limiting events to only those events originating in specific scopes.
+As an administrator, you can use Slow Events logs to gain insight into how events are affecting platform performance. To aid in debugging, you can filter slow event log detail by application scope, limiting events to only those events originating in specific scopes.
 
 <table id="simpletable_uy5_zlw_yp"><thead><tr><th>
 
@@ -144,7 +144,3 @@ Event Execution Time Trend graphs show the total execution time of these events 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[platform-performance-landing|Platform performance]]

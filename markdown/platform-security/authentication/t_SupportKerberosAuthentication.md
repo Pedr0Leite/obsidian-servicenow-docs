@@ -14,7 +14,7 @@ breadcrumb: [ADFS integration with SAML 2.0, Integrating SAML 2.0 with other fea
 
 # \(Workaround\) Support Kerberos authentication
 
-A workaround is available for the [[c_SAML2.0WebBrowserSSOProfile|SAML]] 2.0 integration that changes the [[c_Authentication|authentication]] context from forms-based authentication to Windows-based authentication.
+A workaround is available for the SAML 2.0 integration that changes the authentication context from forms-based authentication to Windows-based authentication.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
 ## About this task
 
-Currently, the SAML 2 integration uses a PasswordProtectedTransport or "forms-based authentication" authentication context. This authentication context requires the IdP to present [[users|users]] with a form for authentication credentials. With Kerberos, a SAML session is already active through an established Windows login, so the user does not need to authenticate with the IdP.
+Currently, the SAML 2 integration uses a PasswordProtectedTransport or "forms-based authentication" authentication context. This authentication context requires the IdP to present users with a form for authentication credentials. With Kerberos, a SAML session is already active through an established Windows login, so the user does not need to authenticate with the IdP.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Multi-Provider SSO** &gt; **[[identity-landing|Identity]] Providers**.
+1.  Navigate to **All** &gt; **Multi-Provider SSO** &gt; **Identity Providers**.
 
 2.  Open the **SAML2 Update1** IdP record.
 
@@ -43,9 +43,4 @@ Currently, the SAML 2 integration uses a PasswordProtectedTransport or "forms-ba
 </td></tr></tbody>
 </table>4.  Click **Update**.
 
-## Related
 
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[c_Authentication|Authentication]]
-- [[users|Users]]
-- [[identity-landing|Identity]]

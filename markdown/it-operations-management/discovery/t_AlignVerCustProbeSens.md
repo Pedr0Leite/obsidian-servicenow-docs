@@ -35,7 +35,7 @@ Probes and sensors have a major and a minor version.
 
 A sensor and its corresponding probe must have the same major version. It is recommended they also have the same minor version. This version matching ensures that the data sent back from the probe is understood and properly processed by the sensor. All members of a multi-probes bundle must have the same major and minor version.
 
-By default, [[r-discovery|Discovery]] tracks major version mismatches and displays version mismatch errors in the Active Discovery Errors section in the [Discovery Log](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_DiscoveryLog.md). You can control whether or not Discovery tracks minor versions mismatches by setting the **Warn on Minor Version Mismatch** \(`glide.discovery.warn_minor_version`\) [Discovery property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_DiscoveryProperties.md). Minor version mismatches are tracked in the Discovery log, but are not displayed on the Discovery Dashboard.
+By default, Discovery tracks major version mismatches and displays version mismatch errors in the Active Discovery Errors section in the [Discovery Log](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_DiscoveryLog.md). You can control whether or not Discovery tracks minor versions mismatches by setting the **Warn on Minor Version Mismatch** \(`glide.discovery.warn_minor_version`\) [Discovery property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_DiscoveryProperties.md). Minor version mismatches are tracked in the Discovery log, but are not displayed on the Discovery Dashboard.
 
 Versions for multi-probes and multi-sensors are checked as follows:
 
@@ -79,6 +79,3 @@ To use the most up-to-date version of a probe that is available:
 
 **Parent Topic:**[Discovery probes and sensors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoveryProbesAndSensors.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

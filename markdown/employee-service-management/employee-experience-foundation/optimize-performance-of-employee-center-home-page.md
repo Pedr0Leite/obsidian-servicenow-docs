@@ -26,14 +26,14 @@ By default, widgets try to load and display data simultaneously. This can cause 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Employee Center**.
 
 2.  Go to the following widgets, press and hold the control key, right-click the widget, and then select **Instance Options**.
 
     -   Content experience
-    -   [[rfy-ec|Recommended for you]]
+    -   Recommended for you
     -   Popular topics
-    -   [[emp-center-quick-link-config|Quick Links]]
+    -   Quick Links
     -   My applications
     -   My active items
     **Note:** The following widgets support asynchronous loading.
@@ -52,8 +52,3 @@ By default, widgets try to load and display data simultaneously. This can cause 
 
 [Manage connected content from topic pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/mnge-content-topics.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[rfy-ec|Recommended for you]]
-- [[emp-center-quick-link-config|Quick links]]

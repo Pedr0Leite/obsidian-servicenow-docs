@@ -14,19 +14,19 @@ breadcrumb: [Security Incident Response integrations, Security Incident Response
 
 # Splunk Enterprise Event Ingestion integration for Security Operations by ServiceNow
 
-The Splunk Enterprise event and alert data integration with the [[sir-landing-page|Security Incident Response]] \(SIR\) product allows security incident analysts to collect and process security logs and related event data.
+The Splunk Enterprise event and alert data integration with the Security Incident Response \(SIR\) product allows security incident analysts to collect and process security logs and related event data.
 
 ## Overview of Splunk Enterprise Event Ingestion
 
 Data is collected in real-time, and it is used by analysts to identify and report on potential cyber threats. The security events that are collected can be processed into triggered alerts that are ingested automatically with this integration. Also, individual security events can be manually forwarded on-demand from the Splunk Enterprise search and reporting interface into the Security Incident Response product of the ServiceNow AI Platform to create security incidents. You can retrieve notable events from Splunk Enterprise search with the search head cluster configuration. You can achieve this by using the URL and API port of any search head that is a part of the cluster.
 
-This integration provides a [[security-operations-landing-page|security operations]] center \(SOC\) analyst with visibility to events and related alert data. This data can be integrated into ServiceNow AI Platform Security Incident Response \(SIR\) security incidents for further investigation and remediation. Profiles for Splunk ongoing ingested alerts and forwarded events are created in your ServiceNow AI Platform instance. These profiles customize how different Splunk alert and event fields are displayed on SIR security incidents. A default [[mapping-logrhythm|mapping]] of alert fields is provided that can be edited and augmented to meet customer-specific needs.
+This integration provides a security operations center \(SOC\) analyst with visibility to events and related alert data. This data can be integrated into ServiceNow AI Platform Security Incident Response \(SIR\) security incidents for further investigation and remediation. Profiles for Splunk ongoing ingested alerts and forwarded events are created in your ServiceNow AI Platform instance. These profiles customize how different Splunk alert and event fields are displayed on SIR security incidents. A default mapping of alert fields is provided that can be edited and augmented to meet customer-specific needs.
 
 ## Key features
 
 This integration includes the following key features:
 
--   Create multiple alert ingestion profiles to create SIR security incidents for specific types of threats such as phishing and [[threat-intelligence-malware|malware]].
+-   Create multiple alert ingestion profiles to create SIR security incidents for specific types of threats such as phishing and malware.
 -   Create multiple event profiles for on-demand event forwarding from your Splunk console to create SIR security incidents.
 -   Drag-and-drop mapping of Splunk alert and event field values to associated SIR security incident fields.
 -   A preview of the SIR security incident layout based on sample alerts or events to validate profile configuration.
@@ -44,7 +44,7 @@ The following Security Operations applications must be installed and activated f
 3.  Security Support Orchestration
 4.  Security Incident Response
 
-For more information about installing the Security Operations core applications, see [[entitle-secops-product|Get entitlement for a Security Operations product or application]] and [[activate-entitled-store-app|Activate a ServiceNow Store application]].
+For more information about installing the Security Operations core applications, see [Get entitlement for a Security Operations product or application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/entitle-secops-product.md) and [Activate a ServiceNow Store application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/activate-entitled-store-app.md).
 
 ## ServiceNow Addons
 
@@ -75,7 +75,7 @@ The following topics are numbered. Follow the topics listed below in the order t
 1.  [Set up your ServiceNow AI Platform instance for the Splunk Enterprise Event Ingestion integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/splunk-event-ingest-setup-sn.md)  
 The following section lists the setup tasks that you are required to complete in your ServiceNow AI Platform® instance prior to installing the application from the ServiceNow Store.
 2.  [Install and configure the ServiceNow application for the Splunk Enterprise Event Ingestion integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/splunk-event-ingest-install-and-configure.md)  
-[[configure-cortex-xsiam-siem|Install and configure]] Splunk Enterprise security- Event Ingestion integration from the ServiceNow Store on your ServiceNow AI Platform instance.
+Install and configure Splunk Enterprise security- Event Ingestion integration from the ServiceNow Store on your ServiceNow AI Platform instance.
 3.  [Create and name an event profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/splunk-event-ingest-create-profile.md)  
 Create an event profile in your ServiceNow AI Platform instance and determine which Splunk alerts create security incidents.
 4.  [Integration architecture and external systems connection for the Splunk Enterprise Event Ingestion integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/splunk-event-ingest-integration-architecture.md)  
@@ -83,12 +83,3 @@ The following topic outlines the integration architecture developed to support t
 
 **Parent Topic:**[Security Incident Response integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/sir_integrations.md)
 
-## Related
-
-- [[entitle-secops-product|Get entitlement for a Security Operations product or application]]
-- [[activate-entitled-store-app|Activate a ServiceNow Store application]]
-- [[sir-landing-page|Security Incident Response]]
-- [[security-operations-landing-page|Security Operations]]
-- [[mapping-logrhythm|Mapping]]
-- [[threat-intelligence-malware|Malware]]
-- [[configure-cortex-xsiam-siem|Install and Configure]]

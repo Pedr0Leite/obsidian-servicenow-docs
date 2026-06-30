@@ -25,7 +25,7 @@ Various scenarios can result in improperly processed emails. After taking correc
 -   The inbound action failed to trigger correctly. After you update or fix the inbound action, reprocess the affected emails to create the correct records.
 -   Emails have accidentally ended up on a development instance, usually due to the username or password of a production or test instance being reused on the development instance. In this case, you first export the emails from the development instance as XML and import them to the correct instance. On the correct instance, reprocess the imported emails to obtain correct email records.
 
-You can reprocess emails with the types `received` or `received-ignored`. Such emails are processed to the [[c_SystemMailboxes|system mailboxes]] **Received** and **Junk**, respectively.
+You can reprocess emails with the types `received` or `received-ignored`. Such emails are processed to the system mailboxes **Received** and **Junk**, respectively.
 
 Take the following steps only after fixing the underlying problem. This procedure only reprocesses the emails.
 
@@ -40,9 +40,5 @@ Take the following steps only after fixing the underlying problem. This procedur
     Remember that you can reprocess only `received` or `received-ignored` emails.
 
 
-**Parent Topic:**[[use-inbound-email-action|Use Inbound email actions]]
+**Parent Topic:**[Use Inbound email actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/use-inbound-email-action.md)
 
-## Related
-
-- [[use-inbound-email-action|Use Inbound email actions]]
-- [[c_SystemMailboxes|System mailboxes]]

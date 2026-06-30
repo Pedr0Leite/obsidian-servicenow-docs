@@ -14,7 +14,7 @@ breadcrumb: [Skills import, Skills Workspace, Exploring Skills Foundation, Skill
 
 # Workday spoke integration in Skills Foundation
 
-Import skills from Workday [[exploring-learning-exp|Learning]] and Workday HR spoke into your [[skills-intelligence|Skills Foundation]] application using the skills import flow.
+Import skills from Workday Learning and Workday HR spoke into your Skills Foundation application using the skills import flow.
 
 Prerequisites for Workday Spoke integration.
 
@@ -46,7 +46,4 @@ The integration options available are:
 
     **Note:** To import Skill levels, Skills Cloud must be enabled in Workday.
 
-## Related
 
-- [[exploring-learning-exp|Learning]]
-- [[skills-intelligence|Skills Foundation]]

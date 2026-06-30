@@ -18,7 +18,7 @@ Manage how external link metadata is used in your instance with Connect Chat.
 
 If the **glide.ui.url.external.content** system property isn't set to the recommended value of **false**, then Connect chat retrieves external link metadata in order to render richer content in messages with links to Youtube, news articles, images, etc.
 
-Ensure that the Glide Property **glide.ui.url.external.content** exists in the [[ca-system-properties|System Properties]] \[sys\_properties\] table and is set to the value **false**. If the property does not appear in the table, add a new record.
+Ensure that the Glide Property **glide.ui.url.external.content** exists in the System Properties \[sys\_properties\] table and is set to the value **false**. If the property does not appear in the table, add a new record.
 
 ## More information
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -94,7 +94,7 @@ Security risk
 
 -   Severity score: 7.2
 -   CVSS score: High
--   Security risk details: This could lead to Server Side [[c_requestAPI|Request]] Forgery \(SSRF\) attacks.
+-   Security risk details: This could lead to Server Side Request Forgery \(SSRF\) attacks.
 
 </td></tr><tr><td>
 
@@ -115,8 +115,3 @@ References
 </td></tr></tbody>
 </table>**Parent Topic:**[Validation, sanitization, and encoding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/validation-sanitization-encoding.md)
 
-## Related
-
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]
-- [[c_requestAPI|request]]

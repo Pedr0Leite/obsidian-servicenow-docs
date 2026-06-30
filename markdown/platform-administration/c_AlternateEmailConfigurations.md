@@ -23,39 +23,26 @@ Setting up your own email environment can be useful if you want to use existing 
 -   Use an OAuth 2.0-enabled SMTP server to send email from a third-party service.
 -   Use an OAuth 2.0-enabled IMAP server to receive email from a third-party service.
 
-The following procedures assume that you [[t_ConfiguringStandardEmail|enabled basic email properties]].
+The following procedures assume that you [enabled basic email properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ConfiguringStandardEmail.md).
 
--   **[[t_ConfAltEmailUsgOwnSMTP|Enable using your own SMTP server]]**  
+-   **[Enable using your own SMTP server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ConfAltEmailUsgOwnSMTP.md)**  
 Enable using your own SMTP server so that you can leverage the existing filtering, retention, or compliance aspects of your own SMTP server while also using the ServiceNow POP3 server.
--   **[[t_ConfAltEmailConfPOP3Server|Enable using your own POP3 server]]**  
+-   **[Enable using your own POP3 server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ConfAltEmailConfPOP3Server.md)**  
 You can use your own POP3 server to store and receive email for the instance.
--   **[[t_ConfAltEmailConfServers|Enable using your own SMTP and POP3 servers]]**  
+-   **[Enable using your own SMTP and POP3 servers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ConfAltEmailConfServers.md)**  
 You can use your own SMTP and POP3 servers to send email from the instance and to store and receive email for the instance.
--   **[[email-bounce|Email bounce management]]**  
+-   **[Email bounce management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/email-bounce.md)**  
 Help prevent sending emails to addresses that are known to generate bounces by monitoring and filtering them out while sending emails.
--   **[[c_OAuthEmailAuthentication|OAuth email authentication]]**  
+-   **[OAuth email authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_OAuthEmailAuthentication.md)**  
 OAuth enables your instance to receive and send email through a third-party email account.
--   **[[system-address-filters|System address filters]]**  
+-   **[System address filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-address-filters.md)**  
 Prevent your system from communicating with untrusted domains and email addresses.
--   **[[read-send-emails-ms-graph|Read or send emails using Microsoft Graph]]**  
+-   **[Read or send emails using Microsoft Graph](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/read-send-emails-ms-graph.md)**  
 Use Microsoft Graph endpoints to read or send emails from Microsoft Exchange Online.
--   **[[send-email-client-credential-flow|Sending email using client credential flow]]**  
+-   **[Sending email using client credential flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/send-email-client-credential-flow.md)**  
 Use the client credential flow to send emails from Microsoft Exchange Online.
--   **[[personal-corporate-mailbox|Personal corporate mailbox]]**  
+-   **[Personal corporate mailbox](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/personal-corporate-mailbox.md)**  
 Enables sales agents to integrate their personal corporate mail boxes to send and receive emails.
 
-**Parent Topic:**[[configuring-email-admin|Configure email administration]]
+**Parent Topic:**[Configure email administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configuring-email-admin.md)
 
-## Related
-
-- [[t_ConfiguringStandardEmail|Enable basic email]]
-- [[t_ConfAltEmailUsgOwnSMTP|Enable using your own SMTP server]]
-- [[t_ConfAltEmailConfPOP3Server|Enable using your own POP3 server]]
-- [[t_ConfAltEmailConfServers|Enable using your own SMTP and POP3 servers]]
-- [[email-bounce|Email bounce management]]
-- [[c_OAuthEmailAuthentication|OAuth email authentication]]
-- [[system-address-filters|System address filters]]
-- [[read-send-emails-ms-graph|Read or send emails using Microsoft Graph]]
-- [[send-email-client-credential-flow|Sending email using client credential flow]]
-- [[personal-corporate-mailbox|Personal corporate mailbox]]
-- [[configuring-email-admin|Configure email administration]]

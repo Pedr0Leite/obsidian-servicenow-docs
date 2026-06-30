@@ -58,7 +58,7 @@ Moving dashboards from one instance to another requires associating the sys\_id 
 
     9.  Select **Update** in the Tab form to save your changes.
 
-5.  Ensure that all of the objects used in the dashboard, such as [[widgets|widgets]], data visualizations, and content blocks are migrated to the target instance.
+5.  Ensure that all of the objects used in the dashboard, such as widgets, data visualizations, and content blocks are migrated to the target instance.
 
     The associated portal page should be visible in the target instance.
 
@@ -76,6 +76,4 @@ Moving dashboards from one instance to another requires associating the sys\_id 
 
         For more information, see [Retrieve an update set](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/t_RetrieveAnUpdateSet.md).
 
-## Related
 
-- [[widgets|Widgets]]

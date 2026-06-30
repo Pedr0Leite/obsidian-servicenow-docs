@@ -46,7 +46,7 @@ Applies anonymization to all data records in the chosen data class. Select the d
 
 </td><td>
 
-Your [[data-privacy-landing|data privacy]] processor [[users|users]] can choose which records to anonymize when creating data privacy jobs. Individually apply anonymization to each data record in the chosen data class.
+Your data privacy processor users can choose which records to anonymize when creating data privacy jobs. Individually apply anonymization to each data record in the chosen data class.
 
 </td></tr></tbody>
 </table>    \[Omitted image "assign-technique.png"\] Alt text: Individually assign a technique.
@@ -61,7 +61,7 @@ Your [[data-privacy-landing|data privacy]] processor [[users|users]] can choose 
 
 4.  Set the ordering for data patterns.
 
-5.  **Tip:** Use the **Test** feature to test sample inputs. You can review [[ca-metrics|metrics]] from the result like scan time, result, and discovered patterns.
+5.  **Tip:** Use the **Test** feature to test sample inputs. You can review metrics from the result like scan time, result, and discovered patterns.
 
     Select the **Test** button to test the policy.
 
@@ -69,7 +69,7 @@ Your [[data-privacy-landing|data privacy]] processor [[users|users]] can choose 
 
     Select **Save**.
 
-7.  Select **Publish** to update the anonymization policy for scheduling and be returned to Anonymization [[ca-policies|policies]].
+7.  Select **Publish** to update the anonymization policy for scheduling and be returned to Anonymization policies.
 
     **Note:** Only published policies can be used for anonymization job scheduling.
 
@@ -78,9 +78,3 @@ Your [[data-privacy-landing|data privacy]] processor [[users|users]] can choose 
 
 [Create anonymization job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/dps-create-anonymization-job.md).
 
-## Related
-
-- [[data-privacy-landing|Data Privacy]]
-- [[users|Users]]
-- [[ca-metrics|Metrics]]
-- [[ca-policies|Policies]]

@@ -14,9 +14,9 @@ breadcrumb: [Integrating Task Mining, Explore, Task Mining, Platform Analytics]
 
 # Integration with Process Mining
 
-Streamline task analysis workflows by initiating a [[task-mining|Task Mining]] project directly from your [[analyst-workbench-overview|Process Mining workspace]].
+Streamline task analysis workflows by initiating a Task Mining project directly from your Process Mining workspace.
 
-A [[process-mining|Process Mining]] analyst can create a prefilled Task Mining project while working in the Analyst Workbench by selecting a process flow node. Context, such as the selected node, time-frame, relevant users, is displayed on a confirmation page in Task Mining where analysts review and submit the project. Task Mining then reports project status updates through the Process Mining workspace.
+A Process Mining analyst can create a prefilled Task Mining project while working in the Analyst Workbench by selecting a process flow node. Context, such as the selected node, time-frame, relevant users, is displayed on a confirmation page in Task Mining where analysts review and submit the project. Task Mining then reports project status updates through the Process Mining workspace.
 
 The integration preserves traceability between process-level insights and task-level findings, avoiding fragmented analysis and reducing navigation between tools.
 
@@ -29,8 +29,3 @@ You must install and configure the Process Mining and Task Mining plugins before
 
 [Integration with Task Mining](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/integration-taskmining.md)
 
-## Related
-
-- [[task-mining|Task Mining]]
-- [[analyst-workbench-overview|Process Mining workspace]]
-- [[process-mining|Process Mining]]

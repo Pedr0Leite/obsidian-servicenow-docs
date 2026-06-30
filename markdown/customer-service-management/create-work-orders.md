@@ -12,7 +12,7 @@ breadcrumb: [Install base work plans, Schedules and sites, Use, Customer Service
 
 # Create a work order
 
-Create a work order to manage your regular maintenance and service requirements for an install base item. You can do this task by using the [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) application.
+Create a work order to manage your regular maintenance and service requirements for an install base item. You can do this task by using the Customer Service Management \(CSM\) application.
 
 ## Before you begin
 
@@ -40,6 +40,4 @@ A work order is a request for off-site work. You can create a work order for a n
 
     All work orders that are associated with a child install base item also appear in the work orders section of the parent install base form.
 
-## Related
 
-- [[c_CustomerServiceManagement|Customer Service Management]]

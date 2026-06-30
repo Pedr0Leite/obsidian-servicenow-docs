@@ -18,7 +18,7 @@ Create a password reset credential store record to configure access to your cred
 
 ## About this task
 
-In addition to host connection information, you can specify the password hints that users should see, restrictions on password reuse, the allowed number of failed reset attempts, and other [[settings-mobile|settings]].
+In addition to host connection information, you can specify the password hints that users should see, restrictions on password reuse, the allowed number of failed reset attempts, and other settings.
 
 ## Before you begin
 
@@ -135,6 +135,3 @@ Option to ensure that the users don’t reuse passwords. For example, you might 
 
 **Parent Topic:**[Setting up Service Desk assisted Password Reset in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/setup-password-reset-sow.md)
 
-## Related
-
-- [[settings-mobile|Settings]]

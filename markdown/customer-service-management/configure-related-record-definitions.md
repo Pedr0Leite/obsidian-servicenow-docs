@@ -12,7 +12,7 @@ breadcrumb: [Configure dynamic related records, Agent tools, Organize agent work
 
 # Configure related record definitions
 
-Related record definitions identify the types of records that the [[csm-contextual-related-records|dynamic related records]] feature can display in the Related Records tab.
+Related record definitions identify the types of records that the dynamic related records feature can display in the Related Records tab.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 The system administrator can create relate definitions and associate the desired definitions with a related record context. For example, the admin can associate SLA and escalation definitions with the Case related record context. Definitions can be associated with multiple contexts.
 
-The Dynamic Related Records for Configurable Workspace plugin includes several related record definitions for case records. For more information, see [[dynamic-related-records-configure|Related record definitions included with the plugin]].
+The Dynamic Related Records for Configurable Workspace plugin includes several related record definitions for case records. For more information, see [Related record definitions included with the plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/dynamic-related-records-configure.md).
 
 ## Procedure
 
@@ -50,7 +50,4 @@ The Dynamic Related Records for Configurable Workspace plugin includes several r
 
 8.  Click **Submit**.
 
-## Related
 
-- [[dynamic-related-records-configure|Configure dynamic related records]]
-- [[csm-contextual-related-records|Dynamic related records]]

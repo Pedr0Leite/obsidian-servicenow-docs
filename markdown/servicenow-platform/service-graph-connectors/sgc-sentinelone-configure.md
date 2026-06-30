@@ -14,7 +14,7 @@ breadcrumb: [SentinelOne, Service Graph Connectors, Integrating third-party data
 
 # Configure the Service Graph Connector for SentinelOne
 
-The guided setup for the [[sgc-sentinelone-integration|Service Graph Connector for SentinelOne]] provides an organized sequence of tasks to configure the integration on your ServiceNow AI Platform instance.
+The guided setup for the Service Graph Connector for SentinelOne provides an organized sequence of tasks to configure the integration on your ServiceNow AI Platform instance.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ To use this Service Graph Connector, you need a subscription to a Subscription U
 
 **Dependencies and requirements:**
 
--   The [[integration-commons-for-cmdb|Integration Commons for CMDB]] store app, which is automatically installed.
+-   The Integration Commons for CMDB store app, which is automatically installed.
 -   The CMDB CI Class Models store app store app, which is automatically installed.
 -   Discovery Core plugin \(com.snc.discovery.core\), which is automatically installed by Discovery.
 -   The ITOM Discovery License plugin \(com.snc.itom.discovery.license\). You must activate this plugin.
@@ -42,7 +42,7 @@ The guided setup for the Service Graph Connector for SentinelOne provides an org
 
 ## Procedure
 
-1.  Navigate to **[[cmdb-sgc-available|Service Graph Connectors]]** &gt; **SentinelOne** &gt; **Setup**.
+1.  Navigate to **Service Graph Connectors** &gt; **SentinelOne** &gt; **Setup**.
 
 2.  On the Home page, select **Continue**.
 
@@ -99,8 +99,4 @@ The guided setup for the Service Graph Connector for SentinelOne provides an org
 
 10. In the Help task bar, select **Mark as Complete**.
 
-## Related
 
-- [[sgc-sentinelone-integration|Service Graph Connector for SentinelOne]]
-- [[integration-commons-for-cmdb|Integration Commons for CMDB]]
-- [[cmdb-sgc-available|Service Graph Connectors]]

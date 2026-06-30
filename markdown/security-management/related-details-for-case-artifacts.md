@@ -12,20 +12,20 @@ breadcrumb: [Security artifact analysis, Security Case Management, Threat Intell
 
 # Related details for case artifacts
 
-As you [[add-records-to-cases|add artifacts to a case]], additional related details for each artifact may also be automatically added. For example, if you add a security incident, it may contain affected CIs and user records. You can quickly view the related details for a selected artifact without leaving the list of artifacts.
+As you add artifacts to a case, additional related details for each artifact may also be automatically added. For example, if you add a security incident, it may contain affected CIs and user records. You can quickly view the related details for a selected artifact without leaving the list of artifacts.
 
--   **[[view-related-details-for-sec-inc-artifact|View related details for a security incident artifact]]**  
+-   **[View related details for a security incident artifact](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/view-related-details-for-sec-inc-artifact.md)**  
 If your case includes security incident artifacts, you can view any related details contained in each security incident referenced by the case.
--   **[[view-related-details-for-ci-artifact|View related details for a configuration item artifact]]**  
+-   **[View related details for a configuration item artifact](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/view-related-details-for-ci-artifact.md)**  
 If your case includes configuration item artifacts, you can view any related details contained in each CI referenced by the case.
--   **[[view-related-details-for-ioc-artifact|View related details for an IoC artifact]]**  
-If your case includes [[c_IoCs|indicators of compromise]] \(IoC\) artifacts, you can view any related details contained in each IoC referenced by the case.
--   **[[view-related-details-for-user-artifact|View related details for an affected user artifact]]**  
+-   **[View related details for an IoC artifact](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/view-related-details-for-ioc-artifact.md)**  
+If your case includes indicators of compromise \(IoC\) artifacts, you can view any related details contained in each IoC referenced by the case.
+-   **[View related details for an affected user artifact](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/view-related-details-for-user-artifact.md)**  
 If your case includes affected user artifacts, you can view any related details contained in each affected user referenced by the case.
--   **[[view-related-details-for-observ-artifact|View related details for an observable artifact]]**  
+-   **[View related details for an observable artifact](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/view-related-details-for-observ-artifact.md)**  
 If your case includes observable artifacts, you can view any related details contained in each observable referenced by the case.
 
-**Parent Topic:**[[sec-artifact-analysis|Security artifact analysis]]
+**Parent Topic:**[Security artifact analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sec-artifact-analysis.md)
 
 **Related topics**  
 
@@ -36,13 +36,3 @@ If your case includes observable artifacts, you can view any related details con
 
 [Search for security artifacts]()
 
-## Related
-
-- [[view-related-details-for-sec-inc-artifact|View related details for a security incident artifact]]
-- [[view-related-details-for-ci-artifact|View related details for a configuration item artifact]]
-- [[view-related-details-for-ioc-artifact|View related details for an IoC artifact]]
-- [[view-related-details-for-user-artifact|View related details for an affected user artifact]]
-- [[view-related-details-for-observ-artifact|View related details for an observable artifact]]
-- [[sec-artifact-analysis|Security artifact analysis]]
-- [[add-records-to-cases|Add artifacts to a case]]
-- [[c_IoCs|Indicators of compromise]]

@@ -14,11 +14,11 @@ breadcrumb: [Rightsizing resources, Exploring Cloud Cost Management, Cloud Cost 
 
 # Rightsizing analysis for AWS
 
-[[cloud-insights-landing-page|Cloud Cost Management]] uses a process that is optimized for each provider. For AWS, Cloud Cost Management compares the calculated potential costs to actual billed costs and then generates recommendations.
+Cloud Cost Management uses a process that is optimized for each provider. For AWS, Cloud Cost Management compares the calculated potential costs to actual billed costs and then generates recommendations.
 
 ## How Rightsizing resources analysis works for AWS
 
-To generate accurate [[rs-cloudin|Rightsizing resources]] recommendations, Cloud Cost Management follows this procedure every time billing data is updated:
+To generate accurate Rightsizing resources recommendations, Cloud Cost Management follows this procedure every time billing data is updated:
 
 -   Obtain costs from the updated billing data tables.
 -   Collect the CPU and memory usage data for each resource for the preceding 14 days.
@@ -30,10 +30,10 @@ To generate accurate [[rs-cloudin|Rightsizing resources]] recommendations, Cloud
 -   Obtain rates for resource types and sizes from the price sheet data tables.
 -   If available, obtain percentage discount rates from the discount tables and apply the appropriate discounts to the rates on the price sheet.
 -   Compare the calculated potential costs to the actual billed costs and then generate recommendations.
-    -   If the average top 20% of CPU usage is less than 1%, then the resource is recommended for [[um-cloudin|Unused resources]] processes.
+    -   If the average top 20% of CPU usage is less than 1%, then the resource is recommended for Unused resources processes.
     -   If the average top 20% of CPU usage is greater than 1% but less than 40%, then the resource is recommended for Rightsizing processes. The recommended memory size is calculated so that the peak usage during the analysis period would be no more than 80% of the recommended size. For example, a resource currently has 16 GB and the available sizes are 4 GB, 8 GB, and 16 GB. If the resource used a peak of 3.99 GB over the analysis period, then the recommendation would be 8 GB.
 
-**Important:** If you have installed the [[ccm-infra-stack|Cloud Cost Management Infra Stack]] application, for AWS Rightsizing recommendations to work accurately, you must use the **GetCostAndUsageWithResources** API to retrieve the cost and usage metrics with resources for your account from your provider \(through AWS Portal\). For more information, see GetCostAndUsageWithResources API Reference topic in the AWS Billing and Cost Management Documentation.
+**Important:** If you have installed the Cloud Cost Management Infra Stack application, for AWS Rightsizing recommendations to work accurately, you must use the **GetCostAndUsageWithResources** API to retrieve the cost and usage metrics with resources for your account from your provider \(through AWS Portal\). For more information, see GetCostAndUsageWithResources API Reference topic in the AWS Billing and Cost Management Documentation.
 
 ## Resources that aren't considered
 
@@ -47,9 +47,3 @@ Resources with the following AWS attributes aren't considered for Rightsizing re
 -   Virtualization type isn't HVM
 -   Spot instance
 
-## Related
-
-- [[cloud-insights-landing-page|Cloud Cost Management]]
-- [[rs-cloudin|Rightsizing resources]]
-- [[um-cloudin|Unused resources]]
-- [[ccm-infra-stack|Cloud Cost Management Infra Stack]]

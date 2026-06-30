@@ -26,7 +26,7 @@ The EAP read-only \(sn\_apw\_advanced.eap\_read\_only\) role is required to view
 
 ## Access the Agile Team dashboard
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** &gt; **Enterprise Agile Planning**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Enterprise Agile Planning**.
 2.  From the Agile structure section of the navigation panel, choose your EAP team.
 3.  Select the **Home** tab.
 
@@ -298,7 +298,3 @@ You can compare the cycle times of stories with different story points and analy
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

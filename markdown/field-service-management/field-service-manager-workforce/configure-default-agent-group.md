@@ -28,7 +28,7 @@ Whenever you log in to the team calendar, agents in the default assignment group
 
 1.  Navigate to **All** &gt; **Field Service** &gt; **Manager** &gt; **Workforce**.
 
-2.  Select the settings icon.\(\[Omitted image "fsm-dsw-settings-icon.png"\] Alt text: [[dispatcher-activities|Dispatcher Workspace]] settings icon\)
+2.  Select the settings icon.\(\[Omitted image "fsm-dsw-settings-icon.png"\] Alt text: Dispatcher Workspace settings icon\)
 
 3.  In the Default Group list, select a group that you would like to set as default.
 
@@ -38,6 +38,4 @@ Whenever you log in to the team calendar, agents in the default assignment group
 
     **Note:** If your default assignment group is removed, the agent list shows users from the first group in the list displayed in alphabetical order.
 
-## Related
 
-- [[dispatcher-activities|Dispatcher Workspace]]

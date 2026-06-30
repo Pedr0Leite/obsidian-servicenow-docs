@@ -12,18 +12,18 @@ breadcrumb: [Reference, Unified Security Exposure Management, Security Operation
 
 # Migration upgrade reference information
 
-Lists and tables of scheduled jobs, table deprecations, and new columns added to existing tables for migration to [[sem-workspace-user-interface|Security Exposure Management Workspace]].
+Lists and tables of scheduled jobs, table deprecations, and new columns added to existing tables for migration to Security Exposure Management Workspace.
 
 ## Scheduled jobs
 
-Deactivate the scheduled jobs and scheduled jobs within integration-specific scopes for the [[vuln-landing-page|Vulnerability Response]], [[avr-landing|Application Vulnerability Response]], [[cvr-landing|Container Vulnerability Response]], and [[vr-config-compliance-landing|Configuration Compliance]] applications.
+Deactivate the scheduled jobs and scheduled jobs within integration-specific scopes for the Vulnerability Response, Application Vulnerability Response, Container Vulnerability Response, and Configuration Compliance applications.
 
 -   Adding vulnerability and test fields for remediation tasks
 -   Associate existing AVIs with Auto Exception Rule
 -   Associate existing VIs with Auto Exception Rule
 -   Calculate Related VI Counts for Application Remediation Task
 -   Calculate Related VI Counts for Remediation Task
--   Calculate Related VI Counts for [[vulnerabilities|Vulnerabilities]]
+-   Calculate Related VI Counts for Vulnerabilities
 -   Check Risk Mitigation Expiration
 -   Check Vulnerable Item and Groups Deferment Expiration
 -   Copy customized request exception questionnaire to compensating control
@@ -85,12 +85,12 @@ Deactivate the scheduled jobs and scheduled jobs within integration-specific sco
 -   Insert Remediation Tasks Into Unified Remediation Task
 -   Populate existing test result fields
 -   Process test result manifest records
--   Re-apply CI Lookup Rules on the Changed [[cj-discovered-items|Discovered items]]
+-   Re-apply CI Lookup Rules on the Changed Discovered items
 -   Reapply all assignment rules
 -   Reapply CI lookup rules
 -   Reassess the state of the remediation tasks
 -   Reassignment count for assignment rules - CC
--   [[reapply-reconcile-unmatched-discovered-items|Reconcile unmatched discovered items]]
+-   Reconcile unmatched discovered items
 -   Refresh App related Saved filters
 -   Refresh CC related Saved filters
 -   Refresh Container related Saved filters
@@ -252,7 +252,7 @@ Exception Management Configuration \(sn\_sec\_exception\_config\)
 
 </td></tr><tr><td>
 
-Policy Exception Reason [[mapping-logrhythm|Mapping]] \(sn\_sec\_cmn\_policy\_reason\_mapping\)
+Policy Exception Reason Mapping \(sn\_sec\_cmn\_policy\_reason\_mapping\)
 
  Policy Exception Reason Mapping \(sn\_vul\_policy\_reason\_mapping\)
 
@@ -433,17 +433,5 @@ Container Remediation Task \[sn\_vul\_container\_vulnerability\] table.
 -   ignore\_expiration\_for\_risk\_reduction\_dt\_tm
 -   ignore\_expiration\_dt\_tm
 
-**Parent Topic:**[[unified-security-exposure-management-reference|Unified Security Exposure Management reference]]
+**Parent Topic:**[Unified Security Exposure Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/unified-security-exposure-management-reference.md)
 
-## Related
-
-- [[unified-security-exposure-management-reference|Unified Security Exposure Management reference]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[avr-landing|Application Vulnerability Response]]
-- [[cvr-landing|Container Vulnerability Response]]
-- [[vr-config-compliance-landing|Configuration Compliance]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[cj-discovered-items|Discovered Items]]
-- [[reapply-reconcile-unmatched-discovered-items|Reconcile unmatched discovered items]]
-- [[mapping-logrhythm|Mapping]]

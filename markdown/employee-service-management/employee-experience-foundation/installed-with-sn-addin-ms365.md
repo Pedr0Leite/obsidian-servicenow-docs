@@ -38,7 +38,7 @@ Outlook add-in setup manager
 
 </td><td>
 
-Configures the [[sn-addin-for-ms365|ServiceNow Add-in for Microsoft 365]], maps email fields to catalog items or forms.
+Configures the ServiceNow Add-in for Microsoft 365, maps email fields to catalog items or forms.
 
 </td><td>
 
@@ -81,7 +81,7 @@ Contains configurations for forms to map the form fields to email fields.
 
 </td></tr><tr><td>
 
-Office Mailbox to Catalog [[field-mappings-sf|Field Mappings]]
+Office Mailbox to Catalog Field Mappings
 
  \[sn\_office\_mailbox\_catalog\_field\_mapping\]
 
@@ -122,7 +122,3 @@ Contains information about the office controls, like buttons or menus, created f
 </td></tr></tbody>
 </table>**Parent Topic:**[ServiceNow Add-in for Microsoft 365 reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/sn-addin-for-ms365-reference.md)
 
-## Related
-
-- [[sn-addin-for-ms365|ServiceNow Add-in for Microsoft 365]]
-- [[field-mappings-sf|Field mappings]]

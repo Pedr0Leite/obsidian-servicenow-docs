@@ -58,7 +58,7 @@ The person affected by the security issue.
 
 </td></tr><tr><td>
 
-[[location|Location]]
+Location
 
 </td><td>
 
@@ -96,7 +96,7 @@ State
 
 </td><td>
 
-The current state of the security incident. Upon [[si-creation|security incident creation]], this field defaults to **Draft**.
+The current state of the security incident. Upon security incident creation, this field defaults to **Draft**.
 
 </td></tr><tr><td>
 
@@ -252,7 +252,3 @@ As you enter the short description, links to related articles from the knowledge
 </td></tr></tbody>
 </table>**Parent Topic:**[Security Incident Details section](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/security-incident-details.md)
 
-## Related
-
-- [[location|Location]]
-- [[si-creation|Security incident creation]]

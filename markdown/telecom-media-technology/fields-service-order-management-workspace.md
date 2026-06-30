@@ -38,7 +38,7 @@ Open Tasks
 </td><td>
 
 Number of open service order tasks that require review and action.1.  Select this tile to see the Open Tasks list.
-2.  Select the open order task you want to review. To learn more, see [[service-order-mgt-service-order-tasks|Review and update the service order fulfillment tasks]].
+2.  Select the open order task you want to review. To learn more, see [Review and update the service order fulfillment tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/service-order-mgt-service-order-tasks.md).
 
 </td></tr><tr><td>
 
@@ -132,7 +132,3 @@ Processing for the order task was canceled.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[service-order-mgt-service-order-tasks|Review and update the service order fulfillment tasks]]

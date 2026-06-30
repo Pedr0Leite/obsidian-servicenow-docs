@@ -12,7 +12,7 @@ breadcrumb: [Machine learning solutions for IT Service Management, IT Service Ma
 
 # Request Predictive Intelligence for Incident Management
 
-Activate [[predictive-intelligence-for-incident|Predictive Intelligence for Incident Management]] by requesting the Predictive Intelligence for Incident Management plugin \(com.snc.incident.ml\_solution\) through the Now Support Service Catalog.
+Activate Predictive Intelligence for Incident Management by requesting the Predictive Intelligence for Incident Management plugin \(com.snc.incident.ml\_solution\) through the Now Support Service Catalog.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System [[dex-workspace-application-tab|Applications]]** &gt; **All Available Applications** &gt; **All**.
+1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
 2.  Select **Request plugin** to open the **Activate Plugin** form on Now Support.
 
@@ -68,10 +68,5 @@ Select the date and time to activate the plugin.
     After the maintenance window, the system installs the plugin on your instance. To confirm the installation, go to the Installed tab in the Application Manager.
 
 
-**Parent Topic:**[[machine-learning-itsm|Machine learning solutions for IT Service Management]]
+**Parent Topic:**[Machine learning solutions for IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/machine-learning-itsm.md)
 
-## Related
-
-- [[machine-learning-itsm|Machine learning solutions for IT Service Management]]
-- [[predictive-intelligence-for-incident|Predictive Intelligence for Incident Management]]
-- [[dex-workspace-application-tab|Applications]]

@@ -27,7 +27,7 @@ Drill down into a cluster and filter its records with Cluster Insight. You can a
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[predictive-intelligence-landing|Predictive Intelligence]]** &gt; **Clustering** &gt; **Solution Definitions**.
+1.  Navigate to **All** &gt; **Predictive Intelligence** &gt; **Clustering** &gt; **Solution Definitions**.
 
 2.  Select a solution definition or create a new one.
 
@@ -40,6 +40,3 @@ In the **Solutions** \[ml\_solution\] table, open the trained solution, then ope
 
 To make other dimensions from your source table available for filtering, add them as input fields on the solution definition form.
 
-## Related
-
-- [[predictive-intelligence-landing|Predictive Intelligence]]

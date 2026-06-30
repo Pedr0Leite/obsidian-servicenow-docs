@@ -14,7 +14,7 @@ breadcrumb: [DevOps test tool integration, User created, Integrate, DevOps Chang
 
 # Add test results to change requests using test API
 
-Add test results to DevOps change requests using the test capability of the DevOps - POST /devops/tool/\{capability\} API. The API is available for all test types for various tools connected to [[devops-landing-page-new|DevOps Change Velocity]].
+Add test results to DevOps change requests using the test capability of the DevOps - POST /devops/tool/\{capability\} API. The API is available for all test types for various tools connected to DevOps Change Velocity.
 
 For more information about the API, see [DevOps - POST /devops/tool/\{capability\}](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/devops-api.md). To use the API in Azure DevOps, GitHub, and Jenkins, you must use the format mentioned in the respective sections below.
 
@@ -388,6 +388,3 @@ pipeline {
 
 **Parent Topic:**[DevOps test tool integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/dev-ops-test-tool-integration.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]

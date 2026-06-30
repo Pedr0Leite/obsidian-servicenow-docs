@@ -39,11 +39,11 @@ The following are filter categories:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-central-feat|Workplace central]]** &gt; **Workplace Central**.
+1.  Navigate to **All** &gt; **Workplace central** &gt; **Workplace Central**.
 
-    You can also open Workplace Central from [[employee-center-landing-page|Employee Center]] directly by navigating to **All** &gt; **Self-service** &gt; **Employee Center** &gt; **Workspaces** &gt; **Workplace Central**.
+    You can also open Workplace Central from Employee Center directly by navigating to **All** &gt; **Self-service** &gt; **Employee Center** &gt; **Workspaces** &gt; **Workplace Central**.
 
-2.  Select the [[event-planner|event planner]] icon \[Omitted image "event-planner-icon.png"\] Alt text: event planner icon.
+2.  Select the event planner icon \[Omitted image "event-planner-icon.png"\] Alt text: event planner icon.
 
 3.  Select **Open Scheduled view**.
 
@@ -77,8 +77,3 @@ The following are filter categories:
 
 **Parent Topic:**[Working with schedule view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/working-with-schedule-view.md)
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]
-- [[employee-center-landing-page|Employee Center]]
-- [[event-planner|Event Planner]]

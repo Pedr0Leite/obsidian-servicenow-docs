@@ -15,7 +15,7 @@ breadcrumb: [Using Software Asset Workspace, Software Asset Management, IT Asset
 
 # Use manage contract repository agentic workflow in the Software Asset Workspace
 
-Use the manage contract repository agentic workflow to improve productivity by extracting metadata and obligations automatically from signed [[c_Contracts|contracts]]. Set the contract reminder dates for contract renewal or termination.
+Use the manage contract repository agentic workflow to improve productivity by extracting metadata and obligations automatically from signed contracts. Set the contract reminder dates for contract renewal or termination.
 
 ## Manage contract repository overview
 
@@ -35,7 +35,7 @@ The following workflow explains the metadata extraction and contract reminder se
 
     For more information, see [Configure the manage contract repository agentic workflow for Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/configure-manage-contract-repository-agentic-workflow.md).
 
-2.  Navigate to **[[sam-workspace|Software Asset Workspace]]** &gt; **License operations** &gt; **Contracts** &gt; **Software contracts** and select **New**.
+2.  Navigate to **Software Asset Workspace** &gt; **License operations** &gt; **Contracts** &gt; **Software contracts** and select **New**.
 3.  On the Create New Contract form, fill in the required **Contract model** and **Contract number** fields.
 4.  Save the contract record.
 5.  Upload a signed contract file and select the **Initiate contract extraction** button.
@@ -104,7 +104,7 @@ Uses various tools to perform the following:-   Retrieves the contract repositor
 
 </td></tr></tbody>
 </table>-   **[Configure the manage contract repository agentic workflow for Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/configure-manage-contract-repository-agentic-workflow.md)**  
-Install the Now Assist in [[c_ContractManagement|Contract Management]] plugin \(sn\_cm\_gen\_ai\) and activate the generative AI skills to use the manage contract repository agentic workflow.
+Install the Now Assist in Contract Management plugin \(sn\_cm\_gen\_ai\) and activate the generative AI skills to use the manage contract repository agentic workflow.
 -   **[Initiate metadata and obligation extraction from a signed contract in the Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/extract-metadata-from-uploaded-contract-document.md)**  
 Reduce manual effort by leveraging the Manage contract repository agentic workflow to extract key metadata and obligations from an uploaded signed contract, and calculate the contract reminder date.
 -   **[Review AI-extracted metadata and contract reminder date in the Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/work-with-extracted-contract-metadata.md)**  
@@ -114,8 +114,3 @@ Use the contract playbook to review, edit, approve, or reject obligations automa
 
 **Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/using-sam-workspace.md)
 
-## Related
-
-- [[c_Contracts|Contracts]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_ContractManagement|Contract Management]]

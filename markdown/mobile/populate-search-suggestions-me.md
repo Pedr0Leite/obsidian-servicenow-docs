@@ -41,8 +41,5 @@ Search suggestions improve over time as more people use the app. Search Suggesti
 
 ## Result
 
-Users see suggestions when they start typing in a search field in the [[now-mobile-app|Now Mobile app]].
+Users see suggestions when they start typing in a search field in the Now Mobile app.
 
-## Related
-
-- [[now-mobile-app|Now Mobile app]]

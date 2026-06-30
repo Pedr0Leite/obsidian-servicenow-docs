@@ -22,13 +22,13 @@ Role required: sn\_slm.manager, sn\_slm.fulfiller, sn\_slm.owner, or sn\_slm.adm
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
 2.  Select the list icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon.\).
 
 3.  Do one of the following:
 
-    -   View all the [[supplier|supplier]] tasks by navigating to **Lists** &gt; **All work** &gt; **Supplier tasks**.
+    -   View all the supplier tasks by navigating to **Lists** &gt; **All work** &gt; **Supplier tasks**.
     -   View all the employee tasks by navigating to **Lists** &gt; **All work** &gt; **Employee tasks**.
 4.  Open a task that is in **Draft** state by selecting the link to the task in the **Number** column.
 
@@ -50,8 +50,3 @@ The state of the task updates to **Awaiting completion**, indicating that the ta
 
 [Complete a supplier task from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/complete-supplier-task.md)
 
-## Related
-
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supplier|Supplier]]

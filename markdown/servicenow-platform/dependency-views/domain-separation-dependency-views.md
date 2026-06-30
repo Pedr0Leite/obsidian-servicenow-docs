@@ -14,7 +14,7 @@ breadcrumb: [Dependency Views, Configuration Management Database \(CMDB\), Confi
 
 # Domain separation and Dependency Views
 
-[[domain-separation-relationship-formatter-editor|Domain separation]] is unsupported in [[c_BusinesssServiceManagementMaps|Dependency Views]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is unsupported in Dependency Views. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic
 
@@ -41,7 +41,3 @@ Tenant domains will be able to see only their domain and global CIs.
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[domain-separation-relationship-formatter-editor|Domain separation]]
-- [[c_BusinesssServiceManagementMaps|Dependency Views]]

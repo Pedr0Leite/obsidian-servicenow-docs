@@ -22,7 +22,7 @@ Role required: wm\_initiator, wm\_initiator\_qualifier, or admin
 
 Ensure to install the following plugins
 
--   Customer Service with [[fsm-application-landing-page|Field Service Management]] \(com.snc.csm\_fsm\_integration\) to create case-related work orders from the Customer Service and Consumer Service Portals.
+-   Customer Service with Field Service Management \(com.snc.csm\_fsm\_integration\) to create case-related work orders from the Customer Service and Consumer Service Portals.
 -   Customer Service Install Base Management \(com.snc.install\_base\) to create work orders against install base items, identify assets, configuration items \(CI\), or affected install base items.
 -   Use roles such as wm\_location\_agent, wm\_location\_assignment.manager to restrict work order and task access based on the provider's service organization when the Work Management and Service Organization plugins are installed.
 
@@ -226,7 +226,7 @@ State
 
 </td><td>
 
-Current stage of the work order in the work order life cycle.**Note:** The **Scheduled** state appears in between **Pending Dispatch** and **Assigned** states only if your administrator enables **Use Scheduled state** option in [[t_ConfigureFieldService|Global domain configurations]].
+Current stage of the work order in the work order life cycle.**Note:** The **Scheduled** state appears in between **Pending Dispatch** and **Assigned** states only if your administrator enables **Use Scheduled state** option in [Global domain configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/t_ConfigureFieldService.md).
 
 </td></tr><tr><td>
 
@@ -326,9 +326,9 @@ Estimated date when the latest task will be completed. The **Lead Time** for the
 
 ## Result
 
-The work order is created and awaits for qualification to [[create-task-manager-mobile|create a work order task]].
+The work order is created and awaits for qualification to create a work order task.
 
-**Note:** You must enable the **Apply Work Order template in draft status** option and **wm\_task\_initiator** role to create tasks for the work order based on the applied template, without qualifying the work order when it is in the draft state. For more information about these configurations, see [Global domain configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/t_ConfigureFieldService.md) and [[r_UserRoleInstallWFieldSrvMgmnt|Roles installed with Field Service Management]].
+**Note:** You must enable the **Apply Work Order template in draft status** option and **wm\_task\_initiator** role to create tasks for the work order based on the applied template, without qualifying the work order when it is in the draft state. For more information about these configurations, see [Global domain configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/t_ConfigureFieldService.md) and [Roles installed with Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/r_UserRoleInstallWFieldSrvMgmnt.md).
 
 ## What to do next
 
@@ -374,10 +374,3 @@ Click **Ready for Dispatch** to move the work order to the Ready for Dispatch st
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[t_ConfigureFieldService|Global domain configurations]]
-- [[r_UserRoleInstallWFieldSrvMgmnt|Roles installed with Field Service Management]]
-- [[fsm-application-landing-page|Field Service Management]]
-- [[create-task-manager-mobile|Create a work order task]]

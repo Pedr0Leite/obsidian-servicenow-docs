@@ -39,9 +39,9 @@ Role required: pa\_data\_collector or admin
 
 ### Procedure
 
-1.  Use one of the following [[view-navigation-paths|navigation paths]]:
+1.  Use one of the following navigation paths:
 
-    -   If you are on an upgraded instance that has not migrated to [[c_performanceAnalyticsAndReporting|Platform Analytics]], navigate to **All** &gt; **Platform Analytics Administration** &gt; **Data Sources** &gt; **Indicator Sources** and select **New**.
+    -   If you are on an upgraded instance that has not migrated to Platform Analytics, navigate to **All** &gt; **Platform Analytics Administration** &gt; **Data Sources** &gt; **Indicator Sources** and select **New**.
     -   If you are on a new instance or have migrated to Platform Analytics, navigate to **All** &gt; **Platform Analytics Administration** &gt; **Data Sources** &gt; **Indicator Sources** and select **New**.
 2.  Enter a unique **Name** by which you can easily see what the indicator source is used for, such as **Incidents.Open**.
 
@@ -101,7 +101,7 @@ Specify an existing report source to reuse. A report source specifies a facts ta
 
     -   Indicator source conditions on text fields are not case-sensitive.
     -   Conditions set on indicator sources and indicators all apply.
-    -   For an indicator to display [[real-time-scores|real-time scores]], set a condition either on the indicator or the indicator source.
+    -   For an indicator to display real-time scores, set a condition either on the indicator or the indicator source.
     -   Due to the reusability of indicator sources, use only high-level criteria to define indicator source conditions. Use the advanced filters on individual indicators to go deeper into the data.
     -   Indicator sources should have at least one date condition, such as \[Created\]\[on\]\[Today\].
     -   Usually, your date conditions should refer to the same time period as the indicator frequency. For example, conditions about the number of days should only be on daily indicators. Conditions about the number of months should only be on monthly indicators.
@@ -121,7 +121,7 @@ Specify an existing report source to reuse. A report source specifies a facts ta
 
 10. In the Records View tab, in **List view**, select the default view.
 
-    The default view applies on Workbench [[widgets|widgets]] and to the lists of records collected for this indicator source on the [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]] and [[kpi-details|KPI Details]]. The available views vary depending on the facts table.
+    The default view applies on Workbench widgets and to the lists of records collected for this indicator source on the Analytics Hub and KPI Details. The available views vary depending on the facts table.
 
 11. In the Records Collection tab, override the maximum number of records that a job can collect for a single indicator source, for this indicator source only.
 
@@ -235,11 +235,3 @@ You can only take snapshots from one table, and it is generally better to take s
 
 [Database views](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_DatabaseViews.md)
 
-## Related
-
-- [[view-navigation-paths|Navigation paths]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[real-time-scores|Real-time scores]]
-- [[widgets|Widgets]]
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]
-- [[kpi-details|KPI Details]]

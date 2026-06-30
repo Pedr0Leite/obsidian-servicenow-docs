@@ -14,7 +14,7 @@ breadcrumb: [Automated testing for Virtual Agent topics that use NLU topic disco
 
 # Handle failures caused by dynamic inputs in user testing of Virtual Agent topics
 
-Avoid failures when performing automated tests for topics in [[assistant-designer|Assistant Designer]] by controlling which inputs that you want to run as part of a test case.
+Avoid failures when performing automated tests for topics in Assistant Designer by controlling which inputs that you want to run as part of a test case.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ When running a test in Assistant Designer, some tests may fail even when a topic
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **[[virtual-agent-landing-page|Virtual Agent]]** &gt; **Designer**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Designer**.
 
 2.  Set the discovery type toggle switch to **NLU/keyword**, then select **Manage test cases**.
 
@@ -43,8 +43,3 @@ When running a test in Assistant Designer, some tests may fail even when a topic
 
 **Parent Topic:**[Automated testing for Virtual Agent topics that use NLU topic discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/automated-testing-va-topics.md)
 
-## Related
-
-- [[assistant-designer|Assistant Designer]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[virtual-agent-landing-page|Virtual Agent]]

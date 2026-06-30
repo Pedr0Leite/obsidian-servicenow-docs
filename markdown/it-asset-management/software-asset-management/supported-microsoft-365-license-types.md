@@ -14,7 +14,7 @@ breadcrumb: [Microsoft 365 integration, Software Asset Management publisher pack
 
 # Supported Microsoft 365 license types
 
-The [[microsoft-o365|Microsoft 365 integration]] supports various Microsoft 365 license types
+The Microsoft 365 integration supports various Microsoft 365 license types
 
 ## Full USL
 
@@ -39,6 +39,3 @@ A Microsoft 365 Step-up license enables you to upgrade a lower edition of a Micr
 
 A Microsoft 365 reserve license enables you to place a license reservation order for a Microsoft 365 Online Services product. With a license reservation order, you can plan and provision additional resources for a Microsoft 365 Online Services product ahead of time without having to create a corresponding purchase order. All license reservation orders are realized during your true-up or annual order process. You can use this license type if you have already purchased a license for a Microsoft 365 Online Services product.
 
-## Related
-
-- [[microsoft-o365|Microsoft 365 integration]]

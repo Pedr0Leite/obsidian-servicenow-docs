@@ -38,7 +38,7 @@ Application
 
 </td><td>
 
-Application of the tab. For example, you can select one of the applications such as **[[employee-center-pro-landing|Employee Center Pro]]** or **[[deskless-kiosk-overview|Employee Center Pro Kiosk]]**.
+Application of the tab. For example, you can select one of the applications such as **Employee Center Pro** or **Employee Center Pro Kiosk**.
 
 </td></tr><tr><td>
 
@@ -109,7 +109,7 @@ Widget
 
 </td><td>
 
-Widget to display on the tab.**Note:** Only when you map a widget to the tab, the information displays inside the tab on the [[emp-slate-employee-profile|employee profile]] page.
+Widget to display on the tab.**Note:** Only when you map a widget to the tab, the information displays inside the tab on the employee profile page.
 
 When the widget is visible on the UI, set the **isVisible** variable value to **true** in the server script data object to indicate the widget visibility. For example, **data.isVisible = true**.
 
@@ -171,7 +171,7 @@ For default calendar view, specify `default_calendar_view` value to day or week 
 
 [Portal notification configuration form]()
 
-[Portal [[ec-notification-content|notification content]] form]()
+[Portal notification content form]()
 
 [Trigger conditions form]()
 
@@ -193,9 +193,3 @@ For default calendar view, specify `default_calendar_view` value to day or week 
 
 [Manage profile tabs and visibility in Employee Profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/manage-employee-profile-tabs-visibility.md)
 
-## Related
-
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[deskless-kiosk-overview|Employee Center Pro Kiosk]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[ec-notification-content|Notification content]]

@@ -28,7 +28,7 @@ The following example procedure shows the alert binding configuration for a swit
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Rules** &gt; **[[create-event-rules|Event Rules]]**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Rules** &gt; **Event Rules**.
 
 2.  Select **New**.
 
@@ -72,7 +72,4 @@ The following example procedure shows the alert binding configuration for a swit
 
     \[Omitted image "ci-device-map-processing-notes.png"\] Alt text: Processing Notes of the event
 
-## Related
 
-- [[c_EM|Event Management]]
-- [[create-event-rules|Event rules]]

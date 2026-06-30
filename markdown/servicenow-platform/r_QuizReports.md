@@ -12,7 +12,7 @@ breadcrumb: [Quizzes reference, Quizzes, Assessments and Surveys, Exploring Serv
 
 # Quiz reports
 
-[[c_Quizzes|Quizzes]] provide several global reports so that assessment administrators can view important statistics.
+Quizzes provide several global reports so that assessment administrators can view important statistics.
 
 You can share these reports with specific users or groups and change the display options.
 
@@ -90,9 +90,5 @@ Total number of incorrect answers for each scored question. -   **Type**: Bar Ch
 -   **Table**: Metric Results \[asmt\_metric\_result\]
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[quizzes-reference|Quizzes reference]]
+</table>**Parent Topic:**[Quizzes reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/quizzes-reference.md)
 
-## Related
-
-- [[quizzes-reference|Quizzes reference]]
-- [[c_Quizzes|Quizzes]]

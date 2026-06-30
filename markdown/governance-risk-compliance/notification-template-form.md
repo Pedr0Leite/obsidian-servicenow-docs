@@ -26,8 +26,5 @@ Use the Notification Template form to create a template with pre-defined informa
 |Foot note|Closing message or a foot note for the notification.|
 |SMS text|Text message sent through SMS.|
 
-**Parent Topic:**[[define-template-emergency-noti-uib-ws|Create templates for emergency notifications]]
+**Parent Topic:**[Create templates for emergency notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/define-template-emergency-noti-uib-ws.md)
 
-## Related
-
-- [[define-template-emergency-noti-uib-ws|Create templates for emergency notifications]]

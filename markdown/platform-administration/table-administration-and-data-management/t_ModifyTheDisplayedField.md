@@ -14,7 +14,7 @@ breadcrumb: [Many-to-many task relations, Working with Task table, Table admin, 
 
 # Modify the displayed field
 
-The list view of the [[c_ReferenceLookup|Reference Lookup]] defines the fields displayed in the Task Relations field and editing interface.
+The list view of the Reference Lookup defines the fields displayed in the Task Relations field and editing interface.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to a form that has a [[reference-email-admin|reference]] to the table whose [[c_DisplayValues|display values]] you would like to modify within Task Relations field.
+1.  Navigate to a form that has a reference to the table whose display values you would like to modify within Task Relations field.
 
 2.  Click the magnifying glass to display the Reference Lookup list view.
 
@@ -33,8 +33,3 @@ Role required: admin
 
 **Parent Topic:**[Creating many-to-many task relations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_ManyToManyTaskRelations.md)
 
-## Related
-
-- [[c_ReferenceLookup|Reference lookup]]
-- [[reference-email-admin|Reference]]
-- [[c_DisplayValues|Display values]]

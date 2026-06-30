@@ -14,7 +14,7 @@ breadcrumb: [DEX Content Playbook reference, Reference, Digital End-User Experie
 
 # DEX check definitions for Windows
 
-Check definitions for Windows are predetermined sets of rules and criteria that assess the performance, security, and conformance of Windows [[dex-workspace-devices-tab|devices]]. These checks can cover various aspects such as CPU usage, memory usage, network tests, network bytes, and logged-in users.
+Check definitions for Windows are predetermined sets of rules and criteria that assess the performance, security, and conformance of Windows devices. These checks can cover various aspects such as CPU usage, memory usage, network tests, network bytes, and logged-in users.
 
 To fetch the complete playbook data for a Windows device, the Agent Client Collector \(ACC\) must run as a local system account. For more details on how to set up the ACC service as a local system account, see [Run ACC as a local system account user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/run-acc-local-sys-account.md).
 
@@ -128,7 +128,7 @@ os.win.check-app-crashes
 
 Retrieves crash rate of the application.
 
- This check definition supports [[dex-workspace-application-tab|applications]] that emit a Window Error Reporting \(WER\) events \(event id = 1000\) on crashing.
+ This check definition supports applications that emit a Window Error Reporting \(WER\) events \(event id = 1000\) on crashing.
 
 **Note:** This check definition doesn't require the application to be running.
 
@@ -212,7 +212,7 @@ os.win.check-app-domain-network-details
 
 </td><td>
 
-Retrieves the network latency, packet loss, and jitter for installed application domain.**Note:** The system uses the Internet Control Message Protocol \(ICMP\) to collect network [[perf-metrics-mob|performance metrics]], such as latency, jitter, and packet loss.
+Retrieves the network latency, packet loss, and jitter for installed application domain.**Note:** The system uses the Internet Control Message Protocol \(ICMP\) to collect network performance metrics, such as latency, jitter, and packet loss.
 
 </td></tr><tr><td>
 
@@ -902,7 +902,7 @@ Purging Recycle Bin will clear all the files in the recycle bin.
 
 </td></tr><tr><td>
 
-os.win.action-reset-google-chrome-[[settings-mobile|settings]]
+os.win.action-reset-google-chrome-settings
 
 </td><td>
 
@@ -953,9 +953,3 @@ Fixes OST / PST data files using SCANPST.EXE in Classic outlook
 </td></tr></tbody>
 </table>**Parent Topic:**[DEX Content Playbook reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-content-playbook-reference.md)
 
-## Related
-
-- [[dex-workspace-devices-tab|Devices]]
-- [[dex-workspace-application-tab|Applications]]
-- [[perf-metrics-mob|Performance metrics]]
-- [[settings-mobile|Settings]]

@@ -50,7 +50,7 @@ The business rules you define up front, establish the GRC configuration settings
 
 ## Entity Based Access \(EBA\)
 
-The [[entity-based-access|Entity Based Access]] feature provides a framework for more granular approach to management of data access to objects associated with an entity. Administrators can grant access to an entity's related records by adding users or user groups, or by using entity user fields for entity-based access configuration. For more information, see [Entity Based Access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/entity-based-access.md).
+The Entity Based Access feature provides a framework for more granular approach to management of data access to objects associated with an entity. Administrators can grant access to an entity's related records by adding users or user groups, or by using entity user fields for entity-based access configuration. For more information, see [Entity Based Access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/entity-based-access.md).
 
 When a user is qualified based on these configurations and has the minimum required roles, they will have access to the following tables:
 
@@ -64,6 +64,3 @@ When entity based record access rules are enabled on the **Entity Based Access C
 
 For more information, see [Entity based record access rules to secure new records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/continuous-monitoring-of-entity-based-access.md).
 
-## Related
-
-- [[entity-based-access|Entity Based Access]]

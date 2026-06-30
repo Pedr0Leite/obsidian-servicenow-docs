@@ -12,9 +12,9 @@ breadcrumb: [Creating CIs using the Identification and Reconciliation engine, Au
 
 # Updating CI class for unmatched cloud assets
 
-Starting with [[vuln-landing-page|Vulnerability Response]] v20.0, you can categorize the unmatched cloud assets from Qualys, Rapid7 and Tenable scanners into Unclassed Hardware by using the **sn\_sec\_cmn.unmatched\_cloud\_resource\_enabled** system property.
+Starting with Vulnerability Response v20.0, you can categorize the unmatched cloud assets from Qualys, Rapid7 and Tenable scanners into Unclassed Hardware by using the **sn\_sec\_cmn.unmatched\_cloud\_resource\_enabled** system property.
 
-This system property with `false` as a default value is shipped with the base system. It classifies the unmatched cloud assets into a Unclassed hardware \(**cmdb\_ci\_unclassed\_hardware**\) or Cloud Resource \(**cmdb\_ci\_cmp\_resource**\) class for the integrations that bring in both [[threat-intelligence-infrastructure|infrastructure]] and cloud assets.
+This system property with `false` as a default value is shipped with the base system. It classifies the unmatched cloud assets into a Unclassed hardware \(**cmdb\_ci\_unclassed\_hardware**\) or Cloud Resource \(**cmdb\_ci\_cmp\_resource**\) class for the integrations that bring in both infrastructure and cloud assets.
 
 Starting with Vulnerability Response v20.0, the Asset Type column is added in the Third-party Integrations \(`sn_sec_int_integration`\) table to identify the integrations that support both infrastructure and cloud assets. The Asset Type column has the value, Hybrid for the scanners that bring in both infrastructure and cloud assets. For example, Qualys, Rapid7, and Tenable integrations have the value as Hybrid in the Asset Type column.
 
@@ -27,10 +27,5 @@ Starting with Vulnerability Response v20.0, the Asset Type column is added in th
 
 **Note:** If you modify the value of the **sn\_sec\_cmn.unmatched\_cloud\_resource\_enabled** system property, ensure to delete unmatched configuration items on the previously targeted CI class, and reapply the lookup rules. To know more about how to delete the existing CIs and reapply CI lookup rules so that the new CIs are created in the right class, see [KB1533376](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1533376).
 
-**Parent Topic:**[[sem-ci-creation-using-IRE|Creating CIs using the Identification and Reconciliation engine]]
+**Parent Topic:**[Creating CIs using the Identification and Reconciliation engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-ci-creation-using-IRE.md)
 
-## Related
-
-- [[sem-ci-creation-using-IRE|Creating CIs using the Identification and Reconciliation engine]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[threat-intelligence-infrastructure|Infrastructure]]

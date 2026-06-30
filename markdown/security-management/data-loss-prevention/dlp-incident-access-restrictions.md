@@ -42,7 +42,7 @@ Set record level restrictions in DLP incidents to protect sensitive records from
 
 [Create email templates]()
 
-[Create a [[dlp-landing|Data Loss Prevention Incident Response]] SLA trigger]()
+[Create a Data Loss Prevention Incident Response SLA trigger]()
 
 [Create a Data Loss Prevention Incident Response SLA definition]()
 
@@ -68,6 +68,3 @@ Set record level restrictions in DLP incidents to protect sensitive records from
 
 [DLP Incidents Archival]()
 
-## Related
-
-- [[dlp-landing|Data Loss Prevention Incident Response]]

@@ -18,7 +18,7 @@ Set up preferred stockrooms for work groups so agents can search parts from thei
 
 ## Before you begin
 
-The Field Service Advanced Parts Sourcing plugin \(com.snc.fsm\_advanced\_parts\_sourcing\) must be activated. For more information, see [[field-service-additional-plugins|Additional plugins for Field Service Management]].
+The Field Service Advanced Parts Sourcing plugin \(com.snc.fsm\_advanced\_parts\_sourcing\) must be activated. For more information, see [Additional plugins for Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-additional-plugins.md).
 
 Role required: wm\_admin
 
@@ -47,7 +47,7 @@ Role required: wm\_admin
 
 6.  Select the **Preferred Stockroom** option in the **Part Search Criteria** property to help Field Service agents search parts from the preferred stockrooms using the Now Mobile Agent application.
 
-    For more information, see [[advanced-part-souring-components|Advanced Part Sourcing components]]
+    For more information, see [Advanced Part Sourcing components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/advanced-part-souring-components.md)
 
 
 **Related topics**  
@@ -55,7 +55,3 @@ Role required: wm\_admin
 
 [Setting up Field Service user groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/setting-up-field-service-user-groups.md)
 
-## Related
-
-- [[field-service-additional-plugins|Additional plugins for Field Service Management]]
-- [[advanced-part-souring-components|Advanced Part Sourcing components]]

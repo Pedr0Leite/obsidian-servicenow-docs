@@ -12,7 +12,7 @@ breadcrumb: [Configure Now Assist for Purchase Order Management \(POM\), Now Ass
 
 # Review the define PO exception mitigation strategy workflow
 
-Review the define PO exception mitigation strategy agentic workflow that uses Now Assist agentic support to [[mitigation-strategies-for-po-exceptions|identify and execute mitigation strategies for purchase order exceptions]].
+Review the define PO exception mitigation strategy agentic workflow that uses Now Assist agentic support to identify and execute mitigation strategies for purchase order exceptions.
 
 ## Before you begin
 
@@ -47,7 +47,7 @@ You can add or remove AI agents from this workflow by making a copy and customiz
     |Field|Description|
     |-----|-----------|
     |Workflow Name|Define PO exception mitigation strategy.|
-    |Workflow description|The Define PO exception mitigation strategy workflow is an AI-powered workflow that resolves [[purchase-order-table|purchase order]] delivery exceptions by analyzing delivery gaps, searching for alternative [[purchase-order-lines|purchase order lines]] from different suppliers, and creating optimized change requests that combine [[supplier|supplier]]-suggested modifications with buyer-approved mitigation plans.|
+    |Workflow description|The Define PO exception mitigation strategy workflow is an AI-powered workflow that resolves purchase order delivery exceptions by analyzing delivery gaps, searching for alternative purchase order lines from different suppliers, and creating optimized change requests that combine supplier-suggested modifications with buyer-approved mitigation plans.|
     |List of steps|Instructions for the LLM service.|
 
     |Name|Description|Tools and knowledge sources|Model support|Active|
@@ -102,17 +102,7 @@ Model providers that this agentic workflow doesn’t support.All model providers
 
 ## What to do next
 
-After reviewing the agentic workflow, you can get started by selecting **Now Assist** button on a [[purchase-order-exception-table|purchase order exception]] record or the exception card on the **[[purchase-order-mgmt-landing-page|Purchase order management]]** tab in the [[purch-order-mgmt-ws|Source-to-Pay Workspace]].
+After reviewing the agentic workflow, you can get started by selecting **Now Assist** button on a purchase order exception record or the exception card on the **Purchase order management** tab in the Source-to-Pay Workspace.
 
-**Parent Topic:**[[configure-now-assist-purch-order-mgmt|Configure Now Assist for Purchase Order Management \(POM\)]]
+**Parent Topic:**[Configure Now Assist for Purchase Order Management \(POM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/configure-now-assist-purch-order-mgmt.md)
 
-## Related
-
-- [[configure-now-assist-purch-order-mgmt|Configure Now Assist for Purchase Order Management \(POM\)]]
-- [[mitigation-strategies-for-po-exceptions|Identify and execute mitigation strategies for purchase order exceptions]]
-- [[purchase-order-table|Purchase order]]
-- [[purchase-order-lines|Purchase order lines]]
-- [[supplier|Supplier]]
-- [[purchase-order-exception-table|Purchase Order Exception]]
-- [[purchase-order-mgmt-landing-page|Purchase Order Management]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, Opportunity Marketplace, Hiring Experiences, HR Service 
 
 # Add a role applicant to an opportunity role
 
-Role applicants are employees who have applied to a role that is part of an opportunity. As an [[egd-oppt-mrktplc-landing|Opportunity Marketplace]] admin \[sn\_opp\_market.admin\], you can add role applicants to an opportunity role.
+Role applicants are employees who have applied to a role that is part of an opportunity. As an Opportunity Marketplace admin \[sn\_opp\_market.admin\], you can add role applicants to an opportunity role.
 
 ## Before you begin
 
@@ -46,6 +46,3 @@ Role required: Opportunity Marketplace \[sn\_opp\_market.admin\]
 
 **Parent Topic:**[Install and configure Opportunity Marketplace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/opportunity-marketplace/egd-oppt-mrktplc-inst-config.md)
 
-## Related
-
-- [[egd-oppt-mrktplc-landing|Opportunity Marketplace]]

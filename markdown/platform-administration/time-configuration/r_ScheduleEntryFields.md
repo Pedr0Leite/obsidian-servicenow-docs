@@ -14,7 +14,7 @@ breadcrumb: [Define a schedule, Schedules, Explore, Time configuration, Configur
 
 # Schedule entry fields
 
-You can only associate a schedule entry with one schedule. The **Schedule Entries** related list contains the [[clone-exclusions-preservers-cleanupscripts|definitions]] of the time periods you want to include in or exclude from the schedule.
+You can only associate a schedule entry with one schedule. The **Schedule Entries** related list contains the definitions of the time periods you want to include in or exclude from the schedule.
 
 <table id="table_tq3_h4w_bp"><thead><tr><th>
 
@@ -38,7 +38,7 @@ Type
 
 </td><td>
 
-Label that describes the purpose of the schedule. The system also uses the schedule type to determine how to process certain [[c_UseSchedules|schedules]].-   **Excluded**: Excludes time periods from SLA counts.
+Label that describes the purpose of the schedule. The system also uses the schedule type to determine how to process certain schedules.-   **Excluded**: Excludes time periods from SLA counts.
 -   **Maintenance**: Specifies time periods where change management activities are allowed. A schedule containing maintenance schedule entries cannot also contain blackout schedule entries.
 -   **Blackout**: Excludes time periods from change management schedules. A schedule containing blackout schedule entries cannot also contain maintenance schedule entries.
 
@@ -59,7 +59,7 @@ When
 
 </td><td>
 
-Date and time to which the schedule entry applies. If the schedule entry applies to a full 24-hour day, select the **All day** check box.**Note:** Changing the global date and time format in the **glide.sys.date\_format** [[r_SetArchiveRuleProcessingBehavior|System Properties]] setting has significant impact on schedule calculations made when you select the **All day** check box. To learn more, see [Global date and time field format](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/r_FormatDateAndTimeFields.md).
+Date and time to which the schedule entry applies. If the schedule entry applies to a full 24-hour day, select the **All day** check box.**Note:** Changing the global date and time format in the **glide.sys.date\_format** System Properties setting has significant impact on schedule calculations made when you select the **All day** check box. To learn more, see [Global date and time field format](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/r_FormatDateAndTimeFields.md).
 
 </td></tr><tr><td>
 
@@ -155,8 +155,3 @@ Type
 
 [Define a schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_DefineASchedule.md)
 
-## Related
-
-- [[clone-exclusions-preservers-cleanupscripts|Definitions]]
-- [[c_UseSchedules|Schedules]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

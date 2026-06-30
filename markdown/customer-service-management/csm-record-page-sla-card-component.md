@@ -20,7 +20,7 @@ The Task SLA cards component can display multiple SLAs. The cards are displayed 
 
 \[Omitted image "component-sla-card.png"\] Alt text: SLA card component with three SLA cards displayed in a carousel. Cards include the SLA name, time remaining and current status.
 
-The Task SLA cards component is available on the [[csm-front-line-case-page|Front-line case page]] in the contextual side panel. The SLA cards appear in the Record Information tab below below the record information card.
+The Task SLA cards component is available on the Front-line case page in the contextual side panel. The SLA cards appear in the Record Information tab below below the record information card.
 
 The SLA cards display a visual presentation of SLA information that agents can use to check quickly where they are in the life cycle of the SLA.
 
@@ -33,6 +33,3 @@ The SLA cards display a visual presentation of SLA information that agents can u
     -   **At risk**: Is displayed when 25% of the SLA time is remaining \(yellow background\).
     -   **Breached**: Is displayed when an SLA is violated \(red background\). This tag is displayed in both the SLA card expanded and collapsed states.
 
-## Related
-
-- [[csm-front-line-case-page|Front-line case page]]

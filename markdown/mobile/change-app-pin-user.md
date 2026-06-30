@@ -22,7 +22,7 @@ Role required: admin
 
 1.  Log into a ServiceNow mobile app.
 
-2.  On the [[sg-mobile-tab-bar|navigation bar]], tap the **Settings**.
+2.  On the navigation bar, tap the **Settings**.
 
 3.  On the settings page, tap **Security**.
 
@@ -37,9 +37,5 @@ Role required: admin
     Your app is now configured with a new security PIN.
 
 
-**Parent Topic:**[[mobile-app-pin-settings|App PIN settings for mobile]]
+**Parent Topic:**[App PIN settings for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-app-pin-settings.md)
 
-## Related
-
-- [[mobile-app-pin-settings|App PIN settings for mobile]]
-- [[sg-mobile-tab-bar|Navigation bar]]

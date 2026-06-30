@@ -12,7 +12,7 @@ breadcrumb: [System logs, Logs, Platform Security]
 
 # Log history
 
-The system uses table rotation and table extension to archive older [[logs|logs]].
+The system uses table rotation and table extension to archive older logs.
 
 By default, the system uses the following schedule to archive common logs:
 
@@ -25,6 +25,3 @@ By default, the system uses the following schedule to archive common logs:
 |Transaction Log \[syslog\_transaction\]|Every week|8|Rotation|
 |Email \[sys\_email\]|Every 30 days|8|Extension|
 
-## Related
-
-- [[logs|Logs]]

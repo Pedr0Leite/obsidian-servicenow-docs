@@ -14,7 +14,7 @@ breadcrumb: [Mobile experience for Health and Safety, Health and Safety, Employe
 
 # View a safety register document in the Now Mobile app
 
-View safety register documents for hazardous material on your mobile device using the ServiceNow [[mobile-employee-experience|Now Mobile app]].
+View safety register documents for hazardous material on your mobile device using the ServiceNow Now Mobile app.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: none
 
 ## About this task
 
-All Safety Data Sheets \(SDSs\) that are added to the [[hs-safety-registers|safety registers]] through the [[health-safety-core-workspace|Health and Safety Workspace]] are available to view in the Now Mobile app. Employees can access these SDSs for their safety when working with any potentially hazardous materials.
+All Safety Data Sheets \(SDSs\) that are added to the safety registers through the Health and Safety Workspace are available to view in the Now Mobile app. Employees can access these SDSs for their safety when working with any potentially hazardous materials.
 
 ## Procedure
 
@@ -30,7 +30,7 @@ All Safety Data Sheets \(SDSs\) that are added to the [[hs-safety-registers|safe
 
 2.  In the navigation bar, tap **Home**.
 
-3.  In the **[[emp-center-quick-link-config|Quick links]]** section on the page, tap **Safety register documents**.
+3.  In the **Quick links** section on the page, tap **Safety register documents**.
 
 4.  In the list, tap the material to view its SDS.
 
@@ -45,9 +45,3 @@ All Safety Data Sheets \(SDSs\) that are added to the [[hs-safety-registers|safe
 
 **Parent Topic:**[Mobile experience for Health and Safety](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-health-safety-mobile.md)
 
-## Related
-
-- [[mobile-employee-experience|Now Mobile app]]
-- [[hs-safety-registers|Safety registers]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[emp-center-quick-link-config|Quick links]]

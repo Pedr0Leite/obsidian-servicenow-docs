@@ -22,7 +22,7 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[process-mining|Process Mining]]** &gt; **Projects** &gt; **All Projects**.
+1.  Navigate to **All** &gt; **Process Mining** &gt; **Projects** &gt; **All Projects**.
 
 2.  Open the project that you want to copy the findings for.
 
@@ -35,6 +35,3 @@ A message is displayed stating the number of rule-based improvement opportunitie
 
 **Parent Topic:**[Create a project using Classic view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/create-proj.md)
 
-## Related
-
-- [[process-mining|Process Mining]]

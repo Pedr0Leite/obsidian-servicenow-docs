@@ -124,15 +124,10 @@ Option to track any changes made to the data inserted using configuration and lo
 
 ## What to do next
 
-Add additional reporting configuration filters to the reporting configuration. These filters help to fetch the data into your Microsoft Word disclosure report. For more information, see [[add-additional-reporting-filters|Add additional reporting configuration filters for a Microsoft 365 configuration record]].
+Add additional reporting configuration filters to the reporting configuration. These filters help to fetch the data into your Microsoft Word disclosure report. For more information, see [Add additional reporting configuration filters for a Microsoft 365 configuration record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/add-additional-reporting-filters.md).
 
--   **[[configure-business-domain-roles|Configure a business domain role]]**  
+-   **[Configure a business domain role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/configure-business-domain-roles.md)**  
 Configure the business domain roles so that users of a particular domain can select the domain for which they want to import the data. Only those users who are added during the configuration can view the domain on the Microsoft Word document.
 
-**Parent Topic:**[[integrating-o365-with-servicenow|Integrating Microsoft 365 with ServiceNow reporting]]
+**Parent Topic:**[Integrating Microsoft 365 with ServiceNow reporting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/integrating-o365-with-servicenow.md)
 
-## Related
-
-- [[add-additional-reporting-filters|Add additional reporting configuration filters for a Microsoft 365 configuration record]]
-- [[configure-business-domain-roles|Configure a business domain role]]
-- [[integrating-o365-with-servicenow|Integrating Microsoft 365 with ServiceNow reporting]]

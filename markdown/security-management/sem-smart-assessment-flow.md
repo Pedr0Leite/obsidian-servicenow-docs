@@ -29,16 +29,12 @@ The following is the workflow of the smart assessment adaption:
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sem-workspace-user-interface|Security Exposure Management Workspace]]** &gt; **Approvals**to view the questionnaire in the list view as well as inside the request form view.
+1.  Navigate to **Workspaces** &gt; **Security Exposure Management Workspace** &gt; **Approvals**to view the questionnaire in the list view as well as inside the request form view.
 
 2.  Once the record is **Approved**, VIT is moved to Deferred state.
 
 3.  You can view the questionnaire via a link submitted by the Remediation Owners in the request information in Overview page.
 
 
-**Parent Topic:**[[sem-approval-view|Unified Approvals View]]
+**Parent Topic:**[Unified Approvals View](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-approval-view.md)
 
-## Related
-
-- [[sem-approval-view|Unified Approvals View]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]

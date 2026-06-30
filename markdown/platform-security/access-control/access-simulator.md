@@ -14,7 +14,7 @@ breadcrumb: [Access Analyzer, Access Management]
 
 # Access simulator
 
-As a feature within [[access-analyzer|Access Analyzer]], you use access simulator to pre-validate the effects of adding or removing roles and groups for a specific user without actually implementing the changes.
+As a feature within Access Analyzer, you use access simulator to pre-validate the effects of adding or removing roles and groups for a specific user without actually implementing the changes.
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
@@ -42,7 +42,3 @@ As a feature within [[access-analyzer|Access Analyzer]], you use access simulato
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[access-analyzer|Access Analyzer]]

@@ -14,11 +14,11 @@ breadcrumb: [Domain separation in Cloud Provisioning and Governance - considerat
 
 # Domain admin considerations
 
-Before configuring domain separation for customers, ensure that you review the following considerations ahead of provisioning cloud resources for each domain you are managing in the [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] application.
+Before configuring domain separation for customers, ensure that you review the following considerations ahead of provisioning cloud resources for each domain you are managing in the Cloud Provisioning and Governance application.
 
 ## Domain administrator activities in a Service Provider's organization
 
-The following section lists activities that a domain's administrator performs for the company that a Service Provider manages. Set up service accounts and [[cloud-accounts|cloud accounts]] using the [[cloud-admin-portal|Cloud Admin Portal]]. [[create-pre-provisioning|Create pre-provisioning operations]] that you can configure for cloud resources before your users provision them or perform life-cycle operations.
+The following section lists activities that a domain's administrator performs for the company that a Service Provider manages. Set up service accounts and cloud accounts using the Cloud Admin Portal. Create pre-provisioning operations that you can configure for cloud resources before your users provision them or perform life-cycle operations.
 
 Strong universal process standards, data-driven process design, strict governance, and centralized administration maximize the benefits of domain separation in Cloud Provisioning and Governance in a single instance. The domain admin role must strictly be restricted to users in the Service Provider's organization, and not be assigned to the Cloud Admin users from the customer's organization. This restriction enables the SP to ensure that a customer does not get full access to other domain's data. Since data is often shared across multiple clients, as domain admins, don't expose or provide permissions that could result in data leakage.
 
@@ -26,7 +26,7 @@ Strong universal process standards, data-driven process design, strict governanc
 
 -   Ensure that you map relevant service accounts to cloud accounts in each domain. For instance, discovering a primary subscription from Azure cloud creates one or more child service accounts and are created in the same domain. This means that all service accounts in a master subscription from Azure cloud must belong to a single company and domain alone.
 
-    Log in using a user with a root\_admin or cloud\_admin role, while setting up cloud and service accounts and running [[r-discovery|discovery]] for any domain. Use the domain picker while performing actions such as discovery or cloud and service account creation and mapping.
+    Log in using a user with a root\_admin or cloud\_admin role, while setting up cloud and service accounts and running discovery for any domain. Use the domain picker while performing actions such as discovery or cloud and service account creation and mapping.
 
     **Note:**
 
@@ -44,13 +44,13 @@ Strong universal process standards, data-driven process design, strict governanc
 
     CAPI is not domain separated as, domain separation support in Cloud Provisioning and Governance. Since CAPI is set up at a global domain and shared across leaf domains, ensure that scripts do not contain hard-coded sensitive information such as account details, credentials, or names even in comments or annotations.
 
-    CAPI enables you to integrate Cloud Provisioning and Governance with cloud providers using REST APIs. Cloud scripts are simple java scripts that use platform features. In the Cloud Provisioning and Governance application, script execution is divided into [[cloud-scripts-and-templates|cloud scripts and cloud script templates]]. Use scripts in templates, resource blocks, OS profiles, and use policy scripts to set request form attributes. Policy scripts cannot override user data. Cloud script templates are actual executables which are passed to target a virtual machine for execution. Create a cloud template first and then associate it with a cloud script.
+    CAPI enables you to integrate Cloud Provisioning and Governance with cloud providers using REST APIs. Cloud scripts are simple java scripts that use platform features. In the Cloud Provisioning and Governance application, script execution is divided into cloud scripts and cloud script templates. Use scripts in templates, resource blocks, OS profiles, and use policy scripts to set request form attributes. Policy scripts cannot override user data. Cloud script templates are actual executables which are passed to target a virtual machine for execution. Create a cloud template first and then associate it with a cloud script.
 
 -   [Cloud Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cloud-discovery-wizard.md)
 
     Service Providers \(SPs\) use domain separation to segregate data for each customer. Users in a given domain have visibility only to the data in their own domains or in child domains. SPs typically control the top-level domain, which gives them visibility to data associated with all domains. Though domain separation support for Discovery is considered Level 2, there is no delegated administration to the child domains in Cloud Provisioning and Governance. The SPs must retain administrative control. As a SP, always run discovery from a leaf domain by logging in as or impersonating a domain administrator to discover your cloud resources.
 
-    Cloud Discovery provides a wizard that allows you to create and run cloud schedules in a single interface. When you create a schedule with the Discovery Manager, you select the accounts to discover, the credentials for accessing these accounts, and the MID Servers to scan the resources. You can then view the results in the [[discovery-home-page|Discovery Home page]] and track any errors that might have occurred.
+    Cloud Discovery provides a wizard that allows you to create and run cloud schedules in a single interface. When you create a schedule with the Discovery Manager, you select the accounts to discover, the credentials for accessing these accounts, and the MID Servers to scan the resources. You can then view the results in the Discovery Home page and track any errors that might have occurred.
 
     For more information see,
 
@@ -60,7 +60,7 @@ Strong universal process standards, data-driven process design, strict governanc
         -   [VMware Cloud Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/vmware-cloud-discovery.md)
         -   [Google Cloud Platform Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/google-gcp-discovery-pattern.md)
         -   [IBM Cloud Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/ibm-cloud-discovery.md)
--   Set up and configure [[c_EM|event management]] to receive external events and generates alerts based on event and alert management rules. The visibility of events depends on the associated service account's domain. Only users belonging that domain can see the event details for processed events. Events that are not associated to a service account are visible to all domains.
+-   Set up and configure event management to receive external events and generates alerts based on event and alert management rules. The visibility of events depends on the associated service account's domain. Only users belonging that domain can see the event details for processed events. Events that are not associated to a service account are visible to all domains.
 
     Monitor the health of business services and infrastructure using a single management console and respond appropriately to any issues that come up. Event Management provides intelligent event and alert analysis to ensure continuity of your business service performance. Event Management receives and processes events via the MID Server.
 
@@ -130,13 +130,3 @@ For more information on performing Cloud Provisioning and Governance life-cycle 
 
 [Discovery patterns used by ITOM Visibility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/c_MappingPatternsCustomization.md)
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[cloud-accounts|Cloud accounts]]
-- [[cloud-admin-portal|Cloud Admin Portal]]
-- [[create-pre-provisioning|Create pre-provisioning operations]]
-- [[r-discovery|Discovery]]
-- [[cloud-scripts-and-templates|Cloud scripts and cloud script templates]]
-- [[discovery-home-page|Discovery Home page]]
-- [[c_EM|Event Management]]

@@ -12,7 +12,7 @@ breadcrumb: [Setup for a BIA, Configure, Business Continuity Management, Governa
 
 # Configure BIA templates with legacy assessment
 
-Configure a [[bia-uib|business impact analysis]] \(BIA\) template in the Business Continuity Workspace with a legacy assessment. Select the type of elements, impact categories, and dependencies to be assessed. The legacy assessment uses the older method of selecting impact categories.
+Configure a business impact analysis \(BIA\) template in the Business Continuity Workspace with a legacy assessment. Select the type of elements, impact categories, and dependencies to be assessed. The legacy assessment uses the older method of selecting impact categories.
 
 ## Before you begin
 
@@ -46,7 +46,7 @@ Beginning with the Yokohama release, you can configure the BIA template with the
 
 3.  On the form, fill in the fields.
 
-    For more information on the fields in the form, see [[bia-template-new-record-form|BIA template form for the legacy assessment]].
+    For more information on the fields in the form, see [BIA template form for the legacy assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bia-template-new-record-form.md).
 
 4.  Add the name and description for the BIA template.
 
@@ -60,7 +60,7 @@ Beginning with the Yokohama release, you can configure the BIA template with the
 
 7.  To assess the type of impact, select the impact category in the **Impact categories** field.
 
-    You can select different impact categories such as Legal impact, Regulatory impact, Reputation impact, or Revenue impact. Based on the impact category, you can calculate the recovery time objective \(RTO\) and recovery point objective \(RPO\). For information on configuring the impact category of the BIA, see [[configure-impact-category-uib-ws|Configure impact category for BIA]].
+    You can select different impact categories such as Legal impact, Regulatory impact, Reputation impact, or Revenue impact. Based on the impact category, you can calculate the recovery time objective \(RTO\) and recovery point objective \(RPO\). For information on configuring the impact category of the BIA, see [Configure impact category for BIA](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-impact-category-uib-ws.md).
 
 8.  Select the dependencies in the **Dependency assessments** field.
 
@@ -78,11 +78,5 @@ Beginning with the Yokohama release, you can configure the BIA template with the
 -   **[BIA template form for the legacy assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bia-template-new-record-form.md)**  
 Use the BIA template form to configure the business impact analysis with the legacy template. You can add details such as name, description, elements, impact categories, and so on in the form.
 
-**Parent Topic:**[[bcm-admin-tasks|Setup for a business impact analysis]]
+**Parent Topic:**[Setup for a business impact analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bcm-admin-tasks.md)
 
-## Related
-
-- [[bia-template-new-record-form|BIA template form for the legacy assessment]]
-- [[configure-impact-category-uib-ws|Configure impact category for BIA]]
-- [[bcm-admin-tasks|Setup for a business impact analysis]]
-- [[bia-uib|Business impact analysis]]

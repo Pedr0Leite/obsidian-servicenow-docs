@@ -10,13 +10,13 @@ reading_time_minutes: 3
 
 # Components installed with Employee Center Pro
 
-Several types of components install with the activation of the [[employee-center-pro-landing|Employee Center Pro]] plugin, including user roles and tables.
+Several types of components install with the activation of the Employee Center Pro plugin, including user roles and tables.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
 Demo data is available for this feature.
 
-**Note:** The [[employee-center-landing-page|Employee Center]] \[com.sn\_hr\_service\_portal\] plugin activates the sn\_hr\_sp.min\_admin\_count system property \[sys\_properties.list\]. This property prevents you from deleting your only Employee Center admin user by requiring a minimum number \(default is two\) of active users with this role.
+**Note:** The Employee Center \[com.sn\_hr\_service\_portal\] plugin activates the sn\_hr\_sp.min\_admin\_count system property \[sys\_properties.list\]. This property prevents you from deleting your only Employee Center admin user by requiring a minimum number \(default is two\) of active users with this role.
 
 ## Tables installed
 
@@ -129,7 +129,3 @@ To-dos widget mapping table.
 
 [To-do content form]()
 
-## Related
-
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[employee-center-landing-page|Employee Center]]

@@ -38,7 +38,7 @@ Knowledge block content can be read or not read in an article or search based on
 
 You are part of an enterprise HR organization that maintains a company knowledge base. You want to create a holiday calendar so that employees know which days of the year are company holidays. Since the company has multiple locations and holiday dates vary based on where the employee is located, there are several ways that you could create the knowledge article.
 
-One way is that you could [[create-knowledge-article|create a knowledge article]] for each location, with an article for Location A, Location B, and so on.
+One way is that you could create a knowledge article for each location, with an article for Location A, Location B, and so on.
 
 -   Pros: simplified consumption. Employees have a single article to search for and read.
 -   Cons: more work for HR. HR has multiple articles to manage and update for each location where the company has employees.
@@ -60,10 +60,5 @@ If you are using a custom search or knowledge article viewer with your applicati
 
 To use knowledge blocks in your application, you must [activate knowledge blocks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/activate-knowledge-blocks.md). For information on what components are installed with the feature, see [Components installed with knowledge blocks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/components-installed-with-knowledge-blocks.md).
 
-**Note:** Activating knowledge blocks automatically activates [[knowledge-management|Knowledge Management]] Advanced, which enables advanced features such as [[article-versioning|article versioning]]. Knowledge blocks can be used with or without the article versioning feature. To disable the feature, see [Disable the article versioning feature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/article-versioning-disable-property.md).
+**Note:** Activating knowledge blocks automatically activates Knowledge Management Advanced, which enables advanced features such as article versioning. Knowledge blocks can be used with or without the article versioning feature. To disable the feature, see [Disable the article versioning feature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/article-versioning-disable-property.md).
 
-## Related
-
-- [[create-knowledge-article|Create a knowledge article]]
-- [[knowledge-management|Knowledge Management]]
-- [[article-versioning|Article versioning]]

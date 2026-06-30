@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Facilities** &gt; **[[r_SpaceManagement|Space Management]]** &gt; **Floor**.
+1.  Navigate to **All** &gt; **Facilities** &gt; **Space Management** &gt; **Floor**.
 
 2.  Continue with one of the following options.
 
@@ -125,7 +125,7 @@ Area unit
 
 Select the unit used for defining the space size: square feet or square meters.
 
- **Note:** The **Area unit** assigned to all spaces must be consistent for the rollup calculations to work properly. See [[c_SpaceRollupCalculations|Space roll up calculations]].
+ **Note:** The **Area unit** assigned to all spaces must be consistent for the rollup calculations to work properly. See [Space roll up calculations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_SpaceRollupCalculations.md).
 
 </td></tr><tr><td>
 
@@ -177,7 +177,7 @@ Enter a number to define the maximum level of utilization for the floor or level
 </table>4.  Click **Save** and the **Related Links** section displays.
 
     -   Show Floor Plan: Click to display a floor plan of the selected floor.
-    -   View Facilities Schedule: Click to [[t_CreateFacScheduleBlackout|create a facilities schedule blackout]] and prevent work from being performed in a defined area for a scheduled time period.
+    -   View Facilities Schedule: Click to create a facilities schedule blackout and prevent work from being performed in a defined area for a scheduled time period.
 5.  The **Facility Spaces** section displays with a list of spaces that are part of the floor or level. Click **New** to add a facility space or click a facility space to edit.
 
 6.  Continue with one of the following options.
@@ -210,9 +210,3 @@ Action
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_SpaceRollupCalculations|Space roll up calculations]]
-- [[r_SpaceManagement|Space management]]
-- [[t_CreateFacScheduleBlackout|Create a facilities schedule blackout]]

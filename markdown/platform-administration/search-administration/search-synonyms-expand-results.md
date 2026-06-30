@@ -14,7 +14,7 @@ breadcrumb: [Zing text indexing and search engine, Search administration, Config
 
 # Zing can expand search results with synonyms
 
-Expand search [[hs-results|results]] to include additional search terms.
+Expand search results to include additional search terms.
 
 By default, Zing includes a sample synonym dictionary consisting of a list of synonym sets \(synsets\). Zing supports two types of synonym sets.
 
@@ -25,7 +25,7 @@ By default, Zing includes a sample synonym dictionary consisting of a list of sy
 
 ## Search results, synonym expansion and weighting
 
-In search results, documents containing the original search keywords have a higher score than documents containing the search [[synonyms-ais|synonyms]]. For example, documents with the search keyword `IOT` have a higher score than documents with the synonym `Internet of Things`.
+In search results, documents containing the original search keywords have a higher score than documents containing the search synonyms. For example, documents with the search keyword `IOT` have a higher score than documents with the synonym `Internet of Things`.
 
 -   One-way synonym expansion to/from multiple terms `(blork, cork => malork, elastic)` works as expected. `Blork` and `cork` both expand to `malork` and `elastic`.
 -   Multi-level one-way expansion `(blork => cork => malork)` doesn't work transitively. Neither `blork` nor `cork` expands to `malork`.
@@ -40,7 +40,7 @@ Zing doesn't expand the `%` and `*` wildcard characters when looking for synonym
 -   **[Enable search synonyms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/enable-text-index-synonyms.md)**  
 Enabling text index synonyms allows Zing to expand text searches with additional search keywords.
 -   **[Create synonym dictionaries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/create-synonym-dictionaries.md)**  
-You can [[create-synonym-dictionaries|create synonym dictionaries]] to expand Zing text searches with additional search keywords.
+You can create synonym dictionaries to expand Zing text searches with additional search keywords.
 -   **[Select synonym dictionaries for a table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/select-synonym-dictionaries.md)**  
 Search administrators can specify one or more synonym dictionaries available to a particular table.
 -   **[Disable synonyms for a table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/disable-synonyms-for-a-table.md)**  
@@ -69,18 +69,11 @@ You can view debug messages to determine if synonym searches are working as expe
 
 [Zing can include attachments in search results]()
 
-[Zing removes [[stop-words-ais|stop words]] from queries]()
+[Zing removes stop words from queries]()
 
 [Zing matches derived words with stemming]()
 
-[Zing displays [[search-suggestions-overview|search suggestions]] as users enter search terms]()
+[Zing displays search suggestions as users enter search terms]()
 
 [Installed with Zing]()
 
-## Related
-
-- [[hs-results|Results]]
-- [[synonyms-ais|Synonyms]]
-- [[create-synonym-dictionaries|Create synonym dictionaries]]
-- [[stop-words-ais|Stop words]]
-- [[search-suggestions-overview|Search Suggestions]]

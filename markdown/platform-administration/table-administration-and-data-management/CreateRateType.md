@@ -33,7 +33,7 @@ For example:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[time-sheets|Time Sheets]]** &gt; **Administration** &gt; **Rate Types**.
+1.  Navigate to **All** &gt; **Time Sheets** &gt; **Administration** &gt; **Rate Types**.
 
 2.  Click **New** and fill the form.
 
@@ -76,12 +76,7 @@ Deselect the check box to mark the rate type as inactive.**Note:** Inactivating 
 ## Result
 
 -   The rate type is displayed in the **Rate Types** list.
--   The rate type if active is also displayed in the **Rate Type** field in the Labor Rate Cards form, [[c_TimeWorked|Time Worked]] form, Time Card form, and [[worker-portal|Time Sheet Portal]].
+-   The rate type if active is also displayed in the **Rate Type** field in the Labor Rate Cards form, Time Worked form, Time Card form, and Time Sheet Portal.
 
 **Parent Topic:**[Time Card Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/time-card-management.md)
 
-## Related
-
-- [[time-sheets|Time Sheets]]
-- [[c_TimeWorked|Time worked]]
-- [[worker-portal|Time Sheet Portal]]

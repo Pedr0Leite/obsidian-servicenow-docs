@@ -14,7 +14,7 @@ breadcrumb: [Collecting indicator scores, Configure advanced features, Performan
 
 # Add or edit indicator scores manually
 
-You can manually enter score data for automated and [[t_CreateAManualIndicator|manual indicators]]. Exercise care when editing scores for [[automated-indicators|automated indicators]].
+You can manually enter score data for automated and manual indicators. Exercise care when editing scores for automated indicators.
 
 ## Before you begin
 
@@ -29,11 +29,11 @@ You can manually overwrite data that a job collected. However, the next time tha
 **Note:**
 
 -   Auditing does not track manual changes to the scoresheet. Manual inserts, updates, and deletions are not audited, even when auditing is enabled at the Dictionary level for all pa\_scores tables.
--   You cannot edit scores manually for [[formula-indicators|formula indicators]].
+-   You cannot edit scores manually for formula indicators.
 
 ## Procedure
 
-1.  Navigate to **[[c_performanceAnalyticsAndReporting|Platform Analytics]] Administration** &gt; **Indicators** &gt; **Scoresheet** &gt; ****.
+1.  Navigate to **Platform Analytics Administration** &gt; **Indicators** &gt; **Scoresheet** &gt; ****.
 
 2.  Select the indicator for which you want to enter manual scores.
 
@@ -53,7 +53,7 @@ You can manually overwrite data that a job collected. However, the next time tha
 
         All scores for that breakdown are totaled or the average is calculated for them.
 
-        For automated indicators that collect a second-level breakdown and are based on two or more [[breakdown-sources|breakdown sources]], multi-level breakdown scores can be entered in the scoresheet. For example, for Open incidents by workgroup by priority, you can enter both scores for the elements of workgroup \(first level\) and the elements of priority \(second level\). Aggregations for these indicators are calculated in the same way as other breakdowns.
+        For automated indicators that collect a second-level breakdown and are based on two or more breakdown sources, multi-level breakdown scores can be entered in the scoresheet. For example, for Open incidents by workgroup by priority, you can enter both scores for the elements of workgroup \(first level\) and the elements of priority \(second level\). Aggregations for these indicators are calculated in the same way as other breakdowns.
 
 
 **Parent Topic:**[Collecting indicator scores](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_ClctData.md)
@@ -63,10 +63,3 @@ You can manually overwrite data that a job collected. However, the next time tha
 
 [Manual indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_CreateAManualIndicator.md)
 
-## Related
-
-- [[t_CreateAManualIndicator|Manual indicators]]
-- [[automated-indicators|Automated indicators]]
-- [[formula-indicators|Formula indicators]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[breakdown-sources|Breakdown sources]]

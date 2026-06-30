@@ -14,9 +14,9 @@ breadcrumb: [ITSM Virtual Agent pre-built actionable notifications, ITSM Virtual
 
 # Tracking deflections in ITSM Virtual Agent
 
-You can use the pre-built deflection topics and topic blocks in Virtual Agent conversations to track the incidents that [[itsm-virtual-agent|ITSM Virtual Agent]] helped to resolve.
+You can use the pre-built deflection topics and topic blocks in Virtual Agent conversations to track the incidents that ITSM Virtual Agent helped to resolve.
 
-A deflection happens when ITSM Virtual Agent resolves an issue for you. By asking you relevant questions, ITSM Virtual Agent can [[create-an-incident|create an incident]] in the correct assignment group. As a result, you might not need to create an incident, or need the assistance of a live agent.
+A deflection happens when ITSM Virtual Agent resolves an issue for you. By asking you relevant questions, ITSM Virtual Agent can create an incident in the correct assignment group. As a result, you might not need to create an incident, or need the assistance of a live agent.
 
 Deflection tracking uses the topics and topic blocks created in Virtual Agent Designer and is enabled by default. For more information, see [Tracking deflections using deflection topic blocks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/deflections-virtual-agent.md).
 
@@ -58,7 +58,3 @@ The deflection metrics are generated and stored in the Deflection Metric \[ssa\_
 
 **Parent Topic:**[ITSM Virtual Agent pre-built actionable notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/itsm-actionable-notifications.md)
 
-## Related
-
-- [[itsm-virtual-agent|ITSM Virtual Agent]]
-- [[create-an-incident|Create an incident]]

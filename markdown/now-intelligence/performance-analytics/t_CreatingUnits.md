@@ -26,7 +26,7 @@ Roles required: pa\_power\_user \(without navigation\), pa\_data\_collector, pa\
 
 1.  Navigate to **All** and search for `pa_units_list.do` in the **Filter** field.
 
-    This approach works for all permitted roles regardless of [[c_performanceAnalyticsAndReporting|Platform Analytics]] migration status.
+    This approach works for all permitted roles regardless of Platform Analytics migration status.
 
 2.  Select **New**.
 
@@ -40,9 +40,6 @@ Roles required: pa\_power\_user \(without navigation\), pa\_data\_collector, pa\
 
 5.  Click **Submit**.
 
-    Units can be used for automated, manual, and [[formula-indicators|formula indicators]].
+    Units can be used for automated, manual, and formula indicators.
 
-## Related
 
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[formula-indicators|Formula indicators]]

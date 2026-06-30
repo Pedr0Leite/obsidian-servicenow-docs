@@ -30,13 +30,13 @@ The **Project** field displays the project name after the demand manager creates
 
     1.  **All** &gt; **Demand** &gt; **Workbench**.
 
-        The bubble chart and the list view on the [[c_DemandWorkbench|demand workbench]] display all qualified demands.
+        The bubble chart and the list view on the demand workbench display all qualified demands.
 
     2.  **All** &gt; **Demand** &gt; **Demands** &gt; **All**.
 
         Displays the Demands list.
 
-2.  Select the **Number** field on the Demands list to view the [[demand-form|Demand form]].
+2.  Select the **Number** field on the Demands list to view the Demand form.
 
 3.  View the status of the demand using the **Stage** field.
 
@@ -49,9 +49,9 @@ The **Project** field displays the project name after the demand manager creates
     -   **Project**, **Enhancement**, **Change**, or **Defect**: If a demand is accepted, the pop-up window displays the current state of the resulting artifact in addition to the demand and idea.\[Omitted image "demand-stage-fields.png"\] Alt text: Demand stage field pop-up shows the demand and project stages.
 
 -   **[View an artifact created from a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_ViewAnArtifactCreatedFromADemand.md)**  
-As the demand manager, you can [[t_ViewAnArtifactCreatedFromADemand|view an artifact created from a demand]].
+As the demand manager, you can view an artifact created from a demand.
 -   **[View a demand summary](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_ViewADemandSummary.md)**  
-Hover over a bubble in the [[c_DemandWorkbenchBubbleChart|demand workbench bubble chart]] to display a summary of the demand information.
+Hover over a bubble in the demand workbench bubble chart to display a summary of the demand information.
 
 **Parent Topic:**[Use Demand Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/r_UsingDemandManagement.md)
 
@@ -72,21 +72,13 @@ Hover over a bubble in the [[c_DemandWorkbenchBubbleChart|demand workbench bubbl
 
 [Move and resize a demand]()
 
-[Train the similarity solution for [[c_DemandManagement|Demand Management]] to find similar demands]()
+[Train the similarity solution for Demand Management to find similar demands]()
 
 [PPM PIWB template - Find similar demands]()
 
-[Identify similar records using Now Assist for [[r_ITBusinessManagement|Strategic Portfolio Management]] \(SPM\)]()
+[Identify similar records using Now Assist for Strategic Portfolio Management \(SPM\)]()
 
 [Summarize demands with demand summarization skill]()
 
 [Associate AI systems with demands]()
 
-## Related
-
-- [[c_DemandWorkbench|Demand workbench]]
-- [[demand-form|Demand form]]
-- [[t_ViewAnArtifactCreatedFromADemand|View an artifact created from a demand]]
-- [[c_DemandWorkbenchBubbleChart|Demand workbench bubble chart]]
-- [[c_DemandManagement|Demand Management]]
-- [[r_ITBusinessManagement|Strategic Portfolio Management]]

@@ -12,7 +12,7 @@ breadcrumb: [Mobile app settings, Using the mobile apps, Mobile Platform]
 
 # Enable notification settings for mobile
 
-Enable [[sg-mobile-security-push-notif|push notifications]] on your mobile device to receive information and messages directed to you.
+Enable push notifications on your mobile device to receive information and messages directed to you.
 
 ## Before you begin
 
@@ -22,11 +22,8 @@ Role required: none
 
 1.  Log in to the ServiceNow mobile app.
 
-2.  On the [[sg-mobile-tab-bar|navigation bar]], tap the **Settings** button.
+2.  On the navigation bar, tap the **Settings** button.
 
 3.  On the settings page, tap **notification preferences** and then enable the **Enable notifications** toggle.
 
-## Related
 
-- [[sg-mobile-security-push-notif|Push notifications]]
-- [[sg-mobile-tab-bar|Navigation bar]]

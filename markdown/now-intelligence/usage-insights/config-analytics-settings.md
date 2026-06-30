@@ -14,7 +14,7 @@ breadcrumb: [Enable Usage Insights, Configuring Usage Insights, Usage Insights, 
 
 # Enable Usage Insights for specific applications
 
-You can enable or turn off [[user-exp-analytics-landing|Usage Insights]] for specific Core UI, Next Experience, and Mobile applications on the Usage Insights Settings table.
+You can enable or turn off Usage Insights for specific Core UI, Next Experience, and Mobile applications on the Usage Insights Settings table.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: analytics\_admin, mobile\_analytics\_admin, web\_analytics\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]] Administration** &gt; **Usage Insights Settings** &gt; **Settings**.
+1.  Navigate to **All** &gt; **Platform Analytics Administration** &gt; **Usage Insights Settings** &gt; **Settings**.
 
 2.  On the list, locate the record for the application you want to enable analytics tracking on.
 
@@ -47,7 +47,3 @@ Assign a web\_analytics\_viewer or portal\_analytics\_viewer role to users to en
 
 **Parent Topic:**[Enable Usage Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/enable-user-experience-analytics.md)
 
-## Related
-
-- [[user-exp-analytics-landing|Usage Insights]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

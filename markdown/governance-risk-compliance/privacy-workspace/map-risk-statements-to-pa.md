@@ -37,7 +37,7 @@ You can relate risk statements to an assessment question only if the questions a
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[privacy-management|Privacy Management]]** &gt; **[[airc-assessment-templates|Assessment Templates]]**.
+1.  Navigate to **All** &gt; **Privacy Management** &gt; **Assessment Templates**.
 
 2.  Click and open the required assessment template.
 
@@ -89,7 +89,3 @@ To create and apply risk statements for a response, perform the following steps.
 
 **Parent Topic:**[Create a privacy assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/create-assessment-template.md)
 
-## Related
-
-- [[privacy-management|privacy management]]
-- [[airc-assessment-templates|Assessment templates]]

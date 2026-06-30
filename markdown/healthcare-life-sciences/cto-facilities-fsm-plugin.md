@@ -12,7 +12,7 @@ breadcrumb: [Configure, Care Team Operations for Facilities, Healthcare Operatio
 
 # Set up work order synchronization in Care Team Operations for Facilities
 
-The Field Service Management \[com.snc.work\_management\] plugin is required for work order synchronization to function with [[cto-facilities-landing|Care Team Operations for Facilities]].
+The Field Service Management \[com.snc.work\_management\] plugin is required for work order synchronization to function with Care Team Operations for Facilities.
 
 For Care Team Operations for Facilities to create work orders from Healthcare Facilities cases, the Field Service Management \[com.snc.work\_management\] plugin must be installed.
 
@@ -26,6 +26,3 @@ Work orders aren't created from healthcare facilities cases. Instead, agents wor
 
 Cases created are assigned to assignment groups based on the requesting location associations and are configured normally with CSM case management functionality.
 
-## Related
-
-- [[cto-facilities-landing|Care Team Operations for Facilities]]

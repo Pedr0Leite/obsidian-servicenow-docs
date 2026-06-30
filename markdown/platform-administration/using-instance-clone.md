@@ -12,8 +12,5 @@ breadcrumb: [Instance Clone, Configure core features, Administer the ServiceNow 
 
 # Managing Instance Clone
 
-You can use [[system-clone-landing|Instance Clone]] to request, cancel, schedule, or modify clones.
+You can use Instance Clone to request, cancel, schedule, or modify clones.
 
-## Related
-
-- [[system-clone-landing|Instance Clone]]

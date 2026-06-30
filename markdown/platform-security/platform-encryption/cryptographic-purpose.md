@@ -14,7 +14,7 @@ breadcrumb: [Exploring the Key Management Framework, Key Management Framework, E
 
 # Cryptographic specification overview
 
-The Cryptographic specification is the component that defines aspects of your cryptographic module, including its cryptographic purpose and which [[encryption-landing|encryption]] algorithm to use.
+The Cryptographic specification is the component that defines aspects of your cryptographic module, including its cryptographic purpose and which encryption algorithm to use.
 
 Cryptographic specifications can be tailored to a specified cryptographic purpose, covering both asymmetric and symmetric key-based cryptographic operations. Selection of a cryptographic purpose offers further choices, namely to a set of supported algorithms and key length configurations.
 
@@ -38,16 +38,11 @@ Cryptographic specifications can be tailored to a specified cryptographic purpos
 |AES-CTR|
 |AES-GCM \*\*|
 
-\* AES-CBC supports equality-preserving options.  [[now-platform-encryption|Field Encryption Enterprise]] utilizes AES-CBC.
+\* AES-CBC supports equality-preserving options.  Field Encryption Enterprise utilizes AES-CBC.
 
 \*\* AES-GCM has built-in data integrity.
 
-The [[sc-configuration|configuration]] of these parameters is covered in [Create a cryptographic module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/create-cryptographic-module.md).
+The configuration of these parameters is covered in [Create a cryptographic module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/create-cryptographic-module.md).
 
 **Parent Topic:**[Exploring the Key Management Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/explore-kmf.md)
 
-## Related
-
-- [[encryption-landing|Encryption]]
-- [[now-platform-encryption|Field Encryption Enterprise]]
-- [[sc-configuration|Configuration]]

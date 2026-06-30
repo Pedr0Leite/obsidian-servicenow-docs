@@ -18,7 +18,7 @@ Deploy the Advanced Business Application Programming \(ABAP\) program to establi
 
 ## Before you begin
 
-Download the SAP ABAP for [[c_SoftwareAssetMgmt|Software Asset Management]] application from the [ServiceNow Store](https://store.servicenow.com/). Make sure you download the application version that is compatible with the Australia release.
+Download the SAP ABAP for Software Asset Management application from the [ServiceNow Store](https://store.servicenow.com/). Make sure you download the application version that is compatible with the Australia release.
 
 **Note:** The ABAP program performs only read operations on existing standard functional modules. It doesn't modify these modules in any way.
 
@@ -73,6 +73,3 @@ In your SAP system, configure a service provider with the SOA Manager and genera
 
 **Parent Topic:**[Set up SAP integration to establish a connection with SAP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/setup-sap-integration.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

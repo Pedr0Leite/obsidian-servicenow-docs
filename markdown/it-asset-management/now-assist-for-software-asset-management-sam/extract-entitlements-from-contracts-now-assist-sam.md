@@ -14,7 +14,7 @@ breadcrumb: [Use generative AI skills, Now Assist for Software Asset Management 
 
 # Extract entitlements from software contracts using Now Assist for SAM
 
-Reduce manual effort by leveraging generative AI to automatically create entitlements by extracting information from software [[c_Contracts|contracts]].
+Reduce manual effort by leveraging generative AI to automatically create entitlements by extracting information from software contracts.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sam\_user
 
 **Important:** This Now Assist skill is turned on by default. The skill will be automatically available to appropriate role users for the application. For more information, see [Now Assist skills, agents, and agentic workflows on by default](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills-on-by-default.md).
 
-With the Contract entitlement data extraction skill being activated by default, you can upload software contracts in the [[sam-workspace|Software Asset Workspace]] to automatically generate entitlements.
+With the Contract entitlement data extraction skill being activated by default, you can upload software contracts in the Software Asset Workspace to automatically generate entitlements.
 
 You can extract data related to entitlements from an existing or a new contract and only from contracts where the contract model is a software license.
 
@@ -34,7 +34,7 @@ You can extract data related to entitlements from an existing or a new contract 
 
 2.  Open an existing software contract that is in an active state and where the contract model is a software license.
 
-    You can also select **New** to [[t_CreateAContract|create a contract]]. Only the sam\_admin role can create a contract.
+    You can also select **New** to create a contract. Only the sam\_admin role can create a contract.
 
 3.  Select **Import contract document**.
 
@@ -94,8 +94,3 @@ You can extract data related to entitlements from an existing or a new contract 
 
 **Parent Topic:**[Using generative AI skills in Now Assist for SAM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/now-assist-for-software-asset-management-sam/using-now-assist-sam.md)
 
-## Related
-
-- [[c_Contracts|Contracts]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[t_CreateAContract|Create a contract]]

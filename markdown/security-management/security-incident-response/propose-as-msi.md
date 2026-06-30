@@ -22,11 +22,11 @@ Role required: sn\_si.analyst
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sir-workspace-landing-page|Security Incident Response Workspace]]** &gt; **Security Incidents** &gt; **Lists**.
+1.  Navigate to **Workspaces** &gt; **Security Incident Response Workspace** &gt; **Security Incidents** &gt; **Lists**.
 
 2.  Select the security incident in the related category that you want to propose as a major security incident.
 
-3.  Select the **More Actions** icon and select **[[propose-to-major-security-incident|Propose as Major Security Incident]]**.
+3.  Select the **More Actions** icon and select **Propose as Major Security Incident**.
 
 4.  In the Propose as Major Security Incident dialog box, fill in the fields.
 
@@ -60,7 +60,3 @@ The incident is proposed and the following actions occur:
 
 [Link to Major Security Incident]()
 
-## Related
-
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[propose-to-major-security-incident|Propose as Major Security Incident]]

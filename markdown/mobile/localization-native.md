@@ -48,8 +48,5 @@ The on-device localization supports the following languages:
 
 These translations can't be customized because they're built into the app and automatically translated based on your device's language settings.
 
-**Parent Topic:**[[localization-mobile-device|Localization on mobile devices]]
+**Parent Topic:**[Localization on mobile devices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/localization-mobile-device.md)
 
-## Related
-
-- [[localization-mobile-device|Localization on mobile devices]]

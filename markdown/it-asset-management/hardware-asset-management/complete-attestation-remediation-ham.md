@@ -34,17 +34,17 @@ Action
 
 </th></tr></thead><tbody><tr><td id="d319198e71">
 
-**[[inventory-view-am|Inventory view]]**
+**Inventory view**
 
 </td><td>
 
-1.  Navigate to **Workspaces** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Inventory**.
+1.  Navigate to **Workspaces** &gt; **Hardware Asset Workspace** &gt; **Inventory**.
 2.  Select the **Asset attestations** tab.
 
 
 </td></tr><tr><td id="d319198e104">
 
-**[[asset-operations-view|Asset operations view]]**
+**Asset operations view**
 
 </td><td>
 
@@ -53,7 +53,7 @@ Action
 
 
 </td></tr></tbody>
-</table>2.  Select the [[asset-attestation-ham|asset attestation]] record for which you want to complete the open asset remediation task.
+</table>2.  Select the asset attestation record for which you want to complete the open asset remediation task.
 
 3.  Select the **Remediation tasks** tab.
 
@@ -71,9 +71,3 @@ Action
 
 **Parent Topic:**[Audit your hardware assets by using Asset Attestation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/audit-hardware-assets-attestation.md)
 
-## Related
-
-- [[inventory-view-am|Inventory view]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[asset-operations-view|Asset operations view]]
-- [[asset-attestation-ham|Asset Attestation]]

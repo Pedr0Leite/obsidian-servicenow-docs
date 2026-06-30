@@ -14,7 +14,7 @@ breadcrumb: [SLA timeline, Service Level Management reference, Service Level Man
 
 # Use SLA timeline to determine business schedule
 
-This example demonstrates how to use the [[c_SLATimeline|SLA timeline]] to determine the business schedules and business percentage time related to a task SLA.
+This example demonstrates how to use the SLA timeline to determine the business schedules and business percentage time related to a task SLA.
 
 \[Omitted image "sla-timeline-determines-business-schedule-1.png"\] Alt text: SLA Timeline
 
@@ -32,6 +32,3 @@ At any time, you can hover over any stage to get a summary of it's detail or cli
 
 **Parent Topic:**[SLA timeline](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/c_SLATimeline.md)
 
-## Related
-
-- [[c_SLATimeline|SLA timeline]]

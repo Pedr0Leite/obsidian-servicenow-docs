@@ -28,7 +28,7 @@ The Individual Life Claims application enables your organization to set up the v
 
 </td></tr><tr><td>
 
-[Use\[Omitted image "bus-learn.svg"\] Alt text:Manage cases for [[insurance-claims-flow|insurance claims]] from the first notice of loss to the claim closure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/using-individual-life-claims.md)
+[Use\[Omitted image "bus-learn.svg"\] Alt text:Manage cases for insurance claims from the first notice of loss to the claim closure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/using-individual-life-claims.md)
 
 </td><td>
 
@@ -36,7 +36,3 @@ The Individual Life Claims application enables your organization to set up the v
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[insurance-claims-flow|Insurance claims]]

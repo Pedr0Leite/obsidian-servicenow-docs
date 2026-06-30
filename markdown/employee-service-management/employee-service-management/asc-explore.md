@@ -10,9 +10,9 @@ reading_time_minutes: 1
 
 # Exploring the Alumni Center
 
-Use the [[alumni-service-center|Alumni Center]] to [[discover-lxp|discover]] resources that keep you connected, update your profile, access [[hr-service-administration|HR services]], stay informed with company news, and browse job listings.
+Use the Alumni Center to discover resources that keep you connected, update your profile, access HR services, stay informed with company news, and browse job listings.
 
-The Alumni home page serves as a central hub for former employees to update their details, manage preferences, and access personalized job recommendations. It also offers [[emp-center-quick-link-config|quick links]] to alumni services, news, resources, and tasks, helping you stay connected and engaged.
+The Alumni home page serves as a central hub for former employees to update their details, manage preferences, and access personalized job recommendations. It also offers quick links to alumni services, news, resources, and tasks, helping you stay connected and engaged.
 
 **Note:** To be able to login and access all the alumni features, you must be a user in the Alumni table \(sn\_asc\_user\) and not in the User table \(sys\_user\).
 
@@ -107,7 +107,7 @@ Access to My Tasks, My Requests, and My Favorites.
 
 </td><td>
 
-Proactive prompt for a new document added to the [[alumni-profile|alumni Profile]].**Note:** If there are no new documents, this prompt widget is not displayed.
+Proactive prompt for a new document added to the alumni Profile.**Note:** If there are no new documents, this prompt widget is not displayed.
 
 </td></tr><tr><td>
 
@@ -130,13 +130,5 @@ Quick links and latest videos.
 
 For more information about the service portal, see [Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_ServicePortal.md).
 
-For more information on the [[employee-center-landing-page|Employee Center]], see [Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/employee-center-landing-page.md).
+For more information on the Employee Center, see [Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/employee-center-landing-page.md).
 
-## Related
-
-- [[alumni-service-center|Alumni Center]]
-- [[discover-lxp|Discover]]
-- [[hr-service-administration|HR services]]
-- [[emp-center-quick-link-config|Quick links]]
-- [[alumni-profile|Alumni profile]]
-- [[employee-center-landing-page|Employee Center]]

@@ -12,7 +12,7 @@ breadcrumb: [Using Code Signing, Code Signing, Platform Security]
 
 # Sign the JDBC data source records in the protected instance
 
-Use update sets to sign and validate the JDBC data sources by enabling the [[code-signing-landing|code signing]] in protected and trusted instances.
+Use update sets to sign and validate the JDBC data sources by enabling the code signing in protected and trusted instances.
 
 -   Establish Circle of Trust between the protected and trusted instances.
 -   Role required: security\_admin
@@ -43,10 +43,10 @@ Role required: security\_admin
         |Field|Description|
         |-----|-----------|
         |Name|Name to identify the record.|
-        |Type|Type of the [[encryption-landing|encryption]] job. Select **Mass Sign Records**.|
+        |Type|Type of the encryption job. Select **Mass Sign Records**.|
         |Table|Table from which the records should be signed. Select **Data Source**.|
 
-    4.  Click **[[export|Export]] Code Signing job to production**.
+    4.  Click **Export Code Signing job to production**.
 
         A confirmation message is displayed that the update set is signed.
 
@@ -123,8 +123,4 @@ Role required: sn\_kmf.cryptographic\_manager
 
         The update set is committed successfully.
 
-## Related
 
-- [[code-signing-landing|Code Signing]]
-- [[encryption-landing|Encryption]]
-- [[export|Export]]

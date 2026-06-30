@@ -22,7 +22,7 @@ Role required: admin or sn\_appclient.app\_client\_company\_installer
 
 ## About this task
 
-Any demo data from installed dependent applications must be updated when [[jny-dsgnr-landing-page-1|Journey designer]] is updated. You can view which store applications are installed from the **Journey designer Admin Console**, see. [Configure Journey designer features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-configuration.md).
+Any demo data from installed dependent applications must be updated when Journey designer is updated. You can view which store applications are installed from the **Journey designer Admin Console**, see. [Configure Journey designer features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-configuration.md).
 
 Run a repair installation on a plugin to add demo data or fix an issue that the plugin is experiencing.
 
@@ -51,6 +51,3 @@ Run a repair installation on a plugin to add demo data or fix an issue that the 
 
 **Parent Topic:**[Installation and configuration overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-inst-config-overview.md)
 
-## Related
-
-- [[jny-dsgnr-landing-page-1|Journey designer]]

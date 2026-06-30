@@ -16,7 +16,7 @@ breadcrumb: [Explore, ServiceNow AI Lens, Enable AI experiences]
 
 Learn about the various ServiceNow AI Lens features to help you get started with analyzing and gathering insights from the visual data.
 
-[[servicenow-lens-landing-page|ServiceNow AI Lens]] offers the following features:
+ServiceNow AI Lens offers the following features:
 
 -   **Capture data**
 
@@ -68,7 +68,7 @@ Learn about the various ServiceNow AI Lens features to help you get started with
 
 -   **Use Lens actions to customize Lens behavior**
 
-    You can use Lens actions that define Lens behavior depending on how ServiceNow AI Lens is triggered and what context is set. You can define default instructions, trigger options, custom context, transform response logic, and post processing instructions for the Lens execution. With Lens actions, you can customize how a classic form auto-filled [[servicenow-lens-use|using ServiceNow AI Lens]] or what data must be extracted for preview and post process the LLM response. For more information, see [Customize ServiceNow AI Lens behavior by creating a Lens action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/servicenow-lens-actions.md).
+    You can use Lens actions that define Lens behavior depending on how ServiceNow AI Lens is triggered and what context is set. You can define default instructions, trigger options, custom context, transform response logic, and post processing instructions for the Lens execution. With Lens actions, you can customize how a classic form auto-filled using ServiceNow AI Lens or what data must be extracted for preview and post process the LLM response. For more information, see [Customize ServiceNow AI Lens behavior by creating a Lens action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/servicenow-lens-actions.md).
 
     For example, you can define a Lens action that is used when Lens is triggered from an instance to populate a form of a particular table. You can also define form fields that must be populated.
 
@@ -90,7 +90,7 @@ Learn about the various ServiceNow AI Lens features to help you get started with
 
     As part of your integration logic, configure a Lens action as one of the steps to invoke a ServiceNow AI Lens service from any part of the ServiceNow AI Platform, such as a workspace form or a portal.
 
-    For your own use [[cases|cases]], you can leverage Lens actions for using Lens as a service in the following ways:
+    For your own use cases, you can leverage Lens actions for using Lens as a service in the following ways:
 
     -   Client service: Launch the Lens client to scan and analyze images. For example, you can configure a UI action on a workspace form or a service portal to launch the Lens client. For more information, see [KB2492775](https://support.servicenow.com/kb?sys_kb_id=d5a3f9a693b3aa18d9743f986cba1094&id=kb_article_view).
     -   Server service: Use Lens as a service to analyze the provided images without launching the Lens client. For example, you can call Lens service from a Script Include or flow action to get the LLM response after analyzing the visual data. For more information, see [Script include - AILensActionService](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/ai-lens-action-service-api.md).
@@ -112,8 +112,4 @@ Learn about the various ServiceNow AI Lens features to help you get started with
 
     Autofill Catalog Item form fields by triggering ServiceNow AI Lens from Service Portal. ServiceNow AI Lens extracts data from one or more artifacts and auto fills the relevant fields in the form.. For more information on using ServiceNow AI Lens in the Service Portal, see [Autofill catalog item form in the Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/create-record-in-the-service-portal.md).
 
-## Related
 
-- [[servicenow-lens-landing-page|ServiceNow AI Lens]]
-- [[servicenow-lens-use|Using ServiceNow AI Lens]]
-- [[cases|Cases]]

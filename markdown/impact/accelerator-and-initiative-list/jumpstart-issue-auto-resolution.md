@@ -18,7 +18,7 @@ The Jumpstart Your Issue Auto Resolution \(IAR\) Accelerator provides a demonstr
 
 ## Accelerator Overview
 
-Jumpstart Your Issue Auto Resolution provides [[impact-landing-page|Impact]] customers with an introduction to IAR to deflect high-volume, non-critical tasks and demonstrates how IAR will  enhance self-service and automation capabilities. This Accelerator aims to educate customers on the possibilities and capabilities of IAR,  specific use cases, a configuration overview, and key resources and guides to enable customers on getting started.
+Jumpstart Your Issue Auto Resolution provides Impact customers with an introduction to IAR to deflect high-volume, non-critical tasks and demonstrates how IAR will  enhance self-service and automation capabilities. This Accelerator aims to educate customers on the possibilities and capabilities of IAR,  specific use cases, a configuration overview, and key resources and guides to enable customers on getting started.
 
 See [Issue auto-resolution tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/dashboard-auto-resolution-pae.md) for additional information on IAR.
 
@@ -44,7 +44,7 @@ Offered pursuant to the applicable Impact Accelerator Description available at�
         -   Reduce Mean-Time-To-Resolution \(MTTR\)
         -   Increase Virtual Agent adoption
     -   Configuration overview
-    -   Demonstration of how to monitor [[instance-observer-performance|performance]] using the [[io-analytics|Analytics]] Dashboard
+    -   Demonstration of how to monitor performance using the Analytics Dashboard
     -   Maintenance leading practices discussion
     -   Key resources and guides
     -   30 days of access to the temporary instance is provided
@@ -73,8 +73,3 @@ This Impact Accelerator in its entirety or portions of the Impact Accelerator ac
 
 ServiceNow is not responsible for implementing recommendations on Customer’s sub-production or production instances.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[instance-observer-performance|Performance]]
-- [[io-analytics|Analytics]]

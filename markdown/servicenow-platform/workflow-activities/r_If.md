@@ -34,7 +34,7 @@ The following variables determine the behavior of the activity.
 |Field|Description|
 |-----|-----------|
 |Condition|If specified and the current record matches the condition, the **Yes** transition is taken.|
-|Advanced and Script|To specify a script, select the **Advanced** [[check-box|check box]]. You may then enter a script that is evaluated. If your script sets the variable answer to `yes`, then the **Yes** transition is taken. Otherwise, the **No** transition is taken.|
+|Advanced and Script|To specify a script, select the **Advanced** check box. You may then enter a script that is evaluated. If your script sets the variable answer to `yes`, then the **Yes** transition is taken. Otherwise, the **No** transition is taken.|
 
 ## Conditions
 
@@ -57,6 +57,3 @@ The activity state tells the workflow engine what to do with the activity.
 |Cancelled|This activity, or the workflow that contains this activty, was canceled.|
 |Error|A JavaScript error occurred. Review the logs for error details.|
 
-## Related
-
-- [[check-box|Check box]]

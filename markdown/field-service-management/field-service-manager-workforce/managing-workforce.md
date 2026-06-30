@@ -34,17 +34,14 @@ Managing your workforce can include one or more of the following activities.
 
 -   \(Optional\) [Capacity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/capacity.md)
 
-    Field Service managers can see the [[capacity|capacity]] of the resources, that includes Field Service agents and equipment, that they manage.
+    Field Service managers can see the capacity of the resources, that includes Field Service agents and equipment, that they manage.
 
 -   \(Optional\) [Using Field Service Crew operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/Using-crew-operations-fsm.md)
 
-    Some Field Service tasks require a crew to complete the work, that’s where [[field-service-crew-scheduling|Field Service crew operations]] come in.
+    Some Field Service tasks require a crew to complete the work, that’s where Field Service crew operations come in.
 
 -   \(Optional\) [Workforce Optimization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/using-wfo-fsm.md)
 
     Use smart scheduling, team structure, and real-time refreshing single scores to improve the efficiency of your Field Service agents.
 
-## Related
 
-- [[capacity|Capacity]]
-- [[field-service-crew-scheduling|Field Service Crew Operations]]

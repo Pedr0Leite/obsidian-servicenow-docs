@@ -18,7 +18,7 @@ This dashboard lets you see incidents that are overdue according to an SLA, divi
 
 **Important:**
 
-Starting in Xanadu release, the Overdue by State dashboard is deprecated. Users can use [[incident|Incident management dashboard]] to view the incidents that are overdue according to an SLA, divided by the New, In Progress, and On Hold states.
+Starting in Xanadu release, the Overdue by State dashboard is deprecated. Users can use [Incident management dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident.md) to view the incidents that are overdue according to an SLA, divided by the New, In Progress, and On Hold states.
 
 You use this dashboard to view the average age of the incidents, the average number of times they have been reassigned, and how long on average since the last update. You can also group them by standard breakdowns like Priority and Assignment Group. This dashboard is inactive by default. Before using this dashboard, a Performance Analytics administrator or power user must open the Dashboard Properties, assign an owner, and select **Active**.
 
@@ -86,6 +86,3 @@ The following indicators are used to calculate formulas but are not displayed di
 
 **Parent Topic:**[Legacy: Incident SLA Management Platform Analytics Solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/incident-sla-content-pack.md)
 
-## Related
-
-- [[incident|Incident management dashboard]]

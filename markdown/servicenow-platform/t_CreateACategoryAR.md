@@ -12,7 +12,7 @@ breadcrumb: [Assessment metric categories, View an assessment metric category, A
 
 # Create a category for assessable records
 
-After you create a metric type and generate [[c_assessable-records|assessable records]], create categories for the themes you are interested in using to evaluate the assessable records.
+After you create a metric type and generate assessable records, create categories for the themes you are interested in using to evaluate the assessable records.
 
 ## Before you begin
 
@@ -20,31 +20,23 @@ Role required: none
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[r_Assessments|Assessments]]** &gt; **Metric Definition** &gt; **Categories**.
+1.  Navigate to **All** &gt; **Assessments** &gt; **Metric Definition** &gt; **Categories**.
 
 2.  Click **New** to create a new metric category.
 
 3.  On the Metric Category form, fill in the fields.
 
-    For a description of the field values, see [[metric-category-form|Metric Category form]].
+    For a description of the field values, see [Metric Category form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/metric-category-form.md).
 
 
-**Parent Topic:**[[c_AssessmentMetricCategories|Assessment metric categories]]
+**Parent Topic:**[Assessment metric categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentMetricCategories.md)
 
 **Related topics**  
 
 
-[[c_AssessmentMetrics|Assessment metrics]]
+[Assessment metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentMetrics.md)
 
 [Assessment metric categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentMetricCategories.md)
 
-[[r_ManageAssessablRecordAssociation|Assessable record associations]]
+[Assessable record associations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_ManageAssessablRecordAssociation.md)
 
-## Related
-
-- [[metric-category-form|Metric Category form]]
-- [[c_AssessmentMetricCategories|Assessment metric categories]]
-- [[c_AssessmentMetrics|Assessment metrics]]
-- [[r_ManageAssessablRecordAssociation|Assessable record associations]]
-- [[c_assessable-records|Assessable records]]
-- [[r_Assessments|Assessments]]

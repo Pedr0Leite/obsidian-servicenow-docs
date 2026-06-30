@@ -25,7 +25,7 @@ Depending on subscriptions purchased by your organization, you must install and 
 
 ## Integration with ITOM Discovery
 
-When Discovery is activated, [[c_ITILChangeManagement|Change Management]] exposes three new properties within the Change Properties module \(**Change Management** &gt; **Administration** &gt; **Change Properties**\):
+When Discovery is activated, Change Management exposes three new properties within the Change Properties module \(**Change Management** &gt; **Administration** &gt; **Change Properties**\):
 
 <table id="table_jh5_w4s_jdb"><thead><tr><th>
 
@@ -126,6 +126,3 @@ The type of change mark depends on the nature of changes that it represents:
 
 [View the change history of application services in Agent Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/workspace-view-history-app-service.md)
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]

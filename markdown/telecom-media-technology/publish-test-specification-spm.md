@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[stm-landing-page|Service Test Management]]** &gt; **Test Definitions** &gt; **All**.
+1.  Navigate to **All** &gt; **Service Test Management** &gt; **Test Definitions** &gt; **All**.
 
 2.  Select the test definition that you want to publish.
 
@@ -35,6 +35,3 @@ Role required: admin
 
 The test definition is published and its state changes from Draft to Published.
 
-## Related
-
-- [[stm-landing-page|Service Test Management]]

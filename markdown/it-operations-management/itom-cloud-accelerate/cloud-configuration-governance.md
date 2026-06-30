@@ -14,7 +14,7 @@ breadcrumb: [ITOM Cloud Accelerate, IT Operations Management]
 
 # Cloud Configuration Governance
 
-Use the ServiceNow® Cloud Configuration Governance application to check the configuration settings of cloud resources in your organization against a set of policies to identify violations. After identifying the violation, use [[ccg-remediation|remediation]] workflows to mitigate them.
+Use the ServiceNow® Cloud Configuration Governance application to check the configuration settings of cloud resources in your organization against a set of policies to identify violations. After identifying the violation, use remediation workflows to mitigate them.
 
 **Note:** Cloud Configuration Governance is not supported in self-hosted environments.
 
@@ -66,7 +66,3 @@ Troubleshoot and get help
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[ccg-remediation|Remediation]]

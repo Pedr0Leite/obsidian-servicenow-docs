@@ -14,7 +14,7 @@ breadcrumb: [Use, Commercial Lines Claims, Exploring insurance claims applicatio
 
 # Commercial Lines Claims workflows
 
-The [[commercial-lines-claims-landing-page|Commercial Lines Claims]] application installs automated workflows that you can configure for any claims tasks. These workflows create cases and routes any tasks accordingly.
+The Commercial Lines Claims application installs automated workflows that you can configure for any claims tasks. These workflows create cases and routes any tasks accordingly.
 
 ## Overview of Commercial Lines Claims workflows
 
@@ -24,7 +24,7 @@ After a claim case is initiated, an automated workflow begins. A business rules 
 -   If a claim is identified as duplicate claim, then a claim validation task is created to the processor for further review.
 -   If a claim is identified as close proximity claim, then a task is created to the Special Investigation Unit \(SIU\) team for further review.
 
-The following example shows a workflow that routes the case and tasks for investigating and managing [[insurance-claims-flow|insurance claims]] to five different roles in different departments. In this example, the front and back-office agents log in to the Workspace to work on the tasks in their queue. The playbook guides agents through this process to fulfill claims:
+The following example shows a workflow that routes the case and tasks for investigating and managing insurance claims to five different roles in different departments. In this example, the front and back-office agents log in to the Workspace to work on the tasks in their queue. The playbook guides agents through this process to fulfill claims:
 
 -   Submitting first notice of loss
 -   Claim validation
@@ -81,7 +81,3 @@ The following example shows a workflow that routes the case and tasks for invest
 
 The case is complete when the states and stage of the case sets to Closed Complete.
 
-## Related
-
-- [[commercial-lines-claims-landing-page|Commercial Lines Claims]]
-- [[insurance-claims-flow|Insurance claims]]

@@ -14,7 +14,7 @@ breadcrumb: [Manage regulatory tasks, Regulatory Change Management, Governance, 
 
 # Associating an AI-recommended citation to an open regulatory alert
 
-Associate a citation to an open regulatory alert by using the GRC: Predictive Intelligence application and a similarity solution model that uses an AI-recommended citation. Your compliance team can check the incoming [[list-view-of-reg-alerts|regulatory alerts]] to determine if the citations or requirements apply to your organization.
+Associate a citation to an open regulatory alert by using the GRC: Predictive Intelligence application and a similarity solution model that uses an AI-recommended citation. Your compliance team can check the incoming regulatory alerts to determine if the citations or requirements apply to your organization.
 
 ## Overview of associating a citation to a regulatory alert
 
@@ -26,7 +26,7 @@ A citation is a passage or an expression from an authority document that your bu
 
 Now, you can use AI and machine learning \(ML\) to train a similarity solution model that automatically suggests which citations to add to the regulatory alerts. The citations are based on a confidence score that indicates the level of confidence that a prediction is correct. A higher score means that the match has a higher probability of being correct.
 
-The [[r_WhatIsGRC|Governance, Risk, and Compliance]]: Predictive Intelligence application uses AI and ML to make the GRC application adding citations smarter. These suggestions are based on a confidence score that is based on the recommended citation.
+The Governance, Risk, and Compliance: Predictive Intelligence application uses AI and ML to make the GRC application adding citations smarter. These suggestions are based on a confidence score that is based on the recommended citation.
 
 A user with the sn\_compliance\_admin role must train the solution definition after they install the GRC: Predictive Intelligence application with its dependencies. A user with the ml\_admin role can also customize the solution definition. This modification is based on the data in the \[`sn_complaince_citation`\] and the \[`sn_grc_reg_change_reg_feed`\] table. If you have the sn\_compliance\_admin role, you can select how frequently you want to refresh the data that you use to retrieve your similarity results. For more information about solution definitions, see [Similarity solution definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/similar-cases-solution-definitions.md).
 
@@ -47,7 +47,3 @@ When you use AI to associate a recommended citation card to a regulatory alert, 
 -   An option to associate the recommendation.
 -   The history icon that enables you to view the history of actions that were taken on the regulatory alert, including the dates when the recommendations were added or ignored by your users.
 
-## Related
-
-- [[list-view-of-reg-alerts|Regulatory alerts]]
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]

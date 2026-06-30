@@ -12,7 +12,7 @@ breadcrumb: [Parametrized list screens, List screen, Mobile screen types, Mobile
 
 # Configure a parameterized list screen
 
-Configure a [[list-screen|list screen]] to query a user for a parameter, which the screen uses to filter the records that appear on the screen.
+Configure a list screen to query a user for a parameter, which the screen uses to filter the records that appear on the screen.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Creating a parameterized list is similar to creating a standard list. In additio
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder
 
@@ -36,7 +36,7 @@ Creating a parameterized list is similar to creating a standard list. In additio
 
 3.  Select the **Screens** category, and then select **New**.
 
-4.  Select the **List** option in the [[sg-studio-configure-applet-screens|Create a screen]] page, and then select **Continue**.
+4.  Select the **List** option in the Create a screen page, and then select **Continue**.
 
 5.  Complete the following fields as needed.
 
@@ -46,7 +46,7 @@ Creating a parameterized list is similar to creating a standard list. In additio
     |Name|The name of your list screen. This name appears as a tile in the mobile application.|
     |Description|Additional information about your list screen.|
     |**Screen Settings**|
-    |Available offline|Option to determine whether the screen is available in [[mobile-offline-mode|offline mode]] or not.|
+    |Available offline|Option to determine whether the screen is available in offline mode or not.|
     |Hide screen name|Option to determine whether the screen name is not shown as the screen header. This is useful if the text already appears in the header name or if it does not provide any value to the user.|
     |Hide filters|Option to prevent the list from displaying a list filter.|
     |Icon|Icon used to represent your list screen when added to a launcher screen.|
@@ -61,7 +61,7 @@ Creating a parameterized list is similar to creating a standard list. In additio
 
 6.  In the **Icon** section either select an existing icon or create an icon.
 
-    This icon displays in the launcher screen when you add it to your list screen. For more information about creating icons, see [[sg-mobile-icon|Mobile icons]].
+    This icon displays in the launcher screen when you add it to your list screen. For more information about creating icons, see [Mobile icons](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-icon.md).
 
 7.  In the **Screen segments**section, select **New**.
 
@@ -74,7 +74,7 @@ Creating a parameterized list is similar to creating a standard list. In additio
     |Order|The order in which the segment appears on the screen. Segments display from the lowest to the highest value.|
     |Screen|Displays the list name from the list screen record.|
     |Max number of offline rows|The number of rows displayed for offline viewing.|
-    |Streams|Records that connect [[sg-data-item|data items]] and list item config records to the list screen.|
+    |Streams|Records that connect data items and list item config records to the list screen.|
     |**Interleave sort**|
     |Sort list stream interleave field|Determine whether the list stream interleave field is sorted in ascending or descending order.|
 
@@ -95,7 +95,7 @@ Creating a parameterized list is similar to creating a standard list. In additio
 
 12. Complete the **Properties** and **Data** sections as needed.
 
-    For more information about creating a data item, see [[sg-studio-create-data-item|Configure a standard data item]].
+    For more information about creating a data item, see [Configure a standard data item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-studio-create-data-item.md).
 
 13. In the **Parameters** section, select **New**.
 
@@ -274,13 +274,13 @@ Determine what specific values you want to pass to this screen.
 
 22. Select **Save**.
 
-23. We have added support for parameterized data item with an [[parameter-input-screen|input form screen]]. For more details refer to [[config-paramtrzed-data-item-screen|Parametrized data item support for input form screens]].
+23. We have added support for parameterized data item with an input form screen. For more details refer to [Parametrized data item support for input form screens](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/config-paramtrzed-data-item-screen.md).
 
     These steps will allow you to configure an input form screen that contains the inputs and variables that you want to use as part of the data item query condition. This feature is configured in the web-based UI instead of Mobile App Builder.
 
     **Note:**
 
-    The input form screen can contain only inputs, only variables, or both inputs and variables for use as part of the data item query condition. For information about creating an input form screen, see [[parameter-screen-config|Configure an input form screen]].
+    The input form screen can contain only inputs, only variables, or both inputs and variables for use as part of the data item query condition. For information about creating an input form screen, see [Configure an input form screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/parameter-screen-config.md).
 
     1.  Navigate to the target list, For example, if you want to configure a parameterized data item list screen:
 
@@ -298,15 +298,4 @@ Determine what specific values you want to pass to this screen.
         |Input|Input label from the input form screen|
         |Data parameter|Data parameter from the target screen data item|
 
-## Related
 
-- [[sg-mobile-icon|Mobile icons]]
-- [[sg-studio-create-data-item|Configure a standard data item]]
-- [[config-paramtrzed-data-item-screen|Parametrized data item support for input form screens]]
-- [[parameter-screen-config|Configure an input form screen]]
-- [[list-screen|List screen]]
-- [[mab-concept|Mobile App Builder]]
-- [[sg-studio-configure-applet-screens|Create a screen]]
-- [[mobile-offline-mode|Offline mode]]
-- [[sg-data-item|Data items]]
-- [[parameter-input-screen|Input form screen]]

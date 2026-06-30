@@ -11,7 +11,7 @@ reading_time_minutes: 2
 
 # Additional resources for Platform Security products and solutions
 
-If you’re looking for [[platsec-sublanding|Platform Security]] [[best-practices|best practices]], troubleshooting, or other implementation guidelines, select a feature or resource type to discover ServiceNow resources on other relevant websites.
+If you’re looking for Platform Security best practices, troubleshooting, or other implementation guidelines, select a feature or resource type to discover ServiceNow resources on other relevant websites.
 
 **Note:** Many resources in this table require you to log in to sites like ServiceNow University, Now Create, or the ServiceNow Community. If the expected resource does not load, please log in and try to access the resource again.
 
@@ -29,7 +29,7 @@ Resources
 
 </th></tr></thead><tbody><tr><td>
 
-[[sec-center-v2|Security Center]]
+Security Center
 
 </td><td>
 
@@ -66,7 +66,7 @@ FAQs
 
 </td></tr><tr><td>
 
-[[servicenow-vault-landing|ServiceNow Vault]]
+ServiceNow Vault
 
 </td><td>
 
@@ -79,7 +79,7 @@ Getting Started
 
 </td></tr><tr><td>
 
-[[code-signing-landing|Code Signing]]
+Code Signing
 
 </td><td>
 
@@ -92,7 +92,7 @@ Getting Started
 
 </td></tr><tr><td>
 
-[[data-privacy-landing|Data Privacy]]
+Data Privacy
 
 </td><td>
 
@@ -104,7 +104,7 @@ Tips and examples
 
 </td></tr><tr><td>
 
-[[field-encryption|Field Encryption]]
+Field Encryption
 
 </td><td>
 
@@ -116,7 +116,7 @@ Tips and examples
 
 </td></tr><tr><td>
 
-[[now-platform-encryption|Field Encryption Enterprise]]
+Field Encryption Enterprise
 
 </td><td>
 
@@ -159,7 +159,7 @@ Troubleshooting
 
 </td></tr><tr><td>
 
-[[edge-encryption|Edge Encryption]]
+Edge Encryption
 
 </td><td>
 
@@ -202,7 +202,7 @@ Troubleshooting
 
 </td></tr><tr><td>
 
-[[db-full-disk-encryption|Database Encryption]]
+Database Encryption
 
 </td><td>
 
@@ -214,7 +214,7 @@ Tips and examples
 
 </td></tr><tr><td>
 
-[[access-management-landing|Access Management]]
+Access Management
 
 </td><td>
 
@@ -238,7 +238,7 @@ Troubleshooting
 
 </td></tr><tr><td>
 
-[[domain-sep-landing-page|Domain separation for service providers]]
+Domain separation for service providers
 
 </td><td>
 
@@ -262,7 +262,7 @@ Getting started
 
 </td></tr><tr><td>
 
-[[security-roles|Security Roles]]
+Security Roles
 
 </td><td>
 
@@ -274,7 +274,7 @@ Tips and examples
 
 </td></tr><tr><td>
 
-[[r-credentials|Connections and Credentials]]
+Connections and Credentials
 
 </td><td>
 
@@ -323,20 +323,3 @@ Best practices
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[platsec-sublanding|Platform Security]]
-- [[best-practices|Best Practices]]
-- [[sec-center-v2|Security Center]]
-- [[servicenow-vault-landing|ServiceNow Vault]]
-- [[code-signing-landing|Code Signing]]
-- [[data-privacy-landing|Data Privacy]]
-- [[field-encryption|Field Encryption]]
-- [[now-platform-encryption|Field Encryption Enterprise]]
-- [[edge-encryption|Edge Encryption]]
-- [[db-full-disk-encryption|Database Encryption]]
-- [[access-management-landing|Access Management]]
-- [[domain-sep-landing-page|Domain separation for service providers]]
-- [[security-roles|Security Roles]]
-- [[r-credentials|Connections and Credentials]]

@@ -14,8 +14,5 @@ breadcrumb: [WSD for Microsoft places, Workplace Service Delivery, Employee Serv
 
 # WSD for Microsoft places -references
 
-Learn more about the key features of [[wsd-for-ms-places|WSD for Microsoft places]] application.
+Learn more about the key features of WSD for Microsoft places application.
 
-## Related
-
-- [[wsd-for-ms-places|WSD for Microsoft places]]

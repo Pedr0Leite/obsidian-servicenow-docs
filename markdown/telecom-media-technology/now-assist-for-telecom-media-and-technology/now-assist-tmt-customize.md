@@ -14,7 +14,7 @@ breadcrumb: [Configure, Now Assist for TMT, Telecommunications, Media, and Techn
 
 # Customize a skill in Now Assist for TMT
 
-If you have the admin role, you can customize a [[now-assist-spmc|Now Assist for Telecommunications, Media and Technology \(TMT\)]] skill so that agents can use the generative AI skills in CSM Configurable Workspace and in Core UI.
+If you have the admin role, you can customize a Now Assist for Telecommunications, Media and Technology \(TMT\) skill so that agents can use the generative AI skills in CSM Configurable Workspace and in Core UI.
 
 ## Before you begin
 
@@ -191,6 +191,4 @@ Description of the base input field value.
 
     You can now select **Summarize** in a case to generate the case summary.
 
-## Related
 
-- [[now-assist-spmc|Now Assist for Telecommunications, Media and Technology \(TMT\)]]

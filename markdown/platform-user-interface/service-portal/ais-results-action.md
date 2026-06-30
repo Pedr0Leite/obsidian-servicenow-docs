@@ -14,7 +14,7 @@ breadcrumb: [AI Search in Service Portal, Configuring search in a portal, Config
 
 # Define an AI Search Results Action
 
-[[configure-onboarding-modals|Configure]] which portal page opens when a result is selected from the list of search results.
+Configure which portal page opens when a result is selected from the list of search results.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ This configuration is required for UXF Client Action buttons in genius results o
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ServicePortal|Service Portal]]** &gt; **AI Search** &gt; **Search Results Action** and select **New**.
+1.  Navigate to **All** &gt; **Service Portal** &gt; **AI Search** &gt; **Search Results Action** and select **New**.
 
 2.  On the form, fill in the fields.
 
@@ -135,7 +135,3 @@ Custom query parameters to use in addition to the payload query parameters. For 
 
 **Parent Topic:**[AI Search in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/ai-search.md)
 
-## Related
-
-- [[configure-onboarding-modals|Configure]]
-- [[c_ServicePortal|Service Portal]]

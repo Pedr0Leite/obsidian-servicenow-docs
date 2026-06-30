@@ -22,14 +22,14 @@ Role required: sam\_admin
 
 ## About this task
 
-The [[microsoft-publisher-pack|Software Asset Management publisher pack for Microsoft]] supports cost-based licensing optimizations for Microsoft. These licensing optimizations enable you to determine the most cost-effective licensing solutions for your Microsoft software products across hybrid infrastructures.
+The Software Asset Management publisher pack for Microsoft supports cost-based licensing optimizations for Microsoft. These licensing optimizations enable you to determine the most cost-effective licensing solutions for your Microsoft software products across hybrid infrastructures.
 
 You can view in-depth details about your realized and potential licensing optimizations in the Microsoft Core License Optimization Reports \[samp\_ms\_optimization\_report\] table. This table can help you
 
 -   gain insight into the licensing optimizations that have already been implemented across your Microsoft deployments,
 -   gain insight into the recommended licensing optimizations that can potentially bring you additional savings,
 -   better understand your Microsoft license consumption,
--   determine the cost savings that you have achieved by using the [[c_SoftwareAssetMgmt|Software Asset Management]] application to track and manage your Microsoft licenses,
+-   determine the cost savings that you have achieved by using the Software Asset Management application to track and manage your Microsoft licenses,
 -   and download optimization reports that you can share with other users in your organization.
 
 For more information on cost-based licensing optimizations, see [Cost-based licensing optimization for Microsoft](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/cost-based-microsoft-cluster-licensing.md).
@@ -49,7 +49,3 @@ For more information on cost-based licensing optimizations, see [Cost-based lice
 
 **Parent Topic:**[Cost-based licensing optimization for Microsoft](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/cost-based-microsoft-cluster-licensing.md)
 
-## Related
-
-- [[microsoft-publisher-pack|Software Asset Management publisher pack for Microsoft]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Report on function fields, Advanced Core UI reporting topics, Repor
 
 # Delete a function field
 
-A user with the admin role can delete a function field from its table. Deleting a function field is useful if you want to [[create-function-field|create a function field]] with the same name as one that exists on that table.
+A user with the admin role can delete a function field from its table. Deleting a function field is useful if you want to create a function field with the same name as one that exists on that table.
 
 ## Before you begin
 
@@ -43,6 +43,3 @@ The function field is deleted and can no longer be used in data visualizations.
 
 **Parent Topic:**[Report on function fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/function-fields-reporting.md)
 
-## Related
-
-- [[create-function-field|Create a function field]]

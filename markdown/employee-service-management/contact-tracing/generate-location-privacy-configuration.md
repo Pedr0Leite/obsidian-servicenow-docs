@@ -28,7 +28,7 @@ You can generate a location-based, default privacy configuration for each countr
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[contact-tracing|Contact Tracing]]** &gt; **Privacy** &gt; **Location Privacy Configuration**.
+1.  Navigate to **All** &gt; **Contact Tracing** &gt; **Privacy** &gt; **Location Privacy Configuration**.
 
 2.  Click **Generate Location Configurations**.
 
@@ -81,6 +81,3 @@ The location-based privacy configuration is set.
 
 **Parent Topic:**[Setting up data privacy consent settings for Contact Tracing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/set-up-privacy-consent-settings.md)
 
-## Related
-
-- [[contact-tracing|Contact Tracing]]

@@ -22,7 +22,7 @@ Role required: sn\_cm\_gen\_ai.ai\_contract\_fulfiller
 
 ## About this task
 
-The [[cmpro-na-reminder-agentic-wf|manage contract repository agentic workflow]] uses AI agents to extract key contractual obligations from signed contracts. The obligations are extracted based on the applicable use case in the contract obligation extraction skill. After obligation extraction is complete, a message appears on the contract record and an email notification is sent with a link to review the extracted obligations. The playbook provides a step-by-step interface where you can review each obligation, make necessary edits, and decide whether to approve or reject it. Approved obligations are added as actionable records in the **Obligations** tab of the contract repository.
+The manage contract repository agentic workflow uses AI agents to extract key contractual obligations from signed contracts. The obligations are extracted based on the applicable use case in the contract obligation extraction skill. After obligation extraction is complete, a message appears on the contract record and an email notification is sent with a link to review the extracted obligations. The playbook provides a step-by-step interface where you can review each obligation, make necessary edits, and decide whether to approve or reject it. Approved obligations are added as actionable records in the **Obligations** tab of the contract repository.
 
 ## Procedure
 
@@ -38,7 +38,7 @@ Steps
 
 </th></tr></thead><tbody><tr><td id="d83189e77">
 
-**[[cncore-contract-workspace|Contract Workspace]]**
+**Contract Workspace**
 
 </td><td>
 
@@ -87,7 +87,7 @@ Select **Review contract** in the email notification that you receive after the 
 5.  Select an obligation to review the obligation details.
 
     -   The **Details** tab displays the extracted obligation details. Use this tab to edit, approve, or reject the obligation.
-    -   The **[[activity-lxp|Activity]]** tab displays a log of key attributes identified during the extraction process. Use this tab to review how the AI agent detected and populated the obligation, including the original text snippets and metadata extracted from the contract. The **Activity** tab helps you validate the extraction accuracy and provides transparency into the decision-making process for each obligation.
+    -   The **Activity** tab displays a log of key attributes identified during the extraction process. Use this tab to review how the AI agent detected and populated the obligation, including the original text snippets and metadata extracted from the contract. The **Activity** tab helps you validate the extraction accuracy and provides transparency into the decision-making process for each obligation.
     \[Omitted image "cmpro-na-ob-reviewob.png"\] Alt text: Obligation details form displaying the information extracted by AI.
 
 6.  On the **Details** tab, perform the required action.
@@ -136,8 +136,3 @@ If the schedule of the obligation is adhoc, you must create obligation tasks man
 
 [Obligation Management notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-ob-mgmt-notification.md)
 
-## Related
-
-- [[cmpro-na-reminder-agentic-wf|Manage contract repository agentic workflow]]
-- [[cncore-contract-workspace|Contract Workspace]]
-- [[activity-lxp|Activity]]

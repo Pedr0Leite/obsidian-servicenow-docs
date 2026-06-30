@@ -22,7 +22,7 @@ Role required: sn\_process\_mining\_power\_user or sn\_process\_mining\_admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[analyst-workbench-overview|Process Mining Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Process Mining Workspace**.
 
 2.  On the side of the page, select the Process configurations icon \(\[Omitted image "icon-process-config.png"\] Alt text: Process configuration builder\).
 
@@ -34,17 +34,17 @@ Role required: sn\_process\_mining\_power\_user or sn\_process\_mining\_admin
 
     The **Impact metrics** page has four sections:
 
-    -   **[[idle-time-analysis|Idle time analysis]]**: Idle time analysis focuses on the periods when a case is assigned to a team but not yet assigned to a specific resource. This is the time during which the case remains inactive, waiting for someone to take action.
+    -   **Idle time analysis**: Idle time analysis focuses on the periods when a case is assigned to a team but not yet assigned to a specific resource. This is the time during which the case remains inactive, waiting for someone to take action.
 
         Analyzing idle time helps identify inefficiencies, such as delays in task assignment or workflow bottlenecks, enabling teams to improve coordination and reduce waiting times within processes.
 
-        **Note:** Idle time analysis not available without configuring in process configuration. Idle time analysis is available for the field that is set in the **Team definition** section in the [[project-view-screen|Process details page]].
+        **Note:** Idle time analysis not available without configuring in process configuration. Idle time analysis is available for the field that is set in the **Team definition** section in the Process details page.
 
-    -   **[[touchpoint-analysis|Touchpoint analysis]]**: Touchpoint analysis studies specific interactions within a process to identify areas of high interaction, particularly spotlighting inefficient, redundant, or excessive activities. By pinpointing these areas, it enables process optimization through automation or other improvements, enhancing performance and reducing operational costs.
+    -   **Touchpoint analysis**: Touchpoint analysis studies specific interactions within a process to identify areas of high interaction, particularly spotlighting inefficient, redundant, or excessive activities. By pinpointing these areas, it enables process optimization through automation or other improvements, enhancing performance and reducing operational costs.
 
         **Note:** Touchpoint analysis not available without configuring in process configuration.
 
-    -   **KPI dashboard**: KPI dashboards include data visualizations, filters, and other components to track Key Performance Indicators \(KPIs\) for the process. They leverage [[c_performanceAnalyticsAndReporting|Platform Analytics]] dashboards to deliver insights directly within [[process-mining|process mining]] projects.
+    -   **KPI dashboard**: KPI dashboards include data visualizations, filters, and other components to track Key Performance Indicators \(KPIs\) for the process. They leverage Platform Analytics dashboards to deliver insights directly within process mining projects.
     -   **KPI categories**: KPI categories are predefined categories that organize KPIs into groups based on common process objectives.
     \[Omitted image "impact-metrics-proc-con.png"\] Alt text: Impact metrics in process configuration
 
@@ -70,7 +70,7 @@ Role required: sn\_process\_mining\_power\_user or sn\_process\_mining\_admin
 
         Unique updates in any of the selected fields count as touchpoints.
 
-        Recommendations are provided based on the inputs in the **Agent definition** section in the **Process details** page and the **[[worknotes-analysis|Work notes analysis]]** settings in the **Investigative features** page.
+        Recommendations are provided based on the inputs in the **Agent definition** section in the **Process details** page and the **Work notes analysis** settings in the **Investigative features** page.
 
         **Note:** You can set a maximum of five fields.
 
@@ -88,7 +88,7 @@ Role required: sn\_process\_mining\_power\_user or sn\_process\_mining\_admin
 
     Select the help icon \(?\) to view details about how and why these details must be set. You also get a list of resources.
 
-    If you want to create a KPI dashboard, select **New Dashboard**. For more information, see [[create-db-in-ac|Create a dashboard with the in-line editor]].
+    If you want to create a KPI dashboard, select **New Dashboard**. For more information, see [Create a dashboard with the in-line editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-db-in-ac.md).
 
 7.  Provide values for each KPI categories.
 
@@ -101,13 +101,3 @@ Role required: sn\_process\_mining\_power\_user or sn\_process\_mining\_admin
 
 **Parent Topic:**[Create process configuration using Process Configuration Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/process-config-builder.md)
 
-## Related
-
-- [[create-db-in-ac|Create a dashboard with the in-line editor]]
-- [[analyst-workbench-overview|Process Mining workspace]]
-- [[idle-time-analysis|Idle time analysis]]
-- [[project-view-screen|Process details page]]
-- [[touchpoint-analysis|Touchpoint analysis]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[process-mining|Process Mining]]
-- [[worknotes-analysis|Work notes analysis]]

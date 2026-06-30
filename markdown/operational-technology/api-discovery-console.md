@@ -12,13 +12,13 @@ breadcrumb: [Settings page, Use the Console pages, Discovery Console for Operati
 
 # Discovery Console for OT API
 
-You can access the Console Discovery data via the API. On the [[settings-page-console|Settings page]], select the **API** tab to view and use the active tokens, denied tokens, and endpoints needed to communicate with the Service Graph Connector \(SGC\).
+You can access the Console Discovery data via the API. On the Settings page, select the **API** tab to view and use the active tokens, denied tokens, and endpoints needed to communicate with the Service Graph Connector \(SGC\).
 
-**Note:** To learn more about the Service Graph Connector, see [[sgc-ot-discovery|Service Graph Connector for ServiceNow Operational Technology \(OT\) Discovery]]
+**Note:** To learn more about the Service Graph Connector, see [Service Graph Connector for ServiceNow Operational Technology \(OT\) Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/sgc-ot-discovery.md)
 
 ## API settings
 
-The API settings are used to set up the active tokens, denied tokens, and endpoints needed to communicate with the SGC for ServiceNow Discovery for [[operational-technology-overview|Operational Technology]] \(OT\).
+The API settings are used to set up the active tokens, denied tokens, and endpoints needed to communicate with the SGC for ServiceNow Discovery for Operational Technology \(OT\).
 
 Tokens can be imported or exported, and endpoints can be downloaded.
 
@@ -64,11 +64,5 @@ For example, if you navigate to **Settings &gt; Exports** on the Discovery Conso
 
 \[Omitted image "settings-export-download.png"\] Alt text: Settings &gt; Export page
 
-To edit the Console API, see [[edit-api-settings-console|Edit API settings]].
+To edit the Console API, see [Edit API settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/edit-api-settings-console.md).
 
-## Related
-
-- [[sgc-ot-discovery|Service Graph Connector for ServiceNow Operational Technology \(OT\) Discovery]]
-- [[edit-api-settings-console|Edit API settings]]
-- [[settings-page-console|Settings page]]
-- [[operational-technology-overview|Operational Technology]]

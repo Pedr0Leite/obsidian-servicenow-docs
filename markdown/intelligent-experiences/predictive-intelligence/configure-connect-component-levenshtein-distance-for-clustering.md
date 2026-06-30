@@ -22,7 +22,7 @@ Role required: admin or ml\_admin
 
 **Note:** Configuring advanced settings on your ML solutions is optional. If you choose to configure any of these settings, make sure you're well informed regarding the technology you're enabling in the solution, and that your use case benefits from what the technology offers. For more information, see the [Dive deeper with Clustering Advanced Parameters](https://www.servicenow.com/community/intelligence-ml-articles/dive-deeper-with-clustering-advanced-parameters/ta-p/2695847) article on ServiceNow Community.
 
--   [[create-clustering-solution|Create and train a clustering solution]] definition or use an existing one.
+-   Create and train a clustering solution definition or use an existing one.
 -   Role required: admin or ml\_admin
 
 ## About this task
@@ -37,7 +37,7 @@ In this example scenario, you train your solution definition by using the third 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[predictive-intelligence-landing|Predictive Intelligence]]** &gt; **Clustering** &gt; **Solution Definitions**.
+1.  Navigate to **All** &gt; **Predictive Intelligence** &gt; **Clustering** &gt; **Solution Definitions**.
 
 2.  Open a trained clustering solution definition form.
 
@@ -87,7 +87,3 @@ In this example scenario, you train your solution definition by using the third 
 
 [Create and train a clustering solution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/create-clustering-solution.md)
 
-## Related
-
-- [[create-clustering-solution|Create and train a clustering solution]]
-- [[predictive-intelligence-landing|Predictive Intelligence]]

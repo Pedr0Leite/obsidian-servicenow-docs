@@ -47,7 +47,7 @@ Procedure
 1.  Tap the top menu in the Accounts page.
 2.  Tap **Add account**.
 
-3.  Enter your ServiceNow URL or scan the QR code. For more details, see [[login-end-user|Add a ServiceNow account to ServiceNow mobile apps]].
+3.  Enter your ServiceNow URL or scan the QR code. For more details, see [Add a ServiceNow account to ServiceNow mobile apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/login-end-user.md).
 4.  \(Optional\) Enter a nickname.
 5.  Tap **Save and log in**, to add your selected account.
 6.  Enter your user name and password for this account.
@@ -102,7 +102,3 @@ For iOS:1.  In the Accounts page, swipe to the left on the account you want to r
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[login-end-user|Add a ServiceNow account to ServiceNow mobile apps]]

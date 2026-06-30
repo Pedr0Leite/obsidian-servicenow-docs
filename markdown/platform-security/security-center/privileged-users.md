@@ -16,7 +16,7 @@ breadcrumb: [Security metrics, Security monitoring console, Security Center, Pla
 
 View the trend line for the privileged users \(active and inactive\) and their activity on the ServiceNow AI Platform.
 
-The Privileged users overview section displays the trend line for the privileged users \(active and inactive\) and their activity on the ServiceNow AI Platform. Privileged users are [[users|users]] who have been assigned additional roles by admins to access the features like [[c_HighSecuritySettings|High Security Settings]], Import, and Portal users.
+The Privileged users overview section displays the trend line for the privileged users \(active and inactive\) and their activity on the ServiceNow AI Platform. Privileged users are users who have been assigned additional roles by admins to access the features like High Security Settings, Import, and Portal users.
 
 Below is an explanation of the privileged users:
 
@@ -34,18 +34,11 @@ Below is an explanation of the privileged users:
 -   Users not logged in since the last 6 months: Users that have not logged in the last 6 months.
 -   Users not logged in since the last 1 year: Users that have not logged in the past year.
 -   Need to reset password: Users that need to reset their password.
--   [[c_SelfServicePasswordReset|Password reset]] failures of the users: Number of password failures per user.
+-   Password reset failures of the users: Number of password failures per user.
 
-Select the cards to view the individual [[ca-metrics|metrics]] page with additional details.
+Select the cards to view the individual metrics page with additional details.
 
-Select the **+Create task** button to create a Security Task related to a metric. For details on [[security-task-manager|Security Tasks]], see [Security Tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/security-task-manager.md).
+Select the **+Create task** button to create a Security Task related to a metric. For details on Security Tasks, see [Security Tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/security-task-manager.md).
 
 **Parent Topic:**[Security metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sc-metrics.md)
 
-## Related
-
-- [[users|Users]]
-- [[c_HighSecuritySettings|High Security Settings]]
-- [[c_SelfServicePasswordReset|Password Reset]]
-- [[ca-metrics|Metrics]]
-- [[security-task-manager|Security Tasks]]

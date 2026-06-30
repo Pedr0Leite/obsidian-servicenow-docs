@@ -12,7 +12,7 @@ breadcrumb: [Use Consumer Portal, Customer communication, Use, Customer Service 
 
 # Access your list of install base items from the Consumer Portal
 
-View [[install-base-item|install base items]] registered to your account from the Consumer Portal, including details for each device or service.
+View install base items registered to your account from the Consumer Portal, including details for each device or service.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: none
 
 ## Procedure
 
-1.  [[log-in-to-consumer-portal|Log in to the Consumer Portal]].
+1.  Log in to the Consumer Portal.
 
 2.  Navigate to **My hub** &gt; **Manage install base items**.
 
@@ -34,7 +34,4 @@ Role required: none
 
 3.  From the list, open an install base record to see all the details and cases for that install base item.
 
-## Related
 
-- [[install-base-item|Install base items]]
-- [[log-in-to-consumer-portal|Log in to the Consumer Portal]]

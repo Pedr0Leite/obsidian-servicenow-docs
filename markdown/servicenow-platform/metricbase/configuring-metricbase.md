@@ -14,7 +14,7 @@ breadcrumb: [MetricBase, Manage instance data sources, Extend ServiceNow AI Plat
 
 # Configuring MetricBase
 
-Plan and configure your [[metricbase|MetricBase]] implementation.
+Plan and configure your MetricBase implementation.
 
 -   **[Requesting the MetricBase product](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/request-metricbase.md)**  
 The MetricBase plugin \[com.snc.clotho\] requires a separate subscription and must be activated by ServiceNow personnel. Be sure to also request the MetricBase Demo plugin \[com.snc.clotho.demo\], which includes sample tables, metrics, triggers, and data.
@@ -23,6 +23,3 @@ Familiarize yourself with MetricBase by exploring the MetricBase demo.
 
 **Parent Topic:**[MetricBase](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/metricbase.md)
 
-## Related
-
-- [[metricbase|MetricBase]]

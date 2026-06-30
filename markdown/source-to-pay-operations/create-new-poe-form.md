@@ -12,7 +12,7 @@ breadcrumb: [Reference, Purchase Order Management, Source-to-Pay Operations, Fin
 
 # Create new purchase order exception form
 
-Use the Create new purchase order exception form to provide details about the exception that is being created from a [[universal-request|universal request]].
+Use the Create new purchase order exception form to provide details about the exception that is being created from a universal request.
 
 <table id="table_jr4_ghz_3hc"><thead><tr><th>
 
@@ -24,7 +24,7 @@ Description
 
 </th></tr></thead><tbody><tr><td colspan="2">
 
-[[purchase-order-exception-table|Purchase Order Exception]]
+Purchase Order Exception
 
 </td></tr><tr><td>
 
@@ -80,7 +80,7 @@ Current state of this purchase order exception. The options are:-   New
 
 </td></tr><tr><td>
 
-[[supplier|Supplier]]
+Supplier
 
 </td><td>
 
@@ -100,7 +100,7 @@ Related PO
 
 </td><td>
 
-[[purchase-order-table|Purchase order]] to which exception is related.
+Purchase order to which exception is related.
 
 </td></tr><tr><td>
 
@@ -191,7 +191,7 @@ Proposed delivery quantity
 Revised delivery quantity.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[purchase-order-mgmt-reference|Purchase Order Management reference]]
+</table>**Parent Topic:**[Purchase Order Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/purchase-order-mgmt-reference.md)
 
 **Related topics**  
 
@@ -202,10 +202,3 @@ Revised delivery quantity.
 
 [Master data tables for Purchase Order Management]()
 
-## Related
-
-- [[purchase-order-mgmt-reference|Purchase Order Management reference]]
-- [[universal-request|Universal Request]]
-- [[purchase-order-exception-table|Purchase Order Exception]]
-- [[supplier|Supplier]]
-- [[purchase-order-table|Purchase order]]

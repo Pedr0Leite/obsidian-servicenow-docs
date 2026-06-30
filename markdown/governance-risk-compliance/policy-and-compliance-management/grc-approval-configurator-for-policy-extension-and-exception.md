@@ -14,7 +14,7 @@ breadcrumb: [Enhancement steps, Implement, Policy and Compliance Management, Gov
 
 # GRC Approval Configurator for approving policy exceptions and extensions
 
-Users can now [[manage-policy-exceptions|manage policy exceptions and extensions]] with granular, multi-level approval flows using the GRC Approval Configurator.
+Users can now manage policy exceptions and extensions with granular, multi-level approval flows using the GRC Approval Configurator.
 
 Users can now configure policy exceptions and extensions through the GRC Approval Configurator. The GRC Approval configurator enables more granular rule definitions and broader configuration options for policy exceptions and extensions.
 
@@ -43,7 +43,7 @@ The policy exception approval process consists of five main states:
     Here, a Compliance Manager evaluates the request. They can either move it to the Review state for further scrutiny, or request input from a Subject Matter Expert \(SME\) if additional domain-specific insight is needed.
 
 -   Review: In this state, the request is reviewed in detail by the SME for technical validation.
--   Awaiting Approval: After the SME input is gathered, the request enters the Awaiting Approval state for gathering the final Approvals from designated approvers \(based on the final [[bcm-approval-configuration|approval configuration]] rules\).
+-   Awaiting Approval: After the SME input is gathered, the request enters the Awaiting Approval state for gathering the final Approvals from designated approvers \(based on the final approval configuration rules\).
 
 -   Approved: After final approval, the policy exception is marked as Approved and becomes active.
 
@@ -74,7 +74,3 @@ Configure granular approval rules for policy exceptions and extensions using the
 
 **Parent Topic:**[Policy and Compliance Management enhancement steps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/policy-compliance-optional-steps.md)
 
-## Related
-
-- [[manage-policy-exceptions|Manage policy exceptions and extensions]]
-- [[bcm-approval-configuration|Approval configuration]]

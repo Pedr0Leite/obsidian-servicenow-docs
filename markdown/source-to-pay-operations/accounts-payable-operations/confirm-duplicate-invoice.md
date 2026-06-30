@@ -15,7 +15,7 @@ breadcrumb: [Accounts Payable Specialist manual tasks, Work on an invoice proces
 
 # Confirm whether an invoice is a duplicate
 
-Review [[invoices|invoices]] flagged as suspected duplicates and confirm or reject the duplicate status.
+Review invoices flagged as suspected duplicates and confirm or reject the duplicate status.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Role required: sn\_ap\_apm.accounts\_payable\_specialist or sn\_ap\_apm.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-pay-mgmt-landing-page|Accounts Payable Operations]]** &gt; **Accounts Payable Workspace**.
+1.  Navigate to **All** &gt; **Accounts Payable Operations** &gt; **Accounts Payable Workspace**.
 
 2.  Select the list icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon\).
 
@@ -92,12 +92,7 @@ The status of the invoice changes to Confirmed duplicate and the state of the in
 
 [Reset an invoice to the Received status]()
 
-[Check for [[work-with-invoice-exceptions|invoice exceptions]] on a single invoice]()
+[Check for invoice exceptions on a single invoice]()
 
 [Start the processing for an invoice imported via integration with third-party applications]()
 
-## Related
-
-- [[invoices|Invoices]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[work-with-invoice-exceptions|Invoice exceptions]]

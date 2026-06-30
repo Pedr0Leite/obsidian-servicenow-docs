@@ -26,7 +26,7 @@ Each frame has its own class name.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Content Management** &gt; **Design** &gt; **[[c_StyleSheets|Style Sheets]]**.
+1.  Navigate to **All** &gt; **Content Management** &gt; **Design** &gt; **Style Sheets**.
 
 2.  Select a style sheet to contain the frame definition.
 
@@ -43,6 +43,3 @@ Each frame has its own class name.
 
 **Parent Topic:**[Format a frame](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_Frame.md)
 
-## Related
-
-- [[c_StyleSheets|Style sheets]]

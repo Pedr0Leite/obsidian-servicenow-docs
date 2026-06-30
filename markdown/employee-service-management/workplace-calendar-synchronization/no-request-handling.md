@@ -22,11 +22,11 @@ Role required: admin
 
 ## About this task
 
-No request is a mechanism to validate the generated syntax of the payload of an event created for the calendar. But, instead of sending the event to the calendar provider, it is only created. The admin can validate the payload content of the event \(JSON\) to ensure that is generated as expected. 'No request' ensures that the application does not make any API calls to the calendar provider when you create, update, or cancel a reservation in the [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] application.
+No request is a mechanism to validate the generated syntax of the payload of an event created for the calendar. But, instead of sending the event to the calendar provider, it is only created. The admin can validate the payload content of the event \(JSON\) to ensure that is generated as expected. 'No request' ensures that the application does not make any API calls to the calendar provider when you create, update, or cancel a reservation in the Workplace Reservation Management application.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]** &gt; **Configuration** &gt; **Reservable Sync Configuration**.
+1.  Navigate to **All** &gt; **Workplace Calendar Synchronization** &gt; **Configuration** &gt; **Reservable Sync Configuration**.
 
 2.  Select the reservable sync record for which you want to enable 'No request.
 
@@ -36,7 +36,4 @@ No request is a mechanism to validate the generated syntax of the payload of an 
 
 5.  Select **Update**.
 
-## Related
 
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]

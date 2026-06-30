@@ -18,17 +18,17 @@ Configure device actions that end users can trigger to maintain optimal device a
 
 ## Before you begin
 
-Make sure that the Agent Client Collector \(ACC\) agent is deployed on the target end user [[dex-workspace-devices-tab|devices]].
+Make sure that the Agent Client Collector \(ACC\) agent is deployed on the target end user devices.
 
 Role required: sn\_dex.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Digital Experience Self-Service** &gt; **[[device-actions|Device Actions]]**.
+1.  Navigate to **All** &gt; **Digital Experience Self-Service** &gt; **Device Actions**.
 
 2.  Select **New** to add a device action or open an existing device action record to modify its details.
 
-3.  On the [[dex-self-service-device-actions-form|DEX Self-service device action form]], select the issue configuration to be linked with the action.
+3.  On the DEX Self-service device action form, select the issue configuration to be linked with the action.
 
     1.  In the **DEX Self-service issue config** field, select the Unlock DEX Self-service issue config icon \[Omitted image "icon-unlock-visible-fields.png"\] Alt text:.
 
@@ -50,8 +50,3 @@ Role required: sn\_dex.admin
 
 [Custom device action example](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-self-service/example-device-action.md)
 
-## Related
-
-- [[dex-workspace-devices-tab|Devices]]
-- [[device-actions|Device actions]]
-- [[dex-self-service-device-actions-form|DEX Self-service device action form]]

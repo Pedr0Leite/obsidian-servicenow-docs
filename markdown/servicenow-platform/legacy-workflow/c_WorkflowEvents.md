@@ -18,7 +18,7 @@ The system employs two types of events: registered platform events and workflow 
 
 ## Registered platform events
 
-Registered events are created in business rules and are used for such tasks as sending [[email|email]] notifications when records are inserted into the database. Workflow events are registered within workflows only and are not used anywhere else in the platform. Registered platform events can be triggered by a workflow for external use, but cannot be used within a workflow.
+Registered events are created in business rules and are used for such tasks as sending email notifications when records are inserted into the database. Workflow events are registered within workflows only and are not used anywhere else in the platform. Registered platform events can be triggered by a workflow for external use, but cannot be used within a workflow.
 
 ## Workflow events
 
@@ -37,6 +37,3 @@ Several workflow events are available in the base system.
 
 **Parent Topic:**[Workflow management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/managing-workflows.md)
 
-## Related
-
-- [[email|Email]]

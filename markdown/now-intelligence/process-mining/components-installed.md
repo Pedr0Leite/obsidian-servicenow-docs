@@ -36,7 +36,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[process-mining|Process Mining]] Definition \[ml\_capability\_definition\_promin\]
+Process Mining Definition \[ml\_capability\_definition\_promin\]
 
 </td><td>
 
@@ -200,7 +200,7 @@ Process Scheduled Task\[promin\_scheduled\_task\]
 
 </td><td>
 
-Stores requested [[cluster-analysis|cluster analysis]], data mining, and Process Mining tasks.
+Stores requested cluster analysis, data mining, and Process Mining tasks.
 
 </td></tr><tr><td>
 
@@ -500,7 +500,7 @@ promin.pa\_integration\_required\_roles
 
 </td><td>
 
-Define the roles that can launch Process Mining from [[c_performanceAnalyticsAndReporting|Platform Analytics]] Dashboard/Indicator.Type: String
+Define the roles that can launch Process Mining from Platform Analytics Dashboard/Indicator.Type: String
 
 Default: The default roles added to the property are:
 
@@ -530,9 +530,3 @@ Default: -1
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[process-mining|Process Mining]]
-- [[cluster-analysis|Cluster analysis]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

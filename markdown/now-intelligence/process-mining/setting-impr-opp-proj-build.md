@@ -14,7 +14,7 @@ breadcrumb: [For projects, Setting improvement opportunities, Use, Process Minin
 
 # Set improvement opportunity from Project Builder
 
-[[improve-opportunities|Set improvement opportunities]] from Project Builder.
+Set improvement opportunities from Project Builder.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Role required:
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[analyst-workbench-overview|Process Mining Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Process Mining Workspace**.
 
 2.  Select a project.
 
@@ -50,7 +50,3 @@ Role required:
 
 **Parent Topic:**[Setting improvement opportunity for projects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/project-imp-opp.md)
 
-## Related
-
-- [[improve-opportunities|Set improvement opportunities]]
-- [[analyst-workbench-overview|Process Mining workspace]]

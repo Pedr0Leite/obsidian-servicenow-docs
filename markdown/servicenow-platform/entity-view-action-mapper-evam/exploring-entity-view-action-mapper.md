@@ -14,7 +14,7 @@ breadcrumb: [Entity view action mapper, Manage instance data sources, Extend Ser
 
 # Exploring Entity View Action Mapper
 
-The [[entity-view-action-mapper|Entity View Action Mapper]] \(EVAM\) is an application that standardizes how different data sources display in cards and lists.
+The Entity View Action Mapper \(EVAM\) is an application that standardizes how different data sources display in cards and lists.
 
 ## EVAM overview
 
@@ -86,6 +86,3 @@ To learn more about configuring and using EVAM, see:
 -   [Managing Entity View Action Mapper](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/entity-view-action-mapper-evam/managing-entity-view-action-mapper.md)
 -   [Entity View Action Mapper reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/entity-view-action-mapper-evam/entity-view-action-mapper-reference.md)
 
-## Related
-
-- [[entity-view-action-mapper|Entity view action mapper]]

@@ -14,7 +14,7 @@ breadcrumb: [Managing projects with Project Workspace, Project Workspace, Projec
 
 # Add external dependencies between projects from Project Workspace
 
-Set up a dependency between tasks of different projects using the new [[project-workspace-landing-page|Project Workspace]].
+Set up a dependency between tasks of different projects using the new Project Workspace.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ External dependencies help you understand the impact on project schedules when t
 
 3.  Select the row context menu \(\[Omitted image "icon-row-context-menu.png"\] Alt text: Row context menu.\) of the task and select **Add external dependency**.
 
-4.  On the External [[dependency-form-portfolio-planning|Dependency form]], select the **Project** to which the external task belongs.
+4.  On the External Dependency form, select the **Project** to which the external task belongs.
 
 5.  Select the **Task** for which the dependency is added.
 
@@ -62,7 +62,3 @@ You can navigate to the external project directly from the current project to vi
 
 [Adding external dependencies for projects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/external-dependencies.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]
-- [[dependency-form-portfolio-planning|Dependency form]]

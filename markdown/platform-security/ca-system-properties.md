@@ -12,11 +12,11 @@ breadcrumb: [Exploring CA, Continuous Authentication \(CA\), Zero Trust Access, 
 
 # System properties
 
-Use system properties to enable and customize [[ca-homepage|continuous authentication \(CA\)]] to meet your zero trust access security requirements.
+Use system properties to enable and customize continuous authentication \(CA\) to meet your zero trust access security requirements.
 
 ## Properties
 
-To access the properties page, navigate to **All** &gt; **Continuous [[c_Authentication|Authentication]]**, select **Properties** tab.
+To access the properties page, navigate to **All** &gt; **Continuous Authentication**, select **Properties** tab.
 
 \[Omitted image "ca-system-properties.png"\] Alt text: CA System Properties
 
@@ -60,7 +60,7 @@ High Assurance session length \(**glide.zta.high\_assurance.session.timeout**\)
 
 </td><td>
 
-Specify the high assurance session length, after which the end-[[users|users]] should re-authenticate. Default: 10 mins.**Note:** The value must be between 1 and 480.
+Specify the high assurance session length, after which the end-users should re-authenticate. Default: 10 mins.**Note:** The value must be between 1 and 480.
 
 </td></tr><tr><td>
 
@@ -110,26 +110,16 @@ Specify the no of days after which the CA policies are deleted.
 </table>**Important:**
 
 -   By default, high-assurance sessions are not required for mobile app sessions, even when a continuous authentication policy is active on source. To change this behavior and block access from mobile app sessions, update the **glide.zta.high\_assurance.mobile.session.allowed** property value to `false`.
--   The **sys\_properties**, **sys\_continuous\_auth\_policy**, **sys\_user** tables are excluded for CA and cannot be added to the CA policy [[sc-configuration|configuration]].
+-   The **sys\_properties**, **sys\_continuous\_auth\_policy**, **sys\_user** tables are excluded for CA and cannot be added to the CA policy configuration.
 
 **Related topics**  
 
 
-[[explore-continuous-auth|Exploring Continuous Authentication]]
+[Exploring Continuous Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/explore-continuous-auth.md)
 
-[[ca-policies|Policies]]
+[Policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ca-policies.md)
 
-[[ca-metrics|Metrics]]
+[Metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ca-metrics.md)
 
-[[pre-work-ca|Pre-work for Continuous Authentication]]
+[Pre-work for Continuous Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/pre-work-ca.md)
 
-## Related
-
-- [[explore-continuous-auth|Exploring Continuous Authentication]]
-- [[ca-policies|Policies]]
-- [[ca-metrics|Metrics]]
-- [[pre-work-ca|Pre-work for Continuous Authentication]]
-- [[ca-homepage|Continuous Authentication \(CA\)]]
-- [[c_Authentication|Authentication]]
-- [[users|Users]]
-- [[sc-configuration|Configuration]]

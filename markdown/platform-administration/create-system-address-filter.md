@@ -12,11 +12,11 @@ breadcrumb: [Email service, Create, Email Administration, Notifications, Configu
 
 # Create a system address filter
 
-Define how email address filters apply to inbound and [[ia-outbound-email-il|outbound email]].
+Define how email address filters apply to inbound and outbound email.
 
 ## Before you begin
 
-Complete the steps in [[set-email-address-filters|Set email address filters]].
+Complete the steps in [Set email address filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/set-email-address-filters.md).
 
 Role required: email\_account\_admin
 
@@ -31,7 +31,7 @@ A system address filter blocks a domain or address that appears only on denied l
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_SystemMailboxes|System Mailboxes]]** &gt; **Administration** &gt; **[[system-address-filters|System Address Filters]]**, and then click **New**.
+1.  Navigate to **All** &gt; **System Mailboxes** &gt; **Administration** &gt; **System Address Filters**, and then click **New**.
 
 2.  On the form, fill in the fields.
 
@@ -115,18 +115,9 @@ Email address filters to apply to the system address filter.
 
 ## Result
 
-A default outbound filter applies to all active SMTP [[c_EmailAccounts|email accounts]] automatically. A default inbound filter applies to all active IMAP or POP3 email accounts automatically.
+A default outbound filter applies to all active SMTP email accounts automatically. A default inbound filter applies to all active IMAP or POP3 email accounts automatically.
 
-For a non-default filter, the next step is to apply the filter to an email account manually. For more information on applying a filter to an email account, see [[t_ConfigureAnEmailAccount|Create an email account]].
+For a non-default filter, the next step is to apply the filter to an email account manually. For more information on applying a filter to an email account, see [Create an email account](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ConfigureAnEmailAccount.md).
 
-**Parent Topic:**[[email-service|Email service]]
+**Parent Topic:**[Email service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/email-service.md)
 
-## Related
-
-- [[set-email-address-filters|Set email address filters]]
-- [[t_ConfigureAnEmailAccount|Create an email account]]
-- [[email-service|Email service]]
-- [[ia-outbound-email-il|Outbound email]]
-- [[c_SystemMailboxes|System mailboxes]]
-- [[system-address-filters|System address filters]]
-- [[c_EmailAccounts|Email accounts]]

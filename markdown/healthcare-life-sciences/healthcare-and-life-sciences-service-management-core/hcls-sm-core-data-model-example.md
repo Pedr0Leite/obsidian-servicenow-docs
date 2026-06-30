@@ -14,7 +14,7 @@ breadcrumb: [Data model, Configure, Healthcare and Life Sciences Service Managem
 
 # Healthcare and Life Sciences data model example
 
-The [[hcls-serv-mgmt-core|Healthcare and Life Sciences data model]] is vital in managing patient information.
+The Healthcare and Life Sciences data model is vital in managing patient information.
 
 ## Before you begin
 
@@ -47,13 +47,9 @@ The power of the healthcare data model emerges as Gilly's patient record seamles
 
 A list of appointments is linked, providing details like appointment type, service provided, location, and the attending practitioner. The patient records related list displays other information about her.
 
-The healthcare organization notices improved efficiencies provided by the [[hcls-overview|Healthcare and Life Sciences]] \(HCLS\) data model in HCLS-SM.
+The healthcare organization notices improved efficiencies provided by the Healthcare and Life Sciences \(HCLS\) data model in HCLS-SM.
 
 The HCLS data model, through its well-defined entities and attributes, ensures a seamless patient experience. By efficiently capturing and organizing patient information, the data model not only simplifies registration processes but also enables healthcare providers to access vital medical history, contributing to enhanced patient care and satisfaction.
 
 The healthcare organization is aware of how the data model plays a crucial role in helping healthcare organizations manage, organize, and analyze their data effectively. They aim to enhance interoperability, data integration, consistency, scalability, and compliance obligations and emphasize the importance of capturing and organizing data in a way that supports personalized and holistic patient care.
 
-## Related
-
-- [[hcls-serv-mgmt-core|Healthcare and Life Sciences data model]]
-- [[hcls-overview|Healthcare and Life Sciences]]

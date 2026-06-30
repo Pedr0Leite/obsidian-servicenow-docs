@@ -22,9 +22,9 @@ Role required: sn\_hr\_le.case\_writer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **[[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **Agent Workspace for HR Case Management**.
 
-2.  From the [[hr-lifecycle-events-landing-page-1|Lifecycle Events]] Cases list, select the **New** button.
+2.  From the Lifecycle Events Cases list, select the **New** button.
 
     Alternatively, click the \[Omitted image "IconCreateRecordMenu.png"\] Alt text: HR Agent Workspace - Add New icon Add New icon and select **HR Case**.
 
@@ -40,8 +40,4 @@ Role required: sn\_hr\_le.case\_writer
 
     The **State** changes to **Ready**. In the Details section, the **Assignment group** and **Assigned to** fields populate based on your case assignment rules or HR case template. For more information, see [Assignment and matching rules in HR]() and [HR templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-template-configuration.md).
 
-## Related
 
-- [[case-management-workspace|Case management]]
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]

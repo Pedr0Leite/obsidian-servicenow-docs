@@ -25,7 +25,7 @@ These features improve the user experience when accessing platform functions wit
 -   Use arrow keys \(left, right, up, down\) to navigate between individual elements within a group. This usually includes moving between tabs, or between available selections within a specific control \(for example, within a list\).
 -   Press **Enter** to select a control or tab, or enter text within a control.
 
-The [[workflow-editor|Workflow Editor]] is constructed in a unique manner. It includes a series of main \(left\) panel tabs, a series of side \(right\) panel tabs, and a drawing canvas for workflow creation or editing. As such, it has its own unique set of keyboard accessibility functions and commands.
+The Workflow Editor is constructed in a unique manner. It includes a series of main \(left\) panel tabs, a series of side \(right\) panel tabs, and a drawing canvas for workflow creation or editing. As such, it has its own unique set of keyboard accessibility functions and commands.
 
 -   **[Welcome page keyboard commands](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/welcome-page-keyboard-commands.md)**  
 Use keyboard commands to navigate and operate the Workflow Editor Welcome page.
@@ -34,6 +34,3 @@ Use keyboard commands to navigate and operate the Workflow Editor canvas.
 
 **Parent Topic:**[Workflow editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/workflow-editor.md)
 
-## Related
-
-- [[workflow-editor|Workflow editor]]

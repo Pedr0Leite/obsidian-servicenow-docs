@@ -14,7 +14,7 @@ breadcrumb: [Configure advanced features, Performance Analytics \(Indicator data
 
 # Performance Analytics Admin Console
 
-From a single console, administrators can manage [[c_performanceAnalyticsAndReporting|Platform Analytics]] Solution content, manage [[c_Widgets|Performance Analytics widgets]] and dashboards, diagnose and resolve errors, view usage analytics, modify configuration settings and access ServiceNow help.
+From a single console, administrators can manage Platform Analytics Solution content, manage Performance Analytics widgets and dashboards, diagnose and resolve errors, view usage analytics, modify configuration settings and access ServiceNow help.
 
 **Important:** This admin console does not support Platform Analytics artifacts. It shows information only for Core UI Performance Analytics widgets and responsive dashboards.
 
@@ -24,7 +24,7 @@ Users with the admin or pa\_admin roles can navigate to **Performance Analytics*
 
 -   **\[Omitted image "1.png"\] Alt text: Red number 1 indicating the Content Library tile in the Admin console layoutContent Library**
 
-    Guided Setup for the [[content-packs-in-form-analytics-published|Platform Analytics Solutions]].
+    Guided Setup for the Platform Analytics Solutions.
 
     Click **Plugin List** to show a list of available system plugins for inactive Platform Analytics Solutions.
 
@@ -34,7 +34,7 @@ Users with the admin or pa\_admin roles can navigate to **Performance Analytics*
 
 -   **\[Omitted image "2.png"\] Alt text: Red number 2 indicating the Content Library tile in the Admin console layoutExplore and Manage**
 
-    A single place where you can quickly identify and manage the relationships between your Performance Analytics elements and gauge the impact of change. For example, you can identify all the reports, indicators, and [[c_HomepagePublishers|interactive filters]] in a dashboard group that are affected if you change a field name.
+    A single place where you can quickly identify and manage the relationships between your Performance Analytics elements and gauge the impact of change. For example, you can identify all the reports, indicators, and interactive filters in a dashboard group that are affected if you change a field name.
 
     Click **Dashboards** to explore all of the dashboards in your instance sorted by group. Expand the group to view the individual dashboards.
 
@@ -54,7 +54,7 @@ Users with the admin or pa\_admin roles can navigate to **Performance Analytics*
 
     Dashboards with statistics about data collection jobs and report usage.
 
-    -   Use the **Data Collection Overview** dashboard to track and manage data collection. Note that data collection jobs are not run by default. dashboard [[widgets|widgets]] do not show data until you run the associated data collection jobs. For more information, see [Performance Analytics data collection and cleanup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_ClctData.md).
+    -   Use the **Data Collection Overview** dashboard to track and manage data collection. Note that data collection jobs are not run by default. dashboard widgets do not show data until you run the associated data collection jobs. For more information, see [Performance Analytics data collection and cleanup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_ClctData.md).
     -   Use the **Reports Usage** dashboard to track and manage report usage. For more information, see [Report statistics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-statistics.md).
 -   **\[Omitted image "5.png"\] Alt text: Red number 5 indicating the Advanced Configuration tile in the Admin console layoutAdvanced Configuration**
 
@@ -75,10 +75,3 @@ Users with the admin or pa\_admin roles can navigate to **Performance Analytics*
 
 [Interactive Analysis information panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/interactive-analysis-info-panel.md)
 
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[c_Widgets|Performance Analytics widgets]]
-- [[content-packs-in-form-analytics-published|Platform Analytics solutions]]
-- [[c_HomepagePublishers|Interactive Filters]]
-- [[widgets|Widgets]]

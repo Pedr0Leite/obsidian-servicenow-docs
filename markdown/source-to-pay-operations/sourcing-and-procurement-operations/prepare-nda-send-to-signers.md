@@ -22,7 +22,7 @@ Role required: Procurement specialist
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[psd-overview|Procurement Case Management]]** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Procurement Case Management** &gt; **Source-to-Pay Workspace**.
 
 2.  Select the list icon and select **All work** &gt; **Cases**.
 
@@ -79,7 +79,7 @@ Select document tamplte
 
 </td><td>
 
-In the **Document template** field, select **[[supplier|Supplier]] NDA draft**.Select **Continue**.
+In the **Document template** field, select **Supplier NDA draft**.Select **Continue**.
 
 </td></tr><tr><td>
 
@@ -95,7 +95,7 @@ Identify supplier's signer
 
 </td><td>
 
-Do the following:-   In the **[[supplier-contact|Supplier contact]]** field, enter the name of the supplier contact.
+Do the following:-   In the **Supplier contact** field, enter the name of the supplier contact.
 -   In the **Signatory email** field, enter a valid email ID of the supplier or third-party signer.
 -   In the **Signatory title** field, enter a title for the supplier or third-party signer.
 -   In the **Authorized signatory name** field, enter the name of the supplier or third-party signer.
@@ -206,9 +206,3 @@ Updates the case to Closed Completed.
 </table>
 **Parent Topic:**[Routing NDAs to suppliers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/routing-ndas-to-suppliers.md)
 
-## Related
-
-- [[psd-overview|Procurement Case Management]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supplier|Supplier]]
-- [[supplier-contact|Supplier contact]]

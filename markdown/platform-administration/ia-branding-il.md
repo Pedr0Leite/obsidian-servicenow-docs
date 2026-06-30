@@ -24,8 +24,5 @@ You can see the following information on the Branding page:
 
 See [Branding and theming](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/migration-branding-theming.md) for more information.
 
-**Parent Topic:**[[ia-config-platform-il|Platform module configuration in Setup Hub]]
+**Parent Topic:**[Platform module configuration in Setup Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-config-platform-il.md)
 
-## Related
-
-- [[ia-config-platform-il|Platform module configuration in Setup Hub]]

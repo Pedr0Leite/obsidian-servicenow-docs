@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Management references, Software Asset Management, IT
 
 # Quick start tests for Software Asset Management
 
-Validate that [[c_SoftwareAssetMgmt|Software Asset Management]] still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
+Validate that Software Asset Management still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
 
 Software Asset Management quick start tests require activating the Software Asset Management Professional plugin \(com.snc.samp\). Some quick start tests require activating the following additional plugins.
 
@@ -22,7 +22,7 @@ Software Asset Management quick start tests require activating the Software Asse
 -   Software Asset Management Professional for Microsoft \(com.snc.samp.microsoft\)
 -   Software Asset Management Professional for SAP \(com.sn\_samp\_sap\)
 -   Software Asset Management Professional for Oracle \(com.snc.samp.oracle\)
--   Software Asset Management - [[sam-subscription-management|SaaS License Management]] Integrations \(sn\_sam\_saas\_int\)
+-   Software Asset Management - SaaS License Management Integrations \(sn\_sam\_saas\_int\)
 
 <table id="atf-tests-sam"><thead><tr><th>
 
@@ -42,7 +42,7 @@ SAM - Mapping Custom PPN/DMAP to newly published PPN and Content
 
 </td><td>
 
-Validates the replacement of a custom publisher part number \(PPN\) with a new [[c_SAMContentService|Software Asset Management Content Service]] PPN.
+Validates the replacement of a custom publisher part number \(PPN\) with a new Software Asset Management Content Service PPN.
 
 </td><td>
 
@@ -57,7 +57,7 @@ SAM - Oracle PaaS BYOL
 -   Validates the addition of the new Serverless Hardware \[cmdb\_ci\_serverless\_hardware\] table, which stores information about PaaS devices.
 -   Validates the license compliance of Oracle Database servers in Amazon Web Services \(AWS\) PaaS environments.
 
- **Note:** Requires the Software Asset Management Professional for Oracle \(com.snc.samp.oracle\) plugin and the CMDB CI Class [[c_Models|Models]] store application.
+ **Note:** Requires the Software Asset Management Professional for Oracle \(com.snc.samp.oracle\) plugin and the CMDB CI Class Models store application.
 
 </td><td>
 
@@ -97,7 +97,7 @@ SAM - Validate CIS Suites
 
 </td><td>
 
-Validates reconciliation of Core Infrastructure Server \(CIS\) suites along with [[downgrade-rights|downgrade rights]].**Note:** Requires demo data and the Software Asset Management Professional for Microsoft \(com.snc.samp.microsoft\) plugin.
+Validates reconciliation of Core Infrastructure Server \(CIS\) suites along with downgrade rights.**Note:** Requires demo data and the Software Asset Management Professional for Microsoft \(com.snc.samp.microsoft\) plugin.
 
 </td><td>
 
@@ -279,10 +279,3 @@ New York
 
 [Quick start tests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/quick-start-tests.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-subscription-management|SaaS License Management]]
-- [[c_SAMContentService|Software Asset Management Content Service]]
-- [[c_Models|Models]]
-- [[downgrade-rights|Downgrade Rights]]

@@ -14,7 +14,7 @@ breadcrumb: [Work with solution data in Digital Portfolio Management, Digital Po
 
 # Work with lists in Digital Portfolio Management
 
-Work with lists in the [[dpm-landing|Digital Portfolio Management]] Workspace. Lists enable you to view service and application information that is not in a personal portfolio or an enterprise portfolio.
+Work with lists in the Digital Portfolio Management Workspace. Lists enable you to view service and application information that is not in a personal portfolio or an enterprise portfolio.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_dpm.dpm\_manager
 
 ## About this task
 
-Use the **List** tab in Digital Portfolio Management \(DPM\), to view lists of services, service offerings, business [[dex-workspace-application-tab|applications]], service instances, demands, projects, and [[c_Contracts|contracts]]. You can view the solutions that you own as well as the solutions that you don't own. You can also create custom lists to see any items that interest you like services, incidents, and users. The table column names in lists change depending on the type of list that you create. You can also send a link to a specific list item and add or hide columns from your list view.
+Use the **List** tab in Digital Portfolio Management \(DPM\), to view lists of services, service offerings, business applications, service instances, demands, projects, and contracts. You can view the solutions that you own as well as the solutions that you don't own. You can also create custom lists to see any items that interest you like services, incidents, and users. The table column names in lists change depending on the type of list that you create. You can also send a link to a specific list item and add or hide columns from your list view.
 
 ## Procedure
 
@@ -63,8 +63,3 @@ Use the **List** tab in Digital Portfolio Management \(DPM\), to view lists of s
 
 **Parent Topic:**[Work with solution data in Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-working-with.md)
 
-## Related
-
-- [[dpm-landing|Digital Portfolio Management]]
-- [[dex-workspace-application-tab|Applications]]
-- [[c_Contracts|Contracts]]

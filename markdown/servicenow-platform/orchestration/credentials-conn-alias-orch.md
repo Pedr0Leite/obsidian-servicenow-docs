@@ -16,7 +16,7 @@ breadcrumb: [Orchestration activity designer, Classic Orchestration, ServiceNow 
 
 All application integrations in Orchestration require connection information, credentials, and connection and credential aliases to their respective applications to access resources.
 
-Before you can execute an application integration in Orchestration, you must create and configure the corresponding connection information and credentials. The Connections pertains to an integration with a system, such as an [[ip-address|IP address]] or endpoint with protocols. It contains specific details, such as database particulars, when integrating with a database. The associated Credentials are the authentication data required to make the connection.
+Before you can execute an application integration in Orchestration, you must create and configure the corresponding connection information and credentials. The Connections pertains to an integration with a system, such as an IP address or endpoint with protocols. It contains specific details, such as database particulars, when integrating with a database. The associated Credentials are the authentication data required to make the connection.
 
 Connection information and credentials can vary between QA/Development/Production environments for the same integration. The tight coupling between this data and application metadata, such as workflow or job scheduling, make application metadata obsolete when you change environments. To alleviate this problem, the concept of an alias is introduced, for connections and credentials, to decouple this data from application metadata. These aliases allow customers to design their application metadata to couple to an alias, which during runtime resolves to connection and credential data.
 
@@ -32,7 +32,7 @@ The credential alias resolves only credential data. Along with alias data model,
 
 ## Using Connection and Credential Alias with Orchestration
 
-Define an alias to [[label|label]] a credential or connection record.
+Define an alias to label a credential or connection record.
 
 The Credential and Connection Alias defines an alias that labels a credential or connection record. It is extended from the sys\_metadata table. It requires the admin role. The credential\_admin and connection\_admin have read access to sys\_alias. A connection alias contains:
 
@@ -66,7 +66,7 @@ Orchestration requires credentials to access resources.
 
 ### Credential table
 
-The credential table \(discovery\_credential\) defines credentials that can be used for integration. In the previous release, the Credential table contains a string-type tag field, which labels a credential and the tag is used in Orchestration activities. In the Madrid release, the credential alias is renamed from tag, and the type is changed from string to GlideList, which is a [[reference|reference]] to the connection alias table.
+The credential table \(discovery\_credential\) defines credentials that can be used for integration. In the previous release, the Credential table contains a string-type tag field, which labels a credential and the tag is used in Orchestration activities. In the Madrid release, the credential alias is renamed from tag, and the type is changed from string to GlideList, which is a reference to the connection alias table.
 
 ### Credential types
 
@@ -267,9 +267,9 @@ Yes
 </td></tr></tbody>
 </table>### How MID Servers use credentials
 
-By default, Windows MID Servers use the login credentials of the [[mid-server-landing|MID Server]] service on the host machine to discover Windows devices in the network. You should [Configure Windows MID Server service credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-install-prereqs.md) so that they have domain or local administrator privileges. For Linux and UNIX machines and network devices, the MID Server uses the SSH and SNMP credentials configured in the instance in **Discovery** &gt; **Credentials**.
+By default, Windows MID Servers use the login credentials of the MID Server service on the host machine to discover Windows devices in the network. You should [Configure Windows MID Server service credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-install-prereqs.md) so that they have domain or local administrator privileges. For Linux and UNIX machines and network devices, the MID Server uses the SSH and SNMP credentials configured in the instance in **Discovery** &gt; **Credentials**.
 
-MID Servers that Orchestration uses must have access to the necessary credentials to execute commands on computers in the network as specified by the [Workflow activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/c_WorkflowActivities.md). Orchestration can use the same SSH and SNMP credentials as Discovery, but has two additional credentials designed for specific [[c_WorkflowActivities|workflow activities]]: Windows \(for [PowerShell](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchestrPowerShellActivities.md)\) and VMware.
+MID Servers that Orchestration uses must have access to the necessary credentials to execute commands on computers in the network as specified by the [Workflow activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/c_WorkflowActivities.md). Orchestration can use the same SSH and SNMP credentials as Discovery, but has two additional credentials designed for specific workflow activities: Windows \(for [PowerShell](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchestrPowerShellActivities.md)\) and VMware.
 
 ### Encryption and decryption
 
@@ -325,7 +325,7 @@ The Connection table \(sys\_connection\) is the base table for all connection ta
 -   JMS
 -   HTTP\(s\)
 
-The connection table [[reference-document-management|references]] the connection alias table, which couples the connection alias to connection information. Every connection records the following information:
+The connection table references the connection alias table, which couples the connection alias to connection information. Every connection records the following information:
 
 |Field|Description|
 |-----|-----------|
@@ -344,11 +344,3 @@ The JDBC connection \(jdbc\_connection\) and JMS connection \(orch\_jms\_ds\) ta
 -   JDBC server is renamed to host
 -   Database port is renamed to port
 
-## Related
-
-- [[ip-address|IP Address]]
-- [[label|Label]]
-- [[reference|Reference]]
-- [[mid-server-landing|MID Server]]
-- [[c_WorkflowActivities|Workflow activities]]
-- [[reference-document-management|References]]

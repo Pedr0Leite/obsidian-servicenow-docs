@@ -14,7 +14,7 @@ breadcrumb: [Event Management reference, Event Management, ITOM AIOps, IT Operat
 
 # Machine learning solutions for Event Management
 
-Build solutions for [[c_EM|Event Management]] with Predictive Intelligence.
+Build solutions for Event Management with Predictive Intelligence.
 
 ## Solution definition
 
@@ -28,7 +28,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Closed [[alert-similarity|alert similarity]]
+Closed alert similarity
 
 </td><td>
 
@@ -45,7 +45,3 @@ EM Alert Clustering Solution is a clustering solution definition used in Event M
 </td></tr></tbody>
 </table>**Parent Topic:**[Event Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/event-management-reference.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[alert-similarity|Alert similarity]]

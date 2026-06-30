@@ -45,7 +45,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 ## Configuration Overview
 
-The steps for setting up [[playbooks|Playbooks for Field Service Management]] are:
+The steps for setting up Playbooks for Field Service Management are:
 
 1.  [Install Playbooks for Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/activate-fsm-playbook.md)
 
@@ -55,6 +55,4 @@ The steps for setting up [[playbooks|Playbooks for Field Service Management]] ar
 
     Activate Workflow Studio Playbooks on your instance so that you can create Playbooks triggered by tables.
 
-## Related
 
-- [[playbooks|Playbooks for Field Service Management]]

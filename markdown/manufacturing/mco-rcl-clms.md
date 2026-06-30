@@ -34,33 +34,19 @@ The MCO agent portal enables manufacturers to manage recall campaigns through a 
 
 Use the following to configure, use, and manage recall campaigns in MCO.
 
-Review the entities and relationships within the [[recall-claims|Recall campaign data model]], including tables added or modified by the recall claim plugin.
+Review the entities and relationships within the [Recall campaign data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/recall-claims.md), including tables added or modified by the recall claim plugin.
 
 1.  Configure recall campaign: Complete the following tasks to set up the recall campaign in your environment.
     1.  Install Manufacturing recall claim management \[sn\_rcl\_claim\_mgmt\]: [Installing applications, plugins, and products](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/installing-apps-app-manager.md).
-    2.  Set up product models and parts: [[mco-product-models|Configuring product models]]
-    3.  Set up assets and install base items: [[mco-assets|Configuring assets]] and [[mco-create-install-base-item|Create an install base item]]
-    4.  Set up dealers: [[set-up-dealer|Set up dealer]]
-    5.  Assign recall roles: [[assign-mco-roles|Assign roles]]
+    2.  Set up product models and parts: [Configuring product models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-product-models.md)
+    3.  Set up assets and install base items: [Configuring assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-assets.md) and [Create an install base item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-create-install-base-item.md)
+    4.  Set up dealers: [Set up dealer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/set-up-dealer.md)
+    5.  Assign recall roles: [Assign roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/assign-mco-roles.md)
 2.  Work with recall campaign \(OEM\): Use the Agents \(CSM/FSM\) workspace to create and manage recall campaigns, phases, and claims.
-    1.  Create a recall campaign: [[mco-rc-my-campaigns|Create a campaign]]
-    2.  Define corrective action and charges: [[mco-corrective-actions|Corrective actions]]
-    3.  Import impacted asset: [[mco_importing_impacted_assets|Importing impacted assets]]
-    4.  Create and manage campaign phases: [[mco-recall-campaign-phases|Recall a campaign phase]]
-    5.  Create phases and sub-phases: [[mco_phases_sub-phases|Create a phase and sub-phase in a recall campaign]]
-3.  Work with recall campaign \(Dealer\): Use the [[mco-dealer-portal|Dealer portal]] to submit and track recall claims. .
+    1.  Create a recall campaign: [Create a campaign](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-rc-my-campaigns.md)
+    2.  Define corrective action and charges: [Corrective actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-corrective-actions.md)
+    3.  Import impacted asset: [Importing impacted assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco_importing_impacted_assets.md)
+    4.  Create and manage campaign phases: [Recall a campaign phase](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-recall-campaign-phases.md)
+    5.  Create phases and sub-phases: [Create a phase and sub-phase in a recall campaign](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco_phases_sub-phases.md)
+3.  Work with recall campaign \(Dealer\): Use the Dealer portal to submit and track recall claims. .
 
-## Related
-
-- [[recall-claims|Recall campaign data model]]
-- [[mco-product-models|Configuring product models]]
-- [[mco-assets|Configuring assets]]
-- [[mco-create-install-base-item|Create an install base item]]
-- [[set-up-dealer|Set up dealer]]
-- [[assign-mco-roles|Assign roles]]
-- [[mco-rc-my-campaigns|Create a campaign]]
-- [[mco-corrective-actions|Corrective actions]]
-- [[mco_importing_impacted_assets|Importing impacted assets]]
-- [[mco-recall-campaign-phases|Recall a campaign phase]]
-- [[mco_phases_sub-phases|Create a phase and sub-phase in a recall campaign]]
-- [[mco-dealer-portal|Dealer portal]]

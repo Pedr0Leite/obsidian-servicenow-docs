@@ -18,11 +18,11 @@ The Demand Management process flow consists of the following tasks.
 
 **Important:**
 
-Demands are available in the Next Experience for [[c_DemandManagement|Demand Management]]. For more information, see [Next Experience for Demand Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/demand-workspace-ppw.md).
+Demands are available in the Next Experience for Demand Management. For more information, see [Next Experience for Demand Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/demand-workspace-ppw.md).
 
 The workspace provides additional value beyond the legacy experience, including Playbook, Docs, and the ability to define different governance processes using playbooks.
 
-If you have [[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace or [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace, you can use the Next Experience for Demand Management to create and manage your demands.
+If you have Portfolio Planning Workspace or Strategic Planning Workspace, you can use the Next Experience for Demand Management to create and manage your demands.
 
 -   New customers: Use Next Experience for Demand Management to create and manage your demands.
 -   Existing customers: If you already have demands in the classic UI, you can continue using it. However, we recommend moving to the Next Experience for Demand Management, as your existing demands are automatically available there.
@@ -67,7 +67,7 @@ Adding details to demands
 
 </td><td>
 
-Demand managers can add details to a demand request by adding [[demand-task|demand tasks]], stakeholders, requirements, risks, decisions, and resource assignments.
+Demand managers can add details to a demand request by adding demand tasks, stakeholders, requirements, risks, decisions, and resource assignments.
 
 </td></tr><tr><td>
 
@@ -75,7 +75,7 @@ Assessing demands
 
 </td><td>
 
-Decision makers can use assessment results and the demand backlog when determining which demands to approve or reject.Demand managers can decide if the assessment should be triggered for the demand using the **Assessment Required** field on the [[demand-form|demand form]].
+Decision makers can use assessment results and the demand backlog when determining which demands to approve or reject.Demand managers can decide if the assessment should be triggered for the demand using the **Assessment Required** field on the demand form.
 
 </td></tr><tr><td>
 
@@ -88,10 +88,3 @@ Demand managers can set a demand to Completed when work on the demand is complet
 </td></tr></tbody>
 </table>**Parent Topic:**[Exploring Demand Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/exploring-demand-management.md)
 
-## Related
-
-- [[c_DemandManagement|Demand Management]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[demand-task|Demand tasks]]
-- [[demand-form|Demand form]]

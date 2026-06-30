@@ -14,7 +14,7 @@ breadcrumb: [Replicate data, Instance Data Replication, Manage instance data sou
 
 # Seed a consumer instance
 
-Seed all or some of the tables in your [[instance-data-replication|Instance Data Replication]] \(IDR\) replication sets depending on the needs of your consumer instance.
+Seed all or some of the tables in your Instance Data Replication \(IDR\) replication sets depending on the needs of your consumer instance.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: idr\_admin or admin
 
 ## About this task
 
-Seeding replicates existing records from the producer instance to the consumer instance. You can initiate seeding requests on a consumer instance while you are activating a consumer replication set. Seeding options are not available in bi-directional or [[discrete-producer-replication-sets|discrete replication]] sets by design.
+Seeding replicates existing records from the producer instance to the consumer instance. You can initiate seeding requests on a consumer instance while you are activating a consumer replication set. Seeding options are not available in bi-directional or discrete replication sets by design.
 
 You can select either full seeding or partial seeding.
 
@@ -39,7 +39,7 @@ The producer instance handles one seeding request at a time. When the producer i
 -   The maximum record size is 10 MB.
 -   The maximum seeding size is 3 million records.
 
-    **Note:** If your replication set contains more than 3 million records, seeding cannot start. To fix this situation, [[break|break]] the replication set into multiple replication sets with fewer records in each or use partial seeding.
+    **Note:** If your replication set contains more than 3 million records, seeding cannot start. To fix this situation, break the replication set into multiple replication sets with fewer records in each or use partial seeding.
 
 -   The maximum seeding time is 7 days.
 
@@ -91,8 +91,3 @@ If you encounter an error during seeding, see [Fix seeding errors](https://raw.g
 
 **Parent Topic:**[Replicating data with Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/replicating-data.md)
 
-## Related
-
-- [[instance-data-replication|Instance Data Replication]]
-- [[discrete-producer-replication-sets|Discrete replication]]
-- [[break|Break]]

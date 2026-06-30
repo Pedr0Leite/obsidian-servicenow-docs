@@ -14,11 +14,11 @@ breadcrumb: [Modeling your workflow, Explore, Telecommunications Network Invento
 
 # Network inventory models
 
-You define an inventory model in the [[telecom-network-inventory|Telecommunications Network Inventory]] application so that you can track the technical information from the manufacturer about a network asset such as the telco equipment or a network interface.
+You define an inventory model in the Telecommunications Network Inventory application so that you can track the technical information from the manufacturer about a network asset such as the telco equipment or a network interface.
 
 ## Inventory models overview
 
-A network inventory model contains the assets, services, and the relationships that define the infrastructure of your telecommunications networks. An inventory model contains the metadata for the name, number, dimensions, compatible interface cards, and configurations from the manufacturer. When you instantiate an inventory record by using the [[using-playbooks-design-assign-inventory-record|design and assign function]], your inventory record contains this standard manufacturer information. To learn more about how to create an inventory model record, see [Create inventory models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/creating-your-inventory-models.md).
+A network inventory model contains the assets, services, and the relationships that define the infrastructure of your telecommunications networks. An inventory model contains the metadata for the name, number, dimensions, compatible interface cards, and configurations from the manufacturer. When you instantiate an inventory record by using the design and assign function, your inventory record contains this standard manufacturer information. To learn more about how to create an inventory model record, see [Create inventory models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/creating-your-inventory-models.md).
 
 After you create the inventory models, you can then define the relationships between the various network model entities. You can also define the compatibility between these entities. To learn more about model relationships, see [Network model relationships](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/using-inventory-models-tni.md).
 
@@ -54,7 +54,7 @@ You can create the following types of inventory models:
 
 -   **Logical connection model**
 
-    A logical connection model captures the metadata for the [[design-logical-connection-design-assign-playbook|logical connections]]. To learn more, see [Create a logical connection model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-logical-connection-models.md).
+    A logical connection model captures the metadata for the logical connections. To learn more, see [Create a logical connection model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-logical-connection-models.md).
 
 -   **Cable model**
 
@@ -64,7 +64,7 @@ You can create the following types of inventory models:
 
     A strand model captures the metadata for the strand. To learn more, see [Create a strand model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-a-strand-model.md).
 
--   **[[using-network-topology|Network topology]] model**
+-   **Network topology model**
 
     A network topology model captures the metadata for the topology. To learn more, see [Create a network topology model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-network-topology-model.md).
 
@@ -185,13 +185,5 @@ To learn more about how to model your network inventory relationships, see [Mode
 
 ## Accessing Inventory Model forms
 
-You can access the [[tni-model-forms|inventory model forms]] in the Inventory Models node in the [[exploring-network-inventory-workspace|Network Inventory Workspace]] List view.
+You can access the inventory model forms in the Inventory Models node in the Network Inventory Workspace List view.
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[using-playbooks-design-assign-inventory-record|Design and Assign function]]
-- [[design-logical-connection-design-assign-playbook|Logical connections]]
-- [[using-network-topology|Network topology]]
-- [[tni-model-forms|Inventory Model forms]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]

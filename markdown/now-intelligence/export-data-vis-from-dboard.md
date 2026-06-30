@@ -19,8 +19,8 @@ As a viewer, download individual data visualizations from a dashboard or the Vis
 **Important:**
 
 -   The options to export data visualizations other than List to CSV or Excel are available only if you install the Data Visualizations Bundle version 6.2 or later from the ServiceNow® Store.
--   Indicator scorecards and [[c_CalendarReport|calendar reports]] cannot be downloaded from the visualization.
--   [[c_PivotTables|Pivot tables]] and single score data visualizations can only be downloaded as CSV or Excel \(.xls\) files.
+-   Indicator scorecards and calendar reports cannot be downloaded from the visualization.
+-   Pivot tables and single score data visualizations can only be downloaded as CSV or Excel \(.xls\) files.
 -   Boxplots can only be downloaded as JPEG or PNG files.
 -   List visualizations support several export formats but not graphic files.
 
@@ -28,7 +28,7 @@ Role required: Anyone viewing a data visualization can export that visualization
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Dashboards**.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Dashboards**.
 
 2.  Open the desired dashboard.
 
@@ -61,11 +61,5 @@ Role required: Anyone viewing a data visualization can export that visualization
 
 The file is saved to the download folder of your browser, unless you are emailing a list.
 
-**Parent Topic:**[[view-data-visualizations|View data visualizations]]
+**Parent Topic:**[View data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/view-data-visualizations.md)
 
-## Related
-
-- [[view-data-visualizations|View data visualizations]]
-- [[c_CalendarReport|Calendar reports]]
-- [[c_PivotTables|Pivot tables]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

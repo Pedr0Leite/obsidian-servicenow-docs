@@ -31,8 +31,5 @@ Role required: sn\_hco\_orc.loc\_support\_agent or sn\_hco\_orc.plan author
 
 ## What to do next
 
-[[ctwm-op-assigned-orgs|Input Assigned organizations details into the Operational Rounding playbook]]
+[Input Assigned organizations details into the Operational Rounding playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/ctwm-op-assigned-orgs.md)
 
-## Related
-
-- [[ctwm-op-assigned-orgs|Input Assigned organizations details into the Operational Rounding playbook]]

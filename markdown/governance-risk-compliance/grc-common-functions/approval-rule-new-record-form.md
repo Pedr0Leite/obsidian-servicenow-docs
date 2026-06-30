@@ -54,7 +54,7 @@ Source
 
 </td><td>
 
-Source table that the approval rule is applied to. Optionally, you can apply an additional condition on the source table. Select a field to filter the source records based on the **Applies to** table that is to be filled in the [[bcm-approval-configuration|approval configuration]].
+Source table that the approval rule is applied to. Optionally, you can apply an additional condition on the source table. Select a field to filter the source records based on the **Applies to** table that is to be filled in the approval configuration.
 
 </td></tr><tr><td>
 
@@ -83,7 +83,7 @@ Type of approvers for the policy. See the following options for approver types.-
 -   Dynamic approvers: Select approvers dynamically from the approver table by applying static and/or advanced dynamic conditions. You can select a user column, group column, or both from which to read the approver.
 -   Scripted approvers: Write a script to determine approvers. Variables **users** and **groups** are used in the script.
 
-**Note:** For security reasons, the Approver Configurator developers have read and write access to the **Script** field on the [[approval-rule-form|Approval Rule form]]. For more information on setting up the approval rules, see [Set up an approval rule for the approval level](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/set-up-approval-rules.md).
+**Note:** For security reasons, the Approver Configurator developers have read and write access to the **Script** field on the Approval Rule form. For more information on setting up the approval rules, see [Set up an approval rule for the approval level](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/set-up-approval-rules.md).
 
 
 </td></tr><tr><td>
@@ -153,7 +153,3 @@ When the Approver type is **Scripted approvers**, the approvers are as follows:-
 </td></tr></tbody>
 </table>**Parent Topic:**[Set up an approval rule for the approval level](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/set-up-approval-rules.md)
 
-## Related
-
-- [[bcm-approval-configuration|Approval configuration]]
-- [[approval-rule-form|Approval Rule form]]

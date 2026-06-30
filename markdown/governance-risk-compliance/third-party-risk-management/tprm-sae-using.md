@@ -14,7 +14,7 @@ breadcrumb: [Explore, Third-party Risk Management, Governance, Risk, and Complia
 
 # Smart assessments with Third-party Risk Management
 
-With the integration of [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] \(SAE\), TPRM now supports both the Classic assessment engine and SAE. You can create questionnaire templates and add instructions, questions, and reference information by creating templates using SAE in the Vendor Management Workspace.
+With the integration of Smart Assessment Engine \(SAE\), TPRM now supports both the Classic assessment engine and SAE. You can create questionnaire templates and add instructions, questions, and reference information by creating templates using SAE in the Vendor Management Workspace.
 
 ## SAE overview
 
@@ -38,7 +38,7 @@ The new assessment experience offers the following benefits.
 -   Standardized risk rating scale definition: Override the default risk rating scales at the template level for both internal and external assessments.
 -   Assessment duration: Define the duration of an assessment when creating a questionnaire template.
 -   Combine assessments: Respond to questionnaires by using the same SAE template in a single, streamlined view.
--   Risk scoring and [[score-normalization|score normalization]]: Standardize the risk scores for a consistent evaluation using the more flexible scoring settings available in SAE.
+-   Risk scoring and score normalization: Standardize the risk scores for a consistent evaluation using the more flexible scoring settings available in SAE.
 -   Support for the GRC and third-party portals: Internal assessment responders can use the GRC portal to access and complete internal assessments and external assessment responders can use third-party portal to complete external assessments.
 -   Question-level comments, worknotes, and flags are available in SAE assessments. Any user with read access to an assessment instance can add and view question-level comments. Worknotes and question flags require a role assigned at the template category level. TPRM reviewers, assessors, and managers have this access in all out-of-the-box TPRM template categories. Vendor contacts can view and respond to question-level comments but cannot access worknotes or set question flags.
 -   When a question triggers a skip, downstream conditional questions are hidden and sections containing only skipped questions are visually de-emphasized. Assessments render in a continuous scroll layout, making it easier to focus on relevant questions without scrolling past hidden content.
@@ -49,7 +49,7 @@ SAE templates in TPRM now support explicit versioning. Each version is a full co
 
 To create a new version of a template, use the **Create Version** action on the template record in the Vendor Management Workspace. Editing a published template in place is no longer supported — you must create a version instead. Template versions can also be deleted.
 
-For more information on [[template-versioning|template versioning]] in SAE, see [Template versioning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/template-versioning.md).
+For more information on template versioning in SAE, see [Template versioning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/template-versioning.md).
 
 Templates shipped through the Unified Content Management \(UCM\) module are also versioning-compatible. For more information about activating and updating templates through UCM, see [Activate or update Smart Assessment templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/activate_sae_ucm.md).
 
@@ -92,8 +92,3 @@ To learn more about configuring and using SAE with Third-party Risk Management, 
 -   [Scoring assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/scoring-in-assessments.md)
 -   [Normalization in assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/normalization-in-assessment.md)
 
-## Related
-
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]
-- [[score-normalization|Score normalization]]
-- [[template-versioning|Template versioning]]

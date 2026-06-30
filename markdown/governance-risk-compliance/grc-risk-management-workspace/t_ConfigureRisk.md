@@ -24,7 +24,7 @@ Role required: sn\_risk.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Risk** &gt; **[[Administration|Administration]]** &gt; **Properties**.
+1.  Navigate to **All** &gt; **Risk** &gt; **Administration** &gt; **Properties**.
 
 2.  Fill in the fields on the Risk Management Properties form.
 
@@ -40,6 +40,3 @@ Role required: sn\_risk.admin
 
 [Properties installed with Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/r_PropInstallWRisk.md)
 
-## Related
-
-- [[Administration|Administration]]

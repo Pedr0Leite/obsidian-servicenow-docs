@@ -12,7 +12,7 @@ breadcrumb: [Reference field type, Reference, Field administration, Forms, field
 
 # Auto-complete for reference fields
 
-By default, a [[reference-email-admin|reference]] field auto-completes as the user types in the field.
+By default, a reference field auto-completes as the user types in the field.
 
 Administrators can configure additional auto-complete options. A user must have table-level read permission on the referenced table for auto-complete to display any options.
 
@@ -75,7 +75,7 @@ Use these steps to define auto-complete attributes for all fields in a table tha
 
 ### Procedure
 
-1.  Navigate to a list of the target table, such as **All** &gt; **[[c_UserAdministration|User Administration]]** &gt; **Users**.
+1.  Navigate to a list of the target table, such as **All** &gt; **User Administration** &gt; **Users**.
 
 2.  Perform the appropriate action for your list version.
 
@@ -270,7 +270,3 @@ Use an asterisk in the reference field for wildcard searches.
 
 If two asterisks are entered, a list of available records display in the auto-complete suggestions.
 
-## Related
-
-- [[reference-email-admin|Reference]]
-- [[c_UserAdministration|User administration]]

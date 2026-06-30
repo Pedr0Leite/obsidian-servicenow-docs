@@ -14,7 +14,7 @@ breadcrumb: [Configure, CMDB Query Builder, Configuration Management Database \(
 
 # Configure the relationships to query on
 
-Configure the type of relationships that you want to query for in [[cmdb-query-builder-landing-page|CMDB Query Builder]]. For example, configure which CI on the canvas is the parent and which is the child in the relationship or the level of relationships to query on.
+Configure the type of relationships that you want to query for in CMDB Query Builder. For example, configure which CI on the canvas is the parent and which is the child in the relationship or the level of relationships to query on.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: cmdb\_query\_builder\_read
 
 ## About this task
 
-When you [[c_Connect|connect]] CI classes on the canvas, the CMDB Query Builder displays the Connection Properties in the right-side bar, where you can configure the properties of the relationship to query on. For Service Mapping queries, you can also configure whether to query for related or unrelated CIs.
+When you connect CI classes on the canvas, the CMDB Query Builder displays the Connection Properties in the right-side bar, where you can configure the properties of the relationship to query on. For Service Mapping queries, you can also configure whether to query for related or unrelated CIs.
 
 **Note:** Newly added relationships between CI classes might take up to 30 minutes to appear in the relationship list.
 
@@ -104,7 +104,7 @@ Select **Add a Related Item**
 
 </td><td>
 
-Query on related CIs using a field that the parent and ancestor parent CI classes use to [[reference|reference]] the child CI class.
+Query on related CIs using a field that the parent and ancestor parent CI classes use to reference the child CI class.
 
 </td></tr></tbody>
 </table>3.  Select **Save**.
@@ -115,8 +115,3 @@ Query on related CIs using a field that the parent and ancestor parent CI classe
 
 [CMDB groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-groups.md)
 
-## Related
-
-- [[cmdb-query-builder-landing-page|CMDB Query Builder]]
-- [[c_Connect|Connect]]
-- [[reference|Reference]]

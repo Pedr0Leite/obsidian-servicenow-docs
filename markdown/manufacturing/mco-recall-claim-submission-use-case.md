@@ -12,16 +12,16 @@ breadcrumb: [Recall campaign, MCO core, Explore, Manufacturing Commercial Operat
 
 # Recall claim submission use case
 
-Use case scenarios demonstrate when and how to use the [[mco-dealer-portal|Dealer portal]] application to submit a recall claim. It provides practical examples of common [[mco-recall-management|recall management]] situations.
+Use case scenarios demonstrate when and how to use the Dealer portal application to submit a recall claim. It provides practical examples of common recall management situations.
 
 ## Use case: Dealer recall claim submission
 
 Scenario
 
-James, a dealer service advisor at an Alectri dealership, performed a recall repair on a 2023 Alectri Voltar VS and needs to submit a recall related [[mco-use-repair-claim|repair claim]] for OEM reimbursement. Recall claim submissions face several challenges:
+James, a dealer service advisor at an Alectri dealership, performed a recall repair on a 2023 Alectri Voltar VS and needs to submit a recall related repair claim for OEM reimbursement. Recall claim submissions face several challenges:
 
 -   Manual entry creates delays and errors
--   Dealers spend time searching for applicable campaigns and [[mco-corrective-actions|corrective actions]]
+-   Dealers spend time searching for applicable campaigns and corrective actions
 -   Missing or incomplete corrective actions lead to claim rejections
 -   Unclear repair instructions and cost details cause confusion
 -   Limited visibility into claim status after submission
@@ -29,7 +29,7 @@ James, a dealer service advisor at an Alectri dealership, performed a recall rep
 
 Solution
 
-James uses the [[manufacturing-overview|Manufacturing Commercial Operations]] \(MCO\) Dealer Portal to submit a recall claim:
+James uses the Manufacturing Commercial Operations \(MCO\) Dealer Portal to submit a recall claim:
 
 1.  Selects the vehicle from auto-populated dealership assets and enters repair details
 2.  Launches guided job entry and selects Recall as the repair type
@@ -38,7 +38,7 @@ James uses the [[manufacturing-overview|Manufacturing Commercial Operations]] \(
 5.  Receives alerts for missing mandatory corrective actions and adds the required software update and recall part
 6.  Submits the complete claim and tracks status in real time, responding to OEM questions through the activity stream
 
-The [[mco-use-dealer-portal|Dealer management]] ensures completeness and compliance before submission.
+The [Dealer management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-use-dealer-portal.md) ensures completeness and compliance before submission.
 
 Benefits
 
@@ -53,11 +53,3 @@ Outcome
 
 James successfully submits a complete recall claim with all three required corrective actions for the 2023 Alectri Voltar VS. The guided experience with auto-population and mandatory validation reduces claim processing time and minimizes the risk of rejection, enabling faster OEM reimbursement.
 
-## Related
-
-- [[mco-use-dealer-portal|Dealer management]]
-- [[mco-dealer-portal|Dealer portal]]
-- [[mco-recall-management|Recall management]]
-- [[mco-use-repair-claim|Repair claim]]
-- [[mco-corrective-actions|Corrective actions]]
-- [[manufacturing-overview|Manufacturing Commercial Operations]]

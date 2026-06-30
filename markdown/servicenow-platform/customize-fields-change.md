@@ -36,8 +36,5 @@ Role required: oam\_admin
     \[Omitted image "oam-change2.png"\] Alt text: Change approval in Microsoft Outlook
 
 
-**Parent Topic:**[[customize-approval-message|Customize fields for the approval message]]
+**Parent Topic:**[Customize fields for the approval message](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/customize-approval-message.md)
 
-## Related
-
-- [[customize-approval-message|Customize fields for the approval message]]

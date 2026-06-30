@@ -14,7 +14,7 @@ breadcrumb: [Lifecycle Events evaluation interval, Configure a lifecycle event, 
 
 # Configure a Lifecycle Events trigger for activity sets
 
-Create triggers for [[activity-lxp|activity]] sets in [[hr-lifecycle-events-landing-page-1|Lifecycle Events]].
+Create triggers for activity sets in Lifecycle Events.
 
 ## Before you begin
 
@@ -44,7 +44,3 @@ Ensure that the activity sets you have defined for Lifecycle Events progress sea
 
 **Parent Topic:**[Lifecycle Events evaluation interval](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/le-evaluation-interval1.md)
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]

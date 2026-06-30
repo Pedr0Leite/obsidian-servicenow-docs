@@ -29,9 +29,9 @@ Role required: it\_demand\_user
 
 1.  Navigate to **All** &gt; **Demand** &gt; **Demands** &gt; **Create New**.
 
-    Alternatively, you can [[t_CreatingDemands|create a demand]] from **Self-Service** &gt; **Demands** &gt; **Create New**.
+    Alternatively, you can create a demand from **Self-Service** &gt; **Demands** &gt; **Create New**.
 
-2.  On the [[demand-form|Demand form]], fill in the **Name**, **Description**, and **Business case** fields.
+2.  On the Demand form, fill in the **Name**, **Description**, and **Business case** fields.
 
     For a description of the field names, see [Demand form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/demand-form.md).
 
@@ -76,7 +76,7 @@ View the full details of the identified similar demand records by selecting the 
 
 [Move and resize a demand]()
 
-[Train the similarity solution for [[c_DemandManagement|Demand Management]] to find similar demands]()
+[Train the similarity solution for Demand Management to find similar demands]()
 
 [PPM PIWB template - Find similar demands]()
 
@@ -84,8 +84,3 @@ View the full details of the identified similar demand records by selecting the 
 
 [Associate AI systems with demands]()
 
-## Related
-
-- [[t_CreatingDemands|Create a demand]]
-- [[demand-form|Demand form]]
-- [[c_DemandManagement|Demand Management]]

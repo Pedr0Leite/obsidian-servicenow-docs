@@ -18,7 +18,7 @@ This accelerator provides a demonstration of the possibilities and capabilities 
 
 ## Accelerator Overview
 
-Jumpstart Your Walk-Up Experience offers [[impact-landing-page|Impact]] customers a comprehensive overview and demonstration of the Walk-Up Experience. During this session, customers gain a clear understanding of setting up and operating Walk-Up centers, enabling users to seek in-person or remote IT assistance, report issues, and receive real-time guidance from IT experts. Additionally, this accelerator provides key resources and leading practice guides to enhance [[product-adoption|product adoption]] and usage.
+Jumpstart Your Walk-Up Experience offers Impact customers a comprehensive overview and demonstration of the Walk-Up Experience. During this session, customers gain a clear understanding of setting up and operating Walk-Up centers, enabling users to seek in-person or remote IT assistance, report issues, and receive real-time guidance from IT experts. Additionally, this accelerator provides key resources and leading practice guides to enhance product adoption and usage.
 
 ## Package Availability
 
@@ -35,7 +35,7 @@ Jumpstart Your Walk-Up Experience offers [[impact-landing-page|Impact]] customer
 
     -   Overview of the Walk-Up Experience and key features
     -   Knowledge on managing the Walk-Up Experience queue and interactions
-    -   Knowledge on monitoring the Walk-Up Experience [[instance-observer-performance|performance]]
+    -   Knowledge on monitoring the Walk-Up Experience performance
     -   Applied demonstrations of:
         -   End-user, Agent, and Admin experiences
         -   Walk-Up Experience Dashboard for managers
@@ -58,8 +58,3 @@ Jumpstart Your Walk-Up Experience offers [[impact-landing-page|Impact]] customer
 
 **Note:** Additional details on supplemental legal terms, prerequisites, specifications, requirements, and exclusions can be found in the [Impact Accelerator Terms Matrix](https://www.servicenow.com/legal/servicenow-impact.html).
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[product-adoption|Product Adoption]]
-- [[instance-observer-performance|Performance]]

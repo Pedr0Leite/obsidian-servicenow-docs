@@ -18,7 +18,7 @@ Consider these points while implementing the CSDM framework.
 
 ## Incident Management considerations
 
--   **Business [[dex-workspace-application-tab|applications]] are not referenced in [[c_IncidentManagement|Incident Management]]**
+-   **Business applications are not referenced in Incident Management**
 
     Business applications are portfolio objects used for designing and planning your enterprise architecture. Business applications don't contain attribute-level details such as version, environment, and localization \(for any deployments using one or more applications\).
 
@@ -37,7 +37,3 @@ Consider these points while implementing the CSDM framework.
 
 **Parent Topic:**[Applying CSDM guidelines to Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/itsm-incident-use-case-product-view.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[c_IncidentManagement|Incident Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Moderate gamification, Gamification, Using communities, Communities
 
 # Award or remove points for a community user
 
-Award [[gamification-components-points|points]] to a user to recognize their contributions to the community. Remove points for a user if you observe that they are cheating the [[communities-gamification|gamification]] system.
+Award points to a user to recognize their contributions to the community. Remove points for a user if you observe that they are cheating the gamification system.
 
 ## Before you begin
 
@@ -45,7 +45,3 @@ Role required: sn\_gamification.moderator
 
 **Parent Topic:**[Moderate gamification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/communities-gamification-moderate.md)
 
-## Related
-
-- [[gamification-components-points|Points]]
-- [[communities-gamification|Gamification]]

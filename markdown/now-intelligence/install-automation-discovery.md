@@ -12,7 +12,7 @@ breadcrumb: [Automation Discovery, Platform Analytics]
 
 # Install Automation Discovery
 
-You can install the [[automation-discovery|Automation Discovery]] application \(sn\_auto\_discovery\) using the admin role. The application activates related plugins if they are not already activated.
+You can install the Automation Discovery application \(sn\_auto\_discovery\) using the admin role. The application activates related plugins if they are not already activated.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: admin
 
 The following items are installed with Automation Discovery: plugins, roles, and tables.
 
-For more information, see [[installed-with-automation-discovery|Components installed with Automation Discovery]].
+For more information, see [Components installed with Automation Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/installed-with-automation-discovery.md).
 
 ## Procedure
 
@@ -53,7 +53,3 @@ Confirm that the activation of Predictive Intelligence has successfully installe
 
 For more information see [Install Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-predictive-intelligence.md) or article [KB1641602](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1641602) on the Now Support Knowledge Base.
 
-## Related
-
-- [[installed-with-automation-discovery|Components installed with Automation Discovery]]
-- [[automation-discovery|Automation Discovery]]

@@ -12,7 +12,7 @@ breadcrumb: [Next Experience All Menu Editing, Configure, Next Experience UI, Co
 
 # Create a List Module
 
-Create custom [[lists-configurable-workspace|lists]] for the All menu using the Next Experience All Menu Editing.
+Create custom lists for the All menu using the Next Experience All Menu Editing.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-Use list modules to provide quick access to pre-filled data, eliminating the need for your users to manually navigate and create their own list [[c_Filters|filters]]. This improves productivity by reducing clicks and ensuring everyone sees consistent, standardized views of records.
+Use list modules to provide quick access to pre-filled data, eliminating the need for your users to manually navigate and create their own list filters. This improves productivity by reducing clicks and ensuring everyone sees consistent, standardized views of records.
 
 ## Procedure
 
@@ -62,10 +62,5 @@ Use list modules to provide quick access to pre-filled data, eliminating the nee
     \[Omitted image "neame-open-list-module.png"\] Alt text: Arrow pointing the open module icon in the header.
 
 
-**Parent Topic:**[[next-experience-all-menu-editing|Next Experience All Menu Editing]]
+**Parent Topic:**[Next Experience All Menu Editing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-all-menu-editing.md)
 
-## Related
-
-- [[next-experience-all-menu-editing|Next Experience All Menu Editing]]
-- [[lists-configurable-workspace|Lists]]
-- [[c_Filters|Filters]]

@@ -14,7 +14,7 @@ breadcrumb: [Conversational Integration with WhatsApp \(powered by Twilio\), Int
 
 # Configure Conversational Integration with WhatsApp \(powered by Twilio\)
 
-Install and set up the [[messg-whatsapp-twilio|Conversational Integration with WhatsApp \(powered by Twilio\)]] application to enable requesters to interact with virtual and live agents.
+Install and set up the Conversational Integration with WhatsApp \(powered by Twilio\) application to enable requesters to interact with virtual and live agents.
 
 ## Before you begin
 
@@ -36,6 +36,4 @@ This task provides the general steps to integrate the WhatsApp messaging app wit
 
 5.  [Integrate WhatsApp with other ServiceNow applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-whatsapp-integrating-apps.md).
 
-## Related
 
-- [[messg-whatsapp-twilio|Conversational Integration with WhatsApp \(powered by Twilio\)]]

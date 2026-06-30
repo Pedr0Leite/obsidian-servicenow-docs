@@ -64,7 +64,7 @@ Select Box
 
 </td></tr><tr><td>
 
-[[email|Email]]
+Email
 
 </td><td>
 
@@ -177,6 +177,3 @@ Single line text
 </td></tr></tbody>
 </table>**Note:** You cannot delete the default registration form fields.
 
-## Related
-
-- [[email|Email]]

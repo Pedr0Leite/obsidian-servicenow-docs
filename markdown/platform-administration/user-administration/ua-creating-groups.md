@@ -19,14 +19,9 @@ Admins can add users to one or more groups.
 -   **[Create a user group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_CreateAGroup.md)**  
 Create groups and assign roles to them. Users assigned to the group inherit the roles.
 -   **[Add a user to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_AddAUserToAGroup.md)**  
-[[t_AddAUserToAGroup|Add a user to a group]] so that the user inherits all the roles assigned to the group.
+Add a user to a group so that the user inherits all the roles assigned to the group.
 -   **[Configure assignment group types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/c_ConfigGroupTypesForAssignGroups.md)**  
-Use the **Type** field to define categories of groups. Once defined, you can use these categories to filter assignment groups based on the group type using a [[reference-email-admin|reference]] qualifier.
+Use the **Type** field to define categories of groups. Once defined, you can use these categories to filter assignment groups based on the group type using a reference qualifier.
 
-**Parent Topic:**[[config-now-platform-core-features|Configure ServiceNow AI Platform core features]]
+**Parent Topic:**[Configure ServiceNow AI Platform core features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/config-now-platform-core-features.md)
 
-## Related
-
-- [[config-now-platform-core-features|Configure ServiceNow AI Platform core features]]
-- [[t_AddAUserToAGroup|Add a user to a group]]
-- [[reference-email-admin|Reference]]

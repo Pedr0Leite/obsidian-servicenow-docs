@@ -14,7 +14,7 @@ breadcrumb: [Security Incident Response, Enterprise security case management app
 
 # Security Incident Response setup
 
-Setup for [[sir-landing-page|Security Incident Response]] involves some mandatory steps and several optional steps, depending on your specific requirements. After you have downloaded Security Incident Response from the ServiceNow Store and installed it, you are ready to run the Setup Assistant to perform basic configuration for Security Incident Response and third-party integrations.
+Setup for Security Incident Response involves some mandatory steps and several optional steps, depending on your specific requirements. After you have downloaded Security Incident Response from the ServiceNow Store and installed it, you are ready to run the Setup Assistant to perform basic configuration for Security Incident Response and third-party integrations.
 
 ## The Security Incident Response setup process
 
@@ -40,9 +40,5 @@ The setup steps are fairly self-explanatory; however, if you require additional 
 -   Setting up manual and auto-assignment
 -   Enabling the knowledge base, managed documents, and task activities
 
-A new and improved [[sir-workspace-landing-page|Security Incident Response Workspace]] is available. For more information, see [Security Incident Response Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/sir-workspace-landing-page.md).
+A new and improved Security Incident Response Workspace is available. For more information, see [Security Incident Response Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/sir-workspace-landing-page.md).
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]

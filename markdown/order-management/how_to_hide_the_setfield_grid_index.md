@@ -14,7 +14,7 @@ breadcrumb: [Configure sets, CPQ app, Configure, price, quote apps, Configure, S
 
 You can hide the index column in a set grid or a field grid.
 
-By default, the index column is displayed in a set grid or a field grid. This index column can be hidden in two ways: by using the [[layout_wizard|layout wizard]] or by modifying the layout CSV file.
+By default, the index column is displayed in a set grid or a field grid. This index column can be hidden in two ways: by using the layout wizard or by modifying the layout CSV file.
 
 \[Omitted image "cpq-index-column.png"\] Alt text: Combo options
 
@@ -34,7 +34,7 @@ The examples below illustrate the CSV files for a field grid and for a set. In b
 
 ## Field grid CSV file
 
-\[Omitted image "cpq-index-hiding-with-csv-[[cpq-sets|sets]].png"\] Alt text: CSV file
+\[Omitted image "cpq-index-hiding-with-csv-sets.png"\] Alt text: CSV file
 
 [Link](https://docs.google.com/spreadsheets/d/13tWln8PHc6ITf8_gheuML_CCO-IuFLIps8-jOZNIsPw/edit?usp=sharing) to CSV example
 
@@ -47,10 +47,5 @@ The examples below illustrate the CSV files for a field grid and for a set. In b
 **Related topics**  
 
 
-[[how_to_alterhide_the_size_and_change_size_field_for_a_set|Modifying the Size and Change Size fields for a set]]
+[Modifying the Size and Change Size fields for a set](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/how_to_alterhide_the_size_and_change_size_field_for_a_set.md)
 
-## Related
-
-- [[how_to_alterhide_the_size_and_change_size_field_for_a_set|Modifying the Size and Change Size fields for a set]]
-- [[layout_wizard|Layout Wizard]]
-- [[cpq-sets|Sets]]

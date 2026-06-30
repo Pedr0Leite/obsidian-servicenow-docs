@@ -20,7 +20,7 @@ Role required: sn\_oper\_res.manager, action task owner
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[grc-opres-landing-page|Operational Resilience]] Workspace** &gt; **All Operational Vulnerabilities**.
+1.  Navigate to **Workspaces** &gt; **Operational Resilience Workspace** &gt; **All Operational Vulnerabilities**.
 
 2.  In the Tasks page, select **My items** and open the action task listed in **Vulnerability action tasks**.
 
@@ -42,9 +42,6 @@ Role required: sn\_oper\_res.manager, action task owner
 
     The **Accept work** UI action on the action task form changes to **Take assessment** UI action.
 
-    The subsequent step requires the task owner to [[complete-assmt-on-action-task|perform an assessment on the action task]] by reviewing its assessment details. The vulnerability record is in the **Assessment** state.
+    The subsequent step requires the task owner to perform an assessment on the action task by reviewing its assessment details. The vulnerability record is in the **Assessment** state.
 
-## Related
 
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[complete-assmt-on-action-task|Perform an assessment on the action task]]

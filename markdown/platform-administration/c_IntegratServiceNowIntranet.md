@@ -16,8 +16,5 @@ You can add a ServiceNow login link to your intranet.
 
 To deliver ServiceNow content from a web page, see [Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_ServicePortal.md).
 
-**Parent Topic:**[[r_SupportedIntegrationInterfaces|Supported integration interfaces]]
+**Parent Topic:**[Supported integration interfaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_SupportedIntegrationInterfaces.md)
 
-## Related
-
-- [[r_SupportedIntegrationInterfaces|Supported integration interfaces]]

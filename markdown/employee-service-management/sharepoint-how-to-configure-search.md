@@ -12,7 +12,7 @@ breadcrumb: [SharePoint Online Search Connector, Employee Service Management]
 
 # Index sites for search
 
-Configure the [[sharepoint-search-overview|SharePoint Online Search Connector]] to crawl the content from the eligible sites, subsites, drives, and more.
+Configure the SharePoint Online Search Connector to crawl the content from the eligible sites, subsites, drives, and more.
 
 ## Before you begin
 
@@ -64,7 +64,7 @@ Site URL Path
 
 Value of the relative URL of the Microsoft SharePoint site for indexing. For example, if your site URL is [https://sncplatform.sharepoint.com/Company/Medicalbenefits](https://sncplatform.sharepoint.com/Company/Hr), the relative URL of the site is `Company/Medicalbenefits`. **Note:** This URL is case-sensitive.
 
-Subsites are automatically indexed. See [[using-search|SharePoint Online Search Connector search results]].
+Subsites are automatically indexed. See [SharePoint Online Search Connector search results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/using-search.md).
 
 </td></tr><tr><td>
 
@@ -129,23 +129,16 @@ List of URLs that are excluded from indexing. These URLs are not indexed by the 
     |State|Overall crawl status.|
     |Marked for deletion|Value is **False** to keep the subsite. Value is **True** to delete the subsite.|
 
-    To know more about how to exclude sites, see [[how-to-exclude-sites-indexing|Exclude sites from indexing]].
+    To know more about how to exclude sites, see [Exclude sites from indexing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/how-to-exclude-sites-indexing.md).
 
 
 ## Result
 
 The sites, subsites, folders, and files are indexed and displayed in your search results. Use filters to verify the progress and manage the indexing status by navigating to **SharePoint Online Search Connector** &gt; **SharePoint Sites**.
 
-After site indexing is complete, you can search and [[discover-lxp|discover]] the site content from multiple channels, like Employee Service Center, Service Portal, [[mobile-employee-experience|Now Mobile app]], and Virtual Agent. For more information, see [SharePoint Online Search Connector search results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/using-search.md).
+After site indexing is complete, you can search and discover the site content from multiple channels, like Employee Service Center, Service Portal, Now Mobile app, and Virtual Agent. For more information, see [SharePoint Online Search Connector search results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/using-search.md).
 
 ## What to do next
 
 **Remove Index**: Select the indexed site and click Remove Index to remove the site from indexing. On success, all the sites, drivers, and files are removed from the respective tables and the connector is updated to read only with the Deleted status.
 
-## Related
-
-- [[using-search|SharePoint Online Search Connector search results]]
-- [[how-to-exclude-sites-indexing|Exclude sites from indexing]]
-- [[sharepoint-search-overview|SharePoint Online Search Connector]]
-- [[discover-lxp|Discover]]
-- [[mobile-employee-experience|Now Mobile app]]

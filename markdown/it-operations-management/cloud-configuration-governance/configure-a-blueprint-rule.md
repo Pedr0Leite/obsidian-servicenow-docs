@@ -14,7 +14,7 @@ breadcrumb: [Build a Cloud Provisioning blueprint, Cloud Provisioning Blueprints
 
 # Configure a blueprint rule
 
-Configure a rule that contains actions the system can take on [[blueprint-attributes|blueprint attributes]].
+Configure a rule that contains actions the system can take on blueprint attributes.
 
 ## Before you begin
 
@@ -275,6 +275,3 @@ This example action applies to the [blueprint rule example](https://raw.githubus
 
 [Publish a blueprint as a cloud catalog item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/catalog-item-from-blueprint-cmp.md).
 
-## Related
-
-- [[blueprint-attributes|Blueprint attributes]]

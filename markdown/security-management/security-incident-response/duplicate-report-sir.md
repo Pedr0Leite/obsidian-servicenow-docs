@@ -14,7 +14,7 @@ breadcrumb: [Configure report templates in Security Incident Response, Configure
 
 # Duplicate a report template in Security Incident Response
 
-[[tisc-duplicate-template|Duplicate a report template]] to edit or reuse an existing template to create a new template.
+Duplicate a report template to edit or reuse an existing template to create a new template.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: sn\_si.admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sir-landing-page|Security Incident Response]] Workspaces** &gt; **Administration**.
+1.  Navigate to **Workspaces** &gt; **Security Incident Response Workspaces** &gt; **Administration**.
 
 2.  Select **Reports**, and then **Report Templates**.
 
@@ -47,7 +47,3 @@ The contents of the selected template are duplicated and copy of the selected te
 
 **Parent Topic:**[Configure report templates in Security Incident Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/daily-status-sir.md)
 
-## Related
-
-- [[tisc-duplicate-template|Duplicate a Report Template]]
-- [[sir-landing-page|Security Incident Response]]

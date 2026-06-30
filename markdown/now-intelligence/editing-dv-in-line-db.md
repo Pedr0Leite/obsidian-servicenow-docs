@@ -14,14 +14,14 @@ breadcrumb: [Share, edit, or delete, Data visualizations, Platform Analytics exp
 
 You can create and edit a data visualization from within the inline dashboard editor. Not all the options are the same as in the Visualization Designer. You can move between the inline editor and the Visualization Designer.
 
-You can add a data visualization to a dashboard through the **Add new element** menu, as described in [[edit-db-elements-in-ac|Edit in-line Platform Analytics dashboard elements]]. You can edit a visualization in the dashboard by putting the dashboard in edit mode and selecting the visualization. However, some of the behavior may differ:
+You can add a data visualization to a dashboard through the **Add new element** menu, as described in [Edit in-line Platform Analytics dashboard elements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/edit-db-elements-in-ac.md). You can edit a visualization in the dashboard by putting the dashboard in edit mode and selecting the visualization. However, some of the behavior may differ:
 
 -   If the visualization is in the library and you own it, you need the itil, report\_user, or viz\_creator role to edit it. When you save your edit, you have the option to save the visualization in the library, which affects all dashboards that show the visualization, or to save a local copy only for the dashboard.
 -   If the visualization is in the library and you do not own it, you need the viz\_admin or admin role to edit it. When you save your edit, you have the option to save the visualization in the library, which affects all dashboards that show the visualization, or to save a local copy.
--   If the visualization is in the library and you don't have the necessary roles to edit it, you can "unlink" the visualization by creating a local copy, which you can edit. For more information, see [[editing-local-copy-saved-dv|Edit a copy of a shared dashboard element]].
+-   If the visualization is in the library and you don't have the necessary roles to edit it, you can "unlink" the visualization by creating a local copy, which you can edit. For more information, see [Edit a copy of a shared dashboard element](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/editing-local-copy-saved-dv.md).
 -   Some options may differ between the inline editor and the Visualization Designer. For example, in the chart interactions, you configure a data visualization to drill down to another visualization only in the Visualization Designer.
 
-**Important:** You cannot place Core UI reports or [[c_Widgets|Performance Analytics widgets]] on a [[c_performanceAnalyticsAndReporting|Platform Analytics]] dashboard. Add data visualizations instead.
+**Important:** You cannot place Core UI reports or Performance Analytics widgets on a Platform Analytics dashboard. Add data visualizations instead.
 
 The **Actions** menu on the visualization itself provides options for changing the editor. You can also select to **Resize**, **Configure**, **Duplicate** , or **Delete** the visualization from the dashboard. If you have the viz\_admin role or higher, you can also view the visualization's PAR Dashboard Widget \[par\_dashboard\_widget\] record.
 
@@ -31,19 +31,10 @@ The **Actions** menu on the visualization itself provides options for changing t
 
 ## Other topics
 
--   **[[add-db-data-viz-to-library|Add a dashboard data visualization to the library]]**  
+-   **[Add a dashboard data visualization to the library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/add-db-data-viz-to-library.md)**  
 To make a data visualization on a dashboard reusable, or to be able to edit it in the Visualization Designer, add it to the data visualization library.
--   **[[open-dv-on-db-in-vd|Open a visualization in the Visualization Designer from a dashboard]]**  
+-   **[Open a visualization in the Visualization Designer from a dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/open-dv-on-db-in-vd.md)**  
 From the dashboard editor, open a data visualization in the Visualization Designer. You have a different set of options.
 
-**Parent Topic:**[[common-dv-tasks|Common data visualization tasks]]
+**Parent Topic:**[Common data visualization tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/common-dv-tasks.md)
 
-## Related
-
-- [[edit-db-elements-in-ac|Edit in-line Platform Analytics dashboard elements]]
-- [[editing-local-copy-saved-dv|Edit a copy of a shared dashboard element]]
-- [[add-db-data-viz-to-library|Add a dashboard data visualization to the library]]
-- [[open-dv-on-db-in-vd|Open a visualization in the Visualization Designer from a dashboard]]
-- [[common-dv-tasks|Common data visualization tasks]]
-- [[c_Widgets|Performance Analytics widgets]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

@@ -14,7 +14,7 @@ breadcrumb: [Resource assignments in Project Workspace, Resource planning with P
 
 # Extend a resource assignment
 
-Extend the date of an allocated resource assignment and [[allocate-resources-for-extended-period|allocate resources for the extended period]].
+Extend the date of an allocated resource assignment and allocate resources for the extended period.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ For example, assume that you allocated 100 hours for 2 months, 50 hours for each
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[project-workspace-landing-page|Project Workspace]]** and open a project.
+1.  Navigate to **Workspaces** &gt; **Project Workspace** and open a project.
 
 2.  Extend the resource assignment using one of the following options.
 
@@ -53,7 +53,7 @@ Procedure
 
 </td></tr><tr><td id="d283349e127">
 
-**From [[pw-resource-assignment-form|resource assignment form]]**
+**From resource assignment form**
 
 </td><td>
 
@@ -89,8 +89,3 @@ Procedure
 
 [Realign resource assignments with project dates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/realign-resource-assignment-to-task.md)
 
-## Related
-
-- [[allocate-resources-for-extended-period|Allocate resources for the extended period]]
-- [[project-workspace-landing-page|Project Workspace]]
-- [[pw-resource-assignment-form|Resource assignment form]]

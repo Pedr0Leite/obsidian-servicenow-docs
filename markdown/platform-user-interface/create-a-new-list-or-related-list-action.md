@@ -40,7 +40,7 @@ Role required: admin
         -   Select **Server Script** to apply the action to the server or database as JavaScript.
         -   Select **UXF Client Action** to apply the action as a UI Builder page event.
         -   Select **Client Script** to apply the action to the web browser as JavaScript.
-        -   Select **UI interaction** to apply the action as reusable logic and UI elements. For configuration instructions, see [[configure-da-ui-interactions|Trigger a UI interaction from a declarative action]].
+        -   Select **UI interaction** to apply the action as reusable logic and UI elements. For configuration instructions, see [Trigger a UI interaction from a declarative action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-da-ui-interactions.md).
     -   **Table**
 
         Select a table for the action button to appear on.
@@ -58,18 +58,14 @@ The list or related list action button appears within the workspace you specifie
 
 ## What to do next
 
-[[configure-onboarding-modals|Configure]] a button to apply an action in the following ways:
+Configure a button to apply an action in the following ways:
 
 -   **[Trigger a UI interaction from a declarative action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-da-ui-interactions.md)**
 
     Trigger a UI interaction from a declarative action to extend a page without taking ownership.
 
--   **[[disable-list-actions-based-on-dynamic-conditions|Configure dynamic conditions for a list action]]**
+-   **[Configure dynamic conditions for a list action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/disable-list-actions-based-on-dynamic-conditions.md)**
 
     Configure a list or related list action to perform an action only when it satisfies dynamic conditions.
 
-## Related
 
-- [[configure-da-ui-interactions|Trigger a UI interaction from a declarative action]]
-- [[disable-list-actions-based-on-dynamic-conditions|Configure dynamic conditions for a list action]]
-- [[configure-onboarding-modals|Configure]]

@@ -25,11 +25,11 @@ Role required: sn\_itsm\_chg\_admin.cab\_config
 
 1.  From the header of your ServiceNow instance, navigate to **All** &gt; **Admin Home**.
 
-2.  From the **Manage your products** section, select **View product overview** for [[r_ITServiceManagement|IT Service Management]].
+2.  From the **Manage your products** section, select **View product overview** for IT Service Management.
 
 3.  On the Product Hub page for IT Service Management, from the Configure your product section, select **Configure**.
 
-4.  On the Configuration Console, from the left navigation panel, select **ITSM fulfiller experience &gt; [[c_ITILChangeManagement|Change Management]] &gt; Change Advisory Board \(CAB\)**. \[Omitted image "simplified-change-cab.png"\] Alt text: CAB configuration page
+4.  On the Configuration Console, from the left navigation panel, select **ITSM fulfiller experience &gt; Change Management &gt; Change Advisory Board \(CAB\)**. \[Omitted image "simplified-change-cab.png"\] Alt text: CAB configuration page
 
 5.  In the Who should be on your Change Advisory Board \(CAB\)? section, add members to the CAB in the **CAB members** field.
 
@@ -69,7 +69,7 @@ Role required: sn\_itsm\_chg\_admin.cab\_config
 
     At least one condition is required before this CAB can go live. Start with conditions based on fields such as **Risk**, **Type**, or **Priority**. Changes matching these criteria are automatically added to the next CAB meeting agenda.
 
-9.  When you have finished configuring, select **Mark as configured** to save your [[settings-mobile|settings]] and mark this step as complete.
+9.  When you have finished configuring, select **Mark as configured** to save your settings and mark this step as complete.
 
     To revert changes made in the current session before saving, select **Undo**.
 
@@ -80,16 +80,10 @@ Role required: sn\_itsm\_chg\_admin.cab\_config
 
 The CAB is configured with members, a manager, a recurring meeting schedule, and change routing conditions. The CAB Setup step is marked as complete, and your configured groups are available for selection in the per-risk approval policy configuration step.
 
-**Parent Topic:**[[configuring-change-management-experience-in-it-service-management|Configuring Simplified Change Management]]
+**Parent Topic:**[Configuring Simplified Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/configuring-change-management-experience-in-it-service-management.md)
 
 **Related topics**  
 
 
 [Create a CAB definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/define-your-cab.md)
 
-## Related
-
-- [[configuring-change-management-experience-in-it-service-management|Configuring Simplified Change Management]]
-- [[r_ITServiceManagement|IT Service Management]]
-- [[c_ITILChangeManagement|Change Management]]
-- [[settings-mobile|Settings]]

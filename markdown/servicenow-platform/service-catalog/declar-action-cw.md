@@ -14,14 +14,14 @@ breadcrumb: [Creating a Service Catalog Wizard, Service Catalog, Manage service 
 
 # Create declarative actions for Service Catalog Wizards
 
-Create and configure declarative actions to enable administrators to configure buttons \(wizard actions\) in [[service-catalog|Service Catalog]] Wizards.
+Create and configure declarative actions to enable administrators to configure buttons \(wizard actions\) in Service Catalog Wizards.
 
 ## Before you begin
 
 There are two types of declarative actions for catalog wizards:
 
 -   UXF Client Action: Create declarative actions and map an action to a UIB page level event handler. Use this if you need to handle events at the UIB level such as opening a dialog box, or opening another catalog wizard, and so on.
--   Client Script: Use a client script that executes on a button click. Use this if you need to manipulate g\_form fields of the composite [[c_RecordProducer|record producer]] that are linked to the catalog wizard.
+-   Client Script: Use a client script that executes on a button click. Use this if you need to manipulate g\_form fields of the composite record producer that are linked to the catalog wizard.
 
 The Catalog Wizard model is the declarative action model for catalog wizard which has the model fields that define the properties of the wizard. Use these fields to define what the payload can contain \(for UXF Client Action type\), or define conditions for button display on the wizard. Every wizard must use the Catalog Wizard model to create declarative actions.
 
@@ -57,7 +57,7 @@ Role required: wizard\_admin, admin
     |**Target Record Data**|Not Applicable \(this field is no used\).|
     |**Record Id**|Sys\_id of the record being created or edited by the wizard.|
 
-4.  Click the **Action [[label|label]]** link for an action \(such as Insert, or Delete\). \[Omitted image "catwiz-da-clientscript.png"\] Alt text: Creating a declarative action
+4.  Click the **Action label** link for an action \(such as Insert, or Delete\). \[Omitted image "catwiz-da-clientscript.png"\] Alt text: Creating a declarative action
 
 <table id="table_ics_3pj_gwb"><thead><tr><th>
 
@@ -256,8 +256,3 @@ The button type specified by the declarative action is overridden.
 
 **Parent Topic:**[Creating a Service Catalog Wizard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/catalog-wizard.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[c_RecordProducer|Record Producer]]
-- [[label|Label]]

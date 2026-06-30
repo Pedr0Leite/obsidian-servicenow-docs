@@ -14,7 +14,7 @@ breadcrumb: [Now Assist in Virtual Agent, Conversational Interfaces]
 
 # Analyzing assistants
 
-Monitor, evaluate, and optimize the performance of your AI-powered assistants from the Analytics tab of the [[assistant-designer|Assistant Designer]].
+Monitor, evaluate, and optimize the performance of your AI-powered assistants from the Analytics tab of the Assistant Designer.
 
 ## Assistant analytics overview
 
@@ -36,6 +36,3 @@ Assistant analytics dashboard helps you in the following ways.
 
 See [Assistant analytics dashboard indicator details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/assistant-analytics-dashboard-indicator-details.md) for information on the indicators and calculations behind the metrics.
 
-## Related
-
-- [[assistant-designer|Assistant Designer]]

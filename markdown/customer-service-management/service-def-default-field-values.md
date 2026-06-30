@@ -24,7 +24,7 @@ The target table for a service definition is stored in the **Table** field. The 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Customer Service** &gt; **Administration** &gt; **[[csm-service-definitions|Service Definitions]]**.
+1.  Navigate to **All** &gt; **Customer Service** &gt; **Administration** &gt; **Service Definitions**.
 
 2.  Select a service definition.
 
@@ -36,6 +36,4 @@ The target table for a service definition is stored in the **Table** field. The 
 
 5.  When you are finished selecting fields and values, select **Update**.
 
-## Related
 
-- [[csm-service-definitions|Service definitions]]

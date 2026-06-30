@@ -24,7 +24,7 @@ Role required: sales territory admin, sales territory manager
 
 2.  Select  **New**.
 
-3.  On the form, fill in the [[fields|fields]]:
+3.  On the form, fill in the fields:
 
 <table id="table_sy4_sfq_chc"><thead><tr><th>
 
@@ -106,7 +106,7 @@ Cascade condition
 
 </td><td>
 
-Used during assignment [[rules_101|rules]], this flag indicates whether the parent territory conditions must be evaluated for all the child territories \(under its hierarchy\).
+Used during assignment rules, this flag indicates whether the parent territory conditions must be evaluated for all the child territories \(under its hierarchy\).
 
 </td></tr></tbody>
 </table>4.  Select **Submit**.
@@ -117,13 +117,7 @@ Used during assignment [[rules_101|rules]], this flag indicates whether the pare
 **Related topics**  
 
 
-[[use-sales-territory-management|Using Sales Territory Management​]]
+[Using Sales Territory Management​](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/use-sales-territory-management.md)
 
-[[explore-sales-territory-management|Sales Territory Management​]]
+[Sales Territory Management​](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-sales-territory-management.md)
 
-## Related
-
-- [[use-sales-territory-management|Using Sales Territory Management​]]
-- [[explore-sales-territory-management|Sales Territory Management​]]
-- [[fields|Fields]]
-- [[rules_101|Rules]]

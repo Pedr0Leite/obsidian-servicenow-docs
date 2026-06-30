@@ -15,7 +15,7 @@ breadcrumb: [Dropbox external content connector, Configure, External Content Con
 
 # Configure Dropbox for external content indexing
 
-Create and authorize an OAuth 2.0 application in the Dropbox App Console to allow the [[dropbox-external-content-connector|Dropbox external content connector]] to access your Dropbox source system.
+Create and authorize an OAuth 2.0 application in the Dropbox App Console to allow the Dropbox external content connector to access your Dropbox source system.
 
 ## Before you begin
 
@@ -108,6 +108,3 @@ For details on creating and configuring a Dropbox external content connector, se
 
 **Parent Topic:**[Dropbox external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/dropbox-external-content-connector.md)
 
-## Related
-
-- [[dropbox-external-content-connector|Dropbox external content connector]]

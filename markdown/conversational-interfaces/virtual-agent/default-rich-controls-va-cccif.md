@@ -16,7 +16,7 @@ breadcrumb: [Conversational custom chat integrations, Integrate VA with other ch
 
 Input and output rich controls must be mapped to your custom chat integration in the Custom Adapter Configurations \[sys\_cs\_custom\_adapter\_config\] table. If a rich control is missing an outbound transformer implementation, a response is not served to the end user and that user may get an unsatisfactory chat experience.
 
-The following default rich controls map to input and output rich controls. The **uiType** parameter refers to a topic control used to build conversations in [[virtual-agent-landing-page|Virtual Agent]] Designer.
+The following default rich controls map to input and output rich controls. The **uiType** parameter refers to a topic control used to build conversations in Virtual Agent Designer.
 
 <table id="table_rqm_lvn_qmb"><thead><tr><th>
 
@@ -325,6 +325,3 @@ Maps to [custom controls](https://raw.githubusercontent.com/ServiceNow/ServiceNo
 </td></tr></tbody>
 </table>**Parent Topic:**[Creating conversational custom chat integrations in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-custom-adapter-framework.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

@@ -26,7 +26,7 @@ Next, users log their cybersecurity activities. The activities require users to 
 
 As the activities are created, users then determine the implementation state of these activities.
 
-Next, users [[perform-gap-analysis|perform gap analysis]] on the cybersecurity activities. The analysis gives a detailed insight into the security position and evaluates the target for a specific cybersecurity activity.
+Next, users perform gap analysis on the cybersecurity activities. The analysis gives a detailed insight into the security position and evaluates the target for a specific cybersecurity activity.
 
 The ServiceNow® GRC suite of applications play a crucial role in tracking the data that enables these metrics. The NIST CSF application is designed to provide the Cybersecurity framework, but it is completely enabled by the ServiceNow® GRC product.
 
@@ -45,6 +45,3 @@ Review the remediation tasks created for the controls or risks associated with c
 
 **Parent Topic:**[NIST CSF process overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/nist-csf-process.md)
 
-## Related
-
-- [[perform-gap-analysis|Perform gap analysis]]

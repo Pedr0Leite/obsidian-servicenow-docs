@@ -14,7 +14,7 @@ breadcrumb: [Internationalization support, Administer, AI Search, Search adminis
 
 # Language filtering for external content
 
-[[ia-ai-search|AI Search]] filters search [[hs-results|results]] from [[ext-cont-connectors-landing-page|external content connectors]], showing only results in the user's session language, fallback language, and global fallback locale language.
+AI Search filters search results from external content connectors, showing only results in the user's session language, fallback language, and global fallback locale language.
 
 When you have the External Content Connectors application installed, AI Search applies language-based filtering to search results retrieved by your external content connectors. For an external content search result to be displayed, it must include content in one of the following languages:
 
@@ -30,8 +30,3 @@ To learn about configuring and using connectors to make content from external so
 
 **Parent Topic:**[Internationalization support for AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/international-language-support-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]
-- [[ext-cont-connectors-landing-page|External Content Connectors]]

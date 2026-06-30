@@ -14,9 +14,9 @@ breadcrumb: [Automatically assign categories, Explore, Now Assist for SPO, Sourc
 
 # Audit purchase lines automatically when predictive fields change
 
-Automated audit compares existing categories with the latest AI prediction when key predictive fields are updated in a service request or [[purchase-requisition|purchase requisition]], flagging inconsistencies without automatically updating category fields.
+Automated audit compares existing categories with the latest AI prediction when key predictive fields are updated in a service request or purchase requisition, flagging inconsistencies without automatically updating category fields.
 
-When key predictive fields in a service request \(SR\) or purchase requisition \(PR\) are updated, the Spend categorization agent runs an automated audit to compare the existing categories with the latest AI prediction. Key predictive fields include Product name, [[supplier|Supplier]], Supplier product, Purchase reason, and Short description.
+When key predictive fields in a service request \(SR\) or purchase requisition \(PR\) are updated, the Spend categorization agent runs an automated audit to compare the existing categories with the latest AI prediction. Key predictive fields include Product name, Supplier, Supplier product, Purchase reason, and Short description.
 
 When key predictive fields are updated in a Service Request \(SR\) or Purchase Request \(PR\), the Spend category and Product category fields are automatically populated with AI‑predicted values. A warning message appears on the PRL form informing users to review the AI‑predicted values for accuracy before saving them.
 
@@ -36,7 +36,3 @@ For more information about the prediction logic and flow, refer to the section '
 
 **Parent Topic:**[Automatically assign categories during SR and PR creation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/automatically-assign-categories.md)
 
-## Related
-
-- [[purchase-requisition|Purchase requisition]]
-- [[supplier|Supplier]]

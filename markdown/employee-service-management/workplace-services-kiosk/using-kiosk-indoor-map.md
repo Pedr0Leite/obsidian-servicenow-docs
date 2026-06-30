@@ -14,7 +14,7 @@ breadcrumb: [Use, Workplace Services Kiosk, Workplace Service Delivery, Employee
 
 # Using Kiosk Indoor Mapping
 
-Use the [[kiosk-indoor-mapping|kiosk indoor mapping]] feature to search for spaces, get directions, and raise cases.
+Use the kiosk indoor mapping feature to search for spaces, get directions, and raise cases.
 
 You can access the kiosk indoor map by selecting **Explore workplace** on the kiosk. You can then use the indoor map to do the following.
 
@@ -23,7 +23,7 @@ You can access the kiosk indoor map by selecting **Explore workplace** on the ki
 -   Filter spaces based on neighborhoods, reservation and occupancy status, and space type.
 -   Search for a user or a space by using the search bar and selecting the relevant result. The kiosk highlights the space and displays information such as the user assignment, department, and neighborhood. The information displayed can differ based on the configuration set by the admin.
 
-    \[Omitted image "kiosk-indoor-map-search.png"\] Alt text: [[Indoor-mapping|Indoor mapping]] on a kiosk device while searching for a user. The workspace of the user is selected on the map and a card is displayed with the space details.
+    \[Omitted image "kiosk-indoor-map-search.png"\] Alt text: Indoor mapping on a kiosk device while searching for a user. The workspace of the user is selected on the map and a card is displayed with the space details.
 
 -   View the map legend for information about the icons and elements on the map.
 -   Get directions to a space after selecting it from the map or the search bar. The kiosk displays the path to your destination, which can be on a different floor or building. You can also opt for an accessible path.
@@ -38,7 +38,3 @@ You can access the kiosk indoor map by selecting **Explore workplace** on the ki
 
 **Parent Topic:**[Using Workplace Services Kiosk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/use-workplace-services-kiosk.md)
 
-## Related
-
-- [[kiosk-indoor-mapping|Kiosk Indoor Mapping]]
-- [[Indoor-mapping|Indoor Mapping]]

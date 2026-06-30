@@ -16,7 +16,7 @@ breadcrumb: [Knowledge Management reference, Knowledge Management, Manage conten
 
 User criteria are available to manage access to the Knowledge knowledge base.
 
-The Knowledge knowledge base is provided as a demo example in the [[knowledge-management|Knowledge Management]] application. Starting from the Paris release, user criteria were added to the Knowledge knowledge base to enable you to control access for guest \(unauthenticated\) users:
+The Knowledge knowledge base is provided as a demo example in the Knowledge Management application. Starting from the Paris release, user criteria were added to the Knowledge knowledge base to enable you to control access for guest \(unauthenticated\) users:
 
 -   Any User user criteria in Can Read, which enables any user to read articles in the Knowledge knowledge base.
 
@@ -27,6 +27,3 @@ The Knowledge knowledge base is provided as a demo example in the [[knowledge-ma
 
 Although you can continue to use the Knowledge knowledge base consider creating your own knowledge base to store, share, and manage content. You can configure access to your knowledge bases through user criteria. For more information, see [Create a knowledge base](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/create-a-knowledgebase.md).
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]

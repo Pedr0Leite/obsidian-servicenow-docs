@@ -62,7 +62,7 @@ The visualizations on the Sentiment page help you with the following.
 
     \[Omitted image "NAinVA-assistant-designer-analytics-sentiment-transfer-time.png"\] Alt text: Transfers and Escalations Over Time.
 
--   **Average Inferred CSAT \([[virtual-agent-landing-page|Virtual Agent]]\)**
+-   **Average Inferred CSAT \(Virtual Agent\)**
 
     This area of the dashboard shows the average Inferred CSAT score for Virtual Agent interactions in the selected period. For conversations involving both Virtual Agent and live agent, this score reflects only the Virtual Agent CSAT. Scored on a 5-point scale, 0 = least satisfied and 5 = most satisfied. Use this metric to benchmark assistant performance and prioritize improvements where satisfaction is lowest.
 
@@ -104,6 +104,4 @@ The visualizations on the Sentiment page help you with the following.
 
     \[Omitted image "NAinVA-assistant-designer-analytics-sentiment-negative-emotion.png"\] Alt text: Negative Emotion Feedback Over Time.
 
-## Related
 
-- [[virtual-agent-landing-page|Virtual Agent]]

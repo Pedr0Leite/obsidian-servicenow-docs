@@ -12,7 +12,7 @@ breadcrumb: [Data sharing and processes, Now Assist Admin Settings, Exploring No
 
 # Configure Now Assist data overflow processing
 
-Configure where [[platform-now-assist-landing|Now Assist]] data is processed during periods of high traffic.
+Configure where Now Assist data is processed during periods of high traffic.
 
 ## Before you begin
 
@@ -26,17 +26,12 @@ By default, Now Assist data is handled in ServiceNow datacenters. During periods
 
 1.  Navigate to **All** &gt; **Now Assist Admin** &gt; **Settings**.
 
-2.  In the [[now-assist-global-navigation|navigation]] pane, go to **Data sharing and processing** &gt; **Now overflow processing**.
+2.  In the navigation pane, go to **Data sharing and processing** &gt; **Now overflow processing**.
 
 3.  Select either **Opt out** or **Opt in**.
 
     Instances are opted in by default. You can change this setting at any time.
 
 
-**Parent Topic:**[[now-assist-data-sharing-and-processes|Data sharing and processes]]
+**Parent Topic:**[Data sharing and processes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-data-sharing-and-processes.md)
 
-## Related
-
-- [[now-assist-data-sharing-and-processes|Data sharing and processes]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-global-navigation|Navigation]]

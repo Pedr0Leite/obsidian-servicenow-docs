@@ -31,12 +31,9 @@ The Link Button widget is a button you can nest in any other widget that links t
 **Related topics**  
 
 
-[Create and edit a page using the [[c_ServicePortal|Service Portal]] Designer]()
+[Create and edit a page using the Service Portal Designer]()
 
 [Configure widget instances]()
 
 [Clone a widget]()
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]

@@ -14,7 +14,7 @@ breadcrumb: [Legacy IBM PVU Process Pack, Legacy Software Asset Management plugi
 
 # Activate the legacy IBM PVU Process Pack
 
-The legacy Software [[c_AssetManagement|Asset Management]] - IBM PVU Process Pack \(com.snc.sam.ibmpvu.pp\) plugin can no longer be activated upon request. If the legacy plugin has already been activated on your ServiceNow instance, you can continue to use the [[c_IBMPVUProcessPack|legacy IBM PVU Process Pack]].
+The legacy Software Asset Management - IBM PVU Process Pack \(com.snc.sam.ibmpvu.pp\) plugin can no longer be activated upon request. If the legacy plugin has already been activated on your ServiceNow instance, you can continue to use the legacy IBM PVU Process Pack.
 
 ## Before you begin
 
@@ -22,9 +22,9 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System [[dex-workspace-application-tab|Applications]]** &gt; **All Available Applications** &gt; **All**.
+1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
-2.  On the All [[user-applications|Applications page]], click **Request Plugin** to open the Request form on HI.
+2.  On the All Applications page, click **Request Plugin** to open the Request form on HI.
 
 3.  On Now Support, click the **Take me to the Hi Service Portal Active a Plugin Service Catalog** link to access the Now Support Service Portal Service Catalog.
 
@@ -76,9 +76,3 @@ Information that would be helpful for the ServiceNow personnel who are activatin
 
 **Parent Topic:**[Legacy IBM PVU Process Pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_IBMPVUProcessPack.md)
 
-## Related
-
-- [[c_AssetManagement|Asset Management]]
-- [[c_IBMPVUProcessPack|Legacy IBM PVU Process Pack]]
-- [[dex-workspace-application-tab|Applications]]
-- [[user-applications|Applications page]]

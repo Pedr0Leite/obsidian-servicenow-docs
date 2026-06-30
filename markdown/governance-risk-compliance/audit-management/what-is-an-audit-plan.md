@@ -37,7 +37,7 @@ An audit team conducts multiple audits in an organization. Creating an audit pla
 -   Resource planning by necessary skills and building audit team
 -   Cost planning
 
-When you [[create-audit-plan|create an audit plan]] with advanced planning capabilities and add engagements to the plan, and move the engagement to either **Validate** or **Fieldwork** state, an associated engagement project is automatically generated.
+When you create an audit plan with advanced planning capabilities and add engagements to the plan, and move the engagement to either **Validate** or **Fieldwork** state, an associated engagement project is automatically generated.
 
 **Note:** A project is only created if the PPM Standard plugin is installed and the user has the it\_project\_manager role. If the user does not have the it\_project\_manager role and has only the sn\_audit.manager role, even when advanced planning capabilities are enabled on the plan, the engagements do not have corresponding projects when they move into **Validate** or **Fieldwork** states.
 
@@ -46,6 +46,3 @@ After you add engagements to an audit plan, you also have the flexibility to cha
 -   Engagements can be either added or removed from a plan only when the plan is in **Draft**, **Awaiting Approval**, and **Approved** states.
 -   The parent plan can only be changed on an engagement when the engagement is in **Scope**, **Validate** and, **Fieldwork** states.
 
-## Related
-
-- [[create-audit-plan|Create an audit plan]]

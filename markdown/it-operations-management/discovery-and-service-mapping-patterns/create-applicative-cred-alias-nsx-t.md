@@ -18,7 +18,7 @@ Create a credential alias and configure an applicative credential to enable the 
 
 ## Before you begin
 
-Role required: [[r-discovery|discovery]]\_admin
+Role required: discovery\_admin
 
 ## About this task
 
@@ -60,11 +60,7 @@ The NSX Cluster pattern requires a credential alias that contains exactly one ap
 
 ## What to do next
 
-Create a [[serverless-discovery|serverless discovery]] schedule for the NSX Cluster pattern. For more information, see [Create a serverless schedule for NSX-T cluster discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/create-serverless-schedule-nsx-t.md).
+Create a serverless discovery schedule for the NSX Cluster pattern. For more information, see [Create a serverless schedule for NSX-T cluster discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/create-serverless-schedule-nsx-t.md).
 
 **Parent Topic:**[VMware NSX-T cluster pattern-based discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/nsx-t-cluster-pattern.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[serverless-discovery|Serverless Discovery]]

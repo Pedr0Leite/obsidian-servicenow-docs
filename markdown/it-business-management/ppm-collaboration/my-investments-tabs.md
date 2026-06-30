@@ -16,7 +16,7 @@ breadcrumb: [Investment Portal, Project Portfolio Management, Strategic Portfoli
 
 Display all your important investment boards in a single location using the My Investment views page.
 
-When you open the [[investment-portal|Investment Portal]] module, you start in the My Investments Views page where you can:
+When you open the Investment Portal module, you start in the My Investments Views page where you can:
 
 -   [Create investment boards using filter conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/create-an-investment-report.md).
 -   [View widgets on an investment board](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/configure-investment-metrics.md).
@@ -56,6 +56,3 @@ Key details of an investment board include:
 
 [Investment Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/investment-portal.md)
 
-## Related
-
-- [[investment-portal|Investment Portal]]

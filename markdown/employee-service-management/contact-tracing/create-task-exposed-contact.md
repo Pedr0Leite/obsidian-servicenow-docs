@@ -26,7 +26,7 @@ The [**sn\_imt\_tracing.auto\_create\_case\_tasks**](https://raw.githubuserconte
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[contact-tracing|Contact Tracing]]** &gt; **[[case-management-workspace|Case Management]]** &gt; **Cases Assigned to Me**.
+1.  Navigate to **All** &gt; **Contact Tracing** &gt; **Case Management** &gt; **Cases Assigned to Me**.
 
 2.  Open a case to create case tasks for the potentially exposed contacts.
 
@@ -56,7 +56,3 @@ The contact tracers can start working on the tasks by [following up with the exp
 
 **Parent Topic:**[Managing cases to follow up with potentially exposed contacts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/exposure-case-management.md)
 
-## Related
-
-- [[contact-tracing|Contact Tracing]]
-- [[case-management-workspace|Case management]]

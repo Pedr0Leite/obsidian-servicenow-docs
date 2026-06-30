@@ -14,16 +14,12 @@ breadcrumb: [Reference, Telecommunications Network Inventory]
 
 # Default Template forms
 
-The [[tni-default-template-form|Default Template form]] enables you to create, review and modify a default template and schedule generation of a template.
+The Default Template form enables you to create, review and modify a default template and schedule generation of a template.
 
 -   **[Default Template form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/tni-default-template-form.md)**  
 The Default Template form enables you to create, review, and modify the details for a default template.
 -   **[Scheduled Entity Generation form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/scheduled-entity-generation-form.md)**  
-The [[scheduled-entity-generation-form|Scheduled Entity Generation form]] enables you to create, review and modify the schedule generation details for a default template.
+The Scheduled Entity Generation form enables you to create, review and modify the schedule generation details for a default template.
 
 **Parent Topic:**[Telecommunications Network Inventory reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telecommunications-network-inventory-reference.md)
 
-## Related
-
-- [[tni-default-template-form|Default Template form]]
-- [[scheduled-entity-generation-form|Scheduled Entity Generation form]]

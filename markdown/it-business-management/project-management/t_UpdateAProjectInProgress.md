@@ -30,17 +30,17 @@ Role required: it\_project\_manager
 
     -   **Priority**: the priority of the project, especially as it relates to other projects in the portfolio.
     -   **Net value**: the value of the project to the company expressed in expected revenue.
-    -   **Risk cost**: the sum of all costs involved with potential project risks. Although this field is not related to [[r_CostManagement|cost management]], you can use this field to estimate the costs of risks that arise during the project.
+    -   **Risk cost**: the sum of all costs involved with potential project risks. Although this field is not related to cost management, you can use this field to estimate the costs of risks that arise during the project.
     -   **Configuration item**: the CI related to the project.
     -   **Schedule**: the type of work schedule.
     -   **Work notes**: a useful record of notes and comments related to the project.
     -   **Live feed**: a record of the collaboration between various project stakeholders.
-    For [[t_CreateAProjectTask|project tasks]], keep these fields up to date:
+    For project tasks, keep these fields up to date:
 
     -   **State**: remember to change project task states to **Work in Progress** when the task should begin \(for tasks that have a specified start date\) and **Closed** when the task is finished. Task states do not change automatically except when the time constraint of the task is set to **Start ASAP** and the state of the predecessor task is changed to one of the closed states.
     -   **Assignment group**: the group of resources currently working on the task.
     -   **Assigned to**: the individual assigned to the task.
-    -   **[[c_TimeCards|Time cards]]**: the amount of time resources work on a project, which roll up into **Actual effort**. If a labor rate is configured for a time card, changes to the time cards affect the**Actual cost** of the project.
+    -   **Time cards**: the amount of time resources work on a project, which roll up into **Actual effort**. If a labor rate is configured for a time card, changes to the time cards affect the**Actual cost** of the project.
 3.  Select **Update** to save the record.
 
 
@@ -64,7 +64,7 @@ When a project is in progress, you can take advantage of two platform features t
 
 [Create a project cost plan]()
 
-[Recalculating costs of all [[c_ResourcePlans|resource plans]] in a project]()
+[Recalculating costs of all resource plans in a project]()
 
 [Create an expense line]()
 
@@ -98,9 +98,3 @@ When a project is in progress, you can take advantage of two platform features t
 
 [Track project comments and collaborate with stakeholders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_TrackProjCommentsCollabStake.md)
 
-## Related
-
-- [[r_CostManagement|Cost Management]]
-- [[t_CreateAProjectTask|Project tasks]]
-- [[c_TimeCards|Time cards]]
-- [[c_ResourcePlans|Resource plans]]

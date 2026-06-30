@@ -14,7 +14,7 @@ breadcrumb: [Maintaining user data privacy in Contact Tracing, Contact Tracing, 
 
 # Review user privacy consents in Contact Tracing
 
-Review user privacy consent responses submitted by employees in answer to notifications seeking their consent to use their data for [[contact-tracing|contact tracing]].
+Review user privacy consent responses submitted by employees in answer to notifications seeking their consent to use their data for contact tracing.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ Role required: sn\_imt\_tracing.admin
 
 **Parent Topic:**[Maintaining user data privacy in Contact Tracing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/contact-tracing-user-privacy-options.md)
 
-## Related
-
-- [[contact-tracing|Contact Tracing]]

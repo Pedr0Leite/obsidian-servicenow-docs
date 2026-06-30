@@ -14,7 +14,7 @@ breadcrumb: [References, Document Management, Document Services, Manage content 
 
 # Domain separation and Document Management
 
-[[domain-separation-relationship-formatter-editor|Domain separation]] is supported for [[doc-management-landing|Document Management]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported for Document Management. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Standard
 
@@ -39,7 +39,7 @@ A user in the parent domain has access to documents in the child domain.
 
 When a user creates a document, document list or document entries, then their domain is the same as the user's domain.
 
-When the owner of the document changes then the related versions, [[reference-document-management|references]], and permission record's domain is updated with the domain of the parent document.
+When the owner of the document changes then the related versions, references, and permission record's domain is updated with the domain of the parent document.
 
 ## Use cases
 
@@ -59,7 +59,7 @@ When the owner of the document changes then the related versions, [[reference-do
 
 ## Known issues
 
-If a document contains references and if the owner of the document is changed and does not have access to the target record of one of the references, then the [[reference|reference]] record might not be visible to the new owner.
+If a document contains references and if the owner of the document is changed and does not have access to the target record of one of the references, then the reference record might not be visible to the new owner.
 
 For example, if the document owner, User A \(Domain: D1\) is changed to User B \(Domain: D2\) and User B does not have access to the target record of the reference table, User B might not be able to see the reference record.
 
@@ -76,9 +76,3 @@ For example, if the document owner, User A \(Domain: D1\) is changed to User B \
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[domain-separation-relationship-formatter-editor|Domain separation]]
-- [[doc-management-landing|Document Management]]
-- [[reference-document-management|References]]
-- [[reference|Reference]]

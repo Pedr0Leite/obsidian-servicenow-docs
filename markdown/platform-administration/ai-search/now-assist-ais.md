@@ -19,23 +19,23 @@ The Now Assist in AI Search ServiceNow® Store application combines the power of
 
 ## Now Assist in AI Search overview
 
-In Service Portal, Virtual Agent, Employee Center, and global searches, Now Assist in AI Search includes the following Genius Result [[clone-configurations-tab|configurations]]:
+In Service Portal, Virtual Agent, Employee Center, and global searches, Now Assist in AI Search includes the following Genius Result configurations:
 
 -   **[Now Assist Multi-Content Response Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/now-assist-multi-content-qna-genius-results.md)**
 
-    [[now-assist-multi-content-qna-genius-results|Now Assist Multi-Content Response Genius Results]] use your chosen LLM to generate Q&amp;A Genius Result answers synthesized from a variety of content sources. Answers can include content from knowledge articles, Service Catalog items, Knowledge Graph schema nodes, enhanced chat searches and conversations, and external content documents and attachments.
+    Now Assist Multi-Content Response Genius Results use your chosen LLM to generate Q&amp;A Genius Result answers synthesized from a variety of content sources. Answers can include content from knowledge articles, Service Catalog items, Knowledge Graph schema nodes, enhanced chat searches and conversations, and external content documents and attachments.
 
 -   **[Now Assist Q&amp;A Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/now-assist-qna-genius-results.md)**
 
-    [[now-assist-qna-genius-results|Now Assist Q&amp;A Genius Results]] use the Now LLM Service to generate actionable Q&amp;A Genius Result answers from the most relevant knowledge article [[hs-results|results]].
+    Now Assist Q&amp;A Genius Results use the Now LLM Service to generate actionable Q&amp;A Genius Result answers from the most relevant knowledge article results.
 
 -   **[External Content Q&amp;A Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/external-content-qna.md)**
 
-    [[external-content-qna|External Content Q&amp;A Genius Results]] generate actionable Q&amp;A Genius Result answers from documents in your Microsoft SharePoint Online instance.
+    External Content Q&amp;A Genius Results generate actionable Q&amp;A Genius Result answers from documents in your Microsoft SharePoint Online instance.
 
 -   **[Now Assist Actions Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/now-assist-catalog-ordering-gr.md)**
 
-    [[now-assist-catalog-ordering-gr|Now Assist Actions Genius Results]] use the Now LLM Service to select, filter, and display the most relevant Catalog Item and Virtual Agent topic results as answers.
+    Now Assist Actions Genius Results use the Now LLM Service to select, filter, and display the most relevant Catalog Item and Virtual Agent topic results as answers.
 
 
 If a search is broad or unclear, Now Assist in AI Search may ask follow-up questions before answering. This disambiguation step helps clarify what the user is looking for and is configurable. For configuration details, see .
@@ -50,7 +50,7 @@ Now Assist Genius Result answers enhance search results with actionable answer c
 
 </td><td>
 
-[Configure\[Omitted image "bus-sdlc.svg"\] Alt text:Configure Now Assist in AI Search [[genius-results-ais|Genius Results]] for use in Service Portal, Virtual Agent, Employee Center, and global search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configuring-now-assist-ais.md)
+[Configure\[Omitted image "bus-sdlc.svg"\] Alt text:Configure Now Assist in AI Search Genius Results for use in Service Portal, Virtual Agent, Employee Center, and global search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configuring-now-assist-ais.md)
 
 </td><td>
 
@@ -66,7 +66,7 @@ Now Assist Genius Result answers enhance search results with actionable answer c
 
 ## Language support
 
-Now Assist in AI Search natively supports searches, content, and answers in English. Additional languages are supported through [[dynamic-translation|Dynamic Translation]]. For details on translation functionality and supported languages, see [Dynamic Translation for Now Assist Q&amp;A Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/dynamic-translation-na-gr.md).
+Now Assist in AI Search natively supports searches, content, and answers in English. Additional languages are supported through Dynamic Translation. For details on translation functionality and supported languages, see [Dynamic Translation for Now Assist Q&amp;A Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/dynamic-translation-na-gr.md).
 
 ## Domain support
 
@@ -86,13 +86,3 @@ ServiceNow collects and uses the inputs, outputs, and edits to outputs of this a
 
 For more information, see the [Now Assist documentation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-now-assist-landing.md).
 
-## Related
-
-- [[clone-configurations-tab|Configurations]]
-- [[now-assist-multi-content-qna-genius-results|Now Assist Multi-Content Response Genius Results]]
-- [[now-assist-qna-genius-results|Now Assist Q&amp;A Genius Results]]
-- [[hs-results|Results]]
-- [[external-content-qna|External Content Q&amp;A Genius Results]]
-- [[now-assist-catalog-ordering-gr|Now Assist Actions Genius Results]]
-- [[genius-results-ais|Genius Results]]
-- [[dynamic-translation|Dynamic translation]]

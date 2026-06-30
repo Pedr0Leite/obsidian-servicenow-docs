@@ -14,22 +14,14 @@ breadcrumb: [Now Assist Admin Settings, Exploring Now Assist Admin, Now Assist, 
 
 Data sharing and processes topic description.
 
--   **[[configure-privacy-policies|Configure Now Assist privacy policies]]**  
-Configure privacy policies to anonymize data in [[platform-now-assist-landing|Now Assist]].
--   **[[opt-out-of-data-sharing-for-now-assist|Opt out of data sharing for Now Assist]]**  
+-   **[Configure Now Assist privacy policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-privacy-policies.md)**  
+Configure privacy policies to anonymize data in Now Assist.
+-   **[Opt out of data sharing for Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/opt-out-of-data-sharing-for-now-assist.md)**  
 Data sharing improves ServiceNow AI products. You can opt out of data sharing from the Now Assist Admin console Settings page.
--   **[[configure-na-data-overflow|Configure Now Assist data overflow processing]]**  
+-   **[Configure Now Assist data overflow processing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-na-data-overflow.md)**  
 Configure where Now Assist data is processed during periods of high traffic.
--   **[[assign-data-steward-role|Assign the data steward role]]**  
+-   **[Assign the data steward role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/assign-data-steward-role.md)**  
 Select a data steward to make decisions about data sharing with ServiceNow in Now Assist applications.
 
-**Parent Topic:**[[configure-now-assist-admin-settings|Now Assist Admin Settings]]
+**Parent Topic:**[Now Assist Admin Settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-now-assist-admin-settings.md)
 
-## Related
-
-- [[configure-privacy-policies|Configure Now Assist privacy policies]]
-- [[opt-out-of-data-sharing-for-now-assist|Opt out of data sharing for Now Assist]]
-- [[configure-na-data-overflow|Configure Now Assist data overflow processing]]
-- [[assign-data-steward-role|Assign the data steward role]]
-- [[configure-now-assist-admin-settings|Now Assist Admin Settings]]
-- [[platform-now-assist-landing|Now Assist]]

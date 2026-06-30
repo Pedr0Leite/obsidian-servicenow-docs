@@ -12,13 +12,13 @@ breadcrumb: [Using Now Assist Analytics, Analyzing Now Assist performance, Explo
 
 # Now Assist context menu analytics
 
-Monitor the usage and performance of the [[now-assist-write-overview|Now Assist context menu]].
+Monitor the usage and performance of the Now Assist context menu.
 
-The [[platform-now-assist-landing|Now Assist]] context menu dashboard helps admins to evaluate the effectiveness of context menu actions in assisting agents with summarizing, creating, and editing emails and chat replies.
+The Now Assist context menu dashboard helps admins to evaluate the effectiveness of context menu actions in assisting agents with summarizing, creating, and editing emails and chat replies.
 
 \[Omitted image "naa-nacm.png"\] Alt text: Now Assist context menu dashboard page.
 
-The indicators on the Now Assist context menu dashboard page provide the following insights. See [[now-assist-analytics-dashboard-indicators|Now Assist Analytics dashboard indicator details]] for information on the data and calculations behind each indicator.
+The indicators on the Now Assist context menu dashboard page provide the following insights. See [Now Assist Analytics dashboard indicator details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-analytics-dashboard-indicators.md) for information on the data and calculations behind each indicator.
 
 -   Count and distribution of context menu actions in a date range. This indicator reveals the scale of usage, and the most and least used actions.
 -   Acceptance and feedback on context menu actions. This indicator reveals actions that were accepted or rejected by the users with a positive or negative feedback.
@@ -61,11 +61,5 @@ The indicators on the Now Assist context menu dashboard page provide the followi
     \[Omitted image "naa-nacm-responses-by-feedback.png"\] Alt text: Responses by feedback indicator.
 
 
-**Parent Topic:**[[using-now-assist-analytics|Using Now Assist Analytics]]
+**Parent Topic:**[Using Now Assist Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/using-now-assist-analytics.md)
 
-## Related
-
-- [[now-assist-analytics-dashboard-indicators|Now Assist Analytics dashboard indicator details]]
-- [[using-now-assist-analytics|Using Now Assist Analytics]]
-- [[now-assist-write-overview|Now Assist context menu]]
-- [[platform-now-assist-landing|Now Assist]]

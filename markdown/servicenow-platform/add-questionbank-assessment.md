@@ -12,7 +12,7 @@ breadcrumb: [Assessment administrator tasks, Using assessments, Assessments, Ass
 
 # Add a metric category and metric in the question bank for assessments
 
-Reuse the question categories \(metric categories\) and questions \(metrics\) added in the question bank for [[r_Assessments|assessments]]. You can add metric categories or metrics from the question bank to an assessment, or from the assessment to a question bank.
+Reuse the question categories \(metric categories\) and questions \(metrics\) added in the question bank for assessments. You can add metric categories or metrics from the question bank to an assessment, or from the assessment to a question bank.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin or assessment\_admin
 
 2.  Click **New**.
 
-3.  In the [[metric-category-form|Metric Category form]], fill in the fields.
+3.  In the Metric Category form, fill in the fields.
 
     |Field|Description|
     |-----|-----------|
@@ -34,26 +34,17 @@ Role required: admin or assessment\_admin
 
 4.  Right-click on the title bar and click **Save**.
 
-5.  In the [[c_AssessmentMetrics|Assessment Metrics]] related list, click **New**.
+5.  In the Assessment Metrics related list, click **New**.
 
-6.  In the [[assessment-metric-form|Assessment Metric form]], fill the fields.
+6.  In the Assessment Metric form, fill the fields.
 
-    For more information on assessment metric fields, refer to [[t_CreateAMetric|.]]
+    For more information on assessment metric fields, refer to [.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateAMetric.md)
 
 7.  Click **Submit**.
 
 
--   **[[configure-questionbank-assessment|Configure metric categories or metrics for an assessment using the question bank]]**  
+-   **[Configure metric categories or metrics for an assessment using the question bank](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configure-questionbank-assessment.md)**  
 Reuse question categories \(metric categories\) and questions \(metrics\) from the **Question Bank** module while creating or updating an assessment.
 
-**Parent Topic:**[[c_AssessmentProcess|Assessment administrator tasks]]
+**Parent Topic:**[Assessment administrator tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentProcess.md)
 
-## Related
-
-- [[t_CreateAMetric|Create an assessment metric for a category]]
-- [[configure-questionbank-assessment|Configure metric categories or metrics for an assessment using the question bank]]
-- [[c_AssessmentProcess|Assessment administrator tasks]]
-- [[r_Assessments|Assessments]]
-- [[metric-category-form|Metric Category form]]
-- [[c_AssessmentMetrics|Assessment metrics]]
-- [[assessment-metric-form|Assessment Metric form]]

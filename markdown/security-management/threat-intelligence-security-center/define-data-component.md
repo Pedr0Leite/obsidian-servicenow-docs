@@ -14,7 +14,7 @@ breadcrumb: [Data Component, Other Objects, TISC Library Repository, Threat Inte
 
 # Define Data Component
 
-Define a [[data-component|data component]] to identify the properties or values of a data source
+Define a data component to identify the properties or values of a data source
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_sec\_tisc.analyst
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center**.
 
 2.  Click on **Threat Intel Library** icon on the workspace.
 
@@ -30,7 +30,7 @@ Role required: sn\_sec\_tisc.analyst
 
 4.  Click **New**.
 
-    **Note:** Whenever you create new object records for [[c_Observables|observables]], [[indicator|indicators]], entities or objects a source record is created and a prompt message is displayed that the new object record is created and then the user is redirected to the aggregated record.
+    **Note:** Whenever you create new object records for observables, indicators, entities or objects a source record is created and a prompt message is displayed that the new object record is created and then the user is redirected to the aggregated record.
 
 5.  On the form, fill in the fields.
 
@@ -135,12 +135,12 @@ Created By Ref
 
 </td><td>
 
-This property specifies that the [[identity|identity]] object that describes the entity had created this object.
+This property specifies that the identity object that describes the entity had created this object.
 
 </td></tr></tbody>
 </table>6.  Click **Save**.
 
-    After you save, a prompt message is displayed indicating that A new observable record is created. Click **Continue** to edit the record and create new [[stix-relationships|relationships]].
+    After you save, a prompt message is displayed indicating that A new observable record is created. Click **Continue** to edit the record and create new relationships.
 
 7.  Click **Continue**.
 
@@ -164,24 +164,14 @@ Click any of the following related lists to view additional information about ob
 
 |Field|Description|
 |-----|-----------|
-|Attack Patterns|Lists the [[attack-patterns|attack patterns]] associated with this object.|
+|Attack Patterns|Lists the attack patterns associated with this object.|
 
 **Note:**
 
 1.  You can link and unlink the related records associated with this object. For more information, see [Link Threat Intel Related Records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/link-threat-intel-releated-records.md).
-2.  The various SDOs within the TI library also contains the [[potential-relationships|potential relationships]]. To establish a relationships between any two objects, you use the **Potential Relationships** link from the **Threat Intel Library** to confirm the relationships between the objects. For more information, see [Confirm object-object potential relationships](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/define-object-object-potential-relationships.md).
+2.  The various SDOs within the TI library also contains the potential relationships. To establish a relationships between any two objects, you use the **Potential Relationships** link from the **Threat Intel Library** to confirm the relationships between the objects. For more information, see [Confirm object-object potential relationships](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/define-object-object-potential-relationships.md).
 3.  Also, use the **Related Records** section from the objects form view to confirm the relationships between two Objects using the **Potential Relationships** section available on the form view. For more information on see, [Confirm Potential Relationships from Related Records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/confirm-potential-relationships.md).
 4.  You can add objects to cases. For more information, see [Add to Case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/add-to-case.md).
 
 **Parent Topic:**[Data Component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/data-component.md)
 
-## Related
-
-- [[data-component|Data Component]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[c_Observables|Observables]]
-- [[indicator|Indicators]]
-- [[identity|Identity]]
-- [[stix-relationships|Relationships]]
-- [[attack-patterns|Attack patterns]]
-- [[potential-relationships|Potential Relationships]]

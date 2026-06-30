@@ -12,7 +12,7 @@ breadcrumb: [Getting started with Manufacturing Commercial Operations, Configure
 
 # Install Manufacturing Commercial Operations
 
-Install the [[manufacturing-overview|Manufacturing Commercial Operations]] Core application with the admin role. The application includes demo data Manufacturing Commercial Operations core and installs related ServiceNow® store applications and plugins that aren’t already installed.
+Install the Manufacturing Commercial Operations Core application with the admin role. The application includes demo data Manufacturing Commercial Operations core and installs related ServiceNow® store applications and plugins that aren’t already installed.
 
 ## Before you begin
 
@@ -31,9 +31,9 @@ The following items are installed with Manufacturing Commercial Operations:
 
 The Manufacturing Commercial Operations Core application is dependent on the Product Catalog Management Core, CIWF UI components, and Industry Core applications.
 
-To review all the plugins that are activated by installing the [[mco-sls-pro-mgmt|Sales promotion management]], Manufacturing [[mco-recall-management|recall management]], and Manufacturing repair management, see [[manufacturing-commercial-operations-plugins|Plugins installed with Manufacturing Commercial Operations]].
+To review all the plugins that are activated by installing the Sales promotion management, Manufacturing recall management, and Manufacturing repair management, see [Plugins installed with Manufacturing Commercial Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/manufacturing-commercial-operations-plugins.md).
 
-For more information on the components, see [[mco-components-installed|Components installed]].
+For more information on the components, see [Components installed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-components-installed.md).
 
 ## Procedure
 
@@ -43,8 +43,8 @@ For more information on the components, see [[mco-components-installed|Component
 
     You can search for the application by its name or ID. If you can’t find the application, you might have to request it from the ServiceNow Store.
 
-    -   [[mco-sls-pro-clm-mgmt|Sales promotion claim management]] \[sn\_sls\_prm\_clm\_mgt\]
-    -   Manufacturing [[mco-use-repair-claim|repair claim]] management \[sn\_repr\_claim\_mgmt\]
+    -   Sales promotion claim management \[sn\_sls\_prm\_clm\_mgt\]
+    -   Manufacturing repair claim management \[sn\_repr\_claim\_mgmt\]
     -   Manufacturing recall claim management \[sn\_rcl\_claim\_mgmt\]
     -   Remediation Core \[com.sn\_rm\_core\]
     -   Manufacturing Quality Management \[com.sn\_mfg\_qm\]
@@ -55,12 +55,4 @@ For more information on the components, see [[mco-components-installed|Component
 
 4.  Select **Install**.
 
-## Related
 
-- [[manufacturing-commercial-operations-plugins|Plugins installed with Manufacturing Commercial Operations]]
-- [[mco-components-installed|Components installed]]
-- [[manufacturing-overview|Manufacturing Commercial Operations]]
-- [[mco-sls-pro-mgmt|Sales promotion management]]
-- [[mco-recall-management|Recall management]]
-- [[mco-sls-pro-clm-mgmt|Sales promotion claim management]]
-- [[mco-use-repair-claim|Repair claim]]

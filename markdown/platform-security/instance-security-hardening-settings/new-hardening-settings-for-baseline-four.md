@@ -14,9 +14,9 @@ breadcrumb: [New hardening settings, Baseline versions, Hardening settings, Plat
 
 # New hardening settings for baseline version 4.0
 
-[[hardening-settings-new|New hardening settings]] have been released with [[sec-center-v2|Security Center]] baseline version 4.0.
+New hardening settings have been released with Security Center baseline version 4.0.
 
--   [Review extraneous explicit role [[sc-access-control|access control]] conditions \[Removed in Security Center 1.5\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-review-extraneous-explicit-role-access-control-conditions.md)
+-   [Review extraneous explicit role access control conditions \[Removed in Security Center 1.5\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-review-extraneous-explicit-role-access-control-conditions.md)
 -   [Enable work order management query rules for service organizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-enable-work-order-management-query-rules.md)
 -   [Restrict flow context read access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-restrict-flow-context-read-access.md)
 -   [Limit policy based session access mobile refresh token interval](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-limit-policy-based-session-access-mobile-refresh.md)
@@ -28,8 +28,3 @@ breadcrumb: [New hardening settings, Baseline versions, Hardening settings, Plat
 
 **Parent Topic:**[New hardening settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/hardening-settings-new.md)
 
-## Related
-
-- [[hardening-settings-new|New hardening settings]]
-- [[sec-center-v2|Security Center]]
-- [[sc-access-control|Access control]]

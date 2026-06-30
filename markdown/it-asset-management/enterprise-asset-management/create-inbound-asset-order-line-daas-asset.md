@@ -14,7 +14,7 @@ breadcrumb: [Managing inbound asset orders for requested DaaS assets, Enterprise
 
 # Create an inbound asset order line for a requested Device as a Service \(DaaS\) asset
 
-[[create-inbound-order-line|Create an inbound asset order line]] for each DaaS asset that you want to provide to your customers through an inbound asset order. Use each order line to track and manage the tasks that you must complete to provide the given asset to the customer.
+Create an inbound asset order line for each DaaS asset that you want to provide to your customers through an inbound asset order. Use each order line to track and manage the tasks that you must complete to provide the given asset to the customer.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_eam\_provider.provider\_asset\_manager
 
 ## Procedure
 
-1.  From the [[using-eam-workspace|Enterprise Asset Workspace]], open the [[asset-operations-view|Asset operations view]].
+1.  From the Enterprise Asset Workspace, open the Asset operations view.
 
 2.  Open the Inbound asset order lines list.
 
@@ -77,8 +77,3 @@ Perform all tasks that are required for completing the inbound asset order line 
 
 **Parent Topic:**[Managing inbound asset orders for requested Device as a Service \(DaaS\) assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/managing-inbound-asset-orders-daas-assets.md)
 
-## Related
-
-- [[create-inbound-order-line|Create an inbound asset order line]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[asset-operations-view|Asset operations view]]

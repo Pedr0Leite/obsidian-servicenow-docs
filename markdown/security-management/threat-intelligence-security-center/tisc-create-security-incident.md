@@ -14,7 +14,7 @@ breadcrumb: [Access Vulnerability Downstream actions, Threat Intelligence Securi
 
 # Create Security Incident from a Vulnerability Record
 
-Create a security incident to track and manage remediation efforts for identified [[vulnerabilities|vulnerabilities]]. This process helps prioritize security responses and maintain audit trails.
+Create a security incident to track and manage remediation efforts for identified vulnerabilities. This process helps prioritize security responses and maintain audit trails.
 
 ## Before you begin
 
@@ -25,15 +25,15 @@ Role required:
 
 ## About this task
 
-Before you begin, ensure that [[sir-landing-page|Security Incident Response]] \(SIR\) application is installed.
+Before you begin, ensure that Security Incident Response \(SIR\) application is installed.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center**.
 
 2.  Select the **Threat Intel Library** icon on the workspace.
 
-3.  Go to **[[vulnerability|Vulnerability Artifacts]]** &gt; **All Vulnerabilities**.
+3.  Go to **Vulnerability Artifacts** &gt; **All Vulnerabilities**.
 
 4.  Open a vulnerability record.
 
@@ -51,8 +51,8 @@ Before you begin, ensure that [[sir-landing-page|Security Incident Response]] \(
 
     -   When you click the link from the confirmation message, the Security Incident opens in read-only mode. The record includes a reference to the originating vulnerability, and relevant fields are automatically populated to maintain consistency.
     -   A corresponding work note is also added to the vulnerability record. To access it, go to the **Details** section of the vulnerability record.
-    -   Additionally, the system records a work note on the activity stream of the [[sir-workspace-landing-page|Security Incident Response Workspace]] indicating that the incident record is originated from a TISC vulnerability and providing a link to the related vulnerability record.
-    The **TISC Context** feature in the Security Incident Response Workspace provides analysts direct access to [[threat-intel-landing-page|threat intelligence]] linked to vulnerabilities associated with incidents. For more information, see [Working with TISC Context](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/working-with-tisc-context.md).
+    -   Additionally, the system records a work note on the activity stream of the Security Incident Response Workspace indicating that the incident record is originated from a TISC vulnerability and providing a link to the related vulnerability record.
+    The **TISC Context** feature in the Security Incident Response Workspace provides analysts direct access to threat intelligence linked to vulnerabilities associated with incidents. For more information, see [Working with TISC Context](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/working-with-tisc-context.md).
 
     This capability allows analysts to view and investigate related threat objects without leaving the Security Incident Response Workspace, streamlining analysis and enhancing incident response efficiency.
 
@@ -64,11 +64,3 @@ Before you begin, ensure that [[sir-landing-page|Security Incident Response]] \(
 
 [TISC integration within SIR Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/tisc-sir-workspace.md)
 
-## Related
-
-- [[vulnerabilities|Vulnerabilities]]
-- [[sir-landing-page|Security Incident Response]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[vulnerability|Vulnerability Artifacts]]
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[threat-intel-landing-page|Threat Intelligence]]

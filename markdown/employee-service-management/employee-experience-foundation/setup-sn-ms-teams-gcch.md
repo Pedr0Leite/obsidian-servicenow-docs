@@ -16,7 +16,7 @@ breadcrumb: [ServiceNow for Microsoft Teams and Microsoft 365, Unified Employee 
 
 Set up your ServiceNow instance to integrate with Microsoft Teams applications.
 
-You can integrate [[employee-center-landing-page|Employee Center]], Virtual Agent, and request-based chatbots with Microsoft Teams for Government Community Cloud - High \(GCC-H\) or US Department of Defense \(DoD\) customers.
+You can integrate Employee Center, Virtual Agent, and request-based chatbots with Microsoft Teams for Government Community Cloud - High \(GCC-H\) or US Department of Defense \(DoD\) customers.
 
 [Integrating Virtual Agent with Microsoft Teams for GCC-H or DoD](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/va-integ-msteams-gcch.md)
 
@@ -31,6 +31,3 @@ You can integrate request-based chat with Microsoft Teams for Government Communi
 
 **Parent Topic:**[ServiceNow for Microsoft Teams and Microsoft 365](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/c_ServiceNowForMSTeams.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

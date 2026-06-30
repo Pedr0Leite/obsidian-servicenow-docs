@@ -14,7 +14,7 @@ breadcrumb: [Manage workplace safety activities, Workplace Core, Workplace Servi
 
 # Import your workspaces data from an Excel spreadsheet
 
-[[import-excel-spreadsheet-workspace-data-hr|Import your workspaces data from an Excel spreadsheet]] into the [[workplace-safety-mgmt-hr|Workplace Core]] application.
+Import your workspaces data from an Excel spreadsheet into the Workplace Core application.
 
 ## Before you begin
 
@@ -102,7 +102,3 @@ Complete [Configuring spreadsheets to import workplace data](https://raw.githubu
 
 [Create a transform map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/t_CreateATransformMap.md)
 
-## Related
-
-- [[import-excel-spreadsheet-workspace-data-hr|Import your workspaces data from an Excel spreadsheet]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]

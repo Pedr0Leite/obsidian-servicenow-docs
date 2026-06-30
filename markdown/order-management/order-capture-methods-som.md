@@ -12,7 +12,7 @@ breadcrumb: [Order Management, Use, Sales Customer Relationship Management]
 
 # Methods of creating orders in Sales Customer Relationship Management
 
-Orders can be created by agents, customers, or using APIs in ServiceNow [[explore-order-management|Order Management]]. Irrespective of where or how you create orders, all orders can be managed, tracked, and fulfilled [[using-order-management|using Order Management]].
+Orders can be created by agents, customers, or using APIs in ServiceNow Order Management. Irrespective of where or how you create orders, all orders can be managed, tracked, and fulfilled using Order Management.
 
 ## Order capture by the agents
 
@@ -55,7 +55,7 @@ Order or service agents
 </td><td>
 
 The Accounts Information tab provides a 360-degree view of customer interactions, including quotes, contracts, entitlements, and previous orders. Creating orders from this context promotes:-   Better-informed decisions based on historical data
--   Fewer errors due to pre-filled [[fields|fields]] and validated account details
+-   Fewer errors due to pre-filled fields and validated account details
 -   Faster order initiation based on pre-existing account data
 
 </td></tr><tr><td>
@@ -88,7 +88,7 @@ Your ServiceNow instances can be integrated with the instances of your customers
 
 ## Order creation by B2B customers
 
-Business-to-Business \(B2B\) customers can leverage self-service capabilities provided through the Business Portal to browse products and submit orders. These orders are then processed by the order and fulfillment agents. For more information, see [[order-mgt-create-an-order-using-customer-portal|Create orders from the Business Portal]].
+Business-to-Business \(B2B\) customers can leverage self-service capabilities provided through the Business Portal to browse products and submit orders. These orders are then processed by the order and fulfillment agents. For more information, see [Create orders from the Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-create-an-order-using-customer-portal.md).
 
 ## Post-capture order record generation
 
@@ -102,15 +102,7 @@ When you capture or directly enter a customer or service order, the correspondin
 **Related topics**  
 
 
-[[creating-orders-som|Creating orders in Order Management]]
+[Creating orders in Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/creating-orders-som.md)
 
-[[quote-management-customer-orders-tab|Convert quotes into orders]]
+[Convert quotes into orders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-management-customer-orders-tab.md)
 
-## Related
-
-- [[order-mgt-create-an-order-using-customer-portal|Create orders from the Business Portal]]
-- [[creating-orders-som|Creating orders in Order Management]]
-- [[quote-management-customer-orders-tab|Convert quotes into orders]]
-- [[explore-order-management|Order management]]
-- [[using-order-management|Using Order Management]]
-- [[fields|Fields]]

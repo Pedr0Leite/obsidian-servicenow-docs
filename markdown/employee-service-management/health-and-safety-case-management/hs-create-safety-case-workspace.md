@@ -22,7 +22,7 @@ Role required: sn\_hs\_cm.case\_manager, sn\_hs\_cm.case\_writer, or sn\_hs\_cm.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[health-safety-overview|Health and Safety]]** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
 2.  Select the cases icon \(\[Omitted image "icon-hs-cases.png"\] Alt text: Health and safety cases icon.\) to open the **Cases** tab.
 
@@ -54,7 +54,3 @@ As a safety case manager, you can assign the case to yourself and start working 
 
 **Parent Topic:**[Submitting Health and Safety cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-case-management/hs-submitting-health-safety-cases.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]

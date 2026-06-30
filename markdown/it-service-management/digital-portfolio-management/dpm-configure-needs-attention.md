@@ -14,7 +14,7 @@ breadcrumb: [Configure, Digital Portfolio Management, IT Service Management]
 
 # Configure Needs attention panels in Digital Portfolio Management
 
-Each solution page in [[dpm-landing|Digital Portfolio Management]] \(DPM\) has a Needs attention panel with items that need attention in the context of the page. You can configure the Needs attention attributes to meet your organization's needs.
+Each solution page in Digital Portfolio Management \(DPM\) has a Needs attention panel with items that need attention in the context of the page. You can configure the Needs attention attributes to meet your organization's needs.
 
 ## Before you begin
 
@@ -45,7 +45,7 @@ Default thresholds apply to the DPM Workspace homepage. Solutions use the defaul
     -   Show on needs attention
     -   Threshold for moderate
     -   Threshold for severe
-3.  Update the field [[settings-mobile|settings]].
+3.  Update the field settings.
 
 <table id="table_djr_spt_d1c"><thead><tr><th>
 
@@ -98,7 +98,3 @@ Change the number from the default threshold to the threshold that you want to s
 
 [Work with Needs attention panels in Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-needs-attn-panels.md)
 
-## Related
-
-- [[dpm-landing|Digital Portfolio Management]]
-- [[settings-mobile|Settings]]

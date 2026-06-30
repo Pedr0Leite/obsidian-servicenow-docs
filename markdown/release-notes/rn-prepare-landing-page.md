@@ -34,7 +34,7 @@ To help you get ready for a safe and effective upgrade, all the most important u
 
 </td><td>
 
-[Upgrades and the ServiceNow® Store \[Omitted image "upgrade.png"\] Alt text: icon for the tile [[upgrades-store|upgrades and the ServiceNow Store]] Learn about how upgrades are applied to ServiceNow® Store applications.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/upgrades-store.md)
+[Upgrades and the ServiceNow® Store \[Omitted image "upgrade.png"\] Alt text: icon for the tile upgrades and the ServiceNow Store Learn about how upgrades are applied to ServiceNow® Store applications.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/upgrades-store.md)
 
 </td><td>
 
@@ -42,7 +42,3 @@ To help you get ready for a safe and effective upgrade, all the most important u
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[upgrades-store|Upgrades and the ServiceNow Store]]

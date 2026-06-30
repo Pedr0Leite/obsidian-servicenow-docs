@@ -14,7 +14,7 @@ breadcrumb: [Configure, Workplace Reservation Management, Workplace Service Deli
 
 # Install Workplace Reservation Management
 
-Install the [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] application from ServiceNow Store applications. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
+Install the Workplace Reservation Management application from ServiceNow Store applications. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Complete the following setup checklist for a smooth installation and configurati
 
 |Setup tasks|Description|
 |-----------|-----------|
-|Verify that [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] - Core \(sn\_wsd\_core\) plugin of minimum version 2.0 is activated.|Navigate to **Subscription Management** &gt; **Subscriptions** in your instance. The list displays the subscriptions that your organization has purchased.|
+|Verify that Workplace Service Delivery - Core \(sn\_wsd\_core\) plugin of minimum version 2.0 is activated.|Navigate to **Subscription Management** &gt; **Subscriptions** in your instance. The list displays the subscriptions that your organization has purchased.|
 
 Role required: admin
 
@@ -102,7 +102,3 @@ Activate the Workplace Service Delivery - Core plugin \(sn\_wsd\_core\) of minim
 
 [List of plugins \(Australia\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-## Related
-
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]

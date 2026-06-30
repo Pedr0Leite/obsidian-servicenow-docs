@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-**Note:** All block content in a document template block must be created in the [[legal-request-management-landing-page|Legal Request Management]] application scope only.
+**Note:** All block content in a document template block must be created in the Legal Request Management application scope only.
 
 ## Procedure
 
@@ -30,7 +30,7 @@ Role required: admin
 
 2.  Select a document template block.
 
-3.  In the **[[document-templates-overview|Document Templates]] Block Contents** related list, click **New**.
+3.  In the **Document Templates Block Contents** related list, click **New**.
 
 4.  On the form, fill in the fields.
 
@@ -106,7 +106,3 @@ Text in the block content that appears on the document generated from the associ
 
 [Create a legal contract template of type HTML](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/create-legal-contract-template-html.md).
 
-## Related
-
-- [[legal-request-management-landing-page|Legal Request Management]]
-- [[document-templates-overview|Document Templates]]

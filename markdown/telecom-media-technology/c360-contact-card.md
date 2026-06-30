@@ -24,11 +24,7 @@ Use the Edit icon to modify any information on the card and select **Save** to s
 
 **Note:** The Edit option is available only for users with the `sn_customerservice_manager` role.
 
-You can configure variables such as tables, display fields, and query conditions. See [[c360-configure-contact-card|Configure the contact card variables]] for details.
+You can configure variables such as tables, display fields, and query conditions. See [Configure the contact card variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/c360-configure-contact-card.md) for details.
 
-**Parent Topic:**[[c360-home-page|Telecommunications Customer 360 home page]]
+**Parent Topic:**[Telecommunications Customer 360 home page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/c360-home-page.md)
 
-## Related
-
-- [[c360-configure-contact-card|Configure the contact card variables]]
-- [[c360-home-page|Telecommunications Customer 360 home page]]

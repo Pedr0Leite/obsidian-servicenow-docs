@@ -20,7 +20,7 @@ The Workplace Central Event planner is a one-stop workspace where you can check 
 
 You can view all the reservations of your organization in this single workspace, and monitor how many workplace locations are engaged by employees. Using the planner, you can perform the following actions:
 
--   Access the [[event-planner|event planner]] as a Reservation planner and a Reservation viewer.
+-   Access the event planner as a Reservation planner and a Reservation viewer.
 -   Set the start and end time displaying on the calendar in the schedule view.
 -   View various reservations such as single, recurring occurrences, multi-child, group, and more.
 -   Check the available and unavailable spaces at any time.
@@ -30,7 +30,7 @@ You can view all the reservations of your organization in this single workspace,
 -   Change a reservation to an earlier or later date or time.
 -   View detailed information of each reservation requested either in the past, on the current day or that are upcoming.
 -   View details such as the requester, the current state of the reservation, the check-in and check-out status, the invitees, the number of people attending and more.
--   [[create-reservation-request-1|Create a reservation]].
+-   Create a reservation.
 -   As a reservation planner, you can perform the following actions:
     -   Drag a reservation to another date and time to reschedule.
     -   Drag and drop a reservation with service items to another time or another location. The service items can't be modified but the quantity of the service items can be modified.
@@ -165,7 +165,7 @@ The schedule view opens a time-line view displaying all the workplace locations 
 
 -   **Legend**
 
-    You can view the color legend based on which the reservations are displayed. The legend displays the colors associated with each state. As an admin, you can modify the colors associated with each state in [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] properties. Navigate to **All** &gt; **Workplace Reservation Management** &gt; **Administration** &gt; **Properties** to modify the properties. You can edit the following properties and specify your colors:
+    You can view the color legend based on which the reservations are displayed. The legend displays the colors associated with each state. As an admin, you can modify the colors associated with each state in Workplace Reservation Management properties. Navigate to **All** &gt; **Workplace Reservation Management** &gt; **Administration** &gt; **Properties** to modify the properties. You can edit the following properties and specify your colors:
 
     -   Color for Draft reservations in Event Planner Experience
     -   Color for In progress reservations in Event Planner Experience.
@@ -190,7 +190,7 @@ The schedule view opens a time-line view displaying all the workplace locations 
     You can select the reservation to view details such as the reservation start and end time, duration, subtype, status, and services requested if there are any.
 
     -   You can also view further details of the reservations on the side panel by selecting the Open side panel icon \(\[Omitted image "evnt-plnnr-opensidepanelicon.png"\] Alt text: Open side panel icon.\).
-    -   To open the reservation and view it on the portal, you can select the **Open reservation** option. The reservation is displayed in [[employee-center-landing-page|Employee Center]] by default. If you want the reservation to open on a custom portal instead of Employee Center, you must perform the following actions:
+    -   To open the reservation and view it on the portal, you can select the **Open reservation** option. The reservation is displayed in Employee Center by default. If you want the reservation to open on a custom portal instead of Employee Center, you must perform the following actions:
         1.  Navigate to **System Definitions** &gt; **Script includes**.
         2.  Search and open **WPCoreUtils**.
         3.  In the **Script** field, override `getCommonPortalSuffix` function to get the common portal suffix.
@@ -199,7 +199,7 @@ The schedule view opens a time-line view displaying all the workplace locations 
     -   You can also move the reservation to another time or to another location by dragging the bar of the reservation.
 -   **Last updated sub source**
     -   When a reservation is updated from the Contextual side panel, the last updated sub source is updated as **Workplace Event Planner**.
-    -   When a reservation is updated from the portal, then the last updated sub source is updated as **[[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]**.
+    -   When a reservation is updated from the portal, then the last updated sub source is updated as **Workplace Service Delivery**.
 
 ## Reservation details view
 
@@ -282,10 +282,3 @@ As a reservation planner, you can cancel a reservation if necessary using the **
 
 [User Workplace Profile form]()
 
-## Related
-
-- [[event-planner|Event Planner]]
-- [[create-reservation-request-1|Create a reservation]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]

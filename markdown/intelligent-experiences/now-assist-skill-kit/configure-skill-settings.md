@@ -14,7 +14,7 @@ breadcrumb: [Configuring Now Assist Skill Kit, Now Assist Skill Kit, Enable AI e
 
 # Configure skill deployment settings
 
-Configure the deployment settings for the skill that you have created. The deployment settings enable you to choose where the admin can find the skill in [[platform-now-assist-landing|Now Assist]] Admin.
+Configure the deployment settings for the skill that you have created. The deployment settings enable you to choose where the admin can find the skill in Now Assist Admin.
 
 ## Before you begin
 
@@ -24,11 +24,11 @@ Role required: sn\_skill\_builder.admin
 
 Deployment settings control two things: where the skill appears in the Now Assist Admin console for an admin, and which activation methods are available to that admin. You must configure both before publishing the skill.
 
-**Important:** Deployment settings for cloned ServiceNow skills cannot be edited. If you select **Deployment settings** on a cloned skill, a notification informs you that these settings are locked. To use custom deployment settings, [[create-new-skill|create a skill]] from scratch instead of cloning.
+**Important:** Deployment settings for cloned ServiceNow skills cannot be edited. If you select **Deployment settings** on a cloned skill, a notification informs you that these settings are locked. To use custom deployment settings, create a skill from scratch instead of cloning.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[now-assist-skill-kit-landing|Now Assist Skill Kit]]** &gt; **Home**.
+1.  Navigate to **All** &gt; **Now Assist Skill Kit** &gt; **Home**.
 
 2.  Select the skill that you want to configure from the **Custom Skills** list.
 
@@ -113,7 +113,7 @@ Allows the skill to be triggered through the Now Assist Panel.
 
 </td><td>
 
-The Now Assist panel is the conversational interface found within the [[now-assist-center-landing-page|Now Assist Center]], learn more about this feature at [[now-assist-center-now-assist-panel|Now Assist panel]].
+The Now Assist panel is the conversational interface found within the Now Assist Center, learn more about this feature at [Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-now-assist-panel.md).
 
 </td></tr><tr><td>
 
@@ -121,7 +121,7 @@ UI Action
 
 </td><td>
 
-Adds a UI action button to the core UI to trigger the skill. Once activated, the button appears on the [[table-form|table form]] specified during skill configuration.
+Adds a UI action button to the core UI to trigger the skill. Once activated, the button appears on the table form specified during skill configuration.
 
 </td><td>
 
@@ -153,7 +153,7 @@ Makes the skill available for activation and use through the Now Assist context 
 
 </td><td>
 
-For details on the context menu, see[[now-assist-write-overview|Now Assist context menu]].
+For details on the context menu, see[Now Assist context menu](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-write-overview.md).
 
 </td></tr><tr><td>
 
@@ -196,15 +196,5 @@ After you configure the skill settings, you can publish your skill. To learn mor
 
 [Configure a skill prompt]()
 
-[Configure security [[controls|controls]] for a skill]()
+[Configure security controls for a skill]()
 
-## Related
-
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[now-assist-write-overview|Now Assist context menu]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[create-new-skill|Create a skill]]
-- [[now-assist-skill-kit-landing|Now Assist Skill Kit]]
-- [[now-assist-center-landing-page|Now Assist Center]]
-- [[table-form|Table form]]
-- [[controls|Controls]]

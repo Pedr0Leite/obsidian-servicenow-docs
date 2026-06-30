@@ -12,7 +12,7 @@ breadcrumb: [Components installed with the email client, Email client, Notificat
 
 # Email composer \[email\_composer\]
 
-Creates [[c_EnableTheEmailClient|email client]] messages and can read email client templates.
+Creates email client messages and can read email client templates.
 
 ## Contains Roles
 
@@ -28,6 +28,3 @@ None.
 
 None.
 
-## Related
-
-- [[c_EnableTheEmailClient|Email client]]

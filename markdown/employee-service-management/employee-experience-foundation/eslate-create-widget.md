@@ -15,7 +15,7 @@ breadcrumb: [AI-powered Widget Builder, Working with Employee Slate capabilities
 
 # Create a widget with the AI-powered Widget Builder
 
-Use the [[eslate-ai-widget-builder|AI-powered Widget Builder]] to generate an [[employee-slate-landing-page|Employee Slate]] widget from a natural-language prompt. Refine the widget properties and publish the widget to the widget library.
+Use the AI-powered Widget Builder to generate an Employee Slate widget from a natural-language prompt. Refine the widget properties and publish the widget to the widget library.
 
 ## Before you begin
 
@@ -72,7 +72,3 @@ The Widget Builder generates, validates, and compiles the widget behind the scen
 
 The new widget is available in the Widget Builder library with the tag name, description, and role assignments that you configured. You can add the widget to the default canvas dashboard, and can also expose it through the widget library so employees can add it to their personal canvas.
 
-## Related
-
-- [[eslate-ai-widget-builder|AI-powered Widget Builder]]
-- [[employee-slate-landing-page|Employee Slate]]

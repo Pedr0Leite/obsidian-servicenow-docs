@@ -14,7 +14,7 @@ breadcrumb: [NLU Workbench - Advanced Features, Natural Language Understanding, 
 
 # Cross-model Conflict Review
 
-Identify conflicting intents within or across models so you can take corrective actions, resolve such conflicts, and improve your [[nlu-model-performance|NLU model performance]].
+Identify conflicting intents within or across models so you can take corrective actions, resolve such conflicts, and improve your NLU model performance.
 
 ## Summary usage
 
@@ -26,7 +26,7 @@ To address and fix these issues, Cross-model Conflict Review runs an analysis on
 
 ## Installation
 
-Cross-model Conflict Review is part of the [[nlu-workbench-advanced-features|NLU Workbench - Advanced Features]] app available on the ServiceNow® Store.
+Cross-model Conflict Review is part of the NLU Workbench - Advanced Features app available on the ServiceNow® Store.
 
 To use Cross-model Conflict Review, ensure that the NLU Workbench - Advanced Features \(com.snc.nlu.workbench.advanced\) plugin is active on your instance. For more information, see [Install NLU Workbench - Advanced Features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/install-nlu-workbench-adv-features.md) and [Activate the NLU Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/activate-nlu-workbench.md).
 
@@ -38,7 +38,7 @@ To access Cross-model Conflict Review, use the nlu\_admin or admin role. When as
 
 The Conflict Review screen shows a list view of all conflict reviews created in your instance. When a review is completed, it's added to a running list of reviews. In this example scenario, you're creating the first review in your instance, so when it's completed, it's shown in the count as 1 of 1 reviews. As more conflicts arise over time, you will see multiple reviews in the list.
 
-Conflict reviews are analyzed on either one or two [[nlu-models|NLU models]]. When you run an analysis on a single model, the system shows intents and utterances that are only in that model. When you run an analysis on 2 models, the system shows intents and utterances that are in both models.
+Conflict reviews are analyzed on either one or two NLU models. When you run an analysis on a single model, the system shows intents and utterances that are only in that model. When you run an analysis on 2 models, the system shows intents and utterances that are in both models.
 
 Conflict reviews always run on the last trained version of the model\(s\) they analyze.
 
@@ -114,8 +114,3 @@ The Conflict Review list screen appears, showing your conflict review analysis i
 
 \[Omitted image "nlu-intent-conflict-review12.png"\] Alt text: A confirmation that shows the user's conflict has been reviewed, and appears as such on the final Conflict Review screen
 
-## Related
-
-- [[nlu-model-performance|NLU Model Performance]]
-- [[nlu-workbench-advanced-features|NLU Workbench - Advanced Features]]
-- [[nlu-models|NLU models]]

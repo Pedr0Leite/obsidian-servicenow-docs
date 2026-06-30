@@ -16,13 +16,13 @@ Customer service agents and managers can use the applet launcher and applets in 
 
 ## Applet launchers
 
-Applet launchers serve as landing pages or home pages. When you log in to your instance, you see an applet launcher and the applets configured to display on that launcher. The system administrator configures the applet launcher and applets for the [[c_CustomerServiceManagement|Customer Service Management]] mobile application.
+Applet launchers serve as landing pages or home pages. When you log in to your instance, you see an applet launcher and the applets configured to display on that launcher. The system administrator configures the applet launcher and applets for the Customer Service Management mobile application.
 
 ## Navigation bar
 
 The navigation bar appears at the bottom of the mobile application screen. This bar includes the following tabs that you can use to access different applets and application launch pages:
 
--   **Cases**: displays the main case page. Use this applet launcher to access [[case-management|case management]] functionality.
+-   **Cases**: displays the main case page. Use this applet launcher to access case management functionality.
 -   **Notifications**: view a list of the notifications that have been pushed to the agent. Tap a notification in the list to see the details, then tap the details open the case.
 -   **Settings**: manage settings for the mobile application.
 
@@ -52,7 +52,7 @@ Customer service agents have access to the following set of applets.
 |New Cases|Cases in the New state.|
 |Active Critical Cases|Priority 1 cases in the Open, Awaiting Info, and Resolved states.|
 
-**Note:** Cases in these [[migration-lists|lists]] are sorted by the last updated date in descending order, with the most recent updated case displayed first.
+**Note:** Cases in these lists are sorted by the last updated date in descending order, with the most recent updated case displayed first.
 
 ## Customer service card layout
 
@@ -73,7 +73,7 @@ In the major case list view, case cards display the following information:
 
 ## Case form related lists
 
-Customer service agents can access the following [[r_CSCaseFormRelatedLists|Case form related lists]].
+Customer service agents can access the following Case form related lists.
 
 <table id="table_ylq_rb5_dhb"><thead><tr><th>
 
@@ -123,7 +123,7 @@ Displays a list of child cases for a case. View the following information for ch
 -   Account
 -   Contact
 
-Click a child case to view additional details on the [[r_CustomerServiceCaseForm|Case form]].
+Click a child case to view additional details on the Case form.
 
 </td></tr></tbody>
 </table>## Notifications
@@ -138,7 +138,7 @@ Agents can receive notifications in the Customer Service mobile application when
 |Case escalation|When an escalation is raised, users who are part of the group that has permissions to approve are notified. The approvers review and approve them.|
 |Change requests|When a change request is raised, users who are part of the group that has permissions to approve are notified. The approvers review and approve them.|
 
-**Parent Topic:**[[customer-service-mobile-interface|Mobile experience for CSM]]
+**Parent Topic:**[Mobile experience for CSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-mobile-interface.md)
 
 **Related topics**  
 
@@ -151,11 +151,3 @@ Agents can receive notifications in the Customer Service mobile application when
 
 [Mobile push notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-push-notifications.md)
 
-## Related
-
-- [[customer-service-mobile-interface|Mobile experience for CSM]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[case-management|Case management]]
-- [[migration-lists|Lists]]
-- [[r_CSCaseFormRelatedLists|Case form related lists]]
-- [[r_CustomerServiceCaseForm|Case form]]

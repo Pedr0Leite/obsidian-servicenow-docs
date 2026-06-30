@@ -12,7 +12,7 @@ breadcrumb: [SGC Central, Service Graph Connector for ServiceNow Operational Tec
 
 # SGC Central prerequisites
 
-Get started with [[sgc-central-for-ot-discovery|SGC Central]] and set up the prerequisites for the Service Graph Connector for ServiceNow OT Discovery
+Get started with SGC Central and set up the prerequisites for the Service Graph Connector for ServiceNow OT Discovery
 
 ## Before you begin
 
@@ -36,10 +36,10 @@ Role required: admin
 
     \[Omitted image "downloadpage2-sgcc.png"\] Alt text: OT Discovery Downloads
 
-    1.  Download and [[install-discovery-console-ot|install the Discovery Console for OT]] package.
-    2.  Download and [[install-discovery-sensor-for-ot|install the Discovery Sensor for OT]] package \(ISO and OVR\).
+    1.  Download and install the Discovery Console for OT package.
+    2.  Download and install the Discovery Sensor for OT package \(ISO and OVR\).
     3.  Download and install the OT Discovery Collector package that's compatible with your OS.
-    **Note:** If you want to download and install the Console and Collector containerized packages, see [[air-gapped-networks-installation|Air-gapped networks and OT Discovery installation]] for more information.
+    **Note:** If you want to download and install the Console and Collector containerized packages, see [Air-gapped networks and OT Discovery installation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/air-gapped-networks-installation.md) for more information.
 
 6.  The second prerequisite is to configure the MID Server.
 
@@ -49,9 +49,4 @@ Role required: admin
 
 7.  Verify that the prerequisites are complete and select **Continue**.
 
-## Related
 
-- [[air-gapped-networks-installation|Air-gapped networks and OT Discovery installation]]
-- [[sgc-central-for-ot-discovery|SGC Central]]
-- [[install-discovery-console-ot|Install the Discovery Console for OT]]
-- [[install-discovery-sensor-for-ot|Install the Discovery Sensor for OT]]

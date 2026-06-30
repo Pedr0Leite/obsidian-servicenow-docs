@@ -34,7 +34,7 @@ Your model must be in Monitoring mode. You can set Monitoring mode on the Assess
 
 2.  Filter the **Predicted Output Value Name** for the name of the field you want to assess, such as "product" or "category."
 
-3.  Group the list by **Predicted Correctly** by selecting the list [[controls|controls]] icon in the top left corner of the screen.
+3.  Group the list by **Predicted Correctly** by selecting the list controls icon in the top left corner of the screen.
 
     \[Omitted image "predictor-results-list.png"\] Alt text: List control open to group by Predicted Correctly
 
@@ -46,7 +46,7 @@ Your model must be in Monitoring mode. You can set Monitoring mode on the Assess
 
 6.  View the performance of your model on the Monitoring screen.
 
-    1.  Navigate to **[[task-intelligence|Task Intelligence]] for Customer Service** &gt; **Monitoring** in the Application navigator.
+    1.  Navigate to **Task Intelligence for Customer Service** &gt; **Monitoring** in the Application navigator.
 
         The Monitoring screen allows you to select the model, field, and date range to display in the charts. Accuracy is measured based on whether the top autofilled value or the top 3 recommendations are correct.
 
@@ -63,7 +63,3 @@ Your model must be in Monitoring mode. You can set Monitoring mode on the Assess
 
 If the accuracy of each field is acceptable, transition your model from monitoring mode to real-time predictions and deploy. If the accuracy of a specific field is not acceptable, you can remove that output field from your model, retrain, and deploy. See [Edit a Task Intelligence model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/task-intelligence/edit-a-task-intelligence-model.md) for more information on editing your model.
 
-## Related
-
-- [[controls|Controls]]
-- [[task-intelligence|Task Intelligence]]

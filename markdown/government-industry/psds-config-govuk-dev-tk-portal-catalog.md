@@ -32,13 +32,9 @@ The Catalog Content widget is part of the Service Catalog, and includes a tiled 
 
 The GDS Service Portal service catalog landing page \(uk\_gds\_services\) is the display page for service catalog items or service catalog record producers on the GDS Service Portal. This page provides an interface from where you can access the catalog items, requests, approvals, popular items, recent items, and saved bundles, and is configured by default with the GOV.UK Developer Toolkit. Navigate to **Service Portal** &gt; **Pages** to view and edit the properties of this page.
 
-For information on configuring this page, see [[psds-config-gds-browse-cat-page|Configure the GOV.UK Design System Service Portal Services Page]]
+For information on configuring this page, see [Configure the GOV.UK Design System Service Portal Services Page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gds-browse-cat-page.md)
 
 .
 
-**Parent Topic:**[[psds-config-gds-content-pack-gsp|Configure the GOV.UK Design System \(GDS\) Service Portal]]
+**Parent Topic:**[Configure the GOV.UK Design System \(GDS\) Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gds-content-pack-gsp.md)
 
-## Related
-
-- [[psds-config-gds-browse-cat-page|Configure the GOV.UK Design System Service Portal Services Page]]
-- [[psds-config-gds-content-pack-gsp|Configure the GOV.UK Design System \(GDS\) Service Portal]]

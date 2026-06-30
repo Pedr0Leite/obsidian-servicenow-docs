@@ -12,7 +12,7 @@ breadcrumb: [Facilities Service Management overview, Facilities Service Manageme
 
 # Interactive facility maps
 
-The interactive facility maps, including the Workbench and the Floor Plan, provide a campus-level hierarchy, improving your facilities request tracking and [[r_SpaceManagement|space management]]. Decision makers in your organization can track, manage, and analyze spaces in support of organizational needs and users can find other users and assets.
+The interactive facility maps, including the Workbench and the Floor Plan, provide a campus-level hierarchy, improving your facilities request tracking and space management. Decision makers in your organization can track, manage, and analyze spaces in support of organizational needs and users can find other users and assets.
 
 **Note:** This feature is no longer available for new customers.
 
@@ -24,38 +24,24 @@ The interactive facility maps offer the following benefits:
 -   You can see affected spaces with zone creation by particular actions, like construction or maintenance of equipment that services those zones.
 -   Define spaces with capacity metrics \(gross space, usable space, assignable space, occupiable space\) for reporting and financials.
 
--   **[[r_MapFilters|Map filters]]**  
+-   **[Map filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_MapFilters.md)**  
 Users can filter the map to determine how various spaces are colored.
--   **[[c_EnhancedLabels|Enhanced labels]]**  
+-   **[Enhanced labels](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_EnhancedLabels.md)**  
 Enhanced labels allow the end user to show any information on any mappable space \(fm\_space\), as the space label. Users choose to display the occupant name, the department name, or other custom field as the default label.
--   **[[r_MapSettings|Map settings]]**  
+-   **[Map settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_MapSettings.md)**  
 Map settings allow the facilities staff or users to choose the appearance of their floor plan.
--   **[[t_FindSpaceUserMobile|Find a space or user on a mobile interface]]**  
+-   **[Find a space or user on a mobile interface](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_FindSpaceUserMobile.md)**  
 Quickly find a conference room, office, cubicle, or another employee in your organization on a mobile interface.
--   **[[t_FindASpaceOrUser|Find a space or user]]**  
+-   **[Find a space or user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_FindASpaceOrUser.md)**  
 All users in your organization, regardless of their role, can search for other users and spaces. The results are ordered by current level or floor, current campus, and other campuses.
--   **[[t_FindAssetorCI|Find an asset or CI]]**  
+-   **[Find an asset or CI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_FindAssetorCI.md)**  
 All users in your organization, regardless of their role, can search for assets and CIs. The results are ordered by current level or floor, current campus, and other campuses.
--   **[[t_ShowAnyTaskOnMap|Show any task on a map]]**  
+-   **[Show any task on a map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_ShowAnyTaskOnMap.md)**  
 Custom tables that are extended from task can be created, shown, and managed on the interactive map. The location field on the task, must be a mappable space \(fm\_space\). There are some location fields on task that may have a reference qualifier that does not allow fm\_space be used.
--   **[[c_FacilitiesFloorPlan|Facilities Floor Plan]]**  
-Users use the floor plan find other users, spaces, and assets. Users can also create [[c_FacilitiesRequests|facilities requests]] from any space on the floor plan.
--   **[[c_FacilitiesWorkbench|Facilities Workbench]]**  
+-   **[Facilities Floor Plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_FacilitiesFloorPlan.md)**  
+Users use the floor plan find other users, spaces, and assets. Users can also create facilities requests from any space on the floor plan.
+-   **[Facilities Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_FacilitiesWorkbench.md)**  
 Members of the facilities staff use the workbench to interact dynamically with the floor plan. Users have access to the floor plan \(but not the workbench\), from which they can find other users and spaces.
 
-**Parent Topic:**[[c_FacilitiesServiceManagement|Facilities Service Management overview]]
+**Parent Topic:**[Facilities Service Management overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_FacilitiesServiceManagement.md)
 
-## Related
-
-- [[r_MapFilters|Map filters]]
-- [[c_EnhancedLabels|Enhanced labels]]
-- [[r_MapSettings|Map settings]]
-- [[t_FindSpaceUserMobile|Find a space or user on a mobile interface]]
-- [[t_FindASpaceOrUser|Find a space or user]]
-- [[t_FindAssetorCI|Find an asset or CI]]
-- [[t_ShowAnyTaskOnMap|Show any task on a map]]
-- [[c_FacilitiesFloorPlan|Facilities Floor Plan]]
-- [[c_FacilitiesWorkbench|Facilities Workbench]]
-- [[c_FacilitiesServiceManagement|Facilities Service Management overview]]
-- [[r_SpaceManagement|Space management]]
-- [[c_FacilitiesRequests|Facilities requests]]

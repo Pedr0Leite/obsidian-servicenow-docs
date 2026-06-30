@@ -47,7 +47,7 @@ This procedure has three stages. Complete all three before AI detection takes ef
         -   `sn_customerservice.customer`
 2.  Test the skill with your data before activating the workflow.
 
-    1.  In the **[[na-for-csm-major-issue-management|Now Assist for CSM Major Issue Management]]** scope, navigate to **Now Assist Skill Kit** &gt; **Home** &gt; **ServiceNow skills** &gt; **Major Cases Similarity Search**.
+    1.  In the **Now Assist for CSM Major Issue Management** scope, navigate to **Now Assist Skill Kit** &gt; **Home** &gt; **ServiceNow skills** &gt; **Major Cases Similarity Search**.
 
     2.  Select **Run Test**.
 
@@ -82,9 +82,5 @@ The AI detection runs automatically on each newly created case that matches the 
 
 ## What to do next
 
-[[na-for-csm-mim-properties|Now Assist for CSM Major Issue Management Properties]]
+[Now Assist for CSM Major Issue Management Properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/na-for-csm-mim-properties.md)
 
-## Related
-
-- [[na-for-csm-mim-properties|Now Assist for CSM Major Issue Management Properties]]
-- [[na-for-csm-major-issue-management|Now Assist for CSM Major Issue Management]]

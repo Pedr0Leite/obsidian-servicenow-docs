@@ -14,7 +14,7 @@ breadcrumb: [SLO integration framework, Integrate, Supplier Lifecycle Operations
 
 # Add supplier inbound data in an Excel file
 
-You can import [[supplier|supplier]] inbound table data in an Excel file.
+You can import supplier inbound table data in an Excel file.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ Role required: admin
 2.  In the navigation filter, do one of the following:
 
     -   To see the list of columns in the supplier location inbound table, enter **sn\_fcms\_intg\_supplier\_location\_inbound\_list.do**.
-    -   To see the list of columns in the [[supplier-contact|supplier contact]] inbound table, enter **sn\_fcms\_intg\_supplier\_contact\_inbound\_list.do**.
+    -   To see the list of columns in the supplier contact inbound table, enter **sn\_fcms\_intg\_supplier\_contact\_inbound\_list.do**.
     -   To see the list of columns in the supplier payment inbound table, enter **sn\_fcms\_intg\_supplier\_payment\_inbound\_stage\_list.do**.
     -   To see the list of columns in the supplier payment inbound table, enter **sn\_fcms\_intg\_supplier\_legal\_entity\_list.do**.
 3.  Right-click any column heading and select **Export** &gt; **.xlsx**.
@@ -50,7 +50,3 @@ Load the supplier data from the excel template into the supplier inbound​ stag
 
 [Load supplier data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/load-supplier-data.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[supplier-contact|Supplier contact]]

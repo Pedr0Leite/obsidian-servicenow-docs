@@ -22,7 +22,7 @@ Role required: sn\_audit.admin and sn\_audit.manager
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[audit-management-overview-ws|Audit Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Audit Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "ListsIcon.jpg"\] Alt text: List icon.\).
 
@@ -70,6 +70,4 @@ Role required: sn\_audit.admin and sn\_audit.manager
 
 10. Click **Save** to save the test step plan.
 
-## Related
 
-- [[audit-management-overview-ws|Audit Workspace]]

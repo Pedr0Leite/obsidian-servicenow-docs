@@ -14,7 +14,7 @@ breadcrumb: [Service Catalog, Manage service capabilities, Extend ServiceNow AI 
 
 # Catalog Builder
 
-You can [[t_DefineACatalogItem|create or edit a catalog item]] \(catalog item or [[c_RecordProducer|record producer]]\) using a visual and guided experience along with specified restrictions. The Catalog Builder experience enables you to delegate the creation and maintenance of the catalog.
+You can create or edit a catalog item \(catalog item or record producer\) using a visual and guided experience along with specified restrictions. The Catalog Builder experience enables you to delegate the creation and maintenance of the catalog.
 
 You can also create a template that can be used to create catalog items. While creating the template, you can specify values or restrictions for items created using the template, for example, restrictions to catalogs, categories, variable types, and portal settings.
 
@@ -86,15 +86,15 @@ Catalog Builder does not allow creation and editing of the following entities, b
 
 -   Catalog item
     -   Meta tags
-    -   [[c_ExecutionPlans|Execution plans]]. If an item is assigned an execution plan, the process engine cannot be changed in the Catalog Builder.
+    -   Execution plans. If an item is assigned an execution plan, the process engine cannot be changed in the Catalog Builder.
     -   Price settings
 -   Variable settings
     -   Tool tips
-    -   Advanced and dynamic [[reference|reference]] qualifiers. If a variable has advanced or dynamic reference qualifiers, then the reference qualifier cannot be edited in the Catalog Builder.
+    -   Advanced and dynamic reference qualifiers. If a variable has advanced or dynamic reference qualifiers, then the reference qualifier cannot be edited in the Catalog Builder.
     -   Attributes
     -   Permissions
     -   Availability
-    -   Lookup [[label|label]] field \(defaults to lookup value field\)
+    -   Lookup label field \(defaults to lookup value field\)
     -   Lookup price fields
     -   Unique values only
     -   Always expanded help
@@ -102,24 +102,24 @@ Catalog Builder does not allow creation and editing of the following entities, b
     -   Advanced reference qualifiers
 -   Question types. The following questions are supported in Catalog Builder, and they are grouped into types and subtypes. For the unsupported question types, you can view the questions but not edit them:
     -   Text
-        -   Single-line. This is the [[single-line-text|Single-line text]] variable type in ServiceNow AI Platform.
-        -   Multi-line. This is the [[multi-line|Multi-line text]] variable type in ServiceNow AI Platform.
-        -   Rich text. This is the [[html|HTML]] variable type in ServiceNow AI Platform
+        -   Single-line. This is the Single-line text variable type in ServiceNow AI Platform.
+        -   Multi-line. This is the Multi-line text variable type in ServiceNow AI Platform.
+        -   Rich text. This is the HTML variable type in ServiceNow AI Platform
     -   Option
-        -   [[check-box|Check box]]. This is the Check box variable type in ServiceNow AI Platform.
-        -   [[yes-no|Yes/No]]. This is the Yes/No variable type in ServiceNow AI Platform.
+        -   Check box. This is the Check box variable type in ServiceNow AI Platform.
+        -   Yes/No. This is the Yes/No variable type in ServiceNow AI Platform.
     -   Choice
-        -   Dropdown \(fixed values\). This is the [[select-box|Select Box]] variable type in ServiceNow AI Platform.
-        -   Dropdown \(values from a table\). This is the [[lookup-select-box|Lookup Select Box]] variable type in ServiceNow AI Platform.
+        -   Dropdown \(fixed values\). This is the Select Box variable type in ServiceNow AI Platform.
+        -   Dropdown \(values from a table\). This is the Lookup Select Box variable type in ServiceNow AI Platform.
         -   Record reference. This is the Reference variable type in ServiceNow AI Platform.
-        -   Radio. This is the [[multiple-choice|Multiple Choice]] variable type in ServiceNow AI Platform.
-        -   Multi-select. This is the [[list-collector|List Collector]] variable type in ServiceNow AI Platform.
+        -   Radio. This is the Multiple Choice variable type in ServiceNow AI Platform.
+        -   Multi-select. This is the List Collector variable type in ServiceNow AI Platform.
     -   Date/Time
         -   Date. This is the Date variable type in ServiceNow AI Platform.
         -   Date &amp;Time. This is the Date and time variable type in ServiceNow AI Platform.
     -   Display label
         -   Plain text. This is the Label variable type in ServiceNow AI Platform.
-        -   Rich text. This is the [[rich-text-label|Rich Text Label]] variable type in ServiceNow AI Platform
+        -   Rich text. This is the Rich Text Label variable type in ServiceNow AI Platform
 -   Catalog UI policy
     -   **On Load** field \(defaults to true\)
     -   **Script** field. When a catalog UI policy has a script, it does not show up in the question's behavior settings list in the Catalog Builder.
@@ -143,20 +143,3 @@ Pre-specify values or provide restrictions for attributes such as catalogs, cate
 
 [Set up a service catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_SetUpAServiceCatalog.md)
 
-## Related
-
-- [[t_DefineACatalogItem|Create or edit a catalog item]]
-- [[c_RecordProducer|Record Producer]]
-- [[c_ExecutionPlans|Execution Plans]]
-- [[reference|Reference]]
-- [[label|Label]]
-- [[single-line-text|Single-line text]]
-- [[multi-line|Multi-line text]]
-- [[html|HTML]]
-- [[check-box|Check box]]
-- [[yes-no|Yes/No]]
-- [[select-box|Select box]]
-- [[lookup-select-box|Lookup select box]]
-- [[multiple-choice|Multiple choice]]
-- [[list-collector|List collector]]
-- [[rich-text-label|Rich Text Label]]

@@ -14,7 +14,7 @@ breadcrumb: [Guided Decisions configuration, Agent tools, Organize agent workspa
 
 Configure guidances and decision trees to resolve customer issues faster and provide standardized resolution.
 
-A decision tree is a structured troubleshooting process for service agents to work through. For more information, see [[setting-up-guided-decisions|Setting up Guided Decisions]].
+A decision tree is a structured troubleshooting process for service agents to work through. For more information, see [Setting up Guided Decisions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/setting-up-guided-decisions.md).
 
 The configuration process consists of the tasks listed in the following table.
 
@@ -28,7 +28,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[create-guidances|Create a guidance in the Core UI]]
+[Create a guidance in the Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-guidances.md)
 
 </td><td>
 
@@ -36,7 +36,7 @@ Configure guidances to provide actions to your agents.
 
 </td></tr><tr><td>
 
-[[decision-trees-in-gdb|Configuring decision trees in Decision Tree Builder]]
+[Configuring decision trees in Decision Tree Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/decision-trees-in-gdb.md)
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configure decision trees that agents can use to troubleshoot solutions for custo
 
 </td></tr><tr><td>
 
-[[decision-trees|Editing decision trees in Core UI]]
+[Editing decision trees in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/decision-trees.md)
 
 </td><td>
 
@@ -52,15 +52,15 @@ Edit the decision trees that you created using Core UI to improve or extend the 
 
 </td></tr><tr><td>
 
-[[add-guided-decisions-to-recommended-actions|Add Guided Decisions to Recommended Actions]]
+[Add Guided Decisions to Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/add-guided-decisions-to-recommended-actions.md)
 
 </td><td>
 
-Add decision trees to [[configure-nba|recommended actions]], so that agents can take relevant actions in a troubleshooting process based on a record context.
+Add decision trees to recommended actions, so that agents can take relevant actions in a troubleshooting process based on a record context.
 
 </td></tr><tr><td>
 
-[[add-guided-decision-playbook|Add Guided Decisions to playbooks]]
+[Add Guided Decisions to playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/add-guided-decision-playbook.md)
 
 </td><td>
 
@@ -68,7 +68,7 @@ Add decision trees to playbooks, so that agents can provide resolution in a trou
 
 </td></tr><tr><td>
 
-[[add-guided-decisions-service-portal|Add Guided Decisions to Service Portal]]
+[Add Guided Decisions to Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/add-guided-decisions-service-portal.md)
 
 </td><td>
 
@@ -76,14 +76,3 @@ Add decision trees to Service Portal, so that internal users can leverage self-s
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[setting-up-guided-decisions|Configuring Guided Decisions]]
-- [[create-guidances|Create a guidance in the Core UI]]
-- [[decision-trees-in-gdb|Configuring decision trees in Decision Tree Builder]]
-- [[decision-trees|Editing decision trees in Core UI]]
-- [[add-guided-decisions-to-recommended-actions|Add Guided Decisions to Recommended Actions]]
-- [[add-guided-decision-playbook|Add Guided Decisions to playbooks]]
-- [[add-guided-decisions-service-portal|Add Guided Decisions to Service Portal]]
-- [[configure-nba|Recommended Actions]]

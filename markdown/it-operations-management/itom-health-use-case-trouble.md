@@ -12,11 +12,11 @@ breadcrumb: [Applying the CSDM guidelines to ITOM AIOps, ITOM AIOps, IT Operatio
 
 # ITOM AIOps considerations for CSDM framework
 
-[[itom-health-landing-page|ITOM AIOps]] aligns with CSDM framework to ensure standardized data management and optimize IT operations.
+ITOM AIOps aligns with CSDM framework to ensure standardized data management and optimize IT operations.
 
 Key considerations for implementing ITOM AIOps for CSDM framework include the following.
 
--   **Identifying necessary Configuration Items \(CIs\) for optimal [[c_EM|Event Management]] benefits**
+-   **Identifying necessary Configuration Items \(CIs\) for optimal Event Management benefits**
 
     Event Management utilizes Configuration Items \(CIs\) monitored by the operations team to correlate alerts with the appropriate CI and assess their impact on the monitored service.
 
@@ -28,7 +28,4 @@ Key considerations for implementing ITOM AIOps for CSDM framework include the fo
 
     In Event Management \(EM\), the Dynamic CI Group service functions as a logical grouping mechanism for Configuration Items \(CIs\), offering technology or service owners insight into the health status of the grouped entities.
 
-## Related
 
-- [[itom-health-landing-page|ITOM AIOps]]
-- [[c_EM|Event Management]]

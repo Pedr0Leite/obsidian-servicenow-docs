@@ -12,12 +12,12 @@ breadcrumb: [Threat Intelligence integrations, Threat Intelligence, Enterprise s
 
 # OPSWAT Metadefender Integration
 
-OPSWAT Metadefender allows threat data, detected by the third-party Metadefender scanner, to be downloaded to the [[threat-intel-landing-page|Threat Intelligence]] application for tracking, prioritization, and resolution.
+OPSWAT Metadefender allows threat data, detected by the third-party Metadefender scanner, to be downloaded to the Threat Intelligence application for tracking, prioritization, and resolution.
 
 <table id="simpletable_g33_wwg_vt" class="simpletableBody"><tbody><tr><td>
 
-[[threat-intelligence-security-center-overview|Explore]] -   [[c_Metadefenderintegration|OPSWAT Metadefender integration overview]]
--   [[threat-intelligence-integrations|Threat Intelligence integrations]]
+Explore -   [OPSWAT Metadefender integration overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/c_Metadefenderintegration.md)
+-   [Threat Intelligence integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-integrations.md)
 
 </td><td>
 
@@ -25,19 +25,19 @@ Setup [Activate and configure the OPSWAT Metadefender integration](https://raw.g
 
 </td></tr><tr><td>
 
-Use [[perform-lookups-on-observables|Perform lookups on observables]]
+Use [Perform lookups on observables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/perform-lookups-on-observables.md)
 
 </td><td>
 
-Develop -   [[c_IntegrationWritingGuidelines|ServiceNow Security Operations integration development guidelines]]
--   [[c_BestPractisesIntegrations|Tips for writing integrations]]
+Develop -   [ServiceNow Security Operations integration development guidelines](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/c_IntegrationWritingGuidelines.md)
+-   [Tips for writing integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/c_BestPractisesIntegrations.md)
 -   [Developer training](https://developer.servicenow.com/app.do#!/training/landing)
 -   [Developer documentation](https://developer.servicenow.com/app.do#!/documentation)
 -   [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md)
 
 </td></tr><tr><td>
 
-Troubleshoot and get help -   [[c_IntegrationTroubleshooting|Integration troubleshooting]]
+Troubleshoot and get help -   [Integration troubleshooting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/c_IntegrationTroubleshooting.md)
 -   [Ask or answer questions in the Security Operations community](https://community.servicenow.com/community/security-operations)
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
@@ -48,14 +48,3 @@ Troubleshoot and get help -   [[c_IntegrationTroubleshooting|Integration trouble
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_Metadefenderintegration|OPSWAT Metadefender integration overview]]
-- [[threat-intelligence-integrations|Threat Intelligence integrations]]
-- [[perform-lookups-on-observables|Perform lookups on observables]]
-- [[c_IntegrationWritingGuidelines|ServiceNow Security Operations integration development guidelines]]
-- [[c_BestPractisesIntegrations|Tips for writing integrations]]
-- [[c_IntegrationTroubleshooting|Integration troubleshooting]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[threat-intelligence-security-center-overview|Explore]]

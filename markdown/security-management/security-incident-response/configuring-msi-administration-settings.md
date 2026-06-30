@@ -14,7 +14,7 @@ breadcrumb: [Major Security Incident Management, Security Incident Response, Ent
 
 # Major Security Incident Management administration
 
-Plan and configure your [[major-security-incident-management-landing-page|Major Security Incident Management]] implementation.
+Plan and configure your Major Security Incident Management implementation.
 
 You can configure the following aspects of Major Security Incident Management administration:
 
@@ -34,9 +34,9 @@ Role required: sn\_msi.workspace\_admin
 
 2.  Enable users to propose a security incident to a major security incident by selecting the **Propose Major Security Incident** check box in the SIR/VR Workspace Actions section.
 
-3.  Enable users to promote a security incident to a major security incident by selecting the **[[promote-to-major-security-incident|Promote to Major Security Incident]]** check box.
+3.  Enable users to promote a security incident to a major security incident by selecting the **Promote to Major Security Incident** check box.
 
-4.  Enable linking a security incident to a major security incident so they can be tracked together by selecting the **[[link-si-msi|Link to Major Security Incident]]** check box.
+4.  Enable linking a security incident to a major security incident so they can be tracked together by selecting the **Link to Major Security Incident** check box.
 
 5.  Select **Update**.
 
@@ -110,7 +110,7 @@ You can select or deselect the labels using the labels icon that is available on
 
 ## Configure timeline categories for major security incidents
 
-Configure and assign Timeline categories such as Threat, Response, or Custom to your major security incidents using the Timeline section on the [[vr-va-ws-overview-tab|Overview tab]].
+Configure and assign Timeline categories such as Threat, Response, or Custom to your major security incidents using the Timeline section on the Overview tab.
 
 ### Before you begin
 
@@ -196,9 +196,4 @@ Role required: sn\_msi.workspace\_admin
 
 4.  Select **Update**.
 
-## Related
 
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]
-- [[promote-to-major-security-incident|Promote to Major Security Incident]]
-- [[link-si-msi|Link to Major Security Incident]]
-- [[vr-va-ws-overview-tab|Overview tab]]

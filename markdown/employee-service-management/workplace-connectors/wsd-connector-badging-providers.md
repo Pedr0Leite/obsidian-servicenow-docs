@@ -22,7 +22,7 @@ Role required: sn\_wsd\_wc.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-connectors-landing-page|Workplace Connectors]]** &gt; **Administration** &gt; **Providers**.
+1.  Navigate to **All** &gt; **Workplace Connectors** &gt; **Administration** &gt; **Providers**.
 
 2.  Select **New** and add a new provider to get the badging data from the spoke vendor.
 
@@ -33,6 +33,3 @@ Role required: sn\_wsd\_wc.admin
 
 **Next topic:**[Configure connectors for badging data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/workplace-connector-configuration.md)
 
-## Related
-
-- [[workplace-connectors-landing-page|Workplace Connectors]]

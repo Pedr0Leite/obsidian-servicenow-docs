@@ -20,18 +20,18 @@ With the AWS Monitoring Technology Dashboard, you can monitor the health and per
 
 The AWS Monitoring Technology Dashboard shows the five CIs and servers with the highest metric readouts during the past six hours. The dashboard also shows the 50 most recent active alerts in your AWS environment.
 
-To view the dashboard, navigate to **All** &gt; **AIOps [[otto-aiops-dashboards|Dashboards]]** &gt; **Monitoring Technology Dashboards** and select **AWS Monitoring**.
+To view the dashboard, navigate to **All** &gt; **AIOps Dashboards** &gt; **Monitoring Technology Dashboards** and select **AWS Monitoring**.
 
 ## Using the Monitoring Technology Dashboard for AWS
 
 Before using the Monitoring Technology Dashboard for AWS:
 
--   Create an AWS credential. For details on creating AWS credentials, see [[setup-aws-service-accounts|Setting up AWS service accounts]].
--   Create a [[r-discovery|Discovery]] schedule, using the credential created in the previous step. For details on creating a Discovery schedule, see [[access-aws-accounts|Access setup for AWS service accounts]].
--   Ensure that you’re working in the [[acc-monitoring-landing-page|Agent Client Collector Monitoring]] scope in your ServiceNow instance.
+-   Create an AWS credential. For details on creating AWS credentials, see [Setting up AWS service accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/setup-aws-service-accounts.md).
+-   Create a Discovery schedule, using the credential created in the previous step. For details on creating a Discovery schedule, see [Access setup for AWS service accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/access-aws-accounts.md).
+-   Ensure that you’re working in the Agent Client Collector Monitoring scope in your ServiceNow instance.
 -   Ensure that the agent\_client\_collector\_admin and dashboard\_admin roles are enabled.
--   Enable [[operational-metrics|Metric Intelligence]] on the MID Server.
--   Ensure that the **[[aws-metrics|AWS Metrics]]**, **AWS EC2 Metrics**, and **AWS DynamoDB Metrics** policies are enabled.
+-   Enable Metric Intelligence on the MID Server.
+-   Ensure that the **AWS Metrics**, **AWS EC2 Metrics**, and **AWS DynamoDB Metrics** policies are enabled.
 
     Enabling these policies activates metric to CI mapping.
 
@@ -64,12 +64,3 @@ You can customize the appearance of the individual widgets on the AWS Monitoring
 
 **Parent Topic:**[Understanding the Monitoring Technology Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/monitor-tech-dashboard-concept.md)
 
-## Related
-
-- [[setup-aws-service-accounts|Setting up AWS service accounts]]
-- [[access-aws-accounts|Access setup for AWS service accounts]]
-- [[otto-aiops-dashboards|Dashboards]]
-- [[r-discovery|Discovery]]
-- [[acc-monitoring-landing-page|Agent Client Collector Monitoring]]
-- [[operational-metrics|Metric Intelligence]]
-- [[aws-metrics|AWS metrics]]

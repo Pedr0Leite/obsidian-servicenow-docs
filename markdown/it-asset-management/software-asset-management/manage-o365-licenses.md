@@ -14,7 +14,7 @@ breadcrumb: [Success Guides, Success portal view in Software Asset Workspace, So
 
 # Microsoft 365 SaaS License Management success guide
 
-Track Microsoft 365 SaaS subscription licenses in the ServiceNow [[c_SoftwareAssetMgmt|Software Asset Management]] application and proactively identify saving opportunities for Microsoft 365.
+Track Microsoft 365 SaaS subscription licenses in the ServiceNow Software Asset Management application and proactively identify saving opportunities for Microsoft 365.
 
 **Note:** Microsoft Dynamics 365 and Power Apps haven’t been covered in this guide. For details, see [Integrating with Microsoft Dynamics 365 and Power Apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/integrating-with-microsoft365.md).
 
@@ -33,7 +33,7 @@ You must gather the following information and reconcile for licensing:
 
 You can collect and analyze data from multiple sources for identifying Microsoft 365 saving opportunities. The Software Asset Management application automates this process with the base system integrations to the cloud and on-premise inventory tools. This installation data is normalized with the subscription profiles, which helps in importing Microsoft 365 or Office 365 entitlements easily.
 
-Reconciliation automatically produces license compliance positions based on attributes and calculations included in the [[microsoft-publisher-pack|Software Asset Management publisher pack for Microsoft]]. For more information, see [Identify savings opportunities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/identify-sav-opp-sg.md).
+Reconciliation automatically produces license compliance positions based on attributes and calculations included in the Software Asset Management publisher pack for Microsoft. For more information, see [Identify savings opportunities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/identify-sav-opp-sg.md).
 
 Track subscription licenses and identify saving opportunities for Microsoft 365 by following these steps:
 
@@ -43,7 +43,3 @@ Track subscription licenses and identify saving opportunities for Microsoft 365 
 4.  [Identify savings opportunities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/identify-sav-opp-sg.md)
 5.  [Microsoft 365 license optimization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/m365-lic-opt.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[microsoft-publisher-pack|Software Asset Management publisher pack for Microsoft]]

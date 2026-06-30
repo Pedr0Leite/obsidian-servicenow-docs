@@ -20,7 +20,7 @@ These procedures assume that you already have an external repository configured 
 
 **Note:** ServiceNow supports two external vaults at a time: one default CyberArk credential resolver, and one custom external credential resolver. Creating a custom CyberArk credential resolver still uses the second, custom external vault, and no additional custom external vaults can be used.
 
-To configure [[c_ExternalCredentialStorage|External Credential Storage]], complete the following tasks in order.
+To configure External Credential Storage, complete the following tasks in order.
 
 **Parent Topic:**[External credential storage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/c_ExternalCredentialStorage.md)
 
@@ -80,7 +80,7 @@ To create a JAR file to resolve credentials:
         	// instance...
         	public static final String ARG_TYPE = "type";
         
-        	// the string MID server making the [[c_requestAPI|request]], as configured on the
+        	// the string MID server making the request, as configured on the
         	// instance...
         	public static final String ARG_MID = "mid";
         
@@ -99,7 +99,7 @@ To create a JAR file to resolve credentials:
         	// the string private key for the credential, if needed...
         	public static final String VAL_PKEY = "pkey";
         
-        	// the string [[c_Authentication|authentication]] protocol for the credential, if needed...
+        	// the string authentication protocol for the credential, if needed...
         	public static final String VAL_AUTHPROTO = "authprotocol";
         
         	// the string authentication key for the credential, if needed...
@@ -352,7 +352,7 @@ Order
 
 </td><td>
 
-Enter the order \(sequence\) in which the platform tries this credential as it attempts to log onto devices. The smaller the number, the higher in the list this credential appears. Establish credential order when using large numbers of credentials or when security locks out [[users|users]] after three failed login attempts. If all the credentials have the same order number \(or none\), Discovery or Orchestration tries the credentials in a random order.
+Enter the order \(sequence\) in which the platform tries this credential as it attempts to log onto devices. The smaller the number, the higher in the list this credential appears. Establish credential order when using large numbers of credentials or when security locks out users after three failed login attempts. If all the credentials have the same order number \(or none\), Discovery or Orchestration tries the credentials in a random order.
 
 </td></tr></tbody>
 </table>7.  Click **Submit**.
@@ -395,9 +395,4 @@ These procedures assume that you already have an external repository configured 
 
 4.  Click **Submit**.
 
-## Related
 
-- [[c_ExternalCredentialStorage|External credential storage]]
-- [[c_requestAPI|request]]
-- [[c_Authentication|Authentication]]
-- [[users|Users]]

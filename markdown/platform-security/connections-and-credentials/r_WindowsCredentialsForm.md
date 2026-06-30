@@ -43,14 +43,14 @@ Security around granting privileged access can be enhanced by using JEA profiles
 
 ## Workgroup computers
 
-To run Powershell commands to discover a Workgroup computer, configure the MID Server credentials for either of these [[users|users]]:
+To run Powershell commands to discover a Workgroup computer, configure the MID Server credentials for either of these users:
 
 -   Built-in administrator account on the Workgroup computer.
 -   Domain user on the Workgroup computer.
 
 ## Multi-domain configuration
 
-To enable Windows credentials to function across multiple domains, make sure to sure to use the correct name formats and MID Server [[sc-configuration|configuration]].
+To enable Windows credentials to function across multiple domains, make sure to sure to use the correct name formats and MID Server configuration.
 
 Discovery and Orchestration support Windows domain credentials in both **User Principal Name** and **Down-Level Logon Name** user name formats. For example, **Domain\\UserName** or **UserName@example.domain.com**. You can provide Windows workgroup credentials in the following format: WORKGROUP\\UserName.
 
@@ -130,7 +130,7 @@ External credential store
 
 </td><td>
 
-Select this check box to use an [[c_ExternalCredentialStorage|external credential storage]] system. When you select this option the **User name** and **Password** fields are replaced with the **Credential ID** field. [External credential storage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/c_ExternalCredentialStorage.md) is only available when the External Credential Storage plugin in activated. **Note:** Currently, the only supported external storage system is [CyberArk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/c_CyberArkCredStorageIntegrate.md).
+Select this check box to use an external credential storage system. When you select this option the **User name** and **Password** fields are replaced with the **Credential ID** field. [External credential storage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/c_ExternalCredentialStorage.md) is only available when the External Credential Storage plugin in activated. **Note:** Currently, the only supported external storage system is [CyberArk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/c_CyberArkCredStorageIntegrate.md).
 
 </td></tr><tr><td>
 
@@ -198,8 +198,4 @@ Role required: admin
 
     3.  Select the Windows MID Server Service Account check box to create a credential that represents the windows MID Server service account to run as a specific Windows user or domain account.
 
-## Related
 
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[c_ExternalCredentialStorage|External credential storage]]

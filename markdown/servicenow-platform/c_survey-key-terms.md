@@ -28,7 +28,7 @@ Survey definition
 
 </td><td>
 
-Root record on which a survey is built. A survey definition contains information such as the survey name, state, and distribution schedule. Each survey definition has its own categories and questions.[[c_SurveyDefinitions|Survey definitions]] are comparable to legacy survey masters.
+Root record on which a survey is built. A survey definition contains information such as the survey name, state, and distribution schedule. Each survey definition has its own categories and questions.Survey definitions are comparable to legacy survey masters.
 
 </td></tr><tr><td>
 
@@ -44,7 +44,7 @@ Survey category
 
 </td><td>
 
-Represents a theme for [[c_SurveyQuestion|survey questions]]. Categories contain one or more questions. The system creates one category per survey by default. Additional categories are optional.
+Represents a theme for survey questions. Categories contain one or more questions. The system creates one category per survey by default. Additional categories are optional.
 
 </td></tr><tr><td>
 
@@ -87,10 +87,5 @@ Scorecard
 Visual representation of survey responses. Scorecards display a variety of data summaries for one survey definition.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[survey-reference|Surveys reference]]
+</table>**Parent Topic:**[Surveys reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/survey-reference.md)
 
-## Related
-
-- [[survey-reference|Surveys reference]]
-- [[c_SurveyDefinitions|Survey definitions]]
-- [[c_SurveyQuestion|Survey questions]]

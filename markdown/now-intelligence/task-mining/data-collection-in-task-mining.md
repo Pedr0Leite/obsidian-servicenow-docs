@@ -14,7 +14,7 @@ breadcrumb: [Explore, Task Mining, Platform Analytics]
 
 # Task Mining data model
 
-[[task-mining|Task Mining]] collects and processes workstation data to provide insights into workstation user activities and interactions.
+Task Mining collects and processes workstation data to provide insights into workstation user activities and interactions.
 
 ## Task Mining components and data flow
 
@@ -77,6 +77,3 @@ These data privacy measures safeguard the data collected, reduce the risk of exp
 
 [Data collected by Task Mining](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/data-management.md)
 
-## Related
-
-- [[task-mining|Task Mining]]

@@ -22,12 +22,12 @@ Make sure that you have created a scenario that is based on neighborhoods. For m
 
 **Important:** If allocation changes in your instance impact the scenario, the system displays a warning on the Space Details panel. You must review the changes, edit the scenario accordingly, then select **Move to valid** before continuing. For more information about allocation changes, see [Reviewing allocation changes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/reviewing-allocation-changes.md).
 
-\[Omitted image "wsd-central-review-changes.png"\] Alt text: Space details panel displaying a warning about [[reviewing-allocation-changes|reviewing allocation changes]].
+\[Omitted image "wsd-central-review-changes.png"\] Alt text: Space details panel displaying a warning about reviewing allocation changes.
 
 -   [Managing Neighborhoods](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/neighborhoods.md)
 -   [Create a scenario](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown).
 
-**Important:** You can add a user assignment or [[edit-a-user-assignment-of-a-neighbourhood|edit a user assignment of a neighborhood]] only in a building view.
+**Important:** You can add a user assignment or edit a user assignment of a neighborhood only in a building view.
 
 Role required: sn\_wsd\_spcmgmt.space\_planner
 
@@ -41,13 +41,13 @@ You can add or remove user assignments of a neighborhood in a building or a scen
 
 1.  Navigate to any one of the following locations:
 
-    -   **All** &gt; **[[workplace-central-feat|Workplace Central]]** &gt; **Workplace Central**.
-    -   **All** &gt; **[[scenario-planning|Scenario Planning]]** &gt; **My Scenario Plans**
-    You can also open Workplace Central from the [[employee-center-landing-page|Employee Center]] directly. Navigate to **Workspaces** &gt; **Workplace Central**.
+    -   **All** &gt; **Workplace Central** &gt; **Workplace Central**.
+    -   **All** &gt; **Scenario Planning** &gt; **My Scenario Plans**
+    You can also open Workplace Central from the Employee Center directly. Navigate to **Workspaces** &gt; **Workplace Central**.
 
-    The [[workplace-analytics|Workplace Analytics]] dashboard opens.
+    The Workplace Analytics dashboard opens.
 
-2.  Select the **[[space-optimization|Space Optimization]]** icon \(\[Omitted image "space-optimization-icon.png"\] Alt text: Space optimization.\).
+2.  Select the **Space Optimization** icon \(\[Omitted image "space-optimization-icon.png"\] Alt text: Space optimization.\).
 
     The Space optimization dashboard opens.
 
@@ -123,12 +123,3 @@ Use the filter option to filter the users list. You can add up to 1000 users to 
 
 [Edit a scenario using the floor map]()
 
-## Related
-
-- [[reviewing-allocation-changes|Reviewing allocation changes]]
-- [[edit-a-user-assignment-of-a-neighbourhood|Edit a user assignment of a neighborhood]]
-- [[workplace-central-feat|Workplace Central]]
-- [[scenario-planning|Scenario Planning]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-analytics|Workplace Analytics]]
-- [[space-optimization|Space Optimization]]

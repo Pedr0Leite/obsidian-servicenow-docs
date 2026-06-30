@@ -21,7 +21,7 @@ You can configure chat queues using one of the given options.
 -   Advanced Work Assignment for agent workspace
 -   Connect Chat support
 
-By default, a sample [[ur-landing-limitedaccess|Universal Request]] Chat Queue is available for both the options. You can create your own queue or customize the default queue.
+By default, a sample Universal Request Chat Queue is available for both the options. You can create your own queue or customize the default queue.
 
 -   **[Configure Advanced Work Assignment chat queue](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-config-awa-queue.md)**  
 Create or modify the default chat queue for UR in Advanced Work Assignment automatically assign work items to your agents, based on their availability.
@@ -30,6 +30,3 @@ Connect Support is a real-time messaging tool that enables support agents to eas
 
 **Parent Topic:**[Configuring Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/configure-ur.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]

@@ -15,7 +15,7 @@ breadcrumb: [Personalizing views for prioritization, Prioritize portfolio plan w
 
 # Personalize Kanban view
 
-Personalize the Kanban tab view in your portfolio plan's Planning page as displayed in [[alignment-planner-workspace-landing-page|Strategic Planning]], so you can view information that is most relevant to you and your stakeholders.
+Personalize the Kanban tab view in your portfolio plan's Planning page as displayed in Strategic Planning, so you can view information that is most relevant to you and your stakeholders.
 
 ## Before you begin
 
@@ -31,7 +31,7 @@ Kanban preferences are saved in the portfolio plan level. So, these settings are
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Strategic Planning** &gt; **Strategic Planning Workspace** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]]**.
+1.  Navigate to **All** &gt; **Strategic Planning** &gt; **Strategic Planning Workspace** &gt; **Portfolio Planning**.
 
 2.  From the list of portfolio plans, select one and then select **Planning**.
 
@@ -71,7 +71,3 @@ Choose the fields that you want to view on the cards. Use the toggle buttons for
 
 **Parent Topic:**[Personalizing views for prioritization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/personalize-prioritization-page-in-strategic-planinng-workspace.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

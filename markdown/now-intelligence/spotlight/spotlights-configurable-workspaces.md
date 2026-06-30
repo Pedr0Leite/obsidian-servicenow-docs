@@ -16,7 +16,7 @@ breadcrumb: [Ranking records with Spotlight, Configure advanced features, Perfor
 
 You can list Spotlights and show them in a dashboard on a configurable workspace.
 
-To show Spotlight in [[c_performanceAnalyticsAndReporting|Platform Analytics]], create a dashboard in the inline editor. Add a List to that dashboard that shows records from the Spotlight \[spotlight\] table. You can filter on the Spotlight Group, such as Incident Spotlight.
+To show Spotlight in Platform Analytics, create a dashboard in the inline editor. Add a List to that dashboard that shows records from the Spotlight \[spotlight\] table. You can filter on the Spotlight Group, such as Incident Spotlight.
 
 \[Omitted image "dashboard-spotlights.png"\] Alt text: A List component in the inline dashboard editor, showing the Spotlight table
 
@@ -25,12 +25,7 @@ To show Spotlight in [[c_performanceAnalyticsAndReporting|Platform Analytics]], 
 **Related topics**  
 
 
-[[analytics-center-dashboards|Dashboards in Platform Analytics]]
+[Dashboards in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-dashboards.md)
 
-[[create-dv-analytics-list|Create a list visualization in the Visualization Designer]]
+[Create a list visualization in the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-analytics-list.md)
 
-## Related
-
-- [[analytics-center-dashboards|Dashboards in Platform Analytics]]
-- [[create-dv-analytics-list|Create a list visualization in the Visualization Designer]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

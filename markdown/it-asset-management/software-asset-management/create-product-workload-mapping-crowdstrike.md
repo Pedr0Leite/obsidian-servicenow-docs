@@ -28,7 +28,7 @@ Workload mapping is essential for accurately associating specific products with 
 
 ## Procedure
 
-1.  Navigate to **[[sam-workspace|Software Asset Workspace]]** &gt; **License operations** &gt; **User subscription** &gt; **CrowdStrike product workload mappings**.
+1.  Navigate to **Software Asset Workspace** &gt; **License operations** &gt; **User subscription** &gt; **CrowdStrike product workload mappings**.
 
 2.  Select **New**.
 
@@ -99,6 +99,3 @@ The mapping that you have created appears in the CrowdStrike product workload ma
 
 [Integrating with CrowdStrike](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/integrate-with-crowdstrike.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]

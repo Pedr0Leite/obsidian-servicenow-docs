@@ -12,7 +12,7 @@ breadcrumb: [Configure case routing and assignment, Route and assign cases, Conf
 
 # Reverse matching
 
-Reverse matching uses the same matching [[gamification-components-rules|rules]] to match tasks to a resource rather than resources to a task.
+Reverse matching uses the same matching rules to match tasks to a resource rather than resources to a task.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ The same matching rule can be used for both forward and reverse matching.
 
 ## Procedure
 
--   In the [[c_CustomerServiceManagement|Customer Service Management]] application, you can use reverse matching to determine which call the next available agent should take.
+-   In the Customer Service Management application, you can use reverse matching to determine which call the next available agent should take.
 
 -   Reverse matching returns a list of case sys\_ids instead of user sys\_ids.
 
@@ -39,7 +39,4 @@ The same matching rule can be used for both forward and reverse matching.
     MatchingRuleProcessor.processAndGetCandidates(resource, taskLimit, "sn_customerservice_case", "reverse", false, [<array of cases to consider>])
     ```
 
-## Related
 
-- [[gamification-components-rules|Rules]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

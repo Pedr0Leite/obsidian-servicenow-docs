@@ -24,7 +24,7 @@ The data on the **Incident details** tab and **Communication tasks** tab is upda
 
 You must perform the following activities to integrate Meeting Extensions app in ServiceNow instance:
 
-1.  Ensure you have completed [[notify-connector-ms-teams|Notify connector for Microsoft Teams]] related procedures. For more information, see [Notify connector for Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/notify-connector-ms-teams.md).
+1.  Ensure you have completed Notify connector for Microsoft Teams related procedures. For more information, see [Notify connector for Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/notify-connector-ms-teams.md).
 2.  [Install Meeting Extensions for Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/install-meeting-ext-ms-teams.md)
 3.  [Setting up the ServiceNow instance for Microsoft Teams integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-tenants.md)
     -   [Integrate Meeting Extensions pre-published app with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-meeting-extensibility-multi-tenant.md)
@@ -39,6 +39,3 @@ To use Meeting Extensions for Microsoft Teams with ServiceNow, see [Use Microsof
 
 [Notify connector for Microsoft Teams]()
 
-## Related
-
-- [[notify-connector-ms-teams|Notify connector for Microsoft Teams]]

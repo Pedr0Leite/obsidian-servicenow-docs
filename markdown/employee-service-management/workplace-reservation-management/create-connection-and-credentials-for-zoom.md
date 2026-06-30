@@ -124,7 +124,7 @@ Domain
 
 </td><td>
 
-Domain that the action or [[activity-lxp|activity]] runs in.
+Domain that the action or activity runs in.
 
 </td></tr></tbody>
 </table>    4.  Click **Submit**.
@@ -136,6 +136,3 @@ Domain that the action or [[activity-lxp|activity]] runs in.
 
 **Next topic:**[Display permanent seat assignments on floor maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/display-permanent-seats-on-maps.md)
 
-## Related
-
-- [[activity-lxp|Activity]]

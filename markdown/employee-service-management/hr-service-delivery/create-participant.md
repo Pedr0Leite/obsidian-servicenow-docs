@@ -20,7 +20,7 @@ Define actions and the order of actions for participants. The type of action and
 
 -   Role required: sn\_hr\_core.admin
 -   You need to define participants only when you want to use the document template flow. If you only want to generate a PDF document, defining participants is not mandatory.
--   This content applies only to the [[document-templates-overview|document templates]] that are created in the Document Templates application \(sn\_doc\). Document Templates is different from HR Document Templates. For HR Document Templates, refer to .
+-   This content applies only to the document templates that are created in the Document Templates application \(sn\_doc\). Document Templates is different from HR Document Templates. For HR Document Templates, refer to .
 
 ## About this task
 
@@ -183,6 +183,3 @@ When enabled, a participant will be skipped if the participant user and particip
 
 The participant is added to the document template.
 
-## Related
-
-- [[document-templates-overview|Document Templates]]

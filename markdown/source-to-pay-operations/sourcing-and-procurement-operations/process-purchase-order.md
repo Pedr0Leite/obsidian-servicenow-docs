@@ -26,11 +26,11 @@ As an agent, you can view the requests, complete tasks across multiple workflow 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[psd-overview|Procurement Case Management]]** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Procurement Case Management** &gt; **Source-to-Pay Workspace**.
 
 2.  Select the List icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon.\) and select **All work** &gt; **Cases**.
 
-3.  Select the case of type Edit a [[purchase-order-table|purchase order]].
+3.  Select the case of type Edit a purchase order.
 
     **Note:** With the revision request raised, the state has been changed to Pending Revision for both the purchase order and purchase order line. Remember that the **Edit** option is unavailable for purchases in the Close state.
 
@@ -88,7 +88,7 @@ Buyer confirm or reject request to edit PO
 Review this request to edit the purchase order and confirm or reject whether it can be processed.Select one of the following actions.
 
 -   **Confirm**: When you confirm, you can check the revised the purchase order or purchase order line. On successful update, the request is automatically closed.
--   **Reject**: When you reject, you must contact the [[supplier|supplier]] and confirm whether the order can be rejected. When the supplier allows cancellation, the request changes to Closed Rejected state.
+-   **Reject**: When you reject, you must contact the supplier and confirm whether the order can be rejected. When the supplier allows cancellation, the request changes to Closed Rejected state.
 
 
 </td></tr><tr><td rowspan="2">
@@ -121,7 +121,7 @@ Send business owner confirmation email
 
 </td><td>
 
-Sends the business owner confirmation that lines from their purchase order have been successfully edited [[use-shoppinghub-portal|using Shopping Hub]] email template.
+Sends the business owner confirmation that lines from their purchase order have been successfully edited using Shopping Hub email template.
 
 </td></tr><tr><td>
 
@@ -154,14 +154,14 @@ The request updates the purchase order or line item with revised quantity, locat
 
 ## What to do next
 
-Review and confirm your purchase request details from **Procurement Case Management** &gt; **Procurement Cases** &gt; **Purchase Requisitions** &gt; **[[purchase-lines|Purchase lines]]**, if required.
+Review and confirm your purchase request details from **Procurement Case Management** &gt; **Procurement Cases** &gt; **Purchase Requisitions** &gt; **Purchase lines**, if required.
 
 **Parent Topic:**[Working with Sourcing and Procurement Operations playbooks in the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/work-playbooks-spo.md)
 
 **Related topics**  
 
 
-[Process a [[purchase-requisition|purchase requisition]] edit request in playbook]()
+[Process a purchase requisition edit request in playbook]()
 
 [Process a return request in playbook]()
 
@@ -187,12 +187,3 @@ Review and confirm your purchase request details from **Procurement Case Managem
 
 [Playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/process-automation-designer.md)
 
-## Related
-
-- [[psd-overview|Procurement Case Management]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[purchase-order-table|Purchase order]]
-- [[supplier|Supplier]]
-- [[use-shoppinghub-portal|Using Shopping Hub]]
-- [[purchase-lines|Purchase lines]]
-- [[purchase-requisition|Purchase requisition]]

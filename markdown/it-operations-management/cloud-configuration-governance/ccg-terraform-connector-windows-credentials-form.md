@@ -14,7 +14,7 @@ breadcrumb: [Cloud Services Catalog Terraform Connector reference, Cloud Service
 
 # Cloud Services Catalog Terraform Connector Windows Credentials form reference
 
-[[cpg-terraform-connector-landing-page|Cloud Services Catalog Terraform Connector]] uses the Windows credential to connect with the Windows server on which Terraform Open Source is running.
+Cloud Services Catalog Terraform Connector uses the Windows credential to connect with the Windows server on which Terraform Open Source is running.
 
 |Field|Description|
 |-----|-----------|
@@ -24,6 +24,3 @@ breadcrumb: [Cloud Services Catalog Terraform Connector reference, Cloud Service
 
 **Parent Topic:**[Cloud Services Catalog Terraform Connector reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cpg-terraform-connector-reference.md)
 
-## Related
-
-- [[cpg-terraform-connector-landing-page|Cloud Services Catalog Terraform Connector]]

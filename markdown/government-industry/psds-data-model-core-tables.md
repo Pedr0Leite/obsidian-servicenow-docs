@@ -156,8 +156,5 @@ Resolve blocked by record if user information is provided for Government case\[r
 Removes the blocked by record if the case task is closed.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[psds-data-model-core|Public Sector Digital Services Core Data Model]]
+</table>**Parent Topic:**[Public Sector Digital Services Core Data Model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-data-model-core.md)
 
-## Related
-
-- [[psds-data-model-core|Public Sector Digital Services Core Data Model]]

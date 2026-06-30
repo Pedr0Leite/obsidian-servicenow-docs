@@ -32,7 +32,7 @@ Firewall Admin \[sn\_disco\_firewall.firewall\_admin\]
 
 </td><td>
 
-Responsible for editing Configuration Item \(CI\) attributes not populated by [[r-discovery|Discovery]], including "assigned\_to" and others. Firewall Admins possess the capability to view the Firewall managers list with specific details for each manager. Furthermore, they have the authority to view and edit the dashboard, initiate audits from the firewall manager details page, create, modify, and view policies, edit audit tasks, and request policy changes.**Note:** The Firewall Admin role includes the Firewall User role. This role is not automatically granted with the discovery\_admin role and needs to be explicitly assigned to the user.
+Responsible for editing Configuration Item \(CI\) attributes not populated by Discovery, including "assigned\_to" and others. Firewall Admins possess the capability to view the Firewall managers list with specific details for each manager. Furthermore, they have the authority to view and edit the dashboard, initiate audits from the firewall manager details page, create, modify, and view policies, edit audit tasks, and request policy changes.**Note:** The Firewall Admin role includes the Firewall User role. This role is not automatically granted with the discovery\_admin role and needs to be explicitly assigned to the user.
 
 </td></tr><tr><td>
 
@@ -40,7 +40,7 @@ Firewall User\[sn\_disco\_firewall.firewall\_user\]
 
 </td><td>
 
-Responsible for viewing firewall [[otto-aiops-dashboards|dashboards]] and policies in a Read-only capacity.**Note:** This role includes the Firewall Requester role.
+Responsible for viewing firewall dashboards and policies in a Read-only capacity.**Note:** This role includes the Firewall Requester role.
 
 </td></tr><tr><td>
 
@@ -52,8 +52,3 @@ Responsible for requesting new firewall rules through the Service Catalog.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[r-discovery|Discovery]]
-- [[otto-aiops-dashboards|Dashboards]]

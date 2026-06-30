@@ -20,7 +20,7 @@ You can specify whether to scan TeamDev code pushes that are pending a review. Y
 
 If you use TeamDev as a method for pushing code, the Scan Engine can be used to scan code pushes that are pending a code review. You scan these pushes for findings, as well as define the conditions to automatically approve or reject code reviews.
 
-**Note:** Code reviews must be enabled for TeamDev scanning to work properly. Additionally, admins must perform a one-time API configuration to enable TeamDev scanning. For more information, refer to [[register-your-instance|Register your instance]].
+**Note:** Code reviews must be enabled for TeamDev scanning to work properly. Additionally, admins must perform a one-time API configuration to enable TeamDev scanning. For more information, refer to [Register your instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/register-your-instance.md).
 
 Properties include:
 
@@ -38,7 +38,7 @@ This is a list that contains a record for each role given out in the system that
 
 ## Team leads
 
-The team and team leads defined here can view the Team Lead information in the [[io-analytics|Analytics]] Dashboard.
+The team and team leads defined here can view the Team Lead information in the Analytics Dashboard.
 
 1.  To define teams and team leads, select **New**.
 2.  Configure the following fields and settings.
@@ -72,10 +72,5 @@ You can add and configure additional filter conditions by selecting **Add filter
 
 **Note:** You can append filter conditions and OR clauses to existing conditions by selecting the **AND** or **OR** options next to them.
 
-**Parent Topic:**[[configure-scan-engine-properties|Configure Scan Engine properties]]
+**Parent Topic:**[Configure Scan Engine properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configure-scan-engine-properties.md)
 
-## Related
-
-- [[register-your-instance|Register your instance]]
-- [[configure-scan-engine-properties|Configure Scan Engine properties]]
-- [[io-analytics|Analytics]]

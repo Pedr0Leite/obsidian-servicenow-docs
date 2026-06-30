@@ -14,7 +14,7 @@ breadcrumb: [Content pages in CMS, Configure Content Management sites, Content M
 
 # Add content to a page
 
-After you define the page settings, set the content of the page by adding [[c_ContentBlocks|content blocks]]. Setting content blocks is similar to how you add content to homepages.
+After you define the page settings, set the content of the page by adding content blocks. Setting content blocks is similar to how you add content to homepages.
 
 ## Before you begin
 
@@ -42,6 +42,3 @@ Role required: content\_admin or admin
 
 [Content blocks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_ContentBlocks.md)
 
-## Related
-
-- [[c_ContentBlocks|Content blocks]]

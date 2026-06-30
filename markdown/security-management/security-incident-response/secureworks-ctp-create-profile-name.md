@@ -22,7 +22,7 @@ Role required: sn\_si.admin
 
 ## Procedure
 
-1.  To [[arcsight-esm-create-profile|create a profile]] for a ticket in your ServiceNow AI Platform instance, navigate to **Secureworks Ticket Ingestion Integration** &gt; **Secureworks Profiles**.
+1.  To create a profile for a ticket in your ServiceNow AI Platform instance, navigate to **Secureworks Ticket Ingestion Integration** &gt; **Secureworks Profiles**.
 
 2.  Click **New**.
 
@@ -76,6 +76,3 @@ This option is cleared by default. If this option is disabled, the profile is no
 
 Map the ticket fields.
 
-## Related
-
-- [[arcsight-esm-create-profile|Create a profile]]

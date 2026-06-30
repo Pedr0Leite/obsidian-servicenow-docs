@@ -14,7 +14,7 @@ breadcrumb: [Agent Client Collector Monitoring default checks and policies, ACC-
 
 # Linux log monitoring default checks and policies
 
-[[acc-landing-page|Agent Client Collector]] provides the following policy for Linux log monitoring.
+Agent Client Collector provides the following policy for Linux log monitoring.
 
 <table id="table_nrb_dv1_ktb"><thead><tr><th>
 
@@ -115,6 +115,3 @@ CheckLog CRITICAL: 0 warnings, 8 criticals for pattern SEVERE\|Exception in log 
 </td></tr></tbody>
 </table>**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-policies-checks.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

@@ -16,19 +16,19 @@ Keep your custom table entitlements updated by mapping all of your custom applic
 
 ## Overview of managing custom tables and applications
 
-To successfully manage your [[custom-tables|custom tables]] and applications, follow the process in this infographic.
+To successfully manage your custom tables and applications, follow the process in this infographic.
 
 \[Omitted image "mmasset0021658-subscription-management-workflow-manage-tables-and-apps-landing.png"\] Alt text: The usage administrator maps custom applications and custom tables to subscriptions, and monitors end dates prior to renewal.
 
--   [[map-custom-applications-v2|Map a custom application to a product subscription in Subscription Management]]
+-   [Map a custom application to a product subscription in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/map-custom-applications-v2.md)
 
     Map a custom application to a product subscription so that when developers add more tables to the application, they're automatically mapped to the subscription. Track your custom table usage to ensure that your organization doesn't run out of custom table entitlements.
 
--   [[allocate-custom-table-subsc-app-v2|Map custom tables to a product subscription in Subscription Management]]
+-   [Map custom tables to a product subscription in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/allocate-custom-table-subsc-app-v2.md)
 
     Map custom applications and custom tables on your production instance to a valid subscription. On non-production instances, mapping is recommended but not required.
 
--   [[maintain-mappings-renewal|Maintain custom table and application mappings at renewal in Subscription Management]]
+-   [Maintain custom table and application mappings at renewal in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/maintain-mappings-renewal.md)
 
     When a subscription renews, a new product SKU might be added to your account. Maintain your current custom table mappings during the renewal process by documenting your mappings before the renewal date.
 
@@ -57,26 +57,16 @@ App Engine subscriptions entitle you to develop applications and deploy custom t
 
 -   **[Map a custom application to a product subscription in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/map-custom-applications-v2.md)**  
 Maintain accurate entitlement for custom tables in a scoped application by mapping the application to a product subscription in Subscription Management. To stay in compliance, you must map custom tables to a product subscription.
--   **[[map-missing-custom-app-sub-mgt|Map a missing custom application to a product subscription in Subscription Management]]**  
+-   **[Map a missing custom application to a product subscription in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/map-missing-custom-app-sub-mgt.md)**  
 Map a custom application to a product subscription when that application isn't shown in the **Unmapped custom applications** tab of **Subscription Management**. To stay in compliance, you must map custom tables that belong to a custom application to a product subscription.
 -   **[Map custom tables to a product subscription in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/allocate-custom-table-subsc-app-v2.md)**  
 Maintain accurate entitlement for custom tables in the global scope and stay in compliance by mapping the tables to a product subscription in Subscription Management. Mapping your custom tables keeps your custom table allotment updated and helps you avoid running out of custom table entitlements.
--   **[[map-missing-custom-table-sub-mgt|Map a missing custom table to a product subscription in Subscription Management]]**  
+-   **[Map a missing custom table to a product subscription in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/map-missing-custom-table-sub-mgt.md)**  
 Map a custom table in the global scope to a product subscription when that table isn't shown in the **Unmapped global custom tables** tab of Subscription Management. To stay in compliance, all custom tables must be mapped to a product subscription.
 -   **[Maintain custom table and application mappings at renewal in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/maintain-mappings-renewal.md)**  
 Ensure custom table and application mappings remain consistent throughout the renewal process.
--   **[[grandfathered-and-exempt-tables-v2|Grandfathered and exempted tables]]**  
+-   **[Grandfathered and exempted tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/grandfathered-and-exempt-tables-v2.md)**  
 Grandfathered and exempted custom tables are treated differently than other custom tables on your instance. Refer to your organization’s ServiceNow® contract for additional information.
 
-**Parent Topic:**[[subscription-management-landing-page-v2|Subscription Management]]
+**Parent Topic:**[Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/subscription-management-landing-page-v2.md)
 
-## Related
-
-- [[map-custom-applications-v2|Map a custom application to a product subscription in Subscription Management]]
-- [[allocate-custom-table-subsc-app-v2|Map custom tables to a product subscription in Subscription Management]]
-- [[maintain-mappings-renewal|Maintain custom table and application mappings at renewal in Subscription Management]]
-- [[map-missing-custom-app-sub-mgt|Map a missing custom application to a product subscription in Subscription Management]]
-- [[map-missing-custom-table-sub-mgt|Map a missing custom table to a product subscription in Subscription Management]]
-- [[grandfathered-and-exempt-tables-v2|Grandfathered and exempted tables]]
-- [[subscription-management-landing-page-v2|Subscription Management]]
-- [[custom-tables|Custom tables]]

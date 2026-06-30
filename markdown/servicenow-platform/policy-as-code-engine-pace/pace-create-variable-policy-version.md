@@ -14,7 +14,7 @@ breadcrumb: [Passing parameters to PaCE policies, Administer PaCE policies, Poli
 
 # Create a new variable for a policy version
 
-Create an API Variable, Config Parameter, or Record [[reference|Reference]] for the policy version in the Define Variables section of the Policy Builder.
+Create an API Variable, Config Parameter, or Record Reference for the policy version in the Define Variables section of the Policy Builder.
 
 ## Before you begin
 
@@ -52,7 +52,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[label|Label]]
+Label
 
 </td><td>
 
@@ -78,9 +78,9 @@ Drop-down list of input types:-   Basic Date/Time
 -   Data Array
 -   Data Object
 -   Decimal
--   [[email|Email]]
+-   Email
 -   Integer
--   [[ip-address|IP Address]]
+-   IP Address
 -   JSON
 -   Other Date
 -   Reference
@@ -149,9 +149,3 @@ When you create a Record Reference, it will query multiple answers. The match cr
 
 You can add your variables into the Policy Builder as needed. Additionally, you can delete a variable by selecting it and selecting the **Delete** button.
 
-## Related
-
-- [[reference|Reference]]
-- [[label|Label]]
-- [[email|Email]]
-- [[ip-address|IP Address]]

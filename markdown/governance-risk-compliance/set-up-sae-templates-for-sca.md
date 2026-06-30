@@ -13,7 +13,7 @@ breadcrumb: [Building a scenario analysis using simulation, Scenario analysis us
 
 # Verify the Smart Assessment templates setup
 
-Verify that the input and output Smart [[airc-assessment-templates|Assessment templates]] are set up and published in the Assessment Workspace before running an advanced [[scenario-analysis-ov|scenario analysis]]. The Statistical model profile in the advanced scenario analysis uses these templates to present plain-language questions and display simulation results.
+Verify that the input and output Smart Assessment templates are set up and published in the Assessment Workspace before running an advanced scenario analysis. The Statistical model profile in the advanced scenario analysis uses these templates to present plain-language questions and display simulation results.
 
 ## Before you begin
 
@@ -28,13 +28,13 @@ The advanced scenario analysis references the following Smart Assessment templat
 
 Statistical Model Profile defines the end-to-end configuration for a modelling flow — including which input and output templates are used, which statistical model is applied, and which reference table it draws from.
 
-Both templates are managed through the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] \(SAE\) to support dynamic field configurations. For more information, see [[scenario-analysis-playbook-experience|Building a scenario analysis using simulation]].
+Both templates are managed through the Smart Assessment Engine \(SAE\) to support dynamic field configurations. For more information, see [Building a scenario analysis using simulation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/scenario-analysis-playbook-experience.md).
 
 ## Procedure
 
 1.  Navigate to **Workspaces** &gt; **Assessment Workspace** to access the Assessment Workspace landing page.
 
-    The example shows the Smart Assessment templates, part of the demo data, for the advanced and [[legacy-scenario-analysis-ov|legacy scenario analysis]] experience.
+    The example shows the Smart Assessment templates, part of the demo data, for the advanced and legacy scenario analysis experience.
 
     \[Omitted image "sa-temp-for-sca.png"\] Alt text: Smart Assessment templates for advanced scenario analysis.
 
@@ -60,18 +60,10 @@ Both templates are managed through the [[smart-asmnt-engine-landing-page|Smart A
 
     **Note:** This restriction applies only to the statistical modelling templates. For the manual method, you can create any published template with no restrictions.
 
-    For information on the manual method, see [[run-sca-manual-method|Run a scenario analysis using the manual method]].
+    For information on the manual method, see [Run a scenario analysis using the manual method](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/run-sca-manual-method.md).
 
     \[Omitted image "sca-ip-asmt-temp.png"\] Alt text: Input template.\[Omitted image "sca-op-asmt-temp.png"\] Alt text: Output template.\[Omitted image "sca-smp-table-ip-op-asmt.png"\] Alt text: Parameter mappings.
 
-    After both the input and output Smart Assessment templates are published, the Statistical model profile can reference them, and analysts can run the advanced scenario analysis using the guided playbook experience. For more information, see [[create-sca-record|Create a scenario analysis record using simulation]].
+    After both the input and output Smart Assessment templates are published, the Statistical model profile can reference them, and analysts can run the advanced scenario analysis using the guided playbook experience. For more information, see [Create a scenario analysis record using simulation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-sca-record.md).
 
-## Related
 
-- [[scenario-analysis-playbook-experience|Building a scenario analysis using simulation]]
-- [[run-sca-manual-method|Run a scenario analysis using the manual method]]
-- [[create-sca-record|Create a scenario analysis record using simulation]]
-- [[airc-assessment-templates|Assessment templates]]
-- [[scenario-analysis-ov|Scenario analysis]]
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]
-- [[legacy-scenario-analysis-ov|Legacy scenario analysis]]

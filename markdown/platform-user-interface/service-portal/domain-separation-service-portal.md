@@ -14,7 +14,7 @@ breadcrumb: [Service Portal reference, Service Portal, Configure UIs and portals
 
 # Domain separation and Service Portal
 
-Domain separation is unsupported in [[c_ServicePortal|Service Portal]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is unsupported in Service Portal. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: No support
 
@@ -38,6 +38,3 @@ Elements of the Service Portal platform such as settings, portals, pages and wid
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]

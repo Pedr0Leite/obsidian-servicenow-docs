@@ -14,7 +14,7 @@ breadcrumb: [Legacy Software Asset Management plugin Overview module, Legacy Sof
 
 # Installed with the legacy Software Asset Management plugin
 
-A number of tables, properties, user roles, script includes, client scripts, UI policies, and business rules are installed with the legacy Software [[c_AssetManagement|Asset Management]] \(com.snc.software\_asset\_management\) plugin.
+A number of tables, properties, user roles, script includes, client scripts, UI policies, and business rules are installed with the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin.
 
 **Note:** Demo data is available with the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin.
 
@@ -52,7 +52,7 @@ Software Counter \[sam\_sw\_counter\]
 
 </td><td>
 
-Configures license counting options for [[c_CreatingSoftwareModels|software models]].
+Configures license counting options for software models.
 
 </td></tr><tr><td>
 
@@ -110,7 +110,7 @@ Software Installation \[cmdb\_sam\_sw\_install\]
 
 </td><td>
 
-Associates software discovery [[c_Models|models]] and the hardware on which they are installed.
+Associates software discovery models and the hardware on which they are installed.
 
 </td></tr><tr><td>
 
@@ -176,7 +176,7 @@ inventory\_user
 
 </td><td>
 
-Can create, edit, change, and manage software licenses. Can edit the Software model field on a Discovery model. Can approve a model. Has full control of the [Legacy Software Asset Management plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_SoftwareAssetManagement.md). Controls the [[c_IBMPVUProcessPack|legacy IBM PVU Process Pack]], if activated.
+Can create, edit, change, and manage software licenses. Can edit the Software model field on a Discovery model. Can approve a model. Has full control of the [Legacy Software Asset Management plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_SoftwareAssetManagement.md). Controls the legacy IBM PVU Process Pack, if activated.
 
 </td></tr></tbody>
 </table>## Script includes
@@ -480,7 +480,7 @@ Hardware \[cmdb\_ci\_hardware\]
 
 </td><td>
 
-Rejects license metric combinations of the same type, such as CAL \(user\) and CAL \([[dex-workspace-devices-tab|devices]]\).
+Rejects license metric combinations of the same type, such as CAL \(user\) and CAL \(devices\).
 
 </td></tr><tr><td>
 
@@ -741,23 +741,14 @@ The legacy Software Asset Management \(com.snc.software\_asset\_management\) plu
 
 |Name|Description|
 |----|-----------|
-|Processor Definition|If you activated the legacy IBM PVU Process Pack after activating the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin, a [[reference-for-itsm-mobile-agent|reference]] to the processor definition is added to the Hardware \[cmdb\_ci\_hardware\] table.|
+|Processor Definition|If you activated the legacy IBM PVU Process Pack after activating the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin, a reference to the processor definition is added to the Hardware \[cmdb\_ci\_hardware\] table.|
 
 **Parent Topic:**[Legacy Software Asset Management plugin Overview module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_SWAssetMgmtOverviewMod.md)
 
 **Related topics**  
 
 
-[Use the [[c_SoftwareAssetManagement|legacy Software Asset Management plugin]] Overview module]()
+[Use the legacy Software Asset Management plugin Overview module]()
 
 [Legacy Software Asset Management plugin roles]()
 
-## Related
-
-- [[c_AssetManagement|Asset Management]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[c_Models|Models]]
-- [[c_IBMPVUProcessPack|Legacy IBM PVU Process Pack]]
-- [[dex-workspace-devices-tab|Devices]]
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[c_SoftwareAssetManagement|Legacy Software Asset Management plugin]]

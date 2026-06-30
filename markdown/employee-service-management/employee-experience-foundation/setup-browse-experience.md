@@ -14,7 +14,7 @@ breadcrumb: [Configuring Employee Center, Employee Center, Unified Employee Expe
 
 # Setup Employee Center browse experience features
 
-Make it easy for employees to navigate the portal and [[discover-lxp|discover]] content using the browse experience features in [[employee-center-landing-page|Employee Center]].
+Make it easy for employees to navigate the portal and discover content using the browse experience features in Employee Center.
 
 \[Omitted video\] Description: The video provides an overview of the browse experience cluster of features in Employee Center.
 
@@ -38,12 +38,7 @@ Follow these steps to setup browse experience features:
 |-------|-----------|
 |[Guided Self-Service in Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/gss-guided-self-service-overview.md)|Empower employees with easier self-serve capabilities by deploying a series of prompts to guide employees to the correct knowledge article or request.|
 |[Cross-channel favorites](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)|Cross-channel favorites offer quick access to frequently used content for employees, with sorting and customization options|
-|[Recommended for you](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/rfy-ec.md)|The [[rfy-ec|Recommended for you]] widget displays catalog items and knowledge articles tailored to employees based on their profiles or popular content among similar users|
+|[Recommended for you](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/rfy-ec.md)|The Recommended for you widget displays catalog items and knowledge articles tailored to employees based on their profiles or popular content among similar users|
 |[Quick links](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/emp-center-quick-link-config.md)|Quick links offer employees a way to quickly access internal and external resources related to specific departments within your organization.|
 |[Get support](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/apn-config-getsupport.md)|Get support provides a central place to find resources within a home page widget or a modal window.|
 
-## Related
-
-- [[discover-lxp|Discover]]
-- [[employee-center-landing-page|Employee Center]]
-- [[rfy-ec|Recommended for you]]

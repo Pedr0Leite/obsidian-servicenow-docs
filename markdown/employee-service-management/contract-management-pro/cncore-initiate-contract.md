@@ -21,10 +21,7 @@ As a case owner or fulfiller, initiate a self-served contract for the case you a
 -   **[Initiate a non-self-served contract request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-initiate-non-ss-cnt.md)**  
 As a case owner or fulfiller, initiate the submission of contracts when you want third-party based contract documents to be sent for review.
 -   **[Initiate an amendment request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-initiate-amedment.md)**  
-[[cncore-initiate-amedment|Initiate an amendment request]] from your workspace.
+Initiate an amendment request from your workspace.
 
 **Parent Topic:**[Using Contract Management Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-use-cmpro.md)
 
-## Related
-
-- [[cncore-initiate-amedment|Initiate an amendment request]]

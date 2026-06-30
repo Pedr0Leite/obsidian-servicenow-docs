@@ -14,7 +14,7 @@ breadcrumb: [Choose tasks to run, Assigning tasks using Dynamic Scheduling, Sche
 
 # Confirm Assignment pop-up window
 
-When using the [[dynamic-scheduling|dynamic scheduling]] feature, the Confirm Assignment pop-up window displays the task assignment recommendations.
+When using the dynamic scheduling feature, the Confirm Assignment pop-up window displays the task assignment recommendations.
 
 When a dispatcher selects multiple tasks for assignment and clicks **Auto Assign**, the results of the task assignment process are displayed in the Confirm Assignment pop-up window. Information about the selected tasks, including the **Short Description**, **Scheduled Start**, and **Estimated End**, is displayed in the following categories.
 
@@ -71,6 +71,3 @@ Clicking **Save** confirms the task assignment recommendations listed in the Con
 
 System administrators can also view task assignment debug logs in the Confirm Assignment pop-up window by enabling the **com.snc.dynamic.scheduling.showlogs** system property. This information is displayed below each task in the pop-up window. Collapse or expand the debug log by clicking on the task.
 
-## Related
-
-- [[dynamic-scheduling|Dynamic scheduling]]

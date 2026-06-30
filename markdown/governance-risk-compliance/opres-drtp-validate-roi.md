@@ -18,7 +18,7 @@ Run real-time validation on Register of Information \(RoI\) packages to help ens
 
 Role required: sn\_oper\_res.manager
 
-Generate a Plain-CSV Reporting Package and an Excel Master Template. For more information, see [[opres-drtp-gen-roi-pkg|Generate a Register of Information package]].
+Generate a Plain-CSV Reporting Package and an Excel Master Template. For more information, see [Generate a Register of Information package](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/opres-drtp-gen-roi-pkg.md).
 
 ## About this task
 
@@ -38,7 +38,7 @@ Validation reports are only generated when errors or warnings are present. If no
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[grc-opres-landing-page|Operational Resilience]] Workspace** &gt; **Digital resilience third-party registers** &gt; **Excel download/upload requests**.
+1.  Navigate to **Workspaces** &gt; **Operational Resilience Workspace** &gt; **Digital resilience third-party registers** &gt; **Excel download/upload requests**.
 
 2.  Open the request record you want.
 
@@ -61,10 +61,5 @@ Validation reports are only generated when errors or warnings are present. If no
 5.  Update the affected records in the system or spreadsheet and re-upload the corrected package for re-validation.
 
 
-**Parent Topic:**[[conf-dg-resi-party-regi|Configuring Digital resilience third-party registers]]
+**Parent Topic:**[Configuring Digital resilience third-party registers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/conf-dg-resi-party-regi.md)
 
-## Related
-
-- [[opres-drtp-gen-roi-pkg|Generate a Register of Information package]]
-- [[conf-dg-resi-party-regi|Configuring Digital resilience third-party registers]]
-- [[grc-opres-landing-page|Operational Resilience]]

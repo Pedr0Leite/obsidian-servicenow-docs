@@ -14,7 +14,7 @@ breadcrumb: [Change Management plugins, Configure, Change Management, IT Service
 
 # Activate Change Management - CAB Workbench
 
-You can activate the [[c_ITILChangeManagement|Change Management]] - CAB Workbench plugin \(com.snc.change\_management.cab\) if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
+You can activate the Change Management - CAB Workbench plugin \(com.snc.change\_management.cab\) if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
 
 ## Before you begin
 
@@ -49,7 +49,7 @@ Common application components for Service Portal.
 </td></tr></tbody>
 </table>## Procedure
 
-1.  Navigate to **All** &gt; **System [[dex-workspace-application-tab|Applications]]** &gt; **All Available Applications** &gt; **All**.
+1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
 2.  Find the plugin using the filter criteria and search bar.
 
@@ -63,7 +63,7 @@ Common application components for Service Portal.
 
 
 -   **[Installed with Change Management - CAB Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/instlled-with-cab-wrkbench.md)**  
-Several types of components are [[instlled-with-cab-wrkbench|installed with Change Management - CAB Workbench]].
+Several types of components are installed with Change Management - CAB Workbench.
 
 **Parent Topic:**[Change Management plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/change-plugins.md)
 
@@ -114,8 +114,3 @@ Several types of components are [[instlled-with-cab-wrkbench|installed with Chan
 
 [List of plugins \(Australia\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]
-- [[dex-workspace-application-tab|Applications]]
-- [[instlled-with-cab-wrkbench|Installed with Change Management - CAB Workbench]]

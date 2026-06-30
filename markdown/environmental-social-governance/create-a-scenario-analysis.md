@@ -119,11 +119,7 @@ Description of the analysis.
 
 ## What to do next
 
-Adjust parameters to model different outcomes based on specific interventions or changes. For more information, see [[create-a-forecast-intervention|Adjust parameters]].
+Adjust parameters to model different outcomes based on specific interventions or changes. For more information, see [Adjust parameters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/create-a-forecast-intervention.md).
 
-**Parent Topic:**[[set-up-scenarios|Set up analysis contexts and analyses]]
+**Parent Topic:**[Set up analysis contexts and analyses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/set-up-scenarios.md)
 
-## Related
-
-- [[create-a-forecast-intervention|Adjust parameters]]
-- [[set-up-scenarios|Set up analysis contexts and analyses]]

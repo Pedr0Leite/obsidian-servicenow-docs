@@ -69,10 +69,8 @@ Steps
 
 6.  Select **Return to ITOM** on the success message.
 
-7.  The grouping job starts and proceeds to group records into [[automation-opportunities|automation opportunities]].\[Omitted image "grouping-job-run.png"\] Alt text: landing page with analysis data
+7.  The grouping job starts and proceeds to group records into automation opportunities.\[Omitted image "grouping-job-run.png"\] Alt text: landing page with analysis data
 
     If errors are encountered, then LEAP provides links to knowledge base articles to understand the root cause and steps to resolve issues.
 
-## Related
 
-- [[automation-opportunities|Automation opportunities]]

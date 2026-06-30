@@ -14,7 +14,7 @@ breadcrumb: [Employee Journey Management, HR Service Delivery, Employee Service 
 
 # Lifecyle events for enterprise
 
-The Lifecyle events for enterprise application supports automation of onboarding and other employee [[hr-lifecycle-events-landing-page-1|lifecycle events]].
+The Lifecyle events for enterprise application supports automation of onboarding and other employee lifecycle events.
 
 The Lifecyle events for enterprise application helps to improve employee satisfaction and efficiency across HR and other departments for events that span multiple departments.
 
@@ -39,6 +39,3 @@ The Lifecyle events for enterprise application helps to improve employee satisfa
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]

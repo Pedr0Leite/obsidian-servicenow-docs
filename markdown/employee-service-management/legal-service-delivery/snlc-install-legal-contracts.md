@@ -14,7 +14,7 @@ breadcrumb: [Configure, Contract Management Pro for Legal Service Delivery, Inte
 
 # Install Contract Management Pro for Legal Service Delivery
 
-Install the [[snlc-expl-legal-contracts|Contract Management Pro for Legal Service Delivery]] \(sn\_lg\_cnt\) application. The application installs demo data and related ServiceNow® Store applications and plugins if they aren’t already installed.
+Install the Contract Management Pro for Legal Service Delivery \(sn\_lg\_cnt\) application. The application installs demo data and related ServiceNow® Store applications and plugins if they aren’t already installed.
 
 ## Before you begin
 
@@ -54,6 +54,3 @@ For more information, see [Components installed with Contract Management Pro for
 
 **Parent Topic:**[Configure Contract Management Pro for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-config-sn-legal-contracts.md)
 
-## Related
-
-- [[snlc-expl-legal-contracts|Contract Management Pro for Legal Service Delivery]]

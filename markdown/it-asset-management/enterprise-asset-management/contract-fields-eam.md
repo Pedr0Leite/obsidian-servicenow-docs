@@ -14,7 +14,7 @@ breadcrumb: [Enterprise Asset Management reference, Enterprise Asset Management,
 
 # Contract fields for Enterprise Asset Management
 
-A detailed description of all contract fields in the [[enterprise-asset-management|Enterprise Asset Management]] application.
+A detailed description of all contract fields in the Enterprise Asset Management application.
 
 ## Contract
 
@@ -132,7 +132,7 @@ Option that indicates if the lease contract has an associated contract rate card
 
 [Audit results]()
 
-[Enterprise [[model-hierarchy|model categories]] and corresponding classes]()
+[Enterprise model categories and corresponding classes]()
 
 [Mandatory fields in the bulk import spreadsheets]()
 
@@ -160,7 +160,3 @@ Option that indicates if the lease contract has an associated contract rate card
 
 [Asset put away task fields]()
 
-## Related
-
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[model-hierarchy|Model categories]]

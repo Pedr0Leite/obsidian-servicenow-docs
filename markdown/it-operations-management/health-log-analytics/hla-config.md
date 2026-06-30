@@ -32,7 +32,7 @@ Role required: pa\_admin
 
 3.  Verify the name of the dashboard that has been installed with this Platform Analytics Solution:
 
-    [[hla-landing-page|Health Log Analytics]] Overview dashboard.
+    Health Log Analytics Overview dashboard.
 
 4.  Open the **Indicator Sources** tab.
 
@@ -69,6 +69,3 @@ Role required: pa\_admin
 
 **Parent Topic:**[Platform Analytics Solutions for Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-content-pack.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

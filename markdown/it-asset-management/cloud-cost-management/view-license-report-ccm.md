@@ -14,7 +14,7 @@ breadcrumb: [Manage Cloud Cost Management subscriptions, Using Cloud Cost Manage
 
 # View the license report for the Cloud Cost Management application
 
-View details of the subscriptions purchased and consumed by your organization for the [[managed-it-resource-ccm|managed IT resource types]] such as Server, End User Computing Device, and Database using the ITAM License Report.
+View details of the subscriptions purchased and consumed by your organization for the managed IT resource types such as Server, End User Computing Device, and Database using the ITAM License Report.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin, usage\_admin
 
 1.  Navigate to **All** &gt; **ITAM Licensing** &gt; **ITAM License Report**.
 
-2.  Select the [[c_SoftwareAssetMgmt|Software Asset Management]] application to view the subscription for [[cloud-insights-landing-page|Cloud Cost Management]].
+2.  Select the Software Asset Management application to view the subscription for Cloud Cost Management.
 
     Subscription details of all the Cloud Cost Management applications activated on your ServiceNow instance are shown.
 
@@ -38,7 +38,7 @@ Role required: admin, usage\_admin
         -   Virtual machines
         -   Databases
         -   Storage volumes
-    -   **Resource Total Count**: Asset count of the managed IT resources that is grouped by Resource categories and [[model-hierarchy|Model categories]].
+    -   **Resource Total Count**: Asset count of the managed IT resources that is grouped by Resource categories and Model categories.
 
         The Cloud License Estimator enables you to determine the estimated resource count for all the cloud resources that are eligible for licensing based on Cloud Cost Management licensing rules. For more information, see [Cloud License Estimator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/explore-cloud-license-estimator.md).
 
@@ -47,9 +47,3 @@ Role required: admin, usage\_admin
 
 **Parent Topic:**[Manage Cloud Cost Management subscriptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/managing-ccm-subscriptions.md)
 
-## Related
-
-- [[managed-it-resource-ccm|Managed IT Resource types]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[cloud-insights-landing-page|Cloud Cost Management]]
-- [[model-hierarchy|Model categories]]

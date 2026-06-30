@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  On your instance, navigate to the [[sgc-ot-discovery-guided-setup|Service Graph Connector for ServiceNow OT Discovery Guided Setup]] page.
+1.  On your instance, navigate to the Service Graph Connector for ServiceNow OT Discovery Guided Setup page.
 
 2.  Select the **Get Started**.
 
@@ -115,6 +115,3 @@ To update the OT Discovery Collector version, do the following steps.
 
 The updated version is installed.
 
-## Related
-
-- [[sgc-ot-discovery-guided-setup|Service Graph Connector for ServiceNow OT Discovery Guided Setup]]

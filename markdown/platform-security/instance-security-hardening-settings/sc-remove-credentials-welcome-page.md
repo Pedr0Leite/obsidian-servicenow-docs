@@ -18,7 +18,7 @@ Modify the default content on the Welcome page to remove the default credentials
 
 Two **How to Login** records are installed as part of the demo data for the CMS plugin.
 
-**Note:** If you do not install the demo data for an instance, these records do not exist. In that case, the [[sc-configuration|configuration]] is considered as Security Compliant as per the recommended security practices.
+**Note:** If you do not install the demo data for an instance, these records do not exist. In that case, the configuration is considered as Security Compliant as per the recommended security practices.
 
 ## More information
 
@@ -109,6 +109,3 @@ References
 
 **Parent Topic:**[Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-authentication.md)
 
-## Related
-
-- [[sc-configuration|Configuration]]

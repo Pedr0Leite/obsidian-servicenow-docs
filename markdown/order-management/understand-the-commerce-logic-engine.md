@@ -12,7 +12,7 @@ breadcrumb: [CPQ, Configure, price, quote, Explore, Sales Customer Relationship 
 
 # The CPQ Configurator
 
-The CPQ Configurator is an advanced commerce logic solution that allows businesses to configure and sell products more effectively. Unlike traditional product-based systems, CPQ uses an attribute-based configuration model. This ensures that users are guided through selections, [[rules_101|rules]] are enforced automatically, and only valid outcomes are generated.
+The CPQ Configurator is an advanced commerce logic solution that allows businesses to configure and sell products more effectively. Unlike traditional product-based systems, CPQ uses an attribute-based configuration model. This ensures that users are guided through selections, rules are enforced automatically, and only valid outcomes are generated.
 
 The configurator connects customers to products faster and easier by enabling:
 
@@ -32,7 +32,7 @@ The configurator connects customers to products faster and easier by enabling:
 
 -   Attribute-Based Configuration: Prompts users with guided questions. Applies configuration rules to ensure valid results. Eliminates human error found in product-based systems.
 -   Guided Selling and Headless eCommerce: Self-service buyers receive automated recommendations. Sales reps follow consistent workflows.
--   Dynamic Bills of Materials \(BOMs\): Sales BOMs integrate with Salesforce CPQ Quote Line Editor. Manufacturing/custom BOMs support ERP and [[explore-order-management|Order Management]] flows.
+-   Dynamic Bills of Materials \(BOMs\): Sales BOMs integrate with Salesforce CPQ Quote Line Editor. Manufacturing/custom BOMs support ERP and Order Management flows.
 -   No-Code/Low-Code Administration: Intuitive UI for creating, updating, and deploying rules. Removes dependency on IT or development teams.
 -   High-Performance Architecture: Handles complex configurations at scale. Maintains speed without compromising accuracy.
 
@@ -80,18 +80,11 @@ The Commerce Logic Engine is built from modular components that define how produ
 |Picklist extensions|Extend the capabilities of picklists.|
 |Product Lists|Display the configuration BOM to the user.|
 |Tables and Table Queries|Store and retrieve supporting data during configuration.|
-|Set Repeaters|Combine set functionality with flexible [[layouts|layouts]].|
-|Associated Picklist Sets|Dynamically sized [[cpq-sets|sets]] based on menu choices.|
+|Set Repeaters|Combine set functionality with flexible layouts.|
+|Associated Picklist Sets|Dynamically sized sets based on menu choices.|
 |Field grids|Tabular field groups for structured data entry.|
 |Advanced Product Actions|Scripts to define which line items are sent to the Config BOM.|
-|Twinning|Copies Salesforce Quote data into CPQ [[fields|fields]].|
+|Twinning|Copies Salesforce Quote data into CPQ fields.|
 |Enrichments|Scripts that run outside the rules engine during configuration.|
 |External Connections|Connect to third-party data sources to retrieve configuration data.|
 
-## Related
-
-- [[rules_101|Rules]]
-- [[explore-order-management|Order management]]
-- [[layouts|Layouts]]
-- [[cpq-sets|Sets]]
-- [[fields|Fields]]

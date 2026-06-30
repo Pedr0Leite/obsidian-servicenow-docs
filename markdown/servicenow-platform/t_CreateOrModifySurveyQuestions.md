@@ -24,13 +24,13 @@ Changes to a survey, such as the addition of questions or the modification of qu
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Survey** &gt; **View [[r_SurveyManagementLandingPage|Surveys]]**.
+1.  Navigate to **All** &gt; **Survey** &gt; **View Surveys**.
 
 2.  Open a survey definition.
 
 3.  In the **Metric Categories** related list, open a category.
 
-4.  In the **[[c_AssessmentMetrics|Assessment Metrics]]** related list, open an existing question or click **New**.
+4.  In the **Assessment Metrics** related list, open an existing question or click **New**.
 
     Each survey question is stored as a record on the Assessment Metric \[asmt\_metric\] table with a modified view for survey use.
 
@@ -38,7 +38,7 @@ Changes to a survey, such as the addition of questions or the modification of qu
 
     The fields that appear depend on the selected **Data type**.
 
-    For a description of the field values, see [[survey-question-form|Survey Question form]].
+    For a description of the field values, see [Survey Question form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/survey-question-form.md).
 
 6.  Save the record.
 
@@ -47,7 +47,7 @@ Changes to a survey, such as the addition of questions or the modification of qu
     -   Be sure to create answer options if you select the **Choice** or **Likert Scale** data type.
     -   You cannot delete a survey question \(metric\) with user responses. To delete a survey question with user responses, you should delete the responses, and then delete the survey question.
 
-**Parent Topic:**[[c_SurveyQuestion|Survey questions]]
+**Parent Topic:**[Survey questions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyQuestion.md)
 
 **Related topics**  
 
@@ -62,18 +62,9 @@ Changes to a survey, such as the addition of questions or the modification of qu
 
 [Change the order of survey questions]()
 
-[[c_SurveyQuestionTemplate|Survey question template]]
+[Survey question template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyQuestionTemplate.md)
 
-[[r_TriggerConditionExample|Trigger condition example]]
+[Trigger condition example](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_TriggerConditionExample.md)
 
-[[c_TriggerConditions|Survey trigger conditions]]
+[Survey trigger conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_TriggerConditions.md)
 
-## Related
-
-- [[survey-question-form|Survey Question form]]
-- [[c_SurveyQuestion|Survey questions]]
-- [[c_SurveyQuestionTemplate|Survey question template]]
-- [[r_TriggerConditionExample|Trigger condition example]]
-- [[c_TriggerConditions|Survey trigger conditions]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[c_AssessmentMetrics|Assessment metrics]]

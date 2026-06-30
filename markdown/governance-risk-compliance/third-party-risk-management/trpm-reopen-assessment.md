@@ -30,10 +30,8 @@ As the TPR manager, TPR assessor, or owner of the due diligence request, you may
 
 2.  Select the relevant **DDR** number.
 
-3.  View the related Third-party [[risk-assessments|risk assessments]] by selecting the **VRA** number on the **External assessments** tab.
+3.  View the related Third-party risk assessments by selecting the **VRA** number on the **External assessments** tab.
 
 4.  Select **Re-open**.
 
-## Related
 
-- [[risk-assessments|risk assessments]]

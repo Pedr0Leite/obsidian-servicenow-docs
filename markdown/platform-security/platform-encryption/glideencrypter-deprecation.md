@@ -26,12 +26,12 @@ The availability of GlideEncrypter in the Zurich release depends on whether your
 
 -   **Upgraded instances**
 
-    Zurich instances that have been upgraded from a previous release are still able to use the legacy GlideEncypter API, but the API has been updated to use AES256-GCM [[encryption-landing|encryption]] via the [[encryption|Key Management Framework]]. This change replaces the use of the legacy 3DES encryption standard to comply with NIST guidelines, while allowing any scripts still using GlideEncrypter to operate.
+    Zurich instances that have been upgraded from a previous release are still able to use the legacy GlideEncypter API, but the API has been updated to use AES256-GCM encryption via the [Key Management Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/encryption.md). This change replaces the use of the legacy 3DES encryption standard to comply with NIST guidelines, while allowing any scripts still using GlideEncrypter to operate.
 
 
 ## Enable or disable GlideEncrypter
 
-The availability of GlideEncrypter is controlled by the **glide.security.glideencrypter.allow** system property. This system property is set to **false** by default in new Zurich instances and can’t be updated. In instances upgraded to Zurich, this property can be changed by administrators with the [[security-admin-role|security\_admin role]].
+The availability of GlideEncrypter is controlled by the **glide.security.glideencrypter.allow** system property. This system property is set to **false** by default in new Zurich instances and can’t be updated. In instances upgraded to Zurich, this property can be changed by administrators with the security\_admin role.
 
 <table id="table_r5p_4pk_4fc"><thead><tr><th>
 
@@ -62,8 +62,3 @@ Unsupported call to GlideEncrypter. Details: GlideEncrypter is deprecated and no
 </td></tr></tbody>
 </table>**Parent Topic:**[Prepare your instance for GlideEncrypter deprecation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/check-3des.md)
 
-## Related
-
-- [[encryption|Key Management Framework]]
-- [[encryption-landing|Encryption]]
-- [[security-admin-role|Security\_admin role]]

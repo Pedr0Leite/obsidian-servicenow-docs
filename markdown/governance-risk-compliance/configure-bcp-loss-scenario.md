@@ -24,7 +24,7 @@ Set up the ability to define a loss scenario that can be planned for. You can th
 
 ## Procedure
 
-1.  Navigate to **Business Continuity** &gt; **General [[Administration|Administration]]** &gt; **Loss Scenarios**.
+1.  Navigate to **Business Continuity** &gt; **General Administration** &gt; **Loss Scenarios**.
 
 2.  Click **New**.
 
@@ -38,6 +38,4 @@ Set up the ability to define a loss scenario that can be planned for. You can th
 
 4.  Click **Submit**.
 
-## Related
 
-- [[Administration|Administration]]

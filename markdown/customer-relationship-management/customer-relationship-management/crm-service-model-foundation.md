@@ -26,7 +26,7 @@ SMF provides benefits to organizations that manage complex service delivery acro
 
 ## Products and contexts
 
-The service model foundation operates across [[crm-product-portfolio|CRM products]] and adapts to a range of deployment contexts.
+The service model foundation operates across CRM products and adapts to a range of deployment contexts.
 
 |Product|How SMF works|
 |-------|-------------|
@@ -63,6 +63,3 @@ The service model foundation operates across [[crm-product-portfolio|CRM product
 
 [Service Model Foundation business locations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/industry-data-model-locations.md)
 
-## Related
-
-- [[crm-product-portfolio|CRM products]]

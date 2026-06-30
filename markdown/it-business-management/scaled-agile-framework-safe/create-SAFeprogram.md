@@ -38,7 +38,7 @@ Steps
 
 </td><td>
 
-1.  Navigate to **[[SAFeoverview|Scaled Agile Framework \(SAFe\)]]** &gt; **Agile Release Trains**.
+1.  Navigate to **Scaled Agile Framework \(SAFe\)** &gt; **Agile Release Trains**.
 2.  Click **New**.
 
 
@@ -118,6 +118,3 @@ List of all PI objectives of this ART. View, create, and update the PI objective
 
 [Define a program increment in SAFe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/create-SAFeprogramincrement.md)
 
-## Related
-
-- [[SAFeoverview|Scaled Agile Framework \(SAFe\)]]

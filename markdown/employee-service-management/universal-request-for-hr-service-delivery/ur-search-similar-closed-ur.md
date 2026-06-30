@@ -14,7 +14,7 @@ breadcrumb: [Use, Universal Request, Employee Service Management]
 
 # Search similar and closed Universal Requests
 
-When creating a [[ur-landing-limitedaccess|Universal Request]], search for closed universal requests that are similar using Predictive Intelligence.
+When creating a Universal Request, search for closed universal requests that are similar using Predictive Intelligence.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ Review the solutions to copy the closed information or mark the solution as **Th
 
 **Parent Topic:**[Using Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/using-ur.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]

@@ -14,7 +14,7 @@ breadcrumb: [CrowdStrike Falcon Insight integration, Security Incident Response 
 
 # Create an approval group
 
-[[create-approval-group-mcafee|Create an approval group]] for the CrowdStrike Falcon Insight for [[security-operations-landing-page|Security Operations]] integration that can approve requests for isolating host machines, restoring them to the network, and initiating [[indicator-sightings|sightings]] searches.
+Create an approval group for the CrowdStrike Falcon Insight for Security Operations integration that can approve requests for isolating host machines, restoring them to the network, and initiating sightings searches.
 
 ## Before you begin
 
@@ -55,8 +55,3 @@ Role required: admin
 
 The next step is to [install and configure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/install-and-configure-crowdstrike-falcon-insight.md) the CrowdStrike Falcon Insight application from the ServiceNow Store.
 
-## Related
-
-- [[create-approval-group-mcafee|Create an approval group]]
-- [[security-operations-landing-page|Security Operations]]
-- [[indicator-sightings|Sightings]]

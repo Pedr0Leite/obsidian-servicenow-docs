@@ -12,7 +12,7 @@ breadcrumb: [Mobile Card Builder, Building tools, Building mobile apps, Mobile P
 
 # Customize a screen using Mobile Card Builder
 
-Use [[mobile-card-builder|Mobile Card Builder]] to modify the cards for your screens.
+Use Mobile Card Builder to modify the cards for your screens.
 
 ## Before you begin
 
@@ -32,25 +32,18 @@ For more information about the delegated developer role, see [Delegated developm
 
 4.  Select the card where you want to apply a card template.
 
-    **Note:** A screen may contain more than one card view. For example, a [[list-screen|list screen]] may have an legacy card for the list and another for the form.
+    **Note:** A screen may contain more than one card view. For example, a list screen may have an legacy card for the list and another for the form.
 
 5.  Select **Open** button.
 
     Card builder opens using its current card template.
 
-    **Note:** If you have your screen open in [[mab-concept|Mobile App Builder]], you can also open the template by selecting the **Mobile Card Builder** button.
+    **Note:** If you have your screen open in Mobile App Builder, you can also open the template by selecting the **Mobile Card Builder** button.
 
 
 ## What to do next
 
-To change the layout of the elements of your mobile card, see [[mcb-stage-ui|Mobile Card Builder user interface]].
+To change the layout of the elements of your mobile card, see [Mobile Card Builder user interface](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mcb-stage-ui.md).
 
-When you are happy with the appearance of your card, and want to add values from your records, see [[mcb-assign-fields|Assign field values to your mobile card]].
+When you are happy with the appearance of your card, and want to add values from your records, see [Assign field values to your mobile card](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mcb-assign-fields.md).
 
-## Related
-
-- [[mcb-stage-ui|Mobile Card Builder user interface]]
-- [[mcb-assign-fields|Assign field values to your mobile card]]
-- [[mobile-card-builder|Mobile Card Builder]]
-- [[list-screen|List screen]]
-- [[mab-concept|Mobile App Builder]]

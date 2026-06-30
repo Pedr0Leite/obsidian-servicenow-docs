@@ -14,7 +14,7 @@ breadcrumb: [TISC Library Repository, Threat Intelligence Security Center Librar
 
 # Observables
 
-[[c_Observables|Observables]] represent stateful properties \(such as the MD5 hash of a file or the value of a registry key\) or measurable events \(such as the creation of a registry key or the deletion of a file\) that are pertinent to the operation of computers and networks.
+Observables represent stateful properties \(such as the MD5 hash of a file or the value of a registry key\) or measurable events \(such as the creation of a registry key or the deletion of a file\) that are pertinent to the operation of computers and networks.
 
 Following are the type of observables available in the application:
 
@@ -50,15 +50,15 @@ Observables can be retrieved from scheduled feed ingestion or from the import as
 -   **[Observables source records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-observables-source-records.md)**  
 The source records contribute to an aggregated record as displayed in the form view. These source records are auto created from feeds or manually created by the user.
 -   **[Link Threat Intel Related Records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/link-threat-intel-releated-records.md)**  
-Link the records that are related to the corresponding [[threat-intel-landing-page|threat intelligence]] objects.
+Link the records that are related to the corresponding threat intelligence objects.
 -   **[Fetch Observables Data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/fetch-observables-data.md)**  
 Fetch the observables related records data.
 -   **[View details in Visualizer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/objects-visualizer.md)**  
-Using the Visualizer, you can view the [[stix-relationships|relationships]] between objects, observables and [[indicator|indicators]] which provides context for you to further investigate. The Visualizer uses colors and icons to illustrate various information about the objects.
+Using the Visualizer, you can view the relationships between objects, observables and indicators which provides context for you to further investigate. The Visualizer uses colors and icons to illustrate various information about the objects.
 -   **[Working with Internal Intelligence Records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/working-with-ti-internal-intelligence-records.md)**  
-Use this feature to work with the internal intelligence data that is collected from Configuration Database Management System \(CMDB\) into [[tisc-landing-page|Threat Intelligence Security Center]].
+Use this feature to work with the internal intelligence data that is collected from Configuration Database Management System \(CMDB\) into Threat Intelligence Security Center.
 -   **[Run Enrichment Actions from Observable](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/run-enrichment-actions-from-observable.md)**  
-Use this section to understand how enrichments actions are performed on observables and [[tisc-other-objects|other objects]].
+Use this section to understand how enrichments actions are performed on observables and other objects.
 -   **[Add to Case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/add-to-case.md)**  
 Add observables, indicators, or other objects to the case.
 -   **[Run Enrichment operations in TISC](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-unified-experience-capabilities-and-modal-screens.md)**  
@@ -91,11 +91,3 @@ View observables, indicators, and various objects enrichment results.
 
 [Vulnerability relationship mapping]()
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[stix-relationships|Relationships]]
-- [[indicator|Indicators]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[tisc-other-objects|Other Objects]]

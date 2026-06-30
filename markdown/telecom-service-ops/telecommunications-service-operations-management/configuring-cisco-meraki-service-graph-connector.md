@@ -22,7 +22,7 @@ You must authenticate before initiating discovery. During the authentication pro
 
 This integration uses REST APIs \(via a MID Server\) to promote the CMDB reflects accurate, up-to-date telecom inventory aligned with the TM Forum-based data model. For a list of API references, see [Cisco Meraki Service Graph Connector API Endpoints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/cisco-meraki-service-graph-connector-api-endpoints.md).
 
-**Note:** A valid [[telecommunications-service-operations-management|Telecommunications Service Operations Management]] subscription is required to use this connector.
+**Note:** A valid Telecommunications Service Operations Management subscription is required to use this connector.
 
 ## Required plugins
 
@@ -55,6 +55,3 @@ The following sections are available under the Cisco Meraki navigation pane. Use
 
 Use the guided setup to simplify the configuration process. This setup provides an organized sequence of steps to help you complete integration quickly and correctly. For more information, see [Set up the Service Graph Connector for Cisco Meraki schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/set-up-cisco-meraki.md).
 
-## Related
-
-- [[telecommunications-service-operations-management|Telecommunications Service Operations Management]]

@@ -26,9 +26,9 @@ With this integration you can evaluate the compliance status. The integration al
 
 1.  Hierarchy of PaCE-related plugins and CDM-related plugins.
 2.  DevOps Config Policy Content Pack provided by PaCE.
-3.  GRC plugins: GRC: [[cybersecurity-controls-accelerator|Cybersecurity Controls Accelerator]], GRC: Compliance UCF, and GRC: [[grc-cam-landing-page|Continuous Authorization and Monitoring]].
+3.  GRC plugins: GRC: Cybersecurity Controls Accelerator, GRC: Compliance UCF, and GRC: Continuous Authorization and Monitoring.
 
-**Note:** GRC: DevOps Accelerator \(com.sn\_grc\_devops\) is dependent on DevOps Config Policy Content Pack and GRC: [[r_PolicyComplianceMgmt|Policy and Compliance Management]]. However, if GRC: Cybersecurity Controls Accelerator \(CIS\), GRC: Unified Compliance Framework \(UCF\), and GRC: Continuous Authorization and Monitoring \(CAM\) plugins are not installed on the instance, then the staging data relevant to the control objectives from these plugins would not be available on installing GRC: DevOps Accelerator.
+**Note:** GRC: DevOps Accelerator \(com.sn\_grc\_devops\) is dependent on DevOps Config Policy Content Pack and GRC: Policy and Compliance Management. However, if GRC: Cybersecurity Controls Accelerator \(CIS\), GRC: Unified Compliance Framework \(UCF\), and GRC: Continuous Authorization and Monitoring \(CAM\) plugins are not installed on the instance, then the staging data relevant to the control objectives from these plugins would not be available on installing GRC: DevOps Accelerator.
 
 GRC: DevOps Accelerator plugin maps the relationship between PaCE policies and control objectives.
 
@@ -49,8 +49,3 @@ The data in the DevOps policy to control objective staging \[sn\_grc\_devops\_po
 
 A daily job \(Import DevOps policy to Control Objective mapping from staging\) runs after the applications and the DevOps accelerator are installed to add the records to the Control objective to items \(sn\_compliance\_control\_objective\_item\) table. If the record is successfully added to the mapping table, then the status of the record in the staging table moves to Processed. If a control objective is not populated or present in the application, then the record is not processed but is in Pending status.
 
-## Related
-
-- [[cybersecurity-controls-accelerator|cybersecurity controls accelerator]]
-- [[grc-cam-landing-page|Continuous Authorization and Monitoring]]
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

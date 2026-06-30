@@ -47,7 +47,7 @@ As a legal fulfiller on the legal team, you work on assigned third-party review 
         -   For external storage - Reviewers collaborate on the contract document revision online in real time. Once the review is complete, the fulfiller can finalize the contract document that is available online or create a new offline version with the changes.
 6.  The contract fulfiller uploads the revised contract to the contract request.
 7.  The contract fulfiller emails the revised contract document to third-party contacts.
-8.  View responses from third-party contacts in the [[activity-lxp|activity]] stream of the contract request.
+8.  View responses from third-party contacts in the activity stream of the contract request.
 
     Multiple iterations of revisions between your company and the third party might be necessary before the contract document is finalized by all parties. The review process may be conducted again with different reviewer groups.
 
@@ -64,6 +64,3 @@ For wet signatures, after all signatories have signed and returned the contract 
 
 The requester and legal department members can access the signed contract document from the Legal Contracts repository.
 
-## Related
-
-- [[activity-lxp|Activity]]

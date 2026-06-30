@@ -14,7 +14,7 @@ breadcrumb: [Identity]
 
 # Identity Center
 
-Allows you to monitor, manage, and minimize [[identity-landing|identity]]-based risk and security gaps.
+Allows you to monitor, manage, and minimize identity-based risk and security gaps.
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
@@ -30,21 +30,15 @@ Allows you to monitor, manage, and minimize [[identity-landing|identity]]-based 
 
 </td></tr><tr><td>
 
-[Identity [[ca-metrics|Metrics]] for administrators\[Omitted image "icon-set-up.png"\] Alt text: Use](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/identity/identity-center-for-admin.md)
+[Identity Metrics for administrators\[Omitted image "icon-set-up.png"\] Alt text: Use](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/identity/identity-center-for-admin.md)
 
  [Know how the permissions are evaluated.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/identity/identity-center-for-admin.md)
 
 </td><td>
 
-[Identity Center for [[users|users]]\[Omitted image "icon-manage.png"\] Alt text: Evaluation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/identity/identity-center-for-user.md)
+[Identity Center for users\[Omitted image "icon-manage.png"\] Alt text: Evaluation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/identity/identity-center-for-user.md)
 
  [Get details about the commonly asked questions about the Access Analyzer.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/identity/identity-center-for-user.md)
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[identity-landing|Identity]]
-- [[ca-metrics|Metrics]]
-- [[users|Users]]

@@ -14,7 +14,7 @@ breadcrumb: [Using Shopping Hub, Use, Sourcing and Procurement Operations, Finan
 
 # Submit a quote
 
-As a shopper or requester, when an existing quotation for a product or service that you're looking for doesn’t meet your expectation, you can get your own quote and submit it so that a requisition can be processed by the procurement team accordingly. You can submit a quote from [[shopping-hub-overview|Shopping Hub]] Home or directly from Employee Center.
+As a shopper or requester, when an existing quotation for a product or service that you're looking for doesn’t meet your expectation, you can get your own quote and submit it so that a requisition can be processed by the procurement team accordingly. You can submit a quote from Shopping Hub Home or directly from Employee Center.
 
 ## Before you begin
 
@@ -44,7 +44,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-First, search and add the [[supplier|supplier]] from the existing supplier list
+First, search and add the supplier from the existing supplier list
 
 </td><td>
 
@@ -64,11 +64,11 @@ Have you contacted this supplier about the products you're requesting?
 
 </td><td>
 
-If you’ve contacted the supplier already, select the appropriate option, and enter details of the [[supplier-contact|supplier contact]] such as first and last names, job title, and registered email ID.For more information on adding suppliers, see:
+If you’ve contacted the supplier already, select the appropriate option, and enter details of the supplier contact such as first and last names, job title, and registered email ID.For more information on adding suppliers, see:
 
 -   From Platform: [Add a supplier](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-supplier.md).
 -   From the supplier catalog: [Add a supplier contact using the supplier catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/enroll-contact-catalog.md).
--   From [[purch-order-mgmt-ws|Source-to-Pay Workspace]]: [Add a supplier contact from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/add-supplier-contact.md).
+-   From Source-to-Pay Workspace: [Add a supplier contact from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/add-supplier-contact.md).
 
 
 </td></tr></tbody>
@@ -174,7 +174,7 @@ Delivery location of the product or service. You can use one of your saved addre
 
 </td></tr><tr><td>
 
-[[cost-center|Cost center]] for payment
+Cost center for payment
 
 </td><td>
 
@@ -210,16 +210,7 @@ Any additional information that you may want to add.
 
 ## What to do next
 
-You can view the newly created [[purchase-requisition|purchase requisition]] details on the My Purchases page in ShoppingHub. [[purchase-lines|Purchase lines]] are grouped based on whether the order type is standard or blanket. For more information on purchase line grouping, see [Purchase requisition merging](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-requisition-merging.md).
+You can view the newly created purchase requisition details on the My Purchases page in ShoppingHub. Purchase lines are grouped based on whether the order type is standard or blanket. For more information on purchase line grouping, see [Purchase requisition merging](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-requisition-merging.md).
 
 **Parent Topic:**[Using Shopping Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/use-shoppinghub-portal.md)
 
-## Related
-
-- [[shopping-hub-overview|Shopping Hub]]
-- [[supplier|Supplier]]
-- [[supplier-contact|Supplier contact]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[cost-center|Cost center]]
-- [[purchase-requisition|Purchase requisition]]
-- [[purchase-lines|Purchase lines]]

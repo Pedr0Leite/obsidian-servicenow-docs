@@ -30,13 +30,10 @@ Approval activity script errors can prevent an approval from being processed suc
 
     `&& activity.state != 'faulted'`
 
-    This prevents the activity from continuing down the normal path in an error state and ensures that **Skipped** or **Approved** is the [[c_DesiredState|desired state]].
+    This prevents the activity from continuing down the normal path in an error state and ensures that **Skipped** or **Approved** is the desired state.
 
 4.  Click **Update**.
 
 
 **Parent Topic:**[Workflow error handling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/c_WorkflowErrorHandling.md)
 
-## Related
-
-- [[c_DesiredState|Desired State]]

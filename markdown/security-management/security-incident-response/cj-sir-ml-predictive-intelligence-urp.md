@@ -14,7 +14,7 @@ breadcrumb: [Security Incident Response, Enterprise security case management app
 
 # Manage Predictive Intelligence for User Reported Phishing
 
-The [[cj-sir-ml-urp|Predictive Intelligence for User Reported Phishing]] feature provides a significant solution in triaging and prioritizing user reported phishing emails.
+The Predictive Intelligence for User Reported Phishing feature provides a significant solution in triaging and prioritizing user reported phishing emails.
 
 This section describes the following:
 
@@ -23,6 +23,3 @@ This section describes the following:
 -   [Final verdict generation for User Reported Phishing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/cj-sir-ml-urp-final.md)
 -   [Troubleshooting Predictive Intelligence for User Reported Phishing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/cj-sir-ml-urp-trouble.md)
 
-## Related
-
-- [[cj-sir-ml-urp|Predictive Intelligence for User Reported Phishing]]

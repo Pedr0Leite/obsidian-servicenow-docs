@@ -14,7 +14,7 @@ breadcrumb: [Creating Microsoft 365 From SA and Add-on entitlements, Microsoft 3
 
 # Create Microsoft 365 From SA and Add-on entitlements in Software Asset Management classic
 
-Create a Microsoft 365 From SA or Add-on entitlement in the [[c_SoftwareAssetMgmt|Software Asset Management]] classic application so that you can track and manage the From SA or Add-on licensing terms for your Microsoft 365 subscription software products and services.
+Create a Microsoft 365 From SA or Add-on entitlement in the Software Asset Management classic application so that you can track and manage the From SA or Add-on licensing terms for your Microsoft 365 subscription software products and services.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ Role required: sam\_user or sam\_admin
 
     **Important:** To create a Microsoft 365 From SA or Add-on entitlement, set the **Software model** field to a Microsoft 365 software model and then set the **License type** field to either **From SA** or **Add-on**.
 
-    **Tip:** If you’re using both Full and Add-on USLs for the same Microsoft 365 subscription software product or service, associate the corresponding entitlements with different [[c_CreatingSoftwareModels|software models]] to avoid licensing conflicts.
+    **Tip:** If you’re using both Full and Add-on USLs for the same Microsoft 365 subscription software product or service, associate the corresponding entitlements with different software models to avoid licensing conflicts.
 
 4.  Select **Save**.
 
@@ -80,7 +80,3 @@ Role required: sam\_user or sam\_admin
 
 [Software entitlement fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/software-entitlement-fields.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[c_CreatingSoftwareModels|Software models]]

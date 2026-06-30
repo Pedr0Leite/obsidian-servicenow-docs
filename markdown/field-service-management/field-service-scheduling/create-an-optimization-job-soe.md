@@ -28,7 +28,7 @@ When the Territory Planning plugin is installed and the Territory Model is activ
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[schedule-optimization|Schedule Optimization]]** &gt; **Scopes**.
+1.  Navigate to **All** &gt; **Schedule Optimization** &gt; **Scopes**.
 
 2.  Select **New**.
 
@@ -50,13 +50,10 @@ When the Territory Planning plugin is installed and the Territory Model is activ
 
 9.  In the **Qualifiers** related list, add assignment groups or territories to the scope.
 
-    **Note:** Each assignment group must have a unique set of technicians. A technician cannot belong to more than one assignment group. [[territory-based-optimization|Territory-based optimization]] supports overlapping technicians; assignment group-based optimization does not.
+    **Note:** Each assignment group must have a unique set of technicians. A technician cannot belong to more than one assignment group. Territory-based optimization supports overlapping technicians; assignment group-based optimization does not.
 
 10. Select **Submit**.
 
     A Schedule Optimization scope is created.
 
-## Related
 
-- [[schedule-optimization|Schedule Optimization]]
-- [[territory-based-optimization|Territory-Based Optimization]]

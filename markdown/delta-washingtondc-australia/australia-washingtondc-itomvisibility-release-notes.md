@@ -1036,8 +1036,5 @@ The majority of Visibility apps are updated monthly or quarterly via the Service
  See [ITOM Visibility](https://www.servicenow.com/docs/access?context=itom-visibility-landing-page&family=australia&ft:locale=en-US) for more information.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[rn-combined-intro|Products combined by family]]
+</table>**Parent Topic:**[Products combined by family](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/delta-washingtondc-australia/rn-combined-intro.md)
 
-## Related
-
-- [[rn-combined-intro|Products combined by family]]

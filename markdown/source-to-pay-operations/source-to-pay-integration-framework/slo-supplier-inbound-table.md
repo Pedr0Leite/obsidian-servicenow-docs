@@ -14,7 +14,7 @@ breadcrumb: [Inbound staging tables for Supplier Lifecycle Operations, Inbound s
 
 # Supplier inbound staging table
 
-The [[supplier|Supplier]] inbound \[sn\_fcms\_intg\_imp\_supplier\] staging table temporarily stores important data about the supplier before this data is sent to the Supplier \[sn\_fin\_supplier\] primary table.
+The Supplier inbound \[sn\_fcms\_intg\_imp\_supplier\] staging table temporarily stores important data about the supplier before this data is sent to the Supplier \[sn\_fin\_supplier\] primary table.
 
 ## Supplier inbound staging table
 
@@ -162,7 +162,7 @@ String
 
 </td><td>
 
-Employee number of the [[supplier-contact|supplier contact]].
+Employee number of the supplier contact.
 
 </td></tr><tr><td>
 
@@ -190,7 +190,7 @@ Company code of the supplier in the ERP system.
 
 </td></tr><tr><td>
 
-[[erp-source|ERP source]]
+ERP source
 
 </td><td>
 
@@ -226,7 +226,7 @@ Year the organization was founded.
 
 </td></tr><tr><td>
 
-General [[ledger-account|ledger account]]
+General ledger account
 
 </td><td>
 
@@ -294,7 +294,7 @@ String
 
 </td><td>
 
-Name of the [[legal-entity|legal entity]].
+Name of the legal entity.
 
 </td></tr><tr><td>
 
@@ -622,10 +622,3 @@ Zip code or postal code where the supplier is located.
 
 [Supplier Payment inbound staging table]()
 
-## Related
-
-- [[supplier|Supplier]]
-- [[supplier-contact|Supplier contact]]
-- [[erp-source|ERP source]]
-- [[ledger-account|Ledger account]]
-- [[legal-entity|Legal entity]]

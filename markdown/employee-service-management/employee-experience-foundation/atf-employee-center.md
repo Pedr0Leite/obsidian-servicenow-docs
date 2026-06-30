@@ -14,7 +14,7 @@ breadcrumb: [Quick start tests for Employee Center, Configuring Employee Center,
 
 # Run quick start tests for Employee Center
 
-[[employee-center-landing-page|Employee Center]] provides several quick start tests you can run.
+Employee Center provides several quick start tests you can run.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ Role required: admin
 
 Use Performance Profiling to compare tests to detect performance degradation when you upgrade your instance, so you can investigate and fix the issues. See [Performance profiling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/atf-perf-prof.md).
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

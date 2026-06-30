@@ -14,7 +14,7 @@ breadcrumb: [Use, Hardware Asset Management, IT Asset Management]
 
 # Acknowledge receipt of assets on the Employee Center portal
 
-After receiving hardware or [[c_ReceiveAConsumableAsset|consumable assets]] that were in transit and reserved for you, confirm their receipt on the Employee Center portal.
+After receiving hardware or consumable assets that were in transit and reserved for you, confirm their receipt on the Employee Center portal.
 
 ## Before you begin
 
@@ -22,17 +22,17 @@ Role required: Log in as an employee.
 
 To view the **My Assets** option on the global header navigation bar of the Employee Center portal, the value of the **enable\_assets** option must be set to **true** on the Additional options, JSON format field of the Employee Center menu record. For more details, see [Enable or disable global header options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/config-global-header-components.md).
 
-**Note:** The **My Assets** option requires the [[ham-landing-page|Hardware Asset Management]] application to be activated.
+**Note:** The **My Assets** option requires the Hardware Asset Management application to be activated.
 
 ## About this task
 
-When an asset reserved for you is in transit, you will receive an email notification with a link to the Employee Center Portal, where you can acknowledge its receipt. You can [[t_ReceiveAnAsset|receive an asset]] even if the asset is excluded from Hardware Asset Management workflows or if the associated resource category isn't opted in.
+When an asset reserved for you is in transit, you will receive an email notification with a link to the Employee Center Portal, where you can acknowledge its receipt. You can receive an asset even if the asset is excluded from Hardware Asset Management workflows or if the associated resource category isn't opted in.
 
 ## Procedure
 
 1.  View the assets that are reserved for you on the Employee Center portal.
 
-    -   Select the **[[c_ReceiveAssets|Receive assets]]** link in the email notification that you received.
+    -   Select the **Receive assets** link in the email notification that you received.
 
         The link opens the **My Assets** page on the Employee Center portal.
 
@@ -83,7 +83,7 @@ Action
 
 </td><td>
 
-1.  For the hardware asset that you want to receive, select **[[receive-rma-asset|Receive asset]]**.
+1.  For the hardware asset that you want to receive, select **Receive asset**.
 2.  In the Receive asset dialog box, follow any of these steps:
     -   If the **Asset tag** and **Serial number** fields have values, verify them and then select **Submit**.
     -   If either the **Asset tag** or **Serial number** field is empty, enter the value and then select **Submit**.
@@ -128,7 +128,7 @@ Action
 
 [Work with hardware normalization]()
 
-[Manage [[asset-bundles-concept|asset bundles]] from your inventory]()
+[Manage asset bundles from your inventory]()
 
 [Manage your inventory through pallet assets]()
 
@@ -150,13 +150,13 @@ Action
 
 [Request a Hardware Asset Refresh]()
 
-[Manage your expiring [[c_Contracts|contracts]] for leased hardware assets]()
+[Manage your expiring contracts for leased hardware assets]()
 
 [Reclaim hardware assets]()
 
 [View RFID information of assets]()
 
-[Manage the lifecycle of hardware [[c_Models|models]] with calculated lifecycle templates]()
+[Manage the lifecycle of hardware models with calculated lifecycle templates]()
 
 [Create an internal lifecycle in the Hardware Asset Workspace]()
 
@@ -188,13 +188,3 @@ Action
 
 [Update associated Decision tables for HAM flows]()
 
-## Related
-
-- [[c_ReceiveAConsumableAsset|Consumable assets]]
-- [[ham-landing-page|Hardware Asset Management]]
-- [[t_ReceiveAnAsset|Receive an asset]]
-- [[c_ReceiveAssets|Receive assets]]
-- [[receive-rma-asset|Receive asset]]
-- [[asset-bundles-concept|Asset bundles]]
-- [[c_Contracts|Contracts]]
-- [[c_Models|Models]]

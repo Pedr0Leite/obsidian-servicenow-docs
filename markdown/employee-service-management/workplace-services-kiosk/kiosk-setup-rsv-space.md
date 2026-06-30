@@ -22,7 +22,7 @@ Role required: sn\_wsd\_kiosk.operator
 
 ## Procedure
 
-1.  Log in to the [[workplace-services-kiosk|Workplace Services Kiosk]] instance.
+1.  Log in to the Workplace Services Kiosk instance.
 
 2.  On the kiosk setup welcome page for a device, select the **Select Kiosk** tab.
 
@@ -40,12 +40,8 @@ Role required: sn\_wsd\_kiosk.operator
 
 6.  The Welcome to the Kiosk setup page opens and shows the default kiosk as selected.
 
-    You have successfully setup the kiosk on your device for workplace visitors and guests to [[reservation-portal|make a reservation]]. For more information, see [Make workplace reservations on the kiosk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/rsv-space-kiosk-map.md).
+    You have successfully setup the kiosk on your device for workplace visitors and guests to make a reservation. For more information, see [Make workplace reservations on the kiosk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/rsv-space-kiosk-map.md).
 
 
 **Parent Topic:**[Configuring Workplace Services Kiosk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/configure-workplace-services-kiosk.md)
 
-## Related
-
-- [[workplace-services-kiosk|Workplace Services Kiosk]]
-- [[reservation-portal|Make a reservation]]

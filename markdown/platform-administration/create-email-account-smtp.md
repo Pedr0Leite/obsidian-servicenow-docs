@@ -12,7 +12,7 @@ breadcrumb: [Send email using client credential flow, Advanced email setup, Conf
 
 # Create an email account with SMTP OAuth2.0
 
-[[t_ConfigureAnEmailAccount|Create an email account]] from Microsoft Exchange Online with SMTP OAuth2.0.
+Create an email account from Microsoft Exchange Online with SMTP OAuth2.0.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: email\_account\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_SystemMailboxes|System Mailboxes]]** &gt; **Administration** &gt; **[[c_EmailAccounts|Email Accounts]]**.
+1.  Navigate to **All** &gt; **System Mailboxes** &gt; **Administration** &gt; **Email Accounts**.
 
 2.  Select **New**.
 
@@ -88,7 +88,7 @@ From
 
 </td><td>
 
-The From email address used for [[notifications|notifications]] sent with this account. This address takes precedence over the **User name** field. If nothing is present in this field, the User name is used as the return address for notifications sent from the instance. **Note:** This value is for SMTP only.
+The From email address used for notifications sent with this account. This address takes precedence over the **User name** field. If nothing is present in this field, the User name is used as the return address for notifications sent from the instance. **Note:** This value is for SMTP only.
 
 </td></tr><tr><td>
 
@@ -146,12 +146,5 @@ Option to create node logs for the raw data that is exchanged with the email ser
 5.  Test the connection by selecting the **Test Connection** link.
 
 
-**Parent Topic:**[[send-email-client-credential-flow|Sending email using client credential flow]]
+**Parent Topic:**[Sending email using client credential flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/send-email-client-credential-flow.md)
 
-## Related
-
-- [[send-email-client-credential-flow|Sending email using client credential flow]]
-- [[t_ConfigureAnEmailAccount|Create an email account]]
-- [[c_SystemMailboxes|System mailboxes]]
-- [[c_EmailAccounts|Email accounts]]
-- [[notifications|Notifications]]

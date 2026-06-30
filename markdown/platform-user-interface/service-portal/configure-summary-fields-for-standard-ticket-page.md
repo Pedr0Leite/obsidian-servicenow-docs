@@ -14,7 +14,7 @@ breadcrumb: [Configure the standard ticket page, Standard ticket page, Creating 
 
 # Configure summary fields for standard ticket page
 
-[[configure-onboarding-modals|Configure]] summary fields on the [[standard-ticket-page|standard ticket page]] such that the page displays the Summarize button, enabling requesters to view Now Assist-generated overviews of recent ticket activity and details.
+Configure summary fields on the standard ticket page such that the page displays the Summarize button, enabling requesters to view Now Assist-generated overviews of recent ticket activity and details.
 
 ## Before you begin
 
@@ -45,7 +45,3 @@ Role required: admin and sp\_admin
 
 [Generative AI summarization on the standard ticket page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/genai-summary-standard-ticket-page.md)
 
-## Related
-
-- [[configure-onboarding-modals|Configure]]
-- [[standard-ticket-page|Standard ticket page]]

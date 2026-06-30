@@ -87,7 +87,7 @@ Mobile app
 
 ServiceNow mobile app the link opens in. Options are `Agent`, `Onboarding`, or `Request` \(Now Mobile\).
 
-**Note:** The selection here overrides the selection made in the **Mobile app** field listed in the topic [[universal-linking-screen-mapping|Mapping specific mobile screens for universal linking]].
+**Note:** The selection here overrides the selection made in the **Mobile app** field listed in the topic [Mapping specific mobile screens for universal linking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/universal-linking-screen-mapping.md).
 
 </td></tr><tr><td>
 
@@ -135,7 +135,7 @@ Mobile screen builder
 
 </td><td>
 
-Use the mobile screen builder script block to define the screen type to build and the data the screen uses. Using one of the provided methods in the script block it creates a [[list-screen|list screen]], [[form-screen|record screen]], or browser screen. Each method has its own parameter requirements. You can find specific parameters in the script block comments. For more information, see [GlideRecord](https://developer.servicenow.com/dev.do#!/reference/api/orlando/server/no-namespace/c_GlideRecordScopedAPI).
+Use the mobile screen builder script block to define the screen type to build and the data the screen uses. Using one of the provided methods in the script block it creates a list screen, record screen, or browser screen. Each method has its own parameter requirements. You can find specific parameters in the script block comments. For more information, see [GlideRecord](https://developer.servicenow.com/dev.do#!/reference/api/orlando/server/no-namespace/c_GlideRecordScopedAPI).
 
 </td></tr></tbody>
 </table>    4.  Select **Submit**.
@@ -145,11 +145,5 @@ Use the mobile screen builder script block to define the screen type to build an
 
 After defining when banners appear and the screen and content the user views, consider enhancing the experience by associating the screen to a preconfigured table. See, [Mapping specific mobile screens for universal linking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/universal-linking-screen-mapping.md).
 
-**Parent Topic:**[[universal-linking-support-urls|Mobile universal linking for supported URLs]]
+**Parent Topic:**[Mobile universal linking for supported URLs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/universal-linking-support-urls.md)
 
-## Related
-
-- [[universal-linking-screen-mapping|Mapping specific mobile screens for universal linking]]
-- [[universal-linking-support-urls|Mobile universal linking for supported URLs]]
-- [[list-screen|List screen]]
-- [[form-screen|Record screen]]

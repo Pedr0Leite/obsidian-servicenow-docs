@@ -14,11 +14,11 @@ breadcrumb: [NLU intents, Build and train your model, Model management, Natural 
 
 # Create an NLU intent
 
-Create an intent for your [[nlu-landing|Natural Language Understanding]] \(NLU\) model. Intents provide your model with a system action to perform when it receives user input.
+Create an intent for your Natural Language Understanding \(NLU\) model. Intents provide your model with a system action to perform when it receives user input.
 
 ## Before you begin
 
--   Make sure that the NLU Workbench plugin, NLU Workbench - Core plugin, [[nlu-workbench-advanced-features|NLU Workbench - Advanced Features]] plugin, NLU Common Model plugin, and [[predictive-intelligence-landing|Predictive Intelligence]] plugin are all installed and activated on your instance.
+-   Make sure that the NLU Workbench plugin, NLU Workbench - Core plugin, NLU Workbench - Advanced Features plugin, NLU Common Model plugin, and Predictive Intelligence plugin are all installed and activated on your instance.
 -   Ensure that you are in the same application scope as your model.
 -   You can create intents for Virtual Agent and AI Search models in NLU Workbench.
 -   Role required: admin or nlu\_admin
@@ -53,7 +53,7 @@ In the following example procedure, you're creating an intent and adding utteran
 
     In this model example, you select your HR Model for Virtual Agent model.
 
-4.  In the **[[managing-model-content|Build and train your model]]** card, select **View phase**.
+4.  In the **Build and train your model** card, select **View phase**.
 
 5.  Select **Intents**.
 
@@ -90,9 +90,3 @@ To improve your utterances, add entities to provide context. See [NLU entities](
 
 The available [Intent Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/intent-discovery.md) feature can help identify intents that would be possible to add, based on your historical data.
 
-## Related
-
-- [[nlu-landing|Natural Language Understanding]]
-- [[nlu-workbench-advanced-features|NLU Workbench - Advanced Features]]
-- [[predictive-intelligence-landing|Predictive Intelligence]]
-- [[managing-model-content|Build and train your model]]

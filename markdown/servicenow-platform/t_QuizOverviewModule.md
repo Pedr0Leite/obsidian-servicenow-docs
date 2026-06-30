@@ -12,7 +12,7 @@ breadcrumb: [Using Quizzes, Quizzes, Assessments and Surveys, Exploring Service 
 
 # View quiz reports
 
-Use the Quiz Overview dashboard to view various reports on data such as [[c_Quizzes|Quizzes]] by State, Questions by Data Type, and Number of Correct Answers.
+Use the Quiz Overview dashboard to view various reports on data such as Quizzes by State, Questions by Data Type, and Number of Correct Answers.
 
 ## Before you begin
 
@@ -43,9 +43,5 @@ You can view the Quiz Overview dashboard to refresh the view and add new widgets
     For more information about working with dashboards, see [Dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/dashboards-landing-page.md).
 
 
-**Parent Topic:**[[using-quizzes|Using Quizzes]]
+**Parent Topic:**[Using Quizzes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/using-quizzes.md)
 
-## Related
-
-- [[using-quizzes|Using Quizzes]]
-- [[c_Quizzes|Quizzes]]

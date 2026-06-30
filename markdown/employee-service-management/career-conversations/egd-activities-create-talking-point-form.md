@@ -14,9 +14,9 @@ breadcrumb: [Career Conversations reference, Career Conversations, Growth Experi
 
 # Create Suggested Talking Points reference
 
-[[egd-activities-conversations-module|Career Conversations]] administrators create suggested talking points that are used to identify topics of discussion during a conversation.
+Career Conversations administrators create suggested talking points that are used to identify topics of discussion during a conversation.
 
-The form that appears when you create a record in the [[egd-activities-suggested-talking-points-form|Suggested Talking Points table]] contains the following fields:
+The form that appears when you create a record in the Suggested Talking Points table contains the following fields:
 
 |Field|Description|
 |-----|-----------|
@@ -29,7 +29,3 @@ The form that appears when you create a record in the [[egd-activities-suggested
 
 **Parent Topic:**[Career Conversations reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/egd-activities-reference.md)
 
-## Related
-
-- [[egd-activities-conversations-module|Career Conversations]]
-- [[egd-activities-suggested-talking-points-form|Suggested Talking Points table]]

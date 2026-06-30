@@ -14,7 +14,7 @@ breadcrumb: [Applications, DevOps Change Velocity, IT Service Management]
 
 # Associate tool objects to applications - Workspace
 
-After creating an application, you can associate plans, repositories, and pipelines with it. [[dex-workspace-application-tab|Applications]] group plans, repositories, and pipelines from DevOps tools, which provides traceability to user stories, commits, test results, and so on.
+After creating an application, you can associate plans, repositories, and pipelines with it. Applications group plans, repositories, and pipelines from DevOps tools, which provides traceability to user stories, commits, test results, and so on.
 
 ## Before you begin
 
@@ -105,6 +105,4 @@ You can import up to 90 days of data.
 </td></tr></tbody>
 </table>4.  Select **Save**.
 
-## Related
 
-- [[dex-workspace-application-tab|Applications]]

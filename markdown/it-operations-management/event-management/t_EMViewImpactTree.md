@@ -34,7 +34,7 @@ You can also learn about the impact tree from the following video tutorial.
 
 1.  Open the service map for the service from the Application service list.
 
-    1.  Navigate to **[[c_EM|Event Management]]** &gt; **Services** &gt; **Application Services**.
+    1.  Navigate to **Event Management** &gt; **Services** &gt; **Application Services**.
     2.  Click **View service** next to the service.
 2.  On the service map, click a CI that has a severity color.
 
@@ -68,16 +68,12 @@ You can also learn about the impact tree from the following video tutorial.
 </td><td>
 
 1.  Click the **Alerts**.
-2.  Right-click the alert and select **[[ccg-run-remediation|Run remediation]]**.
+2.  Right-click the alert and select **Run remediation**.
 
 
 </td></tr></tbody>
 </table>    Network paths appearing in the impact tree can use a large amount of resources, which degrades system performance. To disable network paths from appearing in the impact tree, navigate to **System Properties** &gt; **All Properties** and set the **evt\_mgmt.network\_path\_excluded** property to **true**.
 
-    To view impact tree using [[workspace-dashboard-use|Service Operations Workspace]], see [View impact tree using Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/view-impact-tree.md).
+    To view impact tree using Service Operations Workspace, see [View impact tree using Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/view-impact-tree.md).
 
-## Related
 
-- [[c_EM|Event Management]]
-- [[ccg-run-remediation|Run remediation]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

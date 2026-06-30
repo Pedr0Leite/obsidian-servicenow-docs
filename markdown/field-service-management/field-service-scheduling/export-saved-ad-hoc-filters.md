@@ -14,7 +14,7 @@ breadcrumb: [Managing ad hoc filters, Using Dispatcher Workspace, Assigning task
 
 # Export saved ad hoc filters
 
-Export ad hoc filters saved in the [[dispatcher-activities|Dispatcher Workspace]].
+Export ad hoc filters saved in the Dispatcher Workspace.
 
 ## Before you begin
 
@@ -43,6 +43,3 @@ Role required: wm\_dispatcher
 
 The saved filters are formatted and exported to the desired delivery type.
 
-## Related
-
-- [[dispatcher-activities|Dispatcher Workspace]]

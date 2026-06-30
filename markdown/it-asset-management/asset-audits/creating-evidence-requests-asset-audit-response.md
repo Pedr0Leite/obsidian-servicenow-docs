@@ -14,7 +14,7 @@ breadcrumb: [Asset Audit Response, IT Asset Management]
 
 # Requesting evidence for financial regulatory audit engagements
 
-If you are an audit manager, you can request evidence for your financial regulatory audit engagements in the [[audit-workspace|Audit Workspace]].
+If you are an audit manager, you can request evidence for your financial regulatory audit engagements in the Audit Workspace.
 
 ## Overview of requesting evidence for financial regulatory audit engagements
 
@@ -24,6 +24,3 @@ Request evidence for your financial regulatory audit engagements by performing t
 
 Request evidence at any stage of a financial regulatory audit by using the Audit Workspace.
 
-## Related
-
-- [[audit-workspace|Audit Workspace]]

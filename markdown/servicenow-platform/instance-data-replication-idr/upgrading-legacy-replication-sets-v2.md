@@ -24,7 +24,7 @@ Improve message processing and replication performance by upgrading your legacy 
 
     Beginning with the Washington DC release, you can no longer create legacy replication sets.
 
--   V2 replication sets use the ServiceNow [[hermes-messaging-service|Hermes Messaging Service]] for Kafka message transport and delivery, which replicates data faster, at scale, and with high reliability. The Hermes Messaging Service is a ServiceNow AI Platform capability that's automatically enabled when the IDR plugin \(com.glide.idr\) is activated. All replication sets created after the Washington DC release are V2 replication sets.
+-   V2 replication sets use the ServiceNow Hermes Messaging Service for Kafka message transport and delivery, which replicates data faster, at scale, and with high reliability. The Hermes Messaging Service is a ServiceNow AI Platform capability that's automatically enabled when the IDR plugin \(com.glide.idr\) is activated. All replication sets created after the Washington DC release are V2 replication sets.
 
 **Note:** Data sent from a V2 producer replication set is retained in the message queue for 24 hours.
 
@@ -52,13 +52,9 @@ V2 producer replication sets are compatible only with V2 consumer replication se
 If you upgrade a producer replication set to V2, you must upgrade the subscribed consumer replication sets to V2 as well to take advantage of the V2 processing improvements.
 
 -   **[Upgrade legacy replication sets in Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/upgrade-legacy-replication-sets.md)**  
-Replicate high volumes of data faster and more reliably by upgrading your [[instance-data-replication|Instance Data Replication]] \(IDR\) legacy producer and consumer replication sets to V2.
+Replicate high volumes of data faster and more reliably by upgrading your Instance Data Replication \(IDR\) legacy producer and consumer replication sets to V2.
 -   **[Rolling back an upgrade in Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/rolling-back-an-upgrade.md)**  
 If a problem occurs during an upgrade to V2, the upgrade is rolled back in Instance Data Replication \(IDR\).
 
 **Parent Topic:**[Configuring Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/configuring-instance-data-replication.md)
 
-## Related
-
-- [[hermes-messaging-service|Hermes Messaging Service]]
-- [[instance-data-replication|Instance Data Replication]]

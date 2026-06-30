@@ -14,7 +14,7 @@ breadcrumb: [Filtering the alert display in the Express List pane, Express List 
 
 # Categorize alerts displayed in Express List
 
-Create different views of alerts by adding tags in Express List to enable you to easily identify and group alerts without the need for [[r-discovery|discovery]] or accessing the CMDB.
+Create different views of alerts by adding tags in Express List to enable you to easily identify and group alerts without the need for discovery or accessing the CMDB.
 
 ## Before you begin
 
@@ -22,13 +22,13 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
 2.  In the primary navigation, select the Express List icon \(\[Omitted image "express-list1.png"\] Alt text: Express List icon\).
 
 3.  In the left filter pane, select the **Edit filter attributes** icon \(\[Omitted image "icon-edit-filter-attirbutes.png"\] Alt text: Edit filter attributes icon\).
 
-4.  In the **Edit filter attributes** dialog box, select the **[[alert-tags|Alert tags]]** tab.
+4.  In the **Edit filter attributes** dialog box, select the **Alert tags** tab.
 
     \[Omitted image "edit-filter-attributes2.png"\] Alt text: Edit filter attributes dialog boxThe **Alert tags** tab title displays the number of selected alert tags.
 
@@ -49,8 +49,3 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 
 All the selected tags are displayed in the **Filters** pane under the **Alert tags** tab.
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[alert-tags|Alert tags]]

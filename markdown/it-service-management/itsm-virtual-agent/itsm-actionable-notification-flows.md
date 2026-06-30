@@ -14,7 +14,7 @@ breadcrumb: [ITSM Virtual Agent pre-built actionable notifications, ITSM Virtual
 
 # Actionable notifications for incidents in ITSM Virtual Agent
 
-Notify employees of pending tasks and incident alerts with notifications from [[itsm-virtual-agent|ITSM Virtual Agent]].
+Notify employees of pending tasks and incident alerts with notifications from ITSM Virtual Agent.
 
 You must activate notifications in Workflow Studio in order to use them. For details, see [Set up actionable notifications for ITSM Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/setup-actionable-notifications.md).
 
@@ -64,6 +64,3 @@ The end user can also give feedback and add comments to the incident​.
 
 **Parent Topic:**[ITSM Virtual Agent pre-built actionable notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/itsm-actionable-notifications.md)
 
-## Related
-
-- [[itsm-virtual-agent|ITSM Virtual Agent]]

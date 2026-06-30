@@ -18,7 +18,7 @@ Use the REST API Auth Scope to provide access to a specific REST API
 
 Earlier, the client without any scope have access to all APIs unless the API is protected by REST API Auth Scope or the client has `useraccount` scope.
 
-After creating REST API Auth Scope record, to access this REST API you must associate the same Auth Scope to the [[oauth-inbound-and-outbound|OAuth]] Entity which should have access to this REST API. For a new OAuth Entity, the default Auth Scope is empty.
+After creating REST API Auth Scope record, to access this REST API you must associate the same Auth Scope to the OAuth Entity which should have access to this REST API. For a new OAuth Entity, the default Auth Scope is empty.
 
 **Note:** Unless you have REST API Auth Scope record, the REST API can be accessed by any valid OAuth Entities.
 
@@ -44,6 +44,3 @@ To configure the REST API Scope, perform the following tasks:
 -   Perform OAuth flow to get OAuth access token
 -   Use the OAuth access token to make the API call
 
-## Related
-
-- [[oauth-inbound-and-outbound|OAuth]]

@@ -12,7 +12,7 @@ breadcrumb: [View a quiz designer scorecard, View a quiz result, Quiz designer, 
 
 # View an assessment category result
 
-[[r_CategoryResults|Category results]] contain values that represent an evaluated record's performance in a specific metric category. Each category result record stores data from one assessment group. Category result values are calculated based on category and metric weights and from metric result values for the same category.
+Category results contain values that represent an evaluated record's performance in a specific metric category. Each category result record stores data from one assessment group. Category result values are calculated based on category and metric weights and from metric result values for the same category.
 
 ## Before you begin
 
@@ -24,9 +24,9 @@ Role required: assessment\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[r_Assessments|Assessments]]** &gt; **Results** &gt; **Category Results**.
+1.  Navigate to **All** &gt; **Assessments** &gt; **Results** &gt; **Category Results**.
 
-2.  Click the [[reference|reference]] icon next to an assessment group number to open the category result record.
+2.  Click the reference icon next to an assessment group number to open the category result record.
 
 3.  View the Assessment Category Result form.
 
@@ -54,8 +54,8 @@ Rating
 
 </td><td>
 
-Rating is used on scorecards and [[r_AdministerDecisionMatrixes|decision matrixes]]. Rating is updated dynamically as users complete assessments. Rating is calculated as:```
-(Sum of all normalized values that share a particular assessment group, category, and assessable record) / (Number of [[c_AssessmentInstances|assessment instances]] for the assessment group)
+Rating is used on scorecards and decision matrixes. Rating is updated dynamically as users complete assessments. Rating is calculated as:```
+(Sum of all normalized values that share a particular assessment group, category, and assessable record) / (Number of assessment instances for the assessment group)
 ```
 
  For example: In the Assessment Category Results table example, the assessment group **ASG0000801** with category **Politeness** from group **NY DB** \(the assessable record\) has a **Rating** value **8.86**.
@@ -116,24 +116,14 @@ Record evaluated as the assessment subject. You may need to configure the form t
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[[t_ViewAQuizDesignerScorecard|View a quiz designer scorecard]]
+**Parent Topic:**[View a quiz designer scorecard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAQuizDesignerScorecard.md)
 
 **Related topics**  
 
 
-[[r_AssessmentResults|Assessment results]]
+[Assessment results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_AssessmentResults.md)
 
 [Configuring the form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md)
 
-[[t_ViewAMetricResult|View a metric result]]
+[View a metric result](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAMetricResult.md)
 
-## Related
-
-- [[t_ViewAQuizDesignerScorecard|View a quiz designer scorecard]]
-- [[r_AssessmentResults|Assessment results]]
-- [[t_ViewAMetricResult|View a metric result]]
-- [[r_CategoryResults|Category results]]
-- [[r_Assessments|Assessments]]
-- [[reference|Reference]]
-- [[r_AdministerDecisionMatrixes|Decision matrixes]]
-- [[c_AssessmentInstances|Assessment instances]]

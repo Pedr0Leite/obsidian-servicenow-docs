@@ -44,7 +44,7 @@ Application Manager provides admins the ability to install, update, and manage l
 
 </td></tr><tr><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Find information about Application Manager status indicators.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/app-mgr-[[reference-email-admin|reference]].md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Find information about Application Manager status indicators.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/app-mgr-reference.md)
 
 </td><td>
 
@@ -57,6 +57,3 @@ Application Manager provides admins the ability to install, update, and manage l
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[reference-email-admin|Reference]]

@@ -32,7 +32,7 @@ Role required:
 
 2.  Select **Authorization packages** from the **RMF** list.
 
-3.  From the [[list-view-uib-ws|list view]], select the authorization package record for which you want to generate a POA&amp;M file.
+3.  From the list view, select the authorization package record for which you want to generate a POA&amp;M file.
 
     **Note:** The authorization package must be in the Implement, Assess, Authorize, or Monitor state to generate OSCAL POA&amp;M.
 
@@ -66,6 +66,3 @@ Role required:
 
 **Parent Topic:**[Export in OSCAL format](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/oscal-support-cam.md)
 
-## Related
-
-- [[list-view-uib-ws|List view]]

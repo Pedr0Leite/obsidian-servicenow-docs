@@ -12,7 +12,7 @@ breadcrumb: [Set up your environment, Configure, Customer Service Management]
 
 # Product data
 
-Configure product data for [[c_CustomerServiceManagement|Customer Service Management]] including [[product-models|product models]], [[sold-product|sold products]], [[install-base-item|install base items]], and [[installed-products|installed products]].
+Configure product data for Customer Service Management including product models, sold products, install base items, and installed products.
 
 <table id="table_hh2_f55_41c"><thead><tr><th>
 
@@ -24,7 +24,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[configure-csm-products|Configure product data]]
+[Configure product data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-csm-products.md)
 
 </td><td>
 
@@ -35,7 +35,7 @@ Configure the product data for your company, including:-   Product models: Goods
 
 </td></tr><tr><td>
 
-[[configure-csm-assets|Configure assets]]
+[Configure assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-csm-assets.md)
 
 </td><td>
 
@@ -43,7 +43,7 @@ An asset is a specific product or instance that is supported for an account or c
 
 </td></tr><tr><td>
 
-[[c_AssetContactRelationships|Create asset contact relationships]]
+[Create asset contact relationships](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_AssetContactRelationships.md)
 
 </td><td>
 
@@ -51,7 +51,7 @@ Assign an asset to a customer contact who is responsible for managing that asset
 
 </td></tr><tr><td>
 
-[[create-csm-service-contracts|Create service contracts]]
+[Create service contracts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-csm-service-contracts.md)
 
 </td><td>
 
@@ -59,7 +59,7 @@ Service contracts define the type of support that accounts and consumers receive
 
 </td></tr><tr><td>
 
-[[configure-csm-entitlements|Configure entitlements]]
+[Configure entitlements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-csm-entitlements.md)
 
 </td><td>
 
@@ -67,7 +67,7 @@ Entitlements define the type of support that an account or consumer receives as 
 
 </td></tr><tr><td>
 
-[[configuring-post-sales-support|Configure Customer Contracts and Entitlements]]
+[Configure Customer Contracts and Entitlements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configuring-post-sales-support.md)
 
 </td><td>
 
@@ -75,7 +75,7 @@ Use the Post-Sales Support application to configure and display customer service
 
 </td></tr><tr><td>
 
-Use [[customer-life-cycle-management-workflows|Customer Life Cycle Management Workflows]] to manage the life cycle of your sold products
+Use [Customer Life Cycle Management Workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-life-cycle-management-workflows.md) to manage the life cycle of your sold products
 
 </td><td>
 
@@ -91,18 +91,3 @@ Use these workflows to analyze business opportunities and customer leads as well
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[configure-csm-products|Configure product data]]
-- [[configure-csm-assets|Configure assets]]
-- [[c_AssetContactRelationships|Create asset contact relationships]]
-- [[create-csm-service-contracts|Create service contracts]]
-- [[configure-csm-entitlements|Configure entitlements]]
-- [[configuring-post-sales-support|Configure Customer Contracts and Entitlements]]
-- [[customer-life-cycle-management-workflows|Customer Life Cycle Management Workflows]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[product-models|Product models]]
-- [[sold-product|Sold products]]
-- [[install-base-item|Install base items]]
-- [[installed-products|Installed products]]

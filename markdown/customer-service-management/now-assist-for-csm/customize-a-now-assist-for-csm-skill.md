@@ -14,7 +14,7 @@ breadcrumb: [Configure, Now Assist for CSM, Customer Service Management]
 
 # Customize a case summarization skill in Now Assist for Customer Service Management \(CSM\)
 
-If you have the admin role, you can customize a [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]] skill so that agents can use the generative AI skills in [[csm-workspaces-configure|CSM Configurable Workspace]] and in Core UI.
+If you have the admin role, you can customize a Now Assist for Customer Service Management \(CSM\) skill so that agents can use the generative AI skills in CSM Configurable Workspace and in Core UI.
 
 ## Before you begin
 
@@ -56,7 +56,7 @@ From the Now Assist Admin console, you can select the input table, related recor
 
     2.  Select **Save and continue** to go to the next step.
 
-5.  View the input data for each skill, such as the base input fields and related [[migration-lists|lists]] for the different input templates \(Case new, Case work in progress, or Case resolved states\).
+5.  View the input data for each skill, such as the base input fields and related lists for the different input templates \(Case new, Case work in progress, or Case resolved states\).
 
     You can change the base input table and add case extension tables for the copied skill. To create an extended table, select **New** on the Tables list page, and select the table to extend from the **Extends table** search field. This option is only available when you’re creating a table, because it incorporates all of the fields of the original table and creates system fields for the new table.
 
@@ -117,7 +117,7 @@ Description of the base input field value.
         |Work in progress|State is Work in Progress.|
         |Resolved|State is Resolved.|
 
-    3.  For each input template state \(New, Work in progress, or Resolved\), select **+New data source** to configure the additional related table and [[csm-config-ws-activity-stream|activity stream]] data, as needed.
+    3.  For each input template state \(New, Work in progress, or Resolved\), select **+New data source** to configure the additional related table and activity stream data, as needed.
 
         Adding input data sources, like the related tables and activity streams, provide more context to the Now LLM Service in a related list.
 
@@ -165,7 +165,7 @@ Description of the base input field value.
 
     1.  Select either **In-product** or **Now Assist panel**.
 
-        -   **In-product**: When selected, the Now Assist skills are displayed on the [[migration-forms|forms]] and workspaces.
+        -   **In-product**: When selected, the Now Assist skills are displayed on the forms and workspaces.
 
             For the skills that appear in-product, select the down arrow to identify the roles that can use the skill.
 
@@ -183,10 +183,4 @@ Description of the base input field value.
 
     You can now select **Summarize** in a case to generate the case summary.
 
-## Related
 
-- [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[migration-lists|Lists]]
-- [[csm-config-ws-activity-stream|Activity stream]]
-- [[migration-forms|Forms]]

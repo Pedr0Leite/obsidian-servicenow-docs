@@ -12,7 +12,7 @@ breadcrumb: [Configure quote PDF documents, Configuring Quote Management, Config
 
 # Set up PDF document signers
 
-Sales operations specialists can set up signers in [[quote-management|Quote Management]] so that PDF quotes can be sent to either internal and external signers for review and signatures.
+Sales operations specialists can set up signers in Quote Management so that PDF quotes can be sent to either internal and external signers for review and signatures.
 
 ## Before you begin
 
@@ -42,6 +42,4 @@ To assign roles for internal users, see .
 
     When the quote is created and the account selected, the contacts in the account are available as signers for the PDF documents. The email associated with the contact is used to send the PDF document.
 
-## Related
 
-- [[quote-management|Quote Management]]

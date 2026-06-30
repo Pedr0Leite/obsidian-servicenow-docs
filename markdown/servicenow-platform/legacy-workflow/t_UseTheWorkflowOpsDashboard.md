@@ -47,7 +47,7 @@ On the Workflow Operations Dashboard, you can click widget elements to view the 
 
 ## What to do next
 
-If a workflow consistently appears as an outlier and there is no error causing the run time values, you can use its historical run time values to calculate a new estimated run time value. Then update the estimated run time in the [[r_WorkflowProperties|workflow properties]].
+If a workflow consistently appears as an outlier and there is no error causing the run time values, you can use its historical run time values to calculate a new estimated run time value. Then update the estimated run time in the workflow properties.
 
 ## Workflow gauges
 
@@ -80,6 +80,3 @@ For more information, see:
 |Aged Workflow Contexts \(Running Since Last Month\)|Displays the total number of workflow contexts running for a given period of time by workflow name. By default, it displays the total number of workflow contexts running over the last month.|
 |Workflows Run Between Yesterday and Today \(by Table\)|Displays workflows that have run in the last day grouped by table name.|
 
-## Related
-
-- [[r_WorkflowProperties|Workflow properties]]

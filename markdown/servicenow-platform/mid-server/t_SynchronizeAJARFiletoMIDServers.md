@@ -25,7 +25,7 @@ Role required: admin, agent\_admin
 ![Setup indicator for configuration phase](../image/ProgressBarConfig.png)
 
 </td></tr></tbody>
-</table>The [[mid-server-landing|MID Server]] JAR File \[ecc\_agent\_jar\] table is domain separated. You can create versions of these policies that only a MID Server from the same domain can use. For instructions, see [Set up domain separation for MID servers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/c_MIDServerDomainSeparation.md).
+</table>The MID Server JAR File \[ecc\_agent\_jar\] table is domain separated. You can create versions of these policies that only a MID Server from the same domain can use. For instructions, see [Set up domain separation for MID servers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/c_MIDServerDomainSeparation.md).
 
 **Warning:** Synchronizing a JAR file with this procedure causes all MID Servers connected to the instance to restart automatically.
 
@@ -39,7 +39,7 @@ Role required: admin, agent\_admin
 
     -   **Name:**A unique and descriptive name for identifying the file in the instance.
     -   **Version:** A version number for the file, if one is available.
-    -   **Source:** Location of the JAR file for [[reference|reference]] purposes. Source information is not used by the system.
+    -   **Source:** Location of the JAR file for reference purposes. Source information is not used by the system.
     -   **Description:** Short description of the JAR file and its purpose in the instance.
 4.  Click the paper clip icon in the banner.
 
@@ -52,7 +52,3 @@ Role required: admin, agent\_admin
 
 **Parent Topic:**[Configuring MID Servers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/c_MIDServerConfiguration.md)
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[reference|Reference]]

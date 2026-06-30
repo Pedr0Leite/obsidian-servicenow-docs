@@ -14,7 +14,7 @@ breadcrumb: [Create a configuration settings rule, ACC deployment - endpoints, C
 
 # Synchronize configuration settings rules
 
-[[operational-metrics|Metric Intelligence]] configuration settings rules contain user specified values that override default values that currently exist on Metric Intelligence MID Servers. To take effect, the Metric Intelligence MID Servers must be synchronized with the updated set of configuration settings rules.
+Metric Intelligence configuration settings rules contain user specified values that override default values that currently exist on Metric Intelligence MID Servers. To take effect, the Metric Intelligence MID Servers must be synchronized with the updated set of configuration settings rules.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: evt\_mgmt\_admin
 
 ## About this task
 
-You can manually initiate a synchronization to immediately apply the updates on all Metric Intelligence MID Servers. Or, you can rely on a system job, that runs on an hourly recurring schedule, checking for updates to the [[metric-configuration-rule|metric configuration rules]]. If it is determined that there are updates, the system job sends these updates to the Metric Intelligence MID Servers.
+You can manually initiate a synchronization to immediately apply the updates on all Metric Intelligence MID Servers. Or, you can rely on a system job, that runs on an hourly recurring schedule, checking for updates to the metric configuration rules. If it is determined that there are updates, the system job sends these updates to the Metric Intelligence MID Servers.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]] Rules** &gt; **Anomaly Detection** &gt; **Metric Config Rules**.
+1.  Navigate to **All** &gt; **Event Management Rules** &gt; **Anomaly Detection** &gt; **Metric Config Rules**.
 
 2.  On the Metric Configuration Rules pane, click **Sync to MID**.
 
@@ -41,8 +41,3 @@ Verify that all Metric Intelligence MID Servers have been synchronized with the 
 
 **Parent Topic:**[Create a configuration settings rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/create-config-overriding-rule.md)
 
-## Related
-
-- [[operational-metrics|Metric Intelligence]]
-- [[metric-configuration-rule|Metric Configuration Rules]]
-- [[c_EM|Event Management]]

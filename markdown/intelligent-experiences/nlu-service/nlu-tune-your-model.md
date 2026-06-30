@@ -20,15 +20,11 @@ On your model's overview in NLU Workbench, open the **Tune your model** phase to
 
 ## Summary usage
 
-The **Tune your model** phase on your model's overview takes you to the [[nlu-expert-feedback-loop|NLU Expert Feedback Loop]] feature, which collects data from Virtual Agent chat logs and provides it to you for feedback.
+The **Tune your model** phase on your model's overview takes you to the NLU Expert Feedback Loop feature, which collects data from Virtual Agent chat logs and provides it to you for feedback.
 
-**Note:** The ServiceNow® Store application [[nlu-workbench-advanced-features|NLU Workbench - Advanced Features]] must be installed to view **Tune your model**. The Virtual Agent plugin is also required.
+**Note:** The ServiceNow® Store application NLU Workbench - Advanced Features must be installed to view **Tune your model**. The Virtual Agent plugin is also required.
 
 When the Expert Feedback Loop has feedback waiting for your review, **You have utterances that need feedback** is highlighted on the card.
 
 For more information, see [NLU Expert Feedback Loop](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/nlu-expert-feedback-loop.md)
 
-## Related
-
-- [[nlu-expert-feedback-loop|NLU Expert Feedback Loop]]
-- [[nlu-workbench-advanced-features|NLU Workbench - Advanced Features]]

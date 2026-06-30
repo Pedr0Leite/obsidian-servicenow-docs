@@ -12,7 +12,7 @@ breadcrumb: [Impact Value Management Data Collection Content Pack for App Engine
 
 # Review App Engine artifacts
 
-The Data Collection app contains a pre-build data metric structure for the ServiceNow Performance/Platform [[io-analytics|Analytics]] application.
+The Data Collection app contains a pre-build data metric structure for the ServiceNow Performance/Platform Analytics application.
 
 |Artifact type|Description|
 |-------------|-----------|
@@ -44,6 +44,3 @@ The app contains the following artifacts for each of the above-specified artifac
 |Manual|Impact VM - Avg. time for application delivery \(LOB\): idea to prod \(Weeks\)|
 |Manual|Impact VM - Former LCAP systems run-rate|
 
-## Related
-
-- [[io-analytics|Analytics]]

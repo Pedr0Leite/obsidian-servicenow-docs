@@ -16,9 +16,9 @@ The CSM centered chat interaction record page provides a chat component in the c
 
 \[Omitted image "centered-chat-interaction-record-page.png"\] Alt text: Centered chat interaction record page with customer history, chat, and contextual side panel components
 
-To use the CSM centered chat interaction record page in [[csm-workspaces-configure|CSM Configurable Workspace]], enable the page and set the **Order** value. For more information, see [[config-csm-ws-set-record-page-order|Set record page order]].
+To use the CSM centered chat interaction record page in CSM Configurable Workspace, enable the page and set the **Order** value. For more information, see [Set record page order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-csm-ws-set-record-page-order.md).
 
-**Note:** The [[csm-interaction-record-page|CSM Interaction record page]] is the default experience for chat interaction. This page includes the chat component in the left panel.
+**Note:** The [CSM Interaction record page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-interaction-record-page.md) is the default experience for chat interaction. This page includes the chat component in the left panel.
 
 ## Page structure
 
@@ -40,10 +40,10 @@ Left panel
 
 The left panel includes two tabs: Customer and Interaction.The **Customer** tab includes the contact or consumer lookup component as well as customer history.
 
--   Contact or consumer [[csm-record-page-lookup-component|lookup component]]:
+-   Contact or consumer [lookup component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-record-page-lookup-component.md):
     -   Includes the contact or consumer lookup card which agents can use to search for, select, and verify a customer.
     -   When a customer has been selected and linked to an interaction, a card with customer information is displayed at the top of the Customer tab.
--   Customer history: Includes the [[csm-native-voice-record-page|Customer History component]], which displays customer, consumer, or account history information, depending on the customer information provided on the interaction record.
+-   Customer history: Includes the [Customer History component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-native-voice-record-page.md), which displays customer, consumer, or account history information, depending on the customer information provided on the interaction record.
 
 The **Interaction** tab includes the Interaction record form fields.
 
@@ -76,7 +76,7 @@ The CSM centered chat interaction page template and page variant are included wi
 
 The CSM centered chat interaction record template brings the chat component to the center of the workspace and give agents greater visibility and access to customer chat conversations. This page view enables agents to manage chats and displays information, such as customer history and interaction details, that help agents to resolve issues.
 
-Use the CSM centered chat interaction record template to create chat interaction record page variants and customize them as needed. For more information, see [[config-csm-ws-create-page-variant|Creating pages and page variants]].
+Use the CSM centered chat interaction record template to create chat interaction record page variants and customize them as needed. For more information, see [Creating pages and page variants](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-csm-ws-create-page-variant.md).
 
 ## CSM centered chat interaction page variant
 
@@ -223,16 +223,16 @@ The contextual side panel component includes different tools that agents can use
 
 </td></tr><tr><td>
 
-[[csm-front-line-case-page-modeless-dialogs|Thin compose modeless dialogs]]
+[Thin compose modeless dialogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-front-line-case-page-modeless-dialogs.md)
 
 </td><td>
 
-Thin compose modeless dialogs enable agents to initiate a work note or email in the [[csm-config-ws-activity-stream|activity stream]] and then open the text in a modeless dialog.**Note:** For the CSM centered chat interaction record page, the thin compose modeless dialogs feature is hidden by default and can be enabled by the admin.
+Thin compose modeless dialogs enable agents to initiate a work note or email in the activity stream and then open the text in a modeless dialog.**Note:** For the CSM centered chat interaction record page, the thin compose modeless dialogs feature is hidden by default and can be enabled by the admin.
 
 </td></tr></tbody>
 </table>## Customer History component
 
-The Customer History component appears below the Interaction Controls Component in the left panel. This component is included with the [[customer-central|Customer Central]] plugin, which is activated as part of the CSM Configurable Workspace application.
+The Customer History component appears below the Interaction Controls Component in the left panel. This component is included with the [Customer Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-central.md) plugin, which is activated as part of the CSM Configurable Workspace application.
 
 The Customer History component includes the **Customer** tab. This tab displays customer, consumer, or account history information, depending on the customer information provided on the interaction record. This tab also includes a search field, filter, and date range selector that agents can use to find specific information in the history.
 
@@ -289,7 +289,7 @@ The action bar component contains the actions available to users while working o
 
 **Note:** The specific actions available are determined by factors such as the user role and other attributes.
 
-The CSM centered chat interaction record page supports actions from the following [[c_CustomerServiceManagement|Customer Service Management]] and CSM Configurable Workspace plugins:
+The CSM centered chat interaction record page supports actions from the following Customer Service Management and CSM Configurable Workspace plugins:
 
 -   Customer Service \(com.sn\_customerservice\)
 -   CSM/FSM Configurable WS Foundation \(com.snc.uib.cwf\_workspace\)
@@ -301,7 +301,7 @@ The CSM centered chat interaction record page supports actions from the followin
 -   Time Recording for Customer Service \(com.snc.csm\_time\_recording\)
 -   Omni-Experience Standard Feature Set
 
-If you are using any additional plugins, you must add the actions from those plugins to the CSM centered chat interaction record page action bar. For more information, see the configuration steps in this topic: [[config-front-line-case-page-action-bar|Configure the Front-line case page action bar]].
+If you are using any additional plugins, you must add the actions from those plugins to the CSM centered chat interaction record page action bar. For more information, see the configuration steps in this topic: [Configure the Front-line case page action bar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-front-line-case-page-action-bar.md).
 
 ## Contextual side panel component
 
@@ -323,21 +323,21 @@ Recommended Actions
 
 The Recommended Actions tab is now available as the first tab in the contextual side panel and is enabled for Pro customers. It includes a set of base system recommendations, such as similar incidents and similar open incidents.
 
-The Recommended Actions tab includes [[ra-csm-ai-search|AI search]] functionality and Suggested Actions.-   **AI search** tab: Agents can use AI search to find relevant resources or resolutions for customer issues. The search feature displays an initial set of search results based on the text in the interaction short description. This initial set of results includes knowledge articles. Agents can also enter different search keywords and repeat the search. From the list of search results, agents can select a source to see search results of that type. For more information, see [Search sources and guidance actions on the CSM Interaction page for chat channel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-centered-chat-interaction-page.md).
+The Recommended Actions tab includes [AI search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-ai-search.md) functionality and Suggested Actions.-   **AI search** tab: Agents can use AI search to find relevant resources or resolutions for customer issues. The search feature displays an initial set of search results based on the text in the interaction short description. This initial set of results includes knowledge articles. Agents can also enter different search keywords and repeat the search. From the list of search results, agents can select a source to see search results of that type. For more information, see [Search sources and guidance actions on the CSM Interaction page for chat channel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-centered-chat-interaction-page.md).
 
-For all the other source types, the default guidance is supported. The default guidance for search results is a guidance that can be used for any search sources that don't have mapped guidances. For more information on default guidance, see [[ra-csm-guidances-default-guidance-search|Default guidance for search results]].
+For all the other source types, the default guidance is supported. The default guidance for search results is a guidance that can be used for any search sources that don't have mapped guidances. For more information on default guidance, see [Default guidance for search results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-guidances-default-guidance-search.md).
 
 For more information, see the following topics:
 
-    -   [[migrate-ra-agent-assist|Enable AI search in Recommended Actions]]
-    -   [[nba-use-ai-search|Use AI search in Recommended Actions to resolve cases]]
-**Note:** Using Recommended Actions in the contextual side panel requires the [[nba|Recommended Actions]] application \(sn\_cs\_nb\_action\) which is included with the CSM Configurable Workspace application.
+    -   [Enable AI search in Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/migrate-ra-agent-assist.md)
+    -   [Use AI search in Recommended Actions to resolve cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/nba-use-ai-search.md)
+**Note:** Using Recommended Actions in the contextual side panel requires the [Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/nba.md) application \(sn\_cs\_nb\_action\) which is included with the CSM Configurable Workspace application.
 
--   **Suggested Actions** tab: This tab displays relevant actions to agents based on a context of a record or recommend a value for a field. For more information on how to configure contexts so that relevant recommendations are displayed for the agents, see [[configure-nba|Recommended Actions]].
+-   **Suggested Actions** tab: This tab displays relevant actions to agents based on a context of a record or recommend a value for a field. For more information on how to configure contexts so that relevant recommendations are displayed for the agents, see [Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-nba.md).
 
 </td></tr><tr><td>
 
-Related [[migration-lists|Lists]]
+Related Lists
 
 </td><td>
 
@@ -373,7 +373,7 @@ Collaborate
 
 </td><td>
 
-The Collaborate component enables agents to communicate with stakeholders and other users and gather information for case resolution. For more information, see [[csm-config-ws-collaborate-component|Collaborate component]].
+The Collaborate component enables agents to communicate with stakeholders and other users and gather information for case resolution. For more information, see [Collaborate component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-config-ws-collaborate-component.md).
 
 </td></tr></tbody>
 </table>The following table shows the actions that an agent can perform on the search results of various source types:
@@ -436,25 +436,3 @@ Requests
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[config-csm-ws-set-record-page-order|Set record page order]]
-- [[csm-interaction-record-page|CSM Interaction record page]]
-- [[csm-record-page-lookup-component|Lookup component]]
-- [[csm-native-voice-record-page|CSM voice interaction record page]]
-- [[config-csm-ws-create-page-variant|Creating pages and page variants]]
-- [[csm-front-line-case-page-modeless-dialogs|Modeless dialogs]]
-- [[customer-central|Customer Central]]
-- [[config-front-line-case-page-action-bar|Configure the Front-line case page action bar]]
-- [[ra-csm-ai-search|AI search in Recommended Actions]]
-- [[ra-csm-guidances-default-guidance-search|Default guidance for search results]]
-- [[migrate-ra-agent-assist|Enable AI search in Recommended Actions]]
-- [[nba-use-ai-search|Use AI search in Recommended Actions to resolve cases]]
-- [[nba|Configuring Recommended Actions]]
-- [[configure-nba|Recommended Actions]]
-- [[csm-config-ws-collaborate-component|Collaborate component]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[csm-config-ws-activity-stream|Activity stream]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[migration-lists|Lists]]

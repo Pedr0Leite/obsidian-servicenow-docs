@@ -25,7 +25,7 @@ Role required: sn\_ext\_conn.xcc\_admin
 
 ## Procedure
 
-1.  Use the application picker to switch to the [[ext-cont-connectors-landing-page|External Content Connectors]] Admin application scope.
+1.  Use the application picker to switch to the External Content Connectors Admin application scope.
 
 2.  Navigate to **All** &gt; **External Content Connectors** &gt; **External Content Admin Home**.
 
@@ -46,6 +46,3 @@ Role required: sn\_ext\_conn.xcc\_admin
 
 **Parent Topic:**[Configuring External Content Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/configuring-ext-cont-connectors.md)
 
-## Related
-
-- [[ext-cont-connectors-landing-page|External Content Connectors]]

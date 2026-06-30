@@ -14,11 +14,11 @@ breadcrumb: [Use Data Foundations advisor, CMDB success advisor, Configuration M
 
 # Analyzing data integrations for improving Data Foundations
 
-Improve Data Foundations coverage by analyzing existing and suggested data integrations, including Discovery patterns and [[cmdb-sgc-available|Service Graph Connectors]].
+Improve Data Foundations coverage by analyzing existing and suggested data integrations, including Discovery patterns and Service Graph Connectors.
 
-Use the **Data integrations** tab in the [[cmdb-sa|CMDB success advisor]] for Data Foundations to assess the effectiveness of your current data integration sources in the [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]] and identify opportunities to improve coverage across your principal classes. The **Data integrations** tab provides a breakdown of active Discovery patterns and installed Service Graph Connectors, including how many key configuration item \(CI\) attributes each integration source is populating.
+Use the **Data integrations** tab in the CMDB success advisor for Data Foundations to assess the effectiveness of your current data integration sources in the Configuration Management Database \(CMDB\) and identify opportunities to improve coverage across your principal classes. The **Data integrations** tab provides a breakdown of active Discovery patterns and installed Service Graph Connectors, including how many key configuration item \(CI\) attributes each integration source is populating.
 
-For a quick [[reference|reference]] to improve Data Foundations coverage, see [Data integration checklist for Data Foundations in CMDB success advisor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sa-df-integ-checklist.md).
+For a quick reference to improve Data Foundations coverage, see [Data integration checklist for Data Foundations in CMDB success advisor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sa-df-integ-checklist.md).
 
 ## Access data integrations
 
@@ -31,7 +31,7 @@ Navigate to the CMDB success advisor landing page, and on the Data Foundations c
 |Role|Description|
 |----|-----------|
 |sn\_cmdb\_admin|Required to access the CMDB success advisor.|
-|cmdb\_inst\_admin|Required to manage Service Graph Connector connections in [[sgcc-landing|SGC Central]].|
+|cmdb\_inst\_admin|Required to manage Service Graph Connector connections in SGC Central.|
 
 ## Use cases
 
@@ -68,10 +68,3 @@ CMDB administrator
 |Access integration details|Configure integrations to improve attribute coverage. For more information, see [Evaluate Data Foundations data integration coverage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sa-df-evaluate-data-integration.md).|
 |Suggested integrations|Displays integrations that are recommended but not yet installed, based on the selected advisor scope. For more information, see [View suggested integrations for the Data Foundations advisor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sa-df-sugg-integ.md).|
 
-## Related
-
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[cmdb-sa|CMDB success advisor]]
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[reference|Reference]]
-- [[sgcc-landing|SGC Central]]

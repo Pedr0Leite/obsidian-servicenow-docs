@@ -14,7 +14,7 @@ breadcrumb: [Setting up and configuring Universal Request, Universal Request, Em
 
 # Universal Request plugins
 
-Request and activate the following plugins to use [[ur-landing-limitedaccess|Universal Request]] in your application.
+Request and activate the following plugins to use Universal Request in your application.
 
 -   **[Activate Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/activate-ur-plugin.md)**  
 You can activate the Universal Request plugin \(com.snc.universal\_request\) if you have the admin role. This plugin is not active by default, and you must install it to use the Universal Request application. This plugin includes demo data and activates related plugins if they are not already active.
@@ -29,15 +29,9 @@ You can activate the Universal Request: Reporting plugin \(com.snc.universal\_re
 -   **[Activate Universal Request Virtual Agent Conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/activate-ur-va-conversation.md)**  
 You can activate the Universal Request: Virtual Agent Conversations plugin \(com.snc.universal\_request.va\) if you have the admin role. Activate this plugin to set up and use Virtual Agent in Universal Request. This plugin includes demo data and activates related plugins if they are not already active.
 -   **[Activate Predictive Intelligence for Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/activate-predictive-intelli-ur.md)**  
-You can activate the [[predictive-intelligence-ur|Predictive Intelligence for Universal Request]] plugin \(com.snc.universal\_request.ml\) to use machine-[[exploring-learning-exp|learning]] solutions in the Universal Request application, if you have the admin role.
+You can activate the Predictive Intelligence for Universal Request plugin \(com.snc.universal\_request.ml\) to use machine-learning solutions in the Universal Request application, if you have the admin role.
 -   **[Activate Performance Analytics and Reporting for Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/activate-pa-reporting-ur.md)**  
-You can activate the Performance [[eslate-analytics-reporting|Analytics and Reporting]] for Universal Request plugin \(com.snc.universal\_request.pa\) for Universal Request if you have the admin role.
+You can activate the Performance Analytics and Reporting for Universal Request plugin \(com.snc.universal\_request.pa\) for Universal Request if you have the admin role.
 
 **Parent Topic:**[Setting up and configuring Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/setup-configure-ur.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[predictive-intelligence-ur|Predictive Intelligence for Universal Request]]
-- [[exploring-learning-exp|Learning]]
-- [[eslate-analytics-reporting|Analytics and reporting]]

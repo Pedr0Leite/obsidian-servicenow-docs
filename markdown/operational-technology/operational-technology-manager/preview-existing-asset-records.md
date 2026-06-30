@@ -14,7 +14,7 @@ breadcrumb: [Validate imported staging records, Using the Service Graph Connecto
 
 # Preview existing OT records in the CMDB
 
-Preview existing [[operational-technology-overview|Operational Technology]] \(OT\) device records in the Configuration Management Database \(CMDB\) before you import any new records from the staging table. By previewing existing records, you can avoid reconciling or merging unrelated records.
+Preview existing Operational Technology \(OT\) device records in the Configuration Management Database \(CMDB\) before you import any new records from the staging table. By previewing existing records, you can avoid reconciling or merging unrelated records.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ If a matching configuration item \(CI\) is in the CMDB when you import OT device
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]]**.
+1.  Navigate to **All** &gt; **Industrial Workspace**.
 
 2.  Select the **List** \(\[Omitted image "icon-list.png"\] Alt text: List icon\) icon.
 
@@ -49,7 +49,3 @@ If a matching configuration item \(CI\) is in the CMDB when you import OT device
 
 **Parent Topic:**[Validate imported staging records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/run-validations.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

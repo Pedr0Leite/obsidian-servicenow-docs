@@ -12,7 +12,7 @@ breadcrumb: [Security Posture Control, Security Operations]
 
 # Using the Security Posture Control workspace
 
-The [[spc-landing|Security Posture Control]] workspace contains the modules you use for configuring, using, and monitoring the imported data about your assets.
+The Security Posture Control workspace contains the modules you use for configuring, using, and monitoring the imported data about your assets.
 
 ## Roles
 
@@ -32,8 +32,8 @@ The [[spc-landing|Security Posture Control]] workspace contains the modules you 
 
     The following roles are required by the applications that support SPC and Asset Security Posture Management.
 
-    -   [[vr-config-compliance-landing|Configuration Compliance]] Admin \[sn\_vulc.admin\] - Configures the Configuration Compliance application, has visibility to all records, and can modify properties. Assigns roles in the Configuration Compliance application.
-    -   [[vuln-landing-page|Vulnerability Response]] Admin \[sn\_vulc.admin\] - Configures the Vulnerability Response application and the vulnerability risk calculators.
+    -   Configuration Compliance Admin \[sn\_vulc.admin\] - Configures the Configuration Compliance application, has visibility to all records, and can modify properties. Assigns roles in the Configuration Compliance application.
+    -   Vulnerability Response Admin \[sn\_vulc.admin\] - Configures the Vulnerability Response application and the vulnerability risk calculators.
     -   MID Server \[mid\_server\] - Configures a MID Server.
 
 ## The modules of the workspace
@@ -58,7 +58,7 @@ View data visualizations and other information in the Overview, Key insights, an
 
  The information provided on this page permits you to report on the status of your overall security posture to IT, IT and security managers, and other key stakeholders.
 
- See [[spc-custom-insight-overview|Key insights and configured insights for Security Posture Control]] and [[spc-policies-overview|Policies for Security Posture Control]].
+ See [Key insights and configured insights for Security Posture Control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-custom-insight-overview.md) and [Policies for Security Posture Control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-policies-overview.md).
 
 </td></tr><tr><td>
 
@@ -80,7 +80,7 @@ Quickly search for assets in your environment based on conditions you set.
 
 Verify that you can locate assets with a set of conditions before you commit those conditions to a policy. You can refine these searches so you get a preview of assets that meet your search criteria. When you are ready, you can save your conditions as a policy.
 
- See [[spc-asset-search|Create an asset search in Security Posture Control]].
+ See [Create an asset search in Security Posture Control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-asset-search.md).
 
 </td></tr><tr><td>
 
@@ -90,7 +90,7 @@ Asset profiles
 
 Create and define asset profiles to monitor different categories of devices with your SPC policies. Incorporate your asset profiles into your policies so you can run policies for specific types of assets. Filter the insights in the Configured Insights dashboard so they are based on your asset profiles.
 
-See [[asset-profile|Create an asset profile in Security Posture Control]].
+See [Create an asset profile in Security Posture Control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/asset-profile.md).
 
 </td></tr><tr><td>
 
@@ -102,7 +102,7 @@ Create, clone, edit, and activate policies. There are policies that are included
 
 Policies audit your assets to find matches for potential violations. Insights, visualizations, and use cases depend on policies. See [Policies for Security Posture Control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-policies-overview.md).
 
-Assets that match policy conditions are reported as Findings and are mapped to the Configuration Compliance application for remediation. See [[spc-view-findings|Security Posture Control: Configuring and viewing your findings]].
+Assets that match policy conditions are reported as Findings and are mapped to the Configuration Compliance application for remediation. See [Security Posture Control: Configuring and viewing your findings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-view-findings.md).
 
 </td></tr><tr><td>
 
@@ -114,7 +114,7 @@ Activate and view the status of installed service graph connectors \(SGC\)s and 
 
  Set up and monitor key use cases. Use cases are different scenarios that you configure to help you identify specific types of tool coverage gaps. Each use case requires a policy or policies to audit your assets for potential violations.
 
- See [[spc-policies|Use cases, policy examples, and supported service graph connectors in Security Posture Control]].
+ See [Use cases, policy examples, and supported service graph connectors in Security Posture Control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-policies.md).
 
 </td></tr><tr><td>
 
@@ -126,18 +126,18 @@ Create your own data visualizations. Custom insights provide you with visual rep
 
  Once you activate them, your custom insights are displayed on the dashboard in the Configured insights module. You can determine where data for an insight is displayed on the dashboard by using Groups.
 
- See [[spc-create-custom-insight|Create and activate a configured insight for Security Posture Control]].
+ See [Create and activate a configured insight for Security Posture Control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-create-custom-insight.md).
 
 </td></tr></tbody>
 </table>## Using the modules of the workspace to identify gaps in tool coverage
 
 Identifying security tool gaps requires you to perform the following steps.
 
-1.  Set up and activate API connections with any of the [[tools|tools]] that you are using in various categories. You can use Service Graph Connectors for products that are available from the ServiceNow Store for the API connections that are required. For more information about the supported service graph connectors, see [[spc-use-connectors-policies|Service Graph Connectors for Security Posture Control]] and [Service Graph Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-sgc-available.md). Supported service graph connectors are available from the ServiceNow® Store with separate subscriptions.
+1.  Set up and activate API connections with any of the tools that you are using in various categories. You can use Service Graph Connectors for products that are available from the ServiceNow Store for the API connections that are required. For more information about the supported service graph connectors, see [Service Graph Connectors for Security Posture Control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-use-connectors-policies.md) and [Service Graph Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-sgc-available.md). Supported service graph connectors are available from the ServiceNow® Store with separate subscriptions.
 2.  Perform one or more asset searches based on specific criteria to get an inventory.
 3.  Activate the policies shipped with the Security Posture Control application. You can also or create your own policies and activate them based on the results of your asset searches.
 4.  Create and activate your own configured insights to help you monitor your assets.
-5.  To gain insight into which threats to your assets are mitigated by available mitigation controls based on how various security tools are configured, see [[spc-mitigation-exploring|Using mitigation controls monitoring with Security Posture Control]].
+5.  To gain insight into which threats to your assets are mitigated by available mitigation controls based on how various security tools are configured, see [Using mitigation controls monitoring with Security Posture Control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-mitigation-exploring.md).
 6.  Set up rules to automate the remediation workflow in the Configuration Compliance application.
 
 Identifying security tool gaps involves the following steps:
@@ -150,27 +150,9 @@ Identifying security tool gaps involves the following steps:
 
 ## Creating your own policies
 
-See [[spc-creating-policies|Creating your own policies in the Security Posture Control application]] for more information about how to create your own policies.
+See [Creating your own policies in the Security Posture Control application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-creating-policies.md) for more information about how to create your own policies.
 
-See [[spc-create-policy|Create and activate custom policies for Security Posture Control]] for more information about the steps required to create a policy.
+See [Create and activate custom policies for Security Posture Control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-create-policy.md) for more information about the steps required to create a policy.
 
-For example policies, see [[spc-policy-examples|Examples of base, child, and cloned policies for Security Posture Control]].
+For example policies, see [Examples of base, child, and cloned policies for Security Posture Control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-policy-examples.md).
 
-## Related
-
-- [[spc-custom-insight-overview|Key insights and configured insights for Security Posture Control]]
-- [[spc-policies-overview|Policies for Security Posture Control]]
-- [[spc-asset-search|Create an asset search in Security Posture Control]]
-- [[asset-profile|Create an asset profile in Security Posture Control]]
-- [[spc-view-findings|spc view findings]]
-- [[spc-policies|Use cases, policy examples, and supported service graph connectors in Security Posture Control]]
-- [[spc-create-custom-insight|Create and activate a configured insight for Security Posture Control]]
-- [[spc-use-connectors-policies|Service Graph Connectors for Security Posture Control]]
-- [[spc-mitigation-exploring|Using mitigation controls monitoring with Security Posture Control]]
-- [[spc-creating-policies|Creating your own policies in the Security Posture Control application]]
-- [[spc-create-policy|Create and activate custom policies for Security Posture Control]]
-- [[spc-policy-examples|Examples of base, child, and cloned policies for Security Posture Control]]
-- [[spc-landing|Security Posture Control]]
-- [[vr-config-compliance-landing|Configuration Compliance]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[tools|Tools]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, Workplace Service Delivery for Mobile, Workplace Service
 
 # Configure AI search for Workplace Service Delivery for Mobile
 
-Install and configure AI search with [[wsd-mobile-overview|Workplace Service Delivery for Mobile]]. Users can use AI search to search for campus, buildings, floors, or spaces.
+Install and configure AI search with Workplace Service Delivery for Mobile. Users can use AI search to search for campus, buildings, floors, or spaces.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ Role required: admin
 
     Your request is processed and it may take some time for the AI Search application to be activated.
 
-3.  After installing and configuring AI search, ensure that you have installed [[workplace-safety-mgmt-hr|Workplace Core]] and Workplace Service Delivery for Mobile.
+3.  After installing and configuring AI search, ensure that you have installed Workplace Core and Workplace Service Delivery for Mobile.
 
 4.  Navigate to **All** &gt; **Search Configurations** &gt; **NowMobile App Search Configurations**.
 
@@ -57,7 +57,3 @@ When the **Ingestion State** is **Indexed**, the AI search configuration is comp
 
 **Next topic:**[Configure map properties for Location directory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/wsd-mobile-map-config-properties-loc-directory.md)
 
-## Related
-
-- [[wsd-mobile-overview|Workplace Service Delivery for Mobile]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]

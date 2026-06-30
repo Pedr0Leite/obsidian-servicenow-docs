@@ -18,7 +18,7 @@ Facilitate connecting work across ServiceNow AI Platform by enabling CWM users t
 
 ## Before you begin
 
-Verify that **Application Scope** of your instance is set to **[[cwm-landing|Collaborative Work Management]]**.
+Verify that **Application Scope** of your instance is set to **Collaborative Work Management**.
 
 Role required: admin
 
@@ -52,6 +52,3 @@ Watch this video for information about enabling ServiceNow AI Platform records.
 
 Tables included in the property can now be referenced in CWM Docs of any space.
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Using Software Asset Workspace, Software Asset Management, IT Asset
 
 # Create product install conditions
 
-Create product install conditions in the [[sam-workspace|Software Asset Workspace]] that apply across all [[c_CreatingSoftwareModels|software models]] of a product during reconciliation.
+Create product install conditions in the Software Asset Workspace that apply across all software models of a product during reconciliation.
 
 ## Before you begin
 
@@ -58,7 +58,3 @@ Install conditions define where a software product can be installed. Product ins
 
 **Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/using-sam-workspace.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_CreatingSoftwareModels|Software models]]

@@ -26,11 +26,11 @@ Depending on the asset or CI for which you are setting up maintenance plans, you
 
 **Note:** Plan carefully when defining multiple maintenance schedules for the same plan. For example, you set up one schedule to replace a printer cartridge every three months. You set up another schedule to replace the cartridge after every 10,000 pages is printed. This conflict could cause the cartridge to be replaced twice in the same week. Ensure that your schedules do not conflict with one another.
 
-Based on the templates associated with the plan, one or more [[c_ServiceManagement|service management]] work orders and [[c_FacilitiesRequests|facilities requests]] are auto-generated.
+Based on the templates associated with the plan, one or more service management work orders and facilities requests are auto-generated.
 
 Maintenance schedules can be based on either duration or meter and can be triggered by the first occurring related condition. For example, on the Maintenance Schedule form, select **Duration or Meter** as the trigger for an automobile maintenance schedule and then define the duration as three months and the meter as 5,000 miles. The schedule is triggered by whichever comes first. With the **Duration or Meter** trigger selected, the **Next run time** and **Next run value** fields are populated in the **Maintenance Plan Records** related list on the Maintenance Plan form.
 
-**Note:** In a maintenance plan record, the time stamp displayed in the **Next run time** field is not the same as the time set for executing the [[c_SMPlanMaint|planned maintenance]]. The **Next action** field in the **Planned Maintenance Nightly Run** record displays the actual scheduled job execution time for the planned maintenance.
+**Note:** In a maintenance plan record, the time stamp displayed in the **Next run time** field is not the same as the time set for executing the planned maintenance. The **Next action** field in the **Planned Maintenance Nightly Run** record displays the actual scheduled job execution time for the planned maintenance.
 
 When the scheduled job runs, it will check whether the value in the **Next run time** field is less than the time set of the next planned maintenance nightly run job and if it is, the system will generate a request. A planned nightly maintenance is not executed and a request is not generated based on the next run time.
 
@@ -190,8 +190,3 @@ If you make and save changes to an existing maintenance schedule, any previously
 
 **Parent Topic:**[Managing maintenance plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/planned-maintenance-family/c_MaintPlanMgmt.md)
 
-## Related
-
-- [[c_ServiceManagement|Service Management]]
-- [[c_FacilitiesRequests|Facilities requests]]
-- [[c_SMPlanMaint|Planned Maintenance]]

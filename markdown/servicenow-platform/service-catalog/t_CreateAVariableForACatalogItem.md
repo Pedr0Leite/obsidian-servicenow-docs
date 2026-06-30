@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[service-catalog|Service Catalog]]** &gt; **Catalog Definitions** &gt; **Maintain Items**.
+1.  Navigate to **All** &gt; **Service Catalog** &gt; **Catalog Definitions** &gt; **Maintain Items**.
 
 2.  Select the catalog item that you want to create a variable for.
 
@@ -56,7 +56,7 @@ Map to field
 
 </td><td>
 
-Maps the variable to a specific field on the table for the [[c_RecordProducer|record producer]].This field appears if the variable belongs to a record producer.
+Maps the variable to a specific field on the table for the record producer.This field appears if the variable belongs to a record producer.
 
 </td></tr><tr><td>
 
@@ -88,7 +88,7 @@ Active
 
 </td><td>
 
-[[check-box|Check box]] to make the variable available for use
+Check box to make the variable available for use
 
 </td></tr><tr><td>
 
@@ -148,7 +148,7 @@ Global
 
 </td><td>
 
-If selected, the variable is available for all catalog tasks within [[c_ServiceCatalogWorkflowDefinition|service catalog workflows]] or [[c_ExecutionPlans|execution plans]] by default. If deselected, the variable must be associated with individual catalog tasks.
+If selected, the variable is available for all catalog tasks within service catalog workflows or execution plans by default. If deselected, the variable must be associated with individual catalog tasks.
 
 </td></tr><tr><td>
 
@@ -194,7 +194,7 @@ Name
 
 </td><td>
 
-A name to identify the question.**Note:** If this field is empty, its value is auto-populated based on the **Question** field for all variable types except [[break|break]], container split, and container end.
+A name to identify the question.**Note:** If this field is empty, its value is auto-populated based on the **Question** field for all variable types except break, container split, and container end.
 
 </td></tr><tr><td>
 
@@ -212,8 +212,8 @@ Example text
 
 Hint that is displayed in the question field before a user enters a value.Applicable for the following variables:
 
--   [[ip-address|IP Address]]
--   [[email|Email]]
+-   IP Address
+-   Email
 -   URL
 -   Single Line Text
 -   Wide Single Line Text
@@ -228,7 +228,7 @@ Rich Text
 
 </td><td>
 
-Formatted [[label|label]] to be displayed on a [[catalog-item-form|catalog item form]].Applicable for the [[rich-text-label|Rich Text Label]] variable.
+Formatted label to be displayed on a catalog item form.Applicable for the Rich Text Label variable.
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -280,7 +280,7 @@ Help information for a service catalog variable.This field is applicable in Serv
 
  However, in Workspace and Catalog Item UIB component, you can view either help text or instructions. If both instructions and help text are available, you can view only the instructions.
 
- This field is not applicable for Break, CheckBox, Container End, Container Split, Macro, and [[ui-page|UI Page]] variables. In Workspace and Catalog Item UIB component, this field is additionally not applicable for a [[masked|Masked]] variable.
+ This field is not applicable for Break, CheckBox, Container End, Container Split, Macro, and UI Page variables. In Workspace and Catalog Item UIB component, this field is additionally not applicable for a Masked variable.
 
 </td></tr><tr><td>
 
@@ -294,7 +294,7 @@ Information that requires rich text formatting or adding images to support help 
 
  In Workspace and Catalog Item UIB component, this field is additionally not applicable for a Masked variable.
 
- **Note:** For [[html|HTML]] tables, use sizes that are within the width of the variable.
+ **Note:** For HTML tables, use sizes that are within the width of the variable.
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -314,9 +314,9 @@ Enable also request for
 
 </td><td>
 
-Option to allow a catalog item request to be submitted for multiple users. After you select this option, the **Also request for** field is displayed along with [[requested-for|Requested For]] variable in a catalog item. -   This functionality is only applicable in Service Portal.
+Option to allow a catalog item request to be submitted for multiple users. After you select this option, the **Also request for** field is displayed along with Requested For variable in a catalog item. -   This functionality is only applicable in Service Portal.
 -   This field is applicable only for the Requested For variable.
-For information about [[delegated-request-exp|delegated request experience]], see [Delegated request experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/delegated-request-exp.md).
+For information about delegated request experience, see [Delegated request experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/delegated-request-exp.md).
 
 </td></tr><tr><td>
 
@@ -339,7 +339,7 @@ Choice direction
 
 The direction in which the choice list is arranged. -   **Across**: Arranges choices horizontally.
 -   **Down**: Arranges choices vertically.
- This field appears for [[lookup-multiple-choice|lookup multiple choice]] variables.
+ This field appears for lookup multiple choice variables.
 
  **Note:** The selected direction is also applicable in Service Portal.
 
@@ -349,7 +349,7 @@ Choice field
 
 </td><td>
 
-Table field to populate options for the variable. If no choices are defined for a field, then the variable loads field-related distinct values from the table.This field appears for [[select-box|select box]] variables.
+Table field to populate options for the variable. If no choices are defined for a field, then the variable loads field-related distinct values from the table.This field appears for select box variables.
 
 </td></tr><tr><td>
 
@@ -367,7 +367,7 @@ Do not select the first choice
 
 Check box to leave all options for the variable cleared on the catalog item page. If this check box is selected, the first choice for the variable selected by default.
 
- This field appears for [[multiple-choice|multiple choice]] and [[numeric-scale|numeric scale]] variables.
+ This field appears for multiple choice and numeric scale variables.
 
 </td></tr><tr><td>
 
@@ -375,7 +375,7 @@ Dynamic ref qual
 
 </td><td>
 
-Dynamic qualifier. Select a dynamic filter to run a query against the [[reference|reference]] field.This field appears for reference variables when **Use reference qualifier** is set to **Dynamic**.
+Dynamic qualifier. Select a dynamic filter to run a query against the reference field.This field appears for reference variables when **Use reference qualifier** is set to **Dynamic**.
 
 </td></tr><tr><td>
 
@@ -383,7 +383,7 @@ Include none
 
 </td><td>
 
-Check box to include the **None** option in a list of choices.This field appears for lookup multiple choice, [[lookup-select-box|lookup select box]], multiple choice, and select box variables.
+Check box to include the **None** option in a list of choices.This field appears for lookup multiple choice, lookup select box, multiple choice, and select box variables.
 
 </td></tr><tr><td>
 
@@ -399,7 +399,7 @@ List table
 
 </td><td>
 
-Table with the values for the [[list-collector|list collector]]. The table should have a display column specified. This field appears for list collector variables.
+Table with the values for the list collector. The table should have a display column specified. This field appears for list collector variables.
 
 </td></tr><tr><td>
 
@@ -605,7 +605,7 @@ Regular expression that validates the variable value. This field is displayed on
 
 -   This field is also applicable in Service Portal.
 -   The max\_length attribute value is valid even when the validation regex is set.
--   You cannot [[t_AssignItemToAddlCatalogsCategory|add a catalog item]] with regex validation errors to the wishlist.
+-   You cannot add a catalog item with regex validation errors to the wishlist.
 
 
 </td></tr><tr><td>
@@ -696,7 +696,7 @@ Visible on Guides
 
 </td><td>
 
-If selected, the variable is visible when it is added to an order guide, or when it is added to a catalog item that is included in the order guide.**Note:** If an order guide has too many items and variables, consider clearing this check box on as many items as possible, to improve loading performance on [[c_ServiceCatalogOrderGuides|order guides]].
+If selected, the variable is visible when it is added to an order guide, or when it is added to a catalog item that is included in the order guide.**Note:** If an order guide has too many items and variables, consider clearing this check box on as many items as possible, to improve loading performance on order guides.
 
 </td></tr><tr><td>
 
@@ -723,38 +723,9 @@ If the catalog item has a variable that's making the item non-conversational, fo
 -   **[Define help information for a service catalog variable](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_DefineHelpInformation.md)**  
 Enter help information for a variable to help users determine what info they must provide for a service catalog variable.
 -   **[Service Catalog variable attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/variable-attributes.md)**  
-There are a few [[c_ServiceCatalogVariables|Service Catalog variables]] support specific attributes to define the behavior and restrictions for variables.
+There are a few Service Catalog variables support specific attributes to define the behavior and restrictions for variables.
 -   **[Define a question choice for a variable](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/define-question-choice-var.md)**  
-[[define-question-choice-var|Define a question choice for a variable]] with service catalog.
+Define a question choice for a variable with service catalog.
 
 **Parent Topic:**[Service catalog variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_ServiceCatalogVariables.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[c_RecordProducer|Record Producer]]
-- [[check-box|Check box]]
-- [[c_ServiceCatalogWorkflowDefinition|Service catalog workflows]]
-- [[c_ExecutionPlans|Execution Plans]]
-- [[break|Break]]
-- [[ip-address|IP Address]]
-- [[email|Email]]
-- [[label|Label]]
-- [[catalog-item-form|Catalog Item form]]
-- [[rich-text-label|Rich Text Label]]
-- [[ui-page|UI page]]
-- [[masked|Masked]]
-- [[html|HTML]]
-- [[requested-for|Requested for]]
-- [[delegated-request-exp|Delegated request experience]]
-- [[lookup-multiple-choice|Lookup multiple choice]]
-- [[select-box|Select box]]
-- [[multiple-choice|Multiple choice]]
-- [[numeric-scale|Numeric scale]]
-- [[reference|Reference]]
-- [[lookup-select-box|Lookup select box]]
-- [[list-collector|List collector]]
-- [[t_AssignItemToAddlCatalogsCategory|Add a catalog item]]
-- [[c_ServiceCatalogOrderGuides|Order guides]]
-- [[c_ServiceCatalogVariables|Service catalog variables]]
-- [[define-question-choice-var|Define a question choice for a variable]]

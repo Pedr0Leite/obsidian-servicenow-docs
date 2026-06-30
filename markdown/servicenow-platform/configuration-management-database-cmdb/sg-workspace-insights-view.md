@@ -14,11 +14,11 @@ breadcrumb: [Explore, Service Graph Workspace, Configuration Management Database
 
 # Insights view in Service Graph Workspace
 
-View insightful dashboards that show aggregated counts, state, and health for key features such as [[c_CMDBHealth|CMDB Health]], Service Instances, and [[multisource-cmdb|CMDB 360]].
+View insightful dashboards that show aggregated counts, state, and health for key features such as CMDB Health, Service Instances, and CMDB 360.
 
 ## Access
 
-Navigate to **Workspaces** &gt; **[[sg-workspace|Service Graph Workspace]]**, and then in the navigation panel, select the Insights icon. Only dashboards that you have access to, appear in the Insights navigation panel and specific widgets on dashboards might require additional access privileges.
+Navigate to **Workspaces** &gt; **Service Graph Workspace**, and then in the navigation panel, select the Insights icon. Only dashboards that you have access to, appear in the Insights navigation panel and specific widgets on dashboards might require additional access privileges.
 
 Role required: Any role containing sn\_cmdb\_user \(sn\_cmdb\_user, sn\_cmdb\_editor, sn\_cmdb\_admin\)
 
@@ -34,8 +34,3 @@ Role required: Any role containing sn\_cmdb\_user \(sn\_cmdb\_user, sn\_cmdb\_ed
 -   [Service instances](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/sg-workspace-insights-serviceinstances.md)
 -   [CMDB 360](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/sg-workspace-insights-cmdb360.md)
 
-## Related
-
-- [[c_CMDBHealth|CMDB Health]]
-- [[multisource-cmdb|CMDB 360]]
-- [[sg-workspace|Service Graph Workspace]]

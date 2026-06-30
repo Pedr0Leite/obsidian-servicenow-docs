@@ -24,7 +24,7 @@ Role required: None
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
 
 2.  Select **Open chat**.
 
@@ -34,7 +34,7 @@ Role required: None
 
     To check your to-do tasks, you can enter instructions like `Show my tasks`, `Show my pending tasks`, `Show my open tasks`, or `Show me my tasks due today/due this week/due later/due soon`.
 
-    \[Omitted image "uex-nowassist-startmsg.png"\] Alt text: [[now-assisit-employee-exp|Now Assist for Employee Experience]] message.
+    \[Omitted image "uex-nowassist-startmsg.png"\] Alt text: Now Assist for Employee Experience message.
 
 4.  View the list of tasks, under the To-do Tasks, by selecting **Start**.
 
@@ -68,7 +68,3 @@ Role required: None
 
 [Manage approvals with Now Assist Approval Assistance AI agent]()
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[now-assisit-employee-exp|Now Assist for Employee Experience]]

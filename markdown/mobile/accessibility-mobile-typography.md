@@ -22,7 +22,7 @@ Role required: user
 
 Specify the size of text by configuring the text-size definition in your mobile device settings.
 
-**Note:** Text-label typography within the ServiceNow [[mobile-config-navigation|Mobile Platform]] isn't yet fully available for mobile and legacy cards, map screens, Virtual Agent, dynamic segments, and mobile banners \(iOS only\).
+**Note:** Text-label typography within the ServiceNow Mobile Platform isn't yet fully available for mobile and legacy cards, map screens, Virtual Agent, dynamic segments, and mobile banners \(iOS only\).
 
 ## Procedure
 
@@ -39,6 +39,3 @@ Specify the size of text by configuring the text-size definition in your mobile 
 
 The ServiceNow Mobile Platform displays text in your mobile device according to the text-label typography selection made.
 
-## Related
-
-- [[mobile-config-navigation|Mobile Platform]]

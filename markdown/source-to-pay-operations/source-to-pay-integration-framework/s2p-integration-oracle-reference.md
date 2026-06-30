@@ -14,7 +14,7 @@ breadcrumb: [Reference, Integrations, Source-to-Pay Operations, Finance and Supp
 
 # Source-to-Pay integrations with Oracle reference
 
-Reference topics provide additional information on integrating [[source-to-pay-operations-overview|Source-to-Pay Operations]] with Oracle, including sales orders, procurement, finance, and so on, between Source-to-Pay and ERP systems.
+Reference topics provide additional information on integrating Source-to-Pay Operations with Oracle, including sales orders, procurement, finance, and so on, between Source-to-Pay and ERP systems.
 
 ## Set system properties for Oracle Integration
 
@@ -29,7 +29,7 @@ To access the system properties list, perform the following steps:
 
 1.  Navigate to **All**.
 2.  Search for `sys_properties_list.do` and open the system properties list.
-3.  Look up [[master-data-integration|Primary Data Integration]] with Oracle using the filter option.
+3.  Look up Primary Data Integration with Oracle using the filter option.
 4.  The following system properties are available as a part of the base system.
 
     **Note:** You can modify these values only if necessary.
@@ -42,7 +42,3 @@ To access the system properties list, perform the following steps:
 
 [Source-to-Pay Integrations glossary]()
 
-## Related
-
-- [[source-to-pay-operations-overview|Source-to-Pay Operations]]
-- [[master-data-integration|Primary data integration]]

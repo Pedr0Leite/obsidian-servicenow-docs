@@ -14,7 +14,7 @@ breadcrumb: [Create inventory models, Use, Telecommunications Network Inventory]
 
 # Create an equipment holder model
 
-Create an equipment holder model in the [[telecom-network-inventory|Telecommunications Network Inventory]] application to define the physical characteristics data of the equipment holder according to the product manufacturer's recommendations. You create an equipment holder model every time a vendor or original equipment manufacturer \(OEM\) introduces a new equipment holder for your use.
+Create an equipment holder model in the Telecommunications Network Inventory application to define the physical characteristics data of the equipment holder according to the product manufacturer's recommendations. You create an equipment holder model every time a vendor or original equipment manufacturer \(OEM\) introduces a new equipment holder for your use.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ When you create an equipment holder model, it creates the model record in the eq
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then go to **Inventory Models** &gt; **Equipment Holder Models**.
 
@@ -103,7 +103,3 @@ Name of the equipment holder model. The ServiceNow AI Platform uses this name to
 
 [Network inventory models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/using-inventory-models-tni.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]

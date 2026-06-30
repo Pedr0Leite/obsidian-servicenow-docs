@@ -15,7 +15,7 @@ breadcrumb: [Now Assist for FSM]
 
 # Exploring Now Assist for Field Service Management \(FSM\)
 
-With the [[now-assist-fsm|Now Assist for Field Service Management \(FSM\)]] application, users can generate work order task summaries and knowledge articles from work order task information.
+With the Now Assist for Field Service Management \(FSM\) application, users can generate work order task summaries and knowledge articles from work order task information.
 
 **Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 
@@ -70,6 +70,4 @@ The Now Assist for FSM application includes AI agents that automate field servic
 
     Tracks and validates parts usage when closing work order tasks. The AI agent analyzes activity notes to update parts statuses and automatically adjusts inventory.
 
-## Related
 
-- [[now-assist-fsm|Now Assist for Field Service Management \(FSM\)]]

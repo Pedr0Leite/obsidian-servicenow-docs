@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[uc-landing-page|Upgrade Center]]** &gt; **Upgrade History**.
+1.  Navigate to **All** &gt; **Upgrade Center** &gt; **Upgrade History**.
 
 2.  Select an upgrade from the list.
 
@@ -51,6 +51,3 @@ Role required: admin
 
 Click on a skipped record in the VTB to update the task. See [Upgrade History Task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-history-task-form.md) for more information.
 
-## Related
-
-- [[uc-landing-page|Upgrade Center]]

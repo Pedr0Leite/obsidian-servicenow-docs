@@ -14,7 +14,7 @@ breadcrumb: [Workforce Optimization for ITSM, IT Service Management]
 
 # Exploring Workforce Optimization for ITSM
 
-Use [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]] to optimize your workforce and manage your teams efficiently. Coach your teams so that they gain the skills that let you address the demands from your customers. Efficiently schedule your teams work to provide better coverage with integrated channel management.
+Use Workforce Optimization for ITSM to optimize your workforce and manage your teams efficiently. Coach your teams so that they gain the skills that let you address the demands from your customers. Efficiently schedule your teams work to provide better coverage with integrated channel management.
 
 ## Workforce Optimization for ITSM overview
 
@@ -72,7 +72,7 @@ Using the application, you can also:
 -   Analyze KPIs that are crucial for your team
 -   Drill into agents within each team and monitor their performance
 -   Access the profile of each agent to view details such as their manager, peers, and assignment groups
--   Drill down into the skills for each agent or recommend them for [[cf-coaching-landing|coaching]]
+-   Drill down into the skills for each agent or recommend them for coaching
 
 ## Coaching and Skills Assessment
 
@@ -97,7 +97,3 @@ Easily find tasks that you must complete in a module in Workforce Optimization f
 |Teams|Analyze team performance using Teams|[Getting started with Teams in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/explore-teams-configurable-workforce-optimization-itsm.md)|
 |Coaching|Train your teams with Coaching with Learning|[Getting started with Coaching in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/explore-coaching-configurable-workforce-optimization-itsm.md)|
 
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]
-- [[cf-coaching-landing|Coaching]]

@@ -16,7 +16,7 @@ You can enable AI Search users to search content and metadata from documents in 
 
 Now Assist for PSDS supports additional configuration for AI Search, such as search profile configuration.
 
-[[now-assist-psds-exploring-ais|AI Search for Now Assist for Public Sector Digital Services \(PSDS\)]] stores search experience settings in search profiles. Define a search profile for each unique search experience that you want to offer users in a ServiceNow AI Platform application. Create and populate synonym and stop word dictionaries. Configure typo handling dictionary settings. Define Genius Results and result improvement rules.
+AI Search for Now Assist for Public Sector Digital Services \(PSDS\) stores search experience settings in search profiles. Define a search profile for each unique search experience that you want to offer users in a ServiceNow AI Platform application. Create and populate synonym and stop word dictionaries. Configure typo handling dictionary settings. Define Genius Results and result improvement rules.
 
 A search profile contains settings that determine how AI Search generates search results for a given search. The search application's configuration specifies which search profile to use, and also determines how the generated results are displayed to users.
 
@@ -119,6 +119,3 @@ Role required: admin
 
 The search profile appears in the AI Search Search Profiles list with **State** set to **Published**, and can be used to filter what search sources are being indexed by the Now Assist for PSDS AI Search.
 
-## Related
-
-- [[now-assist-psds-exploring-ais|AI Search for Now Assist for Public Sector Digital Services \(PSDS\)]]

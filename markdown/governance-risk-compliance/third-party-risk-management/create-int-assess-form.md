@@ -14,7 +14,7 @@ breadcrumb: [IRQ process management, Reference, Third-party Risk Management, Gov
 
 # Create new internal assessment form
 
-Use the internal assessment form to capture all the information that you need to [[tprm-create-int-assessment|create an internal assessment]]. As a third-party risk assessor, you can [[sae-asmnt-template-create|create an assessment template]].
+Use the internal assessment form to capture all the information that you need to create an internal assessment. As a third-party risk assessor, you can create an assessment template.
 
 <table id="table_FloorForm"><thead><tr><th>
 
@@ -90,7 +90,7 @@ Assessment Engine
 
 The assessment engine used for the Third-party risk assessment. This field is set to **Smart**.
 
-This field is only visible if you have enabled the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] enabled \[`sn_vdr_risk_asmt.sae_enabled`\] property. For more information about this property, see [Configure TPRM properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-properties-configure.md).
+This field is only visible if you have enabled the Smart Assessment Engine enabled \[`sn_vdr_risk_asmt.sae_enabled`\] property. For more information about this property, see [Configure TPRM properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-properties-configure.md).
 
 **Note:** When reviewing previous assessments, you can determine which engine was used by checking this field. If the assessment was created using the Classic assessment engine, the field displays **Classic**.
 
@@ -204,8 +204,3 @@ Public information about the assessment.
 
 [Create an external assessment template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/create-vendor-risk-assess-temp.md)
 
-## Related
-
-- [[tprm-create-int-assessment|Create an internal assessment]]
-- [[sae-asmnt-template-create|Create an assessment template]]
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]

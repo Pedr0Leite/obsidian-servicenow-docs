@@ -14,13 +14,13 @@ breadcrumb: [On-Call Scheduling subflows, Reference for on-call scheduling, On-C
 
 # Subflows installed with On-Call Scheduling
 
-Subflows are installed with [[c_OnCallScheduling|On-Call Scheduling]] to support building on-call escalation notification configurable flows.
+Subflows are installed with On-Call Scheduling to support building on-call escalation notification configurable flows.
 
 Starting from the Zurich release, the following subflows are available instead of the workflows as the workflows are deprecated:
 
 -   **On-Call: Assign by Acknowledgement**
 
-    The subflow sends notifications to the members on the escalation path via channels configured in the user or shift preferences. Assignment occurs after the On-Call member acknowledges the notification.The subflow uses data from escalation [[settings-mobile|settings]], including overlapping shifts and custom escalation settings for shifts and rosters. Depending on the settings, the subflow moves through the escalation path and sends notifications by SMS, voice, or email that ask users to accept a task.
+    The subflow sends notifications to the members on the escalation path via channels configured in the user or shift preferences. Assignment occurs after the On-Call member acknowledges the notification.The subflow uses data from escalation settings, including overlapping shifts and custom escalation settings for shifts and rosters. Depending on the settings, the subflow moves through the escalation path and sends notifications by SMS, voice, or email that ask users to accept a task.
 
     On-call notifications are sent to multiple channels such as SMS or email simultaneously instead of sending it sequentially.
 
@@ -69,7 +69,3 @@ Starting from the Zurich release, the following subflows are available instead o
 
 **Parent Topic:**[On-Call Scheduling subflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/on-call-scheduling-subflows-overview.md)
 
-## Related
-
-- [[c_OnCallScheduling|On-Call Scheduling]]
-- [[settings-mobile|Settings]]

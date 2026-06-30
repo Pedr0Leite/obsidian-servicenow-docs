@@ -18,24 +18,24 @@ Configure rules to automatically assign cases to specific agents or groups based
 
 Role required: Based on the application that you are configuring, you need the following roles:
 
--   For [[payment-ops-landing-page|Financial Services Payment Operations]]: sn\_bom\_payment.admin and admin
--   For [[card-ops-landing-page|Financial Services Card Operations]]: sn\_bom\_card.admin and admin
--   For [[fso-complaint-mgmt-landing-page|Financial Services Complaint Management]]: sn\_bom\_compl.admin and admin
--   For [[fso-overview|Financial Services]] Business Deposit Operations: sn\_bom\_deposit\_b2b.admin and admin
+-   For Financial Services Payment Operations: sn\_bom\_payment.admin and admin
+-   For Financial Services Card Operations: sn\_bom\_card.admin and admin
+-   For Financial Services Complaint Management: sn\_bom\_compl.admin and admin
+-   For Financial Services Business Deposit Operations: sn\_bom\_deposit\_b2b.admin and admin
 -   For Financial Services Personal Deposit Operations: sn\_bom\_deposit\_b2c.admin and admin
 -   For Financial Services Business Loan Operations: sn\_bom\_loan\_b2b.admin and admin
 -   For Financial Services Personal Loan Operations: sn\_bom\_loan.b2c\_admin and admin
 -   For Financial Services Business Lifecycle: sn\_bom\_clo\_b2b.admin and admin
 -   For Financial Services Client Lifecycle: sn\_bom\_clo\_b2c.admin and admin
--   For [[fso-treasury-ops-landing-page|Financial Services Treasury Operations]]: sn\_bom\_treasury.admin and admin
--   For [[commercial-lines-claims-landing-page|Commercial Lines Claims]]: sn\_ins\_claim\_cml.admin and admin
+-   For Financial Services Treasury Operations: sn\_bom\_treasury.admin and admin
+-   For Commercial Lines Claims: sn\_ins\_claim\_cml.admin and admin
 
     **Note:** Insurance Special Investigations is installed with Commercial Lines Claims, and additionally requires the following roles: sn\_ins\_siu.admin and admin
 
--   For [[individual-life-servicing|Individual Life Servicing]] and Individual Life Underwriting: sn\_ins\_policy\_b2c.admin and admin
--   For [[group-life-servicing|Group Life Servicing]] and Group Life Underwriting: sn\_ins\_policy\_b2b.admin and admin
--   [[individual-life-claims-landing-page|Individual Life Claims]]: sn\_ins\_claim\_indl.admin and admin
--   [[insurance-claims-flow|Insurance claims]]: sn\_ins\_gen\_claim.admin and admin
+-   For Individual Life Servicing and Individual Life Underwriting: sn\_ins\_policy\_b2c.admin and admin
+-   For Group Life Servicing and Group Life Underwriting: sn\_ins\_policy\_b2b.admin and admin
+-   Individual Life Claims: sn\_ins\_claim\_indl.admin and admin
+-   Insurance claims: sn\_ins\_gen\_claim.admin and admin
 
 ## About this task
 
@@ -102,15 +102,4 @@ For advanced assignment rules, you can also use the ServiceNow Advanced Work Ass
 
 4.  Click **Submit** or **Update**.
 
-## Related
 
-- [[payment-ops-landing-page|Financial Services Payment Operations]]
-- [[card-ops-landing-page|Financial Services Card Operations]]
-- [[fso-complaint-mgmt-landing-page|Financial Services Complaint Management]]
-- [[fso-overview|Financial Services]]
-- [[fso-treasury-ops-landing-page|Financial Services Treasury Operations]]
-- [[commercial-lines-claims-landing-page|Commercial Lines Claims]]
-- [[individual-life-servicing|Individual Life Servicing]]
-- [[group-life-servicing|Group Life Servicing]]
-- [[individual-life-claims-landing-page|Individual Life Claims]]
-- [[insurance-claims-flow|Insurance claims]]

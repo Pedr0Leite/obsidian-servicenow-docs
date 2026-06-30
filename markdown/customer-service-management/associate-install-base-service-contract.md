@@ -12,7 +12,7 @@ breadcrumb: [Create service contracts, Product data, Set up your environment, Co
 
 # Associate an install base to a service contract
 
-Associate [[install-base-item|install base items]] with a service contract to see the list of all the different service contracts that are associated to an install base item in the [[c_CustomerServiceManagement|Customer Service Management]] application. By associating an install base, you can set a relationship between an install base and a contract.
+Associate install base items with a service contract to see the list of all the different service contracts that are associated to an install base item in the Customer Service Management application. By associating an install base, you can set a relationship between an install base and a contract.
 
 ## Before you begin
 
@@ -34,7 +34,4 @@ Associate install bases to service contracts to access all the contracts that ar
 
 5.  Select **Submit**.
 
-## Related
 
-- [[install-base-item|Install base items]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

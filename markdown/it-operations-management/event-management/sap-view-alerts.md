@@ -14,7 +14,7 @@ breadcrumb: [SAP Solution Manager setup configurations, Enable SAP connector con
 
 # View alerts in the SAP Solution Manager inbox
 
-You can view alerts generated in SAP Solution Manager to see any pressing issues. All alerts also forward to [[c_EM|Event Management]] automatically.
+You can view alerts generated in SAP Solution Manager to see any pressing issues. All alerts also forward to Event Management automatically.
 
 ## Before you begin
 
@@ -81,6 +81,3 @@ Here’s how the alert is mapped in Event Management:
 
 **Parent Topic:**[SAP Solution Manager setup configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/sap-solman-configurations.md)
 
-## Related
-
-- [[c_EM|Event Management]]

@@ -26,7 +26,7 @@ The **Usage Insights** dashboard displays all applications by default. To view t
 
 -   **Users**
 
-    [[migration-lists|Lists]] all agents who have triggered tracked events, displayed as hashed IDs. See [Usage Insights dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/ued-ec.md).
+    Lists all agents who have triggered tracked events, displayed as hashed IDs. See [Usage Insights dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/ued-ec.md).
 
 -   **Sessions**
 
@@ -55,9 +55,5 @@ Each event entry for usage insights includes a complete payload. The following t
 |interaction sys\_id|The sys\_id of the corresponding interaction record in the ServiceNow instance.|
 |external\_id|An identifier from the external CCaaS provider associated with this interaction.|
 
-Enable call events tracking by configuring the Usage Insights capability. See: [[enable-usage-insights-for-icc-call-events|Enable Usage Insights for Interaction Controls Component \(ICC\) enabled call events]].
+Enable call events tracking by configuring the Usage Insights capability. See: [Enable Usage Insights for Interaction Controls Component \(ICC\) enabled call events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/enable-usage-insights-for-icc-call-events.md).
 
-## Related
-
-- [[enable-usage-insights-for-icc-call-events|Enable Usage Insights for Interaction Controls Component \(ICC\) enabled call events]]
-- [[migration-lists|Lists]]

@@ -14,7 +14,7 @@ breadcrumb: [Integrate with SaaS applications, SaaS License Management, Software
 
 # Integrating with Jira Software Cloud
 
-Integrating your [[c_SoftwareAssetMgmt|Software Asset Management]] application with Atlassian Jira Software Cloud enables you to track your software subscriptions and to reclaim unused licenses.
+Integrating your Software Asset Management application with Atlassian Jira Software Cloud enables you to track your software subscriptions and to reclaim unused licenses.
 
 **Note:** Currently this integration supports only one site integration per profile.
 
@@ -25,6 +25,3 @@ Integrating your [[c_SoftwareAssetMgmt|Software Asset Management]] application w
 
 -   If your installed Jira spoke version is lower than 4.1.0, integrate Jira with your ServiceNow instance by [Basic authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/integrate-with-jira-basicauth.md) method.
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

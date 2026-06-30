@@ -12,7 +12,7 @@ breadcrumb: [Telecommunications Customer 360, Telecommunications, Media, and Tec
 
 # Explore Telecommunications Customer 360
 
-Use the [[c360-land-page|Telecommunications Customer 360]] application to get a unified view of customer data including account details, interaction history, product inventory, and billing, and resolve issues faster from a single workspace.
+Use the Telecommunications Customer 360 application to get a unified view of customer data including account details, interaction history, product inventory, and billing, and resolve issues faster from a single workspace.
 
 Telecommunications Customer 360 customer service representatives can look up complete customer details and examine history and diagnostics. They can also take actions such as creating cases, billing inquiries, and work orders.
 
@@ -31,9 +31,5 @@ You can access the Telecom Customer 360 page from the CSM/FSM Configurable Works
 
 \[Omitted image "telcom-360-view.jpg"\] Alt text: Telecom 360 view
 
-To start using Telecommunications Customer 360, see [[c360-home-page|Telecommunications Customer 360 home page]].
+To start using Telecommunications Customer 360, see [Telecommunications Customer 360 home page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/c360-home-page.md).
 
-## Related
-
-- [[c360-home-page|Telecommunications Customer 360 home page]]
-- [[c360-land-page|Telecommunications Customer 360]]

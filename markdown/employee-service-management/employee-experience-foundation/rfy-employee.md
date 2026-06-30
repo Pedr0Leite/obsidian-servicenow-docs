@@ -14,7 +14,7 @@ breadcrumb: [Using Employee Center, Employee Center, Unified Employee Experience
 
 # View the Recommended for you content
 
-Access all the content [[rfy-ec|recommended for you]] from from a central location in one-click.
+Access all the content recommended for you from from a central location in one-click.
 
 As an employee, you can access the recommended knowledge articles or catalog items from the **Recommended for you** widget.
 
@@ -31,7 +31,7 @@ For more information, see [Recommended for you](https://raw.githubusercontent.co
 **Related topics**  
 
 
-[Use the [[employee-center-landing-page|Employee Center]] topic pages]()
+[Use the Employee Center topic pages]()
 
 [Topic managers and contributors for topic page management]()
 
@@ -61,7 +61,3 @@ For more information, see [Recommended for you](https://raw.githubusercontent.co
 
 [Use Guided Self-Service]()
 
-## Related
-
-- [[rfy-ec|Recommended for you]]
-- [[employee-center-landing-page|Employee Center]]

@@ -14,7 +14,7 @@ breadcrumb: [Create targets for a goal, Manage goals, Goal Framework and Goal Fr
 
 # Update the progress of a target using Goal Framework for SPM
 
-Update the progress of a target using the **Update Actual value** related link on the [[target-form|Target form]].
+Update the progress of a target using the **Update Actual value** related link on the Target form.
 
 ## Before you begin
 
@@ -65,7 +65,7 @@ Steps
 
 ## Result
 
-After the **Actuals to date** field is updated, the progress value for the target and its goal are auto-updated. For information on how the progress value is calculated, see [progress value calculation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/progress-value-calculation.md). For information on how the progress value is calculated for a target that has [[target-breakdowns-gf|target breakdowns]], see [Target breakdowns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/target-breakdowns-gf.md).
+After the **Actuals to date** field is updated, the progress value for the target and its goal are auto-updated. For information on how the progress value is calculated, see [progress value calculation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/progress-value-calculation.md). For information on how the progress value is calculated for a target that has target breakdowns, see [Target breakdowns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/target-breakdowns-gf.md).
 
 **Related topics**  
 
@@ -74,7 +74,3 @@ After the **Actuals to date** field is updated, the progress value for the targe
 
 [Update the actual value of a target breakdown](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/update-the-actual-value-of-a-target-breakdown-gf.md)
 
-## Related
-
-- [[target-form|Target form]]
-- [[target-breakdowns-gf|Target breakdowns]]

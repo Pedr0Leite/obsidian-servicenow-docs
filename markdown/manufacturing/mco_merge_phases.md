@@ -22,7 +22,7 @@ Role required: sn\_rcl\_claim\_mgmt.recall\_manager and sn\_rcl\_claim\_mgmt.rec
 
 1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace** &gt; **Lists** &gt; **Recall Management** &gt; **My Campaigns**.
 
-2.  Select the [[mco-rcl-clms|Recall campaign]] phase and open it in details view.
+2.  Select the Recall campaign phase and open it in details view.
 
 3.  Select **Merge and Cancel phase**.
 
@@ -41,9 +41,5 @@ Role required: sn\_rcl\_claim\_mgmt.recall\_manager and sn\_rcl\_claim\_mgmt.rec
 
 The current phase or sub-phase state is canceled, and all associated assets are transferred to the target phase.
 
-**Parent Topic:**[[mco-recall-management|Recall management]]
+**Parent Topic:**[Recall management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-recall-management.md)
 
-## Related
-
-- [[mco-recall-management|Recall management]]
-- [[mco-rcl-clms|Recall campaign]]

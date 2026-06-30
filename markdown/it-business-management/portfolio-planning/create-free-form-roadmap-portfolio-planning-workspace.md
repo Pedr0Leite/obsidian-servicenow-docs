@@ -29,7 +29,7 @@ Select a source table as a starting point to base your roadmap on. Select one of
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace** &gt; **Portfolio Planning** &gt; **Free-form Roadmaps**
+1.  Navigate to **Workspaces** &gt; **Portfolio Planning Workspace** &gt; **Portfolio Planning** &gt; **Free-form Roadmaps**
 
 2.  Select **New**.
 
@@ -71,6 +71,3 @@ Portfolio managers can create customized views for their free-form roadmap by ap
 
 **Parent Topic:**[Planning roadmaps in Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/planning-roadmaps-in-portfolio-planning.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

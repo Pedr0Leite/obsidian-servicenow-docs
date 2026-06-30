@@ -14,11 +14,11 @@ breadcrumb: [Lens configuration in Strategic Planning, Configure, Portfolio Plan
 
 # Add or modify lens structure in Strategic Planning
 
-Add entities to your lens and build its structure so that your planning managers can start creating their [[portfolio-plans-in-strategic-planning|portfolio plans in Strategic Planning]].
+Add entities to your lens and build its structure so that your planning managers can start creating their portfolio plans in Strategic Planning.
 
 ## Before you begin
 
-Ensure that your application scope is set to **[[portfolio-planning-app-landing-page|Portfolio Planning]] Core**.
+Ensure that your application scope is set to **Portfolio Planning Core**.
 
 Role required: admin
 
@@ -28,7 +28,7 @@ For a lens, add entities to build a new lens structure or to modify the existing
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]]** &gt; **Lenses**.
+1.  Navigate to **All** &gt; **Strategic Planning** &gt; **Lenses**.
 
 2.  From the Lenses list, select a lens for which you want to add or update the lens structure.
 
@@ -68,8 +68,3 @@ For a lens, add entities to build a new lens structure or to modify the existing
 
 4.  Validate your lens configuration and activate it. See [Activate a lens in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/activate-lens-alignment-planner-workspace.md).
 
-## Related
-
-- [[portfolio-plans-in-strategic-planning|Portfolio plans in Strategic Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

@@ -14,7 +14,7 @@ breadcrumb: [On-Call Scheduling, IT Service Management]
 
 # Mobile experience for On-Call Scheduling
 
-View and manage on-call schedules from a mobile device with the [[c_OnCallScheduling|On-Call Scheduling]] mobile applet.
+View and manage on-call schedules from a mobile device with the On-Call Scheduling mobile applet.
 
 On-call managers and shift managers can perform the following actions:
 
@@ -42,6 +42,3 @@ As a shift manager, view your team's schedule and perform activities like approv
 
 **Parent Topic:**[On-Call Scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/c_OnCallScheduling.md)
 
-## Related
-
-- [[c_OnCallScheduling|On-Call Scheduling]]

@@ -16,16 +16,12 @@ breadcrumb: [SAML, Multi-Provider single sign-on \(SSO\), Authentication, Access
 
 The following advanced settings allow you to further increase security and debug the integration.
 
-Navigate to **All** &gt; **[[c_SAML2.0WebBrowserSSOProfile|SAML]] 2 Single Sign-on** &gt; **Properties**.
+Navigate to **All** &gt; **SAML 2 Single Sign-on** &gt; **Properties**.
 
 \[Omitted image "AdvProperties.png"\] Alt text:
 
 |Property|Description|
 |--------|-----------|
-|The number of seconds "notBefore" constraint, or after "notOnOrAfter" constraint, to consider still valid|Enter the number of seconds to add to the NotBefore and NotOnOrAfter constraints to account for time differences between the IdP clock and SP clock. These constraints prevent against replay attacks by denying requests that are not made within the specified time frame. If the IdP clock and SP clock are significantly different, network latency may result in the SAML [[c_requestAPI|request]] being unauthorized. This property adds a grace period during which SAML requests and responses are still considered valid.|
+|The number of seconds "notBefore" constraint, or after "notOnOrAfter" constraint, to consider still valid|Enter the number of seconds to add to the NotBefore and NotOnOrAfter constraints to account for time differences between the IdP clock and SP clock. These constraints prevent against replay attacks by denying requests that are not made within the specified time frame. If the IdP clock and SP clock are significantly different, network latency may result in the SAML request being unauthorized. This property adds a grace period during which SAML requests and responses are still considered valid.|
 |Turn on debug logging for SAML 2.0 Authentication|Select **Yes** to enable additional logging information for SAML 2.0 events.|
 
-## Related
-
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[c_requestAPI|request]]

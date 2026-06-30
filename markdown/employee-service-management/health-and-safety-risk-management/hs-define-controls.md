@@ -30,7 +30,7 @@ Role required: sn\_hs\_rm.risk\_manager or sn\_hs\_rm.risk\_data\_manager
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Health and Safety Workspace**.
 
 2.  Select the configuration icon \(\[Omitted image "icon-config.png"\] Alt text: Configuration icon\).
 
@@ -86,11 +86,7 @@ Option to mark this control measure available for use. A control measure must be
 -   The control measure is available to select in the following fields:
     -   **Hazard** field on the Hazard and controls form when defining a job in the job register.
     -   **Add control measures** window on a JSA form.
-    -   **Available Control Measures** field on the [[hs-hazard-assessment-form|Hazard assessment form]] when conducting a risk assessment.
+    -   **Available Control Measures** field on the Hazard assessment form when conducting a risk assessment.
 
 **Parent Topic:**[Setting up Health and Safety Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-setting-up-risk-mgmt.md)
 
-## Related
-
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[hs-hazard-assessment-form|Hazard assessment form]]

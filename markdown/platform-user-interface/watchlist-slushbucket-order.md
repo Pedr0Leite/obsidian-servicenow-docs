@@ -32,7 +32,7 @@ By default, the order buttons on the right are not displayed. Follow the procedu
 
 1.  Open a task record that displays the **Watch list** field.
 
-2.  Right-click the label and select **[[configure-onboarding-modals|Configure]] Dictionary**.
+2.  Right-click the label and select **Configure Dictionary**.
 
 3.  Under **Related Links**, click **Advanced view**.
 
@@ -41,14 +41,10 @@ By default, the order buttons on the right are not displayed. Follow the procedu
 5.  Click **Update**.
 
 
-**Parent Topic:**[[t_ConfigNotifications4WatchLists|Configure email notifications for watch lists]]
+**Parent Topic:**[Configure email notifications for watch lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_ConfigNotifications4WatchLists.md)
 
 **Related topics**  
 
 
 [Altering tables and fields using dictionary attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_DictionaryAttributes.md)
 
-## Related
-
-- [[t_ConfigNotifications4WatchLists|Configure email notifications for watch lists]]
-- [[configure-onboarding-modals|Configure]]

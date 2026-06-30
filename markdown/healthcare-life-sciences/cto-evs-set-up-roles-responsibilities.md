@@ -12,7 +12,7 @@ breadcrumb: [Configure, Care Team Operations for Environmental Services, Healthc
 
 # Setting up roles and responsibilities in Care Team Operations for Environmental Services
 
-To manage access effectively in [[cto-evs-landing|Care Team Operations for Environmental Services]], first understand how roles and responsibilities work together. These concepts build on the Service Model Foundation \(SMF\) but are adapted for [[healthcare-operations-overview|Healthcare Operations]]-specific use cases.
+To manage access effectively in Care Team Operations for Environmental Services, first understand how roles and responsibilities work together. These concepts build on the Service Model Foundation \(SMF\) but are adapted for Healthcare Operations-specific use cases.
 
 To understand how roles and responsibilities function in Healthcare Operations, see [Setting up roles and responsibilities for Healthcare Operations users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-operations-core/cto-setting-up-roles-responsibilities.md).
 
@@ -45,12 +45,6 @@ Can view/resolve all cases under their assignment group, tracks, and fulfill cas
 </td></tr></tbody>
 </table>## What to do next
 
-1.  [[cto-evs-assign-roles|Set up roles for Care Team Operations for Environmental Services]]
-2.  [[cto-evs-assign-responsibilities|Assign responsibilities to Care Team Operations for Environmental Services users]]
+1.  [Set up roles for Care Team Operations for Environmental Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/cto-evs-assign-roles.md)
+2.  [Assign responsibilities to Care Team Operations for Environmental Services users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/cto-evs-assign-responsibilities.md)
 
-## Related
-
-- [[cto-evs-assign-roles|Set up roles for Care Team Operations for Environmental Services]]
-- [[cto-evs-assign-responsibilities|Assign responsibilities to Care Team Operations for Environmental Services users]]
-- [[cto-evs-landing|Care Team Operations for Environmental Services]]
-- [[healthcare-operations-overview|Healthcare Operations]]

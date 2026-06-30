@@ -22,7 +22,7 @@ Role required: administrator
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[process-mining|Process Mining]]** &gt; **[[analyst-workbench-overview|Process Mining Workspace]]**.
+1.  Navigate to **All** &gt; **Process Mining** &gt; **Process Mining Workspace**.
 
 2.  Select the project, which has a version whose name you want edit.
 
@@ -37,7 +37,3 @@ Role required: administrator
 
 **Parent Topic:**[Comparing projects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/comparing-models.md)
 
-## Related
-
-- [[process-mining|Process Mining]]
-- [[analyst-workbench-overview|Process Mining workspace]]

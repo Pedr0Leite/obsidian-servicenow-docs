@@ -14,7 +14,7 @@ breadcrumb: [Create entitlements in Software Asset Management classic, Using Sof
 
 # Create entitlements for Microsoft Software Assurance in Software Asset Management classic
 
-Define license details for Microsoft Software Assurance \(SA\) to manage your [[c_Contracts|contracts]] start and end dates, software upgrades, and related software entitlements.
+Define license details for Microsoft Software Assurance \(SA\) to manage your contracts start and end dates, software upgrades, and related software entitlements.
 
 ## Before you begin
 
@@ -89,6 +89,3 @@ While you're under active maintenance, Microsoft releases SQL Server 2016 datace
 
 **Parent Topic:**[Create entitlements in Software Asset Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/track-software-rights.md)
 
-## Related
-
-- [[c_Contracts|Contracts]]

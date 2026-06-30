@@ -14,7 +14,7 @@ breadcrumb: [HR Profile, Case and Knowledge Management, HR Service Delivery, Emp
 
 # Add or modify a beneficiary
 
-As an employee, you add a beneficiary to your benefit plan from the [[employee-center-landing-page|Employee Center]].
+As an employee, you add a beneficiary to your benefit plan from the Employee Center.
 
 ## Before you begin
 
@@ -140,6 +140,3 @@ Percentage amount of the benefit distributed to the beneficiary.
 
 **Parent Topic:**[HR Profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_HRProfileRecords.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

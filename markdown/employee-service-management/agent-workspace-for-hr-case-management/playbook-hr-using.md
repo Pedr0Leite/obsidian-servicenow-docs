@@ -14,7 +14,7 @@ breadcrumb: [HR Service Delivery Playbook, Agent Workspace, HR Service Delivery,
 
 # Using HR Service Delivery Playbook
 
-Currently, [[playbook-hr|HR Service Delivery Playbook]] is only available for use with lifecycle event HR cases.
+Currently, HR Service Delivery Playbook is only available for use with lifecycle event HR cases.
 
 Playbook shows as a tab on the HR Agent Workspace form after displaying an LE case.
 
@@ -30,7 +30,7 @@ Selecting the Playbook tab allows you to view and work all lifecycle event activ
 
     The title of the lifecycle event is at the top below the **Playbook** tab in the stage panel.
 
--   **[[activity-lxp|Activity]] sets**
+-   **Activity sets**
 
     The list of lanes along with their status icon appear below the lifecycle event description.\[Omitted image "playbook-hr-le-column.png"\] Alt text: HR Agent WS - Stage panel
 
@@ -58,7 +58,7 @@ Role required: sn\_hr\_le.case\_writer
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **HR Agent Workspace**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **HR Agent Workspace**.
 
 2.  Select a lifecycle event case.
 
@@ -239,8 +239,4 @@ Role required: sn\_hr\_le.case\_writer
 
 5.  Click the **X** at the top, right corner of the email to close it.
 
-## Related
 
-- [[playbook-hr|HR Service Delivery Playbook]]
-- [[activity-lxp|Activity]]
-- [[case-management-workspace|Case management]]

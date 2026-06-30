@@ -18,18 +18,18 @@ Learn about the customer order decomposition, including quantity-based decomposi
 
 Quantity based decomposition enables you to decompose your order into separate domain orders as per the order quantity to manage the fulfillment process and independently. This method also supports:
 
--   Revision of order line item quantity for in-flight orders to fulfill customer’s request to [[Modify|modify]] \(increase or decrease\) the quantity of the order.
+-   Revision of order line item quantity for in-flight orders to fulfill customer’s request to modify \(increase or decrease\) the quantity of the order.
 -   Support for change of product order to fulfill a customer's request to update the quantity characteristics. It leads to either the creation of new product inventories or the cancellation of existing product inventories.
 
 ## Support for a change order with an update for quantity characteristics
 
-When you receive a customer request to revise an order through changing a product characteristic or characteristic value, you can upgrade or downgrade an existing product inventory. As a part of the fulfillment process, you either create new product inventories or [[cancel|cancel]] existing product inventories.
+When you receive a customer request to revise an order through changing a product characteristic or characteristic value, you can upgrade or downgrade an existing product inventory. As a part of the fulfillment process, you either create new product inventories or cancel existing product inventories.
 
 -   If a change in a quantity characteristic option leads to additional new product inventories, the decomposition process creates the domain orders for the target specification and inventories for the fulfillment process.
 -   If a change in a quantity characteristic option leads to the cancellation of some existing inventories, the decomposition process creates the domain orders needed to manage both the cancellation and changes to the inventories.
-    -   The fulfillment process notifies the [[reviewing-orchestration-plans-order-fulfillment|order fulfillment]] manager to identify the inventories require cancellation or update.
-    -   The decomposition process [[cpq-sets|sets]] the **Needs Attention** field to **True** for the domain orders.
-    -   The order fulfillment manager then views these orders in the Needs Attention widget. The order fulfillment manager can wait to open the domain orders, select the product inventories for cancellation, or update it to [[Resume|resume]] the [[order-mgt-order-decomposition|order decomposition]] and fulfillment process.
+    -   The fulfillment process notifies the order fulfillment manager to identify the inventories require cancellation or update.
+    -   The decomposition process sets the **Needs Attention** field to **True** for the domain orders.
+    -   The order fulfillment manager then views these orders in the Needs Attention widget. The order fulfillment manager can wait to open the domain orders, select the product inventories for cancellation, or update it to resume the order decomposition and fulfillment process.
 
 ## Support for quantity revision for in-flight orders
 
@@ -41,14 +41,5 @@ When the order fulfillment process is in progress, and you receive a request to 
 **Related topics**  
 
 
-[[order-quantity-support|Order quantity support in Order Management]]
+[Order quantity support in Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-quantity-support.md)
 
-## Related
-
-- [[order-quantity-support|Order quantity support]]
-- [[Modify|Modify]]
-- [[cancel|Cancel]]
-- [[reviewing-orchestration-plans-order-fulfillment|Order fulfillment]]
-- [[cpq-sets|Sets]]
-- [[Resume|Resume]]
-- [[order-mgt-order-decomposition|Order decomposition]]

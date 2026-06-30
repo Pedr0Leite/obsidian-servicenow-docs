@@ -22,7 +22,7 @@ Role required: sn\_cwm.cwm\_user
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[cwm-landing|Collaborative Work Management]]**.
+1.  Navigate to **Workspaces** &gt; **Collaborative Work Management**.
 
 2.  From a Space, select a Board for which you want to delete a view.
 
@@ -43,6 +43,3 @@ The view is deleted and no longer available in the view switcher for this Board.
 
 **Parent Topic:**[Board views in CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/board-views-in-cwm.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

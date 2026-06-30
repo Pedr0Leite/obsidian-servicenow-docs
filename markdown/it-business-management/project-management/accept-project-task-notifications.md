@@ -29,7 +29,7 @@ The **Notifications** related list on the project record lists the [external dep
 
 ## Procedure
 
-1.  Open the [[create-a-project-form|project form]].
+1.  Open the project form.
 
 2.  Select the **Notifications** related list.
 
@@ -45,6 +45,3 @@ The **Notifications** related list on the project record lists the [external dep
 
 **Parent Topic:**[Create a project task from a project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateATaskFromAProject.md)
 
-## Related
-
-- [[create-a-project-form|Project form]]

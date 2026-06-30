@@ -12,7 +12,7 @@ breadcrumb: [Installed with Facilities Service Management, Activate Facilities S
 
 # Properties installed with Facilities Service Management
 
-[[FacilitiesLandingPage|Facilities Service Management]] Properties controls the behavior of the Facilities Service Management application.
+Facilities Service Management Properties controls the behavior of the Facilities Service Management application.
 
 Facilities Service Management adds the following properties.
 
@@ -160,15 +160,10 @@ facilities.management.max.agents.processed
 
 </td><td>
 
-Sets the maximum number of agents processed by auto-dispatch at a time. The system has an absolute limit of 300 agents. The system cannot [[t_AutoDispatchATask|auto-dispatch a task]] for a dispatch group that contains more agents than the value configured.-   Type: integer
+Sets the maximum number of agents processed by auto-dispatch at a time. The system has an absolute limit of 300 agents. The system cannot auto-dispatch a task for a dispatch group that contains more agents than the value configured.-   Type: integer
 -   Default value: 100
 -   Location: **Facilities** &gt; **Administration** &gt; **Properties**
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[r_InstallWFacServMgmnt|Installed with Facilities Service Management]]
+</table>**Parent Topic:**[Installed with Facilities Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_InstallWFacServMgmnt.md)
 
-## Related
-
-- [[r_InstallWFacServMgmnt|Installed with Facilities Service Management]]
-- [[FacilitiesLandingPage|Facilities Service Management]]
-- [[t_AutoDispatchATask|Auto-dispatch a task]]

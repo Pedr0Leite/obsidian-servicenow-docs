@@ -22,17 +22,14 @@ Role required: sn\_si.analyst
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sir-landing-page|Security Incident Response]]**.
+1.  Navigate to **Workspaces** &gt; **Security Incident Response**.
 
 2.  Click **SIR Dashboards** icon, displayed on the left side of the workspace home page.
 
 3.  Select **Security Incident Management** from the drop down list.
 
-    \[Omitted image "security-incident-management-dashboard.png"\] Alt text: [[security-incident-mgmt-dashboard|Security Incident Management dashboard]]
+    \[Omitted image "security-incident-management-dashboard.png"\] Alt text: Security Incident Management dashboard
 
     View the Security Incident Management dashboard for further action. For detailed information on Security Incident Management dashboard, see [Security Incident Management dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/security-incident-mgmt-dashboard.md)
 
-## Related
 
-- [[sir-landing-page|Security Incident Response]]
-- [[security-incident-mgmt-dashboard|Security Incident Management dashboard]]

@@ -12,7 +12,7 @@ breadcrumb: [Set up CSM Configurable Workspace, CSM Configurable Workspace, Orga
 
 # Using AI Search with CSM Configurable Workspace
 
-Use the ServiceNow® AI Search application with [[csm-workspaces-configure|CSM Configurable Workspace]].
+Use the ServiceNow® AI Search application with CSM Configurable Workspace.
 
 Starting with the Utah release, the [AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/overview-ais.md) application replaces the Zing search application for CSM Configurable Workspace. To support this feature, the Zing search configurations have been migrated to AI Search.
 
@@ -90,7 +90,7 @@ If you have added, modified, or deleted any search configurations provided out o
 
 Fuzzy matching enables agents to search for records using partial record IDs or incomplete record details and retrieve relevant results. Fuzzy matching identifies similar but not identical elements in data table sets.
 
-AI search in CSM Configurable Workspace supports fuzzy matching with a script. Activating the Customer Service plugin \(com.sn\_customerservice\) automatically runs the script and enables fuzzy match search in both the CSM Configurable Workspace global search and the [[configure-nba|Recommended Actions]] AI search component.
+AI search in CSM Configurable Workspace supports fuzzy matching with a script. Activating the Customer Service plugin \(com.sn\_customerservice\) automatically runs the script and enables fuzzy match search in both the CSM Configurable Workspace global search and the Recommended Actions AI search component.
 
 When fuzzy matching is enabled:
 
@@ -123,7 +123,3 @@ After fuzzy matching is enabled, the system adminisrator needs to re-index the t
 
 [Configuring AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configuring-ais.md)
 
-## Related
-
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[configure-nba|Recommended Actions]]

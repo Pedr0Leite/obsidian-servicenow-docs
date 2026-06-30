@@ -14,12 +14,9 @@ breadcrumb: [Kubernetes Visibility Agent support matrix, Kubernetes Visibility A
 
 # Kubernetes Visibility Agent \(KVA\) Performance Benchmark
 
-Performance tests are available for [[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]] \(KVA\) \(former CNO for Visibility\) to help you estimate the load, memory, CPU, etc., on the Instance as well as on the Kubernetes cluster.
+Performance tests are available for Kubernetes Visibility Agent \(KVA\) \(former CNO for Visibility\) to help you estimate the load, memory, CPU, etc., on the Instance as well as on the Kubernetes cluster.
 
 For the performance results from multiple scenarios that are tested, see the [Performance results for Kubernetes Visibility Agent \[KB1555851\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1555851) article in the Now Support knowledge base.
 
 **Parent Topic:**[Kubernetes Visibility Agent support matrix](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cnov-support-matrix.md)
 
-## Related
-
-- [[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]]

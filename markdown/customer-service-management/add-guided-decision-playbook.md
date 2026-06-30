@@ -24,7 +24,7 @@ A playbook is set of steps that defines a process. A decision tree can be added 
 
 Playbooks are displayed in cases on Agent Workspace based on trigger definitions defined for each playbook in the Process Automation Designer. For more details, see [Process Automation Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/process-automation-designer.md). Based on the context of the case the customer service agent is working on, the playbook and any associated decision trees are displayed.
 
-For more details on playbooks for [[c_CustomerServiceManagement|Customer Service Management]], see [[customer-service-case-playbooks|Playbooks for Customer Service Management]].
+For more details on playbooks for Customer Service Management, see [Playbooks for Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-case-playbooks.md).
 
 ## Procedure
 
@@ -94,13 +94,7 @@ The decision tree is added to the playbook. Depending on the context of the case
 **Related topics**  
 
 
-[[setting-up-guided-decisions|Configuring Guided Decisions]]
+[Configuring Guided Decisions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/setting-up-guided-decisions.md)
 
-[[configuring-guided-decisions|Configuring guidances and decision trees]]
+[Configuring guidances and decision trees](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configuring-guided-decisions.md)
 
-## Related
-
-- [[customer-service-case-playbooks|Playbook capabilities]]
-- [[setting-up-guided-decisions|Configuring Guided Decisions]]
-- [[configuring-guided-decisions|Configuring guidances and decision trees]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

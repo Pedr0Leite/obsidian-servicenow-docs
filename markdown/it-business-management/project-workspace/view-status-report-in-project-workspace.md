@@ -14,7 +14,7 @@ breadcrumb: [Create a status report in Project Workspace, Managing projects with
 
 # Analyze the status report in Project Workspace
 
-Observe a status report in [[project-workspace-landing-page|Project Workspace]] for your project to learn about project health, metrics, risks, issues, and milestones.
+Observe a status report in Project Workspace for your project to learn about project health, metrics, risks, issues, and milestones.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ The following are the headers in a report created using the Default status repor
 |Overview|View a high-level summary of the project, including key details such as phase, health, and % completion.|
 |Key Milestones|Track critical project milestones, comparing planned vs actual dates and identifying any variances.|
 |Cost \(Planned vs Actual\)|Compare planned project costs to actual expenditures over time, helping identify budget deviations.|
-|Resources \(Allocated vs Actual\)|Analyze planned [[r_AllocatingResources|resource allocation]] versus actual usage, helping identify resource over/under-utilization.|
+|Resources \(Allocated vs Actual\)|Analyze planned resource allocation versus actual usage, helping identify resource over/under-utilization.|
 |Schedule|Evaluate the project’s timeline, identifying delays and comparing planned vs actual task completion.|
 |Risks|Assess potential risks, their probability, impact, and current mitigation plans.|
 |Issues|Identify ongoing issues affecting the project, with ownership and target resolution dates.|
@@ -67,7 +67,3 @@ You can also compare two reports to compare and analyze the progress.
 
 [Add dynamic content to status report in Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/add-dynamic-content-to-status-report-in-pw.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]
-- [[r_AllocatingResources|Resource allocation]]

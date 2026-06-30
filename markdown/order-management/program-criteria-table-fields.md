@@ -16,7 +16,7 @@ Establish a mapping between the partner program \(sn\_prm\_partner\_program\_rel
 
 <table id="table_r1y_hpb_fhc"><thead><tr><th>
 
-[[fields|Fields]]
+Fields
 
 </th><th>
 
@@ -63,18 +63,12 @@ True/False
 Current state of the program criteria, whether active or not
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[partner-relationship-management-reference|Partner Relationship Management reference]]
+</table>**Parent Topic:**[Partner Relationship Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/partner-relationship-management-reference.md)
 
 **Related topics**  
 
 
-[[program-segment-mapping-table-fields|Program segment mapping table fields]]
+[Program segment mapping table fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/program-segment-mapping-table-fields.md)
 
-[[program-segment-criteria-table-fields|Program segment criteria table fields]]
+[Program segment criteria table fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/program-segment-criteria-table-fields.md)
 
-## Related
-
-- [[partner-relationship-management-reference|Partner Relationship Management reference]]
-- [[program-segment-mapping-table-fields|Program segment mapping table fields]]
-- [[program-segment-criteria-table-fields|Program segment criteria table fields]]
-- [[fields|Fields]]

@@ -14,7 +14,7 @@ breadcrumb: [Field Service Contractor for mobile, ServiceNow Agent mobile app, C
 
 # Request inventory using the Field Service Contractor for mobile application
 
-[[request-inventory|Request inventory]] to receive parts when your stock gets low or you need a part for a particular work order.
+Request inventory to receive parts when your stock gets low or you need a part for a particular work order.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ You can request the required parts from your group or personal stockroom. If you
 
 4.  Tap on the **Parts** tab.
 
-5.  Under [[c_PartRequirements|part requirements]], tap **Create Part Requirement**.
+5.  Under part requirements, tap **Create Part Requirement**.
 
 6.  Tap **Model**.
 
@@ -73,7 +73,3 @@ You can request the required parts from your group or personal stockroom. If you
 
 The Part Requirements and Transfer Orders related lists are updated automatically in the work order task form.
 
-## Related
-
-- [[request-inventory|Request inventory]]
-- [[c_PartRequirements|Part requirements]]

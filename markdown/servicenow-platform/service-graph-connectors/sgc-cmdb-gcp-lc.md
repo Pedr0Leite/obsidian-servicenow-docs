@@ -14,9 +14,9 @@ breadcrumb: [Reference, GCP, Service Graph Connectors, Integrating third-party d
 
 # Life cycle management of records in Service Graph Connector for GCP
 
-Life cycle management in the in the [[sgc-cmdb-integration-gcp|Service Graph Connector for GCP]] monitors and updates the statuses of GCP resources throughout their entire life cycle, from creation to deletion.
+Life cycle management in the in the Service Graph Connector for GCP monitors and updates the statuses of GCP resources throughout their entire life cycle, from creation to deletion.
 
-The life cycle management process helps maintain the accuracy and integrity of data in the [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]].
+The life cycle management process helps maintain the accuracy and integrity of data in the Configuration Management Database \(CMDB\).
 
 In life cycle management, the record removal process involves systematically deleting obsolete or unnecessary resources. This step ensures that outdated entries are cleared, keeping the CMDB accurate and up-to-date. See [Record removal process in Service Graph Connector for GCP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-gcp-removal.md).
 
@@ -236,7 +236,7 @@ Yes
 
 </td></tr><tr><td>
 
-[[ip-address|IP Address]] \[cmdb\_ci\_ip\_address\]
+IP Address \[cmdb\_ci\_ip\_address\]
 
 </td><td>
 
@@ -617,8 +617,3 @@ Not applicable
 </td></tr></tbody>
 </table>**Parent Topic:**[Service Graph Connector for GCP reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-gcp-reference.md)
 
-## Related
-
-- [[sgc-cmdb-integration-gcp|Service Graph Connector for GCP]]
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[ip-address|IP Address]]

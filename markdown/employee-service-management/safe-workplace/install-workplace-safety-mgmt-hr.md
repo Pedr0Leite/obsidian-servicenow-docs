@@ -14,7 +14,7 @@ breadcrumb: [Workplace Core, Safe Workplace, Health and Safety, Employee Service
 
 # Install Workplace Core
 
-You can install the [[workplace-safety-mgmt-hr|Workplace Core]] application if you have the admin role. This application includes optional demo data.
+You can install the Workplace Core application if you have the admin role. This application includes optional demo data.
 
 ## Before you begin
 
@@ -44,7 +44,7 @@ Federal hosted
 
 </td><td>
 
-See the [Federal downloads for the [[emergency-response-management|Emergency Response Management]] and [[safe-workplace|Safe Workplace]] suite apps \[KB0030260\]](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030260) article in the Store Help Center for more information.
+See the [Federal downloads for the Emergency Response Management and Safe Workplace suite apps \[KB0030260\]](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030260) article in the Store Help Center for more information.
 
 </td></tr><tr><td>
 
@@ -67,19 +67,19 @@ See the [Commercial downloads for the Emergency Response Management and Safe Wor
 </td></tr></tbody>
 </table>If you've subscribed to the Safe Workplace suite and you already have some of the apps installed, refer to the following order of installation for the remaining apps.
 
--   [[emergency-outreach|Emergency Outreach]] \(sn\_imt\_checkin\)
--   [[employee-health-screening|Employee Health Screening]] \(sn\_imt\_monitoring\)
--   [[ppe-inventory-management|Workplace PPE Inventory Management]] \(sn\_imt\_ppe\)
--   [[employee-readiness-surveys|Employee Readiness Surveys]] \(sn\_imt\_readiness\)
+-   Emergency Outreach \(sn\_imt\_checkin\)
+-   Employee Health Screening \(sn\_imt\_monitoring\)
+-   Workplace PPE Inventory Management \(sn\_imt\_ppe\)
+-   Employee Readiness Surveys \(sn\_imt\_readiness\)
 -   COVID-19 Global Health Data Set \(sn\_imt\_c19datafeed\)
--   [[contact-tracing|Contact Tracing]] \(sn\_imt\_tracing\)
--   [[emergency-self-report|Emergency Self Report]] \(sn\_imt\_quarantine\)
+-   Contact Tracing \(sn\_imt\_tracing\)
+-   Emergency Self Report \(sn\_imt\_quarantine\)
 -   Workplace Core \(sn\_wsd\_core\)
--   [[safe-workplace-dashboard|Safe Workplace Dashboard]] \(sn\_imt\_dashboard\)
+-   Safe Workplace Dashboard \(sn\_imt\_dashboard\)
 -   Emergency Response Management for Now Mobile \(sn\_imt\_mobile\)
--   [[employee-travel-safety|Employee Travel Safety]] \(sn\_imt\_travel\)
--   [[health-safety-testing|Health and Safety Testing]] \(sn\_imt\_health\_test\)
--   [[vaccination-status|Vaccination Status]] \(sn\_imt\_vaccine\)
+-   Employee Travel Safety \(sn\_imt\_travel\)
+-   Health and Safety Testing \(sn\_imt\_health\_test\)
+-   Vaccination Status \(sn\_imt\_vaccine\)
 
 ## About this task
 
@@ -122,18 +122,3 @@ Customize the properties available with Workplace Core.
 
 **Parent Topic:**[Workplace Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/workplace-safety-mgmt-hr.md)
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[emergency-response-management|Emergency Response Management]]
-- [[safe-workplace|Safe Workplace]]
-- [[emergency-outreach|Emergency Outreach]]
-- [[employee-health-screening|Employee Health Screening]]
-- [[ppe-inventory-management|Workplace PPE Inventory Management]]
-- [[employee-readiness-surveys|Employee Readiness Surveys]]
-- [[contact-tracing|Contact Tracing]]
-- [[emergency-self-report|Emergency Self Report]]
-- [[safe-workplace-dashboard|Safe Workplace Dashboard]]
-- [[employee-travel-safety|Employee Travel Safety]]
-- [[health-safety-testing|Health and Safety Testing]]
-- [[vaccination-status|Vaccination Status]]

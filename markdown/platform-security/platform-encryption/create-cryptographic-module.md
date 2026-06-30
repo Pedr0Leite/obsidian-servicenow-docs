@@ -14,17 +14,17 @@ breadcrumb: [Configuring the Key Management Framework, Key Management Framework,
 
 # Create a cryptographic module
 
-Create a cryptographic module to define the mechanisms used for cryptographic operations. After you create the module, you [[create-crypto-spec|create a cryptographic specification]], where you define an algorithm for [[encryption-landing|encryption]] and generates a key.
+Create a cryptographic module to define the mechanisms used for cryptographic operations. After you create the module, you create a cryptographic specification, where you define an algorithm for encryption and generates a key.
 
 ## Before you begin
 
-If you're supplying your own keys, go to [[upload-customer-supplied-key|Configure and upload your customer supplied key]].
+If you're supplying your own keys, go to [Configure and upload your customer supplied key](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/upload-customer-supplied-key.md).
 
 Role required: sn\_kmf.cryptographic\_manager
 
 ## About this task
 
-This procedure describes options that are available with KMF in the ServiceNow platform base system. [[now-platform-encryption|Field Encryption Enterprise]] functionality is available only when the com.glide.now.platform.encryption plugin is active. See [[activate-platform-encryption|Activate Field Encryption]] for more information on obtaining Field Encryption Enterprise. See [[create-PE-cryptographic-module|Create cryptographic module for Field Encryption]].
+This procedure describes options that are available with KMF in the ServiceNow platform base system. Field Encryption Enterprise functionality is available only when the com.glide.now.platform.encryption plugin is active. See [Activate Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/activate-platform-encryption.md) for more information on obtaining Field Encryption Enterprise. See [Create cryptographic module for Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/create-PE-cryptographic-module.md).
 
 **Note:** Cryptographic module \[sys\_kmf\_crypto\_module\] records can't be deleted.
 
@@ -91,16 +91,16 @@ Crypto module life-cycle state
 
 </td><td>
 
-Life cycle refers to the creation, use, and deactivation of a cryptographic module. Set to **Draft** initially during [[sc-configuration|configuration]]. When using the module, set this field to **Published**. The Default template is automatically set to Published.
+Life cycle refers to the creation, use, and deactivation of a cryptographic module. Set to **Draft** initially during configuration. When using the module, set this field to **Published**. The Default template is automatically set to Published.
 
 </td></tr></tbody>
 </table>3.  Select **Submit**.
 
     **Warning:**
 
-    -   **For legacy encryption support [[users|users]]:**
+    -   **For legacy encryption support users:**
 
-        If you're using the non-enterprise version of [[field-encryption|Field Encryption]], you're limited to five modules. If you've exceeded this limit, you receive the following warning:
+        If you're using the non-enterprise version of Field Encryption, you're limited to five modules. If you've exceeded this limit, you receive the following warning:
 
         This insertion exceeds the number of published modules limit for Field Encryption entitled with the Subscription Product. The Enterprise subscription for Field Encryption is required for additional modules. Please reach out to your Account team.
 
@@ -122,14 +122,3 @@ Follow this procedure to upload and configure a ServiceNow cryptographic key to 
 
 **Parent Topic:**[Configuring the Key Management Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/configure-kmf.md)
 
-## Related
-
-- [[upload-customer-supplied-key|Configure and upload your customer supplied key]]
-- [[activate-platform-encryption|Activate Field Encryption]]
-- [[create-PE-cryptographic-module|Create cryptographic module for Field Encryption]]
-- [[create-crypto-spec|Create a cryptographic specification]]
-- [[encryption-landing|Encryption]]
-- [[now-platform-encryption|Field Encryption Enterprise]]
-- [[sc-configuration|Configuration]]
-- [[users|Users]]
-- [[field-encryption|Field Encryption]]

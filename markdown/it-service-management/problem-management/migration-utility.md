@@ -14,12 +14,12 @@ breadcrumb: [Configuring Problem Management, Problem Management, IT Service Mana
 
 # Migration Utility
 
-The [[c_ProblemManagement|Problem Management]] Migration Utility, available in the ServiceNow® Store, is a guided setup application that helps you upgrade to adopt the base version of Problem Management using the guided problem life cycle.
+The Problem Management Migration Utility, available in the ServiceNow® Store, is a guided setup application that helps you upgrade to adopt the base version of Problem Management using the guided problem life cycle.
 
 **Important:**
 
 -   You only need to use the migration utility if you started using ServiceNow before the Madrid release and you want to adopt the guided problem life cycle, as that was included for new customers starting from Madrid.
--   If you run into issues or need additional help with resolving your [[migration-utility-modification|modifications]], contact your ServiceNow Account Representative or ServiceNow Solution Consultant. You might need help from ServiceNow Customer Outcomes or a partner.
+-   If you run into issues or need additional help with resolving your modifications, contact your ServiceNow Account Representative or ServiceNow Solution Consultant. You might need help from ServiceNow Customer Outcomes or a partner.
 
 The migration utility consists of several guided activities:
 
@@ -39,7 +39,4 @@ The migration utility consists of several guided activities:
 
     The guided setup activity guides you through the manual clean-up activities after you have completed the main migration.
 
-## Related
 
-- [[c_ProblemManagement|Problem Management]]
-- [[migration-utility-modification|Modifications]]

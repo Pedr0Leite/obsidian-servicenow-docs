@@ -14,7 +14,7 @@ breadcrumb: [OAuth Code Grant, Inbound integrations, OAuth Inbound, OAuth authen
 
 # Configure an OAuth authorization code grant
 
-Configure the [[oauth-inbound-and-outbound|OAuth]] [[authorization-code-grant|authorization code grant]] to enable secure and interactive user [[c_Authentication|authentication]] to enable applications to access resources on behalf of [[users|users]]. The OAuth authorization code grant verifies that the API access is granted based on the user [[identity-landing|identity]] and permissions.
+Configure the OAuth authorization code grant to enable secure and interactive user authentication to enable applications to access resources on behalf of users. The OAuth authorization code grant verifies that the API access is granted based on the user identity and permissions.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: `oauth_admin, mi_admin, admin`
 
 ## Procedure
 
-1.  Navigate to **[[machine-identity-console|Machine Identity Console]]** &gt; **[[inbound-integrations|Inbound integrations]]** &gt; **New integration** &gt; **** &gt; **OAuth authorization code grant**.
+1.  Navigate to **Machine Identity Console** &gt; **Inbound integrations** &gt; **New integration** &gt; **** &gt; **OAuth authorization code grant**.
 
     The New Record page appears.
 
@@ -103,7 +103,7 @@ Description
 
 </td><td>
 
-The Enforce token restriction option limits the client to accessing only the APIs specified in the [[inbound-authentication-profile|REST API Access Policies]]. If you unselect it, the client can access other REST APIs based on the user ACL permissions.
+The Enforce token restriction option limits the client to accessing only the APIs specified in the REST API Access Policies. If you unselect it, the client can access other REST APIs based on the user ACL permissions.
 
 </td></tr><tr><td>
 
@@ -152,7 +152,7 @@ HTTP redirection endpoint to authenticate with the authorization server.
 Web address of an image that represents the application during the authentication and authorization process. It’s displayed on the authorization server's consent screen to help you recognize the requesting application.
 
 </td></tr></tbody>
-</table>    Enforcing token restriction applies limitations on how an OAuth access token can be used, enhancing security by verifying that tokens are valid only under specific conditions. Enable the **Enforce token restriction** check box to limit OAuth access tokens to specific APIs defined in the [[api-access-policy|API access policy]]. If the Enforce token restriction is turned off, the token can be used across other REST APIs.
+</table>    Enforcing token restriction applies limitations on how an OAuth access token can be used, enhancing security by verifying that tokens are valid only under specific conditions. Enable the **Enforce token restriction** check box to limit OAuth access tokens to specific APIs defined in the API access policy. If the Enforce token restriction is turned off, the token can be used across other REST APIs.
 
 5.  Select **Create new auth scope** to add a new auth scope.
 
@@ -162,14 +162,4 @@ Web address of an image that represents the application during the authenticatio
 
 7.  Go to **All** &gt; **Inbound integrations** &gt; **Application Registries** to view the newly created OAuth authorization code grant.
 
-## Related
 
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[authorization-code-grant|Authorization code grant]]
-- [[c_Authentication|Authentication]]
-- [[users|Users]]
-- [[identity-landing|Identity]]
-- [[machine-identity-console|Machine Identity Console]]
-- [[inbound-integrations|Inbound integrations]]
-- [[inbound-authentication-profile|REST API access policies]]
-- [[api-access-policy|API access policy]]

@@ -14,7 +14,7 @@ breadcrumb: [Configuring Event Management, Event Management, ITOM AIOps, IT Oper
 
 # Install Event Management
 
-Retrieve the most updated apps for the [[c_EM|Event Management]] application \(com.glideapp.itom.snac\) in the ServiceNow® Store. Periodically check the ServiceNow® Store for new app versions.
+Retrieve the most updated apps for the Event Management application \(com.glideapp.itom.snac\) in the ServiceNow® Store. Periodically check the ServiceNow® Store for new app versions.
 
 ## Before you begin
 
@@ -35,7 +35,7 @@ For more information, see [Components installed with Event Management](https://r
 
 1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
-2.  Find the [[itom-health-landing-page|ITOM AIOps]] application using the filter criteria and search bar.
+2.  Find the ITOM AIOps application using the filter criteria and search bar.
 
     If you cannot find the application, request it from the ServiceNow Store.
 
@@ -51,7 +51,4 @@ For more information, see [Components installed with Event Management](https://r
 
 5.  Select **Install**.
 
-## Related
 
-- [[c_EM|Event Management]]
-- [[itom-health-landing-page|ITOM AIOps]]

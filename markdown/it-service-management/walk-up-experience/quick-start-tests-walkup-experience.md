@@ -14,7 +14,7 @@ breadcrumb: [Walk-up Experience reference, Walk-up Experience, IT Service Manage
 
 # Quick start tests for Walk-up Experience
 
-Validate that [[walkup-experience-landing-page|Walk-up Experience]] still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
+Validate that Walk-up Experience still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
 
 Walk-up Experience quick start tests require activating the Walk-up Experience plugin \(com.snc.walkup\) and loading demo data.
 
@@ -30,6 +30,3 @@ Walk-up Experience quick start tests require activating the Walk-up Experience p
 
 [Quick start tests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/quick-start-tests.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]

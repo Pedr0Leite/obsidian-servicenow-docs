@@ -14,7 +14,7 @@ breadcrumb: [Getting started with Service Operations Workspace for ITSM, Configu
 
 # Configure the theme for Service Operations Workspace for ITSM
 
-Configure the visual experience in [[sow-landing-page|Service Operations Workspace for ITSM]] for your users, helping to update the look and feel to be more like your brand.
+Configure the visual experience in Service Operations Workspace for ITSM for your users, helping to update the look and feel to be more like your brand.
 
 ## Before you begin
 
@@ -44,6 +44,4 @@ Role required: admin
 
 6.  Select **Apply**.
 
-## Related
 
-- [[sow-landing-page|Service Operations Workspace for ITSM]]

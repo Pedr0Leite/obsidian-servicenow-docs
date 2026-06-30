@@ -14,7 +14,7 @@ breadcrumb: [Components installed with Notify, Notify reference, Notify, Manage 
 
 # Properties installed with Notify
 
-[[notify-landing-page|Notify]] adds the following properties.
+Notify adds the following properties.
 
 <table id="table_adn_xgq_4y"><thead><tr><th>
 
@@ -107,6 +107,3 @@ Specify a valid Notify Number with voice capability. This will enable a specific
 </td></tr></tbody>
 </table>**Parent Topic:**[Components installed with Notify](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/installed-with-notify2.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]

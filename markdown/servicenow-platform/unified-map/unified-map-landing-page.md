@@ -14,7 +14,7 @@ breadcrumb: [Configuration Management Database \(CMDB\), Configuration Managemen
 
 # Unified Map
 
-The [[cmdb-workspace-unified-map|Unified Map]] feature displays a graphical hierarchical map of the CMDB — CIs and the connections between them. Unified Map combines some of the capabilities of [[c_BusinesssServiceManagementMaps|Dependency Views]] and of Service Mapping into a single map experience.
+The Unified Map feature displays a graphical hierarchical map of the CMDB — CIs and the connections between them. Unified Map combines some of the capabilities of Dependency Views and of Service Mapping into a single map experience.
 
 ## Get started
 
@@ -32,8 +32,3 @@ Explore[\[Omitted image "bus-explore.svg"\] Alt text:Explore map tools and contr
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cmdb-workspace-unified-map|Unified Map]]
-- [[c_BusinesssServiceManagementMaps|Dependency Views]]

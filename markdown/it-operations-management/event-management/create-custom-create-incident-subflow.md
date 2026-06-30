@@ -14,7 +14,7 @@ breadcrumb: [Alert management rules for resolving alerts, Manage and monitor ale
 
 # Create a custom subflow for alerts
 
-You can create a subflow according to your requirements. For example, you can resolve alerts, notify teams, or [[ccg-run-remediation|run remediation]] actions.
+You can create a subflow according to your requirements. For example, you can resolve alerts, notify teams, or run remediation actions.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Copy an existing subflow, and then customize it. Publish the custom subflow so t
 
 **Note:** If your ServiceNow instance uses domain separation, you must ensure that the new custom subflow that you created operates only on the data of the designated domain.
 
-To automate alert responses with an easier interface, you can also create a respond automation in [[workspace-dashboard-use|Service Operations Workspace]]. For more information, see [Create Respond automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/respond-alert-sow-itom.md).
+To automate alert responses with an easier interface, you can also create a respond automation in Service Operations Workspace. For more information, see [Create Respond automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/respond-alert-sow-itom.md).
 
 ## Procedure
 
@@ -95,7 +95,3 @@ Include the modified subflow in an alert management rule to resolve alerts accor
 
 [Subflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/subflows.md)
 
-## Related
-
-- [[ccg-run-remediation|Run remediation]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

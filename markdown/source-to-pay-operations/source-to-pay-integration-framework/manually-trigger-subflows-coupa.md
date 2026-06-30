@@ -22,9 +22,9 @@ Role required: sn\_fcms\_intg.integration\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Finance – ERP Integration** &gt; **[[erp-source-configuration|ERP Source Configuration]]**.
+1.  Navigate to **All** &gt; **Finance – ERP Integration** &gt; **ERP Source Configuration**.
 
-2.  In the ERP Configurations view, select the **Coupa** [[erp-source|ERP source]] to trigger the flows or subflows manually.
+2.  In the ERP Configurations view, select the **Coupa** ERP source to trigger the flows or subflows manually.
 
 3.  In the Integration Services list, select the subflows that you want to trigger manually.
 
@@ -48,7 +48,3 @@ To view the status of the executed flow and a list of errors \(if any\), see [Vi
 
 [Copy a flow or subflow in Coupa]()
 
-## Related
-
-- [[erp-source-configuration|ERP source configuration]]
-- [[erp-source|ERP source]]

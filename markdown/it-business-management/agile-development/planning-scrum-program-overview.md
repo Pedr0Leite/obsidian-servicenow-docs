@@ -90,7 +90,7 @@ Agile Board has a program planning board where you can plan, schedule, and revie
 
     Enable you to see the stories of the epics from your scrum program in the form of cards. You can move these cards around to assign them to teams and to plan them into sprints.
 
-    If you have activated the [[unified-backlog|Agile Development — Unified Backlog]] plugin \(com.snc.sdlc.agile.multi\_task\), you can also see stories that were added from the triage board to your unified backlog. From the planning board, you can double-click a story card to open it in a pop-up window and edit its details. If the story is created from a record on the triage board, such as a defect, you can see both the story information and the defect information side-by-side.
+    If you have activated the Agile Development — Unified Backlog plugin \(com.snc.sdlc.agile.multi\_task\), you can also see stories that were added from the triage board to your unified backlog. From the planning board, you can double-click a story card to open it in a pop-up window and edit its details. If the story is created from a record on the triage board, such as a defect, you can see both the story information and the defect information side-by-side.
 
     **Note:** Stories can be created from enhancements, defects, incidents, or other such records only if you have activated the Agile Development — Unified Backlog plugin \(com.snc.sdlc.agile.multi\_task\).
 
@@ -118,6 +118,3 @@ Add sprints to your scrum teams directly from the scrum program planning board w
 
 **Parent Topic:**[Scrum Programs for Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/scrum-programs-concept.md)
 
-## Related
-
-- [[unified-backlog|Agile Development — Unified Backlog]]

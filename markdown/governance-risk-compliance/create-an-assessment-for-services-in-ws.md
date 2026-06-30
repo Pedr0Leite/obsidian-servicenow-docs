@@ -20,13 +20,13 @@ Role required: sn\_oper\_res.user, sn\_oper\_res.manager
 
 ## About this task
 
-[[grc-opres-landing-page|Operational Resilience]] Managers \(sn\_oper\_res.manager\) have the Smart Assessment reader role \(sn\_smart\_asmt.assessment\_reader\). They have read-only access to the Smart Assessment template, enabling them to view but not create or edit it.
+Operational Resilience Managers \(sn\_oper\_res.manager\) have the Smart Assessment reader role \(sn\_smart\_asmt.assessment\_reader\). They have read-only access to the Smart Assessment template, enabling them to view but not create or edit it.
 
 ## Procedure
 
 1.  Navigate to **Workspaces** &gt; **Operational Resilience Workspace** &gt; **List** &gt; **Importance and impact tolerance assessment** &gt; **All assessments**.
 
-    The Importance and impact tolerance assessments \(IIA\) in the Operational Resilience application are displayed in the All assessments [[list-view-uib-ws|list view]] as shown in the following example.
+    The Importance and impact tolerance assessments \(IIA\) in the Operational Resilience application are displayed in the All assessments list view as shown in the following example.
 
     \[Omitted image "list-view-of-assessments.png"\] Alt text: List view in the All assessments form.
 
@@ -40,7 +40,7 @@ Role required: sn\_oper\_res.user, sn\_oper\_res.manager
 
     You can select the following types of assessment in the **Assessment template** field:
 
-    -   Smart Assessment: You can add multiple smart [[airc-assessment-templates|assessment templates]] for the `Assessment type: Smart assessment` in the **Smart assessment templates** field.
+    -   Smart Assessment: You can add multiple smart assessment templates for the `Assessment type: Smart assessment` in the **Smart assessment templates** field.
     -   Legacy Assessment: You can add a single assessment template for the `Assessment type: Legacy assessment` in the **Assessment template** field.
 <table id="choicetable_ltj_f4q_xfc"><thead><tr><th align="left" id="d196407e176">
 
@@ -56,7 +56,7 @@ Description
 
 </td><td>
 
-Smart Assessment method for performing the importance and impact tolerance assessment using the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]].
+Smart Assessment method for performing the importance and impact tolerance assessment using the Smart Assessment Engine.
 
  To perform Smart Assessment and measure the importance and impact tolerance, the base version includes the following templates. You can select one or multiple templates:
 
@@ -78,7 +78,7 @@ Only when these conditions are met, the template is available for selection in t
 
  Operational Resilience administrators can edit or create Smart Assessment templates in the base version and update their automation logic to suit the business needs.
 
- **Note:** For information on setting up Smart Assessment templates, see [[create-sm-asmt-temp-as-ws|Create a Smart Assessment template]] and [Create an assessment template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-asmnt-template-create.md).
+ **Note:** For information on setting up Smart Assessment templates, see [Create a Smart Assessment template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-sm-asmt-temp-as-ws.md) and [Create an assessment template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-asmnt-template-create.md).
 
 </td></tr><tr><td id="d196407e324">
 
@@ -95,7 +95,7 @@ Legacy assessment method for performing the importance and impact tolerance asse
 
     **Note:** The approver must be a user other than the owner and assessor.
 
-    For a description of the field values on the Importance and impact tolerance assessment form, see [[importance-and-impact-tolerance-assessment-reference-in-ws|Create New Importance and impact tolerance assessment form]].
+    For a description of the field values on the Importance and impact tolerance assessment form, see [Create New Importance and impact tolerance assessment form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/importance-and-impact-tolerance-assessment-reference-in-ws.md).
 
 6.  In the **Assessment due date** field under the Milestones panel, select the due date for the assessment.
 
@@ -124,14 +124,5 @@ Legacy assessment method for performing the importance and impact tolerance asse
 
 ## What to do next
 
-Add scope for the assessment. For more information, see [[submit-an-assessment-in-ws|Define the scope and begin the assessment]].
+Add scope for the assessment. For more information, see [Define the scope and begin the assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/submit-an-assessment-in-ws.md).
 
-## Related
-
-- [[create-sm-asmt-temp-as-ws|Create a Smart Assessment template]]
-- [[importance-and-impact-tolerance-assessment-reference-in-ws|Create New Importance and impact tolerance assessment form]]
-- [[submit-an-assessment-in-ws|Define the scope and begin the assessment]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[list-view-uib-ws|List view]]
-- [[airc-assessment-templates|Assessment templates]]
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]

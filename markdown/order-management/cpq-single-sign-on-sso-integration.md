@@ -26,7 +26,7 @@ Note the following considerations:
 -   CPQ is not compatible with SAML.
 -   Your IdP client must be up to date.
 -   Users who have been added to CPQ before SSO was implemented may need to be added again.
--   These steps are not required if you are [[cpq-using|using CPQ]] with Salesforce.
+-   These steps are not required if you are using CPQ with Salesforce.
 
 ## Configuring Google SSO
 
@@ -72,7 +72,7 @@ Optionally, add an app role for the users whom you wish to test with. For more i
 
 On the SSO Setup Request Form, provide the client ID, Authority URL, and redirect URl together with user details \(email, name\) for the users you wish to test with. The CPQ team will schedule a brief call with you to obtain your client secret.
 
-By default, each user’s emails will act as their identifiers, but it may be possible to use a different identifier in a user profile. The [[fields|fields]] that can be used as identifiers are limited by what’s available at the `user_info` endpoint defined in the well-known/openid-configuration URL described above. For more information about the `user_info` endpoint, see the following Microsoft Entra documentation website: [Microsoft identity platform UserInfo endpoint](https://learn.microsoft.com/en-us/entra/identity-platform/userinfo).
+By default, each user’s emails will act as their identifiers, but it may be possible to use a different identifier in a user profile. The fields that can be used as identifiers are limited by what’s available at the `user_info` endpoint defined in the well-known/openid-configuration URL described above. For more information about the `user_info` endpoint, see the following Microsoft Entra documentation website: [Microsoft identity platform UserInfo endpoint](https://learn.microsoft.com/en-us/entra/identity-platform/userinfo).
 
 Once your CPQ point of contact has confirmed that setup is complete, try to visit your tenant-specific CPQ URL. You should see a redirect flow that brings you to an Entra ID consent screen to allow access to your CPQ app.
 
@@ -106,7 +106,3 @@ In your manifest, set the **acceptMappedClaims** parameter to **true** in your m
 
 CPQ can now support SSO with any IdP that supports OAuth2 with OpenID Connect \(OIDC\). In the SSO Setup Request Form, provide details about your preferred IdP tool and our team will connect with you to ensure it is properly integrated with CPQ.
 
-## Related
-
-- [[cpq-using|Using CPQ]]
-- [[fields|Fields]]

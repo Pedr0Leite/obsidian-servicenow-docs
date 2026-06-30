@@ -14,7 +14,7 @@ breadcrumb: [Configuring Knowledge Management, Knowledge Management, Manage cont
 
 # Knowledge Management setup guide for admins
 
-Before users in your organization can start creating knowledge bases and knowledge articles, you must set up [[knowledge-management|Knowledge Management]]. Work with stakeholders to define requirements for setting up Knowledge Management effectively to meet the needs of users.
+Before users in your organization can start creating knowledge bases and knowledge articles, you must set up Knowledge Management. Work with stakeholders to define requirements for setting up Knowledge Management effectively to meet the needs of users.
 
 ## Requirements
 
@@ -48,7 +48,7 @@ Role required: admin.
 
     Determine which [Knowledge Management roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/r_KnowledgeRoles.md) are appropriate for each user, and then [assign those roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AssignARoleToAUser.md) .
 
--   **Create custom [[r_KnowledgeWorkflows|Knowledge workflows]]**
+-   **Create custom Knowledge workflows**
 
     If the default [knowledge workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/r_KnowledgeWorkflows.md) for publishing and retiring knowledge articles are not appropriate for your knowledge bases, create custom [workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/c_WorkflowOverview.md) for those knowledge bases.
 
@@ -77,7 +77,3 @@ For more information about using the guided setup interface, see [Using guided s
 
 **Parent Topic:**[Configuring Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/configuring-knowledge-management.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]
-- [[r_KnowledgeWorkflows|Knowledge workflows]]

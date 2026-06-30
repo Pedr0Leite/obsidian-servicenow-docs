@@ -12,7 +12,7 @@ breadcrumb: [Service Graph Connector for ServiceNow Operational Technology \(OT\
 
 # Review additional Service Graph Connector for ServiceNow Operational Technology \(OT\) Discovery records
 
-After completing the [[sgc-ot-discovery|Service Graph Connector for ServiceNow Operational Technology \(OT\) Discovery]] Guided Setup, review the unknown devices and log records.
+After completing the Service Graph Connector for ServiceNow Operational Technology \(OT\) Discovery Guided Setup, review the unknown devices and log records.
 
 ## Before you begin
 
@@ -44,9 +44,6 @@ These are optional tasks.
 
     The table lists a creation date, what the level of the message is, whether information or warning, and the source of the entry.
 
-7.  Use the items in the menu to review information from the [[sgc-ot-discovery-guided-setup|Service Graph Connector for ServiceNow OT Discovery Guided Setup]] settings.
+7.  Use the items in the menu to review information from the Service Graph Connector for ServiceNow OT Discovery Guided Setup settings.
 
-## Related
 
-- [[sgc-ot-discovery|Service Graph Connector for ServiceNow Operational Technology \(OT\) Discovery]]
-- [[sgc-ot-discovery-guided-setup|Service Graph Connector for ServiceNow OT Discovery Guided Setup]]

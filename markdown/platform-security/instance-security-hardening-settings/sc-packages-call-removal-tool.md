@@ -56,10 +56,7 @@ The Packages Call Removal Tool might report some package calls used in `sa_mappi
 
     \[Omitted image "packages-call-removal-tool3.png"\] Alt text: Packages call removal tool 3
 
-4.  To check inclusion list package calls and inclusion list member calls, complete the actions outlined in the Steps to Configure sections in [Restrict allowed Java packages \[Updated in [[sec-center-v2|Security Center]] 1.3\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-java-packages-allowlist.md).
+4.  To check inclusion list package calls and inclusion list member calls, complete the actions outlined in the Steps to Configure sections in [Restrict allowed Java packages \[Updated in Security Center 1.3\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-java-packages-allowlist.md).
 
 **Parent Topic:**[Restrict allowed Java packages \[Updated in Security Center 1.3\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-java-packages-allowlist.md)
 
-## Related
-
-- [[sec-center-v2|Security Center]]

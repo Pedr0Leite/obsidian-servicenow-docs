@@ -63,7 +63,7 @@ Automatic Event Creation Profile
 Event creation profile that is used to create the automatic event.Click the profile to view the Automatic MISP Event Creation Profile.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[misp-administration|MISP administration]]
+</table>**Parent Topic:**[MISP administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/misp-administration.md)
 
 **Related topics**  
 
@@ -86,6 +86,3 @@ Event creation profile that is used to create the automatic event.Click the prof
 
 [Troubleshooting MISP integration]()
 
-## Related
-
-- [[misp-administration|MISP administration]]

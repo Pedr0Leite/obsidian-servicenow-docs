@@ -13,7 +13,7 @@ breadcrumb: [Configure multilingual service for Now Assist applications, Now Ass
 
 # Multilingual service for Now Assist
 
-[[platform-now-assist-landing|Now Assist]] applications use the multilingual capabilities of large language models \(LLMs\) to translate user-generated content.
+Now Assist applications use the multilingual capabilities of large language models \(LLMs\) to translate user-generated content.
 
 ## Multilingual service overview
 
@@ -128,7 +128,7 @@ Dynamic Translation for Now Assist uses the Microsoft Azure OEM translation serv
 -   Arabic
 -   Danish
 
-For more information, see [[dynamic-translation-na-ms-azure-oem|Microsoft Azure OEM for Dynamic Translation in Now Assist]].
+For more information, see [Microsoft Azure OEM for Dynamic Translation in Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/dynamic-translation-na-ms-azure-oem.md).
 
 ## Choosing a translation service
 
@@ -140,12 +140,7 @@ For more information on tracking Now Assist usage, see [Monitoring Now Assist us
 
 ## Enabling translation for Now Assist
 
-For more information on turning on multilingual services for Now Assist applications, see [[enable-dynamic-translation-for-now-assist-applications|Enable translation for Now Assist applications]].
+For more information on turning on multilingual services for Now Assist applications, see [Enable translation for Now Assist applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/enable-dynamic-translation-for-now-assist-applications.md).
 
 **Parent Topic:**[Configure multilingual service for Now Assist applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/enable-dynamic-translation-for-now-assist-applications.md)
 
-## Related
-
-- [[dynamic-translation-na-ms-azure-oem|Microsoft Azure OEM for Dynamic Translation in Now Assist]]
-- [[enable-dynamic-translation-for-now-assist-applications|Configure multilingual service for Now Assist applications]]
-- [[platform-now-assist-landing|Now Assist]]

@@ -14,7 +14,7 @@ breadcrumb: [Managed lists, HR Administration, Configure, Case and Knowledge Man
 
 # Add or modify departments
 
-You can use departments to categorize users. Departments are assigned to an employee user profile, and are synchronized to the [[c_HRProfileRecords|HR profile]].
+You can use departments to categorize users. Departments are assigned to an employee user profile, and are synchronized to the HR profile.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ The base system provides various departments. You can create or edit existing de
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **[[c_ManagedLists|Managed Lists]]** &gt; **Departments**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **Managed Lists** &gt; **Departments**.
 
 2.  Click a department name to view or edit details for that department.
 
@@ -51,8 +51,3 @@ The base system provides various departments. You can create or edit existing de
 
 **Parent Topic:**[Managed lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_ManagedLists.md)
 
-## Related
-
-- [[c_HRProfileRecords|HR Profile]]
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[c_ManagedLists|Managed lists]]

@@ -14,17 +14,17 @@ breadcrumb: [Use Microsoft Outlook Add-In for Legal Service Delivery, Microsoft 
 
 # Submit legal request or matter
 
-As a legal requestor matterfulfiller, [[submit-legal-request|submit a legal request]] or matterfrom within the Microsoft Outlook.
+As a legal requestor matterfulfiller, submit a legal request or matterfrom within the Microsoft Outlook.
 
 ## Before you begin
 
-Ensure you have installed and deployed [[lsd-outlook-addin-landing|Microsoft Outlook Add-In for Legal Service Delivery]]. For more information, see [Configure Microsoft Outlook Add-In for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-outlook-addin-configure.md)
+Ensure you have installed and deployed Microsoft Outlook Add-In for Legal Service Delivery. For more information, see [Configure Microsoft Outlook Add-In for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-outlook-addin-configure.md)
 
 Role required: sn\_lg\_ops.request\_fulfiller or sn\_lg\_matter.matter\_fulfiller
 
 ## Procedure
 
-1.  [[lsd-outlook-addin-login|Sign in to Microsoft Outlook Add-In for Legal Service Delivery]].
+1.  Sign in to Microsoft Outlook Add-In for Legal Service Delivery.
 
     For more information, see [Sign in to Microsoft Outlook Add-In for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-outlook-addin-login.md).
 
@@ -89,8 +89,3 @@ Steps
 
 **Parent Topic:**[Use Microsoft Outlook Add-In for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-outlook-addin-use.md)
 
-## Related
-
-- [[submit-legal-request|Submit a legal request]]
-- [[lsd-outlook-addin-landing|Microsoft Outlook Add-In for Legal Service Delivery]]
-- [[lsd-outlook-addin-login|Sign in to Microsoft Outlook Add-In for Legal Service Delivery]]

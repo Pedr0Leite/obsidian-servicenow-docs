@@ -15,7 +15,7 @@ breadcrumb: [AI capabilities in Service Mapping, Using Service Mapping, Service 
 
 # Service Mapping MCP tools
 
-The [[c_ServiceMappingOverview|Service Mapping]] tools, delivered as part of the Now Assist CMDB MCP Server, expose live application service data and enable AI clients such as Claude to query service topology and mapping gaps in natural language.
+The Service Mapping tools, delivered as part of the Now Assist CMDB MCP Server, expose live application service data and enable AI clients such as Claude to query service topology and mapping gaps in natural language.
 
 The Service Mapping MCP tools provide query-based processes for investigating and visualizing service topology, by implementing the Model Context Protocol \(MCP\) on the ServiceNow AI Platform. The MCP gives AI clients structured, secured, tool-based access to your data in the ServiceNow® instance.
 
@@ -54,7 +54,7 @@ The Service Mapping MCP tools are built on the following technical stack:
 
 -   **MCP Framework integration**
 
-    The server uses MCP Framework version 1.4.2 \(sn\_mcp v1.4.2\). The MCP [[r-discovery|Discovery]] Layer at `/sncapps/mcp-server/mcp/...` receives tool invocation requests from external clients and routes them to the scripted REST API.
+    The server uses MCP Framework version 1.4.2 \(sn\_mcp v1.4.2\). The MCP Discovery Layer at `/sncapps/mcp-server/mcp/...` receives tool invocation requests from external clients and routes them to the scripted REST API.
 
 -   **OAuth 2.0 and JWT authentication**
 
@@ -148,7 +148,3 @@ Reference information for the five Service Mapping MCP tools provided by the Now
 
 **Parent Topic:**[AI capabilities in Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/ai-workflows-service-mapping.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]

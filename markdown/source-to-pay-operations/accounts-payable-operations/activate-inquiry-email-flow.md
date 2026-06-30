@@ -15,7 +15,7 @@ breadcrumb: [Components installed with Invoice Case Management, Install Invoice 
 
 # Activate the Create Inquiry Case on Invoice email flow
 
-Activate the **Create Inquiry Case on Invoice email** flow to automatically [[create-invoice|create invoice]] inquiry cases from inbound emails.
+Activate the **Create Inquiry Case on Invoice email** flow to automatically create invoice inquiry cases from inbound emails.
 
 ## Before you begin
 
@@ -33,7 +33,7 @@ Role required: admin
 
 4.  In the **New flow name** field, enter a name for the copied flow.
 
-5.  In the **Application** field, select **[[acc-pay-mgmt-landing-page|Accounts Payable Operations]]**.
+5.  In the **Application** field, select **Accounts Payable Operations**.
 
 6.  Select **Copy**.
 
@@ -48,7 +48,3 @@ Role required: admin
 
 **Parent Topic:**[Components installed with Invoice Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/installed-with-invoice-case-mgmt.md)
 
-## Related
-
-- [[create-invoice|create invoice]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]

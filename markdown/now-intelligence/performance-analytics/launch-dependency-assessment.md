@@ -14,13 +14,13 @@ breadcrumb: [\(Legacy\) Dependency Assessment, Configure advanced features, Perf
 
 # Launch Dependency Assessment
 
-Use the [[dependency-assessment-treeview|Dependency Assessment tree view]] to view and edit Performance Analytics components including [[widgets|widgets]], indicators, and breakdowns, from a single view. You can see the effects of your changes immediately.
+Use the Dependency Assessment tree view to view and edit Performance Analytics components including widgets, indicators, and breakdowns, from a single view. You can see the effects of your changes immediately.
 
 ## Before you begin
 
 Role required: pa\_admin.
 
-**Important:** Dependency Assessment is not available on net new instances. It does not support [[c_performanceAnalyticsAndReporting|Platform Analytics]] artifacts or Data snapshots indicators. You can run it on any classic Performance Analytics artifact, like an indicator or a breakdown. You can also run it from a Core UI PA Widget or responsive dashboard. However, you cannot run it from a data visualization or a Platform Analytics dashboard.
+**Important:** Dependency Assessment is not available on net new instances. It does not support Platform Analytics artifacts or Data snapshots indicators. You can run it on any classic Performance Analytics artifact, like an indicator or a breakdown. You can also run it from a Core UI PA Widget or responsive dashboard. However, you cannot run it from a data visualization or a Platform Analytics dashboard.
 
 ## About this task
 
@@ -41,8 +41,3 @@ The tree view of the selected artifact opens.
 
 **Parent Topic:**[\(Legacy\) Dependency Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/impact-analysis.md)
 
-## Related
-
-- [[dependency-assessment-treeview|Dependency Assessment tree view]]
-- [[widgets|Widgets]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

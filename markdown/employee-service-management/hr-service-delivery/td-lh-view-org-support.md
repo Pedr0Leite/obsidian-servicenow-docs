@@ -14,7 +14,7 @@ breadcrumb: [Use, Leader Hub, HR Service Delivery, Employee Service Management]
 
 # View organizations you support
 
-View your designated leader's organization so you can provide support in the capacity required for the organization to succeed. Supporters to whom the leader has delegated tasks and responsibilities can access [[td-lh-landing|Leader Hub]] to provide support accordingly.
+View your designated leader's organization so you can provide support in the capacity required for the organization to succeed. Supporters to whom the leader has delegated tasks and responsibilities can access Leader Hub to provide support accordingly.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: organizational supporter \[sn\_egd\_lh.supporter\]
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
 
 2.  From the mega menu, select **Orgs you support**.
 
@@ -41,7 +41,3 @@ Role required: organizational supporter \[sn\_egd\_lh.supporter\]
 
 **Parent Topic:**[Using Leader Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/td-lh-using.md)
 
-## Related
-
-- [[td-lh-landing|Leader Hub]]
-- [[employee-center-landing-page|Employee Center]]

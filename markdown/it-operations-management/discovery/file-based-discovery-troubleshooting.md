@@ -14,7 +14,7 @@ breadcrumb: [File-based Discovery references, File-based Discovery, Running disc
 
 # File-based Discovery issue resolution
 
-If you have any issues while setting up or running [[file-based-discovery|File-based Discovery]], follow the actions listed here to help resolve them.
+If you have any issues while setting up or running File-based Discovery, follow the actions listed here to help resolve them.
 
 <table id="table_v13_l1v_phb"><thead><tr><th>
 
@@ -26,7 +26,7 @@ Cause/Action
 
 </th></tr></thead><tbody><tr><td>
 
-Error message: File [[r-discovery|Discovery]] data not yet synced...
+Error message: File Discovery data not yet synced...
 
 </td><td>
 
@@ -80,7 +80,3 @@ PowerShell errors
 
 [File-based Discovery references](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/file-based-discovery-references.md)
 
-## Related
-
-- [[file-based-discovery|File-based Discovery]]
-- [[r-discovery|Discovery]]

@@ -14,8 +14,5 @@ breadcrumb: [Case management, Explore, Public Sector Digital Services \(PSDS\)]
 
 As a Public Sector Digital Services process owner or admin, you can create and maintain the rules that drive how eligibility and benefits are determined in the Social Benefits Playbook using Policy as Code Engine \(PaCE. PaCE is a powerful, low-code rules engine capable of processing rules in seconds. The rule-sets created within this rules engine are called policies.
 
-You can administrate the full life cycle of policies using PaCE in applications by searching, reviewing, and updating existing policies, and creating policies as required. Policies in the applications are powered by PaCE. For more information on PaCE and how it fits in with the Social Benefits Playbook, see [[psds-understanding-pace|Understanding Policy as Code Engine \(PaCE\) and the Social Benefits Playbook]].
+You can administrate the full life cycle of policies using PaCE in applications by searching, reviewing, and updating existing policies, and creating policies as required. Policies in the applications are powered by PaCE. For more information on PaCE and how it fits in with the Social Benefits Playbook, see [Understanding Policy as Code Engine \(PaCE\) and the Social Benefits Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-understanding-pace.md).
 
-## Related
-
-- [[psds-understanding-pace|Understanding Policy as Code Engine \(PaCE\) and the Social Benefits Playbook]]

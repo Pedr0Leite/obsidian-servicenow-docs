@@ -12,9 +12,9 @@ breadcrumb: [Reference, Setup Hub, Get started, Administer the ServiceNow AI Pla
 
 # Setup Hub terminology
 
-Before getting started with [[ia-landing|Setup Hub]], it's important to understand some key terms used in the application.
+Before getting started with Setup Hub, it's important to understand some key terms used in the application.
 
-**Parent Topic:**[[ia-reference|Setup Hub references]]
+**Parent Topic:**[Setup Hub references](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-reference.md)
 
 ## application scope
 
@@ -22,7 +22,7 @@ A unique namespace and a set of permissions to access application files and data
 
 ## Automated Test Framework \(ATF\)
 
-Enables you to create and run automated tests to confirm that your instance works after making a change. Examine failed test [[hs-results|results]] to identify the changes that caused the failure and the changes that you should review.
+Enables you to create and run automated tests to confirm that your instance works after making a change. Examine failed test results to identify the changes that caused the failure and the changes that you should review.
 
 ## clone
 
@@ -52,8 +52,3 @@ Product-centric view of entitlements, outcomes, and content.
 
 A collection of customizations made to a customer instance that can be transferred to another instance. When an instance is customized, the change is added automatically to the current update set. You can have only one current update set per user at a time.
 
-## Related
-
-- [[ia-reference|Setup Hub references]]
-- [[ia-landing|Setup Hub]]
-- [[hs-results|Results]]

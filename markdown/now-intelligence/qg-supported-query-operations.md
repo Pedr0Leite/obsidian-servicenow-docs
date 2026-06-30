@@ -39,8 +39,5 @@ The following encoded query operators are supported for creating context objects
 -   "ON"
 -   "INSTANCEOF"
 
-**Parent Topic:**[[query-generation-reference|Query Generation reference]]
+**Parent Topic:**[Query Generation reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/query-generation-reference.md)
 
-## Related
-
-- [[query-generation-reference|Query Generation reference]]

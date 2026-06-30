@@ -19,7 +19,7 @@ A cloud policy can override a property value set by a user, create an approval t
 
 ## A user requests a stack that triggers an approval policy
 
-1.  On the [[cloudmgt-cloud-user-portal|Cloud User Portal]], a user submits a request to provision a particular blueprint. The process of provisioning the blueprint is the trigger that causes the policy engine to apply an approval policy. A cloud approval policy specifies the users who must approve a specified cloud activity before the activity can proceed.
+1.  On the Cloud User Portal, a user submits a request to provision a particular blueprint. The process of provisioning the blueprint is the trigger that causes the policy engine to apply an approval policy. A cloud approval policy specifies the users who must approve a specified cloud activity before the activity can proceed.
 2.  The policy engine determines that the request meets the condition specified in the rule for the policy. In this example, the condition evaluates to true whenever a particular blueprint is being provisioned.
 3.  Because the condition is met, the policy engine performs the action that is also specified in the rule. In this example, the action is to create an approval action for the manager.
 4.  While the approver \(the manager\) reviews the approval request, the user sees a "waiting for approval" status message on the Cloud User Portal.
@@ -56,7 +56,7 @@ A cloud policy group is a container for related policies. Consider grouping poli
 
 Order of execution when multiple "approval" policies apply:
 
-When multiple "approval" policies apply, the policies are applied in the following order. \(The approval policies are on Blueprint provision \(approval\), on Stack operation \(approval\), on Stack resource operation \(approval\), and on Task [[ccg-remediation|remediation]]\):
+When multiple "approval" policies apply, the policies are applied in the following order. \(The approval policies are on Blueprint provision \(approval\), on Stack operation \(approval\), on Stack resource operation \(approval\), and on Task remediation\):
 
 1.  Only the first successful approval policy is applied and no other approval policies are applied.
 2.  If the applied approval policy has multiple rules, only the first successful rule is used.
@@ -105,7 +105,3 @@ To back up, move, or restore a policy, you can export and import the policy as a
 
 **Parent Topic:**[Cloud Admin Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-admin-portal.md)
 
-## Related
-
-- [[cloudmgt-cloud-user-portal|Cloud User Portal]]
-- [[ccg-remediation|Remediation]]

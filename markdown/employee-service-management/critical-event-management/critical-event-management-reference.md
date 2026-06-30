@@ -14,12 +14,12 @@ breadcrumb: [Critical Event Management, Health and Safety, Employee Service Mana
 
 # Critical Event Management reference
 
-[[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] topics offer additional information about the lists and forms that you use to configure and operate the [[critical-event-management|Critical Event Management]] application.
+Reference topics offer additional information about the lists and forms that you use to configure and operate the Critical Event Management application.
 
 -   **[Components installed with Critical Event Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/components-installed-with-cem.md)**  
 Several types of components are installed with the Critical Event Management application, including tables and user roles.
 -   **[Critical Event form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/new-critical-event-form.md)**  
-Field descriptions on the form for a critical event. It includes the [[new-critical-event-form|Critical Event form]] section and the Closure form section.
+Field descriptions on the form for a critical event. It includes the Critical Event form section and the Closure form section.
 -   **[Impacted people status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/impacted-people-status.md)**  
 Descriptions of the possible statues for impacted people.
 -   **[Communication form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/create-new-communication-form.md)**  
@@ -33,8 +33,3 @@ Field descriptions to add a new member to a group mapped to a location.
 
 **Parent Topic:**[Critical Event Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/critical-event-management.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[critical-event-management|Critical Event Management]]
-- [[new-critical-event-form|Critical Event form]]

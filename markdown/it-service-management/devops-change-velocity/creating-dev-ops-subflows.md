@@ -38,7 +38,7 @@ Inputs
 
 Label: current
 
- Type: [[reference-for-itsm-mobile-agent|Reference]].Inbound Event
+ Type: Reference.Inbound Event
 
 </td></tr><tr><td>
 
@@ -645,6 +645,3 @@ details
 </td></tr></tbody>
 </table>**Parent Topic:**[User-created integrations in DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/dev-ops-tool-integration.md)
 
-## Related
-
-- [[reference-for-itsm-mobile-agent|Reference]]

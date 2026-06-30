@@ -14,18 +14,12 @@ breadcrumb: [Instance Scan, Maintain and monitor, Administer the ServiceNow AI P
 
 # Instance Scan references
 
-The [[reference-email-admin|reference]] topics provide additional information about [[hs-landing-page|Instance Scan]].
+The reference topics provide additional information about Instance Scan.
 
 -   **[Instance Scan roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/instance-scan-roles.md)**  
 Instance Scan is installed with these roles.
 -   **[Instance Scan properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-sys-properties.md)**  
-On the properties form, you can set [[r_DirectJDBCProbeParameters|parameters]] that control how the instance executes.
+On the properties form, you can set parameters that control how the instance executes.
 
-**Parent Topic:**[[maintain-monitor-now-platform|Maintaining and monitoring the ServiceNow AI Platform]]
+**Parent Topic:**[Maintaining and monitoring the ServiceNow AI Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/maintain-monitor-now-platform.md)
 
-## Related
-
-- [[maintain-monitor-now-platform|Maintaining and monitoring the ServiceNow AI Platform]]
-- [[reference-email-admin|Reference]]
-- [[hs-landing-page|Instance Scan]]
-- [[r_DirectJDBCProbeParameters|Parameters]]

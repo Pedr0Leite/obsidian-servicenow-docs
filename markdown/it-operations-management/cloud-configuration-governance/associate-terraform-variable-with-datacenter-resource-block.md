@@ -14,7 +14,7 @@ breadcrumb: [Using Cloud Services Catalog Terraform Connector, Cloud Services Ca
 
 # Associate the Terraform environment variable with the datacenter resource block
 
-Associate the Terraform environment variable with the [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] datacenter resource block. After associating the environment variable, you can use it to pass custom inputs parameters during resource deployment through Terraform Enterprise.
+Associate the Terraform environment variable with the Cloud Provisioning and Governance datacenter resource block. After associating the environment variable, you can use it to pass custom inputs parameters during resource deployment through Terraform Enterprise.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ To set the Terraform environment variable conditionally, use a scripted expressi
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Cloud Provisioning and Governance** &gt; **[[cloud-admin-portal|Cloud Admin Portal]]**.
+1.  Navigate to **All** &gt; **Cloud Provisioning and Governance** &gt; **Cloud Admin Portal**.
 
     The Cloud Admin Portal opens in a new browser tab.
 
@@ -51,7 +51,3 @@ To set the Terraform environment variable conditionally, use a scripted expressi
 
 **Parent Topic:**[Using Cloud Services Catalog Terraform Connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/using-ccg-terraform-connector.md)
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[cloud-admin-portal|Cloud Admin Portal]]

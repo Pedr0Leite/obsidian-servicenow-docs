@@ -14,7 +14,7 @@ breadcrumb: [Now Assist for TMT, Telecommunications, Media, and Technology \(TMT
 
 # Configuring Now Assist for Telecommunications, Media and Technology \(TMT\)
 
-Configure the [[now-assist-spmc|Now Assist for Telecommunications, Media and Technology \(TMT\)]] application so that your agents can use the generative AI skills in the CSM/FSM Configurable Workspace and in Core UI.
+Configure the Now Assist for Telecommunications, Media and Technology \(TMT\) application so that your agents can use the generative AI skills in the CSM/FSM Configurable Workspace and in Core UI.
 
 ## Before you begin
 
@@ -45,11 +45,11 @@ ADR
 
 </td></tr><tr><td>
 
-[[c360-land-page|Telecommunications Customer 360]]
+Telecommunications Customer 360
 
 </td><td>
 
-[[c360-ai-insights|Generate Telecom Customer 360 Insights]]
+Generate Telecom Customer 360 Insights
 
 </td></tr><tr><td>
 
@@ -65,7 +65,7 @@ Service Problem Case
 
 </td></tr><tr><td>
 
-[[account-lifecycle-events-landing|Customer Success Management]]
+Customer Success Management
 
 </td><td>
 
@@ -83,7 +83,7 @@ Service Problem Case
 
 </td></tr><tr><td>
 
-[[tmt-service-bridge-both-landing-page|Service Exchange]]
+Service Exchange
 
 </td><td>
 
@@ -150,10 +150,3 @@ Remote Hands Case Summary
 
 Your skill is configured.
 
-## Related
-
-- [[now-assist-spmc|Now Assist for Telecommunications, Media and Technology \(TMT\)]]
-- [[c360-land-page|Telecommunications Customer 360]]
-- [[c360-ai-insights|Generate Telecom customer 360 insights]]
-- [[account-lifecycle-events-landing|Customer Success Management]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]

@@ -24,15 +24,15 @@ Role required: it\_project\_manager
 
 Post-project activities include viewing baselines and actual values to evaluate how much the project slipped from its original estimates. They also include following up on related incidents, problems, or changes that are linked to the project through the instance.
 
-When you close a project, all [[t_CreateAProjectTask|project tasks]] and sub-projects associated with the project are closed automatically. Normally, you should not reopen a project after it is closed. Updating the project state from Closed to Work In Progress, Pending, or Open is not allowed. If you still need to reopen a closed project, reopen an existing project task or add a new task to the project. This action for a task moves the project from Closed to Work in Progress state without affecting the other closed tasks.
+When you close a project, all project tasks and sub-projects associated with the project are closed automatically. Normally, you should not reopen a project after it is closed. Updating the project state from Closed to Work In Progress, Pending, or Open is not allowed. If you still need to reopen a closed project, reopen an existing project task or add a new task to the project. This action for a task moves the project from Closed to Work in Progress state without affecting the other closed tasks.
 
-When a project is in the [closed state](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CloseAProject.md), the [[c_ProjectApplicationOverview|Project Management]] application calculates actual values like **Actual duration**. You can cancel the associated future [[c_ResourcePlans|resource plans]] and complete the allocated resource plans for a closed project.
+When a project is in the [closed state](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CloseAProject.md), the Project Management application calculates actual values like **Actual duration**. You can cancel the associated future resource plans and complete the allocated resource plans for a closed project.
 
 ## Procedure
 
 1.  Verify that the work is completed for all tasks in the project.
 
-2.  On the [[create-a-project-form|Project form]], change the **State** field to one of the closed states:
+2.  On the Project form, change the **State** field to one of the closed states:
 
     -   **Closed Complete**: The project is finished and all tasks are complete.
     -   **Closed Incomplete**: The project is finished, but tasks remain unfinished.
@@ -65,9 +65,3 @@ For projects created from an incident, problem, or change, updating the project 
 
 **Parent Topic:**[Using Project Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/using-project-management.md)
 
-## Related
-
-- [[t_CreateAProjectTask|Project tasks]]
-- [[c_ProjectApplicationOverview|Project Management]]
-- [[c_ResourcePlans|Resource plans]]
-- [[create-a-project-form|Project form]]

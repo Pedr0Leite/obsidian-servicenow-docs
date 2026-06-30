@@ -32,7 +32,7 @@ Role required: asset, itil, itil\_admin
 
     The quantity gets populated based on the quantity of the consumption of the consumable asset.
 
-4.  Update the **Quantity** field based on the quantity of [[c_ReceiveAConsumableAsset|consumable assets]] that you want to retire.
+4.  Update the **Quantity** field based on the quantity of consumable assets that you want to retire.
 
     You can choose to retire the entire quantity of consumable assets or only a part of the quantity.
 
@@ -43,6 +43,3 @@ Role required: asset, itil, itil\_admin
 
 **Parent Topic:**[Consumables life cycle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/c_FollowLifeCycleConsumbl.md)
 
-## Related
-
-- [[c_ReceiveAConsumableAsset|Consumable assets]]

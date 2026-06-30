@@ -40,7 +40,7 @@ Short description
 
 </td><td>
 
--   If the intake request results in a single [[sourcing-request|sourcing request]] \(SR\), the short description follows this format:
+-   If the intake request results in a single sourcing request \(SR\), the short description follows this format:
 
 PIPE00001 for &lt;Product Name&gt;
 
@@ -162,6 +162,3 @@ If all sourcing requests under a pipeline project are in Closed – Cancelled or
 </td></tr></tbody>
 </table>**Parent Topic:**[Sourcing Pipeline Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-sourcing-pipeline-mgmt.md)
 
-## Related
-
-- [[sourcing-request|Sourcing request]]

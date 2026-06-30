@@ -14,19 +14,14 @@ breadcrumb: [Health and Safety Case Management, Health and Safety, Employee Serv
 
 # Health and Safety Case Management reference
 
-Using the [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] topics, learn about the components, such as the roles, tables, plugins, and store applications that are installed when you install the [[hs-case-management-landing-page|Health and Safety Case Management]] application.
+Using the reference topics, learn about the components, such as the roles, tables, plugins, and store applications that are installed when you install the Health and Safety Case Management application.
 
 -   **[Components installed with Health and Safety Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-case-management/components-installed-with-hs-case-mgmt.md)**  
 Several types of components are installed with installation of the Health and Safety Case Management application, including tables, user roles, and scheduled jobs. The application also installs related store applications if they aren’t already installed.
 -   **[Health and Safety case form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-case-management/hs-case-form.md)**  
-Safety case manager can use the safety case form to resolve [[health-safety-overview|health and safety]] questions that they receive from employees.
+Safety case manager can use the safety case form to resolve health and safety questions that they receive from employees.
 -   **[Domain separation and Health and Safety Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-case-management/hs-case-management-domain-separation.md)**  
 Domain separation is supported for Health and Safety Case Management. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 **Parent Topic:**[Health and Safety](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/health-safety-overview.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[hs-case-management-landing-page|Health and Safety Case Management]]
-- [[health-safety-overview|Health and Safety]]

@@ -58,9 +58,9 @@ Canvas Filter
 
 The **Filter** functionality helps you refine your view on the investigation canvas.
 
-For example, if you filter out a record type such as [[campaign|Campaign]], it is temporarily removed from the canvas display.
+For example, if you filter out a record type such as Campaign, it is temporarily removed from the canvas display.
 
-By applying filters, you can control which types of entities or records are shown on the map, enabling a cleaner and more focused investigation experience.**Note:** Use filters to highlight only the most relevant nodes such as [[c_Observables|observables]] or [[threat-actors|threat actors]] while temporarily hiding less critical information on the canvas.
+By applying filters, you can control which types of entities or records are shown on the map, enabling a cleaner and more focused investigation experience.**Note:** Use filters to highlight only the most relevant nodes such as observables or threat actors while temporarily hiding less critical information on the canvas.
 
 </td></tr><tr><td>
 
@@ -88,7 +88,7 @@ Add From Library
 
 </td><td>
 
-This action will add the [[threat-intel-landing-page|threat intelligence]] library data and also establish the relationship between the new node imported from the threat intelligence library and the existing nodes on the investigation canvas.
+This action will add the threat intelligence library data and also establish the relationship between the new node imported from the threat intelligence library and the existing nodes on the investigation canvas.
 
 </td></tr><tr><td>
 
@@ -121,7 +121,7 @@ The focused node is visually emphasized through:
 -   Highlighting
 -   A subtle circular motion animation
 
-This makes it easier to identify and [[threat-intelligence-security-center-overview|explore]] the canvas data related to the primary focus of your investigation.
+This makes it easier to identify and explore the canvas data related to the primary focus of your investigation.
 
 </td></tr><tr><td>
 
@@ -129,7 +129,7 @@ Add Relationship
 
 </td><td>
 
-This option allows you to add custom [[stix-relationships|relationships]] between nodes on the Investigation Canvas. You can define relationship types such as:-   One-to-many
+This option allows you to add custom relationships between nodes on the Investigation Canvas. You can define relationship types such as:-   One-to-many
 -   Many-to-one
 -   Many-to-many
 
@@ -244,7 +244,7 @@ Legend
 </td><td>
 
 This option provides you a visual representation of the nodes and entities currently displayed on the Investigation Canvas. The legend includes two key views:-   **Node and Link Representation**: Displays how different node types appear on the canvas and how they are connected via edges. This helps you quickly understand the structure and relationship between various elements in the investigation.
--   **Entities Representation**: Shows the types of entities currently present on the canvas \(Observables, [[indicator|Indicators]], and objects\).
+-   **Entities Representation**: Shows the types of entities currently present on the canvas \(Observables, Indicators, and objects\).
 
 The following illustrates the legends for node, link, and entity representations:
 
@@ -324,12 +324,3 @@ Actions such as removing a node or modifying edges follow all grouping rules and
 </td></tr></tbody>
 </table>**Parent Topic:**[Working with Investigation Canvas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-investigation-canvases.md)
 
-## Related
-
-- [[campaign|Campaign]]
-- [[c_Observables|Observables]]
-- [[threat-actors|Threat actors]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[threat-intelligence-security-center-overview|Explore]]
-- [[stix-relationships|Relationships]]
-- [[indicator|Indicators]]

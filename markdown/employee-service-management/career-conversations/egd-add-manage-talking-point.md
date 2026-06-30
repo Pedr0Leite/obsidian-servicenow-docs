@@ -14,7 +14,7 @@ breadcrumb: [Install and configure Career Conversations, Career Conversations, G
 
 # Add and manage Talking Points
 
-As a [[egd-activities-conversations-module|Career Conversations]] admin, you can add or update talking points that are used by managers to help create a conversation with an employee.
+As a Career Conversations admin, you can add or update talking points that are used by managers to help create a conversation with an employee.
 
 ## Before you begin
 
@@ -33,6 +33,3 @@ Role required: sn\_egd\_act.admin
 
 **Parent Topic:**[Install and configure Career Conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/egd-activities-install-config.md)
 
-## Related
-
-- [[egd-activities-conversations-module|Career Conversations]]

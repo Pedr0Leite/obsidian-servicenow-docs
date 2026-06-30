@@ -27,7 +27,7 @@ Create and train a model to predict fields for case and interaction records.
 
 ## Set up your model
 
-1.  Navigate to **All** &gt; **[[csm-task-intelligence|Task Intelligence for Customer Service]]** &gt; **Setup** to access the [[csm-task-intel-admin-center|Task Intelligence Admin Console]].
+1.  Navigate to **All** &gt; **Task Intelligence for Customer Service** &gt; **Setup** to access the Task Intelligence Admin Console.
 2.  Select **Set up model** on this model: **Predict field choices to reduce handle time**.
 
     This opens the model and displays the first of five pages. Each page in the model asks you questions and helps you select the information you need to build an effective model.
@@ -161,7 +161,3 @@ Review your choices from the previous pages and information about how the model 
 
 \[Omitted image "task-intel-admin-console-pg5.png"\] Alt text: Model page displaying choices and inputs for review before deploying the model.
 
-## Related
-
-- [[csm-task-intelligence|Task Intelligence for Customer Service]]
-- [[csm-task-intel-admin-center|Task Intelligence Admin Console]]

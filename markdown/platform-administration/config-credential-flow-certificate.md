@@ -12,7 +12,7 @@ breadcrumb: [Send email using client credential flow, Advanced email setup, Conf
 
 # Configure client credential flow for SMTP OAuth2 using certificate-based authentication
 
-Configure an OAuth application profile to authenticate using certificates for [[ia-outbound-email-il|outbound email]].
+Configure an OAuth application profile to authenticate using certificates for outbound email.
 
 ## Before you begin
 
@@ -95,7 +95,7 @@ Role required: Microsoft Azure portal administrator and admin
 
 9.  Navigate to **Overview** &gt; **Endpoints** and copy the **OAuth 2.0 token endpoint \(v2\)** to a text file.
 
-    You use the **OAuth 2.0 token endpoint \(v2\)** when configuring a JWT provider. For more information, see [[config-jwt-credential-flow|Configure a JWT provider]].
+    You use the **OAuth 2.0 token endpoint \(v2\)** when configuring a JWT provider. For more information, see [Configure a JWT provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/config-jwt-credential-flow.md).
 
 
 ## What to do next
@@ -104,17 +104,10 @@ Role required: Microsoft Azure portal administrator and admin
 
 -   **[Configure a JWT provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/config-jwt-credential-flow.md)**  
 Configure a JWT provider on the ServiceNow AI Platform to configure an OAuth application profile to authenticate using certificates.
--   **[[generate-sha-1-thumbprint|Generate a SHA-1 thumbprint]]**  
+-   **[Generate a SHA-1 thumbprint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/generate-sha-1-thumbprint.md)**  
 Generate an SHA-1 thumbprint using the JWT provider's sys\_id, the Java Key Store \(JKS\) certificate's sys\_id, and the JKS certificate's alias to the GraphCertificateOAuthTemplate script.
--   **[[create-oauth-api-script-cred-flow|Create an OAuth API script]]**  
+-   **[Create an OAuth API script](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-oauth-api-script-cred-flow.md)**  
 Create and duplicate an OAuth API script for application registry.
 
-**Parent Topic:**[[send-email-client-credential-flow|Sending email using client credential flow]]
+**Parent Topic:**[Sending email using client credential flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/send-email-client-credential-flow.md)
 
-## Related
-
-- [[config-jwt-credential-flow|Configure a JWT provider]]
-- [[generate-sha-1-thumbprint|Generate a SHA-1 thumbprint]]
-- [[create-oauth-api-script-cred-flow|Create an OAuth API script]]
-- [[send-email-client-credential-flow|Sending email using client credential flow]]
-- [[ia-outbound-email-il|Outbound email]]

@@ -14,17 +14,17 @@ breadcrumb: [Creating and managing audience-specific Journey Accelerator templat
 
 # Enable automatic action plan creation
 
-You can configure the Create [[journey-accelerator-1|Journey Accelerator]] Action Plan template so that a plan is automatically created from a lifecycle event.
+You can configure the Create Journey Accelerator Action Plan template so that a plan is automatically created from a lifecycle event.
 
 ## Before you begin
 
-The Create a new action plan for your employee [[activity-lxp|activity]] must be active. See, [Activate the Create a new action plan for your employee activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-accelerator/activate-create-ja-plan-activity.md).
+The Create a new action plan for your employee activity must be active. See, [Activate the Create a new action plan for your employee activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-accelerator/activate-create-ja-plan-activity.md).
 
 Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Livecycle Events** &gt; **Administration** &gt; **Manage [[hr-template-configuration|HR Templates]]**.
+1.  Navigate to **All** &gt; **Livecycle Events** &gt; **Administration** &gt; **Manage HR Templates**.
 
 2.  Open the **Create Journey Accelerator Plan** template.
 
@@ -41,8 +41,3 @@ Role required: admin
 
 [Open an HR case to create a Journey Accelerator action plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/create-journey-accelerator-plan.md)
 
-## Related
-
-- [[journey-accelerator-1|Journey Accelerator]]
-- [[activity-lxp|Activity]]
-- [[hr-template-configuration|HR templates]]

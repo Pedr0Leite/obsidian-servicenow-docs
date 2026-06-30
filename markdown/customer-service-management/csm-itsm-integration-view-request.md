@@ -27,7 +27,7 @@ The snc\_internal or snc\_external role and with read access to the related prob
 
 **Note:** The Related Records list shows data only if the logged-in user has access to view the related records.
 
-Customers, customer partners, and internal users with the proxy contact role \(sn\_customerservice.proxy\_contact\) can also create requests from the Customer and Consumer Service Portals. For more information about this feature, see [[employee-create-case-for-customer|Create cases as a proxy contact]].
+Customers, customer partners, and internal users with the proxy contact role \(sn\_customerservice.proxy\_contact\) can also create requests from the Customer and Consumer Service Portals. For more information about this feature, see [Create cases as a proxy contact](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/employee-create-case-for-customer.md).
 
 Customers can also view Known Error articles for a problem related to a case. These articles are displayed:
 
@@ -52,6 +52,4 @@ Customers can also view Known Error articles for a problem related to a case. Th
 
     **Note:** For the Consumer Service Portal, you can define views and select fields for problem and change records. Request records display a default set of fields in the Ticket Fields widget.
 
-## Related
 
-- [[employee-create-case-for-customer|Create cases as a proxy contact]]

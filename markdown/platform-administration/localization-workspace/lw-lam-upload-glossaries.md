@@ -14,7 +14,7 @@ breadcrumb: [Language Asset Management, Configuring Localization Workspace, Loca
 
 # Upload glossaries to Language Asset Management
 
-Upload glossaries to the [[lw-language-asset-management|Language Asset Management]] area of [[localization-workspace|Localization Workspace]]. Create a glossary by entering source terms and translations in the provided spreadsheet template, then uploading the completed spreadsheet to Language Asset Management.
+Upload glossaries to the Language Asset Management area of Localization Workspace. Create a glossary by entering source terms and translations in the provided spreadsheet template, then uploading the completed spreadsheet to Language Asset Management.
 
 ## Before you begin
 
@@ -176,7 +176,3 @@ To download glossaries in a CSV or spreadsheet format, see [Export a glossary fr
 
 **Parent Topic:**[Language Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/lw-language-asset-management.md)
 
-## Related
-
-- [[lw-language-asset-management|Language Asset Management]]
-- [[localization-workspace|Localization Workspace]]

@@ -15,7 +15,7 @@ breadcrumb: [Use agentic AI, Now Assist for FSO, Financial Services Operations \
 
 # Using agentic workflows in Now Assist for Financial Services Operations \(FSO\)
 
-Use FSO agentic workflows and AI agents to improve and enhance [[fso-overview|financial services]] processes.
+Use FSO agentic workflows and AI agents to improve and enhance financial services processes.
 
 <table id="table_ftm_yyr_t2c"><thead><tr><th>
 
@@ -46,7 +46,7 @@ Friendly fraud AI agent
 
 For more information on modifying an agentic workflow, see [Configure agentic workflows in Financial Services Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/configuring-agentic-workflows-in-fso.md).
 
-To learn about the [[friendly-fraud-agentic-ai-workflow|Help resolve friendly fraud disputes agentic workflow]], see [Help resolve friendly fraud disputes agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/friendly-fraud-agentic-ai-workflow.md).
+To learn about the Help resolve friendly fraud disputes agentic workflow, see [Help resolve friendly fraud disputes agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/friendly-fraud-agentic-ai-workflow.md).
 
 There might be AI agents installed with the Now Assist application that are not used in agentic workflows. To learn how to see all agents that are available to you, see [Find AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/find-ai-agents.md).
 
@@ -57,7 +57,3 @@ Resolve friendly fraud by using the friendly fraud AI agent to determine the act
 
 **Parent Topic:**[Agentic AI use cases for FSO](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/usecase-now-assist.md)
 
-## Related
-
-- [[fso-overview|Financial Services]]
-- [[friendly-fraud-agentic-ai-workflow|Help resolve friendly fraud disputes agentic workflow]]

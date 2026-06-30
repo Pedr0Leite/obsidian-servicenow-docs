@@ -14,10 +14,10 @@ breadcrumb: [Gamification, Using communities, Communities, Customer Service Mana
 
 # Moderate gamification
 
-Monitor [[gamification-components-points|points]] earned by users and award points and [[gamification-components-badges|badges]] to users based on their participation within the community.
+Monitor points earned by users and award points and badges to users based on their participation within the community.
 
 -   **[Award or remove points for a community user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/gamification-award-user-points.md)**  
-Award points to a user to recognize their contributions to the community. Remove points for a user if you observe that they are cheating the [[communities-gamification|gamification]] system.
+Award points to a user to recognize their contributions to the community. Remove points for a user if you observe that they are cheating the gamification system.
 -   **[Award a badge to a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/gamification-assign-user-badge.md)**  
 Award gamification badges to community users to recognize their community activities.
 -   **[Remove a badge from a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/gamification-remove-user-badge.md)**  
@@ -25,8 +25,3 @@ Remove a gamification badge from a community user if it is no longer relevant fo
 
 **Parent Topic:**[Gamification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/communities-gamification.md)
 
-## Related
-
-- [[gamification-components-points|Points]]
-- [[gamification-components-badges|Badges]]
-- [[communities-gamification|Gamification]]

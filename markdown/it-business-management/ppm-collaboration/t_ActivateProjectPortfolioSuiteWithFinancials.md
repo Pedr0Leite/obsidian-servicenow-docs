@@ -14,7 +14,7 @@ breadcrumb: [Project Portfolio Management, Strategic Portfolio Management]
 
 # Activate PPM Standard \(Project Portfolio Management\)
 
-Activate the PPM Standard plugin \(com.snc.financial\_planning\_pmo\) if you have the admin role. This plugin installs the [[c_ProjectPortfolioSuite|Project Portfolio Management]] applications.
+Activate the PPM Standard plugin \(com.snc.financial\_planning\_pmo\) if you have the admin role. This plugin installs the Project Portfolio Management applications.
 
 ## Before you begin
 
@@ -45,6 +45,3 @@ All PPM applications are installed in your ServiceNow instance, along with their
 
 **Parent Topic:**[Project Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/c_ProjectPortfolioSuite.md)
 
-## Related
-
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]

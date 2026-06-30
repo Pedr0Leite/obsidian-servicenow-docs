@@ -51,11 +51,7 @@ Each building \(drawing\) has a list of levels. Each level is a map and represen
 -   The `name` is mapped to the name field in fm\_level.
 -   The `zlevel` orders the levels \(0 is ground level\).
 -   The `main` property assigns the main level of the building and is used as the default map when a building is selected.
--   The `id` is used to find the correct [[r_LevelFile|level geometry file]].
+-   The `id` is used to find the correct level geometry file.
 
-**Parent Topic:**[[r_CommunityFile|Community file]]
+**Parent Topic:**[Community file](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_CommunityFile.md)
 
-## Related
-
-- [[r_CommunityFile|Community file]]
-- [[r_LevelFile|Level geometry file]]

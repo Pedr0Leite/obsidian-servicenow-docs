@@ -14,7 +14,7 @@ breadcrumb: [MID Web Server and agent mTLS Authentication, Configure the MID Web
 
 # Configure mTLS authentication for a MID Web Server
 
-Enhance security in your [[mid-web-server|MID Web Server]] extension by enabling mTLS authentication.
+Enhance security in your MID Web Server extension by enabling mTLS authentication.
 
 ## Before you begin
 
@@ -85,6 +85,3 @@ The MID Web Server extension searches the following locations \(in the specified
 
 [Connect the agent to the MID Server using mTLS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/enable-tls-agent.md).
 
-## Related
-
-- [[mid-web-server|MID Web Server]]

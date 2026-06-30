@@ -12,7 +12,7 @@ breadcrumb: [Product Catalog Management reference, Lead-to-cash foundation, Refe
 
 # Multilingual product catalog entities
 
-Starting with [[product-catalog-managment|Product Catalog Management]] Core release v19.0.0, certain Product Catalog Management tables have product catalog [[fields|fields]] that support multilingual text. In the Data Dictionary, these fields have changed from type string to type translated\_text. As an admin, you can display these fields in multiple languages in the product catalog interface.
+Starting with Product Catalog Management Core release v19.0.0, certain Product Catalog Management tables have product catalog fields that support multilingual text. In the Data Dictionary, these fields have changed from type string to type translated\_text. As an admin, you can display these fields in multiple languages in the product catalog interface.
 
 <table id="table_kp1_fk1_kjc"><thead><tr><th>
 
@@ -103,10 +103,5 @@ Characteristic Options \[sn\_prd\_pm\_characteristic\_option\]
 Option
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[product-catalog-management-reference|Product Catalog Management reference]]
+</table>**Parent Topic:**[Product Catalog Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/product-catalog-management-reference.md)
 
-## Related
-
-- [[product-catalog-management-reference|Product Catalog Management reference]]
-- [[product-catalog-managment|Product Catalog Management]]
-- [[fields|Fields]]

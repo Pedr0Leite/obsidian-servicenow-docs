@@ -22,14 +22,14 @@ Role required: cloud\_designer
 
 ## About this task
 
-[[cpg-terraform-connector-landing-page|Cloud Services Catalog Terraform Connector]] supports this capability for Terraform Open Source, Terraform Enterprise, and Terraform Cloud.
+Cloud Services Catalog Terraform Connector supports this capability for Terraform Open Source, Terraform Enterprise, and Terraform Cloud.
 
 **Important:** When you use Terraform templates to create catalog items, the Location value specifies the datacenter or region to provision the configuration items and stacks. Use the metadata file to map other variables based on discovered resources, networks, profiles, pools and filters, and so on.
 
 To auto-populate form fields in the catalog creation form while using Terraform templates, do the following:
 
 -   Specify or define the key value pairs in the JSON file for variables that are defined in the Terraform template.
--   Configure variables to auto-populate fields and data in the **[[cloudmgt-cloud-user-portal|Cloud User Portal]]** &gt; **Cloud Catalog** &gt; **New** &gt; **Provision** page.
+-   Configure variables to auto-populate fields and data in the **Cloud User Portal** &gt; **Cloud Catalog** &gt; **New** &gt; **Provision** page.
 
 For more information on binding a parameter to a resource pool, see [Bind a parameter to a resource pool](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/bind-param-snpool.md).
 
@@ -37,7 +37,7 @@ For more information on binding a parameter to a resource pool, see [Bind a para
 
 1.  In the directory or repository that is the basis for the catalog item, create a JSON file.
 
-    **Important:** Name the JSON file `metadata.snc` and store it in the same directory or repository as the template \(.tf\) file. This naming convention enables [[r-discovery|discovery]] and parsing of the `metadata.snc` JSON file as part of the config installable.
+    **Important:** Name the JSON file `metadata.snc` and store it in the same directory or repository as the template \(.tf\) file. This naming convention enables discovery and parsing of the `metadata.snc` JSON file as part of the config installable.
 
 2.  Specify the equivalent pool and filter as the data type for the Terraform variable in the `metadata.snc` JSON file.
 
@@ -69,8 +69,3 @@ For more information on binding a parameter to a resource pool, see [Bind a para
 
 **Parent Topic:**[Using Cloud Services Catalog Terraform Connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/using-ccg-terraform-connector.md)
 
-## Related
-
-- [[cpg-terraform-connector-landing-page|Cloud Services Catalog Terraform Connector]]
-- [[cloudmgt-cloud-user-portal|Cloud User Portal]]
-- [[r-discovery|Discovery]]

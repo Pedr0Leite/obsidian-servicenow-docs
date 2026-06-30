@@ -14,7 +14,7 @@ breadcrumb: [Configure, Task Intelligence for ITSM, IT Service Management]
 
 # Install Task Intelligence for ITSM
 
-You can install the [[c-itsm-task-intelligence|Task Intelligence for ITSM]] application \(com.snc.itsm\_ml\_task\) if you have the admin role. The application installs related ServiceNow® Store [[dex-workspace-application-tab|applications]] and plugins if they aren't already installed.
+You can install the Task Intelligence for ITSM application \(com.snc.itsm\_ml\_task\) if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they aren't already installed.
 
 ## Before you begin
 
@@ -59,7 +59,3 @@ For more information on what is installed, see [Components installed with Task I
 
 **Parent Topic:**[Configuring Task Intelligence for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/configure-task-intelligence-for-itsm.md)
 
-## Related
-
-- [[c-itsm-task-intelligence|Task Intelligence for ITSM]]
-- [[dex-workspace-application-tab|Applications]]

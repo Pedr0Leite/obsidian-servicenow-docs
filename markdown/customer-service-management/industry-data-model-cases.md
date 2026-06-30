@@ -19,11 +19,11 @@ Staff members with the location agent or location consumer agent role can do the
 -   View information for the customers at their location.
 -   Create cases for the accounts, contacts, households, and consumers.
 -   Update cases created at their location.
--   [[import-create-csm-consumers|Create consumers]].
+-   Create consumers.
 
 ## Case location
 
-A case belongs to a business location. When a case is created by a location agent or manager, the **Service Organization** field on the [[r_CustomerServiceCaseForm|Case form]] is automatically updated with the business location to which the agent or manager belongs. If the case is reassigned, this field is updated to that of the new agent or manager.
+A case belongs to a business location. When a case is created by a location agent or manager, the **Service Organization** field on the Case form is automatically updated with the business location to which the agent or manager belongs. If the case is reassigned, this field is updated to that of the new agent or manager.
 
 If the location agent or manager belongs to multiple locations, the **Service Organization** field can be kept empty. When you fill in this field, select carefully as the service organization controls a location agent's access to cases.
 
@@ -38,17 +38,17 @@ Case access is controlled by the business location in the **Service Organization
 -   Staff members at the business location with the location agent or location consumer agent role.
 -   Managers at the business location with the location manager role.
 
-Cases for a business location are added to the Cases related list on the internal or [[ext-business-location-form|external business location form]].
+Cases for a business location are added to the Cases related list on the internal or external business location form.
 
 -   When a case is created, the service organization on the case is the service organization of the user who creates the case.
 -   When a case is assigned to an agent, the service organization on the case is updated to the service organization of the assigned agent.
 
-**Note:** Only external staff with the location agent can act as fulfillers. For more information, see [[ebl-as-a-fulfiller|External business location \(EBL\) as a fulfiller]].
+**Note:** Only external staff with the location agent can act as fulfillers. For more information, see [External business location \(EBL\) as a fulfiller](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ebl-as-a-fulfiller.md).
 
 |Consumer type|Case access|
 |-------------|-----------|
 |Consumer|Can manage their own cases.|
-|Head of household|Can [[manage-cases|manage cases]] for all household members.​|
+|Head of household|Can manage cases for all household members.​|
 |Authorized representative, regardless of household|Can manage cases for the consumer they represent​.|
 |Authorized representative, inside of household|Can manage cases for the consumer they represent as long as both are current members of the household.​|
 
@@ -128,11 +128,3 @@ Can manage cases for their households.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[ebl-as-a-fulfiller|External business location \(EBL\) as a fulfiller]]
-- [[import-create-csm-consumers|Create consumers]]
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[ext-business-location-form|External Business Location form]]
-- [[manage-cases|Manage cases]]

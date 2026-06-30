@@ -22,7 +22,7 @@ Role required: sn\_imt\_dashboard.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[safe-workplace-dashboard|Safe Workplace Dashboard]]** &gt; **Campus Locations**.
+1.  Navigate to **All** &gt; **Safe Workplace Dashboard** &gt; **Campus Locations**.
 
 2.  Click **New**.
 
@@ -39,6 +39,3 @@ Role required: sn\_imt\_dashboard.admin
 
 **Parent Topic:**[Create a campus to appear on the Safe Workplace Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace-dashboard/configrng-safe-workplce-dshbrd.md)
 
-## Related
-
-- [[safe-workplace-dashboard|Safe Workplace Dashboard]]

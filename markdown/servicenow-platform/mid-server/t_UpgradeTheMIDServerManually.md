@@ -14,7 +14,7 @@ breadcrumb: [MID Server upgrades, MID Server reference, MID Server, Manage insta
 
 # Upgrade the MID Server manually
 
-MID Servers automatically upgrade to match the instance build the next time they communicate with the instance after an instance upgrade. Use this procedure only if you want to upgrade a [[mid-server-landing|MID Server]] immediately or retry the upgrade after an Upgrade failed status.
+MID Servers automatically upgrade to match the instance build the next time they communicate with the instance after an instance upgrade. Use this procedure only if you want to upgrade a MID Server immediately or retry the upgrade after an Upgrade failed status.
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ The MID Server is upgraded to the version specified by build stamp on the instan
 
 **Parent Topic:**[MID Server upgrades](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/c_UpgradeAndTestMIDServer.md)
 
-## Related
-
-- [[mid-server-landing|MID Server]]

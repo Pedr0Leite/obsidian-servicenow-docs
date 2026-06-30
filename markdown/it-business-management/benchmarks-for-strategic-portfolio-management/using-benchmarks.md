@@ -14,9 +14,9 @@ breadcrumb: [SPM Benchmarks, Strategic Portfolio Management]
 
 # Customize the SPM Benchmarks KPIs
 
-You can customize the KPI information you would want to see in your [[spm-benchmarking-dashboard|SPM Benchmarks dashboard]].
+You can customize the KPI information you would want to see in your SPM Benchmarks dashboard.
 
-You can use the [[benchmarks-for-spm|SPM Benchmarks]] application to do the following:
+You can use the SPM Benchmarks application to do the following:
 
 -   [Choose your KPIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/benchmarks-for-strategic-portfolio-management/choose-your-kpis.md) from the list of available KPIs, based on your organizational requirement.
 -   [Change a KPI formula](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/benchmarks-for-strategic-portfolio-management/modify-the-kpi-formula.md) to adjust the details pertaining to your organizational need.
@@ -28,7 +28,3 @@ View and change the key performance indicators \(KPIs\) formula according to you
 
 **Parent Topic:**[SPM Benchmarks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/benchmarks-for-strategic-portfolio-management/benchmarks-for-spm.md)
 
-## Related
-
-- [[spm-benchmarking-dashboard|SPM Benchmarks dashboard]]
-- [[benchmarks-for-spm|SPM Benchmarks]]

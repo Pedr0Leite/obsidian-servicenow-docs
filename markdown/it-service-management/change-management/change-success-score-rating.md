@@ -14,7 +14,7 @@ breadcrumb: [Change success score, Configure, Change Management, IT Service Mana
 
 # Success score rating
 
-Based on the [[change-success-score|change success score]] rating, a color and text is associated that is displayed as part of the Change Success Score card. By default, four success score ratings are available with a specific score range.
+Based on the change success score rating, a color and text is associated that is displayed as part of the Change Success Score card. By default, four success score ratings are available with a specific score range.
 
 ## Before you begin
 
@@ -51,6 +51,3 @@ You can choose to modify the score range, color, introduce, or modify new rating
 
 **Parent Topic:**[Change success score](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/change-success-score.md)
 
-## Related
-
-- [[change-success-score|Change success score]]

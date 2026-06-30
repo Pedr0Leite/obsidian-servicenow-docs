@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Strategic Planning, Reference, Portfolio
 
 # Goal/Target Relationship form
 
-Use the [[goal-relationship-form|Goal/Target Relationship form]] to create a relationship between a goal and planning item, strategic item, or any other item.
+Use the Goal/Target Relationship form to create a relationship between a goal and planning item, strategic item, or any other item.
 
 <table id="table_demand_benefit_plan_form"><thead><tr><th>
 
@@ -46,7 +46,7 @@ Primary
 
 </td><td>
 
-Option to make the goal/target relationship as primary. Selecting this field automatically populates the **Primary goal** and **Primary target** fields on the [[planning-item-form|planning item form]].
+Option to make the goal/target relationship as primary. Selecting this field automatically populates the **Primary goal** and **Primary target** fields on the planning item form.
 
 </td></tr><tr><td>
 
@@ -92,7 +92,3 @@ Document ID of the column from the selected reference table.The suggested values
 </td></tr></tbody>
 </table>**Parent Topic:**[Form field information for Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/form-field-information-for-strategic-planning.md)
 
-## Related
-
-- [[goal-relationship-form|Goal/Target Relationship form]]
-- [[planning-item-form|Planning item form]]

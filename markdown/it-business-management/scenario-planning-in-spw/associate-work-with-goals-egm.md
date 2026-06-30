@@ -14,7 +14,7 @@ breadcrumb: [Manage portfolio plan goals, Portfolio Planning in Strategic Planni
 
 # Align a planning item with goals or targets
 
-[[create-goal|Create a goal]] or target relationship with a planning item or any other item to identify and associate your current or future work and achieve your goals and targets.
+Create a goal or target relationship with a planning item or any other item to identify and associate your current or future work and achieve your goals and targets.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ You can create goal or target relationships with a custom planning item from the
 
 ## Procedure
 
-1.  Open the [[goal-relationship-form|Goal/Target Relationship form]] using one of the following options.
+1.  Open the Goal/Target Relationship form using one of the following options.
 
 <table id="choicetable_whk_swd_tw"><thead><tr><th align="left" id="d146990e80">
 
@@ -50,7 +50,7 @@ Steps
 
 **Note:** From the Align work window, you can create a goal or target relationship with planning items only. To create a goal or target relationship with any item other than planning item, navigate to the full details page of the item using the second option in this table.
 
- 1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]]**.
+ 1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Portfolio Planning**.
 2.  From the list of portfolio plans, select the required portfolio plan that the goal belongs to.
 3.  In the Goals view, select the **Goals and targets** tab.
 4.  Next to the required goal or target that you want to associate a work item for, select the row context menu icon \(\[Omitted image "action-menu-icon.png"\] Alt text: Row context menu icon.\) and select **Align work**.
@@ -78,7 +78,7 @@ For a description of the field values, see [Goal/Target Relationship form](https
 
 The Goal side panel opens with the **Details** tab.
 
-5.  In the side panel, select **Full Details** to open the [[goal-form|goal form]].
+5.  In the side panel, select **Full Details** to open the goal form.
 6.  \(To create a goal or target relationship with a planning item\) On the **Planning items** tab, select **Add**.
 7.  \(To create a goal or target relationship with an item other than planning item\) On the **Other items** tab, select **Add**.
 8.  On the Goal/Target Relationships form, for a planning item \(Project, Demand, or Epic\), fill in the **Planning item type** and **Planning item** fields on the Goal/Target Relationship form.
@@ -90,10 +90,4 @@ For a description of the field values, see [Goal/Target Relationship form](https
 </td></tr></tbody>
 </table>2.  Select either **Done** or **Save**.
 
-## Related
 
-- [[create-goal|Create a goal]]
-- [[goal-relationship-form|Goal/Target Relationship form]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[goal-form|Goal form]]

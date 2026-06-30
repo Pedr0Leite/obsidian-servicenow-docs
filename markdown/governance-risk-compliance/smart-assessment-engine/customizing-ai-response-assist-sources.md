@@ -15,13 +15,13 @@ breadcrumb: [Configure, Now Assist, Smart Assessment Engine, Governance, Risk, a
 
 # Customizing AI Response Assist sources
 
-The [[ai-generated-responses-for-smart-assessment|Smart Assessment Response Assist skill]] refers to previous assessments and documents to generate suggestions. By default, the skill uses scope-based matching for previous assessments and the files attached to the assessment instance for documents. To use different sources for a specific template category, implement the Smart Assessment Response Assist scripted extension point.
+The Smart Assessment Response Assist skill refers to previous assessments and documents to generate suggestions. By default, the skill uses scope-based matching for previous assessments and the files attached to the assessment instance for documents. To use different sources for a specific template category, implement the Smart Assessment Response Assist scripted extension point.
 
 ## What a scripted extension point is
 
 A scripted extension point is a ServiceNow platform mechanism that lets you extend the functionality of an application without modifying the application's core code.
 
-For background on how scripted [[extension-points|extension points]] work and how to implement them, see [Using extension points to extend application functionality](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/extension-points.md).
+For background on how scripted extension points work and how to implement them, see [Using extension points to extend application functionality](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/extension-points.md).
 
 ## Why SAE exposes this extension point
 
@@ -36,7 +36,7 @@ Smart Assessment Response Assist generates draft answers from two source types.
     Files the skill can analyze for answer content \(SOC 2 reports, security policies, DPAs, vendor documentation, and so on\).
 
 
-The [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] exposes the Smart Assessment Response Assist scripted extension point so that upstream applications and customer developers can provide that selection logic per template category.
+The Smart Assessment Engine exposes the Smart Assessment Response Assist scripted extension point so that upstream applications and customer developers can provide that selection logic per template category.
 
 ## Default behavior when no implementation is registered
 
@@ -174,8 +174,3 @@ After you create the script include, register it as an implementation of `sn_sma
 
 [Configure Now Assist for Smart Assessment Engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/configure-now-assist-for-smart-assessment-engine.md)
 
-## Related
-
-- [[ai-generated-responses-for-smart-assessment|Smart Assessment response assist skill]]
-- [[extension-points|Extension points]]
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]

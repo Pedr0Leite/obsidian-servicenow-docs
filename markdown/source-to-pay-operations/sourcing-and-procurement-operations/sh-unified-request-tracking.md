@@ -14,13 +14,13 @@ breadcrumb: [Using Shopping Hub, Use, Sourcing and Procurement Operations, Finan
 
 # Unified request tracking in Shopping Hub
 
-You can search for purchased products and services by entering the original purchase record ID or its associated record IDs in [[shopping-hub-overview|Shopping Hub]]. This includes tracking details from the ordering stage to the fulfillment stage of the procurement process.
+You can search for purchased products and services by entering the original purchase record ID or its associated record IDs in Shopping Hub. This includes tracking details from the ordering stage to the fulfillment stage of the procurement process.
 
-Additionally, you can use keywords or the first three letters of a record to find products. For instance, searching for "Laptop" will display a list of laptops purchased. Similarly, typing "SRC" shows all sourcing requests, typing "PRL" displays [[purchase-requisition|purchase requisition]] lines, and so on.
+Additionally, you can use keywords or the first three letters of a record to find products. For instance, searching for "Laptop" will display a list of laptops purchased. Similarly, typing "SRC" shows all sourcing requests, typing "PRL" displays purchase requisition lines, and so on.
 
 **Note:** The search results include all records, regardless of their current status. Even closed records are shown in the search results.
 
-For example, suppose you created a [[sourcing-request|sourcing request]] \(SRC0000007\) to purchase a product. As the product progressed through the procurement process, the sourcing request converted into a purchase requisition \(PR0000002\), which then became a [[purchase-order-table|purchase order]] \(PO0001026\).
+For example, suppose you created a sourcing request \(SRC0000007\) to purchase a product. As the product progressed through the procurement process, the sourcing request converted into a purchase requisition \(PR0000002\), which then became a purchase order \(PO0001026\).
 
 \[Omitted image "sh-unified-request-tracking.png"\] Alt text: My purchases showing the progression of your purchases.
 
@@ -30,9 +30,3 @@ Navigate to **ShoppingHub** &gt; **ShoppingHub Home** &gt; **My purchases**. In 
 
 **Parent Topic:**[Using Shopping Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/use-shoppinghub-portal.md)
 
-## Related
-
-- [[shopping-hub-overview|Shopping Hub]]
-- [[purchase-requisition|Purchase requisition]]
-- [[sourcing-request|Sourcing request]]
-- [[purchase-order-table|Purchase order]]

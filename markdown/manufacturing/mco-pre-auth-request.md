@@ -12,13 +12,13 @@ breadcrumb: [MCO core, Explore, Manufacturing Commercial Operations]
 
 # Pre-authorization
 
-A [[mco-pre-auth-request-use|pre-authorization request]] is a process to confirm the approval before initiating activities, such as repairs, material procurement, or labor costs that are included under warranty or service agreements. This procedure confirms that all required inspections and criteria are satisfied and duly authorized by the Warranty Specialist. When a claim is created, approved [[mco-agents-pre-auth-requests|pre-authorization requests]] can be used to generate claim jobs, avoiding re-entering of claim details. This process promotes quality assurance and operational efficiency in the process.
+A pre-authorization request is a process to confirm the approval before initiating activities, such as repairs, material procurement, or labor costs that are included under warranty or service agreements. This procedure confirms that all required inspections and criteria are satisfied and duly authorized by the Warranty Specialist. When a claim is created, approved pre-authorization requests can be used to generate claim jobs, avoiding re-entering of claim details. This process promotes quality assurance and operational efficiency in the process.
 
 ## Use case: Warranty pre-authorization request and approval
 
 Scenario
 
-James, a dealer warranty administrator, must [[mco-submit-pre-auth-request|submit a pre-authorization request]] before a technician begins repair work on a customer vehicle with a non-functioning air conditioner system. High-cost repairs under warranty require pre-authorization, but the process faces several challenges:
+James, a dealer warranty administrator, must submit a pre-authorization request before a technician begins repair work on a customer vehicle with a non-functioning air conditioner system. High-cost repairs under warranty require pre-authorization, but the process faces several challenges:
 
 -   Disconnected systems and incomplete data cause request delays
 -   Manual data entry across multiple platforms increases errors
@@ -31,7 +31,7 @@ Solution
 
 Dealer Submission Process.
 
-James uses the MCO [[mco-dealer-portal|Dealer Portal]] to submit a pre-authorization request:
+James uses the MCO Dealer Portal to submit a pre-authorization request:
 
 1.  Accesses unified portal with recall campaigns, repair claims, and pre-authorization requests in one place
 2.  Initiates new request where MCO auto-loads vehicle assets linked to the dealership
@@ -52,7 +52,7 @@ Angela, a warranty specialist, uses the MCO workspace to review and approve the 
 4.  Approves parts and labor but reduces customer pickup service from the requested amount to $250 with feedback that warranty policies cover pickup service up to a maximum of $250
 5.  Submits approval with logged actions creating full traceability
 
-After repair completion, James uses the pre-approved request to create the [[mco-use-repair-claim|repair claim]] without reentering information.
+After repair completion, James uses the pre-approved request to create the repair claim without reentering information.
 
 Benefits
 
@@ -69,10 +69,3 @@ Outcome
 
 James successfully submits a complete pre-authorization request with parts, labor, and service costs. Angela reviews and partially approves the request with clear feedback on the adjusted pickup service amount. After repair completion, James converts the pre-approved request to a repair claim without reentering data, reducing processing time and ensuring accurate, compliant warranty management.
 
-## Related
-
-- [[mco-pre-auth-request-use|Pre-authorization request]]
-- [[mco-agents-pre-auth-requests|Pre-authorization requests]]
-- [[mco-submit-pre-auth-request|Submit a pre-authorization request]]
-- [[mco-dealer-portal|Dealer portal]]
-- [[mco-use-repair-claim|Repair claim]]

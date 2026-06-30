@@ -12,7 +12,7 @@ breadcrumb: [Using Contracts and Entitlements Workflows, Customer Contracts and 
 
 # Cancel a customer contract
 
-Create an order to cancel a customer contract and its child customer contract lines on the [[csm-workspaces-configure|CSM Configurable Workspace]]. By canceling a customer contract, you are terminating the services specified in that customer contract.
+Create an order to cancel a customer contract and its child customer contract lines on the CSM Configurable Workspace. By canceling a customer contract, you are terminating the services specified in that customer contract.
 
 ## Before you begin
 
@@ -49,6 +49,3 @@ Role required: sn\_customerservice\_manager and sn\_ind\_tmt\_orm.order\_agent
 
 With the customer contract, all the associated customer contract lines and entitlements are also cancelled and will be in **Cancelled** state.
 
-## Related
-
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

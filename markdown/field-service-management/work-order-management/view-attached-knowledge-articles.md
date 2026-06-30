@@ -14,7 +14,7 @@ breadcrumb: [Work order tasks \(WOTs\), Contractor Portal, Completing work order
 
 # View attached knowledge articles
 
-View relevant knowledge articles for reference that are attached to the work order tasks in the Field Service [[field-service-contractor-portal|Contractor Portal]].
+View relevant knowledge articles for reference that are attached to the work order tasks in the Field Service Contractor Portal.
 
 ## Before you begin
 
@@ -43,6 +43,3 @@ The knowledge article view page in the Field Service Contractor Portal provides 
 
 The selected version of the article opens in a Knowledge Details page displayed in another tab within the Field Service Contractor Portal. The tab name includes the knowledge article number and its version number.
 
-## Related
-
-- [[field-service-contractor-portal|Contractor Portal]]

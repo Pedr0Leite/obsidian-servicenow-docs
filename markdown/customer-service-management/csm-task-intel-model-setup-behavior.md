@@ -20,7 +20,7 @@ Training a machine learning model is when the model learns patterns in past data
 
 ## Setting up a field prediction model
 
-Users with the ml\_admin role can create and train a machine learning model to predict field values from the [[csm-task-intel-admin-center|Task Intelligence Admin Console]].
+Users with the ml\_admin role can create and train a machine learning model to predict field values from the [Task Intelligence Admin Console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-task-intel-admin-center.md).
 
 Using the field prediction model as a starting point, you can choose the training data set that the model learns from. The model can be trained using data from the following tables:
 
@@ -44,7 +44,7 @@ If the model is configured to use text from attachments, the system performs the
 -   If the record has attachments in a supported format, the system parses the text and sends it as an input to the categorization model, along with text from the input fields.
 -   If the record does not have attachments, or no attachments in a supported format, the system sends text from the input fields to the categorization model.
 
-Supported content types and file extensions are stored in the **sn\_csm\_ml\_task.categorization.allowed\_content\_types** system property. For more information, see [[case-categorization-components|Components installed with Task Intelligence for Customer Service]].
+Supported content types and file extensions are stored in the **sn\_csm\_ml\_task.categorization.allowed\_content\_types** system property. For more information, see [Components installed with Task Intelligence for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-categorization-components.md).
 
 ## Supporting multiple languages
 
@@ -57,7 +57,7 @@ The case sentiment model is pre-trained with a large data set to learn communica
 -   **Email**: The model uses the text in the subject and body of the initial email to predict sentiment when the case is created. Text from the body of subsequent emails is used to update the prediction.
 -   **Cases**: The model uses the text in the case short description and description to predict sentiment when the case is created. Comments added to the case are used to update the prediction.
 
-The case sentiment model supports case types. When setting up a sentiment model, you select the table on which to run [[case-sentiment-analysis|sentiment analysis]]. You can select:
+The case sentiment model supports case types. When setting up a sentiment model, you select the table on which to run sentiment analysis. You can select:
 
 -   The Case table
 -   Tables that extend the Case table
@@ -66,8 +66,3 @@ The case sentiment model supports case types. When setting up a sentiment model,
 
 **Parent Topic:**[Task Intelligence Admin Console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-task-intel-admin-center.md)
 
-## Related
-
-- [[csm-task-intel-admin-center|Task Intelligence Admin Console]]
-- [[case-categorization-components|Components installed with Task Intelligence for Customer Service]]
-- [[case-sentiment-analysis|Sentiment Analysis]]

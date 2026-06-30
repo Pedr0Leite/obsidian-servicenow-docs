@@ -14,11 +14,11 @@ breadcrumb: [Embedded Help, In-product help, Adoption services, Configure user e
 
 # Configuring Embedded Help
 
-Plan and [[configure-onboarding-modals|configure]] the [[embedded-help|Embedded Help]] topics that your organization's users would benefit from.
+Plan and configure the Embedded Help topics that your organization's users would benefit from.
 
 ## Configuration overview
 
-You should begin your Embedded Help configuration by planning, including identifying features, [[form-configurable-workspace|forms]], and [[lists-configurable-workspace|lists]] that your users could use additional guidance on. Then, begin to map and create or update the topics you will create.
+You should begin your Embedded Help configuration by planning, including identifying features, forms, and lists that your users could use additional guidance on. Then, begin to map and create or update the topics you will create.
 
 -   **[Embedded Help planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/embedded-help-planning.md)**  
 Before writing custom embedded help, plan the content and note the information used in the Embedded Help form. Careful planning ensures that the topic appears for the right page and role.
@@ -31,9 +31,3 @@ You can embed a link to video content in a custom embedded help topic. YouTube a
 
 **Parent Topic:**[Embedded Help](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/embedded-help.md)
 
-## Related
-
-- [[configure-onboarding-modals|Configure]]
-- [[embedded-help|Embedded Help]]
-- [[form-configurable-workspace|Forms]]
-- [[lists-configurable-workspace|Lists]]

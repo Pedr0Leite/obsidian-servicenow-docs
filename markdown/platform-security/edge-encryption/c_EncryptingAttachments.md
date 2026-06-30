@@ -16,9 +16,9 @@ breadcrumb: [Configuring Edge Encryption, Edge Encryption, Encryption]
 
 You can encrypt attachments for specific tables.
 
-All attachments to a table use the same [[encryption-landing|encryption]] type. Encrypted attachments are not searched when performing a text search. Only the standard encryption types are allowed for attachments. The order preserving or equality preserving encryption types are not allowed.
+All attachments to a table use the same encryption type. Encrypted attachments are not searched when performing a text search. Only the standard encryption types are allowed for attachments. The order preserving or equality preserving encryption types are not allowed.
 
-For a session bypassing the [[edge-encryption|Edge Encryption]] proxy:
+For a session bypassing the Edge Encryption proxy:
 
 -   On a record with attachment encryption activated:
     -   The user can see that there are attachments and the attachment names.
@@ -41,7 +41,7 @@ Role required: security\_admin
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **Edge Encryption [[sc-configuration|Configuration]]** &gt; **Edge Encryption Configurations** &gt; **Create New**.
+1.  Navigate to **All** &gt; **Edge Encryption Configuration** &gt; **Edge Encryption Configurations** &gt; **Create New**.
 
 2.  Fill in the fields on the form, as appropriate.
 
@@ -168,8 +168,4 @@ Role required: security\_admin
 
 7.  To run the job immediately, click **Execute Now**.
 
-## Related
 
-- [[encryption-landing|Encryption]]
-- [[edge-encryption|Edge Encryption]]
-- [[sc-configuration|Configuration]]

@@ -28,7 +28,7 @@ Role required: sn\_si.admin or sn\_si.analyst
 
 ## About this task
 
-You can run the Stop and Quarantine File action on the particular [[c_Observables|observables]] of type SHA1 only. Store the details on the Additional Actions on Endpoint table. You can trigger the Stop and Quarantine File capability from the Microsoft Defender for Endpoint Related Machines details related list.
+You can run the Stop and Quarantine File action on the particular observables of type SHA1 only. Store the details on the Additional Actions on Endpoint table. You can trigger the Stop and Quarantine File capability from the Microsoft Defender for Endpoint Related Machines details related list.
 
 ## Procedure
 
@@ -68,6 +68,3 @@ You can run the Stop and Quarantine File action on the particular [[c_Observable
 
 [Configure Get Related Machines from Defender Capability in Microsoft Defender for Endpoint]()
 
-## Related
-
-- [[c_Observables|Observables]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, Predictive intelligence for Legal Service Delivery, Inte
 
 # Configure fields to be displayed in Activity stream
 
-Configure fields to be displayed in the [[activity-lxp|Activity]] stream.
+Configure fields to be displayed in the Activity stream.
 
 ## Before you begin
 
@@ -43,6 +43,3 @@ Role required: sn\_lg\_ops.legal\_config
 
 **Parent Topic:**[Configure Predictive Intelligence for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-PI-configure-landing.md)
 
-## Related
-
-- [[activity-lxp|Activity]]

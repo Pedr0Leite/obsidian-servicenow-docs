@@ -14,7 +14,7 @@ breadcrumb: [Configure, CMDB Health, Configuration Management Database \(CMDB\),
 
 # Set a CI attribute to be mandatory
 
-Configure a CI attribute as mandatory so it is included in the [[c_CMDBHealth|CMDB Health]] tests for the **required** metric if enabled. **Required** is a metric of the CMDB Health **completeness** KPI.
+Configure a CI attribute as mandatory so it is included in the CMDB Health tests for the **required** metric if enabled. **Required** is a metric of the CMDB Health **completeness** KPI.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ When a field is configured as mandatory, then if the **required** metric is enab
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Configuration** &gt; **[[ci-class-manager-landing-page|CI Class Manager]]**.
+1.  Navigate to **All** &gt; **Configuration** &gt; **CI Class Manager**.
 
 2.  Select **Hierarchy** to display the CI Classes list. Then select the class with the field that needs to be set as mandatory.
 
@@ -37,7 +37,7 @@ When a field is configured as mandatory, then if the **required** metric is enab
 
 4.  Locate the attribute that you want to set as mandatory, and then double-click its **Mandatory** value and set it to true.
 
-    The next time the form is opened, a field status indicator appears next to the field [[label|label]], indicating that a value is mandatory.
+    The next time the form is opened, a field status indicator appears next to the field label, indicating that a value is mandatory.
 
     **Note:** Mandatory fields are global. The field is marked as mandatory everywhere it appears on a form. Also, mandatory fields do not appear correctly when using Service Mapping tag-based discovery. For more information, see [Tag-based discovery in Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/tag-based-mapping.md).
 
@@ -49,8 +49,3 @@ When a field is configured as mandatory, then if the **required** metric is enab
 
 [Make a field mandatory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_MakingAFieldMandatory.md)
 
-## Related
-
-- [[c_CMDBHealth|CMDB Health]]
-- [[ci-class-manager-landing-page|CI Class Manager]]
-- [[label|Label]]

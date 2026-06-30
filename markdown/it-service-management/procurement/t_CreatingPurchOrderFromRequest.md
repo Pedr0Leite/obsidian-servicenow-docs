@@ -14,7 +14,7 @@ breadcrumb: [Sourcing items in a service catalog request, Procurement, Asset Man
 
 # Create a purchase order from a request
 
-You can [[t_CreateAPurchaseOrder|create a purchase order]] directly from a request. This approach enables [[c_Procurement|procurement]] managers to obtain items and fulfill requests from the Service Catalog. You can create multiple purchase orders from a request.
+You can create a purchase order directly from a request. This approach enables procurement managers to obtain items and fulfill requests from the Service Catalog. You can create multiple purchase orders from a request.
 
 ## Before you begin
 
@@ -27,10 +27,10 @@ If you don't have the Sourcing and Procurement Operations \(SOP\) application, y
 If you have the Sourcing and Procurement Operations \(SPO\) application along with required plugins installed, and the necessary role assigned, you can create a purchase order by accessing the Shopping Hub catalog items.
 
 -   Required Plugins:
-    -   [[c_AssetManagement|Asset Management]] Integration for Sourcing and Procurement Operations \(com.snc.sn\_spend\_asset\)
+    -   Asset Management Integration for Sourcing and Procurement Operations \(com.snc.sn\_spend\_asset\)
     -   Sourcing and Purchasing Automation \(com.snc.sn\_pr\)
     -   Shopping Hub \(com.snc.uib.sn\_spend\_uib\)
--   Required Roles: The procurement manager has the asset manager role \(sn\_spend\_asset.spo\_shopper\) and other roles depending on the IT Asset Management [[dex-workspace-application-tab|applications]].
+-   Required Roles: The procurement manager has the asset manager role \(sn\_spend\_asset.spo\_shopper\) and other roles depending on the IT Asset Management applications.
 
 For more information about the Asset Management Integration for Sourcing and Procurement Operations \(com.snc.sn\_spend\_asset\) plugin, see [Sourcing and Procurement Operations integration with IT Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/spo-itam-better-together.md).
 
@@ -91,9 +91,3 @@ For more information about the Asset Management Integration for Sourcing and Pro
 
 [Add an assignment from a request]()
 
-## Related
-
-- [[t_CreateAPurchaseOrder|Create a purchase order]]
-- [[c_Procurement|Procurement]]
-- [[c_AssetManagement|Asset Management]]
-- [[dex-workspace-application-tab|Applications]]

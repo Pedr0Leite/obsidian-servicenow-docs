@@ -20,7 +20,7 @@ Define your own Agile configuration or update an existing configuration in Enter
 
 [Install Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/install-alignment-planner-workspace.md).
 
-Set the Application Scope of your ServiceNow instance to [[alignment-planner-workspace-landing-page|Strategic Planning]].
+Set the Application Scope of your ServiceNow instance to Strategic Planning.
 
 Role required: sn\_apw\_advanced.eap\_admin
 
@@ -64,11 +64,11 @@ State of the configuration. The default value for this field is **Inactive**.Cha
 
 </td></tr><tr><td>
 
-Sync with [[agile-development|Agile Development]]
+Sync with Agile Development
 
 </td><td>
 
-Select this option to sync iterations such as Planning Intervals and Sprints with [[agile-landing-page|Agile Development 2.0]]. For more information, see [Integration between EAP and Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/sync-eap-and-agile-2.md).If your team is of the Kanban type, you can leave this option unselected.
+Select this option to sync iterations such as Planning Intervals and Sprints with Agile Development 2.0. For more information, see [Integration between EAP and Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/sync-eap-and-agile-2.md).If your team is of the Kanban type, you can leave this option unselected.
 
 </td></tr></tbody>
 </table>5.  Select the work item types to be available within this configuration.
@@ -103,8 +103,3 @@ Select this option to sync iterations such as Planning Intervals and Sprints wit
 -   If you have updated the planning calendar selection for any active configuration that has teams associated with it, update the relevant dashboard configuration too. This action ensures that the metrics displayed for those teams are accurate. See [Updating dashboards for planning calendar changes in EAP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/updating-dashboards-for-planning-calendar-changes-in-eap.md).
 -   [Activate an EAP configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/activate-eap-configuration.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[agile-development|Agile Development]]
-- [[agile-landing-page|Agile Development 2.0]]

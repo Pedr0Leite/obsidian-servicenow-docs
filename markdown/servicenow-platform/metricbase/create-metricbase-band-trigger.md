@@ -28,7 +28,7 @@ Band triggers execute when metrics fall outside of or within a range of values.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[metricbase|MetricBase]]** &gt; **MetricBase Triggers** &gt; **Trigger Definitions**.
+1.  Navigate to **All** &gt; **MetricBase** &gt; **MetricBase Triggers** &gt; **Trigger Definitions**.
 
 2.  Select **New**.
 
@@ -151,6 +151,3 @@ Length of time used to calculate the aggregation function. For example, assume t
 
 Associate this trigger with a Workflow Studio flow. For more information, see [Assign a trigger to a flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/assign-trigger-to-workflow.md).
 
-## Related
-
-- [[metricbase|MetricBase]]

@@ -20,7 +20,7 @@ Deploying to production is not the end of the process — it is the beginning of
 
 Before deploying, confirm that all Phase 5 validation gate criteria have been met and that any required organizational approvals \(security review, AI governance sign-off\) have been obtained.
 
-When deploying, verify that all roles, ACLs, user [[identity-landing|identity]] configurations, Guardian settings, and privacy [[ca-policies|policies]] from your non-production build are correctly replicated in your production instance. [[sc-access-control|Access control]] and Guardian [[sc-configuration|configuration]] does not transfer automatically in all deployment scenarios.
+When deploying, verify that all roles, ACLs, user identity configurations, Guardian settings, and privacy policies from your non-production build are correctly replicated in your production instance. Access control and Guardian configuration does not transfer automatically in all deployment scenarios.
 
 ## Activate analytics and monitoring
 
@@ -34,21 +34,21 @@ Set up the following monitoring capabilities on the day of go-live:
 
     Track AI agent use, efficiency gain, time to resolution, and task closure trends specific to your deployed agents. See [AI Agent Analytics dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-agent-dashboard.md).
 
--   **[[now-assist-guardian|Now Assist Guardian]] analytics**
+-   **Now Assist Guardian analytics**
 
     Monitor guardrail performance to track how often offensive content, prompt injection attempts, and sensitive subject detections occur in production. See [Now Assist Guardian analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-guardian-analytics.md).
 
 
 ## Establish your baseline
 
-Record your initial production [[ca-metrics|metrics]] against the success criteria you defined in Phase 2. Your baseline measurements during the first week of production operation give you the reference point for all future optimization decisions.
+Record your initial production metrics against the success criteria you defined in Phase 2. Your baseline measurements during the first week of production operation give you the reference point for all future optimization decisions.
 
 At minimum, record the following from day one:
 
 -   Agent execution volume \(number of invocations\).
 -   Task closure and deflection rate.
 -   Guardian detection counts by category \(offensive, prompt injection, sensitive topics\).
--   Any access control failures surfaced in [[logs|logs]].
+-   Any access control failures surfaced in logs.
 
 ## Ongoing monitoring and review
 
@@ -56,7 +56,7 @@ Schedule the following recurring activities to keep your agent performing secure
 
 -   **Regular Guardian log review**
 
-    [[export|Export]] and review Now Assist Guardian logs on a regular schedule to identify emerging patterns in detected content. See . Increasing detection rates may indicate that your agent is being targeted or that your prompts need refinement.
+    Export and review Now Assist Guardian logs on a regular schedule to identify emerging patterns in detected content. See . Increasing detection rates may indicate that your agent is being targeted or that your prompts need refinement.
 
 -   **Access control audit**
 
@@ -67,16 +67,5 @@ Schedule the following recurring activities to keep your agent performing secure
     Review your agent's performance metrics against your baseline and success criteria. Use the AI Agent Analytics dashboard and Now Assist Analytics to identify trends and determine whether prompt refinement or configuration changes are needed.
 
 
-**Parent Topic:**[[naai-tutorial-overview|Create and secure an AI agent in Now Assist]]
+**Parent Topic:**[Create and secure an AI agent in Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/naai-tutorial-overview.md)
 
-## Related
-
-- [[naai-tutorial-overview|Create and secure an AI agent in Now Assist]]
-- [[identity-landing|Identity]]
-- [[ca-policies|Policies]]
-- [[sc-access-control|Access control]]
-- [[sc-configuration|Configuration]]
-- [[now-assist-guardian|Now Assist Guardian]]
-- [[ca-metrics|Metrics]]
-- [[logs|Logs]]
-- [[export|Export]]

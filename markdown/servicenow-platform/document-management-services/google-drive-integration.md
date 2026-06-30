@@ -22,7 +22,7 @@ Increase collaboration by integrating Google Drive with your ServiceNow instance
 
 With the Google Drive integration, you can do the following:
 
--   Edit, share, copy, and [[delete-a-doc|delete documents]] from Google Drive to your ServiceNow instance.
+-   Edit, share, copy, and delete documents from Google Drive to your ServiceNow instance.
 -   Edit, share, copy, and delete documents from a ServiceNow instance to Google Drive.
 -   Fetch the current version of the document.
 -   Collaborate for reviewing, approving, or co-authoring documents.
@@ -30,7 +30,7 @@ With the Google Drive integration, you can do the following:
 
 ## Activation information
 
-To integrate Google Drive with [[document-services-landing-page|Document Services]], install the [[mp-document-services-framework-landing|Multi Provider Document Services Framework]] plugin \(com.snc.multiprovider\_documents\). For more information, see [Activate Multi Provider Document Services Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/activate-multi-provider-doc-framework.md).
+To integrate Google Drive with Document Services, install the Multi Provider Document Services Framework plugin \(com.snc.multiprovider\_documents\). For more information, see [Activate Multi Provider Document Services Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/activate-multi-provider-doc-framework.md).
 
 -   **[Document Services Framework for Google Drive](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/google-drive-spoke-document-services.md)**  
 Integrate the Document Services with Google Drive.
@@ -39,8 +39,3 @@ Integrate a ServiceNow instance and Google Drive spoke for Google Drive by using
 
 **Parent Topic:**[Integrate with Document Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/integrate-with-document-services-mp.md)
 
-## Related
-
-- [[delete-a-doc|Delete documents]]
-- [[document-services-landing-page|Document Services]]
-- [[mp-document-services-framework-landing|Multi Provider Document Services Framework]]

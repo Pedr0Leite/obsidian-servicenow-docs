@@ -14,7 +14,7 @@ breadcrumb: [Cloud Cost Management Workspace, Exploring Cloud Cost Management, C
 
 # Spend dashboard view
 
-Ensure accurate spend reporting by using the Spend view in the [[ci-workspace|Cloud Cost Management Workspace]].
+Ensure accurate spend reporting by using the Spend view in the Cloud Cost Management Workspace.
 
 **Important:** If you have the insights\_owner role, only the accounts that are assigned to you appear in the filters and data.
 
@@ -97,7 +97,7 @@ Cost allocation
 
 </td><td>
 
-This report fetches data from the [[spend-anaytics|Spend analytics]] dashboard.
+This report fetches data from the Spend analytics dashboard.
 
 </td><td>
 
@@ -117,8 +117,3 @@ Region-wise spend on cloud resources for the current month.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[ci-workspace|Cloud Cost Management Workspace]]
-- [[spend-anaytics|Spend analytics]]

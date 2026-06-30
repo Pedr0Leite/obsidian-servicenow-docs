@@ -14,7 +14,7 @@ breadcrumb: [Generate recommendations for regulatory alert impacted areas, Use g
 
 # Add impacted areas manually to a regulatory alert
 
-Add impacted areas such as citations, control objectives, policies, and more to your [[list-view-of-reg-alerts|regulatory alerts]]. Adding impacted areas to a regulatory alert captures additional impacts that you identified and impacts that weren’t initially recommended.
+Add impacted areas such as citations, control objectives, policies, and more to your regulatory alerts. Adding impacted areas to a regulatory alert captures additional impacts that you identified and impacts that weren’t initially recommended.
 
 ## Before you begin
 
@@ -33,7 +33,7 @@ Impacted areas can be added as part of accepted recommendations or can be manual
 1.  Navigate to one of the following locations:
 
     -   **Workspaces** &gt; **Compliance Workspace**, select the list icon \[Omitted image "ws-list-icon.png"\] Alt text: and then navigate to **Regulatory alerts**.
-    -   **Workspaces** &gt; **Compliance Workspace** select the [[reg-change-mgmt-landing-page|Regulatory Change Management]] dashboard icon \[Omitted image "reg-change-icon.png"\] Alt text: and then in the Activity overview, Tracking, or Trends section, select any segment or value in an Alerts related widget to open the list of regulatory alerts with that state.
+    -   **Workspaces** &gt; **Compliance Workspace** select the Regulatory Change Management dashboard icon \[Omitted image "reg-change-icon.png"\] Alt text: and then in the Activity overview, Tracking, or Trends section, select any segment or value in an Alerts related widget to open the list of regulatory alerts with that state.
 2.  Select the regulatory alert that you want to review recommendations for and navigate to the Impacted areas tab.
 
 3.  Select **Add**.
@@ -56,7 +56,3 @@ You can initiate the implementation activity for impacted business areas of oper
 
 [Generate recommendations for regulatory alert impacted citations, control objectives, controls, and policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/create-recommendation-reg-alert.md)
 
-## Related
-
-- [[list-view-of-reg-alerts|Regulatory alerts]]
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]

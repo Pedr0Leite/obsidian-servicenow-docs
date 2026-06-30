@@ -14,7 +14,7 @@ breadcrumb: [Configure the MID Web Server extension, MID Web Server, Event Manag
 
 # Configure MID Web Server API key authentication
 
-Authenticate incoming requests from clients to the [[mid-web-server|MID Web Server]] extension using API key authentication. API authentication is a secure and simple way to authenticate your request. You can create or modify a MID Web Server API key.
+Authenticate incoming requests from clients to the MID Web Server extension using API key authentication. API authentication is a secure and simple way to authenticate your request. You can create or modify a MID Web Server API key.
 
 ## Before you begin
 
@@ -101,6 +101,3 @@ Option for setting an expiration date for the API key.Expired, deactivated, or d
 
         5.  Select **Submit**.
 
-## Related
-
-- [[mid-web-server|MID Web Server]]

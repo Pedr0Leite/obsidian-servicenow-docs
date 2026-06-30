@@ -22,11 +22,11 @@ Role required: wm\_manager, sn\_fsm\_tp.fsm\_territory\_resource\_manager
 
 ## About this task
 
-Administrators can configure what is defined as **Risk of breach** using the script includes. For more information, see [[manager-mobile-ref|Field Service Manager Mobile script includes]].
+Administrators can configure what is defined as **Risk of breach** using the script includes. For more information, see [Field Service Manager Mobile script includes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/manager-mobile-ref.md).
 
 ## Procedure
 
-1.  Open [[manager-mobile-app|Field Service Manager Mobile]].
+1.  Open Field Service Manager Mobile.
 
 2.  Tap the SLA status that you want to view from the Home tab.
 
@@ -36,7 +36,4 @@ Administrators can configure what is defined as **Risk of breach** using the scr
     |Risk of breach|Shows tasks at risk of breaching the SLA. By default, tasks show as Risk of breach starting 4 hours before the window end of the task.|
     |Paused|Shows tasks with a paused SLA status.|
 
-## Related
 
-- [[manager-mobile-ref|Field Service Manager Mobile script includes]]
-- [[manager-mobile-app|Field Service Manager Mobile]]

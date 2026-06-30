@@ -12,7 +12,7 @@ breadcrumb: [Configure the Impact Store Application, Configuring Impact, Impact]
 
 # Run Impact Guided Setup
 
-Use [[impact-landing-page|Impact]] Guided Setup to follow a sequence of tasks that [[io-help|help]] you configure the Impact Store Application on your ServiceNow instance.
+Use Impact Guided Setup to follow a sequence of tasks that help you configure the Impact Store Application on your ServiceNow instance.
 
 ## Before you begin
 
@@ -39,18 +39,11 @@ Role required: impact app admin, admin
 
 ## What to do next
 
-[[onboard_users_impact_store_application|Use Guided Setup to onboard users to the Impact Store Application]]
+[Use Guided Setup to onboard users to the Impact Store Application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/onboard_users_impact_store_application.md)
 
-**Parent Topic:**[[configuring-impact-platform|Configure the Impact Store Application]]
+**Parent Topic:**[Configure the Impact Store Application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configuring-impact-platform.md)
 
-**Previous topic:**[[install-impact-innovation-lab|Install Impact]]
+**Previous topic:**[Install Impact](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/install-impact-innovation-lab.md)
 
 **Next topic:**[Use Guided Setup to onboard users to the Impact Store Application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/onboard_users_impact_store_application.md)
 
-## Related
-
-- [[onboard_users_impact_store_application|Use Guided Setup to onboard users to the Impact Store Application]]
-- [[configuring-impact-platform|Configure the Impact Store Application]]
-- [[install-impact-innovation-lab|Install Impact]]
-- [[impact-landing-page|Impact]]
-- [[io-help|Help]]

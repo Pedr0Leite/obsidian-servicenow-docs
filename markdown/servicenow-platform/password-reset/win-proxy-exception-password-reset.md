@@ -40,11 +40,8 @@ Role required: Windows system administrator
 
 8.  Click **OK** to close the **LAN Settings** page and then click **OK** to close **Internet options**.
 
-9.  Export the following registry key to all clients that use the [[win-password-reset-overview|Password Reset Windows Application]]:`HKEY_USERS\.DEFAULT\Software\Microsoft\Windows\CurrentVersion\Internet Settings`
+9.  Export the following registry key to all clients that use the Password Reset Windows Application:`HKEY_USERS\.DEFAULT\Software\Microsoft\Windows\CurrentVersion\Internet Settings`
 
 
 **Parent Topic:**[Configure the Password Reset Windows Application to use a proxy server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/win-config-proxy-server-password-reset.md)
 
-## Related
-
-- [[win-password-reset-overview|Password Reset Windows Application]]

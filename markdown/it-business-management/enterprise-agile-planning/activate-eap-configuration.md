@@ -18,7 +18,7 @@ Activate a new or existing configuration in Enterprise Agile Planning \(EAP\) so
 
 ## Before you begin
 
-Set the Application Scope of your ServiceNow instance to [[alignment-planner-workspace-landing-page|Strategic Planning]].
+Set the Application Scope of your ServiceNow instance to Strategic Planning.
 
 Role required: sn\_apw\_advanced.eap\_admin
 
@@ -41,6 +41,3 @@ Role required: sn\_apw\_advanced.eap\_admin
 
 Add teams to your configuration. See [Define agile structure in EAP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/define-agile-structure-in-eap.md).
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

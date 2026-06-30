@@ -14,7 +14,7 @@ breadcrumb: [Enable actionable knowledge feedback, Configuring Knowledge Managem
 
 # Add a property to enable creating knowledge articles from HR cases
 
-Add a property, which is required to allow users to [[create-knowledge-article|create a knowledge article]] from an HR case.
+Add a property, which is required to allow users to create a knowledge article from an HR case.
 
 ## Before you begin
 
@@ -46,6 +46,3 @@ The property is added and you can now create knowledge articles from an HR case.
 
 **Parent Topic:**[Enable actionable knowledge feedback](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/configure-act-know-feedback-properties.md)
 
-## Related
-
-- [[create-knowledge-article|Create a knowledge article]]

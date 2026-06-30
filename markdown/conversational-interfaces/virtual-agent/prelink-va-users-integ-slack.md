@@ -14,7 +14,7 @@ breadcrumb: [Configure VA settings for Slack, Conversational Integration with Sl
 
 # Pre-link Virtual Agent requesters before integration with Slack
 
-Pre-link your [[virtual-agent-landing-page|Virtual Agent]] requesters to a ServiceNow instance before they run the [[mssg-slack|Conversational Integration with Slack]]. Batch pre-linking enables your Virtual Agent users immediately to chat with a virtual agent and receive notifications without going through the initial authentication linking process.
+Pre-link your Virtual Agent requesters to a ServiceNow instance before they run the Conversational Integration with Slack. Batch pre-linking enables your Virtual Agent users immediately to chat with a virtual agent and receive notifications without going through the initial authentication linking process.
 
 ## Before you begin
 
@@ -59,7 +59,3 @@ Batch pre-linking happens automatically via the **Slack Daily Pre-Link Job** sch
 
 **Parent Topic:**[Configure Virtual Agent settings for Slack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-va-slack-settings.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[mssg-slack|Conversational Integration with Slack]]

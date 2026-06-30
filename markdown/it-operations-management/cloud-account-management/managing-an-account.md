@@ -14,7 +14,7 @@ breadcrumb: [Using Cloud Account Management in Cloud Workspace, Cloud Account Ma
 
 # Managing cloud accounts
 
-Managing a cloud account enables you to accomplish a range of tasks such as canceling, suspending, or reactivating [[cloud-accounts|cloud accounts]], and adding unmanaged accounts.
+Managing a cloud account enables you to accomplish a range of tasks such as canceling, suspending, or reactivating cloud accounts, and adding unmanaged accounts.
 
 <table id="table_qmv_chb_fcc"><thead><tr><th>
 
@@ -58,7 +58,3 @@ You can import cloud accounts to manage them.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cloud-accounts|Cloud accounts]]

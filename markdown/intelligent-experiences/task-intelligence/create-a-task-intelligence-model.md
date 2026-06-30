@@ -22,8 +22,6 @@ Create machine learning models to predict field values, analyze case sentiment, 
 
 -   ****
 
-    Create and train a model to predict fields for customer service [[cases|cases]].
+    Create and train a model to predict fields for customer service cases.
 
-## Related
 
-- [[cases|Cases]]

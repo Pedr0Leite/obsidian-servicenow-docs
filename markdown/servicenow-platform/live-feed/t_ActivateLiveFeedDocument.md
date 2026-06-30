@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-Administrators can enable [[c_RecordFeeds|record feeds]] in an instance by activating the Live Feed Document plugin, which activates the Live Feed plugin if it is not active. For upgrades, administrators must activate the plugin.
+Administrators can enable record feeds in an instance by activating the Live Feed Document plugin, which activates the Live Feed plugin if it is not active. For upgrades, administrators must activate the plugin.
 
 ## Procedure
 
@@ -34,14 +34,10 @@ Administrators can enable [[c_RecordFeeds|record feeds]] in an instance by activ
 
 3.  Select **Install** to start the installation process.
 
-    **Note:** When [[domain-separation-relationship-formatter-editor|domain separation]] and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
+    **Note:** When domain separation and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
 
 **Parent Topic:**[Record feeds](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/c_RecordFeeds.md)
 
-## Related
-
-- [[c_RecordFeeds|Record feeds]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]

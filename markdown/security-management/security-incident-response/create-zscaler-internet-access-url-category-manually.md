@@ -22,7 +22,7 @@ Role required: sn\_si.admin
 
 ## About this task
 
-The [[zscaler-integration-for-security-operations|Security Incident Response integration with Zscaler]] provides a default allow list and deny list URL category lists to help filter content.
+The Security Incident Response integration with Zscaler provides a default allow list and deny list URL category lists to help filter content.
 
 The URL categories that you add in the ServiceNow AI Platform instance should already be in your Zscaler Internet Access environment. You can't use Security Incident Response integration with Zscaler to create URL categories on Zscaler.
 
@@ -86,7 +86,7 @@ Display Tag
 
 </td><td>
 
-Security tag that appears on the SIR security incident. When you enable the **Display Tag** option, the Zscaler Tag for [[c_Observables|observables]] field is available on the form.
+Security tag that appears on the SIR security incident. When you enable the **Display Tag** option, the Zscaler Tag for observables field is available on the form.
 
 </td></tr><tr><td>
 
@@ -121,7 +121,4 @@ Description of the Zscaler URL category list. Use this field for adding more det
 
     A successful submission triggers an email notification to the approval group.
 
-## Related
 
-- [[zscaler-integration-for-security-operations|Security Incident Response integration with Zscaler]]
-- [[c_Observables|Observables]]

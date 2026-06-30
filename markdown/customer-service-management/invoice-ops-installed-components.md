@@ -12,7 +12,7 @@ breadcrumb: [Case Management for Invoice Operations, Case management, Organize a
 
 # Components installed with Case Management for Invoice Operations
 
-Several types of components are installed with the [[csm-invoice-operations|Case Management for Invoice Operations]] application, including tables, roles, and service definitions.
+Several types of components are installed with the Case Management for Invoice Operations application, including tables, roles, and service definitions.
 
 ## Tables
 
@@ -45,7 +45,7 @@ Stores the case line items created for invoice cases. This table extends the Cas
 Records in the Order Case Line table use the prefix **INVCSL**.
 
 </td></tr></tbody>
-</table>The Case Management for Invoice Operations application also uses the following tables from the [[csm-case-mgmt-case-lines|Case lines and workflows]] application.
+</table>The Case Management for Invoice Operations application also uses the following tables from the [Case lines and workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-case-mgmt-case-lines.md) application.
 
 <table id="table_jcd_55l_fdc"><thead><tr><th>
 
@@ -69,7 +69,7 @@ Case Line Characteristic\[sn\_case\_line\_characteristic\]
 
 </td><td>
 
-The [[case-line-characteristics-form|Case Line Characteristic form]] displays details about a case line item on a case record.The prefix for case line characteristic records is **CSLC**.
+The Case Line Characteristic form displays details about a case line item on a case record.The prefix for case line characteristic records is **CSLC**.
 
 </td></tr><tr><td>
 
@@ -174,7 +174,7 @@ Invoice case creator\[sn\_csm\_invoice.creator\]
 
 </td><td>
 
-[[invoice-ops-creating-invoice-cases|Creating an invoice case]] with invoice case lines and invoice case line characteristics.Create access to invoice cases.
+Creating an invoice case with invoice case lines and invoice case line characteristics.Create access to invoice cases.
 
 </td><td>
 
@@ -230,7 +230,7 @@ The Case Management for Invoice Operations application provides the following in
 
 Agents can use this service definition to raise a dispute for one or more invoices or for specific lines on a single invoice.
 
-This service definition belongs to the Invoice service definition category, which stores services for invoice-related issues. When creating an invoice case, agents can select this service definition in the [[csm-case-type-select-modals|case type selector]].
+This service definition belongs to the Invoice service definition category, which stores services for invoice-related issues. When creating an invoice case, agents can select this service definition in the [case type selector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-case-type-select-modals.md).
 
 **Note:** The **Invoice Disputes** service definition is not active by default. To activate this service definition, the system administrator can:
 
@@ -241,7 +241,7 @@ This service definition belongs to the Invoice service definition category, whic
 
 For more information about service definitions and categories, see the following topics:
 
--   [[csm-service-definitions|Service definitions]]
+-   [Service definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-service-definitions.md)
 -   [Service definition categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-service-definitions.md)
 
 ## Service level agreements \(SLAs\)
@@ -318,17 +318,17 @@ In addition to the fields on the customer service case record, the Invoice Case 
     -   Specific invoice lines, single invoice
     -   Invoice header details, multiple invoices
 
-For more information about case types, see [[customer-service-case-types|Customer service case types]].
+For more information about case types, see [Customer service case types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-case-types.md).
 
 To view the Invoice case type, navigate to **All** &gt; **Customer Service** &gt; **Case Types** &gt; **Manage Case Types** and select **Invoice**.
 
 ## Invoice case form views
 
-The Case Management for Invoice Operations application includes form views to display invoice cases in [[csm-workspaces-configure|CSM Configurable Workspace]] and in the Core UI.
+The Case Management for Invoice Operations application includes form views to display invoice cases in CSM Configurable Workspace and in the Core UI.
 
-This application uses the [[csm-default-record-page|CSM default record page]] to display Invoice case records in CSM Configurable Workspace.
+This application uses the [CSM default record page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-default-record-page.md) to display Invoice case records in CSM Configurable Workspace.
 
-Invoice cases include the following related [[migration-lists|lists]]:
+Invoice cases include the following related lists:
 
 -   Invoice Case Lines: Includes the individual case line records for this invoice case.
 -   Tasks: Includes tasks that have been created for this invoice case.
@@ -336,12 +336,12 @@ Invoice cases include the following related [[migration-lists|lists]]:
 
 For more information, see the following topics:
 
--   [[invoice-case-form|Invoice case form]]
--   [[invoice-case-lines-form|Invoice case line form]]
+-   [Invoice case form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/invoice-case-form.md)
+-   [Invoice case line form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/invoice-case-lines-form.md)
 
 ## Invoice case archive rules
 
-The Case Management for Invoice Operations application includes archive [[gamification-components-rules|rules]] that archive older invoice cases.
+The Case Management for Invoice Operations application includes archive rules that archive older invoice cases.
 
 <table id="table_bmp_vgp_2dc"><thead><tr><th>
 
@@ -387,18 +387,3 @@ For example, when mapping a customer invoice to an invoice case, the entities sh
 
 To view this subflow, navigate to **All** &gt; **Process Automation** &gt; **Workflow Studio** and select **Subflows** on the Workflow Studio homepage.
 
-## Related
-
-- [[csm-case-mgmt-case-lines|Case Lines and Workflows]]
-- [[csm-case-type-select-modals|Case type selector]]
-- [[csm-service-definitions|Service definitions]]
-- [[customer-service-case-types|Customer service case types]]
-- [[csm-default-record-page|CSM default record page]]
-- [[invoice-case-form|Invoice case form]]
-- [[invoice-case-lines-form|Invoice case line form]]
-- [[csm-invoice-operations|Case Management for Invoice Operations]]
-- [[case-line-characteristics-form|Case line characteristic form]]
-- [[invoice-ops-creating-invoice-cases|Creating an invoice case]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[migration-lists|Lists]]
-- [[gamification-components-rules|Rules]]

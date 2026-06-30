@@ -16,7 +16,7 @@ breadcrumb: [XML APIs, Encryption rule objects and APIs, Define a custom encrypt
 
 A global object that provides methods to iterate over the XML content.
 
-You can access an XMLContent object by calling [getAsXmlContent\(\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/c_requestAPI.md) on a [[c_requestAPI|request]] object.
+You can access an XMLContent object by calling [getAsXmlContent\(\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/c_requestAPI.md) on a request object.
 
 You access XML data in a [POST or URL parameter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/param-apis.md) by calling `request.postParams.<parameter name>.getAsXmlContent()` or `request.urlParams.<parameter name>.getAsXmlContent()`.
 
@@ -24,7 +24,7 @@ You access XML data in a [POST or URL parameter](https://raw.githubusercontent.c
 
 ## XMLContent - getIterator\(\)
 
-Returns an [[c_XMLElementIteratorAPI|XMLElementIterator]] object for the XML content.
+Returns an XMLElementIterator object for the XML content.
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -46,7 +46,3 @@ Returns an XMLElementIterator object for the XML content based on the specified 
 |----|-----------|
 |XMLElementIterator|An object that can be used to iterate over elements in the XMLContent object.|
 
-## Related
-
-- [[c_requestAPI|request]]
-- [[c_XMLElementIteratorAPI|XMLElementIterator]]

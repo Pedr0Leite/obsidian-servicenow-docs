@@ -14,7 +14,7 @@ breadcrumb: [Scores from risk intelligence providers, Integrate, Third-party Ris
 
 # Set up a request type for a provider
 
-After you [[tprm-riskintelprvdr-register|register a risk intelligence provider]] and service, you specify the available request types that you and your organization will use.
+After you register a risk intelligence provider and service, you specify the available request types that you and your organization will use.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ You can now request different types of risk scores from the risk intelligence pr
 
 **Parent Topic:**[Integrating scores from risk intelligence providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-riskintelprvdr-overview.md)
 
-## Related
-
-- [[tprm-riskintelprvdr-register|Register a risk intelligence provider]]

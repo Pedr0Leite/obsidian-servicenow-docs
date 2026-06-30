@@ -14,7 +14,7 @@ breadcrumb: [Migrate, Legal Simple Contracts, Legal Service Delivery Practice Ap
 
 # Preparing for migration from Legal Simple Contracts to Contract Management Pro for Legal Service Delivery
 
-Prepare the ServiceNow instance to migrate the data from [[legal-simple-contracts-landing-page|Legal Simple Contracts]] to [[snlc-expl-legal-contracts|Contract Management Pro for Legal Service Delivery]].
+Prepare the ServiceNow instance to migrate the data from Legal Simple Contracts to Contract Management Pro for Legal Service Delivery.
 
 Note the following requirements to prepare your ServiceNow instance for migration:
 
@@ -26,13 +26,8 @@ Note the following requirements to prepare your ServiceNow instance for migratio
 -   Any changes to the contract repository records should be done before closing the legal request or the changes will have to be done manually after migration.
 -   Record producers available in Legal Simple Contracts should be re-created in Contract Management Pro for Legal Service Delivery.
 -   If you have configured external storage for Legal Simple Contracts, ensure you have done so for Contract Management Pro for Legal Service Delivery.
--   Create Microsoft [[cncore-expl-wdt|Word document templates]] in Contract Management Pro for Legal Service Delivery that are equivalent to the HTML or PDF contract templates available in Legal Simple Contracts.
+-   Create Microsoft Word document templates in Contract Management Pro for Legal Service Delivery that are equivalent to the HTML or PDF contract templates available in Legal Simple Contracts.
 -   Ensure that Contract Management Pro for Legal Service Delivery is set up correctly. For more information, see [Configure Contract Management Pro for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-config-sn-legal-contracts.md)
 
 **Parent Topic:**[Migrating to Contract Management Pro for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/migration-landing-page.md)
 
-## Related
-
-- [[legal-simple-contracts-landing-page|Legal Simple Contracts]]
-- [[snlc-expl-legal-contracts|Contract Management Pro for Legal Service Delivery]]
-- [[cncore-expl-wdt|Word Document Templates]]

@@ -15,7 +15,7 @@ breadcrumb: [ITOM Content Service, ITOM Visibility, IT Operations Management]
 
 # Install ITOM Content Service
 
-Install the [[discovery-content-services|ITOM Content Service]] application \(sn\_smart\_content\) to manage and monitor the creation of configuration items based on application fingerprints.
+Install the ITOM Content Service application \(sn\_smart\_content\) to manage and monitor the creation of configuration items based on application fingerprints.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: admin
 
 The following plugins are activated with ITOM Content Service:
 
--   [[r-discovery|Discovery]] \(com.snc.discovery\)
+-   Discovery \(com.snc.discovery\)
 -   Normalization Data Services Client \(com.glide.data\_services\_canonicalization.client\)
 -   File Based Discovery \(com.snc.discovery.file\_based\_discovery\)—starting with ITOM Content Service version 1.5.1
 
@@ -64,7 +64,3 @@ The following plugins are activated with ITOM Content Service:
 
 [Discovery Admin Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-admin-workspace.md)
 
-## Related
-
-- [[discovery-content-services|ITOM Content Service]]
-- [[r-discovery|Discovery]]

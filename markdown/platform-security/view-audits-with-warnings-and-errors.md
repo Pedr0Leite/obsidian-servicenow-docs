@@ -12,7 +12,7 @@ breadcrumb: [Domain Separation Center, Domain separation for service providers, 
 
 # View audits with warnings and errors
 
-The [[domain-separation-center|Domain Separation Center]] provides details about audit errors and warnings.
+The Domain Separation Center provides details about audit errors and warnings.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-On the Domain Separation Center dashboard, **Errors** and **Warnings** provide detailed information about audits that encountered problems. [[logs|Logs]] related to domain separation reside on your server in the syslog\_domain table. Errors are issues that require immediate attention. Warnings do not lead to failures but present [[best-practices|best practices]], for example, not making the domain name too long.
+On the Domain Separation Center dashboard, **Errors** and **Warnings** provide detailed information about audits that encountered problems. Logs related to domain separation reside on your server in the syslog\_domain table. Errors are issues that require immediate attention. Warnings do not lead to failures but present best practices, for example, not making the domain name too long.
 
 ## Procedure
 
@@ -50,8 +50,3 @@ On the Domain Separation Center dashboard, **Errors** and **Warnings** provide d
     -   **Deactivate Audit** — Inactivate an audit.
     -   **Copy Details** — Copy audit details to the clipboard.
 
-## Related
-
-- [[domain-separation-center|Domain Separation Center]]
-- [[logs|Logs]]
-- [[best-practices|Best Practices]]

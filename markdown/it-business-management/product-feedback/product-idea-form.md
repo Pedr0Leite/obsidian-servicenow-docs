@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Feedback application, Feedback reference
 
 # Product idea form
 
-Learn about the fields of the Product idea form. Use this form to create or edit the details of a product idea in [[alignment-planner-workspace-landing-page|Strategic Planning]].
+Learn about the fields of the Product idea form. Use this form to create or edit the details of a product idea in Strategic Planning.
 
 <table id="table_qwn_3lp_5xb"><thead><tr><th>
 
@@ -154,6 +154,3 @@ The following is the list of related tabs:
 
 [Feedback form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/feedback-form.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

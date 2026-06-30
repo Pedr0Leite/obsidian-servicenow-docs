@@ -12,7 +12,7 @@ breadcrumb: [REST and SOAP Signing, Using Code Signing, Code Signing, Platform S
 
 # Sign new REST and SOAP messages
 
-Sign and validate the new REST and SOAP messages from the trusted instance by enabling the [[code-signing-landing|Code Signing]] in protected and trusted instances.
+Sign and validate the new REST and SOAP messages from the trusted instance by enabling the Code Signing in protected and trusted instances.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: security\_admin
 
 3.  In the trusted instance, change the state of the update set to **Complete** and click **Update**.
 
-4.  In the trusted instance, sign the update set by creating an [[encryption-landing|encryption]] job.
+4.  In the trusted instance, sign the update set by creating an encryption job.
 
     1.  Navigate to **System Security** &gt; **Security Jobs** &gt; **All**.
 
@@ -48,7 +48,7 @@ Role required: security\_admin
 
         -   **Summary** is updated that the records are signed.
         -   The update set is updated and includes the signature.
-5.  In the trusted instance, open the signed update set record and [[export|export]] it to an XML.
+5.  In the trusted instance, open the signed update set record and export it to an XML.
 
 6.  In the protected instance, import the update set.
 
@@ -60,8 +60,4 @@ Role required: security\_admin
 
         The update set is committed successfully.
 
-## Related
 
-- [[code-signing-landing|Code Signing]]
-- [[encryption-landing|Encryption]]
-- [[export|Export]]

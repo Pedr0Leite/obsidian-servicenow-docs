@@ -34,7 +34,7 @@ Asset Intelligence is supported in these SCCM plugins:
 
 1.  Navigate to the **System Import Sets** &gt; **Administration** &gt; **Scheduled Imports**.
 
-2.  Set **Active** to **false** for these data import [[c_UseSchedules|schedules]]:
+2.  Set **Active** to **false** for these data import schedules:
 
     -   SCCM &lt;version&gt; Software
     -   SCCM &lt;version&gt; Removed Software
@@ -43,15 +43,10 @@ Asset Intelligence is supported in these SCCM plugins:
     -   SCCM &lt;version&gt; Software \(with AI\)
     -   SCCM &lt;version&gt; Removed Software \(with AI\)
 
-**Parent Topic:**[[c_MicrosoftSCCMIntegration|Microsoft SCCM integration]]
+**Parent Topic:**[Microsoft SCCM integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_MicrosoftSCCMIntegration.md)
 
 **Related topics**  
 
 
-[[configure-sccm-data-import|Configure the SCCM integration and schedule an import]]
+[Configure the SCCM integration and schedule an import](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-sccm-data-import.md)
 
-## Related
-
-- [[c_MicrosoftSCCMIntegration|Microsoft SCCM integration]]
-- [[configure-sccm-data-import|Configure the SCCM integration and schedule an import]]
-- [[c_UseSchedules|Schedules]]

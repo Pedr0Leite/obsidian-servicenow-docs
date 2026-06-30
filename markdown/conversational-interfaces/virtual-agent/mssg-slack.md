@@ -14,7 +14,7 @@ breadcrumb: [Integrate VA with messaging apps, Integrate VA with other channels,
 
 # Conversational Integration with Slack
 
-Use the Conversational Integration with Slack application to connect your requesters with [[virtual-agent-landing-page|Virtual Agent]] or live agents through your company’s Slack workspace.
+Use the Conversational Integration with Slack application to connect your requesters with Virtual Agent or live agents through your company’s Slack workspace.
 
 ## Get started with Conversational Integration with Slack
 
@@ -30,7 +30,7 @@ Select a tile to get started.
 
 </td></tr><tr><td>
 
-[Now Assist\[Omitted image "bus-ai-sparkle.svg"\] Alt text:Use [[now-assist-in-va-landing|Now Assist in Virtual Agent]] in your Slack integration.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/na-va-llm-slack.md)
+[Now Assist\[Omitted image "bus-ai-sparkle.svg"\] Alt text:Use Now Assist in Virtual Agent in your Slack integration.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/na-va-llm-slack.md)
 
 </td><td>
 
@@ -54,7 +54,3 @@ Virtual Agent features, such as AI Search results, Virtual Agent notifications, 
 
 **Parent Topic:**[Integrating Virtual Agent with messaging apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-integration-messaging-apps.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]

@@ -20,7 +20,7 @@ Work on a treasury case to collect applicant information, ensure that any outsta
 
 Role required: sn\_bom\_treasury.agent or sn\_bom\_treasury.agent\_connector
 
-**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [[fso-combine-csm-industry-roles|Roles and Personas]].
+**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-combine-csm-industry-roles.md).
 
 ## About this task
 
@@ -32,7 +32,7 @@ Use the case playbook that provides the activities and tasks required to researc
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -51,7 +51,7 @@ Use the case playbook that provides the activities and tasks required to researc
 6.  Use the activities and tasks under the following playbook stages to fulfill the request and resolve the case:
 
     -   **Initiate** to collect the customer information and submit application for activating a treasury service.
-    -   **Due diligence** to [[perform-due-diligence|perform due diligence]].
+    -   **Due diligence** to perform due diligence.
 
         **Note:** This stage is available only for the RDC service workflow.
 
@@ -67,8 +67,3 @@ Use the case playbook that provides the activities and tasks required to researc
 
 **Parent Topic:**[Using Financial Services Treasury Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-treasury-operations/using-treasury-ops.md)
 
-## Related
-
-- [[fso-combine-csm-industry-roles|Using agent connector and contributor roles in Financial Services Operations]]
-- [[fso-overview|Financial Services]]
-- [[perform-due-diligence|Perform Due Diligence]]

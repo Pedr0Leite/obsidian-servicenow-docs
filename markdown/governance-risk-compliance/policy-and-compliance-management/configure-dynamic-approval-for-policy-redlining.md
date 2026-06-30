@@ -14,7 +14,7 @@ breadcrumb: [Set up dynamic approval configuration on a policy record, Policy an
 
 # Policy dynamic approval setup with redlining
 
-Set up dynamic [[bcm-approval-configuration|approval configuration]] on a policy for which redlining is enabled.
+Set up dynamic approval configuration on a policy for which redlining is enabled.
 
 ## Before you begin
 
@@ -83,6 +83,4 @@ To use dynamic approval for policy redlining, ensure that the redlining setup is
 
     If the policy gets rejected at any state, it is reset to the **Draft** state. Once the approvers approve the policy, it moves to the **Published** state.
 
-## Related
 
-- [[bcm-approval-configuration|Approval configuration]]

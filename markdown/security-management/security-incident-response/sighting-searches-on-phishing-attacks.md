@@ -14,16 +14,16 @@ breadcrumb: [Manage security threats using the Security Analyst Workspace, Secur
 
 # Sightings searches on user-reported phishing and malware attacks
 
-Perform [[indicator-sightings|sightings]] searches on emails or [[c_Observables|observables]] to determine how often certain types of attacks, such as phishing attacks or communications with a malicious IP or URL occur in your network. Each occurrence is considered a sighting. Sightings searches for observables must be configured for your log stores or security information and event management \(SIEM\).
+Perform sightings searches on emails or observables to determine how often certain types of attacks, such as phishing attacks or communications with a malicious IP or URL occur in your network. Each occurrence is considered a sighting. Sightings searches for observables must be configured for your log stores or security information and event management \(SIEM\).
 
-Watch this three-minute video to learn how to use the sighting search feature to locate phished users, and track phishing and [[threat-intelligence-malware|malware]] observables within the log store on your network.
+Watch this three-minute video to learn how to use the sighting search feature to locate phished users, and track phishing and malware observables within the log store on your network.
 
 The following terms are used to describe user-reported phishing attacks:
 
 -   Phished user: A user who has received a phishing email.
 -   Victim user: A user who has interacted with the phishing URL, typically by clicking a link in the phishing email. This action potentially exposes credentials to the attacker.
 
-As you start analyzing a phishing incident, you can [Perform an email sightings search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/sighting-searches-on-phishing-attacks.md) or [Perform an observable sightings search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/sighting-searches-on-phishing-attacks.md) to identify other users in your organization who are impacted by the same phishing attack. Search your log stores to identify phished and victim users. After you have identified the list of affected users, create child security incidents to perform comprehensive incident response procedures using the [[tools|tools]] available in [[sir-landing-page|Security Incident Response]].
+As you start analyzing a phishing incident, you can [Perform an email sightings search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/sighting-searches-on-phishing-attacks.md) or [Perform an observable sightings search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/sighting-searches-on-phishing-attacks.md) to identify other users in your organization who are impacted by the same phishing attack. Search your log stores to identify phished and victim users. After you have identified the list of affected users, create child security incidents to perform comprehensive incident response procedures using the tools available in Security Incident Response.
 
 **Note:** You can also use the following approach to perform a sightings search:
 
@@ -43,7 +43,7 @@ Configure sighting searches and create saved configurations for SIEMs or other l
 **Related topics**  
 
 
-[[sightings-search-configurations|Create sightings search configuration records]]
+[Create sightings search configuration records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sightings-search-configurations.md)
 
 ## Perform an email sightings search for user-reported phishing attacks
 
@@ -72,9 +72,9 @@ Search the Splunk email traffic logs to gather the list of recipients of a suspi
 
 3.  Click the security incident that you want to analyze.
 
-    The [[vr-va-ws-overview-tab|Overview tab]] provides an overview of the security incident including a list of observables, affected users, and similar security incidents.
+    The Overview tab provides an overview of the security incident including a list of observables, affected users, and similar security incidents.
 
-4.  Click the **[[threat-intelligence-security-center-overview|Explore]]** tab.
+4.  Click the **Explore** tab.
 
 5.  Under **Incident Data**, navigate to **Investigation** &gt; **Search Email &amp; Observables**.
 
@@ -262,7 +262,7 @@ In your Splunk instance, define the saved search with the same name, Default Sav
 
 ### Procedure
 
-1.  Navigate to **[[security-operations-landing-page|Security Operations]]** &gt; **Integrations** &gt; **Sightings Search Configuration** and create a new record \(see table for field descriptions\).
+1.  Navigate to **Security Operations** &gt; **Integrations** &gt; **Sightings Search Configuration** and create a new record \(see table for field descriptions\).
 
     |Field|Description|
     |-----|-----------|
@@ -285,14 +285,3 @@ You have created a sightings search configuration record.
 
 After defining the search query, select **Generate Sightings Search Test Query**, and specify a list of observable values to generate a test query based on this saved search configuration.
 
-## Related
-
-- [[sightings-search-configurations|Create sightings search configuration records]]
-- [[indicator-sightings|Sightings]]
-- [[c_Observables|Observables]]
-- [[threat-intelligence-malware|Malware]]
-- [[tools|Tools]]
-- [[sir-landing-page|Security Incident Response]]
-- [[vr-va-ws-overview-tab|Overview tab]]
-- [[threat-intelligence-security-center-overview|Explore]]
-- [[security-operations-landing-page|Security Operations]]

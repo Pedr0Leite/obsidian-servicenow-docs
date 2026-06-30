@@ -14,9 +14,9 @@ breadcrumb: [Now Mobile experience for Employee Center, Employee Center Integrat
 
 # News in Now Mobile
 
-[[ec-news-articles|News articles]] are available in Now Mobile to provide easy access to consumable content, on-the-go.
+News articles are available in Now Mobile to provide easy access to consumable content, on-the-go.
 
-Get the news experience on mobile with [[employee-center-landing-page|Employee Center]] on the [[mobile-employee-experience|Now Mobile app]]. View news articles on-the-go on your phone.
+Get the news experience on mobile with Employee Center on the Now Mobile app. View news articles on-the-go on your phone.
 
 View news articles from the Featured news section or go to the **News center** tab. Scroll through the Featured news carousel to view all the featured articles on the News center MESP page.
 
@@ -34,8 +34,3 @@ For more information on news articles on the Employee Center portal, see [News a
 
 **Parent Topic:**[Employee Center Integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/integrate-ec.md)
 
-## Related
-
-- [[ec-news-articles|News articles]]
-- [[employee-center-landing-page|Employee Center]]
-- [[mobile-employee-experience|Now Mobile app]]

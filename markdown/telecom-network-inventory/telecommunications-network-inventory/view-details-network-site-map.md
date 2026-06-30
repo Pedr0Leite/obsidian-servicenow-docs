@@ -14,7 +14,7 @@ breadcrumb: [Geo map, Network visualization view, Use, Telecommunications Networ
 
 # View details of the geo map
 
-Use the [[using-network-site-map|geo map]] to view the geographical location of a network site and datacenter and its details in the [[telecom-network-inventory|Telecommunications Network Inventory]] application. You can understand the detailed overview of the site and information about the connections.
+Use the geo map to view the geographical location of a network site and datacenter and its details in the Telecommunications Network Inventory application. You can understand the detailed overview of the site and information about the connections.
 
 ## Before you begin
 
@@ -26,13 +26,13 @@ Use the geo map to do the following:
 
 -   View the details of a network site and datacenter.
 -   View the details of the sites in the same location.
--   View the physical and [[design-logical-connection-design-assign-playbook|logical connections]] and topology associated with the site.
+-   View the physical and logical connections and topology associated with the site.
 -   View the cable routes associated with a site.
 -   View the capacity information.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the blue hub icon \[Omitted image "icon-blue-hub.png"\] Alt text: Blue Hub Icon..
 
@@ -58,7 +58,7 @@ Details
 
 Hover over the map icon on the map pane and then select **View Details**. You can view the site details on the details pane. You can also view the image of the site. To learn more about how to upload an image, see [Add images to a network inventory record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/add-image-network-invetory-record.md).
 
- **Note:** If you select the datacenter on the map pane, select **View [[using-floor-map|floor map]]** to view the floor map. The **View Floor Map** automatically populates the campus only. You must manually select a building and floor to view the corresponding floor map.
+ **Note:** If you select the datacenter on the map pane, select **View floor map** to view the floor map. The **View Floor Map** automatically populates the campus only. You must manually select a building and floor to view the corresponding floor map.
 
 </td></tr><tr><td id="d28424e161">
 
@@ -135,10 +135,3 @@ Select a site to view the number of associated change requests on the details pa
 
 [Geo map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/visualization-map.md)
 
-## Related
-
-- [[using-network-site-map|Geo map]]
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[design-logical-connection-design-assign-playbook|Logical connections]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[using-floor-map|Floor map]]

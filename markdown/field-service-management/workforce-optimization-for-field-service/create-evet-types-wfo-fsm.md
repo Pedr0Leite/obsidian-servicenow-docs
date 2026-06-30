@@ -14,7 +14,7 @@ breadcrumb: [Set up scheduling, Workforce Optimization, Set up workforce, Config
 
 # Create event types to display on the team calendar with Workforce Optimization for Field Service
 
-Create multiple events from the same category and add them to the team calendar with [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]].
+Create multiple events from the same category and add them to the team calendar with Workforce Optimization for Field Service.
 
 ## Before you begin
 
@@ -83,6 +83,4 @@ Color that identifies this type of event in the team calendar.
 </td></tr></tbody>
 </table>5.  Click **Submit**.
 
-## Related
 
-- [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]]

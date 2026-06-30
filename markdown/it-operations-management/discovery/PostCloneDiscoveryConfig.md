@@ -14,7 +14,7 @@ breadcrumb: [Advanced Discovery configuration, Configuring Discovery, Discovery,
 
 # Post-clone Discovery configuration
 
-When a clone occurs, [[r-discovery|Discovery]] schedules are copied from the source instance to the target instance. Additional configuration is necessary for these schedules to function correctly on the target instance, helping you properly configure Cloud-based and IP-based Discovery schedules and maintain optimal performance.
+When a clone occurs, Discovery schedules are copied from the source instance to the target instance. Additional configuration is necessary for these schedules to function correctly on the target instance, helping you properly configure Cloud-based and IP-based Discovery schedules and maintain optimal performance.
 
 **Note:**
 
@@ -127,6 +127,3 @@ Additionally, no MID Server related tables are cloned. For more details, see the
 
 [Managing Instance Clone](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/using-instance-clone.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

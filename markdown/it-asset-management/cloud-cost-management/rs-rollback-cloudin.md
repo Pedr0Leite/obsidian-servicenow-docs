@@ -18,7 +18,7 @@ AWS only: If a Rightsizing action fails, the system immediately performs a rollb
 
 **Note:**
 
-This description of rollback operations applies only to AWS environments. [[cloud-insights-landing-page|Cloud Cost Management]] performs rollback operations for AWS environments.
+This description of rollback operations applies only to AWS environments. Cloud Cost Management performs rollback operations for AWS environments.
 
 Cloud Cost Management doesn’t perform rollback for Microsoft Azure environments. Instead, the Azure Update service performs rollback.
 
@@ -32,6 +32,3 @@ A Rightsizing job proceeds in batches of resources, grouped by provider/service 
 
 Resources in a batch that were in the OFF state aren’t rolled back or marked as failed.
 
-## Related
-
-- [[cloud-insights-landing-page|Cloud Cost Management]]

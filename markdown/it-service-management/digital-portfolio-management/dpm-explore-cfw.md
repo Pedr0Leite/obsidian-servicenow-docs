@@ -14,7 +14,7 @@ breadcrumb: [Digital Portfolio Management, IT Service Management]
 
 # Exploring Digital Portfolio Management
 
-Learn about the [[dpm-landing|Digital Portfolio Management]] \(DPM\) Workspace features and benefits to manage all of your solutions in one place. Solutions in the context of DPM are services, service offerings, business [[dex-workspace-application-tab|applications]], and service instances.
+Learn about the Digital Portfolio Management \(DPM\) Workspace features and benefits to manage all of your solutions in one place. Solutions in the context of DPM are services, service offerings, business applications, and service instances.
 
 ## Digital Portfolio Management overview
 
@@ -45,7 +45,7 @@ Both DPM admins and DPM managers benefit from working in the DPM Workspace.
 -   With a DPM admin role, you can:
     -   Configure DPM Workspace solution pages.
     -   Create and map key performance indicator \(KPI\) groups.
-    -   Create [[dpm-enterprise-portfolios|enterprise portfolios]].
+    -   Create enterprise portfolios.
     -   Use the DPM Admin Center guided walk-through to:
         -   Identify solutions to configure
         -   Identify portfolios
@@ -55,7 +55,7 @@ Both DPM admins and DPM managers benefit from working in the DPM Workspace.
         -   Learn about the next steps that you can take
 -   With a DPM manager role, you can:
     -   Personalize your DPM Workspace homepage.
-    -   Create and manage [[dpm-personal-portfolio|personal portfolios]].
+    -   Create and manage personal portfolios.
     -   Create demands and continual improvement initiatives \(CIM\).
     -   Manage the end-to-end life cycle of your services and applications.
 
@@ -194,9 +194,3 @@ To learn more about configuring and using DPM, see:
 -   [Work with solution data in Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-working-with.md)
 -   [Digital Portfolio Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-reference-cfw.md)
 
-## Related
-
-- [[dpm-landing|Digital Portfolio Management]]
-- [[dex-workspace-application-tab|Applications]]
-- [[dpm-enterprise-portfolios|Enterprise portfolios]]
-- [[dpm-personal-portfolio|Personal portfolios]]

@@ -26,13 +26,13 @@ he Care Team Operations Case Creation Voice AI agent lets users create support r
 
 The following Care Team Operations plugins are supported:
 
--   [[care-team-operations-for-biomed|Care Team Operations for Biomed]].
+-   Care Team Operations for Biomed.
 
--   [[cto-evs-landing|Care Team Operations for Environmental Services]].
+-   Care Team Operations for Environmental Services.
 
--   [[cto-facilities-landing|Care Team Operations for Facilities]].
+-   Care Team Operations for Facilities.
 
--   [[hcls-cto-it-app|Care Team Operations for Healthcare IT]].
+-   Care Team Operations for Healthcare IT.
 
 
 To integrate this agent with supported third-party CCaaS \(Contact Center as a Service\) providers, see [Integrating voice assistant with CCaaS provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/integrating-voice-service-with-ccaas-providers.md).
@@ -47,7 +47,7 @@ For more information on setting up Voice AI Agents, see [Deploy AI voice agents]
 
     **Note:**
 
-    These trigger phrases can be configured to your use case. For information on updating these, see [[hco-now-assist-cto-voice-triggers|Configure Care Team Operations Case Creation Voice AI agent triggers]].
+    These trigger phrases can be configured to your use case. For information on updating these, see [Configure Care Team Operations Case Creation Voice AI agent triggers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hco-now-assist-cto-voice-triggers.md).
 
 3.  Enter your PIN when the agent requests it.
 
@@ -57,10 +57,4 @@ For more information on setting up Voice AI Agents, see [Deploy AI voice agents]
 
 6.  Once the case is created and the agent confirms the details, end the call when prompted.
 
-## Related
 
-- [[hco-now-assist-cto-voice-triggers|Configure Care Team Operations Case Creation Voice AI agent triggers]]
-- [[care-team-operations-for-biomed|Care Team Operations for Biomed]]
-- [[cto-evs-landing|Care Team Operations for Environmental Services]]
-- [[cto-facilities-landing|Care Team Operations for Facilities]]
-- [[hcls-cto-it-app|Care Team Operations for Healthcare IT]]

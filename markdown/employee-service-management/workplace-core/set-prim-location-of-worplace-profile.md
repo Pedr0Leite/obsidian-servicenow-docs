@@ -18,7 +18,7 @@ Assign a primary location for the workplace profile if there are multiple locati
 
 ## Before you begin
 
-**Note:** From [[workplace-safety-mgmt-hr|Workplace Core]] version 2.16.1, the workplace user profiles are created in the Workplace Profile Location Assignment \[sn\_wsd\_core\_workplace\_profile\_location\] table. A new field **Is Primary** is added in the table so that you can specify if a location is the primary location when there are multiple locations. In the case of existing user profiles created in the User Workplace Profiles \[sn\_wsd\_core\_workplace\_profile\] table, a fix script runs and automatically considers the latest workplace location added to the profile as the primary workplace location. To set the primary location of a workplace profile, refer to [Set the primary location of a workplace profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/set-prim-location-of-worplace-profile.md).
+**Note:** From Workplace Core version 2.16.1, the workplace user profiles are created in the Workplace Profile Location Assignment \[sn\_wsd\_core\_workplace\_profile\_location\] table. A new field **Is Primary** is added in the table so that you can specify if a location is the primary location when there are multiple locations. In the case of existing user profiles created in the User Workplace Profiles \[sn\_wsd\_core\_workplace\_profile\] table, a fix script runs and automatically considers the latest workplace location added to the profile as the primary workplace location. To set the primary location of a workplace profile, refer to [Set the primary location of a workplace profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/set-prim-location-of-worplace-profile.md).
 
 Role required: admin
 
@@ -27,7 +27,7 @@ Role required: admin
 When there are multiple locations to which as user workplace profile is assigned, you can specify the primary workplace location. The primary workplace location is considered as the main location. The following areas are impacted when you set a primary workplace location:
 
 -   When an employee raises a workplace service request, depending on the user for whom the request is being used, the fields are automatically filled. In the case where a location is required on the form, the application automatically fills it with the specified primary location.
--   When an employee searches for spaces nearby to the user's location to [[reservation-portal|make a reservation]], the primary location is considered.
+-   When an employee searches for spaces nearby to the user's location to make a reservation, the primary location is considered.
 
 ## Procedure
 
@@ -57,7 +57,3 @@ The primary workplace location is set. The **Primary Workplace location** field 
 
 **Parent Topic:**[Mapping employees to their designated workspaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/mapping-employees-to-existing-work-locations-wsd.md)
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[reservation-portal|Make a reservation]]

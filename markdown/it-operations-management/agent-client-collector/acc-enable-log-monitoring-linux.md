@@ -24,7 +24,7 @@ Role required: agent\_client\_collector\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-landing-page|Agent Client Collector]]** &gt; **Policies**.
+1.  Navigate to **All** &gt; **Agent Client Collector** &gt; **Policies**.
 
 2.  Select the **Linux log monitoring** policy.
 
@@ -65,6 +65,3 @@ Role required: agent\_client\_collector\_admin
 
 **Parent Topic:**[Deploying Agent Client Collector on servers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-server-deployment.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

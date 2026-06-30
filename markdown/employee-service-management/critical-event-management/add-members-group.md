@@ -32,7 +32,7 @@ Role required: admin
 
 5.  On the form, fill in the fields and select **Submit**.
 
-    **Note:** For more information to fill a [[new-member-form|new member form]], see [New member form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/new-member-form.md).
+    **Note:** For more information to fill a new member form, see [New member form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/new-member-form.md).
 
 
 **Parent Topic:**[Configure Critical Event Management groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/configure-critical-event-management-groups.md)
@@ -46,6 +46,3 @@ Role required: admin
 
 [Map on-site responder group with location]()
 
-## Related
-
-- [[new-member-form|New member form]]

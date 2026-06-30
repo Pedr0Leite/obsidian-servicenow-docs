@@ -14,7 +14,7 @@ breadcrumb: [Salesforce, Service Graph Connectors for AI Control Tower, AI conne
 
 # Create an AI connection for Salesforce
 
-Create an AI connection for Salesforce in [[ai-control-tower-landing|AI Control Tower]] using the  [[salesforce|AI Service Graph Connector for Salesforce]].
+Create an AI connection for Salesforce in AI Control Tower using the  AI Service Graph Connector for Salesforce.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_ai\_disc.discovery\_admin and sn\_cmdb\_int\_util.sgc\_admin
 
 ## Procedure
 
-1.  Navigate to **AI Control Tower** &gt; **Configuration** &gt; **[[enterprise-ai-discovery|AI connections]]**.
+1.  Navigate to **AI Control Tower** &gt; **Configuration** &gt; **AI connections**.
 
 2.  Click **Add**.
 
@@ -71,8 +71,3 @@ Role required: sn\_ai\_disc.discovery\_admin and sn\_cmdb\_int\_util.sgc\_admin
 
 The AI connection for Salesforce is created and configured.
 
-## Related
-
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[salesforce|AI Service Graph Connector for Salesforce]]
-- [[enterprise-ai-discovery|AI connections]]

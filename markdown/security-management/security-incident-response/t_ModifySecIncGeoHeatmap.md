@@ -14,7 +14,7 @@ breadcrumb: [Security incident map, Security Incident Response Overview dashboar
 
 # Modify security incident map
 
-Administrators in the global domain, can modify how the [[c_SecurityIncidentGeoHeatmap|security incident map]] handles security incidents using filters.
+Administrators in the global domain, can modify how the security incident map handles security incidents using filters.
 
 ## Before you begin
 
@@ -37,6 +37,3 @@ Role required: sn\_si.admin
 
 **Parent Topic:**[Security incident map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/c_SecurityIncidentGeoHeatmap.md)
 
-## Related
-
-- [[c_SecurityIncidentGeoHeatmap|Security incident map]]

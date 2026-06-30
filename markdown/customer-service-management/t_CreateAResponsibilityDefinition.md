@@ -24,9 +24,9 @@ Role required: One of the following roles:
 
 ## About this task
 
-If you’re using the Service Model Foundation feature, you can also create the responsibility definitions to use in customer and consumer relationships. For more information about configuring Service Model Foundation, see [[configure-industry-data-model|Configure Service Model Foundation]].
+If you’re using the Service Model Foundation feature, you can also create the responsibility definitions to use in customer and consumer relationships. For more information about configuring Service Model Foundation, see [Configure Service Model Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-industry-data-model.md).
 
-The Responsibility Definition \[sn\_customerservice\_responsibility\_def\] table supports domain separation. For more information on domain separation, see [[domain-separation-customer-service|Domain separation and Customer Service Management]].
+The Responsibility Definition \[sn\_customerservice\_responsibility\_def\] table supports domain separation. For more information on domain separation, see [Domain separation and Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/domain-separation-customer-service.md).
 
 **Note:** Starting with the Vancouver release, the Responsibility Definition \[sn\_customerservice\_responsibility\_def\] table is reparented to the Application file \[sys\_metadata\] table.
 
@@ -65,7 +65,7 @@ Type of users to whom the responsibility can be assigned to:-   User: Select **U
 -   Consumer: Select **Consumer** if this responsibility should be assigned to a customer contact. When assigning this role, the list of available users comes from the consumer \[csm\_customer\] table.
 -   Account: Select **Account** if this responsibility should be assigned to a customer contact. When assigning this role, the list of available users comes from the account \[customer\_account\] table.
 -   None: Select **None** if this responsibility definition is to be used when creating relationships between consumers.
- **Note:** Only the responsibility definitions with **Type** set to **User** can be used in the following [[csm-data-model-relationships|Service Model Foundation relationships]]:
+ **Note:** Only the responsibility definitions with **Type** set to **User** can be used in the following Service Model Foundation relationships:
 
 -   Account Team Member
 -   Consumer Team Member
@@ -94,17 +94,10 @@ Provides a description of the purpose or function of the responsibility definiti
 
 ## What to do next
 
-[[declarative-resposibility-framework|Configure access through the responsibility access configuration]]
+[Configure access through the responsibility access configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/declarative-resposibility-framework.md)
 
 **Related topics**  
 
 
-[[csm-data-model-responsibilities|Service Model Foundation responsibilities]]
+[Service Model Foundation responsibilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-data-model-responsibilities.md)
 
-## Related
-
-- [[configure-industry-data-model|Configure Service Model Foundation]]
-- [[domain-separation-customer-service|Domain separation and Customer Service Management]]
-- [[declarative-resposibility-framework|Configure access through the responsibility access configuration]]
-- [[csm-data-model-responsibilities|Service Model Foundation responsibilities]]
-- [[csm-data-model-relationships|Service Model Foundation relationships]]

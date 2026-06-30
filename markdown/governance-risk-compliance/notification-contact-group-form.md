@@ -12,7 +12,7 @@ breadcrumb: [Create notification contact groups, Setup for Everbridge notificati
 
 # Notification Contact Group form
 
-Use the Notification Contact Group form to [[create-notification-contact-group|create a notification contact group]].
+Use the Notification Contact Group form to create a notification contact group.
 
 ## Notification Contact Group form
 
@@ -51,9 +51,5 @@ Last sync on
 Date on which the group was last synchronized with Everbridge.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[create-notification-contact-group-uib-ws|Create notification contact groups]]
+</table>**Parent Topic:**[Create notification contact groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-notification-contact-group-uib-ws.md)
 
-## Related
-
-- [[create-notification-contact-group-uib-ws|Create notification contact groups]]
-- [[create-notification-contact-group|Create a notification contact group]]

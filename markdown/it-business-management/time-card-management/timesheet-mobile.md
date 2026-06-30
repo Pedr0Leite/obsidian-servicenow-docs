@@ -14,9 +14,9 @@ breadcrumb: [Time Card management, Project Portfolio Management, Strategic Portf
 
 # Mobile Time Sheets
 
-The ServiceNow® Mobile Timesheets app enables time sheet users and managers to access their [[time-sheets|time sheets]] from a mobile device. Mobile Time Sheets is available on the Now Mobile app and is supported on iOS and Android devices.
+The ServiceNow® Mobile Timesheets app enables time sheet users and managers to access their time sheets from a mobile device. Mobile Time Sheets is available on the Now Mobile app and is supported on iOS and Android devices.
 
-Time sheet users can use Mobile Time Sheets to create, view, edit, enter notes, and submit their [[c_TimeCards|time cards]] from a mobile device. Time sheet project managers or user managers can view, approve, reject, or recall a time sheet or time card from a mobile device.
+Time sheet users can use Mobile Time Sheets to create, view, edit, enter notes, and submit their time cards from a mobile device. Time sheet project managers or user managers can view, approve, reject, or recall a time sheet or time card from a mobile device.
 
 To access time sheets from your mobile device, you must first download the Now Mobile application on an iOS platform from the Apple App Store or on an Android platform from the Google Play Store.
 
@@ -24,20 +24,20 @@ To access time sheets from your mobile device, you must first download the Now M
 
 The Mobile Time Sheets app provides the following capabilities to time sheet users:
 
--   [[create-time-sheet|Create a time sheet]]
--   [[t_CreateATimeCard|Create a time card]]
+-   Create a time sheet
+-   Create a time card
 -   Log hours on the time card
 -   Update hours for the week for a specific time card
 -   Add notes to your time cards
--   [[submit-time-sheet|Submit a time sheet]]
--   [[submit-time-card|Submit a time card]]
+-   Submit a time sheet
+-   Submit a time card
 
 \[Omitted image "timesheet\_userview.png"\] Alt text: User view of Mobile Time Sheets
 
 The Mobile Time Sheets app provides the following capabilities to resource or project managers:
 
--   [[approve-time-sheet|Approve or reject a time sheet]]
--   [[approve-time-card|Approve or reject a time card]]
+-   Approve or reject a time sheet
+-   Approve or reject a time card
 -   Recall a time sheet or time card
 
 \[Omitted image "timesheet\_managerview.png"\] Alt text: Manager view of Mobile Time Sheets
@@ -61,13 +61,3 @@ As a user manager, you can recall an incorrect time sheet or time card that is i
 
 **Parent Topic:**[Time Card Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/time-card-management.md)
 
-## Related
-
-- [[time-sheets|Time Sheets]]
-- [[c_TimeCards|Time cards]]
-- [[create-time-sheet|Create a time sheet]]
-- [[t_CreateATimeCard|Create a time card]]
-- [[submit-time-sheet|Submit a time sheet]]
-- [[submit-time-card|Submit a time card]]
-- [[approve-time-sheet|Approve or reject a time sheet]]
-- [[approve-time-card|Approve or reject a time card]]

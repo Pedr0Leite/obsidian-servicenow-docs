@@ -55,7 +55,7 @@ Decimal
 
 </td><td>
 
-A number including decimal [[gamification-components-points|points]].
+A number including decimal points.
 
 </td></tr><tr><td>
 
@@ -94,7 +94,3 @@ Check box that enables the user to indicate whether the condition is true or fal
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[gamification-components-points|Points]]

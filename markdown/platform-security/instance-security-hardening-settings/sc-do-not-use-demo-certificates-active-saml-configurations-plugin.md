@@ -14,7 +14,7 @@ breadcrumb: [Communications, Hardening settings, Platform Security]
 
 # Do not use demo certificates for active SAML configurations
 
-Control whether demo [[c_Certificates|certificates]] are used in production [[c_SAML2.0WebBrowserSSOProfile|SAML]] configurations.
+Control whether demo certificates are used in production SAML configurations.
 
 The demo certificates provided by ServiceNow should not be used in production SAML configurations. The certificates are common among all instances with known passphrase. If one of the SAML properties utilizing a certificate keystore is active \(**require\_signed\_authnrequest**, **require\_signed\_logoutrequest**, or **encrypt\_assertion**\) then the demo data must not be used. Since demo data is shared among all instance, there is no integrity guarantee of requests signed with shared certificates.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -115,9 +115,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Communications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-communications.md)
 
-## Related
-
-- [[c_Certificates|Certificates]]
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

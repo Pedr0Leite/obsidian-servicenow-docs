@@ -20,7 +20,7 @@ Role required: sn\_ti.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[threat-intel-landing-page|Threat Intelligence]]** &gt; **[[ioc-repository|IoC Repository]]** &gt; **Threat Actors**.
+1.  Navigate to **All** &gt; **Threat Intelligence** &gt; **IoC Repository** &gt; **Threat Actors**.
 
 2.  Click **New**.
 
@@ -40,7 +40,7 @@ Description
 
 </td><td>
 
-Enter a name to identify the [[threat-intelligence-malware|malware]] instance or family, as specified by the producer of the SDO. For a malware family, the name must be defined.
+Enter a name to identify the malware instance or family, as specified by the producer of the SDO. For a malware family, the name must be defined.
 
 </td></tr><tr><td id="d467665e98">
 
@@ -64,7 +64,7 @@ The time that this malware instance or family was last seen performing malicious
 
 </td><td>
 
-The primary reason, motivation, or purpose behind this [[threat-actor|threat actor]]. The motivation is why the threat actor wants to achieve the goal \(what they are trying to achieve\). For example, a threat actor with a goal to disrupt the finance sector in a country might be motivated by ideological hatred of capitalism.
+The primary reason, motivation, or purpose behind this threat actor. The motivation is why the threat actor wants to achieve the goal \(what they are trying to achieve\). For example, a threat actor with a goal to disrupt the finance sector in a country might be motivated by ideological hatred of capitalism.
 
 </td></tr><tr><td id="d467665e129">
 
@@ -148,11 +148,11 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Show [[stix-relationships|Relationships]]
+Show Relationships
 
 </td><td>
 
-Opens the [[stix-visualizer|STIX Visualizer]] where you can view the relationship of the STIX object.Show Relationships appears only when the object has an associated object.
+Opens the STIX Visualizer where you can view the relationship of the STIX object.Show Relationships appears only when the object has an associated object.
 
 </td></tr><tr><td>
 
@@ -188,7 +188,7 @@ Lists the associated attack motivations with the threat actor.
 
 </td></tr><tr><td>
 
-[[attack-patterns|Attack Patterns]]
+Attack Patterns
 
 </td><td>
 
@@ -196,7 +196,7 @@ Lists the attack patterns that help categorize attacks that are associated with 
 
 </td></tr><tr><td>
 
-[[threat-intelligence-campaigns|Campaigns]]
+Campaigns
 
 </td><td>
 
@@ -204,7 +204,7 @@ Lists campaigns associated with this object.
 
 </td></tr><tr><td>
 
-[[threat-intelligence-identities|Identities]]
+Identities
 
 </td><td>
 
@@ -212,15 +212,15 @@ List of identities associated with this object.
 
 </td></tr><tr><td>
 
-[[indicator|Indicators]]
+Indicators
 
 </td><td>
 
-Lists related [[c_IoCs|Indicators of Compromise]] \(IoC\) that have been identified by the threat source associated with this object.
+Lists related Indicators of Compromise \(IoC\) that have been identified by the threat source associated with this object.
 
 </td></tr><tr><td>
 
-[[threat-intelligence-infrastructure|Infrastructure]]
+Infrastructure
 
 </td><td>
 
@@ -228,7 +228,7 @@ Lists systems, software services, and any associated physical or virtual resourc
 
 </td></tr><tr><td>
 
-[[threat-intelligence-intrusion-sets|Intrusion Set]]
+Intrusion Set
 
 </td><td>
 
@@ -236,7 +236,7 @@ Lists a set of adversarial behaviors and resources with common properties associ
 
 </td></tr><tr><td>
 
-[[threat-intelligence-locations|Locations]]
+Locations
 
 </td><td>
 
@@ -252,7 +252,7 @@ Lists malicious code associated with this object.
 
 </td></tr><tr><td>
 
-[[tools|Tools]]
+Tools
 
 </td><td>
 
@@ -260,31 +260,12 @@ Lists legitimate software that is used by threat actors to perform attacks assoc
 
 </td></tr><tr><td>
 
-[[vulnerabilities|Vulnerabilities]]
+Vulnerabilities
 
 </td><td>
 
 Lists a weakness or defect in a software or hardware that attackers exploit which is associated with this object.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[threat-actors|Threat actors]]
+</table>**Parent Topic:**[Threat actors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-actors.md)
 
-## Related
-
-- [[threat-actors|Threat actors]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[ioc-repository|IoC Repository]]
-- [[threat-intelligence-malware|Malware]]
-- [[threat-actor|Threat Actor]]
-- [[stix-relationships|Relationships]]
-- [[stix-visualizer|STIX Visualizer]]
-- [[attack-patterns|Attack patterns]]
-- [[threat-intelligence-campaigns|Campaigns]]
-- [[threat-intelligence-identities|Identities]]
-- [[indicator|Indicators]]
-- [[c_IoCs|Indicators of compromise]]
-- [[threat-intelligence-infrastructure|Infrastructure]]
-- [[threat-intelligence-intrusion-sets|Intrusion set]]
-- [[threat-intelligence-locations|Locations]]
-- [[tools|Tools]]
-- [[vulnerabilities|Vulnerabilities]]

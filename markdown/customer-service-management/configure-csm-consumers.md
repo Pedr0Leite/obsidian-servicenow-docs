@@ -26,9 +26,6 @@ Consumers can have multiple addresses, one of which is the primary address.
 
 -   You can import existing consumers using a guided setup.
 
--   You can [[import-create-csm-consumers|create consumers]] using the [[c_CustomerServiceManagement|Customer Service Management]] application.
+-   You can create consumers using the Customer Service Management application.
 
-## Related
 
-- [[import-create-csm-consumers|Create consumers]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

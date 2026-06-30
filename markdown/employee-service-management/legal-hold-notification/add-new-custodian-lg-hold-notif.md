@@ -22,7 +22,7 @@ Role required: sn\_lg\_hold.legal\_hold\_fulfiller
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Legal Request** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
 2.  Select the List icon \(\[Omitted image "lsd-lcc-list-icon.png"\] Alt text: List icon\).
 
@@ -75,7 +75,7 @@ Data source type related to the legal hold matter such as documents, spreadsheet
 
     -   A new custodian is added under the **Custodians** tab.
     -   A new task is created for a new custodian under the **Tasks** tab, with the initial state set to Draft.
-9.  [[issue-lg-hold-notif-matter|Issue a legal hold notice]] to the newly added custodian.
+9.  Issue a legal hold notice to the newly added custodian.
 
     1.  In the legal matter page, select **Preview and issue hold**.
 
@@ -98,7 +98,7 @@ Data source type related to the legal hold matter such as documents, spreadsheet
 
 ## Result
 
-The message **Legal hold notice has been sent to X custodians** appears in the **[[activity-lxp|Activity]]** section.
+The message **Legal hold notice has been sent to X custodians** appears in the **Activity** section.
 
 A legal hold notice is issued to the custodian via email, with the fulfiller copied in the **Cc** field.
 
@@ -108,8 +108,3 @@ In the **Artifacts** tab, the legal hold notice sent to the custodian is automat
 
 **Parent Topic:**[Using Legal Hold Notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/use-lg-hold-notif.md)
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[issue-lg-hold-notif-matter|Issue a legal hold notice]]
-- [[activity-lxp|Activity]]

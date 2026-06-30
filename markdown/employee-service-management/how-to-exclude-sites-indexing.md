@@ -16,7 +16,7 @@ Index sites and subsites selectively by excluding some URLs and subsites, which 
 
 ## Before you begin
 
-Specify a list of subsites that you want to exclude from the [[sharepoint-search-overview|SharePoint Online Search Connector]] indexing. Work with a Microsoft SharePoint administrator to understand the set of sites to exclude from indexing.
+Specify a list of subsites that you want to exclude from the SharePoint Online Search Connector indexing. Work with a Microsoft SharePoint administrator to understand the set of sites to exclude from indexing.
 
 Role required: AI search administrator
 
@@ -26,7 +26,7 @@ Role required: AI search administrator
 
 2.  Click **New**.
 
-3.  Follow the instructions [[sharepoint-how-to-configure-search|Index sites for search]].
+3.  Follow the instructions [Index sites for search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/sharepoint-how-to-configure-search.md).
 
 4.  Specify the URLs list in the **Exclude Subsites** field.
 
@@ -41,7 +41,3 @@ These URLs are not indexed by the AI Search and are not displayed in the search 
 
 **Remove Index**: Select the indexed site and click Remove Index to remove the site from indexing. On success, all the sites, drivers, and files are removed from the respective tables and the connector is updated to read only with the Deleted status.
 
-## Related
-
-- [[sharepoint-how-to-configure-search|Index sites for search]]
-- [[sharepoint-search-overview|SharePoint Online Search Connector]]

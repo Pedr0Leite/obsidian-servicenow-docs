@@ -14,7 +14,7 @@ breadcrumb: [Viewing schedules and request time-off, On-Call Scheduling, IT Serv
 
 # Configure my availability and contact preferences
 
-You specify your availability and the methods to use to contact you for On-Call escalations. The instance notifies you if an admin overrides your [[settings-mobile|settings]] for some reason.
+You specify your availability and the methods to use to contact you for On-Call escalations. The instance notifies you if an admin overrides your settings for some reason.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: itil or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_OnCallScheduling|On-Call Scheduling]]** &gt; **My Preferences**
+1.  Navigate to **All** &gt; **On-Call Scheduling** &gt; **My Preferences**
 
 2.  On the **Contact Attempts** tab, click the + icon and fill in the **Availability** form.
 
@@ -126,7 +126,3 @@ The time zone of your availability. **Note:** The time zone is not editable and 
 
 **Parent Topic:**[Viewing schedules and request time-off](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/viewing-schedules-and-escalation.md)
 
-## Related
-
-- [[settings-mobile|Settings]]
-- [[c_OnCallScheduling|On-Call Scheduling]]

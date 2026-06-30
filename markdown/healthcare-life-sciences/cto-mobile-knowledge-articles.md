@@ -12,7 +12,7 @@ breadcrumb: [Explore, Care Team Mobile, Healthcare Operations, Healthcare and Li
 
 # Knowledge articles in Care Team Mobile
 
-Browse and view relevant knowledge articles directly within [[care-team-mobile-landing|Care Team Mobile]].
+Browse and view relevant knowledge articles directly within Care Team Mobile.
 
 \[Omitted image "hcls-cto-mobile-knowledge-articles.png"\] Alt text: Knowledge articles in Care Team Mobile.
 
@@ -20,6 +20,3 @@ Select **Articles** to view knowledge articles organized by categories.
 
 **Recently viewed articles** displays the knowledge articles most recently viewed by you.
 
-## Related
-
-- [[care-team-mobile-landing|Care Team Mobile]]

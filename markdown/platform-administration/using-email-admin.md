@@ -12,21 +12,14 @@ breadcrumb: [Email Administration, Notifications, Configure core features, Admin
 
 # Creating an email account
 
-Use email administrator to create email accounts, email filter, and [[t_ConfigureAnEmailAccount|create an email account]] for Microsoft Graph.
+Use email administrator to create email accounts, email filter, and create an email account for Microsoft Graph.
 
--   **[[c_EmailAccounts|Email accounts]]**  
+-   **[Email accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailAccounts.md)**  
 Email accounts store the connection details and credentials the system uses to access external email servers and services.
--   **[[c_EmailFilters|Email filters]]**  
+-   **[Email filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailFilters.md)**  
 Specify which inbound emails to ignore or move to a particular mailbox.
--   **[[email-service|Email service]]**  
+-   **[Email service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/email-service.md)**  
 The Email Service API provides endpoint to install the Email API on the instance.
 
-**Parent Topic:**[[email-administration-landing|Email Administration]]
+**Parent Topic:**[Email Administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/email-administration-landing.md)
 
-## Related
-
-- [[c_EmailAccounts|Email accounts]]
-- [[c_EmailFilters|Email filters]]
-- [[email-service|Email service]]
-- [[email-administration-landing|Email Administration]]
-- [[t_ConfigureAnEmailAccount|Create an email account]]

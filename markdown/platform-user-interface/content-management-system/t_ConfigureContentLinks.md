@@ -22,7 +22,7 @@ Role required: content\_admin or admin
 
 ## About this task
 
-After the content link is configured, it must be defined in a list block. List blocks use content links to [[onboarding-modals-reference|reference]] information outside of your CMS.
+After the content link is configured, it must be defined in a list block. List blocks use content links to reference information outside of your CMS.
 
 ## Procedure
 
@@ -44,7 +44,7 @@ After the content link is configured, it must be defined in a list block. List b
 
 4.  Click **Submit**.
 
-5.  From **Content Management** &gt; **Blocks** &gt; **[[lists-configurable-workspace|Lists]]**, create a list block that references the content links by selecting **Content Link** in the table field.
+5.  From **Content Management** &gt; **Blocks** &gt; **Lists**, create a list block that references the content links by selecting **Content Link** in the table field.
 
 6.  Create a query to determine which external links display on the page.
 
@@ -74,7 +74,3 @@ After the content link is configured, it must be defined in a list block. List b
 
 [Configure a detailed content block]()
 
-## Related
-
-- [[onboarding-modals-reference|Reference]]
-- [[lists-configurable-workspace|Lists]]

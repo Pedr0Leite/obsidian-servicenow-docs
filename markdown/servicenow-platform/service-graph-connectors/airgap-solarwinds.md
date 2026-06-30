@@ -14,7 +14,7 @@ breadcrumb: [SolarWinds, Service Graph Connectors, Integrating third-party data 
 
 # Configuring air gap connections for Service Graph Connector for SolarWinds
 
-Air gap connections for the [[cmdb-integration-solarwinds|Service Graph Connector for SolarWinds]] enable safe and controlled data transfer without compromising security.​
+Air gap connections for the Service Graph Connector for SolarWinds enable safe and controlled data transfer without compromising security.​
 
 An air gap is a security measure that involves isolating a computer or network and preventing it from establishing an external connection. Air-gapped networks keep critical systems secure by isolating them from external connections to protect the systems from cyber threats. Air gap connections for the Service Graph Connector for SolarWinds facilitate controlled data exchange between the air-gapped networks and external systems while maintaining the integrity of the air-gapped environment.
 
@@ -28,6 +28,3 @@ Perform the following sequence of tasks to configure the air gap solution before
 4.  [Perform a test data load for the air gap solution for Service Graph Connector for SolarWinds](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-solarwinds-airgap-test-load.md)
 5.  [Perform a full data load for the air gap solution for Service Graph Connector for SolarWinds](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-solarwinds-airgap-data-load.md)
 
-## Related
-
-- [[cmdb-integration-solarwinds|Service Graph Connector for SolarWinds]]

@@ -14,7 +14,7 @@ breadcrumb: [Reference, Demand Management, Project Portfolio Management, Strateg
 
 # Domain separation and Demand Management
 
-Domain separation is supported in [[c_DemandManagement|Demand Management]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported in Demand Management. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic
 
@@ -35,6 +35,3 @@ For more information on support levels, see [Application support for domain sepa
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[c_DemandManagement|Demand Management]]

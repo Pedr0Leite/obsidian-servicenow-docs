@@ -14,7 +14,7 @@ breadcrumb: [Walk-up Experience Badge Reader Integration setup and configuration
 
 # Define and register a badge reader device manually
 
-Manually create a badge reader device for registration in your system. Registering your badge reader enables you to make it operational at your [[walkup-experience-landing-page|Walk-up Experience]] on-site queue.
+Manually create a badge reader device for registration in your system. Registering your badge reader enables you to make it operational at your Walk-up Experience on-site queue.
 
 ## Before you begin
 
@@ -62,6 +62,3 @@ There are two ways to define and register a badge reader device:
 
 **Parent Topic:**[Walk-up Experience Badge Reader Integration setup and configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walkup-badge-read-integ-config.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]

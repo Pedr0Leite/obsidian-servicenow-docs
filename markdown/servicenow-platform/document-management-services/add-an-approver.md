@@ -14,7 +14,7 @@ breadcrumb: [Document approval and publish process, Use, Document Management, Do
 
 # Add an approver
 
-Add a single or [[c_MultipleApprovers|multiple approvers]] to the [[r_ApprovalProcess|document approval]] and review rule for document approval.
+Add a single or multiple approvers to the document approval and review rule for document approval.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ The procedure described in this task applies to newly created records. For exist
 
 1.  Navigate to **All** &gt; **Documents** &gt; **Approval and Revision Rules**.
 
-2.  Go to the rule that you want to [[add-a-reviewer|add a reviewer]] or approvers to.
+2.  Go to the rule that you want to add a reviewer or approvers to.
 
 3.  Select the **Approvers** tab.
 
@@ -49,8 +49,3 @@ The procedure described in this task applies to newly created records. For exist
 
 **Parent Topic:**[Document approval and publish process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/document-review-approval.md)
 
-## Related
-
-- [[c_MultipleApprovers|Multiple approvers]]
-- [[r_ApprovalProcess|Document approval]]
-- [[add-a-reviewer|Add a reviewer]]

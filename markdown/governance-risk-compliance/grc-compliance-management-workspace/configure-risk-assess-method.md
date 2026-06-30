@@ -28,7 +28,7 @@ Map the Qualitative Rating Criteria of the risk assessment methodology with the 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Policy and Compliance** &gt; **[[Administration|Administration]]** &gt; **Policy exception risk rating mapping**.
+1.  Navigate to **All** &gt; **Policy and Compliance** &gt; **Administration** &gt; **Policy exception risk rating mapping**.
 
 2.  Enter the corresponding policy exception risk rating value for each risk assessment rating.
 
@@ -42,6 +42,4 @@ Map the Qualitative Rating Criteria of the risk assessment methodology with the 
 
     If you are creating a different assessment methodology from the one that is provided by the base system, then you must add the sys\_ID of the new methodology in the value field of **sn\_risk\_advanced.rams\_with\_extension\_points** system property.
 
-## Related
 
-- [[Administration|Administration]]

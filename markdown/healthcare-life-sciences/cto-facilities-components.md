@@ -12,7 +12,7 @@ breadcrumb: [Reference, Care Team Operations for Facilities, Healthcare Operatio
 
 # Components installed with Care Team Operations for Facilities
 
-Several types of components such as tables, user roles, and business rules are installed when you activate the [[cto-facilities-landing|Care Team Operations for Facilities]] plugin.
+Several types of components such as tables, user roles, and business rules are installed when you activate the Care Team Operations for Facilities plugin.
 
 |Table name|Description|
 |----------|-----------|
@@ -106,10 +106,6 @@ Monitors the tasks within their organizations.
 
 Care Team Operations for Facilities supports the following integrations when the corresponding plugins are active:
 
--   **Mobile** — Care Team Operations for Facilities is available on mobile devices when the [[care-team-mobile-landing|Care Team Mobile]] plugin \(com.sn\_cto\_mobile\) is active.
+-   **Mobile** — Care Team Operations for Facilities is available on mobile devices when the Care Team Mobile plugin \(com.sn\_cto\_mobile\) is active.
 -   **Semantic search** — AI-powered semantic search is available when the semantic search plugin \(com.glide.ais.semantic\_search\) is active.
 
-## Related
-
-- [[cto-facilities-landing|Care Team Operations for Facilities]]
-- [[care-team-mobile-landing|Care Team Mobile]]

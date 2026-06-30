@@ -129,8 +129,5 @@ Third-party Risk Management
 Third-party portal strings are externalized and translated for supported languages. Newly introduced features may have incomplete translations.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[release-notes-summaries|Release notes summaries for Australia features]]
+</table>**Parent Topic:**[Release notes summaries for Australia features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/release-notes-summaries.md)
 
-## Related
-
-- [[release-notes-summaries|Release notes summaries for Australia features]]

@@ -14,7 +14,7 @@ breadcrumb: [Setting and tracking arrivals at the workplace, Workplace Core, Saf
 
 # Define arrival schedules at the workplace for employees
 
-Define arrival slot times in [[workplace-safety-mgmt-hr|Workplace Core]] for different locations at your workplace and indicate the capacity for each slot. Establishing arrival schedules enables safe staggered entry of employees to these locations.
+Define arrival slot times in Workplace Core for different locations at your workplace and indicate the capacity for each slot. Establishing arrival schedules enables safe staggered entry of employees to these locations.
 
 ## Before you begin
 
@@ -110,6 +110,3 @@ An arrival schedule is created for this workplace location for the indicated tim
 
 **Parent Topic:**[Setting and tracking arrivals at the workplace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/scheduling-employees-arrival-to-the-workplace.md)
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]

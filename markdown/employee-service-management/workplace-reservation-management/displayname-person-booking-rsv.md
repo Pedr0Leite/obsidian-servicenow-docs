@@ -22,9 +22,9 @@ On the floor map, when a space is booked, an option to display the name of the p
 
 Verify that the following plugins are installed:
 
--   [[workplace-safety-mgmt-hr|Workplace Core]]
--   [[Indoor-mapping|Indoor Mapping]]
--   [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
+-   Workplace Core
+-   Indoor Mapping
+-   Workplace Reservation Management
 
 Role required: admin
 
@@ -36,7 +36,7 @@ Role required: admin
 
 2.  Search for **sn\_wsd\_core.floor\_plan.portal.show\_reservation\_details** and set the Workplace Core property **sn\_wsd\_core.floor\_plan.portal.show\_reservation\_details** to **true**.
 
-3.  [[reservation-portal|Make a reservation]] or check for an existing reservation in Workplace Reservation Management.
+3.  Make a reservation or check for an existing reservation in Workplace Reservation Management.
 
     For more information, see [Create a reservation]().
 
@@ -100,9 +100,3 @@ Role required: admin
 
 [Configure reservation multi-day settings in Reservable Module]()
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[Indoor-mapping|Indoor Mapping]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[reservation-portal|Make a reservation]]

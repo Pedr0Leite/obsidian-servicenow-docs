@@ -14,7 +14,7 @@ breadcrumb: [Inbound staging tables Sourcing Procurement, Inbound staging tables
 
 # Purchase Requisition staging table
 
-The [[purchase-requisition|Purchase requisition]] \[sn\_spend\_intg\_purchase\_requisition\] staging table temporarily stores important data about purchase requests before this data is sent to the primary table.
+The Purchase requisition \[sn\_spend\_intg\_purchase\_requisition\] staging table temporarily stores important data about purchase requests before this data is sent to the primary table.
 
 |Field|Data type|Description|
 |-----|---------|-----------|
@@ -32,7 +32,7 @@ The [[purchase-requisition|Purchase requisition]] \[sn\_spend\_intg\_purchase\_r
 |Group Id|String|Unique identifier assigned to a group of purchase requisitions. This identifier groups together related requisitions for easier management, tracking, and processing.|
 |Handling fee|String|Additional charge associated with the processing of a Purchase Requisition \(PR\).|
 |Legal entity|String|Legal entity within an organization that is responsible for the purchase requisition.|
-|Location|String|Location of the [[legal-entity|legal entity]].|
+|Location|String|Location of the legal entity.|
 |Number|String|Unique identifier assigned to a purchase requisition document within the procurement system.|
 |Order type|String|Classification of orders based on their nature, purpose, or processing requirements.|
 |Payment term|String|Specific terms and conditions under which payment is to be made for the goods or services requested in a Purchase Requisition \(PR\).|
@@ -40,7 +40,7 @@ The [[purchase-requisition|Purchase requisition]] \[sn\_spend\_intg\_purchase\_r
 |Primary contact|String|Individual responsible for managing the Purchase Requisition \(PR\) process.|
 |Priority|String|Level of urgency assigned to a Purchase Requisition \(PR\) within an organization's procurement process.|
 |Purchase|String|Purchase order associated with the purchase requisition.|
-|Purchase order|String|Official [[purchase-order-table|purchase order]] issued to the [[supplier|supplier]].|
+|Purchase order|String|Official purchase order issued to the supplier.|
 |Purchasing entity|String|Organization or department that is responsible for procurement of goods or services within a company.|
 |Requested delivery|String|Date by which the requester of a purchase requisition \(PR\) expects the goods or services to be delivered.|
 |Requisition type|String|Classification of a purchase requisition based on the nature or purpose of the requested goods or services.|
@@ -129,9 +129,3 @@ The [[purchase-requisition|Purchase requisition]] \[sn\_spend\_intg\_purchase\_r
 
 [Unit of Measure inbound staging table]()
 
-## Related
-
-- [[purchase-requisition|Purchase requisition]]
-- [[legal-entity|Legal entity]]
-- [[purchase-order-table|Purchase order]]
-- [[supplier|Supplier]]

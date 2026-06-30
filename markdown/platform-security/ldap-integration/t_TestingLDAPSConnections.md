@@ -14,7 +14,7 @@ breadcrumb: [Active Directory Application Mode \(ADAM\), LDAP integration, Authe
 
 # Test the LDAPS connections
 
-Test the LDAPS connections. There are two console connections, one for Local Computer [[c_Certificates|Certificates]], and the other for Local Computer Services Certificates on the new ADAM service.
+Test the LDAPS connections. There are two console connections, one for Local Computer Certificates, and the other for Local Computer Services Certificates on the new ADAM service.
 
 ## Before you begin
 
@@ -46,6 +46,3 @@ Role required: admin
 
 [http://www.microsoft.com/downloads/en/details.aspx?familyid=9688f8b9-1034-4ef6-a3e5-2a2a57b5c8e4&amp;displaylang=en%7C](http://www.microsoft.com/downloads/en/details.aspx?familyid=9688f8b9-1034-4ef6-a3e5-2a2a57b5c8e4&displaylang=en%7C)
 
-## Related
-
-- [[c_Certificates|Certificates]]

@@ -15,7 +15,7 @@ breadcrumb: [Card Data Security, Dispute Management, Banking applications, Finan
 
 # Configuring Card Data Security
 
-Plan and configure your implementation of [[card-data-security|Card Data Security]] by following the tasks listed in this configuration overview.
+Plan and configure your implementation of Card Data Security by following the tasks listed in this configuration overview.
 
 ## Configuration overview
 
@@ -73,9 +73,9 @@ Tokenizer service
 
 </td></tr><tr><td>
 
-[[financial-services-operations-integration-with-visa-landing-page|Set up Visa integration]]
+[Set up Visa integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-operations-integration-with-visa-landing-page.md)
 
- [[financial-services-operations-integration-with-mastercard-landing-page|Set up Mastercard integration]]
+ [Set up Mastercard integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-operations-integration-with-mastercard-landing-page.md)
 
 </td><td>
 
@@ -91,7 +91,7 @@ ServiceNow
 
 </td><td>
 
-[[install-card-data-security|Install Card Data Security]] \(sn\_data\_sec\) from the ServiceNow Store.
+Install Card Data Security \(sn\_data\_sec\) from the ServiceNow Store.
 
 </td><td>
 
@@ -105,7 +105,7 @@ ServiceNow
 
 For OAuth authentication, follow these steps to set up connectivity with your ServiceNow instance. These connections are required to get file metadata and download URLs from files hosted in the tokenizer service vault.
 
-**Note:** You must set up OAuth to use the [[card-data-security-component|Card Data Security container]] components, including the [PAN reveal components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/reveal-a-pan-using-card-data-security.md) and the [file viewing component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/manage-attachments-in-card-data-security.md).
+**Note:** You must set up OAuth to use the Card Data Security container components, including the [PAN reveal components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/reveal-a-pan-using-card-data-security.md) and the [file viewing component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/manage-attachments-in-card-data-security.md).
 
 </td><td>
 
@@ -151,11 +151,3 @@ ServiceNow
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[financial-services-operations-integration-with-visa-landing-page|Financial Services Operations Integration with Visa]]
-- [[financial-services-operations-integration-with-mastercard-landing-page|Financial Services Operations Integration with Mastercard]]
-- [[card-data-security|Card Data Security]]
-- [[install-card-data-security|Install Card Data Security]]
-- [[card-data-security-component|Card Data Security container]]

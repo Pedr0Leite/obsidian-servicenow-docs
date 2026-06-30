@@ -24,7 +24,7 @@ The Document Processor service determines which documents \(inbound and outbound
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -93,9 +93,5 @@ If the customer is not able to submit a document and seeks an exemption from sub
 -   The document task moves to the Closed Complete state and the associated case moves to the next stage.
 -   A new task that is based on the configured workflow is automatically generated in a respective task tab of the associated case. The new task is assigned to an assignment group or agent based on the assignment rules.
 
-**Parent Topic:**[[work-ins-policy-case|Work on a policy service case]]
+**Parent Topic:**[Work on a policy service case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/work-ins-policy-case.md)
 
-## Related
-
-- [[work-ins-policy-case|Work on a policy service case]]
-- [[fso-overview|Financial Services]]

@@ -14,7 +14,7 @@ breadcrumb: [Service Operations Workspace, Configuring SOW for ITOM, Service Ope
 
 # View application service details in Service Operations Workspace
 
-View comprehensive information about an application service, including its name, business criticality, ownership, process and operational status, traffic-based [[r-discovery|discovery]] details, [[c_DiscoveryStatus|discovery status]], and relevant comments. This enables thorough analysis of the application service's current state and usage, provides clarity on ownership and criticality, and facilitates effective prioritization of resources and actions.
+View comprehensive information about an application service, including its name, business criticality, ownership, process and operational status, traffic-based discovery details, discovery status, and relevant comments. This enables thorough analysis of the application service's current state and usage, provides clarity on ownership and criticality, and facilitates effective prioritization of resources and actions.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: evt\_mgmt\_user, evt\_mgmt\_operator, or evt\_mgmt\_admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
 2.  From the left navigation bar, select the Service Dashboard icon: \[Omitted image "icon-service-dashboard.png"\] Alt text: Service Dashboard icon.
 
@@ -44,16 +44,10 @@ Role required: evt\_mgmt\_user, evt\_mgmt\_operator, or evt\_mgmt\_admin
 
     The details page provides comprehensive information about an application service.
 
-    \[Omitted image "sow-app-service-details.png"\] Alt text: [[app-service-details|Application service details page]]
+    \[Omitted image "sow-app-service-details.png"\] Alt text: Application service details page
 
     For information on the fields, see [Application service details page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/app-service-details.md).
 
 
 **Parent Topic:**[Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/workspace-dashboard-use.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_DiscoveryStatus|Discovery status]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[app-service-details|Application service details page]]

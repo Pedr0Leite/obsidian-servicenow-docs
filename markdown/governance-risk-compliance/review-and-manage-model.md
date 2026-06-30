@@ -12,7 +12,7 @@ breadcrumb: [Use, Model Risk Management, Governance, Risk, and Compliance]
 
 # Initiate a model risk assessment
 
-Initiate a model risk assessment by verifying the details, assigning stakeholders, and create an assessment using the [[model-risk-management|Model Risk Management]] application.
+Initiate a model risk assessment by verifying the details, assigning stakeholders, and create an assessment using the Model Risk Management application.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_model\_risk\_mgmt.model\_governance or sn\_model\_risk\_mgmt.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[model-risk-workspace|Model Risk Workspace]]**.
+1.  Navigate to **All** &gt; **Model Risk Workspace**.
 
 2.  Select the list icon \[Omitted image "list-icon-mrm.png"\] Alt text:.
 
@@ -125,7 +125,7 @@ Input data
 
 </td><td>
 
-Details about the data sources or [[dataset-airc|datasets]] the model uses.
+Details about the data sources or datasets the model uses.
 
 </td></tr><tr><td>
 
@@ -177,14 +177,7 @@ Option to attach any supporting files or documents.
 
 ## What to do next
 
-[[perform-model-risk-assessment|Perform model risk assessment]]
+[Perform model risk assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/perform-model-risk-assessment.md)
 
-**Parent Topic:**[[using-mrm|Using Model Risk Management]]
+**Parent Topic:**[Using Model Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/using-mrm.md)
 
-## Related
-
-- [[perform-model-risk-assessment|Perform model risk assessment]]
-- [[using-mrm|Using Model Risk Management]]
-- [[model-risk-management|Model Risk Management]]
-- [[model-risk-workspace|Model Risk Workspace]]
-- [[dataset-airc|Datasets]]

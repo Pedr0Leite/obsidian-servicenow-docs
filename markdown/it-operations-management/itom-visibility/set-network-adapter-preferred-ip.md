@@ -14,7 +14,7 @@ breadcrumb: [Data collected by ITOM Visibility, ITOM Visibility reference, ITOM 
 
 # Set the preferred IP version for network adapter discovery
 
-Control which IP version [[r-discovery|Discovery]] populates on a Network Adapter CI during Linux, Windows, and [[r_DataCollDiscoSolarisComputers|Solaris discovery]].
+Control which IP version Discovery populates on a Network Adapter CI during Linux, Windows, and Solaris discovery.
 
 ## Before you begin
 
@@ -61,7 +61,3 @@ Run discovery again or wait for the scheduled run to apply the changes.
 
 [Windows discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_DataCollDiscoWindowsComputers.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[r_DataCollDiscoSolarisComputers|Solaris discovery]]

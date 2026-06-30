@@ -24,7 +24,7 @@ Role required: sn\_gf.goal\_admin
 
 ## About this task
 
-The context variable provides information that can be used to fetch the required data and auto-update the Actual value on the [[target-form|Target form]]. After a context variable is created for the target source, the goal user can configure the Actual Value Source Configuration section on the Target form for the Actual value to get auto-updated.
+The context variable provides information that can be used to fetch the required data and auto-update the Actual value on the Target form. After a context variable is created for the target source, the goal user can configure the Actual Value Source Configuration section on the Target form for the Actual value to get auto-updated.
 
 Creating a context variable is similar to creating a column on a table.
 
@@ -46,7 +46,7 @@ Creating a context variable is similar to creating a column on a table.
 
 6.  In the Choices related list of the context variable you created, click **New**.
 
-    **Note:** If you don’t see the Choices related list on the [[context-variable-form|Context Variable form]], add it by navigating to **Configure** &gt; **Related Lists** on the form.
+    **Note:** If you don’t see the Choices related list on the Context Variable form, add it by navigating to **Configure** &gt; **Related Lists** on the form.
 
 7.  On the form, fill in the fields.
 
@@ -102,7 +102,3 @@ The goal user can configure these choices as context variables on the Target for
 
 **Parent Topic:**[Configuring target source for target automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/setting-targets-for-a-goal-and-automating-the-actual-value-using-agf-apw.md)
 
-## Related
-
-- [[target-form|Target form]]
-- [[context-variable-form|Context Variable form]]

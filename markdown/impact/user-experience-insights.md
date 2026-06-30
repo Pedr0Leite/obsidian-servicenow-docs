@@ -12,7 +12,7 @@ breadcrumb: [Analytics, Monitoring instance health with Instance Observer, Platf
 
 # User Experience
 
-Explore real-time user monitoring to analyze user experience and [[instance-observer-performance|performance]] insights in Instance Observer​ telemetry into node, transaction type, URL, and user level breakdowns for [[impact-landing-page|Impact]] Total customers.
+Explore real-time user monitoring to analyze user experience and performance insights in Instance Observer​ telemetry into node, transaction type, URL, and user level breakdowns for Impact Total customers.
 
 -   Access the [User Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/user-experience-insights.md) to visualize quickly your user base issues based on transaction type and volume, outage or service degradations, and access the specific affected URL​ for Impact Total customers.
 -   Search for a specific URL that is causing increases in transaction response time.​
@@ -82,7 +82,7 @@ Track applications that have performance issues by using the average response ti
 -   Network latency
 -   Content download time
 
-For more information, see [[monitor-apps-user-experience-io|Track the response time of applications to monitor their performance]].
+For more information, see [Track the response time of applications to monitor their performance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/monitor-apps-user-experience-io.md).
 
 </td></tr><tr><td>
 
@@ -103,11 +103,5 @@ Select a point on the graph to view additional actions and drill into the transa
 </td></tr></tbody>
 </table>**Note:** User Experience in Instance Observer may not be available to customers in the FedRAMP, NSC DOD IL5, or Australia IRAP-Protected datacenters, to self-hosted customers, or in other restricted environments, or to managed service providers.
 
-**Parent Topic:**[[io-analytics|Analytics]]
+**Parent Topic:**[Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-analytics.md)
 
-## Related
-
-- [[monitor-apps-user-experience-io|Track the response time of applications to monitor their performance]]
-- [[io-analytics|Analytics]]
-- [[instance-observer-performance|Performance]]
-- [[impact-landing-page|Impact]]

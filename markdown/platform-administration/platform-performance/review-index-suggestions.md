@@ -26,7 +26,7 @@ Access index suggestions from the Application Navigator or the Performance homep
 
 ## Procedure
 
-1.  Access the index suggestions for your instance by navigating to **[[sys-diag|System Diagnostics]]** &gt; **Index Suggestions** &gt; **Index Suggestions &gt; To review**.
+1.  Access the index suggestions for your instance by navigating to **System Diagnostics** &gt; **Index Suggestions** &gt; **Index Suggestions &gt; To review**.
 
 2.  In the Index Suggestions table, select the table associated with the index suggestion you want to view from the **Table Name** column.
 
@@ -64,6 +64,3 @@ Opens the Schedule Index Creation window to [schedule an index suggestion for cr
 </table>
 **Parent Topic:**[Resolving slow queries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/resolving-slow-queries.md)
 
-## Related
-
-- [[sys-diag|System Diagnostics]]

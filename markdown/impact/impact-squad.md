@@ -30,10 +30,10 @@ Customer Success Manager
 
 Acts as the primary point of contact for curating and coordinating content, best practices, and recommendations aligned with your organizational goals and ServiceNow product mix.Key responsibilities:
 
--   Serves as your advocate for business value and orchestration lead across all [[impact-landing-page|Impact]] features and benefits.
--   Manages delivery of [[foundations|Impact Foundations]], Impact Accelerators, and the development and execution of your Impact Plan.
+-   Serves as your advocate for business value and orchestration lead across all Impact features and benefits.
+-   Manages delivery of Impact Foundations, Impact Accelerators, and the development and execution of your Impact Plan.
 -   Oversees a diverse customer portfolio, ensuring deliverables align with goals, business objectives, capabilities, and success metrics.
--   Drives recommendations, addresses roadblocks, provides updates, refines the [[customer-impact-plan|Customer Impact Plan]], and reports on adoption.
+-   Drives recommendations, addresses roadblocks, provides updates, refines the Customer Impact Plan, and reports on adoption.
 -   Conducts periodic business reviews, kick-off calls, and regular check-ins with customers.
 -   Coordinates with internal teams \(Sales, Product, Support\) to resolve issues, mitigate risks, and drive customer success.
 -   Manages critical risks and mitigation strategies through a predefined process, ensuring smooth onboarding for new customers.
@@ -45,7 +45,7 @@ Customer Success Executive
 
 </td><td>
 
-An accomplished digital transformation leader who advises on strategy, governance, [[impact-in-platform-business-outcomes|value management]], and program execution to [[io-help|help]] you achieve desired business outcomes. Drawing on insights from numerous successful engagements, this role specializes in guiding customers through key transformation decisions across the ServiceNow journey.Key responsibilities:
+An accomplished digital transformation leader who advises on strategy, governance, value management, and program execution to help you achieve desired business outcomes. Drawing on insights from numerous successful engagements, this role specializes in guiding customers through key transformation decisions across the ServiceNow journey.Key responsibilities:
 
 -   Drives your ServiceNow transformation strategy and roadmap to achieve business objectives.
 -   Identifies the right implementation plan and partner strategy to accelerate outcomes.
@@ -64,7 +64,7 @@ Platform Architect
 
 Extends beyond technical expertise with proven management consulting and professional services experience to guide you with technology strategy and governance, as well as provide actual solution design and architecture as follows:-   Establishes an enterprise-wide technical architecture and implementation strategy to set the foundation for enduring success.
 -   Drives standardization and best practice platform management, enabling you to focus on value delivery.
--   Institutes [[technical-governance|technical governance]] to optimize platform [[instance-observer-performance|performance]] and minimize long-term technical risk.
+-   Institutes technical governance to optimize platform performance and minimize long-term technical risk.
 -   Enables rapid upgrades to new features and innovation that drive new value.
 -   Builds a platform team focused on delivering value and innovation.
 
@@ -84,13 +84,3 @@ Provides support services and platform performance management, such as enhanced 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[foundations|Impact Foundations]]
-- [[customer-impact-plan|Customer Impact Plan]]
-- [[impact-in-platform-business-outcomes|Value management]]
-- [[io-help|Help]]
-- [[technical-governance|Technical Governance]]
-- [[instance-observer-performance|Performance]]

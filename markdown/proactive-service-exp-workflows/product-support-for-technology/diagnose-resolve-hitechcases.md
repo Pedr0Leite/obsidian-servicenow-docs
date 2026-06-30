@@ -22,7 +22,7 @@ Role required: sn\_tech\_support.agent
 
 ## About this task
 
-The [[tpsc-landing-page|technology product support case]] progresses through several stages from start to closure. It begins with a support agent reviewing and verifying the problem. Next is the diagnosis tab, where system-specified tests are executed to identify the root cause. After the tests, the support agent moves to the repair stage, creating a task to fix the identified issue. The agent follows the instructions in the repair task to address the problem areas. Once the repair is complete, the case is retested to confirm that the issue is resolved. Finally, the case is resolved and closed based on the customer's feedback on the provided solution.
+The technology product support case progresses through several stages from start to closure. It begins with a support agent reviewing and verifying the problem. Next is the diagnosis tab, where system-specified tests are executed to identify the root cause. After the tests, the support agent moves to the repair stage, creating a task to fix the identified issue. The agent follows the instructions in the repair task to address the problem areas. Once the repair is complete, the case is retested to confirm that the issue is resolved. Finally, the case is resolved and closed based on the customer's feedback on the provided solution.
 
 ## Procedure
 
@@ -140,6 +140,3 @@ The technology product support case is resolved and closed successfully.
 
 **Parent Topic:**[Using Technology Product Support Case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/use-technology-product-support-case.md)
 
-## Related
-
-- [[tpsc-landing-page|Technology Product Support Case]]

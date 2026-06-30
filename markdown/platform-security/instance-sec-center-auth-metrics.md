@@ -12,13 +12,13 @@ breadcrumb: [Monitor instance metrics, Instance Security Center, Platform Securi
 
 # Authentication Metrics
 
-Analyze authentication metrics to see information related to [[c_Authentication|authentication]], such as infrequently used IP addresses, failed logins, and types of authentication schemes used by your [[users|users]].
+Analyze authentication metrics to see information related to authentication, such as infrequently used IP addresses, failed logins, and types of authentication schemes used by your users.
 
-Use the **Authentication Metrics** page to view reports relating to your authentication [[sc-configuration|configuration]]. The following reports are displayed in this tab.
+Use the **Authentication Metrics** page to view reports relating to your authentication configuration. The following reports are displayed in this tab.
 
-**Note:** The authentication metrics page requires the **REST [[api-access-policy|API Access Policy]] plugin** \(com.glide.rest.policy\) plugin. For more details about this feature, see [REST API access policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/inbound-authentication-profile.md).
+**Note:** The authentication metrics page requires the **REST API Access Policy plugin** \(com.glide.rest.policy\) plugin. For more details about this feature, see [REST API access policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/inbound-authentication-profile.md).
 
--   **APIs without [[authentication-policies|authentication policies]]**
+-   **APIs without authentication policies**
 
     Displays a real-time count of all API’s without an access policy
 
@@ -28,19 +28,10 @@ Use the **Authentication Metrics** page to view reports relating to your authent
 
     Shows the count of all user records with web service access option enabled in **User** \[sys\_user\] table.
 
--   **X509 [[c_Certificates|certificates]] expiring in 30 days**
+-   **X509 certificates expiring in 30 days**
 
     Displays a count of all X.509 certificates from **X.509 Certificates** \[sys\_certificate\] table which are due expire in 30 days.
 
 
-**Parent Topic:**[[monitoring-user-email-antivirus-metrics|Monitor instance metrics]]
+**Parent Topic:**[Monitor instance metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/monitoring-user-email-antivirus-metrics.md)
 
-## Related
-
-- [[monitoring-user-email-antivirus-metrics|Monitor instance metrics]]
-- [[c_Authentication|Authentication]]
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[api-access-policy|API access policy]]
-- [[authentication-policies|Authentication policies]]
-- [[c_Certificates|Certificates]]

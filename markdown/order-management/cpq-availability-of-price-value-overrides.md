@@ -52,7 +52,7 @@ Yes
 
 </td></tr><tr><td>
 
-Product Picker - price [[fields|fields]]
+Product Picker - price fields
 
 </td><td>
 
@@ -98,6 +98,3 @@ To set a null-price override on a currency field, the administrator can set `Pro
 
 [Override the shopping cart total when a null-priced item is included](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-## Related
-
-- [[fields|Fields]]

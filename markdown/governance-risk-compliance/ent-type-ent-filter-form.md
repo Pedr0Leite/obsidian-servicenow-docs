@@ -71,11 +71,11 @@ Predefined query to scope the entity. Complete the following steps for the **Sel
 
 Table associated with the entity when a predefined query is selected. The table is automatically populated.
 
-2.  In the **[[information-objects|Information objects]]** field, select only the applications and processes that have information objects associated with them. To add more information objects, click **Information objects** and type information objects such as `Email`.
+2.  In the **Information objects** field, select only the applications and processes that have information objects associated with them. To add more information objects, click **Information objects** and type information objects such as `Email`.
 
  **Note:** To use a predefined CMDB query for entity scoping, GRC administrators must assign the **GRC Scoping** tag to the selected CMDB query.
 
-As a sn\_grc.admin user, navigate to **Policy and Compliance &gt; [[Administration|Administration]] &gt; GRC Properties** or navigate to **Risk Administration &gt; GRC Properties** in an instance, set the **Enable entity scoping for CMDB query** property as **Yes** and click **Save**.
+As a sn\_grc.admin user, navigate to **Policy and Compliance &gt; Administration &gt; GRC Properties** or navigate to **Risk Administration &gt; GRC Properties** in an instance, set the **Enable entity scoping for CMDB query** property as **Yes** and click **Save**.
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -83,7 +83,7 @@ Assignment
 
 </td></tr><tr><td>
 
-[[entity-class|Entity class]]
+Entity class
 
 </td><td>
 
@@ -112,9 +112,3 @@ Attachments associated with the entity that are displayed in the side panel.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[information-objects|information objects]]
-- [[Administration|Administration]]
-- [[entity-class|entity class]]

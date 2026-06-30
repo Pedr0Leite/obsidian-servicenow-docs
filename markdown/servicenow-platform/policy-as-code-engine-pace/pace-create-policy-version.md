@@ -44,7 +44,7 @@ Role required: sn\_pace.code\_editor
 
     Templates can be filtered by most used, alphabetically, state, and type. By default, inactive templates are hidden.
 
-6.  Clear the **Is low code** [[check-box|check box]].
+6.  Clear the **Is low code** check box.
 
 7.  In the Create New Policy Version form, add a description in the **Description** field.
 
@@ -57,7 +57,7 @@ Role required: sn\_pace.code\_editor
 
 The policy version is saved and the version is assigned a number according to policy numbering. You can:
 
--   Define API Variables, Config Parameters, and Record [[reference-document-management|References]].
+-   Define API Variables, Config Parameters, and Record References.
 
     See [Passing parameters to PaCE policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/pace-passing-parameters.md).
 
@@ -81,7 +81,4 @@ The policy version is saved and the version is assigned a number according to po
 
     See [Delete a PaCE policy version](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/pace-delete-policy-version.md).
 
-## Related
 
-- [[check-box|Check box]]
-- [[reference-document-management|References]]

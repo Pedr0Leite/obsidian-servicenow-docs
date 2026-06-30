@@ -37,7 +37,7 @@ Role required: admin
     **Note:** Any files that use a file extension that is not included in the list of values appear broken in the UI.
 
 
-**Parent Topic:**[[c_StoringImagesInTheDatabase|Storing images in the database]]
+**Parent Topic:**[Storing images in the database](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_StoringImagesInTheDatabase.md)
 
 **Related topics**  
 
@@ -46,6 +46,3 @@ Role required: admin
 
 [Upload one or more images]()
 
-## Related
-
-- [[c_StoringImagesInTheDatabase|Storing images in the database]]

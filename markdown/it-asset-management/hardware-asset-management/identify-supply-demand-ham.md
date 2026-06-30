@@ -14,7 +14,7 @@ breadcrumb: [Manage stockrooms with inventory reports, Manage stockrooms, Use, H
 
 # Identify the supply and demand for models within a stockroom in the Hardware Asset Workspace
 
-Use the Supply vs Demand report to evaluate the available and incoming quantity of [[c_Models|models]] in your stockroom and the requests for these models from different service locations. This report helps you determine if you have enough assets to meet the demand.
+Use the Supply vs Demand report to evaluate the available and incoming quantity of models in your stockroom and the requests for these models from different service locations. This report helps you determine if you have enough assets to meet the demand.
 
 ## Before you begin
 
@@ -32,13 +32,13 @@ Note the following points about the Supply vs Demand report:
     -   Refresh requests
     -   Work order parts requests
 
-The supply and demand details are stored in the Model and [[c_Stockrooms|stockrooms]] \[sn\_asset\_model\_and\_stockroom\] table. The **Populate model and stockroom data** scheduled job runs daily to populate this table.
+The supply and demand details are stored in the Model and stockrooms \[sn\_asset\_model\_and\_stockroom\] table. The **Populate model and stockroom data** scheduled job runs daily to populate this table.
 
 Role required: asset
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Inventory**.
+1.  Navigate to **Workspaces** &gt; **Hardware Asset Workspace** &gt; **Inventory**.
 
 2.  Select the **All stockrooms** tab.
 
@@ -82,8 +82,3 @@ Role required: asset
 
 **Parent Topic:**[Manage stockrooms with inventory reports in the Hardware Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/manage-stockroom-inventory-report-ham.md)
 
-## Related
-
-- [[c_Models|Models]]
-- [[c_Stockrooms|Stockrooms]]
-- [[using-ham-workspace|Hardware Asset Workspace]]

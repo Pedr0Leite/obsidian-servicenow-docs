@@ -32,8 +32,8 @@ To open the Home page in the Vendor Management Workspace, select **Workspaces** 
 
 -   **Quick actions**
     -   Create a third party record. Set up the key data and contact information for a third party that your organization will possibly engage.
-    -   [[t_CreateEngagement|Create an engagement]]. Define an engagement so that you can assess the risks that are associated with the services or products offered by a third party. Engagements can also represent the products or services that are provided to the parent third party, either directly or from departments, partners, or subsidiaries that you can also assess for risk.
-    -   [[tprm-create-int-assessment|Create an internal assessment]]. Create an internal assessment as part of a due diligence request or ongoing risk monitoring using Third-party Risk Management. An internal assessment can affect which questionnaires are later sent to the third party or engagement. See [Create an internal assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-create-int-assessment.md).
+    -   Create an engagement. Define an engagement so that you can assess the risks that are associated with the services or products offered by a third party. Engagements can also represent the products or services that are provided to the parent third party, either directly or from departments, partners, or subsidiaries that you can also assess for risk.
+    -   Create an internal assessment. Create an internal assessment as part of a due diligence request or ongoing risk monitoring using Third-party Risk Management. An internal assessment can affect which questionnaires are later sent to the third party or engagement. See [Create an internal assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-create-int-assessment.md).
     -   Create an assessment and initiate the third-party risk assessment life cycle. See [Create an external assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-create-assessment.md).
     -   Create an issue to help ensure that your concerns about a third party or engagement are remediated. See [Create an issue for a third party or engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-ws-issue-create.md).
     -   Create a task to help ensure that a user at your organization or the third-party contact responds to your concerns about questionnaire responses or requested documents during the due diligence process. See [Create a task for a third party or engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-ws-task-create.md).
@@ -60,7 +60,3 @@ To open the Home page in the Vendor Management Workspace, select **Workspaces** 
 
 **Parent Topic:**[Viewing third-party risk reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/unified-vrm-workspace.md)
 
-## Related
-
-- [[t_CreateEngagement|Create an engagement]]
-- [[tprm-create-int-assessment|Create an internal assessment]]

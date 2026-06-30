@@ -14,7 +14,7 @@ breadcrumb: [Explore, DevOps Change Velocity, IT Service Management]
 
 # DevOps Change Velocity integrations
 
-Get an overview of how [[devops-landing-page-new|DevOps Change Velocity]] integrates with your external DevOps toolchain and the tools supported for this integration.
+Get an overview of how DevOps Change Velocity integrates with your external DevOps toolchain and the tools supported for this integration.
 
 The DevOps Change Velocity integration with external tools is achieved by exposing REST endpoints to receive webhook notifications or direct REST calls from these tools in real-time. Additionally, DevOps Change Velocity enables importing of data from these tools using polling. DevOps API enables integration with any coding, planning, or orchestration tools. For more information, see [DevOps API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/devops-api.md).
 
@@ -148,7 +148,7 @@ Security
 
 Use the ServiceNow extensions to model your pipeline in DevOps and configure branch analysis for tools like SonarQube.
 
-Additional extensions may be required for [[dex-workspace-application-tab|applications]] such as Jenkins or Azure DevOps. These extensions are used when ServiceNow DevOps can’t integrate using only the native REST API and push notifications.
+Additional extensions may be required for applications such as Jenkins or Azure DevOps. These extensions are used when ServiceNow DevOps can’t integrate using only the native REST API and push notifications.
 
 -   **Jenkins plugin for ServiceNow DevOps**
 
@@ -178,7 +178,3 @@ To start integrating DevOps Change Velocity with your toolchain, see [Integratin
 
 [Getting started with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/setting-up-devops-change-velocity.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[dex-workspace-application-tab|Applications]]

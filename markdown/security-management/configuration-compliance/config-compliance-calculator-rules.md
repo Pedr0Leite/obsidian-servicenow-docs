@@ -15,7 +15,7 @@ breadcrumb: [Create a Configuration Compliance calculator group, Configure, Conf
 
 # Configuration Compliance calculators and calculator rules
 
-[[vr-config-compliance-landing|Configuration Compliance]] automate calculating initial values for the fields on test results. The condition for each calculator is evaluated in order, and the first matching calculator is used.
+Configuration Compliance automate calculating initial values for the fields on test results. The condition for each calculator is evaluated in order, and the first matching calculator is used.
 
 ## Configuration Compliance calculators
 
@@ -30,7 +30,7 @@ From an existing test result, if you select the **Calculate Risk Score** related
 **Note:**
 
 -   The **Calculate Risk Score** related link is only visible when at least one configuration compliance calculator is enabled.
--   Starting from v22.0 of [[vuln-landing-page|Vulnerability Response]], you can update the risk score for a test result in the [[vulnerability-manager-workspace-landing-page|Vulnerability Manager Workspace]] and [[it-remediation-workspace-landing-page|IT Remediation Workspace]] by selecting the **Calculate Risk Score** button in its record view.
+-   Starting from v22.0 of Vulnerability Response, you can update the risk score for a test result in the Vulnerability Manager Workspace and IT Remediation Workspace by selecting the **Calculate Risk Score** button in its record view.
 -   Starting with version 14.13 of Configuration Compliance, whenever the risk score on a test result changes, the following details are documented in the Notes section of the test result:
     -   Calculator group name
     -   Calculator name: Depending on whether the calculator rule is based on a template or a script, the name is appended with the details in brackets. To modify or view the basis of the calculator rule, select any rule and select the **Advanced view** check box. From the **Value type** drop-down box, select the required option. If **Template** is selected, the risk score is updated according to the specified condition in the rule. If **Script** is selected, you can either add or update the existing script.
@@ -68,7 +68,7 @@ The base system Configuration Compliance calculator contains calculator rules th
 
 ## Vulnerability Risk Score Weights
 
-All [[vulnerabilities|vulnerabilities]] are assigned a risk score and rating based on factors such as severity, criticality, exploit information, and so on. The business rule **Update Risk Rating from Risk Score** on the vulnerable item table is responsible for calculating the risk rating. Whenever the risk score changes, the risk rating is calculated and populated on the vulnerable items. Prior to version 17.1 of the Vulnerability Response \(VR\) application, the following risk ratings were provided as part of script include `VulnerabilityUtils`, which were hard-coded.
+All vulnerabilities are assigned a risk score and rating based on factors such as severity, criticality, exploit information, and so on. The business rule **Update Risk Rating from Risk Score** on the vulnerable item table is responsible for calculating the risk rating. Whenever the risk score changes, the risk rating is calculated and populated on the vulnerable items. Prior to version 17.1 of the Vulnerability Response \(VR\) application, the following risk ratings were provided as part of script include `VulnerabilityUtils`, which were hard-coded.
 
 |Value \(Risk Rating\)|Weight \(Risk Score\)|
 |---------------------|---------------------|
@@ -92,10 +92,3 @@ In addition, the risk score is automatically recalculated in the following scena
 -   When a configuration item \(CI\) changes from non-internet facing to internet facing.
 -   When the associated Common Vulnerabilities and Exposures \(CVEs\) or third-party entries \(TPEs\) on the vulnerability items \(VIs\) are linked to a CVE Known Exploit Vulnerability \(KEV\).
 
-## Related
-
-- [[vr-config-compliance-landing|Configuration Compliance]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[vulnerability-manager-workspace-landing-page|Vulnerability Manager Workspace]]
-- [[it-remediation-workspace-landing-page|IT Remediation Workspace]]
-- [[vulnerabilities|Vulnerabilities]]

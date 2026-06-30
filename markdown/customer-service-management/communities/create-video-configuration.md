@@ -56,7 +56,7 @@ Role required: sn\_communities.admin
 
 [Enable knowledge harvesting]()
 
-[Activate [[servicenow-communities|Communities]] plugins]()
+[Activate Communities plugins]()
 
 [Community setup guide for admins]()
 
@@ -78,6 +78,3 @@ Role required: sn\_communities.admin
 
 [Community Service Portal]()
 
-## Related
-
-- [[servicenow-communities|Communities]]

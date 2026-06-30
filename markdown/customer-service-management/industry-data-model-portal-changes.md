@@ -16,14 +16,14 @@ Activating the Customer Household Data Model plugin lets you view households and
 
 ## Viewing multiple households on the portal
 
-Consumers can belong to multiple households and can have one primary household. When the Customer Household Data Model plugin is activated, consumers who are logged in to the Consumer Service Portal can see the following information on their [[gamification-ui-user-profile|user profile page]]:
+Consumers can belong to multiple households and can have one primary household. When the Customer Household Data Model plugin is activated, consumers who are logged in to the Consumer Service Portal can see the following information on their user profile page:
 
 -   The consumer's primary household in the **Primary Household** field.
 -   The households that the consumer belongs to in the Households list.
 
 ## Viewing household members on the portal
 
-For consumers who are the head of household, the Support menu includes the **Household Members** menu item, which [[migration-lists|lists]] all current members of the household.
+For consumers who are the head of household, the Support menu includes the **Household Members** menu item, which lists all current members of the household.
 
 Selecting this menu item displays a page that lists the members of the households where the logged-in consumer is the head of the household.
 
@@ -53,14 +53,9 @@ The head of household or authorized representative can perform the following act
 
 -   Add comments and attachments.
 -   Accept or reject a solution.
--   [[osp-close-case|Close a case]].
+-   Close a case.
 
 ## Consumer case information
 
 When the Customer Household Data Model plugin is activated, the Ticket Fields details tab includes the **Consumer** field.
 
-## Related
-
-- [[gamification-ui-user-profile|User profile page]]
-- [[migration-lists|Lists]]
-- [[osp-close-case|Close a case]]

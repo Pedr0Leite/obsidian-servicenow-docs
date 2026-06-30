@@ -42,7 +42,7 @@ You can assign the user criteria for Can Read access in two locations:
 
 4.  In the **User Criteria** field, select the user criteria to define which users can read or view the selected site's equipment model entities.
 
-    **Note:** If a user has the cmdb\_ot\_viewer role, the user can also view the [[operational-technology-overview|Operational Technology]] \(OT\) devices that are assigned to the selected site.
+    **Note:** If a user has the cmdb\_ot\_viewer role, the user can also view the Operational Technology \(OT\) devices that are assigned to the selected site.
 
     If a user has a cmdb\_ot\_editor role, the user can edit the OT devices that are assigned to the selected site.
 
@@ -51,6 +51,3 @@ You can assign the user criteria for Can Read access in two locations:
 
 **Parent Topic:**[Assign or remove equipment model site access for non-administrators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/create-user-criteria-for-equipment-model-entity-site-users.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]

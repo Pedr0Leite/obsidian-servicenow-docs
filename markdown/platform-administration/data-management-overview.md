@@ -18,7 +18,7 @@ View a summary of your data usage and manage the growth of data on your instance
 
 -   View a summary of primary storage used on your instance and monitor data usage over time.
 -   Determine which tables are consuming the most amount of storage on your instance.
--   Manage the growth of data on your instance directly from the [[c_DataManagement|Data Management]] Console.
+-   Manage the growth of data on your instance directly from the Data Management Console.
 
 \[Omitted image "dmc-overview.png"\] Alt text: Overview in the Data Management Console.
 
@@ -75,11 +75,6 @@ Review the top tables on your instance in terms of growth and table size, and th
 After reviewing the top tables, start managing the growth of data on your instance.
 
 -   Manage the growth of audit records from the audit management console by selecting **Manage audit config**.
--   Delete older or unwanted records by selecting **New cleanup rule**. See [[activate-table-cleanup|Create a table cleanup rule in Core UI]].
--   Move data that's no longer needed to an archive table by selecting **New archive rule**. See [[t_CreateAnArchiveRule|Create an archive rule in Core UI]].
+-   Delete older or unwanted records by selecting **New cleanup rule**. See [Create a table cleanup rule in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/activate-table-cleanup.md).
+-   Move data that's no longer needed to an archive table by selecting **New archive rule**. See [Create an archive rule in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAnArchiveRule.md).
 
-## Related
-
-- [[activate-table-cleanup|Create a table cleanup rule in Core UI]]
-- [[t_CreateAnArchiveRule|Create an archive rule in Core UI]]
-- [[c_DataManagement|Data Management]]

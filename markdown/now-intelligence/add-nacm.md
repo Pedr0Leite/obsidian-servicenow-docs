@@ -27,9 +27,9 @@ By default there is a Now Assist context menu added to the dashboard configured 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Dashboards**.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Dashboards**.
 
-2.  Select [[create-db-in-ac|Create a dashboard with the in-line editor]] or open the dashboard you want to add the context menu to.
+2.  Select [Create a dashboard with the in-line editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-db-in-ac.md) or open the dashboard you want to add the context menu to.
 
 3.  Expand **Add New Element**.
 
@@ -45,7 +45,7 @@ By default there is a Now Assist context menu added to the dashboard configured 
 
     3.  Select the skill you want to add.
 
-        **Note:** Not all skills on the resulting list are configured for the **Now Assist Context Menu** element. Only the skills configured on the Par\_dashboard table are appropriate for this element. For more information, see [[configure-db-summarization-skill-nacm|Configure the Now Assist context menu in Now Assist Experiences]].
+        **Note:** Not all skills on the resulting list are configured for the **Now Assist Context Menu** element. Only the skills configured on the Par\_dashboard table are appropriate for this element. For more information, see [Configure the Now Assist context menu in Now Assist Experiences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configure-db-summarization-skill-nacm.md).
 
 
 ## Result
@@ -55,11 +55,5 @@ The Now Assist context menu appears on the dashboard for use by anyone viewing t
 -   **[Configure the Now Assist context menu in Now Assist Experiences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configure-db-summarization-skill-nacm.md)**  
 The Now Assist context menu enables users to apply a variety of AI skills in the context of dashboards.
 
-**Parent Topic:**[[add-elements-to-a-dashboard|Add visual elements to an in-line dashboard]]
+**Parent Topic:**[Add visual elements to an in-line dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/add-elements-to-a-dashboard.md)
 
-## Related
-
-- [[create-db-in-ac|Create a dashboard with the in-line editor]]
-- [[configure-db-summarization-skill-nacm|Configure the Now Assist context menu in Now Assist Experiences]]
-- [[add-elements-to-a-dashboard|Add visual elements to an in-line dashboard]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

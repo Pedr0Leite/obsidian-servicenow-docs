@@ -16,7 +16,7 @@ breadcrumb: [Impersonating users, Monitoring user activity, User administration,
 
 Impersonations are logged in the system log.
 
-Log impersonations for either interactive \(UI\) or [[c_NonInteractiveSessions|non-interactive sessions]].
+Log impersonations for either interactive \(UI\) or non-interactive sessions.
 
 ## Impersonation logging for interactive sessions
 
@@ -65,6 +65,3 @@ Excludes impersonation logging of non-interactive sessions for specified users.E
 </td></tr></tbody>
 </table>**Parent Topic:**[Impersonating users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/c_ImpersonateAUser.md)
 
-## Related
-
-- [[c_NonInteractiveSessions|Non-interactive sessions]]

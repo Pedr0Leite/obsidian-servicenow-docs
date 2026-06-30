@@ -14,7 +14,7 @@ breadcrumb: [Integrate VA with messaging apps, Integrate VA with other channels,
 
 # Conversational SMS Integration with Twilio
 
-Use this ServiceNow Store application to host [[virtual-agent-landing-page|Virtual Agent]] conversations on Twilio SMS to chat with virtual agent or live agents.
+Use this ServiceNow Store application to host Virtual Agent conversations on Twilio SMS to chat with virtual agent or live agents.
 
 ## Get started with Conversational SMS Integration with Twilio
 
@@ -36,14 +36,9 @@ Select a tile to get started.
 </table>-   **[Exploring Conversational SMS Integration with Twilio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/exploring-va-sms-twilio-app.md)**  
 Conversational SMS Integration with Twilio enables users to initiate conversations with Virtual Agent by messaging your Twilio phone number.
 -   **[Configuring Conversational SMS Integration with Twilio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-va-sms-twilio-app.md)**  
-[[install-sms-twilio|Install Conversational SMS Integration with Twilio]] from the ServiceNow Store, configure it, and then [[configure-sms-auth|configure SMS authentication]].
+Install Conversational SMS Integration with Twilio from the ServiceNow Store, configure it, and then configure SMS authentication.
 -   **[Using Conversational SMS Integration with Twilio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/using-sms-integ-twilio.md)**  
 Enable a requester to converse with an agent using SMS conversations with Twilio.
 
 **Parent Topic:**[Integrating Virtual Agent with messaging apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-integration-messaging-apps.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[install-sms-twilio|Install Conversational SMS Integration with Twilio]]
-- [[configure-sms-auth|Configure SMS authentication]]

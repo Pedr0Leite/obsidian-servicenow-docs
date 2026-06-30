@@ -12,7 +12,7 @@ breadcrumb: [Configure consumers, Customer data, Set up your environment, Config
 
 # Import consumers through guided setup
 
-Use [[c_CustomerServiceManagement|Customer Service Management]] guided setup to import existing consumers.
+Use Customer Service Management guided setup to import existing consumers.
 
 ## Before you begin
 
@@ -36,6 +36,4 @@ Consumers can have multiple addresses, one of which is the primary address.
 
 6.  Verify that the data records are imported into the target table.
 
-## Related
 
-- [[c_CustomerServiceManagement|Customer Service Management]]

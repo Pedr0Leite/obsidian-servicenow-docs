@@ -12,7 +12,7 @@ breadcrumb: [Overview of Instance Observer metrics, Instance Observer reference,
 
 # User information metrics
 
-The metrics provide the user information [[instance-observer-performance|performance]] snapshot within the ServiceNow AI Platform®.
+The metrics provide the user information performance snapshot within the ServiceNow AI Platform®.
 
 ## Session summary enduser
 
@@ -36,7 +36,7 @@ Application nodes can generally support large numbers that is, a few hundred of 
 -   If all application nodes show evidence of high session counts, review session timeouts to ensure that these are set to a reasonable value that is, 30 minutes with 90 minutes absolute maximum. If session timeouts are already reasonable, this may be an indication that additional application nodes should be added to the instance.
 -   If one or more individual application nodes show unusually high session count, check whether other application nodes have recently restarted which may have caused active users to be 'moved' to remaining nodes causing a session imbalance. In this case, restart the node\(s\) with extremely high session count.
 
-**Parent Topic:**[[instance-observer-ovr-metric|Overview of Instance Observer metrics]]
+**Parent Topic:**[Overview of Instance Observer metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/instance-observer-ovr-metric.md)
 
 **Related topics**  
 
@@ -45,7 +45,7 @@ Application nodes can generally support large numbers that is, a few hundred of 
 
 [Anomaly insights]()
 
-[Feature [[io-availability|availability]] based on package]()
+[Feature availability based on package]()
 
 [Auriga Intelligent Alert report]()
 
@@ -81,8 +81,3 @@ Application nodes can generally support large numbers that is, a few hundred of 
 
 [Instance Data Replication]()
 
-## Related
-
-- [[instance-observer-ovr-metric|Overview of Instance Observer metrics]]
-- [[instance-observer-performance|Performance]]
-- [[io-availability|Availability]]

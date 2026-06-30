@@ -14,7 +14,7 @@ breadcrumb: [Planning for Edge Encryption, Edge Encryption, Encryption]
 
 # Edge Encryption system requirements
 
-You can run the [[edge-encryption|Edge Encryption]] proxy application on servers or virtual machines that run on Microsoft Windows or Linux operating systems. For optimum performance, ensure that your [[sc-configuration|configuration]] meets these requirements.
+You can run the Edge Encryption proxy application on servers or virtual machines that run on Microsoft Windows or Linux operating systems. For optimum performance, ensure that your configuration meets these requirements.
 
 ## Java requirements
 
@@ -22,7 +22,7 @@ The host machine installing or running the Edge Encryption proxy server must mai
 
 **Note:** Java 8 is no longer be supported as of the Utah release. Upgrade your environment with the Edge Encryption proxy to Java 11 before you attempt to install the Utah version of the Edge Encryption proxy.
 
-**Note:** Java does not automatically allow unlimited strength keys. You must specifically enable the use of AES 256-bit [[encryption-landing|encryption]].
+**Note:** Java does not automatically allow unlimited strength keys. You must specifically enable the use of AES 256-bit encryption.
 
 ## Support for OpenJDK
 
@@ -39,7 +39,7 @@ A proxy server requires this minimum configuration:
     Because the proxy server requires at least 4 GB of memory, 32-bit JREs and 32-bit operating systems are no longer supported starting with the London release.
 
 -   3 or more GHz CPU \(4-core CPU preferred for optimum performance\).
--   Multiple proxy servers behind a load balancer. The number of proxy servers you need depends on the number of application nodes, the number of simultaneous [[users|users]], and the number of servers needed for failover. See [Sizing your Edge Encryption environment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/edge-environment-size.md) for more information.
+-   Multiple proxy servers behind a load balancer. The number of proxy servers you need depends on the number of application nodes, the number of simultaneous users, and the number of servers needed for failover. See [Sizing your Edge Encryption environment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/edge-environment-size.md) for more information.
 -   Ability to run concurrently with other services, depending on the server utilization and resource availability.
 
 ## Proxy server supported systems
@@ -85,7 +85,7 @@ The proxy server that runs the Edge Encryption application must be able to commu
 
 |Network Privilege|Description|
 |-----------------|-----------|
-|Firewall access|Configure any firewalls between the proxy server and the client devices to allow a connection. If your network uses a DeMilitarized Zone \(DMZ\) to add an extra layer of security to your Local Area Network \(LAN\), and if your [[network-security|network security]] protocols limit port access from within the network to the DMZ, you might have to deploy a proxy server to a machine within the DMZ.|
+|Firewall access|Configure any firewalls between the proxy server and the client devices to allow a connection. If your network uses a DeMilitarized Zone \(DMZ\) to add an extra layer of security to your Local Area Network \(LAN\), and if your network security protocols limit port access from within the network to the DMZ, you might have to deploy a proxy server to a machine within the DMZ.|
 |Network access|Configure each client to enable the proxy server to connect with it. If network security prevents you from configuring new machines that can connect to the clients, install the proxy server on an existing machine with connection privileges.|
 |Instance access|Ensure that the proxy server has network access to the instance. Make sure that you configure the proxy server network to allow traffic over TCP port 443.|
 |Network account|Install the proxy server with either a local or domain administrator.|
@@ -163,10 +163,3 @@ High availability cluster. If you are unsure of how to configure your MySQL serv
 </td></tr></tbody>
 </table>**Parent Topic:**[Planning for Edge Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/c_EdgeEncryptionPlanning.md)
 
-## Related
-
-- [[edge-encryption|Edge Encryption]]
-- [[sc-configuration|Configuration]]
-- [[encryption-landing|Encryption]]
-- [[users|Users]]
-- [[network-security|Network security]]

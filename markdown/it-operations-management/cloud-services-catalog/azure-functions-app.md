@@ -14,7 +14,7 @@ breadcrumb: [Out Of Box Catalogs using Cloud Services Catalog, Cloud Services Ca
 
 # Microsoft Azure Functions App Catalog items
 
-[[csc-home|Cloud Services Catalog]] Microsoft Azure Function App with pay-as-you-go pricing benefit.
+Cloud Services Catalog Microsoft Azure Function App with pay-as-you-go pricing benefit.
 
 This is a fully functional sample catalog item that enables users to request a Windows instance of any instance type from Microsoft Azure.
 
@@ -43,6 +43,3 @@ Tag \(key-value\) is assigned to all deployed resources. Example: VM, network, s
 
 **Parent Topic:**[Out Of Box Catalogs using Cloud Services Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/out-of-the-box-catalog-items.md)
 
-## Related
-
-- [[csc-home|Cloud Services Catalog]]

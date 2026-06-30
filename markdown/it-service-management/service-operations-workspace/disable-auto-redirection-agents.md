@@ -24,7 +24,7 @@ Role required: admin
 
 1.  From the **All** menu, navigate to sys\_homepage\_destination\_rule.list.
 
-2.  Select the **SOW [[dex-workspace-dashboard-tab|Landing Page]]** record.
+2.  Select the **SOW Landing Page** record.
 
 3.  Clear the **Active** check box.
 
@@ -49,6 +49,3 @@ Role required: admin
 
 **Parent Topic:**[Landing page redirection in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/landing-page-redirection-sow-itsm.md)
 
-## Related
-
-- [[dex-workspace-dashboard-tab|Landing page]]

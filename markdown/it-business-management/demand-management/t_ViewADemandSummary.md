@@ -14,7 +14,7 @@ breadcrumb: [View demands, Use, Demand Management, Project Portfolio Management,
 
 # View a demand summary
 
-Hover over a bubble in the [[c_DemandWorkbenchBubbleChart|demand workbench bubble chart]] to display a summary of the demand information.
+Hover over a bubble in the demand workbench bubble chart to display a summary of the demand information.
 
 ## Before you begin
 
@@ -42,6 +42,3 @@ Role required: it\_demand\_manager
 
 **Parent Topic:**[View demands](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_ViewDemands.md)
 
-## Related
-
-- [[c_DemandWorkbenchBubbleChart|Demand workbench bubble chart]]

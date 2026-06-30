@@ -14,7 +14,7 @@ breadcrumb: [Integrating ServiceNow with Microsoft Teams for GCC-H or DoD, Servi
 
 # Integrating Employee Center and Virtual Agent with Microsoft Teams for GCC-H or DoD
 
-You can integrate [[employee-center-landing-page|Employee Center]] and the Virtual Agent bot with Microsoft Teams to enable Government Community Cloud High \(GCC-H\) and US Department of Defense \(DoD\) customers to interact with agents through Virtual Agent and access the attached files in Employee Center.
+You can integrate Employee Center and the Virtual Agent bot with Microsoft Teams to enable Government Community Cloud High \(GCC-H\) and US Department of Defense \(DoD\) customers to interact with agents through Virtual Agent and access the attached files in Employee Center.
 
 ## Prerequisites
 
@@ -44,6 +44,3 @@ Create and download the ServiceNow for Microsoft Teams manifest file from your i
 
 **Parent Topic:**[Integrating ServiceNow with Microsoft Teams for GCC-H or DoD](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-sn-ms-teams-gcch.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

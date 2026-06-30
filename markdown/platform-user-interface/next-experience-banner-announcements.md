@@ -14,7 +14,7 @@ breadcrumb: [Configure, Next Experience UI, Configure UIs and portals, Configure
 
 Banner announcements enable you to communicate planned maintenance, unplanned outages, or important events like ESPP stock plans or benefits enrollment to those affected or to everyone. You can target specific experiences or all experiences.
 
-**Note:** Beginning with the San Diego release, [[configure-onboarding-modals|configure]] banner announcements instead of updating the **glide.product.description** system property.
+**Note:** Beginning with the San Diego release, configure banner announcements instead of updating the **glide.product.description** system property.
 
 \[Omitted image "pol-banner-announcement.png"\] Alt text: Banner announcement.
 
@@ -27,7 +27,7 @@ You can configure the following aspects of banner announcements:
     **Note:** If a user dismisses a banner announcement during a session and the announcement is still active, it will re-appear once the user logs out and back in to a new session.
 
 
-**Parent Topic:**[[next-experience-ui-admin|Configuring the Next Experience UI]]
+**Parent Topic:**[Configuring the Next Experience UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-ui-admin.md)
 
 ## Configure Next Experience banner announcements
 
@@ -181,7 +181,4 @@ Options for the horizontal position of the banner content.
 
 10. On the Banner Announcement form, select **Update**.
 
-## Related
 
-- [[next-experience-ui-admin|Configuring the Next Experience UI]]
-- [[configure-onboarding-modals|Configure]]

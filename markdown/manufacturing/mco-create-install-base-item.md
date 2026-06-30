@@ -32,7 +32,7 @@ Install base items help to track instances that have been provisioned for an acc
 
 3.  On the Install based item form, fill in the fields.
 
-    For a description of the field values, see [[install-based-item-form|Install based item form]].
+    For a description of the field values, see [Install based item form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/install-based-item-form.md).
 
 4.  Select **Save**.
 
@@ -103,6 +103,3 @@ The install base item is added to the account or consumer that you selected. You
 
 [bundle-csm.install-base-item]
 
-## Related
-
-- [[install-based-item-form|Install based item form]]

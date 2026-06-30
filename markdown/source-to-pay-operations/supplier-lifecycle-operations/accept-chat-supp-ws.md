@@ -14,7 +14,7 @@ breadcrumb: [Using Source-to-Pay Workspace, Use, Supplier Lifecycle Operations, 
 
 # Accept an incoming chat request from the Source-to-Pay Workspace
 
-As a [[supplier|supplier]] fulfiller, accept an incoming chat request from the Supplier Manager Workspace Inbox to start a chat session with a [[supplier-contact|supplier contact]].
+As a supplier fulfiller, accept an incoming chat request from the Supplier Manager Workspace Inbox to start a chat session with a supplier contact.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_slm.owner
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
 2.  Select the Inbox icon \(\[Omitted image "agent-inbox-icon.png"\] Alt text: Agent inbox icon\).
 
@@ -56,7 +56,7 @@ Supplier Information
 
 </td><td>
 
-Displays information about the supplier.For more information, see [[supp-info-tab|View information on supplier cases]].
+Displays information about the supplier.For more information, see [View information on supplier cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supp-info-tab.md).
 
 </td></tr><tr><td>
 
@@ -127,10 +127,3 @@ The incoming chat request from the Supplier Manager Workspace Inbox is accepted 
 
 [Using Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/use-supp-mgr-wsp.md)
 
-## Related
-
-- [[supp-info-tab|View information on supplier cases]]
-- [[supplier|Supplier]]
-- [[supplier-contact|Supplier contact]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

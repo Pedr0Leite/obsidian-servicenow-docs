@@ -14,9 +14,9 @@ breadcrumb: [Zing text indexing and search engine, Search administration, Config
 
 # Zing removes stop words from queries
 
-Remove common words from search queries that don't produce meaningful [[hs-results|results]].
+Remove common words from search queries that don't produce meaningful results.
 
-[[stop-words-ais|Stop words]] are common words that aren't indexed because they aren't meaningful in search results. Articles, conjunctions, personal pronouns, and prepositions are examples of stop words that aren't used in keyword searches. Administrators can configure stop words for all indexed tables and for specific tables.
+Stop words are common words that aren't indexed because they aren't meaningful in search results. Articles, conjunctions, personal pronouns, and prepositions are examples of stop words that aren't used in keyword searches. Administrators can configure stop words for all indexed tables and for specific tables.
 
 By default, the system maintains two types of stop words.
 
@@ -25,7 +25,7 @@ By default, the system maintains two types of stop words.
 |System-wide text index stop words|The system always ignores system-wide text index stop words when generating text indexes. Any search for a system-wide stop word returns no search results.|
 |Table-specific stop words|The system uses the table-specific Text Index record to determine whether to index the stop word or to just remove it from keyword search queries against the table.|
 
-By default, the system has stops words for common English words. Search administrators typically [[create-stop-word-ais|create stop words]] from search terms that produce too many search results such as articles, conjunctions, personal pronouns, and prepositions.
+By default, the system has stops words for common English words. Search administrators typically create stop words from search terms that produce too many search results such as articles, conjunctions, personal pronouns, and prepositions.
 
 -   **[Configure a global stop word](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/t_ConfigureAGlobalStopWord.md)**  
 Configure stop words that shouldn't be indexed by the search.
@@ -61,13 +61,7 @@ Configure Zing to return results for text search terms that match a stop word's 
 
 [Zing can expand search results with synonyms]()
 
-[Zing displays [[search-suggestions-overview|search suggestions]] as users enter search terms]()
+[Zing displays search suggestions as users enter search terms]()
 
 [Installed with Zing]()
 
-## Related
-
-- [[hs-results|Results]]
-- [[stop-words-ais|Stop words]]
-- [[create-stop-word-ais|Create stop words]]
-- [[search-suggestions-overview|Search Suggestions]]

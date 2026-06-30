@@ -67,7 +67,7 @@ When making a download request for records related to Assessments, Branches, Con
 When making a download request for a Excel master template record, select **Export to Info Register** to export contract records you want as an Microsoft Excel file.
 
 </td></tr></tbody>
-</table>    For information on [[tprm-dora-roi|Register of information regulatory packages]], see [Register of information regulatory packages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-dora-roi.md), [Generate a register of information package](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-drtp-roi-packages.md), [Validation framework for Register of Information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-validation-roi.md), and [Validate Register of Information packages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-valid-dora.md).
+</table>    For information on Register of information regulatory packages, see [Register of information regulatory packages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-dora-roi.md), [Generate a register of information package](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-drtp-roi-packages.md), [Validation framework for Register of Information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-validation-roi.md), and [Validate Register of Information packages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-valid-dora.md).
 
 6.  Add the name that you want for the Microsoft Excel file and select **Save**.
 
@@ -125,7 +125,3 @@ Action to export the record.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[tprm-dora-roi|Register of information regulatory packages]]

@@ -18,15 +18,10 @@ Any combination of time-based methods can be enabled in the application configur
 
 When a task is created, the schedule of the agent and the task to be performed are combined with rating-based criteria to auto-assign an agent.
 
--   **[[c_AgAtAssgnSchd|Agent auto assignment using schedules]]**  
+-   **[Agent auto assignment using schedules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_AgAtAssgnSchd.md)**  
 Agents can be auto assigned based on the agent or the task schedule.
--   **[[c_AgentAutoAssignUsePrioAssign|Agent auto assignment using priority assignment]]**  
+-   **[Agent auto assignment using priority assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_AgentAutoAssignUsePrioAssign.md)**  
 The priority assignment feature enables you to configure auto assignment so that agents can be assigned to perform tasks or provide services on a continual, 24x7x365 basis. Priority assignment is triggered when the priority of a task matches the priority set in the application configuration page.
 
-**Parent Topic:**[[c_AgentAutoAssignment|Agent auto assignment]]
+**Parent Topic:**[Agent auto assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_AgentAutoAssignment.md)
 
-## Related
-
-- [[c_AgAtAssgnSchd|Agent auto assignment using schedules]]
-- [[c_AgentAutoAssignUsePrioAssign|Agent auto assignment using priority assignment]]
-- [[c_AgentAutoAssignment|Agent auto assignment]]

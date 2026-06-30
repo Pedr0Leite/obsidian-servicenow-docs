@@ -18,7 +18,7 @@ The Audit Manager dashboard provides the current view of audit engagements and r
 
 ## Audit Manager dashboard
 
-**Important:** Starting with version 18.1.5 of the [[c_GRCAudits|Audit Management]] application the Audit Manager dashboard is available in the Next Experience UI Framework.
+**Important:** Starting with version 18.1.5 of the Audit Management application the Audit Manager dashboard is available in the Next Experience UI Framework.
 
 If you are on Vancouver or Washington DC, you can view the dashboard in the Next Experience UI Framework.
 
@@ -197,6 +197,3 @@ To view the Audit Manager dashboard, navigate to **Audit** &gt; **Audit Manage
 
 [Advanced Governance, Risk, and Compliance Application Risk dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/advanced-grc-dashboard.md)
 
-## Related
-
-- [[c_GRCAudits|Audit Management]]

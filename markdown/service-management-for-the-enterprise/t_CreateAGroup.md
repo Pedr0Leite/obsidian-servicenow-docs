@@ -52,8 +52,5 @@ There are a few good practices when creating groups:
 9.  Click **Update**.
 
 
-**Parent Topic:**[[t_ActivateFacilitiesSM|Activate Facilities Service Management]]
+**Parent Topic:**[Activate Facilities Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_ActivateFacilitiesSM.md)
 
-## Related
-
-- [[t_ActivateFacilitiesSM|Activate Facilities Service Management]]

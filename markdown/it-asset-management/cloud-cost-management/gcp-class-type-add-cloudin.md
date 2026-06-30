@@ -18,7 +18,7 @@ Specify the details of a new CI or CI type to enable the CI placement process to
 
 ## Before you begin
 
-Role required: [[cloud-insights-landing-page|Cloud Cost Management]] Admin \[sn\_clin\_core.insights\_admin\]
+Role required: Cloud Cost Management Admin \[sn\_clin\_core.insights\_admin\]
 
 ## About this task
 
@@ -83,6 +83,4 @@ Parameter values in the billing node table that uniquely define the CI type.
 
     **Note:** The supported CIs are placed after the Cumulus Unsupported CI Placement scheduled job runs daily. For more information, see [Supported CI class types for Google Cloud services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/gcp-supported-ci-class-types.md).
 
-## Related
 
-- [[cloud-insights-landing-page|Cloud Cost Management]]

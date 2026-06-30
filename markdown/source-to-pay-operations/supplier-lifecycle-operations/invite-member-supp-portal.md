@@ -14,13 +14,13 @@ breadcrumb: [Using Supplier Collaboration Portal, Use, Supplier Lifecycle Operat
 
 # Invite a member to access the Supplier Collaboration Portal
 
-Invite [[supplier|supplier]] contacts to access the [[supplier-central|Supplier Collaboration Portal]] so that they can raise requests and start working on their assigned tasks.
+Invite supplier contacts to access the Supplier Collaboration Portal so that they can raise requests and start working on their assigned tasks.
 
 ## Before you begin
 
 Before performing this task, ensure that you do the following:
 
--   [[config-reg-for-external-users-slm|Configure self-registration for external users]]. For more information, see [Configure self-registration for external users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/config-reg-for-external-users-slm.md).
+-   Configure self-registration for external users. For more information, see [Configure self-registration for external users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/config-reg-for-external-users-slm.md).
 -   Map the external user registration configuration to the Supplier Collaboration Portal. For more information, see [Map the self-registration configuration to Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/map-ext-user-to-supp-central.md).
 -   Configure the **sn\_supplier.external\_registration\_profile\_id** system property to ensure that registration emails are sent to external users. For more information, see [Configure system property to send registration emails to external users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/sys-prop-reg-email.md).
 
@@ -28,7 +28,7 @@ Role required: sn\_slm.contact
 
 ## About this task
 
-The **Invite** option in the Contacts widget is available only to the primary [[supplier-contact|supplier contact]] and the supplier administrator. Only the primary supplier contact and the supplier administrator can invite new members to access the Supplier Collaboration Portal.
+The **Invite** option in the Contacts widget is available only to the primary supplier contact and the supplier administrator. Only the primary supplier contact and the supplier administrator can invite new members to access the Supplier Collaboration Portal.
 
 ## Procedure
 
@@ -70,9 +70,3 @@ After Xanadu December 2024 release, you can also invite contacts from other emai
 
 [Register to the Supplier Collaboration Portal as an invited member](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/register-invited-member-supp-central.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[config-reg-for-external-users-slm|Configure self-registration for external users]]
-- [[supplier-contact|Supplier contact]]

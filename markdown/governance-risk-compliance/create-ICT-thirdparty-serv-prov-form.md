@@ -185,8 +185,5 @@ Type of ICT services. The available options are as follows:-   **ICT project man
 -   **Cloud services: SaaS**
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[create-drtp-reg-third-party|Create a third party and enhance digital resilience data]]
+</table>**Parent Topic:**[Create a third party and enhance digital resilience data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-drtp-reg-third-party.md)
 
-## Related
-
-- [[create-drtp-reg-third-party|Create a third party and enhance digital resilience data]]

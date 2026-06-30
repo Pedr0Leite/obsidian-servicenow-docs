@@ -14,7 +14,7 @@ breadcrumb: [Procurement, Asset Management, IT Service Management]
 
 # Activate Procurement
 
-You can activate the [[c_Procurement|Procurement]] plugin that provides core procurement capabilities.
+You can activate the Procurement plugin that provides core procurement capabilities.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: procurement\_admin, procurement\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System [[dex-workspace-application-tab|Applications]]** &gt; **All Available Applications** &gt; **All**.
+1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
 2.  Find the Procurement plugin \(com.snc.procurement\) using the filter criteria and search bar.
 
@@ -57,7 +57,3 @@ Several types of components are installed with Procurement.
 
 [Domain separation and Procurement]()
 
-## Related
-
-- [[c_Procurement|Procurement]]
-- [[dex-workspace-application-tab|Applications]]

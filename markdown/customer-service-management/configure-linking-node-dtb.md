@@ -38,10 +38,8 @@ Role required: admin, sn\_gd\_core.decision\_tree\_author
 
 9.  Enter values or link inputs to reuse answers from prior nodes.
 
-    For more information, see [[map-inputs-in-decision-guidance-node|Reuse answers at decision points]].
+    For more information, see [Reuse answers at decision points](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/map-inputs-in-decision-guidance-node.md).
 
 10. Select **Save and close**.
 
-## Related
 
-- [[map-inputs-in-decision-guidance-node|Reuse answers at decision points]]

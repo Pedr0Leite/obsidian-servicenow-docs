@@ -14,7 +14,7 @@ breadcrumb: [McAfee ePO integration, Security Incident Response integrations, Se
 
 # Install the application and configure a server for the McAfee ePO integration
 
-Before you invoke the workflows for the integration, [[configure-cortex-xsiam-siem|install and configure]] the McAfee ePO application from the ServiceNow Store on your ServiceNow AI Platform instance. The configuration is required to connect to the McAfee ePO console.
+Before you invoke the workflows for the integration, install and configure the McAfee ePO application from the ServiceNow Store on your ServiceNow AI Platform instance. The configuration is required to connect to the McAfee ePO console.
 
 ## Before you begin
 
@@ -28,13 +28,13 @@ The integration supports multiple servers, however, to avoid conflicts in profil
 
 ## Procedure
 
-1.  Download the McAfee ePO for [[security-operations-landing-page|Security Operations]] from the ServiceNow Store and install it.
+1.  Download the McAfee ePO for Security Operations from the ServiceNow Store and install it.
 
 2.  Navigate to **Security Operations** &gt; **Integrations** &gt; **Integration Configurations**.
 
 3.  Search for the McAfee ePO for Security Operations integration tile, and select **Configure**.
 
-    \[Omitted image "mcafee-config-tile.png"\] Alt text: [[mcaffee-epo-overview-arch|McAfee ePO Integration]] tile.
+    \[Omitted image "mcafee-config-tile.png"\] Alt text: McAfee ePO Integration tile.
 
 4.  On the form, fill in the fields.
 
@@ -101,7 +101,7 @@ Select the name of the MID Server that you configured during the setup of your S
 An example name is, `secops_local_midserver`.
 
 </td></tr></tbody>
-</table>    \[Omitted image "mcafee-epo-configtile.png"\] Alt text: McAfee ePO Integration [[qradar-ibm-intg-settings|Configuration settings]]
+</table>    \[Omitted image "mcafee-epo-configtile.png"\] Alt text: McAfee ePO Integration Configuration settings
 
 5.  Select **Submit**.
 
@@ -116,9 +116,3 @@ An example name is, `secops_local_midserver`.
 
 **Next topic:**[Edit security tags in the ServiceNow AI Platform for the McAfee ePO integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcafee-epo-match-tags.md)
 
-## Related
-
-- [[configure-cortex-xsiam-siem|Install and Configure]]
-- [[security-operations-landing-page|Security Operations]]
-- [[mcaffee-epo-overview-arch|McAfee ePO integration]]
-- [[qradar-ibm-intg-settings|Configuration settings]]

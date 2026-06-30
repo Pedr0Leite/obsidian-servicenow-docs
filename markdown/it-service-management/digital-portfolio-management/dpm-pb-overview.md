@@ -14,12 +14,7 @@ breadcrumb: [Enterprise portfolios, Work with portfolios, Digital Portfolio Mana
 
 # DPM Portfolio Builder Overview
 
-[[dpm-enterprise-portfolios|Enterprise portfolios]] are created directly in the DPM Portfolio Builder. Before May 2025, they were created [[SPM2-using|using Service Portfolio Management]] tables. Enterprise portfolios for business [[dex-workspace-application-tab|applications]] and service instances were created from enterprise portfolio tables.
+Enterprise portfolios are created directly in the DPM Portfolio Builder. Before May 2025, they were created using Service Portfolio Management tables. Enterprise portfolios for business applications and service instances were created from enterprise portfolio tables.
 
 **Parent Topic:**[Enterprise portfolios](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-enterprise-portfolios.md)
 
-## Related
-
-- [[dpm-enterprise-portfolios|Enterprise portfolios]]
-- [[SPM2-using|Using Service Portfolio Management]]
-- [[dex-workspace-application-tab|Applications]]

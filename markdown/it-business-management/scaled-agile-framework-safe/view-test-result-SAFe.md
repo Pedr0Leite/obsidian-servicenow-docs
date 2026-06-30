@@ -22,7 +22,7 @@ Role required: safe\_scrum\_user or safe\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[SAFeoverview|Scaled Agile Framework \(SAFe\)]]** &gt; **SAFe Board**.
+1.  Navigate to **All** &gt; **Scaled Agile Framework \(SAFe\)** &gt; **SAFe Board**.
 
 2.  From the list at the top left corner, select the level as **Team**.
 
@@ -50,6 +50,4 @@ Role required: safe\_scrum\_user or safe\_admin
 
     The execution status of each step of the test is also indicated at the bottom of the form.
 
-## Related
 
-- [[SAFeoverview|Scaled Agile Framework \(SAFe\)]]

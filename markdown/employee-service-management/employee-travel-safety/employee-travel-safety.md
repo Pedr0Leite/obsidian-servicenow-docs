@@ -22,7 +22,7 @@ When an employee's travel request is approved, monitor their health status using
 
 ## Use with other Safe Workplace suite applications
 
-Employee Travel Safety is part of a suite of ServiceNow® [[safe-workplace|Safe Workplace]] suite applications. Use it with these other applications to help your organization prepare its workforce and workplaces to resume operations after emergencies and pandemics like COVID-19.
+Employee Travel Safety is part of a suite of ServiceNow® Safe Workplace suite applications. Use it with these other applications to help your organization prepare its workforce and workplaces to resume operations after emergencies and pandemics like COVID-19.
 
 -   With the [Employee Readiness Surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/employee-readiness-surveys.md) application, evaluate the readiness of your users to return to the workplace by asking them to fill in a survey.
 -   Before users re-enter workspaces, use the [Employee Health Screening](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/employee-health-screening.md) application to screen users and ensure compliance with your entry requirements, such as a temperature check and PPE.
@@ -58,7 +58,7 @@ Federal hosted
 
 </td><td>
 
-See the [Federal downloads for the [[emergency-response-management|Emergency Response Management]] and Safe Workplace suite apps \[KB0030260\]](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030260) article in the Store Help Center for more information.
+See the [Federal downloads for the Emergency Response Management and Safe Workplace suite apps \[KB0030260\]](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030260) article in the Store Help Center for more information.
 
 </td></tr><tr><td>
 
@@ -92,7 +92,7 @@ ServiceNow is offering this application to government agencies and their authori
 All decisions in connection with the implementation of this application are at the sole decision of the government agency utilizing this application. Agencies remain solely responsible for complying with their legal obligations under applicable laws and regulations, including \(but not limited to\) data protection and employment laws and regulations, and should modify any language within the templates provided to meet the agency’s specific requirements.
 
 -   **[Install Employee Travel Safety](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-travel-safety/install-employee-travel.md)**  
-You can [[install-employee-travel|install Employee Travel Safety]] if you have the admin role.
+You can install Employee Travel Safety if you have the admin role.
 -   **[Configure Employee Travel Safety](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-travel-safety/configure-employee-travel.md)**  
 Complete all configuration tasks to ensure that travel notifications and approvals are set up correctly for your company.
 -   **[Request permission to travel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-travel-safety/ets-request-travel.md)**  
@@ -100,13 +100,7 @@ Before booking travel in a travel management system, request permission for your
 -   **[Manage a travel request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-travel-safety/ets-work-travel-request.md)**  
 As a manager or travel approver, you can approve or reject travel requests.
 -   **[Cancel a travel request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-travel-safety/cancel-travel-request.md)**  
-[[cancel-travel-request|Cancel a travel request]] when appropriate, such as when a meeting can be held virtually. You, your manager, or a user with the sn\_imt\_travel.approver role can cancel a travel request.
+Cancel a travel request when appropriate, such as when a meeting can be held virtually. You, your manager, or a user with the sn\_imt\_travel.approver role can cancel a travel request.
 
 **Parent Topic:**[Safe Workplace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/safe-workplace.md)
 
-## Related
-
-- [[safe-workplace|Safe Workplace]]
-- [[emergency-response-management|Emergency Response Management]]
-- [[install-employee-travel|Install Employee Travel Safety]]
-- [[cancel-travel-request|Cancel a travel request]]

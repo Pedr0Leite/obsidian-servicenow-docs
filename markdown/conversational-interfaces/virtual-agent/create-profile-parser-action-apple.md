@@ -14,7 +14,7 @@ breadcrumb: [OAuth setup for Apple Messages for Business, Configure, Conversatio
 
 # Create a profile parser action for Apple Messages for Business
 
-Create an action to parse the user information response and find the corresponding user on the ServiceNow® instance for [[integration-apple-mssg|Conversational Integration with Apple Messages for Business]] using the information provided here.
+Create an action to parse the user information response and find the corresponding user on the ServiceNow® instance for Conversational Integration with Apple Messages for Business using the information provided here.
 
 ## Before you begin
 
@@ -53,7 +53,7 @@ Role required: admin
             } 
             outputs.result = result; 
         } catch (e) { 
-            gs.error("Error in [[virtual-agent-landing-page|Virtual Agent]] - Parse User Profile: " + e.message); 
+            gs.error("Error in Virtual Agent - Parse User Profile: " + e.message); 
             throw e; 
         } 
     })(inputs, outputs);
@@ -68,7 +68,4 @@ Role required: admin
         };
     ```
 
-## Related
 
-- [[integration-apple-mssg|Conversational Integration with Apple Messages for Business]]
-- [[virtual-agent-landing-page|Virtual Agent]]

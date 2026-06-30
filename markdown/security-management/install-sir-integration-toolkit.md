@@ -12,7 +12,7 @@ breadcrumb: [LLM-powered SIR integration builder, Security Operations]
 
 # Install SIR integration builder
 
-Install the SIR integration builder to [[integrating-threat-intelligence-security-center|integrate]] capabilities to [[sir-landing-page|Security Incident Response]].
+Install the SIR integration builder to integrate capabilities to Security Incident Response.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_si\_int\_kit.integration\_creator
 
 1.  Navigate to **All** &gt; **System Definition** &gt; **Plugins**.
 
-2.  Search for `[[now-assist-security-incident-landing|Now Assist for Security Incident Response]] integrations`.
+2.  Search for `Now Assist for Security Incident Response integrations`.
 
     The Now Assist for Security Incident Response integrations application tile is displayed.
 
@@ -32,8 +32,4 @@ Role required: sn\_si\_int\_kit.integration\_creator
 
 4.  Install all the dependencies that are listed along with the installed application.
 
-## Related
 
-- [[integrating-threat-intelligence-security-center|Integrate]]
-- [[sir-landing-page|Security Incident Response]]
-- [[now-assist-security-incident-landing|Now Assist for Security Incident Response]]

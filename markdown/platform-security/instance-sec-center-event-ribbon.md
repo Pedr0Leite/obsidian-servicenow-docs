@@ -12,13 +12,13 @@ breadcrumb: [Instance Security Center, Platform Security]
 
 # Monitor security events
 
-Analyze the event [[ca-metrics|metrics]] in your instance so that you can identify and prevent potential security events.
+Analyze the event metrics in your instance so that you can identify and prevent potential security events.
 
 **Important:**
 
 Instance Security Center \(ISC\) has reached the end of sales as of September 2024, and is no longer supported or available for new activation.
 
-ServiceNow [[sec-center-v2|Security Center]] \(SSC\) is the recommended solution going forward. For more information, see [[instance-security-center-to-security-center-migration|Instance Security Center to ServiceNow Security Center migration]].
+ServiceNow Security Center \(SSC\) is the recommended solution going forward. For more information, see [Instance Security Center to ServiceNow Security Center migration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-center-to-security-center-migration.md).
 
 In the event ribbon, which is on the Instance Security homepage, you can analyze these metrics and accompanying detail to identify potential security events in the instance.
 
@@ -27,7 +27,7 @@ In the event ribbon, which is on the Instance Security homepage, you can analyze
 
 ## Event types
 
-You can monitor at least six of the following types of events. For more than six events, use the left or right arrows below the event ribbon to scroll through them. To learn how to configure the event ribbon, see [[instance-sec-center-configure-event-ribbon|Configure the security event ribbon]].
+You can monitor at least six of the following types of events. For more than six events, use the left or right arrows below the event ribbon to scroll through them. To learn how to configure the event ribbon, see [Configure the security event ribbon](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-sec-center-configure-event-ribbon.md).
 
 <table id="table_rpk_b5z_4lb"><thead><tr><th>
 
@@ -43,7 +43,7 @@ Admin Logins
 
 </td><td>
 
-Number of login attempts in this instance, during the calendar day, by [[users|users]] who have an assigned admin role.
+Number of login attempts in this instance, during the calendar day, by users who have an assigned admin role.
 
 </td></tr><tr><td>
 
@@ -55,11 +55,11 @@ Number of users with an admin role that were added in this instance during the c
 
 </td></tr><tr><td>
 
-External Incoming [[email|Email]]
+External Incoming Email
 
 </td><td>
 
-To learn more, see [[instance-sec-center-email-metrics|Email metrics]].
+To learn more, see [Email metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-sec-center-email-metrics.md).
 
 </td></tr><tr><td>
 
@@ -67,7 +67,7 @@ External Logins
 
 </td><td>
 
-Number of users with an assigned snc\_external role who logged into this instance during the calendar day. These logins typically occur for maintenance, support, consulting, or audit purposes. Monitoring this metric enables you to verify that the external login attempts are legitimate and not potential security issues.To learn more about assigning external user roles, see [[explicit-roles|Explicit Roles]].
+Number of users with an assigned snc\_external role who logged into this instance during the calendar day. These logins typically occur for maintenance, support, consulting, or audit purposes. Monitoring this metric enables you to verify that the external login attempts are legitimate and not potential security issues.To learn more about assigning external user roles, see [Explicit Roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/explicit-roles.md).
 
 </td></tr><tr><td>
 
@@ -91,7 +91,7 @@ Quarantined Files
 
 </td><td>
 
-Number of files that were quarantined when you ran Antivirus Scanning in this instance during the calendar day. To learn more about quarantined files and Antivirus Scanning, see [[instance-sec-center-antivirus-metrics|Antivirus metrics]] and [[antivirus-protection|Antivirus Scanning]].
+Number of files that were quarantined when you ran Antivirus Scanning in this instance during the calendar day. To learn more about quarantined files and Antivirus Scanning, see [Antivirus metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-sec-center-antivirus-metrics.md) and [Antivirus Scanning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/antivirus-protection.md).
 
 </td></tr><tr><td>
 
@@ -99,8 +99,8 @@ Security Elevations
 
 </td><td>
 
-Number of times that a security administrator has elevated security for standard users by changing their assigned user role to a high privilege security role during the calendar day. These high privilege [[security-roles|security roles]] include [[oauth-inbound-and-outbound|oauth]]\_admin, admin, security\_admin, and impersonator. -   This metric indicates that someone might have tried to elevate the security of an unauthorized user. Do not use this metric by itself to detect a specific security compromise. Instead, treat this metric as an indication that you should check another metric to see if a security compromise has occurred.
--   To learn more about elevating user security, see [[t_ElevateToAPrivilegedRole|Elevate to a privileged role]] and [[c_ElevatedPrivilege|Elevated privilege roles]].
+Number of times that a security administrator has elevated security for standard users by changing their assigned user role to a high privilege security role during the calendar day. These high privilege security roles include oauth\_admin, admin, security\_admin, and impersonator. -   This metric indicates that someone might have tried to elevate the security of an unauthorized user. Do not use this metric by itself to detect a specific security compromise. Instead, treat this metric as an indication that you should check another metric to see if a security compromise has occurred.
+-   To learn more about elevating user security, see [Elevate to a privileged role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_ElevateToAPrivilegedRole.md) and [Elevated privilege roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_ElevatedPrivilege.md).
 
 </td></tr><tr><td>
 
@@ -108,7 +108,7 @@ SNC Logins
 
 </td><td>
 
-Number of Customer Service and Support personnel who logged into this instance using the hi-hopping technique during the calendar day. These logins typically occur for maintenance, support, consulting, or audit purposes.For information on how to control ServiceNow corporate employee access, see [[c_SNCAccessControl|ServiceNow access control]].
+Number of Customer Service and Support personnel who logged into this instance using the hi-hopping technique during the calendar day. These logins typically occur for maintenance, support, consulting, or audit purposes.For information on how to control ServiceNow corporate employee access, see [ServiceNow access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_SNCAccessControl.md).
 
 </td></tr><tr><td>
 
@@ -140,14 +140,14 @@ Virus Types
 
 </td><td>
 
-Number of different types of [[antivirus|antivirus]] events that occurred in this instance during the calendar day. To learn more about antivirus event types, see [Antivirus metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-sec-center-antivirus-metrics.md).
+Number of different types of antivirus events that occurred in this instance during the calendar day. To learn more about antivirus event types, see [Antivirus metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-sec-center-antivirus-metrics.md).
 
 </td></tr></tbody>
 </table>## Analyzing event trend detail
 
 To view trend details for an event metric, click the event count to access the Analytics Hub page. The details that appear for the instance depend on the type of metric.
 
-For example, to view a listing of each failed attempt on the Security Dashboard [[r_EventLogs|Event Logs]] page:
+For example, to view a listing of each failed attempt on the Security Dashboard Event Logs page:
 
 -   Select the **Failed Logins** metric.
 -   In the KPI Details page, click **Show Records**.
@@ -158,14 +158,14 @@ You can set up event threshold triggers in the Core UI Analytics Hub or Platform
 
 For example, you can set a threshold of `10` for the **Failed Logins** metric. When ten or more failed login attempts occur during the day, an alert is sent to specific security personnel. You can also set a similar target that provides a visual highlight in the KPI Details when 10 failed logins occur during a day.
 
-Trend data and graphs that appear in Event ribbon tile and the KPI Details are updated after the performance analytics job executes at 02:00 local time. To learn more, see [[how-daily-compl-score-trend-date-refreshed|How Daily Compliance score, trend, and graph data is refreshed]].
+Trend data and graphs that appear in Event ribbon tile and the KPI Details are updated after the performance analytics job executes at 02:00 local time. To learn more, see [How Daily Compliance score, trend, and graph data is refreshed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/how-daily-compl-score-trend-date-refreshed.md).
 
 -   **[Configure the security event ribbon](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-sec-center-configure-event-ribbon.md)**  
 Configure the security event ribbon on the Instance Security Center homepage to include only those events that are relevant for tracking instance security in your operations. You can also change the order in which the security event tiles appear on the ribbon.
--   **[[enable-notification-preferences|Set preferences for security event notifications]]**  
+-   **[Set preferences for security event notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/enable-notification-preferences.md)**  
 Configure preferences for the types of notifications you want to receive for occurrences of specific security events. For each type, you designate whether to receive notifications by email, by push notification in Now Mobile, or in third party messaging applications such as Slack or Microsoft Teams.
 
-**Parent Topic:**[[instance-security-center|Instance Security Center]]
+**Parent Topic:**[Instance Security Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-center.md)
 
 **Related topics**  
 
@@ -188,25 +188,3 @@ Configure preferences for the types of notifications you want to receive for occ
 
 [Performance Analytics targets and thresholds](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/pa-targets-thresholds.md)
 
-## Related
-
-- [[instance-security-center-to-security-center-migration|Instance Security Center to ServiceNow Security Center migration]]
-- [[instance-sec-center-configure-event-ribbon|Configure the security event ribbon]]
-- [[instance-sec-center-email-metrics|Email metrics]]
-- [[explicit-roles|Explicit Roles]]
-- [[instance-sec-center-antivirus-metrics|Antivirus metrics]]
-- [[antivirus-protection|Antivirus Scanning]]
-- [[t_ElevateToAPrivilegedRole|Elevate to a privileged role]]
-- [[c_ElevatedPrivilege|Elevated privilege roles]]
-- [[c_SNCAccessControl|ServiceNow access control]]
-- [[how-daily-compl-score-trend-date-refreshed|How Daily Compliance score, trend, and graph data is refreshed]]
-- [[enable-notification-preferences|Set preferences for security event notifications]]
-- [[instance-security-center|Instance Security Center]]
-- [[ca-metrics|Metrics]]
-- [[sec-center-v2|Security Center]]
-- [[users|Users]]
-- [[email|Email]]
-- [[security-roles|Security Roles]]
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[antivirus|Antivirus]]
-- [[r_EventLogs|Event logs]]

@@ -28,7 +28,7 @@ Create and associate a workplace entity with an entity type so that it can be ea
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-safety-mgmt-hr|Workplace Core]]** &gt; **Administration** &gt; **Workplace Entities**.
+1.  Navigate to **All** &gt; **Workplace Core** &gt; **Administration** &gt; **Workplace Entities**.
 
 2.  Select **New**.
 
@@ -61,6 +61,3 @@ To populate the Entity-mapping column for existing workplace entities, the appli
 
 **Parent Topic:**[Configure Workplace entity and entity types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/workplace-entity.md)
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]

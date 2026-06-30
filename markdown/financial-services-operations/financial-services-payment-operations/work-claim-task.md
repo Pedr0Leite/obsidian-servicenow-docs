@@ -28,7 +28,7 @@ You can create an ad hoc claim task by navigating to the **Claim Tasks** tab of 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -83,6 +83,3 @@ Update the associated claim case as per the refund or information that you recei
 
 **Parent Topic:**[Work on a claim with an external refund](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-payment-operations/work-claim-with-external-refund.md)
 
-## Related
-
-- [[fso-overview|Financial Services]]

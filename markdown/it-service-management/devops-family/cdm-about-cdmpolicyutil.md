@@ -14,9 +14,9 @@ breadcrumb: [Validating and correcting configuration data, Using DevOps Config, 
 
 # Adding warning and failure messages to validation results — CdmPolicyUtil
 
-You use the `CdmPolicyUtil` script include to add warning and failure messages to validation results in the CDM Policy Validation Results table. CDM expects validation warnings and failures to contain a node path, a snapshot ID, and a [[reference-for-itsm-mobile-agent|reference]] to the impacted node.
+You use the `CdmPolicyUtil` script include to add warning and failure messages to validation results in the CDM Policy Validation Results table. CDM expects validation warnings and failures to contain a node path, a snapshot ID, and a reference to the impacted node.
 
-**Important:** Starting with the Washington D.C. release, [[devops-config-landing-page|DevOps Config]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+**Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 ## CdmPolicyUtil
 
@@ -65,7 +65,4 @@ You use the `CdmPolicyUtil` script include to add warning and failure messages t
 
     **additionalDeployables** - can be passed directly as it comes to the policy.
 
-## Related
 
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[devops-config-landing-page|DevOps Config]]

@@ -14,7 +14,7 @@ breadcrumb: [Available on-premise discovery patterns, Discovery patterns used by
 
 # Veritas Cluster Server discovery
 
-The ServiceNow [[r-discovery|Discovery]] application uses the Unix Cluster – VERITAS Cluster pattern to find Veritas Cluster Server components. Discovering some of these resources may require updating to the latest version of the Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns application from the ServiceNow Store.
+The ServiceNow Discovery application uses the Unix Cluster – VERITAS Cluster pattern to find Veritas Cluster Server components. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 You can use this pattern on the ServiceNow AI Platform using Kingston Patch 8, London, or Madrid.
 
@@ -26,7 +26,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 -   **SSH credentials**
 
-    On the ServiceNow AI Platform®, configure the SSH credentials for a user with elevated rights for running the **cat** command. For more information about commands, see [[r_CommandsnCredentials|Service Mapping commands requiring a privileged user]] under Service Mapping documentation.
+    On the ServiceNow AI Platform®, configure the SSH credentials for a user with elevated rights for running the **cat** command. For more information about commands, see Service Mapping commands requiring a privileged user under Service Mapping documentation.
 
 -   **Permissions to read the Veritas Cluster Server configuration file**
 
@@ -127,8 +127,3 @@ The Unix Cluster – VERITAS Cluster pattern creates the following CI relationsh
 
 **Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/available-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r_CommandsnCredentials|Service Mapping commands requiring a privileged user]]

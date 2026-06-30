@@ -20,9 +20,9 @@ You can activate the Time Recording for Field Service plugin \(com.snc.wm\_time\
 
 -   Time Recording for Field Service requires the following plugins. Ensure that these plugins are activated before you install Time Recording for Field Service.
     -   **Required ServiceNow plugins**
-        -   **[[fsm-application-landing-page|Field Service Management]] \(com.snc.work\_management\)**
+        -   **Field Service Management \(com.snc.work\_management\)**
 
-            Enables you to manage work requests that are performed on location by field service agents. For information, see [[t_ActivateFieldServiceManagement|Activate Field Service Management]].
+            Enables you to manage work requests that are performed on location by field service agents. For information, see [Activate Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/t_ActivateFieldServiceManagement.md).
 
 
 Role required: admin.
@@ -34,7 +34,7 @@ The following items are installed with Time Recording for Field Service plugin:
 -   Plugins
 -   Roles
 
-For more information, see [[components-time-recording-fsm|Time Recording for Field Service components]].
+For more information, see [Time Recording for Field Service components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/components-time-recording-fsm.md).
 
 ## Procedure
 
@@ -50,8 +50,4 @@ For more information, see [[components-time-recording-fsm|Time Recording for Fie
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
-## Related
 
-- [[t_ActivateFieldServiceManagement|Activate Field Service Management]]
-- [[components-time-recording-fsm|Time Recording for Field Service components]]
-- [[fsm-application-landing-page|Field Service Management]]

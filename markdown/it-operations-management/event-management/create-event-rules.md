@@ -14,11 +14,11 @@ breadcrumb: [Processing Events, Configuring Event Management, Event Management, 
 
 # Event rules
 
-Use event rules to generate alerts for tracking and [[ccg-remediation|remediation]]. Event rules are stored in the Event Rule \[em\_match\_rule\] table. Configure and customize event rules to manage events and alert generation.
+Use event rules to generate alerts for tracking and remediation. Event rules are stored in the Event Rule \[em\_match\_rule\] table. Configure and customize event rules to manage events and alert generation.
 
 Event rules do not change the event records in the Event table. Changes to event data are stored in the ServiceNow instance memory.
 
-\[Omitted image "event-rule-designer.png"\] Alt text: [[c_EM|Event Management]] rule
+\[Omitted image "event-rule-designer.png"\] Alt text: Event Management rule
 
 Use the Event rule designer to create and configure event rules. You can use the default event rules or event rules that you have created to:
 
@@ -43,7 +43,7 @@ Find events that are not matched to any rules, and determine if it is necessary 
 -   **[View event rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMViewEventRule.md)**  
 You can view all event rules on the Event Rules list.
 -   **[Configure an event rule to customize alert content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMComposeOuput.md)**  
-You can [[t_EMComposeOuput|configure an event rule to customize alert content]]. You can customize the order of the fields and select which fields display. The fields in the left-hand work area of the **Transform and Compose Alert Output** section of an event rule are the fields that appear in the generated alert.
+You can configure an event rule to customize alert content. You can customize the order of the fields and select which fields display. The fields in the left-hand work area of the **Transform and Compose Alert Output** section of an event rule are the fields that appear in the generated alert.
 -   **[Set a threshold to suppress alert generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMISetThresholdEvent.md)**  
 The event threshold is the rate upon which Event Management generates an alert. Receiving multiple events for a device over a short interval may warrant creating an alert, as the condition may be serious. However, receiving events over a longer interval may indicate a less serious situation which would not warrant creating an alert.
 -   **[View patterns for event group creation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMViewEventGroup.md)**  
@@ -53,13 +53,7 @@ Manually update event rules to reflect current event information because once an
 -   **[Find rules that will be applied to an event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMViewRuleApply.md)**  
 View the rules that will be applied on an event to determine how this event will be processed.
 -   **[Simulate event processing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/simulate-event-processing.md)**  
-You can [[simulate-event-processing|simulate event processing]] logic on events and display the resulting alert to better understand which rules are executed on a given event and how the event fields change after the rule is executed.
+You can simulate event processing logic on events and display the resulting alert to better understand which rules are executed on a given event and how the event fields change after the rule is executed.
 
 **Parent Topic:**[Event Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/c_EM.md)
 
-## Related
-
-- [[ccg-remediation|Remediation]]
-- [[c_EM|Event Management]]
-- [[t_EMComposeOuput|Configure an event rule to customize alert content]]
-- [[simulate-event-processing|Simulate event processing]]

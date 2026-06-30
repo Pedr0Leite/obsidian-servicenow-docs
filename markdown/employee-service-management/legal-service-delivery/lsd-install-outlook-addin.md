@@ -14,7 +14,7 @@ breadcrumb: [Configure Microsoft Outlook Add-In for Legal Service Delivery, Micr
 
 # Activate Microsoft Outlook Add-In for Legal Service Delivery
 
-You can activate the [[lsd-outlook-addin-landing|Microsoft Outlook Add-In for Legal Service Delivery]] plugin \(sn\_lg\_outlook\) for [[legal-management-overview|Legal Service Delivery]] if you have the admin role.
+You can activate the Microsoft Outlook Add-In for Legal Service Delivery plugin \(sn\_lg\_outlook\) for Legal Service Delivery if you have the admin role.
 
 ## Before you begin
 
@@ -51,7 +51,3 @@ For more information, see [Microsoft Outlook Add-In for Legal Service Delivery r
 
 **Parent Topic:**[Configure Microsoft Outlook Add-In for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-outlook-addin-configure.md)
 
-## Related
-
-- [[lsd-outlook-addin-landing|Microsoft Outlook Add-In for Legal Service Delivery]]
-- [[legal-management-overview|Legal Service Delivery]]

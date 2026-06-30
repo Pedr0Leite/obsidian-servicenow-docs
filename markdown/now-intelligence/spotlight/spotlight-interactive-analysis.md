@@ -16,9 +16,9 @@ breadcrumb: [Ranking records with Spotlight, Configure advanced features, Perfor
 
 Spotlight interactive analysis shows the key results of a Spotlight job. Access the analysis from a Spotlight Group record.
 
-To open the Spotlight interactive analysis, open the Spotlight Group record for the group of interest and click the **[[launch-interactive-analysis-pa|Launch Interactive Analysis]]** related link. The pa\_spotlight or admin role is necessary.
+To open the Spotlight interactive analysis, open the Spotlight Group record for the group of interest and click the **Launch Interactive Analysis** related link. The pa\_spotlight or admin role is necessary.
 
-**Note:** [[interactive-analysis|Interactive analysis]] uses the Spotlight database view. Spotlight creates the database view for each Spotlight group when you create the group. If the database view is missing, a warning appears. If you have the pa\_spotlight or admin roles, a link also appears for generating a database view. For more information, see [Spotlight database views](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/spotlight/spotlight-analyzing-data.md).
+**Note:** Interactive analysis uses the Spotlight database view. Spotlight creates the database view for each Spotlight group when you create the group. If the database view is missing, a warning appears. If you have the pa\_spotlight or admin roles, a link also appears for generating a database view. For more information, see [Spotlight database views](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/spotlight/spotlight-analyzing-data.md).
 
 Using interactive analysis with any table other than incident requires fully enabled, subscription version of Performance Analytics. See [Activating your Performance Analytics subscription](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_PremiumPerformanceAnalytics.md).
 
@@ -32,11 +32,11 @@ Interactive Analysis contains the following information:
 
     -   If a user cannot see the values in this table, ensure that they have the itil role.
     -   If domain separation is enabled, a user can only see Spotlights records for corresponding fact table records that are included in their domains.
-    -   You can create reports by using this database view as a data source. You can include these reports in dashboards. Each of the Analytics and [[reporting-landing-page|Reporting]] Spotlight Solutions includes such a dashboard and reports.
+    -   You can create reports by using this database view as a data source. You can include these reports in dashboards. Each of the Analytics and Reporting Spotlight Solutions includes such a dashboard and reports.
     For more information, see [Spotlight database views](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/spotlight/spotlight-analyzing-data.md).
 
 
-You can apply [[c_HomepagePublishers|interactive filters]] to the analysis. The following filters are available, for facts tables with the matching columns:
+You can apply interactive filters to the analysis. The following filters are available, for facts tables with the matching columns:
 
 -   The **Priority** of the facts table record \(tasks only\)
 -   When the record was **Opened**
@@ -52,9 +52,3 @@ To share the interactive analysis, share the URL from the Filter Info. The user 
 
 **Parent Topic:**[Ranking records with Spotlight](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/spotlight/spotlight.md)
 
-## Related
-
-- [[launch-interactive-analysis-pa|Launch Interactive Analysis]]
-- [[interactive-analysis|Interactive Analysis]]
-- [[reporting-landing-page|Reporting]]
-- [[c_HomepagePublishers|Interactive Filters]]

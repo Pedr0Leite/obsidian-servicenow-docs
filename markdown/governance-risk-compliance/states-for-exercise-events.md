@@ -12,7 +12,7 @@ breadcrumb: [Structured workflows for Exercises, Manage, Business Continuity Man
 
 # States for an exercise and crisis event
 
-This section describes the states of progression for an [[exercise-management-uib|exercises]] and crisis event.
+This section describes the states of progression for an exercises and crisis event.
 
 ## States for an exercise and crisis event
 
@@ -90,7 +90,7 @@ Approved state of the event. When an event is approved, the state is set to the 
 
 Download the PDF of an exercise or crisis event for reference. When you select Generate PDF, the PDF attachment is available in the **Activity** panel of the **Details** tab.
 
-For information on generating the PDF of an exercise or crisis event, see [[generate-pdf-for-events|Generate event reports in PDF or Microsoft Word]].
+For information on generating the PDF of an exercise or crisis event, see [Generate event reports in PDF or Microsoft Word](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/generate-pdf-for-events.md).
 
 -   **Copy**
 
@@ -100,7 +100,7 @@ Save a copy of an exercise or crisis event for future reference as a template.
 
 Visualize the 360º representation of an exercise or crisis event.
 
-For information on how to view 360º relationships of an exercise or crisis event, see [[relationship-view-exercise-crisis|View 360° relationships for exercises and crises]].
+For information on how to view 360º relationships of an exercise or crisis event, see [View 360° relationships for exercises and crises](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/relationship-view-exercise-crisis.md).
 
 -   **Delete**
 
@@ -191,11 +191,5 @@ Closed Incomplete state of the event task. Actual end time of the task is record
 Closed Complete state of the event task. The task is closed and complete in this state. Actual end time of the task is recorded in the **Actual end** field. If you do not update the actual end time, the current date and time are recorded as the actual end time.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[performing-tasks-to-manage-exercise-events|Structured workflows for Exercises]]
+</table>**Parent Topic:**[Structured workflows for Exercises](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/performing-tasks-to-manage-exercise-events.md)
 
-## Related
-
-- [[generate-pdf-for-events|Generate event reports in PDF or Microsoft Word]]
-- [[relationship-view-exercise-crisis|View 360° relationships for exercises and crises]]
-- [[performing-tasks-to-manage-exercise-events|Structured workflows for Exercises]]
-- [[exercise-management-uib|Exercises]]

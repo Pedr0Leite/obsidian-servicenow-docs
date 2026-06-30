@@ -14,7 +14,7 @@ breadcrumb: [Exploring Knowledge Center, Knowledge Center, Manage content capabi
 
 Potential knowledge gaps represent areas where you frequently encounter issues but lack supporting articles. Managing these gaps promotes better coverage and improved user experience.
 
-The [[knowledge-center|Knowledge Center]] identifies gaps based on case or incident trends and their reporting patterns. These gaps highlight missing or insufficient knowledge articles that need attention.
+The Knowledge Center identifies gaps based on case or incident trends and their reporting patterns. These gaps highlight missing or insufficient knowledge articles that need attention.
 
 **Note:** The Knowledge Gap also known as Potential gaps feature is supported currently in CSM and ITSM products.
 
@@ -25,7 +25,7 @@ The [[knowledge-center|Knowledge Center]] identifies gaps based on case or incid
 
 ## Benefits
 
-Addressing gaps helps reduce repeated incidents, improves [[self-service-landing|self-service]], and promotes a comprehensive knowledge base.
+Addressing gaps helps reduce repeated incidents, improves self-service, and promotes a comprehensive knowledge base.
 
 ## Available knowledge actions
 
@@ -39,7 +39,3 @@ Addressing gaps helps reduce repeated incidents, improves [[self-service-landing
 
 [Configure Now Assist Skills for potential gaps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/configure-na-km.md)
 
-## Related
-
-- [[knowledge-center|Knowledge Center]]
-- [[self-service-landing|Self-service]]

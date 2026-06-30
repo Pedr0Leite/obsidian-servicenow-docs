@@ -14,7 +14,7 @@ breadcrumb: [Service Delegation, Self-Service, Self-service, Manage service capa
 
 # Add the Delegates related list to a user profile
 
-To [[t_DelegateApprovalsTasks|delegate approvals and tasks to another user]], configure your user profile form to display the Delegates related list.
+To delegate approvals and tasks to another user, configure your user profile form to display the Delegates related list.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: personalize\_list or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[self-service-landing|Self-Service]]** &gt; **My Profile**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **My Profile**.
 
 2.  On the form context menu, navigate to **Configure** &gt; **Related Lists**, and then add the **Delegate-&gt;User** related list.
 
@@ -33,7 +33,3 @@ The Delegates related list displays at the bottom of the user profile form.
 
 **Parent Topic:**[Service Delegation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/self-service/c_ServiceDelegation.md)
 
-## Related
-
-- [[t_DelegateApprovalsTasks|Delegate approvals and tasks to another user]]
-- [[self-service-landing|Self-service]]

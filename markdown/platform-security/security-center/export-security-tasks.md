@@ -22,17 +22,17 @@ Role required: admin
 
 ## Procedure
 
-1.  Access your Security Task list by navigating to **All** &gt; **[[sec-center-v2|Security Center]]** &gt; **[[security-task-manager|Security Tasks]]**.
+1.  Access your Security Task list by navigating to **All** &gt; **Security Center** &gt; **Security Tasks**.
 
 2.  Select one or more Security Tasks by selecting on its check box on the left
 
-3.  Select the **[[export|Export]]** button.
+3.  Select the **Export** button.
 
 4.  Under **File type**, select the file format you want the Security Tasks exported to.
 
     You can select from Excel, CSV, JSON, or PDF formats.
 
-5.  Under **Delivery Type**, select either **Download** or **[[email|Email]]**.
+5.  Under **Delivery Type**, select either **Download** or **Email**.
 
     -   **Download**
 
@@ -45,9 +45,3 @@ Role required: admin
 
 **Parent Topic:**[Security Tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/security-task-manager.md)
 
-## Related
-
-- [[sec-center-v2|Security Center]]
-- [[security-task-manager|Security Tasks]]
-- [[export|Export]]
-- [[email|Email]]

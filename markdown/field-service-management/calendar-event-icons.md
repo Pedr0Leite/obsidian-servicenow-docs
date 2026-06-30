@@ -22,8 +22,5 @@ Become familiar with the icons on calendar events to identify what they indicate
 |\[Omitted image "lock.png"\] Alt text: lock icon|The task is schedule locked.|lock.png|
 |\[Omitted image "crew.png"\] Alt text: crew icon|The work order task requires a crew.|crew.png|
 
-**Parent Topic:**[[fsm-reference|Field Service Management reference]]
+**Parent Topic:**[Field Service Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/fsm-reference.md)
 
-## Related
-
-- [[fsm-reference|Field Service Management reference]]

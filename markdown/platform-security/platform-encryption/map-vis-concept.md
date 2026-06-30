@@ -18,13 +18,13 @@ Use module access policy visualization to view all relevant cryptographic module
 
 \[Omitted image "map-vis-ui-page.png"\] Alt text: Module access policy visualization UI page
 
-[[encryption|Key Management Framework]] admins and cryptographic managers can use the module access policy UI page to view all [[sc-access-control|access control]] mechanisms related to a single cryptographic module. Use the information collected on this UI page to determine who has access to encrypted information on your instance.
+Key Management Framework admins and cryptographic managers can use the module access policy UI page to view all access control mechanisms related to a single cryptographic module. Use the information collected on this UI page to determine who has access to encrypted information on your instance.
 
-[[users|Users]] with the **sn\_kmf.admin** or **sn\_kmf.cryptographic\_manager** roles can access the module access policy visualization UI page by navigating to **All** &gt; **Key Management** &gt; **Cryptographic Modules** &gt; **All**.
+Users with the **sn\_kmf.admin** or **sn\_kmf.cryptographic\_manager** roles can access the module access policy visualization UI page by navigating to **All** &gt; **Key Management** &gt; **Cryptographic Modules** &gt; **All**.
 
 ## Results Labels
 
-Module access [[ca-policies|policies]] contain a **Result** field, which determines whether to grant access to the selected cryptographic module. The UI page displays a label on elements on the UI page based on the value of that field.
+Module access policies contain a **Result** field, which determines whether to grant access to the selected cryptographic module. The UI page displays a label on elements on the UI page based on the value of that field.
 
 |UI label|Result field value|Definition|
 |--------|------------------|----------|
@@ -48,7 +48,7 @@ Use the **Global policies** section to review the module access policies that co
 </td></tr></tbody>
 </table>|Policy|Definition|
 |------|----------|
-|Default rule|The default rule policy defines the behavior when no existing rule matches an access [[c_requestAPI|request]].|
+|Default rule|The default rule policy defines the behavior when no existing rule matches an access request.|
 |Platform backend|The platform backend policy governs internal platform code access to cryptographic keys.|
 |Script engine|The script engine policy governs whether the script engine is permitted to access cryptographic keys.|
 |System user|The system user policy governs whether the system user is permitted to access cryptographic keys.|
@@ -74,8 +74,8 @@ Use the **Granular policies** section to view lists of module access policies, s
 -   Scope
 -   Scope and Domain \(if Domain Separation is active\)
 -   Script
--   Resource exchange \(if the cryptographic module is a Password2 or [[field-encryption|Field Encryption]] submodule\)
--   [[identity-landing|Identity]] \(if [[secrets-management|Secrets Management]] Enterprise is active\)
+-   Resource exchange \(if the cryptographic module is a Password2 or Field Encryption submodule\)
+-   Identity \(if Secrets Management Enterprise is active\)
 
  By default, the each list displays only active policies. Use the filter icon to change the default filter for the list.
 
@@ -108,13 +108,3 @@ Use the **Users with access** section to see a list of all users that have acces
 
 [Encryption and Key Management subscription bundle]()
 
-## Related
-
-- [[encryption|Key Management Framework]]
-- [[sc-access-control|Access control]]
-- [[users|Users]]
-- [[ca-policies|Policies]]
-- [[c_requestAPI|request]]
-- [[field-encryption|Field Encryption]]
-- [[identity-landing|Identity]]
-- [[secrets-management|Secrets Management]]

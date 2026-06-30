@@ -18,9 +18,9 @@ Set up and validate data source connection credentials to import Microsoft SCCM 
 
 ## Before you begin
 
-**Important:** Unless there are configuration issues, use the [[sgcc-landing|SGC Central]] view in the [[sg-workspace|Service Graph Workspace]] or CMDB Workspace to configure the connection for the connector, as the guided setup method is planned for deprecation.
+**Important:** Unless there are configuration issues, use the SGC Central view in the Service Graph Workspace or CMDB Workspace to configure the connection for the connector, as the guided setup method is planned for deprecation.
 
-Confirm that you are in the [[cmdb-integration-sccm|Service Graph Connector for Microsoft SCCM]] application scope by using the application picker.
+Confirm that you are in the Service Graph Connector for Microsoft SCCM application scope by using the application picker.
 
 **Note:** If you’re currently using a version of the Microsoft SCCM plugin, see .
 
@@ -29,11 +29,11 @@ Dependencies and requirements:
 -   The [Integration Commons for CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-integration-commons/integration-commons-for-cmdb.md) store app, which is automatically installed.
 -   The CMDB CI class models store app, which is automatically installed. See [CMDB CI Class Models app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models/cmdb-ci-class-models.md).
 -   Integration - JDBC \(com.snc.integration.jdbc\)
--   Windows [[mid-server-landing|MID Server]] required for access to the SCCM environment.
+-   Windows MID Server required for access to the SCCM environment.
 
 To access Microsoft SCCM data, you must have appropriate access to the Microsoft SCCM database. You must have sufficient credentials to query the SQL Server that contains the Microsoft SCCM database. You must do the following:
 
-1.  Create a SQL Server account to [[c_Connect|connect]] to the Microsoft SCCM database on the MID Server to use the data sources.
+1.  Create a SQL Server account to connect to the Microsoft SCCM database on the MID Server to use the data sources.
 2.  Connect to your Microsoft SCCM SQL Server and configure the following:
     1.  Add a new login user name and password for SQL authentication.
     2.  Choose the Microsoft SCCM database that ServiceNow data sources will connect to.
@@ -47,7 +47,7 @@ Air gap connections are available from version 3.7.0 of the Service Graph Connec
 
 Role required: SGC-Admin \(sn\_cmdb\_int\_util.sgc\_admin\) or admin
 
-**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for [[cmdb-sgc-available|Service Graph Connectors]], see [Service Graph Connector user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md).
+**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md).
 
 ## Procedure
 
@@ -305,7 +305,7 @@ MID Server for the connection.
         5.  Navigate back to the guided setup and set the Configure connection \(Integrated authentication\) task to complete by selecting **Mark as Complete**.
 6.  Configure the connection and connector properties to map attributes and manage data imports.
 
-    1.  Enable mapping asset tags from Microsoft SCCM to the asset tag attribute in the [[class-computer|Computer \[cmdb\_ci\_computer\] class]].
+    1.  Enable mapping asset tags from Microsoft SCCM to the asset tag attribute in the Computer \[cmdb\_ci\_computer\] class.
 
         1.  For the Configure Connection Properties task in the Configure Data Source and Scheduled Data Import section, select **Configure**.
         2.  In the Name column, select the connection.
@@ -324,7 +324,7 @@ MID Server for the connection.
 
         1.  For the Reset 'Last run datetime' in test load data source task in the Configure Data Source and Scheduled Data Import section, select **Configure**.
         2.  In the Name column, select the Computer Identity data source associated with the connection.
-        3.  Clear the **Use last run datetime** [[check-box|check box]].
+        3.  Clear the **Use last run datetime** check box.
         4.  Select **Update**.
         5.  Navigate back to guided setup and set the Reset 'Last run datetime' in test load data source task to complete by selecting **Mark as Complete**.
 7.  Configure the process for importing disk data when the Discovery application is running.
@@ -343,7 +343,7 @@ MID Server for the connection.
 
         **Note:** You can set the imported disk name to the format `Disk #*&lt;disknumber&gt;*`. Where *&lt;disknumber&gt;* is the number extracted from the imported disk name.
 
-        1.  Select the **[[integration-commons-for-cmdb|Integration Commons for CMDB]]** application scope from the application picker.
+        1.  Select the **Integration Commons for CMDB** application scope from the application picker.
         2.  For the Configure Disk Name Transformation task in the Configure Disk Data Imports section, select **Configure**.
         3.  On the System Property page, set the value of the **sn\_cmdb\_int\_util.transform\_disk\_name\_to\_discovery\_format** property to `true`.
         4.  Select **Update**.
@@ -409,14 +409,3 @@ To resolve issues when configuring the connector, you can view the following add
 
 [Configuring air gap connections for Microsoft SCCM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-sccm-airgap.md)
 
-## Related
-
-- [[sgcc-landing|SGC Central]]
-- [[sg-workspace|Service Graph Workspace]]
-- [[cmdb-integration-sccm|Service Graph Connector for Microsoft SCCM]]
-- [[mid-server-landing|MID Server]]
-- [[c_Connect|Connect]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[class-computer|Computer \[cmdb\_ci\_computer\] class]]
-- [[check-box|Check box]]
-- [[integration-commons-for-cmdb|Integration Commons for CMDB]]

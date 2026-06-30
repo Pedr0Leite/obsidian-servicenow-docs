@@ -14,7 +14,7 @@ breadcrumb: [How users consent to tracking in Usage Insights, User privacy, trac
 
 # Configure link to your privacy policy
 
-When [[user-exp-analytics-landing|Usage Insights]] is enabled, the ServiceNow Services Privacy Statement is linked by default. However, administrators can update the link to point to the organization privacy policy.
+When Usage Insights is enabled, the ServiceNow Services Privacy Statement is linked by default. However, administrators can update the link to point to the organization privacy policy.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ To learn more about the default privacy statement, see the [ServiceNow Services 
 
 **Parent Topic:**[How users consent to tracking in Usage Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/user-exp-analytics-user-set.md)
 
-## Related
-
-- [[user-exp-analytics-landing|Usage Insights]]

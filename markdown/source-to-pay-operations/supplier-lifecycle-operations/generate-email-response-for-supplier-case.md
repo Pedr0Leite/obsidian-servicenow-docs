@@ -24,11 +24,11 @@ Role required: sn\_supplier\_gen\_ai.now\_assist\_fulfiller and sn\_slm.fulfille
 
 ## About this task
 
-The Email response for [[supplier|supplier]] case skill uses supplier case details such as case type, short description, description, work notes, [[activity-stream|activity stream]], additional comments, related records, and relevant knowledge base articles to compose an email response. You can also use this skill to elaborate, shorten, or change the tone of your email draft.
+The Email response for supplier case skill uses supplier case details such as case type, short description, description, work notes, activity stream, additional comments, related records, and relevant knowledge base articles to compose an email response. You can also use this skill to elaborate, shorten, or change the tone of your email draft.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
 2.  Select the list icon \[Omitted image "cases-list-icon.png"\] Alt text: List icon..
 
@@ -70,9 +70,3 @@ An AI generated email draft is created.
 
 [Analyze sentiments in supplier cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/slo-analyze-sentiments.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[activity-stream|Activity stream]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

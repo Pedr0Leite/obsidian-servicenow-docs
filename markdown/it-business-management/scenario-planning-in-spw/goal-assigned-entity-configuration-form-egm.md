@@ -14,18 +14,13 @@ breadcrumb: [Form field information for Strategic Planning, Reference, Portfolio
 
 # Goal Assigned Entity Configuration form
 
-Use the [[goal-assigned-entity-configuration-form|Goal Assigned Entity Configuration form]] to [[configure-assigned-entity|configure a table for an assigned entity]] type so that the goal user can associate goals with the required assigned entity.
+Use the Goal Assigned Entity Configuration form to configure a table for an assigned entity type so that the goal user can associate goals with the required assigned entity.
 
 |Field|Description|
 |-----|-----------|
 |Assigned entity table|Entity table that a goal is assigned to.|
 |Application|Name of the application scope.|
-|Assigned entity field|Reference field on the [[goal-form|goal form]].|
+|Assigned entity field|Reference field on the goal form.|
 
 **Parent Topic:**[Form field information for Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/form-field-information-for-strategic-planning.md)
 
-## Related
-
-- [[goal-assigned-entity-configuration-form|Goal Assigned Entity Configuration form]]
-- [[configure-assigned-entity|Configure a table for an assigned entity]]
-- [[goal-form|Goal form]]

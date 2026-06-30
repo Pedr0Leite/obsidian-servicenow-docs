@@ -26,13 +26,13 @@ As an agent, you can view the requests, complete tasks across multiple workflow 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[psd-overview|Procurement Case Management]]** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Procurement Case Management** &gt; **Source-to-Pay Workspace**.
 
 2.  Select the List icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon.\) and select **All work** &gt; **Cases**.
 
 3.  Select a case of type **Edit a purchase**.
 
-    **Note:** With the revision request raised, the state has been changed to Pending Revision for both the [[purchase-requisition|purchase requisition]] and purchase line. Remember that the **Edit** option is unavailable for purchases in the Close state. You can view all the associated information in the **Details** tab, and information on the procurement case lines, tasks, and original purchase in the **Procurement Case Lines**, **Purchasing Tasks**, **Related work**, and **Original purchase** tabs.
+    **Note:** With the revision request raised, the state has been changed to Pending Revision for both the purchase requisition and purchase line. Remember that the **Edit** option is unavailable for purchases in the Close state. You can view all the associated information in the **Details** tab, and information on the procurement case lines, tasks, and original purchase in the **Procurement Case Lines**, **Purchasing Tasks**, **Related work**, and **Original purchase** tabs.
 
     The **Playbook** tab opens with the **Edit a purchase requisition** section.
 
@@ -88,7 +88,7 @@ Confirm or reject request to edit PR
 </td><td>
 
 This activity enables you to review the initial request, confirm or reject the request to edit the PR. The available options are:-   **Confirm**: When you confirm, you can check the revised the purchase request or purchase request line with updated quantity and location. On successful update, the request to edit a purchase request is automatically closed.
--   **Reject**: When you reject, you must contact the [[supplier|supplier]] and confirm whether the order can be rejected. When a supplier allows cancellation, the request changes to Closed Rejected state.
+-   **Reject**: When you reject, you must contact the supplier and confirm whether the order can be rejected. When a supplier allows cancellation, the request changes to Closed Rejected state.
 
 
 </td></tr><tr><td>
@@ -153,7 +153,7 @@ The request updates the purchase requisition or line item with revised quantity 
 **Related topics**  
 
 
-[Process a [[purchase-order-table|purchase order]] edit in playbook]()
+[Process a purchase order edit in playbook]()
 
 [Process a return request in playbook]()
 
@@ -179,10 +179,3 @@ The request updates the purchase requisition or line item with revised quantity 
 
 [Playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/process-automation-designer.md)
 
-## Related
-
-- [[psd-overview|Procurement Case Management]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[purchase-requisition|Purchase requisition]]
-- [[supplier|Supplier]]
-- [[purchase-order-table|Purchase order]]

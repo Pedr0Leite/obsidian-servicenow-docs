@@ -12,7 +12,7 @@ breadcrumb: [On-demand assessments, Assessment administrator tasks, Using assess
 
 # Generate an on-demand assessment for multiple assessable records
 
-When you [[t_OnDemandAssessment|generate an on-demand assessment]] from the Assessment Metric Type form, the resulting assessment contains questions from all categories associated to any [[c_assessable-records|assessable records]] for the metric type.
+When you generate an on-demand assessment from the Assessment Metric Type form, the resulting assessment contains questions from all categories associated to any assessable records for the metric type.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Publish the assessment.
 
 ## About this task
 
-For example, if there are 15 assessable records associated to at least one category with [[c_AssessmentMetrics|assessment metrics]], the assessment contains questions for all 15 assessable records.
+For example, if there are 15 assessable records associated to at least one category with assessment metrics, the assessment contains questions for all 15 assessable records.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[r_Assessments|Assessments]]** &gt; **Metric Definition** &gt; **Types**.
+1.  Navigate to **All** &gt; **Assessments** &gt; **Metric Definition** &gt; **Types**.
 
 2.  Open a metric type that has the **On demand** schedule type.
 
@@ -45,27 +45,16 @@ For example, if there are 15 assessable records associated to at least one categ
 
 The system generates an assessment instance assigned to the selected users.
 
-**Parent Topic:**[[c_OnDemandAssessments|On-demand assessments]]
+**Parent Topic:**[On-demand assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_OnDemandAssessments.md)
 
 **Related topics**  
 
 
-[[c_AssessmentGeneration|Assessment generation]]
+[Assessment generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentGeneration.md)
 
-[[t_GenSchedAssessmentManually|Generate a scheduled assessment manually]]
+[Generate a scheduled assessment manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_GenSchedAssessmentManually.md)
 
-[[c_AssessmentGroups|Assessment groups]]
+[Assessment groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentGroups.md)
 
-[[t_CleanUpAssessmentData|Clean up assessment data]]
+[Clean up assessment data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CleanUpAssessmentData.md)
 
-## Related
-
-- [[c_OnDemandAssessments|On-demand assessments]]
-- [[c_AssessmentGeneration|Assessment generation]]
-- [[t_GenSchedAssessmentManually|Generate a scheduled assessment manually]]
-- [[c_AssessmentGroups|Assessment groups]]
-- [[t_CleanUpAssessmentData|Clean up assessment data]]
-- [[t_OnDemandAssessment|Generate an on-demand assessment]]
-- [[c_assessable-records|Assessable records]]
-- [[c_AssessmentMetrics|Assessment metrics]]
-- [[r_Assessments|Assessments]]

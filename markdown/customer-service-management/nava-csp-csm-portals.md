@@ -19,7 +19,7 @@ Integrate the Now Assist in Virtual Agent in Virtual Agent with Customer and Con
 The key benefits of adopting Now Assist in Virtual Agent for your portals include:
 
 -   Conversational responses: Now Assist in Virtual Agent uses large language models \(LLMs\) to deliver natural-language responses, making interactions more human-like and improving user satisfaction.
--   Improved self-service: It helps improve productivity and efficiency by providing faster answers and [[configure-nba|recommended actions]].
+-   Improved self-service: It helps improve productivity and efficiency by providing faster answers and recommended actions.
 -   Enhanced search: Enhances search capabilities by guiding users through more refined, AI-driven searches, helping them locate the information they need with greater accuracy and efficiency. Users can also search for public content in the Now Assist in Virtual Agent and get the search results. The source of the search results are available as internal or external with the links to it.
 
 \[Omitted image "VA-self-service-portal.png"\] Alt text: A portal screen showing the Virtual Agent with Now Assist enabled, providing options for user support and information retrieval.
@@ -28,7 +28,7 @@ The key benefits of adopting Now Assist in Virtual Agent for your portals includ
 
 Understand the Now Assist in Virtual Agent in Customer and Consumer Service Portals.
 
--   To enable Now Assist in Virtual Agent in your portals, verify that the Now Assist in Virtual [[agent-exp|Agent experience]] is configured by virtual\_agent\_admin or admin. For more information, see [Configuring assistants overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/configure-now-assist-va.md).
+-   To enable Now Assist in Virtual Agent in your portals, verify that the Now Assist in Virtual Agent experience is configured by virtual\_agent\_admin or admin. For more information, see [Configuring assistants overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/configure-now-assist-va.md).
 -   In the **Display experience** tab, remember to select **Customer Service for Customer Service Portal** or **Customer Support for Consumer Service Portal** from the **Portals** tab and select the Chat widget
 -   In the **Information Sources** tab, you can also control the specific information available to the assistant. You can create or select the **Copy existing configuration** and select the search profile CSM Portal Default Search Application for CSM or CSP Portal Default Search Application for CSP.
 
@@ -38,15 +38,9 @@ Understand the Now Assist in Virtual Agent in Customer and Consumer Service Port
 **Related topics**  
 
 
-[[nass-portal|Now Assist conversational experience in self-service portals]]
+[Now Assist conversational experience in self-service portals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/nass-portal.md)
 
-[[va-csp-csm-portal|Using Virtual Agent in Customer and Consumer Service Portals]]
+[Using Virtual Agent in Customer and Consumer Service Portals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/va-csp-csm-portal.md)
 
 [Configuring assistants overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/configure-now-assist-va.md)
 
-## Related
-
-- [[nass-portal|Now Assist conversational experience in self-service portals]]
-- [[va-csp-csm-portal|Using Virtual Agent in Customer and Consumer Service Portals]]
-- [[configure-nba|Recommended Actions]]
-- [[agent-exp|Agent experience]]

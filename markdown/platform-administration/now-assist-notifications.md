@@ -12,7 +12,7 @@ breadcrumb: [Configure core features, Administer the ServiceNow AI Platform]
 
 # Now Assist in Notifications
 
-Use ServiceNow Now Assist to automate inbound emails processing and to create and modify email [[notifications|notifications]], templates, and layouts.
+Use ServiceNow Now Assist to automate inbound emails processing and to create and modify email notifications, templates, and layouts.
 
 ## Get started
 
@@ -45,6 +45,3 @@ ServiceNow collects and uses the inputs, outputs, and edits to outputs of this a
 
 For more information, see the [Now Assist documentation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-now-assist-landing.md).
 
-## Related
-
-- [[notifications|Notifications]]

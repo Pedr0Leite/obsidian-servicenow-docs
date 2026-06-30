@@ -22,7 +22,7 @@ Role required: major\_incident\_manager, itil, itil\_admin, or admin
 
 ## Procedure
 
-1.  Open [[itsm-mobile-agent|ITSM Mobile Agent]] app.
+1.  Open ITSM Mobile Agent app.
 
 2.  Tap **Major incidents** tab.
 
@@ -50,6 +50,3 @@ Role required: major\_incident\_manager, itil, itil\_admin, or admin
     -   Incident created date and timestamp
     -   Channel name: Channel marked with “\#” is a public channel. Any user can view the conversation. Channel that doesn’t contain a “\#” is a private channel, this channel isn’t accessible to public users. Only the collaborators can view the chat conversation.
 
-## Related
-
-- [[itsm-mobile-agent|ITSM Mobile Agent]]

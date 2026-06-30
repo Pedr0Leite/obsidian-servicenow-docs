@@ -18,8 +18,8 @@ Manage Concur expense approvals using Virtual Agent actionable notifications in 
 
 ## Before you begin
 
--   The Virtual Agent integration is supported only for users who have a user record in your ServiceNow instance. Users must link their accounts to Microsoft Teams and enable [[va-notification-ta|Virtual Agent notifications]].
--   Install the [[approval-hub-intro|Approvals hub]] integration with the SAP Concur \(sn\_ex\_cnc\) plugin.
+-   The Virtual Agent integration is supported only for users who have a user record in your ServiceNow instance. Users must link their accounts to Microsoft Teams and enable Virtual Agent notifications.
+-   Install the Approvals hub integration with the SAP Concur \(sn\_ex\_cnc\) plugin.
 
 For more information on receiving notifications, see [Conversational Integration with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/teams-conv-integration.md) and [Enable Virtual Agent notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/enable-va-notifications.md). For more information on Virtual Agent, see [Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent-landing-page.md).
 
@@ -80,7 +80,7 @@ Select **Approve**.
 **Related topics**  
 
 
-[Use the [[employee-center-landing-page|Employee Center]] topic pages]()
+[Use the Employee Center topic pages]()
 
 [Topic managers and contributors for topic page management]()
 
@@ -92,7 +92,7 @@ Select **Approve**.
 
 [Task filters on My tasks]()
 
-[View the [[rfy-ec|Recommended for you]] content]()
+[View the Recommended for you content]()
 
 [Use Employee Center from Zoom]()
 
@@ -110,9 +110,3 @@ Select **Approve**.
 
 [Use Guided Self-Service]()
 
-## Related
-
-- [[va-notification-ta|Virtual Agent notifications]]
-- [[approval-hub-intro|Approvals hub]]
-- [[employee-center-landing-page|Employee Center]]
-- [[rfy-ec|Recommended for you]]

@@ -20,7 +20,7 @@ The following table lists the mandatory fields for the Purchase Entity Stage inb
 
 |Field|Data type|Description|
 |-----|---------|-----------|
-|ERP source|String|ERP source from which data is imported. For [[purchase-order-table|purchase order]], receipt, and invoice integrations, the [[erp-source|ERP source]] is determined through the [[legal-entity|legal entity]] associated with these records.|
+|ERP source|String|ERP source from which data is imported. For purchase order, receipt, and invoice integrations, the ERP source is determined through the legal entity associated with these records.|
 |ERP number|String|Unique identifier for the ERP system from which data is imported.|
 |Legal entity|String|Detailed information about individual suppliers, including banking details, payment methods, and credit terms.|
 |Name|String|Name of the purchase entity.|
@@ -102,8 +102,3 @@ The following table lists the mandatory fields for the Purchase Entity Stage inb
 
 [Unit of Measure inbound staging table]()
 
-## Related
-
-- [[purchase-order-table|Purchase order]]
-- [[erp-source|ERP source]]
-- [[legal-entity|Legal entity]]

@@ -22,7 +22,7 @@ Role required: sn\_test\_management.test\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[test-management2-landing-page|Test Management 2.0]]** &gt; **Test Board**.
+1.  Navigate to **All** &gt; **Test Management 2.0** &gt; **Test Board**.
 
 2.  Click **Create Test Plan**.
 
@@ -102,12 +102,8 @@ Description
 Description of the test plan.
 
 </td></tr></tbody>
-</table>    **Note:** The Progress section displays the overall status of the test plan indicating the percentage of [[c_Tests|tests]] in the test plan that have passed, failed, or been blocked.
+</table>    **Note:** The Progress section displays the overall status of the test plan indicating the percentage of tests in the test plan that have passed, failed, or been blocked.
 
 
 **Parent Topic:**[Test Board in Test Management 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/test-board.md)
 
-## Related
-
-- [[test-management2-landing-page|Test Management 2.0]]
-- [[c_Tests|Tests]]

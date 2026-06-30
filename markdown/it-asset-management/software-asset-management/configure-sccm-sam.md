@@ -14,7 +14,7 @@ breadcrumb: [Configuring Software Asset Management, Software Asset Management, I
 
 # Configure SCCM for Software Asset Management
 
-Set up Microsoft SCCM for [[c_SoftwareAssetMgmt|Software Asset Management]] to populate the Software Installation \[cmdb\_sam\_sw\_install\] table with client software found in your environment. You can also set up SCCM for Client Software Distribution to reclaim unused and underused software.
+Set up Microsoft SCCM for Software Asset Management to populate the Software Installation \[cmdb\_sam\_sw\_install\] table with client software found in your environment. You can also set up SCCM for Client Software Distribution to reclaim unused and underused software.
 
 ## Before you begin
 
@@ -44,7 +44,7 @@ Role required: sn\_client\_sf\_dist.csd\_admin or admin
 
         After you create these items, you can then deploy the application for both the install and uninstall collection. For detailed instructions, see [Create and deploy an application with SCCM](https://docs.microsoft.com/en-us/configmgr/apps/get-started/create-and-deploy-an-application) and [Create collections in SCCM](https://docs.microsoft.com/en-us/configmgr/core/clients/manage/collections/create-collections) from the Microsoft SCCM product documentation.
 
-        To [[reclaiming-software-sam|reclaim software]], an application, install collection, and uninstall collection must exist for the software. If you installed software manually or using an SCCM legacy package, you must still create these items so that you can reclaim the software.
+        To reclaim software, an application, install collection, and uninstall collection must exist for the software. If you installed software manually or using an SCCM legacy package, you must still create these items so that you can reclaim the software.
 
         **Note:** If you installed software using an SCCM legacy package, you can use [Microsoft Package Conversion Manager](https://docs.microsoft.com/en-us/configmgr/apps/pcm/package-conversion-manager) to create the application.
 
@@ -61,7 +61,3 @@ Once you've configured SCCM and discovered your software applications, you can [
 
 **Parent Topic:**[Configuring Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/Config-sam-workspace.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[reclaiming-software-sam|Reclaim software]]

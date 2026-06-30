@@ -22,7 +22,7 @@ Role required: sn\_skill\_builder.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[now-assist-skill-kit-landing|Now Assist Skill Kit]]** &gt; **Home**.
+1.  Navigate to **All** &gt; **Now Assist Skill Kit** &gt; **Home**.
 
 2.  Select the skill that you want to configure.
 
@@ -62,7 +62,7 @@ Thinking mode
 
 </td><td>
 
-[[controls|Controls]] how much reasoning effort the LLM applies when generating a response. Higher levels improve output quality but increase latency. Thinking mode is available when using *llm\_generic\_small\_v2* or *llm\_generic\_large\_v2*.
+Controls how much reasoning effort the LLM applies when generating a response. Higher levels improve output quality but increase latency. Thinking mode is available when using *llm\_generic\_small\_v2* or *llm\_generic\_large\_v2*.
 
 </td></tr><tr><td>
 
@@ -91,7 +91,7 @@ Returns prompt responses in a consistent JSON format. **Note:** Only Google Gemi
 </td></tr></tbody>
 </table>6.  To configure when this prompt runs, select **Manage prompt**, then select **Usage conditions**.
 
-    Usage conditions are filters built from your skill inputs. When a skill has multiple [[ai-prompts|prompts]], usage conditions determine which prompt runs for a given execution. The prompt without usage conditions is the default and runs when no other prompt's conditions are met.
+    Usage conditions are filters built from your skill inputs. When a skill has multiple prompts, usage conditions determine which prompt runs for a given execution. The prompt without usage conditions is the default and runs when no other prompt's conditions are met.
 
     **Important:** Usage conditions require at least one skill input to be defined. If your skill has no inputs, the Usage conditions panel will have no available keys to filter on.
 
@@ -111,8 +111,3 @@ To learn more about configuring models and tokens, see [Now Assist Skill Kit FAQ
 
 [Configure security controls for a skill]()
 
-## Related
-
-- [[now-assist-skill-kit-landing|Now Assist Skill Kit]]
-- [[controls|Controls]]
-- [[ai-prompts|Prompts]]

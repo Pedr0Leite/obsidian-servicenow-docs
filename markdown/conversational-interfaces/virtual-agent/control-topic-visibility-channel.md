@@ -14,7 +14,7 @@ breadcrumb: [Integrate VA with messaging apps, Integrate VA with other channels,
 
 # Control topic visibility in Virtual Agent messaging channels
 
-Suppress the display of a topic in a [[virtual-agent-landing-page|Virtual Agent]] messaging channel by using a condition script that excludes the topic from a channel.
+Suppress the display of a topic in a Virtual Agent messaging channel by using a condition script that excludes the topic from a channel.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ In your condition script for the topic, use a context variable to identify the m
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Virtual Agent** &gt; **Designer**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Designer**.
 
 2.  On the Virtual Agent Designer home page, select the topic for updating or create a new topic.
 
@@ -59,7 +59,3 @@ Publishing the topic deploys it to the Virtual Agent messaging channels, except 
 
 **Parent Topic:**[Integrating Virtual Agent with messaging apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-integration-messaging-apps.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]

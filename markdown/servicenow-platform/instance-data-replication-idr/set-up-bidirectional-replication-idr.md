@@ -14,7 +14,7 @@ breadcrumb: [Replicate data, Instance Data Replication, Manage instance data sou
 
 # Set up bidirectional replication
 
-Replicate updated data on a consumer instance to the producer instance using [[bidirectional-replication|bidirectional replication]] in [[instance-data-replication|Instance Data Replication]] \(IDR\).
+Replicate updated data on a consumer instance to the producer instance using bidirectional replication in Instance Data Replication \(IDR\).
 
 ## Before you begin
 
@@ -87,7 +87,7 @@ Filter
 Filter criteria to control the records in the table that the system is replicating. -   Use the filter to limit the number of records in your replication set. For example, if the table has an **Active** field, add a filter condition like **\[Active\] \[is\] \[True\]** to replicate only active records.
 -   If you want to replicate and preserve a parent and child table hierarchy, add a filter for the sys\_class\_name column to each outbound entry. This ensures that all of the child table columns are replicated, and not just the parent the columns.
 
-For example, to replicate both the Task \[task\] parent table and the Incident \[incident\] child table, you must add **\[Task type\] \[is\] \[Task\]** as a filter in the parent table entry and **\[Task type\] \[is\] \[Incident\]** as a filter in the child table entry. In this example, Task type is the [[label|label]] for the sys\_class\_name column on each table. For details, see [Preserving table hierarchy in Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/preserving-table-hierarchy.md).
+For example, to replicate both the Task \[task\] parent table and the Incident \[incident\] child table, you must add **\[Task type\] \[is\] \[Task\]** as a filter in the parent table entry and **\[Task type\] \[is\] \[Incident\]** as a filter in the child table entry. In this example, Task type is the label for the sys\_class\_name column on each table. For details, see [Preserving table hierarchy in Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/preserving-table-hierarchy.md).
 
 </td></tr><tr><td>
 
@@ -187,8 +187,3 @@ Data that is updated on this consumer instance automatically replicates on the p
 
 **Parent Topic:**[Replicating data with Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/replicating-data.md)
 
-## Related
-
-- [[bidirectional-replication|Bidirectional replication]]
-- [[instance-data-replication|Instance Data Replication]]
-- [[label|Label]]

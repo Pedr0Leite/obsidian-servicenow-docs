@@ -14,7 +14,7 @@ breadcrumb: [Health and Safety Testing, Safe Workplace, Health and Safety, Emplo
 
 # Configure Health and Safety Testing
 
-Complete all configuration tasks to ensure that [[health-safety-testing|Health and Safety Testing]] is set up correctly for your company.
+Complete all configuration tasks to ensure that Health and Safety Testing is set up correctly for your company.
 
 **Parent Topic:**[Health and Safety Testing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-testing/health-safety-testing.md)
 
@@ -46,7 +46,7 @@ Health and Safety Testing data retention period \(in days\).\[sn\_imt\_health\_t
 
 </td><td>
 
-Sets the number of days that data for COVID-19 diagnostic test requests and results is available in the system before it is deleted automatically. The **Data Retention Job for Health and Safety Testing** scheduled job runs daily to delete records that have an updated date past the specified retention period.**Note:** When an employee's test results are deleted, their [[health-safety-overview|health and safety]] requirement status is reset to the default status for **Testing Requirement Satisfied**. If the employee is a potentially exposed individual in a [[contact-tracing|contact tracing]] case, their health and safety requirement status is reset to **Not Cleared** until they submit a negative test result. For more information about health and safety requirements, see [Employee Health and Safety Status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-readiness-core/employee-health-safety-status.md).
+Sets the number of days that data for COVID-19 diagnostic test requests and results is available in the system before it is deleted automatically. The **Data Retention Job for Health and Safety Testing** scheduled job runs daily to delete records that have an updated date past the specified retention period.**Note:** When an employee's test results are deleted, their health and safety requirement status is reset to the default status for **Testing Requirement Satisfied**. If the employee is a potentially exposed individual in a contact tracing case, their health and safety requirement status is reset to **Not Cleared** until they submit a negative test result. For more information about health and safety requirements, see [Employee Health and Safety Status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-readiness-core/employee-health-safety-status.md).
 
 </td></tr><tr><td>
 
@@ -110,7 +110,7 @@ Employers remain solely responsible for complying with their legal obligations u
 
 The **Health and Safety Testing data retention period \(in days\)** property sets the number of days that COVID-19 diagnostic test requests and results are available before they are deleted automatically. The**Data Retention Job for Health and Safety Testing** scheduled job runs daily to delete records that have an updated date past the specified retention period.
 
-Enable the **Use country-specific data retention policy for Health and Safety Testing** property and use the Data Retention module in [[employee-health-safety-status|Employee Health and Safety Status]] to define policies at the country-level.
+Enable the **Use country-specific data retention policy for Health and Safety Testing** property and use the Data Retention module in Employee Health and Safety Status to define policies at the country-level.
 
 ### Procedure
 
@@ -244,7 +244,7 @@ Users must agree to a privacy policy in order to be able to request or report di
 
 4.  Configure an outreach to send the privacy consent to users.
 
-    1.  Navigate to **[[emergency-outreach|Emergency Outreach]]** &gt; **View Outreaches** and click the **Health and Safety Testing Diagnostic Test Placeholder** outreach.
+    1.  Navigate to **Emergency Outreach** &gt; **View Outreaches** and click the **Health and Safety Testing Diagnostic Test Placeholder** outreach.
 
         This outreach is preconfigured to use the Health and Safety Testing Diagnostic Test Placeholder Audience Record and the Testing Consent Template.
 
@@ -263,10 +263,3 @@ Users must agree to a privacy policy in order to be able to request or report di
 
 Users can request and report diagnostic test results. Users that attempt to request a test are automatically added to the Health and Safety Testing Diagnostic Test Placeholder Audience Record about every 10 minutes. These users will also receive the notification around that time.
 
-## Related
-
-- [[health-safety-testing|Health and Safety Testing]]
-- [[health-safety-overview|Health and Safety]]
-- [[contact-tracing|Contact Tracing]]
-- [[employee-health-safety-status|Employee Health and Safety Status]]
-- [[emergency-outreach|Emergency Outreach]]

@@ -14,7 +14,7 @@ breadcrumb: [Automatic MID Server selection, Configuring ACC with a MID Server, 
 
 # Configure the automatic MID Server selection based on the Agent Client Collector capabilities
 
-Configure the MID Servers that are ineligible for [[acc-auto-mid-selection|automatic MID Server selection]] with the agent. For example, you may want to block a MID Server from connecting to your agent due to firewall constraints.
+Configure the MID Servers that are ineligible for automatic MID Server selection with the agent. For example, you may want to block a MID Server from connecting to your agent due to firewall constraints.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: agent\_client\_collector\_admin
 
 ## About this task
 
-Agents with different levels of [[acc-landing-page|Agent Client Collector]] \(ACC\) capability can’t be considered for automatic MID Server selection. If you want to block a MID Server from automatic MID Server selection, you can assign the MID Server different ACC capabilities from all MID Servers, but not the primary MID Server, in your environment.
+Agents with different levels of Agent Client Collector \(ACC\) capability can’t be considered for automatic MID Server selection. If you want to block a MID Server from automatic MID Server selection, you can assign the MID Server different ACC capabilities from all MID Servers, but not the primary MID Server, in your environment.
 
 ## Procedure
 
-1.  [[configure-acc-capability|Configure the Agent Client Collector capabilities for MID Servers]], as described in [Configure the Agent Client Collector capabilities for MID Servers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/configure-acc-capability.md).
+1.  Configure the Agent Client Collector capabilities for MID Servers, as described in [Configure the Agent Client Collector capabilities for MID Servers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/configure-acc-capability.md).
 
 2.  Navigate to **All** &gt; **Agent Client Collector** &gt; **MID Servers**.
 
@@ -56,8 +56,3 @@ Agents with different levels of [[acc-landing-page|Agent Client Collector]] \(AC
 
 **Parent Topic:**[Automatic MID Server selection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-auto-mid-selection.md)
 
-## Related
-
-- [[acc-auto-mid-selection|Automatic MID Server selection]]
-- [[acc-landing-page|Agent Client Collector]]
-- [[configure-acc-capability|Configure the Agent Client Collector capabilities for MID Servers]]

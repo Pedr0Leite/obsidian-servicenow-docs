@@ -15,7 +15,7 @@ breadcrumb: [Use, Accounts Payable Operations, Finance and Supply Chain]
 
 # Configure Advanced Work Assignment for Accounts Payable Operations
 
-Set up [[advanced-work-assignment|Advanced Work Assignment]] to automatically route [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] requests from email, chat, and messenger to the appropriate agent groups.
+Set up Advanced Work Assignment to automatically route Accounts Payable Operations requests from email, chat, and messenger to the appropriate agent groups.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ Role required: admin
 
     For more information about creating service channels, see [.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/awa-create-service-channel.md) Service channels specific to Accounts Payable Operations are:
 
-    -   [[work-with-inquiry-cases|Invoice Inquiry Cases]]
+    -   Invoice Inquiry Cases
     -   Chat
     **Note:** You can customize the service channel of your choice for any work that would have come through by any mode other than email, chat, messenger.
 
@@ -44,7 +44,7 @@ Role required: admin
 
 
 -   **[Configure the Accounts Payable Operations queues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/configure-the-account-payable-operation-queues.md)**  
-Configure Advanced Work Assignment queues to automatically route [[supplier|supplier]] communications, including email and chat to the appropriate accounts payable agents.
+Configure Advanced Work Assignment queues to automatically route supplier communications, including email and chat to the appropriate accounts payable agents.
 -   **[Configure Agent chat for Accounts Payable Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/configure-agent-chat-for-accounts-payable-operations.md)**  
 Configure agent chat settings in Accounts Payable Operations to enable AP agents to interact with suppliers through live chat.
 
@@ -75,12 +75,5 @@ Configure agent chat settings in Accounts Payable Operations to enable AP agents
 
 [Playbook for updating the invoice primary data]()
 
-[Using [[supplier-central|Supplier Collaboration Portal]] in APO]()
+[Using Supplier Collaboration Portal in APO]()
 
-## Related
-
-- [[advanced-work-assignment|advanced work assignment]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[work-with-inquiry-cases|Invoice inquiry cases]]
-- [[supplier|Supplier]]
-- [[supplier-central|Supplier Collaboration Portal]]

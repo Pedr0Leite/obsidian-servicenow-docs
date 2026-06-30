@@ -26,7 +26,7 @@ Runtime clients can be set up that provide a token for authentication of runtime
 
 ## Procedure
 
-1.  In the [[cpq-utilities|Utilities]] tab of the navigation pane, click **Runtime clients**.
+1.  In the Utilities tab of the navigation pane, click **Runtime clients**.
 
 2.  Click **New**.
 
@@ -40,7 +40,7 @@ Runtime clients can be set up that provide a token for authentication of runtime
 
     Setting the user ID attaches the ID to all calls authenticated by this client. This can help track the origin of the calls.
 
-5.  Set whether the permissions apply to Config or Config and [[cpq-flightpath|Flightpath]].
+5.  Set whether the permissions apply to Config or Config and Flightpath.
 
     Config enables launching configurations. Flightpath helps with debugging by allowing for accessing the flightpath data of the configuration.
 
@@ -60,10 +60,5 @@ Runtime clients can be set up that provide a token for authentication of runtime
 **Related topics**  
 
 
-[[use_case_embed_logik_io_ui_in_salesforce_visualforce_page|Use case: Embed CPQ UI in a Salesforce VisualForce page]]
+[Use case: Embed CPQ UI in a Salesforce VisualForce page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/use_case_embed_logik_io_ui_in_salesforce_visualforce_page.md)
 
-## Related
-
-- [[use_case_embed_logik_io_ui_in_salesforce_visualforce_page|use_case_embed_logik_io_ui_in_salesforce_visualforce_page]]
-- [[cpq-utilities|Utilities]]
-- [[cpq-flightpath|Flightpath]]

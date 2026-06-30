@@ -14,7 +14,7 @@ breadcrumb: [Using Dispatcher Workspace, Assigning tasks from Dispatcher Workspa
 
 # Quickly edit work order tasks
 
-Quickly edit work order tasks directly from [[dispatcher-activities|Dispatcher Workspace]] without opening the work order task form.
+Quickly edit work order tasks directly from Dispatcher Workspace without opening the work order task form.
 
 ## Before you begin
 
@@ -45,6 +45,3 @@ Role required: wm\_dispatcher
 
 The work order task is updated with the changes you made.
 
-## Related
-
-- [[dispatcher-activities|Dispatcher Workspace]]

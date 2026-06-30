@@ -12,7 +12,7 @@ breadcrumb: [Mobile Card Builder, Building tools, Building mobile apps, Mobile P
 
 # Card actions in Mobile Card Builder
 
-Design and add actions to cards that you create within the [[mobile-card-builder|Mobile Card Builder]]. You can use buttons to enable your users to perform actions directly within a card. For example, to accept or reject suggestions, call listed contacts, and to add items to a cart.
+Design and add actions to cards that you create within the Mobile Card Builder. You can use buttons to enable your users to perform actions directly within a card. For example, to accept or reject suggestions, call listed contacts, and to add items to a cart.
 
 You can configure card actions to provide a highly visible interface for actions your users need to take quickly. These actions appear within cards or action lists, and are easier for users find than swipe actions or actions in the menu.
 
@@ -20,6 +20,3 @@ Users interact with card actions by tapping buttons within a card or action list
 
 \[Omitted image "card-actions-1.png"\] Alt text: Examples of card actions in the mobile UI.
 
-## Related
-
-- [[mobile-card-builder|Mobile Card Builder]]

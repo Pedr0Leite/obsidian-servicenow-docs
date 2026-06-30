@@ -18,25 +18,20 @@ Set up a new IPAM Service Graph Connector or review your IPAM Service Graph Conn
 
 ## Before you begin
 
-Dependencies and requirements: Install the SGC Central \(sn\_sgc\_central\) application. The admin user role is required to install the application. For more information, see [[sgcc-install|Install SGC Central]].
+Dependencies and requirements: Install the SGC Central \(sn\_sgc\_central\) application. The admin user role is required to install the application. For more information, see [Install SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-install.md).
 
 Role required: sn\_cmdb\_admin
 
 ## Procedure
 
-1.  Use one of the following methods to open the **[[cmdb-coverage|CMDB Coverage]]** dashboard:
+1.  Use one of the following methods to open the **CMDB Coverage** dashboard:
 
-    -   Navigate to **Workspaces** &gt; **[[sg-workspace|Service Graph Workspace]]** &gt; **Governance**, and then select **CMDB Coverage Dashboard** from the Manage group in Management tools.
+    -   Navigate to **Workspaces** &gt; **Service Graph Workspace** &gt; **Governance**, and then select **CMDB Coverage Dashboard** from the Manage group in Management tools.
     -   Navigate to **Workspaces** &gt; **CMDB Workspace** &gt; **Quick links** &gt; **CMDB Coverage Dashboard**.
 2.  Select **Settings**.
 
 3.  Select **Configure IPAM SGC**, and then set up an IPAM Service Graph Connector or review your IPAM Service Graph Connector configuration.
 
-    For more information, see [[sgcc-landing|SGC Central]].
+    For more information, see [SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-landing.md).
 
-## Related
 
-- [[sgcc-install|Install SGC Central]]
-- [[sgcc-landing|SGC Central]]
-- [[cmdb-coverage|CMDB Coverage]]
-- [[sg-workspace|Service Graph Workspace]]

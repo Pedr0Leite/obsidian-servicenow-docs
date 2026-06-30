@@ -14,7 +14,7 @@ breadcrumb: [Migrate to CSM Configurable Workspace, Migrating to Configurable Wo
 
 Learn how the Workspace UI Actions component functions with Configurable Workspace.
 
-UI actions include custom buttons, menu items, and limiting access to [[migration-forms|forms]] based on user role. The UI Action Bar component replaces the UI Actions component in Workspace.
+UI actions include custom buttons, menu items, and limiting access to forms based on user role. The UI Action Bar component replaces the UI Actions component in Workspace.
 
 |Legacy table name|UIB table name|
 |-----------------|--------------|
@@ -22,9 +22,5 @@ UI actions include custom buttons, menu items, and limiting access to [[migratio
 
 To migrate UI actions, each UI action must have a corresponding form action to use UI actions in Configurable Workspace.
 
-For more information, see [[config-csm-config-ws-form-action|Set up a form action in Configurable Workspace]].
+For more information, see [Set up a form action in Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-csm-config-ws-form-action.md).
 
-## Related
-
-- [[config-csm-config-ws-form-action|Set up a form action in CSM Configurable Workspace]]
-- [[migration-forms|Forms]]

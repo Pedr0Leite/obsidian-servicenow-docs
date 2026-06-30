@@ -14,7 +14,7 @@ breadcrumb: [Exploring Notify, Notify, Manage service capabilities, Extend Servi
 
 # Notify Twilio Direct driver
 
-The [[notify-landing-page|Notify]]-Twilio integration with the Notify-Twilio Direct driver provides APIs and [[c_WorkflowActivities|workflow activities]] for applications to handle various notification features.
+The Notify-Twilio integration with the Notify-Twilio Direct driver provides APIs and workflow activities for applications to handle various notification features.
 
 The Notify-Twilio Direct driver provides the following notification features:
 
@@ -34,7 +34,7 @@ To enhance the security, another set of user credentials are added in the system
 
 **Note:** Twilio Direct creates the Standard type API keys.
 
-If the instance is connected to Twilio and you upgrade to Australia, the Twilio will not be disconnected from your instance and continues to use the Account SID and Auth key. However, if the administrator disconnects Twilio from the instance and re-[[c_Connect|connect]] the Twilio service, the additional record will be created to enhance the security.
+If the instance is connected to Twilio and you upgrade to Australia, the Twilio will not be disconnected from your instance and continues to use the Account SID and Auth key. However, if the administrator disconnects Twilio from the instance and re-connect the Twilio service, the additional record will be created to enhance the security.
 
 ## Activation Information
 
@@ -49,8 +49,3 @@ The Notify plugin must be active to access Notify.
 
 [Configure Notify with Twilio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/t_ConfigureNotifyWithTwilio.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]
-- [[c_WorkflowActivities|Workflow activities]]
-- [[c_Connect|Connect]]

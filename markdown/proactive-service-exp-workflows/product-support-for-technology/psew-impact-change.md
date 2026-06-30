@@ -14,7 +14,7 @@ breadcrumb: [Use, Proactive Service Experience Workflows, Product Support for Te
 
 # Create a case from a change request
 
-Create a case from a change request in [[psew-landing-page|Proactive Service Experience Workflows]] so that you can notify your customers about a service outage and its resolution after the change implementation is complete.
+Create a case from a change request in Proactive Service Experience Workflows so that you can notify your customers about a service outage and its resolution after the change implementation is complete.
 
 ## Before you begin
 
@@ -60,6 +60,3 @@ After a change in workflow Proactive Service Experience Workflows is triggered, 
 
 [About identifying affected accounts with Proactive Service Experience Workflows in Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/psew-identify-act-incident.md)
 
-## Related
-
-- [[psew-landing-page|Proactive Service Experience Workflows]]

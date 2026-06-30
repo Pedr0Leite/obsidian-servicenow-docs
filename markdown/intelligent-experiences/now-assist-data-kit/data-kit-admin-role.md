@@ -14,7 +14,7 @@ breadcrumb: [Now Assist Data Kit reference, Now Assist Data Kit, Enable AI exper
 
 # Now Assist Data Kit roles \(sn\_data\_kit.admin\)
 
-Users with this role can create, update, and publish [[ai-datasets|datasets]] and data collections in [[now-assist-data-kit-landing|Now Assist Data Kit]]. This role includes all permissions granted by `sn_data_kit.analyst`.
+Users with this role can create, update, and publish datasets and data collections in Now Assist Data Kit. This role includes all permissions granted by `sn_data_kit.analyst`.
 
 ## Contains Roles
 
@@ -30,11 +30,5 @@ None.
 
 ## Special considerations
 
-The `sn_aia.viewer` role \([[na-ai-agents|Now Assist AI Agents]] viewer\) inherits `sn_data_kit.admin`. As a result, any user assigned `sn_aia.viewer` — for example, to grant read-only access to the [[ai-agent-dashboard|AI Agent Analytics dashboard]] — also receives full Now Assist Data Kit admin permissions. This behavior is unintended and is tracked under PRB2003416. Until the defect is resolved, review the roles assigned to `sn_aia.viewer` users before deploying that role broadly in governance-sensitive environments.
+The `sn_aia.viewer` role \(Now Assist AI Agents viewer\) inherits `sn_data_kit.admin`. As a result, any user assigned `sn_aia.viewer` — for example, to grant read-only access to the AI Agent Analytics dashboard — also receives full Now Assist Data Kit admin permissions. This behavior is unintended and is tracked under PRB2003416. Until the defect is resolved, review the roles assigned to `sn_aia.viewer` users before deploying that role broadly in governance-sensitive environments.
 
-## Related
-
-- [[ai-datasets|Datasets]]
-- [[now-assist-data-kit-landing|Now Assist Data Kit]]
-- [[na-ai-agents|Now Assist AI agents]]
-- [[ai-agent-dashboard|AI Agent Analytics dashboard]]

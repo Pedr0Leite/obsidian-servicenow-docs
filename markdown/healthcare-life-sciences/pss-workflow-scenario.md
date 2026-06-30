@@ -12,7 +12,7 @@ breadcrumb: [Explore, Patient Support Services, Healthcare and Life Sciences Ser
 
 # Patient Support Services - Workflow scenario
 
-Use the [[pss-app|Patient Support Services]] application for streamlining enrollment activities for a patient support service including patient onboarding and pre-authorization.
+Use the Patient Support Services application for streamlining enrollment activities for a patient support service including patient onboarding and pre-authorization.
 
 **Important:**
 
@@ -44,6 +44,3 @@ The following workflow elaborates how various users use the Patient Support Serv
 10. A nurse educator from the Nurse Training Support assignment group provides the injection training to the patient and completes the training checklist in Workspace.
 11. The enrollment case is set to complete when all the enrollment tasks are set to complete in the playbook.
 
-## Related
-
-- [[pss-app|Patient Support Services]]

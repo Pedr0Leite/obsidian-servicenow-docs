@@ -22,7 +22,7 @@ Role required: sn\_hr\_core.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **Application View**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **Application View**.
 
     On the left side of the page, a list of application view categories and the number of records in each display. The main section of page displays the all application view probes and the number of records in each.
 
@@ -30,12 +30,8 @@ Role required: sn\_hr\_core.admin
 
     Clicking a record takes you to the record.
 
-3.  Click New Probe to report on a table or setup aspect in the [[hr-service-delivery|HR Service Delivery]] system.
+3.  Click New Probe to report on a table or setup aspect in the HR Service Delivery system.
 
 
 **Parent Topic:**[HR Administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_AdministerHRServiceManagement.md)
 
-## Related
-
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[hr-service-delivery|HR Service Delivery]]

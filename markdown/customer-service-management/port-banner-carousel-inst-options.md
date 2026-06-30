@@ -12,7 +12,7 @@ breadcrumb: [Configurable Portal widgets instance options, Configurable Portal W
 
 # Portal Banner Carousel widget instance options form
 
-Instance options enable you to configure the [[csm-portal-carousel-widget|Portal Banner Carousel widget]] on a portal page.
+Instance options enable you to configure the Portal Banner Carousel widget on a portal page.
 
 <table id="table_csm_base_entities"><thead><tr><th>
 
@@ -74,6 +74,3 @@ The alignment of content inside the widget for all carousel slides.
 
 [Create a slide for the Portal Banner Carousel widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/create-carousel-slides.md)
 
-## Related
-
-- [[csm-portal-carousel-widget|Portal Banner Carousel widget]]

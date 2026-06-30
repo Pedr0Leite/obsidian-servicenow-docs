@@ -14,9 +14,9 @@ breadcrumb: [Using Event Management, Event Management, ITOM AIOps, IT Operations
 
 # Event Management Operator Tutorial
 
-As an [[c_EM|Event Management]] operator, your role is to find alerts, analyze them, and take action to help resolve the underlying issue.
+As an Event Management operator, your role is to find alerts, analyze them, and take action to help resolve the underlying issue.
 
-**Note:** The Operator Workspace interface is available only to customers who have upgraded from a release prior to the Utah release. New customers as of the Utah release can use the [[sow-landing-page-itom|Service Operations Workspace for ITOM]], which offers an enhanced UI for managing alerts.
+**Note:** The Operator Workspace interface is available only to customers who have upgraded from a release prior to the Utah release. New customers as of the Utah release can use the Service Operations Workspace for ITOM, which offers an enhanced UI for managing alerts.
 
 ## Take the tutorial
 
@@ -62,7 +62,7 @@ As an Event Management operator, you need to understand how an alert is generate
 -   **[Application services for Event Management operators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-application-services.md)**  
 As an Event Management operator, you need to understand what application services are.
 -   **[Event Management operator environment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-user-interfaces.md)**  
-As an Event Management operator, your primary work environment is the [[workspace-dashboard-use|Service Operations Workspace]] dashboard.
+As an Event Management operator, your primary work environment is the Service Operations Workspace dashboard.
 -   **[What Event Management operators do](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-process.md)**  
 As an Event Management operator, your typical workflow involves three phases: analyzing an alert and its effect on application services, taking some type of action, and making sure the alert is finally closed.
 -   **[Advanced tasks for the Event Management operator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-advanced-tasks.md)**  
@@ -70,8 +70,3 @@ As an Event Management operator, you might need to perform additional tasks that
 
 **Parent Topic:**[Using Event Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/user-guide.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[sow-landing-page-itom|Service Operations Workspace for ITOM]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

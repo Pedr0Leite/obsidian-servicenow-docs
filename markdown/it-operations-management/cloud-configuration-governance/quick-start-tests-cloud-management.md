@@ -14,7 +14,7 @@ breadcrumb: [Cloud Provisioning and Governance, ITOM Cloud Accelerate, IT Operat
 
 # Quick start tests for Cloud Provisioning and Governance
 
-Validate that [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] still works after you make any configuration change such as applying an upgrade or developing an application. Copy and customize these quick start tests to pass when using your instance-specific data.
+Validate that Cloud Provisioning and Governance still works after you make any configuration change such as applying an upgrade or developing an application. Copy and customize these quick start tests to pass when using your instance-specific data.
 
 ## Cloud Provisioning and Governance
 
@@ -83,6 +83,3 @@ To learn more about Cloud Provisioning and Governance, see [Cloud Provisioning a
 
 [Quick start tests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/quick-start-tests.md)
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]

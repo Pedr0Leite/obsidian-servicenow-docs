@@ -35,7 +35,7 @@ Before an audit begins, define its scope by creating the audit objectives, the c
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Health and Safety Workspace**.
 
 2.  Select the risk management icon \(\[Omitted image "icon-risk-assessment.png"\] Alt text: Risk assessment icon\).
 
@@ -74,7 +74,7 @@ Type of criteria.-   **Regulatory list**: A regulatory or standards list.
 
 **Note:** This option is available only when Integrated Risk Management \(IRM\) is installed.
 
--   **H&amp;S Document**: A document from the [[health-safety-overview|Health and Safety]] document library.
+-   **H&amp;S Document**: A document from the Health and Safety document library.
 -   **Knowledge base article**: A knowledge base article, for example, for company's Health and Safety procedures.
 -   **Text**: Free text description of the criteria.
 
@@ -87,7 +87,7 @@ Criteria
 
 Standards that the audit measures compliance against. The items in this list appear based on the selected **Criteria type** and the available record of that type.
 
-**Note:** If you use the 3E integration \(for example, with [[hs-environmental-management-landing-page|Health and Safety Environmental Management]]\), regulatory lists can be populated automatically from 3E when Regulatory list is selected as **Criteria type**.
+**Note:** If you use the 3E integration \(for example, with Health and Safety Environmental Management\), regulatory lists can be populated automatically from 3E when Regulatory list is selected as **Criteria type**.
 
 </td></tr><tr><td>
 
@@ -211,8 +211,3 @@ People assigned to the audit objectives can raise findings against the items for
 
 **Parent Topic:**[Create and manage a safety audit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-create-manage-safety-audit-workspace.md)
 
-## Related
-
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[health-safety-overview|Health and Safety]]
-- [[hs-environmental-management-landing-page|Health and Safety Environmental Management]]

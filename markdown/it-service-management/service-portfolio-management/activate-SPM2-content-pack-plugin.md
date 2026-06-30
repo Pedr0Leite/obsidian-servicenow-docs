@@ -14,13 +14,13 @@ breadcrumb: [Configure, Service Portfolio Management, IT Service Management]
 
 # Install the Service Portfolio Management Sample Content Pack
 
-Install the [[SPM2-taxonomy|Service Portfolio Management Taxonomy]] Content Pack plugin \(com.snc.spm.content\) to access a sample portfolio structure and service taxonomy. This sample data accelerates your ability to create and manage a service portfolio.
+Install the Service Portfolio Management Taxonomy Content Pack plugin \(com.snc.spm.content\) to access a sample portfolio structure and service taxonomy. This sample data accelerates your ability to create and manage a service portfolio.
 
 ## Before you begin
 
 Role required: admin or portfolio\_admin
 
-Dependency: [[SPM2-landing-page|Service Portfolio Management]] Foundation application
+Dependency: Service Portfolio Management Foundation application
 
 ## About this task
 
@@ -29,7 +29,7 @@ Installing the Service Portfolio Management Taxonomy Content Pack \(com.snc.spm.
 -   Access demo data and a sample taxonomy structure metadata.
 -   Create portfolios and associated taxonomies.
 -   Access sample lists of service data.
--   Link to periphery example data, such as vendors and [[c_Contracts|contracts]].
+-   Link to periphery example data, such as vendors and contracts.
 
 You can view the sample content in the **Service Portfolios** module of the Service Portfolio Management application as **Sample IT Services Portfolio**. Alternatively, you can view data in the DPM Workspace. For more information, see [Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-landing.md).
 
@@ -37,7 +37,7 @@ You can view the sample content in the **Service Portfolios** module of the Serv
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System [[dex-workspace-application-tab|Applications]]** &gt; **All Available Applications** &gt; **All**.
+1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
 2.  Find the plugin using the filter criteria and search bar.
 
@@ -55,9 +55,3 @@ Access, view, and analyze the Service Portfolio Management sample IT services po
 
 **Parent Topic:**[Configuring Service Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-configuring.md)
 
-## Related
-
-- [[SPM2-taxonomy|Service Portfolio Management taxonomy]]
-- [[SPM2-landing-page|Service Portfolio Management]]
-- [[c_Contracts|Contracts]]
-- [[dex-workspace-application-tab|Applications]]

@@ -14,7 +14,7 @@ breadcrumb: [Integrating with Coupa, Integrating with external procurement appli
 
 # Create a Coupa integration profile
 
-Create a Coupa integration profile to verify the status of the [[c_Procurement|procurement]]-scheduled jobs, entitlements, and entitlement import errors created through this profile.
+Create a Coupa integration profile to verify the status of the procurement-scheduled jobs, entitlements, and entitlement import errors created through this profile.
 
 ## Before you begin
 
@@ -68,7 +68,7 @@ You must set the following scopes while creating an OAuth 2.0 connection with Co
 
 ## Procedure
 
-1.  Navigate to **[[sam-workspace|Software Asset Workspace]]** &gt; **License operations** &gt; **Purchasing** &gt; **Procurement integrations**.
+1.  Navigate to **Software Asset Workspace** &gt; **License operations** &gt; **Purchasing** &gt; **Procurement integrations**.
 
 2.  Select **New**.
 
@@ -243,7 +243,3 @@ Create software requisitions directly on Coupa through the ServiceNow Procuremen
 
 If you want to delete the Coupa integration profile, see [Deleting an external procurement application integration profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/procurement/delete-ext-profile.md).
 
-## Related
-
-- [[c_Procurement|Procurement]]
-- [[sam-workspace|Software Asset Workspace]]

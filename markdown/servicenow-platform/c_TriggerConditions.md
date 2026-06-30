@@ -16,16 +16,16 @@ Trigger conditions specify when to send a particular survey and the persons to s
 
 Survey administrators can use trigger conditions to configure the system to generate a survey instance each time a specified action occurs on a specified table, for example, when an incident or change request closes. The system sends the survey to users that are related to the triggering record, for example, incident callers or change request assignees. You can choose to send a survey every time the condition is met, or you can set a probability for the system to send a survey at random when the condition is met.
 
-Trigger conditions are ideal for sending transactional [[r_SurveyManagementLandingPage|surveys]]. Transactional surveys generally measure satisfaction with a recent experience, such as closing an incident or purchasing an item.
+Trigger conditions are ideal for sending transactional surveys. Transactional surveys generally measure satisfaction with a recent experience, such as closing an incident or purchasing an item.
 
-**Note:** Trigger conditions are comparable to survey conditions in legacy surveys. If you [[t_MigrateALegacySurvey|migrate a legacy survey]] that has survey conditions, ensure that the survey conditions are deactivated before you recreate them as trigger conditions.
+**Note:** Trigger conditions are comparable to survey conditions in legacy surveys. If you migrate a legacy survey that has survey conditions, ensure that the survey conditions are deactivated before you recreate them as trigger conditions.
 
--   **[[t_CreateATriggerCondition|Configure a trigger condition for a survey]]**  
+-   **[Configure a trigger condition for a survey](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateATriggerCondition.md)**  
 Configure trigger conditions to specify when to send a particular survey and the persons to send it to.
--   **[[r_TriggerConditionExample|Trigger condition example]]**  
+-   **[Trigger condition example](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_TriggerConditionExample.md)**  
 You can send out auto-triggered surveys when an incident is closed or resolved.
 
-**Parent Topic:**[[r_SurveyAdminTasks|Survey administration]]
+**Parent Topic:**[Survey administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_SurveyAdminTasks.md)
 
 **Related topics**  
 
@@ -46,7 +46,7 @@ You can send out auto-triggered surveys when an incident is closed or resolved.
 
 [Survey definitions]()
 
-[Create a [[c_SurveyDesigner|survey designer]] template question]()
+[Create a survey designer template question]()
 
 [Survey questions]()
 
@@ -62,11 +62,3 @@ You can send out auto-triggered surveys when an incident is closed or resolved.
 
 [Legacy survey migration]()
 
-## Related
-
-- [[t_CreateATriggerCondition|Configure a trigger condition for a survey]]
-- [[r_TriggerConditionExample|Trigger condition example]]
-- [[r_SurveyAdminTasks|Survey administration]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[t_MigrateALegacySurvey|Migrate a legacy survey]]
-- [[c_SurveyDesigner|Survey designer]]

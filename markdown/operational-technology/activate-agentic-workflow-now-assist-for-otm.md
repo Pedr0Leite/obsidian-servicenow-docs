@@ -12,7 +12,7 @@ breadcrumb: [Configure, OT Manager Foundation, Operational Technology]
 
 # Activate the Import OT device spreadsheet into OT CMDB agentic workflow
 
-You must activate the agentic workflow from the AI Agent Studio. The [[now-assist-for-otm-landing|Operational Technology \(OT\) Manager Foundation]] agent included with the application and used in the agentic workflows are activated by default.
+You must activate the agentic workflow from the AI Agent Studio. The Operational Technology \(OT\) Manager Foundation agent included with the application and used in the agentic workflows are activated by default.
 
 ## Before you begin
 
@@ -47,9 +47,5 @@ Role required: sn\_aia.admin
     3.  In the **Toggle display** screen, select the **Status** toggle if the toggle isn't already selected.
 
 
-**Parent Topic:**[[configuring-na-otm|Configuring the OT Manager Foundation]]
+**Parent Topic:**[Configuring the OT Manager Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/configuring-na-otm.md)
 
-## Related
-
-- [[configuring-na-otm|Configuring the OT Manager Foundation]]
-- [[now-assist-for-otm-landing|Operational Technology \(OT\) Manager Foundation]]

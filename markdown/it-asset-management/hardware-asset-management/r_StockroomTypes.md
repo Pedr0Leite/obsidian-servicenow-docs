@@ -14,7 +14,7 @@ breadcrumb: [Reference, Hardware Asset Management, IT Asset Management]
 
 # Stockroom types
 
-Stockroom types are categories of [[c_Stockrooms|stockrooms]].
+Stockroom types are categories of stockrooms.
 
 The stockroom type has two significant characteristics.
 
@@ -32,6 +32,3 @@ The stockroom type has two significant characteristics.
 
 **Parent Topic:**[Hardware Asset Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/reference-hardware-asset-management.md)
 
-## Related
-
-- [[c_Stockrooms|Stockrooms]]

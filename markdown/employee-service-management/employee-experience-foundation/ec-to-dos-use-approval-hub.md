@@ -22,7 +22,7 @@ As an approver, view all your approvals with the in-context details such as comm
 
 You can perform the following actions from the portal and Now Mobile.
 
--   View the assigned open [[emp-slate-inbox|tasks and requests]] on the My tasks section.
+-   View the assigned open tasks and requests on the My tasks section.
 -   View and track the approval requests from external business applications such as SAP Concur and Workday right from your ServiceNow instance.
 -   Understand the in-context details such as expense amount, requested for, attachments, state, and last comment for processing the approvals.
 -   Click URLs and navigate to external sources for additional context and information.
@@ -39,7 +39,7 @@ For more information, see [Approvals experience reference](https://raw.githubuse
 **Related topics**  
 
 
-[Use the [[employee-center-landing-page|Employee Center]] topic pages]()
+[Use the Employee Center topic pages]()
 
 [Topic managers and contributors for topic page management]()
 
@@ -51,7 +51,7 @@ For more information, see [Approvals experience reference](https://raw.githubuse
 
 [Task filters on My tasks]()
 
-[View the [[rfy-ec|Recommended for you]] content]()
+[View the Recommended for you content]()
 
 [Use Employee Center from Zoom]()
 
@@ -69,8 +69,3 @@ For more information, see [Approvals experience reference](https://raw.githubuse
 
 [Use Guided Self-Service]()
 
-## Related
-
-- [[emp-slate-inbox|Tasks and requests]]
-- [[employee-center-landing-page|Employee Center]]
-- [[rfy-ec|Recommended for you]]

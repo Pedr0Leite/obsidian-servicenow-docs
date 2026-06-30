@@ -14,7 +14,7 @@ breadcrumb: [Download and install, Set up Desktop Assistant, Configure, Digital 
 
 # Update instance URL in the Desktop Assistant configuration file
 
-As a system administrator, update the instance URL in the Desktop Assistant configuration file to automatically populate the Desktop Assistant login page instance URL on [[dex-workspace-devices-tab|devices]] on which it is installed.
+As a system administrator, update the instance URL in the Desktop Assistant configuration file to automatically populate the Desktop Assistant login page instance URL on devices on which it is installed.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Desktop Assistant users can update the instance URL when logging in to the appli
 
 ## Procedure
 
-1.  On your computer, navigate to the folder that contains the `[[settings-mobile|settings]].json` file.
+1.  On your computer, navigate to the folder that contains the `settings.json` file.
 
     -   On Windows devices: Navigate to the `C:\Users\user_name\AppData\Roaming\desktop_assistant_app` folder.
     -   On macOS devices: Navigate to the `Users/user_name/Library/Application Support/desktop_assistant_app` folder.
@@ -41,7 +41,4 @@ Desktop Assistant users can update the instance URL when logging in to the appli
 
 4.  Save and close the JSON file.
 
-## Related
 
-- [[dex-workspace-devices-tab|Devices]]
-- [[settings-mobile|Settings]]

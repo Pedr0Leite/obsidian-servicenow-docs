@@ -67,7 +67,7 @@ In the **Attendees** field, start typing the name of each of the attendees for t
 
 </td></tr><tr><td id="d586677e212">
 
-**[[create-work-shift-wfo-hr|Create a work shift]]**
+**Create a work shift**
 
 </td><td>
 
@@ -84,6 +84,3 @@ In the **Attendees** field, start typing the name of each of the attendees for t
 
 **Parent Topic:**[Scheduling in Workforce Optimization for HR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/scheduling-configurable-wfo-hr.md)
 
-## Related
-
-- [[create-work-shift-wfo-hr|Create a work shift]]

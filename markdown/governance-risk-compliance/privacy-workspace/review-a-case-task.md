@@ -22,7 +22,7 @@ Role required: sn\_privacy\_case.privacy\_case\_analyst
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[privacy-management|Privacy Management]]** &gt; **Privacy Workspace**.
+1.  Navigate to **All** &gt; **Privacy Management** &gt; **Privacy Workspace**.
 
 2.  From the **Tasks** module, open the task to review.
 
@@ -84,6 +84,3 @@ Steps
 </table>
 **Parent Topic:**[Work on a case task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/accept-a-case-task.md)
 
-## Related
-
-- [[privacy-management|privacy management]]

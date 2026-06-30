@@ -20,11 +20,11 @@ Submit a query related to your direct deposits in the Oracle HCM system from a S
 
 Role required: none
 
-You will not be able to see your direct deposit accounts and its details if your employee number and Person ID \(Correlation\_ID\) are missing in your [[c_HRProfileRecords|HR profile]].
+You will not be able to see your direct deposit accounts and its details if your employee number and Person ID \(Correlation\_ID\) are missing in your HR profile.
 
 ## Procedure
 
-1.  Navigate to **[[employee-center-landing-page|Employee Center]]** &gt; **Catalog** &gt; **Payroll** &gt; **Direct Deposit Inquiry**.
+1.  Navigate to **Employee Center** &gt; **Catalog** &gt; **Payroll** &gt; **Direct Deposit Inquiry**.
 
 2.  View details of all your direct deposit accounts.
 
@@ -36,7 +36,4 @@ You will not be able to see your direct deposit accounts and its details if your
 
     An HR case is created under the HR service, Direct Deposit Inquiry - Oracle HCM Cloud.
 
-## Related
 
-- [[c_HRProfileRecords|HR Profile]]
-- [[employee-center-landing-page|Employee Center]]

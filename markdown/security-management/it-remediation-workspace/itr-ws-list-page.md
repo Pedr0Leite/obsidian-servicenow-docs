@@ -14,7 +14,7 @@ breadcrumb: [Exploring the IT Remediation Workspace, IT Remediation Workspace, V
 
 # List page in the IT Remediation Workspace
 
-The List view in the [[it-remediation-workspace-landing-page|IT Remediation Workspace]] permits remediation owners to view the records \(VITs, AVITs, CVITs, and TRs\) assigned to them and their assignment groups, and remediate these [[vulnerabilities|vulnerabilities]] and misconfigurations. You can also view the list of preferred solutions that are recommended for remediating the host vulnerable items \(VITs\). Along with these lists, you can view the list of exception requests and penetration test assessment requests raised by you, penetration test findings associated with your penetration test assessment requests, supported libraries and other supported data.
+The List view in the IT Remediation Workspace permits remediation owners to view the records \(VITs, AVITs, CVITs, and TRs\) assigned to them and their assignment groups, and remediate these vulnerabilities and misconfigurations. You can also view the list of preferred solutions that are recommended for remediating the host vulnerable items \(VITs\). Along with these lists, you can view the list of exception requests and penetration test assessment requests raised by you, penetration test findings associated with your penetration test assessment requests, supported libraries and other supported data.
 
 Roles required:
 
@@ -33,7 +33,7 @@ The lists and links on the List page provide you with easy access to records and
 
 **Tip:**
 
-If the **sn\_vul\_cmn\_ws.navigate\_to\_workspace** system property is set to `true` by the admin, upon selecting the predefined filter links in the [[vuln-landing-page|Vulnerability Response]], [[avr-landing|Application Vulnerability Response]], [[cvr-landing|Container Vulnerability Response]], and Test Results module in [[vr-config-compliance-landing|Configuration Compliance]] under the **All** menu, these links open in the List page in the IT Remediation Workspace.
+If the **sn\_vul\_cmn\_ws.navigate\_to\_workspace** system property is set to `true` by the admin, upon selecting the predefined filter links in the Vulnerability Response, Application Vulnerability Response, Container Vulnerability Response, and Test Results module in Configuration Compliance under the **All** menu, these links open in the List page in the IT Remediation Workspace.
 
 For example, if you select **Assigned to My Groups** by navigating to **All** &gt; **Vulnerability Response** &gt; **Remediation Tasks** &gt; **Assigned to My Groups**, this link is redirected to the IT Remediation Workspace. The Assigned to my group list in the Remediation Tasks module opens in the List page of the IT Remediation Workspace if you have a remediation owner role. To view the host remediation tasks, group the tasks by **Record Type**.
 
@@ -177,7 +177,7 @@ sn\_vulc.remediation\_owner
 
 </td><td>
 
-Lists the solutions from the solution management application. The Solutions list is displayed if the [[vuln-solution-mgmt|Vulnerability Solution Management]] application is installed.
+Lists the solutions from the solution management application. The Solutions list is displayed if the Vulnerability Solution Management application is installed.
 
  -   **All**: Shows all the available solutions which you use to remediate the host vulnerable items.
 -   **Highest Supersedence**: Shows all the solutions which are used to populated Preferred Solutions.
@@ -241,7 +241,7 @@ Vulnerability Response, Application Vulnerability Response, Container Vulnerabil
 
 </td><td>
 
--   **[[cj-discovered-items|Discovered items]]**: List of all the discovered items.
+-   **Discovered items**: List of all the discovered items.
 -   **Discovered container images**:
 
 </td><td>
@@ -261,7 +261,7 @@ Vulnerability Response, Application Vulnerability Response, Container Vulnerabil
 
 </td><td>
 
-[[pen_test_overview_avm|Penetration testing]] assessment requests submitted to security team by you for performing a security assessment of any business application. This list contains:-   **Assigned to Me**: List of Penetration Test Assessment Requests raised by you.
+Penetration testing assessment requests submitted to security team by you for performing a security assessment of any business application. This list contains:-   **Assigned to Me**: List of Penetration Test Assessment Requests raised by you.
 -   **Assigned to My Groups**: List of Penetration Test Assessment Requests raised by the users in your assignment groups.
 
 </td><td>
@@ -312,14 +312,3 @@ sn\_vulc.remediation\_owner
 
 [Use the List view in the Vulnerability Manager Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-manager-workspace/vr-ws-vmws-list-view-duplicate.md)
 
-## Related
-
-- [[it-remediation-workspace-landing-page|IT Remediation Workspace]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[avr-landing|Application Vulnerability Response]]
-- [[cvr-landing|Container Vulnerability Response]]
-- [[vr-config-compliance-landing|Configuration Compliance]]
-- [[vuln-solution-mgmt|Vulnerability Solution Management]]
-- [[cj-discovered-items|Discovered Items]]
-- [[pen_test_overview_avm|Penetration testing]]

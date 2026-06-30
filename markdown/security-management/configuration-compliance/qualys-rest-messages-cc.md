@@ -22,7 +22,7 @@ The following rest messages are shipped with the base system.
 
 The Qualys PC Policies REST message retrieves policy data from Qualys. The changes to the REST message method record impact the request made to Qualys to retrieve policy information.
 
-Starting with v12.21.0 of Qualys Integration for [[security-operations-landing-page|Security Operations]] and v30.3.0 of Unified Security Exposure Management, the API version has been updated to version 5.0.
+Starting with v12.21.0 of Qualys Integration for Security Operations and v30.3.0 of Unified Security Exposure Management, the API version has been updated to version 5.0.
 
 <table id="table_v2g_x1q_dt"><thead><tr><th>
 
@@ -410,7 +410,3 @@ compressionRequired
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[security-operations-landing-page|Security Operations]]

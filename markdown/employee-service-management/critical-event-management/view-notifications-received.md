@@ -14,7 +14,7 @@ breadcrumb: [Managing impacted people, Critical Event Management, Health and Saf
 
 # View notifications received
 
-View the list of notifications received for an impacted person in [[critical-event-management|Critical Event Management]].
+View the list of notifications received for an impacted person in Critical Event Management.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_critical.agent
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]** and select the **Critical Event Management** tab.
+1.  Navigate to **Workspaces** &gt; **Health and Safety Workspace** and select the **Critical Event Management** tab.
 
 2.  Open the critical event.
 
@@ -52,7 +52,3 @@ Role required: sn\_critical.agent
 
 [Conduct a roll call as an on-site responder]()
 
-## Related
-
-- [[critical-event-management|Critical Event Management]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]

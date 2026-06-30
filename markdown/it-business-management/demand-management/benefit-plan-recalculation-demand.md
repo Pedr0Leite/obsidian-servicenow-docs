@@ -18,7 +18,7 @@ Updating the entered currency, entered benefit, offset type, or the fiscal perio
 
 -   **Changes in entered currency, entered benefit, and recurring check box of a benefit plan**
 
-    When you change the values of any of these fields in the [[benefit-plan-form-project-management|Benefit Plan form]] with multicurrency view enabled, the following values are recalculated:
+    When you change the values of any of these fields in the Benefit Plan form with multicurrency view enabled, the following values are recalculated:
 
     -   When you modify the **Entered currency** field, **Entered benefit** field, or **Recurring** check box of the Benefit Plan form, the total planned benefit is recalculated in demand currency.
     -   The **Benefit in demand currency** in the Benefit Plan Breakdown is recalculated.
@@ -46,6 +46,3 @@ Updating the entered currency, entered benefit, offset type, or the fiscal perio
 
 **Parent Topic:**[Enable demand currency view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/enable-multicurrency-demand.md)
 
-## Related
-
-- [[benefit-plan-form-project-management|Benefit Plan form]]

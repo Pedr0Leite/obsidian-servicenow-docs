@@ -14,7 +14,7 @@ breadcrumb: [Appointment slot recommendation, Configure Appointment Booking, Con
 
 # Enable appointment booking slot recommendation
 
-[[appointment-booking|Appointment booking]] slot recommendations help users quickly select the best available appointment times based on your configured scheduling rules.
+Appointment booking slot recommendations help users quickly select the best available appointment times based on your configured scheduling rules.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ Role required: appointment\_booking\_admin
 
 Appointment booking slot recommendation is enabled or disabled based on your selection, and you will see recommended appointment slots accordingly.
 
-## Related
-
-- [[appointment-booking|Appointment booking]]

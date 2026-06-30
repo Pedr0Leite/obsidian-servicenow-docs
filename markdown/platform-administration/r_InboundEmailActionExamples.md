@@ -12,9 +12,9 @@ breadcrumb: [References, Inbound email, Notifications, Configure core features, 
 
 # Inbound email action examples
 
-Various examples of [[actions-inbound-email|inbound email actions]] are available to help you build your own inbound email actions. These examples show how to set up inbound email actions to handle email replies, create \(log\) a problem record, request a change, and update an incident.
+Various examples of inbound email actions are available to help you build your own inbound email actions. These examples show how to set up inbound email actions to handle email replies, create \(log\) a problem record, request a change, and update an incident.
 
-**Parent Topic:**[[references-inbound-email|References for Inbound email]]
+**Parent Topic:**[References for Inbound email](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/references-inbound-email.md)
 
 ## Inbound email action example: handling email replies
 
@@ -26,7 +26,7 @@ Role required: admin
 
 ### About this task
 
-The [[ia-inbound-email-il|inbound email]] action parses the email and responds using a script. By default, an email received by the instance creates a new incident, and the body of the email is added to the **Additional Comments** text box. More refined Inbound Email Actions can create incident tickets with more data, thus saving the incident management team valuable time.
+The inbound email action parses the email and responds using a script. By default, an email received by the instance creates a new incident, and the body of the email is added to the **Additional Comments** text box. More refined Inbound Email Actions can create incident tickets with more data, thus saving the incident management team valuable time.
 
 Normally, when a user responds to an email sent by the instance, the inbound email action matches the watermark to an existing incident, and updates the incident rather than creating a new record. However, if the watermark is missing, this inbound email action attempts to match a reply to the original incident.
 
@@ -266,8 +266,3 @@ The default inbound action for the Incident table automatically sets the followi
 
 If multiple users have the same email address, the instance first searches for an active user with the email address. Use unique email addresses for each user record whenever possible. If not, having only one active user with the shared email address guarantees that the instance always matches incoming email from this address to the active user.
 
-## Related
-
-- [[references-inbound-email|References for Inbound email]]
-- [[actions-inbound-email|Inbound email actions]]
-- [[ia-inbound-email-il|Inbound email]]

@@ -33,17 +33,12 @@ The following table lists all the system properties that are required for valida
 |sn\_ind\_tmt\_orm.limit|Number of records \(batch size\) to return from the inbound queue \[sn\_tmt\_core\_inbound\_queue\] table for processing. The default value is 100.|
 |sn\_ind\_tmt\_orm.schedule.max.runtime|Maximum time up to which the scheduled job runs, in ms. The default value is 900000 ms.|
 
-**Parent Topic:**[[asynchronous-order-processing|Asynchronous order processing for large customer and consumer orders]]
+**Parent Topic:**[Asynchronous order processing for large customer and consumer orders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/asynchronous-order-processing.md)
 
 **Related topics**  
 
 
-[[explore-order-management|Order management]]
+[Order management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-order-management.md)
 
-[[using-order-management|Using Order Management]]
+[Using Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-order-management.md)
 
-## Related
-
-- [[asynchronous-order-processing|Asynchronous order processing for large customer and consumer orders]]
-- [[explore-order-management|Order management]]
-- [[using-order-management|Using Order Management]]

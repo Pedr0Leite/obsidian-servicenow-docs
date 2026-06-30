@@ -24,7 +24,7 @@ The various stages in the asset refresh process are as follows:
 
 2.  Provider ships the new asset to the employee.
 
-    **Note:** A provider can fulfill a Zero Touch Refresh request by using the [[am-landing-page|Asset Management]] application.
+    **Note:** A provider can fulfill a Zero Touch Refresh request by using the Asset Management application.
 
     The following tasks are created:
 
@@ -36,9 +36,9 @@ The various stages in the asset refresh process are as follows:
         -   Based on the refresh method that the employee selected in the Zero Touch Refresh request, email notifications with details of the new replacement asset that is shipped are sent as follows:
             -   When the asset is shipped to the employee, an email notification is sent to all users with the asset role.
             -   When the asset is shipped to the stockroom, an email notification is sent to all users with the asset role and also the stockroom manager of the selected stockroom from where the employee will pick up the new asset.
-        -   Based on the tracking number and shipping carrier details that the provider specified in the request, unique shipment records are created for the shipments of the replacement asset and the old asset. When the same tracking number is provided for both the shipments, a single shipment record is created. You can view the shipment records with the associated assets in the Assets [[operation-view-ccm-ws|operations view]] of the [[using-ham-workspace|Hardware Asset Workspace]]. For more details, see [View hardware asset shipment details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/view-hardware-asset-shipments.md).
+        -   Based on the tracking number and shipping carrier details that the provider specified in the request, unique shipment records are created for the shipments of the replacement asset and the old asset. When the same tracking number is provided for both the shipments, a single shipment record is created. You can view the shipment records with the associated assets in the Assets operations view of the Hardware Asset Workspace. For more details, see [View hardware asset shipment details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/view-hardware-asset-shipments.md).
     2.  Ready for pickup: This task is created only for the Pickup refresh method in which the provider ships the new asset to the stockroom from where the employee picks up the asset.
-    3.  [[receive-rma-asset|Receive asset]]: This task is created as follows:
+    3.  Receive asset: This task is created as follows:
         -   For the Ship refresh method, when the provider ships the asset to the employee.
         -   For the Pickup refresh method, when the Ready for pickup task is closed.
     4.  Receive return asset: This task is created when the provider ships the new asset.
@@ -55,9 +55,3 @@ The Zero Touch Refresh flow has the following requirements:
 
 For more details, see [Manage refresh of assets using Zero Touch Refresh](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/refresh-hardware-uisng-ztr.md).
 
-## Related
-
-- [[am-landing-page|Asset Management]]
-- [[operation-view-ccm-ws|Operations view]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[receive-rma-asset|Receive asset]]

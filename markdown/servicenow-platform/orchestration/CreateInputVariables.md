@@ -40,8 +40,8 @@ Roles required: workflow\_admin or activity\_creator
 
     |Field|Description|
     |-----|-----------|
-    |Type|Data type for this variable. Double-click on the field to display the choice list. In addition to the usual data types, you can create input arrays and encrypt individual variables that contain sensitive data. Encrypted variables are passed to the ECC Queue and then decrypted by the [[mid-server-landing|MID Server]] when they run on the target host. Sensitive data returned from running these variables on the host can then be passed to another activity through encrypted output variables.|
-    |Mandatory|Marks an input variable as mandatory. Variables marked as mandatory are required fields in the [[properties-form-survey-designer|properties form]] for the activity in the workflow. The input testing feature allows you to filter on mandatory variables.|
+    |Type|Data type for this variable. Double-click on the field to display the choice list. In addition to the usual data types, you can create input arrays and encrypt individual variables that contain sensitive data. Encrypted variables are passed to the ECC Queue and then decrypted by the MID Server when they run on the target host. Sensitive data returned from running these variables on the host can then be passed to another activity through encrypted output variables.|
+    |Mandatory|Marks an input variable as mandatory. Variables marked as mandatory are required fields in the properties form for the activity in the workflow. The input testing feature allows you to filter on mandatory variables.|
     |Default|Default value for this input variable. Default values are prepopulated for variables in the properties form for the activity in the workflow. You can override this value when you test the variables.|
 
 5.  To reorder the variable list, select a row and then drag the row to its new location.
@@ -120,7 +120,7 @@ Target host
 
 </td><td>
 
-Host name or [[ip-address|IP address]] of the target server for this PowerShell activity.
+Host name or IP address of the target server for this PowerShell activity.
 
 </td></tr><tr><td>
 
@@ -162,7 +162,7 @@ Use MID service account
 
 </td><td>
 
-Forces this activity to authenticate on the target host using the credentials of the MID Server service account only, without trying any other credentials. When this [[check-box|check box]] is selected, the **Credential tag** field is not available.
+Forces this activity to authenticate on the target host using the credentials of the MID Server service account only, without trying any other credentials. When this check box is selected, the **Credential tag** field is not available.
 
 </td></tr><tr><td>
 
@@ -174,7 +174,7 @@ Specific [Credential aliases for Orchestration activities](https://raw.githubuse
 
 </td></tr><tr><td>
 
-Required [[mid-server-capabilities|MID Server capabilities]]
+Required MID Server capabilities
 
 </td><td>
 
@@ -233,10 +233,4 @@ An input test executes only the input parameters against an endpoint and not the
 
 7.  Click the **X** in the upper right corner of the window to close it.
 
-## Related
 
-- [[mid-server-landing|MID Server]]
-- [[properties-form-survey-designer|Properties form]]
-- [[ip-address|IP Address]]
-- [[check-box|Check box]]
-- [[mid-server-capabilities|MID Server capabilities]]

@@ -14,11 +14,11 @@ breadcrumb: [Formula indicators, Indicators, Configure fundamentals, Performance
 
 # Changes to score\_start/end because of different user time zones
 
-For [[formula-indicators|formula indicators]], the values of the variables `score_start` and `score_end` are calculated based on the time zone of the user who is executing the formula. If users in different time zones execute the same formula, the values of `score_start` and `score_end` change.
+For formula indicators, the values of the variables `score_start` and `score_end` are calculated based on the time zone of the user who is executing the formula. If users in different time zones execute the same formula, the values of `score_start` and `score_end` change.
 
 **Warning:** The date value of the `score_start` and `score_end` variables can shift when users from different time zones view the same formula.
 
-Formulas can include `score_start` or `score_end` variables as parameters for indicators that the formula references. These variables represent the first and last second of the specific collection period being calculated for the referenced indicator. The values of the `score_start` and `score_end` variables are calculated from the difference between the time zone of the user executing the formula and the time zone of the database server, which is GMT. A user executes a formula whenever they view the formula indicator in a dashboard widget or on the [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]. As a result, the date value of the start or end of the collection period can shift when different users view the same formula.
+Formulas can include `score_start` or `score_end` variables as parameters for indicators that the formula references. These variables represent the first and last second of the specific collection period being calculated for the referenced indicator. The values of the `score_start` and `score_end` variables are calculated from the difference between the time zone of the user executing the formula and the time zone of the database server, which is GMT. A user executes a formula whenever they view the formula indicator in a dashboard widget or on the Analytics Hub. As a result, the date value of the start or end of the collection period can shift when different users view the same formula.
 
 ## Different values of score\_end for different user time zones
 
@@ -55,7 +55,3 @@ Three different users view a dashboard widget with this formula indicator on 18 
 
 [Performance Analytics variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/pa-scripts.md)
 
-## Related
-
-- [[formula-indicators|Formula indicators]]
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]

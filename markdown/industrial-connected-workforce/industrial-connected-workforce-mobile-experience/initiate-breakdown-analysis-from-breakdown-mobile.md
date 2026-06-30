@@ -24,11 +24,11 @@ Role required: sn\_icw.rca\_user or sn\_icw.rca\_expert
 
 1.  Navigate to the **Tasks** tab.
 
-2.  Select the breakdown task for which you want to initiate the [[industrial-root-cause-analysis|root cause analysis]].
+2.  Select the breakdown task for which you want to initiate the root cause analysis.
 
 3.  Select the three-dot menu in the top corner and select **Start breakdown analysis**.
 
-4.  On the [[breakdown-analysis-form|Breakdown analysis form]], fill in the fields.
+4.  On the Breakdown analysis form, fill in the fields.
 
     For a description of the field values, see [Root cause analysis form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/root-cause-analysis-form.md).
 
@@ -37,12 +37,7 @@ Role required: sn\_icw.rca\_user or sn\_icw.rca\_expert
 
 ## Result
 
-The breakdown analysis is created and displayed in the list of root cause analyses in the Workspace. You can access the Playbook only in the [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]].
+The breakdown analysis is created and displayed in the list of root cause analyses in the Workspace. You can access the Playbook only in the Digital Factory Workspace.
 
 **Parent Topic:**[Using the Industrial Connected Workforce Mobile Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/using-icw-mobile-experience.md)
 
-## Related
-
-- [[industrial-root-cause-analysis|Root Cause Analysis]]
-- [[breakdown-analysis-form|Breakdown analysis form]]
-- [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]

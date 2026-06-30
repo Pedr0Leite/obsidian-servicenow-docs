@@ -22,7 +22,7 @@ Role required: sp\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
 
     The Employee Center home page is displayed.
 
@@ -125,6 +125,3 @@ Sets how the order in which the page and widgets data loads. Choose from:-   **A
 
 **Parent Topic:**[Configure employee communications widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/employee-comms-widgets.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

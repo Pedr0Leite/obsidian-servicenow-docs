@@ -22,7 +22,7 @@ Role required: ml\_admin or admin
 
 ## About this task
 
-The LightGBM algorithm offers performance and efficiency for large [[ai-datasets|datasets]]. For detailed information about this algorithm see [https://lightgbm.readthedocs.io](https://lightgbm.readthedocs.io).
+The LightGBM algorithm offers performance and efficiency for large datasets. For detailed information about this algorithm see [https://lightgbm.readthedocs.io](https://lightgbm.readthedocs.io).
 
 Use the following procedure to add this option in the solution definition form. Alternatively, you can use a script to add this algorithm.
 
@@ -44,7 +44,7 @@ In JSON format:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[predictive-intelligence-landing|Predictive Intelligence]]** &gt; **Classification** &gt; **Solution Definitions**.
+1.  Navigate to **All** &gt; **Predictive Intelligence** &gt; **Classification** &gt; **Solution Definitions**.
 
 2.  Open an existing classification solution or create a new one.
 
@@ -76,7 +76,3 @@ Retrain your solution.
 
 [Create and train a classification solution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/create-solution-definition.md)
 
-## Related
-
-- [[ai-datasets|Datasets]]
-- [[predictive-intelligence-landing|Predictive Intelligence]]

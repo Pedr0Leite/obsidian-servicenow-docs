@@ -14,12 +14,12 @@ breadcrumb: [Time off request to Workday, Use, HR Service Delivery Advanced Inte
 
 # Request a time off
 
-Request a time off to Workday from [[employee-center-landing-page|Employee Center]].
+Request a time off to Workday from Employee Center.
 
 ## Before you begin
 
 -   Role required: none
--   You might not be able to submit a time off request if your [[c_HRProfileRecords|HR profile]] does not have a valid employee number and employment type.
+-   You might not be able to submit a time off request if your HR profile does not have a valid employee number and employment type.
 
 ## Procedure
 
@@ -46,7 +46,3 @@ Request a time off to Workday from [[employee-center-landing-page|Employee Cente
 
 **Parent Topic:**[Time off request to Workday](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/w-timeoff.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[c_HRProfileRecords|HR Profile]]

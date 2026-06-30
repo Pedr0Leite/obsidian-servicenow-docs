@@ -38,9 +38,9 @@ Complete the instance options to define the table.
 
 If **Enable filter** is enabled in the instance options, users can add custom conditions to filter the results.
 
-\[Omitted image "WidgetDataTableFilter.png"\] Alt text: [[c_ConditionBuilder|Condition builder]] has the following parameters: Priority = critical, Category = Network. The list shows only three times.
+\[Omitted image "WidgetDataTableFilter.png"\] Alt text: Condition builder has the following parameters: Priority = critical, Category = Network. The list shows only three times.
 
-For more information on using the condition builder, see [[t_CreatingFilters|Create a filter in List]].
+For more information on using the condition builder, see [Create a filter in List](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_CreatingFilters.md).
 
 **Note:** The condition builder is only available in the desktop view.
 
@@ -49,14 +49,9 @@ For more information on using the condition builder, see [[t_CreatingFilters|Cre
 **Related topics**  
 
 
-[Create and edit a page using the [[c_ServicePortal|Service Portal]] Designer]()
+[Create and edit a page using the Service Portal Designer]()
 
 [Configure widget instances]()
 
 [Clone a widget]()
 
-## Related
-
-- [[t_CreatingFilters|Create a filter in List]]
-- [[c_ConditionBuilder|Condition builder]]
-- [[c_ServicePortal|Service Portal]]

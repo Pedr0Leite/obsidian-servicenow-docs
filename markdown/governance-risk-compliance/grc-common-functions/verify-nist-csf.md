@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **User [[Administration|Administration]]** &gt; **Roles** and review the roles installed with the NIST CSF application.
+1.  Navigate to **All** &gt; **User Administration** &gt; **Roles** and review the roles installed with the NIST CSF application.
 
     These roles contain nist\_csf in their names; for example, sn\_irm\_nist\_csf.security\_officer. The roles are associated with NIST CSF application modules to provide access based on the user's role.
 
@@ -139,7 +139,7 @@ Perform a search for profile classes with the **Name** field containing **with N
 
 </td></tr><tr><td>
 
-**Policy and Compliance** &gt; **Scoping** &gt; **[[entity-type-in-risk-ws|entity types]]**
+**Policy and Compliance** &gt; **Scoping** &gt; **entity types**
 
 </td><td>
 
@@ -221,7 +221,3 @@ Perform a search for all Remediation tasks where an issue identified on the reme
 </table>
 **Parent Topic:**[NIST CSF Use Case Accelerator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/grc-csf-usecase-accelerator.md)
 
-## Related
-
-- [[Administration|Administration]]
-- [[entity-type-in-risk-ws|Entity types]]

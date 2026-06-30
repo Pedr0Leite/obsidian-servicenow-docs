@@ -14,7 +14,7 @@ breadcrumb: [Skills Management, Workforce Optimization for ITSM, IT Service Mana
 
 # Skill review request components in Workforce Optimization for ITSM
 
-[[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]] installs roles and enables notifications when you install the application.
+Workforce Optimization for ITSM installs roles and enables notifications when you install the application.
 
 ## Roles
 
@@ -74,6 +74,3 @@ When enabled, the agent receives a notification that their manager has submitted
 </td></tr></tbody>
 </table>**Parent Topic:**[Skills Management in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/skills-management-wfo-itsm.md)
 
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]

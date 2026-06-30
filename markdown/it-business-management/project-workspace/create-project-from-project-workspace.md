@@ -14,7 +14,7 @@ breadcrumb: [Managing projects with Project Workspace, Project Workspace, Projec
 
 # Create a project from Project Workspace
 
-Use [[project-workspace-landing-page|Project Workspace]] to create a project and start planning for your [[t_CreateAProjectTask|project tasks]].
+Use Project Workspace to create a project and start planning for your project tasks.
 
 ## Before you begin
 
@@ -40,7 +40,3 @@ Role required: it\_project\_manager
 
 **Parent Topic:**[Managing projects with Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/use-projects-pw.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]
-- [[t_CreateAProjectTask|Project tasks]]

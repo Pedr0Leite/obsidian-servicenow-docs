@@ -14,7 +14,7 @@ breadcrumb: [Manage map objects and data, Indoor Mapping, Workplace Service Deli
 
 # Edit with view editor
 
-Edit and customize indoor maps with the Map Studio view editor. Enabling the default view in [[Indoor-mapping|Indoor Mapping]] is a mandatory step so that maps can render in [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]].
+Edit and customize indoor maps with the Map Studio view editor. Enabling the default view in Indoor Mapping is a mandatory step so that maps can render in Workplace Service Delivery.
 
 ## Before you begin
 
@@ -59,7 +59,7 @@ Role required: map admin, map editor, map editor limited
 
 7.  When there is more than one View type, map creators can select **Copy another view** and then, **Import Styles from an existing**.
 
-8.  The **[[view-editor-content|View Editor Content]]** displays content based on your selection.
+8.  The **View Editor Content** displays content based on your selection.
 
     For more information, see [View editor content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/view-editor-content.md).
 
@@ -79,8 +79,3 @@ Work with the View Editor content and customize the campus, buildings, layers, p
 
 **Next topic:**[View editor content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/view-editor-content.md)
 
-## Related
-
-- [[Indoor-mapping|Indoor Mapping]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[view-editor-content|View editor content]]

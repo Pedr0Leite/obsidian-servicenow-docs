@@ -22,7 +22,7 @@ Role required: sn\_hr\_core.admin
 
 ## About this task
 
-After you [[t_CreateBulkCases|create a bulk case request]], you create a user segment to define the users a case will be created for.
+After you create a bulk case request, you create a user segment to define the users a case will be created for.
 
 **Note:** You can have multiple user segments associated with a bulk case request.
 
@@ -56,7 +56,7 @@ Opened for
 
 </td><td>
 
-The employee you choose as the **Opened for** person on each case. For example, you can select the [[hiring-tab-concept|hiring]] manager for an onboarding bulk case request.
+The employee you choose as the **Opened for** person on each case. For example, you can select the hiring manager for an onboarding bulk case request.
 
 </td></tr><tr><td>
 
@@ -72,13 +72,13 @@ Additional fields
 
 </td><td>
 
-Depending on the HR service selected when creating a bulk case request, additional fields may appear. For example, if **Tuition Reimbursement Request** was entered in the HR service field on the [[bulk-case-request-form|Bulk Case Request form]], the following fields appear:-   School or Program name
+Depending on the HR service selected when creating a bulk case request, additional fields may appear. For example, if **Tuition Reimbursement Request** was entered in the HR service field on the Bulk Case Request form, the following fields appear:-   School or Program name
 -   Course title
 -   Course justification
 -   Course start date
 -   Course end date
 -   Course cost
-For more information on what fields appear, see [Configure the HR case creation form for an HR service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-case-creation-form-for-hr-service.md). The base system only provides additional fields for the Tuition Reimbursement Inquiry and Tuition Reimbursement Request [[hr-service-administration|HR services]].
+For more information on what fields appear, see [Configure the HR case creation form for an HR service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-case-creation-form-for-hr-service.md). The base system only provides additional fields for the Tuition Reimbursement Inquiry and Tuition Reimbursement Request HR services.
 
 </td></tr><tr><td>
 
@@ -96,7 +96,7 @@ Determines who to create the bulk HR case for:-   Upload file:
     -   Select **Choose File** to find and select the file you’re uploading.
     -   Select the **Upload** button after you choose a file.
     -   After uploading the file, the number of users appears. This number represents the number of users that fulfill your criteria.
--   [[hr-criteria|HR criteria]]: Use pre-defined HR criteria. Criteria based on conditions defined by the **[[c_HRProfileRecords|HR Profile]] \[sn\_hr\_core\_profile\]** or **User \[sys\_user\]** tables. The base system provides examples that you can select from the **Select HR Criteria** list.
+-   HR criteria: Use pre-defined HR criteria. Criteria based on conditions defined by the **HR Profile \[sn\_hr\_core\_profile\]** or **User \[sys\_user\]** tables. The base system provides examples that you can select from the **Select HR Criteria** list.
 
 **Note:** Only available to users with the sn\_hr\_core.content\_reader, sn\_hr\_core.content\_writer, or sn\_hr\_core.admin roles.
 
@@ -132,11 +132,3 @@ Determines who to create the bulk HR case for:-   Upload file:
 
 **Parent Topic:**[Creating bulk cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/bulk-case.md)
 
-## Related
-
-- [[t_CreateBulkCases|Create a bulk case request]]
-- [[hiring-tab-concept|Hiring]]
-- [[bulk-case-request-form|Bulk case request form]]
-- [[hr-service-administration|HR services]]
-- [[hr-criteria|HR criteria]]
-- [[c_HRProfileRecords|HR Profile]]

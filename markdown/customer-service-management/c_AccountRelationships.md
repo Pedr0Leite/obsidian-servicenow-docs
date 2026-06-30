@@ -19,9 +19,9 @@ A bi-directional account relationship is based on a defined account relationship
 -   Defining the types of relationships that exist between your partners and customers.
 -   Using these relationship types to create relationship records between selected accounts.
 
-You can view relationship records on the [[customer-service-account-form|Account form]] for either account in the relationship. These records are stored in the **Account Relationships** related list.
+You can view relationship records on the Account form for either account in the relationship. These records are stored in the **Account Relationships** related list.
 
-For relationships between a partner account and a customer account, contacts with the Partner or Partner administrator role can create and [[manage-cases|manage cases]] for their customer accounts.
+For relationships between a partner account and a customer account, contacts with the Partner or Partner administrator role can create and manage cases for their customer accounts.
 
 ## Account relationship types
 
@@ -43,7 +43,7 @@ When creating an account relationship type, you define the following information
 
 ## Account relationship records
 
-Once an account relationship type is defined, users with the Customer Service Manager role can use it to [[configure-data-model-relationships|create relationships]] between specific accounts or partners. An account relationship record includes the following information:
+Once an account relationship type is defined, users with the Customer Service Manager role can use it to create relationships between specific accounts or partners. An account relationship record includes the following information:
 
 -   A source account, selected in the **Account From** field.
 -   A target account, selected in the **Account To** field.
@@ -61,8 +61,3 @@ Select the account relationship record from either account to see the Account Re
 
 You can also view account relationship records that use a specific account relationship type. This information appears as a related list on the Account Relationship Type form. This list shows the source account \(**Account From** field\) and the target account \(**Account To** field\) for each account relationship record.
 
-## Related
-
-- [[customer-service-account-form|Account form]]
-- [[manage-cases|Manage cases]]
-- [[configure-data-model-relationships|Create relationships]]

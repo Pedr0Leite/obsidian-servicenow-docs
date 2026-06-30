@@ -24,7 +24,7 @@ Before you can execute an application integration in the ServiceNow AI Platform,
 
 -   **Credential**
 
-    A credential is the [[c_Authentication|authentication]] data required to make the connection, such as an ID and password.
+    A credential is the authentication data required to make the connection, such as an ID and password.
 
 -   **Alias**
 
@@ -47,8 +47,8 @@ Within connection and credential aliases, you can also create additional aliases
 
 -   Central location to store and manage credentials to an external service
 -   Define once and reuse for multiple platform features
--   Minimize [[sc-configuration|configuration]] of other platform features
--   Allow non-administrators to use predefined [[r-credentials|connections and credentials]]
+-   Minimize configuration of other platform features
+-   Allow non-administrators to use predefined connections and credentials
 -   Increased security
 
 ## Features using Connections, Credentials, and Aliases
@@ -74,7 +74,7 @@ You can set up aliases on the ServiceNow AI Platform in one of two ways:
 
 Each MID Serverin your network synchronized with the instance keeps a copy of every credential that you create. The Management, Instrumentation, and Discovery \(MID\) Server is a Java application that enables communication and the movement of data between a ServiceNow instance and external applications, data sources, and services. This synchronization speeds up the reading of credentials when applications like Discovery or Service Mapping need to access multiple devices on the network. The MID Servers synchronize when they find a **credentials\_reload** job in the ECC Queue. The reload job instructs the MID Server to make a SOAP call to the instance to get the entire list of credentials in the Credentials \[discovery\_credentials\] table, including all the field values. To learn more, see [MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server-landing.md).
 
-The SOAP response that your instance sends to each MID Server also includes custom fields that you added to any credential form that you customized. If you added reference fields, the data in the referenced table is also sent as part of the SOAP response. This can lead to performance issues when credential synchronization occurs with multiple MID Servers. To control this, manually add these properties to the [[ca-system-properties|System Properties]] \[sys\_properties\] table:
+The SOAP response that your instance sends to each MID Server also includes custom fields that you added to any credential form that you customized. If you added reference fields, the data in the referenced table is also sent as part of the SOAP response. This can lead to performance issues when credential synchronization occurs with multiple MID Servers. To control this, manually add these properties to the System Properties \[sys\_properties\] table:
 
 **Note:** To change the values in these properties, add them to the System Properties \[sys\_properties\] table. If you do not add them, the system uses the default value.
 
@@ -106,19 +106,11 @@ Defines the number of tables to traverse when the credential-sync mechanism coll
 
 </td></tr></tbody>
 </table>-   **[Scope protections for Credentials and Connections](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/scope-protections-connections-credentials.md)**  
-You can classify certain types of Connection &amp; Credential records as belonging to a scope, and extend scope protections to them. These scope [[ca-policies|policies]] protect records you create in a table, and prevent interactions with records that are private to another scope.
+You can classify certain types of Connection &amp; Credential records as belonging to a scope, and extend scope protections to them. These scope policies protect records you create in a table, and prevent interactions with records that are private to another scope.
 -   **[Domain separation and Credentials and Connections](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/domain-separation-credentials_conn.md)**  
-Domain separation is supported in Credentials and Connections. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which [[users|users]] can see and access data.
+Domain separation is supported in Credentials and Connections. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 -   **[Connection &amp; Credential configuration templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/spoke-configuration-template.md)**  
 Enable users with the admin and flow\_designer roles to set up spoke integrations with third-party systems using a single, customizable form.
 
 **Parent Topic:**[Connections and Credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r-credentials.md)
 
-## Related
-
-- [[c_Authentication|Authentication]]
-- [[sc-configuration|Configuration]]
-- [[r-credentials|Connections and Credentials]]
-- [[ca-system-properties|System properties]]
-- [[ca-policies|Policies]]
-- [[users|Users]]

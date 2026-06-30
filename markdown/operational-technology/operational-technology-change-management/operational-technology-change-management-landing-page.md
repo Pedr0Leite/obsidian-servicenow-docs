@@ -14,7 +14,7 @@ breadcrumb: [Operational Technology]
 
 # Operational Technology Change Management
 
-The ServiceNow® Operational Technology Change Management application enables your organization to implement changes to [[operational-technology-overview|Operational Technology]] \(OT\) devices and production processes.
+The ServiceNow® Operational Technology Change Management application enables your organization to implement changes to Operational Technology \(OT\) devices and production processes.
 
 <table id="table_e3m_qbq_3rb" class="nav-card"><tbody><tr><td>
 
@@ -30,12 +30,7 @@ The ServiceNow® Operational Technology Change Management application enables yo
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about [[mpm-related-information|related information]] and applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-change-management/oper-tech-change-management-reference.md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about related information and applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-change-management/oper-tech-change-management-reference.md)
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[mpm-related-information|Related information]]

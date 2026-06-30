@@ -12,17 +12,17 @@ breadcrumb: [Financial Services Operations \(FSO\)]
 
 # Configuring Financial Services Operations
 
-Set up your [[fso-overview|Financial Services]] Operations application by importing financial services data and reviewing and configuring the [[components-installed-with-dispute-rules-content-pack-for-mastercard|components installed]] with the application. You can configure record producers, Workflow Studio flows, assignment groups and rules, workspace, playbooks, and service level agreement definitions for Financial Services Operations applications. These settings enable creating and managing requests and tasks for banking operations.
+Set up your Financial Services Operations application by importing financial services data and reviewing and configuring the components installed with the application. You can configure record producers, Workflow Studio flows, assignment groups and rules, workspace, playbooks, and service level agreement definitions for Financial Services Operations applications. These settings enable creating and managing requests and tasks for banking operations.
 
-1.  [[import-financial-accounts-products-institutions|Planning to import your financial data]]
+1.  [Planning to import your financial data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/import-financial-accounts-products-institutions.md)
 
-    Understand how to import your financial accounts, financial products, financial institutions, and financial transactions into ServiceNow [[financial-services-operations-core-data-model|Financial Services Operations Core]] tables.
+    Understand how to import your financial accounts, financial products, financial institutions, and financial transactions into ServiceNow Financial Services Operations Core tables.
 
-2.  \(Optional\) [[enable-branch-operations|Enabling branch operation features]]
+2.  \(Optional\) [Enabling branch operation features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/enable-branch-operations.md)
 
     Enable branch operations features to allow managers to view performance metrics and manage cases for the branches they oversee, helping optimize operational performance across locations.
 
-3.  [[fso-user-management|Setting up roles and personas]]
+3.  [Setting up roles and personas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-user-management.md)
 
     Configure internal and external users in Customer Service Management and the FSO application to ensure proper access. Combine Agent Connector and Contributor roles with relevant CSM Industry data model and user roles to streamline case management and support for specific accounts.
 
@@ -30,7 +30,7 @@ Set up your [[fso-overview|Financial Services]] Operations application by import
 
     Create script includes to store JavaScript that runs on the server.
 
-5.  [[data-models|Setting up Data models]]
+5.  [Setting up Data models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/data-models.md)
 
     Create structured and flexible data models to represent the need across various industries.
 
@@ -42,7 +42,7 @@ Set up your [[fso-overview|Financial Services]] Operations application by import
 
     Form views refer to the user interfaces or screens that allow users to input, edit, and view data related to tables.
 
-8.  [[configure-service-definitions|Configuring service definitions]]
+8.  [Configuring service definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-service-definitions.md)
 
     Configure and modify service definitions for Financial Services Operations applications, including reviewing or adding new ones.
 
@@ -50,7 +50,7 @@ Set up your [[fso-overview|Financial Services]] Operations application by import
 
     Create UI actions.
 
-10. [[configure-csm-workspace-fso-apps|Setting up CSM Configurable Workspace]]
+10. [Setting up CSM Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-csm-workspace-fso-apps.md)
 
     Review the CSM Configurable Workspace in Financial Services Operations applications to ensure it meets your business needs. Customize its components as needed and set it up for agents to engage with customers, answer questions, create cases, and resolve issues.
 
@@ -62,24 +62,12 @@ Set up your [[fso-overview|Financial Services]] Operations application by import
 
     Set up insurance claim core as per the business requirements.
 
-13. [[configure-assignment-rules-fso-applications|Configuring assignment rules]]
+13. [Configuring assignment rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-assignment-rules-fso-applications.md)
 
     Configure rules to automatically assign cases to specific agents or groups based on the rule conditions. You can either modify predefined assignment rules or create new ones.
 
-14. [[configure-flow-designer-flows-fso-apps|Configuring flows]]
+14. [Configuring flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-flow-designer-flows-fso-apps.md)
 
     Review the available flows in Financial Services Operations applications to ensure they align with your business needs. Customize existing flows or create new ones as necessary.
 
-## Related
 
-- [[import-financial-accounts-products-institutions|Import your financial data using import sets]]
-- [[enable-branch-operations|Enable branch operations]]
-- [[fso-user-management|FSO User management]]
-- [[data-models|Data Models]]
-- [[configure-service-definitions|Configure service definitions]]
-- [[configure-csm-workspace-fso-apps|Configure CSM Configurable Workspace]]
-- [[configure-assignment-rules-fso-applications|Configure assignment rules]]
-- [[configure-flow-designer-flows-fso-apps|Configure flows]]
-- [[fso-overview|Financial Services]]
-- [[components-installed-with-dispute-rules-content-pack-for-mastercard|Components installed]]
-- [[financial-services-operations-core-data-model|Financial Services Operations Core]]

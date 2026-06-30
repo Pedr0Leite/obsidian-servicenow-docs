@@ -22,11 +22,11 @@ You can make the topic pages include the most updated content available for the 
 
 -   The taxonomy and topic managers can add, remove, move, and review new content available for the connected content types associated to the categories.
 -   You can manually review, add, or dismiss the content updates from the notifications and the **Associated catalog and kb categories** record.
--   Track and [[may-manage-outdated-content-topics|manage outdated connected content]] from a dedicated the **Outdated Connected Content** tab. This feature is available from the Zurich family release.
+-   Track and manage outdated connected content from a dedicated the **Outdated Connected Content** tab. This feature is available from the Zurich family release.
 -   Alternatively, you can also autosync the new content updates by enabling a **Taxonomy category content autosync** system property.
 -   The connected content types supported for the features are Knowledge Base articles and Service Catalog items.
 
-Connected content is available on the [[ecbe-intro|Browser Extension for Employee Center]]. For more information, see [Browser Extension for Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecbe-intro.md).
+Connected content is available on the Browser Extension for Employee Center. For more information, see [Browser Extension for Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecbe-intro.md).
 
 -   **[Manage connected content from topic pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/mnge-content-topics.md)**  
 Link your desired categories to the topics and track the additions and removals to have easier management of unconnected content.
@@ -35,7 +35,3 @@ Improve performance by tracking and removing outdated content from connected con
 
 **Parent Topic:**[Setup Employee Center browse experience features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-browse-experience.md)
 
-## Related
-
-- [[may-manage-outdated-content-topics|Manage outdated connected content]]
-- [[ecbe-intro|Browser Extension for Employee Center]]

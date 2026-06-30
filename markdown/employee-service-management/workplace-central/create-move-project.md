@@ -20,8 +20,8 @@ As a move manager, create a move project to logically group move requests based 
 
 Ensure that you have the following plugins installed:
 
--   [[workplace-central-feat|Workplace Central]]
--   [[workplace-move-mgmt-overview|Workplace Move Management]]
+-   Workplace Central
+-   Workplace Move Management
 
 Role required: sn\_wsd\_move.manager
 
@@ -33,9 +33,9 @@ Create a move project to group multiple move requests into a single project to o
 
 1.  Navigate to **All** &gt; **Workplace Central** &gt; **Workplace Central**.
 
-    You can also open Workplace Central from the [[employee-center-landing-page|Employee Center]] directly. Navigate to **Workspaces** &gt; **Workplace Central**.
+    You can also open Workplace Central from the Employee Center directly. Navigate to **Workspaces** &gt; **Workplace Central**.
 
-2.  Select the [[move-mgmt|Move management]] \(\[Omitted image "move-mgmt-icon-central.png"\] Alt text: Move management icon.\) module.
+2.  Select the Move management \(\[Omitted image "move-mgmt-icon-central.png"\] Alt text: Move management icon.\) module.
 
 3.  Select **Create project**.
 
@@ -43,7 +43,7 @@ Create a move project to group multiple move requests into a single project to o
 
     -   Select **My active projects** tile and select **Create** in the list view.
     -   In the **All move projects** section, select **View all**. In the list view, select **Create**.
-    -   You can also create a move project when you [[deploy-neighborhood-scenario|deploy a scenario]]. After you select the **Deploy** action, in the dialog box, select **Create move project**.
+    -   You can also create a move project when you deploy a scenario. After you select the **Deploy** action, in the dialog box, select **Create move project**.
 
         **Important:** The option is displayed only if there are any workplace user or workplace location moves in the scenario.
 
@@ -81,10 +81,3 @@ A move project contains both the schedule view and a list view. For more informa
 
 [Work on a move project]()
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]
-- [[workplace-move-mgmt-overview|Workplace Move Management]]
-- [[employee-center-landing-page|Employee Center]]
-- [[move-mgmt|Move Management]]
-- [[deploy-neighborhood-scenario|Deploy a scenario]]

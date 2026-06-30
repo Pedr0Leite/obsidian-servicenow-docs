@@ -25,7 +25,7 @@ You can modify inputs, but you can't modify a skill's data source. The data sour
 
 ## Now Assist skills for Now Assist for Common Finance and Supply Chain features
 
-The [[now-assist-fsc-common|Now Assist for Common Finance and Supply Chain features]] includes the [[purchase-order-table|Purchase order]] summarization for fulfillers skill.
+The Now Assist for Common Finance and Supply Chain features includes the Purchase order summarization for fulfillers skill.
 
 ## Purchase order summarization for fulfillers skill
 
@@ -58,7 +58,7 @@ Base input fields
 -   Number
 -   Business owner
 -   Order type
--   [[supplier|Supplier]]
+-   Supplier
 -   Total amount
 -   Status
 -   Order placed
@@ -69,8 +69,3 @@ Base input fields
 </td></tr></tbody>
 </table>**Parent Topic:**[Customize a Now Assist for Common Finance and Supply Chain features skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-fsc-common/cust-now-assist-fsc-skill.md)
 
-## Related
-
-- [[now-assist-fsc-common|Now Assist for Common Finance and Supply Chain features]]
-- [[purchase-order-table|Purchase order]]
-- [[supplier|Supplier]]

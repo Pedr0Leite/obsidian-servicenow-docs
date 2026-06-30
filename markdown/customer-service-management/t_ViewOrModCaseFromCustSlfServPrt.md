@@ -32,7 +32,7 @@ Depending on the role of the current user, the Case list displays:
 
     Cases are ordered in the list with the most recently updated at the top.
 
-2.  Click the desired case number to open the [[r_CustomerServiceCaseForm|Case form]].
+2.  Click the desired case number to open the Case form.
 
 3.  Make any necessary changes to the **Additional comments** field.
 
@@ -40,6 +40,4 @@ Depending on the role of the current user, the Case list displays:
 
 4.  Click **Update**.
 
-## Related
 
-- [[r_CustomerServiceCaseForm|Case form]]

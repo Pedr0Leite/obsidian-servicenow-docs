@@ -16,12 +16,6 @@ Set up the Customer Contracts and Entitlements application to enable maintaining
 
 |Task|Description|
 |----|-----------|
-|[[add-lists-sp-ibi|Add related lists to sold products and install base items]]|Add related [[migration-lists|lists]] to the Sold Product and Install Base Item [[migration-forms|forms]] to see the associated contracts, contract line items, and entitlements.|
-|[[add-contracts-related-list|Add a service contract related list]]|Add related lists to the Account, Consumer, and Household forms to see the associated contracts.|
+|[Add related lists to sold products and install base items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/add-lists-sp-ibi.md)|Add related lists to the Sold Product and Install Base Item forms to see the associated contracts, contract line items, and entitlements.|
+|[Add a service contract related list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/add-contracts-related-list.md)|Add related lists to the Account, Consumer, and Household forms to see the associated contracts.|
 
-## Related
-
-- [[add-lists-sp-ibi|Add related lists to sold products and install base items]]
-- [[add-contracts-related-list|Add a service contract related list]]
-- [[migration-lists|Lists]]
-- [[migration-forms|Forms]]

@@ -14,7 +14,7 @@ breadcrumb: [Administer, AI Search, Search administration, Configure core featur
 
 # Diagnose search result access issues using the Search Preview UI
 
-Use the Search Preview UI and the [[ia-ai-search|AI Search]] High Security administrator elevated privilege role to determine whether filters prevent a search user from viewing a specific search result in the AI Search index.
+Use the Search Preview UI and the AI Search High Security administrator elevated privilege role to determine whether filters prevent a search user from viewing a specific search result in the AI Search index.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: ais\_admin, ais\_high\_security\_admin, and impersonator.
 
 ## About this task
 
-Use the Search Preview UI to diagnose filter [[clone-configurations-tab|configurations]] that prevent a search user from seeing a specific search result in the AI Search index. First, search as the affected user in the Search Preview UI to confirm that the search result in question isn't returned for them. Next, end impersonation and repeat the search after elevating to the ais\_high\_security\_admin role to bypass all search source and content security filters. If the desired search result appears in your elevated search, examine its search source and content security filter settings to determine why the affected user can't view it.
+Use the Search Preview UI to diagnose filter configurations that prevent a search user from seeing a specific search result in the AI Search index. First, search as the affected user in the Search Preview UI to confirm that the search result in question isn't returned for them. Next, end impersonation and repeat the search after elevating to the ais\_high\_security\_admin role to bypass all search source and content security filters. If the desired search result appears in your elevated search, examine its search source and content security filter settings to determine why the affected user can't view it.
 
 **Note:** Changing the value of the **Search as User** field in the Search Preview UI's User tool terminates elevated privileges for the ais\_high\_security\_admin role. To bypass filters after changing this field's value, you must re-elevate to the ais\_high\_security\_admin role, as directed in the following procedure.
 
@@ -44,7 +44,7 @@ Use the Search Preview UI to diagnose filter [[clone-configurations-tab|configur
 
 7.  Enter the search query of interest into the search input field and press Enter or select the Submit search icon \[Omitted image "search-preview-new-icon-submit-search.png"\] Alt text: to search as the affected user.
 
-    Search [[hs-results|results]] appear, matching those seen by the affected user for the search query of interest in the selected portal or search application. Some results that match your search terms may be hidden by search source or content security filters.
+    Search results appear, matching those seen by the affected user for the search query of interest in the selected portal or search application. Some results that match your search terms may be hidden by search source or content security filters.
 
 8.  Elevate to the ais\_high\_security\_admin role:
 
@@ -102,8 +102,3 @@ If the search result in question is indexed from an external document, you can d
 
 **Parent Topic:**[Administering AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/administer-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[clone-configurations-tab|Configurations]]
-- [[hs-results|Results]]

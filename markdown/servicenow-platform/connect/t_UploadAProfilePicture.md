@@ -14,7 +14,7 @@ breadcrumb: [Connect, ServiceNow AI Platform Additional Capabilities, Extend Ser
 
 # Upload a profile picture
 
-You can upload a profile picture in your Live Feed profile to use as an avatar in [[c_Collaboration|Connect Chat]] and [[c_ConnectSupport|Connect Support]] conversations.
+You can upload a profile picture in your Live Feed profile to use as an avatar in Connect Chat and Connect Support conversations.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: none
 
 **Important:**
 
-The **Collaborate** menu item is available only when the Connect Support plugin `com.glide.[[c_Connect|connect]].support` is active in your instance.
+The **Collaborate** menu item is available only when the Connect Support plugin `com.glide.connect.support` is active in your instance.
 
 ## About this task
 
@@ -48,8 +48,3 @@ Users who do not have profile pictures are represented by an avatar with their i
 
 [Update your Live Feed profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/t_UpdateYourProfile.md)
 
-## Related
-
-- [[c_Collaboration|Connect Chat]]
-- [[c_ConnectSupport|Connect Support]]
-- [[c_Connect|Connect]]

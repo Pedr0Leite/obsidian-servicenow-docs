@@ -14,7 +14,7 @@ breadcrumb: [Work Configurations, Set up work orders and tasks, Configure, Field
 
 # Activate Field Service Work Configurations
 
-You can activate the Field Service Work Configurations plugin \(com.snc.fsm\_work\_types\) for [[fsm-application-landing-page|Field Service Management]] if you have the admin role. Activating Work Configurations enables you to define configurations for a specific type of work, ensuring consistency.
+You can activate the Field Service Work Configurations plugin \(com.snc.fsm\_work\_types\) for Field Service Management if you have the admin role. Activating Work Configurations enables you to define configurations for a specific type of work, ensuring consistency.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-Install the Field Service Work Configurations plugin \(com.snc.fsm\_work\_types\) to activate Field Service Work Configurations. Optionally, install the Field Service Demo Work Configuration for Break fix \(com.snc.fsm\_mri\_scanner\_breakfix\_work\_config\) plugin for an example Field Service Work Configurations workflow. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed. For more information on the components installed with the plugins, see [[work-configuration-components|Field Service Work Configurations components]].
+Install the Field Service Work Configurations plugin \(com.snc.fsm\_work\_types\) to activate Field Service Work Configurations. Optionally, install the Field Service Demo Work Configuration for Break fix \(com.snc.fsm\_mri\_scanner\_breakfix\_work\_config\) plugin for an example Field Service Work Configurations workflow. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed. For more information on the components installed with the plugins, see [Field Service Work Configurations components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-configuration-components.md).
 
 ## Procedure
 
@@ -38,7 +38,4 @@ Install the Field Service Work Configurations plugin \(com.snc.fsm\_work\_types\
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
-## Related
 
-- [[work-configuration-components|Field Service Work Configurations components]]
-- [[fsm-application-landing-page|Field Service Management]]

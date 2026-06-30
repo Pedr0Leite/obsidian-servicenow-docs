@@ -12,7 +12,7 @@ breadcrumb: [Create a business impact analysis, Structured workflows for BIAs, M
 
 # Create New Impact analysis form
 
-Use the Create New Impact analysis form to add details about the [[bia-uib|business impact analysis]], assessments, approvals, and so on in [[bcm-workspace|BCM Configurable Workspace]].
+Use the Create New Impact analysis form to add details about the business impact analysis, assessments, approvals, and so on in BCM Configurable Workspace.
 
 ## Create New Impact analysis form
 
@@ -271,10 +271,5 @@ Template
 Panel to populate the template for the business impact analysis. You can view all or customized templates in this panel.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[create-bia-in-uib-ws|Create a business impact analysis]]
+</table>**Parent Topic:**[Create a business impact analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-bia-in-uib-ws.md)
 
-## Related
-
-- [[create-bia-in-uib-ws|Create a business impact analysis]]
-- [[bia-uib|Business impact analysis]]
-- [[bcm-workspace|BCM Configurable Workspace]]

@@ -12,7 +12,7 @@ breadcrumb: [Plan implementation, Configure, Field Service Management]
 
 # Global domain configurations
 
-Administrators in the global domain can select configuration settings that determine how [[fsm-application-landing-page|Field Service Management]] handles daily operations.
+Administrators in the global domain can select configuration settings that determine how Field Service Management handles daily operations.
 
 ## Before you begin
 
@@ -69,7 +69,7 @@ Process life cycle
 
 </td><td>
 
-By default, the process life cycle is set to task-driven which supports workflows on work order tasks for [[dispatcher-activities|Dispatcher Workspace]], FSM Mobile, and [[schedule-optimization|Schedule Optimization]].
+By default, the process life cycle is set to task-driven which supports workflows on work order tasks for Dispatcher Workspace, FSM Mobile, and Schedule Optimization.
 
  Starting with the Xanadu release, the request driven process life cycle is no longer supported. Only users with the maint role have the option to change the Process life cycle to **request driven \(subtasks are optional\)**. Request driven doesn't require tasks to fulfill requests. When the process life cycle is request driven, requests can be directly assigned to users in an assignment group. Users can still add tasks to requests. However, closing all tasks does not automatically close the request.
 
@@ -123,7 +123,7 @@ Enable/Disable Onsite Arrival Check-in for Agents
 
 </td><td>
 
-Enable to capture [[c_AgentLocation|agent location]] at on-site check-in using the **Onsite arrival** substate. The feature also uses geofencing to verify agent's mobile location and allows them to bypass check-in when they are in offline mode or for other reasons.
+Enable to capture agent location at on-site check-in using the **Onsite arrival** substate. The feature also uses geofencing to verify agent's mobile location and allows them to bypass check-in when they are in offline mode or for other reasons.
 
 </td><td>
 
@@ -169,7 +169,7 @@ Enable to automatically close the case when all its related work orders are clos
 
 </td></tr><tr><td>
 
-Update [[work-order-states|work order states]] to case
+Update work order states to case
 
 </td><td>
 
@@ -277,7 +277,7 @@ Assignment method for tasks
 Select one of the following task assignment options:-   Select **using auto-assignment** to automatically assign work order tasks to field service agents.
 -   Select **using a workflow** to assign work order tasks using a custom-designed workflow.
 -   Select **manually** to allow dispatchers to manually assign work order tasks.
--   Select **using [[dynamic-scheduling|dynamic scheduling]]** to use the dynamic scheduling feature.
+-   Select **using dynamic scheduling** to use the dynamic scheduling feature.
 
 
 </td><td>
@@ -498,7 +498,7 @@ Dependency
 
 </th></tr><tr><th class="sub-head" colspan="3">
 
-[[c_PartRequirements|Part Requirements]]
+Part Requirements
 
 </th></tr></thead><tbody><tr><td>
 
@@ -703,12 +703,4 @@ Select either of the default map location when **Using Map** configuration is en
 
     **Warning:** If you clicked the **Enable state flows** option to disable it, a confirmation box appears, along with a link to documentation that explains the consequences of disabling state flows. It is highly recommended that you read the documentation before proceeding. The action of disabling service management state flows cannot be reversed.
 
-## Related
 
-- [[fsm-application-landing-page|Field Service Management]]
-- [[dispatcher-activities|Dispatcher Workspace]]
-- [[schedule-optimization|Schedule Optimization]]
-- [[c_AgentLocation|Agent location]]
-- [[work-order-states|Work order states]]
-- [[dynamic-scheduling|Dynamic scheduling]]
-- [[c_PartRequirements|Part requirements]]

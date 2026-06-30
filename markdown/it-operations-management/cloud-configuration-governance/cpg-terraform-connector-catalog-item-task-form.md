@@ -36,7 +36,7 @@ Select this option to update the catalog item with this template version. A new 
 
 -   Create catalog item with this template
 
-Select this option to create a catalog item with the existing catalog item name and append the catalog item name with a number. For example, if your catalog item is named `Linux VM`, the new catalog is created with the name `Linux VM 1`. The catalog item is automatically activated and available for provisioning from the [[cloudmgt-cloud-user-portal|Cloud User portal]].
+Select this option to create a catalog item with the existing catalog item name and append the catalog item name with a number. For example, if your catalog item is named `Linux VM`, the new catalog is created with the name `Linux VM 1`. The catalog item is automatically activated and available for provisioning from the Cloud User portal.
 
 
 </td></tr><tr><td>
@@ -82,6 +82,3 @@ Any notes that you want to enter for the task record.
 </td></tr></tbody>
 </table>**Parent Topic:**[Cloud Services Catalog Terraform Connector reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cpg-terraform-connector-reference.md)
 
-## Related
-
-- [[cloudmgt-cloud-user-portal|Cloud User Portal]]

@@ -14,7 +14,7 @@ breadcrumb: [Use, Operational Technology Incident Management, Operational Techno
 
 # Incident email notifications
 
-Use [[operational-technology-overview|Operational Technology]] \(OT\) incident email notifications to alert users when changes are made to an incident.
+Use Operational Technology \(OT\) incident email notifications to alert users when changes are made to an incident.
 
 The notifications are listed in the following table.
 
@@ -211,6 +211,3 @@ Subject: &lt;Incident \#&gt; - State changed
 </td></tr></tbody>
 </table>**Parent Topic:**[Using Operational Technology Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/using-operational-technology-incident-mgt.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]

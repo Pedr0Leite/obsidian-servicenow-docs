@@ -14,7 +14,7 @@ breadcrumb: [Q&amp;A Genius Results, Genius Result configurations in the base sy
 
 # System properties for factoid extraction in Q&amp;A Genius Results
 
-A system property determines how the system extracts factoids from knowledge articles when computing [[genius-result-q-a-ais|Q&amp;A Genius Results]].
+A system property determines how the system extracts factoids from knowledge articles when computing Q&amp;A Genius Results.
 
 <table id="table_fwz_xn5_b1c"><thead><tr><th>
 
@@ -43,6 +43,3 @@ Specifies the factoid extraction mode that you want Q&amp;A Genius Results to us
 </td></tr></tbody>
 </table>**Parent Topic:**[Q&amp;A Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/genius-result-q-a-ais.md)
 
-## Related
-
-- [[genius-result-q-a-ais|Q&amp;A Genius Results]]

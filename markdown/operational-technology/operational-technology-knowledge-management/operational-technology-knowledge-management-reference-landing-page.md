@@ -14,7 +14,7 @@ breadcrumb: [Operational Technology Knowledge Management, Operational Technology
 
 # Operational Technology Knowledge Management reference
 
-Reference topics provide additional information about [[operational-technology-knowledge-management-landing-page|Operational Technology Knowledge Management]].
+Reference topics provide additional information about Operational Technology Knowledge Management.
 
 -   **[Operational Technology Knowledge Management roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-knowledge-management/operational-technology-knowledge-management-roles.md)**  
 You can assign Knowledge Management roles to your Operational Technology Knowledge Management users.
@@ -25,6 +25,3 @@ Find more information about the OT extension classes and related applications.
 
 **Parent Topic:**[Operational Technology Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-knowledge-management/operational-technology-knowledge-management-landing-page.md)
 
-## Related
-
-- [[operational-technology-knowledge-management-landing-page|Operational Technology Knowledge Management]]

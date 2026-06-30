@@ -14,7 +14,7 @@ breadcrumb: [Use, AI Control Tower, Enable AI experiences]
 
 # Create an Automation rule
 
-Create an Automation rule to set [[ai-assets|AI assets]] as managed.
+Create an Automation rule to set AI assets as managed.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: AI steward \[sn\_ai\_governance.ai\_steward\]
 
 ## Procedure
 
-1.  Navigate to **[[ai-control-tower-landing|AI Control Tower]]** &gt; **Configuration** &gt; **[[controls|Controls]]** &gt; **[[automation-rules|Automation rules]]**.
+1.  Navigate to **AI Control Tower** &gt; **Configuration** &gt; **Controls** &gt; **Automation rules**.
 
 2.  Select **+Create new**.
 
@@ -39,9 +39,3 @@ Role required: AI steward \[sn\_ai\_governance.ai\_steward\]
 
 An automation rule is created for AI assets.
 
-## Related
-
-- [[ai-assets|AI assets]]
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[controls|Controls]]
-- [[automation-rules|Automation rules]]

@@ -28,7 +28,7 @@ Number
 
 </td><td>
 
-[[mco-PQI-use|Product quality investigation]] case task number is automatically generated. The number starts with PQI and incremented for every new report.
+Product quality investigation case task number is automatically generated. The number starts with PQI and incremented for every new report.
 
 </td></tr><tr><td>
 
@@ -166,15 +166,10 @@ Report summary
 Enter the summary of the PQI report.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[mco-qim-form|Quality issue management form]]
+</table>**Parent Topic:**[Quality issue management form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-qim-form.md)
 
 **Related topics**  
 
 
-[[mco-create-product-quality-investigation|Create a product quality investigation]]
+[Create a product quality investigation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-create-product-quality-investigation.md)
 
-## Related
-
-- [[mco-qim-form|Quality issue management form]]
-- [[mco-create-product-quality-investigation|Create a product quality investigation]]
-- [[mco-PQI-use|Product quality investigation]]

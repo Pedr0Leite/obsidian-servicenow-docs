@@ -14,7 +14,7 @@ breadcrumb: [CMDB 360 experience in a workspace, CMDB 360, Configuration Managem
 
 # Create a Get Records query
 
-Create a Get Records query from the [[multisource-cmdb|CMDB 360]] dashboard in CMDB Workspaceor in [[sg-workspace|Service Graph Workspace]] to help you explore CMDB 360 data.
+Create a Get Records query from the CMDB 360 dashboard in CMDB Workspaceor in Service Graph Workspace to help you explore CMDB 360 data.
 
 ## Before you begin
 
@@ -54,7 +54,7 @@ Role required: sn\_cmdb\_user and either cmdb\_ms\_admin or cmdb\_ms\_editor
     |-----|-----------|
     |Show unique CMDB 360 records|Select if you want to see only unique CMDB 360 records. Records for the same CIs from different discovery sources are consolidated.|
     |Show CI records by discovery source|Select if you want to see records for each CI and discovery source pair.|
-    |Limit results to|Limits the query results to CIs that belong to a service or CMDB group. When you select **Application Services**, **Technical Services**, or **[[cmdb-groups|CMDB Groups]]**, a prompt appears. You can use the prompt to specify the service or group that you want the query to filter for.|
+    |Limit results to|Limits the query results to CIs that belong to a service or CMDB group. When you select **Application Services**, **Technical Services**, or **CMDB Groups**, a prompt appears. You can use the prompt to specify the service or group that you want the query to filter for.|
 
 10. Select **Continue**.
 
@@ -77,8 +77,3 @@ On the CMDB 360 Query Results page:
 -   After creating a schedule, you can select **Create Report** to configure a report that you can manage using [Reporting capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting-landing-page.md).
 -   On the Query Results page, access a record to view further details. For example, select a link in the Primary Record column, and then in the CI Details page, select **View CMDB 360 Data**.
 
-## Related
-
-- [[multisource-cmdb|CMDB 360]]
-- [[sg-workspace|Service Graph Workspace]]
-- [[cmdb-groups|CMDB groups]]

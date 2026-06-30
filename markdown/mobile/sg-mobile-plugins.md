@@ -20,14 +20,14 @@ The following mobile plugins include the core functionality of ServiceNow mobile
 
 |Name|ID|Description|Base System|
 |----|---|-----------|-----------|
-|Mobile App Builder|sn\_mab|Enables the editing of mobile configurations via the [[mab-concept|Mobile App Builder]].|Yes|
+|Mobile App Builder|sn\_mab|Enables the editing of mobile configurations via the Mobile App Builder.|Yes|
 |Mobile App Builder API|sn\_mab\_api|API to enable the editing of mobile configurations via the Mobile App Builder.|Yes|
-|Mobile Card Builder|sn\_mobile\_card\_bui|Enables the editing of mobile cards via the [[mobile-card-builder|Mobile Card Builder]].|Yes|
-|ServiceNow [[now-mobile-app|Now Mobile app]] screens and launcher screens|sn\_me|Application and configurations required to setup the Now Mobile app.|No|
+|Mobile Card Builder|sn\_mobile\_card\_bui|Enables the editing of mobile cards via the Mobile Card Builder.|Yes|
+|ServiceNow Now Mobile app screens and launcher screens|sn\_me|Application and configurations required to setup the Now Mobile app.|No|
 
 ## Supporting plugins
 
-These plugins are not required for ServiceNow mobile, but include extended functionality, such as [[mobile-offline-mode|offline mode]], geolocation, and access to Virtual Agent.
+These plugins are not required for ServiceNow mobile, but include extended functionality, such as offline mode, geolocation, and access to Virtual Agent.
 
 |Name|ID|Description|Base System|
 |----|---|-----------|-----------|
@@ -45,20 +45,10 @@ Install a plugin by searching for the plugin name in you plugins list. For infor
 
 Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
--   **[[sg-mobile-plugins-agent|Mobile plugins for Mobile Agent]]**  
-Use these plugins to extend functionality for the [[mobile-experience|Mobile Agent app]].
--   **[[sg-mobile-plugins-now|Mobile plugins for Now Mobile]]**  
+-   **[Mobile plugins for Mobile Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-plugins-agent.md)**  
+Use these plugins to extend functionality for the Mobile Agent app.
+-   **[Mobile plugins for Now Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-plugins-now.md)**  
 Use these plugins to extend functionality for the Now Mobile app.
 
-**Parent Topic:**[[plugins-upgrades|Mobile plugins and upgrades]]
+**Parent Topic:**[Mobile plugins and upgrades](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/plugins-upgrades.md)
 
-## Related
-
-- [[sg-mobile-plugins-agent|Mobile plugins for Mobile Agent]]
-- [[sg-mobile-plugins-now|Mobile plugins for Now Mobile]]
-- [[plugins-upgrades|Mobile plugins and upgrades]]
-- [[mab-concept|Mobile App Builder]]
-- [[mobile-card-builder|Mobile Card Builder]]
-- [[now-mobile-app|Now Mobile app]]
-- [[mobile-offline-mode|Offline mode]]
-- [[mobile-experience|Mobile Agent app]]

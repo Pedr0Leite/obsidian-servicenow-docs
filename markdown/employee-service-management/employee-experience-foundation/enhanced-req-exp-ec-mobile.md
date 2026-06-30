@@ -14,7 +14,7 @@ breadcrumb: [Configuring Employee Center for mobile, Now Mobile experience for E
 
 # Enhanced Requests Experience on Now Mobile
 
-You can get the [[my-requests-update-intro|Enhanced Requests Experience]] on the [[mobile-employee-experience|Now Mobile app]], bringing the full request management capabilities from the [[employee-center-landing-page|Employee Center]] portal to mobile. Employees can view, search, filter, and manage their requests on the go.
+You can get the Enhanced Requests Experience on the Now Mobile app, bringing the full request management capabilities from the Employee Center portal to mobile. Employees can view, search, filter, and manage their requests on the go.
 
 You can directly view your Enhanced requests experience from the Now Mobile homepage. Under **My items**, select **Requests**.
 
@@ -71,8 +71,3 @@ The Enhanced requests experience page gives you a consolidated view of all your 
 
 [Enhanced Requests Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/my-requests-update-intro.md)
 
-## Related
-
-- [[my-requests-update-intro|Enhanced Requests Experience]]
-- [[mobile-employee-experience|Now Mobile app]]
-- [[employee-center-landing-page|Employee Center]]

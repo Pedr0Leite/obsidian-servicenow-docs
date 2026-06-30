@@ -29,7 +29,7 @@ These integrations are initiated automatically by internal workflows and are for
 
 The Deps.dev Integration is installed with SBOM Response. The integration is activated \(Active check box selected on the integration record\) by default and scheduled to run weekly. Note that this is not the on-demand Deps.dev code trigger integration, and you can edit the schedule and initiate the scheduled job on-demand from its integration record..
 
-To modify the schedule, navigate to **All** &gt; **[[vuln-landing-page|Vulnerability Response]]** &gt; **Administration** &gt; **Integrations** &gt; **Deps.dev Integration**. The sn\_vul.app\_configure\_integrations role is required to edit the schedule of this integration.
+To modify the schedule, navigate to **All** &gt; **Vulnerability Response** &gt; **Administration** &gt; **Integrations** &gt; **Deps.dev Integration**. The sn\_vul.app\_configure\_integrations role is required to edit the schedule of this integration.
 
 This Deps.dev integration is used to identify components that are in **Stale** and **Abandoned** states. A stale component's version is more than two major versions behind the latest version and two years behind the latest version. An abandoned component has not been updated for more than two years. The two year and two version thresholds can be edited with system properties. To edit these parameters, navigate to **All** &gt; **System Properties** &gt; **All Properties** and locate the following records:
 
@@ -49,7 +49,7 @@ To configure and initiate this integration, navigate to **All** &gt; **Vulnerabi
 
 You can view imported data on the Home page of the workspace on the Vulnerability tab on records from the entities list and in the Libraries module. Imported data is stored in the Application Vulnerable Entries \[sn\_vul\_app\_vul\_entry\] and the National Vulnerability Database Entries \[sn\_vul\_nvd\_entry\] tables.
 
-**Note:** You can configure the OSV.dev's **batchSize** integration parameter on the Integration Parameters tab on the **Open Source [[vulnerabilities|Vulnerabilities]] Instance** located at **All** &gt; **Vulnerability Response** &gt; **Administration** &gt; **Integrations** &gt; **Vulnerability Integrations** &gt; **Open Source Vulnerabilities Instance**. The default is 75 Purls per API call.
+**Note:** You can configure the OSV.dev's **batchSize** integration parameter on the Integration Parameters tab on the **Open Source Vulnerabilities Instance** located at **All** &gt; **Vulnerability Response** &gt; **Administration** &gt; **Integrations** &gt; **Vulnerability Integrations** &gt; **Open Source Vulnerabilities Instance**. The default is 75 Purls per API call.
 
 You might prefer to leave this value in its default setting. Altering the value might impact performance.
 
@@ -62,7 +62,3 @@ Starting with version 4.0 of SBOM Response, you can view components that are ide
 
 See [Integrating PaCE with other applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/pace-integrate-other-apps.md) for more information about PaCE and PaCE policies.
 
-## Related
-
-- [[vuln-landing-page|Vulnerability Response]]
-- [[vulnerabilities|Vulnerabilities]]

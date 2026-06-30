@@ -14,7 +14,7 @@ breadcrumb: [Configure, Opportunity Marketplace, Hiring Experiences, HR Service 
 
 # Install Opportunity Marketplace
 
-[[egd-oppt-mrktplc-landing|Opportunity Marketplace]] \(OPM\) is a key application that works as part of the Talent Development suite of applications. OPM improves employee engagement and retention with internal mobility.
+Opportunity Marketplace \(OPM\) is a key application that works as part of the Talent Development suite of applications. OPM improves employee engagement and retention with internal mobility.
 
 ## Before you begin
 
@@ -22,12 +22,12 @@ Opportunity Marketplace has the following dependencies. When you install OPM it 
 
 **Note:** Opportunity Marketplace installs the latest required versions of dependent apps and plugins.
 
--   [[egd-landing-page|Talent Development Core]]
--   [[manager-hub-overview|Manager Hub]]
--   [[skills-intelligence|Skills Foundation]]
+-   Talent Development Core
+-   Manager Hub
+-   Skills Foundation
 -   Finance Common Architecture
--   [[hiring-core|Hiring Core]]
--   [[proactive-prompts-for-hrsd|Proactive Prompts]]
+-   Hiring Core
+-   Proactive Prompts
 -   Talent Development Shared Library \[app-egd-shared-library\]
 
     **Note:** The shared library isn’t visible in the ServiceNow Store, but the latest required version is installed with OPM.
@@ -54,11 +54,3 @@ Role required: admin
 
 **Parent Topic:**[Install and configure Opportunity Marketplace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/opportunity-marketplace/egd-oppt-mrktplc-inst-config.md)
 
-## Related
-
-- [[egd-oppt-mrktplc-landing|Opportunity Marketplace]]
-- [[egd-landing-page|Talent Development Core]]
-- [[manager-hub-overview|Manager Hub]]
-- [[skills-intelligence|Skills Foundation]]
-- [[hiring-core|Hiring Core]]
-- [[proactive-prompts-for-hrsd|Proactive Prompts]]

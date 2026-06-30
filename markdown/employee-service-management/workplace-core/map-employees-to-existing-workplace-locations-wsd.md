@@ -14,7 +14,7 @@ breadcrumb: [Mapping employees to their designated workspaces, Manage workplace 
 
 # Map designated workspaces to user profiles
 
-Map existing designated workspaces to employee user profiles in [[workplace-safety-mgmt-hr|Workplace Core]]. This mapping is used to automatically allocate workspaces for employees so they don't have to select a workspace manually when requesting a reservation.
+Map existing designated workspaces to employee user profiles in Workplace Core. This mapping is used to automatically allocate workspaces for employees so they don't have to select a workspace manually when requesting a reservation.
 
 ## Before you begin
 
@@ -63,7 +63,7 @@ Workplace entity
 
 </td><td>
 
-Workplace entity of your workplace to which the employee belongs. You can view this option only if you have installed the [[workplace-space-mgmt-ovw|Workplace Space Management]] plugin and the view is set to **Space management** view.
+Workplace entity of your workplace to which the employee belongs. You can view this option only if you have installed the Workplace Space Management plugin and the view is set to **Space management** view.
 
 </td></tr><tr><td>
 
@@ -91,7 +91,7 @@ Option to set location privacy preference for the workplace profile. Note the fo
 
 -   Set this option only if you want to have a different privacy setup for the workplace profile.
 -   By default, the location privacy preference that is set on the building to which the workplace profile is assigned is considered.
--   In case, the building doesn't have any location privacy preference, preference set in the [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] system property **sn\_wsd\_core.ENABLE\_LOCATION\_PRIVACY** is considered.
+-   In case, the building doesn't have any location privacy preference, preference set in the Workplace Reservation Management system property **sn\_wsd\_core.ENABLE\_LOCATION\_PRIVACY** is considered.
 -   The field is set to **None** by default.
  For more information about each field, refer to [Location privacy settings and impact](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/location-privacy-settings-and-impact.md)
 
@@ -107,8 +107,3 @@ The User Workplace Profiles \[sn\_wsd\_core\_workplace\_profile\] table is popul
 
 **Parent Topic:**[Mapping employees to their designated workspaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/mapping-employees-to-existing-work-locations-wsd.md)
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-space-mgmt-ovw|Workplace Space Management]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]

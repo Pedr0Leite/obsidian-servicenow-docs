@@ -24,11 +24,11 @@ Role required: sn\_align\_core.apw\_user
 
 Use a toggle to switch your roadmap view from planning mode to tracking mode. The roadmap item cards turn into progress bars to indicate the status and progress.
 
-**Note:** While in Tracking mode, you cannot create, update, or [[reschedule-roadmap-items-portfolio-planning|reschedule roadmap items]] and milestones. This view is a read-only mode.
+**Note:** While in Tracking mode, you cannot create, update, or reschedule roadmap items and milestones. This view is a read-only mode.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace** &gt; **Portfolio Planning** and open your roadmap.
+1.  Navigate to **Workspaces** &gt; **Portfolio Planning Workspace** &gt; **Portfolio Planning** and open your roadmap.
 
 <table id="choicetable_ngc_1zz_5wb"><thead><tr><th align="left" id="d84187e80">
 
@@ -88,7 +88,3 @@ The tracking view of your roadmap is displayed according to your personalization
 
 **Parent Topic:**[Planning roadmaps in Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/planning-roadmaps-in-portfolio-planning.md)
 
-## Related
-
-- [[reschedule-roadmap-items-portfolio-planning|Reschedule roadmap items]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

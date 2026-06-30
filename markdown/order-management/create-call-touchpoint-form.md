@@ -12,7 +12,7 @@ breadcrumb: [Activity Management reference, Lead and opportunity management, Ref
 
 # Create new callback form
 
-Field descriptions for the Create New Callback form for [[explore-crm-touchpoints|CRM Touchpoints]].
+Field descriptions for the Create New Callback form for CRM Touchpoints.
 
 <table id="table_dg5_pwl_33c"><thead><tr><th>
 
@@ -147,15 +147,10 @@ Work notes
 Internal notes about the callback, visible only to team members.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[activity-management-reference|Activity Management reference]]
+</table>**Parent Topic:**[Activity Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/activity-management-reference.md)
 
 **Related topics**  
 
 
-[[schedule-call-crm-touchpoint|Schedule a call from a touchpoint]]
+[Schedule a call from a touchpoint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/schedule-call-crm-touchpoint.md)
 
-## Related
-
-- [[activity-management-reference|Activity Management reference]]
-- [[schedule-call-crm-touchpoint|Schedule a call from a touchpoint]]
-- [[explore-crm-touchpoints|CRM Touchpoints]]

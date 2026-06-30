@@ -20,7 +20,7 @@ To perform a global search, perform one of the following actions based on your U
 
 |UI version|Action|
 |----------|------|
-|Next Experience UI|Enter your search terms in the Unified Navigation search field, then select **View [[hs-results|results]]** or press Enter.|
+|Next Experience UI|Enter your search terms in the Unified Navigation search field, then select **View results** or press Enter.|
 |Core UI|Select the search icon in the banner on the upper right of the [System settings for the user interface \(UI\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/r_UI16BannerFrame.md) , then enter your search terms and press Enter.|
 
 All UI versions also have a global search keyboard shortcut. The `ui_global_text_search` UI Macro provides the global search field.
@@ -40,7 +40,7 @@ When your search exactly matches the **Number** field value for a record, global
 -   **[Global search displays your most recent search queries and results in Next Experience UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/global-search-recent-queries-results.md)**  
 When you select the empty Unified Navigation search field, the system displays lists showing your most recent search queries and your most recently viewed search results. Select a **Recently Searched** query to repeat it, or select a **Recently Viewed** search result record to navigate to it.
 -   **[Set global text search properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/set-global-text-search-properties.md)**  
-Administrators can control how global text search behaves with [[r_SetArchiveRuleProcessingBehavior|system properties]].
+Administrators can control how global text search behaves with system properties.
 -   **[Set the preview limit for global or workspace search in Next Experience UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/set-app-preview-limit-polaris-ui.md)**  
 Override the default limit of 5 preview results per search source on the Next Experience UI search results page for global or workspace search.
 -   **[Hide per-table search result counts in Next Experience UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/hide-result-counts-polaris-ui.md)**  
@@ -48,7 +48,7 @@ Suppress display of per-table search result counts in the Next Experience UI sea
 -   **[Add a workspace application to the Unified Navigation search context menu](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/add-app-search-context-polaris-ui.md)**  
 Enable users to view results for their Unified Navigation searches in workspace applications as well as in global search.
 -   **[Global text search suggestions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/r_GlobalTextSearchSuggestions.md)**  
-Global text search offers two types of [[search-suggestions-overview|search suggestions]].
+Global text search offers two types of search suggestions.
 
 **Parent Topic:**[Zing text indexing and search engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/c_ZingTextSearch.md)
 
@@ -69,7 +69,7 @@ Global text search offers two types of [[search-suggestions-overview|search sugg
 
 [Zing can include attachments in search results]()
 
-[Zing removes [[stop-words-ais|stop words]] from queries]()
+[Zing removes stop words from queries]()
 
 [Zing matches derived words with stemming]()
 
@@ -81,9 +81,3 @@ Global text search offers two types of [[search-suggestions-overview|search sugg
 
 [Keyboard shortcuts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/r_KeyboardShortcuts.md)
 
-## Related
-
-- [[hs-results|Results]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]
-- [[search-suggestions-overview|Search Suggestions]]
-- [[stop-words-ais|Stop words]]

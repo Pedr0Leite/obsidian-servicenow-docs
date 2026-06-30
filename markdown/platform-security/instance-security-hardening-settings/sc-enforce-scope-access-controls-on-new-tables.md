@@ -18,7 +18,7 @@ Use a system property to enforce cross-scope access checks for newly created tab
 
 The table dictionary attribute `enforce_dot_walk_cross_scope_access=true` enforces dot-walk cross-scope access enforcement for the applicable table. This enforcement applies to dot-walking across scope boundaries using a reference field to the applicable table. When the **glide.script.dot\_walk.add\_attribute\_on\_table\_create** system property is not set to `false`, the attribute is added to the dictionary element of all new tables. This attribute is only added for new tables created after zBoot.
 
-Ensure that the **glide.script.dot\_walk.add\_attribute\_on\_table\_create** system property set to `true` in the [[ca-system-properties|System Properties]] \[sys\_properties\] table.
+Ensure that the **glide.script.dot\_walk.add\_attribute\_on\_table\_create** system property set to `true` in the System Properties \[sys\_properties\] table.
 
 ## More information
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -115,7 +115,3 @@ Dependencies and prerequisites
 </td></tr></tbody>
 </table>**Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]

@@ -14,7 +14,7 @@ breadcrumb: [Configuring ACME, Automated Certificate Management Environment, Cer
 
 # Set up the routing policy for ACME
 
-Set up a routing policy to establish an [[automated-certificate-management-environment_0|Automated Certificate Management Environment]] \(ACME\). It involves creating a policy based on factors such as Certificate Authority \(CA\), environment, and other features, ensuring efficient SSL/TLS certificate management.
+Set up a routing policy to establish an Automated Certificate Management Environment \(ACME\). It involves creating a policy based on factors such as Certificate Authority \(CA\), environment, and other features, ensuring efficient SSL/TLS certificate management.
 
 ## Before you begin
 
@@ -38,6 +38,4 @@ The routing policy decides which CA must be contacted for certificate operations
 
 4.  Select **Update**.
 
-## Related
 
-- [[automated-certificate-management-environment_0|Automated Certificate Management Environment]]

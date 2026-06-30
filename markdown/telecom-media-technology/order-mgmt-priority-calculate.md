@@ -46,7 +46,7 @@ The order priority is set to **high** in the customer order and in the order lin
 
 ## Adding a priority rule
 
-Apart from the rules defined in the decision tables provided with the base system \(see [[order-mgt-priority-management|Configuring order priority and routing]]\), you can create additional decision tables and a new extension point implementation to add new priority rules. To create a new priority rule, follow these steps:
+Apart from the rules defined in the decision tables provided with the base system \(see [Configuring order priority and routing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/order-mgt-priority-management.md)\), you can create additional decision tables and a new extension point implementation to add new priority rules. To create a new priority rule, follow these steps:
 
 1.  Navigate to**All** &gt; **Decision tables**.
 2.  Click **New** and select **Decision table**.
@@ -90,6 +90,3 @@ Orders created by external order capture systems can also be processed by Order 
     -   If a priority value has not been defined or is invalid, the order priority is calculated by the Order Management for Telecommunications system.
 -   Customer orders: The priority value is calculated based on the categories defined in the decision tables and this value overrides the value specified in the external order.
 
-## Related
-
-- [[order-mgt-priority-management|Configuring order priority and routing]]

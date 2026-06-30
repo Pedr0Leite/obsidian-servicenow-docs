@@ -22,20 +22,16 @@ Role required: resource\_manager
 
 ## Procedure
 
-1.  Navigate to **Resource** &gt; **[[c_ResourcePlans|Resource Plans]]** &gt; **All**.
+1.  Navigate to **Resource** &gt; **Resource Plans** &gt; **All**.
 
 2.  Select a plan **Number**.
 
 3.  In the **Resource Allocations** related list, select an allocation **Number**.
 
-4.  On the [[rsrc-event-form|Resource Event form]], update the fields.
+4.  On the Resource Event form, update the fields.
 
     For a description of the field names, see [Resource Event form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rsrc-event-form.md).
 
 
 **Parent Topic:**[Resource event modifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/c_ModifyAResourceEvent.md)
 
-## Related
-
-- [[c_ResourcePlans|Resource plans]]
-- [[rsrc-event-form|Resource Event form]]

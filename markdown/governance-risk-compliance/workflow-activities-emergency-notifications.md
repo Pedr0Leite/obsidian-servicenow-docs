@@ -20,7 +20,7 @@ An emergency notification that you create for a crisis event, when sent to Everb
 
 -   **Notification state**
 
-    The emergency notification that is created and sent from ServiceNow [[business-continuity-mangmt-overview|Business Continuity Management]] workspace is tracked in the **Notification state** field.
+    The emergency notification that is created and sent from ServiceNow Business Continuity Management workspace is tracked in the **Notification state** field.
 
 -   **Communication status**
 
@@ -93,7 +93,3 @@ Communication status
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[business-continuity-mangmt-overview|Business Continuity Management]]

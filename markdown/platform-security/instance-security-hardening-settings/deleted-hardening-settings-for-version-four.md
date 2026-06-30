@@ -14,14 +14,14 @@ breadcrumb: [Deleted hardening settings, Baseline versions, Hardening settings, 
 
 # Deleted hardening settings for baseline version 4.0
 
-Some [[security-hardening-settings|hardening settings]] have been removed with the release of [[sec-center-v2|Security Center]] baseline version 4.0.
+Some hardening settings have been removed with the release of Security Center baseline version 4.0.
 
 -   LDAP Initial Password
 -   Mobile Offline Roles
--   Restrict Access to Critical Data through Zero Trust Access [[ca-policies|Policies]] \(Plugin Applicability: [[adaptive-authentication|Adaptive Authentication]]\)
+-   Restrict Access to Critical Data through Zero Trust Access Policies \(Plugin Applicability: Adaptive Authentication\)
 -   Read Only Tables Allowlist For Write
 -   Allowed JDBC Probe Operations \(Plugin Applicability: MID Server\)
--   Set Allowed Domains which Create [[users|Users]] from Incoming Emails
+-   Set Allowed Domains which Create Users from Incoming Emails
 -   Set Complex "Default" Password
 -   Accessible Properties in GraphQL Allowlist
 -   Cross Origin Messaging Allowlist
@@ -31,31 +31,20 @@ Some [[security-hardening-settings|hardening settings]] have been removed with t
 -   Role Allowlist for Script Execution
 -   Downloadable File Type Allowlist
 -   Read Only Tables Allowlist For Delete
--   Enforce [[c_Authentication|Authentication]] for Roleless ACL
+-   Enforce Authentication for Roleless ACL
 -   Minimize LDAP One-Time Token Expiry Time
 -   Allow Only Trusted IP Addresses for Authentication
--   Set Mobile [[c_SelfServicePasswordReset|Password Reset]] URL
+-   Set Mobile Password Reset URL
 -   Password Complexity of Service Accounts \(Plugin Applicability: Service Bridge\)
 -   Notify Users During Password Reset/Change Process
 -   Enforce Application Scope Restrictions
--   [[sc-access-control|Access Control]] Requirements \(Plugin Applicability: Communities\)
+-   Access Control Requirements \(Plugin Applicability: Communities\)
 -   Record History Access Role Allowlist
 -   Restrict Role Access for Attachments
 -   Only Allow PDFs from Predefined List of Trusted URLs
 -   Prevent Emailing One-Time Password During LDAP Server Outage
--   Convert Inbound [[email|Email]] Images to Attachments
+-   Convert Inbound Email Images to Attachments
 -   Review Extraneous Explicit Role Access Control Condition
 
 **Parent Topic:**[Deleted hardening settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/hardening-settings-deleted.md)
 
-## Related
-
-- [[security-hardening-settings|Hardening settings]]
-- [[sec-center-v2|Security Center]]
-- [[ca-policies|Policies]]
-- [[adaptive-authentication|Adaptive authentication]]
-- [[users|Users]]
-- [[c_Authentication|Authentication]]
-- [[c_SelfServicePasswordReset|Password Reset]]
-- [[sc-access-control|Access control]]
-- [[email|Email]]

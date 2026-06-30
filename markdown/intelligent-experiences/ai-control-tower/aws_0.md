@@ -14,9 +14,9 @@ breadcrumb: [Service Graph Connectors for AI Control Tower, AI connections, Expl
 
 # AI Service Graph Connector for Amazon
 
-The AI Service Graph Connector for Amazon enables you to discover and import [[ai-assets|AI assets]] from your AWS environment into ServiceNow [[ai-control-tower-landing|AI Control Tower]].
+The AI Service Graph Connector for Amazon enables you to discover and import AI assets from your AWS environment into ServiceNow AI Control Tower.
 
-The connector integrates with your AWS account to catalog [[ai-system|AI systems]], agents, models, and [[ai-prompts|prompts]]. Usage data is automatically collected and populated into the AI Control Tower value dashboard, providing comprehensive visibility and governance of your AI operations.
+The connector integrates with your AWS account to catalog AI systems, agents, models, and prompts. Usage data is automatically collected and populated into the AI Control Tower value dashboard, providing comprehensive visibility and governance of your AI operations.
 
 ## Download apps from the Store
 
@@ -273,10 +273,3 @@ alm\_ai\_model\_digital\_asset
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[ai-assets|AI assets]]
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[ai-system|AI systems]]
-- [[ai-prompts|Prompts]]

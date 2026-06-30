@@ -12,7 +12,7 @@ breadcrumb: [Now Assist for PSDS, Public Sector Digital Services \(PSDS\)]
 
 # Using generative AI with Now Assist for Public Sector Digital Services \(PSDS\)
 
-You can use various generative AI skills with the [[now-assist-for-psds|Now Assist for Public Sector Digital Services \(PSDS\)]] application.
+You can use various generative AI skills with the Now Assist for Public Sector Digital Services \(PSDS\) application.
 
 Summarize the case details to help you understand the case context quicker. These summaries are useful for long-running or complex cases that include multiple conversations between agents and constituents.
 
@@ -75,11 +75,7 @@ The Now Assist for PSDS application includes the generative AI skills that enabl
 
 [Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-now-assist-landing.md)
 
-[[now-assist-psds-configuring|Configure Now Assist for Public Sector Digital Services \(PSDS\)]]
+[Configure Now Assist for Public Sector Digital Services \(PSDS\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/now-assist-psds-configuring.md)
 
 [Using generative AI with Now Assist for Public Sector Digital Services \(PSDS\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/now-assist-psds-using.md)
 
-## Related
-
-- [[now-assist-psds-configuring|Configure Now Assist for Public Sector Digital Services \(PSDS\)]]
-- [[now-assist-for-psds|Now Assist for Public Sector Digital Services \(PSDS\)]]

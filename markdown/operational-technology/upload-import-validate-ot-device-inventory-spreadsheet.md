@@ -12,7 +12,7 @@ breadcrumb: [Import your device spreadsheet into OT CMDB, Use agentic AI, OT Man
 
 # Upload, validate, and import the OT device inventory spreadsheet
 
-Chat with an AI agent in the Now Assist panel to begin the process for uploading, validating, and importing your [[operational-technology-overview|Operational Technology]] \(OT\) device data into the OT CMDB.
+Chat with an AI agent in the Now Assist panel to begin the process for uploading, validating, and importing your Operational Technology \(OT\) device data into the OT CMDB.
 
 ## Before you begin
 
@@ -46,7 +46,7 @@ Role required: ot\_excel\_import\_user and now\_assist\_panel\_user
 
 7.  Once the import is complete, enter a prompt in the Now Assist panel to alert the agent that the import was successful and can proceed to the next step, such as `Yes, proceed`.
 
-    The agent validates the staging records and replies with the number of valid records, partially valid records, and invalid records. For invalid records, the agent asks if you want to [[create-remediation-task|create a remediation task]].
+    The agent validates the staging records and replies with the number of valid records, partially valid records, and invalid records. For invalid records, the agent asks if you want to create a remediation task.
 
 8.  If you want to create a remediation task for the invalid records, enter `Yes`.
 
@@ -65,13 +65,7 @@ Role required: ot\_excel\_import\_user and now\_assist\_panel\_user
 
 ## What to do next
 
-To verify the CMDB import, navigate to the [[industrial-workspace-for-operational-technology|Industrial Workspace]] list view and open the **All OT Devices** list. The recently imported OT device records should appear in the list.
+To verify the CMDB import, navigate to the Industrial Workspace list view and open the **All OT Devices** list. The recently imported OT device records should appear in the list.
 
-**Parent Topic:**[[now-assist-otm-aiagents-import-ot-device-workflow|Import the OT device spreadsheet into OT CMDB agentic workflow]]
+**Parent Topic:**[Import the OT device spreadsheet into OT CMDB agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/now-assist-otm-aiagents-import-ot-device-workflow.md)
 
-## Related
-
-- [[now-assist-otm-aiagents-import-ot-device-workflow|Import the OT device spreadsheet into OT CMDB agentic workflow]]
-- [[operational-technology-overview|Operational Technology]]
-- [[create-remediation-task|Create a remediation task]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

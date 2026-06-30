@@ -18,13 +18,13 @@ Request a background check for an employee through a third-party background chec
 
 ## Before you begin
 
-An [[scoped-hr-third-party-integrations|HR integrations]] administrator must have set up the integration between [[hr-service-delivery|HR Service Delivery]] and the third-party background check system before requests can be made. See [HR Integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/scoped-hr-third-party-integrations.md) for more information.
+An HR integrations administrator must have set up the integration between HR Service Delivery and the third-party background check system before requests can be made. See [HR Integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/scoped-hr-third-party-integrations.md) for more information.
 
 Role required: sn\_hr\_core.case\_writer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **Create New Case**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **Create New Case**.
 
 2.  In the **Search for Employee** field, select the employee you are creating the case for.
 
@@ -59,8 +59,3 @@ To view the background check details, navigate to the **Background Check Details
 
 **Parent Topic:**[Create an HR case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/search-hr-case.md)
 
-## Related
-
-- [[scoped-hr-third-party-integrations|HR Integrations]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[case-management-workspace|Case management]]

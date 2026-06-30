@@ -19,7 +19,7 @@ This accelerator provides insight into your current alignment to the Common Serv
 
 ## Accelerator Overview
 
-The Common Service Data Model \(CSDM\) Maturity Assessment provides [[impact-landing-page|Impact]] customers with prescriptive recommendations based on a structured evaluation completed by key business stakeholders and helps them maximize the value of their ServiceNow investment.
+The Common Service Data Model \(CSDM\) Maturity Assessment provides Impact customers with prescriptive recommendations based on a structured evaluation completed by key business stakeholders and helps them maximize the value of their ServiceNow investment.
 
 By giving customers, a clear snapshot of their current data management maturity related to the organization's capabilities and services, this accelerator offers targeted next-step guidance across people, processes, governance, and alignment to the ServiceNow common data model.
 
@@ -39,7 +39,7 @@ Customers are encouraged to complete the [TuneUp Your CMDB technical accelerator
     -   Request data and any other inputs
 -   **CSDM Overview Coaching Session \(up to 1.5 hours\)**
 
-    The [[impact-squad|Impact Squad]] provides a CSDM introduction covering high-level definitions to ensure that participants have the knowledge to properly assess their organization.
+    The Impact Squad provides a CSDM introduction covering high-level definitions to ensure that participants have the knowledge to properly assess their organization.
 
 -   **Maturity Assessment Questionnaire**
 
@@ -51,7 +51,7 @@ Customers are encouraged to complete the [TuneUp Your CMDB technical accelerator
 
     -   Reviews and analyzes the questionnaire scores
     -   Compiles tailored recommendations and leading practices
-    -   Provides guidance that will [[io-help|help]] you improve alignment with the ServiceNow CSDM, enabling you to achieve maximum value from the ServiceNow platform
+    -   Provides guidance that will help you improve alignment with the ServiceNow CSDM, enabling you to achieve maximum value from the ServiceNow platform
 -   **Customer read-out session \(up to 1.5 hours\)**
     -   Deliver CSDM Maturity Assessment report
     -   Review CSDM Maturity Assessment report
@@ -85,8 +85,3 @@ We request that the CSDM Maturity questionnaire is completed by the customer vir
 -   This Impact Accelerator does not include a technical review of CSDM.
 -   ServiceNow is not responsible for implementing the recommendations made based on the CSDM Maturity Assessment.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[impact-squad|Impact Squad]]
-- [[io-help|Help]]

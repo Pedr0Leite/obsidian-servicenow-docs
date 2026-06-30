@@ -24,9 +24,9 @@ Role required: awa\_admin or admin
 
 1.  Navigate to the service channel settings through one of the following navigation paths:
 
-    -   **All** &gt; **[[awa-application-landing-page|Advanced Work Assignment]]** &gt; **Home**.
+    -   **All** &gt; **Advanced Work Assignment** &gt; **Home**.
 
-        In the Essential settings section, select **Set up [[awa-service-channels|service channels]]**.
+        In the Essential settings section, select **Set up service channels**.
 
     -   **All** &gt; **Advanced Work Assignment** &gt; **Service Channels**.
 2.  Select the **Change Request** service channel record.
@@ -43,12 +43,7 @@ Role required: awa\_admin or admin
 
 ## Result
 
-When you create a change request, the item is routed through the Change Request service channel and assigned to the agent in the Change [[management|Management]] assignment group who is available to receive the change request. When the assignee checks their agent inbox, the change request appears with the option for the agent to either reject or accept the work item.
+When you create a change request, the item is routed through the Change Request service channel and assigned to the agent in the Change Management assignment group who is available to receive the change request. When the assignee checks their agent inbox, the change request appears with the option for the agent to either reject or accept the work item.
 
 \[Omitted image "ChangeWorkItem.png"\] Alt text: Change work item in agent inbox
 
-## Related
-
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[awa-service-channels|Service channels]]
-- [[management|Management]]

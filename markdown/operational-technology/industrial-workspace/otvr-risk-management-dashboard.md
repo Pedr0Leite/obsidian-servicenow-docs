@@ -14,11 +14,11 @@ breadcrumb: [Dashboard Library in the Industrial Workspace, Explore, Industrial 
 
 # Operational Technology Risk Management dashboard
 
-The [[operational-technology-overview|Operational Technology]] \(OT\) Risk Management dashboard contains the risk score and the vulnerability items \(VITs\) of the OT devices at each level of the equipment model.
+The Operational Technology \(OT\) Risk Management dashboard contains the risk score and the vulnerability items \(VITs\) of the OT devices at each level of the equipment model.
 
 ## About OT Risk Management dashboard
 
-The OT Risk Management dashboard is available in the Dashboard Library \(\[Omitted image "dashboards-icon.png"\]\) of the [[industrial-workspace-for-operational-technology|Industrial Workspace]]. The following tables are available for your rolled up vulnerability risk scores in the OT Risk Management dashboard:
+The OT Risk Management dashboard is available in the Dashboard Library \(\[Omitted image "dashboards-icon.png"\]\) of the Industrial Workspace. The following tables are available for your rolled up vulnerability risk scores in the OT Risk Management dashboard:
 
 -   Vulnerability risk table for your equipment model entities
 -   Vulnerability risk table for OT devices with no site assigned
@@ -42,7 +42,3 @@ Select the **OT Vulnerability Risk** from the Select Risk Type list to view the 
 
 **Parent Topic:**[Dashboard Library in the Industrial Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/dashboard-library-industrial-workspace.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

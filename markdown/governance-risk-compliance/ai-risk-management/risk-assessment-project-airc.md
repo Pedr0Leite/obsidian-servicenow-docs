@@ -15,7 +15,7 @@ breadcrumb: [Explore, AI Risk and Compliance, Governance, Risk, and Compliance]
 
 # Risk assessment project in AI Risk and Compliance
 
-You can perform assessments on multiple risks and controls simultaneously by creating a [[risk-assessment-project|risk assessment project]] for an AI asset. This feature enables assessors to review multiple risks to understand their potential impact, likelihood, and associated mitigation strategies.
+You can perform assessments on multiple risks and controls simultaneously by creating a risk assessment project for an AI asset. This feature enables assessors to review multiple risks to understand their potential impact, likelihood, and associated mitigation strategies.
 
 ## Overview of a risk assessment project
 
@@ -28,7 +28,7 @@ The following are the key benefits of a risk assessment project:
 -   Simplifies the RCSA process by enabling multiple risks and controls to be assessed at the same time, which saves time on manual data collection.
 -   Reduces the chances of errors and inconsistencies by using automated error handling and providing comprehensive error summaries before finalizing assessments.
 -   Reduces unnecessary back-and-forth interactions among stakeholders by involving all required participants in the assessment project.
--   Enables navigation between different stages of [[risk-assessments|risk assessments]] and access multiple risks and controls simultaneously, without switching screens.
+-   Enables navigation between different stages of risk assessments and access multiple risks and controls simultaneously, without switching screens.
 -   Provides detailed summary reports on the assessment results.
 -   Simplifies the process of signing off on all the risks together within the project.
 -   Enables access to reference information related to each risk in the sidebar panel.
@@ -43,7 +43,7 @@ The following personas are involved with the risk assessment project:
 
 -   **Assessor**
 
-    The project assessor performs assessment on multiple risks and controls within the risk assessment project. They analyze each risk, evaluate the effectiveness of existing controls, and create [[risk-response|risk response]] strategies.
+    The project assessor performs assessment on multiple risks and controls within the risk assessment project. They analyze each risk, evaluate the effectiveness of existing controls, and create risk response strategies.
 
 -   **Approver**
 
@@ -71,8 +71,3 @@ The following roles are required for a risk assessment project:
 
 [Perform bulk assessment in grid view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/perform-bulk-assessment-in-grid-view-airc.md)
 
-## Related
-
-- [[risk-assessment-project|risk assessment project]]
-- [[risk-assessments|risk assessments]]
-- [[risk-response|risk response]]

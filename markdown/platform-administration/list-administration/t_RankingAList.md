@@ -14,7 +14,7 @@ breadcrumb: [Context ranking, Administer, List administration, Forms, fields, an
 
 # Rank a list
 
-After you [[t_CreatingARankingDefinition|create a ranking definition]] for a table, related lists based on that table and context include options for ranking the list and displaying the list by rank.
+After you create a ranking definition for a table, related lists based on that table and context include options for ranking the list and displaying the list by rank.
 
 ## Before you begin
 
@@ -44,6 +44,3 @@ You can apply a new sort order to the records in a list.
 
 **Parent Topic:**[Context ranking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-administration/r_ContextRanking.md)
 
-## Related
-
-- [[t_CreatingARankingDefinition|Create a ranking definition]]

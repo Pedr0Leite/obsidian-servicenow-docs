@@ -15,7 +15,7 @@ breadcrumb: [Software discovery, Data collected by ITOM Visibility, ITOM Visibil
 
 # IBM App Connect Enterprise and HTTP listener discovery
 
-[[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] Patterns application uses the WMB patterns to discover Integration Bus \(formerly WebSphere Message Broker and IBM Integration Bus\) and HTTP listeners running on both Linux and Windows. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
+Discovery and Service Mapping Patterns application uses the WMB patterns to discover Integration Bus \(formerly WebSphere Message Broker and IBM Integration Bus\) and HTTP listeners running on both Linux and Windows. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 ## Request new or enhanced Patterns on the ServiceNow® Store
 
@@ -75,7 +75,3 @@ To learn about IBM WebSphere Message Broker \(WMB\) and WMB HTTP Listener compon
 
 **Parent Topic:**[Software discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_Software.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

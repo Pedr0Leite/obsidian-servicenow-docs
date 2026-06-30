@@ -16,7 +16,7 @@ breadcrumb: [Explore, Risk Management, Governance, Risk, and Compliance]
 
 Risk events are potential or actual financial and non-financial losses, near misses, and gains that occur within an organization. Risk events are also known as loss events or loss entries.
 
-To effectively manage risks, it's essential to monitor risk events. You must relate them to existing risks, perform a root-cause analysis, and track the remedial tasks. Organizations [[use-risk-events|use risk events]] to understand their losses and to manage their risks more efficiently. Risk events do not only lead to losses. At times, risk events also result in gains for an organization. For example, in the banking industry, if there’s an error in a trading algorithm, it might result in a gain for an organization.
+To effectively manage risks, it's essential to monitor risk events. You must relate them to existing risks, perform a root-cause analysis, and track the remedial tasks. Organizations use risk events to understand their losses and to manage their risks more efficiently. Risk events do not only lead to losses. At times, risk events also result in gains for an organization. For example, in the banking industry, if there’s an error in a trading algorithm, it might result in a gain for an organization.
 
 Any employee can report a risk event. After a risk event is reported, it is analyzed by the risk manager.
 
@@ -38,7 +38,7 @@ You can create a risk event using either the Service Portal or your ServiceNow i
 
 You can view the risk events dashboards by navigating to **Risk Events** &gt; **Overview**.
 
-For information on how to [[configure-risk-event-integration|configure risk event integration]] in the [[risk-workspace|Risk Workspace]], see the [Risk event integration in workspace \[KB0966898\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB0966898) article in the Now Support Knowledge Base.
+For information on how to configure risk event integration in the Risk Workspace, see the [Risk event integration in workspace \[KB0966898\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB0966898) article in the Now Support Knowledge Base.
 
 **Related topics**  
 
@@ -82,7 +82,7 @@ Consider relating each risk statement to a risk. Establishing this relationship 
 
 ### Add Basel categories to risk statements
 
-The Basel categorization is specific to the banking industry. This categorization helps customers comply with the Basel regulations by automating their loss event reporting. This particular setting enables the users to view the Basel Dashboards. The [[basel-dashboard|Basel Dashboard]] shows the number of loss events and net loss based on the Basel business lines and categories. Enabling this setting enables the users to view the Basel categorization tab where users can select one of the following Basel categories that apply.
+The Basel categorization is specific to the banking industry. This categorization helps customers comply with the Basel regulations by automating their loss event reporting. This particular setting enables the users to view the Basel Dashboards. The Basel Dashboard shows the number of loss events and net loss based on the Basel business lines and categories. Enabling this setting enables the users to view the Basel categorization tab where users can select one of the following Basel categories that apply.
 
 -   Internal fraud
 -   External fraud
@@ -116,7 +116,7 @@ For more information on how to set up risk event ingestion, see [KB0780985](http
 
 ## Associate similar risk events
 
-Train a similarity solution definition that uses machine learning by activating the [[r_WhatIsGRC|Governance, Risk, and Compliance]]: Predictive Intelligence plugin. The solution enables the system to display similar risk events automatically.
+Train a similarity solution definition that uses machine learning by activating the Governance, Risk, and Compliance: Predictive Intelligence plugin. The solution enables the system to display similar risk events automatically.
 
 The Governance, Risk, and Compliance: Predictive Intelligence plugin uses Artificial Intelligence \(AI\) and Machine Learning \(ML\) to manage the risk events more efficiently. You can identify similar risk events and group them to capture and analyze the actual impact of the risk event.
 
@@ -124,13 +124,5 @@ For example, in an organization with operations in multiple locations, the risk 
 
 You can associate similar risk events only when the main risk event is in the **Analyze** state. Also, the Associate risk event button is unavailable for similar risk events that are in the **New** or **Rejected** state.\[Omitted image "similar-risk-event.png"\] Alt text: Similar risk events
 
-The platform machine learning administrator \(ml\_admin\) can create a solution definition and modify an existing one. You can navigate to **Risk Events** &gt; **[[Administration|Administration]]** &gt; **Properties** to update the risk event property with the new solution definition name.
+The platform machine learning administrator \(ml\_admin\) can create a solution definition and modify an existing one. You can navigate to **Risk Events** &gt; **Administration** &gt; **Properties** to update the risk event property with the new solution definition name.
 
-## Related
-
-- [[use-risk-events|use risk events]]
-- [[configure-risk-event-integration|configure risk event integration]]
-- [[risk-workspace|risk workspace]]
-- [[basel-dashboard|basel dashboard]]
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]
-- [[Administration|Administration]]

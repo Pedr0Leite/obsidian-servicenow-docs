@@ -14,7 +14,7 @@ breadcrumb: [EMR Help, Healthcare and Life Sciences Service Management, Healthca
 
 # Exploring EMR Help
 
-Learn more about the available features offered by [[emr-exploring|EMR Help]] to help create a seamless experience for your clinicians to raise requests from an external EMR system.
+Learn more about the available features offered by EMR Help to help create a seamless experience for your clinicians to raise requests from an external EMR system.
 
 ## EMR Help overview
 
@@ -110,6 +110,3 @@ To learn more about configuring and using EMR Help, see:
 -   [Resolve EMR Help requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/resolving-emr-help-requests.md)
 -   [EMR Help reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/emr-reference.md)
 
-## Related
-
-- [[emr-exploring|EMR Help]]

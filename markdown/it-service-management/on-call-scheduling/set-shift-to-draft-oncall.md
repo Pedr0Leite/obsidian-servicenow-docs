@@ -22,7 +22,7 @@ Role required: rota\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_OnCallScheduling|On-Call Scheduling]]** &gt; **My Group Schedules**.
+1.  Navigate to **All** &gt; **On-Call Scheduling** &gt; **My Group Schedules**.
 
 2.  Select the shift that will include the group.
 
@@ -33,6 +33,3 @@ Role required: rota\_manager
 
 **Parent Topic:**[Managing schedules and shifts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/manage-schedules-and-shifts.md)
 
-## Related
-
-- [[c_OnCallScheduling|On-Call Scheduling]]

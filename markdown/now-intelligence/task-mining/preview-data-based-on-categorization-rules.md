@@ -14,7 +14,7 @@ breadcrumb: [Generating project analysis, Use, Task Mining, Platform Analytics]
 
 # Refine the presentation of your data
 
-Improve your [[task-mining|Task Mining]] project's analysis before sharing the project to identify gaps in categorization.
+Improve your Task Mining project's analysis before sharing the project to identify gaps in categorization.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_tm\_core.analyst, sn\_tm\_core.power\_user, sn\_tm\_core.admi
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[task-mining-workspace|Task Mining Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Task Mining Workspace**.
 
 2.  Select the name of the project you want to analyze.
 
@@ -54,7 +54,3 @@ Share the analysis with interested process owners by adding shared users to the 
 
 [Categorize workstation activities to simplify analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/define-default-categorization-rules.md)
 
-## Related
-
-- [[task-mining|Task Mining]]
-- [[task-mining-workspace|Task Mining Workspace]]

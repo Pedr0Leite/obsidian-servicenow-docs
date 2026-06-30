@@ -14,9 +14,9 @@ breadcrumb: [Discovery monitoring and issue resolution, Using Discovery, Discove
 
 # Cloud Discovery home page in Cloud Discovery Workspace
 
-The Cloud [[discovery-home-page|Discovery home page]] displays a summary of the discoveries triggered through a [[r-discovery|discovery]] schedule. You can view the count of CIs discovered and errors encountered over time. You can also select any dashboard report to view additional information.
+The Cloud Discovery home page displays a summary of the discoveries triggered through a discovery schedule. You can view the count of CIs discovered and errors encountered over time. You can also select any dashboard report to view additional information.
 
-**Important:** [[cow-landing-page|Cloud Discovery Workspace]] is now deprecated and no longer supported or available for new activation. [Discovery Admin Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-admin-workspace.md) provides the latest experience for this functionality. For details, see the [Application/Plugin Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184) article in the Now Support knowledge base.
+**Important:** Cloud Discovery Workspace is now deprecated and no longer supported or available for new activation. [Discovery Admin Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-admin-workspace.md) provides the latest experience for this functionality. For details, see the [Application/Plugin Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184) article in the Now Support knowledge base.
 
 \[Omitted image "cow-cloud-disco-dashboard.gif"\] Alt text: Cloud Discovery dashboard.
 
@@ -223,9 +223,3 @@ This report displays the count of VMs discovered per datacenter.Cloud Discovery 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[discovery-home-page|Discovery Home page]]
-- [[r-discovery|Discovery]]
-- [[cow-landing-page|Cloud Discovery Workspace]]

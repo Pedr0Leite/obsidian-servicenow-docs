@@ -14,11 +14,11 @@ breadcrumb: [Setting up an insurance policy for Insurance claims, Setting up the
 
 # Create an insurance policy table
 
-Create a table that extends the Insurance Policy \(sn\_bom\_ins\_policy\) table in the [[insurance-claims-flow|Insurance claims]] application. You use this table to hold all the information about insurance policies of a particular type that you sold to your customers. Creating tables helps to ensure that each type of policy is properly organized and maintained within the system.
+Create a table that extends the Insurance Policy \(sn\_bom\_ins\_policy\) table in the Insurance claims application. You use this table to hold all the information about insurance policies of a particular type that you sold to your customers. Creating tables helps to ensure that each type of policy is properly organized and maintained within the system.
 
 ## Before you begin
 
-Set the application scope in your instance to **[[financial-services-operations-core-data-model|Financial Services Operations Core]]**.
+Set the application scope in your instance to **Financial Services Operations Core**.
 
 Role required: admin
 
@@ -47,7 +47,3 @@ Set up the roles, establish read-and-write access control lists \(ACLs\), and th
 
 **Parent Topic:**[Setting up an insurance policy for Insurance claims](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/set-up-an-insurance-policy.md)
 
-## Related
-
-- [[insurance-claims-flow|Insurance claims]]
-- [[financial-services-operations-core-data-model|Financial Services Operations Core]]

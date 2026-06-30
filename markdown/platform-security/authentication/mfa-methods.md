@@ -14,9 +14,9 @@ breadcrumb: [Configuring MFA, Multi-factor authentication, Authentication, Acces
 
 # Multi-factor Authentication verification methods
 
-ServiceNow's MFA supports verification methods such as Authenticator App, Fast [[identity-landing|IDentity]] Online 2 \(FIDO2\) and Time-based One-Time Password \(TOTP\).
+ServiceNow's MFA supports verification methods such as Authenticator App, Fast IDentity Online 2 \(FIDO2\) and Time-based One-Time Password \(TOTP\).
 
-The [[users|users]] can use the following options in addition to their user name and password to fulfill [[mfa-landing|multi-factor authentication]] requirements. The users can setup MFA factors such as [[mfa-auth-app|Authenticator applications]], Biometric scanners, Hardware Keys, and SMS independently.
+The users can use the following options in addition to their user name and password to fulfill multi-factor authentication requirements. The users can setup MFA factors such as Authenticator applications, Biometric scanners, Hardware Keys, and SMS independently.
 
 ## Authenticator Applications
 
@@ -26,7 +26,7 @@ An authenticator application is third-party software that generates temporary pa
 
 ## Hardware Keys and Biometric scanners \(Web Authentication\)
 
-The **Integration - [[mfa-web-auth|Web Authentication]]** \(com.snc.integration.webauthn\) plugin allows hardware key or biometric reader [[c_Authentication|authentication]] on your instance.
+The **Integration - Web Authentication** \(com.snc.integration.webauthn\) plugin allows hardware key or biometric reader authentication on your instance.
 
 Biometric authenticators use fingerprint or facial recognition to identify users. Your users can use these authenticators on their devices as part of the multi-factor login process. For details on registering biometric authenticators, see [Register a biometric authenticator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-setup-bio-auth.md).
 
@@ -42,7 +42,7 @@ Passkey authentication is a secure, password less method of log in, where the us
 
 ## SMS
 
-Admin can [[configure-servicenow|configure ServiceNow]] instance to require users who attempt to log in to the instance using SMS based OTP.
+Admin can configure ServiceNow instance to require users who attempt to log in to the instance using SMS based OTP.
 
 When users attempt to log in to ServiceNow, SMS OTP is sent to the mobile number associated with the sys\_user record. Users can enter the six-digit verification code that it sent to the mobile device and verify their identity. For more information, see [SMS as an MFA factor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-with-sms.md).
 
@@ -50,7 +50,7 @@ When users attempt to log in to ServiceNow, SMS OTP is sent to the mobile number
 
 ## Email
 
-Admin can configure ServiceNow instance to require users who attempt to log in to the instance using [[email|Email]] based OTP.
+Admin can configure ServiceNow instance to require users who attempt to log in to the instance using Email based OTP.
 
 When users attempt to log in to ServiceNow, Email OTP is sent to the email address of the user. Users can enter the six-digit verification code that it sent to the email address and verify their identity. For more information, see [Email as an MFA factor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-with-email.md).
 
@@ -65,13 +65,3 @@ When users attempt to log in to ServiceNow, Email OTP is sent to the email addre
 
 [Email as an MFA factor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-with-email.md)
 
-## Related
-
-- [[identity-landing|Identity]]
-- [[users|Users]]
-- [[mfa-landing|Multi-factor authentication]]
-- [[mfa-auth-app|Authenticator Applications]]
-- [[mfa-web-auth|Web Authentication]]
-- [[c_Authentication|Authentication]]
-- [[configure-servicenow|Configure ServiceNow]]
-- [[email|Email]]

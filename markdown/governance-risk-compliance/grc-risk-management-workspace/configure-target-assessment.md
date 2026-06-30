@@ -14,7 +14,7 @@ breadcrumb: [Perform Advanced Risk Assessment, Use, Risk Management, Governance,
 
 # Configure a target assessment
 
-Configure and publish a target assessment in the Advanced Risk application to assess your desired future risk level. By configuring a target assessment, you enable the assessors and approvers to perform a [[target-risk-assessment|target risk assessment]] in the Next Experience.
+Configure and publish a target assessment in the Advanced Risk application to assess your desired future risk level. By configuring a target assessment, you enable the assessors and approvers to perform a target risk assessment in the Next Experience.
 
 ## Before you begin
 
@@ -22,17 +22,17 @@ Role required: sn\_risk.admin
 
 ## About this task
 
-Configure a target assessment to assess the future risks levels. Similar to inherent and residual assessments, you can define the criteria for conducting target assessments. Configuration includes specifying [[factors|factors]], scoring logic, rating criteria, and heatmap configuration.
+Configure a target assessment to assess the future risks levels. Similar to inherent and residual assessments, you can define the criteria for conducting target assessments. Configuration includes specifying factors, scoring logic, rating criteria, and heatmap configuration.
 
 ## Procedure
 
-1.  Navigate to the [[risk-assessment-methodology-prm|Risk assessment methodology \(RAM\)]] form that has the target risk as an assessment type.
+1.  Navigate to the Risk assessment methodology \(RAM\) form that has the target risk as an assessment type.
 
 2.  In the Assessment Types related list, select **Target Assessment**.
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values on the [[target-assessment-form|Target assessment form]], see [Target assessment form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/target-assessment-form.md).
+    For a description of the field values on the Target assessment form, see [Target assessment form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/target-assessment-form.md).
 
 4.  **Note:** If you selected **Factor responses** in the **Calculate based on** field, then you have to add factors to the assessment manually.
 
@@ -94,7 +94,7 @@ Risk appetite scale
 
 </td><td>
 
-Risk appetite scale for the risk rating criteria. Appetite scales must be separately mapped to the qualitative risk rating criteria for Target Assessment in the RAM form. For example, you can select a risk appetite scale of **Hungry** for the risk rating of **Very High**. This field appears only when the risk appetite feature is configured in the [[advanced-risk-assessment|advanced risk assessment]] properties. Future appetite status is calculated based on the defined risk appetite and the target [[tprm-risk-profile-what-is|risk profile]].**Note:** The future appetite status can’t be aggregated or rolled up to any specific entities, risk statements, or individual risks.
+Risk appetite scale for the risk rating criteria. Appetite scales must be separately mapped to the qualitative risk rating criteria for Target Assessment in the RAM form. For example, you can select a risk appetite scale of **Hungry** for the risk rating of **Very High**. This field appears only when the risk appetite feature is configured in the advanced risk assessment properties. Future appetite status is calculated based on the defined risk appetite and the target risk profile.**Note:** The future appetite status can’t be aggregated or rolled up to any specific entities, risk statements, or individual risks.
 
 </td></tr></tbody>
 </table>    **Note:** Avoid entering negative values in the Qualitative Rating Criteria form.
@@ -140,11 +140,3 @@ Use the Target Assessment form in the Advanced Risk application to assess the de
 
 **Parent Topic:**[Perform Advanced Risk Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/use-advanced-risk-assessment.md)
 
-## Related
-
-- [[target-risk-assessment|target risk assessment]]
-- [[factors|factors]]
-- [[risk-assessment-methodology-prm|Risk Assessment Methodology \(RAM\)]]
-- [[target-assessment-form|target assessment form]]
-- [[advanced-risk-assessment|advanced risk assessment]]
-- [[tprm-risk-profile-what-is|Risk profile]]

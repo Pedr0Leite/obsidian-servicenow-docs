@@ -14,7 +14,7 @@ breadcrumb: [Workflow activities, Classic Workflow, ServiceNow AI Platform Addit
 
 # Edit the workflow activity properties form
 
-Customize which workflow variables appear on an activity [[properties-form-survey-designer|properties form]] and how the variables are arranged on the form.
+Customize which workflow variables appear on an activity properties form and how the variables are arranged on the form.
 
 ## Before you begin
 
@@ -34,6 +34,4 @@ Role required: admin
 
     For more details on using the form design interface, see [Using the form designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_FormDesign.md).
 
-## Related
 
-- [[properties-form-survey-designer|Properties form]]

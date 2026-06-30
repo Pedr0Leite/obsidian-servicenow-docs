@@ -30,7 +30,7 @@ You can create calculated metric definitions which can be a combination of other
 
 3.  On the form, fill in the fields.
 
-    For a detailed explanation of the fields, see [[calculated-metric-definition-reuse|Calculated metric definition form]].
+    For a detailed explanation of the fields, see [Calculated metric definition form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/calculated-metric-definition-reuse.md).
 
 4.  Select **Save**.
 
@@ -43,15 +43,10 @@ The metric definition is saved in the Metric definitions list.
 
 ## What to do next
 
-Specify the formula for metric calculation. Refer to [[formula-building-at-metric-definition-and-entity-level|Formula building in a calculated metric definition]].
+Specify the formula for metric calculation. Refer to [Formula building in a calculated metric definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/formula-building-at-metric-definition-and-entity-level.md).
 
 -   **[Calculated metric definition form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/calculated-metric-definition-reuse.md)**  
 The fields of the calculated metric definition form are explained in this topic.
 
-**Parent Topic:**[[configuring-grc-metrics|Configuring GRC: Metrics]]
+**Parent Topic:**[Configuring GRC: Metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/configuring-grc-metrics.md)
 
-## Related
-
-- [[calculated-metric-definition-reuse|Calculated metric definition form]]
-- [[formula-building-at-metric-definition-and-entity-level|Formula building in a calculated metric definition]]
-- [[configuring-grc-metrics|configuring grc metrics]]

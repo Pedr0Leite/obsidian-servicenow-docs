@@ -23,7 +23,7 @@ These fields include:
 -   Contract
 -   Case Channel
 
-If the [[proactive-service-operations|Proactive Customer Service Operations]] plugin \(com.snc.proactive\_cs\_ops\) is active, the system also considers these fields:
+If the Proactive Customer Service Operations plugin \(com.snc.proactive\_cs\_ops\) is active, the system also considers these fields:
 
 -   Sold Product
 -   Install Base
@@ -39,6 +39,3 @@ Relative weights are assigned to each field. Entitlements are calculated based o
 
 The entitlement calculation uses the **global.CSManagementUtils** script and the **getFirstEntitlement** method.
 
-## Related
-
-- [[proactive-service-operations|Proactive Customer Service Operations]]

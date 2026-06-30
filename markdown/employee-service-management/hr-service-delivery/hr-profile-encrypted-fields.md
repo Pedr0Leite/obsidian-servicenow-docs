@@ -14,7 +14,7 @@ breadcrumb: [HR Profile, Case and Knowledge Management, HR Service Delivery, Emp
 
 # HR profile encrypted tax identification fields
 
-[[hr-service-delivery|HR Service Delivery]] provides different choices for capturing your employee's tax identification number.
+HR Service Delivery provides different choices for capturing your employee's tax identification number.
 
 Previously, the **Social Security Number** field could be used to capture your employee's tax ID number, but was not encrypted.
 
@@ -34,6 +34,3 @@ And you can provide additional details by associating the country.
 
 **Parent Topic:**[HR Profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_HRProfileRecords.md)
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]

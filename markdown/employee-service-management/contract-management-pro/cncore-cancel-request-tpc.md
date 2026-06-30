@@ -41,12 +41,9 @@ You can cancel a contract request when the contract request state is in Draft, N
 
 ## Result
 
--   The request is canceled and the associated active flows are terminated. The cancellation comments appear in the **[[activity-lxp|Activity]]** tab of the request.
+-   The request is canceled and the associated active flows are terminated. The cancellation comments appear in the **Activity** tab of the request.
 -   The contract request State updates to Canceled and the contract status updates to Contract Canceled.
 -   The document signature sent to signatories is canceled to block further signing. The signatories get an email notification that the contract request has been canceled.
 
 **Parent Topic:**[Using Contract Management Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-use-cmpro.md)
 
-## Related
-
-- [[activity-lxp|Activity]]

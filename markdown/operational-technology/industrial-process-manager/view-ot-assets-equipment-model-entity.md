@@ -18,7 +18,7 @@ Use OT devices to review the OT devices that are associated with the selected eq
 
 ## Before you begin
 
-To associate additional OT devices to the selected equipment model entity, both the [[operational-technology-manager|Operational Technology Manager]] and [[industrial-process-manager-overview|Industrial Process Manager]] applications must be installed.
+To associate additional OT devices to the selected equipment model entity, both the Operational Technology Manager and Industrial Process Manager applications must be installed.
 
 Role required: To add OT devices, the logged in user has to have a combination of the following assigned roles:
 
@@ -33,7 +33,7 @@ Users with an assigned cmdb\_ot\_isa\_admin role can view equipment model entiti
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]] Admin** &gt; **Industrial Process Manager** &gt; **Equipment Model Manager**.
+1.  Navigate to **All** &gt; **Industrial Workspace Admin** &gt; **Industrial Process Manager** &gt; **Equipment Model Manager**.
 
     You can search for a site by typing in the site name or its short code.
 
@@ -89,8 +89,3 @@ Proceed to the next step and review the OT devices form.
 
 **Parent Topic:**[Review and update the equipment model details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/equipment-model-workspace.md)
 
-## Related
-
-- [[operational-technology-manager|Operational Technology Manager]]
-- [[industrial-process-manager-overview|Industrial Process Manager]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

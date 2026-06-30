@@ -17,7 +17,7 @@ The Cybersecurity Executive Dashboard is a comprehensive solution that provides 
 
 The Cybersecurity Executive Dashboard application \[sn\_bod\] is available in the ServiceNow® Store. See the dependencies and system requirements that are required for the application on the listing in the ServiceNow® Store.
 
-The Cybersecurity Executive Dashboard provides high-level executive officers comprehensive insights into their organization's security posture. The dashboard integrates data from all products in the [[security-operations-landing-page|Security Operations]] product suite, including [[vuln-landing-page|Vulnerability Response]], [[avr-landing|Application Vulnerability Response]], [[cvr-landing|Container Vulnerability Response]], [[vr-config-compliance-landing|Configuration Compliance]], [[sir-landing-page|Security Incident Response]], and [[major-security-incident-management-landing-page|Major Security Incident Management]]. Additionally, it incorporates employee readiness data by seamlessly integrating with leading third-party phishing simulation [[tools|tools]] such as KnowBe4 and Microsoft Defender for Office365.
+The Cybersecurity Executive Dashboard provides high-level executive officers comprehensive insights into their organization's security posture. The dashboard integrates data from all products in the Security Operations product suite, including Vulnerability Response, Application Vulnerability Response, Container Vulnerability Response, Configuration Compliance, Security Incident Response, and Major Security Incident Management. Additionally, it incorporates employee readiness data by seamlessly integrating with leading third-party phishing simulation tools such as KnowBe4 and Microsoft Defender for Office365.
 
 The personas the dashboard might support in your organization includes but is not limited to:
 
@@ -29,7 +29,7 @@ The personas the dashboard might support in your organization includes but is no
 
 The dashboard provides the following features:
 
--   Consolidates data from various applications into a single view of your organization's overall security posture that includes [[vulnerabilities|vulnerabilities]], configuration compliance, security incidents, and employee readiness.
+-   Consolidates data from various applications into a single view of your organization's overall security posture that includes vulnerabilities, configuration compliance, security incidents, and employee readiness.
 -   Aggregated view of security metrics from various Security Operations products.
 -   Organization-wide security posture scoring.
 -   Business unit-specific risk assessments and a pinning feature for prioritizing top business units.
@@ -38,7 +38,7 @@ The dashboard provides the following features:
 -   Target setting and KPI tracking capabilities.
 -   Peer benchmarking.
 
-\[Omitted image "vr-ciso-db-top.png"\] Alt text: Top half of [[ciso-dashboard|CISO dashboard]] with targets and [[vr-va-ws-overview-tab|Overview tab]] selected
+\[Omitted image "vr-ciso-db-top.png"\] Alt text: Top half of CISO dashboard with targets and Overview tab selected
 
 These features enable proactive decision making by providing your organization with quick access to critical security metrics, which makes the dashboard an indispensable tool for enhancing overall security resilience and readiness.
 
@@ -85,7 +85,7 @@ Shows the set target to cover for a metric.
 
  The status of the targets is indicated through color coding. It shows all the targets whose review date is either within the past 30 days or upcoming. You can set the number of days for displaying targets using the **sn\_bod.show\_targets\_from** system property. Additionally, these targets can be edited.
 
- See [[set-targets-cybersecurity-dashboard|Set targets]] for more information.
+ See [Set targets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/set-targets-cybersecurity-dashboard.md) for more information.
 
 </td></tr></tbody>
 </table><table id="table_n43_yv4_mbc"><thead><tr><th>
@@ -220,7 +220,7 @@ Average time taken to close vulnerabilities and failed test results across all a
 -   Industry benchmark: Average of metrics from the peers in the same industry.
 -   Global benchmark: Average of metrics from the peers in the global market
 
- See [[vr-retrieve-benchmark-results|Opt-in for benchmark scores]] on how to view the benchmark scores.
+ See [Opt-in for benchmark scores](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vr-retrieve-benchmark-results.md) on how to view the benchmark scores.
 
 </td></tr><tr><td>
 
@@ -565,10 +565,10 @@ Breakdown of active incidents based on their states.
 
 <table id="table_obb_vcp_mbc"><tbody><tr><td colspan="3">
 
-To view Risk and Compliance widgets, you must activate the GRC plugins. For information on GRC plugins, see the Applications to activate section. For information on GRC widgets, see [[grc-cybersecurity-risk-compl-dashboard|Risk and compliance dashboard for GRC: Metrics]].
+To view Risk and Compliance widgets, you must activate the GRC plugins. For information on GRC plugins, see the Applications to activate section. For information on GRC widgets, see [Risk and compliance dashboard for GRC: Metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/grc-cybersecurity-risk-compl-dashboard.md).
 
 </td></tr></tbody>
-</table>## [[indicator|Indicators]]
+</table>## Indicators
 
 -   **Host SLA – Closed**
 
@@ -664,7 +664,7 @@ To view Risk and Compliance widgets, you must activate the GRC plugins. For info
 
 -   **Open Config Issues - Test results**
 
-    This indicator is calculated daily. It has an indicator source as a test result for the [[vr-unified-dashboard|Unified Vulnerability Response Dashboard]].
+    This indicator is calculated daily. It has an indicator source as a test result for the Unified Vulnerability Response Dashboard.
 
 -   **SI-Average Time To Identify**
 
@@ -942,21 +942,3 @@ The following scheduled jobs are run to collect scores on new data automatically
 |Upload the benchmark scores|On Demand|Collects scores from the instance and posts to the central instance. The benchmark algorithms calculate the industry's best scores.|
 |Download the benchmark scores|On Demand|Downloads the benchmark scores. It’s available in the Benchmark Scores \[sn\_bm\_client\_score\_list\] table.|
 
-## Related
-
-- [[set-targets-cybersecurity-dashboard|Set targets]]
-- [[vr-retrieve-benchmark-results|Opt-in for benchmark scores]]
-- [[grc-cybersecurity-risk-compl-dashboard|grc cybersecurity risk compl dashboard]]
-- [[security-operations-landing-page|Security Operations]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[avr-landing|Application Vulnerability Response]]
-- [[cvr-landing|Container Vulnerability Response]]
-- [[vr-config-compliance-landing|Configuration Compliance]]
-- [[sir-landing-page|Security Incident Response]]
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]
-- [[tools|Tools]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[ciso-dashboard|CISO dashboard]]
-- [[vr-va-ws-overview-tab|Overview tab]]
-- [[indicator|Indicators]]
-- [[vr-unified-dashboard|Unified Vulnerability Response Dashboard]]

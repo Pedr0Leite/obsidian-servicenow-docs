@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Strategic Planning, Reference, Portfolio
 
 # Portfolio plan configuration form
 
-Learn about the fields of the Portfolio plan form. Use this form to create or update display settings of the planning items for a portfolio plan in [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace.
+Learn about the fields of the Portfolio plan form. Use this form to create or update display settings of the planning items for a portfolio plan in Strategic Planning Workspace.
 
 <table id="table_fzg_v3d_cxb"><thead><tr><th>
 
@@ -153,6 +153,3 @@ Table that is used to create the portfolio plan.The value for this field is the 
 
 [Create portfolio plan configuration for high-level planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-portfolio-plan-configuration-for-high-level-planning.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

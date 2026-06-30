@@ -38,7 +38,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[attachment|Attachment]]
+Attachment
 
 </td><td>
 
@@ -58,7 +58,7 @@ Yes
 
 </td><td>
 
-Question with a [[check-box|check box]] or Yes and No choices for user responses.
+Question with a check box or Yes and No choices for user responses.
 
 </td></tr><tr><td>
 
@@ -70,7 +70,7 @@ Yes
 
 </td><td>
 
-List of predefined options. For more information, see the definition of the **Choices** field in [[t_CreateQuestSurveyDesigr|Create a question in the survey designer]].**Note:** The Choice values can only be numeric, string values will not be saved.
+List of predefined options. For more information, see the definition of the **Choices** field in [Create a question in the survey designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateQuestSurveyDesigr.md).**Note:** The Choice values can only be numeric, string values will not be saved.
 
 </td></tr><tr><td>
 
@@ -134,7 +134,7 @@ Predefined Likert scale. Answer options appear as radio buttons.
 
 </td></tr><tr><td>
 
-[[numeric-scale|Numeric Scale]]
+Numeric Scale
 
 </td><td>
 
@@ -154,7 +154,7 @@ No
 
 </td><td>
 
-Single or [[multi-line|multi-line text]] field.
+Single or multi-line text field.
 
 </td></tr><tr><td>
 
@@ -166,11 +166,11 @@ Yes
 
 </td><td>
 
-Choice list of templates that provide a predefined scale of options. For details, see [[c_QuizScorecards|Quiz scorecards]].
+Choice list of templates that provide a predefined scale of options. For details, see [Quiz scorecards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_QuizScorecards.md).
 
 </td></tr><tr><td>
 
-[[reference|Reference]]
+Reference
 
 </td><td>
 
@@ -219,7 +219,7 @@ Question with an order number to be selected for each option. One order number c
 </td></tr></tbody>
 </table>## Questions tab
 
-This tab displays all metrics added to the question bank for [[r_SurveyManagementLandingPage|surveys]]. Use the **Filter** field to search for questions. Each metric is displayed with its name and type.
+This tab displays all metrics added to the question bank for surveys. Use the **Filter** field to search for questions. Each metric is displayed with its name and type.
 
 ## Categories tab
 
@@ -230,7 +230,7 @@ This tab displays all metric categories added to the question bank for surveys. 
 The tabs on the header bar display views and a menu of functions. Click a tab to change the view on the canvas:
 
 -   **Design**: Add and configure the properties of categories and questions. This is the default view.
--   **Configuration**: Create introductions and end notes for surveys and select a [[t_CreateAnAssessmentSignature|signature]].
+-   **Configuration**: Create introductions and end notes for surveys and select a [signature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateAnAssessmentSignature.md).
 -   **Availability**: Select the recipients for each category in the survey.
 
 Point to the menu icon \(\[Omitted image "Menu.png"\] Alt text: Menu icon\) to select an option. The list of options depends on the currently open survey.
@@ -249,7 +249,7 @@ New surveys open in the canvas of the **Design** view. The survey **Name** field
 
 \[Omitted image "SurveyDesignerNewSurvey.png"\] Alt text: New survey question field
 
-**Parent Topic:**[[c_SurveyDesigner|Survey designer]]
+**Parent Topic:**[Survey designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyDesigner.md)
 
 **Related topics**  
 
@@ -268,15 +268,3 @@ New surveys open in the canvas of the **Design** view. The survey **Name** field
 
 [Configure category weights for a survey]()
 
-## Related
-
-- [[t_CreateQuestSurveyDesigr|Create a question in the survey designer]]
-- [[c_QuizScorecards|Quiz scorecards]]
-- [[t_CreateAnAssessmentSignature|Create an assessment signature]]
-- [[c_SurveyDesigner|Survey designer]]
-- [[attachment|Attachment]]
-- [[check-box|Check box]]
-- [[numeric-scale|Numeric scale]]
-- [[multi-line|Multi-line text]]
-- [[reference|Reference]]
-- [[r_SurveyManagementLandingPage|Surveys]]

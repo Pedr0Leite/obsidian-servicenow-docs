@@ -20,12 +20,12 @@ Select a DaaS asset matching the model specified by the DaaS provider by using t
 
 Role required: sn\_daas\_ham.daas\_asset\_manager or inventory\_user
 
--   Install the [[ham-landing-page|Hardware Asset Management]] for DaaS application from [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
+-   Install the Hardware Asset Management for DaaS application from [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
 -   Install the Hardware Asset Management application from [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Hardware Asset Workspace**.
 
 2.  Select the **DaaS provider** view.
 
@@ -172,7 +172,3 @@ Notes about the task that are visible to all users within your organization.
 
 [Pick the selected asset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/pick-daas-asset.md)
 
-## Related
-
-- [[ham-landing-page|Hardware Asset Management]]
-- [[using-ham-workspace|Hardware Asset Workspace]]

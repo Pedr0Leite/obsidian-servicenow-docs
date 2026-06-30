@@ -16,7 +16,7 @@ When off-site work is required, create a work order to provide field service age
 
 ## Before you begin
 
-Role required: [[mco-quality-issue-management|Quality Issue Management]] Admin, [[mco-product-non-conformances|product non-conformance]] submitter \(sn\_mfg\_qm.product\_non\_conformance\_submitter\), or product non-conformance resolver \(sn\_mfg\_qm.product\_non\_conformance\_resolver\)
+Role required: Quality Issue Management Admin, product non-conformance submitter \(sn\_mfg\_qm.product\_non\_conformance\_submitter\), or product non-conformance resolver \(sn\_mfg\_qm.product\_non\_conformance\_resolver\)
 
 ## About this task
 
@@ -28,7 +28,7 @@ Role required: [[mco-quality-issue-management|Quality Issue Management]] Admin, 
 
 1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace** &gt; **List** &gt; **Product Non Conformance Case** &gt; **Correction Actions**.
 
-    **Note:** Work order can be created from Product Non Conformance tasks, Containment actions, [[mco-PQI-use|Product Quality Investigation]] Tasks, Corrective, and Preventive actions.
+    **Note:** Work order can be created from Product Non Conformance tasks, Containment actions, Product Quality Investigation Tasks, Corrective, and Preventive actions.
 
 2.  Select the Correction actions record for which you want to create a work order.
 
@@ -40,7 +40,7 @@ Role required: [[mco-quality-issue-management|Quality Issue Management]] Admin, 
 
 5.  On the Work Order form, fill in the fields.
 
-    For a description of the field values, see [[work-order-form|Work order form]].
+    For a description of the field values, see [Work order form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/work-order-form.md).
 
 6.  Select **Save**.
 
@@ -49,12 +49,5 @@ Role required: [[mco-quality-issue-management|Quality Issue Management]] Admin, 
 
 The work order is created and awaits for qualification to create a work order task.
 
-**Parent Topic:**[[mco-related-lists-product-non-conformance|Product Non-conformance without playbook]]
+**Parent Topic:**[Product Non-conformance without playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-related-lists-product-non-conformance.md)
 
-## Related
-
-- [[work-order-form|Work order form]]
-- [[mco-related-lists-product-non-conformance|Product Non-conformance without playbook]]
-- [[mco-quality-issue-management|Quality issue management]]
-- [[mco-product-non-conformances|Product non-conformance]]
-- [[mco-PQI-use|Product quality investigation]]

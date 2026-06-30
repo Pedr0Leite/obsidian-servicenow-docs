@@ -18,7 +18,7 @@ Request that customers digitally sign and confirm a closed work order. A PDF sum
 
 ## Before you begin
 
-Make sure that PDF summaries are enabled in [[fsm-application-landing-page|Field Service Management]]
+Make sure that PDF summaries are enabled in Field Service Management
 
 Role required: wm\_agent
 
@@ -50,6 +50,3 @@ The signed PDF summary is generated and attached to the Work Order form.
 
 [Signed PDF summaries for closed work orders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/work-order-sign-and-confirm-pdf.md)
 
-## Related
-
-- [[fsm-application-landing-page|Field Service Management]]

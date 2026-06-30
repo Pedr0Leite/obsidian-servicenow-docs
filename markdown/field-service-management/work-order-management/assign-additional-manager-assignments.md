@@ -22,7 +22,7 @@ Role required: wm\_ext\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Field Service [[field-service-contractor-portal|Contractor Portal]]** &gt; **Homepage**.
+1.  Navigate to **All** &gt; **Field Service Contractor Portal** &gt; **Homepage**.
 
 2.  Click **Agents**.
 
@@ -36,6 +36,4 @@ Role required: wm\_ext\_manager
 
 7.  Click **Save**.
 
-## Related
 
-- [[field-service-contractor-portal|Contractor Portal]]

@@ -14,7 +14,7 @@ breadcrumb: [Dynamic Guidance, Adoption services, Configure user experiences]
 
 # Reference
 
-[[onboarding-modals-reference|Reference]] information for [[dynamic-guidance|Dynamic Guidance]]
+Reference information for Dynamic Guidance
 
 ## Use cases
 
@@ -24,7 +24,7 @@ Here are a few use cases for Dynamic Guidance.
 
     Scenario: Support agents logs in and wants to quickly locate tickets they are responsible for.
 
-    Voice response: Responds with steps to navigate to "My Work" or "Assigned to me" list view in Agent Workspace. The assistant also offers to explain [[c_Filters|filters]] if needed \(for example, "You can filter by priority or state here"\).
+    Voice response: Responds with steps to navigate to "My Work" or "Assigned to me" list view in Agent Workspace. The assistant also offers to explain filters if needed \(for example, "You can filter by priority or state here"\).
 
     Value: Reduces time spent navigating menus and improves focus on active work.
 
@@ -36,8 +36,4 @@ Here are a few use cases for Dynamic Guidance.
 
     Value: Helps new or part-time admins complete access tasks confidently without searching docs.
 
-## Related
 
-- [[onboarding-modals-reference|Reference]]
-- [[dynamic-guidance|Dynamic Guidance]]
-- [[c_Filters|Filters]]

@@ -14,7 +14,7 @@ breadcrumb: [Critical Event Management, Health and Safety, Employee Service Mana
 
 # Managing related records in a critical event
 
-Manage the related records in the **Related records** Related Item of a critical event in [[critical-event-management|Critical Event Management]]. Related records include other critical event tasks, [[health-safety-overview|Health and Safety]] incidents, child critical events, and sent notifications.
+Manage the related records in the **Related records** Related Item of a critical event in Critical Event Management. Related records include other critical event tasks, Health and Safety incidents, child critical events, and sent notifications.
 
 -   **[Create a Health and Safety incident in Critical Event Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/create-hs-incident.md)**  
 Report a Health and Safety incident through the **Related records** Related Item in Critical Event Management.
@@ -25,7 +25,3 @@ View all notifications sent for a critical event in the **Related records** Rela
 
 **Parent Topic:**[Critical Event Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/critical-event-management.md)
 
-## Related
-
-- [[critical-event-management|Critical Event Management]]
-- [[health-safety-overview|Health and Safety]]

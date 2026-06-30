@@ -30,12 +30,7 @@ The Management, Instrumentation, and Discovery \(MID\) Server is a Java applicat
 
 </td><td>
 
-[Reference \[Omitted image "bus-learn.svg"\] Alt text: Get information about [[c_UpgradeAndTestMIDServer|MID Server upgrades]], issues, system requirements, and properties.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-[[reference|reference]]-information.md)
+[Reference \[Omitted image "bus-learn.svg"\] Alt text: Get information about MID Server upgrades, issues, system requirements, and properties.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-reference-information.md)
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_UpgradeAndTestMIDServer|MID Server upgrades]]
-- [[reference|Reference]]

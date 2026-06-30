@@ -14,7 +14,7 @@ breadcrumb: [Compliance case task workflow, Use, Compliance Case Management, Gov
 
 # Create an action task
 
-[[manage-reg-action-tasks|Create an action task]] to investigate, gather evidence, and perform an assessment so that you can analyze and assess a reported case in the GRC: [[compliance-case-management|Compliance Case Management]] application. Each case can have multiple case tasks that you can assign to different owners across multiple teams.
+Create an action task to investigate, gather evidence, and perform an assessment so that you can analyze and assess a reported case in the GRC: Compliance Case Management application. Each case can have multiple case tasks that you can assign to different owners across multiple teams.
 
 ## Before you begin
 
@@ -64,12 +64,7 @@ After a case is reported to the compliance team, a compliance case analyst can c
 
 
 -   **[Case task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/case-task-form.md)**  
-Use the [[case-task-form|Case Task form]] in the GRC: Compliance Case Management application to create a case task for a reported compliance case.
+Use the Case Task form in the GRC: Compliance Case Management application to create a case task for a reported compliance case.
 
 **Parent Topic:**[Compliance case task workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/compliance-case-task-workflow.md)
 
-## Related
-
-- [[manage-reg-action-tasks|Create an action task]]
-- [[compliance-case-management|compliance case management]]
-- [[case-task-form|case task form]]

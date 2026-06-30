@@ -30,19 +30,16 @@ New ADAM User accounts are disabled by default. You will need to enable the new 
 
 ## Procedure
 
-1.  Enable [[users|users]] by changing the attribute msDS-UserAccountDisabled to FALSE.
+1.  Enable users by changing the attribute msDS-UserAccountDisabled to FALSE.
 
 2.  Right-click the user object and reset the password.
 
 3.  Test the new accounts by using LDP as defined in [Active Directory Application Mode \(ADAM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ldap-integration/c_ActiveDirectoryApplicationMode.md) to make sure they can connect.
 
-    Use the **LDAP** &gt; **View/Tree** option, leaving the Base DN blank to make sure that you can view the objects in the directory by using the new accounts. The [[sc-configuration|Configuration]], Schema, and the domain partition should be visible in the left pane. Traverse the domain partition. If you are using a new local ADAM account, it will show ‘No Children’ which means that you don’t have read access to the objects. Verify the Setup group memberships and re-test.
+    Use the **LDAP** &gt; **View/Tree** option, leaving the Base DN blank to make sure that you can view the objects in the directory by using the new accounts. The Configuration, Schema, and the domain partition should be visible in the left pane. Traverse the domain partition. If you are using a new local ADAM account, it will show ‘No Children’ which means that you don’t have read access to the objects. Verify the Setup group memberships and re-test.
 
     ADAMSync uses the **ADAMSync User** account to manage objects in the ADAM partition. This account requires admin level rights since it will create, update, and delete ADAM objects.
 
     ADAMSync uses the **ADAMSync AD** account to read the AD objects that will be synchronized to ADAM.
 
-## Related
 
-- [[users|Users]]
-- [[sc-configuration|Configuration]]

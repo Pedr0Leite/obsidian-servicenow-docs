@@ -14,7 +14,7 @@ breadcrumb: [Working with Investigation Canvas, Threat Analyst Workbench, Use, T
 
 # Creating an investigation canvas
 
-Create canvas to add [[c_Observables|observables]] from [[threat-intel-landing-page|threat intelligence]] library.
+Create canvas to add observables from threat intelligence library.
 
 ## Before you begin
 
@@ -22,9 +22,9 @@ Role required: sn\_sec\_tisc.analyst
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center**.
 
-2.  Click the **[[threat-analyst-workbench|Threat Analyst Workbench]]** icon.
+2.  Click the **Threat Analyst Workbench** icon.
 
 3.  Go to **Investigation Canvases** &gt; **All Canvases**.
 
@@ -111,7 +111,7 @@ Select the state of the canvas.
 
 13. Select **Add Data to Library** to create any new relationship between two different nodes.
 
-    The relationship between the two nodes is indicated with the dotted line which means the nodes are temporary. In case, if you want to move the nodes data to the [[stix-relationships|relationships]], then select **Save data to library** and add data to library. After you perform this operation the dotted line will turn to a solid edge line indicating that the node is now is part of the library.
+    The relationship between the two nodes is indicated with the dotted line which means the nodes are temporary. In case, if you want to move the nodes data to the relationships, then select **Save data to library** and add data to library. After you perform this operation the dotted line will turn to a solid edge line indicating that the node is now is part of the library.
 
 14. Use the **Filter** icon to view the type of observables and objects that are present in the canvas and you can selectively choose the type of data to be shown under the investigation canvas.
 
@@ -137,10 +137,3 @@ Select the state of the canvas.
 
 [Creating a Case and Linking from Investigation Canvas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-link-case.md)
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-analyst-workbench|Threat Analyst Workbench]]
-- [[stix-relationships|Relationships]]

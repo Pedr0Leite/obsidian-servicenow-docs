@@ -14,13 +14,13 @@ breadcrumb: [Analytics and Reporting, Workplace Case Management, Workplace Servi
 
 # Workplace Case dashboard
 
-Use this dashboard to track the number of workplace cases that were created using the [[workplace-services|workplace services]] from the [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] or from the [[workplace-services-portal-hr|Workplace Service Portal]]. Monitor the number of open cases, cases that require approval, and other cases on any given day.
+Use this dashboard to track the number of workplace cases that were created using the workplace services from the Workplace Service Delivery or from the Workplace Service Portal. Monitor the number of open cases, cases that require approval, and other cases on any given day.
 
-The [[workplace-case-mgmt-feat|Workplace Case Management]] dashboard is migrated to [[workplace-central-feat|Workplace Central]]. You can start using the migrated dashboards from Workplace Central. The out-of-the-box dashboards are also migrated to Workplace Central. Old dashboards are not supported for new Workplace Service Delivery customers. For existing customers, old dashboards are currently available but will be deprecated soon.
+The Workplace Case Management dashboard is migrated to Workplace Central. You can start using the migrated dashboards from Workplace Central. The out-of-the-box dashboards are also migrated to Workplace Central. Old dashboards are not supported for new Workplace Service Delivery customers. For existing customers, old dashboards are currently available but will be deprecated soon.
 
 \[Omitted image "workplace-case-dashboard.png"\] Alt text: Workplace case dashboard
 
-To access the Workplace Case dashboard, navigate to **All** &gt; **Workplace Central** &gt; **[[workplace-dashboards-wsd-core|Workplace Dashboards]]**.
+To access the Workplace Case dashboard, navigate to **All** &gt; **Workplace Central** &gt; **Workplace Dashboards**.
 
 ## End user and roles
 
@@ -70,11 +70,3 @@ sn\_wsd\_case.manager
 
 **Parent Topic:**[Manage Workplace Dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/workplace-dashboards-wsd-central.md)
 
-## Related
-
-- [[workplace-services|Workplace Services]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[workplace-services-portal-hr|Workplace Service Portal]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[workplace-central-feat|Workplace Central]]
-- [[workplace-dashboards-wsd-core|Workplace dashboards]]

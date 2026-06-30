@@ -14,7 +14,7 @@ breadcrumb: [Reference, Workplace Central, Workplace Service Delivery, Employee 
 
 # Move management key features and actions
 
-As a Move manager, fulfill move requests efficiently by logically grouping them in to move projects using the [[workplace-central-feat|Workplace Central]] [[move-mgmt|Move management]] workspace.
+As a Move manager, fulfill move requests efficiently by logically grouping them in to move projects using the Workplace Central Move management workspace.
 
 ## Move Management workspace
 
@@ -112,7 +112,3 @@ As a move manager, create, track, and work on move projects to fulfill multiple 
 
 [User Workplace Profile form]()
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]
-- [[move-mgmt|Move Management]]

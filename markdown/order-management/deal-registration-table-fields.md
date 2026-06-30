@@ -12,7 +12,7 @@ breadcrumb: [Partner Relationship Management reference, Reference, Sales Custome
 
 # Deal registration table fields
 
-Store the main details related to a deal submitted by a partner and track the life cycle of the deal through its stages on the [[deal-registration-management|deal registration]] \(sn\_prm\_dr\_deal\_registration\) table.
+Store the main details related to a deal submitted by a partner and track the life cycle of the deal through its stages on the deal registration \(sn\_prm\_dr\_deal\_registration\) table.
 
 <table id="table_j4s_gct_ghc"><thead><tr><th>
 
@@ -348,9 +348,5 @@ Domain id
 Domain to which the deal registration belongs
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[partner-relationship-management-reference|Partner Relationship Management reference]]
+</table>**Parent Topic:**[Partner Relationship Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/partner-relationship-management-reference.md)
 
-## Related
-
-- [[partner-relationship-management-reference|Partner Relationship Management reference]]
-- [[deal-registration-management|Deal Registration]]

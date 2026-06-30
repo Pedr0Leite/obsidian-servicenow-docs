@@ -22,7 +22,7 @@ Role required: sn\_dpr\_model.product\_manager
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[dpr-workspace|Digital Product Release Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Digital Product Release Workspace**.
 
 2.  Select the products and services icon \(\[Omitted image "dpr-icon-products.png"\] Alt text: Products and services icon.\).
 
@@ -62,6 +62,4 @@ Role required: sn\_dpr\_model.product\_manager
 
     2.  Select the **Select** button to upload and attach a file.
 
-## Related
 
-- [[dpr-workspace|Digital Product Release Workspace]]

@@ -14,11 +14,11 @@ breadcrumb: [Managing incidents, Incident Management, IT Service Management]
 
 # Use Microsoft Outlook to create incidents and VTB tasks
 
-[[create-an-incident|Create an incident]] or VTB task or chat with a virtual agent directly from within Microsoft Outlook using ServiceNow icons.
+Create an incident or VTB task or chat with a virtual agent directly from within Microsoft Outlook using ServiceNow icons.
 
 ## Before you begin
 
-You must activate and [[deploy-outlook-add-in|deploy the ServiceNow Add-in for Microsoft outlook]]. For more information, see [Configuring Microsoft Outlook to create incidents and VTB tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/create-incident-outlook.md)
+You must activate and deploy the ServiceNow Add-in for Microsoft outlook. For more information, see [Configuring Microsoft Outlook to create incidents and VTB tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/create-incident-outlook.md)
 
 Role required: none
 
@@ -26,7 +26,7 @@ Role required: none
 
 1.  On the Microsoft Outlook Home tab, click the **ServiceNow** icon \(\[Omitted image "outlook-add-in-icon.png"\] Alt text: OutlookAddInIcon\) and select **Create Incident** or **Create VTB Task**.
 
-2.  In the ServiceNow [[r_ITServiceManagement|IT Service Management]] pane, click **Login** and enter your ServiceNow credentials.
+2.  In the ServiceNow IT Service Management pane, click **Login** and enter your ServiceNow credentials.
 
     You may need to reauthenticate if your session has expired.
 
@@ -100,8 +100,4 @@ Category of incident.-   Inquiry / Help
 
 5.  To chat with a virtual agent, select the **Chat with Virtual Agent** UI action to open the chat window.
 
-## Related
 
-- [[create-an-incident|Create an incident]]
-- [[deploy-outlook-add-in|Deploy the ServiceNow Add-in for Microsoft Outlook]]
-- [[r_ITServiceManagement|IT Service Management]]

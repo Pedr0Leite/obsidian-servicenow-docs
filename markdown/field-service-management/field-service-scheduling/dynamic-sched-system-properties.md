@@ -14,7 +14,7 @@ breadcrumb: [Dynamic Scheduling, Setting up a Field Service scheduling method, C
 
 # Dynamic scheduling system properties
 
-Set up properties to customize the behavior and functionality of the [[dynamic-scheduling|dynamic scheduling]] process according to your organization's needs.
+Set up properties to customize the behavior and functionality of the dynamic scheduling process according to your organization's needs.
 
 The following properties allow you to control aspects such as the frequency of scheduling, automatic assignment, travel time calculations, and optimization iterations. Adjusting these properties helps optimize task assignments, improve efficiency, and align the dynamic scheduling process with your specific requirements.
 
@@ -177,11 +177,11 @@ com.snc.dynamic.scheduling.useWorkScheduleOnly
 
 </td><td>
 
-Controls whether dynamic scheduling and [[using-wfo-fsm|workforce optimization]] can fall back to the default work schedule when scheduling agents. When set to `true`, the scheduling engine does not fall back to the default work schedule. When set to `false`, the scheduling engine falls back to the default work schedule if an agent's work schedule expires or is unavailable.-   Type: true/false
+Controls whether dynamic scheduling and workforce optimization can fall back to the default work schedule when scheduling agents. When set to `true`, the scheduling engine does not fall back to the default work schedule. When set to `false`, the scheduling engine falls back to the default work schedule if an agent's work schedule expires or is unavailable.-   Type: true/false
 -   Default value: true
 
 </td></tr></tbody>
-</table>## [[dynamic-sched-task-window-dates|Work Order Task Start and End Dates]]
+</table>## Work Order Task Start and End Dates
 
 Dynamic scheduling uses **Window start date** and **Window end date** field values in the work order task to schedule tasks. Additionally, the system properties, business rules, and client scripts are considered during set up and configuration.
 
@@ -193,7 +193,7 @@ Dynamic scheduling uses **Window start date** and **Window end date** field valu
 -   If a task is created, the Window end date gets automatically populated based on the latest SLA breach date from its parent work order. The business rules Populate Window End Based On SLA for both Task SLA \[task\_sla\] and Work Order Task \[wm\_task\] tables, and the client script Calculate Window End has to be set to true.
 -   If a task is created and Fixed window is enabled, the business rules and client scripts doesn't execute and Window end time is not updated. If a work order is created based on an appointment and there is an SLA associated with the work order, the Window end time is populated based on the appointment and not on the SLA.
 
-The **Window start date** field gets updated based on the delivery date of the transfer order only for the work orders that are not assigned. The business rule **Sync up Delivery Time with WOT** has to be set to **True**. For multiple transfer orders containing mandatory [[c_PartRequirements|part requirements]], the **Window start date** is set to the latest delivery time of the transfer order\(s\). Window start date is updated based on transfer orders only when the part requirement associated with the transfer order is mandatory. However, you can manually edit the window start time and override the existing date that is populated based on the transfer order.
+The **Window start date** field gets updated based on the delivery date of the transfer order only for the work orders that are not assigned. The business rule **Sync up Delivery Time with WOT** has to be set to **True**. For multiple transfer orders containing mandatory part requirements, the **Window start date** is set to the latest delivery time of the transfer order\(s\). Window start date is updated based on transfer orders only when the part requirement associated with the transfer order is mandatory. However, you can manually edit the window start time and override the existing date that is populated based on the transfer order.
 
 **Note:** The Window start date is not updated if the work order task is one or more of the following:
 
@@ -208,9 +208,3 @@ The **Window start date** field gets updated based on the delivery date of the t
 
 [Configure dynamic scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/create-dynamic-scheduling-config.md)
 
-## Related
-
-- [[dynamic-scheduling|Dynamic scheduling]]
-- [[using-wfo-fsm|Workforce Optimization]]
-- [[dynamic-sched-task-window-dates|Work order task start and end dates]]
-- [[c_PartRequirements|Part requirements]]

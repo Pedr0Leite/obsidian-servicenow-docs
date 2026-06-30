@@ -14,7 +14,7 @@ breadcrumb: [Use, Recruitment Workspace, Hiring Experiences, HR Service Delivery
 
 # Manage hiring team
 
-Add, edit, or remove [[hiring-tab-concept|hiring]] team members from a job requisition.
+Add, edit, or remove hiring team members from a job requisition.
 
 **Parent Topic:**[Using Recruitment workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/use-recruit-workspace.md)
 
@@ -28,7 +28,7 @@ Role required: sn\_ta\_hiring\_core.recruiter, sn\_ta\_hiring\_core.recruitment\
 
 ### Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[recruitment-workspace-concept|Recruitment workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Recruitment workspace**.
 
 2.  Open the desired job requisition.
 
@@ -96,7 +96,4 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
 5.  Select **Remove**.
 
-## Related
 
-- [[hiring-tab-concept|Hiring]]
-- [[recruitment-workspace-concept|Recruitment workspace]]

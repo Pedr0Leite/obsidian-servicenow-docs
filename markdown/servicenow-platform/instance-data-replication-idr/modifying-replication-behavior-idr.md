@@ -14,7 +14,7 @@ breadcrumb: [Replicate data, Instance Data Replication, Manage instance data sou
 
 # Modifying replication behavior in Instance Data Replication
 
-Modify how data is replicated by configuring optional settings in [[instance-data-replication|Instance Data Replication]] \(IDR\).
+Modify how data is replicated by configuring optional settings in Instance Data Replication \(IDR\).
 
 ## Custom coalescing
 
@@ -55,7 +55,7 @@ Preserve producer values in system fields when replicating data in Instance Data
 
 To preserve the user name in an Activities entry, select the **Preserve Modified By** option on the Inbound Entry form on a consumer replication set.
 
-For example, the **[[c_WorkNotes|Work Notes]]** field is an Activity type in change request records. When a user updates a change request, the work note moves into the Activities stream.
+For example, the **Work Notes** field is an Activity type in change request records. When a user updates a change request, the work note moves into the Activities stream.
 
 -   If you do not select **Preserve Modified By**, Instance Data Replication appears in place of the user name in the consumer records.
 -   If you select **Preserve Modified By**, the user who updated the change request is identified in the entry and the system prepends IDR to their name.
@@ -82,7 +82,3 @@ Business rules are part of the ServiceNow AI Platform. For more information, see
 
 To run a business rule after replication, select the **Run Business Rule** option on the Inbound Entry form in a consumer replication set. IDR will invoke the business rules that are associated with the specified table after replicating the data to the table.
 
-## Related
-
-- [[instance-data-replication|Instance Data Replication]]
-- [[c_WorkNotes|Work notes]]

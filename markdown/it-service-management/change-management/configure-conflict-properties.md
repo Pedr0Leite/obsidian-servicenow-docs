@@ -14,7 +14,7 @@ breadcrumb: [Conflict detection, Configure, Change Management, IT Service Manage
 
 # Detect change conflicts
 
-Detect change conflicts by setting [[c_ITILChangeManagement|Change Management]] conflict analysis properties. Use the resulting information to calculate conflicts for change requests and review and modify the change to eliminate conflicts.
+Detect change conflicts by setting Change Management conflict analysis properties. Use the resulting information to calculate conflicts for change requests and review and modify the change to eliminate conflicts.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-By default, not all properties are selected in the Change Management Conflict Analysis Properties page. Modify or customize [[c_ConflictDetection|conflict detection]] capabilities to meet the needs of your organization.
+By default, not all properties are selected in the Change Management Conflict Analysis Properties page. Modify or customize conflict detection capabilities to meet the needs of your organization.
 
 ## Procedure
 
@@ -56,7 +56,7 @@ By default, not all properties are selected in the Change Management Conflict An
 
 Conflict detection includes properties that determine how the conflict detection capability is executed.
 
-Initiate properties without other [[settings-mobile|settings]] by setting the value to Yes.
+Initiate properties without other settings by setting the value to Yes.
 
 **Note:** You can determine the mechanism for conflict detection. You can choose between the Flow and Progress Worker options by updating the **change.conflict.useprogressworker** system property. It is set to false by default.
 
@@ -138,7 +138,7 @@ Checks whether the change request of the parent CI falls within the maintenance 
 
 </td><td>
 
-Checks whether the change request falls within the scheduled maintenance defined for the CI in the maintenance schedule [[reference-for-itsm-mobile-agent|reference]] field.
+Checks whether the change request falls within the scheduled maintenance defined for the CI in the maintenance schedule reference field.
 
 </td></tr><tr><td>
 
@@ -265,10 +265,3 @@ The maximum number of conflict records that can be generated for each conflict t
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]
-- [[c_ConflictDetection|Conflict detection]]
-- [[settings-mobile|Settings]]
-- [[reference-for-itsm-mobile-agent|Reference]]

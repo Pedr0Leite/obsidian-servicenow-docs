@@ -22,7 +22,7 @@ You can create a timeline sub item generate a hierarchical relationship, startin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System UI** &gt; **[[c_TimelinePages|Timeline Pages]]**.
+1.  Navigate to **All** &gt; **System UI** &gt; **Timeline Pages**.
 
 2.  Open the timeline page for which you want to add a sub item.
 
@@ -80,7 +80,7 @@ Select a time-related field from the specified table to use as the end date for 
 
 </td></tr><tr><td>
 
-Parent [[reference-email-admin|Reference]] Column
+Parent Reference Column
 
 </td><td>
 
@@ -126,7 +126,7 @@ Condition builder
 
 </td><td>
 
-Create a condition to filter the [[hs-results|results]] that appear in the sub item. For example, you might create a condition that displays only active, high priority incidents.
+Create a condition to filter the results that appear in the sub item. For example, you might create a condition that displays only active, high priority incidents.
 
 </td></tr><tr><td>
 
@@ -195,8 +195,3 @@ Specify the behavior when you drag a child span. This option is available only i
 </table>
 **Parent Topic:**[Timeline pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_TimelinePages.md)
 
-## Related
-
-- [[c_TimelinePages|Timeline pages]]
-- [[reference-email-admin|Reference]]
-- [[hs-results|Results]]

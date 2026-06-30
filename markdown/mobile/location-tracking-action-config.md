@@ -20,13 +20,13 @@ Enable geolocation features on your instance by activating the Geolocation plugi
 
 To enable the action-based location tracking option, ensure that you have the Mobile Location Tracking plugin \[com.glide.sg.location.tracking\] installed.
 
-You must have a preconfigured action item before you can configure the action-based tracking option. For more information, see [[sg-studio-create-action-item|Configure an action item]].
+You must have a preconfigured action item before you can configure the action-based tracking option. For more information, see [Configure an action item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-studio-create-action-item.md).
 
-You need preconfigured [[mobile-actions|action functions]] for users to tap within their mobile device. For more information, see [[sg-studio-config-action-function|Configure an action function]].
+You need preconfigured action functions for users to tap within their mobile device. For more information, see [Configure an action function](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-studio-config-action-function.md).
 
 **Note:**
 
--   Action-based location tracking is supported on both the [[mobile-experience|Mobile Agent app]] and the [[now-mobile-app|Now Mobile app]].
+-   Action-based location tracking is supported on both the Mobile Agent app and the Now Mobile app.
 -   Only a start action function is needed in a scenario where you want tracking to start for a defined number of hours, after the user taps a button.
 
 Role required: admin
@@ -99,13 +99,5 @@ Starts a location tracking session.**Note:** If you select the Start option, the
 7.  Right-click in the header and select **Save**, to save your action function settings.
 
 
-**Parent Topic:**[[location-tracking-enable|Enabling and selecting location tracking options]]
+**Parent Topic:**[Enabling and selecting location tracking options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/location-tracking-enable.md)
 
-## Related
-
-- [[sg-studio-create-action-item|Configure an action item]]
-- [[sg-studio-config-action-function|Configure an action function]]
-- [[location-tracking-enable|Enabling and selecting location tracking options]]
-- [[mobile-actions|Action functions]]
-- [[mobile-experience|Mobile Agent app]]
-- [[now-mobile-app|Now Mobile app]]

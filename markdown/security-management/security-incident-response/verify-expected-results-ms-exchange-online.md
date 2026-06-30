@@ -22,9 +22,9 @@ Role required: sn\_si.analyst
 
 ## About this task
 
-The status of individual messages that match the search query and the results of the search are reported on the security incident record. If [[tisc-email-notifications|email notifications]] are enabled, you can view the search results from an email message.
+The status of individual messages that match the search query and the results of the search are reported on the security incident record. If email notifications are enabled, you can view the search results from an email message.
 
-Search criteria may include message sender addresses, recipient addresses, or subject names. The following combinations of message Subject, Sender, and Recipient search parameters are often used for finding phishing-related email messages that may be part of a single phish [[campaign|campaign]]:
+Search criteria may include message sender addresses, recipient addresses, or subject names. The following combinations of message Subject, Sender, and Recipient search parameters are often used for finding phishing-related email messages that may be part of a single phish campaign:
 
 -   Find all original emails sent by a phishing account: Search by sender.
 -   Find all original emails for a single phishing campaign: Search by subject and sender.
@@ -58,7 +58,7 @@ Search criteria may include message sender addresses, recipient addresses, or su
 
 4.  In the Email Search related list, select **New** to create a new email search record.
 
-    The Email Search form is displayed. If you determine that you want to rerun this search query for the same phishing-related incident with minor modifications, you can use this search query record again. However, it is unlikely that you would use this search for a different phishing-related incident, because phishing [[threat-intelligence-campaigns|campaigns]] are dynamic and the sender and message fields often change.
+    The Email Search form is displayed. If you determine that you want to rerun this search query for the same phishing-related incident with minor modifications, you can use this search query record again. However, it is unlikely that you would use this search for a different phishing-related incident, because phishing campaigns are dynamic and the sender and message fields often change.
 
 5.  To edit an existing search query record, select **Edit**.
 
@@ -284,8 +284,3 @@ Delete this Email Search record from your ServiceNow AI Platform instance. This 
 
 **Next topic:**[Request delete approval for emails on Microsoft Exchange online service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/ms-delete-email.md)
 
-## Related
-
-- [[tisc-email-notifications|Email Notifications]]
-- [[campaign|Campaign]]
-- [[threat-intelligence-campaigns|Campaigns]]

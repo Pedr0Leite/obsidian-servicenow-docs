@@ -29,13 +29,13 @@ Role required: asset
 
 **Important:** This Now Assist skill is turned on by default. The skill will be automatically available to appropriate role users for the application. For more information, see [Now Assist skills, agents, and agentic workflows on by default](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills-on-by-default.md).
 
-The Generate hardware asset insights generative AI skill generates comprehensive asset analysis summaries by aggregating data from related records. These summaries provide insights into the asset lifecycle, chain of custody, audit status, and financial metrics to support key [[am-landing-page|asset management]] activities. The level of detail in the summary depends on the amount of data available for that specific asset. The summary dynamically updates based on asset state and includes context from any active incidents, change requests, or tasks. To maintain data integrity and streamline workflows, the skill highlights missing information and lists specific action items.
+The Generate hardware asset insights generative AI skill generates comprehensive asset analysis summaries by aggregating data from related records. These summaries provide insights into the asset lifecycle, chain of custody, audit status, and financial metrics to support key asset management activities. The level of detail in the summary depends on the amount of data available for that specific asset. The summary dynamically updates based on asset state and includes context from any active incidents, change requests, or tasks. To maintain data integrity and streamline workflows, the skill highlights missing information and lists specific action items.
 
 **Note:** You can view incident and change request details in the summary only if the asset role is provisioned with read access to the Incident \[incident\] and Change Request \[change\_request\] tables.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Hardware Asset Workspace**.
 
 2.  Select the **Hardware assets** tab.
 
@@ -55,7 +55,7 @@ The Generate hardware asset insights generative AI skill generates comprehensive
 
 [Work with hardware normalization]()
 
-[Manage [[asset-bundles-concept|asset bundles]] from your inventory]()
+[Manage asset bundles from your inventory]()
 
 [Manage your inventory through pallet assets]()
 
@@ -77,13 +77,13 @@ The Generate hardware asset insights generative AI skill generates comprehensive
 
 [Request a Hardware Asset Refresh]()
 
-[Manage your expiring [[c_Contracts|contracts]] for leased hardware assets]()
+[Manage your expiring contracts for leased hardware assets]()
 
 [Reclaim hardware assets]()
 
 [View RFID information of assets]()
 
-[Manage the lifecycle of hardware [[c_Models|models]] with calculated lifecycle templates]()
+[Manage the lifecycle of hardware models with calculated lifecycle templates]()
 
 [Create an internal lifecycle in the Hardware Asset Workspace]()
 
@@ -101,7 +101,7 @@ The Generate hardware asset insights generative AI skill generates comprehensive
 
 [Configure the Total Cost of Ownership of assets]()
 
-[Manage [[ham-landing-page|Hardware Asset Management]] subscriptions]()
+[Manage Hardware Asset Management subscriptions]()
 
 [Manage repair of defective assets in your stockroom in the Hardware Asset Workspace]()
 
@@ -117,11 +117,3 @@ The Generate hardware asset insights generative AI skill generates comprehensive
 
 [Update associated Decision tables for HAM flows]()
 
-## Related
-
-- [[am-landing-page|Asset Management]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[asset-bundles-concept|Asset bundles]]
-- [[c_Contracts|Contracts]]
-- [[c_Models|Models]]
-- [[ham-landing-page|Hardware Asset Management]]

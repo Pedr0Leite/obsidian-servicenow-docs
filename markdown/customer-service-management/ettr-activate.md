@@ -20,11 +20,11 @@ Role required: admin
 
 ## About this task
 
-The Time to resolve ribbon component is available by default and can be displayed in both CSM Agent Workspace and [[csm-workspaces-configure|CSM Configurable Workspace]]. You must activate the component in CSM Agent Workspace before you activate it in CSM Configurable Workspace.
+The Time to resolve ribbon component is available by default and can be displayed in both CSM Agent Workspace and CSM Configurable Workspace. You must activate the component in CSM Agent Workspace before you activate it in CSM Configurable Workspace.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Workspace Experience** &gt; **[[migration-forms|Forms]]** &gt; **Workspace Ribbon Settings**.
+1.  Navigate to **All** &gt; **Workspace Experience** &gt; **Forms** &gt; **Workspace Ribbon Settings**.
 
 2.  Select any record that has the table value **Case \[sn\_customerservice\_case\]**.
 
@@ -43,7 +43,3 @@ The Time to resolve ribbon component is available by default and can be displaye
     -   You can see that the Solution name is pre-filled with the default name.
     -   The same procedure applies to activate the **ETTR Experience Card** in the CSM Configurable Workspace. You must activate the **ETTR Experience Card** in the CSM Agent Workspace before activating it in the CSM Configurable Workspace. Navigate to **User Experience Framework** &gt; **Ribbon Configuration Settings** and activate. The **Ribbon Component Attributes** section is not available for modifying.
 
-## Related
-
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[migration-forms|Forms]]

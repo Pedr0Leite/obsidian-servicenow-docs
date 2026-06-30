@@ -12,7 +12,7 @@ breadcrumb: [Configure the Matrix Loader, CPQ app, Configure, price, quote apps,
 
 # Matrix Loader CSV fields and field options upload and export
 
-Use the [[matrix_loader_table_of_contents|Matrix Loader]] to bulk create, edit, and export [[fields|fields]], field options, and [[product_picker_overview|product pickers]] in CPQ. Define data in CSV files with supported columns and formats, then upload or download them for faster configuration management and environment migration.
+Use the Matrix Loader to bulk create, edit, and export fields, field options, and product pickers in CPQ. Define data in CSV files with supported columns and formats, then upload or download them for faster configuration management and environment migration.
 
 ## CSV fields upload
 
@@ -228,7 +228,7 @@ The fields upload explainer file shows the variety of fields and field parameter
 
 **Note:** This fileʼs content is not intended to be uploaded to a environment as is. Instead, use the format examples to build an upload file that meets the requirements of your current project, export it to CSV format, and upload it to your environment by using the Matrix Loader.
 
-Just as fields added via the Admin UI must be associated with one or more [[blueprints|blueprints]], so must fields that are added in bulk via the Matrix Loader. For instructions, see [[cpq-associate-field-with-a-blueprint|Associate a field with a blueprint]].
+Just as fields added via the Admin UI must be associated with one or more blueprints, so must fields that are added in bulk via the Matrix Loader. For instructions, see [Associate a field with a blueprint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-associate-field-with-a-blueprint.md).
 
 ## CSV fields export
 
@@ -435,16 +435,7 @@ To export a product picker, click fields in CPQ Admin. Click **Product Pickers**
 **Related topics**  
 
 
-[[matrix_loader_csv_rules_upload|Matrix Loader: CSV rules upload]]
+[Matrix Loader: CSV rules upload](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/matrix_loader_csv_rules_upload.md)
 
-[[cpq-matrix-loader-csv-table-upload|Matrix Loader: CSV table upload]]
+[Matrix Loader: CSV table upload](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-matrix-loader-csv-table-upload.md)
 
-## Related
-
-- [[cpq-associate-field-with-a-blueprint|Associate a field with a blueprint]]
-- [[matrix_loader_csv_rules_upload|matrix_loader_csv_rules_upload]]
-- [[cpq-matrix-loader-csv-table-upload|cpq matrix loader csv table upload]]
-- [[matrix_loader_table_of_contents|Matrix Loader]]
-- [[fields|Fields]]
-- [[product_picker_overview|Product pickers]]
-- [[blueprints|Blueprints]]

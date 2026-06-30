@@ -13,31 +13,21 @@ breadcrumb: [Using other Now Assist applications from Now Assist Center, Use, No
 
 # Using Now Assist Admin console features in Now Assist Center
 
-Access [[platform-now-assist-landing|Now Assist]] Admin console features in the [[now-assist-center-workspace|Now Assist Center workspace]].
+Access Now Assist Admin console features in the Now Assist Center workspace.
 
--   **[[now-assist-center-configure-admin-settings|Configure Now Assist settings in Now Assist Center]]**
+-   **[Configure Now Assist settings in Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-configure-admin-settings.md)**
 
     Use Now Assist Admin console configuration features on the Now Assist Admin page in the Now Assist Center workspace.
 
--   **[[now-assist-center-view-ai-usage|View AI assets usage and performance in Now Assist Center]]**
+-   **[View AI assets usage and performance in Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-view-ai-usage.md)**
 
-    Use [[now-assist-center-landing-page|Now Assist Center]] to view dashboards showing the usage and performance of your [[ai-assets|AI assets]].
+    Use Now Assist Center to view dashboards showing the usage and performance of your AI assets.
 
 
 -   **[Configure Now Assist settings in Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-configure-admin-settings.md)**  
 Use Now Assist Admin console configuration features on the Now Assist Admin page in the Now Assist Center workspace.
--   **[[now-assist-center-activate-now-assist-skill|Activate a Now Assist skill in Now Assist Center]]**  
+-   **[Activate a Now Assist skill in Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-activate-now-assist-skill.md)**  
 Activate a Now Assist skill in Now Assist Center.
 
-**Parent Topic:**[[now-assist-center-using-other-applications|Using other Now Assist applications and features from Now Assist Center]]
+**Parent Topic:**[Using other Now Assist applications and features from Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-using-other-applications.md)
 
-## Related
-
-- [[now-assist-center-configure-admin-settings|Configure Now Assist settings in Now Assist Center]]
-- [[now-assist-center-view-ai-usage|View AI assets usage and performance in Now Assist Center]]
-- [[now-assist-center-activate-now-assist-skill|Activate a Now Assist skill in Now Assist Center]]
-- [[now-assist-center-using-other-applications|Using other Now Assist applications and features from Now Assist Center]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-center-workspace|Now Assist Center workspace]]
-- [[now-assist-center-landing-page|Now Assist Center]]
-- [[ai-assets|AI assets]]

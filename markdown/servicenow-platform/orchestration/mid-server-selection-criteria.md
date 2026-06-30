@@ -14,18 +14,14 @@ breadcrumb: [MID Servers for Orchestration, Classic Orchestration, ServiceNow AI
 
 # Select the default MID Server for Orchestration
 
-Orchestration uses the default [[mid-server-landing|MID Server]] if it cannot find a MID Server with the correct IP range and capability.
+Orchestration uses the default MID Server if it cannot find a MID Server with the correct IP range and capability.
 
 Specify the default MID Server in either of these locations:
 
 -   The **Default MID Server** field on the Orchestration application record. See [Configure a default MID Server for each application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/t_SpecifyMIDServerApplications.md) for instructions.
--   The **Default MID Server to use for Orchestration Activities** property. Navigate to **Orchestration** &gt; **[[r_MIDServerProperties|MID Server Properties]]** to set this value.
+-   The **Default MID Server to use for Orchestration Activities** property. Navigate to **Orchestration** &gt; **MID Server Properties** to set this value.
 
 These two values are automatically kept in synch. You can change the default MID Server in either location.
 
 **Parent Topic:**[MID Servers for Orchestration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchestrationMID.md)
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[r_MIDServerProperties|MID Server properties]]

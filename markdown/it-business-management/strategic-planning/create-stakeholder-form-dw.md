@@ -22,11 +22,8 @@ The stakeholder form information is used to create a stakeholder record for the 
 |Demand|Demand to which the stakeholder is assigned.|
 |Level of Interest|Level of interest that the stakeholder has in pursuing the demand.|
 |Assessment recipient|Indication of whether the stakeholder is authorized to receive assessment questionnaires for a demand.|
-|Approver|Indication of whether the stakeholder has authority to [[approve-demands-ppw|approve demands]].|
+|Approver|Indication of whether the stakeholder has authority to approve demands.|
 |Influence|Level of influence the stakeholder has over the group assessing the demand.|
 |Engagement|Indication of the way the stakeholder is engaged with the demand.|
 |Function|Function of the stakeholder in the demand process.|
 
-## Related
-
-- [[approve-demands-ppw|Approve demands]]

@@ -18,7 +18,7 @@ The Introduction to Instance Readiness Assessment Accelerator provides guidance 
 
 ## Accelerator overview
 
-Introduction to Instance Readiness Assessment provides [[impact-landing-page|Impact]] customers with an overview of Instance Readiness Assessment.  This proactive approach helps you effectively address issues by guiding you on interpreting findings to enhance instance readiness. This Accelerator highlights the results of the Instance Readiness Assessment, providing key resources and leading  practices for getting started.
+Introduction to Instance Readiness Assessment provides Impact customers with an overview of Instance Readiness Assessment.  This proactive approach helps you effectively address issues by guiding you on interpreting findings to enhance instance readiness. This Accelerator highlights the results of the Instance Readiness Assessment, providing key resources and leading  practices for getting started.
 
 ## Package Availability
 
@@ -60,6 +60,3 @@ This Impact Accelerator in its entirety or portions of the Impact Accelerator ac
 
 ServiceNow resources are not responsible for implementing recommendations on the customer's sub-production or production instances.
 
-## Related
-
-- [[impact-landing-page|Impact]]

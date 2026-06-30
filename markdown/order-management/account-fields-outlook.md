@@ -29,14 +29,10 @@ Field descriptions for viewing or editing an account record from the ServiceNow 
 |Zip / Postal code|Postal or ZIP code for the account address.|
 |Country|Country where the account is located.|
 
-**Parent Topic:**[[activity-management-reference|Activity Management reference]]
+**Parent Topic:**[Activity Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/activity-management-reference.md)
 
 **Related topics**  
 
 
-[[associate-email-crm-outlook|Associate an email with an existing CRM record]]
+[Associate an email with an existing CRM record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/associate-email-crm-outlook.md)
 
-## Related
-
-- [[activity-management-reference|Activity Management reference]]
-- [[associate-email-crm-outlook|Associate an email with an existing CRM record]]

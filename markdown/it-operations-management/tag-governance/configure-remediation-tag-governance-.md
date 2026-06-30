@@ -14,7 +14,7 @@ breadcrumb: [Establishing Tag Governance policies, Using Tag Governance, Tag Gov
 
 # Configure remediation policies on tag audit findings
 
-Configure and preview [[ccg-remediation|remediation]] options, generate keys, and perform actions to remediate non-compliance or failures that are based on tag audit reports.
+Configure and preview remediation options, generate keys, and perform actions to remediate non-compliance or failures that are based on tag audit reports.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_itom\_tag.tag\_governance\_admin, admin
 
 ## About this task
 
-You can [[ccg-run-remediation|run remediation]] automatically if you map a remediation policy to a tag policy. You can also update the tags of non-compliant CIs at the cloud provider's end in real time.
+You can run remediation automatically if you map a remediation policy to a tag policy. You can also update the tags of non-compliant CIs at the cloud provider's end in real time.
 
 Configure remediation policies and logic and also enable updating tags on cloud resources associated with the following CMDB classes:
 
@@ -44,7 +44,7 @@ The list of CMDB classes for which you can update tags on CIs in the CMDB as wel
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[landing-page-tag-governance|Tag Governance]]** &gt; **Remediation**.
+1.  Navigate to **All** &gt; **Tag Governance** &gt; **Remediation**.
 
 2.  Select **New** to create a new record.
 
@@ -57,7 +57,7 @@ The list of CMDB classes for which you can update tags on CIs in the CMDB as wel
 5.  In the Tag Policies list, configure a remediation policy in one of the following ways:
 
     -   Select an existing tag policy from the lookup list.
-    -   Select **New**. Fill in fields on the [[tag-gov-tag-policies-form|Tag Policies form]] \(the fields are described in [Tag Policies form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/tag-governance/tag-gov-tag-policies-form.md).
+    -   Select **New**. Fill in fields on the Tag Policies form \(the fields are described in [Tag Policies form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/tag-governance/tag-gov-tag-policies-form.md).
 
         **Note:** If you are creating a new tag policy, you must run an audit before you can run remediation flows.
 
@@ -75,9 +75,4 @@ The list of CMDB classes for which you can update tags on CIs in the CMDB as wel
 
     The remediation policy is configured. The Tag Remediations list opens.
 
-## Related
 
-- [[ccg-remediation|Remediation]]
-- [[ccg-run-remediation|Run remediation]]
-- [[landing-page-tag-governance|Tag Governance]]
-- [[tag-gov-tag-policies-form|Tag Policies form]]

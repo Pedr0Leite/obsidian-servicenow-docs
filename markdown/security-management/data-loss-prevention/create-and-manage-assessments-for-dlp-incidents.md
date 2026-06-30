@@ -25,7 +25,7 @@ Role required:
 
 ## About this task
 
-DLP incident assessments help you identify potential threats and [[vulnerabilities|vulnerabilities]] to your data based on the end-user response. You can use this information to determine your end users' existing gaps, concerns, and expectations.
+DLP incident assessments help you identify potential threats and vulnerabilities to your data based on the end-user response. You can use this information to determine your end users' existing gaps, concerns, and expectations.
 
 ## Procedure
 
@@ -80,7 +80,7 @@ DLP incident assessments help you identify potential threats and [[vulnerabiliti
 
 [Create email templates]()
 
-[Create a [[dlp-landing|Data Loss Prevention Incident Response]] SLA trigger]()
+[Create a Data Loss Prevention Incident Response SLA trigger]()
 
 [Create a Data Loss Prevention Incident Response SLA definition]()
 
@@ -106,7 +106,3 @@ DLP incident assessments help you identify potential threats and [[vulnerabiliti
 
 [DLP Incidents Archival]()
 
-## Related
-
-- [[vulnerabilities|Vulnerabilities]]
-- [[dlp-landing|Data Loss Prevention Incident Response]]

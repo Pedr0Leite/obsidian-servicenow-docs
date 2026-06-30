@@ -14,7 +14,7 @@ breadcrumb: [Evaluation projects, Explore, Process Mining, Platform Analytics]
 
 # Run the Process Mining evaluation project
 
-Run the Process Mining evaluation project to familiarize with improving your process with [[process-mining|Process Mining]] capability.
+Run the Process Mining evaluation project to familiarize with improving your process with Process Mining capability.
 
 ## Before you begin
 
@@ -38,7 +38,7 @@ The only criteria to run a Process Mining evaluation project is to have access t
 
 ## About this task
 
-You can run an evaluation project from [[analyst-workbench-overview|Process Mining Workspace]] and [[c_performanceAnalyticsAndReporting|Platform Analytics]].
+You can run an evaluation project from Process Mining Workspace and Platform Analytics.
 
 ## Procedure
 
@@ -62,14 +62,8 @@ You can run an evaluation project from [[analyst-workbench-overview|Process Mini
 
         You will be able to view the records of the last 7 days and a maximum of 3600 records.
 
-        **Note:** To know more about the [[evaluate-pm|evaluation projects]] available in Process Mining, see [Process Mining evaluation project for Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/evaluation-pm-inci-manag.md), [Process Mining evaluation project for Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/evaluation-pm-csm.md), and [Process Mining evaluation project for Human Resources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/evaluation-pm-hr.md).
+        **Note:** To know more about the evaluation projects available in Process Mining, see [Process Mining evaluation project for Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/evaluation-pm-inci-manag.md), [Process Mining evaluation project for Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/evaluation-pm-csm.md), and [Process Mining evaluation project for Human Resources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/evaluation-pm-hr.md).
 
 
 **Parent Topic:**[Evaluation projects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/evaluate-pm.md)
 
-## Related
-
-- [[process-mining|Process Mining]]
-- [[analyst-workbench-overview|Process Mining workspace]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[evaluate-pm|Evaluation projects]]

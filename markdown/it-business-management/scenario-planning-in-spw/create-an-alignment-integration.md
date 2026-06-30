@@ -14,7 +14,7 @@ breadcrumb: [Configuring Strategic Planning with PPM, Agile 2.0, and SAFe, Confi
 
 # Create an alignment integration
 
-Once you have [[alignment-planner-workspace-landing-page|Strategic Planning]] installed, the **ServiceNow Internal** Alignment integration is created by default. In case the alignment integration is not available, you can create your alignment integration type.
+Once you have Strategic Planning installed, the **ServiceNow Internal** Alignment integration is created by default. In case the alignment integration is not available, you can create your alignment integration type.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: admin
 
 2.  Verify if the **Servicenow Internal** alignment integration exists.
 
-3.  If not, click **New** to [[create-alignment-integration-ppw|create an alignment integration]].
+3.  If not, click **New** to create an alignment integration.
 
 4.  In the **Name** field, enter the name of the alignment integration.
 
@@ -34,7 +34,4 @@ Role required: admin
 
 5.  Click **Submit**.
 
-## Related
 
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[create-alignment-integration-ppw|Create an alignment integration]]

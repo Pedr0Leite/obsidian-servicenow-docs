@@ -12,11 +12,11 @@ breadcrumb: [Transaction Manager: Fields, Transaction Manager, CPQ app, Configur
 
 # Transaction Manager: Line-level system fields
 
-Learn about the [[transaction-manager-fields|Transaction Manager fields]] that provide information about a product, including price, product details, and order information.
+Learn about the Transaction Manager fields that provide information about a product, including price, product details, and order information.
 
-The [[fields|fields]] available in Transaction Manager are categorized into two levels in the user interface \(UI\):
+The fields available in Transaction Manager are categorized into two levels in the user interface \(UI\):
 
--   Transaction-level fields: Also known as header-level fields, these fields provide general information about the transaction, such as the quote number, opportunity details, and account information. For more information about transaction-level fields, see [[transaction-manager-transaction-header-level-system-fields|Transaction Manager: Transaction-level system fields]].
+-   Transaction-level fields: Also known as header-level fields, these fields provide general information about the transaction, such as the quote number, opportunity details, and account information. For more information about transaction-level fields, see [Transaction Manager: Transaction-level system fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/transaction-manager-transaction-header-level-system-fields.md).
 -   Transaction line-level fields: Also referred to as line-level fields, these fields capture specific information about the products associated with the transaction lines, including price, product details, and order information.
 
 ## System-provided fields in Transaction Manager
@@ -37,7 +37,7 @@ Columns:
 -   Variable name: The system-defined name of the field as configured in the environment
 -   Description: A brief overview of the purpose and use case of the system field
 -   Modifiable by: Indicates who can edit the field configurations:
-    -   System: Only the System Administrator can [[Modify|modify]] the field
+    -   System: Only the System Administrator can modify the field
     -   User: Any authorized end user with the appropriate permissions can update the field configurations
 -   Default value: The initial value assigned to the system field, specifying what can be set as the default during configuration
 
@@ -155,7 +155,7 @@ txn.line.product.externalId
 
 </td><td>
 
-External ID of the product to be added \(defined in the CPQ Admin [[cpq-utilities|utilities]]\)
+External ID of the product to be added \(defined in the CPQ Admin utilities\)
 
 </td><td>
 
@@ -721,18 +721,9 @@ System
 </table>**Related topics**  
 
 
-[[transaction-manager|Transaction Manager]]
+[Transaction Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/transaction-manager.md)
 
 [Transaction Manager: Transaction-level system fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/transaction-manager-transaction-header-level-system-fields.md)
 
-[[transaction-manager-date-and-time-fields|Transaction Manager: Date and time fields]]
+[Transaction Manager: Date and time fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/transaction-manager-date-and-time-fields.md)
 
-## Related
-
-- [[transaction-manager-transaction-header-level-system-fields|transaction manager transaction header level system fields]]
-- [[transaction-manager|Transaction Manager]]
-- [[transaction-manager-date-and-time-fields|transaction manager date and time fields]]
-- [[transaction-manager-fields|transaction manager fields]]
-- [[fields|Fields]]
-- [[Modify|Modify]]
-- [[cpq-utilities|Utilities]]

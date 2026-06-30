@@ -19,8 +19,8 @@ You can install the Conversational Integration with Slack \(sn\_va\_slack\) appl
 ## Before you begin
 
 -   Ensure that the application and all of its associated ServiceNow Store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
--   If you're using an earlier release of [[virtual-agent-landing-page|Virtual Agent]], you must upgrade to the Australia release to use the features supported in this channel integration.
--   [[mssg-slack|Conversational Integration with Slack]] requires the Glide Virtual Agent plugin \(com.glide.cs.chatbot\) to activate full functionality in Virtual Agent or the [[va-lite|Virtual Agent Lite]] plugin \(com.glide.cs.chatbot.lite\) to activate a limited version of Virtual Agent. Activate the appropriate plugin before you install the integration.
+-   If you're using an earlier release of Virtual Agent, you must upgrade to the Australia release to use the features supported in this channel integration.
+-   Conversational Integration with Slack requires the Glide Virtual Agent plugin \(com.glide.cs.chatbot\) to activate full functionality in Virtual Agent or the Virtual Agent Lite plugin \(com.glide.cs.chatbot.lite\) to activate a limited version of Virtual Agent. Activate the appropriate plugin before you install the integration.
 -   Install the Conversational Integration with Slack app from the ServiceNow® Store.
 
     **Important:** Installing the Conversational Integration with Slack app from the ServiceNow Store activates the app for integration on your ServiceNow instance. If you have not installed the integration app, the Slack app is listed in the Available Channels section.
@@ -50,7 +50,7 @@ Review these guidelines for using Virtual Agent with Slack or with Slack Enterpr
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings**.
 
 2.  On the **General** settings page, under the **Channels and routing** section, select **View all** next to **Channels**.
 
@@ -79,9 +79,3 @@ Review these guidelines for using Virtual Agent with Slack or with Slack Enterpr
 
 **Parent Topic:**[Integrating ServiceNow Virtual Agent with Slack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-integ-slack.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[mssg-slack|Conversational Integration with Slack]]
-- [[va-lite|Virtual Agent Lite]]
-- [[convint-landing-page|Conversational Interfaces]]

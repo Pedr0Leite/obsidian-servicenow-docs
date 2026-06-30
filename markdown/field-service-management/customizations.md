@@ -33,8 +33,5 @@ The following KB article covers:
 
 For detailed information, see [https://support.servicenow.com/kb?sys\_kb\_id=ffed91cd93ff2690f538fb2d6cba1047&amp;id=kb\_article\_view](https://support.servicenow.com/kb?sys_kb_id=ffed91cd93ff2690f538fb2d6cba1047&id=kb_article_view).
 
-**Parent Topic:**[[r_ScriptIncInstWFieldSrvMgmnt|Script includes installed with Field Service Management]]
+**Parent Topic:**[Script includes installed with Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/r_ScriptIncInstWFieldSrvMgmnt.md)
 
-## Related
-
-- [[r_ScriptIncInstWFieldSrvMgmnt|Script includes installed with Field Service Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Configuring LEAP, Learning Enhanced Automation Platform \(LEAP\), N
 
 # Install LEAP
 
-You can install the LEAP application using Now Assist for [[r_ITOMApplications|IT Operations Management]] \(ITOM\) \(sn\_itom\_gen\_ai\) if you have the admin role. The application installs related ServiceNow® Store applications and plug-ins if they aren’t already installed.
+You can install the LEAP application using Now Assist for IT Operations Management \(ITOM\) \(sn\_itom\_gen\_ai\) if you have the admin role. The application installs related ServiceNow® Store applications and plug-ins if they aren’t already installed.
 
 ## Before you begin
 
@@ -37,7 +37,7 @@ For more information, see [Components installed with LEAP](https://raw.githubuse
 
 1.  Go to the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) website.
 
-2.  In the search bar, enter `[[now-assist-itom|Now Assist for ITOM]]` and then select **Search**.
+2.  In the search bar, enter `Now Assist for ITOM` and then select **Search**.
 
 3.  Select the Now Assist for ITOM widget and then select **Get** to make this application available for installation on your instances.
 
@@ -49,7 +49,4 @@ For more information, see [Components installed with LEAP](https://raw.githubuse
 
     3.  Select **Install**.
 
-## Related
 
-- [[r_ITOMApplications|IT Operations Management]]
-- [[now-assist-itom|Now Assist for ITOM]]

@@ -15,7 +15,7 @@ breadcrumb: [Use generative AI, Now Assist for CSM, Customer Service Management]
 
 # Generate a knowledge article from the CSM Configurable Workspace and classic environment with Now Assist
 
-Generate the knowledge articles for resolved and closed cases within the [[csm-workspaces-configure|CSM Configurable Workspace]] and classic environment with Now Assist.
+Generate the knowledge articles for resolved and closed cases within the CSM Configurable Workspace and classic environment with Now Assist.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Verify that [Configure knowledge generation](https://raw.githubusercontent.com/S
 **Important:**
 
 -   -   For Now Assist panel, if property sn\_customerservice.enable\_knowledge\_kcs and KCS Article Template is not enabled then it will create article using standard template for cases.
--   For Core UI / Workspace, if sn\_customerservice.enable\_knowledge\_kcs and KCS Article Template is not enabled then it will not show **Create Knowledge** button on [[r_CustomerServiceCaseForm|case form]].
+-   For Core UI / Workspace, if sn\_customerservice.enable\_knowledge\_kcs and KCS Article Template is not enabled then it will not show **Create Knowledge** button on case form.
 
 Make sure that your administrator enables Now Assist experience on the Create Article page to confirm that the following knowledge base generation criteria is configured:
 
@@ -110,7 +110,3 @@ The Create Knowledge UI action is available to the customer service agents who h
 
 [Now Assist in Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-knowledge-management.md)
 
-## Related
-
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[r_CustomerServiceCaseForm|Case form]]

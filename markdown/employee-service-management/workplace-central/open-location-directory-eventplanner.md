@@ -14,15 +14,15 @@ breadcrumb: [Working with Event planner, Use, Workplace Central, Workplace Servi
 
 # Open and view Location directory from Event Planner
 
-Open and view the location directory portal from the [[event-planner|Event planner]] home page and the Scheduled view.
+Open and view the location directory portal from the Event planner home page and the Scheduled view.
 
 ## Before you begin
 
 Verify that the following applications are installed:
 
--   [[workplace-safety-mgmt-hr|Workplace Core]]
--   [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
--   [[Indoor-mapping|Indoor Mapping]]
+-   Workplace Core
+-   Workplace Reservation Management
+-   Indoor Mapping
 
     **Note:** If Indoor Mapping is not installed, the option to open and view Location directory is not available on the Event planner home page.
 
@@ -30,13 +30,13 @@ Verify that the following applications are installed:
 -   Workplace Indoor Mapping
 -   Workplace Indoor Mapping component
 -   Workplace Stack plan
--   [[wsm-mappedin-admin|Workplace Space Mapping]]
+-   Workplace Space Mapping
 
 Role required: sn\_wsd\_rsv.reservation\_viewer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-central-feat|Workplace Central]]**.
+1.  Navigate to **All** &gt; **Workplace Central**.
 
 2.  Select the **Event Planner** icon \(\[Omitted image "event-planner-icon.png"\] Alt text: Event planner icon.\).
 
@@ -46,7 +46,7 @@ Role required: sn\_wsd\_rsv.reservation\_viewer
 
 3.  Select the **Open location directory** option.
 
-    The Location directory home page opens in a new browser tab on the [[employee-center-landing-page|Employee Center]] portal.
+    The Location directory home page opens in a new browser tab on the Employee Center portal.
 
     **Card view** is selected by default.
 
@@ -78,12 +78,3 @@ Role required: sn\_wsd\_rsv.reservation\_viewer
 
 **Parent Topic:**[Working with Event planner](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/working-with-event-planner.md)
 
-## Related
-
-- [[event-planner|Event Planner]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[Indoor-mapping|Indoor Mapping]]
-- [[wsm-mappedin-admin|Workplace Space Mapping]]
-- [[workplace-central-feat|Workplace Central]]
-- [[employee-center-landing-page|Employee Center]]

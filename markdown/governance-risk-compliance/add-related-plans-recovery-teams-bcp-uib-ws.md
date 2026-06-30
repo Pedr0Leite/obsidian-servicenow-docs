@@ -28,7 +28,7 @@ Previously, adding an associated plan would automatically include a link to the 
 
 1.  Navigate to **Workspaces** &gt; **Business Continuity Workspace**.
 
-2.  In the [[list-view-uib-ws|List view]], navigate to **Planning** and select the link to the plan record in the **Name** column.
+2.  In the List view, navigate to **Planning** and select the link to the plan record in the **Name** column.
 
 3.  Select the **Associated plans** tab.
 
@@ -71,7 +71,7 @@ Previously, adding an associated plan would automatically include a link to the 
 
 6.  Verify that a cyclic dependency check is performed by the system and downstream tasks aren’t added in the upstream tasks.
 
-    With the cyclic dependency check, you can [[add-a-recovery-task|add recovery tasks]] from the same downstream plan and upstream plan as dependencies. This provides a hierarchical approach to managing complex recovery sequences.
+    With the cyclic dependency check, you can add recovery tasks from the same downstream plan and upstream plan as dependencies. This provides a hierarchical approach to managing complex recovery sequences.
 
     The following example shows that recovery task t3 has a dependency on t4 \(another recovery task from same plan\) and on t1 which is a recovery task from the upstream plan.
 
@@ -96,14 +96,8 @@ Previously, adding an associated plan would automatically include a link to the 
     The selected plans and recovery teams are added to the plan record.
 
 
--   **[[handling-related-plans|Associating related plans to a recovery task]]**  
+-   **[Associating related plans to a recovery task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/handling-related-plans.md)**  
 You can now associate related plans with recovery tasks, making it easier to identify and manage plans during recovery. You can then use auto-generated nested plans in an event, reducing the manual effort of adding plans and improving system performance.
 
-**Parent Topic:**[[bcp-tasks-performed-by-bcp-owner|Structured workflows for BCPs]]
+**Parent Topic:**[Structured workflows for BCPs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bcp-tasks-performed-by-bcp-owner.md)
 
-## Related
-
-- [[handling-related-plans|Associating related plans to a recovery task]]
-- [[bcp-tasks-performed-by-bcp-owner|Structured workflows for BCPs]]
-- [[list-view-uib-ws|List view]]
-- [[add-a-recovery-task|Add recovery tasks]]

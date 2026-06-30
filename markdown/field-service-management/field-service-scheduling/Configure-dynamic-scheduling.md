@@ -14,7 +14,7 @@ breadcrumb: [Setting up a Field Service scheduling method, Configure, Field Serv
 
 # Configuring Dynamic Scheduling
 
-[[create-dynamic-scheduling-config|Configure dynamic scheduling]] to let dispatchers to easily assign, change, or cancel work tasks. Optimize work order task assignments and streamline field service operations by setting up dynamic scheduling according to your organization's requirements.
+Configure dynamic scheduling to let dispatchers to easily assign, change, or cancel work tasks. Optimize work order task assignments and streamline field service operations by setting up dynamic scheduling according to your organization's requirements.
 
 Dynamic scheduling enables dispatchers to auto assign tasks and adapt to changing conditions, as well as needing to focus only on exception cases. Using this feature, you can:
 
@@ -45,17 +45,12 @@ The steps to set up Dynamic Scheduling are:
 
 ## Dynamic Scheduling for Planned Crews
 
-Use Dynamic Scheduling to optimize task assignments to planned crews. There are two types of crews: planned crews, which are pre-created, and dynamic crews, which are dynamically created as needed. Dynamic Scheduling supports both planned crews and dynamic crews. To ensure task assignment to crews, the [[field-service-crew-scheduling|Field Service Crew Operations]] plugin must be active, planned crews must be created in the system, and each planned crew should have a designated location and schedule.
+Use Dynamic Scheduling to optimize task assignments to planned crews. There are two types of crews: planned crews, which are pre-created, and dynamic crews, which are dynamically created as needed. Dynamic Scheduling supports both planned crews and dynamic crews. To ensure task assignment to crews, the Field Service Crew Operations plugin must be active, planned crews must be created in the system, and each planned crew should have a designated location and schedule.
 
 **Related topics**  
 
 
-[[dynamic-scheduling|Dynamic scheduling]]
+[Dynamic scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/dynamic-scheduling.md)
 
 [Assigning work order tasks to agents using dynamic scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/using-dynamic-scheduling.md)
 
-## Related
-
-- [[dynamic-scheduling|Dynamic scheduling]]
-- [[create-dynamic-scheduling-config|Configure dynamic scheduling]]
-- [[field-service-crew-scheduling|Field Service Crew Operations]]

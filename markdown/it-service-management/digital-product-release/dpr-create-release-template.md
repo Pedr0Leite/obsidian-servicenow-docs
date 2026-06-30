@@ -30,7 +30,7 @@ The release teams can use these templates to create a release. All the phases, t
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[dpr-workspace|Digital Product Release Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Digital Product Release Workspace**.
 
 2.  Select the release administration icon \(\[Omitted image "dpr-icon-release-admin.png"\] Alt text: Release administration icon.\).
 
@@ -290,6 +290,4 @@ Custom template fields that you add to tasks in a release template are stored on
 
     The custom fields appear on all release task records created from templates that include those fields. This is a one-time configuration — you do not need to repeat it for each release or template.
 
-## Related
 
-- [[dpr-workspace|Digital Product Release Workspace]]

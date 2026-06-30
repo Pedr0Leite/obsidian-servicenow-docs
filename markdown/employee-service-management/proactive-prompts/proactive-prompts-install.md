@@ -14,7 +14,7 @@ breadcrumb: [Proactive Prompts, HR Service Delivery, Employee Service Management
 
 # Install Proactive Prompts
 
-You can install the [[proactive-prompts-for-hrsd|Proactive Prompts]] application \(com.sn\_pp\) if you have the admin role.
+You can install the Proactive Prompts application \(com.sn\_pp\) if you have the admin role.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_pp.admin
 
 Dependent plugins and apps for Proactive Prompts:
 
--   [[employee-center-pro-landing|Employee Center Pro]] \(com.snc.employee\_center\_pro\) - for portal actions and widgets.
+-   Employee Center Pro \(com.snc.employee\_center\_pro\) - for portal actions and widgets.
 -   Microsoft Integrations – Core \(com.snc.ms\_teams\) - to use Start chat action.
 
 ## Procedure
@@ -49,7 +49,4 @@ Dependent plugins and apps for Proactive Prompts:
 
 6.  Select **Install**.
 
-## Related
 
-- [[proactive-prompts-for-hrsd|Proactive Prompts]]
-- [[employee-center-pro-landing|Employee Center Pro]]

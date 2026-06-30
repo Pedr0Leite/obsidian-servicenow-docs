@@ -14,9 +14,9 @@ breadcrumb: [Reporting, dashboards, and Performance Analytics in the Core UI, Pl
 
 # Performance Analytics widgets
 
-[[widgets|Widgets]] enable you to define visualizations for indicator scores. Widgets are shown on dashboards.
+Widgets enable you to define visualizations for indicator scores. Widgets are shown on dashboards.
 
-**Note:** This feature is part of the Core UI front end. It is not supported on [[c_performanceAnalyticsAndReporting|Platform Analytics]] dashboards or UI Builder pages, except to a limited extent when migrated in compatibility mode. To build Platform Analytics components, see [[analytics-center-data-visualizations|Data visualizations in Platform Analytics]] or [[interactive-filters-workspace|Filters in Platform Analytics]].
+**Note:** This feature is part of the Core UI front end. It is not supported on Platform Analytics dashboards or UI Builder pages, except to a limited extent when migrated in compatibility mode. To build Platform Analytics components, see [Data visualizations in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-data-visualizations.md) or [Filters in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters-workspace.md).
 
 This feature is deprecated, meaning it is in maintenance mode and is no longer being augmented or changed. Only security fixes to this feature will be addressed.
 
@@ -28,9 +28,9 @@ To create or edit a Performance Analytics widget, the user must have the pa\_adm
 
 **Note:** If a user is prevented from viewing a visualization, a warning message prompts the user to contact the administrator.
 
-If the dashboard is so configured, you can select breakdown elements on the dashboard that apply to all the widgets on the dashboard. If you click a score in a widget on a dashboard, you open the [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]] focused on that indicator.
+If the dashboard is so configured, you can select breakdown elements on the dashboard that apply to all the widgets on the dashboard. If you click a score in a widget on a dashboard, you open the Analytics Hub focused on that indicator.
 
-**Note:** Time series aggregations are validated on the Analytics Hub and in [[kpi-details|KPI Details]] but not in widgets. Therefore, you might navigate from a working widget to the Analytics Hub and get a warning that the indicator has an invalid aggregation.
+**Note:** Time series aggregations are validated on the Analytics Hub and in KPI Details but not in widgets. Therefore, you might navigate from a working widget to the Analytics Hub and get a warning that the indicator has an invalid aggregation.
 
 ## Rounding off
 
@@ -54,11 +54,11 @@ The first step in creating a widget is to select the type of widget to create. B
 
 ## Security requirements for viewing widgets
 
-Starting with Quebec, widgets follow indicator and breakdown [[access-control|access control]] lists \(ACLs\). Outside of ACLs, no roles are required for viewing widgets.
+Starting with Quebec, widgets follow indicator and breakdown access control lists \(ACLs\). Outside of ACLs, no roles are required for viewing widgets.
 
 However, if you upgrade an instance from a version earlier than Quebec, by default the rules from before Quebec still apply. Indicator and breakdown ACLs are followed only in these areas:
 
--   [[list-widgets|List widgets]] follow indicator ACLs.
+-   List widgets follow indicator ACLs.
 -   When viewing breakdowns, breakdown ACLs apply.
 
 Furthermore, on an upgraded instance, the following widgets may require users to have the pa\_viewer role:
@@ -75,13 +75,3 @@ If under Preferences you have enabled **Accessibility** &gt; **Enable data table
 
 \[Omitted image "widget-accessibility-table.png"\] Alt text: Workbench widget with the Data tables accessibility preference activated, showing both a chart and a table.
 
-## Related
-
-- [[analytics-center-data-visualizations|Data visualizations in Platform Analytics]]
-- [[interactive-filters-workspace|Filters in Platform Analytics]]
-- [[widgets|Widgets]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]
-- [[kpi-details|KPI Details]]
-- [[access-control|Access control]]
-- [[list-widgets|List widgets]]

@@ -23,8 +23,5 @@ Field Service Quality Management allows organizations to review work order tasks
 
 [Respond to a reviewed work order task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/close-wo-wot-mobile.md)
 
-[[quality-mgmt-components|Field Service Quality Management components]]
+[Field Service Quality Management components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/quality-mgmt-components.md)
 
-## Related
-
-- [[quality-mgmt-components|Field Service Quality Management components]]

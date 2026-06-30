@@ -14,9 +14,9 @@ breadcrumb: [Work on NDA legal requests, Non-disclosure agreement requests, Use,
 
 # Reviewing and finalizing a self-served contract document
 
-[[finalize-contract-document-nda|Review and finalize the contract document]] generated after the self-serve contract request is submitted, then send it for signature.
+Review and finalize the contract document generated after the self-serve contract request is submitted, then send it for signature.
 
-After submitting a self-serve contract request, a contract document is generated based on the contract template and contract template rules. A workflow for [[cncore-review-finalize-contract|reviewing and finalizing a self-serve contract document]] might progress as follows:
+After submitting a self-serve contract request, a contract document is generated based on the contract template and contract template rules. A workflow for reviewing and finalizing a self-serve contract document might progress as follows:
 
 1.  The contract user reviews the contract document.
     -   If no changes are required, the contract user submits the document for signature.
@@ -36,7 +36,3 @@ As a contract fulfiller, review the change request, update the contract document
 
 **Parent Topic:**[Work on NDA legal requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-work-on-contract-request.md)
 
-## Related
-
-- [[finalize-contract-document-nda|Review and finalize the contract document]]
-- [[cncore-review-finalize-contract|Reviewing and finalizing a self-serve contract document]]

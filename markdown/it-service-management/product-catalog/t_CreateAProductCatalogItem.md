@@ -14,7 +14,7 @@ breadcrumb: [Product catalog items, Product Catalog, Asset Management, IT Servic
 
 # Create a product catalog item
 
-Create hardware and software [[c_ManagingProductCatalogItems|product catalog items]] to include in the [[c_ProductCatalog|product catalog]] and the service catalog.
+Create hardware and software product catalog items to include in the product catalog and the service catalog.
 
 ## Before you begin
 
@@ -284,7 +284,7 @@ Service catalog variables associated with this item. A service catalog variable 
 
 </td></tr><tr><td>
 
-[[c_ManageVendorCatalogItems|Vendor Catalog Items]]
+Vendor Catalog Items
 
 </td><td>
 
@@ -317,8 +317,3 @@ Vendor catalog items associated with this item. Vendor catalog items allow you t
 
 [Service catalog variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_ServiceCatalogVariables.md)
 
-## Related
-
-- [[c_ManagingProductCatalogItems|Product catalog items]]
-- [[c_ProductCatalog|Product Catalog]]
-- [[c_ManageVendorCatalogItems|Vendor catalog items]]

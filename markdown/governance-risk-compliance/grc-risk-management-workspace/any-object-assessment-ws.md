@@ -22,7 +22,7 @@ Role required: sn\_grc.business\_user
 
 ## About this task
 
-To perform an object risk assessment, a prior knowledge of risk is not necessary. When you perform [[any-object-assessment|any object assessment]] in the [[risk-workspace|Risk Workspace]], you do not see the description of the risk and any reference information because the entire context of risk is not required. You can configure the risk assessment button in the object record and start the assessment. For more information, see [Any object assessment using Advanced Risk Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/any-object-assessment.md).
+To perform an object risk assessment, a prior knowledge of risk is not necessary. When you perform any object assessment in the Risk Workspace, you do not see the description of the risk and any reference information because the entire context of risk is not required. You can configure the risk assessment button in the object record and start the assessment. For more information, see [Any object assessment using Advanced Risk Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/any-object-assessment.md).
 
 ## Procedure
 
@@ -30,7 +30,7 @@ To perform an object risk assessment, a prior knowledge of risk is not necessary
 
 2.  Select the task \[Omitted image "tasks-icon-new.png"\] Alt text: Task icon. icon.
 
-3.  Under **My pending tasks**, under Advanced [[risk-assessments|risk assessments]], open the object risk assessment assigned to you.
+3.  Under **My pending tasks**, under Advanced risk assessments, open the object risk assessment assigned to you.
 
     |Choice|Description|
     |------|-----------|
@@ -43,7 +43,7 @@ To perform an object risk assessment, a prior knowledge of risk is not necessary
 
 5.  Select **Save**.
 
-6.  If you have configured [[risk-response|risk response]] in your risk assessment methodology, select the appropriate risk response strategy and click **Define risk response**.
+6.  If you have configured risk response in your risk assessment methodology, select the appropriate risk response strategy and click **Define risk response**.
 
 7.  To send the assessment for review, select **Review and submit**.
 
@@ -60,9 +60,3 @@ To perform an object risk assessment, a prior knowledge of risk is not necessary
 
 **Parent Topic:**[Using the Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/using-risk-workspace.md)
 
-## Related
-
-- [[any-object-assessment|any object assessment]]
-- [[risk-workspace|risk workspace]]
-- [[risk-assessments|risk assessments]]
-- [[risk-response|risk response]]

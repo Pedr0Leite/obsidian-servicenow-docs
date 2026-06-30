@@ -22,7 +22,7 @@ Role required: evt\_mgmt\_admin, evt\_mgmt\_operator, or evt\_mgmt\_user
 
 ## About this task
 
-Multiple related events may correlate into a single alert. [[c_EM|Event Management]] only creates alerts when one or more events meet the conditions defined in [[create-event-rules|event rules]], alert action rules, and alert configuration settings.
+Multiple related events may correlate into a single alert. Event Management only creates alerts when one or more events meet the conditions defined in event rules, alert action rules, and alert configuration settings.
 
 When updating an alert, empty field values do not override values inherited from the alert's event.
 
@@ -280,7 +280,7 @@ The primary alert that is correlated with this alert, where this alert is a seco
     |Activities tab|
     |Activity|A record of the work that was performed. The text has a date and time stamp.|
     |More Information tab|
-    |Priority Breakdown|Displays the computation of the [[alert-priority|alert priority]] score.|
+    |Priority Breakdown|Displays the computation of the alert priority score.|
     |Additional information|A JSON string that gives more information about the event. The JSON data is supported for String values only, other value types are not supported. You must convert numbers to String values by enclosing them in double quotes. For example, this value is not supported: \{"CPU":100 \} while this value is supported: \{"CPU":"100"\}. Another example of a valid JSON string is: \{"evtComponent":"Microsoft-Windows-WindowsUpdateClient","evtMessage":"Installation Failure: Windows failed. Error 0x80070490"\}. This information can be used for third-party integration or other post-alert processing. Values in the **Additional information** field of an Event that are not in JSON key/value format are normalized to JSON key/value format when the event is processed. For example, assume that the following plain text is in the **Additional information** field “Connection instance is successful”. When the event is processed, all this plain text becomes one JSON string and might not be useful within an alert. In the resultant alert, this string is in the **Additional information** field in JSON key/value format, containing the data: \{“additional\_content”: “Connection instance is successful"\}.|
 
 
@@ -300,7 +300,7 @@ You can respond to the alert in the following ways:
 -   **[Priority group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/alert-priority-group.md)**  
 For better triage and focus, alerts that have a higher priority are brought to the top of the alert list. This placement brings to your attention those alerts that require you to handle them at a higher priority than other alerts.
 -   **[Alert execution information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/alert-execution.md)**  
-[[alert-execution|Alert execution information]] provides a reference to the actions that have been performed concerning the alert. Among the information presented is which alert management rules ran on the alert, incidents that were opened, and which [[ccg-remediation|remediation]] workflows ran.
+Alert execution information provides a reference to the actions that have been performed concerning the alert. Among the information presented is which alert management rules ran on the alert, incidents that were opened, and which remediation workflows ran.
 -   **[View alerts in the flapping state](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMViewAlertFlapping.md)**  
 You can view alerts that are specifically in the flapping state.
 -   **[View all alerts by the maintenance status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMViewAlertmaintenance.md)**  
@@ -323,10 +323,3 @@ In an alert, use the `Quick Response` feature to apply remediation to the alert 
 
 [Security incidents created from events and alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/c_ScIncdUseAlrts.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[create-event-rules|Event rules]]
-- [[alert-priority|Alert priority]]
-- [[alert-execution|Alert execution information]]
-- [[ccg-remediation|Remediation]]

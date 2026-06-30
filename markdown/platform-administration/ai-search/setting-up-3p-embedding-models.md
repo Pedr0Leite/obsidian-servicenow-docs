@@ -14,7 +14,7 @@ breadcrumb: [Semantic index configuration for indexed sources, Indexed sources, 
 
 # Configuring an external or custom embedding model
 
-You can connect and configure an external or custom embedding model in the [[ia-ai-search|AI Search]] Retrieval Augmented Generation \(RAG\) application to generate embeddings.
+You can connect and configure an external or custom embedding model in the AI Search Retrieval Augmented Generation \(RAG\) application to generate embeddings.
 
 ## Embedding model overview
 
@@ -36,6 +36,4 @@ Configure your custom and third-party embedding models in the AI Search RAG appl
 
     You can configure a custom embedding model end-to-end by leveraging the Bring Your Own Embedding Model \(BYOM\) capability. For more information, see [https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/creating-byom.md](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/creating-byom.md).
 
-## Related
 
-- [[ia-ai-search|AI Search]]

@@ -20,7 +20,7 @@ When you edit a portal, add the **Report** widget. Use the widget options to spe
 
 \[Omitted image "service-portal-report-widget2.png"\] Alt text: Report widget opened in the Service Portal Designer
 
-With the report widget, you can show all [[report-types-creation-details-rd|report types]] on your portal except for [[list-reports|list reports]]. Use the Simple List Widget instead.
+With the report widget, you can show all report types on your portal except for list reports. Use the Simple List Widget instead.
 
 **Parent Topic:**[Using reporting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_GenerateReports.md)
 
@@ -33,7 +33,7 @@ With the report widget, you can show all [[report-types-creation-details-rd|repo
 
 ## Activate the Performance Analytics and Reporting - Service Portal Widgets plugin
 
-You can activate the Performance Analytics and [[reporting-landing-page|Reporting]] - Service Portal [[widgets|Widgets]] plugin \(com.snc.pa.sp.widget\) if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
+You can activate the Performance Analytics and Reporting - Service Portal Widgets plugin \(com.snc.pa.sp.widget\) if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
 
 ### Before you begin
 
@@ -80,9 +80,3 @@ Core Service Portal functionality.
 
 [bundle-platadm.list-of-plugins]
 
-## Related
-
-- [[report-types-creation-details-rd|Report types]]
-- [[list-reports|List reports]]
-- [[reporting-landing-page|Reporting]]
-- [[widgets|Widgets]]

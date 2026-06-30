@@ -14,7 +14,7 @@ breadcrumb: [Configure request type, Configure, Personal Data Rights \(PDR\), Pr
 
 # Personal Data Rights request type form
 
-Use the [[request-type-form|Request Type form]] in the [[personal-data-rights|Personal Data Rights]] application to categorize the personal data rights requests by their type.
+Use the Request Type form in the Personal Data Rights application to categorize the personal data rights requests by their type.
 
 The following table lists the descriptions of the field values.
 
@@ -33,7 +33,3 @@ The following table lists the descriptions of the field values.
 
 **Parent Topic:**[Configuring Personal Data Rights request type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/configure-pdr-request-type.md)
 
-## Related
-
-- [[request-type-form|Request type form]]
-- [[personal-data-rights|personal data rights]]

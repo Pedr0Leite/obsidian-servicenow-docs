@@ -28,7 +28,7 @@ As a collaborator added to a request, you can access and work on the request jus
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Legal Request** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
 2.  Click the list icon \(\[Omitted image "lsd-lcc-list-icon.png"\] Alt text: List icon\).
 
@@ -78,6 +78,3 @@ The approval record is canceled and its state updates to Cancelled and comments 
 
 **Parent Topic:**[Initiate an ad hoc approval for a legal request or its attachment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/initiate-approval-legal-request.md)
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, Conversational Integration with WhatsApp \(WhatsApp Clou
 
 # Configure WhatsApp Cloud API provider properties
 
-You can customize the behavior of the [[messg-direct-whatsapp|Conversational Integration with WhatsApp \(WhatsApp Cloud API\)]] application by configuring its provider properties.
+You can customize the behavior of the Conversational Integration with WhatsApp \(WhatsApp Cloud API\) application by configuring its provider properties.
 
 ## Before you begin
 
@@ -46,6 +46,3 @@ The provider property is updated with the new value.
 
 [WhatsApp Cloud API provider properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/whatsapp-cloud-api-provider-properties.md)
 
-## Related
-
-- [[messg-direct-whatsapp|Conversational Integration with WhatsApp \(WhatsApp Cloud API\)]]

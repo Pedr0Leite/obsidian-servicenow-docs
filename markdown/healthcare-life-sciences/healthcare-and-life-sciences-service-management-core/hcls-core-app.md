@@ -14,7 +14,7 @@ breadcrumb: [Healthcare and Life Sciences Service Management, Healthcare and Lif
 
 # Healthcare and Life Sciences Service Management Core
 
-With the ServiceNow® Healthcare and Life Sciences Service Management Core application, deliver a seamless digital experience for your users and streamline [[healthcare-operations-overview|healthcare operations]] with automated processes.
+With the ServiceNow® Healthcare and Life Sciences Service Management Core application, deliver a seamless digital experience for your users and streamline healthcare operations with automated processes.
 
 ## Request apps on the Store
 
@@ -46,7 +46,3 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[healthcare-operations-overview|Healthcare Operations]]

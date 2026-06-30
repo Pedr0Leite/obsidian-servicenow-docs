@@ -14,7 +14,7 @@ breadcrumb: [Administer and maintain the Talent Development Core app, Talent Dev
 
 # License Talent Development Core users
 
-[[egd-landing-page|Talent Development Core]] uses the [[emp-slate-employee-profile|Employee Profile]] licensing feature to license user.
+Talent Development Core uses the Employee Profile licensing feature to license user.
 
 ## Before you begin
 
@@ -41,7 +41,3 @@ You can view the list of licensed users by navigating to **All** &gt; **Employee
 
 **Parent Topic:**[Administer and maintain the Talent Development Core app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-administration.md)
 
-## Related
-
-- [[egd-landing-page|Talent Development Core]]
-- [[emp-slate-employee-profile|Employee profile]]

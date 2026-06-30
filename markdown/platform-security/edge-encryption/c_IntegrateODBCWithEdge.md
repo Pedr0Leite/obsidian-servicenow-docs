@@ -14,7 +14,7 @@ breadcrumb: [Data integration with Edge Encryption, Configuring Edge Encryption,
 
 # Edge Encryption ODBC driver integration
 
-Configure your ODBC driver to query data encrypted by [[edge-encryption|Edge Encryption]]. The Edge Encryption proxy server encrypts ODBC driver requests to the ServiceNow instance when Edge Encryption is integrated with the ODBC driver.
+Configure your ODBC driver to query data encrypted by Edge Encryption. The Edge Encryption proxy server encrypts ODBC driver requests to the ServiceNow instance when Edge Encryption is integrated with the ODBC driver.
 
 Encrypted responses from the instance are decrypted through the Edge Encryption proxy server before passing to the ODBC driver in your network.
 
@@ -29,7 +29,7 @@ For a successful integration, the ODBC driver must trust the Edge Encryption pro
 
 ## Import a self-signed certificate to the ODBC truststore
 
-If a Certificate Authority trusted by the ODBC driver has not signed the Edge Encryption proxy server certificate, you must import a self-signed certificate to the ODBC truststore. You can [[export|export]] the certificate from the Edge Encryption proxy server and import it into the ODBC truststore.
+If a Certificate Authority trusted by the ODBC driver has not signed the Edge Encryption proxy server certificate, you must import a self-signed certificate to the ODBC truststore. You can export the certificate from the Edge Encryption proxy server and import it into the ODBC truststore.
 
 ### Before you begin
 
@@ -112,7 +112,3 @@ Role required: admin
 
 The ODBC driver is now configured to route requests to the instance through the Edge Encryption proxy server.
 
-## Related
-
-- [[edge-encryption|Edge Encryption]]
-- [[export|Export]]

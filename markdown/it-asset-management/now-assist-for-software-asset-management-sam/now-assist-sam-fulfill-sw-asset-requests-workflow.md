@@ -20,7 +20,7 @@ Use the Help manage software request agentic workflow to fulfill a software requ
 
 Use the Help manage software request agentic workflow to automate software asset sourcing through auto allocation or purchase order creation. The Help manage software request AI agents enable faster request resolution, improved operational efficiency, and boost user satisfaction.
 
-To use the Help manage software request agentic workflow, the [[c_Procurement|Procurement]] \(com.snc.procurement\) plugin needs to be installed along with the Now Assist for SAM \(sn\_now\_assist\_sam\) plugin. To use the Microsoft license assignment AI agent for Microsoft 365 allocations, the [[c_SoftwareAssetMgmt|Software Asset Management]] - [[sam-subscription-management|SaaS License Management]] store application must be installed and an active [[microsoft-o365|Microsoft 365 integration]] must be configured in your instance.
+To use the Help manage software request agentic workflow, the Procurement \(com.snc.procurement\) plugin needs to be installed along with the Now Assist for SAM \(sn\_now\_assist\_sam\) plugin. To use the Microsoft license assignment AI agent for Microsoft 365 allocations, the Software Asset Management - SaaS License Management store application must be installed and an active Microsoft 365 integration must be configured in your instance.
 
 The following three scenarios are supported for software requests:
 
@@ -59,10 +59,10 @@ To automatically trigger the Help manage software request workflow for sourcing 
     2.  If the requested items in the cart amount to a thousand dollars, the request is automatically approved. For amounts more than a thousand dollars, the request needs to be approved. Auto approval rules can differ from organization to organization; the default amount for auto approval is a thousand dollars.
 2.  Assign the software asset request for sourcing:
 
-    1.  Once the request is approved, the procurement\_user role, navigates to the Procurement module that resides in the Asset Workspace. If the [[ham-landing-page|Hardware Asset Management]] application is installed, the name of the workspace changes to [[using-ham-workspace|Hardware Asset Workspace]].
+    1.  Once the request is approved, the procurement\_user role, navigates to the Procurement module that resides in the Asset Workspace. If the Hardware Asset Management application is installed, the name of the workspace changes to Hardware Asset Workspace.
     2.  The procurement\_user role selects the Items tab in the Procurement module and selects a value in the **Assigned to** field for the requested item.
 
-        **Note:** The itil, the procurement\_user, and the now\_assist\_panel\_user roles have access to the Now Assist panel. The fulfiller needs the itil and procurement\_user roles if you have the Now Assist for IT Service Management \(ITSM\) store application installed. If you have the [[now-assist-sam|Now Assist for Software Asset Management \(SAM\)]] store application but not the Now Assist for IT Service Management \(ITSM\) store application, then the fulfiller requires the itil, procurement\_user, and now\_assist\_panel\_user roles to fulfill the request via the Now Assist panel trigger.
+        **Note:** The itil, the procurement\_user, and the now\_assist\_panel\_user roles have access to the Now Assist panel. The fulfiller needs the itil and procurement\_user roles if you have the Now Assist for IT Service Management \(ITSM\) store application installed. If you have the Now Assist for Software Asset Management \(SAM\) store application but not the Now Assist for IT Service Management \(ITSM\) store application, then the fulfiller requires the itil, procurement\_user, and now\_assist\_panel\_user roles to fulfill the request via the Now Assist panel trigger.
 
     The procurement\_user role gets notified in the Now Assist panel that the software request is getting fulfilled.
 
@@ -85,7 +85,7 @@ To automatically trigger the Help manage software request workflow for sourcing 
         -   If the entitlement is available, the AI agent creates a reservation order using the existing entitlement and generates a catalog task to replicate that reservation within the Microsoft 365 Admin Center.
         -   If the entitlement isn’t available, the AI agent generates a catalog task to create entitlement in ServiceNow.
 
-To view the licenses allocated by the agentic workflow, navigate to the AI Activity log in the Activity center of the [[sam-workspace|Software Asset Workspace]]. Select the **Licenses allocated** link in the AI Activity log to open the Procurement request items page in the Asset Workspace or the Hardware Asset Workspace.
+To view the licenses allocated by the agentic workflow, navigate to the AI Activity log in the Activity center of the Software Asset Workspace. Select the **Licenses allocated** link in the AI Activity log to open the Procurement request items page in the Asset Workspace or the Hardware Asset Workspace.
 
 ## AI agents used in the Help manage software asset requests agentic workflow
 
@@ -113,7 +113,7 @@ Purchase order creation AI agent
 
 </td><td>
 
-Sources a request item by creating a purchase order. Asks for inputs sequentially and takes user input in case there are multiple options such as with [[c_Stockrooms|stockrooms]], vendors, metric group, or license metrics.
+Sources a request item by creating a purchase order. Asks for inputs sequentially and takes user input in case there are multiple options such as with stockrooms, vendors, metric group, or license metrics.
 
 </td></tr><tr><td>
 
@@ -126,14 +126,3 @@ Assigns a Microsoft 365 license from the existing inventory when available, usin
 </td></tr></tbody>
 </table>**Parent Topic:**[Using agentic workflows in Now Assist for SAM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/now-assist-for-software-asset-management-sam/using-now-assist-sam-ai-agents-usecases.md)
 
-## Related
-
-- [[c_Procurement|Procurement]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-subscription-management|SaaS License Management]]
-- [[microsoft-o365|Microsoft 365 integration]]
-- [[ham-landing-page|Hardware Asset Management]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[now-assist-sam|Now Assist for Software Asset Management \(SAM\)]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_Stockrooms|Stockrooms]]

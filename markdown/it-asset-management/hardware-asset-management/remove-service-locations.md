@@ -22,9 +22,9 @@ Role required: inventory\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Inventory**.
+1.  Navigate to **All** &gt; **Hardware Asset Workspace** &gt; **Inventory**.
 
-2.  Select the **All [[c_Stockrooms|stockrooms]]** tab.
+2.  Select the **All stockrooms** tab.
 
 3.  Select the stockroom for which you want to remove the supported locations.
 
@@ -37,7 +37,3 @@ The removed locations are no longer shown in the Service locations list.
 
 **Parent Topic:**[Manage stockrooms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/manage-your-stockrooms.md)
 
-## Related
-
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[c_Stockrooms|Stockrooms]]

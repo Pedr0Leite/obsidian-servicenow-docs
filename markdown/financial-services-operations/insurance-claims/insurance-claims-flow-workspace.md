@@ -14,7 +14,7 @@ breadcrumb: [Use, Insurance claims, Exploring insurance claims applications, Ins
 
 # Insurance claims landing pages and workspaces
 
-In the [[insurance-claims-flow|Insurance claims]] application, you can view summaries of your claims work in the landing page. You can also work on your claim tasks from the claim workspace.
+In the Insurance claims application, you can view summaries of your claims work in the landing page. You can also work on your claim tasks from the claim workspace.
 
 ## Landing pages
 
@@ -23,7 +23,7 @@ The following dashboards are included as part of the Insurance claims applicatio
 -   Claims Processor landing page
 -   Claims Adjuster landing page
 -   Claims Manager landing page
--   FNOL landing page \(as part of [[financial-services-operations-core-data-model|Financial Services Operations Core]]\)
+-   FNOL landing page \(as part of Financial Services Operations Core\)
 
 Each Insurance claims role can have a different landing page.
 
@@ -89,7 +89,7 @@ In the Insurance claims application, you can use section tabs to add information
 |Details|Contains the details on the claim case record, such as the case number, consumer or account, insurance policy, case status, or case work notes.|
 |Customer information|Contains the workspace cards that show the customer record details, policy overview, claim overview, insurance policy details, case history, or recent phone and chat interactions.|
 |Task SLAs|Displays the associated task service level agreements \(SLAs\).|
-|Tasks|Lists the [[adjuster-tasks-workspace-pers|adjuster tasks]] for this claim.|
+|Tasks|Lists the adjuster tasks for this claim.|
 |Interactions|Lists the interactions with the claimant.|
 |Emails|Lists the emails for this claim.|
 |Document verifications|Lists the document verification tasks for this claim.|
@@ -128,8 +128,3 @@ For example, in the included travel insurance LOB model, you can navigate throug
 |Tasks|Views, creates, and works on the adjuster tasks for the current claim case.|
 |Coverages and financials|Works on the claim coverages, reserves, and payments.|
 
-## Related
-
-- [[insurance-claims-flow|Insurance claims]]
-- [[financial-services-operations-core-data-model|Financial Services Operations Core]]
-- [[adjuster-tasks-workspace-pers|Adjuster tasks]]

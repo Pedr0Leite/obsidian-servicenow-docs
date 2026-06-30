@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-Human Resources Scoped App: Integrations allows you to integrate [[hr-service-delivery|HR Service Delivery]] with third-party systems.
+Human Resources Scoped App: Integrations allows you to integrate HR Service Delivery with third-party systems.
 
 ## Procedure
 
@@ -40,11 +40,7 @@ Human Resources Scoped App: Integrations allows you to integrate [[hr-service-de
 
 
 -   **[Components installed with HR Integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/components-installed-with-hr-integrations.md)**  
-Several types of components install with the activation of the [[scoped-hr-third-party-integrations|HR Integrations]] plugin, including tables, user roles, and scheduled jobs.
+Several types of components install with the activation of the HR Integrations plugin, including tables, user roles, and scheduled jobs.
 
 **Parent Topic:**[HR Integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/scoped-hr-third-party-integrations.md)
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[scoped-hr-third-party-integrations|HR Integrations]]

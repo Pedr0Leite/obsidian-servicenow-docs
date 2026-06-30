@@ -15,7 +15,7 @@ breadcrumb: [ACC-VC reference, Agent Client Collector reference, Agent Client Co
 
 # Agent Client Collector for Visibility - Content default checks and policies
 
-[[acc-landing-page|Agent Client Collector]] for Visibility - Content \(ACC-VC\) provides various [[checks-policies|checks and policies]] as well as a business rule.
+Agent Client Collector for Visibility - Content \(ACC-VC\) provides various checks and policies as well as a business rule.
 
 ## Policies
 
@@ -35,7 +35,7 @@ Checks definitions
 
 </th></tr></thead><tbody><tr><td>
 
-Enhanced [[r-discovery|Discovery]]
+Enhanced Discovery
 
 </td><td>
 
@@ -97,7 +97,7 @@ installed software
 
 </td></tr><tr><td>
 
-[[file-based-discovery|File-based Discovery]] background policy
+File-based Discovery background policy
 
 </td><td>
 
@@ -302,9 +302,3 @@ The **Enhanced Discovery – On CI Delete** business rule triggers the Endpoint 
 
 **Parent Topic:**[Agent Client Collector for Visibility - Content reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-client-collector-for-visibility-references.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[checks-policies|Checks and policies]]
-- [[r-discovery|Discovery]]
-- [[file-based-discovery|File-based Discovery]]

@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Portfolio Planning, Reference, Portfolio
 
 # Lens Form
 
-Learn about the fields of the Lens form. Use this form to create a lens in [[portfolio-planning-app-landing-page|Portfolio Planning]].
+Learn about the fields of the Lens form. Use this form to create a lens in Portfolio Planning.
 
 <table id="table_ef4_vjt_fvb"><thead><tr><th>
 
@@ -59,6 +59,3 @@ Type of work that can be planned using this lens.Move the desired planning item 
 </td></tr></tbody>
 </table>**Parent Topic:**[Form field information for Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/form-field-information-for-portfolio-planning.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

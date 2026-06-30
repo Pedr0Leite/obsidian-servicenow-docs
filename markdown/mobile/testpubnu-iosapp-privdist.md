@@ -28,7 +28,7 @@ After the build successfully completes and your app is ready for testing:
 3.  Select the card for your mobile app build request. The Request details page appears.
 4.  Your testers receive an email from Apple TestFlight with a link to test your branded app.
 
-    **Note:** This email also contains the push certificate password that you must use to set up [[sg-mobile-security-push-notif|push notifications]] in the following section.
+    **Note:** This email also contains the push certificate password that you must use to set up push notifications in the following section.
 
     Use TestFlight to check the following:
 
@@ -44,7 +44,7 @@ After your Testflight testers have validated the branding and functionality of y
 
 1.  Set up push notifications by downloading the Apple push certificate \(`p12` file\) from your app's **Build History** and upload it to your app's push application record:
     1.  Access the Push Applications table on your instance by navigating to **All** &gt; **Push Application**.
-    2.  Configure your push applications. For instructions, see [[sg-push-setup-ios|Configure push applications for iOS branded apps using certificate based authentication]].
+    2.  Configure your push applications. For instructions, see [Configure push applications for iOS branded apps using certificate based authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-push-setup-ios.md).
 
         **Note:** The push certificate password is sent in the email from ServiceNow with the subject of "Ready For Testing - ServiceNow Mobile Publishing App." This email is sent from "mobilepublishing@servicenow.com"
 
@@ -62,7 +62,7 @@ Once the status of your app is **Ready for testing**, you have 90 days to make s
 
 ## 4. Customize your app's workflows
 
-Use Mobile App Builder to customize your app. See [[mab-concept|Mobile App Builder]] for detailed information about how you can customize your branded app.
+Use Mobile App Builder to customize your app. See [Mobile App Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mab-concept.md) for detailed information about how you can customize your branded app.
 
 ## 5. Publish and distribute your app
 
@@ -72,11 +72,5 @@ Apple conducts a final review where your build status will show **Deployment in 
 
 ## 6. Keep your app updated
 
-Update your app before you update your ServiceNow family version, or at least once per year to keep your push notifications working and to leverage the most up to date ServiceNow mobile features. For more information, see [[mobile-supported-devices|Tested devices and supported versions for ServiceNow mobile apps]].
+Update your app before you update your ServiceNow family version, or at least once per year to keep your push notifications working and to leverage the most up to date ServiceNow mobile features. For more information, see [Tested devices and supported versions for ServiceNow mobile apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-supported-devices.md).
 
-## Related
-
-- [[sg-push-setup-ios|Configure push applications for iOS branded apps using certificate based authentication]]
-- [[mab-concept|Mobile App Builder]]
-- [[mobile-supported-devices|Tested devices and supported versions for ServiceNow mobile apps]]
-- [[sg-mobile-security-push-notif|Push notifications]]

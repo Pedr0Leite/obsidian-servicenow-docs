@@ -18,7 +18,7 @@ The Lists view in Service Graph Workspace provides access to CIs within the CMDB
 
 ## Access
 
-Navigate to **Workspaces** &gt; **[[sg-workspace|Service Graph Workspace]]**, and then in the navigation panel, select the Lists icon.
+Navigate to **Workspaces** &gt; **Service Graph Workspace**, and then in the navigation panel, select the Lists icon.
 
 Role required: sn\_cmdb\_user, sn\_cmdb\_editor, or sn\_cmdb\_admin
 
@@ -28,7 +28,7 @@ Provides lists of records from the associated list tables as specified in the Pl
 
 Initially, the default lists are:
 
--   [[cmdb-groups|CMDB Groups]]:
+-   CMDB Groups:
 
     -   Source table: CMDB Groups \[cmdb\_group\]
     -   More information: Select a group and then on the group form, select **Show all group CIs** to show a list view of all the CIs in the group. For more information, see[CMDB groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-groups.md).
@@ -71,7 +71,3 @@ Users with the sn\_cmdb\_editor or sn\_cmdb\_admin roles, can select **New** to 
 
 Custom and shared lists where you can select **Create new list** to create a new custom list associated with the logged on user. For more information, see [Create a custom list in the Lists view in Service Graph Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/sg-workspace-create-custom-list.md).
 
-## Related
-
-- [[sg-workspace|Service Graph Workspace]]
-- [[cmdb-groups|CMDB groups]]

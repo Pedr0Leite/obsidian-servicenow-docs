@@ -18,7 +18,7 @@ Configure HR Service Delivery Advanced Integration with Workday.
 
 ## Application setup
 
-First, you must activate the [[advanced-wd|HR Service Delivery Advanced Integration with Workday]] application from ServiceNow Store, which automatically activates the Workday HR Spoke. Next, set up [Workday HR Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/workday-hr-spoke.md) [Workday HR Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/workday-hr-spoke.md) , and install the following applications:
+First, you must activate the HR Service Delivery Advanced Integration with Workday application from ServiceNow Store, which automatically activates the Workday HR Spoke. Next, set up [Workday HR Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/workday-hr-spoke.md) [Workday HR Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/workday-hr-spoke.md) , and install the following applications:
 
 -   Glide Virtual Agent plugin \[com.glide.cs.chatbot\]
 -   Human Resources Scoped App: NLU Model\[com.sn\_hr\_nlu\_model\]
@@ -31,6 +31,3 @@ First, you must activate the [[advanced-wd|HR Service Delivery Advanced Integrat
 -   For the application to work with Human Resource: Core, you must install these [update sets](https://store.servicenow.com/sn_appstore_store.do#!/store/application/1575864a1b8de41050d621b5ec4bcbe1/1.0.1?referer=%2Fstore%2Fsearch%3Flistingtype%3Dallintegrations%25253Bancillary_app%25253Bcertified_apps%25253Bcontent%25253Bindustry_solution%25253Boem%25253Butility%25253Btemplate%26q%3DHR%2520Service%2520Delivery%2520advanced%2520Integration%2520with%2520Workday&sl=sh): **human\_resources\_core\_rca**
 -   For the application to work with Human Resources: Service Portal, you must install these [update sets](https://store.servicenow.com/sn_appstore_store.do#!/store/application/1575864a1b8de41050d621b5ec4bcbe1/1.0.1?referer=%2Fstore%2Fsearch%3Flistingtype%3Dallintegrations%25253Bancillary_app%25253Bcertified_apps%25253Bcontent%25253Bindustry_solution%25253Boem%25253Butility%25253Btemplate%26q%3DHR%2520Service%2520Delivery%2520advanced%2520Integration%2520with%2520Workday&sl=sh): **human\_resources\_portal\_rca**
 
-## Related
-
-- [[advanced-wd|HR Service Delivery Advanced Integration with Workday]]

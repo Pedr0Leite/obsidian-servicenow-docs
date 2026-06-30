@@ -14,7 +14,7 @@ breadcrumb: [Virtual Agent Sourcing Procurement Operations, Sourcing Procurement
 
 # NLU support for Sourcing and Procurement Operations Virtual Agent
 
-You can set up [[psm-overview|Sourcing and Procurement Operations]] Virtual Agent to use Natural Language Understanding \(NLU\) to understand word meanings and word contexts to infer user intent.
+You can set up Sourcing and Procurement Operations Virtual Agent to use Natural Language Understanding \(NLU\) to understand word meanings and word contexts to infer user intent.
 
 NLU provides information that your virtual agent uses to determine what users want to do and to extract relevant values from their input. With NLU, your virtual agent offers a more natural and engaging conversational experience.
 
@@ -30,6 +30,3 @@ The following intents are provided as part of the Sourcing and Procurement Opera
 
 **Parent Topic:**[Virtual Agent for Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/virtual-agent-for-psm.md)
 
-## Related
-
-- [[psm-overview|Sourcing and Procurement Operations]]

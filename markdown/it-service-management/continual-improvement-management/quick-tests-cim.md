@@ -14,7 +14,7 @@ breadcrumb: [Reference, Continual Improvement Management, IT Service Management]
 
 # Quick tests for Continual Improvement Management
 
-Validate the continued functionality of [[cim-landing-page|Continual Improvement Management]] during application development and after upgrades. Copy and configure these automated tests to identify customizations needing review. All test suites and tests should pass.
+Validate the continued functionality of Continual Improvement Management during application development and after upgrades. Copy and configure these automated tests to identify customizations needing review. All test suites and tests should pass.
 
 **Note:** To run CIM automated tests:
 
@@ -48,10 +48,10 @@ CIM Inbound Integrations
 
 </td><td>
 
-Suite that contains tests to create an improvement initiative from inbound integration [[dex-workspace-application-tab|applications]]. -   [[c_ProblemManagement|Problem Management]]
--   [[c_IncidentManagement|Incident Management]]
+Suite that contains tests to create an improvement initiative from inbound integration applications. -   Problem Management
+-   Incident Management
 -   Demand Management
--   [[cf-coaching-landing|Coaching]]
+-   Coaching
 -   Survey Management
 -   Assessments
 
@@ -104,7 +104,7 @@ Tests that a user with Project manager and Improvement Manager roles can create 
 
 </td></tr><tr><td>
 
-CIM: [[t_CreateAChange|Create a change request]] from an improvement initiative task
+CIM: Create a change request from an improvement initiative task
 
 </td><td>
 
@@ -382,11 +382,3 @@ Tests that an improvement initiative in Implement state can be submitted for Re-
 
 [Quick start tests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/quick-start-tests.md)
 
-## Related
-
-- [[cim-landing-page|Continual Improvement Management]]
-- [[dex-workspace-application-tab|Applications]]
-- [[c_ProblemManagement|Problem Management]]
-- [[c_IncidentManagement|Incident Management]]
-- [[cf-coaching-landing|Coaching]]
-- [[t_CreateAChange|Create a change request]]

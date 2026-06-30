@@ -22,7 +22,7 @@ Role required: insights\_admin or insights\_owner
 
 ## Procedure
 
-1.  Navigate to **[[ci-workspace|Cloud Cost Management Workspace]]** &gt; **Operations** &gt; **Recommendations** &gt; **Rightsizing**.
+1.  Navigate to **Cloud Cost Management Workspace** &gt; **Operations** &gt; **Recommendations** &gt; **Rightsizing**.
 
 2.  Select the **Scheduled** or **Completed** tab.
 
@@ -106,6 +106,3 @@ Time that the job ran or will run.You can edit the date.
 
 **Parent Topic:**[Resize resources with Rightsizing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/resize-res-ci.md)
 
-## Related
-
-- [[ci-workspace|Cloud Cost Management Workspace]]

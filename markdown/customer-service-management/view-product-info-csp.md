@@ -22,7 +22,7 @@ Role required: sn\_customerservice.customer, sn\_customerservice.customer\_admin
 
 You can view a list of products or services that have been sold to your account. You can also view any cases created on the product and all active contracts and entitlements for the product.
 
-**Note:** When the [[customer-data-model-b2b2c|Customer Data Models for B2B2C]] plugin installed, contacts are able to access the list of [[sold-product|sold products]] belonging to account consumers.
+**Note:** When the Customer Data Models for B2B2C plugin installed, contacts are able to access the list of sold products belonging to account consumers.
 
 An entitlement is active if:
 
@@ -54,7 +54,4 @@ If product catalog items have been set up in your instance, you can use the **Se
 
 6.  View all catalog items associated to sold products and request additional services, as required.
 
-## Related
 
-- [[customer-data-model-b2b2c|Customer data models for B2B2C]]
-- [[sold-product|Sold products]]

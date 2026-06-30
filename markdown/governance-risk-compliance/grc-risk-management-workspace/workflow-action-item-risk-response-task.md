@@ -14,7 +14,7 @@ breadcrumb: [Use Risk Workspace, Risk Management, Governance, Risk, and Complian
 
 # Workflow of action item in risk response task
 
-The action item workflow is a structured process for managing the granular tasks associated with [[risk-response|risk response]] tasks, which are assigned to multiple stakeholders.
+The action item workflow is a structured process for managing the granular tasks associated with risk response tasks, which are assigned to multiple stakeholders.
 
 ## Exploring the user journey for an Action item
 
@@ -47,6 +47,3 @@ The action item workflow consists of the following stages:
 
 **Parent Topic:**[Using the Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/using-risk-workspace.md)
 
-## Related
-
-- [[risk-response|risk response]]

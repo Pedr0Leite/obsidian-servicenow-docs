@@ -12,7 +12,7 @@ breadcrumb: [Configure, Now Assist for OTSM, Operational Technology]
 
 # Supporting information for Now Assist for Operational Technology Service Management \(OTSM\)
 
-Get a quick overview of the important information that is related to the [[now-assist-for-operational-technology-service-management|Now Assist for Operational Technology Service Management \(OTSM\)]] application.
+Get a quick overview of the important information that is related to the Now Assist for Operational Technology Service Management \(OTSM\) application.
 
 ## Supported language models for all Now Assist for OTSM skills and AI agents
 
@@ -34,7 +34,7 @@ Skill
 
 </th></tr></thead><tbody><tr><td>
 
-[[industrial-workspace-for-operational-technology|Industrial Workspace]]
+Industrial Workspace
 
 </td><td>
 
@@ -42,13 +42,7 @@ Skill
 -   OT resolution notes generation
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[operational-technology-overview|Operational Technology]]
+</table>**Parent Topic:**[Operational Technology](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-overview.md)
 
-**Parent Topic:**[[configuring-now-assist-otsm|Configure Now Assist for Operational Technology Service Management \(OTSM\)]]
+**Parent Topic:**[Configure Now Assist for Operational Technology Service Management \(OTSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/configuring-now-assist-otsm.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[configuring-now-assist-otsm|Configure Now Assist for Operational Technology Service Management \(OTSM\)]]
-- [[now-assist-for-operational-technology-service-management|Now Assist for Operational Technology Service Management \(OTSM\)]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

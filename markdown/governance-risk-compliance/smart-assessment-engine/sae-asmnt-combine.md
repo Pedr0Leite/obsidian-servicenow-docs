@@ -14,7 +14,7 @@ breadcrumb: [Combining assessments and copying responses, Respond to assessments
 
 # Submit combined assessments
 
-Combine your [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] assessments so you can respond to all of them together. You can also configure your responses to replicate automatically across all applicable assessments so you don't need to fill them in manually.
+Combine your Smart Assessment Engine assessments so you can respond to all of them together. You can also configure your responses to replicate automatically across all applicable assessments so you don't need to fill them in manually.
 
 ## Before you begin
 
@@ -54,6 +54,4 @@ Role required: sn\_smart\_asmt.actor
 
 7.  Select **Submit all**.
 
-## Related
 
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]

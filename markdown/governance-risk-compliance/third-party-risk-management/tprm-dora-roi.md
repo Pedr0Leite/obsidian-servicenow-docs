@@ -15,7 +15,7 @@ breadcrumb: [Use digital resilience third-party registers, Third-party Risk Mana
 
 # Register of information regulatory packages
 
-The Register of Information \(RoI\) is a regulatory reporting requirement under the Digital [[grc-opres-landing-page|Operational Resilience]] Act \(DORA\) and is supported by the Digital Resilience Third-party Information Register application in the Vendor Management Workspace application.
+The Register of Information \(RoI\) is a regulatory reporting requirement under the Digital Operational Resilience Act \(DORA\) and is supported by the Digital Resilience Third-party Information Register application in the Vendor Management Workspace application.
 
 ## RoI overview
 
@@ -54,6 +54,3 @@ All RoI-related actions are performed in the **Digital resilience third-party re
 
 For more information, see [Generate a register of information package](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-drtp-roi-packages.md)
 
-## Related
-
-- [[grc-opres-landing-page|Operational Resilience]]

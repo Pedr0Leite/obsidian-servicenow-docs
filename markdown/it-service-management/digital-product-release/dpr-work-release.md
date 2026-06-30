@@ -22,7 +22,7 @@ Role required: sn\_dpr\_model.product\_manager or sn\_dpr\_model.release\_admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[dpr-workspace|Digital Product Release Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Digital Product Release Workspace**.
 
 2.  Select the releases icon \(\[Omitted image "dpr-icon-release.png"\] Alt text: Releases icon.\).
 
@@ -42,7 +42,7 @@ Role required: sn\_dpr\_model.product\_manager or sn\_dpr\_model.release\_admin
 
     For more information, see [Review and update release details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-work-release-details.md) and [Retarget a release](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-work-release-readiness-target.md).
 
-7.  Review the risk score for the current phase on the [[dpr-release-overview-dashboard|Release overview dashboard]].
+7.  Review the risk score for the current phase on the Release overview dashboard.
 
     The risk score of timeline-oriented releases combines overdue task scores and policy failure scores, weighted by their respective importance. For more information, see [Risk score for timeline-oriented releases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-risk-score-release.md).
 
@@ -58,7 +58,7 @@ Role required: sn\_dpr\_model.product\_manager or sn\_dpr\_model.release\_admin
 
     You can add new or existing change requests or remove the existing ones as needed. For more information, see [Manage change requests in a release](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-work-release-change-request.md).
 
-11. From the [[create-release-form|Release form]] header, select the number under the Artifacts to manage artifacts added to the release.
+11. From the Release form header, select the number under the Artifacts to manage artifacts added to the release.
 
     For more information, see [Manage artifacts in a release](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-work-release-artifact.md).
 
@@ -185,7 +185,7 @@ For more information, see [Email notifications in Digital Product Release](https
 
 7.  If a policy fails compliance, you can request an exception with justification.
 
-    **Note:** This option is only available when both [[dpr-landing-page|Digital Product Release]] and GRC: Policy and Compliance Management are installed.
+    **Note:** This option is only available when both Digital Product Release and GRC: Policy and Compliance Management are installed.
 
     1.  Select the policy that failed.
 
@@ -217,7 +217,7 @@ For more information, see [Email notifications in Digital Product Release](https
 
         2.  On the Key date form, update the fields.
         3.  Select **Save**.
-9.  [[dpr-complete-release|Close a release]] after verifying its completeness.
+9.  Close a release after verifying its completeness.
 
     For more information, see [Close a release](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-complete-release.md).
 
@@ -227,10 +227,4 @@ For more information, see [Email notifications in Digital Product Release](https
 
     2.  Enter the reason for cancellation and select **Cancel release**.
 
-## Related
 
-- [[dpr-workspace|Digital Product Release Workspace]]
-- [[dpr-release-overview-dashboard|Release Overview dashboard]]
-- [[create-release-form|Release form]]
-- [[dpr-landing-page|Digital Product Release]]
-- [[dpr-complete-release|Close a release]]

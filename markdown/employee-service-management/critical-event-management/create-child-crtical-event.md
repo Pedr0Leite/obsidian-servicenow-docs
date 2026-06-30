@@ -22,7 +22,7 @@ Role required: sn\_critical.agent
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]** and select the **[[critical-event-management|Critical Event Management]]** tab.
+1.  Navigate to **Workspaces** &gt; **Health and Safety Workspace** and select the **Critical Event Management** tab.
 
 2.  Open the critical event.
 
@@ -48,12 +48,7 @@ Role required: sn\_critical.agent
 **Related topics**  
 
 
-[Create a [[health-safety-overview|Health and Safety]] incident in Critical Event Management]()
+[Create a Health and Safety incident in Critical Event Management]()
 
 [View sent notifications for a critical event]()
 
-## Related
-
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[critical-event-management|Critical Event Management]]
-- [[health-safety-overview|Health and Safety]]

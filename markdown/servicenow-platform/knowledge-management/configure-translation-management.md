@@ -17,16 +17,11 @@ breadcrumb: [Configuring Knowledge Management, Knowledge Management, Manage cont
 Configure translation management to create translation tasks.
 
 -   **[Activate translation management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/activate-translation-mgt.md)**  
-You can activate the [[knowledge-management|Knowledge Management]] Advanced \(com.snc.knowledge\_advanced\) and I18N:Knowledge Management Internationalization Plugin v2 \(com.glideapp.knowledge.i18n2\) plugins for [[translation-management|translation management]] if you have the admin role.
+You can activate the Knowledge Management Advanced \(com.snc.knowledge\_advanced\) and I18N:Knowledge Management Internationalization Plugin v2 \(com.glideapp.knowledge.i18n2\) plugins for translation management if you have the admin role.
 -   **[Add a custom Localization Framework setting to enable bulk translations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/conf-lf-settings-manual-translations.md)**  
 Add a custom Localization Framework setting to translate multiple knowledge articles manually.
 -   **[Add a custom Localization Framework setting to enable machine translation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/con-lf-dynamic-translations.md)**  
-[[con-lf-dynamic-translations|Add a custom Localization Framework setting to enable machine translation]] for bulk translations of knowledge articles.
+Add a custom Localization Framework setting to enable machine translation for bulk translations of knowledge articles.
 
 **Parent Topic:**[Configuring Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/configuring-knowledge-management.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]
-- [[translation-management|Translation management]]
-- [[con-lf-dynamic-translations|Add a custom Localization Framework setting to enable machine translation]]

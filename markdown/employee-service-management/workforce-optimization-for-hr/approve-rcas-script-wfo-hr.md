@@ -32,13 +32,8 @@ Role required: sn\_hr\_wfo.admin
 
 5.  Click **Run Script** to approve all the requested RCAs.
 
-    **Note:** RCA fix script can approve the RCAs which exist at the time of execution. After running the RCA script \(if you install the [[document-templates-overview|Document Templates]] from ServiceNow Store, Human Resources Scoped App: [[hr-lifecycle-events-landing-page-1|Lifecycle Events]], and Human Resources Scoped App: [[hr-case-employee-relations|Employee Relations]] plugins\), re-run the RCA script to approve the new RCAs.
+    **Note:** RCA fix script can approve the RCAs which exist at the time of execution. After running the RCA script \(if you install the Document Templates from ServiceNow Store, Human Resources Scoped App: Lifecycle Events, and Human Resources Scoped App: Employee Relations plugins\), re-run the RCA script to approve the new RCAs.
 
 
 **Parent Topic:**[Activate Workforce Optimization for HR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/activate-wfo-hr.md)
 
-## Related
-
-- [[document-templates-overview|Document Templates]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[hr-case-employee-relations|Employee Relations]]

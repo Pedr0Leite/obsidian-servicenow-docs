@@ -15,11 +15,11 @@ breadcrumb: [Employee communications, Working with Employee Slate capabilities, 
 
 # Employee Slate announcement form
 
-Field descriptions for creating and configuring [[employee-slate-landing-page|Employee Slate]] announcements.
+Field descriptions for creating and configuring Employee Slate announcements.
 
 ## Announcement details
 
-To [[eslate-create-employee-slate-announcement|create an announcement]], see [Create an announcement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown).
+To create an announcement, see [Create an announcement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown).
 
 <table><thead><tr><th>
 
@@ -177,7 +177,3 @@ To create an announcement through chat, see [Conversational authoring for announ
 |Medium|Default priority level for announcements created from existing content.|
 |Low|Lowest priority level. Low-priority announcements typically appear later in the carousel unless they are very recent.|
 
-## Related
-
-- [[employee-slate-landing-page|Employee Slate]]
-- [[eslate-create-employee-slate-announcement|Create an announcement]]

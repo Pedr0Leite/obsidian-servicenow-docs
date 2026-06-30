@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-The default access controls auditor suite provided with your instance can't be modified. However, if you want to add, remove, or edit checks to align with your organization's security practices, you can duplicate the access controls auditor suites. Copying the access controls auditor suites enables you to customize it and create a new suite based on the default one. The access controls auditor suites includes checks related to [[security-best-practices-manager|security best practices]], covering [[ca-system-properties|system properties]], plugins, and tables that impact the instance's security posture. The following steps demonstrate how to duplicate the default access controls auditor suites to tailor it to your organization's requirements.
+The default access controls auditor suite provided with your instance can't be modified. However, if you want to add, remove, or edit checks to align with your organization's security practices, you can duplicate the access controls auditor suites. Copying the access controls auditor suites enables you to customize it and create a new suite based on the default one. The access controls auditor suites includes checks related to security best practices, covering system properties, plugins, and tables that impact the instance's security posture. The following steps demonstrate how to duplicate the default access controls auditor suites to tailor it to your organization's requirements.
 
 ## Procedure
 
@@ -38,7 +38,7 @@ The default access controls auditor suite provided with your instance can't be m
 
     2.  Add the conditions.
 
-        For example, to add [[scan-checks|scan checks]] apply the following fields, operators, values, and conditions:
+        For example, to add scan checks apply the following fields, operators, values, and conditions:
 
         **\[Category\]\[is\]\[Security\] AND \[Application\]\[is\]\[Global\]**
 
@@ -57,8 +57,3 @@ The default access controls auditor suite provided with your instance can't be m
 
 **Parent Topic:**[Create a scan suite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/create-new-suite.md)
 
-## Related
-
-- [[security-best-practices-manager|Security Best Practices]]
-- [[ca-system-properties|System properties]]
-- [[scan-checks|Scan checks]]

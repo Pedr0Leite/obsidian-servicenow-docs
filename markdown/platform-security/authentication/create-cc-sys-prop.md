@@ -14,19 +14,19 @@ breadcrumb: [Client Credentials, Old Inbound integrations experience, OAuth Inbo
 
 # Create the Client Credentials system property
 
-Create the `glide.[[oauth-inbound-and-outbound|oauth]].inbound.client.credential.grant_type.enabled` system property to use [[client-credential-grant|Client Credentials grant]] type for [[oauth-inbound|OAuth inbound]] integrations.
+Create the `glide.oauth.inbound.client.credential.grant_type.enabled` system property to use Client Credentials grant type for OAuth inbound integrations.
 
 ## Before you begin
 
 Role required: oauth\_admin
 
-Plugin required: [[c_OAuthApplications|OAuth 2.0]].
+Plugin required: OAuth 2.0.
 
 ## Procedure
 
 1.  In the navigation filter, enter `sys_properties.list`.
 
-    The entire list of properties in the [[ca-system-properties|System Properties]] \[sys\_properties\] table appears.
+    The entire list of properties in the System Properties \[sys\_properties\] table appears.
 
 2.  Select **New**.
 
@@ -39,7 +39,7 @@ Plugin required: [[c_OAuthApplications|OAuth 2.0]].
     |Type|Select the appropriate data type from the list. In this case, `true| false`.|
     |Value|Set the desired value for the property. In this case, `true` to enable the client credentials grant type for OAuth inbound integrations.|
 
-    \[Omitted image "create-cc-sys-prop.png"\] Alt text: [[client-credentials|Client Credentials]] property
+    \[Omitted image "create-cc-sys-prop.png"\] Alt text: Client Credentials property
 
     **Note:** Other fields in the form such as Choices, Ignore cache, Private, Read roles, and Write roles can be configured according to your requirements.
 
@@ -49,11 +49,4 @@ Plugin required: [[c_OAuthApplications|OAuth 2.0]].
 
     Next, you must create an OAuth client \(OAuth API endpoint for external client\) and add OAuth Application User field to the OAuth client record.
 
-## Related
 
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[client-credential-grant|Client credentials grant]]
-- [[oauth-inbound|OAuth Inbound]]
-- [[c_OAuthApplications|OAuth 2.0]]
-- [[ca-system-properties|System properties]]
-- [[client-credentials|Client Credentials]]

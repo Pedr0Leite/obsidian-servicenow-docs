@@ -16,9 +16,9 @@ breadcrumb: [Identity and Access Audit, Identity]
 
 Displays all audits performed within the ServiceNow® instance.
 
-Audit Results displays changes made for [[users|users]], groups, roles, and ACLs in the ServiceNow instance.
+Audit Results displays changes made for users, groups, roles, and ACLs in the ServiceNow instance.
 
-To access the Audit Results, navigate **All** &gt; **System Security** &gt; **[[identity-audit|Identity and Access Audit]]** &gt; **Audit Results**. The **Security Table Audits** page shows the following information.
+To access the Audit Results, navigate **All** &gt; **System Security** &gt; **Identity and Access Audit** &gt; **Audit Results**. The **Security Table Audits** page shows the following information.
 
 |Column Name|Description|
 |-----------|-----------|
@@ -32,7 +32,3 @@ To access the Audit Results, navigate **All** &gt; **System Security** &gt; **[[
 
 \[Omitted image "audit-results.png"\] Alt text: Audit Results
 
-## Related
-
-- [[users|Users]]
-- [[identity-audit|Identity and Access Audit]]

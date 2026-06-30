@@ -14,7 +14,7 @@ breadcrumb: [Configure, Agent Chat, Conversational Interfaces]
 
 # Configuring Sensitive Data Handler
 
-Detect and mask sensitive information that is shared in [[ci-use-agent-chat|Agent Chat]] or [[virtual-agent-landing-page|Virtual Agent]] conversations.
+Detect and mask sensitive information that is shared in Agent Chat or Virtual Agent conversations.
 
 ## Before you begin
 
@@ -22,13 +22,13 @@ Detect and mask sensitive information that is shared in [[ci-use-agent-chat|Agen
 
 Install the Data Privacy application as a replacement. For more information, see .
 
-Activate the [[ac-sensitive-data-overview|Sensitive Data Handler]] plugin \(com.glide.sensitive\_data\_handling\).
+Activate the Sensitive Data Handler plugin \(com.glide.sensitive\_data\_handling\).
 
 Role required: admin, virtual\_agent\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings**.
 
 2.  Under **Sensitive data detection**, select **View all**.
 
@@ -205,9 +205,3 @@ Indicates whether the regular expression is processed from left to right or righ
 
 **Parent Topic:**[Configuring Agent Chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/ci-agent-chat-configuring.md)
 
-## Related
-
-- [[ci-use-agent-chat|Agent Chat]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[ac-sensitive-data-overview|Sensitive Data Handler]]
-- [[convint-landing-page|Conversational Interfaces]]

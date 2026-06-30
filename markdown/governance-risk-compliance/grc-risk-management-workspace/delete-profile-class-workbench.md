@@ -26,7 +26,7 @@ Role required: admin
 
 2.  Select the **Model Setup** tab at the top, and select the **Dependency Model** tab.
 
-3.  Select the desired [[entity-class|entity class]] from the list on the left.
+3.  Select the desired entity class from the list on the left.
 
     After selecting an entity from the left, the entity is displayed in the center with its direct upstream and downstream dependencies.
 
@@ -39,6 +39,3 @@ Role required: admin
 
 **Parent Topic:**[Use entity and risk dependencies using the GRC: Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/grc-workbench.md)
 
-## Related
-
-- [[entity-class|entity class]]

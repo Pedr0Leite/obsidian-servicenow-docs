@@ -16,9 +16,9 @@ breadcrumb: [Legal Counsel Center reference, Legal Counsel Center, Legal Service
 
 Legal Counsel Center notifications enable users to subscribe to items that interest them and unsubscribe from messages that do not interest them and are not mandatory.
 
-[[legal-counsel-center-landing|Legal Counsel Center]] provides notifications for legal matters and for legal requests.
+Legal Counsel Center provides notifications for legal matters and for legal requests.
 
-For information about how to [[enable-disable-notification|enable or disable notifications]], see [Enable or disable notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/enable-disable-notification.md).
+For information about how to enable or disable notifications, see [Enable or disable notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/enable-disable-notification.md).
 
 ## Legal Requests notifications
 
@@ -62,7 +62,3 @@ The default state of all Legal Matters notifications is Enabled.
 
 **Parent Topic:**[Legal Counsel Center reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/legal-counsel-center-ws-reference.md)
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[enable-disable-notification|Enable or disable notifications]]

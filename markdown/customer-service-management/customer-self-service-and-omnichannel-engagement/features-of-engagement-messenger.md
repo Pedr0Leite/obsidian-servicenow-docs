@@ -50,7 +50,7 @@ After you create and configure the Engagement Messenger module, you can customiz
 
         For more information of AI Search configuration, see [Configuring AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configuring-ais.md).
 
--   **[[case-management|Case management]]**
+-   **Case management**
 
     You can manage your customer cases on the messenger. This feature is available only for authenticated users of your website.
 
@@ -76,7 +76,7 @@ After you create and configure the Engagement Messenger module, you can customiz
 
     All technician requests are stored as work orders in your ServiceNow instance so that they can be tracked to completion.
 
-    The Work Order will have the location where the customer has raised a request. Geo-location services must be enabled for the technicians so that customers can track the live location and know the estimated time of arrival \(ETA\) of their technician. For more information, see [[field-service-feature-configuration|Field service feature configuration]].
+    The Work Order will have the location where the customer has raised a request. Geo-location services must be enabled for the technicians so that customers can track the live location and know the estimated time of arrival \(ETA\) of their technician. For more information, see [Field service feature configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/field-service-feature-configuration.md).
 
     **Note:**
 
@@ -119,7 +119,7 @@ After you create and configure the Engagement Messenger module, you can customiz
 
         Getting started with Now Assist in Virtual Agent in Engagement Messenger:
 
-        -   To enable Now Assist in Virtual Agent chat support in Engagement Messenger, verify that the Now Assist in Virtual [[agent-exp|Agent experience]] is configured by virtual\_agent\_admin or admin. For more information, see [Configuring assistants overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/configure-now-assist-va.md).
+        -   To enable Now Assist in Virtual Agent chat support in Engagement Messenger, verify that the Now Assist in Virtual Agent experience is configured by virtual\_agent\_admin or admin. For more information, see [Configuring assistants overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/configure-now-assist-va.md).
         -   You can create or use an existing assistant by navigating to **All** &gt; **Conversational Interfaces** &gt; **Assistants**. For more information, see [Create a chat assistant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/create-assistant.md).
         -   Once you select an assistant navigate to the **Display experience** tab to configure the Engagement Messenger module. In the **Portals** tab, select the Engagement Messenger module from the **Add portal** list and select the **Standard chat** as the experience. For more information, see [Display your chat assistant on a portal, channel, or mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/display-assistant-portal-channel.md).
         **Note:** Each assistant comes with its own search configuration. For a smooth experience, if the assistant appears on a portal or mobile app that already has AI search configured, consider duplicating that setup to maintain consistency.
@@ -176,7 +176,7 @@ After you create and configure the Engagement Messenger module, you can customiz
 
     Engagement Messenger provides your customers updates and reminders in the following scenarios so that you can keep your customers updated even if they are not accessing the messenger directly.
 
-    -   Reminder for an upcoming walk-up appointment, according to the [[walk-up-feature-configuration|walk-up feature configuration]]
+    -   Reminder for an upcoming walk-up appointment, according to the walk-up feature configuration
     -   Reminder for an upcoming technician visit
     -   Updates on a case
     -   Update on a chat
@@ -190,21 +190,13 @@ To learn how to start configuring Engagement Messenger for your third-party webs
 
 [Exploring AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/explore-ais.md)
 
-[[csm-case-management|Case management for Customer Service Management]]
+[Case management for Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-case-management.md)
 
 [Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent-landing-page.md)
 
-[[use-walkup-experiencce|Using Walk-up Experience]]
+[Using Walk-up Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/use-walkup-experiencce.md)
 
 [Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management.md)
 
 [Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/fsm-application-landing-page.md)
 
-## Related
-
-- [[field-service-feature-configuration|Field service feature configuration]]
-- [[csm-case-management|Case management for Customer Service Management]]
-- [[use-walkup-experiencce|Using Walk-up Experience]]
-- [[case-management|Case management]]
-- [[agent-exp|Agent experience]]
-- [[walk-up-feature-configuration|Walk-up feature configuration]]

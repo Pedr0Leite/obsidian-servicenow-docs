@@ -14,7 +14,7 @@ breadcrumb: [Modeling an Operational Technology system service, Use, Operational
 
 # Add a device to an Operational Technology system service
 
-Add an [[operational-technology-overview|Operational Technology]] \(OT\) device to an OT system service to create a relationship between the equipment model entity that the device belongs to and the OT system service.
+Add an Operational Technology \(OT\) device to an OT system service to create a relationship between the equipment model entity that the device belongs to and the OT system service.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]]**.
+1.  Navigate to **All** &gt; **Industrial Workspace**.
 
 2.  Select the List \(\[Omitted image "icon-list.png"\] Alt text: List icon\) icon.
 
@@ -48,7 +48,3 @@ After you add the OT devices, the following relationships are created:
 
 **Parent Topic:**[Modeling an Operational Technology system service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/modeling-ot-system.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

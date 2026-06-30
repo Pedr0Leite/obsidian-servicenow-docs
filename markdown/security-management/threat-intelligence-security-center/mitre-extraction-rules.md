@@ -14,7 +14,7 @@ breadcrumb: [About Rules Engine in TISC, Administer, Threat Intelligence Securit
 
 # MITRE ATT&amp;CK Technique Extraction Rules
 
-Extract MITRE techniques automatically from [[c_Observables|observables]] or objects ingested from various [[data-sources|data sources]] and from [[tisc-threat-lookup|threat lookup]] results on observable records.
+Extract MITRE techniques automatically from observables or objects ingested from various data sources and from threat lookup results on observable records.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_sec\_tisc.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Administration**.
+1.  Navigate to **All** &gt; **Threat Intelligence Security Center** &gt; **Administration**.
 
 2.  Go to **Rules Engine** &gt; **MITRE ATT&amp;CK Technique Extraction Rules**.
 
@@ -68,15 +68,15 @@ Description of the MITRE ATT&amp;CK Technique Extraction rule.
 
 MITRE ATT&amp;CK Technique Extraction rule scope, based on data sources or threat lookup results. Select the data sources from the lookup.Options for Data Sources:
 
--   **Data Sources - All**: The rule applies to all data source types, including Threat Intel Feeds, Import Intelligence records, API Sources \(for example, observables created from API\), Sent from SIR \(observables sent from SIR\), and entities manually created in the [[threat-intel-landing-page|Threat Intelligence]] library.
--   **Data Sources - Threat Intel Feeds**: The rule applies only to [[threat-intelligence-feeds|threat intelligence feeds]].
+-   **Data Sources - All**: The rule applies to all data source types, including Threat Intel Feeds, Import Intelligence records, API Sources \(for example, observables created from API\), Sent from SIR \(observables sent from SIR\), and entities manually created in the Threat Intelligence library.
+-   **Data Sources - Threat Intel Feeds**: The rule applies only to threat intelligence feeds.
 -   **Data Sources - API Sources**: The rule applies only to API sources.
 -   **RSS Feeds Only**: The rule applies only to the RSS feeds.
 -   **Threat Lookup integrations**: The rule applies to all threat lookup integrations, such as VirusTotal.
 
 **Note:** When you select this option, enter the vendor name for the threat lookup. Vendor names are automatically populated only when the threat lookup integrations are installed from the ServiceNow store. For threat intelligence data sources, extraction rules are supported only for STIX, MISP, and Custom Feed types.
 
--   **[[tisc-observable-enrichment|Observable Enrichment]] integrations**: The rule applies to all observable enrichment integrations.
+-   **Observable Enrichment integrations**: The rule applies to all observable enrichment integrations.
 
 
 </td></tr><tr><td id="d494428e191">
@@ -104,7 +104,7 @@ For **RSS Feeds Only**, select one or more threat feed integrations.**Note:** If
 
 </td><td>
 
-Method for extracting MITRE ATT&amp;CK tactics and techniques. Available methods are-   **Tactic and Technique Regex**: Extracts paired tactic and technique IDs from the data using regex patterns, preserving the explicit tactic-to-technique [[mapping-logrhythm|mapping]].
+Method for extracting MITRE ATT&amp;CK tactics and techniques. Available methods are-   **Tactic and Technique Regex**: Extracts paired tactic and technique IDs from the data using regex patterns, preserving the explicit tactic-to-technique mapping.
 -   **Technique Regex**: Extracts only technique IDs using regex; all possible tactic-technique pairs from MITRE ATT&amp;CK are mapped automatically, which may lead to multiple tactics per technique.
 -   **Script**:Runs a custom script to handle extraction with full control over the logic.
 
@@ -187,13 +187,4 @@ utils.addTacticTechniquesForLookup(response.tacticIds, response.techniqueIds, re
 
 9.  Select **Delete** to delete a MITRE ATT&amp;CK Technique Extraction rule.
 
-## Related
 
-- [[c_Observables|Observables]]
-- [[data-sources|Data Sources]]
-- [[tisc-threat-lookup|Threat Lookup]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[threat-intelligence-feeds|Threat Intelligence Feeds]]
-- [[tisc-observable-enrichment|Observable Enrichment]]
-- [[mapping-logrhythm|Mapping]]

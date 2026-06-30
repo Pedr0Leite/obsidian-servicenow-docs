@@ -20,10 +20,6 @@ Using case line items, multiple issues can be tracked for the same RMA case. Als
 
 ## What to explore next
 
--   [[activate-return-merchandise-authorization-plugin|Activate the Return Merchandise Authorization plugin]]
--   [[return-merchandise-authorization-case-management-reference|Return Merchandise Authorization Case Management]]
+-   [Activate the Return Merchandise Authorization plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/activate-return-merchandise-authorization-plugin.md)
+-   [Return Merchandise Authorization Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/return-merchandise-authorization-case-management-reference.md)
 
-## Related
-
-- [[activate-return-merchandise-authorization-plugin|Activate the Return Merchandise Authorization plugin]]
-- [[return-merchandise-authorization-case-management-reference|Return Merchandise Authorization Case Management]]

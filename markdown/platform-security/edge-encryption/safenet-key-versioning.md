@@ -24,7 +24,7 @@ You must first schedule a mass key rotation job or a single key rotation job to 
 
 ## Encryption key configuration
 
-If using SafeNet versioned keys, the Change Default Keys section of the [[encryption-landing|Encryption]] Key [[sc-configuration|Configuration]] form includes new fields for the **Key version** of the default 128-bit and 256-bit keys. **Key version** fields are grayed out and cannot be edited.
+If using SafeNet versioned keys, the Change Default Keys section of the Encryption Key Configuration form includes new fields for the **Key version** of the default 128-bit and 256-bit keys. **Key version** fields are grayed out and cannot be edited.
 
 \[Omitted image "safenet-key-versioning-2.png"\] Alt text: Change default keys, Key version
 
@@ -32,7 +32,7 @@ For procedures, see [Configure encryption keys on the instance](https://raw.gith
 
 ## Versioned keys
 
-If using SafeNet versioned keys, when you navigate to **[[edge-encryption|Edge Encryption]] Configuration** &gt; **Encryption Key Configuration** &gt; **All Keys**, versioned keys include the **Key version**.
+If using SafeNet versioned keys, when you navigate to **Edge Encryption Configuration** &gt; **Encryption Key Configuration** &gt; **All Keys**, versioned keys include the **Key version**.
 
 \[Omitted image "versioned-keys-2.png"\] Alt text: Versioned keys, Key version
 
@@ -47,8 +47,3 @@ In the above example, **AES128key** is listed three times:
 
 **Parent Topic:**[Key management for Edge Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/c_EncryptionKeyManagement.md)
 
-## Related
-
-- [[encryption-landing|Encryption]]
-- [[sc-configuration|Configuration]]
-- [[edge-encryption|Edge Encryption]]

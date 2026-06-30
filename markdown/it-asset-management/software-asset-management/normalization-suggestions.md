@@ -14,7 +14,7 @@ breadcrumb: [Software discovery and normalization, Exploring Software Asset Mana
 
 # Normalization suggestions for discovery models
 
-Normalization suggestions are created for all manually normalized discovery [[c_Models|models]]. You can accept or reject these suggestions.
+Normalization suggestions are created for all manually normalized discovery models. You can accept or reject these suggestions.
 
 ## Overview of normalization suggestions
 
@@ -68,6 +68,3 @@ If you **Reject** the suggestion:
 
 **Parent Topic:**[Software discovery and normalization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_SAMDiscovery.md)
 
-## Related
-
-- [[c_Models|Models]]

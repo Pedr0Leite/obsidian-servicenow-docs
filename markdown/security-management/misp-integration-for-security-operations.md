@@ -12,7 +12,7 @@ breadcrumb: [Threat Intelligence integrations, Threat Intelligence, Enterprise s
 
 # MISP integration for Security Operations
 
-With MISP integration for Security Operations, you can investigate security incidents with sighting searches, [[tisc-observable-enrichment|observable enrichment]], and create or update events in MISP. Using MISP, you can investigate targeted attacks faster, improve the detection ratio, and reduce the number of false positives in your environment.
+With MISP integration for Security Operations, you can investigate security incidents with sighting searches, observable enrichment, and create or update events in MISP. Using MISP, you can investigate targeted attacks faster, improve the detection ratio, and reduce the number of false positives in your environment.
 
 ## Request apps on the Store
 
@@ -20,39 +20,39 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 ## MISP Overview
 
-MISP, which stands for [[threat-intelligence-malware|Malware]] Information Sharing Platform, lets you exchange and share [[threat-intel-landing-page|threat intelligence]] and [[c_IoCs|Indicators of Compromise]] \(IoCs\) about the targeted malware and attacks within your community of trusted members. You can also share MISP information with private or open communities. By exchanging MISP information, you can investigate targeted attacks faster, improve the detection ratio, and reduce the number of false positives in your environment.
+MISP, which stands for Malware Information Sharing Platform, lets you exchange and share threat intelligence and Indicators of Compromise \(IoCs\) about the targeted malware and attacks within your community of trusted members. You can also share MISP information with private or open communities. By exchanging MISP information, you can investigate targeted attacks faster, improve the detection ratio, and reduce the number of false positives in your environment.
 
 ## Key features
 
 This integration includes the things that you can do with the MISP key features:
 
--   [[install-and-configure-misp|Connect to private and public MISP instances]].
--   [[sightings-searches-in-misp|Support manual and automatic sighting search of observables]].
+-   [Connect to private and public MISP instances](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/install-and-configure-misp.md).
+-   [Support manual and automatic sighting search of observables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sightings-searches-in-misp.md).
 -   [Run sighting search from case management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sightings-searches-in-misp.md).
 -   [Report or update sightings to an attribute](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sightings-searches-in-misp.md):
     -   Report an observable as a sighting \(global\)
     -   Report an observable as a false positive \(global\)
     -   Report an observable as expired
--   [[observable-enrichment-in-misp|Support manual and automatic observable enrichment]]. Results include the MISP attribute and event information that is associated with the [[c_Observables|observables]].
+-   [Support manual and automatic observable enrichment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/observable-enrichment-in-misp.md). Results include the MISP attribute and event information that is associated with the observables.
 -   Attribute enrichment in MISP which includes adding or updating [tags](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/observable-enrichment-in-misp.md), [galaxies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/observable-enrichment-in-misp.md), or [comments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/observable-enrichment-in-misp.md).
--   [[events-in-misp|Event creation in MISP from SIR]]: Supports manual and the automatic creation of events in MISP from SIR.
+-   [Event creation in MISP from SIR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/events-in-misp.md): Supports manual and the automatic creation of events in MISP from SIR.
 -   Update a MISP event from SIR which includes adding or updating [tags](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/events-in-misp.md), [galaxies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/events-in-misp.md), or [attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/events-in-misp.md).
 -   [Add security incident associated observables as attributes to a MISP event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/events-in-misp.md).
--   [[rollup-mitre-information-using-misp-enrichment-results|Auto-extract MITRE-ATT&amp;CK™ information from MISP attributes]] and associate the information to SIR security incidents.
--   [[review-the-misp-integration-settings|Automatically add SIR MITRE-ATT&amp;CK™ information as galaxies to a MISP event]].
+-   [Auto-extract MITRE-ATT&amp;CK™ information from MISP attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/rollup-mitre-information-using-misp-enrichment-results.md) and associate the information to SIR security incidents.
+-   [Automatically add SIR MITRE-ATT&amp;CK™ information as galaxies to a MISP event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/review-the-misp-integration-settings.md).
 
 ## Key concepts
 
 This integration includes the following key concepts that you must know:
 
--   MISP is a Threat intelligence platform \(TIP\). You use TIPs to collect, correlate, categorize, share, and [[integrating-threat-intelligence-security-center|integrate]] security threat data in real time to support the prioritization of actions and aid in attack prevention, detection, and response.
+-   MISP is a Threat intelligence platform \(TIP\). You use TIPs to collect, correlate, categorize, share, and integrate security threat data in real time to support the prioritization of actions and aid in attack prevention, detection, and response.
 -   MISP is a Threat Intelligence Management \(TIM\). You use TIMs to turn threat data into threat intelligence through context and to automatically prioritize threats by user-defined scoring and relevance.
 -   MISP Data layer
     -   Events are encapsulations for contextually linked information.
-    -   Attributes are individual data points, which can be [[indicator|indicators]] or supporting data.
+    -   Attributes are individual data points, which can be indicators or supporting data.
     -   Objects are custom template attribute compositions.
-    -   Object references are the [[stix-relationships|relationships]] between the other building blocks.
-    -   [[indicator-sightings|Sightings]] are time-specific occurrences of a detected data-point.
+    -   Object references are the relationships between the other building blocks.
+    -   Sightings are time-specific occurrences of a detected data-point.
 -   MISP Context layer
     -   Tags are labels that are attached to events or attributes and may come from taxonomies.
     -   Galaxy-clusters are knowledge base items that you can use to label events or attributes that come from galaxies.
@@ -82,30 +82,10 @@ By using the MISP integration for Security Operations, your organization can do 
 |MISP documentation website|[MISP Documentation website](https://www.misp-project.org/documentation/)|
 |ServiceNow product documentation website|[ServiceNow Product Documentation website](https://www.servicenow.com/docs)|
 
--   **[[misp-administration|MISP administration]]**  
+-   **[MISP administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/misp-administration.md)**  
 You can set up MISP integration in the ServiceNow AI Platform to perform a sighting search, observable enrichment, and to create and update events in MISP.
--   **[[using-misp-to-detect-and-analyze-threats|Using MISP to investigate and analyze threats]]**  
+-   **[Using MISP to investigate and analyze threats](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/using-misp-to-detect-and-analyze-threats.md)**  
 You can use the MISP data across the ServiceNow AI Platform Threat Intelligence module and the ServiceNow AI Platform SIR module to investigate and analyze threats to your organization.
 
-**Parent Topic:**[[threat-intelligence-integrations|Threat Intelligence integrations]]
+**Parent Topic:**[Threat Intelligence integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-integrations.md)
 
-## Related
-
-- [[install-and-configure-misp|Install and configure the MISP integration for Security Operations]]
-- [[sightings-searches-in-misp|Sighting searches in MISP]]
-- [[observable-enrichment-in-misp|Observable enrichment in MISP]]
-- [[events-in-misp|Managing events in MISP]]
-- [[rollup-mitre-information-using-misp-enrichment-results|Roll up MITRE-ATT&amp;CK information using MISP enrichment results]]
-- [[review-the-misp-integration-settings|Review the MISP integration settings]]
-- [[misp-administration|MISP administration]]
-- [[using-misp-to-detect-and-analyze-threats|Using MISP to investigate and analyze threats]]
-- [[threat-intelligence-integrations|Threat Intelligence integrations]]
-- [[tisc-observable-enrichment|Observable Enrichment]]
-- [[threat-intelligence-malware|Malware]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[c_IoCs|Indicators of compromise]]
-- [[c_Observables|Observables]]
-- [[integrating-threat-intelligence-security-center|Integrate]]
-- [[indicator|Indicators]]
-- [[stix-relationships|Relationships]]
-- [[indicator-sightings|Sightings]]

@@ -14,9 +14,9 @@ breadcrumb: [Configure, Care Team Operations for Healthcare IT, Healthcare Opera
 
 To be determined.
 
-To understand how roles and responsibilities function in [[healthcare-operations-overview|Healthcare Operations]], see [Setting up roles and responsibilities for Healthcare Operations users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-operations-core/cto-setting-up-roles-responsibilities.md).
+To understand how roles and responsibilities function in Healthcare Operations, see [Setting up roles and responsibilities for Healthcare Operations users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-operations-core/cto-setting-up-roles-responsibilities.md).
 
-The following roles and responsibilities are included with [[hcls-cto-it-app|Care Team Operations for Healthcare IT]]:
+The following roles and responsibilities are included with Care Team Operations for Healthcare IT:
 
 <table id="table_wtz_5ks_jhc"><thead><tr><th>
 
@@ -45,12 +45,6 @@ Can view/resolve all cases under their assignment group, tracks, and fulfill cas
 </td></tr></tbody>
 </table>## What to do next
 
-1.  [[cto-it-set-up-roles|Assign roles to Care Team Operations for Healthcare IT users]]
-2.  [[cto-hcit-assign-responsibilites|Assign responsibilities to Care Team Operations for Healthcare IT users]]
+1.  [Assign roles to Care Team Operations for Healthcare IT users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/cto-it-set-up-roles.md)
+2.  [Assign responsibilities to Care Team Operations for Healthcare IT users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/cto-hcit-assign-responsibilites.md)
 
-## Related
-
-- [[cto-it-set-up-roles|Assign roles to Care Team Operations for Healthcare IT users]]
-- [[cto-hcit-assign-responsibilites|Assign responsibilities to Care Team Operations for Healthcare IT users]]
-- [[healthcare-operations-overview|Healthcare Operations]]
-- [[hcls-cto-it-app|Care Team Operations for Healthcare IT]]

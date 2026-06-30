@@ -22,19 +22,19 @@ Role required: sn\_slm.contact
 
 ## Procedure
 
-1.  Navigate to the [[supplier-central|Supplier Collaboration Portal]] home page by accessing your instance URL and adding a /supplier suffix.
+1.  Navigate to the Supplier Collaboration Portal home page by accessing your instance URL and adding a /supplier suffix.
 
     For example, `https://example.com/supplier`.
 
-2.  Select the [[supplier|supplier]] from the **My Company** drop-down list of suppliers associated with your profile.
+2.  Select the supplier from the **My Company** drop-down list of suppliers associated with your profile.
 
-    **Important:** The list of suppliers under **My Company** is available from the Xanadu December 2024 release onwards, only if **M2M mapping between [[supplier-contact|supplier contact]] and suppliers** is enabled.
+    **Important:** The list of suppliers under **My Company** is available from the Xanadu December 2024 release onwards, only if **M2M mapping between supplier contact and suppliers** is enabled.
 
 3.  Do one of the following:
 
     -   In the portal header, select **Raise a request**, and then select the **Update profile details** catalog item under the General category.
     -   In the portal header, select **My Company**, and then select **Request Change** on the Company Profile page.
-4.  On the [[update-supp-profile-form|Update profile details form]], fill in the fields.
+4.  On the Update profile details form, fill in the fields.
 
     For more information about the form fields and descriptions, see [Update profile details form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/update-supp-profile-form.md).
 
@@ -74,9 +74,3 @@ After the Supplier Manager approves the case, the company profile details are up
 
 [Raising requests from the Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supp-catalog-req.md)
 
-## Related
-
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[supplier|Supplier]]
-- [[supplier-contact|Supplier contact]]
-- [[update-supp-profile-form|Update profile details form]]

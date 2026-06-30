@@ -38,7 +38,7 @@ See [Zero Copy Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceN
 
     Retrieve data from Microsoft OneLake in real time without copying or duplicating the data. This connector is available with a Preview label, indicating that enhancements are ongoing.
 
--   **[[australia-patch-1|Australia Patch 1]]**
+-   **[Australia Patch 1](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/australia-patch-1.md)**
 
     [Connect to Prometheus](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/prometheus-zcc.md)
 
@@ -84,7 +84,7 @@ See [Zero Copy Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceN
 
     [Apache Iceberg](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/primary-connectors-zcc.md)
 
--   **[[australia-patch-2|Australia Patch 2]]**
+-   **[Australia Patch 2](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/australia-patch-2.md)**
 
     [Teradata](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/teradata-zcc.md)
 
@@ -119,10 +119,5 @@ Zero Copy Connector Hub is also available with activation of the Zero Copy Conne
     Zero Copy Connectors Primary \(sn\_zcc\_primary\): New plugin that includes primary connectors only.
 
 
-**Parent Topic:**[[build-automate-rn-landing|App development and low-code release notes]]
+**Parent Topic:**[App development and low-code release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/build-automate-rn-landing.md)
 
-## Related
-
-- [[australia-patch-1|Australia Patch 1]]
-- [[australia-patch-2|Australia Patch 2]]
-- [[build-automate-rn-landing|App development and low-code release notes]]

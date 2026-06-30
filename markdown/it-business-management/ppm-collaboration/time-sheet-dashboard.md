@@ -36,7 +36,7 @@ The Analytics Time sheet provides comprehensive time sheet activities and report
 
 ## Indicators
 
-The Overview, Delinquent Activity, and Analysis tabs in the dashboard contain widgets with the following indicators. The data for [[time-sheets|time sheets]] and [[c_TimeCards|time cards]] is collected from the \[time\_sheet\] table and the data for users is collected from the \[users\] table.
+The Overview, Delinquent Activity, and Analysis tabs in the dashboard contain widgets with the following indicators. The data for time sheets and time cards is collected from the \[time\_sheet\] table and the data for users is collected from the \[users\] table.
 
 -   **PPM – Active Time Sheet Users**
 
@@ -274,7 +274,3 @@ Time cards grouped by expense types: Capital Expense \(Capex\) and Operating Exp
 </td></tr></tbody>
 </table>**Parent Topic:**[Project Portfolio Management Platform Analytics Solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/project-portfolio-content-pack.md)
 
-## Related
-
-- [[time-sheets|Time Sheets]]
-- [[c_TimeCards|Time cards]]

@@ -85,23 +85,14 @@ Some ServiceNow resources that can provide you with helpful information are:
     -   [https://support.servicenow.com/now](https://support.servicenow.com/now)
     -   
 
--   **[[explore-fso-integration-with-verifi-cdrn|Exploring Financial Services Operations Integration with Verifi application]]**  
+-   **[Exploring Financial Services Operations Integration with Verifi application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/explore-fso-integration-with-verifi-cdrn.md)**  
 Learn how you can use ServiceNow® Financial Services Operations Integration with Verifi application to seamlessly connect FSO's issuer dispute workflow to Verifi CDRN.
--   **[[configure-financial-services-integration-with-verifi-cdrn|Configuring Financial Services Operations Integration with Verifi]]**  
-Configure the connection between ServiceNow FSO [[dispute-management|Dispute Management]] application to the Verifi Cardholder Dispute Resolution Network \(CDRN\) API to enable end-to-end dispute case submission and resolution.
--   **[[use-financial-services-operations-integration-with-verifi-cdrn|Using Financial Services Operations Integration with Verifi application]]**  
-As a dispute agent learn how to [[create-case-with-intake-workspace|initiate a dispute]] transaction making use of the Financial Services Operations Integration with Verifi application.
--   **[[referring-financial-services-operations-integration-with-verifi-cdrn|Financial Services Operations Integration with Verifi reference]]**  
+-   **[Configuring Financial Services Operations Integration with Verifi](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-financial-services-integration-with-verifi-cdrn.md)**  
+Configure the connection between ServiceNow FSO Dispute Management application to the Verifi Cardholder Dispute Resolution Network \(CDRN\) API to enable end-to-end dispute case submission and resolution.
+-   **[Using Financial Services Operations Integration with Verifi application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/use-financial-services-operations-integration-with-verifi-cdrn.md)**  
+As a dispute agent learn how to initiate a dispute transaction making use of the Financial Services Operations Integration with Verifi application.
+-   **[Financial Services Operations Integration with Verifi reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/referring-financial-services-operations-integration-with-verifi-cdrn.md)**  
 Learn about other supporting information that can help you configure and use the Financial Services Operations Integration with Verifi application.
 
-**Parent Topic:**[[fso-integrate-other-applications|Integrate applications]]
+**Parent Topic:**[Integrate applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-integrate-other-applications.md)
 
-## Related
-
-- [[explore-fso-integration-with-verifi-cdrn|Exploring Financial Services Operations Integration with Verifi application]]
-- [[configure-financial-services-integration-with-verifi-cdrn|Configuring Financial Services Operations Integration with Verifi]]
-- [[use-financial-services-operations-integration-with-verifi-cdrn|Using Financial Services Operations Integration with Verifi application]]
-- [[referring-financial-services-operations-integration-with-verifi-cdrn|Financial Services Operations Integration with Verifi reference]]
-- [[fso-integrate-other-applications|Integrate applications]]
-- [[dispute-management|Dispute Management]]
-- [[create-case-with-intake-workspace|Initiate a dispute]]

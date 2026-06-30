@@ -32,7 +32,7 @@ Whether accessed through the Admin UI or via API, Admin Logs helps provide insig
 
 Administrators can access Admin Logs from the CPQ Admin interface or via API, depending on their preferred workflow and use case.
 
-In the new Admin experience, access Logs in the [[cpq-utilities|Utilities]] menu. In the legacy Admin experience, click **Logs** in the navigation bar. Both experiences provide the same real-time logging capabilities and enable filtering, refreshing, and viewing detailed error information.
+In the new Admin experience, access Logs in the Utilities menu. In the legacy Admin experience, click **Logs** in the navigation bar. Both experiences provide the same real-time logging capabilities and enable filtering, refreshing, and viewing detailed error information.
 
 ## Refreshing and filtering
 
@@ -56,7 +56,7 @@ Each log entry is displayed in a structured format, making it easy to scan and u
 
 ## Accessing logs via API
 
-Administrators who prefer to query logs programmatically can access the Admin Logs API using a GET request. This is especially useful for environments with large data [[cpq-sets|sets]] or for integrating logs into external monitoring systems. This flexibility allows admins to retrieve specific log intervals for audit or performance review without loading all historical records.
+Administrators who prefer to query logs programmatically can access the Admin Logs API using a GET request. This is especially useful for environments with large data sets or for integrating logs into external monitoring systems. This flexibility allows admins to retrieve specific log intervals for audit or performance review without loading all historical records.
 
 Example cURL command:
 
@@ -91,13 +91,8 @@ Admin Logs continually evolves to provide deeper insights and improve usability.
 
 ## General guidelines
 
--   Use short time filters when [[troubleshooting|troubleshooting]] real-time configuration issues.
+-   Use short time filters when troubleshooting real-time configuration issues.
 -   Export relevant log data regularly for long-term tracking or compliance review.
 -   Leverage the API to automate log retrieval or integrate with your organization’s monitoring tools.
 -   Report unclear error codes or missing context to CPQ support for analysis and improvement.
 
-## Related
-
-- [[cpq-utilities|Utilities]]
-- [[cpq-sets|Sets]]
-- [[troubleshooting|Troubleshooting]]

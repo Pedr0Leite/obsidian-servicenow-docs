@@ -33,7 +33,7 @@ Set up Spotlight for each set of table records that you want to evaluate and ran
 -   **[See Spotlight score details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/spotlight/view-details-of-a-spotlight.md)**  
 To see the criteria whose weights contributed to a Spotlight score, view the details of the Spotlight record.
 -   **[Spotlight interactive analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/spotlight/spotlight-interactive-analysis.md)**  
-[[spotlight-interactive-analysis|Spotlight interactive analysis]] shows the key results of a Spotlight job. Access the analysis from a Spotlight Group record.
+Spotlight interactive analysis shows the key results of a Spotlight job. Access the analysis from a Spotlight Group record.
 -   **[Spotlights on Platform Analytics dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/spotlight/spotlights-configurable-workspaces.md)**  
 You can list Spotlights and show them in a dashboard on a configurable workspace.
 -   **[Spotlight job logs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/spotlight/spotlight-logs.md)**  
@@ -51,6 +51,3 @@ Users with the admin role can access lower-level components of Spotlight.
 
 **Parent Topic:**[Configure Performance Analytics advanced features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_PADataArchitecture.md)
 
-## Related
-
-- [[spotlight-interactive-analysis|Spotlight interactive analysis]]

@@ -27,7 +27,7 @@ Role required: sam\_integrator
 
 ## About this task
 
-If you’re [[using-sam-workspace|using Software Asset Workspace]], the option to create the custom integration profile in the Core UI is inactive.
+If you’re using Software Asset Workspace, the option to create the custom integration profile in the Core UI is inactive.
 
 ## Procedure
 
@@ -53,7 +53,7 @@ Action
 
 </td></tr><tr><td id="d257573e136">
 
-**[[sam-workspace|Software Asset Workspace]]**
+**Software Asset Workspace**
 
 </td><td>
 
@@ -162,10 +162,5 @@ Custom Integration. This value is automatically populated.
 
 [Create a data stream action to get users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/create-data-stream-action-slc.md) and view SaaS related analytics on [SaaS overview dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/saas-dashboard-workspace.md).
 
-Reconciliation also runs on your subscriptions as a scheduled job or on-demand. You can view your reconciliation results in the [License Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_RunReconciliation.md) \([[c_SoftwareAssetMgmt|Software Asset Management]] classic application\) or the [License usage view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/run-recon-workspace.md) \(Software Asset Workspace\). Use these results to determine your license compliance position and to remediate any non-compliance.
+Reconciliation also runs on your subscriptions as a scheduled job or on-demand. You can view your reconciliation results in the [License Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_RunReconciliation.md) \(Software Asset Management classic application\) or the [License usage view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/run-recon-workspace.md) \(Software Asset Workspace\). Use these results to determine your license compliance position and to remediate any non-compliance.
 
-## Related
-
-- [[using-sam-workspace|Using Software Asset Workspace]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

@@ -94,7 +94,7 @@ Confirm the following prerequisites before you begin configuration:
 
     2.  Work with the development team to instrument each custom button using the **Usage Insights** event registration APIs.
 
-    3.  Submit the new event registrations for approval and inclusion to the **Usage [[intelligence-csm|Intelligence]] Dashboard**.
+    3.  Submit the new event registrations for approval and inclusion to the **Usage Intelligence Dashboard**.
 
 
 ## Result
@@ -109,6 +109,3 @@ If no events appear after an agent has completed a call action, verify that the 
 
 **Note:** Users are displayed as \#IDs in **Usage Insights**.
 
-## Related
-
-- [[intelligence-csm|Intelligence]]

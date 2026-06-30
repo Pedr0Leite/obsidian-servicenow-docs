@@ -16,7 +16,7 @@ Enable dispatchers to be a member of different user groups so they can efficient
 
 ## About this task
 
-Dispatch groups must be added to a dispatcher’s user record so they can see members of the user group. This also allows the dispatcher to see the assignment groups that are part of that user group in [[dispatcher-activities|Dispatcher Workspace]].
+Dispatch groups must be added to a dispatcher’s user record so they can see members of the user group. This also allows the dispatcher to see the assignment groups that are part of that user group in Dispatcher Workspace.
 
 ## Before you begin
 
@@ -42,6 +42,4 @@ Role required: admin
 
 8.  Select **Save**.
 
-## Related
 
-- [[dispatcher-activities|Dispatcher Workspace]]

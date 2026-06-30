@@ -26,7 +26,7 @@ You can add ad hoc agents to work on a crew task. These agents join the crew mem
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Field Service** &gt; **Dispatching** &gt; **[[dispatcher-activities|Dispatcher Workspace]]**.
+1.  Navigate to **All** &gt; **Field Service** &gt; **Dispatching** &gt; **Dispatcher Workspace**.
 
 2.  Select**Dispatcher Workspace**.
 
@@ -48,6 +48,3 @@ You can add ad hoc agents to work on a crew task. These agents join the crew mem
 
 An ad hoc agent is added to the crew task.
 
-## Related
-
-- [[dispatcher-activities|Dispatcher Workspace]]

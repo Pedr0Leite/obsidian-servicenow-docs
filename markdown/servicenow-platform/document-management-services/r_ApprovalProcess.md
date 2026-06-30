@@ -14,13 +14,13 @@ breadcrumb: [Create a document, Managed Documents, Document Services, Manage con
 
 # Document approval
 
-During the approval process, the approver approves or rejects the document. A document goes through the approval process after the [[c_ReviewProcess|review process]].
+During the approval process, the approver approves or rejects the document. A document goes through the approval process after the review process.
 
 ## Approval workflow
 
 After the document has been reviewed, submit the document for approval. If the document does not have an approver, the approval process is omitted.
 
-When the document is Active, the workflow [[doc-management-landing|Document Management]] Default is used to manage approvals:
+When the document is Active, the workflow Document Management Default is used to manage approvals:
 
 \[Omitted image "MDOCworkflow.png"\] Alt text: Default workflow
 
@@ -32,7 +32,7 @@ If the final approver approves the document, the author and the owner are notifi
 
 ## Process modification for multiple approvers
 
-If there are [[c_MultipleApprovers|multiple approvers]], the approval process works in sequence and multiple approvers can be assigned to a single sequence. For example:
+If there are multiple approvers, the approval process works in sequence and multiple approvers can be assigned to a single sequence. For example:
 
 -   Sequence 1: approvers A and B
 -   Sequence 2: approvers C and D
@@ -42,8 +42,3 @@ Because the sequences take place in ascending chronological order, approvers A a
 
 **Parent Topic:**[Create a document](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/c_CreateADocument.md)
 
-## Related
-
-- [[c_ReviewProcess|Review process]]
-- [[doc-management-landing|Document Management]]
-- [[c_MultipleApprovers|Multiple approvers]]

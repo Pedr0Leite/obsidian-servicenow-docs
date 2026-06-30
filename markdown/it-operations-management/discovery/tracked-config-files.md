@@ -14,7 +14,7 @@ breadcrumb: [Advanced Discovery configuration, Configuring Discovery, Discovery,
 
 # Configuration file tracking
 
-The horizontal [[r-discovery|discovery]] process can find configuration files that belong to certain applications and add those configuration files to the CMDB. You can track the changes to these files by comparing them to previous versions.
+The horizontal discovery process can find configuration files that belong to certain applications and add those configuration files to the CMDB. You can track the changes to these files by comparing them to previous versions.
 
 **Warning:** Configuration files contain sensitive system information. To prevent unauthorized access, ensure that access control lists \(ACL\) are placed on the Tracked Configuration file table \[cmdb\_ci\_config\_file\_tracked\]. Only allow authorized users to view this table or uncheck the **Save Content** setting.
 
@@ -32,7 +32,7 @@ The horizontal [[r-discovery|discovery]] process can find configuration files th
 
     Configuration file tracking is not available for discoveries performed by traditional probes and sensors.
 
-    The classifier that triggers the pattern must specify the [[r-HorizontalPatternProbe|Horizontal Pattern probe]], which in turn, must specify the pattern. If you upgrade your instance to the current version, not all classifiers are configured to use patterns for discovery by default.
+    The classifier that triggers the pattern must specify the Horizontal Pattern probe, which in turn, must specify the pattern. If you upgrade your instance to the current version, not all classifiers are configured to use patterns for discovery by default.
 
 -   **CMDB**
 
@@ -47,7 +47,7 @@ For example, this IIS web server contains three tracked configuration files:
 
 \[Omitted image "tracked-config-file.png"\] Alt text: CI containing racked configuration files
 
-Sometimes you organize CI types as a main CI type and its related CI types. On a service instance map, [[c_ServiceMappingOverview|Service Mapping]] shows changes to configuration files of related CIs for the main CIs in inclusions. In inclusions, the system treats applications hosted on a server as independent objects. For example, the Tomcat WAR CI appears separate from its host, the Tomcat CIs. In this case, Service Mapping shows changes to configuration files of Tomcat WAR when you select Tomcat. In addition, Service Mapping displays changes to configuration files of the hardware server hosting inclusions. In this example, it is a Linux server:
+Sometimes you organize CI types as a main CI type and its related CI types. On a service instance map, Service Mapping shows changes to configuration files of related CIs for the main CIs in inclusions. In inclusions, the system treats applications hosted on a server as independent objects. For example, the Tomcat WAR CI appears separate from its host, the Tomcat CIs. In this case, Service Mapping shows changes to configuration files of Tomcat WAR when you select Tomcat. In addition, Service Mapping displays changes to configuration files of the hardware server hosting inclusions. In this example, it is a Linux server:
 
 \[Omitted image "MapInclusionTomcat.png"\] Alt text: Map showing an inclusion with a host
 
@@ -299,8 +299,3 @@ IBM MQ Manager \[cmdb\_ci\_appl\_ibm\_wmq\]
 6.  [Run horizontal discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_CreateADiscoverySchedule.md) on the hosts that are running the applications you want to discover with patterns, open the application CI record, and check the Tracked Configuration Files related list.
 7.  [Compare two versions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/compare-configuration-files.md) of tracked CI configuration files to see the actual changes made to them.
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[r-HorizontalPatternProbe|Horizontal Pattern probe]]
-- [[c_ServiceMappingOverview|Service Mapping]]

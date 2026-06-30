@@ -14,7 +14,7 @@ breadcrumb: [Advanced Work Assignment, Manage people and work, Conversational In
 
 # Configuring Advanced Work Assignment
 
-Quickly install the required and popular plugins through the plugin page after selecting any **Get \[plugin\]** button on the [[awa-admin-console-home|Advanced Work Assignment home page]]. Plan and configure [[awa-application-landing-page|Advanced Work Assignment]] \(AWA\).
+Quickly install the required and popular plugins through the plugin page after selecting any **Get \[plugin\]** button on the Advanced Work Assignment home page. Plan and configure Advanced Work Assignment \(AWA\).
 
 ## Before you begin
 
@@ -26,9 +26,9 @@ Role required: admin
 
 After installing the Advanced Work Assignment plugin and any relevant org-specific plugins, the following list outlines the basic planning and configuration steps that you must determine for AWA:
 
--   Determine what to route – Configure the base [[awa-service-channels|service channels]] to be used.
--   Determine where to route – Define the [[awa-queues|work item queues]] and the routing rules, execution order, work item sort order, and strategy.
--   Determine how to assign [[awa-work-items|work items]] – Define the assignment rules that determine the work items pushed to agents.
+-   Determine what to route – Configure the base service channels to be used.
+-   Determine where to route – Define the work item queues and the routing rules, execution order, work item sort order, and strategy.
+-   Determine how to assign work items – Define the assignment rules that determine the work items pushed to agents.
 -   Determine what the agent sees – Set the inbox card layouts and presence \(availability\) states that agents use in their Agent Workspace inbox.
 
 ## Procedure
@@ -43,11 +43,11 @@ After installing the Advanced Work Assignment plugin and any relevant org-specif
 
     The AWA home page experience refreshes and the Get targeted routing capabilities section appears.
 
-3.  Install org-specific AWA plugins through the **Get plugin** button for ServiceNow® IT Service [[management|Management]] \(ITSM\), ServiceNow® Customer Service Management, and/or ServiceNow® HR Service Delivery \(HRSD\) plugins.
+3.  Install org-specific AWA plugins through the **Get plugin** button for ServiceNow® IT Service Management \(ITSM\), ServiceNow® Customer Service Management, and/or ServiceNow® HR Service Delivery \(HRSD\) plugins.
 
     The AWA home page experience refreshes and the Get the most popular plugins section appears.
 
-4.  Install popular plugins, such as [[ci-use-agent-chat|Agent Chat]], Walk-up Experience, and/or Performance Analytics, to boost your AWA experience.
+4.  Install popular plugins, such as Agent Chat, Walk-up Experience, and/or Performance Analytics, to boost your AWA experience.
 
 5.  In the Essential settings section, select **Set up service channels** to [configure the service channels](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-create-service-channel.md) that you activated.
 
@@ -65,7 +65,7 @@ After installing the Advanced Work Assignment plugin and any relevant org-specif
 
     1.  Select **Set up presence states** to [configure availability states](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-configure-agent-presence.md) states that agents use to indicate whether they can receive work or are offline or away.
 
-    2.  Select **Set up reject reasons** to [define the reject reasons](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-configure-reject-reasons.md) that agents can use to decline [[awa-assignment|work assignments]] that they receive in their Agent Workspace inbox.
+    2.  Select **Set up reject reasons** to [define the reject reasons](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-configure-reject-reasons.md) that agents can use to decline work assignments that they receive in their Agent Workspace inbox.
 
     3.  Select **Set up universal capacity** to [configure your team's maximum universal capacity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-universal-capacity.md) to prevent an agent from being assigned too many work items.
 
@@ -79,13 +79,4 @@ After installing the Advanced Work Assignment plugin and any relevant org-specif
 
     2.  Select **Set up Shift-based Assignment** to [assign work items to agents based on shifts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-create-assignment-rule.md).
 
-## Related
 
-- [[awa-admin-console-home|Advanced Work Assignment home page]]
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[awa-service-channels|Service channels]]
-- [[awa-queues|Work item queues]]
-- [[awa-work-items|Work items]]
-- [[management|Management]]
-- [[ci-use-agent-chat|Agent Chat]]
-- [[awa-assignment|Work assignments]]

@@ -14,7 +14,7 @@ breadcrumb: [Extend SLA condition rules, Configuring Service Level Management, S
 
 # Create a custom SLA condition rule
 
-You can create custom [[c_SLAConditionRules|SLA condition rules]] to determine whether an SLA should attach, pause, complete, reattach, or cancel. SLA condition classes contain script to define processing for an SLA condition rule. Create an SLA condition rule after the SLA condition class is defined.
+You can create custom SLA condition rules to determine whether an SLA should attach, pause, complete, reattach, or cancel. SLA condition classes contain script to define processing for an SLA condition rule. Create an SLA condition rule after the SLA condition class is defined.
 
 ## Before you begin
 
@@ -26,15 +26,15 @@ Role required: admin
 
     Navigate to **System Definition** &gt; **Script Includes** and click **New**.
 
-    Within the script in the SLA Condition Class, provide methods to modify one or more of the default [[r_SLATransitions|SLA transitions]] \(attach, pause, complete, reattach, cancel\), defining the conditions for SLA processing. For example, the **attach** method defines when an SLA is created and attached to a task. The methods need to test a condition, referencing the condition fields on the SLA Definition form.
+    Within the script in the SLA Condition Class, provide methods to modify one or more of the default SLA transitions \(attach, pause, complete, reattach, cancel\), defining the conditions for SLA processing. For example, the **attach** method defines when an SLA is created and attached to a task. The methods need to test a condition, referencing the condition fields on the SLA Definition form.
 
 2.  Create an SLA Condition Rule.
 
-    1.  Navigate to **[[service-level-mgmt-landing-page|Service Level Management]]** &gt; **SLA Condition Rules** and click **New**.
+    1.  Navigate to **Service Level Management** &gt; **SLA Condition Rules** and click **New**.
 
     2.  Name the SLA Condition Rule.
 
-    3.  Select the Script Include defined above in the **Class Name** [[reference-for-itsm-mobile-agent|reference]] field.
+    3.  Select the Script Include defined above in the **Class Name** reference field.
 
 
 ## Example of an SLA Condition Class
@@ -78,9 +78,3 @@ SLAConditionLocal.prototype = Object.extendsObject(SLAConditionBase, {
 
 **Parent Topic:**[Extend SLA condition rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/c_ExtendSLAConditionRules.md)
 
-## Related
-
-- [[c_SLAConditionRules|SLA condition rules]]
-- [[r_SLATransitions|SLA transitions]]
-- [[service-level-mgmt-landing-page|Service Level Management]]
-- [[reference-for-itsm-mobile-agent|Reference]]

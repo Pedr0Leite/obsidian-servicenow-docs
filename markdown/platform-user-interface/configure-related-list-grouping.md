@@ -12,7 +12,7 @@ breadcrumb: [Lists, Administer, Configurable Workspace UI, Configure UIs and por
 
 # Group a related list by a field
 
-[[configure-onboarding-modals|Configure]] a related list to group by a field.
+Configure a related list to group by a field.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Now Experience Framework** &gt; **System UI** &gt; **[[c_RelatedLists|Related Lists]]**.
+1.  Navigate to **All** &gt; **Now Experience Framework** &gt; **System UI** &gt; **Related Lists**.
 
 2.  From the Related Lists list, select a related list.
 
@@ -34,7 +34,4 @@ Role required: admin
 
 5.  Select **Update**.
 
-## Related
 
-- [[configure-onboarding-modals|Configure]]
-- [[c_RelatedLists|Related lists]]

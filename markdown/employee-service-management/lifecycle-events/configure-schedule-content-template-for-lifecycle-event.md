@@ -14,7 +14,7 @@ breadcrumb: [Configure the supporting components for a lifecycle event, Building
 
 # Configure a schedule content template for a lifecycle event activity
 
-Create or modify a schedule content template to deliver content as part of a lifecycle event. Each template must be associated with the Schedule Content \[sn\_cd\_content\_visibility\] table, and you can configure the template for [[ec-mobile-content|mobile content]], [[ec-streamline-content|portal content]], [[ec-notification-content|notification content]], or [[ec-to-do-content|to-do content]].
+Create or modify a schedule content template to deliver content as part of a lifecycle event. Each template must be associated with the Schedule Content \[sn\_cd\_content\_visibility\] table, and you can configure the template for mobile content, portal content, notification content, or to-do content.
 
 ## Before you begin
 
@@ -66,9 +66,3 @@ Use the schedule content template to deliver content as part of a lifecycle even
 
 **Parent Topic:**[Configure the supporting components for a lifecycle event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/configure-supporting-components-for-lifecycle-event.md)
 
-## Related
-
-- [[ec-mobile-content|Mobile content]]
-- [[ec-streamline-content|Portal content]]
-- [[ec-notification-content|Notification content]]
-- [[ec-to-do-content|To-do content]]

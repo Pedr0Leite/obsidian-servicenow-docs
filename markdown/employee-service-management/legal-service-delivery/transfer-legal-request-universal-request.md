@@ -14,7 +14,7 @@ breadcrumb: [Universal Request for Legal Service Delivery, Integration with Serv
 
 # Transfer a legal ticket to another department
 
-Transfer a legal ticket \(legal request or legal matter\) associated with a [[ur-landing-limitedaccess|universal request]] to another department or back to the universal request for processing and resolution.
+Transfer a legal ticket \(legal request or legal matter\) associated with a universal request to another department or back to the universal request for processing and resolution.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_lg\_ops.legal\_fulfiller
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Legal Request** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
 2.  Click the List icon \(\[Omitted image "lsd-lcc-list-icon.png"\] Alt text: List icon\).
 
@@ -66,7 +66,7 @@ Service
 
 </td><td>
 
-The service or request type within the selected department.**Note:** **[[hr-case-employee-relations|Employee Relations]]** must be selected to transfer an ethics complaint legal matter to the Human Resources department. For any other service selected, an error message is displayed.
+The service or request type within the selected department.**Note:** **Employee Relations** must be selected to transfer an ethics complaint legal matter to the Human Resources department. For any other service selected, an error message is displayed.
 
 </td></tr><tr><td>
 
@@ -105,8 +105,3 @@ Options for including additional comments and attachments from the legal ticket 
 
 **Parent Topic:**[Universal Request for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/universal-requests-legal.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[hr-case-employee-relations|Employee Relations]]

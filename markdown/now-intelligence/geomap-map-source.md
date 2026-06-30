@@ -20,7 +20,7 @@ By default, your instance has a map source hierarchy for geomaps that references
 
 ## Differences between map sources for data visualizations and for reports
 
-If you’re familiar with [[c_MapReport|Map reports]] in Core UI, you might have noticed that the map sources for geomaps are different than map sources for map reports. They’re different enough to be on different Map sources tables, sys\_report\_map\_source and viz\_map\_source. The most significant difference is in how they reference tables.
+If you’re familiar with Map reports in Core UI, you might have noticed that the map sources for geomaps are different than map sources for map reports. They’re different enough to be on different Map sources tables, sys\_report\_map\_source and viz\_map\_source. The most significant difference is in how they reference tables.
 
 In map reports, the map source references the facts table, such as Incident \[incident\]. The map source also includes a reference field that points to the location table. Child map sources dot-walk to a field on the location table. This structure results in a separate map source hierarchy for every data table you want as a data source for a map.
 
@@ -30,7 +30,7 @@ Map sources for geomaps point directly to location tables. They don’t referenc
 
 \[Omitted image "dv-map-sources.png"\] Alt text: Reusable set of map sources for all geomap data visualizations on an instance.
 
-**Parent Topic:**[[create-dv-geomap-ac|Create a geomap data visualization]]
+**Parent Topic:**[Create a geomap data visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-geomap-ac.md)
 
 ## Create a data visualization map source
 
@@ -111,7 +111,7 @@ Field
 
 Select a field of location data that is one level more granular than the map you are displaying it on.For example, imagine you are configuring data for a level 1 map source that is displayed on the world map. Because the data for countries are displayed on the world map, select **Location Country**. Similarly, if you are configuring data to display on a map of Germany or the United States, select **Location State / Province**.
 
-**Note:** The city is the most granular location level that you can display when drilling down into a map report. For example: If you want to report on various site locations within a city, and define the bottom-level map source field to include location.name, the map report displays the multiple locations as the corresponding city labels. As a result, [[reporting-landing-page|reporting]] on multiple locations which have the same location.city value results in displaying multiple map dots with the same label, but with different aggregated values, and which drill down to different locations.
+**Note:** The city is the most granular location level that you can display when drilling down into a map report. For example: If you want to report on various site locations within a city, and define the bottom-level map source field to include location.name, the map report displays the multiple locations as the corresponding city labels. As a result, reporting on multiple locations which have the same location.city value results in displaying multiple map dots with the same label, but with different aggregated values, and which drill down to different locations.
 
 </td></tr><tr><td>
 
@@ -172,8 +172,4 @@ If you selected **Use mapping**, select a mapping group to use. A mapping group 
 
 9.  Select **Update**.
 
-## Related
 
-- [[create-dv-geomap-ac|Create a geomap data visualization]]
-- [[c_MapReport|Map reports]]
-- [[reporting-landing-page|Reporting]]

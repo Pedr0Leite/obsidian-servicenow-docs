@@ -100,7 +100,7 @@ Assignment Territory
 
 </td><td>
 
-Select the check box to convert the territory into an assignment territory, allowing you to add assignment groups and field service agents to it.**Note:** An inactive assignment territory is not eligible for scheduling and does not appear in the [[dispatcher-activities|Dispatcher Workspace]].
+Select the check box to convert the territory into an assignment territory, allowing you to add assignment groups and field service agents to it.**Note:** An inactive assignment territory is not eligible for scheduling and does not appear in the Dispatcher Workspace.
 
 </td></tr><tr><td>
 
@@ -108,7 +108,7 @@ Aggregated agent schedule cut off
 
 </td><td>
 
-The number of days until which the agent schedule details are available, and the aggregated agent schedule is used for task assignments when [[capacity|capacity]] is defined by aggregated agent schedule. Beyond the cut-off days, the base defined capacity is utilized for capacity management and task assignments.**Note:**
+The number of days until which the agent schedule details are available, and the aggregated agent schedule is used for task assignments when capacity is defined by aggregated agent schedule. Beyond the cut-off days, the base defined capacity is utilized for capacity management and task assignments.**Note:**
 
 -   This field is available only for assignment territory.
 
@@ -156,7 +156,3 @@ When accessing a territory record, the displayed related lists depend on whether
 
 [Configuring resources for territories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/configuring-resources-for-territories.md)
 
-## Related
-
-- [[dispatcher-activities|Dispatcher Workspace]]
-- [[capacity|Capacity]]

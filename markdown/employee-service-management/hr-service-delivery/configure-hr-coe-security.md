@@ -22,11 +22,11 @@ Role required: sn\_hr\_core.admin, sn\_hr\_le.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **COE Security Configuration**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **COE Security Configuration**.
 
 2.  Select the COE \(table that extends the HR case table\) you want specified groups to have access to.
 
-3.  Check **Applies to all services** if you want all the [[hr-service-administration|HR services]] under the selected COE to be included in the security policy.
+3.  Check **Applies to all services** if you want all the HR services under the selected COE to be included in the security policy.
 
 4.  Leave this field blank to select specific HR services under a COE.
 
@@ -45,7 +45,7 @@ Role required: sn\_hr\_core.admin, sn\_hr\_le.admin
     -   Read
     -   Write
     -   Case Restriction
-    **Note:** The Case restriction option is only displayed when [[hr-case-employee-relations|Employee Relations]] is installed.
+    **Note:** The Case restriction option is only displayed when Employee Relations is installed.
 
     Selecting Case Locking displays the following fields:
 
@@ -74,8 +74,3 @@ Role required: sn\_hr\_core.admin, sn\_hr\_le.admin
 
 **Parent Topic:**[HR service categorization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-service-categorization.md)
 
-## Related
-
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[hr-service-administration|HR services]]
-- [[hr-case-employee-relations|Employee Relations]]

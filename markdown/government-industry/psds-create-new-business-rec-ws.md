@@ -32,12 +32,10 @@ Role required: sn\_gsm.constituent\_agent, sn\_gsm.business\_agent, sn\_gsm.agen
 
 6.  Select **Create Business** and fill in the fields.
 
-    For more information on the fields, see [[business-profile-form|Business Profile form]].
+    For more information on the fields, see [Business Profile form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/business-profile-form.md).
 
 7.  Select **Submit**.
 
     The business is now linked to the interaction, and a new tab opens with the business details.
 
-## Related
 
-- [[business-profile-form|Business Profile form]]

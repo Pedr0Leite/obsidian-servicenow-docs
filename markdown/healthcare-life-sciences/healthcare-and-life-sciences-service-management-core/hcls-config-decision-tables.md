@@ -21,13 +21,9 @@ As a user with the admin role, you can configure decision tables to automaticall
 Note the following points when configuring decision tables for healthcare cases:
 
 -   Associate the document template for the healthcare document as the answer for the decision.
--   Associate the column in a [[hcls-case-table|healthcare case table]] as a decision input.
+-   Associate the column in a healthcare case table as a decision input.
 
-You configure decision tables for healthcare cases in the [[hcls-core-app|Healthcare and Life Sciences Service Management Core]] application by navigating to **All** &gt; **HCLS Service Management** &gt; **Administration** &gt; **Document decisions**. The **Trigger document flow for HC case** business rule runs on insert and update of every healthcare case and evaluates all document decisions that have the case reference configured as an input. When the decision conditions are satisfied, the business rule initiates the document workflow for the associated document template.
+You configure decision tables for healthcare cases in the Healthcare and Life Sciences Service Management Core application by navigating to **All** &gt; **HCLS Service Management** &gt; **Administration** &gt; **Document decisions**. The **Trigger document flow for HC case** business rule runs on insert and update of every healthcare case and evaluates all document decisions that have the case reference configured as an input. When the decision conditions are satisfied, the business rule initiates the document workflow for the associated document template.
 
 For more information, see [Decision Tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/decision-table.md).
 
-## Related
-
-- [[hcls-case-table|Healthcare case table]]
-- [[hcls-core-app|Healthcare and Life Sciences Service Management Core]]

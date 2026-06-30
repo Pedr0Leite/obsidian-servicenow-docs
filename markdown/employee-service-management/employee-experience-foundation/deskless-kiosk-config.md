@@ -22,7 +22,7 @@ Role required: sn\_hr\_sp.esc\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Service Portals** &gt; **Portals** &gt; **[[deskless-kiosk-overview|Employee Center Pro Kiosk]]**.
+1.  Navigate to **All** &gt; **Service Portals** &gt; **Portals** &gt; **Employee Center Pro Kiosk**.
 
 2.  Edit the portal to suit your needs.
 
@@ -40,7 +40,7 @@ Role required: sn\_hr\_sp.esc\_admin
 
     -   Header: `eck_header`
     -   Header name: `Employee Center Pro Kiosk Header`
-5.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Employee Center footer** to check and use the following default [[emp-center-footer-config|footer configuration]]:
+5.  Navigate to **All** &gt; **Employee Center** &gt; **Employee Center footer** to check and use the following default footer configuration:
 
     -   Footer: `employee-center-footer`
     -   Footer name: Employee Center Footer
@@ -93,8 +93,3 @@ The time off balances details in the Employee Center Pro Kiosk is the source of 
 
 **Parent Topic:**[Employee Center Pro Kiosk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/deskless-kiosk-overview.md)
 
-## Related
-
-- [[deskless-kiosk-overview|Employee Center Pro Kiosk]]
-- [[employee-center-landing-page|Employee Center]]
-- [[emp-center-footer-config|Footer configuration]]

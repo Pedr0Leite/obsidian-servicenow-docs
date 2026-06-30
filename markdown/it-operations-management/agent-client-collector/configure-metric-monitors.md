@@ -14,7 +14,7 @@ breadcrumb: [ACC deployment - endpoints, Configuring Agent Client Collector, Age
 
 # Choose and configure metrics to monitor
 
-[[operational-metrics|Metric Intelligence]] uses data sources that can be monitoring hundreds of metrics for all CIs. Choose for each data source type which details are important for which CIs, and then activate or deactivate the respective monitor type to control the amount of data that is being processed.
+Metric Intelligence uses data sources that can be monitoring hundreds of metrics for all CIs. Choose for each data source type which details are important for which CIs, and then activate or deactivate the respective monitor type to control the amount of data that is being processed.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ The overall number of metrics that can be processed, depends on the number of MI
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Metrics** &gt; **Metric Types**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Metrics** &gt; **Metric Types**.
 
     The **Monitoring System Metric Types** displays the metric types that are being collected per data source, per CI type.
 
@@ -103,7 +103,3 @@ Unit type that is associated with the source metric type, displayed in the Metri
 </table>
 **Parent Topic:**[Deploying Agent Client Collector on endpoints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-endpoint-deployment.md)
 
-## Related
-
-- [[operational-metrics|Metric Intelligence]]
-- [[c_EM|Event Management]]

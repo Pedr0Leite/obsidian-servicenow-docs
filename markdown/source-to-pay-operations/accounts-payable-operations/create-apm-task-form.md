@@ -15,7 +15,7 @@ breadcrumb: [Reference, Accounts Payable Operations, Finance and Supply Chain]
 
 # Create New Invoice task form
 
-Field descriptions for the Create New Invoice task form used to [[create-invoice|create invoice]] inquiry tasks and exception tasks and complete the required details.
+Field descriptions for the Create New Invoice task form used to create invoice inquiry tasks and exception tasks and complete the required details.
 
 <table id="table_yfx_dwy_lvb"><thead><tr><th>
 
@@ -105,7 +105,7 @@ Detailed description about the task.
 
 </td></tr></tbody>
 </table>-   **[Invoice task form tabs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/invoice-task-form-related-list.md)**  
-Descriptions of the tabs on the Invoice [[slo-task-form|task form]] and the information each tab contains for [[invoice-tasks|invoice tasks]].
+Descriptions of the tabs on the Invoice task form and the information each tab contains for invoice tasks.
 
 **Parent Topic:**[Accounts Payable Operations reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/acc-pay-reference.md)
 
@@ -116,7 +116,7 @@ Descriptions of the tabs on the Invoice [[slo-task-form|task form]] and the info
 
 [Create New Invoice Line form]()
 
-[Create [[invoice-line-cost-allocation|invoice cost allocation]] form]()
+[Create invoice cost allocation form]()
 
 [Outbound cost allocation staging table]()
 
@@ -142,9 +142,3 @@ Descriptions of the tabs on the Invoice [[slo-task-form|task form]] and the info
 
 [Accounts Payable Operations glossary]()
 
-## Related
-
-- [[create-invoice|create invoice]]
-- [[slo-task-form|Task form]]
-- [[invoice-tasks|Invoice tasks]]
-- [[invoice-line-cost-allocation|Invoice cost allocation]]

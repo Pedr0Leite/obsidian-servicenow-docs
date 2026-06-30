@@ -12,7 +12,7 @@ breadcrumb: [Email layouts, Email and SMS notifications, System notifications, N
 
 # Create an email layout
 
-Create an email layout to specify the HTML content you want to appear in the body of one or more [[c_EmailTemplates|email templates]].
+Create an email layout to specify the HTML content you want to appear in the body of one or more email templates.
 
 ## Before you begin
 
@@ -77,7 +77,7 @@ Layout
 
 </td><td>
 
-Use the inline editor to add HTML elements. The system displays HTML from this field in the body of any email template that uses the layout. Include notification variables to show content from the related record. For more information notification variables see [[notification-variables|Notification variables]].
+Use the inline editor to add HTML elements. The system displays HTML from this field in the body of any email template that uses the layout. Include notification variables to show content from the related record. For more information notification variables see [Notification variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/notification-variables.md).
 
  **Note:** The editor automatically formats any HTML code you enter from the **Source code** view.
 
@@ -111,10 +111,5 @@ Use this field to manually enter HTML code. The system displays HTML from this f
     The email template uses the selected email layout to format the body of email messages.
 
 
-**Parent Topic:**[[email-layouts|Email layouts]]
+**Parent Topic:**[Email layouts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/email-layouts.md)
 
-## Related
-
-- [[notification-variables|Notification variables]]
-- [[email-layouts|Email layouts]]
-- [[c_EmailTemplates|Email templates]]

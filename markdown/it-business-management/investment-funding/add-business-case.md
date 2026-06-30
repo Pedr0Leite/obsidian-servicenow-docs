@@ -28,7 +28,7 @@ When a business case is created on a demand or project record, the same is mappe
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[investment-funding-overview|Investment Funding]]** &gt; **My Funds**.
+1.  Navigate to **All** &gt; **Investment Funding** &gt; **My Funds**.
 
 2.  Open an investment to add the business case.
 
@@ -92,6 +92,3 @@ Investment class category assigned to the investment:-   **Run**: Investment mad
 
 **Parent Topic:**[Create an investment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/investment-funding/create-investment.md)
 
-## Related
-
-- [[investment-funding-overview|Investment Funding]]

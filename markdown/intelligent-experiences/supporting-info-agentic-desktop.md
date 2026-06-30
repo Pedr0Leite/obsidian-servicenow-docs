@@ -12,7 +12,7 @@ breadcrumb: [Explore, AI Desktop Actions, Enable AI experiences]
 
 # Supporting information for AI Desktop Actions
 
-Get a quick overview of the important information that is related to the [[agentic-desktop-landing-page|AI Desktop Actions]] application.
+Get a quick overview of the important information that is related to the AI Desktop Actions application.
 
 ## Supported versions
 
@@ -20,7 +20,7 @@ Support for adaptive desktop actions is added from Australia Patch 2.
 
 ## Supported user interfaces
 
-To design and run AI-powered desktop actions using [[na-ai-agents|Now Assist AI agents]], install the AI Desktop Actions application. For more information, see [[configure-agentic-desktop|Configure AI Desktop Actions]].
+To design and run AI-powered desktop actions using Now Assist AI agents, install the AI Desktop Actions application. For more information, see [Configure AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-agentic-desktop.md).
 
 ## Licensing requirements
 
@@ -31,12 +31,6 @@ The AI Desktop Actions application requires a ServiceNow Pro Plus or Enterprise 
 This app has the following dependencies:
 
 -   AI Desktop Actions Core \(sn\_desktop\_core\)
--   [[platform-now-assist-landing|Now Assist]] AI web agents \(sn\_naa\)
+-   Now Assist AI web agents \(sn\_naa\)
 -   Now Assist AI agents
 
-## Related
-
-- [[configure-agentic-desktop|configure agentic desktop]]
-- [[agentic-desktop-landing-page|AI Desktop Actions]]
-- [[na-ai-agents|Now Assist AI agents]]
-- [[platform-now-assist-landing|Now Assist]]

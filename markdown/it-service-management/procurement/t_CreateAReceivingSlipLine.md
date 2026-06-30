@@ -18,7 +18,7 @@ When assets arrive at a stockroom and you receive them, a receiving slip is crea
 
 ## Before you begin
 
-Role required: [[c_Procurement|procurement]]\_admin or procurement\_user
+Role required: procurement\_admin or procurement\_user
 
 ## About this task
 
@@ -35,7 +35,7 @@ If the asset already exists, the asset record is updated when you save the recei
     -   A **Number** is assigned.
     -   In **Received**, the current date and time are added.
     -   In **Received by**, the currently logged in user is added.
-3.  In **Purchase Order Line**, select the [[reference-for-itsm-mobile-agent|reference]] lookup icon and select a purchase order line.
+3.  In **Purchase Order Line**, select the reference lookup icon and select a purchase order line.
 
     The **Purchase Order Line** field is required if the parent receiving slip has an associated purchase order. Only purchase order lines that are associated with the same purchase order linked to the parent receiving slip are available for selection.
 
@@ -63,7 +63,3 @@ The **Receiving stockroom** field on the Receiving Slip record becomes read-only
 
 [Consumable assets]()
 
-## Related
-
-- [[c_Procurement|Procurement]]
-- [[reference-for-itsm-mobile-agent|Reference]]

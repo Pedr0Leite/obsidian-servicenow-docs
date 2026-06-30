@@ -28,11 +28,11 @@ Role required: it\_project\_manager
 
 3.  Select the **Cost Plan Breakdowns** related list.
 
-4.  Select the **i** icon against a [[cost-plan-breakdown|cost plan breakdown]].
+4.  Select the **i** icon against a cost plan breakdown.
 
 5.  Select **Open Record**.
 
-6.  In the [[cost-plan-breakdown-form|Cost Plan Breakdown form]], view and update the enabled fields.
+6.  In the Cost Plan Breakdown form, view and update the enabled fields.
 
     For more information, see [Cost plan breakdown form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/cost-plan-breakdown-form.md).
 
@@ -46,7 +46,3 @@ Role required: it\_project\_manager
 
 [System-generated cost plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/cost-plan-breakdown.md)
 
-## Related
-
-- [[cost-plan-breakdown|Cost plan breakdown]]
-- [[cost-plan-breakdown-form|Cost plan breakdown form]]

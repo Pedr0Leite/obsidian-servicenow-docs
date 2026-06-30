@@ -14,7 +14,7 @@ breadcrumb: [Configure, Healthcare and Life Sciences Service Management Core, He
 
 # Configuring the Healthcare and Life Sciences Service Management Core email notifications
 
-Configure the [[hcls-core-app|Healthcare and Life Sciences Service Management Core]] email notifications sent to patients about account registration with the Patient Portal.
+Configure the Healthcare and Life Sciences Service Management Core email notifications sent to patients about account registration with the Patient Portal.
 
 Healthcare and Life Sciences Service Management Core includes the following email notifications.
 
@@ -24,6 +24,3 @@ Healthcare and Life Sciences Service Management Core includes the following emai
 
 As a user with the sn\_hcls.admin role, you can configure the email notifications for the Healthcare and Life Sciences Service Management Core application, by navigating to **All** &gt; **System Notification** &gt; **Email** &gt; **Notifications**. For more information on editing email notifications, see [Create an email notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateANotification.md).
 
-## Related
-
-- [[hcls-core-app|Healthcare and Life Sciences Service Management Core]]

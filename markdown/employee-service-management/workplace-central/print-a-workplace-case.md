@@ -14,7 +14,7 @@ breadcrumb: [Working with Case management, Use, Workplace Central, Workplace Ser
 
 # Print a workplace case
 
-As a case manager, apart from [[manage-workplace-cases|managing workplace cases]], you can also print a workplace case using the [[workplace-central-feat|Workplace Central]] [[case-management-workspace|Case management]] workspace.
+As a case manager, apart from managing workplace cases, you can also print a workplace case using the Workplace Central Case management workspace.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_wsd\_case.case\_reader, sn\_wsd\_case.case\_writer, sn\_wsd\_
 
 1.  Navigate to **All** &gt; **Workplace Central** &gt; **Workplace Central**.
 
-    You can also open Workplace Central from the [[employee-center-landing-page|Employee Center]] directly by navigating to **Workspaces** &gt; **Workplace Central**.
+    You can also open Workplace Central from the Employee Center directly by navigating to **Workspaces** &gt; **Workplace Central**.
 
 2.  In the Workplace Central pane, select the Case Management icon \(\[Omitted image "casemgmt-icon.png"\] Alt text: Case Management icon.\).
 
@@ -41,7 +41,7 @@ Role required: sn\_wsd\_case.case\_reader, sn\_wsd\_case.case\_writer, sn\_wsd\_
 
 5.  On the case details page, select **Print case**.
 
-    The workplace case report is available in both the [[activity-lxp|Activity]] and Attachments sections.
+    The workplace case report is available in both the Activity and Attachments sections.
 
 
 **Parent Topic:**[Working with Case management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/working-with-case-management.md)
@@ -67,10 +67,3 @@ Role required: sn\_wsd\_case.case\_reader, sn\_wsd\_case.case\_writer, sn\_wsd\_
 
 [View Facility Assets in Workplace Central]()
 
-## Related
-
-- [[manage-workplace-cases|Managing Workplace cases]]
-- [[workplace-central-feat|Workplace Central]]
-- [[case-management-workspace|Case management]]
-- [[employee-center-landing-page|Employee Center]]
-- [[activity-lxp|Activity]]

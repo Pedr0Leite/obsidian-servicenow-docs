@@ -13,24 +13,18 @@ breadcrumb: [Configure, Now Assist Center, Enable AI experiences]
 
 # Set up automation opportunity discovery in Now Assist Center
 
-Configure the data sources, filters, and schedule that [[ai-agent-advisor-landing-page|AI Agent Advisor]] uses to analyze your instance and identify automation opportunities.
+Configure the data sources, filters, and schedule that AI Agent Advisor uses to analyze your instance and identify automation opportunities.
 
 AI Agent Advisor runs a scheduled analysis of your instance records to discover automation opportunities. Follow these steps to specify which records to include, apply filters to focus the analysis, and set the frequency and timing of the analysis.
 
-For more information, see [[now-assist-center-set-up-automation-discovery|Set up automation opportunity discovery for AI Agent Advisor]].
+For more information, see [Set up automation opportunity discovery for AI Agent Advisor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-set-up-automation-discovery.md).
 
-**Parent Topic:**[[configuring-now-assist-center|Configuring Now Assist Center]]
+**Parent Topic:**[Configuring Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configuring-now-assist-center.md)
 
 **Related topics**  
 
 
-[Confirm installation of [[platform-now-assist-landing|Now Assist]] Center]()
+[Confirm installation of Now Assist Center]()
 
 [Enable the Now Assist panel]()
 
-## Related
-
-- [[now-assist-center-set-up-automation-discovery|Set up automation opportunity discovery for AI Agent Advisor]]
-- [[configuring-now-assist-center|Configuring Now Assist Center]]
-- [[ai-agent-advisor-landing-page|AI Agent Advisor]]
-- [[platform-now-assist-landing|Now Assist]]

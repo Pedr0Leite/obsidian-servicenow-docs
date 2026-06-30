@@ -20,12 +20,12 @@ Performance Analytics provides several script objects for use in scripts and API
 
 -   In general, use scripts only to support indicators like Age with date processing, using the `score_start` and `score_end` variables.
 -   Limit unnecessary fields. Every time you include an extra dot-walked field, you add an extra join to the query.
--   Try to replace [[manual-breakdowns|manual breakdowns]] with [database views](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md) for better performance.
+-   Try to replace manual breakdowns with [database views](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md) for better performance.
 -   Try to use script includes for common functions. For more information, see [Script includes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/c_ScriptIncludes.md).
--   If the data is not structured in a way you need for [[reporting-landing-page|reporting]], try adding 'reporting fields' to the operational tables instead of creating scripts. For more information, see this [Community post](https://community.servicenow.com/community?id=community_blog&sys_id=2f99990fdbee5b00fece0b55ca9619fb).
+-   If the data is not structured in a way you need for reporting, try adding 'reporting fields' to the operational tables instead of creating scripts. For more information, see this [Community post](https://community.servicenow.com/community?id=community_blog&sys_id=2f99990fdbee5b00fece0b55ca9619fb).
 -   If you are running a background script that queries the Performance Analytics scores or snapshots tables, you cannot access data about a scoped application unless you have an appropriate role for that application.
 
-**Warning:** Try not to use GlideRecords or GlideAggregates in Performance Analytics scripts or [[formula-indicators|formula indicators]]. While sometimes you must use these operations to get what you want, they are expensive, potentially running hundreds of thousands of times. Be certain that no alternative exists before you use them.
+**Warning:** Try not to use GlideRecords or GlideAggregates in Performance Analytics scripts or formula indicators. While sometimes you must use these operations to get what you want, they are expensive, potentially running hundreds of thousands of times. Be certain that no alternative exists before you use them.
 
 ## Breakdown mapping and indicator scripts
 
@@ -64,7 +64,7 @@ Role required: admin, pa\_admin. To access data for scoped applications in Perfo
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]] Administration** &gt; **Indicators** &gt; **Scripts** and click **New**.
+1.  Navigate to **All** &gt; **Platform Analytics Administration** &gt; **Indicators** &gt; **Scripts** and click **New**.
 
 2.  Give the script a descriptive **Name**.
 
@@ -94,7 +94,7 @@ Several variables are available for use in Performance Analytics scripts and for
 
 You can use the following variables in Performance Analytics scripts and formulas.
 
--   `score_start`: First second of the day of the first indicator score collection. For scripts, the time is calculated based on the difference between the time zone of the Run As user for the collection job and the database time zone, which is GMT. For formulas, the time is calculated based on the difference between the time zone of the user who executes the formula and GMT. A user executes a formula by viewing the formula indicator in a dashboard widget or on the [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]].
+-   `score_start`: First second of the day of the first indicator score collection. For scripts, the time is calculated based on the difference between the time zone of the Run As user for the collection job and the database time zone, which is GMT. For formulas, the time is calculated based on the difference between the time zone of the user who executes the formula and GMT. A user executes a formula by viewing the formula indicator in a dashboard widget or on the Analytics Hub.
 -   `score_end`: Last second of the day of the last indicator score collection. The time is calculated the same way as for `score_start`.
 -   `pa`: A formula variable, not usable in scripts, that provides a set of Analytics Hub attributes and methods.
 
@@ -113,10 +113,3 @@ The `score_start` and `score_end` values are calculated based on the time zone o
 
 [Changes to score\_start/end because of different user time zones]()
 
-## Related
-
-- [[manual-breakdowns|Manual breakdowns]]
-- [[reporting-landing-page|Reporting]]
-- [[formula-indicators|Formula indicators]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]

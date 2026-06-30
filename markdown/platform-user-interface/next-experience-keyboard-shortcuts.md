@@ -16,9 +16,9 @@ You can use keyboard shortcuts to quickly perform common actions in the user int
 
 The keyboard shortcuts that display in the modal are specific to the screen you’re viewing. Keyboard shortcuts depend on the browser and operating system that you’re using. The Linux operating system is not currently supported.
 
-To [[enable-keyboard-shortcuts|enable keyboard shortcuts]] for your instance, see [[next-experience-accessibility-preferences|Configure Next Experience accessibility preferences]].
+To enable keyboard shortcuts for your instance, see [Configure Next Experience accessibility preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-accessibility-preferences.md).
 
-To customize the Next Experience keyboard shortcuts for your instance, see [[customize-keyboard-shortcuts|Customize Next Experience keyboard shortcuts]].
+To customize the Next Experience keyboard shortcuts for your instance, see [Customize Next Experience keyboard shortcuts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/customize-keyboard-shortcuts.md).
 
 Learn more about Next Experience keyboard shortcuts from the following tutorial:
 
@@ -195,7 +195,7 @@ The keyboard shortcuts for applying focus for Microsoft Windows and macOS are li
 |Page tab|Control+Alt+3|Command+Option+3|
 |Record tab|Control+Alt+4|Command+Option+4|
 |Contextual sidebar|Shift+Alt+x|Shift+Option+x|
-|Activity Stream [[activity-stream-compose-configurable-workspace|Compose]] text field|Shift+Alt+c|Shift+Option+c|
+|Activity Stream Compose text field|Shift+Alt+c|Shift+Option+c|
 |First action button|Shift+Alt+t|Shift+Option+t|
 |First field in the form|Shift+Alt+f|Shift+Option+f|
 |First tile in the Activity Stream|Control+Alt+x|Command+Option+x|
@@ -219,9 +219,3 @@ Additional keyboard shortcuts for Microsoft Windows and macOS are listed in the 
 |Expand/collapse the resizable pane|Shift+Alt+p|Shift+Option+p|
 |Reply to the most recent email correspondence|Shift+Alt+e|Shift+Option+e|
 
-## Related
-
-- [[next-experience-accessibility-preferences|Configure Next Experience accessibility preferences]]
-- [[customize-keyboard-shortcuts|Customize Next Experience keyboard shortcuts]]
-- [[enable-keyboard-shortcuts|Enable keyboard shortcuts]]
-- [[activity-stream-compose-configurable-workspace|Compose]]

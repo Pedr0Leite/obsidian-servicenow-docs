@@ -22,8 +22,8 @@ While the **Sourcing decision dependent on case** and **Order dependent on case*
 
 Tasks and cases are generated when the following rules are triggered, with the decision tables supporting this generation via decision inputs.
 
--   [[purchase-requisition|Purchase Requisition]] Task and Case Generation Rule
--   [[sourcing-request|Sourcing Request]] Task and Case Generation Rule
+-   Purchase Requisition Task and Case Generation Rule
+-   Sourcing Request Task and Case Generation Rule
 -   Negotiation Task and Case Generation Rule
 -   Sourcing Event Task and Case Generation Rule
 
@@ -76,10 +76,10 @@ For more information on email notifications, see [Alerts and email notifications
 A list of the types and subtypes of purchasing tasks are listed.
 
 -   Purchasing task
-    -   Select a [[supplier|Supplier]]: Ask the shopper to compare [[pricing|pricing]] from multiple suppliers and select a supplier.
+    -   Select a Supplier: Ask the shopper to compare pricing from multiple suppliers and select a supplier.
     -   Sourcing task
     -   Ask a question: Ask the shopper for more information about the purchase.
--   Procurement/Supplier task: [[create-procurement-task|Create a procurement task]] for a supplier.
+-   Procurement/Supplier task: Create a procurement task for a supplier.
 
 \[Omitted image "create\_procurement\_task.png"\] Alt text: Create new procurement task.
 
@@ -209,7 +209,7 @@ Purchase requisition associated with this task.
 
 </td></tr><tr><td>
 
-[[purchase-order-table|Purchase order]]
+Purchase order
 
 </td><td>
 
@@ -285,11 +285,3 @@ Create purchasing tasks and procurement cases in sourcing requests and purchase 
 
 **Parent Topic:**[Sourcing and Purchasing Automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-experience-workflow.md)
 
-## Related
-
-- [[purchase-requisition|Purchase requisition]]
-- [[sourcing-request|Sourcing request]]
-- [[supplier|Supplier]]
-- [[pricing|Pricing]]
-- [[create-procurement-task|Create a procurement task]]
-- [[purchase-order-table|Purchase order]]

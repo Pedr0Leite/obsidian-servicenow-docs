@@ -48,13 +48,13 @@ Role required: admin
     -   Selecting **Advanced**: Option to specify a specific table to generate tests
         -   Maximum Test Count: Upper bound on the number of generated tests.
         -   Maximum test count per table: Upper bound on the test count for each table
-        -   Maximum test count per catalog item: Maximum number of generated tests per [[service-catalog|service catalog]] item, defaulting to maximum 10. You can modify the number of generated tests per service catalog item
+        -   Maximum test count per catalog item: Maximum number of generated tests per service catalog item, defaulting to maximum 10. You can modify the number of generated tests per service catalog item
         -   Create separate update sets per scope: Option to create a separate update set for each scope
         -   Scope for generating tests: Ability to have the tables in separate update sets for different scopes. For example, the generator gathers information about the scope of the tables and then saves the tests in a separate update set for each scope
 
             **Note:** This field is visible only if the **Create separate update sets per scope** field is not selected. You can then select the scope for the generated tests. The default scope is Global.
 
-        -   [[email|Email]]: Email address of the user to [[c_ReceiveNotifications|receive notifications]] about test generation summary
+        -   Email: Email address of the user to receive notifications about test generation summary
         -   Presets: Number of user-control generated tests per service catalog item. The maximum default number is 10.
     **Note:** Since the test generation process is time consuming, check your provided email address regularly to receive the notification about the test generation.
 
@@ -105,7 +105,7 @@ Role required: admin
 
     A list of tests within the selected suite shows up. Only the successful tests show up in this suite.
 
-8.  Select the generated suite and scroll down to the Tests related list, if you want to view the generated automated tests using either [[c_RecordProducer|Record Producer]] or Service Catalog.
+8.  Select the generated suite and scroll down to the Tests related list, if you want to view the generated automated tests using either Record Producer or Service Catalog.
 
     From the automated tests created, you can view all the users who have used that record or incident. Although the tests steps here are similar to the other test steps, the initial validation is done for the fields on the form. Also, for every mandatory field, a value is set based on the sample data. It also validates after every mandatory step. Once you submit, it does a final record validation.
 
@@ -117,9 +117,3 @@ Role required: admin
 
 [Tests generation for flow and flow logic]()
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[email|Email]]
-- [[c_ReceiveNotifications|Receive notifications]]
-- [[c_RecordProducer|Record Producer]]

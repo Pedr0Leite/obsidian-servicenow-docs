@@ -35,12 +35,9 @@ When an employee submits a travel request, an email is sent to the employee's ma
 
 \[Omitted image "travel-approval-email.png"\] Alt text: Travel approval request email.
 
-Managers can also view travel requests for their employees by navigating to **[[employee-travel-safety|Employee Travel Safety]]** &gt; **My Employee's Requests**.
+Managers can also view travel requests for their employees by navigating to **Employee Travel Safety** &gt; **My Employee's Requests**.
 
 Users in the Travel Approvers group can view travel requests for all employees by navigating to **Employee Travel Safety** &gt; **View Travel Requests**.
 
 Employees receive an email notification when their travel request is approved or rejected.
 
-## Related
-
-- [[employee-travel-safety|Employee Travel Safety]]

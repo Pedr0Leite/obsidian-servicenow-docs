@@ -31,12 +31,12 @@ Role required: admin
     |Field|Description|
     |-----|-----------|
     |Name|The certificate name.|
-    |Expiration notification|Select this option to send a notification to the [[users|users]] selected in the **Notify on expiration** field. By default, this is enabled.|
+    |Expiration notification|Select this option to send a notification to the users selected in the **Notify on expiration** field. By default, this is enabled.|
     |Notify on expiration|Select the users to revive the notification regarding certificate expiration. If no users are selected, the logged in user is added by default, along with the last two logged in users with the administrator role.|
     |Warn in days to expire|The number of days before expiration that the instance send the notification. Enter a value of at least 20. Instances upgraded to Istanbul and later releases have this value set to 20 unless a greater value is specified.|
     |Active|A check box to indicate that this certificate is active.|
     |Format|The format of the certificate.|
-    |Type|The certificate container. The instance recognizes [[c_Certificates|certificates]] from trust stores, Java keystore, and PKCS\#12 keystores.|
+    |Type|The certificate container. The instance recognizes certificates from trust stores, Java keystore, and PKCS\#12 keystores.|
     |Valid from|The instance automatically adds the certificate valid from date to this field. Attach the certificate to the X.509 certificate record to populate this field.|
     |Expires|The instance automatically adds the certificate expiration date to this field. Attach the certificate to the X.509 certificate record to populate this field.|
     |Expires in days|The calculated number of days to expiration.|
@@ -45,7 +45,7 @@ Role required: admin
     |Subject|The instance automatically adds the certificate subject to this field. Attach the certificate to the X.509 certificate record to populate this field.|
     |PEM Certificate|Enter the value of the X509 certificate.|
 
-    **Note:** The integration does not currently sign the certificate in [[sc-communications|communications]] between the instance and the IdP.
+    **Note:** The integration does not currently sign the certificate in communications between the instance and the IdP.
 
 4.  Click **Save**.
 
@@ -54,8 +54,3 @@ Role required: admin
 
 Click **Validate Stores/Certificates** to test the trust store and certificate.
 
-## Related
-
-- [[users|Users]]
-- [[c_Certificates|Certificates]]
-- [[sc-communications|Communications]]

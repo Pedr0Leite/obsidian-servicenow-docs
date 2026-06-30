@@ -16,10 +16,10 @@ Avoid some of the pitfalls you can encounter when writing your own integrations 
 
 ## Use ServiceNow platform functionality whenever possible
 
-Mostly, the [[integration-capabilities|integration capabilities]] built into [[security-operations-landing-page|Security Operations]] applications \([[sir-landing-page|Security Incident Response]], [[threat-intel-landing-page|Threat Intelligence]], and [[vuln-landing-page|Vulnerability Response]]\) are intended to enhance or streamline existing ServiceNow platform integration functionality. When writing integrations, always make sure to use platform functionality when it exists. Here are some common ServiceNow functionalities that can be used rather than “rolling-your-own.”
+Mostly, the integration capabilities built into Security Operations applications \(Security Incident Response, Threat Intelligence, and Vulnerability Response\) are intended to enhance or streamline existing ServiceNow platform integration functionality. When writing integrations, always make sure to use platform functionality when it exists. Here are some common ServiceNow functionalities that can be used rather than “rolling-your-own.”
 
 -   Outbound web services – for most interactions with third-party systems, communication are through web services. In those cases, utilize platform outbound web services \(REST and SOAP are supported\).
--   A data sources/import sets/transform map – for processing data and inserting into ServiceNow tables, the preferred mechanism is to use [[data-sources|data sources]] and associated components.
+-   A data sources/import sets/transform map – for processing data and inserting into ServiceNow tables, the preferred mechanism is to use data sources and associated components.
 
 ## Use Security Operations integration frameworks whenever possible
 
@@ -37,7 +37,7 @@ As an integration is being developed or tested, be sure to provide feedback when
 
 A common issue with integrations is that they are not equipped to handle realistic loads. Because each integration is a scoped application, there are more limitations imposed by the platform to ensure system stability. These limitations may result in long running jobs or API calls being terminated. You can ensure that long running processes or processes that process lots of data are handled gracefully by reducing the time each call or process takes \(usually by providing a means of paginating API requests or chunking large sets of data\).
 
-**Parent Topic:**[[c_IntegrationWritingGuidelines|ServiceNow Security Operations integration development guidelines]]
+**Parent Topic:**[ServiceNow Security Operations integration development guidelines](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/c_IntegrationWritingGuidelines.md)
 
 **Related topics**  
 
@@ -48,12 +48,3 @@ A common issue with integrations is that they are not equipped to handle realist
 
 [Integration troubleshooting]()
 
-## Related
-
-- [[c_IntegrationWritingGuidelines|ServiceNow Security Operations integration development guidelines]]
-- [[integration-capabilities|Integration capabilities]]
-- [[security-operations-landing-page|Security Operations]]
-- [[sir-landing-page|Security Incident Response]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[data-sources|Data Sources]]

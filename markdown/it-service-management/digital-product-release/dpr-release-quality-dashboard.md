@@ -28,7 +28,7 @@ For more information, see [Integrate external tools from Digital Product Release
 
 ## Access the Release Quality dashboard
 
-To open the Release Quality dashboard, navigate to **Workspaces** &gt; **[[dpr-workspace|Digital Product Release Workspace]]**. Select the releases icon \(\[Omitted image "dpr-icon-release.png"\] Alt text: Releases icon.\) and then select a release from the Releases list. Select the **Quality** tab on the release record.
+To open the Release Quality dashboard, navigate to **Workspaces** &gt; **Digital Product Release Workspace**. Select the releases icon \(\[Omitted image "dpr-icon-release.png"\] Alt text: Releases icon.\) and then select a release from the Releases list. Select the **Quality** tab on the release record.
 
 **Note:** The **Quality** tab only appears for ongoing releases.
 
@@ -127,6 +127,3 @@ Total number of code smells and total number of technical debts and duplications
 
 [Quality metrics dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/devops-insights-dboard-ws.md)
 
-## Related
-
-- [[dpr-workspace|Digital Product Release Workspace]]

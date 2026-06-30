@@ -14,7 +14,7 @@ breadcrumb: [Application service mapping using classic Service Mapping, Using Se
 
 # Map multiple application services suggested by classic Service Mapping
 
-You can map multiple application services identified and suggested by [[c_ServiceMappingOverview|Service Mapping]] in a single operation. This method suits your organization if you do not have much information about application services.
+You can map multiple application services identified and suggested by Service Mapping in a single operation. This method suits your organization if you do not have much information about application services.
 
 ## Before you begin
 
@@ -40,7 +40,7 @@ Immediately after you complete the Service Mapping setup, Service Mapping automa
     Not all candidate service instances correlate to actual service instances. Service Mapping filters out unlikely candidates by applying an algorithm that takes into account such parameters as empty IP addresses, port numbers, and the load balancer VIP hit counts less than 1000. Service Mapping stores candidates in the Candidate Entry Point \[sa\_cand\_entry\_point\] table in the CMDB.
 
 
-During the [[r-discovery|discovery]] and mapping process, Service Mapping creates a service instance from each candidate and assigns it the entry point retrieved from the candidate. While mapping in bulk is an effective and fast way to create numerous service instances, the result of the bulk mapping is not precise. There may be some false or duplicate service instances created by mistake because the data from the load balancer is raw. During the review and approval process, you review all mapped service instances and get rid of the ones that were erroneously created.
+During the discovery and mapping process, Service Mapping creates a service instance from each candidate and assigns it the entry point retrieved from the candidate. While mapping in bulk is an effective and fast way to create numerous service instances, the result of the bulk mapping is not precise. There may be some false or duplicate service instances created by mistake because the data from the load balancer is raw. During the review and approval process, you review all mapped service instances and get rid of the ones that were erroneously created.
 
 You can further filter the list of candidates by selecting specific ones to include in or exclude from discovery. Mapping only selected candidates provides the following advantages:
 
@@ -133,7 +133,7 @@ If you want to create application services only from several candidates
 -   Send application services discovered without errors to their respective owners for approval. For more information, see [Send application service maps for review](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/send-business-service-for-review.md).
 -   Make sure that the service instances aren't too large:
 
-    -   Service Mapping doesn't offer to [[view-ci-list|view CI list]] instead of a map for a service instance.
+    -   Service Mapping doesn't offer to view CI list instead of a map for a service instance.
     -   There is no discovery message indicating that the service instance is too large: **The map does not display the entire service, because it is too large. The number of CI connections exceeded the allowed maximum.**
     If some application services are too large, resolve the service size issue:
 
@@ -141,7 +141,7 @@ If you want to create application services only from several candidates
     -   [Split the service into smaller services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/add-segment-to-business-service-map.md).
 
 -   **[Add or remove CIs for multiple application services using connection suggestions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/manipulate-connections-suggestions-in-bulk.md)**  
-If the [[predictive-intelligence-discovery|discovery based on Predictive Intelligence]] is enabled, the newly mapped application services include only CIs and CI connections added by discovery patterns. Use connection suggestions to decide which configuration items \(CIs\) to include or exclude globally. Service Mapping then updates all relevant discovered application services to reflect your decisions.
+If the discovery based on Predictive Intelligence is enabled, the newly mapped application services include only CIs and CI connections added by discovery patterns. Use connection suggestions to decide which configuration items \(CIs\) to include or exclude globally. Service Mapping then updates all relevant discovered application services to reflect your decisions.
 -   **[Add CIs to multiple application services using connection rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/add-cis-connection-rules-multiple.md)**  
 Create rules for automatically adding traffic-based connections and the CIs they lead to in discovered service instances. Create rules that add CIs to multiple application services.
 
@@ -168,9 +168,3 @@ Create rules for automatically adding traffic-based connections and the CIs they
 
 [Application service analysis and maintenance using classic Service Mapping]()
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]
-- [[view-ci-list|view ci list]]
-- [[predictive-intelligence-discovery|Discovery based on Predictive Intelligence]]

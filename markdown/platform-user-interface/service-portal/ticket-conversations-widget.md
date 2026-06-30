@@ -20,7 +20,7 @@ The Ticket Conversations widget displays journal entries from the activity forma
 
 The Ticket Conversations widget is intended only for tables that extend task.
 
-Limit the number of journal entries that appears in the ticket conversation widget using the **glide.service\_portal.stream\_entry\_limit** system property. The default number is 100 on a base instance or 500 if the property is not in the System Property \[sys\_properties\] table. Change the number by navigating to **[[c_ServicePortal|Service Portal]]** &gt; **Properties**, and enter the new number in the **Maximum number of stream entries displayed in Service Portal** field.
+Limit the number of journal entries that appears in the ticket conversation widget using the **glide.service\_portal.stream\_entry\_limit** system property. The default number is 100 on a base instance or 500 if the property is not in the System Property \[sys\_properties\] table. Change the number by navigating to **Service Portal** &gt; **Properties**, and enter the new number in the **Maximum number of stream entries displayed in Service Portal** field.
 
 \[Omitted image "WidgetTicketConversations.png"\] Alt text: Ticket Conversations widget
 
@@ -29,7 +29,7 @@ Limit the number of journal entries that appears in the ticket conversation widg
 |Field|Description|
 |-----|-----------|
 |Use dynamic placeholder|Use a placeholder for journal fields. The default value is false.|
-|No readable journal field message|The message that displays when there are no readable journal fields. [[form-configurable-workspace|Forms]] that have added journal fields may not display in the Ticket Conversation widget.|
+|No readable journal field message|The message that displays when there are no readable journal fields. Forms that have added journal fields may not display in the Ticket Conversation widget.|
 |Enter key behavior|The action to perform when pressing the Enter key. The default is to submit the entry. The **System Property** option is based on the value of the **glide.service\_portal.comment.enter\_adds\_newline** system property.|
 
 **Parent Topic:**[Example widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sp-example-widgets.md)
@@ -43,7 +43,3 @@ Limit the number of journal entries that appears in the ticket conversation widg
 
 [Clone a widget]()
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[form-configurable-workspace|Forms]]

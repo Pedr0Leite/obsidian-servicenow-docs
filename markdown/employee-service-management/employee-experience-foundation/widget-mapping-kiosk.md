@@ -14,7 +14,7 @@ breadcrumb: [Schedule in Employee Center Pro Kiosk, Configure Employee Center Pr
 
 # Customize the schedule widget
 
-Customize the schedule widget on the [[emp-slate-employee-profile|Employee Profile]] to display it to your preference.
+Customize the schedule widget on the Employee Profile to display it to your preference.
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ The **Schedule** tab is visible on your Employee Profile.
 
 **Parent Topic:**[Schedule in Employee Center Pro Kiosk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/shift-time-kiosk-ec.md)
 
-## Related
-
-- [[emp-slate-employee-profile|Employee profile]]

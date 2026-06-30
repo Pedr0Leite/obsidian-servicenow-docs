@@ -14,7 +14,7 @@ breadcrumb: [Securing and encrypting MID Server data, MID Server, Manage instanc
 
 # MID Server Governance
 
-Improve [[mid-server-landing|MID Server]] security by setting an automatic timeout to invalidate and shut down inactive MID Servers. You can enable this feature and set the inactivity timeout period globally and for each MID Server.
+Improve MID Server security by setting an automatic timeout to invalidate and shut down inactive MID Servers. You can enable this feature and set the inactivity timeout period globally and for each MID Server.
 
 <table id="table_yfh_kv4_nhb"><tbody><tr><td>
 
@@ -91,6 +91,3 @@ The purpose is a text field that the customer can update at any point to indicat
 
 [MID Server FIPS Enforced Mode]()
 
-## Related
-
-- [[mid-server-landing|MID Server]]

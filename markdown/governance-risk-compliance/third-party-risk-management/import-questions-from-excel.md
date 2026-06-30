@@ -67,7 +67,7 @@ See [Configure TPRM properties](https://raw.githubusercontent.com/ServiceNow/Ser
 6.  Expand a category to view the questions in each category.
 
 
-**Parent Topic:**[[r_WhatIsGRC|Governance, Risk, and Compliance]]
+**Parent Topic:**[Governance, Risk, and Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/r_WhatIsGRC.md)
 
 **Related topics**  
 
@@ -76,6 +76,3 @@ See [Configure TPRM properties](https://raw.githubusercontent.com/ServiceNow/Ser
 
 [Import existing data from other systems](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-historical-data-import.md)
 
-## Related
-
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]

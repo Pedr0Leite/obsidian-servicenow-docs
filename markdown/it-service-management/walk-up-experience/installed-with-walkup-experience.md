@@ -14,7 +14,7 @@ breadcrumb: [Walk-up Experience reference, Walk-up Experience, IT Service Manage
 
 # Components installed with Walk-up Experience
 
-Several types of components are installed with activation of the [[walkup-experience-landing-page|Walk-up Experience]] plugin, including tables and user roles.
+Several types of components are installed with activation of the Walk-up Experience plugin, including tables and user roles.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -38,7 +38,7 @@ Walk-up login\[sn\_walkup.walkup\_login\]
 
 </td><td>
 
-Used to log into the onsite Walk-up Experience portal when needed. For example, at the beginning of the work day for an agent. **Note:** This role is assigned to a user record for purposes of logging into the check-in device, typically a tablet, at the on-site Walk-up Experience portal. It is not an actual human being with an assigned role, but an account used to log into the on-site portal [[dex-workspace-devices-tab|devices]]. The user record can be assigned only this role in order to access the onsite Walk-up Experience portal. The user record account cannot contain any other associated roles. For security reasons, the Walk-up Experience portal cannot be accessed using the admin role.
+Used to log into the onsite Walk-up Experience portal when needed. For example, at the beginning of the work day for an agent. **Note:** This role is assigned to a user record for purposes of logging into the check-in device, typically a tablet, at the on-site Walk-up Experience portal. It is not an actual human being with an assigned role, but an account used to log into the on-site portal devices. The user record can be assigned only this role in order to access the onsite Walk-up Experience portal. The user record account cannot contain any other associated roles. For security reasons, the Walk-up Experience portal cannot be accessed using the admin role.
 
 </td><td>
 
@@ -143,7 +143,3 @@ Record used to configure scheduled appointments. Extends the Task \[task\] table
 </td></tr></tbody>
 </table>**Parent Topic:**[Walk-up Experience reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walk-up-experience-reference.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]
-- [[dex-workspace-devices-tab|Devices]]

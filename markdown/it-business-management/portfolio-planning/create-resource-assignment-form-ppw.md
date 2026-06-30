@@ -14,7 +14,7 @@ breadcrumb: [Form field information, Reference, Next Experience for Demand Manag
 
 # Create resource assignment form
 
-The [[pw-resource-assignment-form|resource assignment form]] information is used to create a resource assignment record for a demand.
+The resource assignment form information is used to create a resource assignment record for a demand.
 
 <table id="table_owy_331_j3c"><thead><tr><th>
 
@@ -150,7 +150,3 @@ Enter details about the assignment to help resource manager or project manager w
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[pw-resource-assignment-form|Resource assignment form]]

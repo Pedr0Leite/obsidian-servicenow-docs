@@ -12,83 +12,50 @@ breadcrumb: [Reference, Field Service Management]
 
 # Components installed with additional plugins for Field Service Management
 
-Several types of components are installed with the additional plugins for the [[fsm-application-landing-page|Field Service Management]] application.
+Several types of components are installed with the additional plugins for the Field Service Management application.
 
--   **[[appointment-booking-components|Appointment booking components]]**  
-The roles, properties, and tables for the [[appointment-booking|appointment booking]] feature.
--   **[[components-time-recording-fsm|Time Recording for Field Service components]]**  
+-   **[Appointment booking components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/appointment-booking-components.md)**  
+The roles, properties, and tables for the appointment booking feature.
+-   **[Time Recording for Field Service components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/components-time-recording-fsm.md)**  
 The plugins and roles for the Time Recording for Field Service.
--   **[[fsm-signed-pdf-components|Field Service - Signature Pad components]]**  
+-   **[Field Service - Signature Pad components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/fsm-signed-pdf-components.md)**  
 Several types of components are installed with Field Service - Signature Pad, including tables and script includes.
--   **[[contractor-management-components|Contractor Management components]]**  
+-   **[Contractor Management components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/contractor-management-components.md)**  
 The roles and task filters for the Contractor Management application.
--   **[[contractor-marketplace-cmpnts|Field Service Marketplace components]]**  
-Several types of components are installed with the activation of the [[fsm-marketplace|Field Service Marketplace]] feature including tables, roles, system properties, business rules, and script includes.
--   **[[customer-experience-components|Customer Experience components]]**  
+-   **[Field Service Marketplace components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/contractor-marketplace-cmpnts.md)**  
+Several types of components are installed with the activation of the Field Service Marketplace feature including tables, roles, system properties, business rules, and script includes.
+-   **[Customer Experience components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/customer-experience-components.md)**  
 Several types of components are installed with the Customer Experience feature, including properties, tables, and business rules.
--   **[[capacity-management-components|Field Service Capacity and Reservations Management components]]**  
-Several types of components are installed with the Field Service [[capacity-management|Capacity and Reservations Management]] feature, including tables, business rules, scheduled jobs, and script includes.
--   **[[crew-scheduling-components|Field Service Crew Operations components]]**  
-The roles, tables, script includes, and business rules for the [[field-service-crew-scheduling|Field Service Crew Operations]] application.
--   **[[fsm-task-recommendation-components|Intelligent Task Recommendations components]]**  
+-   **[Field Service Capacity and Reservations Management components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/capacity-management-components.md)**  
+Several types of components are installed with the Field Service Capacity and Reservations Management feature, including tables, business rules, scheduled jobs, and script includes.
+-   **[Field Service Crew Operations components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/crew-scheduling-components.md)**  
+The roles, tables, script includes, and business rules for the Field Service Crew Operations application.
+-   **[Intelligent Task Recommendations components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/fsm-task-recommendation-components.md)**  
 Several types of components are installed with the Intelligent Task Recommendations components feature, including tables and business rules.
--   **[[service-locations-components|Field Service with Service Locations Support components]]**  
+-   **[Field Service with Service Locations Support components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/service-locations-components.md)**  
 Components installed with activation of the Field Service with Service Locations Support \(com.snc.fsm\_service\_locations\) plugin.
--   **[[territory-planning-components-fsm|Field Service Territory Planning components]]**  
-Several types of components are installed with the [[territory-planning-fsm|Field Service Territory Planning]] feature, including tables, roles, script includes, and business rules.
--   **[[advanced-part-souring-components|Advanced Part Sourcing components]]**  
+-   **[Field Service Territory Planning components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/territory-planning-components-fsm.md)**  
+Several types of components are installed with the Field Service Territory Planning feature, including tables, roles, script includes, and business rules.
+-   **[Advanced Part Sourcing components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/advanced-part-souring-components.md)**  
 Several types of components are installed with the Advanced Part Sourcing feature, including tables, script includes and business rules.
--   **[[template-management-components|Template Management for Field Service components]]**  
+-   **[Template Management for Field Service components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/template-management-components.md)**  
 Several types of components are installed with the Template Management for Field Service feature, including tables, script includes, and business rules.
--   **[[planned-work-components|Planned Work Management components]]**  
-Several types of components are installed with [[planned-work-management|Planned Work Management]], including tables, roles, script includes, and business rules.
--   **[[components-wfo-fsm|Workforce Optimization for Field Service components]]**  
-Several types of components are installed with activation of the [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]] \(com.snc.app\_fsm\_wfo\) plugin, including user roles, key performance indicators \(KPIs\), scheduled jobs, properties, and tables.
--   **[[task-bundling-components|Field Service Task Bundling components]]**  
+-   **[Planned Work Management components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/planned-work-components.md)**  
+Several types of components are installed with Planned Work Management, including tables, roles, script includes, and business rules.
+-   **[Workforce Optimization for Field Service components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/components-wfo-fsm.md)**  
+Several types of components are installed with activation of the Workforce Optimization for Field Service \(com.snc.app\_fsm\_wfo\) plugin, including user roles, key performance indicators \(KPIs\), scheduled jobs, properties, and tables.
+-   **[Field Service Task Bundling components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/task-bundling-components.md)**  
 Several types of components are installed with the activation of the Field Service Task Bundling feature including business rules, task filters and task grouping rules.
--   **[[quality-mgmt-components|Field Service Quality Management components]]**  
+-   **[Field Service Quality Management components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/quality-mgmt-components.md)**  
 Several types of components are installed with the activation of the Field Service Quality Management feature including tables, substates, and roles.
--   **[[field-service-agent-efficiency-components|Field Service Agent Efficiency components]]**  
-Several types of components are installed with the [[agent-efficiency|Field Service Agent Efficiency]] feature, including tables, roles, script includes, and business rules.
--   **[[smart-assessment-components|Smart Assessment components]]**  
+-   **[Field Service Agent Efficiency components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-agent-efficiency-components.md)**  
+Several types of components are installed with the Field Service Agent Efficiency feature, including tables, roles, script includes, and business rules.
+-   **[Smart Assessment components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/smart-assessment-components.md)**  
 Several types of components are installed with the Smart Assessment feature, including tables, business rules, script includes and scheduled jobs.
--   **[[work-configuration-components|Field Service Work Configurations components]]**  
+-   **[Field Service Work Configurations components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-configuration-components.md)**  
 Several type of components like tables, business rules, and script includes are installed for Work Configurations.
--   **[[field-service-demo-work-config-components|Field Service Demo Work Configuration components]]**  
+-   **[Field Service Demo Work Configuration components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-demo-work-config-components.md)**  
 Several type of components like tables, script includes, and business rules are installed for Field Service Demo Work Configuration.
 
-**Parent Topic:**[[fsm-reference|Field Service Management reference]]
+**Parent Topic:**[Field Service Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/fsm-reference.md)
 
-## Related
-
-- [[appointment-booking-components|Appointment booking components]]
-- [[components-time-recording-fsm|Time Recording for Field Service components]]
-- [[fsm-signed-pdf-components|Field Service - Signature Pad components]]
-- [[contractor-management-components|Contractor Management components]]
-- [[contractor-marketplace-cmpnts|Field Service Marketplace components]]
-- [[customer-experience-components|Customer Experience components]]
-- [[capacity-management-components|Field Service Capacity and Reservations Management components]]
-- [[crew-scheduling-components|Field Service Crew Operations components]]
-- [[fsm-task-recommendation-components|Intelligent Task Recommendations components]]
-- [[service-locations-components|Field Service with Service Locations Support components]]
-- [[territory-planning-components-fsm|Field Service Territory Planning components]]
-- [[advanced-part-souring-components|Advanced Part Sourcing components]]
-- [[template-management-components|Template Management for Field Service components]]
-- [[planned-work-components|Planned Work Management components]]
-- [[components-wfo-fsm|Workforce Optimization for Field Service components]]
-- [[task-bundling-components|Field Service Task Bundling components]]
-- [[quality-mgmt-components|Field Service Quality Management components]]
-- [[field-service-agent-efficiency-components|Field Service Agent Efficiency components]]
-- [[smart-assessment-components|Smart Assessment components]]
-- [[work-configuration-components|Field Service Work Configurations components]]
-- [[field-service-demo-work-config-components|Field Service Demo Work Configuration components]]
-- [[fsm-reference|Field Service Management reference]]
-- [[fsm-application-landing-page|Field Service Management]]
-- [[appointment-booking|Appointment booking]]
-- [[fsm-marketplace|Field Service Marketplace]]
-- [[capacity-management|Capacity and Reservations Management]]
-- [[field-service-crew-scheduling|Field Service Crew Operations]]
-- [[territory-planning-fsm|Field Service Territory Planning]]
-- [[planned-work-management|Planned Work Management]]
-- [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]]
-- [[agent-efficiency|Field Service Agent Efficiency]]

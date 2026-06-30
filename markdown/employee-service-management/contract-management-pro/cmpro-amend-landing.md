@@ -19,7 +19,7 @@ The contract amendment workflow enables you to initiate, manage, and track chang
 
 Amendments can be made by adding, removing, or updating terms, without the need to replace the entire contract.
 
-You can [[cncore-initiate-amedment|initiate an amendment request]] from your workspace using the **Initiate contract** modal.
+You can initiate an amendment request from your workspace using the **Initiate contract** modal.
 
 To initiate an amendment request from your workspace, verify you have configured the initiate contract button. For more information, see [Add a workspace action button for initiating a contract request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-config-initiate-cont.md).
 
@@ -27,7 +27,7 @@ To initiate an amendment request from your workspace, verify you have configured
 
 ## Distinguish contract and amendment request
 
-The field, **Request type**, differentiates between [[cncore-expl-ss-nss-contracts|contract and amendment requests]]. For amendment request, the value is **Amendment** and for contract request it’s **New contract**.
+The field, **Request type**, differentiates between contract and amendment requests. For amendment request, the value is **Amendment** and for contract request it’s **New contract**.
 
 The Request type field is displayed in the contract details secondary header, and list pages making it easy to differentiate between the two request types.
 
@@ -85,7 +85,7 @@ The contract amendment workflow might progress as follows:
 
 ## Now Assist in Contract Management features for amendment documents
 
-For amendment documents, [[cncore-now-assit-landing|Now Assist in Contract Management]] features of obligation extraction or metadata extraction aren’t supported. However, Contract Analysis is supported when all the configurations are complete and valid, enabling you to review and analyze amendments effectively.
+For amendment documents, Now Assist in Contract Management features of obligation extraction or metadata extraction aren’t supported. However, Contract Analysis is supported when all the configurations are complete and valid, enabling you to review and analyze amendments effectively.
 
 For more information, see [Now Assist in Contract Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-now-assit-landing.md).
 
@@ -98,8 +98,3 @@ View the amendment details in the contract repository record.
 
 **Parent Topic:**[Using Contract Management Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-use-cmpro.md)
 
-## Related
-
-- [[cncore-initiate-amedment|Initiate an amendment request]]
-- [[cncore-expl-ss-nss-contracts|Contract and amendment requests]]
-- [[cncore-now-assit-landing|Now Assist in Contract Management]]

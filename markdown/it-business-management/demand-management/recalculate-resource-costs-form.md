@@ -42,7 +42,7 @@ End date of the time period for which the costs are recalculated.By default, the
 
 </td></tr><tr><td>
 
-Planned costs for Requested [[c_ResourcePlans|Resource plans]]
+Planned costs for Requested Resource plans
 
 </td><td>
 
@@ -69,6 +69,3 @@ Option for including the planned cost of a confirmed or allocated plan.The optio
 </td></tr></tbody>
 </table>**Parent Topic:**[Demand Management forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/demand-management-forms.md)
 
-## Related
-
-- [[c_ResourcePlans|Resource plans]]

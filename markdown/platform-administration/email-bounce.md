@@ -52,26 +52,19 @@ The default status codes that are used for blocking bounced email addresses are 
 
 **Note:** There is a possibility that some email providers may use non-standard RFC status codes, potentially leading to functional email addresses being blocked. Administrators action is required to unblock these status codes and email addresses.
 
-To view the blocked status codes, navigate to **All** &gt; **[[c_SystemMailboxes|System Mailboxes]]** &gt; **Administration** &gt; **Bounce Email Address Status**.
+To view the blocked status codes, navigate to **All** &gt; **System Mailboxes** &gt; **Administration** &gt; **Bounce Email Address Status**.
 
--   **[[config-email-address-status|Configure bounce email address status]]**  
+-   **[Configure bounce email address status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/config-email-address-status.md)**  
 Configure a bounced email address status according to type, class, subject, and details.
--   **[[resend-all-blocked-emails|Resend all blocked emails]]**  
+-   **[Resend all blocked emails](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/resend-all-blocked-emails.md)**  
 Unblock the bounce email address and resend all blocked emails.
 
-**Parent Topic:**[[c_AlternateEmailConfigurations|Advanced email setup]]
+**Parent Topic:**[Advanced email setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_AlternateEmailConfigurations.md)
 
 **Related topics**  
 
 
 [Configure bounce email address status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/config-email-address-status.md)
 
-[[change-bounce-email-status|Check the status of bounced email addresses]]
+[Check the status of bounced email addresses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/change-bounce-email-status.md)
 
-## Related
-
-- [[config-email-address-status|Configure bounce email address status]]
-- [[resend-all-blocked-emails|Resend all blocked emails]]
-- [[c_AlternateEmailConfigurations|Advanced email setup]]
-- [[change-bounce-email-status|Check the status of bounced email addresses]]
-- [[c_SystemMailboxes|System mailboxes]]

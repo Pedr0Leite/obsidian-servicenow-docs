@@ -22,7 +22,7 @@ Role required: system\_scheduler\_admin
 
 ## About this task
 
-Create all new [[c_ScheduledJobs|scheduled jobs]] using this method.
+Create all new scheduled jobs using this method.
 
 ## Procedure
 
@@ -34,7 +34,7 @@ Create all new [[c_ScheduledJobs|scheduled jobs]] using this method.
 
     -   Automate the generation and distribution of a report
     -   Automatically generate something \(a change, an incident, a ci, etc\) from a template
-    -   [[t_ScheduleAScriptExecution|Automatically run a script of your choosing]]
+    -   Automatically run a script of your choosing
 
 ## Result
 
@@ -64,7 +64,3 @@ The run types; **Day and Month in Year**, **Day in Week in Month in Year**, and 
 
 [View a schedule item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_ViewAScheduleItem.md)
 
-## Related
-
-- [[c_ScheduledJobs|Scheduled jobs]]
-- [[t_ScheduleAScriptExecution|Automatically run a script of your choosing]]

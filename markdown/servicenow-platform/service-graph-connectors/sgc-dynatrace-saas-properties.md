@@ -18,9 +18,9 @@ Service Graph Connector for Observability - Dynatrace SaaS properties control th
 
 ## Connection properties
 
-These connection properties are available for the [[sgc-integration-observability-dynatrace-saas|Service Graph Connector for Observability - Dynatrace SaaS]].
+These connection properties are available for the Service Graph Connector for Observability - Dynatrace SaaS.
 
-**Note:** To open the Service Graph Connection Properties \[sn\_cmdb\_int\_util\_service\_graph\_connection\_property\] table for the connector, navigate to **All** &gt; **[[cmdb-sgc-available|Service Graph Connectors]]** &gt; **Observability - Dynatrace SaaS** &gt; **Connections** and select the connection name. The connection properties are displayed in the Service Graph Connection Properties related list.
+**Note:** To open the Service Graph Connection Properties \[sn\_cmdb\_int\_util\_service\_graph\_connection\_property\] table for the connector, navigate to **All** &gt; **Service Graph Connectors** &gt; **Observability - Dynatrace SaaS** &gt; **Connections** and select the connection name. The connection properties are displayed in the Service Graph Connection Properties related list.
 
 <table id="table_conn_props_observability-dynatrace-saas"><thead><tr><th>
 
@@ -103,8 +103,3 @@ Set this property to `true` to import all the unmatched running process records 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sgc-integration-observability-dynatrace-saas|Service Graph Connector for Observability - Dynatrace SaaS]]
-- [[cmdb-sgc-available|Service Graph Connectors]]

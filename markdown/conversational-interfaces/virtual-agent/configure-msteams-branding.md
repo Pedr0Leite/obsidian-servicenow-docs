@@ -15,13 +15,13 @@ breadcrumb: [Configure VA for Teams, Conversational Integration with Microsoft T
 
 # Configure branding for your ServiceNow Virtual Agent bot in Microsoft Teams
 
-Enable users to configure branding for the published Microsoft Teams bot app, the ServiceNow® [[virtual-agent-landing-page|Virtual Agent]]. Users are provided with the flexibility to customize the default ServiceNow branding for the Microsoft Teams production bot name and icon.
+Enable users to configure branding for the published Microsoft Teams bot app, the ServiceNow® Virtual Agent. Users are provided with the flexibility to customize the default ServiceNow branding for the Microsoft Teams production bot name and icon.
 
 ## Before you begin
 
 -   Ensure that you have the admin access to your Microsoft Teams tenant and Microsoft Teams admin center.
 -   Ensure that Virtual Agent is installed on your instance.
--   Ensure that the [[teams-conv-integration|Conversational Integration with Microsoft Teams]] store app is installed.
+-   Ensure that the Conversational Integration with Microsoft Teams store app is installed.
 
 Role required: admin
 
@@ -50,7 +50,3 @@ Role required: admin
 
 **Parent Topic:**[Configure Virtual Agent for Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-va-msteams-settings.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[teams-conv-integration|Conversational Integration with Microsoft Teams]]

@@ -14,7 +14,7 @@ breadcrumb: [Enterprise Asset Management reference, Enterprise Asset Management,
 
 # Enterprise model categories and corresponding classes
 
-Enterprise [[model-hierarchy|model categories]] and their corresponding Configuration Management Database \(CMDB\) configuration item \(CI\), asset, and model classes.
+Enterprise model categories and their corresponding Configuration Management Database \(CMDB\) configuration item \(CI\), asset, and model classes.
 
 ## Medical model categories
 
@@ -840,6 +840,3 @@ sn\_ent\_wearable\_model​
 
 [Asset put away task fields]()
 
-## Related
-
-- [[model-hierarchy|Model categories]]

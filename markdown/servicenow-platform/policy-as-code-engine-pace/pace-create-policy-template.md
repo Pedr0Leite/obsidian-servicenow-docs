@@ -78,7 +78,7 @@ Is low code
 
 </td><td>
 
-Select this [[check-box|check box]] if the policy template will be written in low-code.**Note:** You can switch to the code editor from low-code when you create the conditions, but you’ll be unable to switch back to low-code.
+Select this check box if the policy template will be written in low-code.**Note:** You can switch to the code editor from low-code when you create the conditions, but you’ll be unable to switch back to low-code.
 
 </td></tr></tbody>
 </table>    \[Omitted image "pace-create-template-2.jpg"\] Alt text: Create New Template form.
@@ -107,6 +107,3 @@ Before you activate your template, you can create a policy to test the template.
 
 If you make any updates to a template, it won’t affect previous policies that you created using the template.
 
-## Related
-
-- [[check-box|Check box]]

@@ -24,7 +24,7 @@ Role required: sn\_hr\_core.case\_writer
 
 ## About this task
 
-You can use the case summarization skill in either Core UI or [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]].
+You can use the case summarization skill in either Core UI or Agent Workspace for HR Case Management.
 
 -   In Core UI, the summary appears in a banner in the case record.
 -   In Agent Workspace for HR Case Management, the summary is generated in the **Details** tab.
@@ -109,7 +109,7 @@ If you want to check some details about the summary, select the more info icon \
 **Related topics**  
 
 
-[Summarize a chat conversation using Now Assist for [[hr-service-delivery|HR Service Delivery]] \(HRSD\)]()
+[Summarize a chat conversation using Now Assist for HR Service Delivery \(HRSD\)]()
 
 [Summarize a Sidebar discussion by using Now Assist for HRSD]()
 
@@ -139,7 +139,3 @@ If you want to check some details about the summary, select the more info icon \
 
 [Analyze sentiments in Now Assist for HR Service Delivery \(HRSD\)]()
 
-## Related
-
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[hr-service-delivery|HR Service Delivery]]

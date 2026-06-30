@@ -14,7 +14,7 @@ breadcrumb: [Reference, Health and Safety Incident Management, Health and Safety
 
 # Health and safety incident form
 
-Safety managers and safety agents can use the Health and Safety incident form to create an incident record or to [[work-hs-incident-observation|work on a safety incident]].
+Safety managers and safety agents can use the Health and Safety incident form to create an incident record or to work on a safety incident.
 
 For more information, see [Work on a safety incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/work-hs-incident-observation.md).
 
@@ -143,6 +143,3 @@ Brief description of the incident
 </td></tr></tbody>
 </table>**Parent Topic:**[Health and Safety Incident Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/hs-incident-mgmt-reference.md)
 
-## Related
-
-- [[work-hs-incident-observation|Work on a safety incident]]

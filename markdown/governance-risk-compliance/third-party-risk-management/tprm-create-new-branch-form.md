@@ -14,7 +14,7 @@ breadcrumb: [Create a branch and enhance digital resilience data, Use digital re
 
 # Create New Branch form
 
-On the [[create-new-branch-form|Create New Branch form]], fill in the fields.
+On the Create New Branch form, fill in the fields.
 
 <table id="table_aqy_k2x_rvb"><thead><tr><th>
 
@@ -136,7 +136,3 @@ Two-letter country code where the branch is located. When the LEI of the financi
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[create-new-branch-form|Create New Branch form]]

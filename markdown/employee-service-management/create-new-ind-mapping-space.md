@@ -12,7 +12,7 @@ breadcrumb: [Configure Workplace Indoor Mapping, Configure, Workplace Space Mapp
 
 # Create a new Indoor Mapping space
 
-Create a [[Indoor-mapping|Indoor Mapping]] space in Workplace Indoor Mapping.
+Create a Indoor Mapping space in Workplace Indoor Mapping.
 
 ## Before you begin
 
@@ -150,7 +150,7 @@ Managed by group
 
 </td><td>
 
-[[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] user group name.
+Workplace Service Delivery user group name.
 
 </td></tr><tr><td>
 
@@ -172,10 +172,5 @@ Indoor mapping location. Ensure that the parent hierarchy is synced to view avai
 </table>3.  Click **Submit**.
 
 
-**Parent Topic:**[[wsd-integration-indoor-mapping|Configure Workplace Indoor Mapping]]
+**Parent Topic:**[Configure Workplace Indoor Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/wsd-integration-indoor-mapping.md)
 
-## Related
-
-- [[wsd-integration-indoor-mapping|Configure Workplace Indoor Mapping]]
-- [[Indoor-mapping|Indoor Mapping]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]

@@ -14,7 +14,7 @@ breadcrumb: [Using Software Asset Workspace, Software Asset Management, IT Asset
 
 # View SSO groups in workspace
 
-View details related to all SSO groups that have access to a SSO application in the [[sam-workspace|Software Asset Workspace]].
+View details related to all SSO groups that have access to a SSO application in the Software Asset Workspace.
 
 ## Before you begin
 
@@ -31,6 +31,3 @@ Role required: sam\_admin or sam\_user
 
 **Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/using-sam-workspace.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]

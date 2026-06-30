@@ -14,18 +14,12 @@ breadcrumb: [Telecommunications Customer 360, Telecommunications, Media, and Tec
 
 Use Telecommunications Customer 360 to view and manage customer information from a single view.
 
--   **[[c360-home-page|Telecommunications Customer 360 home page]]**  
+-   **[Telecommunications Customer 360 home page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/c360-home-page.md)**  
 Telecommunications Customer 360 consolidates customer information, interaction history, products, and billing into a single view. The view displayed is based on the record type which can be account, consumer, or contact.
--   **[[c360-view-inter-record|View interaction record]]**  
+-   **[View interaction record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/c360-view-inter-record.md)**  
 Use this option to view and manage customer phone interaction records.
--   **[[c360-recommendations|Recommendations panel]]**  
+-   **[Recommendations panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/c360-recommendations.md)**  
 The Recommendations panel displays Knowledge Base article suggestions and enables you to search for Knowledge Base articles and trigger agentic workflows.
 
-**Parent Topic:**[[c360-land-page|Telecommunications Customer 360]]
+**Parent Topic:**[Telecommunications Customer 360](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/c360-land-page.md)
 
-## Related
-
-- [[c360-home-page|Telecommunications Customer 360 home page]]
-- [[c360-view-inter-record|View interaction record]]
-- [[c360-recommendations|Recommendations panel]]
-- [[c360-land-page|Telecommunications Customer 360]]

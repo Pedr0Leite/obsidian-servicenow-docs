@@ -15,7 +15,7 @@ breadcrumb: [Submit a purchase request, Use agentic workflows, Now Assist for SP
 
 # Upload a quote to request a purchase using the Now Assist AI agent
 
-Use Now Assist's AI-powered chat interface for requesting a purchase by describing your needs, uploading a quote, and submitting the request from the Employee Center. Now Assist analyzes the uploaded quote and automatically creates a [[purchase-requisition|purchase requisition]].
+Use Now Assist's AI-powered chat interface for requesting a purchase by describing your needs, uploading a quote, and submitting the request from the Employee Center. Now Assist analyzes the uploaded quote and automatically creates a purchase requisition.
 
 ## Before you begin
 
@@ -70,6 +70,3 @@ Role required: sn\_spend\_gen\_ai.now\_assist\_requester
 
 **Parent Topic:**[Submit a purchase request using the Now Assist AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/request-product-ai-agents.md)
 
-## Related
-
-- [[purchase-requisition|Purchase requisition]]

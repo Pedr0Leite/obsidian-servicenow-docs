@@ -16,7 +16,7 @@ breadcrumb: [Customer Service Platform Analytics Solutions, Analytics and report
 
 The Customer Service Agent dashboard provides quick access to your cases based on criteria that help you prioritize your work. The dashboard also displays summary data on metrics for your organization.
 
-To view the Customer Service Agent dashboard, navigate to **Performance Analytics** &gt; **Dashboards**. Click the **All** tab and select **[[c_CustomerServiceManagement|Customer Service Management]]** from the Group menu. Click the **Customer Service Agent** or **Customer Service Agent - Advanced** tile.
+To view the Customer Service Agent dashboard, navigate to **Performance Analytics** &gt; **Dashboards**. Click the **All** tab and select **Customer Service Management** from the Group menu. Click the **Customer Service Agent** or **Customer Service Agent - Advanced** tile.
 
 The Customer Service Management - Advanced Performance Analytics Solution adds the Customer Service Agent - Advanced dashboard. The Advanced dashboard contains two additional indicators: Exceeding Chat Target and Exceeding Case Target.
 
@@ -114,7 +114,7 @@ CSAT
 
 </td><td>
 
-Average customer satisfaction based on survey results. The percent change in the current period appears under the total percentage. For more information about CSAT, see [[c_CustomerServiceSatisfactionSurvey|Customer service satisfaction surveys]].
+Average customer satisfaction based on survey results. The percent change in the current period appears under the total percentage. For more information about CSAT, see [Customer service satisfaction surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_CustomerServiceSatisfactionSurvey.md).
 
 </td></tr><tr><td>
 
@@ -158,8 +158,3 @@ Number of backlogged cases for all agents over time.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_CustomerServiceSatisfactionSurvey|Customer service satisfaction surveys]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

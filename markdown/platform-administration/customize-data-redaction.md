@@ -12,7 +12,7 @@ breadcrumb: [Sensitive data redaction, Use, Inbound email, Notifications, Config
 
 # Customize behavior for sensitive data redaction
 
-Customize sensitive data redaction behavior by creating [[r_SetArchiveRuleProcessingBehavior|system properties]] for flows that are triggered by inbound emails, sys\_email record, and inbound actions.
+Customize sensitive data redaction behavior by creating system properties for flows that are triggered by inbound emails, sys\_email record, and inbound actions.
 
 ## Before you begin
 
@@ -74,9 +74,5 @@ Role required: admin
     4.  Select **Submit**.
 
 
-**Parent Topic:**[[sensitive-data-redaction|Sensitive data redaction]]
+**Parent Topic:**[Sensitive data redaction](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/sensitive-data-redaction.md)
 
-## Related
-
-- [[sensitive-data-redaction|Sensitive data redaction]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

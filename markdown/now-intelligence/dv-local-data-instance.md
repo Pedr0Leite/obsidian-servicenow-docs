@@ -77,18 +77,12 @@ Role required: ui\_builder\_admin, admin
 
 You have created a local data instance and bound it to a data visualization. You can now complete the configuration of your data visualization.
 
--   **[[enable-filters-local-data-instance|Enable filters to apply to a local data instance]]**  
+-   **[Enable filters to apply to a local data instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/enable-filters-local-data-instance.md)**  
 To enable a viewer to switch between which field values or breakdown elements they see in a data visualization, add filter components to the UI Builder page. For those filters to apply to a local data instance, configure that instance accordingly.
--   **[[enable-caching-local-data-instance|Enable data caching for a local data instance]]**  
+-   **[Enable data caching for a local data instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/enable-caching-local-data-instance.md)**  
 To help reduce the load time of data visualizations, and if real time or very fresh data is not necessary, enable data caching on the data source.
--   **[[local-data-instance-multi-viz|Local data instances for multiple data visualizations]]**  
+-   **[Local data instances for multiple data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/local-data-instance-multi-viz.md)**  
 A special Data Visualization API data resource is available to fetch data for multiple data visualizations simultaneously. This data resource reduces the number of API calls and thus can speed up data fetching.
 
-**Parent Topic:**[[technical-dashboards|Technical dashboards]]
+**Parent Topic:**[Technical dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/technical-dashboards.md)
 
-## Related
-
-- [[enable-filters-local-data-instance|Enable filters to apply to a local data instance]]
-- [[enable-caching-local-data-instance|Enable data caching for a local data instance]]
-- [[local-data-instance-multi-viz|Local data instances for multiple data visualizations]]
-- [[technical-dashboards|Technical dashboards]]

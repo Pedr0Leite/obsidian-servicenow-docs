@@ -14,7 +14,7 @@ breadcrumb: [Zing indexes words, Zing text indexing and search engine, Search ad
 
 # Configure tables to use the Japanese tokenizer
 
-Improve search [[hs-results|results]] in Japanese language searches by configuring individual tables to use the Japanese tokenizer.
+Improve search results in Japanese language searches by configuring individual tables to use the Japanese tokenizer.
 
 ## Before you begin
 
@@ -82,6 +82,3 @@ When the text index is generated and you go to the table you configured, the tab
 
 [Text indexing statistics and status]()
 
-## Related
-
-- [[hs-results|Results]]

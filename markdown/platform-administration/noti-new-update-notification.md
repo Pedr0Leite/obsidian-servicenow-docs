@@ -16,7 +16,7 @@ Create a notification in the notification provider framework to send to both sys
 
 ## Before you begin
 
-Role required: [[notifications|notifications]] provider admin and admin
+Role required: notifications provider admin and admin
 
 ## Procedure
 
@@ -56,7 +56,7 @@ Category
 
 </td><td>
 
-Select the category to which this notification belongs. A category identifies and groups related notifications. This notification, if active and listed in the selected **Category** in the [[preferences-landing|notification preferences]] for each user \(Notifications tab in the System Settings window\).
+Select the category to which this notification belongs. A category identifies and groups related notifications. This notification, if active and listed in the selected **Category** in the notification preferences for each user \(Notifications tab in the System Settings window\).
 
 </td></tr><tr><td>
 
@@ -188,7 +188,7 @@ Advanced condition
 
 </td><td>
 
-Create a script to perform certain actions, like sending a notification based on the current email record, changing field values, or changing [[r_SetArchiveRuleProcessingBehavior|system properties]]. [[c_OptSpecifyingAdvancedCond|The advanced condition]] script must return **true** or set a global answer variable to **true** to send the notification.
+Create a script to perform certain actions, like sending a notification based on the current email record, changing field values, or changing system properties. [The advanced condition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_OptSpecifyingAdvancedCond.md) script must return **true** or set a global answer variable to **true** to send the notification.
 
 The advanced condition script uses the following global variables:
 
@@ -203,7 +203,7 @@ The advanced condition script uses the following global variables:
 
 6.  Update the form using any of the available related lists.
 
-    See [[noti-add-additional-recipients|Create and add additional recipients]] and [[create-add-assignment-group|Create and add assignment groups]] for more information.
+    See [Create and add additional recipients](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/noti-add-additional-recipients.md) and [Create and add assignment groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-add-assignment-group.md) for more information.
 
     **Note:** All the validation messages given by different providers are retained. Warning messages of one provider isn’t overridden by warning messages of another provider.
 
@@ -211,17 +211,7 @@ The advanced condition script uses the following global variables:
 -   **[Create and add additional recipients](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/noti-add-additional-recipients.md)**  
 Update the notifications form by adding additional recipients from the Additional Recipients related list to send notifications to.
 -   **[Create and add assignment groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-add-assignment-group.md)**  
-Create and add assignment groups where you want users that are part of a group to be the recipients of the [[notification-provider|provider notification]].
+Create and add assignment groups where you want users that are part of a group to be the recipients of the provider notification.
 
-**Parent Topic:**[[create-provider-notification-using|Create provider notification]]
+**Parent Topic:**[Create provider notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-provider-notification-using.md)
 
-## Related
-
-- [[c_OptSpecifyingAdvancedCond|Advanced conditions for email notifications]]
-- [[noti-add-additional-recipients|Create and add additional recipients]]
-- [[create-add-assignment-group|Create and add assignment groups]]
-- [[create-provider-notification-using|Create provider notification]]
-- [[notifications|Notifications]]
-- [[preferences-landing|Notification Preferences]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]
-- [[notification-provider|Provider notification]]

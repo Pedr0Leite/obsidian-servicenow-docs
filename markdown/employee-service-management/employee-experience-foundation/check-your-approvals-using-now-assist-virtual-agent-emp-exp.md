@@ -24,7 +24,7 @@ Role required: None
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
 
 2.  Select **Open chat**.
 
@@ -34,7 +34,7 @@ Role required: None
 
     To check your to-do approvals, you can enter instructions like `Show my approvals`, `Show my pending approvals`, or `Show me my approvals due today/due this week/due later/due soon`.
 
-    \[Omitted image "uex-nowassist-startmsg.png"\] Alt text: [[now-assisit-employee-exp|Now Assist for Employee Experience]] welcome message.
+    \[Omitted image "uex-nowassist-startmsg.png"\] Alt text: Now Assist for Employee Experience welcome message.
 
 4.  View the list of approvals, under the To-do approvals, by selecting **Start**.
 
@@ -68,7 +68,3 @@ Role required: None
 
 [Manage approvals with Now Assist Approval Assistance AI agent]()
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[now-assisit-employee-exp|Now Assist for Employee Experience]]

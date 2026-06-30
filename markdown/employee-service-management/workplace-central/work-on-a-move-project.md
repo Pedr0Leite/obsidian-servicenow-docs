@@ -29,11 +29,11 @@ Role required: sn\_wsd\_move.manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-central-feat|Workplace Central]]** &gt; **Workplace Central**.
+1.  Navigate to **All** &gt; **Workplace Central** &gt; **Workplace Central**.
 
-    You can also open Workplace Central from the [[employee-center-landing-page|Employee Center]] directly. Navigate to **Workspaces** &gt; **Workplace Central**.
+    You can also open Workplace Central from the Employee Center directly. Navigate to **Workspaces** &gt; **Workplace Central**.
 
-2.  Select the [[move-mgmt|Move management]] \(\[Omitted image "move-mgmt-icon-central.png"\] Alt text: Move management icon.\) module.
+2.  Select the Move management \(\[Omitted image "move-mgmt-icon-central.png"\] Alt text: Move management icon.\) module.
 
 3.  In the **Move management** metrics section, select the **My active projects** tile.
 
@@ -55,7 +55,7 @@ Role required: sn\_wsd\_move.manager
 
     **Important:** You can’t move a move request bar in the **Month** view.
 
-9.  View the [[keyboard-shortcuts|keyboard shortcuts]] by selecting the Settings icon \(\[Omitted image "gear-icon.png"\] Alt text: Setting icon.\).
+9.  View the keyboard shortcuts by selecting the Settings icon \(\[Omitted image "gear-icon.png"\] Alt text: Setting icon.\).
 
 10. View details of a move request by selecting the event/bar on the calendar.
 
@@ -111,11 +111,11 @@ Role required: sn\_wsd\_move.manager
         3.  Select **Assign to me**.
 16. Create move tasks for multiple move requests from the list view.
 
-    1.  Select the requests that you want to [[create-applicant-tasks|create tasks]] for.
+    1.  Select the requests that you want to create tasks for.
 
     2.  Select **Add tasks**.
 
-    3.  On the pop-up form, select a Workplace task type, Workplace location, and Workplace service [[activity-lxp|activity]].
+    3.  On the pop-up form, select a Workplace task type, Workplace location, and Workplace service activity.
 
     4.  In the Short description field, enter information about the task.
 
@@ -179,11 +179,3 @@ The changes are saved on the move project.
 
 [Create a move project by uploading an Excel file]()
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]
-- [[employee-center-landing-page|Employee Center]]
-- [[move-mgmt|Move Management]]
-- [[keyboard-shortcuts|Keyboard shortcuts]]
-- [[create-applicant-tasks|Create tasks]]
-- [[activity-lxp|Activity]]

@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Management publisher pack for Oracle, Supported soft
 
 # Oracle Database licensing in multitenant architectures
 
-The [[c_SoftwareAssetMgmt|Software Asset Management]] application supports licensing rules for Oracle databases in multitenant architectures.
+The Software Asset Management application supports licensing rules for Oracle databases in multitenant architectures.
 
 The Oracle multitenant architecture simplifies database management by enabling you to consolidate multiple pluggable databases \(PDBs\) into a single container database \(CDB\). With a CDB, you can track, provision, clone, manage resources for, and upgrade multiple PDBs simultaneously. This multitenant architecture is supported on Oracle Database version 12c Release 1 \(12.1\) and later.
 
@@ -169,6 +169,3 @@ You can view the following use cases to better understand licensing requirements
 
 **Parent Topic:**[Software Asset Management publisher pack for Oracle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/oracle-publisher-pack.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

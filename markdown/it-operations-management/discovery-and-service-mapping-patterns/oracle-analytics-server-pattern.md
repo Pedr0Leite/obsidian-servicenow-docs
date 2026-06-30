@@ -15,7 +15,7 @@ breadcrumb: [Available on-premise discovery patterns, Discovery patterns used by
 
 # Oracle Analytics Server pattern-based discovery
 
-[[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] Patterns finds Oracle Analytics Server \(formerly Oracle Business Intelligence Enterprise Edition\) components on Windows and Linux servers in your environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
+Discovery and Service Mapping Patterns finds Oracle Analytics Server \(formerly Oracle Business Intelligence Enterprise Edition\) components on Windows and Linux servers in your environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 ## Request apps on the Store
 
@@ -24,7 +24,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 Oracle Analytics Server consists of integrated components that provide business intelligence capabilities. The Discovery patterns discover three core components:
 
 -   Oracle BI Server: Core analytics engine that processes queries and manages metadata
--   Oracle BI Presentation Service: Web-based user interface component that delivers visualizations and [[otto-aiops-dashboards|dashboards]]
+-   Oracle BI Presentation Service: Web-based user interface component that delivers visualizations and dashboards
 -   Oracle BI Scheduler: Component that manages scheduled report generation and distribution
 
 ## Prerequisites
@@ -58,7 +58,7 @@ Oracle Analytics Server consists of integrated components that provide business 
 -   **Create credentials on the ServiceNow AI Platform**
     -   Windows: Configure Windows credentials. For more information, see [Windows credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/r_WindowsCredentialsForm.md).
     -   Linux: Configure SSH credentials. For more information, see [SSH credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/r_SSHCredentialsForm.md).
--   **[[t_CreateADiscoverySchedule|Schedule a horizontal discovery]]**
+-   **Schedule a horizontal discovery**
 
     For more information, see [Schedule a horizontal discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_CreateADiscoverySchedule.md).
 
@@ -117,9 +117,3 @@ The Oracle Analytics Server patterns create these relationships to support Oracl
 
 **Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/available-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[otto-aiops-dashboards|Dashboards]]
-- [[t_CreateADiscoverySchedule|Schedule a horizontal discovery]]

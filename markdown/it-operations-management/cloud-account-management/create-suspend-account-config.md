@@ -14,7 +14,7 @@ breadcrumb: [Creating configurations, Configuring Cloud Account Management, Clou
 
 # Create a suspend account configuration
 
-Set up a suspension profile that allows temporary suspension or termination of [[cloud-accounts|cloud accounts]] to support cost control or policy enforcement.
+Set up a suspension profile that allows temporary suspension or termination of cloud accounts to support cost control or policy enforcement.
 
 ## Before you begin
 
@@ -37,6 +37,3 @@ Role required: sn\_itom\_cam.cw\_admin
 
 [Review default Cloud Account Management certification policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/policy-setup.md)
 
-## Related
-
-- [[cloud-accounts|Cloud accounts]]

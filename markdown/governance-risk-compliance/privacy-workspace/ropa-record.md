@@ -14,7 +14,7 @@ breadcrumb: [Explore, Privacy Management, Governance, Risk, and Compliance]
 
 # Processing activities
 
-A processing activity is a record that processes personal data. Examples of such records can be a business process or a business application of an organization that has personal information. Processing activities enable the [[privacy-management|privacy management]] teams to understand how personal information is being processed or used.
+A processing activity is a record that processes personal data. Examples of such records can be a business process or a business application of an organization that has personal information. Processing activities enable the privacy management teams to understand how personal information is being processed or used.
 
 To manage the privacy programs, use any business process or business application that is available as inventory or records in the Configuration Management Database \(CMDB\) to create a processing activity record. Each business process or an application is a separate processing activity. After the privacy teams understand how personal data is being used, they can work with the business owners who own the processing activity and help them to be compliant with the necessary privacy regulations.
 
@@ -36,11 +36,7 @@ The following image shows the overview of a processing activity:\[Omitted image 
 -   **[Understanding processing activity hierarchy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/processing-activity-hierarchy.md)**  
 Track how personal data flows across vendors, applications, and systems within and beyond a processing activity to identify and mitigate privacy-related risks.
 -   **[Hierarchy tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/hierarchy-tab.md)**  
-The [[hierarchy-tab|Hierarchy tab]] connects your processing activity to applications, vendors, companies, entities, business processes, and other activities. It builds a clear picture of how data moves through your organization.
+The Hierarchy tab connects your processing activity to applications, vendors, companies, entities, business processes, and other activities. It builds a clear picture of how data moves through your organization.
 
 **Parent Topic:**[Exploring Privacy Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/explore-privacy-management.md)
 
-## Related
-
-- [[privacy-management|privacy management]]
-- [[hierarchy-tab|Hierarchy tab]]

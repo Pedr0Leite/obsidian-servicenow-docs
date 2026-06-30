@@ -38,11 +38,8 @@ Role required: none
 
     By default, 7 replies are visible for each message. Any reply to a reply includes a **Threads** link.
 
-7.  Click **Threads** to view all of the replies within the selected reply in reverse chronological order within the **Message Thread** pop-up window, similar to an [[email|email]] thread.
+7.  Click **Threads** to view all of the replies within the selected reply in reverse chronological order within the **Message Thread** pop-up window, similar to an email thread.
 
 
 **Parent Topic:**[Post content in Live Feed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/c_PostContentInLiveFeed.md)
 
-## Related
-
-- [[email|Email]]

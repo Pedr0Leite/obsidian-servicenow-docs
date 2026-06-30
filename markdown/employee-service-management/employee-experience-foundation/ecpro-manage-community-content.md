@@ -14,7 +14,7 @@ breadcrumb: [Employee Forums, Creating employee communications, Authoring and ma
 
 # Add or modify forum content
 
-Provide content to your employees through [[ecpro-employee-forum|employee forums]].
+Provide content to your employees through employee forums.
 
 ## Before you begin
 
@@ -256,7 +256,7 @@ Video
 
 </td><td>
 
-Link to the video you want to post to your community, use as part of a campaign, or post to the [[employee-center-landing-page|Employee Center]]. Videos appear as web URLs that link to popular video sites. Supported video link hosts are:
+Link to the video you want to post to your community, use as part of a campaign, or post to the Employee Center. Videos appear as web URLs that link to popular video sites. Supported video link hosts are:
 
  -   dailymotion.com
 -   facebook.com
@@ -337,7 +337,3 @@ The number of forum posts you want to appear.Only appears when you select **Most
 
 -   Or, go to Campaign Content to add your content to a campaign bundle. For more information, see [Create campaign bundles/stages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-manage-campaign-bundles.md).
 
-## Related
-
-- [[ecpro-employee-forum|Employee Forums]]
-- [[employee-center-landing-page|Employee Center]]

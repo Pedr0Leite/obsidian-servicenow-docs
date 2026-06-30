@@ -24,12 +24,9 @@ Enables the PowerShell probe version 2 for use with all PowerShell activities. T
 
 **Note:** This property only applies to Orchestration activities. Discovery probes are not affected.
 
-You can access the property by selecting the [[r_MIDServerProperties|MID Server Properties]] link in the navigation pane:
+You can access the property by selecting the MID Server Properties link in the navigation pane:
 
 \[Omitted image "powershell-probe-v2.png"\] Alt text: Use PowerShell Probe v2
 
 **Parent Topic:**[MID Servers for Orchestration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchestrationMID.md)
 
-## Related
-
-- [[r_MIDServerProperties|MID Server properties]]

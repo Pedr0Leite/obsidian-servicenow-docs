@@ -14,7 +14,7 @@ breadcrumb: [Convert homepages to individual dashboards, Homepage deprecation, A
 
 # Convert homepages to dashboard tabs
 
-After you [[hpm-populate-hp-status-table|populate the Homepage migration status table]], you can convert one or more homepages to tabs on new or existing dashboards.
+After you populate the Homepage migration status table, you can convert one or more homepages to tabs on new or existing dashboards.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin or dashboard\_admin.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hp-dep-help-tool-features|Homepage deprecation help tool]]** &gt; **Homepage migration status**.
+1.  Navigate to **All** &gt; **Homepage deprecation help tool** &gt; **Homepage migration status**.
 
     All unaddressed homepages have the state Open.
 
@@ -32,7 +32,7 @@ Role required: admin or dashboard\_admin.
 
 3.  From the **Actions on selected rows** menu, select `Convert to tabs`.
 
-    \[Omitted image "hp-migration-status-convert-2.png"\] Alt text: [[homepage-migration-status-table|Homepage migration status table]] with two homepages selected and the Actions on selected rows menu open with Convert to tabs option highlighted
+    \[Omitted image "hp-migration-status-convert-2.png"\] Alt text: Homepage migration status table with two homepages selected and the Actions on selected rows menu open with Convert to tabs option highlighted
 
 4.  Select an existing dashboard or set the title for a new dashboard.
 
@@ -60,8 +60,3 @@ Navigate to **All** &gt; **Self Service** &gt; **Dashboards**. Open the **All** 
 
 [Retire a homepage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/hpm-retire-homepages.md).
 
-## Related
-
-- [[hpm-populate-hp-status-table|Populate the homepage migration status table]]
-- [[hp-dep-help-tool-features|Homepage deprecation help tool]]
-- [[homepage-migration-status-table|Homepage migration status table]]

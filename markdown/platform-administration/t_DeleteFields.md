@@ -45,8 +45,5 @@ You cannot delete base system fields. In addition, any missing base system field
     4.  To proceed, click **Delete**.
 
 
-**Parent Topic:**[[customize-fields-now-platform-landing|Customizing fields on the ServiceNow AI Platform]]
+**Parent Topic:**[Customizing fields on the ServiceNow AI Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/customize-fields-now-platform-landing.md)
 
-## Related
-
-- [[customize-fields-now-platform-landing|Customizing fields on the ServiceNow AI Platform]]

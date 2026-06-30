@@ -12,7 +12,7 @@ breadcrumb: [AI Desktop Actions, Enable AI experiences]
 
 # Configure AI Desktop Actions
 
-You can enable the [[agentic-desktop-landing-page|AI Desktop Actions]] application if you have the admin role.
+You can enable the AI Desktop Actions application if you have the admin role.
 
 ## Before you begin
 
@@ -26,12 +26,12 @@ Role required: administrator
 
 ## About this task
 
-AI Desktop Actions isn’t a standalone application that you can install directly. To enable AI Desktop Actions on your instance, you must install other [[platform-now-assist-landing|Now Assist]] applications, such as Now Assist for IT Service Management \(ITSM\) or Now Assist for Customer Service Management \(CSM\).
+AI Desktop Actions isn’t a standalone application that you can install directly. To enable AI Desktop Actions on your instance, you must install other Now Assist applications, such as Now Assist for IT Service Management \(ITSM\) or Now Assist for Customer Service Management \(CSM\).
 
 -   Review the [AI Desktop Actions](https://store.servicenow.com/store/app/dc9057f4873932d0221e8409dabb35a5) application listing in ServiceNow Store for information on dependencies, licensing or subscription requirements, and release compatibility.
 -   Perform these steps in your ServiceNow instance.
 
-For more information about the components installed, see [[components-installed-with-agentic-desktop|Components installed with AI Desktop Actions]].
+For more information about the components installed, see [Components installed with AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/components-installed-with-agentic-desktop.md).
 
 ## Procedure
 
@@ -46,17 +46,10 @@ For more information about the components installed, see [[components-installed-
 
 -   **Defined desktop action**
 
-    Download and install the AI Desktop Actions installer on your system to automate repetitive tasks that involve fixed steps in your desktop and web environment. For more information, see [[download-agentic-desktop-installer|Download AI Desktop Actions installer]].
+    Download and install the AI Desktop Actions installer on your system to automate repetitive tasks that involve fixed steps in your desktop and web environment. For more information, see [Download AI Desktop Actions installer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/download-agentic-desktop-installer.md).
 
 -   **Adaptive desktop action**
 
-    Install the Chrome browser extension and configure allowed websites to automate repetitive tasks that involve adaptive steps for web applications. For more information, see [[na-ai-wa-install-browser-extension|Install the Google Chrome extension for adaptive desktop actions]] and [[na-ai-wa-configure-allowed-websites|Configure allowed websites for adaptive desktop actions]].
+    Install the Chrome browser extension and configure allowed websites to automate repetitive tasks that involve adaptive steps for web applications. For more information, see [Install the Google Chrome extension for adaptive desktop actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/na-ai-wa-install-browser-extension.md) and [Configure allowed websites for adaptive desktop actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/na-ai-wa-configure-allowed-websites.md).
 
-## Related
 
-- [[components-installed-with-agentic-desktop|Components installed with AI Desktop Actions]]
-- [[download-agentic-desktop-installer|Download AI Desktop Actions installer]]
-- [[na-ai-wa-install-browser-extension|Install the Google Chrome extension for adaptive desktop actions]]
-- [[na-ai-wa-configure-allowed-websites|Configure allowed websites for adaptive desktop actions]]
-- [[agentic-desktop-landing-page|AI Desktop Actions]]
-- [[platform-now-assist-landing|Now Assist]]

@@ -14,7 +14,7 @@ breadcrumb: [Using Procurement Case Management, Use, Sourcing and Procurement Op
 
 # Create a quick case
 
-As a procurement specialist, quickly [[create-procurement-case|create a procurement case]] from the plus icon on [[purch-order-mgmt-ws|Source-to-Pay Workspace]]. With an additional [[supplier|supplier]] role of sn\_supplier.fulfiller, you can similarly [[create-supplier-case-spo|create a supplier case]].
+As a procurement specialist, quickly create a procurement case from the plus icon on Source-to-Pay Workspace. With an additional supplier role of sn\_supplier.fulfiller, you can similarly create a supplier case.
 
 \[Omitted video\] Description: Describes the procedure for creating a quick case from the Source to Pay workspace.
 
@@ -24,7 +24,7 @@ Role required: sn\_shop.procurement\_specialist
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[psd-overview|Procurement Case Management]]** &gt; **Source-to-Pay Workspace**.
+1.  Navigate to **All** &gt; **Procurement Case Management** &gt; **Source-to-Pay Workspace**.
 
 2.  On the landing or list page, select the + icon at the tab level.
 
@@ -41,10 +41,3 @@ Role required: sn\_shop.procurement\_specialist
 
 **Parent Topic:**[Using Procurement Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/using-pcm.md)
 
-## Related
-
-- [[create-procurement-case|Create a procurement case]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supplier|Supplier]]
-- [[create-supplier-case-spo|Create a supplier case]]
-- [[psd-overview|Procurement Case Management]]

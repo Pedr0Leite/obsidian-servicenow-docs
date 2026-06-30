@@ -14,7 +14,7 @@ breadcrumb: [Manage consumer access, Administer, Instance Data Replication, Mana
 
 # Revoke access to replicated data for Instance Data Replication
 
-Revoke a consumer's access to replicated data if you believe that consumer instance should no longer receive data in [[instance-data-replication|Instance Data Replication]] \(IDR\).
+Revoke a consumer's access to replicated data if you believe that consumer instance should no longer receive data in Instance Data Replication \(IDR\).
 
 ## Before you begin
 
@@ -43,6 +43,3 @@ When you generate a new, shared encryption key, approved consumer sets automatic
 
 **Parent Topic:**[Manage consumer access to replication data in Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/approve-consumer.md)
 
-## Related
-
-- [[instance-data-replication|Instance Data Replication]]

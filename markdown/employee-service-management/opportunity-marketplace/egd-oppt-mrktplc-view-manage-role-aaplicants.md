@@ -14,7 +14,7 @@ breadcrumb: [Configure, Opportunity Marketplace, Hiring Experiences, HR Service 
 
 # View and manage role applicants from Opportunity Marketplace
 
-Role applicants are employees who have applied to a role that is part of an opportunity. As an [[egd-oppt-mrktplc-landing|Opportunity Marketplace]] \[sn\_opp\_market.admin\], you can view and manage role applicant records.
+Role applicants are employees who have applied to a role that is part of an opportunity. As an Opportunity Marketplace \[sn\_opp\_market.admin\], you can view and manage role applicant records.
 
 ## Before you begin
 
@@ -40,7 +40,7 @@ Description
 
 </td><td>
 
-The names of the applicants links to their **[[emp-slate-employee-profile|Employee Profile]]**, see [Employee Profile table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/employee-profile.md).
+The names of the applicants links to their **Employee Profile**, see [Employee Profile table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/employee-profile.md).
 
 </td></tr><tr><td>
 
@@ -71,7 +71,3 @@ The **State** of a role applicant indicates the progression of the applicant in 
 
 **Parent Topic:**[Install and configure Opportunity Marketplace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/opportunity-marketplace/egd-oppt-mrktplc-inst-config.md)
 
-## Related
-
-- [[egd-oppt-mrktplc-landing|Opportunity Marketplace]]
-- [[emp-slate-employee-profile|Employee profile]]

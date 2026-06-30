@@ -14,7 +14,7 @@ breadcrumb: [Publishing content, Creating employee communications, Authoring and
 
 # Scheduling the delivery of content
 
-After you create content in Content Publishing, use **Schedule Content** to post to your [[employee-center-landing-page|Employee Center]], in a campaign, To-dos, email notifications, and community.
+After you create content in Content Publishing, use **Schedule Content** to post to your Employee Center, in a campaign, To-dos, email notifications, and community.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ You can also schedule content after creating and saving it from the related list
 -   [Add or modify links to other content sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-manage-link-content.md)
 -   [Add or modify block content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-manage-block-content.md)
 
-**Note:** Ensure you schedule the [[ec-streamline-content|portal content]] when you are adding a link content to a banner or styled content. The [[ec-to-do-content|to-do content]] is automatically scheduled separately when the link content is scheduled. For more information, see [Creating to-do content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-content-to-dos.md).
+**Note:** Ensure you schedule the portal content when you are adding a link content to a banner or styled content. The to-do content is automatically scheduled separately when the link content is scheduled. For more information, see [Creating to-do content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-content-to-dos.md).
 
 ## Procedure
 
@@ -170,7 +170,7 @@ When to process
 
 </td><td>
 
-The date and time you want your content to be sent, created, or posted.**Note:** This field only appears when you schedule to-do or [[ec-notification-content|notification content]].
+The date and time you want your content to be sent, created, or posted.**Note:** This field only appears when you schedule to-do or notification content.
 
 </td><td>
 
@@ -294,7 +294,7 @@ Widget
 
 </td><td>
 
-The Employee Center widget instance. A widget instance is a [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] to a widget that contains properties and CSS specific to that instance.A list of filtered widget instances appear when you select a page from the **Page** choice list.
+The Employee Center widget instance. A widget instance is a reference to a widget that contains properties and CSS specific to that instance.A list of filtered widget instances appear when you select a page from the **Page** choice list.
 
  Only appears when **Service Portal** is selected from **Content location**.
 
@@ -310,7 +310,7 @@ Taxonomy
 
 </td><td>
 
-Filters what topics you can schedule your content to. Taxonomy is a collection of hierarchical topics that brings together different content types, like requests, articles, [[emp-center-quick-link-config|quick links]], and [[eslate-employee-comms|employee communications]]. For example, you can set up separate taxonomies for HR and IT so you can group specific topics under each.
+Filters what topics you can schedule your content to. Taxonomy is a collection of hierarchical topics that brings together different content types, like requests, articles, quick links, and employee communications. For example, you can set up separate taxonomies for HR and IT so you can group specific topics under each.
 
  For this field to appear, select a page that has Taxonomy \(sn\_ex\_sp\_taxonomy\) entered in the Choices tab for the dictionary entry for the Category table of the page. For more information, see [Create a table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateATable.md).
 
@@ -390,7 +390,7 @@ Content identifier
 
 </td><td>
 
-Associates portal content to widgets in Agent Workspace custom landing pages.**Note:** Currently, only [[hr-service-delivery|HR Service Delivery]] Agent Workspace has base system components that shows content for Content Publishing. This field only appears when you select **Workspace** from the **Content location** field.
+Associates portal content to widgets in Agent Workspace custom landing pages.**Note:** Currently, only HR Service Delivery Agent Workspace has base system components that shows content for Content Publishing. This field only appears when you select **Workspace** from the **Content location** field.
 
  When the custom landing page of Agent Workspace renders, the following components search for scheduled content that matches the content identifier, applies to the current user, and current time:
 
@@ -409,13 +409,4 @@ To find content identifiers for the base system provided workspace landing pages
 
     You can also select **Publish with Approval** when a content request and content request item have been approved by the content requester. For more information, see [Add or remove content approvers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-gov-approval.md).
 
-## Related
 
-- [[employee-center-landing-page|Employee Center]]
-- [[ec-streamline-content|Portal content]]
-- [[ec-to-do-content|To-do content]]
-- [[ec-notification-content|Notification content]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[emp-center-quick-link-config|Quick links]]
-- [[eslate-employee-comms|Employee communications]]
-- [[hr-service-delivery|HR Service Delivery]]

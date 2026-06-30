@@ -14,9 +14,9 @@ breadcrumb: [Configuration Management Database \(CMDB\), Configuration Managemen
 
 # Monitor health in CSDM and CMDB Data Foundations Dashboards
 
-The ServiceNow® CSDM and CMDB Data Foundations Dashboards store app contains dashboards with insights into the key foundational metrics of your CMDB and [[csdm-landing-page|Common Service Data Model]] \(CSDM\). This app uses ServiceNow® health benchmarks to provide recommendations to ensure that the CMDB and CSDM are properly configured for optimal usage and to mitigate any potential risks.
+The ServiceNow® CSDM and CMDB Data Foundations Dashboards store app contains dashboards with insights into the key foundational metrics of your CMDB and Common Service Data Model \(CSDM\). This app uses ServiceNow® health benchmarks to provide recommendations to ensure that the CMDB and CSDM are properly configured for optimal usage and to mitigate any potential risks.
 
-**Note:** CSDM and the CMDB Data Foundations Dashboards don't support [[domain-separation-relationship-formatter-editor|domain separation]].
+**Note:** CSDM and the CMDB Data Foundations Dashboards don't support domain separation.
 
 For an introduction, watch the ServiceNow [Data Foundations Dashboards for CSDM and CMDB](https://www.youtube.com/watch?v=kPY9eItc3dM) video.
 
@@ -28,11 +28,11 @@ The CSDM and CMDB Data Foundations Dashboards store app provides dashboards that
 
 -   **[CMDB Data Foundations dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-data-foundations-dashboard.md)**
 
-    Evaluates various configurations and customizations in the CMDB. This dashboard checks that important data is valid and properly configured, and identifies and provides visibility into potential risks in the implementation. Use the [[cmdb-data-foundations-dashboard|CMDB Data Foundations dashboard]] to prevent issues and support continuous effective functioning of the CMDB.
+    Evaluates various configurations and customizations in the CMDB. This dashboard checks that important data is valid and properly configured, and identifies and provides visibility into potential risks in the implementation. Use the CMDB Data Foundations dashboard to prevent issues and support continuous effective functioning of the CMDB.
 
 -   **[CSDM Data Foundations dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/csdm-data-foundations-dashboard.md)**
 
-    The [[csdm-data-foundations-dashboard|CSDM Data Foundations dashboard]] displays key CSDM metrics on a single page to assist you in getting the full benefit from your ServiceNow AI Platform® products.
+    The CSDM Data Foundations dashboard displays key CSDM metrics on a single page to assist you in getting the full benefit from your ServiceNow AI Platform® products.
 
 
 The CSDM and the CMDB Data Foundations dashboards capability is provided by the com.snc.cmdb.getwell plugin, which is activated by default in base systems.
@@ -83,9 +83,4 @@ It might be useful to manage the performance impact of some metrics that are gre
     -   **Runtime threshold**: The time threshold in seconds that is considered too long for a metric run. When exceeded, the current metric run is considered failed.
     For most metrics, when the number of consecutive runs that fail because the runtime exceeds **Runtime threshold**, is greater than the **Fail count threshold**, the system automatically deactivates the metric. You can manually reactivate a deactivated metric by setting its **Active** column to **true**. An exception to those column definitions and usage is the CMDB **CIs Processed via IRE** metric. For details, see [CMDB Data Foundations dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-data-foundations-dashboard.md).
 
-## Related
 
-- [[csdm-landing-page|Common Service Data Model]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]
-- [[cmdb-data-foundations-dashboard|CMDB Data Foundations dashboard]]
-- [[csdm-data-foundations-dashboard|CSDM Data Foundations dashboard]]

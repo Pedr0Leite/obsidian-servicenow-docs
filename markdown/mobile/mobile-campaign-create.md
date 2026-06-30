@@ -20,7 +20,7 @@ To configure components to display a campaign on mobile devices, ensure that you
 
 -   Developed content for your campaign. For more information, see [Campaigns for Content Experiences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/ecpro-campaigns.md) and [Configure mobile content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/ecpro-content-delivery-mobile.md).
 
--   Defined the appearance criteria for at least one card type. For more information, see [[mobile-campaign-card-type|Create appearance templates for cards for a mobile campaign]] and [[mobile-campaign-card-config|Configure the details for the appearance of cards for a mobile campaign]].
+-   Defined the appearance criteria for at least one card type. For more information, see [Create appearance templates for cards for a mobile campaign](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-campaign-card-type.md) and [Configure the details for the appearance of cards for a mobile campaign](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-campaign-card-config.md).
 
 -   Have the Employee Center Pro Content Publishing plugin \[com.sn\_content\_delivery\] installed. For more information, see [Activate Content Publishing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/activate-content-delivery-plugin.md).
 
@@ -31,7 +31,7 @@ Role required: admin
 
 1.  Create a data item to collect the data for the campaign content.
 
-    1.  In the web-based UI, enter `sys_sg_data_item.list` in the filter navigator to open a list of [[sg-data-item|data items]].
+    1.  In the web-based UI, enter `sys_sg_data_item.list` in the filter navigator to open a list of data items.
 
     2.  Click **New** to create a data item.
 
@@ -210,7 +210,7 @@ Not applicable for mobile campaigns.
 
     8.  Click **Update**.
 
-5.  [[sg-studio-configure-applet-screens|Create a screen]] launcher content UI section to contain the campaign.
+5.  Create a screen launcher content UI section to contain the campaign.
 
     1.  In the web-based UI, enter `sys_sg_content_section.list` in the filter navigator.
 
@@ -228,12 +228,5 @@ Not applicable for mobile campaigns.
 
 ## What to do next
 
-Add the content UI section to a screen launcher. For more information, see [[configure-content-ui-section|Configure a content UI section]].
+Add the content UI section to a screen launcher. For more information, see [Configure a content UI section](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/configure-content-ui-section.md).
 
-## Related
-
-- [[mobile-campaign-card-type|Create appearance templates for cards for a mobile campaign]]
-- [[mobile-campaign-card-config|Configure the details for the appearance of cards for a mobile campaign]]
-- [[configure-content-ui-section|Configure a content UI section]]
-- [[sg-data-item|Data items]]
-- [[sg-studio-configure-applet-screens|Create a screen]]

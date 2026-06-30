@@ -18,7 +18,7 @@ A high percentage of alerts occur due to errors in config data. If the chain of 
 
 ## Before you begin
 
-**Important:** Starting with the Washington D.C. release, [[devops-config-landing-page|DevOps Config]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+**Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 Roles required: Both cdm\_viewer and evt\_mgmt\_user.
 
@@ -104,7 +104,7 @@ The timeline displays snapshot deployments and the alert.
 
  In addition to the snapshot that immediately precedes the current \(target\) snapshot, you can compare the target snapshot to any earlier snapshot that appears on the timeline. To view additional snapshots, change the date range.
 
- Use the zoom icons \(\[Omitted image "cdm-icon-zoom.png"\] Alt text: zoom icons\) to shrink or grow the portion of the date range that appears on the timeline. Zoom does not change any of the other timeline [[settings-mobile|settings]]. Use the left and right arrows to view items that have scrolled out of view.
+ Use the zoom icons \(\[Omitted image "cdm-icon-zoom.png"\] Alt text: zoom icons\) to shrink or grow the portion of the date range that appears on the timeline. Zoom does not change any of the other timeline settings. Use the left and right arrows to view items that have scrolled out of view.
 
  Select a snapshot to view its name, associated change record, and deployment date. Select the link to open the associated change request.
 
@@ -116,7 +116,7 @@ The timeline displays snapshot deployments and the alert.
 
 </td></tr><tr><td>
 
-[[reference-for-itsm-mobile-agent|Reference]] snapshot / Target snapshot
+Reference snapshot / Target snapshot
 
 </td><td>
 
@@ -191,8 +191,4 @@ The target snapshot is the snapshot that is associated with the change request. 
         -   Conversions from text to array: In the example, because the data structure of the `googleApiKey` CDI changed from a text value to an array, the text form is deleted and the array form is added.
         \[Omitted image "cdm-configuration-changes-script-view.png"\] Alt text: The script view includes symbols that indicate the type of change
 
-## Related
 
-- [[devops-config-landing-page|DevOps Config]]
-- [[settings-mobile|Settings]]
-- [[reference-for-itsm-mobile-agent|Reference]]

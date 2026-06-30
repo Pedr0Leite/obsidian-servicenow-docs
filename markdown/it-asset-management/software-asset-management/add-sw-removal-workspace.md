@@ -14,7 +14,7 @@ breadcrumb: [Using Software Asset Workspace, Software Asset Management, IT Asset
 
 # Create a software removal candidate in workspace
 
-Removal candidates [[reclaiming-software-sam|reclaim software]] resources in your environment. They are created automatically from reclamation rules or can be created manually.
+Removal candidates reclaim software resources in your environment. They are created automatically from reclamation rules or can be created manually.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Starting from the Australia release, the reclamation workflow can also be comple
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Software asset** &gt; **[[sam-workspace|Software Asset Workspace]]**.
+1.  Navigate to **All** &gt; **Software asset** &gt; **Software Asset Workspace**.
 
 2.  Select **License usage**.
 
@@ -328,7 +328,3 @@ Delete removal candidate.
 </table>
 **Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/using-sam-workspace.md)
 
-## Related
-
-- [[reclaiming-software-sam|Reclaim software]]
-- [[sam-workspace|Software Asset Workspace]]

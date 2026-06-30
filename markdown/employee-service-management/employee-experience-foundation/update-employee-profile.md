@@ -14,7 +14,7 @@ breadcrumb: [Using Employee Center, Employee Center, Unified Employee Experience
 
 # View employee profile
 
-View the [[emp-slate-employee-profile|employee profile]] with your personal information from the [[employee-center-portal-overview|employee portal]] and Now Mobile.
+View the employee profile with your personal information from the employee portal and Now Mobile.
 
 ## Manage your profile
 
@@ -45,7 +45,7 @@ For more information, see [Configure the Employee Profile overview widget](https
 **Related topics**  
 
 
-[Use the [[employee-center-landing-page|Employee Center]] topic pages]()
+[Use the Employee Center topic pages]()
 
 [Topic managers and contributors for topic page management]()
 
@@ -59,7 +59,7 @@ For more information, see [Configure the Employee Profile overview widget](https
 
 [Task filters on My tasks]()
 
-[View the [[rfy-ec|Recommended for you]] content]()
+[View the Recommended for you content]()
 
 [Use Employee Center from Zoom]()
 
@@ -79,9 +79,3 @@ For more information, see [Configure the Employee Profile overview widget](https
 
 [Employee profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/employee-profile-portal.md)
 
-## Related
-
-- [[emp-slate-employee-profile|Employee profile]]
-- [[employee-center-portal-overview|Employee portal]]
-- [[employee-center-landing-page|Employee Center]]
-- [[rfy-ec|Recommended for you]]

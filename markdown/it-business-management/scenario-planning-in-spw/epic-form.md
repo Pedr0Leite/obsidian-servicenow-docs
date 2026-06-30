@@ -14,7 +14,7 @@ breadcrumb: [Planning item form, Form field information for Strategic Planning, 
 
 # Epic planning item form
 
-Learn about the fields of the epic form. Use this form to create or edit the details of a planning item of the type Epic in [[alignment-planner-workspace-landing-page|Strategic Planning]].
+Learn about the fields of the epic form. Use this form to create or edit the details of a planning item of the type Epic in Strategic Planning.
 
 These fields are displayed on the full details page of the planning item.
 
@@ -358,6 +358,3 @@ Analyze how much risk that this epic can help you avoid by answering questions s
 
 [Add planning items to Prioritization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/add-new-items-to-backlog-alignment-planner-workspace.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

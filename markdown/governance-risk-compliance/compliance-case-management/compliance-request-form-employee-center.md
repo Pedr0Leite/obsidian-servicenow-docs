@@ -14,7 +14,7 @@ breadcrumb: [Employee Center, Raise compliance request, Use, Compliance Case Man
 
 # Raise a Compliance Request form
 
-Use the Raise a Compliance Request form in the [[employee-center|Employee Center]] to raise a compliance request.
+Use the Raise a Compliance Request form in the Employee Center to raise a compliance request.
 
 The following table lists the descriptions of the field values.
 
@@ -97,6 +97,3 @@ Location where the request was raised. For example, Japan.
 </td></tr></tbody>
 </table>**Parent Topic:**[Raise a compliance request from the Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/raise-compliance-request-employee-center.md)
 
-## Related
-
-- [[employee-center|employee center]]

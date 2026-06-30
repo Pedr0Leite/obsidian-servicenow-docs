@@ -12,7 +12,7 @@ breadcrumb: [Forms in the classic environment, Working in the classic environmen
 
 # Personalize a form
 
-When the form personalization feature is activated, users can personalize fields to appear on a specific form view according to individual preferences. Form personalization is available in [[c_UI16|Core UI]].
+When the form personalization feature is activated, users can personalize fields to appear on a specific form view according to individual preferences. Form personalization is available in Core UI.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: itil, personalize\_form, or admin
 
 ## About this task
 
-Personal form customizations do not affect what other users see on their [[form-configurable-workspace|forms]].
+Personal form customizations do not affect what other users see on their forms.
 
 In contrast to configuring a form, personalizing a form does not enable users to perform the following actions:
 
@@ -42,7 +42,7 @@ In contrast to configuring a form, personalizing a form does not enable users to
 
     A cleared gray check box indicates fields that you previously hid.
 
-    **Note:** Only the fields that the form is configured to display are available in the Personalize Form menu. To add fields to the form, you must [[configure-onboarding-modals|configure]] the form layout.
+    **Note:** Only the fields that the form is configured to display are available in the Personalize Form menu. To add fields to the form, you must configure the form layout.
 
 3.  Clear a check box or click the hide field icon \(\[Omitted image "HideFieldIcon.png"\] Alt text: Hide field icon\) by a field.
 
@@ -55,16 +55,10 @@ In contrast to configuring a form, personalizing a form does not enable users to
 5.  To restore the default form view, personalize the form and click **Reset**.
 
 
-**Parent Topic:**[[c_UsingForms|Forms in the classic environment]]
+**Parent Topic:**[Forms in the classic environment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_UsingForms.md)
 
 **Related topics**  
 
 
 [Administering form personalization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_FormPersonalizationAdmin.md)
 
-## Related
-
-- [[c_UsingForms|Forms in the classic environment]]
-- [[c_UI16|Core UI]]
-- [[form-configurable-workspace|Forms]]
-- [[configure-onboarding-modals|Configure]]

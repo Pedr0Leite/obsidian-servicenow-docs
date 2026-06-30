@@ -14,7 +14,7 @@ breadcrumb: [Install Strategic Spend Tracking for PPM, Strategic Spend Tracking 
 
 # Components installed with Strategic Spend Tracking for PPM
 
-Several types of components are installed with activation of [[ppm-strategic-spend-tracking-overview|Strategic Spend Tracking for PPM]], including tables and scheduled jobs.
+Several types of components are installed with activation of Strategic Spend Tracking for PPM, including tables and scheduled jobs.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -80,6 +80,3 @@ Stores strategy breakdown details for a project or demand. The details include f
 </td></tr></tbody>
 </table>**Parent Topic:**[Install Strategic Spend Tracking for PPM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/install-strategic-spend.md)
 
-## Related
-
-- [[ppm-strategic-spend-tracking-overview|Strategic Spend Tracking for PPM]]

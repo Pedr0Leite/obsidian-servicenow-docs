@@ -20,14 +20,14 @@ Run your test assignments and capture the results.
 
 Before you begin, ensure the following conditions are met:
 
--   Your test manager has set the [[c_Tests|tests]] to **Ready** state and assigned them to you.
+-   Your test manager has set the tests to **Ready** state and assigned them to you.
 -   At least one execution environment is configured in your instance.
 
 Role required: sn\_test\_management.tester
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[test-management2-landing-page|Test Management 2.0]]** &gt; **Tests Assigned to me**.
+1.  Navigate to **All** &gt; **Test Management 2.0** &gt; **Tests Assigned to me**.
 
 2.  Select the required tests and click **Run**.
 
@@ -92,7 +92,7 @@ Test results are saved to the Test Result form. The overall status of the test i
 
 ## What to do next
 
-To view the full history of test runs and results across all [[c_TestPlans|test plans]], navigate to **Test Management 2.0** &gt; **Test Runs**. For more information about monitoring test plan progress, see [Test Board in Test Management 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/test-board.md).
+To view the full history of test runs and results across all test plans, navigate to **Test Management 2.0** &gt; **Test Runs**. For more information about monitoring test plan progress, see [Test Board in Test Management 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/test-board.md).
 
 **Parent Topic:**[Testing using Test Management 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/release-readiness-testing.md)
 
@@ -107,8 +107,3 @@ To view the full history of test runs and results across all [[c_TestPlans|test 
 
 [Create a test execution suite in Test Management 2.0]()
 
-## Related
-
-- [[c_Tests|Tests]]
-- [[test-management2-landing-page|Test Management 2.0]]
-- [[c_TestPlans|Test plans]]

@@ -14,7 +14,7 @@ breadcrumb: [Learning in Workforce Optimization for HR, Coaching in Workforce Op
 
 # Create a learning library in Workforce Optimization for HR
 
-[[create-learning-library|Create a learning library]] to organize related content into categories.
+Create a learning library to organize related content into categories.
 
 ## Before you begin
 
@@ -26,9 +26,9 @@ Role required: sn\_hr\_wfo.admin
 
 2.  Select the coaching icon.
 
-3.  Select the **[[exploring-learning-exp|Learning]]** tab.
+3.  Select the **Learning** tab.
 
-4.  Select **Learning Libraries** and select **[[overview-lxp|My learning]] libraries**.
+4.  Select **Learning Libraries** and select **My learning libraries**.
 
 5.  Create a learning library.
 
@@ -55,8 +55,3 @@ Role required: sn\_hr\_wfo.admin
 
 **Parent Topic:**[Learning in Workforce Optimization for HR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/learning-wfo-hr.md)
 
-## Related
-
-- [[create-learning-library|Create a learning library]]
-- [[exploring-learning-exp|Learning]]
-- [[overview-lxp|My Learning]]

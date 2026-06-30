@@ -66,10 +66,7 @@ There are several methods for deleting table records. Depending on the number of
 
 ## Result
 
-The selected table is empty of records. The table still exists, and any references to the table on other tables \(such as business rules or [[reference-email-admin|reference]] fields\) are preserved.
+The selected table is empty of records. The table still exists, and any references to the table on other tables \(such as business rules or reference fields\) are preserved.
 
 **Parent Topic:**[Deleting custom tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_DeleteATable.md)
 
-## Related
-
-- [[reference-email-admin|Reference]]

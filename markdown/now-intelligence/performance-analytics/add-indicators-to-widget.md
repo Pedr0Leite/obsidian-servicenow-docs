@@ -24,7 +24,7 @@ Role required: pa\_admin or admin
 
 ## About this task
 
-**Note:** This feature is part of the Core UI front end. It is not supported on [[c_performanceAnalyticsAndReporting|Platform Analytics]] dashboards or UI Builder pages, except to a limited extent when migrated in compatibility mode. To build Platform Analytics components, see [[analytics-center-data-visualizations|Data visualizations in Platform Analytics]] or [[interactive-filters-workspace|Filters in Platform Analytics]].
+**Note:** This feature is part of the Core UI front end. It is not supported on Platform Analytics dashboards or UI Builder pages, except to a limited extent when migrated in compatibility mode. To build Platform Analytics components, see [Data visualizations in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-data-visualizations.md) or [Filters in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters-workspace.md).
 
 This feature is deprecated, meaning it is in maintenance mode and is no longer being augmented or changed. Only security fixes to this feature will be addressed.
 
@@ -48,7 +48,7 @@ When a user selects breakdown elements on a breakdown dashboard, the breakdown a
 
 1.  Either save a widget that you are creating, or open an existing widget for editing.
 
-    You can open a widget either from **Performance Analytics** &gt; **[[widgets|Widgets]]** or from the dashboard. For more information, see [Edit a responsive dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_EditADashboard.md).
+    You can open a widget either from **Performance Analytics** &gt; **Widgets** or from the dashboard. For more information, see [Edit a responsive dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_EditADashboard.md).
 
 2.  Scroll to the bottom of the form and locate a related list with the label **Widget Indicators**.
 
@@ -157,11 +157,11 @@ A custom label for this indicator.
 
     For more information about breakdown dashboards, see [Using breakdowns on dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_SpecialDashboards.md).
 
-8.  [[time-series-widgets|Time series widgets]] only: In the **Elements Filter** tab, you can select an element filter to use instead of selecting a first-level element in the **Element** field.
+8.  Time series widgets only: In the **Elements Filter** tab, you can select an element filter to use instead of selecting a first-level element in the **Element** field.
 
     See [Element filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_BreakdownElementFilters.md).
 
-    Use this approach to personalize which breakdowns are shown depending on the viewer. For more information about using [[c_BreakdownElementFilters|element filters]] to personalize widgets, see [Personalized visuals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/personalized-visuals.md).
+    Use this approach to personalize which breakdowns are shown depending on the viewer. For more information about using element filters to personalize widgets, see [Personalized visuals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/personalized-visuals.md).
 
     **Note:** On a dashboard, the names of all the elements that the elements filter passes are appended to the indicator name or label of the widget indicator.
 
@@ -179,11 +179,3 @@ To edit any of these settings later, go to the **Widget Indicators** list and cl
 
 [KB0724552: How to Add Secondary Indicators to a Time Series or List Widget](https://support.servicenow.com/nav_to.do?uri=%2Fkb%3Fid%3Dkb_article_view%26sysparm_article%3DKB0724552)
 
-## Related
-
-- [[analytics-center-data-visualizations|Data visualizations in Platform Analytics]]
-- [[interactive-filters-workspace|Filters in Platform Analytics]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[widgets|Widgets]]
-- [[time-series-widgets|Time series widgets]]
-- [[c_BreakdownElementFilters|Element filters]]

@@ -26,7 +26,7 @@ Placing the alert in maintenance does not place the CI into maintenance. The **S
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **All Alerts**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **All Alerts**.
 
 2.  Perform one of the following actions.
 
@@ -55,6 +55,3 @@ Open the alert, and either select the **Maintenance** check box and click **Upda
 
 [Create maintenance rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/create-maintenance-rule.md)
 
-## Related
-
-- [[c_EM|Event Management]]

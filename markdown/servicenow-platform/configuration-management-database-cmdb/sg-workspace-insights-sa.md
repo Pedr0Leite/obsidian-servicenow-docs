@@ -18,9 +18,9 @@ Access the CMDB success advisor insights dashboard in Service Graph Workspace to
 
 ## Access
 
-1.  Navigate to **Workspaces** &gt; **[[sg-workspace|Service Graph Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Graph Workspace**.
 2.  In the navigation panel, select the Insights icon.
-3.  On the Insights page navigation pane, select the &gt; icon to expand **[[cmdb-sa|CMDB success advisor]]**.
+3.  On the Insights page navigation pane, select the &gt; icon to expand **CMDB success advisor**.
 4.  Select the dashboard for the outcome you want to monitor: **Data Foundations** or **Hardware Asset Management** \(**HAM**\).
 
     **Note:** Each dashboard is available only when CMDB success advisor is installed and the setup process for that outcome is complete. For more information, see [CMDB success advisor for Data Foundations setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sa-df-config-settings.md) and [Set up CMDB success advisor for HAM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cmdb-sa-ham-config-settings.md).
@@ -33,7 +33,3 @@ For additional information, see:
 -   [Viewing the CMDB success advisor landing page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sa-landing-page.md).
 -   [Supported business outcomes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sa-outcomes.md).
 
-## Related
-
-- [[sg-workspace|Service Graph Workspace]]
-- [[cmdb-sa|CMDB success advisor]]

@@ -14,7 +14,7 @@ breadcrumb: [CrowdStrike Falcon EDR integration, TISC Security Tools integration
 
 # Configure Crowdstrike Falcon EDR integration
 
-Download and configure the [[crowdstrike-edr-integration|CrowdStrike Falcon EDR integration]] to enable endpoint detection and response capabilities in your ServiceNow instance.
+Download and configure the CrowdStrike Falcon EDR integration to enable endpoint detection and response capabilities in your ServiceNow instance.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_sec\_tisc.admin
 
 **Important:**
 
--   [[tisc-landing-page|Threat Intelligence Security Center]] application must be installed and activated.
+-   Threat Intelligence Security Center application must be installed and activated.
 -   Obtain the API Client ID and API Client Secret from CrowdStrike Falcon console.
 -   In the CrowdStrike Falcon portal API Scopes, enable the **IOC Management: read and write access**.
 
@@ -30,9 +30,9 @@ Role required: sn\_sec\_tisc.admin
 
 1.  Navigate to **Threat Intelligence Security Center**.
 
-2.  [[download-app-first-time|Download the integration from the ServiceNow Store]].
+2.  [Download the integration from the ServiceNow Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/download-app-first-time.md).
 
-3.  Select **Integrations** &gt; **Security [[tools|Tools]]** &gt; **EDR**.
+3.  Select **Integrations** &gt; **Security Tools** &gt; **EDR**.
 
 4.  Select **Configure New Security Tool** to configure CrowdStrike Falcon EDR integration.
 
@@ -118,7 +118,7 @@ The client secret key that you obtained from CrowdStrike. For more information, 
 
 </td></tr><tr><td>
 
-Expiration period in days for any type of [[c_Observables|observables]]
+Expiration period in days for any type of observables
 
 </td><td>
 
@@ -165,10 +165,3 @@ The expiry period in days that is applied for the Hash type of observable when t
 
 [Send observables to EDR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/send-to-edr.md)
 
-## Related
-
-- [[download-app-first-time|Download an application from the ServiceNow Store for the first time]]
-- [[crowdstrike-edr-integration|CrowdStrike Falcon EDR integration]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[tools|Tools]]
-- [[c_Observables|Observables]]

@@ -18,7 +18,7 @@ Modal illustrations accompany user guidance or support messaging about added fea
 
 Modal illustrations provide a quick visual cue about a modal’s intent. Modal illustrations are theme-able, and adapt to the theme colors of your instance.
 
-**Important:** Modal illustrations apply to Workspaces and are not supported in the [[c_UI16|Core UI]].
+**Important:** Modal illustrations apply to Workspaces and are not supported in the Core UI.
 
 \[Omitted image "tb-modal-illustration.png"\] Alt text: Platform/Onboarding history modal illustration.
 
@@ -34,17 +34,10 @@ To override the default modal illustrations with custom images, upload each imag
 |Format|SVG|
 |File size limit|2 MB|
 
--   **[[configure-modal-colors|Configure colors for modal illustrations]]**  
-[[configure-onboarding-modals|Configure]] and control the colors automatically applied to modal illustrations to keep your visual experience engaging while maintaining brand recognition.
--   **[[override-modal-with-custom-images|Override modal illustrations with custom images]]**  
+-   **[Configure colors for modal illustrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-modal-colors.md)**  
+Configure and control the colors automatically applied to modal illustrations to keep your visual experience engaging while maintaining brand recognition.
+-   **[Override modal illustrations with custom images](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/override-modal-with-custom-images.md)**  
 Modify or override the default modal illustrations with your own custom images to promote visual elements that reflect your company's branding.
 
-**Parent Topic:**[[working-with-image-styles|Working with Image styles]]
+**Parent Topic:**[Working with Image styles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/working-with-image-styles.md)
 
-## Related
-
-- [[configure-modal-colors|Configure colors for modal illustrations]]
-- [[override-modal-with-custom-images|Override modal illustrations with custom images]]
-- [[working-with-image-styles|Working with Image styles]]
-- [[c_UI16|Core UI]]
-- [[configure-onboarding-modals|Configure]]

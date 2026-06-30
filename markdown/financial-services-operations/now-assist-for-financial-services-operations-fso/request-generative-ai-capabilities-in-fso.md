@@ -15,7 +15,7 @@ breadcrumb: [Use generative AI, Now Assist for FSO, Financial Services Operation
 
 # Request generative AI capabilities in Financial Services Operations with Now Assist panel
 
-Request the contextual generative AI capabilities, such as a case summary, in the [[fso-overview|Financial Services]] Operations \(FSO\) application by using the conversational interface in the Now Assist panel.
+Request the contextual generative AI capabilities, such as a case summary, in the Financial Services Operations \(FSO\) application by using the conversational interface in the Now Assist panel.
 
 ## Before you begin
 
@@ -66,6 +66,3 @@ Description
 </table>
 **Parent Topic:**[Using generative AI in Now Assist for Financial Services Operations \(FSO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/using-now-assist-for-financial-services-operations-fso.md)
 
-## Related
-
-- [[fso-overview|Financial Services]]

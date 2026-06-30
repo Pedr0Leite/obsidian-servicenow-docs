@@ -18,9 +18,9 @@ Integrate a request for specific CI attributes when manually creating a new CI i
 
 ## About this task
 
-Creating a new CI is an experience in CMDB Workspace which you might be integrating into another workspace. Within CMDB Workspace, there are default settings for some of the behaviors of the create CI experience. However, you can use configuration identifiers to customize some of those default settings for CMDB Workspace or other workspaces. For example, you can customize the list of attributes that is [[requested-for|requested for]] the new CI.
+Creating a new CI is an experience in CMDB Workspace which you might be integrating into another workspace. Within CMDB Workspace, there are default settings for some of the behaviors of the create CI experience. However, you can use configuration identifiers to customize some of those default settings for CMDB Workspace or other workspaces. For example, you can customize the list of attributes that is requested for the new CI.
 
-Requests for additional attributes for new CIs are stored in the CI additional attributes config \[sn\_cmdb\_ws\_ci\_additional\_attributes\] table which is part of the [[cnfg-identifiers-framework-sg|configuration identifiers framework]]. Therefore, to manage requests for additional attributes in your workspace, you must use config identifiers. By default, the CI additional attributes config table contains a single entry for CMDB Workspace, that applies to the entire CMDB hierarchy. Any workspace or class without a direct config identifier for additional attributes, uses the default entry.
+Requests for additional attributes for new CIs are stored in the CI additional attributes config \[sn\_cmdb\_ws\_ci\_additional\_attributes\] table which is part of the configuration identifiers framework. Therefore, to manage requests for additional attributes in your workspace, you must use config identifiers. By default, the CI additional attributes config table contains a single entry for CMDB Workspace, that applies to the entire CMDB hierarchy. Any workspace or class without a direct config identifier for additional attributes, uses the default entry.
 
 For more information:
 
@@ -105,7 +105,3 @@ When manually creating a new CI for the specified **CI class** in the respective
 
 **Parent Topic:**[Configuring CMDB Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/configuring-cmdb-workspace.md)
 
-## Related
-
-- [[requested-for|Requested for]]
-- [[cnfg-identifiers-framework-sg|Configuration identifiers framework]]

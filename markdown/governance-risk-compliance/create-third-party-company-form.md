@@ -12,7 +12,7 @@ breadcrumb: [Create a third party and enhance digital resilience data, Using Dig
 
 # Create New Company form
 
-On the [[create-new-legal-entity-form|Create New Company form]], fill in the fields for the third party.
+On the Create New Company form, fill in the fields for the third party.
 
 <table id="table_cyz_r34_ycc"><thead><tr><th>
 
@@ -95,9 +95,5 @@ Notes
 Additional details of the third-party.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[create-drtp-reg-third-party|Create a third party and enhance digital resilience data]]
+</table>**Parent Topic:**[Create a third party and enhance digital resilience data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-drtp-reg-third-party.md)
 
-## Related
-
-- [[create-drtp-reg-third-party|Create a third party and enhance digital resilience data]]
-- [[create-new-legal-entity-form|Create New Company form]]

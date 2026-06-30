@@ -14,7 +14,7 @@ breadcrumb: [Observability-Dynatrace, Service Graph Connectors, Integrating thir
 
 # Set up push notifications from Dynatrace
 
-Set up push notifications of events from Dynatrace into a ServiceNow instance that has the [[cmdb-integration-dynatrace|Service Graph Connector for Observability - Dynatrace]] installed.
+Set up push notifications of events from Dynatrace into a ServiceNow instance that has the Service Graph Connector for Observability - Dynatrace installed.
 
 ## Before you begin
 
@@ -80,7 +80,7 @@ Additional HTTP Headers &gt; Create basic authorization
     1.  Navigate to **System Security** &gt; **Users**.
     2.  Select the Dynatrace API user.
     3.  Set the **Password** field with a new password.
-    4.  Clear the **Password needs reset** [[check-box|check box]].
+    4.  Clear the **Password needs reset** check box.
     5.  Update or save the user.
 2.  Set the **Username** field to `DynatraceAPI`.
 3.  Set the **Password** field to the password that you had created.
@@ -142,8 +142,3 @@ Click to send a test notification, and verify that the response status is 200.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cmdb-integration-dynatrace|Service Graph Connector for Observability - Dynatrace]]
-- [[check-box|Check box]]

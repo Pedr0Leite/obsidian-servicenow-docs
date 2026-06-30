@@ -14,7 +14,7 @@ breadcrumb: [Microsoft Defender for Endpoint integration, Security Incident Resp
 
 # Trigger conditions in a configuration item
 
-After you [[arcsight-esm-create-profile|create a profile]] and select the Microsoft Defender for Endpoint capabilities that you want the profile to run, configure the profile settings so that the profile runs only when a set of specific conditions is met.
+After you create a profile and select the Microsoft Defender for Endpoint capabilities that you want the profile to run, configure the profile settings so that the profile runs only when a set of specific conditions is met.
 
 ## How to trigger conditions in a configuration item
 
@@ -28,6 +28,3 @@ During the configuration step of the profile setup, you can select an alternate 
 
 **Note:** The alternate CI fields are considered only for capabilities that could be added to a profile. These capabilities include Get Host Details, Get Logged On Users, Isolate Host, and Remove Isolation. For all the additional actions, the alternate CI must be configured in the Default Settings module.
 
-## Related
-
-- [[arcsight-esm-create-profile|Create a profile]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure Guided Tours, Guided Tours, Adoption services, Configure 
 
 # Edit Guided Tours
 
-You can modify the settings of a guided tour by using the [[guided-tours-designer|Guided Tour Designer]] \(GTD\).
+You can modify the settings of a guided tour by using the Guided Tour Designer \(GTD\).
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: guided\_tour\_admin
 
 ## About this task
 
-To edit a guided tour, you can use either GTD or the [[guided-tours|Guided Tours]] form. The GTD enables you to add, delete, and reorganize guided tour steps. The Guided Tours form is recommended for tasks that are difficult to accomplish using the GTD. You can start by editing the elements shown on the form when you open a guided tour record. Then, proceed to the GTD for further edits.
+To edit a guided tour, you can use either GTD or the Guided Tours form. The GTD enables you to add, delete, and reorganize guided tour steps. The Guided Tours form is recommended for tasks that are difficult to accomplish using the GTD. You can start by editing the elements shown on the form when you open a guided tour record. Then, proceed to the GTD for further edits.
 
 The base system offers several guided tours for specific applications, such as Performance Analytics. As an administrator, you can modify existing tours and assign one or more roles to them to manage access.
 
@@ -42,14 +42,14 @@ The base system offers several guided tours for specific applications, such as P
         -   **Roles**: Add or remove roles.
         -   **Route Parameters**: Update route parameters to collect metadata about the specific URL where you want to play the tour.
         -   **Active** check box: Clear the **Active** check box, to turn off the guided tour. The tour becomes read only, meaning it can’t be edited and is hidden from end users.  If you want to keep the tour for future use but don’t want end users to see it, change its status back to draft for further editing. Select the **Active** check box, to turn the tour back on.
-    -   In [[c_ServicePortal|Service Portal]]:
+    -   In Service Portal:
         -   **Name**: Update the name to make it unique and intuitive.
         -   **Status**: Change the to either draft or published.
         -   **SP Portal**: Specify where the tour should be created, such as in the Employee Center or the Knowledge Portal.
         -   **SP Page**: Specify which page in the SP Portal the tour should be created on, such as the index page or the home page.
         -   **Additional URL Parameters**:
 
-            You can initiate a Service Portal tour from a specific widget, record, or view within a page rather than from the entire page. To initiate a tour, include the URL parameters that directly [[onboarding-modals-reference|reference]] the specific item in the **Additional URL Parameters** field.
+            You can initiate a Service Portal tour from a specific widget, record, or view within a page rather than from the entire page. To initiate a tour, include the URL parameters that directly reference the specific item in the **Additional URL Parameters** field.
 
             For example, you can specify the part of the URL that contains the sys\_id of a widget, or include parameters for a particular record or view, such as `sys_id=abc123&view=myView`.
 
@@ -127,7 +127,7 @@ In the Tour Steps list, hover over the step you want to remove and then select t
 
 **Note:**
 
-All standard HTML [[c_Tags|tags]] compatible with your browser are supported.
+All standard HTML tags compatible with your browser are supported.
 
 Don’t add images or video to the text. These media types aren’t supported in callouts.
 
@@ -166,10 +166,3 @@ If the tour is in draft status, select **Publish**. If the tour is published, se
 </table>
 **Parent Topic:**[Configuring Guided Tours](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/configure-guided-tours.md)
 
-## Related
-
-- [[guided-tours-designer|Guided Tour Designer]]
-- [[guided-tours|Guided Tours]]
-- [[c_ServicePortal|Service Portal]]
-- [[onboarding-modals-reference|Reference]]
-- [[c_Tags|Tags]]

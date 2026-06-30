@@ -136,13 +136,9 @@ Default resolution steps filter
 
 </td><td>
 
-A condition builder filter that determines which [[automation-opportunities|automation opportunities]] are eligible for resolution step generation. The default filter is `automation_priority=40`, which corresponds to Critical priority. Update the filter using the condition builder to change the priority scope.
+A condition builder filter that determines which automation opportunities are eligible for resolution step generation. The default filter is `automation_priority=40`, which corresponds to Critical priority. Update the filter using the condition builder to change the priority scope.
 
  **Example:** The default value `automation_priority=40` limits resolution step generation to critical priority automation opportunities. Modify the condition to include additional priority levels as needed.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[automation-opportunities|Automation opportunities]]

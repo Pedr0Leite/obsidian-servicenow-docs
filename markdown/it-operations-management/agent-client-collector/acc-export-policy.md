@@ -14,7 +14,7 @@ breadcrumb: [Create a new ACC policy, Collect data from your system devices, ACC
 
 # Export and import an Agent Client Collector policy
 
-You can move a single or multiple [[acc-landing-page|Agent Client Collector]] policies from one ServiceNow instance to another by exporting the policy and then importing it into the target instance. Only published policies can be exported.
+You can move a single or multiple Agent Client Collector policies from one ServiceNow instance to another by exporting the policy and then importing it into the target instance. Only published policies can be exported.
 
 ## Before you begin
 
@@ -70,6 +70,4 @@ Role required: agent\_client\_collector\_admin
 
     **Note:** The import process overrides any existing policies on the target instance and sets the imported policies to **Published**. However, draft copies of policies created on the target instance are not modified. Therefore, delete draft records of the imported policies after completing the import process, as these records are not synchronized with the published policies on the target instance.
 
-## Related
 
-- [[acc-landing-page|Agent Client Collector]]

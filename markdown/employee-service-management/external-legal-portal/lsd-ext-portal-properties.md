@@ -14,7 +14,7 @@ breadcrumb: [External Legal Service Center reference, External Legal Service Cen
 
 # Property installed with External Legal Service Center
 
-Property that you can use to enable the **Save as Draft** option for a record producer in [[lsd-ext-portal-landing-page|External Legal Service Center]].
+Property that you can use to enable the **Save as Draft** option for a record producer in External Legal Service Center.
 
 These properties are available for External Legal Service Center.
 
@@ -42,7 +42,3 @@ Enable "Save as Draft" option for a record producer.-   Type: true\| false
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[lsd-ext-portal-landing-page|External Legal Service Center]]

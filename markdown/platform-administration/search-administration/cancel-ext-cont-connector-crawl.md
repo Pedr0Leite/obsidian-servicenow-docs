@@ -15,7 +15,7 @@ breadcrumb: [Crawl, External Content Connectors, Search administration, Configur
 
 # Cancel a running external content connector crawl
 
-Cancel a running crawl for an external content connector to prevent the connector from retrieving and feeding additional documents or access permissions to [[ia-ai-search|AI Search]] for indexing.
+Cancel a running crawl for an external content connector to prevent the connector from retrieving and feeding additional documents or access permissions to AI Search for indexing.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ Search administrators can manually cancel external content connector crawls that
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ext-cont-connectors-landing-page|External Content Connectors]]** &gt; **External Content Admin Home**.
+1.  Navigate to **All** &gt; **External Content Connectors** &gt; **External Content Admin Home**.
 
 2.  In the Connectors list, select the record for the external content connector whose crawl you want to cancel.
 
@@ -48,7 +48,3 @@ The selected external content connector halts its crawl.
 
 **Parent Topic:**[Crawling content with External Content Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/using-ext-cont-connectors.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[ext-cont-connectors-landing-page|External Content Connectors]]

@@ -15,7 +15,7 @@ breadcrumb: [Skills performance, Using Now Assist Analytics, Analyzing Now Assis
 
 Use the Skill details dashboard page to view usage and performance indicators of a skill.
 
-The Skill details dashboard page contains indicators pertaining to a specific skill. The indicators provide insight into skill usage and performance. Select a skill from the drop-down list to view the indicators. The drop-down lists both active and inactive skills. Each skill has a subtitle that identifies the skill family that it belongs to, for example, ITSM, HR, and so on. Use the date range filter to view skill usage and performance over a certain period. The date range filter selection applies to all visualizations on the page. See [[now-assist-analytics-dashboard-indicators|Now Assist Analytics dashboard indicator details]] for information on the data and calculations behind each indicator.
+The Skill details dashboard page contains indicators pertaining to a specific skill. The indicators provide insight into skill usage and performance. Select a skill from the drop-down list to view the indicators. The drop-down lists both active and inactive skills. Each skill has a subtitle that identifies the skill family that it belongs to, for example, ITSM, HR, and so on. Use the date range filter to view skill usage and performance over a certain period. The date range filter selection applies to all visualizations on the page. See [Now Assist Analytics dashboard indicator details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-analytics-dashboard-indicators.md) for information on the data and calculations behind each indicator.
 
 \[Omitted image "naa-flow-generation-skill-details-dashboard.png"\] Alt text: Flow generation skill details dashboard.
 
@@ -30,7 +30,7 @@ The indicators on the Skill details dashboard page provide the following insight
 
 The indicators on skill details pages might differ based on the skill selected. For example, summarization skills might have different set of indicators compared to generation skills because each skill is mapped to its own dashboard that contains a set of indicators related to the skill.
 
-The [[platform-now-assist-landing|Now Assist]] Analytics dashboard comes with some default skill-to-dashboard mappings to get you started. The default dashboards are visible to users with the Now Assist Analytics Viewer \[sn\_na\_analytics.viewer\] role. You can create your own dashboards and map them to skills. See [Create a dashboard with the in-line editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-db-in-ac.md) and [[map-a-skill-to-a-dashboard|Map a skill to a dashboard]] for more information on creating custom dashboards and mapping them to skills, respectively.
+The Now Assist Analytics dashboard comes with some default skill-to-dashboard mappings to get you started. The default dashboards are visible to users with the Now Assist Analytics Viewer \[sn\_na\_analytics.viewer\] role. You can create your own dashboards and map them to skills. See [Create a dashboard with the in-line editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-db-in-ac.md) and [Map a skill to a dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/map-a-skill-to-a-dashboard.md) for more information on creating custom dashboards and mapping them to skills, respectively.
 
 The following indicators are for the Flow Generation skill.
 
@@ -59,11 +59,5 @@ The following indicators are for the Flow Generation skill.
     \[Omitted image "naa-flow-generation-acceptance-rate.png"\] Alt text: Acceptance rate indicator.
 
 
-**Parent Topic:**[[skill-usage|Skills performance]]
+**Parent Topic:**[Skills performance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/skill-usage.md)
 
-## Related
-
-- [[now-assist-analytics-dashboard-indicators|Now Assist Analytics dashboard indicator details]]
-- [[map-a-skill-to-a-dashboard|Map a skill to a dashboard]]
-- [[skill-usage|Skills performance]]
-- [[platform-now-assist-landing|Now Assist]]

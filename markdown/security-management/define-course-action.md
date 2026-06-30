@@ -20,7 +20,7 @@ Role required: sn\_ti.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[threat-intel-landing-page|Threat Intelligence]]** &gt; **[[ioc-repository|IoC Repository]]** &gt; **Course of Actions**.
+1.  Navigate to **All** &gt; **Threat Intelligence** &gt; **IoC Repository** &gt; **Course of Actions**.
 
 2.  Click **New**.
 
@@ -29,7 +29,7 @@ Role required: sn\_ti.admin
     |Field|Description|
     |-----|-----------|
     |**Name**|Enter a descriptive name for this course of action.|
-    |**Action**|To capture structured or automated [[course-of-action|courses of action]].|
+    |**Action**|To capture structured or automated courses of action.|
     |**Source**|Specifies the threat source from which this record is created.|
     |**Description**|A description that provides more details and context about the course of action, potentially including its purpose and its key characteristics.|
     |**Source ID**|Unique identifier for this object in the threat source.|
@@ -53,11 +53,11 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Show [[stix-relationships|Relationships]]
+Show Relationships
 
 </td><td>
 
-Opens the [[stix-visualizer|STIX Visualizer]] where you can view the relationship of the STIX object.Show Relationships appears only when the object has an associated object.
+Opens the STIX Visualizer where you can view the relationship of the STIX object.Show Relationships appears only when the object has an associated object.
 
 </td></tr><tr><td>
 
@@ -69,7 +69,7 @@ Lists external references which refer to non-STIX information. This property is 
 
 </td></tr><tr><td>
 
-[[attack-patterns|Attack Patterns]]
+Attack Patterns
 
 </td><td>
 
@@ -77,15 +77,15 @@ Lists the attack patterns that help categorize attacks that are associated with 
 
 </td></tr><tr><td>
 
-[[indicator|Indicators]]
+Indicators
 
 </td><td>
 
-Lists related [[c_IoCs|Indicators of Compromise]] \(IoC\) that have been identified by the threat source associated with this object.
+Lists related Indicators of Compromise \(IoC\) that have been identified by the threat source associated with this object.
 
 </td></tr><tr><td>
 
-[[threat-intelligence-malware|Malware]]
+Malware
 
 </td><td>
 
@@ -93,35 +93,20 @@ Lists malicious code associated with this object.
 
 </td></tr><tr><td>
 
-[[tools|Tools]]
+Tools
 
 </td><td>
 
-Lists legitimate software that is used by [[threat-actors|threat actors]] to perform attacks associated with this object.
+Lists legitimate software that is used by threat actors to perform attacks associated with this object.
 
 </td></tr><tr><td>
 
-[[vulnerabilities|Vulnerabilities]]
+Vulnerabilities
 
 </td><td>
 
 Lists a weakness or defect in a software or hardware that attackers exploit which is associated with this object.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[threat-intelligence-course-actions|Course of actions]]
+</table>**Parent Topic:**[Course of actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-course-actions.md)
 
-## Related
-
-- [[threat-intelligence-course-actions|Course of actions]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[ioc-repository|IoC Repository]]
-- [[course-of-action|Courses of Action]]
-- [[stix-relationships|Relationships]]
-- [[stix-visualizer|STIX Visualizer]]
-- [[attack-patterns|Attack patterns]]
-- [[indicator|Indicators]]
-- [[c_IoCs|Indicators of compromise]]
-- [[threat-intelligence-malware|Malware]]
-- [[tools|Tools]]
-- [[threat-actors|Threat actors]]
-- [[vulnerabilities|Vulnerabilities]]

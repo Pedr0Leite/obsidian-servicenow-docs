@@ -14,7 +14,7 @@ breadcrumb: [Learn about FSC common applications, Common applications, Finance a
 
 # Components installed with ERP Integration Framework
 
-Several types of components are installed with the installation of the [[erp-integration-framework|ERP Integration Framework]] application, including tables and user roles.
+Several types of components are installed with the installation of the ERP Integration Framework application, including tables and user roles.
 
 ## Roles installed
 
@@ -130,7 +130,7 @@ Stores the requests being sent to ERP.
 
 </td></tr><tr><td>
 
-[[erp-source-configuration|ERP Source Configuration]]\[sn\_fcms\_intg\_source\]
+ERP Source Configuration\[sn\_fcms\_intg\_source\]
 
 </td><td>
 
@@ -138,8 +138,3 @@ Maintains ERP details such as credentials and web service details.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[erp-integration-framework|ERP Integration Framework]]
-- [[erp-source-configuration|ERP source configuration]]

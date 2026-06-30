@@ -26,7 +26,7 @@ At least one vulnerability record and one product record must exist in the syste
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Workspaces** &gt; **[[threat-intel-landing-page|Threat Intelligence]] Library** &gt; **[[vulnerability|Vulnerability Artifacts]]** &gt; **Remediations**.
+1.  Navigate to **All** &gt; **Workspaces** &gt; **Threat Intelligence Library** &gt; **Vulnerability Artifacts** &gt; **Remediations**.
 
 2.  Select **New**.
 
@@ -116,7 +116,7 @@ Action Link
 
 </td><td>
 
-A URL pointing to the remediation resource, advisory, or vendor patch page.Enter a fully qualified URL \(for example, `https://vendor.com/advisory/CVE-2024-1234`\). Use this field to direct users to external remediation guidance or download [[threat-intelligence-locations|locations]].
+A URL pointing to the remediation resource, advisory, or vendor patch page.Enter a fully qualified URL \(for example, `https://vendor.com/advisory/CVE-2024-1234`\). Use this field to direct users to external remediation guidance or download locations.
 
 </td></tr><tr><td>
 
@@ -146,8 +146,3 @@ The remediation record is created and appears in the **Remediations** related li
 
 **Parent Topic:**[Vulnerability Artifacts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/vulnerability.md)
 
-## Related
-
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[vulnerability|Vulnerability Artifacts]]
-- [[threat-intelligence-locations|Locations]]

@@ -32,7 +32,7 @@ Alternatively, you can use a script to add these parameters. For the format to u
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[predictive-intelligence-landing|Predictive Intelligence]]** &gt; **Classification** &gt; **Solution Definitions**.
+1.  Navigate to **All** &gt; **Predictive Intelligence** &gt; **Classification** &gt; **Solution Definitions**.
 
 2.  Open an existing classification solution or create a new one.
 
@@ -137,6 +137,3 @@ JSON example:
 
 [Create and train a classification solution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/create-solution-definition.md)
 
-## Related
-
-- [[predictive-intelligence-landing|Predictive Intelligence]]

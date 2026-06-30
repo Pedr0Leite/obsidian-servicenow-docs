@@ -14,7 +14,7 @@ breadcrumb: [Cloud User Portal, Cloud Provisioning and Governance, ITOM Cloud Ac
 
 # Launch a stack
 
-Launch a stack of cloud resources to submit a request for an item in the service catalog. You can launch a stack from the [[cloudmgt-cloud-user-portal|Cloud User Portal]] overview page.
+Launch a stack of cloud resources to submit a request for an item in the service catalog. You can launch a stack from the Cloud User Portal overview page.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_cmp.cloud\_service\_user
 
 When you submit a request for an item in the service catalog, the system typically provisions the stack immediately. Sometimes, your request must be approved first.
 
-If a resource on a stack requires credentials when being accessed via SSH, then you must [[cloudmgt-create-ssh-key|create an SSH key]] pair before you can launch the stack. See [Create an SSH key](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloudmgt-create-ssh-key.md) and [Download an SSH key](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloudmgt-download-ssh-key.md).
+If a resource on a stack requires credentials when being accessed via SSH, then you must create an SSH key pair before you can launch the stack. See [Create an SSH key](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloudmgt-create-ssh-key.md) and [Download an SSH key](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloudmgt-download-ssh-key.md).
 
 ## Procedure
 
@@ -32,7 +32,7 @@ If a resource on a stack requires credentials when being accessed via SSH, then 
     -   Open the **Catalog** page. By default, all catalog items in all service categories are listed. Select a **Service Category** and then click **Launch** on the catalog item.
 2.  In each section of the form, enter the values that configure your request.
 
-    The form fields differ for each catalog offering. Contact your [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] administrator if you have any questions about the fields.
+    The form fields differ for each catalog offering. Contact your Cloud Provisioning and Governance administrator if you have any questions about the fields.
 
     **Important:** When you select a user group on the form, the quota limits for you and the user group \(that you are part of\) are shown in the Quota section.
 
@@ -64,8 +64,4 @@ If a resource on a stack requires credentials when being accessed via SSH, then 
     -   To view a summary of all your pending requests, click the **Pending Requests** link in the title bar at any time.
     \[Omitted image "activities.png"\] Alt text: Activities tab in the Cloud User Portal.
 
-## Related
 
-- [[cloudmgt-cloud-user-portal|Cloud User Portal]]
-- [[cloudmgt-create-ssh-key|Create an SSH key]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]

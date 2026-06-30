@@ -15,11 +15,11 @@ breadcrumb: [Configure Event Management using Setup Hub, Configuring Event Manag
 
 # Install integrations
 
-Access Integrations Launchpad to configure and install integrations for [[c_EM|Event Management]] monitoring tools.
+Access Integrations Launchpad to configure and install integrations for Event Management monitoring tools.
 
 ## Before you begin
 
-Verify that you have installed the [[itom-health-landing-page|ITOM AIOps]] and Now Assist for [[r_ITOMApplications|IT Operations Management]] \(ITOM\) plugins.
+Verify that you have installed the ITOM AIOps and Now Assist for IT Operations Management \(ITOM\) plugins.
 
 Ensure you're in the Configure IT Operations Management page.
 
@@ -41,8 +41,4 @@ Role required: evt\_mgmt\_admin or evt\_team\_operator
 
 6.  To complete the setup, select **Mark as configured**.
 
-## Related
 
-- [[c_EM|Event Management]]
-- [[itom-health-landing-page|ITOM AIOps]]
-- [[r_ITOMApplications|IT Operations Management]]

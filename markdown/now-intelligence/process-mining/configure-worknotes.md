@@ -14,7 +14,7 @@ breadcrumb: [Working with work notes using Now Assist, Configure, Now Assist for
 
 # Configuring work notes analysis in Process Mining
 
-[[configure-worknotes-analysis|Configure work notes analysis]] for a process table so that any project that is based on the process table has [[worknotes-analysis|work notes analysis]] configured.
+Configure work notes analysis for a process table so that any project that is based on the process table has work notes analysis configured.
 
 For the detailed procedure of configuring work notes analysis, see [Configure investigative features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/investigative-features.md).
 
@@ -24,7 +24,3 @@ There are system properties that determine how work notes analysis work. For inf
 
 **Parent Topic:**[Working with work notes using Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/worknotes.md)
 
-## Related
-
-- [[configure-worknotes-analysis|Configure work notes analysis]]
-- [[worknotes-analysis|Work notes analysis]]

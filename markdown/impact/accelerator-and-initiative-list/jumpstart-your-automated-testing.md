@@ -18,7 +18,7 @@ Prescriptive guidance on enabling and utilizing Automated Test Framework
 
 ## Accelerator Overview
 
-Jumpstart Your Automated Testing provides [[impact-landing-page|Impact]] customers with an introduction to Automated Test Framework \(ATF\) and how it can be leveraged to accelerate upgrades and increase quality. It includes an applied demonstration of leading practices around getting started with ATF as well as its features and benefits via a temporary cloned instance.
+Jumpstart Your Automated Testing provides Impact customers with an introduction to Automated Test Framework \(ATF\) and how it can be leveraged to accelerate upgrades and increase quality. It includes an applied demonstration of leading practices around getting started with ATF as well as its features and benefits via a temporary cloned instance.
 
 ## Package Availability
 
@@ -67,6 +67,3 @@ This Impact Accelerator in its entirety or portions of the Impact Accelerator Ac
 
 ServiceNow is not responsible for implementing Automated Test Framework recommendations on Customer’s sub-production or production instances.
 
-## Related
-
-- [[impact-landing-page|Impact]]

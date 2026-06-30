@@ -15,7 +15,7 @@ breadcrumb: [Explore, AI Search, Search administration, Configure core features,
 
 # Search result disparities between AI Search and Now Assist search features
 
-The ServiceNow AI Platform® offers a variety of search tools, which may return different answers for the same or similar searches. This disparity in [[hs-results|results]] is expected. It occurs because each tool uses a different approach and architecture to find results and generate answers that match your search.
+The ServiceNow AI Platform® offers a variety of search tools, which may return different answers for the same or similar searches. This disparity in results is expected. It occurs because each tool uses a different approach and architecture to find results and generate answers that match your search.
 
 As an example of the same search returning different answers in different search tools, consider these results that might be displayed to a user searching for `what is my travel policy`:
 
@@ -29,15 +29,15 @@ In this example, each search tool returns a different answer even though the use
 
 ## AI Search
 
-The [[ia-ai-search|AI Search]] engine uses keyword search, meaning that it looks for the best matches for your search terms in its indexed source data. Search features such as [[lemma-unicode-normalization-ais|lemma and Unicode normalization]], [[synonyms-ais|synonyms]], [[stop-words-ais|stop words]], and [[typo-handling-ais|typo handling]] may modify the set of terms that AI Search considers matches for your search, but the matching is always done on a per-term basis.
+The AI Search engine uses keyword search, meaning that it looks for the best matches for your search terms in its indexed source data. Search features such as lemma and Unicode normalization, synonyms, stop words, and typo handling may modify the set of terms that AI Search considers matches for your search, but the matching is always done on a per-term basis.
 
 Keyword search should return consistent results for the same search until your source data is updated. Machine learning relevancy can affect the exact order in which your results appear over time, though, so even if your data doesn’t change, your search may not return exactly the same result set today as it did the previous month.
 
 ## Now Assist Genius Results
 
-The Now Assist Genius Result [[clone-configurations-tab|configurations]] offered in [[now-assist-ais|Now Assist in AI Search]] use a hybrid search mode. This mode blends keyword search with semantic vector search to find results in the AI Search index based on the intention and meaning of your search as well as on the best term matches.
+The Now Assist Genius Result configurations offered in Now Assist in AI Search use a hybrid search mode. This mode blends keyword search with semantic vector search to find results in the AI Search index based on the intention and meaning of your search as well as on the best term matches.
 
-The most relevant matching results are merged into a prompt that's sent to a Large Language Model \(LLM\) for answer generation. Because LLMs are not deterministic, they don't always produce the same output even when given the same input. As a result of the non-deterministic behavior of the LLM, Now Assist [[genius-results-ais|Genius Results]] are likely to return varying results for the same search, even when submitted at the same time.
+The most relevant matching results are merged into a prompt that's sent to a Large Language Model \(LLM\) for answer generation. Because LLMs are not deterministic, they don't always produce the same output even when given the same input. As a result of the non-deterministic behavior of the LLM, Now Assist Genius Results are likely to return varying results for the same search, even when submitted at the same time.
 
 **Note:** For more information on how LLMs introduce variations into their results, see [Discrepancies when using different AI search tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/aisearch-differences.md).
 
@@ -92,14 +92,3 @@ The following table summarizes some of the key differences between AI Search, No
 
 [Now Assist in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-va-landing.md)
 
-## Related
-
-- [[hs-results|Results]]
-- [[ia-ai-search|AI Search]]
-- [[lemma-unicode-normalization-ais|Lemma and Unicode normalization]]
-- [[synonyms-ais|Synonyms]]
-- [[stop-words-ais|Stop words]]
-- [[typo-handling-ais|Typo handling]]
-- [[clone-configurations-tab|Configurations]]
-- [[now-assist-ais|Now Assist in AI Search]]
-- [[genius-results-ais|Genius Results]]

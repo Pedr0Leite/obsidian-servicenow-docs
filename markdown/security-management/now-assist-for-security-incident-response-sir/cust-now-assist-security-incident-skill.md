@@ -27,9 +27,9 @@ Roles required: sn\_si.admin
 
 1.  Navigate to **All** &gt; **Now Assist Admin** &gt; **Skills**.
 
-2.  Select **Technology** &gt; **[[security-operations-landing-page|Security Operations]]**.
+2.  Select **Technology** &gt; **Security Operations**.
 
-    These [[sir-landing-page|Security Incident Response]] skills are displayed:
+    These Security Incident Response skills are displayed:
 
     -   Security incident recommended actions
 
@@ -163,7 +163,4 @@ Verify where the skill is displayed and add roles for who can view it.Select **N
 
 5.  Select **Activate skill**.
 
-## Related
 
-- [[security-operations-landing-page|Security Operations]]
-- [[sir-landing-page|Security Incident Response]]

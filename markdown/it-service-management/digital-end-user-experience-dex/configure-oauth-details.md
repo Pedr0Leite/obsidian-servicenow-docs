@@ -28,7 +28,7 @@ Role required: sn\_dex\_desktop.admin
 
 2.  From the list, select **Desktop Assistant**.
 
-3.  On the [[application-registries-form|Application Registries form]], edit the required fields.
+3.  On the Application Registries form, edit the required fields.
 
     For a description of the field values, see [Application Registries form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/application-registries-form.md).
 
@@ -42,6 +42,4 @@ Role required: sn\_dex\_desktop.admin
 
 5.  Select **Update**.
 
-## Related
 
-- [[application-registries-form|Application Registries form]]

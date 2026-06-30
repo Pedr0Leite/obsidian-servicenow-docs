@@ -12,11 +12,11 @@ breadcrumb: [Public Sector Digital Services \(PSDS\)]
 
 # Exploring Public Sector Digital Services
 
-Learn about [[bun-public-sector-landing-page|Public Sector Digital Services \(PSDS\)]] features to help create a seamless support experience for constituents, businesses, internal agencies, and external agencies.
+Learn about Public Sector Digital Services \(PSDS\) features to help create a seamless support experience for constituents, businesses, internal agencies, and external agencies.
 
 ## Public Sector Digital Services Overview
 
-Public Sector Digital Services helps government agencies manage the complete lifecycle of constituent public service delivery. The solution is built on a government data model that standardizes how constituents, businesses, households, agencies, and service interactions are represented across your implementation. You can use this foundation as-is or extend it to create workflows that are specific to your agency's processes. Public Sector Digital Services includes a set of applications that support common government service types. Many are playbook-driven, guiding agents through each stage of a service request, from intake to decision. Others support different kinds of work—for example, the Investigative Case Management solution helps investigators process investigations and connect the records and evidence related to a case. Constituents and businesses access services through self-service portals, and agents manage their work from a configurable workspace. [[now-assist-for-psds|Now Assist for Public Sector Digital Services \(PSDS\)]] adds AI capabilities to help agents work through cases faster, including case summarization, chat summarization, and resolution notes generation. Public Sector Digital Services supports three primary service delivery scenarios: government to constituent, government to business, and government to agency. You can implement one or more of these scenarios depending on your agency's requirements.
+Public Sector Digital Services helps government agencies manage the complete lifecycle of constituent public service delivery. The solution is built on a government data model that standardizes how constituents, businesses, households, agencies, and service interactions are represented across your implementation. You can use this foundation as-is or extend it to create workflows that are specific to your agency's processes. Public Sector Digital Services includes a set of applications that support common government service types. Many are playbook-driven, guiding agents through each stage of a service request, from intake to decision. Others support different kinds of work—for example, the Investigative Case Management solution helps investigators process investigations and connect the records and evidence related to a case. Constituents and businesses access services through self-service portals, and agents manage their work from a configurable workspace. [Now Assist for Public Sector Digital Services \(PSDS\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/now-assist-for-psds.md) adds AI capabilities to help agents work through cases faster, including case summarization, chat summarization, and resolution notes generation. Public Sector Digital Services supports three primary service delivery scenarios: government to constituent, government to business, and government to agency. You can implement one or more of these scenarios depending on your agency's requirements.
 
 ## Public Sector Applications
 
@@ -73,7 +73,7 @@ Public Sector Digital Services helps government agencies manage the complete lif
 
 -   **Manage case volume with self-service**
 
-    Encourage constituents to help themselves with a self-service catalog, communities, knowledge base, and portal. Expand customer support by implementing Virtual Agent, a chatbot that runs on the [[gsp-overview-public-sector|Government Service Portal]] and in supported third-party messaging applications, such as Engagement Messenger. End users can request non-emergency services through a prebuilt, automated conversation that helps them submit a request.
+    Encourage constituents to help themselves with a self-service catalog, communities, knowledge base, and portal. Expand customer support by implementing Virtual Agent, a chatbot that runs on the Government Service Portal and in supported third-party messaging applications, such as Engagement Messenger. End users can request non-emergency services through a prebuilt, automated conversation that helps them submit a request.
 
 
 ## Key features
@@ -98,7 +98,7 @@ Walk constituents through the process of submitting a grant proposal, applying f
 
 </td><td>
 
-[[playbooks-psds-exploring|Playbooks]]
+[Playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/playbooks-psds-exploring.md)
 
 </td><td>
 
@@ -110,7 +110,7 @@ Drive self-service from a portal that is integrated with knowledge articles, ser
 
 </td><td>
 
-[[portals-psds-exploring|Portals]]
+[Portals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/portals-psds-exploring.md)
 
 </td><td>
 
@@ -122,7 +122,7 @@ Improve your agent efficiency for faster resolution and a better constituent exp
 
 </td><td>
 
-[[using-public-sector-workspace-for-government-agents|Playbooks and Solutions]]
+[Playbooks and Solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/using-public-sector-workspace-for-government-agents.md)
 
 </td><td>
 
@@ -134,7 +134,7 @@ Manage case interactions and service level agreements \(SLAs\), product model re
 
 </td><td>
 
-[[psds-config-case-management|Case Management]]
+[Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-case-management.md)
 
 </td><td>
 
@@ -158,7 +158,7 @@ Get at-a-glance visibility and a deep understanding of the data and identify are
 
 </td><td>
 
-[[psds-content-pack|Analytics and Insights]]
+[Analytics and Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-content-pack.md)
 
 </td><td>
 
@@ -170,7 +170,7 @@ Embed a messenger-like pop-up inside any website to interact with ServiceNow fea
 
 </td><td>
 
-[[using-va-for-public-sector-digital-services|Virtual Agent]]
+[Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/using-va-for-public-sector-digital-services.md)
 
 </td><td>
 
@@ -182,7 +182,7 @@ A dedicated, customizable workspace for government agents and agents from extern
 
 </td><td>
 
-[[psds-using-csm-workspace|CSM Configurable Workspace]]
+[CSM Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-using-csm-workspace.md)
 
 </td><td>
 
@@ -190,16 +190,3 @@ Agent or Manager
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[now-assist-for-psds|Now Assist for Public Sector Digital Services \(PSDS\)]]
-- [[playbooks-psds-exploring|Playbooks for Public Sector Digital Services]]
-- [[portals-psds-exploring|Self-service Portals for Public Sector Digital Services]]
-- [[using-public-sector-workspace-for-government-agents|Playbooks and Solutions]]
-- [[psds-config-case-management|Configure Case Management in Public Sector Digital Services]]
-- [[psds-content-pack|psds content pack]]
-- [[using-va-for-public-sector-digital-services|Using Virtual Agent for Public Sector Digital Services]]
-- [[psds-using-csm-workspace|Using the CSM Configurable Workspace for Public Sector Digital Services]]
-- [[bun-public-sector-landing-page|Public Sector Digital Services \(PSDS\)]]
-- [[gsp-overview-public-sector|Government Service Portal]]

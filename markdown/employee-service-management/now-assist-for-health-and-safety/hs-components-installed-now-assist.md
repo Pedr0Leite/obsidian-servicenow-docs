@@ -14,7 +14,7 @@ breadcrumb: [Reference, Now Assist for Health and Safety, Health and Safety, Emp
 
 # Components installed with Now Assist for Health and Safety
 
-Several types of components are installed with activation of the [[now-assist-hs-landing|Now Assist for Health and Safety]] plugin, including tables, user roles, and scheduled jobs.
+Several types of components are installed with activation of the Now Assist for Health and Safety plugin, including tables, user roles, and scheduled jobs.
 
 ## Store applications installed
 
@@ -28,7 +28,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-AI agents for [[health-safety-overview|Health and Safety]]
+AI agents for Health and Safety
 
  \[sn\_hs\_ai\_agents\]
 
@@ -38,7 +38,7 @@ The AI agents for Health and Safety plugin enables the agentic AI experience for
 
 </td></tr><tr><td>
 
-[[hs-incident-mgmt-landing-page|Health and Safety incident management]]
+Health and Safety incident management
 
  \[sn\_hs\_im\_incident\]
 
@@ -48,9 +48,3 @@ Installs the Health and Safety Incident Management application. For more informa
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[now-assist-hs-landing|Now Assist for Health and Safety]]
-- [[health-safety-overview|Health and Safety]]
-- [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]]

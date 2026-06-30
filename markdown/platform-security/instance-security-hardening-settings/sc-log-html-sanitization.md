@@ -30,7 +30,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -42,7 +42,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -100,13 +100,8 @@ References
 
 </td><td>
 
-[[t_ActivateHTMLSanitizer|Enabling HTML sanitizer]]
+[Enabling HTML sanitizer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_ActivateHTMLSanitizer.md)
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Error handling and logging](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-error-handling-logging.md)
 
-## Related
-
-- [[t_ActivateHTMLSanitizer|Enabling HTML sanitizer]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

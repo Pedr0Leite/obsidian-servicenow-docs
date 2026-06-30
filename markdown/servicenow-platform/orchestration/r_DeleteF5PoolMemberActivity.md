@@ -16,7 +16,7 @@ breadcrumb: [F5 Network Management activity pack, Orchestration activity packs, 
 
 The Delete F5 Pool Member activity deletes an F5 load balancer pool member.
 
-This activity was built using the [REST web service activity template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateARESTWebServiceActivity.md). To access the activity in the [[workflow-editor|Workflow Editor]], select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Active Directory**.
+This activity was built using the [REST web service activity template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateARESTWebServiceActivity.md). To access the activity in the Workflow Editor, select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Active Directory**.
 
 ## REST settings
 
@@ -29,7 +29,7 @@ This activity was built using the [REST web service activity template](https://r
 |--------|-----------|
 |PoolName|Name of this pool, such as `testPool`.|
 |F5IPAddress|IP address of the F5 console.|
-|MemberName|Pool member [[ip-address|IP address]] and port, such as 192.168.2.19:80.|
+|MemberName|Pool member IP address and port, such as 192.168.2.19:80.|
 
 ## Output variables
 
@@ -48,7 +48,3 @@ This activity was built using the [REST web service activity template](https://r
 
 **Parent Topic:**[F5 Network Management activity pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchF5LoadBalancerActivities.md)
 
-## Related
-
-- [[workflow-editor|Workflow editor]]
-- [[ip-address|IP Address]]

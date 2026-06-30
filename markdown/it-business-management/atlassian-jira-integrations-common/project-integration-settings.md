@@ -14,7 +14,7 @@ breadcrumb: [Importing issues and sprints from Jira to Agile Development 2.0, Se
 
 # Associate a Jira project and board with an assignment group in Agile Development 2.0
 
-Associate your Jira projects and boards with [[manage-groups-agile-dev|assignment groups in Agile Development 2.0]] to enable import and export of all available issues between the associated project and assignment group.
+Associate your Jira projects and boards with assignment groups in Agile Development 2.0 to enable import and export of all available issues between the associated project and assignment group.
 
 ## Before you begin
 
@@ -35,11 +35,11 @@ Create team integration settings to associate a Jira project and Jira board with
 
 2.  Click **New**.
 
-3.  On the [[team-integration-settings-form|Team Integration Settings form]], select the following:
+3.  On the Team Integration Settings form, select the following:
 
     -   A Jira project
     -   A Jira board
-    -   An assignment group in [[agile-landing-page|Agile Development 2.0]] to which you want to associate the selected Jira project and board
+    -   An assignment group in Agile Development 2.0 to which you want to associate the selected Jira project and board
     Selecting a Jira board in the form is optional. If you do not want to synchronize the sprint data of the board between Agile Development 2.0 and Jira, you can skip selecting a Jira board.
 
     **Note:** If your Jira project is of Kanban type, you can leave the **Jira board** field empty. All issues of your Kanban project will be mapped to a single Agile 2.0 group.
@@ -60,8 +60,3 @@ You can import or issues from this Jira project or sprints from this Jira board 
 
 [Import sprints from Jira to Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/atlassian-jira-integrations-common/import-sprints-to-agile-2-from-jira-board.md)
 
-## Related
-
-- [[manage-groups-agile-dev|Assignment groups in Agile Development 2.0]]
-- [[team-integration-settings-form|Team Integration Settings form]]
-- [[agile-landing-page|Agile Development 2.0]]

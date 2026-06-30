@@ -68,7 +68,7 @@ Mark the dashboard as certified to inform the user that the dashboard is for use
 
 </td><td>
 
-View, add, or remove workspaces in which the dashboard can be viewed.**Note:** If you have the admin role, you can change the workspaces for any dashboard. Other users can change workspaces only for dashboards they create. For more information, see [[edit-esg-dashboards|Edit Operational Sustainability Management dashboards]].
+View, add, or remove workspaces in which the dashboard can be viewed.**Note:** If you have the admin role, you can change the workspaces for any dashboard. Other users can change workspaces only for dashboards they create. For more information, see [Edit Operational Sustainability Management dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/edit-esg-dashboards.md).
 
 </td></tr><tr><td id="d35303e168">
 
@@ -128,9 +128,5 @@ See who the dashboard has been shared with.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[[monitor-data-using-esg-dashboards|Monitoring assessment data using Operational Sustainability Management dashboards]]
+**Parent Topic:**[Monitoring assessment data using Operational Sustainability Management dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/monitor-data-using-esg-dashboards.md)
 
-## Related
-
-- [[edit-esg-dashboards|Edit Operational Sustainability Management dashboards]]
-- [[monitor-data-using-esg-dashboards|Monitoring assessment data using Operational Sustainability Management dashboards]]

@@ -20,11 +20,11 @@ LEAP categorizes similar incidents into groups and uses AI to generate resolutio
 
 LEAP helps you manage incidents and operational tasks efficiently. It uses AI to gather information from existing incidents and generates resolutions that can be automated. The LEAP automation provides tools to manage incidents early, speed up resolution, use prebuilt automation, and follow clear steps to handle issues. These tools help support smooth operations.
 
-**Note:** The plugin name has been updated from AIOps Learning Enhanced Automation Playbook to [[aiops-leap|Learning Enhanced Automation Platform \(LEAP\)]] to reflect its expanded capabilities and strategic direction.
+**Note:** The plugin name has been updated from AIOps Learning Enhanced Automation Playbook to Learning Enhanced Automation Platform \(LEAP\) to reflect its expanded capabilities and strategic direction.
 
 \[Omitted image "aiops-leap-landing-page.png"\] Alt text: LEAP landing page
 
-The landing page displays the number of records analyzed on the right-hand side of [[automation-opportunities|Automation opportunities]] section. The tool tip provides details about the duration considered for record analysis.
+The landing page displays the number of records analyzed on the right-hand side of Automation opportunities section. The tool tip provides details about the duration considered for record analysis.
 
 ## Grouping of automation opportunities in LEAP
 
@@ -72,14 +72,14 @@ LEAP agent
 
 </td><td>
 
-You can access the LEAP menu from the [[workspace-dashboard-use|Service Operations Workspace]] \(SOW\) and trigger LEAP executions directly from within SOW.
+You can access the LEAP menu from the Service Operations Workspace \(SOW\) and trigger LEAP executions directly from within SOW.
 
 </td></tr></tbody>
 </table>These roles work together to create a streamlined and secure approach for managing automation, resolving incidents, and sharing knowledge across teams.
 
 ## Personas in LEAP
 
-LEAP supports different personas who can have different roles assigned to enhance [[r_ITOMApplications|IT Operations Management]].
+LEAP supports different personas who can have different roles assigned to enhance IT Operations Management.
 
 <table id="table_nj3_glg_42c"><thead><tr><th>
 
@@ -128,7 +128,7 @@ Buyer, Business goal owner
 
 </td><td>
 
-A buyer or a business goal owner gains strategic and operational advantages [[using-aiops-leap|using LEAP]].
+A buyer or a business goal owner gains strategic and operational advantages using LEAP.
 
 </td><td>
 
@@ -152,7 +152,7 @@ A buyer or a business goal owner gains strategic and operational advantages [[us
 
 ## LEAP AI agent
 
-The [[leap-ai-agent|LEAP AI agent]] uses automation opportunities created by LEAP analysis to generate artifacts — problem records, knowledge base articles, or playbooks — based on user requests.
+The LEAP AI agent uses automation opportunities created by LEAP analysis to generate artifacts — problem records, knowledge base articles, or playbooks — based on user requests.
 
 |AI agent|AI agent role|
 |--------|-------------|
@@ -168,11 +168,3 @@ To learn more about configuring and using LEAP, see:
 -   [Using LEAP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/aiops-leap-learning-enhanced-automation-playbooks/using-aiops-leap.md)
 -   [LEAP reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/aiops-leap-learning-enhanced-automation-playbooks/references-aiops-leap.md)
 
-## Related
-
-- [[aiops-leap|Learning Enhanced Automation Platform \(LEAP\)]]
-- [[automation-opportunities|Automation opportunities]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[r_ITOMApplications|IT Operations Management]]
-- [[using-aiops-leap|Using LEAP]]
-- [[leap-ai-agent|LEAP AI agent]]

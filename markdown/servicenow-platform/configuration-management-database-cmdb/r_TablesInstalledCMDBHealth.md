@@ -14,7 +14,7 @@ breadcrumb: [Reference, CMDB Health, Configuration Management Database \(CMDB\),
 
 # Components installed with CMDB Health
 
-Several types of components are installed with [[c_CMDBHealth|CMDB Health]] \(included in the com.snc.cmdb plugin\), such as tables, properties, and scheduled jobs.
+Several types of components are installed with CMDB Health \(included in the com.snc.cmdb plugin\), such as tables, properties, and scheduled jobs.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -80,7 +80,7 @@ Maximum number of CIs associated with application services \(any class extending
 |CMDB Health Dashboard - Correctness Score Calculation|Script for calculating the correctness KPI of CMDB health.|
 |CMDB Health Dashboard - Relationship Score Calculation|Script for calculating the CI relationships KPI of CMDB health.|
 |CMDB Health Dashboard - Relationship Compliance Processor|Script for calculating compliance of relationships with suggested relationships, and with hosting and containment rules.|
-|Add Identifier Fields In Recommended Rules|Sets all criterion attributes from all active identifier entries from all active [[c_IdentificationRules|identification rules]], as recommended fields. These added recommended fields are then checked by the CMDB Health Dashboard - Completeness Score Calculation scheduled job when evaluating the recommended health metric.|
+|Add Identifier Fields In Recommended Rules|Sets all criterion attributes from all active identifier entries from all active identification rules, as recommended fields. These added recommended fields are then checked by the CMDB Health Dashboard - Completeness Score Calculation scheduled job when evaluating the recommended health metric.|
 |Remove Identifier Fields In Recommended Rules|Identifies any recommended field that is a criterion attribute in any active identifier entry in any active identification rule. Then removes the recommended setting for that field.|
 
 ## Tables installed
@@ -99,7 +99,7 @@ CMDB Health Metric\[cmdb\_health\_metric\]
 
 </td><td>
 
-Details such as if a KPI or metric is enabled, maximum failure threshold, and other settings for all [[r_CMDBHealthMetrics|CMDB Health KPIs and metrics]].
+Details such as if a KPI or metric is enabled, maximum failure threshold, and other settings for all CMDB Health KPIs and metrics.
 
 </td></tr><tr><td>
 
@@ -165,9 +165,3 @@ Stores results about relationship health, to be used by the All Relationships re
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_CMDBHealth|CMDB Health]]
-- [[c_IdentificationRules|Identification rules]]
-- [[r_CMDBHealthMetrics|CMDB Health KPIs and metrics]]

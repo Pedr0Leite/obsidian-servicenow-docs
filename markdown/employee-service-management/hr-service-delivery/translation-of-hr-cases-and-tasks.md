@@ -14,7 +14,7 @@ breadcrumb: [HR Administration, Configure, Case and Knowledge Management, HR Ser
 
 # Translations for HR cases and tasks
 
-Enable translations on HR [[wsd-templates|case and task templates]] so that employees can view the short descriptions and descriptions of their HR cases and tasks in their preferred language.
+Enable translations on HR case and task templates so that employees can view the short descriptions and descriptions of their HR cases and tasks in their preferred language.
 
 **Parent Topic:**[HR Administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_AdministerHRServiceManagement.md)
 
@@ -30,7 +30,7 @@ Role required: admin
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **[[hr-service-administration|HR Services]]** &gt; **[[hr-template-configuration|HR Templates]]**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **HR Services** &gt; **HR Templates**.
 
 2.  Click **New** or open a record.
 
@@ -64,7 +64,7 @@ Role required: admin
 
 7.  If you are configuring an HR case template, then you can also update the corresponding HR service to use case headers that support the use of global descriptions.
 
-    1.  Navigate to **HR Administration** &gt; **HR Services** &gt; **[[hr-service-configuration|HR Service Configuration]]**.
+    1.  Navigate to **HR Administration** &gt; **HR Services** &gt; **HR Service Configuration**.
 
     2.  Open the corresponding HR service record.
 
@@ -82,10 +82,3 @@ Role required: admin
 
 This is an example of how the global short description and description displays for the Dental Benefits Enrollment/Modification HR service in the Employee Service Center when the language is set to Spanish.
 
-## Related
-
-- [[wsd-templates|Case and Task Templates]]
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[hr-service-administration|HR services]]
-- [[hr-template-configuration|HR templates]]
-- [[hr-service-configuration|HR service configuration]]

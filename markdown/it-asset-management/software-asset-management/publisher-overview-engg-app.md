@@ -14,7 +14,7 @@ breadcrumb: [Engineering license management, Software Asset Management, IT Asset
 
 # Publisher overview for Bentley Systems in the Software Asset Workspace
 
-View license usage information for Bentley Systems and its [[c_CreatingSoftwareModels|software models]] in the publisher overview in the [[sam-workspace|Software Asset Workspace]].
+View license usage information for Bentley Systems and its software models in the publisher overview in the Software Asset Workspace.
 
 From the Software Asset Workspace, access the publisher overview by navigating to **License usage** &gt; **Publishers** and then selecting Bentley Systems from the list of publishers.
 
@@ -176,7 +176,3 @@ Denial trends for SewerCAD for the last 30 days.Select a bar to view the complet
 </td></tr></tbody>
 </table>**Parent Topic:**[Engineering license management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/concurrent-licenses.md)
 
-## Related
-
-- [[c_CreatingSoftwareModels|Software models]]
-- [[sam-workspace|Software Asset Workspace]]

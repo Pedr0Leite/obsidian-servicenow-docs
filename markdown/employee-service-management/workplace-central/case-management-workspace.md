@@ -14,9 +14,9 @@ breadcrumb: [Explore, Workplace Central, Workplace Service Delivery, Employee Se
 
 # Case management
 
-As a workplace case manager, manage all your workplace cases from a single place using the Case management workspace in the [[workplace-central-feat|Workplace Central]] workspace.
+As a workplace case manager, manage all your workplace cases from a single place using the Case management workspace in the Workplace Central workspace.
 
-The Case management workspace helps you to handle thousands of workplace cases requested in the organization daily. Instead of using the [[workplace-case-mgmt-feat|Workplace Case Management]] application to monitor the cases, the workspace provides you a simple and efficient display of the same cases under various categories to help you handle them easily. Instead of verifying thousands of cases and reading the data specified in detail, the workspace analyzes them and presents the data accordingly. The case details are displayed in a manner where you can find the most the important information easily with a few selects and perform quick actions.
+The Case management workspace helps you to handle thousands of workplace cases requested in the organization daily. Instead of using the Workplace Case Management application to monitor the cases, the workspace provides you a simple and efficient display of the same cases under various categories to help you handle them easily. Instead of verifying thousands of cases and reading the data specified in detail, the workspace analyzes them and presents the data accordingly. The case details are displayed in a manner where you can find the most the important information easily with a few selects and perform quick actions.
 
 **Important:** You need the case manager \[sn\_wsd\_case.manager\] role to access the Case management module.
 
@@ -30,9 +30,9 @@ As a Case manager, the workspace enables you to perform the following actions:
 
 -   Monitor the number of active cases, critical cases, cases that have breached SLA, unassigned cases, and cases that are awaiting approval.
 -   View the graph of opened and closed cases on weekly bases.
--   View the monthly volume of cases based on the [[workplace-services|workplace services]].
+-   View the monthly volume of cases based on the workplace services.
 -   View the list of active cases in detail.
--   [[create-workplace-service|Create a workplace service]] request directly instead of using the [[workplace-services-portal-hr|Workplace Service Portal]].
+-   Create a workplace service request directly instead of using the Workplace Service Portal.
 -   Assign a case to another agent within your assignment group.
 -   View case details such as the details of the employee who has requested the case, the location of the workplace on the floor map.
 -   Add notes or comments to the case.
@@ -65,10 +65,3 @@ As an admin or a case admin, you can cancel a case if it’s no longer required.
 
 [Kiosk Indoor Mapping]()
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[workplace-services|Workplace Services]]
-- [[create-workplace-service|Create a Workplace service]]
-- [[workplace-services-portal-hr|Workplace Service Portal]]

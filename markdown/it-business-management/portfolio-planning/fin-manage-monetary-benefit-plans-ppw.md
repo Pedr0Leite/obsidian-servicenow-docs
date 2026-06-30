@@ -24,7 +24,7 @@ Create and manage monetary benefit plans to capture the potential benefits while
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace** and select a planning item.
+1.  Navigate to **Workspaces** &gt; **Portfolio Planning Workspace** and select a planning item.
 
 2.  From the list of portfolio plans, select a portfolio plan.
 
@@ -63,7 +63,7 @@ Procedure
 
 
 </td></tr></tbody>
-</table>5.  On the [[benefit-plan-form-project-management|Benefit Plan form]], fill the fields.
+</table>5.  On the Benefit Plan form, fill the fields.
 
     For a description of the field names, see [Benefit Plan form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/benefit-plan-form-project-management.md)
 
@@ -79,7 +79,3 @@ The newly created monetary benefit plan appears in the finanicals record page an
 -   [Edit monetary benefit plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/fin-edit-monetary-benefit-plan-ppw.md).
 -   [Capture actual monetary benefits](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/fin-manage-actual-monetary-benefit-ppw.md).
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[benefit-plan-form-project-management|Benefit Plan form]]

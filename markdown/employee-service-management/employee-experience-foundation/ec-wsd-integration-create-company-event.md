@@ -14,7 +14,7 @@ breadcrumb: [Workplace Service Delivery Integration, Company events, Creating em
 
 # Create Company Event with Workplace Service Management
 
-Create new [[ec-company-events|company events]] and make changes to existing company events from the Workplace Service Management portal, which integrates with [[employee-center-pro-landing|Employee Center Pro]].
+Create new company events and make changes to existing company events from the Workplace Service Management portal, which integrates with Employee Center Pro.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Create new [[ec-company-events|company events]] and make changes to existing com
 
 ## About this task
 
-The [[workplace-service-delivery-suite-landing-page|workplace service delivery]] integrates with employee center pro to provide you with an opportunity to create and edit company events seamlessly by following a few simple steps.
+The workplace service delivery integrates with employee center pro to provide you with an opportunity to create and edit company events seamlessly by following a few simple steps.
 
 **Note:** This integration is for **Company Events** only.
 
@@ -30,7 +30,7 @@ The [[workplace-service-delivery-suite-landing-page|workplace service delivery]]
 
 1.  Navigate to **Workplace Service Management** &gt; **Portal** &gt; **Content publishing** &gt; **Create new.**
 
-2.  \[Omitted image "wsd-integration-create-company-event.png"\] Alt text: [[create-company-event|Create a Company event]] from the Workplace Service Management portal
+2.  \[Omitted image "wsd-integration-create-company-event.png"\] Alt text: Create a Company event from the Workplace Service Management portal
 
 3.  Select **Company event** to choose the type of content you want to create.
 
@@ -84,9 +84,3 @@ The [[workplace-service-delivery-suite-landing-page|workplace service delivery]]
 
 [Publishing company events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-publish-company-events.md)
 
-## Related
-
-- [[ec-company-events|Company events]]
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[create-company-event|Create a company event]]

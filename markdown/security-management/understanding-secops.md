@@ -12,14 +12,14 @@ breadcrumb: [Security Operations]
 
 # Exploring Security Operations
 
-Protect your assets and enterprise environment with ServiceNow [[security-operations-landing-page|Security Operations]] applications and the power of the ServiceNow AI Platform®. Connect your security and IT teams to help you prioritize and resolve threats based on the impact they pose to your organization.
+Protect your assets and enterprise environment with ServiceNow Security Operations applications and the power of the ServiceNow AI Platform®. Connect your security and IT teams to help you prioritize and resolve threats based on the impact they pose to your organization.
 
 ## Security Operations overview
 
-The Security Operations suite of applications helps you protect your assets by improving your overall security posture. For example, by integrating applications such as Unified Security Exposure Management \(USEM\) [[sir-landing-page|Security Incident Response]], [[vuln-landing-page|Vulnerability Response]], and [[spc-landing|Security Posture Control]] with your existing security [[tools|tools]], your Security Operation Center \(SOC\) analysts, managers, and IT teams can:
+The Security Operations suite of applications helps you protect your assets by improving your overall security posture. For example, by integrating applications such as Unified Security Exposure Management \(USEM\) Security Incident Response, Vulnerability Response, and Security Posture Control with your existing security tools, your Security Operation Center \(SOC\) analysts, managers, and IT teams can:
 
 -   Respond to rapidly evolving cyber and security threats.
--   Identify, prioritize, and remediate exposure findings in the [[unified-security-exposure-management-landing-page|Unified Security Exposure Management \(USEM\)]] platform that brings together [[threat-intelligence-infrastructure|infrastructure]], application, container, and configuration exposures into one unified experience.
+-   Identify, prioritize, and remediate exposure findings in the [Unified Security Exposure Management \(USEM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/unified-security-exposure-management-landing-page.md) platform that brings together infrastructure, application, container, and configuration exposures into one unified experience.
 -   View your complete asset inventory.
 -   Determine your overall security tool coverage.
 -   Resolve security incidents faster with intelligent workflows and ServiceNow Generative AI skills \(GenAI\). See [Now Assist for Security Incident Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/now-assist-for-security-incident-response-sir/now-assist-security-incident-landing.md) for more information.
@@ -29,22 +29,22 @@ The Security Operations suite of applications helps you protect your assets by i
 The Security Operations applications fall under two broad categories for Security Operations workflows:
 
 -   Unified Security Exposure Management \(USEM\) - Applications and tools that help you anticipate, understand, and close your security exposures. See [Unified Security Exposure Management \(USEM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/unified-security-exposure-management-landing-page.md) for more information about using Security Operations applications in USEM.
--   Enterprise [[case-mgmt|security case management]] - Applications and tools that help you move quickly to respond to critical incidents.
+-   Enterprise security case management - Applications and tools that help you move quickly to respond to critical incidents.
 
 \[Omitted image "mmasset0020854-secops-horizontal.png"\] Alt text: The Security Operations applications and workflows organized by category.
 
 ## Benefits of the Security Operations applications
 
-View Security Operations applications and data with next-generation user interfaces \(workspaces\). With workspaces, the security analysts, Security Operation Center \(SOC\) managers, and remediation specialists in your organization can monitor and manage the following types of workflows from one [[location|location]]:
+View Security Operations applications and data with next-generation user interfaces \(workspaces\). With workspaces, the security analysts, Security Operation Center \(SOC\) managers, and remediation specialists in your organization can monitor and manage the following types of workflows from one location:
 
 -   The life cycle of security incidents from an initial analysis to containment, eradication, and recovery.
--   The security exposures that they care the most about so they can decide strategically which [[vulnerabilities|vulnerabilities]] they send to IT teams to fix.
+-   The security exposures that they care the most about so they can decide strategically which vulnerabilities they send to IT teams to fix.
 -   Key insights and key use cases for security tool coverage and asset hygiene that report and monitor imported information about your assets.
 
 The two categories of Security Operations applications and the use cases they help you address in your enterprise environment:
 
 -   USEM applications - Applications that help you anticipate threats and identify security exposures.
--   [[sir-apps-landing-page|Enterprise security case management applications]] - Applications that help you respond to critical security breaches and incidents
+-   Enterprise security case management applications - Applications that help you respond to critical security breaches and incidents
 
 ## USEM applications
 
@@ -90,8 +90,8 @@ View security exposure findings as well as consolidated, multiple exposure findi
 
 -   Vulnerability Response
 -   Application Vulnerability Management
--   [[vr-config-compliance-landing|Configuration Compliance]]
--   [[cvr-landing|Container Vulnerability Response]]
+-   Configuration Compliance
+-   Container Vulnerability Response
 
 </td><td>
 
@@ -124,18 +124,18 @@ Security Incident Response
 
 Simplify the process of identifying critical incidents by applying powerful workflow and automation tools that speed up remediation.
 
- [[integrating-threat-intelligence-security-center|Integrate]] your existing Security Information and Event Manager \(SIEM\) tools with Security Incident Response and Security Operations applications to import threat data from various sources and automatically create prioritized security incidents.
+ Integrate your existing Security Information and Event Manager \(SIEM\) tools with Security Incident Response and Security Operations applications to import threat data from various sources and automatically create prioritized security incidents.
 
 </td><td>
 
 -   CISO
 -   Information security analyst
 -   Security operations manager
--   [[threat-intel-landing-page|Threat intelligence]] analyst
+-   Threat intelligence analyst
 
 </td></tr><tr><td>
 
-[[major-security-incident-management-landing-page|Major Security Incident Management]]
+Major Security Incident Management
 
 </td><td>
 
@@ -154,7 +154,7 @@ The major security incident management capabilities work with the existing secur
 
 </td></tr><tr><td>
 
-[[dlp-landing|Data Loss Prevention Incident Response]]
+Data Loss Prevention Incident Response
 
 </td><td>
 
@@ -183,11 +183,11 @@ Allows incident response teams to automate threat lookups, searches, and correla
 
 </td></tr><tr><td>
 
-[[tisc-landing-page|Threat Intelligence Security Center]] \(TISC\)
+Threat Intelligence Security Center \(TISC\)
 
 </td><td>
 
-Aggregate, curate, and manage threat intelligence from multiple sources and conduct threat intelligence case management. Track [[threat-intelligence-campaigns|campaigns]], operationalize threat intelligence, and respond to actionable intelligence.
+Aggregate, curate, and manage threat intelligence from multiple sources and conduct threat intelligence case management. Track campaigns, operationalize threat intelligence, and respond to actionable intelligence.
 
 </td><td>
 
@@ -197,7 +197,7 @@ Aggregate, curate, and manage threat intelligence from multiple sources and cond
 -   Threat intelligence analyst
 
 </td></tr></tbody>
-</table>## What to [[threat-intelligence-security-center-overview|explore]] next
+</table>## What to explore next
 
 Select a tile to get started with the Security Operations Workspaces.
 
@@ -223,7 +223,7 @@ Select a tile to get started with the Security Operations Workspaces.
 
 </td><td>
 
-[Software Bill of Materials Workspace \[Omitted image "bus-agent-workspace-1.svg"\] Alt text: Learn about the [[sbom-landing|Software Bill of Materials]] Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sbom-core/sbom-landing.md)
+[Software Bill of Materials Workspace \[Omitted image "bus-agent-workspace-1.svg"\] Alt text: Learn about the Software Bill of Materials Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sbom-core/sbom-landing.md)
 
 </td></tr><tr><td>
 
@@ -280,26 +280,3 @@ Select a tile to get started with the Security Operations Workspaces.
     -   [https://support.servicenow.com/now](https://support.servicenow.com/now)
     -   [https://support.servicenow.com/kb?id=known\_error\_portal](https://support.servicenow.com/kb?id=known_error_portal)
 
-## Related
-
-- [[unified-security-exposure-management-landing-page|Unified Security Exposure Management \(USEM\)]]
-- [[security-operations-landing-page|Security Operations]]
-- [[sir-landing-page|Security Incident Response]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[spc-landing|Security Posture Control]]
-- [[tools|Tools]]
-- [[threat-intelligence-infrastructure|Infrastructure]]
-- [[case-mgmt|Security Case Management]]
-- [[location|Location]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[sir-apps-landing-page|Enterprise security case management applications]]
-- [[vr-config-compliance-landing|Configuration Compliance]]
-- [[cvr-landing|Container Vulnerability Response]]
-- [[integrating-threat-intelligence-security-center|Integrate]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]
-- [[dlp-landing|Data Loss Prevention Incident Response]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-intelligence-campaigns|Campaigns]]
-- [[threat-intelligence-security-center-overview|Explore]]
-- [[sbom-landing|Software Bill of Materials]]

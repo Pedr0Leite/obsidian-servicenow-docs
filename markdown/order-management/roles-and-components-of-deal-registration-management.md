@@ -132,7 +132,7 @@ B2B deal registration agent \(sn\_prm\_dr.enterprise\_b2b\_deal\_reg\_agent\)
 
 This user can create, qualify, approve, and convert B2B deals into opportunities.A B2B deal registration agent can manage the full life cycle for B2B deal registrations.
 
-To learn more about converting deals to opportunities, see [[update-deal-registration-record|Update deal registration record]]
+To learn more about converting deals to opportunities, see [Update deal registration record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/update-deal-registration-record.md)
 
 </td><td>
 
@@ -243,18 +243,12 @@ This granular role provides read access to users for the deal registration to wh
 Partner data viewer \(sn\_prm.partner\_data\_viewer\)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[deal-registration-management|Deal Registration]]
+</table>**Parent Topic:**[Deal Registration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/deal-registration-management.md)
 
 **Related topics**  
 
 
-[[partner-relationship-management|Partner Relationship Management]]
+[Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/partner-relationship-management.md)
 
-[[using-partner-relationship-management|Using Partner Relationship Management]]
+[Using Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-partner-relationship-management.md)
 
-## Related
-
-- [[update-deal-registration-record|Update deal registration record]]
-- [[deal-registration-management|Deal Registration]]
-- [[partner-relationship-management|Partner Relationship Management]]
-- [[using-partner-relationship-management|Using Partner Relationship Management]]

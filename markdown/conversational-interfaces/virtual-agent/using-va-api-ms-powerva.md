@@ -14,7 +14,7 @@ breadcrumb: [Using Virtual Agent Bot Interconnect in your configuration, Build a
 
 # Using Microsoft Power Virtual Agents as a secondary bot with Virtual Agent Bot Interconnect
 
-With Bot Interconnect, you can use ServiceNow® [[virtual-agent-landing-page|Virtual Agent]] as the primary bot with a Microsoft Power Virtual Agents secondary bot. All of the skills and topics available to Power Virtual Agents are made available to and executable from channels that are configured for ServiceNow® Bot Interconnect.
+With Bot Interconnect, you can use ServiceNow® Virtual Agent as the primary bot with a Microsoft Power Virtual Agents secondary bot. All of the skills and topics available to Power Virtual Agents are made available to and executable from channels that are configured for ServiceNow® Bot Interconnect.
 
 ## Prerequisites
 
@@ -35,6 +35,3 @@ To access topics in the Power Virtual Agents secondary bot, you must create at l
 
 **Parent Topic:**[Using Virtual Agent Bot Interconnect in your configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/using-sn-va-primary-bot-api.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

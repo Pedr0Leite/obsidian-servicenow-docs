@@ -14,14 +14,9 @@ breadcrumb: [Shopping Hub, Explore, Sourcing and Procurement Operations, Finance
 
 # My requests
 
-As a shopper, you can view all the order revisions from your shopping account anytime by selecting My requests from your profile in [[shopping-hub-overview|Shopping Hub]].
+As a shopper, you can view all the order revisions from your shopping account anytime by selecting My requests from your profile in Shopping Hub.
 
-You can also track the progress of your request such as edit or cancel requests from your account or the Shopping Hub footer. Track the progress of the purchase modification requests, view its [[activity-stream|activity stream]], review to-dos, view, and upload attachments associated with the purchase line or [[purchase-order-table|purchase order]] line.
+You can also track the progress of your request such as edit or cancel requests from your account or the Shopping Hub footer. Track the progress of the purchase modification requests, view its activity stream, review to-dos, view, and upload attachments associated with the purchase line or purchase order line.
 
 **Parent Topic:**[Shopping Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shopping-hub-overview.md)
 
-## Related
-
-- [[shopping-hub-overview|Shopping Hub]]
-- [[activity-stream|Activity stream]]
-- [[purchase-order-table|Purchase order]]

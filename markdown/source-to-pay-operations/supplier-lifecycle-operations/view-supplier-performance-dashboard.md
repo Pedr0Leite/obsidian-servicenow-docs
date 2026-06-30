@@ -14,7 +14,7 @@ breadcrumb: [Using Supplier Relationship and Performance Management, Use, Suppli
 
 # View supplier performance dashboard
 
-You can view the overall [[supplier|supplier]] score, risk score, individual KPI scores, and performance domain-specific scores in the supplier performance dashboard.
+You can view the overall supplier score, risk score, individual KPI scores, and performance domain-specific scores in the supplier performance dashboard.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_kpi.admin or sn\_slm.manager or sn\_slm.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
 2.  Under Quick actions, select Manage my suppliers.
 
@@ -60,8 +60,3 @@ The supplier performance dashboard is displayed with information on the latest s
 
 [Manage supplier KPIs from the supplier record page of the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/kpi-mgmt-tab-supplier.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

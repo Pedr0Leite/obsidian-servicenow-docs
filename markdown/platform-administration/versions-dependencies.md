@@ -17,11 +17,11 @@ Reviewing technical requirements when deciding to implement a new app, product, 
 
 ## Version support
 
-The [[servicenow-store|ServiceNow Store]] supports up to two platform releases before the current platform release. For example, if the current platform release is Yokohama, the ServiceNow Store maintains app versions that are compatible with Yokohama, Xanadu, and Washington DC.
+The ServiceNow Store supports up to two platform releases before the current platform release. For example, if the current platform release is Yokohama, the ServiceNow Store maintains app versions that are compatible with Yokohama, Xanadu, and Washington DC.
 
 However, it can't be guaranteed that new apps are compatible with any platform releases before the most current one. Available apps might, for example, be compatible with only Yokohama or with only Yokohama and Xanadu.
 
-If you find that your ServiceNow AI Platform release version is no longer supported in the ServiceNow Store, upgrade your instance to take advantage of recent features and improvements. For more information, see [[upgrade-now-platform|Using ServiceNow AI Platform upgrade tools]].
+If you find that your ServiceNow AI Platform release version is no longer supported in the ServiceNow Store, upgrade your instance to take advantage of recent features and improvements. For more information, see [Using ServiceNow AI Platform upgrade tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-now-platform.md).
 
 ## Checking version compatibility
 
@@ -47,7 +47,7 @@ Any app on the ServiceNow Store might have application dependencies or system pl
 
 -   **System plugin dependencies**
 
-    Must be activated on your instance before an app can be installed and can’t be obtained from the ServiceNow Store. Instead, plugins must be obtained through your ServiceNow license and version upgrades. For more information about plugins, see [[c_ServiceNowPlugins|ServiceNow plugins]].
+    Must be activated on your instance before an app can be installed and can’t be obtained from the ServiceNow Store. Instead, plugins must be obtained through your ServiceNow license and version upgrades. For more information about plugins, see [ServiceNow plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ServiceNowPlugins.md).
 
 
 Each application dependency is listed with a symbol. The symbol indicates a category that describes how you can acquire the app dependency. App dependencies use the following categories.
@@ -76,7 +76,7 @@ Application is available to install or update
 
 </td><td>
 
-This dependency is already entitled on your instance and is available to install through the [[application-manager|Application Manager]] when you install the app that requires it. For more information about the Application Manager, see [Application Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/application-manager.md).
+This dependency is already entitled on your instance and is available to install through the Application Manager when you install the app that requires it. For more information about the Application Manager, see [Application Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/application-manager.md).
 
 </td></tr><tr><td>
 
@@ -106,9 +106,3 @@ The list of application dependencies contains links that direct you to the Servi
 
 Plugin dependencies can't be resolved from the ServiceNow Store. For more information about managing plugins, see [ServiceNow plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ServiceNowPlugins.md).
 
-## Related
-
-- [[upgrade-now-platform|Using ServiceNow AI Platform upgrade tools]]
-- [[c_ServiceNowPlugins|ServiceNow plugins]]
-- [[servicenow-store|ServiceNow Store]]
-- [[application-manager|Application Manager]]

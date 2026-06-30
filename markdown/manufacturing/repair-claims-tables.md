@@ -12,7 +12,7 @@ breadcrumb: [Repair claims data model, Data model, Reference, Manufacturing Comm
 
 # Repair claims tables
 
-This section explains the [[mco-use-repair-claim|repair claim]] tables in [[manufacturing-overview|Manufacturing Commercial Operations]].
+This section explains the repair claim tables in Manufacturing Commercial Operations.
 
 ## Repair claim plugin
 
@@ -99,10 +99,5 @@ Stores the charges incurred for each repair job.
 </td></tr></tbody>
 </table>To learn more about the Case and Case Line, see .
 
-**Parent Topic:**[[repair-claims|Repair claims data model]]
+**Parent Topic:**[Repair claims data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/repair-claims.md)
 
-## Related
-
-- [[repair-claims|Repair claims data model]]
-- [[mco-use-repair-claim|Repair claim]]
-- [[manufacturing-overview|Manufacturing Commercial Operations]]

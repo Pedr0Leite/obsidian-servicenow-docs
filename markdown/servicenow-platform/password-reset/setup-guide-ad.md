@@ -14,7 +14,7 @@ breadcrumb: [Setting up Password Reset, Password Reset, Manage service capabilit
 
 # Set up Microsoft Active Directory for Password Reset
 
-Enable connections to Active Directory \(AD\) by activating the [[password-reset-landing-page|Password Reset]] Windows App and Microsoft AD for Password Reset available in the ServiceNow Store.
+Enable connections to Active Directory \(AD\) by activating the Password Reset Windows App and Microsoft AD for Password Reset available in the ServiceNow Store.
 
 ## Request the Password Reset Windows App plugin
 
@@ -28,7 +28,7 @@ Role required: password\_reset\_admin
 
 There are two ways to request a plugin:
 
--   Access the Now Support [[service-catalog|Service Catalog]] directly by selecting **All** &gt; **Service Catalog** &gt; **Activate Plugin** on Now Support. For more information about the list of plugins, see [List of Plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md).
+-   Access the Now Support Service Catalog directly by selecting **All** &gt; **Service Catalog** &gt; **Activate Plugin** on Now Support. For more information about the list of plugins, see [List of Plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md).
 -   Access the Now Support Service Catalog through the All Applications page on your instance by following these steps.
 
 ### Procedure
@@ -95,7 +95,7 @@ Information that would be helpful for the ServiceNow personnel who are activatin
 
 ## Password Reset Windows Application
 
-The [[win-password-reset-overview|Password Reset Windows Application]] enables a user, who forgets the password or is locked out of a Windows computer, to reset the password directly from the Windows login screen.
+The Password Reset Windows Application enables a user, who forgets the password or is locked out of a Windows computer, to reset the password directly from the Windows login screen.
 
 ### How the Password Reset Windows Application works
 
@@ -191,9 +191,3 @@ Supported network architecture
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[password-reset-landing-page|Password Reset]]
-- [[service-catalog|Service Catalog]]
-- [[win-password-reset-overview|Password Reset Windows Application]]

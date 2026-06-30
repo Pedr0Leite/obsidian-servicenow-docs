@@ -20,9 +20,9 @@ Assets must be updated and tracked from the time theyâ€™re purchased until theyâ
 
 **Note:** The automated workflow isn't triggered for excluded assets. You must manually update your asset records or CIs for the excluded assets.
 
-You can [create bulk stock orders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-inventory-stock-order.md) for hardware assets for your [[c_Stockrooms|stockrooms]]. You can specify the model and the exact quantity you need. After the item is procured or transferred, the workflow is complete.
+You can [create bulk stock orders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-inventory-stock-order.md) for hardware assets for your stockrooms. You can specify the model and the exact quantity you need. After the item is procured or transferred, the workflow is complete.
 
-You can also [create disposal orders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-disposal-order.md) for hardware and [[c_ReceiveAConsumableAsset|consumable assets]]. This workflow guides you through five asset disposal tasks. These tasks involve the planning, scheduling, verification, departure, and the final confirmation of the disposed assets. Closing a task completes the task and creates the next task in the workflow.
+You can also [create disposal orders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-disposal-order.md) for hardware and consumable assets. This workflow guides you through five asset disposal tasks. These tasks involve the planning, scheduling, verification, departure, and the final confirmation of the disposed assets. Closing a task completes the task and creates the next task in the workflow.
 
 For example, Verify is the first task in the asset disposal workflow. After you complete and close the Verify task, the Schedule pickup task is automatically created. This process continues until you close all the tasks required for disposing the asset. For information, see [Hardware disposal order stages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/hardware-disposal-stages.md).
 
@@ -35,7 +35,7 @@ If an asset is being deployed, replaced, or retired via an incident, change requ
 -   CI
 -   related asset record
 -   software allocations
--   maintenance [[c_Contracts|contracts]]
+-   maintenance contracts
 
 The data accuracy is improved by reducing the need for manual intervention to update records.
 
@@ -84,9 +84,3 @@ Deploy
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_Stockrooms|Stockrooms]]
-- [[c_ReceiveAConsumableAsset|Consumable assets]]
-- [[c_Contracts|Contracts]]

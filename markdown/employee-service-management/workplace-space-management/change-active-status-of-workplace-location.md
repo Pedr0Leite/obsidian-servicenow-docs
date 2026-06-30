@@ -35,7 +35,7 @@ Set a status for a location. Specify the dates for when the status must be appli
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-safety-mgmt-hr|Workplace Core]]** &gt; **Space Administration**.
+1.  Navigate to **All** &gt; **Workplace Core** &gt; **Space Administration**.
 
 2.  Select **Spaces**.
 
@@ -106,7 +106,7 @@ A schedule job runs every month and a reminder email is sent to the workplace ma
 
 [Create a Space Recommender rule]()
 
-[Raise a [[space-assistance|space assistance]] request]()
+[Raise a space assistance request]()
 
 [Create a view-by configuration]()
 
@@ -114,7 +114,3 @@ A schedule job runs every month and a reminder email is sent to the workplace ma
 
 [Reviewing allocation changes]()
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[space-assistance|Space assistance]]

@@ -14,8 +14,5 @@ breadcrumb: [Use, AI Control Tower, Enable AI experiences]
 
 # Creating requests for AI assets
 
-You can manage deployed [[ai-assets|AI assets]] effectively by creating change requests for updates to existing assets or by creating offboarding requests for retiring assets.
+You can manage deployed AI assets effectively by creating change requests for updates to existing assets or by creating offboarding requests for retiring assets.
 
-## Related
-
-- [[ai-assets|AI assets]]

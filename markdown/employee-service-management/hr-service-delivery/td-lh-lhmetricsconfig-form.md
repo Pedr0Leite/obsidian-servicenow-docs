@@ -14,7 +14,7 @@ breadcrumb: [Reference, Leader Hub, HR Service Delivery, Employee Service Manage
 
 # Leader Hub Metric Configurations table
 
-The form associated with a record in the Leader Hub Metric Configurations table enables you to [[td-lh-configure-metrics|configure metrics for employee engagement]] with certain applications in the Talent Development suite. The configurable options are applicable to the metrics that appear in the Growth engagement widget and the employee cards that appear on the [[td-lh-org-talent|Org talent page]].
+The form associated with a record in the Leader Hub Metric Configurations table enables you to configure metrics for employee engagement with certain applications in the Talent Development suite. The configurable options are applicable to the metrics that appear in the Growth engagement widget and the employee cards that appear on the Org talent page.
 
 The form that appears when you create a record in the Leader Hub Metric Configurations table contains the following fields:
 
@@ -74,7 +74,7 @@ Image for the employee engagement metric that you create. This image is associat
 
 </td><td>
 
-Field value is set to **[[td-lh-landing|Leader Hub]]** by default.
+Field value is set to **Leader Hub** by default.
 
 </td></tr><tr><td>
 
@@ -119,8 +119,8 @@ Option to indicate whether the employee engagement metric is visible on the Org 
 An application in the Talent Development suite for which you want to configure metrics. Options are as follows:-   **Aspirations**
 -   **Conversations**
 -   **Growth Plans**
--   **[[exploring-learning-exp|Learning]]**
--   **[[mentoring-egd-overview|Mentoring]]**
+-   **Learning**
+-   **Mentoring**
 
 </td></tr><tr><td>
 
@@ -133,10 +133,3 @@ The sequential order in which your employee engagement metric appears in the Gro
 </td></tr></tbody>
 </table>**Parent Topic:**[Leader Hub reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/td-lh-reference.md)
 
-## Related
-
-- [[td-lh-configure-metrics|Configure metrics for employee engagement]]
-- [[td-lh-org-talent|Org talent page]]
-- [[td-lh-landing|Leader Hub]]
-- [[exploring-learning-exp|Learning]]
-- [[mentoring-egd-overview|Mentoring]]

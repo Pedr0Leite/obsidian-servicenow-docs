@@ -28,7 +28,7 @@ Role required: security\_admin
 
     -   Global
     -   Microsoft Integrations – Core/UI Page: ms\_login
-    -   [[employee-center-landing-page|Employee Center]] Core/Service Portal: Employee Center
+    -   Employee Center Core/Service Portal: Employee Center
     Use the following URLs:
 
     -   GCC-H: `https://gov.teams.microsoft.us`
@@ -38,6 +38,3 @@ Role required: security\_admin
 
 **Parent Topic:**[Integrating Employee Center with Microsoft Teams for GCC-H or DoD](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-teams-integration-gcch.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

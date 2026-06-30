@@ -14,7 +14,7 @@ breadcrumb: [Old Inbound integrations experience, OAuth Inbound, OAuth authentic
 
 # Create an OAuth JWT API endpoint for external clients \(machine to machine integration\)
 
-[[oauth-inbound-and-outbound|OAuth]] [[jwt-bearer|JWT bearer]] token enables the client web applications to authenticate with your instance seamlessly using the inbound JWT grant type instead of requiring the end user to manually log in or share the password.
+OAuth JWT bearer token enables the client web applications to authenticate with your instance seamlessly using the inbound JWT grant type instead of requiring the end user to manually log in or share the password.
 
 ## Before you begin
 
@@ -33,7 +33,7 @@ Generate a JWT with the following claims at the client side:
 
 ## About this task
 
-Since using the JWT grant type doesn’t include the password in the [[c_requestAPI|request]], it enables a greater security between web services. For example, you can develop an external application and use tokens to authenticate inbound requests to your ServiceNow instance.
+Since using the JWT grant type doesn’t include the password in the request, it enables a greater security between web services. For example, you can develop an external application and use tokens to authenticate inbound requests to your ServiceNow instance.
 
 Role required: oauth\_admin
 
@@ -43,7 +43,7 @@ For more information about JSON Web Tokens, see [https://jwt.io/](https://jwt.io
 
 1.  Add the public key of the client app to the **sys\_certificate** table.
 
-2.  Set up the [[sc-configuration|configuration]] in your ServiceNow instance to verify the incoming JWT.
+2.  Set up the configuration in your ServiceNow instance to verify the incoming JWT.
 
     1.  Navigate to **System OAuth** &gt; **Application Registry**.
 
@@ -81,7 +81,7 @@ Client Secret
 
 </td><td>
 
-The shared secret string that both the instance and the client application or website use to authorize [[sc-communications|communications]] with one another. Leave this field empty to have the instance auto-generate a client secret. To display existing client secrets, select the lock icon.**Note:** If **Public Client** is selected, you can omit the **Client Secret**.
+The shared secret string that both the instance and the client application or website use to authorize communications with one another. Leave this field empty to have the instance auto-generate a client secret. To display existing client secrets, select the lock icon.**Note:** If **Public Client** is selected, you can omit the **Client Secret**.
 
 </td></tr><tr><td>
 
@@ -89,7 +89,7 @@ User Field
 
 </td><td>
 
-Field in the User \(sys\_user\) table that the system uses to match the value of the subject claim in the JWT. For example, if you add a token that has a subject claim value of user.name@example.com, then you would set the **User Field** to **[[email|Email]]**. This field tells the system to search the email field for the user.name@example.com value and use the matching user record in the inbound request.
+Field in the User \(sys\_user\) table that the system uses to match the value of the subject claim in the JWT. For example, if you add a token that has a subject claim value of user.name@example.com, then you would set the **User Field** to **Email**. This field tells the system to search the email field for the user.name@example.com value and use the matching user record in the inbound request.
 
 </td></tr><tr><td>
 
@@ -155,7 +155,7 @@ Enforce Token Restrictions
 
 </td><td>
 
-Select to only enable tokens to be used with APIs set to enable the [[c_Authentication|authentication]] profile. You can set grant access using an [[api-access-policy|API access policy]]. For more information, see [Create REST API access policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/create-api-access-policy.md).Default: Unselected.
+Select to only enable tokens to be used with APIs set to enable the authentication profile. You can set grant access using an API access policy. For more information, see [Create REST API access policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/create-api-access-policy.md).Default: Unselected.
 
 </td></tr><tr><td>
 
@@ -195,7 +195,7 @@ To know more, see [Configure client type for OAuth and SSO records](https://raw.
         |Kid|Key ID from the JWT.|
         |Shared Key|The shared key for the specified key ID.|
         |Application|Read-only application scope.|
-        |Sys certificate|Certificate record in the X.509 [[c_Certificates|Certificates]] \(sys\_certificate\) table. The certificate that was uploaded in step 1.|
+        |Sys certificate|Certificate record in the X.509 Certificates \(sys\_certificate\) table. The certificate that was uploaded in step 1.|
 
     6.  Add any custom claims associated with your JWT to the OAuth JWT Claim Validations related list.
 
@@ -264,14 +264,3 @@ To know more, see [Configure client type for OAuth and SSO records](https://raw.
 
 The system retrieves the access token in the REST call and enables access to the requested resource.
 
-## Related
-
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[jwt-bearer|JWT Bearer]]
-- [[c_requestAPI|request]]
-- [[sc-configuration|Configuration]]
-- [[sc-communications|Communications]]
-- [[email|Email]]
-- [[c_Authentication|Authentication]]
-- [[api-access-policy|API access policy]]
-- [[c_Certificates|Certificates]]

@@ -14,16 +14,12 @@ breadcrumb: [Now Assist for FSO, Financial Services Operations \(FSO\)]
 
 # Now Assist for Financial Services Operations \(FSO\) reference
 
-Reference topics provide additional information about administering [[now-assist-for-financial-services-operations|Now Assist for Financial Services Operations \(FSO\)]].
+Reference topics provide additional information about administering Now Assist for Financial Services Operations \(FSO\).
 
 -   **[Supporting information for Now Assist for Financial Services Operations \(FSO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/supporting-information-for-now-assist-for-financial-services-operations-fso.md)**  
 Get a quick overview of the important information that is related to the Now Assist for Financial Services Operations \(FSO\) application.
 -   **[Domain separation and Now Assist for Financial Services Operations \(FSO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/now-assist-for-financial-services-operations-domain-separation.md)**  
-[[domain-separation-dispute-content-pack-for-mastercard|Domain separation]] is supported for Now Assist for Financial Services Operations \(FSO\). Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported for Now Assist for Financial Services Operations \(FSO\). Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 **Parent Topic:**[Now Assist for Financial Services Operations \(FSO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/now-assist-for-financial-services-operations.md)
 
-## Related
-
-- [[now-assist-for-financial-services-operations|Now Assist for Financial Services Operations \(FSO\)]]
-- [[domain-separation-dispute-content-pack-for-mastercard|Domain separation]]

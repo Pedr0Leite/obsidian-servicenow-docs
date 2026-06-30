@@ -14,7 +14,7 @@ breadcrumb: [Now Assist for PSDS, Public Sector Digital Services \(PSDS\)]
 
 Use standalone agents to achieve specific automated outcomes with the Public Sector Digital Services AI Agent Collection application. ​
 
-AI Agents are configurable through the AI Agent Studio. The AI Agent Studio is available to administrators as part of the [[now-assist-for-psds|Now Assist for Public Sector Digital Services \(PSDS\)]] offering. The AI Agent Studio allows admins to configure, test, and manage AI agents using natural language and prebuilt workflows. These agents can automate tasks like fee estimation and information request handling.
+AI Agents are configurable through the AI Agent Studio. The AI Agent Studio is available to administrators as part of the Now Assist for Public Sector Digital Services \(PSDS\) offering. The AI Agent Studio allows admins to configure, test, and manage AI agents using natural language and prebuilt workflows. These agents can automate tasks like fee estimation and information request handling.
 
 This table describes the use cases in Now Assist for Public Sector Digital Services \(PSDS\).
 
@@ -55,9 +55,5 @@ To run the AI agents autonomously, you must first [duplicate the agentic workflo
 
 There might be AI agents installed with the Now Assist application that are not used in agentic workflows. To learn how to see all agents that are available to you, see [Find AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/find-ai-agents.md).
 
-For information on the standalone Public Sector Digital Services AI agents, see [[now-assist-psds-aiagents|Standalone AI Agents in Public Sector Digital Services]].
+For information on the standalone Public Sector Digital Services AI agents, see [Standalone AI Agents in Public Sector Digital Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/now-assist-psds-aiagents.md).
 
-## Related
-
-- [[now-assist-psds-aiagents|Standalone AI Agents in Public Sector Digital Services]]
-- [[now-assist-for-psds|Now Assist for Public Sector Digital Services \(PSDS\)]]

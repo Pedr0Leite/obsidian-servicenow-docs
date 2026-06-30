@@ -14,7 +14,7 @@ breadcrumb: [Post-assessment automations, Use template designer, Manage, Smart A
 
 # Configure post-assessment actions
 
-The post-assessment actions feature in [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] enables you to automate actions based on assessment responses. The template designers can predefine actions using a rule engine, such as updating fields, creating follow-up assessments, or generating other records.
+The post-assessment actions feature in Smart Assessment Engine enables you to automate actions based on assessment responses. The template designers can predefine actions using a rule engine, such as updating fields, creating follow-up assessments, or generating other records.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ Role required: sn\_smart\_asmt.assessment\_admin or sn\_smart\_asmt.template\_ma
 
 1.  Navigate to **Workspaces** &gt; **Assessment Workspace** to access the Assessment Workspace landing page.
 
-2.  [[sae-asmnt-template-create|Create an assessment template]] or open an existing assessment template for which you want to configure post-assessment actions.
+2.  Create an assessment template or open an existing assessment template for which you want to configure post-assessment actions.
 
     Post-assessment actions can only be set on a published assessment template and remains in the Draft state until manually activated. After activated, post-assessment actions can’t be moved back to the Draft state while the template remains published. They can only be deactivated.
 
@@ -99,7 +99,3 @@ Select **Add a standalone action set**.
 
 [Flow Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/flow-designer.md)
 
-## Related
-
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]
-- [[sae-asmnt-template-create|Create an assessment template]]

@@ -14,7 +14,7 @@ breadcrumb: [Use, Telecommunications Network Inventory]
 
 # Import models and templates
 
-Import models and templates to ensure consistency, reusability and reduce errors. You can import pre-defined template excels to streamline the tasks using the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+Import models and templates to ensure consistency, reusability and reduce errors. You can import pre-defined template excels to streamline the tasks using the Telecommunications Network Inventory application.
 
 -   **[Import a model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/import-models.md)**  
 Create an import model request to import your collection of models, and streamline the workflow using the Telecommunications Network Inventory application.
@@ -31,6 +31,3 @@ Export network equipment models, inventory templates, and their related records 
 
 **Parent Topic:**[Using Telecommunications Network Inventory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/using-telecom-network-inventory.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]

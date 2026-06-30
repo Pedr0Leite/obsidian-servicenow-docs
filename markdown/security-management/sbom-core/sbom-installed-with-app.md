@@ -14,7 +14,7 @@ breadcrumb: [Software Bill of Materials, Unified Security Exposure Management, S
 
 # Components installed with Software Bill of Materials applications
 
-Several types of components are installed with activation of the [[sbom-landing|Software Bill of Materials]] applications, including tables, user roles, and scheduled jobs.
+Several types of components are installed with activation of the Software Bill of Materials applications, including tables, user roles, and scheduled jobs.
 
 ## Roles installed
 
@@ -267,7 +267,7 @@ Contains AVIT creation rules used in the SBOM Workspace.
 
 </td></tr><tr><td>
 
-SBOM m2m component [[vulnerabilities|vulnerabilities]]
+SBOM m2m component vulnerabilities
 
  \[sn\_sbom\_m2m\_comp\_vuln\]
 
@@ -326,7 +326,3 @@ Contains version information and published dates for components.
 |Deps.dev Integration|Retrieves all publicly known versions for packages and used with to identify components in **Stale** and **Abandoned** states.|
 |Update vuln\_based\_criticality on bom components|Updates criticality for components with vulnerabilities.|
 
-## Related
-
-- [[sbom-landing|Software Bill of Materials]]
-- [[vulnerabilities|Vulnerabilities]]

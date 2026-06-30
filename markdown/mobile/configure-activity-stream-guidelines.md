@@ -18,7 +18,7 @@ Consider these general guidelines when configuring your activity stream.
 
 -   **Add activity stream as a stream segment**
 
-    Depending on your requirements, you can add an activity stream as a screen segment in a [[form-screen|record screen]] or have it as a standalone screen.
+    Depending on your requirements, you can add an activity stream as a screen segment in a record screen or have it as a standalone screen.
 
 -   **Include in incidents and requests**
 
@@ -33,15 +33,10 @@ Consider these general guidelines when configuring your activity stream.
     The term Activity stream as a tab name may not be understood by some users. Consider renaming this tab to a term your users are familiar with, such as Updates, History, or Notes.
 
 -   **@mention feature**
-    -   Users can @mention someone in the activity stream, and the mentioned user will receive an email and [[sg-mobile-security-push-notif|push notifications]] based on admin and user preferences. For more information, see [[sg-mobile-push-notifications|Mobile push notifications]].
+    -   Users can @mention someone in the activity stream, and the mentioned user will receive an email and push notifications based on admin and user preferences. For more information, see [Mobile push notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-push-notifications.md).
     -   Supporting @mention mobile push notifications requires configuration and isn’t supported by default for all tables. In this case, consider adding support for tables which require collaboration between users to increase communication efficiency.
 -   **User role user or user criteria permissions**
 
-    You can restrict access to the activity stream segment within the Record screen for specific users by assigning user roles or user criteria permissions. For more information, see [[roles-user-criteria|User roles and user criteria permissions for mobile apps]].
+    You can restrict access to the activity stream segment within the Record screen for specific users by assigning user roles or user criteria permissions. For more information, see [User roles and user criteria permissions for mobile apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/roles-user-criteria.md).
 
-## Related
 
-- [[sg-mobile-push-notifications|Mobile push notifications]]
-- [[roles-user-criteria|User roles and user criteria permissions for mobile apps]]
-- [[form-screen|Record screen]]
-- [[sg-mobile-security-push-notif|Push notifications]]

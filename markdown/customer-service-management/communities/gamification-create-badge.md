@@ -14,7 +14,7 @@ breadcrumb: [Administer gamification, Configuring communities, Communities, Cust
 
 # Create a gamification badge
 
-Create [[communities-gamification|gamification]] [[gamification-components-badges|badges]] that users can earn for achievements within the community.
+Create gamification badges that users can earn for achievements within the community.
 
 ## Before you begin
 
@@ -96,7 +96,3 @@ The image file for the badge. Click to add the icon, choose the desired image fi
 
 **Parent Topic:**[Administer gamification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/communities-gamification-administer.md)
 
-## Related
-
-- [[communities-gamification|Gamification]]
-- [[gamification-components-badges|Badges]]

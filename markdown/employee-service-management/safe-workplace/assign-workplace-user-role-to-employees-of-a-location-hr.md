@@ -14,7 +14,7 @@ breadcrumb: [Workplace Core, Safe Workplace, Health and Safety, Employee Service
 
 # Assign the workplace user role to employees
 
-Set rules in [[workplace-safety-mgmt-hr|Workplace Core]] to assign the workplace user role to employees in only the specific countries where you are starting a return to office operations.
+Set rules in Workplace Core to assign the workplace user role to employees in only the specific countries where you are starting a return to office operations.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: admin or sn\_wsd\_core.admin
 
 1.  Navigate to **Workplace Safety Management** &gt; **Administration**.
 
-2.  Select **[[t_ClientRoleAssignRules|Client Role Assignment Rules]]**.
+2.  Select **Client Role Assignment Rules**.
 
 3.  On the form, fill in the fields.
 
@@ -45,7 +45,3 @@ Role required: admin or sn\_wsd\_core.admin
 
 The workplace user roles are assigned. If a record is created or updated on this table, a role assignment process is triggered in the background.
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[t_ClientRoleAssignRules|Client role assignment rules]]

@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-By default, the application navigator shows 30 history entries. You can [[configure-onboarding-modals|configure]] the **glide.ui.nav.history\_length** property to change this value.
+By default, the application navigator shows 30 history entries. You can configure the **glide.ui.nav.history\_length** property to change this value.
 
 ## Procedure
 
@@ -31,9 +31,5 @@ By default, the application navigator shows 30 history entries. You can [[config
 3.  Edit the property **Value**.
 
 
-**Parent Topic:**[[c_UI16ApplicationNavigator|Core UI application navigator]]
+**Parent Topic:**[Core UI application navigator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_UI16ApplicationNavigator.md)
 
-## Related
-
-- [[c_UI16ApplicationNavigator|Core UI application navigator]]
-- [[configure-onboarding-modals|Configure]]

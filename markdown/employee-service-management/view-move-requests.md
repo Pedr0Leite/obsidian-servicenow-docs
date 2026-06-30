@@ -20,7 +20,7 @@ Role required: sn\_wsd\_move.manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-move-mgmt-overview|Workplace Move Management]]** &gt; **Move requests**.
+1.  Navigate to **All** &gt; **Workplace Move Management** &gt; **Move requests**.
 
 2.  To view move requests, select any of the following options:
 
@@ -37,14 +37,10 @@ Role required: sn\_wsd\_move.manager
     -   Related cases
     -   Conflicts review
 
-**Parent Topic:**[[analytics-reporting-solution|Analytics and reporting solutions for Workplace Move Management]]
+**Parent Topic:**[Analytics and reporting solutions for Workplace Move Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/analytics-reporting-solution.md)
 
 **Related topics**  
 
 
 [View move tasks]()
 
-## Related
-
-- [[analytics-reporting-solution|Analytics and reporting solutions for Workplace Move Management]]
-- [[workplace-move-mgmt-overview|Workplace Move Management]]

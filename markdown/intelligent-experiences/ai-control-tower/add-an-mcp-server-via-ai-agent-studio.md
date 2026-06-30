@@ -14,7 +14,7 @@ breadcrumb: [Process flow of MCP servers Via AI Gateway, AI Gateway, Explore, AI
 
 # Add an MCP server from AI Agent studio
 
-Add an external MCP server from [[ai-agent-studio|AI Agent Studio]].
+Add an external MCP server from AI Agent Studio.
 
 ## Before you begin
 
@@ -34,13 +34,13 @@ For information on the AI steward role and its responsibilities, see [AI Control
 
 2.  Select **New**.
 
-    **Note:** In the Create and manage tab of the AI Agent Studio, you can add only those MCP servers that have been approved in the [[ai-control-tower-landing|AI Control Tower]]. To view these [[approvals|approvals]], go to the Approvals tab on the [[view-the-mcp-server-record|MCP server record]]. For more information on Approvals tab and MCP server record, see [MCP server record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/view-the-mcp-server-record.md)
+    **Note:** In the Create and manage tab of the AI Agent Studio, you can add only those MCP servers that have been approved in the AI Control Tower. To view these approvals, go to the Approvals tab on the MCP server record. For more information on Approvals tab and MCP server record, see [MCP server record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/view-the-mcp-server-record.md)
 
 3.  Enter the Name.
 
 4.  Select the Authentication type: OAuth 2.1
 
-    **Note:** [[ai-gateway-overview|AI Gateway]] supports OAuth 2.1.
+    **Note:** AI Gateway supports OAuth 2.1.
 
 5.  Select **Next**.
 
@@ -69,7 +69,7 @@ For information on the AI steward role and its responsibilities, see [AI Control
 
 ## Result
 
-After synchronizing, the MCP server shows up in the [[ai-inventory|AI asset inventory]] with its Status listed as In review, and the lifecycle phase listed as New.
+After synchronizing, the MCP server shows up in the AI asset inventory with its Status listed as In review, and the lifecycle phase listed as New.
 
 **Note:** After the MCP server is added to the AI Control Tower, it can’t be added again. Additionally, AI Agent Studio will not discover a server that has already been added.
 
@@ -77,11 +77,3 @@ After synchronizing, the MCP server shows up in the [[ai-inventory|AI asset inve
 
 The MCP server approval request must be approved. See [Explore the MCP server approval workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/playbook-workflow-of-mcp-server-approval-request.md)
 
-## Related
-
-- [[ai-agent-studio|AI Agent Studio]]
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[approvals|Approvals]]
-- [[view-the-mcp-server-record|MCP server record]]
-- [[ai-gateway-overview|AI Gateway]]
-- [[ai-inventory|AI asset inventory]]

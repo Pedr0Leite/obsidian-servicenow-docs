@@ -14,7 +14,7 @@ breadcrumb: [Explore, Risk Management, Governance, Risk, and Compliance]
 
 # Reporting views from Risk Assessment Methodology
 
-The reporting view provides an overview of all completed assessments under a specific [[risk-assessment-methodology-prm|Risk Assessment Methodology \(RAM\)]]. It consolidates assessment data such as factor responses, scores, issues, controls, and associated risks into a single structure.
+The reporting view provides an overview of all completed assessments under a specific Risk Assessment Methodology \(RAM\). It consolidates assessment data such as factor responses, scores, issues, controls, and associated risks into a single structure.
 
 ## Overview of the reporting view
 
@@ -22,7 +22,7 @@ Reporting views provide a comprehensive, bird's-eye view of all the assessments 
 
 The reporting view enables you to:
 
--   Monitor [[risk-assessments|risk assessments]] for a specific RAM.
+-   Monitor risk assessments for a specific RAM.
 -   Access consolidated assessment data in one location.
 -   Generate custom reports and dashboards.
 
@@ -36,7 +36,3 @@ You can expand individual records to review detailed factor responses, scores, a
 
 **Note:** Automatic creation of Reporting views isn’t supported on Xanadu. For instructions on creating them manually, refer to [KB2547071](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2547071).
 
-## Related
-
-- [[risk-assessment-methodology-prm|Risk Assessment Methodology \(RAM\)]]
-- [[risk-assessments|risk assessments]]

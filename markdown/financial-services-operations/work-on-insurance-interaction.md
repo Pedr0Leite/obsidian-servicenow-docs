@@ -21,7 +21,7 @@ Role required: sn\_ins\_csr.servicing\_agent, sn\_ins\_csr.claims\_agent
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Initiate an interaction in the workspace.
 
@@ -71,7 +71,7 @@ The interaction is closed.
 **Related topics**  
 
 
-[[interactionpage-agentic-contact-centre-for-insurance|Interaction page for Agentic Contact Center for Insurance]]
+[Interaction page for Agentic Contact Center for Insurance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/interactionpage-agentic-contact-centre-for-insurance.md)
 
 [Configure insurance customer interaction context summary skill in Now Assist for FSO](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/configure-insurance-interaction-summary-skill.md)
 
@@ -83,7 +83,3 @@ The interaction is closed.
 
 [Use AI to generate wrap up code and notes summary](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ai-generated-wrap-up-codes-and-notes-summary.md)
 
-## Related
-
-- [[interactionpage-agentic-contact-centre-for-insurance|Interaction page for Agentic Contact Center for Insurance]]
-- [[fso-overview|Financial Services]]

@@ -14,7 +14,7 @@ breadcrumb: [Raising requests, Using Supplier Collaboration Portal, Use, Supplie
 
 # Remove a supplier contact using the supplier catalog
 
-Remove a [[supplier-contact|supplier contact]] that you no longer require.
+Remove a supplier contact that you no longer require.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: sn\_slm.contact or sn\_slm.admin
 
 ## Procedure
 
-1.  Navigate to the [[supplier-central|Supplier Collaboration Portal]] home page by accessing your instance URL and adding a /supplier suffix.
+1.  Navigate to the Supplier Collaboration Portal home page by accessing your instance URL and adding a /supplier suffix.
 
     For example, `https://example.com/supplier`.
 
-2.  Select the [[supplier|supplier]] from the **My Company** drop-down list of suppliers associated with your profile.
+2.  Select the supplier from the **My Company** drop-down list of suppliers associated with your profile.
 
     **Important:** The list of suppliers under **My Company** is available from the Xanadu December 2024 release onwards, only if **M2M mapping between supplier contact and suppliers** is enabled.
 
@@ -76,8 +76,3 @@ The application creates a case of type Offboard supplier contact and assigns it 
 
 [Raising requests from the Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supp-catalog-req.md)
 
-## Related
-
-- [[supplier-contact|Supplier contact]]
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[supplier|Supplier]]

@@ -12,7 +12,7 @@ breadcrumb: [Configuring SGC Central, SGC Central, Integrating third-party data 
 
 # Configuring Service Graph Connector settings in SGC Central
 
-You can view and configure settings for your [[cmdb-sgc-available|Service Graph Connectors]] within the [[sgcc-landing|SGC Central]] view of the [[sg-workspace|Service Graph Workspace]] or CMDB Workspace.
+You can view and configure settings for your Service Graph Connectors within the SGC Central view of the Service Graph Workspace or CMDB Workspace.
 
 In SGC Central, you can configure Service Graph Connector settings related to system properties. See [Configure system properties for a Service Graph Connector in SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-settings.md).
 
@@ -44,8 +44,4 @@ Role required: admin
 
 7.  Repeat steps from [4](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-settings.md) to [6](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-settings.md) for any other property.
 
-## Related
 
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[sgcc-landing|SGC Central]]
-- [[sg-workspace|Service Graph Workspace]]

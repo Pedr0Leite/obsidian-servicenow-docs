@@ -14,7 +14,7 @@ breadcrumb: [Integration of HR Service Delivery with ServiceNow applications, HR
 
 # Virtual Agent for HR Service Delivery
 
-[[hr-service-delivery|HR Service Delivery]] and Virtual Agent provide an automated chat with an employee requesting [[hr-service-administration|HR services]]. You can program Virtual Agent to understand the intent of an employee to handle repeatable requests.
+HR Service Delivery and Virtual Agent provide an automated chat with an employee requesting HR services. You can program Virtual Agent to understand the intent of an employee to handle repeatable requests.
 
 Virtual Agent enhances the employee experience by addressing queries immediately.
 
@@ -87,7 +87,7 @@ Also, see [Natural Language Understanding in Virtual Agent](https://raw.githubus
 
 Create and reuse topic blocks to perform common functions in HR Service Delivery Virtual Agent conversations, like creating an HR case or performing a search.
 
-Topic blocks help you be more productive by minimizing duplicate [[flows-ukg|subflows]], are easier to maintain, and ready to use immediately.
+Topic blocks help you be more productive by minimizing duplicate subflows, are easier to maintain, and ready to use immediately.
 
 The following predefined, reusable topic blocks are:
 
@@ -112,7 +112,7 @@ Your employees can hold Virtual Agent conversations using Slack, a third-party m
 
 For more information, see [Virtual Agent integration with messaging apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/va-integration-messaging-apps.md).
 
-For information on configuring [[va-notification-ta|Virtual Agent notifications]] for certain channels such as Slack, see [Setting up Virtual Agent notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/configuring-va-notifications.md).
+For information on configuring Virtual Agent notifications for certain channels such as Slack, see [Setting up Virtual Agent notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/configuring-va-notifications.md).
 
 ## Topic Recommendations for HR Service Delivery Virtual Agent
 
@@ -149,12 +149,12 @@ The HR Service Delivery Virtual Agent Conversations plugin \(sn\_hr\_va\) activa
 To activate Virtual Agent, do the following in order:
 
 1.  Activate the Glide Virtual Agent plugin \(com.glide.cs.chatbot\) that provides the Virtual Agent framework.
-2.  Activate the Human Resources Scoped App: Core plugin \(com.sn\_hr\_core\) that provides [[case-knowledge-management-landing-page|case and knowledge management]] for HR.
+2.  Activate the Human Resources Scoped App: Core plugin \(com.sn\_hr\_core\) that provides case and knowledge management for HR.
 3.  Activate the HR Service Delivery Virtual Agent Conversations plugin \(sn\_hr\_va\) that provides a conversational bot platform for user assistance.
 
 If you want to activate Virtual Agent also with NLU, then activate the following plugins after you have already activated the previous plugins:
 
-1.  Activate the Predictive Intelligence plugin \(com.glide.platform\_ml\) that enables the creation of machine [[exploring-learning-exp|learning]] solutions.
+1.  Activate the Predictive Intelligence plugin \(com.glide.platform\_ml\) that enables the creation of machine learning solutions.
 2.  Activate the NLU Workbench plugin \(com.snc.nlu\_studio\) that enables the creation of NLU models.
 3.  Activate the Studio plugin \(com.glide.dev-studio\) that is used for adding and updating application files.
 4.  Activate the HR Service Delivery NLU Model for Virtual Agent Conversations plugin \(sn\_hr\_nlu\) that provides the NLU model used by HR Virtual Agent. This plugin is available on the ServiceNow Store, and provides NLU models in the English, German, French, Spanish, Japanese, Dutch, Chinese, and Brazilian Portuguese languages.
@@ -190,7 +190,7 @@ The base system provides predefined Virtual Agent and Virtual Agent NLU topics \
 
 **Note:** You cannot edit the provided topics. You can duplicate a provided topic and then edit it. You can also create additional topics. See [Virtual Agent Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/conversation-designer-virtual-agent.md).
 
-After performing the activation steps, the **Chat** link replaces the **Chat with HR** link on the [[employee-center-landing-page|Employee Center]] or service portal.
+After performing the activation steps, the **Chat** link replaces the **Chat with HR** link on the Employee Center or service portal.
 
 When an employee clicks the **Chat** link, Virtual Agent launches and the employee is chatting with a virtual agent.
 
@@ -291,12 +291,3 @@ If the user interacts with a Virtual Agent topic that has deflection defined, th
 
 **Note:** The default deflection patterns in the HR Service Delivery Virtual Agent are not customizable. To modify a deflection pattern, you have to clone it, make the necessary changes, activate it and then publish the pattern.
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[hr-service-administration|HR services]]
-- [[flows-ukg|Subflows]]
-- [[va-notification-ta|Virtual Agent notifications]]
-- [[case-knowledge-management-landing-page|Case and Knowledge Management]]
-- [[exploring-learning-exp|Learning]]
-- [[employee-center-landing-page|Employee Center]]

@@ -22,7 +22,7 @@ Role required: sn\_cmdb\_admin
 
 ## Procedure
 
-1.  On the [[cmdb-sa|CMDB success advisor]] landing page, select **Set principal classes**.
+1.  On the CMDB success advisor landing page, select **Set principal classes**.
 
     See [Viewing the CMDB success advisor landing page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sa-landing-page.md).
 
@@ -45,6 +45,3 @@ The selected classes are marked as principal classes and data collection begins.
 
 To update the scope after initial setup, select **Manage principal classes** on the Data Foundations advisor dashboard.
 
-## Related
-
-- [[cmdb-sa|CMDB success advisor]]

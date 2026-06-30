@@ -19,13 +19,13 @@ Create an external content connector to retrieve searchable content and security
 
 ## Before you begin
 
-A source system administrator must have already configured your Notion source system to allow access by the [[notion-external-content-connector|Notion external content connector]]. For details on configuring these settings in the source system, see [Configure Notion for external content indexing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/configure-notion-external-content-indexing.md).
+A source system administrator must have already configured your Notion source system to allow access by the Notion external content connector. For details on configuring these settings in the source system, see [Configure Notion for external content indexing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/configure-notion-external-content-indexing.md).
 
 Role required: sn\_ext\_conn.xcc\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ext-cont-connectors-landing-page|External Content Connectors]]** &gt; **External Content Admin Home**.
+1.  Navigate to **All** &gt; **External Content Connectors** &gt; **External Content Admin Home**.
 
 2.  If prompted, select **Switch scope** to switch to the External Content Connectors Admin scope.
 
@@ -98,7 +98,7 @@ To retrieve searchable content and security principals with your new connector, 
 -   To learn how to configure your new connector's crawl settings, see [Configure crawl settings for a Notion external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/configure-crawl-settings-notion-external-content-connector.md).
 -   For details on creating crawls for your new connector, see [Create a content crawl for an external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/create-content-crawl-external-content-connector.md) and [Create a user permission crawl for an external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/create-user-mapping-crawl-external-content-connector.md).
 
-**Important:** The Notion external content connector doesn't retrieve per-user permissions when running content crawls. All content indexed by the connector is searchable by all mapped users who have access to your configured [[ia-ai-search|AI Search]] experience.
+**Important:** The Notion external content connector doesn't retrieve per-user permissions when running content crawls. All content indexed by the connector is searchable by all mapped users who have access to your configured AI Search experience.
 
 To make content crawled by your new connector searchable in portals and search applications, you must link one of its search sources to the search profile used by each portal or search application. You can use the connector's default search source or create your own custom search sources.
 
@@ -115,8 +115,3 @@ You can link connector search sources to search profiles from the External Conte
 
 **Parent Topic:**[Notion external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/notion-external-content-connector.md)
 
-## Related
-
-- [[notion-external-content-connector|Notion external content connector]]
-- [[ext-cont-connectors-landing-page|External Content Connectors]]
-- [[ia-ai-search|AI Search]]

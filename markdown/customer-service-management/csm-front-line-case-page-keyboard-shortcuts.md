@@ -12,7 +12,7 @@ breadcrumb: [Front-line case page, Record pages, Record pages and page templates
 
 # Front-line case page keyboard shortcuts
 
-Use keyboard shortcuts to create comments, work notes, and emails quickly, when using the [[csm-front-line-case-page|Front-line case page]] in [[csm-workspaces-configure|CSM Configurable Workspace]].
+Use keyboard shortcuts to create comments, work notes, and emails quickly, when using the Front-line case page in CSM Configurable Workspace.
 
 When composing an email, using the shortcut key enables you to compose an email in a subtab.
 
@@ -29,7 +29,3 @@ When composing a comment or work note:
 
 For more information, see [Next Experience keyboard shortcuts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-keyboard-shortcuts.md).
 
-## Related
-
-- [[csm-front-line-case-page|Front-line case page]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

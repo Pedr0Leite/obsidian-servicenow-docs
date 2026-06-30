@@ -14,11 +14,11 @@ breadcrumb: [Zero Touch request flow, Use, Hardware Asset Management, IT Asset M
 
 # Fulfill a provider task
 
-As a provider, ship the asset requested through the [[zero-touch-request|Zero touch request flow]] to the requester.
+As a provider, ship the asset requested through the Zero touch request flow to the requester.
 
 ## Before you begin
 
-1.  The Service Exchange configuration necessary for the [[zero-touch-asset-refresh|Zero Touch Refresh]] flow must have been set up. For more details, see [Configure Service Exchange for the Zero Touch request flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/service-bridge-for-ztreq.md).
+1.  The Service Exchange configuration necessary for the Zero Touch Refresh flow must have been set up. For more details, see [Configure Service Exchange for the Zero Touch request flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/service-bridge-for-ztreq.md).
 2.  The Scratchpad must have been configured for the confirmation and shipment tasks involved in your request fulfillment flow. For more information, see [Use the Scratchpad to complete your request fulfillment tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/using-scratchpad-for-provider-updates.md).
 
 Role required: Roles are provider-specific
@@ -55,7 +55,3 @@ When an employee places an order for the catalog item associated with the Zero T
 
 An asset with the serial number and asset tag specified in the Scratchpad is assigned to the requester.
 
-## Related
-
-- [[zero-touch-request|Zero Touch request flow]]
-- [[zero-touch-asset-refresh|Zero Touch Refresh]]

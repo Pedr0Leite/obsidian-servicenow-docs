@@ -12,7 +12,7 @@ breadcrumb: [Tabs sidebar, Explore, Configurable Workspace UI, Configure UIs and
 
 # Agent assist
 
-Learn about the Agent assist component in the [[contextual-sidebar-configurable-workspace|tabs sidebar]] for a Configurable Workspace record page.
+Learn about the Agent assist component in the tabs sidebar for a Configurable Workspace record page.
 
 Agent assist helps an agent resolve issues by providing a list of resources related to an open record's short description.
 
@@ -22,6 +22,3 @@ It appears as a tab within the tabs sidebar for a standard record page.
 
 The Agent assist component is configured and customized by admins in UI Builder. For information on Agent assist component configurations, see [Agent assist UIB Setup](https://developer.servicenow.com/dev.do#!/reference/next-experience/yokohama/now-components/sn-agent-assist-uib/uib-setup).
 
-## Related
-
-- [[contextual-sidebar-configurable-workspace|Tabs sidebar]]

@@ -14,10 +14,10 @@ breadcrumb: [Exporting data, Tables and data, Configure core features, Administe
 
 # Data export reference
 
-[[reference-email-admin|Reference]] topics provide details on [[c_ExportData|exporting data]].
+Reference topics provide details on exporting data.
 
 -   **[Default values for column headers and column values](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/default-values-headers-values.md)**  
-Default values are used for column headers and column values, unless overridden by query [[r_DirectJDBCProbeParameters|parameters]], Export Set fields, or [[r_SetArchiveRuleProcessingBehavior|system properties]].
+Default values are used for column headers and column values, unless overridden by query parameters, Export Set fields, or system properties.
 -   **[Field types affected by export controls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/field-types-affected.md)**  
 Different field types are affected differently by export controls.
 -   **[System properties for display value and header](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/system-properties-display-value-header.md)**  
@@ -46,9 +46,3 @@ The platform provides a default upper limit for data exports.
 
 [Exporting your table records to Google Sheets]()
 
-## Related
-
-- [[reference-email-admin|Reference]]
-- [[c_ExportData|Exporting data]]
-- [[r_DirectJDBCProbeParameters|Parameters]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

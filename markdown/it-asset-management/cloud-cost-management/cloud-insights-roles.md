@@ -18,7 +18,7 @@ You assign Cloud Cost Management roles to user groups and to individual users ba
 
 ## Role relationships in Cloud Cost Management
 
-\[Omitted image "role-permissions-cloud-in.png"\] Alt text: Role relationships in [[cloud-insights-landing-page|Cloud Cost Management]]
+\[Omitted image "role-permissions-cloud-in.png"\] Alt text: Role relationships in Cloud Cost Management
 
 <table id="primary-roles"><thead><tr><th>
 
@@ -41,7 +41,7 @@ Insights Admin
 </td><td>
 
 The role is in the Cloud Cost Management Core plugin. You typically assign the role to the person who is financially responsible.-   Assign ownership of one or more service accounts and, optionally, the related CIs to users that have the insights\_owner role.
--   Define [[bh-cloudin|Business hours]] and [[ur-cloudin|Unassigned resources]] policies.
+-   Define Business hours and Unassigned resources policies.
 -   Define and view Budget plans.
 -   View spend optimization reports.
 -   Add report extensions.
@@ -87,7 +87,7 @@ Insights User
 
 The role is in the Cloud Cost Management Core plugin. The role spans only the Cloud Cost Management application.
 
- View the [[ci-workspace|Cloud Cost Management Workspace]] home page.
+ View the Cloud Cost Management Workspace home page.
 
 </td><td>
 
@@ -164,9 +164,3 @@ The role is in the Cloud Cost Management Core plugin.
 
 [Assign a role to a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AssignARoleToAUser.md)
 
-## Related
-
-- [[cloud-insights-landing-page|Cloud Cost Management]]
-- [[bh-cloudin|Business hours]]
-- [[ur-cloudin|Unassigned resources]]
-- [[ci-workspace|Cloud Cost Management Workspace]]

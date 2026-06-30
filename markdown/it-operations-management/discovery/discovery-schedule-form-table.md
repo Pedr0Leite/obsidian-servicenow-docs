@@ -14,7 +14,7 @@ breadcrumb: [Certificate Inventory and Management reference, Certificate Invento
 
 # Discovery schedule form table
 
-To perform [[r-discovery|Discovery]] on root certificates stored outside your server, you must set a special Discovery schedule that locates these certificates. This table guides you through the form required for this task.
+To perform Discovery on root certificates stored outside your server, you must set a special Discovery schedule that locates these certificates. This table guides you through the form required for this task.
 
 <table id="table_lhb_ppz_wfc"><thead><tr><th>
 
@@ -75,6 +75,3 @@ Your credential alias. If you must set one up, [Create a Connection &amp; Creden
 </td></tr></tbody>
 </table>**Parent Topic:**[Certificate Inventory and Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cert-invt-mgmt-references.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

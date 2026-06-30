@@ -14,11 +14,11 @@ breadcrumb: [Operational Technology Request Management, Operational Technology]
 
 # Configuring Operational Technology Request Management
 
-Configure [[operational-technology-request-management-landing-page|Operational Technology Request Management]] so that you can create the data foundation for the [[operational-technology-overview|Operational Technology]] \(OT\) solution.
+Configure Operational Technology Request Management so that you can create the data foundation for the Operational Technology \(OT\) solution.
 
 If you have the admin role, you can use Guided Setup to lead you through the setup of Operational Technology Request Management. Guided Setup is a tool that assists with application or capability configuration. It organizes the configuration activities into categories. These categories contain the information about the setup tasks, the steps to complete each task, and the links to the pages in your instance where you perform the configuration. The links to useful help content are also provided.
 
-To access Guided Setup, navigate to **[[industrial-workspace-for-operational-technology|Industrial Workspace]] Admin** &gt; **Guided Setup**.
+To access Guided Setup, navigate to **Industrial Workspace Admin** &gt; **Guided Setup**.
 
 The following table lists the Guided Setup tasks and their purposes for Operational Technology Request Management.
 
@@ -65,7 +65,7 @@ Create catalog items for the OT Service Catalog using the catalog builder so oth
 
 </td></tr><tr><td>
 
-Add [[catalog-item-categories-otrm|catalog item categories]] for the catalog items you create in the OT Service Catalog.
+Add catalog item categories for the catalog items you create in the OT Service Catalog.
 
 </td><td>
 
@@ -81,7 +81,7 @@ Create a fulfillment flow with catalog tasks in Workflow Studio for your catalog
 
 </td></tr></tbody>
 </table>-   **[Assign roles to your Operational Technology Request Management users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-request-management/assign-roles-oper-tech-request-management.md)**  
-[[assign-operational-technology-incident-management-roles|Assign roles to your users]] so that you can control their access to the features, capabilities, and data for Operational Technology Request Management.
+Assign roles to your users so that you can control their access to the features, capabilities, and data for Operational Technology Request Management.
 -   **[Catalog item categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-request-management/catalog-item-categories-otrm.md)**  
 You can select different categories for the catalog items you create in the Operational Technology \(OT\) Service Catalog. Categories help organize OT catalog items into logical groups. When requesters submit an OT request, they can choose the catalog item that best fits their needs based on its designated category.
 -   **[Create a catalog item for your Operational Technology Service Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-request-management/create-catalog-item.md)**  
@@ -91,10 +91,3 @@ Create a fulfillment flow with catalog tasks in Workflow Studio for your catalog
 
 **Parent Topic:**[Operational Technology Request Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-request-management/operational-technology-request-management-landing-page.md)
 
-## Related
-
-- [[operational-technology-request-management-landing-page|Operational Technology Request Management]]
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[catalog-item-categories-otrm|Catalog item categories]]
-- [[assign-operational-technology-incident-management-roles|Assign roles to your users]]

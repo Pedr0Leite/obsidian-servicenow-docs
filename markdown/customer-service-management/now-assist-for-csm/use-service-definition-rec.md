@@ -28,7 +28,7 @@ Role required: sn\_esm\_agent
 
 2.  Select **Create Case.**
 
-    The [[csm-case-type-select-modals|case type selector]] modal displays, with the **AI predictions** section at the top of the modal.
+    The case type selector modal displays, with the **AI predictions** section at the top of the modal.
 
 3.  Select a service from the AI predictions, and then select **Create case**.
 
@@ -37,6 +37,3 @@ Role required: sn\_esm\_agent
 
 **Parent Topic:**[Using Now Assist for Customer Service Management \(CSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/now-assist-csm-using.md)
 
-## Related
-
-- [[csm-case-type-select-modals|Case type selector]]

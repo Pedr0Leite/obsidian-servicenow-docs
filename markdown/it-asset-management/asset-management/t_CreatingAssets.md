@@ -14,7 +14,7 @@ breadcrumb: [Work with Asset and CI, Use, Asset Management, IT Asset Management]
 
 # Create assets
 
-Create hardware, software, consumable, bundle, pallet, mobile, and facility assets using the Core UI or the [[using-ham-workspace|Hardware Asset Workspace]].
+Create hardware, software, consumable, bundle, pallet, mobile, and facility assets using the Core UI or the Hardware Asset Workspace.
 
 ## Before you begin
 
@@ -64,7 +64,7 @@ Action
 
 
 </td></tr></tbody>
-</table>2.  On the [[asset-record-fields|Asset record fields]] form, fill in the fields.
+</table>2.  On the Asset record fields form, fill in the fields.
 
     For a description of the field values, see [Asset record fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/asset-record-fields.md).
 
@@ -73,7 +73,3 @@ Action
 
 **Parent Topic:**[Work with Asset and CI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/work-with-asset-ci.md)
 
-## Related
-
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[asset-record-fields|Asset record fields]]

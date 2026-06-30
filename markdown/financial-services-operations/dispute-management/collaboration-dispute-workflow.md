@@ -33,7 +33,7 @@ Description
 </td><td>
 
 1.  The chargeback process gets initiated and the merchant response is submitted Visa for review.
-2.  After the batch queue is triggered, the transaction moves to **Work in progress**. For more information on how to configure the batch queue, see [[activate-visa-queue-scheduler-flow|Configure the Visa Queue Scheduler Flow]].
+2.  After the batch queue is triggered, the transaction moves to **Work in progress**. For more information on how to configure the batch queue, see [Configure the Visa Queue Scheduler Flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/activate-visa-queue-scheduler-flow.md).
 
 </td></tr><tr><td>
 
@@ -102,7 +102,7 @@ This is a part of the collaboration dispute workflow for the **Chargeback** stag
 -   **[Associate dispute transaction](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/associate-dispute-transaction.md)**  
 List associated transactions identified by Visa after the chargeback creation. Review these transactions and associate them with the disputed transaction to help deflect and resolve the dispute in the next activity.
 -   **[Review a dispute response and initiate pre-arbitration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/review-dispute-response-and-create-pre-arbitration.md)**  
-Review a merchant’s response for the dispute and initiate pre-arbitration, if necessary for the collaboration dispute workflow for the [[chargeback-stage|Chargeback stage]].
+Review a merchant’s response for the dispute and initiate pre-arbitration, if necessary for the collaboration dispute workflow for the Chargeback stage.
 -   **[Review the pre-arbitration response and create a case filing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/review-pre-arbitration-response-and-create-case-filing.md)**  
 Review the merchant’s response to the pre-arbitration and create a case filing.
 -   **[Review a case filing response and appeal the decision](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/review-case-filing-response-and-appeal.md)**  
@@ -116,7 +116,3 @@ Reverse the temporary credit issued by the bank to the card holder.
 
 **Parent Topic:**[Chargeback stage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/chargeback-stage.md)
 
-## Related
-
-- [[activate-visa-queue-scheduler-flow|Configure the Visa Queue Scheduler Flow]]
-- [[chargeback-stage|chargeback stage]]

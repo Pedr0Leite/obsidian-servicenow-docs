@@ -14,7 +14,7 @@ breadcrumb: [Developing custom widgets, Service Portal, Configure UIs and portal
 
 # Reuse components with Angular Providers
 
-Angular Providers are reusable components that can be injected into multiple widgets. To ensure quick loading widgets and a high performing portal, create Angular Providers instead of overloading your client controllers with persistent data and additional logic. With Angular Providers, you can maintain data for the lifetime of your [[c_ServicePortal|Service Portal]] and reuse components and data objects across multiple widgets.
+Angular Providers are reusable components that can be injected into multiple widgets. To ensure quick loading widgets and a high performing portal, create Angular Providers instead of overloading your client controllers with persistent data and additional logic. With Angular Providers, you can maintain data for the lifetime of your Service Portal and reuse components and data objects across multiple widgets.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin or sp\_admin
 
 By creating an Angular Provider, you can:
 
--   Keep widgets in sync when changing records or [[c_Filters|filters]].
+-   Keep widgets in sync when changing records or filters.
 -   Share context between widgets.
 -   Maintain and persist state.
 -   Create behaviors and inject them into multiple widgets.
@@ -73,7 +73,7 @@ To learn more, visit [Angular Providers](https://docs.angularjs.org/guide/provid
 
     2.  Open the widget you would like to associate with the Angular Provider.
 
-    3.  Under **[[c_RelatedLists|Related Lists]]**, select **Angular Providers**.
+    3.  Under **Related Lists**, select **Angular Providers**.
 
     4.  In the **Angular Providers** list, click **New**.
 
@@ -116,8 +116,3 @@ To use an Angular Provider with multiple widgets, register your Provider with ea
 
 **Parent Topic:**[Developing custom widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/widget-dev-guide.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[c_Filters|Filters]]
-- [[c_RelatedLists|Related lists]]

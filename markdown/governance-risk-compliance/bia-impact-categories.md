@@ -12,7 +12,7 @@ breadcrumb: [Structured workflows for BIAs, Manage, Business Continuity Manageme
 
 # Impact categories and ratings
 
-Impact categories are the types of an impact that you can assess during a [[bia-uib|business impact analysis]]. The BCM administrator of an organization is responsible for defining the impact categories and the timeframe during which an organization may experience a downtime. This information is used to determine the recovery time objective and recovery point objective of the assets.
+Impact categories are the types of an impact that you can assess during a business impact analysis. The BCM administrator of an organization is responsible for defining the impact categories and the timeframe during which an organization may experience a downtime. This information is used to determine the recovery time objective and recovery point objective of the assets.
 
 ## Broad classification of the impact categories
 
@@ -67,7 +67,7 @@ The BCM administrators can configure the details of a new impact category:
 
 ## Impact category configuration by BCM administrators
 
-For more information on how to configure an impact category with the sn\_bcm.admin role, see [[configure-impact-category-uib-ws|Configure impact category for BIA]].
+For more information on how to configure an impact category with the sn\_bcm.admin role, see [Configure impact category for BIA](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-impact-category-uib-ws.md).
 
 ## Impact ratings in BCM
 
@@ -110,13 +110,7 @@ The BCM administrators can configure details of an impact rating for the busines
 
 ## Impact rating configuration by the administrators
 
-For more information on how to configure an impact rating with the sn\_bcm.admin role, see [[configure-impact-rating-uib-ws|Configure impact ratings]].
+For more information on how to configure an impact rating with the sn\_bcm.admin role, see [Configure impact ratings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-impact-rating-uib-ws.md).
 
-**Parent Topic:**[[bia-tasks-performed-by-bia-owner|Structured workflows for BIAs]]
+**Parent Topic:**[Structured workflows for BIAs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bia-tasks-performed-by-bia-owner.md)
 
-## Related
-
-- [[configure-impact-category-uib-ws|Configure impact category for BIA]]
-- [[configure-impact-rating-uib-ws|Configure impact ratings]]
-- [[bia-tasks-performed-by-bia-owner|Structured workflows for BIAs]]
-- [[bia-uib|Business impact analysis]]

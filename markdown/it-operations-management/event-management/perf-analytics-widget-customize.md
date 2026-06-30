@@ -22,7 +22,7 @@ Role required: user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Performance Analytics** &gt; **[[otto-aiops-dashboards|Dashboards]]**.
+1.  Navigate to **All** &gt; **Performance Analytics** &gt; **Dashboards**.
 
 2.  On the **Dashboards** page, select a dashboard to view.
 
@@ -41,6 +41,3 @@ Users with the admin role can customize colors and fonts. To customize fonts, na
 
 **Parent Topic:**[Event Management Platform Analytics Solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/event-content-pack.md)
 
-## Related
-
-- [[otto-aiops-dashboards|Dashboards]]

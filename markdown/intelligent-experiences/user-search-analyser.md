@@ -12,13 +12,13 @@ breadcrumb: [Using Now Assist Analytics, Analyzing Now Assist performance, Explo
 
 # User search analyzer
 
-Gain insights into user search queries and results provided by [[platform-now-assist-landing|Now Assist]].
+Gain insights into user search queries and results provided by Now Assist.
 
 The User search analyzer dashboard page contains indicators that help admins understand the effectiveness of search in enhancing the self-service experience. Equipped with insights from the dashboard, Knowledge admins can improve Knowledge content and availability for search.
 
 \[Omitted image "naa-usa-full-page.png"\] Alt text: User search analyzer dashboard page.
 
-The indicators on the User search analyzer dashboard page provide the following insights. See [[now-assist-analytics-dashboard-indicators|Now Assist Analytics dashboard indicator details]] for information on the data and calculations behind each indicator.
+The indicators on the User search analyzer dashboard page provide the following insights. See [Now Assist Analytics dashboard indicator details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-analytics-dashboard-indicators.md) for information on the data and calculations behind each indicator.
 
 -   Search queries that yielded Knowledge Base articles and catalog items as Genius Result.
 -   Distribution of search queries by the source that they originated from, for example, Now Assist in Virtual Agent, Service Portal.
@@ -95,10 +95,5 @@ The indicators on the User search analyzer dashboard page provide the following 
     \[Omitted image "naa-usa-genius-result-top-ten-with-catalog-item.png"\] Alt text: Top 10 queries with Catalog Item Genius Result indicator.
 
 
-**Parent Topic:**[[using-now-assist-analytics|Using Now Assist Analytics]]
+**Parent Topic:**[Using Now Assist Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/using-now-assist-analytics.md)
 
-## Related
-
-- [[now-assist-analytics-dashboard-indicators|Now Assist Analytics dashboard indicator details]]
-- [[using-now-assist-analytics|Using Now Assist Analytics]]
-- [[platform-now-assist-landing|Now Assist]]

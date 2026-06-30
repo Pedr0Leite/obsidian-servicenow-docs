@@ -104,7 +104,7 @@ Closed
 After proposing a solution, an agent waits for the customer to respond. -   If the customer clicks **Accept Solution**, the state changes from **Resolved** to **Closed**.
 -   If the customer clicks **Reject Solution**, the state changes from **Resolved** to **Open**.
 
- An agent, agent manager, or a customer can [[osp-close-case|close a case]] at any time, except when it is in the **Resolved** state. When it is in the **Resolved** state, only a customer can accept or reject the proposed solution.
+ An agent, agent manager, or a customer can close a case at any time, except when it is in the **Resolved** state. When it is in the **Resolved** state, only a customer can accept or reject the proposed solution.
 
  When an agent or agent manager closes a case, details must be included in the **Resolution notes**. This is not required when a customer closes a case.
 
@@ -116,6 +116,3 @@ After proposing a solution, an agent waits for the customer to respond. -   If t
 
 [State flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_StateFlows.md)
 
-## Related
-
-- [[osp-close-case|Close a case]]

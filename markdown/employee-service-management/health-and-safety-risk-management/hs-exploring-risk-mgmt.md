@@ -14,24 +14,24 @@ breadcrumb: [Health and Safety Risk Management, Health and Safety, Employee Serv
 
 # Exploring Health and Safety Risk Management
 
-Learn more about [[hs-risk-management-landing-page|Health and Safety Risk Management]] and review the benefits it can provide for different users in your organization.
+Learn more about Health and Safety Risk Management and review the benefits it can provide for different users in your organization.
 
 ## Health and Safety Risk Management overview
 
-Health and Safety Risk Management provides safety incident prevention capabilities in the form of tools such as Risk assessment, [[hs-job-safety-analysis|Job Safety Analysis]] \(JSA\), [[hs-safety-registers|Safety registers]], and Inspections and Audits.
+Health and Safety Risk Management provides safety incident prevention capabilities in the form of tools such as Risk assessment, Job Safety Analysis \(JSA\), Safety registers, and Inspections and Audits.
 
--   [[hs-risk-assessment|Safety Risk Assessment]] enables safety teams to conduct hazard risk assessments, to assess risk before and after the controls are applied, using custom risk matrixes. Risk assessments help organizations bolster workplace safety, help prevent incidents, and promote a safety-conscious culture by proactively managing risks tailored to their workplace environments and sectors.​
+-   Safety Risk Assessment enables safety teams to conduct hazard risk assessments, to assess risk before and after the controls are applied, using custom risk matrixes. Risk assessments help organizations bolster workplace safety, help prevent incidents, and promote a safety-conscious culture by proactively managing risks tailored to their workplace environments and sectors.​
 -   Job Safety Analysis enables employees \(and line managers\) to analyze job-specific hazards and identify the relevant control measures for high-risk jobs at their point of work. JSAs are intended to promote worker's hazard awareness and help prevent hazards from causing injury. Safety team can also view and assess the filed JSAs to perform risk assessments.
 -   Safety Register helps safety teams and line managers to track hazardous materials like chemicals and asbestos, as well as attach Safety Data Sheets \(SDSs\) that employees can easily access.
--   [[hs-safety-inspections|Safety inspections and audits]] enable safety teams to build and manage safety inspections and audits. Inspections and audits support conformance with regulatory standards while reducing the risks of workplace accidents and associated costs.
--   [[hs-safety-exposures|Safety exposure management]] enables seamless monitoring of exposures across an organization. Safety team and industrial hygienists can perform exposure assessment across different locations and follow up actions to control exposures and keep workers safe.
+-   Safety inspections and audits enable safety teams to build and manage safety inspections and audits. Inspections and audits support conformance with regulatory standards while reducing the risks of workplace accidents and associated costs.
+-   Safety exposure management enables seamless monitoring of exposures across an organization. Safety team and industrial hygienists can perform exposure assessment across different locations and follow up actions to control exposures and keep workers safe.
 -   The permit-to-work process helps manage formal authorization for workers who request permits to perform tasks involving significant risks. This process promotes safety, effective communication, and accountability and enhances operational efficiency.
 
 ## Health and Safety Risk Management workflow
 
 -   **Safety risk assessment**
 
-    The safety team performs the following activities via the [[health-safety-core-workspace|Health and Safety Workspace]] to conduct their risk assessments.
+    The safety team performs the following activities via the Health and Safety Workspace to conduct their risk assessments.
 
     -   Builds risk matrixes to define levels of risk using likelihood vs severity and define risk tolerances.​
     -   Conducts risk assessments using the predefined risk matrixes. The chosen matrix evaluates the level of risk for a risk assessment.​
@@ -44,7 +44,7 @@ Health and Safety Risk Management provides safety incident prevention capabiliti
 
     -   Safety team manages the hazard and controls lists in the Health and Safety Workspace.​
     -   Safety team also maintains the job register in the Health and Safety Workspace that pre-identifies hazards and controls for jobs in their organization.​
-    -   Employees submit JSAs in [[employee-center-landing-page|Employee Center]] or on [[mobile-employee-experience|Now Mobile app]]. They can select a job or job step to pre-populate hazards and controls, or they can start from scratch with an empty JSA.​​
+    -   Employees submit JSAs in Employee Center or on Now Mobile app. They can select a job or job step to pre-populate hazards and controls, or they can start from scratch with an empty JSA.​​
 -   **Safety registers**
     -   Safety team manages safety registers like chemicals and asbestos in the Health and Safety Workspace. The safety team also attaches Safety Data Sheets \(SDSs\) to safety register records.
     -   Employees can search and access these SDSs in the Employee Center or on Now Mobile app.
@@ -236,14 +236,3 @@ Identify hazards, implement precautions, and maintain accountability to promote 
 </td></tr></tbody>
 </table>**Parent Topic:**[Health and Safety Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-risk-management-landing-page.md)
 
-## Related
-
-- [[hs-risk-management-landing-page|Health and Safety Risk Management]]
-- [[hs-job-safety-analysis|Job safety analysis]]
-- [[hs-safety-registers|Safety registers]]
-- [[hs-risk-assessment|Safety risk assessment]]
-- [[hs-safety-inspections|Safety inspections and audits]]
-- [[hs-safety-exposures|Safety exposure management]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[employee-center-landing-page|Employee Center]]
-- [[mobile-employee-experience|Now Mobile app]]

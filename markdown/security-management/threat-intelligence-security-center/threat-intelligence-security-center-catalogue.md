@@ -14,7 +14,7 @@ breadcrumb: [Integrate, Threat Intelligence Security Center, Security Operations
 
 # Threat Intelligence Security Center Catalog
 
-The Threat Intelligence Security Center Catalog is a curated list of [[threat-intelligence-feeds|Threat Intelligence feeds]] and enrichment integrations available in the application. You can enable them after adding the required information and schedule the feed to automatically ingest [[threat-intel-landing-page|Threat Intelligence]] data on a set frequency.
+The Threat Intelligence Security Center Catalog is a curated list of Threat Intelligence feeds and enrichment integrations available in the application. You can enable them after adding the required information and schedule the feed to automatically ingest Threat Intelligence data on a set frequency.
 
 As a sn\_sec\_tisc.admin, you can search and edit existing source configurations, enable or disable them, and delete configurations from the Catalog. When you add a data source to the Catalog, it appears as a new configuration card.
 
@@ -87,7 +87,3 @@ Use this action to search for feeds and integrations based on the name and descr
 
 [TISC Integrations]()
 
-## Related
-
-- [[threat-intelligence-feeds|Threat Intelligence Feeds]]
-- [[threat-intel-landing-page|Threat Intelligence]]

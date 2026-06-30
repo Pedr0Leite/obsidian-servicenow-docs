@@ -28,7 +28,7 @@ The following information is available in the Pareto chart for Knowledge Demand 
 
 The following figure displays a Pareto chart for identifying candidate knowledge gaps for incidents.
 
-\[Omitted image "example-demand-insights-incidents.png"\] Alt text: Pareto report for [[knowledge-demand-insights|Knowledge Demand Insights]] for incidents
+\[Omitted image "example-demand-insights-incidents.png"\] Alt text: Pareto report for Knowledge Demand Insights for incidents
 
 **Parent Topic:**[Analytics and Reporting Solutions for Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/analytics-and-reporting-solutions-for-knowlege-management.md)
 
@@ -43,6 +43,3 @@ The following figure displays a Pareto chart for identifying candidate knowledge
 
 [Knowledge demand insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/knowledge-demand-insights.md)
 
-## Related
-
-- [[knowledge-demand-insights|Knowledge demand insights]]

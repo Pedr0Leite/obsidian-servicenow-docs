@@ -22,7 +22,7 @@ Role required: sn\_cmp.cloud\_governor
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Govern** &gt; **Quota**.
+1.  In the Cloud Admin Portal, navigate to **Govern** &gt; **Quota**.
 
 2.  Click **New**.
 
@@ -158,6 +158,3 @@ You have specified the cloud quota definitions and quota limits for users and us
 
 [Resource blocks in Cloud Provisioning and Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/resource-blocks.md)
 
-## Related
-
-- [[cloud-admin-portal|Cloud Admin Portal]]

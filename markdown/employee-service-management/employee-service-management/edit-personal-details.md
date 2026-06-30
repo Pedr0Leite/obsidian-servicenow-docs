@@ -18,7 +18,7 @@ Role required: sn\_asc.alumni
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[alumni-service-center|Alumni Center]]** &gt; **Profile**.
+1.  Navigate to **All** &gt; **Alumni Center** &gt; **Profile**.
 
 2.  Select Personal details.
 
@@ -53,6 +53,3 @@ Role required: sn\_asc.alumni
 
 [Add other employment details]()
 
-## Related
-
-- [[alumni-service-center|Alumni Center]]

@@ -26,7 +26,7 @@ Role required: admin
 
 2.  Select **New**.
 
-3.  On the screen titled **What kind of OAuth application**, select **[[c_Connect|Connect]] to a third-party OAuth Provider**.
+3.  On the screen titled **What kind of OAuth application**, select **Connect to a third-party OAuth Provider**.
 
 4.  On the form, fill in the fields.
 
@@ -109,7 +109,7 @@ Redirect URL
 
     1.  Select **Insert a new row**.
 
-    2.  Enter the name and the OAuth scope of the permission, which for these [[document-services-landing-page|Document Services]] scopes are the same for both values.
+    2.  Enter the name and the OAuth scope of the permission, which for these Document Services scopes are the same for both values.
 
         -   Files.Read
         -   Files.Read.All
@@ -127,7 +127,3 @@ The system validates the OAuth credentials.
 
 **Parent Topic:**[Microsoft OneDrive integration with Document Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/one-drive-integration.md)
 
-## Related
-
-- [[c_Connect|Connect]]
-- [[document-services-landing-page|Document Services]]

@@ -22,7 +22,7 @@ Starting Australia, Project Workbench is no longer deployed, enhanced, supported
 
 Existing customers: If you have Project Workbench implemented in your instance, you can continue using it. The application remains in your instance and your data is intact. However, it is treated as custom code. ServiceNow Technical Support will no longer provide fixes, patches, or upgrades for any issues.
 
-The workbench supports the [[c_ProjectApplicationOverview|Project Management]] and application life cycle management applications, allowing for a hybrid approach to project management. Project managers can create projects that combine both waterfall and agile methodologies and add waterfall, agile, and test phases to these projects.
+The workbench supports the Project Management and application life cycle management applications, allowing for a hybrid approach to project management. Project managers can create projects that combine both waterfall and agile methodologies and add waterfall, agile, and test phases to these projects.
 
 The project workbench makes it easy to manage projects by presenting project information in two panes. The top pane displays a timeline with the project phases and milestones. The bottom pane displays details for the phase selected in the timeline. The project workbench provides real-time interaction between the timeline, the list view, and the visual task board.
 
@@ -30,14 +30,14 @@ The project workbench also supports the following features:
 
 -   **Project templates**: Project managers can quickly and easily create projects based on templates, which define the basic structure of a project.
 -   **Manual project calculation**: The workbench adds the capability of creating projects that use manual calculation. Project managers can also create auto calculation projects from the Project Management application.
--   **[[composite-fields|Composite fields]]**: The field type combines information from two fields in a table to form a single field.
+-   **Composite fields**: The field type combines information from two fields in a table to form a single field.
 
 With the project manager role, you can use the project workbench to:
 
 -   Manage projects.
 -   Create and update project phases and milestones.
--   Create and update [[t_CreateAProjectTask|project tasks]], stories, and [[c_TestCases|test cases]].
--   Attach [[c_TestPlans|test plans]] to a test phase.
+-   Create and update project tasks, stories, and test cases.
+-   Attach test plans to a test phase.
 -   View and manage project details from a list view or visual task board.
 
 The project workbench displays project information in two distinct areas. The top pane displays the project visualization, and the bottom pane displays phase details in a list view or visual task board. There is also a header above the workbench that includes several buttons and controls.
@@ -47,7 +47,7 @@ The project workbench scales to fit the available browser height. If necessary, 
 \[Omitted image "ProjectWorkbench.png"\] Alt text: The project workbench
 
 -   **[Access the project workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_AccessTheProjectWorkbench.md)**  
-[[t_AccessTheProjectWorkbench|Access the project workbench]] from the [[create-a-project-form|Project form]] or from the application navigator.
+Access the project workbench from the Project form or from the application navigator.
 -   **[Components of project workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/components-project-workbench.md)**  
 The project workbench displays project information in two distinct areas. The top pane displays the project visualization, and the bottom pane displays phase details in a list view or visual task board. There is also a header above the workbench that includes several buttons and controls.
 -   **[Project calculation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_ProjectWorkbenchProjectCalc.md)**  
@@ -57,12 +57,3 @@ The project workbench allows project managers to manage all aspects of a project
 
 **Parent Topic:**[Using Project Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/using-project-management.md)
 
-## Related
-
-- [[c_ProjectApplicationOverview|Project Management]]
-- [[composite-fields|Composite Fields]]
-- [[t_CreateAProjectTask|Project tasks]]
-- [[c_TestCases|Test cases]]
-- [[c_TestPlans|Test plans]]
-- [[t_AccessTheProjectWorkbench|Access the project workbench]]
-- [[create-a-project-form|Project form]]

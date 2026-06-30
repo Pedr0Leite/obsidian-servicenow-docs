@@ -47,7 +47,7 @@ Deleting a checklist template has no effect on checklists created from that temp
     4.  In the confirmation dialog box, click **Delete**.
 
 
-**Parent Topic:**[[c_Checklists|Checklists]]
+**Parent Topic:**[Checklists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_Checklists.md)
 
 **Related topics**  
 
@@ -56,6 +56,3 @@ Deleting a checklist template has no effect on checklists created from that temp
 
 [Create a checklist]()
 
-## Related
-
-- [[c_Checklists|Checklists]]

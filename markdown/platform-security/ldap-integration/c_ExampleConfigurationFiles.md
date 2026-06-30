@@ -18,7 +18,7 @@ All of the configurations for ADAMSync are stored in xml files.
 
 ## Default configuration file with comments
 
-There is a default [[sc-configuration|configuration]] file called MS-AdamSyncConf.xml included with the ADAMSync install. Make a copy of this file so you have a base example to refer to in the future. This example is the default configuration file with comments added.
+There is a default configuration file called MS-AdamSyncConf.xml included with the ADAMSync install. Make a copy of this file so you have a base example to refer to in the future. This example is the default configuration file with comments added.
 
 ```
 <?xml version="1.0"?>
@@ -36,7 +36,7 @@ There is a default [[sc-configuration|configuration]] file called MS-AdamSyncCon
   <source-ad-account>;</source-ad-account>;                
   <account-domain>;</account-domain>;
 <!-- target-dn = target ADAM OU -->;
-  <target-dn>;ou=servicenow [[users|users]],dc=myCompany,dc=adam</target-dn>;		
+  <target-dn>;ou=servicenow users,dc=myCompany,dc=adam</target-dn>;		
   <query>;			
 <!-- base-dn = should be the root AD partition if you want all users -->;
    <base-dn>;dc=myCompany,dc=com</base-dn>;
@@ -158,7 +158,3 @@ Here's an actual configuration file that can be referenced as a sample.
 
 ```
 
-## Related
-
-- [[sc-configuration|Configuration]]
-- [[users|Users]]

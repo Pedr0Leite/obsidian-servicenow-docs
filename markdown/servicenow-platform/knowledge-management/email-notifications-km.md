@@ -16,7 +16,7 @@ breadcrumb: [Using Knowledge Management, Knowledge Management, Manage content ca
 
 Reminders enable relevant users to review knowledge articles and complete tasks associated with them.
 
-By default, the [[knowledge-management|Knowledge Management]] application includes the following types of [[email|email]] notifications:
+By default, the Knowledge Management application includes the following types of email notifications:
 
 -   [Email notifications for knowledge article feedback tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/email-notifications-km.md).
 -   [Email notifications for knowledge subscriptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/email-notifications-km.md).
@@ -45,7 +45,7 @@ The following table describes the recipient list of notifications for knowledge 
 
 ## Email notifications for knowledge subscriptions
 
-The email notifications for [[knowledge-article-subscriptions|knowledge subscriptions]] are available when your administrator activates the Knowledge Management Core plugin \(com.glideapp.knowledge\). For notifications associated with [[enable-ownership-group|ownership groups]], your administrator must also [[activate-knowledge-advanced-plugin|activate the Knowledge Management Advanced plugin]] \(com.snc.knowledge\_advanced\).
+The email notifications for knowledge subscriptions are available when your administrator activates the Knowledge Management Core plugin \(com.glideapp.knowledge\). For notifications associated with ownership groups, your administrator must also activate the Knowledge Management Advanced plugin \(com.snc.knowledge\_advanced\).
 
 The following table describes the recipient list of notifications for knowledge subscriptions and the associated conditions when a notification is sent.
 
@@ -136,7 +136,7 @@ A knowledge article in a subscribed knowledge base was edited.
 -   Knowledge base subscriber
 
 </td></tr></tbody>
-</table>**Note:** An email notification is sent to a reviser of a knowledge article when the [[article-versioning|article versioning]] feature is enabled.
+</table>**Note:** An email notification is sent to a reviser of a knowledge article when the article versioning feature is enabled.
 
 ## Email notifications for knowledge article approval publishing workflow
 
@@ -318,11 +318,3 @@ Set notification preferences for knowledge bases and knowledge articles.
 
 [Knowledge subscriptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/knowledge-article-subscriptions.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]
-- [[email|Email]]
-- [[knowledge-article-subscriptions|Knowledge subscriptions]]
-- [[enable-ownership-group|Ownership groups]]
-- [[activate-knowledge-advanced-plugin|Activate the Knowledge Management Advanced plugin]]
-- [[article-versioning|Article versioning]]

@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  In the [[domain-separation-center|Domain Separation Center]], click **Configure Audits**.
+1.  In the Domain Separation Center, click **Configure Audits**.
 
     T appears.
 
@@ -40,6 +40,4 @@ Role required: admin
 
 3.  Click **Save**.
 
-## Related
 
-- [[domain-separation-center|Domain Separation Center]]

@@ -12,7 +12,7 @@ breadcrumb: [Configure Proactive Customer Service, Extend capabilities, Configur
 
 # Activate an alert rule to automatically create a proactive case from an alert
 
-Configure an alert rule to automatically create a proactive case when an incident is created from an alert that has one or more affected [[install-base-item|install base items]].
+Configure an alert rule to automatically create a proactive case when an incident is created from an alert that has one or more affected install base items.
 
 ## Before you begin
 
@@ -20,11 +20,11 @@ Role required: evt\_mgmt\_admin
 
 ## About this task
 
-**Note:** This task is only applicable if you are using the [[pcso-event-management|integration with Event Management]].
+**Note:** This task is only applicable if you are using the integration with Event Management.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Event Management** &gt; **[[gamification-components-rules|Rules]]** &gt; **Alert Management**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Rules** &gt; **Alert Management**.
 
 2.  Click **Create Proactive Case**.
 
@@ -34,8 +34,4 @@ Role required: evt\_mgmt\_admin
 
     When an incident is created from an alert that contains affected install base items, a case is automatically created. The case number is added to the **Case** field on the Alert form.
 
-## Related
 
-- [[install-base-item|Install base items]]
-- [[pcso-event-management|Integration with Event Management]]
-- [[gamification-components-rules|Rules]]

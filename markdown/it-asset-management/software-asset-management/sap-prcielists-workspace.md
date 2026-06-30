@@ -14,7 +14,7 @@ breadcrumb: [Using Software Asset Workspace, Software Asset Management, IT Asset
 
 # Create custom SAP price lists in workspace
 
-[[create-sap-pricelist|Create custom SAP price lists]] so that you can track and manage SAP licenses based on the [[c_Contracts|contracts]] that are specific to your SAP system.
+Create custom SAP price lists so that you can track and manage SAP licenses based on the contracts that are specific to your SAP system.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sam\_admin
 
 ## Procedure
 
-1.  From the [[sam-workspace|Software Asset Workspace]], open the [[operations-workspace|License operations view]].
+1.  From the Software Asset Workspace, open the License operations view.
 
 2.  From the left navigation menu of the License operations view, select **Discovery** &gt; **SAP price lists**.
 
@@ -67,9 +67,3 @@ Role required: sam\_admin
 
 **Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/using-sam-workspace.md)
 
-## Related
-
-- [[create-sap-pricelist|Create custom SAP price lists]]
-- [[c_Contracts|Contracts]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[operations-workspace|License operations view]]

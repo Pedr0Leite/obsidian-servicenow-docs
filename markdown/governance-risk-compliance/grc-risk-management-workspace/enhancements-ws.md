@@ -20,7 +20,7 @@ In the new workspace, several enhancements have been made to ease the way you pe
 
 The new workspace offers the following views for the users.
 
--   **[[list-view-uib-ws|List view]]**
+-   **List view**
 
     The list view shows a simplified list of all the modules. You can access the list view by clicking the List icon \(\[Omitted image "list-icon-risk-workspace.png"\] Alt text: List view icon.\).
 
@@ -45,9 +45,9 @@ The new workspace offers the following views for the users.
 
 -   **360° relationship view**
 
-    The 360º view feature enables you to view the relationships between a selected record and related objects, such as controls, risks, and [[entity-type-in-risk-ws|entity types]]. The 360º view also enables you to interact with all records displayed. For more information, refer to [360° Relationship Visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-360-degree-relationship-visualization/grc-360-deg-rel-vis.md).
+    The 360º view feature enables you to view the relationships between a selected record and related objects, such as controls, risks, and entity types. The 360º view also enables you to interact with all records displayed. For more information, refer to [360° Relationship Visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-360-degree-relationship-visualization/grc-360-deg-rel-vis.md).
 
--   **[[breadcrumb-navigation|Breadcrumb navigation]]**
+-   **Breadcrumb navigation**
 
     The breadcrumb style navigation provides a browser path to navigate a hierarchy of linked pages with related content. The breadcrumb style navigation provides a digital trail from the user's starting point to the current content, with the ability to navigate to each link.​ For more information, refer to [Breadcrumb navigation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/breadcrumb-navigation.md)
 
@@ -58,8 +58,3 @@ The new workspace offers the following views for the users.
 
 **Parent Topic:**[GRC Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/risk-workspace.md)
 
-## Related
-
-- [[list-view-uib-ws|List view]]
-- [[entity-type-in-risk-ws|Entity types]]
-- [[breadcrumb-navigation|Breadcrumb navigation]]

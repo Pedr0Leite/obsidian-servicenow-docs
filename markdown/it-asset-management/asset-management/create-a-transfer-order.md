@@ -20,7 +20,7 @@ Create a transfer order to move one or more assets from a source stockroom to a 
 
 Role required: inventory\_user
 
-The inventory\_user, asset, or [[c_Procurement|procurement]]\_user role can only access the Transfer Order \[alm\_transfer\_order\] reports. You must activate the Procurement \(com.snc.procurement\) plugin for the inventory\_user, asset, and procurement\_user roles.
+The inventory\_user, asset, or procurement\_user role can only access the Transfer Order \[alm\_transfer\_order\] reports. You must activate the Procurement \(com.snc.procurement\) plugin for the inventory\_user, asset, and procurement\_user roles.
 
 ## Procedure
 
@@ -52,6 +52,3 @@ Create transfer order lines to specify the items that the transfer order compris
 
 [Create transfer order line](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/create-transfer-order-line.md)
 
-## Related
-
-- [[c_Procurement|Procurement]]

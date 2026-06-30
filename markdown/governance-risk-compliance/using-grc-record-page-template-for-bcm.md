@@ -26,12 +26,8 @@ A record in the BCM application with the GRC record template is shown in the exa
 
 The stepper component on the **Overview** tab shows the progression of the states for the record.
 
--   **[[stepper-component|Stepper component in the Overview tab of the records]]**  
+-   **[Stepper component in the Overview tab of the records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/stepper-component.md)**  
 The stepper component on the **Overview** tab shows the progression of the states for the record.
 
-**Parent Topic:**[[bcm-reference|BCM reference]]
+**Parent Topic:**[BCM reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bcm-reference.md)
 
-## Related
-
-- [[stepper-component|Stepper component in the Overview tab of the records]]
-- [[bcm-reference|BCM reference]]

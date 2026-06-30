@@ -14,18 +14,18 @@ breadcrumb: [Additional Cloud Provisioning and Governance setup on day 2, Cloud 
 
 # Discover all resources in a datacenter on-demand
 
-At any time, you can run [[r-discovery|Discovery]] on a datacenter to update the CMDB.
+At any time, you can run Discovery on a datacenter to update the CMDB.
 
 ## Before you begin
 
 -   A cloud account must exist with service accounts and associated datacenters. You must run on-demand Discovery to discover datacenters before you can schedule Discovery.
--   Use the [[cow-landing-page|Cloud Discovery Workspace]], and at least version 1.15 of Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns from the ServiceNow Store.
+-   Use the Cloud Discovery Workspace, and at least version 1.15 of Discovery and Service Mapping Patterns from the ServiceNow Store.
 
 Role required: sn\_cmp.cloud\_admin
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Manage** &gt; **[[cloud-accounts|Cloud Accounts]]**.
+1.  In the Cloud Admin Portal, navigate to **Manage** &gt; **Cloud Accounts**.
 
 2.  Click a cloud account and, on the **Datacenters** tab, select a datacenter.
 
@@ -87,7 +87,7 @@ Discover Now is activated.**Note:** Discovery will now use Patterns as the defau
 
 Discovery populates the CMDB with the discovered resources and updates the information on the **Resources** tab. You can view Discovery results in the **Discovery Log** tab.
 
-**Note:** By default, Discovery stores the discovered VM hardware types in the Hardware Type \[cmdb\_ci\_compute\_template\] table. If you notice an unusually large number of records in this table, use the Cloud Hardware Type \[cmdb\_ci\_cloud\_hardware\_type\] table to store the discovered VM hardware types. For more information, see [Enable the Cloud Hardware Type class extension](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/enable-hardware-type-class-extension.md). All [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] features, such as provisioning, quotas, and so on continue to work as is after you switch to the Cloud Hardware Type table.
+**Note:** By default, Discovery stores the discovered VM hardware types in the Hardware Type \[cmdb\_ci\_compute\_template\] table. If you notice an unusually large number of records in this table, use the Cloud Hardware Type \[cmdb\_ci\_cloud\_hardware\_type\] table to store the discovered VM hardware types. For more information, see [Enable the Cloud Hardware Type class extension](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/enable-hardware-type-class-extension.md). All Cloud Provisioning and Governance features, such as provisioning, quotas, and so on continue to work as is after you switch to the Cloud Hardware Type table.
 
 **Parent Topic:**[Additional Cloud Provisioning and Governance setup on day 2](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-mgt-general-setup-day-2.md)
 
@@ -96,11 +96,3 @@ Discovery populates the CMDB with the discovered resources and updates the infor
 
 [View the Discovery Log](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_DiscoveryLog.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[cow-landing-page|Cloud Discovery Workspace]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[cloud-admin-portal|Cloud Admin Portal]]
-- [[cloud-accounts|Cloud accounts]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]

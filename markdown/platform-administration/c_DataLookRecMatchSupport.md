@@ -14,7 +14,7 @@ breadcrumb: [Administer, Field administration, Forms, fields, and lists, Configu
 
 The data lookup and record matching feature enables administrators to define rules that automatically set one or more field values when certain conditions are met.
 
-[[c_DataLookupRules|Data lookup rules]] allow administrators to specify the conditions and fields where they want data lookups to occur. For example, on Incident forms, there are priority lookup rules for the sample data that automatically set the incident **Priority** based on the incident **Impact** and **Urgency** values.
+Data lookup rules allow administrators to specify the conditions and fields where they want data lookups to occur. For example, on Incident forms, there are priority lookup rules for the sample data that automatically set the incident **Priority** based on the incident **Impact** and **Urgency** values.
 
 **Note:** Activating the Data Lookup and Record Matching Support plugin replaces the **calculatePriority** business rule with a priority data lookup definition, but does not transfer any custom logic. If you manually activate the plugin, you must recreate any custom business logic that uses the priority lookup rules.
 
@@ -27,6 +27,3 @@ The following codes will be removed by manually activating the **com.glide.data\
 -   ys\_script\_d1b7d4af4655e7c2001be4c18b99215a
 -   sys\_script\_include\_9e1904840a0a0b7d00d5ee8d0e2d89ef
 
-## Related
-
-- [[c_DataLookupRules|Data lookup rules]]

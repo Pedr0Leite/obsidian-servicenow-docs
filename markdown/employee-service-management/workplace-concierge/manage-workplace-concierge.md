@@ -19,10 +19,7 @@ Manage Employee routines, collaborators, and exceptions. Monitor the routines, c
 -   **[View employee presence modules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/view-employee-routines-and-collaborators.md)**  
 Track the routines and exceptionscreated by employees and the collaborators added by employees.
 -   **[Create custom insights using Proactive Prompts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)**  
-Use [[proactive-prompts-for-hrsd|Proactive Prompts]] to create insight sections for the employee presence dashboard.
+Use Proactive Prompts to create insight sections for the employee presence dashboard.
 
 **Parent Topic:**[Workplace Concierge](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/workplace-concierge-feat.md)
 
-## Related
-
-- [[proactive-prompts-for-hrsd|Proactive Prompts]]

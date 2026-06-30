@@ -14,7 +14,7 @@ breadcrumb: [Leader Hub, HR Service Delivery, Employee Service Management]
 
 # Exploring Leader Hub
 
-The [[td-lh-landing|Leader Hub]] app provides organizational and HR leaders with visibility into their organization's talent so they can comprehensively understand the landscape of their workforce. This application helps leaders gauge their team's strengths and deficiencies to confirm their employees have the appropriate skills and expertise to succeed in the present and future.
+The Leader Hub app provides organizational and HR leaders with visibility into their organization's talent so they can comprehensively understand the landscape of their workforce. This application helps leaders gauge their team's strengths and deficiencies to confirm their employees have the appropriate skills and expertise to succeed in the present and future.
 
 ## Leader Hub overview
 
@@ -38,13 +38,9 @@ Leader Hub gives organizational leaders the tools to grasp their teams' capabili
 
 ## What to explore next
 
-To learn more about configuring and [[td-lh-using|using Leader Hub]], see:
+To learn more about configuring and using Leader Hub, see:
 
 -   [Installing and configuring Leader Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/td-lh-install-config.md)
 -   [Using Leader Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/td-lh-using.md)
 -   [Leader Hub reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/td-lh-reference.md)
 
-## Related
-
-- [[td-lh-landing|Leader Hub]]
-- [[td-lh-using|Using Leader Hub]]

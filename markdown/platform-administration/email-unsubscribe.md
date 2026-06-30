@@ -12,9 +12,9 @@ breadcrumb: [Create an email notification, Email and SMS notifications, System n
 
 # Email unsubscribe links
 
-Administrators can enable your users to stop receiving particular email messages by adding unsubscribe links to [[notifications|notifications]].
+Administrators can enable your users to stop receiving particular email messages by adding unsubscribe links to notifications.
 
-**Note:** Base [[system-notifications-landing|system notifications]] include unsubscribe and [[preferences-landing|notification preferences]] links.
+**Note:** Base system notifications include unsubscribe and notification preferences links.
 
 The two types of unsubscribe links are:
 
@@ -47,7 +47,7 @@ $\{NOTIF\_UNSUB\}
 
 </td><td>
 
-The system generates an HTML **mailto** hyperlink. When users select the link, their browser or [[c_EnableTheEmailClient|email client]] creates a preformatted unsubscribe email message to the instance.
+The system generates an HTML **mailto** hyperlink. When users select the link, their browser or email client creates a preformatted unsubscribe email message to the instance.
 
 </td></tr><tr><td>
 
@@ -66,8 +66,8 @@ The system generates an instance link directly to the notification preferences f
 </td></tr></tbody>
 </table>Administrators can add unsubscribe macros to the following notification record types:
 
--   [[email-layouts|Email layouts]]
--   [[c_EmailTemplates|Email templates]]
+-   Email layouts
+-   Email templates
 -   Email notifications
 
 ## Unsubscribe by email
@@ -97,7 +97,7 @@ The **Unsubscribe from Notification** inbound action processes the email and uns
 For translation-enabled emails, if the unsubscribe option does not work, follow these steps:
 
 1.  Create a system property named **glide.email.translation.unsubscribe.prefix** and set it to **true**. Enabling this property adds the prefix **\[UNSUB\] :** to the preformatted email subject line.
-2.  Activate the **Unsubscribe from Translated Notifications** [[ia-inbound-email-il|inbound email]] action, or update the existing **Unsubscribe from Notification** inbound email action to include the **\[UNSUB\] :** prefix in the subject line using conditions or a script.
+2.  Activate the **Unsubscribe from Translated Notifications** inbound email action, or update the existing **Unsubscribe from Notification** inbound email action to include the **\[UNSUB\] :** prefix in the subject line using conditions or a script.
 
 **Note:** Users with multiple subscribed email addresses who unsubscribe from the primary email address are automatically unsubscribed from all other email addresses. Unsubscribing through secondary email addresses is supported beginning with the Xanadu release. The request is fulfilled only for that secondary email address.
 
@@ -125,15 +125,5 @@ If the **Unsubscribe** link is selected, the email client creates a message simi
 
 \[Omitted image "example-unsubscribe-by-email.png"\] Alt text: An email that shows how the email client works after the unsubscribe link is selected
 
-**Parent Topic:**[[t_CreateANotification|Create an email notification]]
+**Parent Topic:**[Create an email notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateANotification.md)
 
-## Related
-
-- [[t_CreateANotification|Create an email notification]]
-- [[notifications|Notifications]]
-- [[system-notifications-landing|System notifications]]
-- [[preferences-landing|Notification Preferences]]
-- [[c_EnableTheEmailClient|Email client]]
-- [[email-layouts|Email layouts]]
-- [[c_EmailTemplates|Email templates]]
-- [[ia-inbound-email-il|Inbound email]]

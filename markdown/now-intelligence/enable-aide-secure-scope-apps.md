@@ -13,11 +13,11 @@ breadcrumb: [Configure, Query Generation, Now Assist in Platform Analytics, Plat
 
 # Enabling access to protected scope applications for AI Data Explorer and Query Generation
 
-AI Data Explorer and [[query-generation|Query Generation]] require additional security configuration to access tables in protected scopes such as Human Resources or Employee Profile scopes.
+AI Data Explorer and Query Generation require additional security configuration to access tables in protected scopes such as Human Resources or Employee Profile scopes.
 
 Protected scopes in ServiceNow restrict access to sensitive data, ensuring that only authorized users can view or interact with specific tables. When AI Data Explorer and Query Generation attempt to access tables within these protected scopes, additional security measures must be configured to enable proper functionality.
 
-Outside of protected scopes, AI Data Explorer and Query Generation use standard [[access-control|Access Control]] Lists \(ACLs\) shipped with the plugin. These ACLs are sufficient for unprotected scopes where normal security rules apply. However, protected scopes introduce additional restrictions that help prevent even administrators from accessing certain data without explicit authorization.
+Outside of protected scopes, AI Data Explorer and Query Generation use standard Access Control Lists \(ACLs\) shipped with the plugin. These ACLs are sufficient for unprotected scopes where normal security rules apply. However, protected scopes introduce additional restrictions that help prevent even administrators from accessing certain data without explicit authorization.
 
 When a table is linked to a protected scope, the scope takes ownership of security decisions for that table. This means that the standard ACLs shipped with AI Data Explorer and Query Generation are no longer sufficient. The protected scope requires its own set of ACLs that mirror the functionality that the plugin’s standard ACLs provide.
 
@@ -27,17 +27,10 @@ Without proper ACL configuration, users cannot create or read records in AI Data
 
 The security configuration process involves two main components: creating scope-specific ACLs that call a public script include provided by the AI Data Explorer plugin, and approving RCA records that enable Query Generation to access protected scope data through API calls. Both components are necessary for full functionality with protected scopes.
 
-1.  [[create-acls-protected-scope-access|Create ACLs for AI Data Explorer and Query Generation protected scope access]]  
+1.  [Create ACLs for AI Data Explorer and Query Generation protected scope access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-acls-protected-scope-access.md)  
 Create Access Control Lists \(ACLs\) in protected scopes to enable AI Data Explorer and Query Generation to access tables within those scopes.
-2.  [[create-rca-records-protected-scope-access|Approve RCA records for AI Data Explorer and Query Generation protected scope access]]  
+2.  [Approve RCA records for AI Data Explorer and Query Generation protected scope access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-rca-records-protected-scope-access.md)  
 Approve automatically generated Restricted Caller Access \(RCA\) records to enable AI Data Explorer and Query Generation to fetch data from tables in protected scopes through API calls.
 
-**Parent Topic:**[[configuring-query-generation|Configuring Query Generation]]
+**Parent Topic:**[Configuring Query Generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configuring-query-generation.md)
 
-## Related
-
-- [[create-acls-protected-scope-access|Create ACLs for AI Data Explorer and Query Generation protected scope access]]
-- [[create-rca-records-protected-scope-access|Approve RCA records for AI Data Explorer and Query Generation protected scope access]]
-- [[configuring-query-generation|Configuring Query Generation]]
-- [[query-generation|Query Generation]]
-- [[access-control|Access control]]

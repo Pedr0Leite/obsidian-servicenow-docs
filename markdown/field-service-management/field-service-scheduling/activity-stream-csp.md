@@ -14,7 +14,7 @@ breadcrumb: [Using Dispatcher Workspace, Assigning tasks from Dispatcher Workspa
 
 # Add work notes or comments with the activity stream
 
-Quickly add work notes or comments to a work order task using the contextual side panel. Save time and add information while staying in [[dispatcher-activities|Dispatcher Workspace]].
+Quickly add work notes or comments to a work order task using the contextual side panel. Save time and add information while staying in Dispatcher Workspace.
 
 ## Before you begin
 
@@ -43,6 +43,4 @@ Role required: wm\_dispatcher
 
     **Note:** The task summarization skill must be enabled for the user to see this option.
 
-## Related
 
-- [[dispatcher-activities|Dispatcher Workspace]]

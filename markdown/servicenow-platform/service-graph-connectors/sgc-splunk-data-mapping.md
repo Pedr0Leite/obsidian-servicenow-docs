@@ -36,7 +36,7 @@ The following attributes in the Hardware \[cmdb\_ci\_computer\] table are popula
 
 ## IP Address \[cmdb\_ci\_ip\_address\]
 
-The following attributes in the [[ip-address|IP Address]] \[cmdb\_ci\_ip\_address\] table are populated by collected data.
+The following attributes in the IP Address \[cmdb\_ci\_ip\_address\] table are populated by collected data.
 
 |Attribute label|Attribute name|
 |---------------|--------------|
@@ -109,6 +109,3 @@ The following attributes in the Splunk Asset Details \[sn\_sec\_sgc\_splunk\_ass
 |Computer \[cmdb\_rel\_ci|Owns::Owned by|Network Adapter \[cmdb\_ci\_network\_adapter\]|
 |Computer \[cmdb\_rel\_ci|Contains::Contained by|File system \[cmdb\_ci\_file\_system\]|
 
-## Related
-
-- [[ip-address|IP Address]]

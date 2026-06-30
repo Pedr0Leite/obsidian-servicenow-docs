@@ -18,14 +18,14 @@ The CSDM is the data model that admins should follow when they set up ServiceNow
 
 ## About the CSDM
 
-The CSDM data model reflects your service life cycle. The CSDM is the data model standard for all products that use the [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]].
+The CSDM data model reflects your service life cycle. The CSDM is the data model standard for all products that use the Configuration Management Database \(CMDB\).
 
 -   ServiceNow AI Platform products, apps, and features are “CSDM-conforming”. That is, they all share identical access to the underlying CSDM data model. This shared model significantly increases the power of your applications.
 -   The CSDM guidelines support unified data access for ServiceNow AI Platform products.
 -   The CSDM gives you clear direct prescriptive guidelines for service modeling within the CMDB.
--   [[csdm-term-definitions|CSDM terms]] and definitions support consistent and accurate service reporting.
+-   CSDM terms and definitions support consistent and accurate service reporting.
 -   The CSDM data model supports multiple configuration strategies and includes guidelines for using base-system tables and relationships.
--   You can use the [[cmdb-query-builder-landing-page|CMDB query builder]] to create reports showing CMDB configuration items \(CIs\) and their relationships.
+-   You can use the CMDB query builder to create reports showing CMDB configuration items \(CIs\) and their relationships.
 
 ## Expert guidance to assess and improve your CSDM implementation — the CSDM Assessment
 
@@ -51,7 +51,7 @@ The CSDM Assessment provides Impact Customers with leading practices and prescri
 
 </td></tr><tr><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-content-frame-[[reference|reference]].md)Reference topics provide detailed descriptions of tables, properties, forms, and roles that are used in the CSDM framework.
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-content-frame-reference.md)Reference topics provide detailed descriptions of tables, properties, forms, and roles that are used in the CSDM framework.
 
 </td><td>
 
@@ -72,7 +72,7 @@ The framework is intended to help you avoid errors in implementation and to prom
 
 -   **Prescribe the data relationships**
 
-    Tell users in a clear direct way which relationships and [[reference-document-management|references]] to use to link CSDM tables.
+    Tell users in a clear direct way which relationships and references to use to link CSDM tables.
 
 -   **Share the data model across products**
 
@@ -107,7 +107,7 @@ The framework is intended to help you avoid errors in implementation and to prom
 
 Some ServiceNow resources that can provide you with helpful information are:
 
--   **Other [[csdm-resources|CSDM resources]]**
+-   **Other CSDM resources**
 
     See [What is a CSDM?](https://www.servicenow.com/products/it-operations-management/what-is-csdm.html) and [CSDM in a nutshell](https://www.youtube.com/watch?v=EnlhMhP2FsM&list=PLkGSnjw5y2U7QNr9jL6TAgwQvYBI_LEtK&index=34).
 
@@ -131,11 +131,3 @@ Reference topics provide detailed descriptions of tables, properties, forms, and
 
 **Parent Topic:**[Configuration Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/manage-cmdb.md)
 
-## Related
-
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[csdm-term-definitions|CSDM terms]]
-- [[cmdb-query-builder-landing-page|CMDB Query Builder]]
-- [[reference|Reference]]
-- [[reference-document-management|References]]
-- [[csdm-resources|CSDM resources]]

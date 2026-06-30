@@ -14,7 +14,7 @@ breadcrumb: [Choose method for discovering and mapping services, Exploring Servi
 
 # Pattern-based discovery in Service Mapping
 
-Pattern-based [[r-discovery|discovery]] is the main method of [[c_ServiceMappingOverview|Service Mapping]] collecting data about devices and applications used in application services. After Service Mapping collects data, it then creates a map of application services and stores the collected data in the CMDB.
+Pattern-based discovery is the main method of Service Mapping collecting data about devices and applications used in application services. After Service Mapping collects data, it then creates a map of application services and stores the collected data in the CMDB.
 
 ServiceNow applications refer to devices and applications that comprise a service instance as configuration items \(CIs\).
 
@@ -48,7 +48,7 @@ The discovery and mapping process consists of the following interactions:
     6.  The MID Server passes information on the host ports to the ECC queue.
     7.  Discovery checks the ECC queue and receives information on the host ports.
 
-        \[Omitted image "DiscoDiscoveryFlowStage3.png"\] Alt text: The MID Server passes the information to [[r_DiscoveryStatusECCQueue|the ECC queue for Discovery]] to collect.
+        \[Omitted image "DiscoDiscoveryFlowStage3.png"\] Alt text: The MID Server passes the information to the ECC queue for Discovery to collect.
 
     8.  These steps are repeated for other types of probes: classification, identification, and exploration.
     9.  Discovery adds the host to the CMDB.
@@ -89,8 +89,3 @@ The discovery and mapping process consists of the following interactions:
 
 [Traffic-based discovery in Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/traffic-based-discovery.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r_DiscoveryStatusECCQueue|The ECC queue for Discovery]]

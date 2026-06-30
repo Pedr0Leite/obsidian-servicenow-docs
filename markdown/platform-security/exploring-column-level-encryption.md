@@ -12,15 +12,15 @@ breadcrumb: [Column Level Encryption, Encryption]
 
 # Exploring Column Level Encryption
 
-Learn more about [[field-encryption|Field Encryption]].
+Learn more about Field Encryption.
 
 ## Column Level Encryption overview
 
-Column Level Encryption is a base system feature that permits [[encryption-landing|encryption]] of data stored within an instance using AES128, or AES256.
+Column Level Encryption is a base system feature that permits encryption of data stored within an instance using AES128, or AES256.
 
 Column Level Encryption enables you to encrypt selected database fields and stored files through the use of encryption contexts. In these contexts you define what is encrypted, choose which algorithm to use, and supply the encryption key, which is stored within your instance.
 
-After the context is created, you can associate it to a user role. [[users|Users]] assigned to this role, either directly of through a group, are able to access the encrypted data.
+After the context is created, you can associate it to a user role. Users assigned to this role, either directly of through a group, are able to access the encrypted data.
 
 Because Column Level Encryption bases access to data on role assignment, it’s important to be familiar with administering roles on your instance. For more information, see [Managing roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ua-creating-roles.md).
 
@@ -64,7 +64,7 @@ security admin
 
 </td></tr><tr><td>
 
-Create up to 5 modules and module access [[ca-policies|policies]] \(MAP\)s using the standard version of Column Level Encryption. MAPs expand on role-based access to allow considerations for:-   System users
+Create up to 5 modules and module access policies \(MAP\)s using the standard version of Column Level Encryption. MAPs expand on role-based access to allow considerations for:-   System users
 -   Scripts
 -   KMF Resource Exchange
 
@@ -115,7 +115,7 @@ Use `getDisplayValue()` and `setDisplayValue()` APIs to return cleartext values 
 security admin, developer
 
 </td></tr></tbody>
-</table>## [[now-platform-encryption|Field Encryption Enterprise]] benefits
+</table>## Field Encryption Enterprise benefits
 
 Column Level Encryption Enterprise builds on the existing Column Level Encryption framework and provides these additional features after you purchase a subscription.
 
@@ -206,21 +206,10 @@ Updated `getDisplayValue()` and `setDisplayValue()` APIs
 security admin, developer
 
 </td></tr></tbody>
-</table>-   **[[cle-tour|Column Level Encryption Guided Tour]]**  
+</table>-   **[Column Level Encryption Guided Tour](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/cle-tour.md)**  
 The tour gives a brief overview of the Column Level Encryption setup needed to encrypt table fields or attachments.​ Steps for the creation of Field Encryption Modules, Module Access Policies, and Encrypted Field Configurations are also covered. The tour includes links to detailed documentation and the ServiceNow University Column Level Encryption Overview course.​
--   **[[now-platform-encryption-2|Column Level Encryption Enterprise]]**  
-Column Level Encryption Enterprise uses the [[encryption|Key Management Framework]] \(KMF\) to enable you to customize and manage how fields and attachments are encrypted and decrypted on your instance. A subscription is required to use Column Level Encryption Enterprise.
+-   **[Column Level Encryption Enterprise](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/now-platform-encryption-2.md)**  
+Column Level Encryption Enterprise uses the Key Management Framework \(KMF\) to enable you to customize and manage how fields and attachments are encrypted and decrypted on your instance. A subscription is required to use Column Level Encryption Enterprise.
 
-**Parent Topic:**[[column-level-encryption-landing|Column Level Encryption]]
+**Parent Topic:**[Column Level Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/column-level-encryption-landing.md)
 
-## Related
-
-- [[cle-tour|Column Level Encryption Guided Tour]]
-- [[now-platform-encryption-2|Column Level Encryption Enterprise]]
-- [[column-level-encryption-landing|Column Level Encryption]]
-- [[field-encryption|Field Encryption]]
-- [[encryption-landing|Encryption]]
-- [[users|Users]]
-- [[ca-policies|Policies]]
-- [[now-platform-encryption|Field Encryption Enterprise]]
-- [[encryption|Key Management Framework]]

@@ -69,7 +69,7 @@ Progress is tracked in assessment requests and the progress is indicated by the 
 
     After the third-party or engagement contact has provided responses for all questions in a questionnaire or document request and saved, the request is in the **Completed** state.
 
-    **Note:** After all requests have entered the Completed state, you must return to the assessment page and [[submit-an-importance-and-impact-tolerance-assessment-in-ws|submit the assessment]].
+    **Note:** After all requests have entered the Completed state, you must return to the assessment page and submit the assessment.
 
 
 ## Responding to questionnaires using a Microsoft Excel template
@@ -112,7 +112,7 @@ The **Allow assessors to answer/edit questionnaires for third-party contacts** p
 
 ## Assessment assignments
 
-Third parties and engagements can each have more than one primary or secondary contact. A third party can have multiple contacts, but each contact belongs to only one third party. Engagements are more flexible; an engagement can include many contacts, and a single contact can participate in multiple engagements. These relationships determine how external assessments are assigned in the Classic assessment engine and the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]].
+Third parties and engagements can each have more than one primary or secondary contact. A third party can have multiple contacts, but each contact belongs to only one third party. Engagements are more flexible; an engagement can include many contacts, and a single contact can participate in multiple engagements. These relationships determine how external assessments are assigned in the Classic assessment engine and the Smart Assessment Engine.
 
 External assessments are always assigned to primary contacts. When multiple primary contacts exist, the system automatically selects the alphabetically first primary contact as the initial assignee. The rules for who else is assigned and who can submit depend on which assessment engine your organization uses.
 
@@ -143,7 +143,3 @@ External assessments are always assigned to primary contacts. When multiple prim
 
 [TPRM and the Explicit Roles plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/vrm-and-explicit-roles-plugin.md)
 
-## Related
-
-- [[submit-an-importance-and-impact-tolerance-assessment-in-ws|Submit the assessment]]
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]

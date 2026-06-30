@@ -52,23 +52,23 @@ Knowledge Graphs enhance the performance of AI agents using the structured and u
 
 The following shows each FSO application's knowledge graph tag records that list the tables referenced in the Knowledge Graph:
 
--   **[[agentic-contact-center-for-banking-landing|Agentic Contact Center for Banking]]**
+-   **Agentic Contact Center for Banking**
     -   FSO Core Personal
     -   FSO Core Business
--   **[[landing-agentic-contact-centre-for-insurance|Agentic Contact Center for Insurance]]**
+-   **Agentic Contact Center for Insurance**
 
     -   FSO Insurance Policies
     -   FSO Insurance Product Catalog
-    The following graphs are added if the respective [[insurance-claims-flow|insurance claims]] or servicing application is installed:
+    The following graphs are added if the respective insurance claims or servicing application is installed:
 
-    -   FSO Insurance [[personal-lines-claims-landing-page|Personal Lines Claims]]
-    -   FSO Insurance [[commercial-lines-claims-landing-page|Commercial Lines Claims]]
-    -   FSO Insurance [[individual-life-claims-landing-page|Individual Life Claims]]
+    -   FSO Insurance Personal Lines Claims
+    -   FSO Insurance Commercial Lines Claims
+    -   FSO Insurance Individual Life Claims
     -   FSO Insurance Generic Claims
-    -   FSO Insurance [[fso-ins-personal-policy-ops-landing-page|Personal Lines Servicing]]
-    -   FSO Insurance [[fso-ins-commercial-policy-ops-landing-page|Commercial Lines Servicing]]
-    -   FSO Insurance [[individual-life-servicing|Individual Life Servicing]]
-    -   FSO Insurance [[group-life-servicing|Group Life Servicing]]
+    -   FSO Insurance Personal Lines Servicing
+    -   FSO Insurance Commercial Lines Servicing
+    -   FSO Insurance Individual Life Servicing
+    -   FSO Insurance Group Life Servicing
 
 **Parent Topic:**[Configuring Now Assist for Financial Services Operations \(FSO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/configuring-now-assist-skills-for-fso.md)
 
@@ -79,15 +79,3 @@ The following shows each FSO application's knowledge graph tag records that list
 
 [Tagging in Knowledge Graph Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/tagging-in-knowledge-graph.md)
 
-## Related
-
-- [[agentic-contact-center-for-banking-landing|Agentic Contact Center for Banking]]
-- [[landing-agentic-contact-centre-for-insurance|Agentic Contact Center for Insurance]]
-- [[insurance-claims-flow|Insurance claims]]
-- [[personal-lines-claims-landing-page|Personal Lines Claims]]
-- [[commercial-lines-claims-landing-page|Commercial Lines Claims]]
-- [[individual-life-claims-landing-page|Individual Life Claims]]
-- [[fso-ins-personal-policy-ops-landing-page|Personal Lines Servicing]]
-- [[fso-ins-commercial-policy-ops-landing-page|Commercial Lines Servicing]]
-- [[individual-life-servicing|Individual Life Servicing]]
-- [[group-life-servicing|Group Life Servicing]]

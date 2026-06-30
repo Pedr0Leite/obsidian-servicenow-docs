@@ -25,7 +25,7 @@ Role required: admin
 2.  Search for Security Annotations under **My reports** or **All.**
 
 
-**Parent Topic:**[[security-annotations|Security annotations]]
+**Parent Topic:**[Security annotations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-annotations.md)
 
 **Related topics**  
 
@@ -38,6 +38,3 @@ Role required: admin
 
 [View the Reports list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/r_ViewTheReportsList.md)
 
-## Related
-
-- [[security-annotations|Security annotations]]

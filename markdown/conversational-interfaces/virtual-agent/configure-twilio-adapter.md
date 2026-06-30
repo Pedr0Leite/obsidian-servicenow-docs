@@ -14,7 +14,7 @@ breadcrumb: [Configure, Conversational SMS Integration with Twilio, Integrate VA
 
 # Set up the Conversational SMS Integration with Twilio
 
-Integrate Twilio with [[virtual-agent-landing-page|Virtual Agent]] so that you can engage in SMS bot conversations.
+Integrate Twilio with Virtual Agent so that you can engage in SMS bot conversations.
 
 ## Before you begin
 
@@ -24,8 +24,8 @@ Before you can set up the Conversational SMS Integration with Twilio, complete t
 
     -   Integration Hub
     -   Twilio spoke
-    -   [[conversation-sms-service-channel-store-app|Conversational SMS Service Channel]]
-    -   [[sms-twilio-store-app|Conversational SMS Integration with Twilio]]
+    -   Conversational SMS Service Channel
+    -   Conversational SMS Integration with Twilio
     For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
 
 2.  Install the following applications on your instance:
@@ -74,7 +74,7 @@ Role required: external\_app\_install\_admin or va\_admin
 
 3.  Create a Messaging Provider Application record.
 
-    1.  Navigate to **[[convint-landing-page|Conversational Interfaces]]** &gt; **SMS integration with Twilio** and click **New**.
+    1.  Navigate to **Conversational Interfaces** &gt; **SMS integration with Twilio** and click **New**.
 
     2.  On the form, fill in the fields.
 
@@ -137,9 +137,3 @@ After you set up the Conversational SMS Integration with Twilio, you can create 
 
 [Activate a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[conversation-sms-service-channel-store-app|Conversational SMS service channel]]
-- [[sms-twilio-store-app|Conversational SMS Integration with Twilio]]
-- [[convint-landing-page|Conversational Interfaces]]

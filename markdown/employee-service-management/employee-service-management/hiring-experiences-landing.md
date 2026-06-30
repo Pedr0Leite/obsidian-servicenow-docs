@@ -10,7 +10,7 @@ reading_time_minutes: 2
 
 # Hiring Experiences
 
-Hiring Experiences is a suite of applications that is designed to streamline and enhance the entire [[hiring-tab-concept|hiring]] journey for hiring managers, recruiters, interviewers, and applicants.
+Hiring Experiences is a suite of applications that is designed to streamline and enhance the entire hiring journey for hiring managers, recruiters, interviewers, and applicants.
 
 <table id="table_rjj_y3l_bgc" class="nav-card presentation"><tbody><tr><td>
 
@@ -26,27 +26,27 @@ Hiring Experiences is a suite of applications that is designed to streamline and
 
 </td></tr><tr><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Important [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] information about Hiring Experiences.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/reference-frmwrk-ta.md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Important reference information about Hiring Experiences.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/reference-frmwrk-ta.md)
 
 </td><td>
 
-[Hiring tab\[Omitted image "bus-partnering.svg"\] Alt text:Learn about the [[hiring-dashboard|Hiring tab]] application and how to use it.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hiring-landing.md)
+[Hiring tab\[Omitted image "bus-partnering.svg"\] Alt text:Learn about the Hiring tab application and how to use it.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hiring-landing.md)
 
 </td><td>
 
-[Recruitment Workspace\[Omitted image "bus-1-1-meetings.svg"\] Alt text:Learn about the [[recruitment-workspace-concept|Recruitment workspace]] application and how to use it.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/recruitment-workspace-landing.md)
+[Recruitment Workspace\[Omitted image "bus-1-1-meetings.svg"\] Alt text:Learn about the Recruitment workspace application and how to use it.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/recruitment-workspace-landing.md)
 
 </td></tr><tr><td>
 
-[Interview Management\[Omitted image "bus-gender-neutral-leader-c-suite.svg"\] Alt text:Learn about the [[interview-management-landing|Interview management]] application and how to use it.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/interview-management-landing.md)
+[Interview Management\[Omitted image "bus-gender-neutral-leader-c-suite.svg"\] Alt text:Learn about the Interview management application and how to use it.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/interview-management-landing.md)
 
 </td><td>
 
-[Applicant Center\[Omitted image "bus-manager.svg"\] Alt text:Learn about the [[applicant-center-concept|Applicant Center]] application and how to use it.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/applicant-center-landing.md)
+[Applicant Center\[Omitted image "bus-manager.svg"\] Alt text:Learn about the Applicant Center application and how to use it.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/applicant-center-landing.md)
 
 </td><td>
 
-[Opportunity Marketplace\[Omitted image "bus-community.svg"\] Alt text:Learn about the [[egd-oppt-mrktplc-landing|Opportunity Marketplace]] application and how to use it.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/opportunity-marketplace/egd-oppt-mrktplc-landing.md)
+[Opportunity Marketplace\[Omitted image "bus-community.svg"\] Alt text:Learn about the Opportunity Marketplace application and how to use it.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/opportunity-marketplace/egd-oppt-mrktplc-landing.md)
 
 </td></tr><tr><td>
 
@@ -54,7 +54,7 @@ Hiring Experiences is a suite of applications that is designed to streamline and
 
 </td><td>
 
-[Talent Profile\[Omitted image "bus-3-person.svg"\] Alt text:Learn about the [[talent-profile-landing|Talent profile]] application and how to use it.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/talent-profile-landing.md)
+[Talent Profile\[Omitted image "bus-3-person.svg"\] Alt text:Learn about the Talent profile application and how to use it.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/talent-profile-landing.md)
 
 </td><td>
 
@@ -69,13 +69,3 @@ Hiring Experiences is a suite of applications that is designed to streamline and
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[hiring-tab-concept|Hiring]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[hiring-dashboard|Hiring tab]]
-- [[recruitment-workspace-concept|Recruitment workspace]]
-- [[interview-management-landing|Interview Management]]
-- [[applicant-center-concept|Applicant Center]]
-- [[egd-oppt-mrktplc-landing|Opportunity Marketplace]]
-- [[talent-profile-landing|Talent Profile]]

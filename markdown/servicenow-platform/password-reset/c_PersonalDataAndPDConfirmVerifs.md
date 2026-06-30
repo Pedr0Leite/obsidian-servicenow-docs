@@ -22,7 +22,7 @@ For an example of how a user might enroll for Personal data verification, see [E
 
 ## Personal data identification types
 
-The [[password-reset-landing-page|Password Reset]] application provides the [[email|email]] and username identification types. You can use either type as provided or as a model to create a custom identification type.
+The Password Reset application provides the email and username identification types. You can use either type as provided or as a model to create a custom identification type.
 
 |Name|Description|
 |----|-----------|
@@ -36,7 +36,7 @@ The [[password-reset-landing-page|Password Reset]] application provides the [[em
 
 To configure personal data and personal data confirmation verifications, you specify parameters as name/value pairs that correspond to a particular piece of user information. For example, to verify users by their email address:
 
-1.  Set the **[[label|label]]** parameter \(the text that the end user should see\) to Email \(that is, `label=Email`\).
+1.  Set the **label** parameter \(the text that the end user should see\) to Email \(that is, `label=Email`\).
 2.  Set the **column** parameter \(the column in the table that holds the verification data\) to email \(that is, `column=email`\).
 
 **Note:** You can use only one set of name/value pair parameters per verification. Additional parameters are ignored.
@@ -81,8 +81,3 @@ Column of the sys\_user table that provides the data that is used to verify the 
 
 [Create a custom identification type for Password Reset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/t_CreateAnIdentificationType.md)
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]
-- [[email|Email]]
-- [[label|Label]]

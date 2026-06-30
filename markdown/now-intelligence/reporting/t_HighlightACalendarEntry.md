@@ -14,7 +14,7 @@ breadcrumb: [Customize calendar reports, Administering reports, Reporting, Repor
 
 # Change highlighting of calendar report events
 
-Field styles control the highlighting of events in [[c_CalendarReport|calendar reports]]. Manage field styles to change how highlighting works.
+Field styles control the highlighting of events in calendar reports. Manage field styles to change how highlighting works.
 
 ## Before you begin
 
@@ -33,7 +33,7 @@ Define field styles for the appropriate table.
 -   To define field styles for all calendar reports, define the style on the Task \[task\] table.
 -   To define field styles that apply only to calendars that are a based on a specific table or report source, define the field styles on that table.
 
-If calendar reports are configured to use field styles from their tables or [[c_ReportSources|report sources]], these field styles override the Task \[task\] table styles.
+If calendar reports are configured to use field styles from their tables or report sources, these field styles override the Task \[task\] table styles.
 
 ## Procedure
 
@@ -65,7 +65,3 @@ If calendar reports are configured to use field styles from their tables or [[c_
 
 [Customize start and end dates]()
 
-## Related
-
-- [[c_CalendarReport|Calendar reports]]
-- [[c_ReportSources|Report sources]]

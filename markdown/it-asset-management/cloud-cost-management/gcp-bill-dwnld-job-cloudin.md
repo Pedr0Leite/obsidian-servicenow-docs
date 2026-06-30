@@ -25,15 +25,15 @@ Billing Download jobs download, organize, and store billing data for your payer 
 Roles required:
 
 -   On the Google Cloud Console: Google Cloud administrator.
--   [[cloud-insights-landing-page|Cloud Cost Management]]: insights\_admin \[sn\_clin\_core.insights\_admin\] or admin.
+-   Cloud Cost Management: insights\_admin \[sn\_clin\_core.insights\_admin\] or admin.
 
 ## About this task
 
 During the billing download, all the resources are pulled into the system. GCP SQL databases are placed in the \[cmdb\_ci\] table.
 
-**Note:** From Cloud Cost Management version 8.1 onwards, the default time for billing download jobs has changed from 12 a.m. to 1 a.m. \(UTC\). Also, schedule or run Cloud Cost Management jobs only during off-[[bh-cloudin|business hours]] and when there's no other heavy operations or jobs running on the ServiceNow instance.
+**Note:** From Cloud Cost Management version 8.1 onwards, the default time for billing download jobs has changed from 12 a.m. to 1 a.m. \(UTC\). Also, schedule or run Cloud Cost Management jobs only during off-business hours and when there's no other heavy operations or jobs running on the ServiceNow instance.
 
-If you have installed the [[ccm-infra-stack|Cloud Cost Management Infra Stack]] application, then toward the end of a job, significant database update, and insert operations are performed based on your Cloud CIs and spend data volume. Thus, any other job that impacts database performance shouldn't be run during this time alongside Cloud Cost Management jobs.
+If you have installed the Cloud Cost Management Infra Stack application, then toward the end of a job, significant database update, and insert operations are performed based on your Cloud CIs and spend data volume. Thus, any other job that impacts database performance shouldn't be run during this time alongside Cloud Cost Management jobs.
 
 -   A Billing Download job creates and updates the billing node data table \[sn\_cld\_intg\_gcp\_cost\_usage\] with billing line items from the BigQuery dataset.
 
@@ -43,8 +43,8 @@ If you have installed the [[ccm-infra-stack|Cloud Cost Management Infra Stack]] 
 -   Billing Download jobs can’t be in the Global scope.
 -   You can create only one Billing Download job for each account.
 -   To ensure accurate reporting and recommendations for some providers, make sure that the Discovery application runs before the scheduled execution.
--   Each successful execution of a Billing Download job triggers the Budget Forecast, Business hours, Reservation/saving plans, Rightsizing, and [[um-cloudin|Unused resources]] jobs to analyze spend and usage data and to update the actionable recommendations in reports.
--   Each successful execution of a Billing Download job updates tagged costs. Recent updates that you make to tag category definitions \(for example, adding a tag name to a category\) might not be reflected in cost reports. You should map tag values to tag categories after the first run because populating tag values needs at least one successful run. You can apply the latest tag category definitions to cost data without running a Billing Download job, by selecting **[[ci-workspace|Cloud Cost Management Workspace]]** &gt; **Operations** &gt; **Cost usage tags** &gt; **Tag categories** and then selecting **Re-Apply Categories**.
+-   Each successful execution of a Billing Download job triggers the Budget Forecast, Business hours, Reservation/saving plans, Rightsizing, and Unused resources jobs to analyze spend and usage data and to update the actionable recommendations in reports.
+-   Each successful execution of a Billing Download job updates tagged costs. Recent updates that you make to tag category definitions \(for example, adding a tag name to a category\) might not be reflected in cost reports. You should map tag values to tag categories after the first run because populating tag values needs at least one successful run. You can apply the latest tag category definitions to cost data without running a Billing Download job, by selecting **Cloud Cost Management Workspace** &gt; **Operations** &gt; **Cost usage tags** &gt; **Tag categories** and then selecting **Re-Apply Categories**.
 -   When the scheduled time arrives, job execution happens in multiple stages \(for example, connect to the provider, download the data, perform the post-import sort, and so on\). The system logs status and results on the Price Sheet Executions page for each stage.
 -   Cost categories are updated with new cost tag values each time billing data is downloaded. \(You define cost tags in the provider portal to associate usage data with a particular business entity. For example, the Cost Center category might include the tags `development`, `testing`, and `QA`. The User category might include the names of your users.\)
 -   Billing data is downloaded in reverse chronological order by month. For example, if the range is from March to June, data for June is downloaded first.
@@ -243,10 +243,3 @@ The following events happen when the job executes:
 -   While downloading the data, Cloud Cost Management updates the billing node data table \[sn\_cld\_intg\_&lt;provider&gt;\_cost\_usage\] with the CIs in the CMDB that correspond to each resource ID. If a CI doesn’t exist, the system generates a placeholder CI. On subsequent discovery, the system reconciles the placeholder CI.
 -   Cloud Cost Management generates a log entry for each stage of the execution on the Billing Download Executions page.
 
-## Related
-
-- [[cloud-insights-landing-page|Cloud Cost Management]]
-- [[bh-cloudin|Business hours]]
-- [[ccm-infra-stack|Cloud Cost Management Infra Stack]]
-- [[um-cloudin|Unused resources]]
-- [[ci-workspace|Cloud Cost Management Workspace]]

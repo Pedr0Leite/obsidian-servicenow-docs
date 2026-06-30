@@ -18,7 +18,7 @@ Configure scheduling based on available inventory for a center.
 
 ## Before you begin
 
-Navigate to **[[hcls-vam|Vaccine Administration Management]]** &gt; **Administration** &gt; **Properties**, and make sure that the **Enables vaccine inventory management** property \(**sn\_vaccine\_sm.enable\_inventory\_management**\) is selected.
+Navigate to **Vaccine Administration Management** &gt; **Administration** &gt; **Properties**, and make sure that the **Enables vaccine inventory management** property \(**sn\_vaccine\_sm.enable\_inventory\_management**\) is selected.
 
 **Warning:** Once you have enabled the property and your inventory-based configurations are live, avoid disabling the property to help prevent any data inconsistencies.
 
@@ -276,6 +276,3 @@ Notes about the vaccine availability for this lot.
 
 **Parent Topic:**[Configuring Vaccine Administration Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/vaccine-mgmt-config.md)
 
-## Related
-
-- [[hcls-vam|Vaccine Administration Management]]

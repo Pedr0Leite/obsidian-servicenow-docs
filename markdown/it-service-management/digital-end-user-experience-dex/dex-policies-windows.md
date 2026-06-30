@@ -14,13 +14,13 @@ breadcrumb: [DEX Content Playbook reference, Reference, Digital End-User Experie
 
 # DEX policies for Windows devices
 
-Policy [[reference-for-itsm-mobile-agent|reference]] for DEX monitoring on Windows [[dex-workspace-devices-tab|devices]]. Use this reference to understand available check instances, frequencies, and parameters for application, network, and device monitoring.
+Policy reference for DEX monitoring on Windows devices. Use this reference to understand available check instances, frequencies, and parameters for application, network, and device monitoring.
 
 To fetch the complete playbook data for a Windows device, the Agent Client Collector \(ACC\) must run as a local system account. For more details on how to set up the ACC service as a local system account, see [Run ACC as a local system account user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/run-acc-local-sys-account.md).
 
 ## Policies for Windows — Application
 
-DEX provides the following policies for [[dex-workspace-application-tab|applications]].
+DEX provides the following policies for applications.
 
 <table id="table_hxg_t1b_bxb"><thead><tr><th>
 
@@ -305,8 +305,3 @@ config\_file\_read
 
 **Parent Topic:**[DEX Content Playbook reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-content-playbook-reference.md)
 
-## Related
-
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[dex-workspace-devices-tab|Devices]]
-- [[dex-workspace-application-tab|Applications]]

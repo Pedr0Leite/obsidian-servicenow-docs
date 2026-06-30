@@ -15,24 +15,16 @@ breadcrumb: [Contract Management Pro, Legal and Contract Operations, Employee Se
 
 # Managing Contract Management Pro
 
-As administrator work on managing the [[cncore-expl-wdt|word document templates]], contracts and view analytics.
+As administrator work on managing the word document templates, contracts and view analytics.
 
 -   **[Manage clauses, tables, and contract templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-manage-clauses-ctemplates.md)**  
-As administrator [[snlc-manage-clauses-ctemplates|manage clauses and contract templates]].
+As administrator manage clauses and contract templates.
 -   **[Manage contract records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-manage-cont-records.md)**  
-As administrator [[cncore-manage-cont-records|manage contract records]].
+As administrator manage contract records.
 -   **[Platform Analytics Solutions for Contract Management Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-analytics-pa.md)**  
-The [[cncore-contracts-dashboard|Contracts Dashboard]] in [[cncore-cmpro-landing-page|Contract Management Pro]] is an [[eslate-analytics-reporting|analytics and reporting]] solution that enables you to make data-driven decisions through insights and trends derived from contract request data.
+The Contracts Dashboard in Contract Management Pro is an analytics and reporting solution that enables you to make data-driven decisions through insights and trends derived from contract request data.
 -   **[Modify assignment rule for contract requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-create-assign-rule.md)**  
 As a contracts configurator modify the assignment rule available in the base system for any changes required in the user or group to whom the contract request should be assigned.
 
 **Parent Topic:**[Contract Management Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-cmpro-landing-page.md)
 
-## Related
-
-- [[cncore-expl-wdt|Word Document Templates]]
-- [[snlc-manage-clauses-ctemplates|Manage clauses and contract templates]]
-- [[cncore-manage-cont-records|Manage contract records]]
-- [[cncore-contracts-dashboard|Contracts Dashboard]]
-- [[cncore-cmpro-landing-page|Contract Management Pro]]
-- [[eslate-analytics-reporting|Analytics and reporting]]

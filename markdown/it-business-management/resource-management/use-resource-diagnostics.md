@@ -32,7 +32,7 @@ Role required: pps\_admin
 
 5.  View results of the scan.
 
-    It lists the duplicate aggregate for users or project-related [[r_AllocatingResources|resource allocation]] dailies without a top task, if any.
+    It lists the duplicate aggregate for users or project-related resource allocation dailies without a top task, if any.
 
 
 ## What to do next
@@ -48,6 +48,3 @@ Create a diagnostics scan and map diagnostic feature with diagnostic and fix scr
 
 **Parent Topic:**[Resource Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/c_ResourceManagement.md)
 
-## Related
-
-- [[r_AllocatingResources|Resource allocation]]

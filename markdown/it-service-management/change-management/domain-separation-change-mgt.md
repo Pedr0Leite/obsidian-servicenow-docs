@@ -14,7 +14,7 @@ breadcrumb: [Reference, Change Management, IT Service Management]
 
 # Domain separation and Change Management
 
-Domain separation is supported in [[c_ITILChangeManagement|Change Management]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported in Change Management. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic
 
@@ -88,7 +88,7 @@ An ITIL user in the Acme domain logs in and creates a change request. The change
 
 **Use cases**
 
-An ITIL user in the ACME domain logs in and navigates to the Change Schedule [[dex-workspace-dashboard-tab|landing page]]. The user can view the [[change-schedule|Change Schedules]] in both their current or global domain.
+An ITIL user in the ACME domain logs in and navigates to the Change Schedule landing page. The user can view the Change Schedules in both their current or global domain.
 
 **Parent Topic:**[Reference section for Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/reference-change-management.md)
 
@@ -97,8 +97,3 @@ An ITIL user in the ACME domain logs in and navigates to the Change Schedule [[d
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]
-- [[dex-workspace-dashboard-tab|Landing page]]
-- [[change-schedule|Change schedules]]

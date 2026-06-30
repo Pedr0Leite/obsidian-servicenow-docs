@@ -14,11 +14,11 @@ breadcrumb: [Configure Journey designer features, Configure, Journey designer, E
 
 # Creating and managing quick links for journeys
 
-[[emp-center-quick-link-config|Quick links]] give employees quick access to varied resources directly from a journey. Administrators, journey owners, and mentors are able to add linked resources to journeys.
+Quick links give employees quick access to varied resources directly from a journey. Administrators, journey owners, and mentors are able to add linked resources to journeys.
 
 **Note:** Journey owners and mentors must be given **Can add quick links** permission by an administrator. Journey permissions are assigned and managed in journey configurations. See, [Update users' permissions for journeys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-update-user-permissions.md).
 
-There are two types of quick links that can be added to a journey from **[[jny-dsgnr-landing-page-1|Journey designer]]**.
+There are two types of quick links that can be added to a journey from **Journey designer**.
 
 -   Administrator configured links: Administrators add quick links to journey types. These quick links are added to all journeys that are created from that journey type.
 -   User configured links: Journey owners and mentors with **Can add quick links** permission add or delete web-based links directly to a user's journey.
@@ -100,7 +100,3 @@ To delete an administrator created quick link in Journey designer, you must be a
 
 **Parent Topic:**[Configure Journey designer features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-configuration.md)
 
-## Related
-
-- [[emp-center-quick-link-config|Quick links]]
-- [[jny-dsgnr-landing-page-1|Journey designer]]

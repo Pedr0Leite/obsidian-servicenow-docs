@@ -14,7 +14,7 @@ breadcrumb: [Use entity and risk dependencies using the GRC: Workbench, Use, Ris
 
 # Associate a risk framework or risk statement with an entity type to generate risks
 
-Risks are automatically generated when you make associations between risk frameworks or risk statements and [[entity-type-in-risk-ws|entity types]].
+Risks are automatically generated when you make associations between risk frameworks or risk statements and entity types.
 
 ## Before you begin
 
@@ -35,6 +35,3 @@ Role required: sn\_risk.admin and sn\_risk.manager
 
 **Parent Topic:**[Use entity and risk dependencies using the GRC: Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/grc-workbench.md)
 
-## Related
-
-- [[entity-type-in-risk-ws|Entity types]]

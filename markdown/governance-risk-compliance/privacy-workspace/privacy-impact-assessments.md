@@ -22,7 +22,7 @@ Using the privacy assessment capability, you can configure various types of asse
 -   Privacy impact assessments \(PIA\)
 -   Privacy readiness assessments
 
-When a privacy assessment is initiated, the business owners respond to the questions in the assessments. Their responses automatically create [[ropa-record|processing activities]] in the system. The necessary controls and [[information-objects|information objects]] are then automatically mapped to the processing activities.
+When a privacy assessment is initiated, the business owners respond to the questions in the assessments. Their responses automatically create processing activities in the system. The necessary controls and information objects are then automatically mapped to the processing activities.
 
 The privacy assessment capability provides multiple configurations options such as:
 
@@ -34,7 +34,3 @@ The privacy assessment capability provides multiple configurations options such 
 
 **Parent Topic:**[Exploring Privacy Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/explore-privacy-management.md)
 
-## Related
-
-- [[ropa-record|Processing activities]]
-- [[information-objects|information objects]]

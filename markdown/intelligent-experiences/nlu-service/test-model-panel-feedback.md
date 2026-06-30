@@ -26,7 +26,7 @@ The ratings you provide help the system to match an intent to an utterance. Thes
 
 The following scenarios below show examples of how to interact with your model test panel and provide prediction feedback to the system. In all scenarios, you use these four steps:
 
-1.  In the **[[managing-model-content|Build and train your model]]** phase of your model, select **Try model** to open the test panel.
+1.  In the **Build and train your model** phase of your model, select **Try model** to open the test panel.
 2.  In the test panel's **Enter an utterance to test** field, enter a brief utterance that's similar to a training utterance in one of the intents.
 3.  Click **GO**.
 
@@ -36,7 +36,7 @@ The following scenarios below show examples of how to interact with your model t
 
     If you want the system to know it has predicted the correct intent for your utterance, select the **Thumbs Up** icon.
 
-    In all other [[cases|cases]], select the **Thumbs Down** icon, which opens the **Provide feedback to improve this prediction** section. Here you can choose an intent other than the top predicted intent.
+    In all other cases, select the **Thumbs Down** icon, which opens the **Provide feedback to improve this prediction** section. Here you can choose an intent other than the top predicted intent.
 
 
 **Scenario 1**: On the Try model section of the test panel, you enter `help with hr` as the utterance. When the top prediction results appear, you're confident that the predicted intent is the correct match to your utterance. So in this case, you click the **Thumbs Up** icon.
@@ -86,7 +86,3 @@ Result: A banner appears at the top of the screen confirming the user feedback f
 
 Your feedback data is stored in the **ml\_labeled\_data** table, which is also used by other ServiceNow products. This table can also house multiple sources, such as Virtual Agent chat logs that can be used for future predictions.
 
-## Related
-
-- [[managing-model-content|Build and train your model]]
-- [[cases|Cases]]

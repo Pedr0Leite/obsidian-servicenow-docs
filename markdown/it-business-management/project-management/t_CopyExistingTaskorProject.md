@@ -22,11 +22,11 @@ Role required: it\_project\_manager
 
 ## About this task
 
-The **Copy partial project** option copies a selected task and its child tasks into the project, or all [[t_CreateAProjectTask|project tasks]] into a sub-project. It also preserves all dependencies and relationships among the copied tasks and their child tasks. Any relationships or dependencies that involve tasks outside of the scope of the copied task are not preserved.
+The **Copy partial project** option copies a selected task and its child tasks into the project, or all project tasks into a sub-project. It also preserves all dependencies and relationships among the copied tasks and their child tasks. Any relationships or dependencies that involve tasks outside of the scope of the copied task are not preserved.
 
 ## Procedure
 
-1.  In the Project or [[project-task-form|Project Task form]], right-click the header bar and select **Copy partial project**.
+1.  In the Project or Project Task form, right-click the header bar and select **Copy partial project**.
 
 2.  In the **Task** field, select a project task or project to copy.
 
@@ -55,7 +55,3 @@ Change the default values of in the new partial project.
 
 [Change default values of copied fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_ChangeDefaultValCopiedProjTasks.md)
 
-## Related
-
-- [[t_CreateAProjectTask|Project tasks]]
-- [[project-task-form|Project task form]]

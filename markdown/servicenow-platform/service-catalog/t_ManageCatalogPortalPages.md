@@ -26,7 +26,7 @@ You can enable read access to the catalogs by applying the rule **read ACL** on 
 
 ## Create a catalog
 
-Using [[service-catalog|Service Catalog]], you can create a catalog and define items and categories within the catalog.
+Using Service Catalog, you can create a catalog and define items and categories within the catalog.
 
 ### Before you begin
 
@@ -90,7 +90,7 @@ Active
 
 </td><td>
 
-Select the [[check-box|check box]] to make the catalog available to end users.
+Select the check box to make the catalog available to end users.
 
 </td></tr><tr><td>
 
@@ -140,7 +140,7 @@ The larger image to display with the catalog on the multi-catalog homepage. This
 
 </td><td>
 
-The location to direct service catalog users to when they click the **Catalog Home** button. This field is designed to [[reference|reference]] a content page url suffix.
+The location to direct service catalog users to when they click the **Catalog Home** button. This field is designed to reference a content page url suffix.
 
 </td></tr><tr><td>
 
@@ -207,8 +207,3 @@ Catalog portal page details include the owner, title, and view to use for that p
 
 [Set up catalog portal pages]()
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[check-box|Check box]]
-- [[reference|Reference]]

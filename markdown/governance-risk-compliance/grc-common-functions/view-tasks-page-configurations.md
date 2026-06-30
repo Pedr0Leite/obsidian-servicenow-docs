@@ -29,7 +29,7 @@ GRC administrators can configure the tasks that the workspace users can view in 
 -   My items
 -   Watchlist
 
-Depending on the workspace selection, these configurable tabs are displayed in the workspace. GRC administrators can modify these tabs using the [[admin-config-using-grc-common|Landing Page Configurations module]].
+Depending on the workspace selection, these configurable tabs are displayed in the workspace. GRC administrators can modify these tabs using the Landing Page Configurations module.
 
 State filters or second-level filters are available for the My pending tasks, My group's tasks, My items, and Watchlist tabs.
 
@@ -39,13 +39,13 @@ State filters or second-level filters are available for the My pending tasks, My
 
     The Tasks Page Configuration record displays the configuration records for each of the following workspaces:
 
-    -   [[audit-management-overview-ws|Audit Workspace]]
+    -   Audit Workspace
     -   Compliance Workspace: Displayed under the Policy and Compliance module.
-    -   [[grc-opres-landing-page|Operational Resilience]] workspace
+    -   Operational Resilience workspace
     -   Privacy Workspace
-    -   [[reg-change-mgmt-landing-page|Regulatory Change Management]] Workspace: Displayed under the Policy and Compliance module.
-    -   [[risk-workspace|Risk Workspace]]
-    -   [[risk-portal|Risk Portal]]
+    -   Regulatory Change Management Workspace: Displayed under the Policy and Compliance module.
+    -   Risk Workspace
+    -   Risk Portal
     -   Vendor Management Workspace
 2.  Click the configuration record for the workspace that you are working in.
 
@@ -65,7 +65,7 @@ State filters or second-level filters are available for the My pending tasks, My
     -   My group's tasks
     -   My items
     -   Watchlist
-    -   [[confidential-records|Confidential records]]
+    -   Confidential records
     The following configuration fields are displayed for all the tabs in the Task Configuration record:
 
     |Field|Description|
@@ -157,12 +157,3 @@ List of the states that are applicable to the tab. These states are displayed in
 
 **Parent Topic:**[Landing Page Configurations module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/admin-config-using-grc-common.md)
 
-## Related
-
-- [[admin-config-using-grc-common|Landing Page Configurations module]]
-- [[audit-management-overview-ws|Audit Workspace]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]
-- [[risk-workspace|risk workspace]]
-- [[risk-portal|risk portal]]
-- [[confidential-records|Confidential records]]

@@ -14,7 +14,7 @@ breadcrumb: [Conversation Insights reference, Conversation Insights, Enable AI e
 
 # Components installed with Conversation Insights
 
-Installation of the [[conversation-insights|Conversation Insights]] application also installs the Conversation Insights \[sn\_aci\_insights\] table.
+Installation of the Conversation Insights application also installs the Conversation Insights \[sn\_aci\_insights\] table.
 
 ## Tables installed with Conversation Insights
 
@@ -38,6 +38,3 @@ The installation of Conversation Insights installs the Conversation Insights \[s
 
 **Parent Topic:**[Conversation Insights reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/conversational-intelligence/conversation-insights-reference.md)
 
-## Related
-
-- [[conversation-insights|Conversation Insights]]

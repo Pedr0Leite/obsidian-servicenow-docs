@@ -14,7 +14,7 @@ breadcrumb: [Setting up integrations in Service Operations Workspace for ITSM, C
 
 # Install Universal Request for Service Operations Workspace
 
-You can install the Universal Request for Service Operations Workspace application \(com.snc.universal\_request\) if you have the admin role.The application includes demo data and installs related ServiceNow® Store [[dex-workspace-application-tab|applications]] and plugins if they aren’t already installed.
+You can install the Universal Request for Service Operations Workspace application \(com.snc.universal\_request\) if you have the admin role.The application includes demo data and installs related ServiceNow® Store applications and plugins if they aren’t already installed.
 
 ## Before you begin
 
@@ -58,6 +58,3 @@ For more information, see [Universal Request in Service Operations Workspace ref
 
 **Parent Topic:**[Setting up integrations in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/setting-up-sow-itsm.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]

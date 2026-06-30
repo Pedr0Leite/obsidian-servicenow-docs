@@ -14,7 +14,7 @@ breadcrumb: [Configuring Service Reliability Management, Service Reliability Man
 
 # Activate teams and services in SRM
 
-Activate teams and services to be managed in the [[sr-landing-page|Service Reliability Management]] \(SRM\) application.
+Activate teams and services to be managed in the Service Reliability Management \(SRM\) application.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: srm\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workspace-dashboard-use|Service Operations Workspace]] Admin Center** &gt; **Configurations**.
+1.  Navigate to **All** &gt; **Service Operations Workspace Admin Center** &gt; **Configurations**.
 
 2.  Select **Service Reliability Management** &gt; **Activate** &gt; **Teams and services**.
 
@@ -74,7 +74,3 @@ You can select the options to view the teams or services.
 
 **Next topic:**[Customize service approval settings in SRM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-add-approval-services.md)
 
-## Related
-
-- [[sr-landing-page|Service Reliability Management]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

@@ -36,7 +36,7 @@ You can register the Sensor after you have installed the OT Discovery Console an
 
 ## Procedure
 
-1.  On your instance, navigate to the [[sgc-ot-discovery|Service Graph Connector for ServiceNow Operational Technology \(OT\) Discovery]] Guided Setup page.
+1.  On your instance, navigate to the [Service Graph Connector for ServiceNow Operational Technology \(OT\) Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/sgc-ot-discovery.md) Guided Setup page.
 
 2.  Select the **Get Started**.
 
@@ -120,14 +120,10 @@ You can register the Sensor after you have installed the OT Discovery Console an
 
 26. Use this URL to log into the DMI and register your Discovery Sensor for OT to the Console.
 
-    See [[registering-ot-sensor|Register the Discovery Sensor for OT]] on how to register the Sensor.
+    See [Register the Discovery Sensor for OT](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/registering-ot-sensor.md) on how to register the Sensor.
 
 
 ## What to do next
 
 [Register the Discovery Sensor for OT](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/registering-ot-sensor.md)
 
-## Related
-
-- [[sgc-ot-discovery|Service Graph Connector for ServiceNow Operational Technology \(OT\) Discovery]]
-- [[registering-ot-sensor|Register the Discovery Sensor for OT]]

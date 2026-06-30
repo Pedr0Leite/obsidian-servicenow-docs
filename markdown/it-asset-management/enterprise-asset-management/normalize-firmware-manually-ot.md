@@ -14,13 +14,13 @@ breadcrumb: [Normalizing firmware for OT assets, Managing enterprise models and 
 
 # Normalize the firmware embedded into your Operational Technology \(OT\) assets manually
 
-Standardize the publisher, product, and version details of the firmware that is embedded into your OT assets by normalizing the discovered firmware [[c_Models|models]] manually.
+Standardize the publisher, product, and version details of the firmware that is embedded into your OT assets by normalizing the discovered firmware models manually.
 
 ## Before you begin
 
-**Important:** The [[ot-asset-management|OT Asset Management]] application must be activated to access the [[ot-asset-ws-otam|OT Asset Workspace]]. For details, see [Install OT Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/install-otam.md).
+**Important:** The OT Asset Management application must be activated to access the OT Asset Workspace. For details, see [Install OT Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/install-otam.md).
 
-The firmware product and the firmware version details of the discovered firmware model that you want to normalize should be available in the [[enterprise-asset-management|Enterprise Asset Management]] Content Service. If not, you can also create the firmware product and the firmware version for your firmware model. For more details, see [Create a custom firmware product for your operational technology \(OT\) assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-custom-firmware-product-ot-assets.md) and [Create a custom firmware version for your operational technology \(OT\) assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-custom-firmware-version-ot-assets.md).
+The firmware product and the firmware version details of the discovered firmware model that you want to normalize should be available in the Enterprise Asset Management Content Service. If not, you can also create the firmware product and the firmware version for your firmware model. For more details, see [Create a custom firmware product for your operational technology \(OT\) assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-custom-firmware-product-ot-assets.md) and [Create a custom firmware version for your operational technology \(OT\) assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-custom-firmware-version-ot-assets.md).
 
 Role required: sn\_otam.ot\_asset\_manager
 
@@ -48,9 +48,3 @@ Role required: sn\_otam.ot\_asset\_manager
 
 The Normalization status changes to Manually Normalized.
 
-## Related
-
-- [[c_Models|Models]]
-- [[ot-asset-management|OT Asset Management]]
-- [[ot-asset-ws-otam|OT Asset Workspace]]
-- [[enterprise-asset-management|Enterprise Asset Management]]

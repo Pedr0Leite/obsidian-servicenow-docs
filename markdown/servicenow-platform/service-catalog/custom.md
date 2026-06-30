@@ -14,13 +14,13 @@ breadcrumb: [Types of service catalog variables, Service catalog variables, Serv
 
 # Custom and Custom with label
 
-The custom variable inserts a UI macro into the catalog item. Custom with [[label|label]] variable inserts a UI macro with a label.
+The custom variable inserts a UI macro into the catalog item. Custom with label variable inserts a UI macro with a label.
 
 ## Custom
 
 This variable inserts a UI macro into the catalog item.
 
-UI macros in the [[service-catalog|service catalog]] do not support the following glide\_list functions: clickthrough, slushbucket editing, and [[email|email]] field.
+UI macros in the service catalog do not support the following glide\_list functions: clickthrough, slushbucket editing, and email field.
 
 -   Use [phase one](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/c_ExtensionsToJellySyntax.md) Jelly only for any UI macros added as variables. Phase two Jelly within the macro is not processed and appears on the page as standard content.
 -   This variable is not yet supported on Classic Mobile devices.
@@ -94,8 +94,3 @@ This variable inserts a UI macro with a label.
 
 [Variable support in various channels]()
 
-## Related
-
-- [[label|Label]]
-- [[service-catalog|Service Catalog]]
-- [[email|Email]]

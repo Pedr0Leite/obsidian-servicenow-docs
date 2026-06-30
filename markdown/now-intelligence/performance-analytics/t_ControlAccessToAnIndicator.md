@@ -22,11 +22,11 @@ Role required: pa\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]] Administration** &gt; **Indicators** &gt; **[[automated-indicators|Automated Indicators]]** or to **[[t_CreateAManualIndicator|Manual Indicators]]** or **[[formula-indicators|Formula Indicators]]** if applicable.
+1.  Navigate to **All** &gt; **Platform Analytics Administration** &gt; **Indicators** &gt; **Automated Indicators** or to **Manual Indicators** or **Formula Indicators** if applicable.
 
 2.  Select an indicator record.
 
-3.  In the **[[access-control|Access control]]** section, clear the **Visible by all roles** check box.
+3.  In the **Access control** section, clear the **Visible by all roles** check box.
 
 4.  Select the **Roles** that grant access to the indicator.
 
@@ -40,10 +40,3 @@ Role required: pa\_admin or admin
 
 [Share a responsive dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_ControlAccessToADashboard.md)
 
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[automated-indicators|Automated indicators]]
-- [[t_CreateAManualIndicator|Manual indicators]]
-- [[formula-indicators|Formula indicators]]
-- [[access-control|Access control]]

@@ -22,7 +22,7 @@ Role required: live\_feed\_admin and admin
 
 ## About this task
 
-For security reasons, any [[html|HTML]] code is automatically stripped out of a message before it is posted. This measure ensures that users cannot modify any page settings by posting a message.
+For security reasons, any HTML code is automatically stripped out of a message before it is posted. This measure ensures that users cannot modify any page settings by posting a message.
 
 ## Procedure
 
@@ -39,6 +39,3 @@ For security reasons, any [[html|HTML]] code is automatically stripped out of a 
 
 **Parent Topic:**[Live Feed security and table access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/r_LiveFeedTableAccessRules.md)
 
-## Related
-
-- [[html|HTML]]

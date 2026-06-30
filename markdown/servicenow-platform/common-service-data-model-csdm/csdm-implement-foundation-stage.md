@@ -45,7 +45,7 @@ The basis of any good data model is the foundational data that is referenced thr
 
     The CMDB Group table identifies a collection of CIs based on the results of saved Query Builder queries, encoded queries, or manual entries.
 
-    [[cmdb-groups|CMDB groups]] are critical elements of dynamic CI groups and the strategic management of CIs. Decide early how you want to report CI information and how you want to monitor CIs. These decisions affect how you create CMDB groups. For Change Management and Incident Management processes, there are two distinct impact analysis behaviors for dynamic CI groups. See [Matching the usage of dynamic CI groups to service type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-dynamic-ci-groups-by-service.md).
+    CMDB groups are critical elements of dynamic CI groups and the strategic management of CIs. Decide early how you want to report CI information and how you want to monitor CIs. These decisions affect how you create CMDB groups. For Change Management and Incident Management processes, there are two distinct impact analysis behaviors for dynamic CI groups. See [Matching the usage of dynamic CI groups to service type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-dynamic-ci-groups-by-service.md).
 
 -   **Software bills of material \(SBOM\)**
 
@@ -61,7 +61,7 @@ The basis of any good data model is the foundational data that is referenced thr
 
 -   **Group \[sys\_user\_group\] table**
 
-    The Group table identifies sets of users that share a common purpose. Groups may perform tasks such as approving change requests, resolving incidents, receiving [[email|email]] notifications, or performing work order tasks. Groups also use the referential data in the CMDB to identify how CIs are managed \(for example, the Managed by Group\) and supported \(for example, the Support Group\). Any business rules, assignment rules, system roles, or attributes that refer to a group automatically apply to all group members.
+    The Group table identifies sets of users that share a common purpose. Groups may perform tasks such as approving change requests, resolving incidents, receiving email notifications, or performing work order tasks. Groups also use the referential data in the CMDB to identify how CIs are managed \(for example, the Managed by Group\) and supported \(for example, the Support Group\). Any business rules, assignment rules, system roles, or attributes that refer to a group automatically apply to all group members.
 
     **Note:** The **Managed by Group** setting identifies the group that manages a CI class \(ensuring that it is complete and correct\). It might or might not be the same group as repairs an individual CI.
 
@@ -85,7 +85,7 @@ The basis of any good data model is the foundational data that is referenced thr
         -   The Vendor flag identifies organizations that provide products that you purchase. An internal organization might be a vendor.
     -   **Business Unit \[business\_unit\] table**
 
-        The hierarchy of your business is populated in the Business Unit table with a [[reference|reference]] to the parent company. A business unit is a part of your organization that is responsible for specific operations, such as finance, human resources \(HR\), or IT. A hierarchy within a business unit is common. For large multinational organizations, you might have business units that identify independent regional operations and the specific operations within the region.
+        The hierarchy of your business is populated in the Business Unit table with a reference to the parent company. A business unit is a part of your organization that is responsible for specific operations, such as finance, human resources \(HR\), or IT. A hierarchy within a business unit is common. For large multinational organizations, you might have business units that identify independent regional operations and the specific operations within the region.
 
     -   **Department \[cmn\_department\] table**
 
@@ -119,8 +119,3 @@ The basis of any good data model is the foundational data that is referenced thr
 
 **Parent Topic:**[Implementing the CSDM framework in stages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-implementation-stages.md)
 
-## Related
-
-- [[cmdb-groups|CMDB groups]]
-- [[email|Email]]
-- [[reference|Reference]]

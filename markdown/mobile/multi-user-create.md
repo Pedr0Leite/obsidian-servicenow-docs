@@ -25,7 +25,7 @@ The following configurations are listed in this topic.
 -   The **SupportSharedDevice** property enables a mobile device to be used as a shared device.
 -   The **mobile\_shared\_device\_mode\_enabler** role enables authorized users to set up a ServiceNow mobile app to operate in shared device mode.
 
-**Note:** The configuration instructions in this topic detail the required fields for the configuration of this feature. For a full explanation of all the mobile property fields listed in the table, see the various configurations in the section [[mobile-properties|Mobile properties]].
+**Note:** The configuration instructions in this topic detail the required fields for the configuration of this feature. For a full explanation of all the mobile property fields listed in the table, see the various configurations in the section [Mobile properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-properties.md).
 
 ## Procedure
 
@@ -49,6 +49,3 @@ The following configurations are listed in this topic.
     6.  Move **mobile\_shared\_device\_mode\_enabler** to the roles list.
     7.  Select **Save**.
 
-## Related
-
-- [[mobile-properties|Mobile properties]]

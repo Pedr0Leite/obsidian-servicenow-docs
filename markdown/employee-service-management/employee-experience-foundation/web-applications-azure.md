@@ -20,7 +20,7 @@ As an administrator, you can sync your single-sign-on applications and give one-
 
 Role required: sp\_admin and admin
 
--   The [[web-application-employee-about|App Launcher]] synchronization of applications from Azure is compatible only with the latest Microsoft Entra ID spoke version. Ensure that you upgrade the existing Azure AD spoke to sync the apps with your web applications.
+-   The App Launcher synchronization of applications from Azure is compatible only with the latest Microsoft Entra ID spoke version. Ensure that you upgrade the existing Azure AD spoke to sync the apps with your web applications.
 -   Azure AD integration enables your employees to access and manage pre-integrated apps.
 -   Integrate Azure AD spoke with ServiceNow, create credential records, and create connection records as explained in [Azure AD spoke setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/set-up-azure.md)
 -   Understand the basics of [Azure](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/) spoke and service principals.
@@ -28,7 +28,7 @@ Role required: sp\_admin and admin
 
 ## About this task
 
-By using the App Launcher with [[employee-center-pro-landing|Employee Center Pro]], you can do the following actions:
+By using the App Launcher with Employee Center Pro, you can do the following actions:
 
 -   Sync the registered applications from the connected Azure AD account to your applications widget.
 -   Enable access to the applications based on user permissions for Azure identity management.
@@ -40,7 +40,7 @@ Azure AD integration enables your employees to access and manage pre-integrated 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Web Applications**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **Web Applications**.
 
 2.  To fetch applications from the Azure account, click **Update applications**.
 
@@ -154,7 +154,7 @@ Featured
 
 </td><td>
 
-Option to mark the application as featured. Use the **Featured** option to promote new or important or seasonal applications for higher visibility. **Note:** [[eslate-applications|Featured applications]] have display preferences and appear on the top of the page despite any filters or sorting.
+Option to mark the application as featured. Use the **Featured** option to promote new or important or seasonal applications for higher visibility. **Note:** Featured applications have display preferences and appear on the top of the page despite any filters or sorting.
 
 </td></tr></tbody>
 </table>    **Note:** API [throttling](https://docs.microsoft.com/en-us/graph/throttling) limits vary based on multi-tenant or single-tenant configuration.
@@ -192,9 +192,3 @@ Based on the user permissions, service principals, and the applications that are
 
 **Note:** When an application is hidden, users still have permissions to the application until the next synchronization.
 
-## Related
-
-- [[web-application-employee-about|App Launcher]]
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[employee-center-landing-page|Employee Center]]
-- [[eslate-applications|Featured applications]]

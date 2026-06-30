@@ -14,11 +14,11 @@ breadcrumb: [Cloud Configuration Governance policies, Using Cloud Configuration 
 
 # Create a configuration collector
 
-Create a configuration collector to set up how [[cloud-configuration-governance|Cloud Configuration Governance]] imports the configuration data from the cloud. The configuration collector uses Integration Hub subflows to import the configuration data from the cloud.
+Create a configuration collector to set up how Cloud Configuration Governance imports the configuration data from the cloud. The configuration collector uses Integration Hub subflows to import the configuration data from the cloud.
 
 ## Before you begin
 
--   Ensure that Cloud Configuration Governance contains suitable configuration keys for all the configuration values that you want to import from the cloud. [[create-ccg-config-key|Create a configuration key]] if it is not available in the application. For more information, see [Create a configuration key](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/create-ccg-config-key.md).
+-   Ensure that Cloud Configuration Governance contains suitable configuration keys for all the configuration values that you want to import from the cloud. Create a configuration key if it is not available in the application. For more information, see [Create a configuration key](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/create-ccg-config-key.md).
 
 Role required: sn\_itom\_ccg.governor
 
@@ -40,7 +40,7 @@ Refer to a base system configuration collector as an example for creating the co
 
     2.  Add the **CCG - Get Resources** action and fill in the fields.
 
-    3.  Add the appropriate [[cloud-actions-library-landing-page|Cloud Action Library]] \(CAL\) action and flow logic to read the configuration data.
+    3.  Add the appropriate Cloud Action Library \(CAL\) action and flow logic to read the configuration data.
 
         **Note:**
 
@@ -68,8 +68,4 @@ Refer to a base system configuration collector as an example for creating the co
 
 5.  Select **Submit**.
 
-## Related
 
-- [[cloud-configuration-governance|Cloud Configuration Governance]]
-- [[create-ccg-config-key|Create a configuration key]]
-- [[cloud-actions-library-landing-page|Cloud Action Library]]

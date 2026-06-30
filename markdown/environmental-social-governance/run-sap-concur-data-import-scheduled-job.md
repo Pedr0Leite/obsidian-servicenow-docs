@@ -27,8 +27,5 @@ Role required: admin
 3.  Select **Execute Now**.
 
 
-**Parent Topic:**[[integrate-esg-with-concur|Integrating Operational Sustainability Management \(formerly ESG\) with SAP Concur]]
+**Parent Topic:**[Integrating Operational Sustainability Management \(formerly ESG\) with SAP Concur](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/integrate-esg-with-concur.md)
 
-## Related
-
-- [[integrate-esg-with-concur|Integrating Operational Sustainability Management \(formerly ESG\) with SAP Concur]]

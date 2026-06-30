@@ -14,7 +14,7 @@ breadcrumb: [Recommended learning in journey configurations, Configure Journey d
 
 # Add or modify recommended learning in Journey designer
 
-Configure and manage recommended [[exploring-learning-exp|learning]] for employee journeys.
+Configure and manage recommended learning for employee journeys.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin \[sn\_jny.admin\]
 
 ## About this task
 
-The Learning Posts app must be integrated with the [[jny-dsgnr-landing-page-1|Journey designer]] app for the recommended learning feature to be available. For details about Learning integration see, [Learning Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/learning-core_overview.md).
+The Learning Posts app must be integrated with the Journey designer app for the recommended learning feature to be available. For details about Learning integration see, [Learning Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/learning-core_overview.md).
 
 ## Procedure
 
@@ -54,7 +54,3 @@ The Learning Posts app must be integrated with the [[jny-dsgnr-landing-page-1|Jo
 
 [Delete recommended learning in the Journey designer app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-delete-reco-learning-admin.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[jny-dsgnr-landing-page-1|Journey designer]]

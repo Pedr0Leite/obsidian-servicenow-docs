@@ -33,7 +33,7 @@ From a claim case record or adjuster task record:
 
 In the claim or from an adjuster task, you can see information about fraud scores on the **Fraud score** tab.
 
-The following example shows the fraud score page for the [[personal-lines-claims-landing-page|Personal Lines Claims]] application with score details.
+The following example shows the fraud score page for the Personal Lines Claims application with score details.
 
 \[Omitted image "fraud-page-personal-regenerate-button.png"\] Alt text: Fraud score information in the Adjuster Workspace showing Score gauge, indicators, score history trend chart and history.
 
@@ -61,7 +61,7 @@ The following example shows the fraud score page for the [[personal-lines-claims
 
 -   **Indicators contributing to the fraud score**
 
-    If FRISS is enabled, displays a list of indicators such as Claim Date Check and Police report that factor into the fraud score, with accompanying scores and rationales for why each score was specified for the indicator. For more information about FRISS, see [[fso-integration-with-friss-overview|Financial Services Operations Integration with FRISS]].
+    If FRISS is enabled, displays a list of indicators such as Claim Date Check and Police report that factor into the fraud score, with accompanying scores and rationales for why each score was specified for the indicator. For more information about FRISS, see [Financial Services Operations Integration with FRISS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-integration-with-friss-overview.md).
 
 -   **Score history trend**
 
@@ -71,7 +71,4 @@ The following example shows the fraud score page for the [[personal-lines-claims
 
     Displays the number of times that the API is executed for the claim case. Lists scores with screening dates, rationale for screening requests, and screening requestors. You can select to filter and refresh history on demand.
 
-## Related
 
-- [[fso-integration-with-friss-overview|Financial Services Operations Integration with FRISS]]
-- [[personal-lines-claims-landing-page|Personal Lines Claims]]

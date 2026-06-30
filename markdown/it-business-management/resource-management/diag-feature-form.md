@@ -14,7 +14,7 @@ breadcrumb: [Resource Management reference, Resource Management classic, Project
 
 # Diagnostics Feature form
 
-Use the [[diagnostics-feature-form|diagnostics Feature form]] to create a new diagnostic feature for a resource.
+Use the diagnostics Feature form to create a new diagnostic feature for a resource.
 
 |Field|Description|
 |-----|-----------|
@@ -25,11 +25,7 @@ Use the [[diagnostics-feature-form|diagnostics Feature form]] to create a new di
 |Description|Details of the diagnostic feature. The description is displayed in the application to which the diagnostic feature belongs. It enables the user to understand the diagnostic scans executed in the feature.|
 
 -   **[Diagnostics Inputs form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/diag-input-field.md)**  
-Use the [[diag-input-field|Diagnostics Inputs form]] fields to specify a filter condition for a user.
+Use the Diagnostics Inputs form fields to specify a filter condition for a user.
 
 **Parent Topic:**[Resource Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rsrc-mgmt-reference.md)
 
-## Related
-
-- [[diagnostics-feature-form|Diagnostics Feature form]]
-- [[diag-input-field|Diagnostics Inputs form]]

@@ -14,7 +14,7 @@ breadcrumb: [Using Agent Workspace for HR Case Management, Agent Workspace, HR S
 
 # Customize Activity stream in Agent Workspace for HR Case Management
 
-Customize the [[activity-lxp|Activity]] stream to reduce agent effort in understanding the case context.
+Customize the Activity stream to reduce agent effort in understanding the case context.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **All HR Cases**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **All HR Cases**.
 
 2.  Select a case to customize Activity stream for.
 
@@ -34,7 +34,4 @@ Role required: admin
 
 6.  Select **Save**.
 
-## Related
 
-- [[activity-lxp|Activity]]
-- [[case-management-workspace|Case management]]

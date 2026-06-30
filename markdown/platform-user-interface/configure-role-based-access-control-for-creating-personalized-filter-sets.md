@@ -35,8 +35,5 @@ Role required: admin
 
 ## Result
 
-The restricted user profile can no longer create filter sets in the [[activity-stream-configurable-workspace|Activity stream]].
+The restricted user profile can no longer create filter sets in the Activity stream.
 
-## Related
-
-- [[activity-stream-configurable-workspace|Activity stream]]

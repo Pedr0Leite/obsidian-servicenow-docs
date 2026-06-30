@@ -16,7 +16,7 @@ breadcrumb: [Use, Applicant Center, Hiring Experiences, HR Service Delivery, Emp
 
 The email notifications provide alerts to the applicants when tasks are assigned to them by the recruiters.
 
-An email notification goes to the applicant who is assigned a task. The email has the details of the task along with a **View task** link that is redirected to the [[applicant-center-concept|Applicant Center]].
+An email notification goes to the applicant who is assigned a task. The email has the details of the task along with a **View task** link that is redirected to the Applicant Center.
 
 The task is available in the **My TO-DOs** tab in the application record page.
 
@@ -24,6 +24,3 @@ Receive a reminder email or if the due date is approaching for an incomplete tas
 
 **Parent Topic:**[Using Applicant Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/use-applicant-center.md)
 
-## Related
-
-- [[applicant-center-concept|Applicant Center]]

@@ -14,7 +14,7 @@ breadcrumb: [Reference, Telecommunications Network Inventory]
 
 # Network inventory facility classes
 
-The facility classes are used to represent power, HVAC, network, and their connectivity in a data center. You can define facility hardware records for these classes in the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+The facility classes are used to represent power, HVAC, network, and their connectivity in a data center. You can define facility hardware records for these classes in the Telecommunications Network Inventory application.
 
 |Class Name|Table Name|Extends from|Description|
 |----------|----------|------------|-----------|
@@ -34,6 +34,3 @@ The facility classes are used to represent power, HVAC, network, and their conne
 
 **Parent Topic:**[Telecommunications Network Inventory reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telecommunications-network-inventory-reference.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]

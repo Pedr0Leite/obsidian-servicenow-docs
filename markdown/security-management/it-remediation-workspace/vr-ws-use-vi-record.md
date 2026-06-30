@@ -27,7 +27,7 @@ Role required:
 
 ## Procedure
 
-1.  In your ServiceNow AI Platform instance, navigate to **Workspaces** &gt; **[[it-remediation-workspace-landing-page|IT Remediation Workspace]]**.
+1.  In your ServiceNow AI Platform instance, navigate to **Workspaces** &gt; **IT Remediation Workspace**.
 
     The Home landing page is displayed.
 
@@ -108,7 +108,3 @@ Select a cell in a column and refine the data displayed by choosing one:-   Show
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[it-remediation-workspace-landing-page|IT Remediation Workspace]]

@@ -14,7 +14,7 @@ breadcrumb: [Device as a Service, Hardware Asset Management, IT Asset Management
 
 # Managing RMA response orders for DaaS assets
 
-Following a request for a hardware asset return or replacement, a [[return-merchandise-authorization|Return Merchandise Authorization]] \(RMA\) order is associated with this request by creating an RMA response order in the DaaS provider interface.
+Following a request for a hardware asset return or replacement, a Return Merchandise Authorization \(RMA\) order is associated with this request by creating an RMA response order in the DaaS provider interface.
 
 Completing the following tasks in the RMA order workflow results in the completion and success of an RMA response order:
 
@@ -25,6 +25,4 @@ Completing the following tasks in the RMA order workflow results in the completi
 
     **Note:** Follow the next steps according to the values you select when scheduling a visit to the customer site or shipping the asset to the DaaS provider for assessing the RMA asset.
 
-## Related
 
-- [[return-merchandise-authorization|Return Merchandise Authorization]]

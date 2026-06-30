@@ -125,8 +125,5 @@ The total is 34.
     -   The adjusted values will be used in the resource conversion formula and the demand forecast displayed on the calendar.
     -   Any other manual adjustment configurations that were created would be unpublished and moved to **Draft** state.
 
-**Parent Topic:**[[configuring-demand-forecast-configurable-wfo-cs|Setting up Demand Forecast in Workforce Optimization for Customer Service]]
+**Parent Topic:**[Setting up Demand Forecast in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configuring-demand-forecast-configurable-wfo-cs.md)
 
-## Related
-
-- [[configuring-demand-forecast-configurable-wfo-cs|Setting up Demand Forecast in Workforce Optimization for Customer Service]]

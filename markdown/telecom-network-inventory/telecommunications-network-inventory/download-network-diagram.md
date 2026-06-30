@@ -14,7 +14,7 @@ breadcrumb: [Network diagram, Use, Telecommunications Network Inventory]
 
 # Download a network diagram
 
-Download the entire canvas of the [[using-network-diagram|network diagram]] based on your map selection in the [[telecom-network-inventory|Telecommunications Network Inventory]] application. You can use it as a reference to visualize the circuit.
+Download the entire canvas of the network diagram based on your map selection in the Telecommunications Network Inventory application. You can use it as a reference to visualize the circuit.
 
 ## Before you begin
 
@@ -26,11 +26,11 @@ You can download the entire canvas of a network diagram in the PNG format and sa
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon\).
 
-3.  Go to **Inventory** &gt; **[[design-logical-connection-design-assign-playbook|Logical Connections]]**.
+3.  Go to **Inventory** &gt; **Logical Connections**.
 
 4.  Open a record, and then select **View connection**.
 
@@ -54,9 +54,3 @@ The image is downloaded in PNG format.
 
 [Visualize circuits](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/unified-map-view-of-connection-elements.md)
 
-## Related
-
-- [[using-network-diagram|Network diagram]]
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[design-logical-connection-design-assign-playbook|Logical connections]]

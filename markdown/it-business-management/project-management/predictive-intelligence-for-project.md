@@ -14,9 +14,9 @@ breadcrumb: [Exploring Project Management, Project Management, Project Portfolio
 
 # Predictive Intelligence for Project Management
 
-The Predictive Intelligence for Project Management capability uses machine-learning algorithms to search and display similar projects while defining a new project using the [[create-a-project-form|project form]]. You can also search for existing projects and compare similar projects for project planning.
+The Predictive Intelligence for Project Management capability uses machine-learning algorithms to search and display similar projects while defining a new project using the project form. You can also search for existing projects and compare similar projects for project planning.
 
-The PPM Predictive Intelligence Workbench includes a prebuilt use case template that systematically guides you through the process of creating and training new predictive models, evaluating and testing them, and finally adding them to your business process to add value to your Idea, Demand, and [[c_ProjectApplicationOverview|Project Management]].
+The PPM Predictive Intelligence Workbench includes a prebuilt use case template that systematically guides you through the process of creating and training new predictive models, evaluating and testing them, and finally adding them to your business process to add value to your Idea, Demand, and Project Management.
 
 Once you train your custom use cases, they are usable immediately. No prior knowledge or experience with artificial intelligence or machine learning is required when you use the PPM Predictive Intelligence Workbench.
 
@@ -76,7 +76,3 @@ View similar projects based on the **Project Name** and **Description** fields. 
 
 [Starting a project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateAProject.md)
 
-## Related
-
-- [[create-a-project-form|Project form]]
-- [[c_ProjectApplicationOverview|Project Management]]

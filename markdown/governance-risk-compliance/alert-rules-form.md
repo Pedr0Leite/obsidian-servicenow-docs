@@ -173,8 +173,5 @@ Advanced Condition Script
 Configuration for Advanced Condition Script. This field appears if the **Advanced** option is selected. Enter a script to filter feeds based on a criteria, for example, active alerts.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[conf-alert-rule-uib-ws|Configure alert rules]]
+</table>**Parent Topic:**[Configure alert rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/conf-alert-rule-uib-ws.md)
 
-## Related
-
-- [[conf-alert-rule-uib-ws|Configure alert rules]]

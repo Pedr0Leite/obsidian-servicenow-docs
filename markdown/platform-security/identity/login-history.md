@@ -16,7 +16,7 @@ breadcrumb: [Identity Center for users, Identity Center, Identity]
 
 Provides details about your login history.
 
-The Login History tab in the [[identity-center|Identity Center]] helps you with your login information and the status of your login.
+The Login History tab in the Identity Center helps you with your login information and the status of your login.
 
 You can use the filters to specify login actions to help security investigations. Filter can help determine if the activity was real or suspicious and report the information to your administrator.
 
@@ -29,6 +29,3 @@ Following are some of the other details from the Login History:
 -   The Time of Login is the updated time when the mobile devices are used to access the instance.
 -   The records are stored in Identity Center for 30 days.
 
-## Related
-
-- [[identity-center|Identity Center]]

@@ -14,15 +14,15 @@ breadcrumb: [Using portal widgets, Configuring Service Portal, Service Portal, C
 
 # Widget library
 
-You can use base system widgets as-is in your [[c_ServicePortal|Service Portal]] or duplicate them to suit your own business needs.
+You can use base system widgets as-is in your Service Portal or duplicate them to suit your own business needs.
 
 **Note:** Base system widgets are read-only so you can benefit from future updates. To make changes, you can clone base system widgets. However, cloned widgets are considered custom and don't benefit from future updates to the widgets they were cloned from. To learn more about cloning or creating widgets, see [Developing custom widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/widget-dev-guide.md).
 
-To view and [[configure-onboarding-modals|configure]] the instance options for a widget, see [Configure widget instances](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ConfigureWidgetInstances.md).
+To view and configure the instance options for a widget, see [Configure widget instances](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ConfigureWidgetInstances.md).
 
 ## Example widgets
 
-[[sp-example-widgets|Example widgets]] help show what you can do in the Service Portal. They demonstrate how common portal features work and what information you can access directly from a portal page.
+Example widgets help show what you can do in the Service Portal. They demonstrate how common portal features work and what information you can access directly from a portal page.
 
 Use example widgets to do the following:
 
@@ -35,7 +35,7 @@ These widgets appear as ready‑to‑use components in the Service Portal. Some 
 
 ## Service Catalog widgets
 
-[[sc-widgets|Service Catalog widgets]] let you browse, request, and track services directly from the Service Portal. They provide the building blocks for a complete Service Catalog experience, allowing you to find what you need and submit requests in one central place.
+Service Catalog widgets let you browse, request, and track services directly from the Service Portal. They provide the building blocks for a complete Service Catalog experience, allowing you to find what you need and submit requests in one central place.
 
 Use Service Catalog widgets to do the following:
 
@@ -49,7 +49,7 @@ These widgets display service information in a clear, task‑focused way. For ex
 
 ## Knowledge Management widgets
 
-[[km-widgets|Knowledge Management widgets]] let you search, browse, and read knowledge articles directly in the Service Portal. They provide the core components for building a knowledge experience that helps you find answers quickly and consistently.
+Knowledge Management widgets let you search, browse, and read knowledge articles directly in the Service Portal. They provide the core components for building a knowledge experience that helps you find answers quickly and consistently.
 
 Use Knowledge Management widgets to do the following:
 
@@ -59,7 +59,7 @@ Use Knowledge Management widgets to do the following:
 -   See popular, featured, or top‑rated articles.
 -   Interact with articles by rating or commenting, when available.
 
-These widgets organize knowledge content in a clear and easy‑to‑navigate way. Some widgets help you discover articles through search and [[c_Filters|filters]], while others display article details and related information on the article page. For more information, see [Knowledge Management widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/km-widgets.md).
+These widgets organize knowledge content in a clear and easy‑to‑navigate way. Some widgets help you discover articles through search and filters, while others display article details and related information on the article page. For more information, see [Knowledge Management widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/km-widgets.md).
 
 ## Service Portal service status widgets
 
@@ -77,7 +77,7 @@ These widgets present service health information in a clear, visual format. Some
 
 ## Service Portal configuration page widgets
 
-[[sp-config-widgets|Service Portal configuration page widgets]] help you set up and manage your Service Portal experience. Use these widgets when you configure portals, pages, themes, and widgets in the Service Portal Configuration workspace, rather than for end‑user interaction.
+Service Portal configuration page widgets help you set up and manage your Service Portal experience. Use these widgets when you configure portals, pages, themes, and widgets in the Service Portal Configuration workspace, rather than for end‑user interaction.
 
 These widgets support portal configuration tasks such as:
 
@@ -90,7 +90,7 @@ Service Portal configuration page widgets run behind the scenes and are internal
 
 ## Search widgets
 
-Service Portal [[search-widgets|search widgets]] let you find information quickly across the Service Portal. Use these widgets to search for knowledge articles, catalog items, records, and other content without navigating through multiple pages.
+Service Portal search widgets let you find information quickly across the Service Portal. Use these widgets to search for knowledge articles, catalog items, records, and other content without navigating through multiple pages.
 
 Search widgets help you to do the following:
 
@@ -110,20 +110,9 @@ Use Knowledge Management widgets to build a knowledge base for your portal.
 -   **[Service Catalog widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sc-widgets.md)**  
 Use the Service Catalog widgets to build a catalog for your portal.
 -   **[Service Portal configuration page widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sp-config-widgets.md)**  
-Service Portal uses widgets for configuration. When you configure a page or a widget for a portal in the [[service-portal-configuration-page|Service Portal Configuration page]], you actually use Service Portal widgets to do so.
+Service Portal uses widgets for configuration. When you configure a page or a widget for a portal in the Service Portal Configuration page, you actually use Service Portal widgets to do so.
 -   **[Service Portal service status widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/service-status-widgets.md)**  
 Use the service status widgets to display current, planned, and historical outages for business services to your end users.
 
 **Parent Topic:**[Using portal widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/service-portal-widgets.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[configure-onboarding-modals|Configure]]
-- [[sp-example-widgets|Example widgets]]
-- [[sc-widgets|Service Catalog widgets]]
-- [[km-widgets|Knowledge Management widgets]]
-- [[c_Filters|Filters]]
-- [[sp-config-widgets|Service Portal configuration page widgets]]
-- [[search-widgets|Search widgets]]
-- [[service-portal-configuration-page|Service Portal configuration page]]

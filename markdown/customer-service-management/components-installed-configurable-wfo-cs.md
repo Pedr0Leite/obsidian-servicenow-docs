@@ -12,7 +12,7 @@ breadcrumb: [Optimize workforce operations, Extend capabilities, Configure, Cust
 
 # Components installed with Workforce Optimization for Customer Service
 
-Several types of components are installed with activation of the [[csm-workspaces-configure|CSM Configurable Workspace]] \(sn\_csm\_wfo\_workspa\) plugin, including user roles, key performance indicators \(KPIs\), scheduled jobs, properties, and tables.
+Several types of components are installed with activation of the CSM Configurable Workspace \(sn\_csm\_wfo\_workspa\) plugin, including user roles, key performance indicators \(KPIs\), scheduled jobs, properties, and tables.
 
 ## Workforce optimization for customer service
 
@@ -30,7 +30,7 @@ Contains roles
 
 </th></tr></thead><tbody><tr><td>
 
-Workforce [[optimization|Optimization]] User \[sn\_wfo.user\]
+Workforce Optimization User \[sn\_wfo.user\]
 
 </td><td>
 
@@ -338,7 +338,7 @@ sn\_channel\_mgmt.list\_auto\_refresh.enable
 
 </td><td>
 
-Select to disable auto-refresh of [[migration-lists|lists]] in Channel Management.-   **Type**: True or False
+Select to disable auto-refresh of lists in Channel Management.-   **Type**: True or False
 -   **Default value**: True
 
 </td></tr><tr><td>
@@ -635,7 +635,7 @@ The **WFO Forecast** time series metric retention policy is available by default
 |Tech Support: Average Chat Work Time|Average chat duration a tech support agent had for each interaction. Time is measured in hours. The default value is 0.5.|
 |Sales Support: Average Chat Work Time|Average chat duration a sales support agent had for each interaction. Time is measured in hours. The default value is 0.5.|
 
-If you create forecast parameters for a forecast configuration, the values set in the configuration are used instead of the default forecast parameters listed in the forecast properties section. For information on configuring forecast parameters, see [[modify-demand-forecast-parameters-configurable-wfo|Modify forecast parameters to visualize forecast data]].
+If you create forecast parameters for a forecast configuration, the values set in the configuration are used instead of the default forecast parameters listed in the forecast properties section. For information on configuring forecast parameters, see [Modify forecast parameters to visualize forecast data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/modify-demand-forecast-parameters-configurable-wfo.md).
 
 |Name|Description|
 |----|-----------|
@@ -882,7 +882,7 @@ Grants access to add training, assessments, and skill records.
 -   survey\_reader
 
 </td></tr></tbody>
-</table>**Important:** This feature is available with the Workforce Optimization for CSM Configurable Workspace \(sn\_csm\_wfo\_workspa\) from the ServiceNow Store. To enable this feature, see [[request-configurable-wfo-cs|Activate Workforce Optimization for CS configurable workspace]].
+</table>**Important:** This feature is available with the Workforce Optimization for CSM Configurable Workspace \(sn\_csm\_wfo\_workspa\) from the ServiceNow Store. To enable this feature, see [Activate Workforce Optimization for CS configurable workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/request-configurable-wfo-cs.md).
 
 |Business rule|Table|Description|
 |-------------|-----|-----------|
@@ -1171,7 +1171,7 @@ Transforms JSON objects to internal objects and sets the word limit for records 
 
 You must [Add this system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddAPropertyUsingSysPropsList.md) to set the desired value.
 
-When you [[integrate-learning-third-party-configurable-wfo-cs|synchronize]] third-party learning content with your ServiceNow instance, if the word count of the content being pulled into your instance exceeds the value set for this property, the synchronization fails.
+When you [synchronize](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/integrate-learning-third-party-configurable-wfo-cs.md) third-party learning content with your ServiceNow instance, if the word count of the content being pulled into your instance exceeds the value set for this property, the synchronization fails.
 
 </td></tr><tr><td>
 
@@ -1272,7 +1272,7 @@ Using unsupervised learning, the maximum number of skills to predict for each in
 
 </td></tr><tr><td>
 
-Number of times Predictive [[intelligence-csm|Intelligence]] must predict the same skill for an agent before recommending it for the agent.
+Number of times Predictive Intelligence must predict the same skill for an agent before recommending it for the agent.
 
 sn\_sre.user\_predicted\_skill\_threshold
 
@@ -1335,15 +1335,5 @@ Task Predicted Skill \[sn\_sre\_task\_predicted\_skill\]
 -   Records created over 60 days ago are automatically deleted from this table.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[setup-configurable-wfo-cs|Optimize workforce operations]]
+</table>**Parent Topic:**[Optimize workforce operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/setup-configurable-wfo-cs.md)
 
-## Related
-
-- [[modify-demand-forecast-parameters-configurable-wfo|Modify forecast parameters to visualize forecast data]]
-- [[request-configurable-wfo-cs|Activate Workforce Optimization for Customer Service]]
-- [[integrate-learning-third-party-configurable-wfo-cs|Integrate Coaching with Learning with third-party learning management systems]]
-- [[setup-configurable-wfo-cs|Optimize workforce operations]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[optimization|Optimization]]
-- [[migration-lists|Lists]]
-- [[intelligence-csm|Intelligence]]

@@ -38,9 +38,9 @@ Schedule meetings directly from a touchpoint record to coordinate customer-facin
 
 6.  Select **New**.
 
-7.  On the Create New Meeting form, fill in the [[fields|fields]].
+7.  On the Create New Meeting form, fill in the fields.
 
-    For a description of the field values, see [[create-meeting-touchpoints-form|Create new meeting form]].
+    For a description of the field values, see [Create new meeting form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-meeting-touchpoints-form.md).
 
 8.  Add attachments to your meeting.
 
@@ -55,19 +55,12 @@ Schedule meetings directly from a touchpoint record to coordinate customer-facin
 
 The meeting is scheduled and an invite with the agenda is sent to all invitees. You can view saved meetings from the touchpoint's Meetings tab.
 
-**Parent Topic:**[[using-activity-management|Using Activity Management]]
+**Parent Topic:**[Using Activity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-activity-management.md)
 
 **Related topics**  
 
 
-[[configuring-activity-management|Configuring Activity Management]]
+[Configuring Activity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configuring-activity-management.md)
 
-[[explore-activity-management|Activity Management]]
+[Activity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-activity-management.md)
 
-## Related
-
-- [[create-meeting-touchpoints-form|Create new meeting form]]
-- [[using-activity-management|Using Activity Management]]
-- [[configuring-activity-management|Configuring Activity Management]]
-- [[explore-activity-management|Activity Management]]
-- [[fields|Fields]]

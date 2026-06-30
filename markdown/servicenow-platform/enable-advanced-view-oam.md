@@ -37,8 +37,5 @@ Role required: oam\_admin
     1.  Modify the script as required.
     2.  Click **Update**.
 
-**Parent Topic:**[[outlook-actionable-messages|Outlook Actionable Messages]]
+**Parent Topic:**[Outlook Actionable Messages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/outlook-actionable-messages.md)
 
-## Related
-
-- [[outlook-actionable-messages|Outlook Actionable Messages]]

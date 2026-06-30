@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-\[Omitted image "rahi-[[rahi-retail-operations-overview|retail]]-create-entity.png"\] Alt text: Adding an entity to the Multiple Case Configuration table for [[rahi-retail-task-management-overview|Retail Task Management]] Core.
+\[Omitted image "rahi-retail-create-entity.png"\] Alt text: Adding an entity to the Multiple Case Configuration table for Retail Task Management Core.
 
 ## Procedure
 
@@ -76,7 +76,3 @@ Specifies which field should create multiple cases.
 
 An entity has been created in the Multiple Case Configuration table.
 
-## Related
-
-- [[rahi-retail-operations-overview|Retail]]
-- [[rahi-retail-task-management-overview|Retail Task Management]]

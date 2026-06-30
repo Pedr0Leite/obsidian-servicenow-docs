@@ -15,7 +15,7 @@ breadcrumb: [Integrate VA with MS Teams using self-configured bot, Specialized V
 
 # Auto-generate the manifest file for uploading on Microsoft Teams
 
-Auto-generate the manifest file and customize the branding of your Microsoft Teams app so that you can make [[virtual-agent-landing-page|Virtual Agent]] available in your organization.
+Auto-generate the manifest file and customize the branding of your Microsoft Teams app so that you can make Virtual Agent available in your organization.
 
 ## Before you begin
 
@@ -38,7 +38,7 @@ An automated manifest file generator on the new Microsoft Teams UI automatically
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings**.
 
 2.  In **General Settings**, in the Channels and routing section, select **View All**.
 
@@ -156,7 +156,7 @@ Message Extension or Copilot
 
 This section allows you to activate Message extension if your bot is set up for NLU/Keyword, or activate Copilot if your bot is set up for for LLM. \(For more information on activating LLM for your bot, see [Display your chat assistant on a portal, channel, or mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/display-assistant-portal-channel.md).\)-   The Message extension check box appears if you configure your bot for NLU/Keyword. Message extension lets users search and share the results through the compose message area of the Microsoft Teams client.
 
-If you're using this bot for Microsoft Copilot, then ensure that you enable **Message Extension**. \[Omitted image "message-extension-teams.png"\] Alt text: [[now-assist-in-va-landing|Now Assist in Virtual Agent]] conversation with Microsoft Copilot displaying the Message Extension enabled.
+If you're using this bot for Microsoft Copilot, then ensure that you enable **Message Extension**. \[Omitted image "message-extension-teams.png"\] Alt text: Now Assist in Virtual Agent conversation with Microsoft Copilot displaying the Message Extension enabled.
 
 By enabling Message Extension for an app or bot, you will see the same app or bot in the message extension area while your conversation with the Now Assist using Microsoft Copilot.
 
@@ -190,8 +190,3 @@ The Sample Prompts window appears when you select the Copilot check box. Enter y
 
 **Parent Topic:**[Integrating Virtual Agent with Microsoft Teams using the self-configured bot](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-integ-teams-self-configured-bot.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]

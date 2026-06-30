@@ -14,7 +14,7 @@ breadcrumb: [GitLab, Integrate, DevOps Change Velocity, IT Service Management]
 
 # Change acceleration in GitLab
 
-Change acceleration is supported in [[devops-landing-page-new|DevOps Change Velocity]] for GitLab jobs.
+Change acceleration is supported in DevOps Change Velocity for GitLab jobs.
 
 Change acceleration can be enabled using the following ways:
 
@@ -29,6 +29,3 @@ JUnit test type integration is supported for GitLab. GitLab unit test reports su
 
 **Parent Topic:**[GitLab integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/gitlab-integration-dev-ops.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]

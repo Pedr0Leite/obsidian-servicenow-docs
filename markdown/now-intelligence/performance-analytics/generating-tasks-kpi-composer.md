@@ -16,13 +16,13 @@ breadcrumb: [Design your indicator solution, Configure fundamentals, Performance
 
 For each KPI Composer artifact in your project, you can generate a task to create an equivalent Performance Analytics element. All tasks are created with one action. The tasks are assigned automatically to the responsible group for implementing analytics.
 
-Tasks can be generated to create the following Performance Analytics and [[reporting-landing-page|Reporting]] elements based on the definitions in your KPI Composer project. The tasks are generated for each type of element in this order:
+Tasks can be generated to create the following Performance Analytics and Reporting elements based on the definitions in your KPI Composer project. The tasks are generated for each type of element in this order:
 
 -   Breakdowns
 -   Reports
--   [[c_HomepagePublishers|Interactive Filters]]
+-   Interactive Filters
 -   Indicators
--   [[widgets|Widgets]]
+-   Widgets
 -   Spotlight groups
 -   Content Blocks
 -   Dashboards
@@ -226,8 +226,3 @@ The following diagrams summarize the provided flows:
 
 [Flow Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/flow-designer.md)
 
-## Related
-
-- [[reporting-landing-page|Reporting]]
-- [[c_HomepagePublishers|Interactive Filters]]
-- [[widgets|Widgets]]

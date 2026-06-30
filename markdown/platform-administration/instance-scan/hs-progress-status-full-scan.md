@@ -22,17 +22,17 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hs-landing-page|Instance Scan]]** &gt; **Checks**.
+1.  Navigate to **All** &gt; **Instance Scan** &gt; **Checks**.
 
     A list of checks appears.
 
 2.  Run the required scan.
 
-    The progress tracker displays the status of the scan run. You can close the progress tracker and view it later without having to stay in the modal for the execution to complete. To see the status later, go to **[[hs-results|Results]]** in the application navigator. Select the required [[hc-scan-results|scan results]] record to review its status.
+    The progress tracker displays the status of the scan run. You can close the progress tracker and view it later without having to stay in the modal for the execution to complete. To see the status later, go to **Results** in the application navigator. Select the required scan results record to review its status.
 
 3.  To see the status of the scan, select **Go to Result**.
 
-    If the scan completes, a list of [[hs-findings|findings]] is displayed. You can also find all the checks that ran as a part of the scan by selecting the Checks related list. If any of the checks fails, click Failures related list to review them. If the full scan takes some time to complete, you can check the status by selecting **Results** from the application navigator.
+    If the scan completes, a list of findings is displayed. You can also find all the checks that ran as a part of the scan by selecting the Checks related list. If any of the checks fails, click Failures related list to review them. If the full scan takes some time to complete, you can check the status by selecting **Results** from the application navigator.
 
 
 **Parent Topic:**[Using Instance Scan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-using-scans.md)
@@ -60,9 +60,3 @@ Role required: admin
 
 [Using the Instance Scan dashboard]()
 
-## Related
-
-- [[hs-landing-page|Instance Scan]]
-- [[hs-results|Results]]
-- [[hc-scan-results|Scan results]]
-- [[hs-findings|Findings]]

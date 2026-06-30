@@ -12,7 +12,7 @@ breadcrumb: [Create a quiz, Quiz designer, Using Quizzes, Quizzes, Assessments a
 
 # Publish a quiz
 
-When you publish a quiz, the system sends [[email|email]] notifications to the recipients and to their managers. A card in each recipient's **My [[r_Assessments|Assessments]] &amp; [[r_SurveyManagementLandingPage|Surveys]]** portal displays a link to the quiz.
+When you publish a quiz, the system sends email notifications to the recipients and to their managers. A card in each recipient's **My Assessments &amp; Surveys** portal displays a link to the quiz.
 
 ## Before you begin
 
@@ -25,17 +25,10 @@ Role required: assessment\_admin or admin
 2.  When you are satisfied with the quiz, click **Save and Publish** or **Publish** to distribute it.
 
 
-**Parent Topic:**[[t_CreateaQuiz|Create a quiz]]
+**Parent Topic:**[Create a quiz](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateaQuiz.md)
 
 **Related topics**  
 
 
-[[c_QuizDesigner|Quiz designer]]
+[Quiz designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_QuizDesigner.md)
 
-## Related
-
-- [[t_CreateaQuiz|Create a quiz]]
-- [[c_QuizDesigner|Quiz designer]]
-- [[email|Email]]
-- [[r_Assessments|Assessments]]
-- [[r_SurveyManagementLandingPage|Surveys]]

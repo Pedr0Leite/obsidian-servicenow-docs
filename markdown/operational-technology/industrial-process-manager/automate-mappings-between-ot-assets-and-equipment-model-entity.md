@@ -14,7 +14,7 @@ breadcrumb: [Managing equipment models, Use, Industrial Process Manager, Operati
 
 # Automated Mapping Across Zone-based IP Network Groups
 
-Automate mapping of [[operational-technology-overview|Operational Technology]] \(OT\) devices to the production process using the Automated Mapping Across Zone-based IP Network Groups \(AMAZING\) feature.​
+Automate mapping of Operational Technology \(OT\) devices to the production process using the Automated Mapping Across Zone-based IP Network Groups \(AMAZING\) feature.​
 
 When OT managers experience vulnerabilities or must manage workflow involving OT devices, the context of how the OT device connects to the production process it automates is critical to prioritizing work. ​ ​Automatic mapping of OT devices to ISA equipment model entities enables the view of device-to-process relationships​.
 
@@ -29,7 +29,7 @@ When OT managers experience vulnerabilities or must manage workflow involving OT
 
 Industrial networks use subnets to divide the private IP address space with a single subnet often aligned to a part of the production process, or the equipment model entity. For example, a canning line runs on a 192.168.101.0/24 network in which all the equipment was programmed by the integrator. The IPs used by the control systems, or OT devices, are often hard-coded into the automation software used to run the line. If the subnet maps to the canning line in the Atlanta site, a manager can automatically map a detected PLC with IP 192.168.101.66 to the canning line.
 
-The mapping feature relates each subnet to an equipment model entity, enabling you to automatically map OT devices to the subnets associated with the equipment model entity based on the IP address that was reported upon import from an OT-certified integration or ServiceNow®'s [[discovery-for-operational-technology|IT Discovery for Operational Technology \(OT\) Networks]].​
+The mapping feature relates each subnet to an equipment model entity, enabling you to automatically map OT devices to the subnets associated with the equipment model entity based on the IP address that was reported upon import from an OT-certified integration or ServiceNow®'s [IT Discovery for Operational Technology \(OT\) Networks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/discovery-for-operational-technology.md).​
 
 ## Types of mapping
 
@@ -137,7 +137,7 @@ Enabling the mapping feature requires the following plugins:
 -   [Industrial Process Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/industrial-process-manager-overview.md)
 -   [Industrial Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/industrial-core-plugin.md)
 
-If the required plugins are installed, an ISA administrator can access the subnet mapping feature from the [[industrial-process-manager-overview|Industrial Process Manager]] application menu on the ServiceNow AI Platform.
+If the required plugins are installed, an ISA administrator can access the subnet mapping feature from the Industrial Process Manager application menu on the ServiceNow AI Platform.
 
 -   **[Workflow for the automated mapping feature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/workflow-automated-dynamic-mapping-feature.md)**  
 The Industrial Process Manager includes an automated flow for the automated mapping feature.
@@ -160,8 +160,3 @@ View a list of all the Operational Technology \(OT\) devices that are mapped to 
 
 **Parent Topic:**[Managing equipment models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/managing-equipment-models-after-data-import.md)
 
-## Related
-
-- [[discovery-for-operational-technology|IT Discovery for Operational Technology \(OT\) Networks]]
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-process-manager-overview|Industrial Process Manager]]

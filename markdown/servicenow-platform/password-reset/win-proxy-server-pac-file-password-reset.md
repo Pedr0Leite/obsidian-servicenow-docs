@@ -22,7 +22,7 @@ Role required: Windows system administrator
 
 ## About this task
 
-The [[win-password-reset-overview|Password Reset Windows Application]] internal classes automatically pick the configuration that is done using **Use automatic configuration script** at the Internet Explorer level. If you configure the proxy at Internet Explorer, level all the changes done at a remote proxy level are applicable in the Password Reset Windows Application as well.
+The Password Reset Windows Application internal classes automatically pick the configuration that is done using **Use automatic configuration script** at the Internet Explorer level. If you configure the proxy at Internet Explorer, level all the changes done at a remote proxy level are applicable in the Password Reset Windows Application as well.
 
 ## Procedure
 
@@ -32,7 +32,7 @@ The [[win-password-reset-overview|Password Reset Windows Application]] internal 
 
     \[Omitted image "Internet-options.png"\] Alt text: Internet options
 
-3.  Select the **Use automatic configuration script** [[check-box|check box]].
+3.  Select the **Use automatic configuration script** check box.
 
     \[Omitted image "lan.png"\] Alt text: Use automatic configuration script
 
@@ -46,7 +46,3 @@ In this proxy configuration, the Proxy Auto-Configuration \(PAC\) file can be co
 
 **Parent Topic:**[Configure the Password Reset Windows Application to use a proxy server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/win-config-proxy-server-password-reset.md)
 
-## Related
-
-- [[win-password-reset-overview|Password Reset Windows Application]]
-- [[check-box|Check box]]

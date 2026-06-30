@@ -22,7 +22,7 @@ You can also configure **Typeahead** search settings to allow search results to 
 
 Enable AI Search to take advantage of intelligent query features and allow constituents to find the answers they need.
 
-**Parent Topic:**[[psds-config-gds-content-pack-gsp|Configure the GOV.UK Design System \(GDS\) Service Portal]]
+**Parent Topic:**[Configure the GOV.UK Design System \(GDS\) Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gds-content-pack-gsp.md)
 
 ## Configure search sources in GDS Service Portal
 
@@ -265,6 +265,3 @@ To use AI Search for knowledge articles, you can keep the default **Knowledge Ba
 
 Search widgets that you cloned or customized before a system upgrade may not be compatible with AI Search. You can resolve this issue by running a fix script that reclassifies search widget instances. For more information, see [Reclassify cloned or customized search widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/reclassify-search-widgets.md).
 
-## Related
-
-- [[psds-config-gds-content-pack-gsp|Configure the GOV.UK Design System \(GDS\) Service Portal]]

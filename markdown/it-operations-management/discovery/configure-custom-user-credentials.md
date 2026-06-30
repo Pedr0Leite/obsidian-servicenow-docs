@@ -14,14 +14,14 @@ breadcrumb: [AWS SSM discovery, Discovery for AWS, Discovery for cloud environme
 
 # Configure custom user credentials
 
-Define a non-root user for [[aws-ssm-discovery|AWS SSM discovery]] by creating a credential record that specifies a user name with sufficient privileges to execute [[r-discovery|discovery]] commands on Linux targets.
+Define a non-root user for AWS SSM discovery by creating a credential record that specifies a user name with sufficient privileges to execute discovery commands on Linux targets.
 
 ## Before you begin
 
 Confirm the following:
 
 -   The system property **glide.discovery.enable\_ssm** is turned on. For more information, see [Enable AWS SSM-based discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/enable-aws-ssm-based-discovery.md).
--   The user you're assigning as the non-root user has access to run all the necessary commands on the target server. This user requires the same access as credentials used for regular [[r_DataCollDiscoLinuxComputers|Linux discovery]], including the necessary root-level access for privileged commands. For more information, see [Credentials required for host discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/r_Credentials4HostDiscovery.md) and [SSH credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/r_SSHCredentialsForm.md)
+-   The user you're assigning as the non-root user has access to run all the necessary commands on the target server. This user requires the same access as credentials used for regular Linux discovery, including the necessary root-level access for privileged commands. For more information, see [Credentials required for host discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/r_Credentials4HostDiscovery.md) and [SSH credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/r_SSHCredentialsForm.md)
 
 Role required: discovery\_admin
 
@@ -52,8 +52,3 @@ Instead of relying on root, you can define a custom user with sufficient privile
 
 A new record is added to the AWS SSM Instance Users \[aws\_ssm\_instance\_user\_credentials\] table.
 
-## Related
-
-- [[aws-ssm-discovery|AWS SSM discovery]]
-- [[r-discovery|Discovery]]
-- [[r_DataCollDiscoLinuxComputers|Linux discovery]]

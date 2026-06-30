@@ -26,7 +26,7 @@ When you submit a reservation, you receive an email notification with the detail
 
 **Note:** As an admin or reservation manager, you cannot edit a reservation opened manually using a URL.
 
-You can also view, edit, or cancel a reservation using the Virtual agent chat support. Navigate to **[[workplace-safety-mgmt-hr|Workplace Core]]** &gt; **[[workplace-services-portal-hr|Workplace service portal]]**, then select the chat icon \(\[Omitted image "chat-icon.png"\] Alt text: Chat icon.\). Enter your question or select **Show Me Everything** to select from a list of available options to make your reservation changes.
+You can also view, edit, or cancel a reservation using the Virtual agent chat support. Navigate to **Workplace Core** &gt; **Workplace service portal**, then select the chat icon \(\[Omitted image "chat-icon.png"\] Alt text: Chat icon.\). Enter your question or select **Show Me Everything** to select from a list of available options to make your reservation changes.
 
 You can also update the reserved workplace item in your reservation and change the date and time of the reservation.
 
@@ -50,7 +50,7 @@ Steps
 
 </td><td>
 
-Navigate to **[[workplace-rsv-mgmt-feat|Workplace Reservation Management]]** &gt; **Portal** &gt; **My Reservations**.
+Navigate to **Workplace Reservation Management** &gt; **Portal** &gt; **My Reservations**.
 
 </td></tr><tr><td id="d250172e121">
 
@@ -60,11 +60,11 @@ Navigate to **[[workplace-rsv-mgmt-feat|Workplace Reservation Management]]** &gt
 
 1.  Navigate to **Workplace Core** &gt; **Workplace service portal** &gt; **Workplace Service Portal Home**.
 
-**Note:** You can also raise or submit a request from the [[employee-center-landing-page|Employee Center]]. On the home page, navigate to **Workplace** &gt; **Browse all Workplace** and select the workplace service.
+**Note:** You can also raise or submit a request from the Employee Center. On the home page, navigate to **Workplace** &gt; **Browse all Workplace** and select the workplace service.
 
 2.  Open My reservations, then follow these steps:
     1.  Select **Reservations** &gt; **My reservations**
-    2.  Select **Open my reservation list** from the [[workplace-services|Workplace services]] catalog.
+    2.  Select **Open my reservation list** from the Workplace services catalog.
         1.  Select **Catalog** &gt; **Browse by categories** &gt; **Workplace Services Catalog**
 
 **Note:** If there are multiple catalogs configured on the portal, go to the Catalogs list and select **Workplace Services Catalog**.
@@ -206,10 +206,3 @@ The reservation is updated with your changes and an email notification is sent w
 
 [Download an iCalendar for a reservation]()
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-services-portal-hr|Workplace Service Portal]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-services|Workplace Services]]

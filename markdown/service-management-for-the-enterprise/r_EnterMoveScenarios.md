@@ -16,18 +16,12 @@ Move scenarios are used by the Facilities team to see the implications of a move
 
 Predictive availability considers planned seating changes for the selected scenario \(on or off current level\).
 
--   **[[t_PlanScenarioMPT|Plan a move scenario]]**  
+-   **[Plan a move scenario](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_PlanScenarioMPT.md)**  
 Facilities administrators create move scenarios when planning and executing large-scale moves. When people are added to the scenario, move\_detail records are created. These records contain all the information about the potential move for a specific person, such as the reference to the sys\_user, destination floor, and destination building.
--   **[[t_ActivateADelegator|Activate a delegator]]**  
+-   **[Activate a delegator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_ActivateADelegator.md)**  
 Delegators assign users to seats in a scenario. Activating the delegator sends an email notification request that they assign seats using Move Details.
--   **[[t_AssignSeatsAsADelegator|Assign users to seats]]**  
+-   **[Assign users to seats](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_AssignSeatsAsADelegator.md)**  
 Delegators receive an email notification requesting that they assign seats using Move Details.
 
-**Parent Topic:**[[c_MovePlanningTool|Move planning tool]]
+**Parent Topic:**[Move planning tool](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_MovePlanningTool.md)
 
-## Related
-
-- [[t_PlanScenarioMPT|Plan a move scenario]]
-- [[t_ActivateADelegator|Activate a delegator]]
-- [[t_AssignSeatsAsADelegator|Assign users to seats]]
-- [[c_MovePlanningTool|Move planning tool]]

@@ -12,19 +12,19 @@ breadcrumb: [Configure an input form screen, Input form screen, Mobile screen ty
 
 # Configure input form screen actions
 
-Learn how to configure actions that affect the whole [[parameter-input-screen|input form screen]]. These actions can be accessed with an icon or within a more menu button, located in the top menu bar. For example, you can configure a writeback action to save your work progress on the input form.
+Learn how to configure actions that affect the whole input form screen. These actions can be accessed with an icon or within a more menu button, located in the top menu bar. For example, you can configure a writeback action to save your work progress on the input form.
 
 ## Before you begin
 
 Role required: admin
 
-A loading mechanism is required to refresh the input form screen with updated data. The options available are autofill variables and data sources. For more information, see [[loading-mechanisms|Loading mechanisms for input form screens]].
+A loading mechanism is required to refresh the input form screen with updated data. The options available are autofill variables and data sources. For more information, see [Loading mechanisms for input form screens](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/loading-mechanisms.md).
 
 If your input form only includes input values for loading, and you don’t need to load an input type of attachment, then the autofill variable option is sufficient. If your input form includes either attachments, comments, or descriptive elements, the data source option must be used. The data source option also handles input values.
 
 ## About this task
 
-Input form screen actions are accessed in the top menu as either an icon \(\[Omitted image "icon-ifs-save-progress.png"\] Alt text: More menu icon.\) or within the more menu button options \( \[Omitted image "IconAppMenuAndroid.png"\] Alt text: More menu button.\). The configuration of the writeback action in this task explains how to create a function that enables users to save the progress of data entered in an input form screen before users submit the final version. This feature enables multiple users to collaborate on a single input form screen. Once a user saves the data, it becomes visible to all other users working on the form when they refresh their input form. Writeback actions use the action item function. For more information, see [[sg-studio-create-action-item|Configure an action item]].
+Input form screen actions are accessed in the top menu as either an icon \(\[Omitted image "icon-ifs-save-progress.png"\] Alt text: More menu icon.\) or within the more menu button options \( \[Omitted image "IconAppMenuAndroid.png"\] Alt text: More menu button.\). The configuration of the writeback action in this task explains how to create a function that enables users to save the progress of data entered in an input form screen before users submit the final version. This feature enables multiple users to collaborate on a single input form screen. Once a user saves the data, it becomes visible to all other users working on the form when they refresh their input form. Writeback actions use the action item function. For more information, see [Configure an action item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-studio-create-action-item.md).
 
 **Note:** Input form screens contain a submit button. For this configuration you have the option to configure a save-as-you-work option, the data of which is available to other users after it is saved.
 
@@ -34,23 +34,23 @@ Input form screen actions are accessed in the top menu as either an icon \(\[Omi
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you're working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select the **Screens** category and then either select an existing input form screen or **New**.
 
-    If you select **New**, select the **Input form** option in the [[sg-studio-configure-applet-screens|Create a screen]] page, and then select **Continue**.
+    If you select **New**, select the **Input form** option in the Create a screen page, and then select **Continue**.
 
 4.  In the Input form screen page, select **Screen** in the **Presentation style** field.
 
 5.  Complete the Input form screen form as required.
 
-    For information about the various fields, see [[parameter-screen-config|Configure an input form screen]].
+    For information about the various fields, see [Configure an input form screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/parameter-screen-config.md).
 
 6.  Select one of the following options:
 
@@ -89,8 +89,8 @@ Input form screen actions are accessed in the top menu as either an icon \(\[Omi
 
         **Note:** To display the data in the input form after the save action, you must configure one of the following loading mechanisms:
 
-        -   Autofill variable: For more information, see [[param-screen-config-inputs|Configure input form screen inputs]].
-        -   Data source: For more information, see [[data-sources|Data sources]].
+        -   Autofill variable: For more information, see [Configure input form screen inputs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/param-screen-config-inputs.md).
+        -   Data source: For more information, see [Data sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/data-sources.md).
     6.  Enter `true` in the **Value** field.
     7.  Select **Save**.
 14. Select **Save**.
@@ -98,17 +98,5 @@ Input form screen actions are accessed in the top menu as either an icon \(\[Omi
 
 ## What to do next
 
-**Use timestamps to track users changes in the input form**. To monitor the changes made by different users on an input form screen, you must enable the track timestamps option and use a script. The **Track timestamps for input updates** field is on the main input form screen record. For more information, see [Configure an input form screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/parameter-screen-config.md). It tracks the time the input’s value changed. This information is accessible using the scripted writeback action. For a code example of this writeback action, see [[track-timestamp-script|Using timestamps to track user changes in an input form]].
+**Use timestamps to track users changes in the input form**. To monitor the changes made by different users on an input form screen, you must enable the track timestamps option and use a script. The **Track timestamps for input updates** field is on the main input form screen record. For more information, see [Configure an input form screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/parameter-screen-config.md). It tracks the time the input’s value changed. This information is accessible using the scripted writeback action. For a code example of this writeback action, see [Using timestamps to track user changes in an input form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/track-timestamp-script.md).
 
-## Related
-
-- [[loading-mechanisms|Loading mechanisms for input form screens]]
-- [[sg-studio-create-action-item|Configure an action item]]
-- [[parameter-screen-config|Configure an input form screen]]
-- [[param-screen-config-inputs|Configure input form screen inputs]]
-- [[data-sources|Data sources]]
-- [[track-timestamp-script|Using timestamps to track user changes in an input form]]
-- [[parameter-input-screen|Input form screen]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]
-- [[sg-studio-configure-applet-screens|Create a screen]]

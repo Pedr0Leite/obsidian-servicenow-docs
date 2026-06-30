@@ -62,8 +62,5 @@ Formula used to calculate the progress value of the goal
 `Progress value of the goal = [(Progress of sub-goal 1 * Weight scale of sub-goal 1) + (Progress of sub-goal 2 * Weight scale of sub-goal 2) + (Progress of target 1 * Weight scale of target 1) + (Progress of target 2 * Weight scale of target 2)] / (Weight scale of sub-goal 1 + Weight scale of sub-goal 2 + Weight scale of target 1 + Weight scale of target 2)`
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[create-esg-goal|Create an Operational Sustainability Management \(formerly ESG Management\) goal]]
+</table>**Parent Topic:**[Create an Operational Sustainability Management \(formerly ESG Management\) goal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/create-esg-goal.md)
 
-## Related
-
-- [[create-esg-goal|Create an Operational Sustainability Management \(formerly ESG Management\) goal]]

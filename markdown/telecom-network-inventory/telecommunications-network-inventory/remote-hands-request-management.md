@@ -29,7 +29,7 @@ If their request doesn’t fall under the listed options, users can select the *
 
 ## Remote Hands Request Management Case Creation
 
-Remote Hands Request Management is implemented using the Remote Hands Case table \(sn\_remote\_hands\_case\). This case table stores customer service requests related to remote hands activities. When a customer submits a [[remote-hands-request|Remote Hands request]] through the Customer Service Management \(CSM\) portal, the form data is captured and mapped to the corresponding fields in the Remote Hands Case table \(sn\_remote\_hands\_case\). On submission, a Remote Hands Case record is automatically created in the system.
+Remote Hands Request Management is implemented using the Remote Hands Case table \(sn\_remote\_hands\_case\). This case table stores customer service requests related to remote hands activities. When a customer submits a Remote Hands request through the Customer Service Management \(CSM\) portal, the form data is captured and mapped to the corresponding fields in the Remote Hands Case table \(sn\_remote\_hands\_case\). On submission, a Remote Hands Case record is automatically created in the system.
 
 The Remote Hand Case table \(sn\_remote\_hands\_case\) extends from the Customer Service Case table \(sn\_customerservice\_case\) in the Customer Service Management portal \(CSM\). By extending the base table, it inherits the standard fields and functionality of the Case table \(sn\_customerservice\_case\) table.
 
@@ -81,7 +81,7 @@ Grants access to submit and review the submitted Remote Hands Request in the CSM
 
 </td><td>
 
-The DCIM User role is intended for your customers. This role inherits the Remote Hands User \(sn\_remote\_hands.user\) and \(sn\_customerservice.customer\) role. Users assigned to this role can submit Remote Hands requests using the [[remote-hands-request-form|Remote Hands request form]] available in the Customer Service Management \(CSM\) portal.
+The DCIM User role is intended for your customers. This role inherits the Remote Hands User \(sn\_remote\_hands.user\) and \(sn\_customerservice.customer\) role. Users assigned to this role can submit Remote Hands requests using the Remote Hands request form available in the Customer Service Management \(CSM\) portal.
 
 </td></tr></tbody>
 </table>## Accessing Remote Hands Request Management Interfaces
@@ -108,7 +108,3 @@ Navigate to **CSM/FSM Configurable workspace** &gt; **All** &gt; **Archive Rules
 
 To learn more about the required plugin for Remote Hands Request Management, see [Remote Hands Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/remote-hands-request.md)
 
-## Related
-
-- [[remote-hands-request|Remote Hands Request]]
-- [[remote-hands-request-form|Remote Hands Request form]]

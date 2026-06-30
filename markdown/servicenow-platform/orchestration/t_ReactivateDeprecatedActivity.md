@@ -38,11 +38,8 @@ Role required: workflow\_admin, admin
 
 6.  Click **Update**.
 
-    The system creates a new category using the value provided and reactivates the activity, which becomes available in the **Core** tab of the [[workflow-editor|Workflow Editor]].
+    The system creates a new category using the value provided and reactivates the activity, which becomes available in the **Core** tab of the Workflow Editor.
 
 
 **Parent Topic:**[Deprecated Orchestration activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_OrchestrationBasicActivities.md)
 
-## Related
-
-- [[workflow-editor|Workflow editor]]

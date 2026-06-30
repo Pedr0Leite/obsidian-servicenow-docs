@@ -14,7 +14,7 @@ breadcrumb: [Create a similar records prediction model, Manage, Task Intelligenc
 
 # Set up similar records prediction model
 
-Use [[c-itsm-task-intelligence|Task Intelligence for ITSM]] to set up similar records prediction model, [[define-the-purpose|define the purpose]] of the model, and train it with your data to make predictions. Access your model's performance results, set the prediction preferences and behavior, and deploy your model. 
+Use Task Intelligence for ITSM to set up similar records prediction model, define the purpose of the model, and train it with your data to make predictions. Access your model's performance results, set the prediction preferences and behavior, and deploy your model. 
 
 ## Before you begin
 
@@ -22,12 +22,12 @@ Role required: sn\_ti\_admin.tia\_admin or sn\_itsm\_ml\_task.ti\_admin
 
 ## About this task
 
-You can configure any of the following similarity-based [[c_Models|models]]:
+You can configure any of the following similarity-based models:
 
 -   Similar Incidents: For predicting the similar incidents for incidents table.
 -   Similar open Change Requests for Incident: For predicting the similar change requests for incident table.
 -   Similar open Problems for Incident: For predicting the similar problems for incident table.
--   Major Incident Recommendation: For recommending similar [[process-misingle|active major incidents]] which the current incident can be linked to, and for recommending that you propose similar incidents as a major incident.
+-   Major Incident Recommendation: For recommending similar active major incidents which the current incident can be linked to, and for recommending that you propose similar incidents as a major incident.
 
 ## Procedure
 
@@ -51,9 +51,3 @@ Deploy the Similar incidents model to predict the similar records for the incide
 
 **Parent Topic:**[Create a similar records prediction model in Task Intelligence for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/create-a-similar-records-model-in-task-intelligence-for-itsm.md)
 
-## Related
-
-- [[c-itsm-task-intelligence|Task Intelligence for ITSM]]
-- [[define-the-purpose|Define the purpose]]
-- [[c_Models|Models]]
-- [[process-misingle|Active major incidents]]

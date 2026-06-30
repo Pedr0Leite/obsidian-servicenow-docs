@@ -14,11 +14,7 @@ breadcrumb: [Filter criteria, Adaptive authentication, Authentication, Access Ma
 
 # IP Filter
 
-Use IP filter criteria to filter the [[users|users]] based on the user's IP addresses. Both IPv4 and IPv6 are supported.
+Use IP filter criteria to filter the users based on the user's IP addresses. Both IPv4 and IPv6 are supported.
 
-IP filter criteria allows you to filter users based on the user's IP addresses. You can [[configure-allow-access-policy|configure an authentication policy]] to allow or deny access to a specific address or range of addresses.
+IP filter criteria allows you to filter users based on the user's IP addresses. You can configure an authentication policy to allow or deny access to a specific address or range of addresses.
 
-## Related
-
-- [[users|Users]]
-- [[configure-allow-access-policy|Configure an authentication policy]]

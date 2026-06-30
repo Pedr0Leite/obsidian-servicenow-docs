@@ -53,7 +53,7 @@ Description
 1.  Select **Register External Partner Staff** from the channel partner record.
 2.  Select the **Role Type** you want to associate with your user, whether external partner manager or external partner associate.
 3.  Select **Submit**.
- To learn more about the role type and the member registration [[fields|fields]], see [[member-registration-form|Member registration form]].
+ To learn more about the role type and the member registration fields, see [Member registration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/member-registration-form.md).
 
 </td></tr><tr><td id="d48657e173">
 
@@ -73,19 +73,12 @@ Description
 
 An external staff member or an enterprise partner relationship manager is registered.
 
-**Parent Topic:**[[roles-and-components-of-partner-relationship-management|Roles and components of Partner Relationship Management]]
+**Parent Topic:**[Roles and components of Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/roles-and-components-of-partner-relationship-management.md)
 
 **Related topics**  
 
 
-[[partner-relationship-management|Partner Relationship Management]]
+[Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/partner-relationship-management.md)
 
-[[using-partner-relationship-management|Using Partner Relationship Management]]
+[Using Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-partner-relationship-management.md)
 
-## Related
-
-- [[member-registration-form|Member registration form]]
-- [[roles-and-components-of-partner-relationship-management|Roles and components of Partner Relationship Management]]
-- [[partner-relationship-management|Partner Relationship Management]]
-- [[using-partner-relationship-management|Using Partner Relationship Management]]
-- [[fields|Fields]]

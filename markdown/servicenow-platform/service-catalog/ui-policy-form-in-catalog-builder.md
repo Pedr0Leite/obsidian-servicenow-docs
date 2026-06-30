@@ -66,7 +66,7 @@ On Load
 
 </td><td>
 
-Select the [[check-box|check box]] to apply the UI policy when the form is loaded. Clear the check box to apply the policy only when the form is changed.
+Select the check box to apply the UI policy when the form is loaded. Clear the check box to apply the policy only when the form is changed.
 
 </td></tr><tr><td>
 
@@ -241,6 +241,3 @@ Select the check box so that the UI policy applies while viewing the requested i
 
 [Create UI policies in Catalog Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/create-ui-policies-in-catalog-builder.md)
 
-## Related
-
-- [[check-box|Check box]]

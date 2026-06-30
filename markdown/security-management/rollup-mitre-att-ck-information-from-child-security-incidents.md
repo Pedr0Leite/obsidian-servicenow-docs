@@ -20,7 +20,7 @@ Role required: sn\_si.analyst
 
 ## About this task
 
-If you have enabled [[configure-mitre-att-ck-properties|automatic roll up of MITRE-ATT&amp;CK information from child security incidents]], then the information is automatically rolled up. If you have not enabled automatic rollup, you can do this manually.
+If you have enabled [automatic roll up of MITRE-ATT&amp;CK information from child security incidents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/configure-mitre-att-ck-properties.md), then the information is automatically rolled up. If you have not enabled automatic rollup, you can do this manually.
 
 ## Procedure
 
@@ -43,7 +43,7 @@ If you have enabled [[configure-mitre-att-ck-properties|automatic roll up of MIT
     You can view the MITRE-ATT&amp;CK Card to confirm that the child security incident MITRE-ATT&amp;CK information has been rolled up to the parent security incident.
 
 
-**Parent Topic:**[[mitre-att-ck-features|Using MITRE-ATT&amp;CK to detect and analyze threats]]
+**Parent Topic:**[Using MITRE-ATT&amp;CK to detect and analyze threats](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/mitre-att-ck-features.md)
 
 **Related topics**  
 
@@ -54,7 +54,7 @@ If you have enabled [[configure-mitre-att-ck-properties|automatic roll up of MIT
 
 [Associate MITRE-ATT&amp;CK information with security case]()
 
-[Rollup MITRE-ATT&amp;CK information using [[tisc-threat-lookup|Threat Lookup]] results]()
+[Rollup MITRE-ATT&amp;CK information using Threat Lookup results]()
 
 [Rollup MITRE-ATT&amp;CK information from detection rules]()
 
@@ -64,8 +64,3 @@ If you have enabled [[configure-mitre-att-ck-properties|automatic roll up of MIT
 
 [Using the MITRE-ATT&amp;CK dashboard]()
 
-## Related
-
-- [[configure-mitre-att-ck-properties|Review the MITRE-ATT&amp;CK system properties]]
-- [[mitre-att-ck-features|Using MITRE-ATT&amp;CK to detect and analyze threats]]
-- [[tisc-threat-lookup|Threat Lookup]]

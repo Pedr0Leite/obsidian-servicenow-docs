@@ -22,13 +22,13 @@ Role required: none
 
 ## About this task
 
-Users can set their notification preferences so they [[c_ReceiveNotifications|receive notifications]] only when they are mentioned. Mentioning a user creates a shortcut to view their basic information and send them a direct message.
+Users can set their notification preferences so they receive notifications only when they are mentioned. Mentioning a user creates a shortcut to view their basic information and send them a direct message.
 
 \[Omitted image "ConnectMentionMoreInfo.png"\] Alt text: Shortcut to viewing someone's basic information
 
 ## Procedure
 
-1.  Open a [[c_Connect|Connect]] group conversation.
+1.  Open a Connect group conversation.
 
 2.  In the message field, type the `@` character.
 
@@ -36,7 +36,4 @@ Users can set their notification preferences so they [[c_ReceiveNotifications|re
 
 3.  Select the person you want to mention and send the message.
 
-## Related
 
-- [[c_ReceiveNotifications|Receive notifications]]
-- [[c_Connect|Connect]]

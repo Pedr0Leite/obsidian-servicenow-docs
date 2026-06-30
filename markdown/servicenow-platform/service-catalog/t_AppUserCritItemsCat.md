@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-The user criteria restriction applies only within [[service-catalog|Service Catalog]] for the specific item that it’s applied for. However, the user criteria restriction isn’t applied outside the Service Catalog where the user has access to the item via the table.
+The user criteria restriction applies only within Service Catalog for the specific item that it’s applied for. However, the user criteria restriction isn’t applied outside the Service Catalog where the user has access to the item via the table.
 
 To apply criteria directly to an item or category, use the Available For or Not Available For related lists in the Item or Category form.
 
@@ -49,7 +49,7 @@ Role required: admin
 
 ### About this task
 
-You can apply user criteria to all types of catalog item, including [[c_ServiceCatalogOrderGuides|order guides]], content items, and record producers.
+You can apply user criteria to all types of catalog item, including order guides, content items, and record producers.
 
 **Note:** The user criteria restriction applies only within Service Catalog for the specific item it is applied for. However, the user criteria restriction is not applied outside the Service Catalog where the user has access to the item via the table.
 
@@ -85,7 +85,3 @@ Role required: admin
     -   The **Not Available For** settings override **Available For** settings. A user on the **Not Available For** list for a category cannot access that category, even if that user is also on the **Available For** list for that category.
     -   The user criteria restrictions of a category do not automatically apply to the catalog items within the category. If required, you should apply the user criteria restrictions to the individual catalog items.
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[c_ServiceCatalogOrderGuides|Order guides]]

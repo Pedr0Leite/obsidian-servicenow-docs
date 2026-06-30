@@ -14,7 +14,7 @@ breadcrumb: [Workflow validator, Workflow validation, Workflow management, Class
 
 # ValidateWorkflowStateValues
 
-The **ValidateWorkflowStateValues** validator checks a number of stage aspects in [[c_WorkflowActivities|workflow activities]] for correctness.
+The **ValidateWorkflowStateValues** validator checks a number of stage aspects in workflow activities for correctness.
 
 This validator has multiple possible error messages.
 
@@ -48,14 +48,10 @@ Use the following procedure to troubleshoot this validator:
 
 4.  If the same stage name or value apprears more than once, remove one of the rows. It is then very important to go through the workflow and reassign stages in the activities that used the removed stage.
 
-    \[Omitted image "ValidateWorkflowStateValues.png"\] Alt text: [[c_WorkflowStages|Workflow Stages]] record showing the Request Cancelled and Closed Incomplete stage names with a value of closed\_complete.
+    \[Omitted image "ValidateWorkflowStateValues.png"\] Alt text: Workflow Stages record showing the Request Cancelled and Closed Incomplete stage names with a value of closed\_complete.
 
 
 Tip: Make a list of which activities assign which stages.
 
 **Parent Topic:**[Workflow validator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/r_WorkflowValidator.md)
 
-## Related
-
-- [[c_WorkflowActivities|Workflow activities]]
-- [[c_WorkflowStages|Workflow stages]]

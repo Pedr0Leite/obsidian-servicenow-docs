@@ -14,7 +14,7 @@ breadcrumb: [Configuring Learning Core, Learning Core, HR Service Delivery, Empl
 
 # Administration tasks in Learning Core
 
-Complete the administrative tasks in [[learning-core_overview|Learning Core]] with the [[exploring-learning-exp|Learning]] admin \[learning\_admin\] role.
+Complete the administrative tasks in Learning Core with the Learning admin \[learning\_admin\] role.
 
 ## Before you begin
 
@@ -26,9 +26,9 @@ Role required: learning\_admin
 
     For more information, see [Create a source for a learning system](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/set-up-int-lc.md).
 
-    **Important:** Once you set up the Learning Core application, the source record for Cornerstone OnDemand, Pluralsight, Udemy, Sumtotal , and Saba applications are automatically created in the Source module in [[hr-integrations-framework|Enterprise Service Management Integrations Framework]]. These source records contain a predefined set of properties and integration services that help in pulling learning courses from Cornerstone On Demand, Pluralsight, Udemy, Sumtotal, and Saba applications into your ServiceNow instance.
+    **Important:** Once you set up the Learning Core application, the source record for Cornerstone OnDemand, Pluralsight, Udemy, Sumtotal , and Saba applications are automatically created in the Source module in Enterprise Service Management Integrations Framework. These source records contain a predefined set of properties and integration services that help in pulling learning courses from Cornerstone On Demand, Pluralsight, Udemy, Sumtotal, and Saba applications into your ServiceNow instance.
 
-2.  [[oracle-hcm-properties|Configure properties]] for various settings used in Learning Core.
+2.  Configure properties for various settings used in Learning Core.
 
     For more information, see [Configure properties for Learning Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/config-ln-prop.md).
 
@@ -51,9 +51,3 @@ Configure the learning system so that the schedule flow pulls learning content f
 
 [Integrating Learning Core with third-party learning management systems]()
 
-## Related
-
-- [[learning-core_overview|Learning Core]]
-- [[exploring-learning-exp|Learning]]
-- [[hr-integrations-framework|Enterprise Service Management Integrations Framework]]
-- [[oracle-hcm-properties|Configure properties]]

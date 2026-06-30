@@ -14,11 +14,11 @@ breadcrumb: [Agent Client Collector, IT Operations Management]
 
 # Agent Client Collector Log Analytics
 
-Agent Client Collector Log Analytics \(ACC-L\) enables you to stream log data from Linux and Windows hosts to a ServiceNow instance, using the [[acc-landing-page|Agent Client Collector]].
+Agent Client Collector Log Analytics \(ACC-L\) enables you to stream log data from Linux and Windows hosts to a ServiceNow instance, using the Agent Client Collector.
 
 As with Agent Client Collector Framework \(ACC-F\), the Agent Client Collector connects to a MID Server. A single MID Server may support multiple agents, while a single agent works with one MID Server at a time and switches to a different MID Server when necessary to provide failover protection.
 
-Use the Agent Client Collector to stream log data to your ServiceNow® instance by means of a log shipper. The log data is mapped and structured in the ServiceNow® [[hla-landing-page|Health Log Analytics]] application. For more information, see the [Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-landing-page.md) product documentation.
+Use the Agent Client Collector to stream log data to your ServiceNow® instance by means of a log shipper. The log data is mapped and structured in the ServiceNow® Health Log Analytics application. For more information, see the [Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-landing-page.md) product documentation.
 
 Agent Client Collector Log Analytics has a dependency on the Health Log Analytics application, Version 22.0.12 - December 2021 and later, available from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home). Streaming log data from Windows hosts is supported in Agent Client Collector Log Analytics Version 3.1.0 and later.
 
@@ -28,10 +28,5 @@ To enable Agent Client Collector Log Analytics, you enable log analytics on the 
 
 ## Dependencies
 
-For a list of Agent Client Collector Log Analytics plugin dependencies, see [[plugin-app-itom-health|Plugins or applications installed with ITOM AIOps]].
+For a list of Agent Client Collector Log Analytics plugin dependencies, see [Plugins or applications installed with ITOM AIOps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/plugin-app-itom-health.md).
 
-## Related
-
-- [[plugin-app-itom-health|Plugins or applications installed with ITOM AIOps]]
-- [[acc-landing-page|Agent Client Collector]]
-- [[hla-landing-page|Health Log Analytics]]

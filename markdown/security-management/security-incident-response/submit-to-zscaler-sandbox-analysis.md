@@ -24,7 +24,7 @@ Role required: sn\_si.admin
 
 When you create a Zscaler configuration, a Zscaler sandbox submission is created by default in the Zscaler Sandbox Configuration module.
 
-The name and source fields are auto-filled, and the configuration is enabled by default. You can edit only the display tag and the active options. Zscaler Internet Access product enables you to fetch only the sandbox report for the MD5 hash type [[c_Observables|observables]].
+The name and source fields are auto-filled, and the configuration is enabled by default. You can edit only the display tag and the active options. Zscaler Internet Access product enables you to fetch only the sandbox report for the MD5 hash type observables.
 
 The analysis for the file that is associated with the MD5 hash should be complete and the corresponding report should be in the Zscaler sandbox. If the MD5 hash that you send does not have a report in Zscaler, you get an error message.
 
@@ -51,6 +51,3 @@ The analysis for the file that is associated with the MD5 hash should be complet
 
 You can also view the results from the Show All Related Lists and Sandbox Submission Results tab.
 
-## Related
-
-- [[c_Observables|Observables]]

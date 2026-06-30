@@ -14,7 +14,7 @@ breadcrumb: [Configure the Matrix Loader, CPQ app, Configure, price, quote apps,
 
 Use indexes and natural keys to improve rule engine performance and speed up table lookups.
 
-CPQ supports the integration of natural keys and indexes for faster table lookups and heightened [[rules_101|rules]] engine performance.
+CPQ supports the integration of natural keys and indexes for faster table lookups and heightened rules engine performance.
 
 This enhancement to CPQ's table management system introduces compatibility with up to three natural keys per table and the addition of two indexed columns.
 
@@ -60,11 +60,7 @@ Some factors associated with natural keys and Indexes might hamper table import.
 **Related topics**  
 
 
-[[table_queries|Minimizing table queries]]
+[Minimizing table queries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/table_queries.md)
 
 [The lookup function: commands and syntax](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-## Related
-
-- [[table_queries|Minimizing table queries]]
-- [[rules_101|Rules]]

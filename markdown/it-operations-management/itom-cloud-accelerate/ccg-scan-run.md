@@ -14,9 +14,9 @@ breadcrumb: [Using Cloud Configuration Governance, Cloud Configuration Governanc
 
 # Scan run
 
-Each execution of a [[ccg-scan-configuration|scan configuration]] is called a scan run. The Scan Runs module displays a list of all the scan runs.
+Each execution of a scan configuration is called a scan run. The Scan Runs module displays a list of all the scan runs.
 
-[[cloud-configuration-governance|Cloud Configuration Governance]] displays the following information for each scan run in a related list:
+Cloud Configuration Governance displays the following information for each scan run in a related list:
 
 -   **Scan Status**: This tab displays the data collection status at the service account level. Open the scan run record to view the configuration data collection status for each datacenter covered in the scan. Use the flow execution context to troubleshoot the execution of the policy.
 -   **Policy Run Status**: This tab displays information on the policies executed during the scan run and the status of their execution. Use the flow execution context to troubleshoot the execution of the policy.
@@ -32,7 +32,3 @@ Each execution of a [[ccg-scan-configuration|scan configuration]] is called a sc
 
 [Scan configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/ccg-scan-configuration.md)
 
-## Related
-
-- [[ccg-scan-configuration|Scan configuration]]
-- [[cloud-configuration-governance|Cloud Configuration Governance]]

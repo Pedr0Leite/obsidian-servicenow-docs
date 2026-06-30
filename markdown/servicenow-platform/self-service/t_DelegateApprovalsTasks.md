@@ -46,17 +46,13 @@ Ensure that the Delegates related list displays on the form. If the Delegates re
 
     -   **Approvals**: The delegate can approve items on your behalf.
     -   **Assignments**: The delegate can view and work on tasks assigned to you.
-    -   **All notifications**: The delegate receives a copy of [[email|email]] notifications sent to you, except those marked as Meeting Invitation.
+    -   **All notifications**: The delegate receives a copy of email notifications sent to you, except those marked as Meeting Invitation.
 
         **Note:**
 
-        -   If the **Approvals** [[check-box|check box]] is selected but **All notifications** is not, the delegate does not receive approvals.
+        -   If the **Approvals** check box is selected but **All notifications** is not, the delegate does not receive approvals.
         -   If your delegate gets email notifications, they will be the same email notifications sent to you. The delegate may be confused to see "Incident assigned to you" emails, so make sure they know they are a delegate.
     -   **Meeting invitations**: The delegate receives a copy of email notifications sent of the type Meeting Invitation.
 
 **Parent Topic:**[Service Delegation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/self-service/c_ServiceDelegation.md)
 
-## Related
-
-- [[email|Email]]
-- [[check-box|Check box]]

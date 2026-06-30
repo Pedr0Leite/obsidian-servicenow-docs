@@ -34,7 +34,7 @@ Sometimes work orders are opened with the same purpose, and these work orders sh
 
 The difference between a work order template and task template is you can’t create a task template alone, it must be part of the work order template. Creating a task template is a step of creating a work order template since you can define tasks and task templates for a work order or work order template.
 
-With request tasks, work order tasks are not required, though they can be used. [[c_RequestTasksMgmt|Request task management]] gives you the ability to split a request into multiple tasks. This document, Create a task template for common request tasks, describes the ability to use the work order task templates to apply them to common or repeated requests that you might have.
+With request tasks, work order tasks are not required, though they can be used. Request task management gives you the ability to split a request into multiple tasks. This document, Create a task template for common request tasks, describes the ability to use the work order task templates to apply them to common or repeated requests that you might have.
 
 ## Procedure
 
@@ -66,6 +66,4 @@ With request tasks, work order tasks are not required, though they can be used. 
 
 5.  Select **Submit**.
 
-## Related
 
-- [[c_RequestTasksMgmt|Request task management]]

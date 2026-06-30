@@ -14,7 +14,7 @@ breadcrumb: [Using knowledge blocks, Using Knowledge Management, Knowledge Manag
 
 # Add knowledge blocks to a knowledge article
 
-You can insert one or more [[knowledge-blocks|knowledge blocks]] into a knowledge article within a knowledge base. Each knowledge block is secured by user criteria, which controls who can read or not read the content in an article.
+You can insert one or more knowledge blocks into a knowledge article within a knowledge base. Each knowledge block is secured by user criteria, which controls who can read or not read the content in an article.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: user must have contributor access to the knowledge base.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[self-service-landing|Self-Service]]** &gt; **My Knowledge Articles**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **My Knowledge Articles**.
 
 2.  Click **New** or open a record.
 
@@ -32,7 +32,7 @@ Role required: user must have contributor access to the knowledge base.
 
 3.  Select an article template.
 
-    **Note:** You can add or remove knowledge blocks in more than one [[html|HTML]] field of any article template including custom templates.
+    **Note:** You can add or remove knowledge blocks in more than one HTML field of any article template including custom templates.
 
 4.  Fill in the fields on the form, as appropriate.
 
@@ -97,8 +97,3 @@ Steps
 
 **Parent Topic:**[Using knowledge blocks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/using-knowlege-blocks.md)
 
-## Related
-
-- [[knowledge-blocks|Knowledge blocks]]
-- [[self-service-landing|Self-service]]
-- [[html|HTML]]

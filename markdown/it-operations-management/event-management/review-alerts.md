@@ -15,11 +15,11 @@ breadcrumb: [Configure Event Management using Setup Hub, Configuring Event Manag
 
 # Review alerts
 
-Access the Express List interface to review and manage alerts in your [[c_EM|Event Management]] system.
+Access the Express List interface to review and manage alerts in your Event Management system.
 
 ## Before you begin
 
-Verify that you have installed the [[itom-health-landing-page|ITOM AIOps]] and Now Assist for [[r_ITOMApplications|IT Operations Management]] \(ITOM\) plugins.
+Verify that you have installed the ITOM AIOps and Now Assist for IT Operations Management \(ITOM\) plugins.
 
 Ensure you are in the Configure IT Operations Management page.
 
@@ -52,8 +52,4 @@ When reviewing alerts, validate the following to ensure your event pipeline is h
 
 5.  To complete the setup, select **Mark as configured**.
 
-## Related
 
-- [[c_EM|Event Management]]
-- [[itom-health-landing-page|ITOM AIOps]]
-- [[r_ITOMApplications|IT Operations Management]]

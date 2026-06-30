@@ -15,7 +15,7 @@ breadcrumb: [Digital Product Release Policy Content Pack, Digital Product Releas
 
 # Digital Product Release policies
 
-The [[dpr-policy-content-pack|Digital Product Release Policy Content Pack]] contains a set of policies to automate phase gate verification and continuous evaluation of software artifacts.
+The Digital Product Release Policy Content Pack contains a set of policies to automate phase gate verification and continuous evaluation of software artifacts.
 
 You can use or customize these default DPR policies to validate that your configuration data content is conformable, or administrate the full life cycle of PaCE policies. For more information, see [Policy as Code Engine \(PaCE\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/pace-managing-policies.md).
 
@@ -192,6 +192,3 @@ The following policies don't apply to service releases.
 
 [Digital Product Release data collectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-data-collector.md)
 
-## Related
-
-- [[dpr-policy-content-pack|Digital Product Release Policy Content Pack]]

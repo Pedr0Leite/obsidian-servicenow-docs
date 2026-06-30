@@ -14,7 +14,7 @@ breadcrumb: [Exploring Visual Task Boards, Visual Task Boards, Configure UIs and
 
 # Elements of Visual Task Boards
 
-[[c_VisualTaskBoards|Visual Task Boards]] contain cards that represent a task. These cards are arranged in lanes based on the criteria you choose to sort them.
+Visual Task Boards contain cards that represent a task. These cards are arranged in lanes based on the criteria you choose to sort them.
 
 Visual Task Boards contain the elements shown in the image below. Each element is described in the following table.
 
@@ -57,7 +57,7 @@ Cards
 
 </td><td>
 
-Represent individual tasks that you can assign to users. You can add comments, [[attachments-configurable-workspace|attachments]], and labels to cards. Each card is tied to a task record; updating one immediately updates the other. For freeform boards, each card represents a personal task.
+Represent individual tasks that you can assign to users. You can add comments, attachments, and labels to cards. Each card is tied to a task record; updating one immediately updates the other. For freeform boards, each card represents a personal task.
 
  For flexible and guided boards, each card represents a record from the list that board was created from. For more information, see [Create Flexible and Guided boards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/t_CreateAFlexibleOrGuidedBoard.md).
 
@@ -75,7 +75,7 @@ Displays labels and users associated with the board. Board members can use the q
 
 </td><td>
 
-Displays board information, board members, the board [[activity-stream-configurable-workspace|activity stream]], and board labels.
+Displays board information, board members, the board activity stream, and board labels.
 
 </td></tr><tr><td>
 
@@ -88,8 +88,3 @@ Organize cards on a board into horizontal lanes. These lanes often represent the
 </td></tr></tbody>
 </table>**Parent Topic:**[Exploring Visual Task Boards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/exploring-vis-task-boards.md)
 
-## Related
-
-- [[c_VisualTaskBoards|Visual Task Boards]]
-- [[attachments-configurable-workspace|Attachments]]
-- [[activity-stream-configurable-workspace|Activity stream]]

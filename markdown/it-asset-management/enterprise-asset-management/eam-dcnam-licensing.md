@@ -14,11 +14,11 @@ breadcrumb: [Enterprise Asset Management for Data Center and Network Asset Manag
 
 # Enterprise Asset Management for Data Center and Network Asset Management \(DCNAM\) licensing
 
-The [[eam-dcnam|Enterprise Asset Management for Data Center and Network Asset Management \(DCNAM\)]] application supports a unit-based subscription licensing model in which you must pay a recurring fee for assets to use the application. You can determine the licensing requirements and costs for these assets based on their resource categories and corresponding subscription unit ratios.
+The Enterprise Asset Management for Data Center and Network Asset Management \(DCNAM\) application supports a unit-based subscription licensing model in which you must pay a recurring fee for assets to use the application. You can determine the licensing requirements and costs for these assets based on their resource categories and corresponding subscription unit ratios.
 
 Resource categories group specific types of assets together and enable them to use the features and workflows of an application. Each resource category is associated with a corresponding subscription unit ratio, which you can use to group the given assets against a standardized cost. You can use this information to determine the total licensing requirements and costs for assets within each resource category. For example, a ratio of 25:1 indicates that one subscription is required for every 25 assets within a given resource category. If one subscription costs $100 and you have 50 assets within that resource category, you must purchase two subscriptions for a total of $200.
 
-The [[enterprise-asset-management|Enterprise Asset Management]] for DCNAM application supports the following resource categories.
+The Enterprise Asset Management for DCNAM application supports the following resource categories.
 
 **Note:** These resource categories are automatically enabled when you activate the Enterprise Asset Management for DCNAM application on your ServiceNow instance.
 
@@ -32,7 +32,7 @@ Subscription unit ratio
 
 </th><th>
 
-Supported asset [[model-hierarchy|model categories]]
+Supported asset model categories
 
 </th></tr></thead><tbody><tr><td>
 
@@ -94,15 +94,9 @@ Linear asset segment
 N/A
 
 </td></tr></tbody>
-</table>**Note:** These resource categories support serialized assets only. You are not charged for any [[c_ReceiveAConsumableAsset|consumable assets]].
+</table>**Note:** These resource categories support serialized assets only. You are not charged for any consumable assets.
 
 You can view subscription consumption information for the Enterprise Asset Management for DCNAM application by using the ITAM Licensing Resource Counts \[itam\_licensing\_resource\_counts\] table. For more details, see [View your subscription consumption for the Enterprise Asset Management for Data Center and Network Asset Management \(DCNAM\) application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/view-subscription-consumption-eam-dcnam.md).
 
 **Parent Topic:**[Enterprise Asset Management for Data Center and Network Asset Management \(DCNAM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/eam-dcnam.md)
 
-## Related
-
-- [[eam-dcnam|Enterprise Asset Management for Data Center and Network Asset Management \(DCNAM\)]]
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[model-hierarchy|Model categories]]
-- [[c_ReceiveAConsumableAsset|Consumable assets]]

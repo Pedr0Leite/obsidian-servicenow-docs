@@ -14,7 +14,7 @@ breadcrumb: [Synchronize Indoor Mapping with CMN Locations, Manage map objects a
 
 # Add CMN locations and map it to Indoor Mapping Place types
 
-CMN Locations types are not available by default in the [[Indoor-mapping|Indoor Mapping]] Place types table. Associate or map an existing CMN Location type in your instance with a corresponding CMN Location Type column in the Indoor Mapping Place Types table. When CMN Location types are not available, create a CMN location type to associate it with a Indoor Mapping Place type.
+CMN Locations types are not available by default in the Indoor Mapping Place types table. Associate or map an existing CMN Location type in your instance with a corresponding CMN Location Type column in the Indoor Mapping Place Types table. When CMN Location types are not available, create a CMN location type to associate it with a Indoor Mapping Place type.
 
 ## Before you begin
 
@@ -85,6 +85,3 @@ The CMN location types are added and ready to be mapped with corresponding Indoo
 
 **Next topic:**[Synchronize Indoor Mapping map data with CMN location](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/sync-ind-mapping-cmn-location.md)
 
-## Related
-
-- [[Indoor-mapping|Indoor Mapping]]

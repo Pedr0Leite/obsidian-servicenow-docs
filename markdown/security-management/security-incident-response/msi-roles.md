@@ -38,14 +38,14 @@ sn\_msi.workspace\_admin
 
 </td><td>
 
-Can I [[configure-cortex-xsiam-siem|install and configure]] Major Incident Management and set up the dependent applications such as File Explorer \(FE\), Microsoft Teams and Chat Channel configuration, Workspace setup, and MSI Administration: Configurations and Notifications setup.How to set up:
+Can I install and configure Major Incident Management and set up the dependent applications such as File Explorer \(FE\), Microsoft Teams and Chat Channel configuration, Workspace setup, and MSI Administration: Configurations and Notifications setup.How to set up:
 
  -   File Explorer \(FE\) component:
     -   Configure file repository.
-    -   Configure file and folder actions, which are provided on the File Explorer component of the Collaboration tab in the [[msim-workspace|Major Security Incident Management workspace]].
+    -   Configure file and folder actions, which are provided on the File Explorer component of the Collaboration tab in the Major Security Incident Management workspace.
     -   Create the root folders and subfolders, and provide access to the subfolders.
 -   Chat channel management
-    -   Activate and [[chat-channel-provider-config|configure Microsoft Teams]] by validating Microsoft Teams connection.
+    -   Activate and configure Microsoft Teams by validating Microsoft Teams connection.
     -   Create chat teams and chat channels, and add users and assign users to the various user groups.
 -   MSI Administration:
     -   Configurations: Configure the security analysts actions, notifications sent when incidents are proposed and promoted, and display tags for the security incidents.
@@ -61,7 +61,7 @@ sn\_msi.workspace\_manager
 
 </td><td>
 
--   View access to the [[major-security-incident-management-landing-page|major security incident management]] [[qradar-ibm-intg-settings|configuration settings]] page. Restricted from modifying any of the configuration settings.
+-   View access to the major security incident management configuration settings page. Restricted from modifying any of the configuration settings.
 -   View and edit incident record data in the **Details**, **Collaboration**, and **Task Organizer** tabs of the Major Incident Management workspace.
 -   Promote the security incident to a major security incident.
 -   Configure file and folders actions available on the File Explorer component on the **Collaboration** tab of the Major Incident Management workspace.
@@ -92,10 +92,3 @@ sn\_msi.workspace\_responder
 
 [Checklist for MSIM setup]()
 
-## Related
-
-- [[configure-cortex-xsiam-siem|Install and Configure]]
-- [[msim-workspace|Major Security Incident Management workspace]]
-- [[chat-channel-provider-config|Configure Microsoft Teams]]
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]
-- [[qradar-ibm-intg-settings|Configuration settings]]

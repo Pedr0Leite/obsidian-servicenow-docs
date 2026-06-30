@@ -18,7 +18,7 @@ Use this dashboard to view the status of the incidents for planning, prioritizin
 
 **Important:**
 
-Starting in Xanadu release, the Incident Overview dashboard is deprecated. Users can use [[incident|Incident management dashboard]] to view the status of the incidents for planning, prioritizing, and managing customer issues.
+Starting in Xanadu release, the Incident Overview dashboard is deprecated. Users can use [Incident management dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident.md) to view the status of the incidents for planning, prioritizing, and managing customer issues.
 
 \[Omitted image "incident-overview-dashboard.gif"\] Alt text: Incident Overview Dasboard
 
@@ -88,11 +88,7 @@ The dashboard includes the following filters:
 |Incident Category|Choice list|Filter the report visualizations based on the **Category** of the incident record.|
 |Incident Opened|Date|Filter the report visualizations based on the date when the incident is created.|
 
-**Note:** This dashboard displays the incident-related information from the **Overview** tab of the [[incident-premium-dashboard|Incident Premium dashboard]].
+**Note:** This dashboard displays the incident-related information from the **Overview** tab of the Incident Premium dashboard.
 
 **Parent Topic:**[Legacy: Incident Management Platform Analytics Solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/incident-content-pack.md)
 
-## Related
-
-- [[incident|Incident management dashboard]]
-- [[incident-premium-dashboard|incident premium dashboard]]

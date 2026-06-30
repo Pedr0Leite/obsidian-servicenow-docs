@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Management for Red Hat Enterprise Linux, Software As
 
 # Red Hat Enterprise Linux socket-pair based licensing
 
-The [[ibm-publisher-pack|Software Asset Management publisher pack for IBM]] supports socket-pair based licensing rules for Red Hat Enterprise Linux Server and Red Hat Enterprise Linux for Virtual Datacenters.
+The Software Asset Management publisher pack for IBM supports socket-pair based licensing rules for Red Hat Enterprise Linux Server and Red Hat Enterprise Linux for Virtual Datacenters.
 
 ## Overview of the socket-pair based licensing model
 
@@ -26,7 +26,7 @@ The [[ibm-publisher-pack|Software Asset Management publisher pack for IBM]] supp
 
     **Note:** The default value for the **Red Hat Enterprise Linux for Virtual Datacenters license cost optimization threshold** field is 3.2. This value is based on the ratio of the current RHEL Server subscription list price to the current RHEL for Virtual Datacenters subscription list price. If your entitlements contain different pricings for these products, then you can calculate this value by dividing your RHEL for Virtual Datacenters subscription price by your RHEL Server subscription price.
 
-    RHEL uses different licensing [[c_Models|models]] depending on the environment in which you deploy a server.
+    RHEL uses different licensing models depending on the environment in which you deploy a server.
 
 <table id="table_bzb_3dg_4nb"><thead><tr><th>
 
@@ -125,7 +125,7 @@ For example, if you're running a RHEL server on four VMs within a cloud environm
 
     RHEL for Virtual Datacenters licensing is based on the total number of socket-pairs across all physical hosts within a cluster, regardless of whether or not the hosts are currently running VMs with installations. With this license type, you don’t need to license the VMs that are running a RHEL for Virtual Datacenters server because you can access an unlimited number of VMs from your physical hosts. Single-socket hosts must be licensed individually.
 
-    **Note:** Although Red Hat permits you to license a subset of hosts when VM mobility is restricted, this licensing scenario is not currently supported by the [[c_SoftwareAssetMgmt|Software Asset Management]] application.
+    **Note:** Although Red Hat permits you to license a subset of hosts when VM mobility is restricted, this licensing scenario is not currently supported by the Software Asset Management application.
 
     If you deploy a RHEL for Virtual Datacenters server on VMs within a cluster, licensing is based on the total number of socket-pairs on all hosts that are running those VMs. Since you can access an unlimited number of VMs from your physical hosts, you don’t need to license the cluster based on the total number of VMs that are running the server within the cluster. For example, if Cluster Host A has 10 sockets and 20 VMs while Cluster Host B has 20 sockets and 60 VMs, you must use 15 RHEL for Virtual Datacenters rights to license the entire cluster.
 
@@ -143,8 +143,3 @@ If you have both RHEL Server and RHEL for Virtual Datacenters licenses, consume 
 
 **Parent Topic:**[Software Asset Management for Red Hat Enterprise Linux](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/rhel-publisher-pack.md)
 
-## Related
-
-- [[ibm-publisher-pack|Software Asset Management publisher pack for IBM]]
-- [[c_Models|Models]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

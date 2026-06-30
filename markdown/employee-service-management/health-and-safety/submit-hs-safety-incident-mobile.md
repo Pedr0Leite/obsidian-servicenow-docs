@@ -22,13 +22,13 @@ Role required: sn\_ohs\_im.requestor
 
 ## Procedure
 
-1.  Open the [[mobile-employee-experience|Now Mobile app]] on your mobile device.
+1.  Open the Now Mobile app on your mobile device.
 
 2.  In the navigation bar, tap **Safety**.
 
 3.  In the **Browse from all topics** section on the page, tap a topic to open category items.
 
-    -   To report an incident, tap **Safety incident** and then tap **Report [[health-safety-overview|Health and Safety]] Incident**.
+    -   To report an incident, tap **Safety incident** and then tap **Report Health and Safety Incident**.
     -   To report an observation, tap **Observations** and then tap **Report Health and Safety Observation**.
 4.  Fill in the fields.
 
@@ -43,7 +43,3 @@ Role required: sn\_ohs\_im.requestor
 
 **Parent Topic:**[Mobile experience for Health and Safety](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-health-safety-mobile.md)
 
-## Related
-
-- [[mobile-employee-experience|Now Mobile app]]
-- [[health-safety-overview|Health and Safety]]

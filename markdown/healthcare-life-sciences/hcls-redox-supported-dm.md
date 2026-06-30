@@ -16,7 +16,7 @@ In the Redox engine, a request is determined by the event type and workflow set 
 
 **Important:**
 
-Starting with the Yokohama release, [[hcls-redox-app|Redox Inbound Integration]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+Starting with the Yokohama release, Redox Inbound Integration is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base.
 
@@ -177,9 +177,5 @@ NoShow
 </td></tr></tbody>
 </table>For information on the Redox data models, see [Event types for data models](https://docs.redoxengine.com/basics/redox-data-model-api/event-types-for-data-models) in [Redox documentation](https://docs.redoxengine.com/).
 
-**Parent Topic:**[[hcls-redox-app-reference|Redox Inbound Integration reference]]
+**Parent Topic:**[Redox Inbound Integration reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hcls-redox-app-reference.md)
 
-## Related
-
-- [[hcls-redox-app-reference|Redox Inbound Integration reference]]
-- [[hcls-redox-app|Redox Inbound Integration]]

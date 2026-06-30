@@ -14,7 +14,7 @@ breadcrumb: [Setup Workplace Connectors for environmental data, Configure, Workp
 
 # Set up the Units of measure data table for environmental sensors
 
-Configure the unit of measure for air quality \(Carbon dioxide and Ozone metric\) and temperature units \(degree celsius and micrograms per cubic meter\) for a workplace location. The [[workplace-connectors-landing-page|Workplace Connectors]] environmental sensors checks for the air and temperature quality metrics in a workplace location.
+Configure the unit of measure for air quality \(Carbon dioxide and Ozone metric\) and temperature units \(degree celsius and micrograms per cubic meter\) for a workplace location. The Workplace Connectors environmental sensors checks for the air and temperature quality metrics in a workplace location.
 
 ## Before you begin
 
@@ -82,6 +82,3 @@ Units for the metrics selected in the Metrics filed. For example, **Parts per mi
 
 **Next topic:**[Configure environmental sensor data for a workplace location](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/config-connectors-env-sensor.md)
 
-## Related
-
-- [[workplace-connectors-landing-page|Workplace Connectors]]

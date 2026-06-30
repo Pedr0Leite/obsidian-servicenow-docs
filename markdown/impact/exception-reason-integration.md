@@ -27,19 +27,12 @@ When **Enable approvals in production** is selected in Scan Engine Properties, t
 
 ## Prerequisites
 
--   My SN Instances registration is complete. See [[register-your-instance|Register your instance]].
--   Authentication is configured. See [[configure-basic-auth-method|Configure the Basic authentication method]] or [[configure-oauth-auth-method|Configure the OAuth authentication method development instance]].
+-   My SN Instances registration is complete. See [Register your instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/register-your-instance.md).
+-   Authentication is configured. See [Configure the Basic authentication method](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configure-basic-auth-method.md) or [Configure the OAuth authentication method development instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configure-oauth-auth-method.md).
 -   Role required: `sn_se.scan_engine_admin`.
 
--   **[[syncing-exception-reasons|Sync exception reasons]]**  
+-   **[Sync exception reasons](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/syncing-exception-reasons.md)**  
 Configure the Exception reason integration to automatically synchronize exception reasons between your non-production and production instances.
 
-**Parent Topic:**[[instance-integration-scan-engine|Scan Engine integrations]]
+**Parent Topic:**[Scan Engine integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/instance-integration-scan-engine.md)
 
-## Related
-
-- [[register-your-instance|Register your instance]]
-- [[configure-basic-auth-method|Configure the Basic authentication method]]
-- [[configure-oauth-auth-method|Configure the OAuth authentication method development instance]]
-- [[syncing-exception-reasons|Sync exception reasons]]
-- [[instance-integration-scan-engine|Scan Engine integrations]]

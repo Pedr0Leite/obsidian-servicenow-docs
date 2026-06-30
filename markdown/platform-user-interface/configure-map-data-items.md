@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-Create a container for your map data items first, then [[configure-onboarding-modals|configure]] and select the data items for your Map Page.
+Create a container for your map data items first, then configure and select the data items for your Map Page.
 
 ## Procedure
 
@@ -43,7 +43,7 @@ Create a container for your map data items first, then [[configure-onboarding-mo
 
 ## Map Data Item form
 
-Select the options in the table to successfully create a map data item. Use this configuration with the examples in [[set-up-map-filters|Add a map filter]] and [Configure a map filter data mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/set-up-map-filters.md) to successfully create a map filter.
+Select the options in the table to successfully create a map data item. Use this configuration with the examples in [Add a map filter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/set-up-map-filters.md) and [Configure a map filter data mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/set-up-map-filters.md) to successfully create a map filter.
 
 |Field|Description|
 |-----|-----------|
@@ -55,13 +55,7 @@ Select the options in the table to successfully create a map data item. Use this
 
 ## What to do next
 
-Create [[configure-map-markers|map markers]] for your map.
+Create [map markers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-map-markers.md) for your map.
 
-**Parent Topic:**[[create-advanced-map-page|Create an advanced Map Page]]
+**Parent Topic:**[Create an advanced Map Page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/create-advanced-map-page.md)
 
-## Related
-
-- [[set-up-map-filters|Add a map filter]]
-- [[configure-map-markers|Create a map marker]]
-- [[create-advanced-map-page|Create an advanced Map Page]]
-- [[configure-onboarding-modals|Configure]]

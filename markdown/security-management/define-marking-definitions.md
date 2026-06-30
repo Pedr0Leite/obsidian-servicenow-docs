@@ -20,7 +20,7 @@ Role required: sn\_ti.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[threat-intel-landing-page|Threat Intelligence]]** &gt; **[[ioc-repository|IoC Repository]]** &gt; **Marking Definitions**.
+1.  Navigate to **All** &gt; **Threat Intelligence** &gt; **IoC Repository** &gt; **Marking Definitions**.
 
 2.  Click **New**.
 
@@ -28,7 +28,7 @@ Role required: sn\_ti.admin
 
     |Field|Description|
     |-----|-----------|
-    |**Definition**|Specify the marking object \(example, TLP\) or some other [[marking-definition|marking definition]] that has been defined.|
+    |**Definition**|Specify the marking object \(example, TLP\) or some other marking definition that has been defined.|
     |**Definition Type**|Identifies the type of marking definition - statement or TLP \(Traffic Light Protocol\).|
     |**Source**|Specifies the threat source from which this record is created.|
     |**Source ID**|Unique identifier for this object in the threat source.|
@@ -52,11 +52,11 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Show [[stix-relationships|Relationships]]
+Show Relationships
 
 </td><td>
 
-Opens the [[stix-visualizer|STIX Visualizer]] where you can view the relationship of the STIX object.Show Relationships appears only when the object has an associated object.
+Opens the STIX Visualizer where you can view the relationship of the STIX object.Show Relationships appears only when the object has an associated object.
 
 </td></tr><tr><td>
 
@@ -68,21 +68,12 @@ Lists of objects marked with the marking definition.
 
 </td></tr><tr><td>
 
-Marked [[indicator|Indicators]]
+Marked Indicators
 
 </td><td>
 
 Lists of indicators marked with the marking definition.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[marking-definitions|Marking definitions]]
+</table>**Parent Topic:**[Marking definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/marking-definitions.md)
 
-## Related
-
-- [[marking-definitions|Marking definitions]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[ioc-repository|IoC Repository]]
-- [[marking-definition|Marking Definition]]
-- [[stix-relationships|Relationships]]
-- [[stix-visualizer|STIX Visualizer]]
-- [[indicator|Indicators]]

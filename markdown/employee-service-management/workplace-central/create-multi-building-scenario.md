@@ -20,12 +20,12 @@ Create a scenario with a building. Add, update, or remove space allocations befo
 
 Ensure that the following plugins are installed:
 
--   [[Indoor-mapping|Indoor Mapping]] \(for map-based administration\)
--   [[workplace-safety-mgmt-hr|Workplace Core]]
--   [[workplace-central-feat|Workplace Central]]
--   [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] components
--   [[workplace-case-mgmt-feat|Workplace Case Management]]
--   [[workplace-space-mgmt-ovw|Workplace Space Management]]
+-   Indoor Mapping \(for map-based administration\)
+-   Workplace Core
+-   Workplace Central
+-   Workplace Service Delivery components
+-   Workplace Case Management
+-   Workplace Space Management
 
 **Important:** You can view spaces based on their workplace entities only for a building. You can’t create or view a scenario based on workplace entities.
 
@@ -36,10 +36,10 @@ Role required: sn\_wsd\_spcmgmt.space\_planner, sn\_wsd\_spcmgmt.scenario\_reade
 1.  Navigate to one of the following locations:
 
     -   **All** &gt; **Workplace Central** &gt; **Workplace Central**.
-    -   **All** &gt; **[[scenario-planning|Scenario Planning]]** &gt; **My Scenario Plans**
-    You can also open Workplace Central from the [[employee-center-landing-page|Employee Center]]. Navigate to **Workspaces** &gt; **Workplace Central**.
+    -   **All** &gt; **Scenario Planning** &gt; **My Scenario Plans**
+    You can also open Workplace Central from the Employee Center. Navigate to **Workspaces** &gt; **Workplace Central**.
 
-2.  Select the **[[space-optimization|Space Optimization]]** icon \(\[Omitted image "space-optimization-icon.png"\] Alt text: Space Optimization icon.\).
+2.  Select the **Space Optimization** icon \(\[Omitted image "space-optimization-icon.png"\] Alt text: Space Optimization icon.\).
 
     The Space optimization dashboard opens.
 
@@ -80,7 +80,7 @@ Select **Create scenario**.
 
 
 </td></tr></tbody>
-</table>4.  On the [[scenario-details-form|Scenario details form]], fill in the fields.
+</table>4.  On the Scenario details form, fill in the fields.
 
     For a description of the field values, see [Scenario details form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/scenario-details-form.md).
 
@@ -104,7 +104,7 @@ After a scenario moves to the **Draft** state, you can open the scenario and sel
 
 ## What to do next
 
-To [[create-copy-of-scenario|create a copy of an existing scenario]], see [Create a copy of an existing scenario](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/create-copy-of-scenario.md).
+To create a copy of an existing scenario, see [Create a copy of an existing scenario](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/create-copy-of-scenario.md).
 
 View or edit the scenario by using the stack plan or the floor map. For more information, see [Viewing or editing a scenario](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/viewing-editing-scenario.md).
 
@@ -135,16 +135,3 @@ View or edit the scenario by using the stack plan or the floor map. For more inf
 
 [Map based space administration]()
 
-## Related
-
-- [[Indoor-mapping|Indoor Mapping]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-central-feat|Workplace Central]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[workplace-space-mgmt-ovw|Workplace Space Management]]
-- [[scenario-planning|Scenario Planning]]
-- [[employee-center-landing-page|Employee Center]]
-- [[space-optimization|Space Optimization]]
-- [[scenario-details-form|Scenario details form]]
-- [[create-copy-of-scenario|Create a copy of an existing scenario]]

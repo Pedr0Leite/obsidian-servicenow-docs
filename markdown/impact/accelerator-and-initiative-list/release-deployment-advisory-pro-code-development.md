@@ -18,11 +18,11 @@ The Release and Deployment Advisory for Pro-code Development Accelerator provide
 
 ## Accelerator overview
 
-This Accelerator provides you with a review and guidance on your release and deployment processes and methods for a selected set of applications including either ServiceNow sourced applications or custom-developed applications. Your [[impact-squad|Impact Squad]] provides guidance based on your responses to an intake questionnaire and a collaborative Discovery working session that reviews your current state for two selected applications.
+This Accelerator provides you with a review and guidance on your release and deployment processes and methods for a selected set of applications including either ServiceNow sourced applications or custom-developed applications. Your Impact Squad provides guidance based on your responses to an intake questionnaire and a collaborative Discovery working session that reviews your current state for two selected applications.
 
 ## Package Availability
 
-**Note:** This Accelerator is available for [[impact-landing-page|Impact]] Guided+ \(Platform Governance add-on\), Advanced and Total Packages.
+**Note:** This Accelerator is available for Impact Guided+ \(Platform Governance add-on\), Advanced and Total Packages.
 
 ## What you get
 
@@ -79,7 +79,7 @@ Application Owners
 </td><td>
 
 -   Responsible for ensuring that an application meets its intended purpose and adds value to the business.
--   Guide the software development lifecycle \(SDLC\) to improve [[instance-observer-performance|performance]] and align with the business's goals.
+-   Guide the software development lifecycle \(SDLC\) to improve performance and align with the business's goals.
 
 </td><td>
 
@@ -210,7 +210,7 @@ Security Administrator
 
 </td><td>
 
--   Responsible for installing, administering, troubleshooting security capabilities and configuration that complies with [[technical-governance|Technical Governance]] guidance. Promotes adherence to security policies and procedures.
+-   Responsible for installing, administering, troubleshooting security capabilities and configuration that complies with Technical Governance guidance. Promotes adherence to security policies and procedures.
 -   Consulted when the development management policies are created to confirm that the development guidelines appropriately safeguard against unnecessary risk.
 
 </td><td>
@@ -261,10 +261,10 @@ Customers must provide the following supporting information:
 -   Intake Questionnaire \(to be provided by the ServiceNow team\) completed by the customer at least one week prior to the Customer Working Session
 -   Current release and deployment process for selected applications
 -   Impact materials, such as:
-    -   [[customer-impact-plan|Customer Impact Plan]]
-    -   [[architecture-blueprint|Architecture Blueprint]] Objectives and outcomes
+    -   Customer Impact Plan
+    -   Architecture Blueprint Objectives and outcomes
     -   Capabilities Map
-    -   [[product-adoption|Product Adoption]] Roadmap
+    -   Product Adoption Roadmap
     -   Organization Chart related to selected applications
     -   Stakeholder Map related to selected applications
 
@@ -281,12 +281,3 @@ This Accelerator does not include:
 -   Citizen Development
 -   Detailed review of technical governance processes for release and deployment
 
-## Related
-
-- [[impact-squad|Impact Squad]]
-- [[impact-landing-page|Impact]]
-- [[instance-observer-performance|Performance]]
-- [[technical-governance|Technical Governance]]
-- [[customer-impact-plan|Customer Impact Plan]]
-- [[architecture-blueprint|Architecture Blueprint]]
-- [[product-adoption|Product Adoption]]

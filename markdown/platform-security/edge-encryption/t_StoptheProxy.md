@@ -14,7 +14,7 @@ breadcrumb: [Installing Edge Encryption, Edge Encryption, Encryption]
 
 # Stop the Edge Encryption proxy
 
-You can stop an [[edge-encryption|Edge Encryption]] proxy from the command line.
+You can stop an Edge Encryption proxy from the command line.
 
 ## Before you begin
 
@@ -48,6 +48,3 @@ Execute `edgeencryption.bat stop`
 
 **Parent Topic:**[Installing Edge Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/c_InstallEdgeEncryptionProxy.md)
 
-## Related
-
-- [[edge-encryption|Edge Encryption]]

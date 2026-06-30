@@ -30,7 +30,7 @@ Role required: sales\_agent
 
 <table id="choicetable_urq_rxt_c1c"><thead><tr><th align="left" id="d57913e88">
 
-[[fields|Fields]]
+Fields
 
 </th><th align="left" id="d57913e91">
 
@@ -104,7 +104,7 @@ Identifies the exact sales channel used to execute the deal:-   Direct
 
 </td><td>
 
-Enter the type of sales cycle during the creation of the opportunity. For example: NEWCUST, [[Renew|RENEW]], or UPSELL.
+Enter the type of sales cycle during the creation of the opportunity. For example: NEWCUST, RENEW, or UPSELL.
 
 </td></tr><tr><td id="d57913e192">
 
@@ -130,22 +130,14 @@ An external organization involved in selling, influencing, or supporting an oppo
 
 ## What to do next
 
-Start adding more information to your opportunity. To learn more, see [[opportunity-management-details-tab|Add and view the details of an opportunity]].
+Start adding more information to your opportunity. To learn more, see [Add and view the details of an opportunity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management-details-tab.md).
 
-**Parent Topic:**[[opportunity-mgmt-using|Using Opportunity Management]]
+**Parent Topic:**[Using Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-mgmt-using.md)
 
 **Related topics**  
 
 
-[[configure-opportunity-mgmt|Install and configure Opportunity Management]]
+[Install and configure Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-opportunity-mgmt.md)
 
-[[opportunity-management|Opportunity Management]]
+[Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management.md)
 
-## Related
-
-- [[opportunity-management-details-tab|Add and view the details of an opportunity]]
-- [[opportunity-mgmt-using|Using Opportunity Management]]
-- [[configure-opportunity-mgmt|Install and configure Opportunity Management]]
-- [[opportunity-management|Opportunity Management]]
-- [[fields|Fields]]
-- [[Renew|Renew]]

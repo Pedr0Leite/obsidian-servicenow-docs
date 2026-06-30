@@ -15,7 +15,7 @@ breadcrumb: [Interaction management in Accounts Payable Operations, Use, Account
 
 # View interaction record in Accounts Payable Operations
 
-View interaction record details to analyze [[supplier|supplier]] interactions, take immediate actions, and link records to invoice cases requiring investigation.
+View interaction record details to analyze supplier interactions, take immediate actions, and link records to invoice cases requiring investigation.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Role required: Account Payable agent
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Source-to-Pay Workspace**.
 
 2.  Select the List icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon.\) and select **Interactions** &gt;**All**.
 
@@ -46,7 +46,3 @@ Role required: Account Payable agent
 
 **Parent Topic:**[Interaction management in Accounts Payable Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/interaction-record.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

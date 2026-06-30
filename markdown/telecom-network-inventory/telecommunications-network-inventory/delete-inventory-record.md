@@ -14,7 +14,7 @@ breadcrumb: [Define inventory records, Use, Telecommunications Network Inventory
 
 # Delete a record
 
-Delete an inventory record that is no longer relevant or needed in the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+Delete an inventory record that is no longer relevant or needed in the Telecommunications Network Inventory application.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ When you delete a configuration item \(CI\) record, the child elements associate
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Click the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\)
 
@@ -45,7 +45,3 @@ The CI record is deleted and no longer available in the Telecommunications Netwo
 
 **Parent Topic:**[Reviewing and updating your network inventory with the Network Inventory Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/tni-workspace.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]

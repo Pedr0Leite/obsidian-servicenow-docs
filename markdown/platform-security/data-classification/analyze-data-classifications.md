@@ -14,9 +14,9 @@ breadcrumb: [Data Classification, Platform Privacy]
 
 # Analyzing data classifications using the Overview dashboard
 
-The [[overview|Overview dashboard]] reports the current state of data classifications within your instance and how your [[users|users]] are distributed by location.
+The Overview dashboard reports the current state of data classifications within your instance and how your users are distributed by location.
 
-If you have a [[data-classification|data classification]] administrator or auditor role, you can visualize the current sensitivity of instance data, which helps increase security and compliance with privacy laws. By using the Location field in user records, administrators map users across different regions that have differing privacy regulations.
+If you have a data classification administrator or auditor role, you can visualize the current sensitivity of instance data, which helps increase security and compliance with privacy laws. By using the Location field in user records, administrators map users across different regions that have differing privacy regulations.
 
 ## Tables and columns tab
 
@@ -52,8 +52,3 @@ For additional examples of how different people in your organization would use t
 |User count|Single Score|sys\_user|Total number of user records in your instance.|
 |Users by country|Map|sys\_user|Breakdown of user records by country.|
 
-## Related
-
-- [[overview|Overview Dashboard]]
-- [[users|Users]]
-- [[data-classification|Data Classification]]

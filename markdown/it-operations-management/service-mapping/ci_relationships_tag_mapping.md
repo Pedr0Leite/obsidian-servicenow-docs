@@ -14,7 +14,7 @@ breadcrumb: [Service Mapping reference, Service Mapping, ITOM Visibility, IT Ope
 
 # Preconfigured CI relationships in tag-based discovery
 
-Several preconfigured CI relationships participate in tag-based [[r-discovery|discovery]], by default. The Traversal Rules for Application Services \[svc\_traversal\_rules\] table stores these relationships.
+Several preconfigured CI relationships participate in tag-based discovery, by default. The Traversal Rules for Application Services \[svc\_traversal\_rules\] table stores these relationships.
 
 **Important:** You cannot delete or modify preconfigured CI relationships used for tag-based discovery from the Traversal Rules for Application Services \[svc\_traversal\_rules\] table.
 
@@ -39,6 +39,3 @@ Several preconfigured CI relationships participate in tag-based [[r-discovery|di
 
 **Parent Topic:**[Service Mapping reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/service-mapping-reference.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

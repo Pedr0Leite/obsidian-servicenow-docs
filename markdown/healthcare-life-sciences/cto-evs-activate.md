@@ -12,7 +12,7 @@ breadcrumb: [Configure, Care Team Operations for Environmental Services, Healthc
 
 # Install Care Team Operations for Environmental Services
 
-Install the [[cto-evs-landing|Care Team Operations for Environmental Services]] application \[sn\_cto\_evs\] if you have the admin role.
+Install the Care Team Operations for Environmental Services application \[sn\_cto\_evs\] if you have the admin role.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 The application includes demo data for Care Team Operations for Environmental Services and installs related applications and plugins when they aren’t already installed.
 
-**Note:** The Care Team Operations for Environmental Services application is dependent on the [[hcls-cto-app|Healthcare Operations Core]] application.
+**Note:** The Care Team Operations for Environmental Services application is dependent on the Healthcare Operations Core application.
 
 ## Procedure
 
@@ -38,7 +38,4 @@ The application includes demo data for Care Team Operations for Environmental Se
 
 4.  Select **Install**.
 
-## Related
 
-- [[cto-evs-landing|Care Team Operations for Environmental Services]]
-- [[hcls-cto-app|Healthcare Operations Core]]

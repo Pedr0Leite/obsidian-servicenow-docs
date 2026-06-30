@@ -21,12 +21,9 @@ For details on defining knowledge article search languages for a country, see [A
 |Field|Description|
 |-----|-----------|
 |Country|Reference to the country from the Country \[core\_country\] table that you want to define an additional knowledge article search language for.|
-|Search language|Reference to a language from the Language \[sys\_language\] table that you want [[ia-ai-search|AI Search]] to use for knowledge article searches by users in the selected country.|
+|Search language|Reference to a language from the Language \[sys\_language\] table that you want AI Search to use for knowledge article searches by users in the selected country.|
 
 **Note:** You can define multiple AI Search Country To Search Language records for the same country, as long as each one has a different knowledge article search language. If you attempt to create multiple records with the same country and the same knowledge article search language, the system displays a warning message and the record insert operation fails.
 
 **Parent Topic:**[AI Search reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/reference-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]

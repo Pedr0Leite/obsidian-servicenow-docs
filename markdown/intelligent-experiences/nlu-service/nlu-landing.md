@@ -54,7 +54,7 @@ In NLU parlance, these terms identify the key language components the system use
 
 -   **NLU Model**
 
-    A collection of utterance examples and their associated intents and entities that the system uses as a reference to infer intents and entities in a new utterance. The NLU Workbench comes with pre-built [[nlu-models|NLU models]] for specific business units, such as an ITSM model. You can also create custom models.
+    A collection of utterance examples and their associated intents and entities that the system uses as a reference to infer intents and entities in a new utterance. The NLU Workbench comes with pre-built NLU models for specific business units, such as an ITSM model. You can also create custom models.
 
 
 ## NLU Workbench
@@ -102,6 +102,3 @@ For example, Virtual Agent administrators can configure a Virtual Agent Designer
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[nlu-models|NLU models]]

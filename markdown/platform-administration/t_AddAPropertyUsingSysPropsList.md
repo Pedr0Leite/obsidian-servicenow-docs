@@ -20,7 +20,7 @@ Add or create a property to control system behavior.
 
 Role required: admin
 
-For more information on creating [[r_SetArchiveRuleProcessingBehavior|system properties]] for your own applications, take the training on the [ServiceNow® Developer Site](https://developer.servicenow.com/dev.do#!/learn/courses/tokyo/app_store_learnv2_automatingapps_tokyo_automating_application_logic/app_store_learnv2_automatingapps_tokyo_application_properties/app_store_learnv2_automatingapps_tokyo_what_are_application_properties).
+For more information on creating system properties for your own applications, take the training on the [ServiceNow® Developer Site](https://developer.servicenow.com/dev.do#!/learn/courses/tokyo/app_store_learnv2_automatingapps_tokyo_automating_application_logic/app_store_learnv2_automatingapps_tokyo_application_properties/app_store_learnv2_automatingapps_tokyo_what_are_application_properties).
 
 ## About this task
 
@@ -90,7 +90,7 @@ Value
 
 </td><td>
 
-Set the desired value for the property. All property values are stored as strings. When retrieving properties via the gs.getProperty\(\) method, treat the [[hs-results|results]] as strings. For example, a true\|false property returns 'true' or 'false' \(strings\), not the Boolean equivalent.
+Set the desired value for the property. All property values are stored as strings. When retrieving properties via the gs.getProperty\(\) method, treat the results as strings. For example, a true\|false property returns 'true' or 'false' \(strings\), not the Boolean equivalent.
 
 </td></tr><tr><td>
 
@@ -138,10 +138,5 @@ Defines the roles that have write access to this property.
     **Note:** If the **Ignore cache** check box is selected, the system flushes the server cache when the parameter is changed.
 
 
-**Parent Topic:**[[p_CoreConfigurationOverview|Basic system configuration]]
+**Parent Topic:**[Basic system configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/p_CoreConfigurationOverview.md)
 
-## Related
-
-- [[p_CoreConfigurationOverview|Basic system configuration]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]
-- [[hs-results|Results]]

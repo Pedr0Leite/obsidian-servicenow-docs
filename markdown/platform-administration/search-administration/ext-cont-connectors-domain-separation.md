@@ -15,7 +15,7 @@ breadcrumb: [Explore, External Content Connectors, Search administration, Config
 
 # Domain separation and External Content Connectors
 
-Domain separation is unsupported for [[ext-cont-connectors-landing-page|External Content Connectors]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is unsupported for External Content Connectors. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: No support
 
@@ -26,9 +26,9 @@ For more information on support levels, see [Application support for domain sepa
 
 ## Overview of domain separation in External Content Connectors
 
-The External Content Connectors ServiceNow® Store application allows you to make content from external source system documents searchable in [[ia-ai-search|AI Search]] applications. External content connectors do not support domain separation.
+The External Content Connectors ServiceNow® Store application allows you to make content from external source system documents searchable in AI Search applications. External content connectors do not support domain separation.
 
-**Note:** The External Content Connectors application includes an External Content Connectors Service Account user that's assigned to the global domain by default. If your instance has domain separation configured, assigning this user to another domain can prevent user permission crawls from correctly mapping permissions to users in your instance. To correct this behavior, [[reassign-ext-cont-connectors-svc-acct-usr-global-domain|reassign the External Content Connectors Service Account user to the global domain]]. For details on this procedure, see [Reassign the External Content Connectors Service Account user to the global domain](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/reassign-ext-cont-connectors-svc-acct-usr-global-domain.md).
+**Note:** The External Content Connectors application includes an External Content Connectors Service Account user that's assigned to the global domain by default. If your instance has domain separation configured, assigning this user to another domain can prevent user permission crawls from correctly mapping permissions to users in your instance. To correct this behavior, reassign the External Content Connectors Service Account user to the global domain. For details on this procedure, see [Reassign the External Content Connectors Service Account user to the global domain](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/reassign-ext-cont-connectors-svc-acct-usr-global-domain.md).
 
 **Parent Topic:**[Exploring External Content Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/exploring-ext-cont-connectors.md)
 
@@ -37,8 +37,3 @@ The External Content Connectors ServiceNow® Store application allows you to mak
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[ext-cont-connectors-landing-page|External Content Connectors]]
-- [[ia-ai-search|AI Search]]
-- [[reassign-ext-cont-connectors-svc-acct-usr-global-domain|Reassign the External Content Connectors Service Account user to the global domain]]

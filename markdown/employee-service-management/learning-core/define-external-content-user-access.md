@@ -14,7 +14,7 @@ breadcrumb: [View external Learning content, Manage Learning, Using My Learning,
 
 # Define user access to course within external learning content
 
-Define user access to configure who has read access to external [[exploring-learning-exp|learning]] content.
+Define user access to configure who has read access to external learning content.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ Role required: admin
 
 **Parent Topic:**[View external Learning content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/view-external-learning-content.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]

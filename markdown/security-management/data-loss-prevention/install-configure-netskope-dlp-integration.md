@@ -14,7 +14,7 @@ breadcrumb: [Data Loss Prevention Incident Response Integration with Netskope, I
 
 # Install and configure the Netskope DLP integration for Data Loss Prevention
 
-[[configure-cortex-xsiam-siem|Install and configure]] the Netskope DLP integration from   ServiceNow Store   ServiceNow AI Platform instance. You can start investigating DLP incidents using the  Netskope DLP incident data.
+Install and configure the Netskope DLP integration from   ServiceNow Store   ServiceNow AI Platform instance. You can start investigating DLP incidents using the  Netskope DLP incident data.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_dlir.admin
 
 1.  Download the  Netskope DLP integration from the ServiceNow Store and install it.
 
-2.  Navigate to  **[[security-operations-landing-page|Security Operations]] ** &gt; **Integrations ** &gt; **Integration Configurations**
+2.  Navigate to  **Security Operations ** &gt; **Integrations ** &gt; **Integration Configurations**
 
 3.  Search for  `DLP Incident Response Integration with Netskope` tile, and click  **Configure**.
 
@@ -54,7 +54,3 @@ After you successfully validate and submit the configuration, the Netskope DLP I
 
 **Parent Topic:**[Data Loss Prevention Incident Response Integration with Netskope](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/dlp-incident-response-integration-netskope.md)
 
-## Related
-
-- [[configure-cortex-xsiam-siem|Install and Configure]]
-- [[security-operations-landing-page|Security Operations]]

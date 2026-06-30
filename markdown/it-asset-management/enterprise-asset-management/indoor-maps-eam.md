@@ -18,7 +18,7 @@ Indoor mapping provides granular location tracking to visualize asset location o
 
 Each indoor map consists of an interactive interface that enables you to visualize where your assets are located within your campuses, buildings, floors, and places.
 
-You can access the indoor map from the **Asset indoor map** tab in the Enterprise [[asset-estate-view-am|asset estate view]] of the [[using-eam-workspace|Enterprise Asset Workspace]]. You can also view indoor mapping data for a specific asset from the corresponding asset record, stockroom record, or work order task.
+You can access the indoor map from the **Asset indoor map** tab in the Enterprise asset estate view of the Enterprise Asset Workspace. You can also view indoor mapping data for a specific asset from the corresponding asset record, stockroom record, or work order task.
 
 ## Location hierarchy
 
@@ -33,7 +33,7 @@ You can access the indoor map from the **Asset indoor map** tab in the Enterpris
 
 -   View the granular location of each asset within a specific floor or place.
 -   Filter the map or search for assets based on department, user, model category, and classification code.
--   Track enterprise assets, [[c_ReceiveAConsumableAsset|consumable assets]], and pallets from a single interface.
+-   Track enterprise assets, consumable assets, and pallets from a single interface.
 -   Access real-time space utilization visualizations alongside asset location data.
 
 ## Requirements
@@ -42,7 +42,7 @@ To use indoor maps in the Enterprise Asset Workspace, fulfill the following requ
 
 1.  Explicitly install the Indoor Mapping for Assets \(com.sn\_ima\) application from the ServiceNow Store. When you install this application, Indoor Mapping \(sn\_map\_core\) and Indoor Mapping component \(sn\_map\_component\) are also installed.
 
-    **Note:** If you purchased an [[enterprise-asset-management|Enterprise Asset Management]] license after November 3, 2023 using the updated Enterprise Asset Management SKU \(PROD21613\), you can install the Indoor Mapping for Assets \(com.sn\_ima\) application.
+    **Note:** If you purchased an Enterprise Asset Management license after November 3, 2023 using the updated Enterprise Asset Management SKU \(PROD21613\), you can install the Indoor Mapping for Assets \(com.sn\_ima\) application.
 
 2.  Set the **com.sn\_eam.indoormap.enabled** asset parameter to **true** on your ServiceNow instance.
 3.  Set up your indoor maps using Map Studio.
@@ -64,9 +64,3 @@ To use indoor maps in the Enterprise Asset Workspace, fulfill the following requ
 
 For more details on using indoor maps, see [Track assets using indoor maps in the Enterprise Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/track-enterprise-assets-indoor-maps.md).
 
-## Related
-
-- [[asset-estate-view-am|Asset estate view]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[c_ReceiveAConsumableAsset|Consumable assets]]
-- [[enterprise-asset-management|Enterprise Asset Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Migrate to legacy change risk assessments, Analyze change request r
 
 # Migrated risk assessment components
 
-When you migrate a change [[c_RskAsmtCalc|risk assessment]], the system maps records from legacy risk assessment to the new risk assessment tables.
+When you migrate a change risk assessment, the system maps records from legacy risk assessment to the new risk assessment tables.
 
 To create a functional risk assessment on the assessment framework, the system converts risk assessment records to the most logical equivalent assessment risk records. This may mean multiple assessment risk records are created from one legacy risk record.
 
@@ -25,11 +25,7 @@ To create a functional risk assessment on the assessment framework, the system c
 |Assessment Metric \[asmt\_metric\]|
 |Assessment Question Choice \[assessment\_question\_choice\]|Assessment metric definition \[asmt\_metric\_definition\]|
 |Risk Assessment Thresholds \[risk\_assessment\_threshold\]|Assessment Thresholds \[change\_risk\_asmt\_threshold\]|
-|Assessment Conditions \[assessment\_conditions\]|This is included in [[c_ITILChangeManagement|Change Management]] - Risk Assessment \[com.snc.change.risk\_assessment\].|
+|Assessment Conditions \[assessment\_conditions\]|This is included in Change Management - Risk Assessment \[com.snc.change.risk\_assessment\].|
 
 **Parent Topic:**[Migrate to legacy change risk assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/legacy-change-risk-assessment-migration.md)
 
-## Related
-
-- [[c_RskAsmtCalc|Risk assessment]]
-- [[c_ITILChangeManagement|Change Management]]

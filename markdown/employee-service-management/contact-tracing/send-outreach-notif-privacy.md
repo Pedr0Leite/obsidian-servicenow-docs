@@ -14,7 +14,7 @@ breadcrumb: [Maintaining user data privacy in Contact Tracing, Contact Tracing, 
 
 # Send an Emergency Outreach notification for employee privacy consents in Contact Tracing
 
-Send an [[emergency-outreach|Emergency Outreach]] notification, on demand, to employees to provide the privacy policy and seek their consent to use their data for [[contact-tracing|contact tracing]].
+Send an Emergency Outreach notification, on demand, to employees to provide the privacy policy and seek their consent to use their data for contact tracing.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ Role required: sn\_imt\_checkin.checkin\_admin or admin
 
 2.  Open the **User Privacy Consent** outreach record.
 
-3.  On the **[[safe-workplace|Safe Workplace]] Audience** tab, select the audience from the list, and click **Save**.
+3.  On the **Safe Workplace Audience** tab, select the audience from the list, and click **Save**.
 
     If you don't have an audience defined, click **New** and define an audience from user lists, groups, departments, locations, and so on. After you save the Safe Workplace audience, you can use it to send any outreach message.For more information, see [Add a Safe Workplace Audience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-readiness-core/add-safe-workplace-audience.md).
 
@@ -80,8 +80,3 @@ The notification is sent to the target audience.
 
 **Parent Topic:**[Maintaining user data privacy in Contact Tracing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/contact-tracing-user-privacy-options.md)
 
-## Related
-
-- [[emergency-outreach|Emergency Outreach]]
-- [[contact-tracing|Contact Tracing]]
-- [[safe-workplace|Safe Workplace]]

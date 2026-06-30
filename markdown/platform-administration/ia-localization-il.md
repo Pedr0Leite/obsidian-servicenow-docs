@@ -24,7 +24,7 @@ You can set the language for the instance without impacting the system language.
 
 **Note:** The languages shown in the dropdown menu correspond to the languages configured in the instance.
 
-Select the Go to [[application-manager|Application Manager]] link to install more languages. Once a new language is installed, it shows up in the dropdown menu.
+Select the Go to Application Manager link to install more languages. Once a new language is installed, it shows up in the dropdown menu.
 
 **Note:** Only one language can be selected at a time.
 
@@ -43,9 +43,5 @@ The locale options are for timezone, currencies, and date/time format.
 
 See [Localization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-localization-il.md) for more information.
 
-**Parent Topic:**[[ia-config-platform-il|Platform module configuration in Setup Hub]]
+**Parent Topic:**[Platform module configuration in Setup Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-config-platform-il.md)
 
-## Related
-
-- [[ia-config-platform-il|Platform module configuration in Setup Hub]]
-- [[application-manager|Application Manager]]

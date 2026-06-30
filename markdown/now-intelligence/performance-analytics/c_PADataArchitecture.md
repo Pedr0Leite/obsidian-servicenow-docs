@@ -19,9 +19,9 @@ Define key metrics and data structure to generate scores.
 The topics in this section are meant primarily for Performance Analytics administrators who deal directly with data structures.
 
 -   **[Activating your Performance Analytics subscription](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_PremiumPerformanceAnalytics.md)**  
-Without a paid Performance Analytics subscription, your use is limited to 180 days of data collection \(five months for monthly indicators\) and to specific indicators provided by ServiceNow, and you cannot [[activate-unlimited-breakdowns|activate Data snapshots]]. For unlimited access to all features, purchase a subscription to Performance Analytics.
+Without a paid Performance Analytics subscription, your use is limited to 180 days of data collection \(five months for monthly indicators\) and to specific indicators provided by ServiceNow, and you cannot activate Data snapshots. For unlimited access to all features, purchase a subscription to Performance Analytics.
 -   **[Performance Analytics Admin Console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/pa-admin-console.md)**  
-From a single console, administrators can manage [[c_performanceAnalyticsAndReporting|Platform Analytics]] Solution content, manage [[c_Widgets|Performance Analytics widgets]] and dashboards, diagnose and resolve errors, view usage analytics, modify configuration settings and access ServiceNow help.
+From a single console, administrators can manage Platform Analytics Solution content, manage Performance Analytics widgets and dashboards, diagnose and resolve errors, view usage analytics, modify configuration settings and access ServiceNow help.
 -   **[Collecting indicator scores](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_ClctData.md)**  
 Performance Analytics uses data collection jobs to collect and clean scores and snapshots. You can also set indicator scores manually.
 -   **[Ranking records with Spotlight](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/spotlight/spotlight.md)**  
@@ -31,11 +31,11 @@ Performance Analytics data collection jobs collect indicator scores. To debug da
 -   **[Performance Analytics diagnostics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/self-diagnostics.md)**  
 Identify and diagnose configuration issues using predefined scripts that examine the database for invalid records and provide suggestions to resolve issues.
 -   **[\(Legacy\) Dependency Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/impact-analysis.md)**  
-Dependency Assessment enables you to view, analyze, and edit your performance analytics components including [[widgets|widgets]], indicators, and breakdowns, from a single view. By viewing the hierarchy of components and the relationships between them, you can see immediately who is impacted by a change and what the effects of your changes are.
+Dependency Assessment enables you to view, analyze, and edit your performance analytics components including widgets, indicators, and breakdowns, from a single view. By viewing the hierarchy of components and the relationships between them, you can see immediately who is impacted by a change and what the effects of your changes are.
 -   **[Domain separation and Performance Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_PAWithDomainSeparation.md)**  
 Domain separation is supported for Performance Analytics. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data. Performance Analytics supports collecting scores from multiple domains and can be configured to enable domain-specific administration. Extended domain configuration functionality is available for customers with complex domains.
 -   **[Integrate Performance Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_PAWebServiceIntegrations.md)**  
-[[c_PAWebServiceIntegrations|Integrate Performance Analytics]] with an external system to collect scores based on remote data or to expose [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]] information.
+Integrate Performance Analytics with an external system to collect scores based on remote data or to expose Analytics Hub information.
 -   **[Scripting in Performance Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/pa-scripts.md)**  
 Performance Analytics provides several script objects for use in scripts and APIs for querying Performance Analytics data. The scripts serve as breakdown mappings or to calculate a value from an indicator.
 -   **[Using Performance Analytics with external data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/pa-external-data.md)**  
@@ -47,11 +47,3 @@ The Performance Analytics Scores \[pa\_scores\] table was split into two tables.
 
 **Parent Topic:**[Performance Analytics \(Indicator data sources\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-## Related
-
-- [[activate-unlimited-breakdowns|Activate Data snapshots]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[c_Widgets|Performance Analytics widgets]]
-- [[widgets|Widgets]]
-- [[c_PAWebServiceIntegrations|Integrate Performance Analytics]]
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]

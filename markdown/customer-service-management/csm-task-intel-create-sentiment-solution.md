@@ -25,7 +25,7 @@ Edit and test the pre-trained sentiment model to predict sentiment for customer 
 
 ## Set up your model
 
-1.  Navigate to **All** &gt; **[[csm-task-intelligence|Task Intelligence for Customer Service]]** &gt; **Setup** to access the [[csm-task-intel-admin-center|Task Intelligence Admin Console]].
+1.  Navigate to **All** &gt; **Task Intelligence for Customer Service** &gt; **Setup** to access the Task Intelligence Admin Console.
 2.  Select **Edit model** on this model: **Predict case sentiment to improve CSAT**.
 
     This opens the model and displays the first of five pages. Each page in the model asks you questions and helps you select the information you need to build an effective model.
@@ -86,7 +86,3 @@ Review your choices from the previous pages. Then you can select **Deploy** to d
 
 \[Omitted image "task-intel-sentiment-model-pg5.png"\] Alt text: Information about the model testing and cases that the model will work on before deploying the case sentiment model.
 
-## Related
-
-- [[csm-task-intelligence|Task Intelligence for Customer Service]]
-- [[csm-task-intel-admin-center|Task Intelligence Admin Console]]

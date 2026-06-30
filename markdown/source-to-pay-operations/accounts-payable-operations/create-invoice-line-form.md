@@ -15,7 +15,7 @@ breadcrumb: [Reference, Accounts Payable Operations, Finance and Supply Chain]
 
 # Create New Invoice Line form
 
-Field descriptions for the Create New Invoice Line form used to add invoice line details such as [[pricing|pricing]], tax amounts, accounting information, and shipping addresses.
+Field descriptions for the Create New Invoice Line form used to add invoice line details such as pricing, tax amounts, accounting information, and shipping addresses.
 
 |Field|Description|
 |-----|-----------|
@@ -26,7 +26,7 @@ Field descriptions for the Create New Invoice Line form used to add invoice line
 |ERP line number|Unique number generated within the ERP system for the invoice line.|
 |Line description|A description of the goods or services represented by the invoice line item.|
 |Summary Details|
-|Purchase order line|Purchase order line item in the [[purchase-order-table|purchase order]].|
+|Purchase order line|Purchase order line item in the purchase order.|
 |Invoice line quantity|The number of items that have been invoiced.|
 |Line unit price|Unit price of the line item in the invoice.|
 |Subtotal|The total amount for the invoice line without tax and shipping charges.|
@@ -34,8 +34,8 @@ Field descriptions for the Create New Invoice Line form used to add invoice line
 |Line amount invoiced|Total amount for the invoice line item.|
 |Accounting Details|
 |Ledger account|The account used to generate the invoice.|
-|Cost center|The [[cost-center|cost center]] for which the invoice is generated.|
-|Tax code|The SWIFT or BIC code for international wire transfers to the [[supplier|supplier]]'s bank.|
+|Cost center|The cost center for which the invoice is generated.|
+|Tax code|The SWIFT or BIC code for international wire transfers to the supplier's bank.|
 |Ship to street|The street address to which the items on the purchase order should be shipped.|
 |Ship to country|The country to which the items on the purchase order should be shipped.|
 |Ship to city|The city to which the items on the purchase order should be shipped.|
@@ -49,9 +49,9 @@ Field descriptions for the Create New Invoice Line form used to add invoice line
 |Supplier part number|The part number of the supplier product.|
 
 -   **[Create New Invoice form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-new-invoice-form.md)**  
-Field descriptions for the [[create-new-invoice-form|Create New Invoice form]], organized by section, for entering invoice details, supplier information, accounting data, and address fields.
+Field descriptions for the Create New Invoice form, organized by section, for entering invoice details, supplier information, accounting data, and address fields.
 -   **[Invoice Line form tabs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/invoice-line-form-related-list.md)**  
-Tab descriptions for the Invoice Line form, including invoice line details, exceptions, and goods [[receipts|receipts]].
+Tab descriptions for the Invoice Line form, including invoice line details, exceptions, and goods receipts.
 
 **Parent Topic:**[Accounts Payable Operations reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/acc-pay-reference.md)
 
@@ -60,7 +60,7 @@ Tab descriptions for the Invoice Line form, including invoice line details, exce
 
 [Accounts Payable Operations properties]()
 
-[Create [[invoice-line-cost-allocation|invoice cost allocation]] form]()
+[Create invoice cost allocation form]()
 
 [Outbound cost allocation staging table]()
 
@@ -88,12 +88,3 @@ Tab descriptions for the Invoice Line form, including invoice line details, exce
 
 [Accounts Payable Operations glossary]()
 
-## Related
-
-- [[pricing|Pricing]]
-- [[purchase-order-table|Purchase order]]
-- [[cost-center|Cost center]]
-- [[supplier|Supplier]]
-- [[create-new-invoice-form|Create New Invoice form]]
-- [[receipts|Receipts]]
-- [[invoice-line-cost-allocation|Invoice cost allocation]]

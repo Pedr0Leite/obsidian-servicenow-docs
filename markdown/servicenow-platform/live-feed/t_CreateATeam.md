@@ -48,7 +48,7 @@ As team administrator, you can do the following:
     -   **Public Team**: In the list of all teams, any user can see the name of this team. Any user can also see the feed and join the team. Messages in a public team appear in the Company Feed with a link to the team feed.
     -   **Private Team**: In the list of all teams, any user can see the name of this team, but not the feed. Messages in private teams do not appear on the Company Feed.
 
-        When **Private Team** is selected, the **Show this team for anyone to find and request to join** [[check-box|check box]] is displayed. Select this check box to allow any user to search for this team and request to join it. Clear the check box to allow only invited users to see the feed and join the team.
+        When **Private Team** is selected, the **Show this team for anyone to find and request to join** check box is displayed. Select this check box to allow any user to search for this team and request to join it. Clear the check box to allow only invited users to see the feed and join the team.
 
 7.  Click **Create**.
 
@@ -59,6 +59,3 @@ As team administrator, you can do the following:
 
 **Parent Topic:**[Use teams in Live Feed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/c_UseTeamsInLiveFeed.md)
 
-## Related
-
-- [[check-box|Check box]]

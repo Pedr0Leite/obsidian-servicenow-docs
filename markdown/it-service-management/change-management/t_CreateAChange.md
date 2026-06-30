@@ -24,7 +24,7 @@ Role required: itil, admin, or sn\_change\_write
 
 A change request records the detailed information about the change, such as the reason of the change, the priority, the risk, the type of change, and the change category.
 
-If you use [[c_ConflictDetection|conflict detection]], the planned start and end dates and the configuration item \(CI\) are required.
+If you use conflict detection, the planned start and end dates and the configuration item \(CI\) are required.
 
 **Note:** If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the UI16 module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/redirect-ui16-module-links-sow.md).
 
@@ -40,7 +40,7 @@ If you use [[c_ConflictDetection|conflict detection]], the planned start and end
 
 You can create all three types of change from the **Change** module.1.  Navigate to **All** &gt; **Change** &gt; **Create New**.
 2.  Select **Normal**, **Emergency**, or **Standard** changes.
- If you're an upgrade customer and willing to use change [[c_Models|models]], you must enable the change model properties. For information on change models and its properties, see Change models.
+ If you're an upgrade customer and willing to use change models, you must enable the change model properties. For information on change models and its properties, see Change models.
 
  When you enable the change model properties, you see the following tabs when you navigate to **All** &gt; **Change** &gt; **Create New**.
 
@@ -82,7 +82,7 @@ If the administrator enabled the change request copy option, you can create a ne
 4.  View the new change request record created using the selected template by selecting **Continue**.
  **Note:** When you select an existing template, information in the predefined fields will be populated. Template fields are either read-only or mandatory depending on the template field policies configured while creating the template.
 
-For more information on [[change-templates|change templates]], see [Change templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/change-templates.md).
+For more information on change templates, see [Change templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/change-templates.md).
 
 </td></tr></tbody>
 </table>2.  On the form, fill in the fields.
@@ -284,7 +284,7 @@ Detailed description of the change.
 
 5.  Select the **Conflicts** tab.
 
-6.  To [[configure-conflict-properties|detect change conflicts]], select **Check conflicts**.
+6.  To detect change conflicts, select **Check conflicts**.
 
 7.  Right-click the form header and select **Save.**
 
@@ -334,11 +334,11 @@ This list is automatically generated from the workflow. You can also view the **
 
 </td></tr><tr><td>
 
-[[change-tasks|Change Tasks]]
+Change Tasks
 
 </td><td>
 
-The list of tasks can be created from a workflow. The default workflow generates tasks in the **Implementation** state. You can also [[create-a-change-task|create a change task]]. The **Planned start date** and **Planned end date** in task type **Implementation** must fall within the planned start and end dates specified in the change request.
+The list of tasks can be created from a workflow. The default workflow generates tasks in the **Implementation** state. You can also create a change task. The **Planned start date** and **Planned end date** in task type **Implementation** must fall within the planned start and end dates specified in the change request.
 
 </td></tr><tr><td>
 
@@ -392,7 +392,7 @@ List of agenda items and details of respective items. For example, the meeting s
 -   **[Create a change request from a configuration item \(CI\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_CreateAChangeFromACI.md)**  
 Create a change request from a list of configuration items \(CIs\), or add selected CIs from a list to a change record.
 -   **[Create a standard change request from the catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_RaiseNewStdCngeFmTempl.md)**  
-You can create a standard change request from the published [[c_StandardChangeCatalogPlugin|standard change catalog]] templates.
+You can create a standard change request from the published standard change catalog templates.
 -   **[Copy a change request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/copy-a-change-request.md)**  
 You can copy details of an active or canceled change request to a new change request.
 -   **[Create a change task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/create-a-change-task.md)**  
@@ -411,12 +411,3 @@ Understand how an unauthorized change activity on a configuration item \(CI\) is
 
 [Conflict calendar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/change-conflict-calendar.md)
 
-## Related
-
-- [[c_ConflictDetection|Conflict detection]]
-- [[c_Models|Models]]
-- [[change-templates|Change templates]]
-- [[configure-conflict-properties|Detect change conflicts]]
-- [[change-tasks|Change tasks]]
-- [[create-a-change-task|Create a change task]]
-- [[c_StandardChangeCatalogPlugin|Standard change catalog]]

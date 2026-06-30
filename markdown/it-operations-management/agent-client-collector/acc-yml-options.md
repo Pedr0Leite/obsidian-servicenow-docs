@@ -94,7 +94,7 @@ API key used by the MID Server to authenticate incoming agent connections. Value
 
 </td><td>
 
-`api-key: <[[mid-web-server|mid web server]] api key>`
+`api-key: <mid web server api key>`
 
 </td></tr><tr><td>
 
@@ -199,7 +199,7 @@ Indicates whether to enable shell CI creation on the agent.Possible values are:
 
 -   simple: Indicates that shell CI creation is enabled.
 -   off: Indicates that no shell CIs are created for the application.
--   full: Indicates that complete [[r-discovery|Discovery]] of the application CIs is performed using patterns.
+-   full: Indicates that complete Discovery of the application CIs is performed using patterns.
 
 </td><td>
 
@@ -423,7 +423,7 @@ false
 
 </td><td>
 
-Enables gathering details on the applications which run on the [[acc-landing-page|Agent Client Collector]].This parameter is required only when using the Agent Client Collector for pattern execution.
+Enables gathering details on the applications which run on the Agent Client Collector.This parameter is required only when using the Agent Client Collector for pattern execution.
 
 </td><td>
 
@@ -594,8 +594,3 @@ When set to true, the agent clears the PAC cache and attempts to refresh the PAC
 </td></tr></tbody>
 </table>**Parent Topic:**[Agent Client Collector Framework reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-client-collector-reference.md)
 
-## Related
-
-- [[mid-web-server|MID Web Server]]
-- [[r-discovery|Discovery]]
-- [[acc-landing-page|Agent Client Collector]]

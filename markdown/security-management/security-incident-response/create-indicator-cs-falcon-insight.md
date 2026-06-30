@@ -14,7 +14,7 @@ breadcrumb: [CrowdStrike Falcon Insight integration, Security Incident Response 
 
 # Create indicators
 
-Create and manage threat [[indicator|indicators]] that synchronize directly with CrowdStrike Falcon Insight, enabling consistent, up‑to‑date [[threat-intel-landing-page|threat intelligence]] across your security environment.
+Create and manage threat indicators that synchronize directly with CrowdStrike Falcon Insight, enabling consistent, up‑to‑date threat intelligence across your security environment.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_si.analyst
 
 1.  Navigate to **Security Incidents** &gt; **Show All Incidents**.
 
-2.  Select the security incident that contains the [[c_Observables|observables]] for which you want to create indicators in CrowdStrike Falcon Insight.
+2.  Select the security incident that contains the observables for which you want to create indicators in CrowdStrike Falcon Insight.
 
 3.  Select **Associated Observables** related lists.
 
@@ -162,8 +162,4 @@ Specify which CrowdStrike host groups should receive this configuration.
 
 9.  Select **CrowdStrike Indicator** tab to view the results.
 
-## Related
 
-- [[indicator|Indicators]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[c_Observables|Observables]]

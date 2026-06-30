@@ -14,7 +14,7 @@ breadcrumb: [Use, Advanced Work Assignment, Manage people and work, Conversation
 
 # Check unassigned task work items
 
-View a list of unassigned task [[awa-work-items|work items]] in [[awa-application-landing-page|Advanced Work Assignment]], such as cases and incidents, that are currently waiting in the queue and are not assigned to any agents. You can use this list to debug, implement advanced [[awa-assignment|work assignments]], or determine why certain work items are unassigned.
+View a list of unassigned task work items in Advanced Work Assignment, such as cases and incidents, that are currently waiting in the queue and are not assigned to any agents. You can use this list to debug, implement advanced work assignments, or determine why certain work items are unassigned.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: awa\_manager or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Advanced Work Assignment** &gt; **[[management|Management]]** &gt; **Unassigned Task Work Items**.
+1.  Navigate to **All** &gt; **Advanced Work Assignment** &gt; **Management** &gt; **Unassigned Task Work Items**.
 
     -   To create a task, click **New**.
     -   To modify an existing task, select the task to be updated.
@@ -203,9 +203,4 @@ Queue that is assigned to the task.
 </td></tr></tbody>
 </table>3.  Click **Submit** to create the task or **Update** to modify the task.
 
-## Related
 
-- [[awa-work-items|Work items]]
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[awa-assignment|Work assignments]]
-- [[management|Management]]

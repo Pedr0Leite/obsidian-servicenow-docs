@@ -14,7 +14,7 @@ breadcrumb: [Configure Conversational Integration with Alexa, Conversational Int
 
 # Set up Conversational Integration with Alexa
 
-Set up the [[conv-integ-alexa|Conversational Integration with Alexa]] application so that you can engage customers in conversations with bots.
+Set up the Conversational Integration with Alexa application so that you can engage customers in conversations with bots.
 
 ## Before you begin
 
@@ -40,7 +40,7 @@ Set up the [[conv-integ-alexa|Conversational Integration with Alexa]] applicatio
 
         For more information, see the [Alexa documentation](https://developer.amazon.com/en-GB/docs/alexa/conversations/build-model.html).
 
-    4.  [[confgure-alexa-for-snow-instance|Configure an Alexa skill]].
+    4.  Configure an Alexa skill.
 
         For more information, see [Configure an Alexa skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/confgure-alexa-for-snow-instance.md)
 
@@ -75,7 +75,7 @@ Configure your Alexa skill to talk to your ServiceNow instance.
 -   **[Build an Alexa skill model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/build-alexa-skill.md)**  
 Build your Alexa-hosted skill on the Alexa developer console. Building a saved Alexa skill model helps you prepare the skill for testing.
 -   **[Get the Alexa skill ID](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/get-skill-id.md)**  
-[[get-skill-id|Get the Alexa Skill ID]] from your Alexa developer console after configuring the skill. The Skill ID is the Alexa identifier for the application.
+Get the Alexa Skill ID from your Alexa developer console after configuring the skill. The Skill ID is the Alexa identifier for the application.
 -   **[Test an Alexa skill on the developer console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/test-alexa-skill.md)**  
 Test your Alexa skill using the Alexa simulator and developer account once the installation is complete and the skill is built.
 -   **[Test a skill on the Alexa mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/test-skill-mobile.md)**  
@@ -91,8 +91,3 @@ Define a token in your ServiceNow instance to set up a message authentication wi
 
 **Parent Topic:**[Configure Conversational Integration with Alexa](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-amazon-alexa.md)
 
-## Related
-
-- [[conv-integ-alexa|Conversational Integration with Alexa]]
-- [[confgure-alexa-for-snow-instance|Configure an Alexa skill]]
-- [[get-skill-id|Get the Alexa skill ID]]

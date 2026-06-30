@@ -14,7 +14,7 @@ breadcrumb: [Configuring the Key Management Framework, Key Management Framework,
 
 # Create a cryptographic module life-cycle policy
 
-Create a cryptographic module life-cycle policy to place limits on cryptographic modules, such as how long the key is good for. Create [[ca-policies|policies]] to safeguard cryptographic modules by limiting their exposure.
+Create a cryptographic module life-cycle policy to place limits on cryptographic modules, such as how long the key is good for. Create policies to safeguard cryptographic modules by limiting their exposure.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ The following features govern cryptographic modules:
 
 -   Instance policies set boundaries for the instance. For example, if you specify in an instance policy that the expiration date should never be more than two years after the activation date, you can’t use the life-cycle rules to set an expiration date five years after the activation date.
 
--   Instance life-cycle templates enable you to set different policies for different keys. Templates offer default life-cycle rules for cryptographic modules so that they don't have to be re-created for every module. For example, you can set different expiration dates for symmetric data [[encryption-landing|encryption]] keys than for public key wrapping keys.
+-   Instance life-cycle templates enable you to set different policies for different keys. Templates offer default life-cycle rules for cryptographic modules so that they don't have to be re-created for every module. For example, you can set different expiration dates for symmetric data encryption keys than for public key wrapping keys.
 
 -   Life-cycle rules affect the keys directly. For example, if you specify in the life-cycle rules that the expiration date should be two years after the activation date, keys will expire two years after the activation date.
 
@@ -60,7 +60,3 @@ Create a module policy exception to change the life-cycle policy of a key only f
 
 **Parent Topic:**[Configuring the Key Management Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/configure-kmf.md)
 
-## Related
-
-- [[ca-policies|Policies]]
-- [[encryption-landing|Encryption]]

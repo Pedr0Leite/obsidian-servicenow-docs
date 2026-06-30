@@ -14,7 +14,7 @@ breadcrumb: [Formula indicators, Indicators, Configure fundamentals, Performance
 
 # Get analytics methods in formulas
 
-To insert a calculated value from the [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]] into a formula, use a method in the formula.
+To insert a calculated value from the Analytics Hub into a formula, use a method in the formula.
 
 ## Before you begin
 
@@ -74,13 +74,13 @@ To get a value from the Analytics Hub, insert a method from PAFormulaUtils\(\) i
 
 ## Index indicator
 
-Index indicators are a use case of [[formula-indicators|formula indicators]] for generating a single score that represents multiple indicators. In the following example, you want a single index that aggregates the gap between score and global target for the following indicators:
+Index indicators are a use case of formula indicators for generating a single score that represents multiple indicators. In the following example, you want a single index that aggregates the gap between score and global target for the following indicators:
 
 -   The percentage of incidents that are overdue.
 -   The average age of the last update of open incidents.
 -   The total number of open incidents.
 
-To get this single index, you [[t_CreateAFormulaIndicator|create a formula indicator]] with **Direction** set to **Maximize**. All index indicators must maximize. Then you use the **Browse for a method** and **Browse for an indicator** functions to create the following formula:
+To get this single index, you create a formula indicator with **Direction** set to **Maximize**. All index indicators must maximize. Then you use the **Browse for a method** and **Browse for an indicator** functions to create the following formula:
 
 ```
 var a = pa.getGap($[[% of open overdue incidents]], score_start) / pa.getGlobalTarget($[[% of open overdue incidents]],score_start);
@@ -121,7 +121,7 @@ You want to filter out the scores of incidents where Priority = 1 - Critical.
 
 
 -   **[PAFormulaUtils API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/PAFormulaUtils.md)**  
-The [[PAFormulaUtils|PAFormulaUtils API]] enables you to obtain a value that was calculated in the Analytics Hub and use that value as input for a formula.
+The PAFormulaUtils API enables you to obtain a value that was calculated in the Analytics Hub and use that value as input for a formula.
 
 **Parent Topic:**[Formula indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/formula-indicators.md)
 
@@ -142,9 +142,3 @@ The [[PAFormulaUtils|PAFormulaUtils API]] enables you to obtain a value that was
 
 [Changes to score\_start/end because of different user time zones]()
 
-## Related
-
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]
-- [[formula-indicators|Formula indicators]]
-- [[t_CreateAFormulaIndicator|Create a formula indicator]]
-- [[PAFormulaUtils|PAFormulaUtils API]]

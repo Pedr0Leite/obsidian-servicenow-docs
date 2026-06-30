@@ -23,7 +23,7 @@ Role required:
 -   sn\_si.admin
 -   flow\_designer
 
-Make sure you have installed [[security-operations-landing-page|Security Operations]] Spoke \(`sn_sec_spoke`\). You have an option to modify the following system properties:
+Make sure you have installed Security Operations Spoke \(`sn_sec_spoke`\). You have an option to modify the following system properties:
 
 -   `sn_sec_spoke.similarphish.earlyterminationscore`
 -   `sn_sec_spoke.similarphish.lookbackdays`
@@ -40,7 +40,7 @@ Make sure you have installed [[security-operations-landing-page|Security Operati
 
     To create a copy of the playbook's flow, select the \[Omitted image "more-action-menu.png"\] Alt text: More actions menu icon and select **Copy flow**. Perform this step only if you plan to customize or make specific changes to the flow.
 
-4.  Activate the [[tisc-playbooks-admin|playbooks]].
+4.  Activate the playbooks.
 
     -   Activate the main flow to use the playbook available in the base system.
     -   Activate the copied flows after making the required changes.
@@ -51,7 +51,3 @@ Make sure you have installed [[security-operations-landing-page|Security Operati
 
 **Parent Topic:**[Playbook for Repeat Detection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbook-repeat-detection.md)
 
-## Related
-
-- [[security-operations-landing-page|Security Operations]]
-- [[tisc-playbooks-admin|Playbooks]]

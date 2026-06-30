@@ -14,7 +14,7 @@ breadcrumb: [Location migration, Manage workplace safety activities, Workplace C
 
 # Configure location migration hierarchy
 
-Create a hierarchy for how the location data from the ServiceNow® Location table \[cmn\_location\] must be migrated to the Workplace Location \[sn\_wsd\_core\_workplace\_location\] table of [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]].
+Create a hierarchy for how the location data from the ServiceNow® Location table \[cmn\_location\] must be migrated to the Workplace Location \[sn\_wsd\_core\_workplace\_location\] table of Workplace Service Delivery.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_wsd\_core.admin
 
 ## About this task
 
-The following location hierarchy is followed throughout the [[workplace-service-delivery-apps|Workplace Service Delivery applications]]. The [[location-migration|location migration]] configurations for these hierarchies are also available by default:
+The following location hierarchy is followed throughout the Workplace Service Delivery applications. The location migration configurations for these hierarchies are also available by default:
 
 **Note:** The location migration configuration records of the following location hierarchies are inactive by default.
 
@@ -45,7 +45,7 @@ After you create the location migration configurations, you must perform the mig
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-safety-mgmt-hr|Workplace Core]]** &gt; **Administration** &gt; **Location migration configuration**.
+1.  Navigate to **All** &gt; **Workplace Core** &gt; **Administration** &gt; **Location migration configuration**.
 
 2.  Select **New**.
 
@@ -72,9 +72,3 @@ The location migration configuration record is added. The locations that match t
 
 [Migrate locations from Location table to Workplace locations table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/migrate-locations-from-loc-table-to-workplaceloc-table.md).
 
-## Related
-
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[workplace-service-delivery-apps|Workplace Service Delivery applications]]
-- [[location-migration|Location migration]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]

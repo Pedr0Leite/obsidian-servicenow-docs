@@ -39,7 +39,7 @@ This video shows a visual overview of the Employee Center and its capabilities.
 
 </td><td>
 
-[Reference \[Omitted image "bus-learn.svg"\] Alt text: Get details about components such as fields, tables, and properties.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/emp-center-[[reference-hr-service-delivery-advanced-integration-with-workday|reference]].md)
+[Reference \[Omitted image "bus-learn.svg"\] Alt text: Get details about components such as fields, tables, and properties.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/emp-center-reference.md)
 
 </td></tr></tbody>
 </table>## Additional resources
@@ -50,6 +50,3 @@ This video shows a visual overview of the Employee Center and its capabilities.
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

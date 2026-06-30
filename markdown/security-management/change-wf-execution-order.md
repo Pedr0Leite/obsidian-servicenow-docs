@@ -20,7 +20,7 @@ Role required: sn\_sec\_cmn.write
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[security-operations-landing-page|Security Operations]]** &gt; **Integrations** &gt; **Integration Capabilities**.
+1.  Navigate to **All** &gt; **Security Operations** &gt; **Integrations** &gt; **Integration Capabilities**.
 
     \[Omitted image "integration-capabilities.png"\] Alt text: Integration Capabilities
 
@@ -35,7 +35,7 @@ Role required: sn\_sec\_cmn.write
 5.  Select **Submit**.
 
 
-**Parent Topic:**[[integration-capabilities|Integration capabilities]]
+**Parent Topic:**[Integration capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/integration-capabilities.md)
 
 **Related topics**  
 
@@ -56,13 +56,7 @@ Role required: sn\_sec\_cmn.write
 
 [Security Operations Integration- Publish to Watchlist capability]()
 
-[Security Operations Integration- [[indicator-sightings|Sightings]] Search capability]()
+[Security Operations Integration- Sightings Search capability]()
 
-[Security Operations Integration - [[tisc-threat-lookup|Threat Lookup]] capability]()
+[Security Operations Integration - Threat Lookup capability]()
 
-## Related
-
-- [[integration-capabilities|Integration capabilities]]
-- [[security-operations-landing-page|Security Operations]]
-- [[indicator-sightings|Sightings]]
-- [[tisc-threat-lookup|Threat Lookup]]

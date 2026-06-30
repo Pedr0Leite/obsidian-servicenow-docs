@@ -14,11 +14,11 @@ breadcrumb: [Authoring a knowledge article in Microsoft Word, Creating and maint
 
 # Edit a knowledge article in Microsoft Word
 
-Use Microsoft Word to [[edit-knowledge-article|edit a knowledge article]] originally created in Microsoft Word.
+Use Microsoft Word to edit a knowledge article originally created in Microsoft Word.
 
 ## Before you begin
 
--   Ensure that the administrator has configured the [[knowledge-management|Knowledge Management]] - Add-in for Microsoft Word. \(For more information, see [Configure Knowledge Management - Add-in for Microsoft Word](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/configure-km-add-in-word.md).\)
+-   Ensure that the administrator has configured the Knowledge Management - Add-in for Microsoft Word. \(For more information, see [Configure Knowledge Management - Add-in for Microsoft Word](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/configure-km-add-in-word.md).\)
 
 -   You must have logged in to your ServiceNow instance from the Word Online application. For more information, see [Log in to your ServiceNow instance for authoring knowledge articles in Microsoft Word](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/authenticate-article-word.md).
 
@@ -51,7 +51,7 @@ Use Microsoft Word to [[edit-knowledge-article|edit a knowledge article]] origin
     -   To keep the existing content in the Word document, click **Retain**.
     **Note:** When you save the article, the Word document content will replace the article content.
 
-7.  If the [[article-versioning|article versioning]] feature is enabled, click **Checkout** for a published knowledge article.
+7.  If the article versioning feature is enabled, click **Checkout** for a published knowledge article.
 
     You can edit only the latest version of a knowledge article.
 
@@ -73,8 +73,4 @@ Use Microsoft Word to [[edit-knowledge-article|edit a knowledge article]] origin
 
     If the article versioning feature is enabled, the version number of the knowledge article increments to the next whole number \(for example, from 2.02 to 3.0\). For more information, see [Knowledge article version numbers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/knowledge-article-version-numbers.md).
 
-## Related
 
-- [[edit-knowledge-article|Edit a knowledge article]]
-- [[knowledge-management|Knowledge Management]]
-- [[article-versioning|Article versioning]]

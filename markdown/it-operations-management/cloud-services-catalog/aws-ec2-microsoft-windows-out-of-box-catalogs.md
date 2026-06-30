@@ -14,7 +14,7 @@ breadcrumb: [Out Of Box Catalogs using Cloud Services Catalog, Cloud Services Ca
 
 # Amazon Web Services EC2 Microsoft Windows Out Of Box Catalog items
 
-[[csc-home|Cloud Services Catalog]] Windows VM, up to 10 additional disks on EC2 or with security groups.
+Cloud Services Catalog Windows VM, up to 10 additional disks on EC2 or with security groups.
 
 This is a fully functional sample catalog item that can be used to request a Windows instance of any instance type from Amazon EC2. These mandatory steps are required for provisioning:
 
@@ -65,6 +65,3 @@ Amazon Web Services EC2 Windows OOB catalog items permissions
 
 **Parent Topic:**[Out Of Box Catalogs using Cloud Services Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/out-of-the-box-catalog-items.md)
 
-## Related
-
-- [[csc-home|Cloud Services Catalog]]

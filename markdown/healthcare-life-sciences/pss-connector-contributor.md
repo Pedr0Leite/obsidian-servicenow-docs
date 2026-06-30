@@ -12,7 +12,7 @@ breadcrumb: [Configure, Patient Support Services, Healthcare and Life Sciences S
 
 # Determining additional user profiles in Patient Support Services
 
-You can determine who can act as an agent connector or contributor for enrollment cases in the [[pss-app|Patient Support Services]] application.
+You can determine who can act as an agent connector or contributor for enrollment cases in the Patient Support Services application.
 
 **Important:**
 
@@ -124,7 +124,3 @@ sn\_patientservice.contributor, sn\_customerservice.service\_organization\_contr
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[pss-app|Patient Support Services]]

@@ -14,7 +14,7 @@ breadcrumb: [Connect to MCP servers Via AI Gateway, AI Gateway, Explore, AI Cont
 
 # Connecting with Microsoft Copilot Studio Via AI Gateway
 
-Connecting with a Microsoft Copilot Studio via [[ai-gateway-overview|AI Gateway]].
+Connecting with a Microsoft Copilot Studio via AI Gateway.
 
 ## Before you begin
 
@@ -44,7 +44,7 @@ Role required: Workspace user
 
     1.  Open the Agent and navigate to **Tools** tab.
 
-    2.  Select **+[[add-a-tool|Add a tool]]**.
+    2.  Select **+Add a tool**.
 
     3.  Select **Model Context Protocol** icon.
 
@@ -64,7 +64,7 @@ Role required: Workspace user
 
     9.  Enter the Client ID and Client secret.
 
-        The Client ID and Client secret details are available in the [[view-the-mcp-server-record|MCP server record]] created for Microsoft Copilot Studio.
+        The Client ID and Client secret details are available in the MCP server record created for Microsoft Copilot Studio.
 
     10. Enter the Authorization URL and Token URL template.
 
@@ -108,8 +108,4 @@ Role required: Workspace user
 
 16. Select **Submit**.
 
-## Related
 
-- [[ai-gateway-overview|AI Gateway]]
-- [[add-a-tool|Add a tool]]
-- [[view-the-mcp-server-record|MCP server record]]

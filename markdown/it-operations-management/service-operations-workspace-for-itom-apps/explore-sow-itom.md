@@ -15,15 +15,15 @@ breadcrumb: [Service Operations Workspace for ITOM, ITOM AIOps, IT Operations Ma
 
 # Exploring Service Operations Workspace for ITOM
 
-Discover how [[sow-landing-page-itom|Service Operations Workspace for ITOM]] streamlines the entire life cycle of alerts, including alert generation, notification, grouping, analysis, investigation, resolution, and closure.
+Discover how Service Operations Workspace for ITOM streamlines the entire life cycle of alerts, including alert generation, notification, grouping, analysis, investigation, resolution, and closure.
 
 ## Overview of Service Operations Workspace
 
-Service Operations Workspace for ITOM provides powerful AIOps Experience capabilities, namely the Express List, Integrations Launchpad, [Alert Automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/sow-itom-alert-automation.md), and AIOps [[otto-aiops-dashboards|Dashboards]], each delivering unique value.
+Service Operations Workspace for ITOM provides powerful AIOps Experience capabilities, namely the Express List, Integrations Launchpad, [Alert Automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/sow-itom-alert-automation.md), and AIOps Dashboards, each delivering unique value.
 
 -   **[Express List](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/express-list.md)**
 
-    Express List revolutionizes alert management by providing a consolidated platform for efficient triage, root cause analysis \(RCA\), and alert [[ccg-remediation|remediation]]. With real-time updates, dynamic filtering, and an intuitive preview pane, users can effortlessly manage their alert workflows and take immediate action with unparalleled ease and speed.
+    Express List revolutionizes alert management by providing a consolidated platform for efficient triage, root cause analysis \(RCA\), and alert remediation. With real-time updates, dynamic filtering, and an intuitive preview pane, users can effortlessly manage their alert workflows and take immediate action with unparalleled ease and speed.
 
 -   **[Integrations Launchpad](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/integrations-launchpad.md)**
 
@@ -38,7 +38,7 @@ Service Operations Workspace for ITOM provides powerful AIOps Experience capabil
     AIOps Dashboards provide comprehensive visualizations of critical operational data and insights. Users can monitor key performance indicators \(KPIs\), track service health, and gain valuable context on the overall IT environment. These customizable dashboards empower users with actionable insights, facilitating data-driven decision-making and ensuring proactive responses to potential issues.
 
 
-When setting up the [[workspace-dashboard-use|Service Operations Workspace]], it's crucial to configure both [[r_ITOMApplications|IT Operations Management]] \(ITOM\) for managing alerts and IT Service Management \(ITSM\) for resolving incidents and delivering services. This integrated setup ensures access to the full range of features, facilitating comprehensive management of IT operations and service quality.
+When setting up the Service Operations Workspace, it's crucial to configure both IT Operations Management \(ITOM\) for managing alerts and IT Service Management \(ITSM\) for resolving incidents and delivering services. This integrated setup ensures access to the full range of features, facilitating comprehensive management of IT operations and service quality.
 
 For more information, see [Exploring Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/explore-sow.md).
 
@@ -71,7 +71,7 @@ Admin\[evt\_mgmt\_admin\]
 
 </td><td>
 
-Configures and sets up [[c_EM|Event Management]] properties and rules.
+Configures and sets up Event Management properties and rules.
 
 </td></tr><tr><td>
 
@@ -126,11 +126,3 @@ Manages the lifecycle of alerts, including performing basic operations such as v
 
 [List of workspaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/list-of-workspaces.md)
 
-## Related
-
-- [[sow-landing-page-itom|Service Operations Workspace for ITOM]]
-- [[otto-aiops-dashboards|Dashboards]]
-- [[ccg-remediation|Remediation]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[r_ITOMApplications|IT Operations Management]]
-- [[c_EM|Event Management]]

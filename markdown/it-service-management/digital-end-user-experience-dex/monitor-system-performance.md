@@ -30,8 +30,6 @@ Role required: admin
 
 3.  Select **System performance**.
 
-    For more information on the system [[perf-metrics-mob|performance metrics]], see [DEX Insights reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/insights-reports.md).
+    For more information on the system performance metrics, see [DEX Insights reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/insights-reports.md).
 
-## Related
 
-- [[perf-metrics-mob|Performance metrics]]

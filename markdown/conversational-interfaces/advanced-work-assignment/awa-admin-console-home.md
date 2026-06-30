@@ -14,7 +14,7 @@ breadcrumb: [Explore, Advanced Work Assignment, Manage people and work, Conversa
 
 # Advanced Work Assignment home page
 
-Explore, implement, and maintain ServiceNow® [[awa-application-landing-page|Advanced Work Assignment]] using a home-page experience. Discover AWA, install relevant plugins, and configure settings for AWA through the Advanced Work Assignment home page available to admins.
+Explore, implement, and maintain ServiceNow® Advanced Work Assignment using a home-page experience. Discover AWA, install relevant plugins, and configure settings for AWA through the Advanced Work Assignment home page available to admins.
 
 ## Advanced Work Assignment home page advantages
 
@@ -22,7 +22,7 @@ The Advanced Work Assignment home page makes it easy for you to get started and 
 
 AWA home provides the following features:
 
--   Cards that guide you through the order of essential settings, like creating [[awa-service-channels|service channels]], configuring queues, and adding assignment rules. Cards that redirect you to additional and advanced settings, such as configuring presence states, setting up reject reasons, determining universal capacity, setting up agent affinity, and establishing shift-based assignments.
+-   Cards that guide you through the order of essential settings, like creating service channels, configuring queues, and adding assignment rules. Cards that redirect you to additional and advanced settings, such as configuring presence states, setting up reject reasons, determining universal capacity, setting up agent affinity, and establishing shift-based assignments.
 -   Lists of installed and available plugins.
 -   Quickly install plugins through the plugin page. The plugin page appears in either a new window or tab after selecting any **Get \[plugin\]** button. The plugin page opened dialog box appears on the home page, where you can select **Not Now** to continue with your current home page experience or **Done** to refresh the home page after your plugin's installation.
 -   Access to helpful resources and videos to help you learn more about configuring and managing AWA.
@@ -47,7 +47,7 @@ The layout of the home page may vary, depending on which features you've install
 
 -   **Get targeted routing capabilities**
 
-    Activate org-specific AWA plugins through the **Get plugin** button to route [[awa-work-items|work items]] to the right agents for ServiceNow® IT Service [[management|Management]] \(ITSM\), ServiceNow® Customer Service Management, and ServiceNow® HR Service Delivery \(HRSD\) plugins. These plugins enable org-specific service channels in AWA including configured data and demo data.
+    Activate org-specific AWA plugins through the **Get plugin** button to route work items to the right agents for ServiceNow® IT Service Management \(ITSM\), ServiceNow® Customer Service Management, and ServiceNow® HR Service Delivery \(HRSD\) plugins. These plugins enable org-specific service channels in AWA including configured data and demo data.
 
     \[Omitted image "awa-home-get-targeted-routing-capabilities.png"\] Alt text: Get targeted routing capabilities three plugin options
 
@@ -55,7 +55,7 @@ The layout of the home page may vary, depending on which features you've install
 
     After installing any of the targeted routing capabilities plugins, install these popular plugins to boost your AWA experience.
 
-    -   [[ci-use-agent-chat|Agent Chat]]: The Agent Chat plugin enables the Chat service channel in AWA and chat monitoring in Agent Workspace.
+    -   Agent Chat: The Agent Chat plugin enables the Chat service channel in AWA and chat monitoring in Agent Workspace.
     -   Walk-up Experience: The Walk-up Experience plugin activates the walk-up contact service channel for pre-built technology lounges.
     -   Performance Analytics: The Performance Analytics plugin activates the Performance Analytics Content Pack for AWA.
     \[Omitted image "awa-home-get-popular-plugins.png"\] Alt text: Get the most popular plugins after installing targeted routing capabilities plugins
@@ -125,7 +125,7 @@ Configure availability states that agents use to indicate whether they can recei
 
 </td><td>
 
-Define the reasons that agents can use to decline [[awa-assignment|work assignments]] that they receive in their Agent Workspace inbox.
+Define the reasons that agents can use to decline work assignments that they receive in their Agent Workspace inbox.
 
 </td></tr><tr><td>
 
@@ -199,12 +199,3 @@ Install either one or both of the following plugins for this card to conditional
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[awa-service-channels|Service channels]]
-- [[awa-work-items|Work items]]
-- [[management|Management]]
-- [[ci-use-agent-chat|Agent Chat]]
-- [[awa-assignment|Work assignments]]

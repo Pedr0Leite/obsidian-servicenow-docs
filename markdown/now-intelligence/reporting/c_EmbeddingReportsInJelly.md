@@ -160,7 +160,7 @@ When embedding a report in a Jelly element, you can define a report at any time 
 
 ### Common parameters
 
-Certain parameters are used by multiple [[report-types-creation-details-rd|report types]].
+Certain parameters are used by multiple report types.
 
 <table id="table_pv4_ngr_cs"><thead><tr><th>
 
@@ -252,7 +252,7 @@ sysparm\_field
 
 </td><td>
 
-The field from the specified table to group data by. Required for time series, column, bar, pie, donut, funnel, pyramid, box, trend, and [[c_CreatingTrendboxCharts|trendbox reports]]. Optional for [[list-reports|list reports]].
+The field from the specified table to group data by. Required for time series, column, bar, pie, donut, funnel, pyramid, box, trend, and trendbox reports. Optional for list reports.
 
 </td><td>
 
@@ -312,7 +312,7 @@ sysparm\_show\_other
 
 </td><td>
 
-A true/false value that controls whether the Other group appears on the report. This group appears only if the number of groups exceeds the number specified in the sysparm\_others parameter. This parameter applies to bar, pie, funnel, pyramid, pivot, and heat [[c_MapReport|map reports]].
+A true/false value that controls whether the Other group appears on the report. This group appears only if the number of groups exceeds the number specified in the sysparm\_others parameter. This parameter applies to bar, pie, funnel, pyramid, pivot, and heat map reports.
 
 </td><td>
 
@@ -384,7 +384,7 @@ sysparm\_chart\_colors
 
 </td><td>
 
-The set of [[c_ChartColors|chart colors]] that the report uses. This parameter is used when sysparm\_set\_color="several\_colors".Possible value: A comma-separated list of color hex codes
+The set of chart colors that the report uses. This parameter is used when sysparm\_set\_color="several\_colors".Possible value: A comma-separated list of color hex codes
 
 </td><td>
 
@@ -420,7 +420,7 @@ sysparm\_stack\_field
 
 </td><td>
 
-The field used to control stacking on bar and [[c_CreateColumnCharts|column reports]].
+The field used to control stacking on bar and column reports.
 
 </td><td>
 
@@ -444,7 +444,7 @@ sysparm\_box\_field
 
 </td><td>
 
-The numeric field used to measure the data. This parameter is required for box and [[c_CreatingHistograms|histogram reports]].
+The numeric field used to measure the data. This parameter is required for box and histogram reports.
 
 </td><td>
 
@@ -456,7 +456,7 @@ sysparm\_trend\_field
 
 </td><td>
 
-The date-time field used to organize trend data. This parameter is required for time series, trend, and [[c_CreatingBoxCharts|box reports]].
+The date-time field used to organize trend data. This parameter is required for time series, trend, and box reports.
 
 </td><td>
 
@@ -528,7 +528,7 @@ sysparm\_ct\_row
 
 </td><td>
 
-The field used to define the rows in heat map and [[c_BubbleCharts|bubble reports]].
+The field used to define the rows in heat map and bubble reports.
 
 </td><td>
 
@@ -756,7 +756,7 @@ Certain parameters control the width and height of the report.
 
 ### Chart title parameters
 
-Certain parameters are available only for reports that display a title. These report types include time series, bar, column, pie, donut, dials, trend, box, trend box, histogram, pyramid, heat map, funnel, and [[c_CreatingControlCharts|control reports]].
+Certain parameters are available only for reports that display a title. These report types include time series, bar, column, pie, donut, dials, trend, box, trend box, histogram, pyramid, heat map, funnel, and control reports.
 
 <table id="table_ml1_rhr_cs"><thead><tr><th>
 
@@ -956,7 +956,7 @@ A number that defines the radius size of the corners of the legend border, in pi
 </td></tr></tbody>
 </table>### X-axis parameters
 
-Certain parameters are available only for reports that use an X axis. These report types include bar, horizontal bar, pareto, column, line area, spline, box, trendbox, control, and [[c_CreateTrendCharts|trend reports]].
+Certain parameters are available only for reports that use an X axis. These report types include bar, horizontal bar, pareto, column, line area, spline, box, trendbox, control, and trend reports.
 
 |Parameter|Description|Default value|
 |---------|-----------|-------------|
@@ -986,16 +986,3 @@ Certain parameters are available only for reports that use a Y axis. These repor
 |sysparm\_y\_axis\_from|A number defining the lowest value displayed on the y axis.| |
 |sysparm\_y\_axis\_to|A number defining the highest value displayed on the y axis.| |
 
-## Related
-
-- [[report-types-creation-details-rd|Report types]]
-- [[c_CreatingTrendboxCharts|Trendbox reports]]
-- [[list-reports|List reports]]
-- [[c_MapReport|Map reports]]
-- [[c_ChartColors|Chart colors]]
-- [[c_CreateColumnCharts|Column reports]]
-- [[c_CreatingHistograms|Histogram reports]]
-- [[c_CreatingBoxCharts|Box reports]]
-- [[c_BubbleCharts|Bubble reports]]
-- [[c_CreatingControlCharts|Control reports]]
-- [[c_CreateTrendCharts|Trend reports]]

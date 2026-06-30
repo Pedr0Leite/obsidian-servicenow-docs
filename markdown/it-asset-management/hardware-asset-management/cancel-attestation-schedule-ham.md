@@ -22,11 +22,11 @@ Role required: asset or inventory\_admin
 
 ## About this task
 
-You can only [[cancel-asset-attestation-ham|cancel an asset attestation]] schedule that's in the Ready or In progress state. When you cancel the attestation schedule, the associated asset attestations that are in the In progress state aren't canceled. However, new asset attestations aren't created.
+You can only cancel an asset attestation schedule that's in the Ready or In progress state. When you cancel the attestation schedule, the associated asset attestations that are in the In progress state aren't canceled. However, new asset attestations aren't created.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Asset operations**.
+1.  Navigate to **Workspaces** &gt; **Hardware Asset Workspace** &gt; **Asset operations**.
 
 2.  From the **Attestation** list, select **Schedules**.
 
@@ -45,7 +45,3 @@ The state of the attestation schedule changes to Canceled.
 
 **Parent Topic:**[Audit your hardware assets by using Asset Attestation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/audit-hardware-assets-attestation.md)
 
-## Related
-
-- [[cancel-asset-attestation-ham|Cancel an asset attestation]]
-- [[using-ham-workspace|Hardware Asset Workspace]]

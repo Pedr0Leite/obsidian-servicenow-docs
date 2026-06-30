@@ -24,9 +24,9 @@ Role required: sn\_wfo\_cfg\_itsm.manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]** &gt; **Manager Workspace**.
+1.  Navigate to **All** &gt; **Workforce Optimization for ITSM** &gt; **Manager Workspace**.
 
-2.  Select the [[cf-coaching-landing|coaching]] icon \(\[Omitted image "coaching-icon-uib.png"\] Alt text: Coaching icon\).
+2.  Select the coaching icon \(\[Omitted image "coaching-icon-uib.png"\] Alt text: Coaching icon\).
 
 3.  Select the **Learning** tab.
 
@@ -82,7 +82,3 @@ Select **To my groups**.
 
 **Parent Topic:**[Learning in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/workforce-learning-configurable-wfo-itsm.md)
 
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]
-- [[cf-coaching-landing|Coaching]]

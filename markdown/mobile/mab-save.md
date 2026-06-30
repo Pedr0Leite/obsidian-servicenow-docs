@@ -12,7 +12,7 @@ breadcrumb: [Using the Mobile App Builder, Mobile App Builder, Building tools, B
 
 # Save changes in Mobile App Builder
 
-Save all the changes you make within the [[mab-concept|Mobile App Builder]] with a single action. There is no need to save each change individually before moving onto another screen or record.
+Save all the changes you make within the Mobile App Builder with a single action. There is no need to save each change individually before moving onto another screen or record.
 
 ## Before you begin
 
@@ -34,6 +34,4 @@ For more information about the delegated developer role, see [Delegated developm
 
     **Note:** Changes that you make are not saved to the database until you select the **Save** button. Mobile App Builder has several warning modals that display if you attempt to navigate away from a record with unsaved changes. For example, if you select the **Home** button, a warning message displays about unsaved changes.
 
-## Related
 
-- [[mab-concept|Mobile App Builder]]

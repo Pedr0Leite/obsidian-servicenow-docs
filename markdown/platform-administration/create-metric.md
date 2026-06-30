@@ -20,11 +20,11 @@ Role required: metric\_admin
 
 ## About this task
 
-Metric [[clone-exclusions-preservers-cleanupscripts|definitions]] do not generate values for time periods before they were created. They only apply to events that occur after the metric definition has been established.
+Metric definitions do not generate values for time periods before they were created. They only apply to events that occur after the metric definition has been established.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_MetricDefinitionSupport|Metrics]]** &gt; **Definitions**.
+1.  Navigate to **All** &gt; **Metrics** &gt; **Definitions**.
 
     **Important:** Don’t confuse these metric definitions with the metric definitions for the Assessments feature. The Assessments feature is concerned with questionnaires. It isn’t related to the Metrics feature.
 
@@ -82,8 +82,8 @@ Type
 
 </td><td>
 
-Select what values this metric generates.-   **Field value duration**: This type of metric measures the duration of time from when the value of the specified field is set until it’s changed. A Field value duration metric can optionally specify a script. The script can either return a duration value or set the answer variable to false to stop processing the metric. For example, the baseline incident metrics stop calculating duration when the Active field of an incident is set to false. The script can also carry out any other action such as closing the duration of other metrics defined on the same record. For more information, see [[c_SampleFieldValueDurationScript|Sample field value duration script]].
--   **Script calculation**: This type of metric creates a [[c_MetricInstance|metric instance]] using a script. The script has access to the current row in the table \(for example an incident\) and the metric definition. The script must perform metric calculations and insert data into the metric\_instance table. The calculation doesn’t have to result in a duration. It can calculate any type of value and store it in the metric instance value.
+Select what values this metric generates.-   **Field value duration**: This type of metric measures the duration of time from when the value of the specified field is set until it’s changed. A Field value duration metric can optionally specify a script. The script can either return a duration value or set the answer variable to false to stop processing the metric. For example, the baseline incident metrics stop calculating duration when the Active field of an incident is set to false. The script can also carry out any other action such as closing the duration of other metrics defined on the same record. For more information, see [Sample field value duration script](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_SampleFieldValueDurationScript.md).
+-   **Script calculation**: This type of metric creates a metric instance using a script. The script has access to the current row in the table \(for example an incident\) and the metric definition. The script must perform metric calculations and insert data into the metric\_instance table. The calculation doesn’t have to result in a duration. It can calculate any type of value and store it in the metric instance value.
 
 
 </td></tr><tr><td>
@@ -120,10 +120,3 @@ Enter the script that you want the metric to run to either calculate a duration 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_SampleFieldValueDurationScript|Sample field value duration script]]
-- [[clone-exclusions-preservers-cleanupscripts|Definitions]]
-- [[c_MetricDefinitionSupport|Metrics]]
-- [[c_MetricInstance|Metric instance]]

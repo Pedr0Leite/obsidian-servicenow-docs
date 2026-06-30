@@ -24,11 +24,11 @@ Exception approver level 1 user group members can approve the level 1 exception 
 
 **Note:**
 
-If you are deploying the VR application for the first time, the flow designer for exception management is enabled by default. If you are already using the workflow, you can update to the flow designer. In both cases, you cannot change it back to workflow. To [[avr-exception-mgt-approval-rules|configure approval rules for exception management]] and false positive, see [Configure approval rules for Exception Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-response/exception-mgt-approval-rules.md).
+If you are deploying the VR application for the first time, the flow designer for exception management is enabled by default. If you are already using the workflow, you can update to the flow designer. In both cases, you cannot change it back to workflow. To configure approval rules for exception management and false positive, see [Configure approval rules for Exception Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-response/exception-mgt-approval-rules.md).
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sem-workspace-user-interface|Security Exposure Management Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Security Exposure Management Workspace**.
 
 2.  Select **Administration** in the navigation pane.
 
@@ -39,10 +39,5 @@ If you are deploying the VR application for the first time, the flow designer fo
 5.  Approve or reject the request with and explain why you approved or rejected the request.
 
 
-**Parent Topic:**[[sem-configure-exception-rule|Configuring an exception rule]]
+**Parent Topic:**[Configuring an exception rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-configure-exception-rule.md)
 
-## Related
-
-- [[sem-configure-exception-rule|Configuring an exception rule]]
-- [[avr-exception-mgt-approval-rules|Configure approval rules for Exception Management]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]

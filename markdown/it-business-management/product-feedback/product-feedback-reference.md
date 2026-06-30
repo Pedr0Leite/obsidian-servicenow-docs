@@ -17,14 +17,9 @@ breadcrumb: [Feedback application in Strategic Planning, Strategic Planning, Str
 Reference information to provide additional details about Feedback such as the fields, user roles, tables, and system properties information.
 
 -   **[Components installed with Feedback application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/components-installed-with-product-feedback.md)**  
-Learn about several types of [[components-installed-with-product-feedback|components installed with Feedback application]] in [[alignment-planner-workspace-landing-page|Strategic Planning]] such as user roles, tables, and, system properties.
+Learn about several types of components installed with Feedback application in Strategic Planning such as user roles, tables, and, system properties.
 -   **[Form field information for Feedback application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/form-field-information-for-product-feedback.md)**  
-Field information for [[form-field-information-for-dw|forms]] used in the Feedback application.
+Field information for forms used in the Feedback application.
 
 **Parent Topic:**[Feedback application in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/product-feedback-landing.md)
 
-## Related
-
-- [[components-installed-with-product-feedback|Components installed with Feedback application]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[form-field-information-for-dw|Forms]]

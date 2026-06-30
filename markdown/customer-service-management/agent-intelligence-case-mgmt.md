@@ -18,16 +18,16 @@ From either Agent Workspace or the platform interface, agents can use this featu
 
 ## Plugin
 
-The Predictive [[intelligence-csm|Intelligence]] for [[c_CustomerServiceManagement|Customer Service Management]] plugin \(com.snc.csm\_ml\) provides Predictive Intelligence capabilities for Customer Service Management. This plugin enables customers to leverage machine learning algorithms for searching related cases in CSM. This plugin requires:
+The Predictive Intelligence for Customer Service Management plugin \(com.snc.csm\_ml\) provides Predictive Intelligence capabilities for Customer Service Management. This plugin enables customers to leverage machine learning algorithms for searching related cases in CSM. This plugin requires:
 
 -   Customer Service \(com.sn\_customerservice\)
--   Predictive Intelligence for [[osp-contextual-search|Contextual Search]] \(com.snc.contextual\_search\_ml\)
+-   Predictive Intelligence for Contextual Search \(com.snc.contextual\_search\_ml\)
 
 The Predictive Intelligence for Customer Service Management plugin is activated automatically for new Orlando customers. Existing customers upgrading to the Orlando release must manually activate this plugin.
 
 ## Solution definitions
 
-Predictive Intelligence includes the following solution definitions for [[case-management|case management]]:
+Predictive Intelligence includes the following solution definitions for case management:
 
 -   CSM Case Categorization
 -   CSM Case Assignment
@@ -35,11 +35,11 @@ Predictive Intelligence includes the following solution definitions for [[case-m
 
 A solution definition predicts one or more output fields based on a configured input field. At least one solution definition must be active to use Predictive Intelligence with Customer Service Management.
 
-For more information, see [[predictive-intelligence-for-csm|Predictive Intelligence for CSM solution definitions]].
+For more information, see [Predictive Intelligence for CSM solution definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/predictive-intelligence-for-csm.md).
 
 ## Business rules
 
-Predictive Intelligence also includes business [[gamification-components-rules|rules]] for Customer Service Management:
+Predictive Intelligence also includes business rules for Customer Service Management:
 
 -   Default Case Based Prediction
 -   Update Prediction Results
@@ -55,11 +55,3 @@ The Predictive Intelligence feature for Customer Service Management includes the
 
 The system administrator can use this extension point to customize the solution definitions.
 
-## Related
-
-- [[predictive-intelligence-for-csm|Predictive Intelligence for CSM solution definitions]]
-- [[intelligence-csm|Intelligence]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[osp-contextual-search|Contextual search]]
-- [[case-management|Case management]]
-- [[gamification-components-rules|Rules]]

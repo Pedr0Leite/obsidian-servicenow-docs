@@ -22,7 +22,7 @@ Role required: admin or sn\_critical.manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[health-safety-overview|Health and Safety]]** &gt; **[[critical-event-management|Critical Event Management]]** &gt; **Responder Group mapping**, to view the list of the on-site responder groups.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Critical Event Management** &gt; **Responder Group mapping**, to view the list of the on-site responder groups.
 
 2.  Select **New** to add a new on-site responder group.
 
@@ -48,7 +48,3 @@ Role required: admin or sn\_critical.manager
 
 [Add roles to the group]()
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[critical-event-management|Critical Event Management]]

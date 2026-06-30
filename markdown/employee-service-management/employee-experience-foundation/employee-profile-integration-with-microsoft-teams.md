@@ -14,7 +14,7 @@ breadcrumb: [Employee Center Integrations, Unified Employee Experience, Employee
 
 # Employee Profile integration with Microsoft Teams
 
-[[emp-slate-employee-profile|Employee Profile]] provides integration with Microsoft Teams that show the current statuses of employees on their respective Employee Profile pages itself.
+Employee Profile provides integration with Microsoft Teams that show the current statuses of employees on their respective Employee Profile pages itself.
 
 The Microsoft Teams integration with the Employee Profile lets users quickly gauge the availability of their peers during work hours and beyond on their Employee Profile pages itself.
 
@@ -28,14 +28,10 @@ You can [disable the status view](https://raw.githubusercontent.com/ServiceNow/S
 
 **Note:**
 
-To use this integrated feature, the user must install either the [[hr-service-delivery|HR Service Delivery]] integration with Microsoft Teams version 3.1.0 app or the IT Service Management integration with Microsoft Teams version 2.4.0 app.
+To use this integrated feature, the user must install either the HR Service Delivery integration with Microsoft Teams version 3.1.0 app or the IT Service Management integration with Microsoft Teams version 2.4.0 app.
 
 -   **[Disable Microsoft Teams status view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/disable-microsoft-teams-status-view.md)**  
 You can disable the status view of Microsoft Teams on your Employee Profile page.
 
 **Parent Topic:**[Employee Center Integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/integrate-ec.md)
 
-## Related
-
-- [[emp-slate-employee-profile|Employee profile]]
-- [[hr-service-delivery|HR Service Delivery]]

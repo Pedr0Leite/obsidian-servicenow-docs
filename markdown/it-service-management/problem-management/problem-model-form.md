@@ -14,7 +14,7 @@ breadcrumb: [Reference section for Problem Management, Problem Management, IT Se
 
 # Problem model form
 
-Description of the field values for the [[problem-task-model-form|problem task model form]].
+Description of the field values for the problem task model form.
 
 |Field|Description|
 |-----|-----------|
@@ -22,13 +22,9 @@ Description of the field values for the [[problem-task-model-form|problem task m
 |Default problem model|Option for enabling the problem model as a default model on the problem request form.|
 |Active|Option for specifying that this model is available for selection when creating a problem request.|
 |Description|Detailed description of the problem model.|
-|Advanced Security|Option to enable role-based access controls and user criteria to tailor the problem creation [[dex-workspace-dashboard-tab|landing page]] views. When you enable Advanced Security, the **Available For**, **Not Available For**, and **Can write** tabs appear next to the **Model States** tab.|
+|Advanced Security|Option to enable role-based access controls and user criteria to tailor the problem creation landing page views. When you enable Advanced Security, the **Available For**, **Not Available For**, and **Can write** tabs appear next to the **Model States** tab.|
 |Read Roles|Option to define the roles to view the problem model.|
 |Write Roles|Option to define the roles to edit the problem model.|
 
 **Parent Topic:**[Reference section for Problem Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/reference-section-for-problem-management.md)
 
-## Related
-
-- [[problem-task-model-form|Problem task model form]]
-- [[dex-workspace-dashboard-tab|Landing page]]

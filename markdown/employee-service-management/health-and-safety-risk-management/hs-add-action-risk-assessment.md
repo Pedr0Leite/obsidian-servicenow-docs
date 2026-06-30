@@ -22,11 +22,11 @@ Role required: sn\_hs\_rm.risk\_assessment\_manager, sn\_hs\_rm.risk\_assessment
 
 ## About this task
 
-You can add actions from the Actions tab on a [[health-safety-overview|Health and Safety]] record or by using the Action planner in the contextual sidebar. For more information on Action planner, see [Create and manage a safety action in the Action planner](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/hs-create-action-in-action-planner.md).
+You can add actions from the Actions tab on a Health and Safety record or by using the Action planner in the contextual sidebar. For more information on Action planner, see [Create and manage a safety action in the Action planner](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/hs-create-action-in-action-planner.md).
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Health and Safety Workspace**.
 
 2.  Select the risk management icon \(\[Omitted image "icon-risk-assessment.png"\] Alt text: Risk assessment icon\) to open the **Risk assessment** list.
 
@@ -74,7 +74,7 @@ For information on field descriptions, see [Health and Safety action form](https
 ## Result
 
 -   If associated with a risk assessment, the action appears in the list of actions in the **Risk actions** tab of that assessment. The action is also listed in the **Risk actions** list on Health and Safety Workspace.
--   The action appears in the assigned user's **My Tasks** list on both the [[employee-center-landing-page|Employee Center]] and the [[mobile-employee-experience|Now Mobile app]]. From either location, the user can respond to the action and update its status.
+-   The action appears in the assigned user's **My Tasks** list on both the Employee Center and the Now Mobile app. From either location, the user can respond to the action and update its status.
 
 ## What to do next
 
@@ -85,9 +85,3 @@ If needed, you can share the action, independent of the risk, with other groups 
 
 **Parent Topic:**[Safety risk assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-risk-assessment.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[employee-center-landing-page|Employee Center]]
-- [[mobile-employee-experience|Now Mobile app]]

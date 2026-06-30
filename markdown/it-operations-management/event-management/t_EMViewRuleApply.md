@@ -26,7 +26,7 @@ To automatically filter out irrelevant alerts or transform and standardize alert
 
 ## Procedure
 
-1.  Navigate to **[[c_EM|Event Management]]** &gt; **All Events**, and then click an event number.
+1.  Navigate to **Event Management** &gt; **All Events**, and then click an event number.
 
 2.  Under **Related Links**, click **Find matching rules**.
 
@@ -40,6 +40,3 @@ To automatically filter out irrelevant alerts or transform and standardize alert
 
 [View events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMManageEvent.md)
 
-## Related
-
-- [[c_EM|Event Management]]

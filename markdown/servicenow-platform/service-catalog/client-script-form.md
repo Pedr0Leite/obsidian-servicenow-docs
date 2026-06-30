@@ -20,7 +20,7 @@ Use client-side scripts to define dynamic behavior or validations on this catalo
 |-----|-----------|
 |Actions|
 |Name|Unique name for the catalog client script.|
-|Active|Check box to enable the client script. Clear the [[check-box|check box]] to disable the script.|
+|Active|Check box to enable the client script. Clear the check box to disable the script.|
 |Select client script type|Select when the script runs, such as `onChange`, `onLoad`, or `onSubmit`.|
 |Select question|Select a required question. This field is available only when you select `onChange` client script type.|
 |Script|Enter the client script to run on the catalog item.|
@@ -40,6 +40,3 @@ Use client-side scripts to define dynamic behavior or validations on this catalo
 
 [Catalog builder developer \[catalog\_builder\_developer\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/r_ServiceCatalogManagementTermsandRoles.md)
 
-## Related
-
-- [[check-box|Check box]]

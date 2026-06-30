@@ -15,7 +15,7 @@ breadcrumb: [Agent Chat, Conversational Interfaces]
 
 # Using Agent Chat
 
-[[ci-use-agent-chat|Agent Chat]] enables live agents to have conversations with requesters and for managers to help agents and monitor them.
+Agent Chat enables live agents to have conversations with requesters and for managers to help agents and monitor them.
 
 Workspace displays a chat inbox icon \[Omitted image "inbox-icon-pol.png"\] Alt text: that agents use to enter chats. Agents set their status to **Available** or **Away** to open or close their inbox for chat requests. The icon displays numbers when chats are waiting to be answered.
 
@@ -67,7 +67,7 @@ To create a quick action that requires a secondary menu, you must define paramet
 
 ## Automatically displaying topics with Conversation Autopilot
 
-Agents can use Conversation Autopilot to display [[virtual-agent-landing-page|Virtual Agent]] topics during Agent Chat conversations. While the requester interacts with the Virtual Agent topics, agents can multitask and work on other items. Conversation Autopilot is not available for HR Service Delivery \(HRSD\).
+Agents can use Conversation Autopilot to display Virtual Agent topics during Agent Chat conversations. While the requester interacts with the Virtual Agent topics, agents can multitask and work on other items. Conversation Autopilot is not available for HR Service Delivery \(HRSD\).
 
 While talking to a requester in an Agent Chat conversation, agents can start Conversation Autopilot by using autopilot quick actions to invoke Virtual Agent topics. Depending on the information entered by the requester, agents can search for a specific Virtual Agent topic and display it with parameters. The requester views the topic and responds as needed and Virtual Agent captures the requester’s input.
 
@@ -97,7 +97,7 @@ While Autopilot is on, the requester can use the rich controls for text but agen
 
 \[Omitted image "autopilot-no-rich-controls.png"\] Alt text: Rich controls are read-only during autopilot.
 
-When Autopilot is in use, public chat with the requester is disabled, but agents can contact other agents and supervisors for help. If [[ci-agent-whisper|Agent Whisper]] is on, the **Private Chat** tab in Agent Whisper functions normally during Autopilot. While Autopilot is in use, the agent's capacity is not freed up and messaging actions configured by customers are disabled.
+When Autopilot is in use, public chat with the requester is disabled, but agents can contact other agents and supervisors for help. If Agent Whisper is on, the **Private Chat** tab in Agent Whisper functions normally during Autopilot. While Autopilot is in use, the agent's capacity is not freed up and messaging actions configured by customers are disabled.
 
 ### When Autopilot is ended
 
@@ -207,9 +207,9 @@ Role required: admin
 **Related topics**  
 
 
-[[async-chat|Asynchronous chat]]
+[Asynchronous chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/async-chat.md)
 
-[[configure-async-web|Configure asynchronous chat for the web channel]]
+[Configure asynchronous chat for the web channel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/configure-async-web.md)
 
 ## Using the action bar in chat interaction records
 
@@ -221,7 +221,7 @@ The action bar includes the following actions:
 
     **Note:** In contact-center-as-a-service \(CCaaS\) powered chats, End Chat is replaced with Leave Chat, which enables an agent to leave the chat conversation without ending it for other agents.
 
--   Discuss: Opens a pop-up window to start a [[sidebar-landing|Sidebar]] discussion.
+-   Discuss: Opens a pop-up window to start a Sidebar discussion.
 -   Create Case: Creates a new case record.
 -   Save: Saves changes to the interaction record.
 -   More Actions: Perform additional actions such as creating a request or associating a record.
@@ -231,11 +231,3 @@ The action bar includes the following actions:
 
 **Note:** The specific actions available are determined by factors such as the user role and other attributes.
 
-## Related
-
-- [[async-chat|Using Asynchronous Chat in messaging channels]]
-- [[configure-async-web|Configure asynchronous chat for the web channel]]
-- [[ci-use-agent-chat|Agent Chat]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[ci-agent-whisper|Agent Whisper]]
-- [[sidebar-landing|Sidebar]]

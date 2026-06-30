@@ -16,11 +16,11 @@ breadcrumb: [Integration, Activate, Process Mining, Platform Analytics]
 
 Integration with Automation Center enables you to access the automation requests from the Automation Center Workspace.
 
-From [[process-mining|Process Mining]], you can create automation requests that you want to view in Automation Center Workspace.
+From Process Mining, you can create automation requests that you want to view in Automation Center Workspace.
 
 ## Submit an automation idea
 
-Discover, prioritize, and manage automation requests from different sources from the [[analyst-workbench-overview|Process Mining workspace]].
+Discover, prioritize, and manage automation requests from different sources from the Process Mining workspace.
 
 ### Before you begin
 
@@ -55,7 +55,3 @@ Your new request appears in the Improvement Initiatives panel.
 
 \[Omitted image "complete-automation-idea.png"\] Alt text: new request shown
 
-## Related
-
-- [[process-mining|Process Mining]]
-- [[analyst-workbench-overview|Process Mining workspace]]

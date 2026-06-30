@@ -18,7 +18,7 @@ Enable chat access for a guest user while configuring ServiceNow® for Microsoft
 
 ## Before you begin
 
-In an upgrade scenario for a pre-published app, after the upgrade process, you must reauthorize the Request-based chat and SSO and [[activity-lxp|Activity]] Notifications applications. Reauthorization permits your ServiceNow instance to make API calls to Microsoft Azure. As a result, ServiceNow for the Microsoft Teams application workflow is enabled and your consent for the new API permissions is ensured. For more information, see [Grant permissions to required Microsoft Azure apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/authorize-multi-tenant-apps-mt.md).
+In an upgrade scenario for a pre-published app, after the upgrade process, you must reauthorize the Request-based chat and SSO and Activity Notifications applications. Reauthorization permits your ServiceNow instance to make API calls to Microsoft Azure. As a result, ServiceNow for the Microsoft Teams application workflow is enabled and your consent for the new API permissions is ensured. For more information, see [Grant permissions to required Microsoft Azure apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/authorize-multi-tenant-apps-mt.md).
 
 Role required: External admin \(external\_app\_install\_admin\)
 
@@ -102,6 +102,3 @@ Guests belonging to the selected guest domains can now start or import chats.
 
 **Parent Topic:**[Request-based chat access for a guest user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/guest-user-chat-access-mt.md)
 
-## Related
-
-- [[activity-lxp|Activity]]

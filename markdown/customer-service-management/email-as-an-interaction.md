@@ -13,19 +13,13 @@ breadcrumb: [Email channel, Enable communication channels, Configure, Customer S
 
 # Email Interaction
 
-Like chat and phone channels, Email Interaction enables agents to manage email conversations with customers using interaction records. Agents can create cases when further investigation is needed. This approach reduces unnecessary cases and provides a consistent design for [[omnichannel|omnichannel]] interactions.
+Like chat and phone channels, Email Interaction enables agents to manage email conversations with customers using interaction records. Agents can create cases when further investigation is needed. This approach reduces unnecessary cases and provides a consistent design for omnichannel interactions.
 
-To enable Email Interaction for [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\), configure system properties and define flows for processing incoming emails. These flows determine how emails are converted into interactions and, if necessary, into cases.
+To enable Email Interaction for Customer Service Management \(CSM\), configure system properties and define flows for processing incoming emails. These flows determine how emails are converted into interactions and, if necessary, into cases.
 
 Additionally, enabling notifications for interactions notifies agents about email responses received from customers, supporting timely responses to customer inquiries.
 
-When a customer replies to an email thread linked to a closed interaction, the system automatically routes the reply to the correct open case or interaction without creating a new interaction. For details, see [[email-reply-routing-closed-interactions|Email reply linking for closed interactions]].
+When a customer replies to an email thread linked to a closed interaction, the system automatically routes the reply to the correct open case or interaction without creating a new interaction. For details, see [Email reply linking for closed interactions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/email-reply-routing-closed-interactions.md).
 
-Check your entitlements to determine whether you have access to generate AI summaries of email interactions on demand. For details, see [[eaai-ai-summarization-email-interactions|AI summarization of email interactions]].
+Check your entitlements to determine whether you have access to generate AI summaries of email interactions on demand. For details, see [AI summarization of email interactions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/eaai-ai-summarization-email-interactions.md).
 
-## Related
-
-- [[email-reply-routing-closed-interactions|Email reply linking for closed interactions]]
-- [[eaai-ai-summarization-email-interactions|AI summarization of email interactions]]
-- [[omnichannel|Omnichannel]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

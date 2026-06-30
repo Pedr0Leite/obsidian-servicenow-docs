@@ -15,7 +15,7 @@ breadcrumb: [Working with Employee Slate capabilities, Employee Slate, Unified E
 
 # Search sources for Employee Slate
 
-Configure internal and external search sources to expand the knowledge base available to Now Assist in [[employee-slate-landing-page|Employee Slate]]. Search sources determine what content users can access through conversational search.
+Configure internal and external search sources to expand the knowledge base available to Now Assist in Employee Slate. Search sources determine what content users can access through conversational search.
 
 Search sources define the content that Now Assist can access when responding to employee queries in Employee Slate. By configuring search sources, you expand the knowledge base beyond default ServiceNow content to include external systems, knowledge bases, and custom data sources.
 
@@ -25,7 +25,7 @@ Employee Slate supports multiple types of search sources to provide comprehensiv
 
 -   **Internal ServiceNow sources**
 
-    Knowledge articles, catalog items, service [[ec-streamline-content|portal content]], and other ServiceNow records that employees commonly need to access.
+    Knowledge articles, catalog items, service portal content, and other ServiceNow records that employees commonly need to access.
 
 -   **External content connectors**
 
@@ -49,7 +49,7 @@ Setting up search sources for Employee Slate involves several configuration step
 
 Search sources respect ServiceNow security models and role-based access controls. Users only see search results for content they have permission to access. This helps protect the sensitive information while providing relevant search results.
 
-Configure user criteria and role-based filters to control which employees can access specific search sources such as important for [[hr-esigning-app|HR documents]], financial information, and other confidential content.
+Configure user criteria and role-based filters to control which employees can access specific search sources such as important for HR documents, financial information, and other confidential content.
 
 ## Performance and indexing
 
@@ -76,8 +76,3 @@ Adding comprehensive search sources to Employee Slate provides several advantage
 
 [Add external search sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/eslate-add-external-search.md)
 
-## Related
-
-- [[employee-slate-landing-page|Employee Slate]]
-- [[ec-streamline-content|Portal content]]
-- [[hr-esigning-app|HR Documents]]

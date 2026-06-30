@@ -14,13 +14,13 @@ breadcrumb: [Appointment Booking, Configuring Employee Center Pro, Employee Cent
 
 # Map category and reasons to a location
 
-Use the [[config-taxonomy|Unified Taxonomy for Employee Center]] to create appointment categories to group appointment reasons and map them to location queues.
+Use the Unified Taxonomy for Employee Center to create appointment categories to group appointment reasons and map them to location queues.
 
 ## Before you begin
 
 Ensure that you have created the following records:
 
--   Unified Taxonomy topic for [[employee-center-landing-page|Employee Center]]. For more information about Unified Taxonomy, see [Unified Taxonomy for Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-taxonomy.md).
+-   Unified Taxonomy topic for Employee Center. For more information about Unified Taxonomy, see [Unified Taxonomy for Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-taxonomy.md).
 -   Walk-up location queue record that you want to map the reasons to. For more information about creating a walk-up location queue, see [Create or modify Walk-up Experience locations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/configure-walkup-location.md).
 -   Appointment reasons that you want to link to the location queue. For more information about creating reasons, see [Create an appointment reason](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/create-apt-reason.md).
 -   Location consent \(communication configuration\) record that you want to link to the walk-up location queue. For more information about configuring location consent \(communication configuration\), see [Configure appointment communication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/configure-appt-comms.md).
@@ -33,7 +33,7 @@ Role required: sn\_hr\_core.walkup\_admin, sn\_walkup.walkup\_manager
 
 2.  On the Walk-up Location Queues list, select the record that you want to add the category to.
 
-    **Note:** To display the Topic and Location consent fields, change the view to **[[appointment-booking|Appointment Booking]]**.
+    **Note:** To display the Topic and Location consent fields, change the view to **Appointment Booking**.
 
     \[Omitted image "appt-booking-view.png"\] Alt text: View options for the Walk-up Location Queue form. The Walk-up option is currently selected and the Appointment Booking option is highlighted.
 
@@ -61,8 +61,4 @@ Role required: sn\_hr\_core.walkup\_admin, sn\_walkup.walkup\_manager
 
     The reason record is created and linked to the walk-up location.
 
-## Related
 
-- [[config-taxonomy|Unified Taxonomy for Employee Center]]
-- [[employee-center-landing-page|Employee Center]]
-- [[appointment-booking|Appointment Booking]]

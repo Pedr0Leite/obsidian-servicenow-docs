@@ -15,15 +15,15 @@ breadcrumb: [Discovery Admin Workspace Insights, Discovery Admin Workspace, Expl
 
 # Tag Governance Insights dashboard
 
-View metrics like tag policy coverage, compliance status, and usage trends directly from the [[discovery-admin-workspace|Discovery Admin Workspace]].
+View metrics like tag policy coverage, compliance status, and usage trends directly from the Discovery Admin Workspace.
 
 ## Before you begin
 
 Verify the following setup:
 
--   [[landing-page-tag-governance|Tag Governance]] \(app version 1.9.0 or later\) is installed.
+-   Tag Governance \(app version 1.9.0 or later\) is installed.
 -   Discovery Admin Workspace \(app version 1.13.0 or later\) is installed.
--   The [[r-discovery|Discovery]] role is discovery\_admin or admin.
+-   The Discovery role is discovery\_admin or admin.
 -   Tag Governance role is sn\_itom\_tag.tag\_governance\_admin.
 
 ## Access the dashboard
@@ -32,8 +32,3 @@ To access the dashboard, navigate to **Workspaces** &gt; **Discovery Admin Works
 
 For details about the dashboard, see the "Dashboard details" section in [View Tag Governance metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/tag-governance/tag-governance-dashboard.md).
 
-## Related
-
-- [[discovery-admin-workspace|Discovery Admin Workspace]]
-- [[landing-page-tag-governance|Tag Governance]]
-- [[r-discovery|Discovery]]

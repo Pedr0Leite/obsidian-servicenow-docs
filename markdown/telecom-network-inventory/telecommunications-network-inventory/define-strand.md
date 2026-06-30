@@ -14,7 +14,7 @@ breadcrumb: [Manually creating and reviewing your network asset instances, Defin
 
 # Define the strand details
 
-Review, update, or create a network asset instance for a strand in the cable. You define these attributes so that you can track and manage your network assets in the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+Review, update, or create a network asset instance for a strand in the cable. You define these attributes so that you can track and manage your network assets in the Telecommunications Network Inventory application.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ A strand refers to an individual conductor or wire within the cable. Cables are 
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then go to **Inventory** &gt; **Strands**.
 
@@ -36,7 +36,7 @@ A strand refers to an individual conductor or wire within the cable. Cables are 
 
     To learn more about the fields, see [Strand form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/strand-form.md).
 
-5.  Create the Telecommunications Network Inventory attributes for the [[strand-form|Strand form]] by selecting **Set Inventory Attributes**.
+5.  Create the Telecommunications Network Inventory attributes for the Strand form by selecting **Set Inventory Attributes**.
 
     When you select the **Set Inventory Attributes** button, it creates the TNI CI Attributes record in the CI table as well as the Telecommunications Network Inventory CI Attributes tables and makes a relationship with the CI record.
 
@@ -44,7 +44,7 @@ A strand refers to an individual conductor or wire within the cable. Cables are 
 
     If you select **Save** without selecting **Set Inventory Attributes**, it creates a CI record but not a Telecommunications Network Inventory CI record. In the network inventory workspace, the **Set Inventory Attributes** is visible only for the Telecommunications Network Inventory roles.
 
-6.  On the [[ci-attribue-form|TNI CI Attributes form]], fill in the fields.
+6.  On the TNI CI Attributes form, fill in the fields.
 
     To learn more about the Telecommunications Network Inventory attribute fields, see [TNI CI Attributes form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/ci-attribue-form.md).
 
@@ -78,9 +78,3 @@ A strand refers to an individual conductor or wire within the cable. Cables are 
 
 [Modeling your workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telecommunications-network-inventory-workflow.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[strand-form|Strand form]]
-- [[ci-attribue-form|TNI CI Attributes form]]

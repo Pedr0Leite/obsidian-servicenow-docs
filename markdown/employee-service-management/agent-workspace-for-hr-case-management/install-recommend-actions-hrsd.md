@@ -14,7 +14,7 @@ breadcrumb: [Configure, Recommended Actions for HRSD, Agent Workspace, HR Servic
 
 # Install Recommended Actions for HRSD
 
-You can install the [[recommended-actions-hrsd|Recommended Actions for HRSD]] application \(com.sn\_hr\_ra\) if you have the admin role.The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Recommended Actions for HRSD application \(com.sn\_hr\_ra\) if you have the admin role.The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -45,6 +45,4 @@ Role required: admin
 
 6.  Select **Install**.
 
-## Related
 
-- [[recommended-actions-hrsd|Recommended Actions for HRSD]]

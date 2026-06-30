@@ -14,10 +14,10 @@ breadcrumb: [Use, Sourcing and Procurement Operations, Finance and Supply Chain]
 
 # Using Spend and Savings Management
 
-Use [[spo-spend-mgmt|Spend and Savings Management]] to import and manage your organization's category taxonomy.
+Use Spend and Savings Management to import and manage your organization's category taxonomy.
 
 -   **[Map spend categories to product categories using an Excel file](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/map-spend-product-categories-excel.md)**  
-You can [[map-spend-product-categories-excel|map spend categories to product categories using an Excel file]] to better organize and manage your organization’s expenses by grouping similar goods or services into logical categories.
+You can map spend categories to product categories using an Excel file to better organize and manage your organization’s expenses by grouping similar goods or services into logical categories.
 -   **[Map spend categories to product categories manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/map-spend-product-categories.md)**  
 You can manually map spend categories to product categories to better organize and manage your organization’s expenses by grouping similar goods or services into logical categories.
 -   **[Action or dismiss a savings opportunity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/action-or-dismiss-savings-opportunity.md)**  
@@ -30,19 +30,13 @@ Convert a savings opportunity into a pipeline project, or dismiss it with a reas
 
 [Using Shopping Hub]()
 
-[Using [[shopping-hub-overview|Shopping Hub]] Mobile]()
+[Using Shopping Hub Mobile]()
 
 [Using Procurement Case Management]()
 
-[Working with [[psm-overview|Sourcing and Procurement Operations]] playbooks in the Source-to-Pay Workspace]()
+[Working with Sourcing and Procurement Operations playbooks in the Source-to-Pay Workspace]()
 
 [Using Sourcing Pipeline Management]()
 
 [Create a Universal Request]()
 
-## Related
-
-- [[spo-spend-mgmt|Spend and Savings Management]]
-- [[map-spend-product-categories-excel|Map spend categories to product categories using an Excel file]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[psm-overview|Sourcing and Procurement Operations]]

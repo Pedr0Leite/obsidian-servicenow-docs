@@ -20,7 +20,7 @@ Add a knowledge block to a knowledge article in Agent Workspace.
 
 -   Both the knowledge article and the knowledge block must be in the same knowledge base.
 -   You must have contribute access to the knowledge base.
--   Ensure that the [[knowledge-blocks|knowledge blocks]] feature is enabled for the knowledge base that the article is in. For more information, see [Enable knowledge blocks for each knowledge base](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/enable-knowledge-blocks-for-knowledge-base.md).
+-   Ensure that the knowledge blocks feature is enabled for the knowledge base that the article is in. For more information, see [Enable knowledge blocks for each knowledge base](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/enable-knowledge-blocks-for-knowledge-base.md).
 
 Role required: agent\_workspace\_user and knowledge
 
@@ -36,7 +36,7 @@ Role required: agent\_workspace\_user and knowledge
 
     **Note:**
 
-    -   Knowledge blocks are supported only with [[html|HTML]] knowledge articles. Make sure that the **Article type** field is set to **HTML**.
+    -   Knowledge blocks are supported only with HTML knowledge articles. Make sure that the **Article type** field is set to **HTML**.
     -   If a knowledge article uses an article template, you can add knowledge blocks to any fields associated with the article template.
 4.  In the contextual side panel, click the add blocks icon \(\[Omitted image "add-block.png"\] Alt text: Add Blocks icon\).
 
@@ -56,7 +56,4 @@ Role required: agent\_workspace\_user and knowledge
 
     The knowledge article is published depending on the workflow setting of its knowledge base. For more information, see [Publish a knowledge article in Agent Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/publish-knowledge-article-workspace.md).
 
-## Related
 
-- [[knowledge-blocks|Knowledge blocks]]
-- [[html|HTML]]

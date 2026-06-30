@@ -14,7 +14,7 @@ breadcrumb: [Data Discovery jobs, Exploring Data Discovery \(Classic\), Data Dis
 
 # Configure Data Discovery target table
 
-Add a target tables to be used in [[data-discovery-jobs|Data Discovery jobs]]. Only target tables will be scanned for data patterns.
+Add a target tables to be used in Data Discovery jobs. Only target tables will be scanned for data patterns.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: data\_discovery\_admin
 
 ## About this task
 
-When a [[data-discovery-landing|Data Discovery]] job is run it will run against all target tables with all active patterns.
+When a Data Discovery job is run it will run against all target tables with all active patterns.
 
 ## Procedure
 
@@ -34,7 +34,4 @@ When a [[data-discovery-landing|Data Discovery]] job is run it will run against 
 
 4.  Select **Submit**.
 
-## Related
 
-- [[data-discovery-jobs|Data Discovery jobs]]
-- [[data-discovery-landing|Data Discovery]]

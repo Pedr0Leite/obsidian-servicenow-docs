@@ -22,7 +22,7 @@ Role required: sn\_cmp.cloud\_service\_user
 
 ## Procedure
 
-1.  Navigate to **Browse Cloud Services** under **Cloud Services** on the Employee Central portal page in [[csc-home|Cloud Services Catalog]].
+1.  Navigate to **Browse Cloud Services** under **Cloud Services** on the Employee Central portal page in Cloud Services Catalog.
 
 2.  Find a suitable catalog item from options displayed.
 
@@ -37,6 +37,3 @@ Role required: sn\_cmp.cloud\_service\_user
 
 **Parent Topic:**[Using Cloud Services Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/using-cloud-services-catalog.md)
 
-## Related
-
-- [[csc-home|Cloud Services Catalog]]

@@ -98,7 +98,7 @@ The SAFe PI dashboard provides the following details:
 
 ## Data visualizations
 
-If you are upgrading from version 1.0.2 or earlier of [[pa-content-pack-essential-safe|Performance Analytics Content Pack for Essential SAFe]], then install this dashboard from Solution Library to upgrade its layout and access the following visualizations:
+If you are upgrading from version 1.0.2 or earlier of Performance Analytics Content Pack for Essential SAFe, then install this dashboard from Solution Library to upgrade its layout and access the following visualizations:
 
 -   PI Cumulative Flow Diagram
 -   Story Cycle Time
@@ -243,6 +243,3 @@ Identify the time taken for each story in the PI to move from an in-progress sta
 
 **Parent Topic:**[Performance Analytics Content Pack for Essential SAFe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/pa-content-pack-essential-safe.md)
 
-## Related
-
-- [[pa-content-pack-essential-safe|Performance Analytics Content Pack for Essential SAFe]]

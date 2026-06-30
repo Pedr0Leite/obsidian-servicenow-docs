@@ -12,7 +12,7 @@ breadcrumb: [Embed Care Team Portal in Epic, Configure, Care Team Portal, Health
 
 # Configure iFrame embedding for Care Team Portal
 
-For the [[care-team-portal-landing|Care Team Portal]] to successfully launch in Hyperspace via Hyperdrive, the portal must be configured to work within an iFrame.
+For the Care Team Portal to successfully launch in Hyperspace via Hyperdrive, the portal must be configured to work within an iFrame.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ Role required: admin
 
 \[Omitted image "configureiframe.png"\] Alt text: Proper domain indication on iFrame configuration for Epic.
 
-## Related
-
-- [[care-team-portal-landing|Care Team Portal]]

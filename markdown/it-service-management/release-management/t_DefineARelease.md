@@ -132,13 +132,10 @@ Duration of the release in days. When you submit the form, this field auto-popul
 
 -   Releases can have child releases. So, you can group minor releases under major releases.
 
-    Add a child release by clicking **New** in the Releases related list in the [[create-release-form|Release form]].
+    Add a child release by clicking **New** in the Releases related list in the Release form.
 
 -   [Define a release phase in Release Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/release-management/t_DefineAReleasePhase.md).
 -   [Define scope of a release in Release Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/release-management/t_ScopeARelease.md).
 
 **Parent Topic:**[Using Release Management v2](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/release-management/c_Release.md)
 
-## Related
-
-- [[create-release-form|Release form]]

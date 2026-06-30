@@ -20,7 +20,7 @@ Create time windows for walk-up queue locations enabling requesters to book serv
 
 The Appointment Booking plugin \(com.snc.appointment\_booking\) must be activated to use the application. Appointment booking adds the Appointment Booking menu to the application navigator and the following modules:
 
--   **Appointment Booking Configuration**: Use this module to [[osp-create-appt|create an appointment]] booking. Configure an application and then configure each service within that application.
+-   **Appointment Booking Configuration**: Use this module to create an appointment booking. Configure an application and then configure each service within that application.
 -   **Appointment Bookings**: Use this module to view a list of appointments that have been booked for services. This list includes the work orders associated with each appointment.
 
 Appointment booking requires configuration at both the application level, in this case, Walk-up Experience, and at the walk-up queue service level, represented by the actual location of the walk-up queue.
@@ -33,6 +33,3 @@ A service configuration is required for each of the walk-up queue locations with
 
 For detailed information about the **Appointment Booking** application, see [Managing appointments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/managing-appointments.md).
 
-## Related
-
-- [[osp-create-appt|Create an appointment]]

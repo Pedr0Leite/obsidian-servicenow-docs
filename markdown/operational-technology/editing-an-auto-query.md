@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to the [[auto-query-console|Auto Query page]].
+1.  Navigate to the Auto Query page.
 
 2.  Select the query to be edited.
 
@@ -36,6 +36,4 @@ Role required: admin
 
 6.  Select **Save** to save your changes or select **Cancel** to discard your changes
 
-## Related
 
-- [[auto-query-console|Auto Query page]]

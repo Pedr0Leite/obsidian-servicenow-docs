@@ -12,7 +12,7 @@ breadcrumb: [Create product characteristics and characteristic options, Defining
 
 # Add characteristic and characteristic options to a product offering
 
-Add characteristic and characteristic options to an existing product offering using the **Product Offering Characteristic** tab in [[order-mgt-overview|Sales Customer Relationship Management]].
+Add characteristic and characteristic options to an existing product offering using the **Product Offering Characteristic** tab in Sales Customer Relationship Management.
 
 ## Before you begin
 
@@ -30,11 +30,11 @@ There are a number of ways to create characteristic and characteristic options. 
 
 3.  In the **Product Offering Characteristics** tab, select **New**.
 
-4.  In the form, fill in the [[fields|fields]].
+4.  In the form, fill in the fields.
 
     |Field|Description|
     |-----|-----------|
-    |Characteristic|Product offering characteristic. Select an existing characteristic. Select **New** to [[create-entitlement-template-characteristic|create a characteristic]].|
+    |Characteristic|Product offering characteristic. Select an existing characteristic. Select **New** to create a characteristic.|
     |Characteristic option|Characteristic option for the product offering. Select an existing characteristic option or select **New** to create options.|
     |Characteristic type|Option that lets you select a characteristic type.|
     |Product offering|Name of the product offering.|
@@ -51,14 +51,7 @@ There are a number of ways to create characteristic and characteristic options. 
 **Related topics**  
 
 
-[[using-product-catalog|Using product catalogs]]
+[Using product catalogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-product-catalog.md)
 
-[[product-catalog-managment|Product Catalog Management]]
+[Product Catalog Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/product-catalog-managment.md)
 
-## Related
-
-- [[using-product-catalog|Using product catalogs]]
-- [[product-catalog-managment|Product Catalog Management]]
-- [[order-mgt-overview|Sales Customer Relationship Management]]
-- [[fields|Fields]]
-- [[create-entitlement-template-characteristic|Create a characteristic]]

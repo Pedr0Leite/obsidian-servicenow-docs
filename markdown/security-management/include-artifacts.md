@@ -16,7 +16,7 @@ After you have excluded artifacts from a list in a case, you can return them to 
 
 ## Before you begin
 
-The [[threat-intel-landing-page|Threat Intelligence]] plugin must be activated to use [[case-mgmt|Security Case Management]].
+The Threat Intelligence plugin must be activated to use Security Case Management.
 
 Role required: sn\_ti.case\_user\_write
 
@@ -43,15 +43,10 @@ Role required: sn\_ti.case\_user\_write
     The selected artifacts are removed from the list of excluded artifacts and returned to the list of artifacts included in the case.
 
 
-**Parent Topic:**[[artifact-inclusion-exclusion|Security artifact exclusion and inclusion]]
+**Parent Topic:**[Security artifact exclusion and inclusion](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/artifact-inclusion-exclusion.md)
 
 **Related topics**  
 
 
 [Exclude security artifacts from a case]()
 
-## Related
-
-- [[artifact-inclusion-exclusion|Security artifact exclusion and inclusion]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[case-mgmt|Security Case Management]]

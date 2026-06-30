@@ -14,7 +14,7 @@ breadcrumb: [Using Service Mapping, Service Mapping, ITOM Visibility, IT Operati
 
 # Application service analysis and maintenance using legacy Agent Workspace
 
-[[c_ServiceMappingOverview|Service Mapping]] creates maps to help you see the architecture and organization of application services. These maps are useful for planning change or migration, as well as analyzing the continuity and availability of services.
+Service Mapping creates maps to help you see the architecture and organization of application services. These maps are useful for planning change or migration, as well as analyzing the continuity and availability of services.
 
 -   **[Application service maps in legacy Agent Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/workspace-application-service-map.md)**  
 Maps offer you a visualization of data on configuration items \(CIs\) comprising application services, and relations and connections between these CIs.
@@ -27,6 +27,3 @@ Customize a map view to display relevant information and increase clarity.
 
 **Parent Topic:**[Using Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/using-service-mapping.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]

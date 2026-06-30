@@ -14,7 +14,7 @@ breadcrumb: [Knowledge article creation from an incident, Using Knowledge Manage
 
 # Create a UI action to enable creating knowledge articles from incidents
 
-Create a UI action to add the Knowledge [[check-box|check box]] to the Incident form.
+Create a UI action to add the Knowledge check box to the Incident form.
 
 ## Before you begin
 
@@ -76,6 +76,3 @@ Role required: admin
 
 **Parent Topic:**[Knowledge article creation from an incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/article-from-incident.md)
 
-## Related
-
-- [[check-box|Check box]]

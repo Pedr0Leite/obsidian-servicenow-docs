@@ -14,13 +14,13 @@ breadcrumb: [Setting up Contact Tracing, Contact Tracing, Safe Workplace, Health
 
 # Configure KINEXON integration
 
-Configure [[contact-tracing|Contact Tracing]] and enable the KINEXON SafeZone tracing system to use data from KINEXON wearable devices in diagnostic requests. This data enables the identification of potentially exposed contacts based on the interactions and proximity of users with KINEXON wearable devices.
+Configure Contact Tracing and enable the KINEXON SafeZone tracing system to use data from KINEXON wearable devices in diagnostic requests. This data enables the identification of potentially exposed contacts based on the interactions and proximity of users with KINEXON wearable devices.
 
 ## Before you begin
 
 To successfully enable the KINEXON SafeZone tracing system, note the following requirements:
 
--   The [[emergency-outreach|Emergency Outreach]] application must be installed. For more information, see [Install Emergency Outreach](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/install-emergency-outreach.md).
+-   The Emergency Outreach application must be installed. For more information, see [Install Emergency Outreach](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/install-emergency-outreach.md).
 -   Privacy consent settings for Contact Tracing must be configured. For more information, see [Setting up data privacy consent settings for Contact Tracing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/set-up-privacy-consent-settings.md).
 -   Users must have KINEXON wearable devices managed with KINEXON SafeZone.
 -   Users should have an email address in the **Name** column in the KINEXON SafeZone software. Email addresses are used to match KINEXON users to users in Contact Tracing.
@@ -43,7 +43,7 @@ Role required: admin
     |**sn\_imt\_tracing.kinexon\_api\_param\_max\_distance**|The maximum distance \(in meters\) between two KINEXON sensors that determines whether users are in contact. The query omits any instances of contact beyond this distance. The default value is `2`.|
     |**sn\_imt\_tracing.kinexon\_api\_param\_max\_time\_gap\_in\_sequence**|Determines the amount of time that can pass \(in seconds\) between any two consecutive instances of contact before the potential exposure is considered two potential exposures. The default value is `15`.|
 
-3.  Navigate to **[[emergency-exposure-management|Emergency Exposure Management]]** &gt; **Tracing Systems** and click **Kinexon SafeZone**.
+3.  Navigate to **Emergency Exposure Management** &gt; **Tracing Systems** and click **Kinexon SafeZone**.
 
 4.  Activate the tracing system.
 
@@ -53,7 +53,7 @@ Role required: admin
 
 5.  Add all users with KINEXON wearable devices in your organization to the privacy consent audience.
 
-    1.  Navigate to **Emergency Outreach** &gt; **[[safe-workplace|Safe Workplace]] Audience** and click **privacy audience**.
+    1.  Navigate to **Emergency Outreach** &gt; **Safe Workplace Audience** and click **privacy audience**.
 
     2.  Add users to the audience.
 
@@ -74,9 +74,3 @@ You can now use the KINEXON SafeZone tracing system in diagnostic requests. For 
 
 **Parent Topic:**[Setting up Contact Tracing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/set-up-contact-tracing.md)
 
-## Related
-
-- [[contact-tracing|Contact Tracing]]
-- [[emergency-outreach|Emergency Outreach]]
-- [[emergency-exposure-management|Emergency Exposure Management]]
-- [[safe-workplace|Safe Workplace]]

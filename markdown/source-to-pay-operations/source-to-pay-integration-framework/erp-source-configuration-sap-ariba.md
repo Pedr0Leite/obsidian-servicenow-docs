@@ -14,9 +14,9 @@ breadcrumb: [Configure, Source-to-Pay integration with SAP Ariba, Integration wi
 
 # ERP source configuration for SAP Ariba
 
-Configure your Source-to-Pay \(S2P\) instance to support inbound and outbound integration with your ERP system. This integration configuration enables you to post [[purchase-order-table|purchase order]], receipt, invoice, and download primary data automatically from the ERP system.
+Configure your Source-to-Pay \(S2P\) instance to support inbound and outbound integration with your ERP system. This integration configuration enables you to post purchase order, receipt, invoice, and download primary data automatically from the ERP system.
 
-[[erp-source-configuration|ERP source configuration]] enables the implementation of specific logic to populate values pertinent to third-party ERP systems. It includes all service mappings defined between Source-to-Pay \(S2P\) and the third-party ERP system. If multiple ERP sources exist, they’re stored as distinct [[erp-source|ERP source]] entries with their corresponding service mappings.
+ERP source configuration enables the implementation of specific logic to populate values pertinent to third-party ERP systems. It includes all service mappings defined between Source-to-Pay \(S2P\) and the third-party ERP system. If multiple ERP sources exist, they’re stored as distinct ERP source entries with their corresponding service mappings.
 
 To meet specific requirements, you can customize the service-mapping logic by modifying the relevant service element map entry within the service map record. For organizations using multiple ERP systems, an ERP Source field has been incorporated into the tables to accurately identify the respective integrated ERP system.
 
@@ -60,7 +60,7 @@ To configure the ERP Source for SAP Ariba, perform the following steps:
 
         Set up subflows for the source configuration to lookup currencies from SAP Ariba.
 
-    -   **[[payment-terms|Payment Terms]]**
+    -   **Payment Terms**
 
         Set up subflows for the source configuration to lookup payment terms from SAP Ariba.
 
@@ -80,7 +80,7 @@ To configure the ERP Source for SAP Ariba, perform the following steps:
 
         Set up subflows for the source configuration to lookup suppliers from SAP Ariba
 
-    -   **[[invoices|Invoices]]**
+    -   **Invoices**
 
         Set up subflows for the source configuration to lookup invoices from SAP Ariba.
 
@@ -94,17 +94,9 @@ You have configured the ERP source for SAP Ariba.
 **Related topics**  
 
 
-[Define [[erp-source-configuration-sap|ERP source configuration for SAP]] Ariba]()
+[Define ERP source configuration for SAP Ariba]()
 
 [Configure integration services for SAP Ariba]()
 
 [Look up primary data in SAP Ariba]()
 
-## Related
-
-- [[purchase-order-table|Purchase order]]
-- [[erp-source-configuration|ERP source configuration]]
-- [[erp-source|ERP source]]
-- [[payment-terms|Payment terms]]
-- [[invoices|Invoices]]
-- [[erp-source-configuration-sap|ERP Source Configuration for SAP]]

@@ -12,7 +12,7 @@ breadcrumb: [Configure Segment Management, Configure Partner Relationship Manage
 
 # Data model for Segment Management
 
-The [[segment-management|Segment Management]] data model provides a framework to map customers to specific segments to track partner progression toward the next tier.
+The Segment Management data model provides a framework to map customers to specific segments to track partner progression toward the next tier.
 
 With the segment admin \(sn\_seg.segment\_mgmt\_admin\) role, you can add data in the segment \(sn\_seg\_segment\) table to create and manage multiple segments.
 
@@ -130,28 +130,18 @@ Domain to which the segment belongs.
 </td></tr></tbody>
 </table>## Configuration tasks for Segment Management
 
-Perform the following configuration tasks to set up the data model tables to establish an association between segment management and [[partner-relationship-management|Partner Relationship Management]].
+Perform the following configuration tasks to set up the data model tables to establish an association between segment management and Partner Relationship Management.
 
--   [[configure-program-segment-mapping|Configure Program Segment Mapping]]
--   [[configure-program-segment-criteria|Configure Program Segment Criteria]]
--   [[configure-program-criteria|Configure Program Criteria]]
+-   [Configure Program Segment Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-program-segment-mapping.md)
+-   [Configure Program Segment Criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-program-segment-criteria.md)
+-   [Configure Program Criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-program-criteria.md)
 
-**Parent Topic:**[[configure-segment-management|Configure Segment Management]]
+**Parent Topic:**[Configure Segment Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-segment-management.md)
 
 **Related topics**  
 
 
-[[install-segment-management|Install Segment Management]]
+[Install Segment Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/install-segment-management.md)
 
-[[roles-and-components-of-segment-management|Roles and components of Segment Management]]
+[Roles and components of Segment Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/roles-and-components-of-segment-management.md)
 
-## Related
-
-- [[configure-program-segment-mapping|Configure Program Segment Mapping]]
-- [[configure-program-segment-criteria|Configure Program Segment Criteria]]
-- [[configure-program-criteria|Configure Program Criteria]]
-- [[configure-segment-management|Configure Segment Management]]
-- [[install-segment-management|Install Segment Management]]
-- [[roles-and-components-of-segment-management|Roles and components of Segment Management]]
-- [[segment-management|Segment Management]]
-- [[partner-relationship-management|Partner Relationship Management]]

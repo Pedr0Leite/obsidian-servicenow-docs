@@ -33,8 +33,5 @@ Role required: admin
 5.  Repeat these steps for each user who needs location tracking.
 
 
-**Parent Topic:**[[mobile-location-tracking|Location tracking for mobile]]
+**Parent Topic:**[Location tracking for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-location-tracking.md)
 
-## Related
-
-- [[mobile-location-tracking|Location tracking for mobile]]

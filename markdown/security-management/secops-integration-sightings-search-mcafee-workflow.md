@@ -12,19 +12,13 @@ breadcrumb: [Security Operations Integration - Sightings Search Flow, Create sig
 
 # Security Operations - McAfee ESM Sightings Search Flow
 
-**[[security-operations-landing-page|Security Operations]] - McAfee ESM [[indicator-sightings|Sightings]] Search** flow is the implementation for the McAfee Sighting Search implementation launched by the **Security Operations Integration - Sightings Search Flow**.
+**Security Operations - McAfee ESM Sightings Search** flow is the implementation for the McAfee Sighting Search implementation launched by the **Security Operations Integration - Sightings Search Flow**.
 
 Role required: sn\_si\_analyst
 
 \[Omitted image "mcafee-esm-sightings-search-flow.png"\] Alt text: Flow Designer for Security Operations - McAfee ESM Sightings Search
 
-Activities specific to this flow are described here. For more information on other activities, see [[common-wf-activities|Common Security Operations integration flows and orchestration activities]].
+Activities specific to this flow are described here. For more information on other activities, see [Common Security Operations integration flows and orchestration activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/common-wf-activities.md).
 
-**Parent Topic:**[[secops-integration-sightings-search-workflow|Security Operations Integration - Sightings Search Flow]]
+**Parent Topic:**[Security Operations Integration - Sightings Search Flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/secops-integration-sightings-search-workflow.md)
 
-## Related
-
-- [[common-wf-activities|Common Security Operations integration flows and orchestration activities]]
-- [[secops-integration-sightings-search-workflow|Security Operations Integration - Sightings Search Flow]]
-- [[security-operations-landing-page|Security Operations]]
-- [[indicator-sightings|Sightings]]

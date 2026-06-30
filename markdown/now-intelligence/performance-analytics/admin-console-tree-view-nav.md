@@ -16,7 +16,7 @@ breadcrumb: [\(Legacy\) Dependency Assessment, Configure advanced features, Perf
 
 To navigate the admin console tree view effectively, it's good to know what the various icons and other visual data in the tree view indicate.
 
-**Important:** Dependency Assessment does not support [[c_performanceAnalyticsAndReporting|Platform Analytics]] artifacts. It analyzes information only for Core UI [[c_Widgets|Performance Analytics widgets]] but not Platform Analytics data visualizations. Also, you can [[launch-dependency-assessment|launch Dependency Assessment]] from a Core UI responsive dashboard but not from a Platform Analytics dashboard.
+**Important:** Dependency Assessment does not support Platform Analytics artifacts. It analyzes information only for Core UI Performance Analytics widgets but not Platform Analytics data visualizations. Also, you can launch Dependency Assessment from a Core UI responsive dashboard but not from a Platform Analytics dashboard.
 
 ## Moving through the tree view
 
@@ -30,7 +30,7 @@ The node types reflect the different features of Performance Analytics. When you
 
     Dashboards group nodes expand into dashboards. Dashboards expand into dashboard tabs even if the dashboard has only one tab. Dashboard tabs expand into the contents of the tab.
 
--   **[[widgets|Widgets]]**
+-   **Widgets**
 
     Widgets open nodes that show their component parts.
 
@@ -48,7 +48,7 @@ The node types reflect the different features of Performance Analytics. When you
 
 -   **Sources**
 
-    All source nodes \(breakdown, indicator, and [[c_ReportSources|report sources]]\) open nodes that show their source tables.
+    All source nodes \(breakdown, indicator, and report sources\) open nodes that show their source tables.
 
 
 When you click a text widget, the underlying file appears as a pop-up over the tree view. Choices from a context menu appear in a pop-up as well.
@@ -209,7 +209,7 @@ Formula Indicator
 </td><td>
 
 -   Edit
--   Show [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]
+-   Show Analytics Hub
 -   Show Used By
 
 Launches the [Bottom-up tree view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/dependency-assessment-show-used-by.md) which shows all entities that use this entity.
@@ -435,11 +435,3 @@ Each node has one or more of these icons. Point to the upper right corner of the
 
 **Parent Topic:**[\(Legacy\) Dependency Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/impact-analysis.md)
 
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[c_Widgets|Performance Analytics widgets]]
-- [[launch-dependency-assessment|Launch Dependency Assessment]]
-- [[widgets|Widgets]]
-- [[c_ReportSources|Report sources]]
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]

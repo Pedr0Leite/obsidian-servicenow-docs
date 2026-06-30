@@ -15,7 +15,7 @@ breadcrumb: [Reference, Card Data Security, Dispute Management, Banking applicat
 
 # Components installed with Card Data Security
 
-Several types of components are installed with the activation of [[card-data-security|Card Data Security]].
+Several types of components are installed with the activation of Card Data Security.
 
 ## Roles installed
 
@@ -67,6 +67,3 @@ This role allows the execution of all subflows associated with the Card Data Sec
 
 **Parent Topic:**[Card Data Security Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/card-data-security-reference.md)
 
-## Related
-
-- [[card-data-security|Card Data Security]]

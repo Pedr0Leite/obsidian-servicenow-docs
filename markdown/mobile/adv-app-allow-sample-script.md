@@ -16,7 +16,7 @@ Users with the admin role can use the example JSON script to configure a scripte
 
 ## Example script
 
-The following example script blocks all apps except the [[mobile-experience|Mobile Agent app]] and the [[now-mobile-app|Now Mobile app]].
+The following example script blocks all apps except the Mobile Agent app and the Now Mobile app.
 
 All other apps are restricted. This script also uses the **blocked\_mobile\_apps\_redirect** property. When an end user attempts to log in with an unauthorized app, an error message appears with a redirect button. That button redirects the end user to log in to a mobile app that is authorized to connect to the ServiceNow instance.
 
@@ -62,7 +62,3 @@ This sample script uses the following JSON objects:
 -   `input.clientType` which determines the mobile app type.
 -   `input.deviceType` which determines the operating system type.
 
-## Related
-
-- [[mobile-experience|Mobile Agent app]]
-- [[now-mobile-app|Now Mobile app]]

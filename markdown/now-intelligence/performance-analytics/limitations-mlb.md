@@ -14,7 +14,7 @@ breadcrumb: [Data snapshots and multiple breakdowns, Configure fundamentals, Per
 
 # Limitations and requirements for Data snapshots
 
-Several features of indicators and breakdowns are not supported with [[multi-level-breakdowns|Data snapshots and multiple breakdowns]].
+Several features of indicators and breakdowns are not supported with Data snapshots and multiple breakdowns.
 
 ## Instance-level limitations
 
@@ -88,7 +88,7 @@ Unsupported operators for each field type on the source:-   Boolean/ChoiceTable/
 
 </td></tr><tr><td>
 
-[[formula-indicators|Formula indicators]]
+Formula indicators
 
 </td><td>
 
@@ -171,8 +171,8 @@ All collections are daily.
 
 |Limitation or unsupported feature|Notes|
 |---------------------------------|-----|
-|Label for unmatched|The **Label for unmatched** option on [[breakdown-sources|breakdown sources]] is ignored with Data snapshots.|
-|Value when nil|The **Value when nil** option on [[automated-indicators|automated indicators]] is ignored with Data snapshots.|
+|Label for unmatched|The **Label for unmatched** option on breakdown sources is ignored with Data snapshots.|
+|Value when nil|The **Value when nil** option on automated indicators is ignored with Data snapshots.|
 |Security type|Data snapshots does not support the security type defined in the breakdown source.|
 |Data collection job settings|Start/end periods, specific time configurations, and other settings do not affect Data snapshots. All data collection is daily. Only the timezone set on the data collection record has an effect.|
 |Bucket groups|Not supported|
@@ -185,9 +185,3 @@ All collections are daily.
 
 **Parent Topic:**[Data snapshots and multiple breakdowns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/multi-level-breakdowns.md)
 
-## Related
-
-- [[multi-level-breakdowns|Data snapshots and multiple breakdowns]]
-- [[formula-indicators|Formula indicators]]
-- [[breakdown-sources|Breakdown sources]]
-- [[automated-indicators|Automated indicators]]

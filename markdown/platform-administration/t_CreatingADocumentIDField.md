@@ -12,7 +12,7 @@ breadcrumb: [Reference, Field administration, Forms, fields, and lists, Configur
 
 # Document ID field
 
-You can create document ID fields to [[reference-email-admin|reference]] any record on any table.
+You can create document ID fields to reference any record on any table.
 
 ## Before you begin
 
@@ -50,9 +50,9 @@ You can select the document ID type when creating a new field.
 
 10. In **Attributes**, add the **show\_all\_tables** dictionary attribute to display system tables.
 
-11. Click **Update**.When users click the [[c_ReferenceLookup|reference lookup]] for the document ID field, a dialog appears that allows them to select the table and then the record. The sys\_id of the selected record is stored in the document ID field and the table name is stored in the table reference field.
+11. Click **Update**.When users click the reference lookup for the document ID field, a dialog appears that allows them to select the table and then the record. The sys\_id of the selected record is stored in the document ID field and the table name is stored in the table reference field.
 
-12. [[configure-form-layout|Configure the form]] to remove the table reference field.
+12. [Configure the form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md) to remove the table reference field.
 
 
 **Related topics**  
@@ -62,8 +62,3 @@ You can select the document ID type when creating a new field.
 
 [Altering tables and fields using dictionary attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_DictionaryAttributes.md)
 
-## Related
-
-- [[configure-form-layout|Configuring the form layout]]
-- [[reference-email-admin|Reference]]
-- [[c_ReferenceLookup|Reference lookup]]

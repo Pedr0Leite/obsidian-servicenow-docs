@@ -12,7 +12,7 @@ breadcrumb: [Transaction Manager: Layouts, Transaction Manager, CPQ app, Configu
 
 # Transaction Manager: Layouts - Theming options
 
-[[transaction-manager-layouts|Transaction Manager layouts]] can be adjusted by setting JSON and YAML properties.
+Transaction Manager layouts can be adjusted by setting JSON and YAML properties.
 
 Include the following JSON at the top level of the layout JSON:
 
@@ -232,6 +232,4 @@ You can use the `showCurrency` property to display or hide the currency symbol.
 
     In this example, if txn.custom.genericNum, a defined currency type that will show the currency symbol by default, is set to 4.5, the layout will display 4.50.
 
-## Related
 
-- [[transaction-manager-layouts|transaction manager layouts]]

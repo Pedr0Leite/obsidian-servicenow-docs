@@ -30,7 +30,7 @@ Using the team calendar, you can access the list of all of your agents by assign
 
     The schedule that includes this shift must be in **Preview** or **Published** state.
 
-    1.  Navigate to **[[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]** &gt; **Manager Workspace**.
+    1.  Navigate to **Workforce Optimization for ITSM** &gt; **Manager Workspace**.
     2.  Click the Schedule icon \(\[Omitted image "schedule-icon.png"\] Alt text: Schedule icon\).
     3.  In the **Team Calendar** tab, navigate and point to the shift for the agent that you want to modify the schedule for.
     4.  In the shift pop-up window, click the Edit icon \(\[Omitted image "edit-icon.png"\] Alt text: Edit icon\).
@@ -52,6 +52,3 @@ Using the team calendar, you can access the list of all of your agents by assign
 
 **Parent Topic:**[Scheduling your teams' work in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/scheduling-configurable-workforce-optimization-itsm.md)
 
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]

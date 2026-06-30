@@ -28,7 +28,7 @@ Role required: sn\_cmdb\_user and now\_assist\_panel\_user
 
 The Search CMDB agentic workflow can perform the following types of search:
 
--   Keyword searches for a specific CI. You can search using name, [[ip-address|IP address]], serial number, MAC address, or asset tag. For example, "search the CMDB for 192.168.1.1".
+-   Keyword searches for a specific CI. You can search using name, IP address, serial number, MAC address, or asset tag. For example, "search the CMDB for 192.168.1.1".
 -   CMDB searches that are single-table queries \(including dot walk conditions for one level\). For example,"What servers does Wile E. Coyote own?" or "Search the CMDB for operational windows servers that aren't assigned to anyone".
 -   Starting with Now Assist for CMDB v3.0, searches can include parent-child nodes spanning multiple tables and can traverse relationship graphs \(searches that traverse the cmdb\_rel\_ci\), for example, "Search for servers that depend on databases".
 
@@ -72,7 +72,7 @@ If you think that the response was helpful, select thumbs-up \[Omitted image "ic
 
 </td><td>
 
-Select the copy to clipboard icon \[Omitted image "icon-clipboard.png"\] to use the response information for another purpose, such as pasting into an [[email|email]].
+Select the copy to clipboard icon \[Omitted image "icon-clipboard.png"\] to use the response information for another purpose, such as pasting into an email.
 
 </td></tr><tr><td id="d75245e268">
 
@@ -92,7 +92,3 @@ To learn more about using the Now Assist panel, see [Working in the Now Assist p
 
 **Parent Topic:**[Using agentic workflows in Now Assist for CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/now-assist-cmdb-using.md)
 
-## Related
-
-- [[ip-address|IP Address]]
-- [[email|Email]]

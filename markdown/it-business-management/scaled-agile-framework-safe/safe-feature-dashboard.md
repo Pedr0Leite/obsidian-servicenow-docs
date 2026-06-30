@@ -58,7 +58,7 @@ The SAFe Feature Dashboard provides a visualization of the changes in scope and 
 
 ## Data visualizations
 
-If you are upgrading from version 1.0.2 or earlier of [[pa-content-pack-essential-safe|Performance Analytics Content Pack for Essential SAFe]], then install this dashboard from Solution Library to upgrade its layout and access the following visualizations:
+If you are upgrading from version 1.0.2 or earlier of Performance Analytics Content Pack for Essential SAFe, then install this dashboard from Solution Library to upgrade its layout and access the following visualizations:
 
 -   Feature Burnup
 -   Story Cycle Time
@@ -155,6 +155,3 @@ Identify the time taken for each story in the feature to move from an in-progres
 
 **Parent Topic:**[Performance Analytics Content Pack for Essential SAFe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/pa-content-pack-essential-safe.md)
 
-## Related
-
-- [[pa-content-pack-essential-safe|Performance Analytics Content Pack for Essential SAFe]]

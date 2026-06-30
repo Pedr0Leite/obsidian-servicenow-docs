@@ -14,8 +14,5 @@ breadcrumb: [Next Experience for Demand Management in Portfolio Planning, Portfo
 
 # Next Experience for Demand Management reference
 
-Reference information to provide additional details about Next Experience for [[c_DemandManagement|Demand Management]] such as the fields, user roles, tables, and multicurrency.
+Reference information to provide additional details about Next Experience for Demand Management such as the fields, user roles, tables, and multicurrency.
 
-## Related
-
-- [[c_DemandManagement|Demand Management]]

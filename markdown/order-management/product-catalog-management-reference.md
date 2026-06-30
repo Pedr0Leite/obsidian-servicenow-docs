@@ -12,19 +12,12 @@ breadcrumb: [Lead-to-cash foundation, Reference, Sales Customer Relationship Man
 
 # Product Catalog Management reference
 
-Reference topics provide additional information about [[product-catalog-managment|Product Catalog Management]].
+Reference topics provide additional information about Product Catalog Management.
 
--   **[[components-installed-catalog-mgmt|Components installed with Product Catalog Management]]**  
+-   **[Components installed with Product Catalog Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/components-installed-catalog-mgmt.md)**  
 Several types of components are installed with activation of the Product Catalog Management plugin, including tables and user roles.
--   **[[product-catalog-multilingual-support|Multilingual product catalog entities]]**  
-Starting with Product Catalog Management Core release v19.0.0, certain Product Catalog Management tables have product catalog [[fields|fields]] that support multilingual text. In the Data Dictionary, these fields have changed from type string to type translated\_text. As an admin, you can display these fields in multiple languages in the product catalog interface.
+-   **[Multilingual product catalog entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/product-catalog-multilingual-support.md)**  
+Starting with Product Catalog Management Core release v19.0.0, certain Product Catalog Management tables have product catalog fields that support multilingual text. In the Data Dictionary, these fields have changed from type string to type translated\_text. As an admin, you can display these fields in multiple languages in the product catalog interface.
 
-**Parent Topic:**[[reference-lead-cash-foundation|Lead-to-cash foundation reference]]
+**Parent Topic:**[Lead-to-cash foundation reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/reference-lead-cash-foundation.md)
 
-## Related
-
-- [[components-installed-catalog-mgmt|Components installed with Product Catalog Management]]
-- [[product-catalog-multilingual-support|Multilingual product catalog entities]]
-- [[reference-lead-cash-foundation|Lead-to-cash foundation reference]]
-- [[product-catalog-managment|Product Catalog Management]]
-- [[fields|Fields]]

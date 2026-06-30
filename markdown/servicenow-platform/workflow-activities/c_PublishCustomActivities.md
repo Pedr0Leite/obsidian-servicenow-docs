@@ -18,7 +18,7 @@ When a user creates a custom activity and saves or submits it, that activity app
 
 When configuration is complete, the user clicks **Publish**, which makes the activity accessible to other users on the instance with the workflow\_admin or activity\_creator role. Published activities are available for upload to the ServiceNow Store, can be added to workflows, and can be edited by any user with the proper roles.
 
-To edit a published activity, click **Checkout**. When an activity is checked out by a user, only that user can modify it. The fields of a checked out activity are read-only for all other users. When the checked out activity has been modified successfully, the user publishes it again. The system adds a new version of this activity to the Custom tab in the [[workflow-editor|Workflow Editor]] palette.
+To edit a published activity, click **Checkout**. When an activity is checked out by a user, only that user can modify it. The fields of a checked out activity are read-only for all other users. When the checked out activity has been modified successfully, the user publishes it again. The system adds a new version of this activity to the Custom tab in the Workflow Editor palette.
 
 **Note:** Activities you create and publish are only visible in the Packs tab if they were created in the current application scope.
 
@@ -28,6 +28,3 @@ Problems can arise if an activity version is checked out by a user and not check
 
 A user with the admin role can return a locked activity to a published state. The administrator opens the locked activity from the **Custom** tab of the Workflow Editor, selects the checked-out version, and selects **Force Checkout**, and then **Publish**.
 
-## Related
-
-- [[workflow-editor|Workflow editor]]

@@ -32,7 +32,7 @@ Slack Chat Connector for Security Incident Management
 
 </td><td>
 
-Use **sn\_slack\_connector** plugin ID to search and install Slack Connector for [[major-security-incident-management-landing-page|Major Security Incident Management]].
+Use **sn\_slack\_connector** plugin ID to search and install Slack Connector for Major Security Incident Management.
 
 Installing this plugin allows you to track the chat activities using the collaboration component specific to Slack.
 
@@ -47,6 +47,3 @@ Installing this plugin establishes a spoke connection with Slack. For more infor
 </td></tr></tbody>
 </table>**Parent Topic:**[Configure Slack chat connector for major security incidents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/configure-slack-chat-connector-msi.md)
 
-## Related
-
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]

@@ -14,13 +14,13 @@ breadcrumb: [SSHCommand probe, List of Discovery probes, Discovery probes and se
 
 # SSHCommand path
 
-The [[c_SSHCommandProbe|SSHCommand probe]] computes the default path from the following sources.
+The SSHCommand probe computes the default path from the following sources.
 
 -   MID Server parameter: mid.ssh.path\_override
 -   SSH Command probe parameter: path\_override
 -   User's default path: Shell configuration file
 
-If you set the MID Server path override parameter, [[r-discovery|Discovery]] appends this path to the default path. If you set the probe path parameter, Discovery uses this path instead of the default path. Discovery always appends a user's default execution path to the MID Server and probe parameter paths.
+If you set the MID Server path override parameter, Discovery appends this path to the default path. If you set the probe path parameter, Discovery uses this path instead of the default path. Discovery always appends a user's default execution path to the MID Server and probe parameter paths.
 
 ## Default Path
 
@@ -33,7 +33,3 @@ By default, the MID Server searches for SSH commands in the following paths:
 
 **Parent Topic:**[SSHCommand probe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_SSHCommandProbe.md)
 
-## Related
-
-- [[c_SSHCommandProbe|SSHCommand probe]]
-- [[r-discovery|Discovery]]

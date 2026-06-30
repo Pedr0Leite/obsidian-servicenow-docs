@@ -22,7 +22,7 @@ Role required: sn\_hs\_crm.contractor\_coordinator
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[health-safety-overview|Health and Safety]]** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
 2.  Open a contractor worker record to assign a task.
 
@@ -48,7 +48,7 @@ Steps
 
 </td></tr><tr><td id="d73717e127">
 
-**From [[health-and-safety-user-profile|Health and Safety user profile]] list**
+**From Health and Safety user profile list**
 
 </td><td>
 
@@ -81,8 +81,3 @@ Steps
 -   When the contract worker completes all prerequisite tasks, the contractor coordinator can grant them access to the site. For more information, see [Grant site access to a contractor worker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/hs-grant-site-access-worker.md).
 -   If there are any documents submitted by the contractor worker, the contractor coordinator can upload them to the worker's or contractor company's **Document** tab. For more information, see [Add a document to a contractor worker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/hs-add-document-contractor-worker.md).
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[health-and-safety-user-profile|Health and Safety user profile]]

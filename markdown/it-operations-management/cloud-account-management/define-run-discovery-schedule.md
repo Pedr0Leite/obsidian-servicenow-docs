@@ -14,7 +14,7 @@ breadcrumb: [Populate Cloud Account Management dependent tables, Setting up Clou
 
 # Define and run discovery schedule
 
-The [[r-discovery|discovery]] schedule is the control point for running discoveries. The schedule controls when discovery runs, defines the MID Server to use, the type of discovery that should run, and the IP addresses to query.
+The discovery schedule is the control point for running discoveries. The schedule controls when discovery runs, defines the MID Server to use, the type of discovery that should run, and the IP addresses to query.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: discovery\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]** &gt; **[[cloud-admin-portal|Cloud Admin Portal]]**.
+1.  Navigate to **All** &gt; **Cloud Provisioning and Governance** &gt; **Cloud Admin Portal**.
 
     The Cloud Admin Portal opens in a new browser tab.
 
@@ -44,8 +44,3 @@ Role required: discovery\_admin
     -   For AWS: cmdb\_ci\_aws\_org\_unit\_list.do
     -   For Azure: cmdb\_ci\_azure\_management\_group
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[cloud-admin-portal|Cloud Admin Portal]]

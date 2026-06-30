@@ -14,7 +14,7 @@ breadcrumb: [Customizing a chat experience, Configure, Virtual Agent, Conversati
 
 # Configure a Virtual Agent chat experience
 
-Change the preconfigured [[virtual-agent-landing-page|Virtual Agent]] default chat experience or create a custom chat experience for your users. You can configure setup topics, specify promoted topics, and if needed, change the search profile.
+Change the preconfigured Virtual Agent default chat experience or create a custom chat experience for your users. You can configure setup topics, specify promoted topics, and if needed, change the search profile.
 
 ## Before you begin
 
@@ -38,7 +38,7 @@ The default chat experience provides the default settings for the setup topics a
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings**.
 
 2.  Select **Virtual Agent** and under Custom Greetings and Setup, select **View All**.
 
@@ -112,7 +112,7 @@ Condition
 
 </td><td>
 
-Condition builder for specifying the experience context. See the list of the [[live-agent-chat-context-vars|available context variables]] that can be specified.For example, a Simple, no-code condition might specify the devicetype \(ios or android\) and the portal to which it applies. In this case, the condition applies to the Service Portal \(sp\). \[Omitted image "va-custom-chat-condition-bldr.png"\] Alt text: Simple condition builder for a custom chat experience, showing devicetype is iOS, or devicetype is android, and portal is SP conditions.
+Condition builder for specifying the experience context. See the list of the [available context variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/live-agent-chat-context-vars.md) that can be specified.For example, a Simple, no-code condition might specify the devicetype \(ios or android\) and the portal to which it applies. In this case, the condition applies to the Service Portal \(sp\). \[Omitted image "va-custom-chat-condition-bldr.png"\] Alt text: Simple condition builder for a custom chat experience, showing devicetype is iOS, or devicetype is android, and portal is SP conditions.
 
 </td></tr><tr><td>
 
@@ -224,8 +224,3 @@ For example, **Anything Else topic**.
 
 **Parent Topic:**[Customizing a Virtual Agent chat experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-conversation-settings.md)
 
-## Related
-
-- [[live-agent-chat-context-vars|Live agent chat context variables]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]

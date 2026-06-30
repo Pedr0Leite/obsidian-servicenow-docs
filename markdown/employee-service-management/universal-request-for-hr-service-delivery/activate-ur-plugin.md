@@ -14,7 +14,7 @@ breadcrumb: [Universal Request plugins, Setting up and configuring Universal Req
 
 # Activate Universal Request
 
-You can activate the [[ur-landing-limitedaccess|Universal Request]] plugin \(com.snc.universal\_request\) if you have the admin role. This plugin is not active by default, and you must install it to use the Universal Request application. This plugin includes demo data and activates related plugins if they are not already active.
+You can activate the Universal Request plugin \(com.snc.universal\_request\) if you have the admin role. This plugin is not active by default, and you must install it to use the Universal Request application. This plugin includes demo data and activates related plugins if they are not already active.
 
 ## Before you begin
 
@@ -106,6 +106,3 @@ Several types of components are installed with activation of the Universal Reque
 
 [List of plugins \(Australia\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]

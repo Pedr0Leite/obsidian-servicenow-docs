@@ -14,7 +14,7 @@ breadcrumb: [Set security for items and categories, Service Catalog security, Co
 
 # Extend user criteria
 
-Extend the user criteria table when the available user criteria fields are not sufficient. User criteria [[reference-document-management|references]] various user fields \(fields from the User \[sys\_user\] table\), such as department, company, and groups. You can extend user criteria with a custom field to include any other user [[reference|reference]] field \(field from the User \[sys\_user\] table\) of interest.
+Extend the user criteria table when the available user criteria fields are not sufficient. User criteria references various user fields \(fields from the User \[sys\_user\] table\), such as department, company, and groups. You can extend user criteria with a custom field to include any other user reference field \(field from the User \[sys\_user\] table\) of interest.
 
 ## Before you begin
 
@@ -42,7 +42,7 @@ This example demonstrates how to extend the current user criteria record to incl
 
 3.  In the **Table Columns** related list, click **New**.
 
-4.  Set the type to **List**, and then enter `Cost center` as the column [[label|label]].
+4.  Set the type to **List**, and then enter `Cost center` as the column label.
 
     The **Column name** field populates with **u\_cost\_center**.
 
@@ -52,7 +52,7 @@ This example demonstrates how to extend the current user criteria record to incl
 
 7.  Click **Submit**.
 
-8.  Navigate to **[[service-catalog|Service Catalog]] &gt; Catalog Definition &gt; User Criteria**.
+8.  Navigate to **Service Catalog &gt; Catalog Definition &gt; User Criteria**.
 
 9.  Select or create a user criteria record, and see that you can now use the new field.
 
@@ -67,9 +67,3 @@ You can extend the User \[sys\_user\] table if there are fields in other tables 
 
 **Parent Topic:**[Set security for items and categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_ServiceCatalogAccessControls.md)
 
-## Related
-
-- [[reference-document-management|References]]
-- [[reference|Reference]]
-- [[label|Label]]
-- [[service-catalog|Service Catalog]]

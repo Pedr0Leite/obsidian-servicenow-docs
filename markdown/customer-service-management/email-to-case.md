@@ -14,7 +14,7 @@ breadcrumb: [Email channel, Enable communication channels, Configure, Customer S
 
 Set up email addresses that customers can use to submit cases to your team. To help direct cases to specific teams, you can designate email addresses to specific products. While agents work on the cases, they can also email customers with updates and proposed solutions.
 
-[[c_CustomerServiceManagement|Customer Service Management]] uses the [Email Accounts application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailAccounts.md) to create and maintain email accounts. The system administrator can create multiple incoming email addresses that customers can use to communicate with customer service agents. The system administrator can also create one outgoing email address.
+Customer Service Management uses the [Email Accounts application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailAccounts.md) to create and maintain email accounts. The system administrator can create multiple incoming email addresses that customers can use to communicate with customer service agents. The system administrator can also create one outgoing email address.
 
 After the incoming and outgoing email addresses are created, the system administrator can set the following properties for the email communication channel:
 
@@ -27,11 +27,7 @@ The system administrator can also create a channel configuration to associate an
 **Related topics**  
 
 
-[[t_ConfigureEmailCommunication|Configure an email address for a product]]
+[Configure an email address for a product](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/t_ConfigureEmailCommunication.md)
 
 [Email accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailAccounts.md)
 
-## Related
-
-- [[t_ConfigureEmailCommunication|Configure an email address for a product]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

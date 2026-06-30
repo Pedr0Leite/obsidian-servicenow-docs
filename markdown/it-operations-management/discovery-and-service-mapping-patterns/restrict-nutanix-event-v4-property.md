@@ -14,11 +14,11 @@ breadcrumb: [Nutanix Acropolis, Available on-premise discovery patterns, Discove
 
 # Restrict Nutanix v4 event discovery to specific Prism Centrals
 
-Create a MID Server property to target specific Prism Central instances for Nutanix v4 event [[r-discovery|discovery]].
+Create a MID Server property to target specific Prism Central instances for Nutanix v4 event discovery.
 
 ## Before you begin
 
--   Verify that you have at least version 1.31.0 of Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns.
+-   Verify that you have at least version 1.31.0 of Discovery and Service Mapping Patterns.
 -   Verify that Nutanix Components discovery has run and that the Nutanix Prism Central \[cmdb\_ci\_nutanix\_prism\_central\] table is populated.
 -   Verify that the MID Servers for Nutanix event discovery have **All** or **Nutanix** capability.
 
@@ -85,7 +85,3 @@ Enable the Nutanix event discovery scheduled job. For more information, see [Ena
 
 [Enable Nutanix event discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/enable-nutanix-event-job.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

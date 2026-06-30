@@ -20,7 +20,7 @@ Specific tables are installed with Digital resilience third-party registers.
 |Company|\[core\_company\]|Stores information for the core company records.|
 |Assessment of the ICT service|\[sn\_dora\_accel\_assessment\]|Stores the assessment of the ICT service for DORA regulation requirement.|
 |Branch|\[sn\_dora\_accel\_branch\]|Stores the branch records for DORA regulation requirement.|
-|Digital [[grc-opres-landing-page|operational resilience]] choice|\[sn\_dora\_accel\_choice\]|Stores the Digital operational resilience choice tables for DORA regulation requirement.|
+|Digital operational resilience choice|\[sn\_dora\_accel\_choice\]|Stores the Digital operational resilience choice tables for DORA regulation requirement.|
 |Contractual arrangement|\[sn\_dora\_accel\_contract\]|Stores the contractual arrangement records for DORA regulation requirement.|
 |Digital operational resilience core information|\[sn\_dora\_accel\_core\_info\]|Stores the Digital operational resilience core information for DORA regulation requirement.|
 |Legal entity|\[sn\_dora\_accel\_entity\]|Stores the legal entity records for DORA regulation requirement.|
@@ -37,9 +37,5 @@ Specific tables are installed with Digital resilience third-party registers.
 |ICT third-party service provider|\[sn\_dora\_accel\_third\_party\]|Stores the ICT third-party service provider records for DORA regulation requirement.|
 |ICT third-party engagement service provider|\[sn\_dora\_accel\_third\_party\_engagement\]|Stores the ICT third-party engagement service provider records for DORA regulation requirement.|
 
-**Parent Topic:**[[digi-resi-ref|Digital resilience third-party registers reference]]
+**Parent Topic:**[Digital resilience third-party registers reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/digi-resi-ref.md)
 
-## Related
-
-- [[digi-resi-ref|Digital resilience third-party registers reference]]
-- [[grc-opres-landing-page|Operational Resilience]]

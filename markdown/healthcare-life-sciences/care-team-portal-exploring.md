@@ -12,7 +12,7 @@ breadcrumb: [Care Team Portal, Healthcare Operations, Healthcare and Life Scienc
 
 # Exploring Care Team Portal
 
-Learn how the [[care-team-portal-landing|Care Team Portal]] centralizes operational issue reporting for care teams and integrates with the support departments that resolve those issues.
+Learn how the Care Team Portal centralizes operational issue reporting for care teams and integrates with the support departments that resolve those issues.
 
 ## Care Team Portal overview
 
@@ -20,6 +20,3 @@ The Care Team Portal gives care team members a single place to report and track 
 
 The portal can be used as a standalone Service Portal experience or embedded in Epic Hyperspace via Hyperdrive so that clinicians launch it from inside their EMR.
 
-## Related
-
-- [[care-team-portal-landing|Care Team Portal]]

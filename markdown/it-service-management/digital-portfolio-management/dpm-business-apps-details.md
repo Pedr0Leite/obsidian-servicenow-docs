@@ -14,7 +14,7 @@ breadcrumb: [Life-cycle management, Explore, Digital Portfolio Management, IT Se
 
 # View business application details
 
-View information about business [[dex-workspace-application-tab|applications]] that may impact your solutions. Each [[dpm-landing|Digital Portfolio Management]] \(DPM\) page presents the business application life-cycle phase information in tabs — Plan, Build, Run, Risk, and Info.
+View information about business applications that may impact your solutions. Each Digital Portfolio Management \(DPM\) page presents the business application life-cycle phase information in tabs — Plan, Build, Run, Risk, and Info.
 
 ## Status of business applications
 
@@ -22,7 +22,7 @@ When viewing the business application details in DPM, the **Status** of each ite
 
 When viewing details of a business application that's retired, an alert banner along the top of the workspace informs you. In the list view, the **Life Cycle Stage** is **End of Life** and the **Life Cycle Stage Status** is **Retired**.
 
-**Important:** If your organization transitioned from the traditional [[SPM2-landing-page|Service Portfolio Management]] fields to the CSDM life-cycle fields, then the field names differ from this document. For more information, see [Apply the CSDM guidelines to Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-csdm.md).
+**Important:** If your organization transitioned from the traditional Service Portfolio Management fields to the CSDM life-cycle fields, then the field names differ from this document. For more information, see [Apply the CSDM guidelines to Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-csdm.md).
 
 Business application information is displayed in DPM via the Plan, Build, Run, Risk, and Info tabs. If your organization opts to inactivate one or more of the tabs, then the inactivated tabs aren't visible to you. For example, if your organization doesn't work on planning activities and they inactivate the Plan tab, then the Plan tab isn't visible for you. For more information on how Admins can hide or show tabs, see [Configure the Digital Portfolio Management experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-configure-experience.md).
 
@@ -429,14 +429,14 @@ Information about risks related to the business application. You can select a ca
 
 </td><td>
 
-The technology lifecycle risk for the business application with software and hardware [[c_Models|models]] presented in donut reports and lists.
+The technology lifecycle risk for the business application with software and hardware models presented in donut reports and lists.
 
 </td></tr><tr><td colspan="2">
 
 **Note:** To see the technology lifecycle risk information, you must have the Technology Portfolio Management plugin \[sn\_apm\_tpm\] installed. The \[sn\_apm\_tpm\] plugin has two dependency plugins:
 
 -   Application Portfolio Management \[com.snc.apn\]
--   Software [[c_AssetManagement|Asset Management]] \[com.snc.sams\]
+-   Software Asset Management \[com.snc.sams\]
 
 </td></tr></tbody>
 </table>## Info tab
@@ -481,7 +481,7 @@ General information about the business application.-   Enterprise portfolio
 
 </td></tr><tr><td>
 
-**[[dpm-personal-portfolio|Personal portfolios]]**
+**Personal portfolios**
 
 </td><td>
 
@@ -535,11 +535,3 @@ The Needs attention panel includes the following icons for business applications
 
 [Create enterprise portfolios in Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-create-enterprise-portfolios.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[dpm-landing|Digital Portfolio Management]]
-- [[SPM2-landing-page|Service Portfolio Management]]
-- [[c_Models|Models]]
-- [[c_AssetManagement|Asset Management]]
-- [[dpm-personal-portfolio|Personal portfolios]]

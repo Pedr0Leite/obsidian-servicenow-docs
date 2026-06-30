@@ -14,19 +14,19 @@ breadcrumb: [Attributes for OIDC, Identity Provider Attributes Filter, Filter cr
 
 # Use Identity Provider Attribute as Filter Criteria for OIDC
 
-Use the [[identity-landing|Identity]] Provider \(IDP\) attribute from the OpenID Connect \(OIDC\) response as a [[adaptive-auth-filter-criteria|filter criteria]] for [[c_Authentication|authentication]] policy.
+Use the Identity Provider \(IDP\) attribute from the OpenID Connect \(OIDC\) response as a filter criteria for authentication policy.
 
 ## Before you begin
 
 Role required: adaptive\_auth\_admin
 
-You can create session access policy using policy context \(Pre-Authentication, Post Authentication, [[mfa-landing|multi-factor authentication]]\) and filter criteria \(Role, Group, IP, Location\) with policy inputs and conditions.
+You can create session access policy using policy context \(Pre-Authentication, Post Authentication, multi-factor authentication\) and filter criteria \(Role, Group, IP, Location\) with policy inputs and conditions.
 
-The following procedure shows steps to configure the IdP attribute from the [[c_SAML2.0WebBrowserSSOProfile|SAML]] response as a policy input to control authentication in the **Post Authentication Context**, **Multi-factor authentication \(MFA\) Context**, and **Zero Trust - Policy based session access**.
+The following procedure shows steps to configure the IdP attribute from the SAML response as a policy input to control authentication in the **Post Authentication Context**, **Multi-factor authentication \(MFA\) Context**, and **Zero Trust - Policy based session access**.
 
-The Okta IDP attributes are as displayed in the following screen shot. You should set the Use in [[adaptive-authentication|Adaptive Authentication]] as true to use it in the **Post Authentication Context**, **Multi-factor authentication \(MFA\) Context**, and **Zero Trust - Policy based session access** [[ca-policies|policies]].
+The Okta IDP attributes are as displayed in the following screen shot. You should set the Use in Adaptive Authentication as true to use it in the **Post Authentication Context**, **Multi-factor authentication \(MFA\) Context**, and **Zero Trust - Policy based session access** policies.
 
-**Note:** Policies in the post-authorization, MFA, Zero Trust - Policy based session access execute after the [[users|users]] enter the credentials or SSO response.
+**Note:** Policies in the post-authorization, MFA, Zero Trust - Policy based session access execute after the users enter the credentials or SSO response.
 
 ## Procedure
 
@@ -48,7 +48,7 @@ The Okta IDP attributes are as displayed in the following screen shot. You shoul
 
             \[Omitted image "input-idp-condition.png"\] Alt text: Policy input condition
 
-        Based on this [[sc-configuration|configuration]], when the device is trusted from the Okta \(IdP\), then the user is authenticated to the instance.
+        Based on this configuration, when the device is trusted from the Okta \(IdP\), then the user is authenticated to the instance.
 
         For more information on how to create Post Authentication Context with Policy and Condition, see [Post-authentication context](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/post-auth-context.md).
 
@@ -92,17 +92,6 @@ The Okta IDP attributes are as displayed in the following screen shot. You shoul
 
         Based on this configuration, when the `itil` user using a device that is not-trusted from the Okta \(IdP\), then the user's privileges are reduced for the logged in session.
 
-        For more information on how to create Zero Trust - Policy based session access with Policy and Condition, see [[session-access|Zero Trust Access \(ZTA\)]].
+        For more information on how to create Zero Trust - Policy based session access with Policy and Condition, see [Zero Trust Access \(ZTA\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/session-access.md).
 
-## Related
 
-- [[session-access|Zero Trust Access \(ZTA\)]]
-- [[identity-landing|Identity]]
-- [[adaptive-auth-filter-criteria|Filter criteria]]
-- [[c_Authentication|Authentication]]
-- [[mfa-landing|Multi-factor authentication]]
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[adaptive-authentication|Adaptive authentication]]
-- [[ca-policies|Policies]]
-- [[users|Users]]
-- [[sc-configuration|Configuration]]

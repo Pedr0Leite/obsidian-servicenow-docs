@@ -51,11 +51,11 @@ After you identify the two groups of users, assign different roles to each group
 
 1.  Set the system property **glide.sg.block\_mobile\_attachments\_external\_viewing** to `true`.
 
-    For more information, see [[vu-attach-extapp-android|Control whether users can view attachments in external applications on Android devices]].
+    For more information, see [Control whether users can view attachments in external applications on Android devices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/vu-attach-extapp-android.md).
 
 2.  Set the system property **glide.sg.block\_mobile\_attachments\_sharing** to `true`.
 
-    For more information, see [[block-users-download-shar-attach|Block users from downloading or sharing attachments]].
+    For more information, see [Block users from downloading or sharing attachments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/block-users-download-shar-attach.md).
 
 3.  On your ServiceNow® instance, navigate to **All** &gt; **sys\_sg\_properties\_list.do**.
 
@@ -264,10 +264,5 @@ Mobile application that you want to send the mobile property to. This setting li
 
 After updating these properties, the end user must pull to refresh and get the latest feature configurations.
 
-**Parent Topic:**[[mobile-properties|Mobile properties]]
+**Parent Topic:**[Mobile properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-properties.md)
 
-## Related
-
-- [[vu-attach-extapp-android|Control whether users can view attachments in external applications on Android devices]]
-- [[block-users-download-shar-attach|Block users from downloading or sharing attachments]]
-- [[mobile-properties|Mobile properties]]

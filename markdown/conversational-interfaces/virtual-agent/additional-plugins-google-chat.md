@@ -15,7 +15,7 @@ breadcrumb: [Install Conversational Integration with Google Chat, Conversational
 
 # Activate plugins for Conversational Integration with Google Chat
 
-Activate the Glide [[virtual-agent-landing-page|Virtual Agent]] \[com.glide.cs.chatbot\] plugin and the [[gchat-conv-integration|Conversational Integration with Google Chat]] \[sn\_va\_google-chat\] plugin.
+Activate the Glide Virtual Agent \[com.glide.cs.chatbot\] plugin and the Conversational Integration with Google Chat \[sn\_va\_google-chat\] plugin.
 
 ## Before you begin
 
@@ -46,7 +46,3 @@ Activate and install multiple plugins and applications to finish installing Conv
 
 **Parent Topic:**[Install Conversational Integration with Google Chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/install-ci-google-chat.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[gchat-conv-integration|Conversational Integration with Google Chat]]

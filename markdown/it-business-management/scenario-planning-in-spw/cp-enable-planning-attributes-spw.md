@@ -24,7 +24,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]]** &gt; **Planning Attributes**.
+1.  Navigate to **All** &gt; **Strategic Planning** &gt; **Planning Attributes**.
 
 2.  Filter the Attribute name to locate and open the **Group** attribute.
 
@@ -51,6 +51,3 @@ Role required: admin
 2.  Map attributes to resources: Assign the enabled planning attributes to your resources so they appear in capacity views. For custom attributes, see [Create or edit planning attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/configure-planning-attributes.md).
 3.  Start capacity planning: Navigate to the Capacity tab in your Strategic Planning Workspace to view resource capacity based on the enabled attributes.
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

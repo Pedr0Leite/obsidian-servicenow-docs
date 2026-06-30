@@ -14,7 +14,7 @@ breadcrumb: [Using Now Assist Skill Kit, Now Assist Skill Kit, Enable AI experie
 
 # Activate a skill
 
-After you publish a skill, a [[platform-now-assist-landing|Now Assist]] admin must activate it in Now Assist Admin. Activating the skill makes it available for users to trigger within the platform.
+After you publish a skill, a Now Assist admin must activate it in Now Assist Admin. Activating the skill makes it available for users to trigger within the platform.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-Published custom skills appear in Now Assist Admin under the **[[now-assist-skills|Now Assist Skills]]** tab. Skills are organized in the left sidebar by the **Workflow** value selected during deployment settings configuration. Within each workflow category, skills are grouped by **Product**. Custom skills that use **Other** as their workflow value appear under **Other** at the bottom of the sidebar.
+Published custom skills appear in Now Assist Admin under the **Now Assist Skills** tab. Skills are organized in the left sidebar by the **Workflow** value selected during deployment settings configuration. Within each workflow category, skills are grouped by **Product**. Custom skills that use **Other** as their workflow value appear under **Other** at the bottom of the sidebar.
 
 A published skill appears on the **Available** tab with a **Not started** state badge until it is activated. After activation it moves to the **Active** tab.
 
@@ -54,7 +54,7 @@ A published skill appears on the **Available** tab with a **Not started** state 
 
 7.  On the **Define access** step, review or update the access control list \(ACL\) and role restrictions, then select **Save and continue**.
 
-    The ACL determines which users can invoke the skill. The ACL configured here reflects the user access settings defined when the skill was created or last edited in [[now-assist-skill-kit-landing|Now Assist Skill Kit]]. To learn more about skill ACLs and role restrictions, see .
+    The ACL determines which users can invoke the skill. The ACL configured here reflects the user access settings defined when the skill was created or last edited in Now Assist Skill Kit. To learn more about skill ACLs and role restrictions, see .
 
 8.  On the **Review and activate** step, review the configuration and select **Activate**.
 
@@ -84,8 +84,3 @@ You can enable Now Assist Guardian for your skills. To learn more about Now Assi
 
 [Call a custom skill from a script]()
 
-## Related
-
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-skills|Now Assist skills]]
-- [[now-assist-skill-kit-landing|Now Assist Skill Kit]]

@@ -14,9 +14,9 @@ breadcrumb: [Reference, Manager Hub, HR Service Delivery, Employee Service Manag
 
 # Default configurations for team data
 
-Predefined set of team data configurations are available to use once you have activated [[manager-hub-overview|Manager Hub]] from ServiceNow Store.
+Predefined set of team data configurations are available to use once you have activated Manager Hub from ServiceNow Store.
 
-The following team data configurations support column configurations and filter configurations: Journey, Email, Employee Journeys, [[emp-slate-employee-profile|Employee Profile]], [[c_HRProfileRecords|HR Profile]], Journeys, Leave, Leaving soon, New hire, PTO, Upcoming leave, User, and Work phone.
+The following team data configurations support column configurations and filter configurations: Journey, Email, Employee Journeys, Employee Profile, HR Profile, Journeys, Leave, Leaving soon, New hire, PTO, Upcoming leave, User, and Work phone.
 
 For more details, navigate to **All** &gt; **Manager Hub** &gt; **Administration** &gt; **Team Data Configuration**.
 
@@ -41,20 +41,13 @@ For more details, navigate to **All** &gt; **Manager Hub** &gt; **Administration
 
 [Default configurations for To do's]()
 
-[Default [[proactive-prompts-for-hrsd|proactive prompts]] for Manager Hub]()
+[Default proactive prompts for Manager Hub]()
 
 [Use the View menu icon in Manager Hub]()
 
-[Assign [[exploring-learning-exp|learning]] form]()
+[Assign learning form]()
 
 [Create a conversation form]()
 
 [Schedule a conversation form]()
 
-## Related
-
-- [[manager-hub-overview|Manager Hub]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[c_HRProfileRecords|HR Profile]]
-- [[proactive-prompts-for-hrsd|Proactive Prompts]]
-- [[exploring-learning-exp|Learning]]

@@ -18,21 +18,14 @@ Any combination of rating-based methods can be enabled in configuration screen o
 
 When a task is created, a rating for each type of enabled selection criteria is calculated for each available agent. The agent whose average rating is highest is considered for auto-assignment. The settings for the auto-assignment weighting properties, found in **\[SM application\]** &gt; **Administration** &gt; **Properties**, are included in the rating calculations.
 
-These values help you prioritize which auto-assignment selection criteria is more important to your organization. The priority values should be \[1, 10\] and they are factored between 1 and 0. That is, 10 is a factor of 1, 5 is a factor of 0.5, and so on. For an example of how the weighting properties affect agent ratings, see [[c_AgAtAssgmtMlt|Agent auto assignment using multiple selection criteria]].
+These values help you prioritize which auto-assignment selection criteria is more important to your organization. The priority values should be \[1, 10\] and they are factored between 1 and 0. That is, 10 is a factor of 1, 5 is a factor of 0.5, and so on. For an example of how the weighting properties affect agent ratings, see [Agent auto assignment using multiple selection criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_AgAtAssgmtMlt.md).
 
--   **[[c_AgentAutoAssignmentUsingLocation|Agent auto assignment using location]]**  
+-   **[Agent auto assignment using location](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_AgentAutoAssignmentUsingLocation.md)**  
 Agents can be auto assigned based on the location defined in their user record and the location of the tasks.
--   **[[c_AgentAutoAssignmentUsingSkills|Agent auto assignment using skills]]**  
+-   **[Agent auto assignment using skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_AgentAutoAssignmentUsingSkills.md)**  
 Agents can be auto assigned based on the skills of an agent, and the skills required to perform the task. Assign skills to an agent user records using **Skills** &gt; **Users**.
--   **[[c_AgAtAssgnZones|Agent auto assignment using time zones]]**  
+-   **[Agent auto assignment using time zones](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_AgAtAssgnZones.md)**  
 Agents can be auto assigned based on the time zone defined in their user records and the time zone of the tasks.
 
-**Parent Topic:**[[c_AgentAutoAssignment|Agent auto assignment]]
+**Parent Topic:**[Agent auto assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_AgentAutoAssignment.md)
 
-## Related
-
-- [[c_AgAtAssgmtMlt|Agent auto assignment using multiple selection criteria]]
-- [[c_AgentAutoAssignmentUsingLocation|Agent auto assignment using location]]
-- [[c_AgentAutoAssignmentUsingSkills|Agent auto assignment using skills]]
-- [[c_AgAtAssgnZones|Agent auto assignment using time zones]]
-- [[c_AgentAutoAssignment|Agent auto assignment]]

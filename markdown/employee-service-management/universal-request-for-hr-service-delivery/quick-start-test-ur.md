@@ -14,7 +14,7 @@ breadcrumb: [Universal Request, Employee Service Management]
 
 # Quick start tests for Universal Request
 
-Validate that [[ur-landing-limitedaccess|Universal Request]] still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
+Validate that Universal Request still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
 
 Universal Request quick start tests require activating the Universal Request \(com.snc.universal\_request\), Universal Request: Integration for Incident management \(com.snc.incident.universal\_request\), and Human Resources Scoped App: Core \(com.sn\_hr\_core\) plugins.
 
@@ -72,6 +72,3 @@ San Diego
 </td></tr></tbody>
 </table>**Parent Topic:**[Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-landing-limitedaccess.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]

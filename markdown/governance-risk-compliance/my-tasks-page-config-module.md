@@ -12,17 +12,17 @@ breadcrumb: [General administration setup for BCM, Configure, Business Continuit
 
 # My tasks page configurations
 
-If you are the [[business-continuity-mangmt-overview|Business Continuity Management]] application user, you can use **My tasks page configurations** in the **General [[Administration|Administration]]** module to view your assigned tasks.
+If you are the Business Continuity Management application user, you can use **My tasks page configurations** in the **General Administration** module to view your assigned tasks.
 
 ## My tasks page configurations module
 
 The administrative tasks that are associated with the BCM application are listed in the **General Administration** module in the application UI. You can view My tasks page configurations in the **General Administration** module as shown in the example.
 
-\[Omitted image "gen-admin-module.png"\] Alt text: General [[manage-admin-portal|Administration module]].
+\[Omitted image "gen-admin-module.png"\] Alt text: General Administration module.
 
 If you have the BCM administrator role, you can customize the BCM tasks in **My tasks page configuration**.
 
-The **My tasks page configurations** module in the [[list-view-uib-ws|list view]] is shown in the example.
+The **My tasks page configurations** module in the list view is shown in the example.
 
 \[Omitted image "tasks-page-config-list-view.png"\] Alt text: My tasks page configurations module in the list view.
 
@@ -34,15 +34,7 @@ My tasks page in the Home page displays the assigned tasks for the logged-in use
 
 \[Omitted image "my-tasks-page-all-tabs.png"\] Alt text: My tasks page in BCM UIB Workspace.
 
-For more information on My tasks page view in BCM UIB Workspace, see [[my-tasks-page-uib-ws|My tasks page view]].
+For more information on My tasks page view in BCM UIB Workspace, see [My tasks page view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/my-tasks-page-uib-ws.md).
 
-**Parent Topic:**[[set-up-bcm-bcmadmin-tasks|General administration setup for BCM]]
+**Parent Topic:**[General administration setup for BCM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/set-up-bcm-bcmadmin-tasks.md)
 
-## Related
-
-- [[my-tasks-page-uib-ws|My tasks page view]]
-- [[set-up-bcm-bcmadmin-tasks|General administration setup for BCM]]
-- [[business-continuity-mangmt-overview|Business Continuity Management]]
-- [[Administration|Administration]]
-- [[manage-admin-portal|Administration module]]
-- [[list-view-uib-ws|List view]]

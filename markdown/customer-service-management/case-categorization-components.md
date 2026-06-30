@@ -12,7 +12,7 @@ breadcrumb: [Install Task Intelligence, Task Intelligence for Customer Service, 
 
 # Components installed with Task Intelligence for Customer Service
 
-Several types of components are installed with the [[csm-task-intelligence|Task Intelligence for Customer Service]] application, including tables, roles, properties, flows, and scheduled jobs.
+Several types of components are installed with the Task Intelligence for Customer Service application, including tables, roles, properties, flows, and scheduled jobs.
 
 ## Tables
 
@@ -34,7 +34,7 @@ ML Solution \[ml\_solution\]
 
 The ML Solution table stores trained machine learning solutions.
 
- Activating the Task Intelligence for Customer Service application \(com.snc.csm\_ml\_task\) creates a record in this table for the pre-trained [[case-sentiment-analysis|sentiment analysis]] machine learning solution: **ml\_x\_snc\_global\_global\_sentiment**.
+ Activating the Task Intelligence for Customer Service application \(com.snc.csm\_ml\_task\) creates a record in this table for the pre-trained sentiment analysis machine learning solution: **ml\_x\_snc\_global\_global\_sentiment**.
 
 </td></tr><tr><td>
 
@@ -57,7 +57,7 @@ Predictor Result\[ml\_predictor\_results\]
 
 </td><td>
 
-This table stores prediction results and feedback for [[case-categorization-overview|record categorization]], sentiment analysis, and [[case-language-detection|language detection]]. This includes skipped and failed predictions that result from prediction requests.
+This table stores prediction results and feedback for record categorization, sentiment analysis, and language detection. This includes skipped and failed predictions that result from prediction requests.
 
  For case categorization:
 
@@ -117,11 +117,11 @@ Task Skills\[task\_m2m\_skill\]
 
 </td><td>
 
-The Task Skills table stores skills for the [[c_CustomerServiceManagement|Customer Service Management]] application.
+The Task Skills table stores skills for the Customer Service Management application.
 
  The language detection feature links language skills to new customer service cases by saving the detected language in the Task Skills table.
 
- The Task Skills table [[migration-lists|lists]] customer service cases and the language skill detected and assigned to each case.
+ The Task Skills table lists customer service cases and the language skill detected and assigned to each case.
 
 </td></tr></tbody>
 </table>|Prediction preference|Top 1 prediction|Top 3 \(at least 1 prediction\)|Skipped|
@@ -139,7 +139,7 @@ The Task Skills table stores skills for the [[c_CustomerServiceManagement|Custom
 
 ## Tables installed with Document Intelligence for Customer Service
 
-The [[csm-document-intelligence|Document Intelligence for Customer Service]] application uses the following tables
+The Document Intelligence for Customer Service application uses the following tables
 
 <table id="table_w3z_tft_gwb"><thead><tr><th>
 
@@ -155,7 +155,7 @@ DocIntel Use Case\[di\_task\_definition\]
 
 </td><td>
 
-Stores Document [[intelligence-csm|Intelligence]] use cases for the Case table \(sn\_customerservice\_case\) or case type tables that extend the Case table.
+Stores Document Intelligence use cases for the Case table \(sn\_customerservice\_case\) or case type tables that extend the Case table.
 
 </td></tr><tr><td>
 
@@ -394,7 +394,7 @@ Sentiment analysis properties
 
 </td><td>
 
-Enables sentiment predictions for customer service cases. The default setting is false. To enable sentiment predictions, set this property to true.**Note:** This property is automatically set to true when a sentiment model is trained and deployed from the [[csm-task-intel-admin-center|Task Intelligence Admin Console]].
+Enables sentiment predictions for customer service cases. The default setting is false. To enable sentiment predictions, set this property to true.**Note:** This property is automatically set to true when a sentiment model is trained and deployed from the [Task Intelligence Admin Console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-task-intel-admin-center.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -458,7 +458,7 @@ Contains a list of the supported attachment types:
 
 Defines the maximum waiting time for a straight through processing task to finish. The default time is 5 minutes.
 
- If a use case is configured to use the straight through processing prediction mode, the agent can see the relevant fields on the [[r_CustomerServiceCaseForm|Case form]] automatically populated within 5 minutes of case arrival.
+ If a use case is configured to use the straight through processing prediction mode, the agent can see the relevant fields on the Case form automatically populated within 5 minutes of case arrival.
 
  If this threshold is exceeded, the values are skipped. However, the agent can still view the task in the DocIntel tab and manually extract the values.
 
@@ -607,15 +607,3 @@ The system administrator can run the **Deploying Task Intelligence for Customer 
 
 This scheduled job verifies if there are previously deployed models for record categorization, sentiment analysis, language detection, and Document Intelligence and publishes these models.
 
-## Related
-
-- [[csm-task-intel-admin-center|Task Intelligence Admin Console]]
-- [[csm-task-intelligence|Task Intelligence for Customer Service]]
-- [[case-sentiment-analysis|Sentiment Analysis]]
-- [[case-categorization-overview|Record categorization]]
-- [[case-language-detection|Language detection]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[migration-lists|Lists]]
-- [[csm-document-intelligence|Document Intelligence for Customer Service]]
-- [[intelligence-csm|Intelligence]]
-- [[r_CustomerServiceCaseForm|Case form]]

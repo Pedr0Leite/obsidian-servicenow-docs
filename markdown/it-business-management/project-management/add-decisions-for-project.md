@@ -28,7 +28,7 @@ Role required: it\_project\_manager
 
 3.  In the Decisions related list, select **New**.
 
-4.  On the [[decision-form|Decision form]], fill in the fields.
+4.  On the Decision form, fill in the fields.
 
     For more information, see [Risk, issues, decisions, actions, and request change \(RIDAC\) form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/ridac-forms.md).
 
@@ -55,6 +55,3 @@ Role required: it\_project\_manager
 
 [Adding RIDAC \(Risks, Issues, Actions, Decisions, and Request Changes\) records for a project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/ridac-entries-for-project.md)
 
-## Related
-
-- [[decision-form|Decision form]]

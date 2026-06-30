@@ -14,9 +14,9 @@ breadcrumb: [Feedback application in Strategic Planning, Strategic Planning, Str
 
 # Managing Feedback application in Strategic Planning
 
-Use [[product-feedback-landing|Feedback application in Strategic Planning]] and create Feedback and product ideas to take data driven decisions during product development. Associate the feedback with a product idea or with a planning or non-planning item that can be tracked, prioritized, and implemented.
+Use Feedback application in Strategic Planning and create Feedback and product ideas to take data driven decisions during product development. Associate the feedback with a product idea or with a planning or non-planning item that can be tracked, prioritized, and implemented.
 
-Use the following components to manage your Feedback within [[alignment-planner-workspace-landing-page|Strategic Planning]].
+Use the following components to manage your Feedback within Strategic Planning.
 
 -   Feedback
 -   Product idea
@@ -209,7 +209,3 @@ Provides a centralized location for product managers to organize, store, and col
 
 [Feedback reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/product-feedback-reference.md)
 
-## Related
-
-- [[product-feedback-landing|Feedback application in Strategic Planning]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

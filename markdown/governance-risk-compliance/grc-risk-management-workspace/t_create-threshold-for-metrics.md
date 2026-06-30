@@ -26,7 +26,7 @@ Configure thresholds to define multiple performance levels, set specific ranges 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Risk** &gt; **[[risk-workspace|Risk Workspace]]** &gt; **Metrics** &gt; **Metrics**.
+1.  Navigate to **All** &gt; **Risk** &gt; **Risk Workspace** &gt; **Metrics** &gt; **Metrics**.
 
 2.  Select and open the metric for which you want to define the threshold.
 
@@ -52,6 +52,3 @@ Use the Metric Definition Threshold form to define performance limits for a metr
 
 **Parent Topic:**[Configuring metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/configuring-irm-metrics.md)
 
-## Related
-
-- [[risk-workspace|risk workspace]]

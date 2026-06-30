@@ -22,7 +22,7 @@ Role required: sn\_cmdb\_editor and itil have read access, sn\_cmdb\_admin and i
 
 ## About this task
 
-During duplication detection of independent CIs, the [[ire|Identification and Reconciliation Engine \(IRE\)]] processes only the records that satisfy the identification inclusion rules. For example, you can set a filter to include only records whose state is operational. When no identification inclusion rules exist, all records are included in the identification process.
+During duplication detection of independent CIs, the Identification and Reconciliation Engine \(IRE\) processes only the records that satisfy the identification inclusion rules. For example, you can set a filter to include only records whose state is operational. When no identification inclusion rules exist, all records are included in the identification process.
 
 In the base system, there are no predefined identification inclusion rules. Identification inclusion rules are defined at the class level.
 
@@ -46,6 +46,3 @@ In the base system, there are no predefined identification inclusion rules. Iden
 
 **Parent Topic:**[IRE support for non-CMDB tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/ire-support-non-cmdb-tables.md)
 
-## Related
-
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]

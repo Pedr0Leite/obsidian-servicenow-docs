@@ -47,7 +47,7 @@ The Risk and Compliance dashboard is a unified dashboard that provides a compreh
 
 ## Access the Risk and Compliance Dashboard
 
-To open the dashboard, navigate to **All** &gt; **[[vr-unified-CISO-dashboard|Cybersecurity Executive Dashboard]]** &gt; **Cybersecurity Executive Dashboard**.
+To open the dashboard, navigate to **All** &gt; **Cybersecurity Executive Dashboard** &gt; **Cybersecurity Executive Dashboard**.
 
 ## Indicators
 
@@ -225,7 +225,7 @@ GRC Content Status \[sn\_grc\_content\_reports\]
 Provides the risk rating for each organizational risk to understand the overall risk assessment results. These ratings help organizations understand the potential impact and likelihood of various risks, enabling them to prioritize and manage these risks. The Risk posture card also highlights the following information for each risk:-   **Risk appetite**: Risk appetite value defined.
 -   **High priority issues**: The number of issues with priority is defined as High.
 -   **Overdue risk response tasks**: Number of overdue risk response tasks.
--   **KRI Breach %**: Percentage of Key Risk [[indicator|Indicators]] \(KRIs\) that have exceeded their predefined thresholds or limits.
+-   **KRI Breach %**: Percentage of Key Risk Indicators \(KRIs\) that have exceeded their predefined thresholds or limits.
 
 </td></tr><tr><td>
 
@@ -267,7 +267,3 @@ Provides the risk rating for each third party. The risk rating is the overall as
 |----|----|-----------|
 |Risk criteria|Report|Depending on which risk criterias you select, the donut chart and list shows the third parties or vendors that are in those risk areas.|
 
-## Related
-
-- [[vr-unified-CISO-dashboard|Cybersecurity Executive Dashboard]]
-- [[indicator|Indicators]]

@@ -14,7 +14,7 @@ breadcrumb: [Unified Map, Configuration Management Database \(CMDB\), Configurat
 
 # Configuring Unified Map — admin settings
 
-Administrators can configure general [[cmdb-workspace-unified-map|Unified Map]] settings to control the initial content and appearance of maps for all users in a workspace.
+Administrators can configure general Unified Map settings to control the initial content and appearance of maps for all users in a workspace.
 
 ## Activating Unified Map
 
@@ -52,7 +52,7 @@ Admins can save a set of Unified Map map filter settings \(layer, CI class, rela
 -   **[Configure how many nodes can appear on a map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/unified-map-cfg-max-nodes-on-maps.md)**  
 Configure the maximum number of nodes that can be loaded when a map in this workspace opens. These are general settings that only sn\_cmdb\_admin can configure.
 -   **[Configure the default or maximum number of levels on maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/unified-map-cfg-levels-on-maps.md)**  
-[[unified-map-cfg-levels-on-maps|Configure the default or maximum number of levels on maps]]. These are general settings that only sn\_cmdb\_admin can configure.
+Configure the default or maximum number of levels on maps. These are general settings that only sn\_cmdb\_admin can configure.
 -   **[Configure endpoint de-duplication on maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/unified-map-cfg-endpnt-deduplicate.md)**  
 Configure how duplicate edges are displayed on maps. These are general settings that only sn\_cmdb\_admin can configure.
 -   **[Configure CIs to appear based on life cycle stage value](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/unified-map-confg-operational-state.md)**  
@@ -62,7 +62,7 @@ Add related items categories, specify which information should appear on cards o
 -   **[Configure which attributes to display in the Attributes panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/unified-map-config-extended-prop.md)**  
 Each class has a unique set of extended attributes that appear in the bottom section of the **Attributes** panel for a CI. For any class, you can specify which extended attributes should be displayed. These are general settings that only sn\_cmdb\_admin can configure.
 -   **[Configure display of connections to a referenced class](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/unified-map-config-map-references.md)**  
-Configure how to display connections to a referenced class and from a referencing class on Unified Map. A [[reference|reference]] connects two CIs from differing classes that aren't connected by a relationship. These are general settings that only sn\_cmdb\_admin can configure.
+Configure how to display connections to a referenced class and from a referencing class on Unified Map. A reference connects two CIs from differing classes that aren't connected by a relationship. These are general settings that only sn\_cmdb\_admin can configure.
 -   **[Create a class profile of visible layers for classes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/unified-map-config-class-profile.md)**  
 Configure a class profile that specifies which layers should appear for a particular class: application, service instance, business, or infrastructure. For example, you can configure that the mapped application service \(service instance\) \[cmdb\_ci\_service\_discovered\] class should display only Service Mapping data and not infrastructure elements.
 -   **[How configuration settings for Unified Map are stored](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/unified-map-config-settings-viewing.md)**  
@@ -77,8 +77,3 @@ General configuration settings that control Unified Map are collected in a confi
 
 [How configuration settings for Unified Map are stored](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/unified-map-config-settings-viewing.md)
 
-## Related
-
-- [[cmdb-workspace-unified-map|Unified Map]]
-- [[unified-map-cfg-levels-on-maps|Configure the default or maximum number of levels on maps]]
-- [[reference|Reference]]

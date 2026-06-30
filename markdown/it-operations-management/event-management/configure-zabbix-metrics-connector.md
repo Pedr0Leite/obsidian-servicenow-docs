@@ -14,7 +14,7 @@ breadcrumb: [Configure a pull connector, Configure Event Management connectors, 
 
 # Configure the Zabbix metrics connector instance
 
-Configure the Zabbix Metric connector instance to receive [[operational-metrics|Metric Intelligence]] raw data from the Zabbix server.
+Configure the Zabbix Metric connector instance to receive Metric Intelligence raw data from the Zabbix server.
 
 ## Before you begin
 
@@ -26,14 +26,14 @@ Role required: evt\_mgmt\_admin
 
 ## About this task
 
-ServiceNow does not support [[r-discovery|discovery]] for Zabbix, so CI entries must be manually created in the appropriate table using the hostname configured in the Zabbix platform.
+ServiceNow does not support discovery for Zabbix, so CI entries must be manually created in the appropriate table using the hostname configured in the Zabbix platform.
 
 -   Create an Event Rule to bind specific CIs.
 -   Users can add tag information to Zabbix items, and the relevant tags will be included in the metric-to-CI records. These tags can also be used as filter conditions in the Event Rule for CI binding.
 
 ## Procedure
 
-1.  Navigate to **[[c_EM|Event Management]]** &gt; **Integrations** &gt; **Connector Instances**.
+1.  Navigate to **Event Management** &gt; **Integrations** &gt; **Connector Instances**.
 
 2.  Select **New** and create a connector instance.
 
@@ -58,8 +58,3 @@ ServiceNow does not support [[r-discovery|discovery]] for Zabbix, so CI entries 
 
 **Parent Topic:**[Configure a pull connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMConfigureConnectorInstance.md)
 
-## Related
-
-- [[operational-metrics|Metric Intelligence]]
-- [[r-discovery|Discovery]]
-- [[c_EM|Event Management]]

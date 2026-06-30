@@ -14,7 +14,7 @@ breadcrumb: [Advanced Work Assignment roles, Reference, Advanced Work Assignment
 
 # AWA agent \[awa\_agent\]
 
-The AWA agent handles customer interactions and manages workload across multiple [[awa-service-channels|service channels]].
+The AWA agent handles customer interactions and manages workload across multiple service channels.
 
 ## Contains Roles
 
@@ -33,6 +33,3 @@ None.
 
 None.
 
-## Related
-
-- [[awa-service-channels|Service channels]]

@@ -14,11 +14,11 @@ breadcrumb: [Dependency Views, Configuration Management Database \(CMDB\), Confi
 
 # Dependency Views map
 
-ServiceNow® [[c_BusinesssServiceManagementMaps|Dependency Views]] maps graphically display CIs that support application or business services and the relationships between the CIs.
+ServiceNow® Dependency Views maps graphically display CIs that support application or business services and the relationships between the CIs.
 
-The [CMDB Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-workspace.md)and [Service Graph Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/sg-workspace.md) store apps provide the [Unified Map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/cmdb-workspace-unified-map.md) feature as an alternative to using Dependency Views. [[cmdb-workspace-unified-map|Unified Map]] combines the capabilities of Dependency Views and [Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/c_ServiceMappingOverview.md) into a single map experience.
+The [CMDB Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-workspace.md)and [Service Graph Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/sg-workspace.md) store apps provide the [Unified Map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/cmdb-workspace-unified-map.md) feature as an alternative to using Dependency Views. Unified Map combines the capabilities of Dependency Views and [Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/c_ServiceMappingOverview.md) into a single map experience.
 
-A ServiceNow service \(application service or business service\) is work or goods that are supported by an IT infrastructure. For example, delivering [[email|email]] service to an employee can require services such as email servers, web servers, and the work to configure the user's account.
+A ServiceNow service \(application service or business service\) is work or goods that are supported by an IT infrastructure. For example, delivering email service to an employee can require services such as email servers, web servers, and the work to configure the user's account.
 
 A Dependency Views map has one starting point, called the root CI or root node of the map. The root CI is surrounded by a darker frame that repaints itself with a pulsing effect drawing the attention to the root CI. The maps can show both upstream and downstream dependencies for the root CI. By default the Dependency Views map displays 3 levels, both upstream and downstream relationships. Administrators can configure the number of levels displayed. The map collapses and expands clusters to make them easier to view. By default, clusters are collapsed.
 
@@ -38,8 +38,3 @@ When you click the map icon \[\[Omitted image "IconBSMMap.png"\] Alt text: Displ
 
 Users with the itil and ecmdb\_admin roles can view maps and perform all actions in the map. Actions include access to the map views and saved filters, both from the lists in the map and from the **Saved Filters** module.
 
-## Related
-
-- [[c_BusinesssServiceManagementMaps|Dependency Views]]
-- [[cmdb-workspace-unified-map|Unified Map]]
-- [[email|Email]]

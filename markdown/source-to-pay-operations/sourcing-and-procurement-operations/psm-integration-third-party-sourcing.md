@@ -14,7 +14,7 @@ breadcrumb: [Integrate, Sourcing and Procurement Operations, Finance and Supply 
 
 # Sourcing and Procurement Operations integration with third-party sourcing solutions
 
-ServiceNow can integrate with third-party sourcing solutions to automate the sourcing process within the [[psm-overview|Sourcing and Procurement Operations]] product. A generic, easily configurable sourcing integration framework is provided within [[source-to-pay-integration-framework|Source-to-Pay Integration Framework]] to enable you to specify the business criteria for triggering an integration. This integration framework can also integrate with multiple third-party sourcing solutions based on different criteria.
+ServiceNow can integrate with third-party sourcing solutions to automate the sourcing process within the Sourcing and Procurement Operations product. A generic, easily configurable sourcing integration framework is provided within Source-to-Pay Integration Framework to enable you to specify the business criteria for triggering an integration. This integration framework can also integrate with multiple third-party sourcing solutions based on different criteria.
 
 Customers can either build the connector to that third-party tool or find one in the ServiceNow store.
 
@@ -26,12 +26,12 @@ To learn about the integration tables, see [Integration tables for third-party s
 
 ## Third-party sourcing integration process
 
--   If an integration is triggered, considering that applicable business criteria are defined in the decision table, and a request for [[pricing|pricing]] initiated by a shopper in ShoppingHub meets the criteria, one or more sourcing requests within a single purchase are automatically grouped into a single sourcing event. These are systematically created in the [[purchase-experience-workflow|Sourcing and Purchasing Automation]] application.
--   When the negotiation setup playbook is complete, and the sourcing event is in the Work in Progress state, with the associated [[negotiations|negotiations]], sourcing requests, [[purchase-lines|purchase lines]], cases, and tasks in the Negotiation in Progress state, relevant data is populated in the Sourcing Outbound Queue, Sourcing Line Outbound Queue, and Sourcing Event Outbound Queue tables. This data can then be processed by the third-party solution accordingly, to initiate an RFx in their platform. Sourcing event is also created for the integrated [[sourcing-request|sourcing request]].
+-   If an integration is triggered, considering that applicable business criteria are defined in the decision table, and a request for pricing initiated by a shopper in ShoppingHub meets the criteria, one or more sourcing requests within a single purchase are automatically grouped into a single sourcing event. These are systematically created in the Sourcing and Purchasing Automation application.
+-   When the negotiation setup playbook is complete, and the sourcing event is in the Work in Progress state, with the associated negotiations, sourcing requests, purchase lines, cases, and tasks in the Negotiation in Progress state, relevant data is populated in the Sourcing Outbound Queue, Sourcing Line Outbound Queue, and Sourcing Event Outbound Queue tables. This data can then be processed by the third-party solution accordingly, to initiate an RFx in their platform. Sourcing event is also created for the integrated sourcing request.
 
     **Note:** After a sourcing request is created and posted to the Sourcing Outbound Queue table, the third-party tool that is responsible for processing that sourcing request is identified and stored in the **Third party tool name** field.
 
--   A system property for the [[supplier|supplier]] responses close date \(sn\_spend\_intg.u\_bids.end.date\) sets the **Supplier responses close** field value on the sourcing event and sourcing requests to after the sourcing event has been created, plus the number of days defined. The default value is three days. The sourcing manager can override this value manually when updating this field on the sourcing event record.
+-   A system property for the supplier responses close date \(sn\_spend\_intg.u\_bids.end.date\) sets the **Supplier responses close** field value on the sourcing event and sourcing requests to after the sourcing event has been created, plus the number of days defined. The default value is three days. The sourcing manager can override this value manually when updating this field on the sourcing event record.
 
     **Note:** A schedule job can be set up in the ServiceNow instance to check if the supplier responses close date has been reached \(aka today\). When done, ServiceNow stops receiving bids from suppliers and moves all individual supplier negotiations within the sourcing event to the Pricing Obtained state, and then to Requires Decision. The sourcing manager or fulfiller can then award a supplier with the business. The timestamp of the supplier responses close date is 23:59:59 of the day the bids close, in UTC date/time format. As the sourcing manager, you can also decide to close the bids now, with the date and timestamp of now, and proceed with the awarding flow without any wait time.
 
@@ -46,7 +46,7 @@ To learn about the integration tables, see [Integration tables for third-party s
 -   Suppliers are invited to participate in a bid and engage through the third-party application platform.
 -   When quotes are returned, the Sourcing Bid Stage table is populated by the third-party solution and the information is processed internally within ServiceNow using a transform map to populate the purchase lines on the sourcing request.
 
-    **Note:** When an RFx is created or awarded in the third-party tool, shoppers and sourcing managers are notified through emails and alerts from [[shopping-hub-overview|Shopping Hub]] and [[purch-order-mgmt-ws|Source-to-Pay Workspace]] respectively. Shoppers and sourcing managers are also notified about rejected bids, irrespective of the integration.
+    **Note:** When an RFx is created or awarded in the third-party tool, shoppers and sourcing managers are notified through emails and alerts from Shopping Hub and Source-to-Pay Workspace respectively. Shoppers and sourcing managers are also notified about rejected bids, irrespective of the integration.
 
 -   If additional supplier bids are returned from the third-party solution, an existing logic in ServiceNow determines if a new supplier, supplier product record, or both must be created.
 -   After awarding is done in ServiceNow, that information is sent back to the third party using the Awarded Supplier Outbound Queue table. Awarding can also be done in the third-party tool, in which case the data is received by ServiceNow.
@@ -58,7 +58,7 @@ The Sourcing Event Generation Rule decision table in Sourcing and Procurement Op
 -   **[Integration tables for third-party sourcing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/integ-tables-third-party-sourcing.md)**  
 Integration tables are used to interact with the third-party sourcing application. Relevant information that is required to conduct a Request for anything \(RFx\) in the third-party application is staged within ServiceNow and transferred through APIs to the third-party application.
 -   **[Submit multi-product sourcing requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/multi-product-sourcing-intake-with-third-party-integration.md)**  
-Requesters can submit sourcing requests with multiple products in a single sourcing intake form. When a sourcing request form contains multiple products, the third-party sourcing solution automatically creates individual [[negotiation-events|sourcing events]] for each product.
+Requesters can submit sourcing requests with multiple products in a single sourcing intake form. When a sourcing request form contains multiple products, the third-party sourcing solution automatically creates individual sourcing events for each product.
 -   **[Manage third-party RFx tasks in Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/third-party-rfx-task-management-for-requestors.md)**  
 Requesters can view and manage third-party Request for anything \(RFx\) tasks in the Employee Center and navigate to the third-party sourcing tool to review, publish, and award RFx.
 
@@ -87,16 +87,3 @@ Requesters can view and manage third-party Request for anything \(RFx\) tasks in
 
 [Procurement File Transfer Framework]()
 
-## Related
-
-- [[psm-overview|Sourcing and Procurement Operations]]
-- [[source-to-pay-integration-framework|Source-to-Pay integration framework]]
-- [[pricing|Pricing]]
-- [[purchase-experience-workflow|Sourcing and Purchasing Automation]]
-- [[negotiations|Negotiations]]
-- [[purchase-lines|Purchase lines]]
-- [[sourcing-request|Sourcing request]]
-- [[supplier|Supplier]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[negotiation-events|Sourcing events]]

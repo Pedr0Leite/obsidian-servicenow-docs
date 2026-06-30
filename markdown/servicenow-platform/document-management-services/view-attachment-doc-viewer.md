@@ -14,7 +14,7 @@ breadcrumb: [Document Viewer, Document Services, Manage content capabilities, Ex
 
 # View attachments with Document Viewer
 
-View documents within the platform using [[Documentviewer|Document Viewer]] rather than having to download them to your own file system.
+View documents within the platform using Document Viewer rather than having to download them to your own file system.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Document Viewer supports inline viewing of certain [document types](https://raw.
 
 ## Procedure
 
-1.  Navigate to a record \(incident, form, list, and so on\) with an [[attachment|attachment]].
+1.  Navigate to a record \(incident, form, list, and so on\) with an attachment.
 
 2.  Click View next to the file attachment name.
 
@@ -47,7 +47,3 @@ Document Viewer supports inline viewing of certain [document types](https://raw.
 
 [Enable Document Viewer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/enable-document-viewer.md)
 
-## Related
-
-- [[Documentviewer|Document Viewer]]
-- [[attachment|Attachment]]

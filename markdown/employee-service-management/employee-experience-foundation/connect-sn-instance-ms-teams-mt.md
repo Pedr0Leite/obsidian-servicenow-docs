@@ -36,12 +36,9 @@ Role required: External admin \(external\_app\_install\_admin\)
 
     -   Maintain access to data that you have given access to
     -   Sign in and read user profiles
-    -   Sent a teamwork [[activity-lxp|activity]] to any user
+    -   Sent a teamwork activity to any user
     When the apps are successfully installed, the page displays the details of the tenant and available Azure Apps to authorize.
 
 
 **Parent Topic:**[Setup for integrating pre-published apps with Microsoft Teams for Employee Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/c_employee_ex_tnt.md)
 
-## Related
-
-- [[activity-lxp|Activity]]

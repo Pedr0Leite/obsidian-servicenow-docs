@@ -57,8 +57,5 @@ Set the inactivity period \(in days\) after which an interaction is closed if no
 -   Location: **All****&gt; System Properties****&gt; All Properties**.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[setup-configurable-wfo-cs|Optimize workforce operations]]
+</table>**Parent Topic:**[Optimize workforce operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/setup-configurable-wfo-cs.md)
 
-## Related
-
-- [[setup-configurable-wfo-cs|Optimize workforce operations]]

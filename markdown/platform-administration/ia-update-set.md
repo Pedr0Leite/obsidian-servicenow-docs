@@ -16,14 +16,14 @@ Upload a batch update set to promote validated configuration changes from a non-
 
 ## Before you begin
 
-Before performing this task you must install [[ia-landing|Setup Hub]] application from [ServiceNow store](https://store.servicenow.com/store/app/9d063fc34704cf10f43984f8736d43b5) or from the prompt on the Admin Home page.
+Before performing this task you must install Setup Hub application from [ServiceNow store](https://store.servicenow.com/store/app/9d063fc34704cf10f43984f8736d43b5) or from the prompt on the Admin Home page.
 
 This application is available to all users with Foundation SKUs for ITSM, CBS, ITOM, and ESM, and Pro+ SKUs for ITSM and HRSD.
 
 The following conditions should be met:
 
--   Preset and manual [[clone-configurations-tab|configurations]] are completed and verified in the non-production instance.
--   The batch update set is packaged in the non-production instance, and the XML file is downloaded. These update set files are then uploaded in the production instances. See [[ia-configure-il|Understand the Configuration page flow in Setup Hub]] for more information.
+-   Preset and manual configurations are completed and verified in the non-production instance.
+-   The batch update set is packaged in the non-production instance, and the XML file is downloaded. These update set files are then uploaded in the production instances. See [Understand the Configuration page flow in Setup Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-configure-il.md) for more information.
 -   The production instance version is compatible with the source non-production instance.
 
 The following task is performed on a production instance only after the above conditions are met:
@@ -76,7 +76,7 @@ Role required: admin
 
     The list of errors shows up under the Preview Problems for Batch related list.
 
-8.  Select any of the [[app-installation|available actions]] to resolve the errors.
+8.  Select any of the available actions to resolve the errors.
 
     **Note:** This step is applicable only if there are any errors in the update set batch file. You are then required to resolve the errors in the batch file and then proceed with the **Commit Update Set Batch** option. The **Commit Update Set Batch** option appears once the errors are resolved in the batch file.
 
@@ -93,12 +93,5 @@ Role required: admin
 
 These steps complete the successful uploading and committing of the update set batch file.
 
-**Parent Topic:**[[ia-administer|Administer Setup Hub]]
+**Parent Topic:**[Administer Setup Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-administer.md)
 
-## Related
-
-- [[ia-configure-il|Understand the Configuration page flow in Setup Hub]]
-- [[ia-administer|Administer Setup Hub]]
-- [[ia-landing|Setup Hub]]
-- [[clone-configurations-tab|Configurations]]
-- [[app-installation|Available actions]]

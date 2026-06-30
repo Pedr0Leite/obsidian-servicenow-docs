@@ -26,13 +26,13 @@ Roles required: sn\_cmdb\_user for access to the CMDB Workspace and sn\_sec\_spc
 
     This is a configurable value on the property that specifies whether all configuration items listed in your CMDB or Asset Cache table have unique names.
 
-    See [[spc-using-dedup-template|Resolving duplicate configuration items in Security Posture Control]] for more information about how to identify duplicate CIs.
+    See [Resolving duplicate configuration items in Security Posture Control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-using-dedup-template.md) for more information about how to identify duplicate CIs.
 
 3.  Select the record to open it and set the Value field to **true**.
 
 4.  Update the record.
 
-5.  Navigate to **CMDB Workspace** &gt; **Management** and select the De-duplication template library link under Management [[tools|tools]] on the right.
+5.  Navigate to **CMDB Workspace** &gt; **Management** and select the De-duplication template library link under Management tools on the right.
 
     **Note:** The sn\_cmdb\_user role is required for access to the CMDB Workspace.
 
@@ -74,7 +74,4 @@ Roles required: sn\_cmdb\_user for access to the CMDB Workspace and sn\_sec\_spc
 
     If you find any duplicates, run the Generate deduplication task scheduled job again.
 
-## Related
 
-- [[spc-using-dedup-template|Resolving duplicate configuration items in Security Posture Control]]
-- [[tools|Tools]]

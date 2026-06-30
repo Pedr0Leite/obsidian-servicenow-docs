@@ -20,23 +20,23 @@ Work with Card view to reserve a space or raise a workplace service request. Fil
 
 Make sure to activate and configure the following plugins:
 
--   [[workplace-safety-mgmt-hr|Workplace Core]]
--   [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] \(Optional\)
+-   Workplace Core
+-   Workplace Reservation Management \(Optional\)
 
     Filter and display reservation status for a selected location on the Location directory.
 
--   [[workplace-connectors-landing-page|Workplace Connectors]] \(Optional\)
+-   Workplace Connectors \(Optional\)
 
     Filter and display occupancy status for a selected location on the Location directory.
 
--   [[Indoor-mapping|Indoor Mapping]]
--   [[wsm-mappedin-admin|Workplace Space Mapping]]
+-   Indoor Mapping
+-   Workplace Space Mapping
 
 Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **[[workplace-services|Workplace Services]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center** &gt; **Workplace Services**.
 
 2.  From the **Workplace Services** list, select **Browse Workplaces** &gt; **Support resources** &gt; **Location Directory**.
 
@@ -175,12 +175,3 @@ Role required: admin
 
 [Work with the Map view on the Location Directory]()
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-connectors-landing-page|Workplace Connectors]]
-- [[Indoor-mapping|Indoor Mapping]]
-- [[wsm-mappedin-admin|Workplace Space Mapping]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-services|Workplace Services]]

@@ -14,7 +14,7 @@ breadcrumb: [API Notification Management, Product Support for Technology]
 
 # Using API Notification Management
 
-Learn to use the [[api-notif-landing-page|API Notification Management]] application.
+Learn to use the API Notification Management application.
 
 -   **[Producing outbound API notifications using Hermes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/hermes-stream-connect-kafka-workflow.md)**  
 Produce an outbound notification from the ServiceNow instance using the Hermes capability. Customers can consume the details of the message from the Kafka environment in their external system.
@@ -27,6 +27,3 @@ Disable the business rules related to the incident and case tables to stop recei
 
 **Parent Topic:**[API Notification Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/api-notif-landing-page.md)
 
-## Related
-
-- [[api-notif-landing-page|API Notification Management]]

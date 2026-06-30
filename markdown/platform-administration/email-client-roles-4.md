@@ -12,7 +12,7 @@ breadcrumb: [Components installed with the email client, Email client, Notificat
 
 # Read/write role for email client templates \[email\_client\_template\_write\]
 
-Reads and writes [[c_EnableTheEmailClient|email client]] templates.
+Reads and writes email client templates.
 
 ## Contains Roles
 
@@ -28,6 +28,3 @@ None.
 
 **Note:** Grant this role with care, as it is a special-privileged role that includes scripting capabilities.
 
-## Related
-
-- [[c_EnableTheEmailClient|Email client]]

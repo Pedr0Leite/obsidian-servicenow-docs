@@ -14,11 +14,11 @@ breadcrumb: [Reference, Workplace Central, Workplace Service Delivery, Employee 
 
 # Space request approvals, states, actions, and key features
 
-As a space planner, execute the space allocation requests raised in the organization using the [[workplace-central-feat|Workplace Central]] [[space-optimization|Space Optimization]] dashboard. Using the Workplace Central Space Optimization dashboard to avoid multiple tasks about checking the availability, allocating spaces manually, and other process involved while [[space-planning|space planning]].
+As a space planner, execute the space allocation requests raised in the organization using the Workplace Central Space Optimization dashboard. Using the Workplace Central Space Optimization dashboard to avoid multiple tasks about checking the availability, allocating spaces manually, and other process involved while space planning.
 
 ## Functionality
 
-The [[workplace-services-portal-hr|Workplace Service Portal]] enables workplace managers and other workplace users to raise a space recommendation request by specifying their requirements. The application generates various space plan options based on their specifications. When a space request is submitted, a workplace case is created in the application. The Workplace Central Space Optimization makes it easy for you, as a space planner to view only those workplace cases specifically generated from a space request.
+The Workplace Service Portal enables workplace managers and other workplace users to raise a space recommendation request by specifying their requirements. The application generates various space plan options based on their specifications. When a space request is submitted, a workplace case is created in the application. The Workplace Central Space Optimization makes it easy for you, as a space planner to view only those workplace cases specifically generated from a space request.
 
 As a space planner, you only have a few actions to perform to deploy a space plan. The application applies various algorithms on the location specified by the requester and generates multiple space plan options. The requester is provided with these space plan options to make a selection and submit. This pre-planning of space allocation makes it easier for you, as a space planner to deploy the space plan.
 
@@ -31,7 +31,7 @@ On the Space Optimization dashboard, you can view space requests using any one o
 
 ## Approvals
 
-If a space assist request requires approval, you can approve them using the [[workplace-safety-mgmt-hr|Workplace Core]] approval configuration. You can [[approve-a-space-assist-request|approve a space assist request]] of only those users to whom you are assigned as a manager.
+If a space assist request requires approval, you can approve them using the Workplace Core approval configuration. You can approve a space assist request of only those users to whom you are assigned as a manager.
 
 ## Space request views
 
@@ -44,13 +44,13 @@ When you open a space request workplace case, a separate tab is opened with vari
     1.  **Workplace case and Variables**: In the first panel, the Workplace case details and the variables provided by the requester is detailed.
         -   In the Workplace Case section, you can view the description of the request. You can also assign the space request to another assignment group or a user using the **Assignment group** and **Assigned to** field.
         -   In the Variables, section, you can view all the details specified on the form by the requester.
-    2.  **Compose and [[activity-lxp|Activity]]**: In the second panel, you can add comments and activities performed on the space request since its creation.
+    2.  **Compose and Activity**: In the second panel, you can add comments and activities performed on the space request since its creation.
         -   In the Compose section, you can add comments and work notes in the request. Comments are also displayed to the requester whereas work notes are displayed only to the space planners working on the space request.
         -   In the Activity section, you can view all the details related to the actions performed on the space request, such as state changes, approvals, work notes and all.
     3.  **Attachments and Templates**: In the third panel, you can select two different views, that is, view or add attachments or view workplace case templates. You can select these options using the extreme right panel.
 -   **Space plan**
 
-    In the **Space plan** tab you can view the space plan option that is selected by the requester. You can also see the space plan on the floor map. The floor map is visible only if the floor has a floor map configured using the Workplace [[Indoor-mapping|Indoor Mapping]] application and if you have installed the Indoor mapping component.
+    In the **Space plan** tab you can view the space plan option that is selected by the requester. You can also see the space plan on the floor map. The floor map is visible only if the floor has a floor map configured using the Workplace Indoor Mapping application and if you have installed the Indoor mapping component.
 
     -   The space plan also displays high-level information of the floor, building, and campus involved in the form of pills.
     -   The space plan provides detailed information of the spaces, floor, building, campus, site, and the region which is used for the allocation.
@@ -60,11 +60,11 @@ When you open a space request workplace case, a separate tab is opened with vari
 
     In the **Approvals** tab, you can view the approver details of the space request.
 
--   **[[space-deployment-plan|Space Deployment plan]]**
+-   **Space Deployment plan**
 
     The **Space Deployment plan** displays the detailed information related to the allocation, the floor where the space is allocated, the type of change made in the plan, the current value and the scenario value. When you deploy the space plan, a workplace case is created and executed for each allocation. Until all the workplace cases are in progress, the deployment is not considered as done.
 
--   **[[user-deployment-plan|User Deployment plan]]**
+-   **User Deployment plan**
 
     The **User Deployment plan** displays the detailed information related to the neighbourhood user assignment-related changes if the scenario is grouped by neighbourhood.
 
@@ -135,15 +135,3 @@ A space request has the following states:
 
 [User Workplace Profile form]()
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]
-- [[space-optimization|Space Optimization]]
-- [[space-planning|Space Planning]]
-- [[workplace-services-portal-hr|Workplace Service Portal]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[approve-a-space-assist-request|Approve a space assist request]]
-- [[activity-lxp|Activity]]
-- [[Indoor-mapping|Indoor Mapping]]
-- [[space-deployment-plan|Space Deployment Plan]]
-- [[user-deployment-plan|User Deployment Plan]]

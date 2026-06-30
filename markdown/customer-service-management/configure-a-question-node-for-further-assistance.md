@@ -47,12 +47,6 @@ Role required: admin, sn\_gd\_core.decision\_tree\_author
 
 Do the following steps to add the next guidance node:
 
-1.  Configure a path with the condition "Do you need further assistance? \| is \| Yes". For more information and example, see [[configure-path-in-gdb|Determine the next node displayed in a decision tree]] and [[configuring-paths-for-next-nodes|Configuring paths with conditions whether the amount is debited or not]].
-2.  Add a guidance node and associate the More options guidance to the Yes path. For more information and example, see [[configure-guidance-in-gdb|Provide actions to agents in a decision tree]] and [[configure-guidance-node-initiate-transaction-tracking|Configure a guidance node to initiate the transaction tracking]].
+1.  Configure a path with the condition "Do you need further assistance? \| is \| Yes". For more information and example, see [Determine the next node displayed in a decision tree](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-path-in-gdb.md) and [Configuring paths with conditions whether the amount is debited or not](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configuring-paths-for-next-nodes.md).
+2.  Add a guidance node and associate the More options guidance to the Yes path. For more information and example, see [Provide actions to agents in a decision tree](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-guidance-in-gdb.md) and [Configure a guidance node to initiate the transaction tracking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-guidance-node-initiate-transaction-tracking.md).
 
-## Related
-
-- [[configure-path-in-gdb|Determine the next node displayed in a decision tree]]
-- [[configuring-paths-for-next-nodes|Configuring paths with conditions whether the amount is debited or not]]
-- [[configure-guidance-in-gdb|Provide actions to agents in a decision tree]]
-- [[configure-guidance-node-initiate-transaction-tracking|Configure a guidance node to initiate the transaction tracking]]

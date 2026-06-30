@@ -14,7 +14,7 @@ breadcrumb: [Reference, Telecommunications Network Inventory]
 
 # Add or Remove member to Link Aggregation form
 
-The Add/Remove member to Link Aggregation form enables you to create, review, and modify the network asset details for Link Aggregation Group \(LAG\) connection in the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+The Add/Remove member to Link Aggregation form enables you to create, review, and modify the network asset details for Link Aggregation Group \(LAG\) connection in the Telecommunications Network Inventory application.
 
 <table id="table_r53_swg_rzb"><thead><tr><th>
 
@@ -120,6 +120,3 @@ Interface Z of the selected LAG. Add or remove to modify the member interface Z 
 
 [Add or remove a member to Link Aggregation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-a-change-request-to-add-or-remove-member-to-link-aggregation.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]

@@ -18,7 +18,7 @@ Create a record for a specific instance of a product.
 
 Role required: sn\_customerservice\_manager or admin
 
-[[c_CustomerServiceManagement|Customer Service Management]] leverages the Asset Management application to create and maintain assets. Ensure that the Asset Management plugin \(com.snc.asset\_management\) is activated.
+Customer Service Management leverages the Asset Management application to create and maintain assets. Ensure that the Asset Management plugin \(com.snc.asset\_management\) is activated.
 
 ## Procedure
 
@@ -33,11 +33,8 @@ Role required: sn\_customerservice\_manager or admin
     -   Consumable
     -   License
     -   Facility
-4.  Fill in the fields for the selected asset type on the [[customer-service-asset-form|Asset form]], as appropriate.
+4.  Fill in the fields for the selected asset type on the [Asset form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-asset-form.md), as appropriate.
 
 5.  Click **Submit**.
 
-## Related
 
-- [[customer-service-asset-form|Asset form]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

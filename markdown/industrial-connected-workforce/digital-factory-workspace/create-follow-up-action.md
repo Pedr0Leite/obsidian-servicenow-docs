@@ -14,11 +14,11 @@ breadcrumb: [Action Management, Industrial Workflows, Use, Digital Factory Works
 
 # Create a follow-up action
 
-Create a follow-up action from a task in the [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]].
+Create a follow-up action from a task in the Digital Factory Workspace.
 
 ## Before you begin
 
-You can create a follow-up action from an existing action, deviation, breakdown, or [[industrial-root-cause-analysis|root cause analysis]].
+You can create a follow-up action from an existing action, deviation, breakdown, or root cause analysis.
 
 Role required: sn\_icw.action\_user or sn\_icw.action\_expert
 
@@ -42,7 +42,7 @@ Role required: sn\_icw.action\_user or sn\_icw.action\_expert
     -   Urgency
     -   Priority
     -   Due date
-4.  On the [[action-form|Action form]], fill in or change the values for the fields.
+4.  On the Action form, fill in or change the values for the fields.
 
     For a description of the field values, see [Action form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/action-form.md).
 
@@ -55,8 +55,3 @@ The new action is displayed in the **Related** list of the origin task. Closing 
 
 **Parent Topic:**[Action Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/industrial-action-management.md)
 
-## Related
-
-- [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]
-- [[industrial-root-cause-analysis|Root Cause Analysis]]
-- [[action-form|Action form]]

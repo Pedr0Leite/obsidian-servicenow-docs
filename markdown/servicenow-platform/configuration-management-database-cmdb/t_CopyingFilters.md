@@ -22,11 +22,11 @@ Role required: none
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Configuration** &gt; **[[ci-class-manager-landing-page|CI Class Manager]]**, and:
+1.  Navigate to **All** &gt; **Configuration** &gt; **CI Class Manager**, and:
 
     1.  Click **Hierarchy** to display the CI Classes list.
 
-        Select the class to [[t_CreatingFilters|create a filter]] for.
+        Select the class to create a filter for.
 
     2.  In the class navigation bar, expand **Health** and select **Compliance**.
 
@@ -35,7 +35,7 @@ Role required: none
 2.  Or, navigate to one of these modules:
 
     -   **Compliance** &gt; **Filters**
-    -   **[[c_DataCertification|Data Certification]]** &gt; **Schedules** &gt; **[[c_CertificationFilters|Certification Filters]]**
+    -   **Data Certification** &gt; **Schedules** &gt; **Certification Filters**
 3.  Open the filter record that you want to copy.
 
 4.  Make sure to change the filter name or description to distinguish the new filter from the original.
@@ -46,9 +46,4 @@ Role required: none
 
     The system increments the record number and sets the version to 1 for the new record. Both the original filter and the copy are Active and appear in the record list. Showing all copies of a filter allows you to see the entire history of the filter.
 
-## Related
 
-- [[ci-class-manager-landing-page|CI Class Manager]]
-- [[t_CreatingFilters|Create a filter]]
-- [[c_DataCertification|Data Certification]]
-- [[c_CertificationFilters|Certification filters]]

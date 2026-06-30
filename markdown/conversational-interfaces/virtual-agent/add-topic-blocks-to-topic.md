@@ -18,7 +18,7 @@ Add a reusable topic block to a calling \(parent\) topic or topic block to run a
 
 ## Before you begin
 
-Review the topic blocks available on the home page in [[virtual-agent-landing-page|Virtual Agent]]. You can [create a new topic block](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-topic-blocks.md). You can also use a pre-built topic block, duplicate it, and customize it. Pre-built topic blocks are installed automatically with the Glide Virtual Agent plugin, as well as the [Virtual Agent conversation plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/prebuilt-topics-ITSM.md) for Customer Service [[management|Management]], HR Service Delivery, and ITSM.
+Review the topic blocks available on the home page in Virtual Agent. You can [create a new topic block](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-topic-blocks.md). You can also use a pre-built topic block, duplicate it, and customize it. Pre-built topic blocks are installed automatically with the Glide Virtual Agent plugin, as well as the [Virtual Agent conversation plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/prebuilt-topics-ITSM.md) for Customer Service Management, HR Service Delivery, and ITSM.
 
 Verify that the topic block you want to use is published and active.
 
@@ -33,7 +33,7 @@ You can specify the following types of variables:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Virtual Agent** &gt; **Designer**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Designer**.
 
 2.  On the home page, select the calling topic or topic block in which you will include the topic block.
 
@@ -41,7 +41,7 @@ You can specify the following types of variables:
 
 3.  Depending on the type of topic block you are adding, add the appropriate Virtual Agent controls \(nodes\) to the conversation.
 
-    For example, if you are adding the Contextual Search topic block, you could add the [[va-text-input|Text user input control]] to request an item from the user. Drag that control before the node for the Contextual Search topic block.
+    For example, if you are adding the Contextual Search topic block, you could add the Text user input control to request an item from the user. Drag that control before the node for the Contextual Search topic block.
 
 4.  From the Utilities section of the palette, drag the Topic Block control onto the canvas at the appropriate location in the conversation flow.
 
@@ -61,9 +61,4 @@ You can specify the following types of variables:
 
 9.  If no further changes are needed, select **Publish** in the header bar.
 
-## Related
 
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[management|Management]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[va-text-input|Text user input control]]

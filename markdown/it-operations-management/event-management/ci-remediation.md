@@ -14,9 +14,9 @@ breadcrumb: [Manage and monitor alerts, Configuring Event Management, Event Mana
 
 # CI Remediation
 
-Alert and configuration item \(CI\) remediations help troubleshoot and resolve underlying problems that generate alerts. [[ccg-remediation|Remediation]] is based on Orchestration workflows that can be scripted to perform remediation tasks such as gathering system information or rebooting a server.
+Alert and configuration item \(CI\) remediations help troubleshoot and resolve underlying problems that generate alerts. Remediation is based on Orchestration workflows that can be scripted to perform remediation tasks such as gathering system information or rebooting a server.
 
-[[c_EM|Event Management]] provides a framework for configuring and implementing a system-wide remediation plan to resolve, minimize, or prevent problems that generate events and alerts. Configure alert management rules to remediate alerts and CI remediation rules to remediate a set of CIs.
+Event Management provides a framework for configuring and implementing a system-wide remediation plan to resolve, minimize, or prevent problems that generate events and alerts. Configure alert management rules to remediate alerts and CI remediation rules to remediate a set of CIs.
 
 ## Alert remediation
 
@@ -42,7 +42,3 @@ Event Management automatically creates a remediation task to capture every remed
 
 [Migrate an alert action rule to an alert management rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMCreateAlertRule.md)
 
-## Related
-
-- [[ccg-remediation|Remediation]]
-- [[c_EM|Event Management]]

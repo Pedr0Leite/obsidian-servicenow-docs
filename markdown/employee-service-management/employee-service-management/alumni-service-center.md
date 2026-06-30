@@ -25,11 +25,11 @@ The Alumni Center portal provides the following benefits to the alumni and organ
     -   Maintain relationships with former employees, making it easier to rehire skilled talent when needed.
     -   Reduce recruitment costs and shortens onboarding time, as returning employees are already familiar with company processes.
     -   Enhance organization's brand and networking by offering a structured alumni experience, and creating a positive impression even after employees leave.
-    -   Access to a broader and pre-qualified [[talent-pool-overview|talent pool]] through job listings and personalized recommendations offered in the alumni portal.
+    -   Access to a broader and pre-qualified talent pool through job listings and personalized recommendations offered in the alumni portal.
 
 ## Content analytics
 
-The Alumni Center provides a separate [[ecpro-content-automation-analytics|content analytics]] tracking profile. For more information, see [Create a Content Analytics tracking profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-content-analytics-setup.md).
+The Alumni Center provides a separate content analytics tracking profile. For more information, see [Create a Content Analytics tracking profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-content-analytics-setup.md).
 
 ## Employee to alumni transition
 
@@ -83,7 +83,3 @@ For additional information, see the [DEF1000205 \| HR User \[KB1125071\]](https:
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[talent-pool-overview|Talent pool]]
-- [[ecpro-content-automation-analytics|Content Analytics]]

@@ -14,7 +14,7 @@ breadcrumb: [Comparing replicated data, Administer, Instance Data Replication, M
 
 # Reseed missing or mismatched records in Instance Data Replication
 
-Synchronize data between instances by reseeding records missing from the consumer instance or mismatched records between the producer and consumer instance in [[instance-data-replication|Instance Data Replication]] \(IDR\).
+Synchronize data between instances by reseeding records missing from the consumer instance or mismatched records between the producer and consumer instance in Instance Data Replication \(IDR\).
 
 ## Before you begin
 
@@ -53,6 +53,3 @@ If records are still missing or mismatched, contact Customer Service and Support
 
 **Parent Topic:**[Comparing replicated data between instances in Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/comparing-replicated-data.md)
 
-## Related
-
-- [[instance-data-replication|Instance Data Replication]]

@@ -14,7 +14,7 @@ breadcrumb: [Employee Center for IT Service Management, Unified Employee Experie
 
 # Configuring Employee Center for ITSM
 
-Leverage [[employee-center-landing-page|Employee Center]] for ITSM to provide an integrated and seamless experience to the employees, agents, and service managers.
+Leverage Employee Center for ITSM to provide an integrated and seamless experience to the employees, agents, and service managers.
 
 ## Configuration overview for Employee Center
 
@@ -39,16 +39,12 @@ Leverage [[employee-center-landing-page|Employee Center]] for ITSM to provide an
 
 -   [Employee Center Pro admin configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/configure-ecpro-portal.md)
 
-    Set up the [[employee-center-pro-landing|Employee Center Pro]] portal to leverage its functionalities.
+    Set up the Employee Center Pro portal to leverage its functionalities.
 
 -   [Setup Employee Center Pro task management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-setup-task-management.md)
 -   Provide enhanced task management functionalities like Approval hub for a consolidated place for all your approval requests for different task manager personas.
 -   [Setup employee communications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-employee-comms.md)
 
-    Create dynamic content and enhance communication with different personas with functioanlities like [[ec-content-engagement|Content engagement]] and Rich Content Editor.
+    Create dynamic content and enhance communication with different personas with functioanlities like Content engagement and Rich Content Editor.
 
-## Related
 
-- [[employee-center-landing-page|Employee Center]]
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[ec-content-engagement|Content engagement]]

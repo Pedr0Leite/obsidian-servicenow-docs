@@ -20,7 +20,7 @@ The AjaxEvaluator processor executes these scripts in sandbox however there are 
 
 Ensure that the **glide.script.allow.ajaxevaluate** system property is set to **false**.
 
-Elevation to the [[security-admin-role|security\_admin role]] is required to edit the property.
+Elevation to the security\_admin role is required to edit the property.
 
 **Warning:** This is a safe harbor property, meaning the value can't be altered once it's changed. It is non-revertible.
 
@@ -36,7 +36,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -48,7 +48,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -119,8 +119,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Validation, sanitization, and encoding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/validation-sanitization-encoding.md)
 
-## Related
-
-- [[security-admin-role|Security\_admin role]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

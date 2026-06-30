@@ -14,7 +14,7 @@ breadcrumb: [Use, Time configuration, Configure core features, Administer the Se
 
 # Create schedule entries in the Schedule calendar
 
-Add events such as meeting, time-off, or appointment to display them in the [[schedule-calendar|schedule calendar]].
+Add events such as meeting, time-off, or appointment to display them in the schedule calendar.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ A calendar view displays events for a specified time period. A time line view di
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Scheduler** &gt; **[[c_UseSchedules|Schedules]]** &gt; **Schedules**.
+1.  Navigate to **All** &gt; **System Scheduler** &gt; **Schedules** &gt; **Schedules**.
 
 2.  Select a schedule.
 
@@ -72,7 +72,3 @@ A calendar view displays events for a specified time period. A time line view di
 
 **Parent Topic:**[Using time configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/using-time-configuration.md)
 
-## Related
-
-- [[schedule-calendar|Schedule calendar]]
-- [[c_UseSchedules|Schedules]]

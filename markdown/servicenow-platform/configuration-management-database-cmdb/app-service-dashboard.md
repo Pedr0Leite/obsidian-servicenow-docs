@@ -31,7 +31,7 @@ The Service instance dashboard is fully integrated into the [Insights view in CM
 1.  Follow either navigation step to access the Service instance dashboard:
 
     -   Navigate to **Workspaces** &gt; **CMDB Workspace** and then select **Insights** on the CMDB Workspace menu bar. On the Insights view, select the Application services tile.
-    -   Navigate to **Workspaces** &gt; **[[sg-workspace|Service Graph Workspace]]**. Then, on the navigation panel select the Insights icon, and in the Insights navigation panel select **Service instances**.
+    -   Navigate to **Workspaces** &gt; **Service Graph Workspace**. Then, on the navigation panel select the Insights icon, and in the Insights navigation panel select **Service instances**.
     -   Navigate to **All** &gt; **CSDM** &gt; **Service instance dashboard**.
 2.  View the tiles on the Overview tab, which show application services in which basic configurations are incomplete.
 
@@ -69,6 +69,4 @@ Update Service instances with any missing important details:
 
     For details about configuring a Service instances, see [Create Service instance \(application service\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/create-it-services.md).
 
-## Related
 
-- [[sg-workspace|Service Graph Workspace]]

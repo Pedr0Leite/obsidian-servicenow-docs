@@ -38,7 +38,7 @@ Role required:
 
     **Important:** Perform this step only if you plan to customize or make specific changes to the flow.
 
-    \[Omitted image "sap-integration-copy-flow.png"\] Alt text: Copy of a Create non-[[purchase-order-table|purchase order]] flow
+    \[Omitted image "sap-integration-copy-flow.png"\] Alt text: Copy of a Create non-purchase order flow
 
 5.  Activate the flow or subflow.
 
@@ -48,7 +48,7 @@ Role required:
 
     This flow or subflow is triggered and associated with the purchase order when the following conditions are met:
 
-    -   **[[legal-entity|Legal entity]] . [[erp-source|ERP source]] . Active** is **true**.
+    -   **Legal entity . ERP source . Active** is **true**.
     -   **Legal entity . ERP source . ERP Source** is **not empty**.
     -   **Status** is **Pending Submission**
     **Note:** Don’t modify the trigger condition.
@@ -69,8 +69,3 @@ Role required:
 
 [Use a flow or subflow in SAP \(Outbound\)]()
 
-## Related
-
-- [[purchase-order-table|Purchase order]]
-- [[legal-entity|Legal entity]]
-- [[erp-source|ERP source]]

@@ -14,7 +14,7 @@ breadcrumb: [Palo Alto Networks Next-Generation Firewall integration, Security I
 
 # Supported External Dynamic Lists for Palo Alto Networks Next-Generation Firewall
 
-The ServiceNow [[paloalto_integration|Palo Alto Networks Next-Generation Firewall integration]] supports External Dynamic Lists \(EDLs\) that accept IP, URL, and domain [[c_Observables|observables]].
+The ServiceNow Palo Alto Networks Next-Generation Firewall integration supports External Dynamic Lists \(EDLs\) that accept IP, URL, and domain observables.
 
 ## Supported EDLs and observables
 
@@ -95,7 +95,3 @@ Wildcards are not supported.
 
 **Next topic:**[Create an EDL for Palo Alto Networks Next-Generation Firewall](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/palo_alto_config_edl.md)
 
-## Related
-
-- [[paloalto_integration|Palo Alto Networks Next-Generation Firewall integration]]
-- [[c_Observables|Observables]]

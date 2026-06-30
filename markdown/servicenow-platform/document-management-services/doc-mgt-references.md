@@ -14,9 +14,9 @@ breadcrumb: [Use, Document Management, Document Services, Manage content capabil
 
 # Document references
 
-[[reference-document-management|References]] are used for linking a document record to other records, which can be any other table or record on the platform.
+References are used for linking a document record to other records, which can be any other table or record on the platform.
 
-A [[reference|reference]] is a link or mapping between a document and a target or a parent record.
+A reference is a link or mapping between a document and a target or a parent record.
 
 You can add references directly and view all document references in other records across the platform by navigating to **Documents** &gt; **References**.
 
@@ -31,7 +31,3 @@ Remove and unlink a document reference from a document record.
 
 **Parent Topic:**[Using Document Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/using-document-management.md)
 
-## Related
-
-- [[reference-document-management|References]]
-- [[reference|Reference]]

@@ -12,7 +12,7 @@ breadcrumb: [Register, Government Service Portal, Portals, Use, Public Sector Di
 
 # Self-register a business account in the Public Sector Digital Services government service portal
 
-As a business owner, you can self-register your business on the [[gsp-overview-public-sector|government service portal]] to gain access and to create a business profile.
+As a business owner, you can self-register your business on the government service portal to gain access and to create a business profile.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: none
 
 3.  On the form, fill in the fields.
 
-    For more information on the business registration fields and the information that is collected when you sign up as a new business, see [[business-profile-form|Business Profile form]].
+    For more information on the business registration fields and the information that is collected when you sign up as a new business, see [Business Profile form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/business-profile-form.md).
 
 4.  Select the **Security Code** check box, complete the CAPTCHA validation, and select **Verify**.
 
@@ -36,7 +36,4 @@ Role required: none
 
     Your request is routed to an administrator, who can approve or deny the registration request. If the registration request is approved, you receive an email prompting you to set a user ID and password for login to the government service portal. If the registration request is denied, you’re notified by email.
 
-## Related
 
-- [[business-profile-form|Business Profile form]]
-- [[gsp-overview-public-sector|Government Service Portal]]

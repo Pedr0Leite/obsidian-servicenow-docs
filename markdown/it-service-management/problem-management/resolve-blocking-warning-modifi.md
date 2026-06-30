@@ -14,7 +14,7 @@ breadcrumb: [Migration job, Migration Utility, Configuring Problem Management, P
 
 # Resolve blocking and warning modifications
 
-Resolve any blocking [[migration-utility-modification|modifications]] and resolve or verify any warning modifications that are detected on your instance.
+Resolve any blocking modifications and resolve or verify any warning modifications that are detected on your instance.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-For more information about blocking, warning, and informational modifications and how to resolve them, see the [Problem Management [[migration-utility|Migration Utility]] - How to resolve detected modifications \[KB0819196\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0819196) article in the HI Knowledge Base.
+For more information about blocking, warning, and informational modifications and how to resolve them, see the [Problem Management Migration Utility - How to resolve detected modifications \[KB0819196\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0819196) article in the HI Knowledge Base.
 
 ## Procedure
 
@@ -39,7 +39,3 @@ For more information about blocking, warning, and informational modifications an
 
 [Migrate active records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/migrate-active-records.md).
 
-## Related
-
-- [[migration-utility-modification|Modifications]]
-- [[migration-utility|Migration Utility]]

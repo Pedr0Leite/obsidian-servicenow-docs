@@ -14,11 +14,11 @@ breadcrumb: [Analytics and Reporting Solutions for Audit Management, Audit Manag
 
 # Audit Engagement Overview Performance Analytics dashboard
 
-The Audit [[c_AuditEngagementOverview|Engagement Overview]] dashboard provides an executive view into audit results and engagement breakdowns by task, allowing areas of concern to be identified quickly.
+The Audit Engagement Overview dashboard provides an executive view into audit results and engagement breakdowns by task, allowing areas of concern to be identified quickly.
 
 ## Audit Engagement Overview dashboard
 
-**Important:** Starting with version 18.1.5 of the [[c_GRCAudits|Audit Management]] application, the Audit Engagement Overview dashboard is available in the Next Experience UI Framework.
+**Important:** Starting with version 18.1.5 of the Audit Management application, the Audit Engagement Overview dashboard is available in the Next Experience UI Framework.
 
 If you are on Vancouver or Washington DC, you can view the dashboard in the Next Experience UI Framework.
 
@@ -55,7 +55,3 @@ As this dashboard uses interactive filtering, the licensed version of Performanc
 
 The Audit Engagement Overview dashboard has one view, with reports on engagement results and various drilldowns, with interactive filters.\[Omitted image "audit-engagement-dashbrd.png"\] Alt text: Audit Engagement Overview dashboard showing Engagement Results, Profiles, by Engagement, Controls by ENgagement, and interactive filters
 
-## Related
-
-- [[c_AuditEngagementOverview|Engagement Overview]]
-- [[c_GRCAudits|Audit Management]]

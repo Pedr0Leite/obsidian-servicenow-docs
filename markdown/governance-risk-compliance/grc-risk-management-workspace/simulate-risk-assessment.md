@@ -14,7 +14,7 @@ breadcrumb: [Perform Advanced Risk Assessment, Use, Risk Management, Governance,
 
 # Simulate a risk assessment
 
-Simulate a risk assessment to verify the associated [[risk-assessment-methodology-prm|risk assessment methodology \(RAM\)]] configuration when it is in the draft state.
+Simulate a risk assessment to verify the associated risk assessment methodology \(RAM\) configuration when it is in the draft state.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: sn\_risk.admin
 
 ## About this task
 
-To modify the configuration of a published RAM, you need to delete all its assessments manually and change the RAM state to Draft. The simulation of risk assessment enables you to verify the RAM configuration when the RAM is in the draft state. This feature helps you to validate a factor, scoring logic, and the workflow and make necessary changes to the RAM before it is published. The simulated [[risk-assessments|risk assessments]] are not used for risk aggregation and are deleted after the RAM is modified or published.
+To modify the configuration of a published RAM, you need to delete all its assessments manually and change the RAM state to Draft. The simulation of risk assessment enables you to verify the RAM configuration when the RAM is in the draft state. This feature helps you to validate a factor, scoring logic, and the workflow and make necessary changes to the RAM before it is published. The simulated risk assessments are not used for risk aggregation and are deleted after the RAM is modified or published.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[advanced-risk-assessment|Advanced Risk Assessment]]** &gt; **[[Administration|Administration]]** &gt; **[[airc-rams|Risk Assessment Methodologies]]**.
+1.  Navigate to **All** &gt; **Advanced Risk Assessment** &gt; **Administration** &gt; **Risk Assessment Methodologies**.
 
 2.  Select and open the RAM for which you want to verify the configuration.
 
@@ -40,7 +40,7 @@ To modify the configuration of a published RAM, you need to delete all its asses
 
 4.  Select a risk or object that you want to simulate.
 
-    **Important:** You can select risks and objects that belong to the [[entity-class-in-risk-ws|entity classes]] and tables specified in the RAM.
+    **Important:** You can select risks and objects that belong to the entity classes and tables specified in the RAM.
 
 5.  Click **Submit**.
 
@@ -51,11 +51,3 @@ To modify the configuration of a published RAM, you need to delete all its asses
 
 **Parent Topic:**[Perform Advanced Risk Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/use-advanced-risk-assessment.md)
 
-## Related
-
-- [[risk-assessment-methodology-prm|Risk Assessment Methodology \(RAM\)]]
-- [[risk-assessments|risk assessments]]
-- [[advanced-risk-assessment|advanced risk assessment]]
-- [[Administration|Administration]]
-- [[airc-rams|Risk assessment methodologies]]
-- [[entity-class-in-risk-ws|Entity classes]]

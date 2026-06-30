@@ -44,7 +44,7 @@ Role required: admin
 
     Most of the charts display data broken down by age. Whereas, Schedulers chart breaks down the data by worker nodes.
 
-    To know more about each of the sections, see [[io-triage|Triaged instance data]].
+    To know more about each of the sections, see [Triaged instance data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-triage.md).
 
     \[Omitted image "io-triage-phase-2.png"\] Alt text: Instance Observer triage page.
 
@@ -72,9 +72,5 @@ Role required: admin
 -   **[Triaged instance data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-triage.md)**  
 You can triage your instance to get instant information on transactions, jobs, nodes utilization, semaphores, schedulers and update sets. Minimal use of this feature is recommended as use of this consumes resources on your instance.
 
-**Parent Topic:**[[io-overview|Monitoring instance health with Instance Observer]]
+**Parent Topic:**[Monitoring instance health with Instance Observer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-overview.md)
 
-## Related
-
-- [[io-triage|Triaged instance data]]
-- [[io-overview|Monitoring instance health with Instance Observer]]

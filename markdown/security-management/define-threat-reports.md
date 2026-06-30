@@ -12,7 +12,7 @@ breadcrumb: [Threat reports, IoC Repository, Threat Intelligence, Enterprise sec
 
 # Define threat reports
 
-Define threat reports that describe a [[threat-actor|threat actor]], [[threat-intelligence-malware|malware]], attack technique, including context and related details.
+Define threat reports that describe a threat actor, malware, attack technique, including context and related details.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_ti.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[threat-intel-landing-page|Threat Intelligence]]** &gt; **[[ioc-repository|IoC Repository]]** &gt; **Threat Reports**.
+1.  Navigate to **All** &gt; **Threat Intelligence** &gt; **IoC Repository** &gt; **Threat Reports**.
 
 2.  Click **New**.
 
@@ -28,7 +28,7 @@ Role required: sn\_ti.admin
 
     |Field|Description|
     |-----|-----------|
-    |**Name**|Specify a name to identify the [[threat-report|threat report]].|
+    |**Name**|Specify a name to identify the threat report.|
     |**Published**|The date that this report has been officially published by the report author.|
     |**Description**|A description that provides additional insight and context about the report.|
     |**Source**|Specifies the threat source from which this record is created.|
@@ -53,11 +53,11 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Show [[stix-relationships|Relationships]]
+Show Relationships
 
 </td><td>
 
-Opens the [[stix-visualizer|STIX Visualizer]] where you can view the relationship of the STIX object.Show Relationships appears only when the object has an associated object.
+Opens the STIX Visualizer where you can view the relationship of the STIX object.Show Relationships appears only when the object has an associated object.
 
 </td></tr><tr><td>
 
@@ -77,7 +77,7 @@ List of objects reported in the threat report.
 
 </td></tr><tr><td>
 
-Reported [[indicator|Indicators]]
+Reported Indicators
 
 </td><td>
 
@@ -85,24 +85,12 @@ Lists of indicators reported in the threat report.
 
 </td></tr><tr><td>
 
-Reported [[c_Observables|Observables]]
+Reported Observables
 
 </td><td>
 
 Lists of observables reported in the threat report.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[threat-reports|Threat reports]]
+</table>**Parent Topic:**[Threat reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-reports.md)
 
-## Related
-
-- [[threat-reports|Threat reports]]
-- [[threat-actor|Threat Actor]]
-- [[threat-intelligence-malware|Malware]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[ioc-repository|IoC Repository]]
-- [[threat-report|Threat Report]]
-- [[stix-relationships|Relationships]]
-- [[stix-visualizer|STIX Visualizer]]
-- [[indicator|Indicators]]
-- [[c_Observables|Observables]]

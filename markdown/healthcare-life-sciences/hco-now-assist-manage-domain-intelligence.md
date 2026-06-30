@@ -12,7 +12,7 @@ breadcrumb: [Configure, Now Assist for Care Team Operations, Healthcare and Life
 
 # Manage domain intelligence for AI agents
 
-When you [[hco-now-assist-install|install Now Assist for Care Team Operations]], a knowledge base article is added that lets agents in the [[hco-now-assist-request-assistance|Request care team assistance agentic workflow]] create different Care Team Operations cases.
+When you install Now Assist for Care Team Operations, a knowledge base article is added that lets agents in the Request care team assistance agentic workflow create different Care Team Operations cases.
 
 Each Care Team Operations application has its own knowledge base article explaining case requirements, like required fields.
 
@@ -29,7 +29,3 @@ These articles can be found within the knowledge base for each Care Team Operati
 
 **Note:** These articles have user criteria associated with them to help prevent care team members from accessing and editing these articles. Only users with the admin role for each scoped app can access and change those articles.
 
-## Related
-
-- [[hco-now-assist-install|Install Now Assist for Care Team Operations]]
-- [[hco-now-assist-request-assistance|Request care team assistance agentic workflow]]

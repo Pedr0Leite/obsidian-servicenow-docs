@@ -14,7 +14,7 @@ breadcrumb: [Configuring Password Reset, Password Reset, Manage service capabili
 
 # Customizing Password Reset processes
 
-[[password-reset-landing-page|Password Reset]] scripts enable you to customize Password Reset by creating your own credential store, verification, and identification types, and extend them by defining extension scripts. You can also create a custom credential store type, custom verification type, or verification.
+Password Reset scripts enable you to customize Password Reset by creating your own credential store, verification, and identification types, and extend them by defining extension scripts. You can also create a custom credential store type, custom verification type, or verification.
 
 ## Legacy
 
@@ -26,7 +26,7 @@ Password Reset scripting is available to users with the password\_reset\_admin r
 
 2.  Follow the configuration steps described in [Configure your Password Reset process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/t_CreateAPasswordResetProcess.md).
 3.  Select the new types that you created. You can customize the following components:
-    -   Credential store types: Define new types for how to [[c_Connect|connect]] to your credential stores by creating custom workflows for connection and testing. See [Create a credential store type for Password Reset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/t_CreateACredentialStoreType.md).
+    -   Credential store types: Define new types for how to connect to your credential stores by creating custom workflows for connection and testing. See [Create a credential store type for Password Reset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/t_CreateACredentialStoreType.md).
     -   Verification types: Define new types for how users are verified. See [Create a custom Password Reset verification type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/create-verification-type.md).
     -   Identification types: Define new types for how users can identify themselves. See [Create a custom identification type for Password Reset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/t_CreateAnIdentificationType.md).
 
@@ -41,11 +41,11 @@ To enroll for the 'Security Questions' verification, the user selects several qu
 -   **[Add a custom header or footer to the user pages for Password Reset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/customize-user-reset-pages.md)**  
  You can specify UI macros that add a header or footer to the pages that end users work in while resetting a password \(the Identify, Verify, and Reset pages\).
 -   **[Create a Password Reset verification from an existing verification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/t_CreatePWRVerFromBaseVer.md)**  
-The Password Reset application includes several example verifications that you can use as they are or as the basis for a custom verification. If the [[verification-types-in-the-base-system|verification types in the base system]] do not meet your needs, you can create a custom verification type.
+The Password Reset application includes several example verifications that you can use as they are or as the basis for a custom verification. If the verification types in the base system do not meet your needs, you can create a custom verification type.
 -   **[Create a custom Password Reset verification type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/create-verification-type.md)**  
 Each verification in Password Reset is based on the settings for a verification type. If the verification types in the base system do not meet your needs, you can create a custom verification type.
 -   **[Create a custom Password Reset verification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/t_CreatePWRVerFromVerType.md)**  
-Use a verification type in the base system as a template to design a custom verification. The [[win-password-reset-overview|Password Reset Windows Application]] does not support custom verifications.
+Use a verification type in the base system as a template to design a custom verification. The Password Reset Windows Application does not support custom verifications.
 -   **[Create a custom identification type for Password Reset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/t_CreateAnIdentificationType.md)**  
 A custom identification type enables the user to enter alternative verification information such as an employee ID while resetting the password.
 -   **[Configure a credential store type to support third-party password auto-generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/rpa-configure-credential-store-type-support.md)**  
@@ -57,9 +57,3 @@ Create a custom credential store type when the base-system types do not meet you
 
 **Parent Topic:**[Configuring Password Reset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/password-reset-admin-guide.md)
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]
-- [[c_Connect|Connect]]
-- [[verification-types-in-the-base-system|Verification types in the base system]]
-- [[win-password-reset-overview|Password Reset Windows Application]]

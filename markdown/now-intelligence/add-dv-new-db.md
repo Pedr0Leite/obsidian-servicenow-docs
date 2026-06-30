@@ -21,7 +21,7 @@ Role required: You must have a role that allows access to the data in the visual
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Data Visualizations**.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**.
 
 2.  Create a data visualization, or open a data visualization that you want to add to a dashboard.
 
@@ -43,7 +43,7 @@ Result
 
 </td><td>
 
-A new, untitled dashboard opens in the inline dashboard editor. The data visualization is already on this dashboard. Complete the dashboard, adding any more desired elements and naming it. For more information, see [[create-db-in-ac|Create a dashboard with the in-line editor]].
+A new, untitled dashboard opens in the inline dashboard editor. The data visualization is already on this dashboard. Complete the dashboard, adding any more desired elements and naming it. For more information, see [Create a dashboard with the in-line editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-db-in-ac.md).
 
 </td></tr><tr><td id="d73903e130">
 
@@ -51,7 +51,7 @@ A new, untitled dashboard opens in the inline dashboard editor. The data visuali
 
 </td><td>
 
-The Select dashboard dialog box opens. To open a list of dashboards in which you can add the data visualization, click or begin entering in the **Select dashboard** field. Only dashboards that you can edit are available. [[technical-dashboards|Technical dashboards]] are not available.When you have made your choice, select **Add to dashboard**. The dashboard opens in the inline editor for further editing. The visualization is the last element in the dashboard.
+The Select dashboard dialog box opens. To open a list of dashboards in which you can add the data visualization, click or begin entering in the **Select dashboard** field. Only dashboards that you can edit are available. Technical dashboards are not available.When you have made your choice, select **Add to dashboard**. The dashboard opens in the inline editor for further editing. The visualization is the last element in the dashboard.
 
 **Tip:** If you don't see your data visualization, refresh the browser page.
 
@@ -83,11 +83,5 @@ You have just completed creating the data visualization Open incidents - Priorit
     \[Omitted image "dv-to-db-ex-final.png"\] Alt text: Dashboard showing the added Open incidents - Priority data visualization with its configuration panel open.
 
 
-**Parent Topic:**[[common-dv-tasks|Common data visualization tasks]]
+**Parent Topic:**[Common data visualization tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/common-dv-tasks.md)
 
-## Related
-
-- [[create-db-in-ac|Create a dashboard with the in-line editor]]
-- [[common-dv-tasks|Common data visualization tasks]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[technical-dashboards|Technical dashboards]]

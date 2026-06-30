@@ -36,7 +36,7 @@ Pre-auth case line
 
 </td><td>
 
-Displays all the repair [[mco-pre-auth-request|pre-authorization]] case lines previously created for the selected repair associated with this claim case.**Note:** If the pre-authorization is selected from the drop-down list, it automatically fetches the casual parts and miscellaneous details.
+Displays all the repair pre-authorization case lines previously created for the selected repair associated with this claim case.**Note:** If the pre-authorization is selected from the drop-down list, it automatically fetches the casual parts and miscellaneous details.
 
 </td></tr><tr><td>
 
@@ -82,7 +82,7 @@ Recall
 
 </td></tr><tr><td>
 
-[[mco-rcl-clms|Recall campaign]]
+Recall campaign
 
 </td><td>
 
@@ -317,16 +317,10 @@ Attachments
 Attachments that support your claims.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[repair-form|Repair form]]
+</table>**Parent Topic:**[Repair form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/repair-form.md)
 
 **Related topics**  
 
 
-[[mco-submit-repair-claim|Submit a repair claim for warranty]]
+[Submit a repair claim for warranty](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-submit-repair-claim.md)
 
-## Related
-
-- [[repair-form|Repair form]]
-- [[mco-submit-repair-claim|Submit a repair claim for warranty]]
-- [[mco-pre-auth-request|Pre-authorization]]
-- [[mco-rcl-clms|Recall campaign]]

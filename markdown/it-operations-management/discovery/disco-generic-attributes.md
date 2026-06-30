@@ -14,7 +14,7 @@ breadcrumb: [Configuring Discovery, Discovery, ITOM Visibility, IT Operations Ma
 
 # Discovery generic attributes
 
-Discovery generic attributes enable you to define custom attributes at the schedule, range, and range set level. These attributes attach metadata that can influence CMDB field population and [[r-discovery|Discovery]] runtime behavior, providing granular control based on the scope of the discovery.
+Discovery generic attributes enable you to define custom attributes at the schedule, range, and range set level. These attributes attach metadata that can influence CMDB field population and Discovery runtime behavior, providing granular control based on the scope of the discovery.
 
 ## How it works
 
@@ -28,6 +28,3 @@ Discovery reconciles attributes from multiple scope levels by applying a precede
 
 You can use Discovery generic attributes to automatically populate CI fields based on the Discovery scope. This enables you to apply consistent metadata to discovered CIs without manual intervention. For more information, see [Define CI field attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/define-ci-attributes.md).
 
-## Related
-
-- [[r-discovery|Discovery]]

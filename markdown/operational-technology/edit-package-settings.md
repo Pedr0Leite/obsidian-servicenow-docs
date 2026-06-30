@@ -22,7 +22,7 @@ Role required: admin
 
 1.  Obtain the latest firmware packages directly from your Discovery Console for OT account representative.
 
-2.  Navigate to the [[settings-page-console|Settings page]] and open the **Package** tab.
+2.  Navigate to the Settings page and open the **Package** tab.
 
 3.  Select **Import Packages**.
 
@@ -37,6 +37,3 @@ Role required: admin
 
 The Discovery Console for OT verifies the integrity and authenticity of the uploaded file before they're made available for device updates. Packages that fail authenticity checks are automatically rejected during the upload process.
 
-## Related
-
-- [[settings-page-console|Settings page]]

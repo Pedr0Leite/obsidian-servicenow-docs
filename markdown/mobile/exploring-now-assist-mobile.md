@@ -12,7 +12,7 @@ breadcrumb: [Now Assist for Mobile, Mobile Platform]
 
 # Exploring Now Assist for Mobile
 
-With [[now-assist-mobile-landing|Now Assist for Mobile]], your users can generate case resolution notes to wrap up cases faster, generate answers to search questions, and augment the Virtual Agent experience.
+With Now Assist for Mobile, your users can generate case resolution notes to wrap up cases faster, generate answers to search questions, and augment the Virtual Agent experience.
 
 ## Overview
 
@@ -38,6 +38,3 @@ With Now Assist in Virtual Agent, users can enjoy a better experience that combi
 
 Now Assist in AI Search on Mobile combines the power of search with the Now LLM Service generative AI model to give you AI-generated or AI-chosen answers relevant to your question.
 
-## Related
-
-- [[now-assist-mobile-landing|Now Assist for Mobile]]

@@ -14,7 +14,7 @@ breadcrumb: [Administer, Threat Intelligence Security Center, Security Operation
 
 # Sharing of Outbound Intelligence Records from GUI
 
-This section outlines the functionality that enables users to share intelligence records directly from the [[threat-intel-landing-page|Threat Intelligence]] \(TI\) Library within the TISC application.
+This section outlines the functionality that enables users to share intelligence records directly from the Threat Intelligence \(TI\) Library within the TISC application.
 
 ## Before you begin
 
@@ -31,13 +31,13 @@ Before you begin, ensure to enable the required sharing templates. For more info
 
 Access to the sharing templates is governed by multiple restrictions defined within each template. These restrictions specify whether a template is available to all the users or limited to specific users or user groups. Accordingly, only the templates allowed by these settings will be visible when users initiate the **Share Intelligence** process.
 
-Only users with an analyst role can share the intelligence data from GUI to the external systems. Share intelligence feature also applies to the various other threat intelligence library entities including [[c_Observables|observables]], [[indicator|indicators]], and objects such as [[attack-patterns|attack patterns]], [[threat-actors|threat actors]] and so on.
+Only users with an analyst role can share the intelligence data from GUI to the external systems. Share intelligence feature also applies to the various other threat intelligence library entities including observables, indicators, and objects such as attack patterns, threat actors and so on.
 
 Following is the procedure to share intelligence from the form view of observables records.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Threat Intel Library** &gt; **Observables** &gt; **All Observables**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center** &gt; **Threat Intel Library** &gt; **Observables** &gt; **All Observables**.
 
 2.  Open any observable record.
 
@@ -114,7 +114,7 @@ If the number of rows exceeds the specified limit, the records will be split acr
 
     -   **Template Configuration**: The entity tables displayed in this view are based on the sharing controls defined in the sharing template associated with the sharing record.
     -   **Entity Grouping**: The first high level grouping is Observables. Also, you will see child level observables such as File, IP Address, and other relevant types. Indicators and objects are also listed after Observables.
-    -   **[[stix-relationships|Relationships]]**: Displays relationships between the shared entities. Six different types of relationships are represented, each organized into its corresponding relationship table for clarity and structure.
+    -   **Relationships**: Displays relationships between the shared entities. Six different types of relationships are represented, each organized into its corresponding relationship table for clarity and structure.
     **Note:** **Show lists at least with one record** is a toggle available to quickly filter and display only the entity tables that contain data.
 
 12. Click **Edit Columns** to modify the list view columns.
@@ -170,7 +170,7 @@ If the number of rows exceeds the specified limit, the records will be split acr
 
     Once you submit, the outbound intelligence sharing record’s **State** changes from **Draft** to **Awaiting Approval**. The **State** is changed to **Awaiting Approval** only when the approval rules are configured for the outbound intelligence. For more information, see [Defining Approval Rule for Outbound Intel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-approval-outbound-intel.md).
 
-    **Note:** When you click **Submit** to share intelligence records in STIX format, the Traffic Light Protocol \(TLP\) definitions associated with the records are shared as TLP 2.0 [[marking-definition|marking definition]] objects. For more information, see [Define Marking Definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/define-market-definition.md).
+    **Note:** When you click **Submit** to share intelligence records in STIX format, the Traffic Light Protocol \(TLP\) definitions associated with the records are shared as TLP 2.0 marking definition objects. For more information, see [Define Marking Definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/define-market-definition.md).
 
 22. Select **Approve** button to approve the outbound intelligence record.
 
@@ -204,13 +204,3 @@ If the number of rows exceeds the specified limit, the records will be split acr
 
 [Automated Sharing of Outbound Intelligence Records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-automated-outbound-intel-share.md)
 
-## Related
-
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[c_Observables|Observables]]
-- [[indicator|Indicators]]
-- [[attack-patterns|Attack patterns]]
-- [[threat-actors|Threat actors]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[stix-relationships|Relationships]]
-- [[marking-definition|Marking Definition]]

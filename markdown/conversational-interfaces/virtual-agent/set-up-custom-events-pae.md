@@ -22,14 +22,14 @@ Role required: Chat Analytics Admin.
 
 ## About this task
 
-An event is a combination of conditions that apply to a subset of [[virtual-agent-landing-page|Virtual Agent]] \(VA\) conversations. For example, an event might be conversations originating on a Slack channel that VA transferred to a live agent.
+An event is a combination of conditions that apply to a subset of Virtual Agent \(VA\) conversations. For example, an event might be conversations originating on a Slack channel that VA transferred to a live agent.
 
 Most metrics you see on the dashboard, for example topic and conversation details, are derived from pre-built events. The dashboard displays these events on the **Topics** and **Conversations** tabs. To build custom events, you can use the Custom Events feature. Use custom events to create analytics about data you're interested in, for example:
 
 -   Number of conversations on a Slack channel that transferred to a live agent.
 -   Number of conversations on a Slack channel where the user never returned.
 
-\[Omitted image "dashboard-custom-events-dashboard-2-pae.png"\] Alt text: Virtual Agent [[custom-events-tab-pae|Custom Events tab]].
+\[Omitted image "dashboard-custom-events-dashboard-2-pae.png"\] Alt text: Virtual Agent Custom Events tab.
 
 Custom events appear on the **Custom Events** tab. If you haven't configured any custom events, the dashboard won't display any. You can create up to 20 custom events.
 
@@ -94,7 +94,3 @@ Custom events take effect when you create them. You cannot use them to analyze d
 
 **Parent Topic:**[Setting up the Conversational Analytics dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/setting-up-va-dashboard-overview1-pae.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[custom-events-tab-pae|Custom Events tab]]

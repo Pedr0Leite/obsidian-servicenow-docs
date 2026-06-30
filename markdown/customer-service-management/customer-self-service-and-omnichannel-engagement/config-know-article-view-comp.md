@@ -22,7 +22,7 @@ You must have the following setup to configure the Knowledge article view compon
 
 -   Enable Web Embeddables in your instance. For more information, see [Activate Web Embeddables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/act-web-embeddables.md).
 -   [Set up a custom URL as the instance URL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/set-up-custom-url.md).
--   Authenticate the [[servicenow-web-components-overview|ServiceNow components]] using OpenID Connect \(OIDC\) or non OIDC authentication. For more information, see [Authenticate the ServiceNow components using OIDC](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/authenticate-sn-webcomponents-oidc.md) and [Non OIDC authentication for ServiceNow components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/auth-sn-webcomponents-non-oidc.md).
+-   Authenticate the ServiceNow components using OpenID Connect \(OIDC\) or non OIDC authentication. For more information, see [Authenticate the ServiceNow components using OIDC](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/authenticate-sn-webcomponents-oidc.md) and [Non OIDC authentication for ServiceNow components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/auth-sn-webcomponents-non-oidc.md).
 
 Role required: sn\_embeddable\_core.emb\_admin
 
@@ -34,7 +34,7 @@ Role required: sn\_embeddable\_core.emb\_admin
 
     For more information on creating a new module, see [Create a module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/create-we-module.md).
 
-3.  On the module page, in the Components tab, add a [[we-know-article-view-comp-overview|Knowledge article view component]] instance to an existing or a new group.
+3.  On the module page, in the Components tab, add a Knowledge article view component instance to an existing or a new group.
 
     For more information on creating a group and then adding a component instance, see [Create a group and add a component instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/we-create-group-and-add-comp-instance.md).
 
@@ -45,8 +45,8 @@ Role required: sn\_embeddable\_core.emb\_admin
 5.  Configure the Knowledge article view component instance properties.
 
     -   The Preview tab displays real-time data according to choices set in the component properties.
-    -   For a description of the component properties related to the Knowledge Article component instance, see [[we-know-article-view-comp-prop|Component properties for the Knowledge article view]].
-6.  Select the **CORS [[gamification-components-rules|rules]]** tab to configure the CORS rules.
+    -   For a description of the component properties related to the Knowledge Article component instance, see [Component properties for the Knowledge article view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/we-know-article-view-comp-prop.md).
+6.  Select the **CORS rules** tab to configure the CORS rules.
 
     For more information about configuring CORS rules, see [Configure CORS \(Cross-Origin Resource Sharing\) rules before embedding ServiceNow components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/configure-cors-for-web-components.md).
 
@@ -95,7 +95,7 @@ Role required: sn\_embeddable\_core.emb\_admin
 
 10. In the Component Code tab, slide the **Enable event handler** toggle switch to handle events triggered by the user interactions on the webpage.
 
-    **Note:** Enabling the event handler also modifies the component code. For more information on event handlers in Web Embeddables, see [[we-know-article-view-event-handler|Event handler in the Knowledge article view component]].
+    **Note:** Enabling the event handler also modifies the component code. For more information on event handlers in Web Embeddables, see [Event handler in the Knowledge article view component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/we-know-article-view-event-handler.md).
 
 11. In the Component code tab, review the generated code and select the **Copy component code**.
 
@@ -198,10 +198,3 @@ The global and component codes are ready to be shared with the third-party admin
 
 [Sample code for the Knowledge article view component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/we-know-article-view-sample-code.md)
 
-## Related
-
-- [[we-know-article-view-comp-prop|Component properties for the Knowledge article view]]
-- [[we-know-article-view-event-handler|Event handler in the Knowledge article view component]]
-- [[servicenow-web-components-overview|ServiceNow components]]
-- [[we-know-article-view-comp-overview|Knowledge article view component]]
-- [[gamification-components-rules|Rules]]

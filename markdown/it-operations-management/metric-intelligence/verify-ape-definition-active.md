@@ -14,7 +14,7 @@ breadcrumb: [Optimizing Metric Intelligence, Metric Intelligence, IT Operations 
 
 # Verify that the definitions for the Advanced Promotion Engine are active
 
-Verify that the [[advanced-promotion-engine|Advanced Promotion Engine]] definitions that come with the base system are active.
+Verify that the Advanced Promotion Engine definitions that come with the base system are active.
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ You can't modify the conditions of the definitions that come with the base syste
 
 **Parent Topic:**[Optimizing Metric Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/optimizing-metric-intelligence.md)
 
-## Related
-
-- [[advanced-promotion-engine|Advanced Promotion Engine]]

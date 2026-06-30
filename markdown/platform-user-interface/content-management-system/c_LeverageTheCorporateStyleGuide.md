@@ -28,13 +28,10 @@ A corporate style guide provides detailed information for designing any corporat
 
 -   **Design considerations**
 
-    Some modifications to the base design for [[form-configurable-workspace|forms]] may be necessary. The content area of any CMS design should be no smaller than 860px, or service catalog forms are clipped. The sample style guide entry specifies the content area to be 576px, which clips service catalog forms.
+    Some modifications to the base design for forms may be necessary. The content area of any CMS design should be no smaller than 860px, or service catalog forms are clipped. The sample style guide entry specifies the content area to be 576px, which clips service catalog forms.
 
 
 \[Omitted image "StyleGuide.png"\] Alt text: A corporate style guide, as shown in this example, has specifications on Header, Page content, and footer areas, as well as Navigation and Information snip panels.
 
 **Parent Topic:**[Content Management design](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_ContentManagementPlanning.md)
 
-## Related
-
-- [[form-configurable-workspace|Forms]]

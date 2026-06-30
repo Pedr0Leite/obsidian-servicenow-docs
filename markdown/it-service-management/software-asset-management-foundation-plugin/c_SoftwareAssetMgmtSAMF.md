@@ -14,7 +14,7 @@ breadcrumb: [ITSM Software Asset Management, Asset Management, IT Service Manage
 
 # Software Asset Management Foundation plugin
 
-The Software Asset Management Foundation plugin activates the [[itsm-sam|ITSM Software Asset Management]] feature provided with the [[c_AssetManagement|Asset Management]] application.
+The Software Asset Management Foundation plugin activates the ITSM Software Asset Management feature provided with the Asset Management application.
 
 For documentation on the full fledged Software Asset Management product \(also known as Software Asset Management professional\), see [Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/c_SoftwareAssetMgmt.md).
 
@@ -34,7 +34,7 @@ Dashboard
 
 </td><td>
 
-The [[c_SAMDashboardSAMF|Software Asset Management Foundation dashboard]] shows software installation results for your environment in the form of statistics and charts.
+The Software Asset Management Foundation dashboard shows software installation results for your environment in the form of statistics and charts.
 
 </td></tr><tr><td>
 
@@ -42,7 +42,7 @@ Licensing
 
 </td><td>
 
-[[c_CreatingSoftwareModels|Software models]] created for all installed software products are used to tie software installations \(software being used\) with entitlements \(software owned\). Entitlements define license details and are assigned to software models.
+Software models created for all installed software products are used to tie software installations \(software being used\) with entitlements \(software owned\). Entitlements define license details and are assigned to software models.
 
 </td></tr><tr><td>
 
@@ -66,24 +66,15 @@ The Software Asset Management Foundation plugin \(com.snc.sams\) supports tracki
 -   **[Setting up Software Asset Management Foundation plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/t_SAMSetupSAMF.md)**  
 Set up Software Asset Management Foundation plugin before configuration.
 -   **[Configuring Software Asset Management Foundation plugin workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/configuring-samf-plugin-workspace.md)**  
-Once you have finished setting up the Software Asset Management Foundation plugin and the Software Asset Workspace plugin [[dex-workspace-application-tab|applications]], you need to configure the Software Asset Workspace.
+Once you have finished setting up the Software Asset Management Foundation plugin and the Software Asset Workspace plugin applications, you need to configure the Software Asset Workspace.
 -   **[Configuring the classic Software Asset Management Foundation plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/samf-plugin-configuration.md)**  
 Configure Software Asset Management Foundation plugin if you prefer to continue using the classic version.
 -   **[Using Software Asset Management Foundation plugin workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/using-samf-workspace.md)**  
 Use the Software Asset Workspace, the intuitive and streamlined user interface of the Software Asset Management Foundation plugin application.
 -   **[Using Software Asset Management Foundation plugin classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/using-samf-classic.md)**  
-[[using-samf-classic|Using Software Asset Management Foundation plugin classic]].
+Using Software Asset Management Foundation plugin classic.
 -   **[Software Asset Management Foundation plugin Administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/c_SAMAdministrationSAMF.md)**  
-[[c_SAMAdministrationSAMF|Software Asset Management Foundation plugin administration]] tasks include adding custom product records, creating custom license metrics, and setting properties. You can also refresh processor definitions, and migrate software installations.
+Software Asset Management Foundation plugin administration tasks include adding custom product records, creating custom license metrics, and setting properties. You can also refresh processor definitions, and migrate software installations.
 
 **Parent Topic:**[ITSM Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/asset-management/itsm-sam.md)
 
-## Related
-
-- [[itsm-sam|ITSM Software Asset Management]]
-- [[c_AssetManagement|Asset Management]]
-- [[c_SAMDashboardSAMF|Software Asset Management Foundation dashboard]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[dex-workspace-application-tab|Applications]]
-- [[using-samf-classic|Using Software Asset Management Foundation plugin classic]]
-- [[c_SAMAdministrationSAMF|Software Asset Management Foundation plugin Administration]]

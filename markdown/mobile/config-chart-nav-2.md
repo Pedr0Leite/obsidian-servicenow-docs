@@ -12,23 +12,23 @@ breadcrumb: [Create a navigation function to a chart screen, Chart screen, Mobil
 
 # Add a navigation function to an analytics preview
 
-Configure your analytics preview to use a navigation function. This function directs your users to your [[chart-screen|chart screen]] from the analytics preview on your screen launcher.
+Configure your analytics preview to use a navigation function. This function directs your users to your chart screen from the analytics preview on your screen launcher.
 
 ## Before you begin
 
 Role required: admin
 
-These steps detail instructions for adding your navigation function to an existing chart analytics preview. To utlize the navigation function, you must have configured a screen launcher with an analytics preview and a navigation to a chart screen. For details on that process, see [[sg-mobile-dashboard-preview|Create a mobile analytics preview]] and [[config-chart-nav|Create a navigation function to a chart screen]].
+These steps detail instructions for adding your navigation function to an existing chart analytics preview. To utlize the navigation function, you must have configured a screen launcher with an analytics preview and a navigation to a chart screen. For details on that process, see [Create a mobile analytics preview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-dashboard-preview.md) and [Create a navigation function to a chart screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/config-chart-nav.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you're working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select **All mobile records** from the menu.
 
@@ -45,18 +45,9 @@ With this procedure, you’ve created the infrastructure of a mobile analytics p
 
 ## What to do next
 
-The final process involves adding the analytics preview to the launcher screen UI section. For more information, see, [[sg-ui-section-config-reports|Configure an analytics UI section]].
+The final process involves adding the analytics preview to the launcher screen UI section. For more information, see, [Configure an analytics UI section](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-ui-section-config-reports.md).
 
-An additional configuration is available, where users view a list of records when they tap the data visualization. For more information, see [[nav-chart-to-list-1|Create a parameterized list for your chart]].
+An additional configuration is available, where users view a list of records when they tap the data visualization. For more information, see [Create a parameterized list for your chart](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/nav-chart-to-list-1.md).
 
 **Parent Topic:**[Create a navigation function to a chart screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/config-chart-nav.md)
 
-## Related
-
-- [[sg-mobile-dashboard-preview|Create a mobile analytics preview]]
-- [[config-chart-nav|Create a navigation function to a chart screen]]
-- [[sg-ui-section-config-reports|Configure an analytics UI section]]
-- [[nav-chart-to-list-1|Create a parameterized list for your chart]]
-- [[chart-screen|Chart screen]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]

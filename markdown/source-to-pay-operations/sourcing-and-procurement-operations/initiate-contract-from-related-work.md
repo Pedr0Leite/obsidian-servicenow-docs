@@ -14,7 +14,7 @@ breadcrumb: [Initiate a contract request, Source-to-Pay Operations integration C
 
 # Initiate a contract request from the related work section
 
-[[initiate-contract-request|Initiate a contract request]] for [[purchase-lines|purchase lines]], purchase requisitions, sourcing requests, [[negotiations|negotiations]], or [[negotiation-events|sourcing events]] from the related work section.
+Initiate a contract request for purchase lines, purchase requisitions, sourcing requests, negotiations, or sourcing events from the related work section.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_cm\_core.contract\_user
 
 ## Procedure
 
-1.  Navigate to the **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to the **Source-to-Pay Workspace**.
 
 2.  Open the entity for which you have to initiate a contract request.
 
@@ -39,10 +39,3 @@ Role required: sn\_cm\_core.contract\_user
 
 **Parent Topic:**[Initiate a contract request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/initiate-contract-request.md)
 
-## Related
-
-- [[initiate-contract-request|Initiate a contract request]]
-- [[purchase-lines|Purchase lines]]
-- [[negotiations|Negotiations]]
-- [[negotiation-events|Sourcing events]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

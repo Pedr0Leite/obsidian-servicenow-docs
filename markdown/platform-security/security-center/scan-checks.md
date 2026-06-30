@@ -16,11 +16,11 @@ breadcrumb: [Security scanner, Security configuration console, Security Center, 
 
 Use checks to detect anomalies within an instance, running against tables, records, or metadata.
 
-\[Omitted image "sec-center-checks.png"\] Alt text: SC [[sc-auditor-finding|Auditor suite findings]]
+\[Omitted image "sec-center-checks.png"\] Alt text: SC Auditor suite findings
 
 Checks are rules designed to detect anomalies within an instance. Select a check on the list to view details including what the check evaluates, and possible steps to correct the issue if the check returns any findings.
 
-Select the **+Create task** button to create a Security Task related to a scan check. For details on [[security-task-manager|Security Tasks]], see [Security Tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/security-task-manager.md).
+Select the **+Create task** button to create a Security Task related to a scan check. For details on Security Tasks, see [Security Tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/security-task-manager.md).
 
 Checks are divided into four classes to identify issues and implement security recommendations for your organization: table checks, column type checks, script only checks, and linter checks.
 
@@ -33,7 +33,3 @@ Checks are divided into four classes to identify issues and implement security r
 
 **Parent Topic:**[Security scanner](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sc-scanning.md)
 
-## Related
-
-- [[sc-auditor-finding|Auditor suite findings]]
-- [[security-task-manager|Security Tasks]]

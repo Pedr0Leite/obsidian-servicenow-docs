@@ -14,7 +14,7 @@ breadcrumb: [Exploring On-Call Scheduling, On-Call Scheduling, IT Service Manage
 
 # On-Call Scheduling capabilities
 
-The key features and capabilities of [[c_OnCallScheduling|On-Call Scheduling]] can be used by the various user roles.
+The key features and capabilities of On-Call Scheduling can be used by the various user roles.
 
 On-Call Scheduling supports the Members of the roster \(itil role\), Shift Manager \(rota\_manager role\), shift administrator \(rota\_admin role\). Based on the user role, you can perform the following actions:
 
@@ -25,7 +25,7 @@ On-Call Scheduling supports the Members of the roster \(itil role\), Shift Manag
 -   Specify your availability and your preferred contact methods.
 -   View the roster and escalation details for a shift.
 -   Run schedule and escalation reports.
--   Use the [[itsm-mobile-agent|ITSM Mobile Agent]] for viewing schedules and requesting time off.
+-   Use the ITSM Mobile Agent for viewing schedules and requesting time off.
 
 ## rota\_manager role
 
@@ -46,7 +46,3 @@ On-Call Scheduling supports the Members of the roster \(itil role\), Shift Manag
 
 **Parent Topic:**[Exploring On-Call Scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/exploring-on-call-scheduling.md)
 
-## Related
-
-- [[c_OnCallScheduling|On-Call Scheduling]]
-- [[itsm-mobile-agent|ITSM Mobile Agent]]

@@ -46,7 +46,7 @@ POST
 
 </td><td>
 
-Runs automatically in the background when the issuer agent opens the "[[alert-merchant-regarding-dispute|Review Participating Merchant Alerts]]" task. No UI action required.
+Runs automatically in the background when the issuer agent opens the "Review Participating Merchant Alerts" task. No UI action required.
 
 </td></tr><tr><td>
 
@@ -115,9 +115,5 @@ PATCH
 Runs once when EXPORTING status is received and the merchant response is stored. Sends \{"status": "CLOSED"\} as the mandatory issuer acknowledgment handshake. Case is excluded from further polling.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[referring-financial-services-operations-integration-with-verifi-cdrn|Financial Services Operations Integration with Verifi reference]]
+</table>**Parent Topic:**[Financial Services Operations Integration with Verifi reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/referring-financial-services-operations-integration-with-verifi-cdrn.md)
 
-## Related
-
-- [[referring-financial-services-operations-integration-with-verifi-cdrn|Financial Services Operations Integration with Verifi reference]]
-- [[alert-merchant-regarding-dispute|Review participating merchant alerts]]

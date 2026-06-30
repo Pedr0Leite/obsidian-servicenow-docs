@@ -22,7 +22,7 @@ Role required: sn\_risk\_advanced.risk\_asmt\_project\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Risk** &gt; **[[risk-workspace|Risk Workspace]]**.
+1.  Navigate to **All** &gt; **Risk** &gt; **Risk Workspace**.
 
 2.  Select the list \[Omitted image "list-icon-riskworkspace.png"\] Alt text: List icon. icon.
 
@@ -39,6 +39,3 @@ Role required: sn\_risk\_advanced.risk\_asmt\_project\_manager
 
 **Parent Topic:**[Risk assessment project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/risk-assessment-project.md)
 
-## Related
-
-- [[risk-workspace|risk workspace]]

@@ -14,9 +14,9 @@ breadcrumb: [Authentication, Hardening settings, Platform Security]
 
 # Enable relay state in SAML requests to prevent replay attacks
 
-Reduce the risk of replay attacks by enabling relay state in [[c_SAML2.0WebBrowserSSOProfile|SAML]] requests to help prevent replay attacks.
+Reduce the risk of replay attacks by enabling relay state in SAML requests to help prevent replay attacks.
 
-Protect against SAML replay attacks using the **glide.authenticate.sso.saml2.enable\_relay\_state\_with\_id** system property. When this property is set to **true**, the relay state parameter contains the sys\_id of a record in the MultiSSO [[c_requestAPI|Request]] Parameters \[multisso\_request\_parameter\] table, which the relay state URL redirects to.
+Protect against SAML replay attacks using the **glide.authenticate.sso.saml2.enable\_relay\_state\_with\_id** system property. When this property is set to **true**, the relay state parameter contains the sys\_id of a record in the MultiSSO Request Parameters \[multisso\_request\_parameter\] table, which the relay state URL redirects to.
 
 Set the system property **glide.authenticate.sso.saml2.enable\_relay\_state\_with\_id** to **true**. This helps prevent attackers who have gained access to a SAML request from accessing your instance by resubmitting a valid request.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Technical [[sc-configuration|configuration]] name
+Technical configuration name
 
 </td><td>
 
@@ -123,8 +123,3 @@ true
 
 **Parent Topic:**[Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-authentication.md)
 
-## Related
-
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[c_requestAPI|request]]
-- [[sc-configuration|Configuration]]

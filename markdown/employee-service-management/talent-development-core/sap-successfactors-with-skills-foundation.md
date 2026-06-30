@@ -14,7 +14,7 @@ breadcrumb: [Skills import, Skills Workspace, Exploring Skills Foundation, Skill
 
 # SAP SuccessFactors integration Skills Foundation
 
-Import skills \(skill data and user-specific skill data\) from SAP SuccessFactors into your [[skills-intelligence|Skills Foundation]] application using the skills import flow to maintain data consistency.
+Import skills \(skill data and user-specific skill data\) from SAP SuccessFactors into your Skills Foundation application using the skills import flow to maintain data consistency.
 
 Prerequisites for SAP SuccessFactors integration.
 
@@ -25,7 +25,7 @@ Prerequisites for SAP SuccessFactors integration.
     -   sn\_skills\_int.default\_skill\_level\_type: The sys\_id of a skill level type has unique number in the Value field. In case the Value field has an invalid number, an error message is displayed saying that the user has to restart the flow after providing the correct value.
     -   sn\_skills\_int.allow\_import\_to\_override\_skill\_level: This system property when set to True will override the proficiency of the existing skills of an employee. The highest proficiency whether it's from the import or the existing proficiency value will be retained.
 
-        If the system property is False, there is will be no change in the proficiency values, but if a skill is validated for an employee, the same will be reflected in [[emp-slate-employee-profile|employee profile]] after the import.
+        If the system property is False, there is will be no change in the proficiency values, but if a skill is validated for an employee, the same will be reflected in employee profile after the import.
 
 
 The integration options available are:
@@ -33,7 +33,3 @@ The integration options available are:
 -   SuccessFactors - All: Imports all the skills from SuccessFactors.
 -   SuccessFactors - User skills: Imports all the skills from the user profiles SuccessFactors. After the import and harmonization is complete, the skills are added to the respective employee profiles and also validated by the manager.
 
-## Related
-
-- [[skills-intelligence|Skills Foundation]]
-- [[emp-slate-employee-profile|Employee profile]]

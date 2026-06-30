@@ -14,7 +14,7 @@ breadcrumb: [Resource Management reference, Resource Management classic, Project
 
 # Diagnostics Scripts form
 
-Use the [[diagnostic-scripts-form|Diagnostic Scripts form]] to scan the data in your application for any corruption.
+Use the Diagnostic Scripts form to scan the data in your application for any corruption.
 
 |Field|Description|
 |-----|-----------|
@@ -24,6 +24,3 @@ Use the [[diagnostic-scripts-form|Diagnostic Scripts form]] to scan the data in 
 
 **Parent Topic:**[Resource Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rsrc-mgmt-reference.md)
 
-## Related
-
-- [[diagnostic-scripts-form|Diagnostic Scripts form]]

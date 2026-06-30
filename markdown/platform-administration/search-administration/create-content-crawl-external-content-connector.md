@@ -19,7 +19,7 @@ Retrieve searchable content and metadata from your source system with a content 
 
 ## Before you begin
 
-To run crawls for [[ext-cont-connectors-landing-page|external content connectors]], your instance must have inbound mTLS support enabled. For details on verifying that this feature is enabled on your instance, see [Verify whether inbound mTLS support is activated for your instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/verify-adcv2-inbound-mtls-enabled.md).
+To run crawls for external content connectors, your instance must have inbound mTLS support enabled. For details on verifying that this feature is enabled on your instance, see [Verify whether inbound mTLS support is activated for your instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/verify-adcv2-inbound-mtls-enabled.md).
 
 Role required: sn\_ext\_conn.xcc\_admin
 
@@ -60,7 +60,7 @@ You can run a content crawl as a one-time task or set it to recur on a scheduled
 
 6.  To make your content crawl run on a recurrent schedule, select the **Make recurring** option, then specify the schedule options.
 
-    **Note:** If the **Make recurring** option isn't shown, the external content connector automatically [[c_UseSchedules|schedules]] its own content crawls. In this case, you can only run one-time content crawls.
+    **Note:** If the **Make recurring** option isn't shown, the external content connector automatically schedules its own content crawls. In this case, you can only run one-time content crawls.
 
     1.  Enter a name for your scheduled crawl.
 
@@ -74,7 +74,7 @@ You can run a content crawl as a one-time task or set it to recur on a scheduled
 
     5.  Specify when you want the system to run your scheduled crawl by entering its start time and selecting a time zone.
 
-        The start time should be in **hh:mm a** format, where the format [[r_DirectJDBCProbeParameters|parameters]] have the following values:
+        The start time should be in **hh:mm a** format, where the format parameters have the following values:
 
         -   **hh**: a one- or two-digit hour between 0 and 12 inclusive, such as `5` or `11`
         -   **mm**: a two-digit minute between 00 and 59 inclusive, such as `15` or `37`
@@ -92,16 +92,9 @@ If you selected the **Make recurring** option in step [6](https://raw.githubuser
 
 ## What to do next
 
-You can monitor your content crawl's status or review its [[hs-results|results]] using the crawl history and analytics. For details on these [[c_MetricDefinitionSupport|metrics]], see [Review crawl history for an external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/review-crawl-ext-cont-connector.md).
+You can monitor your content crawl's status or review its results using the crawl history and analytics. For details on these metrics, see [Review crawl history for an external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/review-crawl-ext-cont-connector.md).
 
 If you need to cancel your running content crawl, see [Cancel a running external content connector crawl](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/cancel-ext-cont-connector-crawl.md).
 
 **Parent Topic:**[Crawling content with External Content Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/using-ext-cont-connectors.md)
 
-## Related
-
-- [[ext-cont-connectors-landing-page|External Content Connectors]]
-- [[c_UseSchedules|Schedules]]
-- [[r_DirectJDBCProbeParameters|Parameters]]
-- [[hs-results|Results]]
-- [[c_MetricDefinitionSupport|Metrics]]

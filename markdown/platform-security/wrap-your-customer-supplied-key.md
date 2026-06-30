@@ -12,13 +12,13 @@ breadcrumb: [Configure Customer-supplied keys for Field Encryption Enterprise, C
 
 # Wrap your customer-supplied key
 
-Wrap your symmetric data [[encryption-landing|encryption]] key with an ephemeral public wrapping key before you can upload it to your instance.
+Wrap your symmetric data encryption key with an ephemeral public wrapping key before you can upload it to your instance.
 
 ## Before you begin
 
 Role required: security\_admin and sn\_kmf.cryptographic\_manager or sn\_kmf.admin
 
-You must have a symmetric data encryption key in a `.bin` to use these steps. For instructions on this process, see [[fe-config-customer-supplied-keys|Configure Customer-supplied keys for Field Encryption Enterprise]].
+You must have a symmetric data encryption key in a `.bin` to use these steps. For instructions on this process, see [Configure Customer-supplied keys for Field Encryption Enterprise](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/fe-config-customer-supplied-keys.md).
 
 **Important:** Your symmetric data encryption key must be in a binary format \(.BIN\). If another format is used, the following error message:
 
@@ -26,17 +26,17 @@ You must have a symmetric data encryption key in a `.bin` to use these steps. Fo
 
 ## About this task
 
-To modify optional properties that control the size, padding algorithm, and validity period of the key, see [[configure-properties-for-customer-supplied-key|Configure properties for customer-supplied key]].
+To modify optional properties that control the size, padding algorithm, and validity period of the key, see [Configure properties for customer-supplied key](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/configure-properties-for-customer-supplied-key.md).
 
 You must have a cryptographic tool to wrap your key. The example in this document uses OpenSSL 1.1. For more information on OpenSSL, see details at [https://www.openssl.org](https://www.openssl.org). If you’re using other cryptographic tools, such as LibreSSL or GnuTLS, refer to the documentation for those products for similar steps.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Security** &gt; **[[field-encryption|Field Encryption]]** &gt; **Field Encryption Experience**.
+1.  Navigate to **All** &gt; **System Security** &gt; **Field Encryption** &gt; **Field Encryption Experience**.
 
 2.  Select**View module details** from the **Field Encryption modules overview** to open the field encryption module that you’ve previously created.
 
-    **Note:** If you haven't created a field encryption module yet, you can create one using the steps in [[configure-fe-modules|Configure Field Encryption modules]].
+    **Note:** If you haven't created a field encryption module yet, you can create one using the steps in [Configure Field Encryption modules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/configure-fe-modules.md).
 
 3.  In the **Cryptographic Specification** section, select **Manage Specification Settings**.
 
@@ -128,10 +128,3 @@ Now that your key is wrapped, you can upload it to your instance using the proce
 
 **Parent Topic:**[Configure Customer-supplied keys for Field Encryption Enterprise](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/fe-config-customer-supplied-keys.md)
 
-## Related
-
-- [[fe-config-customer-supplied-keys|Configure Customer-supplied keys for Field Encryption Enterprise]]
-- [[configure-properties-for-customer-supplied-key|Configure properties for customer-supplied key]]
-- [[configure-fe-modules|Configure Field Encryption modules]]
-- [[encryption-landing|Encryption]]
-- [[field-encryption|Field Encryption]]

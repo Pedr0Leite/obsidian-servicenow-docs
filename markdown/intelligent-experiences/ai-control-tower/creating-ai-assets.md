@@ -15,7 +15,7 @@ breadcrumb: [Use, AI Control Tower, Enable AI experiences]
 
 # Creating AI assets
 
-You can create [[ai-assets|AI assets]] to track and manage the life cycles of your [[ai-system|AI systems]], [[ai-models|AI models]], [[ai-prompts|prompts]], and [[ai-datasets|datasets]].
+You can create AI assets to track and manage the life cycles of your AI systems, AI models, prompts, and datasets.
 
 -   **[Create AI system assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/create-ai-system-assets.md)**  
 Create AI assets to track and manage the life cycles of your AI systems.
@@ -28,10 +28,3 @@ Create AI assets to track and manage the life cycles of your datasets.
 
 **Parent Topic:**[Using AI Control Tower](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/using-ai-control-tower.md)
 
-## Related
-
-- [[ai-assets|AI assets]]
-- [[ai-system|AI systems]]
-- [[ai-models|AI models]]
-- [[ai-prompts|Prompts]]
-- [[ai-datasets|Datasets]]

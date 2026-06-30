@@ -14,7 +14,7 @@ breadcrumb: [Available on-premise discovery patterns, Discovery patterns used by
 
 # Oracle GLAS data collection using patterns
 
-The ServiceNow [[r-discovery|Discovery]] application uses the Oracle GLAS Data Collection pattern extensions to discover Oracle GLAS data. This data includes discovered Oracle Database, Middleware, and Java configuration items.
+The ServiceNow Discovery application uses the Oracle GLAS Data Collection pattern extensions to discover Oracle GLAS data. This data includes discovered Oracle Database, Middleware, and Java configuration items.
 
 Oracle GLAS Data Collection patterns are extensions of the following patterns:
 
@@ -49,7 +49,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
     **Note:** The Data Collection for Oracle Global Licensing and Advisory Services app requires the Discovery \(com.snc.discovery\) plugin to work correctly.
 
 -   **Verify the following applications are installed**
-    -   Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns
+    -   Discovery and Service Mapping Patterns
     -   CMDB CI Class Models
 -   **Verify operating system privileges**
 
@@ -529,7 +529,7 @@ The property is set to **False** by default.
 
 ## Oracle Java process discovery
 
-[[itom-visibility-landing-page|ITOM Visibility]] can discover Java-running processes in your infrastructure, allowing you to comply with Oracle licensing agreements and prepare for GLAS Audits. You can perform the discovery using the Java Installation pattern \(IP-based\), [[acc-landing-page|Agent Client Collector]] with application patterns, or Agent Client Collector with [[file-based-discovery|file-based discovery]].
+ITOM Visibility can discover Java-running processes in your infrastructure, allowing you to comply with Oracle licensing agreements and prepare for GLAS Audits. You can perform the discovery using the Java Installation pattern \(IP-based\), Agent Client Collector with application patterns, or Agent Client Collector with file-based discovery.
 
 In the pattern flow, the Java processes are discovered by Application Dependency Mapping \(ADM\). When the processes are discovered, the Java Installation pattern triggers and collects the data.
 
@@ -582,7 +582,7 @@ For more information about Agent Client Collector with file-based discovery, see
     |File information|Provides a reference to the \[cmdb\_file\_information\] table. Relevant only for file-based discovery \(FBD\); in pattern-based discovery, this field remains empty.|
 
 
-Download the Oracle GLAS report in the [[discovery-admin-workspace|Discovery Admin Workspace]]. For more information, see [Download Oracle Global License Advisory Services \(GLAS\) data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/download-oracle-glas-data.md).
+Download the Oracle GLAS report in the Discovery Admin Workspace. For more information, see [Download Oracle Global License Advisory Services \(GLAS\) data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/download-oracle-glas-data.md).
 
 ## Oracle GLAS Data Collection
 
@@ -593,7 +593,7 @@ After upgrading to Discovery Admin Workspace version 1.3.1 \(August 2024 Store\)
 -   **[Download Oracle Global License Advisory Services \(GLAS\) data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/download-oracle-glas-data.md)**  
 Download Oracle GLAS data in CSV format to get detailed information on patterns and configuration items. You can also download reports for Oracle Database, Middleware, Oracle Java, VM, and vCenter hardware information.
 -   **[Enable the Oracle GLAS V2 data collection method](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/enable-oracle-glas-v2-method.md)**  
-[[enable-oracle-glas-v2-method|Enable the Oracle GLAS V2 data collection method]] to improve data collection performance in large-scale or high volume Oracle database environments.
+Enable the Oracle GLAS V2 data collection method to improve data collection performance in large-scale or high volume Oracle database environments.
 
 **Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/available-patterns.md)
 
@@ -604,12 +604,3 @@ Download Oracle GLAS data in CSV format to get detailed information on patterns 
 
 [Oracle pluggable database and container database discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/oracle-cdb-pdb-discovery.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[itom-visibility-landing-page|ITOM Visibility]]
-- [[acc-landing-page|Agent Client Collector]]
-- [[file-based-discovery|File-based Discovery]]
-- [[discovery-admin-workspace|Discovery Admin Workspace]]
-- [[enable-oracle-glas-v2-method|Enable the Oracle GLAS V2 data collection method]]

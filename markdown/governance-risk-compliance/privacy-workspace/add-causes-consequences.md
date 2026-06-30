@@ -26,7 +26,7 @@ You can add multiple causes to a privacy case and define a primary cause. Any pr
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[privacy-management|Privacy Management]]** &gt; **Privacy Workspace**.
+1.  Navigate to **All** &gt; **Privacy Management** &gt; **Privacy Workspace**.
 
 2.  Select the list icon \[Omitted image "ws-list-icon.png"\].
 
@@ -44,11 +44,7 @@ You can add multiple causes to a privacy case and define a primary cause. Any pr
 
 
 -   **[Cause and consequence form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/cause-and-consequence-form.md)**  
-Learn about the fields on the [[cause-and-consequence-form|cause and consequence form]]. Use this form to define cause and consequence in the Privacy Case Management application.
+Learn about the fields on the cause and consequence form. Use this form to define cause and consequence in the Privacy Case Management application.
 
 **Parent Topic:**[Using Privacy Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/using-pcm.md)
 
-## Related
-
-- [[privacy-management|privacy management]]
-- [[cause-and-consequence-form|Cause and consequence form]]

@@ -24,7 +24,7 @@ Each template is associated with a document type such as a managed document or k
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[e-signature|E-signature]]** &gt; **E-signature template**.
+1.  Navigate to **All** &gt; **E-signature** &gt; **E-signature template**.
 
 2.  Click **New** or open a record.
 
@@ -81,7 +81,7 @@ Acknowledgment text
 
 </td><td colspan="2">
 
-Adds a [[check-box|check box]] with accompanying acknowledgment text that the user must select before the signing is completed. This option can be used with any signature type.**Note:** Acknowledgment text is limited to 1,000 characters.
+Adds a check box with accompanying acknowledgment text that the user must select before the signing is completed. This option can be used with any signature type.**Note:** Acknowledgment text is limited to 1,000 characters.
 
 </td></tr></tbody>
 </table>4.  Click **Submit** or **Update**.
@@ -93,7 +93,3 @@ You can use the e-signature template in task forms to request electronic signatu
 
 **Parent Topic:**[Using e-signature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/e-signature/using-esignature.md)
 
-## Related
-
-- [[e-signature|E-signature]]
-- [[check-box|Check box]]

@@ -37,8 +37,5 @@ Screen fetch types typically do not need to be changed. Be sure to test fetch ty
 4.  Click **Update**.
 
 
-**Parent Topic:**[[applet-fetch-types|Mobile fetch types]]
+**Parent Topic:**[Mobile fetch types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/applet-fetch-types.md)
 
-## Related
-
-- [[applet-fetch-types|Mobile fetch types]]

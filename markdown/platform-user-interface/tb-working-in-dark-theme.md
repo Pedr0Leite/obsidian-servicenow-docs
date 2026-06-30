@@ -12,29 +12,20 @@ breadcrumb: [Working with themes, Configure, Next Experience UI, Configure UIs a
 
 # Working with the dark theme
 
-The dark theme emits less blue light, making the display easier for your eyes and less disturbing in low-light settings. The dark theme is supported for configurable workspaces, [[lists-configurable-workspace|lists]], [[form-configurable-workspace|forms]], dashboards, and reports.
+The dark theme emits less blue light, making the display easier for your eyes and less disturbing in low-light settings. The dark theme is supported for configurable workspaces, lists, forms, dashboards, and reports.
 
 The Next Experience Coral and Polaris themes include a dark variant that is enabled by default, but dark theme support depends on how an experience or page is built and may not apply consistently across all UI experiences.
 
 **Note:** Some custom pages don’t inherit the dark theme, which may create visual inconsistencies in the classic environment. This behavior is expected and it’s the responsibility of your administrator to exclude the dark theme from your classic environment if the inconsistencies are unacceptable for your company.
 
--   **[[tb-open-theme-menu|Open the theme menu]]**  
+-   **[Open the theme menu](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tb-open-theme-menu.md)**  
 Use the Next Experience Theme menu to quickly change your theme.
--   **[[tb-enable-dark-theme-using-sysprops|Enable the Next Experience dark theme for limited classic environment and configurable workspaces]]**  
+-   **[Enable the Next Experience dark theme for limited classic environment and configurable workspaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tb-enable-dark-theme-using-sysprops.md)**  
 Enable the Next Experience dark theme for limited classic environment and configurable workspaces by using system properties.
--   **[[tb-disable-dark-theme|Disable the dark theme in all Next Experience instances]]**  
+-   **[Disable the dark theme in all Next Experience instances](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tb-disable-dark-theme.md)**  
 Disable the Next Experience dark theme in all of Next Experience instances.
--   **[[tb-enable-dark-theme-config-workspaces|Enable the dark theme only in configurable workspaces]]**  
+-   **[Enable the dark theme only in configurable workspaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tb-enable-dark-theme-config-workspaces.md)**  
 Enable the Next Experience dark theme in configurable workspaces only, and not for the classic environment. The dark theme emits less blue light, making the display easier for your eyes and less disturbing in low-light settings.
 
-**Parent Topic:**[[next-experience-theming|Working with themes in Next Experience]]
+**Parent Topic:**[Working with themes in Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-theming.md)
 
-## Related
-
-- [[tb-open-theme-menu|Open the theme menu]]
-- [[tb-enable-dark-theme-using-sysprops|Enable the Next Experience dark theme for limited classic environment and configurable workspaces]]
-- [[tb-disable-dark-theme|Disable the dark theme in all Next Experience instances]]
-- [[tb-enable-dark-theme-config-workspaces|Enable the dark theme only in configurable workspaces]]
-- [[next-experience-theming|Working with themes in Next Experience]]
-- [[lists-configurable-workspace|Lists]]
-- [[form-configurable-workspace|Forms]]

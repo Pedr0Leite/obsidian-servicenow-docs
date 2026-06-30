@@ -36,7 +36,7 @@ Role required: admin
 
 6.  Open the table record.
 
-7.  If the **Live feed** [[check-box|check box]] does not appear on the form, [configure the form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md) to add the **Live feed** field.
+7.  If the **Live feed** check box does not appear on the form, [configure the form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md) to add the **Live feed** field.
 
 8.  On the form, select the **Live feed** check box.
 
@@ -51,6 +51,3 @@ The **Live Feed** button appears on the overflow menu of the form header.
 
 **Parent Topic:**[Configure record feeds](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/c_ConfigureRecordFeeds.md)
 
-## Related
-
-- [[check-box|Check box]]

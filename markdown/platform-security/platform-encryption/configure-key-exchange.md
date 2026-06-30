@@ -14,7 +14,7 @@ breadcrumb: [Key Management Framework Resource Exchange, Key Management Framewor
 
 # Configure Key Exchange
 
-[[encryption|Key Management Framework]] \(KMF\) generates automatic key exchange requests for supported cryptographic modules during the fresh installation or upgrade of the instance, and manages the data [[encryption-landing|encryption]] key locally for the instance.
+Key Management Framework \(KMF\) generates automatic key exchange requests for supported cryptographic modules during the fresh installation or upgrade of the instance, and manages the data encryption key locally for the instance.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: sn\_kmf.cryptographic\_manager
 
 Key Exchange requests are initiated from the target instance.
 
-Automatic Key Exchange is active by default when cloning an instance, where the property is cloned to the target instance. Along with KMF, configure [[ca-system-properties|system properties]] to manage how keys are handled during an instance clone:
+Automatic Key Exchange is active by default when cloning an instance, where the property is cloned to the target instance. Along with KMF, configure system properties to manage how keys are handled during an instance clone:
 
 -   **Turn off automatic key exchange:** Set the **glide\_encryption.auto\_key\_exchange.enabled** property to **false** for recurring clone requests.
 -   **Send auto key exchange requests**: Set this property to **true**.
@@ -64,7 +64,7 @@ Exchange Frequency
 
 </td><td>
 
--   **Adhoc**: Enter the sys\_id for the source instance to [[c_requestAPI|request]] the keys from.
+-   **Adhoc**: Enter the sys\_id for the source instance to request the keys from.
 -   **One Time Clone**, **Recurring Clone**: Enter the sys\_id for the target instance that sends the requests.
 
 **Tip:** Enter `stats.do` in the application navigator to locate the instance ID.
@@ -131,9 +131,3 @@ After a key exchange is attempted, your non-production instance updates the **pr
 
 **Parent Topic:**[Key Management Framework Resource Exchange](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/resource-exchange.md)
 
-## Related
-
-- [[encryption|Key Management Framework]]
-- [[encryption-landing|Encryption]]
-- [[ca-system-properties|System properties]]
-- [[c_requestAPI|request]]

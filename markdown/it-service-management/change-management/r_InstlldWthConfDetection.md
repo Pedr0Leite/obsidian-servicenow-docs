@@ -20,7 +20,7 @@ Several types of components are installed with Change Management - Collision Det
 
 ## Tables installed with Change Management - Collision Detector
 
-[[c_ITILChangeManagement|Change Management]] - Collision Detector adds or modifies the following tables.
+Change Management - Collision Detector adds or modifies the following tables.
 
 |Table|Description|
 |-----|-----------|
@@ -30,6 +30,3 @@ Several types of components are installed with Change Management - Collision Det
 |Conflict \[conflict\]|Represents conflicts found during the detection process.|
 |Maintenance Schedule \[cmn\_schedule\_maintenance\]|Represents a maintenance schedule|
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]

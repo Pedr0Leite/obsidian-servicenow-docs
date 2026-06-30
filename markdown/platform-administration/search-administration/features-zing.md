@@ -14,7 +14,7 @@ breadcrumb: [Zing text indexing and search engine, Search administration, Config
 
 # Features of Zing text indexing and search engine
 
-Enable and configure [[c_ZingTextSearch|Zing text indexing and search engine]] features.
+Enable and configure Zing text indexing and search engine features.
 
 <table id="table_l31_lxp_fz"><thead><tr><th>
 
@@ -90,7 +90,7 @@ Active
 
 </td><td>
 
-Display global text search [[hs-results|results]] for each table as Zing generates them.
+Display global text search results for each table as Zing generates them.
 
 </td><td>
 
@@ -128,7 +128,7 @@ Search content from attachments on indexed tables. Display attachments for searc
 
 </td><td>
 
--   [[t_DisablingAttachmentsOnATable|Index attachments on a table]]
+-   [Index attachments on a table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_DisablingAttachmentsOnATable.md)
 -   [Configure a table for indexing and searching](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/configure-single-table-for-indexing.md)
 
 </td><td>
@@ -188,9 +188,3 @@ Inactive
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[t_DisablingAttachmentsOnATable|Index attachments on a table]]
-- [[c_ZingTextSearch|Zing text indexing and search engine]]
-- [[hs-results|Results]]

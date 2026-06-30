@@ -14,10 +14,10 @@ breadcrumb: [Setting up the policy data for Insurance claims, Configure, Insuran
 
 # Setting up an insurance policy for Insurance claims
 
-Learn how to set up an insurance policy by using the [[insurance-claims-flow|Insurance claims]] application. Each new type of insurance policy requires that you create a dedicated table for that specific insurance policy type.
+Learn how to set up an insurance policy by using the Insurance claims application. Each new type of insurance policy requires that you create a dedicated table for that specific insurance policy type.
 
 -   **[Insurance policies in Insurance claims](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/insurance-policies.md)**  
-In [[fso-overview|Financial Services]] Operations, the Insurance Policy \(sn\_bom\_ins\_policy\) table is the base table for all insurance policies. Whenever a new type of policy is introduced in Insurance claims, you create a dedicated table for that insurance policy type.
+In Financial Services Operations, the Insurance Policy \(sn\_bom\_ins\_policy\) table is the base table for all insurance policies. Whenever a new type of policy is introduced in Insurance claims, you create a dedicated table for that insurance policy type.
 -   **[Create an insurance policy table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/create-an-insurance-policy-table.md)**  
 Create a table that extends the Insurance Policy \(sn\_bom\_ins\_policy\) table in the Insurance claims application. You use this table to hold all the information about insurance policies of a particular type that you sold to your customers. Creating tables helps to ensure that each type of policy is properly organized and maintained within the system.
 -   **[Create a role to access insurance policy tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/create-roles-acls-and-grant-access.md)**  
@@ -44,7 +44,3 @@ Add a related list of an insurance policy table to an insurance product model ta
 
 [Policy snapshots in Insurance claims](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/policy-snapshots.md)
 
-## Related
-
-- [[insurance-claims-flow|Insurance claims]]
-- [[fso-overview|Financial Services]]

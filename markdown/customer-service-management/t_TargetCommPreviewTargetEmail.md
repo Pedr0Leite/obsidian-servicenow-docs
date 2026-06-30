@@ -30,7 +30,7 @@ Users can preview the following information for an email notification when the C
 
 1.  Navigate to one of the following modules:
 
-    -   **[[c_TargetedCommunications|Targeted Communications]]** &gt; **Active Publications**
+    -   **Targeted Communications** &gt; **Active Publications**
     -   **Targeted Communications** &gt; **Draft Publications**
 2.  Select the desired publication.
 
@@ -44,6 +44,4 @@ Users can preview the following information for an email notification when the C
 
     Once the publication has been published, the customers in the recipient list should receive the email.
 
-## Related
 
-- [[c_TargetedCommunications|Targeted communications]]

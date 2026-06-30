@@ -14,13 +14,13 @@ breadcrumb: [Contextual search, Search administration, Configure core features, 
 
 # Contextual search concepts
 
-Contextual search concepts help you to understand different [[c_ContextualSearch|contextual search]] components that are used in the documentation, configuration, and user interface. Understanding of the concepts makes it easier for you to comprehend the interconnection between the components.
+Contextual search concepts help you to understand different contextual search components that are used in the documentation, configuration, and user interface. Understanding of the concepts makes it easier for you to comprehend the interconnection between the components.
 
 Contextual search uses terms and concepts that can differ from industry norms due to the unique nature of the ServiceNow platform. Contextual search includes the following concepts and components:
 
 -   **[Search resource](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/t_ApplyConfigurationToSearch.md)**
 
-    Resource that can be searched such as Catalog or Knowledge Articles. As the resources are scripted and contain JavaScript, they can combine [[hs-results|results]] from more than one table.
+    Resource that can be searched such as Catalog or Knowledge Articles. As the resources are scripted and contain JavaScript, they can combine results from more than one table.
 
     **Note:**
 
@@ -71,7 +71,3 @@ Contextual search uses terms and concepts that can differ from industry norms du
 
 **Parent Topic:**[Contextual search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/c_ContextualSearch.md)
 
-## Related
-
-- [[c_ContextualSearch|Contextual search]]
-- [[hs-results|Results]]

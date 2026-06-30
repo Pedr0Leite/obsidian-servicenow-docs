@@ -26,7 +26,7 @@ The system validates the copied threshold configuration. If any validation error
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Risk** &gt; **[[risk-workspace|Risk Workspace]]** &gt; **Metrics** &gt; **Metrics**.
+1.  Navigate to **All** &gt; **Risk** &gt; **Risk Workspace** &gt; **Metrics** &gt; **Metrics**.
 
 2.  Select the metric that contains the threshold you want to copy.
 
@@ -47,6 +47,3 @@ The system validates the copied threshold configuration. If any validation error
 
 **Parent Topic:**[Configuring metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/configuring-irm-metrics.md)
 
-## Related
-
-- [[risk-workspace|risk workspace]]

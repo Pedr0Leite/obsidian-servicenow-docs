@@ -15,7 +15,7 @@ breadcrumb: [AI Gateway, Explore, AI Control Tower, Enable AI experiences]
 
 # Process flow of MCP servers Via AI Gateway
 
-Explore the process flow of configuring and introducing MCP servers via [[ai-gateway-overview|AI Gateway]] in [[ai-control-tower-landing|AI Control Tower]].
+Explore the process flow of configuring and introducing MCP servers via AI Gateway in AI Control Tower.
 
 The following steps are performed in the following order to complete the process flow of MCP servers.
 
@@ -28,7 +28,3 @@ Role required: AI steward \[sn\_ai\_governance.ai\_steward\]
 2.  [Explore the MCP server approval workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/playbook-workflow-of-mcp-server-approval-request.md)
 3.  [Set up the AI Gateway and Client registration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/mcp-client-integration-of-copilot-studio-via-ai-gateway.md)
 
-## Related
-
-- [[ai-gateway-overview|AI Gateway]]
-- [[ai-control-tower-landing|AI Control Tower]]

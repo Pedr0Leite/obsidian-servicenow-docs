@@ -14,7 +14,7 @@ breadcrumb: [Configuring SCCM, Client software distribution from SCCM, Client So
 
 # Create Windows credentials for SCCM deployments
 
-Microsoft System Center Configuration Manager \(SCCM\) requires the appropriate credentials to deploy applications using the [[c_ClientSoftwareDistribution|Client Software Distribution]] application.
+Microsoft System Center Configuration Manager \(SCCM\) requires the appropriate credentials to deploy applications using the Client Software Distribution application.
 
 ## Before you begin
 
@@ -37,7 +37,7 @@ Client software distribution requires Windows credentials that have administrati
     **Important:** Ensure the following:
 
     -   This user must have the Application Administrator role on the SCCM server.
-    -   Use the credentials to log into the SCCM Server and [[c_Connect|connect]] via Windows PowerShell from the System Center Configuration Manager console at least once to set the path variable for that credential.
+    -   Use the credentials to log into the SCCM Server and connect via Windows PowerShell from the System Center Configuration Manager console at least once to set the path variable for that credential.
 5.  Fill in the other fields on the form, as appropriate.
 
     For details, see [Windows credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/r_WindowsCredentialsForm.md).
@@ -47,7 +47,3 @@ Client software distribution requires Windows credentials that have administrati
 
 **Parent Topic:**[Configuring SCCM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/configuring-sccm.md)
 
-## Related
-
-- [[c_ClientSoftwareDistribution|Client Software Distribution]]
-- [[c_Connect|Connect]]

@@ -14,7 +14,7 @@ breadcrumb: [Exploring Agent Client Collector, Agent Client Collector, IT Operat
 
 # Agent-based data flow
 
-The [[acc-landing-page|Agent Client Collector]] gathers information on the health of the CI that the Agent is installed on, and the applications that run on the hosts. The Agent runs several checks and pushes the checks' results to the MID Server, where they are converted into events or metrics.
+The Agent Client Collector gathers information on the health of the CI that the Agent is installed on, and the applications that run on the hosts. The Agent runs several checks and pushes the checks' results to the MID Server, where they are converted into events or metrics.
 
 Events are stored in the instance's Events database, while metrics are stored in the Metrics database.
 
@@ -28,6 +28,3 @@ The numbered entries in the flow indicate the following:
 2.  The MID Server analyzes the data and classifies the results as events or metrics. MID Server uses REST API to send the results to the instance.
 3.  The instance receives the data and stores it in the relevant database.
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

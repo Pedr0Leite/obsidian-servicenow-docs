@@ -15,7 +15,7 @@ breadcrumb: [Set up SAP integration to establish a connection with SAP, Software
 
 # Configure roles and authorizations for the OAuth user
 
-Create a role in SAP and assign the required authorization objects to the OAuth system user to support OData service access and background job execution for integration with the [[c_SoftwareAssetMgmt|Software Asset Management]] application.
+Create a role in SAP and assign the required authorization objects to the OAuth system user to support OData service access and background job execution for integration with the Software Asset Management application.
 
 ## Before you begin
 
@@ -70,6 +70,3 @@ The OAuth user has the required authorizations to access OData services, run bac
 
 Create an OAuth 2.0 SAP connection on your ServiceNow instance. For more information, see [Establish an SAP connection using OAuth 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/add-sap-connection-oauth.md).
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

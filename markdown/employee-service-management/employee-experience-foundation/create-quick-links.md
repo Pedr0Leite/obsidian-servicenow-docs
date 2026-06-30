@@ -15,7 +15,7 @@ breadcrumb: [Quick links, Setup Employee Center browse experience features, Conf
 
 # Create a quick link
 
-You can create [[emp-center-quick-link-config|quick links]] using the quick links module in the [[employee-center-landing-page|Employee Center]] for accessing internal and external resources, such as knowledge bases, catalog items, pages, and links.
+You can create quick links using the quick links module in the Employee Center for accessing internal and external resources, such as knowledge bases, catalog items, pages, and links.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Role required: sp\_admin, taxonomy\_manager, or taxonomy\_admin
 
 ## About this task
 
-You can associate quick links to topics in a taxonomy or to the Employee Center and [[employee-center-pro-landing|Employee Center Pro]] home pages. For more information, see [EC Information architecture](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-information-architecture.md).
+You can associate quick links to topics in a taxonomy or to the Employee Center and Employee Center Pro home pages. For more information, see [EC Information architecture](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-information-architecture.md).
 
 ## Procedure
 
@@ -71,8 +71,3 @@ Restrict access to quick links by setting the user criteria, which allows access
 
 [Guided Self-Service in Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/gss-guided-self-service-overview.md)
 
-## Related
-
-- [[emp-center-quick-link-config|Quick links]]
-- [[employee-center-landing-page|Employee Center]]
-- [[employee-center-pro-landing|Employee Center Pro]]

@@ -20,7 +20,7 @@ Add organizational entities and teams to an Enterprise Agile Planning \(EAP\) co
 
 [Activate an EAP configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/activate-eap-configuration.md).
 
-Ensure that **Application Scope** of your ServiceNow instance is set to **[[alignment-planner-workspace-landing-page|Strategic Planning]]**.
+Ensure that **Application Scope** of your ServiceNow instance is set to **Strategic Planning**.
 
 Role required: sn\_apw\_advanced.eap\_admin
 
@@ -54,6 +54,4 @@ Based on your configuration, add entities such as Portfolios, Solutions Trains, 
 
         The teams that you add as Agile Teams must be of the type **Agile**. If you need new teams or cannot find any existing teams, contact your admin. For more information, see [Assignment groups in Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/manage-groups-agile-dev.md).
 
-## Related
 
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, Data visualizations, Platform Analytics experience, Plat
 
 You can group or filter table data in data visualizations by questions. The table must support questions.
 
-[[creating-data-visualizations|Creating data visualizations]] grouped by questions is helpful to:
+Creating data visualizations grouped by questions is helpful to:
 
 -   Determine whether questions that customers ask are getting answered.
 -   Gain more information from customers during the request process.
@@ -34,7 +34,7 @@ If there is a Record Producer associated with the table, variables defined in th
 
 You cannot group by Record Producer variables. For more information, see Record Producer.
 
-**Parent Topic:**[[configure-data-visualizations|Configure data visualizations]]
+**Parent Topic:**[Configure data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configure-data-visualizations.md)
 
 ## Use questions in data visualizations
 
@@ -42,7 +42,7 @@ In visualizations of data from the Task \[task\] hierarchy of tables, you can us
 
 ### Before you begin
 
-Role required: viz\_creator or higher, including itil. To see the data, you need a role permitted by a [[report-view-access-control|report\_view access control]] on the data source table
+Role required: viz\_creator or higher, including itil. To see the data, you need a role permitted by a report\_view access control on the data source table
 
 ### About this task
 
@@ -52,7 +52,7 @@ Use a question as a filter, a group by, or an alternative group by.
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Data Visualizations** and open the visualization to add the question to.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations** and open the visualization to add the question to.
 
 2.  Select one of the following options.
 
@@ -128,9 +128,3 @@ You want a different question as an alternative group by. You select **Add alter
 
 \[Omitted image "dv-alternative-group-by-questions.png"\] Alt text: Additional group by selector for questions.
 
-## Related
-
-- [[configure-data-visualizations|Configure data visualizations]]
-- [[creating-data-visualizations|Creating data visualizations]]
-- [[report-view-access-control|Report\_view access control]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

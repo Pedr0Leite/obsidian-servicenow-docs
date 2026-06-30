@@ -16,7 +16,7 @@ Reference information for AI voice agents.
 
 ## AI voice agent roles
 
-The following table lists the roles installed with the Voice for [[platform-now-assist-landing|Now Assist]] plugin.
+The following table lists the roles installed with the Voice for Now Assist plugin.
 
 |Roles|Description|
 |-----|-----------|
@@ -47,7 +47,7 @@ The following table consists of system properties to set up AI voice agents.
 
 ## Configuration for custom AI voice agent provider
 
-The following table captures the required [[exploring-ai-governance|configurations]] on your instance to support AI voice agents. These configurations are required only if you’re creating a new messaging channel, provider channel, and provider channel identity for AI voice agents.
+The following table captures the required configurations on your instance to support AI voice agents. These configurations are required only if you’re creating a new messaging channel, provider channel, and provider channel identity for AI voice agents.
 
 |Field|Value|
 |-----|-----|
@@ -921,7 +921,3 @@ Import the following JSON to create the Voice AI inbound contact flow in Amazon 
 }
 ```
 
-## Related
-
-- [[platform-now-assist-landing|Now Assist]]
-- [[exploring-ai-governance|Configurations]]

@@ -15,7 +15,7 @@ breadcrumb: [Configure, Now Assist for CSM, Customer Service Management]
 
 # Set up Now Assist in the portal case form
 
-Configure the Now Assist in portal [[r_CustomerServiceCaseForm|case form]] to minimize case creation when a resolution already exists in the current knowledge base or external sources.
+Configure the Now Assist in portal case form to minimize case creation when a resolution already exists in the current knowledge base or external sources.
 
 \[Omitted video\] Description: Configure Now Assist in portal case form
 
@@ -25,7 +25,7 @@ Role required: admin
 
 ## About this task
 
-This configuration involves setting up the record producer, configuring related [[migration-lists|lists]] and variables, testing the configuration, and relating the catalog to the portal.
+This configuration involves setting up the record producer, configuring related lists and variables, testing the configuration, and relating the catalog to the portal.
 
 ## Procedure
 
@@ -111,10 +111,5 @@ The Now Assist Case in form portal is now configured and available for use.
 **Related topics**  
 
 
-[[using-ai-search-with-q-a-within-the-portal-form|Using Now Assist in portal case form]]
+[Using Now Assist in portal case form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/using-ai-search-with-q-a-within-the-portal-form.md)
 
-## Related
-
-- [[using-ai-search-with-q-a-within-the-portal-form|Using Now Assist in portal case form]]
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[migration-lists|Lists]]

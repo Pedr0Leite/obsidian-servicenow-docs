@@ -18,7 +18,7 @@ Configure an anonymization policy to specify which techniques are used when anon
 
 ## Before you begin
 
-The [[data-privacy-landing|data privacy]] [[sc-configuration|configuration]] defines tables, `sys_user` and other, and columns to the de-identified, depending on the use case and specifies parameterized types of the techniques to be used while de-identifying data.
+The data privacy configuration defines tables, `sys_user` and other, and columns to the de-identified, depending on the use case and specifies parameterized types of the techniques to be used while de-identifying data.
 
 **Note:** To complete a privacy configuration, you must first configure a data privacy technique configuration. See [Create anonymization techniques](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/dps-create-anonymization-techniques.md) for more information.
 
@@ -28,30 +28,30 @@ Role required: data\_privacy\_admin and admin
 
 1.  Elevate to the **data\_privacy\_admin** role.
 
-    For details on role elevation, see [[t_ElevateToAPrivilegedRole|Elevate to a privileged role]].
+    For details on role elevation, see [Elevate to a privileged role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_ElevateToAPrivilegedRole.md).
 
 2.  Navigate to **System Security** &gt; **Data Privacy** &gt; **Anonymization**.
 
-    All anonymization [[ca-policies|policies]] display. Published policies are available to schedule the anonymization job.
+    All anonymization policies display. Published policies are available to schedule the anonymization job.
 
-3.  Select **[[dds-new-policy|Create new policy]]**.
+3.  Select **Create new policy**.
 
 4.  Select to either anonymize **Data tables or columns**, **User specific data**, **Catalog variable**, or **Real time data**.
 
     |Data Type|Description|
     |---------|-----------|
     |Data tables or columns|Records that match the data policy will be anonymized.|
-    |User specific data|Select a set of [[users|users]] or user groups to be anonymized.|
+    |User specific data|Select a set of users or user groups to be anonymized.|
     |Catalog variable|Anonymize sensitive data stored in catalog item variables and form fields.|
     |Real time data|Anonymize real time entries for a set of columns.|
 
-    Data privacy policies can only apply to classified data, for more information on [[data-classification|data classification]], see [Data classification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/dps-data-classification.md).
+    Data privacy policies can only apply to classified data, for more information on data classification, see [Data classification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/dps-data-classification.md).
 
 5.  Select **Create**.
 
     There are sequential steps required to complete the policy. You must **Define details** and **Assign techniques**. **Select user reference** is also required when defining the policy for user specific data.
 
-    For catalog variables, you will **Define details** and select the scope \(either **Service catalog [[c_requestAPI|request]]** or **Record producer**\), then review the **Data pattern anonymization**.
+    For catalog variables, you will **Define details** and select the scope \(either **Service catalog request** or **Record producer**\), then review the **Data pattern anonymization**.
 
     **Note:** Data pattern anonymization uses the information currently in the active data pattern table.
 
@@ -60,19 +60,9 @@ Role required: data\_privacy\_admin and admin
     -   Enter the policy name in the **Name** field, and the policy description in the **Description** field.
     -   Define what channels automatically activate the policy and the channel priority in **Activation Channels**
     -   In the **Data Class** field, select the data class to use with this policy.
-    -   Turn on or off real time [[dps-data-anonymization|data anonymization]].
+    -   Turn on or off real time data anonymization.
     **Note:** If you are not anonymizing an entry, select the **DoNothing** technique rather than leaving the entry empty. Policies with empty values in the Privacy Technique Configuration field cannot execute when used in data privacy jobs.
 
 7.  Select **Continue** to move to the next configuration step.
 
-## Related
 
-- [[t_ElevateToAPrivilegedRole|Elevate to a privileged role]]
-- [[data-privacy-landing|Data Privacy]]
-- [[sc-configuration|Configuration]]
-- [[ca-policies|Policies]]
-- [[dds-new-policy|Create new policy]]
-- [[users|Users]]
-- [[data-classification|Data Classification]]
-- [[c_requestAPI|request]]
-- [[dps-data-anonymization|Data anonymization]]

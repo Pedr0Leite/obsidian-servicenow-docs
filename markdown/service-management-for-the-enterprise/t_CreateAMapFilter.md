@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[r_SpaceManagement|Space Management]]** &gt; **Map Configuration** &gt; **Filters**.
+1.  Navigate to **All** &gt; **Space Management** &gt; **Map Configuration** &gt; **Filters**.
 
 2.  Click **New** or an existing map filter.
 
@@ -110,7 +110,7 @@ Description of the map filter.
 
 After you create a filter, click the **Show on Floor Plan** related link to view the map filter on a map.
 
-**Parent Topic:**[[r_MapFilters|Map filters]]
+**Parent Topic:**[Map filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_MapFilters.md)
 
 **Related topics**  
 
@@ -119,7 +119,3 @@ After you create a filter, click the **Show on Floor Plan** related link to view
 
 [Saved filters]()
 
-## Related
-
-- [[r_MapFilters|Map filters]]
-- [[r_SpaceManagement|Space management]]

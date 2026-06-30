@@ -14,7 +14,7 @@ breadcrumb: [Configure, Contract Management Pro for Legal Service Delivery, Inte
 
 # Install Microsoft Word add-in for ServiceNow Contracts
 
-You can activate the [[cncore-expl-snc-addin|Microsoft Word add-in for ServiceNow Contracts]] plugin \(sn\_cm\_word\_addin\) if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can activate the Microsoft Word add-in for ServiceNow Contracts plugin \(sn\_cm\_word\_addin\) if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -36,11 +36,7 @@ Role required: admin
 
 
 -   **[Configure the Microsoft Word add-in for ServiceNow Contracts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-config-word-addin.md)**  
-As an admin, [[cncore-config-word-addin|configure the Microsoft Word add-in for ServiceNow Contracts]].
+As an admin, configure the Microsoft Word add-in for ServiceNow Contracts.
 
 **Parent Topic:**[Configure Contract Management Pro for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-config-sn-legal-contracts.md)
 
-## Related
-
-- [[cncore-expl-snc-addin|Microsoft Word add-in for ServiceNow Contracts]]
-- [[cncore-config-word-addin|Configure the Microsoft Word add-in for ServiceNow Contracts]]

@@ -22,7 +22,7 @@ Role required: agent\_client\_collector\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-landing-page|Agent Client Collector]]** &gt; **Policies**.
+1.  Navigate to **All** &gt; **Agent Client Collector** &gt; **Policies**.
 
 2.  Select the **Windows log monitoring** policy.
 
@@ -74,6 +74,3 @@ Strings which are being searched for in the log. Default values are **Severe** a
 </table>
 **Parent Topic:**[Deploying Agent Client Collector on servers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-server-deployment.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

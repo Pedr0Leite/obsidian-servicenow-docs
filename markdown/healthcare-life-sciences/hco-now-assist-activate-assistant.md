@@ -12,7 +12,7 @@ breadcrumb: [Configure, Now Assist for Care Team Operations, Healthcare and Life
 
 # Activate AI Assistant for Care Team Portal
 
-Enable AI Assistant functionality in the [[care-team-portal-landing|Care Team Portal]] to provide intelligent assistance and support for healthcare workflows.
+Enable AI Assistant functionality in the Care Team Portal to provide intelligent assistance and support for healthcare workflows.
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ Role required: admin
 
 Now Assist in Virtual Agent is activated for use in the Care Team Portal.
 
-## Related
-
-- [[care-team-portal-landing|Care Team Portal]]

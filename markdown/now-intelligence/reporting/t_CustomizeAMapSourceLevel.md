@@ -66,7 +66,7 @@ Field
 
 Select the field whose data you want to display on the map. You can dot walk to other fields. Select a field that is one level more granular than the map you want to display the data on. For example, imagine you are configuring data for a level 1 map source that is displayed on the world map. Because the data for countries are displayed on the world map, select **Location Country**. Similarly, if you are configuring data to display on a map of Germany or the United States, select **Location State / Province**.
 
-**Note:** The city label is the most granular level able to be displayed when drilling down into a map report. For example: If you want to report on various site locations within a city, and define the bottom-level map source field to include location.name, the map report displays the multiple locations as the corresponding city labels. As a result, [[reporting-landing-page|reporting]] on multiple locations which have the same location.city value results in displaying multiple map dots with the same label, but with different aggregated values, and which drill down to different locations.
+**Note:** The city label is the most granular level able to be displayed when drilling down into a map report. For example: If you want to report on various site locations within a city, and define the bottom-level map source field to include location.name, the map report displays the multiple locations as the corresponding city labels. As a result, reporting on multiple locations which have the same location.city value results in displaying multiple map dots with the same label, but with different aggregated values, and which drill down to different locations.
 
  Most map sources use a field on the Location table.
 
@@ -84,7 +84,7 @@ Active
 
 </td><td>
 
-Clear this check box to make this map source unavailable when creating [[c_MapReport|map reports]].
+Clear this check box to make this map source unavailable when creating map reports.
 
 </td></tr></tbody>
 </table>4.  In the **Data transformation** section, modify these fields as appropriate.
@@ -140,7 +140,3 @@ If you selected **Use mapping**, select a mapping group to use. A mapping group 
 
 [Create a map]()
 
-## Related
-
-- [[reporting-landing-page|Reporting]]
-- [[c_MapReport|Map reports]]

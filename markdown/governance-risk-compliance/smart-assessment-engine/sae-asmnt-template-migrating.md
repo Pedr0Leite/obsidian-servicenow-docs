@@ -14,7 +14,7 @@ breadcrumb: [Configure, Smart Assessment Engine, Governance, Risk, and Complianc
 
 # Creating an assessment template from legacy assessment metric types
 
-You can use the assessment designs that you have already created by migrating the metric types to the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] [[airc-assessment-templates|assessment templates]]. You can leverage the existing assessment designs to support SAE assessment automation, analysis, and reporting.
+You can use the assessment designs that you have already created by migrating the metric types to the Smart Assessment Engine assessment templates. You can leverage the existing assessment designs to support SAE assessment automation, analysis, and reporting.
 
 ## Overview of the migration process
 
@@ -65,7 +65,3 @@ For more information about migrating the legacy metric types, see [Migrate a leg
 
 [Results of migrating a metric category to an assessment template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-migrate-asmnt-template-form.md)
 
-## Related
-
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]
-- [[airc-assessment-templates|Assessment templates]]

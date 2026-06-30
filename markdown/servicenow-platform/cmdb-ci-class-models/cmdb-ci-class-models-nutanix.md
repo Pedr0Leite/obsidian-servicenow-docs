@@ -14,9 +14,9 @@ breadcrumb: [CMDB CI class models, Configuration Management Database \(CMDB\), C
 
 # Nutanix extension classes
 
-The [[cmdb-ci-class-models|CMDB CI Class Models app]] adds or updates classes for Nutanix.
+The CMDB CI Class Models app adds or updates classes for Nutanix.
 
-CMDB CI Class Models is a ServiceNow Store app that adds class models that extend the CMDB class hierarchy. The new or updated classes include class descriptions, [[c_IdentificationRules|identification rules]], identifier entries, and, if applicable, dependent relationships. You can use the added classes just like any other CMDB class. Applications such as Discovery and Service Mapping Patterns can use the class extensions to populate CIs and discover technologies and software.
+CMDB CI Class Models is a ServiceNow Store app that adds class models that extend the CMDB class hierarchy. The new or updated classes include class descriptions, identification rules, identifier entries, and, if applicable, dependent relationships. You can use the added classes just like any other CMDB class. Applications such as Discovery and Service Mapping Patterns can use the class extensions to populate CIs and discover technologies and software.
 
 See the release notes for all CMDB CI class models.
 
@@ -356,7 +356,7 @@ External Subnet
 
 </td><td>
 
-Subnet of the external [[ip-address|IP address]] of the cluster.
+Subnet of the external IP address of the cluster.
 
 </td></tr><tr><td>
 
@@ -833,8 +833,3 @@ Number of maintained data copies. The replication factor is specified \(2 or 3\)
 
 [CMDB schema model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_ConfigurationManagementDatabase.md)
 
-## Related
-
-- [[cmdb-ci-class-models|CMDB CI Class Models app]]
-- [[c_IdentificationRules|Identification rules]]
-- [[ip-address|IP Address]]

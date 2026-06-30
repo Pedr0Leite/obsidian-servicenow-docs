@@ -12,18 +12,12 @@ breadcrumb: [Industrial Connected Workforce Core, Industrial Connected Workforce
 
 # Industrial Connected Workforce reference
 
-Reference topics provide additional information about [[industrial-connected-workforce-overview|Industrial Connected Workforce]].
+Reference topics provide additional information about Industrial Connected Workforce.
 
--   **[[components-installed-with-icw|Components installed with the Industrial Connected Workforce]]**  
+-   **[Components installed with the Industrial Connected Workforce](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/components-installed-with-icw.md)**  
 Several types of components are installed with activation of the plugin, including tables and user roles.
--   **[[contextual-sidebar-form|User preference form]]**  
+-   **[User preference form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/contextual-sidebar-form.md)**  
 The following table describes the field values for the user preference form.
 
-**Parent Topic:**[[industrial-connected-workforce-core-landing-page|Industrial Connected Workforce Core]]
+**Parent Topic:**[Industrial Connected Workforce Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-core-landing-page.md)
 
-## Related
-
-- [[components-installed-with-icw|Components installed with the Industrial Connected Workforce]]
-- [[contextual-sidebar-form|User preference form]]
-- [[industrial-connected-workforce-core-landing-page|Industrial Connected Workforce Core]]
-- [[industrial-connected-workforce-overview|Industrial Connected Workforce]]

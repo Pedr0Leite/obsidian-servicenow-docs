@@ -13,7 +13,7 @@ breadcrumb: [Configure, Now Assist Center, Enable AI experiences]
 
 # Confirm installation of Now Assist Center
 
-Confirm the installation of the [[now-assist-center-landing-page|Now Assist Center]] application.
+Confirm the installation of the Now Assist Center application.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Role required: admin
 
 ## About this task
 
-Now Assist Center installs and runs automatically as part of the standard [[platform-now-assist-landing|Now Assist]] for Platform setup. No manual steps are required. After Now Assist for Platform is installed and configured, Now Assist Center will be present on your instance.
+Now Assist Center installs and runs automatically as part of the standard Now Assist for Platform setup. No manual steps are required. After Now Assist for Platform is installed and configured, Now Assist Center will be present on your instance.
 
 Follow these steps to confirm the installation of the Now Assist Center plugin.
 
@@ -58,7 +58,7 @@ Follow these steps to confirm the installation of the Now Assist Center plugin.
 
 The application is installed and available to the appropriate user roles.
 
-**Parent Topic:**[[configuring-now-assist-center|Configuring Now Assist Center]]
+**Parent Topic:**[Configuring Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configuring-now-assist-center.md)
 
 **Related topics**  
 
@@ -67,8 +67,3 @@ The application is installed and available to the appropriate user roles.
 
 [Set up automation opportunity discovery in Now Assist Center]()
 
-## Related
-
-- [[configuring-now-assist-center|Configuring Now Assist Center]]
-- [[now-assist-center-landing-page|Now Assist Center]]
-- [[platform-now-assist-landing|Now Assist]]

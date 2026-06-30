@@ -16,7 +16,7 @@ breadcrumb: [Software Spend Detection, Software Asset Management, IT Asset Manag
 
 View all software spend from uploaded financial data in the Software Spend Detection Overview dashboard.
 
-Access the [[software-spend-detection|Software Spend Detection]] dashboard by navigating to **Software Spend Detection** &gt; **Overview**.
+Access the Software Spend Detection dashboard by navigating to **Software Spend Detection** &gt; **Overview**.
 
 Expand a publisher in the left menu bar to see their products. Select a publisher or product to show only those transactions. Select **Edit date range** to filter transactions by date. By default, the dashboard shows all transactions from within the past year. Move your cursor over the Software Spend Over Time graph to view exact spend amounts. You can also view transactions grouped by cost center, department, or location using the tabs at the bottom of the dashboard.
 
@@ -33,15 +33,10 @@ Sharing the dashboard's URL displays your currently selected publisher, product,
 |Total Products|Total number of products. This includes products automatically detected from imported financial transactions and products manually added to transactions.|
 |Unmanaged Products|Number of products that don't have a software model.|
 |Total Detected Spend|Total amount spent on software. This value is equal to Accounts Payable Spend plus Expense Spend.|
-|Unmanaged Spend|Total spend for transactions where the publisher and product are identified but there's no software model for the product. You can create [[c_CreatingSoftwareModels|software models]] and entitlements to start tracking those products and turn unmanaged spend into managed spend.|
-|Accounts Payable Spend|Total spend for transactions where the type is Accounts Payable. These transactions are from an accounting or [[c_Procurement|procurement]] system.|
+|Unmanaged Spend|Total spend for transactions where the publisher and product are identified but there's no software model for the product. You can create software models and entitlements to start tracking those products and turn unmanaged spend into managed spend.|
+|Accounts Payable Spend|Total spend for transactions where the type is Accounts Payable. These transactions are from an accounting or procurement system.|
 |Expense Spend|Total spend for transactions where the type is Expense. These transactions are from an employee expense system or credit card feed.|
 |Software Spend Over Time|Amount spent on software each month.|
 
 **Parent Topic:**[Software Spend Detection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/software-spend-detection.md)
 
-## Related
-
-- [[software-spend-detection|Software Spend Detection]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[c_Procurement|Procurement]]

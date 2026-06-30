@@ -16,7 +16,7 @@ breadcrumb: [Goal Framework and Goal Framework for SPM, Strategic Portfolio Mana
 
 The Goal Framework application helps you create goals, set targets for them, and evaluate the progress of the goals and targets to accomplish your organizational plans and drive business outcomes.
 
-The Goal Framework for [[r_ITBusinessManagement|Strategic Portfolio Management]] \(SPM\) application enables you to automate the actual value of your targets by collecting the actuals from different target sources such as benefit plans, cost plans, assessments/surveys, and PA Indicators.
+The Goal Framework for Strategic Portfolio Management \(SPM\) application enables you to automate the actual value of your targets by collecting the actuals from different target sources such as benefit plans, cost plans, assessments/surveys, and PA Indicators.
 
 -   **Goal Framework key components:**
     -   Strategic priorities: Actions of a strategic plan that help to orient your organizational strategic plan toward your goal.
@@ -42,10 +42,10 @@ A goal can also have sub-goals. You can also associate work and planning items t
 
 If you use Goal Framework with other products, you can also do the following:
 
--   If you're a ServiceNow® [[c_ProjectPortfolioSuite|Project Portfolio Management]] user, you can associate demands, projects, and programs with a goal to capture the work being done to meet your goal.
--   If you're a ServiceNow® [[agile-landing-page|Agile Development 2.0]] user, you can associate scrum epics with a goal to capture the work being done to meet your goal.
--   If you're a ServiceNow® [[SAFeoverview|Scaled Agile Framework \(SAFe\)]] user, you can associate SAFe epics and SAFe features with a goal to capture the work being done to meet your goal.
--   If you're a [[alignment-planner-workspace-landing-page|Strategic Planning]] user, you can associate planning items - Demand, Project, and Epic, and strategic items - Program and Initiative - with a goal to capture the work being done to meet your goal.
+-   If you're a ServiceNow® Project Portfolio Management user, you can associate demands, projects, and programs with a goal to capture the work being done to meet your goal.
+-   If you're a ServiceNow® Agile Development 2.0 user, you can associate scrum epics with a goal to capture the work being done to meet your goal.
+-   If you're a ServiceNow® Scaled Agile Framework \(SAFe\) user, you can associate SAFe epics and SAFe features with a goal to capture the work being done to meet your goal.
+-   If you're a Strategic Planning user, you can associate planning items - Demand, Project, and Epic, and strategic items - Program and Initiative - with a goal to capture the work being done to meet your goal.
 
 ## Targets
 
@@ -53,7 +53,7 @@ Targets help you to measure your goal. For example, to meet the goal of increasi
 
 Targets can be set as a quantitative or qualitative by defining the unit of measure for the target. Quantitative targets are numbers-based, countable, and measurable. Qualitative targets are interpretation-based, descriptive, typically yes or no type.
 
-You can also breakdown a target into smaller periods \(example, Quarterly\) which helps you set a target for each quarter and focus on the specific breakdown targets. The [[target-breakdowns-gf|target breakdowns]] are automatically created based on the breakdown interval set for the target. For details on how the target breakdowns feature works, see [Target breakdowns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/target-breakdowns-gf.md).
+You can also breakdown a target into smaller periods \(example, Quarterly\) which helps you set a target for each quarter and focus on the specific breakdown targets. The target breakdowns are automatically created based on the breakdown interval set for the target. For details on how the target breakdowns feature works, see [Target breakdowns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/target-breakdowns-gf.md).
 
 -   **Qualitative targets**
 
@@ -68,7 +68,7 @@ Target source is a configuration for a target that is used to auto-update the ac
 
 The following target source types are supported for automating the actual value of a target.
 
--   PA Indicator: Updates the **Actual value** field on the [[target-form|target form]] by fetching the required data from the PA Indicator.
+-   PA Indicator: Updates the **Actual value** field on the target form by fetching the required data from the PA Indicator.
 -   Assessment/Survey: Updates the **Actual value** field on the target form by fetching the required data from the Assessment metric type and Assessment metric category records.
 -   Custom script: The Custom script fetches the required data from any ServiceNow AI Platform table that is configured. With the Custom script option, any table or a combination of tables present on the ServiceNow AI Platform can be configured as a target source.
 
@@ -84,9 +84,9 @@ The following target source types are supported for automating the actual value 
 
 Use the Goal Framework or Goal Framework for SPM application to do the following activities:
 
--   [[create-strategic-plan|Create a strategic plan]] for your organization \(If Strategic Planning is installed\). For more information, see [Create a strategic plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/create-strategic-plan.md).
--   [[create-strategic-priority-strategy|Create a strategic priority]] to orient your organization strategic plan toward your goal. For more information, see [Create a strategic priority for a strategic plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/create-strategic-priority.md).
--   [[create-goal|Create a goal]]. For more information, see [Create a goal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/create-goal.md).
+-   Create a strategic plan for your organization \(If Strategic Planning is installed\). For more information, see [Create a strategic plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/create-strategic-plan.md).
+-   Create a strategic priority to orient your organization strategic plan toward your goal. For more information, see [Create a strategic priority for a strategic plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/create-strategic-priority.md).
+-   Create a goal. For more information, see [Create a goal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/create-goal.md).
 -   \(For Goal Framework users\) Set targets for a goal to track and measure the progress of the goal. For more information, see [Set targets for a goal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/set-targets-for-goal.md).
 -   \(For Goal Framework for SPM users\) Set targets and automate the actual value of the targets. For more information, see [Configuring target source for target automation using Goal Framework for SPM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/setting-targets-for-a-goal-and-automating-the-actual-value-using-agf.md).
 -   Create a goal relationship with a work, planning, strategic, or any other item to identify and associate your current or future work and achieve your goals. For more information, see [Associate a work or planning item with goals or targets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/associate-work-with-goals.md).
@@ -112,15 +112,3 @@ For an example of the structure of a strategy from the strategic plan level down
 
 **Note:** The Goal Framework for SPM application is an extension to the Goal Framework application. When you install the Goal Framework for SPM application, you get all the features of Goal Framework as well as the target automation feature.
 
-## Related
-
-- [[r_ITBusinessManagement|Strategic Portfolio Management]]
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]
-- [[agile-landing-page|Agile Development 2.0]]
-- [[SAFeoverview|Scaled Agile Framework \(SAFe\)]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[target-breakdowns-gf|Target breakdowns]]
-- [[target-form|Target form]]
-- [[create-strategic-plan|Create a strategic plan]]
-- [[create-strategic-priority-strategy|Create a strategic priority]]
-- [[create-goal|Create a goal]]

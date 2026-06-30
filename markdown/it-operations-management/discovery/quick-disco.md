@@ -22,13 +22,13 @@ Scan one or more IP addresses to discover devices in your network without creati
 Verify the following:
 
 -   You're using the Zurich Patch 8 or later version of the ServiceNow AI Platform.
--   You have installed the [[itom-visibility-landing-page|ITOM Visibility]] plugin. For more information, see [Install ITOM Visibility using Setup Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/install-nowassist-setup-itom-visibility.md).
--   You have installed the Now Assist for [[r_ITOMApplications|IT Operations Management]] plugin. For more information, see [Install Now Assist for IT Operations Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/install-na-itom.md).
+-   You have installed the ITOM Visibility plugin. For more information, see [Install ITOM Visibility using Setup Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/install-nowassist-setup-itom-visibility.md).
+-   You have installed the Now Assist for IT Operations Management plugin. For more information, see [Install Now Assist for IT Operations Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/install-na-itom.md).
 -   You have at least one MID Server that is validated and in an **UP** state. The MID Server must be able to reach the IP ranges that you want to discover. For more information, see [Validate a MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/validate-mid-server.md).
 -   You have configured the credentials needed to access devices in your target IP ranges. For more information, see [Create IP credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/create-ip-credentials.md).
 -   You're on the Configure IT Operations Management page of the Configuration Console. For more information, see [Access the ITOM Configuration Console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/access-itom-config-console-disco.md).
 
-Role required: [[r-discovery|discovery]]\_admin
+Role required: discovery\_admin
 
 ## About this task
 
@@ -36,7 +36,7 @@ Use quick discovery to run an on-demand, IP-based discovery without configuring 
 
 ## Procedure
 
-1.  Navigate to **Configuration Summary** &gt; **Discovery** &gt; **[[discovery-setup|Discovery Setup]]**.
+1.  Navigate to **Configuration Summary** &gt; **Discovery** &gt; **Discovery Setup**.
 
 2.  Select **Quick Discovery**.
 
@@ -74,9 +74,3 @@ Use quick discovery to run an on-demand, IP-based discovery without configuring 
 
 [Get started with credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/credentials-getting-started.md)
 
-## Related
-
-- [[itom-visibility-landing-page|ITOM Visibility]]
-- [[r_ITOMApplications|IT Operations Management]]
-- [[r-discovery|Discovery]]
-- [[discovery-setup|Discovery setup]]

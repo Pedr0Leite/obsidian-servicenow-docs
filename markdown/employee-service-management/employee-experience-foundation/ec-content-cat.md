@@ -14,7 +14,7 @@ breadcrumb: [Reusable components, Setup employee communications, Configuring Emp
 
 # Create a content category
 
-Create a content category to tag [[ec-news-articles|news articles]].
+Create a content category to tag news articles.
 
 ## Before you begin
 
@@ -54,7 +54,7 @@ Active
 
 </td><td>
 
-Make the content category available for use in [[ec-content-templates|Content templates]] or News articles.
+Make the content category available for use in Content templates or News articles.
 
 </td></tr><tr><td>
 
@@ -80,7 +80,3 @@ Optional description for the content category. This field is only visible to oth
 
 After you finish creating a custom content category, proceed to [Create a Content template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-create-content-template.md) or [Create a news article](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-library-news-article.md).
 
-## Related
-
-- [[ec-news-articles|News articles]]
-- [[ec-content-templates|Content templates]]

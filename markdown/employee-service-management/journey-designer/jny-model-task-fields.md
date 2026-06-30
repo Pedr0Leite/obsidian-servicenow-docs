@@ -14,7 +14,7 @@ breadcrumb: [Reference, Journey designer, Employee Journey Management, HR Servic
 
 # Journey designer Model task fields
 
-Managers create to-do tasks that are saved as templates. The templates are stored as a [[jny-dsgnr-landing-page-1|Journey designer]] Model Task.
+Managers create to-do tasks that are saved as templates. The templates are stored as a Journey designer Model Task.
 
 <table id="table_epy_jkx_5qb"><thead><tr><th align="left">
 
@@ -65,7 +65,7 @@ Parent plan table
 
 </td><td>
 
-The table that contains the to-do task template information \([[journey-accelerator-1|Journey Accelerator]] Plan \[sn\_ja\_plan\]\).
+The table that contains the to-do task template information \(Journey Accelerator Plan \[sn\_ja\_plan\]\).
 
 </td></tr><tr><td>
 
@@ -107,7 +107,7 @@ Journey Accelerator task type
 
 -   Regular: Task without the scheduling feature.
 -   Calendar: Available when Journey Accelerator is configured to work with a calendar such as Microsoft Exchange Online
--   [[exploring-learning-exp|Learning]]: Delivers an online course. This option is only available when Learning Posts is installed.
+-   Learning: Delivers an online course. This option is only available when Learning Posts is installed.
 -   Pulse surveys: Delivers a survey to collect feedback. This option is only available when Listening Posts is installed.
 
 </td></tr><tr><td>
@@ -137,8 +137,3 @@ The description of the task that is visible to the users.
 </td></tr></tbody>
 </table>**Parent Topic:**[Journey designer reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsnr-reference.md)
 
-## Related
-
-- [[jny-dsgnr-landing-page-1|Journey designer]]
-- [[journey-accelerator-1|Journey Accelerator]]
-- [[exploring-learning-exp|Learning]]

@@ -36,7 +36,7 @@ If this configuration isn’t enabled, the dispute agent must manually assign ea
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[fso-overview|Financial Services]] Workspace** and open a card dispute.
+1.  Navigate to **Workspaces** &gt; **Financial Services Workspace** and open a card dispute.
 
     The AI agents are invoked in the **Processing** stage based on the assignment of a task to the dispute agent.
 
@@ -67,11 +67,7 @@ The Nacha operating guidelines check AI agent verifies if a disputed ACH transac
 -   **[Review ACH dispute return recommendation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/recommendation-ai.md)**  
 The ACH dispute return recommendation AI agent analyzes disputed transactions based on merchant analysis and Nacha eligibility. The agent recommends actions based on historical data, and applies predefined rules when data is limited.
 -   **[Dispute communication AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/dispute-communication-ai.md)**  
-The [[dispute-communication-ai|Dispute communication AI agent]] automatically picks the appropriate email template for customer communication, including outcomes, denials, and follow-ups based on the transaction details.
+The Dispute communication AI agent automatically picks the appropriate email template for customer communication, including outcomes, denials, and follow-ups based on the transaction details.
 
 **Parent Topic:**[ACH dispute AI agents overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/ach-agentic-ai-workflow.md)
 
-## Related
-
-- [[fso-overview|Financial Services]]
-- [[dispute-communication-ai|Dispute communication AI agent]]

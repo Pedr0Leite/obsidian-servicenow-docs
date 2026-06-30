@@ -66,7 +66,7 @@ You can use this topic block to request for a catalog item.
 |Parameter|Description|
 |---------|-----------|
 |catalog\_item\_id|sys\_id of the catalog item that should be requested.|
-|execute\_contextual\_search|Option to specify if the contextual search should be run for a [[c_RecordProducer|record producer]] based on its configuration. For information on defining contextual search for a record producer, see [Define contextual search for record producer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CntxtSearchRP.md).|
+|execute\_contextual\_search|Option to specify if the contextual search should be run for a record producer based on its configuration. For information on defining contextual search for a record producer, see [Define contextual search for record producer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CntxtSearchRP.md).|
 |confirm\_catalog\_item|Option to specify whether the user must confirm the catalog item before continuing with the next step. If this is set to `false`, user can answer the catalog items questions by skipping the confirmation.|
 |show\_end\_state\_card|Option to display the end state card information about the generated record to the user.|
 
@@ -119,25 +119,25 @@ The following conditions must be met when a user requests a catalog item in the 
 -   A catalog item can have non-scripted catalog UI policies. These UI policies should be defined such that variables are affected sequentially, that is, only a variable with the lower order affects a variable with the higher order.
 -   A catalog item cannot have catalog client scripts that are defined for Now Mobile or Service Portal.
 -   Only the following variables are supported:
-    -   [[attachment|Attachment]]
-    -   [[check-box|Check box]] \(A group of check box variables isn't supported\)
+    -   Attachment
+    -   Check box \(A group of check box variables isn't supported\)
     -   Date
     -   Date/Time
-    -   [[email|Email]]
-    -   [[ip-address|IP Address]]
-    -   [[label|Label]]
-    -   [[lookup-multiple-choice|Lookup Multiple Choice]] \(without pricing implications and advanced [[reference|reference]] qualifier\)
-    -   [[lookup-select-box|Lookup Select Box]] \(without pricing implications and advanced reference qualifier\)
-    -   [[multiple-choice|Multiple Choice]] \(without pricing implications\)
+    -   Email
+    -   IP Address
+    -   Label
+    -   Lookup Multiple Choice \(without pricing implications and advanced reference qualifier\)
+    -   Lookup Select Box \(without pricing implications and advanced reference qualifier\)
+    -   Multiple Choice \(without pricing implications\)
     -   Multi Line Text
-    -   [[numeric-scale|Numeric Scale]] \(without pricing implications\)
+    -   Numeric Scale \(without pricing implications\)
     -   Reference \(without pricing implications and advanced reference qualifier\)
 
         **Note:** Reference type variables that correspond to a table that has more than 7000 records are not supported. The upper limit for the number of records can be specified in the **glide.sc.va.reference\_question\_choices.limit** property. By default, it is set to 7000.
 
-    -   [[requested-for|Requested For]] \(without pricing implications and advanced reference qualifier\)
-    -   [[rich-text-label|Rich Text Label]]
-    -   [[select-box|Select Box]] \(without pricing implications\)
+    -   Requested For \(without pricing implications and advanced reference qualifier\)
+    -   Rich Text Label
+    -   Select Box \(without pricing implications\)
     -   Single Line Text
     -   URL
     -   Wide Single Line Text
@@ -157,7 +157,7 @@ The following conditions must be met when a user requests a catalog item in the 
     -   Lookup Multiple Choice
     -   Select Box
     -   Lookup Select Box
-    -   [[yes-no|Yes/No]]
+    -   Yes/No
     -   Numeric Scale \(If **Do not select first choice** configuration is not selected\)
     -   Multiple Choice \(If **Do not select first choice** configuration is not selected, or **Include none choice** configuration is selected\)
 -   If the user is using Virtual Agent in a different supported collaboration tool like Microsoft Teams:
@@ -180,7 +180,7 @@ If the catalog item is non-conversational, the request form can appear as any of
 -   Pop-up
 -   Window
 
-The conditions determine whether the [[catalog-item-form|catalog item form]] for the non-conversational catalog item will appear as inline, pop-up, or window.
+The conditions determine whether the catalog item form for the non-conversational catalog item will appear as inline, pop-up, or window.
 
 **Note:** Based on the number of questions, a **glide.sc.va.inline\_render.question.limit** property determines whether the catalog item form appears as inline or pop-up. By default, the property's value is 20.
 
@@ -198,7 +198,7 @@ Inline
 
 </td><td>
 
--   The catalog item doesn’t contain custom or [[ui-page|UI page]] variables.
+-   The catalog item doesn’t contain custom or UI page variables.
 -   If the catalog item contains 20 or fewer questions, the item form appears as inline. The default value of the **glide.sc.va.inline\_render.question.limit** property is 20.
 -   The catalog item doesn’t contain multi-row variable set \(MRVS\).
 
@@ -264,22 +264,3 @@ Users can submit a request in a Virtual Agent conversation.
 
 [Catalog builder preview topic conversation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/catalog-builder-preview-topic.md)
 
-## Related
-
-- [[c_RecordProducer|Record Producer]]
-- [[attachment|Attachment]]
-- [[check-box|Check box]]
-- [[email|Email]]
-- [[ip-address|IP Address]]
-- [[label|Label]]
-- [[lookup-multiple-choice|Lookup multiple choice]]
-- [[reference|Reference]]
-- [[lookup-select-box|Lookup select box]]
-- [[multiple-choice|Multiple choice]]
-- [[numeric-scale|Numeric scale]]
-- [[requested-for|Requested for]]
-- [[rich-text-label|Rich Text Label]]
-- [[select-box|Select box]]
-- [[yes-no|Yes/No]]
-- [[catalog-item-form|Catalog Item form]]
-- [[ui-page|UI page]]

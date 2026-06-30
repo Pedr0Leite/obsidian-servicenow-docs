@@ -16,7 +16,7 @@ Add a system property to display the desired indicator in the Coaching Overview 
 
 ## Before you begin
 
-**Important:** This feature is available with the Workforce [[optimization|Optimization]] for [[csm-workspaces-configure|CSM Configurable Workspace]] \(sn\_csm\_wfo\_workspa\) from the ServiceNow Store. To enable this feature, see [[request-configurable-wfo-cs|Activate Workforce Optimization for CS configurable workspace]].
+**Important:** This feature is available with the Workforce Optimization for CSM Configurable Workspace \(sn\_csm\_wfo\_workspa\) from the ServiceNow Store. To enable this feature, see [Activate Workforce Optimization for CS configurable workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/request-configurable-wfo-cs.md).
 
 Set the map application scope to **Coaching**. For information on how to set the scope, see [Set map application scope](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/set-map-application-scope.md).
 
@@ -91,15 +91,8 @@ sn\_coaching.coach
 </td></tr></tbody>
 </table>4.  Select **Submit**.
 
-    The configured indicator replaces the existing indicator in the Overview tab in the Coaching application in [[configurable-wfo-cs|Workforce Optimization for Customer Service]].
+    The configured indicator replaces the existing indicator in the Overview tab in the Coaching application in Workforce Optimization for Customer Service.
 
 
-**Parent Topic:**[[setup-coaching-configurable-wfo-cs|Setting up Coaching in Workforce Optimization for Customer Service]]
+**Parent Topic:**[Setting up Coaching in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/setup-coaching-configurable-wfo-cs.md)
 
-## Related
-
-- [[request-configurable-wfo-cs|Activate Workforce Optimization for Customer Service]]
-- [[setup-coaching-configurable-wfo-cs|Setting up Coaching in Workforce Optimization for Customer Service]]
-- [[optimization|Optimization]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[configurable-wfo-cs|Workforce Optimization for Customer Service]]

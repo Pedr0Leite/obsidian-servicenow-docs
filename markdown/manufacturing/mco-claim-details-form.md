@@ -36,7 +36,7 @@ Requested by
 
 </td><td>
 
-User who is raising the [[mco-use-repair-claim|repair claim]] request.
+User who is raising the repair claim request.
 
 </td></tr><tr><td>
 
@@ -104,19 +104,14 @@ Product usage
 Enter the number of Asset used. It provides insights into how customers use a product.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[repair-form|Repair form]]
+</table>**Parent Topic:**[Repair form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/repair-form.md)
 
 **Related topics**  
 
 
 [Roles and components of Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/roles-and-components-of-partner-relationship-management.md)
 
-[[mco-submit-repair-claim|Submit a repair claim for warranty]]
+[Submit a repair claim for warranty](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-submit-repair-claim.md)
 
 [mco-submit-repair-claim-for-recall]
 
-## Related
-
-- [[repair-form|Repair form]]
-- [[mco-submit-repair-claim|Submit a repair claim for warranty]]
-- [[mco-use-repair-claim|Repair claim]]

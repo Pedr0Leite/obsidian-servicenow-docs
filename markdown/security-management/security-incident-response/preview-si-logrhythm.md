@@ -14,7 +14,7 @@ breadcrumb: [Create an alarm profile, LogRhythm Overview, Security Incident Resp
 
 # Previewing the security incident with mapped LogRhythm alarm values
 
-After you have completed the [[mapping-logrhythm|mapping]] step, preview the values that you mapped to the fields on the security incident. This preview step permits you to verify that you have mapped all the critical LogRhythm alarm fields you want displayed on the security incident.
+After you have completed the mapping step, preview the values that you mapped to the fields on the security incident. This preview step permits you to verify that you have mapped all the critical LogRhythm alarm fields you want displayed on the security incident.
 
 Role required: sn\_si.admin.
 
@@ -81,6 +81,3 @@ The **Sample Alarm ID** choice list is displayed for every alarm ID you have ent
 
 **Parent Topic:**[Creating an alarm profile for LogRhythm](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-alarm-profile-logrhythm.md)
 
-## Related
-
-- [[mapping-logrhythm|Mapping]]

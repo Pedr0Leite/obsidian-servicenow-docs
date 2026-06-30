@@ -14,11 +14,11 @@ breadcrumb: [Operational Technology Incident Management, Operational Technology]
 
 # Exploring Operational Technology Incident Management
 
-Learn more about the [[operational-technology-incident-management-landing-page|Operational Technology Incident Management]] application.
+Learn more about the Operational Technology Incident Management application.
 
 ## Operational Technology Incident Management overview
 
-Watch an overview about the [[operational-technology-overview|Operational Technology]] Service Management product suite to learn more about the Operational Technology Incident Management application.\[Omitted video\] Description: Operational Technology Service Management overview video
+Watch an overview about the Operational Technology Service Management product suite to learn more about the Operational Technology Incident Management application.\[Omitted video\] Description: Operational Technology Service Management overview video
 
 ## Key features
 
@@ -29,18 +29,12 @@ With Operational Technology Incident Management, you can use the following key f
 -   Monitor and manage OT incidents separately from IT incidents.
 -   Assign a separate role for the OT incident fulfiller.
 -   Improved OT user experience.
--   Support for [[operational-technology-knowledge-management-landing-page|Operational Technology Knowledge Management]]. For more information, see [Operational Technology Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-knowledge-management/operational-technology-knowledge-management-landing-page.md).
+-   Support for Operational Technology Knowledge Management. For more information, see [Operational Technology Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-knowledge-management/operational-technology-knowledge-management-landing-page.md).
 
 -   **[Operational Technology Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/operational-technology-incident-management.md)**  
 Operational Technology Incident Management enables engineers to quickly resolve Operational Technology \(OT\) device and production process issues.
 -   **[Integrating with Industrial Process Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/integration-with-manufacturing-process-manager.md)**  
-Integrate Operational Technology Incident Management with [[industrial-process-manager-overview|Industrial Process Manager]] to report incidents on equipment model entities.
+Integrate Operational Technology Incident Management with Industrial Process Manager to report incidents on equipment model entities.
 
 **Parent Topic:**[Operational Technology Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/operational-technology-incident-management-landing-page.md)
 
-## Related
-
-- [[operational-technology-incident-management-landing-page|Operational Technology Incident Management]]
-- [[operational-technology-overview|Operational Technology]]
-- [[operational-technology-knowledge-management-landing-page|Operational Technology Knowledge Management]]
-- [[industrial-process-manager-overview|Industrial Process Manager]]

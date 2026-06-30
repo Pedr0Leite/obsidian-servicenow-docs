@@ -23,11 +23,11 @@ Capture the actual benefit from the planned benefits to measure revenue and calc
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]]**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Portfolio Planning**.
 
 2.  From the list of portfolio plans, select a portfolio plan.
 
-3.  From the Prioritization or Roadmap tab, select the planning item for which you want to [[fin-manage-actual-monetary-benefit-ppw|capture actual monetary benefits]].
+3.  From the Prioritization or Roadmap tab, select the planning item for which you want to capture actual monetary benefits.
 
     The full details page of the planning item is displayed.
 
@@ -69,8 +69,4 @@ Monetary Benefit Plan Breakdown side-panel is displayed.
 
 6.  Enter the actuals benefits resulted from the work execution in the **Actual benefit** field and select **Save**.
 
-## Related
 
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[fin-manage-actual-monetary-benefit-ppw|Capture actual monetary benefits]]

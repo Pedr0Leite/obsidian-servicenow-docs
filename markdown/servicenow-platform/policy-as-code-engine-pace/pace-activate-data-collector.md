@@ -36,10 +36,10 @@ Role required: sn\_pace.code\_editor
 
         |Field|Description|
         |-----|-----------|
-        |Label|\(Optional\) [[label|Label]] of the input or output.|
+        |Label|\(Optional\) Label of the input or output.|
         |Name|Enter a name of the input or output.|
         |Type|Select the type of the input or output.|
-        |Mandatory|Select this [[check-box|check box]] if the input is mandatory.|
+        |Mandatory|Select this check box if the input is mandatory.|
         |Description|Description of the input or output.|
         |Default value|Specify a default value.|
 
@@ -61,7 +61,4 @@ Role required: sn\_pace.code\_editor
 
     **Note:** When the data collector has been activated, you will be unable to make changes to the inputs or outputs.
 
-## Related
 
-- [[label|Label]]
-- [[check-box|Check box]]

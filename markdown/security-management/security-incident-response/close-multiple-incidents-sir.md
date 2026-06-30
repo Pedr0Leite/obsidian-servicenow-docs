@@ -22,7 +22,7 @@ Role required: sn\_si.analyst
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sir-workspace-landing-page|Security Incident Response Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Security Incident Response Workspace**.
 
 2.  Select the Security Incidents icon \[Omitted image "listview-icon.png"\] Alt text:.
 
@@ -32,7 +32,7 @@ Role required: sn\_si.analyst
 
     The Bulk Close the security incidents window displays links to access lists of the security incidents selected to be closed.
 
-    -   If at least one selected security incident has pending activities such as active tasks, [[tisc-playbooks-admin|playbooks]], child SIs, assessments, or active flows, the **Security incidents with active tasks, playbooks, child SIs, assessments and active flows** link is displayed.
+    -   If at least one selected security incident has pending activities such as active tasks, playbooks, child SIs, assessments, or active flows, the **Security incidents with active tasks, playbooks, child SIs, assessments and active flows** link is displayed.
     -   If at least one security incident selected for closing has no pending closing activities, the **Security incidents ready to be closed** link is displayed.
     \[Omitted image "bulk-closure-sir.png"\] Alt text: Close multiple security incidents
 
@@ -92,7 +92,3 @@ The incident closing activity runs in the background.
 
 [Manage Shift Handover records]()
 
-## Related
-
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[tisc-playbooks-admin|Playbooks]]

@@ -14,14 +14,10 @@ breadcrumb: [Use, Health and Safety Core, Health and Safety, Employee Service Ma
 
 # Scheduling Health and Safety actions
 
-Use the [[health-safety-overview|Health and Safety]] action scheduler to create and schedule actions across the organization and auto-assign them to specific individuals using the condition builder.
+Use the Health and Safety action scheduler to create and schedule actions across the organization and auto-assign them to specific individuals using the condition builder.
 
 -   **[Create a Health and Safety action schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/create-health-safety-action-schedule.md)**  
-Create an action schedule to schedule actions across the organization such as [[exploring-learning-exp|learning]] activities and recurring tasks.
+Create an action schedule to schedule actions across the organization such as learning activities and recurring tasks.
 
 **Parent Topic:**[Using Health and Safety Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/using-hs-core.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[exploring-learning-exp|Learning]]

@@ -25,7 +25,7 @@ You can add a CI rate card that specifies an hourly rate and associate a rate co
 -   **[Add a condition to a CI rate card](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/cost-management/t_AddAConditionToACIRateCard.md)**  
 If you're adding a condition to a CI rate card, use the **Update CI List** related link to create the relationship between the configuration item or items and the rate card.
 -   **[CI rate card costs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/cost-management/c_CIRateCardCosts.md)**  
-[[c_CIRateCardCosts|CI rate card costs]] generate expense lines for configuration items on the associated rate card
+CI rate card costs generate expense lines for configuration items on the associated rate card
 -   **[Aggregate CI costs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/cost-management/c_AggregateCICosts.md)**  
 Expense lines can be aggregated to apply all configuration item expenses to a parent business service or application with relationship paths.
 -   **[Enable relationship aggregation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/cost-management/t_EnableRelationshipAggregation.md)**  
@@ -33,6 +33,3 @@ The Process Last Month CI Costs scheduled job processes costs of configuration i
 
 **Parent Topic:**[Cost Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/cost-management/r_CostManagement.md)
 
-## Related
-
-- [[c_CIRateCardCosts|CI rate card costs]]

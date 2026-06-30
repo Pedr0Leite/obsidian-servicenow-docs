@@ -14,7 +14,7 @@ breadcrumb: [Privacy risk management, Advanced Risk Assessment, Explore, Risk Ma
 
 # Risk score rollup in Privacy Management
 
-When users of [[privacy-management|Privacy Management]] perform advanced [[risk-assessments|risk assessments]], they get the risk scores automatically rolled up.
+When users of Privacy Management perform advanced risk assessments, they get the risk scores automatically rolled up.
 
 Starting with version 14.0, users of Privacy Management can perform advanced risk assessments. Risk scores are rolled up when you perform advanced risk assessments. Rolled up scores show the aggregated risk results. The rolled up aggregated scores are displayed on the tables as shown in the following figure.
 
@@ -24,7 +24,3 @@ For more information to understand the rollup of scores, see [Risk score rollup 
 
 **Parent Topic:**[Privacy risk management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/risk-assessment-as-lite-user.md)
 
-## Related
-
-- [[privacy-management|privacy management]]
-- [[risk-assessments|risk assessments]]

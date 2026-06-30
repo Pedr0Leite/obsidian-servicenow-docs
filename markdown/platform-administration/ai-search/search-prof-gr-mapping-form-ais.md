@@ -14,9 +14,9 @@ breadcrumb: [Reference, AI Search, Search administration, Configure core feature
 
 # Search Profile - Genius Result Mapping form
 
-The Search Profile - Genius Result Mapping form enables you to [[link-gr-search-profile-ais|link a Genius Result configuration to a search profile]] in [[ia-ai-search|AI Search]].
+The Search Profile - Genius Result Mapping form enables you to link a Genius Result configuration to a search profile in AI Search.
 
-For details on linking Genius Result [[clone-configurations-tab|configurations]] to your search profiles, see [Link a Genius Result configuration to a search profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/link-gr-search-profile-ais.md).
+For details on linking Genius Result configurations to your search profiles, see [Link a Genius Result configuration to a search profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/link-gr-search-profile-ais.md).
 
 |Field|Description|
 |-----|-----------|
@@ -27,8 +27,3 @@ For details on linking Genius Result [[clone-configurations-tab|configurations]]
 
 **Parent Topic:**[AI Search reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/reference-ais.md)
 
-## Related
-
-- [[link-gr-search-profile-ais|Link a Genius Result configuration to a search profile]]
-- [[ia-ai-search|AI Search]]
-- [[clone-configurations-tab|Configurations]]

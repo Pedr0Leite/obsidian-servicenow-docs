@@ -14,7 +14,7 @@ breadcrumb: [Customer service case types, Case management, Organize agent worksp
 
 The case task type selector is a component that provides customer service agents with a way to create the right types of tasks while working on cases.
 
-Using the case task type selector, agents can select services and create case tasks specifically for those services. The selections that an agent can make within the case task type selector depends on where they [[osp-create-case-task|create a case task]] from.
+Using the case task type selector, agents can select services and create case tasks specifically for those services. The selections that an agent can make within the case task type selector depends on where they create a case task from.
 
 <table id="table_phq_hrq_yxb"><tbody><tr><td>
 
@@ -57,13 +57,13 @@ Select **New** from the Tasks related list tab on a case record
 
 </td><td>
 
-The **Service** field is auto-filled with the case service. The **Case task service** field [[migration-lists|lists]] the task services related to the case service.
+The **Service** field is auto-filled with the case service. The **Case task service** field lists the task services related to the case service.
 
  If the case has no service, the **Service task** field shows all of the related services where the target table is Case Task \[sn\_customerservice\_task\] and extensions of Case Task.
 
 </td></tr><tr><td>
 
-Select the **+** icon on the related records task list in the [[csm-contextual-related-records|Dynamic Related Records]] component
+Select the **+** icon on the related records task list in the Dynamic Related Records component
 
 </td><td>
 
@@ -87,22 +87,11 @@ Select **Create Task** in the activity viewer
 The **Service** field is auto-filled with the case service. The **Case task service** field lists the task services related to the case service.
 
 </td></tr></tbody>
-</table>Some [[migration-form-declarative-actions|declarative actions]] available with the [[customer-service-case-types|Customer Service Case Types]] plugin are disabled by default. For more information, see [[config-case-type-declarative-action|Configure case type declarative actions]].
+</table>Some declarative actions available with the Customer Service Case Types plugin are disabled by default. For more information, see [Configure case type declarative actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-case-type-declarative-action.md).
 
 ## Configuring service definitions for cases and case tasks
 
-The system administrator creates the [[csm-service-definitions|service definitions]] for [[csm-cases-case-tasks-overview|cases and case tasks]], along with their relationships. The service definition manager and service definition admin can also create these service definitions and relationships.
+The system administrator creates the [service definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-service-definitions.md) for cases and case tasks, along with their relationships. The service definition manager and service definition admin can also create these service definitions and relationships.
 
-For case task service definitions, the system administrator can include logic and default field values that the system uses when creating the case tasks. For more information, see [[csm-service-definitions-configure|Configuring service definitions]].
+For case task service definitions, the system administrator can include logic and default field values that the system uses when creating the case tasks. For more information, see [Configuring service definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-service-definitions-configure.md).
 
-## Related
-
-- [[config-case-type-declarative-action|Configure case type declarative actions]]
-- [[csm-service-definitions|Service definitions]]
-- [[csm-service-definitions-configure|Configuring service definitions]]
-- [[osp-create-case-task|Create a case task]]
-- [[migration-lists|Lists]]
-- [[csm-contextual-related-records|Dynamic related records]]
-- [[migration-form-declarative-actions|Declarative actions]]
-- [[customer-service-case-types|Customer service case types]]
-- [[csm-cases-case-tasks-overview|Cases and case tasks]]

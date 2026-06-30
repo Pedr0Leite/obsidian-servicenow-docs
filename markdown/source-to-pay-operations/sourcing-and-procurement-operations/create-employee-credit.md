@@ -14,7 +14,7 @@ breadcrumb: [Using Shopping Hub, Use, Sourcing and Procurement Operations, Finan
 
 # Create an employee credit
 
-Manage and track credits that an employee shopper is allocated to in [[shopping-hub-overview|Shopping Hub]], by creating an employee credit. If a credit already exists, allocated to an employee, it shows up as a payment option in Shopping Hub, and is created as a cost allocation entry at the backend.
+Manage and track credits that an employee shopper is allocated to in Shopping Hub, by creating an employee credit. If a credit already exists, allocated to an employee, it shows up as a payment option in Shopping Hub, and is created as a cost allocation entry at the backend.
 
 ## Before you begin
 
@@ -38,7 +38,7 @@ You can create a credit for an employee shopper from Shopping Hub.
     |Number|Unique identifier for this credit.|
     |Description|Additional information about the credit. This is visible to the shopper who is assigned the credit.|
     |Allocated to|Search for and select the user who this authorized to shop with this allocated credit.|
-    |Responsible cost center|The [[cost-center|cost center]] responsible for the user you selected in the **Allocated to** field. This is auto-populated and read-only.|
+    |Responsible cost center|The cost center responsible for the user you selected in the **Allocated to** field. This is auto-populated and read-only.|
     |Amount allocated|The amount of credit a shopper is allocated to spend.|
     |Expiration date|The date after which a credit allocated to a shopper is no longer valid.|
     |Payback options|The number of paycheck periods an employee is allowed to pay back costs in excess of the allocated credit amount.|
@@ -54,7 +54,3 @@ You can create a credit for an employee shopper from Shopping Hub.
 
 **Parent Topic:**[Using Shopping Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/use-shoppinghub-portal.md)
 
-## Related
-
-- [[shopping-hub-overview|Shopping Hub]]
-- [[cost-center|Cost center]]

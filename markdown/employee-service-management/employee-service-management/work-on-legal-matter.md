@@ -10,7 +10,7 @@ reading_time_minutes: 8
 
 # Work on a legal matter
 
-As a matter owner, [[work-on-legal-matter-1|work on a legal matter]] assigned to you to resolve issues or answer queries.
+As a matter owner, work on a legal matter assigned to you to resolve issues or answer queries.
 
 ## Before you begin
 
@@ -31,7 +31,7 @@ As a collaborator added to a legal matter, you can access and work on the legal 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Legal Request** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
 2.  In the Legal Counsel Center tab, select the list icon \[Omitted image "lsd-lcc-list-icon.png"\] Alt text:.
 
@@ -137,7 +137,7 @@ The state of the legal matter updates to Work in Progress.
 
         **Note:** [Response templates configured for legal services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/create-lsd-response-template.md) are only available to use.
 
-    For legal matters enabled for [[lmm-acp-landing|attorney client privilege]], markers are added to the email content to indicate the privileged and confidential status.
+    For legal matters enabled for attorney client privilege, markers are added to the email content to indicate the privileged and confidential status.
 
 13. Create and manage a checklist of items in the Counsel Assist section to track what should be done to resolve the legal matter.
 
@@ -155,8 +155,4 @@ The state of the legal matter updates to Work in Progress.
     -   To cancel the matter, click the more actions button \(\[Omitted image "more-button-icon.png"\] Alt text: More actions button icon.\) and select **Cancel**.
 18. If new information surfaces or further investigation is required [reopen the legal matter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/reopen-legal-matter.md) after it has been closed or canceled.
 
-## Related
 
-- [[work-on-legal-matter-1|Work on a legal matter]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[lmm-acp-landing|Attorney Client Privilege]]

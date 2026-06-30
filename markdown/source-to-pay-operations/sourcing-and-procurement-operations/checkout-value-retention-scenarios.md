@@ -19,7 +19,7 @@ The data you enter during checkout are lost in an incomplete checkout process.
 This happens if you perform any of the following actions:
 
 -   Log out.
--   Return to your [[shopping-cart|shopping cart]] page.
+-   Return to your shopping cart page.
 -   Navigate to any other page on ShoppingHub.
 -   Close the browser window.
 
@@ -27,6 +27,3 @@ However, if you refresh the page, values on the current and previous steps are r
 
 **Parent Topic:**[Complete your checkout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/complete-your-checkout.md)
 
-## Related
-
-- [[shopping-cart|Shopping cart]]

@@ -26,9 +26,9 @@ Role required: sn\_prm.enterprise\_partner\_admin
 
 3.  Select **New**.
 
-4.  On the form, fill in the [[fields|fields]].
+4.  On the form, fill in the fields.
 
-    To learn more about the fields in the channel partner details section, see [[channel-partner-table-fields|Channel partner table fields]].
+    To learn more about the fields in the channel partner details section, see [Channel partner table fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/channel-partner-table-fields.md).
 
     |Field|Description|
     |-----|-----------|
@@ -43,26 +43,17 @@ Role required: sn\_prm.enterprise\_partner\_admin
 7.  Select **Save**.
 
 
--   **[[view-channel-partner-information-on-partner-workspace|View Channel Partner information on partner workspace]]**  
+-   **[View Channel Partner information on partner workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/view-channel-partner-information-on-partner-workspace.md)**  
 View consolidated channel partner information through the multiple tabs on workspace.
--   **[[register-partner-staff-on-workspace|Register Partner Staff on workspace]]**  
+-   **[Register Partner Staff on workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/register-partner-staff-on-workspace.md)**  
 Register a new partner member or transfer existing staff within a partner organization.
 
-**Parent Topic:**[[partner-workspace|Partner Workspace]]
+**Parent Topic:**[Partner Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/partner-workspace.md)
 
 **Related topics**  
 
 
-[[partner-relationship-management|Partner Relationship Management]]
+[Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/partner-relationship-management.md)
 
-[[using-partner-relationship-management|Using Partner Relationship Management]]
+[Using Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-partner-relationship-management.md)
 
-## Related
-
-- [[channel-partner-table-fields|Channel partner table fields]]
-- [[view-channel-partner-information-on-partner-workspace|View Channel Partner information on partner workspace]]
-- [[register-partner-staff-on-workspace|Register Partner Staff on workspace]]
-- [[partner-workspace|Partner Workspace]]
-- [[partner-relationship-management|Partner Relationship Management]]
-- [[using-partner-relationship-management|Using Partner Relationship Management]]
-- [[fields|Fields]]

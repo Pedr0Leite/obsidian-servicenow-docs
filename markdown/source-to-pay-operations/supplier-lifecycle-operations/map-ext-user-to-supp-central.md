@@ -14,7 +14,7 @@ breadcrumb: [Configure self-registration for external users, Install Supplier Co
 
 # Map the self-registration configuration to Supplier Collaboration Portal
 
-Map the external user self-registration configuration to the [[supplier-central|Supplier Collaboration Portal]].
+Map the external user self-registration configuration to the Supplier Collaboration Portal.
 
 ## Before you begin
 
@@ -30,14 +30,14 @@ Role required: admin
 
 2.  Select **Supplier Collaboration Portal**.
 
-3.  In the **External user registration configuration** field, search for and select the external user configuration that you created for [[supplier-case-management|Supplier Case Management]].
+3.  In the **External user registration configuration** field, search for and select the external user configuration that you created for Supplier Case Management.
 
 4.  Select **Save**.
 
 
 ## What to do next
 
-[[supplier|Supplier]] contacts can [[self-reg-to-supp-central|self-register to the Supplier Collaboration Portal]]. For more information, see [Self-register to the Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/self-reg-to-supp-central.md).
+Supplier contacts can self-register to the Supplier Collaboration Portal. For more information, see [Self-register to the Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/self-reg-to-supp-central.md).
 
 **Parent Topic:**[Configure self-registration for external users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/config-reg-for-external-users-slm.md)
 
@@ -50,9 +50,3 @@ Role required: admin
 
 [Enable notifications about self-registration errors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/enable-supp-admin-emails.md)
 
-## Related
-
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[supplier-case-management|Supplier Case Management]]
-- [[supplier|Supplier]]
-- [[self-reg-to-supp-central|Self-register to the Supplier Collaboration Portal]]

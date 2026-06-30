@@ -12,7 +12,7 @@ breadcrumb: [Explore, Field Service Management]
 
 # Questionnaires in Field Service Management
 
-[[fsm-application-landing-page|Field Service Management]] supports questionnaires as a structured mechanism for collecting information from field service agents during the execution of work orders and work order tasks. Questionnaires can be used at any stage of a task—before work begins, while work is in progress, or as a condition for closing a task—and can be made mandatory to enforce compliance and completeness.
+Field Service Management supports questionnaires as a structured mechanism for collecting information from field service agents during the execution of work orders and work order tasks. Questionnaires can be used at any stage of a task—before work begins, while work is in progress, or as a condition for closing a task—and can be made mandatory to enforce compliance and completeness.
 
 Questionnaires serve several operational purposes across the field service lifecycle.
 
@@ -41,12 +41,7 @@ Questionnaires are available across both the web interface and the ServiceNow Ag
 **Related topics**  
 
 
-[[survey-based-questionnaires|Survey-based questionnaires]]
+[Survey-based questionnaires](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/survey-based-questionnaires.md)
 
-[[smart-assessment-questionnaire|Smart Assessment Questionnaires]]
+[Smart Assessment Questionnaires](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/smart-assessment-questionnaire.md)
 
-## Related
-
-- [[survey-based-questionnaires|Survey-based questionnaires]]
-- [[smart-assessment-questionnaire|Smart Assessment Questionnaires]]
-- [[fsm-application-landing-page|Field Service Management]]

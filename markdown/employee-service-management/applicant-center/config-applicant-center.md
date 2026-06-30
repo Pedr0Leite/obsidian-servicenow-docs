@@ -14,12 +14,12 @@ breadcrumb: [Applicant Center, Hiring Experiences, HR Service Delivery, Employee
 
 # Configuring Applicant Center
 
-Set up a personalized portal for your applicants where they can track and manage job applications and interact with different [[hiring-tab-concept|hiring]] personas at different points of their hiring journey.
+Set up a personalized portal for your applicants where they can track and manage job applications and interact with different hiring personas at different points of their hiring journey.
 
 -   **[Install Applicant Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/install-applicant-center.md)**  
-You can install the [[applicant-center-concept|Applicant Center]] application \(sn\_ta\_applicant\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Applicant Center application \(sn\_ta\_applicant\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 -   **[Configure the email notification state](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/configure-email-stage.md)**  
-Determine at which state the applicant receives an email to [[view-applicant-center|access the Applicant Center]].
+Determine at which state the applicant receives an email to access the Applicant Center.
 -   **[Configure time limited authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/configure-tla-ta.md)**  
 Configure the time limited authentication for your external applicants to log in to the Applicant Center.
 -   **[Configure Content Experiences and Quick links](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/config-links-content-ac.md)**  
@@ -31,13 +31,7 @@ Configure the conditions when an applicant can reach out to the recruiters withi
 -   **[Set up a scheduled job for applicant deactivation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/run-schedule-job.md)**  
 Set up a scheduled job, at regular intervals, to deactivate applicants no longer viable to the system.
 -   **[Configure pre-hire experience on applicant center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/access-journey-accelerator-from-applicant-centre.md)**  
-Provide continuity in the hiring journey by providing a [[jny-pre-hire-experience|pre-hire experience]] on the applicant center.
+Provide continuity in the hiring journey by providing a pre-hire experience on the applicant center.
 
 **Parent Topic:**[Applicant Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/applicant-center-landing.md)
 
-## Related
-
-- [[hiring-tab-concept|Hiring]]
-- [[applicant-center-concept|Applicant Center]]
-- [[view-applicant-center|Access the Applicant Center]]
-- [[jny-pre-hire-experience|Pre-hire experience]]

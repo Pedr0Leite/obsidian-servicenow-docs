@@ -14,7 +14,7 @@ breadcrumb: [Configuring Service Reliability Management, Service Reliability Man
 
 # Assign an administrator to Service Reliability Management
 
-Add people from your ServiceNow instance to administer [[sr-landing-page|Service Reliability Management]] \(SRM\) and your service operations.
+Add people from your ServiceNow instance to administer Service Reliability Management \(SRM\) and your service operations.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ The SRM admin can add and create teams. They can also manage data across all SRM
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workspace-dashboard-use|Service Operations Workspace]] Admin Center** &gt; **Overview**.
+1.  Navigate to **All** &gt; **Service Operations Workspace Admin Center** &gt; **Overview**.
 
 2.  In the **Service Reliability Management** tile, select **Configure**.
 
@@ -43,7 +43,3 @@ The SRM admin can add and create teams. They can also manage data across all SRM
 
 **Next topic:**[Activate teams and services in SRM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-activate-teams-and-services-in-srm.md)
 
-## Related
-
-- [[sr-landing-page|Service Reliability Management]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

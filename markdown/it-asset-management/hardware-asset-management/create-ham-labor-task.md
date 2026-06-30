@@ -24,7 +24,7 @@ Activate the ServiceNow® Cost Management \(com.snc.cost\_management\) plugin. F
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Asset operations** &gt; **TCO configuration** &gt; **Labor rate card**.
+1.  Navigate to **Workspaces** &gt; **Hardware Asset Workspace** &gt; **Asset operations** &gt; **TCO configuration** &gt; **Labor rate card**.
 
 2.  Select **New**.
 
@@ -97,6 +97,3 @@ If you’re working on multiple HAM workflows including a labor rate card, the s
 
 [Asset operations view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/asset-operations-view.md)
 
-## Related
-
-- [[using-ham-workspace|Hardware Asset Workspace]]

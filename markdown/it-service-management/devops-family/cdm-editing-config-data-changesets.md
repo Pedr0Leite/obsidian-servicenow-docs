@@ -16,13 +16,13 @@ breadcrumb: [Using DevOps Config, DevOps Config, IT Service Management]
 
 You can update the config data of an application by creating or opening a changeset on the **Config data** tab, where you update the structure and CDIs of the config data.
 
-**Important:** Starting with the Washington D.C. release, [[devops-config-landing-page|DevOps Config]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+**Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 ## Tabs on the Application page
 
 When you open an application, the header area for each tab displays administrative details for the application: Application name, name of the user that created the application, and timestamp of creation.
 
--   **Overview**: Basic [[settings-mobile|settings]] of the application and a **Manage deployables** button that enables you to edit config data.
+-   **Overview**: Basic settings of the application and a **Manage deployables** button that enables you to edit config data.
 -   **Snapshots**: List of snapshots for each deployable in the application. Each entry includes validation and publication status. Policies that execute against a snapshot return validation result. Published snapshots are available for release to the CI/CD pipeline.
 -   **Config data**: Read-only view of the config data in a tree structure. Select a node in the tree to view the config data for that node in the application service or infrastructure service. \(You can edit an open changeset or create a new or changeset. The tab then updates to show an Editor panel and a Preview panel where you can create, edit, and save the changeset. You cannot change an existing snapshot, but you can start with a snapshot changeset and save the changes in a new changeset.\)
 
@@ -146,8 +146,3 @@ User who committed the changeset and the timestamp of the commit.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]
-- [[settings-mobile|Settings]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure Telecom Discovery Builder, Configure Telecom Visibility, 
 
 # Duplicate the Telecom Discovery Builder ETL
 
-The [[exploring-the-telco-generic-schema-etl-framework|Telecom Discovery Builder framework]] ETL enables Service Graph Connector \(SGC\) teams to rapidly adopt a standardized, schema-compliant data ingestion pipeline without building ETL logic from scratch.
+The Telecom Discovery Builder framework ETL enables Service Graph Connector \(SGC\) teams to rapidly adopt a standardized, schema-compliant data ingestion pipeline without building ETL logic from scratch.
 
 ## Before you begin
 
@@ -95,6 +95,3 @@ The following screenshot can help you duplicate the ETL Transform Map.\[Omitted 
 
 [Update the data source of the connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/update-data-source-of-the-connector.md)
 
-## Related
-
-- [[exploring-the-telco-generic-schema-etl-framework|Telecom Discovery Builder framework]]

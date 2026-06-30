@@ -14,17 +14,17 @@ breadcrumb: [Result improvement rules, Search profiles, Configuring AI Search, A
 
 # Boost search results using a result improvement rule
 
-Increase the relevancy scores for search [[hs-results|results]] that satisfy a custom set of conditions.
+Increase the relevancy scores for search results that satisfy a custom set of conditions.
 
 ## Before you begin
 
-Create your result improvement rule first to define your trigger conditions. For steps to [[create-result-improve-rule-ais|create a result improvement rule]], see [Create a result improvement rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-result-improve-rule-ais.md).
+Create your result improvement rule first to define your trigger conditions. For steps to create a result improvement rule, see [Create a result improvement rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-result-improve-rule-ais.md).
 
 Role required: ais\_admin
 
 ## About this task
 
-Boost actions define relevancy changes applied by [[result-improvement-rules-ais|result improvement rules]]. When a result improvement rule with a boost action activates, [[ia-ai-search|AI Search]] modifies the relevancy scores for search results from an indexed source specified in the action. You can choose one of these boost types:
+Boost actions define relevancy changes applied by result improvement rules. When a result improvement rule with a boost action activates, AI Search modifies the relevancy scores for search results from an indexed source specified in the action. You can choose one of these boost types:
 
 -   Boost all search results from the specified indexed source.
 -   Boost only search results from the specified indexed source with a field value that matches a dynamically populated field value from the searcher's user context.
@@ -86,7 +86,7 @@ Boost By User Context \(dynamic\)
 
 Applies relevancy boost to search results from the selected indexed source if they include a value for the selected field that matches a field value specified in the dynamically populated user context. As an example, you might boost all results from the Knowledge Table indexed source with Short description field values that contain matches for the city specified in the current search user's location, as set in their user context. This configuration could end up boosting different records when you search from Paris than when you search from New York City.
 
-**Note:** Starting in the Xanadu release, AI Search expands user context field values using published, active [[synonyms-ais|synonyms]] defined in dictionaries linked to the current search profile. As an example, if the user context location is `Paris` and you define a synonym that defines `Paris` and `France` as equivalent, your result improvement rule boosts documents containing `France` as well as those containing `Paris`. For more details on synonym expansion, see [Synonyms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/synonyms-ais.md).
+**Note:** Starting in the Xanadu release, AI Search expands user context field values using published, active synonyms defined in dictionaries linked to the current search profile. As an example, if the user context location is `Paris` and you define a synonym that defines `Paris` and `France` as equivalent, your result improvement rule boosts documents containing `France` as well as those containing `Paris`. For more details on synonym expansion, see [Synonyms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/synonyms-ais.md).
 
 </td></tr><tr><td>
 
@@ -110,11 +110,3 @@ Applies relevancy boost to search results from the selected indexed source if th
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[hs-results|Results]]
-- [[create-result-improve-rule-ais|Create a result improvement rule]]
-- [[result-improvement-rules-ais|Result improvement rules]]
-- [[ia-ai-search|AI Search]]
-- [[synonyms-ais|Synonyms]]

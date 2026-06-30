@@ -28,7 +28,7 @@ Role required: skill\_admin or admin
 
 2.  Add skill level types, define skill levels, and associate them with a skill level type.
 
-    After you [[t_CreateASkill|add a skill]] level type, you can define different levels for that type of skill. For example, if you add language as a type of skill, you can associate familiar, proficient, and expert as skill levels. When you select French, for example, as a skill for a user, you will be able to define the user's skill level for French as either familiar, proficient, or expert.
+    After you add a skill level type, you can define different levels for that type of skill. For example, if you add language as a type of skill, you can associate familiar, proficient, and expert as skill levels. When you select French, for example, as a skill for a user, you will be able to define the user's skill level for French as either familiar, proficient, or expert.
 
     1.  Navigate to **Skills** &gt; **Skill Level Types**.
 
@@ -49,6 +49,3 @@ This example shows a system administrator creating the skill level type Language
 
 \[Omitted image "skill-level-type-new-york.gif"\] Alt text: Skill Level Type
 
-## Related
-
-- [[t_CreateASkill|Add a skill]]

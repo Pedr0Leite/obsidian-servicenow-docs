@@ -12,7 +12,7 @@ breadcrumb: [Share surveys, Survey distribution, Survey administration, Use surv
 
 # Use update sets for surveys and assessments
 
-Use an update set to capture changes to [[r_SurveyManagementLandingPage|surveys]] and [[r_Assessments|assessments]].
+Use an update set to capture changes to surveys and assessments.
 
 ## Before you begin
 
@@ -28,28 +28,17 @@ Role required: admin or survey\_admin
 
     The following tables are now update set enabled and also extend the application file:
 
-    -   Assessment [[r_MetricTemplates|Metric Templates]] \[asmt\_template\]
+    -   Assessment Metric Templates \[asmt\_template\]
     -   Assessment metric type \[asmt\_metric\_type\]
     -   Assessment Template Definitions \[asmt\_template\_definition\]
     -   Assessment Metric Definitions \[asmt\_metric\_definition\]: survey question answer options
     -   Schedule \[sys\_trigger\]: scheduled jobs associated with the survey
-    -   [[c_AssessmentMetricCategories|Assessment Metric Categories]] \[asmt\_metric\_category\]: [[c_SurveyCategory|survey categories]]
-    -   [[c_AssessmentMetrics|Assessment Metrics]] \[asmt\_metric\]: [[c_SurveyQuestion|survey questions]]
+    -   Assessment Metric Categories \[asmt\_metric\_category\]: survey categories
+    -   Assessment Metrics \[asmt\_metric\]: survey questions
     -   Assessment Category Users \[asmt\_m2m\_category\_user\]: survey users
     -   Trigger Conditions \[asmt\_condition\]
 
-**Parent Topic:**[[c_SurveyInportAndExport|Sharing surveys]]
+**Parent Topic:**[Sharing surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyInportAndExport.md)
 
-**Parent Topic:**[[c_MetricTypesAndAssessableRecords|Metric types and assessable records]]
+**Parent Topic:**[Metric types and assessable records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_MetricTypesAndAssessableRecords.md)
 
-## Related
-
-- [[c_SurveyInportAndExport|Sharing surveys]]
-- [[c_MetricTypesAndAssessableRecords|Metric types and assessable records]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[r_Assessments|Assessments]]
-- [[r_MetricTemplates|Metric templates]]
-- [[c_AssessmentMetricCategories|Assessment metric categories]]
-- [[c_SurveyCategory|Survey categories]]
-- [[c_AssessmentMetrics|Assessment metrics]]
-- [[c_SurveyQuestion|Survey questions]]

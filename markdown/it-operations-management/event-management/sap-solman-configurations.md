@@ -14,7 +14,7 @@ breadcrumb: [Enable SAP connector configurations, Configure SAP Solution Manager
 
 # SAP Solution Manager setup configurations
 
-As part of the SAP Solution Manager setup, you must perform several configurations to enable SAP Solution Manager to interact with [[c_EM|Event Management]].
+As part of the SAP Solution Manager setup, you must perform several configurations to enable SAP Solution Manager to interact with Event Management.
 
 -   **[Configure RFC in SAP Solution Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-sap-solution-mgr.md)**  
 As part of enabling communication with Event Management, you must create a Remote Function Call \(RFC\) in the SAP Solution Manager and install a transport.
@@ -27,11 +27,7 @@ You can view alerts generated in SAP Solution Manager to see any pressing issues
 -   **[View and update your SAP Solution Manager certificate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/sap-sol-certificate-view-update.md)**  
 View your SAP Solution Manager certificate, and update the certificate if necessary.
 -   **[View the SAP interface log](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/sapsolman-view-interface-debugging-table.md)**  
-[[sapsolman-view-interface-debugging-table|View the SAP interface log]] to help you debug issues.
+View the SAP interface log to help you debug issues.
 
 **Parent Topic:**[SAP configurations enabling the SAP Solution Manager connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/sap-manager-connector.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[sapsolman-view-interface-debugging-table|View the SAP interface log]]

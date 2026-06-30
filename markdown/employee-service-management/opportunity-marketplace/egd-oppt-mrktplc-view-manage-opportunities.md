@@ -14,7 +14,7 @@ breadcrumb: [Configure, Opportunity Marketplace, Hiring Experiences, HR Service 
 
 # View and manage the opportunities created in Opportunity Marketplace
 
-Opportunities are created to solicit individuals to apply for roles within the opportunity. As an [[egd-oppt-mrktplc-landing|Opportunity Marketplace]] admin \[sn\_opp\_market.admin\], you can view and manage opportunity records from the ServiceNow platform.
+Opportunities are created to solicit individuals to apply for roles within the opportunity. As an Opportunity Marketplace admin \[sn\_opp\_market.admin\], you can view and manage opportunity records from the ServiceNow platform.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: Opportunity Marketplace admin \[sn\_opp\_market.admin\]
 
 There are times that opportunities must be updated by someone other than the opportunity owner. Having the role of Opportunity Marketplace admin \[sn\_opp\_market.admin\] enables you to update opportunities without being the opportunity owner.
 
-**Tip:** While admins can view and update opportunities, it is recommended that opportunity creators and owners view and update opportunities from Opportunity Marketplace in the [[employee-center-landing-page|Employee Center]].
+**Tip:** While admins can view and update opportunities, it is recommended that opportunity creators and owners view and update opportunities from Opportunity Marketplace in the Employee Center.
 
 ## Procedure
 
@@ -91,7 +91,3 @@ The date that the opportunity is available to applicants.
 
 **Parent Topic:**[Install and configure Opportunity Marketplace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/opportunity-marketplace/egd-oppt-mrktplc-inst-config.md)
 
-## Related
-
-- [[egd-oppt-mrktplc-landing|Opportunity Marketplace]]
-- [[employee-center-landing-page|Employee Center]]

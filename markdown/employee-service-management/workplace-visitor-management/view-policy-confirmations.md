@@ -22,9 +22,9 @@ Role required: sn\_wsd\_visitor.staff
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-visitor-mgmt-feat|Workplace Visitor Management]]** &gt; **Administration** &gt; **Visitor policy confirmations**.
+1.  Navigate to **All** &gt; **Workplace Visitor Management** &gt; **Administration** &gt; **Visitor policy confirmations**.
 
-    You can also navigate to the [[register-visitors|Visitor registration]] record of the visitor.
+    You can also navigate to the Visitor registration record of the visitor.
 
 2.  From the Visitor Policy Confirmations list, select the record that you want to view.
 
@@ -99,7 +99,3 @@ State of the policy confirmation.This field is automatically updated based on wh
 
 [Apply visitor management archive policy]()
 
-## Related
-
-- [[workplace-visitor-mgmt-feat|Workplace Visitor Management]]
-- [[register-visitors|Visitor registration]]

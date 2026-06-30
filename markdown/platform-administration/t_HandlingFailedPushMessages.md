@@ -22,7 +22,7 @@ Role required: admin
 
 **Note:** There is no way for the instance to guarantee or confirm push message delivery. For more information on how Apple handles push notifications, see the [Local and Remote Notification Programming Guide](https://developer.apple.com/library/content/documentation/NetworkingInternet/Conceptual/RemoteNotificationsPG/APNSOverview.html#/apple_ref/doc/uid/TP40008194-CH8-SW1) for Apple developers.
 
-Messages can also fail to send for several reasons, such as a large message queue or other issue with the instance. You can use a [[r_PushNotificationProperties|system property]] to control how long the instance queues a push notification after it is triggered.
+Messages can also fail to send for several reasons, such as a large message queue or other issue with the instance. You can use a [system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_PushNotificationProperties.md) to control how long the instance queues a push notification after it is triggered.
 
 Push notification message payload size is limited by provider:
 
@@ -47,7 +47,7 @@ Your instance does not send push messages that exceed this limitation. System lo
     See [Push notification properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_PushNotificationProperties.md) for more information.
 
 
-**Parent Topic:**[[c_PushNotifications|Push notifications]]
+**Parent Topic:**[Push notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_PushNotifications.md)
 
 **Related topics**  
 
@@ -68,7 +68,3 @@ Your instance does not send push messages that exceed this limitation. System lo
 
 [Push notification retention]()
 
-## Related
-
-- [[r_PushNotificationProperties|Push notification properties]]
-- [[c_PushNotifications|Push notifications]]

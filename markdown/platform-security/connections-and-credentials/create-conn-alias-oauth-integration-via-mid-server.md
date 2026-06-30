@@ -14,7 +14,7 @@ breadcrumb: [Get started with credentials, Connections and Credentials, Access M
 
 # Set up OAuth integration via MID Server
 
-Create a connection record that enables the sending of an [[oauth-inbound-and-outbound|OAuth]] token [[c_requestAPI|request]] to a third-party server via a MID Server.
+Create a connection record that enables the sending of an OAuth token request to a third-party server via a MID Server.
 
 ## Before you begin
 
@@ -24,17 +24,17 @@ Role required: Admin
 
 ## Procedure
 
-1.  Configure the connection with a [[sc-configuration|configuration]] template.
+1.  Configure the connection with a configuration template.
 
     1.  Navigate to **All** &gt; **IntegrationHub** &gt; **Configuration Templates**.
 
     2.  Select **New**.
 
-    3.  Select **HTTP Connection with OAuth [[client-credential-grant|Client Credentials grant]] type**.
+    3.  Select **HTTP Connection with OAuth Client Credentials grant type**.
 
     4.  Update the form, as required.
 
-        For example, you can provide the scope in the `oauth_entity_profile_scope` and `oauth_entity_scope` fields in the Default Data Template section. To learn to [[create-template|create a configuration template]], see [Create a configuration template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/create-template.md).
+        For example, you can provide the scope in the `oauth_entity_profile_scope` and `oauth_entity_scope` fields in the Default Data Template section. To learn to create a configuration template, see [Create a configuration template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/create-template.md).
 
     5.  Select **Submit**.
 
@@ -239,10 +239,4 @@ Option to specify the OAuth token URL that is used to request OAuth tokens.
 
         The connection and credential record is created.
 
-## Related
 
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[c_requestAPI|request]]
-- [[sc-configuration|Configuration]]
-- [[client-credential-grant|Client credentials grant]]
-- [[create-template|Create a configuration template]]

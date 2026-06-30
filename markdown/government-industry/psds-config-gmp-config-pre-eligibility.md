@@ -99,13 +99,9 @@ When applicants proceed to answer eligibility questions, they are presented with
     If not eligible, a message will indicate that they may not be eligible and suggest reviewing their answer.
 
 
-**Parent Topic:**[[psds-config-gmp-pace|Configure PaCE Eligibility Framework Engine for use with Grants Management]]
+**Parent Topic:**[Configure PaCE Eligibility Framework Engine for use with Grants Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-pace.md)
 
 **Previous topic:**[Configure PaCE Eligibility Framework Engine for use with Grants Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-pace.md)
 
-**Next topic:**[[psds-config-gmp-eligibility|Configure Eligibility Rules Engine Policies in Grants Management]]
+**Next topic:**[Configure Eligibility Rules Engine Policies in Grants Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-eligibility.md)
 
-## Related
-
-- [[psds-config-gmp-pace|Configure PaCE Eligibility Framework Engine for use with Grants Management]]
-- [[psds-config-gmp-eligibility|Configure Eligibility Rules Engine Policies in Grants Management]]

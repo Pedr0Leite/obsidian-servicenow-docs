@@ -25,13 +25,13 @@ Role required: evt\_mgmt\_operator, or evt\_mgmt\_admin
 
 1.  Open the **Log Viewer** tab using one of the following methods:
 
-    -   Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]** and select the Log Viewer icon \(\[Omitted image "icon-log-viewer-sow.png"\] Alt text: Log Viewer icon.\).
+    -   Navigate to **Workspaces** &gt; **Service Operations Workspace** and select the Log Viewer icon \(\[Omitted image "icon-log-viewer-sow.png"\] Alt text: Log Viewer icon.\).
     -   While viewing log entries for an alert on the **Surrounding logs** tab, select **Log Viewer**.
 2.  Personalize the displayed data and how it is presented on the Log Viewer.
 
     -   [Filter search results on the Log Viewer in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-op-log-viewer-filter-sow.md) to show only the data you want to view.
     -   [Customize the Log Viewer table in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-op-log-viewer-table-sow.md) by adding or removing columns.
-    These features are supported in the [[hla-landing-page|Health Log Analytics]] application, Version 20.0.11 - July 2021, and the Health Log Analytics Viewer application, Version 20.0.4 - July 2021, available from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
+    These features are supported in the Health Log Analytics application, Version 20.0.11 - July 2021, and the Health Log Analytics Viewer application, Version 20.0.4 - July 2021, available from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
 
 3.  Analyze log-based anomalies and added context to help you achieve faster mean time to repair \(MTTR\).
 
@@ -50,7 +50,3 @@ Use additional features on the Log Viewer to refine your search or define alerts
 
 [Reviewing the logs for an alert on the Log Viewer in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-op-logs-log-viewer-concept-sow.md)
 
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[hla-landing-page|Health Log Analytics]]

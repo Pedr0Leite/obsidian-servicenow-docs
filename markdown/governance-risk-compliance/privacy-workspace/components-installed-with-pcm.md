@@ -38,7 +38,7 @@ Privacy case business user\[sn\_privacy\_case.privacy\_case\_business\_user\]
 
 </td><td>
 
-To create a Privacy case from [[employee-center|Employee center]].
+To create a Privacy case from Employee center.
 
 </td><td>
 
@@ -50,7 +50,7 @@ Privacy case analyst \[sn\_privacy\_case.privacy\_case\_analyst\]
 
 </td><td>
 
-Work on the privacy case assigned to them. As part of investigating privacy cases, they can review the breach assessment and associate the [[information-objects|Information objects]], key stakeholders Impacted areas, related areas, Causes and Consequences, Regulations and Issues which are assigned to them.
+Work on the privacy case assigned to them. As part of investigating privacy cases, they can review the breach assessment and associate the Information objects, key stakeholders Impacted areas, related areas, Causes and Consequences, Regulations and Issues which are assigned to them.
 
 </td><td>
 
@@ -74,7 +74,7 @@ Privacy case admin \[sn\_privacy\_case.privacy\_case\_admin\]
 
 </td><td>
 
-Configure the privacy case type that has configurations such as privacy workflow configurations, assignment rules, sub types, [[airc-assessment-templates|assessment templates]]. They can also configure breach assessment configurations.
+Configure the privacy case type that has configurations such as privacy workflow configurations, assignment rules, sub types, assessment templates. They can also configure breach assessment configurations.
 
 </td><td>
 
@@ -290,8 +290,3 @@ Privacy Case Management
 </td></tr></tbody>
 </table>**Parent Topic:**[Privacy Case Management reference information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/pcm-reference-information.md)
 
-## Related
-
-- [[employee-center|employee center]]
-- [[information-objects|information objects]]
-- [[airc-assessment-templates|Assessment templates]]

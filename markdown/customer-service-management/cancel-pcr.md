@@ -20,7 +20,7 @@ Role required: sn\_customerservice\_manager or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Case Digest** &gt; **My [[case-digest-post-case-review|Post Case Reviews]]**.
+1.  Navigate to **All** &gt; **Case Digest** &gt; **My Post Case Reviews**.
 
 2.  Select and open a post case review that you want to cancel.
 
@@ -34,9 +34,5 @@ Role required: sn\_customerservice\_manager or admin
 **Related topics**  
 
 
-[[reopen-case-review-document|Re-open a post case review]]
+[Re-open a post case review](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/reopen-case-review-document.md)
 
-## Related
-
-- [[reopen-case-review-document|Re-open a post case review]]
-- [[case-digest-post-case-review|Post case reviews]]

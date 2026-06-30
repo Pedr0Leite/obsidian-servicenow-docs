@@ -14,7 +14,7 @@ breadcrumb: [Configuring DevOps Config, DevOps Config, IT Service Management]
 
 # Run validation in DevOps Config
 
-After you have installed and configured [[devops-config-landing-page|DevOps Config]], validate the configuration and review the results.
+After you have installed and configured DevOps Config, validate the configuration and review the results.
 
 ## Before you begin
 
@@ -40,6 +40,4 @@ You can also validate further by mapping more policies to a deployable and valid
 
     Any future snapshots generated are automatically validated against the configured statically mapped policies.Dynamic mappings are determined at runtime based on the latest conditions matching the deployable.
 
-## Related
 
-- [[devops-config-landing-page|DevOps Config]]

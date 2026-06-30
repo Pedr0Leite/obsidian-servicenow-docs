@@ -81,7 +81,7 @@ Using the chat recommendation skill, you have the options to:
 
     **Note:** Chat recommendation is not available in the Now Assist panel.
 
-    -   **In-product desktop**: When selected, Now Assist skills are displayed on [[migration-forms|forms]] and workspaces.
+    -   **In-product desktop**: When selected, Now Assist skills are displayed on forms and workspaces.
     -   **Now Assist panel**: When selected, Now Assist skills are available in the Now Assist panel. Select the down arrow to identify the roles that can use the skill. Select the arrow next to toggle, to select roles who can access the skill. You can add roles by entering the name of the role in the **User roles** field. You can remove existing roles by selecting the X icon in the role bubble. You must have at least one role specified, but you can add as many roles as you like.
 13. Review your choices and complete the configuration by selecting **Activate**.
 
@@ -90,6 +90,3 @@ Using the chat recommendation skill, you have the options to:
 
 Chat recommendation for the workflow is active on the instance.
 
-## Related
-
-- [[migration-forms|Forms]]

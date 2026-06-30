@@ -14,7 +14,7 @@ breadcrumb: [File-based Discovery, Running discoveries in your network, Using Di
 
 # Run File-based Discovery
 
-Run File-based Discovery to find all of your installed software whether it is registered or not. You can enable and configure [[file-based-discovery|File-based Discovery]] at any time using the [[c_DiscoveryConfigurationConsole|Discovery Configuration Console]].
+Run File-based Discovery to find all of your installed software whether it is registered or not. You can enable and configure File-based Discovery at any time using the Discovery Configuration Console.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: admin
 
     If your Execution Policy requires you to use your own certificate or if you must make any changes to the script, re-sign the script.
 
-    1.  Navigate to the probe “Windows - File [[r-discovery|discovery]].”
+    1.  Navigate to the probe “Windows - File discovery.”
     2.  Open the **filebaseddiscovey.ps1** probe parameter.
     3.  Copy the contents of the **value** field into a file.
     4.  Make the necessary changes to the file and then remove the \(old\) signature block at the end of the file.
@@ -74,8 +74,3 @@ Your File-based Discovery should run based on the configurations set.
 
 [File-based Discovery references](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/file-based-discovery-references.md)
 
-## Related
-
-- [[file-based-discovery|File-based Discovery]]
-- [[c_DiscoveryConfigurationConsole|Discovery Configuration Console]]
-- [[r-discovery|Discovery]]

@@ -28,7 +28,7 @@ For Third-party integrations, webhook URLs may expire if a subscription is not r
 
 ## Procedure
 
-1.  Navigate to **[[impact-landing-page|Impact]]** &gt; **[[platform-health-idi|Platform Health]]** &gt; **Monitor** &gt; **Go to Instance Observer**.
+1.  Navigate to **Impact** &gt; **Platform Health** &gt; **Monitor** &gt; **Go to Instance Observer**.
 
 2.  Log in to Instance Observer and navigate to **Alerts** &gt; **Configure Notification**.
 
@@ -170,10 +170,5 @@ Webhook URL as configured on your third-party \(external\) application.For more 
         2.  As Notifications from \[Omitted image "io-bell-icon.png"\] Alt text: bell icon. Select **View Notification History** and filter with `Integration Failed`.
         3.  As an email notification with the integration name, error number, and the message.
 
-**Parent Topic:**[[io-alerts-intro|Alerts in Instance Observer]]
+**Parent Topic:**[Alerts in Instance Observer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-alerts-intro.md)
 
-## Related
-
-- [[io-alerts-intro|Alerts in Instance Observer]]
-- [[impact-landing-page|Impact]]
-- [[platform-health-idi|Platform Health]]

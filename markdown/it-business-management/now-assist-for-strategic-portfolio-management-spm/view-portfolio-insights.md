@@ -14,7 +14,7 @@ breadcrumb: [Using Now Assist for Strategic Portfolio Management \(SPM\), Now As
 
 # View insights for a portfolio plan in Strategic Planning Workspace or Portfolio Planning Workspace using Now Assist for SPM
 
-View AI-generated insights for a portfolio plan in [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace or [[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace to identify planning items at risk of schedule delays, monitor active projects showing early risk indicators,analyze root causes, and review recommended actions.
+View AI-generated insights for a portfolio plan in Strategic Planning Workspace or Portfolio Planning Workspace to identify planning items at risk of schedule delays, monitor active projects showing early risk indicators,analyze root causes, and review recommended actions.
 
 ## Before you begin
 
@@ -66,7 +66,3 @@ Portfolio Insights identifies prioritized planning items at risk, along with roo
 
 **Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/using-now-assist-for-spm.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

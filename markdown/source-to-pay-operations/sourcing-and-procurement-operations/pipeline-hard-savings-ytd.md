@@ -68,7 +68,7 @@ The following scenario demonstrates how Hard Savings YTD is calculated for three
 
 |**Pipeline**|**State**|**Hard Savings**|**Savings Start**|**Savings End**|**Project Days**|
 |------------|---------|----------------|-----------------|---------------|----------------|
-|PIPE-001 \([[supplier|Supplier]] Renegotiation\)|Closed Complete|$120,000|Jan 1, 2024|Dec 31, 2024|365|
+|PIPE-001 \(Supplier Renegotiation\)|Closed Complete|$120,000|Jan 1, 2024|Dec 31, 2024|365|
 |PIPE-002 \(Contract Consolidation\)|Closed Complete|$365,000|Jul 1, 2024|Jun 30, 2025|365|
 |PIPE-003 \(Multi-Year Agreement\)|Closed Complete|$730,000|Jan 1, 2023|Dec 31, 2025|1,095|
 
@@ -103,6 +103,3 @@ The final aggregation sums the prorated values:
 
 **Parent Topic:**[Pipeline management tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/pipeline-mgmt-tab.md)
 
-## Related
-
-- [[supplier|Supplier]]

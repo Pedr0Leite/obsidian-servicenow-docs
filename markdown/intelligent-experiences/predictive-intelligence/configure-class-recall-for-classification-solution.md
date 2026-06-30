@@ -31,7 +31,7 @@ You can apply a recall value to one class per solution definition.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[predictive-intelligence-landing|Predictive Intelligence]]** &gt; **Classification** &gt; **Solution Definitions**.
+1.  Navigate to **All** &gt; **Predictive Intelligence** &gt; **Classification** &gt; **Solution Definitions**.
 
 2.  Open a saved classification solution definition form.
 
@@ -91,6 +91,3 @@ Train your saved classification solution so that your updates are incorporated.
 
 [Configure TF-IDF for solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/configure-tf-idf-classification-similarity.md)
 
-## Related
-
-- [[predictive-intelligence-landing|Predictive Intelligence]]

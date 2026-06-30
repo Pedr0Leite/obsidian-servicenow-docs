@@ -14,7 +14,7 @@ breadcrumb: [Analyze data integrations, Use Data Foundations advisor, CMDB succe
 
 # Data integration checklist for Data Foundations in CMDB success advisor
 
-Use the data integration checklist to verify that Discovery patterns and [[cmdb-sgc-available|Service Graph Connectors]] are correctly configured and actively contributing to your [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]], promoting quality foundational data.
+Use the data integration checklist to verify that Discovery patterns and Service Graph Connectors are correctly configured and actively contributing to your Configuration Management Database \(CMDB\), promoting quality foundational data.
 
 ## Discovery patterns checklist
 
@@ -283,7 +283,3 @@ Once all data integration checks are complete:
 -   Integrations are populating ownership, relationship, and key infrastructure attributes.
 -   CMDB records for principal classes are accurate and complete.
 
-## Related
-
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]

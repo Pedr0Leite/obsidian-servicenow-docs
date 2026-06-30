@@ -14,13 +14,9 @@ breadcrumb: [Work Configurations, Set up work orders and tasks, Configure, Field
 
 # Setting up dynamic scheduling configuration with work configurations
 
-The Field Service Work Configurations plugin \(com.snc.fsm\_work\_types\) allows you to set different [[dynamic-scheduling|dynamic scheduling]] configurations for different work configurations. Work order tasks that are dynamically scheduled will be recorded in the task table specified in the work configuration.
+The Field Service Work Configurations plugin \(com.snc.fsm\_work\_types\) allows you to set different dynamic scheduling configurations for different work configurations. Work order tasks that are dynamically scheduled will be recorded in the task table specified in the work configuration.
 
-For more information on how to [[work-config-guided-setup|set up work configurations]], see [Set up work configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/work-config-guided-setup.md).
+For more information on how to set up work configurations, see [Set up work configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/work-config-guided-setup.md).
 
 For more information, see [Configure dynamic scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/create-dynamic-scheduling-config.md)
 
-## Related
-
-- [[dynamic-scheduling|Dynamic scheduling]]
-- [[work-config-guided-setup|Set up work configurations]]

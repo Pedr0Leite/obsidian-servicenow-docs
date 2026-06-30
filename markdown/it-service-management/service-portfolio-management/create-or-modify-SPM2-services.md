@@ -22,13 +22,13 @@ Role required: portfolio\_admin or service\_editor
 
 ## About this task
 
-All occurrences of the table and [[reference-for-itsm-mobile-agent|reference]] field label **Business Service** throughout the product have changed to **Service**. For example, the Business Service form has changed to Service form. This change is for new instances only and doesn't affect existing upgraded instances.
+All occurrences of the table and reference field label **Business Service** throughout the product have changed to **Service**. For example, the Business Service form has changed to Service form. This change is for new instances only and doesn't affect existing upgraded instances.
 
-**Note:** You can also create and edit services and service offerings by using the [[service-builder|Service Builder]] application. Service Builder provides a walk-through experience with contextual help along the way. For more information, see [Service Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-builder/service-builder.md).
+**Note:** You can also create and edit services and service offerings by using the Service Builder application. Service Builder provides a walk-through experience with contextual help along the way. For more information, see [Service Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-builder/service-builder.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[SPM2-landing-page|Service Portfolio Management]]** &gt; **Services** and select **New**.
+1.  Navigate to **All** &gt; **Service Portfolio Management** &gt; **Services** and select **New**.
 
     Alternatively, to edit an existing service, select the name of the service to open the form. Change any of the form field data as needed. To delete an existing service, select the **Delete** button in the form header.
 
@@ -255,8 +255,3 @@ The date the service was last reviewed.
 
 **Parent Topic:**[Using Service Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-using.md)
 
-## Related
-
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[service-builder|Service Builder]]
-- [[SPM2-landing-page|Service Portfolio Management]]

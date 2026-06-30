@@ -14,9 +14,9 @@ breadcrumb: [Authentication, Hardening settings, Platform Security]
 
 # Minimize reset password request success window duration
 
-The **password\_reset.[[c_requestAPI|request]].success\_window** property controls the number of minutes a user must wait to reset or change their password again after successfully resetting the password. The user will be blocked to reset the password again for the specified duration.
+The **password\_reset.request.success\_window** property controls the number of minutes a user must wait to reset or change their password again after successfully resetting the password. The user will be blocked to reset the password again for the specified duration.
 
-If the **password\_reset.request.success\_window** system property isn't set to the recommended value of `1440` or less, then the opportunity of someone else abusing the [[c_SelfServicePasswordReset|password reset]] functionality to gain unauthorized access to a user account is increased.
+If the **password\_reset.request.success\_window** system property isn't set to the recommended value of `1440` or less, then the opportunity of someone else abusing the password reset functionality to gain unauthorized access to a user account is increased.
 
 Ensure the property **password\_reset.request.success\_window** is set to `1440` or less.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -115,9 +115,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-authentication.md)
 
-## Related
-
-- [[c_requestAPI|request]]
-- [[c_SelfServicePasswordReset|Password Reset]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

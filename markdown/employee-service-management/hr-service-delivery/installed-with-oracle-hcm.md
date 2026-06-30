@@ -14,7 +14,7 @@ breadcrumb: [Reference, HR Service Delivery integration with Oracle Cloud HCM, I
 
 # Components installed with HR Service Delivery integration with Oracle Cloud HCM
 
-Several types of components are installed with the activation of the [[integration-hr-oracle-hcm|HR Service Delivery integration with Oracle Cloud HCM]] \(sn\_hr\_oracle\_hcm\) application, including tables, user roles, and scheduled jobs.
+Several types of components are installed with the activation of the HR Service Delivery integration with Oracle Cloud HCM \(sn\_hr\_oracle\_hcm\) application, including tables, user roles, and scheduled jobs.
 
 ## Roles installed
 
@@ -36,7 +36,7 @@ HR Oracle HCM Cloud Admin \[sn\_hr\_oracle\_hcm.admin\]
 
 </td><td>
 
-Can access all the features and capabilities of the [[hr-integrations-framework|Enterprise Service Management Integrations Framework]] with the HR Service Delivery integration with Oracle Cloud HCM application.
+Can access all the features and capabilities of the Enterprise Service Management Integrations Framework with the HR Service Delivery integration with Oracle Cloud HCM application.
 
 </td><td>
 
@@ -71,10 +71,5 @@ The tables required for HR Service Delivery integration with Oracle Cloud HCM ar
 **Related topics**  
 
 
-[Transform maps for [[hr-service-delivery|HR Service Delivery]] integration with Oracle Cloud HCM]()
+[Transform maps for HR Service Delivery integration with Oracle Cloud HCM]()
 
-## Related
-
-- [[integration-hr-oracle-hcm|HR Service Delivery integration with Oracle Cloud HCM]]
-- [[hr-integrations-framework|Enterprise Service Management Integrations Framework]]
-- [[hr-service-delivery|HR Service Delivery]]

@@ -28,7 +28,7 @@ For shared parameters, only users with the sn\_aia.admin role can create Desktop
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[agentic-desktop-landing-page|AI Desktop Actions]]** &gt; **Desktop Action Parameters**.
+1.  Navigate to **All** &gt; **AI Desktop Actions** &gt; **Desktop Action Parameters**.
 
 2.  Select the Parameter record for which you want to store a value.
 
@@ -80,6 +80,3 @@ The **Value** field displays as plain text or encrypted text depending on the **
 
 The Desktop action parameter value record is created and appears in the Desktop action parameter values related list on the Parameter record.
 
-## Related
-
-- [[agentic-desktop-landing-page|AI Desktop Actions]]

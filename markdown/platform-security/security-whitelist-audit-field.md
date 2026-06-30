@@ -18,11 +18,11 @@ Track a subset of fields in an audited table by add those fields to an inclusion
 
 Role required: admin
 
-To add fields in a table to an inclusion list, you must have first [[t_EnableAuditingForATable|enabled auditing for that table]] and [[enable-whitelist-for-table|enabled inclusion list auditing for that table]].
+To add fields in a table to an inclusion list, you must have first [enabled auditing for that table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_EnableAuditingForATable.md) and [enabled inclusion list auditing for that table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/enable-whitelist-for-table.md).
 
 ## About this task
 
-Add a set of fields to an inclusion list when you want to audit only a small number of an audited table's fields. If you need to audit most fields, and exclude only a few, follow the [[t_ExcludeAFieldFromBeingAudited|exclusion list procedure]] instead.
+Add a set of fields to an inclusion list when you want to audit only a small number of an audited table's fields. If you need to audit most fields, and exclude only a few, follow the [exclusion list procedure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_ExcludeAFieldFromBeingAudited.md) instead.
 
 ## Procedure
 
@@ -34,8 +34,4 @@ Add a set of fields to an inclusion list when you want to audit only a small num
 
 4.  In the **Attributes** field, enter **audit=true**.
 
-## Related
 
-- [[t_EnableAuditingForATable|Configuring auditing for a table]]
-- [[enable-whitelist-for-table|Enable inclusion list auditing for a table]]
-- [[t_ExcludeAFieldFromBeingAudited|Exclude a field from being audited \(exclusion listing\)]]

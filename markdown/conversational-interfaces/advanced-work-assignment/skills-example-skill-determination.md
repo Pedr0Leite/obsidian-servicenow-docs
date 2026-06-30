@@ -14,7 +14,7 @@ breadcrumb: [Tutorial: Automatically assign work to agents by skill, Configure a
 
 # Enable skill determination
 
-Activate the skill determination business rule to tag skills for your [[awa-work-items|work items]].
+Activate the skill determination business rule to tag skills for your work items.
 
 ## Before you begin
 
@@ -30,6 +30,4 @@ Role required: awa\_admin or admin
 
 4.  Select **Update**.
 
-## Related
 
-- [[awa-work-items|Work items]]

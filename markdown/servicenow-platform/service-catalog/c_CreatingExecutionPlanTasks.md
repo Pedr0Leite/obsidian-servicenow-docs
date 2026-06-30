@@ -16,7 +16,7 @@ breadcrumb: [Execution Plans, Service Catalog request fulfillment, Configuring S
 
 An execution plan contains one or more task templates. Each task template defines work that can be completed by a specific fulfillment group.
 
-[[c_ExecutionPlans|Execution plans]] are associated with catalog items. When the relevant catalog item is requested, these task templates are used to generate tasks. That is, tasks to be performed as part of the request fulfillment process for that requested item. Each generated task within that requested item is assigned a catalog task number.
+Execution plans are associated with catalog items. When the relevant catalog item is requested, these task templates are used to generate tasks. That is, tasks to be performed as part of the request fulfillment process for that requested item. Each generated task within that requested item is assigned a catalog task number.
 
 ## Example
 
@@ -58,11 +58,11 @@ To define an execution plan task template:
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[service-catalog|Service Catalog]]** &gt; **Catalog Policy** &gt; **Execution Plans**.
+1.  Navigate to **All** &gt; **Service Catalog** &gt; **Catalog Policy** &gt; **Execution Plans**.
 
 2.  Open an execution plan.
 
-3.  In the **[[c_ExecutionPlanTasks|Execution Plan Tasks]]** related list, select **New**.
+3.  In the **Execution Plan Tasks** related list, select **New**.
 
 4.  Fill in the fields on the Execution Plan Task form \(see table\).
 
@@ -158,7 +158,7 @@ Details of the activities to be performed for the task. This information populat
 
 </td></tr><tr><td>
 
-[[c_WorkNotes|Work notes]]
+Work notes
 
 </td><td>
 
@@ -209,9 +209,3 @@ Ensure that you add the variable used in the script to the execution plan task.
 
 \[Omitted image "UseConditionScriptsToRunTasks.png"\] Alt text: Use Condition Scripts
 
-## Related
-
-- [[c_ExecutionPlans|Execution Plans]]
-- [[service-catalog|Service Catalog]]
-- [[c_ExecutionPlanTasks|Execution plan tasks]]
-- [[c_WorkNotes|Work notes]]

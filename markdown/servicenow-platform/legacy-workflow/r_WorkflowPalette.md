@@ -14,7 +14,7 @@ breadcrumb: [Workflow editor, Classic Workflow, ServiceNow AI Platform Additiona
 
 # Workflow palette
 
-The default workflow palette contains [[c_WorkflowActivities|workflow activities]] and existing workflows you can use as subflows.
+The default workflow palette contains workflow activities and existing workflows you can use as subflows.
 
 The basic workflow palette contains these tabs:
 
@@ -29,13 +29,9 @@ The **Workflows** tab lists existing workflows that you can edit or use as subfl
 
 ## Core tab
 
-The **Core** tab contains the standard activities available by default to all workflows and any activities purchased with Orchestration, organized by category. Click the arrow icons to expand or collapse the activity lists under each category. To [[t_AddAnActivityToAWorkflow|add an activity to a workflow]], drag it to the canvas. For more information, see [Add an activity to a workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/t_AddAnActivityToAWorkflow.md).
+The **Core** tab contains the standard activities available by default to all workflows and any activities purchased with Orchestration, organized by category. Click the arrow icons to expand or collapse the activity lists under each category. To add an activity to a workflow, drag it to the canvas. For more information, see [Add an activity to a workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/t_AddAnActivityToAWorkflow.md).
 
 \[Omitted image "WorkflowCoreTab.png"\] Alt text:
 
 **Parent Topic:**[Workflow editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/workflow-editor.md)
 
-## Related
-
-- [[c_WorkflowActivities|Workflow activities]]
-- [[t_AddAnActivityToAWorkflow|Add an activity to a workflow]]

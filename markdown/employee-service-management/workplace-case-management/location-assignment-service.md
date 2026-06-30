@@ -22,7 +22,7 @@ The service contains the following activities:
 
 -   **Get suggested workplace location**
 
-    This [[activity-lxp|activity]] fetches user details and suggests a location.
+    This activity fetches user details and suggests a location.
 
     1.  The activity searches for a workspace that has the same allocation as the employee's manager, team members, or collaborators. The allocation that the activity searches for is based on the **sn\_wsd\_core.ALLOCATION\_TYPE**.
 
@@ -56,6 +56,3 @@ The service contains the following activities:
 
 [Workplace Service form]()
 
-## Related
-
-- [[activity-lxp|Activity]]

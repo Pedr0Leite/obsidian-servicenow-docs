@@ -12,7 +12,7 @@ breadcrumb: [Analyze data usage, Data Management, Tables and data, Configure cor
 
 # Viewing table rules
 
-View a summary and execution history of the [[c_DataManagement|data management]] rules that have been created on a table.
+View a summary and execution history of the data management rules that have been created on a table.
 
 ## Key benefits
 
@@ -44,8 +44,8 @@ View a list of the data management rules on the current table.
 
 View the total number of data management rules created on the current table, including the number of active and inactive rules. Manage the growth of data in the current table by creating data management rules or adjusting current rule conditions.
 
--   [[t_CreateATable|Create a table]] cleaner rule to delete older or unwanted records by selecting **New cleanup rule**. See [[activate-table-cleanup|Create a table cleanup rule in Core UI]].
--   Create an archive rule to move data that's no longer needed every day to an archive table by selecting **New archive rule**. See [[t_CreateAnArchiveRule|Create an archive rule in Core UI]].
+-   Create a table cleaner rule to delete older or unwanted records by selecting **New cleanup rule**. See [Create a table cleanup rule in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/activate-table-cleanup.md).
+-   Create an archive rule to move data that's no longer needed every day to an archive table by selecting **New archive rule**. See [Create an archive rule in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAnArchiveRule.md).
 
 ## Records in backlog
 
@@ -60,9 +60,3 @@ Track the count of records in the current table that meet the requirements of a 
 
 View a list of recent rule activities on the current table. Filter the list by rule type and view the number of affected records for each executed rule.
 
-## Related
-
-- [[activate-table-cleanup|Create a table cleanup rule in Core UI]]
-- [[t_CreateAnArchiveRule|Create an archive rule in Core UI]]
-- [[c_DataManagement|Data Management]]
-- [[t_CreateATable|Create a table]]

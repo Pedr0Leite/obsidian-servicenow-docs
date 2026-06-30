@@ -14,11 +14,11 @@ breadcrumb: [Employee Health and Safety Status, Employee Readiness Core, Safe Wo
 
 # Synchronize Employee Readiness Core visitors with Workplace Visitor Management
 
-As an administrator, synchronize the visitor tables in the [[employee-readiness-core|Employee Readiness Core]] and [[workplace-visitor-mgmt-feat|Workplace Visitor Management]] applications.
+As an administrator, synchronize the visitor tables in the Employee Readiness Core and Workplace Visitor Management applications.
 
 ## Before you begin
 
-To successfully enable visitor synchronization between Employee Readiness Core and the Workplace Visitor Management application in [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]], note the following requirements:
+To successfully enable visitor synchronization between Employee Readiness Core and the Workplace Visitor Management application in Workplace Service Delivery, note the following requirements:
 
 -   The Workplace Visitor Management application must be installed. For more information, see [Install Workplace Visitor Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/install-workplace-visitor-mgmt.md).
 -   Ensure your organization has a data backup before running the `Sync Visitors` fix script. Otherwise, syncing is not reversible.
@@ -33,7 +33,7 @@ An initial synchronization using the `Sync Visitors` fix script is required befo
 
 Any data conflicts are resolved by using the most recent changes to a table. After the tables are synchronized, updates to one table automatically are reflected on the other.
 
-**Important:** Do not delete visitors from the Employee Readiness Core sn\_imt\_core\_visitor table because they do not sync back to Workplace Visitor Management. Deletions from the sn\_wsd\_visitor\_visitor table are performed when you [[anonymize-visitor|anonymize a visitor]]. Anonymized data does sync to the sn\_imt\_core\_visitor table. For more information on anonymizing visitors or deleting visitor data in Workplace Visitor Management, see [Anonymize a visitor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/anonymize-visitor.md).
+**Important:** Do not delete visitors from the Employee Readiness Core sn\_imt\_core\_visitor table because they do not sync back to Workplace Visitor Management. Deletions from the sn\_wsd\_visitor\_visitor table are performed when you anonymize a visitor. Anonymized data does sync to the sn\_imt\_core\_visitor table. For more information on anonymizing visitors or deleting visitor data in Workplace Visitor Management, see [Anonymize a visitor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/anonymize-visitor.md).
 
 Synchronization can be disabled; however, the initial sync is irreversible without a backup.
 
@@ -43,7 +43,7 @@ Synchronization can be disabled; however, the initial sync is irreversible witho
 
     This property controls visitor syncing between visitors in Employee Readiness Core and Workplace Visitor Management. It is disabled by default.
 
-    1.  Navigate to **[[employee-health-safety-status|Employee Health and Safety Status]]** &gt; **Properties**.
+    1.  Navigate to **Employee Health and Safety Status** &gt; **Properties**.
 
     2.  Set the **sn\_imt\_core.visitor\_syncing** property to **Yes**.
 
@@ -66,10 +66,3 @@ If your organization wants to disable synchronization, navigate to **Employee He
 
 **Parent Topic:**[Employee Health and Safety Status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-readiness-core/employee-health-safety-status.md)
 
-## Related
-
-- [[employee-readiness-core|Employee Readiness Core]]
-- [[workplace-visitor-mgmt-feat|Workplace Visitor Management]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[anonymize-visitor|Anonymize a visitor]]
-- [[employee-health-safety-status|Employee Health and Safety Status]]

@@ -12,7 +12,7 @@ breadcrumb: [Configuring ServiceNow Vault, ServiceNow Vault]
 
 # Install ServiceNow Vault
 
-Install the [[servicenow-vault-landing|ServiceNow Vault]] application and assign the required roles.
+Install the ServiceNow Vault application and assign the required roles.
 
 ## Before you begin
 
@@ -20,9 +20,9 @@ Role required: admin
 
 ## About this task
 
-When you first navigate to the Vault console on a new instance, the console is in preview-only mode. To activate full functionality, install the Vault console application from the ServiceNow Store or Application Manager. After installation, [[data-discovery-landing|Data Discovery]] is available by default. All other tools require separate [[sc-configuration|configuration]].
+When you first navigate to the Vault console on a new instance, the console is in preview-only mode. To activate full functionality, install the Vault console application from the ServiceNow Store or Application Manager. After installation, Data Discovery is available by default. All other tools require separate configuration.
 
-**Note:** To install all ServiceNow Vault capabilities without configuring each plugin separately, see [[install-vault-suite|Install Vault Suite]].
+**Note:** To install all ServiceNow Vault capabilities without configuring each plugin separately, see [Install Vault Suite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/install-vault-suite.md).
 
 ## Procedure
 
@@ -36,7 +36,7 @@ When you first navigate to the Vault console on a new instance, the console is i
 
 3.  Assign the `sn_vault_console.vault_console_admin` role to the user that would need access to the Vault console by performing the following:
 
-    1.  Navigate to **All** &gt; **User Administration** &gt; **[[users|Users]]** and then open a user record.
+    1.  Navigate to **All** &gt; **User Administration** &gt; **Users** and then open a user record.
 
     2.  In the **Roles** related list, select **Edit**.
 
@@ -46,13 +46,6 @@ When you first navigate to the Vault console on a new instance, the console is i
 
 4.  Based on organizational needs and functionality of each user, further additional tool-specific roles can be assigned to users.
 
-    For more role related information, see [[vault-roles|ServiceNow Vault roles]].
+    For more role related information, see [ServiceNow Vault roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/vault-roles.md).
 
-## Related
 
-- [[install-vault-suite|Install Vault Suite]]
-- [[vault-roles|ServiceNow Vault roles]]
-- [[servicenow-vault-landing|ServiceNow Vault]]
-- [[data-discovery-landing|Data Discovery]]
-- [[sc-configuration|Configuration]]
-- [[users|Users]]

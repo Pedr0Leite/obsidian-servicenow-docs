@@ -12,7 +12,7 @@ breadcrumb: [Web Embeddables component properties, Web Embeddables reference, Re
 
 # Component properties for the Catalog item
 
-Component property enables you to configure the behavior of the [[catalog-item-web-component|Catalog item component]] instance on the third-party website.
+Component property enables you to configure the behavior of the Catalog item component instance on the third-party website.
 
 <table id="table_csm_base_entities"><thead><tr><th>
 
@@ -150,11 +150,7 @@ Option to show or hide component notifications. By default, it shows notificatio
 
 [Embed the Catalog item component instance on the third-party website](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/embed-catalog-item-component-on-third-party-website.md)
 
-[[we-catalog-item-event-handler|Event handler in the Catalog item component]]
+[Event handler in the Catalog item component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/we-catalog-item-event-handler.md)
 
 [Sample code for the Catalog item component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/we-catalog-item-sample-code.md)
 
-## Related
-
-- [[we-catalog-item-event-handler|Event handler in the Catalog item component]]
-- [[catalog-item-web-component|Catalog item component]]

@@ -18,7 +18,7 @@ Access the CMDB Data Foundation insights dashboard in Service Graph Workspace to
 
 ## Access
 
-1.  Navigate to **Workspaces** &gt; **[[sg-workspace|Service Graph Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Graph Workspace**.
 2.  In the navigation panel, select the Insights icon.
 3.  On the Insights page navigation pane, select **CMDB Data Foundation**.
 
@@ -29,6 +29,3 @@ For additional information, see:
 -   [Monitor health in CSDM and CMDB Data Foundations Dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/csdm-cmdb-foundations-dashboards.md).
 -   [CMDB Data Foundations dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-data-foundations-dashboard.md).
 
-## Related
-
-- [[sg-workspace|Service Graph Workspace]]

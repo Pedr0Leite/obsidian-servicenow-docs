@@ -12,33 +12,33 @@ breadcrumb: [Column Level Encryption Enterprise examples, Using Column Level Enc
 
 # Column Level Encryption Enterprise walkthrough
 
-This walkthrough shows you how to encrypt a field in your instance [[using-column-level-encryption|using Field Encryption]] Enterprise with the [[encryption|Key Management Framework]] \(KMF\). It also shows you how to use your own key.
+This walkthrough shows you how to encrypt a field in your instance using Field Encryption Enterprise with the Key Management Framework \(KMF\). It also shows you how to use your own key.
 
 ## Before you begin
 
-**Note:** This procedure only applies to [[now-platform-encryption-2|Column Level Encryption Enterprise]] functionality. See [[activate-platform-encryption-2|Activate Column Level Encryption Enterprise]] for more information on obtaining Column Level Encryption Enterprise.
+**Note:** This procedure only applies to Column Level Encryption Enterprise functionality. See [Activate Column Level Encryption Enterprise](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/activate-platform-encryption-2.md) for more information on obtaining Column Level Encryption Enterprise.
 
 Role required: admin or security\_admin
 
-**Note:** security\_admin is a privileged role, for details on using privileged roles, see [[t_ElevateToAPrivilegedRole|Elevate to a privileged role]]
+**Note:** security\_admin is a privileged role, for details on using privileged roles, see [Elevate to a privileged role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_ElevateToAPrivilegedRole.md)
 
 ## About this task
 
 This walkthrough starts with an instance where you have already created and uploaded your personal cryptographic key. You could use the ServiceNow key, but this example uses a customer-supplied key.
 
-After the key has been stored in a cryptographic module, you can start configuring fields in your instance, such as salary or social security numbers that have limited access from certain [[users|users]]. In the Encrypted Field [[sc-configuration|Configuration]], specify which authorized personnel can access sensitive data.
+After the key has been stored in a cryptographic module, you can start configuring fields in your instance, such as salary or social security numbers that have limited access from certain users. In the Encrypted Field Configuration, specify which authorized personnel can access sensitive data.
 
 This task demonstrates two scenarios. One example encrypts the **Short Description** field in an Incident for users who are not authorized to view the sensitive data.
 
-Attachments can also be encrypted and only visible to users who are granted access, or is visible to all users that are not restricted from viewing the data. See [[attachment-encryption-walkthrough|Attachment encryption walkthrough]] to encrypt an attachment.
+Attachments can also be encrypted and only visible to users who are granted access, or is visible to all users that are not restricted from viewing the data. See [Attachment encryption walkthrough](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/attachment-encryption-walkthrough.md) to encrypt an attachment.
 
 ## Procedure
 
 1.  Make sure that Column Level Encryption Enterprise is enabled.
 
-2.  [[create-cryptographic-module|Create a cryptographic module]] for column\_level\_encryption.
+2.  Create a cryptographic module for column\_level\_encryption.
 
-    See [[create-PE-cryptographic-module-2|Create cryptographic module for Column Level Encryption]] [Create a cryptographic module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/create-cryptographic-module.md) for more information.
+    See [Create cryptographic module for Column Level Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/create-PE-cryptographic-module-2.md) [Create a cryptographic module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/create-cryptographic-module.md) for more information.
 
 3.  Navigate to **System Security** &gt; **Encrypted Field Configurations**.
 
@@ -54,7 +54,7 @@ Attachments can also be encrypted and only visible to users who are granted acce
     |Active|Option to mark **Active** to use the field configuration.|
     |Algorithm Equality Preserving|The option is automatically selected.|
     |Crypto module|Module that you created to use with the personal key.|
-    |Method|The **Single Module** option is used to apply the [[ca-policies|policies]] for one module. **Multiple Modules** is used to apply the policies across multiple modules.|
+    |Method|The **Single Module** option is used to apply the policies for one module. **Multiple Modules** is used to apply the policies across multiple modules.|
 
     \[Omitted image "cleexample.png"\] Alt text: Shows a completed Encrypted Field Configuration.
 
@@ -91,30 +91,14 @@ Attachments can also be encrypted and only visible to users who are granted acce
 
 11. Log in as a user to be restricted from viewing the encrypted data in the configured field.
 
-    \[Omitted image "encryptedfieldleveldata.png"\] Alt text: Shows no value in the Short description after [[encryption-landing|encryption]].
+    \[Omitted image "encryptedfieldleveldata.png"\] Alt text: Shows no value in the Short description after encryption.
 
     When you access the incident number, the data in the Short description will not be visible.
 
 
 ## Result
 
-You have successfully used your symmetric key to control access to a specific field [[using-column-level-encryption-2|using Column Level Encryption]] Enterprise.
+You have successfully used your symmetric key to control access to a specific field using Column Level Encryption Enterprise.
 
-**Parent Topic:**[[kmf-walkthroughs-tutorials-2|Column Level Encryption Enterprise examples]]
+**Parent Topic:**[Column Level Encryption Enterprise examples](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/kmf-walkthroughs-tutorials-2.md)
 
-## Related
-
-- [[activate-platform-encryption-2|Activate Column Level Encryption Enterprise]]
-- [[t_ElevateToAPrivilegedRole|Elevate to a privileged role]]
-- [[attachment-encryption-walkthrough|Attachment encryption walkthrough]]
-- [[create-PE-cryptographic-module-2|Create cryptographic module for Column Level Encryption]]
-- [[kmf-walkthroughs-tutorials-2|Column Level Encryption Enterprise examples]]
-- [[using-column-level-encryption|Using Field Encryption]]
-- [[encryption|Key Management Framework]]
-- [[now-platform-encryption-2|Column Level Encryption Enterprise]]
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[create-cryptographic-module|Create a cryptographic module]]
-- [[ca-policies|Policies]]
-- [[encryption-landing|Encryption]]
-- [[using-column-level-encryption-2|Using Column Level Encryption]]

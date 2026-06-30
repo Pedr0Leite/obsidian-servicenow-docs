@@ -64,7 +64,7 @@ URL builder
 
 </td><td>
 
-Either manually enter the connection URL or use system to build the URL based on the inputs. Default is unchecked. If checked, the connection URL is calculated from the following fields: -   Mutual [[c_Authentication|authentication]] — Check box if mutual authentication is used.
+Either manually enter the connection URL or use system to build the URL based on the inputs. Default is unchecked. If checked, the connection URL is calculated from the following fields: -   Mutual authentication — Check box if mutual authentication is used.
 -   Protocol — If mutual authentication is not used, enter protocol. The default is HTTPs.
 -   Protocol profile — If mutual authentication is used, enter protocol profile from sys\_protocol\_profile.
 -   Host
@@ -102,7 +102,7 @@ Use MID Server
 
 </td><td>
 
-Check to use a MID Server for this action or activity. If selected, define fields in the Advanced MID Server [[sc-configuration|Configuration]] section.
+Check to use a MID Server for this action or activity. If selected, define fields in the Advanced MID Server Configuration section.
 
 </td></tr><tr><td>
 
@@ -156,7 +156,7 @@ Connection Timeout
 
 </td><td>
 
-Number of milliseconds the system waits for a successful host connection. If a successful connection does not occur during this time, the connection [[c_requestAPI|request]] times out. Leave this field empty to use the system default connection timeout value.**Note:** Avoid setting the **Connection Timeout** value to zero, as this may cause a stale connection.
+Number of milliseconds the system waits for a successful host connection. If a successful connection does not occur during this time, the connection request times out. Leave this field empty to use the system default connection timeout value.**Note:** Avoid setting the **Connection Timeout** value to zero, as this may cause a stale connection.
 
 </td></tr><tr><td>
 
@@ -182,8 +182,3 @@ The default OData ping URL is /sap/bc/ping. To edit the ping URL for OData heart
 
 **Parent Topic:**[Get started with connections](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/connection-information.md)
 
-## Related
-
-- [[c_Authentication|Authentication]]
-- [[sc-configuration|Configuration]]
-- [[c_requestAPI|request]]

@@ -16,15 +16,15 @@ breadcrumb: [Targets and thresholds, Configure fundamentals, Performance Analyti
 
 Targets are goals your organization wants to achieve. Targets show the difference between the desired score at a certain date and the actual score of an indicator.
 
-You can create targets on KPI Details or its Core UI equivalent, the [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]].
+You can create targets on KPI Details or its Core UI equivalent, the Analytics Hub.
 
 A target can be personal or global. A personal target is visible only to the user that created it and appears as a light line. A global target is visible to all users and appears as a dark line. Because you cannot share a personal target, it appears only on the Analytics Hub and KPI Details. The matrix of target visibility follows:
 
 |Platform Analytics experience feature|Equivalent Core UI feature|Global or Personal targets|View or set|
 |-------------------------------------|--------------------------|--------------------------|-----------|
-|[[kpi-details|KPI Details]]|[Analytics Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_UsePerformanceAnalyticsScorecards.md)|Global and personal|Set and view|
-|[[create-dv-time-series-ac|Time series]] and [[create-dv-sing-sc-ac|Single score]] [[c_performanceAnalyticsAndReporting|Platform Analytics]] data visualizations|[Time series Performance Analytics widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/time-series-widgets.md)|Global|View only|
-|[[analytics-center-dashboards|Dashboards in Platform Analytics]] containing time series or single score data visualizations that show targets|[Responsive dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/dashboards-landing-page.md) containing Time series [[c_Widgets|Performance Analytics widgets]] that show targets|Global|View only|
+|[KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/kpi-details.md)|[Analytics Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_UsePerformanceAnalyticsScorecards.md)|Global and personal|Set and view|
+|[Time series](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-time-series-ac.md) and [Single score](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-sing-sc-ac.md) Platform Analytics data visualizations|[Time series Performance Analytics widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/time-series-widgets.md)|Global|View only|
+|[Dashboards in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-dashboards.md) containing time series or single score data visualizations that show targets|[Responsive dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/dashboards-landing-page.md) containing Time series Performance Analytics widgets that show targets|Global|View only|
 |[Proactive analytics insights cards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/proactive-analytics/proactive-analytics.md) on Platform Analytics dashboards, which show targets being met or breached|No equivalent|Global|View only|
 |UI Builder pages containing time series or single score data visualizations that show targets|No equivalent|Global|View only|
 
@@ -45,9 +45,9 @@ Role required: pa\_target\_admin to create global targets that are visible to al
 1.  Either:
 
     -   Open the Analytics Hub for an indicator.
-    -   If you are working in the [[par-workspace|Platform Analytics experience]], open KPI Details for an indicator. For more information, see [[create-kpi-details-targets|Create a target in KPI Details]].
+    -   If you are working in the Platform Analytics experience, open KPI Details for an indicator. For more information, see [Create a target in KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-kpi-details-targets.md).
 
-        **Note:** KPI Details gives you the additional option to set targets in bulk for multiple breakdown elements. For more information, see [[add-multiple-targets|Add a target to multiple breakdown elements in KPI Details]].
+        **Note:** KPI Details gives you the additional option to set targets in bulk for multiple breakdown elements. For more information, see [Add a target to multiple breakdown elements in KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/add-multiple-targets.md).
 
 2.  To limit the target to a subset of the scores, select a breakdown and a breakdown element.
 
@@ -161,7 +161,7 @@ As an incident manager, you want the number of open incidents to go down. You ar
 
 \[Omitted image "target-ex-set-first.gif"\] Alt text: Animated gif of creating a target based on a 10% reduction of an average score over a date range
 
-July 15 comes around, and your team has exceeded all expectations—Or your customers are all on holiday and not [[reporting-landing-page|reporting]] incidents. In any case, the number of open incidents is far below your target.\[Omitted image "target-ex-review.png"\] Alt text: Number of open incidents at time of target review
+July 15 comes around, and your team has exceeded all expectations—Or your customers are all on holiday and not reporting incidents. In any case, the number of open incidents is far below your target.\[Omitted image "target-ex-review.png"\] Alt text: Number of open incidents at time of target review
 
 You now have several options:
 
@@ -172,7 +172,7 @@ You now have several options:
 
 Select which users receive notifications. Notifications are sent when a target is achieved or is expected to be achieved within 14 days. For more information, see [Configure which users receive a target notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/pa-targets.md).
 
-You can also nominate responsible users for targets in KPI Details. For more information, see [[responsibiity-targets-kpi-details|Responsibility for indicator targets]].
+You can also nominate responsible users for targets in KPI Details. For more information, see [Responsibility for indicator targets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/responsibiity-targets-kpi-details.md).
 
 **Related topics**  
 
@@ -189,7 +189,7 @@ Role required: pa\_admin, pa\_power\_user, or admin
 
 ### About this task
 
-For example, if you want to filter the number of open incidents, the scores for an increase of 25% can be shown in red, an increase of 10% in orange, and no change in yellow. Whereas, for example, a decrease by 25% can be shown in dark green. Two target [[color-schemes-pa-widgets|color schemes]] are available in Performance Analytics by default: the 3-color traffic light and the 5-color traffic light.
+For example, if you want to filter the number of open incidents, the scores for an increase of 25% can be shown in red, an increase of 10% in orange, and no change in yellow. Whereas, for example, a decrease by 25% can be shown in dark green. Two target color schemes are available in Performance Analytics by default: the 3-color traffic light and the 5-color traffic light.
 
 **Note:** You can only set a color scheme for a global target, not a personal target.
 
@@ -285,18 +285,3 @@ The notification is sent automatically when a target is reached. Users that rece
 
 [Notifications](https://www.servicenow.com/docs/?context=CSHelp:Notifications-Landing)
 
-## Related
-
-- [[kpi-details|KPI Details]]
-- [[create-dv-time-series-ac|Create time series data visualizations]]
-- [[create-dv-sing-sc-ac|Create a single score data visualization]]
-- [[analytics-center-dashboards|Dashboards in Platform Analytics]]
-- [[create-kpi-details-targets|Create a target in KPI Details]]
-- [[add-multiple-targets|Add a target to multiple breakdown elements in KPI Details]]
-- [[responsibiity-targets-kpi-details|Responsibility for indicator targets]]
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[c_Widgets|Performance Analytics widgets]]
-- [[par-workspace|Platform Analytics experience]]
-- [[reporting-landing-page|Reporting]]
-- [[color-schemes-pa-widgets|Color schemes]]

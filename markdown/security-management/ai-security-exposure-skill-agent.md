@@ -16,7 +16,7 @@ You have the option to use a generative AI skill and agentic workflow to help yo
 
 ## AI guardrails helper skill and agentic workflow overview
 
-To use the AI guardrails helper skill and agentic, you must install the [[now-assist-for-vulnerability-response-landing|Now Assist for Vulnerability Response]] application \(sn\_vul\_ai\).
+To use the AI guardrails helper skill and agentic, you must install the Now Assist for Vulnerability Response application \(sn\_vul\_ai\).
 
 Roles required are sn\_vul.vulnerability\_admin or sn\_vul.vulnerability\_analyst admin
 
@@ -24,18 +24,12 @@ The AI Guardrails Helper is a combination of an AI skill and an AI agent. Togeth
 
 The Now Assist panel must be activated. For more information, see [Activate the Now Assist panel standard chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-now-assist-panel.md).
 
-See [[ai-security-exposure-use-aiskill|Use the AI guardrails helper skill]] and [[ai-security-exposure-use-agent|Use the AI guardrails helper agentic workflow]] for steps to use the skill and the agentic workflow.
+See [Use the AI guardrails helper skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/ai-security-exposure-use-aiskill.md) and [Use the AI guardrails helper agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/ai-security-exposure-use-agent.md) for steps to use the skill and the agentic workflow.
 
 -   **[Use the AI guardrails helper agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/ai-security-exposure-use-agent.md)**  
 Use the AI agent to ask about the guardrails that were identified by the AI skill component in the AI Guardrails Helper, automatically defer findings with existing mitigations in the form of guardrails, or create exception rules to auto-defer future findings.
 -   **[Use the AI guardrails helper skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/ai-security-exposure-use-aiskill.md)**  
 This AI skill can help you identify finding types, understand the guardrails that might be already mapped to findings, and see why they were selected by the skill to map to specific findings. This information can help you determine which findings might be already mitigated or deferred for later review or remediation.
 
-**Parent Topic:**[[exploring-ai-security-exposure|Exploring AI Security Exposure Management]]
+**Parent Topic:**[Exploring AI Security Exposure Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/exploring-ai-security-exposure.md)
 
-## Related
-
-- [[ai-security-exposure-use-aiskill|Use the AI guardrails helper skill]]
-- [[ai-security-exposure-use-agent|Use the AI guardrails helper agentic workflow]]
-- [[exploring-ai-security-exposure|Exploring AI Security Exposure Management]]
-- [[now-assist-for-vulnerability-response-landing|Now Assist for Vulnerability Response]]

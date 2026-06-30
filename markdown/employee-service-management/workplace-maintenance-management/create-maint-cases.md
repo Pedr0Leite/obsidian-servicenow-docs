@@ -30,7 +30,7 @@ Role required: admin
 
     The **Workplace Maintenance Nightly run** scheduled job generates maintenance cases for maintenance plan records.
 
-    \[Omitted image "wsd-maint-overview-tab.png"\] Alt text: The [[overview-lxp-widgets|Overview tab]] for a [[cal-view-overview|Maintenance plan calendar view]] showing maintenance cases.
+    \[Omitted image "wsd-maint-overview-tab.png"\] Alt text: The Overview tab for a Maintenance plan calendar view showing maintenance cases.
 
 3.  Select a maintenance case to view the **Workplace Service** associated with a maintenance case and the scheduled job value for a case.
 
@@ -50,7 +50,7 @@ Role required: admin
 
 5.  Navigate to **All** &gt; **System Definitions** &gt; **Scheduled jobs**.
 
-    1.  Search for [[workplace-maintenance-mgmt-ovw|Workplace Maintenance Management]] in the Application Column.
+    1.  Search for Workplace Maintenance Management in the Application Column.
 
     2.  **Workplace Maintenance Nightly run**: This scheduled job runs every 48 hours \(end of day tomorrow\) and generates maintenance cases for maintenance plan records.
 
@@ -58,7 +58,7 @@ Role required: admin
 
         The scheduled job checks for active plan records with a **Next Run time** \(duration-based schedule\) or **Next run value** \(meter-based schedule\) and checks for a schedule template in a plan record. When it finds a schedule template, it creates maintenance cases.
 
-        For more information about how to create a scheduled job and how the scheduled job picks up plan records based on conditions and [[workplace-services|workplace services]], see [Create or copy a maintenance schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/create-maint-schedule.md) and [Workplace planned maintenance scheduled job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/sch-job-planned-nightly.md).
+        For more information about how to create a scheduled job and how the scheduled job picks up plan records based on conditions and workplace services, see [Create or copy a maintenance schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/create-maint-schedule.md) and [Workplace planned maintenance scheduled job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/sch-job-planned-nightly.md).
 
 
 **Parent Topic:**[Manage Workplace Maintenance Management plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/manage-maintenance-plans.md)
@@ -67,9 +67,3 @@ Role required: admin
 
 **Next topic:**[Workplace Maintenance Management dashboard and analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/workplace-maintenance-management-dashboard-overview.md)
 
-## Related
-
-- [[overview-lxp-widgets|Overview tab]]
-- [[cal-view-overview|Maintenance plan calendar view]]
-- [[workplace-maintenance-mgmt-ovw|Workplace Maintenance Management]]
-- [[workplace-services|Workplace Services]]

@@ -14,11 +14,11 @@ breadcrumb: [Customize dashboard templates, Configuring Service Observability, S
 
 # Add Splunk Enterprise data to Service Observability dashboard templates
 
-Add Splunk Enterprise data to charts on [[service-observability|Service Observability]] dashboard templates when you want to view those metrics in context of Service Observability.
+Add Splunk Enterprise data to charts on Service Observability dashboard templates when you want to view those metrics in context of Service Observability.
 
 ## About this task
 
-You can add metrics that are stored in Splunk Enterprise to your Service Observability [[otto-aiops-dashboards|dashboards]]. These charts display with data from the query you add to the chart.
+You can add metrics that are stored in Splunk Enterprise to your Service Observability dashboards. These charts display with data from the query you add to the chart.
 
 **Note:** The results from these queries are not automatically scoped to the selected service.
 
@@ -30,7 +30,7 @@ Role required: sn\_sow\_svcobs.admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]** and then navigate to a service record.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace** and then navigate to a service record.
 
     You can access a service record from these pages in the SOW:
 
@@ -71,8 +71,3 @@ Role required: sn\_sow\_svcobs.admin
 
 **Parent Topic:**[Customize Service Observability dashboard templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/customize-service-observability-dashboard-templates.md)
 
-## Related
-
-- [[service-observability|Service Observability]]
-- [[otto-aiops-dashboards|Dashboards]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

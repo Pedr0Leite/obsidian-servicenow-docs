@@ -18,7 +18,7 @@ Appointment booking helps to effectively manage the service requests. With the a
 
 Customers can view available appointment windows, make a selection, and book service appointments from the service portal. Agents and dispatchers can also book appointments on behalf of customers.
 
-Appointment booking feature supports manual and [[dynamic-scheduling|dynamic scheduling]] of the work order tasks.
+Appointment booking feature supports manual and dynamic scheduling of the work order tasks.
 
 ## Key features
 
@@ -33,7 +33,7 @@ Key features of appointment booking include:
 
 ## Appointment Booking based on Capacity and Reservations Management
 
-Appointment Booking considers the defined [[capacity|capacity]] and reservations for a territory or group to show the available slots. For more information, see [[appt-booking-task-assignment|Learn about appointment availability settings]].
+Appointment Booking considers the defined capacity and reservations for a territory or group to show the available slots. For more information, see [Learn about appointment availability settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/appt-booking-task-assignment.md).
 
 **Related topics**  
 
@@ -42,8 +42,3 @@ Appointment Booking considers the defined [[capacity|capacity]] and reservations
 
 [Managing appointments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/appointment-booking/managing-appointments.md)
 
-## Related
-
-- [[appt-booking-task-assignment|Learn about appointment availability settings]]
-- [[dynamic-scheduling|Dynamic scheduling]]
-- [[capacity|Capacity]]

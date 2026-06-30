@@ -39,7 +39,7 @@ Targets help you measure your goal. For example, to meet the goal of increasing 
 
 Targets can be quantitative or qualitative, by defining the unit of measure for the target. Quantitative targets are numbers-based, countable, and measurable. Qualitative targets are interpretation-based, descriptive, and typically a yes or no type.
 
-You can also break down a target into smaller periods \(for example, Quarterly\), which helps you set a target for each quarter and focus on the specific breakdown targets. The [[target-breakdowns-gf|target breakdowns]] are automatically created based on the breakdown interval set for the target. For details on how the target breakdowns feature works, see [Target breakdowns in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/target-breakdowns.md).
+You can also break down a target into smaller periods \(for example, Quarterly\), which helps you set a target for each quarter and focus on the specific breakdown targets. The target breakdowns are automatically created based on the breakdown interval set for the target. For details on how the target breakdowns feature works, see [Target breakdowns in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/target-breakdowns.md).
 
 -   **Qualitative targets**
 
@@ -54,7 +54,7 @@ A target source is a configuration for a target to auto-update the actual value 
 
 The following target source types are supported for automating the actual value of a target:
 
--   PA Indicator: Updates the **Actual to date** field on the [[target-form|target form]] by fetching the required data from the PA Indicator.
+-   PA Indicator: Updates the **Actual to date** field on the target form by fetching the required data from the PA Indicator.
 -   Assessment/Survey: Updates the **Actual to date** field on the target form by fetching the required data from the Assessment metric type and Assessment metric category records.
 -   Custom script: The Custom script fetches the required data from any ServiceNow AI Platform table that is configured. With the Custom script option, any table or a combination of tables present on the ServiceNow AI Platform can be configured as a target source.
 
@@ -70,9 +70,9 @@ The following target source types are supported for automating the actual value 
 
 ## Goals workflow in Strategic Planning
 
-Using the Goals view in the [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace, you can do the following activities:
+Using the Goals view in the Strategic Planning Workspace, you can do the following activities:
 
--   [[create-goal|Create a goal]] for an entity such as company, business unit, department, and so on. For more information, see [Create a goal in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-goal-egm.md).
+-   Create a goal for an entity such as company, business unit, department, and so on. For more information, see [Create a goal in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-goal-egm.md).
 -   Set targets and automate the actual value of the targets. For more information, see [Add targets for a goal in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/set-targets-for-goal-egm.md).
 
     **Note:**
@@ -86,9 +86,3 @@ For more information on how to define and manage your goals in Strategic Plannin
 
 **Parent Topic:**[Exploring Portfolio Planning in Strategic Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/alignment-planner-workspace.md)
 
-## Related
-
-- [[target-breakdowns-gf|Target breakdowns]]
-- [[target-form|Target form]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[create-goal|Create a goal]]

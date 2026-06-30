@@ -16,7 +16,7 @@ breadcrumb: [Performance Analytics Content Pack for Agile 2.0, Agile Development
 
 Prior Release Dashboard provides data visualization on scope, actual burnup and burndown, and forecast trends of previous releases. Analyze the data and plan the work for upcoming releases.
 
-Navigate to **All** &gt; **[[agile-development|Agile Development]]** &gt; **Dashboards** and select **Agile 2.0 Prior Release Dashboard**.
+Navigate to **All** &gt; **Agile Development** &gt; **Dashboards** and select **Agile 2.0 Prior Release Dashboard**.
 
 \[Omitted image "agile-prior-release-burndown.png"\] Alt text: Agile 2.0 prior release burndown report.
 
@@ -142,6 +142,3 @@ If the actual burndown \(Remaining\) is above the ideal burndown, it implies tha
 
 **Parent Topic:**[Performance Analytics Content Pack for Agile 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/pa-content-pack-for-agile-2.0.md)
 
-## Related
-
-- [[agile-development|Agile Development]]

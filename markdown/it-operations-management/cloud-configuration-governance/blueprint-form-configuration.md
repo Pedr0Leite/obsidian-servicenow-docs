@@ -18,7 +18,7 @@ Blueprints control what the user sees on the catalog order form. You can configu
 
 **Note:**
 
--   Starting with Orlando, [[blueprints|Cloud Provisioning blueprints]] are available on instances upgraded from a previous release but you cannot create new blueprints. [[cloud-resource-profiles|Resource profiles]] and custom-created blueprints will no longer be supported starting with the Australia release.
+-   Starting with Orlando, Cloud Provisioning blueprints are available on instances upgraded from a previous release but you cannot create new blueprints. Resource profiles and custom-created blueprints will no longer be supported starting with the Australia release.
 -   Use Cloud Provisioning cloud templates to create catalog items in place of blueprints. Cloud Provisioning [cloud templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-cloud-template.md) allow you to ingest Azure ARM, AWS CFT, Google Deployment Manager \(GDM\) and Terraform specification syntax in cloud catalog items to run your cloud deployment orchestration.
 
 You can also change the values in form fields using policies. See [Create a cloud policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-cloud-policy.md) and [Create a policy action script](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-policy-script.md) for examples.
@@ -58,7 +58,3 @@ Several examples are provided to help you understand how to manipulate Cloud cat
 
 [Build a Cloud Provisioning blueprint]()
 
-## Related
-
-- [[blueprints|Cloud Provisioning Blueprints]]
-- [[cloud-resource-profiles|Resource Profiles]]

@@ -14,7 +14,7 @@ breadcrumb: [View SIR Workspace Dashboards, Security Incident Response Workspace
 
 # View Security Incident Response Health dashboard
 
-[[sir-landing-page|Security Incident Response]] Health dashboard feature provides a centralized view of critical aspects related to incident response process implementation, issues/errors encountered, and performance metrics. It serves as a vital tool for monitoring and optimizing the effectiveness of an organization's security incident response capabilities.
+Security Incident Response Health dashboard feature provides a centralized view of critical aspects related to incident response process implementation, issues/errors encountered, and performance metrics. It serves as a vital tool for monitoring and optimizing the effectiveness of an organization's security incident response capabilities.
 
 ## Before you begin
 
@@ -26,12 +26,12 @@ You can monitor the health of the security incidents using the widgets and trend
 
 -   **Process**: The tab displays a summary of all the incidents from various alert sensors grouped on a weekly basis.
 -   **Implementation**: This tab displays the customizations that the customers perform in their instances covering script includes, business rules, flows, and upgrades.
--   **Issues/Errors**: The tab displays widgets highlighting errors in integration processes, discrepancies during the ingestion of raw incident data, outbound HTTP errors in SIR applications, and any issues arising during the execution of [[tisc-playbooks-admin|playbooks]].
+-   **Issues/Errors**: The tab displays widgets highlighting errors in integration processes, discrepancies during the ingestion of raw incident data, outbound HTTP errors in SIR applications, and any issues arising during the execution of playbooks.
 -   **Performance**: This tab displays the performance issues in the SIR applications, including slowness in performance queries, business rules, and scripts.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Workspaces** &gt; **[[sir-workspace-landing-page|Security Incident Response Workspace]]**.
+1.  Navigate to **All** &gt; **Workspaces** &gt; **Security Incident Response Workspace**.
 
 2.  Select the **SIR Dashboards** icon on the SIR workspace homepage.
 
@@ -95,8 +95,4 @@ You can monitor the health of the security incidents using the widgets and trend
 
 11. You can use the **More** option to perform additional actions on the Security Incident Response Health dashboard.
 
-## Related
 
-- [[sir-landing-page|Security Incident Response]]
-- [[tisc-playbooks-admin|Playbooks]]
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]

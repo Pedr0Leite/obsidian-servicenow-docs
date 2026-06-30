@@ -12,7 +12,7 @@ breadcrumb: [Report an Operational vulnerability from the Employee Center, Repor
 
 # Assign the reported vulnerability to an analyst
 
-Assign a reported vulnerability to an analyst in the [[grc-opres-landing-page|Operational Resilience]] Workspace.
+Assign a reported vulnerability to an analyst in the Operational Resilience Workspace.
 
 ## Before you begin
 
@@ -36,6 +36,4 @@ Administrators of the Operational Resilience Workspace can assign a reported vul
 
 4.  Select **Save**.
 
-## Related
 
-- [[grc-opres-landing-page|Operational Resilience]]

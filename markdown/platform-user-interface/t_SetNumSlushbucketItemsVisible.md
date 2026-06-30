@@ -31,13 +31,10 @@ Role required: admin
 4.  Save the property.
 
 
-**Parent Topic:**[[t_UseSlushbuckets|Configure items on forms or in lists using a list collector]]
+**Parent Topic:**[Configure items on forms or in lists using a list collector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_UseSlushbuckets.md)
 
 **Related topics**  
 
 
 [Add a property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddAPropertyUsingSysPropsList.md)
 
-## Related
-
-- [[t_UseSlushbuckets|Configure items on forms or in lists using a list collector]]

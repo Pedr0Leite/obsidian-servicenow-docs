@@ -15,13 +15,13 @@ breadcrumb: [Activate Lifecycle Events, Configuring Lifecycle Events, Lifecycle 
 
 # Lifecycle event script includes and APIs
 
-Script includes call workflows within [[hr-lifecycle-events-landing-page-1|Lifecycle Events]].
+Script includes call workflows within Lifecycle Events.
 
 The following script includes are provided with Lifecycle Events:
 
 |Name|Description|
 |----|-----------|
-|hr\_ActivitySet|Main script include for [[LEWorkflow|Lifecycle Events workflows]] and [[activity-lxp|activity]] management.|
+|hr\_ActivitySet|Main script include for Lifecycle Events workflows and activity management.|
 |LaunchActivities|API to launch an instance of all activities under an activity set. Called when a Lifecycle Event case is created.|
 |getAvailableDependentActivitySets\(activitySet\)|Retrieves a collection of dependent activity sets for an activity set.|
 |isActivitySetCompleted|Checks when all activities in a set are complete.|
@@ -48,8 +48,3 @@ Advanced:
 
 **Parent Topic:**[Activate Lifecycle Events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/activate-enterprise-onboarding-and-transitions-scoped.md)
 
-## Related
-
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[LEWorkflow|Lifecycle Events workflows]]
-- [[activity-lxp|Activity]]

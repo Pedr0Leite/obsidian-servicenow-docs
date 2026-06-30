@@ -14,7 +14,7 @@ breadcrumb: [Load balancers, Network device discovery, Data collected by ITOM Vi
 
 # Cisco GSS load balancer discovery
 
-[[r-discovery|Discovery]] of Cisco GSS load balancers is performed by both SNMP and SSH.
+Discovery of Cisco GSS load balancers is performed by both SNMP and SSH.
 
 **Note:** For information on Probe to Pattern migration see the knowledge article [KB0694477](https://support.servicenow.com/kb_view.do?sysparm_article=KB0694477).
 
@@ -45,6 +45,3 @@ Discovery creates a record for each GSS device in the Cisco GSS \[cmdb\_ci\_lb\_
 
 **Parent Topic:**[Load balancer discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_LoadBalancers.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

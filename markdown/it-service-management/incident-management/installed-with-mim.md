@@ -14,7 +14,7 @@ breadcrumb: [Activate Incident Management - Major Incident Management, Major Inc
 
 # Components installed with Incident Management - Major Incident Management
 
-Several types of components are installed with activation of the [[c_IncidentManagement|Incident Management]] - Major Incident Management plugin, including tables and user roles.
+Several types of components are installed with activation of the Incident Management - Major Incident Management plugin, including tables and user roles.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -40,14 +40,14 @@ Major incident manager\[mim\_manager\]
 
 </td><td>
 
-A major incident manager can:-   Initiate the major incident process by assessing and approving [[major-incidents-candidate|major incident candidates]] or creating a major incident.
+A major incident manager can:-   Initiate the major incident process by assessing and approving major incident candidates or creating a major incident.
 -   Reject a major incident candidate.
--   [[demote-major-incident|Demote a major incident]] after it is accepted so that the incident can be handled as a regular incident.
+-   Demote a major incident after it is accepted so that the incident can be handled as a regular incident.
 -   Maintain the ownership and accountability for the life cycle of the incident.
 -   Identifies the users and groups to be involved in the resolution activities.
 -   Creates adhoc communication plans and tasks.
 -   Edits a communication plan that is attached to a major incident.
--   [[close-major-incident|Close a major incident]].
+-   Close a major incident.
 
 </td><td>
 
@@ -118,9 +118,3 @@ This table extends the Application File \[sys\_metadata\] table and stores the m
 </td></tr></tbody>
 </table>**Parent Topic:**[Activate Incident Management - Major Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/activate-major-incident-management-plugin.md)
 
-## Related
-
-- [[c_IncidentManagement|Incident Management]]
-- [[major-incidents-candidate|Major incident candidates]]
-- [[demote-major-incident|Demote a major incident]]
-- [[close-major-incident|Close a major incident]]

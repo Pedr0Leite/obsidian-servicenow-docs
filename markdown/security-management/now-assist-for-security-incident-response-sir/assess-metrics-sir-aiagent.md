@@ -30,7 +30,7 @@ Role required: sn\_si.manager
 
     The Now Assist panel is displayed.
 
-2.  Select **Analyze [[security-operations-landing-page|Security Operations]] Metrics** in the Now Assist panel.
+2.  Select **Analyze Security Operations Metrics** in the Now Assist panel.
 
 3.  At the prompt, select **Analyze security incident metrics**.
 
@@ -64,7 +64,7 @@ Specify a team by name and indicate a time period.
 End the conversation.
 
 </td></tr></tbody>
-</table>    You might prefer to have the [[sir-workspace-landing-page|Security Incident Response workspace]] open in another tab so that you can refer to assignment groups, dates, and other information for your prompts.
+</table>    You might prefer to have the Security Incident Response workspace open in another tab so that you can refer to assignment groups, dates, and other information for your prompts.
 
     Your conversation is saved until you start a new chat. To start a new chat, select the New chat icon \(\[Omitted image "na-new-chat.png"\] Alt text: New chat icon.\).
 
@@ -109,7 +109,3 @@ End the conversation.
     -   sn\_sec\_gen\_ai.aia\_metric\_analysis\_dimensions - The AI agent breaks analysis down based on the following fields when analyzing MTTR and MTTA metrics: **category**, **priority**, **close\_code**, **assigned\_to**, **alert\_sensor**. Users with the sn\_si.manager and sn\_si.admin roles can modify this list.
     -   sn\_sec\_gen\_ai.aia\_metric\_analysis\_outlier\_factor - This property determines the outlier factor for MTTR and MTTA. The default outlier value is 2. By default, a record is an outlier if its MTTR exceeds 2 times the average time that it takes an assignment group to resolve security incidents for the time range that you requested. Users with the sn\_si.manager and sn\_si.admin roles can modify this value.
 
-## Related
-
-- [[security-operations-landing-page|Security Operations]]
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]

@@ -20,7 +20,7 @@ A high volume of content can heavily influence the look and feel of the site and
 
 Review website design prerequisites to help you set expectations, scope deliverables, and define reasonable time lines. Consider both the planning and execution of site design, to understand how sites are built, and to provide a working overview of the CMS.
 
-Timing is important when considering the addition of content management. Successful deployments of the [[c_ContentManagementSystem|content management system]] usually take place after phase 1 processes \(for example, Incident, Problem, Change, Catalog, and Knowledge\) are in place. This is especially true if the team has limited website design experience. Waiting until phase 2 of deployment gives administrators time to work in ServiceNow and to understand how the organization uses the system and what business needs it meets.
+Timing is important when considering the addition of content management. Successful deployments of the content management system usually take place after phase 1 processes \(for example, Incident, Problem, Change, Catalog, and Knowledge\) are in place. This is especially true if the team has limited website design experience. Waiting until phase 2 of deployment gives administrators time to work in ServiceNow and to understand how the organization uses the system and what business needs it meets.
 
 Also consider the maturity level of data in the ServiceNow system. Depending on the ITIL processes used, content management is only useful and effective once the data within ServiceNow is established. Ensure that hierarchies, tasks, and workflows are well-defined. For example, before creating a catalog interface, confirm that the service catalog has been in place for some time, has been used, and contains data. The same is true for a knowledge management interface, particularly when high ratings or view counts define article placement on the page.
 
@@ -31,9 +31,9 @@ Identify the team members who assist you with website design, branding, and deve
 -   **[Data preparation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_PrepareTheData.md)**  
 It is important that there is enough data in the ServiceNow instance before you begin to build the CMS website.
 -   **[Corporate style guide](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_LeverageTheCorporateStyleGuide.md)**  
-When you build a CMS website, you design the look and feel based on guidelines in the [[c_LeverageTheCorporateStyleGuide|corporate style guide]].
+When you build a CMS website, you design the look and feel based on guidelines in the corporate style guide.
 -   **[Prototypes and rapid web design](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_PrototypesAndRapidWebDesign.md)**  
-Many user interface designers use [[c_PrototypesAndRapidWebDesign|prototypes and rapid web design]] techniques to visualize the final product before it is developed.
+Many user interface designers use prototypes and rapid web design techniques to visualize the final product before it is developed.
 -   **[Content Management navigation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_ContentManagementNavigation.md)**  
 After you design the hierarchical structure of the site, begin planning site navigation.
 -   **[System content management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_ManageSystemContent.md)**  
@@ -56,8 +56,3 @@ Most of the content in a CMS site is managed in different locations throughout t
 
 [CMS translation]()
 
-## Related
-
-- [[c_ContentManagementSystem|Content Management System]]
-- [[c_LeverageTheCorporateStyleGuide|Corporate style guide]]
-- [[c_PrototypesAndRapidWebDesign|Prototypes and rapid web design]]

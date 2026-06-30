@@ -19,11 +19,11 @@ Each Governance, Risk, and Compliance application has unique features and capabi
 For example, you can run GRC applications by using the ServiceNow® mobile application. Content packs and integrations are available from multiple GRC applications. Information such as domain separation support levels is also included.
 
 -   **[Assignment Configurator for non-regulatory alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/assignment-configurator-for-non-regulatory-alerts.md)**  
-Assignment rules help in automating organization’s task records such as action tasks, and non-task records such as issues, incidents, [[list-view-of-reg-alerts|regulatory alerts]], and so on.
+Assignment rules help in automating organization’s task records such as action tasks, and non-task records such as issues, incidents, regulatory alerts, and so on.
 -   **[Regulatory Agency Library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/regulatory-agency-library-rcm.md)**  
-[[regulatory-agency-library-rcm|Regulatory Agency Library]] is a new application available in the ServiceNow Store for download and activation.
+Regulatory Agency Library is a new application available in the ServiceNow Store for download and activation.
 -   **[Recommendation contexts and templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/recommendation-contexts.md)**  
-By using the Governance, Risk, and Compliance recommendations framework, you can use [[recommendation-contexts|recommendation contexts and templates]] to deliver AI-driven insights directly to your users within the user interface. With these insights, your users can make informed decisions and take prompt actions.
+By using the Governance, Risk, and Compliance recommendations framework, you can use recommendation contexts and templates to deliver AI-driven insights directly to your users within the user interface. With these insights, your users can make informed decisions and take prompt actions.
 -   **[Mobile experience for Governance, Risk, and Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/mobile-grc-ovrvw.md)**  
 Manage your work, task assignments, requests, approvals, and other follow-up actions for GRC applications directly from your mobile device. Receive timely notifications for current alerts, as well as risk and compliance status for your critical assets, vendors, and impacted essential business services.
 -   **[GRC notification redirection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/email-notification-redirection.md)**  
@@ -47,23 +47,23 @@ The GRC: Approver Configurator application provides you with capabilities to def
 -   **[Confidential records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/confidential-records.md)**  
 You can mark sensitive GRC records as confidential. You can then make sure that the right people have access to these records.
 -   **[User hierarchy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/user-hierarchy.md)**  
-With a [[user-hierarchy|user hierarchy]], your managers can see the records of those users who report to them.
+With a user hierarchy, your managers can see the records of those users who report to them.
 -   **[User group-based access on the GRC tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/user-groups.md)**  
 You can allow a set of users to access only specific records by creating user groups on the GRC tables. When you have created the user groups, you can segregate your data based on a specific criteria and allow only those users who belong to a user group to view the data.
 -   **[Content references in GRC](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/content-references.md)**  
 You can add tags to virtually any type of record defined in GRC applications that reference GRC content packs, integrations, use case accelerators, or any new regulations that use those records. After the records have been tagged, you can filter the content reference tags to identify which records are used within each application.
 -   **[Entity Based Access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/entity-based-access.md)**  
-The [[entity-based-access|Entity Based Access]] \(EBA\) application enables you to segregate data on the records that are based on entities. Entity-based access administrators can use this tool to set up secure, controlled access to various objects.
+The Entity Based Access \(EBA\) application enables you to segregate data on the records that are based on entities. Entity-based access administrators can use this tool to set up secure, controlled access to various objects.
 -   **[Manage issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/manage-issues-common-core.md)**  
 You can measure the effectiveness of your company's risk management program by how quickly and completely it identifies and reacts to risk and compliance issues.
 -   **[Domain separation in GRC](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/grc-domain-separation.md)**  
 This is an overview of domain separation and the Governance, Risk, and Compliance applications. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 -   **[Breadcrumb navigation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/breadcrumb-navigation.md)**  
-The ServiceNow® Australia release supports [[breadcrumb-navigation|breadcrumb navigation]] for all GRC modules including workspaces. Breadcrumbs provide a browser path to navigate a hierarchy of linked pages with related content.
+The ServiceNow® Australia release supports breadcrumb navigation for all GRC modules including workspaces. Breadcrumbs provide a browser path to navigate a hierarchy of linked pages with related content.
 -   **[Taxonomy management in GRC](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/taxonomy-management.md)**  
 Taxonomy is used to organize, classify, and label the elements of the unstructured content. The content is organized into granular elements that provide more information about the context of the content.
 -   **[Landing Page Configurations module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/admin-config-using-grc-common.md)**  
-GRC administrators can now configure the Tasks and Issues overview landing pages in the workspaces by using the GRC [[admin-config-using-grc-common|Landing Page Configurations module]] in the classic user interface. The role required to configure the tasks, issues, and other items in the Landing Page Configurations module is the sn\_grc\_workspace.task\_admin role. GRC administrators are assigned the sn\_grc\_workspace.task\_admin role by default.
+GRC administrators can now configure the Tasks and Issues overview landing pages in the workspaces by using the GRC Landing Page Configurations module in the classic user interface. The role required to configure the tasks, issues, and other items in the Landing Page Configurations module is the sn\_grc\_workspace.task\_admin role. GRC administrators are assigned the sn\_grc\_workspace.task\_admin role by default.
 -   **[My tasks in the workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/configuration-of-tasks.md)**  
 GRC administrators can configure the tasks for the individual users and user groups in the GRC Landing Page Configurations module. Based on these configurations, the workspace users can view the individual user tasks, user group tasks, my items, and watchlist on the Tasks page in the workspace view.
 -   **[Exploring the entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/exploring-the-entities.md)**  
@@ -73,9 +73,9 @@ Report exceptions as it is critical for businesses to quickly identify and addre
 -   **[Cybersecurity Executive dashboard for Chief Information Security Officers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/grc-ced-ciso-db.md)**  
 The Cybersecurity Executive Dashboard gives the Chief Information Security officer a comprehensive overview of the security posture score of an organization. However, the compliance and risk users can use the risk and compliance page to get an all-inclusive picture of all the GRC metrics.
 -   **[Advanced Governance, Risk, and Compliance Application Risk dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/advanced-grc-dashboard.md)**  
-The GRC **[[application-risk-comp-ovrvw-db-pc|Application Risk and Compliance Overview Dashboard]]** provides the latest view of risk and compliance aspects for the business applications that are used in an enterprise.
+The GRC **Application Risk and Compliance Overview Dashboard** provides the latest view of risk and compliance aspects for the business applications that are used in an enterprise.
 -   **[GRC licensing summary dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/grc-licensing-summary-dashboard.md)**  
-Use the [[grc-licensing-summary-dashboard|GRC licensing summary dashboard]] to track license usage trends and next month's projected usage. You can see the aggregated counts of license consumption across different product families. You can also search for roles to identify their combined GRC license treatment when these roles are assigned to a user.
+Use the GRC licensing summary dashboard to track license usage trends and next month's projected usage. You can see the aggregated counts of license consumption across different product families. You can also search for roles to identify their combined GRC license treatment when these roles are assigned to a user.
 -   **[Microsoft Word based audit report templates using Document designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/document-designer-template.md)**  
 The Microsoft Word based audit report is accessible and user-friendly for audit administrators. Even users without technical expertise can easily configure the template to meet their specific needs.
 -   **[Workspace page configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/workspace-page-configuration.md)**  
@@ -83,21 +83,7 @@ A common record page can be used and configured within all the GRC applications.
 -   **[Governance, Risk, and Compliance reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/grc-reference.md)**  
 Reference topics provide information about tables, roles, and properties installed with the GRC application.
 -   **[Anonymous Reporting Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/grc-anonymous-reporting-center.md)**  
-The [[grc-anonymous-reporting-center|Anonymous Reporting Center]] \(ARC\) enables employees to submit compliance, privacy, or AI‑related concerns without revealing their identity. Employees are automatically signed out of the **[[employee-center|Employee Center]]** when ARC opens.
+The Anonymous Reporting Center \(ARC\) enables employees to submit compliance, privacy, or AI‑related concerns without revealing their identity. Employees are automatically signed out of the **Employee Center** when ARC opens.
 
-**Parent Topic:**[[r_WhatIsGRC|Governance, Risk, and Compliance]]
+**Parent Topic:**[Governance, Risk, and Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/r_WhatIsGRC.md)
 
-## Related
-
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]
-- [[list-view-of-reg-alerts|Regulatory alerts]]
-- [[regulatory-agency-library-rcm|Regulatory Agency Library]]
-- [[recommendation-contexts|Recommendation contexts and templates]]
-- [[user-hierarchy|User hierarchy]]
-- [[entity-based-access|Entity Based Access]]
-- [[breadcrumb-navigation|Breadcrumb navigation]]
-- [[admin-config-using-grc-common|Landing Page Configurations module]]
-- [[application-risk-comp-ovrvw-db-pc|Application Risk and Compliance Overview dashboard]]
-- [[grc-licensing-summary-dashboard|GRC licensing summary dashboard]]
-- [[grc-anonymous-reporting-center|Anonymous Reporting Center]]
-- [[employee-center|employee center]]

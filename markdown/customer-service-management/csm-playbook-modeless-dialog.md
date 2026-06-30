@@ -12,7 +12,7 @@ breadcrumb: [Playbook page templates, Playbooks in Customer Service Management, 
 
 # Playbook modeless dialogs
 
-Use [[csm-front-line-case-page-modeless-dialogs|modeless dialogs]], windows that overlay the main window content, to create and post comments and work notes to the [[csm-config-ws-activity-stream|activity stream]] and to compose and send emails.
+Use modeless dialogs, windows that overlay the main window content, to create and post comments and work notes to the activity stream and to compose and send emails.
 
 A modeless dialog is a window that appears in a workspace as an overlay on top of the main window content. This overlay enables users to interact with the window content and the overlay content at the same time. Agents can use modeless dialogs to do the following while working in a playbook:
 
@@ -21,7 +21,7 @@ A modeless dialog is a window that appears in a workspace as an overlay on top o
 
 After opening a modeless dialog, agents can move it around the screen and put it where they need it. This feature enables agents to reference information from the main window while drafting text in the overlay window.
 
-The [[csm-playbook-templates|playbook page templates]] include the following modeless dialogs:
+The playbook page templates include the following modeless dialogs:
 
 -   Compose Activity - for creating and posting comments and work notes
 -   Compose Email - for creating and sending emails
@@ -170,7 +170,7 @@ Add a link to a knowledge article
 
 </td><td>
 
-To add a link to a knowledge article:1.  Select the [[migration-agent-assist|Agent Assist]] tab in the contextual side panel.
+To add a link to a knowledge article:1.  Select the Agent Assist tab in the contextual side panel.
 2.  View the list of knowledge articles or search for an article.
 3.  Select the More Actions menu on the knowledge article card.
 4.  Select **Add link in email**.
@@ -242,7 +242,7 @@ Select an email draft from the Draft Emails related list
 
 </td><td>
 
-1.  Select the Related [[migration-lists|Lists]] tab in the contextual side panel.
+1.  Select the Related Lists tab in the contextual side panel.
 2.  Expand the Draft Emails related list.
 3.  Select the Open draft icon on the desired draft email card.
 
@@ -258,10 +258,3 @@ The following guidelines apply to the Compose Email window:
 -   An agent has to manually close a Compose Email window before opening a new window.
 -   The Compose Email window can be resized.
 
-## Related
-
-- [[csm-front-line-case-page-modeless-dialogs|Modeless dialogs]]
-- [[csm-config-ws-activity-stream|Activity stream]]
-- [[csm-playbook-templates|Playbook page templates]]
-- [[migration-agent-assist|Agent assist]]
-- [[migration-lists|Lists]]

@@ -15,13 +15,9 @@ breadcrumb: [Explore, AI Risk and Compliance, Governance, Risk, and Compliance]
 
 # AI risk heatmap workbench
 
-Use the AI risk heatmap workbench to visualize assessed AI risks in a color-coded matrix. The heatmap helps you identify concentrations of higher-risk [[ai-assets-airc|AI assets]] and compare current and intended risk posture.
+Use the AI risk heatmap workbench to visualize assessed AI risks in a color-coded matrix. The heatmap helps you identify concentrations of higher-risk AI assets and compare current and intended risk posture.
 
-The data on the heatmap is obtained from the [[risk-assessments|risk assessments]]. To understand more about the heatmap and its filters, refer to [Configure risk heatmaps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/configure-risk-heatmap.md). The following figure displays the risk heatmap.
+The data on the heatmap is obtained from the risk assessments. To understand more about the heatmap and its filters, refer to [Configure risk heatmaps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/configure-risk-heatmap.md). The following figure displays the risk heatmap.
 
 \[Omitted image "risk-heatmap-ai-risks.png"\] Alt text: The risk heatmap that shows the risks to AI assets in a grid.
 
-## Related
-
-- [[ai-assets-airc|AI assets]]
-- [[risk-assessments|risk assessments]]

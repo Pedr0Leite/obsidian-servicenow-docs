@@ -14,7 +14,7 @@ breadcrumb: [Software license reconciliation counters for the legacy Software As
 
 # Set up quick counters for the legacy Software Asset Management plugin
 
-Quick counter [[settings-mobile|settings]] can help speed up the software counting process that is used by the legacy Software [[c_AssetManagement|Asset Management]] \(com.snc.software\_asset\_management\) plugin.
+Quick counter settings can help speed up the software counting process that is used by the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin.
 
 The following check boxes are available in the Parameters section of the Software Counter form:
 
@@ -25,7 +25,3 @@ Clearing these check boxes in addition to setting the Grouping parameter to None
 
 **Parent Topic:**[Software license reconciliation counters for the legacy Software Asset Management plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_UseCountersSWLicenseReconcil.md)
 
-## Related
-
-- [[settings-mobile|Settings]]
-- [[c_AssetManagement|Asset Management]]

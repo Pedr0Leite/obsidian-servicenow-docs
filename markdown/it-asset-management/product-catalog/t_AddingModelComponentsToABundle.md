@@ -22,7 +22,7 @@ Role required: model\_manager and asset
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ProductCatalog|Product Catalog]]** &gt; **Product Model** &gt; **[[c_CreatingBundledModels|Bundled Models]]**.
+1.  Navigate to **All** &gt; **Product Catalog** &gt; **Product Model** &gt; **Bundled Models**.
 
 2.  Open a bundle record.
 
@@ -54,7 +54,3 @@ Role required: model\_manager and asset
 
 [Models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/c_Models.md)
 
-## Related
-
-- [[c_ProductCatalog|Product Catalog]]
-- [[c_CreatingBundledModels|Bundled models]]

@@ -14,7 +14,7 @@ breadcrumb: [Process flow of MCP servers Via AI Gateway, AI Gateway, Explore, AI
 
 # Add an MCP server from the AI Control Tower
 
-Add an Model Context Protocol \(MCP\) server from the [[ai-control-tower-landing|AI Control Tower]].
+Add an Model Context Protocol \(MCP\) server from the AI Control Tower.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ For information on the AI steward role and its responsibilities, see [AI Control
 
 ## Procedure
 
-1.  Navigate to **[[ai-assets|AI assets]]** &gt; **[[ai-inventory|AI asset inventory]]** &gt; **MCP servers**.
+1.  Navigate to **AI assets** &gt; **AI asset inventory** &gt; **MCP servers**.
 
 2.  Select **Add**.
 
@@ -58,8 +58,3 @@ For information on the AI steward role and its responsibilities, see [AI Control
 
 The newly added MCP server is registered in the AI asset inventory MCP servers list and available for approval workflow.
 
-## Related
-
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[ai-assets|AI assets]]
-- [[ai-inventory|AI asset inventory]]

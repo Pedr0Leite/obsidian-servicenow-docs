@@ -37,7 +37,7 @@ The following items are installed with Operational Sustainability Integration wi
 -   Scheduled jobs
 -   Tables
 
-For more information, see [[components-installed-with-esg|Components installed with Operational Sustainability Management \(formerly ESG Management\)]].
+For more information, see [Components installed with Operational Sustainability Management \(formerly ESG Management\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/components-installed-with-esg.md).
 
 ## Procedure
 
@@ -61,6 +61,4 @@ For more information, see [[components-installed-with-esg|Components installed w
 
 6.  Select **Install**.
 
-## Related
 
-- [[components-installed-with-esg|components installed with esg]]

@@ -12,7 +12,7 @@ breadcrumb: [Optimize workforce operations, Extend capabilities, Configure, Cust
 
 # Work Scheduler components in Workforce Optimization for Customer Service reference
 
-Workforce [[optimization|Optimization]] for ITSM has properties to configure the Work scheduler default behavior.
+Workforce Optimization for ITSM has properties to configure the Work scheduler default behavior.
 
 ## Properties
 
@@ -32,7 +32,7 @@ sn\_wfo\_work\_sched.csm\_allowed\_tables
 
 </td><td>
 
-Defines the list of tables that a Work scheduler admin \(sn\_wfo\_work\_sched.admin\) can use to create configurations for work assignments in the [[configurable-wfo-cs|Workforce Optimization for Customer Service]] manager workspace.-   **Type**: string
+Defines the list of tables that a Work scheduler admin \(sn\_wfo\_work\_sched.admin\) can use to create configurations for work assignments in the Workforce Optimization for Customer Service manager workspace.-   **Type**: string
 -   **Default value**: sn\_customerservice\_case
 
 </td></tr><tr><td>
@@ -51,7 +51,7 @@ sn\_wfo\_work\_sched.should\_fetch\_shift\_data
 
 </td><td>
 
-Enables the display of shift spans in [[work-scheduling-wfo-cs|Work scheduler in Workforce Optimization for Customer Service]] manager workspace.-   **Type**: true\|false
+Enables the display of shift spans in Work scheduler in Workforce Optimization for Customer Service manager workspace.-   **Type**: true\|false
 -   **Default value**: true
 
 </td></tr><tr><td>
@@ -73,11 +73,5 @@ Defines which users are shown in Work scheduler when suggestions are enabled and
 -   **Default value**: 0
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[setup-configurable-wfo-cs|Optimize workforce operations]]
+</table>**Parent Topic:**[Optimize workforce operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/setup-configurable-wfo-cs.md)
 
-## Related
-
-- [[setup-configurable-wfo-cs|Optimize workforce operations]]
-- [[optimization|Optimization]]
-- [[configurable-wfo-cs|Workforce Optimization for Customer Service]]
-- [[work-scheduling-wfo-cs|Work scheduler in Workforce Optimization for Customer Service]]

@@ -25,7 +25,7 @@ Role required: evt\_mgmt\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hla-landing-page|Health Log Analytics]]** &gt; **Data Input** &gt; **Log Data Inputs**.
+1.  Navigate to **All** &gt; **Health Log Analytics** &gt; **Data Input** &gt; **Log Data Inputs**.
 
 2.  Open a data input record from the Data Inputs table.
 
@@ -38,6 +38,3 @@ Role required: evt\_mgmt\_admin
 
 **Parent Topic:**[Set up data inputs in Health Log Analytics manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-input-setup-manual.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

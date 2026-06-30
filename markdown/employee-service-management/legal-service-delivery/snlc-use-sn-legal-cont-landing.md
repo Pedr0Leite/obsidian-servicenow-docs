@@ -27,20 +27,15 @@ Link a parent contract to a child contract to establish hierarchical relationshi
 -   **[Internal review overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-expert-review.md)**  
 Get your content reviewed by internal teams who have the expertise you need.
 -   **[Signature workflow for a request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-lsd-signature-workflow.md)**  
-[[snlc-expl-legal-contracts|Contract Management Pro for Legal Service Delivery]] supports electronic signature, wet \(manual\) signature, and offline signature for a contract request.
+Contract Management Pro for Legal Service Delivery supports electronic signature, wet \(manual\) signature, and offline signature for a contract request.
 -   **[Cancel a legal request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-cancel-request-tpc.md)**  
 Cancel a legal contract request if it is no longer necessary.
 -   **[View and download a signed contract document](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-preview-contract.md)**  
-[[snlc-preview-contract|View and download a signed contract document]].
+View and download a signed contract document.
 -   **[View contract requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-view-contract-requests.md)**  
 When a legal request is submitted a contract request associated with it is initiated.
 -   **[Manage Contract Management Pro for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-manage-sn-legal-contracts.md)**  
-As administrator work on managing the [[cncore-expl-wdt|word document templates]] and legal contracts.
+As administrator work on managing the word document templates and legal contracts.
 
 **Parent Topic:**[Contract Management Pro for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-mgmt-pro-landing-page.md)
 
-## Related
-
-- [[snlc-expl-legal-contracts|Contract Management Pro for Legal Service Delivery]]
-- [[snlc-preview-contract|View and download a signed contract document]]
-- [[cncore-expl-wdt|Word Document Templates]]

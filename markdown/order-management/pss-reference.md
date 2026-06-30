@@ -12,36 +12,25 @@ breadcrumb: [Configure, price, quote, Reference, Sales Customer Relationship Man
 
 # Customer Contracts and Entitlements reference
 
-Reference topics provide additional information on service contract life cycle and forms available within the [[exploring-post-sales-support|Customer Contracts and Entitlements]] application.
+Reference topics provide additional information on service contract life cycle and forms available within the Customer Contracts and Entitlements application.
 
 ## What to explore next
 
 To learn more about configuring and using Customer Contracts and Entitlements, see:
 
--   [[configuring-post-sales-support|Configure Customer Contracts and Entitlements]]
--   [[using-post-sales-support|Using Customer Contracts and Entitlements]]
+-   [Configure Customer Contracts and Entitlements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configuring-post-sales-support.md)
+-   [Using Customer Contracts and Entitlements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-post-sales-support.md)
 
--   **[[life-cycle-management|Customer contract life cycle]]**  
+-   **[Customer contract life cycle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/life-cycle-management.md)**  
 A customer contract goes through the various states in each phase of its life cycle.
--   **[[service-contract-form|Customer contract form]]**  
+-   **[Customer contract form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/service-contract-form.md)**  
 The Customer Contracts and Entitlements application uses the Customer contract form to create customer contracts.
--   **[[service-contract-line-form|Customer contract line form]]**  
+-   **[Customer contract line form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/service-contract-line-form.md)**  
 You can create customer contract lines in the Customer Contracts and Entitlements application by using the Customer Contract Line form.
--   **[[entitlement-form|Entitlement form]]**  
+-   **[Entitlement form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/entitlement-form.md)**  
 The Entitlement form can be used to create entitlements in Customer Contracts and Entitlements.
--   **[[sold-product-covered-form|Sold Product Covered form]]**  
+-   **[Sold Product Covered form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/sold-product-covered-form.md)**  
 The Customer Contracts and Entitlements application uses the Sold Product Covered form to add sold products or install base items that are covered to the Customer Contracts and Entitlements entities.
 
-**Parent Topic:**[[reference-cpq|Configure, price, quote reference]]
+**Parent Topic:**[Configure, price, quote reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/reference-cpq.md)
 
-## Related
-
-- [[configuring-post-sales-support|Configure Customer Contracts and Entitlements]]
-- [[using-post-sales-support|Using Customer Contracts and Entitlements]]
-- [[life-cycle-management|Customer contract life cycle]]
-- [[service-contract-form|Customer contract form]]
-- [[service-contract-line-form|Customer contract line form]]
-- [[entitlement-form|Entitlement form]]
-- [[sold-product-covered-form|Sold Product Covered form]]
-- [[reference-cpq|Configure, price, quote reference]]
-- [[exploring-post-sales-support|Customer Contracts and Entitlements]]

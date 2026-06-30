@@ -14,7 +14,7 @@ breadcrumb: [Push notifications, System notifications, Notifications, Configure 
 
 Push notifications provides several properties to customize the setup.
 
-Add these properties to the [[r_SetArchiveRuleProcessingBehavior|System Properties]] \[sys\_properties\] table.
+Add these properties to the System Properties \[sys\_properties\] table.
 
 -   **__glide.push.apns.version__**
 
@@ -42,12 +42,12 @@ Add these properties to the [[r_SetArchiveRuleProcessingBehavior|System Properti
     -   Default value: false
 -   **__glide.push.notification.ttl\_seconds__**
 
-    Specifies the number of seconds after which a queued push notification expires. After a push notification is triggered, it is queued and finally processed by a scheduled job. If the time the notification sits in the queue exceeds this value, the notification is not sent. Check the [[t_HandlingFailedPushMessages|Push Notifications log]] for more information.
+    Specifies the number of seconds after which a queued push notification expires. After a push notification is triggered, it is queued and finally processed by a scheduled job. If the time the notification sits in the queue exceeds this value, the notification is not sent. Check the [Push Notifications log](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_HandlingFailedPushMessages.md) for more information.
 
     -   Type: integer
     -   Default value: 21600
 
-**Parent Topic:**[[c_PushNotifications|Push notifications]]
+**Parent Topic:**[Push notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_PushNotifications.md)
 
 **Related topics**  
 
@@ -68,8 +68,3 @@ Add these properties to the [[r_SetArchiveRuleProcessingBehavior|System Properti
 
 [Push notification retention]()
 
-## Related
-
-- [[t_HandlingFailedPushMessages|Requeue failed push notification messages]]
-- [[c_PushNotifications|Push notifications]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

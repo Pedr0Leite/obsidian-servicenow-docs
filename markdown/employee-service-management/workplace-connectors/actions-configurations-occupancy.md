@@ -14,7 +14,7 @@ breadcrumb: [Setup Workplace Connectors for occupancy data, Configure, Workplace
 
 # Retrieving Action Configurations data
 
-Retrieve Actions from occupancy data provider using Flow Designer Integration Hub. Specify the transform definitions and invoke the Sub flow to retrieve Occupancy data. For example, Metrikus Spoke integration. The occupancy sensor data from the Occupancy data provider is transformed to derive space occupancy data in [[workplace-connectors-landing-page|Workplace Connectors]].
+Retrieve Actions from occupancy data provider using Flow Designer Integration Hub. Specify the transform definitions and invoke the Sub flow to retrieve Occupancy data. For example, Metrikus Spoke integration. The occupancy sensor data from the Occupancy data provider is transformed to derive space occupancy data in Workplace Connectors.
 
 ## Before you begin
 
@@ -102,6 +102,3 @@ Sub flows consist of properties, inputs or outputs, sequence of actions, and dat
 
 **Next topic:**[Retrieving Space Occupancy Data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/space-occupancy-data.md)
 
-## Related
-
-- [[workplace-connectors-landing-page|Workplace Connectors]]

@@ -21,7 +21,7 @@ A Standard Record Page \(SRP\) is the basic format in which records appear in th
 Service Operations Workspace contains incidents, cases, and tasks that an agent requires for daily work. SRP provides a basic structure that displays record information, such as a communication interface and suggestions for resolution. It provides the following constructs that help in customization:
 
 -   Presets: Presets are the pre-configured mappings inside the record pages. When you add a new component to the record page, the presets associated with the component are also added to the record page. You can configure presets to components by selecting the \[Omitted image "lock-icon.png"\] Alt text: lock icon. lock icon of a configuration. A copy or duplicate of the component contains these preset values.
--   Controllers: Controllers are the base scripts that help implement a record page's functionality. When you create a copy or duplicate of the record page, SRP establishes a [[reference-for-itsm-mobile-agent|reference]] to the original controller. You can’t modify the base functionality of the record page. However, you can modify the record page using the scripts and states according to your requirements.
+-   Controllers: Controllers are the base scripts that help implement a record page's functionality. When you create a copy or duplicate of the record page, SRP establishes a reference to the original controller. You can’t modify the base functionality of the record page. However, you can modify the record page using the scripts and states according to your requirements.
 
 **Note:**
 
@@ -39,6 +39,3 @@ Enable or disable the Agent Assist tab in the contextual side panel for the requ
 
 **Parent Topic:**[Configuring record pages in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configuring-record-pages-sow-itsm.md)
 
-## Related
-
-- [[reference-for-itsm-mobile-agent|Reference]]

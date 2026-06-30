@@ -14,11 +14,7 @@ breadcrumb: [Using HR Service Delivery Employee Relations, Employee Relations, C
 
 # Using Evidence Management
 
-You can create, edit, and categorize evidence related to an [[hr-case-employee-relations|employee relations]] case using the Core UI or [[hr-service-delivery|HR Service Delivery]] Agent Workspace.
+You can create, edit, and categorize evidence related to an employee relations case using the Core UI or HR Service Delivery Agent Workspace.
 
 You can associate evidence to an Employee Relations \(ER\) case. For more information on ER cases, see [Employee Relations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-case-employee-relations.md).
 
-## Related
-
-- [[hr-case-employee-relations|Employee Relations]]
-- [[hr-service-delivery|HR Service Delivery]]

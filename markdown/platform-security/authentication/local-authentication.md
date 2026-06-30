@@ -14,13 +14,9 @@ breadcrumb: [Authentication, Access Management]
 
 # Local authentication
 
-Use ServiceNow® local authentication to secure the [[users|users]] login on a local device.
+Use ServiceNow® local authentication to secure the users login on a local device.
 
-Local authentication is a method of verifying a user's [[identity-landing|identity]] on a local device. It uses unique characteristics or credentials possessed by the user to validate the user's login.
+Local authentication is a method of verifying a user's identity on a local device. It uses unique characteristics or credentials possessed by the user to validate the user's login.
 
 Use ServiceNow®'s local authentication features to securely access the ServiceNow® instance on your local devices.
 
-## Related
-
-- [[users|Users]]
-- [[identity-landing|Identity]]

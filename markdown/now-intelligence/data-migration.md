@@ -13,17 +13,17 @@ breadcrumb: [Platform Analytics experience, Platform Analytics]
 
 # Platform Analytics Migration Center
 
-When you migrate your Core UI data, your existing dashboards, reports, [[c_HomepagePublishers|interactive filters]], and [[c_Widgets|Performance Analytics widgets]] are moved to [[c_performanceAnalyticsAndReporting|Platform Analytics]]. When you activate the migration, the result is a single set of visualizations and unified filters for all data sources.
+When you migrate your Core UI data, your existing dashboards, reports, interactive filters, and Performance Analytics widgets are moved to Platform Analytics. When you activate the migration, the result is a single set of visualizations and unified filters for all data sources.
 
 **Note:**
 
 To learn more about Platform Analytics and the Migration Center, see the [Platform Analytics enablement toolkit](https://sn.works/analytics/pae) on the ServiceNow Community.
 
-From the Zurich release, both Core UI and [[par-workspace|Platform Analytics experience]] dashboards and visualizations sit side by side in the Platform Analytics library. Analytics managers can choose to migrate individual Core UI dashboards from the common library page.
+From the Zurich release, both Core UI and Platform Analytics experience dashboards and visualizations sit side by side in the Platform Analytics library. Analytics managers can choose to migrate individual Core UI dashboards from the common library page.
 
 Platform Analytics experience is enabled by default for all users on upgrade to Australia.
 
-Once migration is complete, you won't be able to add Core UI reports, PA [[widgets|widgets]] and filters to Platform Analytics experience dashboards. It is possible to add only migrated content and content created within Platform Analytics experience to these dashboards.
+Once migration is complete, you won't be able to add Core UI reports, PA widgets and filters to Platform Analytics experience dashboards. It is possible to add only migrated content and content created within Platform Analytics experience to these dashboards.
 
 You cannot use update sets to move the migrated material from a non-production instance to a production instance. Test the migration on the non-production instance and then use Migration Center functionality to migrate the production instance.
 
@@ -35,7 +35,7 @@ Both Core UI and Platform Analytics experience content is available in the libra
 
 ## What isn't migrated
 
-The short answer is that almost everything is migrated. Most Core UI dashboard content is supported in Platform Analytics experience. Some content doesn’t have an analogous Platform Analytics feature. Any dashboard with content that isn't migrated and is migrated into a container, also called an iframe. This is called Compatibility mode. For detailed information about content that isn't migrated, see [[data-mig-unmigrated-content|Content not migrated or migrated in compatibility mode]].
+The short answer is that almost everything is migrated. Most Core UI dashboard content is supported in Platform Analytics experience. Some content doesn’t have an analogous Platform Analytics feature. Any dashboard with content that isn't migrated and is migrated into a container, also called an iframe. This is called Compatibility mode. For detailed information about content that isn't migrated, see [Content not migrated or migrated in compatibility mode](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/data-mig-unmigrated-content.md).
 
 ## What is the migration process
 
@@ -76,11 +76,3 @@ If you want to start the migration and view what artifacts are in compatibility 
 
 For more information, see .
 
-## Related
-
-- [[data-mig-unmigrated-content|Content not migrated or migrated in compatibility mode]]
-- [[c_HomepagePublishers|Interactive Filters]]
-- [[c_Widgets|Performance Analytics widgets]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[par-workspace|Platform Analytics experience]]
-- [[widgets|Widgets]]

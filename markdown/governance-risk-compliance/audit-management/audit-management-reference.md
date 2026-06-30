@@ -14,7 +14,7 @@ breadcrumb: [Audit Management, Governance, Risk, and Compliance]
 
 # Audit Management reference
 
-The following sections show the roles and access limitations to the tables used in [[c_GRCAudits|Audit Management]].
+The following sections show the roles and access limitations to the tables used in Audit Management.
 
 -   **[Components installed with Audit Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/r_InstallWAudit.md)**  
 Activating the GRC: Audit Management \(com.sn\_audit\) plugin adds or modifies several tables, user roles, and other components.
@@ -27,6 +27,3 @@ Domain separation is supported for Audit Management. Domain separation enables y
 
 **Parent Topic:**[Audit Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/c_GRCAudits.md)
 
-## Related
-
-- [[c_GRCAudits|Audit Management]]

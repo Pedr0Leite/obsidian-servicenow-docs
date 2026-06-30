@@ -12,7 +12,7 @@ breadcrumb: [Search for information, Use Customer Service Portal, Customer commu
 
 # Search the customer service community
 
-Use the customer service portal to [[search|search the community]] site or view a list of recent discussion topics.
+Use the customer service portal to search the community site or view a list of recent discussion topics.
 
 ## Before you begin
 
@@ -38,6 +38,4 @@ Role required: sn\_customerservice.customer, sn\_customerservice.customer\_admin
 
     The question appears on the search results page under the **Questions** category.
 
-## Related
 
-- [[search|Search the community]]

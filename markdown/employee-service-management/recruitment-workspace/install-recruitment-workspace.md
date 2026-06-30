@@ -14,7 +14,7 @@ breadcrumb: [Configure, Recruitment Workspace, Hiring Experiences, HR Service De
 
 # Install Recruitment workspace
 
-You can install the [[recruitment-workspace-concept|Recruitment workspace]] application \(sn\_ta\_recruiter\) if you have the admin role.The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Recruitment workspace application \(sn\_ta\_recruiter\) if you have the admin role.The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -54,6 +54,3 @@ For more information, see [Components installed with Recruitment workspace](http
 
 **Parent Topic:**[Configuring Recruitment Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/config-recruitment.md)
 
-## Related
-
-- [[recruitment-workspace-concept|Recruitment workspace]]

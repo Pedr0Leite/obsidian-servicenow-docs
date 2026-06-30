@@ -14,7 +14,7 @@ breadcrumb: [Components installed with the Proactive Triggers feature, Proactive
 
 # Proactive Triggers roles
 
-[[proactive-triggers-landing-page|Proactive Triggers]] adds the Proactive Triggers admin role.
+Proactive Triggers adds the Proactive Triggers admin role.
 
 To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/managing-user-subscriptions-v2.md) and contact your account representative.
 
@@ -101,6 +101,3 @@ None.
 
 **Important:** Avoid granting an admin role when more specialized roles are available.
 
-## Related
-
-- [[proactive-triggers-landing-page|Proactive Triggers]]

@@ -14,7 +14,7 @@ breadcrumb: [Guided Setup, Adoption services, Configure user experiences]
 
 # Domain separation and Guided Setup
 
-Domain separation is supported for [[guided-setup|Guided Setup]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported for Guided Setup. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic
 
@@ -45,6 +45,3 @@ There are some key points to note with domain separation support.
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[guided-setup|Guided Setup]]

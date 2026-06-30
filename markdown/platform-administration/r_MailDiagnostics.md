@@ -12,14 +12,14 @@ breadcrumb: [Email FAQs and troubleshooting, Email and SMS notifications, System
 
 # Email diagnostics
 
-The Diagnostics and Connection page provides information on the current state of your email configuration. This page includes status on [[c_EmailProperties|email properties]], [[c_ScheduledJobs|scheduled jobs]], and email account connections that affect how your instance receives and sends email.
+The Diagnostics and Connection page provides information on the current state of your email configuration. This page includes status on email properties, scheduled jobs, and email account connections that affect how your instance receives and sends email.
 
-Email diagnostic information can help you identify problems with inbound or [[ia-outbound-email-il|outbound email]]. The following video shows different steps to determine why your instance is not receiving inbound emails. One of the steps uses email diagnostics to check the email connection status and email reader scheduled job.
+Email diagnostic information can help you identify problems with inbound or outbound email. The following video shows different steps to determine why your instance is not receiving inbound emails. One of the steps uses email diagnostics to check the email connection status and email reader scheduled job.
 
 Navigate to the Diagnostics and Connection page from either of these modules:
 
--   **[[c_SystemMailboxes|System Mailboxes]]** &gt; **Email Diagnostics**
--   **[[sys-diag|System Diagnostics]]** &gt; **Email Diagnostics**
+-   **System Mailboxes** &gt; **Email Diagnostics**
+-   **System Diagnostics** &gt; **Email Diagnostics**
 
 \[Omitted image "email-diagnostics-page.png"\] Alt text: Diagnostics and Connection page that shows email sending and receiving as operational
 
@@ -91,7 +91,7 @@ Default SMTP Status
 
 </td><td>
 
-Indication of whether the SMTP connection was successful, shown only if the [[c_EmailAccounts|email accounts]] feature is active. Click **Default SMTP** to change your SMTP account settings.
+Indication of whether the SMTP connection was successful, shown only if the email accounts feature is active. Click **Default SMTP** to change your SMTP account settings.
 
 </td></tr><tr><td>
 
@@ -99,7 +99,7 @@ SMS Sender State
 
 </td><td>
 
-Current state of the **SMS Sender** job, which sends SMS [[notifications|notifications]] on a recurring schedule. By default, this job runs every minute.To update the SMS Sender job, click the **SMS Sender Job** related link, and in the Schedule table, open the SMS sender record to be changed.
+Current state of the **SMS Sender** job, which sends SMS notifications on a recurring schedule. By default, this job runs every minute.To update the SMS Sender job, click the **SMS Sender Job** related link, and in the Schedule table, open the SMS sender record to be changed.
 
 </td></tr><tr><td>
 
@@ -127,7 +127,7 @@ Email Receiving
 
 </td><td>
 
-Status of [[ia-inbound-email-il|inbound email]] as either **Enabled** or **Disabled**. To change the status for email receiving, click the **Modify Email Sending/Receiving** related link, and in the Email Properties form, update the **Email receiving enabled** property.
+Status of inbound email as either **Enabled** or **Disabled**. To change the status for email receiving, click the **Modify Email Sending/Receiving** related link, and in the Email Properties form, update the **Email receiving enabled** property.
 
 </td></tr><tr><td>
 
@@ -174,21 +174,10 @@ Date and time when the reader job last ran.
 The result of the test connection to the accounts. The connection is tested every time you load the page.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[troubleshooting-notification-emails|Email FAQs and troubleshooting notification emails]]
+</table>**Parent Topic:**[Email FAQs and troubleshooting notification emails](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/troubleshooting-notification-emails.md)
 
 **Related topics**  
 
 
 [Scheduled jobs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_ScheduledJobs.md)
 
-## Related
-
-- [[troubleshooting-notification-emails|Email FAQs and troubleshooting notification emails]]
-- [[c_EmailProperties|Email properties]]
-- [[c_ScheduledJobs|Scheduled jobs]]
-- [[ia-outbound-email-il|Outbound email]]
-- [[c_SystemMailboxes|System mailboxes]]
-- [[sys-diag|System Diagnostics]]
-- [[c_EmailAccounts|Email accounts]]
-- [[notifications|Notifications]]
-- [[ia-inbound-email-il|Inbound email]]

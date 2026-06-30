@@ -12,7 +12,7 @@ breadcrumb: [Order operations apps, Configure, Sales Customer Relationship Manag
 
 # Activate the Return Merchandise Authorization plugin
 
-If you have the admin role, you can activate the RMA Case Management plugin \(com.sn\_csm\_rma\_case\). The plugin enables you to manage and triage return cases for customer products and services, addressing returns, replacements, and repair [[use-cases|use cases]].
+If you have the admin role, you can activate the RMA Case Management plugin \(com.sn\_csm\_rma\_case\). The plugin enables you to manage and triage return cases for customer products and services, addressing returns, replacements, and repair use cases.
 
 ## Before you begin
 
@@ -35,7 +35,7 @@ The following items are installed with RMA Case Management:
 -   Tables
 -   Roles
 
-For more information, see [[return-merchandise-authorization-case-management-reference|Return Merchandise Authorization Case Management]].
+For more information, see [Return Merchandise Authorization Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/return-merchandise-authorization-case-management-reference.md).
 
 ## Procedure
 
@@ -55,13 +55,7 @@ For more information, see [[return-merchandise-authorization-case-management-ref
 **Related topics**  
 
 
-[[return-merchandise-authorization|Return Merchandise Authorization]]
+[Return Merchandise Authorization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/return-merchandise-authorization.md)
 
-[[using-order-operations|Using order operations applications]]
+[Using order operations applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-order-operations.md)
 
-## Related
-
-- [[return-merchandise-authorization-case-management-reference|Return Merchandise Authorization Case Management]]
-- [[return-merchandise-authorization|Return Merchandise Authorization]]
-- [[using-order-operations|Using order operations applications]]
-- [[use-cases|Use cases]]

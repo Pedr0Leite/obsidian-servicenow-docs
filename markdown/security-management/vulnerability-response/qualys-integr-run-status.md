@@ -18,7 +18,7 @@ The Qualys Integration Run Status module is a graphical view of the status of Qu
 
 To view the status of integration runs, navigate to **Qualys Vulnerability Integration** &gt; **Integration Run Status**.
 
-Starting with version 19.0 of [[vuln-landing-page|Vulnerability Response]], this dashboard is available in the New Experience UI.
+Starting with version 19.0 of Vulnerability Response, this dashboard is available in the New Experience UI.
 
 **Note:** If you are on Tokyo, you can view the dashboards in the Next Experience UI but with some functional loss.
 
@@ -110,6 +110,3 @@ Daily vulnerable item ingestion throughput measured for the Qualys Host Detectio
 -   Qualys Vulnerable Item Ingestion Performance Metrics: Compare daily performance metrics for assignment rules, group rules, risk rules, queue wait time, queue processing time, and other statistics for vulnerable items for the last 30 days, to identify the cause for any deviations in performance. The performance is calculated based on the time taken for each activity. These parameters are calculated and associated at the integration run level. Each parameter is color coded for easy identification.
 -   Qualys Vulnerable Item Ingestion Performance Throughput: Compare daily vulnerable item ingestion throughput for the Qualys Host Detection integration. Throughput is measured in items per hour. This report shows the overall performance on a particular day and not at the individual parameter level. \[Omitted image "Qualys\_integration\_run\_status\_v10.3.png"\] Alt text: Qualys integration run status
 
-## Related
-
-- [[vuln-landing-page|Vulnerability Response]]

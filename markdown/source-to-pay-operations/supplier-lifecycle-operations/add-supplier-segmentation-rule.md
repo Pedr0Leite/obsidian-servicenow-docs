@@ -14,7 +14,7 @@ breadcrumb: [Create segmentation rule, Configure Supplier Relationship and Perfo
 
 # Add suppliers to a segmentation rule
 
-You can add a new [[supplier|supplier]] to a segmentation rule if the existing suppliers don’t meet your needs.
+You can add a new supplier to a segmentation rule if the existing suppliers don’t meet your needs.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ The **Supplier** related tab displays the list of suppliers that fall under this
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
 2.  Select the list icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon.\) and navigate to **Lists** &gt; **Performance management** &gt; **Segmentation rules**.
 
@@ -61,8 +61,3 @@ Select **Execute** to run the segmentation rule. For more information, see [Run 
 
 [Add KPI templates to a segmentation rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/add-kpi-template-segmentation-rule.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

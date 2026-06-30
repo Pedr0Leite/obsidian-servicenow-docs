@@ -12,7 +12,7 @@ breadcrumb: [Platform Analytics, Financial Services Operations \(FSO\)]
 
 # Payment Operations dashboard
 
-With the [[payment-ops-landing-page|Financial Services Payment Operations]] dashboard, you can get an insight into how your team and business are performing for payment inquiries, claims, and debits.
+With the Financial Services Payment Operations dashboard, you can get an insight into how your team and business are performing for payment inquiries, claims, and debits.
 
 **Important:** The Financial Services Payment Operations dashboard has been modernized to give you a better user experience.
 
@@ -25,7 +25,7 @@ You can monitor the status of these cases, see trends, and drill down into the d
 
 ## Access the Financial Services Payment Operations dashboard
 
-To access the Financial Services Payment Operations dashboard, navigate to **Workspaces** &gt; **[[fso-overview|Financial Services]] Workspace** &gt; **Analytics Center** \(\[Omitted image "analytics-center-icon.png"\] Alt text: Analytics center icon.\).
+To access the Financial Services Payment Operations dashboard, navigate to **Workspaces** &gt; **Financial Services Workspace** &gt; **Analytics Center** \(\[Omitted image "analytics-center-icon.png"\] Alt text: Analytics center icon.\).
 
 Alternatively, you can navigate to **All** &gt; **Payment Operations** &gt; **Analytics**.
 
@@ -210,10 +210,5 @@ The following table shows the available filters in the Payment Operations dashbo
 |Payment Service|List|Fetches the records for all payment tasks.|
 |Payment Type|Script|Fetches the payment case records from the Task SLA table.|
 
-**Parent Topic:**[[fso-content-pack|Implementing Platform Analytics solutions]]
+**Parent Topic:**[Implementing Platform Analytics solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-content-pack.md)
 
-## Related
-
-- [[fso-content-pack|Implementing Platform Analytics solutions]]
-- [[payment-ops-landing-page|Financial Services Payment Operations]]
-- [[fso-overview|Financial Services]]

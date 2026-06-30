@@ -34,7 +34,7 @@ Name of the healthcare professional.
 
 </td></tr><tr><td>
 
-[[emp-slate-employee-profile|Employee profile]]
+Employee profile
 
 </td><td>
 
@@ -42,7 +42,7 @@ Employee profile that is associated to the healthcare professional.
 
 </td></tr><tr><td>
 
-[[c_HRProfileRecords|HR profile]]
+HR profile
 
 </td><td>
 
@@ -182,13 +182,13 @@ Fax number of the healthcare professional.
 **Related topics**  
 
 
-[Installed with [[hr-service-delivery|HR Service Delivery]] for Healthcare]()
+[Installed with HR Service Delivery for Healthcare]()
 
 [Professional ID form]()
 
 [Professional liability Insurances form]()
 
-[Professional [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] form]()
+[Professional reference form]()
 
 [Professional speciality form]()
 
@@ -208,9 +208,3 @@ Fax number of the healthcare professional.
 
 [Healthcare Employee Onboarding form]()
 
-## Related
-
-- [[emp-slate-employee-profile|Employee profile]]
-- [[c_HRProfileRecords|HR Profile]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

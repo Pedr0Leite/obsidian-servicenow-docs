@@ -14,7 +14,7 @@ breadcrumb: [Set up a Jira instance, Configure, SPW Jira Integrations, Strategic
 
 # Create connection and credentials for SPW Jira Integrations
 
-Using your Jira instance details, create a connection and credential for the child alias, which is used to enable the two-way sync of work item updates between [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace and Jira.
+Using your Jira instance details, create a connection and credential for the child alias, which is used to enable the two-way sync of work item updates between Strategic Planning Workspace and Jira.
 
 ## Before you begin
 
@@ -50,6 +50,3 @@ This task is performed for Jira Server/Data Center type instances only. For Jira
 
 **Parent Topic:**[Setting up a Jira instance for SPW Jira Integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/setting-up-jira-instance-spw.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

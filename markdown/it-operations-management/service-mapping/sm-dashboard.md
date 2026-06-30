@@ -14,7 +14,7 @@ breadcrumb: [Service Mapping reference, Service Mapping, ITOM Visibility, IT Ope
 
 # Service Mapping Workspace
 
-The Service Mapping workspace provides a central location to streamline the process of mapping your application services. Use the visualizations and reports to analyze, monitor, and update your resources, create application services, and manage your [[c_ServiceMappingOverview|service mapping]] tasks efficiently.
+The Service Mapping workspace provides a central location to streamline the process of mapping your application services. Use the visualizations and reports to analyze, monitor, and update your resources, create application services, and manage your service mapping tasks efficiently.
 
 ## Access
 
@@ -30,7 +30,7 @@ Navigate to **Workspaces** &gt; **Service Mapping**.
 
     Drill down for detailed information on service maps across various categories.
 
--   **[[auto-serv-suggest|Automated Service Suggestions]]**
+-   **Automated Service Suggestions**
 
     Leverage Automated Service Suggestions to evaluate suggested application service candidates, using them to create application services or enhance existing ones.
 
@@ -60,7 +60,7 @@ Access to tag-based service mapping in the Service Mapping workspace requires th
 
     The number of application service candidates identified using the Automated Service Suggestions feature.
 
-    **Note:** Starting with Service Mapping Plus version 1.16.3, the filtering process has been updated to include only the most relevant candidates, excluding any ignored or irrelevant ones. This enhancement requires the installation of [[discovery-content-services|ITOM Content Service]].
+    **Note:** Starting with Service Mapping Plus version 1.16.3, the filtering process has been updated to include only the most relevant candidates, excluding any ignored or irrelevant ones. This enhancement requires the installation of ITOM Content Service.
 
 -   **Mapped servers**
 
@@ -233,8 +233,3 @@ For more information about application readiness, see [Application service readi
 
 [Map your application services using tags in the Service Mapping Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/map-tag-based-services-workspace.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[auto-serv-suggest|Automated Service Suggestions]]
-- [[discovery-content-services|ITOM Content Service]]

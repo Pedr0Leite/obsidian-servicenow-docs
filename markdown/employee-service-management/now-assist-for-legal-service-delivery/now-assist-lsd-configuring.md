@@ -15,7 +15,7 @@ breadcrumb: [Now Assist for Legal Service Delivery \(LSD\), Legal Service Delive
 
 # Configure Now Assist for Legal Service Delivery \(LSD\)
 
-If you have the admin role, you can configure the [[now-assist-lsd-landing|Now Assist for Legal Service Delivery \(LSD\)]] application so that legal users or request fulfillers can use the generative AI skills from [[legal-counsel-center-landing|Legal Counsel Center]], Core UI, and [[employee-center-landing-page|Employee Center]].
+If you have the admin role, you can configure the Now Assist for Legal Service Delivery \(LSD\) application so that legal users or request fulfillers can use the generative AI skills from Legal Counsel Center, Core UI, and Employee Center.
 
 ## Before you begin
 
@@ -66,7 +66,7 @@ Legal Request and Matter
 </td></tr></tbody>
 </table>## Procedure
 
-1.  Install the [[legal-management-overview|Legal Service Delivery]] - Prime plugin \(sn\_lg\_ai\_prime\).
+1.  Install the Legal Service Delivery - Prime plugin \(sn\_lg\_ai\_prime\).
 
     -   For information about the plugin dependencies and plugin activation order, see [Application information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/now-assist-lsd-support-info.md).
     -   For information about the installation process, see [Install Now Assist plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md).
@@ -106,9 +106,3 @@ Legal Request and Matter
 
 You can deactivate the skill by selecting **Deactivate** from the options icon \(\[Omitted image "cmpro-na-three-dot-icon.png"\] Alt text: Options icon.\) of the active skill.
 
-## Related
-
-- [[now-assist-lsd-landing|Now Assist for Legal Service Delivery \(LSD\)]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[employee-center-landing-page|Employee Center]]
-- [[legal-management-overview|Legal Service Delivery]]

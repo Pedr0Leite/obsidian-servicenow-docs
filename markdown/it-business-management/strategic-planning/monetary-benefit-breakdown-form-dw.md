@@ -14,7 +14,7 @@ breadcrumb: [Forms, Reference, Next Experience for Demand Management in Strategi
 
 # Monetary benefit breakdown form
 
-The [[monetary-benefit-breakdown-form|monetary benefit breakdown form]] information is used to create and edit a monetary benefit breakdown record for the demand.
+The monetary benefit breakdown form information is used to create and edit a monetary benefit breakdown record for the demand.
 
 <table id="table_scp_12n_mxb"><thead><tr><th>
 
@@ -106,7 +106,3 @@ First date of the fiscal period corresponding to the benefit plan breakdown.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[monetary-benefit-breakdown-form|Monetary Benefit Breakdown form]]

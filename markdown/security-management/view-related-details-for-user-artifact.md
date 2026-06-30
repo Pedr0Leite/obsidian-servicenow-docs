@@ -16,7 +16,7 @@ If your case includes affected user artifacts, you can view any related details 
 
 ## Before you begin
 
--   The [[threat-intel-landing-page|Threat Intelligence]] plugin must be activated to use [[case-mgmt|Security Case Management]].
+-   The Threat Intelligence plugin must be activated to use Security Case Management.
 
 Role required: sn\_ti.case\_user\_write
 
@@ -35,7 +35,7 @@ Role required: sn\_ti.case\_user\_write
 5.  You can also click **Security Annotation** tab to view annotations for the selected artifact.
 
 
-**Parent Topic:**[[related-details-for-case-artifacts|Related details for case artifacts]]
+**Parent Topic:**[Related details for case artifacts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/related-details-for-case-artifacts.md)
 
 **Related topics**  
 
@@ -48,8 +48,3 @@ Role required: sn\_ti.case\_user\_write
 
 [View related details for an observable artifact]()
 
-## Related
-
-- [[related-details-for-case-artifacts|Related details for case artifacts]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[case-mgmt|Security Case Management]]

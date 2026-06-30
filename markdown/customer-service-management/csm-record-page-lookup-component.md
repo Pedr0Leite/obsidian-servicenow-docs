@@ -12,15 +12,15 @@ breadcrumb: [Components, Record pages and page templates, CSM Configurable Works
 
 # Lookup component
 
-Use the lookup component on interaction record pages in [[csm-workspaces-configure|CSM Configurable Workspace]] to look up, link, and verify a contact or consumer on an interaction record.
+Use the lookup component on interaction record pages in CSM Configurable Workspace to look up, link, and verify a contact or consumer on an interaction record.
 
-\[Omitted image "lookup-and-verify-component.png"\] Alt text: [[lookup-and-verify-overview|Lookup and verify]] contact card includes the contact name plus selectable fields for account name, email address, and phone numbers
+\[Omitted image "lookup-and-verify-component.png"\] Alt text: Lookup and verify contact card includes the contact name plus selectable fields for account name, email address, and phone numbers
 
 The lookup component is available on the following interaction record pages:
 
--   [[csm-centered-chat-interaction-page|CSM centered chat interaction record page]]
--   [[csm-native-voice-record-page|CSM voice interaction record page]]
--   [[csm-email-interaction-record-page|Email interaction record page]]
+-   [CSM centered chat interaction record page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-centered-chat-interaction-page.md)
+-   [CSM voice interaction record page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-native-voice-record-page.md)
+-   Email interaction record page
 
 **Note:** For some of these interaction record pages, the Lookup component replaces the Lookup &amp; Verify component that was formerly available in the contextual side panel.
 
@@ -129,10 +129,3 @@ The consumer lookup card includes the following information:
 -   City
 -   State/Province
 
-## Related
-
-- [[csm-centered-chat-interaction-page|CSM centered chat interaction record page]]
-- [[csm-native-voice-record-page|CSM voice interaction record page]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[lookup-and-verify-overview|Lookup and verify]]
-- [[csm-email-interaction-record-page|Email Interaction record page]]

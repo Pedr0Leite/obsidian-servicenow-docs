@@ -14,7 +14,7 @@ breadcrumb: [Installing apps, plugins, and products, Application Manager, Admini
 
 # Install all applications in a product
 
-Install all applications and plugins included in a product using [[application-manager|Application Manager]].
+Install all applications and plugins included in a product using Application Manager.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ Role required: admin, sn\_appclient.app\_client\_user, or sn\_appclient.app\_cli
 1.  Navigate to the **Available for you** tab of the Application Manager in one of the following ways.
 
     -   Navigate to **Admin** &gt; **Application Manager** &gt; **Available for you**
-    -   Navigate to **All** &gt; **[[admin-center-intro|Admin Center]]** &gt; **Application Manager** &gt; **Available for you**.
+    -   Navigate to **All** &gt; **Admin Center** &gt; **Application Manager** &gt; **Available for you**.
 2.  Find and select the product you want to install.
 
     You can search for a product by name, or use the sort and filter options available in the Application Manager.
@@ -43,9 +43,9 @@ Role required: admin, sn\_appclient.app\_client\_user, or sn\_appclient.app\_cli
 
         From the technical details section, you can review the dependencies of the individual application. You can see which dependencies are installed, not installed, and not licensed.
 
-    2.  Procure any dependencies that aren't licensed from the [[servicenow-store|ServiceNow Store]].
+    2.  Procure any dependencies that aren't licensed from the ServiceNow Store.
 
-        For more information, see [[getting-apps-trials|Getting apps and trials from the ServiceNow Store]].
+        For more information, see [Getting apps and trials from the ServiceNow Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/getting-apps-trials.md).
 
     3.  Go back to the product details page and repeat for each application dependency.
 
@@ -57,7 +57,7 @@ Role required: admin, sn\_appclient.app\_client\_user, or sn\_appclient.app\_cli
 
 7.  Select **Proceed**.
 
-8.  Install the product now or [[schedule-installation|schedule installation]] for a later time.
+8.  Install the product now or schedule installation for a later time.
 
 <table id="choicetable_dm4_3km_yfc"><thead><tr><th align="left" id="d295841e229">
 
@@ -96,10 +96,3 @@ If you choose to install the product now, it and its dependencies begin to insta
 
 **Parent Topic:**[Installing applications, plugins, and products](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/installing-apps-app-manager.md)
 
-## Related
-
-- [[getting-apps-trials|Getting apps and trials from the ServiceNow Store]]
-- [[application-manager|Application Manager]]
-- [[admin-center-intro|Admin Center]]
-- [[servicenow-store|ServiceNow Store]]
-- [[schedule-installation|Schedule installation]]

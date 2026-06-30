@@ -27,7 +27,7 @@ Supporting information can be collected for indicators through automatic data co
     Indicator templates allow the creation of multiple indicators for similar controls or risks.
 
 
-**Note:** The [[entity-based-access|Entity Based Access]] provides a framework for more granular approach to management of data access to objects associated with an entity. Administrators can grant access to an entity's related records by adding users or user groups, or by using entity user fields for entity-based access configuration. For more information, see [Entity Based Access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/entity-based-access.md). When a user is qualified based on these configurations and has the minimum required roles, they will have access to the following tables:
+**Note:** The Entity Based Access provides a framework for more granular approach to management of data access to objects associated with an entity. Administrators can grant access to an entity's related records by adding users or user groups, or by using entity user fields for entity-based access configuration. For more information, see [Entity Based Access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/entity-based-access.md). When a user is qualified based on these configurations and has the minimum required roles, they will have access to the following tables:
 
 -   Indicator
 -   Indicator task
@@ -51,7 +51,7 @@ Authority documents define policies, risks, controls, audits, and other processe
 
 Each authority document is defined in a record and the related lists on that record contain the individual conditions of the authority document.
 
-The relationships of these authority document related list items are visible in the [[grc-workbench|GRC Workbench]] in the [[r_PolicyComplianceMgmt|Policy and Compliance Management]] application.
+The relationships of these authority document related list items are visible in the GRC Workbench in the Policy and Compliance Management application.
 
 **Note:** You can [add content reference tags to authority documents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/content-references.md). Content reference tags allow you to filter records in order to more easily identify the content packs, integrations, and use case accelerators associated with the authority documents.
 
@@ -63,8 +63,3 @@ You can create citations or import them from UCF authority documents and then cr
 
 **Note:** You can [add content reference tags to citations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/content-references.md). Content reference tags allow you to filter records in order to more easily identify the content packs, integrations, and use case accelerators associated with the citations.
 
-## Related
-
-- [[entity-based-access|Entity Based Access]]
-- [[grc-workbench|grc workbench]]
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

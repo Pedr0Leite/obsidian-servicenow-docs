@@ -20,23 +20,23 @@ Set up the features, components, and integrations that you must provide service 
 
 </td><td>
 
-[Organize agent workspaces \[Omitted image "bus-customer-service-agent.svg"\] Alt text: Configure intuitive workspaces with advanced routing and management features and [[case-management|case management]] capabilities.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/organize-agent-workspaces.md)
+[Organize agent workspaces \[Omitted image "bus-customer-service-agent.svg"\] Alt text: Configure intuitive workspaces with advanced routing and management features and case management capabilities.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/organize-agent-workspaces.md)
 
 </td><td>
 
-[Enable communication channels \[Omitted image "bus-customer-service.svg"\] Alt text: Set up [[customer-communication|customer communication]] channels, including voice, email, web, and messaging.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/enable-comm-channels.md)
+[Enable communication channels \[Omitted image "bus-customer-service.svg"\] Alt text: Set up customer communication channels, including voice, email, web, and messaging.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/enable-comm-channels.md)
 
 </td></tr><tr><td>
 
-[Implement [[intelligence-csm|intelligence]] \[Omitted image "bus-actionable-analytics.svg"\] Alt text: Set up Intelligence features to automate routine tasks and provide recommended content to agents.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/imp-intel.md)
+[Implement intelligence \[Omitted image "bus-actionable-analytics.svg"\] Alt text: Set up Intelligence features to automate routine tasks and provide recommended content to agents.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/imp-intel.md)
 
 </td><td>
 
-[Set up self-service \[Omitted image "bus-personalized-self-service-portal.svg"\] Alt text: Create self-service portals for customers that are integrated with knowledge, [[servicenow-communities|communities]], service catalogs, and chatbots.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-[[omnichannel|omnichannel]]-engagement/set-up-self-service.md)
+[Set up self-service \[Omitted image "bus-personalized-self-service-portal.svg"\] Alt text: Create self-service portals for customers that are integrated with knowledge, communities, service catalogs, and chatbots.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/set-up-self-service.md)
 
 </td><td>
 
-[Extend capabilities \[Omitted image "bus-extend-visability.svg"\] Alt text: Add additional features to further extend the capabilities of your [[c_CustomerServiceManagement|Customer Service Management]] environment.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/advanced-cap.md)
+[Extend capabilities \[Omitted image "bus-extend-visability.svg"\] Alt text: Add additional features to further extend the capabilities of your Customer Service Management environment.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/advanced-cap.md)
 
 </td></tr></tbody>
 </table><table id="table_rjj_mn5_w2c"><thead><tr><th>
@@ -53,11 +53,11 @@ Example
 
 </th></tr></thead><tbody><tr><td>
 
-[[set-up-your-environment|Set up your environment]]
+[Set up your environment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/set-up-your-environment.md)
 
 </td><td>
 
-Begin your customer journey by setting up your Customer Service Management environment. This setup involves planning and configuring your system with essential components such as [[data-models|data models]], [[customer-data|customer data]], [[product-data|product data]], and [[user-management|user management]] tools. Additionally, import your foundation data, set up access controls, and [[configure-csm-case-management|configure case management]] tools to go live.
+Begin your customer journey by setting up your Customer Service Management environment. This setup involves planning and configuring your system with essential components such as data models, customer data, product data, and user management tools. Additionally, import your foundation data, set up access controls, and configure case management tools to go live.
 
 </td><td>
 
@@ -65,11 +65,11 @@ Sarah, an administrator at Company A, has successfully activated Customer Servic
 
 </td></tr><tr><td>
 
-[[organize-agent-workspaces|Organize agent workspaces]]
+[Organize agent workspaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/organize-agent-workspaces.md)
 
 </td><td>
 
-Configuring your agent workspaces is crucial for improving the efficiency and effectiveness of your customer service team. To get started, set up and optimize your agent workspaces by configuring interfaces, landing pages, and record pages. This process involves setting up case routing, implementing advanced case management features. It also includes integrating [[agent-tools|agent tools]] for smooth case handling and streamlined workflow management.
+Configuring your agent workspaces is crucial for improving the efficiency and effectiveness of your customer service team. To get started, set up and optimize your agent workspaces by configuring interfaces, landing pages, and record pages. This process involves setting up case routing, implementing advanced case management features. It also includes integrating agent tools for smooth case handling and streamlined workflow management.
 
 </td><td>
 
@@ -77,7 +77,7 @@ Sarah is prepared to organize the agent workspaces. Sarah uses guided setup to i
 
 </td></tr><tr><td>
 
-[[enable-comm-channels|Enable communication channels]]
+[Enable communication channels](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/enable-comm-channels.md)
 
 </td><td>
 
@@ -89,7 +89,7 @@ With the agent workspaces organized, Sarah is prepared to set up communication c
 
 </td></tr><tr><td>
 
-[[imp-intel|Implement Intelligence]]
+[Implement Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/imp-intel.md)
 
 </td><td>
 
@@ -97,7 +97,7 @@ Implementing intelligence features in Customer Service Management helps you achi
 
 </td><td>
 
-Sarah implements [[configure-nba|Recommended Actions]] to guide agents in assisting customers quickly and consistently. Agents can use AI search for fast access to relevant information to resolve customer issues.
+Sarah implements Recommended Actions to guide agents in assisting customers quickly and consistently. Agents can use AI search for fast access to relevant information to resolve customer issues.
 
 </td></tr><tr><td>
 
@@ -105,7 +105,7 @@ Sarah implements [[configure-nba|Recommended Actions]] to guide agents in assist
 
 </td><td>
 
-Creating and enabling a self-service portal equips you to resolve issues independently and access information. [[set-up-self-service|Set up self-service]] portals by integrating features such as knowledge bases, communities, service catalogs, chatbots, walk-up experiences, and appointment booking.
+Creating and enabling a self-service portal equips you to resolve issues independently and access information. Set up self-service portals by integrating features such as knowledge bases, communities, service catalogs, chatbots, walk-up experiences, and appointment booking.
 
 </td><td>
 
@@ -113,7 +113,7 @@ Now it’s time to add support for B2C consumers with Customer Service Portals. 
 
 </td></tr><tr><td>
 
-[[advanced-cap|Extend Capabilities]]
+[Extend Capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/advanced-cap.md)
 
 </td><td>
 
@@ -125,25 +125,3 @@ Sherry, a director at Company A, asks Sarah for tools to analyze agent performan
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[set-up-your-environment|Set up your environment]]
-- [[organize-agent-workspaces|Organize agent workspaces]]
-- [[enable-comm-channels|Enable communication channels]]
-- [[imp-intel|Implement Intelligence]]
-- [[advanced-cap|Extend capabilities]]
-- [[case-management|Case management]]
-- [[customer-communication|Customer communication]]
-- [[intelligence-csm|Intelligence]]
-- [[servicenow-communities|Communities]]
-- [[omnichannel|Omnichannel]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[data-models|Data models]]
-- [[customer-data|Customer data]]
-- [[product-data|Product data]]
-- [[user-management|User management]]
-- [[configure-csm-case-management|Configure case management]]
-- [[agent-tools|Agent tools]]
-- [[configure-nba|Recommended Actions]]
-- [[set-up-self-service|Set up self-service]]

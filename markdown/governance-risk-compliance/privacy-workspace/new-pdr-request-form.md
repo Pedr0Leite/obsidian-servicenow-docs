@@ -14,7 +14,7 @@ breadcrumb: [Create request from PDR Workspace, Use, Personal Data Rights \(PDR\
 
 # Personal data rights request form
 
-Use the Personal data rights request form in the [[personal-data-rights|Personal Data Rights]] application to initiate a process to access, correct, or delete personal data.
+Use the Personal data rights request form in the Personal Data Rights application to initiate a process to access, correct, or delete personal data.
 
 The following table lists the descriptions of the field values.
 
@@ -42,7 +42,7 @@ Source
 
 Source from which the request is initiated. The choices are as follows. -   **Email**
 -   **Phone**
--   **[[employee-center|Employee Center]]**
+-   **Employee Center**
 -   **Chat bot**
 -   **Public API**
 
@@ -274,7 +274,3 @@ Additional information about the case that you want to share with the customers.
 </td></tr></tbody>
 </table>**Parent Topic:**[Create a Personal Data Rights request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/create-a-personal-data-rights-request.md)
 
-## Related
-
-- [[personal-data-rights|personal data rights]]
-- [[employee-center|employee center]]

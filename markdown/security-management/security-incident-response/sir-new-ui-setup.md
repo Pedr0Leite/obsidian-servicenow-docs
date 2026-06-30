@@ -14,7 +14,7 @@ breadcrumb: [Configure the Security Analyst Workspace, Install and configure Sec
 
 # Additional Security Analyst Workspace configuration
 
-[[sir-new-ui-configure|Configure the Security Analyst Workspace]] and define filters, UI actions, and related lists.
+Configure the Security Analyst Workspace and define filters, UI actions, and related lists.
 
 -   [Landing page filter configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/sir-new-ui-setup-landpage.md)
 -   [Enable UI Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/sir-new-ui-setup-enable-uiaction.md)
@@ -24,6 +24,3 @@ breadcrumb: [Configure the Security Analyst Workspace, Install and configure Sec
 -   [Form configuration system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/sir-new-ui-setup-properties.md)
 -   [Enable playbooks for analyst selection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/sir-new-ui-add-playbook.md)
 
-## Related
-
-- [[sir-new-ui-configure|Configure the Security Analyst Workspace]]

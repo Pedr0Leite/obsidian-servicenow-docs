@@ -12,7 +12,7 @@ breadcrumb: [Manage, Operational Resilience, Governance, Risk, and Compliance]
 
 # Scenario analysis
 
-Conduct a scenario analysis to assess how a critical service performs under adverse conditions. Starting with [[grc-opres-landing-page|Operational Resilience]], version 22.3.1, you can use the advanced scenario analysis with simulation in the Operational Resilience Workspace, apply statistical modelling to quantify financial impact, and record a treatment decision.
+Conduct a scenario analysis to assess how a critical service performs under adverse conditions. Starting with Operational Resilience, version 22.3.1, you can use the advanced scenario analysis with simulation in the Operational Resilience Workspace, apply statistical modelling to quantify financial impact, and record a treatment decision.
 
 ## What is a scenario analysis
 
@@ -29,7 +29,7 @@ Releases before Operational Resilience, version 22.3.1 supported the legacy scen
 Starting with Operational Resilience, version 22.3.1, the advanced scenario analysis with the Playbook experience offers the following benefits:
 
 1.  Structured Playbook guidance: Replaces the fragmented, manually driven legacy process with a structured, data-driven Playbook that guides analysts from scope definition to treatment decision.
-2.  Monte Carlo statistical modelling: Quantifies financial risk exposure through simulated annual loss projections, providing more accurate and reliable [[risk-assessments|risk assessments]] than manual methods.
+2.  Monte Carlo statistical modelling: Quantifies financial risk exposure through simulated annual loss projections, providing more accurate and reliable risk assessments than manual methods.
 3.  Data-driven financial impact analysis: Uses an Annual Loss Model and historical risk-event reference data to produce a quantified financial impact and calculate the probability of breaching a service's loss tolerance.
 
 ## Statistical model profile
@@ -38,13 +38,13 @@ When you create a scenario analysis record, select **Statistical Modelling** —
 
 **Note:** The **Statistical Modelling** method of scenario analysis is only available with the IRM Advanced license.
 
-The base configuration includes an annual loss model driven by risk events, which references input and output templates managed through the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] \(SAE\).
+The base configuration includes an annual loss model driven by risk events, which references input and output templates managed through the Smart Assessment Engine \(SAE\).
 
-Before selecting a method, verify with your administrator that Smart [[airc-assessment-templates|Assessment templates]] have been created and published in the Assessment Workspace, using the purpose *Scenario Analysis \(advanced\)* or *Scenario Analysis - Manual*. For more information, see the following topics:
+Before selecting a method, verify with your administrator that Smart Assessment templates have been created and published in the Assessment Workspace, using the purpose *Scenario Analysis \(advanced\)* or *Scenario Analysis - Manual*. For more information, see the following topics:
 
--   [[set-up-sae-templates-for-sca|Verify the Smart Assessment templates setup]]
--   [[create-sca-record|Create a scenario analysis record using simulation]]
--   [[scenario-analysis-playbook-experience|Building a scenario analysis using simulation]]
+-   [Verify the Smart Assessment templates setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/set-up-sae-templates-for-sca.md)
+-   [Create a scenario analysis record using simulation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-sca-record.md)
+-   [Building a scenario analysis using simulation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/scenario-analysis-playbook-experience.md)
 
 ## States for the analysis
 
@@ -61,16 +61,5 @@ The following limitations apply to the advanced scenario analysis:
 
 ## Legacy scenario analysis
 
-The advanced scenario analysis is enabled by default. For an overview of the legacy experience, see [[legacy-scenario-analysis-ov|Legacy scenario analysis]]. To switch to the legacy flow, see [[activate-scenario-analysis-legacy-flow|Enable the legacy scenario analysis flow]].
+The advanced scenario analysis is enabled by default. For an overview of the legacy experience, see [Legacy scenario analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/legacy-scenario-analysis-ov.md). To switch to the legacy flow, see [Enable the legacy scenario analysis flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/activate-scenario-analysis-legacy-flow.md).
 
-## Related
-
-- [[set-up-sae-templates-for-sca|Verify the Smart Assessment templates setup]]
-- [[create-sca-record|Create a scenario analysis record using simulation]]
-- [[scenario-analysis-playbook-experience|Building a scenario analysis using simulation]]
-- [[legacy-scenario-analysis-ov|Legacy scenario analysis]]
-- [[activate-scenario-analysis-legacy-flow|Enable the legacy scenario analysis flow]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[risk-assessments|risk assessments]]
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]
-- [[airc-assessment-templates|Assessment templates]]

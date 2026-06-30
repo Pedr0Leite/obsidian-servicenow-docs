@@ -14,7 +14,7 @@ breadcrumb: [Universal Request for Health and Safety cases, Health and Safety Ca
 
 # Create Universal Request for Health and Safety cases as an employee
 
-You can submit a [[universal-request-hs-case-mgmt|Universal Request for Health and Safety cases]] from the [[employee-center-landing-page|Employee Center]] using the **Request Help** form.
+You can submit a Universal Request for Health and Safety cases from the Employee Center using the **Request Help** form.
 
 ## Before you begin
 
@@ -79,7 +79,7 @@ Add attachments
 Option to attach documents if any
 
 </td></tr></tbody>
-</table>4.  In the **Select department for your issue** field, select **[[health-safety-overview|Health and Safety]]**.
+</table>4.  In the **Select department for your issue** field, select **Health and Safety**.
 
 5.  Select **Submit**.
 
@@ -87,14 +87,6 @@ Option to attach documents if any
 ## Result
 
 -   The request is transferred to the Health and Safety department.
--   The [[ur-landing-limitedaccess|universal request]] number from which the health and safety case is created appears in the **Universal Request** field on the [[hs-case-form|health and safety case form]].
--   The health and safety case number appears in the **Primary Ticket** field on the [[new-ur-record-form|universal request form]]. It also appears under the **Associated Tickets** related item.
+-   The universal request number from which the health and safety case is created appears in the **Universal Request** field on the health and safety case form.
+-   The health and safety case number appears in the **Primary Ticket** field on the universal request form. It also appears under the **Associated Tickets** related item.
 
-## Related
-
-- [[universal-request-hs-case-mgmt|Universal Request for Health and Safety cases]]
-- [[employee-center-landing-page|Employee Center]]
-- [[health-safety-overview|Health and Safety]]
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[hs-case-form|Health and Safety case form]]
-- [[new-ur-record-form|Universal Request form]]

@@ -22,7 +22,7 @@ Role required: none
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-service** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Self-service** &gt; **Employee Center**.
 
     Alternatively, you can complete your document tasks by navigating to **Self-Service** &gt; **My Document Tasks**.
 
@@ -47,6 +47,3 @@ Role required: none
 
 **Parent Topic:**[Working on a document task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/work-doctemp-tasks.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

@@ -16,7 +16,7 @@ breadcrumb: [Moveworks for Employee Center, Unified Employee Experience, Employe
 
 Using the Moveworks AI assistant experience, your employees can access knowledge base, requests, and tasks leading to improved productivity and operational efficiencies.​
 
-As an employee, you can use the AI-powered chat assistant to self-serve your work needs. You can go to **All** &gt; **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]** to use the Moveworks AI assistant.
+As an employee, you can use the AI-powered chat assistant to self-serve your work needs. You can go to **All** &gt; **Self-Service** &gt; **Employee Center** to use the Moveworks AI assistant.
 
 \[Omitted image "mw-employee-center-exp.png"\] Alt text: Moveworks Embedded AI assistant experience illustration
 
@@ -41,6 +41,3 @@ You can chat with the Moveworks assistant in a chat window and expand to full-pa
 
 [Moveworks for Employee Center reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/mw-ec-integration-reference.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

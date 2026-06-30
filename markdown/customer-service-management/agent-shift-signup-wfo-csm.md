@@ -26,7 +26,7 @@ When a schedule plan is enabled for sign-up, you can receive notifications. You 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Workforce [[optimization|Optimization]] for CSM** &gt; **Manager Workspace**
+1.  Navigate to **All** &gt; **Workforce Optimization for CSM** &gt; **Manager Workspace**
 
 2.  Select the Schedule icon \(\[Omitted image "schedule-icon.png"\] Alt text: Schedule icon\).
 
@@ -211,9 +211,5 @@ Schedule plan is closed for agents to sign up.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[[scheduling-configurable-wfo-cs|Scheduling in Workforce Optimization for Customer Service]]
+**Parent Topic:**[Scheduling in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/scheduling-configurable-wfo-cs.md)
 
-## Related
-
-- [[scheduling-configurable-wfo-cs|Scheduling in Workforce Optimization for Customer Service]]
-- [[optimization|Optimization]]

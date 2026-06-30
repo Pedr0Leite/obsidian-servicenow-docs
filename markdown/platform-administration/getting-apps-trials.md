@@ -13,7 +13,7 @@ breadcrumb: [ServiceNow Store, Administering applications, Get started, Administ
 
 # Getting apps and trials from the ServiceNow Store
 
-Learn more about the different procurement flows for apps from the [[servicenow-store|ServiceNow Store]].
+Learn more about the different procurement flows for apps from the ServiceNow Store.
 
 ## Overview of getting apps and trials
 
@@ -23,44 +23,44 @@ Applications must be procured from the ServiceNow Store if any of the following 
 -   The application requires a paid license or subscription.
 -   The application requires the provider's approval to install.
 
-Application state indicators can help you determine whether an application must be procured from the ServiceNow Store before it can be installed. Any applicable application state indicators are shown as part of application details page in the [[application-manager|Application Manager]]. For more information about application state indicators, see [Application state indicators in Application Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/app-mgr-state-indicators.md).
+Application state indicators can help you determine whether an application must be procured from the ServiceNow Store before it can be installed. Any applicable application state indicators are shown as part of application details page in the Application Manager. For more information about application state indicators, see [Application state indicators in Application Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/app-mgr-state-indicators.md).
 
 Procure apps for any production or non-production instance in one of the following ways:
 
--   [[store-get-free-app|Get a free application]]
+-   [Get a free application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/store-get-free-app.md)
 
     Get an app that's available at no additional cost from the ServiceNow Store when the app has custom terms and conditions or requires provider approval.
 
--   [[buy-servicenow-app|Buy a ServiceNow application]]
+-   [Buy a ServiceNow application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/buy-servicenow-app.md)
 
     Log in to the ServiceNow Store and purchase an application that lists ServiceNow as the provider.
 
--   [[buy-partner-app|Buy a partner application]]
+-   [Buy a partner application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/buy-partner-app.md)
 
     Log in to the ServiceNow Store and purchase an application that lists a non-ServiceNow provider.
 
--   [[getting-products|Get a product]]
+-   [Get a product](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/getting-products.md)
 
     Procure products from the ServiceNow Store based on the terms of your license. A product is a collection of functionalities, typically including multiple applications, that aims to fulfill a category of business need.
 
 
 Many apps provide a 30-day trial at no additional cost. The trial enables you to install the app on your non-production instances to determine whether you want to continue with procurement for production instances.
 
-If a trial is available for an app, the listing has a **Request 30-day trial** option in the app listingand the app details page in the Application Manager shows the "Trial Available" state indicator.. For more information about starting an app trial, see [[start-trial|Start an application trial from the ServiceNow Store]].
+If a trial is available for an app, the listing has a **Request 30-day trial** option in the app listingand the app details page in the Application Manager shows the "Trial Available" state indicator.. For more information about starting an app trial, see [Start an application trial from the ServiceNow Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/start-trial.md).
 
 Once an app has been procured, it’s available to install from the Application Manager.
 
 ## Additional information
 
--   [[contact-seller|Contact a seller]]
+-   [Contact a seller](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contact-seller.md)
 
     Contact an app's provider through the ServiceNow Store to ask questions about the app and its procurement.
 
--   [[versions-dependencies|Evaluating version requirements and dependencies]]
+-   [Evaluating version requirements and dependencies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/versions-dependencies.md)
 
     Learn how version compatibility and technical dependencies can affect your ability to install and use apps.
 
--   [[sn-store-tncs|Terms and conditions in the ServiceNow Store]]
+-   [Terms and conditions in the ServiceNow Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/sn-store-tncs.md)
 
     Learn about when terms and conditions must be signed in the ServiceNow Store. Unsigned terms and conditions block procurement and installations.
 
@@ -68,15 +68,4 @@ Once an app has been procured, it’s available to install from the Application 
 
     Use the Application Manager to install, update, repair, or uninstall an app after it's been procured.
 
-## Related
 
-- [[store-get-free-app|Get a free application]]
-- [[buy-servicenow-app|Buy a ServiceNow application]]
-- [[buy-partner-app|Buy a partner application]]
-- [[getting-products|Getting products]]
-- [[start-trial|Start an application trial from the ServiceNow Store]]
-- [[contact-seller|Contact a seller]]
-- [[versions-dependencies|Evaluating version requirements and dependencies]]
-- [[sn-store-tncs|Terms and conditions in the ServiceNow Store]]
-- [[servicenow-store|ServiceNow Store]]
-- [[application-manager|Application Manager]]

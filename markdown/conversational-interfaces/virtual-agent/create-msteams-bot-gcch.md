@@ -15,7 +15,7 @@ breadcrumb: [Integrate VA with MS Teams for GCC-H, Specialized VA integrations f
 
 # Create a bot in Microsoft Teams for GCC-Hor DoD
 
-Create a self-configured bot with Microsoft Teams for GCC-H or DoD customersto be able to integrate with the [[virtual-agent-landing-page|Virtual Agent]].
+Create a self-configured bot with Microsoft Teams for GCC-H or DoD customersto be able to integrate with the Virtual Agent.
 
 ## Before you begin
 
@@ -92,6 +92,3 @@ Role required: none
 
 **Parent Topic:**[Integrating Virtual Agent with Microsoft Teams for GCC-H or DoD](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-integ-msteams-gcch.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

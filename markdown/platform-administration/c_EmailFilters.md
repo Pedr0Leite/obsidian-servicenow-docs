@@ -16,15 +16,15 @@ Specify which inbound emails to ignore or move to a particular mailbox.
 
 When an email is ignored, the email is saved to your instance but is not processed. You can access an ignored email by viewing its Email \[sys\_email\] record.
 
-The Email Filters \(com.glide.email\_filter\) plugin is active by default for releases after Kingston, for releases before Kingston, it needs to be activated, for more information see [[t_ActivateEmailFilters|Activate email filters]].
+The Email Filters \(com.glide.email\_filter\) plugin is active by default for releases after Kingston, for releases before Kingston, it needs to be activated, for more information see [Activate email filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateEmailFilters.md).
 
 ## Default email filters
 
-By default, the following filters are available from the **[[c_SystemMailboxes|System Mailboxes]]** &gt; **Administration** &gt; **Filters** module:
+By default, the following filters are available from the **System Mailboxes** &gt; **Administration** &gt; **Filters** module:
 
 |Filter|Description|
 |------|-----------|
-|Ignore VCAL|Ignores all email containing vCalendar requests. This filter prevents [[c_InboundEmailActions|inbound email actions]] from creating unnecessary incident records when the instance receives a response to sent email. vCalendar requests in email responses are identified by the EmailUtils script include.|
+|Ignore VCAL|Ignores all email containing vCalendar requests. This filter prevents [inbound email actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_InboundEmailActions.md) from creating unnecessary incident records when the instance receives a response to sent email. vCalendar requests in email responses are identified by the EmailUtils script include.|
 |Ignore header|Ignores email that contains specific headers. This filter overrides the **glide.pop3.ignore\_headers** property.|
 |Junk email - sender equals recipient|Filters out emails that are from the same user as the SMTP user to the Junk folder.|
 |Ignore subject|Ignores email with specific terms or phrases in the subject line. This filter overrides the **glide.pop3.ignore\_subjects** property. This filter might not apply to emails arriving from unknown users. Unknown users can be locked out.|
@@ -36,7 +36,7 @@ To learn more about enabling spam scoring and filtering, see [Email spam scoring
 
 ## Email filter script include
 
-Email filters use a script include called `EmailUtils` that contains a simple utility function to determine if `vCalendar` is in the body of the response email. The [[hs-results|results]] of this query are used in a condition script in the Ignore VCAL email filter.
+Email filters use a script include called `EmailUtils` that contains a simple utility function to determine if `vCalendar` is in the body of the response email. The results of this query are used in a condition script in the Ignore VCAL email filter.
 
 ## Spam scoring and virus scanning
 
@@ -46,21 +46,13 @@ The system also adds the `X-ServiceNow-Virus:INFECTED` header to an email that c
 
 Spam scoring and virus scanning are available only for instances that use the ServiceNow email infrastructure. For more information on spam scoring and filtering, see [KB0549426](https://support.servicenow.com/kb_view.do?sysparm_article=KB0549426).
 
--   **[[t_CreateAnEmailFilter|Create an email filter]]**  
+-   **[Create an email filter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAnEmailFilter.md)**  
 You can create email filters to apply a custom action script or filter actions when email matches your filter's conditions.
 
-**Parent Topic:**[[using-email-admin|Creating an email account]]
+**Parent Topic:**[Creating an email account](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/using-email-admin.md)
 
 **Related topics**  
 
 
 [Create an email filter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAnEmailFilter.md)
 
-## Related
-
-- [[t_ActivateEmailFilters|Activate email filters]]
-- [[c_InboundEmailActions|Inbound email actions]]
-- [[t_CreateAnEmailFilter|Create an email filter]]
-- [[using-email-admin|Creating an email account]]
-- [[c_SystemMailboxes|System mailboxes]]
-- [[hs-results|Results]]

@@ -13,7 +13,7 @@ breadcrumb: [Configure, Now Assist for Order Management, Sales Customer Relation
 
 # Email notifications for order cases
 
-The manage [[order-operations-landing|order operations]] AI agent sends automated emails to your B2B customers when an order case is opened from a Business Portal chat conversation and when the order case is closed with a successful resolution. The Manage Order Operations application includes two default email templates that you can customize.
+The manage order operations AI agent sends automated emails to your B2B customers when an order case is opened from a Business Portal chat conversation and when the order case is closed with a successful resolution. The Manage Order Operations application includes two default email templates that you can customize.
 
 The manage order operations AI agent uses default email templates to keep customers informed at key points in the order case life cycle when the customer initiates an order exception request from the chat assistant on the Business Portal.
 
@@ -28,14 +28,10 @@ To customize the subject, content, or formatting of these default email template
 
 The application scope must be set to Manage Order Operations. You can change the application scope using the application picker \[Omitted image "globe-outline-24.svg"\] Alt text: in the Unified Navigation bar.
 
-**Parent Topic:**[[now-assist-for-order-management-configuring|Configuring Now Assist for Order Management]]
+**Parent Topic:**[Configuring Now Assist for Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/now-assist-for-order-management-configuring.md)
 
 **Related topics**  
 
 
 [Email templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailTemplates.md)
 
-## Related
-
-- [[now-assist-for-order-management-configuring|Configuring Now Assist for Order Management]]
-- [[order-operations-landing|Order operations]]

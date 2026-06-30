@@ -18,7 +18,7 @@ Open the BCM mobile app and add a ServiceNow AI Platform® instance with BCM to 
 
 Role required: sn\_bcm.manager
 
-Verify that you have completed the setup steps described in [[configure-mobile-app-setup|Set up the BCM mobile application]].
+Verify that you have completed the setup steps described in [Set up the BCM mobile application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-mobile-app-setup.md).
 
 ## Procedure
 
@@ -101,6 +101,3 @@ If you can’t view the Instances screen after you tap the ServiceNow Agent app,
 
 View the plans list and generate the PDF of a plan.
 
-## Related
-
-- [[configure-mobile-app-setup|Set up the BCM mobile application]]

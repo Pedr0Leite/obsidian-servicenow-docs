@@ -14,7 +14,7 @@ breadcrumb: [Exploring Password Reset, Password Reset, Manage service capabiliti
 
 # Password Reset
 
-The [[password-reset-landing-page|Password Reset]] application enforces strong and secure passwords by enabling end users to reset or change their passwords either by using the [[self-service-landing|self-service]] process or by requesting the assistance of a service desk agent.
+The Password Reset application enforces strong and secure passwords by enabling end users to reset or change their passwords either by using the self-service process or by requesting the assistance of a service desk agent.
 
 ## Password Reset application features
 
@@ -66,7 +66,7 @@ In addition to configuring the connections, user groups, and verifications, you 
 
         \[Omitted image "forgot-password.png"\] Alt text: Forgot Password
 
-    2.  The Password Reset application starts. On the Identify page, the user enters their identifying information \(generally the user name or [[email|email]] address\). The example includes the default CAPTCHA security feature. The user provides identification by entering a user name and CAPTCHA, and clicks **Next**.
+    2.  The Password Reset application starts. On the Identify page, the user enters their identifying information \(generally the user name or email address\). The example includes the default CAPTCHA security feature. The user provides identification by entering a user name and CAPTCHA, and clicks **Next**.
 
         **Note:** Users can hear characters displayed in CAPTCHA by clicking the Speak the CAPTCHA icon \(\[Omitted image "speak-the-captcha-icon.png"\] Alt text: Speak the CAPTCHA icon\) displayed in the pop-up window for the Identify step.
 
@@ -92,8 +92,3 @@ Based on your role, do these steps:
 -   If you're an administrator, start [configuring Password Reset for your users.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/password-reset-admin-guide.md)
 -   If you're an end user who wants to reset a password, [start enrolling to reset your password](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/c_EnrollInPasswordReset.md).
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]
-- [[self-service-landing|Self-service]]
-- [[email|Email]]

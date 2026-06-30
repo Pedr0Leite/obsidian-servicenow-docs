@@ -18,7 +18,7 @@ Create a pattern entity from a word or phrase with repeatable patterns, such as 
 
 ## Before you begin
 
--   Make sure that the NLU Workbench plugin, NLU Workbench - Core plugin, NLU Common Model plugin, and [[predictive-intelligence-landing|Predictive Intelligence]] plugin are all installed and activated on your instance.
+-   Make sure that the NLU Workbench plugin, NLU Workbench - Core plugin, NLU Common Model plugin, and Predictive Intelligence plugin are all installed and activated on your instance.
 -   Create or use an existing NLU model for Virtual Agent or AI Search.
 -   Create or use an existing intent.
 -   Role required: nlu\_editor, nlu\_admin, or admin. The nlu\_editor must be assigned to the model.
@@ -55,7 +55,7 @@ In this example scenario, you've created an intent that's titled \#CheckITTicket
 
 7.  In the Create a new entity window, configure the fields.
 
-    For this example procedure, use these [[exploring-ai-governance|configurations]]:
+    For this example procedure, use these configurations:
 
     -   **Entity Name**: Enter `incidentnumber`
     -   **Type**: Select **Pattern**
@@ -67,7 +67,4 @@ In this example scenario, you've created an intent that's titled \#CheckITTicket
 
     The pattern entity saves and appears in the **Associated Entities** tab. The model can use the pattern entity to interpret variations of the annotated utterance. For example, the model can match the \#CheckITTicketStatus intent if a user enters any incident record number.
 
-## Related
 
-- [[predictive-intelligence-landing|Predictive Intelligence]]
-- [[exploring-ai-governance|Configurations]]

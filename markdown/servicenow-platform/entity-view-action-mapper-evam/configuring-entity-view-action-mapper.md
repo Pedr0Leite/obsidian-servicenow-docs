@@ -14,7 +14,7 @@ breadcrumb: [Entity view action mapper, Manage instance data sources, Extend Ser
 
 # Configuring entity view action mapper
 
-The [[entity-view-action-mapper|Entity View Action Mapper]] \(EVAM\) allows you to map specific actions to entity views, enabling customized behavior and streamlined work-flows. Learn how to define, configure, and apply mappings to enhance user interactions with data in the platform.
+The Entity View Action Mapper \(EVAM\) allows you to map specific actions to entity views, enabling customized behavior and streamlined work-flows. Learn how to define, configure, and apply mappings to enhance user interactions with data in the platform.
 
 ## Configuration overview
 
@@ -30,6 +30,4 @@ The [[entity-view-action-mapper|Entity View Action Mapper]] \(EVAM\) allows you 
 
     Use EVAM to take in different data sources, configure views, and show them in a card display view.
 
-## Related
 
-- [[entity-view-action-mapper|Entity view action mapper]]

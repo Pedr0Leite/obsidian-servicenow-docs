@@ -14,13 +14,13 @@ breadcrumb: [Workplace Reservation Management, Workplace Service Delivery, Emplo
 
 # Configure Workplace Reservation Management portal
 
-As a [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] admin, you can decide what can be made reservable in the organization. You can add different types of reservable items in the application for employees to reserve.
+As a Workplace Reservation Management admin, you can decide what can be made reservable in the organization. You can add different types of reservable items in the application for employees to reserve.
 
 You can configure what must be available in the application for reservation. You can configure the reservable modules displayed on the application.
 
-The Reservation portal enables you to [[reservation-portal|make a reservation]] and perform reservation-related actions. You can access the Reservation portal from the Workplace Reservation Management application and the [[workplace-services-portal-hr|Workplace Service Portal]]. For more information about the reservation portal, refer to [Make a reservation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/reservation-portal.md).
+The Reservation portal enables you to make a reservation and perform reservation-related actions. You can access the Reservation portal from the Workplace Reservation Management application and the Workplace Service Portal. For more information about the reservation portal, refer to [Make a reservation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/reservation-portal.md).
 
-As a [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] admin, you can perform any action on the Workplace Reservation Management application. You can add reservable workplace items and perform other actions.
+As a Workplace Service Delivery admin, you can perform any action on the Workplace Reservation Management application. You can add reservable workplace items and perform other actions.
 
 As a Workplace Reservation Management admin, the application enables you to perform the following actions:
 
@@ -29,12 +29,12 @@ As a Workplace Reservation Management admin, the application enables you to perf
 -   View all the reservations made.
 -   Modify existing reservable modules.
 -   Activate or de-activate reservable items and control its availability on the application.
--   Configure [[standard-service|standard services]].
+-   Configure standard services.
 -   Add reservable purpose on reservable items for employees to make easy selection.
 -   Configure check-in and check-out requirement on a reservable module.
 -   View the current state, synchronization state and the check-in state of a reservation.
 -   View the source, sub-source, last updated source and last updated sub-source of the reservation.
--   If you have the [[workplace-space-mgmt-ovw|Workplace Space Management]] application installed, you can specify if a cost center/department check is required to reserve the workplace item.
+-   If you have the Workplace Space Management application installed, you can specify if a cost center/department check is required to reserve the workplace item.
 -   Create archiving rules. Select from archive rules provided by ServiceNow®.
 -   Create and assign time slots to reservable modules that are configured for the Quick Reservation widget on the Workplace Service Portal
 -   Configure the views of the reservable module such as Map view or Schedule view.
@@ -54,11 +54,11 @@ Create a Reservable Module to add a group of similar reservable workplace items.
 -   **[Assign spaces to an area](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/add-neighbourhood-spaces-to-an-area.md)**  
 Add spaces to an area to make them available for reservation. On the Reservation portal, when an employee searches for an area, all the available spaces that are assigned to that area are displayed.
 -   **[Create a standard service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/add-standard-services.md)**  
-[[add-standard-services|Create a Standard service]] to make it available to employees by default when they make a reservation.
+Create a Standard service to make it available to employees by default when they make a reservation.
 -   **[Create a flexible service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/add-flexible-service.md)**  
-[[add-flexible-service|Create a flexible service]] and provide it as an extra service to employees. Employees can use the flexible service and other basic standard services when they make a reservation.
+Create a flexible service and provide it as an extra service to employees. Employees can use the flexible service and other basic standard services when they make a reservation.
 -   **[Create a workplace service to provide an extra service for a reservation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-workplace-service-to-provide-extra-service.md)**  
-[[create-workplace-service|Create a workplace service]] and provide it as an extra service to employees while making a reservation. Use the [[workplace-case-mgmt-feat|Workplace Case Management]] application to create the workplace service.
+Create a workplace service and provide it as an extra service to employees while making a reservation. Use the Workplace Case Management application to create the workplace service.
 -   **[Create a reservable view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-a-reservable-view.md)**  
 Configure a view that employees can view while making a reservation on the Reservation portal.
 -   **[Create a user criteria record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-user-criteria.md)**  
@@ -88,15 +88,3 @@ Set the Max days in future value for configuring reservation.
 
 **Parent Topic:**[Workplace Reservation Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/workplace-rsv-mgmt-feat.md)
 
-## Related
-
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[reservation-portal|Make a reservation]]
-- [[workplace-services-portal-hr|Workplace Service Portal]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[standard-service|Standard services]]
-- [[workplace-space-mgmt-ovw|Workplace Space Management]]
-- [[add-standard-services|Create a standard service]]
-- [[add-flexible-service|Create a flexible service]]
-- [[create-workplace-service|Create a Workplace service]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]

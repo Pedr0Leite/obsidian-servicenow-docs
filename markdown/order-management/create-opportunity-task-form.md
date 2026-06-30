@@ -12,7 +12,7 @@ breadcrumb: [Opportunity Management reference, Lead and opportunity management, 
 
 # Create new opportunity task form
 
-Field descriptions for editing or reviewing details on the Create New Opportunity Task form in [[explore-crm-touchpoints|CRM Touchpoints]] and [[opportunity-management|Opportunity Management]] modules.
+Field descriptions for editing or reviewing details on the Create New Opportunity Task form in CRM Touchpoints and Opportunity Management modules.
 
 <table id="table_s2q_cdn_33c"><thead><tr><th>
 
@@ -91,16 +91,10 @@ Work notes \(Private\)
 Internal notes visible only to team members with appropriate access.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[opportunity-management-reference|Opportunity Management reference]]
+</table>**Parent Topic:**[Opportunity Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management-reference.md)
 
 **Related topics**  
 
 
-[[create-touchpoint-related-tasks|Create a related task from a touchpoint]]
+[Create a related task from a touchpoint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-touchpoint-related-tasks.md)
 
-## Related
-
-- [[opportunity-management-reference|Opportunity Management reference]]
-- [[create-touchpoint-related-tasks|Create a related task from a touchpoint]]
-- [[explore-crm-touchpoints|CRM Touchpoints]]
-- [[opportunity-management|Opportunity Management]]

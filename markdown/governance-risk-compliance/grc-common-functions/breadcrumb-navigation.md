@@ -22,10 +22,7 @@ Use the breadcrumb style navigation that provides a browser path to navigate a h
 
 \[Omitted image "breadcrumb-navigation.png"\] Alt text: Breadcrumb navigation
 
-The navigational path **List** &gt; **Entity: America Online** in the example indicates that you can navigate to the America Online page from the Entity menu in the [[list-view-uib-ws|List view]]. Selecting any link in the path returns you to the selected screen.
+The navigational path **List** &gt; **Entity: America Online** in the example indicates that you can navigate to the America Online page from the Entity menu in the List view. Selecting any link in the path returns you to the selected screen.
 
 **Parent Topic:**[Common Governance, Risk, and Compliance features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/common-grc-features.md)
 
-## Related
-
-- [[list-view-uib-ws|List view]]

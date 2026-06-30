@@ -14,7 +14,7 @@ breadcrumb: [Proactive Triggers reference, Proactive Triggers, Manage people and
 
 # Proactive Action form
 
-When creating a [[proactive-triggers-landing-page|Proactive Triggers]] rule, the Proactive Action form includes the following fields.
+When creating a Proactive Triggers rule, the Proactive Action form includes the following fields.
 
 <table id="table_pff_wh1_cwb"><thead><tr><th>
 
@@ -64,7 +64,7 @@ Topic
 
 </td><td>
 
-List of [[virtual-agent-landing-page|Virtual Agent]] topics available. The selected topic runs when end users open the Proactive Triggers message.**Note:** Only the topics that are active and published appear in the list. System topics aren't included in the topics list.
+List of Virtual Agent topics available. The selected topic runs when end users open the Proactive Triggers message.**Note:** Only the topics that are active and published appear in the list. System topics aren't included in the topics list.
 
 \(For **Message that launches a virtual agent topic** actions only.\)
 
@@ -124,7 +124,3 @@ Text that the end users see above the buttons that you've created. The default t
 </td></tr></tbody>
 </table>**Parent Topic:**[Proactive Triggers reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/product-support-for-technology/proactive-triggers-reference.md)
 
-## Related
-
-- [[proactive-triggers-landing-page|Proactive Triggers]]
-- [[virtual-agent-landing-page|Virtual Agent]]

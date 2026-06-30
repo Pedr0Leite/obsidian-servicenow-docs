@@ -47,10 +47,7 @@ Enable territory view by setting the technician visibility type to allow Workfor
 
 [Configuring Field Service Territory Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/configuring-territory-planning-fsm.md)
 
-[[workforce-system-properties|Workforce system properties]]
+[Workforce system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-system-properties.md)
 
 [Managing agents and tasks from Workforce](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/using-manager-workforce.md)
 
-## Related
-
-- [[workforce-system-properties|Workforce system properties]]

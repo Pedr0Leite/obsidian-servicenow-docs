@@ -14,7 +14,7 @@ breadcrumb: [Self-health monitors for Event Management, Manage and monitor alert
 
 # Configure a self-health monitor
 
-You can configure a self-health monitor to track [[c_EM|Event Management]] components and see that they do not exceed the specified threshold.
+You can configure a self-health monitor to track Event Management components and see that they do not exceed the specified threshold.
 
 ## Before you begin
 
@@ -85,6 +85,3 @@ Create a customized monitor. A template is provided to assist you to create scri
 
 **Parent Topic:**[Self-health monitors for Event Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/self-monitoring.md)
 
-## Related
-
-- [[c_EM|Event Management]]

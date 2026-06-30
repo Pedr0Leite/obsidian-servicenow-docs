@@ -12,7 +12,7 @@ breadcrumb: [Configure, KPI Signals, Platform Analytics experience, Platform Ana
 
 # Configure responsibility for KPI Signals
 
-Besides security access, a user needs a level of responsibility to act on a signal. Responsibility is granted for individual indicator/breakdown element combinations \(KPIs\) that the [[process-behavior-charts-for-kpis|KPI Signals]] application monitors.
+Besides security access, a user needs a level of responsibility to act on a signal. Responsibility is granted for individual indicator/breakdown element combinations \(KPIs\) that the KPI Signals application monitors.
 
 A KPI can have multiple responsible users.
 
@@ -30,7 +30,7 @@ Even responsible users without workspace access get these email notifications.
 **Related topics**  
 
 
-[[configure-signal-notifications|Configure signal notifications]]
+[Configure signal notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configure-signal-notifications.md)
 
 ## Assign responsibility for signals
 
@@ -42,7 +42,7 @@ Role required: Any role if a responsible user, or pa\_admin or admin
 
 ### Procedure
 
-1.  Open KPI Signals for an indicator, as described in [[view-kpi-signals|View KPI Signals]].
+1.  Open KPI Signals for an indicator, as described in [View KPI Signals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/view-kpi-signals.md).
 
 2.  Click the cogwheel \[Omitted image "kpi-signals-config-cogwheel.png"\] Alt text: Cogwheel button for KPI Signals configuration to open the KPI Signals configuration.
 
@@ -62,8 +62,4 @@ Role required: Any role if a responsible user, or pa\_admin or admin
 
 7.  Click **Save**.
 
-## Related
 
-- [[configure-signal-notifications|Configure signal notifications]]
-- [[view-kpi-signals|View KPI Signals]]
-- [[process-behavior-charts-for-kpis|KPI Signals]]

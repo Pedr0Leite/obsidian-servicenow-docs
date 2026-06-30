@@ -20,12 +20,8 @@ For more information, see [Zero Trust Access \(ZTA\)](https://raw.githubusercont
 
 \[Omitted image "mobile-zero-trust-access.png"\] Alt text: Banner notifying the user that their access may be limited because they are not on a trusted network.
 
--   **[[configure-zero-trust-access-mobile|Configure Zero Trust Access for mobile]]**  
+-   **[Configure Zero Trust Access for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/configure-zero-trust-access-mobile.md)**  
 Configure Zero Trust Access \(ZTA\) on mobile to reduce end-user access based on factors such as IP address, location, and identity provider attributes.
 
-**Parent Topic:**[[mobile-authentication|Mobile authentication]]
+**Parent Topic:**[Mobile authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-authentication.md)
 
-## Related
-
-- [[configure-zero-trust-access-mobile|Configure Zero Trust Access for mobile]]
-- [[mobile-authentication|Mobile authentication]]

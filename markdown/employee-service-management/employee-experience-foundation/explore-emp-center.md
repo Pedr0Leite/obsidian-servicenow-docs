@@ -14,7 +14,7 @@ breadcrumb: [Employee Center, Unified Employee Experience, Employee Service Mana
 
 # Exploring Employee Center
 
-[[employee-center-landing-page|Employee Center]] portal is a unified portal that connects systems across an enterprise within one destination site to provide a centralized [[employee-center-portal-overview|employee portal]]. It requires minimal configuration and offers a wide variety of features to extend portal functionality.
+Employee Center portal is a unified portal that connects systems across an enterprise within one destination site to provide a centralized employee portal. It requires minimal configuration and offers a wide variety of features to extend portal functionality.
 
 ## Employee Center overview
 
@@ -42,8 +42,8 @@ The Employee Center enables organizations to assemble an employee portal tailore
 \[Omitted image "ec-roles-workflow.png"\] Alt text: Infographic showing the end-to-end workflow to configure the Employee Center
 
 1.  System admin installs plugins and assigns roles.
-2.  Taxonomy admin configures the Unified taxonomy, [[dynamic-topic-page|dynamic topic pages]], and [[emp-center-quick-link-config|quick links]].
-3.  Employee Center admin configures Employee Center portal, widgets, and features including the [[action-group-framework|action framework]], [[emp-slate-employee-profile|employee profile]], [[rfy-ec|recommended for you]], Guided Self-service, and [[app-launcher-usability|cross-channel favorites]].
+2.  Taxonomy admin configures the Unified taxonomy, dynamic topic pages, and quick links.
+3.  Employee Center admin configures Employee Center portal, widgets, and features including the action framework, employee profile, recommended for you, Guided Self-service, and cross-channel favorites.
 4.  Employees use the Employee Center to complete tasks and trainings, submit requests, read knowledge articles, and more.
 
 ## Employee Center users
@@ -59,7 +59,7 @@ For more information on Employee Center user roles, see [Employee Center roles](
 
 ## Employee Center for IT Service Management
 
-Use Employee Center to streamline your IT ticket management and other service management tasks. Improve agent experience with higher case deflections enabled by customised, machine [[exploring-learning-exp|learning]]-driven recommendations and solutions for employees. For more information, see [Employee Center for IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/itsm-n-ec-integration.md).
+Use Employee Center to streamline your IT ticket management and other service management tasks. Improve agent experience with higher case deflections enabled by customised, machine learning-driven recommendations and solutions for employees. For more information, see [Employee Center for IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/itsm-n-ec-integration.md).
 
 ## Employee Center benefits
 
@@ -74,21 +74,9 @@ Use Employee Center to streamline your IT ticket management and other service ma
 
 ## What to explore next
 
-To learn more about configuring and [[using-emp-center|using Employee Center]], see:
+To learn more about configuring and using Employee Center, see:
 
 -   [Configuring Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-emp-center.md)
 -   [Using Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/using-emp-center.md)
 -   [Employee Center reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/emp-center-reference.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[employee-center-portal-overview|Employee portal]]
-- [[dynamic-topic-page|Dynamic topic pages]]
-- [[emp-center-quick-link-config|Quick links]]
-- [[action-group-framework|Action framework]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[rfy-ec|Recommended for you]]
-- [[app-launcher-usability|Cross-channel favorites]]
-- [[exploring-learning-exp|Learning]]
-- [[using-emp-center|Using Employee Center]]

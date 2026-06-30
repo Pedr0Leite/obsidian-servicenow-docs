@@ -35,8 +35,5 @@ Role required: admin
 
 The newly created mapping is valid and active, and the mapping input is added to the list of policy mappings.
 
-**Parent Topic:**[[psds-config-gmp-eligibility|Configure Eligibility Rules Engine Policies in Grants Management]]
+**Parent Topic:**[Configure Eligibility Rules Engine Policies in Grants Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-eligibility.md)
 
-## Related
-
-- [[psds-config-gmp-eligibility|Configure Eligibility Rules Engine Policies in Grants Management]]

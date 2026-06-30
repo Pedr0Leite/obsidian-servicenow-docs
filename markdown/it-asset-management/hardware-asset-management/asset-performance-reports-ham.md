@@ -15,7 +15,7 @@ breadcrumb: [Explore, Hardware Asset Management, IT Asset Management]
 
 # Asset performance reports in the Hardware Asset Workspace
 
-Gain insights into the overall operational efficiency of your organization's hardware assets by using the asset performance reports available in the [[asset-analytics-view|Asset analytics view]].
+Gain insights into the overall operational efficiency of your organization's hardware assets by using the asset performance reports available in the Asset analytics view.
 
 Asset performance involves assessing how effectively and efficiently assets fulfill their intended functions within an organization. The evaluation includes measuring and analyzing key performance indicators \(KPIs\), such as:
 
@@ -40,7 +40,7 @@ Asset performance involves assessing how effectively and efficiently assets fulf
 
 -   **Enhance financial planning**
 
-    Performance insights help identify [[c_Models|models]] or locations with poor performance or ongoing problems, guiding better investment choices.
+    Performance insights help identify models or locations with poor performance or ongoing problems, guiding better investment choices.
 
 -   **Align operations with service levels**
 
@@ -49,7 +49,7 @@ Asset performance involves assessing how effectively and efficiently assets fulf
 
 ## Considerations, requirements, and limitations
 
--   To track additional hardware [[model-hierarchy|model categories]] in KPIs, [opt in the relevant HAM resource categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/optin-optout-ham-license-resource-categories.md). Otherwise, newly added model categories do not appear in performance metrics or dashboards.
+-   To track additional hardware model categories in KPIs, [opt in the relevant HAM resource categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/optin-optout-ham-license-resource-categories.md). Otherwise, newly added model categories do not appear in performance metrics or dashboards.
 -   The **First Used** field on HAM assets must contain a valid timestamp for accurate asset performance tracking. Assets with missing or invalid First Used values are excluded from performance calculations, creating gaps in lifecycle and utilization reporting.
 -   Asset key performance indicators \(KPIs\) aren't calculated for pallets, consumable, and bundle assets.
 -   Asset KPIs aren't calculated by default.
@@ -213,8 +213,3 @@ The count of total outage records for an asset. Overlapping and concurrent outag
     -   Recall task
 -   The **Asset availability data collection** scheduled weekly job runs every Sunday to calculate the average values of the KPIs that includes Average availability, Average MTTR, and Average MTBF. The job then generates the reports in the Asset performance tab of the Asset analytics view.
 
-## Related
-
-- [[asset-analytics-view|Asset analytics view]]
-- [[c_Models|Models]]
-- [[model-hierarchy|Model categories]]

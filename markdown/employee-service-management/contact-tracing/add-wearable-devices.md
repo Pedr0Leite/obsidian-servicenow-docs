@@ -28,7 +28,7 @@ You can also import your wearable devices data from an Excel spreadsheet. For mo
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[contact-tracing|Contact Tracing]]** &gt; **Wi-Fi Access Management** &gt; **Wearables**.
+1.  Navigate to **All** &gt; **Contact Tracing** &gt; **Wi-Fi Access Management** &gt; **Wearables**.
 
 2.  Click **New** to add details of a new device or select an existing device to edit.
 
@@ -88,6 +88,3 @@ MAC address of the device.Follow the steps in [Configuring the form layout](http
 
 **Parent Topic:**[Retrieving Wi-Fi access log data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/wifi-access-management.md)
 
-## Related
-
-- [[contact-tracing|Contact Tracing]]

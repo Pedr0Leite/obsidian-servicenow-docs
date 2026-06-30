@@ -14,7 +14,7 @@ breadcrumb: [Configure, Insurance claims, Exploring insurance claims application
 
 # Automating Insurance claims processes by using decision tables
 
-You can apply the decision table rules and subflow or flow that executes the decision table to automate claims processes in the [[insurance-claims-flow|Insurance claims]] application.
+You can apply the decision table rules and subflow or flow that executes the decision table to automate claims processes in the Insurance claims application.
 
 You can configure decision rules to automate claims processes. These decision rules are executed in the background through a subflow or flow during the claim life cycle. By using this approach, you can automate labor-intensive tasks, streamline decision-making processes, and ensure consistency in how claims are handled throughout their life cycle.
 
@@ -34,12 +34,7 @@ You can modify the included decision table in the Insurance claims application s
 
 [Using decision tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/using-decision-builder.md)
 
-[[configure-flow-designer-flows-fso-apps|Configure flows]]
+[Configure flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-flow-designer-flows-fso-apps.md)
 
-[[flow-designer-flows-fso-apps|Designer flows for Financial Services Operations applications]]
+[Designer flows for Financial Services Operations applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/flow-designer-flows-fso-apps.md)
 
-## Related
-
-- [[configure-flow-designer-flows-fso-apps|Configure flows]]
-- [[flow-designer-flows-fso-apps|Designer flows for Financial Services Operations applications]]
-- [[insurance-claims-flow|Insurance claims]]

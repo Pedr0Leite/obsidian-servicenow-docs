@@ -22,7 +22,7 @@ Role required: inventory\_user
 
 ## About this task
 
-When assets get old, their maintenance costs and risks of failure increase, while their performance decreases. You can choose to replace old assets with the same or different [[c_Models|models]] of newer assets. After your Enterprise Asset Refresh request is approved, the Enterprise Asset Refresh flow takes you through sourcing and triggers the Enterprise Asset Refresh Line flow. The Enterprise Asset Refresh Line flow uses Refresh Line tasks to take you through the steps of preparing the new asset, scheduling it for delivery, deploying it, and reclaiming the aged asset.
+When assets get old, their maintenance costs and risks of failure increase, while their performance decreases. You can choose to replace old assets with the same or different models of newer assets. After your Enterprise Asset Refresh request is approved, the Enterprise Asset Refresh flow takes you through sourcing and triggers the Enterprise Asset Refresh Line flow. The Enterprise Asset Refresh Line flow uses Refresh Line tasks to take you through the steps of preparing the new asset, scheduling it for delivery, deploying it, and reclaiming the aged asset.
 
 The Workflow Studio application is used to create the Enterprise Asset Refresh flow and the Enterprise Asset Refresh Line flow.
 
@@ -105,6 +105,4 @@ Displays only those assets for which the **Eligible for Refresh** check box on t
 
     An Order status page appears and displays the details of the order. A request is created to source the new enterprise assets and to replace the aged enterprise assets. The Request form shows the total price of all the new enterprise asset models.
 
-## Related
 
-- [[c_Models|Models]]

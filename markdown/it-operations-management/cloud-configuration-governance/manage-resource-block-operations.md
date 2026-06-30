@@ -22,7 +22,7 @@ Role required: sn\_cmp.cloud\_service\_designer
 
 ## About this task
 
-The system automatically associates default operations from the [[cloud-management-api|Cloud API \(CAPI\)]] to the resource block when you add interfaces to it. It also provides default input parameters for each operation.
+The system automatically associates default operations from the Cloud API \(CAPI\) to the resource block when you add interfaces to it. It also provides default input parameters for each operation.
 
 ## Procedure
 
@@ -140,6 +140,3 @@ Select **Public** to make the resource block operation available from the catalo
 
 **Parent Topic:**[Resource blocks in Cloud Provisioning and Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/resource-blocks.md)
 
-## Related
-
-- [[cloud-management-api|Cloud API \(CAPI\)]]

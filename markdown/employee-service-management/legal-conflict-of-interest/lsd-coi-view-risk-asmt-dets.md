@@ -28,7 +28,7 @@ When an employee submits a COI disclosure, the risk assessment evaluates the req
 
 1.  View risk level and risk responses from the legal request.
 
-    1.  Navigate to **All** &gt; **Legal Request** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+    1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
     2.  Open the COI disclosure request.
 
@@ -59,6 +59,3 @@ When an employee submits a COI disclosure, the risk assessment evaluates the req
 
 **Parent Topic:**[Using Legal Conflict of Interest](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-conflict-of-interest/lsd-coi-use-landing.md)
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]

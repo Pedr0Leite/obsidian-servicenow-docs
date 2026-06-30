@@ -12,7 +12,7 @@ breadcrumb: [Sales promotion for the dealer, Dealer management, Use, Manufacturi
 
 # Submit a sales promotion claim
 
-As a dealer, submit a single [[mco-sales-promotion|sales promotion]] claim request.
+As a dealer, submit a single sales promotion claim request.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: manufacturing operations admin \(sn\_mfg\_cmn.manufacturing\_oper
 
 ## Procedure
 
-1.  Navigate to **[[mco-dealer-portal|Dealer Portal]]** &gt; **Catalogs** &gt; **Customer operations** &gt; **Sales promotion single claim**.
+1.  Navigate to **Dealer Portal** &gt; **Catalogs** &gt; **Customer operations** &gt; **Sales promotion single claim**.
 
 2.  On the form, fill in the fields.
 
@@ -47,7 +47,3 @@ Role required: manufacturing operations admin \(sn\_mfg\_cmn.manufacturing\_oper
 
 The Sales promotion claim is successfully submitted for review and approval.
 
-## Related
-
-- [[mco-sales-promotion|Sales promotion]]
-- [[mco-dealer-portal|Dealer portal]]

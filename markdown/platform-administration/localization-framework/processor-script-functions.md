@@ -18,7 +18,7 @@ The processor script contains functions that help you extract the translatable c
 
 ## getTranslatedContent\(params\)
 
-This function is responsible for extracting the translatable content for the [[localization-framework-landing|Localization Framework]] to use and consume that content and contains the following [[r_DirectJDBCProbeParameters|parameters]]:
+This function is responsible for extracting the translatable content for the Localization Framework to use and consume that content and contains the following parameters:
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -38,7 +38,3 @@ All the processor scripts extend LFArtifactProcessorSNC which defines the defaul
 
 **Parent Topic:**[Artifact configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/framework-configuration.md)
 
-## Related
-
-- [[localization-framework-landing|Localization Framework]]
-- [[r_DirectJDBCProbeParameters|Parameters]]

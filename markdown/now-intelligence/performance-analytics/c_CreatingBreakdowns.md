@@ -14,9 +14,9 @@ breadcrumb: [Configure fundamentals, Performance Analytics \(Indicator data sour
 
 # Indicator breakdowns
 
-Breakdowns enable you to group or filter indicator scores by a qualitative attribute such as Priority, Category, or Assignment Group. You can apply a breakdown on the [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]], in [[kpi-details|KPI Details]], and on dashboards.
+Breakdowns enable you to group or filter indicator scores by a qualitative attribute such as Priority, Category, or Assignment Group. You can apply a breakdown on the Analytics Hub, in KPI Details, and on dashboards.
 
-The values for each breakdown are called breakdown elements. For example, the Priority breakdown may have the elements Critical, High, and Low. Breakdowns are categorized as automated, manual, or external, depending on where these elements come from. Automated breakdown elements are specified in [[breakdown-sources|breakdown sources]]. [[manual-breakdowns|Manual breakdowns]] have their elements entered manually to define an organization. Lastly, an external breakdown specifies the JDBC data source and SQL statement for retrieving breakdown elements.
+The values for each breakdown are called breakdown elements. For example, the Priority breakdown may have the elements Critical, High, and Low. Breakdowns are categorized as automated, manual, or external, depending on where these elements come from. Automated breakdown elements are specified in breakdown sources. Manual breakdowns have their elements entered manually to define an organization. Lastly, an external breakdown specifies the JDBC data source and SQL statement for retrieving breakdown elements.
 
 For example, you can look at the Number of Open Changes by Assignment Group. Or you can see the Number of New Changes by Priority.
 
@@ -29,22 +29,13 @@ An automated breakdown uses a breakdown source to determine selectable elements.
 -   **[Manual breakdowns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/manual-breakdowns.md)**  
 In a manual breakdown, you define the breakdown elements and the indicator scores for each element manually instead of using records from a breakdown source.
 -   **[Element filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_BreakdownElementFilters.md)**  
-[[c_BreakdownElementFilters|Element filters]] enable you to specify or limit the displayed breakdown elements on visualizations.
+Element filters enable you to specify or limit the displayed breakdown elements on visualizations.
 -   **[Navigating breakdown elements with breakdown relations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/breakdown-relations.md)**  
 Breakdown relations open a new navigation path for viewing breakdown scores, by moving from one breakdown element to another element of the same breakdown. The elements should be in an hierarchical relationship.
 -   **[Control ability to view breakdown elements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_ControlAccessToABreakdown.md)**  
-To limit which breakdown elements a subset of users can view on indicators, implement element security. Element security applies to [[widgets|widgets]], workspaces, and the Analytics Hub.
+To limit which breakdown elements a subset of users can view on indicators, implement element security. Element security applies to widgets, workspaces, and the Analytics Hub.
 -   **[Using breakdowns on dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_SpecialDashboards.md)**  
-You can [[t_ExistingBreakdownDashboard|add breakdown sources to a dashboard]]. Dashboard users then can select a breakdown source and one or more breakdown elements to filter scores in the visualizations on the dashboard.
+You can add breakdown sources to a dashboard. Dashboard users then can select a breakdown source and one or more breakdown elements to filter scores in the visualizations on the dashboard.
 
 **Parent Topic:**[Configure Performance Analytics fundamentals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_PAWidgetsAndDashboards.md)
 
-## Related
-
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]
-- [[kpi-details|KPI Details]]
-- [[breakdown-sources|Breakdown sources]]
-- [[manual-breakdowns|Manual breakdowns]]
-- [[c_BreakdownElementFilters|Element filters]]
-- [[widgets|Widgets]]
-- [[t_ExistingBreakdownDashboard|Add breakdown sources to a dashboard]]

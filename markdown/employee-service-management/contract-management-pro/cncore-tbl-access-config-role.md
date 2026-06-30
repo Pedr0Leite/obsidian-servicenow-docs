@@ -65,7 +65,7 @@ The user who with the sn\_cm\_core.contract\_config role can update template map
 
 [Group contract documents by contract type in a contract request]()
 
-[Add access to [[cncore-obligation-management|obligation management]] from contract repository records]()
+[Add access to obligation management from contract repository records]()
 
 [Configure the contract request form header for your workspace]()
 
@@ -73,6 +73,3 @@ The user who with the sn\_cm\_core.contract\_config role can update template map
 
 [Configuring the Playbook tab on contract repository records]()
 
-## Related
-
-- [[cncore-obligation-management|Obligation Management]]

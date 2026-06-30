@@ -14,7 +14,7 @@ breadcrumb: [Product catalog items, Product Catalog, IT Asset Management]
 
 # Activate a product catalog item
 
-Activate a product catalog item to make it available in the [[c_ProductCatalog|product catalog]] and the service catalog.
+Activate a product catalog item to make it available in the product catalog and the service catalog.
 
 ## Before you begin
 
@@ -59,6 +59,3 @@ Select **Activate** under **Related Links**.
 
 [Import a Product Catalog item]()
 
-## Related
-
-- [[c_ProductCatalog|Product Catalog]]

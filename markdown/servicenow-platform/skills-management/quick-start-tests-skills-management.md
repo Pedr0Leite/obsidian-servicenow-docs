@@ -14,7 +14,7 @@ breadcrumb: [Reference for Skills Management, Skills Management, Manage people a
 
 # Quick start tests for Skills Management
 
-Validate that [[skills-management|Skills Management]] still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
+Validate that Skills Management still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
 
 Skills Management quick start tests require activating the Skills Management plugin \(com.snc.skills\_management\).
 
@@ -36,6 +36,3 @@ Skills Management quick start tests require activating the Skills Management plu
 
 [Quick start tests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/quick-start-tests.md)
 
-## Related
-
-- [[skills-management|Skills Management]]

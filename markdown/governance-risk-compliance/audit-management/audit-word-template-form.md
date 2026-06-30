@@ -14,7 +14,7 @@ breadcrumb: [Create a Microsoft Word template record for an audit report, Genera
 
 # Word template form
 
-The table gives a description of the field values for the [[word-template-form|Word template form]].
+The table gives a description of the field values for the Word template form.
 
 <table id="table_sgq_pvd_ncc"><thead><tr><th>
 
@@ -103,14 +103,10 @@ Option to update the generated Word template report with fields from the Report 
 
 -   **Populate audit word template and report fields**: If you choose Word report-based template, the fields from the Report section of the Engagement record populate in the Word report.
 
-**Note:** This option is available only if [[c_GRCAudits|Audit Management]] application is installed.
+**Note:** This option is available only if Audit Management application is installed.
 
 -   **None**: Report is generated as a sys attachment or a cloud file. However, no post processing action happens to add or update any report-based fields of the engagement record to the Word report that is generated.
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Configuring ATO artifacts report templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/cam-configure-word-based-template.md)
 
-## Related
-
-- [[word-template-form|Word template form]]
-- [[c_GRCAudits|Audit Management]]

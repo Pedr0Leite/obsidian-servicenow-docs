@@ -41,7 +41,7 @@ Role required: sn\_hs\_rm.hierarchy\_of\_controls\_manager or sn\_hs\_rm.hierarc
     |Number|System-generated unique number for the control measure category.|
     |Name|Name of the category.|
     |Short description|Brief description of the category.|
-    |Order|Order at which this category is listed on the Select control measures form when submitting a [[hs-job-safety-analysis|Job safety analysis]] \(JSA\).|
+    |Order|Order at which this category is listed on the Select control measures form when submitting a Job safety analysis \(JSA\).|
     |Active|Option to mark the category available for use. A control measure category must be active to be used.|
 
 5.  Select **Submit**.
@@ -59,6 +59,3 @@ Associate related control measures with the category. For more information, see 
 
 **Parent Topic:**[Setting up Health and Safety Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-setting-up-risk-mgmt.md)
 
-## Related
-
-- [[hs-job-safety-analysis|Job safety analysis]]

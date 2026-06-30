@@ -28,7 +28,7 @@ You can create a post case review document for a resolved major case if the **sn
 
 1.  Open a major case in the **Resolved** state.
 
-2.  Complete steps 2 through 7 in the [[create-case-review-document|Create a post case review]] topic.
+2.  Complete steps 2 through 7 in the [Create a post case review](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-case-review-document.md) topic.
 
 3.  Select one of the following options.
 
@@ -60,7 +60,7 @@ The system performs the following actions:1.  Syncs the child case PCR record wi
     -   State
     -   Approval Users
 2.  Generates a PDF document for all of the child case PCR records with customer-specific information.
-3.  Adds a link to the PCR document to the **Additional Comments** field on the child [[r_CustomerServiceCaseForm|case form]].
+3.  Adds a link to the PCR document to the **Additional Comments** field on the child case form.
 
 
 </td></tr><tr><td id="d90301e160">
@@ -85,8 +85,3 @@ The system syncs the child case PCR record with the parent case PCR record. \(If
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[create-case-review-document|Create a post case review]]
-- [[r_CustomerServiceCaseForm|Case form]]

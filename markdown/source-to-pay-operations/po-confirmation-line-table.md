@@ -12,7 +12,7 @@ breadcrumb: [Master data tables for Purchase Order Management, Reference, Purcha
 
 # Purchase Order Confirmation Line table
 
-A [[purchase-order-table|purchase order]] confirmation line is a line-level response from a [[supplier|supplier]] that acknowledges a specific purchase order line or a portion of it. It confirms whether the order can be delivered under the requested terms.
+A purchase order confirmation line is a line-level response from a supplier that acknowledges a specific purchase order line or a portion of it. It confirms whether the order can be delivered under the requested terms.
 
 ## sn\_poem\_po\_confirmation\_line table
 
@@ -32,16 +32,10 @@ The Purchase Order Confirmation Line \[sn\_poem\_po\_confirmation\_line\] table 
 |Confirmed unit price|FX Currency|The unit price for which the supplier commits to deliver. Applicable only if the Confirmation status is set to Changes requested.|
 |Updated by|String|The user who last modified this record.|
 |Confirmed delivery date|Date|The delivery date for which the supplier commits to deliver. Applicable only if the Confirmation status is set to Changes requested.|
-|Created by|String|The [[supplier-contact|supplier contact]] who created this purchase order confirmation.|
+|Created by|String|The supplier contact who created this purchase order confirmation.|
 |Confirmation status|Choice|The Confirmation status provided by the supplier for this order line and quantity. Status can be Confirmed, Rejected, Changes requested.|
 |Updates|Integer|Number of fields edited every time the record is updated.|
 |Unit|Reference|The unit of measure of this confirmation line.|
 
-**Parent Topic:**[[master-data-tables-for-pom|Master data tables for Purchase Order Management]]
+**Parent Topic:**[Master data tables for Purchase Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/master-data-tables-for-pom.md)
 
-## Related
-
-- [[master-data-tables-for-pom|Master data tables for Purchase Order Management]]
-- [[purchase-order-table|Purchase order]]
-- [[supplier|Supplier]]
-- [[supplier-contact|Supplier contact]]

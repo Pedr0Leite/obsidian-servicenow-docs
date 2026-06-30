@@ -12,7 +12,7 @@ breadcrumb: [Create a quiz, Quiz designer, Using Quizzes, Quizzes, Assessments a
 
 # Select a quiz recipient
 
-When the system distributes a quiz, it sends [[email|email]] notifications to the category users and their managers.
+When the system distributes a quiz, it sends email notifications to the category users and their managers.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: assessment\_admin or admin
 
 A category can have one or more assigned users, and the same user can be assigned to more than one category.
 
-The system also creates a link to the quiz in the recipients' **My [[r_Assessments|Assessments]] &amp; [[r_SurveyManagementLandingPage|Surveys]]** portal. Users can only answer questions in the categories that they are assigned to.
+The system also creates a link to the quiz in the recipients' **My Assessments &amp; Surveys** portal. Users can only answer questions in the categories that they are assigned to.
 
 ## Procedure
 
@@ -34,17 +34,10 @@ The system also creates a link to the quiz in the recipients' **My [[r_Assessmen
     |Add users|Users selected as recipients for this category. The choice list shows all users in the system.|
 
 
-**Parent Topic:**[[t_CreateaQuiz|Create a quiz]]
+**Parent Topic:**[Create a quiz](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateaQuiz.md)
 
 **Related topics**  
 
 
-[[c_QuizDesigner|Quiz designer]]
+[Quiz designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_QuizDesigner.md)
 
-## Related
-
-- [[t_CreateaQuiz|Create a quiz]]
-- [[c_QuizDesigner|Quiz designer]]
-- [[email|Email]]
-- [[r_Assessments|Assessments]]
-- [[r_SurveyManagementLandingPage|Surveys]]

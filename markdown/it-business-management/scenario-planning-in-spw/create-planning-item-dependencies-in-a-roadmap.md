@@ -31,7 +31,7 @@ The dependency for a planning item on your roadmap can be on an item from the sa
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]]** and open your roadmap.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Portfolio Planning** and open your roadmap.
 
 <table id="choicetable_vwv_t4z_5wb"><thead><tr><th align="left" id="d136538e107">
 
@@ -70,7 +70,7 @@ From the Free-form Roadmaps tab, select a roadmap.
 
 5.  On the form, fill in the fields.
 
-    For [[form-field-information-ppwdita|form field information]], see [Dependency form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/dependency-form.md).
+    For form field information, see [Dependency form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/dependency-form.md).
 
 6.  Select **Save**.
 
@@ -90,8 +90,3 @@ If one of the dependency items is not on the roadmap, then the dependency detail
 -   [Learn how to resolve roadmap item dependency errors.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/error-state-for-planning-item-dependencies.md)
 -   Update the dependency details or delete it. See [Update roadmap item dependencies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/manage-planning-item-dependencies-apw.md).
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[form-field-information-ppwdita|Form field information]]

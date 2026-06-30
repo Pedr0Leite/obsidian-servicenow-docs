@@ -14,7 +14,7 @@ breadcrumb: [Importing entitlements from an MLS, Software Asset Management publi
 
 # Import Microsoft entitlements from a Microsoft License Statement \(MLS\) in Software Asset Management classic
 
-Import entitlements from an MLS using the [[c_SoftwareAssetMgmt|Software Asset Management]] classic application.
+Import entitlements from an MLS using the Software Asset Management classic application.
 
 ## Before you begin
 
@@ -39,12 +39,12 @@ Role required: sam\_user or sam\_admin
     |Import type|Type of document that you’re importing software entitlements from. The options are **Standard import document** and **Microsoft license statement \(MLS\)**. Set this field to **Microsoft license statement \(MLS\)**.|
     |File|Spreadsheet of software entitlements that you want to import. Select **Click to add...** to search for and select the MLS Excel file that you requested from Microsoft.|
     |Description|Brief description of the software entitlement import.|
-    |Automatic creation of contracts|Option to enable automatic creation of both parent and child [[c_Contracts|contracts]] for the selected MLS. Refer to [Contracts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/c_Contracts.md) for more information about contracts.|
+    |Automatic creation of contracts|Option to enable automatic creation of both parent and child contracts for the selected MLS. Refer to [Contracts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/c_Contracts.md) for more information about contracts.|
     |Import status|Status of the import. This field populates automatically.|
 
 5.  Select **Import**.
 
-    A confirmation message appears, informing you that the import is in progress. You can select the link in the message to open the Entitlement import list in the [[sam-workspace|Software Asset Workspace]], which provides the status of your import and the complete list of entitlement imports.
+    A confirmation message appears, informing you that the import is in progress. You can select the link in the message to open the Entitlement import list in the Software Asset Workspace, which provides the status of your import and the complete list of entitlement imports.
 
 6.  After the import is complete, open the corresponding entitlement import record to view additional information about the import.
 
@@ -128,8 +128,3 @@ Role required: sam\_user or sam\_admin
 
 **Parent Topic:**[Importing Microsoft entitlements from a Microsoft License Statement \(MLS\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/importing-mls-entitlements.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[c_Contracts|Contracts]]
-- [[sam-workspace|Software Asset Workspace]]

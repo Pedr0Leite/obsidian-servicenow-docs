@@ -19,7 +19,7 @@ Create a draft version of an email to communicate with stakeholders on a major i
 
 ## Before you begin
 
-**Note:** An admin must activate the [[c_IncidentManagement|Incident Management]] - Major Incident Management plugin \(com.snc.incident.mim\) installed to enable the Major Incident Management email content recommendation skill. For more information on activating the plugin, see [Activate Incident Management - Major Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/activate-major-incident-management-plugin.md).
+**Note:** An admin must activate the Incident Management - Major Incident Management plugin \(com.snc.incident.mim\) installed to enable the Major Incident Management email content recommendation skill. For more information on activating the plugin, see [Activate Incident Management - Major Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/activate-major-incident-management-plugin.md).
 
 Role required: major\_incident\_manager
 
@@ -55,6 +55,4 @@ Role required: major\_incident\_manager
 
     4.  Select **Send**.
 
-## Related
 
-- [[c_IncidentManagement|Incident Management]]

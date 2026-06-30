@@ -14,7 +14,7 @@ breadcrumb: [Task Mining, Platform Analytics]
 
 # Exploring Task Mining
 
-Use [[task-mining|Task Mining]] to identify inefficiencies in work tasks.
+Use Task Mining to identify inefficiencies in work tasks.
 
 ## Task Mining overview
 
@@ -30,7 +30,7 @@ Task Mining combines a desktop agent, workstation user activities, and dashboard
 
 ## Task Mining workflow
 
-The following workflow shows the primary activities for [[using-task-mining|using Task Mining]].
+The following workflow shows the primary activities for using Task Mining.
 
 \[Omitted image "task-mining-workflow.png"\] Alt text: Infographic showing how users create Task Mining projects, submit data requests, and categorize activities to create insightful dashboards. For details, refer to the following description.
 
@@ -40,8 +40,8 @@ The following workflow shows the primary activities for [[using-task-mining|usin
 4.  As a manager of a workstation user, you approve data requests.
 5.  When the request is approved by the workstation user's supervisor, as a power user or admin you make sure the Task Mining agent is installed on the user's workstation.
 6.  As a Task Mining analyst, define how you want to group tasks in your project and select how you want Task Mining to aggregate your data.
-7.  As a Task Mining analyst, you [[mine-project-data|run a mining job]] on a project to generate data so you can categorize activities.
-8.  As a Task Mining power user, you categorize activities to organize and add context to your data by grouping similar workstation activities with user-friendly category names when shown on [[task-mining-dashboard|Task Mining analyses]].
+7.  As a Task Mining analyst, you run a mining job on a project to generate data so you can categorize activities.
+8.  As a Task Mining power user, you categorize activities to organize and add context to your data by grouping similar workstation activities with user-friendly category names when shown on Task Mining analyses.
 9.  As a Task Mining analyst, you run a mining job again on a project to generate an analysis of your project data according to your categorization rules.
 10. As a Task Mining analyst, you share the insights with relevant business stakeholders.
 
@@ -100,9 +100,3 @@ To learn more about configuring and using Task Mining, see the following topics:
 -   [Using Task Mining](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/using-task-mining.md)
 -   [Task Mining Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/reference-task-mining.md)
 
-## Related
-
-- [[task-mining|Task Mining]]
-- [[using-task-mining|Using Task Mining]]
-- [[mine-project-data|Run a mining job]]
-- [[task-mining-dashboard|Task Mining analyses]]

@@ -14,7 +14,7 @@ breadcrumb: [Discover and import Jira projects and boards, Setting up the integr
 
 # Default mapping configuration between Agile Development 2.0 and Jira
 
-Understand the default field mapping configuration for work items of a project between Jira and [[agile-landing-page|Agile Development 2.0]].
+Understand the default field mapping configuration for work items of a project between Jira and Agile Development 2.0.
 
 Mapping configuration is used to map records in Jira to Agile Development 2.0 for a project. If the table map does not exist for an issue type in your Jira project, the issue cannot be imported and exported between Jira and Agile Development 2.0.
 
@@ -38,7 +38,7 @@ The following table lists the default field map configuration for a Story and Ep
 |Summary|Description|
 |Status|State|
 
-|Field in Jira|Field in [[agile-development|Agile Development]] 2.0|
+|Field in Jira|Field in Agile Development 2.0|
 |-------------|------------------------------|
 |Status|State|
 |Sprint|Sprint|
@@ -50,7 +50,3 @@ The following table lists the default field map configuration for a Story and Ep
 
 You can add or update the configuration for field, table, and choice maps of your projects between Jira and Agile Development 2.0 according to your organizational preferences. For details, see [Customizing map configuration for your Jira projects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/atlassian-jira-integrations-common/custom-map-configuration.md).
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]
-- [[agile-development|Agile Development]]

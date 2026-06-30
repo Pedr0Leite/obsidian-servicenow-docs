@@ -26,13 +26,13 @@ Goals are typically qualitative by nature. Goals should be ambitious and are exp
 
 Only the owner or contributors of the goal can edit the goal.
 
-**Note:** If you have created goals but don't see them appearing in the portfolio plan, populate the Assigned entity type and Assigned entity fields on the [[goal-form|Goal form]] to display those goals in the portfolio plan.
+**Note:** If you have created goals but don't see them appearing in the portfolio plan, populate the Assigned entity type and Assigned entity fields on the Goal form to display those goals in the portfolio plan.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]]**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Portfolio Planning**.
 
-2.  From the list of portfolio plans, select a portfolio plan that you want to [[create-goal|create a goal]] for.
+2.  From the list of portfolio plans, select a portfolio plan that you want to create a goal for.
 
 3.  From the Goals page, select **New goal**.
 
@@ -49,9 +49,3 @@ Only the owner or contributors of the goal can edit the goal.
 
 Set targets for the goals. For more information, see [Add targets for a goal in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/set-targets-for-goal-egm.md) or [Configuring target source for target automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/setting-targets-for-a-goal-and-automating-the-actual-value-using-agf-apw.md).
 
-## Related
-
-- [[goal-form|Goal form]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[create-goal|Create a goal]]

@@ -14,7 +14,7 @@ breadcrumb: [Microsoft Azure discovery, Available cloud discovery patterns, Disc
 
 # Microsoft Azure resource inventory discovery
 
-The ServiceNow [[r-discovery|Discovery]] application uses the Azure Resource Inventory \(LP\) pattern to find resources available through Azure that don’t have a dedicated pattern. Discovering some of these resources may require updating to the latest version of the Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns application from the ServiceNow Store.
+The ServiceNow Discovery application uses the Azure Resource Inventory \(LP\) pattern to find resources available through Azure that don’t have a dedicated pattern. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 You can discover up to 10 thousand resources using the Azure Resource Inventory \(LP\) pattern.
 
@@ -140,7 +140,3 @@ Azure datacenter \[cmdb\_ci\_azure\_datacenter\]
 
 [https://learn.microsoft.com/en-us/azure/governance/resource-graph/reference/supported-tables-resources](https://learn.microsoft.com/en-us/azure/governance/resource-graph/reference/supported-tables-resources)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

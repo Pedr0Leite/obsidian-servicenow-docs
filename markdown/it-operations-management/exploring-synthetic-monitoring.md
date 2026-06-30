@@ -12,15 +12,15 @@ breadcrumb: [Synthetic monitoring, ITOM AIOps, IT Operations Management]
 
 # Exploring synthetic monitoring
 
-Learn how [[synthetic-monitoring-landing-page|synthetic monitoring]] provides proactive, automated testing of service endpoints. By simulating user interactions, it can identify bugs, performance issues, and outages before they impact real users.
+Learn how synthetic monitoring provides proactive, automated testing of service endpoints. By simulating user interactions, it can identify bugs, performance issues, and outages before they impact real users.
 
 ## Synthetic monitoring overview
 
 Synthetic monitors continually call HTTP endpoints in the Configuration Management Database \(CMDB\) to test availability, response times, or the presence of a defined string in the response body. When a test fails the configured criteria, it can alert you to endpoint issues before your users do.
 
-For example, you might create a monitor that tests the GET HTTP endpoint of a service. You could configure that monitor to check for a status code of 200 and a response time of under 500 ms. If any code other than `200` is returned or the request takes longer than 500 ms, the test fails. An alert can then be generated and sent through [[c_EM|Event Management]].
+For example, you might create a monitor that tests the GET HTTP endpoint of a service. You could configure that monitor to check for a status code of 200 and a response time of under 500 ms. If any code other than `200` is returned or the request takes longer than 500 ms, the test fails. An alert can then be generated and sent through Event Management.
 
-The synthetic monitoring tests can be run by an [[acc-landing-page|Agent Client Collector]] \(ACC\) deployed in your network, on a MID Server, or on the ServiceNow platform.
+The synthetic monitoring tests can be run by an Agent Client Collector \(ACC\) deployed in your network, on a MID Server, or on the ServiceNow platform.
 
 **Note:** The HTTP endpoints must exist in the HTTP Endpoints \[cmdb\_ci\_endpoint\_http\] table. Endpoints tested from the ServiceNow platform must be publicly accessible.
 
@@ -71,7 +71,7 @@ View aggregate monitor information.View the synthetic monitoring home page where
 
 </td><td>
 
-[[identifying-system-issues|View aggregate information about the monitors]].
+[View aggregate information about the monitors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/identifying-system-issues.md).
 
 </td><td>
 
@@ -100,7 +100,7 @@ Get real-time notifications for outages before they impact users.
 
 </td><td>
 
-[[configuring-synthetic-monitoring|Optionally configure alerts when tests don't succeed.]]
+[Optionally configure alerts when tests don't succeed.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/configuring-synthetic-monitoring.md)
 
 </td><td>
 
@@ -112,7 +112,7 @@ Share insights with stakeholders.
 
 </td><td>
 
-[[view-aggregat-monitor-information|View aggregate monitor information]].
+[View aggregate monitor information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/view-aggregat-monitor-information.md).
 
 </td><td>
 
@@ -124,7 +124,7 @@ Update monitors to match your business needs.
 
 </td><td>
 
-[[manage-synthetic-monitors|Edit existing monitors, including deactivation]].
+[Edit existing monitors, including deactivation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/manage-synthetic-monitors.md).
 
 </td><td>
 
@@ -132,7 +132,7 @@ Service owner
 
 </td></tr><tr><td>
 
-Embed monitor results in a [[service-observability|Service Observability]] dashboard.
+Embed monitor results in a Service Observability dashboard.
 
 </td><td>
 
@@ -149,18 +149,7 @@ To learn more about configuring and using synthetic monitoring, see:
 
 -   [Configuring synthetic monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/configuring-synthetic-monitoring.md)
 -   [Identifying system issues with synthetic monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/identifying-system-issues.md)
--   [[synthetic-monitoring-reference|Synthetic monitoring reference]]
+-   [Synthetic monitoring reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/synthetic-monitoring-reference.md)
 -   -   [Synthetic Monitoring Developer Guide](https://www.servicenow.com/docs/r/api-reference/developer-guides/synth-monitor_dev-guide.html)
 -   [SyntheticsAsyncBulkCreate API](https://www.servicenow.com/docs/r/api-reference/rest-apis/synth-async-api.html)
 
-## Related
-
-- [[identifying-system-issues|Identifying system issues with synthetic monitoring]]
-- [[configuring-synthetic-monitoring|Configuring synthetic monitoring]]
-- [[view-aggregat-monitor-information|View aggregate monitor information]]
-- [[manage-synthetic-monitors|Manage synthetic monitors]]
-- [[synthetic-monitoring-reference|Synthetic monitoring reference]]
-- [[synthetic-monitoring-landing-page|Synthetic monitoring]]
-- [[c_EM|Event Management]]
-- [[acc-landing-page|Agent Client Collector]]
-- [[service-observability|Service Observability]]

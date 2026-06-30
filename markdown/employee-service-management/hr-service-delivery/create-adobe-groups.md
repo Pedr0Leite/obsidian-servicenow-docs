@@ -22,7 +22,7 @@ Role required: sn\_dt\_adobesign.admin
 
 ## Procedure
 
-1.  Navigate to **[[document-templates-overview|Document Templates]]** &gt; **Adobe Sign Integration** &gt; **Adobe Sign Groups**.
+1.  Navigate to **Document Templates** &gt; **Adobe Sign Integration** &gt; **Adobe Sign Groups**.
 
 2.  On the form, fill in the fields:
 
@@ -35,6 +35,4 @@ Role required: sn\_dt\_adobesign.admin
 
 3.  Click **Submit**.
 
-## Related
 
-- [[document-templates-overview|Document Templates]]

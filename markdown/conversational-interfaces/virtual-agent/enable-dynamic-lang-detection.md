@@ -14,7 +14,7 @@ breadcrumb: [Localization options for Virtual Agent, Build and deploy, Virtual A
 
 # Enable Dynamic Translation for languages in Virtual Agent
 
-Enable Dynamic Translation for one or more languages in Chat Settings for [[virtual-agent-landing-page|Virtual Agent]].
+Enable Dynamic Translation for one or more languages in Chat Settings for Virtual Agent.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: virtual\_agent\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings**.
 
 2.  Select **Virtual Agent**.
 
@@ -71,7 +71,3 @@ Role required: virtual\_agent\_admin or admin
 
 **Parent Topic:**[Localization options for Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/multi-language-options-va.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]

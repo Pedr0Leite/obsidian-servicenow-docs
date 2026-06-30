@@ -14,9 +14,9 @@ breadcrumb: [CMDB CI class models, Configuration Management Database \(CMDB\), C
 
 # Network Inventory \(NI\) extension classes
 
-The [[cmdb-ci-class-models|CMDB CI Class Models app]] adds or updates classes for the Telecommunications Network Inventory application. Telecommunications Network Inventory uses the Network Inventory \(NI\) extension classes to extend the [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]] Configuration item \(CI\) class hierarchy.
+The CMDB CI Class Models app adds or updates classes for the Telecommunications Network Inventory application. Telecommunications Network Inventory uses the Network Inventory \(NI\) extension classes to extend the Configuration Management Database \(CMDB\) Configuration item \(CI\) class hierarchy.
 
-CMDB CI Class Models is a ServiceNow Store app that adds class models that extend the CMDB class hierarchy. The new or updated classes include class descriptions, [[c_IdentificationRules|identification rules]], identifier entries, and, if applicable, dependent relationships. You can use the added classes just like any other CMDB class. Applications such as Discovery and Service Mapping Patterns can use the class extensions to populate CIs and discover technologies and software.
+CMDB CI Class Models is a ServiceNow Store app that adds class models that extend the CMDB class hierarchy. The new or updated classes include class descriptions, identification rules, identifier entries, and, if applicable, dependent relationships. You can use the added classes just like any other CMDB class. Applications such as Discovery and Service Mapping Patterns can use the class extensions to populate CIs and discover technologies and software.
 
 See the release notes for all CMDB CI class models.
 
@@ -37,7 +37,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 ## Telecommunications Network Inventory \(NI\) schema structure​
 
-\[Omitted image "network-inventory-CIs.png"\] Alt text: Relationships and [[reference-document-management|references]] in Network Inventory schema.
+\[Omitted image "network-inventory-CIs.png"\] Alt text: Relationships and references in Network Inventory schema.
 
 ## Classes
 
@@ -248,10 +248,3 @@ Logical Connection. Represents the logical or virtual port connections on the ne
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cmdb-ci-class-models|CMDB CI Class Models app]]
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[c_IdentificationRules|Identification rules]]
-- [[reference-document-management|References]]

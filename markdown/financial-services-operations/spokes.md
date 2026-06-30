@@ -12,9 +12,9 @@ breadcrumb: [Integrate, Financial Services Operations \(FSO\)]
 
 # Integrating with spokes
 
-By integrating spokes with the [[fso-overview|Financial Services]] Operations \(FSO\) applications, flow designers can provide the actions within Workflow Studio for specific applications.
+By integrating spokes with the Financial Services Operations \(FSO\) applications, flow designers can provide the actions within Workflow Studio for specific applications.
 
-A spoke is a scoped application containing Workflow Studio content dedicated to a particular application or record type. You can integrate a ServiceNow application with a FSO banking application spoke such as [[fso-integration-with-jha-integthub-landing-page|Financial Services Operations Integration with Jack Henry jXchange]] Socure, or FRISS.
+A spoke is a scoped application containing Workflow Studio content dedicated to a particular application or record type. You can integrate a ServiceNow application with a FSO banking application spoke such as Financial Services Operations Integration with Jack Henry jXchange Socure, or FRISS.
 
 |Plugin name|What you can do|Plugin directory|
 |-----------|---------------|----------------|
@@ -31,10 +31,5 @@ A spoke is a scoped application containing Workflow Studio content dedicated to 
 |[FRISS Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/friss-spoke.md)|Detect fraud and assess risk by analyzing customer data, identifying suspicious activity, and triggering fraud alerts. Integrate these actions into your workflows to enhance fraud prevention.|\[com.sn\_friss\_spoke\]|
 |[Guidewire Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/guidewire-spoke.md)|Manage insurance operations by creating policies, updating claims, and retrieving billing information directly within flows.|\[com.sn\_guidewire\_spoke\]|
 
-**Parent Topic:**[[fso-integrate-other-applications|Integrate applications]]
+**Parent Topic:**[Integrate applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-integrate-other-applications.md)
 
-## Related
-
-- [[fso-integrate-other-applications|Integrate applications]]
-- [[fso-overview|Financial Services]]
-- [[fso-integration-with-jha-integthub-landing-page|Financial Services Operations Integration with Jack Henry jXchange]]

@@ -22,13 +22,13 @@ Role required: sn\_risk.admin
 
 ## About this task
 
-When you create a risk statement, you can associate [[entity-type-in-risk-ws|entity types]] or add additional entities to generate risks.
+When you create a risk statement, you can associate entity types or add additional entities to generate risks.
 
-**Note:** When any of the following risk statement fields changes: Name, Description, Reference, Category, Type, Classification, and Attestation, all the associated controls and risks are updated, and their state is set back to Draft. All the associated [[risk-assessments|risk assessments]] also get canceled.
+**Note:** When any of the following risk statement fields changes: Name, Description, Reference, Category, Type, Classification, and Attestation, all the associated controls and risks are updated, and their state is set back to Draft. All the associated risk assessments also get canceled.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[risk-workspace|Risk Workspace]]** &gt; **Library** &gt; **Risk statements**.
+1.  Navigate to **All** &gt; **Risk Workspace** &gt; **Library** &gt; **Risk statements**.
 
 2.  Click **New**.
 
@@ -72,7 +72,7 @@ Framework
 
 </td><td>
 
-Framework this risk statement is associated with.**Note:** This field only appears if the **Migrate to [[advanced-risk-assessment|Advanced Risk Assessment]]** property is enabled. For more information, see [Risk score rollup in Advanced Risk Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/risk-rollup-ara-concept.md)
+Framework this risk statement is associated with.**Note:** This field only appears if the **Migrate to Advanced Risk Assessment** property is enabled. For more information, see [Risk score rollup in Advanced Risk Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/risk-rollup-ara-concept.md)
 
 </td></tr><tr><td>
 
@@ -251,15 +251,7 @@ The risk statement is created.
 
 ## What to do next
 
-You can continue to add control objectives, indicator templates, and [[information-objects|information objects]] to the risk statement. You can also now assess the risks that are generated in the Risks tab. You can also view the hierarchy of the risks statement on the risk statement side bar. To view the complete [[tprm-risk-profile-what-is|risk profile]] at a glance, click the **Overview** tab.
+You can continue to add control objectives, indicator templates, and information objects to the risk statement. You can also now assess the risks that are generated in the Risks tab. You can also view the hierarchy of the risks statement on the risk statement side bar. To view the complete risk profile at a glance, click the **Overview** tab.
 
 **Parent Topic:**[Create a risk framework in the Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/create-risk-framework.md)
 
-## Related
-
-- [[entity-type-in-risk-ws|Entity types]]
-- [[risk-assessments|risk assessments]]
-- [[risk-workspace|risk workspace]]
-- [[advanced-risk-assessment|advanced risk assessment]]
-- [[information-objects|information objects]]
-- [[tprm-risk-profile-what-is|Risk profile]]

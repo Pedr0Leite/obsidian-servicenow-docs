@@ -41,8 +41,5 @@ The Microsoft 365 for ServiceNow Reporting integration is activated and the foll
 -   **Manage Links**
 -   **Create claim**
 
-**Parent Topic:**[[integrating-o365-with-servicenow|Integrating Microsoft 365 with ServiceNow reporting]]
+**Parent Topic:**[Integrating Microsoft 365 with ServiceNow reporting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/integrating-o365-with-servicenow.md)
 
-## Related
-
-- [[integrating-o365-with-servicenow|Integrating Microsoft 365 with ServiceNow reporting]]

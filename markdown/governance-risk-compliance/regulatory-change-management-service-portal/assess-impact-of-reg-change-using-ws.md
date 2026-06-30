@@ -28,11 +28,11 @@ As a user with the sn\_grc\_reg\_change.user role, you can review the regulatory
 
 1.  Log in with the sn\_grc\_reg\_change.user role.
 
-2.  Navigate to **All** &gt; **[[reg-change-mgmt-landing-page|Regulatory Change Management]]** &gt; **Compliance Workspace**.
+2.  Navigate to **All** &gt; **Regulatory Change Management** &gt; **Compliance Workspace**.
 
     The Regulatory Change Management application in the Compliance Workspace is displayed.
 
-3.  Navigate to **Lists** &gt; **Assigned [[list-view-of-reg-alerts|Regulatory Alerts]]** view.
+3.  Navigate to **Lists** &gt; **Assigned Regulatory Alerts** view.
 
 4.  Select the regulatory event type alert that is assigned to you as the coordinator of the alert.
 
@@ -51,10 +51,5 @@ In the Impact assessments related list, the new impact assessment is listed and 
 
 ## What to do next
 
-See [Manage regulatory change tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/manage-reg-change-tasks-using-ws.md) for information on marking the alert as applicable and managing the [[reg-change-task|regulatory change tasks]].
+See [Manage regulatory change tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/manage-reg-change-tasks-using-ws.md) for information on marking the alert as applicable and managing the regulatory change tasks.
 
-## Related
-
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]
-- [[list-view-of-reg-alerts|Regulatory alerts]]
-- [[reg-change-task|Regulatory change tasks]]

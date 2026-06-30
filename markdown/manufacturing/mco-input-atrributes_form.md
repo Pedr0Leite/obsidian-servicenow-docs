@@ -23,7 +23,7 @@ MCO input attributes form.
 |Max length|Logical limit for the size of string fields. The length determines how the system displays the string fields in the user interface and how to map them to physical database data types.|
 |Default value|Default value of the field for any new record.|
 |Order|Number of orders. This field defines the order in which the input fields appear in the UI.|
-|Reference|Reference field that stores a [[manufacturing-reference|reference]] to a field on another table.|
+|Reference|Reference field that stores a reference to a field on another table.|
 |Choice|Option to enable users to see a list of values.|
 |Application|Name of the application.|
 |Active|Option to set the attribute as active.|
@@ -33,9 +33,5 @@ MCO input attributes form.
 |Text index|Option to determine whether searches index the text in a table.|
 |Audit|Option to enable auditing for a table.|
 
-**Parent Topic:**[[repair-form|Repair form]]
+**Parent Topic:**[Repair form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/repair-form.md)
 
-## Related
-
-- [[repair-form|Repair form]]
-- [[manufacturing-reference|Reference]]

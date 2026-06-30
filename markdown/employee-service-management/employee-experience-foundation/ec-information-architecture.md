@@ -16,7 +16,7 @@ breadcrumb: [Advanced Portal Navigation, Setup Employee Center browse experience
 
 You can now use the out-of-the-box enhanced information architecture for improving content discovery and visibility.
 
-Using the [[adv-portal-navigation-overview|advanced portal navigation]], you can design the primary navigation menu and configure the navigation setup based on employee needs and content priorities. Organize your content into menus or modal windows.
+Using the advanced portal navigation, you can design the primary navigation menu and configure the navigation setup based on employee needs and content priorities. Organize your content into menus or modal windows.
 
 
 
@@ -48,7 +48,7 @@ Use some of the following guidance and tips.
 
     **Note:** You can configure the browse button however the button text is not displayed in the hamburger view. The Browse button display text in the hamburger view is **Browse all**.
 
--   A [[emp-center-quick-link-config|quick links]] related list is available on the root-level for the standard view.
+-   A quick links related list is available on the root-level for the standard view.
 -   A quick links related list is not available on the root-level for the expanded view.
 -   Quick links are fetched when you create portal records.
 
@@ -65,7 +65,3 @@ Use some of the following guidance and tips.
 
 [Configure simplified left navigation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-simplified-nav-as-menu.md)
 
-## Related
-
-- [[adv-portal-navigation-overview|Advanced Portal Navigation]]
-- [[emp-center-quick-link-config|Quick links]]

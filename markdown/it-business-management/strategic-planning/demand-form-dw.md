@@ -14,7 +14,7 @@ breadcrumb: [Forms, Reference, Next Experience for Demand Management in Strategi
 
 # Demand form
 
-The [[demand-form|demand form]] information is used to [[t_CreatingDemands|create a demand]].
+The demand form information is used to create a demand.
 
 <table id="table_olx_smf_cp"><thead><tr><th>
 
@@ -61,9 +61,9 @@ The **Category** field selection determines the selections available in the **Ty
     -   Defect
     -   No Conversion
 
-If the [[agile-landing-page|Agile Development 2.0]] application is active, the Story, Epic, Enhancement, and Defect options are available.
+If the Agile Development 2.0 application is active, the Story, Epic, Enhancement, and Defect options are available.
 
-If the [[alignment-planner-workspace-landing-page|Strategic Planning]] application is active, the EAP Epic, EAP Feature, and EAP Capability options are available.
+If the Strategic Planning application is active, the EAP Epic, EAP Feature, and EAP Capability options are available.
 
 The No Conversion option enables you to use your demand to fund a large project that includes one or more projects, epic, or programs.
 
@@ -117,7 +117,7 @@ Approved start date
 
 The formal date approved by stakeholders for starting the demand. This date is set after prioritization and stakeholder approval and represents the committed and authorized timeline for execution. It’s used for governance and traceability.For example, the approved date to start the database upgrade is 2026-01-10.
 
-This field is carried forward to the **Approved start date** field of the [[create-a-project-form|Project form]] if the demand is converted to a project and remains unchanged, even if the project starts later.This field is highlighted in red if the date is different than the value in the **Start date** field.
+This field is carried forward to the **Approved start date** field of the Project form if the demand is converted to a project and remains unchanged, even if the project starts later.This field is highlighted in red if the date is different than the value in the **Start date** field.
 
 **Note:** If this field is empty while creating a demand, the date from the **Start date** field is inserted.
 
@@ -139,7 +139,7 @@ Start date
 
 </td><td>
 
-The preliminary or estimated date when the work is initially planned to begin. This date helps outline the intended timing for early demand planning and prioritization. You can set this date during initial demand creation or anytime in the planning phase when a rough idea [[form-field-information-for-dw|forms]]. This date can be updated until the demand is officially approved. For example, you’re planning for a database upgrade to start on 2025-11-01.
+The preliminary or estimated date when the work is initially planned to begin. This date helps outline the intended timing for early demand planning and prioritization. You can set this date during initial demand creation or anytime in the planning phase when a rough idea forms. This date can be updated until the demand is officially approved. For example, you’re planning for a database upgrade to start on 2025-11-01.
 
 This date is changed to **Planned start date** when the demand is converted to a project.**Note:**
 
@@ -273,7 +273,7 @@ Business unit to which the demand submitter belongs.
 
 </td></tr><tr><td>
 
-Impacted [[c_BusinessUnits|Business Units]]
+Impacted Business Units
 
 </td><td>
 
@@ -293,7 +293,7 @@ Business Capabilities
 
 </td><td>
 
-Business capabilities associated with the demand that links the demand to organizational goals and value. Business capabilities are defined in the Enterprise Architecture \(formerly Application [[c_PortfolioManagement|Portfolio Management]]\) module.
+Business capabilities associated with the demand that links the demand to organizational goals and value. Business capabilities are defined in the Enterprise Architecture \(formerly Application Portfolio Management\) module.
 
 </td></tr><tr><td>
 
@@ -415,7 +415,7 @@ Rate Model
 
 </td><td>
 
-Rate model assigned to the demand. This setting is used to derive hourly rates for the associated resource assignments and [[c_TimeCards|time cards]]. For more information, see [Rate Models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/rate-model/rate-model.md).**Note:** If the rate model assigned to the demand is changed or removed, the cost fields on the associated resource assignments aren’t recalculated.
+Rate model assigned to the demand. This setting is used to derive hourly rates for the associated resource assignments and time cards. For more information, see [Rate Models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/rate-model/rate-model.md).**Note:** If the rate model assigned to the demand is changed or removed, the cost fields on the associated resource assignments aren’t recalculated.
 
 </td></tr><tr><td>
 
@@ -527,7 +527,7 @@ Demand Actual Cost
 
 </td><td>
 
-Total cost incurred while working on a demand and [[demand-task|demand tasks]]. Demand actual cost is calculated after the assignee of the demand task creates and submits a time card. When the time card is approved, the resource rate, which is derived from the rate card, labor rate, or system properties, is used to populate this field.
+Total cost incurred while working on a demand and demand tasks. Demand actual cost is calculated after the assignee of the demand task creates and submits a time card. When the time card is approved, the resource rate, which is derived from the rate card, labor rate, or system properties, is used to populate this field.
 
 </td></tr><tr><td>
 
@@ -608,7 +608,7 @@ Option for enabling the assessments for the demand. This option is active by def
 |-----|-----------|
 |Watch list|The groups and users subscribed to the demand who can view the information in the **Additional comments** field.|
 |Work notes list|The groups and users subscribed to the demand who can view the information in the **Work notes** field.|
-|Work notes|Information about the demand. This information isn’t visible to customers. Work notes are added throughout the [[c_DemandManagement|demand management]] life cycle to communicate with other users associated with the demand.|
+|Work notes|Information about the demand. This information isn’t visible to customers. Work notes are added throughout the demand management life cycle to communicate with other users associated with the demand.|
 
 <table id="table_abw_5j3_fdc"><thead><tr><th>
 
@@ -652,16 +652,3 @@ Determines the calculation to use for task dependencies for the project when the
 |Product|Product or system that the demand relates to.|
 |Impacted AI systems|Impacted AI systems associated with the demand. You can select existing AI systems from the list or remove systems that are no longer relevant.|
 
-## Related
-
-- [[demand-form|Demand form]]
-- [[t_CreatingDemands|Create a demand]]
-- [[agile-landing-page|Agile Development 2.0]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[create-a-project-form|Project form]]
-- [[form-field-information-for-dw|Forms]]
-- [[c_BusinessUnits|Business units]]
-- [[c_PortfolioManagement|Portfolio Management]]
-- [[c_TimeCards|Time cards]]
-- [[demand-task|Demand tasks]]
-- [[c_DemandManagement|Demand Management]]

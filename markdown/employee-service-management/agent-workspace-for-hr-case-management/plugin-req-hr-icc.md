@@ -28,7 +28,7 @@ The following plugins are required to deploy the call control integration with t
 
     -   Glide Conversation Server \(com.glide.cs\)
     -   Glide Conversation Server Custom Adapter \(com.glide.cs.custom.adapter\)
-    -   [[appointment-booking|Appointment Booking]] \(com.snc.appointment\_booking\) is required for callback integrations.
+    -   Appointment Booking \(com.snc.appointment\_booking\) is required for callback integrations.
     -   Openframe \(com.sn\_openframe\)
     App dependency:
 
@@ -47,6 +47,4 @@ The following plugins are required to deploy the call control integration with t
     -   [External Agent Management Util Pack](https://store.servicenow.com/sn_appstore_store.do#!/store/application/9b13f51343083110bbf3b50afbb8f2f9/1.1.0?referer=%2Fstore%2Fsearch%3Flistingtype%3Dallintegrations%25253Bancillary_app%25253Bcertified_apps%25253Bcontent%25253Bindustry_solution%25253Boem%25253Butility%25253Btemplate%25253Bgenerative_ai%25253Bsnow_solution%26q%3DExternal%2520Agent%2520Mapping%2520Utility%2520Pack&sl=sh)
     **Note:** Address the Contact Center Integration Core plugin dependencies prior to downloading the plugin.
 
-## Related
 
-- [[appointment-booking|Appointment Booking]]

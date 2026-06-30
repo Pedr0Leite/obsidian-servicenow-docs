@@ -12,7 +12,7 @@ breadcrumb: [Operational Technology Discovery, Operational Technology]
 
 # Operational Technology Native Discovery components
 
-The ServiceNow® Discovery for [[operational-technology-overview|Operational Technology]] \(OT\) Native components provide a solution that gives you visibility of your OT devices and imports your device data into ServiceNow using the Service Graph Connector for ServiceNow OT Discovery. Using the OT components, that is, the Discovery Console for OT, Discovery Sensor for OT, and OT Discovery Collector, you can monitor and query your devices within the OT environment.
+The ServiceNow® Discovery for Operational Technology \(OT\) Native components provide a solution that gives you visibility of your OT devices and imports your device data into ServiceNow using the Service Graph Connector for ServiceNow OT Discovery. Using the OT components, that is, the Discovery Console for OT, Discovery Sensor for OT, and OT Discovery Collector, you can monitor and query your devices within the OT environment.
 
 ## Operational Technology Native Discovery components
 
@@ -20,35 +20,28 @@ The ServiceNow® Discovery for [[operational-technology-overview|Operational Tec
 
 Discover\[Omitted image "BUS\_64px\_Explore\_YG.png"\] Alt text:
 
- [[explore-ot-console|Explore the Discovery Console for Operational Technology \(OT\)]]
+ [Explore the Discovery Console for Operational Technology \(OT\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/explore-ot-console.md)
 
 </td><td>
 
 Explore\[Omitted image "BUS\_64px\_SDLC\_YG.png"\] Alt text:
 
- [[explore-ot-sensor|Explore the Discovery Sensor for OT]]
+ [Explore the Discovery Sensor for OT](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/explore-ot-sensor.md)
 
 </td></tr><tr><td>
 
 Search\[Omitted image "BUS\_64px\_Rocketship\_YG.png"\] Alt text:
 
- [[ot-discovery-collectors-landing|Operational Technology Discovery Collector]]
+ [Operational Technology Discovery Collector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/ot-discovery-collectors-landing.md)
 
 </td><td>
 
 Connect\[Omitted image "BUS\_64px\_Integration-and-APIs\_YG.png"\] Alt text:
 
- [[sgc-ot-discovery|Service Graph Connector for ServiceNow Operational Technology \(OT\) Discovery]]
+ [Service Graph Connector for ServiceNow Operational Technology \(OT\) Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/sgc-ot-discovery.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
 
 If you have any errors or difficulties while using the Operational Technology components, [Contact Customer Service and Support.](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[explore-ot-console|Explore the Discovery Console for Operational Technology \(OT\)]]
-- [[explore-ot-sensor|Explore the Discovery Sensor for OT]]
-- [[ot-discovery-collectors-landing|Operational Technology Discovery Collector]]
-- [[sgc-ot-discovery|Service Graph Connector for ServiceNow Operational Technology \(OT\) Discovery]]
-- [[operational-technology-overview|Operational Technology]]

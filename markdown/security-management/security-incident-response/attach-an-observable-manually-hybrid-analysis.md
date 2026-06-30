@@ -14,7 +14,7 @@ breadcrumb: [Hybrid Analysis integration, Security Incident Response integration
 
 # \(Optional\) Manually attach an observable for Hybrid Analysis
 
-You can manually attach [[c_Observables|observables]] when you want to perform threat lookups on observables that are not attached to a security incident on the initial event trigger. Also, you might perform this task when you want more information about a related observable.
+You can manually attach observables when you want to perform threat lookups on observables that are not attached to a security incident on the initial event trigger. Also, you might perform this task when you want more information about a related observable.
 
 ## Before you begin
 
@@ -54,7 +54,7 @@ Role required: sn\_si.analyst
 
 8.  At the bottom of the record, click the **Show All Related Lists** related link.
 
-9.  Click the **[[tisc-threat-lookup|Threat Lookup]] Results** tab to view the results.
+9.  Click the **Threat Lookup Results** tab to view the results.
 
     \[Omitted image "hybridanalysis-lookup-results.png"\] Alt text: Threat lookup results tab.
 
@@ -72,7 +72,7 @@ Role required: sn\_si.analyst
 
     You are returned to the security incident.
 
-14. In the far left column, select the observables you want to run the lookup on, and from the **Actions on selected rows...** choice list, select **[[tisc-run-threat-lookup|Run threat lookup]]**.
+14. In the far left column, select the observables you want to run the lookup on, and from the **Actions on selected rows...** choice list, select **Run threat lookup**.
 
     A message is displayed across the top of the record that the request is being processed. Verify that the lookup has run successfully.
 
@@ -85,8 +85,3 @@ Review the work notes for more information and how to proceed if you cannot veri
 
 **Next topic:**[IBM QRadar Offense Ingestion Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/qradar-ibm.md)
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[tisc-threat-lookup|Threat Lookup]]
-- [[tisc-run-threat-lookup|Run Threat Lookup]]

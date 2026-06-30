@@ -45,7 +45,7 @@ RMF consists of the seven steps illustrated here.
 
 ## What to explore next
 
-To learn more about configuring and [[using-grc-cam|using CAM]], see:
+To learn more about configuring and using CAM, see:
 
 -   [Configuring CAM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/configuring-grc-cam.md)
 -   [RMF step 0 - Prepare the authorization package](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/prepare-auth-pkg.md)
@@ -57,6 +57,3 @@ To learn more about configuring and [[using-grc-cam|using CAM]], see:
 -   [Continuous authorization and monitoring tasks in the CAM Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/cam-ws-continuous-auth-monitor.md)
 -   [CAM reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/reference-grc-cam.md)
 
-## Related
-
-- [[using-grc-cam|Using CAM]]

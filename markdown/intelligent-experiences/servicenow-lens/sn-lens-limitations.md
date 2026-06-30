@@ -14,7 +14,7 @@ breadcrumb: [Reference, ServiceNow AI Lens, Enable AI experiences]
 
 # ServiceNow AI Lens limitations
 
-Be aware of a few limitations when you’re using the [[servicenow-lens-landing-page|ServiceNow AI Lens]] application.
+Be aware of a few limitations when you’re using the ServiceNow AI Lens application.
 
 <table id="table_ptl_hjd_w2c"><thead><tr><th>
 
@@ -56,7 +56,7 @@ Language
 
 When you change the language on the ServiceNow instance, the language of the ServiceNow AI Lens is automatically changed. But, if you have already started a ServiceNow AI Lens session and then you change the language on the instance, the language doesn't change automatically until you launch a new session. This behavior is standard for the ServiceNow AI Platform.
 
-When [[servicenow-lens-use|using ServiceNow AI Lens]] to scan non-English documents—such as invoices in Chinese— you may notice inconsistencies in translation, formatting, or data extraction. These discrepancies result from limitations in how the underlying LLM processes different locales.
+When using ServiceNow AI Lens to scan non-English documents—such as invoices in Chinese— you may notice inconsistencies in translation, formatting, or data extraction. These discrepancies result from limitations in how the underlying LLM processes different locales.
 
 </td></tr><tr><td>
 
@@ -85,7 +85,3 @@ If the large language model \(LLM\) returns text that doesn’t exist in the sou
 </td></tr></tbody>
 </table>**Parent Topic:**[ServiceNow AI Lens reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/servicenow-lens-reference.md)
 
-## Related
-
-- [[servicenow-lens-landing-page|ServiceNow AI Lens]]
-- [[servicenow-lens-use|Using ServiceNow AI Lens]]

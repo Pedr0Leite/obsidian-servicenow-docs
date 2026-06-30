@@ -15,11 +15,11 @@ breadcrumb: [Configure authentication factors for AI voice agents, Authenticatio
 
 # SMS One-time passcode \(OTP\) authentication
 
-SMS one-time password \(OTP\) [[c_Authentication|authentication]] is a method used to verify user [[identity-landing|identity]] by sending a temporary, numeric code to the user's registered mobile number. The user enters this code to complete authentication.
+SMS one-time password \(OTP\) authentication is a method used to verify user identity by sending a temporary, numeric code to the user's registered mobile number. The user enters this code to complete authentication.
 
 ## Use case
 
--   Serves as a secondary authentication factor, particularly for [[users|users]] without authenticator apps.
+-   Serves as a secondary authentication factor, particularly for users without authenticator apps.
 -   Recommended for medium-risk scenarios, such as verifying changes to profile information and approving login attempts.
 
 ## Key strengths
@@ -38,11 +38,5 @@ While SMS method is a convenient authentication method, there are several consid
 -   Reliant on mobile network availability.
 -   Not recommended as the sole authentication factor for high-risk or sensitive operations.
 
-SMS OTP can enhance overall security when used appropriately. For detailed [[sc-configuration|configuration]] instructions, see [Multi-factor authentication Providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/multi-factor-authentication-providers.md).
+SMS OTP can enhance overall security when used appropriately. For detailed configuration instructions, see [Multi-factor authentication Providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/multi-factor-authentication-providers.md).
 
-## Related
-
-- [[c_Authentication|Authentication]]
-- [[identity-landing|Identity]]
-- [[users|Users]]
-- [[sc-configuration|Configuration]]

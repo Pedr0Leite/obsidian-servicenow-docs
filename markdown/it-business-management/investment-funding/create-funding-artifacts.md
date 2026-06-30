@@ -22,7 +22,7 @@ Role required: sn\_invst\_pln\_v2.investment\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[investment-funding-overview|Investment Funding]]** &gt; **Setup** &gt; **Investment Entities**.
+1.  Navigate to **All** &gt; **Investment Funding** &gt; **Setup** &gt; **Investment Entities**.
 
 2.  Open an investment entity for which you want to create a related link.
 
@@ -39,6 +39,3 @@ The **Add/View Investments** related link appears on the form of the investment 
 
 **Parent Topic:**[Create an investment entity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/investment-funding/create-funding-entity.md)
 
-## Related
-
-- [[investment-funding-overview|Investment Funding]]

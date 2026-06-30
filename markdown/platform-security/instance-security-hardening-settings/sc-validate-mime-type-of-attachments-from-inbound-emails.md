@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -94,7 +94,7 @@ Security risk
 
 -   Severity score: 3.7
 -   CVSS score: Low
--   Security risk details: If MIME type validation does not occur, [[users|users]] can upload an unexpected type of file to your instance, resulting in potential vulnerabilities where the attachment is handled.
+-   Security risk details: If MIME type validation does not occur, users can upload an unexpected type of file to your instance, resulting in potential vulnerabilities where the attachment is handled.
 
 </td></tr><tr><td>
 
@@ -115,8 +115,3 @@ Attachments from inbound emails are not uploaded if the MIME type does not valid
 </td></tr></tbody>
 </table>**Parent Topic:**[File and resources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-file-resources.md)
 
-## Related
-
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]
-- [[users|Users]]

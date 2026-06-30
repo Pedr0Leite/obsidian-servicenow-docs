@@ -14,7 +14,7 @@ breadcrumb: [Install Zoom extension for Omnichannel Callback, Zoom extension for
 
 # Components installed with Zoom extension for Omnichannel Callback
 
-Several types of components are installed with the [[zoom-extension-omni-callback|Zoom extension for Omnichannel Callback]] application.
+Several types of components are installed with the Zoom extension for Omnichannel Callback application.
 
 ## Script includes
 
@@ -92,7 +92,3 @@ Makes the agent the host when the interaction is accepted by the agent.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[zoom-extension-omni-callback|Zoom extension for Omnichannel Callback]]

@@ -18,7 +18,7 @@ Deployment scenarios for OT Discovery vary based on a network's architecture. Us
 
 ## General recommendations
 
-General recommendations and guidance are listed in each scenario in these sections. Not all networks are the same. The requirements in this section are a generalization for the scenario. Consider factors such as segmentation level, communication pathways, network traffic, redundancy, and environmental conditions. For resource recommendations for the [[operational-technology-discovery-landing|Operational Technology Discovery]] components see the [Resources for OT Discovery System](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/deployment-scenarios.md) section.
+General recommendations and guidance are listed in each scenario in these sections. Not all networks are the same. The requirements in this section are a generalization for the scenario. Consider factors such as segmentation level, communication pathways, network traffic, redundancy, and environmental conditions. For resource recommendations for the Operational Technology Discovery components see the [Resources for OT Discovery System](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/deployment-scenarios.md) section.
 
 ## Flat network architecture across multiple sites
 
@@ -47,7 +47,7 @@ A segmented site architecture is a network design that has the network split int
 
 In this OT environment, the network is segmented into three distinct zones for operational clarity, security, and control:
 
--   Site 1 [[operational-technology-overview|Operational Technology]] segment
+-   Site 1 Operational Technology segment
 -   Site 2 Operational Technology segment
 -   Physical Security Network segment
 
@@ -91,7 +91,7 @@ Discovery Console for OT
 -   2 CPUs
 
 </td></tr></tbody>
-</table>For additional requirements for the Console, see [[reqs-ot-console-installation|Requirements for Discovery Console for OT installation]] and [[install-discovery-console-ot|Install the Discovery Console for OT]].
+</table>For additional requirements for the Console, see [Requirements for Discovery Console for OT installation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/reqs-ot-console-installation.md) and [Install the Discovery Console for OT](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/install-discovery-console-ot.md).
 
 <table id="table_sensor_requirements"><thead><tr><th>
 
@@ -139,7 +139,7 @@ The OT Discovery Collector installation is compatible with Windows 10 or Windows
 
  The required Windows \(10 or 11\) environment for the OT Discovery Collector is x86\_64. ARM or Apple Silicon devices are not supported.
 
- See [[installing-collector-on-windows|Install the OT Discovery Collector on a Windows system]].
+ See [Install the OT Discovery Collector on a Windows system](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/installing-collector-on-windows.md).
 
 </td></tr><tr><td>
 
@@ -147,16 +147,7 @@ Linux
 
 </td><td>
 
-See [[linux-install-ot-discovery-collector|Install OT Discovery Collector on a Linux system]] for specific information.
+See [Install OT Discovery Collector on a Linux system](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/linux-install-ot-discovery-collector.md) for specific information.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[reqs-ot-console-installation|Requirements for Discovery Console for OT installation]]
-- [[install-discovery-console-ot|Install the Discovery Console for OT]]
-- [[installing-collector-on-windows|Install the OT Discovery Collector on a Windows system]]
-- [[linux-install-ot-discovery-collector|Install OT Discovery Collector on a Linux system]]
-- [[operational-technology-discovery-landing|Operational Technology Discovery]]
-- [[operational-technology-overview|Operational Technology]]

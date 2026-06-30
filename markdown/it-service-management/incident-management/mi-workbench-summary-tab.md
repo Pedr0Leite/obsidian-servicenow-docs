@@ -27,7 +27,7 @@ The tab also provides a quantitative summary of the active and completed tasks, 
 The **Time remaining** column provides information regarding the time when the communication task is due.
 
 -   If you do not perform the communication task within the set time, the value changes to **Overdue**.
--   If you activate the [[c_OnCallScheduling|On-call Scheduling]] plugin \(com.snc.on\_call\_rotation\): The user who is on-call for the respective group and the group name appear in the summary.
+-   If you activate the On-call Scheduling plugin \(com.snc.on\_call\_rotation\): The user who is on-call for the respective group and the group name appear in the summary.
 
 The Groups section displays On-Call information, including the On-Call Escalation Tracking icon \(\[Omitted image "icon-esc-tracking-oncall.png"\] Alt text: On-Call Escalation Tracking icon\) that indicates the active status of the escalation. Green indicates an active escalation, and black indicates a finished escalation. Click the icon to view the On-Call Escalation Tracking pop-up.
 
@@ -44,6 +44,3 @@ Activate the Event Management plugin \(com.glideapp.itom.snac\) to add an **Aler
 
 [Major Incident workbench — the Collaborate tab]()
 
-## Related
-
-- [[c_OnCallScheduling|On-Call Scheduling]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure financials for planning items Strategic Planning, Configu
 
 # Enable financial budget allocation for planning items in Strategic Planning
 
-Enable allocation property after migrating to Next Experience to work on budget allocation for your planning items using [[alignment-planner-workspace-landing-page|Strategic Planning]].
+Enable allocation property after migrating to Next Experience to work on budget allocation for your planning items using Strategic Planning.
 
 ## Before you begin
 
@@ -34,6 +34,3 @@ Enable allocation property after migrating to Next Experience to work on budget 
 
 Configure budget attributes to work on managing budget of your planning items. For more information, see [Configure budget attribute at instance-level to allocate budget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/config-budget-allocation-attribute-spw.md).
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

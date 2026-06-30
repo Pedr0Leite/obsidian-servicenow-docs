@@ -14,7 +14,7 @@ breadcrumb: [Operational Technology]
 
 # Operational Technology Knowledge Management
 
-ServiceNow® Operational Technology Knowledge Management can help you collect, organize, and share knowledge about your [[operational-technology-overview|Operational Technology]] \(OT\) system, its devices, and the resolved incidents within your organization.
+ServiceNow® Operational Technology Knowledge Management can help you collect, organize, and share knowledge about your Operational Technology \(OT\) system, its devices, and the resolved incidents within your organization.
 
 <table id="table_e3m_qbq_3rb" class="nav-card"><tbody><tr><td>
 
@@ -30,12 +30,7 @@ ServiceNow® Operational Technology Knowledge Management can help you collect, o
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about [[mpm-related-information|related information]] and applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-knowledge-management/operational-technology-knowledge-management-reference-landing-page.md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about related information and applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-knowledge-management/operational-technology-knowledge-management-reference-landing-page.md)
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[mpm-related-information|Related information]]

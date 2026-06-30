@@ -62,7 +62,7 @@ In these steps, you create a Workflow Studio workflow to create a text file on y
 
     **Warning:** When dragging the pill into the field, select the pill and not the black arrow next to the pill.
 
-11. In the **SSH [[sc-configuration|Configuration]]** section, enter the following value into the **Command** field.
+11. In the **SSH Configuration** section, enter the following value into the **Command** field.
 
     ```
     /bin/date > sm_ig_text_file.txt
@@ -75,9 +75,5 @@ In these steps, you create a Workflow Studio workflow to create a text file on y
 12. Select the **Save** button to save the workflow.
 
 
-**Parent Topic:**[[client-access-secret-landing|Configuring client accessible secrets]]
+**Parent Topic:**[Configuring client accessible secrets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/client-access-secret-landing.md)
 
-## Related
-
-- [[client-access-secret-landing|Configuring client accessible secrets]]
-- [[sc-configuration|Configuration]]

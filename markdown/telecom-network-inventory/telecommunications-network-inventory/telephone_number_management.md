@@ -31,17 +31,13 @@ To learn more, see [Telephone number inventory management data model](https://ra
 
 ## Use case of a telephone system
 
-Let's say that a network operator has a large series of numbers that include ported in, third party, owned numbers, and other types of numbers. To manage these numbers, an inventory number manager can [[create_telephone_block|create a telephone block]]. To learn more, see [Create a telephone block](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create_telephone_block.md).
+Let's say that a network operator has a large series of numbers that include ported in, third party, owned numbers, and other types of numbers. To manage these numbers, an inventory number manager can create a telephone block. To learn more, see [Create a telephone block](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create_telephone_block.md).
 
 Now, a customer that has Voice over Internet Protocol \(VoIP\) or Unified Communication as a Service \(UCaas\)-based services submits a request to the operator for a series of numbers. The requested series of numbers belong to three different areas, countries, or a series of numbers.
 
-To fulfill the earlier scenario, an inventory agent can [[create_telephone_allocation|create a telephone number allocation]] or create a telephone number for an area or region in a particular block. To learn more, see [Create a telephone number allocation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create_telephone_allocation.md) and [Create a telephone number to an area or region](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create_telephone_number.md). This process helps an operator to identify the following issues:
+To fulfill the earlier scenario, an inventory agent can create a telephone number allocation or create a telephone number for an area or region in a particular block. To learn more, see [Create a telephone number allocation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create_telephone_allocation.md) and [Create a telephone number to an area or region](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create_telephone_number.md). This process helps an operator to identify the following issues:
 
 -   Availability of a number by using telephone number allocation
 -   Ported-in and ported-out numbers
 -   Numbers assigned to a country or to an area
 
-## Related
-
-- [[create_telephone_block|Create a telephone block]]
-- [[create_telephone_allocation|Create a telephone number allocation]]

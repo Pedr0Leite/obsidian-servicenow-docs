@@ -14,7 +14,7 @@ breadcrumb: [Overview, Continual Improvement Management, IT Service Management]
 
 # Applications integrated with Continual Improvement Management
 
-CIM provides integrations with other ServiceNow® [[dex-workspace-application-tab|applications]] to enable you to create improvement initiatives from these applications. You can also create records for integrated applications from improvement initiatives.
+CIM provides integrations with other ServiceNow® applications to enable you to create improvement initiatives from these applications. You can also create records for integrated applications from improvement initiatives.
 
 You can link multiple tasks from integrated applications to a single CIM task and link multiple CIM tasks to a single integrated application task.
 
@@ -37,7 +37,7 @@ For more information, see [Create improvement initiatives from integrated applic
 ## Application records you can create from improvement initiatives
 
 -   Change record \([Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/c_ITILChangeManagement.md)\)
--   [[cf-coaching-landing|Coaching]] opportunity \([Coaching opportunity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-create-coaching-opportunity.md)\)
+-   Coaching opportunity \([Coaching opportunity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-create-coaching-opportunity.md)\)
 -   Knowledge base article \([Create a knowledge article](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/create-knowledge-article.md)\)
 -   Demand record \([Demand Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/c_DemandManagement.md)\)
 -   Project \([Project Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/c_ProjectApplicationOverview.md)\)
@@ -84,7 +84,3 @@ Integrate CIM with other applications by using the CIMIntegrationAPI extension p
 
 [Using client extension points in client-side UI scripting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/client-extension-points.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[cf-coaching-landing|Coaching]]

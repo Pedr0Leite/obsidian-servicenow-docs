@@ -146,18 +146,14 @@ The following table shows the available actions in the Customer 360 page.
 |Ask Now Assist|Opens the Now Assist panel and initiates the Banking CSR customer insights AI agent. This agent uses the customer's profile and financial data to surface insights. See [Agentic Contact Center for Banking AI agents overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/agentic-contact-center-for-banking-agents-overview.md) for more information.|
 |Create case|Opens the **Create new case** window to create a case for the customer.|
 
-**Parent Topic:**[[exploring-agentic-contact-center-for-banking|Exploring Agentic Contact Center for Banking]]
+**Parent Topic:**[Exploring Agentic Contact Center for Banking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/exploring-agentic-contact-center-for-banking.md)
 
 **Related topics**  
 
 
 [Exploring Agentic Contact Center for Banking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/exploring-agentic-contact-center-for-banking.md)
 
-[[interaction-workspace-for-agentic-contact-center-for-banking|Interaction page for Agentic Contact Center for Banking]]
+[Interaction page for Agentic Contact Center for Banking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/interaction-workspace-for-agentic-contact-center-for-banking.md)
 
 [CSM Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-workspaces-configure.md)
 
-## Related
-
-- [[exploring-agentic-contact-center-for-banking|Exploring Agentic Contact Center for Banking]]
-- [[interaction-workspace-for-agentic-contact-center-for-banking|Interaction page for Agentic Contact Center for Banking]]

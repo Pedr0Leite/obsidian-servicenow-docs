@@ -14,7 +14,7 @@ breadcrumb: [KPI Composer projects, Design your indicator solution, Configure fu
 
 # Create a KPI Composer project
 
-As the first step in using KPI Composer, [[create-project|create a project]].
+As the first step in using KPI Composer, create a project.
 
 ## Before you begin
 
@@ -43,6 +43,3 @@ As you work on the project, keep track collaboratively in the Project Journal.
 
 **Next topic:**[Define properties for a project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/define-properties-project.md)
 
-## Related
-
-- [[create-project|Create a project]]

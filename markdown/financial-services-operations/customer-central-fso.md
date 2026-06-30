@@ -14,7 +14,7 @@ breadcrumb: [Explore, Financial Services Operations \(FSO\)]
 
 Customer Central provides agents or contributors with all the information about the customer in one central place. It enables them to focus on the customer issue and provide efficient and supportive services to their customers.
 
-As an agent or contributor, you can view Customer Central on customer records in the [[fso-overview|Financial Services]] Operations \(FSO\) workspace on the **Customer Information** tab.
+As an agent or contributor, you can view Customer Central on customer records in the Financial Services Operations \(FSO\) workspace on the **Customer Information** tab.
 
 ## Activate Customer Central for FSO
 
@@ -32,6 +32,3 @@ The **Customer Information** tab displays key information about the customer and
 
 For more information, see [Configure Customer Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-customer-central.md).
 
-## Related
-
-- [[fso-overview|Financial Services]]

@@ -37,11 +37,11 @@ An organization plans to make their ServiceNow instance the single system of rec
 
 The solution is to create an Orchestration workflow that pushes changes from the ServiceNow user record down to the Active Directory to create a new user record or update an existing record. This is accomplished by creating an Orchestration workflow that can create and update records in Active Directory based on the data in the ServiceNow User \[sys\_user\] table.
 
-**Note:** This example workflow assumes that ServiceNow is configured for LDAP and an LDAP server is configured to accept the new user accounts. The Active Directory user management activities are not dependent on LDAP, but the presence of LDAP makes this example workflow much easier. You must provide the domain controller's [[ip-address|IP address]] to the workflow, either by hardcoding it, adding another workflow input, or using a script to look it up from the CMDB.
+**Note:** This example workflow assumes that ServiceNow is configured for LDAP and an LDAP server is configured to accept the new user accounts. The Active Directory user management activities are not dependent on LDAP, but the presence of LDAP makes this example workflow much easier. You must provide the domain controller's IP address to the workflow, either by hardcoding it, adding another workflow input, or using a script to look it up from the CMDB.
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **Workflow** &gt; **[[workflow-editor|Workflow Editor]]**.
+1.  Navigate to **All** &gt; **Workflow** &gt; **Workflow Editor**.
 
 2.  In the **Workflow** tab, click the **+** icon to create a new workflow using these variables:
 
@@ -68,7 +68,7 @@ The solution is to create an Orchestration workflow that pushes changes from the
 
 7.  In the **Custom** tab, expand **Custom Activities** &gt; **Active Directory**.
 
-8.  Drag and drop the [[r_UpdateADObject|Update AD Object activity]] onto the transition line between the Begin and End points of the new workflow.
+8.  Drag and drop the Update AD Object activity onto the transition line between the Begin and End points of the new workflow.
 
     This action automatically links the activity with the end point and opens the Workflow Activity property form.
 
@@ -96,7 +96,7 @@ Domain controller
 
 </td><td>
 
-The ServiceNow LDAP integration adds a [[reference|reference]] to the LDAP server to which the user's account is linked. To identify the LDAP server, enter the following statement:`${workflow.inputs.u_user.ldap_server.server_url}`
+The ServiceNow LDAP integration adds a reference to the LDAP server to which the user's account is linked. To identify the LDAP server, enter the following statement:`${workflow.inputs.u_user.ldap_server.server_url}`
 
 </td></tr><tr><td>
 
@@ -135,7 +135,7 @@ Updates the user's account in Active Directory, if the user exists. In this exam
 
     **Note:** In a normal workflow, some type of alternate action is desirable upon failure. For example, you might send an [Email and SMS notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailNotifications.md) if the workflow failed to update the record.
 
-12. To prevent the workflow from failing, add a [[r_CreateADObject|Create AD Object activity]] to the transition lines between Begin and the Update AD Object activity.
+12. To prevent the workflow from failing, add a Create AD Object activity to the transition lines between Begin and the Update AD Object activity.
 
 13. Complete the Workflow Activity property form using the fields in the table.
 
@@ -149,7 +149,7 @@ Updates the user's account in Active Directory, if the user exists. In this exam
 
 14. Click **Submit**.
 
-15. [[c_Connect|Connect]] the Failure outcome of the Create AD Object activity to End.
+15. Connect the Failure outcome of the Create AD Object activity to End.
 
     For this example, we are ignoring errors. The workflow now looks like this:
 
@@ -157,7 +157,7 @@ Updates the user's account in Active Directory, if the user exists. In this exam
 
     This procedure builds a simple workflow that creates a bare-bones Active Directory account consisting of a user name only. The workflow then updates that account with additional information provided by the ServiceNow User \[sys\_user\] table. However, we do not want to execute the Create AD Object activity if the user account already exists. The workflow needs to query Active Directory for matching user records and then branch the workflow based on the results of the query. If an account already exists, then the workflow should update the account. If the account does not exist, then the workflow should create the account in Active Directory.
 
-16. Drag and drop the [[r_QueryAD|Query AD activity]] onto the transition between Begin and Create AD Object.
+16. Drag and drop the Query AD activity onto the transition between Begin and Create AD Object.
 
 17. Complete the Workflow Activity property form using the fields in the table.
 
@@ -218,7 +218,7 @@ An LDAP filter string that defines the search parameters. Use any valid LDAP fil
 
 21. Drag a standard If activity from the Conditions folder in the **Core** tab and drop it onto the transition between Query AD and Update AD Object.
 
-22. Complete the Workflow Activity [[properties-form-survey-designer|properties form]] using the fields in the table.
+22. Complete the Workflow Activity properties form using the fields in the table.
 
 <table id="table_ib2_qqr_gq"><thead><tr><th>
 
@@ -242,7 +242,7 @@ Advanced
 
 </td><td>
 
-Select this [[check-box|check box]] to open the Script field.
+Select this check box to open the Script field.
 
 </td></tr><tr><td>
 
@@ -269,14 +269,4 @@ For the If activity to work correctly, we must return a **yes** or **no** in the
 
     \[Omitted image "WorkflowExample4.png"\] Alt text: Creating the conditional paths
 
-## Related
 
-- [[ip-address|IP Address]]
-- [[workflow-editor|Workflow editor]]
-- [[r_UpdateADObject|Update AD Object activity]]
-- [[reference|Reference]]
-- [[r_CreateADObject|Create AD Object activity]]
-- [[c_Connect|Connect]]
-- [[r_QueryAD|Query AD activity]]
-- [[properties-form-survey-designer|Properties form]]
-- [[check-box|Check box]]

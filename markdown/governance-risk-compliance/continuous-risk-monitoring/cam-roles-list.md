@@ -44,11 +44,11 @@ Responsible for accepting an information system into an operational environment 
 
 </td></tr><tr><td>
 
-[[grc-cam-landing-page|Continuous Authorization and Monitoring]] administrator\(sn\_irm\_cont\_auth.admin\)
+Continuous Authorization and Monitoring administrator\(sn\_irm\_cont\_auth.admin\)
 
 </td><td>
 
-Responsible for all system [[Administration|administration]] duties in the CAM application.
+Responsible for all system administration duties in the CAM application.
 
 </td><td>
 
@@ -185,7 +185,3 @@ Responsible for performing actual work in the system. They can update authorizat
 </td></tr></tbody>
 </table>**Parent Topic:**[CAM reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/reference-grc-cam.md)
 
-## Related
-
-- [[grc-cam-landing-page|Continuous Authorization and Monitoring]]
-- [[Administration|Administration]]

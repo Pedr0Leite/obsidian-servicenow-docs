@@ -12,7 +12,7 @@ breadcrumb: [Task Intelligence for Customer Service, Machine learning solutions,
 
 # Configure Task Intelligence for Customer Service
 
-Install the Task Intelligence for Customer Service application and configure the different features: [[case-categorization-overview|record categorization]], [[case-language-detection|language detection]], [[case-sentiment-analysis|Sentiment Analysis]], and [[csm-document-intelligence|Document Intelligence for Customer Service]].
+Install the Task Intelligence for Customer Service application and configure the different features: record categorization, language detection, Sentiment Analysis, and Document Intelligence for Customer Service.
 
 ## Install and configure Task Intelligence features
 
@@ -20,15 +20,15 @@ Complete the following tasks to install Task Intelligence for Customer Service a
 
 |Task|Description|
 |----|-----------|
-|[[install-task-intelligence-cs-app|Install the Task Intelligence for Customer Service application]]|You can install the Task Intelligence for Customer Service application \(com.snc.csm\_ml\_task\) if you have the admin role.|
-|[[case-categorization-configure|Configure record categorization]]|Activate the required plugins and import training data. Then you can create and train a model to predict field values.|
-|[[case-sentiment-analysis-configure|Configure Sentiment Analysis]]|Activate the required plugins, enable the sentiment analysis property, and [[configure-data-model-roles|assign roles]]. Then you can train a model to predict case sentiment.|
-|[[case-language-detection-configure|Configure language detection]]|Activate the required plugins and the ServiceNow translator to use the language detection feature. Then you can set up a model to detect the case language.|
-|[[csm-doc-intel-configuring-|Configure Document Intelligence for Customer Service]]|Enable Document Intelligence for Customer Service and create use cases to extract data.|
+|[Install the Task Intelligence for Customer Service application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/install-task-intelligence-cs-app.md)|You can install the Task Intelligence for Customer Service application \(com.snc.csm\_ml\_task\) if you have the admin role.|
+|[Configure record categorization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-categorization-configure.md)|Activate the required plugins and import training data. Then you can create and train a model to predict field values.|
+|[Configure Sentiment Analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-sentiment-analysis-configure.md)|Activate the required plugins, enable the sentiment analysis property, and assign roles. Then you can train a model to predict case sentiment.|
+|[Configure language detection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-language-detection-configure.md)|Activate the required plugins and the ServiceNow translator to use the language detection feature. Then you can set up a model to detect the case language.|
+|[Configure Document Intelligence for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-doc-intel-configuring-.md)|Enable Document Intelligence for Customer Service and create use cases to extract data.|
 
 ## Set up and deploy Task Intelligence models
 
-Once you have completed the configuration tasks, you can use the [[csm-task-intel-admin-center|Task Intelligence Admin Console]] to set up and deploy models for record categorization, sentiment analysis, and language detection. You can also use the Task Intelligence Admin Console to access the Document [[intelligence-csm|Intelligence]] Admin interface, which you can use to create document processing use cases.
+Once you have completed the configuration tasks, you can use the Task Intelligence Admin Console to set up and deploy models for record categorization, sentiment analysis, and language detection. You can also use the Task Intelligence Admin Console to access the Document Intelligence Admin interface, which you can use to create document processing use cases.
 
 <table id="table_ang_qtp_fvb"><thead><tr><th>
 
@@ -40,7 +40,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[csm-task-intel-create-cat-solution|Create a model to predict record fields]]
+[Create a model to predict record fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-task-intel-create-cat-solution.md)
 
 </td><td>
 
@@ -48,7 +48,7 @@ Create and train a model to predict fields for cases and interactions.
 
 </td></tr><tr><td>
 
-[[csm-task-intel-create-sentiment-solution|Create a model to predict case sentiment]]
+[Create a model to predict case sentiment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-task-intel-create-sentiment-solution.md)
 
 </td><td>
 
@@ -56,7 +56,7 @@ Edit and test the pre-trained sentiment model to predict sentiment for customer 
 
 </td></tr><tr><td>
 
-[[csm-task-intel-create-language-solution|Create a model to detect case language]]
+[Create a model to detect case language](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-task-intel-create-language-solution.md)
 
 </td><td>
 
@@ -64,7 +64,7 @@ Edit and test the pre-trained model to detect the language used to create custom
 
 </td></tr><tr><td>
 
-[[csm-task-intel-create-di-use-case|Create a Document Intelligence use case]]
+[Create a Document Intelligence use case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-task-intel-create-di-use-case.md)
 
 </td><td>
 
@@ -72,7 +72,7 @@ Create a use case to identify the information to extract from email and case att
 
 </td></tr><tr><td>
 
-[[create-a-model-to-predict-similar-cases|Create a model to predict similar cases]]
+[Create a model to predict similar cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-a-model-to-predict-similar-cases.md)
 
 </td><td>
 
@@ -80,7 +80,7 @@ Test and edit the pre-trained similar cases model for predicting similarity in c
 
 </td></tr><tr><td>
 
-[[edit-a-case-prediction-model|Edit a model]]
+[Edit a model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/edit-a-case-prediction-model.md)
 
 </td><td>
 
@@ -88,7 +88,7 @@ Edit the case models that have already been trained and deployed. Change the mod
 
 </td></tr><tr><td>
 
-[[export-a-task-intelligence-model|Export a model]]
+[Export a model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/export-a-task-intelligence-model.md)
 
 </td><td>
 
@@ -96,7 +96,7 @@ Export a Task Intelligence model to another instance.
 
 </td></tr><tr><td>
 
-[[create-a-custom-similar-case-model|Create a custom similar case model]]
+[Create a custom similar case model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-a-custom-similar-case-model.md)
 
 </td><td>
 
@@ -108,31 +108,7 @@ Set up a training model to help it recognize similarities between two types of t
 </table>**Related topics**  
 
 
-[[csm-task-intelligence|Task Intelligence for Customer Service]]
+[Task Intelligence for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-task-intelligence.md)
 
-[[use-task-intelligence|Use Task Intelligence for Customer Service]]
+[Use Task Intelligence for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/use-task-intelligence.md)
 
-## Related
-
-- [[install-task-intelligence-cs-app|Install the Task Intelligence for Customer Service application]]
-- [[case-categorization-configure|Configure record categorization]]
-- [[case-sentiment-analysis-configure|Configure Sentiment Analysis]]
-- [[case-language-detection-configure|Configure language detection]]
-- [[csm-doc-intel-configuring-|Configure Document Intelligence for Customer Service]]
-- [[csm-task-intel-create-cat-solution|Create a model to predict record fields]]
-- [[csm-task-intel-create-sentiment-solution|Create a model to predict case sentiment]]
-- [[csm-task-intel-create-language-solution|Create a model to detect case language]]
-- [[csm-task-intel-create-di-use-case|Create a Document Intelligence use case]]
-- [[create-a-model-to-predict-similar-cases|Create a model to predict similar cases]]
-- [[edit-a-case-prediction-model|Edit a model]]
-- [[export-a-task-intelligence-model|Export a model]]
-- [[create-a-custom-similar-case-model|Create a custom similar case model]]
-- [[csm-task-intelligence|Task Intelligence for Customer Service]]
-- [[use-task-intelligence|Use Task Intelligence for Customer Service]]
-- [[case-categorization-overview|Record categorization]]
-- [[case-language-detection|Language detection]]
-- [[case-sentiment-analysis|Sentiment Analysis]]
-- [[csm-document-intelligence|Document Intelligence for Customer Service]]
-- [[configure-data-model-roles|Assign roles]]
-- [[csm-task-intel-admin-center|Task Intelligence Admin Console]]
-- [[intelligence-csm|Intelligence]]

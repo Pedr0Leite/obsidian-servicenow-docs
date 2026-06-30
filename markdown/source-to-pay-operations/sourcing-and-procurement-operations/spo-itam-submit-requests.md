@@ -33,10 +33,10 @@ The ITAM workspace used depends on the type of items being requested, such as ha
 
 To ensure a seamless integration between ITAM and SPO, the following updates have been implemented:
 
--   SPO's [[purchase-requisition|Purchase Requisition]] \(PR\), [[sourcing-request|Sourcing Request]] \(SR\), and [[purchase-order-table|Purchase Order]] \(PO\) tables are mapped to their corresponding tables in ITAM to enable smooth data flow between the two products.
+-   SPO's Purchase Requisition \(PR\), Sourcing Request \(SR\), and Purchase Order \(PO\) tables are mapped to their corresponding tables in ITAM to enable smooth data flow between the two products.
 -   When a PR, SR, or PO is created in SPO, the associated data and states are synchronized with the corresponding PO in ITAM.
 -   The ITAM Purchase Order \(PO\), generated during the creation of a sourcing request or purchase requisition, provides visibility to both the employee and the asset manager.
--   ITAM [[purchase-order-lines|Purchase Order Lines]] \(POLs\) are generated after a [[supplier|supplier]] has been awarded in the sourcing request flow.
+-   ITAM Purchase Order Lines \(POLs\) are generated after a supplier has been awarded in the sourcing request flow.
 -   The ITAM PO includes references to SPO’s SR, PR, and PO records.
 -   The ITAM POL includes references to SPO’s purchase requisition line \(PRL\) or POL records.
 
@@ -62,7 +62,7 @@ To ensure a seamless integration between ITAM and SPO, the following updates hav
 
     \[Omitted image "itam-spo-workspace.png"\] Alt text: Purchase option on the Sourcing page.
 
-    You' are guided through stages that enhance the better together experience using SPO’s [[shopping-hub-overview|Shopping Hub]] workflows, helping you efficiently source the products you need.
+    You' are guided through stages that enhance the better together experience using SPO’s Shopping Hub workflows, helping you efficiently source the products you need.
 
 7.  On the Select the requested items you want to purchase page, select the items that you requested.
 
@@ -87,18 +87,9 @@ To ensure a seamless integration between ITAM and SPO, the following updates hav
 
 
 -   **[Create sourcing request from the ITAM Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/itam-spo-sourcing-checkout.md)**  
-As an asset manager, use SPO’s sourcing flow from the ITAM Workspace to complete checkout when the requested item doesn’t have contractual [[pricing|pricing]].
+As an asset manager, use SPO’s sourcing flow from the ITAM Workspace to complete checkout when the requested item doesn’t have contractual pricing.
 -   **[Create purchase requisition from the ITAM Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/itam-spo-quick-checkout.md)**  
 As an asset manager, use SPO’s purchasing flow from the ITAM Workspace to complete checkout when the requested item has contractual pricing.
 
 **Parent Topic:**[Sourcing and Procurement Operations integration with IT Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-itam-better-together.md)
 
-## Related
-
-- [[purchase-requisition|Purchase requisition]]
-- [[sourcing-request|Sourcing request]]
-- [[purchase-order-table|Purchase order]]
-- [[purchase-order-lines|Purchase order lines]]
-- [[supplier|Supplier]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[pricing|Pricing]]

@@ -14,7 +14,7 @@ breadcrumb: [Employee Health and Safety Status, Employee Readiness Core, Safe Wo
 
 # Add a Safe Workplace audience
 
-Add a collection of users for [[emergency-outreach|Emergency Outreach]] notifications. Target individual users or specific users based on criteria such as location, department, or group.
+Add a collection of users for Emergency Outreach notifications. Target individual users or specific users based on criteria such as location, department, or group.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_imt\_core.admin, sn\_imt\_checkin.checkin\_admin, or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-health-safety-status|Employee Health and Safety Status]]** &gt; **[[safe-workplace|Safe Workplace]] Audience** and click **New**.
+1.  Navigate to **All** &gt; **Employee Health and Safety Status** &gt; **Safe Workplace Audience** and click **New**.
 
 2.  In the **Name** field, enter a descriptive name for the audience.
 
@@ -92,8 +92,3 @@ For example, you could specify one floor of a particular building or users who r
 
 **Parent Topic:**[Employee Health and Safety Status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-readiness-core/employee-health-safety-status.md)
 
-## Related
-
-- [[emergency-outreach|Emergency Outreach]]
-- [[employee-health-safety-status|Employee Health and Safety Status]]
-- [[safe-workplace|Safe Workplace]]

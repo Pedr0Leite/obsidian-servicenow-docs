@@ -14,7 +14,7 @@ breadcrumb: [Reference, Telecommunications Network Inventory]
 
 # Commonly used network asset instance identification fields
 
-Some network asset instance fields are common in the identification sections of the [[telecom-network-inventory|Telecommunications Network Inventory]] forms. The ServiceNow AI Platform uses these fields to identify and categorize your network inventory assets.
+Some network asset instance fields are common in the identification sections of the Telecommunications Network Inventory forms. The ServiceNow AI Platform uses these fields to identify and categorize your network inventory assets.
 
 <table id="table_htp_wkd_wrb"><thead><tr><th>
 
@@ -307,6 +307,3 @@ Number of the addresses that are reserved for this IP pool or IP subnet.
 
 **Parent Topic:**[Telecommunications Network Inventory reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telecommunications-network-inventory-reference.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]

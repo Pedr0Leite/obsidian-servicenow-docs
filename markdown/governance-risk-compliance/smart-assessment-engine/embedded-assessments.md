@@ -15,7 +15,7 @@ breadcrumb: [Use template designer, Manage, Smart Assessment Engine, Governance,
 
 # Embedded assessments
 
-Upstream applications can embed the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] responder experience directly within their workspace and control which interface components are visible.
+Upstream applications can embed the Smart Assessment Engine responder experience directly within their workspace and control which interface components are visible.
 
 Embedded assessments enable upstream applications to integrate the Smart Assessment Engine responder experience within their own workspace. The embedding application controls which interface components are displayed, which affects the availability of certain features. Compact mode does not affect the standard assessment display.
 
@@ -27,7 +27,7 @@ Upstream applications typically embed an assessment in one of the following scen
 
 -   A record page that already represents the entity being assessed. For example, embedding a control attestation inside the Control record, or embedding a vendor security assessment inside the vendor record. Responders complete the assessment without leaving the parent record.
 -   A playbook step that includes an assessment as part of a guided process. Embedding the assessment inline keeps the responder in the playbook flow and avoids opening a separate browser tab for the assessment.
--   A workspace landing page or related-[[list-view-uib-ws|list view]] that surfaces the assessment alongside other context, such as related incidents or audit history.
+-   A workspace landing page or related-list view that surfaces the assessment alongside other context, such as related incidents or audit history.
 
 In each scenario, the upstream application configures the Smart Assessment component in UI Builder to fit the available space and remove duplicate UI elements, such as a second header or a second reference pane. For the configuration on the SAE side that supports embedding, see [Embed an assessment in a record page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/embed-assessment-in-record-page.md).
 
@@ -147,7 +147,4 @@ When the standard responder UI elements are hidden or constrained in an embedded
 
     A public API method on the Smart Assessment responder public API allows the embedding application to add or remove assessment-level contributors and section-level contributors programmatically. This is the recommended way to manage contributors when the reference info pane \(which hosts the standard contributor UI\) is hidden.
 
-## Related
 
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]
-- [[list-view-uib-ws|List view]]

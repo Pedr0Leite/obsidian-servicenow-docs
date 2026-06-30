@@ -14,11 +14,11 @@ breadcrumb: [Dashboards for real-time visualization of log data, Health Log Anal
 
 # Create log data dashboards and visualizations in Health Log Analytics
 
-Build [[hla-landing-page|Health Log Analytics]] log data [[otto-aiops-dashboards|dashboards]] and visualizations in real time for easier identification and understanding of issues.
+Build Health Log Analytics log data dashboards and visualizations in real time for easier identification and understanding of issues.
 
 ## Before you begin
 
-This functionality is supported in the [[workspace-dashboard-use|Service Operations Workspace]] Log Analytics application, Version 21.2.7 - November 2022 and later, and has a dependency on the Platform Analytics Workspace, available from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
+This functionality is supported in the Service Operations Workspace Log Analytics application, Version 21.2.7 - November 2022 and later, and has a dependency on the Platform Analytics Workspace, available from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
 
 For detailed information about creating and working with dashboards, see [Dashboards in the Analytics Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-dashboards.md).
 
@@ -114,8 +114,3 @@ Role required: evt\_mgmt\_operator or viz\_admin
 
 [Share a Platform Analytics dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/share-db-in-ac.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]
-- [[otto-aiops-dashboards|Dashboards]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

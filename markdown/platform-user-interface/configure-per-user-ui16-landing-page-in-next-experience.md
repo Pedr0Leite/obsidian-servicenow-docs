@@ -12,7 +12,7 @@ breadcrumb: [Landing pages, Configure, Next Experience UI, Configure UIs and por
 
 # Configure per-user landing pages in Next Experience
 
-Users on new Next Experience instances see the Next Experience landing page. Users on upgraded instances see the landing pages that they had before, in the [[next-experience-landing-page|Next Experience UI]]. You can also [[configure-onboarding-modals|configure]] user-specific landing pages.
+Users on new Next Experience instances see the Next Experience landing page. Users on upgraded instances see the landing pages that they had before, in the Next Experience UI. You can also configure user-specific landing pages.
 
 ## Before you begin
 
@@ -20,11 +20,11 @@ Role required: admin
 
 ## About this task
 
-Next Experience landing pages provide the information you need to start working. These landing pages typically present content specific to your role and tasks. Landing pages can include [[lists-configurable-workspace|lists]], Performance Analytics and Reporting \(PAR\) information, and other features to access your new and prioritized tasks from one location.
+Next Experience landing pages provide the information you need to start working. These landing pages typically present content specific to your role and tasks. Landing pages can include lists, Performance Analytics and Reporting \(PAR\) information, and other features to access your new and prioritized tasks from one location.
 
 ## Procedure
 
-1.  Navigate to **User Administration** &gt; **[[c_UserPreferences|User Preferences]]**.
+1.  Navigate to **User Administration** &gt; **User Preferences**.
 
 2.  Select **New**.
 
@@ -49,12 +49,5 @@ Next Experience landing pages provide the information you need to start working.
 
 The user sees the specified landing page when they log on to ServiceNow® or when they select the company logo.
 
-**Parent Topic:**[[next-experience-landing-pages|Next Experience landing pages]]
+**Parent Topic:**[Next Experience landing pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-landing-pages.md)
 
-## Related
-
-- [[next-experience-landing-pages|Next Experience landing pages]]
-- [[next-experience-landing-page|Next Experience UI]]
-- [[configure-onboarding-modals|Configure]]
-- [[lists-configurable-workspace|Lists]]
-- [[c_UserPreferences|User preferences]]

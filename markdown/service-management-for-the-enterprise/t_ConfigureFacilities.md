@@ -20,7 +20,7 @@ Role required: facilities\_admin
 
 ## About this task
 
-[[FacilitiesLandingPage|Facilities Service Management]] defaults to the request-driven processing method for handling tasks. For information about both processing methods, see [[c_TaskVsRequestDrivenProcessing|Task vs. request driven processing]].
+Facilities Service Management defaults to the request-driven processing method for handling tasks. For information about both processing methods, see [Task vs. request driven processing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_TaskVsRequestDrivenProcessing.md).
 
 ## Procedure
 
@@ -63,7 +63,7 @@ Enable state flows
 
 </td><td>
 
-Enable state flows consistent with all [[c_ServiceManagement|service management applications]]. If you prefer to create your own state flows using business rules, client scripts, and UI actions, disable the option. A confirmation box displays and includes a link to a help article that describes the implications of disabling state flows. It is highly recommended that you read the article before proceeding.
+Enable state flows consistent with all [service management applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_ServiceManagement.md). If you prefer to create your own state flows using business rules, client scripts, and UI actions, disable the option. A confirmation box displays and includes a link to a help article that describes the implications of disabling state flows. It is highly recommended that you read the article before proceeding.
 
  If you disable state flows and save, this configuration option is removed from the screen and state flows cannot be re-enabled from the user interface.
 
@@ -121,7 +121,7 @@ Enable to synchronize task work notes with the work notes on the order or reques
 
 </td></tr><tr class="sub-head"><td class="sub-head" colspan="3">
 
-**Catalog and [[r_RequestCreation|Request Creation]]**
+**Catalog and Request Creation**
 
 </td></tr><tr><td>
 
@@ -332,12 +332,5 @@ This option determines the degree to which skills must be matched to a task when
 -   **[Task vs. request driven processing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_TaskVsRequestDrivenProcessing.md)**  
 All applications use either task-driven or request-driven processes for handling tasks.
 
-**Parent Topic:**[[t_ActivateFacilitiesSM|Activate Facilities Service Management]]
+**Parent Topic:**[Activate Facilities Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_ActivateFacilitiesSM.md)
 
-## Related
-
-- [[c_TaskVsRequestDrivenProcessing|Task vs. request driven processing]]
-- [[c_ServiceManagement|Service Management]]
-- [[t_ActivateFacilitiesSM|Activate Facilities Service Management]]
-- [[FacilitiesLandingPage|Facilities Service Management]]
-- [[r_RequestCreation|Request creation]]

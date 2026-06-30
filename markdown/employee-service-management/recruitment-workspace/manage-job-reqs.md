@@ -17,32 +17,23 @@ breadcrumb: [Use, Recruitment Workspace, Hiring Experiences, HR Service Delivery
 Update, put it on hold, send a requisition for approval, or close it.
 
 -   **[Put a job requisition on hold](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/put-req-on-hold.md)**  
-[[put-req-on-hold|Put a job requisition on hold]] if the requirement changes.
+Put a job requisition on hold if the requirement changes.
 -   **[Withdraw hold on a job requisition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/off-hold-job-req.md)**  
 Withdraw the hold put on a job requisition when it is needed.
 -   **[Duplicate a job requisition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/duplicate-job-req.md)**  
 Duplicate an existing job requisition to save time.
 -   **[Close a job requisition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/close-a-job-req.md)**  
-[[close-a-job-req|Close a job requisition]] if it’s no longer required.
+Close a job requisition if it’s no longer required.
 -   **[Reopen a job requisition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/reopen-job-req.md)**  
-[[reopen-job-req|Reopen a job requisition]] that is already in closed state.
+Reopen a job requisition that is already in closed state.
 -   **[Submit a job requisition for approval](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/submit-for-approval-job-req.md)**  
-[[submit-for-approval-job-req|Submit a job requisition for approval]] to higher management.
+Submit a job requisition for approval to higher management.
 -   **[Cancel a submitted approval request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/cancel-approval-job-req.md)**  
-[[cancel-approval-job-req|Cancel a submitted approval request]] if it's no longer needed.
+Cancel a submitted approval request if it's no longer needed.
 -   **[Resend a job requisition for approval](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/resubmit-approval-job-req.md)**  
-[[resubmit-approval-job-req|Resend a job requisition for approval]] if last-minute changes or technical faults.
+Resend a job requisition for approval if last-minute changes or technical faults.
 -   **[Open a job requisition in your ATS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/open-a-job-req-for-ats.md)**  
-[[open-a-job-req-for-ats|Open a job requisition in your ATS]] after it’s approved and ready.
+Open a job requisition in your ATS after it’s approved and ready.
 
 **Parent Topic:**[Using Recruitment workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/use-recruit-workspace.md)
 
-## Related
-
-- [[put-req-on-hold|Put a job requisition on hold]]
-- [[close-a-job-req|Close a job requisition]]
-- [[reopen-job-req|Reopen a job requisition]]
-- [[submit-for-approval-job-req|Submit a job requisition for approval]]
-- [[cancel-approval-job-req|Cancel a submitted approval request]]
-- [[resubmit-approval-job-req|Resend a job requisition for approval]]
-- [[open-a-job-req-for-ats|Open a job requisition in your ATS]]

@@ -14,7 +14,7 @@ breadcrumb: [Classic UI, Policy and Compliance Management, Governance, Risk, and
 
 # Monitor controls using GRC Performance Analytics Indicators
 
-You can link [[r_PolicyComplianceMgmt|Policy and Compliance Management]] content and items to Performance Analytics indicators, breakdowns, and thresholds. You can associate Performance Analytics indicators with control objectives and controls to view scorecards and trends and analyze current conditions and trends.
+You can link Policy and Compliance Management content and items to Performance Analytics indicators, breakdowns, and thresholds. You can associate Performance Analytics indicators with control objectives and controls to view scorecards and trends and analyze current conditions and trends.
 
 The risks and controls associated with a PA indicator or PA indicator/breakdown/element automatically monitor any PA threshold with the same PA indicator or PA indicator, breakdown, or element relationship. Any PA threshold breach is reported at the risk or control and Performance Analytics indicators relationship level within a breach counter.
 
@@ -180,6 +180,4 @@ Role required: sn\_risk.manager or sn\_compliance.manager
 
     All the risks or controls related to the risk statement or policy statement are automatically associated with all the risk statement or policy indicators of the statement. Also, if the indicator has a breakdown that matches the risk or entity of the control \(for example a Business Service breakdown\), the **Breakdown** and **Element** fields for the relationship are automatically filled in.
 
-## Related
 
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

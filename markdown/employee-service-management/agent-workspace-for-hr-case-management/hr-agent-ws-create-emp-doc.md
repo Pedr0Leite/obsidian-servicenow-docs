@@ -14,7 +14,7 @@ breadcrumb: [Employee Document Management for Agent Workspace for HR Case Manage
 
 # Create or upload employee documents using Agent Workspace for HR Case Management
 
-Create or upload employee documents to an HR case using the [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]].
+Create or upload employee documents to an HR case using the Agent Workspace for HR Case Management.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_hr\_ef.document\_writer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **Agent Workspace for HR Case Management**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **Agent Workspace for HR Case Management**.
 
 2.  Click the **Lists** icon \(\[Omitted image "agent-ws-hr-list-icon.png"\] Alt text: HR Workspace Lists icon\).
 
@@ -32,7 +32,7 @@ Role required: sn\_hr\_ef.document\_writer
 
 5.  Click **New**.
 
-    Alternatively, you can also create an employee document from **HR Profiles**. Select a [[c_HRProfileRecords|HR Profile]] and from the more actions menu, click **New document**.
+    Alternatively, you can also create an employee document from **HR Profiles**. Select a HR Profile and from the more actions menu, click **New document**.
 
 6.  On the form, fill in the fields.
 
@@ -119,8 +119,4 @@ Purge hold status of a document.-   Pending purge authorization: Awaiting author
 
     Provides view of all actions for an employee document from creation or uploaded to the time it is purged.
 
-## Related
 
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[case-management-workspace|Case management]]
-- [[c_HRProfileRecords|HR Profile]]

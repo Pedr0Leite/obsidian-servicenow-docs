@@ -12,7 +12,7 @@ breadcrumb: [Using CSM Configurable Workspace in Customer Service Management, Ma
 
 # Open a knowledge article in a sub-tab
 
-Search for a knowledge article in [[migration-agent-assist|Agent Assist]] or [[configure-nba|Recommended Actions]] - AI Search and then open the article in a sub-tab.
+Search for a knowledge article in Agent Assist or Recommended Actions - AI Search and then open the article in a sub-tab.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_customerservice\_agent, sn\_customerservice.consumer\_agent, 
 
 ## Procedure
 
-1.  [[csm-workspaces-open|Open CSM Configurable Workspace]].
+1.  Open CSM Configurable Workspace.
 
 2.  Open a customer service case.
 
@@ -29,7 +29,7 @@ Role required: sn\_customerservice\_agent, sn\_customerservice.consumer\_agent, 
     -   In the Agent Assist tab, select an article from the default search or search for something specific using the search bar and then select an article.
     -   In the Recommended Actions - Search tab, search for the desired article and select the Search source as **Knowledge** to filter the knowledge articles.
 
-        For more information on how to enable Recommended Actions - AI Search and disable Agent Assist, see [[migrate-ra-agent-assist|Enable AI search in Recommended Actions]].
+        For more information on how to enable Recommended Actions - AI Search and disable Agent Assist, see [Enable AI search in Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/migrate-ra-agent-assist.md).
 
 4.  View the article in the Contextual side panel.
 
@@ -40,9 +40,3 @@ Role required: sn\_customerservice\_agent, sn\_customerservice.consumer\_agent, 
     -   Select the knowledge article link below the article title to open the article in a separate tab. You can also select the More Actions menu and then select **Full View**.
     -   Select the More Actions menu and then select **Helpful** to mark the article as helpful.
 
-## Related
-
-- [[migrate-ra-agent-assist|Enable AI search in Recommended Actions]]
-- [[migration-agent-assist|Agent assist]]
-- [[configure-nba|Recommended Actions]]
-- [[csm-workspaces-open|Open CSM Configurable Workspace]]

@@ -14,13 +14,13 @@ breadcrumb: [Task Intelligence for Customer Service, Machine learning solutions,
 
 Use the Document Intelligence for Customer Service feature to extract relevant information from email and case attachments, such as credit card numbers or customer addresses, and add that information to cases.
 
-\[Omitted image "doc-intel-case-fields-predicted.png"\] Alt text: Case details tab displaying Predicted or Predicted from Docintel labels under certain field values, such as Account or Vendor name, alerting agents that the information was extracted by Document [[intelligence-csm|Intelligence]].
+\[Omitted image "doc-intel-case-fields-predicted.png"\] Alt text: Case details tab displaying Predicted or Predicted from Docintel labels under certain field values, such as Account or Vendor name, alerting agents that the information was extracted by Document Intelligence.
 
 Agents can review values for extracted fields and make corrections as needed by accessing the Document Intelligence interface directly from the case. From this interface, agents can confirm correct values, fix incorrect values, and continue to train the model. This HITL/Human In the Loop interaction of verifying the recommended values enables agents to refine the model and continually improve performance.
 
 ## Predicted field values
 
-In [[csm-workspaces-configure|CSM Configurable Workspace]] and Core UI, the fields on the [[r_CustomerServiceCaseForm|Case form]] that contain Document Intelligence predicted values are identified with an AI icon \(\[Omitted image "icon-ai-sparkle.png"\] Alt text: AI icon\) and label. These fields also include an information icon that displays a message with additional context about the predicted values.
+In CSM Configurable Workspace and Core UI, the fields on the Case form that contain Document Intelligence predicted values are identified with an AI icon \(\[Omitted image "icon-ai-sparkle.png"\] Alt text: AI icon\) and label. These fields also include an information icon that displays a message with additional context about the predicted values.
 
 **Note:** The system displays the AI icon automatically. The agent doesn’t need to refresh the record page.
 
@@ -50,7 +50,7 @@ The DocIntel Admin experience provides an easy-to-use interface that you can use
 
 The DocIntel Admin experience is available with the Document Intelligence Admin \(com.snc.docintel\_admin\) store app. This app automatically activates the flows and properties required by Document Intelligence for Customer Service.
 
-Access the DocIntel Admin experience through the [[csm-task-intel-admin-center|Task Intelligence Admin Console]]:
+Access the DocIntel Admin experience through the Task Intelligence Admin Console:
 
 1.  Navigate to **Task Intelligence for Customer Service** &gt; **Setup**.
 2.  In the Explore related applications section of the console, select **Open DocIntel** in the Document Intelligence card.
@@ -60,7 +60,7 @@ Access the DocIntel Admin experience through the [[csm-task-intel-admin-center|T
 
 For more information, see the following topics:
 
--   [[csm-task-intel-create-di-use-case|Create a Document Intelligence use case]]
+-   [Create a Document Intelligence use case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-task-intel-create-di-use-case.md)
 -   [Monitor Document Intelligence performance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/doc-intel-monitor-performance.md)
 
 .
@@ -96,28 +96,17 @@ Set up a document classification use case in the following steps.
     Initiate a training job to provide user inputs from completed document tasks to the AI for continuous improvement.
 
 
--   **[[csm-docintel-how-it-works|How Document Intelligence for Customer Service works]]**  
+-   **[How Document Intelligence for Customer Service works](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-docintel-how-it-works.md)**  
 Document Intelligence for Customer Service performs a series of steps to extract relevant information from email and case attachments and add that information to fields on the case record.
 
-**Parent Topic:**[[csm-task-intelligence|Task Intelligence for Customer Service]]
+**Parent Topic:**[Task Intelligence for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-task-intelligence.md)
 
 **Related topics**  
 
 
 [Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence-landing.md)
 
-[[csm-doc-intel-configuring-|Configure Document Intelligence for Customer Service]]
+[Configure Document Intelligence for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-doc-intel-configuring-.md)
 
-[[csm-doc-intel-review-values|Review and submit values predicted by Document Intelligence]]
+[Review and submit values predicted by Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-doc-intel-review-values.md)
 
-## Related
-
-- [[csm-task-intel-create-di-use-case|Create a Document Intelligence use case]]
-- [[csm-docintel-how-it-works|How Document Intelligence for Customer Service works]]
-- [[csm-task-intelligence|Task Intelligence for Customer Service]]
-- [[csm-doc-intel-configuring-|Configure Document Intelligence for Customer Service]]
-- [[csm-doc-intel-review-values|Review and submit values predicted by Document Intelligence]]
-- [[intelligence-csm|Intelligence]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[csm-task-intel-admin-center|Task Intelligence Admin Console]]

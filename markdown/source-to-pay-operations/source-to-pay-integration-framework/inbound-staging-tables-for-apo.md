@@ -15,7 +15,7 @@ breadcrumb: [Inbound staging tables, Source-to-Pay integration framework, Integr
 
 # Inbound staging tables for Accounts Payable Operations
 
-Inbound staging tables for [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] temporarily store invoice data from ERP sources before transferring it to primary data tables.
+Inbound staging tables for Accounts Payable Operations temporarily store invoice data from ERP sources before transferring it to primary data tables.
 
 -   **[Invoice import inbound staging table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/inbound-invoice-import-staging-table.md)**  
 The invoice import inbound \[sn\_spend\_intg\_imp\_invoice\] staging table temporarily stores important data about the imported invoice before this data is sent to the \[sn\_shop\_invoice\] primary table.
@@ -26,7 +26,7 @@ The Invoice line import inbound \[sn\_spend\_intg\_imp\_invoice\_line\] staging 
 -   **[Invoice payment detail import inbound table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/invoice-payment-detail-staging-table.md)**  
 Field descriptions and data types for the Invoice Payment Detail Import Inbound \[sn\_spend\_intg\_imp\_invoice\_payment\_detail\] staging table used to store imported invoice payment detail data from ERP systems before transfer to the \[sn\_shop\_invoice\_payment\_detail\] primary table.
 -   **[Organization tax details inbound staging table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/slo-org-tax-details-inbound-table.md)**  
-The [[organization-tax-details|Organization tax details]] inbound \[sn\_fcms\_intg\_org\_tax\_detail\_inbound\] staging table temporarily stores important data about an organization's tax information before this data is sent to the Organization Tax Details \[sn\_fin\_org\_tax\_detail\] primary table.
+The Organization tax details inbound \[sn\_fcms\_intg\_org\_tax\_detail\_inbound\] staging table temporarily stores important data about an organization's tax information before this data is sent to the Organization Tax Details \[sn\_fin\_org\_tax\_detail\] primary table.
 -   **[Invoice tax line staging table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/inbound-invoice-tax-line-staging-table-apo.md)**  
 The invoice tax line inbound \[sn\_spend\_intg\_imp\_invoice\_tax\_line\] staging table temporarily stores important data about the invoice tax line before this data is sent to the \[sn\_shop\_invoice\_tax\_line\] primary table.
 -   **[Invoice staging table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/invoice-staging-table.md)**  
@@ -41,10 +41,5 @@ The invoice line stage \[sn\_ap\_ic\_invoice\_line\_stage\] table stores line-le
 
 [Inbound staging tables for Sourcing and Procurement Operations]()
 
-[Inbound staging tables for [[supplier|Supplier]] Lifecycle Operations]()
+[Inbound staging tables for Supplier Lifecycle Operations]()
 
-## Related
-
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[organization-tax-details|Organization tax details]]
-- [[supplier|Supplier]]

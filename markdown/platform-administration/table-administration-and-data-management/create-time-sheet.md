@@ -14,7 +14,7 @@ breadcrumb: [Time Sheets, Time Card management, Working with Task table, Table a
 
 # Create a time sheet
 
-As a time card user, you can create a time sheet to group all your [[c_TimeCards|time cards]] for the given week and submit them in a single step.
+As a time card user, you can create a time sheet to group all your time cards for the given week and submit them in a single step.
 
 ## Before you begin
 
@@ -44,7 +44,7 @@ Steps
 
 </td><td>
 
-Navigate to **[[time-sheets|Time Sheets]]** &gt; **My Time Sheets** &gt; **Current \(This Week\)**.The time sheet form for the current week opens.
+Navigate to **Time Sheets** &gt; **My Time Sheets** &gt; **Current \(This Week\)**.The time sheet form for the current week opens.
 
 </td></tr><tr><td id="d224400e111">
 
@@ -127,7 +127,7 @@ Add time cards to the time sheet. You can use the related links and related list
 |-----|-----------|
 |Generate Time Cards|Link to generate time cards for the assigned project tasks.|
 |Copy from previous time sheet|Link to open the **Copy Time Sheet** window for you to [copy the time cards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/copy-time-sheet.md) from previous time sheets.|
-|Time Sheet Portal|Link to open the [[worker-portal|Time Sheet Portal]] to view and manage the time sheet.|
+|Time Sheet Portal|Link to open the Time Sheet Portal to view and manage the time sheet.|
 
 <table id="table_p3s_zyz_2dc"><thead><tr><th>
 
@@ -143,14 +143,8 @@ Time Cards
 
 </td><td>
 
-List of the time cards that are part of the time sheet. To [[t_CreateATimeCard|create a time card]], click **New**.
+List of the time cards that are part of the time sheet. To create a time card, click **New**.
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Time Sheets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/time-sheets.md)
 
-## Related
-
-- [[c_TimeCards|Time cards]]
-- [[time-sheets|Time Sheets]]
-- [[worker-portal|Time Sheet Portal]]
-- [[t_CreateATimeCard|Create a time card]]

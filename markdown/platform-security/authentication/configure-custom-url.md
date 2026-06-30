@@ -14,7 +14,7 @@ breadcrumb: [Custom instance URLs, Authentication, Access Management]
 
 # Set a custom URL as the instance URL
 
-Add a custom URL to your instance [[sc-configuration|configuration]] to use instead of your ServiceNow URL.
+Add a custom URL to your instance configuration to use instead of your ServiceNow URL.
 
 ## Before you begin
 
@@ -74,11 +74,11 @@ Service Portal
 
 </td><td>
 
-Service portal that you want to use when you redirect [[users|users]] to your instance using the custom URL.
+Service portal that you want to use when you redirect users to your instance using the custom URL.
 
 </td></tr><tr><td>
 
-[[identity-landing|Identity]] Provider
+Identity Provider
 
 </td><td>
 
@@ -92,8 +92,3 @@ Identity Provider for the custom URL enables you to allow users to auto-redirect
     -   You must delete custom URL record from ServiceNow instance first and then delete any Domain Name Server \(DNS\) entries from the DNS server.
     -   Any deletion of DNS entry from DNS server prior to deletion of custom URL record from ServiceNow instance would result in blocking the deletion of other corresponding custom URL records from ServiceNow.
 
-## Related
-
-- [[sc-configuration|Configuration]]
-- [[users|Users]]
-- [[identity-landing|Identity]]

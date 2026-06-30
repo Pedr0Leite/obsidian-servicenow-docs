@@ -48,8 +48,5 @@ Stages organize and manage the delivery of campaign content. When configuring a 
 
 When a campaign is in the Edit state, you can edit the campaign bundles. You can also click **Deactivate Bundle** to remove the bundle from the campaign. Deactivating removes the content from the campaign, but remains viewable for existing users.
 
-When a campaign is in the **Editing** state, you can also add new campaign bundles and campaign content for matching [[ecpro-audience|audiences]].
+When a campaign is in the **Editing** state, you can also add new campaign bundles and campaign content for matching audiences.
 
-## Related
-
-- [[ecpro-audience|Audiences]]

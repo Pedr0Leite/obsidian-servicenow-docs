@@ -15,7 +15,7 @@ breadcrumb: [Assistant Designer interface reference, Virtual Agent reference, Vi
 
 # Virtual Agent Designer legacy Topics page
 
-The [[virtual-agent-landing-page|Virtual Agent]] Designer legacy home page lists cards for available topics in your instance.
+The Virtual Agent Designer legacy home page lists cards for available topics in your instance.
 
 \[Omitted image "TopicPage.png"\] Alt text: Virtual Agent Designer Topics page that displays the available topics, topic blocks, and custom controls, as well as options for creating and managing topics.
 
@@ -87,7 +87,7 @@ Explore additional topics
 
 </td><td>
 
-Link that opens the All prebuilt topics page, which shows prebuilt topics that are available when you activate their dependent [[topic-spokes-subtab-pae|spokes]] or plugins. For more information, see [Virtual Agent Designer All pre-built topics page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/vad-additional-topics-list.md).
+Link that opens the All prebuilt topics page, which shows prebuilt topics that are available when you activate their dependent spokes or plugins. For more information, see [Virtual Agent Designer All pre-built topics page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/vad-additional-topics-list.md).
 
 </td></tr><tr><td>
 
@@ -188,7 +188,7 @@ Icon that opens a drop-down menu with the following options:
     -   Unpublished topics
     -   Any NLU/Keyword topics
 
-**Note:** You can promote NLU topics in [[convint-landing-page|Conversational Interfaces]] settings, under **Virtual Agent Custom Greetings and Setup**. For more information, see [Configure a Virtual Agent chat experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-default-chat-experience.md).
+**Note:** You can promote NLU topics in Conversational Interfaces settings, under **Virtual Agent Custom Greetings and Setup**. For more information, see [Configure a Virtual Agent chat experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-default-chat-experience.md).
 
 -   **Demote topic**: Replaces the **Promote** option in a promoted topic, to remove the `Promoted` flag.
 -   **Delete topic**: Opens a confirmation dialog box to delete the topic.
@@ -196,8 +196,3 @@ Icon that opens a drop-down menu with the following options:
 </td></tr></tbody>
 </table>**Parent Topic:**[Assistant Designer interface reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/vad-reference.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[topic-spokes-subtab-pae|Spokes]]
-- [[convint-landing-page|Conversational Interfaces]]

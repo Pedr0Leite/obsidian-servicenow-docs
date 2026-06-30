@@ -22,7 +22,7 @@ Role required: timecard\_admin, it\_project\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[time-sheets|Time Sheets]]** &gt; **Administration** &gt; **Project Time Categories**.
+1.  Navigate to **All** &gt; **Time Sheets** &gt; **Administration** &gt; **Project Time Categories**.
 
 2.  Click **New**.
 
@@ -38,6 +38,3 @@ Role required: timecard\_admin, it\_project\_manager
 
 **Parent Topic:**[Time Card Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/time-card-management.md)
 
-## Related
-
-- [[time-sheets|Time Sheets]]

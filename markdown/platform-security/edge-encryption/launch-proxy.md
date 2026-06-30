@@ -14,7 +14,7 @@ breadcrumb: [Install the Edge Encryption proxy server using the interactive inst
 
 # Launch the Edge Encryption proxy server
 
-After an [[edge-encryption|Edge Encryption]] proxy is installed and configured, you can start the proxy from the installer.
+After an Edge Encryption proxy is installed and configured, you can start the proxy from the installer.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ After successfully installing the Edge Encryption proxy server, [Set the proxy s
 
 **Next topic:**[Verify and troubleshoot the Edge Encryption proxy server installation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/verify-install.md)
 
-## Related
-
-- [[edge-encryption|Edge Encryption]]

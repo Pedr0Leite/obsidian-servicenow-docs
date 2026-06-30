@@ -14,7 +14,7 @@ breadcrumb: [System for Cross-domain Identity Management \(SCIM\), Identity]
 
 # SCIM Client
 
-The SCIM Client facilitates provisioning and updates on [[identity-landing|identity]] resources through CRUD operations exposed by SCIM endpoint on an external system.
+The SCIM Client facilitates provisioning and updates on identity resources through CRUD operations exposed by SCIM endpoint on an external system.
 
 <table id="table_en2_q4d_2yb" class="nav-card"><tbody><tr><td>
 
@@ -42,7 +42,3 @@ The SCIM Client facilitates provisioning and updates on [[identity-landing|ident
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[identity-landing|Identity]]

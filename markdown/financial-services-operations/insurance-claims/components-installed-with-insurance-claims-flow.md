@@ -14,7 +14,7 @@ breadcrumb: [Reference, Insurance claims, Exploring insurance claims application
 
 # Components installed with Insurance claims
 
-Several types of components are installed with the activation of the [[insurance-claims-flow|Insurance claims]] application.
+Several types of components are installed with the activation of the Insurance claims application.
 
 ## Plugins installed
 
@@ -26,7 +26,7 @@ Several types of components are installed with the activation of the [[insurance
 
 |Store application|Description|
 |-----------------|-----------|
-|Financial Services Operations Core|Stores the customer data that is needed to make policy service requests. For more information, see [[financial-services-operations-core-data-model|Financial Services Operations Core]].|
+|Financial Services Operations Core|Stores the customer data that is needed to make policy service requests. For more information, see [Financial Services Operations Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-operations-core-data-model.md).|
 |Playbooks in Customer Service Management|Provides a way to visualize business process workflows in a simple, task-oriented view, enabling consistent responses to commonly encountered situations. For more information, see [Playbooks in Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/setting-up-csm-playbooks.md).|
 
 ## Roles installed
@@ -185,7 +185,3 @@ sn\_ins\_gen\_claim.manager
 
 **Parent Topic:**[Insurance claims reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/insurance-claims-flow-reference.md)
 
-## Related
-
-- [[financial-services-operations-core-data-model|Financial Services Operations Core]]
-- [[insurance-claims-flow|Insurance claims]]

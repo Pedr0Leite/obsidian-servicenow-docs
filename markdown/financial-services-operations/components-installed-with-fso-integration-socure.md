@@ -12,7 +12,7 @@ breadcrumb: [Socure, Integrate, Financial Services Operations \(FSO\)]
 
 # Components installed with Financial Services Operations Integration with Socure
 
-Several types of components are installed with activation of the [[integrating-socure-service|Financial Services Operations Integration with Socure]] \(com.sn\_fso\_intg\_socure\) plugin, including tables.
+Several types of components are installed with activation of the Financial Services Operations Integration with Socure \(com.sn\_fso\_intg\_socure\) plugin, including tables.
 
 ## Plugins installed
 
@@ -20,7 +20,7 @@ These plugins are installed with the Financial Services Operations Integration w
 
 |Plugin|Description|
 |------|-----------|
-|Financial Services Know Your Customer \(com.sn\_bom\_kyc\)|This application is automatically installed when you install any of the following [[fso-kyc-landing-page|Financial Services Know Your Customer]] \(KYC\) applications. Financial Services Know Your Customer manages the KYC tasks that are used in workflows across [[fso-overview|Financial Services]] Operations applications.|
+|Financial Services Know Your Customer \(com.sn\_bom\_kyc\)|This application is automatically installed when you install any of the following Financial Services Know Your Customer \(KYC\) applications. Financial Services Know Your Customer manages the KYC tasks that are used in workflows across Financial Services Operations applications.|
 |Socure Spoke \(com.sn\_socure\_spoke\)|This application provides a list of actions to help companies perform required due diligent activities for onboarding new customers.|
 
 ## Roles
@@ -114,9 +114,3 @@ Stores Financial Services Know Your Customer fraud scores.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[integrating-socure-service|Financial Services Operations integration with Socure]]
-- [[fso-kyc-landing-page|Financial Services Know Your Customer]]
-- [[fso-overview|Financial Services]]

@@ -52,7 +52,7 @@ You can create a panel that displays a screenshot of auditing gauges to users wi
 
 8.  Log in as a user with the assessment\_admin role.
 
-9.  Click the help icon in the form header, and then click **[[whats-new|What's New]]** in the help sidebar.
+9.  Click the help icon in the form header, and then click **What's New** in the help sidebar.
 
     The overview help page for the current version appears, with the control button for the auditing dashboard displayed for the user in the order configured.
 
@@ -71,9 +71,5 @@ You can create a panel that displays a screenshot of auditing gauges to users wi
     The image you selected for your custom panel appears with the title and description you defined.
 
 
-**Parent Topic:**[[overview-help-pages|Overview help pages]]
+**Parent Topic:**[Overview help pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/overview-help-pages.md)
 
-## Related
-
-- [[overview-help-pages|Overview help pages]]
-- [[whats-new|What's New]]

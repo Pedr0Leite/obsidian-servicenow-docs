@@ -61,7 +61,7 @@ The Team Dashboard visualizations are segregated into the following tabs:
 -   Cycle Time: Report of the story cycle for the team.
 -   Program Predictability: Report of the team's historical performance in meeting the PI objectives.
 
-If you are upgrading from version 1.0.2 or earlier of [[pa-content-pack-essential-safe|Performance Analytics Content Pack for Essential SAFe]], then install this dashboard from Solution Library to upgrade its layout and access the following reports:
+If you are upgrading from version 1.0.2 or earlier of Performance Analytics Content Pack for Essential SAFe, then install this dashboard from Solution Library to upgrade its layout and access the following reports:
 
 -   Velocity History
 -   Velocity by Type
@@ -315,6 +315,3 @@ The objectives shown in this list are only for the selected team.
 </td></tr></tbody>
 </table>**Parent Topic:**[Performance Analytics Content Pack for Essential SAFe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/pa-content-pack-essential-safe.md)
 
-## Related
-
-- [[pa-content-pack-essential-safe|Performance Analytics Content Pack for Essential SAFe]]

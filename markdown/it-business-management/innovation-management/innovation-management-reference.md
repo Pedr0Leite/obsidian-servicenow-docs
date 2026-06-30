@@ -14,14 +14,10 @@ breadcrumb: [Innovation Management, Project Portfolio Management, Strategic Port
 
 # Innovation Management reference
 
-Reference information to provide additional details about [[innovation-management-landing|Innovation Management]] such as the fields, user roles, tables, and guidelines.
+Reference information to provide additional details about Innovation Management such as the fields, user roles, tables, and guidelines.
 
 -   **[Form field information for Innovation Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/form-field-information-for-innovation-management.md)**  
-Field information for [[form-field-information-for-dw|forms]] used in the Innovation Management.
+Field information for forms used in the Innovation Management.
 
 **Parent Topic:**[Innovation Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/innovation-management-landing.md)
 
-## Related
-
-- [[innovation-management-landing|Innovation Management]]
-- [[form-field-information-for-dw|Forms]]

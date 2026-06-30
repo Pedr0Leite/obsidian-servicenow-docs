@@ -24,7 +24,7 @@ Role required: sn\_vulc.admin
 
 This method requires selecting test results to include and creating the group from the **Actions on selected rows...** menu. This method is good for results that are not easily filtered or situations where you want to specify test results for remediation.
 
-**Note:** Starting with v14.9 of [[vr-config-compliance-landing|Configuration Compliance]], the following terms have been renamed:
+**Note:** Starting with v14.9 of Configuration Compliance, the following terms have been renamed:
 
 |Terminology prior to v14.9|Terminology v14.9 onwards|
 |--------------------------|-------------------------|
@@ -221,6 +221,4 @@ Change requests associated with this remediation task.
 </td></tr></tbody>
 </table>7.  Right click on the header to **Save** or click **Submit** to save and return to the list of remediation tasks.
 
-## Related
 
-- [[vr-config-compliance-landing|Configuration Compliance]]

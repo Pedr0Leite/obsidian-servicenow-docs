@@ -14,7 +14,7 @@ breadcrumb: [Authentication, Hardening settings, Platform Security]
 
 # Control Lockout Time for Invalid Password Reset Attempts
 
-The **password\_reset.[[c_requestAPI|request]].max\_attempt\_window** property controls the number of minutes a user must wait to reset or change their password after exceeding the maximum number of unsuccessful attempts that is set with the **password\_reset.request.max\_attempt** property.
+The **password\_reset.request.max\_attempt\_window** property controls the number of minutes a user must wait to reset or change their password after exceeding the maximum number of unsuccessful attempts that is set with the **password\_reset.request.max\_attempt** property.
 
 The **password\_reset.request.max\_attempt\_window** system property defines the number of minutes a user must wait to reset or change their password after exceeding the maximum number of unsuccessful attempts that is set with the **password\_reset.request.max\_attempt** property.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -94,7 +94,7 @@ Security risk
 
 -   Severity score:
 -   CVSS rating:
--   Security risk details: A value too low increases the risk of successfully brute forcing a password as a greater number of [[c_SelfServicePasswordReset|password reset]] attempts can be made.
+-   Security risk details: A value too low increases the risk of successfully brute forcing a password as a greater number of password reset attempts can be made.
 
 </td></tr><tr><td>
 
@@ -115,9 +115,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-authentication.md)
 
-## Related
-
-- [[c_requestAPI|request]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]
-- [[c_SelfServicePasswordReset|Password Reset]]

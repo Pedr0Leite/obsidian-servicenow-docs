@@ -66,7 +66,7 @@ Project Task \[prefix\_project\_task\]
 
 </td><td>
 
-Stores [[t_CreateAProjectTask|project tasks]].
+Stores project tasks.
 
 </td></tr><tr><td>
 
@@ -106,7 +106,7 @@ Project Template \[prefix\_project\_template\]
 
 </td><td>
 
-Stores project templates.**Note:** Project templates that are created in a teamspace area are not available in the main [[c_ProjectApplicationOverview|Project Management]] application any longer. They are only available to the teamspace in which they were created.
+Stores project templates.**Note:** Project templates that are created in a teamspace area are not available in the main Project Management application any longer. They are only available to the teamspace in which they were created.
 
 </td></tr><tr><td>
 
@@ -176,7 +176,3 @@ The teamspace application uses the same views that are provided in the Project, 
 
 [Using Teamspaces in Project Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_Teamspaces.md)
 
-## Related
-
-- [[t_CreateAProjectTask|Project tasks]]
-- [[c_ProjectApplicationOverview|Project Management]]

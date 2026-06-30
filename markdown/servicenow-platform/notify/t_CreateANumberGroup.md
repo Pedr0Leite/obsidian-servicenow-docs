@@ -14,7 +14,7 @@ breadcrumb: [Numbers and number groups, Notify reference, Notify, Manage service
 
 # Create a number group
 
-Group [[notify-landing-page|Notify]] phone numbers and share workflows across grouped numbers.
+Group Notify phone numbers and share workflows across grouped numbers.
 
 ## Before you begin
 
@@ -108,6 +108,3 @@ You can create multiple number groups and configure with different Twilio number
 
 **Parent Topic:**[Numbers and number groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/c_NumberGroups.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]

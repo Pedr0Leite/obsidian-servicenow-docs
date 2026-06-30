@@ -14,7 +14,7 @@ breadcrumb: [Service catalog home page configuration, Service Catalog customizat
 
 # Show item details in sections or pop-ups
 
-By default, a [[service-catalog|service catalog]] category displays the first two items with the preview section expanded to show item details. You can change the number of items that are previewed, or change the preview to appear in a pop-up window.
+By default, a service catalog category displays the first two items with the preview section expanded to show item details. You can change the number of items that are previewed, or change the preview to appear in a pop-up window.
 
 ## Before you begin
 
@@ -73,6 +73,3 @@ When set to **Yes**, the item details appear as a pop-up when the cursor hovers 
 </table>
 **Parent Topic:**[Service catalog home page configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_ManagingTheHomepageForACatalog.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]

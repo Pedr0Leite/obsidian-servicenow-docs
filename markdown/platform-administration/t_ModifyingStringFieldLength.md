@@ -20,7 +20,7 @@ Role required: personalize\_dictionary
 
 ## About this task
 
-The URL type field hides the Max Length field on the [[dictionary-form-ais|Dictionary form]] by default. Browsers support URL length up to 2,083 characters. The URL field is a String field.
+The URL type field hides the Max Length field on the Dictionary form by default. Browsers support URL length up to 2,083 characters. The URL field is a String field.
 
 ## Procedure
 
@@ -34,19 +34,13 @@ The URL type field hides the Max Length field on the [[dictionary-form-ais|Dicti
 
 4.  Click **Update**.
 
-    The system cancels any length change that [[hs-results|results]] in data loss due to truncation.
+    The system cancels any length change that results in data loss due to truncation.
 
 
-**Parent Topic:**[[customize-fields-now-platform-landing|Customizing fields on the ServiceNow AI Platform]]
+**Parent Topic:**[Customizing fields on the ServiceNow AI Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/customize-fields-now-platform-landing.md)
 
 **Related topics**  
 
 
-[[r_FieldTypes|Field types reference]]
+[Field types reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_FieldTypes.md)
 
-## Related
-
-- [[customize-fields-now-platform-landing|Customizing fields on the ServiceNow AI Platform]]
-- [[r_FieldTypes|Field types reference]]
-- [[dictionary-form-ais|Dictionary form]]
-- [[hs-results|Results]]

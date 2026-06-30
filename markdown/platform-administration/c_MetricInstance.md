@@ -22,10 +22,7 @@ Metric instance records get created and updated in one of two ways:
 Some of the notable fields in the metric\_instance table are:
 
 -   Metric definition: the metric definition for which this metric instance was gathered.
--   Value: For a "Field value duration" metric this is the value of the table field for which duration is calculated. For example, for the "Assigned to Duration" metric, the Value is the name of the person assigned to the incident. For other [[c_MetricDefinitionSupport|metrics]], the value can be any value calculated by the metric.
+-   Value: For a "Field value duration" metric this is the value of the table field for which duration is calculated. For example, for the "Assigned to Duration" metric, the Value is the name of the person assigned to the incident. For other metrics, the value can be any value calculated by the metric.
 -   ID: Identifies the specific record for which the metric is gathered. For example, the specific incident.
 -   Duration: Time duration for a Field value duration metric.
 
-## Related
-
-- [[c_MetricDefinitionSupport|Metrics]]

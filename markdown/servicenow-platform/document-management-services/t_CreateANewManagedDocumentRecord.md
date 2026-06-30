@@ -26,7 +26,7 @@ Role required: document\_management\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ManagedDocuments|Managed Documents]]** &gt; **Create New**.
+1.  Navigate to **All** &gt; **Managed Documents** &gt; **Create New**.
 
 2.  In the **Name** field, type `Policy`.
 
@@ -51,6 +51,3 @@ Role required: document\_management\_user
 
 **Parent Topic:**[Managed Documents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/c_ManagedDocuments.md)
 
-## Related
-
-- [[c_ManagedDocuments|Managed Documents]]

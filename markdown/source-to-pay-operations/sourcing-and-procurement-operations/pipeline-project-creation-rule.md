@@ -14,7 +14,7 @@ breadcrumb: [Sourcing Pipeline Management, Explore, Sourcing and Procurement Ope
 
 # Pipeline project creation rule for high-value sourcing requests
 
-By default, the Pipeline project creation rule decision table is used to create pipeline projects automtatically in [[spo-sourcing-pipeline-mgmt|Sourcing Pipeline Management]].
+By default, the Pipeline project creation rule decision table is used to create pipeline projects automtatically in Sourcing Pipeline Management.
 
 **Note:** You must have the `sn_spend_pipeline.pipeline_management_admin` role to update the Pipeline project creation rule decision table configuration.
 
@@ -22,9 +22,9 @@ The `sn_spend_pipeline.pipeline_management_admin` role contains the `decision_ta
 
 \[Omitted image "pipeline-decision-table.png"\] Alt text: Pipeline project creation rule.
 
-When a shopper requests [[pricing|pricing]] for items exceeding $250,000 through ShoppingHub, the following decision inputs are automatically evaluated to apply the rule conditions:
+When a shopper requests pricing for items exceeding $250,000 through ShoppingHub, the following decision inputs are automatically evaluated to apply the rule conditions:
 
--   [[sourcing-request|Sourcing request]] \[sn\_shop\_sourcing\_activity\]
+-   Sourcing request \[sn\_shop\_sourcing\_activity\]
 -   Purchase line \[sn\_shop\_purchase\_line\]
 
 The Pipeline project creation rule is applied to the Budget field in the Sourcing Request \(SR\). This rule determines whether a pipeline project should be created for the SR based on the following conditions:
@@ -36,8 +36,3 @@ The Pipeline project creation rule is applied to the Budget field in the Sourcin
 
 **Parent Topic:**[Sourcing Pipeline Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-sourcing-pipeline-mgmt.md)
 
-## Related
-
-- [[spo-sourcing-pipeline-mgmt|Sourcing Pipeline Management]]
-- [[pricing|Pricing]]
-- [[sourcing-request|Sourcing request]]

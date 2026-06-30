@@ -26,9 +26,9 @@ You can specify filters that narrow the scope of an audit, for example, to audit
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[landing-page-tag-governance|Tag Governance]]** &gt; **Policies**.
+1.  Navigate to **All** &gt; **Tag Governance** &gt; **Policies**.
 
-2.  Select **New** and then fill in the [[tag-gov-tag-policies-form|Tag Policies form]].
+2.  Select **New** and then fill in the Tag Policies form.
 
     The form fields are described in [Tag Policies form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/tag-governance/tag-gov-tag-policies-form.md).
 
@@ -43,7 +43,3 @@ You can specify filters that narrow the scope of an audit, for example, to audit
 -   Select the **Run Point Scan** related link to execute all applicable checks against the record.
 -   For more information see, [Flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/flows.md) and [Subflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/subflows.md).
 
-## Related
-
-- [[landing-page-tag-governance|Tag Governance]]
-- [[tag-gov-tag-policies-form|Tag Policies form]]

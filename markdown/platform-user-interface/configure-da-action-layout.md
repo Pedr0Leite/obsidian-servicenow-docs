@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-A form action layout combines multiple [[configurable-workspace-glossary|form action layout items]] and [form action layout groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configurable-workspace-glossary.md) into a single table-based layout that determines which actions appear on the form.
+A form action layout combines multiple [form action layout items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configurable-workspace-glossary.md) and [form action layout groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configurable-workspace-glossary.md) into a single table-based layout that determines which actions appear on the form.
 
 The form action layout chosen to appear on the form is determined in the following ways:
 
@@ -39,17 +39,17 @@ The form action layout chosen to appear on the form is determined in the followi
 
 1.  Open your workspace experience in UI Builder.
 
-    For instructions, see [[open-your-configurable-workspace-experience-in-ui-builder|Open a Configurable Workspace experience in UI Builder]].
+    For instructions, see Open a Configurable Workspace experience in UI Builder.
 
 2.  Select or create a page that contains the Form component.
 
     For example, select a record page.
 
-    For instructions on creating a workspace page in UI Builder, see [[create-configurable-workspace-page-uib|Create a Configurable Workspace page]].
+    For instructions on creating a workspace page in UI Builder, see [Create a Configurable Workspace page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/create-configurable-workspace-page-uib.md).
 
 3.  From the Data and scripts tree, select the **Form Controller**.
 
-4.  Select the **[[configure-onboarding-modals|Configure]]** tab and expand the **Advanced** section.
+4.  Select the **Configure** tab and expand the **Advanced** section.
 
 5.  In the Action layout property, select a UX Form Actions Layout record.
 
@@ -60,9 +60,3 @@ The form action layout chosen to appear on the form is determined in the followi
 
 The actions specified in the form action layout appear on the workspace page.
 
-## Related
-
-- [[configurable-workspace-glossary|Configurable Workspace glossary]]
-- [[create-configurable-workspace-page-uib|Create a Configurable Workspace page]]
-- [[open-your-configurable-workspace-experience-in-ui-builder|Open a Configurable Workspace experience in UI Builder]]
-- [[configure-onboarding-modals|Configure]]

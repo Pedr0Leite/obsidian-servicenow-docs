@@ -17,7 +17,7 @@ breadcrumb: [Creating users, companies, departments, User administration, Config
 
 The Normalization Data Services plugin helps maintain consistency for table fields that refer to a company name.
 
-Tables related to configuration items and [[ia-assets|assets]] usually contain columns referring to a company name, such as a vendor or manufacturer. Often, these tables refer to the same company by several different names. This situation can happen for many reasons. For example, vendors sometimes use different company names depending on the device. This inconsistency creates problems, especially for reports that rely on these company names.
+Tables related to configuration items and assets usually contain columns referring to a company name, such as a vendor or manufacturer. Often, these tables refer to the same company by several different names. This situation can happen for many reasons. For example, vendors sometimes use different company names depending on the device. This inconsistency creates problems, especially for reports that rely on these company names.
 
 The Normalization Data Services plugin helps alleviate this problem.
 
@@ -27,7 +27,7 @@ When you enable and configure the Normalization Data Services plugin, the system
 
 While the Normalization Data Services plugin provides services similar to the field normalization feature, this plugin doesn’t require you to manually set up the mappings from one name to another. If you like, you can add your own mappings to the set. However, you automatically start with extensive lists of common company names \(normalized names\) and their variants \(discovered names\).
 
-The Normalization Data Services plugin stores data in two tables. The [[r_NormalizedCompanyNames|Normalized Company Names table]] contains the list of normalized company names. The [[r_NormalizedMappings|Normalized Mappings table]] contains the mappings between each discovered name and its normalized name.
+The Normalization Data Services plugin stores data in two tables. The Normalized Company Names table contains the list of normalized company names. The Normalized Mappings table contains the mappings between each discovered name and its normalized name.
 
 **Important:** If you edit a field whose value is a normalized name, you change the normalized name for ALL discovered names that map to it. These types of updates occur regardless of the table in which you edit the field.
 
@@ -40,7 +40,7 @@ The Normalization Data Services plugin stores the normalized company names in th
 -   **[Normalized Mappings table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/r_NormalizedMappings.md)**  
 The Normalized Mappings table lists all the discovered names and the normalized name to which each maps.
 -   **[Normalization properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/r_NormalizedProperties.md)**  
-On the [[r_NormalizedProperties|normalization properties]] form, you can see and change the configurable properties for the Normalization Data Services plugin.
+On the normalization properties form, you can see and change the configurable properties for the Normalization Data Services plugin.
 -   **[Changing normalized company names](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/c_NormalChangingNames.md)**  
 You can change a normalized company name several different ways. In all cases, that change affects all normalized fields referring to that company.
 -   **[Enabling duplicate company names in extension tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/enhanced-nds-for-duplicate-records.md)**  
@@ -48,9 +48,3 @@ You can create records with duplicate company names in extension tables, such as
 
 **Parent Topic:**[Creating users, companies, and departments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/using-user-administration.md)
 
-## Related
-
-- [[ia-assets|Assets]]
-- [[r_NormalizedCompanyNames|Normalized company names table]]
-- [[r_NormalizedMappings|Normalized Mappings table]]
-- [[r_NormalizedProperties|Normalization properties]]

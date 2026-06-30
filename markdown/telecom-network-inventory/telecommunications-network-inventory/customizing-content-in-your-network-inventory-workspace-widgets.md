@@ -14,7 +14,7 @@ breadcrumb: [Define inventory records, Use, Telecommunications Network Inventory
 
 # Customizing the content in your Network Inventory Workspace widgets
 
-The [[exploring-network-inventory-workspace|Network Inventory Workspace]] is delivered in the base system with a standard set of information in each [[network-inventory-workspace-landing-page|landing page]] widget. You can easily customize this content to include other [[telecom-network-inventory|Telecommunications Network Inventory]] data.
+The Network Inventory Workspace is delivered in the base system with a standard set of information in each landing page widget. You can easily customize this content to include other Telecommunications Network Inventory data.
 
 ## Standard CMDB groups and naming conventions for Network Inventory Workspace widget data
 
@@ -126,8 +126,3 @@ Add or change the data that you see in a Network Inventory Workspace widget by u
 
 [Network Inventory Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/exploring-network-inventory-workspace.md)
 
-## Related
-
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[network-inventory-workspace-landing-page|Landing page]]
-- [[telecom-network-inventory|Telecommunications Network Inventory]]

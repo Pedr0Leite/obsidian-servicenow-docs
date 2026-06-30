@@ -24,19 +24,19 @@ Role required: admin
 
 Most action items use parameters.
 
-Use action items to define what an action function does when a user uses that function. The following steps detail creating an action without parameters. To create a parametrized action item, see [[sg-create-action-item-param|Configure an action item with parameters]].
+Use action items to define what an action function does when a user uses that function. The following steps detail creating an action without parameters. To create a parametrized action item, see [Configure an action item with parameters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-create-action-item-param.md).
 
 **Note:** ServiceNow mobile apps are unable to perform any actions that cannot be performed in the platform web-based interface. For example, if you use ACLs to prevent a user from closing an incident without adding a resolution code and notes, the user cannot close an incident in the app without the same requirements. Keep this in mind when creating actions, so that you can add the correct parameters.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select **Functions** from the menu, and then select **New**.
 
@@ -76,7 +76,7 @@ The kind of action item. Choose from the following:-   New
 -   Update
 -   Delete
 -   Script
--   MultiStep. For more information, see [[configure-action-steps|Configure action steps within an action item]].
+-   MultiStep. For more information, see [Configure action steps within an action item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/configure-action-steps.md).
 Different fields appear on the action item form depending on the type of action you select.
 
 </td></tr><tr><td>
@@ -125,11 +125,11 @@ Determine the field values for an action. For example, if you want to create an 
 
 </td></tr><tr><td>
 
-[[parameter-input-screen|Input Form Screen]]
+Input Form Screen
 
 </td><td>
 
-Select an input form screen to use for this action item. See [[parameter-screen-config|Configure an input form screen]].
+Select an input form screen to use for this action item. See [Configure an input form screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/parameter-screen-config.md).
 
 </td></tr></tbody>
 </table>5.  Select **Save**.
@@ -189,16 +189,7 @@ If you use parameters for the action item, you can call them in the script. The 
 
 ## What to do next
 
-Associate the action item with an action function, see [[sg-studio-config-action-function|action function]].
+Associate the action item with an action function, see [action function](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-studio-config-action-function.md).
 
 Associate action steps to an action item, see [Configure action steps within an action item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/configure-action-steps.md).
 
-## Related
-
-- [[sg-create-action-item-param|Configure an action item with parameters]]
-- [[configure-action-steps|Configure action steps within an action item]]
-- [[parameter-screen-config|Configure an input form screen]]
-- [[sg-studio-config-action-function|Configure an action function]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]
-- [[parameter-input-screen|Input form screen]]

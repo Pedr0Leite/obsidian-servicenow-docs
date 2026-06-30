@@ -14,7 +14,7 @@ breadcrumb: [Exploring Metric Intelligence, Metric Intelligence, IT Operations M
 
 # Metric collection sources
 
-When setting up [[operational-metrics|Metric Intelligence]], you must configure a source for metric collection. Metric collection can be performed either by the [[acc-landing-page|Agent Client Collector]], or by metric connectors.
+When setting up Metric Intelligence, you must configure a source for metric collection. Metric collection can be performed either by the Agent Client Collector, or by metric connectors.
 
 The metric collection source determines where Metric Intelligence gathers metrics from. For details on gathering metrics using Agent Client Collector, see [Configuring Agent Client Collector Monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/configuring-agent-client-collector-monitoring.md).
 
@@ -22,7 +22,3 @@ When gathering metrics with connectors, use either a SCOM or Dynatrace connector
 
 For details on connecting metrics using a Dynatrace connector, see [Configure the Dynatrace metrics connector instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-dynatrace-connector.md).
 
-## Related
-
-- [[operational-metrics|Metric Intelligence]]
-- [[acc-landing-page|Agent Client Collector]]

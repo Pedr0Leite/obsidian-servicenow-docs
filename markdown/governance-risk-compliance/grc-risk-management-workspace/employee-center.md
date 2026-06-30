@@ -22,10 +22,10 @@ If you integrate GRC with the Employee Center, you can provide all employees an 
 
 -   Quickly [report risk events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/report-risk-event-from-employee-center.md).
 -   Report an issue.
--   [[request-policy-exception|Request a policy exception]].
+-   Request a policy exception.
 -   Use **My tasks** to get a consolidated view of all your tasks and perform them immediately.
 -   Respond to a risk identification questionnaire.
--   Complete other GRC tasks such as control attestation questionnaire, classic [[risk-assessments|risk assessments]] and so on.
+-   Complete other GRC tasks such as control attestation questionnaire, classic risk assessments and so on.
 
 The following images show you the user interface of the Employee Center.
 
@@ -33,7 +33,3 @@ The following images show you the user interface of the Employee Center.
 
 \[Omitted image "grc-tasks-on-employee-center.png"\] Alt text: GRC tasks for the users on the Employee Center.
 
-## Related
-
-- [[request-policy-exception|Request a policy exception]]
-- [[risk-assessments|risk assessments]]

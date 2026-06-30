@@ -48,7 +48,7 @@ To see documentation for another review phase, click the relevant box in the dia
 
 2.  Alternatively, send an service instance for review from its map:
 
-    1.  Navigate to **[[c_ServiceMappingOverview|Service Mapping]]** &gt; **Home**.
+    1.  Navigate to **Service Mapping** &gt; **Home**.
 
         The Home page displays only information on service instances that Service Mapping can discover or already discovered. The Home page does not display information on service instances that are created manually or using the API.
 
@@ -69,6 +69,3 @@ When you receive an email notification that the owner sent comments for this ser
 
 **Parent Topic:**[Review and approval of application service maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/business-service-approval.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]

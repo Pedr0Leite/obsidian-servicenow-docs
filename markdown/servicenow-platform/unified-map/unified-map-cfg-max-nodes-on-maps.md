@@ -26,7 +26,7 @@ Role required: sn\_cmdb\_admin
 
 Admins can set the maximum node count using the **unifiedmap.map\_search.max\_nodes** property in the workspace-specific \[sn\_cmdb\_ws\_config\_property\] table.
 
-These workspace-specific configuration settings affect all users of the CMDB [[cmdb-workspace-unified-map|Unified Map]] page. The settings don't affect other copies of the Unified Map template.
+These workspace-specific configuration settings affect all users of the CMDB Unified Map page. The settings don't affect other copies of the Unified Map template.
 
 ## Procedure
 
@@ -86,6 +86,3 @@ The top-level **UX Application ID** to which this configuration applies. This is
 
 **Parent Topic:**[Configuring Unified Map — admin settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/administer-unified-map.md)
 
-## Related
-
-- [[cmdb-workspace-unified-map|Unified Map]]

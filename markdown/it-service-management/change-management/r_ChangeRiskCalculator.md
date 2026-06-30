@@ -18,7 +18,7 @@ The Best Practice - Change Risk Calculator plugin enables dynamic calculations o
 
 The Best Practice- Change Risk Calculator plugin bundles some risk calculations using configuration item \(CI\) attributes and time measures.
 
-A [[c_ITILChangeManagement|change management]] system property determines the risk calculation method. In **Change** &gt; **Administration** &gt; **Risk Properties**, the administrator selects one of the following methods.
+A change management system property determines the risk calculation method. In **Change** &gt; **Administration** &gt; **Risk Properties**, the administrator selects one of the following methods.
 
 <table id="table_dyk_swl_wy"><thead><tr><th>
 
@@ -51,7 +51,7 @@ Enables conditions to be evaluated and applied dynamically through a business ru
 
  Users with the admin or the itil role or both can execute this business rule.
 
- **Note:** The **Run Risk Calculation** business rule replaces the **Calculate Risk** business rule when the Change Management - [[c_RskAsmtCalc|Risk Assessment]] plugin is activated.
+ **Note:** The **Run Risk Calculation** business rule replaces the **Calculate Risk** business rule when the Change Management - Risk Assessment plugin is activated.
 
 </td></tr><tr><td>
 
@@ -69,7 +69,3 @@ Disables the processing of risk and impact rules.
 
 [Add or modify risk and impact conditions]()
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]
-- [[c_RskAsmtCalc|Risk assessment]]

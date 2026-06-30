@@ -14,12 +14,12 @@ breadcrumb: [ACC installation on a Linux OS system, ACC deployment - servers, Co
 
 # Upgrade the Agent Client Collector manually on a Linux system
 
-Perform a manual upgrade of your existing [[acc-landing-page|Agent Client Collector]] version on a system running a Linux OS if the single-line command script is not connected to the instance or you want to use enhanced customization options.
+Perform a manual upgrade of your existing Agent Client Collector version on a system running a Linux OS if the single-line command script is not connected to the instance or you want to use enhanced customization options.
 
 ## Before you begin
 
 -   Ensure that you have configured the Agent Client Collector web server. For more information, see [Configure the websocket server on the MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-configure-web-server.md).
--   Restart the [[mid-web-server|MID Web Server]].
+-   Restart the MID Web Server.
 -   Collect host data, to ensure that all files are up to date. For details, see [Collect data from your system devices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/checks-policies-working-with.md).
 -   Ensure that you have installed a Linux version of the Agent Client Collector. For more information, see [Agent Client Collector installation on a Linux OS system](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-install-linux-concept.md).
 -   The upgrade procedure is the same for both MID Server and MID-less deployments.
@@ -102,7 +102,3 @@ Perform a manual upgrade of your existing [[acc-landing-page|Agent Client Collec
 
 **Parent Topic:**[Agent Client Collector installation on a Linux OS system](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-install-linux-concept.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[mid-web-server|MID Web Server]]

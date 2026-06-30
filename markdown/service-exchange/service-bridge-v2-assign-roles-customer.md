@@ -14,7 +14,7 @@ breadcrumb: [Personas for consumers, Configure for consumers, Service Exchange f
 
 # Assign roles and personas to groups for Service Exchange
 
-Associate groups with [[tmt-service-bridge-both-landing-page|Service Exchange]] Personas to grant all group members access to remote catalog items, instead of assigning users individually.
+Associate groups with Service Exchange Personas to grant all group members access to remote catalog items, instead of assigning users individually.
 
 ## Before you begin
 
@@ -68,6 +68,3 @@ Action
 
 All members of the group can access the roles and remote catalog items linked to the assigned personas. Access updates automatically when group membership changes.
 
-## Related
-
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]

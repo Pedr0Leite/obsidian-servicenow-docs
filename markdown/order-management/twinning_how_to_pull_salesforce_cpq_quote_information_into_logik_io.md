@@ -14,9 +14,9 @@ breadcrumb: [CPQ integration with Salesforce B2B Commerce, CPQ with other apps, 
 
 You can set up Salesforce.com and CPQ to bring quote data into a CPQ configuration at runtime.
 
-**Note:** This article is relevant only to [[use-cases|use cases]] that are integrated with Salesforce CPQ.
+**Note:** This article is relevant only to use cases that are integrated with Salesforce CPQ.
 
-On occasion, the CPQ Admin will need to bring Salesforce.com \(SFDC\) quote data into CPQ, to drive configuration, [[rules_101|rules]], calculations, and so on. This article describes the setup in both SFDC and CPQ that will bring relevant quote data into a CPQ configuration experience at runtime. This method of data transfer is nicknamed Twin Field or "field twinning."
+On occasion, the CPQ Admin will need to bring Salesforce.com \(SFDC\) quote data into CPQ, to drive configuration, rules, calculations, and so on. This article describes the setup in both SFDC and CPQ that will bring relevant quote data into a CPQ configuration experience at runtime. This method of data transfer is nicknamed Twin Field or "field twinning."
 
 CPQ rules run differently depending on whether the account is a new prospect or an existing customer. CPQ allows new prospects to select from a subset of offers such as starter packages, whereas existing customers are limited to renewing their existing products or upgrading to higher value products.
 
@@ -24,7 +24,7 @@ CPQ rules run differently depending on whether the account is a new prospect or 
 
 The CPQ managed package installed in your SFDC environment should be version 0.8 \(released February 4, 2022\) or later. If the managed package has not been upgraded, log an Upgrade SFDC Managed Package Request ticket in the Help Center.
 
-Navigation in SFDC: Setup -&gt; Object Manager -&gt; quote \(SBQQ Quote\_c\) -&gt; Field [[cpq-sets|Sets]].
+Navigation in SFDC: Setup -&gt; Object Manager -&gt; quote \(SBQQ Quote\_c\) -&gt; Field Sets.
 
 In the SFDC CPQ quote object \(SBQQ\_Quote\_c\), confirm that there is a field set named ReferencedFields. If no field set named ReferencedFields exists, create it. Navigation in SFDC: Setup -&gt; Object Manager -&gt; quote \(SBQQ Quote\_c\) -&gt; Field Sets.
 
@@ -34,7 +34,7 @@ In the SFDC CPQ quote object \(SBQQ\_Quote\_c\), confirm that there is a field s
 
     In Logik, variable names begin with a lowercase character by default. Take care to make sure your twinned quote object in SFDC begins with a lowercase character as well.
 
-2.  Add this custom field to the ReferencedFields field set on the quote object. In SFDC, navigate to Setup -&gt; Object Manager -&gt; quote \(SBQQ\_Quote\_c\) -&gt; Field Sets -&gt; ReferencedFields. From the list of quote [[fields|fields]], drag and drop your new custom field into the In the Field Set box.
+2.  Add this custom field to the ReferencedFields field set on the quote object. In SFDC, navigate to Setup -&gt; Object Manager -&gt; quote \(SBQQ\_Quote\_c\) -&gt; Field Sets -&gt; ReferencedFields. From the list of quote fields, drag and drop your new custom field into the In the Field Set box.
 
     \[Omitted image "cpq-salesforce-field-sets.png"\] Alt text: SFDC CPQ quote object
 
@@ -48,9 +48,3 @@ When a user transitions from a SFDC quote into CPQ, the new field in CPQ, &lt;so
 
 In Salesforce, the ReferencedFields field set is a custom field set that can be created on the Quote, Quote Line, and Quote Line Group objects. For more information, see [SFDC: ReferencedFields Field Set in Salesforce CPQ](https://help.salesforce.com/s/articleView?id=000382259&type=1).
 
-## Related
-
-- [[use-cases|Use cases]]
-- [[rules_101|Rules]]
-- [[cpq-sets|Sets]]
-- [[fields|Fields]]

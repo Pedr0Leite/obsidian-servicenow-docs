@@ -14,7 +14,7 @@ breadcrumb: [Configure, Legal Invention Disclosure, Legal Service Delivery Pract
 
 # Set up Outside Counsels for Legal Invention Disclosure
 
-Create Outside Counsel records to enable outside counsels to work on a [[legal-invention-disclosure-landing|Legal Invention Disclosure]] request.
+Create Outside Counsel records to enable outside counsels to work on a Legal Invention Disclosure request.
 
 ## Before you begin
 
@@ -48,7 +48,7 @@ Navigate to **All** &gt; **Legal Matter** &gt; **Outside Counsel Setup** &gt; **
 
 </td></tr><tr><td id="d139557e114">
 
-**From [[legal-counsel-center-landing|Legal Counsel Center]]**
+**From Legal Counsel Center**
 
 </td><td>
 
@@ -75,7 +75,3 @@ Navigate to **All** &gt; **Legal Matter** &gt; **Outside Counsel Setup** &gt; **
 
 **Parent Topic:**[Configure Legal Invention Disclosure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/configure-legal-invention-disclosure.md)
 
-## Related
-
-- [[legal-invention-disclosure-landing|Legal Invention Disclosure]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]

@@ -35,7 +35,7 @@ To create a trigger condition:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **Surveys** &gt; **Trigger Conditions**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **Surveys** &gt; **Trigger Conditions**.
 
 2.  Click **New**.
 
@@ -48,6 +48,3 @@ To create a trigger condition:
 
 **Parent Topic:**[HR surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_HRSurveysIst.md)
 
-## Related
-
-- [[c_AdministerHRServiceManagement|HR Administration]]

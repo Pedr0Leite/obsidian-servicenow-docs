@@ -26,21 +26,16 @@ An ECCN is a five character alphanumeric key that helps you identify products th
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sam-workspace|Software Asset Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Software Asset Workspace**.
 
-2.  From the Software Asset Workspace, open the [[operations-workspace|License operations view]].
+2.  From the Software Asset Workspace, open the License operations view.
 
 3.  From the navigation menu of the License operations view, navigate to **Content** &gt; **Software ECCN Mapping**.
 
 4.  View the complete list of ECCNs that are mapped to your software products.
 
-    **Note:** ECCN mappings are curated and stored in the [[c_SoftwareAssetMgmt|Software Asset Management]] Content Library. However, the Content Service team does not dictate any mappings between the ECCNs and software products. Each ECCN is mapped to an appropriate software product based only on either the official ECCN information that has been published by the given software publisher or the official classifications that have been provided by the Bureau of Industry and Security \(BIS\).
+    **Note:** ECCN mappings are curated and stored in the Software Asset Management Content Library. However, the Content Service team does not dictate any mappings between the ECCNs and software products. Each ECCN is mapped to an appropriate software product based only on either the official ECCN information that has been published by the given software publisher or the official classifications that have been provided by the Bureau of Industry and Security \(BIS\).
 
 
 **Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/using-sam-workspace.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]
-- [[operations-workspace|License operations view]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

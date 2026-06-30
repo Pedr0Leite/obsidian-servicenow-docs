@@ -24,7 +24,7 @@ Role required: sn\_eam.enterprise\_asset\_manager, sn\_eam.enterprise\_admin, or
 
 ## Procedure
 
-1.  From the [[using-eam-workspace|Enterprise Asset Workspace]], navigate to **Asset operations** &gt; **Moves** &gt; **Move orders**.
+1.  From the Enterprise Asset Workspace, navigate to **Asset operations** &gt; **Moves** &gt; **Move orders**.
 
 2.  From the list of available move orders, select the move order that you want to complete.
 
@@ -85,6 +85,3 @@ Move all remaining enterprise assets that are included in the move order. After 
 
 **Parent Topic:**[Completing an enterprise asset move order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/completing-enterprise-asset-move-order.md)
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]

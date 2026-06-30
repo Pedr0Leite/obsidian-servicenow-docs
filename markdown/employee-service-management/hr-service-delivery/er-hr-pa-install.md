@@ -14,7 +14,7 @@ breadcrumb: [Analytics and Reporting Solutions for Employee Relations, Employee 
 
 # Activate the Analytics and Reporting Solution for Employee Relations
 
-Activate the content pack plugins for the [[eslate-analytics-reporting|Analytics and Reporting]] Solution.
+Activate the content pack plugins for the Analytics and Reporting Solution.
 
 ## Before you begin
 
@@ -40,7 +40,7 @@ Human Resources Scoped App: Core \[com.sn\_hr\_core\]
 
 </td><td>
 
-Enables you to standardize the documentation, interaction, and fulfillment of employee inquiries and requests.**Note:** [[hr-case-employee-relations|Employee relations]] require activation of this plugin, but is a separate scope.
+Enables you to standardize the documentation, interaction, and fulfillment of employee inquiries and requests.**Note:** Employee relations require activation of this plugin, but is a separate scope.
 
 </td></tr><tr><td>
 
@@ -68,8 +68,3 @@ Enables you to easily manage employee relations and investigations cases.
 3.  Install the application.
 
 4.  
-
-## Related
-
-- [[eslate-analytics-reporting|Analytics and reporting]]
-- [[hr-case-employee-relations|Employee Relations]]

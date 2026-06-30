@@ -18,7 +18,7 @@ For ITSM, specifically incident and change, identifying the location of critical
 
 ## Key features of the Change Management use case
 
-Applying the CSDM framework provides value to [[c_ITILChangeManagement|Change Management]] in the following ways:
+Applying the CSDM framework provides value to Change Management in the following ways:
 
 -   Enables users to understand the impact of a change on services and service offerings.
 -   Changes are dynamically routed.
@@ -33,7 +33,7 @@ Applying the CSDM framework provides value to [[c_ITILChangeManagement|Change Ma
     -   Service Subscriptions by Location \[service\_subscribe\_location\]
     -   Service Subscriptions by User \[service\_subscribe\_sys\_user\]
 2.  Business service offering may be used to provide the business approver based on approval\_group and business\_criticality. A business service may have multiple offerings, each with a different criticality.
-3.  Technical service offering may be used to provide the technical approver approval\_group and technical assignment group on the attribute assignment\_group. May be used by change for routing of change and [[change-tasks|change tasks]]. May be synchronized onto the CI’s that the offerings manage thus reducing the manual overhead of maintaining manual data on thousands/millions of CI’s.
+3.  Technical service offering may be used to provide the technical approver approval\_group and technical assignment group on the attribute assignment\_group. May be used by change for routing of change and change tasks. May be synchronized onto the CI’s that the offerings manage thus reducing the manual overhead of maintaining manual data on thousands/millions of CI’s.
 4.  Service instance \(the table was formerly labeled application service\) may be used to provide prod and non-prod \(DEV, QA, UAT, etc.\) environments. Non-prod environments may be filtered out if desired. The legacy **used\_for** attribute maps to the **environment** attribute. You should use the **environment** attribute.
 
     **Note:** Some technology service offerings \(the table was formerly labeled service offering\) may identify the **environment** of the offering as well.
@@ -59,7 +59,3 @@ Use the Change Request form to see the impact of the change. Complete the follow
 
 **Parent Topic:**[Applying CSDM guidelines to Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/itsm-change-use-case-product-view.md)
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]
-- [[change-tasks|Change tasks]]

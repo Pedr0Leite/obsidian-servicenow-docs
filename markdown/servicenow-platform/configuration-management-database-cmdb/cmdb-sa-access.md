@@ -14,15 +14,15 @@ breadcrumb: [CMDB success advisor, Configuration Management Database \(CMDB\), C
 
 # Access CMDB success advisor
 
-You can access CMDB success advisor from the [[sg-workspace|Service Graph Workspace]] and CMDB Workspace to set up and manage application-specific dashboards. Depending on your progress, you can either begin the setup or access the dashboard to monitor and manage targeted configuration items \(CIs\) for an application.
+You can access CMDB success advisor from the Service Graph Workspace and CMDB Workspace to set up and manage application-specific dashboards. Depending on your progress, you can either begin the setup or access the dashboard to monitor and manage targeted configuration items \(CIs\) for an application.
 
 ## Before you begin
 
-**Important:** [[cmdb-sa|CMDB success advisor]] \(sn\_cmdb\_advisor\) is a Next Experience application. It requires CMDB Workspace \(sn\_cmdb\_ws\) and [[sgcc-landing|SGC Central]] \(sn\_sgc\_central\) to be installed on your instance. If the application is not visible, contact your administrator to confirm these dependencies are installed and that you have the sn\_cmdb\_admin role.
+**Important:** CMDB success advisor \(sn\_cmdb\_advisor\) is a Next Experience application. It requires CMDB Workspace \(sn\_cmdb\_ws\) and SGC Central \(sn\_sgc\_central\) to be installed on your instance. If the application is not visible, contact your administrator to confirm these dependencies are installed and that you have the sn\_cmdb\_admin role.
 
 Role required: sn\_cmdb\_admin
 
-**Note:** Users with the cmdb\_user or cmdb\_editor role can access CMDB success advisor from the [[sg-workspace-insights-view|Insights view in Service Graph Workspace]] v9.1 and view the Dashboard tab only. The Settings and Integrations tabs require the sn\_cmdb\_admin role.
+**Note:** Users with the cmdb\_user or cmdb\_editor role can access CMDB success advisor from the Insights view in Service Graph Workspace v9.1 and view the Dashboard tab only. The Settings and Integrations tabs require the sn\_cmdb\_admin role.
 
 ## About this task
 
@@ -34,7 +34,7 @@ You can access the CMDB success advisor app from Service Graph Workspace and CMD
 
     1.  Navigate to Service Graph Workspace.
 
-        To learn more on how to [[setup-service-graph-workspace|set up Service Graph Workspace]], see [Set up Service Graph Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/setup-service-graph-workspace.md).
+        To learn more on how to set up Service Graph Workspace, see [Set up Service Graph Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/setup-service-graph-workspace.md).
 
     2.  In the navigation panel, select the **Governance** icon.
 
@@ -46,7 +46,7 @@ You can access the CMDB success advisor app from Service Graph Workspace and CMD
 
         -   On first access, select **Get started**, and then in the Get started with CMDB success advisor dialog box, select **Continue**.
 
-            **Tip:** Select the **Don't show again** [[check-box|check box]] to skip the dialog box in the future.
+            **Tip:** Select the **Don't show again** check box to skip the dialog box in the future.
 
         -   On subsequent visits, select **View details**.
 -   From the Insights view in Service Graph Workspace:
@@ -77,11 +77,3 @@ You can access the CMDB success advisor app from Service Graph Workspace and CMD
 
 The CMDB success advisor landing page opens, displaying product cards for Data Foundations and application-specific modules like Hardware Asset Management \(HAM\). Each card includes a brief description and action buttons to configure dashboards and review data quality insights and metrics.
 
-## Related
-
-- [[sg-workspace|Service Graph Workspace]]
-- [[cmdb-sa|CMDB success advisor]]
-- [[sgcc-landing|SGC Central]]
-- [[sg-workspace-insights-view|Insights view in Service Graph Workspace]]
-- [[setup-service-graph-workspace|Set up Service Graph Workspace]]
-- [[check-box|Check box]]

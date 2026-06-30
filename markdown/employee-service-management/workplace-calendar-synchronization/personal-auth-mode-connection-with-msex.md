@@ -76,7 +76,7 @@ Create reservation
 
 </td><td>
 
-The following restrictions apply when creating reservations from theWorkplace Service Delivery \(WSD\) portal, [[event-planner|Event planner]], Quick Reservation, and Now Mobile:-   **In Personal mode**
+The following restrictions apply when creating reservations from theWorkplace Service Delivery \(WSD\) portal, Event planner, Quick Reservation, and Now Mobile:-   **In Personal mode**
 
 If the requested-for user doesn’t match the session user, the reservation can’t be created.
 
@@ -114,7 +114,7 @@ Users can only update or cancel a reservation if the Sync mailbox is set to **ot
 
 </td></tr></tbody>
 </table>-   **[Configure Microsoft Azure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/configure-azure-personal-auth-mode.md)**  
-Set up a personal mode of authentication with Microsoft Azure to connect Microsoft Exchange Online with [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]].
+Set up a personal mode of authentication with Microsoft Azure to connect Microsoft Exchange Online with Workplace Calendar Synchronization.
 -   **[Configure resource rooms in Microsoft Exchange Online](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/configure-resource-rooms-in-msex.md)**  
 Specify your delegated user email in the Microsoft portal to access the resource calendar.
 -   **[Set up personal authentication mode OAuth connectivity with Microsoft Exchange Online](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/setup-personal-auth-mode-oauth-connectivity-with-msex.md)**  
@@ -128,7 +128,3 @@ Enhance your workplace reservation experience with the Workplace Calendar Synchr
 
 **Parent Topic:**[Configure Workplace Calendar Synchronization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/configure-rsv-sync.md)
 
-## Related
-
-- [[event-planner|Event Planner]]
-- [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]

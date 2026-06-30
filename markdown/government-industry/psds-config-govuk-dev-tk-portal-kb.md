@@ -20,8 +20,5 @@ You can customize what is shown in the Knowledge base widgets by adding or remov
 
 For more information on knowledge management, see [Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management.md).
 
-**Parent Topic:**[[psds-config-gds-content-pack-gsp|Configure the GOV.UK Design System \(GDS\) Service Portal]]
+**Parent Topic:**[Configure the GOV.UK Design System \(GDS\) Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gds-content-pack-gsp.md)
 
-## Related
-
-- [[psds-config-gds-content-pack-gsp|Configure the GOV.UK Design System \(GDS\) Service Portal]]

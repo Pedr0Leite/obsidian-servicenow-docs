@@ -14,18 +14,12 @@ Conversational Interfaces includes enhancements and changes in the Xanadu releas
 
 Updates are available for the following Conversational Interfaces applications on the ServiceNow AI Platform.
 
--   **[[advanced-work-assignment-rn|Advanced Work Assignment \(AWA\) release notes]]**  
+-   **[Advanced Work Assignment \(AWA\) release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/advanced-work-assignment-rn.md)**  
 The ServiceNow® Advanced Work Assignment \(AWA\) application automatically assigns work items to your agents based on their availability, capacity, and, optionally, skills. AWA was enhanced and updated in the Australia release.
--   **[[sidebar-rn|Sidebar release notes]]**  
+-   **[Sidebar release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/sidebar-rn.md)**  
 The ServiceNow® Sidebar application enables agents and subject matter experts to collaborate on user issues. Sidebar was enhanced and updated in the Australia release.
--   **[[virtual-agent-rn|Virtual Agent release notes]]**  
+-   **[Virtual Agent release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/virtual-agent-rn.md)**  
 The ServiceNow® Virtual Agent application provides user assistance through a conversational interface to help users to quickly obtain information and to perform common work tasks. Virtual Agent was enhanced and updated in the Australia release.
 
-**Parent Topic:**[[new-features-changes|Features and changes by product]]
+**Parent Topic:**[Features and changes by product](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/new-features-changes.md)
 
-## Related
-
-- [[advanced-work-assignment-rn|Advanced Work Assignment \(AWA\) release notes]]
-- [[sidebar-rn|Sidebar release notes]]
-- [[virtual-agent-rn|Virtual Agent release notes]]
-- [[new-features-changes|Features and changes by product]]

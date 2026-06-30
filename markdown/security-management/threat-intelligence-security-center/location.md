@@ -14,11 +14,11 @@ breadcrumb: [Threat Entities, TISC Library Repository, Threat Intelligence Secur
 
 # Location
 
-A Location represents a geographic location. [[threat-intelligence-locations|Locations]] are primarily used to give context to other SDOs. Locations apply for STIX 2.x.
+A Location represents a geographic location. Locations are primarily used to give context to other SDOs. Locations apply for STIX 2.x.
 
 The location may contain, some or all of the following: region \(North America\), civic address \(New York, US\), latitude, and longitude.
 
-The Location SDO may relate to an [[identity|Identity]] or [[threat-intelligence-intrusion-sets|Intrusion Set]] to indicate that the identity or intrusion set is in that location. It can also relate to a [[threat-intelligence-malware|malware]] or attack pattern to indicate that the target victim is in a particular location.
+The Location SDO may relate to an Identity or Intrusion Set to indicate that the identity or intrusion set is in that location. It can also relate to a malware or attack pattern to indicate that the target victim is in a particular location.
 
 For example, a Location could be used in a relationship to describe that the Bourgeois Swallow intrusion set originates from Eastern Europe.
 
@@ -33,9 +33,3 @@ Define a geographic location to provide more context to other SDOs.
 
 **Parent Topic:**[Threat Entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-threat-entities.md)
 
-## Related
-
-- [[threat-intelligence-locations|Locations]]
-- [[identity|Identity]]
-- [[threat-intelligence-intrusion-sets|Intrusion set]]
-- [[threat-intelligence-malware|Malware]]

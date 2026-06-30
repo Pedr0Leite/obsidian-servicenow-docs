@@ -30,7 +30,7 @@ Typically, you only exclude a class from training if you change the list of vali
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[predictive-intelligence-landing|Predictive Intelligence]]** &gt; **Classification** &gt; **Solution Definitions**.
+1.  Navigate to **All** &gt; **Predictive Intelligence** &gt; **Classification** &gt; **Solution Definitions**.
 
     The system shows the current list of solution definitions.
 
@@ -57,6 +57,3 @@ The solution excludes the class from all predictions.
 
 Review the trained solution precision and coverage statistics.
 
-## Related
-
-- [[predictive-intelligence-landing|Predictive Intelligence]]

@@ -15,7 +15,7 @@ breadcrumb: [Explore, AI Risk and Compliance, Governance, Risk, and Compliance]
 
 # Tasks page for AI Risk and Compliance
 
-The Tasks page in the [[ai-risk-and-compliance-workspace|AI Risk and Compliance Workspace]] provides a view of your pending tasks, your group's tasks, and your watchlist. You can update tasks directly from the Tasks page.
+The Tasks page in the AI Risk and Compliance Workspace provides a view of your pending tasks, your group's tasks, and your watchlist. You can update tasks directly from the Tasks page.
 
 ## Tabs in the Tasks page
 
@@ -28,18 +28,18 @@ The Tasks page in the AI Risk and Compliance workspace displays the following ta
 
 A sample Tasks page for a logged-in user is shown in the following example. A user with the sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_analyst role can view the Tasks page.
 
-\[Omitted image "ai-tasks.png"\] Alt text: [[ai-risk-and-compliance|AI Risk and Compliance]] tasks page.
+\[Omitted image "ai-tasks.png"\] Alt text: AI Risk and Compliance tasks page.
 
 ## My pending tasks
 
 The **My pending tasks** section helps you to access all the cases and tasks that have been assigned to you. This section includes the following information:
 
 -   **AI asset tasks**: All the AI asset tasks assigned to you.
--   **Bulk [[risk-assessments|risk assessments]]**: Any bulk risk assessments assigned to you.
+-   **Bulk risk assessments**: Any bulk risk assessments assigned to you.
 -   **Cases**: All the AI cases assigned to you to work on.
 -   **Inquiries**: AI inquiries pending with you for review. For example, as an AI case analyst you create an inquiry and assigned it to an inquiry owner to work on it. The inquiry owner completed the inquiry and submitted it to you for review. All such inquiries are available in this section.
 -   **Issues**: All the issues originating from AI cases, Risk assessments, Control attestations, and more are visible to you.
--   **Risk assessments**: All the risk assessments of the [[ai-system-airc|AI systems]] are visible to you.
+-   **Risk assessments**: All the risk assessments of the AI systems are visible to you.
 
 ## My group's tasks
 
@@ -110,7 +110,7 @@ Type of AI record associated with the assessment, such as AI system, AI model, o
 Control associated with the assessment. When an assessment is generated for a specific control on an AI record, this column displays the control. Use this column to help you prioritize and triage tasks directly from the list or work queue.
 
 </td></tr></tbody>
-</table>If these columns aren't visible, use the **Edit columns** option to add them to the [[list-view-uib-ws|list view]].
+</table>If these columns aren't visible, use the **Edit columns** option to add them to the list view.
 
 ## Other options
 
@@ -121,10 +121,3 @@ On the Tasks page, use the following action buttons to manage the task list:
 -   **Edit**: Modifies the details of the selected task.
 -   **Refresh**: Refreshes the list to display the latest updates.
 
-## Related
-
-- [[ai-risk-and-compliance-workspace|AI Risk and Compliance workspace]]
-- [[ai-risk-and-compliance|AI Risk and Compliance]]
-- [[risk-assessments|risk assessments]]
-- [[ai-system-airc|AI systems]]
-- [[list-view-uib-ws|List view]]

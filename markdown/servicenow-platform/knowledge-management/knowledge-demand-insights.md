@@ -20,13 +20,13 @@ The Knowledge Demand Insights feature automates the discovery of knowledge gaps 
 
 Addressing knowledge gaps has the following benefits:
 
--   Improve effectiveness of [[self-service-landing|self-service]]: Self-service users get more relevant information for research, troubleshooting, and how to queries.
+-   Improve effectiveness of self-service: Self-service users get more relevant information for research, troubleshooting, and how to queries.
 -   Increase case or incident resolutions: Having relevant information available helps you deflect future cases.
 -   Improved case resolution: Agents can find more relevant knowledge articles to solve cases, incidents, problems, and so on.
 
 ## Activation information
 
-The Knowledge Demand Insights feature requires the [[predictive-intelligence-for-km|Predictive Intelligence for Knowledge Management]] plugin \(com.snc.knowledge\_ml\). For more information, see [Predictive Intelligence for Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/predictive-intelligence-for-km.md) and [Additional plugins for Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/additional-plugins-km.md).
+The Knowledge Demand Insights feature requires the Predictive Intelligence for Knowledge Management plugin \(com.snc.knowledge\_ml\). For more information, see [Predictive Intelligence for Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/predictive-intelligence-for-km.md) and [Additional plugins for Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/additional-plugins-km.md).
 
 ## Demand insights dashboards
 
@@ -43,7 +43,3 @@ You can use a demand insights dashboard for your tasks to analyze candidate know
 
 [Demand Insights for HR Cases dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/demand-insights-hrcases-dashboard.md)
 
-## Related
-
-- [[self-service-landing|Self-service]]
-- [[predictive-intelligence-for-km|Predictive Intelligence for Knowledge Management]]

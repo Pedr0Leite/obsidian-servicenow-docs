@@ -14,9 +14,9 @@ breadcrumb: [Using Software Asset Management Foundation plugin workspace, Softwa
 
 # License Operation view for Software Asset Management Foundation plugin
 
-Use the License operations view in the Software Asset Workspace to view all your licenses and discovery [[c_Models|models]] that are managed by the [[c_SoftwareAssetMgmtSAMF|Software Asset Management Foundation plugin]] application.
+Use the License operations view in the Software Asset Workspace to view all your licenses and discovery models that are managed by the Software Asset Management Foundation plugin application.
 
-View all details related to entitlements and [[c_CreatingSoftwareModels|software models]] in the License operations view. You can also create, edit, and delete entitlements and software models.
+View all details related to entitlements and software models in the License operations view. You can also create, edit, and delete entitlements and software models.
 
 You can access the License operations view by navigating to **Software asset** &gt; **Software Asset Workspace** &gt; **License operations**.
 
@@ -24,7 +24,7 @@ You can access the License operations view by navigating to **Software asset** &
 
 The License operations view also lets you view:
 
--   all the discovered software for your engineering [[dex-workspace-application-tab|applications]].
+-   all the discovered software for your engineering applications.
 -   engineering license servers.
 -   discovery models.
 -   license consumption.
@@ -34,9 +34,3 @@ View a list of all the discovered software for your engineering applications in 
 
 **Parent Topic:**[Using Software Asset Management Foundation plugin workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/using-samf-workspace.md)
 
-## Related
-
-- [[c_Models|Models]]
-- [[c_SoftwareAssetMgmtSAMF|Software Asset Management Foundation plugin]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[dex-workspace-application-tab|Applications]]

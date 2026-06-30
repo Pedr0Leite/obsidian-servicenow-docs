@@ -12,7 +12,7 @@ breadcrumb: [Create product offerings, Configuring product offerings and catalog
 
 # Add product catalog categories
 
-Use the Product Offering Categories tab to organize your products in groups in [[order-mgt-overview|Sales Customer Relationship Management]].
+Use the Product Offering Categories tab to organize your products in groups in Sales Customer Relationship Management.
 
 ## Before you begin
 
@@ -20,11 +20,11 @@ Role required: sn\_prd\_pm\_product\_catalog\_admin and sn\_prd\_pm\_product\_ca
 
 ## About this task
 
-Product catalog categories help organize products into groups, which makes it easier for order agents to find products while creating orders or building quotes. Catalog categories are associated with a catalog. For more information about catalogs, see [[som-create-product-catalog|Create a product offering catalog]].
+Product catalog categories help organize products into groups, which makes it easier for order agents to find products while creating orders or building quotes. Catalog categories are associated with a catalog. For more information about catalogs, see [Create a product offering catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-create-product-catalog.md).
 
 Product offering catalog categories must be published before products can be added.
 
-This procedure explains the Product Offering Category tab. To set up categories before adding products, see [[som-create-product-offering-category|Create a product offering category]].
+This procedure explains the Product Offering Category tab. To set up categories before adding products, see [Create a product offering category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-create-product-offering-category.md).
 
 ## Procedure
 
@@ -36,7 +36,7 @@ This procedure explains the Product Offering Category tab. To set up categories 
 
 4.  Select **New**.
 
-5.  On the form, fill in the [[fields|fields]].
+5.  On the form, fill in the fields.
 
     |Field|Description|
     |-----|-----------|
@@ -52,31 +52,17 @@ This procedure explains the Product Offering Category tab. To set up categories 
 
 ## What to do next
 
--   [[som-product-config-add-characteristics|Create product characteristics and characteristic options]]
--   [[som-product-config-add-visuals|Add product visuals]]
--   [[som-product-config-related-contracts|Add related contracts to product offerings]]
--   [[som-product-config-add-unit-of-measure|Add a unit of measure to a product offering]]
--   [[som-product-config-create-new-version|Create a product offering version]]
--   [[som-product-config-relationship-groups|Create product offering relationship groups]]
+-   [Create product characteristics and characteristic options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-product-config-add-characteristics.md)
+-   [Add product visuals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-product-config-add-visuals.md)
+-   [Add related contracts to product offerings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-product-config-related-contracts.md)
+-   [Add a unit of measure to a product offering](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-product-config-add-unit-of-measure.md)
+-   [Create a product offering version](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-product-config-create-new-version.md)
+-   [Create product offering relationship groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-product-config-relationship-groups.md)
 
 **Related topics**  
 
 
-[[using-product-catalog|Using product catalogs]]
+[Using product catalogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-product-catalog.md)
 
-[[product-catalog-managment|Product Catalog Management]]
+[Product Catalog Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/product-catalog-managment.md)
 
-## Related
-
-- [[som-create-product-catalog|Create a product offering catalog]]
-- [[som-create-product-offering-category|Create a product offering category]]
-- [[som-product-config-add-characteristics|Create product characteristics and characteristic options]]
-- [[som-product-config-add-visuals|Add product visuals]]
-- [[som-product-config-related-contracts|Add related contracts to product offerings]]
-- [[som-product-config-add-unit-of-measure|Add a unit of measure to a product offering]]
-- [[som-product-config-create-new-version|Create a product offering version]]
-- [[som-product-config-relationship-groups|Create product offering relationship groups]]
-- [[using-product-catalog|Using product catalogs]]
-- [[product-catalog-managment|Product Catalog Management]]
-- [[order-mgt-overview|Sales Customer Relationship Management]]
-- [[fields|Fields]]

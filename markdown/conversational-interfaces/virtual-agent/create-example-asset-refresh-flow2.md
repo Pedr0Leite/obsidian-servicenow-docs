@@ -24,7 +24,7 @@ Role required: virtual\_agent\_admin or admin
 
 ## Procedure
 
-1.  Open the Asset Refresh topic in [[virtual-agent-landing-page|Virtual Agent]] Designer.
+1.  Open the Asset Refresh topic in Virtual Agent Designer.
 
 2.  Return to the **false** decision branch after the Asset Check Boolean question that you asked the user.
 
@@ -38,7 +38,7 @@ Role required: virtual\_agent\_admin or admin
 
         \[Omitted image "crawl-ex-open-incident-txt.png"\] Alt text: The Open Incident text bot response appears in the false decision flow for the Boolean question. The user will be prompted to open an incident.
 
-3.  Add a [[va-topic-blocks|Topic Block utility]] to node to create the incident.
+3.  Add a Topic Block utility to node to create the incident.
 
     1.  From the Components area, drag a Topic Block utility node onto the canvas.
 
@@ -63,7 +63,3 @@ Role required: virtual\_agent\_admin or admin
 
 [Create the More Information workflow in the Asset Refresh topic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-example-asset-refresh-flow3.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[va-topic-blocks|Topic Block utility]]

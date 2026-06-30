@@ -14,7 +14,7 @@ breadcrumb: [Configuring shifts for your workplace, Workplace Core, Safe Workpla
 
 # Define shifts for your workplace
 
-Define shifts in [[workplace-safety-mgmt-hr|Workplace Core]] with specific schedules so you can designate areas or workplace and assign employees for each shift.
+Define shifts in Workplace Core with specific schedules so you can designate areas or workplace and assign employees for each shift.
 
 ## Before you begin
 
@@ -36,7 +36,7 @@ You can also access the Shift form by navigating to **Workplace Core** &gt; **Sh
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Browse [[workplace-services|Workplace Services]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center** &gt; **Browse Workplace Services**.
 
 2.  Select **Add a shift**.
 
@@ -157,7 +157,7 @@ Users
 
 </td><td>
 
-Employees assigned to this shift.This field appears only on [[workplace-services-portal-hr|Workplace Service Portal]].
+Employees assigned to this shift.This field appears only on Workplace Service Portal.
 
 </td></tr><tr><td>
 
@@ -171,7 +171,7 @@ Workplaces available for reservation during this shift.This field appears only o
 </table>    **Note:**
 
     -   If this shift is applicable to all office buildings on your campus, you can leave the **Building**, **Floor**, and **Area** fields empty. The shift and its schedule will be automatically applied to all the records of buildings, floors, and areas associated with this campus.
-    -   When an employee requests to [[reservation-portal|make a reservation]] with shifts, only shifts that are active on the dates that the employee selected are displayed on the reservation form.
+    -   When an employee requests to make a reservation with shifts, only shifts that are active on the dates that the employee selected are displayed on the reservation form.
 4.  Select **Submit**.
 
 5.  If you accessed the Shift form from Workplace Service Portal, on the verification page, you can define another shift or view all the existing shifts.
@@ -207,10 +207,3 @@ You can configure other information such as employees, workplaces, and maintenan
 
 **Parent Topic:**[Configuring shifts for your workplace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/configuring-shifts-for-your-workplace.md)
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-services|Workplace Services]]
-- [[workplace-services-portal-hr|Workplace Service Portal]]
-- [[reservation-portal|Make a reservation]]

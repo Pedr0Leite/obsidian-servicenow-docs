@@ -14,7 +14,7 @@ breadcrumb: [Reference, Digital Portfolio Management, IT Service Management]
 
 # KPI groups installed with Digital Portfolio Management
 
-[[dpm-landing|Digital Portfolio Management]] \(DPM\) enables you to view standard key performance indicator \(KPI\) groups that are included with the base system. You can also configure KPIs with the sn\_dpm.dpm\_admin role.
+Digital Portfolio Management \(DPM\) enables you to view standard key performance indicator \(KPI\) groups that are included with the base system. You can also configure KPIs with the sn\_dpm.dpm\_admin role.
 
 Admins view the back-end details of KPI groups by navigating to **Digital Portfolio Management** &gt; **All** &gt; **KPI Groups**.
 
@@ -44,7 +44,7 @@ Business application performance
 
 </td><td>
 
-Business [[dex-workspace-application-tab|applications]]
+Business applications
 
 </td><td>
 
@@ -205,7 +205,7 @@ Open changes
 
 -   High risk changes
 -   High priority changes
--   [[overdue-change-mobile|Overdue changes]]
+-   Overdue changes
 
 </td></tr><tr><td>
 
@@ -331,7 +331,7 @@ Portfolio success metrics
 
 </td><td>
 
-[[dpm-enterprise-portfolios|Enterprise portfolios]]
+Enterprise portfolios
 
 </td><td>
 
@@ -366,9 +366,3 @@ Average CSAT is 5 rating \(highest\) to 1 rating \(lowest\)
 
 **Parent Topic:**[Digital Portfolio Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-reference-cfw.md)
 
-## Related
-
-- [[dpm-landing|Digital Portfolio Management]]
-- [[dex-workspace-application-tab|Applications]]
-- [[overdue-change-mobile|Overdue changes]]
-- [[dpm-enterprise-portfolios|Enterprise portfolios]]

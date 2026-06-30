@@ -15,7 +15,7 @@ breadcrumb: [Explore, Digital Product Release, IT Service Management]
 
 # Associating change requests with releases in Service Operations Workspace
 
-The integration between Service Operations Workspace \(SOW\) and [[dpr-landing-page|Digital Product Release]] \(DPR\) workspaces provide a unified release and [[c_ITILChangeManagement|change management]] experience. You can associate releases with change requests across both workspaces.
+The integration between Service Operations Workspace \(SOW\) and Digital Product Release \(DPR\) workspaces provide a unified release and change management experience. You can associate releases with change requests across both workspaces.
 
 ## Overview of DPR and SOW unified experience
 
@@ -31,7 +31,7 @@ For more information, see [Service Operations Workspace for ITSM](https://raw.gi
 
 Verify the following before you begin:
 
--   Both DPR \(v2.4 or later\) and SOW \(v9.0.0 or later\) [[dex-workspace-application-tab|applications]] are activated in your ServiceNow AI Platform instance.
+-   Both DPR \(v2.4 or later\) and SOW \(v9.0.0 or later\) applications are activated in your ServiceNow AI Platform instance.
 -   You have the required roles for both applications.
 
 ## Embedded release details in Change form in Service Operations Workspace
@@ -70,8 +70,3 @@ For more information, see [Create a change request in Service Operations Workspa
 
 [Change Management in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/change-sow.md)
 
-## Related
-
-- [[dpr-landing-page|Digital Product Release]]
-- [[c_ITILChangeManagement|Change Management]]
-- [[dex-workspace-application-tab|Applications]]

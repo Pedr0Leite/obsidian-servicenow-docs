@@ -27,7 +27,7 @@ Once the connection is activated and validated, an information message is displa
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[major-security-incident-management-landing-page|Major Security Incident Management]]** &gt; **Chat Channel** &gt; **Chat Provider Configuration**.
+1.  Navigate to **All** &gt; **Major Security Incident Management** &gt; **Chat Channel** &gt; **Chat Provider Configuration**.
 
 2.  Select **Slack** to open the Slack chat provider configuration.
 
@@ -124,6 +124,3 @@ Once the connection is activated and validated, an information message is displa
 
 **Parent Topic:**[Configure Slack chat connector for major security incidents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/configure-slack-chat-connector-msi.md)
 
-## Related
-
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]

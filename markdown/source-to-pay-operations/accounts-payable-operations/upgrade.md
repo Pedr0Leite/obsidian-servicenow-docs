@@ -33,7 +33,7 @@ Role required: admin
 
 4.  Navigate to **All** &gt; **Process Automation** &gt; **Flow Designer**.
 
-5.  To [[copy-di-processing-flow|copy and configure the invoice attachment DI processing flow]], perform the following steps:
+5.  To copy and configure the invoice attachment DI processing flow, perform the following steps:
 
     1.  Search and use the existing flow that was copied from [Copy and configure the Invoice attachment DI processing flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/copy-di-processing-flow.md).
 
@@ -47,7 +47,7 @@ Role required: admin
 
     5.  Select **Activate**.
 
-6.  To [[copy-di-stp-failed-flow|copy and configure the DI STP failed flow]], perform the following steps:
+6.  To copy and configure the DI STP failed flow, perform the following steps:
 
     1.  Search and use the selected flow from DI STP failed flow.
 
@@ -59,7 +59,4 @@ Role required: admin
 
     4.  Select **Activate**.
 
-## Related
 
-- [[copy-di-processing-flow|Copy and configure the Invoice attachment DI processing flow]]
-- [[copy-di-stp-failed-flow|Copy and configure the DI STP Failed flow]]

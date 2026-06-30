@@ -14,13 +14,13 @@ breadcrumb: [Inbound staging tables Sourcing Procurement, Inbound staging tables
 
 # Purchase Order Line inbound staging table
 
-The [[purchase-order-table|Purchase Order]] Line inbound \[sn\_fcms\_intg\_imp\_order\_line\] staging table temporarily stores important data about [[purchase-order-lines|purchase order lines]] before this data is sent to the primary table.
+The Purchase Order Line inbound \[sn\_fcms\_intg\_imp\_order\_line\] staging table temporarily stores important data about purchase order lines before this data is sent to the primary table.
 
 The following table lists the mandatory fields for the Purchase Order Line inbound \[sn\_fcms\_intg\_imp\_order\_line\] staging table.
 
 |Field|Data type|Description|
 |-----|---------|-----------|
-|ERP source|String|ERP source from which data is imported. For purchase order, receipt, and invoice integrations, the [[erp-source|ERP source]] is determined through the [[legal-entity|legal entity]] associated with these records.|
+|ERP source|String|ERP source from which data is imported. For purchase order, receipt, and invoice integrations, the ERP source is determined through the legal entity associated with these records.|
 |ERP PO number|String|Purchase order number from the ERP system.|
 |ERP PO line number|String|Purchase order line number from the ERP system.|
 
@@ -101,9 +101,3 @@ The following table lists the mandatory fields for the Purchase Order Line inbou
 
 [Unit of Measure inbound staging table]()
 
-## Related
-
-- [[purchase-order-table|Purchase order]]
-- [[purchase-order-lines|Purchase order lines]]
-- [[erp-source|ERP source]]
-- [[legal-entity|Legal entity]]

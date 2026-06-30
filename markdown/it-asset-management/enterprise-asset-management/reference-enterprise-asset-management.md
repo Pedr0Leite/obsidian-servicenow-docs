@@ -14,26 +14,26 @@ breadcrumb: [Enterprise Asset Management, IT Asset Management]
 
 # Enterprise Asset Management reference
 
-Reference topics provide additional information about the lists and forms that you use to configure and administer [[enterprise-asset-management|Enterprise Asset Management]].
+Reference topics provide additional information about the lists and forms that you use to configure and administer Enterprise Asset Management.
 
 -   **[Domain separation and Enterprise Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/domain-separation-eam.md)**  
 Domain separation is supported in Enterprise Asset Management. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 -   **[Components installed with Enterprise Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/installed-with-eam.md)**  
 Several types of components are installed with activation of the com.sn\_eam plugin, including user roles, plugins, and applications.
 -   **[OT Asset Workspace roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/ot-workspace-roles.md)**  
-The following roles help you to manage the [[ot-asset-management|OT Asset Management]] application.
+The following roles help you to manage the OT Asset Management application.
 -   **[Asset fields for enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/asset-fields-eam.md)**  
 A detailed description of all asset fields in the Enterprise Asset Management application.
 -   **[Asset audit fields for enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/asset-audit-record-fields-eam.md)**  
 Create New Asset Audits form and related fields description.
 -   **[Audit results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/audit-results-eam.md)**  
-The [[audit-results-eam|Audit results]] shows the status of the assets when the scheduled or blind audits of asset [[c_Stockrooms|stockrooms]] and other locations is complete.
+The Audit results shows the status of the assets when the scheduled or blind audits of asset stockrooms and other locations is complete.
 -   **[Enterprise model categories and corresponding classes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/enterprise-model-categories.md)**  
-Enterprise [[model-hierarchy|model categories]] and their corresponding Configuration Management Database \(CMDB\) configuration item \(CI\), asset, and model classes.
+Enterprise model categories and their corresponding Configuration Management Database \(CMDB\) configuration item \(CI\), asset, and model classes.
 -   **[Mandatory fields in the bulk import spreadsheets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/mandatory-bulk-fields.md)**  
-A list of the mandatory fields in the model, asset, and model and asset templates for bulk import in the [[using-eam-workspace|Enterprise Asset Workspace]].
+A list of the mandatory fields in the model, asset, and model and asset templates for bulk import in the Enterprise Asset Workspace.
 -   **[Normalization status for enterprise models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/norm-status-eam.md)**  
-Description of the [[normalization-status|normalization statuses]] for enterprise [[c_Models|models]].
+Description of the normalization statuses for enterprise models.
 -   **[Model fields for Enterprise Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/eam-model-fields.md)**  
 A detailed description of all model fields in the Enterprise Asset Management application.
 -   **[Contract fields for Enterprise Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/contract-fields-eam.md)**  
@@ -59,16 +59,5 @@ Scheduled jobs that run during the normalization of firmware models embedded int
 -   **[Asset put away task fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/put-away-task-form-eam.md)**  
 Fields on the Asset put away task form help you create a put away task for the in stock assets.
 
-**Parent Topic:**[[it-asset-management|IT Asset Management]]
+**Parent Topic:**[IT Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/it-asset-management.md)
 
-## Related
-
-- [[it-asset-management|IT Asset Management]]
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[ot-asset-management|OT Asset Management]]
-- [[audit-results-eam|Audit results]]
-- [[c_Stockrooms|Stockrooms]]
-- [[model-hierarchy|Model categories]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[normalization-status|Normalization statuses]]
-- [[c_Models|Models]]

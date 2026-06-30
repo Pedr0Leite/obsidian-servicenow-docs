@@ -14,7 +14,7 @@ breadcrumb: [Configure, Talent Profile, Hiring Experiences, HR Service Delivery,
 
 # Opt in to Talent Profile
 
-Opt in to the [[talent-profile-landing|Talent Profile]] to access all the talent records, [[create-talent-pool|create talent pools]], and add prospects to the job requisitions.
+Opt in to the Talent Profile to access all the talent records, create talent pools, and add prospects to the job requisitions.
 
 ## Before you begin
 
@@ -36,7 +36,3 @@ You have opted in to the Talent Profile.
 
 **Parent Topic:**[Configuring Talent profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/config-tp.md)
 
-## Related
-
-- [[talent-profile-landing|Talent Profile]]
-- [[create-talent-pool|Create Talent pools]]

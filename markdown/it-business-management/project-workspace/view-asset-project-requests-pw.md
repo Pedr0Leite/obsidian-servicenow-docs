@@ -14,7 +14,7 @@ breadcrumb: [Create an Asset Project Request from Project Workspace, Managing pr
 
 # View asset project requests for a project
 
-Analyze asset project requests associated with a project from [[project-workspace-landing-page|Project Workspace]], so you can track hardware requests and refresh activities linked to the project plan.
+Analyze asset project requests associated with a project from Project Workspace, so you can track hardware requests and refresh activities linked to the project plan.
 
 ## Before you begin
 
@@ -43,6 +43,3 @@ You can see all hardware asset requests and refresh requests associated with the
 
 **Parent Topic:**[Create an Asset Project Request from Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/create-asset-project-requests-pw.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]

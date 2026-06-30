@@ -14,7 +14,7 @@ breadcrumb: [Legacy Software Asset Management plugin Overview module, Legacy Sof
 
 # Legacy Software Asset Management plugin roles
 
-The legacy Software [[c_AssetManagement|Asset Management]] \(com.snc.software\_asset\_management\) plugin adds the following user role.
+The legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin adds the following user role.
 
 <table id="table_pdd_lkt_hp"><thead><tr><th>
 
@@ -52,11 +52,7 @@ Can create, edit, change, and manage software licenses.
 **Related topics**  
 
 
-[Use the [[c_SoftwareAssetManagement|legacy Software Asset Management plugin]] Overview module]()
+[Use the legacy Software Asset Management plugin Overview module]()
 
 [Installed with the legacy Software Asset Management plugin]()
 
-## Related
-
-- [[c_AssetManagement|Asset Management]]
-- [[c_SoftwareAssetManagement|Legacy Software Asset Management plugin]]

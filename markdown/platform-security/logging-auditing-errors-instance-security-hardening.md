@@ -12,19 +12,12 @@ breadcrumb: [Logs, Platform Security]
 
 # Logging, auditing, and errors \(instance security hardening\)
 
-Apply a logging and [[c_AuditedTables|auditing]] strategy so that you can identify and act on suspicious activity in a timely manner.
+Apply a logging and auditing strategy so that you can identify and act on suspicious activity in a timely manner.
 
-To learn more about what can be logged in the instance, see [[system-logs|System logs]]. Ensure that there is a schedule for monitoring system events such as logins and failed logins by using **System Logs** &gt; **Events**.
+To learn more about what can be logged in the instance, see [System logs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/system-logs.md). Ensure that there is a schedule for monitoring system events such as logins and failed logins by using **System Logs** &gt; **Events**.
 
--   **[[disabling-sql-error-messages|Disabling SQL error messages \(instance security hardening\)]]**  
-Use the **glide.db.loguser** property to [[sc-disabling-sql-error-messages|disable SQL error messages]] from rendering in a browser.
+-   **[Disabling SQL error messages \(instance security hardening\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/disabling-sql-error-messages.md)**  
+Use the **glide.db.loguser** property to disable SQL error messages from rendering in a browser.
 
-**Parent Topic:**[[logs|Logs]]
+**Parent Topic:**[Logs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/logs.md)
 
-## Related
-
-- [[system-logs|System logs]]
-- [[disabling-sql-error-messages|Disabling SQL error messages \(instance security hardening\)]]
-- [[logs|Logs]]
-- [[c_AuditedTables|Auditing]]
-- [[sc-disabling-sql-error-messages|Disable SQL error messages]]

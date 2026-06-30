@@ -26,7 +26,7 @@ Risk event entries capture the direct and indirect losses reported due to the ri
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Risk** &gt; **[[risk-workspace|Risk Workspace]]** &gt; **Risk events** &gt; **All events**.
+1.  Navigate to **All** &gt; **Risk** &gt; **Risk Workspace** &gt; **Risk events** &gt; **All events**.
 
 2.  Open the event for which you want to add risk event entries.
 
@@ -47,6 +47,3 @@ Risk event entries capture the direct and indirect losses reported due to the ri
 
 **Parent Topic:**[Using the Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/using-risk-workspace.md)
 
-## Related
-
-- [[risk-workspace|risk workspace]]

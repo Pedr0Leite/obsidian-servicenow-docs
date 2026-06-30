@@ -14,7 +14,7 @@ breadcrumb: [Configure, Portfolio Planning, Strategic Portfolio Management]
 
 # Configure portfolio financials in Portfolio Planning
 
-Configuration details for properties and scheduled jobs to view and manage portfolio financials in [[portfolio-planning-app-landing-page|Portfolio Planning]]
+Configuration details for properties and scheduled jobs to view and manage portfolio financials in Portfolio Planning
 
 ## Before you begin
 
@@ -38,6 +38,4 @@ Role required: admin
 
     For more information, see [Activate a scheduled job to generate data to view portfolio financials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/fin-data-generation-scheduled-job-ppw.md).
 
-## Related
 
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

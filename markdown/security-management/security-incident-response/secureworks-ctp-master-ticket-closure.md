@@ -14,7 +14,7 @@ breadcrumb: [View Secureworks ticket, Secureworks CTP Ticket Ingestion Integrati
 
 # Secureworks CTP Master Ticket Closure Notice
 
-Before you [[close-sir-incident-aiagent|close a security incident]] created by a Secureworks CTP master ticket, you must verify that all child tickets associated with the master ticket are closed.
+Before you close a security incident created by a Secureworks CTP master ticket, you must verify that all child tickets associated with the master ticket are closed.
 
 ## Before you begin
 
@@ -38,6 +38,4 @@ Role required: sn\_si.admin
 
 6.  Navigate to **Application** &gt; **Module**.
 
-## Related
 
-- [[close-sir-incident-aiagent|Close a security incident]]

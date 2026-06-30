@@ -14,7 +14,7 @@ breadcrumb: [Analytics and Reporting Solutions for Employee Relations, Employee 
 
 # Employee Relations Executive Overview dashboard
 
-The Employee Relations Executive Overview dashboard provides you with high level data on [[hr-case-employee-relations|Employee Relations]] cases and detailed information on the types of ER cases, locations, cases by HR service and department, and trends.
+The Employee Relations Executive Overview dashboard provides you with high level data on Employee Relations cases and detailed information on the types of ER cases, locations, cases by HR service and department, and trends.
 
 \[Omitted image "hr-er-ov1.png"\] Alt text: Employee Relations Executive Overview dashboard\[Omitted image "hr-er-ov2.png"\] Alt text: Employee Relations Executive Overview dashboard
 
@@ -261,7 +261,3 @@ Shows the number and corrective actions associated with a closed ER cases by all
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[hr-case-employee-relations|Employee Relations]]

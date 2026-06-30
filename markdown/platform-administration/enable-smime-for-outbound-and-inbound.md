@@ -12,11 +12,11 @@ breadcrumb: [Setting up S/MIME, Email encryption, Email Administration, Notifica
 
 # Enable S/MIME
 
-Configure S/MIME settings for inbound and [[ia-outbound-email-il|outbound email]].
+Configure S/MIME settings for inbound and outbound email.
 
 ## Enable S/MIME for Inbound and Outbound emails
 
-You can configure [[c_EmailProperties|email properties]] from the Email Properties page through the **[[c_SystemMailboxes|System Mailboxes]]** or **[[r_SetArchiveRuleProcessingBehavior|System Properties]]** module.
+You can configure email properties from the Email Properties page through the **System Mailboxes** or **System Properties** module.
 
 Email properties are available from either of these modules:
 
@@ -25,9 +25,9 @@ Email properties are available from either of these modules:
 
 ## Outbound S/MIME configuration
 
-For encryption, you must upload the email certificate for the recipients in PEM format and the CA certificates for the issuing authority. For more information, see [[upload-email-certificate|Upload an email certificate]] and [[upload-ca-certificate|Upload a CA certificate]].
+For encryption, you must upload the email certificate for the recipients in PEM format and the CA certificates for the issuing authority. For more information, see [Upload an email certificate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upload-email-certificate.md) and [Upload a CA certificate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upload-ca-certificate.md).
 
-For signing, you must upload the email account key pair in P12 format. For more information, see [[import-smime-key-pair|Import an S/MIME key pair]].
+For signing, you must upload the email account key pair in P12 format. For more information, see [Import an S/MIME key pair](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/import-smime-key-pair.md).
 
 <table id="table_uvv_2my_vtb"><thead><tr><th>
 
@@ -83,19 +83,19 @@ For signature verification, you must upload the email account key pair in P12 fo
 
 ## Enable S/MIME for email notification form
 
-To digitally sign or encrypt your emails, go to **All** &gt; **Email** &gt; **[[notifications|Notifications]]**, select **New** and select the **Digitally sign your emails** check box for digitally signing emails and **Encrypt emails** check box for email encryptions.
+To digitally sign or encrypt your emails, go to **All** &gt; **Email** &gt; **Notifications**, select **New** and select the **Digitally sign your emails** check box for digitally signing emails and **Encrypt emails** check box for email encryptions.
 
 \[Omitted image "smime-email-form.png"\] Alt text: Enable S/MIME for email notification form
 
-For more information, see [[t_CreateANotification|Create an email notification]].
+For more information, see [Create an email notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateANotification.md).
 
 ## Enable S/MIME for email client
 
 In the compose email form, select the **Digitally sign your emails** check box for digitally signing emails and **Encrypt emails** check box for email encryptions.
 
-\[Omitted image "enable-smime-email.png"\] Alt text: Enable S/MIME for [[c_EnableTheEmailClient|email client]]
+\[Omitted image "enable-smime-email.png"\] Alt text: Enable S/MIME for email client
 
-**Parent Topic:**[[smime-for-email-signing-and-encryption|Setting up S/MIME for email]]
+**Parent Topic:**[Setting up S/MIME for email](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/smime-for-email-signing-and-encryption.md)
 
 **Related topics**  
 
@@ -106,16 +106,3 @@ In the compose email form, select the **Digitally sign your emails** check box f
 
 [Upload an email certificate]()
 
-## Related
-
-- [[upload-email-certificate|Upload an email certificate]]
-- [[upload-ca-certificate|Upload a CA certificate]]
-- [[import-smime-key-pair|Import an S/MIME key pair]]
-- [[t_CreateANotification|Create an email notification]]
-- [[smime-for-email-signing-and-encryption|Setting up S/MIME for email]]
-- [[ia-outbound-email-il|Outbound email]]
-- [[c_EmailProperties|Email properties]]
-- [[c_SystemMailboxes|System mailboxes]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]
-- [[notifications|Notifications]]
-- [[c_EnableTheEmailClient|Email client]]

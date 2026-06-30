@@ -36,7 +36,7 @@ Administrators can enable push notifications in Studio. For information on setti
 
 4.  Select the work order task you want to get started with.
 
-    You can only [[t_StartWork|start work]] on tasks that are in the **Accepted** state.
+    You can only start work on tasks that are in the **Accepted** state.
 
 5.  Perform any of the following actions.
 
@@ -63,7 +63,7 @@ Perform one of the following actions:-   To record your travel start time using 
 **Note:**
 
     -   The **Sub state** and **Work agent status** are automatically updated as **On Route** to determine that you have started traveling to work on a task.
-    -   The **Start Travel** button transforms into**Check-In** before initiating check-in actions. The **Check-In** option is visible only when the `Enable/Disable Onsite Arrival Check-in for Agents` property is enabled. For more information, see [[t_ConfigureFieldService|Global domain configurations]].
+    -   The **Start Travel** button transforms into**Check-In** before initiating check-in actions. The **Check-In** option is visible only when the `Enable/Disable Onsite Arrival Check-in for Agents` property is enabled. For more information, see [Global domain configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/t_ConfigureFieldService.md).
 
 
 </td></tr><tr><td id="d150853e213">
@@ -137,7 +137,3 @@ The following fields are updated in the work order task:
 
 [Create a sales opportunity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/create-opportunity.md)
 
-## Related
-
-- [[t_ConfigureFieldService|Global domain configurations]]
-- [[t_StartWork|Start work]]

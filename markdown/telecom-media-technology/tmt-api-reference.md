@@ -12,9 +12,9 @@ breadcrumb: [Telecommunications, Media, and Technology \(TMT\)]
 
 # TMF APIs for TMT
 
-Get the details of ServiceNow® implementation of TM Forum \(TMF\) APIs for [[telecom-media-tech-landing|Telecommunications, Media, and Technology \(TMT\)]] products.
+Get the details of ServiceNow® implementation of TM Forum \(TMF\) APIs for Telecommunications, Media, and Technology \(TMT\) products.
 
-ServiceNow® supports multiple TM Forum \(TMF\) Open APIs through its telecommunications industry solutions, such as [[tsm-about|Telecommunications Service Management \(TSM\)]] and [[tpsm-about|Technology Provider Service Management \(TPSM\)]]. These APIs enable standardized integrations and help ensure seamless interoperability across Business Support Systems \(BSS\) and Operations Support Systems \(OSS\).
+ServiceNow® supports multiple TM Forum \(TMF\) Open APIs through its telecommunications industry solutions, such as Telecommunications Service Management \(TSM\) and Technology Provider Service Management \(TPSM\). These APIs enable standardized integrations and help ensure seamless interoperability across Business Support Systems \(BSS\) and Operations Support Systems \(OSS\).
 
 |Application|API|Description|
 |-----------|---|-----------|
@@ -32,11 +32,5 @@ ServiceNow® supports multiple TM Forum \(TMF\) Open APIs through its telecommun
 |Telecommunications Service Operations Management|[TMF688 - Event Notification Management Open API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/event_open-api.md)|The Event Notification Management Open API provides an endpoint to create, update, and delete events from the Events \[em\_event\] table.|
 |Field Service Management for Telecommunication|[TMF646 - Appointment Open API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/appointment-open-api.md)|The Appointment Open API is a telecommunication API that allows you to interact with the appointment booking application. Use this API to book appointments and search available time slots.|
 |Field Service Management for Telecommunication|[TMF697 - Work Order management Open API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/work-order-mgmt-api.md)|The Work Order Management API provides endpoints to create, update, and retrieve work orders.This API is exposed by Field Service Management for Telecommunication and used by Sales CRM for Telecommunications and Telecommunications Service Management to trigger a work order from either an order task or a case task.|
-|Customer Service Problem Management|[TMF653 - Service Test Management Open API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/service-test-management-api.md)|The [[stm-landing-page|Service Test Management]] Open API provides endpoints to create and retrieve service test definitions and service tests. Use this API to manage service problem management information between external systems and the ServiceNow AI Platform.|
+|Customer Service Problem Management|[TMF653 - Service Test Management Open API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/service-test-management-api.md)|The Service Test Management Open API provides endpoints to create and retrieve service test definitions and service tests. Use this API to manage service problem management information between external systems and the ServiceNow AI Platform.|
 
-## Related
-
-- [[telecom-media-tech-landing|Telecommunications, Media, and Technology \(TMT\)]]
-- [[tsm-about|Telecommunications Service Management \(TSM\)]]
-- [[tpsm-about|Technology Provider Service Management \(TPSM\)]]
-- [[stm-landing-page|Service Test Management]]

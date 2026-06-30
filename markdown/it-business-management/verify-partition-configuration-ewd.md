@@ -18,8 +18,8 @@ Verify that partitions are configured correctly by impersonating users with diff
 ## Before you begin
 
 -   You have completed all partition configuration steps:
-    -   Partitions created and partition criteria configured for all supported tables. For details, see [[create-partition-ewd|Create and configure a partition]].
-    -   Partition roles are assigned to the relevant users or user groups. For details, see [[assign-partition-role-ewd|Assign partition role for access to the partition]].
+    -   Partitions created and partition criteria configured for all supported tables. For details, see [Create and configure a partition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/create-partition-ewd.md).
+    -   Partition roles are assigned to the relevant users or user groups. For details, see [Assign partition role for access to the partition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/assign-partition-role-ewd.md).
 -   You have access to impersonate users in the system.
 -   Test records exist in the supported tables for each partition — for example, projects and demands created for both IT Operations and HR Learning and Development departments.
 
@@ -31,7 +31,7 @@ Role required: admin
 
     For example, impersonate a user assigned the `it_ops` role for the IT Operations partition.
 
-    1.  Open **[[project-workspace-landing-page|Project Workspace]]** and confirm that only records from the user's partition are visible in list views, search results, and dashboards.
+    1.  Open **Project Workspace** and confirm that only records from the user's partition are visible in list views, search results, and dashboards.
 
         Only IT Operations projects and demands are visible. No records from other partitions, such as HR Learning and Development, appear.
 
@@ -60,8 +60,3 @@ Partition configuration is complete when all of the following conditions are met
 -   Users assigned to multiple partitions see records from all their assigned partitions, with no duplication.
 -   Users with the EWD PMO role have visibility across all partitions.
 
-## Related
-
-- [[create-partition-ewd|Create and configure a partition]]
-- [[assign-partition-role-ewd|Assign partition role for access to the partition]]
-- [[project-workspace-landing-page|Project Workspace]]

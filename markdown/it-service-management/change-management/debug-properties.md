@@ -32,7 +32,7 @@ change.conflict.log
 
 </td><td>
 
-The logging property that controls logging level displayed for [[c_ITILChangeManagement|Change Management]] while detecting the change conflicts.-   Type: choice list
+The logging property that controls logging level displayed for Change Management while detecting the change conflicts.-   Type: choice list
 -   Default value: notice
 
 </td></tr><tr><td>
@@ -59,12 +59,8 @@ com.snc.change\_management.policy.approval.log
 
 </td><td>
 
-The debug logging property that provides the detailed logging information of the workflow activity when using [[change-approval-policy|Change Approval Policies]].Type: choice list
+The debug logging property that provides the detailed logging information of the workflow activity when using Change Approval Policies.Type: choice list
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Legacy: Change Management Platform Analytics Solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/change-content-pack.md)
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]
-- [[change-approval-policy|Change approval policies]]

@@ -20,8 +20,5 @@ This form enables you to add the report closing details.
 |Closed|Select the date on which the report is closed.|
 |Close notes|Enter note, if necessary.|
 
-**Parent Topic:**[[mco-general-form|General form]]
+**Parent Topic:**[General form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-general-form.md)
 
-## Related
-
-- [[mco-general-form|General form]]

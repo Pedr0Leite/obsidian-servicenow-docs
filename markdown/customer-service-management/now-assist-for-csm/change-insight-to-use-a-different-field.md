@@ -23,7 +23,7 @@ Role required: admin or maint
 
 ## About this task
 
-For trending topics insights, it is simple to change the field being analyzed. This procedure allows you to duplicate an existing insight and modify it to use a different field while preserving [[optimization|optimization]] and formatting.
+For trending topics insights, it is simple to change the field being analyzed. This procedure allows you to duplicate an existing insight and modify it to use a different field while preserving optimization and formatting.
 
 The different UI Builder Component names for Trending topics dashboard are OOB Trending Topics Dashboard, Top Trends, Trending topics by Field Insight \(accounts, products, assignment group, channels\), OOB Topic Details Dashboard, Topic Over Time Visualization, Topic Breakdown Visualization, Topic Affected Regions Visualization.
 
@@ -55,6 +55,3 @@ The different UI Builder Component names for Trending topics dashboard are OOB T
 
 [Configure trending topics dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/configure-trending-topics-dashboard.md)
 
-## Related
-
-- [[optimization|Optimization]]

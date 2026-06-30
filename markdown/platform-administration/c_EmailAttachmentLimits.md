@@ -16,16 +16,10 @@ To prevent issues with large email messages, the system enforces configured limi
 
 An email or attachment that exceeds the system capacity may not be processed as expected. To ensure that your emails and attachments are processed as expected, you can configure properties that limit the size of emails and attachments.
 
--   **[[r_EmailBodySizeLimitProperties|Message body size limit properties]]**  
-Add properties to control the maximum email body size allowed for inbound and [[ia-outbound-email-il|outbound email]] messages.
--   **[[r_AttachmentLimitProperties|Attachment limit properties]]**  
+-   **[Message body size limit properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_EmailBodySizeLimitProperties.md)**  
+Add properties to control the maximum email body size allowed for inbound and outbound email messages.
+-   **[Attachment limit properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AttachmentLimitProperties.md)**  
 Several properties control email attachment limits.
 
-**Parent Topic:**[[reference-email-admin|Reference]]
+**Parent Topic:**[Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/reference-email-admin.md)
 
-## Related
-
-- [[r_EmailBodySizeLimitProperties|Message body size limit properties]]
-- [[r_AttachmentLimitProperties|Attachment limit properties]]
-- [[reference-email-admin|Reference]]
-- [[ia-outbound-email-il|Outbound email]]

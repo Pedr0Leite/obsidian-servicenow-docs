@@ -65,7 +65,7 @@ Confirmation message
 
 </td><td>
 
-Toggle switch to display a summary of collected inputs to the user at the end of a conversation. If Summary message is activated, the [[virtual-agent-landing-page|Virtual Agent]], when activated, presents the information that you have entered and asks if everything is correct. Select **Yes** to continue the chat or **No** to restart collecting user input. You can also reply by typing a response in the chat window, to confirm or deny the summary or to change your answer. This option is active by default, and shows an enabled icon \[Omitted image "bluecheck.png"\] Alt text: when activated.
+Toggle switch to display a summary of collected inputs to the user at the end of a conversation. If Summary message is activated, the Virtual Agent, when activated, presents the information that you have entered and asks if everything is correct. Select **Yes** to continue the chat or **No** to restart collecting user input. You can also reply by typing a response in the chat window, to confirm or deny the summary or to change your answer. This option is active by default, and shows an enabled icon \[Omitted image "bluecheck.png"\] Alt text: when activated.
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -120,6 +120,3 @@ No-code condition statement or low-code script that specifies a condition for le
 
 **Parent Topic:**[Assistant Designer user input controls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-user-inputs.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

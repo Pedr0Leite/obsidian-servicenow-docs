@@ -20,7 +20,7 @@ Role required: sn\_order\_case.creator, sn\_order\_case.agent, sn\_customerservi
 
 ## Procedure
 
-1.  Open an order case record in [[csm-workspaces-configure|CSM Configurable Workspace]].
+1.  Open an order case record in CSM Configurable Workspace.
 
 2.  Select **New** in the Order Case Line list.
 
@@ -32,6 +32,4 @@ Role required: sn\_order\_case.creator, sn\_order\_case.agent, sn\_customerservi
 
     The system adds the new order case line to the Order Case Line list.
 
-## Related
 
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

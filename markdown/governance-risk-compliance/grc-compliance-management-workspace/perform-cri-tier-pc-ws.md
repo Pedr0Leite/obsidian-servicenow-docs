@@ -65,7 +65,7 @@ The CRI assessment is done in two steps:
 
 8.  Select the **Details** related list of the entity record and click the **Class** field.
 
-    Select any [[entity-class|entity class]], where the **Is CRI** option is enabled for **Cybersecurity [[tprm-risk-profile-what-is|Risk Profile]] \(CRI\)**. This flag determines whether this class is applicable for CRI profile assessment. Any entity related to this class is entitled to be assessed for the CRI tiering questionnaire.
+    Select any entity class, where the **Is CRI** option is enabled for **Cybersecurity Risk Profile \(CRI\)**. This flag determines whether this class is applicable for CRI profile assessment. Any entity related to this class is entitled to be assessed for the CRI tiering questionnaire.
 
 9.  Close the record, and select the Details related list of the entity.
 
@@ -99,7 +99,4 @@ The CRI assessment is done in two steps:
 
     After the tier is determined based on the tiering questionnaire, you can now [perform the CRI profile assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/perform-cri-assess-pc-ws.md).
 
-## Related
 
-- [[entity-class|entity class]]
-- [[tprm-risk-profile-what-is|Risk profile]]

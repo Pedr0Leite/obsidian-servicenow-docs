@@ -20,9 +20,9 @@ The Propose survey responses agentic workflow can help simplify and increase sur
 
 When this agentic workflow and trigger are activated, the assignee receives an email with AI-suggested answers to their survey based on the associated Incident or Request. They then have the option to accept the AI-generated answers with a link at the bottom of the email. They can also choose to fill out the survey manually.
 
-The agents, tools, and triggers that are associated with the Propose survey responses agentic workflow are provided by [[platform-now-assist-landing|Now Assist]] applications. You can [[activate-aia-use-case|activate the agentic workflow template]] by making the trigger active. If you want to change this agentic workflow's instructions, you must [[clone-aia-usecase|duplicate it]], adjust the settings to suit your needs, and activate the duplicated version of the agentic workflow instead.
+The agents, tools, and triggers that are associated with the Propose survey responses agentic workflow are provided by Now Assist applications. You can [activate the agentic workflow template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-aia-use-case.md) by making the trigger active. If you want to change this agentic workflow's instructions, you must [duplicate it](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/clone-aia-usecase.md), adjust the settings to suit your needs, and activate the duplicated version of the agentic workflow instead.
 
-**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [[ai-native-sku-overview|ServiceNow product tiers]].
+**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 
 ## Prerequisites and setup
 
@@ -30,13 +30,13 @@ To access this workflow, you must have Now Assist for Platform installed on your
 
 You can use this workflow for any survey triggered on the Incident or Request table. For example, this agentic workflow can be used by the Short Customer Satisfaction Survey with Smiley Face when an Incident is closed. You can change existing surveys, and the agentic workflow can still propose answers. The agentic workflow can also be used for custom surveys triggered by the Incident or Request table as long as there’s a trigger associated with the survey. See [Configure a trigger condition for a survey](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateATriggerCondition.md) for instructions on adding a trigger to a survey.
 
-Propose survey responses isn’t available for [[now-assist-center-now-assist-panel|Now Assist panel]].
+Propose survey responses isn’t available for Now Assist panel.
 
 ## Role masking
 
 Required role: sn\_uxc\_gen\_ai.platform\_ai\_survey\_response.
 
-Agentic workflows and their AI agents use [[aia-role-masking|role masking]] to determine which users can access them. Ones installed with Now Assist applications have specific roles that come included with the application. If you select **Users with specific roles** for user access, you must configure the security [[controls|controls]] to include these roles. For the instructions to change the security controls, see [[define-sec-controls-aw|Define security controls for an agentic workflow]].
+Agentic workflows and their AI agents use [role masking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-role-masking.md) to determine which users can access them. Ones installed with Now Assist applications have specific roles that come included with the application. If you select **Users with specific roles** for user access, you must configure the security controls to include these roles. For the instructions to change the security controls, see [Define security controls for an agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/define-sec-controls-aw.md).
 
 In the data access settings, you must also add the necessary roles to enable reading of survey tables and other related tables.
 
@@ -44,18 +44,18 @@ In the data access settings, you must also add the necessary roles to enable rea
 
 To access the agentic workflow:
 
-1.  Navigate to **All** &gt; **[[ai-agent-studio|AI Agent Studio]]** &gt; **Create and manage**.
+1.  Navigate to **All** &gt; **AI Agent Studio** &gt; **Create and manage**.
 2.  Select **Propose survey responses**.
 
 The first step of the guided setup includes a complete list of included AI agents. Selecting the name of an AI agent opens it in a new browser tab, where you can see the full description, role, list of steps, and tools. Tools are displayed in the second step of the AI agent guided setup, Add tools and information.
 
 ## In-product agentic AI and UI actions
 
-Agentic workflows can be accessed in the Core UI and in workspaces in the AI Activity panel. From there, you can track their progress, provide or review input, and see the results of the work performed. For more information, see [[in-product-agentic-ai|In-product agentic AI]] for more details about the AI Activity panel.
+Agentic workflows can be accessed in the Core UI and in workspaces in the AI Activity panel. From there, you can track their progress, provide or review input, and see the results of the work performed. For more information, see [In-product agentic AI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/in-product-agentic-ai.md) for more details about the AI Activity panel.
 
 To enable users to access agentic workflows with UI actions, you can open the agentic workflow in AI Agent Studio and navigate to the **Select channels and access** step. You can select a UI action as a possible way to access the workflow
 
-If you don't see your UI actions after configuring it in AI Agent Studio, ensure that the property **com.glide.agentic\_processes\_view.enabled** is set to `true`. See [[enable-inproduct-aia|Enable the in-product experience for agentic workflows]].
+If you don't see your UI actions after configuring it in AI Agent Studio, ensure that the property **com.glide.agentic\_processes\_view.enabled** is set to `true`. See [Enable the in-product experience for agentic workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/enable-inproduct-aia.md).
 
 ## Sample utterance
 
@@ -76,19 +76,5 @@ The following table lists the agents that are used in the Propose survey respons
 
 ## Other Platform agentic workflows
 
-For more information on other agentic workflows that are associated with the Platform workflow, see [[platform-use-cases|Platform agentic workflows]].
+For more information on other agentic workflows that are associated with the Platform workflow, see [Platform agentic workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-use-cases.md).
 
-## Related
-
-- [[activate-aia-use-case|Activate an agentic workflow template]]
-- [[clone-aia-usecase|Duplicate an agentic workflow]]
-- [[ai-native-sku-overview|ServiceNow product tiers]]
-- [[aia-role-masking|Role masking in Now Assist AI agents]]
-- [[define-sec-controls-aw|Define security controls for an agentic workflow]]
-- [[in-product-agentic-ai|In-product experience for agentic workflows]]
-- [[enable-inproduct-aia|Enable the in-product experience for agentic workflows]]
-- [[platform-use-cases|Platform agentic workflows]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[controls|Controls]]
-- [[ai-agent-studio|AI Agent Studio]]

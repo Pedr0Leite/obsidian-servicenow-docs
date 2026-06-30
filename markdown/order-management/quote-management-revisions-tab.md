@@ -45,11 +45,7 @@ The Revisions tab shows all the versions of a quote. Version numbers are sequent
 
 ## What to do next
 
-Use the Customer Order tab to start an order from the Quote. See [[quote-management-customer-orders-tab|Convert quotes into orders]] for more information.
+Use the Customer Order tab to start an order from the Quote. See [Convert quotes into orders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-management-customer-orders-tab.md) for more information.
 
-**Parent Topic:**[[quote-mgmt-using|Using Quote Management]]
+**Parent Topic:**[Using Quote Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-mgmt-using.md)
 
-## Related
-
-- [[quote-management-customer-orders-tab|Convert quotes into orders]]
-- [[quote-mgmt-using|Using Quote Management]]

@@ -26,7 +26,7 @@ A release calendar provides you with a layout to manage and track release readin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[dpr-workspace|Digital Product Release Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Digital Product Release Workspace**.
 
 2.  Select the release calendar icon \(\[Omitted image "dpr-icon-rls-target.png"\] Alt text: Release calendar icon.\).
 
@@ -111,6 +111,3 @@ You can perform the following tasks to manage and visualize your release activit
 
 [Digital Product Release - POST /sn\_dpr/digital\_product\_release/release\_calendar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/digital-product-release-api.md)
 
-## Related
-
-- [[dpr-workspace|Digital Product Release Workspace]]

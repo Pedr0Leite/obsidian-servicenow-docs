@@ -12,7 +12,7 @@ breadcrumb: [User presence, Common UI elements, Working in Core UI, Configure UI
 
 # Disable live form features
 
-User presence includes several new live form features for [[c_UI16|Core UI]]. You can show or hide these features using the **glide.ui16.live\_forms.enabled** property.
+User presence includes several new live form features for Core UI. You can show or hide these features using the **glide.ui16.live\_forms.enabled** property.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ The **glide.ui16.live\_forms.enabled** property is included automatically with C
 -   Live form updates
 -   Form presence
 -   Activity formatter appearance
--   [[attachments-configurable-workspace|Attachments]] displaying in the [[activity-stream-configurable-workspace|activity stream]]
+-   Attachments displaying in the activity stream
 
 ## Procedure
 
@@ -36,11 +36,5 @@ The **glide.ui16.live\_forms.enabled** property is included automatically with C
 3.  In the Value field, type `false`.
 
 
-**Parent Topic:**[[c_UserPresence|User presence]]
+**Parent Topic:**[User presence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_UserPresence.md)
 
-## Related
-
-- [[c_UserPresence|User presence]]
-- [[c_UI16|Core UI]]
-- [[attachments-configurable-workspace|Attachments]]
-- [[activity-stream-configurable-workspace|Activity stream]]

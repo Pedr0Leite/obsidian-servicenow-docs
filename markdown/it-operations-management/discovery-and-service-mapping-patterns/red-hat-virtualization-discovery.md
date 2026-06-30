@@ -15,7 +15,7 @@ breadcrumb: [Available on-premise discovery patterns, Discovery patterns used by
 
 # Oracle Linux Virtualization Manager and Red Hat Virtualization discovery
 
-The ServiceNow [[r-discovery|Discovery]] application uses patterns to find Oracle Linux Virtualization Manager \(OLVM\) and Red Hat Virtualization \(RHV\) components. Discovering some of these resources may require updating to the latest version of the Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns application from the ServiceNow Store.
+The ServiceNow Discovery application uses patterns to find Oracle Linux Virtualization Manager \(OLVM\) and Red Hat Virtualization \(RHV\) components. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 Starting with version 1.28.0, Discovery and Service Mapping Patterns supports both OLVM and RHV discovery. Note that the RHV patterns, tables, and related items have been renamed to oVirt.
 
@@ -88,7 +88,7 @@ The OLVM and RHV patterns introduce the following CI classes that are part of th
 
     Create an OLVM or RHV cloud service account on the ServiceNow instance.
 
-    **Note:** Confirm that [[discovery-admin-workspace|Discovery Admin Workspace]] is using at least version 1.10.0. The **Discovery** &gt; **Cloud Service Accounts** navigation module isn't available with earlier versions. To access **Cloud Service Accounts** with an earlier version, enter in the navigation filter: `cmdb_ci_cloud_service_account.list`.
+    **Note:** Confirm that Discovery Admin Workspace is using at least version 1.10.0. The **Discovery** &gt; **Cloud Service Accounts** navigation module isn't available with earlier versions. To access **Cloud Service Accounts** with an earlier version, enter in the navigation filter: `cmdb_ci_cloud_service_account.list`.
 
     1.  Navigate to **All** &gt; **Discovery** &gt; **Cloud Service Accounts**
     2.  Select **New**.
@@ -269,7 +269,7 @@ Discovery populates the data in the CMDB when running the patterns.
 |Memory MB \[memory\_mb\]|Memory in megabytes \(MB\).|
 |Provider \[provider\]|Provider for the template. Value is set to **oVirt**.|
 
-On the [[dependency-views-map|Dependency Views map]], you can view all discovered OLVM or RHV resources in your organization and the relationships between them.
+On the Dependency Views map, you can view all discovered OLVM or RHV resources in your organization and the relationships between them.
 
 \[Omitted image "ovirt-dependency-view.png"\] Alt text: OLVM or RHV CIs and connections on a Dependency Views map
 
@@ -302,9 +302,3 @@ The OLVM and RHV patterns create the following relationships and references to s
 
 **Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/available-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[discovery-admin-workspace|Discovery Admin Workspace]]
-- [[dependency-views-map|Dependency Views map]]

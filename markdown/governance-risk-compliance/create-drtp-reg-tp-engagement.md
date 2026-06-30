@@ -20,7 +20,7 @@ Role required: sn\_oper\_res.manager
 
 ## About this task
 
-By selecting the Third-party engagements menu item within the Digital resilience third-party registers from the [[grc-opres-landing-page|Operational Resilience]] Workspace, you can access and view the existing third-party engagements in the system.
+By selecting the Third-party engagements menu item within the Digital resilience third-party registers from the Operational Resilience Workspace, you can access and view the existing third-party engagements in the system.
 
 The **Digital resilience information** tab is also available for the Third-party engagement module, allowing you to report on third-party engagements at a more detailed, granular level. This module is visible only when the Third-party Risk Management application is installed. If you don't have this application, you can still use the Third-Party tables and digital resilience information for your third parties.
 
@@ -34,11 +34,11 @@ Upon installing the Digital resilience third-party registers, the **Digital resi
 
 2.  Select **New**.
 
-    The [[tprm-create-engmt-form|Create New Third-party engagement form]] is displayed.
+    The Create New Third-party engagement form is displayed.
 
 3.  On the form, fill in the fields.
 
-    For more information, see [[create-new-tp-engmt-form|Create New Third party engagement form]].
+    For more information, see [Create New Third party engagement form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-new-tp-engmt-form.md).
 
     When the Identification code type field is set to LEI and a valid LEI is entered in the Identification code field or the Additional identification code field, the system validates the code in real time against the GLEIF database and auto-populates the associated name and country fields. If you subsequently edit either auto-populated field so that the value no longer matches GLEIF data, a warning message is displayed on the edited field. You can still save the record \(warn-and-save\).
 
@@ -46,7 +46,7 @@ Upon installing the Digital resilience third-party registers, the **Digital resi
 
 5.  Add digital resilience information.
 
-    For more information, see [[tp-eng-add-digi-resi-info|Add Digital resilience information to third-party engagements]].
+    For more information, see [Add Digital resilience information to third-party engagements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/tp-eng-add-digi-resi-info.md).
 
 6.  To edit the third-party engagement record, select it from the list and select **Edit**.
 
@@ -60,12 +60,5 @@ Add Digital resilience information to third-party engagements.
 -   **[Create New Third party engagement form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-new-tp-engmt-form.md)**  
 On the Create New Third-party engagement form, fill in the fields.
 
-**Parent Topic:**[[using-dg-registers|Using Digital resilience third-party registers]]
+**Parent Topic:**[Using Digital resilience third-party registers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/using-dg-registers.md)
 
-## Related
-
-- [[create-new-tp-engmt-form|Create New Third party engagement form]]
-- [[tp-eng-add-digi-resi-info|Add Digital resilience information to third-party engagements]]
-- [[using-dg-registers|Using Digital resilience third-party registers]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[tprm-create-engmt-form|Create New Third-party engagement form]]

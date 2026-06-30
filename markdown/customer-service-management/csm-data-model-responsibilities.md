@@ -12,7 +12,7 @@ breadcrumb: [Overview, Configure Service Model Foundation, Data models, Set up y
 
 # Service Model Foundation responsibilities
 
-A responsibility, or responsibility definition, describes a role or a function that supports a customer. Use responsibility definitions to [[configure-data-model-relationships|create relationships]] between an agent and a customer or between two consumers.
+A responsibility, or responsibility definition, describes a role or a function that supports a customer. Use responsibility definitions to create relationships between an agent and a customer or between two consumers.
 
 When you create a relationship, you select the users involved in the relationship and the responsibility that one user performs on behalf of another. The responsibility that is assigned to a relationship provides access to customer cases and information.
 
@@ -25,17 +25,17 @@ The following responsibilities are provided with the Service Model Foundation pl
 
 **Note:** Responsibilities are stored in the Responsibility Definition \[sn\_customerservice\_responsibility\_def\] table.
 
-For the list of responsibilities included in the base system, see [[list-of-reponsibilities-provided-with-base-system|List of responsibilities provided with the base system]]. To create a responsibility, see [[t_CreateAResponsibilityDefinition|Create a responsibility definition]].
+For the list of responsibilities included in the base system, see [List of responsibilities provided with the base system](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/list-of-reponsibilities-provided-with-base-system.md). To create a responsibility, see [Create a responsibility definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/t_CreateAResponsibilityDefinition.md).
 
 ## Customizing responsibility definitions
 
 You can use the responsibility definitions provided with Service Model Foundation plugins. You can also modify these definitions or create your own definitions to meet your business requirements.
 
-**Note:** If you modify the existing definitions or create definitions, you must update access control [[migration-lists|lists]] \(ACLs\) to reflect the changes.
+**Note:** If you modify the existing definitions or create definitions, you must update access control lists \(ACLs\) to reflect the changes.
 
 If you have an existing account manager responsibility definition, you must evaluate the functionality of the account manager responsibility definition provided with the Service Model Foundation plugins.
 
-**Note:** Creating and using responsibility definitions is a feature available in releases before Paris. Customers can create responsibility definitions using the Responsibility Definition \(sn\_customerservice\_responsibility\_def\) table and use those definitions to create account teams using the Account Team Member \(sn\_customerservice\_team\_member\) table. For more information, see [[configure-csm-account-teams|Create account teams]].
+**Note:** Creating and using responsibility definitions is a feature available in releases before Paris. Customers can create responsibility definitions using the Responsibility Definition \(sn\_customerservice\_responsibility\_def\) table and use those definitions to create account teams using the Account Team Member \(sn\_customerservice\_team\_member\) table. For more information, see [Create account teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-csm-account-teams.md).
 
 ## Create a unique responsibility definition
 
@@ -105,10 +105,3 @@ A household can have only one Relationship Manager but a user with the Relations
 </td></tr></tbody>
 </table>**Note:** The unique behavior of a responsibility definition isn’t enforced when the responsibility is used for relationships between consumers or household members.
 
-## Related
-
-- [[list-of-reponsibilities-provided-with-base-system|List of responsibilities provided with the base system]]
-- [[t_CreateAResponsibilityDefinition|Create a responsibility definition]]
-- [[configure-csm-account-teams|Creating an account team]]
-- [[configure-data-model-relationships|Create relationships]]
-- [[migration-lists|Lists]]

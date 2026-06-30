@@ -59,10 +59,6 @@ Because you can add a question node only after a guidance node, the path configu
 
 Continue building your decision tree.
 
--   Add a next set of questions. For more information, see [[configure-decision-node-in-gdb|Add a follow-up set of questions or instructions in a decision tree]].
--   Provide guidance to agents. For more information, see [[configure-guidance-in-gdb|Provide actions to agents in a decision tree]]
+-   Add a next set of questions. For more information, see [Add a follow-up set of questions or instructions in a decision tree](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-decision-node-in-gdb.md).
+-   Provide guidance to agents. For more information, see [Provide actions to agents in a decision tree](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-guidance-in-gdb.md)
 
-## Related
-
-- [[configure-decision-node-in-gdb|Add a follow-up set of questions or instructions in a decision tree]]
-- [[configure-guidance-in-gdb|Provide actions to agents in a decision tree]]

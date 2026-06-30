@@ -16,7 +16,7 @@ breadcrumb: [Certificate-based authentication, Authentication, Access Management
 
 # Set up Certificate-based authentication
 
-Set up mutual [[c_Authentication|authentication]] for either user interface-based logins or inbound web services.
+Set up mutual authentication for either user interface-based logins or inbound web services.
 
 ## Before you begin
 
@@ -28,8 +28,8 @@ Check that your instance is using an ADCv2 load balancer. For more information, 
 
 1.  Set up Certificate-based authentication to:
 
-    -   Allow end [[users|users]] to securely log in to the ServiceNow AI Platform or Service Portal using PIV or CAC cards. After [[certificate-based-authentication|certificate-based authentication]] is enabled, you can self-register the PEM certificate or an administrator can map the certificate for you. See [Log in using Certificate-based authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/certificate-based-authentication/ui-login-mutual-auth.md).
-    -   Enable mutual authentication for inbound web services. Once Certificate-based authentication is set up, the system uses the provided [[c_Certificates|certificates]] to mutually authenticate requests to access ServiceNow REST and SOAP APIs.
+    -   Allow end users to securely log in to the ServiceNow AI Platform or Service Portal using PIV or CAC cards. After certificate-based authentication is enabled, you can self-register the PEM certificate or an administrator can map the certificate for you. See [Log in using Certificate-based authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/certificate-based-authentication/ui-login-mutual-auth.md).
+    -   Enable mutual authentication for inbound web services. Once Certificate-based authentication is set up, the system uses the provided certificates to mutually authenticate requests to access ServiceNow REST and SOAP APIs.
 
 ## Activate Certificate-based authentication
 
@@ -51,9 +51,9 @@ The following Tables are installed with Certificate-based authentication:
 
 1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
-2.  Find the Certificate-based authentication plugin \(com.glide.auth.mutual\) using the [[adaptive-auth-filter-criteria|filter criteria]] and search bar.
+2.  Find the Certificate-based authentication plugin \(com.glide.auth.mutual\) using the filter criteria and search bar.
 
-    You can search for the plugin by its name or ID. If you cannot find a plugin, you might have to [[c_requestAPI|request]] it from ServiceNow personnel.
+    You can search for the plugin by its name or ID. If you cannot find a plugin, you might have to request it from ServiceNow personnel.
 
 3.  Select **Install** to start the installation process.
 
@@ -72,7 +72,7 @@ Role required: sso\_config\_admin
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[certificate-api-auth|Certificate Based Authentication]]** &gt; **CA Certificate Chain**.
+1.  Navigate to **All** &gt; **Certificate Based Authentication** &gt; **CA Certificate Chain**.
 
 2.  Click **New**.
 
@@ -169,7 +169,7 @@ Map PEM certificates to users to enable them to log in using PIV or CAC cards or
 -   Role required: sso\_config\_admin
 -   Make sure that you have the Privacy Enhanced Mail \(PEM\) certificate of the user.
 
-**Note:** After the Map PEM certificate to User [[sc-configuration|configuration]], the "verify certificate" will fail. This is because the PEM certificate is not stored.
+**Note:** After the Map PEM certificate to User configuration, the "verify certificate" will fail. This is because the PEM certificate is not stored.
 
 ### Procedure
 
@@ -269,7 +269,7 @@ Client cert. This field is read only.
 
 ## Configure Certificate-based authentication properties
 
-Use [[ca-system-properties|system properties]] to enable or disable certificate-based authentication features.
+Use system properties to enable or disable certificate-based authentication features.
 
 ### Before you begin
 
@@ -305,7 +305,7 @@ Show 'Log in with PIV/CAC' option in login screen
 
 </td><td>
 
-Displays the **Log in with PIV/CAC card** option on the login screen. Allows users to [[ui-login-mutual-auth|log in using Certificate-based authentication]] using the user interface.Default: false
+Displays the **Log in with PIV/CAC card** option on the login screen. Allows users to log in using Certificate-based authentication using the user interface.Default: false
 
 </td></tr><tr><td>
 
@@ -317,16 +317,3 @@ Determines whether to require that the user click **Log in with PIV/CAC card** a
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_Authentication|Authentication]]
-- [[users|Users]]
-- [[certificate-based-authentication|Certificate-based authentication]]
-- [[c_Certificates|Certificates]]
-- [[adaptive-auth-filter-criteria|Filter criteria]]
-- [[c_requestAPI|request]]
-- [[certificate-api-auth|Certificate based authentication]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]
-- [[ui-login-mutual-auth|Log in using Certificate-based authentication]]

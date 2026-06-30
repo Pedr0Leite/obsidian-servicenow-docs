@@ -12,7 +12,7 @@ breadcrumb: [Sharing task plan templates, Task Plan Templates, Case management, 
 
 # Share a task plan template from the workspace
 
-Share a task plan template with specific users, groups, service organizations, or organization criteria directly from the [[task-plan-templates|Task Plan Templates]] workspace.
+Share a task plan template with specific users, groups, service organizations, or organization criteria directly from the Task Plan Templates workspace.
 
 ## Before you begin
 
@@ -46,6 +46,4 @@ The Share button is available to template owners and users with the admin role. 
 
 5.  Select **Confirm**.
 
-## Related
 
-- [[task-plan-templates|Task Plan Templates]]

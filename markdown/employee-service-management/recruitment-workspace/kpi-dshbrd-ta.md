@@ -14,7 +14,7 @@ breadcrumb: [Reference, Recruitment Workspace, Hiring Experiences, HR Service De
 
 # Talent Acquisition Dashboard
 
-The Talent Acquisition Dashboard helps get an overview of the workload and performance details of the [[hiring-tab-concept|hiring]] efforts in your organization.
+The Talent Acquisition Dashboard helps get an overview of the workload and performance details of the hiring efforts in your organization.
 
 The users of the Talent Acquisition Dashboard require the following role.
 
@@ -69,6 +69,3 @@ Apart from the data cards, you can use the following filters to skim through the
 
 **Parent Topic:**[Recruitment Workspace reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/recruitment-workspace-reference.md)
 
-## Related
-
-- [[hiring-tab-concept|Hiring]]

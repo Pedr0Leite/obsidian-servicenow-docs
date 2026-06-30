@@ -14,7 +14,7 @@ breadcrumb: [Integrating ServiceNow with Microsoft Teams for GCC-H or DoD, Servi
 
 # Integrating Employee Center with Microsoft Teams for GCC-H or DoD
 
-You can integrate [[employee-center-landing-page|Employee Center]] with Microsoft Teams to enable Government Community Cloud High \(GCC-H\) and US Department of Defense \(DoD\) customers to access attached files in Employee Center.
+You can integrate Employee Center with Microsoft Teams to enable Government Community Cloud High \(GCC-H\) and US Department of Defense \(DoD\) customers to access attached files in Employee Center.
 
 ## Prerequisites
 
@@ -39,7 +39,7 @@ The overall process to integrate Employee Center with your Microsoft Teams tenan
 6.  [Upload manifest file in Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/upload-manifest-ms-teams.md).
 
 -   **[Update the OIDC entities table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/oidc-entity-table.md)**  
-[[oidc-entity-table|Update the OIDC entities table]] to replace dummy values created by the registry file with your Microsoft Teams tenant values.
+Update the OIDC entities table to replace dummy values created by the registry file with your Microsoft Teams tenant values.
 -   **[Download and modify the manifest file for Employee Center for GCC-H or DoD](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/upload-task-package.md)**  
 Download and modify the package file to provide the information that is required to make Employee Center available in your organization.
 -   **[Update your Microsoft Teams tenant URL for GCC-H or DoD](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/gcch-response-header.md)**  
@@ -47,7 +47,3 @@ Configure your Microsoft Teams tenant URL for Government Community Cloud High \(
 
 **Parent Topic:**[Integrating ServiceNow with Microsoft Teams for GCC-H or DoD](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-sn-ms-teams-gcch.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[oidc-entity-table|Update the OIDC entities table]]

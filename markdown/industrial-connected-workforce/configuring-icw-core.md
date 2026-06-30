@@ -13,7 +13,7 @@ breadcrumb: [Industrial Connected Workforce Core, Industrial Connected Workforce
 
 # Configuring ICW Core
 
-Configure [[industrial-connected-workforce-overview|Industrial Connected Workforce]] \(ICW\).
+Configure Industrial Connected Workforce \(ICW\).
 
 ## Configuration overview
 
@@ -27,16 +27,10 @@ When you install ICW Mobile, it automatically installs the following dependencie
 
 **Note:** The ICW Core, Industrial Standards, and Industrial Guided Tasks applications are not intended to be used as stand-alone solutions.
 
--   **[[archive-rules-icw|Archive rules in the Industrial Connected Workforce]]**  
+-   **[Archive rules in the Industrial Connected Workforce](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/archive-rules-icw.md)**  
 Archiving rules in the Industrial Connected Workforce \(ICW\) helps maintain system efficiency by automatically managing outdated records. These rules verify that only relevant and current data remains active.
--   **[[configure-contextual-sidebar|Configure the contextual sidebar]]**  
+-   **[Configure the contextual sidebar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/configure-contextual-sidebar.md)**  
 Configure whether the sidebar is open or closed by default for users in your instance.
 
-**Parent Topic:**[[industrial-connected-workforce-core-landing-page|Industrial Connected Workforce Core]]
+**Parent Topic:**[Industrial Connected Workforce Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-core-landing-page.md)
 
-## Related
-
-- [[archive-rules-icw|Archive rules in the Industrial Connected Workforce]]
-- [[configure-contextual-sidebar|Configure the contextual sidebar]]
-- [[industrial-connected-workforce-core-landing-page|Industrial Connected Workforce Core]]
-- [[industrial-connected-workforce-overview|Industrial Connected Workforce]]

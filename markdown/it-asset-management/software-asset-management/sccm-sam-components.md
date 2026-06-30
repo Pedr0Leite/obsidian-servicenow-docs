@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Management references, Software Asset Management, IT
 
 # Components installed with the Microsoft SCCM software usage plugin
 
-Several types of components are installed with activation of the [[sccm-software-usage|Microsoft SCCM software usage]] plugin.
+Several types of components are installed with activation of the Microsoft SCCM software usage plugin.
 
 <table id="table_rw2_45g_1kb"><thead><tr><th>
 
@@ -103,6 +103,3 @@ If you've activated the Integration — Microsoft SCCM 2016 Software Usage \(com
 
 **Parent Topic:**[Software Asset Management references](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/references.md)
 
-## Related
-
-- [[sccm-software-usage|Microsoft SCCM software usage]]

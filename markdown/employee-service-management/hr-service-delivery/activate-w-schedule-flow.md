@@ -45,7 +45,7 @@ Role required: sn\_hr\_workday.admin
     -   **Professional worker profile**
     **Note:**
 
-    -   For a partial pull, deselect the **Retrieve all data** check box. Only modified data \(based on the last successful schedule run time\) is pulled from Workday into the ServiceNow instance. Partial pull is not supported for Department and Location. It is only supported for [[c_HRProfileRecords|HR profile]] and Job Profile.
+    -   For a partial pull, deselect the **Retrieve all data** check box. Only modified data \(based on the last successful schedule run time\) is pulled from Workday into the ServiceNow instance. Partial pull is not supported for Department and Location. It is only supported for HR profile and Job Profile.
     -   For a full pull, select the **Retrieve all data** check box. All the data is pulled from Workday into the ServiceNow instance.
     -   The **Retrieve All Data** check box is not supported for **Pull To-Dos**. The first pull will always be a full pull based on the configuration parameter **Initial Load Date time**. The subsequent ones are incremental pulls.
     -   Before you run the flow, turn off reporting: **com.snc.process\_flow.reporting.level**.
@@ -66,9 +66,5 @@ The flow is activated after all the trigger conditions are met. The schedule flo
 -   Effective workers
 -   Jobs
 
-Once data is pulled into staging tables, [[transform-maps-navex|transform maps]] move data into target tables. For more details, refer to [Use transform maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/transform-maps-w.md).
+Once data is pulled into staging tables, transform maps move data into target tables. For more details, refer to [Use transform maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/transform-maps-w.md).
 
-## Related
-
-- [[c_HRProfileRecords|HR Profile]]
-- [[transform-maps-navex|Transform maps]]

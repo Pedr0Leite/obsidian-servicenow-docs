@@ -14,7 +14,7 @@ breadcrumb: [Improving the user experience with AI Search, Exploring other Virtu
 
 # Activate AI Search for Virtual Agent
 
-Once activated, AI Search configurations that are part of the [[virtual-agent-landing-page|Virtual Agent]] default chat experience become available. The AI Search Fallback setup topic controls the AI Search experience.
+Once activated, AI Search configurations that are part of the Virtual Agent default chat experience become available. The AI Search Fallback setup topic controls the AI Search experience.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin or virtual\_agent\_admin
 
 ## About this task
 
-The default chat experience is defined in the Custom Greetings and Setup settings area in the [[convint-landing-page|Conversational Interfaces]] admin console. The default experience uses the AI Search Fallback setup topic, which requires AI Search to be activated for Virtual Agent. You can request AI Search from the Conversational Interfaces admin console Home page.
+The default chat experience is defined in the Custom Greetings and Setup settings area in the Conversational Interfaces admin console. The default experience uses the AI Search Fallback setup topic, which requires AI Search to be activated for Virtual Agent. You can request AI Search from the Conversational Interfaces admin console Home page.
 
 ## Procedure
 
@@ -30,7 +30,7 @@ The default chat experience is defined in the Custom Greetings and Setup setting
 
 2.  On the Home page, find the Request AI Search tile, and select **Request AI Search**.
 
-    \[Omitted image "ci-home-request-ai-search.png"\] Alt text: Request AI Search tile on the [[ci-console|Conversational Interfaces console]] home page.
+    \[Omitted image "ci-home-request-ai-search.png"\] Alt text: Request AI Search tile on the Conversational Interfaces console home page.
 
 3.  On the page that opens, select **Request AI Search** to request provisioning.
 
@@ -43,8 +43,3 @@ If you want to customize the Virtual Agent AI Search results that are generated 
 
 **Parent Topic:**[Improving the user experience with AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-ai-search.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[ci-console|Conversational Interfaces Console]]

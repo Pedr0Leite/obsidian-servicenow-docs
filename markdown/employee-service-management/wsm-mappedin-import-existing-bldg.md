@@ -22,7 +22,7 @@ Role required: sn\_wsd\_mappedin.admin
 
 1.  Create external IDs for the buildings you want to import.
 
-    For instructions, see [[wsm-mappedin-ext-ids|Use external IDs to match spaces between Workplace Service Delivery for Mappedin]].
+    For instructions, see [Use external IDs to match spaces between Workplace Service Delivery for Mappedin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/wsm-mappedin-ext-ids.md).
 
 2.  Click **Yes** in the confirm dialog box.
 
@@ -32,7 +32,7 @@ Role required: sn\_wsd\_mappedin.admin
 
     Mappedin creates floor plans with the external IDs.
 
-4.  Navigate to **[[workplace-safety-mgmt-hr|Workplace Core]]** &gt; **Space Administration** &gt; **Buildings**.
+4.  Navigate to **Workplace Core** &gt; **Space Administration** &gt; **Buildings**.
 
 5.  Select the building and click the **Update this building's Mappedin import** related link.
 
@@ -41,10 +41,5 @@ Role required: sn\_wsd\_mappedin.admin
 7.  Select **Update**.
 
 
-**Parent Topic:**[[wsm-mappedin-type-table|Convert Mappedin data to Workplace Space Mapping data]]
+**Parent Topic:**[Convert Mappedin data to Workplace Space Mapping data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/wsm-mappedin-type-table.md)
 
-## Related
-
-- [[wsm-mappedin-ext-ids|Use external IDs to match spaces between Workplace Service Delivery for Mappedin]]
-- [[wsm-mappedin-type-table|Convert Mappedin data to Workplace Space Mapping data]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]

@@ -30,7 +30,7 @@ Walk through the guided setup processes to configure Public Sector Digital Servi
 
 ### Before you begin
 
-[[install-public-sector-digital-services-core|Install the Public Sector Digital Services Core application]].
+[Install the Public Sector Digital Services Core application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/install-public-sector-digital-services-core.md).
 
 Role required: admin
 
@@ -116,7 +116,7 @@ Roles control access to features and capabilities. The Public Sector Digital Ser
 
 -   Internal roles for agents and managers
 -   External roles for constituents, business partners, and etc
-Assign the necessary roles to internal and external users. For more information, see [[psds-config-assign-user-roles|Assign roles to Public Sector Digital Services users]].
+Assign the necessary roles to internal and external users. For more information, see [Assign roles to Public Sector Digital Services users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-assign-user-roles.md).
 
 </td></tr><tr><td>
 
@@ -178,12 +178,5 @@ Account teams are made up of employees who fulfill specific jobs or roles for a 
 </table>
 ### What to do next
 
-After you have completed the foundation setup tasks, you can [[psds-config-organize-agent-workspaces|set up your agent workspace]] with other Public Sector applications, such as [[psds-install-playbooks-solutions|Playbooks]] or the [[psds-install|Performance Analytics Content Pack]].
+After you have completed the foundation setup tasks, you can [set up your agent workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-organize-agent-workspaces.md) with other Public Sector applications, such as [Playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-install-playbooks-solutions.md) or the [Performance Analytics Content Pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-install.md).
 
-## Related
-
-- [[install-public-sector-digital-services-core|Install Public Sector Digital Services Core]]
-- [[psds-config-assign-user-roles|Assign roles to Public Sector Digital Services users]]
-- [[psds-config-organize-agent-workspaces|Configure Agent Workspaces in Public Sector Digital Services]]
-- [[psds-install-playbooks-solutions|Install and configure playbooks and other solutions in Public Sector Digital Services]]
-- [[psds-install|Install the Performance Analytics and Reporting Solution for Public Sector Digital Services]]

@@ -14,7 +14,7 @@ breadcrumb: [Password Reset reference, Password Reset, Manage service capabiliti
 
 # Domain separation and the Password Reset application
 
-[[domain-separation-relationship-formatter-editor|Domain separation]] is supported in the [[password-reset-landing-page|Password Reset]] application. A password reset process that you define in any domain is isolated from a process that you create in any other domain. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported in the Password Reset application. A password reset process that you define in any domain is isolated from a process that you create in any other domain. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Standard
 
@@ -41,7 +41,7 @@ Domain separation for Password Reset is applied at the process level. The admin 
 
 ## Password Change process
 
-The Password Change application extends the Password Reset application by letting admins define how users change their passwords. A service desk-assisted process is not supported. An admin must publish the URL for the [[self-service-landing|self-service]] password change form.
+The Password Change application extends the Password Reset application by letting admins define how users change their passwords. A service desk-assisted process is not supported. An admin must publish the URL for the self-service password change form.
 
 The Password Change application enables an end user to change a password over the Internet using a browser on any supported interface, including mobile devices. The end user can select from any configured process in the end user’s domain \(or child domain of an end user’s domain\).
 
@@ -52,8 +52,3 @@ A password change process uses the same elements as a password reset process \(c
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[domain-separation-relationship-formatter-editor|Domain separation]]
-- [[password-reset-landing-page|Password Reset]]
-- [[self-service-landing|Self-service]]

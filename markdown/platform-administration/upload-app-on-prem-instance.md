@@ -23,11 +23,11 @@ Role required: admin
 
 ## Procedure
 
-1.  From your ServiceNow AI Platform instance, access the [[application-manager|Application Manager]] by navigating to **Admin** &gt; **Application Manager**
+1.  From your ServiceNow AI Platform instance, access the Application Manager by navigating to **Admin** &gt; **Application Manager**
 
 2.  Select **Upload Offline Application**.
 
-3.  Upload the `.store` file you received when you downloaded the application from the [[servicenow-store|ServiceNow Store]].
+3.  Upload the `.store` file you received when you downloaded the application from the ServiceNow Store.
 
 4.  Locate and select the app from the list on the **Available for you** page.
 
@@ -38,7 +38,3 @@ Role required: admin
 
 Install the uploaded application through the Application Manager. For more information, see [Install an application or plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/installing-applications-in-application-manager.md).
 
-## Related
-
-- [[application-manager|Application Manager]]
-- [[servicenow-store|ServiceNow Store]]

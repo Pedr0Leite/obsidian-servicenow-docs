@@ -14,7 +14,7 @@ breadcrumb: [Create a transfer order in Enterprise Asset Workspace, Create and m
 
 # Create transfer order lines in Enterprise Asset Workspace
 
-Create transfer order lines in [[enterprise-asset-management|Enterprise Asset Management]] to specify the items that comprise a transfer order.
+Create transfer order lines in Enterprise Asset Management to specify the items that comprise a transfer order.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ A transfer order can contain one or more transfer order lines. Under a single tr
 
 ## Procedure
 
-1.  Navigate to the transfer order in the [[using-eam-workspace|Enterprise Asset Workspace]].
+1.  Navigate to the transfer order in the Enterprise Asset Workspace.
 
 2.  In the transfer order, select the **Transfer Order Lines** tab
 
@@ -45,7 +45,7 @@ A transfer order can contain one or more transfer order lines. Under a single tr
     |Quantity received|Number of items already received. For example, 3 keyboards are transferred, 2 are received.|
     |Stage|Current stage of the transfer order. Transfer order lines can only be created when a transfer order is in **Draft** stage.|
     |Request line|Requested item to associate with the transfer order line.|
-    |Asset|Asset requested by the transfer order line. For example, a specific printer. The asset can filter on [[c_Stockrooms|stockrooms]].|
+    |Asset|Asset requested by the transfer order line. For example, a specific printer. The asset can filter on stockrooms.|
     |Quantity remaining|Number of items yet to be received. For example, 3 keyboards had been requested, 2 are received, 1 is remaining.|
     |Quantity returned|Number of items that already needed to be returned.|
 
@@ -56,8 +56,3 @@ A transfer order can contain one or more transfer order lines. Under a single tr
 
 **Parent Topic:**[Create a transfer order in Enterprise Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-eam-transferorder.md)
 
-## Related
-
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[c_Stockrooms|Stockrooms]]

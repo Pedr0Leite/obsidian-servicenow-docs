@@ -39,7 +39,7 @@ When an object is customized, the system adds a corresponding record to the Cust
 
     |Option|Navigation|
     |------|----------|
-    |Using left navigation|Navigate to **All** &gt; **[[admin-center-intro|Admin Center]]** &gt; **Upgrade Management** &gt; **Upgrade History**.|
+    |Using left navigation|Navigate to **All** &gt; **Admin Center** &gt; **Upgrade Management** &gt; **Upgrade History**.|
     |Using Admin tab option|Navigate to **Admin** &gt; **Upgrade Management** &gt; **Upgrade History**.|
 
     A list of upgrades is displayed.
@@ -82,7 +82,7 @@ Retain the customization by merging changes from the updated object.
 
 </td><td>
 
-1.  Click**Resolve Conflicts** to navigate to the [[uc-resolve-conflicts-form|Resolve Conflicts form]].
+1.  Click**Resolve Conflicts** to navigate to the Resolve Conflicts form.
 2.  Review the differences.
 3.  To merge a field:
     -   Click the right-arrow button for the field.
@@ -104,7 +104,7 @@ After reviewing the changes, click **Revert to Base System**.-   **Disposition**
 -   **Resolution Status** changes to **Reviewed and Reverted**.
 -   The system creates a Customer Update record.
 -   The record moves from the Skipped Changes to Review to the Skipped Changes Reviewed related list.
- **Note:** At any time after you [[uc-revert-customization|revert a customization]], you can click **Reapply Changes** to reapply the customization.
+ **Note:** At any time after you revert a customization, you can click **Reapply Changes** to reapply the customization.
 
 </td></tr><tr><td>
 
@@ -134,8 +134,3 @@ Only skipped updates with a **Resolution Status** of **Not Reviewed** or without
 
 **Parent Topic:**[Reviewing upgrade history](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-review-history.md)
 
-## Related
-
-- [[admin-center-intro|Admin Center]]
-- [[uc-resolve-conflicts-form|Resolve Conflicts form]]
-- [[uc-revert-customization|Revert a customization]]

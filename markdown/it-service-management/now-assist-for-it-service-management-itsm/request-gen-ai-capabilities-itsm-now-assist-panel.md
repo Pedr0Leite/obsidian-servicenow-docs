@@ -15,7 +15,7 @@ breadcrumb: [Use generative AI skills, Now Assist for IT Service Management \(IT
 
 # Request the generative AI capabilities in ITSM by using the Now Assist panel
 
-Use the Now Assist panel to request the contextual generative AI capabilities in [[r_ITServiceManagement|IT Service Management]] \(ITSM\) such as a chat summary, incident summary, or incident resolution notes in a conversational manner. You can also add comments and work notes. These capabilities provide you with a quick resolution to issues.
+Use the Now Assist panel to request the contextual generative AI capabilities in IT Service Management \(ITSM\) such as a chat summary, incident summary, or incident resolution notes in a conversational manner. You can also add comments and work notes. These capabilities provide you with a quick resolution to issues.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Role required: itil
 
 ## About this task
 
-You can access the Now Assist panel from the Core UI or [[sow-landing-page|Service Operations Workspace for ITSM]] to request generative AI capabilities for Now Assist for ITSM skills. For information about these skills, see [Skill inputs and triggers for Now Assist for IT Service Management \(ITSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/now-assist-itsm-skills.md).
+You can access the Now Assist panel from the Core UI or Service Operations Workspace for ITSM to request generative AI capabilities for Now Assist for ITSM skills. For information about these skills, see [Skill inputs and triggers for Now Assist for IT Service Management \(ITSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/now-assist-itsm-skills.md).
 
 Using the Now Assist panel saves time for an agent, for example, the agent can quickly learn the details of an incident by reading the incident summarization. The summarization gives enough details about the associated interaction so that the requester doesn't have to repeat the same information to the agent. For information about the Now Assist panel, see [Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-overview.md).
 
@@ -33,7 +33,7 @@ For information about how to activate the Now Assist panel, see [Activate the No
 
 ## Procedure
 
-1.  Log in to an instance where [[now-assist-itsm|Now Assist for IT Service Management \(ITSM\)]] is installed.
+1.  Log in to an instance where Now Assist for IT Service Management \(ITSM\) is installed.
 
 2.  Request generative AI capabilities to summarize a chat for an interaction, summarize a chat for an incident that was created from an interaction, summarize an incident, or generate incident resolution notes.
 
@@ -184,9 +184,3 @@ For more information, see [Conversational actions](https://raw.githubusercontent
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[r_ITServiceManagement|IT Service Management]]
-- [[sow-landing-page|Service Operations Workspace for ITSM]]
-- [[now-assist-itsm|Now Assist for IT Service Management \(ITSM\)]]

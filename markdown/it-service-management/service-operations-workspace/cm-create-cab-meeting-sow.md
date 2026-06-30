@@ -99,7 +99,7 @@ Meeting start time
 
 </td><td>
 
-Start date and time for the meeting.**Note:** When you [[cm-add-agenda-cab-meeting-sow|add an agenda item to a CAB meeting]], the **CAB date** field in the change request is automatically updated with this date.
+Start date and time for the meeting.**Note:** When you add an agenda item to a CAB meeting, the **CAB date** field in the change request is automatically updated with this date.
 
 </td></tr><tr><td>
 
@@ -220,6 +220,3 @@ Manage attendees of your CAB meeting who will review the change requests during 
 
 [Conduct a CAB meeting in the CAB workbench]()
 
-## Related
-
-- [[cm-add-agenda-cab-meeting-sow|Add an agenda item to a CAB meeting]]

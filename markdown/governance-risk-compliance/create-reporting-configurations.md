@@ -37,7 +37,7 @@ The form fields shown on a Reporting configuration record depend on the value of
 
     The predefined DRIR Case record is shown in the configurations list. The list is automatically filtered to the Digital resilience incident \(DRI\) business domain as shown in the following example.
 
-    \[Omitted image "reporting-configurations-list-view.png"\] Alt text: [[list-view-uib-ws|List view]] filtered to the DRI business domain, showing the predefined DRIR Case record.
+    \[Omitted image "reporting-configurations-list-view.png"\] Alt text: List view filtered to the DRI business domain, showing the predefined DRIR Case record.
 
 2.  Open the predefined DRIR Case record or select **New** in the Reporting configurations related list to create a Reporting configuration.
 
@@ -53,7 +53,7 @@ The form fields shown on a Reporting configuration record depend on the value of
 
     **Note:** For the predefined DRIR Case Reporting configuration, Source type is set to Data visualization and Data visualization is set to 'Digital Resilience Incident Reporting Case'. Do not change these values unless you are creating a custom Reporting configuration.
 
-    To view more information on the fields, see [[reporting-config-form|Create Reporting Configuration form]].
+    To view more information on the fields, see [Create Reporting Configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/reporting-config-form.md).
 
 4.  To save the configuration, select **Submit**.
 
@@ -61,10 +61,5 @@ The form fields shown on a Reporting configuration record depend on the value of
 **Related topics**  
 
 
-[[download-manifest-file|Download the manifest file]]
+[Download the manifest file](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/download-manifest-file.md)
 
-## Related
-
-- [[reporting-config-form|Create Reporting Configuration form]]
-- [[download-manifest-file|Download the manifest file]]
-- [[list-view-uib-ws|List view]]

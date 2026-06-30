@@ -28,7 +28,7 @@ Select one of the tiles for information about the end-user experience with Servi
 
 </td><td>
 
-[Use [[sg-mobile-search|mobile search]] \[Omitted image "bus-find-an-app.svg"\] Alt text: Use text, voice, and photos to help you find information and achieve goals.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-search.md)
+[Use mobile search \[Omitted image "bus-find-an-app.svg"\] Alt text: Use text, voice, and photos to help you find information and achieve goals.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-search.md)
 
 </td></tr><tr><td>
 
@@ -44,7 +44,3 @@ Select one of the tiles for information about the end-user experience with Servi
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sg-mobile-search|Mobile search]]

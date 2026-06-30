@@ -12,11 +12,11 @@ breadcrumb: [Configure, Code Signing, Platform Security]
 
 # Specify custom rules in ECC firewall
 
-Configure the External Communication Channel \(ECC\) firewall in your MID Server by specifying the custom rules to selectively allow or reject the incoming message and override the [[code-signing-configuration|Code Signing configuration]].
+Configure the External Communication Channel \(ECC\) firewall in your MID Server by specifying the custom rules to selectively allow or reject the incoming message and override the Code Signing configuration.
 
 Security administrators can use the ECC firewall tags to override the Code Signing configuration and allow or reject specific operations on MID Server. These custom rules must be specified in the YAML file of the located at: `agent/boot-config.yaml`.
 
-These tags are specific to a protocol. The [[sc-configuration|configuration]] specified for the parent tag is applicable to the child tag. For example, if `Http` protocol is allowed, `rest` and `soap` protocols are also allowed. This table outlines the available parents and child tags.
+These tags are specific to a protocol. The configuration specified for the parent tag is applicable to the child tag. For example, if `Http` protocol is allowed, `rest` and `soap` protocols are also allowed. This table outlines the available parents and child tags.
 
 <table id="table_tcl_p1j_3rb"><thead><tr><th>
 
@@ -177,7 +177,3 @@ ORCHESTRATION
 
 4.  Restart the MID Server.
 
-## Related
-
-- [[code-signing-configuration|Code Signing Configuration]]
-- [[sc-configuration|Configuration]]

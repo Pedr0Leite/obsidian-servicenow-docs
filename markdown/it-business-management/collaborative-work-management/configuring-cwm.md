@@ -14,7 +14,7 @@ breadcrumb: [Collaborative Work Management, Strategic Portfolio Management]
 
 # Configuring Collaborative Work Management
 
-Plan and configure how your team can implement [[cwm-landing|Collaborative Work Management]].
+Plan and configure how your team can implement Collaborative Work Management.
 
 ## Configuration overview
 
@@ -22,7 +22,7 @@ Use the following steps as guidelines to set up Collaborative Work Management. S
 
 1.  [Install Collaborative Work Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/install-cwm.md).
 2.  Assign CWM roles to the relevant users. See [Components installed with Collaborative Work Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/components-installed-with-cwm.md).
-3.  Configure [[alignment-planner-workspace-landing-page|Strategic Planning]] to include CWM Boards for Prioritization, Roadmap, and Goals. See [Connecting CWM with Strategic Planning or Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/connect-cwm-spw.md).
+3.  Configure Strategic Planning to include CWM Boards for Prioritization, Roadmap, and Goals. See [Connecting CWM with Strategic Planning or Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/connect-cwm-spw.md).
 4.  Add other ServiceNow AI Platform tables that can be referenced in the Docs.
 
     See [Enable ServiceNow AI Platform records in CWM Docs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/enable-now-platform-servicenow-records-cwm-docs.md).
@@ -31,7 +31,4 @@ Use the following steps as guidelines to set up Collaborative Work Management. S
 
     See [Properties installed with Collaborative Work Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/properties-installed-with-cwm.md).
 
-## Related
 
-- [[cwm-landing|Collaborative Work Management]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

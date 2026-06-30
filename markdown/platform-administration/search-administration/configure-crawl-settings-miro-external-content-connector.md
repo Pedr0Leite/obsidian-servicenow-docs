@@ -15,7 +15,7 @@ breadcrumb: [Miro external content connector, Configure, External Content Connec
 
 # Configure crawl settings for a Miro external content connector
 
-Specify the Spaces and boards you want your [[miro-external-content-connector|Miro external content connector]] to crawl. Define inclusion or exclusion filters to restrict the content the crawl retrieves and feeds to [[ia-ai-search|AI Search]] for indexing.
+Specify the Spaces and boards you want your Miro external content connector to crawl. Define inclusion or exclusion filters to restrict the content the crawl retrieves and feeds to AI Search for indexing.
 
 ## Before you begin
 
@@ -38,7 +38,7 @@ By default, each external content connector can index up to one million \(1,000,
 
 When a connector's indexed content item count exceeds 800,000, a warning message appears in the connector's UI to indicate that it's approaching the indexing limit. If the connector reaches the indexing limit, an error message appears in its UI.
 
-[[ext-cont-connectors-landing-page|External content connectors]] that support user permissions crawls can handle permissions for up to five hundred thousand \(500,000\) users and their groups. If a connector retrieves users in excess of this limit, user and group permissions may not be correctly applied to the connector's retrieved content. As a result, the content may not be searchable.
+External content connectors that support user permissions crawls can handle permissions for up to five hundred thousand \(500,000\) users and their groups. If a connector retrieves users in excess of this limit, user and group permissions may not be correctly applied to the connector's retrieved content. As a result, the content may not be searchable.
 
 If one of your connectors reaches the content indexing limit, you can update its crawl settings and file inclusion/exclusion filters to reduce the number of content items it retrieves. Alternatively, if you need a connector to index more than 1,000,000 content items, you can create a Customer Service and Support case at [https://support.servicenow.com/now](https://support.servicenow.com/now) to request a limit increase for the connector.
 
@@ -99,8 +99,3 @@ To retrieve searchable text content and metadata from your Miro source system us
 
 **Parent Topic:**[Miro external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/miro-external-content-connector.md)
 
-## Related
-
-- [[miro-external-content-connector|Miro external content connector]]
-- [[ia-ai-search|AI Search]]
-- [[ext-cont-connectors-landing-page|External Content Connectors]]

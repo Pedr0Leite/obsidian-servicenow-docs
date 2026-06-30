@@ -16,11 +16,11 @@ breadcrumb: [Supported software publisher licenses, Software Asset Management, I
 
 The Software Asset Management publisher pack for Microsoft helps you track your license compliance position using Microsoft licensing metrics.
 
-**Important:** To use the publisher pack, activate the [[c_SoftwareAssetMgmt|Software Asset Management]] Professional for Microsoft plugin \(com.snc.samp.microsoft\).
+**Important:** To use the publisher pack, activate the Software Asset Management Professional for Microsoft plugin \(com.snc.samp.microsoft\).
 
 Microsoft offers a wide variety of products that span from database servers to subscription services. Each Microsoft product follows its own licensing model, which can make it hard to track your license compliance position. With the Software Asset Management publisher pack for Microsoft, you can accurately track your license compliance position for Microsoft products. Reconciliation identifies licenses that are out of compliance and provides a list of remediation options. For more information, see [Software reconciliation for compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_SAMReconciliation.md).
 
-To learn more about Microsoft licensing [[c_Models|models]], see [Microsoft licensing](https://www.microsoft.com/en-us/Licensing).
+To learn more about Microsoft licensing models, see [Microsoft licensing](https://www.microsoft.com/en-us/Licensing).
 
 Set up ServiceNow Discovery to identify Microsoft installations on your network. For more information, see [Data collected by ITOM Visibility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/data-collected-by-itom-visibility.md).
 
@@ -42,7 +42,7 @@ The Software Asset Management publisher pack for Microsoft supports the followin
 
 For more information, see [Supported Microsoft license types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/supported-microsoft-license-types.md).
 
-If a PPN with a P+SA license type lacks a version assignment, a software model with the exact version is automatically applied. This automatic version assignment occurs both when creating an entitlement and when importing entitlements from a Microsoft License Statement \(MLS\). This automatic action correctly applies Microsoft assurance benefits to an entitlement. For details on the upgrade history of an entitlement, navigate to **Workspaces** &gt; **[[sam-workspace|Software Asset Workspace]]** &gt; **License operations** &gt; **Software entitlements** &gt; **Upgrade history**.
+If a PPN with a P+SA license type lacks a version assignment, a software model with the exact version is automatically applied. This automatic version assignment occurs both when creating an entitlement and when importing entitlements from a Microsoft License Statement \(MLS\). This automatic action correctly applies Microsoft assurance benefits to an entitlement. For details on the upgrade history of an entitlement, navigate to **Workspaces** &gt; **Software Asset Workspace** &gt; **License operations** &gt; **Software entitlements** &gt; **Upgrade history**.
 
 The **SAMP - Update generic PSA entitlements** fix script automatically updates the existing P+SA entitlements with version as anything, with the specific version, and applies the appropriate licensing terms.
 
@@ -68,19 +68,19 @@ The Software Asset Management publisher pack for Microsoft supports licensing ru
 -   **[Manage licenses for Microsoft Visual Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/manage-visual-studio-licenses.md)**  
 Manage your Visual Studio subscriptions with the Software Asset Management publisher pack for Microsoft. Verify license compliance and detect unlicensed installations. Reduce licensing costs by identifying subscriptions that are allocated but aren’t being used.
 -   **[Cost-based licensing optimization for Microsoft](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/cost-based-microsoft-cluster-licensing.md)**  
-The [[cost-based-microsoft-cluster-licensing|cost-based licensing optimization for Microsoft]] helps you determine the most optimal way to license your Microsoft software products across hybrid infrastructures. With this optimization, you can automatically balance license compliance with cost effectiveness to maximize cost savings.
+The cost-based licensing optimization for Microsoft helps you determine the most optimal way to license your Microsoft software products across hybrid infrastructures. With this optimization, you can automatically balance license compliance with cost effectiveness to maximize cost savings.
 -   **[Create preferred licensing assignments for Microsoft software products deployed on clusters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/apply-preferred-licensing-assignments-microsoft-clusters.md)**  
 Create and define preferred licensing assignments for the Microsoft software products that are deployed on your hypervisor clusters. Use these assignments to specify whether you want to license each software product at either the physical host layer or virtual layer.
 -   **[Optimizing license consumption for Microsoft SQL Server databases and components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sql-comp-edi-discovery.md)**  
 You can optimize the license consumption for your Microsoft SQL Server databases and components based on the component editions that are identified through ITOM Discovery.
 -   **[Importing Microsoft entitlements from a Microsoft License Statement \(MLS\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/importing-mls-entitlements.md)**  
-You can import entitlements from an MLS to automatically define the license details and license agreements that are matched to your Microsoft [[c_CreatingSoftwareModels|software models]].
+You can import entitlements from an MLS to automatically define the license details and license agreements that are matched to your Microsoft software models.
 -   **[Windows and SQL Server Infrastructure report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/windows-sql-server-infrastructure-report.md)**  
-You can use the [[windows-sql-server-infrastructure-report|Windows and SQL Server Infrastructure report]] to gain visibility into the infrastructure details for all physical hosts and virtual machines \(VMs\) that are running Microsoft Windows Server or Microsoft SQL Server across your on-premise and public cloud environments, such as AWS and Microsoft Azure.
+You can use the Windows and SQL Server Infrastructure report to gain visibility into the infrastructure details for all physical hosts and virtual machines \(VMs\) that are running Microsoft Windows Server or Microsoft SQL Server across your on-premise and public cloud environments, such as AWS and Microsoft Azure.
 -   **[Microsoft dashboards in Software Asset Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/dashboard-microsoft.md)**  
 View installations, cost, and compliance for Microsoft software such as SQL Server in the Software Asset Management classic application. View subscription use, cost, and compliance for Microsoft 365.
 -   **[Publisher overview for Microsoft in the Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/publisher-overview-microsoft.md)**  
-View license usage information related to Microsoft in the [[publisher-overview-microsoft|publisher overview for Microsoft in the Software Asset Workspace]].
+View license usage information related to Microsoft in the publisher overview for Microsoft in the Software Asset Workspace.
 -   **[Supported Microsoft license types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/supported-microsoft-license-types.md)**  
 The Software Asset Management publisher pack for Microsoft adds license metrics that are specific to Microsoft.
 
@@ -99,12 +99,3 @@ The Software Asset Management publisher pack for Microsoft adds license metrics 
 
 [Microsoft 365 integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/microsoft-o365.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[c_Models|Models]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[cost-based-microsoft-cluster-licensing|Cost-based licensing optimization for Microsoft]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[windows-sql-server-infrastructure-report|Windows and SQL Server Infrastructure report]]
-- [[publisher-overview-microsoft|Publisher overview for Microsoft in the Software Asset Workspace]]

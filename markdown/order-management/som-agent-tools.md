@@ -12,26 +12,19 @@ breadcrumb: [Configure, Sales Customer Relationship Management]
 
 # Configuring agent tools in Sales Customer Relationship Management
 
-The applications in [[order-mgt-overview|Sales Customer Relationship Management]] share common features and tools for agents.
+The applications in Sales Customer Relationship Management share common features and tools for agents.
 
 This section describes common features that you can configure for your agents, such as location-based transactions.
 
--   **[[config-location-transaction|Configuring location-based product transactions]]**  
+-   **[Configuring location-based product transactions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/config-location-transaction.md)**  
 In Sales Customer Relationship Management, agents can create opportunities, quotes, and orders tailored to customer location. These transactions are called location-based product transactions.
 
-**Parent Topic:**[[som-configuring|Configuring Sales Customer Relationship Management applications]]
+**Parent Topic:**[Configuring Sales Customer Relationship Management applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-configuring.md)
 
 **Related topics**  
 
 
-[[explore-order-management|Order management]]
+[Order management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-order-management.md)
 
-[[using-order-management|Using Order Management]]
+[Using Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-order-management.md)
 
-## Related
-
-- [[config-location-transaction|Configuring location-based product transactions]]
-- [[som-configuring|Configuring Sales Customer Relationship Management applications]]
-- [[explore-order-management|Order management]]
-- [[using-order-management|Using Order Management]]
-- [[order-mgt-overview|Sales Customer Relationship Management]]

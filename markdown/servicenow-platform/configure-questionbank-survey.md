@@ -22,7 +22,7 @@ Activate the Survey Question Bank Sample Data plugin \(com.snc.question\_bank\_d
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Survey** &gt; **View [[r_SurveyManagementLandingPage|Surveys]]**.
+1.  Navigate to **All** &gt; **Survey** &gt; **View Surveys**.
 
 2.  Open a survey definition.
 
@@ -40,7 +40,7 @@ Activate the Survey Question Bank Sample Data plugin \(com.snc.question\_bank\_d
 
     1.  In the Metric Categories related list, open a metric category definition.
 
-    2.  In the [[c_AssessmentMetrics|Assessment Metrics]] related list, click **New Metric from Bank**.
+    2.  In the Assessment Metrics related list, click **New Metric from Bank**.
 
         The New Metric from Bank dialog box is displayed with a list of questions available in the question bank.
 
@@ -70,7 +70,7 @@ Activate the Survey Question Bank Sample Data plugin \(com.snc.question\_bank\_d
 
         A copy of the metric and the corresponding metric definitions is created for the selected category in the question bank.
 
-7.  To add a metric category or metric to a survey from the question bank in [[c_SurveyDesigner|Survey designer]], perform the following steps.
+7.  To add a metric category or metric to a survey from the question bank in Survey designer, perform the following steps.
 
     1.  Open the survey in Survey Designer.
 
@@ -85,11 +85,5 @@ Activate the Survey Question Bank Sample Data plugin \(com.snc.question\_bank\_d
     -   When you drag and drop a parent metric, all dependent questions are also added to the metric category.
     -   When you drag and drop a child metric, only the child question is added to the metric category.
 
-**Parent Topic:**[[add-questionbank-for-survey|Add a metric category and metric in the question bank for surveys]]
+**Parent Topic:**[Add a metric category and metric in the question bank for surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/add-questionbank-for-survey.md)
 
-## Related
-
-- [[add-questionbank-for-survey|Add a metric category and metric in the question bank for surveys]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[c_AssessmentMetrics|Assessment metrics]]
-- [[c_SurveyDesigner|Survey designer]]

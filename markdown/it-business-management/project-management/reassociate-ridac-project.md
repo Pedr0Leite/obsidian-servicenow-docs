@@ -30,7 +30,7 @@ You can associate one record with multiple different records. For example, you c
 
 2.  Select the project for which you want to associate one RIDAC entry to another.
 
-3.  In the [[create-a-project-form|Project form]] related list, select the RIDAC record.
+3.  In the Project form related list, select the RIDAC record.
 
 4.  On the form, select the **Associate RIDAC** related link.
 
@@ -52,6 +52,3 @@ You can associate one record with multiple different records. For example, you c
 
 [Convert one RIDAC \(Risk, Issue, Decision, Action, and Request Changes\) record to another for a project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/convert-ridac-for-project.md)
 
-## Related
-
-- [[create-a-project-form|Project form]]

@@ -12,13 +12,13 @@ breadcrumb: [Core UI keyboard shortcuts, Working in Core UI, Configure UIs and p
 
 # Disable keyboard shortcuts globally
 
-Keyboard shortcuts are enabled by default. You can disable all keyboard shortcuts globally or disable certain shortcuts using different [[c_UserPreferences|user preferences]].
+Keyboard shortcuts are enabled by default. You can disable all keyboard shortcuts globally or disable certain shortcuts using different user preferences.
 
 ## Before you begin
 
 Role required: admin
 
-For a list of available keyboard shortcuts, see [[r_KeyboardShortcuts|Core UI keyboard shortcuts]].
+For a list of available keyboard shortcuts, see [Core UI keyboard shortcuts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/r_KeyboardShortcuts.md).
 
 ## Procedure
 
@@ -45,7 +45,3 @@ For a list of available keyboard shortcuts, see [[r_KeyboardShortcuts|Core UI ke
 
 **Parent Topic:**[Core UI keyboard shortcuts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/r_KeyboardShortcuts.md)
 
-## Related
-
-- [[r_KeyboardShortcuts|Core UI keyboard shortcuts]]
-- [[c_UserPreferences|User preferences]]

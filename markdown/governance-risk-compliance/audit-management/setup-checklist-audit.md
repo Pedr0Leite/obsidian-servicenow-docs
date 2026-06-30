@@ -14,7 +14,7 @@ breadcrumb: [Configure, Audit Management, Governance, Risk, and Compliance]
 
 # Setup checklist for the GRC Audit Management application
 
-This checklist includes the setup tasks that you're required to complete in your ServiceNow AI Platform® instance. When you have completed these tasks, the base system is ready for operation. Optional setup procedures are also included to enhance the [[c_GRCAudits|Audit Management]] functionality.
+This checklist includes the setup tasks that you're required to complete in your ServiceNow AI Platform® instance. When you have completed these tasks, the base system is ready for operation. Optional setup procedures are also included to enhance the Audit Management functionality.
 
 ## Before you begin
 
@@ -38,6 +38,4 @@ To generate a PDF of this topic, select the download icon at the top of the topi
     |\[Omitted image "checkbox.png"\] Alt text: check box.|After defining a control, audit managers create walkthroughs that will be conducted to observe and provide documented evidence of whether the associated control is operating correctly. For details, see [Create a walkthrough](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/t_CreateAWalkthrough.md).|
     |\[Omitted image "checkbox.png"\] Alt text: check box.|As an audit manager, generate an audit report that summarizes the findings of an engagement so report findings can be communicated to executives. For details, see [Generate an audit report from an engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/generate-an-audit-report.md)|
 
-## Related
 
-- [[c_GRCAudits|Audit Management]]

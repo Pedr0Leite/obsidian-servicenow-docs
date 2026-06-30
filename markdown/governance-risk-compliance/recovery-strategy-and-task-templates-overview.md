@@ -25,23 +25,16 @@ Templates can be associated with plan templates at the plan, loss scenario, and 
 
 If you are upgrading from a version without templates, you do not have to start from scratch: select existing recovery tasks or event tasks and save them as a new group \(dependencies preserved\), add them to an existing group, or save them as individual task templates."
 
-**Parent Topic:**[[bcp-tasks-performed-by-bcp-owner|Structured workflows for BCPs]]
+**Parent Topic:**[Structured workflows for BCPs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bcp-tasks-performed-by-bcp-owner.md)
 
 **Related topics**  
 
 
-[[configure-recovery-strategy-template-uib-ws|Configure a recovery strategy template]]
+[Configure a recovery strategy template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-recovery-strategy-template-uib-ws.md)
 
-[[create-reco-task-tem-groups|Apply Task templates and Task template groups]]
+[Apply Task templates and Task template groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-reco-task-tem-groups.md)
 
-[[create-bcp-plan-from-template-in-uib-ws|Create a business continuity plan from a plan template]]
+[Create a business continuity plan from a plan template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-bcp-plan-from-template-in-uib-ws.md)
 
-[[bcm-event-task-template-progress|Event task creation progress in exercise and crisis events]]
+[Event task creation progress in exercise and crisis events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bcm-event-task-template-progress.md)
 
-## Related
-
-- [[bcp-tasks-performed-by-bcp-owner|Structured workflows for BCPs]]
-- [[configure-recovery-strategy-template-uib-ws|Configure a recovery strategy template]]
-- [[create-reco-task-tem-groups|Apply Task templates and Task template groups]]
-- [[create-bcp-plan-from-template-in-uib-ws|Create a business continuity plan from a plan template]]
-- [[bcm-event-task-template-progress|Event task creation progress in exercise and crisis events]]

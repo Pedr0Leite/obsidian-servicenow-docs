@@ -19,7 +19,7 @@ Retail Strategic Portfolio Management Suite \(SPM Retail\) helps retail organiza
 
 <table id="table_spm_retail_nav_cards" class="nav-card"><tbody><tr><td>
 
-[Explore\[Omitted image "bus-explore.svg"\] Alt text:Learn more about Retail [[r_ITBusinessManagement|Strategic Portfolio Management]] Suite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/explore-spm-retail-suite.md)
+[Explore\[Omitted image "bus-explore.svg"\] Alt text:Learn more about Retail Strategic Portfolio Management Suite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/explore-spm-retail-suite.md)
 
 </td><td>
 
@@ -31,7 +31,7 @@ Retail Strategic Portfolio Management Suite \(SPM Retail\) helps retail organiza
 
 </td><td>
 
-[References\[Omitted image "bus-learn.svg"\] Alt text:Learn about [[form-field-information-for-dw|forms]] and fields of Retail Strategic Portfolio Management Suite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/references-spm-retail-suite.md)
+[References\[Omitted image "bus-learn.svg"\] Alt text:Learn about forms and fields of Retail Strategic Portfolio Management Suite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/references-spm-retail-suite.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -39,7 +39,3 @@ Retail Strategic Portfolio Management Suite \(SPM Retail\) helps retail organiza
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[r_ITBusinessManagement|Strategic Portfolio Management]]
-- [[form-field-information-for-dw|Forms]]

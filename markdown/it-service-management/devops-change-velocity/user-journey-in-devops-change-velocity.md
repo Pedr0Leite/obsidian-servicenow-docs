@@ -14,13 +14,13 @@ breadcrumb: [Explore, DevOps Change Velocity, IT Service Management]
 
 # User journey for DevOps Change Velocity
 
-Review the adoption journey of the [[devops-landing-page-new|DevOps Change Velocity]] application to enable a phased \(crawl, walk, run, fly\) approach toward complete automation of change approvals.
+Review the adoption journey of the DevOps Change Velocity application to enable a phased \(crawl, walk, run, fly\) approach toward complete automation of change approvals.
 
 \[Omitted image "devops-adoption-journey.png"\] Alt text: DevOps user adoption journey phases.
 
 While automating change request creation from the Continuous Integration \(CI\) and Continuous Deployment \(CD\) pipelines and automatically approving them will be your end goals with DevOps Change Velocity, you can approach your implementation in this phased manner. Each phase here provides incremental value over the previous phase and enables you to get started with minimum changes to your existing processes:
 
-1.  Connect Tools and [[dex-workspace-application-tab|Applications]]: Get started by integrating your key DevOps tools and choosing the key objects from these tools to track. This can be done without needing to modify your pipelines or any of the development assets. And then create DevOps Apps for the teams that you want to onboard first. Completing this phase is necessary to bring data from your tools over to the ServiceNow AI Platform.
+1.  Connect Tools and Applications: Get started by integrating your key DevOps tools and choosing the key objects from these tools to track. This can be done without needing to modify your pipelines or any of the development assets. And then create DevOps Apps for the teams that you want to onboard first. Completing this phase is necessary to bring data from your tools over to the ServiceNow AI Platform.
 
     For more information on integrating tools, see [Integrating DevOps Change Velocity with third party tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/integrating-devops-change-with-third-party-tools.md).
 
@@ -35,7 +35,3 @@ All through these four phases, the Insights dashboards help you analyze operatio
 
 **Parent Topic:**[Exploring DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/dev-ops-landing-page.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[dex-workspace-application-tab|Applications]]

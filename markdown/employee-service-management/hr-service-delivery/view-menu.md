@@ -14,7 +14,7 @@ breadcrumb: [Reference, Manager Hub, HR Service Delivery, Employee Service Manag
 
 # Use the View menu icon in Manager Hub
 
-Use the View menu icon \(\[Omitted image "viewmenu.png"\] Alt text: View menu icon\) to view org menu, interact with an employee or assign a [[exploring-learning-exp|learning]] course.
+Use the View menu icon \(\[Omitted image "viewmenu.png"\] Alt text: View menu icon\) to view org menu, interact with an employee or assign a learning course.
 
 <table id="table_mkz_bq4_4cc"><thead><tr><th>
 
@@ -38,9 +38,9 @@ Schedule conversation
 
 </td><td>
 
-Schedule a conversation with an employee.If you have the Microsoft Outlook integration for [[manager-hub-overview|Manager Hub]], the [[schedule-conversation-form|Schedule a conversation form]] opens. For more information, see [Schedule a conversation form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/schedule-conversation-form.md).
+Schedule a conversation with an employee.If you have the Microsoft Outlook integration for Manager Hub, the Schedule a conversation form opens. For more information, see [Schedule a conversation form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/schedule-conversation-form.md).
 
-If you don't have the Microsoft Outlook integration for Manager Hub, the [[create-conversation-form|Create a conversation form]] opens. For more information, see [Create a conversation form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/create-conversation-form.md).
+If you don't have the Microsoft Outlook integration for Manager Hub, the Create a conversation form opens. For more information, see [Create a conversation form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/create-conversation-form.md).
 
 </td></tr><tr><td>
 
@@ -108,7 +108,7 @@ View articles visible to an employee.**Note:** You can only view articles visibl
 
 [Default configurations for To do's]()
 
-[Default [[proactive-prompts-for-hrsd|proactive prompts]] for Manager Hub]()
+[Default proactive prompts for Manager Hub]()
 
 [Assign learning form]()
 
@@ -116,10 +116,3 @@ View articles visible to an employee.**Note:** You can only view articles visibl
 
 [Schedule a conversation form]()
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[manager-hub-overview|Manager Hub]]
-- [[schedule-conversation-form|Schedule a conversation form]]
-- [[create-conversation-form|Create a conversation form]]
-- [[proactive-prompts-for-hrsd|Proactive Prompts]]

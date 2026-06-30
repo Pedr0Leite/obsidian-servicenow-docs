@@ -22,7 +22,7 @@ Role required: sn\_lg\_ops.legal\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Employee Center**.
 
     **Note:** If you’re using Legal Service Portal, open a request by navigating to the Legal Service Portal and selecting **My Requests** &gt; **View all requests** from the header.
 
@@ -39,12 +39,8 @@ Role required: sn\_lg\_ops.legal\_user
     -   View a list of signatories and their details by accessing the **Signatories** tab.
     -   View task SLA details by accessing the **Task SLAs** tab.
     -   View the access levels to documents for various personas by accessing the **Document Access** tab.
-5.  Track the request's activities and post messages for the fulfiller working on it by accessing the **[[activity-lxp|Activity]]** tab.
+5.  Track the request's activities and post messages for the fulfiller working on it by accessing the **Activity** tab.
 
 
 **Parent Topic:**[Using Legal Request Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/submitting-legal-request.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[activity-lxp|Activity]]

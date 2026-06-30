@@ -14,13 +14,9 @@ breadcrumb: [Treasury Operations, Banking applications, Financial Services Opera
 
 # Analytics and reporting for Financial Services Treasury Operations
 
-[[fso-treasury-ops-landing-page|Financial Services Treasury Operations]] contains a preconfigured dashboard with actionable data visualizations that can help your organization improve your business processes and quantify the value of self-service.
+Financial Services Treasury Operations contains a preconfigured dashboard with actionable data visualizations that can help your organization improve your business processes and quantify the value of self-service.
 
 Use the Performance Analytics widgets on a dashboard to visualize data over time, analyze your business processes, and identify areas of improvement.
 
-The [[fso-treasury-ops-dashboard|Treasury Operations dashboard]] is available for Financial Services Treasury Operations.
+The [Treasury Operations dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-treasury-ops-dashboard.md) is available for Financial Services Treasury Operations.
 
-## Related
-
-- [[fso-treasury-ops-dashboard|Treasury Operations dashboard]]
-- [[fso-treasury-ops-landing-page|Financial Services Treasury Operations]]

@@ -22,7 +22,7 @@ The Monitoring Technology Dashboard shows the five CIs and servers with the high
 
 To enable viewing the Monitoring Technology Dashboard, ensure that you have installed clotho version 23.1.0.
 
-To view the dashboard, navigate to **All** &gt; **AIOps [[otto-aiops-dashboards|Dashboards]]** &gt; **Monitoring Technology Dashboards** and select the OS whose metrics you want to view.
+To view the dashboard, navigate to **All** &gt; **AIOps Dashboards** &gt; **Monitoring Technology Dashboards** and select the OS whose metrics you want to view.
 
 Select the arrow next to the dashboard name to enabled choosing a different dashboard to view:
 
@@ -43,11 +43,7 @@ With the GCP Monitoring Technology Dashboard, you can monitor the health and per
 -   **[Monitoring Technology Dashboard for VMware vSphere](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/monitor-tech-dashboard-vsphere.md)**  
 With the VMware vSphere Monitoring Technology Dashboard, you can monitor the health and performance of your VMware vSphere infrastructure. By using the dashboard, you can identify the configuration items \(CIs\) and servers with the highest metric readouts, and view the most recent active alerts on those CIs and servers.
 -   **[Customize the Monitoring Technology Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/customize-dashboard-widgets.md)**  
-[[customize-dashboard-widgets|Customize the Monitoring Technology Dashboard]] widgets in the Data Visualizations library so your dashboard displays information exactly as you want to see it.
+Customize the Monitoring Technology Dashboard widgets in the Data Visualizations library so your dashboard displays information exactly as you want to see it.
 
 **Parent Topic:**[Deploying Agent Client Collector on endpoints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-endpoint-deployment.md)
 
-## Related
-
-- [[otto-aiops-dashboards|Dashboards]]
-- [[customize-dashboard-widgets|Customize the Monitoring Technology Dashboard]]

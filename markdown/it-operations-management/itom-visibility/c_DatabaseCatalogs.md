@@ -18,11 +18,11 @@ The database catalog lists all the catalog objects, or databases, discovered for
 
 ## Databases vs. catalogs
 
-Most database manufacturers use the term catalog to mean database, while Microsoft SQL uses the term database. Database catalogs can be imported into your instance from a third-party [[r-discovery|discovery]] tool, entered into the platform manually, or found by Discovery.
+Most database manufacturers use the term catalog to mean database, while Microsoft SQL uses the term database. Database catalogs can be imported into your instance from a third-party discovery tool, entered into the platform manually, or found by Discovery.
 
 **Important:** Discovery does not support MySQL database catalog discovery in the base system. The Oracle DB on Unix and Oracle DB on Windows patterns discover Oracle catalog objects through the pattern extension Get Catalog info. The MSSql DB On Windows and MSSql 2000 DB patterns discover both database instances and catalogs and store them in the database instance records.
 
-For more information about [[oracle-catalog-discovery|Oracle catalog discovery]], see [Oracle Catalog discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/oracle-catalog-discovery.md).
+For more information about Oracle catalog discovery, see [Oracle Catalog discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/oracle-catalog-discovery.md).
 
 For more information about Microsoft SQL database instances, see [Microsoft SQL Server and Cluster discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/mssql-data-collected-pattern.md).
 
@@ -30,7 +30,3 @@ If you discovered database catalogs using probes before migrating to patterns, y
 
 **Parent Topic:**[Database discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/database-discovery.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[oracle-catalog-discovery|Oracle Catalog discovery]]

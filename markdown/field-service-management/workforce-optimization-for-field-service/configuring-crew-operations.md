@@ -20,11 +20,11 @@ Once an administrator identifies the type of work that requires a crew, the requ
 
 An administrator or dispatcher can select the **Needs Crew** option in the work order task form if a crew is required to complete a work order task. This selection can be done when the task is in the Draft, Assigned, or Pending dispatch state if a crew a crew is required to complete a work order task.
 
-Activate the [[field-service-crew-scheduling|Field Service Crew Operations]] plugin, to add the **Needs Crew** option to the work order task form, work type form, and the work order templates.
+Activate the Field Service Crew Operations plugin, to add the **Needs Crew** option to the work order task form, work type form, and the work order templates.
 
 ## Dynamic Scheduling for crew operations
 
-Auto-assignment of tasks in [[dynamic-scheduling|dynamic scheduling]] is enabled for work order tasks that require a crew. New criteria are defined in the dynamic scheduling configurations to include work order tasks with the crew requirement enabled. These criteria are set to perform the following actions on work order tasks that require a crew:
+Auto-assignment of tasks in dynamic scheduling is enabled for work order tasks that require a crew. New criteria are defined in the dynamic scheduling configurations to include work order tasks with the crew requirement enabled. These criteria are set to perform the following actions on work order tasks that require a crew:
 
 -   The Task Filters related list includes:
 
@@ -51,15 +51,15 @@ The steps for configuring Field Service Crew Operations are:
 
 1.  [Activate Field Service Crew Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/activate-fsm-crew-scheduling.md)
 
-    You can activate the Field Service Crew Operations plugin \(com.snc.fsm\_crew\_scheduling\) for [[fsm-application-landing-page|Field Service Management]] if you have the admin role. The application includes demo data and installs related ServiceNow Store applications and plugins if they aren’t already installed.
+    You can activate the Field Service Crew Operations plugin \(com.snc.fsm\_crew\_scheduling\) for Field Service Management if you have the admin role. The application includes demo data and installs related ServiceNow Store applications and plugins if they aren’t already installed.
 
 2.  [Create crews in Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/create-crews-fsm.md)
 
-    [[create-crews-dispatcher-wrkspc|Create crews]] to assign work order tasks to a predefined group of agents.
+    Create crews to assign work order tasks to a predefined group of agents.
 
 3.  [Add skills to a crew](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/add-skill-to-crew.md)
 
-    [[add-skill-to-crew|Add skills to a crew]] so you understand what crews are correct for work order tasks that require unique skills.
+    Add skills to a crew so you understand what crews are correct for work order tasks that require unique skills.
 
 4.  [Add an equipment skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/mark-equipment-skill.md)
 
@@ -93,10 +93,3 @@ The steps for configuring Field Service Crew Operations are:
 
 [Managing crew tasks using the Now Mobile Agent application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/executing-crew-tasks.md)
 
-## Related
-
-- [[field-service-crew-scheduling|Field Service Crew Operations]]
-- [[dynamic-scheduling|Dynamic scheduling]]
-- [[fsm-application-landing-page|Field Service Management]]
-- [[create-crews-dispatcher-wrkspc|Create crews]]
-- [[add-skill-to-crew|Add skills to a crew]]

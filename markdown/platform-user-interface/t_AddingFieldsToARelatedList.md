@@ -30,7 +30,7 @@ To add fields to selections in a related list, record the exact field name, or e
 
 2.  Select **sys\_ref\_list**.
 
-3.  To add fields from the Group table, in the **[[lists-configurable-workspace|Lists]]** related list, select **sys\_user\_group**.
+3.  To add fields from the Group table, in the **Lists** related list, select **sys\_user\_group**.
 
 4.  In the **List Elements** related list, click **New**.
 
@@ -41,7 +41,7 @@ To add fields to selections in a related list, record the exact field name, or e
 6.  Click **Submit**.
 
 
-**Parent Topic:**[[c_RelatedLists|Related lists]]
+**Parent Topic:**[Related lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_RelatedLists.md)
 
 **Related topics**  
 
@@ -58,7 +58,3 @@ To add fields to selections in a related list, record the exact field name, or e
 
 [Create a default filter for list selector records]()
 
-## Related
-
-- [[c_RelatedLists|Related lists]]
-- [[lists-configurable-workspace|Lists]]

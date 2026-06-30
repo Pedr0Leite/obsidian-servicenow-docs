@@ -12,7 +12,7 @@ breadcrumb: [Configurable Portal widgets instance options, Configurable Portal W
 
 # Portal Taxonomy Topic widget instance options form
 
-Instance options enable you to configure the [[portal-taxo-topic-widget|Portal Taxonomy Topic widget]] on a portal page.
+Instance options enable you to configure the Portal Taxonomy Topic widget on a portal page.
 
 |Instance option|Description|
 |---------------|-----------|
@@ -65,7 +65,7 @@ Browse taxonomy page
 
 </td><td>
 
-The page ID of a portal page that opens when a topic card is accessed in the [[browse-taxo-widget|Portal Browse Taxonomy widget]].
+The page ID of a portal page that opens when a topic card is accessed in the Portal Browse Taxonomy widget.
 
 </td></tr></tbody>
 </table>**Related topics**  
@@ -73,7 +73,3 @@ The page ID of a portal page that opens when a topic card is accessed in the [[b
 
 [Add and configure the Portal Taxonomy Topic widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/add-conf-port-taxo-topic.md)
 
-## Related
-
-- [[portal-taxo-topic-widget|Portal Taxonomy Topic widget]]
-- [[browse-taxo-widget|Portal Browse Taxonomy widget]]

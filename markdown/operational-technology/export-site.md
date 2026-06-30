@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to the [[sites-page|Sites page]].
+1.  Navigate to the Sites page.
 
 2.  Select the **Actions** button.
 
@@ -37,6 +37,3 @@ The Sites information is downloaded in the CSV format.
 
 \[Omitted image "export-ignore.png"\] Alt text: Export CVS
 
-## Related
-
-- [[sites-page|Sites page]]

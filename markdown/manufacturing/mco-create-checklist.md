@@ -16,11 +16,11 @@ Agents workspace enables the manufacturer to create a checklist for verification
 
 ## Before you begin
 
-Role required: manufacturing operations admin \(sn\_mfg\_cmn.manufacturing\_operations\_admin\) or [[mco-sales-promotion|sales promotion]] manager \(sn\_sales\_prm\_mgmt.sales\_promotion\_manager\)
+Role required: manufacturing operations admin \(sn\_mfg\_cmn.manufacturing\_operations\_admin\) or sales promotion manager \(sn\_sales\_prm\_mgmt.sales\_promotion\_manager\)
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace** &gt; **Lists** &gt; **[[mco-sls-pro-mgmt|Sales Promotion Management]]** &gt; **My Promotion**.
+1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace** &gt; **Lists** &gt; **Sales Promotion Management** &gt; **My Promotion**.
 
 2.  Select **Create checklist**.
 
@@ -49,27 +49,17 @@ To duplicate a checklist, do the following:
 1.  Select **Edit checklist**.
 2.  Select **Duplicate**.
 
--   **[[mco-create-applicable-prod|Create an applicable product]]**  
+-   **[Create an applicable product](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-create-applicable-prod.md)**  
 Create an applicable product. An applicable product specifies the products to which the sales promotion is applied.
--   **[[mco-create-visibility-criteria|Create a visibility criteria]]**  
+-   **[Create a visibility criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-create-visibility-criteria.md)**  
 Agents workspaces enables the manufacturers to create the visibility criteria. Manufacturer can filter the dealer name for which the target sales promotion is applicable.
--   **[[mco-create-sls-promotion-cc|Create a sales promotion claim case]]**  
-[[mco-create-sls-pro-claim-case|Create a sales promotion claim case]] to claim the reimbursement or discount.
+-   **[Create a sales promotion claim case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-create-sls-promotion-cc.md)**  
+Create a sales promotion claim case to claim the reimbursement or discount.
 
-**Parent Topic:**[[mco-my-promotions|My promotions]]
+**Parent Topic:**[My promotions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-my-promotions.md)
 
 **Related topics**  
 
 
-[[mco-checklist-template|Create a checklist template]]
+[Create a checklist template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-checklist-template.md)
 
-## Related
-
-- [[mco-create-applicable-prod|Create an applicable product]]
-- [[mco-create-visibility-criteria|Create a visibility criteria]]
-- [[mco-create-sls-promotion-cc|Create a sales promotion claim case]]
-- [[mco-my-promotions|My promotions]]
-- [[mco-checklist-template|Create a checklist template]]
-- [[mco-sales-promotion|Sales promotion]]
-- [[mco-sls-pro-mgmt|Sales promotion management]]
-- [[mco-create-sls-pro-claim-case|Create a sales promotion claim case]]

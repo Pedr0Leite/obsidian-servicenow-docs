@@ -14,7 +14,7 @@ breadcrumb: [Reporting critical events, Critical Event Management, Health and Sa
 
 # Report a critical event as an agent
 
-Create a ticket to report a critical event in [[critical-event-management|Critical Event Management]] as an agent when an emergency alarm is raised offline.
+Create a ticket to report a critical event in Critical Event Management as an agent when an emergency alarm is raised offline.
 
 ## Before you begin
 
@@ -22,18 +22,14 @@ Role required: sn\_critical.agent
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Health and Safety Workspace**.
 
 2.  Select the **New Critical Event** button.
 
-3.  On the [[new-critical-event-form|Critical Event form]], fill out the fields.
+3.  On the Critical Event form, fill out the fields.
 
     For a description of the field values, see [Critical Event form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/new-critical-event-form.md).
 
 4.  Select **Save**.
 
-## Related
 
-- [[critical-event-management|Critical Event Management]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[new-critical-event-form|Critical Event form]]

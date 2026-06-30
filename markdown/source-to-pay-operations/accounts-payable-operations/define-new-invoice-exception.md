@@ -15,7 +15,7 @@ breadcrumb: [Invoice exceptions, Using Accounts Payable Invoice Processing, Use,
 
 # Create an invoice exception definition
 
-[[create-invoice|Create invoice]] exception definitions to flag PO, Non-PO, and [[invoice-type-credit-memo|credit memo]] [[invoices|invoices]] based on defined conditions.
+Create invoice exception definitions to flag PO, Non-PO, and credit memo invoices based on defined conditions.
 
 \[Omitted video\] Description: Create an exception definition
 
@@ -25,13 +25,13 @@ Role required: sn\_ap\_apm.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-pay-mgmt-landing-page|Accounts Payable Operations]]** &gt; **Administration** &gt; **Invoice exception definition**.
+1.  Navigate to **All** &gt; **Accounts Payable Operations** &gt; **Administration** &gt; **Invoice exception definition**.
 
 2.  On the Invoice exception definitions form, select **New**.
 
-3.  On the [[invoice-exception-definition-form|Invoice exception definition form]], fill in the fields.
+3.  On the Invoice exception definition form, fill in the fields.
 
-    For a description of the field values, see [Invoice exception definition form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/invoice-exception-definition-form.md). Example: Missing business owner or [[legal-entity|legal entity]].
+    For a description of the field values, see [Invoice exception definition form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/invoice-exception-definition-form.md). Example: Missing business owner or legal entity.
 
 4.  Select **Active**.
 
@@ -69,11 +69,3 @@ Use subflows to configure conditions that are applied on the invoice and raise a
 
 **Parent Topic:**[Invoice exceptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/work-with-invoice-exceptions.md)
 
-## Related
-
-- [[create-invoice|create invoice]]
-- [[invoice-type-credit-memo|Credit memo]]
-- [[invoices|Invoices]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[invoice-exception-definition-form|Invoice exception definition form]]
-- [[legal-entity|Legal entity]]

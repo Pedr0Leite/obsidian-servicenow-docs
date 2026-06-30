@@ -14,7 +14,7 @@ breadcrumb: [Managing your product development using Agile Development 2.0, Agil
 
 # Manage your product backlog in Agile Development 2.0
 
-Manage your product backlog from a centralized location called the [[agile-board|Agile board in Agile Development 2.0]]. Add stories to a personalized backlog and prioritize them as needed.
+Manage your product backlog from a centralized location called the Agile board in Agile Development 2.0. Add stories to a personalized backlog and prioritize them as needed.
 
 ## Before you begin
 
@@ -26,11 +26,11 @@ Prioritize stories in your backlog. You can add stories, assign stories to a rel
 
 -   Steps 1 and 2 take you to where you can manage your scrum backlogs.
 -   Steps 3 through 12 provide guidance on the different actions that you can perform on your backlog. Choose the actions based on your requirement.
--   All actions that involve a triage board are accessible only when the [[unified-backlog|Agile Development — Unified Backlog]] plugin \(com.snc.sdlc.agile.multi\_task\) is active.
+-   All actions that involve a triage board are accessible only when the Agile Development — Unified Backlog plugin \(com.snc.sdlc.agile.multi\_task\) is active.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[agile-development|Agile Development]]** &gt; **Agile Board** &gt; **Backlog**.
+1.  Navigate to **All** &gt; **Agile Development** &gt; **Agile Board** &gt; **Backlog**.
 
     If you have already created a personalized backlog, it automatically appears in this tab. If you have not created a personalized backlog, then a welcome page appears that provides a link to create a backlog.
 
@@ -125,7 +125,7 @@ Prioritize stories in your backlog. You can add stories, assign stories to a rel
 
 
 -   **[Arrange Agile Development 2.0 stories in Agile Board using the keyboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/arrange-stories.md)**  
-Learn how to use the keyboard to move and rearrange [[agile-landing-page|Agile Development 2.0]] stories in the Backlog and Sprint Planning tabs of your Agile board.
+Learn how to use the keyboard to move and rearrange Agile Development 2.0 stories in the Backlog and Sprint Planning tabs of your Agile board.
 
 **Parent Topic:**[Managing your product development using Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/using-agile-development-2-0.md)
 
@@ -136,9 +136,3 @@ Learn how to use the keyboard to move and rearrange [[agile-landing-page|Agile D
 
 [Create a personalized backlog in Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/create-a-backlog.md)
 
-## Related
-
-- [[agile-board|Agile board in Agile Development 2.0]]
-- [[unified-backlog|Agile Development — Unified Backlog]]
-- [[agile-development|Agile Development]]
-- [[agile-landing-page|Agile Development 2.0]]

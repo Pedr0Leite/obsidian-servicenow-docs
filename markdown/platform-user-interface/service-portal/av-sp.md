@@ -14,7 +14,7 @@ breadcrumb: [Supported features in Service Portal, Exploring Service Portal, Ser
 
 # Antivirus Scanning in Service Portal
 
-View the health status of file [[attachments-configurable-workspace|attachments]] in [[c_ServicePortal|Service Portal]]. Antivirus Scanning scans files in the Attachments \[sys\_attachments\] table by default. When viewed from a Service Portal page, attachments may not be available for download depending on their health status.
+View the health status of file attachments in Service Portal. Antivirus Scanning scans files in the Attachments \[sys\_attachments\] table by default. When viewed from a Service Portal page, attachments may not be available for download depending on their health status.
 
 **Note:** Antivirus Scanning is a ServiceNow AI Platform feature. For more information, see [Antivirus Scanning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/antivirus-protection.md).
 
@@ -46,7 +46,3 @@ Review these scanning scenarios to understand how Antivirus Scanning interacts w
 
 **Parent Topic:**[Supported features in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/unsupported-features-sp.md)
 
-## Related
-
-- [[attachments-configurable-workspace|Attachments]]
-- [[c_ServicePortal|Service Portal]]

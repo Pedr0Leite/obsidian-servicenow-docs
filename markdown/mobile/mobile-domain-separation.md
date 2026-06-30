@@ -28,7 +28,7 @@ For more information on support levels, see [Application support for domain sepa
 
 ## Overview
 
-The [[mobile-config-navigation|mobile platform]] supports domain separation for all native clients. The mobile UI design clearly indicates the domain that a record is associated with.
+The mobile platform supports domain separation for all native clients. The mobile UI design clearly indicates the domain that a record is associated with.
 
 Before extending the domain separation functionality to mobile, the feature must be enabled on the platform web-based interface. For further information on configuration, see [Domain separation setup and administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_DomainSeparationSetup.md).
 
@@ -45,6 +45,3 @@ After the feature has been set up through the platform web-based interface, a tw
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[mobile-config-navigation|Mobile Platform]]

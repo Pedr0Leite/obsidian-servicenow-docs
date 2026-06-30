@@ -12,7 +12,7 @@ breadcrumb: [Configuring Workforce, CSM/FSM Configurable Workspace, Configure, F
 
 # Activate Field Service Manager Workforce
 
-Activate the Workforce plugin to start using Workforce for [[fsm-application-landing-page|Field Service Management]].
+Activate the Workforce plugin to start using Workforce for Field Service Management.
 
 ## Before you begin
 
@@ -28,9 +28,9 @@ Role required: admin
 
 ## About this task
 
-Installing Field Service Manager Workforce also installs [[dispatcher-activities|Dispatcher Workspace]] \(sn\_fsm\_disp\_wrkspc\).
+Installing Field Service Manager Workforce also installs Dispatcher Workspace \(sn\_fsm\_disp\_wrkspc\).
 
-For more information, see [[configuring-workforce|Configuring Workforce]].
+For more information, see [Configuring Workforce](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/configuring-workforce.md).
 
 ## Procedure
 
@@ -46,8 +46,4 @@ For more information, see [[configuring-workforce|Configuring Workforce]].
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
-## Related
 
-- [[configuring-workforce|Configuring Workforce]]
-- [[fsm-application-landing-page|Field Service Management]]
-- [[dispatcher-activities|Dispatcher Workspace]]

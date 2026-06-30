@@ -14,14 +14,14 @@ breadcrumb: [Configure, Legal Content Review, Legal Service Delivery Practice Ap
 
 # Install Legal Content Review
 
-You can install the [[legal-content-review|Legal Content Review]] application \(sn\_lg\_cont\_review\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Legal Content Review application \(sn\_lg\_cont\_review\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
 -   Ensure that the application and all of its associated ServiceNow Store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
 -   Review the Legal Content Review application listing in the ServiceNow Store for information on dependencies, licensing or subscription requirements, and release compatibility.
 
-Install the [[legal-request-management-landing-page|Legal Request Management]] \(sn\_lg\_ops\) application before you install Legal Content Review.
+Install the Legal Request Management \(sn\_lg\_ops\) application before you install Legal Content Review.
 
 Role required: sn\_lg\_cont\_review.admin
 
@@ -60,14 +60,9 @@ The following items are installed with Legal Content Review:
 
 ## What to do next
 
-Use the [[legal-management-overview|Legal Service Delivery]] Guided Setup to configure the application on your instance.
+Use the Legal Service Delivery Guided Setup to configure the application on your instance.
 
 To access Legal Service Delivery guided setup, navigate to **Legal Administration** &gt; **Legal Guided Setup**. For more information about using the guided setup interface, see [Using guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/guided-setup.md).
 
 **Parent Topic:**[Configure Legal Content Review](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-content-review/setting-up-legal-content-review.md)
 
-## Related
-
-- [[legal-content-review|Legal Content Review]]
-- [[legal-request-management-landing-page|Legal Request Management]]
-- [[legal-management-overview|Legal Service Delivery]]

@@ -12,7 +12,7 @@ breadcrumb: [Download an application from the ServiceNow Store for the first tim
 
 # Get entitlement for a Security Operations product or application
 
-The first step in installing a [[security-operations-landing-page|Security Operations]] application is to verify that the application or the product and its associated applications have valid ServiceNow entitlements.
+The first step in installing a Security Operations application is to verify that the application or the product and its associated applications have valid ServiceNow entitlements.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: admin
 
 Individuals performing entitlement must have a Now Support account and have permission to request applications for the instances under consideration.
 
-**Note:** This process applies only to applications downloaded to production instances. If you are downloading applications to sub-production or development instances, it is not necessary to get entitlements. Proceed to [[activate-entitled-store-app|Activate a ServiceNow Store application]].
+**Note:** This process applies only to applications downloaded to production instances. If you are downloading applications to sub-production or development instances, it is not necessary to get entitlements. Proceed to [Activate a ServiceNow Store application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/activate-entitled-store-app.md).
 
 ## Procedure
 
@@ -36,7 +36,7 @@ Individuals performing entitlement must have a Now Support account and have perm
 
     \[Omitted image "bearded-guy.png"\] Alt text: ServiceNow apps
 
-    **Note:** For the sake of this example, assume you’re acquiring entitlement for the [[sir-landing-page|Security Incident Response]] product.
+    **Note:** For the sake of this example, assume you’re acquiring entitlement for the Security Incident Response product.
 
 4.  Click the plus \(+\) sign next to the product name that you are getting entitlement to.
 
@@ -68,8 +68,4 @@ Individuals performing entitlement must have a Now Support account and have perm
 
     **Note:** You are ready to activate the product.
 
-## Related
 
-- [[activate-entitled-store-app|Activate a ServiceNow Store application]]
-- [[security-operations-landing-page|Security Operations]]
-- [[sir-landing-page|Security Incident Response]]

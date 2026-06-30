@@ -23,7 +23,7 @@ Role required: itil
 
 ## About this task
 
-You can reassign an incident in Core UI and [[sow-landing-page|Service Operations Workspace for ITSM]].
+You can reassign an incident in Core UI and Service Operations Workspace for ITSM.
 
 ## Procedure
 
@@ -80,6 +80,4 @@ Select **Reassign**.
 
     The generated incident summary is posted as work notes for the incident.
 
-## Related
 
-- [[sow-landing-page|Service Operations Workspace for ITSM]]

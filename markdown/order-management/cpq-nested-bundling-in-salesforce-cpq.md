@@ -27,7 +27,7 @@ To enable support for nested bundles, additional setup steps must be completed i
 2.  On the Additional Settings tab, check the box to enable **Nested Bundles for External Configurator**.
 3.  Click **Save** to save the changes.
 
-Products that may have other products below them in the BOM hierarchy should be marked as Logik Enabled in the Product2 record in Salesforce. This is the same as [[configurable_products|setting up configurable products]] to work with CPQ. The products also need to have a pricebook entry in the pricebook used for the quote if they are going to be created as quote lines.
+Products that may have other products below them in the BOM hierarchy should be marked as Logik Enabled in the Product2 record in Salesforce. This is the same as setting up configurable products to work with CPQ. The products also need to have a pricebook entry in the pricebook used for the quote if they are going to be created as quote lines.
 
 The following video explains setting up nested bundle structures in CPQ and Salesforce CPQ:
 
@@ -41,7 +41,7 @@ After completing the Salesforce CPQ package setting steps, log a support case to
 
 As with any larger change, the recommendation would be to start in a dev or test environment and validate that it is working as expected before enabling it in production.
 
-In CPQ, the BOM hierarchy is defined through the parentProduct and uniqueIdentifier [[fields|fields]] on items in the bill of materials. This hierarchy in the product list is reflected in the Salesforce CPQ quote line editor.
+In CPQ, the BOM hierarchy is defined through the parentProduct and uniqueIdentifier fields on items in the bill of materials. This hierarchy in the product list is reflected in the Salesforce CPQ quote line editor.
 
 ## Limitations
 
@@ -51,7 +51,3 @@ Nested bundles from external configurators are limited to four levels, including
 
 For example, suppose Product X is nested inside both the Nested Child 1 dynamic feature and the Nested Child 2 dynamic feature, when both are children of the Parent dynamic feature. This configuration results in the error.
 
-## Related
-
-- [[configurable_products|Setting up configurable products]]
-- [[fields|Fields]]

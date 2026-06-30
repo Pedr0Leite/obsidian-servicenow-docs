@@ -15,13 +15,13 @@ breadcrumb: [Use agentic AI, Now Assist for ITOM, IT Operations Management]
 
 # Pattern diagnostic agentic workflow
 
-The Pattern diagnostic agentic workflow helps [[r-discovery|Discovery]] administrators investigate missing CI attributes. It identifies the gap, parses discovery logs, identifies the root cause, and suggests [[ccg-remediation|remediation]] — without manually navigating log files.
+The Pattern diagnostic agentic workflow helps Discovery administrators investigate missing CI attributes. It identifies the gap, parses discovery logs, identifies the root cause, and suggests remediation — without manually navigating log files.
 
 When Discovery runs, it populates CI attributes in the CMDB using both probe-based and pattern-based discovery. The Pattern diagnostic agentic workflow supports investigation into CIs discovered through pattern-based discovery. When an attribute is missing, identifying the cause requires navigating multiple tables and interpreting nested JSON in discovery logs. The Pattern diagnostic agentic workflow automates this investigation and suggests a remediation action, all from the Now Assist panel.
 
 ## Requirements
 
-Now Assist for [[r_ITOMApplications|IT Operations Management]] \(ITOM\) must be installed on your instance. For more information, see [Install the Now Assist for IT Operations Management \(ITOM\) plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/install-now-assist-itom.md).
+Now Assist for IT Operations Management \(ITOM\) must be installed on your instance. For more information, see [Install the Now Assist for IT Operations Management \(ITOM\) plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/install-now-assist-itom.md).
 
 Role required: discovery\_admin.
 
@@ -58,8 +58,4 @@ The following scenarios illustrate how the workflow handles different CI and pat
 
     The workflow investigates a missing `cluster_connection` attribute on an AWS Auto Scaling Group CI. Cloud CIs use an SA-LDC identifier instead of a traditional IP address. The workflow navigates the Hosted on relationship to resolve the SA-LDC identifier and searches logs using the identifier and process ID. It returns a full report with sample CIs investigated, link to CIs, root cause and remediation guidance.
 
-## Related
 
-- [[r-discovery|Discovery]]
-- [[ccg-remediation|Remediation]]
-- [[r_ITOMApplications|IT Operations Management]]

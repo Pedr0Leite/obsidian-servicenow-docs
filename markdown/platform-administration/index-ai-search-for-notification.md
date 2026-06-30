@@ -22,34 +22,26 @@ Role required: ais\_admin
 
 ## About this task
 
-Once you define an indexed source, [[ia-ai-search|AI Search]] begins automatically indexing to reflect changes to records in the selected source table and its specified child tables. The [[hs-results|results]] of all record create, update, and delete operations in these tables are reflected in the search index. AI Search doesn't index content from unmodified records in these tables until you perform a full table index
+Once you define an indexed source, AI Search begins automatically indexing to reflect changes to records in the selected source table and its specified child tables. The results of all record create, update, and delete operations in these tables are reflected in the search index. AI Search doesn't index content from unmodified records in these tables until you perform a full table index
 
 Follow these steps to index searchable content from existing records in indexed sources. Use the same steps to manually reindex content for indexed sources that have already been indexed.
 
-If an indexed source contains unindexed records, the Indexed Sources list displays an informational message and marks the new source with an alert triangle icon. A similar informational message appears on the [[indexed-source-form-ais|Indexed Source form]]. Make sure to perform a full table index for each indexed source that displays the alert triangle icon.
+If an indexed source contains unindexed records, the Indexed Sources list displays an informational message and marks the new source with an alert triangle icon. A similar informational message appears on the Indexed Source form. Make sure to perform a full table index for each indexed source that displays the alert triangle icon.
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **AI Search** &gt; **AI Search Index** &gt; **Indexed Sources**.
 
-2.  Search for **Platform [[notifications|Notifications]] V1** and **Platform Notifications V2**.
+2.  Search for **Platform Notifications V1** and **Platform Notifications V2**.
 
 3.  In the **Actions on selected rows…** menu, select **Index All Tables**.
 
     The Indexed Source History page for the last selected index appears. A message reports that AI Search has queued an indexing task for the indexed source.
 
-4.  Refresh the [[indexed-source-history-form-ais|Indexed Source History form]] page to monitor the progress of the indexing task.
+4.  Refresh the Indexed Source History form page to monitor the progress of the indexing task.
 
     When the task completes, the **Ingestion State** field shows **indexed**.
 
 
-**Parent Topic:**[[activate-ai-search-for-notifications-plugin|Activate AI Search for Notifications]]
+**Parent Topic:**[Activate AI Search for Notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/activate-ai-search-for-notifications-plugin.md)
 
-## Related
-
-- [[activate-ai-search-for-notifications-plugin|Activate AI Search for Notifications]]
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]
-- [[indexed-source-form-ais|Indexed Source form]]
-- [[notifications|Notifications]]
-- [[indexed-source-history-form-ais|Indexed Source History form]]

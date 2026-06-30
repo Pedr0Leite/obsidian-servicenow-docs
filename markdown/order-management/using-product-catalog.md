@@ -12,13 +12,13 @@ breadcrumb: [Lead-to-cash foundation apps, Use, Sales Customer Relationship Mana
 
 # Using product catalogs
 
-The product catalog provides a visual display of the available product offerings that can be added to a [[order-mgt-overview|Sales Customer Relationship Management]] transaction, such as an opportunity, quote, or order. Use the catalog interface to add simple products and complex products that can be further customized.
+The product catalog provides a visual display of the available product offerings that can be added to a Sales Customer Relationship Management transaction, such as an opportunity, quote, or order. Use the catalog interface to add simple products and complex products that can be further customized.
 
 Agents use the Catalog tab \(related list\) for a transaction in the CSM Configurable Workspace to open the product catalog. Customers engaged in self-service transactions such as placing orders, use the product catalog in the Business Portal.
 
 **Note:** When you start a lead, the Catalog tab displays only simple products that can be added and do not require further customization.
 
-Starting with the [[product-catalog-managment|Product Catalog Management]] Core v17.0.0 release, the product catalog interface supports semantic search queries powered by AI Search, in addition to keyword searches.
+Starting with the Product Catalog Management Core v17.0.0 release, the product catalog interface supports semantic search queries powered by AI Search, in addition to keyword searches.
 
 ## Product catalog interface with simple search
 
@@ -50,27 +50,19 @@ AI Search provides other features to enhance the search process:
 
 \[Omitted image "ai-search-bar-catalog.png"\] Alt text: AI Search features in product catalog interface: Sort by filter options, sort order, and search bar. Another example shows search bar with auto-complete suggestions.
 
-For more information on search queries and the search query language that you can use to find catalog items, see [[use-ai-search-catalog|Use AI Search in product catalogs]].
+For more information on search queries and the search query language that you can use to find catalog items, see [Use AI Search in product catalogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/use-ai-search-catalog.md).
 
 **Note:** Check your entitlements to determine if you have access to this feature.
 
 -   **[Use AI Search in product catalogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/use-ai-search-catalog.md)**  
 As an agent or customer, use AI Search queries in the product catalog to find relevant product offerings or service specifications. For example, you can search by product offering characteristics or other attributes, when adding products in Sales Customer Relationship Management transactions.
 
-**Parent Topic:**[[using-lead-cash-foundation|Using lead-to-cash foundation applications]]
+**Parent Topic:**[Using lead-to-cash foundation applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-lead-cash-foundation.md)
 
 **Related topics**  
 
 
-[[configuring-lead-to-cash-foundation|Configuring the lead-to-cash foundation applications]]
+[Configuring the lead-to-cash foundation applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configuring-lead-to-cash-foundation.md)
 
-[[lead-to-cash-foundation-landing|Lead-to-cash foundation]]
+[Lead-to-cash foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-to-cash-foundation-landing.md)
 
-## Related
-
-- [[use-ai-search-catalog|Use AI Search in product catalogs]]
-- [[using-lead-cash-foundation|Using lead-to-cash foundation applications]]
-- [[configuring-lead-to-cash-foundation|Configuring the lead-to-cash foundation applications]]
-- [[lead-to-cash-foundation-landing|Lead-to-cash foundation]]
-- [[order-mgt-overview|Sales Customer Relationship Management]]
-- [[product-catalog-managment|Product Catalog Management]]

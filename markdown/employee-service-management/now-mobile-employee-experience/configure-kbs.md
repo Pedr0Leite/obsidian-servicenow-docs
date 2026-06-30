@@ -24,7 +24,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[mobile-employee-experience|Now Mobile App]]** &gt; **Knowledge Bases**.
+1.  Navigate to **All** &gt; **Now Mobile App** &gt; **Knowledge Bases**.
 
 2.  In the portal knowledge bases \[m2m\_sp\_portal\_knowledge\_base\] table, add a knowledge base in addition to the IT knowledge base.
 
@@ -54,6 +54,3 @@ Users can select the \[Omitted image "more-items.png"\] Alt text: Plus icon icon
 
 **Parent Topic:**[Configuring Now Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/setup-mobile-employee.md)
 
-## Related
-
-- [[mobile-employee-experience|Now Mobile app]]

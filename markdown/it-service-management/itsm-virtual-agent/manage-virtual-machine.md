@@ -14,13 +14,13 @@ breadcrumb: [Using ITSM Virtual Agent pre-built topics, ITSM Virtual Agent, IT S
 
 # Virtual machine pre-built topics for ITSM Virtual Agent
 
-[[itsm-virtual-agent|ITSM Virtual Agent]] helps you manage a virtual machine \(VM\) using conversation flows. With this conversation flow, you can start, stop, terminate, describe, and provision a virtual machine.
+ITSM Virtual Agent helps you manage a virtual machine \(VM\) using conversation flows. With this conversation flow, you can start, stop, terminate, describe, and provision a virtual machine.
 
 There are two categories of virtual machine management topics:
 
 -   **Topics that support AWS and Azure providers**
 
-    Topics that are labeled **CAI** use the Cloud Access Interface to take action on virtual machines provisioned on AWS and Azure. The user must have the sn\_managevm\_va.cai\_vm\_user role to perform these actions. The Virtual Agent admin can set the script variable **max\_records** \(default value=100\) to denote the number of records to be fetched from Azure in a single REST API call. The script variable **carousel\_entries\_threshold** denotes the number of records the carousel input shows. If the number of records are greater than the specified value, a [[reference-for-itsm-mobile-agent|reference]] choice list is shown to the user.
+    Topics that are labeled **CAI** use the Cloud Access Interface to take action on virtual machines provisioned on AWS and Azure. The user must have the sn\_managevm\_va.cai\_vm\_user role to perform these actions. The Virtual Agent admin can set the script variable **max\_records** \(default value=100\) to denote the number of records to be fetched from Azure in a single REST API call. The script variable **carousel\_entries\_threshold** denotes the number of records the carousel input shows. If the number of records are greater than the specified value, a reference choice list is shown to the user.
 
     Cloud Provisioning and Governance is not required to describe, start, stop, and terminate a VM for AWS and Azure. You can perform the following actions with the Cloud Access Interface \(CAI\) topics for Virtual Agent:
 
@@ -37,7 +37,7 @@ There are two categories of virtual machine management topics:
 
 ## Describe Virtual Machine CAI
 
-Users can see details of any assigned VM instance associated with the credential set up by the system administrator.​ If AWS encounters an error, Virtual Agent asks the user to [[create-an-incident|create an incident]] for further investigation.
+Users can see details of any assigned VM instance associated with the credential set up by the system administrator.​ If AWS encounters an error, Virtual Agent asks the user to create an incident for further investigation.
 
 Returned details include Provider, Region, and Instance ID. The user can specify which VM to describe, or Virtual Agent can provide a list of available VM instances and the user can select the desired VM to describe.
 
@@ -142,8 +142,3 @@ This topic uses the following [topic blocks](https://raw.githubusercontent.com/S
 
 **Parent Topic:**[Using ITSM Virtual Agent pre-built topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/using-itsm-va.md)
 
-## Related
-
-- [[itsm-virtual-agent|ITSM Virtual Agent]]
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[create-an-incident|Create an incident]]

@@ -14,7 +14,7 @@ breadcrumb: [FireEye Endpoint Security integration, Security Incident Response i
 
 # Understand how trigger conditions work with a configuration item
 
-After you [[arcsight-esm-create-profile|create a profile]] and select the FireEye capabilities that you want the profile to run, configure the profile settings so that it runs only when a set of specific conditions are met.
+After you create a profile and select the FireEye capabilities that you want the profile to run, configure the profile settings so that it runs only when a set of specific conditions are met.
 
 You can set trigger conditions so the profile runs automatically whenever a security incident matching the trigger condition is created. If the trigger condition is not set, these profiles can be manually run by clicking the form 'Run EDR profile\(s\)' on the security incident, and selecting the profile.
 
@@ -28,6 +28,3 @@ During the configuration step of the profile setup, you can select an alternate 
 
 \[Omitted image "trigger-condition.png"\] Alt text: Security Incident New record
 
-## Related
-
-- [[arcsight-esm-create-profile|Create a profile]]

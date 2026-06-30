@@ -15,13 +15,13 @@ breadcrumb: [Configure Advanced Appointment Booking, Configuring Appointment Boo
 
 # Create an Appointment schedule
 
-An appointment schedule represents available slots as defined by its appointment window and service mapping configurations. Appointment schedules can be overridden for specific dates or slots to allow custom availability or [[capacity|capacity]].
+An appointment schedule represents available slots as defined by its appointment window and service mapping configurations. Appointment schedules can be overridden for specific dates or slots to allow custom availability or capacity.
 
 ## Before you begin
 
 Role required: appointment\_booking\_admin
 
-Ensure that the Advanced [[appointment-booking|Appointment Booking]] plugin is active. For more information, see [Activate Advanced Appointment Booking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/activate-adv-appt-booking.md).
+Ensure that the Advanced Appointment Booking plugin is active. For more information, see [Activate Advanced Appointment Booking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/activate-adv-appt-booking.md).
 
 Ensure you have already created an **Appointment Window** and a **Service configuration mapping**. To create an appointment window and service configuration mapping see [Create an Appointment window configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/create-appt-window-config.md) and [Create an Appointment service configuration mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/create-appt-svc-config-mapping.md).
 
@@ -33,7 +33,7 @@ For example, for a specific day, you can configure one slot of 3 hours duration,
 
 For a service if demand is greater between 9:00 AM and 10:00 AM, Appointment Schedule lets you set more bookable appointments during that time, and fewer for other time slots.
 
-You can also [[create-appt-sched-override|create an appointment schedule override]] to customize availability for specific dates or time slots. For more information on overrides, see [Create an Appointment Schedule Override](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/create-appt-sched-override.md).
+You can also create an appointment schedule override to customize availability for specific dates or time slots. For more information on overrides, see [Create an Appointment Schedule Override](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/create-appt-sched-override.md).
 
 You can optionally define work and travel durations in a schedule. When **Use durations from the schedule** is enabled, these durations are used to calculate appointment availability and will override the default work and travel durations set in the service configuration.
 
@@ -143,8 +143,3 @@ The appointment schedule can be applied to a new or existing service configurati
 
 Appointment schedules can also be overridden to accommodate specific date and slot needs. For more information on overrides, see [Create an Appointment Schedule Override](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/create-appt-sched-override.md).
 
-## Related
-
-- [[capacity|Capacity]]
-- [[appointment-booking|Appointment booking]]
-- [[create-appt-sched-override|Create an Appointment Schedule Override]]

@@ -16,7 +16,7 @@ breadcrumb: [Configure, Vaccine Administration Management, Healthcare and Life S
 
 Customize the vaccination notification emails that are sent to users about vaccination appointments. Using the customizations, you can keep users informed about activities, such as updates to vaccination booking appointments.
 
-[[hcls-vam|Vaccine Administration Management]] includes the following email notifications.
+Vaccine Administration Management includes the following email notifications.
 
 <table id="table_gfz_zww_pqb"><thead><tr><th>
 
@@ -63,6 +63,3 @@ An email notification sent to the user when an appointment is rescheduled.
 
 **Parent Topic:**[Configuring Vaccine Administration Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/vaccine-mgmt-config.md)
 
-## Related
-
-- [[hcls-vam|Vaccine Administration Management]]

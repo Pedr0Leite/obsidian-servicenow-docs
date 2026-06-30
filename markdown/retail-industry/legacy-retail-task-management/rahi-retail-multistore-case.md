@@ -18,7 +18,7 @@ The retail multi-store case enables the creation of child cases along with relev
 
 Multi-store cases can be leveraged for task management use cases such as promotions, freshness, product recall, and product counting.
 
-This framework enables for a selection of affected [[rahi-retail-operations-overview|retail]] stores which are participating in the multi-store use cases.
+This framework enables for a selection of affected retail stores which are participating in the multi-store use cases.
 
 The retail multi-store case relies on the CSM table map entries created as part of the multi-case configuration in the new service definition that you create for creating multi-store cases.
 
@@ -26,7 +26,7 @@ For information on the setup process, see [Configuring Retail Task Management](h
 
 ## Retail multi-store case process
 
-Using [[rahi-retail-task-management-overview|Retail Task Management]] Core, you can create a multi-store case for their retail organization using the CSM/FSM Configurable Workspace.
+Using Retail Task Management Core, you can create a multi-store case for their retail organization using the CSM/FSM Configurable Workspace.
 
 Once the case is saved, the **Affected Retail Stores** tab appears where you can select the stores for which child cases should be created.
 
@@ -38,7 +38,3 @@ After selecting the **Submitted case,**the parent multi-store case is saved and 
 
 For more information on this process, see [Create multi-store cases in Retail Task Management Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/rahi-retail-create-multi-store.md).
 
-## Related
-
-- [[rahi-retail-operations-overview|Retail]]
-- [[rahi-retail-task-management-overview|Retail Task Management]]

@@ -56,7 +56,7 @@ Select the **Field** in the indicator source that maps to records in the breakdo
 
 Select **Scripted**, then select the **Script** that defines the association between indicator records and breakdown elements.Use a script when you do not have the simple use case of a field in the indicator source that maps to a breakdown source table. A script can define a wide range of mapping relationships. The most common use case is when the breakdown source is a [bucket group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md) and the script returns an integer to assign an indicator score to a bucket. See [Example: Script mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/example-script-mapping.md).
 
- You cannot show [[real-time-scores|real-time scores]] for an indicator that uses a scripted breakdown.
+ You cannot show real-time scores for an indicator that uses a scripted breakdown.
 
  **Tip:** Try to implement scripted breakdown mappings so that \[mapping of level 1 &amp;&amp; mapping of level 2\] is equal to the intersection of \[mapping of level 1\] and \[mapping of level 2\]. Otherwise, the score and the number of records may not agree for second-level breakdowns. If these values disagree, the score is correct. For more details and an example, see [KB0748969](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0748969). Now Support login is required.
 
@@ -72,6 +72,3 @@ Select **Scripted**, then select the **Script** that defines the association bet
 
 **Next topic:**[Assign an indicator to an automated breakdown](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_AssigningAnIndicatorToABreakdown.md)
 
-## Related
-
-- [[real-time-scores|Real-time scores]]

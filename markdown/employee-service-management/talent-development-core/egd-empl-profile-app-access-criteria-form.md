@@ -14,7 +14,7 @@ breadcrumb: [Talent Development Core application reference, Talent Development C
 
 # Employee Application Access Criteria reference
 
-Talent Development uses the **Employee licensing** feature in the [[emp-slate-employee-profile|Employee Profile]] app to license users.
+Talent Development uses the **Employee licensing** feature in the Employee Profile app to license users.
 
 |Field|Description|
 |-----|-----------|
@@ -25,6 +25,3 @@ Talent Development uses the **Employee licensing** feature in the [[emp-slate-em
 
 **Parent Topic:**[Talent Development Core application reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-reference.md)
 
-## Related
-
-- [[emp-slate-employee-profile|Employee profile]]

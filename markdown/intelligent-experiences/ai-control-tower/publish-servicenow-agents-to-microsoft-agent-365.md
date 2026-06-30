@@ -23,7 +23,7 @@ Role required: AI steward \[sn\_ai\_governance.ai\_steward\]
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ai-control-tower-landing|AI Control Tower]]** &gt; **[[ai-assets|AI assets]]** &gt; **[[ai-inventory|AI asset inventory]]**.
+1.  Navigate to **All** &gt; **AI Control Tower** &gt; **AI assets** &gt; **AI asset inventory**.
 
 2.  Open an asset from the list.
 
@@ -50,8 +50,3 @@ The ServiceNow agent is published to Microsoft Agent 365 and appears in the Micr
 
 **Note:** To unpublish the agent, select Remove From Microsoft Agent 365.
 
-## Related
-
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[ai-assets|AI assets]]
-- [[ai-inventory|AI asset inventory]]

@@ -16,7 +16,7 @@ breadcrumb: [Session management, Hardening settings, Platform Security]
 
 Use a system property to exempt roles from active session timeout limits.
 
-Use the **glide.active.session.timeout.exception.roles** system property to exempt roles from an active session timeout limit. The active session timeout feature helps ensure that a hijacked session cannot be used indefinitely without providing [[c_Authentication|authentication]] information. It is best practice to only consider an active session timeout limit exception for internal integration account roles.
+Use the **glide.active.session.timeout.exception.roles** system property to exempt roles from an active session timeout limit. The active session timeout feature helps ensure that a hijacked session cannot be used indefinitely without providing authentication information. It is best practice to only consider an active session timeout limit exception for internal integration account roles.
 
 Configure the **glide.active.session.timeout.exception.roles** property to roles which must be exempt from active session timeouts. This property value is a comma separated list of roles. The default value is `edge_encryption,mid_server,maint`.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -107,8 +107,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Session management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-session-management.md)
 
-## Related
-
-- [[c_Authentication|Authentication]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

@@ -14,7 +14,7 @@ breadcrumb: [ITOM Visibility and CSDM reference, ITOM Visibility reference, ITOM
 
 # ITOM Visibility use case
 
-The [[itom-visibility-landing-page|ITOM Visibility]] use cases are described in this section.
+The ITOM Visibility use cases are described in this section.
 
 ## Discovery use case
 
@@ -24,7 +24,7 @@ The [[itom-visibility-landing-page|ITOM Visibility]] use cases are described in 
 
 ## Key features of the Discovery use case
 
--   Set up and manage [[r-discovery|Discovery]] jobs.
+-   Set up and manage Discovery jobs.
 -   See IT resources and dependencies at-a-glance.
 -   Build queries to validate discovered IT resources.
 -   Manage your public key infrastructure \(PKI\) certificates in one dashboard.
@@ -35,7 +35,7 @@ The CSDM framework gives Discovery a prescribed model for how infrastructure and
 
 ## Service Mapping use case
 
-You can create application services manually, using an API, or by having [[c_ServiceMappingOverview|Service Mapping]] discover them. Regardless of creation method, all application services are stored in the Mapped Application Service table \[cmdb\_ci\_service\_discovered\].
+You can create application services manually, using an API, or by having Service Mapping discover them. Regardless of creation method, all application services are stored in the Mapped Application Service table \[cmdb\_ci\_service\_discovered\].
 
 ## Results of the Service Mapping use case
 
@@ -72,8 +72,3 @@ The Service Map tab displays a visual representation of the service.
 
 [Life cycle of product entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/csdm-lifecycle-product.md)
 
-## Related
-
-- [[itom-visibility-landing-page|ITOM Visibility]]
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

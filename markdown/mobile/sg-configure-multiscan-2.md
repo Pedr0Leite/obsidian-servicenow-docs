@@ -41,8 +41,5 @@ Role required: admin
 6.  Click **Submit**.
 
 
-**Parent Topic:**[[sg-configure-multiscan|Configure a grouped input for multiple scans]]
+**Parent Topic:**[Configure a grouped input for multiple scans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-configure-multiscan.md)
 
-## Related
-
-- [[sg-configure-multiscan|Configure a grouped input for multiple scans]]

@@ -14,13 +14,13 @@ breadcrumb: [Managing your product development using Agile Development 2.0, Agil
 
 # Report a defect in Agile Development 2.0
 
-Track issues associated to your product or feature by [[defect-reports|reporting defects in Agile Development 2.0]].
+Track issues associated to your product or feature by reporting defects in Agile Development 2.0.
 
 ## Before you begin
 
 Role required: feature\_user, scrum\_story\_creator, or scrum\_admin
 
-The administrator must grant the feature\_user role to all those users who are expected to report defects using the [[agile-landing-page|Agile Development 2.0]] application.
+The administrator must grant the feature\_user role to all those users who are expected to report defects using the Agile Development 2.0 application.
 
 ## About this task
 
@@ -28,7 +28,7 @@ Create a defect record using the Defects module. You can later create a story fo
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[agile-development|Agile Development]]** &gt; **Defects**.
+1.  Navigate to **All** &gt; **Agile Development** &gt; **Defects**.
 
 2.  Select **New**.
 
@@ -145,8 +145,3 @@ A scrum product owner can review the defect and decide if a story must be create
 
 **Parent Topic:**[Managing your product development using Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/using-agile-development-2-0.md)
 
-## Related
-
-- [[defect-reports|Reporting defects in Agile Development 2.0]]
-- [[agile-landing-page|Agile Development 2.0]]
-- [[agile-development|Agile Development]]

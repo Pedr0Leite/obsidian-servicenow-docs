@@ -34,7 +34,7 @@ As an agent, you can do these actions using the Now Assist icon:
 
 ## Procedure
 
-1.  In Core UI or [[sow-landing-page|Service Operations Workspace for ITSM]], open an incident that is assigned to you.
+1.  In Core UI or Service Operations Workspace for ITSM, open an incident that is assigned to you.
 
 2.  Start composing an email using the More actions icon or from the activity stream.
 
@@ -116,6 +116,4 @@ Generates an email response as a recommendation that is based on the context of 
 
 6.  Select **Send email** or discard the draft if you don’t like the recommendation.
 
-## Related
 
-- [[sow-landing-page|Service Operations Workspace for ITSM]]

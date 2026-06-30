@@ -22,7 +22,7 @@ Role required: clone\_admin or admin
 
 ## About this task
 
-The system stores trained ML solutions as Attachment records. These records include your solution artifacts, such as solution definitions, template records, and predictive model statistics, all of which are required components of the [[predictive-intelligence-landing|Predictive Intelligence]] prediction functionality. To preserve these records, follow the high-level steps below each time you run a system clone.
+The system stores trained ML solutions as Attachment records. These records include your solution artifacts, such as solution definitions, template records, and predictive model statistics, all of which are required components of the Predictive Intelligence prediction functionality. To preserve these records, follow the high-level steps below each time you run a system clone.
 
 **Note:**
 
@@ -40,6 +40,4 @@ For troubleshooting common issues with cloning solutions, see the [Predictive In
 
     The system preserves your ML solution records during the system clone.
 
-## Related
 
-- [[predictive-intelligence-landing|Predictive Intelligence]]

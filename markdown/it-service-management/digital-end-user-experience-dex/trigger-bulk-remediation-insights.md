@@ -14,7 +14,7 @@ breadcrumb: [Monitor, Digital End-User Experience, IT Service Management]
 
 # Trigger bulk remediation from Insights
 
-Trigger a [[remedial-action|remedial action]] on multiple [[dex-workspace-devices-tab|devices]] simultaneously from the Insights page.
+Trigger a remedial action on multiple devices simultaneously from the Insights page.
 
 ## About this task
 
@@ -79,10 +79,5 @@ The playbook experience opens. In the **Current** tab, the action appears as in-
 |Technical|Failures caused by unexpected code-level issues that aren't related to configuration.|
 |Others|All the other generic errors categorized under others.|
 
-To view all remedial action executions, access **[[dex-workspace-administration-tab|DEX Administration]]** &gt; **Remedial Action Executions**. The administration view shows all in-progress or completed remedial actions.
+To view all remedial action executions, access **DEX Administration** &gt; **Remedial Action Executions**. The administration view shows all in-progress or completed remedial actions.
 
-## Related
-
-- [[remedial-action|Remedial action]]
-- [[dex-workspace-devices-tab|Devices]]
-- [[dex-workspace-administration-tab|DEX Administration]]

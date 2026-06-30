@@ -16,7 +16,7 @@ breadcrumb: [Gamification user interface components, Gamification, Using communi
 
 The leaderboard page displays the top contributors in the community, in a forum, or in a topic.
 
-Users appear on the leaderboard based on the number of earned [[gamification-components-points|points]] and are ranked in descending order. You can filter the leaderboard to display information for the current month or all-time and by a specific forum or topic.
+Users appear on the leaderboard based on the number of earned points and are ranked in descending order. You can filter the leaderboard to display information for the current month or all-time and by a specific forum or topic.
 
 To display the leaderboard, navigate to **Community** &gt; **Leaderboard**. You can also click **Show Leaderboard** on the leaderboard widget. When navigating to the leaderboard from a leaderboard widget on a forum/topic landing page, the leaderboard shows the top point earners for that forum/topic.
 
@@ -33,6 +33,3 @@ By default, the leaderboard displays 10 users per page. Users can use the pagina
 
 **Parent Topic:**[Gamification user interface components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/communities-gamification-UI.md)
 
-## Related
-
-- [[gamification-components-points|Points]]

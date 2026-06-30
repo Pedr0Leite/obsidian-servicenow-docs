@@ -14,16 +14,11 @@ breadcrumb: [Configure, Conversational Integration with LINE, Integrate VA with 
 
 # Integrating the LINE messaging app with other applications
 
-Other ServiceNow applications and features can use the [[messg-line|Conversational Integration with LINE]] application.
+Other ServiceNow applications and features can use the Conversational Integration with LINE application.
 
 As an administrator, you can use the Conversational Integration with LINE application to integrate the LINE messaging app with other ServiceNow applications. You can enable requesters and agents to converse with an agent using the LINE messaging app.
 
 ## Integrating with Customer Service Management
 
-Integrate the Conversational Integration with LINE application with the ServiceNow® Customer Service [[management|Management]] application to enable your customer contacts and consumers to initiate a LINE chat conversation with a [[virtual-agent-landing-page|virtual agent]] or live agent. An agent can initiate a conversation, or accept a conversation initiated from a LINE chat conversation. For more information, see Integrate LINE with Customer Service Management.
+Integrate the Conversational Integration with LINE application with the ServiceNow® Customer Service Management application to enable your customer contacts and consumers to initiate a LINE chat conversation with a virtual agent or live agent. An agent can initiate a conversation, or accept a conversation initiated from a LINE chat conversation. For more information, see Integrate LINE with Customer Service Management.
 
-## Related
-
-- [[messg-line|Conversational Integration with LINE]]
-- [[management|Management]]
-- [[virtual-agent-landing-page|Virtual Agent]]

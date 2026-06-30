@@ -12,7 +12,7 @@ breadcrumb: [Pre-Visit Management, Healthcare and Life Sciences Service Manageme
 
 # Exploring Pre-Visit Management
 
-Whether you're starting or expanding your implementation of the [[pre-visit-mgmt-app|Pre-Visit Management]] application, consider learning more about features available to streamline and digitize the scheduling of procedure requests for your patients.
+Whether you're starting or expanding your implementation of the Pre-Visit Management application, consider learning more about features available to streamline and digitize the scheduling of procedure requests for your patients.
 
 **Important:**
 
@@ -26,7 +26,7 @@ For healthcare providers with paper-based processes or multiple EMR systems, man
 
 For patient service representatives, the Pre-Visit Management playbook provides a guided experience to review procedure requests, verify patient information, identify and assign the required consent tasks and forms, and send the appropriate documentation to the patient’s insurance organization for pre-authorization.
 
-The Pre-Visit Management application uses the data model provided by the [[hcls-core-app|Healthcare and Life Sciences Service Management Core]] application. The procedure requests are submitted as procedure request cases and assigned to patient service representatives who can then use a guided playbook within their Workspace for closing a procedure request case.
+The Pre-Visit Management application uses the data model provided by the Healthcare and Life Sciences Service Management Core application. The procedure requests are submitted as procedure request cases and assigned to patient service representatives who can then use a guided playbook within their Workspace for closing a procedure request case.
 
 ## Pre-Visit Management workflow
 
@@ -63,7 +63,7 @@ Improve the patient experience by enabling them to digitally complete all the to
 
 </td><td>
 
-[[pre-visit-complete-to-do|Completing to-do items from the patient portal]]
+[Completing to-do items from the patient portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pre-visit-complete-to-do.md)
 
 </td><td>
 
@@ -75,7 +75,7 @@ Provide a guided experience for patient service representatives to complete proc
 
 </td><td>
 
-[[pre-visit-using-workspace|Managing procedure requests in Workspace]]
+[Managing procedure requests in Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pre-visit-using-workspace.md)
 
 </td><td>
 
@@ -87,20 +87,12 @@ Manage appointments for scheduling a procedure request within Workspace.
 
 </td><td>
 
-[[pre-visit-booking-appt|Managing appointment bookings for procedure requests]]
+[Managing appointment bookings for procedure requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pre-visit-booking-appt.md)
 
 </td><td>
 
 HCLS Agent
 
 </td></tr></tbody>
-</table>To get started with the Pre-Visit Management application, see [[pre-visit-config-app|Configuring Pre-Visit Management]].
+</table>To get started with the Pre-Visit Management application, see [Configuring Pre-Visit Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pre-visit-config-app.md).
 
-## Related
-
-- [[pre-visit-complete-to-do|Completing to-do items from the patient portal]]
-- [[pre-visit-using-workspace|Managing procedure requests in Workspace]]
-- [[pre-visit-booking-appt|pre visit booking appt]]
-- [[pre-visit-config-app|Configuring Pre-Visit Management]]
-- [[pre-visit-mgmt-app|Pre-Visit Management]]
-- [[hcls-core-app|Healthcare and Life Sciences Service Management Core]]

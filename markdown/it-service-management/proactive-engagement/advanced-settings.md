@@ -14,7 +14,7 @@ breadcrumb: [Reference, Proactive Engagement, Digital End-User Experience, IT Se
 
 # Input parameters for Remedial action in Proactive Engagement
 
-Additional input parameters are listed based on the type of [[remedial-action|remedial action]] chosen. Advanced [[settings-mobile|settings]] for each of those input parameters list the information of the input parameters of the selected remedial action.
+Additional input parameters are listed based on the type of remedial action chosen. Advanced settings for each of those input parameters list the information of the input parameters of the selected remedial action.
 
 Depending on the remedial action chosen from the list, specific input parameters are listed which will fetch a static input. To fetch data from the table, enable and configure the advanced settings of the input parameters to capture the data during the run time. Find below the details of all the advanced settings of one of the out-of-the-box remedial action input parameters for Clear application cache. On saving the resolution, we should save parameter information in the `sn_pren_resolution table` remedial\_action\_parameters field
 
@@ -26,15 +26,9 @@ Depending on the remedial action chosen from the list, specific input parameters
 |Process name|Name of the process that needs to be shut down.|
 |Cache path|Folder path to clear the cache files of the specific application.|
 
-Only text, boolean, or choice are the supported format for the input parameters. The Boolean format do not have the [[dex-advanced-configuration|advanced configuration]] option.
+Only text, boolean, or choice are the supported format for the input parameters. The Boolean format do not have the advanced configuration option.
 
-**Note:** Check the alert action of [[proactive-engagement-landing-page|Proactive Engagement]] to configure the input parameters. Currently, input parameters for remedial action cannot be configured from the Proactive Engagement workbench or the Core UI.
+**Note:** Check the alert action of Proactive Engagement to configure the input parameters. Currently, input parameters for remedial action cannot be configured from the Proactive Engagement workbench or the Core UI.
 
 **Parent Topic:**[Proactive Engagement reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/proactive-engagement/proactive-engagement-reference.md)
 
-## Related
-
-- [[remedial-action|Remedial action]]
-- [[settings-mobile|Settings]]
-- [[dex-advanced-configuration|Advanced configuration]]
-- [[proactive-engagement-landing-page|Proactive Engagement]]

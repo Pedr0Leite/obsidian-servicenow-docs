@@ -37,7 +37,7 @@ Role required: sn\_team\_perf.team\_performance\_admin
 
 1.  Create a KPI group.
 
-    1.  Navigate to **All** &gt; **[[workforce-optimization-for-fsm|Workforce Optimization for Field Service]]** &gt; **Team Performance** &gt; **KPI Groups**.
+    1.  Navigate to **All** &gt; **Workforce Optimization for Field Service** &gt; **Team Performance** &gt; **KPI Groups**.
 
     2.  Click **New**.
 
@@ -95,6 +95,4 @@ You can associate a user with a primary assignment group by selecting the group 
 
 5.  Click **Submit**.
 
-## Related
 
-- [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]]

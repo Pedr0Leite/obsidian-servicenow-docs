@@ -14,7 +14,7 @@ breadcrumb: [Configuring Notify, Notify, Manage service capabilities, Extend Ser
 
 # Configure Notify Zoom connector in Notify
 
-Configure [[notify-landing-page|Notify]] to receive the event information from Zoom. An event is usually any action that is related to a meeting.
+Configure Notify to receive the event information from Zoom. An event is usually any action that is related to a meeting.
 
 ## Before you begin
 
@@ -58,7 +58,7 @@ Do not set password
 
 </td><td>
 
-Select the [[check-box|check box]] to not set password for Zoom conferences.
+Select the check box to not set password for Zoom conferences.
 
 </td></tr><tr><td>
 
@@ -68,7 +68,7 @@ Zoom transcript handling
 
 Select on how you want the Zoom transcript to be handled when you record the meeting in Zoom and after the meeting ends. Available options:-   Do not process or store the transcript - The transcript is not processed and stored in the system.
 -   Store only the link to the transcript - The URL link to the transcript that is sent by the Zoom provider is stored in the system. This is the default value.
--   Download and store the transcript as [[attachment|attachment]] - The transcript is downloaded from the Zoom server and stored in the system. as an attachment in **.vtt** format.
+-   Download and store the transcript as attachment - The transcript is downloaded from the Zoom server and stored in the system. as an attachment in **.vtt** format.
 **Note:** By default, this field is set to **Store only the link to the transcript**.
 
 </td></tr><tr><td>
@@ -87,14 +87,14 @@ Select the check box to store the Zoom summary that is sent by Zoom provider.**N
 
 Configure and use Zoom as a conference provider from any of the task records.
 
-**Note:** The person creating the conference is the host of the conference and must have their [[email|email]] set in their ServiceNow profile and use the same email for the Zoom account.
+**Note:** The person creating the conference is the host of the conference and must have their email set in their ServiceNow profile and use the same email for the Zoom account.
 
 You must sign in to the browser in order to direct to the Zoom client. However, if you are not signed in, you must provide your registration details.
 
 -   **[Set up Notify Zoom connector in Zoom](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/setup-notify-zoom-connector.md)**  
-Use the [[notify-zoom-connector|Notify Zoom connector]] to expand the Notify communication channel by managing and initiating a Zoom meeting directly from any task record such as an incident or a change.
+Use the Notify Zoom connector to expand the Notify communication channel by managing and initiating a Zoom meeting directly from any task record such as an incident or a change.
 -   **[Disable Zoom meeting password](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/disable-zoom-password.md)**  
-[[disable-zoom-password|Disable Zoom meeting password]] so that you can join a Zoom meeting without any meeting password.
+Disable Zoom meeting password so that you can join a Zoom meeting without any meeting password.
 
 **Parent Topic:**[Configuring Notify](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/configuring-notify.md)
 
@@ -105,11 +105,3 @@ Use the [[notify-zoom-connector|Notify Zoom connector]] to expand the Notify com
 
 [Start a conference call](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/start-a-conference-call.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]
-- [[check-box|Check box]]
-- [[attachment|Attachment]]
-- [[email|Email]]
-- [[notify-zoom-connector|Notify Zoom connector]]
-- [[disable-zoom-password|Disable Zoom meeting password]]

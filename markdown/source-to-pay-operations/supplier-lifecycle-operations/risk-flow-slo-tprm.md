@@ -14,11 +14,11 @@ breadcrumb: [Use the risk assessment playbook, Create a supplier, Using Source-t
 
 # Risk assessment flow when Third-party Risk Due Diligence is installed
 
-If you have installed both the Risk Assessments Integration for [[supp-mgmt-landing-page|Supplier Lifecycle Operations]] \[com.snc.sn\_supplier\_tprm\] and GRC: Third-party Risk Due Diligence \[com.sn\_tprm\_onboarding\] plugins, the Perform risk assessment playbook triggers the flow that includes activities to create a due diligence request, complete Inherent Risk Questionnaire \(IRQ\) assessments, and conduct risk assessments for a third-party and an engagement.
+If you have installed both the Risk Assessments Integration for Supplier Lifecycle Operations \[com.snc.sn\_supplier\_tprm\] and GRC: Third-party Risk Due Diligence \[com.sn\_tprm\_onboarding\] plugins, the Perform risk assessment playbook triggers the flow that includes activities to create a due diligence request, complete Inherent Risk Questionnaire \(IRQ\) assessments, and conduct risk assessments for a third-party and an engagement.
 
 In this flow, the following occurs:
 
-1.  The [[supplier|supplier]] manager receives a supplier onboarding request.
+1.  The supplier manager receives a supplier onboarding request.
 2.  The supplier manager uses the onboarding playbook, which provides a streamlined and guided process to onboard suppliers. For more information, see [Use the supplier onboarding playbook to onboard suppliers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/use-playbooks-onboard-supp.md).
 3.  The supplier manager submits a due diligence request. For more information about the fields in this activity, see [Request due diligence for a third-party engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/tprm-ws-request-dd-for-engagement.md).
 
@@ -29,7 +29,7 @@ In this flow, the following occurs:
 4.  If the due diligence request is approved by the TPR manager, the inherent risk questionnaire \(IRQ\) is sent to the TPR assessor \(internal stakeholder\).
 5.  After the TPR assessor submits the completed IRQ, the due diligence process begins.
 6.  The due diligence process creates two risk assessments, each containing an external due diligence questionnaire, one for the third-party and another for engagement.
-7.  After the supplier contacts complete and submit the external questionnaires from the [[supplier-central|Supplier Collaboration Portal]], the TPR manager goes through the questionnaires and approves the due diligence request.
+7.  After the supplier contacts complete and submit the external questionnaires from the Supplier Collaboration Portal, the TPR manager goes through the questionnaires and approves the due diligence request.
 8.  A contract record is created with an approval. After the contract record is approved, the risk record is updated with the final rating.
 9.  After the supplier manager accepts the risk rating, an email is sent to the requester informing that the due diligence request has been successfully processed and approved.
 10. The supplier manager closes the due diligence request \(case\).
@@ -42,16 +42,10 @@ In this flow, the following occurs:
 -   **[Playbook stages and activities when Third-party Risk Due Diligence is installed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/risk-flow-tprmdd-stages.md)**  
 The following table lists the Perform risk assessment playbook stages and activities when Third-party risk Due Diligence is installed.
 
-**Parent Topic:**[[perform-risk-playbook|Perform risk assessment playbook]]
+**Parent Topic:**[Perform risk assessment playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/perform-risk-playbook.md)
 
 **Related topics**  
 
 
 [Playbook stages and activities when Third-party Risk Due Diligence is installed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/risk-flow-tprmdd-stages.md)
 
-## Related
-
-- [[perform-risk-playbook|Perform risk assessment playbook]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[supplier|Supplier]]
-- [[supplier-central|Supplier Collaboration Portal]]

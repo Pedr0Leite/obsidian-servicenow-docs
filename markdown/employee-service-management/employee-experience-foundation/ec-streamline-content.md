@@ -15,7 +15,7 @@ breadcrumb: [Creating employee communications, Authoring and managing employee c
 
 # Portal content
 
-The Content Library is your one-stop location for creating and publishing a variety of content types to appear on the [[employee-center-portal-overview|employee portal]].
+The Content Library is your one-stop location for creating and publishing a variety of content types to appear on the employee portal.
 
 <table id="table_vjb_w3c_jdc"><thead><tr><th>
 
@@ -71,7 +71,7 @@ Displays upcoming company holidays.**Note:** Employees can download content as a
 
 </td><td>
 
-Provides employees with a quick view of upcoming [[ec-company-events|company events]].**Note:** Employees can download content as an .ics file to upload to Outlook.
+Provides employees with a quick view of upcoming company events.**Note:** Employees can download content as an .ics file to upload to Outlook.
 
 </td><td>
 
@@ -133,7 +133,3 @@ Embed a video in the portal.
 
 [Creating campaigns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-campaigns.md)
 
-## Related
-
-- [[employee-center-portal-overview|Employee portal]]
-- [[ec-company-events|Company events]]

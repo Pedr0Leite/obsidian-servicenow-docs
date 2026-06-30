@@ -14,7 +14,7 @@ breadcrumb: [Processing Events, Configuring Event Management, Event Management, 
 
 # Team-based integrations in Event Management
 
-Team-based integrations empower teams to optimize event processing within [[c_EM|Event Management]] to enhance efficiency and operational effectiveness.
+Team-based integrations empower teams to optimize event processing within Event Management to enhance efficiency and operational effectiveness.
 
 Team-based integrations provides the following capabilities:
 
@@ -23,7 +23,7 @@ Team-based integrations provides the following capabilities:
 -   Route alerts automatically to the appropriate team members responsible for the integrated systems based on integration ownership and configuration item \(CI\) ownership.
 -   Enable seamless integration and automation through the automatic assignment of alerts to appropriate team members based on integration ownership and configuration item \(CI\) ownership.
 
-Customize [[create-event-rules|event rules]], event mapping, and the precedence of team rules for team-based integrations. For more information, see [Team-based integration properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/team-based-integrations-properties.md).
+Customize event rules, event mapping, and the precedence of team rules for team-based integrations. For more information, see [Team-based integration properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/team-based-integrations-properties.md).
 
 **Related topics**  
 
@@ -34,7 +34,3 @@ Customize [[create-event-rules|event rules]], event mapping, and the precedence 
 
 [Alert assignment groups for teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/alert-assignment-group.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[create-event-rules|Event rules]]

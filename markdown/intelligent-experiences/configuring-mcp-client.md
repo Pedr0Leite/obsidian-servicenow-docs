@@ -18,10 +18,7 @@ Configuring MCP Client enables you to:
 
 -   Incorporate external tools in AI agents built on ServiceNow.
 -   Access tools offered on external MCP Servers.
--   Integrate MCP Client with the [[ai-agent-studio|AI Agent Studio]].
+-   Integrate MCP Client with the AI Agent Studio.
 
 By setting up MCP Servers, AI agents in your environment can leverage external tools efficiently, enhancing their ability to perform complex tasks with up-to-date information.
 
-## Related
-
-- [[ai-agent-studio|AI Agent Studio]]

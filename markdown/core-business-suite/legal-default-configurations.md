@@ -21,8 +21,5 @@ These default configurations are applied automatically when Apply default config
 |Notifications|Configures standard notifications to support Legal workflows and communication.|
 |Intake forms|Activates required intake forms for submitting Legal requests and capturing request details.|
 
-**Parent Topic:**[[install-legal|Install Legal]]
+**Parent Topic:**[Install Legal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/install-legal.md)
 
-## Related
-
-- [[install-legal|Install Legal]]

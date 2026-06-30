@@ -36,9 +36,9 @@ The business stakeholder role \(sn\_agile\_read\) has read-only access to all Ag
 
 The Platform Analytics Content Pack for Agile 2.0 includes the following preconfigured dashboards, each containing charts such as burnup, burndown, and cumulative flow diagrams:
 
--   [[agile-development-sprint-dashboard|Agile 2.0 Sprint dashboard]]: Tracks sprint-level progress using burnup, burndown, and cumulative flow charts.
--   [[agile-development-release-dashboard|Agile 2.0 Release dashboard]]: Tracks release-level progress using burnup, burndown, and cycle time charts.
--   [[agile-development-team-dashboard|Agile 2.0 Team dashboard]]: Provides velocity history and velocity by type reports.
+-   Agile 2.0 Sprint dashboard: Tracks sprint-level progress using burnup, burndown, and cumulative flow charts.
+-   Agile 2.0 Release dashboard: Tracks release-level progress using burnup, burndown, and cycle time charts.
+-   Agile 2.0 Team dashboard: Provides velocity history and velocity by type reports.
 
 For more information about using these dashboards, see [Agile Development process flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/agile-development-process-flow.md).
 
@@ -68,8 +68,3 @@ Customize the Burnup, Burndown, and Cumulative Flow Diagram reports of your Agil
 
 [Activate your Performance Analytics subscription](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/c_PremiumPerformanceAnalytics.md)
 
-## Related
-
-- [[agile-development-sprint-dashboard|Agile 2.0 Sprint Dashboard]]
-- [[agile-development-release-dashboard|Agile 2.0 Release Dashboard]]
-- [[agile-development-team-dashboard|Agile 2.0 Team Dashboard]]

@@ -22,7 +22,7 @@ Role required: none
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[r-discovery|Discovery]] Definition** &gt; **CI Classification** &gt; **Process Handlers**.
+1.  Navigate to **All** &gt; **Discovery Definition** &gt; **CI Classification** &gt; **Process Handlers**.
 
 2.  Click **New**.
 
@@ -88,6 +88,3 @@ See [On classification script objects for Discovery](https://raw.githubuserconte
 
 Run a discovery through the [Discovery Schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_CreateADiscoverySchedule.md) to search for applications and then [verify the results in the CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_Software.md) for the applications that are found.
 
-## Related
-
-- [[r-discovery|Discovery]]

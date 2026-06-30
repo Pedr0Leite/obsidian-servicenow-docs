@@ -14,7 +14,7 @@ breadcrumb: [Types of catalog items, Explore, Service Catalog, Manage service ca
 
 # Order guides
 
-Order guide submits a single [[service-catalog|service catalog]] request that generates several items.
+Order guide submits a single service catalog request that generates several items.
 
 For example, a New Employee Hire order guide can contain several items that new employees commonly need, such as business cards, computer, and cell phone. After selecting this order guide, the customer can then provide information about the new employee, including location and job title. The order guide then submits an order for catalog items like business cards, based on the details provided.
 
@@ -22,11 +22,11 @@ Order guides determine which catalog items to order by evaluating order guide ru
 
 Administrators and catalog administrators can create order guides for the service catalog.
 
-Order guides can be run automatically, generating a set of ordered items without needing to manually submit a service catalog request. For example, an onboarding workflow for a new employee can automatically run an order guide to order items for that employee. Order guides can also be configured to order the items of an order guide in a logical sequence. For example, you can configure your order guide to run the request for a new laptop before running the request for a new [[email|email]].
+Order guides can be run automatically, generating a set of ordered items without needing to manually submit a service catalog request. For example, an onboarding workflow for a new employee can automatically run an order guide to order items for that employee. Order guides can also be configured to order the items of an order guide in a logical sequence. For example, you can configure your order guide to run the request for a new laptop before running the request for a new email.
 
-Use the **Script** field in an order guide to add or remove catalog items to or from the order guide. Add catalog items to the [[order-guide-form|order guide form]] by configuring the form layout.
+Use the **Script** field in an order guide to add or remove catalog items to or from the order guide. Add catalog items to the order guide form by configuring the form layout.
 
--   To [[t_AssignItemToAddlCatalogsCategory|add a catalog item]] that is not added to the order guide via a rule base, write the following code in the script field:
+-   To add a catalog item that is not added to the order guide via a rule base, write the following code in the script field:
 
     ```
     guide.add(“<sys_id_of_cat_item>")
@@ -40,7 +40,7 @@ Use the **Script** field in an order guide to add or remove catalog items to or 
 
 
 -   **[Create an order guide](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_CreateAnOrderGuide.md)**  
-You can [[t_CreateAnOrderGuide|create an order guide]] with a two-step or three-step ordering process.
+You can create an order guide with a two-step or three-step ordering process.
 -   **[Request an order guide](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_OrderProcess.md)**  
 Once created, order guides present the customer with a three-step ordering process by default.
 -   **[Create an order guide rule to add a catalog item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_CreateARule.md)**  
@@ -54,10 +54,3 @@ You can run an order guide automatically from within a workflow or a server scri
 
 **Parent Topic:**[Types of catalog items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/r_ExtendedCatalogItemFunctions.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[email|Email]]
-- [[order-guide-form|Order guide form]]
-- [[t_AssignItemToAddlCatalogsCategory|Add a catalog item]]
-- [[t_CreateAnOrderGuide|Create an order guide]]

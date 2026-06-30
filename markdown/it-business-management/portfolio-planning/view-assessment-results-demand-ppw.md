@@ -22,7 +22,7 @@ Role required: it\_demand\_manager
 
 ## Procedure
 
-1.  Open a demand from the home page of Next Experience for [[c_DemandManagement|Demand Management]].
+1.  Open a demand from the home page of Next Experience for Demand Management.
 
     For more information, see [Access demands](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/access-demands-ppw.md).
 
@@ -34,6 +34,4 @@ Role required: it\_demand\_manager
 
 4.  Select an assessment result record to view the details.
 
-## Related
 
-- [[c_DemandManagement|Demand Management]]

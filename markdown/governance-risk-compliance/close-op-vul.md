@@ -12,7 +12,7 @@ breadcrumb: [Managing Operational vulnerability, Manage, Operational Resilience,
 
 # Close the operational vulnerability
 
-Verify the details and close the Operational vulnerability record as the [[exploring-op-vul|Operational vulnerability]] analyst.
+Verify the details and close the Operational vulnerability record as the Operational vulnerability analyst.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_oper\_res.manager, sn\_oper\_res.admin, Analyst of the vulner
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[grc-opres-landing-page|Operational Resilience]] Workspace** &gt; **All Operational Vulnerabilities**.
+1.  Navigate to **Workspaces** &gt; **Operational Resilience Workspace** &gt; **All Operational Vulnerabilities**.
 
 2.  Log in as an analyst and navigate to the Operational vulnerability record from the list or select **Vulnerability approvals** in **My pending tasks**.
 
@@ -30,7 +30,4 @@ Role required: sn\_oper\_res.manager, sn\_oper\_res.admin, Analyst of the vulner
 
     The Operational vulnerability is now in the **Closed** state. It completes the workflow of the Operational vulnerability record.
 
-## Related
 
-- [[exploring-op-vul|Operational vulnerability]]
-- [[grc-opres-landing-page|Operational Resilience]]

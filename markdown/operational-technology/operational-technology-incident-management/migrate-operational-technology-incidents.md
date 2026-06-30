@@ -14,7 +14,7 @@ breadcrumb: [Configure, Operational Technology Incident Management, Operational 
 
 # Migrate incidents to the new incident table
 
-Migrate [[operational-technology-overview|Operational Technology]] incidents from the old incident table to the new incident table. Migrating incidents lets the [[operational-technology-incident-management-landing-page|Operational Technology Incident Management]] application know that the old table is no longer applicable.
+Migrate Operational Technology incidents from the old incident table to the new incident table. Migrating incidents lets the Operational Technology Incident Management application know that the old table is no longer applicable.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Migrate [[operational-technology-overview|Operational Technology]] incidents fro
 
 ## Procedure
 
-1.  Navigate to **[[industrial-workspace-for-operational-technology|Industrial Workspace]] Admin** &gt; **Guided Setup**.
+1.  Navigate to **Industrial Workspace Admin** &gt; **Guided Setup**.
 
 2.  In the Operational Technology Incident Management category, select **Get Started**.
 
@@ -40,8 +40,3 @@ The Operational Technology incidents are migrated to the new incident table, and
 
 **Parent Topic:**[Configuring Operational Technology Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/configuring-operational-technology-incident-mgt.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[operational-technology-incident-management-landing-page|Operational Technology Incident Management]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

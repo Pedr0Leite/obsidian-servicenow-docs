@@ -14,7 +14,7 @@ breadcrumb: [Reference, Demand Management, Project Portfolio Management, Strateg
 
 # Demand Management key terms
 
-Important terms in [[c_DemandManagement|Demand Management]] are listed in the table.
+Important terms in Demand Management are listed in the table.
 
 <table id="table_smh_sm1_kp"><thead><tr><th>
 
@@ -101,6 +101,3 @@ A unit of work, created within a demand, to break down initial planning activiti
 </td></tr></tbody>
 </table>**Parent Topic:**[Demand Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/demand-management-reference.md)
 
-## Related
-
-- [[c_DemandManagement|Demand Management]]

@@ -14,13 +14,13 @@ breadcrumb: [ACC installation, ACC deployment - servers, Configuring Agent Clien
 
 # Perform high-volume Agent Client Collector upgrade
 
-Perform high-volume upgrade of your [[acc-landing-page|Agent Client Collector]] agents when you want to upgrade all of your agents at one time.
+Perform high-volume upgrade of your Agent Client Collector agents when you want to upgrade all of your agents at one time.
 
 ## Before you begin
 
 Configure the Agent Client Collector web server. For details, see [Configure the websocket server on the MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-configure-web-server.md).
 
-Ensure that the MID Server, [[mid-web-server|MID Web Server]], and the MID Server websocket server are running.
+Ensure that the MID Server, MID Web Server, and the MID Server websocket server are running.
 
 Select the version to which you want to upgrade your agent.
 
@@ -87,7 +87,3 @@ An agent is excluded from high-volume upgrade when you reach the failed upgrade 
 
 To modify the frequency of the upgrade, update the value of the Repeat Interval in the **Upgrade Agents Incrementally** scheduled job \(**All** &gt; **System Definition** &gt; **Scheduled Jobs**\).
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[mid-web-server|MID Web Server]]

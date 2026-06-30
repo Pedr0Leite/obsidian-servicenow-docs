@@ -14,7 +14,7 @@ breadcrumb: [Shopper to-dos, Using Shopping Hub, Use, Sourcing and Procurement O
 
 # Confirm meeting a milestone for your service from Shopping Hub Home
 
-Provide confirmation from [[shopping-hub-overview|Shopping Hub]] Home on whether the [[supplier|supplier]] has met a milestone for a service you had ordered, so that payment can be processed to the supplier for that milestone. If a milestone hasn’t been met by the due date, you can [[cancel-request|raise a cancel request]] or propose a new completion date.
+Provide confirmation from Shopping Hub Home on whether the supplier has met a milestone for a service you had ordered, so that payment can be processed to the supplier for that milestone. If a milestone hasn’t been met by the due date, you can raise a cancel request or propose a new completion date.
 
 ## Before you begin
 
@@ -62,7 +62,7 @@ Provide your response, if any, and select **Complete**.
 
 Push the milestone to a later date.On the **Defer completion** window, provide your reason for changing the due date, pick a new due date, and select **Submit**.
 
-**Note:** [[milestones|Milestones]] can be received in percentage and amount, but can only be deferred if not complete until they’re processed for the full milestone. This is because milestones are parts of the whole, and partials aren’t supported.
+**Note:** Milestones can be received in percentage and amount, but can only be deferred if not complete until they’re processed for the full milestone. This is because milestones are parts of the whole, and partials aren’t supported.
 
 </td></tr><tr><td id="d132453e156">
 
@@ -76,9 +76,3 @@ Cancel the milestone altogether. On the **Cancel milestone** window, provide you
 </table>
 **Parent Topic:**[Shopper to-dos](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shopper-todos.md)
 
-## Related
-
-- [[shopping-hub-overview|Shopping Hub]]
-- [[supplier|Supplier]]
-- [[cancel-request|Raise a cancel request]]
-- [[milestones|Milestones]]

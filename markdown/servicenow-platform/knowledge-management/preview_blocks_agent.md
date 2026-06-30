@@ -34,10 +34,8 @@ Role required: agent\_workspace\_user and knowledge
 
     The article edit page refreshes to show options for previewing a knowledge block.
 
-5.  Click **Show Blocks** to highlight the [[knowledge-blocks|knowledge blocks]] added to the article.
+5.  Click **Show Blocks** to highlight the knowledge blocks added to the article.
 
 6.  Click **OK**.
 
-## Related
 
-- [[knowledge-blocks|Knowledge blocks]]

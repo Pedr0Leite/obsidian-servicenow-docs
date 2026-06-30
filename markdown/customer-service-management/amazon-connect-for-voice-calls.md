@@ -12,11 +12,11 @@ breadcrumb: [Integrating with contact centers, Integrate, Customer Service Manag
 
 # Use Interaction Controls Component \(ICC\) call controls with Amazon Connect
 
-Agents can access the Active call controls directly from their [[csm-workspaces-configure|CSM Configurable Workspace]] to manage phone interactions. This reduces context switching and improves productivity with Amazon Connect.
+Agents can access the Active call controls directly from their CSM Configurable Workspace to manage phone interactions. This reduces context switching and improves productivity with Amazon Connect.
 
 ## Amazon Connect for voice calls overview
 
-Amazon Connect integration with ICC provides voice controls enabling agents to handle phone interactions without leaving their Workspace. Call features include actions such as answering, holding, transferring, muting, ending, and accessing the [[ccaas-phone-directory|phone directory]]. Real-time synchronization of agent presence, conformance, and support for various call management features are key achievements of this integration.
+Amazon Connect integration with ICC provides voice controls enabling agents to handle phone interactions without leaving their Workspace. Call features include actions such as answering, holding, transferring, muting, ending, and accessing the phone directory. Real-time synchronization of agent presence, conformance, and support for various call management features are key achievements of this integration.
 
 To use this feature, complete the steps in the **Enable Interaction Controls** section of the Amazon Connect guided setup for configuring the components. See [Integrate ServiceNow Voice with Amazon Connect](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/integrate-ccc-amazonconnect.md)
 
@@ -80,7 +80,3 @@ Agents can select the ellipsis icon in the OpenFrame call window and select the 
 
 \[Omitted image "amazon-connect-device-settings-option.png"\] Alt text: Use the Device settings option to update the audio device settings
 
-## Related
-
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[ccaas-phone-directory|Phone directory]]

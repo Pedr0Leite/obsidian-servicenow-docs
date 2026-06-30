@@ -18,7 +18,7 @@ Set up the AWS environment and scheduled jobs to pull in AWS data into the CMDB.
 
 ## Before you begin
 
-**Important:** Unless there are configuration issues, use the [[sgcc-landing|SGC Central]] view in the [[sg-workspace|Service Graph Workspace]] or CMDB Workspace to configure the connection for the connector, as the guided setup method is planned for deprecation.
+**Important:** Unless there are configuration issues, use the SGC Central view in the Service Graph Workspace or CMDB Workspace to configure the connection for the connector, as the guided setup method is planned for deprecation.
 
 To use this Service Graph Connector, you need a subscription to a Subscription Unit that is based in the IT Operations Management \(ITOM\) Visibility application or in the ITOM Discovery application. As defined in the section titled "Managed IT Resource Types" in [ServiceNow Subscription Unit Overview](https://www.servicenow.com/products/entitlements-packages.html) for your subscription, for managed IT resources that are created or modified in the CMDB by this Service Graph Connector, but that aren’t yet managed by [ITOM Visibility or ITOM Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-license-module.md), these resources will increase Subscription Unit consumption from that application. Review your current Subscription Unit consumption within ITOM Visibility or ITOM Discovery to ensure available capacity.
 
@@ -39,11 +39,11 @@ Ensure that you’ve completed the prerequisites for setting up AWS. See [Config
 
 Role required: SGC-Admin \(sn\_cmdb\_int\_util.sgc\_admin\) or admin
 
-**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for [[cmdb-sgc-available|Service Graph Connectors]], see [Service Graph Connector user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md).
+**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md).
 
 ## About this task
 
-For more information on the **[[cmdb-integration-aws-sg|Service Graph Connector for AWS]]** setup instructions, see the following articles:
+For more information on the **Service Graph Connector for AWS** setup instructions, see the following articles:
 
 -   [Service Graph Connector for AWS - Setup Instructions \[KB1220597\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB1220597) article on the Now Support Knowledge Base.
 -   [Service Graph Connector for AWS - Introduction](https://www.servicenow.com/community/cmdb-articles/service-graph-connector-for-aws-introduction/ta-p/2300757) on the ServiceNow Community site.
@@ -98,7 +98,7 @@ After you've installed the latest version of the Service Graph Connector for AWS
     3.  Update the required configuration properties for an AWS instance.
 
         1.  For the Update configuration properties for instance task, select **Configure**.
-        2.  On the SG-AWS Configuration [[properties-form-survey-designer|Properties form]] that opens in a new tab, review, and modify the fields.
+        2.  On the SG-AWS Configuration Properties form that opens in a new tab, review, and modify the fields.
 
 <table id="table_rxc_xrt_zzb"><thead><tr><th>
 
@@ -298,7 +298,7 @@ AWS Key Rotation Date
 
 </td><td>
 
-Key rotation date. Set the value to the required key rotation date for the first run. For subsequent runs, this field is automatically set to the rotation date. This field is available only when you select the **AWS Rotate Keys** [[check-box|check box]].
+Key rotation date. Set the value to the required key rotation date for the first run. For subsequent runs, this field is automatically set to the rotation date. This field is available only when you select the **AWS Rotate Keys** check box.
 
 </td></tr><tr><td>
 
@@ -314,7 +314,7 @@ AWS Key Rotation Status
 
 </td><td>
 
-Status message of a key rotation displaying whether the rotation was a success or a failure. This field is automatically set to display the key rotation status message. This field is available only when you select the **AWS Rotate Keys** check box. If the rotation status is a failure, an [[email|email]] notification is triggered, if configured.
+Status message of a key rotation displaying whether the rotation was a success or a failure. This field is automatically set to display the key rotation status message. This field is available only when you select the **AWS Rotate Keys** check box. If the rotation status is a failure, an email notification is triggered, if configured.
 
 </td></tr><tr><td>
 
@@ -322,7 +322,7 @@ Email accounts for receiving error notifications
 
 </td><td>
 
-Comma-separated list of the email addresses of recipients who [[c_ReceiveNotifications|receive notifications]] about the AWS key rotation errors.
+Comma-separated list of the email addresses of recipients who receive notifications about the AWS key rotation errors.
 
 </td></tr><tr><td>
 
@@ -575,13 +575,3 @@ Connection alias associated with the AWS environment setup and configured in ste
 
 [Handling memory utilization errors for Service Graph Connector for AWS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-aws-memory.md)
 
-## Related
-
-- [[sgcc-landing|SGC Central]]
-- [[sg-workspace|Service Graph Workspace]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[cmdb-integration-aws-sg|Service Graph Connector for AWS]]
-- [[properties-form-survey-designer|Properties form]]
-- [[check-box|Check box]]
-- [[email|Email]]
-- [[c_ReceiveNotifications|Receive notifications]]

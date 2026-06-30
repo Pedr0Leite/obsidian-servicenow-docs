@@ -12,7 +12,7 @@ breadcrumb: [Impact reference, Impact]
 
 # Table and field level mapping
 
-Following is information on the data that is synchronized between the [[impact-landing-page|Impact]] Delivery Instance and the Impact Store Application.
+Following is information on the data that is synchronized between the Impact Delivery Instance and the Impact Store Application.
 
 Terms to understand:
 
@@ -21,29 +21,16 @@ Terms to understand:
 -   Target field: Field name in the Customer Instance
 -   Target table: Table name in the Customer Instance
 
--   **[[value-management-mapping|Value Management tables]]**  
-Following are the tables that are synced with your business objectives, business outcomes, and [[impact-in-platform-business-outcomes|value management]] metrics.
--   **[[product-adoption-roadmap-capabilities-map-mapping|Product Adoption Roadmap and Capabilities Map tables]]**  
-Following are the tables that are synced with your entitled capabilities, the usage status of your capabilities, and any changes made to your [[impact-par|Product Adoption Roadmaps]].
--   **[[recommendations-mapping|Recommendations tables]]**  
+-   **[Value Management tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/value-management-mapping.md)**  
+Following are the tables that are synced with your business objectives, business outcomes, and value management metrics.
+-   **[Product Adoption Roadmap and Capabilities Map tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/product-adoption-roadmap-capabilities-map-mapping.md)**  
+Following are the tables that are synced with your entitled capabilities, the usage status of your capabilities, and any changes made to your Product Adoption Roadmaps.
+-   **[Recommendations tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/recommendations-mapping.md)**  
 Following are the tables that are synced with recommendations and information that will inform future recommendations \(for example, recommendations you’ve used, or recommendations you’ve liked or disliked\).
--   **[[accelerators-mapping|Accelerators tables]]**  
+-   **[Accelerators tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerators-mapping.md)**  
 Following are the tables that are synced with anything related to requesting or receiving an Accelerator \(requests, status, start date, target completion date, attachments, notes, etc.\).
--   **[[working-with-squad-mapping|Working with your Squad tables]]**  
-Following is the information that is synced: who’s on your [[impact-squad|Impact Squad]], your Squad’s contact information, the status of your [[foundations|Impact Foundations]] activities, and records of your consent \(for example, for Accelerators that require you to accept additional terms and conditions\).
+-   **[Working with your Squad tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/working-with-squad-mapping.md)**  
+Following is the information that is synced: who’s on your Impact Squad, your Squad’s contact information, the status of your Impact Foundations activities, and records of your consent \(for example, for Accelerators that require you to accept additional terms and conditions\).
 
-**Parent Topic:**[[impact-reference|Impact reference]]
+**Parent Topic:**[Impact reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/impact-reference.md)
 
-## Related
-
-- [[value-management-mapping|Value Management tables]]
-- [[product-adoption-roadmap-capabilities-map-mapping|Product Adoption Roadmap and Capabilities Map tables]]
-- [[recommendations-mapping|Recommendations tables]]
-- [[accelerators-mapping|Accelerators tables]]
-- [[working-with-squad-mapping|working with squad mapping]]
-- [[impact-reference|Impact reference]]
-- [[impact-landing-page|Impact]]
-- [[impact-in-platform-business-outcomes|Value management]]
-- [[impact-par|Product Adoption Roadmaps]]
-- [[impact-squad|Impact Squad]]
-- [[foundations|Impact Foundations]]

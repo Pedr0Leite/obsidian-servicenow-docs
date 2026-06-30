@@ -18,9 +18,9 @@ The Knowledge Management dashboard helps knowledge content owners and managers t
 
 **Note:**
 
--   This documentation refers to the Performance Analytics Content Pack for [[knowledge-management|Knowledge Management]] v2, introduced in London. It doesn’t refer to the older, deprecated version.
+-   This documentation refers to the Performance Analytics Content Pack for Knowledge Management v2, introduced in London. It doesn’t refer to the older, deprecated version.
 -   To enable the solution for Knowledge Management, an admin can navigate to **Performance Analytics** &gt; **Guided Setup**. Select Get Started then scroll to the section for Knowledge Management. The guided setup takes you through the entire setup and configuration process.
--   To access the Knowledge Management dashboard, navigate to **All** &gt; **[[self-service-landing|Self-Service]]** &gt; **Dashboard**. In the **Search dashboard** field, search for the Knowledge Management dashboard.
+-   To access the Knowledge Management dashboard, navigate to **All** &gt; **Self-Service** &gt; **Dashboard**. In the **Search dashboard** field, search for the Knowledge Management dashboard.
 
 \[Omitted image "kmdash-content-usage.png"\] Alt text: Tab showing user activity, click rank, and click through rate for any user and authenticated user activities
 
@@ -147,7 +147,3 @@ The dashboards include the following visualizations:
 
 [Dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/dashboards-landing-page.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]
-- [[self-service-landing|Self-service]]

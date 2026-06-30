@@ -14,7 +14,7 @@ breadcrumb: [JSON APIs, Encryption rule objects and APIs, Define a custom encryp
 
 # JsonNodeIterator
 
-You get a JsonNodeIterator object by calling the getIterator\(\) or iterator\(\) methods of the [[c_JsonNodeAPI|JsonNode]] class.
+You get a JsonNodeIterator object by calling the getIterator\(\) or iterator\(\) methods of the JsonNode class.
 
 **Parent Topic:**[JSON APIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/json-overview.md)
 
@@ -44,6 +44,3 @@ You cannot call next\(\) without first calling hasNext\(\).
 |----|-----------|
 |JsonNode|The next JsonNode.|
 
-## Related
-
-- [[c_JsonNodeAPI|JsonNode]]

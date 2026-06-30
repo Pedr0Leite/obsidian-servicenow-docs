@@ -18,7 +18,7 @@ Set up authentication credentials and a scheduled job to import Microsoft Intune
 
 ## Before you begin
 
-**Important:** The guided setup method is deprecated from version 2.7.0 of the [[cmdb-integration-intune|Service Graph Connector for Microsoft Intune]]. Use the [[sgcc-landing|SGC Central]] view in the [[sg-workspace|Service Graph Workspace]] or CMDB Workspace to configure the connection for the connector.
+**Important:** The guided setup method is deprecated from version 2.7.0 of the Service Graph Connector for Microsoft Intune. Use the SGC Central view in the Service Graph Workspace or CMDB Workspace to configure the connection for the connector.
 
 To use this Service Graph Connector, you need a subscription to a Subscription Unit that is based in the IT Operations Management \(ITOM\) Visibility application or in the ITOM Discovery application. As defined in the section titled "Managed IT Resource Types" in [ServiceNow Subscription Unit Overview](https://www.servicenow.com/products/entitlements-packages.html) for your subscription, for managed IT resources that are created or modified in the CMDB by this Service Graph Connector, but that aren’t yet managed by [ITOM Visibility or ITOM Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-license-module.md), these resources will increase Subscription Unit consumption from that application. Review your current Subscription Unit consumption within ITOM Visibility or ITOM Discovery to ensure available capacity.
 
@@ -49,7 +49,7 @@ Multi-instance is supported for importing data from multiple Microsoft Intune in
 
 Role required: SGC-Admin \(sn\_cmdb\_int\_util.sgc\_admin\) or admin
 
-**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for [[cmdb-sgc-available|Service Graph Connectors]], see [Service Graph Connector user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md).
+**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md).
 
 ## Procedure
 
@@ -168,11 +168,11 @@ Where *&lt;tenantid&gt;* is the tenant ID of your Microsoft Intune application.
 
     5.  Go back to the guided setup page and for the Configure credentials task, select **Mark as Complete**.
 
-4.  If needed, configure the [[mid-server-landing|MID Server]].
+4.  If needed, configure the MID Server.
 
     1.  In the Configure MID Server section, select **Configure**.
 
-    2.  Select the **Use MID server** [[check-box|check box]].
+    2.  Select the **Use MID server** check box.
 
     3.  Select **Update** to save the record.
 
@@ -455,7 +455,7 @@ Enable retrieving the IP addresses of devices during import and populate the rec
     -   The SG-Intune Device Reports data source serves as an alternative to the SG-Intune Computer and SG-Intune Devices data sources, importing the same information while optimizing the data retrieval process by minimizing API calls and reducing import time.
     -   The SG-Intune Software Reports data source serves as an alternative to the SG-Intune Software data source.
     -   Both the SG-Intune Device Reports and SG-Intune Software Reports data sources require the paid ServiceNow IntegrationHub Professional Pack Installer \(com.glide.hub.integrations.professional\) plugin.
-    -   To enable the creation of attachments, the **glide.[[attachment|attachment]].extensions** system property must be set to either null or `zip, json`.
+    -   To enable the creation of attachments, the **glide.attachment.extensions** system property must be set to either null or `zip, json`.
 
         For more information, see the [Service Graph Connector For Microsoft Intune – Advanced \[KB1641546\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB1641546) article in the Now Support Knowledge Base.
 
@@ -560,12 +560,3 @@ User to populate the field on the scheduled data import.
         5.  To activate any newly created parent scheduled import, repeat steps [11.b.ii](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/configure-intune-integration.md) to [11.b.iv](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/configure-intune-integration.md).
         6.  Return to the guided setup page and set the Set up advanced data sources for multiple instances task to complete by selecting **Mark as Complete**.
 
-## Related
-
-- [[cmdb-integration-intune|Service Graph Connector for Microsoft Intune]]
-- [[sgcc-landing|SGC Central]]
-- [[sg-workspace|Service Graph Workspace]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[mid-server-landing|MID Server]]
-- [[check-box|Check box]]
-- [[attachment|Attachment]]

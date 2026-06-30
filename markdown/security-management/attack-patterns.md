@@ -16,12 +16,12 @@ Attack patterns are a type of Tactics, Techniques, and Procedures \(TTPs\) that 
 
 Attack patterns are used to help categorize attacks. They generalize specific attacks to the patterns that they follow, and provide detailed information about how attacks are performed.
 
-For example, spear phishing is a common type of attack where an attacker sends a carefully crafted email message to a party with the intent of getting them to click a link or open an attachment to deliver [[threat-intelligence-malware|malware]]. Attack Patterns are more specific, such as spear phishing by a particular [[threat-actor|threat actor]] \(example - that the target won a contest\) can also be an Attack pattern.
+For example, spear phishing is a common type of attack where an attacker sends a carefully crafted email message to a party with the intent of getting them to click a link or open an attachment to deliver malware. Attack Patterns are more specific, such as spear phishing by a particular threat actor \(example - that the target won a contest\) can also be an Attack pattern.
 
--   **[[define-attack-pattern|Define an attack pattern]]**  
+-   **[Define an attack pattern](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/define-attack-pattern.md)**  
 Define an attack pattern to help categorize attacks.
 
-**Parent Topic:**[[ioc-repository|IoC Repository]]
+**Parent Topic:**[IoC Repository](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/ioc-repository.md)
 
 **Related topics**  
 
@@ -72,9 +72,3 @@ Define an attack pattern to help categorize attacks.
 
 [STIX Visualizer]()
 
-## Related
-
-- [[define-attack-pattern|Define an attack pattern]]
-- [[ioc-repository|IoC Repository]]
-- [[threat-intelligence-malware|Malware]]
-- [[threat-actor|Threat Actor]]

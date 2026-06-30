@@ -13,7 +13,7 @@ breadcrumb: [Activate a Now Assist skill, Using Now Assist Admin, Now Assist, En
 
 # Configure email reply recommendation in the Now Assist Admin console
 
-Configure the email recommendation [[platform-now-assist-landing|Now Assist]] skill to enable agents to draft email replies based on contextual information.
+Configure the email recommendation Now Assist skill to enable agents to draft email replies based on contextual information.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ The email recommendation skill is available in multiple workflows. The exact ste
 
     If you’re already in the Now Assist Admin console, select the **Now Assist Features** tab.
 
-2.  On the [[now-assist-global-navigation|navigation]] panel, select a workflow, such as **Technology**.
+2.  On the navigation panel, select a workflow, such as **Technology**.
 
     Each workflow contains feature sets. The available workflows for email recommendation are Customer \(CSM\) and Employee \(HRSD\).
 
@@ -39,7 +39,7 @@ The email recommendation skill is available in multiple workflows. The exact ste
 
     If you have already activated the skill and want to edit the configuration, in the Active skills section, select the more options menu item \(\[Omitted image "more-options-menu-item.png"\] Alt text: More options menu item\). Then select **Edit**.
 
-5.  In the **Write with Now Assist** step, choose whether you want the [[now-assist-write-overview|Now Assist context menu]] to be active and then select the actions you want to be available.
+5.  In the **Write with Now Assist** step, choose whether you want the Now Assist context menu to be active and then select the actions you want to be available.
 
     After each step, select **Save and continue**. For more information about these choices, see Skill inputs and triggers for Now Assist for HRSD.
 
@@ -61,13 +61,13 @@ The email recommendation skill is available in multiple workflows. The exact ste
 
 8.  In the next step of the skill configuration, select where you'd like to display the skill.
 
-    You can select both in-product, [[now-assist-center-now-assist-panel|Now Assist panel]], or both.
+    You can select both in-product, Now Assist panel, or both.
 
-    -   **In-product**: When selected, [[now-assist-skills|Now Assist skills]] are displayed on forms and workspaces.
+    -   **In-product**: When selected, Now Assist skills are displayed on forms and workspaces.
 
         For the skills that appear in-product, select the down arrow to identify the roles that can use the skill.
 
-    -   **Now Assist panel**: When selected, Now Assist skills are available in the Now Assist panel. If you don't see this option, you must activate the Now Assist panel. For more information, see [[activate-now-assist-panel|Activate the Now Assist panel standard chat]].
+    -   **Now Assist panel**: When selected, Now Assist skills are available in the Now Assist panel. If you don't see this option, you must activate the Now Assist panel. For more information, see [Activate the Now Assist panel standard chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-now-assist-panel.md).
 
         For the skills that appear in the Now Assist panel, select the down arrow to identify the roles that can use the skill.
 
@@ -80,14 +80,5 @@ The email recommendation skill is available in multiple workflows. The exact ste
 
 Agents can generate email drafts with generative AI.
 
-**Parent Topic:**[[configure-a-now-assist-skill|Activate a Now Assist skill]]
+**Parent Topic:**[Activate a Now Assist skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-a-now-assist-skill.md)
 
-## Related
-
-- [[activate-now-assist-panel|Activate the Now Assist panel standard chat]]
-- [[configure-a-now-assist-skill|Activate a Now Assist skill]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-global-navigation|Navigation]]
-- [[now-assist-write-overview|Now Assist context menu]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[now-assist-skills|Now Assist skills]]

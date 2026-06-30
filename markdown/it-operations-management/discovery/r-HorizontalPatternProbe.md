@@ -14,7 +14,7 @@ breadcrumb: [List of Discovery probes, Discovery probes and sensors, Using Disco
 
 # Horizontal Pattern probe
 
-[[r-discovery|Discovery]] uses the Horizontal Pattern probe to launch patterns for horizontal discovery.
+Discovery uses the Horizontal Pattern probe to launch patterns for horizontal discovery.
 
 The Horizontal Pattern probe works with the Horizontal Discovery sensor to enable Discovery to use patterns for discovery. When you see messages in the ECC Queue from this probe, they appear with the ECC queue name **Pattern Launcher**, followed by the name of the pattern. The probe contains a sensor named **Horizontal Discovery Sensor**, which performs the actual updates of the CMDB based on identification rules.
 
@@ -59,6 +59,3 @@ You can adjust MID Server properties to reduce the number of ECC queue pages tha
 
 **Parent Topic:**[List of Discovery probes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_ListOfDiscoveryProbes.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

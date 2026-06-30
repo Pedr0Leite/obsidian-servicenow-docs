@@ -26,7 +26,7 @@ As a consumer, you can:
 
 <table id="table_k52_dyx_yxb" class="nav-card"><tbody><tr><td>
 
-[Configure for consumers\[Omitted image "bus-optimize-manage-sb.svg"\]Learn how to install and [[service-bridge-v2-install|configure Service Exchange for consumers]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-install.md)
+[Configure for consumers\[Omitted image "bus-optimize-manage-sb.svg"\]Learn how to install and configure Service Exchange for consumers.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-install.md)
 
 </td><td>
 
@@ -34,7 +34,3 @@ As a consumer, you can:
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[service-bridge-v2-install|Configure Service Exchange for Consumers]]

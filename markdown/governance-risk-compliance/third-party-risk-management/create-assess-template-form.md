@@ -14,7 +14,7 @@ breadcrumb: [Third-party \(external\) risk assessment management, Reference, Thi
 
 # Create new external assessment template form
 
-Use the external assessment template form to capture all the information that you need to [[create-vendor-risk-assess-temp|create an external assessment template]]. As a third-party risk manager, you can [[sae-asmnt-template-create|create an assessment template]].
+Use the external assessment template form to capture all the information that you need to create an external assessment template. As a third-party risk manager, you can create an assessment template.
 
 <table id="table_FloorForm"><thead><tr><th>
 
@@ -94,7 +94,7 @@ Supports smart assessment
 
 </td><td>
 
-Option that indicates that the assessment template can be used with the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]].**Note:** For existing assessments, this option is not set when there are classic questionnaire and document request templates that have not been migrated and published. This option is set automatically when an SAE questionnaire or document request template has been added manually.
+Option that indicates that the assessment template can be used with the Smart Assessment Engine.**Note:** For existing assessments, this option is not set when there are classic questionnaire and document request templates that have not been migrated and published. This option is set automatically when an SAE questionnaire or document request template has been added manually.
 
 When you create a new assessment template and have the Smart Assessment Engine property enabled, this field is selected by default after saving the template.
 
@@ -226,8 +226,3 @@ Description of the document request template.
 
 [Create an external assessment template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/create-vendor-risk-assess-temp.md)
 
-## Related
-
-- [[create-vendor-risk-assess-temp|Create an external assessment template]]
-- [[sae-asmnt-template-create|Create an assessment template]]
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]

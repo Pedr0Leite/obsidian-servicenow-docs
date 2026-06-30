@@ -14,7 +14,7 @@ breadcrumb: [Symantec Integration for Data Loss Prevention Incident Response, In
 
 # Create a profile for Symantec DLP integration
 
-[[ms-defender-profile|Create an incident profile]] in your  ServiceNow AI Platform instance. Determine the  Symantec DLP incidents that are suitable for creating DLP incidents.
+Create an incident profile in your  ServiceNow AI Platform instance. Determine the  Symantec DLP incidents that are suitable for creating DLP incidents.
 
 ## Before you begin
 
@@ -107,11 +107,11 @@ To move to the Filtering section,  click **Continue**.
 -   **[Define filters to apply for the Incident creation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/define-filters-symantec.md)**  
 Define and set filter conditions to drill down the incoming  Symantec DLP  incidents. Determine the incidents that should be created as DLP incidents in ServiceNow®.
 -   **[Configure evidence file storage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/config-evidence-file.md)**  
-[[config-evidence-file|Configure evidence file storage]] to securely store the evidence file for the DLP Incidents.
+Configure evidence file storage to securely store the evidence file for the DLP Incidents.
 -   **[Download evidence files](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/download-evidence-files.md)**  
 Download DLP incident evidence files that violate the DLP policy on Symantec.
 -   **[Preview evidence files](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/preview-file-symantec.md)**  
-Preview [[dlp-landing|Data Loss Prevention Incident Response]] evidence files in the DLP IR Analyst workspace.
+Preview Data Loss Prevention Incident Response evidence files in the DLP IR Analyst workspace.
 -   **[Schedule the Symantec DLP Incident Retrieval](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/schedule-dlp-incident-retrieval.md)**  
 Set a schedule to retrieve the incident data and ingest Symantec DLP incidents that match the criteria in the profile. Configure the schedule to define how and when you pull incidents from Symantec.
 -   **[Mapping Symantec DLP incident statuses with ServiceNow incident Status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/map-symantec-dlp.md)**  
@@ -119,8 +119,3 @@ Synchronize the status of the DLP incidents ingested on the ServiceNow with the 
 
 **Parent Topic:**[Symantec Integration for Data Loss Prevention Incident Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/symantec-dlp-integration.md)
 
-## Related
-
-- [[ms-defender-profile|Create an incident profile]]
-- [[config-evidence-file|Configure evidence file storage]]
-- [[dlp-landing|Data Loss Prevention Incident Response]]

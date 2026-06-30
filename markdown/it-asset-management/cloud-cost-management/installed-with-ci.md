@@ -14,7 +14,7 @@ breadcrumb: [Cloud Cost Management reference, Cloud Cost Management, IT Asset Ma
 
 # Components installed with Cloud Cost Management
 
-Several types of components are installed with activation of the [[cloud-insights-landing-page|Cloud Cost Management]] application, including tables, user roles, and scheduled jobs.
+Several types of components are installed with activation of the Cloud Cost Management application, including tables, user roles, and scheduled jobs.
 
 ## Scheduled jobs installed
 
@@ -108,7 +108,7 @@ Generates Tag Category based recommendations.
 
 </td></tr><tr><td colspan="2">
 
-**Important:** The following scheduled jobs are used only when the [[ccm-infra-stack|Cloud Cost Management Infra Stack]] application is installed in addition to Cloud Cost Management version 8.1.
+**Important:** The following scheduled jobs are used only when the Cloud Cost Management Infra Stack application is installed in addition to Cloud Cost Management version 8.1.
 
 </td></tr><tr><td>
 
@@ -1227,7 +1227,7 @@ Snapshot of the actual realised aggregated savings.
 
 </td></tr><tr><td>
 
-[[bh-cloudin|Business Hours]] Cost \[sn\_clin\_core\_bh\_cost\]
+Business Hours Cost \[sn\_clin\_core\_bh\_cost\]
 
 </td><td>
 
@@ -1495,7 +1495,7 @@ Cloud Insights Unused Recommendation \[sn\_clin\_core\_rs\_unused\_recommendatio
 
 </td><td>
 
-[[um-cloudin|Unused resources]] recommendations.
+Unused resources recommendations.
 
 </td></tr><tr><td>
 
@@ -1523,7 +1523,7 @@ Tag keys derived from billing data as well as user generated keys.
 
 </td></tr><tr><td>
 
-[[ur-cloudin|Unassigned Resources]] Count \[sn\_clin\_core\_unassigned\_count\]
+Unassigned Resources Count \[sn\_clin\_core\_unassigned\_count\]
 
 </td><td>
 
@@ -1671,7 +1671,7 @@ Spend Report Monthly Provider Agg Cost
 
 </td><td rowspan="9">
 
-[[ci-workspace|Cloud Cost Management Workspace]] loads data from these tables when a user logs in with the insights\_admin role. These tables contain monthly aggregated spend data based on various categories such as Provider and Region.
+Cloud Cost Management Workspace loads data from these tables when a user logs in with the insights\_admin role. These tables contain monthly aggregated spend data based on various categories such as Provider and Region.
 
 </td></tr><tr><td>
 
@@ -1724,11 +1724,3 @@ Spend Report Monthly Tag Agg Cost
 </td></tr></tbody>
 </table>**Parent Topic:**[Cloud Cost Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/reference-cloudinsights.md)
 
-## Related
-
-- [[cloud-insights-landing-page|Cloud Cost Management]]
-- [[ccm-infra-stack|Cloud Cost Management Infra Stack]]
-- [[bh-cloudin|Business hours]]
-- [[um-cloudin|Unused resources]]
-- [[ur-cloudin|Unassigned resources]]
-- [[ci-workspace|Cloud Cost Management Workspace]]

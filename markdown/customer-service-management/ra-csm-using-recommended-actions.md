@@ -12,7 +12,7 @@ breadcrumb: [Automate and optimize, Use, Customer Service Management]
 
 # Using the Recommended Actions application
 
-Through the [[configure-nba|Recommended Actions]] application, use the recommended actions of type guidance and guided decision tree in your workspace to resolve cases quickly. Use the field recommendation to get recommendations on the field values. Use the AI search option to search the relevant resources from various sources.
+Through the Recommended Actions application, use the recommended actions of type guidance and guided decision tree in your workspace to resolve cases quickly. Use the field recommendation to get recommendations on the field values. Use the AI search option to search the relevant resources from various sources.
 
 ## Recommended actions
 
@@ -217,7 +217,3 @@ Displays more search results.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[configure-nba|Recommended Actions]]

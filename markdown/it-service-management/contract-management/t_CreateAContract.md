@@ -14,7 +14,7 @@ breadcrumb: [Contracts, Contract Management use, Contract Management, Asset Mana
 
 # Create a contract
 
-Create a contract with various contract [[c_Models|models]], which would act as a binding agreement between the two parties.
+Create a contract with various contract models, which would act as a binding agreement between the two parties.
 
 ## Before you begin
 
@@ -30,10 +30,10 @@ If a contract has one or more associated rate cards, the fields on the Contract 
 
 ## Procedure
 
-1.  Open the list of [[c_Contracts|contracts]] that are used across your deployment.
+1.  Open the list of contracts that are used across your deployment.
 
     -   If you’re using the Core UI, navigate to **All** &gt; **Contract** and select a contract type, such as **Insurance**, **Maintenance**, or **Service**, or select **All**.
-    -   If you’re using Hardware Asset Workspace, navigate to the **[[c_ContractManagement|Contract management]]** view and then select the **All contracts** tab.
+    -   If you’re using Hardware Asset Workspace, navigate to the **Contract management** view and then select the **All contracts** tab.
     -   If you’re using Enterprise Asset Workspace, open the **Contract and lease management** view and then select the **All contracts** tab.
     -   If you’re using Software Asset Workspace, navigate to **License operations** &gt; **Contracts** &gt; **Software contracts** and select **New**.
 2.  Select **New**.
@@ -360,7 +360,7 @@ Percentage increase or decrease in price of contract. To indicate a decrease in 
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
-[[c_TermsAndConditions|Terms and Conditions]] section
+Terms and Conditions section
 
 </td></tr><tr><td>
 
@@ -453,7 +453,7 @@ Service Offerings
 
 Lists all service offerings from this vendor.
 
- [[activate-SPM2-plugin|Activate Service Portfolio Management]] to see this related list.
+ Activate Service Portfolio Management to see this related list.
 
 </td></tr><tr><td>
 
@@ -511,10 +511,3 @@ Contracts can be associated with documents. Linking a contract to related docume
 
 [extract-metadata-from-uploaded-contract-document]
 
-## Related
-
-- [[c_Models|Models]]
-- [[c_Contracts|Contracts]]
-- [[c_ContractManagement|Contract Management]]
-- [[c_TermsAndConditions|Terms and conditions]]
-- [[activate-SPM2-plugin|Activate Service Portfolio Management]]

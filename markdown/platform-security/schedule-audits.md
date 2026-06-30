@@ -20,11 +20,11 @@ Role required: admin
 
 ## About this task
 
-You [[configure-domain-separation-audits|configured one or more audits]] to run daily, weekly, or monthly. The scheduler specifies what days and times to run those audits. All audits with the same scheduling frequency run sequentially starting at the time you configure.
+You [configured one or more audits](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/configure-domain-separation-audits.md) to run daily, weekly, or monthly. The scheduler specifies what days and times to run those audits. All audits with the same scheduling frequency run sequentially starting at the time you configure.
 
 ## Procedure
 
-1.  In the [[domain-separation-center|Domain Separation Center]], click **Audit Schedules**.
+1.  In the Domain Separation Center, click **Audit Schedules**.
 
     The Audit Schedule page appears.
 
@@ -42,7 +42,7 @@ You [[configure-domain-separation-audits|configured one or more audits]] to run 
 
     5.  Repeat the procedure for the other schedules.
 
-3.  Click **Save** to save the [[sc-configuration|configuration]] changes.
+3.  Click **Save** to save the configuration changes.
 
 4.  Click **Execute Now** to run all the audits scheduled to run at the frequency shown at the top of the right pane.
 
@@ -53,8 +53,3 @@ You [[configure-domain-separation-audits|configured one or more audits]] to run 
 
 To see the status of a running audit, in the Domain Separation Center, click the number in the **Running Audits** box.
 
-## Related
-
-- [[configure-domain-separation-audits|Configure audits]]
-- [[domain-separation-center|Domain Separation Center]]
-- [[sc-configuration|Configuration]]

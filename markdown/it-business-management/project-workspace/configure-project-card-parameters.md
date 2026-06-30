@@ -14,7 +14,7 @@ breadcrumb: [Project workspace classic - Legacy, Project Portfolio Management, S
 
 # Configure parameters displayed on project cards in classic Project Workspace
 
-Configure the parameters that are displayed on a project card in **My Projects Space** page of classic [[project-workspace-landing-page|Project Workspace]]. A card shows the project summary so that project managers can quickly gauge project status and health by looking at the card.
+Configure the parameters that are displayed on a project card in **My Projects Space** page of classic Project Workspace. A card shows the project summary so that project managers can quickly gauge project status and health by looking at the card.
 
 **Important:**
 
@@ -82,6 +82,3 @@ You can configure the information which is displayed in row 2 and row3 on a card
 
 **Parent Topic:**[Project workspace classic - Legacy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/project-workspace-classic.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]

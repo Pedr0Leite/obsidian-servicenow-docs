@@ -12,7 +12,7 @@ breadcrumb: [Manage enrollment requests, Patient Support Services, Healthcare an
 
 # Life cycle of an enrollment case
 
-Enrollment cases within the [[pss-app|Patient Support Services]] application can be in one of the several states as it progresses through the fulfillment cycle.
+Enrollment cases within the Patient Support Services application can be in one of the several states as it progresses through the fulfillment cycle.
 
 **Important:**
 
@@ -119,6 +119,3 @@ Enrollment case was canceled because it was an invalid request.
 </td></tr></tbody>
 </table>**Note:** You can't edit a case when the state of the case is set to **Enrollment rejected**, **Closed complete**, **Closed incomplete**, or **Cancelled**.
 
-## Related
-
-- [[pss-app|Patient Support Services]]

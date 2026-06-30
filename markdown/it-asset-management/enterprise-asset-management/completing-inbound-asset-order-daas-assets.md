@@ -14,7 +14,7 @@ breadcrumb: [Managing inbound asset orders for requested DaaS assets, Enterprise
 
 # Completing an inbound asset order for requested Device as a Service \(DaaS\) assets
 
-After you [[create-inbound-order|create an inbound asset order]] with corresponding inbound asset order lines, you must perform various tasks to complete and close the order.
+After you create an inbound asset order with corresponding inbound asset order lines, you must perform various tasks to complete and close the order.
 
 You must complete the following tasks for each inbound asset order line within an inbound asset order:
 
@@ -39,6 +39,3 @@ After you ship the DaaS asset that you prepared for an inbound asset order line,
 
 **Parent Topic:**[Managing inbound asset orders for requested Device as a Service \(DaaS\) assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/managing-inbound-asset-orders-daas-assets.md)
 
-## Related
-
-- [[create-inbound-order|Create an inbound asset order]]

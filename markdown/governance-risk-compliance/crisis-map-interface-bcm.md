@@ -12,13 +12,13 @@ breadcrumb: [Crisis Management map, Using BCM Classic Workspace, Manage, Busines
 
 # View and manage alerts in the crisis map interface
 
-[[business-continuity-mangmt-overview|Business Continuity Management]] integrates with the Crisis Map to provide you the capability of identifying a threat and its geolocation from your asset locations.
+Business Continuity Management integrates with the Crisis Map to provide you the capability of identifying a threat and its geolocation from your asset locations.
 
 ## Before you begin
 
 It not only helps you to identify a threat as a business crisis but also notify your stakeholders and declare it as a crisis event if it has the potency to disrupt your business.
 
-**Note:** Activate the Business [[crisis-management-map-integration|Crisis Management Map]] \(sn-crisis-map\) application for the crisis map feature.
+**Note:** Activate the Business Crisis Management Map \(sn-crisis-map\) application for the crisis map feature.
 
 Role required: BCM admin or BCM Program Manager
 
@@ -42,7 +42,7 @@ Use the crisis map to manage feeds, prioritize alerts based on their severity, a
     |Change sort order \(\[Omitted image "ChangeSortOrderIcon.png"\] Alt text: Change sort order icon.\)|Sorting order of the alerts, either in ascending or descending order.|
     |Refresh Alerts \(\[Omitted image "RefreshAlertsIcon.png"\] Alt text: Refresh alerts icon.\)|Option to refresh the alert list and the map components after an update.|
 
-    Threat alerts, based on severity or in any sorting order that you have set, are displayed in a [[list-view-uib-ws|list view]]. As you point to an alert in the list of alerts, you can view additional details about the impact of the threat.
+    Threat alerts, based on severity or in any sorting order that you have set, are displayed in a list view. As you point to an alert in the list of alerts, you can view additional details about the impact of the threat.
 
     Each alert record in the list has these details:
 
@@ -82,8 +82,4 @@ Use the crisis map to manage feeds, prioritize alerts based on their severity, a
 
     You receive an email and workspace notifications every time the alert or its source feed item is updated.
 
-## Related
 
-- [[business-continuity-mangmt-overview|Business Continuity Management]]
-- [[crisis-management-map-integration|Crisis Management map]]
-- [[list-view-uib-ws|List view]]

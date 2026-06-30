@@ -15,7 +15,7 @@ breadcrumb: [Now Assist for HR Service Delivery \(HRSD\), HR Service Delivery, E
 
 # Using agentic workflows in Now Assist for HRSD
 
-Use the [[hr-service-delivery|HR Service Delivery]] AI agent collection to complete tasks autonomously.
+Use the HR Service Delivery AI agent collection to complete tasks autonomously.
 
 <table id="table_gyx_brq_l2c"><thead><tr><th>
 
@@ -75,7 +75,7 @@ Resolve noncritical HR cases
 
 </td><td>
 
-Use the [[employee-issue-resolver-na|Resolve noncritical HR cases agentic workflow]] to assess the criticality of HR cases and automatically respond to noncritical inquiries without human intervention. Human agents must intervene when requests are marked critical.
+Use the Resolve noncritical HR cases agentic workflow to assess the criticality of HR cases and automatically respond to noncritical inquiries without human intervention. Human agents must intervene when requests are marked critical.
 
 </td><td>
 
@@ -88,7 +88,7 @@ Resolve critical HR cases
 
 </td><td>
 
-Resolve critical HR requests efficiently with the [[employee-issue-resolve-critical|Resolve critical HR case agentic workflow]]. This workflow generates a tailored fulfillment plan for an HR case using fulfillment instructions, KB articles, or resolution notes of similar past cases. It helps accelerate the resolution process by providing planning support to HR agents.
+Resolve critical HR requests efficiently with the Resolve critical HR case agentic workflow. This workflow generates a tailored fulfillment plan for an HR case using fulfillment instructions, KB articles, or resolution notes of similar past cases. It helps accelerate the resolution process by providing planning support to HR agents.
 
 </td><td>
 
@@ -113,7 +113,7 @@ Create job requisition
 
 </td><td>
 
-AI agents assist [[hiring-tab-concept|hiring]] managers in creating requisitions more efficiently and accurately on the first attempt by providing the necessary guidance through the agentic workflow.
+AI agents assist hiring managers in creating requisitions more efficiently and accurately on the first attempt by providing the necessary guidance through the agentic workflow.
 
 </td><td>
 
@@ -121,11 +121,11 @@ Job requisition creation AI agent
 
 </td></tr><tr><td>
 
-[[onboarding-ramp-up-plan-agentic-wf|Generate onboarding ramp-up plan agentic workflow]]
+Generate onboarding ramp-up plan agentic workflow
 
 </td><td>
 
-Accelerate onboarding with the Generate onboarding ramp-up plan workflow, which creates personalized and team-specific plans for every new hire. Powered by AI agents, it tailors [[exploring-learning-exp|learning]] paths, [[jny-team-tasks|team tasks]], and 1:1 introductions to help employees ramp up faster, build stronger connections, and reach productivity sooner.
+Accelerate onboarding with the Generate onboarding ramp-up plan workflow, which creates personalized and team-specific plans for every new hire. Powered by AI agents, it tailors learning paths, team tasks, and 1:1 introductions to help employees ramp up faster, build stronger connections, and reach productivity sooner.
 
 </td><td>
 
@@ -135,7 +135,7 @@ Accelerate onboarding with the Generate onboarding ramp-up plan workflow, which 
 
 </td></tr><tr><td>
 
-[[offboarding-knowledge-x-agentic-wf|Offboarding knowledge transfer plan generation agentic workflow]]
+Offboarding knowledge transfer plan generation agentic workflow
 
 </td><td>
 
@@ -300,13 +300,3 @@ There might be AI agents installed with the Now Assist application that are not 
 
 **Important:** Some Now Assist skills, agents, and agentic workflows are turned on by default. For more information, see [Now Assist skills, agents, and agentic workflows on by default](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills-on-by-default.md).
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[employee-issue-resolver-na|Resolve noncritical HR cases agentic workflow]]
-- [[employee-issue-resolve-critical|Resolve critical HR case agentic workflow]]
-- [[hiring-tab-concept|Hiring]]
-- [[onboarding-ramp-up-plan-agentic-wf|Generate onboarding ramp-up plan agentic workflow]]
-- [[exploring-learning-exp|Learning]]
-- [[jny-team-tasks|Team tasks]]
-- [[offboarding-knowledge-x-agentic-wf|Offboarding knowledge transfer plan generation agentic workflow]]

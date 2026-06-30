@@ -40,11 +40,7 @@ Comments on the Healthcare EVS case are viewable on the work order, and comments
 
 \[Omitted image "cto-evs-state-sync.png"\] Alt text: EVS case state synchronization.
 
-The state of both the work order and the healthcare case remains in synchronization throughout the entire fulfillment process. Use the [[care-team-portal-landing|Care Team Portal]] to track your case state in real time through viewing case details in the portal.
+The state of both the work order and the healthcare case remains in synchronization throughout the entire fulfillment process. Use the Care Team Portal to track your case state in real time through viewing case details in the portal.
 
-**Note:** In [[cto-evs-landing|Care Team Operations for Environmental Services]], case data only synchronizes with work orders and doesn’t synchronize with work order tasks. Only updates made to the work order affect the associated case data.
+**Note:** In Care Team Operations for Environmental Services, case data only synchronizes with work orders and doesn’t synchronize with work order tasks. Only updates made to the work order affect the associated case data.
 
-## Related
-
-- [[care-team-portal-landing|Care Team Portal]]
-- [[cto-evs-landing|Care Team Operations for Environmental Services]]

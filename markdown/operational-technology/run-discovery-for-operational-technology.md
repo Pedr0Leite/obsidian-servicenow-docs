@@ -12,7 +12,7 @@ breadcrumb: [IT Discovery for Operational Technology \(OT\) Networks, Operationa
 
 # Create an OT Discovery schedule and run the Discovery process
 
-Define [[operational-technology-overview|Operational Technology]] \(OT\) Discovery schedules that orchestrate how and when the Discovery for an OT function should run. You can also perform an immediate Quick Discovery or an actual OT Discovery run.
+Define Operational Technology \(OT\) Discovery schedules that orchestrate how and when the Discovery for an OT function should run. You can also perform an immediate Quick Discovery or an actual OT Discovery run.
 
 ## Before you begin
 
@@ -115,6 +115,3 @@ Purdue level that you want the OT discovery schedule to run in or select **--Non
 
 When the IT Discovery for OT Networks process runs, it creates a history record in the Discovery Status related list.
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]

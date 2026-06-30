@@ -31,7 +31,7 @@ As a search administrator, you can customize the actions available for NLQ Geniu
 
 ## Procedure
 
-1.  Navigate to the [[ia-ai-search|AI Search]] NLQ Navigation \[ais\_nlq\_navigation\] table's list view.
+1.  Navigate to the AI Search NLQ Navigation \[ais\_nlq\_navigation\] table's list view.
 
     1.  Select **All**.
 
@@ -98,7 +98,7 @@ Profile
 
 </td><td>
 
-Optional [[reference-email-admin|reference]] to a search profile record. The navigation action only operates in search applications that use the referenced search profile. When this field is left empty, the navigation action operates for any search application that doesn't use a search profile referenced in another navigation action's **Profile** field.
+Optional reference to a search profile record. The navigation action only operates in search applications that use the referenced search profile. When this field is left empty, the navigation action operates for any search application that doesn't use a search profile referenced in another navigation action's **Profile** field.
 
  As an example, suppose you have two navigation actions: one with **Profile** referencing the `Service Portal Default Search Profile` record and a second one with no **Profile** reference field value.
 
@@ -140,7 +140,3 @@ Optional table filter for the navigation action. The action only operates for th
 
 **Parent Topic:**[NLQ Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/genius-result-nlq-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[reference-email-admin|Reference]]

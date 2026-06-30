@@ -14,7 +14,7 @@ breadcrumb: [Automated Certificate Management Environment, Certificate Inventory
 
 # Configuring ACME
 
-Configuring [[automated-certificate-management-environment_0|Automated Certificate Management Environment]] \(ACME\) helps to configure the SSL/TLS certificates automatically for web servers, enhancing security and simplifying administration.
+Configuring Automated Certificate Management Environment \(ACME\) helps to configure the SSL/TLS certificates automatically for web servers, enhancing security and simplifying administration.
 
 |Task|Description|
 |----|-----------|
@@ -22,6 +22,3 @@ Configuring [[automated-certificate-management-environment_0|Automated Certifica
 |[Set up the routing policy for ACME](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/set-up-routing-policy-for-acme.md)|Create a routing policy to establish an Automated Certificate Management Environment \(ACME\) based on factors such as Certificate Authority \(CA\), environment, and other features, ensuring efficient SSL/TLS certificate management.|
 |[Configure your base API URL for EJBCA ACME](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/configure-base-api-url-for-ejbca-acme.md)|Configure your base API URL for Keyfactor EJBCA ACME.|
 
-## Related
-
-- [[automated-certificate-management-environment_0|Automated Certificate Management Environment]]

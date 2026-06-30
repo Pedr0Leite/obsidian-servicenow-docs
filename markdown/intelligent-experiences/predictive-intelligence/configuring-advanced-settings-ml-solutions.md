@@ -14,11 +14,11 @@ breadcrumb: [Configure Predictive Intelligence, Predictive Intelligence, Enable 
 
 # Configuring advanced settings for your ML solutions
 
-Learn about advanced settings for your [[predictive-intelligence-landing|Predictive Intelligence]] machine learning \(ML\) solutions. Apply optional technology and algorithms for classification, clustering, similarity, and regression capabilities.
+Learn about advanced settings for your Predictive Intelligence machine learning \(ML\) solutions. Apply optional technology and algorithms for classification, clustering, similarity, and regression capabilities.
 
 Using advanced settings in your ML solutions is optional. If you choose to implement any of these settings, make sure you're well informed regarding the technology you're enabling in the solution, and that your use case benefits from what the technology offers. For more information about several of these parameters, see the [Dive deeper with Clustering Advanced Parameters](https://www.servicenow.com/community/intelligence-ml-articles/dive-deeper-with-clustering-advanced-parameters/ta-p/2695847) article on ServiceNow Community.
 
-Most of the advanced settings are limited to only one capability because their functionality is targeted to specific use [[cases|cases]].
+Most of the advanced settings are limited to only one capability because their functionality is targeted to specific use cases.
 
 ## Classification, clustering, similarity, and regression advanced settings
 
@@ -70,7 +70,3 @@ Reduce noise in your classification model and enhance predictive accuracy by rem
 
 **Parent Topic:**[Configure Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/configure-predictive-intelligence.md)
 
-## Related
-
-- [[predictive-intelligence-landing|Predictive Intelligence]]
-- [[cases|Cases]]

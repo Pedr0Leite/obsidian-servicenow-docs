@@ -14,7 +14,7 @@ breadcrumb: [Explore, Digital Portfolio Management, IT Service Management]
 
 # DevOps value stream metrics in Digital Portfolio Management
 
-View key metrics related to the performance of your solutions in [[dpm-landing|Digital Portfolio Management]] \(DPM\). If you manage your solutions in a DevOps model, then you can view DevOps data for your business [[dex-workspace-application-tab|applications]] as well as link to the DevOps Change Workspace directly from DPM.
+View key metrics related to the performance of your solutions in Digital Portfolio Management \(DPM\). If you manage your solutions in a DevOps model, then you can view DevOps data for your business applications as well as link to the DevOps Change Workspace directly from DPM.
 
 Key metrics help you evaluate the impact on the performance of work being done on your solutions. View DevOps value stream metrics in the context of your business applications in DPM, for example, mean time to restore from changes, change failure rates, and lead time. You can also access the DevOps Change Workspace directly from your business applications in DPM to make data-driven decisions. Accelerate metrics are displayed on both the **Build** tab and the **Run** tab so that you can view the data in the context of your business applications for each phase. You can see flow metrics data on the **Build** tab of your business applications.
 
@@ -46,7 +46,3 @@ On the **Run** tab of your business applications, view the following accelerate 
 -   Change failure rate over time, broken out by DevOps changes and non- DevOps changes
 -   Mean time to restore
 
-## Related
-
-- [[dpm-landing|Digital Portfolio Management]]
-- [[dex-workspace-application-tab|Applications]]

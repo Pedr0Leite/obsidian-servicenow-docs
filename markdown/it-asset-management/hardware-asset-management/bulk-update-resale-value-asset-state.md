@@ -23,7 +23,7 @@ Role required: admin
 
 ## About this task
 
-Download the list of the planned assets from the Disposal Documentation task and bulk update whether you want to resell or dispose of the assets. For the assets planned for resale, provide the resale value and save it. Import the updated sheet into the [[using-ham-workspace|Hardware Asset Workspace]]. After successful import of the resale sheet, on the Disposal Documentation task, in **Planned Asset** tab, the Resold value column data is auto populated. You can proceed with the asset resale for these planned assets.
+Download the list of the planned assets from the Disposal Documentation task and bulk update whether you want to resell or dispose of the assets. For the assets planned for resale, provide the resale value and save it. Import the updated sheet into the Hardware Asset Workspace. After successful import of the resale sheet, on the Disposal Documentation task, in **Planned Asset** tab, the Resold value column data is auto populated. You can proceed with the asset resale for these planned assets.
 
 ## Procedure
 
@@ -92,6 +92,3 @@ On the **Planned Asset** tab, select the assets and proceed with resale. For mor
 
 [Create a disposal order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-disposal-order.md)
 
-## Related
-
-- [[using-ham-workspace|Hardware Asset Workspace]]

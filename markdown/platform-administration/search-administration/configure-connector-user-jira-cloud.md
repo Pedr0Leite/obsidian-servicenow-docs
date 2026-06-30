@@ -15,7 +15,7 @@ breadcrumb: [Atlassian Jira Cloud external content connector, Configure, Externa
 
 # Configure a connector user in Atlassian Jira Cloud
 
-[[t_CreateAUser|Create a user]] and group in your Atlassian Jira Cloud tenant with access and permissions required by the [[atlassian-jira-cloud-external-content-connector|Atlassian Jira Cloud external content connector]]. The connector runs as this user when accessing data from your tenant.
+Create a user and group in your Atlassian Jira Cloud tenant with access and permissions required by the Atlassian Jira Cloud external content connector. The connector runs as this user when accessing data from your tenant.
 
 ## Before you begin
 
@@ -62,12 +62,7 @@ Atlassian administrators need to create and configure this user as part of confi
 
 ## What to do next
 
-Provide the technical user credentials to your search administrators so they can use them when creating Atlassian Jira Cloud [[ext-cont-connectors-landing-page|external content connectors]].
+Provide the technical user credentials to your search administrators so they can use them when creating Atlassian Jira Cloud external content connectors.
 
 **Parent Topic:**[Atlassian Jira Cloud external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/atlassian-jira-cloud-external-content-connector.md)
 
-## Related
-
-- [[t_CreateAUser|Create a user]]
-- [[atlassian-jira-cloud-external-content-connector|Atlassian Jira Cloud external content connector]]
-- [[ext-cont-connectors-landing-page|External Content Connectors]]

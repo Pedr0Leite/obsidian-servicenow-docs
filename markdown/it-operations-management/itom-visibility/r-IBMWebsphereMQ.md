@@ -14,7 +14,7 @@ breadcrumb: [Software discovery, Data collected by ITOM Visibility, ITOM Visibil
 
 # IBM MQ discovery
 
-The ServiceNow [[r-discovery|Discovery]] application uses the WMQ On Unix and WMQ On Windows patterns to find IBM MQ \(formerly IBM WebSphere MQ\) resources. Discovering some of these resources may require updating to the latest version of the Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns application from the ServiceNow Store.
+The ServiceNow Discovery application uses the WMQ On Unix and WMQ On Windows patterns to find IBM MQ \(formerly IBM WebSphere MQ\) resources. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 ## Request apps on the Store
 
@@ -42,7 +42,3 @@ Discovery populates the data in the CMDB when running the WMQ patterns.
 
 **Parent Topic:**[Software discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_Software.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

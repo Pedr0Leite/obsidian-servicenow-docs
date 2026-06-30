@@ -41,7 +41,7 @@ Accept Risk moves the Problem to Closed state instead of Resolved stateproblem.a
 
 </td></tr><tr><td>
 
-Can [[create-problem-task|create a Problem Task]] on a Closed Problem?problem.closed.can\_create\_tasks
+Can create a Problem Task on a Closed Problem?problem.closed.can\_create\_tasks
 
 </td><td>
 
@@ -101,7 +101,7 @@ Who can Re-assess a Completed or Canceled Problem Task?problem\_task.closed.role
 
 </td></tr><tr><td>
 
-Can Re-[[assess-a-problem-task|Assess a Problem Task]] on a Closed Problem?problem\_task.closed.can\_reassess\_on\_closed\_problem
+Can Re-Assess a Problem Task on a Closed Problem?problem\_task.closed.can\_reassess\_on\_closed\_problem
 
 </td><td>
 
@@ -184,7 +184,3 @@ Allow problem creation from interactionglide.problem.interaction.allow\_create
 </td></tr></tbody>
 </table>**Parent Topic:**[Reference section for Problem Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/reference-section-for-problem-management.md)
 
-## Related
-
-- [[create-problem-task|Create a problem task]]
-- [[assess-a-problem-task|Assess a problem task]]

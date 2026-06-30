@@ -16,7 +16,7 @@ breadcrumb: [Performance Analytics Content Pack for Agile 2.0, Agile Development
 
 Prior Sprint Dashboard provides data visualization on scope, actual burndown and burnup, and forecast trends of previous sprints. Analyze the data and plan the work for upcoming sprints.
 
-Navigate to **All** &gt; **[[agile-development|Agile Development]]** &gt; **Dashboards** and select **Agile 2.0 Prior Sprint Dashboard**.
+Navigate to **All** &gt; **Agile Development** &gt; **Dashboards** and select **Agile 2.0 Prior Sprint Dashboard**.
 
 \[Omitted image "agile-prior-sprint-widgets.png"\] Alt text: Agile 2.0 prior sprint dashboard widgets.
 
@@ -95,7 +95,7 @@ The following are the breakdowns used by the indicators.
 
 ## Data visualizations
 
-If you are upgrading from version 1.0.2 or earlier of [[pa-content-pack-for-agile-2.0|Performance Analytics Content Pack for Agile 2.0]], then install this dashboard from Solution Library to upgrade its layout and access the Sprint Burnup visualization. For more information, see [Upgrading the layout of Agile 2.0 dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/using-solution-library-for-agile-2.0-dashboards.md).
+If you are upgrading from version 1.0.2 or earlier of Performance Analytics Content Pack for Agile 2.0, then install this dashboard from Solution Library to upgrade its layout and access the Sprint Burnup visualization. For more information, see [Upgrading the layout of Agile 2.0 dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/using-solution-library-for-agile-2.0-dashboards.md).
 
 <table id="table_mbk_ndk_k3b"><thead><tr><th>
 
@@ -156,7 +156,3 @@ Shows the previous sprint burnup trend indicating scope changes. Analyze future 
 
 **Parent Topic:**[Performance Analytics Content Pack for Agile 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/pa-content-pack-for-agile-2.0.md)
 
-## Related
-
-- [[agile-development|Agile Development]]
-- [[pa-content-pack-for-agile-2.0|Performance Analytics Content Pack for Agile 2.0]]

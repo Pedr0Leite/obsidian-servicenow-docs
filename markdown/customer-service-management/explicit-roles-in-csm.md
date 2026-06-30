@@ -26,7 +26,7 @@ Do not mark the snc\_internal role as elevated. Otherwise, internal users cannot
 
 ## Recommended CSM roles for internal and external users
 
-Customers \(external users\) using the [[c_CustomerServiceManagement|Customer Service Management]] application should be assigned either the sn\_customerservice.customer or the sn\_customerservice.consumer role. Customer service agents \(internal users\) should be assigned either the sn\_customerservice\_agent or sn\_customerservice\_consumer\_agent role. The system ensures that the same user is not assigned both a customer \(external\) and agent \(internal\) role.
+Customers \(external users\) using the Customer Service Management application should be assigned either the sn\_customerservice.customer or the sn\_customerservice.consumer role. Customer service agents \(internal users\) should be assigned either the sn\_customerservice\_agent or sn\_customerservice\_consumer\_agent role. The system ensures that the same user is not assigned both a customer \(external\) and agent \(internal\) role.
 
 ## Explicit Roles plugin
 
@@ -72,7 +72,7 @@ The Explicit Roles plugin assumes that all existing users in the sys\_user table
 
 The fix script may fail or may not finish in time for a user who has not been updated with the role and who attempts to access a resource. To bridge this potential gap, the Contextual Security Manager \(CSM\) auto-assigns the snc\_internal role to any user who logs in and does not have an explicit role \(either internal or external\).
 
-Additionally, CSM has a business rule process that assigns the snc\_external role to a classification of their users. However, when importing large sets of CSM external customers, workflow is set to false, so business [[gamification-components-rules|rules]] don't run. As those users attempt to access a resource, they do not have any explicit roles. The Contextual Security Manager assigns the snc\_internal role through a scheduled job called On-Call Gaps Conflicts Report that runs every 7 days. When the Explicit Roles plugin is active, this job assigns the snc\_internal role to the CSM external user, since the user does not have either the snc\_internal or snc\_external role.
+Additionally, CSM has a business rule process that assigns the snc\_external role to a classification of their users. However, when importing large sets of CSM external customers, workflow is set to false, so business rules don't run. As those users attempt to access a resource, they do not have any explicit roles. The Contextual Security Manager assigns the snc\_internal role through a scheduled job called On-Call Gaps Conflicts Report that runs every 7 days. When the Explicit Roles plugin is active, this job assigns the snc\_internal role to the CSM external user, since the user does not have either the snc\_internal or snc\_external role.
 
 To prevent inadvertently providing the snc\_internal role to external users, the Explicit Roles plugin includes a **glide.security.explicit\_roles.internal\_user\_blacklist** property to exclude user types from ever becoming snc\_internal. If there are no users types in the glide.security.explicit\_roles.internal\_user\_blacklist table, the Contextual Security Manager assigns all users the snc\_internal role by default. If there are classnames in the blacklist table, and if the sys\_user class type is in the blacklist table, CSM assigns the snc\_external role. Otherwise, CSM assigns the default snc\_internal role as usual.
 
@@ -80,7 +80,7 @@ For the Paris release, this property is enabled by default for zBoot instances a
 
 ## Providing table access to external users
 
-You can provide external users access to a table by adding a role to the table that inherits the snc\_external role. For more information, see [[t_ProvideExternalUsersAccessToTables|Provide external users access to a table]].
+You can provide external users access to a table by adding a role to the table that inherits the snc\_external role. For more information, see [Provide external users access to a table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/t_ProvideExternalUsersAccessToTables.md).
 
 ## The hasRoles\(\) method
 
@@ -360,11 +360,5 @@ For indirect cases,such as adding an explicit role to a group \(so that a group 
 
 Note that the ServiceNow AI Platform reports only the first potential collision encountered. If repeated attempts continue to fail after remediation, with a new root cause each time, re-evaluate the relevant user/group/role interdependence more broadly. You may want to rethink how groups and role containments are structured.
 
-**Parent Topic:**[[r_RolesInstalledWithCustomerService|Roles installed with Customer Service Management]]
+**Parent Topic:**[Roles installed with Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_RolesInstalledWithCustomerService.md)
 
-## Related
-
-- [[t_ProvideExternalUsersAccessToTables|Provide external users access to a table]]
-- [[r_RolesInstalledWithCustomerService|Roles installed with Customer Service Management]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[gamification-components-rules|Rules]]

@@ -14,7 +14,7 @@ breadcrumb: [Field Service Contractor for mobile, ServiceNow Agent mobile app, C
 
 # View details screen on the Field Service Contractor for mobile
 
-Use [[wot-fsc|Field Service Contractor for mobile]] application to view work order fields detail.
+Use Field Service Contractor for mobile application to view work order fields detail.
 
 ## Before you begin
 
@@ -52,6 +52,4 @@ The Details screen shows complete information about a work order task. The contr
     |Assignment group|Group that has contains the individual agent or vendor to complete the task. By default, this field shows the recommended assignment groups based on the location, asset, and skills for the task. If the field is empty, the system searches for the group covering the territory that includes the location of the task.|
     |Assigned to|Shows the agent or manager currently assigned to the task|
 
-## Related
 
-- [[wot-fsc|Field Service Contractor for mobile]]

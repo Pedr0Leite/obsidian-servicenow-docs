@@ -14,7 +14,7 @@ breadcrumb: [Advanced AI Search Management Tools, Search administration, Configu
 
 # AI Search analytics dashboard
 
-The AI Search analytics dashboard displays key performance [[c_MetricDefinitionSupport|metrics]], trends, and reports for [[ia-ai-search|AI Search]] usage. Analysts can apply interactive filters to view performance analytics for individual search applications and to select the time frame to analyze.
+The AI Search analytics dashboard displays key performance metrics, trends, and reports for AI Search usage. Analysts can apply interactive filters to view performance analytics for individual search applications and to select the time frame to analyze.
 
 To access the AI Search analytics dashboard, navigate to **All** &gt; **Usage Insights**, select an application's **Launch Dashboard** link, then select the Search Analytics icon \[Omitted image "icon-appsee-ai-srch-analytics.png"\] Alt text: or link in the modules menu. To learn more about the Usage Insights dashboard, see [Overview of the dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/user-exp-analytics-dashboard.md).
 
@@ -57,7 +57,7 @@ Any of the following:-   Service Portal Analytics administrator or viewer
 
 -   View and monitor search usage and search performance for a specified search application and date range
 -   Review search trends to better understand the needs of search application end users
--   Gain insights on how to improve search experience and knowledge coverage by identifying common search queries that yield no [[hs-results|results]] or low-quality results
+-   Gain insights on how to improve search experience and knowledge coverage by identifying common search queries that yield no results or low-quality results
 
 </td></tr></tbody>
 </table>## Interactive filters
@@ -78,7 +78,7 @@ Search application
 
 Specifies the search application configuration for which you want to see search analytics metrics, trends, and reports. You can search for a search application configuration or select its name in the list. Select **Apply** to make your filter selection take effect.**Note:** You can only select a single search application configuration in this filter.
 
-The filter list includes [[defining-search-app-cfgs-ais|search application configurations]] that are configured to use AI Search and that are used in any of the following contexts:
+The filter list includes search application configurations that are configured to use AI Search and that are used in any of the following contexts:
 
 -   A service portal
 -   A Next Experience workspace search
@@ -275,10 +275,3 @@ This list shows the most frequently clicked search results.\[Omitted image "ai-s
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_MetricDefinitionSupport|Metrics]]
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]
-- [[defining-search-app-cfgs-ais|Search application configurations]]

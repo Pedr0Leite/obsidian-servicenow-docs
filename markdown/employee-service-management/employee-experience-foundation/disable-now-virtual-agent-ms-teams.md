@@ -14,7 +14,7 @@ breadcrumb: [Integration for Employee Experience, Setup for integrating pre-publ
 
 # Disable the Now Virtual Agent
 
-[[disable-now-virtual-agent-ms-teams-st|Disable the Now Virtual Agent]] app to avoid duplicate notifications from Microsoft Teams when you install and integrate ServiceNow for Microsoft Teams with your ServiceNow instance.
+Disable the Now Virtual Agent app to avoid duplicate notifications from Microsoft Teams when you install and integrate ServiceNow for Microsoft Teams with your ServiceNow instance.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ ServiceNow has two apps available for Microsoft Teams:
 
 -   ServiceNow for Microsoft Teams
 
-    ServiceNow for Microsoft Teams is a new app that provides a broader employee experience, including and expanding beyond Virtual Agent, with an embedded portal experience called **[[employee-center-landing-page|Employee Center]]**, and the ability for agents to reach out to employees in Microsoft Teams to quickly resolve open tickets.
+    ServiceNow for Microsoft Teams is a new app that provides a broader employee experience, including and expanding beyond Virtual Agent, with an embedded portal experience called **Employee Center**, and the ability for agents to reach out to employees in Microsoft Teams to quickly resolve open tickets.
 
 
 Since the same Bot \(Virtual Agent\) is shared in both apps, blocking the Now Virtual Agent app also results in the same bot ID being blocked for the ServiceNow for Microsoft Teams app, making the Virtual Agent unusable in the ServiceNow for Microsoft Teams app. To work around this issue, it is necessary to make sure that the Now Virtual Agent app is in the list of allowed apps.
@@ -58,7 +58,3 @@ You must first block the Now Virtual Agent app, so it stops showing up for emplo
 
 **Parent Topic:**[Setup for integrating pre-published apps with Microsoft Teams for Employee Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/c_employee_ex_tnt.md)
 
-## Related
-
-- [[disable-now-virtual-agent-ms-teams-st|Disable the Now Virtual Agent]]
-- [[employee-center-landing-page|Employee Center]]

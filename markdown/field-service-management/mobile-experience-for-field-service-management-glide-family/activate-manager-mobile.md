@@ -14,7 +14,7 @@ breadcrumb: [Setting up Field Service Mobile Agent, Configure, Field Service Man
 
 # Activate Field Service Manager Mobile
 
-Activate the [[manager-mobile-app|Field Service Manager Mobile]] app to let managers effectively manage their teams from their mobile device.
+Activate the Field Service Manager Mobile app to let managers effectively manage their teams from their mobile device.
 
 ## Before you begin
 
@@ -36,6 +36,4 @@ For more information on how Field Service Manager Mobile works, see [Field Servi
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
-## Related
 
-- [[manager-mobile-app|Field Service Manager Mobile]]

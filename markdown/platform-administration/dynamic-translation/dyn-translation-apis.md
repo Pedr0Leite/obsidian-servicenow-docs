@@ -20,9 +20,5 @@ This API is available as part of Server APIs, Client APIs, and Service Portal AP
 
 No matter what translation service provider you choose, this API works on a standard set of inputs and outputs, and displays standard error codes and messages.
 
-There are a few limitations when you [[integrate-translation-service-provider|integrate with a translation service provider]] to enable the [[dynamic-translation|Dynamic Translation]] experience. For more information, see [Limitations in Dynamic Translation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/limitations-dynamic-translation.md).
+There are a few limitations when you integrate with a translation service provider to enable the Dynamic Translation experience. For more information, see [Limitations in Dynamic Translation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/limitations-dynamic-translation.md).
 
-## Related
-
-- [[integrate-translation-service-provider|Integrate with a translation service provider]]
-- [[dynamic-translation|Dynamic translation]]

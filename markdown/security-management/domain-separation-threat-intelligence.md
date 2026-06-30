@@ -12,7 +12,7 @@ breadcrumb: [Understanding Threat Intelligence, Threat Intelligence, Enterprise 
 
 # Domain separation and Threat Intelligence
 
-Domain separation is supported in the [[threat-intel-landing-page|Threat Intelligence]] module that is available as part of [[sir-landing-page|Security Incident Response]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported in the Threat Intelligence module that is available as part of Security Incident Response. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic
 
@@ -29,8 +29,8 @@ For more information on support levels, see [Application support for domain sepa
 In the Threat Intelligence module \(as part of the Security Incident Response application\), domain separation enables service providers \(SPs\) to create and manage the threat intelligence repository in the following ways:
 
 -   Threat sources and Trusted Automated Exchange of Indicator Information \(TAXII\) profiles
--   [[c_Observables|Observables]]
--   [[c_IoCs|Indicators of compromise]]
+-   Observables
+-   Indicators of compromise
 -   Threat attack modes / methods and case management across the customer base they serve with lowered operational costs and a higher quality of service
 
 Having separate customer work spaces for workflows, dashboards, reports, and so on, ensures that customer data is separated and never exposed to other clients.
@@ -41,7 +41,7 @@ Domain separation for the Threat Intelligence module \(as part of the Security I
 
 -   Security incident observables are directed to the appropriate domain of the user whose ID/ Credential/ Scope generates the incident. The observables extracted from the incident are stored in the domain of the security incident.
 -   Setting up of TAXII service profiles to download one or more TAXII collections that offer cyber-threat information feeds. The configuration is stored in the domain under which the profile is being set up.
--   Setting up the download of threat feeds into the [[ioc-repository|IOC repository]] in the domain under which the configuration is being performed.
+-   Setting up the download of threat feeds into the IOC repository in the domain under which the configuration is being performed.
 -   Creation of attack mode/methods in the domain of the threat intelligence source that provides the information automatically or the domain under which a new attack mode/method is being added manually by the user
 -   Creation of cases for long-term investigation of incidents, observables, CIs, users, and indicators of compromise \(IOC\) associated with the case. The case is stored in the domain created by the user.
 
@@ -57,11 +57,11 @@ Threat Intelligence is part of Security Incident Response in the Professional an
     -   Manually keyed in by the SOC analyst
 -   Collection of observables from threat feed sources - Threat intelligence sources from TAXII collections
 -   Manage security incident observables
-    -   Associate observables with related [[indicator|indicators]]
+    -   Associate observables with related indicators
     -   Associate observables with security incidents
     -   Associate observables with child observables
     -   Associate observable to threat feed source
-    -   Add [[security-annotations|security annotations]] to observables
+    -   Add security annotations to observables
 -   Manage indicators of compromise
     -   Associate indicators with related observables
     -   Associate indicators with attack mode/method
@@ -111,7 +111,7 @@ The following tasks can be configured per domain:
     -   Schedule the download of threat intel information
     -   Choose threat details information to assign to the source
 3.  Creation of attack mode/methods \(manual\)
-    -   Source, [[threat-intelligence-malware|malware]] type, attack mechanism, [[threat-actor|threat actor]] type, description, handling, intended effect, first seen, last seen
+    -   Source, malware type, attack mechanism, threat actor type, description, handling, intended effect, first seen, last seen
     -   Related indicators, child attack mode/method, associated security incidents
 
         **Note:** Attack modes/methods are auto-created from the threat feed sources as well.
@@ -127,7 +127,7 @@ The following tasks can be configured per domain:
     -   Rate limit definitions
     -   Threat actor types
     -   Attack motivations
-    -   [[threat-intelligence-infrastructure|Infrastructure]] types
+    -   Infrastructure types
     -   Malware capabilities
     -   Malware types
     -   Report types
@@ -148,15 +148,3 @@ The following tasks can be configured per domain:
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[sir-landing-page|Security Incident Response]]
-- [[c_Observables|Observables]]
-- [[c_IoCs|Indicators of compromise]]
-- [[ioc-repository|IoC Repository]]
-- [[indicator|Indicators]]
-- [[security-annotations|Security annotations]]
-- [[threat-intelligence-malware|Malware]]
-- [[threat-actor|Threat Actor]]
-- [[threat-intelligence-infrastructure|Infrastructure]]

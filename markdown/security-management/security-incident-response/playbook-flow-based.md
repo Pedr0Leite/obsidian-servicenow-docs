@@ -14,18 +14,18 @@ breadcrumb: [Security Incident Response playbooks, Playbook Resources, Security 
 
 # Flow-based Playbooks
 
-Using the Flow Designer, security administrators and flow design authors can more easily transition from manual or undocumented [[tisc-playbooks-admin|playbooks]] to automated and repeatable playbooks. The drag-and-drop feature provides flexibility in moving objects, condition checks, parallel branching, decision tables, and more.
+Using the Flow Designer, security administrators and flow design authors can more easily transition from manual or undocumented playbooks to automated and repeatable playbooks. The drag-and-drop feature provides flexibility in moving objects, condition checks, parallel branching, decision tables, and more.
 
-[[sir-landing-page|Security Incident Response]] provides the following playbooks with the base system.
+Security Incident Response provides the following playbooks with the base system.
 
-In addition to the listed playbooks, there are also subflows in [[security-operations-landing-page|Security Operations]] Spoke that can be called from the flows playbook. Ransomware is one of that subflows.
+In addition to the listed playbooks, there are also subflows in Security Operations Spoke that can be called from the flows playbook. Ransomware is one of that subflows.
 
 Activate these flows before you use them. For more information, see [Activate a Security Incident Response flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/getting-started-phishing-playbook.md).
 
 -   **[Playbook for Automated Phishing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/flow-designer-and-phishing-response.md)**  
 The Automated Phishing playbook helps you resolve certain types of security threats in a step-by-step manner. With the flow designer templates, you can automate the steps in the phishing response playbook and resolve incidents quickly and efficiently.
 -   **[Playbook for Automated Malware](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/cj-sir-about-malware-flow.md)**  
-The Automated [[threat-intelligence-malware|Malware]] playbook provides a sequence of automated steps that helps you resolve malware alerts quickly and efficiently.
+The Automated Malware playbook provides a sequence of automated steps that helps you resolve malware alerts quickly and efficiently.
 -   **[Playbook for Failed Login Manual](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/cj-sir-flow-library2.md)**  
 When a user makes certain unsuccessful login attempts \(according to the SIM configuration\), a security incident is created.
 -   **[Playbook for Child Security Incident Automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/cj-sir-flow-library4.md)**  
@@ -55,9 +55,9 @@ This playbook provides systematic remediation steps to investigate incidents tha
 -   **[Playbook for User Deleting Bash History - Cloud](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbook-deleting-bash-history.md)**  
 This playbook provides systematic remediation steps to investigate incidents that indicate if someone was trying to remove the bash history \(`.bash_history`\) file from a Linux server.
 -   **[Playbook for Successful VPN Attempts from the Service Accounts - Corp/Cloud](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbook-successful-vpn-attempts.md)**  
-This playbook provides systematic remediation steps to investigate incidents that track successful login attempts from service accounts through VPN. Service accounts aren’t supposed to have login events from a VPN, and such events could be [[indicator|indicators]] of either brute force or possible exposure of the account's credentials.
+This playbook provides systematic remediation steps to investigate incidents that track successful login attempts from service accounts through VPN. Service accounts aren’t supposed to have login events from a VPN, and such events could be indicators of either brute force or possible exposure of the account's credentials.
 -   **[Playbook for Attempted Access to Deactivated Accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbook-attempted-access-deactivated-accounts.md)**  
-This playbook triggers when an employee whose account is terminated, disabled, or separated attempts to log in with their credentials. User’s [[identity|identity]] state in Sail point generally gets updated to disabled on their termination date.
+This playbook triggers when an employee whose account is terminated, disabled, or separated attempts to log in with their credentials. User’s identity state in Sail point generally gets updated to disabled on their termination date.
 -   **[Playbook for T1003 - Defense Evasion - Mimikatz DCShadow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbook-defense-evasion-mimikatz-dcshadow.md)**  
 This playbook provides systematic remediation steps to investigate incidents suspected to be caused by Mimikatz DCShadow. DCShadow is a feature in Mimikatz that simulates the behavior of a Domain Controller \(a server controlling Active Directory\) to inject its own data, bypassing most of the standard security controls \(including SIEMs\).
 -   **[Playbook for T1003 - Credential Dumping - Mimikatz DCSync](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbook-credential-dumping-mimikatz-dcsync.md)**  
@@ -74,11 +74,3 @@ This playbook provides systematic remediation steps to investigate incidents of 
 
 [Process-based Playbooks]()
 
-## Related
-
-- [[tisc-playbooks-admin|Playbooks]]
-- [[sir-landing-page|Security Incident Response]]
-- [[security-operations-landing-page|Security Operations]]
-- [[threat-intelligence-malware|Malware]]
-- [[indicator|Indicators]]
-- [[identity|Identity]]

@@ -30,7 +30,7 @@ You must provide a time range for each jeopardy level. When the time range is re
 
     \[Omitted image "jm-order-line-item-jeopardy-level-calc.png"\] Alt text: The image shows the Order Line Item Jeopardy Level Calculation policy window in Workflow Studio.
 
-3.  On the Order Line Item Jeopardy Level Calculation Policy decision table, fill in the [[fields|fields]].
+3.  On the Order Line Item Jeopardy Level Calculation Policy decision table, fill in the fields.
 
 <table id="table_wfc_vbj_1yb"><thead><tr><th>
 
@@ -72,18 +72,12 @@ For example, if the minimum and maximum values in the **Delayed Percentage** fie
 
 ## What to do next
 
-[[configure-order-task-jeopardy-level-calculation-policy|Configure the Order Task Jeopardy Level Calculation Policy]]
+[Configure the Order Task Jeopardy Level Calculation Policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-order-task-jeopardy-level-calculation-policy.md)
 
 **Related topics**  
 
 
-[[jeopardy-management|Jeopardy Management]]
+[Jeopardy Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/jeopardy-management.md)
 
-[[monitoring-jeopardy-management|Monitoring order jeopardy]]
+[Monitoring order jeopardy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/monitoring-jeopardy-management.md)
 
-## Related
-
-- [[configure-order-task-jeopardy-level-calculation-policy|Configure the Order Task Jeopardy Level Calculation Policy]]
-- [[jeopardy-management|Jeopardy Management]]
-- [[monitoring-jeopardy-management|Monitoring order jeopardy]]
-- [[fields|Fields]]

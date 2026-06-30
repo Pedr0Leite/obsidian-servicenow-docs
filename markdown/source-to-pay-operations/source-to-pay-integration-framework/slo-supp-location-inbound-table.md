@@ -14,7 +14,7 @@ breadcrumb: [Inbound staging tables for Supplier Lifecycle Operations, Inbound s
 
 # Supplier Location inbound staging table
 
-The [[supplier|Supplier]] location inbound \[sn\_fcms\_intg\_supplier\_location\_inbound\] staging table temporarily stores important data about the geographical location of a supplier before this data is sent to the Supplier Location \[sn\_slm\_m2m\_location\] and Location \[cmn\_location\] primary tables.
+The Supplier location inbound \[sn\_fcms\_intg\_supplier\_location\_inbound\] staging table temporarily stores important data about the geographical location of a supplier before this data is sent to the Supplier Location \[sn\_slm\_m2m\_location\] and Location \[cmn\_location\] primary tables.
 
 ## Supplier location inbound staging table
 
@@ -123,7 +123,7 @@ Indicates whether the supplier location is a duplicate or not.
 
 </td></tr><tr><td>
 
-[[erp-source|ERP source]]
+ERP source
 
 </td><td>
 
@@ -371,12 +371,7 @@ Zip code of the supplier location.
 
 [Supplier inbound staging table]()
 
-[Supplier [[legal-entity|Legal Entity]] mapping inbound staging table]()
+[Supplier Legal Entity mapping inbound staging table]()
 
 [Supplier Payment inbound staging table]()
 
-## Related
-
-- [[supplier|Supplier]]
-- [[erp-source|ERP source]]
-- [[legal-entity|Legal entity]]

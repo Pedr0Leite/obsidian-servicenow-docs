@@ -14,7 +14,7 @@ breadcrumb: [Setting up Advanced Work Assignment for Supplier Lifecycle Operatio
 
 # Configure Agent Chat for Source-to-Pay Workspace
 
-Use Agent Chat Settings to [[configure-agent-chat-spo|configure Agent Chat for Source-to-Pay Workspace]].
+Use Agent Chat Settings to configure Agent Chat for Source-to-Pay Workspace.
 
 ## Before you begin
 
@@ -41,7 +41,7 @@ Role required: admin
 
 ## Result
 
-After Agent Chat for [[purch-order-mgmt-ws|Source-to-Pay Workspace]] is configured, chat routing is not active until AWA is also configured.
+After Agent Chat for Source-to-Pay Workspace is configured, chat routing is not active until AWA is also configured.
 
 **Parent Topic:**[Setting up Advanced Work Assignment for Supplier Lifecycle Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/awa-slm-config.md)
 
@@ -52,7 +52,3 @@ After Agent Chat for [[purch-order-mgmt-ws|Source-to-Pay Workspace]] is configur
 
 [Configure the Supplier Collaboration Queue](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/configure-scp-queue.md)
 
-## Related
-
-- [[configure-agent-chat-spo|Configure Agent Chat for Source-to-Pay Workspace]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

@@ -14,7 +14,7 @@ breadcrumb: [Embedded Help internationalization, Embedded Help planning, Configu
 
 # Create internationalized embedded help
 
-Translate provided English [[embedded-help|embedded help]] content into other languages or create custom embedded help content in the language of your choice.
+Translate provided English embedded help content into other languages or create custom embedded help content in the language of your choice.
 
 ## Before you begin
 
@@ -71,7 +71,7 @@ Modifier
 </td><td>
 
 -   **Normal** content appears for any user with the appropriate role who navigates to the page.
--   **Setup** content appears when the page is accessed from a link in [[guided-setup|Guided Setup]].
+-   **Setup** content appears when the page is accessed from a link in Guided Setup.
 
 
 </td></tr><tr><td>
@@ -156,7 +156,3 @@ Specify the domain this content is used for, if applicable.This field appears in
 
 **Parent Topic:**[Embedded Help internationalization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/embedded-help-internationalization.md)
 
-## Related
-
-- [[embedded-help|Embedded Help]]
-- [[guided-setup|Guided Setup]]

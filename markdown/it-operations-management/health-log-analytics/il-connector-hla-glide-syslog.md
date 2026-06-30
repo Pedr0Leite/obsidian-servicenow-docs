@@ -19,7 +19,7 @@ Set up an integration for streaming log data from your ServiceNow platform's Sys
 
 ## Before you begin
 
--   Verify that the [[hla-landing-page|Health Log Analytics]] application is installed and provisioned on your instance. For more information, see [Install Health Log Analytics \(HLA\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/install-health-log-analytics.md).
+-   Verify that the Health Log Analytics application is installed and provisioned on your instance. For more information, see [Install Health Log Analytics \(HLA\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/install-health-log-analytics.md).
 -   Verify that a service instance is available.
 -   Verify that the HLA Engine is up and running.
 
@@ -33,7 +33,7 @@ Role required: evt\_mgmt\_admin
 
 ## About this task
 
-Set up an integration from the Integrations Launchpad in [[workspace-dashboard-use|Service Operations Workspace]], which you access from the [[itom-aiops-conf-center|ITOM AIOps configuration center]]. The AIOps configuration center is a centralized workspace for configuring and managing AIOps features from a single place. The integrations setup process reduces implementation time compared to manual data input setup in the classic interface in Health Log Analytics. For more information, see [Integrations Launchpad in Service Operations Workspace for ITOM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/integrations-launchpad.md).
+Set up an integration from the Integrations Launchpad in Service Operations Workspace, which you access from the ITOM AIOps configuration center. The AIOps configuration center is a centralized workspace for configuring and managing AIOps features from a single place. The integrations setup process reduces implementation time compared to manual data input setup in the classic interface in Health Log Analytics. For more information, see [Integrations Launchpad in Service Operations Workspace for ITOM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/integrations-launchpad.md).
 
 ## Procedure
 
@@ -61,7 +61,7 @@ Set up an integration from the Integrations Launchpad in [[workspace-dashboard-u
 
 8.  On the **Set data retrieval method** page, build conditions for filtering log data from the System Log table before it is streamed to the HLA engine.
 
-    This page helps you focus on the specific logs you want to monitor. For example, you might want to look at [[r-discovery|Discovery]] logs or exclude email logs. By default, all logs are included.
+    This page helps you focus on the specific logs you want to monitor. For example, you might want to look at Discovery logs or exclude email logs. By default, all logs are included.
 
 9.  Do one of the following:
 
@@ -93,9 +93,3 @@ Use the More menu to go directly from the **Overview** tab to the **Data Input M
 
 **Parent Topic:**[Set up Health Log Analytics on your ServiceNow instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-implement.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[itom-aiops-conf-center|ITOM AIOps configuration center]]
-- [[r-discovery|Discovery]]

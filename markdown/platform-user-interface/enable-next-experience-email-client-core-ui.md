@@ -12,7 +12,7 @@ breadcrumb: [Forms in the classic environment, Working in the classic environmen
 
 # Set up the Next Experience email client in the Core UI
 
-Access email features from the Next Experience in the [[c_UI16|Core UI]].
+Access email features from the Next Experience in the Core UI.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ The **glide.ui.load\_seismic\_email\_client** system property provides access to
 There's two places you can access the Next Experience email client from the Core UI.
 
 -   Access the email client from the More Actions menu \(\[Omitted image "x-more-actions-icon.png"\] Alt text: More Actions icon\).
--   Access the email client from an [[activity-stream-configurable-workspace|Activity stream]] email card by selecting **Reply**, **Reply All**, or **Forward**.
+-   Access the email client from an Activity stream email card by selecting **Reply**, **Reply All**, or **Forward**.
 
 The Next Experience email client provides these features in the Core UI.
 
@@ -37,7 +37,7 @@ The Next Experience email client provides these features in the Core UI.
 
 These Core UI email client features aren’t available after enabling the Next Experience email client.
 
--   Downloading or removing multiple [[attachments-configurable-workspace|attachments]] at once
+-   Downloading or removing multiple attachments at once
 -   Sending S/MIME and SMS
 -   Customized email components
 
@@ -54,11 +54,5 @@ These Core UI email client features aren’t available after enabling the Next E
 4.  Select **Submit**.
 
 
-**Parent Topic:**[[c_UsingForms|Forms in the classic environment]]
+**Parent Topic:**[Forms in the classic environment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_UsingForms.md)
 
-## Related
-
-- [[c_UsingForms|Forms in the classic environment]]
-- [[c_UI16|Core UI]]
-- [[activity-stream-configurable-workspace|Activity stream]]
-- [[attachments-configurable-workspace|Attachments]]

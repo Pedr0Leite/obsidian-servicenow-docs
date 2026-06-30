@@ -18,14 +18,14 @@ Ratings that have declined are highlighted in red and display negative numbers. 
 
 -   **3 Years**: To calculate the current ratings, the system averages the ratings from the trailing twelve month \(TTM\) period. The **Diff** column shows the discrepancy between the current ratings and the previous calendar year's ratings.
 
-    \[Omitted image "ScorecardHistory3Years.png"\] Alt text: [[r_ScorecardHistory|Scorecard history]] for three years
+    \[Omitted image "ScorecardHistory3Years.png"\] Alt text: Scorecard history for three years
 
--   **4 Quarters**: Quarterly [[r_Assessments|assessments]] compare the average rating for each category in the current quarter against the [[r_AverageRatings|average ratings]] from the previous four quarters. The **Diff** column shows the discrepancy between the current ratings and the previous quarter's ratings. The column labels count backward, by quarter from the current quarter. For example, if the current quarter is the **3rd** quarter of 2013, then the previous quarters appear as **2nd** \[2013\], **1st** \[2013\], **4th** \[2012\], and **3rd** \[2012\]. All four of the previous quarters appear, whether or not there was any data for those quarters.
+-   **4 Quarters**: Quarterly assessments compare the average rating for each category in the current quarter against the average ratings from the previous four quarters. The **Diff** column shows the discrepancy between the current ratings and the previous quarter's ratings. The column labels count backward, by quarter from the current quarter. For example, if the current quarter is the **3rd** quarter of 2013, then the previous quarters appear as **2nd** \[2013\], **1st** \[2013\], **4th** \[2012\], and **3rd** \[2012\]. All four of the previous quarters appear, whether or not there was any data for those quarters.
 
     \[Omitted image "ScorecardHistory4Quarters.png"\] Alt text: Scorecard history with four quarters
 
 
-**Parent Topic:**[[t_ViewAnAssessmentScorecard|View an assessment scorecard]]
+**Parent Topic:**[View an assessment scorecard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAnAssessmentScorecard.md)
 
 **Related topics**  
 
@@ -44,9 +44,3 @@ Ratings that have declined are highlighted in red and display negative numbers. 
 
 [Assessment scorecard ratings]()
 
-## Related
-
-- [[t_ViewAnAssessmentScorecard|View an assessment scorecard]]
-- [[r_ScorecardHistory|Scorecard history]]
-- [[r_Assessments|Assessments]]
-- [[r_AverageRatings|Average ratings]]

@@ -91,11 +91,8 @@ New value of the field change represented by this sys\_audit record.
 </td></tr></tbody>
 </table>## How the Audit Relationship Change \(sys\_audit\_relation\) table works
 
-The Sys Audit \[sys\_audit\] table tracks changes to reference fields in tables that are flagged for [[c_AuditedTables|auditing]]. This activity includes journal field entries and history sets. The Audit Relationship Change \[sys\_audit\_relation\] table tracks relationship changes between sys\_audit table records and the source tables that the audited records originate from. It also tracks when a record might have been deleted.
+The Sys Audit \[sys\_audit\] table tracks changes to reference fields in tables that are flagged for auditing. This activity includes journal field entries and history sets. The Audit Relationship Change \[sys\_audit\_relation\] table tracks relationship changes between sys\_audit table records and the source tables that the audited records originate from. It also tracks when a record might have been deleted.
 
 -   -   Whenever you audit any record in a table, a relationship is created between the various originating tables to the store that records data. This relationship information is saved in the sys\_history\_set, sys\_history\_line, and sys\_journal tables.
 -   If you delete a field that is related to an audited table record, the sys\_audit\_relation table records the deletion. In other words, anytime you change an audited record, it first deletes past elements, and then creates a relationship in the sys\_audit\_relation table with new document IDs.
 
-## Related
-
-- [[c_AuditedTables|Auditing]]

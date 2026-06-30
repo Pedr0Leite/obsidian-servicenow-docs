@@ -26,7 +26,7 @@ To set up the chunking and reranking options for a retriever, you must have a re
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[now-assist-skill-kit-landing|Now Assist Skill Kit]]** &gt; **Home**.
+1.  Navigate to **All** &gt; **Now Assist Skill Kit** &gt; **Home**.
 
 2.  Select the skill that you’re adding a retriever to.
 
@@ -112,6 +112,3 @@ The number of chunks the reranker returns. If you leave this field empty, the de
 
 **Parent Topic:**[Add a retriever](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/add-retriever.md)
 
-## Related
-
-- [[now-assist-skill-kit-landing|Now Assist Skill Kit]]

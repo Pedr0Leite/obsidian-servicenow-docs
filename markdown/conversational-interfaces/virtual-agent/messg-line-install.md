@@ -14,7 +14,7 @@ breadcrumb: [Configure, Conversational Integration with LINE, Integrate VA with 
 
 # Install Conversational Integration with LINE
 
-Install the [[messg-line|Conversational Integration with LINE]] so that your business can interact with requesters on the LINE app. The application includes demo data and installs related ServiceNow Store applications and plugins if they are not already installed.
+Install the Conversational Integration with LINE so that your business can interact with requesters on the LINE app. The application includes demo data and installs related ServiceNow Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ The following applications or plugins are installed with Conversational Integrat
 
 -   **Conversational Custom Chat Integration \(com.glide.cs.custom.adapter\)**
 
-    Provides the custom chat integration framework of scriptable APIs to enable the [[virtual-agent-landing-page|Virtual Agent]] application on any conversational interface.
+    Provides the custom chat integration framework of scriptable APIs to enable the Virtual Agent application on any conversational interface.
 
     For more information on this plugin, see [Creating conversational custom chat integrations in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-custom-adapter-framework.md).
 
@@ -39,9 +39,9 @@ The following applications or plugins are installed with Conversational Integrat
 
 -   **IHUB Spoke Util Pack \(com.snc.ihub\_spoke\_util\_pack\)**
 
-    Enables utility or global scripts that can be invoked from the Integration [[topic-spokes-subtab-pae|Spokes]].
+    Enables utility or global scripts that can be invoked from the Integration Spokes.
 
--   **[[agent-init-messg-interface|Agent-Initiated Messaging Interface]] \(sn\_agent\_initiated\)**
+-   **Agent-Initiated Messaging Interface \(sn\_agent\_initiated\)**
 
     Provides configurations for the agent-initiated messaging capabilities. 
 
@@ -66,9 +66,4 @@ The following applications or plugins are installed with Conversational Integrat
 
 5.  Select **Install**.
 
-## Related
 
-- [[messg-line|Conversational Integration with LINE]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[topic-spokes-subtab-pae|Spokes]]
-- [[agent-init-messg-interface|Agent-Initiated Messaging Interface]]

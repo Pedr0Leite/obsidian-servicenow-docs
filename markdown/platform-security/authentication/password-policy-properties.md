@@ -14,7 +14,7 @@ breadcrumb: [Enable password policies on your instance, Password complexity requ
 
 # Password policy properties
 
-The password policy properties enable you to administrate password [[ca-policies|policies]], exclude list passwords, and apply a password policy during login.
+The password policy properties enable you to administrate password policies, exclude list passwords, and apply a password policy during login.
 
 Navigate to **Password Policy** &gt; **Properties** to view and edit the password policy properties.
 
@@ -34,7 +34,7 @@ glide.enable.password\_policy
 
 Enables a password policy for your instance. The policy goes into effect when a user changes or resets a password. This property is automatically set to **true**. **Note:**
 
--   If your instance is customized, via the **ValidatePasswordStronger** installation exit or your [[c_SelfServicePasswordReset|Password Reset]] credential store \[pwd\_cred\_store\], then you must create this property and add it to your [[ca-system-properties|system properties]].
+-   If your instance is customized, via the **ValidatePasswordStronger** installation exit or your Password Reset credential store \[pwd\_cred\_store\], then you must create this property and add it to your system properties.
 -   Prior to the Orlando release, if your instance was customized with the **ValidatePasswordStronger** installation exit, then you had to create the Password Policy property to make the Password Policy work.
 -   Starting with the Orlando release, there is no installation exit customization. The Password Policy properties work by default. These properties can be manually turned off.
 
@@ -52,7 +52,7 @@ glide.apply.password\_policy.on\_login
 
 </td><td>
 
-Forces [[users|users]] to change the passwords during their next login if the existing passwords are not in compliance with the current password policy. This property is automatically set to **false**. Setting the value to **true** enforces a password policy during login.
+Forces users to change the passwords during their next login if the existing passwords are not in compliance with the current password policy. This property is automatically set to **false**. Setting the value to **true** enforces a password policy during login.
 
 **Note:** Enabling this property might force a significant number of users who are not in compliance with the new password policy to change their passwords.
 
@@ -98,10 +98,3 @@ Enables debug logging for the password policy.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[ca-policies|Policies]]
-- [[c_SelfServicePasswordReset|Password Reset]]
-- [[ca-system-properties|System properties]]
-- [[users|Users]]

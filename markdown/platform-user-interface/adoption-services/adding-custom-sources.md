@@ -14,13 +14,13 @@ breadcrumb: [Configure, Dynamic Guidance, Adoption services, Configure user expe
 
 # Adding custom sources
 
-Extend [[dynamic-guidance|Dynamic Guidance]] knowledge base by linking your custom sources or adding additional sources beyond the default ServiceNow® product documentation. This enables Dynamic Guidance to provide answers based on your organization's specific documentation, knowledge articles, or other content repositories.
+Extend Dynamic Guidance knowledge base by linking your custom sources or adding additional sources beyond the default ServiceNow® product documentation. This enables Dynamic Guidance to provide answers based on your organization's specific documentation, knowledge articles, or other content repositories.
 
 ## Before you begin
 
 Role required: admin
 
-[[configure-onboarding-modals|Configure]] external content connectors for enabling desired custom sources. See [https://www.servicenow.com/docs/r/platform-administration/ai-search/configuring-ext-cont-connectors.html](https://www.servicenow.com/docs/r/platform-administration/ai-search/configuring-ext-cont-connectors.html).
+Configure external content connectors for enabling desired custom sources. See [https://www.servicenow.com/docs/r/platform-administration/ai-search/configuring-ext-cont-connectors.html](https://www.servicenow.com/docs/r/platform-administration/ai-search/configuring-ext-cont-connectors.html).
 
 ## Procedure
 
@@ -36,7 +36,4 @@ Role required: admin
 
     This capability of Dynamic Guidance provides comprehensive assistance according to your organization's specific needs while maintaining the foundation of ServiceNow® product documentation.
 
-## Related
 
-- [[dynamic-guidance|Dynamic Guidance]]
-- [[configure-onboarding-modals|Configure]]

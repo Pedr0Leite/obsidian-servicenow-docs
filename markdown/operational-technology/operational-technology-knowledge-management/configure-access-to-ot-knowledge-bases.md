@@ -14,7 +14,7 @@ breadcrumb: [Configure, Operational Technology Knowledge Management, Operational
 
 # Review access to OT knowledge bases for unauthenticated users
 
-Review the [[operational-technology-overview|Operational Technology]] \(OT\) knowledge bases that are accessible to unauthenticated users by using the user criteria and **glide.knowman.block\_access\_with\_no\_user\_criteria** property settings.
+Review the Operational Technology \(OT\) knowledge bases that are accessible to unauthenticated users by using the user criteria and **glide.knowman.block\_access\_with\_no\_user\_criteria** property settings.
 
 ## Before you begin
 
@@ -42,6 +42,3 @@ If you want to restrict unauthenticated users for a knowledge base, you can use 
 
 **Parent Topic:**[Configuring Operational Technology Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-knowledge-management/configuring-operational-technology-knowledge-management.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]

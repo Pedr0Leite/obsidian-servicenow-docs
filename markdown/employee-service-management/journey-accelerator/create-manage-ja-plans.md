@@ -14,7 +14,7 @@ breadcrumb: [Creating and managing audience-specific Journey Accelerator templat
 
 # Create and manage Journey Accelerator plan types
 
-Create plan types to manage the top-level classification for stages and tasks in a [[journey-accelerator-1|Journey Accelerator]] plan.
+Create plan types to manage the top-level classification for stages and tasks in a Journey Accelerator plan.
 
 ## Before you begin
 
@@ -43,6 +43,4 @@ Managers select a plan type when they are configuring a specific plan. As an adm
 
 5.  After you have selected any header configuration you want to change, click **Submit**.
 
-## Related
 
-- [[journey-accelerator-1|Journey Accelerator]]

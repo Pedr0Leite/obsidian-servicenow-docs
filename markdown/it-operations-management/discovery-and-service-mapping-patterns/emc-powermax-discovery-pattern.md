@@ -14,7 +14,7 @@ breadcrumb: [Available on-premise discovery patterns, Discovery patterns used by
 
 # Dell PowerMax storage discovery with Patterns
 
-ServiceNow [[r-discovery|Discovery]] uses the **EMC PMAX phase1** and **EMC PMAX phase2** patterns to find Dell PowerMax storage components. Discovering some of these resources may require updating to the latest version of the Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns application from the ServiceNow Store.
+ServiceNow Discovery uses the **EMC PMAX phase1** and **EMC PMAX phase2** patterns to find Dell PowerMax storage components. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 ## Request apps on the Store
 
@@ -55,7 +55,7 @@ To learn about PowerMax storage components and their versions that you can disco
     |User name|Fill in the user name that can access the PowerMax. The user should have minimum read-only permissions.|
     |Password|Fill in the password that can access the PowerMax.|
 
--   **Verify the configuration of a [[serverless-discovery|Serverless Discovery]] schedule**
+-   **Verify the configuration of a Serverless Discovery schedule**
 
     Make sure to select `Serverless` in the **Discover** field. For information about the procedure, see: [Schedule a horizontal discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_CreateADiscoverySchedule.md)
 
@@ -847,8 +847,3 @@ cmdb\_ci\_storage\_pool
 </td></tr></tbody>
 </table>**Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/available-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[serverless-discovery|Serverless Discovery]]

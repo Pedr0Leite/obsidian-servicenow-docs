@@ -24,9 +24,9 @@ Role required: srm\_manager, srm\_responder, or srm\_admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-    You're taken to your [[sr-home-page|SRM Home page]].
+    You're taken to your SRM Home page.
 
     **Note:** If you use other Service Operations Workspace \(SOW\) applications, you may see the SOW Home page instead of the SRM Home page. The SOW Home page includes SRM alerts and incidents in its metrics.
 
@@ -66,7 +66,3 @@ Delete the name in the **Assigned to** field and reassign. Select **Save**.
 
 **Parent Topic:**[Working with incidents in SRM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-work-incidents.md)
 
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[sr-home-page|SRM Home page]]

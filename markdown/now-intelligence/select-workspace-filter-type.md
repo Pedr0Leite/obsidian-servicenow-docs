@@ -20,11 +20,11 @@ Role required: dashboard\_admin, or you must be the dashboard owner or have had 
 
 ## Procedure
 
-1.  Open **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Dashboards**.
+1.  Open **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Dashboards**.
 
-2.  Locate the dashboard in the dashboard library and open it for editing, as described in [[edit-db-in-ac|Edit Platform Analytics dashboards]].
+2.  Locate the dashboard in the dashboard library and open it for editing, as described in [Edit Platform Analytics dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/edit-db-in-ac.md).
 
-    If the dashboard is in the inline editor, you see an **Edit** button. If it is a technical dashboard, you see an **Edit in UI Builder** button. In the latter case, go to [[add-filter-tech-dashboard|Create a filter on a technical dashboard in UI Builder]].
+    If the dashboard is in the inline editor, you see an **Edit** button. If it is a technical dashboard, you see an **Edit in UI Builder** button. In the latter case, go to [Create a filter on a technical dashboard in UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/add-filter-tech-dashboard.md).
 
 3.  If you are in a different application scope than the dashboard, use the application picker to select the correct scope.
 
@@ -44,10 +44,10 @@ Role required: dashboard\_admin, or you must be the dashboard owner or have had 
 
     Other configuration options vary depending on the data type you select. After you select the filter type, follow the instructions on the linked page to continue configuration.
 
-    -   [[create-select-filter-workspace|Single select]]: A single value from a set of choices. Single select is the default filter type.
+    -   [Single select](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-select-filter-workspace.md): A single value from a set of choices. Single select is the default filter type.
     -   [Multiple select](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-select-filter-workspace.md): More than one value from a set of choices, such as both High and Critical Priority
-    -   [[create-date-filter-workspace|Date]]: A calendar date. You can also set a time. Automatically applies to all indicator data on page or tab.
-    -   [[create-boolean-filter-workspace|True/False]]: Whether a field value is true or false. Can also be used with [[c_CreatingBreakdowns|indicator breakdowns]] that are based on a [bucket group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md) with only two values. The labels for 'true' and 'false' can be customized. The viewer can select **\(empty\)** to clear their selection.
+    -   [Date](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-date-filter-workspace.md): A calendar date. You can also set a time. Automatically applies to all indicator data on page or tab.
+    -   [True/False](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-boolean-filter-workspace.md): Whether a field value is true or false. Can also be used with indicator breakdowns that are based on a [bucket group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md) with only two values. The labels for 'true' and 'false' can be customized. The viewer can select **\(empty\)** to clear their selection.
 8.  Choose the **Filter Element**.
 
     Element options depend on the filter type, but include Pill, Checkboxes, and Typeahead.
@@ -63,15 +63,5 @@ Role required: dashboard\_admin, or you must be the dashboard owner or have had 
 
 ## What to do next
 
-**Note:** Filter values persist across user sessions. When a viewer reopens a dashboard, whatever values they last selected for any filters on the dashboard are preselected. This feature applies only to dashboards created in the inline editor, not [[technical-dashboards|technical dashboards]].
+**Note:** Filter values persist across user sessions. When a viewer reopens a dashboard, whatever values they last selected for any filters on the dashboard are preselected. This feature applies only to dashboards created in the inline editor, not technical dashboards.
 
-## Related
-
-- [[edit-db-in-ac|Edit Platform Analytics dashboards]]
-- [[add-filter-tech-dashboard|Create a filter on a technical dashboard in UI Builder]]
-- [[create-select-filter-workspace|Configure a Single/Multiple select or cascading filter]]
-- [[create-date-filter-workspace|Configure a Date filter in the inline editor]]
-- [[create-boolean-filter-workspace|Configure a True/False filter]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[c_CreatingBreakdowns|Indicator breakdowns]]
-- [[technical-dashboards|Technical dashboards]]

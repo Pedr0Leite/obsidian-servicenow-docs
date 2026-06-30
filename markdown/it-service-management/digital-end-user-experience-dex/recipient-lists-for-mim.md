@@ -14,7 +14,7 @@ breadcrumb: [Desktop Assistant notifications, Desktop Assistant, Digital End-Use
 
 # Customize recipient list for Major Incident Management updates
 
-Customize the base system recipient list for Major [[c_IncidentManagement|Incident Management]] updates based on application usage.
+Customize the base system recipient list for Major Incident Management updates based on application usage.
 
 ## Before you begin
 
@@ -108,6 +108,4 @@ Enter the sys\_id of the location.
 </td></tr></tbody>
 </table>4.  Select **Update**.
 
-## Related
 
-- [[c_IncidentManagement|Incident Management]]

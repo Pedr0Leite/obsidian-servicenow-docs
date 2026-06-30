@@ -14,7 +14,7 @@ breadcrumb: [AWS, Service Graph Connectors, Integrating third-party data into CM
 
 # Quick start tests for Service Graph Connector for AWS
 
-Validate that [[cmdb-integration-aws-sg|Service Graph Connector for AWS]] still works after you make any configuration change such as applying an upgrade or developing an application. Copy and customize these quick start tests to pass when using your instance-specific data.
+Validate that Service Graph Connector for AWS still works after you make any configuration change such as applying an upgrade or developing an application. Copy and customize these quick start tests to pass when using your instance-specific data.
 
 **Danger**
 
@@ -52,6 +52,3 @@ By default, the system property that is used to run automated tests is turned of
 
 [Quick start tests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/quick-start-tests.md)
 
-## Related
-
-- [[cmdb-integration-aws-sg|Service Graph Connector for AWS]]

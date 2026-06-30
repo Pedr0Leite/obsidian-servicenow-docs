@@ -24,7 +24,7 @@ Role required: sn\_vdr\_risk\_asmt.vendor\_risk\_manager or sn\_vdr\_risk\_asmt.
 
 ## About this task
 
-When creating an on-demand internal assessment, TPR managers or TPR assessors can create the assessment and add the questionnaires. TPR managers can [[submit-an-importance-and-impact-tolerance-assessment-in-ws|submit the assessment]] and the assigned respondents complete the assessment. You can select multiple respondents at a time and automatically trigger assessments.
+When creating an on-demand internal assessment, TPR managers or TPR assessors can create the assessment and add the questionnaires. TPR managers can submit the assessment and the assigned respondents complete the assessment. You can select multiple respondents at a time and automatically trigger assessments.
 
 **Important:** Smart assessments must be viewed in the Vendor Management Workspace.
 
@@ -32,7 +32,7 @@ When creating an on-demand internal assessment, TPR managers or TPR assessors ca
 
 1.  Navigate to one of the following locations:
 
-    -   **All** &gt; **Third-party Risk Management** &gt; **Internal [[risk-assessments|Risk Assessments]]** &gt; **All Assessments**.
+    -   **All** &gt; **Third-party Risk Management** &gt; **Internal Risk Assessments** &gt; **All Assessments**.
     -   **Workspaces** &gt; **Vendor Management Workspace**, select the list icon \[Omitted image "ws-list-icon.png"\] Alt text: and then navigate to **Internal Risk Assessments** &gt; **All Assessments**.
 2.  Create an internal assessment by selecting **New** and fill in the form.
 
@@ -83,7 +83,7 @@ Description
 
 ## What to do next
 
-The owner assigned to the internal assessment works with the respondents to [[approve-the-assessment-in-ws|close the assessment]]. For information on how to respond to Internal assessments, see [Respond to an internal assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-irq-respond-to.md).
+The owner assigned to the internal assessment works with the respondents to close the assessment. For information on how to respond to Internal assessments, see [Respond to an internal assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-irq-respond-to.md).
 
 **Related topics**  
 
@@ -94,8 +94,3 @@ The owner assigned to the internal assessment works with the respondents to [[ap
 
 [IRQ process management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-ws-dd-mgt-pg-irq-tab.md)
 
-## Related
-
-- [[submit-an-importance-and-impact-tolerance-assessment-in-ws|Submit the assessment]]
-- [[risk-assessments|risk assessments]]
-- [[approve-the-assessment-in-ws|Close the assessment]]

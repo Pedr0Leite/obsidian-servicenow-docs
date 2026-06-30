@@ -14,7 +14,7 @@ breadcrumb: [Discovery patterns used by ITOM Visibility, ITOM Visibility, IT Ope
 
 # Enhance patterns without modifying identification sections
 
-Enable patterns to search for additional attributes and modify pattern [[r-discovery|discovery]] logic defined in identification sections by using extension sections. Each extension section contains a preconfigured set of discovery steps referred to as a shared library.
+Enable patterns to search for additional attributes and modify pattern discovery logic defined in identification sections by using extension sections. Each extension section contains a preconfigured set of discovery steps referred to as a shared library.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: pd\_admin
 
 ## About this task
 
-Patterns can be of the infrastructure or application type. Infrastructure patterns are used only by Discovery for creating lists of devices. Application patterns serve both [[c_ServiceMappingOverview|Service Mapping]] and Discovery, which use the same application patterns for their purposes. Each pattern including its identification and connection sections is an individual file. There are also reusable sequences of discovery steps referred to as shared libraries. Each shared library is an individual file, but it is always part of the infrastructure or application pattern and is not used as a standalone pattern. Records for both patterns and shared libraries reside in the Discovery Patterns \[sa\_pattern\] table.
+Patterns can be of the infrastructure or application type. Infrastructure patterns are used only by Discovery for creating lists of devices. Application patterns serve both Service Mapping and Discovery, which use the same application patterns for their purposes. Each pattern including its identification and connection sections is an individual file. There are also reusable sequences of discovery steps referred to as shared libraries. Each shared library is an individual file, but it is always part of the infrastructure or application pattern and is not used as a standalone pattern. Records for both patterns and shared libraries reside in the Discovery Patterns \[sa\_pattern\] table.
 
 To modify the discovery logic in identification sections without changing the identification sections themselves, you can add extension sections to the pattern. Every extension section consists of a shared library, either new or existing.
 
@@ -103,7 +103,3 @@ Click **Debug** to run the newly created extension section. Pattern Designer run
 
 **Next topic:**[Fine-tune patterns using traffic-based discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/connection-section-traffic-based.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

@@ -14,7 +14,7 @@ breadcrumb: [Create Report Subsection Element template, Configure Major Security
 
 # Create a Custom Type Element
 
-[[create-list-type-element|Create a list type element]], which defines the related list elements more declaratively with filter options such as assignment groups and labels.
+Create a list type element, which defines the related list elements more declaratively with filter options such as assignment groups and labels.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_msi.workspace\_manager
 
 ## Procedure
 
-1.  Navigate to **[[major-security-incident-management-landing-page|Major Security Incident Management]]** &gt; **MSI Administration** &gt; **Status Report Setup**.
+1.  Navigate to **Major Security Incident Management** &gt; **MSI Administration** &gt; **Status Report Setup**.
 
     The MSI Status Report Setup page displays.
 
@@ -80,7 +80,3 @@ Enter the Runtime configuration UX App Route value when a UIB page is created wi
 </table>
 **Parent Topic:**[Create Report Subsection Element template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-report-subsection-element-template.md)
 
-## Related
-
-- [[create-list-type-element|Create a List Type Element]]
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]

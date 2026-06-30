@@ -18,7 +18,7 @@ Ensure that translated choices appear for applications by activating translated 
 
 ## Before you begin
 
-You must have activated a language and then activated a plugin that includes the corresponding English choice records. For more information, see [Activate a language](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/t_ActivateALanguage.md) and [[t_ActivateAPlugin|Activate a plugin]].
+You must have activated a language and then activated a plugin that includes the corresponding English choice records. For more information, see [Activate a language](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/t_ActivateALanguage.md) and [Activate a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md).
 
 Role required: admin
 
@@ -28,7 +28,7 @@ When you activate plugins after having activated languages, translated choices i
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[system-localization-landing|System Localization]]** &gt; **Languages**.
+1.  Navigate to **All** &gt; **System Localization** &gt; **Languages**.
 
 2.  In the Languages \[sys\_language\] table, select the name of any active language.
 
@@ -52,7 +52,3 @@ Translations for all choices with corresponding English choice records appear fo
 
 [Languages table]()
 
-## Related
-
-- [[t_ActivateAPlugin|Activate a plugin]]
-- [[system-localization-landing|System Localization]]

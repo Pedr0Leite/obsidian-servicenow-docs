@@ -10,7 +10,7 @@ reading_time_minutes: 1
 
 # Update system properties for Microsoft Exchange Online in the Journey Accelerator app
 
-Update the [[journey-accelerator-1|Journey Accelerator]] app system properties to use with Microsoft Exchange Online features support by Journey Accelerator.
+Update the Journey Accelerator app system properties to use with Microsoft Exchange Online features support by Journey Accelerator.
 
 ## Before you begin
 
@@ -39,6 +39,4 @@ Role required: admin
 
     **Note:** When using Microsoft Exchange Online spoke v.2.0.2 with the Retry Handler Framework, the scripted rest API for the retry handler framework is used as the webhook URL.
 
-## Related
 
-- [[journey-accelerator-1|Journey Accelerator]]

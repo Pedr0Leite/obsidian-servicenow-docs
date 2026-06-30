@@ -15,11 +15,11 @@ breadcrumb: [AI governance life cycle, Explore, AI Risk and Compliance, Governan
 
 # Offboarding AI assets review
 
-Offboarding [[ai-system-airc|AI systems]], models, and [[dataset-airc|datasets]] helps ensure that [[r_WhatIsGRC|governance, risk, and compliance]] requirements are addressed throughout assessment, preparation, and retirement of [[ai-assets-airc|AI assets]], including impact evaluation, residual risk management, documentation preservation, data‑handling decisions, and audit traceability.
+Offboarding AI systems, models, and datasets helps ensure that governance, risk, and compliance requirements are addressed throughout assessment, preparation, and retirement of AI assets, including impact evaluation, residual risk management, documentation preservation, data‑handling decisions, and audit traceability.
 
 ## How offboarding is handled across AI Risk and Compliance and AI Control Tower
 
-Offboarding [[ai-model-airc|AI models]] and datasets involves both governance activities and technical life cycle actions. These responsibilities are typically shared between [[ai-risk-and-compliance|AI Risk and Compliance]] \(AIRC\) and AI Control Tower \(AICT\), with each product addressing different aspects of the offboarding process.
+Offboarding AI models and datasets involves both governance activities and technical life cycle actions. These responsibilities are typically shared between AI Risk and Compliance \(AIRC\) and AI Control Tower \(AICT\), with each product addressing different aspects of the offboarding process.
 
 During offboarding, governance review may include assessing how retiring an AI asset affects users, business processes, and dependent systems, as well as determining whether continued use, reuse, or retirement of related models or datasets is appropriate.
 
@@ -37,11 +37,11 @@ Governance activities may also include evaluating whether legal, ethical, safety
 
 AIRC supports the governance portion of AI asset offboarding. Through AIRC, organizations review and document risk, impact, and compliance considerations related to retiring AI models and datasets. When AI models or datasets are associated with a governed AI system, offboarding activities may be reviewed and tracked at the AI system level to help ensure complete governance coverage.
 
-You can view AI assets and their governance status on the [[operations-tab|Operations tab]] in the [[ai-risk-and-compliance-workspace|AI Risk and Compliance Workspace]]. For more information, see [Operations tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/operations-tab.md).
+You can view AI assets and their governance status on the Operations tab in the AI Risk and Compliance Workspace. For more information, see [Operations tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/operations-tab.md).
 
 \[Omitted image "offboard-list.png"\] Alt text: The list page showing AI assets in an offboarding-related state in the AI Risk and Compliance workspace.
 
-For more information about the [[ai-gov-lifecycle|AI governance life cycle]] and how offboarding fits into the broader AI asset life cycle, see [AI governance life cycle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/ai-gov-lifecycle.md) and [AI asset lifecycle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-asset-lifecycle.md).
+For more information about the AI governance life cycle and how offboarding fits into the broader AI asset life cycle, see [AI governance life cycle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/ai-gov-lifecycle.md) and [AI asset lifecycle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-asset-lifecycle.md).
 
 In AIRC, practitioners can perform activities such as reviewing regulatory risk classifications, completing or updating impact assessments, and conducting conformity or policy-alignment reviews as part of the AI life cycle.
 
@@ -59,7 +59,7 @@ For more information about resolving governance issues before asset retirement, 
 
 During offboarding, governance activities in AI Risk and Compliance are driven by risk classification, assessment status, and life-cycle state. AI system or model categories selected during intake \(for example, Agentic or Generative\) are captured as descriptive metadata only and don’t change assessment creation, scoring, or life-cycle behavior.
 
-Impact or [[risk-assessments|risk assessments]] may be created during offboarding when governance review determines that additional evaluation is required based on the asset’s risk classification and existing assessment coverage. If an active assessment of the same type already exists, a duplicate assessment isn’t created.
+Impact or risk assessments may be created during offboarding when governance review determines that additional evaluation is required based on the asset’s risk classification and existing assessment coverage. If an active assessment of the same type already exists, a duplicate assessment isn’t created.
 
 When offboarding is completed and the AI asset life-cycle state is updated to retired, any remaining open governance assessments associated with the asset are closed or cancelled according to configured governance rules. Historical records remain available for audit and traceability.
 
@@ -79,15 +79,3 @@ The creation and sequencing of offboarding‑related assessment tasks are manage
 
 For more information about performing specific assessment types, see [Perform impact assessment on an AI use case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/perform-impact-assessment-of-ai-use-case.md), [Perform risk assessments on AI systems](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/perform-risk-assessments-on-ai-systems.md), [Initiate risk assessment on AI asset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/initiate-risk-assessment-on-ai-systems.md), and [Initiate risk assessment on AI asset's risks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/request-risk-assessments-for-ai-systems.md).
 
-## Related
-
-- [[ai-system-airc|AI systems]]
-- [[dataset-airc|Datasets]]
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]
-- [[ai-assets-airc|AI assets]]
-- [[ai-model-airc|AI models]]
-- [[ai-risk-and-compliance|AI Risk and Compliance]]
-- [[operations-tab|Operations tab]]
-- [[ai-risk-and-compliance-workspace|AI Risk and Compliance workspace]]
-- [[ai-gov-lifecycle|AI governance life cycle]]
-- [[risk-assessments|risk assessments]]

@@ -26,7 +26,7 @@ Role required: map editors, map admin, map editor limited
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[Indoor-mapping|Indoor Mapping]]** &gt; **Map Studio**.
+1.  Navigate to **All** &gt; **Indoor Mapping** &gt; **Map Studio**.
 
 2.  Select a campus.
 
@@ -54,6 +54,3 @@ Role required: map editors, map admin, map editor limited
 
 **Parent Topic:**[Manage Directions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/enable-interactive-locations.md)
 
-## Related
-
-- [[Indoor-mapping|Indoor Mapping]]

@@ -69,8 +69,5 @@ Synchronization behavior:
     2.  Remove the asset from the recovery strategies, then return to the plan assets and retry the deletion.
 
 
-**Parent Topic:**[[bcp-tasks-performed-by-bcp-owner|Structured workflows for BCPs]]
+**Parent Topic:**[Structured workflows for BCPs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bcp-tasks-performed-by-bcp-owner.md)
 
-## Related
-
-- [[bcp-tasks-performed-by-bcp-owner|Structured workflows for BCPs]]

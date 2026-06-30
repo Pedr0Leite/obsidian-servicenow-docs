@@ -22,7 +22,7 @@ Besides roles, check that you meet the following requirements before trying to d
 
 -   Your instance has an active entitlement to the subscription version of Performance Analytics. For more information, see [Activating your Performance Analytics subscription](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_PremiumPerformanceAnalytics.md).
 -   If your instance is domain-separated, you have visibility into the same domain as the indicator.
--   The indicator that you want to delete is not being used in a formula indicator. If it is so used, see whether you can delete those [[formula-indicators|formula indicators]] first.
+-   The indicator that you want to delete is not being used in a formula indicator. If it is so used, see whether you can delete those formula indicators first.
 -   The indicator is not a benchmark indicator.
 
 Role required: pa\_data\_collector \(requires that the indicator record is visible to this role; cannot delete external indicators\), pa\_power\_user, pa\_admin, or admin
@@ -33,7 +33,7 @@ Role required: pa\_data\_collector \(requires that the indicator record is visib
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]] Administration** &gt; **Indicators** &gt; **\[type of indicator\]**, and locate the indicator you want to delete.
+1.  Navigate to **All** &gt; **Platform Analytics Administration** &gt; **Indicators** &gt; **\[type of indicator\]**, and locate the indicator you want to delete.
 
 2.  Open the indicator record.
 
@@ -45,7 +45,4 @@ Role required: pa\_data\_collector \(requires that the indicator record is visib
 
 5.  Confirm.
 
-## Related
 
-- [[formula-indicators|Formula indicators]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

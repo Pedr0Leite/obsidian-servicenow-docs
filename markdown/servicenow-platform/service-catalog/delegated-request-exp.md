@@ -14,14 +14,14 @@ breadcrumb: [Configuring Service Catalog, Service Catalog, Manage service capabi
 
 # Delegated request experience
 
-You can request a catalog item on behalf of another user or multiple users using the [[requested-for|Requested For]] variable.
+You can request a catalog item on behalf of another user or multiple users using the Requested For variable.
 
 Delegated request experience comprises of the following entities:
 
 -   Requested For variable for a catalog item. For information about this variable, see [Requested For](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/requested-for.md).
 -   Requested For field on a requested item \(RITM\)
 
-    **Note:** The form views, list views, and [[email|email]] notifications are not updated to reflect the Requested For field on a RITM.
+    **Note:** The form views, list views, and email notifications are not updated to reflect the Requested For field on a RITM.
 
 
 ## Configuration options
@@ -51,7 +51,7 @@ In Service Portal,
 
 ## Request experience for a record producer
 
-After you submit a [[c_RecordProducer|record producer]], the Requested For variable value is copied to the target record's field based on the **Map To Field** configuration.
+After you submit a record producer, the Requested For variable value is copied to the target record's field based on the **Map To Field** configuration.
 
 ## Request experience for an order guide
 
@@ -68,7 +68,7 @@ A catalog item is included in an order guide based on the Requested For user's a
 The Requested For variable value from the **Describe Needs** section is always cascaded to the Requested For variable of catalog items in rule bases.
 
 -   The cascading of the Requested For variable value depends just on the variable type, but not the variable name.
--   The Requested For variable value is cascaded even when the **Cascade Variables** [[check-box|check box]] is not selected for the order guide.
+-   The Requested For variable value is cascaded even when the **Cascade Variables** check box is not selected for the order guide.
 -   The Requested For variables in the included catalog item cannot be edited.
 
 ## Submitting a catalog item request for multiple users
@@ -100,7 +100,7 @@ After you configure the Requested For variable of a catalog item, the **Also req
 
 ## Request cloning
 
-When you [[t_UsingBulkRequests|clone a request]]:
+When you clone a request:
 
 -   The Requested For value for the cloned request is updated with the user for whom the request is being cloned.
 -   The Requested For value for cloned RITMs \(with or without a Requested For variable\) is updated with the user for whom the request is being cloned for the following entities:
@@ -195,10 +195,3 @@ Define the default behavior when no roles are specified in the **glide.sc.req\_f
 
 [Types of service catalog variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/r_VariableTypes.md)
 
-## Related
-
-- [[requested-for|Requested for]]
-- [[email|Email]]
-- [[c_RecordProducer|Record Producer]]
-- [[check-box|Check box]]
-- [[t_UsingBulkRequests|Clone a request]]

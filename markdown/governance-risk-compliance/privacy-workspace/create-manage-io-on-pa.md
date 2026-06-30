@@ -14,7 +14,7 @@ breadcrumb: [Use, Privacy Management, Governance, Risk, and Compliance]
 
 # Create or manage an information object within a processing activity
 
-Add [[information-objects|information objects]] to the processing activity after a processing activity is created. Adding information objects helps you understand the types of personal information that is being processed and the way it is processed. This task helps in applying the appropriate controls to the processing activity.
+Add information objects to the processing activity after a processing activity is created. Adding information objects helps you understand the types of personal information that is being processed and the way it is processed. This task helps in applying the appropriate controls to the processing activity.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ It is important to note that only the information objects that are tagged with t
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Privacy Workspace** &gt; **[[ropa-record|Processing activities]]** &gt; **All processing activities**.
+1.  Navigate to **All** &gt; **Privacy Workspace** &gt; **Processing activities** &gt; **All processing activities**.
 
 2.  Select and open the processing activity to which you want to add controls.
 
@@ -49,7 +49,3 @@ Add details such as justification for storing data to an information object afte
 
 [Modify an information object within a processing activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/edit-an-io-on-a-pa.md)
 
-## Related
-
-- [[information-objects|information objects]]
-- [[ropa-record|Processing activities]]

@@ -12,7 +12,7 @@ breadcrumb: [Platform Analytics Migration Center, Platform Analytics experience,
 
 # Perform full data migration
 
-Migrate your existing dashboards, reports, [[c_HomepagePublishers|interactive filters]], and [[c_Widgets|Performance Analytics widgets]] to the [[par-workspace|Platform Analytics experience]].
+Migrate your existing dashboards, reports, interactive filters, and Performance Analytics widgets to the Platform Analytics experience.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ If you change a report, and perform full data migration again, the changed Core 
 
 Dashboards migrated in compatibility mode may experience performance issues.
 
-Migrated dashboards appear in the [[c_performanceAnalyticsAndReporting|Platform Analytics]] library. Links to the original Core UI dashboards redirect to the library as well.
+Migrated dashboards appear in the Platform Analytics library. Links to the original Core UI dashboards redirect to the library as well.
 
 Reports associated with chart to chart drilldown are saved to the Visualization Library.
 
@@ -58,7 +58,7 @@ Reports associated with chart to chart drilldown are saved to the Visualization 
 
 5.  Select **Migrate** to start the migration process.
 
-6.  [[data-migration-evaluate|Evaluate the results]].
+6.  [Evaluate the results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/data-migration-evaluate.md).
 
 7.  Select **Activate** to complete the migration process.
 
@@ -75,10 +75,3 @@ Your dashboards and other migrated content are now found under the library. Navi
 
 [Evaluate full data migration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/data-migration-evaluate.md)
 
-## Related
-
-- [[data-migration-evaluate|Evaluate full data migration]]
-- [[c_HomepagePublishers|Interactive Filters]]
-- [[c_Widgets|Performance Analytics widgets]]
-- [[par-workspace|Platform Analytics experience]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

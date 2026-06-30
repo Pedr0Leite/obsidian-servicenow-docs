@@ -16,7 +16,7 @@ breadcrumb: [Event rules, Processing Events, Configuring Event Management, Event
 
 The **Event Input** pane that is included in the steps to create an event rule provides a reference to the information that you can use when configuring an event rule.
 
-In the **Transform and compose alert output** pane, you can also drag the information into the required fields to customize alert content. The fields in the right-hand pane appear as a reference to which fields, expressions, and their values are available when working in the Event Rule designer. The fields that display in the Transform and compose alert output left-hand workarea become the fields in the generated alert form. In addition, you can define [[alert-tags|alert tags]] that are specific for customization.
+In the **Transform and compose alert output** pane, you can also drag the information into the required fields to customize alert content. The fields in the right-hand pane appear as a reference to which fields, expressions, and their values are available when working in the Event Rule designer. The fields that display in the Transform and compose alert output left-hand workarea become the fields in the generated alert form. In addition, you can define alert tags that are specific for customization.
 
 **Note:** To automatically filter out irrelevant alerts or transform and standardize alert data for better response, you can also use [Ignore automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/create-ignore-automation-sow-itom.md) and [Enrich automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/enrich-alert-sow-itom.md).
 
@@ -44,7 +44,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Standard edit mode \[Omitted image "transform-standard-mode.png"\] Alt text: [[c_EM|Event Management]] icon
+Standard edit mode \[Omitted image "transform-standard-mode.png"\] Alt text: Event Management icon
 
 </td><td>
 
@@ -105,7 +105,3 @@ Controlling how fields appear:
 
 [Set a threshold to suppress alert generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMISetThresholdEvent.md)
 
-## Related
-
-- [[alert-tags|Alert tags]]
-- [[c_EM|Event Management]]

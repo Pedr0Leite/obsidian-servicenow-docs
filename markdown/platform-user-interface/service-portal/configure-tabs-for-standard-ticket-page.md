@@ -14,7 +14,7 @@ breadcrumb: [Configure the standard ticket page, Standard ticket page, Creating 
 
 # Configure tabs for standard ticket page
 
-You can [[configure-onboarding-modals|configure]] the tabs for the [[standard-ticket-page|standard ticket page]].
+You can configure the tabs for the standard ticket page.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin and sp\_admin
 
 ## About this task
 
--   By default, the Activity and [[attachments-configurable-workspace|Attachments]] type tab configurations are available for all standard configurations. Other default tab configurations may vary based on the task-extended table. For example, for the sc\_req\_item configuration, the Variable Editor \(Read-Only\) type is also available.
+-   By default, the Activity and Attachments type tab configurations are available for all standard configurations. Other default tab configurations may vary based on the task-extended table. For example, for the sc\_req\_item configuration, the Variable Editor \(Read-Only\) type is also available.
 -   You can’t duplicate any tab type other than Custom.
 -   You can configure a maximum of six tabs.
 -   You can add either Variable Editor \(Read-Only\) or the Variable Summarizer tab type.
@@ -140,8 +140,3 @@ Comma-separated list of tab widget parameters. This field appears only when **Cu
 
 [Configure actions for standard ticket page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/configure-actions-for-standard-ticket-page.md)
 
-## Related
-
-- [[configure-onboarding-modals|Configure]]
-- [[standard-ticket-page|Standard ticket page]]
-- [[attachments-configurable-workspace|Attachments]]

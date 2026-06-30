@@ -162,7 +162,7 @@ MID Server
 
 </td><td>
 
-MID Server to use for this test. You must use a Windows MID Server to test [[r_WindowsCredentialsForm|Windows credentials]]. Only **Up** and **Validated** MID Servers are available.
+MID Server to use for this test. You must use a Windows MID Server to test Windows credentials. Only **Up** and **Validated** MID Servers are available.
 
 </td><td>
 
@@ -215,7 +215,7 @@ JMS
 
     -   Incorrect user name or password:
 
-        \[Omitted image "TestCredentialsPasswordError.png"\] Alt text: [[c_Authentication|Authentication]] failure
+        \[Omitted image "TestCredentialsPasswordError.png"\] Alt text: Authentication failure
 
     -   Incorrect MID Server for Windows credentials:
 
@@ -227,7 +227,4 @@ JMS
 
     **Important:** Testing credentials does not ensure that the credentials have the necessary privileges required for the intended Discovery or Orchestration workflow tasks.
 
-## Related
 
-- [[r_WindowsCredentialsForm|Windows credentials]]
-- [[c_Authentication|Authentication]]

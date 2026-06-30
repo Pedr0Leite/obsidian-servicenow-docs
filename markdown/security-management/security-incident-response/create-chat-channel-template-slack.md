@@ -26,7 +26,7 @@ The new channel that you create will be your channel name in Slack as well. You 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[major-security-incident-management-landing-page|Major Security Incident Management]]** &gt; **Chat Channel** &gt; **Channel Templates**.
+1.  Navigate to **All** &gt; **Major Security Incident Management** &gt; **Chat Channel** &gt; **Channel Templates**.
 
 2.  Select **Slack channel configuration** to view the Slack configuration details.
 
@@ -110,6 +110,3 @@ The chat channel is now created and the users are assigned to those chat channel
 
 **Parent Topic:**[Configure Slack chat connector for major security incidents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/configure-slack-chat-connector-msi.md)
 
-## Related
-
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]

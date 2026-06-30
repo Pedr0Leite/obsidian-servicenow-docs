@@ -14,7 +14,7 @@ breadcrumb: [Fortinet firewall and FortiGate VDOM REST-based, Available on-premi
 
 # Disable SNMP-based Fortinet firewall discovery
 
-Disable the default SNMP-based Fortinet firewall [[r-discovery|discovery]] and use REST-based discovery instead to discover FortiGate Virtual Domains \(VDOMs\).
+Disable the default SNMP-based Fortinet firewall discovery and use REST-based discovery instead to discover FortiGate Virtual Domains \(VDOMs\).
 
 ## Before you begin
 
@@ -42,6 +42,3 @@ Create an alias and add it to an API key credential. For more information, see [
 
 [Fortinet firewall and FortiGate VDOM REST-based discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/fortinet-fw-vdoms-rest-discovery.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

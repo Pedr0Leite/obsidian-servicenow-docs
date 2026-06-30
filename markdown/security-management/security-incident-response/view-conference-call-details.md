@@ -22,7 +22,7 @@ Role required: sn\_msi.workspace\_manager
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[major-security-incident-management-landing-page|Major Security Incident Management]]**.
+1.  Navigate to **Workspaces** &gt; **Major Security Incident Management**.
 
 2.  From the Major Security Incident list, select the major security incident that you're trying to resolve on the conference call.
 
@@ -34,7 +34,7 @@ Role required: sn\_msi.workspace\_manager
 
     There can be several calls for the same major security incident.
 
-5.  To [[add-participants-conference-call|add participants to a conference call]], select \[Omitted image "msim-options.png"\] Alt text: Meeting options next to the active call conference call and select the **Add Participants** option.
+5.  To add participants to a conference call, select \[Omitted image "msim-options.png"\] Alt text: Meeting options next to the active call conference call and select the **Add Participants** option.
 
 6.  You can also add participants by using the **Copy invite** option and sharing the link with the required participants.
 
@@ -62,7 +62,3 @@ Role required: sn\_msi.workspace\_manager
 
 [Integrate MSIM Conference Calls with Cisco Webex]()
 
-## Related
-
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]
-- [[add-participants-conference-call|Add participants to a conference call]]

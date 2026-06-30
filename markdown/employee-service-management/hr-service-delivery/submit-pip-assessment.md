@@ -22,7 +22,7 @@ Role required: none
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Employee Center**.
 
 2.  Complete the PIP assessment task.
 
@@ -40,6 +40,3 @@ Role required: none
 
 When the PIP is marked unsuccessful, a PIP assessment case is created for the ER agent. The ER agent and the manager can discuss the next course of action for the employee.
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

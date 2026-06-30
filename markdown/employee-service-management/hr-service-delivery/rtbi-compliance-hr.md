@@ -16,9 +16,9 @@ breadcrumb: [Case and Knowledge Management, HR Service Delivery, Employee Servic
 
 HR customers can enable personal data protection for their employees and alumni by implementing General Data Protection Regulation \(GDPR\) rules as a result becoming a GDPR compliant organization.
 
-[[hr-service-delivery|HR Service Delivery]] offers two [[hr-service-administration|HR services]] to conform with Right to be Informed \(RTBI\) and Right to be Forgotten \(RTBF\) GDPR requirements:
+HR Service Delivery offers two HR services to conform with Right to be Informed \(RTBI\) and Right to be Forgotten \(RTBF\) GDPR requirements:
 
--   [[request-personal-information-report-rtbi|Request Personal Information Report]]
+-   Request Personal Information Report
 -   Erasure of Personal Data
 
 ## Right to be Informed \(RTBI\)
@@ -43,8 +43,3 @@ Customers can choose to anonymize the employees personal data over deletion. For
 
 The ServiceNow platform offers other tools like Table cleaner, Archival rules, and Destroy rules, to support minimal data retention by removing outdated data. For more information, see [Exploring Data Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/exploring-data-management.md). For enhanced data privacy, you can explore Anonymization and Field Encryption. For more info, see [Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/field-encryption.md).
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[hr-service-administration|HR services]]
-- [[request-personal-information-report-rtbi|Request personal information report]]

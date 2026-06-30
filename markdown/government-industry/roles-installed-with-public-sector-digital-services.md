@@ -849,7 +849,7 @@ external\_reviewer\[sn\_gsm\_grnt\_mgmt.external\_reviewer\]
 
 </td><td>
 
-Enables merit review users to review and score grant proposals from within the [[psds-rsp-overview|Reviewer Service Portal]].
+Enables merit review users to review and score grant proposals from within the Reviewer Service Portal.
 
 </td><td>
 
@@ -1722,7 +1722,7 @@ Contributor Editorsn\_gsm\_info\_req.contributor\_editor
 
 </td><td>
 
-Grants restrictive write access to the fields on the [[information-request-case-form|Information Request Case form]].
+Grants restrictive write access to the fields on the Information Request Case form.
 
 </td><td>
 
@@ -2731,10 +2731,5 @@ None
 </td></tr></tbody>
 </table>**Note:** Customers who have purchased a Public Sector Digital Services subscription can provide Business Stakeholder users with rights to actions listed under [Business Stakeholder for Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/business-stakeholder-for-csm.md).
 
-**Parent Topic:**[[installed-with-public-sector-digital-services-core|Components and Roles installed with Public Sector Digital Services Core]]
+**Parent Topic:**[Components and Roles installed with Public Sector Digital Services Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/installed-with-public-sector-digital-services-core.md)
 
-## Related
-
-- [[installed-with-public-sector-digital-services-core|Components and Roles installed with Public Sector Digital Services Core]]
-- [[psds-rsp-overview|Reviewer Service Portal]]
-- [[information-request-case-form|Information Request case form]]

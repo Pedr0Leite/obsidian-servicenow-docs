@@ -12,7 +12,7 @@ breadcrumb: [Reference, Field Service Management]
 
 # Schedule Optimization travel estimate providers
 
-Travel estimate providers used by [[schedule-optimization|Schedule Optimization]].
+Travel estimate providers used by Schedule Optimization.
 
 Efficient allocation of work order tasks to agents depends on accurate estimation of travel time, taking into account both the agent's location and the task's location. Schedule Optimization supports two options to calculate distances between agents and task, Straight-line and Beans.AI. An administrator is required to select a travel estimate provider for all qualifier-level groups. See, [Create a scheduling attribute for Schedule Optimization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/configure-scheduling-attributes.md) for more information on where the options are located.
 
@@ -45,9 +45,5 @@ By default, the **Inputs** field is set to Beans.AI. By default **Decision table
 
 **Note:** Straight-line distance calculation is a fallback logic in case a customer doesn’t want to choose a map provider for travel time estimates.
 
-**Parent Topic:**[[fsm-reference|Field Service Management reference]]
+**Parent Topic:**[Field Service Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/fsm-reference.md)
 
-## Related
-
-- [[fsm-reference|Field Service Management reference]]
-- [[schedule-optimization|Schedule Optimization]]

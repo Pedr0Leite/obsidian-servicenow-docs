@@ -14,7 +14,7 @@ breadcrumb: [Skills Management, Manage people and work capabilities, Extend Serv
 
 # Using Skills Management
 
-Use the [[skills-management|Skills Management]] dashboard to analyze trends in assessing skill gaps in your organization and plan for coaching or training of your employees based on needs. Identify users and teams who have the right skills to work on tasks and projects.
+Use the Skills Management dashboard to analyze trends in assessing skill gaps in your organization and plan for coaching or training of your employees based on needs. Identify users and teams who have the right skills to work on tasks and projects.
 
 The Skills Management dashboard provides comprehensive reports on skill competencies of users, the tasks that require those skills, and skill gaps you can address to fulfill your organizational needs.
 
@@ -144,7 +144,3 @@ View number of users available for each skill.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[skills-management|Skills Management]]

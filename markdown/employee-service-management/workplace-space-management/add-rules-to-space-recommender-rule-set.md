@@ -14,14 +14,14 @@ breadcrumb: [Create a Space Recommender rule, Manage, Workplace Space Management
 
 # Add space recommender rules to a space recommender rule set
 
-Add rules to a space recommender rule set based on which qualifying spaces must be calculated when a [[space-assistance|space assistance]] request is raised using the [[workplace-services-portal-hr|Workplace Service Portal]]. A rule set is a collection of rules.
+Add rules to a space recommender rule set based on which qualifying spaces must be calculated when a space assistance request is raised using the Workplace Service Portal. A rule set is a collection of rules.
 
 ## Before you begin
 
 Ensure the following:
 
--   [[workplace-case-mgmt-feat|Workplace Case Management]] is installed.
--   [[workplace-safety-mgmt-hr|Workplace Core]] is installed.
+-   Workplace Case Management is installed.
+-   Workplace Core is installed.
 -   Space recommender rules are already created. Otherwise, [Create a Space Recommender rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/create-a-space-recommender-rule.md).
 -   Space recommender rule set is already created. Otherwise, [Configure a Space Recommender Rule set](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/configure-space-recommender-rule-sets.md).
 
@@ -56,9 +56,3 @@ The space recommender rule is added to the selected space recommender rule set.
 
 **Parent Topic:**[Create a Space Recommender rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/create-a-space-recommender-rule.md)
 
-## Related
-
-- [[space-assistance|Space assistance]]
-- [[workplace-services-portal-hr|Workplace Service Portal]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]

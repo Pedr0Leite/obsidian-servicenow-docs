@@ -31,14 +31,14 @@ For a Playbook to be invoked automatically, a process needs to be defined using 
 
 For a Playbook to be invoked manually, navigate to the Form UI action drop down and select **Add Playbook**. For more information see, [Add Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/security-incident-playbook.md)
 
-**Note:** If there is already a playbook available then the new [[tisc-playbooks-admin|playbooks]] added will run in parallel to the existing playbooks.
+**Note:** If there is already a playbook available then the new playbooks added will run in parallel to the existing playbooks.
 
 -   Within the playbook, the analyst can filter the playbook cards by status.
 -   The analyst can cancel a playbook by selecting it from the ellipse icon.
 -   Within each activity, the analyst will be able to perform the actions defined within the activity cards such as Skip, Mark as complete, Cancel, or Orchestration actions such as Submit to sandbox, Search Emails and so on.
 -   Each of these actions are defined within the activity definition, and the complete card visible is customizable at the time of building the activity definition itself.
 
-**Note:** All the future [[build-activities|activity definitions]] and the next steps to be performed are displayed with a lock icon and are in read-only mode to the user. The playbook display mode is controlled by a configuration as explained below.
+**Note:** All the future activity definitions and the next steps to be performed are displayed with a lock icon and are in read-only mode to the user. The playbook display mode is controlled by a configuration as explained below.
 
 1.  Navigate to **All** &gt; **Playbook Experiences**.
 2.  In the Playbook Experiences page, select an **SIR Playbook Experience**.
@@ -139,7 +139,4 @@ Role required: sn\_si.analyst
 
     **Note:** If a Security incident is associated with a playbook, until the associated playbook gets closed or cancelled the user cannot again associate the same playbook to the same security incident.
 
-## Related
 
-- [[tisc-playbooks-admin|Playbooks]]
-- [[build-activities|Activity Definitions]]

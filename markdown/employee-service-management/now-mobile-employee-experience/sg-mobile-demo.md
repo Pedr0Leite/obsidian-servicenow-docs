@@ -14,7 +14,7 @@ breadcrumb: [Now Mobile app, Unified Employee Experience, Employee Service Manag
 
 # Now Mobile app demo
 
-Access the demo in your [[mobile-employee-experience|Now Mobile app]] to learn how the app can help you work from anywhere using your mobile device.
+Access the demo in your Now Mobile app to learn how the app can help you work from anywhere using your mobile device.
 
 The Now Mobile demo includes curated demonstrations to show how employees, new hires, and Chief Information Officers \(CIO\) can get work done on their mobile device.
 
@@ -71,7 +71,7 @@ The Now Mobile demo displays a launcher screen divided into UI sections. Tap an 
 
     -   Assets
 
-        Items assigned to a user are itemized for easy [[reference-hr-service-delivery-advanced-integration-with-workday|reference]], making it simple to report an issue or review all checked out assets. For more information, see [Hardware Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/ham-landing-page.md).
+        Items assigned to a user are itemized for easy reference, making it simple to report an issue or review all checked out assets. For more information, see [Hardware Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/ham-landing-page.md).
 
     -   Team
 
@@ -87,7 +87,7 @@ The Now Mobile demo displays a launcher screen divided into UI sections. Tap an 
 
 -   **Health**
 
-    Employees have everything they need for workplace [[health-safety-overview|health and safety]]. Users can verify health, make reservations, or report vaccinations. For more information, see [Safe Workplace for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace-for-mobile/mobile-emergency-response.md).
+    Employees have everything they need for workplace health and safety. Users can verify health, make reservations, or report vaccinations. For more information, see [Safe Workplace for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace-for-mobile/mobile-emergency-response.md).
 
 -   **Virtual Agent Chat**
 
@@ -182,8 +182,3 @@ Use the following links to learn more about on how to use and configure the Now 
 
 **Parent Topic:**[Now Mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/mobile-employee-experience.md)
 
-## Related
-
-- [[mobile-employee-experience|Now Mobile app]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[health-safety-overview|Health and Safety]]

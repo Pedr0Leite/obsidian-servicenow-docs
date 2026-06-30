@@ -15,7 +15,7 @@ breadcrumb: [Configure, Now Assist for IT Service Management \(ITSM\), IT Servic
 
 # Customize Now Assist for IT Service Management \(ITSM\) Request Management skills
 
-If you have the admin role, you can [[cust-now-assist-itsm-skill|customize a Now Assist for IT Service Management \(ITSM\) skill]] so that agents can use the generative AI skills in [[sow-landing-page|Service Operations Workspace for ITSM]] and in Core UI.
+If you have the admin role, you can customize a Now Assist for IT Service Management \(ITSM\) skill so that agents can use the generative AI skills in Service Operations Workspace for ITSM and in Core UI.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Role required: sn\_nowassist\_admin.nsa\_admin
 
 ## About this task
 
-**Important:** [[c_RequestManagement|Request Management]] skills include the following:
+**Important:** Request Management skills include the following:
 
 -   Request summarization
 -   Requested item summarization
@@ -157,8 +157,4 @@ Description of the base input field value.
 
     Review your choices and select **Activate** to complete the skill customization. A popup displays to show that activation was successful.
 
-## Related
 
-- [[cust-now-assist-itsm-skill|Customize a Now Assist for IT Service Management \(ITSM\) skill]]
-- [[sow-landing-page|Service Operations Workspace for ITSM]]
-- [[c_RequestManagement|Request Management]]

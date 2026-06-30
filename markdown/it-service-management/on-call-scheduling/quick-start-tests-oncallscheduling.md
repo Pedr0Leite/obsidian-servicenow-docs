@@ -14,7 +14,7 @@ breadcrumb: [Reference for on-call scheduling, On-Call Scheduling, IT Service Ma
 
 # Quick start tests for On-Call Scheduling
 
-Validate that [[c_OnCallScheduling|On-Call Scheduling]] still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
+Validate that On-Call Scheduling still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
 
 ## On-Call Scheduling
 
@@ -48,6 +48,3 @@ To learn more about On-Call Scheduling, see [On-Call Scheduling](https://raw.git
 
 [Quick start tests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/quick-start-tests.md)
 
-## Related
-
-- [[c_OnCallScheduling|On-Call Scheduling]]

@@ -14,7 +14,7 @@ breadcrumb: [IP Filter, Filter criteria, Adaptive authentication, Authentication
 
 # Create IP filter criteria
 
-[[ip-filter|IP filter]] criteria allows you to filter [[users|users]] based on the user's IP addresses. You can [[configure-allow-access-policy|configure an authentication policy]] to allow or deny access to a specific address or range of addresses.
+IP filter criteria allows you to filter users based on the user's IP addresses. You can configure an authentication policy to allow or deny access to a specific address or range of addresses.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: adaptive\_auth\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[adaptive-authentication|Adaptive Authentication]]** &gt; **[[adaptive-auth-filter-criteria|Filter Criteria]]** &gt; **IP Filter Criteria**.
+1.  Navigate to **All** &gt; **Adaptive Authentication** &gt; **Filter Criteria** &gt; **IP Filter Criteria**.
 
 2.  Click **New**.
 
@@ -50,10 +50,4 @@ Role required: adaptive\_auth\_admin
 
     \[Omitted image "subnet-ip-filter-sample.png"\] Alt text: Sample Subnet in IP filter criteria
 
-## Related
 
-- [[ip-filter|IP Filter]]
-- [[users|Users]]
-- [[configure-allow-access-policy|Configure an authentication policy]]
-- [[adaptive-authentication|Adaptive authentication]]
-- [[adaptive-auth-filter-criteria|Filter criteria]]

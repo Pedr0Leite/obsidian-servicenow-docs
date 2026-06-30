@@ -16,7 +16,7 @@ breadcrumb: [Using MFA, Multi-factor authentication, Authentication, Access Mana
 
 Use third party authenticator applications to generate temporary MFA pass codes.
 
-An authenticator application is third-party software that generates temporary pass-codes. You can use these pass-codes along with your password to login into an instance that requires [[mfa-landing|multi-factor authentication]] \(MFA\).
+An authenticator application is third-party software that generates temporary pass-codes. You can use these pass-codes along with your password to login into an instance that requires multi-factor authentication \(MFA\).
 
 If your administrator has enabled MFA on your instance, you see a prompt for a pass-code after entering your user and password during login.
 
@@ -36,6 +36,3 @@ ServiceNow tests MFA with the following authenticators:
 
 **Note:** Other authenticators not listed might also be compatible, but are not tested by ServiceNow.
 
-## Related
-
-- [[mfa-landing|Multi-factor authentication]]

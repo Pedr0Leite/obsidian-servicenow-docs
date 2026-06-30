@@ -14,7 +14,7 @@ breadcrumb: [Now Assist in Knowledge Management, Manage content capabilities, Ex
 
 # Using Now Assist in Knowledge Management
 
-[[now-assist-knowledge-management|Now Assist in Knowledge Management]] enhances the agent experience by using artificial intelligence \(AI\) to generate a new knowledge article based on the resolution provided to a case or an incident.
+Now Assist in Knowledge Management enhances the agent experience by using artificial intelligence \(AI\) to generate a new knowledge article based on the resolution provided to a case or an incident.
 
 ## Generating knowledge articles
 
@@ -32,14 +32,14 @@ Generate a new knowledge article for a case or an incident from the Now Assist p
 -   **[Generate a Knowledge article from the classic environment with Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/Now-Assist-generate-article-coreui.md)**  
 As an author or an agent, generate new Knowledge articles using Now Assist on tasks within the classic environment.
 -   **[Generate a Knowledge article using multi-language support](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/Now-Assist-generate-article-using-multilanguage-support.md)**  
-Now Assist in Knowledge Management provides multi-language support for Knowledge article generation. Generate knowledge articles in multiple languages with the Now Assist multi-language support for [[knowledge-management|Knowledge Management]]. As an agent, you can generate articles from incidents, cases and other task types that are documented in languages other than English by using a language selector configured by the admin.
+Now Assist in Knowledge Management provides multi-language support for Knowledge article generation. Generate knowledge articles in multiple languages with the Now Assist multi-language support for Knowledge Management. As an agent, you can generate articles from incidents, cases and other task types that are documented in languages other than English by using a language selector configured by the admin.
 -   **[Edit an article using the Now Assist context menu](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/Now-Assist-generate-article-using-context-menu.md)**  
 Elaborate or shorten content within a Knowledge article using the Now Assist context menu feature that enables agents to leverage the generative AI capabilities of Now Assist in Knowledge Management.
--   **[[kc-article-editor|Generate and edit articles using Now Assist in the Knowledge Center article editor]]**  
-This task explains how to create and improve a knowledge article with the [[knowledge-center|Knowledge center]] article editor.
--   **[[kc-create-article-with-Box|Create knowledge articles using Now Assist and Box]]**  
-Use Box to create knowledge articles from content stored in an external Box account. When you initiate article creation and [[select-box|select Box]] as the source, Now Assist searches the connected Box account for files relevant to the prompt, then generates an article based on the results.
--   **[[kc-reading-ease-scan|Article Optimization with Reading Ease scan]]**  
+-   **[Generate and edit articles using Now Assist in the Knowledge Center article editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/kc-article-editor.md)**  
+This task explains how to create and improve a knowledge article with the Knowledge center article editor.
+-   **[Create knowledge articles using Now Assist and Box](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/kc-create-article-with-Box.md)**  
+Use Box to create knowledge articles from content stored in an external Box account. When you initiate article creation and select Box as the source, Now Assist searches the connected Box account for files relevant to the prompt, then generates an article based on the results.
+-   **[Article Optimization with Reading Ease scan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/kc-reading-ease-scan.md)**  
 The Reading Ease scan runs as part of **Article Optimization**. The scan is triggered each time you save an article or when the scheduled job runs, or both. When the scan detects readability issues with a knowledge article, review and resolve the findings to improve the readability of the article that scored below the acceptable threshold.
 -   **[Identify and review duplicate Knowledge articles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/Now-Assist-identify-and-review-duplicate-articles.md)**  
 Review duplicate Knowledge articles using the Now Assist Identify and review duplicate articles feature.
@@ -48,12 +48,3 @@ Merge multiple duplicate knowledge articles into a single, consolidated article 
 
 **Parent Topic:**[Now Assist in Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/now-assist-knowledge-management.md)
 
-## Related
-
-- [[kc-article-editor|Generate and edit articles using Now Assist in the Knowledge Center article editor]]
-- [[kc-create-article-with-Box|Create knowledge articles using Now Assist and Box]]
-- [[kc-reading-ease-scan|Article Optimization with Reading Ease scan]]
-- [[now-assist-knowledge-management|Now Assist in Knowledge Management]]
-- [[knowledge-management|Knowledge Management]]
-- [[knowledge-center|Knowledge Center]]
-- [[select-box|Select box]]

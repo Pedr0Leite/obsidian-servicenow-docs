@@ -24,8 +24,5 @@ Manually tracking your digital TLS certificates is a time consuming, tedious job
 
 Automatic certificate renewal agents let you find certificates approaching expiration and automatically renew them before they expire.
 
-You can also [[set-certificate-to-renew-automatically|set a certificate to renew automatically]] when requesting a new certificate.
+You can also set a certificate to renew automatically when requesting a new certificate.
 
-## Related
-
-- [[set-certificate-to-renew-automatically|Set a certificate to renew automatically]]

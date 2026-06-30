@@ -14,7 +14,7 @@ breadcrumb: [Configure, Privacy Management, Governance, Risk, and Compliance]
 
 # Manage the Privacy Management library
 
-The [[privacy-management|Privacy Management]] library consists of authority documents, citations, control objectives, policies, and \[PI\] [[information-objects|Information objects]] that help to manage the privacy content.
+The Privacy Management library consists of authority documents, citations, control objectives, policies, and \[PI\] Information objects that help to manage the privacy content.
 
 ## Authority documents
 
@@ -24,7 +24,7 @@ Authority documents are the principles, guidelines, regulations, standards, and 
 -   Regulations
 -   Audit Guidelines
 
-Organizations can either create the authority documents, citations, and control objectives or they can download and import them from a third-party provider such as the Network Frontiers Unified Compliance Framework \(UCF\). You can create and manage authority documents from **Library** &gt; **Authority documents** in the [[list-view-uib-ws|List view]] of the Privacy Workspace.
+Organizations can either create the authority documents, citations, and control objectives or they can download and import them from a third-party provider such as the Network Frontiers Unified Compliance Framework \(UCF\). You can create and manage authority documents from **Library** &gt; **Authority documents** in the List view of the Privacy Workspace.
 
 ## Citations
 
@@ -44,18 +44,18 @@ Privacy assessments are used to collect information from business owners. This i
 
 ## Risk assessments
 
-The [[risk-assessments|risk assessments]] capability enables you to determine the organizational privacy risk posture using criticality and privacy risk assessments.
+The risk assessments capability enables you to determine the organizational privacy risk posture using criticality and privacy risk assessments.
 
 ## PI Information objects
 
-\[PI\] Information objects refer to information objects that are of type **Personal information**. To understand the benefit of using information objects in the Privacy Management solution, refer to [Information objects in Privacy Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/information-object-in-privacy.md). Maintaining a library of \[PI\] Information objects and associating them with the [[ropa-record|processing activities]] helps the privacy teams to understand what personal information \(PI\) is being processed by the processing activity.
+\[PI\] Information objects refer to information objects that are of type **Personal information**. To understand the benefit of using information objects in the Privacy Management solution, refer to [Information objects in Privacy Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/information-object-in-privacy.md). Maintaining a library of \[PI\] Information objects and associating them with the processing activities helps the privacy teams to understand what personal information \(PI\) is being processed by the processing activity.
 
 Only the information objects that are tagged with the **Personal information** tag are available to be added to a processing activity. For more information on how to tag information objects see, [Classify information objects as personal information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/tag-io-with-pi.md).
 
 -   **[Create an information object](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/create-information-object.md)**  
-Create information objects manually to associate the right [[data-subjects|data subject types]] with business processes or applications.
+Create information objects manually to associate the right data subject types with business processes or applications.
 -   **[Configure information object categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/configure-information-object-categories.md)**  
-[[configure-information-object-categories|Configure information object categories]] to classify information objects effectively. For example, attributes like iris scans and fingerprints are often referred to as biometric data, or email addresses and phone numbers can be grouped as contact information. Information object categories enable you to categorize these information objects under these broader classifications.
+Configure information object categories to classify information objects effectively. For example, attributes like iris scans and fingerprints are often referred to as biometric data, or email addresses and phone numbers can be grouped as contact information. Information object categories enable you to categorize these information objects under these broader classifications.
 -   **[Classify information objects as personal information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/tag-io-with-pi.md)**  
 Categorize information objects as personal information. Only information objects classified as personal information can be associated with the processing activities.
 
@@ -68,12 +68,3 @@ Categorize information objects as personal information. Only information objects
 
 [Create a Risk Assessment Methodology](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/create-a-risk-assessment-methodology.md)
 
-## Related
-
-- [[privacy-management|privacy management]]
-- [[information-objects|information objects]]
-- [[list-view-uib-ws|List view]]
-- [[risk-assessments|risk assessments]]
-- [[ropa-record|Processing activities]]
-- [[data-subjects|Data subject types]]
-- [[configure-information-object-categories|Configure information object categories]]

@@ -12,11 +12,11 @@ breadcrumb: [Configure wrap-up codes for email interactions, Email Interaction, 
 
 # Associate wrap-up codes with email interactions
 
-Associate wrap-up codes with the [[email-as-an-interaction|email interaction]] wrap-up configuration so that agents can select them when closing an interaction.
+Associate wrap-up codes with the email interaction wrap-up configuration so that agents can select them when closing an interaction.
 
 ## Before you begin
 
-A wrap-up code must be created. See [[configure-wrap-up-codes-email-interactions-eaai|Configure wrap-up codes for email interactions]].
+A wrap-up code must be created. See [Configure wrap-up codes for email interactions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-wrap-up-codes-email-interactions-eaai.md).
 
 Role required: admin
 
@@ -41,7 +41,3 @@ Role required: admin
 
 The configured wrap-up codes are available to agents when closing email interactions.
 
-## Related
-
-- [[configure-wrap-up-codes-email-interactions-eaai|Configure wrap-up codes for email interactions]]
-- [[email-as-an-interaction|Email Interaction]]

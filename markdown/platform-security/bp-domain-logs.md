@@ -12,7 +12,7 @@ breadcrumb: [Recommended practices for service providers, Domain separation for 
 
 # Checking domain logs for errors and warnings
 
-Check the domain [[logs|logs]] to find errors or warnings in your domain path processes and hierarchy configurations.
+Check the domain logs to find errors or warnings in your domain path processes and hierarchy configurations.
 
 You can find the domain logs in the Domain Log \[syslog\_domain\] table. When the domain hierarchy updates, the system triggers a scheduled job to recalculate the domain paths. The domain logs table captures the results.
 
@@ -22,9 +22,9 @@ In this example of a log, the system has detected ten orphan records in the sys\
 
 \[Omitted image "bp-domain-logs.png"\] Alt text: Domain logs showing errors
 
-To learn more about domain-separation errors, see [[r_TroubleshootDomainSeparationError|Troubleshoot domain separation errors]].
+To learn more about domain-separation errors, see [Troubleshoot domain separation errors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/r_TroubleshootDomainSeparationError.md).
 
-**Parent Topic:**[[bp-domain-sep-recommended|Domain separation recommended practices for service providers]]
+**Parent Topic:**[Domain separation recommended practices for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-domain-sep-recommended.md)
 
 **Related topics**  
 
@@ -79,8 +79,3 @@ To learn more about domain-separation errors, see [[r_TroubleshootDomainSeparati
 
 [Domain separation and the Customer Service Management \(CSM\) plugin]()
 
-## Related
-
-- [[r_TroubleshootDomainSeparationError|Troubleshoot domain separation errors]]
-- [[bp-domain-sep-recommended|Domain separation recommended practices for service providers]]
-- [[logs|Logs]]

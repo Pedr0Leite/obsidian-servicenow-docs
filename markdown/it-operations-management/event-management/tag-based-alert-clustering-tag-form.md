@@ -68,7 +68,7 @@ Select the source from which to choose the field to be matched.-   **Alert field
 -   **Alert additional info**
 -   **Alert CI**
 -   **Alert CI key**
--   **[[alert-tags|Alert tags]]**
+-   **Alert tags**
 
  If you select **Alert additional info**, choose an **Additional Info Key** instead of a field. **Alert additional info** is a field on alert containing the key value pair in Jason format and we can use a specific key.
 
@@ -130,6 +130,3 @@ Specify the similarity percentage that must be met by the alerts to be included 
 </td></tr></tbody>
 </table>**Parent Topic:**[Event Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/event-management-reference.md)
 
-## Related
-
-- [[alert-tags|Alert tags]]

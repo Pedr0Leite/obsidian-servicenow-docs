@@ -22,7 +22,7 @@ Role required: sn\_publications.author or sn\_publications.admin
 
 1.  Navigate to one of the following modules:
 
-    -   **[[c_TargetedCommunications|Targeted Communications]]** &gt; **Active Publications**
+    -   **Targeted Communications** &gt; **Active Publications**
     -   **Targeted Communications** &gt; **Draft Publications**
 2.  Open the desired publication.
 
@@ -32,6 +32,4 @@ Role required: sn\_publications.author or sn\_publications.admin
 
 4.  Click **Update**.
 
-## Related
 
-- [[c_TargetedCommunications|Targeted communications]]

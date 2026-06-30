@@ -12,7 +12,7 @@ breadcrumb: [Configure, Next Experience UI, Configure UIs and portals, Configure
 
 # Next Experience system properties
 
-List of system properties related to the [[next-experience-landing-page|Next Experience UI]].
+List of system properties related to the Next Experience UI.
 
 <table id="table_yvy_5wf_2rb"><thead><tr><th>
 
@@ -44,7 +44,7 @@ true
 
 </td><td>
 
-Disables the [[c_UI16|Core UI]] styles for [[lists-configurable-workspace|lists]] and [[form-configurable-workspace|forms]] in the Next Experience.
+Disables the Core UI styles for lists and forms in the Next Experience.
 
 </td></tr><tr><td>
 
@@ -284,7 +284,7 @@ true
 
 </td><td>
 
-Determines if the pop-up for Onboarding appears when the user logs in to an instance [[next-experience-ui-use|using Next Experience UI]] for the first time.
+Determines if the pop-up for Onboarding appears when the user logs in to an instance using Next Experience UI for the first time.
 
 </td></tr><tr><td>
 
@@ -303,13 +303,5 @@ integer
 Controls accuracy of the filtering in the Unified Navigation menus. The higher the number, the more accurate the match must be. A value of 100 means an exact match is required.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[next-experience-ui-admin|Configuring the Next Experience UI]]
+</table>**Parent Topic:**[Configuring the Next Experience UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-ui-admin.md)
 
-## Related
-
-- [[next-experience-ui-admin|Configuring the Next Experience UI]]
-- [[next-experience-landing-page|Next Experience UI]]
-- [[c_UI16|Core UI]]
-- [[lists-configurable-workspace|Lists]]
-- [[form-configurable-workspace|Forms]]
-- [[next-experience-ui-use|Using Next Experience UI]]

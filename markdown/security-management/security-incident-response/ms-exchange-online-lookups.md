@@ -14,13 +14,13 @@ breadcrumb: [Security Incident Response integrations, Security Incident Response
 
 # Microsoft Exchange Online integration
 
-For the Microsoft Exchange Online integration application by ServiceNow, the ServiceNow AI Platform® [[sir-landing-page|Security Incident Response]] \(SIR\) product is integrated with the Microsoft Exchange Online service, one of the cloud-based services in the Microsoft Office 365 suite of products. Your Security Operation Center \(SOC\) analyst can search your corporate email environment for security-related threats and remove and remediate phishing emails with email search and delete capabilities.
+For the Microsoft Exchange Online integration application by ServiceNow, the ServiceNow AI Platform® Security Incident Response \(SIR\) product is integrated with the Microsoft Exchange Online service, one of the cloud-based services in the Microsoft Office 365 suite of products. Your Security Operation Center \(SOC\) analyst can search your corporate email environment for security-related threats and remove and remediate phishing emails with email search and delete capabilities.
 
 ## Overview of Microsoft Exchange Online integration
 
 As the security incident analyst, you execute the integration from the security analyst interface, and the workflow returns email message details that match search criteria. Email searches are based on criteria that include subject lines as well as sender and recipient email addresses. After the email search is complete, you can delete suspicious emails from the Microsoft Exchange Online service, and, an optional approval process can be configured to request approval prior to deleting emails.
 
-This email search and delete integration can be used with a broader phishing response incident workflow or runbook. After a corporate user or employee receives a suspicious email and reports it to the company's phishing response team or inbox, the reported email is forwarded to the ServiceNow AI Platform and categorized as a security incident. After you have verified that an email is a phishing attack, as the analyst responsible for investigating phishing incidents, you can initiate an email search to determine if other corporate users have received this phishing email. The search allows you to locate related emails from the same phishing [[campaign|campaign]] and identify other potential victims who may have received the email, read it, and also potentially clicked a malicious URL or opened an attachment.
+This email search and delete integration can be used with a broader phishing response incident workflow or runbook. After a corporate user or employee receives a suspicious email and reports it to the company's phishing response team or inbox, the reported email is forwarded to the ServiceNow AI Platform and categorized as a security incident. After you have verified that an email is a phishing attack, as the analyst responsible for investigating phishing incidents, you can initiate an email search to determine if other corporate users have received this phishing email. The search allows you to locate related emails from the same phishing campaign and identify other potential victims who may have received the email, read it, and also potentially clicked a malicious URL or opened an attachment.
 
 ## Key features
 
@@ -39,7 +39,7 @@ This integration supports Microsoft Exchange Online services, which are part of 
 
 ## Prerequisites
 
-The com.snc.si\_dep plugin is required for any ServiceNow AI Platform version. This plugin automatically installs all the dependencies that are required to support the Security Incident Response product. Install and activate this plugin before installing and activating the other [[security-operations-landing-page|Security Operations]] applications.
+The com.snc.si\_dep plugin is required for any ServiceNow AI Platform version. This plugin automatically installs all the dependencies that are required to support the Security Incident Response product. Install and activate this plugin before installing and activating the other Security Operations applications.
 
 The following Security Operations applications must be installed and activated from the ServiceNow Store. Install and then activate one application at a time in the order listed below to ensure a smooth installation:
 
@@ -67,8 +67,3 @@ You can edit the names and colors of the security tags in your ServiceNow AI Pla
 
 **Parent Topic:**[Security Incident Response integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/sir_integrations.md)
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[campaign|Campaign]]
-- [[security-operations-landing-page|Security Operations]]

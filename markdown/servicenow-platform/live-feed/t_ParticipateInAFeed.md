@@ -27,14 +27,14 @@ Feed members can do the following:
 -   [View messages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/t_ViewAFeed.md) posted to the feed. Non-members can also view the messages for a public feed.
 -   [View a list of feed members](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/t_ViewAFeedMember.md).
 -   Invite another user to join the feed.
--   Subscribe to feed [[email|email]] notifications.
+-   Subscribe to feed email notifications.
 -   [Leave the feed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/t_LeaveAFeed.md).
 
 ## Procedure
 
 1.  Navigate to **Live Feed** &gt; **Live Feed**.
 
-2.  Click either **Group Feeds** or **[[c_RecordFeeds|Record Feeds]]**, and then click **All Feeds**.
+2.  Click either **Group Feeds** or **Record Feeds**, and then click **All Feeds**.
 
     -   If you received an invitation, click **Accept**. You can **Decline** the invitation if you do not want to join the feed.
     -   If the feed is public, click **Join**.
@@ -42,7 +42,3 @@ Feed members can do the following:
 
 **Parent Topic:**[Use feeds in Live Feed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/c_UseFeedsInLiveFeed.md)
 
-## Related
-
-- [[email|Email]]
-- [[c_RecordFeeds|Record feeds]]

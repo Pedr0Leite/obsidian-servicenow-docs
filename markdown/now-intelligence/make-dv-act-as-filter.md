@@ -27,7 +27,7 @@ Role required: Any internal role and the right to edit the dashboard with the vi
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Dashboards**.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Dashboards**.
 
 2.  Find and open the dashboard that contains the data visualization.
 
@@ -49,15 +49,9 @@ Role required: Any internal role and the right to edit the dashboard with the vi
 **Related topics**  
 
 
-[[dv-chart-interactions|Chart interactions in a data visualization]]
+[Chart interactions in a data visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/dv-chart-interactions.md)
 
-[[create-dv-donut-ac|Create a pie or donut data visualization]]
+[Create a pie or donut data visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-donut-ac.md)
 
-[[create-dv-bar-ac|Create a horizontal or vertical bar data visualization]]
+[Create a horizontal or vertical bar data visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-bar-ac.md)
 
-## Related
-
-- [[dv-chart-interactions|Chart interactions in a data visualization]]
-- [[create-dv-donut-ac|Create a pie or donut data visualization]]
-- [[create-dv-bar-ac|Create a horizontal or vertical bar data visualization]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

@@ -14,21 +14,16 @@ breadcrumb: [Multi Provider Document Services Framework, Document Services, Mana
 
 # Using Multi Provider Document Services Framework
 
-[[create-provider-details-mp|Create provider details]], document actions, provider permissions and configure permission.
+Create provider details, document actions, provider permissions and configure permission.
 
 -   **[Create provider details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/create-provider-details-mp.md)**  
 Create provider details for multi provider documents.
 -   **[Create document actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/create-document-actions.md)**  
-[[create-document-actions|Create document actions]] for multi provider documents.
+Create document actions for multi provider documents.
 -   **[Create provider permissions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/create-provider-permissions-mp.md)**  
-[[create-provider-permissions-mp|Create provider permissions]] for multi provider documents.
+Create provider permissions for multi provider documents.
 -   **[Configure permissions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/configure-permissions-mp.md)**  
 Configure permission for roles and groups for multi provider documents.
 
 **Parent Topic:**[Multi Provider Document Services Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/mp-document-services-framework-landing.md)
 
-## Related
-
-- [[create-provider-details-mp|Create provider details]]
-- [[create-document-actions|Create document actions]]
-- [[create-provider-permissions-mp|Create provider permissions]]

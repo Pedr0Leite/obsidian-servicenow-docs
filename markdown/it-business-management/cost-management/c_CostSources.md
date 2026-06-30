@@ -24,7 +24,7 @@ These are generally classified as one of three types:
 
 ## CI Rate Cards
 
-A CI rate card is a template that defines costs for a particular type of CI. This example uses only server-related costs. Since there are only a few different server models and the costs are the same for each model, [[c_CIRateCards|CI rate cards]] can define a template of costs for each model.
+A CI rate card is a template that defines costs for a particular type of CI. This example uses only server-related costs. Since there are only a few different server models and the costs are the same for each model, CI rate cards can define a template of costs for each model.
 
 Following is the Sun E20K Servers NY rate card:
 
@@ -96,6 +96,3 @@ The conditions state that for users in the **Development** department, time work
 
 **Parent Topic:**[Cost Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/cost-management/r_CostManagement.md)
 
-## Related
-
-- [[c_CIRateCards|CI rate cards]]

@@ -14,7 +14,7 @@ breadcrumb: [Managing impacted people, Critical Event Management, Health and Saf
 
 # Generate impacted people list
 
-Generate an impacted people list for a critical event in [[critical-event-management|Critical Event Management]]. The impacted people list is used to account for every individual in the critical event location.
+Generate an impacted people list for a critical event in Critical Event Management. The impacted people list is used to account for every individual in the critical event location.
 
 ## Before you begin
 
@@ -26,11 +26,11 @@ Employees are mapped to their workspace location. The employee list is automatic
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]** and select **New Critical Event**.
+1.  Navigate to **Workspaces** &gt; **Health and Safety Workspace** and select **New Critical Event**.
 
     You can also select an existing critical event in the **Critical Event Management** tab.
 
-2.  In the [[new-critical-event-form|Critical Event form]], fill out the fields.
+2.  In the Critical Event form, fill out the fields.
 
     For a description of the field values, see [Critical Event form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/new-critical-event-form.md).
 
@@ -60,8 +60,3 @@ Employees are mapped to their workspace location. The employee list is automatic
 
 [Conduct a roll call as an on-site responder]()
 
-## Related
-
-- [[critical-event-management|Critical Event Management]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[new-critical-event-form|Critical Event form]]

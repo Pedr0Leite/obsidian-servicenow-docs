@@ -13,7 +13,7 @@ breadcrumb: [Email Interaction for CSM reference, Reference, Customer Service Ma
 
 # Email interaction sections
 
-Use the sections on the [[email-as-an-interaction|email interaction]] page to view and update contact, interaction, and activity details.
+Use the sections on the email interaction page to view and update contact, interaction, and activity details.
 
 |Field|Description|
 |-----|-----------|
@@ -41,9 +41,9 @@ Lookup by name, phone, or email
 </td><td>
 
 Component for looking up a contact by name, phone number, or email address: -   Search for a contact by name, phone number, or email address. Matching results appear in record cards as characters are entered in the search box.
--   Select a contact by selecting the matching record card. The record card replaces the [[csm-record-page-lookup-component|lookup component]].
+-   Select a contact by selecting the matching record card. The record card replaces the lookup component.
 
-You can also create a record to add a guest user as a contact. For more information, see [[create-a-customer-contact_EaaI|Create a customer contact]].
+You can also create a record to add a guest user as a contact. For more information, see [Create a customer contact](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-a-customer-contact_EaaI.md).
 
 </td></tr></tbody>
 </table><table id="table_v4m_3f1_ycc"><thead><tr><th>
@@ -140,7 +140,7 @@ Requester Organization
 
 </td><td>
 
-Organization requesting the [[omnichannel|omnichannel]] interactions.
+Organization requesting the omnichannel interactions.
 
 </td></tr><tr><td>
 
@@ -173,7 +173,7 @@ Work notes
 
 </td><td>
 
-Internal notes documented for the agent's reference. These notes are visible only to agents and not to customer. When a work note is created, it appears in the [[csm-config-ws-activity-stream|Activity stream]]. For more information on work notes, see [[composing-email-work-note|Compose a work note for internal use]].
+Internal notes documented for the agent's reference. These notes are visible only to agents and not to customer. When a work note is created, it appears in the Activity stream. For more information on work notes, see [Compose a work note for internal use](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/composing-email-work-note.md).
 
 </td></tr><tr><td>
 
@@ -197,7 +197,7 @@ Activity
 
 </td><td>
 
-View of email conversations between the agent and the customer. For more information, see [[using-activity-stream-in-an-email-interaction|Using the activity stream in an email interaction]].
+View of email conversations between the agent and the customer. For more information, see [Using the activity stream in an email interaction](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/using-activity-stream-in-an-email-interaction.md).
 
 </td></tr><tr><td>
 
@@ -226,11 +226,11 @@ Displays files and documents associated with the current record or interaction.
 
 </td></tr><tr><td>
 
-[[configure-nba|Recommended Actions]]
+Recommended Actions
 
 </td><td>
 
-Displays the most relevant next steps based on the current context. For more information, see [[ra-csm-using-recommended-actions|Using the Recommended Actions application]].
+Displays the most relevant next steps based on the current context. For more information, see [Using the Recommended Actions application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-using-recommended-actions.md).
 
 </td></tr><tr><td>
 
@@ -238,7 +238,7 @@ Consumer Verify
 
 </td><td>
 
-Confirms the identity or details of the consumer involved in the interaction. For more information, see [[lookup-and-verify-overview|Lookup and verify]].
+Confirms the identity or details of the consumer involved in the interaction. For more information, see [Lookup and verify](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/lookup-and-verify-overview.md).
 
 </td></tr><tr><td>
 
@@ -258,7 +258,7 @@ Displays the response template required to respond to the customer. For more inf
 
 </td></tr><tr><td>
 
-Related [[migration-lists|Lists]]
+Related Lists
 
 </td><td>
 
@@ -275,7 +275,7 @@ Customer History
 
 </td><td>
 
-Displays customer, consumer, or account history information, depending on the customer information provided on the interaction record. This tab includes a search field, filter, and date range selector that agents can use to find specific information in the history. For more information on the customer history, see [[customer-history-component-features|Customer History component features]].
+Displays customer, consumer, or account history information, depending on the customer information provided on the interaction record. This tab includes a search field, filter, and date range selector that agents can use to find specific information in the history. For more information on the customer history, see [Customer History component features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-history-component-features.md).
 
 </td></tr></tbody>
 </table><table id="table_overview_zdc"><thead><tr><th>
@@ -292,7 +292,7 @@ Summarize
 
 </td><td>
 
-Generates an AI summary of the email interaction using ServiceNow Otto. The summary appears in the Interaction Summary card and may include Issue, Key Actions Taken, and Next Steps depending on the email content.**Note:** AI-generated summaries may be inaccurate. Review the summary before using it. Check your entitlements to determine whether you have access to this feature. For more information, see [[eaai-ai-summarization-email-interactions|AI summarization of email interactions]] and [[summarize-email-interaction-eaai|Summarize an email interaction]]
+Generates an AI summary of the email interaction using ServiceNow Otto. The summary appears in the Interaction Summary card and may include Issue, Key Actions Taken, and Next Steps depending on the email content.**Note:** AI-generated summaries may be inaccurate. Review the summary before using it. Check your entitlements to determine whether you have access to this feature. For more information, see [AI summarization of email interactions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/eaai-ai-summarization-email-interactions.md) and [Summarize an email interaction](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/summarize-email-interaction-eaai.md)
 
 </td></tr><tr><td>
 
@@ -395,24 +395,7 @@ Generates an AI summary of the email interaction on demand. Check your entitleme
 </table>**Related topics**  
 
 
-[[using-email-interaction-page|Using email interaction page]]
+[Using email interaction page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/using-email-interaction-page.md)
 
 [AI summarization of email interactions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/eaai-ai-summarization-email-interactions.md)
 
-## Related
-
-- [[create-a-customer-contact_EaaI|Create a customer contact]]
-- [[composing-email-work-note|Compose an email or a work note]]
-- [[using-activity-stream-in-an-email-interaction|Using the activity stream in an email interaction]]
-- [[ra-csm-using-recommended-actions|Using the Recommended Actions application]]
-- [[lookup-and-verify-overview|Lookup and verify]]
-- [[customer-history-component-features|Customer History component features]]
-- [[eaai-ai-summarization-email-interactions|AI summarization of email interactions]]
-- [[summarize-email-interaction-eaai|Summarize an email interaction]]
-- [[using-email-interaction-page|Using email interaction page]]
-- [[email-as-an-interaction|Email Interaction]]
-- [[csm-record-page-lookup-component|Lookup component]]
-- [[omnichannel|Omnichannel]]
-- [[csm-config-ws-activity-stream|Activity stream]]
-- [[configure-nba|Recommended Actions]]
-- [[migration-lists|Lists]]

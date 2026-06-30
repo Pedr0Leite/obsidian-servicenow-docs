@@ -14,7 +14,7 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 # Restrict knowledge bases access
 
-The **glide.knowman.block\_access\_with\_no\_user\_criteria** property is used to control the read/write access of [[users|users]] on knowledge based articles.
+The **glide.knowman.block\_access\_with\_no\_user\_criteria** property is used to control the read/write access of users on knowledge based articles.
 
 The **glide.knowman.block\_access\_with\_no\_user\_criteria** system property is used in knowledge record user criteria security. If **glide.knowman.block\_access\_with\_no\_user\_criteria** isn't set to the recommended value of **true**, then knowledge bases without can read or can contribute user criteria become readable and writable by all users.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -115,8 +115,3 @@ Denies access to a knowledge base when either Can Read or Can Contribute isn't s
 </td></tr></tbody>
 </table>**Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

@@ -22,11 +22,11 @@ Role required: itil, admin
 
 ## About this task
 
-As an IT technician, you can propose a new change template for a change request that you frequently create. This new template is later sent for approval to the [[c_ITILChangeManagement|change management]] team, which reviews the request and approves the template as part of the approval process.
+As an IT technician, you can propose a new change template for a change request that you frequently create. This new template is later sent for approval to the change management team, which reviews the request and approves the template as part of the approval process.
 
 ## Procedure
 
-1.  You can propose a standard change template by navigating to **Change** &gt; **Standard Change** &gt; **[[c_StandardChangeCatalogPlugin|Standard Change Catalog]]** &gt; **Template Management** &gt; **Propose a new Standard Change Template** and filling in the fields on the form.
+1.  You can propose a standard change template by navigating to **Change** &gt; **Standard Change** &gt; **Standard Change Catalog** &gt; **Template Management** &gt; **Propose a new Standard Change Template** and filling in the fields on the form.
 
     |Field|Description|
     |-----|-----------|
@@ -51,11 +51,11 @@ As an IT technician, you can propose a new change template for a change request 
 
     **Note:**
 
-    -   Any [[change-tasks|change tasks]] that are included with the change also get copied to the new standard change proposal. The fields copied from both the change and change tasks are defined in the [Standard Change Properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_ConfigureTheStandardChangeCatalog.md).
+    -   Any change tasks that are included with the change also get copied to the new standard change proposal. The fields copied from both the change and change tasks are defined in the [Standard Change Properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_ConfigureTheStandardChangeCatalog.md).
     -   By default, approval records are created for members of the Change Management group.
     Alternatively, as a change manager, create and submit a standard change proposal that can be utilized as a template to draft a standard change request that occurs frequently and is of low risk. By default, the basic standard change proposal workflow sends approval records to members of the change management group where the members verify and modify the records, as appropriate. Navigate to **Change** &gt; **Standard Change** &gt; **My Proposals**. Click **New**, fill the form, and then click **Submit**.
 
-    To view standard [[change-templates|change templates]], users must have the appropriate roles. Users with the following roles can view the standard change templates:
+    To view standard change templates, users must have the appropriate roles. Users with the following roles can view the standard change templates:
 
     -   admin
     -   change\_manager
@@ -68,9 +68,3 @@ A new template record is created for use.
 
 **Parent Topic:**[Create a standard change task template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/create-a-standard-change-task-template.md)
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]
-- [[c_StandardChangeCatalogPlugin|Standard change catalog]]
-- [[change-tasks|Change tasks]]
-- [[change-templates|Change templates]]

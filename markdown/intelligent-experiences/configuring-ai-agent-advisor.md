@@ -15,15 +15,10 @@ breadcrumb: [AI Agent Advisor, Enable AI experiences]
 
 Configure settings for AI Agent Advisor.
 
--   **[[set-up-ai-agent-advisor|Confirm installation of AI Agent Advisor]]**  
+-   **[Confirm installation of AI Agent Advisor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/set-up-ai-agent-advisor.md)**  
 Confirm the installation of the AI Agent Advisor application.
--   **[[now-assist-center-set-up-automation-discovery|Set up automation opportunity discovery for AI Agent Advisor]]**  
+-   **[Set up automation opportunity discovery for AI Agent Advisor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-set-up-automation-discovery.md)**  
 Configure the data sources, filters, and schedule that AI Agent Advisor uses to analyze your instance and identify automation opportunities.
 
-**Parent Topic:**[[ai-agent-advisor-landing-page|AI Agent Advisor]]
+**Parent Topic:**[AI Agent Advisor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-agent-advisor-landing-page.md)
 
-## Related
-
-- [[set-up-ai-agent-advisor|Confirm installation of AI Agent Advisor]]
-- [[now-assist-center-set-up-automation-discovery|Set up automation opportunity discovery for AI Agent Advisor]]
-- [[ai-agent-advisor-landing-page|AI Agent Advisor]]

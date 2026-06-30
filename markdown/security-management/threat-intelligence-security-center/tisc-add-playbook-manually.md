@@ -15,7 +15,7 @@ breadcrumb: [Threat Hunting Playbook, Using playbooks, Threat Analyst Workbench,
 
 # Add the Threat Hunting Playbook to a Case
 
-If a Case does not meet the auto-trigger conditions for the [[tisc-threat-hunt-playbook|Threat Hunting playbook]], you can attach the playbook to the Case manually.
+If a Case does not meet the auto-trigger conditions for the Threat Hunting playbook, you can attach the playbook to the Case manually.
 
 ## Before you begin
 
@@ -29,9 +29,9 @@ Use this procedure when the Threat Hunting playbook doesn't auto-trigger but you
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center**.
 
-2.  Select the **[[threat-analyst-workbench|Threat Analyst Workbench]]** icon.
+2.  Select the **Threat Analyst Workbench** icon.
 
 3.  Go to **Case Management** &gt; **All Cases**.
 
@@ -39,7 +39,7 @@ Use this procedure when the Threat Hunting playbook doesn't auto-trigger but you
 
 4.  Open a Case record and select **\[Omitted image "more-action-menu.png"\] Alt text: More actions** &gt; **Add Playbook**.
 
-5.  Select **Threat Hunting** from the list of available [[tisc-playbooks-admin|playbooks]].
+5.  Select **Threat Hunting** from the list of available playbooks.
 
 6.  Review the confirmation dialog and confirm the addition.
 
@@ -57,9 +57,3 @@ The Threat Hunt Playbook is attached to the Case and initiates the **Intake** st
 
 [Threat Hunting Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-threat-hunt-playbook.md)
 
-## Related
-
-- [[tisc-threat-hunt-playbook|Threat Hunting Playbook]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-analyst-workbench|Threat Analyst Workbench]]
-- [[tisc-playbooks-admin|Playbooks]]

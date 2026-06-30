@@ -20,13 +20,13 @@ Role required: admin
 
 ## Procedure
 
-1.  In the Setup scheduled import jobs section select **[[import-site|Import sites]]**.
+1.  In the Setup scheduled import jobs section select **Import sites**.
 
     1.  Next to the Import sites task, select **Configure**.
     2.  Select the Site Scheduled Data Import Job.
     3.  To manually execute the job, select **Execute Now**.
     4.  Return to the Guided Setup and select **Mark as complete** next to the Import sites task.
-    5.  Next, in the [[sgcc-configure-site-mappings|Configure site mappings]] task, select **Configure**.
+    5.  Next, in the Configure site mappings task, select **Configure**.
     6.  Review the list of imported sites.
     7.  Select the first site and in the form, fill in the following fields.
         -   All field titles with \* \(asterick\) next to them are mandatory and should be filled in.
@@ -75,11 +75,5 @@ Role required: admin
 
 ## Result
 
-You have completed the [[sgc-ot-discovery-guided-setup|Service Graph Connector for ServiceNow OT Discovery Guided Setup]]. Review the [[advanced-configuration-sgc-ot-discovery|Use advanced configurations]] section.
+You have completed the Service Graph Connector for ServiceNow OT Discovery Guided Setup. Review the [Use advanced configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/advanced-configuration-sgc-ot-discovery.md) section.
 
-## Related
-
-- [[advanced-configuration-sgc-ot-discovery|Use advanced configurations]]
-- [[import-site|Import sites]]
-- [[sgcc-configure-site-mappings|Configure site mappings]]
-- [[sgc-ot-discovery-guided-setup|Service Graph Connector for ServiceNow OT Discovery Guided Setup]]

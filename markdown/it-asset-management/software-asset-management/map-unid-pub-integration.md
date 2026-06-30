@@ -22,7 +22,7 @@ Role required: sam\_admin
 
 ## Procedure
 
-1.  Navigate to **[[sam-workspace|Software Asset Workspace]]** &gt; **License operations** &gt; **Engineering apps integration** &gt; **Unrecognized publisher integration map**.
+1.  Navigate to **Software Asset Workspace** &gt; **License operations** &gt; **Engineering apps integration** &gt; **Unrecognized publisher integration map**.
 
 2.  Select **New**.
 
@@ -39,6 +39,3 @@ The publisher to subscription integration mapping that you have created appears 
 
 **Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/using-sam-workspace.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]

@@ -14,7 +14,7 @@ breadcrumb: [Service Mapping reference, Service Mapping, ITOM Visibility, IT Ope
 
 # Properties related to tag-based discovery
 
-The [[c_ServiceMappingOverview|Service Mapping]] plugin includes several properties specifically related to tag-based [[r-discovery|discovery]].
+The Service Mapping plugin includes several properties specifically related to tag-based discovery.
 
 **Note:** To open the System Property \[sys\_properties\] table, enter `sys_properties.list`in the navigation filter.
 
@@ -91,7 +91,3 @@ Set the maximum allowed number of CIs that a tag-based application service can c
 </td></tr></tbody>
 </table>**Parent Topic:**[Service Mapping reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/service-mapping-reference.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]

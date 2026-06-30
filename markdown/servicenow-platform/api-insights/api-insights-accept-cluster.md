@@ -14,7 +14,7 @@ breadcrumb: [Optimize clustering recommendations, API Insights, Configuration Ma
 
 # Accept clustering recommendation in API Insights
 
-Associate API components with an API record by accepting clustering recommendation in the [[api-insights|API Insights]] workspace.
+Associate API components with an API record by accepting clustering recommendation in the API Insights workspace.
 
 ## Before you begin
 
@@ -43,7 +43,7 @@ Role required: sn\_cmdb\_admin, ml\_report\_user, and platform\_ml\_read
     |Option|Description|
     |------|-----------|
     |**Existing API record**|Select this option if the API record already exists. Use the search field to find the API record by name.|
-    |**Create API record**|Select this option to create an API record. Enter the required details such as the name, version, and base URL. The API will be created through the [[ire|Identification and Reconciliation engine \(IRE\)]] using the provided details.|
+    |**Create API record**|Select this option to create an API record. Enter the required details such as the name, version, and base URL. The API will be created through the Identification and Reconciliation engine \(IRE\) using the provided details.|
 
 9.  Select **Submit**.
 
@@ -52,7 +52,3 @@ Role required: sn\_cmdb\_admin, ml\_report\_user, and platform\_ml\_read
 
 The Missing API list is refreshed with the linked components removed from the list and associated with the specified API record.
 
-## Related
-
-- [[api-insights|API Insights]]
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]

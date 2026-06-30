@@ -26,7 +26,7 @@ Only one time sheet policy can be set as a default policy.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[time-sheets|Time Sheets]]** &gt; **Administration** &gt; **[[time-sheet-policies|Time Sheet Policies]]**.
+1.  Navigate to **All** &gt; **Time Sheets** &gt; **Administration** &gt; **Time Sheet Policies**.
 
 2.  Open the time sheet policy record.
 
@@ -43,7 +43,3 @@ You cannot delete a default time sheet policy. You must first mark another polic
 
 **Parent Topic:**[Time sheet policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/time-sheet-policies.md)
 
-## Related
-
-- [[time-sheets|Time Sheets]]
-- [[time-sheet-policies|Time sheet policies]]

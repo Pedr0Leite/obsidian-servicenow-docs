@@ -14,7 +14,7 @@ breadcrumb: [Atlassian Jira Integration for Agile Development, Strategic Portfol
 
 # Importing and exporting issues between Agile Development 2.0 and Jira
 
-Understand the workflow for the import and export of issues between [[agile-landing-page|Agile Development 2.0]] and Jira.
+Understand the workflow for the import and export of issues between Agile Development 2.0 and Jira.
 
 To export and import issues between Agile Development 2.0 and Jira, you must complete the [team integration settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/atlassian-jira-integrations-common/project-integration-settings.md) for your Jira projects.
 
@@ -45,7 +45,7 @@ To export and import issues between Agile Development 2.0 and Jira, you must com
 \[Omitted image "issue-updated-in-jira.png"\] Alt text: Import for issue updated in Jira
 
 </td></tr></tbody>
-</table>## Exporting from [[agile-development|Agile Development]] to Jira
+</table>## Exporting from Agile Development to Jira
 
 -   When you create an epic for an assignment group, it is exported to the project in Jira according to the team integration settings that you configured.
 -   When you create a story for an assignment group, it is exported to the project in Jira according to the team integration settings that you configured.
@@ -61,7 +61,3 @@ To export and import issues between Agile Development 2.0 and Jira, you must com
 
 **Parent Topic:**[Atlassian Jira Integration for Agile Development](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/atlassian-jira-integrations-common/agile-jira-integration-overview.md)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]
-- [[agile-development|Agile Development]]

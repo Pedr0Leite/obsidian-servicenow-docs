@@ -14,7 +14,7 @@ breadcrumb: [Using Project Management, Project Management, Project Portfolio Man
 
 # Using the Planning attributes
 
-Planning attributes are designed to define and work on attribute-based resource mapping in Resource Management and to [[generate-labor-cost-demand|generate labor costs]] for these resources in financials.
+Planning attributes are designed to define and work on attribute-based resource mapping in Resource Management and to generate labor costs for these resources in financials.
 
 An attribute is a property or a characteristic defined as a resource or a task type, which is considered for attribute-based planning. These attributes can be used for resource management and financial planning.
 
@@ -65,6 +65,3 @@ Project Manager \(Project Financials\)
 
 [Create or edit planning attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/configure-planning-attributes.md)
 
-## Related
-
-- [[generate-labor-cost-demand|Generate labor costs]]

@@ -14,7 +14,7 @@ breadcrumb: [Configuring Service Mapping, Service Mapping, ITOM Visibility, IT O
 
 # Request Service Mapping
 
-[[c_ServiceMappingOverview|Service Mapping]] is available under the [[itom-visibility-landing-page|ITOM Visibility]] subscription and requires activation by ServiceNow personnel.
+Service Mapping is available under the ITOM Visibility subscription and requires activation by ServiceNow personnel.
 
 ## Before you begin
 
@@ -30,14 +30,14 @@ Role required: admin
 
 ****The following plugins are activated automatically when the Service Mapping plugin \(com.snc.service-mapping\) is activated:
 
--   [[r-discovery|Discovery]] \(com.snc.discovery\)
+-   Discovery \(com.snc.discovery\)
 
     **Note:** If you're activating the Discovery plugin for the first time in the Australia release, install the Discovery \(com.snc.discovery\) plugin first, then install the Discovery and Service Mapping Patterns \(com.sn\_itom\_pattern\) plugin version 1.0.52 for Cloud Discovery to work. You can then upgrade to Australia.
 
 -   Pattern Designer \(com.snc.pattern.designer\)
--   [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] Core \(com.snc.cloud.core\)
+-   Cloud Provisioning and Governance Core \(com.snc.cloud.core\)
 -   Performance Analytics – Content Pack – Service Mapping \(com.snc.service-mapping.pa.content\)
--   [[c_EM|Event Management]] and Service Mapping Core \(com.snc.service-watch\)
+-   Event Management and Service Mapping Core \(com.snc.service-watch\)
 
     **Note:** The Event Management and Service Mapping Core \(com.snc.service-watch\) plugin is different from the Event Management plugin \(com.glideapp.itom.snac\).
 
@@ -97,10 +97,3 @@ Select the date and time to activate the plugin.
 
 [Credentials required for host discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/r_Credentials4HostDiscovery.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[itom-visibility-landing-page|ITOM Visibility]]
-- [[r-discovery|Discovery]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[c_EM|Event Management]]

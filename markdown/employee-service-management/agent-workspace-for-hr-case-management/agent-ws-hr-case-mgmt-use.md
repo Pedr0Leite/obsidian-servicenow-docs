@@ -14,14 +14,14 @@ breadcrumb: [Agent Workspace, HR Service Delivery, Employee Service Management]
 
 # Using Agent Workspace for HR Case Management
 
-As an HR agent, use the [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]] to interact with employees, respond to inquiries, and resolve issues.
+As an HR agent, use the Agent Workspace for HR Case Management to interact with employees, respond to inquiries, and resolve issues.
 
 **Note:** The COEs available to you may differ depending on the HR package you have.
 
--   The categorization of HR catalog items are employee-facing only, and have no relation to the categorization of [[hr-service-administration|HR services]] under the HR Centers of Excellence \(COEs\) data model.
+-   The categorization of HR catalog items are employee-facing only, and have no relation to the categorization of HR services under the HR Centers of Excellence \(COEs\) data model.
 -   If you are creating a new HR service and plan to make it available for employee self-service, see [HR catalog item configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-catalog-item-configuration.md). Creating a new HR catalog item automatically creates a corresponding HR service, and you can avoid creating duplicate services.
--   If you have an existing HR service that you want to make available for employee self-service, do not [[create-hr-catalog-item|create an HR catalog item]]. \(Creating a HR catalog item automatically creates a corresponding HR service.\) Instead, see [Configure a record producer for an HR service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-hr-record-producer.md) to add the existing service as an HR catalog item in the HR service catalog.
--   The Agent Workspace for HR Case Management is highly configurable for HR agents. It supports the same functionality in the Classic [[hr-service-delivery|HR Service Delivery]] Agent Workspace.
+-   If you have an existing HR service that you want to make available for employee self-service, do not create an HR catalog item. \(Creating a HR catalog item automatically creates a corresponding HR service.\) Instead, see [Configure a record producer for an HR service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-hr-record-producer.md) to add the existing service as an HR catalog item in the HR service catalog.
+-   The Agent Workspace for HR Case Management is highly configurable for HR agents. It supports the same functionality in the Classic HR Service Delivery Agent Workspace.
 
 You can start work in the Agent Workspace for HR Case Management from one of these areas:
 
@@ -60,7 +60,7 @@ Tabs
 
 </td><td>
 
-Use tabs to display the records that are associated with an HR case, like case details and tasks. You can select a tab and jump to the information. Child tabs appear below the top tabs and display case details, [[c_HRProfileRecords|HR profile]] information, and tasks.**Note:** Any [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] that you select under a parent tab opens as a child tab.
+Use tabs to display the records that are associated with an HR case, like case details and tasks. You can select a tab and jump to the information. Child tabs appear below the top tabs and display case details, HR profile information, and tasks.**Note:** Any reference that you select under a parent tab opens as a child tab.
 
 </td></tr><tr><td>
 
@@ -124,7 +124,7 @@ Information about the case:-   Subject person
 
 </td><td>
 
-[[activity-lxp|Activity]] stream
+Activity stream
 
 </td><td>
 
@@ -153,12 +153,3 @@ Icons that enable you to get quick access to information about the opened for an
 
 **Note:** For information on how to set up custom actions on record fields, see Set up custom actions on record fields in Workspace.
 
-## Related
-
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[hr-service-administration|HR services]]
-- [[create-hr-catalog-item|Create an HR catalog item]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[c_HRProfileRecords|HR Profile]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[activity-lxp|Activity]]

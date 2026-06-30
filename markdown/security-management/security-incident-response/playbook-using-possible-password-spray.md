@@ -23,7 +23,7 @@ Role required:
 -   sn\_si.admin
 -   flow\_designer
 
-Make sure you have installed [[security-operations-landing-page|Security Operations]] Spoke \(`sn_sec_spoke`\).
+Make sure you have installed Security Operations Spoke \(`sn_sec_spoke`\).
 
 ## Procedure
 
@@ -39,13 +39,13 @@ Make sure you have installed [[security-operations-landing-page|Security Operati
 
 3.  In Action 5, if the activities didn't originate from the customer’s IP address then determine the attacker’s source IP from the alert details.
 
-4.  In Action 6, you need to validate the IP reputation using Open-Source Intelligence \(OSINT\) [[tools|tools]] and the traffic pattern from these IPs in the last seven days.
+4.  In Action 6, you need to validate the IP reputation using Open-Source Intelligence \(OSINT\) tools and the traffic pattern from these IPs in the last seven days.
 
 5.  In Action 7, you need to identify the usernames that successfully logged in using the Password Spray attack.
 
 6.  In Action 8, you need to identify the number of failed logins and patterns.
 
-7.  In Action 9, you need to identify the [[indicator|indicators]] of true positive.
+7.  In Action 9, you need to identify the indicators of true positive.
 
     -   Check the traffic from the source IPs in the last 60 days. No historic traffic can be an indication of a true positive.
     -   Check the username patterns having authentication failures and the count. The higher the count, the higher the probability that it’s a true positive.
@@ -79,8 +79,3 @@ Make sure you have installed [[security-operations-landing-page|Security Operati
 
 **Parent Topic:**[Playbook for Possible Password Spray](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbook-possible-password-spray.md)
 
-## Related
-
-- [[security-operations-landing-page|Security Operations]]
-- [[tools|Tools]]
-- [[indicator|Indicators]]

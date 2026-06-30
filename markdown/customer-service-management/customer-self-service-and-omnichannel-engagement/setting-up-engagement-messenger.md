@@ -16,7 +16,7 @@ breadcrumb: [Set up self-service, Configure, Customer Service Management]
 
 Understand the stages involved in setting up Engagement Messenger before you add it to your customer service web portal.
 
-After you [[install-engagement-center-app|install the Engagement Messenger application]] in your instance, you’re ready to configure it. You can also watch the [academy video](https://www.youtube.com/watch?v=uViv-3bcg3k&list=PLkGSnjw5y2U79gjQuQW-2GBqzEccwFkWH&index=20) to understand the overall functionality of Engagement Messenger.
+After you install the Engagement Messenger application in your instance, you’re ready to configure it. You can also watch the [academy video](https://www.youtube.com/watch?v=uViv-3bcg3k&list=PLkGSnjw5y2U79gjQuQW-2GBqzEccwFkWH&index=20) to understand the overall functionality of Engagement Messenger.
 
 The configuration process involves the following tasks:
 
@@ -32,7 +32,7 @@ The configuration process involves the following tasks:
 
     If you want to enable only a guest user experience for your customer service portal, you can ignore this step and move on to step 4.
 
-4.  Create cross-origin resource sharing \(CORS\) [[gamification-components-rules|rules]] for the REST API. See [Configure a CORS rule for Engagement Messenger](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/create-cors-for-rest-api-ec.md).
+4.  Create cross-origin resource sharing \(CORS\) rules for the REST API. See [Configure a CORS rule for Engagement Messenger](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/create-cors-for-rest-api-ec.md).
 5.  Add HTTP response headers for your Engagement Messenger. See [Create HTTP response headers for Engagement Messenger](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/create-http-response-headers-for-ec.md).
 6.  Configure the system properties to enable virtual agent chat, multi-provider SSO, and to set a user session time-out value. For more information, see [Engagement Messenger properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/additional-config-for-engagement-messenger.md).
 7.  Configure a custom URL to load Engagement Messenger on third-party websites. For more information, see [Enable Engagement Messenger on a website when third-party application cookies are blocked](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/allowlist-em-third-party-website.md).
@@ -42,7 +42,3 @@ The configuration process involves the following tasks:
 11. Embed messenger in your native iOS mobile app using Now Mobile® SDK. For information, see the [Embed Engagement Messenger in a native iOS app using Now Mobile SDK \[KB1587276\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB1587276) article in the Now Support Knowledge Base.
 12. Embed messenger in your native android mobile app using Now Mobile® SDK. For more information, see the [Embed Engagement Messenger in a native android app using Now Mobile SDK \[KB1587611\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB1587611) article in the Now Support Knowledge Base.
 
-## Related
-
-- [[install-engagement-center-app|Install the Engagement Messenger application]]
-- [[gamification-components-rules|Rules]]

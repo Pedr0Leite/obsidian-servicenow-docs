@@ -14,7 +14,7 @@ breadcrumb: [Career Assessment reference, Career Assessment, Growth Experiences,
 
 # Components installed with Career Assessment
 
-Several types of components are installed with the activation of [[exam-engine|Career Assessment]], including tables, user roles, and scheduled jobs.
+Several types of components are installed with the activation of Career Assessment, including tables, user roles, and scheduled jobs.
 
 ## System properties
 
@@ -45,6 +45,3 @@ Several types of components are installed with the activation of [[exam-engine|C
 |Question option \[sn\_exam\_question\_option\]|Stores options for questions in an exam on Career Assessment.|
 |Exam Question Response \[sn\_exam\_question\_response\]|Stores responses for questions in an exam on Career Assessment.|
 
-## Related
-
-- [[exam-engine|Career Assessment]]

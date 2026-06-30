@@ -14,7 +14,7 @@ breadcrumb: [DevOps Config reference, DevOps Config, IT Service Management]
 
 # Default DevOps Config exporters
 
-The [[devops-config-landing-page|DevOps Config]] Exporter content pack contains a set of default DevOps Config exporters of data that can be used as input for further deployment and provisioning activities.
+The DevOps Config Exporter content pack contains a set of default DevOps Config exporters of data that can be used as input for further deployment and provisioning activities.
 
 **Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
@@ -37,7 +37,7 @@ These exporters are contained in the DevOps Config Exporter content pack.
 
 ## Return all data \(returnAllData-now\)
 
-Returns the full content of the snapshot without any filtering or [[migration-utility-modification|modifications]], including the var system folder.
+Returns the full content of the snapshot without any filtering or modifications, including the var system folder.
 
 **Note:** The exporter fails if the application/deployable is not in Active state \(deleted\).
 
@@ -253,7 +253,3 @@ Returns the value of a specific key based on its name in the snapshot. Unlike `e
 
 **Parent Topic:**[DevOps Config reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-family/devops-config-reference.md)
 
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]
-- [[migration-utility-modification|Modifications]]

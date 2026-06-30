@@ -14,7 +14,7 @@ breadcrumb: [Virtual Agent, Conversational Interfaces]
 
 # Building and deploying Virtual Agent
 
-Convert the time your agents and technicians spend handling low-impact user requests into an intelligently managed interaction. Enable [[virtual-agent-landing-page|Virtual Agent]] with NLU to understand the intent of what people are looking for and provide them with more relevant answers.
+Convert the time your agents and technicians spend handling low-impact user requests into an intelligently managed interaction. Enable Virtual Agent with NLU to understand the intent of what people are looking for and provide them with more relevant answers.
 
 You can quickly deploy AI‑powered chatbot conversations using customizable templates for the most common enterprise IT, HR, and customer service scenarios. You can design, build, and test conversations with Virtual Agent Designer.
 
@@ -25,9 +25,9 @@ Virtual Agent provides several self-service options for your user that can help 
 -   **[Exploring other Virtual Agent features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/exploring-other-vad-features.md)**  
 After creating topics with the basic Virtual Agent Designer controls and scripting, you can also enhance conversation functionality and topic maintenance by using additional Virtual Agent features.
 -   **[Using Virtual Agent with a live agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/using-va-agent-chat.md)**  
-Sometimes a conversation requires human intervention. When this occurs, you can transfer the user to a live agent in [[ci-use-agent-chat|Agent Chat]].
+Sometimes a conversation requires human intervention. When this occurs, you can transfer the user to a live agent in Agent Chat.
 -   **[Virtual Agent API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/virtual-agent-api-landing-page.md)**  
-The ServiceNow® [[virtual-agent-api-landing-page|Virtual Agent API]] is a REST API built on ServiceNow's conversational custom chat integration framework, enabling integration with enterprise or third-party chat interfaces, or as a secondary bot in multi-bot environments.
+The ServiceNow® Virtual Agent API is a REST API built on ServiceNow's conversational custom chat integration framework, enabling integration with enterprise or third-party chat interfaces, or as a secondary bot in multi-bot environments.
 -   **[Using Virtual Agent Bot Interconnect in your configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/using-sn-va-primary-bot-api.md)**  
 Use Virtual Agent Bot Interconnect to create a unified chat experience across multiple channels. You can support secondary bots, such as Google Dialogflow, Microsoft Power Virtual Agents, and ServiceNow® Virtual Agent.
 -   **[Localization options for Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/multi-language-options-va.md)**  
@@ -35,8 +35,3 @@ The ServiceNow platform provides several methods for serving your international 
 
 **Parent Topic:**[Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/virtual-agent-landing-page.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[ci-use-agent-chat|Agent Chat]]
-- [[virtual-agent-api-landing-page|Virtual Agent API]]

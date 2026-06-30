@@ -16,7 +16,7 @@ breadcrumb: [Manage and monitor alerts, Configuring Event Management, Event Mana
 
 Centrally control what users monitor by predefining views in Express List and assigning them to users and user groups.
 
-As an [[c_EM|Event Management]] admin, you can create Express List views to ensure that users focus on specific services, priorities, or alerts. Event Management enables you to define the filters, column order, and filter attributes for an Express List view and then assign the view to individual users and user groups.
+As an Event Management admin, you can create Express List views to ensure that users focus on specific services, priorities, or alerts. Event Management enables you to define the filters, column order, and filter attributes for an Express List view and then assign the view to individual users and user groups.
 
 Users belonging to a group can only see the predefined views you assigned to that group and their own saved views. If a user belongs to multiple groups, they can see the views you assigned to all of these groups. Users can switch between views and modify and save all views except their assigned default view. However, they can't override settings in any of their assigned views and modify or share their default view.
 
@@ -40,6 +40,3 @@ Assign individual users and user groups to preconfigured Express List views to m
 
 [Identify an assigned Express List view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/manage-views-express-list-operator.md)
 
-## Related
-
-- [[c_EM|Event Management]]

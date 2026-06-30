@@ -12,7 +12,7 @@ breadcrumb: [Install and configure Lead to Cash Core, Lead-to-cash foundation ap
 
 # Create an entity mapping
 
-Create an entity mapping to compose a workflow between two entities so that you can update their existing configurations and perform a set of declarative actions like [[Suspend|suspend]], [[Resume|resume]], or disconnect a sold product.
+Create an entity mapping to compose a workflow between two entities so that you can update their existing configurations and perform a set of declarative actions like suspend, resume, or disconnect a sold product.
 
 ## Before you begin
 
@@ -24,9 +24,9 @@ Role required: admin
 
 2.  On the Lead to Cash Entity Mappings form, create a mapping by selecting **New**.
 
-3.  On the form, fill in the [[fields|fields]].
+3.  On the form, fill in the fields.
 
-    For a description of the field values, see [[entity-configuration-and-mapping|Entity configuration and mapping]].
+    For a description of the field values, see [Entity configuration and mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/entity-configuration-and-mapping.md).
 
 4.  Select **Submit**.
 
@@ -52,15 +52,7 @@ Role required: admin
 **Related topics**  
 
 
-[[using-lead-cash-foundation|Using lead-to-cash foundation applications]]
+[Using lead-to-cash foundation applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-lead-cash-foundation.md)
 
-[[lead-to-cash|Lead to Cash Core]]
+[Lead to Cash Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-to-cash.md)
 
-## Related
-
-- [[entity-configuration-and-mapping|Entity configuration and mapping]]
-- [[using-lead-cash-foundation|Using lead-to-cash foundation applications]]
-- [[lead-to-cash|Lead to Cash Core]]
-- [[Suspend|Suspend]]
-- [[Resume|Resume]]
-- [[fields|Fields]]

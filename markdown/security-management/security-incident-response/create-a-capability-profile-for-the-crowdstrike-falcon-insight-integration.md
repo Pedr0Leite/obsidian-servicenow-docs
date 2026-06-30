@@ -14,7 +14,7 @@ breadcrumb: [CrowdStrike Falcon Insight integration, Security Incident Response 
 
 # Create a capability profile
 
-[[arcsight-esm-create-profile|Create a profile]] and select the CrowdStrike Falcon Insight capabilities that you want the profile to run.
+Create a profile and select the CrowdStrike Falcon Insight capabilities that you want the profile to run.
 
 ## Before you begin
 
@@ -82,7 +82,7 @@ Obtain a file from a host endpoint
 </td></tr></tbody>
 </table>## Procedure
 
-1.  Navigate to **All** &gt; **[[CrowdStrike-Falcon-Insight-for-Security-Operations-integration|CrowdStrike Falcon Insight Integration]]** &gt; **CrowdStrike Capability Profiles**.
+1.  Navigate to **All** &gt; **CrowdStrike Falcon Insight Integration** &gt; **CrowdStrike Capability Profiles**.
 
 2.  Select **New**.
 
@@ -160,7 +160,3 @@ Capabilities of the CrowdStrike Falcon Insight profile.Select the capabilities t
 
 Now you can [configure your profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/configure-profiles-and-security-incidents-for-the-crowdstrike-falcon-insight-integration.md). Verify that you have [reviewed the concepts for configuring profiles and trigger conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/define-trigger-conditions.md) before you configure the profile.
 
-## Related
-
-- [[arcsight-esm-create-profile|Create a profile]]
-- [[CrowdStrike-Falcon-Insight-for-Security-Operations-integration|CrowdStrike Falcon Insight integration]]

@@ -12,11 +12,11 @@ breadcrumb: [Business Portal, Customer communication, Use, Customer Service Mana
 
 # Manage contacts from Business Portal
 
-Create and update customer contacts, [[configure-data-model-roles|assign roles]] to contacts, and enable or disable contact login from the business portal.
+Create and update customer contacts, assign roles to contacts, and enable or disable contact login from the business portal.
 
 ## Create a customer contact
 
-Use the **Create Contact** catalog item to [[create-a-customer-contact_EaaI|create a customer contact]] from the business portal.
+Use the **Create Contact** catalog item to create a customer contact from the business portal.
 
 ### Before you begin
 
@@ -186,10 +186,5 @@ Use the Edit Role pop-up window to manage the roles for a contact. Contacts must
 **Related topics**  
 
 
-[[r_RolesInstalledWithCustomerService|Roles installed with Customer Service Management]]
+[Roles installed with Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_RolesInstalledWithCustomerService.md)
 
-## Related
-
-- [[r_RolesInstalledWithCustomerService|Roles installed with Customer Service Management]]
-- [[configure-data-model-roles|Assign roles]]
-- [[create-a-customer-contact_EaaI|Create a customer contact]]

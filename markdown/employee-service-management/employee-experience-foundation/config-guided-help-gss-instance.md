@@ -14,7 +14,7 @@ breadcrumb: [Guided Self-Service in Employee Center, Setup Employee Center brows
 
 # Modify the Guided self-service widget display
 
-The widget displays the help content for the [[deskless-kiosk-overview|Employee Center Pro Kiosk]] user. You can configure the instance options based on your display preferences.
+The widget displays the help content for the Employee Center Pro Kiosk user. You can configure the instance options based on your display preferences.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_hr\_sp.esc\_admin
 
 ## Procedure
 
-1.  Navigate to [[employee-center-landing-page|Employee Center]] or Employee Center Pro Kiosk home page.
+1.  Navigate to Employee Center or Employee Center Pro Kiosk home page.
 
 2.  Click the **Guided Self-Service** widget.
 
@@ -64,7 +64,7 @@ Show empty state
 
 </td><td>
 
-Allows the widget to appear if there are no published [[ec-news-articles|news articles]]
+Allows the widget to appear if there are no published news articles
 
 </td></tr></tbody>
 </table>    **Note:** These options are available from the home page widget only. The topic page widget doesn't show the options.
@@ -77,8 +77,3 @@ Allows the widget to appear if there are no published [[ec-news-articles|news ar
 
 [Guided Self-Service in Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/gss-guided-self-service-overview.md)
 
-## Related
-
-- [[deskless-kiosk-overview|Employee Center Pro Kiosk]]
-- [[employee-center-landing-page|Employee Center]]
-- [[ec-news-articles|News articles]]

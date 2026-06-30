@@ -14,7 +14,7 @@ breadcrumb: [Resolving errors, Administer, Instance Data Replication, Manage ins
 
 # Configure error notifications in Instance Data Replication
 
-[[notify-landing-page|Notify]] one or more users when errors occur in [[instance-data-replication|Instance Data Replication]] \(IDR\).
+Notify one or more users when errors occur in Instance Data Replication \(IDR\).
 
 ## Before you begin
 
@@ -64,7 +64,7 @@ Select this option to trigger the notification from a Workflow Studio flow.
 </td></tr></tbody>
 </table>4.  In the **Who will receive** tab, select the users, groups, or user groups who will receive the notification.
 
-5.  In the **What it will contain** tab, select an [[email|email]] template to populate the Subject and Message [[html|HTML]].
+5.  In the **What it will contain** tab, select an email template to populate the Subject and Message HTML.
 
     The default template is Unsubscribe and Preferences. You can override the template and customize the text as needed.
 
@@ -75,9 +75,3 @@ Select this option to trigger the notification from a Workflow Studio flow.
 
 **Parent Topic:**[Resolving data replication errors in Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/common-issues-idr.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]
-- [[instance-data-replication|Instance Data Replication]]
-- [[email|Email]]
-- [[html|HTML]]

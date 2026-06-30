@@ -14,7 +14,7 @@ breadcrumb: [Installed with Facilities Service Management, Activate Facilities S
 
 A business rule is a server-side script that runs when a record is displayed, inserted, updated, deleted, or when a table is queried.
 
-[[FacilitiesLandingPage|Facilities Service Management]] adds the following business rules.
+Facilities Service Management adds the following business rules.
 
 <table id="table_ngl_zwx_dt"><thead><tr><th>
 
@@ -98,7 +98,7 @@ Level\[fm\_level\]
 
 </td><td>
 
-Rolls up [[r_LevelInfo|level information]] to the building.
+Rolls up level information to the building.
 
 </td></tr><tr><td>
 
@@ -329,10 +329,5 @@ Facility Space\[fm\_space\]
 Generates the full display name for the space.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[r_InstallWFacServMgmnt|Installed with Facilities Service Management]]
+</table>**Parent Topic:**[Installed with Facilities Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_InstallWFacServMgmnt.md)
 
-## Related
-
-- [[r_InstallWFacServMgmnt|Installed with Facilities Service Management]]
-- [[FacilitiesLandingPage|Facilities Service Management]]
-- [[r_LevelInfo|Level information]]

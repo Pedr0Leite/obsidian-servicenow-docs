@@ -14,7 +14,7 @@ breadcrumb: [Exploring Entity View Action Mapper, Entity view action mapper, Man
 
 # View configurations, view templates, and configuration bundles for EVAM
 
-A view configuration combines conditions, database fields, and declarative actions with an associated view template. You can also group view configurations together to create configuration bundles using the [[entity-view-action-mapper|Entity View Action Mapper]] \(EVAM\).
+A view configuration combines conditions, database fields, and declarative actions with an associated view template. You can also group view configurations together to create configuration bundles using the Entity View Action Mapper \(EVAM\).
 
 EVAM has pre-defined view configurations, view templates, and configuration bundles to make it easier to use the feature. The base system configuration bundles include:
 
@@ -25,7 +25,7 @@ These bundles have view configurations attached that are anticipated to fit the 
 
 View configurations have an associated view template, tables and conditions, designated table field with data, and associated declarative actions. You can look at the demo\_evam\_dataset for examples of base system configuration views. These view configurations are ready to use and are meant to work with many use cases. You can also create or edit view configurations to meet specific needs.
 
-The base system view templates match an associated view configuration. The templates contain the JSON used to give the necessary information for the card display and use. For example, the [[attachment|Attachment]] Search Template contains the following:
+The base system view templates match an associated view configuration. The templates contain the JSON used to give the necessary information for the card display and use. For example, the Attachment Search Template contains the following:
 
 ```
 {
@@ -106,7 +106,3 @@ The actions that you can associate with the card.
 </td></tr></tbody>
 </table>These view templates are ready to use and are meant to work with many use cases. You can also create or edit view templates to meet specific needs.
 
-## Related
-
-- [[entity-view-action-mapper|Entity view action mapper]]
-- [[attachment|Attachment]]

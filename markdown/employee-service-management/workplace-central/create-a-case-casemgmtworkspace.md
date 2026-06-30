@@ -14,7 +14,7 @@ breadcrumb: [Working with Case management, Use, Workplace Central, Workplace Ser
 
 # Create a workplace service case
 
-As a case manager, apart from managing the workplace cases, you can also create a raise workplace service request directly using the [[workplace-central-feat|Workplace Central]] [[case-management-workspace|Case management]] workspace.
+As a case manager, apart from managing the workplace cases, you can also create a raise workplace service request directly using the Workplace Central Case management workspace.
 
 ## Before you begin
 
@@ -28,9 +28,9 @@ Submit a workplace service request on behalf of an employee for any reason. You 
 
 1.  Navigate to **All** &gt; **Workplace Central** &gt; **Workplace Central**.
 
-    You can also open Workplace Central from the [[employee-center-landing-page|Employee Center]] directly. Navigate to **Workspaces** &gt; **Workplace Central**.
+    You can also open Workplace Central from the Employee Center directly. Navigate to **Workspaces** &gt; **Workplace Central**.
 
-    The [[workplace-analytics|Workplace Analytics]] dashboard opens.
+    The Workplace Analytics dashboard opens.
 
 2.  On the left pane, select the **Case Management** icon \(\[Omitted image "casemgmt-icon.png"\] Alt text: Case Management icon.\).
 
@@ -44,11 +44,11 @@ Submit a workplace service request on behalf of an employee for any reason. You 
 
     You can raise the following workplace service requests:
 
-    -   [[Reconfig-office-space-1|Reconfigure an office space]]
+    -   Reconfigure an office space
     -   Request a desk change
     -   Request furniture
     -   Submit a general request
-    -   [[submit-a-maintenance-request|Submit a maintenance request]]
+    -   Submit a maintenance request
 5.  Select **Submit**.
 
     To fill the form, refer to [Requesting a workplace service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/request-workplace-services.md) topics.
@@ -83,11 +83,3 @@ The workplace service request is submitted and a workplace case is created. Refr
 
 [View Facility Assets in Workplace Central]()
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]
-- [[case-management-workspace|Case management]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-analytics|Workplace Analytics]]
-- [[Reconfig-office-space-1|Reconfigure an office space]]
-- [[submit-a-maintenance-request|Submit a maintenance request]]

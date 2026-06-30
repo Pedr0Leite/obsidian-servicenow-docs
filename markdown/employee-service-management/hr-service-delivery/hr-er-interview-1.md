@@ -14,11 +14,11 @@ breadcrumb: [Configuring Employee Relations, Employee Relations, Case and Knowle
 
 # Interview Management for Employee Relations
 
-Use [[interview-management-landing|Interview Management]] to create templates to capture questions, answers, and notes in a consistent and efficient way, sync scheduling with Microsoft Outlook, and better plan and track your interviews.
+Use Interview Management to create templates to capture questions, answers, and notes in a consistent and efficient way, sync scheduling with Microsoft Outlook, and better plan and track your interviews.
 
 ## Setting up Interview Templates
 
-Set up [[hr-service-delivery|HR Service Delivery]] Interview Templates so your agents can quickly, consistently, and accurately capture appropriate information.
+Set up HR Service Delivery Interview Templates so your agents can quickly, consistently, and accurately capture appropriate information.
 
 Activate the Interview Templates plugin \(com.sn\_interview\_templates\) for the ServiceNow AI Platform if you have the admin role. For more information, see [Activate Interview Templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-er-interview-1.md).
 
@@ -27,7 +27,7 @@ Activate the Interview Templates plugin \(com.sn\_interview\_templates\) for the
 
 |Role|Description|Contains roles|
 |----|-----------|--------------|
-|Interview questions template admin \[sn\_interview\_temp.admin\]|Can access, read, create, and edit interview question templates, template tags, and [[hr-case-employee-relations|Employee Relations]] properties.|sn\_interview\_temp.reader, sn\_interview\_temp.writer|
+|Interview questions template admin \[sn\_interview\_temp.admin\]|Can access, read, create, and edit interview question templates, template tags, and Employee Relations properties.|sn\_interview\_temp.reader, sn\_interview\_temp.writer|
 |Interview questions template writer \[sn\_interview\_temp.writer\]|Can access, read, create, and edit interview question templates and template tags.|sn\_interview\_temp.reader|
 |Interview template reader \[sn\_interview\_temp.reader\]|Can access and read interview question templates and template tags.|N/A|
 
@@ -47,7 +47,7 @@ In the HR Service Delivery Agent Workspace, the template tag appears at the bott
 
 There are two types of template tags you can create:
 
--   Referenced: Uses the fields from the following tables to create [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] tags:
+-   Referenced: Uses the fields from the following tables to create reference tags:
     -   Allegation Subtype \[sn\_hr\_er\_allegation\_subtype\]
     -   Allegation Type \[sn\_hr\_er\_allegation\_type\]
     -   HR Service \[sn\_hr\_core\_service\]
@@ -254,9 +254,4 @@ The domain your current scope is associated with. This field applies to customer
 </td></tr></tbody>
 </table>4.  Select **Save** or **Submit**.
 
-## Related
 
-- [[interview-management-landing|Interview Management]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[hr-case-employee-relations|Employee Relations]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

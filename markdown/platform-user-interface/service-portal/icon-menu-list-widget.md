@@ -16,11 +16,11 @@ breadcrumb: [Example widgets, Widget library, Using portal widgets, Configuring 
 
 A simple list with a glyph icon next to each link. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 
-[[configure-onboarding-modals|Configure]] the icon information using the Menu Items related list.
+Configure the icon information using the Menu Items related list.
 
 \[Omitted image "WidgetIconMenuList.png"\] Alt text: Icon Menu list widget with icons for profile, group information, and credit card information
 
-1.  From the instance options for the icon menu list widget, under [[c_RelatedLists|Related Lists]], click **Menu Items**.
+1.  From the instance options for the icon menu list widget, under Related Lists, click **Menu Items**.
 2.  Click **New**.
 3.  Use the fields on the New Menu Items form to configure the icons for the icon menu list widget.
 
@@ -30,8 +30,8 @@ A simple list with a glyph icon next to each link. You can use this base system 
 |Parent Menu|The name of the menu that the icon appears in. This automatically populates with the name of the icon menu list widget that you created but you have the option to switch it to another menu.|
 |Order|The order in which the icons appear in the icon menu list widget.|
 |Parent menu Item|Nest menu items within a parent menu.|
-|Page|The page within [[c_ServicePortal|Service Portal]] that the icon links to. Select **Page** from the Type list to enable this option.|
-|Type|Select the type of link you want the icon to have. You can link to pages within Service Portal, external URLs, KB articles, Service Catalog, or [[lists-configurable-workspace|lists]]. Different fields will appear on the form depending on the option you select from the list.|
+|Page|The page within Service Portal that the icon links to. Select **Page** from the Type list to enable this option.|
+|Type|Select the type of link you want the icon to have. You can link to pages within Service Portal, external URLs, KB articles, Service Catalog, or lists. Different fields will appear on the form depending on the option you select from the list.|
 |Condition|Determines what conditions are required for menu items to show in the header. For more information on what conditions to use in the **Condition** field, see [Create a UI Action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_EditingAUIAction.md) [Create a UI action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_EditingAUIAction.md).|
 |Glyph|Icon that you want to display in the icon menu list widget.|
 
@@ -46,9 +46,3 @@ A simple list with a glyph icon next to each link. You can use this base system 
 
 [Clone a widget]()
 
-## Related
-
-- [[configure-onboarding-modals|Configure]]
-- [[c_RelatedLists|Related lists]]
-- [[c_ServicePortal|Service Portal]]
-- [[lists-configurable-workspace|Lists]]

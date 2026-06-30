@@ -98,7 +98,7 @@ Fetch the latest test run summary by selecting the refresh icon \(\[Omitted imag
 
     If the test summarization skill isn’t active, the test result is auto-populated.
 
-    To create test groups, see [[create-test-group|Create a test group]].
+    To create test groups, see [Create a test group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/create-test-group.md).
 
 8.  If the test summarization skill is active, clear the **wait for completion** check box in the Automated test run creation tool.
 
@@ -109,6 +109,3 @@ Fetch the latest test run summary by selecting the refresh icon \(\[Omitted imag
 
 **Parent Topic:**[Using Now Assist for Telecommunications, Media and Technology \(TMT\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/now-assist-spm-using.md)
 
-## Related
-
-- [[create-test-group|Create a test group]]

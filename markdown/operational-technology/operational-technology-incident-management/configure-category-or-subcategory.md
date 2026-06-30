@@ -14,11 +14,11 @@ breadcrumb: [Incident categories and subcategories, Configure, Operational Techn
 
 # Edit a category or subcategory
 
-Edit your existing [[operational-technology-overview|Operational Technology]] [[ot-incident-categories-subcategories|incident categories and subcategories]] to classify your incidents.
+Edit your existing Operational Technology incident categories and subcategories to classify your incidents.
 
 ## Before you begin
 
--   Set the application scope to **[[operational-technology-incident-management-landing-page|Operational Technology Incident Management]]**.
+-   Set the application scope to **Operational Technology Incident Management**.
 -   Role required: admin or sn\_ot\_incident\_admin
 
 ## Procedure
@@ -40,8 +40,3 @@ Now, the changes to the existing category or subcategory appear on the record.
 
 **Parent Topic:**[Incident categories and subcategories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/ot-incident-categories-subcategories.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[ot-incident-categories-subcategories|Incident categories and subcategories]]
-- [[operational-technology-incident-management-landing-page|Operational Technology Incident Management]]

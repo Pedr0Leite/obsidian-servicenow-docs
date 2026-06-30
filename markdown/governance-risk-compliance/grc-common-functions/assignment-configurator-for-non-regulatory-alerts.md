@@ -14,7 +14,7 @@ breadcrumb: [Common GRC features, Governance, Risk, and Compliance]
 
 # Assignment Configurator for non-regulatory alerts
 
-Assignment rules help in automating organization’s task records such as action tasks, and non-task records such as issues, incidents, [[list-view-of-reg-alerts|regulatory alerts]], and so on.
+Assignment rules help in automating organization’s task records such as action tasks, and non-task records such as issues, incidents, regulatory alerts, and so on.
 
 The Assignment Configurator module allows you to automatically set a value in the assigned\_to and assignment\_group fields when a set of conditions occurs and applies to Integrated Risk Management record-based tables such as issues, incidents, compliance cases, risks, controls and many more.
 
@@ -29,6 +29,3 @@ Assignment configuration rules help in automating organization’s task records 
 
 **Parent Topic:**[Common Governance, Risk, and Compliance features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/common-grc-features.md)
 
-## Related
-
-- [[list-view-of-reg-alerts|Regulatory alerts]]

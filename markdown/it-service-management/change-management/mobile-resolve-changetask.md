@@ -24,7 +24,7 @@ Role required: itil or sn\_change\_write
 
 1.  Tap **My Work** tab.
 
-2.  Tap **[[change-tasks|Change tasks]]** to open the list of change tasks.
+2.  Tap **Change tasks** to open the list of change tasks.
 
 3.  From the list of change tasks, swipe left the change task that you want to close.
 
@@ -40,6 +40,3 @@ Role required: itil or sn\_change\_write
 
 [Add comments to your change tasks]()
 
-## Related
-
-- [[change-tasks|Change tasks]]

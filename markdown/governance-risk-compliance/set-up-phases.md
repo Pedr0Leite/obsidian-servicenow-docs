@@ -12,7 +12,7 @@ breadcrumb: [Configure, Business Continuity Management, Governance, Risk, and Co
 
 # Set up the phases
 
-Set up the phases in the [[business-continuity-mangmt-overview|Business Continuity Management]] application to map them to recovery and event tasks effectively. Once the phases are set up, BCM users can tag these phases to recovery tasks and event tasks and execute them in the set order, ensuring a logical execution sequence.
+Set up the phases in the Business Continuity Management application to map them to recovery and event tasks effectively. Once the phases are set up, BCM users can tag these phases to recovery tasks and event tasks and execute them in the set order, ensuring a logical execution sequence.
 
 ## Before you begin
 
@@ -22,13 +22,13 @@ Role required: sn\_bcm.admin
 
 For information on setting up the phases, see [Set up the phases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/set-up-phases.md).
 
-For information and steps on mapping recovery tasks to phases, see [[mapping-recovery-tasks-to-phases|Mapping recovery tasks to phases]] and [[add-a-recovery-task|Add recovery tasks]].
+For information and steps on mapping recovery tasks to phases, see [Mapping recovery tasks to phases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/mapping-recovery-tasks-to-phases.md) and [Add recovery tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/add-a-recovery-task.md).
 
-For information on mapping event tasks to phases, see [[mapping-event-tasks-to-phases|Mapping event tasks to phases]] and [Mapping event tasks to phases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/mapping-event-tasks-to-phases.md).
+For information on mapping event tasks to phases, see [Mapping event tasks to phases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/mapping-event-tasks-to-phases.md) and [Mapping event tasks to phases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/mapping-event-tasks-to-phases.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Business Continuity** &gt; **General [[Administration|Administration]]** &gt; **Active phases**.
+1.  Navigate to **All** &gt; **Business Continuity** &gt; **General Administration** &gt; **Active phases**.
 
     Recovery involves a series of phases. By default, the BCM application provides these phases as part of seed data:
 
@@ -48,7 +48,7 @@ For information on mapping event tasks to phases, see [[mapping-event-tasks-to-p
 
 3.  On the form, fill in the fields.
 
-    For the description of the fields, see [[phase-form|Phase form]].
+    For the description of the fields, see [Phase form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/phase-form.md).
 
     A sample configuration of the phase is shown where the name of the phase is phase10, its order is 80, and the phase is active.
 
@@ -66,14 +66,6 @@ For information on mapping event tasks to phases, see [[mapping-event-tasks-to-p
 
 4.  Select **Submit**.
 
-    The configured phase is shown in the [[list-view-uib-ws|list view]] of the Phases module and it can be tagged to the recovery and event tasks, allowing for more effective tracking and management of these tasks.
+    The configured phase is shown in the list view of the Phases module and it can be tagged to the recovery and event tasks, allowing for more effective tracking and management of these tasks.
 
-## Related
 
-- [[mapping-recovery-tasks-to-phases|Mapping recovery tasks to phases]]
-- [[add-a-recovery-task|Add recovery tasks]]
-- [[mapping-event-tasks-to-phases|Mapping event tasks to phases]]
-- [[phase-form|Phase form]]
-- [[business-continuity-mangmt-overview|Business Continuity Management]]
-- [[Administration|Administration]]
-- [[list-view-uib-ws|List view]]

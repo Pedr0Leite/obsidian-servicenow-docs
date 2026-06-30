@@ -14,7 +14,7 @@ breadcrumb: [Service Provider \(SP\) system properties, SAML, Multi-Provider sin
 
 # Set up a NameID policy for SAML
 
-Set up a NameID policy for SAML. [[c_SAML2.0WebBrowserSSOProfile|SAML]] 2.0 requires the IdP to exchange a NameID token with the service provider.
+Set up a NameID policy for SAML. SAML 2.0 requires the IdP to exchange a NameID token with the service provider.
 
 ## Before you begin
 
@@ -32,6 +32,4 @@ For the SAML 2.0 integration the NameID token must map to a particular field in 
 
 2.  Review other `NameIDFormat` elements to determine if there are formats that match other fields in the User table.
 
-## Related
 
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]

@@ -28,7 +28,7 @@ The **Send a note** button is only visible in published journeys.
 
 ## Procedure
 
-1.  From the [[employee-center-landing-page|Employee Center]], select **Journeys**.
+1.  From the Employee Center, select **Journeys**.
 
 2.  Create and publish a journey, or open an existing journey that has been published.
 
@@ -40,7 +40,7 @@ The **Send a note** button is only visible in published journeys.
 
 4.  Select **Send** to send the note to the user.
 
-    An email is sent to the email address that is in the [[c_HRProfileRecords|HR profile]].
+    An email is sent to the email address that is in the HR profile.
 
 
 **Parent Topic:**[Managers, mentors, and employees work with journeys in the Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-working-with-journeys.md)
@@ -50,7 +50,3 @@ The **Send a note** button is only visible in published journeys.
 
 [Journey designer user permissions reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-user-permission-ref.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[c_HRProfileRecords|HR Profile]]

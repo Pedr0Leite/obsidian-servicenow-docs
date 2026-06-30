@@ -14,7 +14,7 @@ breadcrumb: [Configuration Management Database \(CMDB\), Configuration Managemen
 
 # CMDB Coverage
 
-The ServiceNow® CMDB Coverage application enables you to assess and improve the quality of the [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]. Improved CMDB coverage provides organizations with better visibility into their network coverage, reliable asset data, and stronger IT operational control.​
+The ServiceNow® CMDB Coverage application enables you to assess and improve the quality of the Configuration Management Database \(CMDB\). Improved CMDB coverage provides organizations with better visibility into their network coverage, reliable asset data, and stronger IT operational control.​
 
 ## Get started
 
@@ -28,20 +28,14 @@ The ServiceNow® CMDB Coverage application enables you to assess and improve the
 
 </td></tr><tr><td>
 
-[Use\[Omitted image "bus-optimize-manage.svg"\] Alt text:[[cmdb-coverage-create-disc-sched|Create discovery schedules]], [[cmdb-coverage-setup-ipam-sgc|set up or review IPAM connectors]], and review CMDB tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-coverage-use.md)
+[Use\[Omitted image "bus-optimize-manage.svg"\] Alt text:Create discovery schedules, set up or review IPAM connectors, and review CMDB tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-coverage-use.md)
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Details about the properties, scheduled jobs, and tables used by CMDB Coverage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-coverage-[[reference|reference]].md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Details about the properties, scheduled jobs, and tables used by CMDB Coverage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-coverage-reference.md)
 
 </td></tr></tbody>
 </table>## Helpful resource
 
 [CMDB Coverage – Additional Guidance, FAQs, and Operational Notes \[KB2817579\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2817579)
 
-## Related
-
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[cmdb-coverage-create-disc-sched|Create discovery schedules]]
-- [[cmdb-coverage-setup-ipam-sgc|Set up or review IPAM connectors]]
-- [[reference|Reference]]

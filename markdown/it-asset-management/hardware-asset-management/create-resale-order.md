@@ -15,7 +15,7 @@ breadcrumb: [Create a disposal order, Use, Hardware Asset Management, IT Asset M
 
 # Resale hardware assets
 
-Enhance [[am-landing-page|asset management]] by reselling eligible retired hardware assets instead of disposing of them.
+Enhance asset management by reselling eligible retired hardware assets instead of disposing of them.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ Asset resale is an extension of the asset disposal workflow that enables you to 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Inventory**.
+1.  Navigate to **All** &gt; **Hardware Asset Workspace** &gt; **Inventory**.
 
 2.  Select the **Disposal orders** tab.
 
@@ -97,7 +97,3 @@ When an asset is sold, an expense line is generated for each resold asset. The A
 
 [Perform bulk update of resale value for the assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/bulk-update-resale-value-asset-state.md)
 
-## Related
-
-- [[am-landing-page|Asset Management]]
-- [[using-ham-workspace|Hardware Asset Workspace]]

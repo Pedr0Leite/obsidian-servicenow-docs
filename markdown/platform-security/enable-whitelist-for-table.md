@@ -18,7 +18,7 @@ Enable a table to audit only those fields you explicitly designate. This is usef
 
 Role required: admin
 
-The table must be [[t_EnableAuditingForATable|enabled for auditing]].
+The table must be [enabled for auditing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_EnableAuditingForATable.md).
 
 ## Procedure
 
@@ -37,9 +37,5 @@ The table must be [[t_EnableAuditingForATable|enabled for auditing]].
 
 ## What to do next
 
-[[security-whitelist-audit-field|Designate which fields you want to audit in this table.]]
+[Designate which fields you want to audit in this table.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-whitelist-audit-field.md)
 
-## Related
-
-- [[t_EnableAuditingForATable|Configuring auditing for a table]]
-- [[security-whitelist-audit-field|Include a table field in auditing \(inclusion listing\)]]

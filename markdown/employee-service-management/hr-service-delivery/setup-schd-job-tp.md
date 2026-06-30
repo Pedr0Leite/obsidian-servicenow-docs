@@ -22,7 +22,7 @@ Role required: sn\_ta\_hiring\_core.admin/ sn\_ta\_tp.talent\_profile\_admin
 
 ## About this task
 
-The **[[generate-tp|Generate Talent Profiles]]** scheduled job is run daily by default, once you have created a Talent Definition. Update the execution frequency of the scheduled job or run it manually to add more talent profiles.
+The **Generate Talent Profiles** scheduled job is run daily by default, once you have created a Talent Definition. Update the execution frequency of the scheduled job or run it manually to add more talent profiles.
 
 ## Procedure
 
@@ -49,6 +49,3 @@ The **[[generate-tp|Generate Talent Profiles]]** scheduled job is run daily by d
 
 **Parent Topic:**[Configuring Talent profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/config-tp.md)
 
-## Related
-
-- [[generate-tp|Generate talent profiles]]

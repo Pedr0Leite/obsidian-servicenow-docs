@@ -130,7 +130,7 @@ mid.powershell.use\_credentials
 
 </td><td>
 
-Determines the credentials to use for [[r-discovery|Discovery]] with PowerShell. A setting of true directs the MID Server to run probes with the Windows credentials from the credentials table. To run probes with the credentials of the user for the MID Server service, set this parameter to false.
+Determines the credentials to use for Discovery with PowerShell. A setting of true directs the MID Server to run probes with the Windows credentials from the credentials table. To run probes with the credentials of the user for the MID Server service, set this parameter to false.
 
 -   Type: true \| false
 -   Default value: true
@@ -238,6 +238,3 @@ Sets the timeout interval for all Windows probes on a specific MID Server. This 
 </td></tr></tbody>
 </table>**Parent Topic:**[PowerShell for Discovery and Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_PowerShellForDiscovery.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

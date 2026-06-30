@@ -98,7 +98,7 @@ Phone number or email that receives the notifications related to the appointment
 
 [Connected Content form]()
 
-[Default [[emp-slate-employee-profile|Employee Profile]] Header Configuration record]()
+[Default Employee Profile Header Configuration record]()
 
 [Employee Center widgets]()
 
@@ -128,7 +128,7 @@ Phone number or email that receives the notifications related to the appointment
 
 [Portal notification configuration form]()
 
-[Portal [[ec-notification-content|notification content]] form]()
+[Portal notification content form]()
 
 [Trigger conditions form]()
 
@@ -148,7 +148,3 @@ Phone number or email that receives the notifications related to the appointment
 
 [Website configuration form]()
 
-## Related
-
-- [[emp-slate-employee-profile|Employee profile]]
-- [[ec-notification-content|Notification content]]

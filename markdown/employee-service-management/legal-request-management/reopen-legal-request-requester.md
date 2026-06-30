@@ -28,7 +28,7 @@ As a requester, you can only reopen your requests that have been closed \(Close 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Employee Center**.
 
     **Note:** If you’re using Legal Service Portal, open a request by navigating to the Legal Service Portal and selecting **My Requests** &gt; **View all requests** from the header.
 
@@ -51,6 +51,3 @@ If the administrator has configured email notifications, the assigned user, prac
 
 **Parent Topic:**[Using Legal Request Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/submitting-legal-request.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

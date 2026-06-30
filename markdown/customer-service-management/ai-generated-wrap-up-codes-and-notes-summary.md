@@ -22,8 +22,8 @@ Admins can configure the feature to make it available for the agents to use.
 
 For more information, see:
 
--   [[enable-ai-wrap-up-code-and-notes-summary-generation|Enable Now Assist to generate wrap up code and notes summary]]
--   [[interaction-wrapup-ai-generated|AI interaction wrap-up]]
+-   [Enable Now Assist to generate wrap up code and notes summary](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/enable-ai-wrap-up-code-and-notes-summary-generation.md)
+-   [AI interaction wrap-up](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/interaction-wrapup-ai-generated.md)
 
 \[Omitted image "int-ai-generated-wrap-up-code-and-notes-summary.jpg"\] Alt text: AI generated wrap up code and notes summary
 
@@ -37,7 +37,4 @@ For more information, see:
 
     Ensures standardized, consistent summaries across all interaction notes. Improves categorization accuracy through comprehensive transcript analysis. Enables reliable reporting and trend analysis through consistent wrap-up codes.
 
-## Related
 
-- [[enable-ai-wrap-up-code-and-notes-summary-generation|Enable Now Assist to generate wrap up code and notes summary]]
-- [[interaction-wrapup-ai-generated|AI interaction wrap-up]]

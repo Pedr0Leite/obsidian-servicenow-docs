@@ -120,7 +120,7 @@ This field is available only when the option to configure webhook is selected.En
 
 **Note:**
 
--   The step to enter the integration user name and password is required to configure only when [[devops-config-landing-page|DevOps Config]] is installed or the **This property decides whether to create a Generic Connection on configure operation for Azure DevOps** property is enabled. If this step is not required, webhooks are configured using token-based authentication.
+-   The step to enter the integration user name and password is required to configure only when DevOps Config is installed or the **This property decides whether to create a Generic Connection on configure operation for Azure DevOps** property is enabled. If this step is not required, webhooks are configured using token-based authentication.
 -   When DevOps Config is installed or the Generic Connection on configure operation for Azure DevOps property is enabled, you can regenerate token \(auto-configure with new token\) from the workspace UI only, which will update integration user password. When DevOps Config is not installed, token can be regenerated from both the workspace and classic UI for token based authentication. Re-generate your token periodically for better security.
 .
 
@@ -266,6 +266,3 @@ Select the dates for which you want to import the Plans data. By default, the la
 
 **Parent Topic:**[Azure DevOps integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/azure-devops-integration-dev-ops.md)
 
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]

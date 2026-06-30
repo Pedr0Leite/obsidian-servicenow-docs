@@ -14,7 +14,7 @@ breadcrumb: [Embed a custom portal, Configuring Employee Center, HR Service Deli
 
 # Hide the chat button on the custom portal
 
-Hide the chat option for your custom portal that appears in the [[employee-center-landing-page|Employee Center]] tab within Microsoft Teams.
+Hide the chat option for your custom portal that appears in the Employee Center tab within Microsoft Teams.
 
 ## Before you begin
 
@@ -50,6 +50,3 @@ Role required: admin
 
 **Parent Topic:**[Embed a custom portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/customize-custom-portal-employee-center.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

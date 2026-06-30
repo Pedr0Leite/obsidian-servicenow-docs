@@ -66,7 +66,7 @@ Select the **Subflow** tab and select the subflow that must be triggered when th
 **Note:** If the **Assigned to** field in target record is not populated then the user won't be able to review the draft or draft a reply.
 
 5.  In **Search profile**, select or add a profile that can be used for generating a reply for the email when the intent is matched.
-6.  In **Email Template**, create or apply an existing email template for the reply action. To create an email template, see [[t_CreateAnEmailTemplate|Create an email template]].
+6.  In **Email Template**, create or apply an existing email template for the reply action. To create an email template, see [Create an email template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAnEmailTemplate.md).
     1.  Set the form view to **Intent**.
     2.  Set the **Table** field to **Email \[sys\_email\]**.
     3.  In the **Message HTML**, add the `#{INTENT_NOTIF_EMAIL_RESPONSE}` token to represent the LLM-generated response.
@@ -90,6 +90,4 @@ Select the **Subflow** tab and select the subflow that must be triggered when th
 
 10. Select **Submit**.
 
-## Related
 
-- [[t_CreateAnEmailTemplate|Create an email template]]

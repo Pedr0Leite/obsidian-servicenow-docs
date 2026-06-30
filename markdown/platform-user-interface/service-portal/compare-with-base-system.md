@@ -36,7 +36,7 @@ If a widget is cloned from another cloned widget, both clones are compared again
 
 4.  On any customized or cloned widget, select the information icon \(\[Omitted image "info-icon.png"\] Alt text: Information icon\).
 
-5.  From the [[sp-diagnostic-tool|Widget Diagnostics]] dialog box, select **Compare with base widget**.
+5.  From the Widget Diagnostics dialog box, select **Compare with base widget**.
 
     The system displays the widget records of the base widget and cloned or customized widgets side by side.
 
@@ -52,6 +52,4 @@ If a widget is cloned from another cloned widget, both clones are compared again
 
     \[Omitted image "code-comparator.png"\] Alt text: Code comparator
 
-## Related
 
-- [[sp-diagnostic-tool|Widget diagnostics]]

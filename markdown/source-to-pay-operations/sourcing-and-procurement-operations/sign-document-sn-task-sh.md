@@ -14,11 +14,11 @@ breadcrumb: [Shopper to-dos, Using Shopping Hub, Use, Sourcing and Procurement O
 
 # Sign a document from Shopping Hub Home
 
-Provide your consent by signing a document, directly from [[shopping-hub-overview|Shopping Hub]] Home. This action is listed as a task under **My to-dos**.
+Provide your consent by signing a document, directly from Shopping Hub Home. This action is listed as a task under **My to-dos**.
 
 ## Before you begin
 
-Role required: sn\_shop.shopper, [[supplier|supplier]]
+Role required: sn\_shop.shopper, supplier
 
 ## Procedure
 
@@ -43,7 +43,3 @@ Role required: sn\_shop.shopper, [[supplier|supplier]]
 
 **Parent Topic:**[Shopper to-dos](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shopper-todos.md)
 
-## Related
-
-- [[shopping-hub-overview|Shopping Hub]]
-- [[supplier|Supplier]]

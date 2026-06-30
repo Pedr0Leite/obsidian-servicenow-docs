@@ -24,11 +24,11 @@ Role required: ais\_admin
 
 ## About this task
 
-After you define an indexed source, [[ia-ai-search|AI Search]] begins automatically indexing to reflect changes to records in the selected source table and its specified child tables. The [[hs-results|results]] of all record create, update, and delete operations in these tables are reflected in the search index. AI Search doesn't index content from unmodified records in these tables until you perform a full table index.
+After you define an indexed source, AI Search begins automatically indexing to reflect changes to records in the selected source table and its specified child tables. The results of all record create, update, and delete operations in these tables are reflected in the search index. AI Search doesn't index content from unmodified records in these tables until you perform a full table index.
 
 Use this procedure to index searchable content from existing records in indexed sources, or to manually reindex content for indexed sources that have already been indexed.
 
-If an indexed source contains unindexed records, the Indexed Sources list displays an informational message and marks the new source with an alert triangle icon \[Omitted image "icon-alert-triangle.png"\] Alt text:. A similar informational message appears on the [[indexed-source-form-ais|Indexed Source form]]. Make sure to perform a full table index for each indexed source that displays the alert triangle icon.
+If an indexed source contains unindexed records, the Indexed Sources list displays an informational message and marks the new source with an alert triangle icon \[Omitted image "icon-alert-triangle.png"\] Alt text:. A similar informational message appears on the Indexed Source form. Make sure to perform a full table index for each indexed source that displays the alert triangle icon.
 
 ## Procedure
 
@@ -42,7 +42,7 @@ If an indexed source contains unindexed records, the Indexed Sources list displa
 
     The Indexed Source History page for the last selected index appears. A message reports that AI Search has queued an indexing task for the indexed source.
 
-4.  Refresh the [[indexed-source-history-form-ais|Indexed Source History form]] page to monitor the progress of the indexing task.
+4.  Refresh the Indexed Source History form page to monitor the progress of the indexing task.
 
     When the task completes, the **Ingestion State** field shows **indexed**.
 
@@ -59,9 +59,3 @@ Define search sources to make searchable content from indexed sources available 
 
 **Parent Topic:**[Indexing content from AI Search indexed sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/indexing-content-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]
-- [[indexed-source-form-ais|Indexed Source form]]
-- [[indexed-source-history-form-ais|Indexed Source History form]]

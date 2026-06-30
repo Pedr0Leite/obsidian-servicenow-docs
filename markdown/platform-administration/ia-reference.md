@@ -12,24 +12,16 @@ breadcrumb: [Setup Hub, Get started, Administer the ServiceNow AI Platform]
 
 # Setup Hub references
 
-The [[reference-email-admin|reference]] topics provide additional information about Setup Hub.
+The reference topics provide additional information about Setup Hub.
 
--   **[[ia-des-conf|General guidelines]]**  
+-   **[General guidelines](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-des-conf.md)**  
 Practice the following general guidelines for an enhanced Setup Hub experience.
--   **[[ia-agents-platform|AI agents in Setup Hub]]**  
+-   **[AI agents in Setup Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-agents-platform.md)**  
 Refer to the following information about the Platform AI agents in Setup Hub.
--   **[[ia-scopes-roles|Scopes and roles for console items]]**  
+-   **[Scopes and roles for console items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-scopes-roles.md)**  
 Review the following information regarding the scopes and roles required for configuration for each console item in the Platform module.
--   **[[ia-glossary-terms|Setup Hub terminology]]**  
+-   **[Setup Hub terminology](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-glossary-terms.md)**  
 Before getting started with Setup Hub, it's important to understand some key terms used in the application.
 
-**Parent Topic:**[[ia-landing|Setup Hub]]
+**Parent Topic:**[Setup Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-landing.md)
 
-## Related
-
-- [[ia-des-conf|General guidelines]]
-- [[ia-agents-platform|AI agents in Setup Hub]]
-- [[ia-scopes-roles|Scopes and roles for console items]]
-- [[ia-glossary-terms|Setup Hub terminology]]
-- [[ia-landing|Setup Hub]]
-- [[reference-email-admin|Reference]]

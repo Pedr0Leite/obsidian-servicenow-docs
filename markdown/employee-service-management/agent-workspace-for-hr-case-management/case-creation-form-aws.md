@@ -14,7 +14,7 @@ breadcrumb: [Agent Workspace for HR Case Management reference, Agent Workspace, 
 
 # Create a new case form
 
-The Create a new case form allows you to create a new case in [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]].
+The Create a new case form allows you to create a new case in Agent Workspace for HR Case Management.
 
 <table id="table_abc_p2z_bbc"><thead><tr><th>
 
@@ -38,8 +38,8 @@ HR Service
 
 </td><td>
 
-The HR service based on the COE selected or what you select based on communication with the employee request. What [[hr-service-administration|HR services]] are available to an employee filter by:-   COE selected.
--   [[hr-criteria|HR criteria]] for the **Subject person** based on the [[hr-service-configuration|HR service configuration]].
+The HR service based on the COE selected or what you select based on communication with the employee request. What HR services are available to an employee filter by:-   COE selected.
+-   HR criteria for the **Subject person** based on the HR service configuration.
 
 Limit services filter on the **Case Creation Configuration** form. If the HR service field is empty, ensure that you did not remove the Opened for field.
 
@@ -66,7 +66,7 @@ Subject person
 
 </td><td>
 
-The recipient/beneficiary of the HR service fulfilled through the HR Case.**Note:** Advanced [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] qualifiers on a reference field is not supported in the case creation configuration page. When the limit user search filter is applied to the employee search, it will not be applied to **Opened for** and **Subject person**.
+The recipient/beneficiary of the HR service fulfilled through the HR Case.**Note:** Advanced reference qualifiers on a reference field is not supported in the case creation configuration page. When the limit user search filter is applied to the employee search, it will not be applied to **Opened for** and **Subject person**.
 
 </td></tr><tr><td>
 
@@ -88,10 +88,3 @@ Information related to the case that can help other HR agents. Work notes are no
 
 [Bulk case request form]()
 
-## Related
-
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[hr-service-administration|HR services]]
-- [[hr-criteria|HR criteria]]
-- [[hr-service-configuration|HR service configuration]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

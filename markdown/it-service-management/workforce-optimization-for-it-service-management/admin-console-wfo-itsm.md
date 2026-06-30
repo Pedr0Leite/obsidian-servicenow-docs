@@ -14,7 +14,7 @@ breadcrumb: [Getting started, Workforce Optimization for ITSM, IT Service Manage
 
 # Admin Console in Workforce Optimization for ITSM
 
-Use a guided approach to simplify the setup and configuration of groups within [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]] from a central location.
+Use a guided approach to simplify the setup and configuration of groups within Workforce Optimization for ITSM from a central location.
 
 **Important:** Starting with the Australia release, Admin Console in Workforce Optimization for ITSM is being prepared for future deprecation. It will be hidden and no longer installed on new instances but will continue to be supported. For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
 
@@ -47,6 +47,3 @@ Configure assignment group access to each application in Workforce Optimization 
 
 **Parent Topic:**[Getting started with Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/getting-started-workforce-optimization-itsm.md)
 
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]

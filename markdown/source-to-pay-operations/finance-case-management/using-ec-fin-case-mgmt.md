@@ -19,7 +19,7 @@ Finance requesters can use the Employee Center to create finance inquiry, view t
 -   **[Submit a finance request from Employee Center catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/submit-fin-req.md)**  
 Ask any general finance-related question.
 -   **[View finance articles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/view-finance-articles.md)**  
-[[view-finance-articles|View finance articles]] from the Employee Center.
+View finance articles from the Employee Center.
 
 **Parent Topic:**[UseFinance Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/using-fin-case-mgmt.md)
 
@@ -28,6 +28,3 @@ Ask any general finance-related question.
 
 [Using the Finance Operations Workspace]()
 
-## Related
-
-- [[view-finance-articles|View finance articles]]

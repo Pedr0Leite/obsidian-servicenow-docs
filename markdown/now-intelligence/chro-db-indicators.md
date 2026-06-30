@@ -205,7 +205,7 @@ ERCases.OpenCalculation: SLA due &lt; Today
 </td></tr></tbody>
 </table>## People tab
 
-All of the indicators on this tab are manual, meaning that they are based on data that you enter manually on the associated score sheet. For more information on populating [[t_CreateAManualIndicator|manual indicators]], see [Add or edit indicator scores manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_ManuallyAddingScoresForIndicators.md).
+All of the indicators on this tab are manual, meaning that they are based on data that you enter manually on the associated score sheet. For more information on populating manual indicators, see [Add or edit indicator scores manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_ManuallyAddingScoresForIndicators.md).
 
 |Column|Indicator|Source plugin|Indicator Type|Formula calculation|
 |------|---------|-------------|--------------|-------------------|
@@ -230,6 +230,3 @@ All of the indicators on this tab are manual, meaning that they are based on dat
 |Reward|Revenue per employee| |Manual| |
 |Reward|OTE\(On Target Earnings\) per employee| |Manual| |
 
-## Related
-
-- [[t_CreateAManualIndicator|Manual indicators]]

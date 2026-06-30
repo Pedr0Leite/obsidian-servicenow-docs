@@ -22,11 +22,11 @@ Role required: sn\_ta\_hiring\_core.external\_applicant or sn\_ta\_hiring\_core.
 
 ## Procedure
 
-1.  Navigate to [[applicant-center-concept|Applicant Center]].
+1.  Navigate to Applicant Center.
 
     For more information, see [Access the Applicant Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/view-applicant-center.md).
 
-2.  On the [[applicant-portal-home-page|Applicant Center home page]], under the Keep track of what’s going on section, locate the proposed interview.
+2.  On the Applicant Center home page, under the Keep track of what’s going on section, locate the proposed interview.
 
 3.  Select **Select time slot**.
 
@@ -36,18 +36,12 @@ Role required: sn\_ta\_hiring\_core.external\_applicant or sn\_ta\_hiring\_core.
 
 6.  Select **Send request**.
 
-    The recruiter is notified about the additional time slot request via email and also on the [[activity-lxp|activity]] stream of the interview record.
+    The recruiter is notified about the additional time slot request via email and also on the activity stream of the interview record.
 
-7.  On the Availabilities for Recruiter's call page, select **[[share-availability-applicant-ac|Share scheduling preferences]]** to share your preferences for new slots.
+7.  On the Availabilities for Recruiter's call page, select **Share scheduling preferences** to share your preferences for new slots.
 
     For more information, see [Share scheduling preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/share-availability-applicant-ac.md).
 
 
 **Parent Topic:**[Using Applicant Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/use-applicant-center.md)
 
-## Related
-
-- [[applicant-center-concept|Applicant Center]]
-- [[applicant-portal-home-page|Applicant Center home page]]
-- [[activity-lxp|Activity]]
-- [[share-availability-applicant-ac|Share scheduling preferences]]

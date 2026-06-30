@@ -12,7 +12,7 @@ breadcrumb: [Configurable Portal widgets instance options, Configurable Portal W
 
 # Portal Browse Taxonomy widget instance options form
 
-Instance options enable you to configure the [[browse-taxo-widget|Portal Browse Taxonomy widget]] on the portal.
+Instance options enable you to configure the Portal Browse Taxonomy widget on the portal.
 
 <table id="table_csm_base_entities"><thead><tr><th>
 
@@ -131,6 +131,3 @@ The Catalog Order Guide page that opens when the catalog order guide is accessed
 
 [Add and configure the Portal Browse Taxonomy widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/config-portal-browse-taxo-widget.md)
 
-## Related
-
-- [[browse-taxo-widget|Portal Browse Taxonomy widget]]

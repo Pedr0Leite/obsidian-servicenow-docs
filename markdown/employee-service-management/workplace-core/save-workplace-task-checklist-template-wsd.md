@@ -14,7 +14,7 @@ breadcrumb: [Managing workplace tasks, Manage workplace safety activities, Workp
 
 # Save a workplace task checklist as a template
 
-You can save a [[workplace-safety-mgmt-hr|Workplace Core]] workplace task checklist as a template for easy reuse. A template saves time by adding checklist items automatically in a record where you use it.
+You can save a Workplace Core workplace task checklist as a template for easy reuse. A template saves time by adding checklist items automatically in a record where you use it.
 
 ## Before you begin
 
@@ -45,6 +45,3 @@ When you add a template checklist to a record, you can add, edit, or remove chec
 
 **Parent Topic:**[Managing workplace tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/managing-workplace-maintenance-tasks.md)
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]

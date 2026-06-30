@@ -27,7 +27,7 @@ Role required: sn\_wsd\_core.workplace\_manager and sn\_wsd\_spcmgmt.scenario\_r
 
 ## About this task
 
-As a workplace manager, you can approve a scenario. The [[workplace-safety-mgmt-hr|Workplace Core]] Approval definition, provides the **Scenario Plan Approval** by default to perform scenario approval. The approval definition consists of a **Scenario Plan Approver** performer criteria, in which all the workplace managers are configured to approve scenarios. To configure more approvers, refer to [Configure approvers of a scenario](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/configure-approvers-of-a-scenario.md).
+As a workplace manager, you can approve a scenario. The Workplace Core Approval definition, provides the **Scenario Plan Approval** by default to perform scenario approval. The approval definition consists of a **Scenario Plan Approver** performer criteria, in which all the workplace managers are configured to approve scenarios. To configure more approvers, refer to [Configure approvers of a scenario](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/configure-approvers-of-a-scenario.md).
 
 ## Procedure
 
@@ -77,13 +77,9 @@ The scenario is approved or rejected based on what action you performed. If the 
 
 [View workplace scenarios]()
 
-[Raise a [[space-assistance|space assistance]] request]()
+[Raise a space assistance request]()
 
 [Approve a space assist request]()
 
 [Manage reservation waitlist records]()
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[space-assistance|Space assistance]]

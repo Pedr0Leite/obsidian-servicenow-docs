@@ -15,7 +15,7 @@ breadcrumb: [Source type structure adjustment, Set up HLA on your instance, Conf
 
 # Refine the source type structure in Health Log Analytics
 
-Fine-tune how [[hla-landing-page|Health Log Analytics]] reads your inner log messages and detects anomalies by customizing the extracted properties in the source type structure.
+Fine-tune how Health Log Analytics reads your inner log messages and detects anomalies by customizing the extracted properties in the source type structure.
 
 ## Before you begin
 
@@ -377,6 +377,3 @@ Continue with the [remaining data input setup tasks](https://raw.githubuserconte
 
 [Source type structure adjustment in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-source-type-structure-adjustment.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

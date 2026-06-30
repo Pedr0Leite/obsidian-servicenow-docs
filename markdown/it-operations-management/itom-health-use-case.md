@@ -12,7 +12,7 @@ breadcrumb: [Applying the CSDM guidelines to ITOM AIOps, ITOM AIOps, IT Operatio
 
 # ITOM AIOps and CSDM tables
 
-[[itom-health-landing-page|ITOM AIOps]] leverages and maintains CSDM tables, while various ServiceNow products enhance and contribute value to its operations.
+ITOM AIOps leverages and maintains CSDM tables, while various ServiceNow products enhance and contribute value to its operations.
 
 ## CSDM tables in the CMDB that are managed by ITOM Health
 
@@ -24,6 +24,3 @@ ITOM AIOps manages the following tables:
 
 \[Omitted image "itom-managed-tables-CSDM-v5.png"\] Alt text: CSDM tables managed by ITOM.
 
-## Related
-
-- [[itom-health-landing-page|ITOM AIOps]]

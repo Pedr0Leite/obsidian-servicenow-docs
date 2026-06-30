@@ -20,7 +20,7 @@ A scheduled job examines the Unique Certificates \[cmdb\_ci\_certificate\] table
 
 Things to consider for renewal of certificates:
 
--   Tasks for certificate renewals are automatically generated 60 days prior to expiration. To modify the timeframe, update the [Discovery property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_DiscoveryProperties.md): **glide.[[r-discovery|discovery]].certs.days\_before\_expiration\_to\_create\_renewal\_task**.
+-   Tasks for certificate renewals are automatically generated 60 days prior to expiration. To modify the timeframe, update the [Discovery property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_DiscoveryProperties.md): **glide.discovery.certs.days\_before\_expiration\_to\_create\_renewal\_task**.
 
     **Note:** It's enough to configure the **glide.discovery.certs.days\_before\_expiration\_to\_create\_renewal\_task system property** for the automatic creation of manual certificate tasks. You don’t need to custom configure the **CertificateNotifier** or other prefilters.
 
@@ -33,6 +33,3 @@ Things to consider for renewal of certificates:
 -   If a certificate expires and isn't replaced, a new incident is created. However, only one incident is generated for each expired certificate.
 -   To view the certificate incidents list, navigate to **Service Desk** &gt; **Incidents**.
 
-## Related
-
-- [[r-discovery|Discovery]]

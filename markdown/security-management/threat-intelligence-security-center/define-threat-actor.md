@@ -14,7 +14,7 @@ breadcrumb: [Threat Actor, Threat Entities, TISC Library Repository, Threat Inte
 
 # Define Threat Actor
 
-[[define-threat-actors|Define threat actors]] who are individuals, groups, or organizations who act with malicious intent.
+Define threat actors who are individuals, groups, or organizations who act with malicious intent.
 
 ## Before you begin
 
@@ -22,15 +22,15 @@ Role required: sn\_sec\_tisc.analyst
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center**.
 
 2.  Click on **Threat Intel Library** icon on the workspace.
 
-3.  Go to **[[threat-actor|Threat Actor]]** object.
+3.  Go to **Threat Actor** object.
 
 4.  Click **New**.
 
-    **Note:** Whenever you create new object records for [[c_Observables|observables]], [[indicator|indicators]], entities or objects a source record is created and a prompt message is displayed that the new object record is created and then the user is redirected to the aggregated record.
+    **Note:** Whenever you create new object records for observables, indicators, entities or objects a source record is created and a prompt message is displayed that the new object record is created and then the user is redirected to the aggregated record.
 
 5.  On the form, fill in the fields.
 
@@ -56,7 +56,7 @@ Name
 
 </td><td>
 
-Enter a descriptive name to identify the [[location|location]].
+Enter a descriptive name to identify the location.
 
 </td></tr><tr><td>
 
@@ -64,7 +64,7 @@ Description
 
 </td><td>
 
-A description that provides more details and context about the [[threat-intelligence-intrusion-sets|intrusion set]], potentially including its purpose and its key characteristics.
+A description that provides more details and context about the intrusion set, potentially including its purpose and its key characteristics.
 
 </td></tr><tr><td>
 
@@ -104,7 +104,7 @@ First Seen
 
 </td><td>
 
-The time that this Threat Actor was first seen.This property is a summary property of data from [[indicator-sightings|sightings]] and other data that may or may not be available in STIX. If new sightings are received that are earlier than the first seen timestamp, the object may be updated to account for the new data.
+The time that this Threat Actor was first seen.This property is a summary property of data from sightings and other data that may or may not be available in STIX. If new sightings are received that are earlier than the first seen timestamp, the object may be updated to account for the new data.
 
 </td></tr><tr><td>
 
@@ -269,12 +269,12 @@ Created By Ref
 
 </td><td>
 
-This property specifies that the [[identity|identity]] object that describes the entity had created this object.
+This property specifies that the identity object that describes the entity had created this object.
 
 </td></tr></tbody>
 </table>6.  Click **Save**.
 
-    After you save, a prompt message is displayed indicating that A new observable record is created. Click **Continue** to edit the record and create new [[stix-relationships|relationships]].
+    After you save, a prompt message is displayed indicating that A new observable record is created. Click **Continue** to edit the record and create new relationships.
 
 7.  Click **Continue**.
 
@@ -299,42 +299,24 @@ Click any of the following related lists to view additional information about ob
 |Field|Description|
 |-----|-----------|
 |External References|Lists the external references which refer to non-STIX information. This property is used to provide one or more external object identifiers.|
-|Attack Patterns|Lists the [[attack-patterns|attack patterns]] that help categorize attacks that are associated with this object.|
-|Campaigns|Lists the [[threat-intelligence-campaigns|campaigns]] associated with this object.|
-|Identities|List of [[threat-intelligence-identities|identities]] associated with this object.|
+|Attack Patterns|Lists the attack patterns that help categorize attacks that are associated with this object.|
+|Campaigns|Lists the campaigns associated with this object.|
+|Identities|List of identities associated with this object.|
 |Infrastructure|Lists systems, software services, and any associated physical or virtual resources that are associated with this object.|
 |Intrusion Sets|Lists a set of adversarial behaviors and resources with common properties associated with this object.|
-|Locations|List of [[threat-intelligence-locations|locations]] associated with this object.|
+|Locations|List of locations associated with this object.|
 |Malware|Lists the malicious code associated with this object.|
 |Marketing Definitions|Lists the marketing definitions associated with this object.|
 |Observables|Lists the observables associated with this object.|
 |Sightings|Lists the sightings associated with this object.|
-|Tools|Lists legitimate software that is used by [[threat-actors|threat actors]] to perform attacks associated with this object.|
+|Tools|Lists legitimate software that is used by threat actors to perform attacks associated with this object.|
 
 **Note:**
 
 1.  You can link and unlink the related records associated with this object. For more information, see [Link Threat Intel Related Records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/link-threat-intel-releated-records.md).
-2.  The various SDOs within the TI library also contains the [[potential-relationships|potential relationships]]. To establish a relationships between any two objects, you use the **Potential Relationships** link from the **Threat Intel Library** to confirm the relationships between the objects. For more information, see [Confirm object-object potential relationships](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/define-object-object-potential-relationships.md).
+2.  The various SDOs within the TI library also contains the potential relationships. To establish a relationships between any two objects, you use the **Potential Relationships** link from the **Threat Intel Library** to confirm the relationships between the objects. For more information, see [Confirm object-object potential relationships](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/define-object-object-potential-relationships.md).
 3.  Also, use the **Related Records** section from the objects form view to confirm the relationships between two Objects using the **Potential Relationships** section available on the form view. For more information on see, [Confirm Potential Relationships from Related Records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/confirm-potential-relationships.md).
 4.  You can add objects to cases. For more information, see [Add to Case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/add-to-case.md).
 
 **Parent Topic:**[Threat Actor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/threat-actor.md)
 
-## Related
-
-- [[define-threat-actors|Define threat actors]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-actor|Threat Actor]]
-- [[c_Observables|Observables]]
-- [[indicator|Indicators]]
-- [[location|Location]]
-- [[threat-intelligence-intrusion-sets|Intrusion set]]
-- [[indicator-sightings|Sightings]]
-- [[identity|Identity]]
-- [[stix-relationships|Relationships]]
-- [[attack-patterns|Attack patterns]]
-- [[threat-intelligence-campaigns|Campaigns]]
-- [[threat-intelligence-identities|Identities]]
-- [[threat-intelligence-locations|Locations]]
-- [[threat-actors|Threat actors]]
-- [[potential-relationships|Potential Relationships]]

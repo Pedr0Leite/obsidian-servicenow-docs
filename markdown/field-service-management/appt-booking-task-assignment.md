@@ -12,7 +12,7 @@ breadcrumb: [Reference, Field Service Management]
 
 # Learn about appointment availability settings
 
-Settings in the application configuration determine how the [[appointment-booking|appointment booking]] feature determines availability.
+Settings in the application configuration determine how the appointment booking feature determines availability.
 
 Different methods are provided for determining availability:
 
@@ -30,11 +30,11 @@ Different methods are provided for determining availability:
 
     This method uses a custom script to determine the number of available appointments per time window. For example, you can use a customized script to check for agent schedule and skills to assign the task.
 
-    The default script included with the [[fsm-application-landing-page|Field Service Management]] application configuration uses the task assignment method set in the Field Service Order configuration or Field Service Task configuration to determine availability. If the task assignment method is set to manual, the availability defaults to the **Number of appointments per slot** availability method. If the task assignment is set to auto-assignment or [[dynamic-scheduling|dynamic scheduling]], the configurations associated with these task assignment methods are considered while calculating availability.
+    The default script included with the Field Service Management application configuration uses the task assignment method set in the Field Service Order configuration or Field Service Task configuration to determine availability. If the task assignment method is set to manual, the availability defaults to the **Number of appointments per slot** availability method. If the task assignment is set to auto-assignment or dynamic scheduling, the configurations associated with these task assignment methods are considered while calculating availability.
 
--   **Based on [[capacity|capacity]]**
+-   **Based on capacity**
 
-    This option is available when Field Service  [[capacity-management|Capacity and Reservations Management]] plugin is installed, and the Task Table is Work Order or Work Order Task. This method determines appointments based on the capacity and reservations defined in the capacity management settings when Capacity and Reservation Management is activated.
+    This option is available when Field Service  Capacity and Reservations Management plugin is installed, and the Task Table is Work Order or Work Order Task. This method determines appointments based on the capacity and reservations defined in the capacity management settings when Capacity and Reservation Management is activated.
 
     **Note:**
 
@@ -46,21 +46,12 @@ Different methods are provided for determining availability:
 
 In the service configuration, the appointment booking administrator can select a schedule of days that are excluded from appointment availability. The **Holiday Schedule** field is a reference field that points to the Schedules table \[cmn\_schedule\]. Selecting a schedule from the Schedules list defines the days and times to exclude from appointment availability. In the schedule selected, those days must be set to **Excluded**.
 
-**Parent Topic:**[[fsm-reference|Field Service Management reference]]
+**Parent Topic:**[Field Service Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/fsm-reference.md)
 
 **Related topics**  
 
 
-[[t_ConfigureFieldService|Global domain configurations]]
+[Global domain configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/t_ConfigureFieldService.md)
 
 [Schedules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_UseSchedules.md)
 
-## Related
-
-- [[fsm-reference|Field Service Management reference]]
-- [[t_ConfigureFieldService|Global domain configurations]]
-- [[appointment-booking|Appointment booking]]
-- [[fsm-application-landing-page|Field Service Management]]
-- [[dynamic-scheduling|Dynamic scheduling]]
-- [[capacity|Capacity]]
-- [[capacity-management|Capacity and Reservations Management]]

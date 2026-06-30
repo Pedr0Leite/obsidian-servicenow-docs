@@ -23,7 +23,7 @@ View tickets and make updates to them from Now Assist in Virtual Agent, the Now 
 
 ## ITSM AI agents used in Virtual agent
 
-The **DEMO Password reset agent** is a demo AI agent that provides requesters with password reset instructions for the account that they need help with. The agent guides the users with these instructions from KB articles in their self-service portal. When you install the Now Assist for [[r_ITServiceManagement|IT Service Management]] plugin \(sn\_itsm\_gen\_ai\) along with the demo data, you can use the **DEMO Password reset agent** to provide you with password reset instructions.
+The **DEMO Password reset agent** is a demo AI agent that provides requesters with password reset instructions for the account that they need help with. The agent guides the users with these instructions from KB articles in their self-service portal. When you install the Now Assist for IT Service Management plugin \(sn\_itsm\_gen\_ai\) along with the demo data, you can use the **DEMO Password reset agent** to provide you with password reset instructions.
 
 **Note:** The agent is shipped inactive by default.
 
@@ -37,6 +37,3 @@ To activate, in the **Select channels and status** screen:
 
 The DEMO Password reset agent uses the ESC Portal Default Search Profile. \[Omitted image "image.itsm-demo-pw-reset-agent-search-profile"\] Alt text: ESC Portal Default Search Profile
 
-## Related
-
-- [[r_ITServiceManagement|IT Service Management]]

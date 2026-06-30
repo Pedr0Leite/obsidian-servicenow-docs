@@ -19,11 +19,11 @@ Upsell or downsell a customer contract line on the CSM Configurable Workspace. Y
 Role required:
 
 -   To create an order, you need sn\_customerservice\_manager and sn\_ind\_tmt\_orm.order\_agent.
--   To [[create-new-quote|create a quote]], you need sn\_customerservice\_manager and sn\_sales\_common.sales\_agent.
+-   To create a quote, you need sn\_customerservice\_manager and sn\_sales\_common.sales\_agent.
 
 ## About this task
 
-\[Omitted video\] Description: [[Modify|Modify]] quantity to upsell or downsell a customer contract line
+\[Omitted video\] Description: Modify quantity to upsell or downsell a customer contract line
 
 ## Procedure
 
@@ -49,7 +49,7 @@ Role required:
 
 8.  Select **Modify**.
 
-    The target entity is created depending on the [[rules_101|rules]] set in the Customer Life Cycle Workflows Policy decision table. For more info, see [[create-cont-ent-workflows-csm|Configuring Customer Life Cycle Workflows Policy decision table]].
+    The target entity is created depending on the rules set in the Customer Life Cycle Workflows Policy decision table. For more info, see [Configuring Customer Life Cycle Workflows Policy decision table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-cont-ent-workflows-csm.md).
 
     -   In case of a partial swap, three quote lines are created. You can select the quote number from the confirmation message to view the quote line items. The quote is approved and the status changes to **Complete** to create an order with three order line items.
     -   In case of a full swap, two quote lines are created. You can select the quote number from the confirmation message to view the quote line items. The quote is approved and the status changes to **Complete** to create an order with two order line items.
@@ -59,9 +59,4 @@ Role required:
 
     **Note:** You can perform a partial or a full swap with a new product from the catalog by following the same procedure.
 
-## Related
 
-- [[create-cont-ent-workflows-csm|Creating contracts and entitlements using workflows]]
-- [[create-new-quote|Create a quote]]
-- [[Modify|Modify]]
-- [[rules_101|Rules]]

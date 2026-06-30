@@ -14,7 +14,7 @@ breadcrumb: [Event Management reference, Event Management, ITOM AIOps, IT Operat
 
 # Event forwarding properties
 
-Several system properties enable you to customize an [[event-forwarding-em|event forwarding]] job.
+Several system properties enable you to customize an event forwarding job.
 
 **Note:** To access the System Properties \[sys\_properties\] table, enter `sys_properties.list` in the navigation filter.
 
@@ -85,6 +85,3 @@ Enables or disables debug logging for event forwarding. Set this property to tru
 </td></tr></tbody>
 </table>**Parent Topic:**[Event Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/event-management-reference.md)
 
-## Related
-
-- [[event-forwarding-em|Event forwarding]]

@@ -14,7 +14,7 @@ breadcrumb: [Order guides, Types of catalog items, Explore, Service Catalog, Man
 
 # Create an order guide rule to add a catalog item
 
-You can [[t_AssignItemToAddlCatalogsCategory|add a catalog item]] to an order guide using specific rules.
+You can add a catalog item to an order guide using specific rules.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Order guide rules define conditions that must be met for a specific item to be i
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[service-catalog|Service Catalog]]** &gt; **Catalog Definition** &gt; **[[c_ServiceCatalogOrderGuides|Order Guides]]**.
+1.  Navigate to **All** &gt; **Service Catalog** &gt; **Catalog Definition** &gt; **Order Guides**.
 
 2.  Open an order guide.
 
@@ -72,7 +72,7 @@ If this condition is true
 
 </td><td>
 
-Conditions that must be true for this rule to apply. Create conditions using the [condition builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_ConditionBuilder.md) . Conditions can be evaluated against Keywords, Requested By, [[requested-for|Requested For]], or any variables defined for that order guide.
+Conditions that must be true for this rule to apply. Create conditions using the [condition builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_ConditionBuilder.md) . Conditions can be evaluated against Keywords, Requested By, Requested For, or any variables defined for that order guide.
 
 </td></tr><tr><td>
 
@@ -92,7 +92,7 @@ Option to allow customers to proceed without completing mandatory fields for the
 
 </td></tr><tr><td>
 
-Use [[c_ConfigureCartLayout|cart layout]]
+Use cart layout
 
 </td><td>
 
@@ -120,10 +120,3 @@ Option to select the default quantity of a catalog item for the order guide. Whe
 
 **Parent Topic:**[Order guides](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_ServiceCatalogOrderGuides.md)
 
-## Related
-
-- [[t_AssignItemToAddlCatalogsCategory|Add a catalog item]]
-- [[service-catalog|Service Catalog]]
-- [[c_ServiceCatalogOrderGuides|Order guides]]
-- [[requested-for|Requested for]]
-- [[c_ConfigureCartLayout|Cart layout]]

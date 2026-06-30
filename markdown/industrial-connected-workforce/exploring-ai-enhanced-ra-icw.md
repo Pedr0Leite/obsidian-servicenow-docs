@@ -25,7 +25,7 @@ AI Enhanced recommended actions for ICW leverages the external content connector
 
 AI Search fetches the data from the external source. Then AI Enhanced recommended actions for ICW displays the fetched data as search results in the **Suggested Actions** tab of the Recommendations panel. You can use the **Contextualize document** UI action in the **Suggested Actions** tab to summarize why a fetched document is relevant to your search prompt.
 
-By default, AI Search uses the short description, description, site, ICW device, and equipment model entity field values to display the most relevant external sources for your deviation. The following image shows an example of what the **Contextualize document** UI action looks like in an existing deviation record in the [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]].
+By default, AI Search uses the short description, description, site, ICW device, and equipment model entity field values to display the most relevant external sources for your deviation. The following image shows an example of what the **Contextualize document** UI action looks like in an existing deviation record in the Digital Factory Workspace.
 
 Image/screenshot: Contextualize document UI action under an external document in the Digital Factory Workspace.
 
@@ -33,14 +33,8 @@ Image/screenshot: Contextualize document UI action under an external document in
 
 To learn more about configuring and using AI Enhanced recommended actions for ICW, see:
 
--   [[configure-ai-enhanced-ra-icw|Configure AI Enhanced recommended actions for Industrial Connected Workforce]]
--   [[use-ai-enhanced-ra-icw|Contextualize an external document for a Deviation in the Digital Factory Workspace]]
+-   [Configure AI Enhanced recommended actions for Industrial Connected Workforce](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/configure-ai-enhanced-ra-icw.md)
+-   [Contextualize an external document for a Deviation in the Digital Factory Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/use-ai-enhanced-ra-icw.md)
 
-**Parent Topic:**[[ai-enhanced-ra-icw-landing|AI Enhanced recommended actions for Industrial Connected Workforce]]
+**Parent Topic:**[AI Enhanced recommended actions for Industrial Connected Workforce](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/ai-enhanced-ra-icw-landing.md)
 
-## Related
-
-- [[configure-ai-enhanced-ra-icw|Configure AI Enhanced recommended actions for Industrial Connected Workforce]]
-- [[use-ai-enhanced-ra-icw|Contextualize an external document for a Deviation in the Digital Factory Workspace]]
-- [[ai-enhanced-ra-icw-landing|AI Enhanced recommended actions for Industrial Connected Workforce]]
-- [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]

@@ -14,7 +14,7 @@ breadcrumb: [Field Service Contractor for mobile, ServiceNow Agent mobile app, C
 
 # View knowledge articles related to a work order task on a mobile device
 
-View knowledge articles related to a work order task through the [[wot-fsc|Field Service Contractor for mobile]] application to get additional information to help you complete the task.
+View knowledge articles related to a work order task through the Field Service Contractor for mobile application to get additional information to help you complete the task.
 
 ## Before you begin
 
@@ -48,6 +48,3 @@ The knowledge article view page provides several details about a displayed artic
 
 The selected version of the article opens in a Knowledge Details page displayed in another tab within the Field Service Contractor for mobile application. The tab name includes the knowledge article number and its version number.
 
-## Related
-
-- [[wot-fsc|Field Service Contractor for mobile]]

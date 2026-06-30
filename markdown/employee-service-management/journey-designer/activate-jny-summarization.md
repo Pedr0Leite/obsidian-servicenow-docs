@@ -18,7 +18,7 @@ Activate the Journey Summarization for Managers skill in Now Assist for HRSD usi
 
 ## Before you begin
 
-The [[now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\)]] \(sn\_hr\_gen\_ai\) plugin must be installed.
+The Now Assist for HR Service Delivery \(HRSD\) \(sn\_hr\_gen\_ai\) plugin must be installed.
 
 This skill, driven by generative AI, produces a summary that managers can view to acquire the following information about an employee's journey:
 
@@ -54,6 +54,3 @@ Managers can instantly summarize the information that appears on the Journey det
 
 **Parent Topic:**[Managers, mentors, and employees work with journeys in the Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-working-with-journeys.md)
 
-## Related
-
-- [[now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\)]]

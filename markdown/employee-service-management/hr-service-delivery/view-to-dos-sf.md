@@ -14,7 +14,7 @@ breadcrumb: [Use, HR Service Delivery Integration with SuccessFactors, Integrati
 
 # View to dos
 
-View details of the tasks that are pulled from [[hr-service-delivery-integration-success-factors|HR Service Delivery Integration with SuccessFactors]] into ServiceNow application.
+View details of the tasks that are pulled from HR Service Delivery Integration with SuccessFactors into ServiceNow application.
 
 ## Before you begin
 
@@ -129,12 +129,7 @@ Date and time by which the task has to be completed.
 
 [Field mappings]()
 
-[Now Assist Virtual Agent topics for [[hr-service-delivery|HR Service Delivery]] Integration with SuccessFactors]()
+[Now Assist Virtual Agent topics for HR Service Delivery Integration with SuccessFactors]()
 
-[Use [[conversational-agents|HCM AI agents]] for HR Service Delivery Integration with SuccessFactors]()
+[Use HCM AI agents for HR Service Delivery Integration with SuccessFactors]()
 
-## Related
-
-- [[hr-service-delivery-integration-success-factors|HR Service Delivery Integration with SuccessFactors]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[conversational-agents|HCM AI agents]]

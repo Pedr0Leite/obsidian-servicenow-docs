@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -94,7 +94,7 @@ Security risk
 
 -   Severity score: 8.1
 -   CVSS rating: High
--   Security risk details: Gaps in [[sc-access-control|access control]] can allow unauthorized [[users|users]] to view, modify, or delete sensitive data, undermining data integrity, confidentiality, and compliance with organizational security [[ca-policies|policies]].
+-   Security risk details: Gaps in access control can allow unauthorized users to view, modify, or delete sensitive data, undermining data integrity, confidentiality, and compliance with organizational security policies.
 
 </td></tr><tr><td>
 
@@ -115,10 +115,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]
-- [[sc-access-control|Access control]]
-- [[users|Users]]
-- [[ca-policies|Policies]]

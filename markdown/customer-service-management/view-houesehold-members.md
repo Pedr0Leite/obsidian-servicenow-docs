@@ -20,7 +20,7 @@ Install Customer Household Data Model \(com.snc.household\) app from [ServiceNow
 
 Role required: sn\_customerservice.consumer
 
-**Note:** You must be a householdHead to view household members. For details, see [[add-consumer-to-household|Add consumers to a household]].
+**Note:** You must be a householdHead to view household members. For details, see [Add consumers to a household](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/add-consumer-to-household.md).
 
 ## Procedure
 
@@ -36,12 +36,7 @@ You can view the list of household members. Select any record to view details.
 **Related topics**  
 
 
-[[configure-households|Configuring households]]
+[Configuring households](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-households.md)
 
-[[industry-data-model-portal-changes|Consumer Service Portal changes]]
+[Consumer Service Portal changes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/industry-data-model-portal-changes.md)
 
-## Related
-
-- [[add-consumer-to-household|Add consumers to a household]]
-- [[configure-households|Configuring households]]
-- [[industry-data-model-portal-changes|Consumer Service Portal changes]]

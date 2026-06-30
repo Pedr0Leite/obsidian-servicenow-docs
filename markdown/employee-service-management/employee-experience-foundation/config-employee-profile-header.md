@@ -28,13 +28,13 @@ You can configure the Employee Profile header fields to be displayed for all emp
 -   Secondary user info such as title, contact number, and preferred pronoun.
 -   User presence information to show the user status across channels like MS Teams.
 
-**Note:** From [[emp-slate-employee-profile|Employee Profile]] version 11.0.3, you can create multiple active header configurations.
+**Note:** From Employee Profile version 11.0.3, you can create multiple active header configurations.
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **Employee Profile** &gt; **Header UI Configuration**.
 
-2.  On the [[profile-header-config-form|Employee Profile Header Configuration form]], fill in the fields.
+2.  On the Employee Profile Header Configuration form, fill in the fields.
 
     For a description of the field values, see [Employee Profile Header Configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/profile-header-config-form.md).
 
@@ -42,7 +42,4 @@ You can configure the Employee Profile header fields to be displayed for all emp
 
 3.  Select **Update**.
 
-## Related
 
-- [[emp-slate-employee-profile|Employee profile]]
-- [[profile-header-config-form|Employee Profile Header Configuration form]]

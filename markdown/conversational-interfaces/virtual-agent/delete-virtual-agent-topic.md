@@ -21,7 +21,7 @@ Delete a Virtual Agent topic that is no longer needed.
 
 Role required: virtual\_agent\_admin or admin
 
-**Note:** An updated [[vad-topics-page|Assistant Designer Asset library]] user interface is available when you install [[now-assist-in-va-landing|Now Assist in Virtual Agent]] and turn on the Now Assist Topics skill. This content assumes that you have activated this skill and can see the list view. If this skill is not activated, you see the legacy UI and topics page. For more information, see [Virtual Agent Designer legacy topics page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/vad-prev-topics-page.md).
+**Note:** An updated Assistant Designer Asset library user interface is available when you install Now Assist in Virtual Agent and turn on the Now Assist Topics skill. This content assumes that you have activated this skill and can see the list view. If this skill is not activated, you see the legacy UI and topics page. For more information, see [Virtual Agent Designer legacy topics page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/vad-prev-topics-page.md).
 
 ## About this task
 
@@ -31,11 +31,11 @@ You can delete a topic using the **Delete** option in the Assistant Designer Ass
 
 Sometimes, certain categories of topics can’t be deleted, such as the Greeting, Survey, Live Agent, Error, Explore help, and Closing setup topics. Delete option is disabled for subflows, actions, and custom skills.
 
-If you want to remove a topic from your [[virtual-agent-landing-page|Virtual Agent]] clients but don't want to delete it, consider making the topic inactive instead.
+If you want to remove a topic from your Virtual Agent clients but don't want to delete it, consider making the topic inactive instead.
 
 ## Procedure
 
-1.  If you're not working on the topic, navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Virtual Agent** &gt; **Designer** to display the home page.
+1.  If you're not working on the topic, navigate to **All** &gt; **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Designer** to display the home page.
 
 2.  Use one of the following methods based on either a record on the home page or the header inside a topic.
 
@@ -89,9 +89,3 @@ If the topic was active and is no longer listed in the home page, the topic is i
 
 **Parent Topic:**[Getting started with Virtual Agent Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/conversation-designer-virtual-agent.md)
 
-## Related
-
-- [[vad-topics-page|Assistant Designer Asset library]]
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]

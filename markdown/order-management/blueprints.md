@@ -12,7 +12,7 @@ breadcrumb: [The CPQ Configurator, CPQ, Configure, price, quote, Explore, Sales 
 
 # Blueprints
 
-Learn how blueprints define the structure of configuration experiences in CPQ and act as containers for [[fields|fields]], [[rules_101|rules]], [[layouts|layouts]], and [[configurable-products-explore|configurable products]].
+Learn how blueprints define the structure of configuration experiences in CPQ and act as containers for fields, rules, layouts, and configurable products.
 
 Blueprints are the foundation of every configuration experience in CPQ. They define the structure, behavior, and visual layout of configurations by linking together all key elements—Fields, Rules, Layouts, and Configurable Products—into a single, manageable container. A blueprint represents the complete configuration logic for one product or experience and ensures consistent behavior across environments.
 
@@ -41,12 +41,12 @@ Blueprints are version-controlled entities that progress through a simple life c
 
 Each blueprint record includes multiple tabs that provide visibility into its structure and related components:
 
--   Associated Fields: View all fields and subfields linked to the blueprint, organized by type \(Standard, [[cpq-sets|Sets]], [[product_picker_overview|product pickers]], System\).
+-   Associated Fields: View all fields and subfields linked to the blueprint, organized by type \(Standard, Sets, product pickers, System\).
 -   Related Rules: Review active and inactive rules automatically linked through field references.
--   Layouts: View or [[Modify|modify]] layouts associated with the blueprint. The most recently saved layout is used by default during runtime.
+-   Layouts: View or modify layouts associated with the blueprint. The most recently saved layout is used by default during runtime.
 -   Configurable Products: View all products that launch the configuration experience defined by the blueprint.
 -   Deployments: Track the most recent deployments, including date, user, and status.
--   Enrichments: Manage enrichment [[scripts|scripts]] that run outside the rules engine \(for example, initialization or pricing scripts\).
+-   Enrichments: Manage enrichment scripts that run outside the rules engine \(for example, initialization or pricing scripts\).
 -   Field Mapping: View and manage field mapping for context variables.
 
 ## Deployment and environments
@@ -76,16 +76,5 @@ When importing, administrators can update Product IDs, rule mappings, and enviro
 **Related topics**  
 
 
-[[blueprints_101|Set up blueprints]]
+[Set up blueprints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/blueprints_101.md)
 
-## Related
-
-- [[blueprints_101|Set up blueprints]]
-- [[fields|Fields]]
-- [[rules_101|Rules]]
-- [[layouts|Layouts]]
-- [[configurable-products-explore|Configurable products]]
-- [[cpq-sets|Sets]]
-- [[product_picker_overview|Product pickers]]
-- [[Modify|Modify]]
-- [[scripts|Scripts]]

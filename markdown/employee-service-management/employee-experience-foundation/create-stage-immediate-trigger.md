@@ -100,7 +100,7 @@ Duration type
 
 Defines how long the campaign stage is active. Choose from:-   **Campaign end date** makes content available until the campaign ends.
 -   **Time Length** ends content after a specific number of days or hours.
--   **Dynamic field** uses a trigger table and field to determine when content is no longer available. An example is to end content based on an employee's [[c_HRProfileRecords|HR profile]] and start date.
+-   **Dynamic field** uses a trigger table and field to determine when content is no longer available. An example is to end content based on an employee's HR profile and start date.
 
 
 </td></tr><tr><td colspan="2">
@@ -120,6 +120,3 @@ Appears when you select **Dynamic field** duration type. Select to indicate you 
 -   Click **Add stage** to configure additional stages
 -   Add content to the stage, specify an audience, and set the location where the content will be delivered. For more information on creating content in the Content Experience Builder, see [Add content to a campaign using Content Experience Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-campaigns-manage-content-builder.md)
 
-## Related
-
-- [[c_HRProfileRecords|HR Profile]]

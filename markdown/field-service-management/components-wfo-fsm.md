@@ -12,7 +12,7 @@ breadcrumb: [Components installed with additional plugins, Reference, Field Serv
 
 # Workforce Optimization for Field Service components
 
-Several types of components are installed with activation of the [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]] \(com.snc.app\_fsm\_wfo\) plugin, including user roles, key performance indicators \(KPIs\), scheduled jobs, properties, and tables.
+Several types of components are installed with activation of the Workforce Optimization for Field Service \(com.snc.app\_fsm\_wfo\) plugin, including user roles, key performance indicators \(KPIs\), scheduled jobs, properties, and tables.
 
 ## Workforce Optimization for Field Service
 
@@ -30,7 +30,7 @@ Contains roles
 
 </th></tr></thead><tbody><tr><td>
 
-[[using-wfo-fsm|Workforce Optimization]] User \[sn\_wfo.user\]
+Workforce Optimization User \[sn\_wfo.user\]
 
 </td><td>
 
@@ -179,7 +179,7 @@ sn\_shift\_planning.early\_clockin\_threshold
 
 </td><td>
 
-Threshold settings indicate how many minutes early or late an agent can clock-in or clock-out from the scheduled time without being considered non-adherent. This is the acceptable duration of time flexibility for an agent to [[t_StartWork|start work]] before the scheduled start time. -   **Type:** Integer
+Threshold settings indicate how many minutes early or late an agent can clock-in or clock-out from the scheduled time without being considered non-adherent. This is the acceptable duration of time flexibility for an agent to start work before the scheduled start time. -   **Type:** Integer
 -   **Default value:** 60 min
 
 </td></tr><tr><td>
@@ -224,7 +224,7 @@ sn\_fsm\_disp\_wrkspc.agent\_shift\_schdlng\_event\_color
 
 </td><td>
 
-Enables the default colors configured for each event type to display the same event spans with same color in [[dispatcher-activities|Dispatcher Workspace]].**Note:** You must select a dynamic value to display the selected color of workforce optimization events in Dispatcher Workspace.
+Enables the default colors configured for each event type to display the same event spans with same color in Dispatcher Workspace.**Note:** You must select a dynamic value to display the selected color of workforce optimization events in Dispatcher Workspace.
 
  -   **Type:** String
 -   **Default value:** static
@@ -530,7 +530,7 @@ Excludes weekends when the due date is set for trainees to complete training.-  
 -   **Default value:** true
 
 </td></tr></tbody>
-</table>## [[coaching-with-learning-wfo-fsm|Coaching with Learning]]
+</table>## Coaching with Learning
 
 **Important:** This feature is available with the Workforce Optimization for Field Service \(com.snc.app\_fsm\_wfo\) from the ServiceNow Store. To enable this feature, see [Activate Workforce Optimization for Field Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/activate-wfo-fsm.md).
 
@@ -932,13 +932,5 @@ Task Predicted Skill \[sn\_sre\_task\_predicted\_skill\]
 -   Records created over 60 days ago are automatically deleted from this table.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[components-inst-additional-plugin|Components installed with additional plugins for Field Service Management]]
+</table>**Parent Topic:**[Components installed with additional plugins for Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/components-inst-additional-plugin.md)
 
-## Related
-
-- [[components-inst-additional-plugin|Components installed with additional plugins for Field Service Management]]
-- [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]]
-- [[using-wfo-fsm|Workforce Optimization]]
-- [[t_StartWork|Start work]]
-- [[dispatcher-activities|Dispatcher Workspace]]
-- [[coaching-with-learning-wfo-fsm|Coaching with Learning]]

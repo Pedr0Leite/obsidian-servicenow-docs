@@ -16,7 +16,7 @@ Setup Hub simplifies installing, configuring, and deploying ServiceNow products 
 
 ## Setup Hub overview
 
-Setup Hub offers a guided approach for installing, configuring, and deploying ServiceNow products. It streamlines the end‑to‑end setup by automating installation tasks, applying recommended [[clone-configurations-tab|configurations]], monitoring setup progress, and preparing changes for production, making deployments more efficient and less manual.
+Setup Hub offers a guided approach for installing, configuring, and deploying ServiceNow products. It streamlines the end‑to‑end setup by automating installation tasks, applying recommended configurations, monitoring setup progress, and preparing changes for production, making deployments more efficient and less manual.
 
 This application is available to all users with Foundation SKUs for ITSM, CBS, ITOM, Employee Slate and ESM, and Pro+ SKUs for Simplified ITSM, ITOM and HRSD.
 
@@ -60,30 +60,19 @@ See [Now Assist for Setup personas and role assignments](https://support.service
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Set up an application with Setup Hub|[[ia-setup-apps|Set up an application with Setup Hub]]|admin|
-|Set up Now Assist|[[ia-setup-now-assist|Set up Now Assist with Setup Hub]]|admin|
-|Upload update set batch file|[[ia-update-set|Manage update set for Setup Hub]]|admin|
-|Configure an application with Setup Hub|[[ia-bu-conf|Product modules configuration in Setup Hub]]|admin|
-|General guidelines for Setup Hub|[[ia-des-conf|General guidelines]]|admin|
+|Set up an application with Setup Hub|[Set up an application with Setup Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-setup-apps.md)|admin|
+|Set up Now Assist|[Set up Now Assist with Setup Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-setup-now-assist.md)|admin|
+|Upload update set batch file|[Manage update set for Setup Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-update-set.md)|admin|
+|Configure an application with Setup Hub|[Product modules configuration in Setup Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-bu-conf.md)|admin|
+|General guidelines for Setup Hub|[General guidelines](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-des-conf.md)|admin|
 
 ## What to explore next
 
 To learn more about using Setup Hub, see:
 
--   [[ia-administer|Administer Setup Hub]]
+-   [Administer Setup Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-administer.md)
 -   [Product modules configuration in Setup Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-bu-conf.md)
--   [[ia-reference|Setup Hub references]]
+-   [Setup Hub references](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-reference.md)
 
-**Parent Topic:**[[ia-landing|Setup Hub]]
+**Parent Topic:**[Setup Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-landing.md)
 
-## Related
-
-- [[ia-setup-apps|Set up an application with Setup Hub]]
-- [[ia-setup-now-assist|Set up Now Assist with Setup Hub]]
-- [[ia-update-set|Manage update set for Setup Hub]]
-- [[ia-bu-conf|Product modules configuration in Setup Hub]]
-- [[ia-des-conf|General guidelines]]
-- [[ia-administer|Administer Setup Hub]]
-- [[ia-reference|Setup Hub references]]
-- [[ia-landing|Setup Hub]]
-- [[clone-configurations-tab|Configurations]]

@@ -11,7 +11,7 @@ reading_time_minutes: 4
 
 # Security Operations
 
-ServiceNow® Security Operations applications import incident data from your security [[tools|tools]] into a structured response engine that uses intelligent workflows, automation, data visualizations, and a deep connection with IT to prioritize and resolve threats based on the impact they pose to your organization.
+ServiceNow® Security Operations applications import incident data from your security tools into a structured response engine that uses intelligent workflows, automation, data visualizations, and a deep connection with IT to prioritize and resolve threats based on the impact they pose to your organization.
 
 Choose one of these tiles to get started.
 
@@ -21,15 +21,15 @@ Choose one of these tiles to get started.
 
 </td><td>
 
-[Now Assist for [[sir-landing-page|Security Incident Response]]\[Omitted image "bus-ai-sparkle.svg"\] Alt text:Learn how [[now-assist-security-incident-landing|Now Assist for Security Incident Response]] supports ServiceNow® Generative AI \(GenAI\) skills in the [[sir-workspace-landing-page|Security Incident Response Workspace]] and in the Core UI \(UI16\).](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/now-assist-for-security-incident-response-sir/now-assist-security-incident-landing.md)
+[Now Assist for Security Incident Response\[Omitted image "bus-ai-sparkle.svg"\] Alt text:Learn how Now Assist for Security Incident Response supports ServiceNow® Generative AI \(GenAI\) skills in the Security Incident Response Workspace and in the Core UI \(UI16\).](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/now-assist-for-security-incident-response-sir/now-assist-security-incident-landing.md)
 
 </td><td>
 
-[Now Assist for [[vuln-landing-page|Vulnerability Response]]\[Omitted image "bus-ai-sparkle.svg"\] Alt text:Learn how [[now-assist-for-vulnerability-response-landing|Now Assist for Vulnerability Response]] supports ServiceNow® Generative AI \(GenAI\) skills in the Vulnerability Response Workspace and in the Core UI \(UI16\).](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/now-assist-for-vulnerability-response-vr/now-assist-for-vulnerability-response-landing.md)
+[Now Assist for Vulnerability Response\[Omitted image "bus-ai-sparkle.svg"\] Alt text:Learn how Now Assist for Vulnerability Response supports ServiceNow® Generative AI \(GenAI\) skills in the Vulnerability Response Workspace and in the Core UI \(UI16\).](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/now-assist-for-vulnerability-response-vr/now-assist-for-vulnerability-response-landing.md)
 
 </td></tr><tr><td>
 
-[Now Assist for [[tisc-landing-page|Threat Intelligence Security Center]]\[Omitted image "bus-ai-sparkle.svg"\] Alt text:Learn how [[now-assist-tisc-landing|Now Assist for Threat Intelligence Security Center]] supports ServiceNow® Generative AI \(GenAI\) skills in the Threat Intelligence Security Center workspace.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/now-assist-tisc-landing.md)
+[Now Assist for Threat Intelligence Security Center\[Omitted image "bus-ai-sparkle.svg"\] Alt text:Learn how Now Assist for Threat Intelligence Security Center supports ServiceNow® Generative AI \(GenAI\) skills in the Threat Intelligence Security Center workspace.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/now-assist-tisc-landing.md)
 
 </td><td>
 
@@ -41,7 +41,7 @@ Choose one of these tiles to get started.
 
 </td></tr><tr><td>
 
-[Enterprise [[case-mgmt|security case management]] applications\[Omitted image "bus-security-incident-response.svg"\] Alt text:Learn about the applications in Security Incident Response that help you analyze, isolate, and fix critical security incidents as they evolve.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sir-apps-landing-page.md)
+[Enterprise security case management applications\[Omitted image "bus-security-incident-response.svg"\] Alt text:Learn about the applications in Security Incident Response that help you analyze, isolate, and fix critical security incidents as they evolve.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sir-apps-landing-page.md)
 
 </td><td>
 
@@ -49,11 +49,11 @@ Choose one of these tiles to get started.
 
 </td><td>
 
-[Cybersecurity Executive Dashboard\[Omitted image "bus-infographic.svg"\] Alt text:Learn how the [[vr-unified-CISO-dashboard|Cybersecurity Executive Dashboard]] consolidates data from the various SecOps products into a unified dashboard.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vr-unified-CISO-dashboard.md)
+[Cybersecurity Executive Dashboard\[Omitted image "bus-infographic.svg"\] Alt text:Learn how the Cybersecurity Executive Dashboard consolidates data from the various SecOps products into a unified dashboard.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vr-unified-CISO-dashboard.md)
 
 </td></tr><tr><td>
 
-[Threat Intelligence Security Center\[Omitted image "bus-management-console.svg"\] Alt text:Learn how the Threat Intelligence Security Center \(TISC\) platform provides technology solutions for aggregation and management of [[threat-intel-landing-page|threat intelligence]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-landing-page.md)
+[Threat Intelligence Security Center\[Omitted image "bus-management-console.svg"\] Alt text:Learn how the Threat Intelligence Security Center \(TISC\) platform provides technology solutions for aggregation and management of threat intelligence.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-landing-page.md)
 
 </td><td>
 
@@ -83,16 +83,3 @@ Security Operations scenarios and examples\[Omitted image "bus-case-study.svg"\]
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[tools|Tools]]
-- [[sir-landing-page|Security Incident Response]]
-- [[now-assist-security-incident-landing|Now Assist for Security Incident Response]]
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[now-assist-for-vulnerability-response-landing|Now Assist for Vulnerability Response]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[now-assist-tisc-landing|Now Assist for Threat Intelligence Security Center]]
-- [[case-mgmt|Security Case Management]]
-- [[vr-unified-CISO-dashboard|Cybersecurity Executive Dashboard]]
-- [[threat-intel-landing-page|Threat Intelligence]]

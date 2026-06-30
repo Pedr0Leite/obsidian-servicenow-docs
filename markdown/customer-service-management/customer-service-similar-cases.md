@@ -12,15 +12,15 @@ breadcrumb: [Machine learning solutions, Implement Intelligence, Configure, Cust
 
 # Similar case recommendations
 
-The [[similar-case-recommendation|similar case recommendation]] feature enables customer service agents to easily find similar cases that can provide helpful information about a current case. This feature can also provide recommendations about cases that may be related to major issues.
+The similar case recommendation feature enables customer service agents to easily find similar cases that can provide helpful information about a current case. This feature can also provide recommendations about cases that may be related to major issues.
 
 The similar case recommendation feature uses the following components:
 
--   **[[similar-cases-additional-resources|Additional search resources]] for [[osp-contextual-search|contextual search]]**
+-   **Additional search resources for contextual search**
 
     Additional search resources are provided for contextual search. These additional resources enable customer service agents to search open or resolved cases for information related to the current case.
 
--   **Predictive [[intelligence-csm|Intelligence]] [[similar-cases-solution-definitions|similarity solution definitions]]**
+-   **Predictive Intelligence similarity solution definitions**
 
     Several of the additional search resources have an associated Machine Learning \(ML\) similarity solution definition. These additional resources perform a contextual search based on the case short description and return a list of similar records.
 
@@ -51,7 +51,7 @@ With Agent Workspace, agents can:
 
 With the platform interface, agents can:
 
--   Perform a search in the Related Search Results section on the [[r_CustomerServiceCaseForm|Case form]] using the additional search resources. Agents can select these additional resources from a list by the **Related Search** field.
+-   Perform a search in the Related Search Results section on the Case form using the additional search resources. Agents can select these additional resources from a list by the **Related Search** field.
 -   Create a link from the current case to a selected case in the search results.
 
 ## Plugins
@@ -69,14 +69,5 @@ To use similar case/recommendation with the following features, activate the ass
 **Related topics**  
 
 
-[[machine-learning-csm|Machine learning solutions for Customer Service Management]]
+[Machine learning solutions for Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/machine-learning-csm.md)
 
-## Related
-
-- [[machine-learning-csm|Machine learning solutions for Customer Service Management]]
-- [[similar-case-recommendation|Similar case recommendation]]
-- [[similar-cases-additional-resources|Additional search resources]]
-- [[osp-contextual-search|Contextual search]]
-- [[intelligence-csm|Intelligence]]
-- [[similar-cases-solution-definitions|Similarity solution definitions]]
-- [[r_CustomerServiceCaseForm|Case form]]

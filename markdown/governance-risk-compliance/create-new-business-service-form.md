@@ -12,7 +12,7 @@ breadcrumb: [Add a business service to Operational Resilience reporting, Gatheri
 
 # Create New Business Service form
 
-Use the Create New Business Service form in [[grc-opres-landing-page|Operational Resilience]] Workspace to set up a business service and configure its related lists.
+Use the Create New Business Service form in Operational Resilience Workspace to set up a business service and configure its related lists.
 
 ## Create New Business Service form
 
@@ -206,7 +206,7 @@ Displays the following red flags data:1.  Total red flags
     -   Change requests
     -   Operational vulnerabilities
     -   Vulnerabilities
-    -   Third party [[risk-assessments|risk assessments]]
+    -   Third party risk assessments
 3.  Assets impacted by red flags
 
 </td></tr><tr><td>
@@ -345,7 +345,7 @@ High risks that are associated with the business service.
 -   Risk
 -   Risk assessment
 -   Risk statement
--   [[risk-response|Risk response]]
+-   Risk response
 -   Inherent rating
 -   Computed inherent rating
 -   Residual rating
@@ -497,7 +497,7 @@ Importance and impact assessment that is done for the business service.
 
 </td></tr><tr><td>
 
-[[scenario-analysis-ov|Scenario analysis]]
+Scenario analysis
 
 </td><td>
 
@@ -518,10 +518,3 @@ Scenario analysis that is associated with the business service.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[risk-assessments|risk assessments]]
-- [[risk-response|risk response]]
-- [[scenario-analysis-ov|Scenario analysis]]

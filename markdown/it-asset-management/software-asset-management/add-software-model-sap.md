@@ -14,13 +14,13 @@ breadcrumb: [Software Asset Management publisher pack for SAP, Supported softwar
 
 # Create software models for SAP
 
-Create [[c_CreatingSoftwareModels|software models]] to record SAP product information.
+Create software models to record SAP product information.
 
 ## Before you begin
 
 Role required: sam\_user
 
-**Important:** You can create software models in both the [[c_SoftwareAssetMgmt|Software Asset Management]] classic application and the [[sam-workspace|Software Asset Workspace]]. The following steps provide details on creating software models in the Software Asset Management classic application. For details on creating software models in the Software Asset Workspace, see [Create a software model in the Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-swmodels-workspace.md).
+**Important:** You can create software models in both the Software Asset Management classic application and the Software Asset Workspace. The following steps provide details on creating software models in the Software Asset Management classic application. For details on creating software models in the Software Asset Workspace, see [Create a software model in the Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-swmodels-workspace.md).
 
 ## About this task
 
@@ -30,11 +30,11 @@ The following steps describe information that is specific to SAP. For general in
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ProductCatalog|Product Catalog]]** &gt; **Product [[c_Models|Models]]** &gt; **Software Models** and select **New**.
+1.  Navigate to **All** &gt; **Product Catalog** &gt; **Product Models** &gt; **Software Models** and select **New**.
 
 2.  On the form, fill in the fields.
 
-    **Note:** Only the fields that are specific to SAP software models are shown below. For detailed descriptions of all [[software-model-fields|software model fields]], see [Software model fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/software-model-fields.md).
+    **Note:** Only the fields that are specific to SAP software models are shown below. For detailed descriptions of all software model fields, see [Software model fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/software-model-fields.md).
 
 <table id="table_nr2_nd1_y4"><thead><tr><th>
 
@@ -66,7 +66,7 @@ SAP license metric
 
 </td><td>
 
-License metric that is used to calculate license consumption for an engine. Examples of license metrics are number of employees or number of [[c_Contracts|contracts]].**Note:** This field appears only when an SAP engine is selected from the **Product** field.
+License metric that is used to calculate license consumption for an engine. Examples of license metrics are number of employees or number of contracts.**Note:** This field appears only when an SAP engine is selected from the **Product** field.
 
 </td></tr><tr><td>
 
@@ -127,12 +127,3 @@ Some SAP engines allow a certain amount of unlicensed usage before your licence 
 
 [Publisher overview for SAP in the Software Asset Workspace]()
 
-## Related
-
-- [[c_CreatingSoftwareModels|Software models]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_ProductCatalog|Product Catalog]]
-- [[c_Models|Models]]
-- [[software-model-fields|Software model fields]]
-- [[c_Contracts|Contracts]]

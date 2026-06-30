@@ -14,7 +14,7 @@ breadcrumb: [Use, Security Incident Response Workspace, Security Incident Respon
 
 # Activity Definitions
 
-The ServiceNow AI Platform provides a few activity definitions within the base system. In addition, for the [[tisc-playbooks-admin|playbooks]] that SIR Workspace base system, there are a few activity definitions defined in the base system under Enterprise [[case-mgmt|Security Case Management]] PAD Commons application.
+The ServiceNow AI Platform provides a few activity definitions within the base system. In addition, for the playbooks that SIR Workspace base system, there are a few activity definitions defined in the base system under Enterprise Security Case Management PAD Commons application.
 
 Role required: sn\_si.admin.
 
@@ -33,7 +33,7 @@ Here’s the list of activity definitions that are a part of the base system:
 -   **[Example Activity Definition: Send email](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/example-activity-definition-send-email.md)**  
 The following is an example of Send email activity definition.
 -   **[Submit to CSF X Sandbox](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/submit-to-csf-x-sandbox.md)**  
-[[submit-to-csf-x-sandbox|Submit to CSF X Sandbox]] is an example of an activity definition process.
+Submit to CSF X Sandbox is an example of an activity definition process.
 
 **Parent Topic:**[Using SIR Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/using-sir-workspace.md)
 
@@ -58,8 +58,3 @@ The following is an example of Send email activity definition.
 
 [Handle security incidents using Advanced Work Assignment]()
 
-## Related
-
-- [[tisc-playbooks-admin|Playbooks]]
-- [[case-mgmt|Security Case Management]]
-- [[submit-to-csf-x-sandbox|Submit to CSF X Sandbox]]

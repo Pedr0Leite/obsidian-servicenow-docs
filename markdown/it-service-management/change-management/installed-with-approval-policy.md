@@ -14,7 +14,7 @@ breadcrumb: [Activate Change Management -Approval policy, Change Management plug
 
 # Components installed with Change Management -Approval policy
 
-Several types of components are installed with activation of the [[c_ITILChangeManagement|Change Management]] -Approval policy plugin, that includes tables.
+Several types of components are installed with activation of the Change Management -Approval policy plugin, that includes tables.
 
 ## Tables installed
 
@@ -37,6 +37,3 @@ Extends the Change Policy table.
 </td></tr></tbody>
 </table>**Parent Topic:**[Activate Change Management -Approval policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/activate-change-approval-policy.md)
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]

@@ -14,21 +14,14 @@ breadcrumb: [HealthScan tech KPIs, HealthScan, Impact Delivery Instance referenc
 
 Some HealthScan definitions are deprecated or updated between releases.
 
--   **[[healthscan-definitions-may-store|Healthscan definitions updates: May 2025 store]]**  
+-   **[Healthscan definitions updates: May 2025 store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/healthscan-definitions-may-store.md)**  
 Some HealthScan definitions are deprecated or updated between releases.
--   **[[healthscan-definitions-aug-store|HealthScan definitions updates: August 2024 release]]**  
+-   **[HealthScan definitions updates: August 2024 release](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/healthscan-definitions-aug-store.md)**  
 Some HealthScan definitions are deprecated or updated between releases.
--   **[[healthscan-definitions-nov-store|HealthScan definitions updates: November 2024 release]]**  
+-   **[HealthScan definitions updates: November 2024 release](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/healthscan-definitions-nov-store.md)**  
 Some HealthScan definitions are deprecated or updated between releases.
--   **[[healthscan-definitions-oct-hotfix|HealthScan definitions updates: October 2024 hotfix]]**  
+-   **[HealthScan definitions updates: October 2024 hotfix](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/healthscan-definitions-oct-hotfix.md)**  
 Some HealthScan definitions are deprecated or updated between releases.
 
-**Parent Topic:**[[impact-tech-kpis|Diagnose with tech KPIs]]
+**Parent Topic:**[Diagnose with tech KPIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/impact-tech-kpis.md)
 
-## Related
-
-- [[healthscan-definitions-may-store|healthscan definitions may store]]
-- [[healthscan-definitions-aug-store|healthscan definitions aug store]]
-- [[healthscan-definitions-nov-store|healthscan definitions nov store]]
-- [[healthscan-definitions-oct-hotfix|healthscan definitions oct hotfix]]
-- [[impact-tech-kpis|Diagnose with tech KPIs]]

@@ -18,7 +18,7 @@ Configure the Apache Kafka Consumer connector instance to create events from str
 
 ## Before you begin
 
-Ensure that the [[c_EM|Event Management]] Connectors \(sn\_em\_connector\) plugin is installed on the ServiceNow AI Platform instance.
+Ensure that the Event Management Connectors \(sn\_em\_connector\) plugin is installed on the ServiceNow AI Platform instance.
 
 Role required: evt\_mgmt\_admin
 
@@ -129,7 +129,7 @@ This field is automatically set to the last error message.
 
     3.  From the list of available credentials, select **Kafka SSL Credentials**.
 
-    4.  On the Kafka SSL Authentication screen, fill in the [[hla-data-input-kafka-credentials|Kafka SSL credentials fields]].
+    4.  On the Kafka SSL Authentication screen, fill in the Kafka SSL credentials fields.
 
         For the Kafka SSL credentials fields descriptions, see [.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-input-kafka-credentials.md)
 
@@ -285,7 +285,3 @@ After the connector is created, you must map the fields. For more information, s
 
 **Parent Topic:**[Apache Kafka Consumer Connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/apache-kafka-consumer-connector.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[hla-data-input-kafka-credentials|Kafka SSL credentials fields]]

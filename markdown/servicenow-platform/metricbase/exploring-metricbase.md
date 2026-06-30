@@ -14,7 +14,7 @@ breadcrumb: [MetricBase, Manage instance data sources, Extend ServiceNow AI Plat
 
 # Exploring MetricBase
 
-Collect, retain, analyze, and act on time-series data using [[metricbase|MetricBase]].
+Collect, retain, analyze, and act on time-series data using MetricBase.
 
 ## MetricBase overview
 
@@ -22,7 +22,7 @@ MetricBase helps you work with large amounts of data by using a smaller summary 
 
 -   Integrate MetricBase seamlessly with ServiceNow IoT-based applications that monitor or act on large amounts of machine-generated data.
 -   Trigger flows in Workflow Studio based on time-series data in MetricBase.
-    -   Generate an [[email|email]] if the average CPU usage is more than 85% in the last 5 minutes.
+    -   Generate an email if the average CPU usage is more than 85% in the last 5 minutes.
     -   Generate an email if MetricBase detects a gap in data submitted for 10 minutes or more.
     -   Generate an alert if the average of the collected data is less than 10 or greater than 500 in the last 5 minutes.
     -   Generate an alert if memory usage is likely to exceed 90% in the next 10 minutes.
@@ -73,7 +73,3 @@ To learn more about configuring and using MetricBase, see:
 -   [Managing MetricBase](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/maintain-metricbase.md)
 -   [MetricBase reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/reference-metricbase.md)
 
-## Related
-
-- [[metricbase|MetricBase]]
-- [[email|Email]]

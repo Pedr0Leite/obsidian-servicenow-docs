@@ -14,7 +14,7 @@ breadcrumb: [Submit, Health and Safety Incident Management, Health and Safety, E
 
 # Submit a safety observation as an employee
 
-Submit a safety observation through the [[employee-center-landing-page|Employee Center]] to report it to the safety department for an investigation.
+Submit a safety observation through the Employee Center to report it to the safety department for an investigation.
 
 ## Before you begin
 
@@ -24,13 +24,13 @@ Role required: sn\_ohs\_im.requestor
 
 1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
 
-2.  In the Employee Center, under the **[[health-safety-overview|Health and Safety]]** menu, select the **Health and Safety Observations** option and then select **Report Health and Safety Observation**.
+2.  In the Employee Center, under the **Health and Safety** menu, select the **Health and Safety Observations** option and then select **Report Health and Safety Observation**.
 
 3.  On the form, fill in the fields.
 
     **Note:**
 
-    -   The **Contractors involved** option appears only when the [[hs-contractor-mgmt-landing-page|Health and Safety Contractor Management]] \(sn\_hs\_crm\) application is installed on your instance. For more information, see [Additional features in Health and Safety](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/install-hs-incident-mgmt.md). The field only lists users who have the \[snc\_external\] role assigned to them and have their Health and Safety profile created. For more information, see [Assign Health and Safety profile to a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/assign-hs-profile-user.md).
+    -   The **Contractors involved** option appears only when the Health and Safety Contractor Management \(sn\_hs\_crm\) application is installed on your instance. For more information, see [Additional features in Health and Safety](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/install-hs-incident-mgmt.md). The field only lists users who have the \[snc\_external\] role assigned to them and have their Health and Safety profile created. For more information, see [Assign Health and Safety profile to a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/assign-hs-profile-user.md).
     -   The **Assets** field appears only when Expanded Model and Asset Classes \[sn\_ent\] application in installed. For more information, see [Additional features in Health and Safety](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/install-hs-incident-mgmt.md).
 4.  If necessary, attach an image about the observation using the add attachments icon \(\[Omitted image "icon-add-attachment.png"\] Alt text: Add attachment icon.\).
 
@@ -51,8 +51,3 @@ As a safety manager or agent, if the observation isn’t assigned to you, you ca
 
 **Parent Topic:**[Submitting safety incidents and observations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/submitting-safety-incidents-obvs.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[health-safety-overview|Health and Safety]]
-- [[hs-contractor-mgmt-landing-page|Health and Safety Contractor Management]]

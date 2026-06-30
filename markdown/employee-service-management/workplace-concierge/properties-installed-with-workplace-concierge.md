@@ -14,9 +14,9 @@ breadcrumb: [Workplace Concierge - Components, Workplace Concierge, Workplace Se
 
 # Properties installed with Workplace Concierge
 
-Customize the system properties available with [[workplace-concierge-feat|Workplace Concierge]] as required.
+Customize the system properties available with Workplace Concierge as required.
 
-[[configure-workplace-concierge|Configure Workplace Concierge]] properties for improved workspace suggestions. The preferred workplace suggestions are shown to an employee in the search results. Employees can select a suggested workspace while reserving a space using the [[wsd-mobile-overview|Workplace Service Delivery for Mobile]] app. The workspace suggestions are also based on user workplace profile location preferences, employee presence configuration, user space table and space suggestions table configuration, and future and past reservations.
+Configure Workplace Concierge properties for improved workspace suggestions. The preferred workplace suggestions are shown to an employee in the search results. Employees can select a suggested workspace while reserving a space using the Workplace Service Delivery for Mobile app. The workspace suggestions are also based on user workplace profile location preferences, employee presence configuration, user space table and space suggestions table configuration, and future and past reservations.
 
 Following properties are installed with Workplace Concierge.
 
@@ -36,7 +36,7 @@ Collaborators filter \[sn\_wsd\_concierge.collaborators\_filter\]
 
 </td><td>
 
-Property to [[add-a-collaborator|add a collaborator]] for a workplace employee. Apply condition filters as required to add workplace users as collaborators. Default value is set to true.
+Property to add a collaborator for a workplace employee. Apply condition filters as required to add workplace users as collaborators. Default value is set to true.
 
 </td></tr><tr><td>
 
@@ -111,9 +111,3 @@ When an employee removes a date from the calendar, the suggestion is removed fro
 
 [Insights installed with Workplace Concierge]()
 
-## Related
-
-- [[workplace-concierge-feat|Workplace Concierge]]
-- [[configure-workplace-concierge|Configure Workplace Concierge]]
-- [[wsd-mobile-overview|Workplace Service Delivery for Mobile]]
-- [[add-a-collaborator|Add a collaborator]]

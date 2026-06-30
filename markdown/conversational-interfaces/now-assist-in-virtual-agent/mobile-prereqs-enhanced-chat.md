@@ -14,7 +14,7 @@ breadcrumb: [Create a chat assistant, View assistants, Configuring assistants ov
 
 # Mobile app prerequisites for enhanced chat
 
-[[now-assist-in-va-landing|Now Assist in Virtual Agent]] provides users with a content-driven and search-driven generative AI experience. Depending on whether you have opted into standard or [[nava-enhanced-chat|enhanced chat]] when configuring your assistant, you can integrate three different mobile app components with an assistant.
+Now Assist in Virtual Agent provides users with a content-driven and search-driven generative AI experience. Depending on whether you have opted into standard or enhanced chat when configuring your assistant, you can integrate three different mobile app components with an assistant.
 
 For information on choosing how you want Now Assist in Virtual Agent to display on your mobile app, see [Mobile Now Assist display experience for Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-na-display-experience-va.md). To understand the differences between Now Assist in Virtual Agent standard and enhanced chat experiences, see [Using Now Assist in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/using-now-assist-in-va.md).
 
@@ -23,7 +23,7 @@ The three different mobile app components that admins can integrate with an assi
 |Mobile app component|Description|Standard chat|Enhanced chat|
 |--------------------|-----------|-------------|-------------|
 |Mobile search widget|The search bar widget within the ServiceNow Mobile App|No|Full-page experience only|
-|Chat launcher|The default [[virtual-agent-landing-page|Virtual Agent]] chat widget|Yes, but only offered to existing Now Assist in Virtual Agent customers|Yes|
+|Chat launcher|The default Virtual Agent chat widget|Yes, but only offered to existing Now Assist in Virtual Agent customers|Yes|
 |Custom app \(Mobile SDK\)|The tool to display native Virtual Agent interface in a customer’s own third-party app.|Yes, but only offered to existing Now Assist in Virtual Agent customers|Yes|
 
 <table id="table_nzt_vbc_1fc"><thead><tr><th>
@@ -76,9 +76,3 @@ You can't use the Now Assist in Virtual Agent AI Search experience in a custom a
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]
-- [[nava-enhanced-chat|Enhanced chat]]
-- [[virtual-agent-landing-page|Virtual Agent]]

@@ -60,7 +60,7 @@ This sample assumes:
  
                  default :
  
-                    b64SHA1Message  = "Unknown [[encryption-landing|Encryption]] Method" ; break ;
+                    b64SHA1Message  = "Unknown Encryption Method" ; break ;
  
              }
  
@@ -70,6 +70,3 @@ This sample assumes:
          }
 ```
 
-## Related
-
-- [[encryption-landing|Encryption]]

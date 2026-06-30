@@ -15,7 +15,7 @@ breadcrumb: [Use agentic AI in FSM, Now Assist for FSM]
 
 # Create a work order using Now Assist for Field Service Management \(FSM\)
 
-Use [[now-assist-fsm|Now Assist for Field Service Management \(FSM\)]] to create a work order from a text description or an image of the issue.
+Use Now Assist for Field Service Management \(FSM\) to create a work order from a text description or an image of the issue.
 
 ## Before you begin
 
@@ -41,6 +41,4 @@ Role required: wm\_qualifier or wm\_dispatcher or wm\_agent
 
     The AI agent extracts relevant information from the image to populate work order fields.
 
-## Related
 
-- [[now-assist-fsm|Now Assist for Field Service Management \(FSM\)]]

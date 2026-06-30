@@ -26,7 +26,7 @@ Role required: sales\_manager
 
 3.  Select **New** to start a new opportunity competitor or select an existing opportunity competitor to make changes.
 
-4.  Fill in the [[fields|fields]] in the Opportunity Competitor form.
+4.  Fill in the fields in the Opportunity Competitor form.
 
 <table id="table_orf_nx5_c1c"><thead><tr><th>
 
@@ -124,18 +124,12 @@ Internal-only notes for product, sales, or design follow-up.
     The competitor information is added to the main opportunity.
 
 
-**Parent Topic:**[[opportunity-mgmt-using|Using Opportunity Management]]
+**Parent Topic:**[Using Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-mgmt-using.md)
 
 **Related topics**  
 
 
-[[configure-opportunity-mgmt|Install and configure Opportunity Management]]
+[Install and configure Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-opportunity-mgmt.md)
 
-[[opportunity-management|Opportunity Management]]
+[Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management.md)
 
-## Related
-
-- [[opportunity-mgmt-using|Using Opportunity Management]]
-- [[configure-opportunity-mgmt|Install and configure Opportunity Management]]
-- [[opportunity-management|Opportunity Management]]
-- [[fields|Fields]]

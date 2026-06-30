@@ -12,7 +12,7 @@ breadcrumb: [Using case types and service definitions in FSO, Developer resource
 
 # Case Types in FSO
 
-Learn about case types, how they’re structured, and how they’re used in [[fso-overview|Financial Services]] Operations \(FSO\).
+Learn about case types, how they’re structured, and how they’re used in Financial Services Operations \(FSO\).
 
 A case type represents the processes and data needed to resolve a specific type of customer issue. Use case types to create and configure the different types of customer service cases for your organization.
 
@@ -32,9 +32,5 @@ FSO applications are separated into primary case types that extend FSO Base Case
 
 FSO domain-specific case types are further extended to the product/lines of business. Domain-specific case types enable separation of services and different fulfillers \(that is, processors\) or defined roles that interact with each case type. Granular case types enable FIs to build a tailored user experience with dedicated workspaces. If the business wants to implement access controls, it also provides an easier way to segregate access and visibility to the data.
 
-**Parent Topic:**[[fso-int_guide-work_case_types|Using case types and service definitions in FSO]]
+**Parent Topic:**[Using case types and service definitions in FSO](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-int_guide-work_case_types.md)
 
-## Related
-
-- [[fso-int_guide-work_case_types|Using case types and service definitions in FSO]]
-- [[fso-overview|Financial Services]]

@@ -14,7 +14,7 @@ breadcrumb: [Advanced Discovery configuration, Configuring Discovery, Discovery,
 
 # Credential-less discovery with Nmap
 
-If the instance fails to identify a configuration item \(CI\) because of authentication failure, [[r-discovery|Discovery]] or [[c_ServiceMappingOverview|Service Mapping]] can run selected Network Mapper \(Nmap\) commands with a MID Server to collect some basic information about the CI without using credentials.
+If the instance fails to identify a configuration item \(CI\) because of authentication failure, Discovery or Service Mapping can run selected Network Mapper \(Nmap\) commands with a MID Server to collect some basic information about the CI without using credentials.
 
 A MID Server administrator can [install Nmap](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/install-nmap-on-mid-server.md) on individual MID Server instances running on a Windows host. Those MID Server instances can then discover some basic information about CIs in your network when normal authentication fails.
 
@@ -124,17 +124,11 @@ The CredentiallessDiscoveryAjax script include runs on the instance and handles 
 
 </td></tr></tbody>
 </table>-   **[Credential-less host Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/credential-less-host-discovery.md)**  
-[[credential-less-host-discovery|Credential-less host discovery]] occurs when a scanned host is found to be alive, but not active, or when all configured credential-based classification probes have failed.
+Credential-less host discovery occurs when a scanned host is found to be alive, but not active, or when all configured credential-based classification probes have failed.
 -   **[Credential-less Application Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/credential-less-app-discovery.md)**  
-[[credential-less-app-discovery|Credential-less Application Discovery]] attempts to identify an application service actively listening on a specific port at a given IP address.
+Credential-less Application Discovery attempts to identify an application service actively listening on a specific port at a given IP address.
 -   **[Nmap commands and data collected with credential-less Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/data-collected-nmap.md)**  
 Nmap executes in phases when collecting data and runs a controlled set of safe commands with two patterns for exploring applications and devices.
 
 **Parent Topic:**[Advanced Discovery configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoveryExtendedCapabilities.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[credential-less-host-discovery|Credential-less host Discovery]]
-- [[credential-less-app-discovery|Credential-less Application Discovery]]

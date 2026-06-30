@@ -52,11 +52,7 @@ Role required: admin
 **Related topics**  
 
 
-[[view-invoices-business-portal|View invoices on the Business Portal]]
+[View invoices on the Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/view-invoices-business-portal.md)
 
-[[som-business-portal-reference|Business Portal reference for Sales Customer Relationship Management]]
+[Business Portal reference for Sales Customer Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-business-portal-reference.md)
 
-## Related
-
-- [[view-invoices-business-portal|View invoices on the Business Portal]]
-- [[som-business-portal-reference|Business Portal reference for Sales Customer Relationship Management]]

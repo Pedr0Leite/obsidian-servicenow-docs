@@ -31,7 +31,7 @@ Canceling an attestation task is available only for tasks that are in the 'In pr
 
 ## About this task
 
-After you [[c_ReceiveNotifications|receive notifications]] about CMDB Data Manager attestation tasks assigned to you, check the actual IT infrastructure or applications that you own, and then process the CIs in the task accordingly. Initially, all the CIs in the attestation task are listed in a Not Yet Reviewed list and therefore require a review. Attested CIs are then moved to an Attested CIs list, while CIs you reject are moved to a separate Rejected CIs list. After processing all the CIs in the task, you can submit and complete the task. For general information about attestation and the flow of attestation, see [CIs attestation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/attesting-cis.md).
+After you receive notifications about CMDB Data Manager attestation tasks assigned to you, check the actual IT infrastructure or applications that you own, and then process the CIs in the task accordingly. Initially, all the CIs in the attestation task are listed in a Not Yet Reviewed list and therefore require a review. Attested CIs are then moved to an Attested CIs list, while CIs you reject are moved to a separate Rejected CIs list. After processing all the CIs in the task, you can submit and complete the task. For general information about attestation and the flow of attestation, see [CIs attestation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/attesting-cis.md).
 
 As you process the CIs in the task, only the fields **Attestation Status** \(values: **Attested**, **Rejected**, **Not Yet Reviewed**\), **Attested By**, and **Attested Date** are automatically updated. Also, details of your activities are captured in the activity stream of the task.
 
@@ -40,7 +40,7 @@ As you process the CIs in the task, only the fields **Attestation Status** \(val
 1.  Navigate to either workspace:
 
     -   Navigate to **Workspaces** &gt; **CMDB Workspace** and then select **My Work** in the CMDB Workspace menu bar.
-    -   Navigate to **Workspaces** &gt; **[[sg-workspace|Service Graph Workspace]]**, in the navigation panel select the Tasks icon, and then, in the Tasks navigation panel, select **Attestation**.
+    -   Navigate to **Workspaces** &gt; **Service Graph Workspace**, in the navigation panel select the Tasks icon, and then, in the Tasks navigation panel, select **Attestation**.
     Any attestation tasks that are assigned to you or to assignment groups you belong to, appear in the **Attestation tasks** tab in the My tasks section. Attestation tasks are associated with details such as the due dates and short descriptions for those tasks. Assignment groups that you are a member of, are also listed.
 
 2.  Select a task to review from the Attestation tasks list.
@@ -102,14 +102,9 @@ As you process the CIs in the task, only the fields **Attestation Status** \(val
 
     -   Select any CIs that you identify as duplicates of other CIs and select **Remove duplicates from task**. In the Confirm removing duplicate CIs dialog box, enter an explanation and then select **Proceed**.
 
-        Those duplicate CIs are removed from the attestation task and a de-duplication task is generated for them, which is similar to the de-duplication tasks created by the [[ire|Identification and Reconciliation Engine \(IRE\)]]. For more details about how to process de-duplication tasks to remediate duplicate CIs, see [Duplicate CIs remediation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/de-duplication-tasks.md).
+        Those duplicate CIs are removed from the attestation task and a de-duplication task is generated for them, which is similar to the de-duplication tasks created by the Identification and Reconciliation Engine \(IRE\). For more details about how to process de-duplication tasks to remediate duplicate CIs, see [Duplicate CIs remediation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/de-duplication-tasks.md).
 
         **Note:** Only an admin can undo this operation.
 
     -   After processing all the CIs in the task, when the Not Yet Reviewed list is empty, the **Submit** button is enabled. Select **Submit**or the **Submit task** link in the 'Ready to submit' notification, and then in the Submit attestation dialog box select **Submit** to close the task.
 
-## Related
-
-- [[c_ReceiveNotifications|Receive notifications]]
-- [[sg-workspace|Service Graph Workspace]]
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]

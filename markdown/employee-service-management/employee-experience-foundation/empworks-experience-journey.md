@@ -17,7 +17,7 @@ breadcrumb: [Working with Moveworks capabilities, Employee Slate, Unified Employ
 
 Use the Moveworks AI assistant, specialized assistants, Enterprise Search, and the interactive split view to handle daily work tasks. Available on web and mobile.
 
-Here's how you can use [[employee-slate-moveworks|Employee Slate for Moveworks]] to handle work tasks efficiently throughout your day. You can use the Moveworks AI assistant to handle real work tasks throughout your day. You can use the assistant for similar tasks for your role.
+Here's how you can use Employee Slate for Moveworks to handle work tasks efficiently throughout your day. You can use the Moveworks AI assistant to handle real work tasks throughout your day. You can use the assistant for similar tasks for your role.
 
 ## Update personal records in conversation
 
@@ -70,13 +70,13 @@ See [Search enterprise content with Enterprise Search](https://raw.githubusercon
 
 ## Stay one message away, everywhere
 
-You find the same chat bar on every page in [[employee-slate-landing-page|Employee Slate]]. You can get help with just one message from any location. This includes the home page, Enterprise Search, your personal canvas, the org chart, and [[emp-slate-inbox|Tasks and requests]].
+You find the same chat bar on every page in Employee Slate. You can get help with just one message from any location. This includes the home page, Enterprise Search, your personal canvas, the org chart, and Tasks and requests.
 
 ## Portal and mobile support
 
 You can manage all your work routines using the same AI assistant apps in portal and mobile.
 
--   Check your to-do items, access [[emp-center-quick-link-config|quick links]], and browse catalog items from widgets around the chat bar.
+-   Check your to-do items, access quick links, and browse catalog items from widgets around the chat bar.
 -   Read company news, see popular content, and view the holiday calendar.
 -   Find specialized assistants and your chat history in the left panel, along with Enterprise Search, My Canvas, Tasks and requests, and the org chart.
 -   Expand the notification panel to see announcements, pending approvals, and ticket updates all in one place.
@@ -89,9 +89,3 @@ You can manage all your work routines using the same AI assistant apps in portal
 
 [Moveworks AI assistant capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/empworks-moveworks-capabilities.md)
 
-## Related
-
-- [[employee-slate-moveworks|Employee Slate for Moveworks]]
-- [[employee-slate-landing-page|Employee Slate]]
-- [[emp-slate-inbox|Tasks and requests]]
-- [[emp-center-quick-link-config|Quick links]]

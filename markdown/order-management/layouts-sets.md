@@ -12,7 +12,7 @@ breadcrumb: [Configure sets, CPQ app, Configure, price, quote apps, Configure, S
 
 # Using sets in layouts
 
-Learn about the various ways [[cpq-sets|sets]] can be displayed and about their settings.
+Learn about the various ways sets can be displayed and about their settings.
 
 ## Display types
 
@@ -20,7 +20,7 @@ Sets can be displayed in several ways:
 
 -   As table rows where each index is displayed horizontally:
 
-    \[Omitted image "cpq-sets-[[layouts|layouts]]-display-types-table-rows.png"\] Alt text: Display types
+    \[Omitted image "cpq-sets-layouts-display-types-table-rows.png"\] Alt text: Display types
 
 -   As table columns where each index is displayed vertically:
 
@@ -37,7 +37,7 @@ Sets can be displayed in several ways:
     Set repeaters are distinct in their administration. For more information about set repeaters, see [Creating a Set Repeater](https://logikio.atlassian.net/wiki/spaces/CS/pages/1614446937/Creating+a+Set+Repeater).
 
 
-To manage the different display types, find the set in the [[layout_wizard|Layout Wizard]] and select the gear icon. Here the admin has two options for Display Type: Table and List. Table is a basic grid, while List is a series of tiles.
+To manage the different display types, find the set in the Layout Wizard and select the gear icon. Here the admin has two options for Display Type: Table and List. Table is a basic grid, while List is a series of tiles.
 
 \[Omitted image "cpq-sets-layouts-display-types.png"\] Alt text: Display types
 
@@ -173,14 +173,7 @@ The variable name for aggregates have the following syntax: `set.{set variable n
 **Related topics**  
 
 
-[[how_sets_interact_with_the_rest_of_the_blueprint|How sets interact with the rest of a blueprint]]
+[How sets interact with the rest of a blueprint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/how_sets_interact_with_the_rest_of_the_blueprint.md)
 
-[[creating_set_aggregates|Creating set aggregates]]
+[Creating set aggregates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/creating_set_aggregates.md)
 
-## Related
-
-- [[how_sets_interact_with_the_rest_of_the_blueprint|How sets interact with the rest of a blueprint]]
-- [[creating_set_aggregates|Creating set aggregates]]
-- [[cpq-sets|Sets]]
-- [[layouts|Layouts]]
-- [[layout_wizard|Layout Wizard]]

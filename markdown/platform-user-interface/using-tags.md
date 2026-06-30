@@ -16,7 +16,7 @@ Use tags to filter records and view tagged documents. Remove a tag when it is no
 
 **Note:** Conditions that use the **Tags** field are not supported in reports or data visualizations based on database views.
 
-**Parent Topic:**[[c_Tags|Tags]]
+**Parent Topic:**[Tags](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_Tags.md)
 
 ## Filter records by tag
 
@@ -44,7 +44,7 @@ Select the more options icon \(\[Omitted image "IconUI16MoreOptions.png"\] Alt t
 
 </td><td>
 
-With the **Tags** column visible, select the tag name. Selecting two or more tags [[c_Filters|filters]] the tags together with the AND operator and shows records containing all the selected tags.
+With the **Tags** column visible, select the tag name. Selecting two or more tags filters the tags together with the AND operator and shows records containing all the selected tags.
 
 </td></tr><tr><td id="d60287e146">
 
@@ -66,7 +66,7 @@ Role required: none
 
 ### About this task
 
-An administrator can [[configure-onboarding-modals|configure]] the fields that appear on the tagged document cards by configuring the mobile view of the task, for example, the mobile view of the Incident form. If there isn’t a mobile view available for the page, the record reverts to the default view. For more information, see [[create-delete-view|Create and delete views]].
+An administrator can configure the fields that appear on the tagged document cards by configuring the mobile view of the task, for example, the mobile view of the Incident form. If there isn’t a mobile view available for the page, the record reverts to the default view. For more information, see [Create and delete views](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/create-delete-view.md).
 
 ### Procedure
 
@@ -157,12 +157,6 @@ Select the more options icon \(\[Omitted image "IconUI16MoreOptions.png"\] Alt t
 Select the removed tag icon \(**x**\) in the corner of the document preview.
 
 </td></tr></tbody>
-</table>    If a tag is automatically applied to a record based on specific conditions, the tag is automatically removed when those conditions no longer apply. For more information, see [[administering-tags|Administering tags]].
+</table>    If a tag is automatically applied to a record based on specific conditions, the tag is automatically removed when those conditions no longer apply. For more information, see [Administering tags](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/administering-tags.md).
 
-## Related
 
-- [[c_Tags|Tags]]
-- [[create-delete-view|Create and delete views]]
-- [[administering-tags|Administering tags]]
-- [[c_Filters|Filters]]
-- [[configure-onboarding-modals|Configure]]

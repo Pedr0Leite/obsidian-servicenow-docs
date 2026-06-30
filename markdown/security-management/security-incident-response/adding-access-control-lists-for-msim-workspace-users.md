@@ -14,7 +14,7 @@ breadcrumb: [Rollup example use case implementation for a Security Case, Rollup 
 
 # Step 5. Add Access Control Lists \(ACLs\) for Major Security Incident Management workspace users
 
-Add Access Control Lists \(ACLs\) for [[msim-workspace|Major Security Incident Management workspace]] users.
+Add Access Control Lists \(ACLs\) for Major Security Incident Management workspace users.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 **Note:** The permissions required to linking and unlinking capabilities are controlled by the sn\_msi.linkedsivi\_read role.
 
-[[major-security-incident-management-landing-page|Major Security Incident Management]] persona contains sn\_msi.linkedsivi\_read role.
+Major Security Incident Management persona contains sn\_msi.linkedsivi\_read role.
 
 1.  sn\_msi.workspace\_admin \(MSIM Workspace admin\)
 2.  sn\_msi.workspace\_manager \(MSIM Workspace manager\)
@@ -59,7 +59,3 @@ Role required: admin
 
 **Parent Topic:**[Rollup example use case implementation for a Security Case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/use-case-for-a-security-case.md)
 
-## Related
-
-- [[msim-workspace|Major Security Incident Management workspace]]
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]

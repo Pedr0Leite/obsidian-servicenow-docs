@@ -29,8 +29,5 @@ After opening a request, you can modify the details and update it.
     If you don't see the location, contact the facilities administrator to add the location to the floor plan.
 
 
-**Parent Topic:**[[c_FacilitiesRequests|Facilities requests]]
+**Parent Topic:**[Facilities requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_FacilitiesRequests.md)
 
-## Related
-
-- [[c_FacilitiesRequests|Facilities requests]]

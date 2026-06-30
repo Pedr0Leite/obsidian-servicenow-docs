@@ -14,13 +14,13 @@ breadcrumb: [Configure for consumers, Service Exchange for Consumers, Service Ex
 
 # Consumer registration from the Consumer Center
 
-Complete the registration process from the [[tmt-service-bridge-both-landing-page|Service Exchange]] Connection Wizard to establish a secure connection to your provider instance.
+Complete the registration process from the Service Exchange Connection Wizard to establish a secure connection to your provider instance.
 
 ## Before you begin
 
 -   Role required: admin
 -   The consumer instance must be running Service Exchange version 2.3.18 or later.
--   The provider must have created a connection request and shared the registration URL with you. See [[se-provider-center-onboarding|Register a consumer from the Provider Center]].
+-   The provider must have created a connection request and shared the registration URL with you. See [Register a consumer from the Provider Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/se-provider-center-onboarding.md).
 
 ## About this task
 
@@ -61,10 +61,5 @@ After the registration is successful, you see a success message and the state of
 
 ## What to do next
 
-[[se-con-execute-scan-check|Execute a scan suite as a consumer]].
+[Execute a scan suite as a consumer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/se-con-execute-scan-check.md).
 
-## Related
-
-- [[se-provider-center-onboarding|Register a consumer from the Provider Center]]
-- [[se-con-execute-scan-check|Execute a scan suite as a consumer]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]

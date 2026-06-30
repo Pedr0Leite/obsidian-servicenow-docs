@@ -44,7 +44,7 @@ Role required: live\_feed\_admin and admin
 
 3.  Use the following settings in the Access Control form to create access control rules to limit who can view the live\_feed pages.
 
-    -   **Type**: [[ui-page|ui page]]
+    -   **Type**: ui page
     -   **Operation**: read
     -   **Name**: create one access control rule record for each of the following pages
         -   live\_feed
@@ -55,6 +55,3 @@ Role required: live\_feed\_admin and admin
 
 **Parent Topic:**[Live Feed security and table access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/r_LiveFeedTableAccessRules.md)
 
-## Related
-
-- [[ui-page|UI page]]

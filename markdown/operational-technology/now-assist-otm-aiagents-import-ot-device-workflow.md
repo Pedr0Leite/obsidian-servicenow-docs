@@ -16,7 +16,7 @@ Use the Import OT device spreadsheet into OT CMDB agentic workflow to automate t
 
 ## Import OT device spreadsheet into OT CMDB overview
 
-Using the Import OT device spreadsheet into OT CMDB agentic workflow, you can import the OT device inventory spreadsheet and map the spreadsheet data to the OT staging table. After importing and creating an OT staging table record, you can validate the staging record, remediate invalid records, and import all the validated records into the OT CMDB. For more information about how to use this agentic workflow, see [[upload-import-validate-ot-device-inventory-spreadsheet|Upload, validate, and import the OT device inventory spreadsheet]].
+Using the Import OT device spreadsheet into OT CMDB agentic workflow, you can import the OT device inventory spreadsheet and map the spreadsheet data to the OT staging table. After importing and creating an OT staging table record, you can validate the staging record, remediate invalid records, and import all the validated records into the OT CMDB. For more information about how to use this agentic workflow, see [Upload, validate, and import the OT device inventory spreadsheet](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/upload-import-validate-ot-device-inventory-spreadsheet.md).
 
 **Important:** This agentic workflow is turned on by default. For more information, see [Now Assist skills, agents, and agentic workflows on by default](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills-on-by-default.md).
 
@@ -46,12 +46,7 @@ The Import OT device spreadsheet into OT CMDB agentic workflow uses the OT Excel
 **Important:** This agent is turned on by default. For more information, see [Now Assist skills, agents, and agentic workflows on by default](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills-on-by-default.md).
 
 -   **[Upload, validate, and import the OT device inventory spreadsheet](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/upload-import-validate-ot-device-inventory-spreadsheet.md)**  
-Chat with an AI agent in the Now Assist panel to begin the process for uploading, validating, and importing your [[operational-technology-overview|Operational Technology]] \(OT\) device data into the OT CMDB.
+Chat with an AI agent in the Now Assist panel to begin the process for uploading, validating, and importing your Operational Technology \(OT\) device data into the OT CMDB.
 
-**Parent Topic:**[[now-assist-for-otm-use-cases|Use agentic AI for the OT Manager Foundation]]
+**Parent Topic:**[Use agentic AI for the OT Manager Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/now-assist-for-otm-use-cases.md)
 
-## Related
-
-- [[upload-import-validate-ot-device-inventory-spreadsheet|Upload, validate, and import the OT device inventory spreadsheet]]
-- [[now-assist-for-otm-use-cases|Use agentic AI for the OT Manager Foundation]]
-- [[operational-technology-overview|Operational Technology]]

@@ -24,7 +24,7 @@ Role required: none
 
     |Choice|Action|
     |------|------|
-    |**To search for a space location**|[[t_FindASpaceOrUser|Find a space on the floor plan.]]|
+    |**To search for a space location**|[Find a space on the floor plan.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_FindASpaceOrUser.md)|
     |**If you know the space location**|Select the space on the floor plan.|
 
 2.  On the Spaces tab, under the room information details and **Related Links** section, click **Create Facilities Request**.
@@ -44,9 +44,5 @@ Role required: none
 3.  Click **Submit** and the **Floor Plan** form displays.
 
 
-**Parent Topic:**[[c_FacilitiesFloorPlan|Facilities Floor Plan]]
+**Parent Topic:**[Facilities Floor Plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_FacilitiesFloorPlan.md)
 
-## Related
-
-- [[t_FindASpaceOrUser|Find a space or user]]
-- [[c_FacilitiesFloorPlan|Facilities Floor Plan]]

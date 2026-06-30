@@ -15,7 +15,7 @@ breadcrumb: [Employee Slate for Moveworks, Configuration flow, Employee Slate, U
 
 # Configure the Moveworks chatbot for Employee Slate
 
-Configure the Moveworks chatbot in the Moveworks Setup application. [[employee-slate-moveworks|Employee Slate for Moveworks]] then renders the Moveworks AI Assistant, ingests identity from ServiceNow, and authenticates employees seamlessly.
+Configure the Moveworks chatbot in the Moveworks Setup application. Employee Slate for Moveworks then renders the Moveworks AI Assistant, ingests identity from ServiceNow, and authenticates employees seamlessly.
 
 ## Before you begin
 
@@ -39,7 +39,7 @@ The Moveworks chatbot configuration captures two related setups. The first is th
 
     The list shows the chatbots configured for the organization. To edit an existing chatbot, select the record. To add a new chatbot, select **Create**.
 
-3.  Set the chatbot fields for the [[employee-slate-landing-page|Employee Slate]] surface.
+3.  Set the chatbot fields for the Employee Slate surface.
 
     For each field and the value to use, see the chatbot record table in [Moveworks chatbot configuration fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/empworks-moveworks-chatbot-fields.md). The required value is **Surface** = **Unified Front Door**, which lets Employee Slate render the chatbot.
 
@@ -59,15 +59,10 @@ The Moveworks chatbot configuration captures two related setups. The first is th
 
 8.  Open the Employee Slate URL and verify that the Moveworks assistant responds.
 
-    Open the [[emp-slate-home-page|Employee Slate home]] page. Enter a greeting in the chat, such as `Hi`. The Moveworks assistant responds, which verifies connectivity and authentication.
+    Open the Employee Slate home page. Enter a greeting in the chat, such as `Hi`. The Moveworks assistant responds, which verifies connectivity and authentication.
 
 
 ## Result
 
 Employee Slate renders the Moveworks chatbot with the configured suggested prompts. The trusted issuer authenticates employees, and the connector that you selected ingests identity.
 
-## Related
-
-- [[employee-slate-moveworks|Employee Slate for Moveworks]]
-- [[employee-slate-landing-page|Employee Slate]]
-- [[emp-slate-home-page|Employee Slate home]]

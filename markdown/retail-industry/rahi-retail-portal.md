@@ -12,7 +12,7 @@ breadcrumb: [Explore, Retail]
 
 # Retail portal
 
-Retail portal provides an enhanced experience to use self-service tools, view cases, and gain visibility into metrics for your [[rahi-retail-operations-overview|retail]] organizations.
+Retail portal provides an enhanced experience to use self-service tools, view cases, and gain visibility into metrics for your retail organizations.
 
 \[Omitted image "z-retail-portal.png"\] Alt text: Retail Portal landing page
 
@@ -35,18 +35,10 @@ Retail portal provides a responsive portal experience that can be used by the te
 
 For information on using Retail portal, see the following topics:
 
--   [[rahi-portal-configure-retail-kpi-widget|Add and configure the Retail KPI widget]]
--   [[rahi-retail-create-store-service-portal|Create a store inquiry case from the Retail portal]]
--   [[rahi-retail-fulfill-retail-store-service-case|Manage a store inquiry case from the Retail portal]]
--   [[rahi-retail-navigating-retail|Track cases and tasks from the Retail portal]]
+-   [Add and configure the Retail KPI widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-portal-configure-retail-kpi-widget.md)
+-   [Create a store inquiry case from the Retail portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-create-store-service-portal.md)
+-   [Manage a store inquiry case from the Retail portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-fulfill-retail-store-service-case.md)
+-   [Track cases and tasks from the Retail portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-navigating-retail.md)
 
-**Parent Topic:**[[rahi-retail-operations-explore|Exploring Retail]]
+**Parent Topic:**[Exploring Retail](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-operations-explore.md)
 
-## Related
-
-- [[rahi-portal-configure-retail-kpi-widget|Add and configure the Retail KPI widget]]
-- [[rahi-retail-create-store-service-portal|Create a store inquiry case from the Retail portal]]
-- [[rahi-retail-fulfill-retail-store-service-case|Manage a store inquiry case from the Retail portal]]
-- [[rahi-retail-navigating-retail|Track cases and tasks from the Retail portal]]
-- [[rahi-retail-operations-explore|Exploring Retail]]
-- [[rahi-retail-operations-overview|Retail]]

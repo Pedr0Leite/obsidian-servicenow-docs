@@ -14,7 +14,7 @@ breadcrumb: [On-Call Scheduling workflows, Reference for on-call scheduling, On-
 
 # Workflow Activities for On-Call Scheduling
 
-Workflow activities in [[workflows-oncall|On-Call Scheduling workflows]].
+Workflow activities in On-Call Scheduling workflows.
 
 ## Escalation workflow activities
 
@@ -36,7 +36,7 @@ Workflow activities in [[workflows-oncall|On-Call Scheduling workflows]].
     |ParentEscalationLevelId|sys\_id of the parent escalation in the case that the escalation was triggered from another escalation.|
     |Category|Category of the escalation. One of: \[assign\_by\_acknowledgement, auto\_assignment, notify\_manual\_assignmen,conferencing\].|
     |Channels|Comma-separated list of the channels used to communicate during the escalation. Any or all of: \[email, sms, voice, slack\]. For example, sms,email,voice|
-    |IgnoreDefReminders|If true, the workflow sends notification reminders as specified by the workflow, rather than as specified in On-Call Escalation [[settings-mobile|settings]]. For example, in Conference On-Call escalations, the workflow might to dial the on-call members at one-minute intervals instead of the standard 15-minute intervals.|
+    |IgnoreDefReminders|If true, the workflow sends notification reminders as specified by the workflow, rather than as specified in On-Call Escalation settings. For example, in Conference On-Call escalations, the workflow might to dial the on-call members at one-minute intervals instead of the standard 15-minute intervals.|
 
 -   **On-Call: Log Escalation Level**
 
@@ -151,7 +151,3 @@ List of parameters that are required for a notification:-   SMS: notify\_number,
 
 **Parent Topic:**[On-Call Scheduling workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/workflows-oncall.md)
 
-## Related
-
-- [[workflows-oncall|On-Call Scheduling workflows]]
-- [[settings-mobile|Settings]]

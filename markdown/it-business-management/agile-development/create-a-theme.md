@@ -22,7 +22,7 @@ Role required: scrum\_product\_owner, scrum\_release\_planner, scrum\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[agile-development|Agile Development]]** &gt; **Themes**.
+1.  Navigate to **All** &gt; **Agile Development** &gt; **Themes**.
 
 2.  Select **New**.
 
@@ -90,6 +90,3 @@ Add epics and stories to the theme using the related lists available in the Them
 
 **Parent Topic:**[Managing your product development using Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/using-agile-development-2-0.md)
 
-## Related
-
-- [[agile-development|Agile Development]]

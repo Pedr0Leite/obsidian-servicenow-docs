@@ -14,7 +14,7 @@ breadcrumb: [Proactive Prompts, HR Service Delivery, Employee Service Management
 
 # Reference for Proactive Prompts
 
-[[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] topics provide additional information about user roles, tables, and default configurations in [[proactive-prompts-for-hrsd|Proactive Prompts]].
+Reference topics provide additional information about user roles, tables, and default configurations in Proactive Prompts.
 
 -   **[Components installed with Proactive Prompts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/proactive-prompts-components.md)**  
 Several types of components install with the activation of the Proactive Prompts application, including user roles and tables.
@@ -27,12 +27,7 @@ Actions provide the user the ability to act on the prompt.
 -   **[Signal data source form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/proactive-prompts-signal-datasource-form.md)**  
 Form to create a data source for the signal.
 -   **[Signal configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/proactive-prompts-create-signal-form.md)**  
-Form to [[proactive-prompts-signal-create|create a signal in Proactive Prompts]].
+Form to create a signal in Proactive Prompts.
 
 **Parent Topic:**[Proactive Prompts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/proactive-prompts-for-hrsd.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[proactive-prompts-for-hrsd|Proactive Prompts]]
-- [[proactive-prompts-signal-create|Create a signal in Proactive Prompts]]

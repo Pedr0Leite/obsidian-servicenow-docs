@@ -65,8 +65,5 @@ The following example steps assume you have your own demonstration instance.
     \[Omitted image "RESTImportSetTable.png"\] Alt text: REST import set table
 
 
-**Parent Topic:**[[references-inbound-email|References for Inbound email]]
+**Parent Topic:**[References for Inbound email](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/references-inbound-email.md)
 
-## Related
-
-- [[references-inbound-email|References for Inbound email]]

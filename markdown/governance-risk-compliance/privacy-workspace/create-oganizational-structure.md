@@ -22,7 +22,7 @@ Role required: sn\_privacy.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[entity-based-access|Entity Based Access]] Configurations** &gt; **Entity Configurations**.
+1.  Navigate to **All** &gt; **Entity Based Access Configurations** &gt; **Entity Configurations**.
 
 2.  Select **New** to open the Entity Access Configuration form.
 
@@ -118,6 +118,3 @@ Option to set the configuration to active to enforce the access rules.
 
 **Parent Topic:**[Configuring access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/configure-access-control-by-legal-entity.md)
 
-## Related
-
-- [[entity-based-access|Entity Based Access]]

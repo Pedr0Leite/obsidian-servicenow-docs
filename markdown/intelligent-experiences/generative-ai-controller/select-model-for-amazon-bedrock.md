@@ -19,7 +19,7 @@ Choose which large language model \(LLM\) to use with Amazon Bedrock for custom 
 
 ## Before you begin
 
-You must have the latest version of [[generative-ai-controller|Generative AI Controller]] and the Amazon Bedrock spoke installed on your instance. You must also set up your API credentials. For more information, see [Configure API credentials for Amazon Bedrock](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/generative-ai-controller/configure-api-credentials-for-amazon-bedrock.md).
+You must have the latest version of Generative AI Controller and the Amazon Bedrock spoke installed on your instance. You must also set up your API credentials. For more information, see [Configure API credentials for Amazon Bedrock](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/generative-ai-controller/configure-api-credentials-for-amazon-bedrock.md).
 
 Role required: admin
 
@@ -56,9 +56,5 @@ Your chosen model with the Amazon Bedrock provider will be used for custom skill
 
 ## What to do next
 
-You can create custom skills with the Amazon Bedrock provider in [[now-assist-skill-kit-landing|Now Assist Skill Kit]] and perform step 6 to set the new model.
+You can create custom skills with the Amazon Bedrock provider in Now Assist Skill Kit and perform step 6 to set the new model.
 
-## Related
-
-- [[generative-ai-controller|Generative AI Controller]]
-- [[now-assist-skill-kit-landing|Now Assist Skill Kit]]

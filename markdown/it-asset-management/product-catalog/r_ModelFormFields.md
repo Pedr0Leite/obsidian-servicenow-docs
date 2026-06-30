@@ -14,7 +14,7 @@ breadcrumb: [Models, Product Catalog, IT Asset Management]
 
 # Model form fields
 
-There are fields on the Model form that apply to all types of [[c_Models|models]].
+There are fields on the Model form that apply to all types of models.
 
 <table id="table_ijg_fpj_54"><thead><tr><th>
 
@@ -66,7 +66,7 @@ A brief description of the model.
 
 </td></tr><tr><td>
 
-[[model-hierarchy|Model categories]]
+Model categories
 
 </td><td>
 
@@ -80,7 +80,7 @@ Asset tracking strategy
 
 The process by which the model can be tracked. Choose from the following:-   **Leave to Category:** model is transparent and the category defines the asset class.
 -   **Create Consumable Asset:** model forces the asset class to be consumable, regardless of what the category defines as the asset class.
--   **Don't [[t_CreatingAssets|create assets]]:** model blocks asset instantiation, regardless of what the category defines as the asset class.
+-   **Don't create assets:** model blocks asset instantiation, regardless of what the category defines as the asset class.
 
 </td></tr><tr><td>
 
@@ -189,7 +189,7 @@ The configuration items created from this model. Can have any combination of ass
 
 </td></tr><tr><td>
 
-[[c_ProductCatalog|Product Catalog]]
+Product Catalog
 
 </td><td>
 
@@ -198,9 +198,3 @@ The information about the model as it appears in the product catalog and service
 </td></tr></tbody>
 </table>**Parent Topic:**[Models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/c_Models.md)
 
-## Related
-
-- [[c_Models|Models]]
-- [[model-hierarchy|Model categories]]
-- [[t_CreatingAssets|Create assets]]
-- [[c_ProductCatalog|Product Catalog]]

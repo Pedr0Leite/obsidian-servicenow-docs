@@ -18,7 +18,7 @@ Keyboard shortcuts are key combinations that include access keys, or keys like *
 
 Access keys depend on the browser and operating system you are using. Available keyboard shortcuts are based on the UI version. The most common access key combinations are listed in the table. If the key combinations do not work, you may need to use a different access key depending on your browser and operating system.
 
-For information about using keyword shortcuts in Next Experience, see [[next-experience-keyboard-shortcuts|Next Experience keyboard shortcuts]].
+For information about using keyword shortcuts in Next Experience, see [Next Experience keyboard shortcuts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-keyboard-shortcuts.md).
 
 |Action|Windows keyboard shortcut|Mac keyboard shortcut|
 |------|-------------------------|---------------------|
@@ -28,14 +28,14 @@ For information about using keyword shortcuts in Next Experience, see [[next-exp
 |Impersonate user|Alt+Ctrl+I|Control+Option+I|
 |Navigate to the main content on the page|Alt+Ctrl+P|Control+Option+P|
 
--   **[[enable-keyboard-shortcuts|Enable keyboard shortcuts]]**  
+-   **[Enable keyboard shortcuts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/enable-keyboard-shortcuts.md)**  
 You can enable or disable keyboard shortcuts from the system settings menu.
--   **[[disable-keyboard-shortcuts-globally|Disable keyboard shortcuts globally]]**  
-Keyboard shortcuts are enabled by default. You can disable all keyboard shortcuts globally or disable certain shortcuts using different [[c_UserPreferences|user preferences]].
--   **[[configure-keyboard-shortcut-preferences|Configure keys for keyboard shortcuts]]**  
+-   **[Disable keyboard shortcuts globally](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/disable-keyboard-shortcuts-globally.md)**  
+Keyboard shortcuts are enabled by default. You can disable all keyboard shortcuts globally or disable certain shortcuts using different user preferences.
+-   **[Configure keys for keyboard shortcuts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-keyboard-shortcut-preferences.md)**  
 Determine which shortcut key pairings users can use to access elements in an instance.
 
-**Parent Topic:**[[working-in-ui16-and-ui15|Working in Core UI]]
+**Parent Topic:**[Working in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/working-in-ui16-and-ui15.md)
 
 **Related topics**  
 
@@ -50,11 +50,3 @@ Determine which shortcut key pairings users can use to access elements in an ins
 
 [User interface configuration]()
 
-## Related
-
-- [[next-experience-keyboard-shortcuts|Next Experience keyboard shortcuts]]
-- [[enable-keyboard-shortcuts|Enable keyboard shortcuts]]
-- [[disable-keyboard-shortcuts-globally|Disable keyboard shortcuts globally]]
-- [[configure-keyboard-shortcut-preferences|Configure keys for keyboard shortcuts]]
-- [[working-in-ui16-and-ui15|Working in Core UI]]
-- [[c_UserPreferences|User preferences]]

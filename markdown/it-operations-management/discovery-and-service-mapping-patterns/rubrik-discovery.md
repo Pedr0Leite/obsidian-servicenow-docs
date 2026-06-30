@@ -14,7 +14,7 @@ breadcrumb: [Available on-premise discovery patterns, Discovery patterns used by
 
 # Rubrik Cluster discovery
 
-[[r-discovery|Discovery]] uses multiple patterns to find all Rubrik cluster data. Discovering some of these resources may require updating to the latest version of the Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns application from the ServiceNow Store.
+Discovery uses multiple patterns to find all Rubrik cluster data. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 ## Request new or enhanced Patterns on the ServiceNow® Store
 
@@ -41,7 +41,7 @@ Take note of the following limitations:
 
     Verify that the MID Server can access the target appliance device.
 
--   **Create a [[serverless-discovery|serverless discovery]] schedule**
+-   **Create a serverless discovery schedule**
 
     Create a serverless discovery schedule to perform targeted discovery of Rubrik cluster resources. For more information, see [Create a serverless discovery schedule for Rubrik cluster discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/create-serverless-schedule-rubrik.md).
 
@@ -70,7 +70,7 @@ Take note of the following limitations:
     |API Version \[api\_version\]|API version of the Rubrik cluster.|
     |Timezone \[timezone\]|Timezone used by the Rubrik cluster.|
 
-    The [[dependency-views-map|Dependency Views map]] shows discovered cluster resources and the relationships between them.
+    The Dependency Views map shows discovered cluster resources and the relationships between them.
 
     \[Omitted image "Rubrik-cluster-dependency.jpg"\] Alt text: Rubrik cluster dependency view
 
@@ -578,9 +578,3 @@ Set up a dedicated discovery schedule for each Rubrik cluster \(Brik\) to identi
 
 **Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/available-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[serverless-discovery|Serverless Discovery]]
-- [[dependency-views-map|Dependency Views map]]

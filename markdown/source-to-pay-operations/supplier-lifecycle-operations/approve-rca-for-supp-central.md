@@ -14,7 +14,7 @@ breadcrumb: [Restricted caller access approvals, Install Supplier Collaboration 
 
 # Approve restricted caller access privileges manually
 
-Approve restricted caller access \(RCA\) privileges to allow cross-scope access to the [[supplier-central|Supplier Collaboration Portal]].
+Approve restricted caller access \(RCA\) privileges to allow cross-scope access to the Supplier Collaboration Portal.
 
 ## Before you begin
 
@@ -52,6 +52,3 @@ RCA privileges define cross-scope access to an application, an event, or an appl
 
 [Run the fix script for RCA approvals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/run-rca-fix-script.md)
 
-## Related
-
-- [[supplier-central|Supplier Collaboration Portal]]

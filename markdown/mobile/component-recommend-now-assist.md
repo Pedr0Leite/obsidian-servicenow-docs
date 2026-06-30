@@ -16,7 +16,7 @@ Now Assist reduces manual work and saves you time by recommending components bas
 
 **Note:** For mobile component recommendations to be enabled on your platform, your instance must be on Tokyo or later, and the instance must be licensed for Now Assist. Additionally, the instance must have Now Assist AI Search licensed and installed.
 
-Using Now Assist, [[mab-concept|Mobile App Builder]] displays recommended components that are relevant to the selected setting. Settings that have component recommendations available are marked with a Now Assist icon. If a setting doesn’t have any relevant recommendations available, the icon appears grayed-out and isn't selectable.
+Using Now Assist, Mobile App Builder displays recommended components that are relevant to the selected setting. Settings that have component recommendations available are marked with a Now Assist icon. If a setting doesn’t have any relevant recommendations available, the icon appears grayed-out and isn't selectable.
 
 The following record types are compatible with component recommendations:
 
@@ -29,11 +29,7 @@ The following record types are compatible with component recommendations:
 
 \[Omitted image "now-assist-component-recc.png"\] Alt text: component recommendations pop-up showing three recommendations
 
-Component recommendations are suggested based on information such as the record's name and description, as well as a semantic search of existing records that are related to the current record type, such as [[list-screen|list screen]] or function.
+Component recommendations are suggested based on information such as the record's name and description, as well as a semantic search of existing records that are related to the current record type, such as list screen or function.
 
 Selecting the Now Assist icon opens the Recommendations pop-up and lists the recommended components. You can select **Preview** to open a read-only preview of the selected component in a new tab, or select **Select** to add the component to your record. To see more than just the recommended components, you can select **View all records** to view all other available options.
 
-## Related
-
-- [[mab-concept|Mobile App Builder]]
-- [[list-screen|List screen]]

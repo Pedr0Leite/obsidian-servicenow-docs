@@ -14,7 +14,7 @@ breadcrumb: [SLAs for application services and CIs, Manage and monitor alerts, C
 
 # Create an SLA configuration for CIs
 
-Create an SLA configuration from the [[c_EM|Event Management]] application to determine which CIs are available for SLAs.
+Create an SLA configuration from the Event Management application to determine which CIs are available for SLAs.
 
 ## Before you begin
 
@@ -59,6 +59,3 @@ If too many records are returned by the SLA configuration filter, you can add a 
 
 **Parent Topic:**[SLAs for application services and CIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/c_EMSLAsForBSAndCIs.md)
 
-## Related
-
-- [[c_EM|Event Management]]

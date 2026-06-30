@@ -16,19 +16,19 @@ Configure the input fields that your users use to enter information. You can use
 
 ## Before you begin
 
-You must create an [[parameter-input-screen|input form screen]] before you create inputs. For information about creating an input form screen, see [[parameter-screen-config|Configure an input form screen]].
+You must create an input form screen before you create inputs. For information about creating an input form screen, see [Configure an input form screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/parameter-screen-config.md).
 
 Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select the **Screens** category and then select the input form screen for which you want to configure inputs.
 
@@ -142,7 +142,7 @@ Autofill Variable
 
 </td><td>
 
-The autofill variable used for this input. For details on variables, [[param-screen-config-variables|Configure attributes for input form screen variables]].
+The autofill variable used for this input. For details on variables, [Configure attributes for input form screen variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/param-screen-config-variables.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -178,7 +178,7 @@ Input attributes
 
 </td><td>
 
-The input attributes. Select an existing attribute or select **New** to configure an attribute. For more information about configuring an attribute, see [[parameter-screen-var-attr|Input form screen attributes for inputs]].
+The input attributes. Select an existing attribute or select **New** to configure an attribute. For more information about configuring an attribute, see [Input form screen attributes for inputs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/parameter-screen-var-attr.md).
 
 </td></tr><tr><td>
 
@@ -186,17 +186,9 @@ Descriptive elements
 
 </td><td>
 
-Descriptive elements can be either text or an image placed above an input field. Descriptive elements help to add context to users completing an input form. Select an existing descriptive element or select **New**. For more information, see [[descriptive-elements-script|Configure descriptive elements for input form screens]].
+Descriptive elements can be either text or an image placed above an input field. Descriptive elements help to add context to users completing an input form. Select an existing descriptive element or select **New**. For more information, see [Configure descriptive elements for input form screens](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/descriptive-elements-script.md).
 
 </td></tr></tbody>
 </table>6.  When you finish configuring your fields, click **Save**.
 
-## Related
 
-- [[parameter-screen-config|Configure an input form screen]]
-- [[param-screen-config-variables|Configure attributes for input form screen variables]]
-- [[parameter-screen-var-attr|Input form screen attributes for inputs]]
-- [[descriptive-elements-script|Configure descriptive elements for input form screens]]
-- [[parameter-input-screen|Input form screen]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]

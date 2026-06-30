@@ -16,7 +16,7 @@ breadcrumb: [Integrating Field Service Management with other applications, Confi
 
 Link project tasks to work orders to assist with managing installation or deployment projects in the field.
 
-A project can have multiple tasks that are assigned to field service agents. Using the [[fsm-application-landing-page|Field Service Management]] integration with Project Portfolio Management, you can create work orders directly from project tasks. Linking project tasks to work orders in this way:
+A project can have multiple tasks that are assigned to field service agents. Using the Field Service Management integration with Project Portfolio Management, you can create work orders directly from project tasks. Linking project tasks to work orders in this way:
 
 -   Synchronizes the planned and actual dates between the project task and the work order.
 -   Synchronizes the states between the project task and the work order.
@@ -56,12 +56,7 @@ Work order and project task states are updated as follows.
 Activate the Field Service with Project Management plugin \(com.snc.wm\_ppm\) to use this feature. This plugin requires the Field Service Management plugin \(com.snc.work\_management\) and the PPM Standard plugin \(com.snc.financial\_planning\_pmo\).
 
 -   **[Customize the work order state transition map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-integrations/customize-state-transition-map.md)**  
-Users with the system administrator role can [[customize-state-transition-map|customize the work order state transition map]], which maps [[work-order-states|work order states]] to project task states.
+Users with the system administrator role can customize the work order state transition map, which maps work order states to project task states.
 
 **Parent Topic:**[Integrating Field Service Management with other applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-integrations/integrate-fsm-other-applications.md)
 
-## Related
-
-- [[fsm-application-landing-page|Field Service Management]]
-- [[customize-state-transition-map|Customize the work order state transition map]]
-- [[work-order-states|Work order states]]

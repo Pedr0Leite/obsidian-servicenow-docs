@@ -14,7 +14,7 @@ breadcrumb: [Multi-Provider SSO configurations, Multi-Provider single sign-on \(
 
 # Enable users to choose the identity provider for login
 
-SSO federation support enables [[users|users]] to choose which IdP to log in to.
+SSO federation support enables users to choose which IdP to log in to.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
 ## About this task
 
-SSO federations aggregate metadata from multiple IdPs and service providers, including your instance. Federations then publish the metadata as an XML file, which includes information like IdP names and IdP [[c_Certificates|certificates]]. Administrators can then instruct the instance to read the XML file and automatically populate the SSO Properties table with all the necessary IdP information.
+SSO federations aggregate metadata from multiple IdPs and service providers, including your instance. Federations then publish the metadata as an XML file, which includes information like IdP names and IdP certificates. Administrators can then instruct the instance to read the XML file and automatically populate the SSO Properties table with all the necessary IdP information.
 
 ## Procedure
 
@@ -46,17 +46,12 @@ SSO federations aggregate metadata from multiple IdPs and service providers, inc
     |-----|-----------|
     |Name|Enter a descriptive name for the federation.|
     |Active|Select the check box to enable the instance to pull the XML file from the federation.|
-    |Type|Select the type of [[c_Authentication|authentication]] this federation supports.|
+    |Type|Select the type of authentication this federation supports.|
     |Discovery Service URL|Enter the URL of the discovery service for this federation. This is the site where users are directed to select an IdP and log in.|
     |Meta Data URL|Enter the URL of the XML file that holds the federation metadata.|
     |x509 Certificate|Select the federation certificate.|
     |Domain|Select the domain that the data will belong to.|
 
-    **Note:** The InCommon federated [[identity-landing|identity]] management IdP is preconfigured.
+    **Note:** The InCommon federated identity management IdP is preconfigured.
 
-## Related
 
-- [[users|Users]]
-- [[c_Certificates|Certificates]]
-- [[c_Authentication|Authentication]]
-- [[identity-landing|Identity]]

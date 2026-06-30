@@ -28,7 +28,7 @@ The digital signature is not tracked or stored in the document record. Users mus
 
 \[Omitted image "MDOCDigitalSignature.png"\] Alt text: Approver Authentication
 
-After activating the [[approval-with-e-signature|Approval with E-Signature]] plugin, ensure that a row in the [[e-signature|e-signature]] registry table is created for the dms\_document\_revision table.
+After activating the Approval with E-Signature plugin, ensure that a row in the e-signature registry table is created for the dms\_document\_revision table.
 
 ## Procedure
 
@@ -49,7 +49,3 @@ After activating the [[approval-with-e-signature|Approval with E-Signature]] plu
 
 **Parent Topic:**[Create a document](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/c_CreateADocument.md)
 
-## Related
-
-- [[approval-with-e-signature|Approval with e-signature]]
-- [[e-signature|E-signature]]

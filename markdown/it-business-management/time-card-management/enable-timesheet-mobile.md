@@ -14,7 +14,7 @@ breadcrumb: [Install Mobile Time Sheets, Mobile Time Sheets, Time Card managemen
 
 # Enabling the mobile experience for Mobile Time Sheets
 
-Enable the mobile experience for [[timesheet-mobile|Mobile Time Sheets]] so users can fill out [[time-sheets|time sheets]] and user managers can approve or reject them from their mobile device.
+Enable the mobile experience for Mobile Time Sheets so users can fill out time sheets and user managers can approve or reject them from their mobile device.
 
 ## Before you begin
 
@@ -37,7 +37,3 @@ Role required: admin
 
 **Parent Topic:**[Install Mobile Time Sheets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/install-timesheet-mobile.md)
 
-## Related
-
-- [[timesheet-mobile|Mobile Time Sheets]]
-- [[time-sheets|Time Sheets]]

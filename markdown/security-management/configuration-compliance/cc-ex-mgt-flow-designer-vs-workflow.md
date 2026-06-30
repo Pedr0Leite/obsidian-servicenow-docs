@@ -14,7 +14,7 @@ breadcrumb: [Configure approval rules for Exception Management in Configuration 
 
 # Exception management workflow versus flow designer in Configuration Compliance
 
-Starting with [[vr-config-compliance-landing|Configuration Compliance]] \(CC\) v13.0, if you are deploying CC for the first time, the flow designer for approving exception requests in exception management is enabled by default. If you are an existing CC user, the default option is workflow.
+Starting with Configuration Compliance \(CC\) v13.0, if you are deploying CC for the first time, the flow designer for approving exception requests in exception management is enabled by default. If you are an existing CC user, the default option is workflow.
 
 <table id="table_qmm_sbw_sqb"><thead><tr><th>
 
@@ -114,7 +114,3 @@ Provides multiple options such as setting any number of configurations, approver
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[vr-config-compliance-landing|Configuration Compliance]]

@@ -14,7 +14,7 @@ breadcrumb: [Using Skills Foundation, Skills Foundation, Growth Experiences, HR 
 
 # Import skills from your resume or LinkedIn profile
 
-Import the skills residing in your resume or LinkedIn profile and add them to your [[emp-slate-employee-profile|Employee Profile]] in the [[employee-center-landing-page|Employee Center]] so that you have all your skills at one place and focus on your career development in the organization.
+Import the skills residing in your resume or LinkedIn profile and add them to your Employee Profile in the Employee Center so that you have all your skills at one place and focus on your career development in the organization.
 
 ## Before you begin
 
@@ -59,7 +59,3 @@ The skills are added to the Additional skills section on the skills widget.
 
 **Parent Topic:**[Using Skills Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/using-skills-intelligence.md)
 
-## Related
-
-- [[emp-slate-employee-profile|Employee profile]]
-- [[employee-center-landing-page|Employee Center]]

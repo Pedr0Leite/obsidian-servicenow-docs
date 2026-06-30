@@ -20,7 +20,7 @@ Role required: sn\_sec\_exception.admin
 
 ## About this task
 
-You can defer a finding or remediation task directly from its respective form in the [[sem-workspace-user-interface|Security Exposure Management workspace]]. Once submitted, the request is sent for approval.
+You can defer a finding or remediation task directly from its respective form in the Security Exposure Management workspace. Once submitted, the request is sent for approval.
 
 A scheduled job runs every day checking for deferred remediation tasks that have reached their reopen date. On the day the task's deferral is set to expire, the task is reopened.
 
@@ -84,9 +84,5 @@ Enter any other relevant information.
     The group is marked In Review. A **Reopen** related link appears. The reopen date and reason appear in work notes under the **Change Approvals** tab.
 
 
-**Parent Topic:**[[sem-exception-management-overview|Exception Management Overview]]
+**Parent Topic:**[Exception Management Overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-exception-management-overview.md)
 
-## Related
-
-- [[sem-exception-management-overview|Exception Management Overview]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]

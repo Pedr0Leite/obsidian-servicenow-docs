@@ -14,7 +14,7 @@ breadcrumb: [Use, Operational Technology Change Management, Operational Technolo
 
 # Create a change request from an incident record
 
-Create an [[operational-technology-overview|Operational Technology]] \(OT\) change request from an OT incident record. By creating a change request directly from an incident record, the data is automatically mapped to the new change request from the incident record.
+Create an Operational Technology \(OT\) change request from an OT incident record. By creating a change request directly from an incident record, the data is automatically mapped to the new change request from the incident record.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_ot\_incident\_write, sn\_ot\_incident\_admin, or sn\_ot\_chan
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]]**.
+1.  Navigate to **All** &gt; **Industrial Workspace**.
 
 2.  In the OT Incidents list module, select one of the available lists.
 
@@ -56,7 +56,3 @@ Role required: sn\_ot\_incident\_write, sn\_ot\_incident\_admin, or sn\_ot\_chan
 
 **Parent Topic:**[Using Operational Technology Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-change-management/using-operational-technology-change-management.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

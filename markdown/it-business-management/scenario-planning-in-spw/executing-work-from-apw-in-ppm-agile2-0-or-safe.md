@@ -15,11 +15,11 @@ breadcrumb: [Explore, Portfolio Planning in Strategic Planning Workspace, Strate
 
 # Strategic Planning with PPM, Agile 2.0, and SAFe
 
-Facilitate execution of the work planned in [[alignment-planner-workspace-landing-page|Strategic Planning]] in ServiceNow applications such as [[c_ProjectPortfolioSuite|Project Portfolio Management]] \(PPM\), [[agile-landing-page|Agile Development 2.0]], or Scaled Agile Framework.
+Facilitate execution of the work planned in Strategic Planning in ServiceNow applications such as Project Portfolio Management \(PPM\), Agile Development 2.0, or Scaled Agile Framework.
 
 While planning personas like portfolio managers or product owners use Strategic Planning to align their plans with the business objectives, they can provide flexibility to the execution teams to decide how they deliver their work.
 
-Teams can choose the methodology that would be the most effective for them, and decide on the execution system that would best fit their needs. They can use applications such as ServiceNow® Project Portfolio Management, Agile Development 2.0, or [[SAFeoverview|Scaled Agile Framework \(SAFe\)]] to execute the work planned by their managers.​
+Teams can choose the methodology that would be the most effective for them, and decide on the execution system that would best fit their needs. They can use applications such as ServiceNow® Project Portfolio Management, Agile Development 2.0, or Scaled Agile Framework \(SAFe\) to execute the work planned by their managers.​
 
 With this flexible approach of delivering work, empower your teams to deliver more value, while being able to fund, manage, and monitor all work from a single workspace.
 
@@ -39,7 +39,7 @@ To get started on integrating Strategic Planning with PPM, Agile 2.0, and SAFe, 
 
 -   **Can I use PPM Standard for project execution without Agile 2.0 or SAFe?**
 
-    Yes. If your teams follow waterfall or traditional [[c_ProjectApplicationOverview|Project Management]] methodology, use [[c_ProjectPortfolioSuiteWithFinancials|PPM Standard \(Project Portfolio Management\)]] as your execution system. Planning items created in Strategic Planning can be exported to PPM as projects. Changes in PPM \(project status, costs, resources\) sync back to Strategic Planning automatically.
+    Yes. If your teams follow waterfall or traditional Project Management methodology, use PPM Standard \(Project Portfolio Management\) as your execution system. Planning items created in Strategic Planning can be exported to PPM as projects. Changes in PPM \(project status, costs, resources\) sync back to Strategic Planning automatically.
 
     Use case: Infrastructure team plans in Strategic Planning, executes data-center migration project in PPM Standard with Gantt charts, task dependencies, and resource management.
 
@@ -100,11 +100,3 @@ For detailed configuration steps, see [Configuring Strategic Planning with PPM, 
 
 **Parent Topic:**[Exploring Portfolio Planning in Strategic Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/alignment-planner-workspace.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]
-- [[agile-landing-page|Agile Development 2.0]]
-- [[SAFeoverview|Scaled Agile Framework \(SAFe\)]]
-- [[c_ProjectApplicationOverview|Project Management]]
-- [[c_ProjectPortfolioSuiteWithFinancials|PPM Standard \(Project Portfolio Management\)]]

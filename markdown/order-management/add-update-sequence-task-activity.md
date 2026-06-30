@@ -16,11 +16,11 @@ Dynamically update the sequence task records based on predefined configuration u
 
 ## Before you begin
 
-The delegated developer roles must be assigned to designated users. For more information, see [[grant-delegated-developer-permissions|Grant delegated developer permissions for managing sequences]].
+The delegated developer roles must be assigned to designated users. For more information, see [Grant delegated developer permissions for managing sequences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/grant-delegated-developer-permissions.md).
 
 Role required: sn\_crm\_sequence.admin, sn\_crm\_sequence.writer
 
-**Note:** If you're [[using-customer-engagement-sequences|using Customer Engagement Sequences]] 1.0.0, then you need the playbook.admin or pd\_author role to create sequences.
+**Note:** If you're using Customer Engagement Sequences 1.0.0, then you need the playbook.admin or pd\_author role to create sequences.
 
 ## About this task
 
@@ -48,7 +48,7 @@ Add the Update sequence task activity with other activities in a stage or in its
 
 9.  On the **Details** tab, enter a name for the activity in the **Label** field.
 
-10. On the **Automation** tab, use the data pill picker to establish a connection between the parent table and columns to the [[fields|fields]] listed in the following table.
+10. On the **Automation** tab, use the data pill picker to establish a connection between the parent table and columns to the fields listed in the following table.
 
 <table id="table_scy_fbk_mhc"><thead><tr><th>
 
@@ -86,20 +86,12 @@ Field in the parent table you want to update. For example, to mark a lead as con
 </table>11. Select **Save and close**.
 
 
-**Parent Topic:**[[create-customer-engagement-sequence|Create a customer engagement sequence]]
+**Parent Topic:**[Create a customer engagement sequence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-customer-engagement-sequence.md)
 
 **Related topics**  
 
 
-[[configuring-customer-engagement-sequences|Configuring Customer Engagement Sequences]]
+[Configuring Customer Engagement Sequences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configuring-customer-engagement-sequences.md)
 
-[[explore-customer-engagement-sequences|Customer Engagement Sequences]]
+[Customer Engagement Sequences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-customer-engagement-sequences.md)
 
-## Related
-
-- [[grant-delegated-developer-permissions|Grant delegated developer permissions for managing sequences]]
-- [[create-customer-engagement-sequence|Create a customer engagement sequence]]
-- [[configuring-customer-engagement-sequences|Configuring Customer Engagement Sequences]]
-- [[explore-customer-engagement-sequences|Customer Engagement Sequences]]
-- [[using-customer-engagement-sequences|Using Customer Engagement Sequences]]
-- [[fields|Fields]]

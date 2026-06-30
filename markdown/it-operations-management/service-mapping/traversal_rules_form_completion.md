@@ -14,7 +14,7 @@ breadcrumb: [Service Mapping reference, Service Mapping, ITOM Visibility, IT Ope
 
 # Traversal Rules for Application Services form completion
 
-To edit an existing CI relationship or add a new CI relationship during the tag-based [[r-discovery|discovery]] process, complete the Traversal Rules for Application Services form.
+To edit an existing CI relationship or add a new CI relationship during the tag-based discovery process, complete the Traversal Rules for Application Services form.
 
 <table id="table_ulz_55t_wlb"><thead><tr><th>
 
@@ -98,6 +98,3 @@ Enter a number for the order. The system uses traversal rules for discovery in s
 </td></tr></tbody>
 </table>**Parent Topic:**[Service Mapping reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/service-mapping-reference.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

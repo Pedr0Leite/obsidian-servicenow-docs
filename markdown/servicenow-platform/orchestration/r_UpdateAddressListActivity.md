@@ -18,7 +18,7 @@ The Update Address List activity adds or removes users from the specified addres
 
 Use the optional parameters variable to specify which users to add or remove. This activity implements the Microsoft Exchange [Update-AddressList](https://technet.microsoft.com/en-us/library/aa997982%28v=exchg.160%29.aspx) command.
 
-To access this activity in the [[workflow-editor|Workflow Editor]], select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Exchange** &gt; **Address List**.
+To access this activity in the Workflow Editor, select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Exchange** &gt; **Address List**.
 
 **Note:** This activity replaces an Exchange activity by the same name available in releases prior to Geneva. If you have a workflow created in a previous version that uses the deprecated activity, your workflow will continue to work normally after upgrading to Geneva. However, all new workflows must use the custom version of this activity. This activity was built with the [PowerShell activity designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_PowershellActivityDesigner.md), which gives workflow administrators the ability to store input and output variables in the [databus](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchestrationDatabus.md).
 
@@ -26,11 +26,11 @@ To access this activity in the [[workflow-editor|Workflow Editor]], select the *
 
 |Variable|Description|
 |--------|-----------|
-|hostname|The hostname of the Exchange server with which the activity interacts. Do not enter an [[ip-address|IP address]] in this variable.|
+|hostname|The hostname of the Exchange server with which the activity interacts. Do not enter an IP address in this variable.|
 |domain|The name of the Exchange server's assigned domain.|
 |identity|Name of the address list to update.|
 |domainController|Fully-qualified domain name \(FQDN\) of the domain controller that writes to Active Directory.|
-|whatif|A [[check-box|check box]] that indicates if the activity should stage the changes without applying them. Use this variable to test your activity settings before using the activity in a live workflow. When this variable is selected, the Exchange server does not make any changes but indicates if the command would succeed or fail. You can review any messages from the Exchange server using the ECC queue.|
+|whatif|A check box that indicates if the activity should stage the changes without applying them. Use this variable to test your activity settings before using the activity in a live workflow. When this variable is selected, the Exchange server does not make any changes but indicates if the command would succeed or fail. You can review any messages from the Exchange server using the ECC queue.|
 
 ## Output variables
 
@@ -48,8 +48,3 @@ To access this activity in the [[workflow-editor|Workflow Editor]], select the *
 
 **Parent Topic:**[Exchange activity pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchestrationExchangeActivities.md)
 
-## Related
-
-- [[workflow-editor|Workflow editor]]
-- [[ip-address|IP Address]]
-- [[check-box|Check box]]

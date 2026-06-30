@@ -14,7 +14,7 @@ breadcrumb: [Administering reports, Reporting, Reporting, dashboards, and Perfor
 
 # Column view access control for list reports
 
-For [[list-reports|list reports]], the **glide.report.add\_to\_list\_supported** system property enables the add\_to\_list [[access-control|access control]] list. This access control list \(ACL\) prevents users from [[reporting-landing-page|reporting]] on list report columns with sensitive data.
+For list reports, the **glide.report.add\_to\_list\_supported** system property enables the add\_to\_list access control list. This access control list \(ACL\) prevents users from reporting on list report columns with sensitive data.
 
 A manager can prevent users from reporting on the **Assigned to** column when creating a report, for example. If a table field is restricted for the user, it doesn't appear in the **Available** column. Users are therefore not able to select it in the reports they create.
 
@@ -33,8 +33,3 @@ After you enable the property, existing reports aren't affected. Columns are onl
 
 [bundle-psec.acl-rule-types]
 
-## Related
-
-- [[list-reports|List reports]]
-- [[access-control|Access control]]
-- [[reporting-landing-page|Reporting]]

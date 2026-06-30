@@ -18,13 +18,13 @@ Manage how your organization receives changes for customer orders, service order
 
 An inflight order is an order that is in the process of being orchestrated and fulfilled but has some work pending. Inflight changes and cancellations can occur in large enterprise orders. An inflight order change refers to a change that is issued for an order line item that is currently undergoing fulfillment and pending completion.
 
-Enterprise order management is complex. It can take weeks or months to fulfill a multi-site order. Enterprise orders can involve the large-scale purchases of products and services, often for multiple locations around the world. Inflight orders can go through revisions that incorporate changes that are submitted by customers or identified by internal personnel during the [[reviewing-orchestration-plans-order-fulfillment|order fulfillment]] process.
+Enterprise order management is complex. It can take weeks or months to fulfill a multi-site order. Enterprise orders can involve the large-scale purchases of products and services, often for multiple locations around the world. Inflight orders can go through revisions that incorporate changes that are submitted by customers or identified by internal personnel during the order fulfillment process.
 
 To revise an inflight order or order line items that have already been decomposed to suborders, service provider employees have to assess the impact of the requested changes. If there is no data-driven process and framework, users try to manage the changes with manual tasks that can lead to delays in the order delivery process and result in poor customer and employee experiences.
 
 By using inflight change order management, you can determine how to manage changes for customer orders that are still being fulfilled. By managing inflight changes, your organization can reduce operational costs and deliver a better customer experience.
 
-You can use an inflight change to [[Modify|modify]] a customer order that is still in fulfillment. You define a point of no return \(PONR\) after which the order can't accept any change. After an inflight change is received and approved, order management dynamically assesses the impact of the requested change and automatically generates a plan to orchestrate the order correctly. With Order Management, your organization can manage the inflight changes more easily, reduce operational costs, and deliver a better customer experience.
+You can use an inflight change to modify a customer order that is still in fulfillment. You define a point of no return \(PONR\) after which the order can't accept any change. After an inflight change is received and approved, order management dynamically assesses the impact of the requested change and automatically generates a plan to orchestrate the order correctly. With Order Management, your organization can manage the inflight changes more easily, reduce operational costs, and deliver a better customer experience.
 
 ## Types of Inflight order changes
 
@@ -42,8 +42,8 @@ Based on the types of customer requests, you update an inflight order to do the 
 |Incorporate changes that are related to pricing details.|A customer requests a reduction to a non-recurring charge or a monthly recurring charge on an order line item.|
 |Add a product or service to an order.|A customer wants to add a new item to an existing order.|
 |Increase or decrease the quantity of order line items in a product or service order.|A customer wants a higher or lower the quantity of an existing order.|
-|Add, change, or [[cancel|cancel]] a product or service, or product or service options, in a related domain product or service order.|A customer wants to update the characteristic value of a product or service that the customer ordered at an earlier date. For example, the customer wants to change the speed of an internet service from 100 Mbps to 500 Mbps.|
-|Incorporate changes that are applicable to the related items of a product or service order.|A customer wants to add or change an item to an order that has horizontal relationships. To learn more, see [[horizontal-relationships|Horizontal relationships between products]].|
+|Add, change, or cancel a product or service, or product or service options, in a related domain product or service order.|A customer wants to update the characteristic value of a product or service that the customer ordered at an earlier date. For example, the customer wants to change the speed of an internet service from 100 Mbps to 500 Mbps.|
+|Incorporate changes that are applicable to the related items of a product or service order.|A customer wants to add or change an item to an order that has horizontal relationships. To learn more, see [Horizontal relationships between products](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/horizontal-relationships.md).|
 
 Fulfillment user-initiated requests
 
@@ -103,38 +103,23 @@ For subordinate products, such as the SD-WAN Edge device, the order can be chang
 
 After the CPE configuration is complete, no further changes are allowed in the order for that device. This scenario also applies to the SD-WAN Controller and SD-WAN Security selections.
 
--   **[[key-inflight-order-change-cancellation-request-fields|Key inflight order change and cancellation request fields]]**  
-Learn how the ServiceNow AI Platform uses key [[fields|fields]] in the Customer Order and Order Line Item forms to track your order changes and cancellation requests. You can see how these fields operate and what information they show you when you revise or request a cancellation of an order, or order line items.
--   **[[order-mgt-review-cust-order-detail|Cancel orders]]**  
+-   **[Key inflight order change and cancellation request fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/key-inflight-order-change-cancellation-request-fields.md)**  
+Learn how the ServiceNow AI Platform uses key fields in the Customer Order and Order Line Item forms to track your order changes and cancellation requests. You can see how these fields operate and what information they show you when you revise or request a cancellation of an order, or order line items.
+-   **[Cancel orders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-review-cust-order-detail.md)**  
 Cancel an inflight order, or order line item when a customer requests it or your internal personnel determine an order cancellation is necessary.
--   **[[revise-orders|Revise orders]]**  
+-   **[Revise orders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/revise-orders.md)**  
 Revise order line items to update product quantity for ongoing orders.
--   **[[delete-orders|Delete orders]]**  
+-   **[Delete orders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/delete-orders.md)**  
 Delete order or order line items if you no longer require them to be part of the order.
--   **[[review-and-approve-or-decline-order-cancellation-requests|Review and approve order revisions or cancellation requests]]**  
+-   **[Review and approve order revisions or cancellation requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/review-and-approve-or-decline-order-cancellation-requests.md)**  
 Review a customer or service order that has a pending revision or cancellation request so that you can make sure that the order is correct and complete. You can also approve the order and order line item revisions or cancellations requests.
 
-**Parent Topic:**[[using-order-management|Using Order Management]]
+**Parent Topic:**[Using Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-order-management.md)
 
 **Related topics**  
 
 
-[[order-mgt-configuring|Configuring Order Management]]
+[Configuring Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-configuring.md)
 
-[[explore-order-management|Order management]]
+[Order management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-order-management.md)
 
-## Related
-
-- [[horizontal-relationships|Horizontal relationships between products]]
-- [[key-inflight-order-change-cancellation-request-fields|Key inflight order change and cancellation request fields]]
-- [[order-mgt-review-cust-order-detail|Cancel orders]]
-- [[revise-orders|Revise orders]]
-- [[delete-orders|Delete orders]]
-- [[review-and-approve-or-decline-order-cancellation-requests|Review and approve order revisions or cancellation requests]]
-- [[using-order-management|Using Order Management]]
-- [[order-mgt-configuring|Configuring Order Management]]
-- [[explore-order-management|Order management]]
-- [[reviewing-orchestration-plans-order-fulfillment|Order fulfillment]]
-- [[Modify|Modify]]
-- [[cancel|Cancel]]
-- [[fields|Fields]]

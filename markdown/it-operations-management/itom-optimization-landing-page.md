@@ -12,7 +12,7 @@ breadcrumb: [IT Operations Management]
 
 # ITOM Optimization
 
-The [[r_ITOMApplications|IT Operations Management]] \(ITOM\) Optimization application provides automation for the cloud workflows used to manage the cloud resources throughout their life cycle. It enables certified and enterprise-compliant cloud deployment, cost visibility, and other cloud management processes.
+The IT Operations Management \(ITOM\) Optimization application provides automation for the cloud workflows used to manage the cloud resources throughout their life cycle. It enables certified and enterprise-compliant cloud deployment, cost visibility, and other cloud management processes.
 
 ## Features of ITOM Optimization
 
@@ -20,12 +20,12 @@ ITOM Optimization features provide an integrated, service-centric approach that 
 
 -   **[Cloud Provisioning and Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-management-v2-landing-page.md)**
 
-    The ServiceNow® [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] \(CPG\) application serves as a unified interface for accessing cloud resources, delivering cloud offerings to a catalog, and overseeing resource usage. This application is transformed as [[csc-home|Cloud Services Catalog]] application, offering refined and streamlined management of usage and life cycle of cloud resources.
+    The ServiceNow® Cloud Provisioning and Governance \(CPG\) application serves as a unified interface for accessing cloud resources, delivering cloud offerings to a catalog, and overseeing resource usage. This application is transformed as Cloud Services Catalog application, offering refined and streamlined management of usage and life cycle of cloud resources.
 
 
 ## ITOM Optimization licensing
 
-The ServiceNow AI Platform® uses a licensing method where your organization is billed for using ITOM Optimization applications. The ServiceNow Product Documentation doesn't provide information on prices, packaging, or other details determined by your organization customer contract. For general information about licensing and subscriptions, see [[itom-su-licensing-landing-page|ITOM/OT SU Licensing and subscriptions]].
+The ServiceNow AI Platform® uses a licensing method where your organization is billed for using ITOM Optimization applications. The ServiceNow Product Documentation doesn't provide information on prices, packaging, or other details determined by your organization customer contract. For general information about licensing and subscriptions, see [ITOM/OT SU Licensing and subscriptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-su-licensing-landing-page.md).
 
 ## Using guided setup to implement IT Operations Management applications
 
@@ -33,13 +33,6 @@ The IT Operations Management guided setup application provides a sequence of tas
 
 ## What to do next
 
--   To find the list of plugins you activate with IT Operations Management, see [[plugin-itom-optimization|Plugins activated with ITOM Optimization]] .
+-   To find the list of plugins you activate with IT Operations Management, see [Plugins activated with ITOM Optimization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/plugin-itom-optimization.md) .
 -   For more details on Cloud Provisioning and Governance, see [Cloud Provisioning and Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-management-v2-landing-page.md).
 
-## Related
-
-- [[itom-su-licensing-landing-page|ITOM/OT SU Licensing and subscriptions]]
-- [[plugin-itom-optimization|Plugins activated with ITOM Optimization]]
-- [[r_ITOMApplications|IT Operations Management]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[csc-home|Cloud Services Catalog]]

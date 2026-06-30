@@ -22,7 +22,7 @@ Role required: sn\_cm\_gen\_ai.ai\_contract\_fulfiller
 
 ## About this task
 
-By default, the following use cases are available for [[psm-overview|Sourcing and Procurement Operations]], which are mapped to the [[purchase-requisition|purchase requisition]], purchase line item, and negotiation tables.
+By default, the following use cases are available for Sourcing and Procurement Operations, which are mapped to the purchase requisition, purchase line item, and negotiation tables.
 
 -   CM Pro - Contract Analysis
 -   CM Pro - Contract Metadata Extraction
@@ -31,7 +31,7 @@ For more information, see [Contract metadata extraction using Now Assist in Cont
 
 ## Procedure
 
-1.  Open the **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Open the **Source-to-Pay Workspace**.
 
 2.  Navigate to **Lists** &gt; **My work** &gt; **Open contract requests**
 
@@ -59,8 +59,3 @@ The Extraction results tab in the contract repository record displays the proces
 
 [Analyze a contract document from Source-to-Pay Workspace]()
 
-## Related
-
-- [[psm-overview|Sourcing and Procurement Operations]]
-- [[purchase-requisition|Purchase requisition]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

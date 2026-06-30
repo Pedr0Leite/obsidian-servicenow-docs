@@ -14,7 +14,7 @@ breadcrumb: [Cloud Configuration Governance reference, Cloud Configuration Gover
 
 # Cloud permissions required to collect the base system Cloud Configuration Governance configuration keys
 
-The [[cloud-configuration-governance|Cloud Configuration Governance]] requires appropriate cloud permissions to collect the base system configuration keys from the cloud. Therefore, you must set the appropriate permissions in the cloud to suit the needs of your organization.
+The Cloud Configuration Governance requires appropriate cloud permissions to collect the base system configuration keys from the cloud. Therefore, you must set the appropriate permissions in the cloud to suit the needs of your organization.
 
 **Note:** Starting with Cloud Configuration Governance version 1.3.7, the base system contents are moved to the CCG Content Pack. Install the CCG Content Pack to access the base system Cloud Configuration Governance contents.
 
@@ -275,6 +275,3 @@ Azure profile with minimal permissions
 
 **Parent Topic:**[Cloud Configuration Governance reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/ccg-reference.md)
 
-## Related
-
-- [[cloud-configuration-governance|Cloud Configuration Governance]]

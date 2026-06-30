@@ -14,7 +14,7 @@ breadcrumb: [Request employee-related services, Workplace Core, Workplace Servic
 
 # Schedule your arrival time at a workplace location
 
-Schedule your arrival at a workplace location by using [[workplace-safety-mgmt-hr|Workplace Core]]. Prevent long lines and safely enter the location.
+Schedule your arrival at a workplace location by using Workplace Core. Prevent long lines and safely enter the location.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Browse [[workplace-services|Workplace Services]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center** &gt; **Browse Workplace Services**.
 
 2.  Scroll and select **Schedule your arrival**.
 
@@ -49,7 +49,7 @@ The arrival request is created. The web page or your mobile screen is refreshed 
 You can check the details of your arrival schedule anytime.
 
 1.  Depending on your platform, do one of the following to view your requests:
-    -   On the [[workplace-services-portal-hr|Workplace Service Portal]], go to the **Requests** tab to view your requests and reservations.
+    -   On the Workplace Service Portal, go to the **Requests** tab to view your requests and reservations.
     -   On the Now Mobile navigation bar, tap **For Me** and scroll down to the My Request section to view your requests.
 2.  If you want to cancel your arrival, select the arrival request and select **Cancel arrival**.
 
@@ -62,9 +62,3 @@ You can check the details of your arrival schedule anytime.
 
 [Manage workplace activities and services with Location directory]()
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-services|Workplace Services]]
-- [[workplace-services-portal-hr|Workplace Service Portal]]

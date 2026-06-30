@@ -14,7 +14,7 @@ breadcrumb: [HR Service Delivery Integration with Magnit, Integration of HR Serv
 
 # Explore HR Service Delivery Integration with Magnit
 
-Understand the end-to-end work flow of [[hr-magnit-int|HR Service Delivery Integration with Magnit]].
+Understand the end-to-end work flow of HR Service Delivery Integration with Magnit.
 
 ## End-to-end flow
 
@@ -38,6 +38,3 @@ Understand the end-to-end work flow of [[hr-magnit-int|HR Service Delivery Integ
 
 \[Omitted image "magnit-flow.png"\] Alt text: End-to-end work flow of HR Service Delivery Integration with Magnit.
 
-## Related
-
-- [[hr-magnit-int|HR Service Delivery Integration with Magnit]]

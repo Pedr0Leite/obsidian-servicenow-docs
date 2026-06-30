@@ -12,7 +12,7 @@ breadcrumb: [View Sightings Search Results, Create sightings search configuratio
 
 # Share observables from a security incident
 
-[[c_Observables|Observables]] can be shared from a security incident in [[sir-landing-page|Security Incident Response]] to members in your trusted circle.
+Observables can be shared from a security incident in Security Incident Response to members in your trusted circle.
 
 ## Before you begin
 
@@ -42,14 +42,8 @@ Role required: sn\_si.analyst
 
 9.  You can view the threat share records by selecting the **Threat shares** tab.
 
-10. If any of the shared observables contain [[indicator-sightings|sightings]], the sightings are also shared and can be viewed by selecting the **Sightings** tab.
+10. If any of the shared observables contain sightings, the sightings are also shared and can be viewed by selecting the **Sightings** tab.
 
 
-**Parent Topic:**[[view-sightings-search-results|View Sightings Search Results]]
+**Parent Topic:**[View Sightings Search Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/view-sightings-search-results.md)
 
-## Related
-
-- [[view-sightings-search-results|View Sightings Search Results]]
-- [[c_Observables|Observables]]
-- [[sir-landing-page|Security Incident Response]]
-- [[indicator-sightings|Sightings]]

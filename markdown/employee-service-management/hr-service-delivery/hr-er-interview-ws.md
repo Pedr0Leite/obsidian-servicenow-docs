@@ -14,7 +14,7 @@ breadcrumb: [Using Interview Management, Using HR Service Delivery Employee Rela
 
 # Schedule an interview in Employee Relations using Agent Workspace for HR Case Management
 
-Use [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]] to capture a record of an interview.
+Use Agent Workspace for HR Case Management to capture a record of an interview.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_hr\_er.case\_writer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **Agent Workspace for HR Case Management**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **Agent Workspace for HR Case Management**.
 
 2.  Select the **Lists** icon \(\[Omitted image "agent-ws-hr-list-icon.png"\] Alt text: Lists icon\).
 
@@ -58,7 +58,7 @@ HR case
 
 </td><td>
 
-he HR ER case number associated with the interview.**Note:** If you access the interview from **[[hr-case-employee-relations|Employee Relations]]**, you have to select an HR case to associate the interview to.
+he HR ER case number associated with the interview.**Note:** If you access the interview from **Employee Relations**, you have to select an HR case to associate the interview to.
 
 </td></tr><tr><td>
 
@@ -104,7 +104,7 @@ Scheduling method
 
 The method you are using to schedule the interview. Select **Manual entry** to select the Start and End dates and times of the interview.
 
- If your company uses the integration with Microsoft Outlook Calendar to schedule, select **Calendar**. You can [[schedule-interview|schedule an interview]] with an interface that syncs with your company's Outlook Calendar. For more information, see [Using Interview Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/using-interview-management.md).
+ If your company uses the integration with Microsoft Outlook Calendar to schedule, select **Calendar**. You can schedule an interview with an interface that syncs with your company's Outlook Calendar. For more information, see [Using Interview Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/using-interview-management.md).
 
 </td></tr><tr><td>
 
@@ -171,9 +171,4 @@ Notes from the interview or you can enter the answers to the questions from the 
 </td></tr></tbody>
 </table>8.  Select **Save**.
 
-## Related
 
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[case-management-workspace|Case management]]
-- [[hr-case-employee-relations|Employee Relations]]
-- [[schedule-interview|Schedule an interview]]

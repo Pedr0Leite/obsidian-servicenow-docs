@@ -41,7 +41,7 @@ Role required: admin.
 
 ## Microsoft Teams Chat Connector Functional Flow
 
-View this section to understand the Microsoft Teams related flow designer subflows used to [[tisc-data-administration|administer]] the Chat Channel\(s\) creation and user access from Major Security Incident.
+View this section to understand the Microsoft Teams related flow designer subflows used to administer the Chat Channel\(s\) creation and user access from Major Security Incident.
 
 ### Before you begin
 
@@ -79,6 +79,4 @@ Role required: sn\_msi.workspace\_admin
 
 15. Validate MS Teams Connection.
 
-## Related
 
-- [[tisc-data-administration|Administer]]

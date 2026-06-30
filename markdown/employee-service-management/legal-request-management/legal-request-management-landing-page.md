@@ -18,7 +18,7 @@ The ServiceNow® Legal Request Management application provides a unified mechani
 
 Employees can submit legal requests, monitor their progress, and read legal knowledge base articles across a web portal, mobile platform, and Virtual Agent.
 
-Legal teams can collaborate in a centralized [[legal-counsel-center-landing|Legal Counsel Center]] to manage legal intake volume, resolve legal requests, and monitor work analytics.
+Legal teams can collaborate in a centralized Legal Counsel Center to manage legal intake volume, resolve legal requests, and monitor work analytics.
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
@@ -42,14 +42,10 @@ Legal teams can collaborate in a centralized [[legal-counsel-center-landing|Lega
 
 </td><td>
 
-[Reference \[Omitted image "bus-learn.svg"\] Alt text: Get details about components such as roles, tables, plugins, and store applications that are installed.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/legal-request-management-[[reference-hr-service-delivery-advanced-integration-with-workday|reference]].md)
+[Reference \[Omitted image "bus-learn.svg"\] Alt text: Get details about components such as roles, tables, plugins, and store applications that are installed.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/legal-request-management-reference.md)
 
 </td></tr></tbody>
 </table>## Request apps on the Store
 
 Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

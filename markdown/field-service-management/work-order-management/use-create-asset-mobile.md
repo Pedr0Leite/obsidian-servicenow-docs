@@ -41,7 +41,7 @@ When you record the asset usage, the following actions occur:
 
     The **Asset** field of the work order task inherits the asset details from its parent work order. If you add an asset to a work order, all its work order tasks are updated with the same asset details.
 
-5.  View the parts used, the parts removed, and the [[c_PartRequirements|part requirements]] for a work task by tapping **Parts**.
+5.  View the parts used, the parts removed, and the part requirements for a work task by tapping **Parts**.
 
 6.  Record information about the usage of an asset, the removal of an asset, or the replacement of an asset by tapping one of the following options.
 
@@ -153,6 +153,3 @@ Record the replacement of an asset:
 
 [Record asset usage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/t_RecordAssetUsage.md)
 
-## Related
-
-- [[c_PartRequirements|Part requirements]]

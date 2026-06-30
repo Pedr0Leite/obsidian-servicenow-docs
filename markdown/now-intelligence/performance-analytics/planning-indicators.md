@@ -56,9 +56,9 @@ Ask these questions before you create an indicator:
         Are daily changes meaningful or too noisy? How much time does it take to establish a real trend?
 
 -   Is there already an indicator that matches my use case, or do I have to build my own?
-    -   Has the [[c_performanceAnalyticsAndReporting|Platform Analytics]] Solution for the subject area been installed? These solutions contain indicators for many common use cases.
+    -   Has the Platform Analytics Solution for the subject area been installed? These solutions contain indicators for many common use cases.
     -   In the indicator list, is there an indicator that matches, or comes close to matching, your requirements? Can I duplicate an existing indicator and tweak it?
-    -   Can I [[t_CreateAFormulaIndicator|create a formula indicator]] from existing indicators that will meet my requirements?
+    -   Can I create a formula indicator from existing indicators that will meet my requirements?
 
 **Parent Topic:**[Implement Performance Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/implementing-pa.md)
 
@@ -67,7 +67,3 @@ Ask these questions before you create an indicator:
 
 [Design your Performance Analytics solution with KPI Composer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/designing-pa-solution.md)
 
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[t_CreateAFormulaIndicator|Create a formula indicator]]

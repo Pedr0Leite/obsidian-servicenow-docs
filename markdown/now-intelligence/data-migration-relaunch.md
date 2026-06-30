@@ -12,7 +12,7 @@ breadcrumb: [Perform full data migration, Platform Analytics Migration Center, P
 
 # Relaunch data migration
 
-Relaunch migration when Core UI content is changed after full data migration and when earlier unsupported functionality becomes supported in the [[par-workspace|Platform Analytics experience]].
+Relaunch migration when Core UI content is changed after full data migration and when earlier unsupported functionality becomes supported in the Platform Analytics experience.
 
 ## About this task
 
@@ -28,7 +28,7 @@ Role required: admin.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]] Administration** &gt; **Migration Center**.
+1.  Navigate to **All** &gt; **Platform Analytics Administration** &gt; **Migration Center**.
 
 2.  Select **Migrate again**.
 
@@ -45,10 +45,5 @@ The changed and new content is migrated to Platform Analytics experience.
 
 ## What to do next
 
-Evaluate the newly migrated content. For more information, see [[data-migration-evaluate|Evaluate full data migration]].
+Evaluate the newly migrated content. For more information, see [Evaluate full data migration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/data-migration-evaluate.md).
 
-## Related
-
-- [[data-migration-evaluate|Evaluate full data migration]]
-- [[par-workspace|Platform Analytics experience]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

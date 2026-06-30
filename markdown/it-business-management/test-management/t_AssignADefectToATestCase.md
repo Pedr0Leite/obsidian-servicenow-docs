@@ -14,13 +14,13 @@ breadcrumb: [Test Management 1.0, Test Management applications, Strategic Portfo
 
 # Assign a defect to a test case
 
-Assign an existing defect to a test case to track the relationship between defects and [[c_TestCases|test cases]].
+Assign an existing defect to a test case to track the relationship between defects and test cases.
 
 ## Before you begin
 
--   The ability to assign a defect is available only if the [[agile-landing-page|Agile Development 2.0]] plugin is activated.
+-   The ability to assign a defect is available only if the Agile Development 2.0 plugin is activated.
 -   A defect record must exist in your instance. If no defect exists, create one first. For more information, see [Report a defect from a failed test](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/t_ReportADefectFromAFailedTest.md).
--   Perform [[c_Tests|tests]] and update the test status. For more information, see [Performing tests and updating the test status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/c_Tester.md).
+-   Perform tests and update the test status. For more information, see [Performing tests and updating the test status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/c_Tester.md).
 -   Role required: tm\_tester
 
 ## About this task
@@ -29,7 +29,7 @@ When you link a defect to a test case, a reference to the defect is added both t
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Test Management** &gt; **Test Execution** &gt; **[[c_TestPlans|Test Plans]]**.
+1.  Navigate to **All** &gt; **Test Management** &gt; **Test Execution** &gt; **Test Plans**.
 
 2.  Open a test plan which contains your test case.
 
@@ -51,9 +51,3 @@ The defect that you assigned to the test case is added to the following related 
 
 You can also configure the Defect form to display the Test Cases related list so that you can see the test case associated with this defect.
 
-## Related
-
-- [[c_TestCases|Test cases]]
-- [[agile-landing-page|Agile Development 2.0]]
-- [[c_Tests|Tests]]
-- [[c_TestPlans|Test plans]]

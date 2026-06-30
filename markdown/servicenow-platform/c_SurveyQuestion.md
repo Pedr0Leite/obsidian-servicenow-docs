@@ -12,26 +12,26 @@ breadcrumb: [Survey administration, Use surveys, Surveys, Assessments and Survey
 
 # Survey questions
 
-Survey questions appear on [[c_SurveyQuestionnairesForUsers|survey questionnaires]] for the associated survey definition.
+Survey questions appear on survey questionnaires for the associated survey definition.
 
 The survey creator generates questions and answer options automatically. However, it provides only the basic configuration options for questions, such as the question text and the data type. You may want to create additional questions or set advanced configuration options for the questions, including making a question appear conditionally or making a question mandatory. You can also use question templates to define reusable sets of answer options.
 
 Survey questions are available from **Survey** &gt; **Questions**. The list displays information about each question, including the associated survey definition listed in the **Type** column, and the data type. Survey administrators can modify these questions.
 
--   **[[t_CreateOrModifySurveyQuestions|Create or modify survey questions]]**  
+-   **[Create or modify survey questions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateOrModifySurveyQuestions.md)**  
 You can create and administer survey questions.
--   **[[r_SurveyQuestionDataTypes|Survey question data types]]**  
+-   **[Survey question data types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_SurveyQuestionDataTypes.md)**  
 You must choose a data type for each survey question. The data type determines the format of the question and the kind of data that is collected on survey questionnaires.
--   **[[c_SurveyQuestionTemplate|Survey question template]]**  
+-   **[Survey question template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyQuestionTemplate.md)**  
 Question templates define reusable sets of answer options for survey questions.
--   **[[add-questionbank-for-survey|Add a metric category and metric in the question bank for surveys]]**  
-Reuse the question categories \(metric categories\) and questions \(metrics\) added in the question bank for [[r_SurveyManagementLandingPage|surveys]]. You can add metric categories or metrics from the question bank to a survey, or from the survey to a question bank.
--   **[[t_CreateOrModifyAnswerOptions|Create or modify answer options]]**  
+-   **[Add a metric category and metric in the question bank for surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/add-questionbank-for-survey.md)**  
+Reuse the question categories \(metric categories\) and questions \(metrics\) added in the question bank for surveys. You can add metric categories or metrics from the question bank to a survey, or from the survey to a question bank.
+-   **[Create or modify answer options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateOrModifyAnswerOptions.md)**  
 You must create answer options, called metric definitions, for survey questions that have **Data type** set to **Choice** or **Likert Scale**.
--   **[[t_ChangeTheOrderOfSurveyQuestions|Change the order of survey questions]]**  
+-   **[Change the order of survey questions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ChangeTheOrderOfSurveyQuestions.md)**  
 You can easily reorder survey questions at the category level or the question level.
 
-**Parent Topic:**[[r_SurveyAdminTasks|Survey administration]]
+**Parent Topic:**[Survey administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_SurveyAdminTasks.md)
 
 **Related topics**  
 
@@ -52,7 +52,7 @@ You can easily reorder survey questions at the category level or the question le
 
 [Survey definitions]()
 
-[Create a [[c_SurveyDesigner|survey designer]] template question]()
+[Create a survey designer template question]()
 
 [Survey trigger conditions]()
 
@@ -68,15 +68,3 @@ You can easily reorder survey questions at the category level or the question le
 
 [Legacy survey migration]()
 
-## Related
-
-- [[t_CreateOrModifySurveyQuestions|Create or modify survey questions]]
-- [[r_SurveyQuestionDataTypes|Survey question data types]]
-- [[c_SurveyQuestionTemplate|Survey question template]]
-- [[add-questionbank-for-survey|Add a metric category and metric in the question bank for surveys]]
-- [[t_CreateOrModifyAnswerOptions|Create or modify answer options]]
-- [[t_ChangeTheOrderOfSurveyQuestions|Change the order of survey questions]]
-- [[r_SurveyAdminTasks|Survey administration]]
-- [[c_SurveyQuestionnairesForUsers|Survey questionnaires]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[c_SurveyDesigner|Survey designer]]

@@ -26,7 +26,7 @@ Role required: admin
 
 2.  Select  **New**.
 
-3.  On the form, fill in the [[fields|fields]]:
+3.  On the form, fill in the fields:
 
     |Fields|Description|
     |------|-----------|
@@ -48,12 +48,7 @@ If required, users can either delete or make a forecast category inactive. When 
 **Related topics**  
 
 
-[[using-sales-forecasting|Using Sales Forecasting]]
+[Using Sales Forecasting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-sales-forecasting.md)
 
-[[sales-forecasting|Sales Forecasting]]
+[Sales Forecasting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/sales-forecasting.md)
 
-## Related
-
-- [[using-sales-forecasting|Using Sales Forecasting]]
-- [[sales-forecasting|Sales Forecasting]]
-- [[fields|Fields]]

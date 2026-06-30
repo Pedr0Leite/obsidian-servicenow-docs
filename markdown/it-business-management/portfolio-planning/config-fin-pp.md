@@ -14,7 +14,7 @@ breadcrumb: [Configure, Portfolio Planning, Strategic Portfolio Management]
 
 # Configure financials for Portfolio Planning
 
-Configure the ServiceNow Internal integrations to view the financials for planning items in [[portfolio-planning-app-landing-page|Portfolio Planning]].
+Configure the ServiceNow Internal integrations to view the financials for planning items in Portfolio Planning.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: admin
 
 ## Procedure
 
-1.  Configure the attributes to [[generate-labor-cost-demand|generate labor costs]] in financials based on the resource assignments on the work items.
+1.  Configure the attributes to generate labor costs in financials based on the resource assignments on the work items.
 
     For more information, see [Using the Planning attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/planning-attributes.md) and [Create or edit planning attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/configure-planning-attributes.md).
 
-2.  [[generate-mapping-configurations-ppw|Generate default mapping configurations]] to create table maps.
+2.  Generate default mapping configurations to create table maps.
 
     For more information, see [Generate default mapping configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/generate-default-mapping-configurations.md).
 
@@ -46,7 +46,7 @@ Role required: admin
 
     For more information, see [Configure budget attribute at instance-level to allocate budget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/config-budget-allocation-attribute-ppw.md).
 
-7.  Customize the [[create-cost-plan-form-pp|Create cost plan form]] fields to match the requirements of your organization.
+7.  Customize the Create cost plan form fields to match the requirements of your organization.
 
     For more information, see [Customise cost plan form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/customise-cost-plan-form-fin-pp.md).
 
@@ -62,7 +62,7 @@ Role required: admin
 
     For more information, see [Activate a scheduled job to migrate budget of your planning items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/fin-migrate-budget-scheduled-job-ppw.md)
 
-11. Activate and define scheduled job to automatically [[create-financial-baselines-ppw|create financial baselines]] for your planning items at a defined cadence.
+11. Activate and define scheduled job to automatically create financial baselines for your planning items at a defined cadence.
 
     For more information, see [Activate a scheduled job to create financial baselines for your projects and demands](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/baseline-schedule-job-pp.md).
 
@@ -70,10 +70,4 @@ Role required: admin
 
     For more information, see [Activate a scheduled job to generate labor costs for your projects and demands](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/gen-labor-costs-scheduled-job-pp.md).
 
-## Related
 
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[generate-labor-cost-demand|Generate labor costs]]
-- [[generate-mapping-configurations-ppw|Generate default mapping configurations]]
-- [[create-cost-plan-form-pp|Create cost plan form]]
-- [[create-financial-baselines-ppw|Create financial baselines]]

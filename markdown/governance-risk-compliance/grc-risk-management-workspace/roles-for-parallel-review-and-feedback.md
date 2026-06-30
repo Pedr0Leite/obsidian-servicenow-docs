@@ -54,7 +54,7 @@ sn\_risk\_workspace.IT\_risk\_manager
 
 </td><td>
 
-Users with this role can [[create-feedback|create feedback]] on a record they're reviewing, suggesting overall improvements, or changes to specific fields in the record.
+Users with this role can create feedback on a record they're reviewing, suggesting overall improvements, or changes to specific fields in the record.
 
 </td></tr><tr><td>
 
@@ -83,6 +83,3 @@ Users with this role have read-access to feedback.
 </td></tr></tbody>
 </table>**Parent Topic:**[Parallel Review and Feedback in Advanced Risk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/integrate-advanced-risk-with-parallel-review-feedback.md)
 
-## Related
-
-- [[create-feedback|create feedback]]

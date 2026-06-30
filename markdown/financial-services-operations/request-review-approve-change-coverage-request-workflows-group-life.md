@@ -16,7 +16,7 @@ Learn how agents, using the change member info workflows, resolve service reques
 
 The following diagram shows how the application helps agents resolve a change policy membership request.
 
-\[Omitted image "change-membership-workflow.png"\] Alt text: Workflow that shows how a change membership request for a policy is resolved using the [[group-life-servicing|Group Life Servicing]] application. For the text description, refer to the workflow steps that follow.
+\[Omitted image "change-membership-workflow.png"\] Alt text: Workflow that shows how a change membership request for a policy is resolved using the Group Life Servicing application. For the text description, refer to the workflow steps that follow.
 
 The insurance policy admin can review and customize this predefined flow based on the business needs of your organization.
 
@@ -53,6 +53,3 @@ The following workflow routes the case and tasks for changing membership for a p
 
 The case is complete, and the state and stage of the case are set to Closed Complete.
 
-## Related
-
-- [[group-life-servicing|Group Life Servicing]]

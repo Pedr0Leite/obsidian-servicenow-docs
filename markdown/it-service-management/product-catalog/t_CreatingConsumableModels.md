@@ -22,7 +22,7 @@ Role required: model\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ProductCatalog|Product Catalog]]** &gt; **Product Model** &gt; **Consumable [[c_Models|Models]]**.
+1.  Navigate to **All** &gt; **Product Catalog** &gt; **Product Model** &gt; **Consumable Models**.
 
 2.  Click **New**.
 
@@ -30,15 +30,10 @@ Role required: model\_manager
 
     For general field descriptions, see [Model form fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/r_ModelFormFields.md). There are no fields specific to consumable models.
 
-    Any [[c_ReceiveAConsumableAsset|consumable assets]] you create and assign to the new model are displayed in the **Consumables** related list on the model record.
+    Any consumable assets you create and assign to the new model are displayed in the **Consumables** related list on the model record.
 
 4.  Click **Submit**.
 
 
 **Parent Topic:**[Models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/c_Models.md)
 
-## Related
-
-- [[c_ProductCatalog|Product Catalog]]
-- [[c_Models|Models]]
-- [[c_ReceiveAConsumableAsset|Consumable assets]]

@@ -43,7 +43,7 @@ Notes:
 
     **Important:** The authToken is how Threekit determines which of its environments will serve the visual asset: production or non-production. Therefore, be sure that the production CPQ environment passes the Threekit production authToken; nonproduction CPQ environments must pass the Threekit non-production authToken.
 
-    When copying a layout from one CPQ environment to another, be aware that this manual edit must be made. Otherwise, non-production Threekit assets may be inadvertently displayed in CPQ production [[layouts|layouts]].
+    When copying a layout from one CPQ environment to another, be aware that this manual edit must be made. Otherwise, non-production Threekit assets may be inadvertently displayed in CPQ production layouts.
 
 -   `assetIdField` defines the name of the CPQ text field that holds the Threekit asset IDs, as provided by Threekit. In this way, CPQ can pass a dynamic Threekit asset ID. This helps Threekit optimize image load times. This feature provides flexibility, should the Threekit model need to be broken into two or more asset definitions to facilitate a better user experience.
 
@@ -52,12 +52,7 @@ Notes:
 -   `apiSubdomain`: The subdomain of your Threekit environment URL.
 -   `eventFields` contains key-value pairs where each key is the variable names of the CPQ field passed to Threekit. The corresponding values are the variable names, as defined in Threekit.
 
-To learn more about the use of Threekit visualization with a set repeater, see [[use-case-pairing-set-repeaters-and-visualization-components|Use case: Pairing set repeaters and visualization components]]
+To learn more about the use of Threekit visualization with a set repeater, see [Use case: Pairing set repeaters and visualization components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/use-case-pairing-set-repeaters-and-visualization-components.md)
 
-For a discussion of the features available in supported visualization applications in integration with CPQ, see [[logik-io-integration-wtih-visualization-tools|Integrating CPQ with visualization tools]].
+For a discussion of the features available in supported visualization applications in integration with CPQ, see [Integrating CPQ with visualization tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/logik-io-integration-wtih-visualization-tools.md).
 
-## Related
-
-- [[use-case-pairing-set-repeaters-and-visualization-components|use case pairing set repeaters and visualization components]]
-- [[logik-io-integration-wtih-visualization-tools|Integrating CPQ with visualization tools]]
-- [[layouts|Layouts]]

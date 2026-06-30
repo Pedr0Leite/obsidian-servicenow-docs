@@ -16,7 +16,7 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 The **glide.sc.req\_for.roles.default** property defines a default behavior for the retrieveAddress API.
 
-The **glide.sc.req\_for.roles.default** system property defines a default behavior for the **retrieveAddress** API. When there are no roles given in the **glide.sc.req\_for.roles** property, the client callable script include **ScriptServiceCatalogGetLocation** can be called by any unprivileged logged-in user and can retrieve the address of any other [[users|users]] in the system.
+The **glide.sc.req\_for.roles.default** system property defines a default behavior for the **retrieveAddress** API. When there are no roles given in the **glide.sc.req\_for.roles** property, the client callable script include **ScriptServiceCatalogGetLocation** can be called by any unprivileged logged-in user and can retrieve the address of any other users in the system.
 
 Ensure that the property **glide.sc.req\_for.roles.default** is set to `deny`.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -96,7 +96,7 @@ Security risk
 -   CVSS rating: Medium
 -   Security risk details:
 
-If **glide.sc.req\_for.roles.default** is not set to the recommended value of `deny` and the value of **glide.sc.req\_for.roles** is empty, then any user can [[c_requestAPI|request]] items for other users allowing unauthorized resource access.
+If **glide.sc.req\_for.roles.default** is not set to the recommended value of `deny` and the value of **glide.sc.req\_for.roles** is empty, then any user can request items for other users allowing unauthorized resource access.
 
 
 </td></tr><tr><td>
@@ -118,9 +118,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]
-- [[c_requestAPI|request]]

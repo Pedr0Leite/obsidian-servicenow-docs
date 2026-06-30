@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Project Workspace, Project Workspace ref
 
 # Action form of Project Workspace
 
-Learn about the fields on the [[action-form|Action form]] of the [[project-workspace-landing-page|Project Workspace]]. Use this form to add an action to your projects.
+Learn about the fields on the Action form of the Project Workspace. Use this form to add an action to your projects.
 
 <table id="table_fmt_rs2_1vb"><thead><tr><th>
 
@@ -143,7 +143,3 @@ Information about the action. Add work notes to communicate about the status of 
 </td></tr></tbody>
 </table>**Parent Topic:**[Form field information for Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/form-field-information-for-project-workspace.md)
 
-## Related
-
-- [[action-form|Action form]]
-- [[project-workspace-landing-page|Project Workspace]]

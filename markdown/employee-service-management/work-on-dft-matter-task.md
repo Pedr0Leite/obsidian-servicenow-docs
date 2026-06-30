@@ -20,7 +20,7 @@ Role required: sn\_lg\_ops.legal\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Legal Request** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
 2.  Click the list icon \(\[Omitted image "lsd-lcc-list-icon.png"\] Alt text: List icon\).
 
@@ -36,7 +36,7 @@ Role required: sn\_lg\_ops.legal\_user
 
     2.  On the Data Source Details form, fill in the required fields.
 
-        **Note:** The Data Source Details form has a different set of fields as configured in the data source. For more information, see [[configure-forensics-search-sources|Configure a data source for digital forensics]].
+        **Note:** The Data Source Details form has a different set of fields as configured in the data source. For more information, see [Configure a data source for digital forensics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/configure-forensics-search-sources.md).
 
     3.  If you have notified the custodians of their data or device being on legal hold, select **Hold notice issued**.
 
@@ -44,7 +44,7 @@ Role required: sn\_lg\_ops.legal\_user
 
     5.  Click **Save**.
 
-7.  In the **[[activity-lxp|Activity]]** section of the task, enter comments or add attachments.
+7.  In the **Activity** section of the task, enter comments or add attachments.
 
 8.  Click **Mark as Complete**.
 
@@ -53,11 +53,5 @@ Role required: sn\_lg\_ops.legal\_user
 
 The matter task is completed and sent to the matter owner for approval.
 
-**Parent Topic:**[[managing-legal-dft-request|Managing digital forensics requests]]
+**Parent Topic:**[Managing digital forensics requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/managing-legal-dft-request.md)
 
-## Related
-
-- [[configure-forensics-search-sources|Configure a data source for digital forensics]]
-- [[managing-legal-dft-request|Managing digital forensics requests]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[activity-lxp|Activity]]

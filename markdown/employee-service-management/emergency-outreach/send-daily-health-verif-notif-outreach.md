@@ -14,7 +14,7 @@ breadcrumb: [Emergency Outreach, Emergency Response Management, Employee Service
 
 # Send notifications for daily health verification
 
-Use [[emergency-outreach|Emergency Outreach]] to notify users to report their daily health status.
+Use Emergency Outreach to notify users to report their daily health status.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Users must have the Now® Mobile app installed on their phones to receive mobile
 
 Note the following requirements to be able to send and receive SMS notifications:
 
--   Your company must have a [[safe-workplace|Safe Workplace]] suite subscription and [[employee-readiness-core|Employee Readiness Core]] installed.
+-   Your company must have a Safe Workplace suite subscription and Employee Readiness Core installed.
 -   Your company must have a Twilio account and phone number.
 -   The Notify plug-in and the Notify-Twilio Direct driver must be enabled.
 -   The Label for your number in **Notify** &gt; **Messages** must be set to **Outreach**.
@@ -73,7 +73,7 @@ Keep the default **Mode** value of **None**. The outreach is sent when you selec
     -   For outreaches that are only sent once, schedule the date and time that you want to send the outreach in the **Starting** field.
 3.  \(Optional\) To send the outreach based on the time zone set in the user profile, select the **Send in local time** check box.
 
-The outreach messages [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] a send time based on the time zone of the user sending the notification. For example, if the sender is in the US Pacific time zone, an outreach scheduled to be sent at 4:30 p.m. shows a send time of 16:30:00 for users in that time zone and 18:30:00 \(6:30 p.m.\) for users in the US Central time zone because the Pacific time zone is two hours earlier than the Central time zone.
+The outreach messages reference a send time based on the time zone of the user sending the notification. For example, if the sender is in the US Pacific time zone, an outreach scheduled to be sent at 4:30 p.m. shows a send time of 16:30:00 for users in that time zone and 18:30:00 \(6:30 p.m.\) for users in the US Central time zone because the Pacific time zone is two hours earlier than the Central time zone.
 
 </td></tr></tbody>
 </table>    **Note:**
@@ -157,7 +157,7 @@ Modify the subject and body. The notification includes the link to the daily hea
 
 1.  Select the **Now Mobile Push Notification** check box.
 
-The check box is active if the ServiceNow NowMobile App Screens and Applet Launcher \[com.glide.mobile-employee\] is activated. The push [[ec-notification-content|notification content]] appears when the check box is active.
+The check box is active if the ServiceNow NowMobile App Screens and Applet Launcher \[com.glide.mobile-employee\] is activated. The push notification content appears when the check box is active.
 
 2.  Modify the push message text as desired.
  Push notifications use the ServiceNow Request Application notification device. When mobile application is registered to an instance, this notification device is automatically created in the user's notification preferences. Ensure that this device is active for the users that you want to receive the push notification.
@@ -213,10 +213,3 @@ For example, say you send the daily health notification to Zane from August 1 to
 
 [Send a readiness survey and view responses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/send-eo-outreach-survey.md)
 
-## Related
-
-- [[emergency-outreach|Emergency Outreach]]
-- [[safe-workplace|Safe Workplace]]
-- [[employee-readiness-core|Employee Readiness Core]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[ec-notification-content|Notification content]]

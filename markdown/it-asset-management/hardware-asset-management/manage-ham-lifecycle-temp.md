@@ -14,12 +14,12 @@ breadcrumb: [Use, Hardware Asset Management, IT Asset Management]
 
 # Manage the lifecycle of hardware models with calculated lifecycle templates
 
-Manage the complete lifecycle of hardware [[c_Models|models]] by creating calculated lifecycle templates and associating these templates with the models.
+Manage the complete lifecycle of hardware models by creating calculated lifecycle templates and associating these templates with the models.
 
 -   **[Create Calculated lifecycle templates in the Hardware Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-calc-model-lc-temp-ham.md)**  
 Create Calculated lifecycle templates to manage the complete lifecycle of hardware models efficiently.
 -   **[Associate a hardware model with a Calculated lifecycle template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/associate-hardware-model-cal-temp.md)**  
-[[associate-hardware-model-cal-temp|Associate a hardware model with a Calculated lifecycle template]] to populate the lifecycle details of the model automatically.
+Associate a hardware model with a Calculated lifecycle template to populate the lifecycle details of the model automatically.
 
 **Parent Topic:**[Using Hardware Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/using-ham-classic.md)
 
@@ -30,7 +30,7 @@ Create Calculated lifecycle templates to manage the complete lifecycle of hardwa
 
 [Work with hardware normalization]()
 
-[Manage [[asset-bundles-concept|asset bundles]] from your inventory]()
+[Manage asset bundles from your inventory]()
 
 [Manage your inventory through pallet assets]()
 
@@ -52,7 +52,7 @@ Create Calculated lifecycle templates to manage the complete lifecycle of hardwa
 
 [Request a Hardware Asset Refresh]()
 
-[Manage your expiring [[c_Contracts|contracts]] for leased hardware assets]()
+[Manage your expiring contracts for leased hardware assets]()
 
 [Reclaim hardware assets]()
 
@@ -74,7 +74,7 @@ Create Calculated lifecycle templates to manage the complete lifecycle of hardwa
 
 [Configure the Total Cost of Ownership of assets]()
 
-[Manage [[ham-landing-page|Hardware Asset Management]] subscriptions]()
+[Manage Hardware Asset Management subscriptions]()
 
 [Manage repair of defective assets in your stockroom in the Hardware Asset Workspace]()
 
@@ -90,10 +90,3 @@ Create Calculated lifecycle templates to manage the complete lifecycle of hardwa
 
 [Update associated Decision tables for HAM flows]()
 
-## Related
-
-- [[c_Models|Models]]
-- [[associate-hardware-model-cal-temp|Associate a hardware model with a Calculated lifecycle template]]
-- [[asset-bundles-concept|Asset bundles]]
-- [[c_Contracts|Contracts]]
-- [[ham-landing-page|Hardware Asset Management]]

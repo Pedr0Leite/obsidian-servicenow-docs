@@ -27,7 +27,7 @@ Role required: User must have contributor access to the knowledge base.
 
 ## Procedure
 
-1.  [[edit-knowledge-article|Edit a knowledge article]].
+1.  Edit a knowledge article.
 
 2.  Change the **Knowledge Base** field value.
 
@@ -42,6 +42,3 @@ Role required: User must have contributor access to the knowledge base.
 
 **Parent Topic:**[Creating and maintaining articles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/creating-and-maintaining-articles.md)
 
-## Related
-
-- [[edit-knowledge-article|Edit a knowledge article]]

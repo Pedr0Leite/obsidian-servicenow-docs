@@ -14,13 +14,13 @@ breadcrumb: [Non-persistent VDI monitoring configuration, Configure, Digital End
 
 # Install Agent Client Collector on a non-persistent VDI reference device
 
-Install Agent Client Collector \(ACC\) on the [[reference-for-itsm-mobile-agent|reference]] device used to create the non-persistent VDI golden image. The mid-less installation method, combined with the `LOCALUSERNAME="SYSTEM"` parameter and a non-persistent setting in `acc.yml`, configures the agent to operate correctly across copied VDI sessions.
+Install Agent Client Collector \(ACC\) on the reference device used to create the non-persistent VDI golden image. The mid-less installation method, combined with the `LOCALUSERNAME="SYSTEM"` parameter and a non-persistent setting in `acc.yml`, configures the agent to operate correctly across copied VDI sessions.
 
 ## Before you begin
 
 Verify that the reference device has the following before creating the golden image:
 
--   [[dex-landing|Digital End-User Experience]] Application and Device Health 3.2.3 or higher.
+-   Digital End-User Experience Application and Device Health 3.2.3 or higher.
 -   Access to create and configure the non-persistent VDI golden image.
 -   Administrator access on the reference device.
 -   Network access from the reference device to your Agent Client Collector gateway and your ServiceNow instance.
@@ -64,7 +64,3 @@ Install the DEX browser extension on the reference device. See [Enable DEX brows
 
 Prepare the reference device for copying. See [Prepare non-persistent VDI reference device](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/prepare-np-vdi-golden-image.md).
 
-## Related
-
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[dex-landing|Digital End-User Experience]]

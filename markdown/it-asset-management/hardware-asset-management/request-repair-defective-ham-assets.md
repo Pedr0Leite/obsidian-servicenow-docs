@@ -34,7 +34,7 @@ Consider the following points when you create a repair order:
 -   **[Request repair of hardware assets using Service Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/repair-req-ham-assets-using-catalog.md)**  
 Submit a Service Catalog request to repair hardware assets that are defective or pending repair in your stockroom.
 -   **[Create repair orders for hardware assets in the Inventory view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/repair-orders-ham-assets-in-inventory-view.md)**  
-Request repair of hardware assets that are defective or pending repair by creating a repair order in the [[inventory-view-am|Inventory view]] of the [[using-ham-workspace|Hardware Asset Workspace]].
+Request repair of hardware assets that are defective or pending repair by creating a repair order in the Inventory view of the Hardware Asset Workspace.
 -   **[Request repair of a hardware asset using the Repair option](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/repair-requests-using-asset-form-ham.md)**  
 Request repair of a defective hardware asset in your stockroom directly through an option on the asset form.
 
@@ -47,7 +47,3 @@ Request repair of a defective hardware asset in your stockroom directly through 
 
 [Record time worked on asset repair tasks in the Hardware Asset Workspace]()
 
-## Related
-
-- [[inventory-view-am|Inventory view]]
-- [[using-ham-workspace|Hardware Asset Workspace]]

@@ -14,7 +14,7 @@ breadcrumb: [Create a demand, Use, Demand Management, Project Portfolio Manageme
 
 # Associate monetary and non-monetary benefit plans
 
-[[associate-benefit-plans-agile-epic|Associate monetary and non-monetary benefit plans]], so that you can capture the potential benefits \(financial and non-financial\) accrued by the demand.
+Associate monetary and non-monetary benefit plans, so that you can capture the potential benefits \(financial and non-financial\) accrued by the demand.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ You can associate a monetary benefit plan with a non-monetary benefit plan and v
 
 1.  Navigate to **All** &gt; **Demand** &gt; **Demands** &gt; **All**.
 
-2.  Open the required [[demand-form|demand form]].
+2.  Open the required demand form.
 
 3.  Select the Monetary Benefit Plans or Non-monetary Benefit Plans related list.
 
@@ -52,7 +52,7 @@ Action
 
 </td><td>
 
-On the [[benefit-plan-form-project-management|Benefit Plan form]], fill in the **Associated benefit** field with the benefit plan that you want to associate.
+On the Benefit Plan form, fill in the **Associated benefit** field with the benefit plan that you want to associate.
 
 </td></tr><tr><td id="d213123e120">
 
@@ -78,8 +78,3 @@ Select the **View Associated benefit plan** related link to view the associated 
 
 **Parent Topic:**[Create a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_CreatingDemands.md)
 
-## Related
-
-- [[associate-benefit-plans-agile-epic|Associate monetary and non-monetary benefit plans]]
-- [[demand-form|Demand form]]
-- [[benefit-plan-form-project-management|Benefit Plan form]]

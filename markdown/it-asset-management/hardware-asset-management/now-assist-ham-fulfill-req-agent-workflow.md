@@ -17,7 +17,7 @@ breadcrumb: [Fulfilling hardware asset requests, Use, Hardware Asset Management,
 
 Use the Help manage hardware asset requests agentic workflow, driven by AI agents, to handle your employees' hardware asset requests automatically. The AI agents fulfill requests by either consuming the available local stock, or by generating transfer orders or purchase orders.
 
-\[Omitted video\] Description: Agentic AI for [[ham-landing-page|Hardware Asset Management]]
+\[Omitted video\] Description: Agentic AI for Hardware Asset Management
 
 **Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 
@@ -25,7 +25,7 @@ Use the Help manage hardware asset requests agentic workflow, driven by AI agent
 
 The AI agents in the Help manage hardware asset requests agentic workflow help to speed up request resolution, improve operational efficiency, and enhance user satisfaction. This agentic workflow processes and fulfills requests for hardware, consumables, bundles, and pallets.
 
-**Note:** The itil, the [[c_Procurement|procurement]]\_user, and the now\_assist\_panel\_user roles have access to the Now Assist panel. The fulfiller needs the itil and procurement\_user roles if you have the Now Assist for IT Service Management \(ITSM\) store application installed. If you have the [[now-assist-ham|Now Assist for Hardware Asset Management \(HAM\)]] store application but not the Now Assist for IT Service Management \(ITSM\) store application, then the fulfiller requires the itil, procurement\_user, and now\_assist\_panel\_user roles to fulfill the request via the Now Assist panel trigger.
+**Note:** The itil, the procurement\_user, and the now\_assist\_panel\_user roles have access to the Now Assist panel. The fulfiller needs the itil and procurement\_user roles if you have the Now Assist for IT Service Management \(ITSM\) store application installed. If you have the Now Assist for Hardware Asset Management \(HAM\) store application but not the Now Assist for IT Service Management \(ITSM\) store application, then the fulfiller requires the itil, procurement\_user, and now\_assist\_panel\_user roles to fulfill the request via the Now Assist panel trigger.
 
 .
 
@@ -35,7 +35,7 @@ The AI agents in the Help manage hardware asset requests agentic workflow help t
 
     -   **Auto-consume**: Automatically use the available local stock.
 
-        Automatic consumption of local stock happens when a minimum of one stockroom serving the location of the requester has the **Auto-consume** option enabled. If several [[c_Stockrooms|stockrooms]] at the location of the requester have the **Auto-consume** option enabled, assets are first consumed from the stockroom with the highest available quantity. If there are still assets needed, they’re consumed from the stockroom with the next highest quantity.
+        Automatic consumption of local stock happens when a minimum of one stockroom serving the location of the requester has the **Auto-consume** option enabled. If several stockrooms at the location of the requester have the **Auto-consume** option enabled, assets are first consumed from the stockroom with the highest available quantity. If there are still assets needed, they’re consumed from the stockroom with the next highest quantity.
 
     -   **Auto-transfer**: Automatically transfer stock from another stockroom.
 
@@ -120,7 +120,7 @@ Replenish stock or configure an alternate stockroom
 
 </td></tr><tr><td>
 
-No [[c_ManageVendorCatalogItems|vendor catalog items]] available
+No vendor catalog items available
 
 </td><td>
 
@@ -149,7 +149,7 @@ Link a vendor catalog item to the product model
             3.  If there are still assets to be sourced, the AI agent creates a purchase order to buy them from a vendor.
         2.  When assets are available in stockrooms that aren't set up for automatic sourcing, the AI agent creates a sourcing plan and asks for confirmation from the assignee of the requested item \(RITM\) or the person who started the conversation through the Now Assist panel before proceeding.
 
-            **Note:** To access the Now Assist panel after it has been activated, you should have the now\_assist\_panel\_user role. To access the Help manage hardware asset requests agentic workflow in the [[using-ham-workspace|Hardware Asset Workspace]], select the sparkle icon \[Omitted image "icon-ai-sparkle.png"\] Alt text:.
+            **Note:** To access the Now Assist panel after it has been activated, you should have the now\_assist\_panel\_user role. To access the Help manage hardware asset requests agentic workflow in the Hardware Asset Workspace, select the sparkle icon \[Omitted image "icon-ai-sparkle.png"\] Alt text:.
 
             \[Omitted image "now-assist-ham-ai-workflow.png"\] Alt text: Conversation in the Now Assist panel
 
@@ -228,11 +228,3 @@ Sources the requested item by either creating a purchase order autonomously or a
 
 **Parent Topic:**[Fulfilling hardware asset requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/fulfilling-hardware-asset-requests.md)
 
-## Related
-
-- [[ham-landing-page|Hardware Asset Management]]
-- [[c_Procurement|Procurement]]
-- [[now-assist-ham|Now Assist for Hardware Asset Management \(HAM\)]]
-- [[c_Stockrooms|Stockrooms]]
-- [[c_ManageVendorCatalogItems|Vendor catalog items]]
-- [[using-ham-workspace|Hardware Asset Workspace]]

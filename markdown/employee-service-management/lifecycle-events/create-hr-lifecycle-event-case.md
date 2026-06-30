@@ -24,11 +24,11 @@ A lifecycle event administrator must have built the lifecycle event and created 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **Create New Case**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **Create New Case**.
 
 2.  In the **Search for Employee** field, select the employee you are creating the case for.
 
-    **Note:** You can search by employee name, partial employee name, case number, or any indexed field on the [[c_HRProfileRecords|HR Profile]] of the sys\_user table.
+    **Note:** You can search by employee name, partial employee name, case number, or any indexed field on the HR Profile of the sys\_user table.
 
 3.  On the HR case creation form, under the **Case Details** section, select the HR service you are requesting for the employee.
 
@@ -43,14 +43,9 @@ A lifecycle event administrator must have built the lifecycle event and created 
 
 ## What to do next
 
-After you create a lifecycle event case, you can track the case's progress and monitor the status of the individual [[activity-lxp|activity]] sets and activities.
+After you create a lifecycle event case, you can track the case's progress and monitor the status of the individual activity sets and activities.
 
 The following GIF shows an example of an in-progress lifecycle event case.
 
 **Note:** You can drill down from the lifecycle event case list view to monitor the status of the individual activity sets and activities. You can also drill down from the individual event case form.
 
-## Related
-
-- [[case-management-workspace|Case management]]
-- [[c_HRProfileRecords|HR Profile]]
-- [[activity-lxp|Activity]]

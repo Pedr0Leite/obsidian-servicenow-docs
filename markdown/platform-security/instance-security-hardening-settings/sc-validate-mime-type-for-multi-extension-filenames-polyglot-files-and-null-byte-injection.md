@@ -18,7 +18,7 @@ Use a system property to prevent attachments from bypassing MIME-type restrictio
 
 Use the **glide.attachment.enable\_secure\_filename\_validation** system property to enable strict validation of attachment file names. This change to prevents attachments from bypassing MIME-type restrictions. When set to true, the platform performs full file name sanitization and rejects unsafe patterns that could otherwise be used to upload malicious files.
 
-Add a record to the [[ca-system-properties|System Properties]] \[sys\_properties\] table with the name `glide.attachment.enable_secure_filename_validation` and a value of `true`.
+Add a record to the System Properties \[sys\_properties\] table with the name `glide.attachment.enable_secure_filename_validation` and a value of `true`.
 
 ## More information
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -125,7 +125,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Validation, sanitization, and encoding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/validation-sanitization-encoding.md)
 
-## Related
-
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]

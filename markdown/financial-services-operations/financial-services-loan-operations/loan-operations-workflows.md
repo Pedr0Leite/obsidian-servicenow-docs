@@ -14,7 +14,7 @@ breadcrumb: [Use, Loan Operations, Banking applications, Financial Services Oper
 
 # Financial Services Loan Operations workflows
 
-The [[loan-ops-landing-page|Financial Services Loan Operations]] application installs automated workflows for loan servicing. These workflows enable routing of cases and tasks to different departments, including the loan, document, and credit agents.
+The Financial Services Loan Operations application installs automated workflows for loan servicing. These workflows enable routing of cases and tasks to different departments, including the loan, document, and credit agents.
 
 ## Workflows available with the application
 
@@ -74,7 +74,7 @@ Covenant Breach
 
 </td><td>
 
-Covenant Breach**Note:** This workflow is initiated from the [[fso-credit-operations-landing-page|Financial Services Credit Operations]] application.
+Covenant Breach**Note:** This workflow is initiated from the Financial Services Credit Operations application.
 
 </td></tr><tr><td>
 
@@ -119,7 +119,3 @@ The following is a typical loan workflow in the Financial Services Loan Operatio
 6.  An authorization task is generated to review and approve the loan request.
 7.  After the authorization, a loan update task is generated. If the bank has enabled an integration, the loan account could get automatically updated in the core system.
 
-## Related
-
-- [[loan-ops-landing-page|Financial Services Loan Operations]]
-- [[fso-credit-operations-landing-page|Financial Services Credit Operations]]

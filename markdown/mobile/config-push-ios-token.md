@@ -12,7 +12,7 @@ breadcrumb: [Push notifications, Before implementation, Configuration detail, Co
 
 # Configure push applications for iOS branded apps using a token
 
-Use [[sg-mobile-security-push-notif|push notifications]] on your branded ServiceNow mobile apps for iOS using token-based authentication.
+Use push notifications on your branded ServiceNow mobile apps for iOS using token-based authentication.
 
 ## Before you begin
 
@@ -28,8 +28,8 @@ Role required: admin
 
 2.  Open the record for the push application that you want to modify.
 
-    -   For the [[mobile-experience|Mobile Agent app]], select **ServiceNow Mobile Application**.
-    -   For the [[now-mobile-app|Now Mobile app]], select **ServiceNow Request Application**.
+    -   For the Mobile Agent app, select **ServiceNow Mobile Application**.
+    -   For the Now Mobile app, select **ServiceNow Request Application**.
     If you are using a branded mobile application, select the record for the branded app. For example, select **ServiceNow Intune Mobile Application** if you are using the Microsoft Intune branded application.
 
 3.  In the **Push** field, change the value to **Direct**.
@@ -60,11 +60,5 @@ Role required: admin
 9.  On the push application form, select **Update**.
 
 
-**Parent Topic:**[[sg-mobile-push-notifications|Mobile push notifications]]
+**Parent Topic:**[Mobile push notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-push-notifications.md)
 
-## Related
-
-- [[sg-mobile-push-notifications|Mobile push notifications]]
-- [[sg-mobile-security-push-notif|Push notifications]]
-- [[mobile-experience|Mobile Agent app]]
-- [[now-mobile-app|Now Mobile app]]

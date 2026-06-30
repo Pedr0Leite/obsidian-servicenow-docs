@@ -14,7 +14,7 @@ breadcrumb: [Use, AI Control Tower, Enable AI experiences]
 
 # Create a Now Assist approval task
 
-Create an [[platform-now-assist-landing|Now Assist]] approval task to evaluate the assets. The Now Assist approval task is a sub task of an approval request where you will need [[approvals|approvals]] from other organizations or entities like Legal review, Security review, Data review, Piracy review etc.
+Create an Now Assist approval task to evaluate the assets. The Now Assist approval task is a sub task of an approval request where you will need approvals from other organizations or entities like Legal review, Security review, Data review, Piracy review etc.
 
 ## Before you begin
 
@@ -42,7 +42,4 @@ Role required: admin
 
     A Now Assist Approval task of an approval request is created.
 
-## Related
 
-- [[platform-now-assist-landing|Now Assist]]
-- [[approvals|Approvals]]

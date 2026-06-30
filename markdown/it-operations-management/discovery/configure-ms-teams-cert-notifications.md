@@ -25,7 +25,7 @@ Role required: pki\_admin or admin.
 
 ## About this task
 
-The Microsoft Teams integration uses the ServiceNow Microsoft Teams spoke to deliver notifications. A scheduled job in [[cert-inventory-mgmt|Certificate Inventory and Management]] regularly checks the expiry dates of certificates stored in the **valid\_to** field of the Certificate \[cmdb\_ci\_certificate\] table. When certificates expire or are nearing expiration, the system triggers a subflow that sends notifications to the configured Microsoft Teams channel.
+The Microsoft Teams integration uses the ServiceNow Microsoft Teams spoke to deliver notifications. A scheduled job in Certificate Inventory and Management regularly checks the expiry dates of certificates stored in the **valid\_to** field of the Certificate \[cmdb\_ci\_certificate\] table. When certificates expire or are nearing expiration, the system triggers a subflow that sends notifications to the configured Microsoft Teams channel.
 
 ## Procedure
 
@@ -73,6 +73,3 @@ Certificate notifications are sent to the relevant Microsoft Teams channel as co
 
 **Parent Topic:**[Certificate alerts and notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cert-inventory-mgmt-workflow.md)
 
-## Related
-
-- [[cert-inventory-mgmt|Certificate Inventory and Management]]

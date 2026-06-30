@@ -14,7 +14,7 @@ breadcrumb: [Microsoft SCCM, Service Graph Connectors, Integrating third-party d
 
 # Enable Software Editions in Service Graph Connector for Microsoft SCCM
 
-Enable software editions so that you can gather edition information for products such as Adobe Acrobat, Microsoft SQL Server, and Windows Exchange Server into the [[cmdb-integration-sccm|Service Graph Connector for Microsoft SCCM]].
+Enable software editions so that you can gather edition information for products such as Adobe Acrobat, Microsoft SQL Server, and Windows Exchange Server into the Service Graph Connector for Microsoft SCCM.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ You can set up the ServiceNow Instance on the Service Graph Connector for Micros
 
 2.  Select the Software Edition scheduled import you created to edit this import record.
 
-3.  Select the **Active** [[check-box|check box]].
+3.  Select the **Active** check box.
 
 4.  Click **Update**.
 
@@ -56,7 +56,3 @@ You can verify that the edition information has been gathered by doing the follo
 
 **Note:** If the displayed completion code is `Success`, then the software edition data source was executed successfully. If the displayed completion code is `Error`, then there is an error that must be fixed.
 
-## Related
-
-- [[cmdb-integration-sccm|Service Graph Connector for Microsoft SCCM]]
-- [[check-box|Check box]]

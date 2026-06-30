@@ -18,7 +18,7 @@ Popular topics displays the most sought out information employees have searched 
 
 \[Omitted image "popular-topics-nm.png"\] Alt text: Popular topic widget highlighted on the Help center tab in Now Mobile.
 
-[[employee-center-landing-page|Employee Center]] uses an algorithm to determine which topics appear on the widget. [[config-popular-topics|Popular topics widget]] contains topics, Service Catalog items and Knowledge Base articles that have been viewed the most number of times, and have higher popularity. Now Mobile® uses the same algorithm used on the portal.
+Employee Center uses an algorithm to determine which topics appear on the widget. Popular topics widget contains topics, Service Catalog items and Knowledge Base articles that have been viewed the most number of times, and have higher popularity. Now Mobile® uses the same algorithm used on the portal.
 
 The popularity is calculated based on a scheduled job that runs daily. The algorithm takes into account all the search history for different topics since the configuration of the Employee Center portal.
 
@@ -26,7 +26,3 @@ For more information on the Popular topics configuration, see [Popular topics wi
 
 **Parent Topic:**[Configuring Employee Center for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-mobile-configrations.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[config-popular-topics|Popular topics widget]]

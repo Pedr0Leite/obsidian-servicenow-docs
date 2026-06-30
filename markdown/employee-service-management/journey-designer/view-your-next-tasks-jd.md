@@ -22,7 +22,7 @@ Role required: employee
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Journeys** &gt; **My Journeys**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **Journeys** &gt; **My Journeys**.
 
 2.  Your next tasks widget will show you the next ten tasks that need your attention.
 
@@ -33,6 +33,3 @@ Role required: employee
 
 **Parent Topic:**[Employees view and complete journeys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-employee-journey-tasks.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

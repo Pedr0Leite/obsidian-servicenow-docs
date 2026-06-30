@@ -14,7 +14,7 @@ breadcrumb: [Customizing Password Reset processes, Configuring Password Reset, P
 
 # Create a Password Reset verification from an existing verification
 
-The [[password-reset-landing-page|Password Reset]] application includes several example verifications that you can use as they are or as the basis for a custom verification. If the [[verification-types-in-the-base-system|verification types in the base system]] do not meet your needs, you can create a custom verification type.
+The Password Reset application includes several example verifications that you can use as they are or as the basis for a custom verification. If the verification types in the base system do not meet your needs, you can create a custom verification type.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: password\_reset\_admin
 
 ## About this task
 
-**Note:** The [[win-password-reset-overview|Password Reset Windows Application]] does not support custom verifications.
+**Note:** The Password Reset Windows Application does not support custom verifications.
 
 ## Procedure
 
@@ -39,8 +39,3 @@ Role required: password\_reset\_admin
 
 **Parent Topic:**[Customizing Password Reset processes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/customizing-password-reset.md)
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]
-- [[verification-types-in-the-base-system|Verification types in the base system]]
-- [[win-password-reset-overview|Password Reset Windows Application]]

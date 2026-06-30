@@ -16,13 +16,13 @@ breadcrumb: [Working with Security Incident Records, Use, Security Incident Resp
 
 The Overview section on the workspace presents the key information associated with the security incident.
 
-The donut charts are drill down enabled, when an analyst selects any of the chart items, then it navigates you to the respective record with a filtered list view of items within that corresponding tab. For example, if **Malicious [[c_Observables|Observables]]** is selected it takes you to the observables with a filtered list view of malicious observables on the **Related Records** tab.
+The donut charts are drill down enabled, when an analyst selects any of the chart items, then it navigates you to the respective record with a filtered list view of items within that corresponding tab. For example, if **Malicious Observables** is selected it takes you to the observables with a filtered list view of malicious observables on the **Related Records** tab.
 
 The Overview section displays the following:
 
 -   Description of the security incident.
 -   Business impact details such as the configuration items by asset type and affected users by criticality - whether VIP users or other users.
--   [[threat-intel-landing-page|Threat intelligence]] items such as observables by finding whether the observables or malicious or unknown, and by type.
+-   Threat intelligence items such as observables by finding whether the observables or malicious or unknown, and by type.
 -   Response Tasks by state and assignment group.
 -   Related security incidents comprising child security incidents by state - whether open or closed, and similar security incidents by state - whether open or closed.
 -   The Resolution section is displayed when an incident moves to the Review state, then the resolution section is displayed within the **Overview** section with an ability to view the post incident review.
@@ -61,7 +61,3 @@ The Overview section displays the following:
 
 [View and filter the incident timeline]()
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[threat-intel-landing-page|Threat Intelligence]]

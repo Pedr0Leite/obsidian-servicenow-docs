@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  From the [[autocad-v2-config-layout|CAD Configuration]] home page, select the More actions menu \( \[Omitted image "more-options-icon.png"\] Alt text: More options icon.\).
+1.  From the CAD Configuration home page, select the More actions menu \( \[Omitted image "more-options-icon.png"\] Alt text: More options icon.\).
 
 2.  Select **Manage source**.
 
@@ -43,6 +43,3 @@ Role required: admin
 
 **Next topic:**[Bulk hierarchy upload](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/bulk-upload-hierarchy.md)
 
-## Related
-
-- [[autocad-v2-config-layout|CAD configuration]]

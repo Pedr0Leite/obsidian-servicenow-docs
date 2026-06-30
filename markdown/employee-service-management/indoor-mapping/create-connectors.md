@@ -18,7 +18,7 @@ Create connectors \(stairs, elevators, escalators, ramps\) and activate the conn
 
 ## Before you begin
 
-[[Indoor-mapping|Indoor Mapping]] provides Connector Types that are enabled by default. You can create a new connector type depending on your requirement.
+Indoor Mapping provides Connector Types that are enabled by default. You can create a new connector type depending on your requirement.
 
 Role required: map admin, map editor, map editor limited
 
@@ -138,7 +138,7 @@ Select any of the following from the drop-down list:-   Up
 
 6.  Select a campus, and on the Map Studio menu, select **View Editor**.
 
-7.  From the [[view-editor-content|View Editor content]] panel on the left pane, select **+Add Connector** to add the newly added connector.
+7.  From the View Editor content panel on the left pane, select **+Add Connector** to add the newly added connector.
 
 8.  Select the connector type that you added in Step 3.
 
@@ -149,7 +149,3 @@ Select any of the following from the drop-down list:-   Up
 
 **Parent Topic:**[Manage Directions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/enable-interactive-locations.md)
 
-## Related
-
-- [[Indoor-mapping|Indoor Mapping]]
-- [[view-editor-content|View editor content]]

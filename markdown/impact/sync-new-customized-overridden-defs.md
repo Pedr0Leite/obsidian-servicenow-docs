@@ -21,7 +21,7 @@ Role required: Scan Engine Admin \(sn\_se.scan\_engine\_admin\).
 ## Procedure
 
 1.  Enable definition synchronization
-2.  Navigate to **ALL** &gt; **[[impact-landing-page|Impact]]** &gt; **Configuration** &gt; **Scan Engine Properties**.
+2.  Navigate to **ALL** &gt; **Impact** &gt; **Configuration** &gt; **Scan Engine Properties**.
 
 3.  On the **Definitions** properties tab, ensure **Enable definition synchronization** is active.
 
@@ -42,9 +42,5 @@ The definition is pushed to the production instance.
 
 To bulk sync multiple definitions, select the checkbox for each definition in the Definitions list view, then select **Sync Definition** or **Delete and Sync** from the actions menu.
 
-**Parent Topic:**[[definitions-integrations|Definitions integration]]
+**Parent Topic:**[Definitions integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/definitions-integrations.md)
 
-## Related
-
-- [[definitions-integrations|Definitions integration]]
-- [[impact-landing-page|Impact]]

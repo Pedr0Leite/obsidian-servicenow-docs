@@ -14,7 +14,7 @@ breadcrumb: [Company events, Creating employee communications, Authoring and man
 
 # Attendee List and RSVP for company events
 
-Attendee list can be viewed for [[ec-company-events|company events]].
+Attendee list can be viewed for company events.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Attendee list can be viewed for [[ec-company-events|company events]].
 
 -   **Attendee List**
 
-    When you [[create-company-event|create a company event]] you can **View attendee list** based on the number of attendees you added to the event.
+    When you create a company event you can **View attendee list** based on the number of attendees you added to the event.
 
     **Note:** When creating a company event you might have required an RSVP based on your **Attendee limit** by selecting the option for **Require RSVP**. In addition to the RSVP, you can select **Allow waitlist** for the attendees for the event.
 
@@ -59,7 +59,3 @@ Attendee list can be viewed for [[ec-company-events|company events]].
 
 **Parent Topic:**[Company events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-company-events.md)
 
-## Related
-
-- [[ec-company-events|Company events]]
-- [[create-company-event|Create a company event]]

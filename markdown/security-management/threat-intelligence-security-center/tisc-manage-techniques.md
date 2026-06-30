@@ -14,7 +14,7 @@ breadcrumb: [MITRE-ATT&amp;CK Repository, TISC Library Repository, Threat Intell
 
 # Manage Techniques
 
-Manage the techniques that are imported from the MITRE TAXII collections. The techniques contain various ways attackers have developed to employ a given tactic. You can review and deactivate techniques that are not relevant to your organization. In STIX, techniques are known as [[attack-patterns|attack patterns]].
+Manage the techniques that are imported from the MITRE TAXII collections. The techniques contain various ways attackers have developed to employ a given tactic. You can review and deactivate techniques that are not relevant to your organization. In STIX, techniques are known as attack patterns.
 
 ## Before you begin
 
@@ -24,11 +24,11 @@ Techniques represents how an adversary achieves a tactical goal by performing an
 
 ## Procedure
 
-1.  After you enable the MITRE ATT&amp;CK related feed [[data-sources|data sources]] which are available in the base system, click **Execute Now** to run the integrations and fetch the MITRE related information.
+1.  After you enable the MITRE ATT&amp;CK related feed data sources which are available in the base system, click **Execute Now** to run the integrations and fetch the MITRE related information.
 
     For more information on enabling the integrations
 
-2.  To view the MITRE ATT&amp;CK Repository data, navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Threat Intel Library** &gt; **MITRE ATT&amp;CK** &gt; **Techniques**.
+2.  To view the MITRE ATT&amp;CK Repository data, navigate to **Workspaces** &gt; **Threat Intelligence Security Center** &gt; **Threat Intel Library** &gt; **MITRE ATT&amp;CK** &gt; **Techniques**.
 
     The MITRE ATT&amp;CK techniques records are displayed. By default all the records are in enabled state.
 
@@ -116,7 +116,7 @@ Description
 
 </td><td>
 
-A description that provides more details and context about the [[threat-intelligence-intrusion-sets|intrusion set]], potentially including its purpose and its key characteristics.
+A description that provides more details and context about the intrusion set, potentially including its purpose and its key characteristics.
 
 </td></tr><tr><td>
 
@@ -174,9 +174,3 @@ Select tags to annotate or earmark records ingested into the system from this so
 </table>
 **Parent Topic:**[MITRE-ATT&amp;CK Repository](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-mitre-att-ck-framework-overview.md)
 
-## Related
-
-- [[attack-patterns|Attack patterns]]
-- [[data-sources|Data Sources]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-intelligence-intrusion-sets|Intrusion set]]

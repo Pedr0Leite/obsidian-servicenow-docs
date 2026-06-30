@@ -12,9 +12,9 @@ breadcrumb: [Playbooks in Customer Service Management, Agent tools, Organize age
 
 # Playbook page templates
 
-Use playbook page templates to create pages and page variants for use in [[csm-workspaces-configure|CSM Configurable Workspace]]. These pages and page variants provide agents with either horizontal or vertical playbooks that they can use to complete tasks and resolve cases.
+Use playbook page templates to create pages and page variants for use in CSM Configurable Workspace. These pages and page variants provide agents with either horizontal or vertical playbooks that they can use to complete tasks and resolve cases.
 
-The following page templates are available with the Playbooks for [[c_CustomerServiceManagement|Customer Service Management]] application \[com.sn\_csm\_playbook\]. For more information, see [[setting-up-csm-playbooks|Playbook plugins]].
+The following page templates are available with the Playbooks for Customer Service Management application \[com.sn\_csm\_playbook\]. For more information, see [Playbook plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/setting-up-csm-playbooks.md).
 
 |Page template|Description|
 |-------------|-----------|
@@ -23,7 +23,7 @@ The following page templates are available with the Playbooks for [[c_CustomerSe
 
 Considerations for using these page templates include the number of stages that appear in the picker and the length of the stage names. For example, longer stage names in the horizontal playbook can be truncated.
 
-**Note:** By default, the playbook page templates aren’t active. To activate a page template, see [[activate-process-based-page|Activate a playbook page or page variant]].
+**Note:** By default, the playbook page templates aren’t active. To activate a page template, see [Activate a playbook page or page variant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/activate-process-based-page.md).
 
 ## Case playbook: horizontal stages page template
 
@@ -39,7 +39,7 @@ The Case playbook: Vertical stages page template includes a vertical stage picke
 
 ## Playbook page template components
 
-The playbook page templates include modular components that enable you to quickly build [[csm-playbook-pages|playbook pages]] in [UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder-overview.md).
+The playbook page templates include modular components that enable you to quickly build playbook pages in [UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder-overview.md).
 
 <table id="table_rvn_hs3_1xb"><thead><tr><th>
 
@@ -58,7 +58,7 @@ Page header
 The page header includes record information that is displayed in the primary and secondary fields:-   The primary field displays the short description of the record.
 -   The secondary fields display the additional record information such as the priority, state, and contact or consumer details.
 
-You can configure the fields that appear in the page header. For more information, see [[customize-process-form-header|Customize the page header for a playbook page]].
+You can configure the fields that appear in the page header. For more information, see [Customize the page header for a playbook page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customize-process-form-header.md).
 
 </td></tr><tr><td>
 
@@ -68,13 +68,13 @@ Action bar
 
 The action bar contains the actions that are available to users while working on case records. The available actions are determined by factors such as the user role, case state, and other attributes.-   **Record Details**: Displays the record details.
 -   **Playbook Details**: Displays the playbook details.
--   **In-progress actions**: Provides a list of minimized [[csm-playbook-modeless-dialog|modeless dialogs]] and includes a badge that displays the number of items in the list. From this list, an agent can select an item to open the minimized comment, work note, or email.
+-   **In-progress actions**: Provides a list of minimized [modeless dialogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbook-modeless-dialog.md) and includes a badge that displays the number of items in the list. From this list, an agent can select an item to open the minimized comment, work note, or email.
 -   **Create**: Create records such as requests, incidents, and work orders.
--   **Compose**: Compose comments, work notes, and emails in [[csm-front-line-case-page-modeless-dialogs|modeless dialogs]].
+-   **Compose**: Compose comments, work notes, and emails in modeless dialogs.
 -   **Save**: Save changes to the case record.
 -   **More Actions**: Perform additional actions such as proposing a major case or reporting a knowledge gap.
 
-You can configure the actions that are included in the action bar. For more information, see [[customize-process-ui-actions-bar|Customize UI actions for a playbook page]].
+You can configure the actions that are included in the action bar. For more information, see [Customize UI actions for a playbook page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customize-process-ui-actions-bar.md).
 
 </td></tr><tr><td>
 
@@ -129,7 +129,7 @@ Activity cards
 
 </td><td>
 
-Activity cards display the details about the current activity in the activity viewer. Depending on the type of activity, the activity cards can display information such as form data, task status, SLA timers, or attachments.Agents use the cards to complete the work for each activity, such as filling in [[migration-forms|forms]], completing checklists, completing tasks, or adding attachments.
+Activity cards display the details about the current activity in the activity viewer. Depending on the type of activity, the activity cards can display information such as form data, task status, SLA timers, or attachments.Agents use the cards to complete the work for each activity, such as filling in forms, completing checklists, completing tasks, or adding attachments.
 
 </td></tr><tr><td>
 
@@ -137,7 +137,7 @@ Contact or consumer lookup
 
 </td><td>
 
-The [[csm-record-page-lookup-component|lookup component]] enables agents to look up contact or consumer information and display that information in a record card. These cards display customer information and provide quick access to details such name, email, and phone. The contact record card also includes account information.Agents can use the lookup component to do the following:
+The lookup component enables agents to look up contact or consumer information and display that information in a record card. These cards display customer information and provide quick access to details such name, email, and phone. The contact record card also includes account information.Agents can use the lookup component to do the following:
 
 -   Search for a contact or consumer.
 -   Link or unlink a contact or consumer record.
@@ -146,7 +146,7 @@ The [[csm-record-page-lookup-component|lookup component]] enables agents to look
 -   Select an email address on a lookup card to open a draft email in the email composer in a sub-tab.
 -   Select a phone number on a lookup card to make a call.
 
-For more information, see [[csm-playbook-lookup-component|Playbook lookup component]].
+For more information, see [Playbook lookup component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbook-lookup-component.md).
 
 </td></tr><tr><td>
 
@@ -157,10 +157,10 @@ Case summarization
 The case summarization component appears below the lookup component. When an agent opens a case record, the component is collapsed and in the default state.Agents can use this component to do the following:
 
 -   Summarize case details.
--   Post the summary to the [[csm-config-ws-activity-stream|activity stream]].
+-   Post the summary to the activity stream.
 -   Refresh the summary.
 
-The case summarization component requires the [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]] application to be activated and configured. For more information, see [[csm-playbook-case-summary-component|Playbook case summarization component]].
+The case summarization component requires the Now Assist for Customer Service Management \(CSM\) application to be activated and configured. For more information, see [Playbook case summarization component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbook-case-summary-component.md).
 
 </td></tr><tr><td>
 
@@ -183,17 +183,17 @@ Contextual side panel
 
 </td><td>
 
-The contextual side panel component includes different tools that agents can use to research and resolve customer issues. The contextual side panel in the Case playbook: horizontal stages page includes the following tabs.-   [[csm-playbook-activity-stream-component|Activity Stream]]
--   [[migration-agent-assist|Agent Assist]]
+The contextual side panel component includes different tools that agents can use to research and resolve customer issues. The contextual side panel in the Case playbook: horizontal stages page includes the following tabs.-   [Activity Stream](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbook-activity-stream-component.md)
+-   Agent Assist
 -   Search
--   [[csm-playbook-related-items-component|Related Items]]
+-   [Related Items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbook-related-items-component.md)
 -   Attachments
 -   Response Templates
 -   [Email Templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-email-templates.md)
 -   Templates
 -   Record Information
 
-For more information about the tabs in the contextual side panel, see [[csm-playbook-side-panel-component|Playbook contextual side panel component]].
+For more information about the tabs in the contextual side panel, see [Playbook contextual side panel component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbook-side-panel-component.md).
 
 </td></tr><tr><td>
 
@@ -229,24 +229,3 @@ With this feature, page authors can:
 
 For more information about using multiple form controllers, see [Add forms to UI Builder pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/add-forms-to-ui-builder-pages.md).
 
-## Related
-
-- [[setting-up-csm-playbooks|Playbooks in Customer Service Management]]
-- [[activate-process-based-page|Activate a playbook page or page variant]]
-- [[customize-process-form-header|Customize the page header for a playbook page]]
-- [[csm-playbook-modeless-dialog|Playbook modeless dialogs]]
-- [[customize-process-ui-actions-bar|Customize UI actions for a playbook page]]
-- [[csm-playbook-lookup-component|Playbook lookup component]]
-- [[csm-playbook-case-summary-component|Playbook case summarization component]]
-- [[csm-playbook-activity-stream-component|Playbook activity stream component]]
-- [[csm-playbook-related-items-component|Playbook related items component]]
-- [[csm-playbook-side-panel-component|Playbook contextual side panel component]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[csm-playbook-pages|Playbook pages]]
-- [[csm-front-line-case-page-modeless-dialogs|Modeless dialogs]]
-- [[migration-forms|Forms]]
-- [[csm-record-page-lookup-component|Lookup component]]
-- [[csm-config-ws-activity-stream|Activity stream]]
-- [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]]
-- [[migration-agent-assist|Agent assist]]

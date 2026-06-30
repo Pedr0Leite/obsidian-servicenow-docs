@@ -31,7 +31,7 @@ When the generative AI experience is configured for catalog item request submiss
 -   Ability to answer catalog item questions.
 -   Ability to exit the request submission process at any point.
 -   Although the following catalog item question types are supported in the conversation mode, natural language responses aren't supported:
-    -   [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
+    -   Reference
     -   Lookup select box
     -   Lookup multiple choice
     -   Requested For
@@ -49,11 +49,7 @@ When the generative AI experience is configured for catalog item request submiss
     **Note:**
 
     -   Configure the required conditions for the Virtual Agent Skills.
-    -   [[hr-service-delivery|HR Service Delivery]] Virtual Agent will be replaced with the Gen AI Virtual Agent.
+    -   HR Service Delivery Virtual Agent will be replaced with the Gen AI Virtual Agent.
 
 **Parent Topic:**[Configure Now Assist for HR Service Delivery \(HRSD\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/configure-now-assist-hr.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[hr-service-delivery|HR Service Delivery]]

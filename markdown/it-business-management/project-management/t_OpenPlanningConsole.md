@@ -34,7 +34,7 @@ Steps
 
 </th></tr></thead><tbody><tr><td id="d271062e77">
 
-**From [[project-workspace-landing-page|project workspace]]**
+**From project workspace**
 
 </td><td>
 
@@ -83,6 +83,3 @@ Steps
 
 [Create a dependency from the planning console]()
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]

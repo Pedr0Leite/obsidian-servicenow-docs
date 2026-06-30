@@ -216,8 +216,5 @@ Sales Owner
 The internal contact responsible for managing the account relationship.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[order-mgt-reference|Order Management reference]]
+</table>**Parent Topic:**[Order Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-reference.md)
 
-## Related
-
-- [[order-mgt-reference|Order Management reference]]

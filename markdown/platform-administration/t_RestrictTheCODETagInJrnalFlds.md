@@ -12,7 +12,7 @@ breadcrumb: [Render journal field entries as HTML, Journal field type, Reference
 
 # Restrict the CODE tag in journal fields
 
-You can prevent [[r_JournalFields|journal fields]] from rendering HTML code by disabling support for the `[code]` tag.
+You can prevent journal fields from rendering HTML code by disabling support for the `[code]` tag.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[r_SetArchiveRuleProcessingBehavior|System Properties]]** &gt; **UI Properties**.
+1.  Navigate to **All** &gt; **System Properties** &gt; **UI Properties**.
 
 2.  Clear the check box for **Allow support for embedding HTML code by using the \[code\] tag** \(the **glide.ui.security.allow\_codetag** property\).
 
@@ -28,7 +28,4 @@ Role required: admin
 
 3.  Click **Save**.
 
-## Related
 
-- [[r_JournalFields|Journal fields]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

@@ -26,11 +26,11 @@ Traditionally, citations were downloaded from a third-party provider but only th
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[reg-change-mgmt-landing-page|Regulatory Change Management]]** &gt; **Compliance Workspace**.
+1.  Navigate to **All** &gt; **Regulatory Change Management** &gt; **Compliance Workspace**.
 
 2.  Select the list icon \[Omitted image "list-icon-airc-ws.png"\].
 
-3.  Select **[[list-view-of-reg-alerts|Regulatory alerts]]**.
+3.  Select **Regulatory alerts**.
 
 4.  Select a regulatory alert to open it.
 
@@ -66,7 +66,3 @@ Traditionally, citations were downloaded from a third-party provider but only th
 
 [Manage and assign source document alerts]()
 
-## Related
-
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]
-- [[list-view-of-reg-alerts|Regulatory alerts]]

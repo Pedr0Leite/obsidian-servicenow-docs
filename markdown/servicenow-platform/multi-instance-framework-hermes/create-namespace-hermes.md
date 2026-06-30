@@ -29,7 +29,7 @@ Use namespaces to organize Kafka topics in logical ways. For example:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hermes-messaging-service|Hermes Messaging Service]]** &gt; **Namespaces**.
+1.  Navigate to **All** &gt; **Hermes Messaging Service** &gt; **Namespaces**.
 
 2.  Select **New**.
 
@@ -84,6 +84,3 @@ A namespace record is created in the Kafka Namespace \[sys\_kafka\_namespace\] t
 
 **Parent Topic:**[Managing namespaces in Hermes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/managing-namespaces-hermes.md)
 
-## Related
-
-- [[hermes-messaging-service|Hermes Messaging Service]]

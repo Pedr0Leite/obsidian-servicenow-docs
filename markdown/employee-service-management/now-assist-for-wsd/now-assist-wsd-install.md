@@ -14,7 +14,7 @@ breadcrumb: [Configure, Now Assist for Workplace Service Delivery \(WSD\), Workp
 
 # Install Now Assist for Workplace Service Delivery \(WSD\)
 
-install and activate [[now-assist-wsd-landing|Now Assist for Workplace Service Delivery \(WSD\)]] from ServiceNow® Store.
+install and activate Now Assist for Workplace Service Delivery \(WSD\) from ServiceNow® Store.
 
 ## Before you begin
 
@@ -23,10 +23,10 @@ The System Admin \(admin\) role is required to install the application.
 Make sure that you have installed and configured the following dependent applications:
 
 -   Now Assist for Platform \(sn\_genai\_platform\)
--   [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
--   [[workplace-case-mgmt-feat|Workplace Case Management]]
--   [[workplace-visitor-mgmt-feat|Workplace Visitor Management]]
--   [[workplace-concierge-feat|Workplace Concierge]]
+-   Workplace Reservation Management
+-   Workplace Case Management
+-   Workplace Visitor Management
+-   Workplace Concierge
 
 Role required: admin
 
@@ -46,10 +46,4 @@ Role required: admin
 
     **Note:** Installing Now Assist for Workplace Service Delivery \(WSD\) \(sn\_wsd\_gen\_ai\) activates and installs the Now Assist for Platform \(sn\_genai\_platform\).
 
-## Related
 
-- [[now-assist-wsd-landing|Now Assist for Workplace Service Delivery \(WSD\)]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[workplace-visitor-mgmt-feat|Workplace Visitor Management]]
-- [[workplace-concierge-feat|Workplace Concierge]]

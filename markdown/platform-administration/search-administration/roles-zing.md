@@ -16,13 +16,13 @@ breadcrumb: [Installed with Zing, Zing text indexing and search engine, Search a
 
 Zing is installed with these roles.
 
-To learn more about managing subscriptions, see [[managing-user-subscriptions-v2|Managing per-user subscriptions in Subscription Management]] and contact your account representative.
+To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/managing-user-subscriptions-v2.md) and contact your account representative.
 
 **Parent Topic:**[Installed with Zing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/installed-with-zing.md)
 
 ## Search application administrator \[search\_application\_admin\]
 
-Create, read, update, and delete [[defining-search-app-cfgs-ais|search application configurations]] for Zing and [[ia-ai-search|AI Search]].
+Create, read, update, and delete search application configurations for Zing and AI Search.
 
 ### Contains Roles
 
@@ -43,7 +43,7 @@ Grant this role to users who need to configure AI Search applications.
 
 ## Text search administrator \[ts\_admin\]
 
-Configure text indexes, text index groups, text index [[stop-words-ais|stop words]], and text index [[synonyms-ais|synonyms]] for Zing.
+Configure text indexes, text index groups, text index stop words, and text index synonyms for Zing.
 
 ### Contains Roles
 
@@ -61,10 +61,3 @@ None.
 
 None.
 
-## Related
-
-- [[managing-user-subscriptions-v2|Managing per-user subscriptions in Subscription Management]]
-- [[defining-search-app-cfgs-ais|Search application configurations]]
-- [[ia-ai-search|AI Search]]
-- [[stop-words-ais|Stop words]]
-- [[synonyms-ais|Synonyms]]

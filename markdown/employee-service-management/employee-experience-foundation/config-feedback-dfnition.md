@@ -30,11 +30,11 @@ Feedback definition provides you with the liberty to select how and at what poin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Experience and Service Feedback** &gt; **Feedback Definitions**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **Experience and Service Feedback** &gt; **Feedback Definitions**.
 
 2.  Select **New** to create a feedback definition for a portal page.
 
-3.  On the [[fdbck-dfnition-record|feedback definition form]], fill in the fields.
+3.  On the feedback definition form, fill in the fields.
 
     For a description of the field values, see [Feedback definition form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/fdbck-dfnition-record.md).
 
@@ -42,13 +42,13 @@ Feedback definition provides you with the liberty to select how and at what poin
 
     -   To save your changes and stay on the form, select **Save**.
     -   To save your changes and return to the Feedback Definitions \[sn\_ex\_sp\_pro\_feedback\_definition\] table, select **Submit**.
-    -   **Note:** The following feedback definitions are active on installation of [[employee-center-pro-landing|Employee Center Pro]] version 32.0.
+    -   **Note:** The following feedback definitions are active on installation of Employee Center Pro version 32.0.
 
         -   **Experience feedback**
         -   **Experience feedback for Kiosk**
         -   **Experience feedback for Virtual Agent**
         -   **Experience feedback for mobile**
-    -   You only see **Experience feedback for Kiosk** when you have the [[deskless-kiosk-overview|Employee Center Pro Kiosk]] plugin \(sn\_ex\_sp\_pro\_kiosk\) installed.
+    -   You only see **Experience feedback for Kiosk** when you have the Employee Center Pro Kiosk plugin \(sn\_ex\_sp\_pro\_kiosk\) installed.
     -   The following feedback definitions are active on installation of Employee Center Pro plugin \(sn\_ex\_sp\_pro\) version 35.0.
         -   **Star rating for experience**
         -   **Experience feedback for Kiosk**
@@ -56,7 +56,7 @@ Feedback definition provides you with the liberty to select how and at what poin
         -   **Experience feedback for mobile**
     -   If you're originally deploying the experience feedback functionality or the Employee Center Pro plugin \(sn\_ex\_sp\_pro\) itself with version 35.0, the **Star rating for experience** definition is active by default. The **Experience feedback** definition is inactive.
     -   If you're an existing user of the **Experience feedback** definition, the **Star rating for experience** definition is inactive by default. You can enable the former in Employee Center Pro plugin \(sn\_ex\_sp\_pro\) version 35.0.
-    -   If you have the [[ecbe-intro|Browser Extension for Employee Center]] plugin \(sn\_ex\_brw\_ext\) version 1.0 along with the Employee Center Pro plugin \(sn\_ex\_sp\_pro\) version 36.0, you have **Experience Feedback for Browser Extension** definition by default. The following are some key differentiators from the generic experience feedback definitions.
+    -   If you have the Browser Extension for Employee Center plugin \(sn\_ex\_brw\_ext\) version 1.0 along with the Employee Center Pro plugin \(sn\_ex\_sp\_pro\) version 36.0, you have **Experience Feedback for Browser Extension** definition by default. The following are some key differentiators from the generic experience feedback definitions.
         -   The **Star - 5 point scale** is active with the feedback definition by default. You can change it to any other form of experience feedback according to your organizational requirement.
         -   The **Page selection** only has **ecbe\_pro\_home** option for the **Included pages** field.
         -   The **Widget mode** field has **Inline** option for the experience feedback for the browser extension. For more information on the field values, see [Feedback definition form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/fdbck-dfnition-record.md).
@@ -82,10 +82,3 @@ Feedback definition provides you with the liberty to select how and at what poin
 -   Check the responses received on the experience feedback dashboard. For more information, see [Feedback Analytics dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ex-fdback-board.md).
 -   Customize the appearances of the experience flow and the workflow feedback widgets. For more information, see [Integrated service and experience feedback management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ex-fdbck-manage.md).
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[fdbck-dfnition-record|Feedback definition form]]
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[deskless-kiosk-overview|Employee Center Pro Kiosk]]
-- [[ecbe-intro|Browser Extension for Employee Center]]

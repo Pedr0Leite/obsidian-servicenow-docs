@@ -20,11 +20,11 @@ Role required: sn\_aia.admin
 
 ## About this task
 
-The first step of the guided setup enables you to define the fundamentals of the AI agent. The description, AI agent role, and list of steps fields are used by the LLM to understand how to use the AI agent, by itself or as part of an agentic workflow. Descriptions, AI agent roles, and list of steps should be clear and well-defined. For guidelines for writing these fields, see [[gg-creating-aia|Writing effectively for agentic AI]]. For an example AI agent, see [[example-aia|Example AI agent]].
+The first step of the guided setup enables you to define the fundamentals of the AI agent. The description, AI agent role, and list of steps fields are used by the LLM to understand how to use the AI agent, by itself or as part of an agentic workflow. Descriptions, AI agent roles, and list of steps should be clear and well-defined. For guidelines for writing these fields, see [Writing effectively for agentic AI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/gg-creating-aia.md). For an example AI agent, see [Example AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/example-aia.md).
 
 \[Omitted image "create-aia-new1.png"\] Alt text: AI Agent Guided Setup showcasing the different stages of configuring an AI agent.
 
-**Note:** If you have the Off Glide Conversation Server plugin \(com.glide.cs.offglide\) installed on your ServiceNow instance, then the [[now-assist-panel-premium|Premium Chat]] experience may differ from the standard experience. If you plan to use an AI agent in the Premium Chat mode, make sure to test so it works as expected.
+**Note:** If you have the Off Glide Conversation Server plugin \(com.glide.cs.offglide\) installed on your ServiceNow instance, then the Premium Chat experience may differ from the standard experience. If you plan to use an AI agent in the Premium Chat mode, make sure to test so it works as expected.
 
 ## Procedure
 
@@ -42,7 +42,7 @@ The first step of the guided setup enables you to define the fundamentals of the
 
 4.  Craft a list of steps.
 
-    You can also use an old version of a list of steps. Select **View versions** for a full list of previous versions of the field. See [[version-control|Version control]] for more information.
+    You can also use an old version of a list of steps. Select **View versions** for a full list of previous versions of the field. See [Version control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/version-control.md) for more information.
 
 5.  Determine unsupported model providers.
 
@@ -52,21 +52,21 @@ The first step of the guided setup enables you to define the fundamentals of the
 
     Make your AI agent discoverable by turning on the **Allow third-party to access this AI agent** toggle button that enables you to use your ServiceNow AI agent on other platforms. You can still use it on your ServiceNow instances as well.
 
-    See [[secondary-agent|ServiceNow agents as secondary agents]] for more information about configuring agents to use on other AI platforms.
+    See [ServiceNow agents as secondary agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/secondary-agent.md) for more information about configuring agents to use on other AI platforms.
 
 7.  Configure long-term memory options.
 
     Long-term memory for AI agents enables agents to access data outside of the specific conversation or trigger that executes it. For example, you can select the **Device and Software** category to give the AI agent access to user information about the kinds of hardware devices and software that are available to the invoking user. The AI agent can remember this information in later conversations.
 
-    -   For more information about creating LTM categories, see [[create-ltm-category|Create long-term memory category]].
-    -   For more information about selecting the categories to map them to you AI agent, see [[map-ltm-aia|Map Long-term memory category]].
+    -   For more information about creating LTM categories, see [Create long-term memory category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/create-ltm-category.md).
+    -   For more information about selecting the categories to map them to you AI agent, see [Map Long-term memory category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/map-ltm-aia.md).
 
 
-8.  Configure [[agent-learning|AI agent learning]].
+8.  Configure AI agent learning.
 
     You can enable the AI agent to learn from past interactions with the user. For example, if the user encounters a similar issue, enabling this feature could help the AI agent understand what didn't work previously, so it can recommend other options.
 
-    **Note:** When the agent learning capability is inactive at the [[ai-agent-studio|AI Agent Studio]] level, the option to enable at the AI agent level is also inactive. To enable agent learning at the AI Agent Studio level, see [[long-term-memory-aia|Set up long-term memory]].
+    **Note:** When the agent learning capability is inactive at the AI Agent Studio level, the option to enable at the AI agent level is also inactive. To enable agent learning at the AI Agent Studio level, see [Set up long-term memory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/long-term-memory-aia.md).
 
 
 ## Result
@@ -75,18 +75,5 @@ You have defined the basics of your AI agent.
 
 ## What to do next
 
-Select **Save and continue** to move to the next step, [[add-tool-aia|Add tools and information]].
+Select **Save and continue** to move to the next step, [Add tools and information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/add-tool-aia.md).
 
-## Related
-
-- [[gg-creating-aia|General guidelines for creating AI agents and agentic workflows]]
-- [[example-aia|Example AI agent]]
-- [[version-control|Version control for AI agents and agentic workflows]]
-- [[secondary-agent|ServiceNow AI agents as secondary agents]]
-- [[create-ltm-category|Create long-term memory category]]
-- [[map-ltm-aia|Map Long-term memory category]]
-- [[long-term-memory-aia|Set up long-term memory]]
-- [[add-tool-aia|Add tools and information to an AI agent]]
-- [[now-assist-panel-premium|Premium chat]]
-- [[agent-learning|AI agent learning]]
-- [[ai-agent-studio|AI Agent Studio]]

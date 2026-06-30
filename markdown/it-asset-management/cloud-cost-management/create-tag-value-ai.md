@@ -22,11 +22,11 @@ Role required: insights\_admin \[sn\_clin\_core.insights\_admin\]
 
 ## About this task
 
-**Important:** This feature is available with the [[cloud-insights-landing-page|Cloud Cost Management]] 8.0.0 version or later.
+**Important:** This feature is available with the Cloud Cost Management 8.0.0 version or later.
 
 ## Procedure
 
-1.  Navigate to **[[ci-workspace|Cloud Cost Management Workspace]]** &gt; **Operations** &gt; **Cost usage tags**.
+1.  Navigate to **Cloud Cost Management Workspace** &gt; **Operations** &gt; **Cost usage tags**.
 
 2.  Select **Tag categories**.
 
@@ -68,7 +68,7 @@ Role required: insights\_admin \[sn\_clin\_core.insights\_admin\]
 
 ## Result
 
-After a tag name is associated with its corresponding tag value, you can view the spend data of the AI service you added on the [[spend-anaytics|Spend analytics]] page. For more information, see [Spend analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/spend-anaytics.md).
+After a tag name is associated with its corresponding tag value, you can view the spend data of the AI service you added on the Spend analytics page. For more information, see [Spend analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/spend-anaytics.md).
 
 ## What to do next
 
@@ -89,8 +89,3 @@ After you add a tag value for an AI Service tag category, you must reimport the 
 
 [Schedule and manage the jobs that download Google Cloud billing data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/gcp-bill-dwnld-job-cloudin.md)
 
-## Related
-
-- [[cloud-insights-landing-page|Cloud Cost Management]]
-- [[ci-workspace|Cloud Cost Management Workspace]]
-- [[spend-anaytics|Spend analytics]]

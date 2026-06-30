@@ -14,7 +14,7 @@ breadcrumb: [Securing and encrypting MID Server data, MID Server, Manage instanc
 
 # MID Server SSH cryptographic algorithms
 
-The [[mid-server-landing|MID Server]] utilizes SSH clients to perform many discovery actions. During the SSH handshake, both the client and server first determine which algorithms both parties support, then client picks the highest priority algorithm. For the Host Key Algorithm, the client picks highest priority algorithm which both parties support that matches the key type.
+The MID Server utilizes SSH clients to perform many discovery actions. During the SSH handshake, both the client and server first determine which algorithms both parties support, then client picks the highest priority algorithm. For the Host Key Algorithm, the client picks highest priority algorithm which both parties support that matches the key type.
 
 <table id="table_kvf_3v4_nhb"><tbody><tr><td>
 
@@ -72,7 +72,7 @@ The [[mid-server-landing|MID Server]] utilizes SSH clients to perform many disco
 
 ## Customize the SSH algorithms priority list
 
-The MID Server SSH algorithm priorities can be customized based on security needs. Each algorithm is controlled by one of the following [[r_MIDServerProperties|MID Server properties]].
+The MID Server SSH algorithm priorities can be customized based on security needs. Each algorithm is controlled by one of the following MID Server properties.
 
 **Note:** Glide Import on the instance uses the default algorithm list. The four MID Server properties do not affect Glide Import because it is not run on the MID server. SNCSSH is used for Glide Import on instance for SFTP and SCP.
 
@@ -126,7 +126,3 @@ The properties accept comma separated lists with operators. The first name in th
 
 [MID Server Governance]()
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[r_MIDServerProperties|MID Server properties]]

@@ -14,7 +14,7 @@ breadcrumb: [Virtual Agent for Universal Request, Universal Request, Employee Se
 
 # Universal Request Virtual Agent conversation flows
 
-[[ur-landing-limitedaccess|Universal Request]] Virtual Agent includes several predefined topic conversations that you can use to resolve common tasks on your universal requests.
+Universal Request Virtual Agent includes several predefined topic conversations that you can use to resolve common tasks on your universal requests.
 
 The Universal Request Virtual Agent contains the following predefined conversation flows:
 
@@ -47,6 +47,3 @@ The Universal Request Virtual Agent contains the following predefined conversati
 
 **Parent Topic:**[Virtual Agent for Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-va-landing.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]

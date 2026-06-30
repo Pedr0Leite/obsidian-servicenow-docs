@@ -24,7 +24,7 @@ Role required: evt\_mgmt\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Administration** &gt; **Express List Views**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Administration** &gt; **Express List Views**.
 
 2.  Select **New**.
 
@@ -127,7 +127,7 @@ Add an alert tag filter condition
 
 </td><td>
 
-1.  In the [[alert-tags|Alert Tags]] Filter section, select **Insert a new row**.
+1.  In the Alert Tags Filter section, select **Insert a new row**.
 2.  Select the required tag, operator, and value for each tag filter.
 3.  Optionally add additional filter conditions by selecting **New criteria** and adding the tag filter condition.
 
@@ -234,7 +234,3 @@ Procedure
 
 **Parent Topic:**[Configuring Express List views for users and user groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/manage-views-express-list.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[alert-tags|Alert tags]]

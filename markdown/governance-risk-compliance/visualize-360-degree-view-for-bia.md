@@ -12,7 +12,7 @@ breadcrumb: [Structured workflows for BIAs, Manage, Business Continuity Manageme
 
 # Visualize 360° relationships for BIAs
 
-Visualize the 360° relationships for a [[bia-uib|business impact analysis]] and its associated entities in BCM UIB Workspace. You can access the 360° view at any time while creating a business impact analysis.
+Visualize the 360° relationships for a business impact analysis and its associated entities in BCM UIB Workspace. You can access the 360° view at any time while creating a business impact analysis.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ The configurations for the 360° view are stored in **360° View Configurations*
 
 1.  Navigate to **Workspaces** &gt; **Business Continuity Workspace**.
 
-2.  In the [[list-view-uib-ws|List view]], navigate to **Business Impact Analysis** and select a record from the list.
+2.  In the List view, navigate to **Business Impact Analysis** and select a record from the list.
 
     The business impact analysis record is displayed.
 
@@ -64,14 +64,8 @@ The configurations for the 360° view are stored in **360° View Configurations*
 
     \[Omitted image "360-bia-vendors.png"\] Alt text: 360-vendors.
 
-7.  To navigate to the BIA again, select the BIA or list view in the [[breadcrumb-navigation|breadcrumb navigation]] on the page.
+7.  To navigate to the BIA again, select the BIA or list view in the breadcrumb navigation on the page.
 
 
-**Parent Topic:**[[bia-tasks-performed-by-bia-owner|Structured workflows for BIAs]]
+**Parent Topic:**[Structured workflows for BIAs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bia-tasks-performed-by-bia-owner.md)
 
-## Related
-
-- [[bia-tasks-performed-by-bia-owner|Structured workflows for BIAs]]
-- [[bia-uib|Business impact analysis]]
-- [[list-view-uib-ws|List view]]
-- [[breadcrumb-navigation|Breadcrumb navigation]]

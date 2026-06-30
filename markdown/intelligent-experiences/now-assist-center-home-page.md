@@ -13,7 +13,7 @@ breadcrumb: [Now Assist Center workspace, Explore, Now Assist Center, Enable AI 
 
 # Home page
 
-The [[now-assist-center-landing-page|Now Assist Center]] home page provides features to quickly set up your [[platform-now-assist-landing|Now Assist]] implementation, find automation opportunities, track performance of Now Assist solutions, and access related Now Assist applications.
+The Now Assist Center home page provides features to quickly set up your Now Assist implementation, find automation opportunities, track performance of Now Assist solutions, and access related Now Assist applications.
 
 Your home page is tailored to suit your specific environment, role, and business objectives. The appearance your home page and its sections display accordingly. The entitlements, Impact subscription, plugin installations, and data associated with your instance may affect your experience on the home page.
 
@@ -21,19 +21,19 @@ The following sections may appear on your home page based on your instance.
 
 ## Actionable use cases
 
-The first section of the home page displays a series of AI-generated cards that represent quick-start use [[cases|cases]]. Each use case is tailored to your environment and proposed to help you implement AI adoption, best practices, and administrative setup on the platform.
+The first section of the home page displays a series of AI-generated cards that represent quick-start use cases. Each use case is tailored to your environment and proposed to help you implement AI adoption, best practices, and administrative setup on the platform.
 
 \[Omitted image "now-assist-center-home-adoption-tasks-2.png"\] Alt text: Actionable use cases in Now Assist Center.
 
-Select **Activate** on the card to begin, and a conversation will open in the [[now-assist-center-now-assist-panel|Now Assist panel]]. In the Now Assist panel, you can use natural language to have your AI companion implement the use case.
+Select **Activate** on the card to begin, and a conversation will open in the Now Assist panel. In the Now Assist panel, you can use natural language to have your AI companion implement the use case.
 
 After it is implemented, the card disappears and the new solution appears under the **Recently activated AI** section of the home page.
 
-For more information, see [[now-assist-center-actionable-use-cases|Activating actionable use cases from Now Assist Center]].
+For more information, see [Activating actionable use cases from Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-actionable-use-cases.md).
 
 ## Automation opportunities
 
-This section shows the most relevant opportunities to automate actions or workflows in your instance using AI. The opportunities appear as actionable cards, each showing the results of an assessment performed by [[ai-agent-advisor-landing-page|AI Agent Advisor]].
+This section shows the most relevant opportunities to automate actions or workflows in your instance using AI. The opportunities appear as actionable cards, each showing the results of an assessment performed by AI Agent Advisor.
 
 \[Omitted image "now-assist-center-home-automation-opportunities-2.png"\] Alt text: Automation opportunities shown in Now Assist Center.
 
@@ -41,7 +41,7 @@ AI Agent Advisor analyzes your instance data to identify the leading AI opportun
 
 Select **View all** to see a list of all the opportunities identified by AI Agent Advisor.
 
-For more information, see [[now-assist-center-using-ai-agent-advisor|Using AI Agent Advisor in Now Assist Center]].
+For more information, see [Using AI Agent Advisor in Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-using-ai-agent-advisor.md).
 
 ## Recently activated AI
 
@@ -53,13 +53,13 @@ Each card displays a usage trend line to show adoption over time beginning at th
 
 Select **View all analytics** to see a complete list of the Now Assist performance metrics in the **Performance** section of the Now Assist Admin console.
 
-For more information, see [[monitor-now-assist-performance-now-assist-center|Monitor your recently activated Now Assist solution in Now Assist Center]].
+For more information, see [Monitor your recently activated Now Assist solution in Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/monitor-now-assist-performance-now-assist-center.md).
 
 ## AI readiness
 
 The Now Assist AI readiness section shows the readiness assessments for your environment.
 
-Each assessment helps to determine whether your organization's instance is ready to implement generative AI and agentic AI features in Now Assist. Explore actionable insights to enhance your data, applications, [[exploring-ai-governance|configurations]], and workflows, improving the quality of your AI outcomes.
+Each assessment helps to determine whether your organization's instance is ready to implement generative AI and agentic AI features in Now Assist. Explore actionable insights to enhance your data, applications, configurations, and workflows, improving the quality of your AI outcomes.
 
 \[Omitted image "now-assist-center-home-ai-readiness.png"\] Alt text: AI readiness shown in Now Assist Center.
 
@@ -69,7 +69,7 @@ Select **Start AI readiness assessment** to run the assessment of your instance.
 
 Select **View Assessment** to see the assessment on a separate workspace tab.
 
-For more information, see [[now-assist-center-using-readiness-evaluation|Using Now Assist Readiness Evaluation in Now Assist Center]].
+For more information, see [Using Now Assist Readiness Evaluation in Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-using-readiness-evaluation.md).
 
 ## AI tools
 
@@ -79,18 +79,5 @@ The AI tools section shows other AI applications on the platform outside of Now 
 
 Each application appears in a separate card or tile. Select the arrow in the card to open the application in a separate browser tab.
 
-**Parent Topic:**[[now-assist-center-workspace|Now Assist Center workspace]]
+**Parent Topic:**[Now Assist Center workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-workspace.md)
 
-## Related
-
-- [[now-assist-center-actionable-use-cases|Activating actionable use cases from Now Assist Center]]
-- [[now-assist-center-using-ai-agent-advisor|Using AI Agent Advisor in Now Assist Center]]
-- [[monitor-now-assist-performance-now-assist-center|Monitor your recently activated Now Assist solution in Now Assist Center]]
-- [[now-assist-center-using-readiness-evaluation|Using Now Assist Readiness Evaluation in Now Assist Center]]
-- [[now-assist-center-workspace|Now Assist Center workspace]]
-- [[now-assist-center-landing-page|Now Assist Center]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[cases|Cases]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[ai-agent-advisor-landing-page|AI Agent Advisor]]
-- [[exploring-ai-governance|Configurations]]

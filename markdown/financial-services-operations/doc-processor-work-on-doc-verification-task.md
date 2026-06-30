@@ -16,13 +16,13 @@ A document agent can review and approve or reject a document submitted for verif
 
 ## Before you begin
 
-**Note:** An OCR-processed document can be automatically reviewed and approved. For information on OCR-processed documents, see [[integration-with-document-intelligence|Integrating with Document Intelligence]].
+**Note:** An OCR-processed document can be automatically reviewed and approved. For information on OCR-processed documents, see [Integrating with Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/integration-with-document-intelligence.md).
 
 Role required: sn\_doc\_processor.agent​
 
 ## Procedure
 
-1.  Navigate to **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-list.png"\] Alt text: List icon.\).
 
@@ -85,7 +85,3 @@ You can reject a document verification task if the details are insufficient.1.  
 
 If the task is verified, the document verification task state shows as **Verified**. If the task is rejected for verification, the document verification task state shows as **Not Submitted**.
 
-## Related
-
-- [[integration-with-document-intelligence|Integrating with Document Intelligence]]
-- [[fso-overview|Financial Services]]

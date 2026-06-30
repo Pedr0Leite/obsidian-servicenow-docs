@@ -26,7 +26,7 @@ You can record the time worked for Troubleshoot asset, Repair asset, and Evaluat
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Inventory**.
+1.  Navigate to **Workspaces** &gt; **Enterprise Asset Workspace** &gt; **Inventory**.
 
 2.  Select the **Repair orders** tab.
 
@@ -77,6 +77,3 @@ The actual time you worked on the task completion is automatically calculated. A
 
 [Pause a repair task in the Enterprise Asset Workspace]()
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]

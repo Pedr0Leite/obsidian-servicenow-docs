@@ -14,7 +14,7 @@ breadcrumb: [Use, Talent Profile, Hiring Experiences, HR Service Delivery, Emplo
 
 # Copy talent to pool
 
-Use existing talent pools to associate suitable talent profiles from the pools to your [[talent-pool-overview|talent pool]].
+Use existing talent pools to associate suitable talent profiles from the pools to your talent pool.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Copy the suitable talent profiles to associate them to your pool from another ta
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[recruitment-workspace-concept|Recruitment workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Recruitment workspace**.
 
 2.  Go to the **Talent pool** tab.
 
@@ -48,7 +48,7 @@ Copy talent from one pool to the other from the **Talent pool** tab. Go to the t
 
 </td></tr><tr><td id="d276340e108">
 
-**Copy [[talent-profile-landing|talent profile]] to a pool**
+**Copy talent profile to a pool**
 
 </td><td>
 
@@ -68,8 +68,3 @@ You have associated the required talent profiles from one Talent pool to another
 
 **Parent Topic:**[Using Talent profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/config-t-pool.md)
 
-## Related
-
-- [[talent-pool-overview|Talent pool]]
-- [[recruitment-workspace-concept|Recruitment workspace]]
-- [[talent-profile-landing|Talent Profile]]

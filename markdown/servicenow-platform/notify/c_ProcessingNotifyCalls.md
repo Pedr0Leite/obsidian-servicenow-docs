@@ -14,7 +14,7 @@ breadcrumb: [Notify voice and SMS capabilities, Exploring Notify, Notify, Manage
 
 # How Notify processes incoming calls
 
-[[notify-landing-page|Notify]] processes incoming calls using [[c_WorkflowActivities|workflow activities]].
+Notify processes incoming calls using workflow activities.
 
 Any Notify activity that manages incoming phone calls creates a record on the Notify Workflow Activity \[notify\_wf\_activity\] table. Each notify\_wf\_activity record is associated with a single call. These records store JSON data detailing the actions to send to the telephony provider.
 
@@ -36,7 +36,3 @@ Notify processes incoming calls in the following way:
 
 **Parent Topic:**[Notify voice and SMS capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/notify-voice-SMS-capabilities.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]
-- [[c_WorkflowActivities|Workflow activities]]

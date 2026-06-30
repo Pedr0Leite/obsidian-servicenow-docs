@@ -14,7 +14,7 @@ breadcrumb: [Use, Dispute Management, Banking applications, Financial Services O
 
 # Overview of the Dispute Management workflow
 
-ServiceNow® [[dispute-management|Dispute Management]] enables efficient card and non-card transaction dispute resolution, enhanced compliance, and streamlined customer experiences.
+ServiceNow® Dispute Management enables efficient card and non-card transaction dispute resolution, enhanced compliance, and streamlined customer experiences.
 
 When a dispute service case is initiated, the dispute transaction flow triggers. This flow includes various tasks specific to the case details.
 
@@ -24,7 +24,7 @@ For card or non-card dispute management cases, tasks are generated for each tran
 
 When a dispute is initiated, the case begins in the Initiate stage.
 
-Dispute cases can be initiated from the Dispute Workspace by contributors on behalf of the customer, or by customers through the portal or through virtual agent disputes with [[now-assist-for-financial-services-operations|Now Assist for Financial Services Operations \(FSO\)]] with the Virtual Agent  skill. Dispute agents can also create cases when needed.
+Dispute cases can be initiated from the Dispute Workspace by contributors on behalf of the customer, or by customers through the portal or through virtual agent disputes with Now Assist for Financial Services Operations \(FSO\) with the Virtual Agent  skill. Dispute agents can also create cases when needed.
 
 During this phase, the system identifies the initial transaction. You’re then guided through the "Select dispute reason" activity, which involves a tiered questioning process \(Level 1, Level 2, and optionally Level 3\) to accurately determine the dispute category and its corresponding reason code.
 
@@ -34,11 +34,11 @@ When a transaction is selected for a card dispute, you can obtain additional inf
 
 **Note:** Additional integrations such as [Ethoca Consumer Clarity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/ethoca-spoke.md) are available to retrieve additional information on a transaction.
 
-The system evaluates decision rules and determines policy rules for each transaction in the case. For example, determining which transaction qualifies for a provisional credit, as opposed to a final credit. However, if the dispute is initiated by a contributor or customer, the evaluation of decision rules occurs only after the Review task has been submitted. For more information on these rules, see [[dispute-decision-tables|Dispute decision tables]].
+The system evaluates decision rules and determines policy rules for each transaction in the case. For example, determining which transaction qualifies for a provisional credit, as opposed to a final credit. However, if the dispute is initiated by a contributor or customer, the evaluation of decision rules occurs only after the Review task has been submitted. For more information on these rules, see [Dispute decision tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-decision-tables.md).
 
 The system generates tasks based on the policy rules that are evaluated when a case is submitted. For instance, when a case has a dispute category of Fraud, the system creates a task to block and reissue the card.
 
-Chargeback eligibility rules depend on the dispute category \(for card disputes\). In cases of fraud, these rules are evaluated during the [[investigate-stage|Investigate stage]], specifically after the Fraud Report task is submitted. For non-fraud categories, the evaluation happens at the Submit action, whether from Initiate or Review. For ACH disputes, the eligibility for chargeback is evaluated during investigation and can be assisted by Now Assist agents.
+Chargeback eligibility rules depend on the dispute category \(for card disputes\). In cases of fraud, these rules are evaluated during the Investigate stage, specifically after the Fraud Report task is submitted. For non-fraud categories, the evaluation happens at the Submit action, whether from Initiate or Review. For ACH disputes, the eligibility for chargeback is evaluated during investigation and can be assisted by Now Assist agents.
 
 For information about Now Assist for FSO, see [Now Assist for Financial Services Operations \(FSO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/now-assist-for-financial-services-operations.md).
 
@@ -56,7 +56,7 @@ After review, the agent submits the case and continues with the subsequent lanes
 
 The system generates tasks based on the policy rules that are evaluated when a case is submitted. For instance, when a case has a dispute category of Fraud, the system creates a task to block and reissue the card.
 
-**Note:** If the [[dispute-rules-content-pack-for-visa-landing-page-1|Dispute Rules Content Pack for Visa]], Mastercard, or Nacha are installed, the system automatically provides both the dispute category and reason code. Without these content packs, only the dispute category is determined. For networks other than Visa, Mastercard, or ACH, customers must manually map their network-specific reason codes to the system's decision tables.
+**Note:** If the Dispute Rules Content Pack for Visa, Mastercard, or Nacha are installed, the system automatically provides both the dispute category and reason code. Without these content packs, only the dispute category is determined. For networks other than Visa, Mastercard, or ACH, customers must manually map their network-specific reason codes to the system's decision tables.
 
 ## Processing
 
@@ -90,7 +90,7 @@ In this stage, agents can also work on transactions identified as friendly fraud
 
 This stage applies for each disputed transaction in a case. You can access this stage by opening a disputed transaction in the Processing stage of the playbook.
 
-During the [[chargeback-stage|chargeback stage]], the agent submits the card dispute and the chargeback workflow begins between the involved parties. For non-card disputes, the agent files the ACH return.
+During the chargeback stage, the agent submits the card dispute and the chargeback workflow begins between the involved parties. For non-card disputes, the agent files the ACH return.
 
 For card fraud disputes, the block card or reissue card flows run in parallel with the rest of the dispute management flow for the disputed transactions.
 
@@ -111,7 +111,7 @@ Agents can enter the Resolution code and any Resolution notes before the case is
 **Related topics**  
 
 
-[[dispute-data-model|Card Disputes data model]]
+[Card Disputes data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-data-model.md)
 
 [Set up Dispute Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/setting-up-disputes-management.md)
 
@@ -121,12 +121,3 @@ Agents can enter the Resolution code and any Resolution notes before the case is
 
 [Managing Disputes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/managing-disputes.md)
 
-## Related
-
-- [[dispute-decision-tables|Dispute decision tables]]
-- [[dispute-data-model|Card Disputes data model]]
-- [[dispute-management|Dispute Management]]
-- [[now-assist-for-financial-services-operations|Now Assist for Financial Services Operations \(FSO\)]]
-- [[investigate-stage|Investigate stage]]
-- [[dispute-rules-content-pack-for-visa-landing-page-1|Dispute Rules Content Pack for Visa]]
-- [[chargeback-stage|chargeback stage]]

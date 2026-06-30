@@ -27,7 +27,7 @@ Role required: admin
 
 2.  Under Agentic workflows, select **Conversational intake for sourcing and procurement**.
 
-    \[Omitted image "agentic-spo-wf.png"\] Alt text: [[spo-help-fulfill-pr-agentic|Conversational intake for sourcing and procurement agentic workflow]].
+    \[Omitted image "agentic-spo-wf.png"\] Alt text: Conversational intake for sourcing and procurement agentic workflow.
 
 3.  Under Connect AI agents, select any of the AI agents that you want to make available in Virtual Agent.
 
@@ -76,6 +76,3 @@ Role required: admin
 
 [Email parser agent for Sourcing and Procurement Operations]()
 
-## Related
-
-- [[spo-help-fulfill-pr-agentic|Conversational intake for sourcing and procurement agentic workflow]]

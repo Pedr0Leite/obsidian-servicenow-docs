@@ -21,7 +21,7 @@ An Appointment window configuration defines the daily schedule for appointments,
 
 Role required: appointment\_booking\_admin
 
-Ensure that the Advanced [[appointment-booking|Appointment Booking]] plugin is active. For more information, see [Activate Advanced Appointment Booking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/activate-adv-appt-booking.md).
+Ensure that the Advanced Appointment Booking plugin is active. For more information, see [Activate Advanced Appointment Booking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/activate-adv-appt-booking.md).
 
 ## Procedure
 
@@ -47,11 +47,7 @@ Ensure that the Advanced [[appointment-booking|Appointment Booking]] plugin is a
 
 ## What to do next
 
-Both an appointment window configuration and a service configuration mapping are required to [[create-appt-sched|create an Appointment schedule]]. For more information on service configuration mappings, see [Create an Appointment service configuration mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/create-appt-svc-config-mapping.md).
+Both an appointment window configuration and a service configuration mapping are required to create an Appointment schedule. For more information on service configuration mappings, see [Create an Appointment service configuration mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/create-appt-svc-config-mapping.md).
 
 If a service configuration mapping already exists, see [Create an Appointment schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/create-appt-sched.md).
 
-## Related
-
-- [[appointment-booking|Appointment booking]]
-- [[create-appt-sched|Create an Appointment schedule]]

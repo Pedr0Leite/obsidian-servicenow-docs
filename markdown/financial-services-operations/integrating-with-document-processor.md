@@ -12,7 +12,7 @@ breadcrumb: [Integrate, Financial Services Operations \(FSO\)]
 
 # Integrating with Document Processor
 
-ServiceNow® [[fso-overview|Financial Services]] Document Processor enables other Financial Services Operations applications to collect and verify documents that are used in workflows across these applications. You can submit documents for verification​, and request deferment​ or exception.
+ServiceNow® Financial Services Document Processor enables other Financial Services Operations applications to collect and verify documents that are used in workflows across these applications. You can submit documents for verification​, and request deferment​ or exception.
 
 ## Get started
 
@@ -34,7 +34,3 @@ ServiceNow® [[fso-overview|Financial Services]] Document Processor enables othe
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[fso-overview|Financial Services]]

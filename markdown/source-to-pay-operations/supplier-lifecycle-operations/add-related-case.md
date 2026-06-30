@@ -14,7 +14,7 @@ breadcrumb: [Manage supplier cases, Using Source-to-Pay Workspace, Use, Supplier
 
 # Add a related case to a supplier case from the Source-to-Pay Workspace
 
-If a [[supplier|supplier]] case has related cases, you can add them to that supplier case from the [[purch-order-mgmt-ws|Source-to-Pay Workspace]].
+If a supplier case has related cases, you can add them to that supplier case from the Source-to-Pay Workspace.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_slm.owner or sn\_slm.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **Source-to-Pay Workspace**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
 2.  Select the list icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon.\).
 
@@ -48,8 +48,3 @@ When you add a related case, the supplier case you added it under becomes the pa
 
 [Manage supplier cases from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/managing-cases.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]

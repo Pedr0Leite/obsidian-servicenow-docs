@@ -14,7 +14,7 @@ breadcrumb: [Document repository, Use, Document Management, Document Services, M
 
 # Delete documents
 
-Delete documents in the [[doc-mgt-view-documents-repo|document repository]].
+Delete documents in the document repository.
 
 ## Before you begin
 
@@ -56,6 +56,3 @@ User: owner
 
 [Delete a document link]()
 
-## Related
-
-- [[doc-mgt-view-documents-repo|Document repository]]

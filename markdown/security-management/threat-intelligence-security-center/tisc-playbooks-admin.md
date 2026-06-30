@@ -15,7 +15,7 @@ breadcrumb: [Administer, Threat Intelligence Security Center, Security Operation
 
 # Playbooks
 
-Playbooks in [[tisc-landing-page|Threat Intelligence Security Center]] are structured, automated workflows that guide threat response from detection to resolution. Administrators configure, activate, and manage playbooks to standardize how analysts handle threat cases.
+Playbooks in Threat Intelligence Security Center are structured, automated workflows that guide threat response from detection to resolution. Administrators configure, activate, and manage playbooks to standardize how analysts handle threat cases.
 
 A playbook is a predefined sequence of stages and activities that runs against a Case record in Threat Intelligence Security Center. Each stage defines the actions analysts must complete before the case advances. Playbooks reduce manual coordination by enforcing a consistent response process across your security team.
 
@@ -60,6 +60,3 @@ To test a playbook before activating it, use the **Test** option in Workflow Stu
 
 [Add the Threat Hunting Playbook to a Case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-add-playbook-manually.md)
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]

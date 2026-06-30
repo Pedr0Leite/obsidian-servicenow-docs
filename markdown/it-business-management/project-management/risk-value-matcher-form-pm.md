@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Project Management, Project Management r
 
 # Risk value matcher form
 
-Learn about the fields of [[risk-value-matcher-form|risk value matcher form]].
+Learn about the fields of risk value matcher form.
 
 <table id="table_d34_qsl_zjb"><thead><tr><th>
 
@@ -60,7 +60,7 @@ Risk Value
 
 The value for the specified risk impact and probability combination.The options are: High, Medium, and Low.
 
- This value is displayed in the **Risk value** field of the [[risk-form|Risk form]].
+ This value is displayed in the **Risk value** field of the Risk form.
 
 </td></tr><tr><td>
 
@@ -87,8 +87,3 @@ Numerical value to indicate the probability. This value is multiplied by the val
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[risk-value-matcher-form|Risk value matcher form]]
-- [[risk-form|Risk form]]

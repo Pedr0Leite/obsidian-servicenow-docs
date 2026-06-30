@@ -14,7 +14,7 @@ breadcrumb: [Purchase revision flows, Using Shopping Hub, Use, Sourcing and Proc
 
 # Raise a cancel request
 
-As a shopper, you can cancel an entire purchase request, [[purchase-order-table|purchase order]], or individual line items.
+As a shopper, you can cancel an entire purchase request, purchase order, or individual line items.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: sn\_spend\_psd.requestor or shopper
 
     Alternatively, you can cancel a purchase from **Employee Center** &gt; **Purchase and Expense** &gt; **Purchase Requests** &gt; **Cancel a purchase**.
 
-2.  Select a [[purchase-requisition|purchase requisition]], purchase order, or purchase line.
+2.  Select a purchase requisition, purchase order, or purchase line.
 
 3.  Select **Cancel this purchase** from the **Edit** menu or the **More options** menu.
 
@@ -51,8 +51,8 @@ The step creates a procurement case with the details of the product for cancella
 
 ## What to do next
 
--   Shoppers can review and edit the request details from **ShoppingHub** &gt; **[[my-requests|My requests]]** or **My requests** from the footer.
--   Buyers can review, edit, and process your request details from **[[psd-overview|Procurement Case Management]]** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]** &gt; **Procurement Cases**, if required.
+-   Shoppers can review and edit the request details from **ShoppingHub** &gt; **My requests** or **My requests** from the footer.
+-   Buyers can review, edit, and process your request details from **Procurement Case Management** &gt; **Source-to-Pay Workspace** &gt; **Procurement Cases**, if required.
 
 **Parent Topic:**[Purchase revision flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-revision-flows.md)
 
@@ -63,10 +63,3 @@ The step creates a procurement case with the details of the product for cancella
 
 [Process Automation Designer flows for playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/process-automation-designer-flows-psm.md)
 
-## Related
-
-- [[purchase-order-table|Purchase order]]
-- [[purchase-requisition|Purchase requisition]]
-- [[my-requests|My requests]]
-- [[psd-overview|Procurement Case Management]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

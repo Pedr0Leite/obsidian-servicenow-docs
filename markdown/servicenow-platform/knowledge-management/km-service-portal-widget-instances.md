@@ -14,7 +14,7 @@ breadcrumb: [Configure the Knowledge Management Service Portal, Configuring Know
 
 # Knowledge Management Service Portal widgets
 
-The [[knowledge-management|Knowledge Management]] Service Portal uses a number of widgets to enable searches, display search results, and display articles, related articles, and related items.
+The Knowledge Management Service Portal uses a number of widgets to enable searches, display search results, and display articles, related articles, and related items.
 
 In the Knowledge Management Service Portal, the Knowledge Management homepage, search results page, and article view page honor the Knowledge Management V3 system properties. If configured, widget instance options can override the system properties.
 
@@ -109,7 +109,7 @@ Article view page widgets:
 
 -   Knowledge Attachments
 
-    Displays article attachments if the **Display [[attachment|Attachment]]** field for the article is enabled.
+    Displays article attachments if the **Display Attachment** field for the article is enabled.
 
     **Note:** You must add the Knowledge Attachments widget to any page in addition to Knowledge Article Content widget. After upgrade, if this widget does not get added automatically, you must add it manually.
 
@@ -163,7 +163,3 @@ Configure the Knowledge Related Articles widget instance options for the Knowled
 
 **Parent Topic:**[Configure the Knowledge Management Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/knowledge-management-service-portal.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]
-- [[attachment|Attachment]]

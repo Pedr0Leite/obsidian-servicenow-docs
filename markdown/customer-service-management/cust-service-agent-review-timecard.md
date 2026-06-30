@@ -20,7 +20,7 @@ Role required: sn\_customerservice\_agent
 
 ## About this task
 
-The **Time Worked** related list on the Case and [[csm-case-task-form|Case Task form]] displays the time worked records that have been created for the case or task. This list also displays the time cards created from the time worked records.
+The **Time Worked** related list on the Case and Case Task form displays the time worked records that have been created for the case or task. This list also displays the time cards created from the time worked records.
 
 ## Procedure
 
@@ -32,6 +32,4 @@ The **Time Worked** related list on the Case and [[csm-case-task-form|Case Task 
 
     The time card provides a breakdown of the time worked for this case or case task by day.
 
-## Related
 
-- [[csm-case-task-form|Case task form]]

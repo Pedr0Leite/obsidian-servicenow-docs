@@ -14,7 +14,7 @@ breadcrumb: [Use, Now Assist for Workplace Service Delivery \(WSD\), Workplace S
 
 # Reserve a space using Now Assist in Virtual Agent
 
-The Reserve Space Virtual Agent topic enables you to [[create-reservation-request-1|create a reservation]] using [[now-assist-wsd-landing|Now Assist for Workplace Service Delivery \(WSD\)]]. You can also add services to your reservation.
+The Reserve Space Virtual Agent topic enables you to create a reservation using Now Assist for Workplace Service Delivery \(WSD\). You can also add services to your reservation.
 
 ## Before you begin
 
@@ -23,13 +23,13 @@ The **Reserve Space** topic should be added to Now Assist in Virtual Agent. For 
 Make sure that you have the following applications:
 
 -   Now Assist for Platform \(sn\_genai\_platform\)
--   [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] Workplace Reservation Management \(sn\_wsd\_rsv\)
+-   Workplace Reservation Management Workplace Reservation Management \(sn\_wsd\_rsv\)
 
 Role required: sn\_wsd\_core.workplace\_user
 
 ## Procedure
 
-1.  Log in to the [[employee-center-landing-page|Employee Center]] portal.
+1.  Log in to the Employee Center portal.
 
     For more information, see [Workplace services on the Employee Center portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/workplace-services-on-employee-center.md).
 
@@ -113,7 +113,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
     You can add guests and external visitors, Zoom virtual meeting link, or Catering services to your reservation. If you don’t want to add any of these services to your reservation, you can skip this step and complete your reservation at this stage.
 
-    **Note:** The option to add [[workplace-services|workplace services]] is shown based on the corresponding service availability for a selected location. For example, if Zoom spoke and the virtual meeting provider is configured in the Reservable module, the Added Zoom service option is shown by the bot. This also depends on the availability of a location or reservable module configuration settings by your administrator. So, if there is no Zoom spoke configured or guests are not allowed to a reservation, the bot doesn't display the related questions or suggestions. For catering services, the application checks if these are assigned for a selected location.
+    **Note:** The option to add workplace services is shown based on the corresponding service availability for a selected location. For example, if Zoom spoke and the virtual meeting provider is configured in the Reservable module, the Added Zoom service option is shown by the bot. This also depends on the availability of a location or reservable module configuration settings by your administrator. So, if there is no Zoom spoke configured or guests are not allowed to a reservation, the bot doesn't display the related questions or suggestions. For catering services, the application checks if these are assigned for a selected location.
 
 16. Now Assist in Virtual Agent instructs you to invite guests to your reservation.
 
@@ -121,7 +121,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
 17. Select **Yes** if you want to add guests to your reservation.
 
-    **Note:** You can add multiple invitees to your reservation. For more information, see [Configure Now Assist in Virtual Agent for Workplace Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/config-now-assist-va-wsd.md). You also need [[workplace-visitor-mgmt-feat|Workplace Visitor Management]].
+    **Note:** You can add multiple invitees to your reservation. For more information, see [Configure Now Assist in Virtual Agent for Workplace Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/config-now-assist-va-wsd.md). You also need Workplace Visitor Management.
 
 18. Now Assist in Virtual Agent provides suggestions to select your guests.
 
@@ -147,7 +147,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
     2.  Provide the required details.
 
-    3.  After adding the visitor, Now Assist in Virtual Agent confirms that [[register-visitors|visitor registration]] is done.
+    3.  After adding the visitor, Now Assist in Virtual Agent confirms that visitor registration is done.
 
     4.  Now Assist in Virtual Agent provides suggestions to add a few more visitors to your reservation.
 
@@ -191,12 +191,4 @@ Role required: sn\_wsd\_core.workplace\_user
 
     \[Omitted image "wsd-now-assist-reservation-summary-final.png"\] Alt text: Now Assist in Virtual Agent summarizes the reservation details along with services that you have added to your reservation.
 
-## Related
 
-- [[create-reservation-request-1|Create a reservation]]
-- [[now-assist-wsd-landing|Now Assist for Workplace Service Delivery \(WSD\)]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-services|Workplace Services]]
-- [[workplace-visitor-mgmt-feat|Workplace Visitor Management]]
-- [[register-visitors|Visitor registration]]

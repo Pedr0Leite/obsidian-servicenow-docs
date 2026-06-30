@@ -14,7 +14,7 @@ breadcrumb: [Application risk assessment using Advanced Risk Assessment, Integra
 
 # Create a smart assessment template for risk identification
 
-[[create-sm-asmt-temp-as-ws|Create a smart assessment template]] for risk identification using the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] application.
+Create a smart assessment template for risk identification using the Smart Assessment Engine application.
 
 ## Before you begin
 
@@ -89,7 +89,3 @@ The table records selected to be assessed, otherwise known as the assessment sco
 
 [Using the template designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-template-designer.md)
 
-## Related
-
-- [[create-sm-asmt-temp-as-ws|Create a Smart Assessment template]]
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]

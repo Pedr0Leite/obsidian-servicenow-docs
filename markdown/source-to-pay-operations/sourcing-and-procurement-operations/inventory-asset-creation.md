@@ -24,7 +24,7 @@ They are created only when the following conditions are satisfied:
 
 Inventory assets are not created if goods receipt required is specified as no for a good, or if the acknowledgment type is a two-way match for a service.
 
-If you have defined an asset class, the corresponding asset records are created and associated to the relevant contract model on the [[purchase-order-table|purchase order]], which are then displayed on the assets covered related list. The applicable contract models that should have the assets covered related list are insurance, lease, maintenance, purchase order, software license, subscription, and warranty.
+If you have defined an asset class, the corresponding asset records are created and associated to the relevant contract model on the purchase order, which are then displayed on the assets covered related list. The applicable contract models that should have the assets covered related list are insurance, lease, maintenance, purchase order, software license, subscription, and warranty.
 
 To view the asset related list, navigate to **Asset** &gt; **Portfolios** &gt; **All Assets**. A **Purchasing** tab has been added to the asset form view to capture procurement specific fields that are populated from the purchase order line of the corresponding asset.
 
@@ -45,6 +45,3 @@ A fixed asset related list has also been added. It displays the fixed asset that
 
 **Parent Topic:**[Sourcing and Purchasing Automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-experience-workflow.md)
 
-## Related
-
-- [[purchase-order-table|Purchase order]]

@@ -14,7 +14,7 @@ breadcrumb: [CMDB classifications and class dependency, Configuration Management
 
 # Create a CI class
 
-Create a CI class \(table\) that is an extension of an existing CI class. Then create identification and [[r_ReconciliationRulesPrinciples|reconciliation rules]] for the new class.
+Create a CI class \(table\) that is an extension of an existing CI class. Then create identification and reconciliation rules for the new class.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ Role required:
 
 ## About this task
 
-The [[ci-class-manager-landing-page|CI Class Manager]] is a centralized location for managing CMDB tables and for creating a class that is derived from another CMDB class. Creating a class requires basic details such as a [[label|label]] and a name. Identification and reconciliation rules are also required to ensure that the class can be successfully identified by the identification engine.
+The CI Class Manager is a centralized location for managing CMDB tables and for creating a class that is derived from another CMDB class. Creating a class requires basic details such as a label and a name. Identification and reconciliation rules are also required to ensure that the class can be successfully identified by the identification engine.
 
 For more information about extending a class and how attributes are derived from a parent class in that process, see [Table extension and classes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-extension-and-classes.md).
 
@@ -114,7 +114,7 @@ Denotes whether this class is included in the [Principal Class filter](https://r
 
 8.  On the **Set Identification Rule** tab, examine the **Derived** identification rule and its **Identifier Entries**.
 
-    You can click **Replace** to replace the derived rule with a new identification rule and new identifier entries specific to the new class. See [Identification rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/t_CreateCIIdentificationRule.md) for details about [[c_IdentificationRules|identification rules]] and identifier entries.
+    You can click **Replace** to replace the derived rule with a new identification rule and new identifier entries specific to the new class. See [Identification rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/t_CreateCIIdentificationRule.md) for details about identification rules and identifier entries.
 
 9.  On the **Dependencies** tab, click **Add dependency** to add [dependent rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_ServiceRulesMetadata.md).
 
@@ -130,7 +130,7 @@ Denotes whether this class is included in the [Principal Class filter](https://r
 
 12. Use the filter to display only inbound, outbound, or specific relationship types.
 
-13. To [[t_AddANewSuggestedRelationship|add a suggested relationship]] for the class:
+13. To add a suggested relationship for the class:
 
     1.  Click **New**.
 
@@ -164,10 +164,3 @@ Denotes whether this class is included in the [Principal Class filter](https://r
 
 [CMDB Identification and Reconciliation \(IRE\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CMDBIdentifyandReconcile.md)
 
-## Related
-
-- [[r_ReconciliationRulesPrinciples|Reconciliation rules]]
-- [[ci-class-manager-landing-page|CI Class Manager]]
-- [[label|Label]]
-- [[c_IdentificationRules|Identification rules]]
-- [[t_AddANewSuggestedRelationship|Add a suggested relationship]]

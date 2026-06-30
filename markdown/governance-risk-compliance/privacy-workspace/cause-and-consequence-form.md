@@ -16,7 +16,7 @@ breadcrumb: [Add causes and consequences to a privacy case, Use, Privacy Case Ma
 
 Learn about the fields on the cause and consequence form. Use this form to define cause and consequence in the Privacy Case Management application.
 
-On the [[view-rule-form|view rule form]], fill in the fields as appropriate.
+On the view rule form, fill in the fields as appropriate.
 
 <table id="table_lmg_mch_bwb"><thead><tr><th>
 
@@ -94,6 +94,3 @@ Overall observations, if any.
 </td></tr></tbody>
 </table>**Parent Topic:**[Add causes and consequences to a privacy case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/add-causes-consequences.md)
 
-## Related
-
-- [[view-rule-form|view rule form]]

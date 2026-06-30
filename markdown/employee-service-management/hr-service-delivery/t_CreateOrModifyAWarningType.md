@@ -22,7 +22,7 @@ Role required: sn\_hr\_core.basic, or sn\_hr\_core.manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **[[c_ManagedLists|Managed Lists]]** &gt; **Warning Types**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **Managed Lists** &gt; **Warning Types**.
 
     The HR Disciplinary Warning Types list opens.
 
@@ -45,7 +45,3 @@ Role required: sn\_hr\_core.basic, or sn\_hr\_core.manager
 
 **Parent Topic:**[Managed lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_ManagedLists.md)
 
-## Related
-
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[c_ManagedLists|Managed lists]]

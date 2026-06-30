@@ -32,7 +32,7 @@ Automated sharing of high-risk IOC's with trusted partners triggers only when:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Administration**.
+1.  Navigate to **All** &gt; **Threat Intelligence Security Center** &gt; **Administration**.
 
 2.  Select **Automated Flows**.
 
@@ -78,7 +78,7 @@ Automated sharing of high-risk IOC's with trusted partners triggers only when:
 
 8.  End the flow for this sharing of high-risk IOCs with trusted partners.
 
-    \[Omitted image "tisc-automated-intel-share.png"\] Alt text: [[tisc-ioc-enrichment|Automated IOC Enrichment]] in TISC.
+    \[Omitted image "tisc-automated-intel-share.png"\] Alt text: Automated IOC Enrichment in TISC.
 
 
 **Parent Topic:**[Working with automated flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-automated-flows.md)
@@ -88,7 +88,7 @@ Automated sharing of high-risk IOC's with trusted partners triggers only when:
 
 [Automated IOC Enrichment]()
 
-[Automatically add [[threat-intel-landing-page|threat intelligence]] to a TAXII collection]()
+[Automatically add threat intelligence to a TAXII collection]()
 
 [Create vulnerability assessment for zero day]()
 
@@ -100,7 +100,7 @@ Automated sharing of high-risk IOC's with trusted partners triggers only when:
 
 [Zero-day vulnerability tracking]()
 
-[Automatic [[threat-actor|Threat Actor]] priority tagging]()
+[Automatic Threat Actor priority tagging]()
 
 [Automated flows tables]()
 
@@ -108,9 +108,3 @@ Automated sharing of high-risk IOC's with trusted partners triggers only when:
 
 [Sharing of Outbound Intelligence Records from GUI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-create-intel-records-lib.md)
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[tisc-ioc-enrichment|Automated IOC Enrichment]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[threat-actor|Threat Actor]]

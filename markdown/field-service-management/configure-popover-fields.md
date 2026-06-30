@@ -12,13 +12,13 @@ breadcrumb: [Dispatcher Workspace, CSM/FSM Configurable Workspace, Configure, Fi
 
 # Configure popover fields
 
-Configure the fields that appear in task popovers across [[dispatcher-activities|Dispatcher Workspace]], including the task panel, calendar, and map markers.
+Configure the fields that appear in task popovers across Dispatcher Workspace, including the task panel, calendar, and map markers.
 
 ## Before you begin
 
 Role required: admin
 
-The system property sn\_fsm\_disp\_wrkspc.dispatcher\_workspace.task\_panel\_card\_hover\_popover must be enabled to see popovers on the task card. The system property sn\_fsm\_disp\_wrkspc.dispatcher\_workspace.calendar\_event\_hover\_popover must be enabled to see popovers on events in the calendar. These fields are enabled by default. For more information, see [[r_PropInstallWFieldServMgmnt|Properties installed with Field Service Management]].
+The system property sn\_fsm\_disp\_wrkspc.dispatcher\_workspace.task\_panel\_card\_hover\_popover must be enabled to see popovers on the task card. The system property sn\_fsm\_disp\_wrkspc.dispatcher\_workspace.calendar\_event\_hover\_popover must be enabled to see popovers on events in the calendar. These fields are enabled by default. For more information, see [Properties installed with Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/r_PropInstallWFieldServMgmnt.md).
 
 ## Procedure
 
@@ -72,7 +72,4 @@ Action
 
     **Note:** Fields are displayed in ascending order based on this value. For example, a field with an order value of 10 appears before a field with an order value of 20.
 
-## Related
 
-- [[r_PropInstallWFieldServMgmnt|Properties installed with Field Service Management]]
-- [[dispatcher-activities|Dispatcher Workspace]]

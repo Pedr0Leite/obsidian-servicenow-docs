@@ -14,7 +14,7 @@ breadcrumb: [Model categories, Product Catalog, IT Asset Management]
 
 # Edit model categories
 
-All default [[model-hierarchy|model categories]] can be edited, except for the Contract model category. You can edit any custom model categories that you created at any time.
+All default model categories can be edited, except for the Contract model category. You can edit any custom model categories that you created at any time.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: model\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ProductCatalog|Product Catalog]]** &gt; **Product Model** &gt; **Model Categories**.
+1.  Navigate to **All** &gt; **Product Catalog** &gt; **Product Model** &gt; **Model Categories**.
 
 2.  Open a model category record.
 
@@ -46,7 +46,3 @@ Role required: model\_manager
 
 [Delete model categories]()
 
-## Related
-
-- [[model-hierarchy|Model categories]]
-- [[c_ProductCatalog|Product Catalog]]

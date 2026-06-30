@@ -12,7 +12,7 @@ breadcrumb: [Configure, Now Assist for Care Team Operations, Healthcare and Life
 
 # Install Now Assist for Care Team Operations
 
-Install the [[now-assist-for-healthcare-and-life-sciences|Now Assist for Care Team Operations]] application \[sn\_cto\_now\_assist\].
+Install the Now Assist for Care Team Operations application \[sn\_cto\_now\_assist\].
 
 ## Before you begin
 
@@ -35,10 +35,5 @@ Role required: admin
 
 ## What to do next
 
-Enable the “Request care team assistance” agentic workflow to create care team cases using Virtual Agent in [[care-team-mobile-landing|Care Team Mobile]] or [[care-team-portal-landing|Care Team Portal]].
+Enable the “Request care team assistance” agentic workflow to create care team cases using Virtual Agent in Care Team Mobile or Care Team Portal.
 
-## Related
-
-- [[now-assist-for-healthcare-and-life-sciences|Now Assist for Care Team Operations]]
-- [[care-team-mobile-landing|Care Team Mobile]]
-- [[care-team-portal-landing|Care Team Portal]]

@@ -39,8 +39,5 @@ A formula tree provides transparency by displaying the detailed breakdown of how
     **Note:** If you’re seeing an empty page, it's because the formula tree or formula operands are currently empty and are being updated asynchronously. If you’re seeing an error page, it's due to errors in the formula operands that must be corrected.
 
 
-**Parent Topic:**[[reviewing-formula-tree|Reviewing calculation details with formula trees]]
+**Parent Topic:**[Reviewing calculation details with formula trees](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/reviewing-formula-tree.md)
 
-## Related
-
-- [[reviewing-formula-tree|Reviewing calculation details with formula trees]]

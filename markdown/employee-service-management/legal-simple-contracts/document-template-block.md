@@ -14,16 +14,12 @@ breadcrumb: [Configure Legal Simple Contracts, Configure, Legal Simple Contracts
 
 # Legal contract templates
 
-Create [[document-templates-overview|document templates]] to generate contract documents depending on various request types.
+Create document templates to generate contract documents depending on various request types.
 
-You can save time and manual rework by [[using-doc-templates|using document templates]] to create contract documents instead of filling out a contract document from scratch for each request. It's also an efficient way of generating consistent contract documents for legal requests.
+You can save time and manual rework by using document templates to create contract documents instead of filling out a contract document from scratch for each request. It's also an efficient way of generating consistent contract documents for legal requests.
 
 -   [Configure legal contract of type HTML](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/lsc-config-html-ct.md)
 -   [Create a legal contract template of type PDF](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/create-legal-contract-template-pdf.md)
 -   [Configure legal contract templates of type Microsoft Word](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/lsc-configure-ct-msword.md)
 -   [Configure a rule for selecting a legal contract template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/configure-legal-contract-template-rules.md)
 
-## Related
-
-- [[document-templates-overview|Document Templates]]
-- [[using-doc-templates|Using Document Templates]]

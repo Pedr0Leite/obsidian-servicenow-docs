@@ -14,7 +14,7 @@ breadcrumb: [ITSM Software Asset Management, Asset Management, IT Service Manage
 
 # Legacy Software Asset Management plugin
 
-The legacy Software [[c_AssetManagement|Asset Management]] \(com.snc.software\_asset\_management\) plugin activates the legacy [[itsm-sam|ITSM Software Asset Management]] feature that is provided with the Asset Management application.
+The legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin activates the legacy ITSM Software Asset Management feature that is provided with the Asset Management application.
 
 **Important:** The legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin is supported only in the Jakarta and earlier releases. Although this legacy plugin can no longer be activated upon request, you can continue to use it if it has already been activated on a ServiceNow instance running the Jakarta or earlier releases.
 
@@ -25,11 +25,11 @@ A strong software asset management \(SAM\) program can help an organization redu
 -   **[Legacy Software Asset Management plugin Overview module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_SWAssetMgmtOverviewMod.md)**  
 The Overview module for the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin is a homepage that displays various software asset management reports.
 -   **[Legacy Software Asset Management plugin setup process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_SetupProcess.md)**  
-To get started with the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin, you need to identify and discover software owned, create [[c_CreatingSoftwareModels|software models]], create license records, and configure software counters.
+To get started with the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin, you need to identify and discover software owned, create software models, create license records, and configure software counters.
 -   **[Determine where software is installed using the legacy Software Asset Management plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_DeterminWhereSWInstalled.md)**  
 When using the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin to determine where your software is installed, you must keep the following points in mind.
 -   **[Software licenses in the legacy Software Asset Management plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_SoftwareLicenses.md)**  
-Software licenses are based on [[c_Models|models]] that are defined through the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin.
+Software licenses are based on models that are defined through the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin.
 -   **[Manage software models using the legacy Software Asset Management plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/t_ManagingSoftwareModels.md)**  
 The legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin uses software models to manage licenses, specifically in software counters and license restrictions, and to track upgrade and downgrade licenses.
 -   **[License calculations with the legacy Software Asset Management plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_UseLicenseCalculations.md)**  
@@ -45,14 +45,7 @@ Processor Value Unit \(PVU\) is a unit of measurement defined by IBM to determin
 -   **[Software contracts for the legacy Software Asset Management plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_SoftwareContracts.md)**  
 A software contract is a binding agreement between the owner of a software product and a buyer. The contract enables the buyer to use the software legally.
 -   **[Legacy Oracle process pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_OracleProcessPack.md)**  
-The [[c_OracleProcessPack|legacy Oracle process pack]] is an add-on to the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin that provides the ability to manage software licensed under the Oracle licensing model.
+The legacy Oracle process pack is an add-on to the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin that provides the ability to manage software licensed under the Oracle licensing model.
 
 **Parent Topic:**[ITSM Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/asset-management/itsm-sam.md)
 
-## Related
-
-- [[c_AssetManagement|Asset Management]]
-- [[itsm-sam|ITSM Software Asset Management]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[c_Models|Models]]
-- [[c_OracleProcessPack|Legacy Oracle process pack]]

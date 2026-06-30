@@ -18,7 +18,7 @@ Open a job application and see the details.
 
 Open an active job application to view the details. The overview section shows you state, recruiter, location, and work persona.
 
-See the progression of the application along the [[hiring-tab-concept|hiring]] process on the stepper widget. For more information on the states visible, see [Application states for the applicant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/application-state-applicant.md).
+See the progression of the application along the hiring process on the stepper widget. For more information on the states visible, see [Application states for the applicant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/application-state-applicant.md).
 
 You can also see the following on the page:
 
@@ -28,6 +28,3 @@ You can also see the following on the page:
 
 **Parent Topic:**[Using Applicant Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/use-applicant-center.md)
 
-## Related
-
-- [[hiring-tab-concept|Hiring]]

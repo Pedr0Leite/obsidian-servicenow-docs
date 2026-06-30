@@ -19,7 +19,7 @@ Apply your custom theme to ensure roadmap bar colors align with your organizatio
 ## Before you begin
 
 -   You have created and published a custom theme to apply to the roadmap.
--   Ensure the application scope in your instance is set to **[[portfolio-planning-app-landing-page|Portfolio Planning]]**.
+-   Ensure the application scope in your instance is set to **Portfolio Planning**.
 
 Role required: admin
 
@@ -99,6 +99,3 @@ Sys\_id of the custom theme you created for roadmap bar colors.Enter the copied 
 
 The roadmap bars now display the colors configured in the custom theme.
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

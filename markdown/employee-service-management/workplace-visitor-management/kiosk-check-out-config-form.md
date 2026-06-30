@@ -14,7 +14,7 @@ breadcrumb: [Reference, Workplace Visitor Management, Workplace Service Delivery
 
 # Kiosk Check-out Flow Configuration form
 
-Use the Kiosk Check-out Flow Configuration form to create a check-out flow for the [[workplace-services-kiosk|Workplace Services Kiosk]].
+Use the Kiosk Check-out Flow Configuration form to create a check-out flow for the Workplace Services Kiosk.
 
 <table id="table_thj_yrv_tbc"><thead><tr><th>
 
@@ -86,6 +86,3 @@ Option to make the page configuration active.
 
 [Additional requirement form]()
 
-## Related
-
-- [[workplace-services-kiosk|Workplace Services Kiosk]]

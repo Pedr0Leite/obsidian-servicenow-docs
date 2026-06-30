@@ -19,9 +19,9 @@ This accelerator helps customers get started with ServiceNow's AI Data Explorer 
 
 ## Accelerator Overview
 
-Jumpstart Your AI Data Explorer provides [[impact-landing-page|Impact]] customers with guided coaching and applied demonstrations to quickly get started with AI Data Explorer, ServiceNow's platform [[io-analytics|analytics]] natural language data exploration tool. It enables business users to ask questions in plain language, generate AI-powered insights and visualizations, and collaborate on findings across ServiceNow and external data sources without the need for any technical expertise.
+Jumpstart Your AI Data Explorer provides Impact customers with guided coaching and applied demonstrations to quickly get started with AI Data Explorer, ServiceNow's platform analytics natural language data exploration tool. It enables business users to ask questions in plain language, generate AI-powered insights and visualizations, and collaborate on findings across ServiceNow and external data sources without the need for any technical expertise.
 
-This offering accelerates time to value, builds team confidence through an applied experience, and introduces leading practices to [[io-help|help]] your organization drive data-informed decisions faster.
+This offering accelerates time to value, builds team confidence through an applied experience, and introduces leading practices to help your organization drive data-informed decisions faster.
 
 ## Package Availability
 
@@ -72,8 +72,3 @@ This offering accelerates time to value, builds team confidence through an appli
 
 ServiceNow is not responsible for implementing any of the recommended configuration changes in your sub production or production instances.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[io-analytics|Analytics]]
-- [[io-help|Help]]

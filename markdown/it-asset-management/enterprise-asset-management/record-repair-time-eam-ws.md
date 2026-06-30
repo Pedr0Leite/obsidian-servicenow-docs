@@ -14,7 +14,7 @@ breadcrumb: [Manage repair of defective assets in your stockroom in the Enterpri
 
 # Record time worked on asset repair tasks in the Enterprise Asset Workspace
 
-Manage and record time worked on Troubleshoot asset, Repair asset, and Evaluate asset tasks in the [[using-eam-workspace|Enterprise Asset Workspace]]. After you start work on a repair asset task, you can pause and resume work. You can also record the time worked manually.
+Manage and record time worked on Troubleshoot asset, Repair asset, and Evaluate asset tasks in the Enterprise Asset Workspace. After you start work on a repair asset task, you can pause and resume work. You can also record the time worked manually.
 
 -   **[Record time worked on a repair task automatically in the Enterprise Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/record-total-repair-time-eam-ws.md)**  
 Record the time that you took to complete a repair task without taking any break until you completed the task.
@@ -32,6 +32,3 @@ Record a break from a repair task in the Enterprise Asset Workspace if you’re 
 
 [Fulfilling repair orders in the Enterprise Asset Workspace]()
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]

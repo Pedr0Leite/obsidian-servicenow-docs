@@ -23,7 +23,7 @@ Select investment currency as an additional currency, which can be different fro
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]]** and select portfolio plan.
+1.  Navigate to **Workspaces** &gt; **Portfolio Planning** and select portfolio plan.
 
 2.  Select a planning item from the Planning module.
 
@@ -72,6 +72,4 @@ Edit investment currency modal is displayed with options to select investment cu
 </td></tr></tbody>
 </table>4.  Select **Confirm** to save the investment currency selection.
 
-## Related
 
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

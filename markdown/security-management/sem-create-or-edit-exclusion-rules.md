@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sem-workspace-user-interface|Security Exposure Management Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Security Exposure Management Workspace**.
 
 2.  Select **Administration** in the navigation pane.
 
@@ -47,9 +47,5 @@ Role required: admin
 7.  To edit, select the rule name and update the required fields and select **Update**.
 
 
-**Parent Topic:**[[sem-configure-exclusion-rules|Configuring exclusion rules]]
+**Parent Topic:**[Configuring exclusion rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-configure-exclusion-rules.md)
 
-## Related
-
-- [[sem-configure-exclusion-rules|Configuring exclusion rules]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]

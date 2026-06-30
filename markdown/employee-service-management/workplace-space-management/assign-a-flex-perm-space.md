@@ -31,7 +31,7 @@ You can specify if a desk or workspace is a permanent space or flexible. If you 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-safety-mgmt-hr|Workplace Core]]** &gt; **Space Administration**.
+1.  Navigate to **All** &gt; **Workplace Core** &gt; **Space Administration**.
 
 2.  Select **Spaces**.
 
@@ -89,7 +89,7 @@ The space is configured as flexible or permanent based on the assignment type th
 
 [Create a Space Recommender rule]()
 
-[Raise a [[space-assistance|space assistance]] request]()
+[Raise a space assistance request]()
 
 [Create a view-by configuration]()
 
@@ -97,7 +97,3 @@ The space is configured as flexible or permanent based on the assignment type th
 
 [Reviewing allocation changes]()
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[space-assistance|Space assistance]]

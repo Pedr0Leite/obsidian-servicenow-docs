@@ -26,7 +26,7 @@ Refer to the following table and verify that you have completed all the listed t
 
 ## Procedure
 
-1.  Verify that you have assigned the required ServiceNow AI Platform® and [[sir-landing-page|Security Incident Response]] \(SIR\) roles.
+1.  Verify that you have assigned the required ServiceNow AI Platform® and Security Incident Response \(SIR\) roles.
 
     The following roles are required for the installation, setup, and use of the integration in your ServiceNow AI Platform® instance.
 
@@ -56,7 +56,7 @@ Refer to the following table and verify that you have completed all the listed t
 
 4.  Verify that the ServiceNow core applications required to support the integration are installed and activated.
 
-    The Security Incident Response Dependency plugin \(com.snc.si\_dep\) is required. This plugin automatically installs all the dependencies that are required to support the Security Incident Response product. Install and activate this plugin before you install and activate the other [[security-operations-landing-page|Security Operations]] applications required by the integration.
+    The Security Incident Response Dependency plugin \(com.snc.si\_dep\) is required. This plugin automatically installs all the dependencies that are required to support the Security Incident Response product. Install and activate this plugin before you install and activate the other Security Operations applications required by the integration.
 
     Verify that the following Security Operations applications are installed and activated from the ServiceNow Store. If not installed, install and activate one application at a time in the following order to ensure a smooth installation.
 
@@ -64,7 +64,7 @@ Refer to the following table and verify that you have completed all the listed t
     2.  Security Integration Framework
     3.  Security Support Common
     4.  Security Support Orchestration
-    For more information about installing the Security Operations core applications, see [[entitle-secops-product|Get entitlement for a Security Operations product or application]] and [[activate-entitled-store-app|Activate a ServiceNow Store application]].
+    For more information about installing the Security Operations core applications, see [Get entitlement for a Security Operations product or application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/entitle-secops-product.md) and [Activate a ServiceNow Store application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/activate-entitled-store-app.md).
 
 
 ## What to do next
@@ -81,9 +81,3 @@ If you want to export events manually and on-demand from your Splunk Enterprise 
 
 **Next topic:**[Install and configure the ServiceNow application for the Splunk Enterprise Event Ingestion integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/splunk-event-ingest-install-and-configure.md)
 
-## Related
-
-- [[entitle-secops-product|Get entitlement for a Security Operations product or application]]
-- [[activate-entitled-store-app|Activate a ServiceNow Store application]]
-- [[sir-landing-page|Security Incident Response]]
-- [[security-operations-landing-page|Security Operations]]

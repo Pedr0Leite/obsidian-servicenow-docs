@@ -12,7 +12,7 @@ breadcrumb: [Task Plan Templates, Case management, Organize agent workspaces, Co
 
 # Task Plan Templates roles
 
-Roles included with the [[task-plan-templates|Task Plan Templates]] application enable users to view, create, and edit task plan templates, template items, and template item conditions. Users can use these defined templates to automatically create tasks, child cases, and child case tasks for different types of cases.
+Roles included with the Task Plan Templates application enable users to view, create, and edit task plan templates, template items, and template item conditions. Users can use these defined templates to automatically create tasks, child cases, and child case tasks for different types of cases.
 
 The following granular roles are included with the Task Plan Templates plugin \(com.sn\_task\_plan\_templates\).
 
@@ -144,7 +144,7 @@ sn\_task\_plan.navigation\_menu
 
 </td><td>
 
-Can view the Task Plan Templates [[migration-lists|lists]].
+Can view the Task Plan Templates lists.
 
 </td><td>
 
@@ -152,8 +152,3 @@ sn\_task\_plan.viewer
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[task-plan-templates|Task Plan Templates]]
-- [[migration-lists|Lists]]

@@ -14,7 +14,7 @@ breadcrumb: [Reference, Next Experience for Demand Management in Portfolio Plann
 
 # Next Experience for Demand Management key terms
 
-Important terms in Next Experience for [[c_DemandManagement|Demand Management]] are listed in the table.
+Important terms in Next Experience for Demand Management are listed in the table.
 
 <table id="table_smh_sm1_kp"><thead><tr><th>
 
@@ -100,7 +100,3 @@ A unit of work, created within a demand, to break down initial planning activiti
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_DemandManagement|Demand Management]]

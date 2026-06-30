@@ -16,7 +16,7 @@ breadcrumb: [Error handling and logging, Hardening settings, Platform Security]
 
 Manage Glide System's ability to log scripts being executed in the sandbox environment.
 
-If the **glide.security.sandbox\_no\_logging** system property is set to **false**, then logging is available for low-[[privileged-users|privileged users]] using sandboxed scripts. This property controls your instance's ability to log scripts being executed in the sandbox environment.
+If the **glide.security.sandbox\_no\_logging** system property is set to **false**, then logging is available for low-privileged users using sandboxed scripts. This property controls your instance's ability to log scripts being executed in the sandbox environment.
 
 Ensure that the **glide.security.sandbox\_no\_logging** property is set to **true** in order to prevent low-privileged users using a sandboxed script to have logging functionality.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -94,7 +94,7 @@ Security risk
 
 -   Severity score: 2.2
 -   CVSS score: Low
--   Security risk details: A low-privileged user could inject [[logs|logs]] allowing the malicious user to potentially obfuscate an attack.
+-   Security risk details: A low-privileged user could inject logs allowing the malicious user to potentially obfuscate an attack.
 
 </td></tr><tr><td>
 
@@ -107,9 +107,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Error handling and logging](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-error-handling-logging.md)
 
-## Related
-
-- [[privileged-users|Privileged Users]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]
-- [[logs|Logs]]

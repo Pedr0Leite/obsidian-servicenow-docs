@@ -12,7 +12,7 @@ breadcrumb: [Create a dealer, Set up dealer, Configure, Manufacturing Commercial
 
 # Assign roles
 
-Assign roles to control access to features, capabilities, and data in the [[manufacturing-overview|Manufacturing Commercial Operations]] Core application.
+Assign roles to control access to features, capabilities, and data in the Manufacturing Commercial Operations Core application.
 
 ## Before you begin
 
@@ -28,9 +28,5 @@ Role required: admin or sn\_mfg\_cmn.manufacturing\_operations\_admin
 **Related topics**  
 
 
-[[manufacturing-explore|Explore Manufacturing Commercial Operations]]
+[Explore Manufacturing Commercial Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/manufacturing-explore.md)
 
-## Related
-
-- [[manufacturing-explore|Explore Manufacturing Commercial Operations]]
-- [[manufacturing-overview|Manufacturing Commercial Operations]]

@@ -14,7 +14,7 @@ breadcrumb: [Case and Knowledge Management, HR Service Delivery, Employee Servic
 
 # HR Service Delivery integration with Service Portfolio Management and Digital Portfolio Management
 
-HR Service Delivery integration with Service Portfolio Management and Digital Portfolio Management enables you to manage [[hr-service-administration|HR services]] in a standardized, structured format as suggested in the Common Service Data Model \(CSDM\) methodology. It ensures that the hierarchy in which you define services is consistent with the hierarchy of other business units.
+HR Service Delivery integration with Service Portfolio Management and Digital Portfolio Management enables you to manage HR services in a standardized, structured format as suggested in the Common Service Data Model \(CSDM\) methodology. It ensures that the hierarchy in which you define services is consistent with the hierarchy of other business units.
 
 ## Integration with Service Portfolio Management and Digital Portfolio Management Overview
 
@@ -24,7 +24,7 @@ Larger enterprise customers on their journey to embrace the vision of Enterprise
 
 <table id="table_zhx_1y3_nzb"><thead><tr><th>
 
-[[hr-service-delivery|HR Service Delivery]]
+HR Service Delivery
 
 </th><th>
 
@@ -86,7 +86,4 @@ Next, activate Digital Portfolio Management to view HR services in Digital Portf
 
     **Note:** Demo data for HR CSDM service mappings is available for use.
 
-## Related
 
-- [[hr-service-administration|HR services]]
-- [[hr-service-delivery|HR Service Delivery]]

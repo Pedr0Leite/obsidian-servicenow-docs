@@ -14,11 +14,11 @@ breadcrumb: [HR Administration, Configure, Case and Knowledge Management, HR Ser
 
 # HR notifications
 
-Notifications are reminders that are created using email templates and sent out for **Lifecycle Event Activities** and **[[hr-service-administration|HR Services]]**.
+Notifications are reminders that are created using email templates and sent out for **Lifecycle Event Activities** and **HR Services**.
 
-HR case writers or Lifecycle Event [[activity-lxp|activity]] writers can set up reminder notifications on HR tasks and task templates to remind the **Assigned to** person about due dates. Reminder emails are created using email templates. See [Add or modify email content for notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/CreateModEmailTemplate.md).
+HR case writers or Lifecycle Event activity writers can set up reminder notifications on HR tasks and task templates to remind the **Assigned to** person about due dates. Reminder emails are created using email templates. See [Add or modify email content for notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/CreateModEmailTemplate.md).
 
-HR notifications for HR services are recurring and are a one-time for [[hr-lifecycle-events-landing-page-1|Lifecycle Events]].
+HR notifications for HR services are recurring and are a one-time for Lifecycle Events.
 
 **Note:** To view other notifications, you can navigate to **System Notification** &gt; **Notifications**.
 
@@ -38,8 +38,3 @@ Use the email notification layout and template shipped with the Employee Experie
 
 **Parent Topic:**[HR Administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_AdministerHRServiceManagement.md)
 
-## Related
-
-- [[hr-service-administration|HR services]]
-- [[activity-lxp|Activity]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
